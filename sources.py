@@ -5,61 +5,112 @@
 # B = Established Moroccan news media
 # C = Sports / specialist media
 
-
 SOURCES = [
-
-    # =========================
+    # =====================
     # Official Moroccan sources
-    # =========================
+    # =====================
 
-    ('MAP عربي', 'https://www.mapnews.ma/ar/', 'A'),
+    (
+        'MAP عربي',
+        'https://news.google.com/rss/search?q=site%3Amapnews.ma&hl=ar&gl=MA&ceid=MA%3Ama',
+        'A'
+    ),
 
-    ('SNRTnews عربي', 'https://snrtnews.com/ar/', 'A'),
+    (
+        'SNRTnews عربي',
+        'https://news.google.com/rss/search?q=site%3Asnrtnews.com&hl=ar&gl=MA&ceid=MA%3Ama',
+        'A'
+    ),
 
-
-    # =========================
+    # =====================
     # Major Moroccan Arabic media
-    # =========================
+    # =====================
 
-    ('هسبريس', 'https://www.hespress.com/', 'B'),
+    (
+        'هسبريس',
+        'https://news.google.com/rss/search?q=site%3Ahespress.com&hl=ar&gl=MA&ceid=MA%3Ama',
+        'B'
+    ),
 
-    ('Le360 عربي', 'https://ar.le360.ma/', 'B'),
+    (
+        'Le360 عربي',
+        'https://news.google.com/rss/search?q=site%3Aar.le360.ma&hl=ar&gl=MA&ceid=MA%3Ama',
+        'B'
+    ),
 
-    ('العمق المغربي', 'https://al3omk.com/', 'B'),
+    (
+        'العمق المغربي',
+        'https://news.google.com/rss/search?q=site%3Aal3omk.com&hl=ar&gl=MA&ceid=MA%3Ama',
+        'B'
+    ),
 
-    ('اليوم24', 'https://www.alyaoum24.com/', 'B'),
+    (
+        'اليوم24',
+        'https://news.google.com/rss/search?q=site%3Aalyaoum24.com&hl=ar&gl=MA&ceid=MA%3Ama',
+        'B'
+    ),
 
-    ('أخبارنا المغربية', 'https://www.akhbarona.com/', 'B'),
+    (
+        'أخبارنا المغربية',
+        'https://news.google.com/rss/search?q=site%3Aakhbarona.com&hl=ar&gl=MA&ceid=MA%3Ama',
+        'B'
+    ),
 
-    ('هبة بريس', 'https://ar.hibapress.com/', 'B'),
+    (
+        'هبة بريس',
+        'https://news.google.com/rss/search?q=site%3Ahibapress.com&hl=ar&gl=MA&ceid=MA%3Ama',
+        'B'
+    ),
 
-    ('برلمان', 'https://www.barlamane.com/', 'B'),
+    (
+        'برلمان',
+        'https://news.google.com/rss/search?q=site%3Abarlamane.com&hl=ar&gl=MA&ceid=MA%3Ama',
+        'B'
+    ),
 
-    ('كود', 'https://www.goud.ma/', 'B'),
+    (
+        'كود',
+        'https://news.google.com/rss/search?q=site%3Agoud.ma&hl=ar&gl=MA&ceid=MA%3Ama',
+        'B'
+    ),
 
-    ('كيفاش', 'https://kifache.com/', 'B'),
+    (
+        'كفاش',
+        'https://news.google.com/rss/search?q=site%3Akifache.com&hl=ar&gl=MA&ceid=MA%3Ama',
+        'B'
+    ),
 
-    ('فبراير', 'https://febrayer.com/', 'B'),
+    (
+        'فبراير',
+        'https://news.google.com/rss/search?q=site%3Afebrayer.com&hl=ar&gl=MA&ceid=MA%3Ama',
+        'B'
+    ),
 
-
-    # =========================
+    # =====================
     # Moroccan sports media
-    # =========================
+    # =====================
 
-    ('البطولة', 'https://www.elbotola.com/ar/', 'C'),
+    (
+        'البطولة',
+        'https://news.google.com/rss/search?q=site%3Aelbotola.com&hl=ar&gl=MA&ceid=MA%3Ama',
+        'C'
+    ),
 
-    ('المنتخب', 'https://www.almountakhab.com/', 'C'),
+    (
+        'المنتخب',
+        'https://news.google.com/rss/search?q=site%3Aalmountakhab.com&hl=ar&gl=MA&ceid=MA%3Ama',
+        'C'
+    ),
 ]
 
 
-# =========================================================
+# ============================================================
 # Morocco relevance terms
-# =========================================================
+# ============================================================
 
 MOROCCO_TERMS = [
-
     'المغرب',
-    'المغربي',
+    'مغربي',
     'المغربية',
     'المملكة المغربية',
 
@@ -68,36 +119,32 @@ MOROCCO_TERMS = [
     'مراكش',
     'طنجة',
     'فاس',
-    'أكادير',
     'وجدة',
     'تطوان',
+    'العيون',
     'القنيطرة',
     'سلا',
     'مكناس',
     'الجديدة',
     'الناظور',
     'الحسيمة',
-    'بني ملال',
-    'خريبكة',
-    'آسفي',
-    'الصويرة',
-    'ورزازات',
-    'العيون',
-    'الداخلة',
+    'أكادير',
 
-    'المنتخب المغربي',
+    'الصحراء',
+    'الصحراء المغربية',
+
+    'الحكومة المغربية',
     'المنتخب الوطني',
-    'أسود الأطلس',
+    'المنتخب المغربي',
     'الجامعة الملكية المغربية لكرة القدم',
 ]
 
 
-# =========================================================
+# ============================================================
 # Transfer terms
-# =========================================================
+# ============================================================
 
 TRANSFER_TERMS = [
-
     'انتقال',
     'انتقالات',
     'صفقة',
@@ -117,17 +164,23 @@ TRANSFER_TERMS = [
     'اتفاق',
     'اتفاق مبدئي',
 
-    'توقيع',
+    'نادي',
     'يوقع',
     'وقع',
     'ينضم',
     'انضم',
-    'ضم',
+    'ينتقل',
+    'انتقل',
+    'يقترب',
+    'اقترب',
+    'يرغب',
+    'رغبة',
+    'يريد',
 
     'فحص طبي',
     'وكيل أعمال',
     'وكيل اللاعب',
-    'فسخ العقد',
+    'شرط العقد',
     'كسر العقد',
 
     'لاعب مغربي',
@@ -136,96 +189,243 @@ TRANSFER_TERMS = [
 ]
 
 
-# =========================================================
+# ============================================================
 # Moroccan players
-# =========================================================
+# ============================================================
 
 MOROCCAN_PLAYERS = [
+    # ---------------------
+    # Achraf Hakimi
+    # ---------------------
 
     'أشرف حكيمي',
     'Achraf Hakimi',
+    'Achraf Hakimi',
+
+    # ---------------------
+    # Brahim Diaz
+    # ---------------------
 
     'إبراهيم دياز',
+    'ابراهيم دياز',
     'Brahim Diaz',
+    'Brahim Díaz',
 
-    'سفيان أمرابط',
-    'Sofyan Amrabat',
+    # ---------------------
+    # Noussair Mazraoui
+    # ---------------------
 
     'نصير مزراوي',
     'Noussair Mazraoui',
 
-    'نايف أكرد',
-    'Nayef Aguerd',
+    # ---------------------
+    # Yassine Bounou
+    # ---------------------
 
     'ياسين بونو',
     'Yassine Bounou',
+    'Bono',
 
-    'إلياس بن صغير',
-    'Eliess Ben Seghir',
+    # ---------------------
+    # Hakim Ziyech
+    # ---------------------
 
-    'بلال الخنوس',
-    'Bilal El Khannouss',
+    'حكيم زياش',
+    'Hakim Ziyech',
 
-    'إسماعيل الصيباري',
-    'Ismael Saibari',
+    # ---------------------
+    # Sofyan Amrabat
+    # ---------------------
 
-    'عز الدين أوناحي',
-    'Azzedine Ounahi',
+    'سفيان أمرابط',
+    'Sofyan Amrabat',
+
+    # ---------------------
+    # Sofiane Boufal
+    # ---------------------
 
     'سفيان بوفال',
     'Sofiane Boufal',
 
-    'أيوب الكعبي',
-    'Ayoub El Kaabi',
+    # ---------------------
+    # Azzedine Ounahi
+    # ---------------------
+
+    'عز الدين أوناحي',
+    'عزالدين أوناحي',
+    'Azzedine Ounahi',
+
+    # ---------------------
+    # Bilal El Khannouss
+    # ---------------------
+
+    'بلال الخنوس',
+    'Bilal El Khannouss',
+
+    # ---------------------
+    # Eliesse Ben Seghir
+    # ---------------------
+
+    'إلياس بن صغير',
+    'إلياس بنصغير',
+    'Eliesse Ben Seghir',
+
+    # ---------------------
+    # Abde Ezzalzouli
+    # ---------------------
+
+    'عبد الصمد الزلزولي',
+    'عبدالصمد الزلزولي',
+    'Abde Ezzalzouli',
+    'Abdessamad Ezzalzouli',
+
+    # ---------------------
+    # Youssef En-Nesyri
+    # ---------------------
 
     'يوسف النصيري',
     'Youssef En-Nesyri',
+    'Youssef En Nesyri',
+
+    # ---------------------
+    # Ayoub El Kaabi
+    # ---------------------
+
+    'أيوب الكعبي',
+    'Ayoub El Kaabi',
+
+    # ---------------------
+    # Amine Harit
+    # ---------------------
 
     'أمين حارث',
     'Amine Harit',
 
-    'عبد الصمد الزلزولي',
-    'Abde Ezzalzouli',
+    # ---------------------
+    # Ismael Saibari
+    # ---------------------
 
-    'زكرياء أبو خلال',
-    'Zouhair Aboukhlal',
+    'إسماعيل الصيباري',
+    'إسماعيل صيباري',
+    'Ismael Saibari',
 
-    'شادي رياض',
-    'Chadi Riad',
+    # ---------------------
+    # Bilal El Khannouss
+    # ---------------------
 
-    'عبد الحميد آيت بودلال',
-    'Abdelhamid Ait Boudlal',
+    'بلال الخنوس',
+    'Bilal El Khannouss',
+
+    # ---------------------
+    # Oussama Targhalline
+    # ---------------------
 
     'أسامة ترغالين',
     'Oussama Targhalline',
 
+    # ---------------------
+    # Reda Belahyane
+    # ---------------------
+
+    'رضا بلحيان',
+    'Reda Belahyane',
+
+    # ---------------------
+    # Amir Richardson
+    # ---------------------
+
+    'أمير ريتشاردسون',
+    'Amir Richardson',
+
+    # ---------------------
+    # Zakaria Aboukhlal
+    # ---------------------
+
+    'زكرياء أبو خلال',
+    'Zakaria Aboukhlal',
+
+    # ---------------------
+    # Ilias Akhomach
+    # ---------------------
+
+    'إلياس أخوماش',
+    'Ilias Akhomach',
+
+    # ---------------------
+    # Ismail Kandouss
+    # ---------------------
+
     'إسماعيل قندوس',
-    'Ismael Kandouss',
+    'Ismail Kandouss',
 
-    'إلياس شاعر',
-    'Ilias Chair',
+    # ---------------------
+    # Chadi Riad
+    # ---------------------
 
-    'أمين عدلي',
-    'Amine Adli',
+    'شادي رياض',
+    'Chadi Riad',
 
-    'أسامة الإدريسي',
-    'Oussama Idrissi',
+    # ---------------------
+    # Nayef Aguerd
+    # ---------------------
 
-    'منير الحدادي',
-    'Munir El Haddadi',
+    'نايف أكرد',
+    'Nayef Aguerd',
+
+    # ---------------------
+    # Jawad El Yamiq
+    # ---------------------
 
     'جواد الياميق',
     'Jawad El Yamiq',
 
-    'سفيان الكرواني',
-    'Souffian El Karouani',
+    # ---------------------
+    # Achraf Dari
+    # ---------------------
 
-    'أيوب بوعدي',
-    'Ayoub Bouaddi',
+    'أشرف داري',
+    'Achraf Dari',
 
-    'أنس صلاح الدين',
-    'Anass Salah-Eddine',
+    # ---------------------
+    # Abdelkabir Abqar
+    # ---------------------
 
-    'طه مجني',
-    'Taha Majni',
+    'عبد الكبير عبقار',
+    'Abdelkabir Abqar',
+
+    # ---------------------
+    # Munir El Kajoui
+    # ---------------------
+
+    'منير المحمدي',
+    'Munir El Kajoui',
+    'Munir Mohamedi',
+
+    # ---------------------
+    # Selim Amallah
+    # ---------------------
+
+    'سليم أملاح',
+    'Selim Amallah',
+
+    # ---------------------
+    # Oussama Idrissi
+    # ---------------------
+
+    'أسامة الإدريسي',
+    'Oussama Idrissi',
+
+    # ---------------------
+    # Zakaria El Ouahdi
+    # ---------------------
+
+    'زكرياء الواحدي',
+    'Zakaria El Ouahdi',
+
+    # ---------------------
+    # Bilal El Khannouss
+    # ---------------------
+
+    'بلال الخنوس',
+    'Bilal El Khannouss',
 ]
