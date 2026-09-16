@@ -1,4 +1,4 @@
-name: Morocco News AI
+name: Moroccan News AI
 
 on:
   schedule:
@@ -35,15 +35,16 @@ jobs:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           FROM_EMAIL: ${{ secrets.FROM_EMAIL }}
           TO_EMAIL: yassinehamini9@gmail.com
-                    INTERVAL_MINUTES: "15"
+          INTERVAL_MINUTES: "15"
         run: python run_once.py
-          run: python run_once.py
+
       - name: Export news for website
         run: python export_news.py
-      - name: Save database
+
+      - name: Save database and website data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-                    git add -f data/news.db docs/news.json
+          git add -f data/news.db docs/news.json
           git diff --cached --quiet || git commit -m "Update news database"
           git push
