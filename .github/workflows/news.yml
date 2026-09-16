@@ -36,8 +36,9 @@ jobs:
           FROM_EMAIL: ${{ secrets.FROM_EMAIL }}
           TO_EMAIL: yassinehamini9@gmail.com
           INTERVAL_MINUTES: "15"
-        run: python run_once.py
-
+          run: python run_once.py
+      - name: Export news for website
+        run: python export_news.py
       - name: Save database
         run: |
           git config user.name "github-actions[bot]"
