@@ -25,11 +25,22 @@ def classify(text, source, trust):
     try:
         from openai import OpenAI
         client = OpenAI(api_key=OPENAI_API_KEY)
-        prompt = '''You are a newsroom classifier. Return JSON only.
+        prompt = """أنت محرر أخبار محترف باللغة العربية.
+أعد النتيجة بصيغة JSON فقط.
+
 Fields: category, status, summary, player.
-Categories: عاجل, سياسة, اقتصاد, مجتمع, أمن, ثقافة, رياضة, انتقالات اللاعبين المغاربة, أخرى.
-Statuses: رسمي, مؤكد, اتفاق مبدئي, مفاوضات, اهتمام, عرض, إشاعة, منفي, غير واضح.
-Rules: never upgrade certainty beyond the source. An official club/federation/government statement may be "رسمي". A reputable report about negotiations stays "مفاوضات". If only rumor, use "إشاعة". Keep summary factual and under 60 Arabic words. player should be a Moroccan player name if clearly identified, otherwise empty.'''
+
+مهم جدًا:
+- اكتب category و status و summary باللغة العربية.
+- إذا كان الخبر الأصلي بالفرنسية أو الإنجليزية، ترجم المعلومات المهمة إلى العربية ثم لخّصها.
+- summary يجب أن يكون ملخصًا إخباريًا عربيًا واضحًا ومختصرًا.
+- لا تكتب أي كلمات فرنسية أو إنجليزية داخل summary إلا إذا كان اسم شخص أو نادٍ أو بطولة.
+- لا تغيّر درجة اليقين الموجودة في المصدر.
+- اذكر  المفاوضات باعتبارها تميهدا لما قد يكون اتفاقًا أو انتقالًا رسميًا.
+- player يجب أن يكون اسم اللاعب كما يظهر في المصدر.
+
+Categories: سياسة، اقتصاد، مجتمع، أمن، ثقافة، رياضة، انتقالات اللاعبين، أخرى.
+Statuses: رسمي، مؤكد، اتفاق مبدئي، مفاوضات، اهتمام، عرض، إعارة، تجديد، إشاعة، منفي، غير واضح."""
         r = client.responses.create(model=OPENAI_MODEL, input=[
             {'role':'system','content':prompt},
             {'role':'user','content':text[:7000]}
