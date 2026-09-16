@@ -1,0 +1,44 @@
+import json, re
+from config import OPENAI_API_KEY, OPENAI_MODEL
+from sources import MOROCCAN_PLAYERS, TRANSFER_TERMS
+
+STATUSES = ['رسمي','مؤكد','اتفاق مبدئي','مفاوضات','اهتمام','عرض','إشاعة','منفي','غير واضح']
+
+def _player(text):
+    low = text.lower()
+    for name in MOROCCAN_PLAYERS:
+        if name.lower() in low:
+            return name
+    return ''
+
+def _fallback(text, trust):
+    p = _player(text)
+    transfer = any(x.lower() in text.lower() for x in TRANSFER_TERMS) and bool(p)
+    if transfer:
+        return 'انتقالات اللاعبين المغاربة', ('رسمي' if trust == 'A' and re.search(r'official|announced|signed|وقع|أعلن|officialise', text, re.I) else 'غير واضح'), text[:360], p
+    return 'أخبار المغرب', ('مؤكد' if trust == 'A' else 'غير واضح'), text[:360], p
+
+def classify(text, source, trust):
+    fallback = _fallback(text, trust)
+    if not OPENAI_API_KEY:
+        return fallback
+    try:
+        from openai import OpenAI
+        client = OpenAI(api_key=OPENAI_API_KEY)
+        prompt = '''You are a newsroom classifier. Return JSON only.
+Fields: category, status, summary, player.
+Categories: عاجل, سياسة, اقتصاد, مجتمع, أمن, ثقافة, رياضة, انتقالات اللاعبين المغاربة, أخرى.
+Statuses: رسمي, مؤكد, اتفاق مبدئي, مفاوضات, اهتمام, عرض, إشاعة, منفي, غير واضح.
+Rules: never upgrade certainty beyond the source. An official club/federation/government statement may be "رسمي". A reputable report about negotiations stays "مفاوضات". If only rumor, use "إشاعة". Keep summary factual and under 60 Arabic words. player should be a Moroccan player name if clearly identified, otherwise empty.'''
+        r = client.responses.create(model=OPENAI_MODEL, input=[
+            {'role':'system','content':prompt},
+            {'role':'user','content':text[:7000]}
+        ])
+        data = json.loads(r.output_text)
+        category = data.get('category') or fallback[0]
+        status = data.get('status') if data.get('status') in STATUSES else fallback[1]
+        summary = data.get('summary') or fallback[2]
+        player = data.get('player') or fallback[3]
+        return category, status, summary, player
+    except Exception:
+        return fallback
