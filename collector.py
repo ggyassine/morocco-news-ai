@@ -21,6 +21,59 @@ USER_AGENT = (
 FETCH_TIMEOUT = 10
 
 
+# كلمات المحتوى غير المرغوب فيه
+EXCLUDED_TERMS = [
+    # العقار
+    "شقة للبيع",
+    "شقق للبيع",
+    "شقة للكراء",
+    "شقق للكراء",
+    "عقار",
+    "عقارات",
+    "للبيع",
+    "للشراء",
+    "للكراء",
+    "للإيجار",
+    "إيجار",
+    "كراء",
+    "منزل للبيع",
+    "منازل للبيع",
+    "أرض للبيع",
+    "أراضي للبيع",
+
+    # السيارات والإعلانات التجارية
+    "سيارة للبيع",
+    "سيارات للبيع",
+    "سيارة مستعملة للبيع",
+    "منتجات",
+    "تخفيضات",
+    "عروض تجارية",
+    "عرض تجاري",
+    "إعلان",
+    "إعلانات",
+    "إشهار",
+
+    # الوظائف
+    "وظائف",
+    "وظيفة",
+    "توظيف",
+    "مباراة توظيف",
+    "مطلوب للعمل",
+    "عرض عمل",
+    "عروض العمل",
+    "فرصة عمل",
+    "فرص عمل",
+
+    # محتوى تجاري
+    "متجر",
+    "شراء الآن",
+    "اطلب الآن",
+    "promo",
+    "promotion",
+    "discount",
+]
+
+
 def clean(s):
     s = html.unescape(re.sub(r"<[^>]+>", " ", s or ""))
     return re.sub(r"\s+", " ", s).strip()
@@ -29,9 +82,15 @@ def clean(s):
 def relevant(text):
     t = text.lower()
 
+    # استبعاد المحتوى التجاري والإعلاني
+    if any(term.lower() in t for term in EXCLUDED_TERMS):
+        return False
+
+    # قبول الأخبار المرتبطة بالمغرب
+    # أو اللاعبين المغاربة
     return (
-        any(x.lower() in t for x in MOROCCO_TERMS)
-        or any(x.lower() in t for x in MOROCCAN_PLAYERS)
+        any(term.lower() in t for term in MOROCCO_TERMS)
+        or any(player.lower() in t for player in MOROCCAN_PLAYERS)
     )
 
 
@@ -45,7 +104,11 @@ def fetch_feed(url):
         url,
         headers={
             "User-Agent": USER_AGENT,
-            "Accept": "application/rss+xml, application/xml, text/xml, */*",
+            "Accept": (
+                "application/rss+xml, "
+                "application/xml, "
+                "text/xml, */*"
+            ),
         },
     )
 
@@ -103,6 +166,7 @@ def collect():
                 if not url or not title:
                     continue
 
+                # منع الأخبار الموجودة مسبقًا
                 if exists(url):
                     duplicates += 1
                     continue
@@ -115,6 +179,7 @@ def collect():
                     + e.get("description", "")
                 )
 
+                # فلترة الأخبار
                 if not relevant(text):
                     irrelevant += 1
                     continue
