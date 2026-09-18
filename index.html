@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="لوحة متابعة الأخبار المغربية والرياضية وانتقالات اللاعبين المغاربة">
+  <title>Morocco News AI</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <a class="brand" href="#top" aria-label="Morocco News AI - الرئيسية">
+        <span class="brand-mark">M</span>
+        <span class="brand-copy"><strong>Morocco News AI</strong><small>مرصد الأخبار المغربية</small></span>
+      </a>
+      <nav class="main-nav" aria-label="التصنيفات الرئيسية">
+        <button class="nav-link is-active" data-category="all">الرئيسية</button>
+        <button class="nav-link" data-category="أخبار المغرب">المغرب</button>
+        <button class="nav-link" data-category="رياضة">رياضة</button>
+        <button class="nav-link" data-category="انتقالات اللاعبين">الانتقالات</button>
+      </nav>
+      <div class="header-actions">
+        <button id="refreshBtn" class="icon-button" type="button" title="تحديث الأخبار" aria-label="تحديث الأخبار">↻</button>
+        <button id="themeBtn" class="icon-button" type="button" title="تغيير المظهر" aria-label="تغيير المظهر">☾</button>
+        <button id="menuBtn" class="icon-button menu-button" type="button" aria-label="فتح القائمة">☰</button>
+      </div>
+    </header>
+
+    <section class="breaking-bar" aria-label="أخبار عاجلة">
+      <span class="breaking-label"><i class="live-dot"></i>عاجل</span>
+      <p id="breakingNews">جار تحميل آخر الأخبار…</p>
+    </section>
+
+    <section class="search-area" id="top">
+      <label class="search-box" for="searchInput">
+        <span aria-hidden="true">⌕</span>
+        <input id="searchInput" type="search" placeholder="ابحث عن خبر، لاعب، مصدر…" autocomplete="off">
+        <button id="clearSearch" type="button" aria-label="مسح البحث">×</button>
+      </label>
+      <p class="last-update"><i class="status-dot"></i>آخر تحديث: <strong id="lastUpdate">--</strong></p>
+    </section>
+
+    <main class="dashboard">
+      <aside class="sidebar right-sidebar">
+        <section class="side-card">
+          <h2 class="side-heading">الأقسام</h2>
+          <div class="category-list">
+            <button class="category-item is-active" data-category="all"><span>كل الأخبار</span><strong id="countAll">0</strong></button>
+            <button class="category-item" data-category="أخبار المغرب"><span>أخبار المغرب</span><strong id="countMorocco">0</strong></button>
+            <button class="category-item" data-category="رياضة"><span>رياضة</span><strong id="countSport">0</strong></button>
+            <button class="category-item" data-category="انتقالات اللاعبين"><span>انتقالات اللاعبين</span><strong id="countTransfers">0</strong></button>
+          </div>
+        </section>
+        <section class="side-card">
+          <h2 class="side-heading">المصادر</h2>
+          <div id="sourcesList" class="sources-list"><p class="muted">لا توجد مصادر بعد.</p></div>
+        </section>
+        <section class="side-card radar-card">
+          <span class="radar-icon">◉</span>
+          <h2>الرصد الآلي</h2>
+          <p>يعرض النظام أحدث البيانات المتوفرة في ملف الأخبار.</p>
+          <span class="radar-status"><i class="status-dot"></i>متصل</span>
+        </section>
+      </aside>
+
+      <section class="main-column" aria-live="polite">
+        <article id="heroCard" class="hero-card">
+          <div class="hero-overlay"></div>
+          <span class="hero-badge">الخبر الرئيسي</span>
+          <div class="hero-content">
+            <p class="meta"><span id="heroSource">--</span><b>•</b><span id="heroTime">--</span></p>
+            <h1 id="heroTitle">جار تحميل الأخبار…</h1>
+            <p id="heroSummary">انتظر لحظات لتحميل آخر الأخبار من المصادر.</p>
+            <a id="heroLink" class="read-more" href="#" target="_blank" rel="noopener noreferrer">قراءة الخبر <span>←</span></a>
+          </div>
+        </article>
+
+        <div class="section-header">
+          <div><span class="kicker">NEWS FEED</span><h2>أحدث الأخبار</h2></div>
+          <div class="feed-controls" aria-label="فلترة حالة الأخبار">
+            <button class="feed-filter is-active" data-status="all">الكل</button>
+            <button class="feed-filter" data-status="رسمي">رسمي</button>
+            <button class="feed-filter" data-status="مؤكد">مؤكد</button>
+            <button class="feed-filter" data-status="إشاعة">إشاعة</button>
+          </div>
+        </div>
+        <div id="newsGrid" class="news-grid"></div>
+        <div class="load-more-wrap"><button id="loadMore" class="load-more" type="button">عرض المزيد</button></div>
+      </section>
+
+      <aside class="sidebar left-sidebar">
+        <section class="side-card">
+          <span class="kicker">FOOTBALL</span>
+          <h2 class="side-heading">اللاعبون المغاربة</h2>
+          <div id="playersList" class="players-list"><p class="muted">لا توجد تحديثات للاعبين حاليًا.</p></div>
+        </section>
+        <section class="side-card">
+          <h2 class="side-heading">حالة الأخبار</h2>
+          <dl class="status-list">
+            <div><dt><i class="status-circle official"></i>رسمي</dt><dd id="statusOfficial">0</dd></div>
+            <div><dt><i class="status-circle confirmed"></i>مؤكد</dt><dd id="statusConfirmed">0</dd></div>
+            <div><dt><i class="status-circle negotiation"></i>مفاوضات</dt><dd id="statusNegotiation">0</dd></div>
+            <div><dt><i class="status-circle rumor"></i>إشاعة</dt><dd id="statusRumor">0</dd></div>
+          </dl>
+        </section>
+        <section class="side-card system-card">
+          <div class="system-header"><b>AI</b><div><h2>Morocco News AI</h2><span>News Radar</span></div></div>
+          <div class="system-info"><span>المصادر <strong id="sourceCount">0</strong></span><span>الأخبار <strong id="totalNews">0</strong></span></div>
+          <p class="system-footer"><i class="status-dot"></i>النظام متصل</p>
+        </section>
+      </aside>
+    </main>
+
+    <section id="emptyState" class="empty-state is-hidden">
+      <div>⌕</div><h2>لم يتم العثور على أخبار</h2><p>جرّب تغيير كلمة البحث أو القسم.</p>
+    </section>
+    <footer><strong>Morocco News AI</strong><span>منصة رصد الأخبار المغربية</span><span>News Radar · RTL Arabic · <span id="footerYear"></span></span></footer>
+  </div>
+
+  <aside id="mobileMenu" class="mobile-menu" aria-label="قائمة الهاتف">
+    <div><strong>Morocco News AI</strong><button id="closeMenu" type="button" aria-label="إغلاق القائمة">×</button></div>
+    <button data-category="all">الرئيسية</button>
+    <button data-category="أخبار المغرب">أخبار المغرب</button>
+    <button data-category="رياضة">الرياضة</button>
+    <button data-category="انتقالات اللاعبين">الانتقالات</button>
+  </aside>
+  <div id="toast" class="toast" role="status"></div>
+  <script src="app.js"></script>
+</body>
+</html>
