@@ -13,19 +13,10 @@ from classifier import classify
 from config import MAX_ITEMS_PER_SOURCE
 
 
-USER_AGENT = (
-    "Mozilla/5.0 (compatible; MoroccoNewsAI/1.0; "
-    "+https://github.com/ggyassine/morocco-news-ai)"
-)
-
-FETCH_TIMEOUT = 10
-
-
 # ============================================================
 # SOURCE GROUPS
 # ============================================================
 
-# 🇲🇦 أخبار المغرب
 MOROCCO_SOURCES = {
     "MAP عربي",
     "SNRTnews عربي",
@@ -43,8 +34,6 @@ MOROCCO_SOURCES = {
     "المنتخب",
 }
 
-
-# 🌐 الشرق الأوسط
 MIDDLE_EAST_SOURCES = {
     "الجزيرة",
     "العربية",
@@ -54,8 +43,6 @@ MIDDLE_EAST_SOURCES = {
     "العربي الجديد",
 }
 
-
-# 🌍 العالم بالعربية
 WORLD_ARABIC_SOURCES = {
     "القدس العربي",
     "فرانس 24 عربي",
@@ -66,8 +53,6 @@ WORLD_ARABIC_SOURCES = {
     "CNN بالعربية",
 }
 
-
-# 🔎 مصادر دولية للتحقق والرصد
 INTERNATIONAL_SOURCES = {
     "Reuters",
     "Associated Press",
@@ -75,36 +60,347 @@ INTERNATIONAL_SOURCES = {
 
 
 # ============================================================
-# CLEAN TEXT
+# BLOCKED CONTENT
 # ============================================================
 
-def clean(s):
+# كلمات غالبًا تدل على عقار أو إعلان أو محتوى تجاري
+BLOCKED_TERMS = [
+    "immobilier",
+    "immobilière",
+    "immobilier",
+    "عقار",
+    "عقارات",
+    "شقة للبيع",
+    "شقق للبيع",
+    "منزل للبيع",
+    "دار للبيع",
+    "أرض للبيع",
+    "بقعة للبيع",
+    "كراء",
+    "للإيجار",
+    "للبيع",
+    "للبيع",
+    "ثمن المتر",
+    "متر مربع",
+    "غرف",
+    "غرفة",
+    "résidence",
+    "appartement",
+    "villa",
+    "maison",
+    "terrain",
+    "location",
+    "annonce",
+    "annonces",
+    "promotion immobilière",
+    "promoteur immobilier",
+]
+
+# كلمات تشير غالبًا إلى إعلانات أو محتوى تجاري
+COMMERCIAL_TERMS = [
+    "promo",
+    "promotion",
+    "offre spéciale",
+    "offre commerciale",
+    "shopping",
+    "boutique",
+    "catalogue",
+    "produit",
+    "produits",
+    "prix",
+    "acheter",
+    "achat",
+    "vente",
+    "service commercial",
+    "إعلان",
+    "إعلانات",
+    "عرض خاص",
+    "منتج",
+    "منتجات",
+    "تخفيض",
+    "تخفيضات",
+    "تسوق",
+    "متجر",
+]
+
+
+# ============================================================
+# NEWS TERMS
+# ============================================================
+
+NEWS_TERMS = [
+    "المغرب",
+    "مغربي",
+    "مغربية",
+    "الرباط",
+    "الدار البيضاء",
+    "طنجة",
+    "فاس",
+    "مراكش",
+    "أكادير",
+    "وجدة",
+    "الحكومة",
+    "البرلمان",
+    "مجلس النواب",
+    "مجلس المستشارين",
+    "وزارة",
+    "وزير",
+    "رئيس الحكومة",
+    "سياسة",
+    "سياسي",
+    "اقتصاد",
+    "اقتصادي",
+    "اجتماع",
+    "اجتماعات",
+    "قرار",
+    "قرارات",
+    "مشروع قانون",
+    "قانون",
+    "انتخابات",
+    "مجلس",
+    "أمن",
+    "شرطة",
+    "قضاء",
+    "محكمة",
+    "حادث",
+    "حريق",
+    "زلزال",
+    "فيضانات",
+    "طقس",
+    "تعليم",
+    "جامعة",
+    "صحة",
+    "ثقافة",
+    "فن",
+    "سينما",
+    "سياحة",
+    "سياحي",
+    "سياح",
+    "رياضة",
+    "كرة القدم",
+    "كرة السلة",
+    "منتخب",
+    "الوداد",
+    "الرجاء",
+    "الجيش الملكي",
+    "نهضة بركان",
+    "البطولة",
+    "دوري",
+    "كأس",
+    "مباراة",
+    "لاعب",
+    "مدرب",
+    "انتقال",
+    "مفاوضات",
+    "توقيع",
+    "إعارة",
+]
+
+
+TRANSFER_TERMS = [
+    "transfer",
+    "transfers",
+    "transfert",
+    "transferts",
+    "mercato",
+    "انتقال",
+    "انتقالات",
+    "مفاوضات",
+    "عرض",
+    "توقيع",
+    "يوقع",
+    "وقع",
+    "إعارة",
+    "إعاره",
+    "اهتمام",
+    "يرغب",
+    "صفقة",
+    "عقد",
+    "تجديد",
+    "رحيل",
+    "مغادرة",
+    "وجهة",
+]
+
+
+SPORT_TERMS = [
+    "رياضة",
+    "رياضي",
+    "كرة القدم",
+    "كرة السلة",
+    "منتخب",
+    "مباراة",
+    "مباريات",
+    "دوري",
+    "كأس",
+    "بطولة",
+    "لاعب",
+    "مدرب",
+    "هدف",
+    "أهداف",
+    "فوز",
+    "هزيمة",
+    "تعادل",
+    "champions",
+    "football",
+    "sport",
+    "match",
+    "league",
+    "cup",
+]
+
+
+# ============================================================
+# HELPERS
+# ============================================================
+
+def clean_text(value):
     """
     تنظيف النص من HTML والمسافات الزائدة.
     """
 
-    s = html.unescape(
-        re.sub(
-            r"<[^>]+>",
-            " ",
-            s or ""
-        )
+    if not value:
+        return ""
+
+    value = html.unescape(str(value))
+
+    value = re.sub(
+        r"<[^>]+>",
+        " ",
+        value
     )
 
-    return re.sub(
+    value = re.sub(
         r"\s+",
         " ",
-        s
-    ).strip()
+        value
+    )
+
+    return value.strip()
 
 
-# ============================================================
-# SOURCE GROUP
-# ============================================================
-
-def get_source_group(source):
+def normalize_text(value):
     """
-    تحديد المجموعة التي ينتمي إليها المصدر.
+    توحيد النص لتسهيل المقارنة.
+    """
+
+    value = clean_text(value).lower()
+
+    replacements = {
+        "أ": "ا",
+        "إ": "ا",
+        "آ": "ا",
+        "ى": "ي",
+        "ة": "ه",
+    }
+
+    for old, new in replacements.items():
+        value = value.replace(old, new)
+
+    return value
+
+
+def item_text(entry):
+    """
+    يجمع العنوان والوصف والمصدر في نص واحد.
+    """
+
+    title = clean_text(
+        entry.get("title", "")
+    )
+
+    summary = clean_text(
+        entry.get("summary", "")
+    )
+
+    description = clean_text(
+        entry.get("description", "")
+    )
+
+    return normalize_text(
+        f"{title} {summary} {description}"
+    )
+
+
+def contains_any(text, terms):
+    """
+    هل يحتوي النص على واحدة من الكلمات؟
+    """
+
+    for term in terms:
+
+        normalized_term = normalize_text(term)
+
+        if normalized_term and normalized_term in text:
+            return True
+
+    return False
+
+
+def contains_player(text):
+    """
+    البحث عن لاعب مغربي معروف في الخبر.
+    """
+
+    for player in MOROCCAN_PLAYERS:
+
+        player_normalized = normalize_text(
+            player
+        )
+
+        if (
+            player_normalized
+            and player_normalized in text
+        ):
+            return True
+
+    return False
+
+
+def is_blocked_content(text):
+    """
+    منع المحتوى العقاري والتجاري.
+    """
+
+    if contains_any(text, BLOCKED_TERMS):
+        return True
+
+    # نمنع المحتوى التجاري عندما تظهر عدة مؤشرات تجارية
+    commercial_matches = 0
+
+    for term in COMMERCIAL_TERMS:
+
+        normalized_term = normalize_text(term)
+
+        if (
+            normalized_term
+            and normalized_term in text
+        ):
+            commercial_matches += 1
+
+    return commercial_matches >= 2
+
+
+def looks_like_news(text):
+    """
+    التحقق من أن المحتوى يبدو خبرًا وليس إعلانًا.
+    """
+
+    if not text:
+        return False
+
+    if is_blocked_content(text):
+        return False
+
+    return contains_any(
+        text,
+        NEWS_TERMS
+    )
+
+
+def source_group(source):
+    """
+    تحديد مجموعة المصدر.
     """
 
     if source in MOROCCO_SOURCES:
@@ -126,115 +422,204 @@ def get_source_group(source):
 # RELEVANCE
 # ============================================================
 
-def relevant(text, source):
+def relevant(entry, source):
     """
-    تحديد ما إذا كان الخبر يستحق الحفظ.
+    تحديد ما إذا كان الخبر يستحق الدخول إلى النظام.
     """
 
-    t = text.lower()
+    text = item_text(entry)
 
-    # 🇲🇦 أخبار المغرب
-    if source in MOROCCO_SOURCES:
-        return (
-            any(
-                term.lower() in t
-                for term in MOROCCO_TERMS
-            )
-            or any(
-                player.lower() in t
-                for player in MOROCCAN_PLAYERS
-            )
-        )
+    if not text:
+        return False
 
-    # 🌐 الشرق الأوسط
-    if source in MIDDLE_EAST_SOURCES:
-        return True
+    # أولًا: منع الإعلانات والعقار
+    if is_blocked_content(text):
+        return False
 
-    # 🌍 العالم بالعربية
-    if source in WORLD_ARABIC_SOURCES:
-        return True
+    group = source_group(source)
 
-    # 🔎 المصادر الدولية
-    if source in INTERNATIONAL_SOURCES:
-        return True
+    # --------------------------------------------------------
+    # المصادر المغربية
+    # --------------------------------------------------------
 
-    # مصدر غير معروف
+    if group == "morocco":
+
+        # يجب أن يكون الخبر مرتبطًا بالمغرب
+        # أو بلاعب مغربي
+        if (
+            contains_any(text, MOROCCO_TERMS)
+            or contains_player(text)
+        ):
+            return True
+
+        # أخبار الرياضة المغربية
+        if contains_any(text, SPORT_TERMS):
+            return True
+
+        return False
+
+    # --------------------------------------------------------
+    # الشرق الأوسط
+    # --------------------------------------------------------
+
+    if group == "middle_east":
+
+        # نأخذ فقط الأخبار التي لها صلة بالمغرب
+        # أو الرياضة أو اللاعبين المغاربة
+        if contains_any(text, MOROCCO_TERMS):
+            return True
+
+        if contains_player(text):
+            return True
+
+        if contains_any(text, TRANSFER_TERMS):
+            return True
+
+        return False
+
+    # --------------------------------------------------------
+    # العالم العربي
+    # --------------------------------------------------------
+
+    if group == "world_arabic":
+
+        if contains_any(text, MOROCCO_TERMS):
+            return True
+
+        if contains_player(text):
+            return True
+
+        if contains_any(text, TRANSFER_TERMS):
+            return True
+
+        return False
+
+    # --------------------------------------------------------
+    # Reuters / AP
+    # --------------------------------------------------------
+
+    if group == "international":
+
+        if contains_any(text, MOROCCO_TERMS):
+            return True
+
+        if contains_player(text):
+            return True
+
+        if contains_any(text, TRANSFER_TERMS):
+            return True
+
+        return False
+
+    # --------------------------------------------------------
+    # fallback
+    # --------------------------------------------------------
+
     return (
-        any(
-            term.lower() in t
-            for term in MOROCCO_TERMS
-        )
-        or any(
-            player.lower() in t
-            for player in MOROCCAN_PLAYERS
-        )
+        contains_any(text, MOROCCO_TERMS)
+        or contains_player(text)
     )
 
 
 # ============================================================
-# FETCH RSS
+# RSS
 # ============================================================
 
 def fetch_feed(url):
     """
-    تحميل RSS مع User-Agent.
+    جلب RSS مع User-Agent مناسب.
     """
 
     request = Request(
         url,
         headers={
-            "User-Agent": USER_AGENT,
-            "Accept": (
-                "application/rss+xml, "
-                "application/xml, "
-                "text/xml, "
-                "*/*"
-            ),
-        },
+            "User-Agent": (
+                "Mozilla/5.0 "
+                "(compatible; MoroccoNewsAI/1.0)"
+            )
+        }
     )
 
     try:
 
         with urlopen(
             request,
-            timeout=FETCH_TIMEOUT
+            timeout=20
         ) as response:
 
             data = response.read()
 
         return feedparser.parse(data)
 
-    except HTTPError as ex:
+    except HTTPError as error:
 
         print(
-            f"RSS HTTP error: {ex.code} - {url}"
+            f"HTTP error while fetching {url}: "
+            f"{error.code}"
         )
 
         return None
 
-    except URLError as ex:
+    except URLError as error:
 
         print(
-            f"RSS URL error: {ex.reason} - {url}"
+            f"URL error while fetching {url}: "
+            f"{error}"
         )
 
         return None
 
-    except TimeoutError:
+    except Exception as error:
 
         print(
-            f"RSS TIMEOUT: {url}"
+            f"Feed error while fetching {url}: "
+            f"{error}"
         )
 
         return None
 
-    except Exception as ex:
 
-        print(
-            f"RSS error: {url} - {ex}"
-        )
+# ============================================================
+# DATE
+# ============================================================
 
-        return None
+def published_date(entry):
+    """
+    استخراج تاريخ النشر.
+    """
+
+    for field in (
+        "published",
+        "updated",
+        "created",
+    ):
+
+        value = entry.get(field)
+
+        if value:
+            return value
+
+    return datetime.now(
+        timezone.utc
+    ).isoformat()
+
+
+# ============================================================
+# HASH
+# ============================================================
+
+def make_content_hash(title, summary):
+    """
+    إنشاء بصمة للمحتوى لمنع التكرار.
+    """
+
+    raw = normalize_text(
+        f"{title}|{summary}"
+    )
+
+    return hashlib.sha256(
+        raw.encode("utf-8")
+    ).hexdigest()
 
 
 # ============================================================
@@ -243,169 +628,208 @@ def fetch_feed(url):
 
 def collect():
 
-    fresh = []
+    new_items = []
 
-    for source, rss, trust in SOURCES:
+    total_seen = 0
+    total_blocked = 0
+    total_relevant = 0
 
-        print(
-            f"\n[{source}] Checking RSS..."
-        )
+    print("=" * 60)
+    print("Morocco News AI - News Collector")
+    print("=" * 60)
 
-        feed = fetch_feed(rss)
+    for source in SOURCES:
 
-        if feed is None:
+        try:
+
+            name = source["name"]
+            rss_url = source["url"]
+
+        except Exception:
 
             print(
-                f"[{source}] SKIPPED"
+                f"Invalid source configuration: {source}"
             )
 
+            continue
+
+        print()
+        print(f"[SOURCE] {name}")
+
+        feed = fetch_feed(rss_url)
+
+        if not feed:
+
+            print("  Feed unavailable")
             continue
 
         entries = feed.entries[
             :MAX_ITEMS_PER_SOURCE
         ]
 
-        total = len(entries)
+        source_count = 0
 
-        duplicates = 0
-        irrelevant = 0
-        accepted = 0
+        for entry in entries:
 
-        group = get_source_group(source)
+            total_seen += 1
 
-        print(
-            f"[{source}] Group: {group}"
-        )
+            title = clean_text(
+                entry.get("title", "")
+            )
 
-        print(
-            f"[{source}] RSS entries: {total}"
-        )
+            url = (
+                entry.get("link")
+                or entry.get("url")
+                or ""
+            )
 
-        for e in entries:
+            summary = clean_text(
+                entry.get("summary", "")
+            )
 
-            try:
+            description = clean_text(
+                entry.get("description", "")
+            )
 
-                url = e.get(
-                    "link",
-                    ""
-                ).strip()
+            if not title or not url:
+                continue
 
-                title = clean(
-                    e.get(
-                        "title",
-                        ""
-                    )
-                )
+            # ------------------------------------------------
+            # منع التكرار بالرابط
+            # ------------------------------------------------
 
-                if not url or not title:
-                    continue
+            if exists(url):
+                continue
 
-                # منع التكرار
-                if exists(url):
+            text = normalize_text(
+                f"{title} {summary} {description}"
+            )
 
-                    duplicates += 1
+            # ------------------------------------------------
+            # منع الإعلانات والعقار
+            # ------------------------------------------------
 
-                    continue
+            if is_blocked_content(text):
 
-                # النص المستخدم للتحقق
-                text = clean(
-                    title
-                    + " "
-                    + e.get(
-                        "summary",
-                        ""
-                    )
-                    + " "
-                    + e.get(
-                        "description",
-                        ""
-                    )
-                )
-
-                # فلترة الخبر
-                if not relevant(
-                    text,
-                    source
-                ):
-
-                    irrelevant += 1
-
-                    continue
-
-                # التصنيف
-                category, status, summary, player = classify(
-                    text,
-                    source,
-                    trust
-                )
-
-                published = e.get(
-                    "published",
-                    e.get(
-                        "updated",
-                        ""
-                    )
-                )
-
-                item = {
-
-                    "title": title,
-
-                    "url": url,
-
-                    "source": source,
-
-                    "trust": trust,
-
-                    "published": published,
-
-                    "discovered": (
-                        datetime.now(
-                            timezone.utc
-                        ).isoformat()
-                    ),
-
-                    "category": category,
-
-                    "status": status,
-
-                    "summary": summary,
-
-                    "player": player,
-
-                    "source_group": group,
-
-                    "content_hash": hashlib.sha256(
-                        text.encode(
-                            "utf-8"
-                        )
-                    ).hexdigest(),
-                }
-
-                add(item)
-
-                fresh.append(item)
-
-                accepted += 1
-
-            except Exception as ex:
+                total_blocked += 1
 
                 print(
-                    f"[{source}] Article error: {ex}"
+                    f"  BLOCKED: {title[:90]}"
                 )
 
                 continue
 
+            # ------------------------------------------------
+            # التحقق من الصلة
+            # ------------------------------------------------
+
+            if not relevant(
+                entry,
+                name
+            ):
+
+                continue
+
+            total_relevant += 1
+
+            # ------------------------------------------------
+            # إنشاء العنصر
+            # ------------------------------------------------
+
+            item = {
+                "title": title,
+                "url": url,
+                "source": name,
+                "published": published_date(
+                    entry
+                ),
+                "discovered": datetime.now(
+                    timezone.utc
+                ).isoformat(),
+                "summary": summary,
+                "description": description,
+                "content_hash": make_content_hash(
+                    title,
+                    summary
+                ),
+                "source_group": source_group(
+                    name
+                ),
+            }
+
+            # ------------------------------------------------
+            # التصنيف المحلي
+            # ------------------------------------------------
+
+            try:
+
+                classified = classify(
+                    item
+                )
+
+                if classified:
+
+                    item.update(
+                        classified
+                    )
+
+            except Exception as error:
+
+                print(
+                    f"  Classification error: {error}"
+                )
+
+            # ------------------------------------------------
+            # حفظ
+            # ------------------------------------------------
+
+            try:
+
+                add(item)
+
+                new_items.append(item)
+
+                source_count += 1
+
+                print(
+                    f"  + {title[:90]}"
+                )
+
+            except Exception as error:
+
+                print(
+                    f"  Database error: {error}"
+                )
+
         print(
-            f"[{source}] "
-            f"duplicates={duplicates} "
-            f"irrelevant={irrelevant} "
-            f"accepted={accepted}"
+            f"  New items: {source_count}"
         )
 
+    # ========================================================
+    # SUMMARY
+    # ========================================================
+
+    print()
+    print("=" * 60)
+    print("COLLECTION SUMMARY")
+    print("=" * 60)
+
     print(
-        f"\nTOTAL new relevant items: "
-        f"{len(fresh)}"
+        f"Items scanned: {total_seen}"
     )
 
-    return fresh
+    print(
+        f"Blocked items: {total_blocked}"
+    )
+
+    print(
+        f"Relevant items: {total_relevant}"
+    )
+
+    print(
+        f"New items saved: {len(new_items)}"
+    )
+
+    print("=" * 60)
+
+    return new_items
