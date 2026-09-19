@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19T22:27:16.979836+00:00",
-  "total": 21,
+  "updated": "2026-09-19T22:38:28.769041+00:00",
+  "total": 24,
   "sections": {
     "morocco": [
       {
@@ -37,6 +37,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 2875,
+        "title": "أخبار و معلومات اللاعب مهدي حميدان مهاجم القادسية winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOR2ZxUWRfZndKdk9xLTlTemg1MmJuNXR1WElxaGVORFBCVGdKQUNINEc3QjhrUFp2VlNhVjhoTHVOYl9LTDlld09BX1JvRzlmSVJseE5oaGhvU1dYQjJwY0hiWk92RHljVkZjMmdHMV9jY0ZLcXIzUEp2bHp6anBnaXN4bGNXWm9WUjF4TlgzaW1LczRPb2dhZ3EzLXdFNDV1SkhLSmtyYW5fX05xS193MjJDamF6R0JkMGh1M1cxN2puWk1DQWNxWlRtbkdYR2tUVGRSdzh2YXBqbXRYckNPcmJRSlV3NnZmMU1uS0ZmbjNxWFdVYjVWcmNGQlJKZ2p0?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Sat, 19 Sep 2026 22:27:33 GMT",
+        "discovered": "2026-09-19T22:38:12.295904+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب مهدي حميدان مهاجم القادسية winwin winwin.com",
+        "player": "",
+        "content_hash": "708e0bbb918a4fca7d315a081276c4d532244d8fc53071b606887706319dcf01",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 2874,
+        "title": "أخبار و معلومات اللاعب عمر صابر لاعب وسط المحرق winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZC0tTk1RdkJqamNXVTVOeGJhNEhYeG5HeDVuMG9fRnpKWDBtdVhlMWdyN1F1SkdSc0pLZlNWTlpIRnN1UzQ4RmdaTnF3UWNXTTdoVDM3Nzg1bjJ6RzNqM2QwSl96MVN4SVVTRGlZQklGTVA4QVZBMnMzVkxtNGJQTW9hUVFuTVllVEhvMWFUSEJzTzlIS1lHamdfenBYMmR4aTRqSUtTNm1neFZHMW9uOFdoQjBoRnZsRWhUcHdZRnhjbGh6cmVib3E3anRJMU1PUjhUQlhlS0M2elZZLWRxN0lsZGV3Vlhr?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Sat, 19 Sep 2026 22:27:33 GMT",
+        "discovered": "2026-09-19T22:38:12.283826+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب عمر صابر لاعب وسط المحرق winwin winwin.com",
+        "player": "",
+        "content_hash": "5adf29691323fd2be759cc4ce86befdfc33a67d8500fb0bf7b64a351e02a9e53",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 2872,
         "title": "مباراة فريقي هارت أوف ميدلوثيان و سانت ميرين في بطولة الدوري الاسكتلندي - الأسبوع 8 - FilGoal",
@@ -130,6 +162,22 @@
         "summary": "صحوة طرابزون وهدية لبشكتاش.. جدول ترتيب الدوري التركي بعد سقوط جالاتا سراي يلاكورة",
         "player": "",
         "content_hash": "c777b12a70c29228a6898826c2f146916c1b5cace92ba678a86ea8a2acbf7093",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 2876,
+        "title": "ذا صن تكشف.. دي زيربي رفض الحديث مع لاعبي توتنهام بعد الخسارة أمام أستون فيلا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxQZXUwTThBcFBfbXI2OGMyMXhMaExOczZxNkFhVm5WZEhYLUtnalIzZUR1U2pMQ2tucFpqYVdBWkFkVGhGRW1BcURVZDNyYkpJaWtESks3MDNYOUkyVnhKUjRuWmhVamUtN2VmMEU3MGhuSVhnb0lGWFFsWllhaURWZFcyMEdZSEkzdXIyUVpCamN6czNkX29yWHBnWC1nOEdJVGlLellUd0lMMi1tbUpaQ2xvT3pzbjU1Wktrc19CZVE2b1RnLWZVby1FNEh5Mlg2ZEdfVlE1ZW1mZHlTUU5FUjFnTUxhaWhaczV3c0YzWUxwZ21zVUpGc0w4QjczTF80SXBsOEhEX0Q4Rk5lU1NfeWl4Y19lSURrZmYyTldObVdTcVVDalpSSEU2UVJpX3IwLXRBVDZHRnM4SWt4RlRET2NqQmk2cVltbDhWMDBjZVlQc0NjeXl5V1dEY3hBUlU1SXNnTElfTkpQLWM3MW1lOE5xTVBzd0dwTzI5YjJ1SnkyM0YzUU5BU2ttQm9oMFN6QmR4R0thRnpYM21ON3RRRm5lLVplWDRPemZwV2JVZTN5VEhuRWkxMWtpZFgtSG9YRWw1czJHZTVmb0tKZjM4RE9ldFpEblJQbW9xaUV2aDExa3JzZnFaTUpYZmh6Q1VQZzNOOHFHTHFWUmtFa0FWQkZnU3ZmLUM4NldJWDBDOWFkMHFsbHFFWnBHeTZLeXVrMnM2aUlJM2VTa1U1Mi1lYUlIR0N3OGQ5YlpkajdFaS15UUF1NEZIamdONEFUdkp1aHJrYkhB0gHbBEFVX3lxTE4wLUpqUzJWemdYUUhIZThFaG53SV9nd053a1dSM2xPSjVZaUZYUi1kQVZLSTVBd3dVbU5tNXR1ZV9FVzYwbEVsY1U4azY5ZG5ncXZPRHNmb3NGM1VkRTdJRXZoc3dPOXdldzVCcnNuOGdwcDJPcXpZenZmekhVejBlWklHY0JWU0hpM0F0NkJIMjN5STNIMk43R0xOZG1YTm5kaXRqV2tUd3NJZFo1RjkzVW5zT21nSEp1RldKN2hBa0VSMllQRmE3LWFzazJpdnkyaW5lVzJ6eEN2dWpvM3JpUVZ3bGpMMlV1cFM2N3VlNU00LXlTdC1aVy1mbll5Y2ZWSWNjejE0YVBzRnBoR2JuMFlrTHlPZV9UZTZkeEFmLTAxcWpKUFNrVVktTDh3ZHhjT3R1cHFEaHdqUVhtZzBOQlc0dlFjSWRjb2dacW1IbFJHc1RTU2g5T3c1c05pdHJ4N3FOcXpQbGFRU3Y4LWhRS0ZEQUFkTzZTOXVzWEJ5WVlaWjRnVXE5RnNCdmpMZmdVRTRUblJaeFpxbFVJaUxYMTZuWGc1bXZHN3ZXc09nTkktdk1CNXRpN3Jxc2JFamZ4OUExY01HVUFJX2xxd0VodDEtMEc1dzZlMkExVk9kV2x1cVl5OFhwbklReVJibUJQV1R3YkFUTmgtcU5HdE91Wm9IanNIZWFkb19OZ18ySHd3SERqdUh5TXdfaENUcV9HT3FlWC1BaGlPb2VnRDJpaXNNZUd2RU5XQWZ4eUtqZ0JNZkFaODd0Q3U5dlhUYlVlRHRJZTd0b0w0aw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 19 Sep 2026 20:34:00 GMT",
+        "discovered": "2026-09-19T22:38:12.975149+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ذا صن تكشف.. دي زيربي رفض الحديث مع لاعبي توتنهام بعد الخسارة أمام أستون فيلا يلاكورة",
+        "player": "",
+        "content_hash": "adf772bfa9fd33d126a9e84aa95e5d5d96308878b573ef7bb54dc5947d720575",
         "sent": 0,
         "section": "sports"
       },
