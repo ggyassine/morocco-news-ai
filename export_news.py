@@ -1,10 +1,19 @@
 import json
+from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 
 from db import recent
 
 
 MAX_PER_SECTION = 30
 MAX_TOTAL = 150
+
+# ============================================================
+# الأخبار الظاهرة في الموقع
+# آخر 24 ساعة فقط
+# ============================================================
+
+MAX_NEWS_AGE_HOURS = 24
 
 
 # ============================================================
@@ -93,16 +102,27 @@ def item_text(item):
     )
 
 
+# ============================================================
+# BLOCKED CONTENT
+# ============================================================
+
 def is_blocked(item):
+
     text = item_text(item)
 
-    # عقار وإعلانات عقارية
+    # --------------------------------------------------------
+    # العقارات
+    # --------------------------------------------------------
+
     for term in BLOCKED_TERMS:
 
         if normalize_text(term) in text:
             return True
 
-    # محتوى تجاري واضح
+    # --------------------------------------------------------
+    # المحتوى التجاري
+    # --------------------------------------------------------
+
     matches = 0
 
     for term in COMMERCIAL_TERMS:
@@ -114,34 +134,184 @@ def is_blocked(item):
 
 
 # ============================================================
+# DATE PARSER
+# ============================================================
+
+def parse_date(value):
+    """
+    محاولة قراءة تاريخ الخبر من عدة صيغ.
+    """
+
+    if not value:
+        return None
+
+    value = str(value).strip()
+
+    # --------------------------------------------------------
+    # ISO
+    # --------------------------------------------------------
+
+    try:
+
+        date = datetime.fromisoformat(
+            value.replace("Z", "+00:00")
+        )
+
+        if date.tzinfo is None:
+
+            date = date.replace(
+                tzinfo=timezone.utc
+            )
+
+        return date.astimezone(
+            timezone.utc
+        )
+
+    except Exception:
+        pass
+
+    # --------------------------------------------------------
+    # RSS / RFC
+    # --------------------------------------------------------
+
+    try:
+
+        date = parsedate_to_datetime(
+            value
+        )
+
+        if date.tzinfo is None:
+
+            date = date.replace(
+                tzinfo=timezone.utc
+            )
+
+        return date.astimezone(
+            timezone.utc
+        )
+
+    except Exception:
+        pass
+
+    # --------------------------------------------------------
+    # تواريخ بسيطة
+    # --------------------------------------------------------
+
+    formats = [
+        "%Y/%m/%d",
+        "%Y-%m-%d",
+        "%d/%m/%Y",
+        "%d-%m-%Y",
+    ]
+
+    for fmt in formats:
+
+        try:
+
+            date = datetime.strptime(
+                value[:10],
+                fmt
+            )
+
+            return date.replace(
+                tzinfo=timezone.utc
+            )
+
+        except Exception:
+            pass
+
+    return None
+
+
+# ============================================================
+# RECENCY
+# ============================================================
+
+def is_recent(item):
+    """
+    الاحتفاظ فقط بالأخبار المنشورة خلال آخر 24 ساعة.
+
+    إذا تعذر قراءة التاريخ، نحتفظ بالخبر
+    حتى لا نخسر خبرًا مهمًا بسبب صيغة تاريخ غير معروفة.
+    """
+
+    published = item.get(
+        "published"
+    )
+
+    date = parse_date(
+        published
+    )
+
+    # إذا لم نستطع معرفة التاريخ
+    # لا نحذف الخبر
+    if date is None:
+        return True
+
+    now = datetime.now(
+        timezone.utc
+    )
+
+    age_seconds = (
+        now - date
+    ).total_seconds()
+
+    # أخبار مستقبلية بسبب خطأ في المصدر
+    # يتم تجاهلها
+    if age_seconds < 0:
+        return False
+
+    # آخر 24 ساعة فقط
+    return age_seconds <= (
+        MAX_NEWS_AGE_HOURS * 60 * 60
+    )
+
+
+# ============================================================
 # CATEGORY
 # ============================================================
 
 def section_for(item):
 
     category = normalize_text(
-        item.get("category", "")
+        item.get(
+            "category",
+            ""
+        )
     )
 
     source_group = normalize_text(
-        item.get("source_group", "")
+        item.get(
+            "source_group",
+            ""
+        )
     )
 
+    # --------------------------------------------------------
     # انتقالات اللاعبين
+    # --------------------------------------------------------
+
     if (
         "انتقالات" in category
         or "transfer" in category
     ):
         return "transfers"
 
+    # --------------------------------------------------------
     # الرياضة
+    # --------------------------------------------------------
+
     if (
-        "رياضة" in category
+        "رياضه" in category
+        or "رياضة" in category
         or "sport" in category
     ):
         return "sports"
 
+    # --------------------------------------------------------
     # أخبار المغرب
+    # --------------------------------------------------------
+
     if (
         "اخبار المغرب" in category
         or "المغرب" in category
@@ -149,21 +319,30 @@ def section_for(item):
     ):
         return "morocco"
 
+    # --------------------------------------------------------
     # الشرق الأوسط
+    # --------------------------------------------------------
+
     if (
         "الشرق الاوسط" in category
         or source_group == "middle_east"
     ):
         return "middle_east"
 
+    # --------------------------------------------------------
     # العالم العربي
+    # --------------------------------------------------------
+
     if (
         "العالم" in category
         or source_group == "world_arabic"
     ):
         return "world_arabic"
 
+    # --------------------------------------------------------
     # المصادر الدولية
+    # --------------------------------------------------------
+
     if source_group == "international":
         return "world_arabic"
 
@@ -184,15 +363,69 @@ items = recent(500)
 clean_items = []
 
 blocked_count = 0
+old_count = 0
+
 
 for item in items:
+
+    # --------------------------------------------------------
+    # منع العقارات والإعلانات
+    # --------------------------------------------------------
 
     if is_blocked(item):
 
         blocked_count += 1
+
+        continue
+
+    # --------------------------------------------------------
+    # آخر 24 ساعة
+    # --------------------------------------------------------
+
+    if not is_recent(item):
+
+        old_count += 1
+
         continue
 
     clean_items.append(item)
+
+
+# ============================================================
+# SORT
+# ============================================================
+
+def sort_key(item):
+
+    date = parse_date(
+        item.get(
+            "published"
+        )
+    )
+
+    # إذا لم يوجد تاريخ النشر
+    # نستعمل تاريخ اكتشاف الخبر
+    if date is None:
+
+        date = parse_date(
+            item.get(
+                "discovered"
+            )
+        )
+
+    if date is None:
+
+        return datetime.min.replace(
+            tzinfo=timezone.utc
+        )
+
+    return date
+
+
+clean_items.sort(
+    key=sort_key,
+    reverse=True
+)
 
 
 # ============================================================
@@ -214,15 +447,24 @@ sections = {
 
 for item in clean_items:
 
-    section = section_for(item)
+    section = section_for(
+        item
+    )
 
     if section is None:
         continue
 
-    if len(sections[section]) >= MAX_PER_SECTION:
+    if (
+        len(
+            sections[section]
+        )
+        >= MAX_PER_SECTION
+    ):
         continue
 
-    sections[section].append(item)
+    sections[section].append(
+        item
+    )
 
 
 # ============================================================
@@ -236,15 +478,42 @@ total = sum(
 
 
 # ============================================================
+# MAX TOTAL
+# ============================================================
+
+if total > MAX_TOTAL:
+
+    remaining = MAX_TOTAL
+
+    for section_name in sections:
+
+        sections[section_name] = (
+            sections[section_name][
+                :remaining
+            ]
+        )
+
+        remaining -= len(
+            sections[section_name]
+        )
+
+        if remaining <= 0:
+            break
+
+    total = sum(
+        len(items)
+        for items in sections.values()
+    )
+
+
+# ============================================================
 # OUTPUT
 # ============================================================
 
 output = {
-    "updated": __import__("datetime")
-        .datetime.now(
-            __import__("datetime").timezone.utc
-        )
-        .isoformat(),
+    "updated": datetime.now(
+        timezone.utc
+    ).isoformat(),
 
     "total": total,
 
@@ -270,10 +539,24 @@ with open(
     )
 
 
+# ============================================================
+# LOG
+# ============================================================
+
 print(
     f"Exported {total} clean news items"
 )
 
 print(
-    f"Blocked {blocked_count} old commercial/real-estate items"
+    f"Blocked commercial/real-estate items: "
+    f"{blocked_count}"
+)
+
+print(
+    f"Removed old news items: "
+    f"{old_count}"
+)
+
+print(
+    "Maximum news age: 24 hours"
 )
