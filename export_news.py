@@ -1,5 +1,4 @@
 import json
-import re
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 
@@ -12,7 +11,9 @@ from db import recent
 
 MAX_PER_SECTION = 50
 MAX_TOTAL = 150
-MAX_NEWS_AGE_HOURS = 24
+
+# الاحتفاظ بالأخبار المنشورة خلال آخر 72 ساعة
+MAX_NEWS_AGE_HOURS = 72
 
 
 # ============================================================
@@ -134,6 +135,7 @@ SPORT_TERMS = [
     "فوز",
     "هزيمة",
     "تعادل",
+
     "champions",
     "football",
     "sport",
@@ -212,6 +214,7 @@ MOROCCO_TERMS = [
 # ============================================================
 
 def normalize_text(value):
+
     if not value:
         return ""
 
@@ -234,9 +237,11 @@ def normalize_text(value):
 
 
 def contains_any(text, terms):
+
     text = normalize_text(text)
 
     for term in terms:
+
         term = normalize_text(term)
 
         if term and term in text:
@@ -246,6 +251,7 @@ def contains_any(text, terms):
 
 
 def item_text(item):
+
     return normalize_text(
         " ".join(
             [
@@ -281,7 +287,6 @@ def is_blocked(item):
     # --------------------------------------------------------
     # المحتوى التجاري
     # نمنع فقط إذا ظهرت كلمتان تجاريتان أو أكثر
-    # حتى لا نحذف خبرًا حقيقيًا بسبب كلمة واحدة
     # --------------------------------------------------------
 
     matches = 0
@@ -305,7 +310,10 @@ def parse_date(value):
 
     value = str(value).strip()
 
+    # --------------------------------------------------------
     # ISO
+    # --------------------------------------------------------
+
     try:
 
         date = datetime.fromisoformat(
@@ -324,7 +332,10 @@ def parse_date(value):
     except Exception:
         pass
 
+    # --------------------------------------------------------
     # RSS / RFC
+    # --------------------------------------------------------
+
     try:
 
         date = parsedate_to_datetime(
@@ -343,7 +354,10 @@ def parse_date(value):
     except Exception:
         pass
 
+    # --------------------------------------------------------
     # Simple dates
+    # --------------------------------------------------------
+
     formats = [
         "%Y/%m/%d",
         "%Y-%m-%d",
@@ -429,7 +443,10 @@ def get_source_group(item):
         ) or ""
     ).strip()
 
+    # --------------------------------------------------------
     # المغرب
+    # --------------------------------------------------------
+
     morocco_sources = {
         "MAP عربي",
         "SNRTnews عربي",
@@ -450,31 +467,43 @@ def get_source_group(item):
     if source in morocco_sources:
         return "morocco"
 
+    # --------------------------------------------------------
     # الرياضة
+    # --------------------------------------------------------
+
     sports_sources = {
         "كووورة",
         "WinWin",
         "في الجول",
         "العين الرياضية",
         "365Scores عربي",
+        "الشرق الأوسط رياضة",
+        "يلا كورة",
     }
 
     if source in sports_sources:
         return "arabic_sports"
 
+    # --------------------------------------------------------
     # الانتقالات
+    # --------------------------------------------------------
+
     transfer_sources = {
         "كووورة انتقالات",
         "WinWin ميركاتو",
         "في الجول انتقالات",
         "ميركاتو داي",
         "365Scores انتقالات",
+        "يلا كورة انتقالات",
     }
 
     if source in transfer_sources:
         return "arabic_transfers"
 
+    # --------------------------------------------------------
     # الشرق الأوسط
+    # --------------------------------------------------------
+
     middle_sources = {
         "الجزيرة",
         "العربية",
@@ -487,7 +516,10 @@ def get_source_group(item):
     if source in middle_sources:
         return "middle_east"
 
+    # --------------------------------------------------------
     # العالم
+    # --------------------------------------------------------
+
     world_sources = {
         "القدس العربي",
         "فرانس 24 عربي",
@@ -525,9 +557,9 @@ def detect_section(item):
         item
     )
 
-    # --------------------------------------------------------
+    # ========================================================
     # 1. انتقالات اللاعبين
-    # --------------------------------------------------------
+    # ========================================================
 
     if group in TRANSFER_GROUPS:
         return "transfers"
@@ -554,9 +586,9 @@ def detect_section(item):
     ):
         return "transfers"
 
-    # --------------------------------------------------------
+    # ========================================================
     # 2. الرياضة
-    # --------------------------------------------------------
+    # ========================================================
 
     if group in SPORT_GROUPS:
         return "sports"
@@ -572,13 +604,11 @@ def detect_section(item):
         text,
         SPORT_TERMS
     ):
-        # إذا كان خبرًا رياضيًا حقيقيًا
-        # نضعه في الرياضة
         return "sports"
 
-    # --------------------------------------------------------
+    # ========================================================
     # 3. أخبار المغرب
-    # --------------------------------------------------------
+    # ========================================================
 
     if group in MOROCCO_GROUPS:
         return "morocco"
@@ -589,23 +619,23 @@ def detect_section(item):
     ):
         return "morocco"
 
-    # --------------------------------------------------------
+    # ========================================================
     # 4. الشرق الأوسط
-    # --------------------------------------------------------
+    # ========================================================
 
     if group in MIDDLE_EAST_GROUPS:
         return "middle_east"
 
-    # --------------------------------------------------------
+    # ========================================================
     # 5. العالم العربي والدولي
-    # --------------------------------------------------------
+    # ========================================================
 
     if group in WORLD_GROUPS:
         return "world_arabic"
 
-    # --------------------------------------------------------
-    # 6. التصنيف الاحتياطي
-    # --------------------------------------------------------
+    # ========================================================
+    # 6. غير مصنف
+    # ========================================================
 
     return None
 
@@ -631,7 +661,7 @@ uncategorized_count = 0
 for item in items:
 
     # --------------------------------------------------------
-    # منع العقار والإعلانات الواضحة
+    # منع العقار والإعلانات
     # --------------------------------------------------------
 
     if is_blocked(item):
@@ -640,7 +670,7 @@ for item in items:
         continue
 
     # --------------------------------------------------------
-    # آخر 24 ساعة
+    # آخر 72 ساعة
     # --------------------------------------------------------
 
     if not is_recent(item):
@@ -649,7 +679,7 @@ for item in items:
         continue
 
     # --------------------------------------------------------
-    # القسم
+    # تحديد القسم
     # --------------------------------------------------------
 
     section = detect_section(
@@ -661,7 +691,7 @@ for item in items:
         uncategorized_count += 1
         continue
 
-    # نحفظ القسم داخل الخبر
+    # حفظ القسم داخل الخبر
     item["section"] = section
 
     clean_items.append(
@@ -744,6 +774,65 @@ for item in clean_items:
 
 
 # ============================================================
+# MAX TOTAL
+# ============================================================
+
+all_items = []
+
+for section_name in sections:
+
+    all_items.extend(
+        sections[section_name]
+    )
+
+
+all_items.sort(
+    key=sort_key,
+    reverse=True
+)
+
+
+all_items = all_items[
+    :MAX_TOTAL
+]
+
+
+# ============================================================
+# REBUILD SECTIONS
+# ============================================================
+
+sections = {
+    "morocco": [],
+    "sports": [],
+    "transfers": [],
+    "middle_east": [],
+    "world_arabic": [],
+}
+
+
+for item in all_items:
+
+    section = item.get(
+        "section"
+    )
+
+    if section not in sections:
+        continue
+
+    if (
+        len(
+            sections[section]
+        )
+        >= MAX_PER_SECTION
+    ):
+        continue
+
+    sections[section].append(
+        item
+    )
+
+
+# ============================================================
 # TOTAL
 # ============================================================
 
@@ -755,65 +844,10 @@ total = sum(
 
 
 # ============================================================
-# MAX TOTAL
-# ============================================================
-
-if total > MAX_TOTAL:
-
-    all_items = []
-
-    for section_name in sections:
-
-        all_items.extend(
-            sections[section_name]
-        )
-
-    all_items.sort(
-        key=sort_key,
-        reverse=True
-    )
-
-    all_items = all_items[
-        :MAX_TOTAL
-    ]
-
-    sections = {
-        "morocco": [],
-        "sports": [],
-        "transfers": [],
-        "middle_east": [],
-        "world_arabic": [],
-    }
-
-    for item in all_items:
-
-        section = item.get(
-            "section"
-        )
-
-        if section in sections:
-
-            if len(
-                sections[section]
-            ) < MAX_PER_SECTION:
-
-                sections[section].append(
-                    item
-                )
-
-    total = sum(
-        len(section_items)
-        for section_items
-        in sections.values()
-    )
-
-
-# ============================================================
 # OUTPUT
 # ============================================================
 
 output = {
-
     "updated": datetime.now(
         timezone.utc
     ).isoformat(),
