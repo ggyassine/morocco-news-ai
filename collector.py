@@ -87,7 +87,7 @@ COMMERCIAL_TERMS = [
 
 
 # ============================================================
-# NEWS TERMS
+# GENERAL NEWS TERMS
 # ============================================================
 
 NEWS_TERMS = [
@@ -145,66 +145,66 @@ NEWS_TERMS = [
     "سياحة",
     "سياحي",
     "سياح",
-
-    "رياضة",
-    "رياضات",
-    "كرة القدم",
-    "كرة السلة",
-    "منتخب",
-    "مباراة",
-    "مباريات",
-    "لاعب",
-    "مدرب",
-    "دوري",
-    "كأس",
-    "بطولة",
-
-    "انتقال",
-    "انتقالات",
-    "مفاوضات",
-    "توقيع",
-    "إعارة",
 ]
 
 
 # ============================================================
-# TRANSFER TERMS
+# FOOTBALL TERMS
 # ============================================================
 
-LOCAL_TRANSFER_TERMS = [
-    "انتقال",
-    "انتقالات",
-    "صفقة",
-    "توقيع",
-    "يوقع",
-    "وقع",
-    "ضم",
-    "إعارة",
-    "إعاره",
-    "مفاوضات",
-    "اهتمام",
-    "عرض",
-    "عقد",
-    "تجديد",
-    "رحيل",
-    "مغادرة",
-    "وجهة",
-    "ميركاتو",
-    "سوق الانتقالات",
+FOOTBALL_TERMS = [
+    "كرة القدم",
+    "كرة القدم المغربية",
+    "منتخب",
+    "المنتخب",
+    "لاعب",
+    "لاعبين",
+    "مدرب",
+    "مباراة",
+    "مباريات",
+    "دوري",
+    "الدوري",
+    "كأس",
+    "بطولة",
+    "نادي",
+    "أندية",
+    "فريق",
+    "فرق",
+    "هدف",
+    "أهداف",
+    "فوز",
+    "هزيمة",
+    "تعادل",
 
-    "transfer",
-    "transfers",
-    "transfert",
-    "transferts",
-    "mercato",
-    "signing",
-    "signed",
-    "loan",
-    "contract",
-    "renewal",
-    "negotiation",
-    "interest",
-    "offer",
+    "دوري أبطال أوروبا",
+    "دوري أبطال",
+    "الدوري الإنجليزي",
+    "الدوري الإسباني",
+    "الدوري الإيطالي",
+    "الدوري الفرنسي",
+    "الدوري الألماني",
+
+    "البريميرليغ",
+    "لاليغا",
+    "الليغا",
+    "السيري آ",
+    "الليغ 1",
+    "البوندسليغا",
+
+    "كأس العالم",
+    "كأس أمم إفريقيا",
+    "كأس إفريقيا",
+    "تصفيات كأس العالم",
+    "تصفيات المونديال",
+
+    "champions league",
+    "football",
+    "soccer",
+    "premier league",
+    "la liga",
+    "serie a",
+    "ligue 1",
+    "bundesliga",
 ]
 
 
@@ -219,6 +219,9 @@ LOCAL_SPORT_TERMS = [
     "كرة القدم",
     "كرة السلة",
     "كرة اليد",
+    "تنس",
+    "فورمولا",
+    "ملاكمة",
 
     "منتخب",
     "مباراة",
@@ -260,14 +263,80 @@ LOCAL_SPORT_TERMS = [
 
 
 # ============================================================
+# TRANSFER TERMS
+# ============================================================
+
+LOCAL_TRANSFER_TERMS = [
+    "انتقال",
+    "انتقالات",
+    "صفقة",
+    "صفقات",
+    "توقيع",
+    "يوقع",
+    "وقع",
+    "ضم",
+    "إعارة",
+    "إعاره",
+    "مفاوضات",
+    "اهتمام",
+    "عرض",
+    "عقد",
+    "تجديد",
+    "رحيل",
+    "مغادرة",
+    "وجهة",
+    "ميركاتو",
+    "سوق الانتقالات",
+
+    "transfer",
+    "transfers",
+    "transfert",
+    "transferts",
+    "mercato",
+    "signing",
+    "signed",
+    "loan",
+    "contract",
+    "renewal",
+    "negotiation",
+    "interest",
+    "offer",
+]
+
+
+# ============================================================
+# MOROCCAN FOOTBALL TERMS
+# ============================================================
+
+MOROCCAN_FOOTBALL_TERMS = [
+    "المغرب",
+    "المغربي",
+    "المغربية",
+    "مغربي",
+    "مغربية",
+
+    "أسود الأطلس",
+    "المنتخب المغربي",
+    "المنتخب الوطني",
+    "الجامعة الملكية المغربية لكرة القدم",
+    "الدوري المغربي",
+    "البطولة المغربية",
+    "الوداد",
+    "الرجاء",
+    "نهضة بركان",
+    "الجيش الملكي",
+    "الفتح الرباطي",
+    "المغرب الفاسي",
+    "أولمبيك آسفي",
+    "حسنية أكادير",
+]
+
+
+# ============================================================
 # TEXT HELPERS
 # ============================================================
 
 def clean_text(value):
-    """
-    تنظيف النص من HTML والمسافات الزائدة.
-    """
-
     if not value:
         return ""
 
@@ -289,10 +358,6 @@ def clean_text(value):
 
 
 def normalize_text(value):
-    """
-    توحيد النص العربي والإنجليزي للمقارنة.
-    """
-
     value = clean_text(value).lower()
 
     replacements = {
@@ -310,10 +375,6 @@ def normalize_text(value):
 
 
 def contains_any(text, terms):
-    """
-    التحقق من وجود أي كلمة من القائمة.
-    """
-
     for term in terms:
 
         normalized_term = normalize_text(term)
@@ -327,11 +388,23 @@ def contains_any(text, terms):
     return False
 
 
-def contains_player(text):
-    """
-    البحث عن لاعب مغربي.
-    """
+def count_matches(text, terms):
+    count = 0
 
+    for term in terms:
+
+        normalized_term = normalize_text(term)
+
+        if (
+            normalized_term
+            and normalized_term in text
+        ):
+            count += 1
+
+    return count
+
+
+def contains_player(text):
     for player in MOROCCAN_PLAYERS:
 
         player_normalized = normalize_text(
@@ -348,10 +421,6 @@ def contains_player(text):
 
 
 def item_text(entry):
-    """
-    تجميع العنوان والوصف والملخص.
-    """
-
     title = clean_text(
         entry.get("title", "")
     )
@@ -374,9 +443,6 @@ def item_text(entry):
 # ============================================================
 
 def is_blocked_content(text):
-    """
-    منع العقار والإعلانات التجارية الواضحة.
-    """
 
     if contains_any(
         text,
@@ -384,19 +450,10 @@ def is_blocked_content(text):
     ):
         return True
 
-    commercial_matches = 0
-
-    for term in COMMERCIAL_TERMS:
-
-        normalized_term = normalize_text(
-            term
-        )
-
-        if (
-            normalized_term
-            and normalized_term in text
-        ):
-            commercial_matches += 1
+    commercial_matches = count_matches(
+        text,
+        COMMERCIAL_TERMS
+    )
 
     return commercial_matches >= 2
 
@@ -406,9 +463,6 @@ def is_blocked_content(text):
 # ============================================================
 
 def looks_like_news(text):
-    """
-    تحديد ما إذا كان المحتوى يبدو كخبر.
-    """
 
     if not text:
         return False
@@ -417,18 +471,9 @@ def looks_like_news(text):
         return False
 
     return (
-        contains_any(
-            text,
-            NEWS_TERMS
-        )
-        or contains_any(
-            text,
-            LOCAL_SPORT_TERMS
-        )
-        or contains_any(
-            text,
-            LOCAL_TRANSFER_TERMS
-        )
+        contains_any(text, NEWS_TERMS)
+        or contains_any(text, LOCAL_SPORT_TERMS)
+        or contains_any(text, LOCAL_TRANSFER_TERMS)
         or contains_player(text)
     )
 
@@ -441,17 +486,13 @@ def source_group(
     source_name,
     configured_group=None
 ):
-    """
-    تحديد مجموعة المصدر.
-
-    نستخدم المجموعة القادمة من sources.py
-    أولًا، ثم نستخدم fallback بالاسم.
-    """
 
     if configured_group in VALID_GROUPS:
         return configured_group
 
     fallback_groups = {
+
+        # Morocco
         "MAP عربي": "morocco",
         "SNRTnews عربي": "morocco",
         "هسبريس": "morocco",
@@ -467,6 +508,7 @@ def source_group(
         "البطولة": "morocco",
         "المنتخب": "morocco",
 
+        # Middle East
         "الجزيرة": "middle_east",
         "العربية": "middle_east",
         "سكاي نيوز عربية": "middle_east",
@@ -474,6 +516,7 @@ def source_group(
         "الشرق الأوسط": "middle_east",
         "العربي الجديد": "middle_east",
 
+        # World Arabic
         "القدس العربي": "world_arabic",
         "فرانس 24 عربي": "world_arabic",
         "DW عربية": "world_arabic",
@@ -482,16 +525,23 @@ def source_group(
         "إندبندنت عربية": "world_arabic",
         "CNN بالعربية": "world_arabic",
 
+        # Arabic sports
         "كووورة": "arabic_sports",
         "WinWin": "arabic_sports",
         "في الجول": "arabic_sports",
         "يلا كورة": "arabic_sports",
+        "365Scores عربي": "arabic_sports",
+        "العين الرياضية": "arabic_sports",
 
+        # Arabic transfers
         "كووورة انتقالات": "arabic_transfers",
         "WinWin ميركاتو": "arabic_transfers",
         "في الجول انتقالات": "arabic_transfers",
         "ميركاتو داي": "arabic_transfers",
+        "365Scores انتقالات": "arabic_transfers",
+        "العربية رياضة انتقالات": "arabic_transfers",
 
+        # International
         "Reuters": "international",
         "Associated Press": "international",
     }
@@ -511,16 +561,12 @@ def relevant(
     source_name,
     configured_group=None
 ):
-    """
-    تحديد ما إذا كان الخبر مناسبًا للنظام.
-    """
 
     text = item_text(entry)
 
     if not text:
         return False
 
-    # منع العقار والإعلانات
     if is_blocked_content(text):
         return False
 
@@ -530,163 +576,139 @@ def relevant(
     )
 
     # ========================================================
-    # 🇲🇦 المغرب
+    # MOROCCO
     # ========================================================
 
     if group == "morocco":
 
-        if contains_any(
-            text,
-            MOROCCO_TERMS
-        ):
-            return True
-
-        if contains_player(text):
-            return True
-
-        if contains_any(
-            text,
-            LOCAL_SPORT_TERMS
-        ):
-            return True
-
-        return False
+        return (
+            contains_any(text, MOROCCO_TERMS)
+            or contains_player(text)
+            or contains_any(text, LOCAL_SPORT_TERMS)
+        )
 
     # ========================================================
-    # ⚽ الرياضة العربية
+    # ARABIC SPORTS
     # ========================================================
 
     if group == "arabic_sports":
 
+        # اللاعبون المغاربة
         if contains_player(text):
             return True
 
+        # المنتخب والأندية المغربية
         if contains_any(
             text,
-            MOROCCO_TERMS
+            MOROCCAN_FOOTBALL_TERMS
         ):
             return True
 
+        # الأخبار الرياضية المهمة
         if contains_any(
             text,
             LOCAL_SPORT_TERMS
         ):
             return True
 
-        if contains_any(
-            text,
-            LOCAL_TRANSFER_TERMS
-        ):
-            return True
-
         return False
 
     # ========================================================
-    # 🔄 انتقالات اللاعبين
+    # ARABIC TRANSFERS
     # ========================================================
 
     if group == "arabic_transfers":
 
-        # أولوية للاعبين المغاربة
-        if contains_player(text):
-            return True
-
-        # أخبار انتقالات مرتبطة بالمغرب
-        if contains_any(
-            text,
-            MOROCCO_TERMS
+        # لاعب مغربي + انتقال
+        if (
+            contains_player(text)
+            and contains_any(
+                text,
+                LOCAL_TRANSFER_TERMS
+            )
         ):
             return True
 
-        # أخبار الميركاتو
+        # انتقال مرتبط بالمغرب
+        if (
+            contains_any(
+                text,
+                MOROCCAN_FOOTBALL_TERMS
+            )
+            and contains_any(
+                text,
+                LOCAL_TRANSFER_TERMS
+            )
+        ):
+            return True
+
+        # مصادر الانتقالات المتخصصة
         if contains_any(
             text,
             LOCAL_TRANSFER_TERMS
         ):
-            return True
+
+            # نفضل الأخبار التي لها علاقة بكرة القدم
+            if (
+                contains_any(
+                    text,
+                    FOOTBALL_TERMS
+                )
+                or contains_any(
+                    text,
+                    LOCAL_SPORT_TERMS
+                )
+            ):
+                return True
 
         return False
 
     # ========================================================
-    # 🌍 الشرق الأوسط
+    # MIDDLE EAST
     # ========================================================
 
     if group == "middle_east":
 
-        if contains_any(
-            text,
-            MOROCCO_TERMS
-        ):
-            return True
-
-        if contains_player(text):
-            return True
-
-        if contains_any(
-            text,
-            LOCAL_SPORT_TERMS
-        ):
-            return True
-
-        if contains_any(
-            text,
-            LOCAL_TRANSFER_TERMS
-        ):
-            return True
-
-        return False
+        return (
+            contains_any(text, MOROCCO_TERMS)
+            or contains_player(text)
+            or contains_any(text, LOCAL_SPORT_TERMS)
+            or contains_any(text, LOCAL_TRANSFER_TERMS)
+        )
 
     # ========================================================
-    # 🌐 العالم العربي
+    # WORLD ARABIC
     # ========================================================
 
     if group == "world_arabic":
 
-        if contains_any(
-            text,
-            MOROCCO_TERMS
-        ):
-            return True
-
-        if contains_player(text):
-            return True
-
-        if contains_any(
-            text,
-            LOCAL_SPORT_TERMS
-        ):
-            return True
-
-        if contains_any(
-            text,
-            LOCAL_TRANSFER_TERMS
-        ):
-            return True
-
-        return False
+        return (
+            contains_any(text, MOROCCO_TERMS)
+            or contains_player(text)
+            or contains_any(text, LOCAL_SPORT_TERMS)
+            or contains_any(text, LOCAL_TRANSFER_TERMS)
+        )
 
     # ========================================================
-    # 🔎 المصادر الدولية
+    # INTERNATIONAL
     # ========================================================
 
     if group == "international":
 
-        if contains_any(
-            text,
-            MOROCCO_TERMS
-        ):
-            return True
-
-        if contains_player(text):
-            return True
-
-        if contains_any(
-            text,
-            LOCAL_TRANSFER_TERMS
-        ):
-            return True
-
-        return False
+        return (
+            contains_any(text, MOROCCO_TERMS)
+            or contains_player(text)
+            or (
+                contains_any(
+                    text,
+                    LOCAL_TRANSFER_TERMS
+                )
+                and contains_any(
+                    text,
+                    FOOTBALL_TERMS
+                )
+            )
+        )
 
     # ========================================================
     # FALLBACK
@@ -706,9 +728,6 @@ def relevant(
 # ============================================================
 
 def fetch_feed(url):
-    """
-    جلب RSS من Google News.
-    """
 
     request = Request(
         url,
@@ -764,9 +783,6 @@ def fetch_feed(url):
 # ============================================================
 
 def published_date(entry):
-    """
-    استخراج تاريخ الخبر.
-    """
 
     for field in (
         "published",
@@ -792,9 +808,6 @@ def make_content_hash(
     title,
     summary
 ):
-    """
-    إنشاء بصمة للمحتوى.
-    """
 
     raw = normalize_text(
         f"{title}|{summary}"
@@ -803,6 +816,38 @@ def make_content_hash(
     return hashlib.sha256(
         raw.encode("utf-8")
     ).hexdigest()
+
+
+# ============================================================
+# SIMILARITY KEY
+# ============================================================
+
+def make_title_key(title):
+
+    text = normalize_text(title)
+
+    # إزالة أسماء المواقع في نهاية العنوان
+    text = re.sub(
+        r"\s*[-|]\s*(winwin|kooora|filgoal|365scores|bbc|reuters).*$",
+        "",
+        text,
+        flags=re.IGNORECASE
+    )
+
+    # إزالة علامات الترقيم
+    text = re.sub(
+        r"[^\w\s\u0600-\u06FF]",
+        " ",
+        text
+    )
+
+    text = re.sub(
+        r"\s+",
+        " ",
+        text
+    )
+
+    return text.strip()
 
 
 # ============================================================
@@ -817,6 +862,10 @@ def collect():
     total_blocked = 0
     total_relevant = 0
 
+    # منع التكرار داخل نفس الدورة
+    seen_urls = set()
+    seen_title_keys = set()
+
     print("=" * 60)
     print("Morocco News AI - News Collector")
     print("=" * 60)
@@ -826,17 +875,6 @@ def collect():
     # ========================================================
 
     for source in SOURCES:
-
-        # ----------------------------------------------------
-        # صيغة المصدر الجديدة:
-        #
-        # (
-        #     name,
-        #     url,
-        #     trust,
-        #     group
-        # )
-        # ----------------------------------------------------
 
         if not isinstance(
             source,
@@ -887,9 +925,9 @@ def collect():
             f"  Group: {configured_group}"
         )
 
-        # ----------------------------------------------------
+        # ====================================================
         # RSS
-        # ----------------------------------------------------
+        # ====================================================
 
         feed = fetch_feed(
             rss_url
@@ -951,11 +989,34 @@ def collect():
             # URL duplicate
             # ------------------------------------------------
 
+            if url in seen_urls:
+                continue
+
+            seen_urls.add(url)
+
             if exists(url):
                 continue
 
             # ------------------------------------------------
-            # Text
+            # TITLE duplicate
+            # ------------------------------------------------
+
+            title_key = make_title_key(
+                title
+            )
+
+            if (
+                title_key
+                and title_key in seen_title_keys
+            ):
+                continue
+
+            seen_title_keys.add(
+                title_key
+            )
+
+            # ------------------------------------------------
+            # TEXT
             # ------------------------------------------------
 
             text = normalize_text(
@@ -965,7 +1026,7 @@ def collect():
             )
 
             # ------------------------------------------------
-            # Blocked
+            # BLOCKED
             # ------------------------------------------------
 
             if is_blocked_content(text):
@@ -980,7 +1041,7 @@ def collect():
                 continue
 
             # ------------------------------------------------
-            # Relevance
+            # RELEVANCE
             # ------------------------------------------------
 
             if not relevant(
@@ -994,7 +1055,16 @@ def collect():
             total_relevant += 1
 
             # ------------------------------------------------
-            # Item
+            # CONTENT HASH
+            # ------------------------------------------------
+
+            content_hash = make_content_hash(
+                title,
+                summary
+            )
+
+            # ------------------------------------------------
+            # ITEM
             # ------------------------------------------------
 
             item = {
@@ -1019,16 +1089,13 @@ def collect():
 
                 "description": description,
 
-                "content_hash": make_content_hash(
-                    title,
-                    summary
-                ),
+                "content_hash": content_hash,
 
                 "source_group": configured_group,
             }
 
             # ------------------------------------------------
-            # Classification
+            # CLASSIFICATION
             # ------------------------------------------------
 
             try:
@@ -1051,7 +1118,7 @@ def collect():
                 )
 
             # ------------------------------------------------
-            # Save
+            # SAVE
             # ------------------------------------------------
 
             try:
