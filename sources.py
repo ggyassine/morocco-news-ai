@@ -1,24 +1,30 @@
 # ============================================================
+# MOROCCO NEWS AI - SOURCES
+# ============================================================
+
+# ============================================================
 # MOROCCO TERMS
 # ============================================================
 
 MOROCCO_TERMS = [
     "المغرب",
-    "المغربية",
     "مغربي",
-    "مغاربة",
+    "مغربية",
     "الرباط",
     "الدار البيضاء",
-    "مراكش",
     "طنجة",
     "فاس",
+    "مراكش",
     "أكادير",
     "وجدة",
     "الحكومة المغربية",
     "البرلمان المغربي",
     "المنتخب المغربي",
     "أسود الأطلس",
-    "محمد السادس",
+    "الوداد",
+    "الرجاء",
+    "نهضة بركان",
+    "الجيش الملكي",
 ]
 
 
@@ -33,8 +39,8 @@ TRANSFER_TERMS = [
     "توقيع",
     "يوقع",
     "وقع",
-    "ضم",
     "إعارة",
+    "إعاره",
     "مفاوضات",
     "اهتمام",
     "عرض",
@@ -71,7 +77,6 @@ SPORT_TERMS = [
     "رياضي",
     "كرة القدم",
     "كرة السلة",
-    "كرة اليد",
     "منتخب",
     "مباراة",
     "مباريات",
@@ -85,25 +90,22 @@ SPORT_TERMS = [
     "فوز",
     "هزيمة",
     "تعادل",
-    "دوري أبطال",
     "دوري الأبطال",
-    "الدوري الإنجليزي",
-    "الدوري الإسباني",
-    "الدوري الإيطالي",
-    "الدوري الفرنسي",
-    "الدوري الألماني",
-    "البريميرليغ",
-    "لاليغا",
-    "الليغا",
-    "السيري آ",
-    "الليغ 1",
-    "البوندسليغا",
-    "champions",
+    "دوري أبطال أوروبا",
+    "الدوري الأوروبي",
+    "كأس العالم",
+    "كأس إفريقيا",
+    "المنتخب المغربي",
+    "أسود الأطلس",
+
     "football",
     "sport",
+    "sports",
     "match",
     "league",
     "cup",
+    "champions league",
+    "europa league",
 ]
 
 
@@ -113,405 +115,564 @@ SPORT_TERMS = [
 
 MOROCCAN_PLAYERS = [
     "أشرف حكيمي",
-    "Achraf Hakimi",
-
-    "براهيم دياز",
-    "Brahim Diaz",
-    "Brahim Díaz",
-
-    "يوسف النصيري",
-    "Youssef En-Nesyri",
-
-    "أيوب الكعبي",
-    "Ayoub El Kaabi",
-
-    "سفيان رحيمي",
-    "Soufiane Rahimi",
-
-    "نايف أكرد",
-    "Nayef Aguerd",
-
-    "عز الدين أوناحي",
-    "Azzedine Ounahi",
-
+    "حكيمي",
     "حكيم زياش",
-    "Hakim Ziyech",
-
+    "زياش",
+    "براهيم دياز",
     "سفيان أمرابط",
-    "Sofyan Amrabat",
-
     "نصير مزراوي",
-    "Noussair Mazraoui",
-
-    "بلال الخنوس",
-    "Bilal El Khannouss",
-
-    "إلياس بن صغير",
-    "Eliesse Ben Seghir",
-
+    "يوسف النصيري",
+    "أيوب الكعبي",
     "عبد الصمد الزلزولي",
-    "Abde Ezzalzouli",
-
-    "أمين حارث",
-    "Amine Harit",
-
-    "ياسين بونو",
-    "Yassine Bounou",
-
+    "الزلزولي",
     "إسماعيل الصيباري",
-    "Ismael Saibari",
-
-    "رضا بلحيان",
-    "Reda Belahyane",
-
-    "أمين عدلي",
-    "Amine Adli",
-
-    "شادي رياض",
-    "Chadi Riad",
-
-    "إسماعيل قندوس",
-    "Ismael Kandouss",
-
-    "سليم أملاح",
-    "Selim Amallah",
-
+    "بلال الخنوس",
+    "عز الدين أوناحي",
+    "نايف أكرد",
+    "ياسين بونو",
     "منير المحمدي",
-    "Munir El Kajoui",
-
-    "عبد الكبير عبقار",
-    "Abdelkabir Abqar",
-
-    "جواد الياميق",
-    "Jawad El Yamiq",
-
-    "يوسف بلعمري",
-    "Youssef Belammari",
-
-    "أسامة ترغالين",
-    "Oussama Targhalline",
-
-    "أمير ريتشاردسون",
-    "Amir Richardson",
-
+    "سفيان رحيمي",
     "إلياس أخوماش",
-    "Ilias Akhomach",
-
-    "إبراهيم دياز",
-    "Ibrahim Diaz",
-
+    "إلياس شاعر",
+    "أمين عدلي",
+    "عبد الكبير عبقار",
+    "شادي رياض",
+    "أمير ريتشاردسون",
+    "أسامة ترغالين",
+    "بلال الخنوس",
     "طارق تيسودالي",
-    "Tariq Tissoudali",
-
-    "منير الحدادي",
-    "Munir El Haddadi",
-
-    "عبد الرزاق حمد الله",
-    "Abderrazak Hamdallah",
-
-    "حسن تمبكتي",
-    "Hamza Mendyl",
+    "وليد شديرة",
+    "سليم أملاح",
+    "يونس عبد الحميد",
+    "نور الدين أمرابط",
+    "عادل تاعرابت",
+    "يحيى عطية الله",
+    "يحيى جبران",
+    "جواد الياميق",
+    "غانم سايس",
 ]
+
+
+# ============================================================
+# SOURCE GROUPS
+# ============================================================
+
+MOROCCO_SOURCES = {
+    "MAP عربي",
+    "SNRTnews عربي",
+    "هسبريس",
+    "Le360 عربي",
+    "العمق المغربي",
+    "اليوم24",
+    "أخبارنا المغربية",
+    "هبة بريس",
+    "برلمان",
+    "كود",
+    "كفاش",
+    "فبراير",
+    "البطولة",
+    "المنتخب",
+}
+
+
+ARAB_SPORTS_SOURCES = {
+    "كووورة",
+    "العربية رياضة",
+    "الجزيرة الرياضية",
+    "سكاي نيوز عربية رياضة",
+    "الشرق رياضة",
+    "الشرق الأوسط رياضة",
+    "بي إن سبورت عربية",
+    "WinWin",
+    "يلا كورة",
+    "في الجول",
+    "365Scores عربي",
+    "العين الرياضية",
+}
+
+
+ARAB_TRANSFER_SOURCES = {
+    "كووورة انتقالات",
+    "العربية رياضة انتقالات",
+    "WinWin انتقالات",
+    "يلا كورة انتقالات",
+    "في الجول انتقالات",
+    "365Scores انتقالات",
+    "الشرق رياضة انتقالات",
+    "العين الرياضية انتقالات",
+}
+
+
+MIDDLE_EAST_SOURCES = {
+    "الجزيرة",
+    "العربية",
+    "سكاي نيوز عربية",
+    "الشرق للأخبار",
+    "الشرق الأوسط",
+    "العربي الجديد",
+}
+
+
+WORLD_ARABIC_SOURCES = {
+    "القدس العربي",
+    "فرانس 24 عربي",
+    "DW عربية",
+    "BBC عربي",
+    "يورونيوز عربي",
+    "إندبندنت عربية",
+    "CNN بالعربية",
+}
+
+
+INTERNATIONAL_SOURCES = {
+    "Reuters",
+    "Associated Press",
+}
+
+
+# ============================================================
+# GOOGLE NEWS RSS
+# ============================================================
+
+def google_news(site, language="ar", country="MA"):
+    return (
+        "https://news.google.com/rss/search?"
+        f"q=site%3A{site}"
+        f"&hl={language}"
+        f"&gl={country}"
+        f"&ceid={country}%3A{language}"
+    )
+
+
+def google_query(query, language="ar", country="MA"):
+    return (
+        "https://news.google.com/rss/search?"
+        f"q={query}"
+        f"&hl={language}"
+        f"&gl={country}"
+        f"&ceid={country}%3A{language}"
+    )
 
 
 # ============================================================
 # SOURCES
 #
-# Format:
-# (
-#     name,
-#     RSS URL,
-#     trust,
-#     group
-# )
+# الشكل:
+# (name, url, trust, group)
 # ============================================================
 
 SOURCES = [
 
-    # ========================================================
-    # 🇲🇦 المغرب
-    # ========================================================
+    # --------------------------------------------------------
+    # المغرب
+    # --------------------------------------------------------
 
     (
         "MAP عربي",
-        "https://news.google.com/rss/search?q=site%3Amapnews.ma&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("mapnews.ma"),
         "A",
         "morocco",
     ),
 
     (
         "SNRTnews عربي",
-        "https://news.google.com/rss/search?q=site%3Asnrtnews.com&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("snrtnews.com"),
         "A",
         "morocco",
     ),
 
     (
         "هسبريس",
-        "https://news.google.com/rss/search?q=site%3Ahespress.com&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("hespress.com"),
         "B",
         "morocco",
     ),
 
     (
         "Le360 عربي",
-        "https://news.google.com/rss/search?q=site%3Aar.le360.ma&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("le360.ma"),
         "B",
         "morocco",
     ),
 
     (
         "العمق المغربي",
-        "https://news.google.com/rss/search?q=site%3Aal3omk.com&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("al3omk.com"),
         "B",
         "morocco",
     ),
 
     (
         "اليوم24",
-        "https://news.google.com/rss/search?q=site%3Aalyaoum24.com&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("alyaoum24.com"),
         "B",
         "morocco",
     ),
 
     (
         "أخبارنا المغربية",
-        "https://news.google.com/rss/search?q=site%3Aakhbarona.com&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("akhbarona.com"),
         "B",
         "morocco",
     ),
 
     (
         "هبة بريس",
-        "https://news.google.com/rss/search?q=site%3Ahibapress.com&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("hibapress.com"),
         "B",
         "morocco",
     ),
 
     (
         "برلمان",
-        "https://news.google.com/rss/search?q=site%3Abarlamane.com&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("barlamane.com"),
         "B",
         "morocco",
     ),
 
     (
         "كود",
-        "https://news.google.com/rss/search?q=site%3Agoud.ma&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("goud.ma"),
         "B",
         "morocco",
     ),
 
     (
         "كفاش",
-        "https://news.google.com/rss/search?q=site%3Akifache.com&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("kifache.com"),
         "B",
         "morocco",
     ),
 
     (
         "فبراير",
-        "https://news.google.com/rss/search?q=site%3Afebrayer.com&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("febrayer.com"),
         "B",
         "morocco",
     ),
 
     (
         "البطولة",
-        "https://news.google.com/rss/search?q=site%3Aelbotola.com&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("elbotola.com"),
         "C",
         "morocco",
     ),
 
     (
         "المنتخب",
-        "https://news.google.com/rss/search?q=site%3Aalmountakhab.com&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("almountakhab.com"),
         "C",
         "morocco",
     ),
 
 
-    # ========================================================
-    # ⚽ الرياضة العربية
-    # ========================================================
+    # --------------------------------------------------------
+    # الرياضة العربية
+    # --------------------------------------------------------
 
     (
         "كووورة",
-        "https://news.google.com/rss/search?q=site%3Akooora.com&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("kooora.com"),
+        "B",
+        "arabic_sports",
+    ),
+
+    (
+        "العربية رياضة",
+        google_query(
+            "العربية رياضة كرة القدم",
+        ),
+        "A",
+        "arabic_sports",
+    ),
+
+    (
+        "الجزيرة الرياضية",
+        google_query(
+            "الجزيرة رياضة كرة القدم",
+        ),
+        "A",
+        "arabic_sports",
+    ),
+
+    (
+        "سكاي نيوز عربية رياضة",
+        google_query(
+            "سكاي نيوز عربية رياضة",
+        ),
+        "A",
+        "arabic_sports",
+    ),
+
+    (
+        "الشرق رياضة",
+        google_query(
+            "الشرق رياضة كرة القدم",
+        ),
+        "A",
+        "arabic_sports",
+    ),
+
+    (
+        "الشرق الأوسط رياضة",
+        google_query(
+            "الشرق الأوسط رياضة",
+        ),
+        "A",
+        "arabic_sports",
+    ),
+
+    (
+        "بي إن سبورت عربية",
+        google_query(
+            "beIN SPORTS عربية كرة القدم",
+        ),
         "A",
         "arabic_sports",
     ),
 
     (
         "WinWin",
-        "https://news.google.com/rss/search?q=site%3Awinwin.com&hl=ar&gl=MA&ceid=MA%3Aar",
-        "A",
-        "arabic_sports",
-    ),
-
-    (
-        "في الجول",
-        "https://news.google.com/rss/search?q=site%3Afilgoal.com&hl=ar&gl=MA&ceid=MA%3Aar",
-        "A",
+        google_news("winwin.com"),
+        "B",
         "arabic_sports",
     ),
 
     (
         "يلا كورة",
-        "https://news.google.com/rss/search?q=site%3Ayallakora.com&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("yallakora.com"),
+        "B",
+        "arabic_sports",
+    ),
+
+    (
+        "في الجول",
+        google_news("filgoal.com"),
+        "B",
+        "arabic_sports",
+    ),
+
+    (
+        "365Scores عربي",
+        google_query(
+            "365Scores عربي كرة القدم",
+        ),
+        "B",
+        "arabic_sports",
+    ),
+
+    (
+        "العين الرياضية",
+        google_query(
+            "العين الرياضية كرة القدم",
+        ),
         "B",
         "arabic_sports",
     ),
 
 
-    # ========================================================
-    # 🔄 انتقالات اللاعبين والميركاتو
-    # ========================================================
+    # --------------------------------------------------------
+    # انتقالات اللاعبين في الخارج
+    # --------------------------------------------------------
 
     (
         "كووورة انتقالات",
-        "https://news.google.com/rss/search?q=site%3Akooora.com+انتقالات&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_query(
+            "كووورة انتقالات لاعبين",
+        ),
+        "B",
+        "arabic_transfers",
+    ),
+
+    (
+        "العربية رياضة انتقالات",
+        google_query(
+            "العربية انتقالات لاعبين",
+        ),
         "A",
         "arabic_transfers",
     ),
 
     (
-        "WinWin ميركاتو",
-        "https://news.google.com/rss/search?q=site%3Awinwin.com+ميركاتو&hl=ar&gl=MA&ceid=MA%3Aar",
-        "A",
+        "WinWin انتقالات",
+        google_query(
+            "WinWin انتقالات لاعبين",
+        ),
+        "B",
+        "arabic_transfers",
+    ),
+
+    (
+        "يلا كورة انتقالات",
+        google_query(
+            "يلا كورة انتقالات",
+        ),
+        "B",
         "arabic_transfers",
     ),
 
     (
         "في الجول انتقالات",
-        "https://news.google.com/rss/search?q=site%3Afilgoal.com+انتقالات&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_query(
+            "في الجول انتقالات",
+        ),
+        "B",
+        "arabic_transfers",
+    ),
+
+    (
+        "365Scores انتقالات",
+        google_query(
+            "365Scores انتقالات لاعبين",
+        ),
+        "B",
+        "arabic_transfers",
+    ),
+
+    (
+        "الشرق رياضة انتقالات",
+        google_query(
+            "الشرق انتقالات لاعبين",
+        ),
         "A",
         "arabic_transfers",
     ),
 
     (
-        "ميركاتو داي",
-        "https://news.google.com/rss/search?q=site%3Amercatoday.com&hl=ar&gl=MA&ceid=MA%3Aar",
+        "العين الرياضية انتقالات",
+        google_query(
+            "العين الرياضية انتقالات",
+        ),
         "B",
         "arabic_transfers",
     ),
 
 
-    # ========================================================
-    # 🌍 الشرق الأوسط
-    # ========================================================
+    # --------------------------------------------------------
+    # الشرق الأوسط
+    # --------------------------------------------------------
 
     (
         "الجزيرة",
-        "https://news.google.com/rss/search?q=site%3Aaljazeera.net&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("aljazeera.net"),
         "A",
         "middle_east",
     ),
 
     (
         "العربية",
-        "https://news.google.com/rss/search?q=site%3Aalarabiya.net&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("alarabiya.net"),
         "A",
         "middle_east",
     ),
 
     (
         "سكاي نيوز عربية",
-        "https://news.google.com/rss/search?q=site%3Askynewsarabia.com&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("skynewsarabia.com"),
         "A",
         "middle_east",
     ),
 
     (
         "الشرق للأخبار",
-        "https://news.google.com/rss/search?q=site%3Aasharq.com&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("asharq.com"),
         "A",
         "middle_east",
     ),
 
     (
         "الشرق الأوسط",
-        "https://news.google.com/rss/search?q=site%3Aaawsat.com&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("aawsat.com"),
         "A",
         "middle_east",
     ),
 
     (
         "العربي الجديد",
-        "https://news.google.com/rss/search?q=site%3Aalaraby.co.uk&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("alaraby.co.uk"),
         "B",
         "middle_east",
     ),
 
 
-    # ========================================================
-    # 🌐 العالم بالعربية
-    # ========================================================
+    # --------------------------------------------------------
+    # العالم العربي
+    # --------------------------------------------------------
 
     (
         "القدس العربي",
-        "https://news.google.com/rss/search?q=site%3Aalquds.co.uk&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("alquds.co.uk"),
         "B",
         "world_arabic",
     ),
 
     (
         "فرانس 24 عربي",
-        "https://news.google.com/rss/search?q=site%3Afrance24.com+arabic&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("france24.com/ar"),
         "A",
         "world_arabic",
     ),
 
     (
         "DW عربية",
-        "https://news.google.com/rss/search?q=site%3Adw.com+arabic&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("dw.com/ar"),
         "A",
         "world_arabic",
     ),
 
     (
         "BBC عربي",
-        "https://news.google.com/rss/search?q=site%3Abbc.com+arabic&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("bbc.com/arabic"),
         "A",
         "world_arabic",
     ),
 
     (
         "يورونيوز عربي",
-        "https://news.google.com/rss/search?q=site%3Aeuronews.com+arabic&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("arabic.euronews.com"),
         "B",
         "world_arabic",
     ),
 
     (
         "إندبندنت عربية",
-        "https://news.google.com/rss/search?q=site%3Aindependentarabia.com&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_news("independentarabia.com"),
         "B",
         "world_arabic",
     ),
 
     (
         "CNN بالعربية",
-        "https://news.google.com/rss/search?q=site%3Aarabic.cnn.com&hl=ar&gl=MA&ceid=MA%3Aar",
+        google_query(
+            "CNN بالعربية",
+        ),
         "A",
         "world_arabic",
     ),
 
 
-    # ========================================================
-    # 🔎 مصادر دولية للتحقق
-    # ========================================================
+    # --------------------------------------------------------
+    # مصادر دولية للتحقق
+    # --------------------------------------------------------
 
     (
         "Reuters",
-        "https://news.google.com/rss/search?q=site%3Areuters.com&hl=en&gl=US&ceid=US%3Aen",
+        google_news(
+            "reuters.com",
+            language="en",
+            country="US",
+        ),
         "A",
         "international",
     ),
 
     (
         "Associated Press",
-        "https://news.google.com/rss/search?q=site%3Aapnews.com&hl=en&gl=US&ceid=US%3Aen",
+        google_news(
+            "apnews.com",
+            language="en",
+            country="US",
+        ),
         "A",
         "international",
     ),
