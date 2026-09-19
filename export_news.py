@@ -2,121 +2,130 @@ import json
 from db import recent
 
 
-MOROCCO_SOURCES = {
-    "MAP عربي",
-    "SNRTnews عربي",
-    "هسبريس",
-    "Le360 عربي",
-    "العمق المغربي",
-    "اليوم24",
-    "أخبارنا المغربية",
-    "هبة بريس",
-    "برلمان",
-    "كود",
-    "كفاش",
-    "فبراير",
-    "البطولة",
-    "المنتخب",
-}
+# ============================================================
+# SETTINGS
+# ============================================================
 
-MIDDLE_EAST_SOURCES = {
-    "الجزيرة",
-    "العربية",
-    "سكاي نيوز عربية",
-    "الشرق للأخبار",
-    "الشرق الأوسط",
-    "العربي الجديد",
-}
-
-INTERNATIONAL_SOURCES = {
-    "Reuters",
-    "BBC",
-    "Associated Press",
-    "France 24 عربي",
-    "DW عربية",
-}
+MAX_PER_SECTION = 30
+MAX_TOTAL = 150
 
 
-def source_group(item):
-    source = item.get("source", "")
+# ============================================================
+# GET NEWS
+# ============================================================
 
-    if source in MOROCCO_SOURCES:
+items = recent(500)
+
+
+# ============================================================
+# SECTION HELPERS
+# ============================================================
+
+def section_for(item):
+    category = item.get("category", "")
+    source_group = item.get("source_group", "")
+
+    # 🔄 الانتقالات
+    if category == "انتقالات اللاعبين":
+        return "transfers"
+
+    # ⚽ الرياضة
+    if category == "الرياضة":
+        return "sports"
+
+    # 🇲🇦 المغرب
+    if (
+        category == "أخبار المغرب"
+        or source_group == "morocco"
+    ):
         return "morocco"
 
-    if source in MIDDLE_EAST_SOURCES:
+    # 🌐 الشرق الأوسط
+    if (
+        category == "الشرق الأوسط"
+        or source_group == "middle_east"
+    ):
         return "middle_east"
 
-    if source in INTERNATIONAL_SOURCES:
-        return "international"
+    # 🌍 العالم بالعربية
+    if (
+        category == "العالم بالعربية"
+        or source_group == "world_arabic"
+    ):
+        return "world_arabic"
 
-    return "other"
-
-
-# نجلب عددًا كبيرًا من الأخبار من قاعدة البيانات
-all_items = recent(500)
-
-
-morocco = []
-middle_east = []
-international = []
-other = []
-
-for item in all_items:
-    group = source_group(item)
-
-    if group == "morocco":
-        morocco.append(item)
-    elif group == "middle_east":
-        middle_east.append(item)
-    elif group == "international":
-        international.append(item)
-    else:
-        other.append(item)
+    return None
 
 
-# توزيع متوازن للموقع
-selected = []
+# ============================================================
+# CREATE SECTIONS
+# ============================================================
 
-# الأخبار المغربية لها الأولوية
-selected.extend(morocco[:50])
-
-# أخبار الشرق الأوسط
-selected.extend(middle_east[:20])
-
-# الأخبار الدولية
-selected.extend(international[:20])
-
-# أي أخبار أخرى
-selected.extend(other[:10])
+sections = {
+    "morocco": [],
+    "middle_east": [],
+    "world_arabic": [],
+    "sports": [],
+    "transfers": [],
+}
 
 
-# إذا كان العدد أقل من 100، نكمل من بقية الأخبار
-if len(selected) < 100:
-    selected_urls = {
-        item.get("url")
-        for item in selected
-    }
+# ============================================================
+# DISTRIBUTE NEWS
+# ============================================================
 
-    for item in all_items:
-        if item.get("url") in selected_urls:
-            continue
+for item in items:
 
-        selected.append(item)
-        selected_urls.add(item.get("url"))
+    section = section_for(item)
 
-        if len(selected) >= 100:
-            break
+    if section is None:
+        continue
+
+    if len(sections[section]) >= MAX_PER_SECTION:
+        continue
+
+    sections[section].append(item)
 
 
-# ترتيب الأخبار من الأحدث إلى الأقدم
-selected.sort(
-    key=lambda item: item.get("discovered", ""),
-    reverse=True
+# ============================================================
+# SORT
+# ============================================================
+
+for section in sections:
+
+    sections[section].sort(
+        key=lambda item: item.get(
+            "discovered",
+            ""
+        ),
+        reverse=True
+    )
+
+
+# ============================================================
+# LIMIT TOTAL
+# ============================================================
+
+total_items = sum(
+    len(items)
+    for items in sections.values()
 )
 
 
-# الاحتفاظ بـ 100 خبر كحد أقصى
-selected = selected[:100]
+# ============================================================
+# OUTPUT
+# ============================================================
+
+data = {
+    "updated": items[0].get(
+        "discovered",
+        ""
+    ) if items else "",
+
+    "total": total_items,
+
+    "sections": sections,
+}
 
 
 with open(
@@ -124,30 +133,44 @@ with open(
     "w",
     encoding="utf-8"
 ) as f:
+
     json.dump(
-        selected,
+        data,
         f,
         ensure_ascii=False,
         indent=2
     )
 
 
+# ============================================================
+# LOGS
+# ============================================================
+
 print(
-    f"Exported {len(selected)} news items"
+    f"Exported {total_items} news items"
 )
 
 print(
-    f"Morocco: {len(morocco[:50])}"
+    f"Morocco: "
+    f"{len(sections['morocco'])}"
 )
 
 print(
-    f"Middle East: {len(middle_east[:20])}"
+    f"Middle East: "
+    f"{len(sections['middle_east'])}"
 )
 
 print(
-    f"International: {len(international[:20])}"
+    f"World Arabic: "
+    f"{len(sections['world_arabic'])}"
 )
 
 print(
-    f"Other: {len(other[:10])}"
+    f"Sports: "
+    f"{len(sections['sports'])}"
+)
+
+print(
+    f"Transfers: "
+    f"{len(sections['transfers'])}"
 )
