@@ -6,9 +6,9 @@ from sources import (
 )
 
 
-# =========================================================
+# ============================================================
 # STATUS
-# =========================================================
+# ============================================================
 
 STATUSES = [
     "رسمي",
@@ -25,9 +25,9 @@ STATUSES = [
 ]
 
 
-# =========================================================
+# ============================================================
 # SOURCE GROUPS
-# =========================================================
+# ============================================================
 
 MOROCCO_SOURCES = {
     "MAP عربي",
@@ -46,7 +46,6 @@ MOROCCO_SOURCES = {
     "المنتخب",
 }
 
-
 MIDDLE_EAST_SOURCES = {
     "الجزيرة",
     "العربية",
@@ -56,392 +55,255 @@ MIDDLE_EAST_SOURCES = {
     "العربي الجديد",
 }
 
+WORLD_ARABIC_SOURCES = {
+    "القدس العربي",
+    "فرانس 24 عربي",
+    "DW عربية",
+    "BBC عربي",
+    "يورونيوز عربي",
+    "إندبندنت عربية",
+    "CNN بالعربية",
+}
 
 INTERNATIONAL_SOURCES = {
     "Reuters",
-    "BBC",
     "Associated Press",
-    "France 24 عربي",
-    "DW عربية",
 }
 
 
-# =========================================================
-# SPORTS
-# =========================================================
+# ============================================================
+# SPORTS TERMS
+# ============================================================
 
 SPORTS_TERMS = [
-
+    "رياضة",
+    "رياضي",
     "كرة القدم",
-    "كرة السلة",
-    "كرة اليد",
-    "التنس",
-    "الدوري",
-    "البطولة",
-    "المباراة",
     "مباراة",
+    "مباريات",
+    "دوري",
+    "بطولة",
+    "كأس",
     "منتخب",
-    "نادي",
-    "أندية",
     "لاعب",
     "لاعبين",
     "مدرب",
-    "هدف",
+    "نادي",
     "أهداف",
-    "فوز",
-    "خسارة",
-    "تعادل",
+    "هدف",
     "تصفيات",
-    "كأس",
-    "دوري أبطال",
-    "دوري الأبطال",
+    "الدوري المغربي",
+    "البطولة الاحترافية",
+    "دوري أبطال أوروبا",
     "الدوري الإنجليزي",
     "الدوري الإسباني",
-    "الدوري الإيطالي",
     "الدوري الفرنسي",
-    "الدوري الألماني",
-    "الدوري السعودي",
-    "دوري أبطال أوروبا",
-    "كأس العالم",
+    "الدوري الإيطالي",
+    "دوري أبطال إفريقيا",
     "كأس إفريقيا",
-    "المنتخب المغربي",
-    "أسود الأطلس",
-
+    "كأس العالم",
     "football",
     "soccer",
-    "basketball",
-    "tennis",
     "match",
     "matches",
-    "club",
-    "clubs",
-    "player",
-    "players",
-    "coach",
-    "goal",
-    "goals",
     "league",
-    "champions league",
-    "world cup",
-    "afcon",
-    "premier league",
-    "la liga",
-    "serie a",
-    "ligue 1",
-    "bundesliga",
+    "cup",
+    "champions",
 ]
 
 
-# =========================================================
-# PLAYER
-# =========================================================
+# ============================================================
+# HELPERS
+# ============================================================
 
-def _player(text):
+def contains_any(text, terms):
+    text = text.lower()
 
-    low = text.lower()
+    return any(
+        term.lower() in text
+        for term in terms
+    )
 
-    for name in sorted(
-        MOROCCAN_PLAYERS,
-        key=len,
-        reverse=True
-    ):
 
-        if name.lower() in low:
-            return name
+def find_player(text):
+    text_lower = text.lower()
+
+    for player in MOROCCAN_PLAYERS:
+        if player.lower() in text_lower:
+            return player
 
     return ""
 
 
-# =========================================================
-# TRANSFER
-# =========================================================
-
-def _is_transfer(text):
-
-    low = text.lower()
-
-    has_transfer_term = any(
-        term.lower() in low
-        for term in TRANSFER_TERMS
-    )
-
-    return (
-        has_transfer_term
-        and bool(_player(text))
+def is_transfer(text):
+    return contains_any(
+        text,
+        TRANSFER_TERMS
     )
 
 
-# =========================================================
-# SPORT
-# =========================================================
-
-def _is_sport(text):
-
-    low = text.lower()
-
-    return any(
-        term.lower() in low
-        for term in SPORTS_TERMS
+def is_sports(text):
+    return contains_any(
+        text,
+        SPORTS_TERMS
     )
 
 
-# =========================================================
-# STATUS
-# =========================================================
+# ============================================================
+# TRANSFER STATUS
+# ============================================================
 
-def _status(text, trust):
+def detect_status(text, trust):
+    t = text.lower()
 
-    low = text.lower()
-
-    # النفي أولًا
-    denied_words = [
-        "نفى",
-        "ينفي",
-        "نفيا",
-        "منفي",
-        "غير صحيح",
-        "لا صحة",
-        "denied",
-        "denies",
-        "false",
+    # رسمي
+    official_patterns = [
+        "رسمي",
+        "رسميا",
+        "رسميًا",
+        "يعلن النادي",
+        "أعلن النادي",
+        "أعلن",
+        "وقع",
+        "يوقع",
+        "تعاقد",
+        "تم التوقيع",
+        "signed",
+        "signs",
+        "official",
+        "officially",
     ]
 
     if any(
-        word in low
-        for word in denied_words
+        pattern in t
+        for pattern in official_patterns
     ):
-        return "منفي"
+        return "رسمي"
 
+    # اتفاق
+    agreement_patterns = [
+        "اتفاق مبدئي",
+        "اتفق مع",
+        "توصل إلى اتفاق",
+        "اتفاق",
+        "agreement",
+        "agreed",
+    ]
+
+    if any(
+        pattern in t
+        for pattern in agreement_patterns
+    ):
+        return "اتفاق مبدئي"
+
+    # مفاوضات
+    negotiation_patterns = [
+        "مفاوضات",
+        "يتفاوض",
+        "تفاوض",
+        "negotiation",
+        "negotiations",
+    ]
+
+    if any(
+        pattern in t
+        for pattern in negotiation_patterns
+    ):
+        return "مفاوضات"
+
+    # اهتمام
+    interest_patterns = [
+        "اهتمام",
+        "مهتم",
+        "يرغب في ضمه",
+        "interest",
+        "interested",
+    ]
+
+    if any(
+        pattern in t
+        for pattern in interest_patterns
+    ):
+        return "اهتمام"
+
+    # عرض
+    offer_patterns = [
+        "عرض",
+        "عرضًا",
+        "offer",
+        "bid",
+    ]
+
+    if any(
+        pattern in t
+        for pattern in offer_patterns
+    ):
+        return "عرض"
 
     # إعارة
-    loan_words = [
+    loan_patterns = [
         "إعارة",
+        "معارا",
+        "معارًا",
         "loan",
     ]
 
     if any(
-        word in low
-        for word in loan_words
+        pattern in t
+        for pattern in loan_patterns
     ):
         return "إعارة"
 
-
     # تجديد
-    renewal_words = [
+    renewal_patterns = [
         "تجديد",
         "يجدد",
-        "جدد",
+        "جدد عقده",
         "renewal",
         "renewed",
+        "extends",
+        "extension",
     ]
 
     if any(
-        word in low
-        for word in renewal_words
+        pattern in t
+        for pattern in renewal_patterns
     ):
         return "تجديد"
 
-
-    # رسمي
-    official_words = [
-        "رسميا",
-        "رسميًا",
-        "رسمي",
-        "يوقع",
-        "وقع",
-        "تعاقد",
-        "أعلن النادي",
-        "الإعلان الرسمي",
-        "official",
-        "officially",
-        "signed",
-        "signs",
-        "announced",
-    ]
-
-    if any(
-        word in low
-        for word in official_words
-    ):
-
-        if trust == "A":
-            return "رسمي"
-
-        return "مؤكد"
-
-
-    # اتفاق
-    confirmed_words = [
-        "مؤكد",
-        "اتفاق",
-        "تم الاتفاق",
-        "توصل لاتفاق",
-        "اتفاق مبدئي",
-        "confirmed",
-        "agreement",
-        "deal",
-    ]
-
-    if any(
-        word in low
-        for word in confirmed_words
-    ):
-        return "مؤكد"
-
-
-    # مفاوضات
-    negotiation_words = [
-        "مفاوضات",
-        "يجري التفاوض",
-        "محادثات",
-        "اهتمام",
-        "عرض",
-        "negotiation",
-        "negotiations",
-        "talks",
-        "interest",
-        "offer",
-    ]
-
-    if any(
-        word in low
-        for word in negotiation_words
-    ):
-        return "مفاوضات"
-
-
     # إشاعة
-    rumor_words = [
+    rumor_patterns = [
         "إشاعة",
         "شائعة",
+        "أنباء",
         "تقارير",
-        "بحسب تقارير",
-        "يقال",
+        "بحسب مصادر",
         "rumor",
         "rumour",
-        "reportedly",
+        "reports",
     ]
 
     if any(
-        word in low
-        for word in rumor_words
+        pattern in t
+        for pattern in rumor_patterns
     ):
         return "إشاعة"
 
+    # مصدر موثوق مع خبر انتقال
+    if trust == "A":
+        return "مؤكد"
 
     return "غير واضح"
 
 
-# =========================================================
-# REMOVE DUPLICATE TEXT
-# =========================================================
+# ============================================================
+# SUMMARY
+# ============================================================
 
-def _remove_repeated_text(text):
-
-    if not text:
-        return ""
-
-    text = re.sub(
-        r"\s+",
-        " ",
-        text
-    ).strip()
-
-
-    # تقسيم النص إلى جمل
-    sentences = re.split(
-        r"(?<=[.!؟])\s+",
-        text
-    )
-
-
-    unique = []
-
-    for sentence in sentences:
-
-        sentence = sentence.strip()
-
-        if not sentence:
-            continue
-
-        # منع تكرار الجملة نفسها
-        if sentence not in unique:
-
-            unique.append(
-                sentence
-            )
-
-
-    text = " ".join(unique)
-
-
-    # البحث عن تكرار كتلة نصية
-    words = text.split()
-
-    if len(words) >= 20:
-
-        for size in range(
-            min(40, len(words) // 2),
-            7,
-            -1
-        ):
-
-            first = " ".join(
-                words[:size]
-            ).strip()
-
-            second_start = size
-
-            second_end = min(
-                len(words),
-                size * 2
-            )
-
-            second = " ".join(
-                words[
-                    second_start:
-                    second_end
-                ]
-            ).strip()
-
-            if (
-                first
-                and second
-                and first == second
-            ):
-
-                words = words[
-                    :size
-                ]
-
-                text = " ".join(
-                    words
-                )
-
-                break
-
-
-    # الحد الأقصى
-    if len(text) > 420:
-
-        text = (
-            text[:420]
-            .rsplit(" ", 1)[0]
-            + "..."
-        )
-
-
-    return text
-
-
-# =========================================================
-# REMOVE TITLE-LIKE REPETITION
-# =========================================================
-
-def _make_summary(text):
-
-    if not text:
-        return ""
+def make_summary(text):
+    """
+    إنشاء ملخص قصير بدون تكرار العنوان.
+    """
 
     text = re.sub(
         r"\s+",
@@ -449,100 +311,128 @@ def _make_summary(text):
         text
     ).strip()
 
-
-    # إذا كان النص قصيرًا
-    if len(text) <= 180:
+    if len(text) <= 320:
         return text
 
-
-    sentences = re.split(
-        r"(?<=[.!؟])\s+",
-        text
-    )
-
-
-    # إزالة الجملة الأولى إذا كانت عنوانًا
-    # ثم استعمال باقي النص كملخص
-    if len(sentences) >= 2:
-
-        first = sentences[0].strip()
-        rest = " ".join(
-            sentences[1:]
-        ).strip()
-
-        if (
-            len(first) < 180
-            and len(rest) > 40
-        ):
-
-            text = rest
+    return text[:320].rsplit(
+        " ",
+        1
+    )[0] + "..."
 
 
-    return _remove_repeated_text(
-        text
-    )
-
-
-# =========================================================
+# ============================================================
 # CATEGORY
-# =========================================================
+# ============================================================
 
-def _category(text, source):
+def detect_category(text, source):
+    """
+    تحديد القسم الرئيسي للخبر.
+    """
 
-    # الانتقالات أولًا
-    # حتى لا تتحول أخبار الانتقالات
-    # إلى رياضة فقط
-    if _is_transfer(text):
-        return "انتقالات اللاعبين"
+    # 🔄 الانتقالات أولًا
+    # لأن خبر انتقال لاعب يجب أن يظهر
+    # في قسم الانتقالات حتى لو كان رياضيًا.
+    if is_transfer(text):
 
+        player = find_player(text)
 
-    # الرياضة
-    if _is_sport(text):
-        return "رياضة"
+        if player:
+            return "انتقالات اللاعبين"
 
+    # ⚽ الرياضة
+    if is_sports(text):
 
-    # الشرق الأوسط
-    if source in MIDDLE_EAST_SOURCES:
-        return "الشرق الأوسط"
+        if source in MOROCCO_SOURCES:
+            return "الرياضة"
 
-
-    # الأخبار الدولية
-    if source in INTERNATIONAL_SOURCES:
-        return "أخبار دولية"
-
-
-    # المغرب
+    # 🇲🇦 المغرب
     if source in MOROCCO_SOURCES:
         return "أخبار المغرب"
 
+    # 🌐 الشرق الأوسط
+    if source in MIDDLE_EAST_SOURCES:
+        return "الشرق الأوسط"
 
-    # الاحتياط
-    return "أخبار المغرب"
+    # 🌍 العالم بالعربية
+    if source in WORLD_ARABIC_SOURCES:
+        return "العالم بالعربية"
+
+    # 🔎 المصادر الدولية
+    if source in INTERNATIONAL_SOURCES:
+        return "مصادر دولية"
+
+    return "أخبار أخرى"
 
 
-# =========================================================
+# ============================================================
 # MAIN CLASSIFIER
-# =========================================================
+# ============================================================
 
-def classify(
-    text,
-    source,
-    trust
-):
+def classify(text, source, trust):
 
-    player = _player(text)
+    player = find_player(text)
 
-    category = _category(
+    category = detect_category(
         text,
         source
     )
 
-    status = _status(
-        text,
-        trust
-    )
+    status = "غير واضح"
 
-    summary = _make_summary(
+    # حالة الانتقالات
+    if category == "انتقالات اللاعبين":
+
+        status = detect_status(
+            text,
+            trust
+        )
+
+    # الأخبار الرياضية
+    elif category == "الرياضة":
+
+        status = (
+            "مؤكد"
+            if trust == "A"
+            else "غير واضح"
+        )
+
+    # الأخبار المغربية
+    elif category == "أخبار المغرب":
+
+        status = (
+            "مؤكد"
+            if trust == "A"
+            else "غير واضح"
+        )
+
+    # الشرق الأوسط
+    elif category == "الشرق الأوسط":
+
+        status = (
+            "مؤكد"
+            if trust == "A"
+            else "غير واضح"
+        )
+
+    # العالم بالعربية
+    elif category == "العالم بالعربية":
+
+        status = (
+            "مؤكد"
+            if trust == "A"
+            else "غير واضح"
+        )
+
+    # المصادر الدولية
+    elif category == "مصادر دولية":
+
+        status = (
+            "مؤكد"
+            if trust == "A"
+            else "غير واضح"
+        )
+
+    summary = make_summary(
         text
     )
 
@@ -551,4 +441,4 @@ def classify(
         status,
         summary,
         player
-)
+    )
