@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19T11:48:55.256325+00:00",
-  "total": 81,
+  "updated": "2026-09-19T11:58:05.564014+00:00",
+  "total": 83,
   "sections": {
     "morocco": [
       {
@@ -455,6 +455,36 @@
       }
     ],
     "middle_east": [
+      {
+        "id": 1677,
+        "title": "سجالات الذكاء الاصطناعي تُفجر مفاجآت في قاعات المحاكم الأميركية - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxNNl9uRDFUSmZNRmh0eEQtM2U0bXNpRWdhaGpGUEFDOFpWTURTZUJtWHAweUlibXJpZ2ZOV3FrUW5jYlpNRThrUU5QdlNSbWNfRHFHbVN1VHhxZ2Q0VjNObTRDb0YwNWx3N1l6LXF4NGl5YXZ5MGV6aUxxclNvOWVrODdjMDZuNm9JTm00Smp0TkZmaklXYk4zaW9VQkJvUE8weTd2NjlyRVhPdDFvVmhrYjMwTTBqczZPSkkzT3hZbDV2dC1idHMybXN1MG5lTUJ1eDJMYy1Kb1JVaW9Kci00U2x1TmIzYUFZVjNhX0EtVnFJYnNyQXdrbmZVZ2RNT1RVTkZkR1ZxQ1NtYVFJczJOSnJXLUl2QWZ3dFBGcEtQMzdqLU8yMTBUdlFKTGd5V1EyT1FPT3hib2V3enVFQXBPTFVWbXJ4TGd0RHhyRjdlOHZMMEtzQm1HMUpvTG1ac1BUUlNUTnVzUlpJd00wNTFRd3pib0M2bmhlUks3Q3g4N0pjeDNiMVlvd2IycFVEMlRLOURPVHNzU1lzaUlYdmtFX1JQX3dRVWNudm5SYTZBVmlPUFFsb0RUWHU5MEtINUVzMmZHQTRCT29JV0xVUHhUa25ZSTRYcG1aMVFBMEpnTV9FczRvVW55OVNGMm84YjAtMGFEVmFBRGVpcmJ4czJXeTJnTXdFS21nVEpyY2VpRVF2RXZ0WS1XRFJFUWF0QThvSTEzdW9oc1lTYmRKMGhCdjRmY3JvdDVFVGZjcU5abHhVZlF6SWVwcTRZU2xjSVplOHUxQ3piVFVLemU2bmFhaFZIQ1M5T2RRRktzY29EaElVMFRsNDBSYzJvelM2SzlDRUVXM0NRUG1Jd1llX2JxYTd4X1VWUTBtSFhNSlc0dFdTSlJScGd0TEJqa0ZtUTdqakctMzhlWWt2TjA?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "A",
+        "published": "Fri, 18 Sep 2026 16:17:36 GMT",
+        "discovered": "2026-09-19T11:57:58.723837+00:00",
+        "category": "الشرق الأوسط",
+        "status": "مؤكد",
+        "summary": "سجالات الذكاء الاصطناعي تُفجر مفاجآت في قاعات المحاكم الأميركية - الشرق الأوسط سجالات الذكاء الاصطناعي تُفجر مفاجآت في قاعات المحاكم الأميركية الشرق الأوسط سجالات الذكاء الاصطناعي تُفجر مفاجآت في قاعات المحاكم الأميركية الشرق الأوسط",
+        "player": "",
+        "content_hash": "0a4374409f9bca340b3489ee16251e3887ca3b7e20a9f0a03ee0d3a4d8da686f",
+        "sent": 0
+      },
+      {
+        "id": 1676,
+        "title": "الارتداد شرقا - الشرق للأخبار",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XNmxScDVNMHVGTDR5bU9sbE9PaWxsU2hOX21yaWRrOHhELXg5YjNpQjBjX21nY3NhZmNyazlhODZzbnoyaE1yZVU5aUZTd1FNci1wQzQ1TVpiVEVjelNj?oc=5",
+        "source": "الشرق للأخبار",
+        "trust": "A",
+        "published": "Sun, 19 Jan 2025 12:15:28 GMT",
+        "discovered": "2026-09-19T11:57:58.108880+00:00",
+        "category": "الشرق الأوسط",
+        "status": "مؤكد",
+        "summary": "الارتداد شرقا - الشرق للأخبار الارتداد شرقا الشرق للأخبار الارتداد شرقا الشرق للأخبار",
+        "player": "",
+        "content_hash": "d6c5a27b0fd8c46e2cd6f8f6bc4ca7141066a9312a420ef6b5a0abb65d3c5982",
+        "sent": 0
+      },
       {
         "id": 1672,
         "title": "الطائفية المعرفية وموت التفكير - العربي الجديد",
