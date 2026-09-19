@@ -9,18 +9,36 @@ let searchTerm = "";
 
 let visibleCount = 10;
 
+let toastTimer = null;
+
 
 /* =========================================================
    HELPERS
 ========================================================= */
 
 function escapeHTML(value) {
+
     return String(value ?? "")
         .replace(/&/g, "&amp;")
         .replace(/</g, "&lt;")
         .replace(/>/g, "&gt;")
         .replace(/"/g, "&quot;")
         .replace(/'/g, "&#039;");
+}
+
+
+function setText(id, value) {
+
+    const element = document.getElementById(id);
+
+    if (element) {
+        element.textContent = value;
+    }
+}
+
+
+function getElement(id) {
+    return document.getElementById(id);
 }
 
 
@@ -36,42 +54,183 @@ function formatDate(value) {
         return String(value);
     }
 
-    return new Intl.DateTimeFormat("ar-MA", {
-        day: "2-digit",
-        month: "2-digit",
-        hour: "2-digit",
-        minute: "2-digit"
-    }).format(date);
-}
-
-
-function setText(id, value) {
-
-    const element = document.getElementById(id);
-
-    if (element) {
-        element.textContent = value;
-    }
+    return new Intl.DateTimeFormat(
+        "ar-MA",
+        {
+            day: "2-digit",
+            month: "2-digit",
+            hour: "2-digit",
+            minute: "2-digit"
+        }
+    ).format(date);
 }
 
 
 /* =========================================================
-   NORMALIZE DATA
+   CATEGORY NORMALIZATION
+========================================================= */
+
+function normalizeCategory(category) {
+
+    const value = String(category || "")
+        .trim()
+        .toLowerCase();
+
+    if (
+        value === "morocco" ||
+        value === "أخبار المغرب" ||
+        value === "المغرب" ||
+        value === "moroccan"
+    ) {
+        return "morocco";
+    }
+
+
+    if (
+        value === "middle_east" ||
+        value === "middle east" ||
+        value === "الشرق الأوسط" ||
+        value === "أخبار الشرق الأوسط"
+    ) {
+        return "middle_east";
+    }
+
+
+    if (
+        value === "world_arabic" ||
+        value === "world" ||
+        value === "العالم" ||
+        value === "العالم بالعربية" ||
+        value === "أخبار العالم"
+    ) {
+        return "world_arabic";
+    }
+
+
+    if (
+        value === "sports" ||
+        value === "sport" ||
+        value === "رياضة" ||
+        value === "الرياضة"
+    ) {
+        return "sports";
+    }
+
+
+    if (
+        value === "transfers" ||
+        value === "transfer" ||
+        value === "انتقالات" ||
+        value === "انتقالات اللاعبين"
+    ) {
+        return "transfers";
+    }
+
+
+    return value;
+}
+
+
+/* =========================================================
+   NORMALIZE NEWS DATA
 ========================================================= */
 
 function normalizeNews(data) {
+
+    /*
+       الصيغة الأولى:
+       [
+          {...},
+          {...}
+       ]
+    */
 
     if (Array.isArray(data)) {
         return data;
     }
 
-    if (data && Array.isArray(data.news)) {
+
+    /*
+       الصيغة القديمة:
+       {
+           "news": [...]
+       }
+    */
+
+    if (
+        data &&
+        Array.isArray(data.news)
+    ) {
         return data.news;
     }
 
-    if (data && Array.isArray(data.items)) {
+
+    /*
+       الصيغة القديمة:
+       {
+           "items": [...]
+       }
+    */
+
+    if (
+        data &&
+        Array.isArray(data.items)
+    ) {
         return data.items;
     }
+
+
+    /*
+       الصيغة الجديدة:
+
+       {
+           "sections": {
+               "morocco": [],
+               "middle_east": [],
+               "world_arabic": [],
+               "sports": [],
+               "transfers": []
+           }
+       }
+    */
+
+    if (
+        data &&
+        data.sections &&
+        typeof data.sections === "object"
+    ) {
+
+        const news = [];
+
+        Object.entries(
+            data.sections
+        ).forEach(
+            ([sectionName, articles]) => {
+
+                if (!Array.isArray(articles)) {
+                    return;
+                }
+
+                articles.forEach(article => {
+
+                    news.push({
+
+                        ...article,
+
+                        section:
+                            article.section ||
+                            sectionName
+
+                    });
+
+                });
+
+            }
+        );
+
+        return news;
+    }
+
 
     return [];
 }
@@ -84,158 +243,48 @@ function normalizeNews(data) {
 function getNewsCategory(item) {
 
     /*
-     * إذا كان export_news.py قد أنشأ section
-     * نستخدمه مباشرة
-     */
+       export_news.py يرسل section
+    */
 
-    if (item.section) {
-        return normalizeCategory(item.section);
+    if (item && item.section) {
+
+        return normalizeCategory(
+            item.section
+        );
     }
 
 
     /*
-     * إذا كان هناك source_group
-     */
-
-    if (item.source_group) {
-        return normalizeCategory(item.source_group);
-    }
-
-
-    const category =
-        String(item.category || "").trim();
-
-
-    /*
-     * المغرب
-     */
+       بعض الأخبار قد تحتوي source_group
+    */
 
     if (
-        category === "أخبار المغرب" ||
-        category === "المغرب" ||
-        category === "Morocco" ||
-        category === "morocco"
+        item &&
+        item.source_group
     ) {
-        return "morocco";
+
+        return normalizeCategory(
+            item.source_group
+        );
     }
 
 
     /*
-     * الشرق الأوسط
-     */
+       fallback إلى category
+    */
 
     if (
-        category === "الشرق الأوسط" ||
-        category === "أخبار الشرق الأوسط" ||
-        category === "Middle East" ||
-        category === "middle_east"
+        item &&
+        item.category
     ) {
-        return "middle_east";
+
+        return normalizeCategory(
+            item.category
+        );
     }
 
 
-    /*
-     * العالم بالعربية
-     */
-
-    if (
-        category === "العالم" ||
-        category === "أخبار العالم" ||
-        category === "العالم بالعربية" ||
-        category === "World" ||
-        category === "world_arabic"
-    ) {
-        return "world_arabic";
-    }
-
-
-    /*
-     * الرياضة
-     */
-
-    if (
-        category === "رياضة" ||
-        category === "الرياضة" ||
-        category === "Sports" ||
-        category === "sports"
-    ) {
-        return "sports";
-    }
-
-
-    /*
-     * الانتقالات
-     */
-
-    if (
-        category === "انتقالات اللاعبين" ||
-        category === "انتقالات" ||
-        category === "Transfers" ||
-        category === "transfers"
-    ) {
-        return "transfers";
-    }
-
-
-    return "other";
-}
-
-
-function normalizeCategory(category) {
-
-    const value =
-        String(category || "")
-            .trim()
-            .toLowerCase();
-
-
-    if (
-        value === "morocco" ||
-        value === "المغرب" ||
-        value === "أخبار المغرب"
-    ) {
-        return "morocco";
-    }
-
-
-    if (
-        value === "middle_east" ||
-        value === "middle east" ||
-        value === "الشرق الأوسط"
-    ) {
-        return "middle_east";
-    }
-
-
-    if (
-        value === "world_arabic" ||
-        value === "world" ||
-        value === "العالم" ||
-        value === "العالم بالعربية"
-    ) {
-        return "world_arabic";
-    }
-
-
-    if (
-        value === "sports" ||
-        value === "sport" ||
-        value === "رياضة"
-    ) {
-        return "sports";
-    }
-
-
-    if (
-        value === "transfers" ||
-        value === "transfer" ||
-        value === "انتقالات اللاعبين"
-    ) {
-        return "transfers";
-    }
-
-
-    return value || "other";
+    return "";
 }
 
 
@@ -245,180 +294,43 @@ function normalizeCategory(category) {
 
 function getNewsStatus(item) {
 
-    return item.status || "غير واضح";
+    if (
+        item &&
+        item.status
+    ) {
+        return item.status;
+    }
+
+    return "غير واضح";
 }
 
 
 /* =========================================================
-   SOURCE GROUP FALLBACK
+   CATEGORY LABEL
 ========================================================= */
 
-const MOROCCO_SOURCES = [
+function getCategoryLabel(category) {
 
-    "MAP عربي",
-    "MAP",
-    "SNRTnews عربي",
-    "SNRTnews",
-    "هسبريس",
-    "Le360 عربي",
-    "Le360",
-    "العمق المغربي",
-    "اليوم24",
-    "أخبارنا المغربية",
-    "هبة بريس",
-    "برلمان",
-    "كود",
-    "كفاش",
-    "فبراير",
-    "البطولة",
-    "المنتخب"
-];
+    switch (normalizeCategory(category)) {
 
+        case "morocco":
+            return "أخبار المغرب";
 
-const MIDDLE_EAST_SOURCES = [
+        case "middle_east":
+            return "الشرق الأوسط";
 
-    "الجزيرة",
-    "العربية",
-    "سكاي نيوز عربية",
-    "الشرق للأخبار",
-    "الشرق الأوسط",
-    "العربي الجديد"
-];
+        case "world_arabic":
+            return "العالم";
 
+        case "sports":
+            return "الرياضة";
 
-const WORLD_ARABIC_SOURCES = [
+        case "transfers":
+            return "الانتقالات";
 
-    "فرانس 24 عربي",
-    "France 24 عربي",
-    "DW عربية",
-    "BBC عربي",
-    "يورو نيوز عربي",
-    "يورونيوز عربي",
-    "إندبندنت عربية",
-    "CNN عربية",
-    "القدس العربي"
-];
-
-
-function getSourceGroup(item) {
-
-    const source =
-        String(item.source || "").trim();
-
-
-    if (
-        MOROCCO_SOURCES.includes(source)
-    ) {
-        return "morocco";
+        default:
+            return "أخبار";
     }
-
-
-    if (
-        MIDDLE_EAST_SOURCES.includes(source)
-    ) {
-        return "middle_east";
-    }
-
-
-    if (
-        WORLD_ARABIC_SOURCES.includes(source)
-    ) {
-        return "world_arabic";
-    }
-
-
-    return null;
-}
-
-
-/* =========================================================
-   FINAL SECTION
-========================================================= */
-
-function getFinalSection(item) {
-
-    const category =
-        getNewsCategory(item);
-
-
-    /*
-     * الانتقالات لها الأولوية
-     */
-
-    if (category === "transfers") {
-        return "transfers";
-    }
-
-
-    /*
-     * الرياضة
-     */
-
-    if (category === "sports") {
-        return "sports";
-    }
-
-
-    /*
-     * إذا كان section واضحا
-     */
-
-    if (
-        category === "morocco" ||
-        category === "middle_east" ||
-        category === "world_arabic"
-    ) {
-        return category;
-    }
-
-
-    /*
-     * الاعتماد على المصدر
-     */
-
-    const sourceGroup =
-        getSourceGroup(item);
-
-
-    if (sourceGroup) {
-        return sourceGroup;
-    }
-
-
-    /*
-     * الأخبار المغربية القديمة
-     */
-
-    if (
-        item.category === "أخبار المغرب"
-    ) {
-        return "morocco";
-    }
-
-
-    /*
-     * أخبار العالم القديمة
-     */
-
-    if (
-        item.category === "العالم"
-    ) {
-        return "world_arabic";
-    }
-
-
-    /*
-     * الشرق الأوسط
-     */
-
-    if (
-        item.category === "الشرق الأوسط"
-    ) {
-        return "middle_east";
-    }
-
-
-    return "other";
 }
 
 
@@ -443,7 +355,6 @@ async function loadNews(showToast = false) {
             throw new Error(
                 `HTTP ${response.status}`
             );
-
         }
 
 
@@ -456,23 +367,8 @@ async function loadNews(showToast = false) {
 
 
         /*
-         * تنظيف الأخبار غير الصالحة
-         */
-
-        allNews =
-            allNews.filter(
-                item =>
-                    item &&
-                    (
-                        item.title ||
-                        item.summary
-                    )
-            );
-
-
-        /*
-         * ترتيب الأحدث أولا
-         */
+           ترتيب الأخبار من الأحدث إلى الأقدم
+        */
 
         allNews.sort(
             (a, b) => {
@@ -482,14 +378,14 @@ async function loadNews(showToast = false) {
                         a.published ||
                         a.discovered ||
                         0
-                    );
+                    ).getTime();
 
                 const dateB =
                     new Date(
                         b.published ||
                         b.discovered ||
                         0
-                    );
+                    ).getTime();
 
                 return dateB - dateA;
             }
@@ -516,8 +412,13 @@ async function loadNews(showToast = false) {
             showToastMessage(
                 "تم تحديث الأخبار"
             );
-
         }
+
+
+        console.log(
+            `Loaded ${allNews.length} news items`
+        );
+
 
     } catch (error) {
 
@@ -525,7 +426,6 @@ async function loadNews(showToast = false) {
             "Failed to load news:",
             error
         );
-
 
         showEmptyState(
             "تعذر تحميل الأخبار"
@@ -543,8 +443,8 @@ function applyFilters() {
     filteredNews =
         allNews.filter(item => {
 
-            const section =
-                getFinalSection(item);
+            const category =
+                getNewsCategory(item);
 
             const status =
                 getNewsStatus(item);
@@ -553,12 +453,19 @@ function applyFilters() {
             const text = [
 
                 item.title,
+
                 item.summary,
+
                 item.source,
+
                 item.player,
+
                 item.category,
+
                 item.section,
-                section,
+
+                category,
+
                 status
 
             ]
@@ -568,17 +475,25 @@ function applyFilters() {
 
 
             const categoryMatch =
+
                 currentCategory === "all" ||
-                section === currentCategory;
+
+                category ===
+                currentCategory;
 
 
             const statusMatch =
+
                 currentStatus === "all" ||
-                status === currentStatus;
+
+                status ===
+                currentStatus;
 
 
             const searchMatch =
+
                 !searchTerm ||
+
                 text.includes(
                     searchTerm.toLowerCase()
                 );
@@ -606,15 +521,10 @@ function applyFilters() {
 function renderNews() {
 
     const grid =
-        document.getElementById(
-            "newsGrid"
-        );
-
+        getElement("newsGrid");
 
     const empty =
-        document.getElementById(
-            "emptyState"
-        );
+        getElement("emptyState");
 
 
     if (!grid) {
@@ -626,13 +536,11 @@ function renderNews() {
 
         grid.innerHTML = "";
 
-
         if (empty) {
             empty.classList.remove(
                 "hidden"
             );
         }
-
 
         return;
     }
@@ -643,7 +551,6 @@ function renderNews() {
         empty.classList.add(
             "hidden"
         );
-
     }
 
 
@@ -661,9 +568,7 @@ function renderNews() {
 
 
     const loadMore =
-        document.getElementById(
-            "loadMore"
-        );
+        getElement("loadMore");
 
 
     if (!loadMore) {
@@ -688,45 +593,6 @@ function renderNews() {
 
 
 /* =========================================================
-   CATEGORY LABEL
-========================================================= */
-
-function getCategoryLabel(item) {
-
-    const section =
-        getFinalSection(item);
-
-
-    const labels = {
-
-        morocco: "🇲🇦 المغرب",
-
-        middle_east:
-            "🌍 الشرق الأوسط",
-
-        world_arabic:
-            "🌎 العالم",
-
-        sports:
-            "⚽ الرياضة",
-
-        transfers:
-            "🔄 الانتقالات",
-
-        other:
-            "📰 أخبار"
-
-    };
-
-
-    return (
-        labels[section] ||
-        labels.other
-    );
-}
-
-
-/* =========================================================
    NEWS CARD
 ========================================================= */
 
@@ -736,27 +602,39 @@ function renderNewsCard(item) {
         getNewsStatus(item);
 
 
-    const statusClass =
-        status === "رسمي"
-            ? "official"
-            : status === "إشاعة"
-                ? "rumor"
-                : status === "مؤكد"
-                    ? "confirmed"
-                    : "";
-
-
     const category =
-        getCategoryLabel(item);
+        getNewsCategory(item);
+
+
+    let statusClass = "";
+
+
+    if (status === "رسمي") {
+
+        statusClass =
+            "official";
+
+    } else if (
+        status === "إشاعة"
+    ) {
+
+        statusClass =
+            "rumor";
+
+    } else if (
+        status === "مؤكد"
+    ) {
+
+        statusClass =
+            "confirmed";
+    }
 
 
     return `
 
         <article
             class="news-card"
-            data-section="${escapeHTML(
-                getFinalSection(item)
-            )}"
+            data-category="${escapeHTML(category)}"
         >
 
             <div class="news-top">
@@ -771,24 +649,22 @@ function renderNewsCard(item) {
                 </span>
 
 
-                <span class="news-category">
-
-                    ${escapeHTML(
-                        category
-                    )}
-
-                </span>
-
-
                 <span
                     class="news-status ${statusClass}"
                 >
 
-                    ${escapeHTML(
-                        status
-                    )}
+                    ${escapeHTML(status)}
 
                 </span>
+
+            </div>
+
+
+            <div class="news-category">
+
+                ${escapeHTML(
+                    getCategoryLabel(category)
+                )}
 
             </div>
 
@@ -807,10 +683,11 @@ function renderNewsCard(item) {
                 item.player
                     ? `
 
-                        <div class="news-player">
+                        <div
+                            class="news-player"
+                        >
 
                             ⚽
-
                             ${escapeHTML(
                                 item.player
                             )}
@@ -822,7 +699,9 @@ function renderNewsCard(item) {
             }
 
 
-            <p class="news-summary">
+            <p
+                class="news-summary"
+            >
 
                 ${escapeHTML(
                     item.summary ||
@@ -832,9 +711,13 @@ function renderNewsCard(item) {
             </p>
 
 
-            <div class="news-footer">
+            <div
+                class="news-footer"
+            >
 
-                <span class="news-time">
+                <span
+                    class="news-time"
+                >
 
                     ${formatDate(
                         item.published ||
@@ -850,9 +733,7 @@ function renderNewsCard(item) {
 
                             <a
                                 class="news-link"
-                                href="${escapeHTML(
-                                    item.url
-                                )}"
+                                href="${escapeHTML(item.url)}"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
@@ -880,10 +761,7 @@ function renderNewsCard(item) {
 function updateHero() {
 
     const hero =
-        allNews.find(
-            item =>
-                item.title
-        );
+        allNews[0];
 
 
     if (!hero) {
@@ -922,9 +800,7 @@ function updateHero() {
 
 
     const link =
-        document.getElementById(
-            "heroLink"
-        );
+        getElement("heroLink");
 
 
     if (!link) {
@@ -949,13 +825,13 @@ function updateHero() {
 
 
 /* =========================================================
-   BREAKING
+   BREAKING NEWS
 ========================================================= */
 
 function updateBreaking() {
 
     const element =
-        document.getElementById(
+        getElement(
             "breakingNews"
         );
 
@@ -987,6 +863,15 @@ function updateBreaking() {
 
 function updateSources() {
 
+    const container =
+        getElement("sourcesList");
+
+
+    if (!container) {
+        return;
+    }
+
+
     const counts = {};
 
 
@@ -999,7 +884,6 @@ function updateSources() {
 
         counts[source] =
             (counts[source] || 0) + 1;
-
     });
 
 
@@ -1009,18 +893,7 @@ function updateSources() {
                 (a, b) =>
                     b[1] - a[1]
             )
-            .slice(0, 10);
-
-
-    const container =
-        document.getElementById(
-            "sourcesList"
-        );
-
-
-    if (!container) {
-        return;
-    }
+            .slice(0, 8);
 
 
     container.innerHTML =
@@ -1089,6 +962,17 @@ function updateSources() {
 
 function updatePlayers() {
 
+    const container =
+        getElement(
+            "playersList"
+        );
+
+
+    if (!container) {
+        return;
+    }
+
+
     const counts = {};
 
 
@@ -1105,7 +989,6 @@ function updatePlayers() {
 
         counts[player] =
             (counts[player] || 0) + 1;
-
     });
 
 
@@ -1115,25 +998,16 @@ function updatePlayers() {
                 (a, b) =>
                     b[1] - a[1]
             )
-            .slice(0, 8);
-
-
-    const container =
-        document.getElementById(
-            "playersList"
-        );
-
-
-    if (!container) {
-        return;
-    }
+            .slice(0, 6);
 
 
     if (!players.length) {
 
         container.innerHTML = `
 
-            <p class="news-summary">
+            <p
+                class="news-summary"
+            >
 
                 لا توجد تحديثات للاعبين حاليًا.
 
@@ -1216,7 +1090,7 @@ function updateStats() {
     const morocco =
         allNews.filter(
             item =>
-                getFinalSection(item) ===
+                getNewsCategory(item) ===
                 "morocco"
         ).length;
 
@@ -1224,15 +1098,15 @@ function updateStats() {
     const middleEast =
         allNews.filter(
             item =>
-                getFinalSection(item) ===
+                getNewsCategory(item) ===
                 "middle_east"
         ).length;
 
 
-    const worldArabic =
+    const world =
         allNews.filter(
             item =>
-                getFinalSection(item) ===
+                getNewsCategory(item) ===
                 "world_arabic"
         ).length;
 
@@ -1240,7 +1114,7 @@ function updateStats() {
     const sport =
         allNews.filter(
             item =>
-                getFinalSection(item) ===
+                getNewsCategory(item) ===
                 "sports"
         ).length;
 
@@ -1248,7 +1122,7 @@ function updateStats() {
     const transfers =
         allNews.filter(
             item =>
-                getFinalSection(item) ===
+                getNewsCategory(item) ===
                 "transfers"
         ).length;
 
@@ -1256,28 +1130,32 @@ function updateStats() {
     const official =
         allNews.filter(
             item =>
-                item.status === "رسمي"
+                item.status ===
+                "رسمي"
         ).length;
 
 
     const confirmed =
         allNews.filter(
             item =>
-                item.status === "مؤكد"
+                item.status ===
+                "مؤكد"
         ).length;
 
 
     const negotiation =
         allNews.filter(
             item =>
-                item.status === "مفاوضات"
+                item.status ===
+                "مفاوضات"
         ).length;
 
 
     const rumor =
         allNews.filter(
             item =>
-                item.status === "إشاعة"
+                item.status ===
+                "إشاعة"
         ).length;
 
 
@@ -1301,7 +1179,7 @@ function updateStats() {
 
     setText(
         "countWorld",
-        worldArabic
+        world
     );
 
 
@@ -1388,7 +1266,7 @@ function updateLastUpdate() {
 
 
 /* =========================================================
-   CATEGORY BUTTON
+   CATEGORY BUTTONS
 ========================================================= */
 
 function setCategory(category) {
@@ -1435,7 +1313,7 @@ function setCategory(category) {
 
 
 /* =========================================================
-   STATUS BUTTONS
+   STATUS FILTERS
 ========================================================= */
 
 function setupStatusFilters() {
@@ -1481,71 +1359,10 @@ function setupStatusFilters() {
 
 
 /* =========================================================
-   SEARCH
-========================================================= */
-
-function setupSearch() {
-
-    const searchInput =
-        document.getElementById(
-            "searchInput"
-        );
-
-
-    if (searchInput) {
-
-        searchInput.addEventListener(
-            "input",
-            event => {
-
-                searchTerm =
-                    event.target.value.trim();
-
-
-                applyFilters();
-            }
-        );
-
-    }
-
-
-    const clearSearch =
-        document.getElementById(
-            "clearSearch"
-        );
-
-
-    if (clearSearch) {
-
-        clearSearch.addEventListener(
-            "click",
-            () => {
-
-                if (searchInput) {
-
-                    searchInput.value =
-                        "";
-
-                }
-
-
-                searchTerm =
-                    "";
-
-
-                applyFilters();
-            }
-        );
-
-    }
-}
-
-
-/* =========================================================
    CATEGORY EVENTS
 ========================================================= */
 
-function setupCategoryButtons() {
+function setupCategoryEvents() {
 
     document
         .querySelectorAll(
@@ -1571,13 +1388,67 @@ function setupCategoryButtons() {
 
 
 /* =========================================================
+   SEARCH
+========================================================= */
+
+function setupSearch() {
+
+    const input =
+        getElement(
+            "searchInput"
+        );
+
+
+    if (input) {
+
+        input.addEventListener(
+            "input",
+            event => {
+
+                searchTerm =
+                    event.target.value.trim();
+
+
+                applyFilters();
+            }
+        );
+    }
+
+
+    const clear =
+        getElement(
+            "clearSearch"
+        );
+
+
+    if (clear) {
+
+        clear.addEventListener(
+            "click",
+            () => {
+
+                if (input) {
+                    input.value = "";
+                }
+
+
+                searchTerm = "";
+
+                applyFilters();
+            }
+        );
+    }
+}
+
+
+/* =========================================================
    LOAD MORE
 ========================================================= */
 
 function setupLoadMore() {
 
     const button =
-        document.getElementById(
+        getElement(
             "loadMore"
         );
 
@@ -1606,7 +1477,7 @@ function setupLoadMore() {
 function setupRefresh() {
 
     const button =
-        document.getElementById(
+        getElement(
             "refreshBtn"
         );
 
@@ -1633,7 +1504,7 @@ function setupRefresh() {
 function setupTheme() {
 
     const button =
-        document.getElementById(
+        getElement(
             "themeBtn"
         );
 
@@ -1650,36 +1521,8 @@ function setupTheme() {
             document.body.classList.toggle(
                 "light-mode"
             );
-
-
-            const isLight =
-                document.body.classList.contains(
-                    "light-mode"
-                );
-
-
-            localStorage.setItem(
-                "morocco-news-theme",
-                isLight
-                    ? "light"
-                    : "dark"
-            );
         }
     );
-
-
-    const savedTheme =
-        localStorage.getItem(
-            "morocco-news-theme"
-        );
-
-
-    if (savedTheme === "light") {
-
-        document.body.classList.add(
-            "light-mode"
-        );
-    }
 }
 
 
@@ -1687,46 +1530,59 @@ function setupTheme() {
    MOBILE MENU
 ========================================================= */
 
-let mobileMenu = null;
+function closeMobileMenu() {
 
-
-function setupMobileMenu() {
-
-    mobileMenu =
-        document.getElementById(
+    const menu =
+        getElement(
             "mobileMenu"
         );
 
 
-    const menuButton =
-        document.getElementById(
+    if (!menu) {
+        return;
+    }
+
+
+    menu.classList.remove(
+        "open"
+    );
+}
+
+
+function setupMobileMenu() {
+
+    const menu =
+        getElement(
+            "mobileMenu"
+        );
+
+
+    const openButton =
+        getElement(
             "menuBtn"
         );
 
 
     const closeButton =
-        document.getElementById(
+        getElement(
             "closeMenu"
         );
 
 
-    if (menuButton) {
+    if (
+        menu &&
+        openButton
+    ) {
 
-        menuButton.addEventListener(
+        openButton.addEventListener(
             "click",
             () => {
 
-                if (mobileMenu) {
-
-                    mobileMenu.classList.add(
-                        "open"
-                    );
-
-                }
-
+                menu.classList.add(
+                    "open"
+                );
             }
         );
-
     }
 
 
@@ -1736,21 +1592,7 @@ function setupMobileMenu() {
             "click",
             closeMobileMenu
         );
-
     }
-}
-
-
-function closeMobileMenu() {
-
-    if (!mobileMenu) {
-        return;
-    }
-
-
-    mobileMenu.classList.remove(
-        "open"
-    );
 }
 
 
@@ -1761,7 +1603,7 @@ function closeMobileMenu() {
 function showEmptyState(message) {
 
     const empty =
-        document.getElementById(
+        getElement(
             "emptyState"
         );
 
@@ -1776,17 +1618,16 @@ function showEmptyState(message) {
     );
 
 
-    const heading =
+    const title =
         empty.querySelector(
             "h2"
         );
 
 
-    if (heading) {
+    if (title) {
 
-        heading.textContent =
+        title.textContent =
             message;
-
     }
 }
 
@@ -1795,13 +1636,10 @@ function showEmptyState(message) {
    TOAST
 ========================================================= */
 
-let toastTimer;
-
-
 function showToastMessage(message) {
 
     const toast =
-        document.getElementById(
+        getElement(
             "toast"
         );
 
@@ -1843,10 +1681,13 @@ function showToastMessage(message) {
    FOOTER YEAR
 ========================================================= */
 
-setText(
-    "footerYear",
-    new Date().getFullYear()
-);
+function updateFooterYear() {
+
+    setText(
+        "footerYear",
+        new Date().getFullYear()
+    );
+}
 
 
 /* =========================================================
@@ -1855,11 +1696,13 @@ setText(
 
 function initializeApp() {
 
+    updateFooterYear();
+
     setupStatusFilters();
 
-    setupSearch();
+    setupCategoryEvents();
 
-    setupCategoryButtons();
+    setupSearch();
 
     setupLoadMore();
 
@@ -1872,6 +1715,10 @@ function initializeApp() {
     loadNews();
 }
 
+
+/* =========================================================
+   START
+========================================================= */
 
 if (
     document.readyState ===
@@ -1886,5 +1733,4 @@ if (
 } else {
 
     initializeApp();
-
-    }
+           }
