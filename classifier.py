@@ -7,7 +7,7 @@ from sources import (
 
 
 # =========================================================
-# STATUSES
+# STATUS
 # =========================================================
 
 STATUSES = [
@@ -67,12 +67,15 @@ INTERNATIONAL_SOURCES = {
 
 
 # =========================================================
-# SPORTS KEYWORDS
+# SPORTS
 # =========================================================
 
 SPORTS_TERMS = [
 
     "كرة القدم",
+    "كرة السلة",
+    "كرة اليد",
+    "التنس",
     "الدوري",
     "البطولة",
     "المباراة",
@@ -83,7 +86,6 @@ SPORTS_TERMS = [
     "لاعب",
     "لاعبين",
     "مدرب",
-    "مدربين",
     "هدف",
     "أهداف",
     "فوز",
@@ -92,6 +94,7 @@ SPORTS_TERMS = [
     "تصفيات",
     "كأس",
     "دوري أبطال",
+    "دوري الأبطال",
     "الدوري الإنجليزي",
     "الدوري الإسباني",
     "الدوري الإيطالي",
@@ -106,6 +109,8 @@ SPORTS_TERMS = [
 
     "football",
     "soccer",
+    "basketball",
+    "tennis",
     "match",
     "matches",
     "club",
@@ -128,35 +133,13 @@ SPORTS_TERMS = [
 
 
 # =========================================================
-# TRANSFER DETECTION
-# =========================================================
-
-def _is_transfer(text):
-
-    low = text.lower()
-
-    has_transfer_term = any(
-        term.lower() in low
-        for term in TRANSFER_TERMS
-    )
-
-    player = _player(text)
-
-    return (
-        has_transfer_term
-        and bool(player)
-    )
-
-
-# =========================================================
-# PLAYER DETECTION
+# PLAYER
 # =========================================================
 
 def _player(text):
 
     low = text.lower()
 
-    # نحاول مطابقة الاسم الكامل أولًا
     for name in sorted(
         MOROCCAN_PLAYERS,
         key=len,
@@ -170,7 +153,26 @@ def _player(text):
 
 
 # =========================================================
-# SPORTS DETECTION
+# TRANSFER
+# =========================================================
+
+def _is_transfer(text):
+
+    low = text.lower()
+
+    has_transfer_term = any(
+        term.lower() in low
+        for term in TRANSFER_TERMS
+    )
+
+    return (
+        has_transfer_term
+        and bool(_player(text))
+    )
+
+
+# =========================================================
+# SPORT
 # =========================================================
 
 def _is_sport(text):
@@ -184,98 +186,24 @@ def _is_sport(text):
 
 
 # =========================================================
-# OFFICIAL STATUS
+# STATUS
 # =========================================================
 
-def _official_status(text, trust):
+def _status(text, trust):
 
     low = text.lower()
 
-    official_words = [
-
-        "official",
-        "officially",
-        "signed",
-        "signs",
-        "announced",
-        "announcement",
-
-        "رسميا",
-        "رسمي",
-        "رسميًا",
-        "يوقع",
-        "وقع",
-        "تعاقد",
-        "أعلن النادي",
-        "أعلن",
-        "الإعلان الرسمي",
-    ]
-
-    confirmed_words = [
-
-        "confirmed",
-        "agreement",
-        "deal",
-
-        "مؤكد",
-        "اتفاق",
-        "تم الاتفاق",
-        "توصل لاتفاق",
-        "اتفاق مبدئي",
-    ]
-
-    negotiation_words = [
-
-        "negotiation",
-        "negotiations",
-        "talks",
-        "interest",
-        "offer",
-
-        "مفاوضات",
-        "اهتمام",
-        "عرض",
-        "يجري التفاوض",
-    ]
-
-    loan_words = [
-
-        "loan",
-        "إعارة",
-        "إعارةً",
-    ]
-
-    renewal_words = [
-
-        "renewal",
-        "renewed",
-        "تجديد",
-        "جدد",
-        "يجدد",
-    ]
-
-    rumor_words = [
-
-        "rumor",
-        "rumour",
-        "reportedly",
-        "يقال",
-        "تقارير",
-        "بحسب تقارير",
-        "إشاعة",
-        "أنباء",
-    ]
-
+    # النفي أولًا
     denied_words = [
-
+        "نفى",
+        "ينفي",
+        "نفيا",
+        "منفي",
+        "غير صحيح",
+        "لا صحة",
         "denied",
         "denies",
         "false",
-        "نفى",
-        "ينفي",
-        "منفي",
-        "غير صحيح",
-        "نفيا",
     ]
 
     if any(
@@ -284,17 +212,52 @@ def _official_status(text, trust):
     ):
         return "منفي"
 
+
+    # إعارة
+    loan_words = [
+        "إعارة",
+        "loan",
+    ]
+
     if any(
         word in low
         for word in loan_words
     ):
         return "إعارة"
 
+
+    # تجديد
+    renewal_words = [
+        "تجديد",
+        "يجدد",
+        "جدد",
+        "renewal",
+        "renewed",
+    ]
+
     if any(
         word in low
         for word in renewal_words
     ):
         return "تجديد"
+
+
+    # رسمي
+    official_words = [
+        "رسميا",
+        "رسميًا",
+        "رسمي",
+        "يوقع",
+        "وقع",
+        "تعاقد",
+        "أعلن النادي",
+        "الإعلان الرسمي",
+        "official",
+        "officially",
+        "signed",
+        "signs",
+        "announced",
+    ]
 
     if any(
         word in low
@@ -306,11 +269,39 @@ def _official_status(text, trust):
 
         return "مؤكد"
 
+
+    # اتفاق
+    confirmed_words = [
+        "مؤكد",
+        "اتفاق",
+        "تم الاتفاق",
+        "توصل لاتفاق",
+        "اتفاق مبدئي",
+        "confirmed",
+        "agreement",
+        "deal",
+    ]
+
     if any(
         word in low
         for word in confirmed_words
     ):
         return "مؤكد"
+
+
+    # مفاوضات
+    negotiation_words = [
+        "مفاوضات",
+        "يجري التفاوض",
+        "محادثات",
+        "اهتمام",
+        "عرض",
+        "negotiation",
+        "negotiations",
+        "talks",
+        "interest",
+        "offer",
+    ]
 
     if any(
         word in low
@@ -318,20 +309,34 @@ def _official_status(text, trust):
     ):
         return "مفاوضات"
 
+
+    # إشاعة
+    rumor_words = [
+        "إشاعة",
+        "شائعة",
+        "تقارير",
+        "بحسب تقارير",
+        "يقال",
+        "rumor",
+        "rumour",
+        "reportedly",
+    ]
+
     if any(
         word in low
         for word in rumor_words
     ):
         return "إشاعة"
 
+
     return "غير واضح"
 
 
 # =========================================================
-# SUMMARY CLEANING
+# REMOVE DUPLICATE TEXT
 # =========================================================
 
-def _clean_summary(text):
+def _remove_repeated_text(text):
 
     if not text:
         return ""
@@ -342,39 +347,15 @@ def _clean_summary(text):
         text
     ).strip()
 
-    # إزالة التكرار الكامل
-    words = text.split()
 
-    if len(words) > 20:
-
-        half = len(words) // 2
-
-        first = " ".join(
-            words[:half]
-        ).strip()
-
-        second = " ".join(
-            words[half:]
-        ).strip()
-
-        if (
-            first
-            and second
-            and (
-                first in second
-                or second in first
-            )
-        ):
-
-            text = first
-
-    # إزالة تكرار الجمل
+    # تقسيم النص إلى جمل
     sentences = re.split(
         r"(?<=[.!؟])\s+",
         text
     )
 
-    unique_sentences = []
+
+    unique = []
 
     for sentence in sentences:
 
@@ -383,23 +364,123 @@ def _clean_summary(text):
         if not sentence:
             continue
 
-        if sentence not in unique_sentences:
-            unique_sentences.append(
+        # منع تكرار الجملة نفسها
+        if sentence not in unique:
+
+            unique.append(
                 sentence
             )
 
-    text = " ".join(
-        unique_sentences
-    )
 
-    # الحد الأقصى للملخص
-    if len(text) > 500:
-        text = text[:500].rsplit(
-            " ",
-            1
-        )[0] + "..."
+    text = " ".join(unique)
+
+
+    # البحث عن تكرار كتلة نصية
+    words = text.split()
+
+    if len(words) >= 20:
+
+        for size in range(
+            min(40, len(words) // 2),
+            7,
+            -1
+        ):
+
+            first = " ".join(
+                words[:size]
+            ).strip()
+
+            second_start = size
+
+            second_end = min(
+                len(words),
+                size * 2
+            )
+
+            second = " ".join(
+                words[
+                    second_start:
+                    second_end
+                ]
+            ).strip()
+
+            if (
+                first
+                and second
+                and first == second
+            ):
+
+                words = words[
+                    :size
+                ]
+
+                text = " ".join(
+                    words
+                )
+
+                break
+
+
+    # الحد الأقصى
+    if len(text) > 420:
+
+        text = (
+            text[:420]
+            .rsplit(" ", 1)[0]
+            + "..."
+        )
+
 
     return text
+
+
+# =========================================================
+# REMOVE TITLE-LIKE REPETITION
+# =========================================================
+
+def _make_summary(text):
+
+    if not text:
+        return ""
+
+    text = re.sub(
+        r"\s+",
+        " ",
+        text
+    ).strip()
+
+
+    # إذا كان النص قصيرًا
+    if len(text) <= 180:
+        return text
+
+
+    sentences = re.split(
+        r"(?<=[.!؟])\s+",
+        text
+    )
+
+
+    # إزالة الجملة الأولى إذا كانت عنوانًا
+    # ثم استعمال باقي النص كملخص
+    if len(sentences) >= 2:
+
+        first = sentences[0].strip()
+        rest = " ".join(
+            sentences[1:]
+        ).strip()
+
+        if (
+            len(first) < 180
+            and len(rest) > 40
+        ):
+
+            text = rest
+
+
+    return _remove_repeated_text(
+        text
+    )
 
 
 # =========================================================
@@ -408,37 +489,46 @@ def _clean_summary(text):
 
 def _category(text, source):
 
-    # الرياضة أولًا
-    # حتى لا يصنف خبر رياضي مغربي
-    # على أنه خبر مغربي فقط
+    # الانتقالات أولًا
+    # حتى لا تتحول أخبار الانتقالات
+    # إلى رياضة فقط
+    if _is_transfer(text):
+        return "انتقالات اللاعبين"
+
+
+    # الرياضة
     if _is_sport(text):
-
-        if _is_transfer(text):
-            return "انتقالات اللاعبين"
-
         return "رياضة"
+
 
     # الشرق الأوسط
     if source in MIDDLE_EAST_SOURCES:
         return "الشرق الأوسط"
 
+
     # الأخبار الدولية
     if source in INTERNATIONAL_SOURCES:
         return "أخبار دولية"
 
-    # الأخبار المغربية
+
+    # المغرب
     if source in MOROCCO_SOURCES:
         return "أخبار المغرب"
+
 
     # الاحتياط
     return "أخبار المغرب"
 
 
 # =========================================================
-# CLASSIFY
+# MAIN CLASSIFIER
 # =========================================================
 
-def classify(text, source, trust):
+def classify(
+    text,
+    source,
+    trust
+):
 
     player = _player(text)
 
@@ -447,12 +537,12 @@ def classify(text, source, trust):
         source
     )
 
-    status = _official_status(
+    status = _status(
         text,
         trust
     )
 
-    summary = _clean_summary(
+    summary = _make_summary(
         text
     )
 
@@ -461,4 +551,4 @@ def classify(text, source, trust):
         status,
         summary,
         player
-    )
+)
