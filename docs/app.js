@@ -2,23 +2,131 @@ const NEWS_URL = "news.json";
 
 let allNews = [];
 let filteredNews = [];
-
 let currentCategory = "all";
 let currentStatus = "all";
 let searchTerm = "";
-
 let visibleCount = 10;
 
-let toastTimer = null;
+const CATEGORY_LABELS = {
+    all: "كل الأخبار",
+    morocco: "أخبار المغرب",
+    sports: "الرياضة",
+    transfers: "انتقالات اللاعبين",
+    middle_east: "الشرق الأوسط",
+    world_arabic: "العالم"
+};
+
+function normalizeCategory(value) {
+    if (!value) return "";
+
+    const text = String(value).trim().toLowerCase();
+
+    if (
+        text === "morocco" ||
+        text.includes("أخبار المغرب") ||
+        text.includes("اخبار المغرب")
+    ) {
+        return "morocco";
+    }
+
+    if (
+        text === "sports" ||
+        text.includes("الرياضة") ||
+        text.includes("رياضة")
+    ) {
+        return "sports";
+    }
+
+    if (
+        text === "transfers" ||
+        text.includes("انتقالات")
+    ) {
+        return "transfers";
+    }
+
+    if (
+        text === "middle_east" ||
+        text.includes("الشرق الأوسط") ||
+        text.includes("الشرق الاوسط")
+    ) {
+        return "middle_east";
+    }
+
+    if (
+        text === "world_arabic" ||
+        text.includes("العالم")
+    ) {
+        return "world_arabic";
+    }
+
+    return text;
+}
 
 
-/* =========================================================
-   HELPERS
-========================================================= */
+function normalizeNews(data) {
+    if (!data) return [];
+
+    if (Array.isArray(data)) {
+        return data;
+    }
+
+    if (Array.isArray(data.news)) {
+        return data.news;
+    }
+
+    if (Array.isArray(data.items)) {
+        return data.items;
+    }
+
+    if (data.sections && typeof data.sections === "object") {
+        const result = [];
+
+        Object.entries(data.sections).forEach(([section, items]) => {
+            if (!Array.isArray(items)) return;
+
+            items.forEach(item => {
+                result.push({
+                    ...item,
+                    section: normalizeCategory(section)
+                });
+            });
+        });
+
+        return result;
+    }
+
+    return [];
+}
+
+
+function getNewsCategory(item) {
+    if (!item) return "";
+
+    if (item.section) {
+        return normalizeCategory(item.section);
+    }
+
+    if (item.source_group) {
+        return normalizeCategory(item.source_group);
+    }
+
+    if (item.category) {
+        return normalizeCategory(item.category);
+    }
+
+    return "";
+}
+
+
+function getCategoryLabel(category) {
+    return CATEGORY_LABELS[category] || category || "أخبار";
+}
+
 
 function escapeHTML(value) {
+    if (value === null || value === undefined) return "";
 
-    return String(value ?? "")
+    return String(value)
         .replace(/&/g, "&amp;")
         .replace(/</g, "&lt;")
         .replace(/>/g, "&gt;")
@@ -27,1703 +135,587 @@ function escapeHTML(value) {
 }
 
 
-function setText(id, value) {
-
-    const element = document.getElementById(id);
-
-    if (element) {
-        element.textContent = value;
-    }
-}
-
-
-function getElement(id) {
-    return document.getElementById(id);
-}
-
-
 function formatDate(value) {
-
-    if (!value) {
-        return "غير معروف";
-    }
+    if (!value) return "";
 
     const date = new Date(value);
 
     if (Number.isNaN(date.getTime())) {
-        return String(value);
+        return value;
     }
 
-    return new Intl.DateTimeFormat(
-        "ar-MA",
-        {
-            day: "2-digit",
-            month: "2-digit",
-            hour: "2-digit",
-            minute: "2-digit"
-        }
-    ).format(date);
+    return date.toLocaleString("ar-MA", {
+        day: "2-digit",
+        month: "2-digit",
+        year: "numeric",
+        hour: "2-digit",
+        minute: "2-digit"
+    });
 }
 
 
-/* =========================================================
-   CATEGORY NORMALIZATION
-========================================================= */
-
-function normalizeCategory(category) {
-
-    const value = String(category || "")
-        .trim()
-        .toLowerCase();
-
-    if (
-        value === "morocco" ||
-        value === "أخبار المغرب" ||
-        value === "المغرب" ||
-        value === "moroccan"
-    ) {
-        return "morocco";
-    }
-
-
-    if (
-        value === "middle_east" ||
-        value === "middle east" ||
-        value === "الشرق الأوسط" ||
-        value === "أخبار الشرق الأوسط"
-    ) {
-        return "middle_east";
-    }
-
-
-    if (
-        value === "world_arabic" ||
-        value === "world" ||
-        value === "العالم" ||
-        value === "العالم بالعربية" ||
-        value === "أخبار العالم"
-    ) {
-        return "world_arabic";
-    }
-
-
-    if (
-        value === "sports" ||
-        value === "sport" ||
-        value === "رياضة" ||
-        value === "الرياضة"
-    ) {
-        return "sports";
-    }
-
-
-    if (
-        value === "transfers" ||
-        value === "transfer" ||
-        value === "انتقالات" ||
-        value === "انتقالات اللاعبين"
-    ) {
-        return "transfers";
-    }
-
-
-    return value;
-}
-
-
-/* =========================================================
-   NORMALIZE NEWS DATA
-========================================================= */
-
-function normalizeNews(data) {
-
-    /*
-       الصيغة الأولى:
-       [
-          {...},
-          {...}
-       ]
-    */
-
-    if (Array.isArray(data)) {
-        return data;
-    }
-
-
-    /*
-       الصيغة القديمة:
-       {
-           "news": [...]
-       }
-    */
-
-    if (
-        data &&
-        Array.isArray(data.news)
-    ) {
-        return data.news;
-    }
-
-
-    /*
-       الصيغة القديمة:
-       {
-           "items": [...]
-       }
-    */
-
-    if (
-        data &&
-        Array.isArray(data.items)
-    ) {
-        return data.items;
-    }
-
-
-    /*
-       الصيغة الجديدة:
-
-       {
-           "sections": {
-               "morocco": [],
-               "middle_east": [],
-               "world_arabic": [],
-               "sports": [],
-               "transfers": []
-           }
-       }
-    */
-
-    if (
-        data &&
-        data.sections &&
-        typeof data.sections === "object"
-    ) {
-
-        const news = [];
-
-        Object.entries(
-            data.sections
-        ).forEach(
-            ([sectionName, articles]) => {
-
-                if (!Array.isArray(articles)) {
-                    return;
-                }
-
-                articles.forEach(article => {
-
-                    news.push({
-
-                        ...article,
-
-                        section:
-                            article.section ||
-                            sectionName
-
-                    });
-
-                });
-
-            }
-        );
-
-        return news;
-    }
-
-
-    return [];
-}
-
-
-/* =========================================================
-   CATEGORY DETECTION
-========================================================= */
-
-function getNewsCategory(item) {
-
-    /*
-       export_news.py يرسل section
-    */
-
-    if (item && item.section) {
-
-        return normalizeCategory(
-            item.section
-        );
-    }
-
-
-    /*
-       بعض الأخبار قد تحتوي source_group
-    */
-
-    if (
-        item &&
-        item.source_group
-    ) {
-
-        return normalizeCategory(
-            item.source_group
-        );
-    }
-
-
-    /*
-       fallback إلى category
-    */
-
-    if (
-        item &&
-        item.category
-    ) {
-
-        return normalizeCategory(
-            item.category
-        );
-    }
-
-
-    return "";
-}
-
-
-/* =========================================================
-   STATUS
-========================================================= */
-
-function getNewsStatus(item) {
-
-    if (
-        item &&
-        item.status
-    ) {
-        return item.status;
-    }
-
-    return "غير واضح";
-}
-
-
-/* =========================================================
-   CATEGORY LABEL
-========================================================= */
-
-function getCategoryLabel(category) {
-
-    switch (normalizeCategory(category)) {
-
-        case "morocco":
-            return "أخبار المغرب";
-
-        case "middle_east":
-            return "الشرق الأوسط";
-
-        case "world_arabic":
-            return "العالم";
-
-        case "sports":
-            return "الرياضة";
-
-        case "transfers":
-            return "الانتقالات";
-
-        default:
-            return "أخبار";
-    }
-}
-
-
-/* =========================================================
-   LOAD NEWS
-========================================================= */
-
-async function loadNews(showToast = false) {
-
-    try {
-
-        const response = await fetch(
-            `${NEWS_URL}?t=${Date.now()}`,
-            {
-                cache: "no-store"
-            }
-        );
-
-
-        if (!response.ok) {
-
-            throw new Error(
-                `HTTP ${response.status}`
-            );
-        }
-
-
-        const data =
-            await response.json();
-
-
-        allNews =
-            normalizeNews(data);
-
-
-        /*
-           ترتيب الأخبار من الأحدث إلى الأقدم
-        */
-
-        allNews.sort(
-            (a, b) => {
-
-                const dateA =
-                    new Date(
-                        a.published ||
-                        a.discovered ||
-                        0
-                    ).getTime();
-
-                const dateB =
-                    new Date(
-                        b.published ||
-                        b.discovered ||
-                        0
-                    ).getTime();
-
-                return dateB - dateA;
-            }
-        );
-
-
-        updateStats();
-
-        applyFilters();
-
-        updateHero();
-
-        updateBreaking();
-
-        updateSources();
-
-        updatePlayers();
-
-        updateLastUpdate();
-
-
-        if (showToast) {
-
-            showToastMessage(
-                "تم تحديث الأخبار"
-            );
-        }
-
-
-        console.log(
-            `Loaded ${allNews.length} news items`
-        );
-
-
-    } catch (error) {
-
-        console.error(
-            "Failed to load news:",
-            error
-        );
-
-        showEmptyState(
-            "تعذر تحميل الأخبار"
-        );
-    }
-}
-
-
-/* =========================================================
-   FILTERS
-========================================================= */
-
-function applyFilters() {
-
-    filteredNews =
-        allNews.filter(item => {
-
-            const category =
-                getNewsCategory(item);
-
-            const status =
-                getNewsStatus(item);
-
-
-            const text = [
-
-                item.title,
-
-                item.summary,
-
-                item.source,
-
-                item.player,
-
-                item.category,
-
-                item.section,
-
-                category,
-
-                status
-
-            ]
-                .filter(Boolean)
-                .join(" ")
-                .toLowerCase();
-
-
-            const categoryMatch =
-
-                currentCategory === "all" ||
-
-                category ===
-                currentCategory;
-
-
-            const statusMatch =
-
-                currentStatus === "all" ||
-
-                status ===
-                currentStatus;
-
-
-            const searchMatch =
-
-                !searchTerm ||
-
-                text.includes(
-                    searchTerm.toLowerCase()
-                );
-
-
-            return (
-                categoryMatch &&
-                statusMatch &&
-                searchMatch
-            );
-
-        });
-
+function filterNews() {
+    filteredNews = allNews.filter(item => {
+
+        const category = getNewsCategory(item);
+
+        const categoryMatch =
+            currentCategory === "all" ||
+            category === currentCategory;
+
+        const statusMatch =
+            currentStatus === "all" ||
+            String(item.status || "").trim() === currentStatus;
+
+        const text = [
+            item.title,
+            item.summary,
+            item.source,
+            item.player,
+            item.category,
+            item.status
+        ]
+            .filter(Boolean)
+            .join(" ")
+            .toLowerCase();
+
+        const searchMatch =
+            !searchTerm ||
+            text.includes(searchTerm.toLowerCase());
+
+        return categoryMatch && statusMatch && searchMatch;
+    });
 
     visibleCount = 10;
 
     renderNews();
+    renderStats();
 }
 
-
-/* =========================================================
-   RENDER NEWS
-========================================================= */
 
 function renderNews() {
+    const container =
+        document.querySelector("#news-container") ||
+        document.querySelector(".news-grid") ||
+        document.querySelector("#news-list");
 
-    const grid =
-        getElement("newsGrid");
+    if (!container) return;
 
-    const empty =
-        getElement("emptyState");
+    const items = filteredNews.slice(0, visibleCount);
 
-
-    if (!grid) {
+    if (!items.length) {
+        container.innerHTML = `
+            <div class="empty-state">
+                لا توجد أخبار مطابقة للبحث الحالي.
+            </div>
+        `;
+        updateLoadMoreButton();
         return;
     }
 
+    container.innerHTML = items
+        .map(renderCard)
+        .join("");
 
-    if (!filteredNews.length) {
-
-        grid.innerHTML = "";
-
-        if (empty) {
-            empty.classList.remove(
-                "hidden"
-            );
-        }
-
-        return;
-    }
-
-
-    if (empty) {
-
-        empty.classList.add(
-            "hidden"
-        );
-    }
-
-
-    const items =
-        filteredNews.slice(
-            0,
-            visibleCount
-        );
-
-
-    grid.innerHTML =
-        items
-            .map(renderNewsCard)
-            .join("");
-
-
-    const loadMore =
-        getElement("loadMore");
-
-
-    if (!loadMore) {
-        return;
-    }
-
-
-    if (
-        visibleCount >=
-        filteredNews.length
-    ) {
-
-        loadMore.style.display =
-            "none";
-
-    } else {
-
-        loadMore.style.display =
-            "inline-block";
-    }
+    updateLoadMoreButton();
 }
 
 
-/* =========================================================
-   NEWS CARD
-========================================================= */
+function renderCard(item) {
+    const category = getNewsCategory(item);
+    const categoryLabel = getCategoryLabel(category);
 
-function renderNewsCard(item) {
+    const title =
+        item.title ||
+        "بدون عنوان";
+
+    const summary =
+        item.summary ||
+        "لا يوجد ملخص متاح.";
+
+    const source =
+        item.source ||
+        "مصدر غير معروف";
 
     const status =
-        getNewsStatus(item);
+        item.status ||
+        "";
 
+    const published =
+        formatDate(item.published || item.discovered);
 
-    const category =
-        getNewsCategory(item);
-
-
-    let statusClass = "";
-
-
-    if (status === "رسمي") {
-
-        statusClass =
-            "official";
-
-    } else if (
-        status === "إشاعة"
-    ) {
-
-        statusClass =
-            "rumor";
-
-    } else if (
-        status === "مؤكد"
-    ) {
-
-        statusClass =
-            "confirmed";
-    }
-
+    const url =
+        item.url ||
+        "#";
 
     return `
+        <article class="news-card">
 
-        <article
-            class="news-card"
-            data-category="${escapeHTML(category)}"
-        >
-
-            <div class="news-top">
-
-                <span class="news-source">
-
-                    ${escapeHTML(
-                        item.source ||
-                        "مصدر غير معروف"
-                    )}
-
+            <div class="news-card-meta">
+                <span class="news-category">
+                    ${escapeHTML(categoryLabel)}
                 </span>
-
-
-                <span
-                    class="news-status ${statusClass}"
-                >
-
-                    ${escapeHTML(status)}
-
-                </span>
-
-            </div>
-
-
-            <div class="news-category">
-
-                ${escapeHTML(
-                    getCategoryLabel(category)
-                )}
-
-            </div>
-
-
-            <h3>
-
-                ${escapeHTML(
-                    item.title ||
-                    "بدون عنوان"
-                )}
-
-            </h3>
-
-
-            ${
-                item.player
-                    ? `
-
-                        <div
-                            class="news-player"
-                        >
-
-                            ⚽
-                            ${escapeHTML(
-                                item.player
-                            )}
-
-                        </div>
-
-                    `
-                    : ""
-            }
-
-
-            <p
-                class="news-summary"
-            >
-
-                ${escapeHTML(
-                    item.summary ||
-                    ""
-                )}
-
-            </p>
-
-
-            <div
-                class="news-footer"
-            >
-
-                <span
-                    class="news-time"
-                >
-
-                    ${formatDate(
-                        item.published ||
-                        item.discovered
-                    )}
-
-                </span>
-
 
                 ${
-                    item.url
-                        ? `
+                    status
+                        ? `<span class="news-status">${escapeHTML(status)}</span>`
+                        : ""
+                }
+            </div>
 
-                            <a
-                                class="news-link"
-                                href="${escapeHTML(item.url)}"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                            >
+            <h3 class="news-title">
+                <a href="${escapeHTML(url)}"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                    ${escapeHTML(title)}
+                </a>
+            </h3>
 
-                                قراءة الخبر ←
+            <p class="news-summary">
+                ${escapeHTML(summary)}
+            </p>
 
-                            </a>
+            <div class="news-footer">
 
-                        `
+                <span class="news-source">
+                    ${escapeHTML(source)}
+                </span>
+
+                ${
+                    published
+                        ? `<span class="news-date">${escapeHTML(published)}</span>`
                         : ""
                 }
 
             </div>
 
         </article>
-
     `;
 }
 
 
-/* =========================================================
-   HERO
-========================================================= */
-
-function updateHero() {
-
+function renderHero() {
     const hero =
-        allNews[0];
+        document.querySelector("#hero") ||
+        document.querySelector(".hero");
 
+    if (!hero || !allNews.length) return;
 
-    if (!hero) {
-        return;
-    }
+    const item = allNews[0];
 
+    const title =
+        item.title ||
+        "آخر الأخبار";
 
-    setText(
-        "heroSource",
-        hero.source ||
-        "مصدر غير معروف"
-    );
+    const summary =
+        item.summary ||
+        "";
 
+    const url =
+        item.url ||
+        "#";
 
-    setText(
-        "heroTime",
-        formatDate(
-            hero.published ||
-            hero.discovered
-        )
-    );
+    const category =
+        getCategoryLabel(getNewsCategory(item));
 
+    hero.innerHTML = `
+        <div class="hero-content">
 
-    setText(
-        "heroTitle",
-        hero.title ||
-        "آخر الأخبار"
-    );
+            <span class="hero-category">
+                ${escapeHTML(category)}
+            </span>
 
+            <h1>
+                <a href="${escapeHTML(url)}"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                    ${escapeHTML(title)}
+                </a>
+            </h1>
 
-    setText(
-        "heroSummary",
-        hero.summary ||
-        "آخر المستجدات من مصادر الأخبار."
-    );
+            ${
+                summary
+                    ? `<p>${escapeHTML(summary)}</p>`
+                    : ""
+            }
 
-
-    const link =
-        getElement("heroLink");
-
-
-    if (!link) {
-        return;
-    }
-
-
-    if (hero.url) {
-
-        link.href =
-            hero.url;
-
-        link.style.display =
-            "inline-flex";
-
-    } else {
-
-        link.style.display =
-            "none";
-    }
+        </div>
+    `;
 }
 
 
-/* =========================================================
-   BREAKING NEWS
-========================================================= */
+function renderBreaking() {
+    const ticker =
+        document.querySelector("#breaking-news") ||
+        document.querySelector(".breaking-news") ||
+        document.querySelector("#ticker");
 
-function updateBreaking() {
+    if (!ticker) return;
 
-    const element =
-        getElement(
-            "breakingNews"
-        );
-
-
-    if (!element) {
+    if (!allNews.length) {
+        ticker.textContent = "لا توجد أخبار جديدة";
         return;
     }
 
+    const latest = allNews.slice(0, 5);
 
-    const item =
-        allNews.find(
-            news =>
-                news.status === "رسمي" ||
-                news.status === "مؤكد"
-        ) ||
-        allNews[0];
+    ticker.innerHTML = latest
+        .map(item => {
+            const url = item.url || "#";
 
-
-    element.textContent =
-        item
-            ? item.title
-            : "لا توجد أخبار جديدة";
+            return `
+                <a href="${escapeHTML(url)}"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                    ${escapeHTML(item.title || "")}
+                </a>
+            `;
+        })
+        .join(" • ");
 }
 
 
-/* =========================================================
-   SOURCES
-========================================================= */
-
-function updateSources() {
-
-    const container =
-        getElement("sourcesList");
-
-
-    if (!container) {
-        return;
-    }
-
-
-    const counts = {};
-
-
-    allNews.forEach(item => {
-
-        const source =
-            item.source ||
-            "غير معروف";
-
-
-        counts[source] =
-            (counts[source] || 0) + 1;
-    });
-
-
-    const sources =
-        Object.entries(counts)
-            .sort(
-                (a, b) =>
-                    b[1] - a[1]
-            )
-            .slice(0, 8);
-
-
-    container.innerHTML =
-        sources
-            .map(
-                ([name, count]) => {
-
-                    const initials =
-                        name
-                            .trim()
-                            .slice(0, 2);
-
-
-                    return `
-
-                        <div
-                            class="source-item"
-                        >
-
-                            <div
-                                class="source-name"
-                            >
-
-                                <div
-                                    class="source-logo"
-                                >
-
-                                    ${escapeHTML(
-                                        initials
-                                    )}
-
-                                </div>
-
-
-                                <span>
-
-                                    ${escapeHTML(
-                                        name
-                                    )}
-
-                                </span>
-
-                            </div>
-
-
-                            <span
-                                class="source-count"
-                            >
-
-                                ${count}
-
-                            </span>
-
-                        </div>
-
-                    `;
-                }
-            )
-            .join("");
-}
-
-
-/* =========================================================
-   PLAYERS
-========================================================= */
-
-function updatePlayers() {
-
-    const container =
-        getElement(
-            "playersList"
-        );
-
-
-    if (!container) {
-        return;
-    }
-
-
-    const counts = {};
-
-
-    allNews.forEach(item => {
-
-        if (!item.player) {
-            return;
-        }
-
-
-        const player =
-            item.player;
-
-
-        counts[player] =
-            (counts[player] || 0) + 1;
-    });
-
-
-    const players =
-        Object.entries(counts)
-            .sort(
-                (a, b) =>
-                    b[1] - a[1]
-            )
-            .slice(0, 6);
-
-
-    if (!players.length) {
-
-        container.innerHTML = `
-
-            <p
-                class="news-summary"
-            >
-
-                لا توجد تحديثات للاعبين حاليًا.
-
-            </p>
-
-        `;
-
-        return;
-    }
-
-
-    container.innerHTML =
-        players
-            .map(
-                ([name, count]) => {
-
-                    const initials =
-                        name
-                            .trim()
-                            .slice(0, 2);
-
-
-                    return `
-
-                        <div
-                            class="player-item"
-                        >
-
-                            <div
-                                class="player-avatar"
-                            >
-
-                                ${escapeHTML(
-                                    initials
-                                )}
-
-                            </div>
-
-
-                            <div
-                                class="player-info"
-                            >
-
-                                <strong>
-
-                                    ${escapeHTML(
-                                        name
-                                    )}
-
-                                </strong>
-
-
-                                <span>
-
-                                    ${count} خبر
-
-                                </span>
-
-                            </div>
-
-                        </div>
-
-                    `;
-                }
-            )
-            .join("");
-}
-
-
-/* =========================================================
-   STATISTICS
-========================================================= */
-
-function updateStats() {
-
-    const all =
-        allNews.length;
-
+function renderStats() {
+    const total =
+        document.querySelector("#total-news") ||
+        document.querySelector("[data-stat='total']");
 
     const morocco =
-        allNews.filter(
-            item =>
-                getNewsCategory(item) ===
-                "morocco"
-        ).length;
+        document.querySelector("#morocco-count") ||
+        document.querySelector("[data-stat='morocco']");
 
-
-    const middleEast =
-        allNews.filter(
-            item =>
-                getNewsCategory(item) ===
-                "middle_east"
-        ).length;
-
-
-    const world =
-        allNews.filter(
-            item =>
-                getNewsCategory(item) ===
-                "world_arabic"
-        ).length;
-
-
-    const sport =
-        allNews.filter(
-            item =>
-                getNewsCategory(item) ===
-                "sports"
-        ).length;
-
+    const sports =
+        document.querySelector("#sports-count") ||
+        document.querySelector("[data-stat='sports']");
 
     const transfers =
-        allNews.filter(
-            item =>
-                getNewsCategory(item) ===
-                "transfers"
-        ).length;
+        document.querySelector("#transfers-count") ||
+        document.querySelector("[data-stat='transfers']");
 
+    if (total) {
+        total.textContent = allNews.length;
+    }
 
-    const official =
-        allNews.filter(
-            item =>
-                item.status ===
-                "رسمي"
-        ).length;
+    if (morocco) {
+        morocco.textContent =
+            allNews.filter(
+                item => getNewsCategory(item) === "morocco"
+            ).length;
+    }
 
+    if (sports) {
+        sports.textContent =
+            allNews.filter(
+                item => getNewsCategory(item) === "sports"
+            ).length;
+    }
 
-    const confirmed =
-        allNews.filter(
-            item =>
-                item.status ===
-                "مؤكد"
-        ).length;
-
-
-    const negotiation =
-        allNews.filter(
-            item =>
-                item.status ===
-                "مفاوضات"
-        ).length;
-
-
-    const rumor =
-        allNews.filter(
-            item =>
-                item.status ===
-                "إشاعة"
-        ).length;
-
-
-    setText(
-        "countAll",
-        all
-    );
-
-
-    setText(
-        "countMorocco",
-        morocco
-    );
-
-
-    setText(
-        "countMiddleEast",
-        middleEast
-    );
-
-
-    setText(
-        "countWorld",
-        world
-    );
-
-
-    setText(
-        "countSport",
-        sport
-    );
-
-
-    setText(
-        "countTransfers",
-        transfers
-    );
-
-
-    setText(
-        "statusOfficial",
-        official
-    );
-
-
-    setText(
-        "statusConfirmed",
-        confirmed
-    );
-
-
-    setText(
-        "statusNegotiation",
-        negotiation
-    );
-
-
-    setText(
-        "statusRumor",
-        rumor
-    );
-
-
-    setText(
-        "totalNews",
-        all
-    );
-
-
-    const uniqueSources =
-        new Set(
-            allNews
-                .map(
-                    item =>
-                        item.source
-                )
-                .filter(Boolean)
-        ).size;
-
-
-    setText(
-        "sourceCount",
-        uniqueSources
-    );
+    if (transfers) {
+        transfers.textContent =
+            allNews.filter(
+                item => getNewsCategory(item) === "transfers"
+            ).length;
+    }
 }
 
 
-/* =========================================================
-   LAST UPDATE
-========================================================= */
+function updateLoadMoreButton() {
+    const button =
+        document.querySelector("#load-more") ||
+        document.querySelector(".load-more");
 
-function updateLastUpdate() {
+    if (!button) return;
 
-    setText(
-        "lastUpdate",
-
-        new Intl.DateTimeFormat(
-            "ar-MA",
-            {
-                hour: "2-digit",
-                minute: "2-digit"
-            }
-        ).format(
-            new Date()
-        )
-    );
+    if (visibleCount >= filteredNews.length) {
+        button.style.display = "none";
+    } else {
+        button.style.display = "";
+    }
 }
 
-
-/* =========================================================
-   CATEGORY BUTTONS
-========================================================= */
-
-function setCategory(category) {
-
-    currentCategory =
-        normalizeCategory(
-            category
-        );
-
-
-    document
-        .querySelectorAll(
-            "[data-category]"
-        )
-        .forEach(button => {
-
-            const buttonCategory =
-                normalizeCategory(
-                    button.dataset.category
-                );
-
-
-            if (
-                buttonCategory ===
-                currentCategory
-            ) {
-
-                button.classList.add(
-                    "active"
-                );
-
-            } else {
-
-                button.classList.remove(
-                    "active"
-                );
-            }
-
-        });
-
-
-    applyFilters();
-}
-
-
-/* =========================================================
-   STATUS FILTERS
-========================================================= */
-
-function setupStatusFilters() {
-
-    document
-        .querySelectorAll(
-            ".feed-filter"
-        )
-        .forEach(button => {
-
-            button.addEventListener(
-                "click",
-                () => {
-
-                    document
-                        .querySelectorAll(
-                            ".feed-filter"
-                        )
-                        .forEach(
-                            b =>
-                                b.classList.remove(
-                                    "active"
-                                )
-                        );
-
-
-                    button.classList.add(
-                        "active"
-                    );
-
-
-                    currentStatus =
-                        button.dataset.status ||
-                        "all";
-
-
-                    applyFilters();
-                }
-            );
-
-        });
-}
-
-
-/* =========================================================
-   CATEGORY EVENTS
-========================================================= */
 
 function setupCategoryEvents() {
+    const buttons = document.querySelectorAll(
+        "[data-category]"
+    );
 
-    document
-        .querySelectorAll(
-            "[data-category]"
-        )
-        .forEach(button => {
+    buttons.forEach(button => {
+        button.addEventListener("click", () => {
 
-            button.addEventListener(
-                "click",
-                () => {
+            currentCategory =
+                normalizeCategory(
+                    button.dataset.category
+                ) || "all";
 
-                    setCategory(
-                        button.dataset.category
-                    );
-
-
-                    closeMobileMenu();
-                }
+            buttons.forEach(btn =>
+                btn.classList.remove("active")
             );
 
+            button.classList.add("active");
+
+            filterNews();
         });
+    });
 }
 
 
-/* =========================================================
-   SEARCH
-========================================================= */
+function setupStatusFilters() {
+    const buttons = document.querySelectorAll(
+        "[data-status]"
+    );
+
+    buttons.forEach(button => {
+        button.addEventListener("click", () => {
+
+            currentStatus =
+                button.dataset.status || "all";
+
+            buttons.forEach(btn =>
+                btn.classList.remove("active")
+            );
+
+            button.classList.add("active");
+
+            filterNews();
+        });
+    });
+}
+
 
 function setupSearch() {
-
     const input =
-        getElement(
-            "searchInput"
-        );
+        document.querySelector("#search-input") ||
+        document.querySelector("#search") ||
+        document.querySelector('input[type="search"]');
 
+    if (!input) return;
 
-    if (input) {
-
-        input.addEventListener(
-            "input",
-            event => {
-
-                searchTerm =
-                    event.target.value.trim();
-
-
-                applyFilters();
-            }
-        );
-    }
-
-
-    const clear =
-        getElement(
-            "clearSearch"
-        );
-
-
-    if (clear) {
-
-        clear.addEventListener(
-            "click",
-            () => {
-
-                if (input) {
-                    input.value = "";
-                }
-
-
-                searchTerm = "";
-
-                applyFilters();
-            }
-        );
-    }
+    input.addEventListener("input", event => {
+        searchTerm = event.target.value.trim();
+        filterNews();
+    });
 }
 
-
-/* =========================================================
-   LOAD MORE
-========================================================= */
 
 function setupLoadMore() {
-
     const button =
-        getElement(
-            "loadMore"
-        );
+        document.querySelector("#load-more") ||
+        document.querySelector(".load-more");
 
+    if (!button) return;
 
-    if (!button) {
-        return;
-    }
-
-
-    button.addEventListener(
-        "click",
-        () => {
-
-            visibleCount += 10;
-
-            renderNews();
-        }
-    );
+    button.addEventListener("click", () => {
+        visibleCount += 10;
+        renderNews();
+    });
 }
 
-
-/* =========================================================
-   REFRESH
-========================================================= */
 
 function setupRefresh() {
-
-    const button =
-        getElement(
-            "refreshBtn"
-        );
-
-
-    if (!button) {
-        return;
-    }
-
-
-    button.addEventListener(
-        "click",
-        () => {
-
-            loadNews(true);
-        }
+    const buttons = document.querySelectorAll(
+        "#refresh, .refresh-button, [data-action='refresh']"
     );
+
+    buttons.forEach(button => {
+        button.addEventListener("click", () => {
+            loadNews(true);
+        });
+    });
 }
 
-
-/* =========================================================
-   THEME
-========================================================= */
 
 function setupTheme() {
-
     const button =
-        getElement(
-            "themeBtn"
+        document.querySelector("#theme-toggle") ||
+        document.querySelector(".theme-toggle");
+
+    if (!button) return;
+
+    button.addEventListener("click", () => {
+        document.body.classList.toggle("dark-mode");
+
+        localStorage.setItem(
+            "theme",
+            document.body.classList.contains("dark-mode")
+                ? "dark"
+                : "light"
         );
+    });
 
+    const savedTheme =
+        localStorage.getItem("theme");
 
-    if (!button) {
-        return;
+    if (savedTheme === "dark") {
+        document.body.classList.add("dark-mode");
     }
-
-
-    button.addEventListener(
-        "click",
-        () => {
-
-            document.body.classList.toggle(
-                "light-mode"
-            );
-        }
-    );
-}
-
-
-/* =========================================================
-   MOBILE MENU
-========================================================= */
-
-function closeMobileMenu() {
-
-    const menu =
-        getElement(
-            "mobileMenu"
-        );
-
-
-    if (!menu) {
-        return;
-    }
-
-
-    menu.classList.remove(
-        "open"
-    );
 }
 
 
 function setupMobileMenu() {
+    const button =
+        document.querySelector("#menu-toggle") ||
+        document.querySelector(".menu-toggle");
 
     const menu =
-        getElement(
-            "mobileMenu"
-        );
+        document.querySelector("#mobile-menu") ||
+        document.querySelector(".mobile-menu");
+
+    if (!button || !menu) return;
+
+    button.addEventListener("click", () => {
+        menu.classList.toggle("open");
+    });
+}
 
 
-    const openButton =
-        getElement(
-            "menuBtn"
-        );
+function showLoading() {
+    const container =
+        document.querySelector("#news-container") ||
+        document.querySelector(".news-grid") ||
+        document.querySelector("#news-list");
+
+    if (container) {
+        container.innerHTML = `
+            <div class="loading">
+                جار تحميل الأخبار...
+            </div>
+        `;
+    }
+}
 
 
-    const closeButton =
-        getElement(
-            "closeMenu"
-        );
+function showError() {
+    const container =
+        document.querySelector("#news-container") ||
+        document.querySelector(".news-grid") ||
+        document.querySelector("#news-list");
+
+    if (container) {
+        container.innerHTML = `
+            <div class="error-state">
+                تعذر تحميل الأخبار.
+                حاول تحديث الصفحة.
+            </div>
+        `;
+    }
+}
 
 
-    if (
-        menu &&
-        openButton
-    ) {
+async function loadNews(forceRefresh = false) {
 
-        openButton.addEventListener(
-            "click",
-            () => {
+    showLoading();
 
-                menu.classList.add(
-                    "open"
-                );
+    try {
+
+        const cacheBuster =
+            Date.now();
+
+        const response = await fetch(
+            `${NEWS_URL}?v=${cacheBuster}`,
+            {
+                cache: "no-store"
             }
         );
-    }
 
+        if (!response.ok) {
+            throw new Error(
+                `HTTP ${response.status}`
+            );
+        }
 
-    if (closeButton) {
+        const data =
+            await response.json();
 
-        closeButton.addEventListener(
-            "click",
-            closeMobileMenu
-        );
-    }
-}
+        allNews =
+            normalizeNews(data);
 
+        filteredNews =
+            [...allNews];
 
-/* =========================================================
-   EMPTY STATE
-========================================================= */
+        if (!allNews.length) {
+            throw new Error(
+                "No news items found"
+            );
+        }
 
-function showEmptyState(message) {
+        renderHero();
+        renderBreaking();
+        filterNews();
+        renderStats();
 
-    const empty =
-        getElement(
-            "emptyState"
-        );
+        updateLastUpdate(data);
 
+    } catch (error) {
 
-    if (!empty) {
-        return;
-    }
-
-
-    empty.classList.remove(
-        "hidden"
-    );
-
-
-    const title =
-        empty.querySelector(
-            "h2"
+        console.error(
+            "News loading error:",
+            error
         );
 
-
-    if (title) {
-
-        title.textContent =
-            message;
+        showError();
     }
 }
 
 
-/* =========================================================
-   TOAST
-========================================================= */
+function updateLastUpdate(data) {
 
-function showToastMessage(message) {
+    const element =
+        document.querySelector("#last-update") ||
+        document.querySelector(".last-update");
 
-    const toast =
-        getElement(
-            "toast"
-        );
+    if (!element) return;
 
+    let value =
+        data &&
+        data.updated
+            ? data.updated
+            : new Date().toISOString();
+
+    element.textContent =
+        `آخر تحديث: ${formatDate(value)}`;
+}
+
+
+function showToast(message) {
+
+    let toast =
+        document.querySelector("#toast");
 
     if (!toast) {
-        return;
+
+        toast =
+            document.createElement("div");
+
+        toast.id = "toast";
+        toast.className = "toast";
+
+        document.body.appendChild(toast);
     }
 
+    toast.textContent = message;
+    toast.classList.add("show");
 
-    toast.textContent =
-        message;
-
-
-    toast.classList.add(
-        "show"
-    );
-
-
-    clearTimeout(
-        toastTimer
-    );
-
-
-    toastTimer =
-        setTimeout(
-            () => {
-
-                toast.classList.remove(
-                    "show"
-                );
-
-            },
-            2500
-        );
+    setTimeout(() => {
+        toast.classList.remove("show");
+    }, 2500);
 }
 
-
-/* =========================================================
-   FOOTER YEAR
-========================================================= */
-
-function updateFooterYear() {
-
-    setText(
-        "footerYear",
-        new Date().getFullYear()
-    );
-}
-
-
-/* =========================================================
-   INITIALIZE
-========================================================= */
 
 function initializeApp() {
 
-    updateFooterYear();
-
-    setupStatusFilters();
-
     setupCategoryEvents();
-
+    setupStatusFilters();
     setupSearch();
-
     setupLoadMore();
-
     setupRefresh();
-
     setupTheme();
-
     setupMobileMenu();
 
     loadNews();
 }
 
 
-/* =========================================================
-   START
-========================================================= */
-
-if (
-    document.readyState ===
-    "loading"
-) {
+if (document.readyState === "loading") {
 
     document.addEventListener(
         "DOMContentLoaded",
@@ -1733,4 +725,5 @@ if (
 } else {
 
     initializeApp();
-           }
+
+}
