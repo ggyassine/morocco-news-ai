@@ -67,7 +67,6 @@ INTERNATIONAL_SOURCES = {
 BLOCKED_TERMS = [
     "immobilier",
     "immobilière",
-    "immobilier",
     "عقار",
     "عقارات",
     "شقة للبيع",
@@ -78,7 +77,6 @@ BLOCKED_TERMS = [
     "بقعة للبيع",
     "كراء",
     "للإيجار",
-    "للبيع",
     "للبيع",
     "ثمن المتر",
     "متر مربع",
@@ -464,8 +462,6 @@ def relevant(entry, source):
 
     if group == "middle_east":
 
-        # نأخذ فقط الأخبار التي لها صلة بالمغرب
-        # أو الرياضة أو اللاعبين المغاربة
         if contains_any(text, MOROCCO_TERMS):
             return True
 
@@ -640,12 +636,16 @@ def collect():
 
     for source in SOURCES:
 
+        # ----------------------------------------------------
+        # SOURCES الآن عبارة عن:
+        # name, rss_url, trust, group
+        # ----------------------------------------------------
+
         try:
 
-            name = source["name"]
-            rss_url = source["url"]
+            name, rss_url, trust, group = source
 
-        except Exception:
+        except (ValueError, TypeError):
 
             print(
                 f"Invalid source configuration: {source}"
@@ -740,6 +740,7 @@ def collect():
                 "title": title,
                 "url": url,
                 "source": name,
+                "trust": trust,
                 "published": published_date(
                     entry
                 ),
@@ -752,9 +753,7 @@ def collect():
                     title,
                     summary
                 ),
-                "source_group": source_group(
-                    name
-                ),
+                "source_group": group,
             }
 
             # ------------------------------------------------
