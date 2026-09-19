@@ -2,6 +2,10 @@ import re
 import html
 
 
+# ============================================================
+# STATUSES
+# ============================================================
+
 STATUSES = [
     "رسمي",
     "مؤكد",
@@ -16,6 +20,10 @@ STATUSES = [
     "غير واضح",
 ]
 
+
+# ============================================================
+# SOURCE GROUPS
+# ============================================================
 
 MOROCCO_SOURCES = {
     "MAP عربي",
@@ -59,6 +67,10 @@ INTERNATIONAL_SOURCES = {
 }
 
 
+# ============================================================
+# KEYWORDS
+# ============================================================
+
 TRANSFER_TERMS = [
     "انتقال",
     "انتقالات",
@@ -77,6 +89,7 @@ TRANSFER_TERMS = [
     "مغادرة",
     "تجديد",
     "عقد",
+    "وجهة",
     "transfer",
     "transfert",
     "mercato",
@@ -153,6 +166,8 @@ CONFIRMED_TERMS = [
     "أكد",
     "أكدت",
     "تأكد",
+    "تأكد رسميا",
+    "تأكد رسميًا",
     "confirmed",
 ]
 
@@ -234,6 +249,10 @@ DENIED_TERMS = [
 ]
 
 
+# ============================================================
+# TEXT HELPERS
+# ============================================================
+
 def clean_text(value):
     if not value:
         return ""
@@ -275,13 +294,19 @@ def normalize(value):
 def contains_any(text, terms):
     normalized = normalize(text)
 
-    return any(
-        normalize(term) in normalized
-        for term in terms
-    )
+    for term in terms:
+        if normalize(term) in normalized:
+            return True
 
+    return False
+
+
+# ============================================================
+# SOURCE GROUP
+# ============================================================
 
 def source_group(source):
+
     if source in MOROCCO_SOURCES:
         return "morocco"
 
@@ -297,6 +322,10 @@ def source_group(source):
     return "other"
 
 
+# ============================================================
+# CATEGORY
+# ============================================================
+
 def classify_category(item):
 
     title = clean_text(
@@ -311,7 +340,10 @@ def classify_category(item):
         item.get("description", "")
     )
 
-    source = item.get("source", "")
+    source = item.get(
+        "source",
+        ""
+    )
 
     text = (
         title
@@ -321,17 +353,26 @@ def classify_category(item):
         + description
     )
 
-    # الانتقالات لها الأولوية
-    if contains_any(text, TRANSFER_TERMS):
+    # الانتقالات أولًا
+    if contains_any(
+        text,
+        TRANSFER_TERMS
+    ):
         return "انتقالات اللاعبين"
 
     # الرياضة
-    if contains_any(text, SPORT_TERMS):
+    if contains_any(
+        text,
+        SPORT_TERMS
+    ):
         return "الرياضة"
 
-    # المغرب
+    # أخبار المغرب
     if (
-        contains_any(text, MOROCCO_TERMS)
+        contains_any(
+            text,
+            MOROCCO_TERMS
+        )
         or source in MOROCCO_SOURCES
     ):
         return "أخبار المغرب"
@@ -350,43 +391,85 @@ def classify_category(item):
     return "أخبار"
 
 
+# ============================================================
+# STATUS
+# ============================================================
+
 def classify_status(item):
 
     text = " ".join([
-        clean_text(item.get("title", "")),
-        clean_text(item.get("summary", "")),
-        clean_text(item.get("description", "")),
+        clean_text(
+            item.get("title", "")
+        ),
+        clean_text(
+            item.get("summary", "")
+        ),
+        clean_text(
+            item.get("description", "")
+        ),
     ])
 
-    if contains_any(text, DENIED_TERMS):
+    # النفي أولًا
+    if contains_any(
+        text,
+        DENIED_TERMS
+    ):
         return "منفي"
 
-    if contains_any(text, OFFICIAL_TERMS):
+    if contains_any(
+        text,
+        OFFICIAL_TERMS
+    ):
         return "رسمي"
 
-    if contains_any(text, CONFIRMED_TERMS):
+    if contains_any(
+        text,
+        CONFIRMED_TERMS
+    ):
         return "مؤكد"
 
-    if contains_any(text, LOAN_TERMS):
+    if contains_any(
+        text,
+        LOAN_TERMS
+    ):
         return "إعارة"
 
-    if contains_any(text, RENEWAL_TERMS):
+    if contains_any(
+        text,
+        RENEWAL_TERMS
+    ):
         return "تجديد"
 
-    if contains_any(text, NEGOTIATION_TERMS):
+    if contains_any(
+        text,
+        NEGOTIATION_TERMS
+    ):
         return "مفاوضات"
 
-    if contains_any(text, OFFER_TERMS):
+    if contains_any(
+        text,
+        OFFER_TERMS
+    ):
         return "عرض"
 
-    if contains_any(text, INTEREST_TERMS):
+    if contains_any(
+        text,
+        INTEREST_TERMS
+    ):
         return "اهتمام"
 
-    if contains_any(text, RUMOR_TERMS):
+    if contains_any(
+        text,
+        RUMOR_TERMS
+    ):
         return "إشاعة"
 
     return "غير واضح"
 
+
+# ============================================================
+# PLAYER DETECTION
+# ============================================================
 
 def find_player(item):
 
@@ -397,24 +480,38 @@ def find_player(item):
 
     text = normalize(
         " ".join([
-            clean_text(item.get("title", "")),
-            clean_text(item.get("summary", "")),
-            clean_text(item.get("description", "")),
+            clean_text(
+                item.get("title", "")
+            ),
+            clean_text(
+                item.get("summary", "")
+            ),
+            clean_text(
+                item.get("description", "")
+            ),
         ])
     )
 
     for player in MOROCCAN_PLAYERS:
 
-        player_name = clean_text(player)
+        player_name = clean_text(
+            player
+        )
 
-        if (
+        if not player_name:
+            continue
+
+        if normalize(
             player_name
-            and normalize(player_name) in text
-        ):
+        ) in text:
             return player_name
 
     return ""
 
+
+# ============================================================
+# TRUST
+# ============================================================
 
 def classify_trust(source):
 
@@ -444,7 +541,14 @@ def classify_trust(source):
     return "C"
 
 
-def remove_title(text, title):
+# ============================================================
+# SUMMARY CLEANING
+# ============================================================
+
+def remove_title_from_start(
+    text,
+    title
+):
 
     if not text:
         return ""
@@ -458,17 +562,27 @@ def remove_title(text, title):
     normalized_text = normalize(text)
     normalized_title = normalize(title)
 
-    if normalized_text.startswith(
+    # إزالة العنوان إذا كان في البداية
+    while normalized_text.startswith(
         normalized_title
     ):
-        text = text[len(title):].strip(
+
+        text = text[
+            len(title):
+        ].strip(
             " -–—:،,.؛"
+        )
+
+        normalized_text = normalize(
+            text
         )
 
     return text
 
 
-def remove_repeated_text(text):
+def remove_exact_repetition(
+    text
+):
 
     if not text:
         return ""
@@ -478,23 +592,86 @@ def remove_repeated_text(text):
     if len(words) < 12:
         return text
 
-    # إذا كان RSS كرر نفس العبارة
-    half = len(words) // 2
+    # إذا كان النص عبارة عن نصفين متطابقين
+    if len(words) % 2 == 0:
 
-    first = normalize(
-        " ".join(words[:half])
-    )
+        half = len(words) // 2
 
-    second = normalize(
-        " ".join(words[half:])
-    )
-
-    if first == second:
-        return " ".join(
-            words[:half]
+        first = normalize(
+            " ".join(words[:half])
         )
 
+        second = normalize(
+            " ".join(words[half:])
+        )
+
+        if first == second:
+            return " ".join(
+                words[:half]
+            )
+
+    # البحث عن تكرار عبارة طويلة
+    for size in range(
+        6,
+        min(25, len(words) // 2 + 1)
+    ):
+
+        first = normalize(
+            " ".join(words[:size])
+        )
+
+        second = normalize(
+            " ".join(
+                words[size:size * 2]
+            )
+        )
+
+        if first == second:
+            return " ".join(
+                words[size:]
+            )
+
     return text
+
+
+def remove_duplicate_sentences(
+    text
+):
+
+    if not text:
+        return ""
+
+    sentences = re.split(
+        r"(?<=[.!؟])\s+",
+        text
+    )
+
+    unique = []
+    seen = set()
+
+    for sentence in sentences:
+
+        sentence = sentence.strip()
+
+        if len(sentence) < 10:
+            continue
+
+        key = normalize(
+            sentence
+        )
+
+        if key in seen:
+            continue
+
+        seen.add(key)
+
+        unique.append(
+            sentence
+        )
+
+    return " ".join(
+        unique
+    )
 
 
 def make_summary(item):
@@ -513,79 +690,113 @@ def make_summary(item):
 
     candidates = []
 
+    # الوصف والملخص
     for text in [
         description,
         summary,
     ]:
 
-        text = remove_title(
+        if not text:
+            continue
+
+        text = remove_title_from_start(
             text,
             title
         )
 
-        text = remove_repeated_text(
+        text = remove_exact_repetition(
             text
         )
 
-        if len(text) >= 30:
-            candidates.append(text)
-
-    if not candidates:
-
-        return (
-            "يتناول الخبر: "
-            + title
+        text = remove_duplicate_sentences(
+            text
         )
 
-    # اختيار أفضل وصف متاح
-    result = max(
-        candidates,
-        key=len
-    )
+        text = clean_text(
+            text
+        )
 
-    # إزالة التكرار الكامل للجمل
-    sentences = re.split(
-        r"(?<=[.!؟])\s+",
+        if len(text) >= 40:
+            candidates.append(
+                text
+            )
+
+    # نختار النص الأطول لأنه غالبًا أكثر فائدة
+    if candidates:
+
+        result = max(
+            candidates,
+            key=len
+        )
+
+    else:
+
+        return (
+            "لم يتوفر ملخص مستقل في المصدر."
+        )
+
+    # إذا بقي العنوان نفسه هو الملخص
+    if normalize(result) == normalize(title):
+
+        return (
+            "لم يتوفر ملخص مستقل في المصدر."
+        )
+
+    # إزالة أي تكرار إضافي
+    result = remove_exact_repetition(
         result
     )
 
-    unique = []
-    seen = set()
+    result = remove_duplicate_sentences(
+        result
+    )
 
-    for sentence in sentences:
+    result = clean_text(
+        result
+    )
 
-        sentence = sentence.strip()
-
-        if len(sentence) < 10:
-            continue
-
-        key = normalize(sentence)
-
-        if key in seen:
-            continue
-
-        seen.add(key)
-        unique.append(sentence)
-
-    result = " ".join(unique)
-
+    # حد أقصى مناسب للبطاقة
     if len(result) > 450:
+
         result = result[:450].rsplit(
             " ",
             1
-        )[0] + "..."
+        )[0]
+
+        result += "..."
 
     return result
 
 
+# ============================================================
+# MAIN CLASSIFIER
+# ============================================================
+
 def classify(item):
 
+    source = item.get(
+        "source",
+        ""
+    )
+
     return {
-        "category": classify_category(item),
-        "status": classify_status(item),
-        "player": find_player(item),
-        "trust": classify_trust(
-            item.get("source", "")
+        "category": classify_category(
+            item
         ),
-        "summary": make_summary(item),
-    }
+
+        "status": classify_status(
+            item
+        ),
+
+        "player": find_player(
+            item
+        ),
+
+        "trust": classify_trust(
+            source
+        ),
+
+        "summary": make_summary(
+            item
+        ),
+        }
