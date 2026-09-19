@@ -5,25 +5,24 @@ from email.utils import parsedate_to_datetime
 from db import recent
 
 
-MAX_PER_SECTION = 30
+# ============================================================
+# SETTINGS
+# ============================================================
+
+MAX_PER_SECTION = 50
 MAX_TOTAL = 150
-
-# ============================================================
-# الأخبار الظاهرة في الموقع
-# آخر 24 ساعة فقط
-# ============================================================
-
 MAX_NEWS_AGE_HOURS = 24
 
 
 # ============================================================
-# كلمات المحتوى غير المرغوب
+# BLOCKED CONTENT
 # ============================================================
 
 BLOCKED_TERMS = [
     "immobilier",
     "immobilière",
     "immobiliere",
+
     "عقار",
     "عقارات",
     "شقة للبيع",
@@ -35,13 +34,16 @@ BLOCKED_TERMS = [
     "كراء",
     "للإيجار",
     "للبيع",
+
     "appartement",
     "villa",
     "maison",
     "terrain",
     "location",
-    "annonce",
-    "annonces",
+    "résidence",
+
+    "annonce immobilière",
+    "annonces immobilières",
     "promotion immobilière",
     "promoteur immobilier",
 ]
@@ -55,6 +57,7 @@ COMMERCIAL_TERMS = [
     "shopping",
     "boutique",
     "catalogue",
+
     "منتج",
     "منتجات",
     "تخفيض",
@@ -66,10 +69,11 @@ COMMERCIAL_TERMS = [
 
 
 # ============================================================
-# HELPERS
+# TEXT NORMALIZATION
 # ============================================================
 
 def normalize_text(value):
+
     if not value:
         return ""
 
@@ -90,11 +94,13 @@ def normalize_text(value):
 
 
 def item_text(item):
+
     return normalize_text(
         " ".join(
             [
                 str(item.get("title", "") or ""),
                 str(item.get("summary", "") or ""),
+                str(item.get("description", "") or ""),
                 str(item.get("source", "") or ""),
                 str(item.get("category", "") or ""),
             ]
@@ -103,7 +109,7 @@ def item_text(item):
 
 
 # ============================================================
-# BLOCKED CONTENT
+# BLOCKING
 # ============================================================
 
 def is_blocked(item):
@@ -111,7 +117,7 @@ def is_blocked(item):
     text = item_text(item)
 
     # --------------------------------------------------------
-    # العقارات
+    # العقار
     # --------------------------------------------------------
 
     for term in BLOCKED_TERMS:
@@ -120,17 +126,17 @@ def is_blocked(item):
             return True
 
     # --------------------------------------------------------
-    # المحتوى التجاري
+    # التجاري
     # --------------------------------------------------------
 
-    matches = 0
+    commercial_matches = 0
 
     for term in COMMERCIAL_TERMS:
 
         if normalize_text(term) in text:
-            matches += 1
+            commercial_matches += 1
 
-    return matches >= 2
+    return commercial_matches >= 2
 
 
 # ============================================================
@@ -138,9 +144,6 @@ def is_blocked(item):
 # ============================================================
 
 def parse_date(value):
-    """
-    محاولة قراءة تاريخ الخبر من عدة صيغ.
-    """
 
     if not value:
         return None
@@ -194,7 +197,7 @@ def parse_date(value):
         pass
 
     # --------------------------------------------------------
-    # تواريخ بسيطة
+    # SIMPLE DATE
     # --------------------------------------------------------
 
     formats = [
@@ -224,51 +227,51 @@ def parse_date(value):
 
 
 # ============================================================
-# RECENCY
+# RECENT NEWS
 # ============================================================
 
 def is_recent(item):
-    """
-    الاحتفاظ فقط بالأخبار المنشورة خلال آخر 24 ساعة.
-
-    إذا تعذر قراءة التاريخ، نحتفظ بالخبر
-    حتى لا نخسر خبرًا مهمًا بسبب صيغة تاريخ غير معروفة.
-    """
 
     published = item.get(
         "published"
     )
 
-    date = parse_date(
+    published_date = parse_date(
         published
     )
 
-    # إذا لم نستطع معرفة التاريخ
-    # لا نحذف الخبر
-    if date is None:
-        return True
+    # إذا كان تاريخ النشر غير قابل للقراءة
+    # نستعمل تاريخ الاكتشاف بدل حذف الخبر
+    if published_date is None:
+
+        discovered_date = parse_date(
+            item.get("discovered")
+        )
+
+        if discovered_date is None:
+            return True
+
+        published_date = discovered_date
 
     now = datetime.now(
         timezone.utc
     )
 
     age_seconds = (
-        now - date
+        now - published_date
     ).total_seconds()
 
-    # أخبار مستقبلية بسبب خطأ في المصدر
-    # يتم تجاهلها
-    if age_seconds < 0:
+    # لا نقبل تاريخًا مستقبليًا بعيدًا
+    if age_seconds < -3600:
         return False
 
-    # آخر 24 ساعة فقط
     return age_seconds <= (
-        MAX_NEWS_AGE_HOURS * 60 * 60
+        MAX_NEWS_AGE_HOURS * 3600
     )
 
 
 # ============================================================
-# CATEGORY
+# CATEGORY DETECTION
 # ============================================================
 
 def section_for(item):
@@ -287,13 +290,100 @@ def section_for(item):
         )
     )
 
+    text = item_text(
+        item
+    )
+
+    # ========================================================
+    # 1. المصدر أولًا
+    # ========================================================
+
     # --------------------------------------------------------
     # انتقالات اللاعبين
     # --------------------------------------------------------
 
+    if source_group == "arabic_transfers":
+        return "transfers"
+
+    # --------------------------------------------------------
+    # المصادر الرياضية العربية
+    # --------------------------------------------------------
+
+    if source_group == "arabic_sports":
+        return "sports"
+
+    # --------------------------------------------------------
+    # المغرب
+    # --------------------------------------------------------
+
+    if source_group == "morocco":
+        return "morocco"
+
+    # --------------------------------------------------------
+    # الشرق الأوسط
+    # --------------------------------------------------------
+
+    if source_group == "middle_east":
+        return "middle_east"
+
+    # --------------------------------------------------------
+    # العالم العربي
+    # --------------------------------------------------------
+
+    if source_group == "world_arabic":
+        return "world_arabic"
+
+    # --------------------------------------------------------
+    # المصادر الدولية
+    # --------------------------------------------------------
+
+    if source_group == "international":
+        return "world_arabic"
+
+    # ========================================================
+    # 2. التصنيف
+    # ========================================================
+
+    # --------------------------------------------------------
+    # انتقالات اللاعبين
+    # --------------------------------------------------------
+
+    transfer_words = [
+        "انتقالات",
+        "انتقال",
+        "ميركاتو",
+        "سوق الانتقالات",
+        "صفقة",
+        "يوقع",
+        "وقع",
+        "توقيع",
+        "ضم",
+        "إعارة",
+        "مفاوضات",
+        "اهتمام",
+        "عرض",
+        "رحيل",
+        "مغادرة",
+        "transfer",
+        "transfers",
+        "transfert",
+        "transferts",
+        "mercato",
+        "signing",
+        "signed",
+        "loan",
+        "negotiation",
+        "interest",
+        "offer",
+    ]
+
     if (
         "انتقالات" in category
         or "transfer" in category
+        or any(
+            normalize_text(word) in text
+            for word in transfer_words
+        )
     ):
         return "transfers"
 
@@ -301,10 +391,42 @@ def section_for(item):
     # الرياضة
     # --------------------------------------------------------
 
+    sport_words = [
+        "رياضه",
+        "رياضة",
+        "رياضي",
+        "رياضات",
+        "كره القدم",
+        "كره السله",
+        "كره اليد",
+        "منتخب",
+        "مباراه",
+        "مباريات",
+        "دوري",
+        "كاس",
+        "بطوله",
+        "لاعب",
+        "مدرب",
+        "هدف",
+        "اهداف",
+        "فوز",
+        "هزيمه",
+        "تعادل",
+        "champions",
+        "football",
+        "sport",
+        "match",
+        "league",
+        "cup",
+    ]
+
     if (
         "رياضه" in category
-        or "رياضة" in category
         or "sport" in category
+        or any(
+            normalize_text(word) in text
+            for word in sport_words
+        )
     ):
         return "sports"
 
@@ -315,7 +437,6 @@ def section_for(item):
     if (
         "اخبار المغرب" in category
         or "المغرب" in category
-        or source_group == "morocco"
     ):
         return "morocco"
 
@@ -325,7 +446,7 @@ def section_for(item):
 
     if (
         "الشرق الاوسط" in category
-        or source_group == "middle_east"
+        or "الشرق الأوسط" in category
     ):
         return "middle_east"
 
@@ -335,25 +456,60 @@ def section_for(item):
 
     if (
         "العالم" in category
-        or source_group == "world_arabic"
     ):
         return "world_arabic"
 
-    # --------------------------------------------------------
-    # المصادر الدولية
-    # --------------------------------------------------------
+    # ========================================================
+    # 3. FALLBACK
+    # ========================================================
 
-    if source_group == "international":
-        return "world_arabic"
+    # إذا كان الخبر من مصدر معروف لكن بدون تصنيف
+    source = normalize_text(
+        item.get("source", "")
+    )
+
+    sports_sources = [
+        "كوووره",
+        "winwin",
+        "في الجول",
+        "يلا كوره",
+        "365scores",
+        "الجزيره الرياضيه",
+        "العين الرياضيه",
+        "kooora",
+        "winwin",
+    ]
+
+    transfer_sources = [
+        "كوووره انتقالات",
+        "winwin ميركاتو",
+        "في الجول انتقالات",
+        "ميركاتو داي",
+        "365scores انتقالات",
+    ]
+
+    if any(
+        normalize_text(source_name) in source
+        for source_name in transfer_sources
+    ):
+        return "transfers"
+
+    if any(
+        normalize_text(source_name) in source
+        for source_name in sports_sources
+    ):
+        return "sports"
 
     return None
 
 
 # ============================================================
-# LOAD
+# LOAD DATABASE
 # ============================================================
 
-items = recent(500)
+items = recent(
+    1000
+)
 
 
 # ============================================================
@@ -364,12 +520,13 @@ clean_items = []
 
 blocked_count = 0
 old_count = 0
+unknown_count = 0
 
 
 for item in items:
 
     # --------------------------------------------------------
-    # منع العقارات والإعلانات
+    # منع العقار والتجاري
     # --------------------------------------------------------
 
     if is_blocked(item):
@@ -388,7 +545,9 @@ for item in items:
 
         continue
 
-    clean_items.append(item)
+    clean_items.append(
+        item
+    )
 
 
 # ============================================================
@@ -403,8 +562,6 @@ def sort_key(item):
         )
     )
 
-    # إذا لم يوجد تاريخ النشر
-    # نستعمل تاريخ اكتشاف الخبر
     if date is None:
 
         date = parse_date(
@@ -433,10 +590,15 @@ clean_items.sort(
 # ============================================================
 
 sections = {
+
     "morocco": [],
+
     "sports": [],
+
     "transfers": [],
+
     "middle_east": [],
+
     "world_arabic": [],
 }
 
@@ -452,14 +614,15 @@ for item in clean_items:
     )
 
     if section is None:
+
+        unknown_count += 1
+
         continue
 
-    if (
-        len(
-            sections[section]
-        )
-        >= MAX_PER_SECTION
-    ):
+    if len(
+        sections[section]
+    ) >= MAX_PER_SECTION:
+
         continue
 
     sections[section].append(
@@ -472,13 +635,13 @@ for item in clean_items:
 # ============================================================
 
 total = sum(
-    len(items)
-    for items in sections.values()
+    len(section_items)
+    for section_items in sections.values()
 )
 
 
 # ============================================================
-# MAX TOTAL
+# GLOBAL LIMIT
 # ============================================================
 
 if total > MAX_TOTAL:
@@ -501,8 +664,8 @@ if total > MAX_TOTAL:
             break
 
     total = sum(
-        len(items)
-        for items in sections.values()
+        len(section_items)
+        for section_items in sections.values()
     )
 
 
@@ -511,6 +674,7 @@ if total > MAX_TOTAL:
 # ============================================================
 
 output = {
+
     "updated": datetime.now(
         timezone.utc
     ).isoformat(),
@@ -543,20 +707,46 @@ with open(
 # LOG
 # ============================================================
 
+print("=" * 60)
+
 print(
-    f"Exported {total} clean news items"
+    f"Exported {total} news items"
 )
 
 print(
-    f"Blocked commercial/real-estate items: "
-    f"{blocked_count}"
+    f"Blocked: {blocked_count}"
 )
 
 print(
-    f"Removed old news items: "
-    f"{old_count}"
+    f"Removed old news: {old_count}"
 )
 
 print(
-    "Maximum news age: 24 hours"
+    f"Unclassified: {unknown_count}"
 )
+
+print(
+    f"Morocco: {len(sections['morocco'])}"
+)
+
+print(
+    f"Sports: {len(sections['sports'])}"
+)
+
+print(
+    f"Transfers: {len(sections['transfers'])}"
+)
+
+print(
+    f"Middle East: {len(sections['middle_east'])}"
+)
+
+print(
+    f"World Arabic: {len(sections['world_arabic'])}"
+)
+
+print(
+    f"Maximum age: {MAX_NEWS_AGE_HOURS} hours"
+)
+
+print("=" * 60)
