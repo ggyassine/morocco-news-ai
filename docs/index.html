@@ -1,954 +1,986 @@
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
+const NEWS_URL = "news.json";
 
-<head>
+let allNews = [];
+let filteredNews = [];
 
-    <meta charset="UTF-8">
-
-    <meta
-        name="viewport"
-        content="width=device-width, initial-scale=1.0"
-    >
-
-    <title>Morocco News AI</title>
-
-    <meta
-        name="description"
-        content="مرصد الأخبار المغربية والرياضية وانتقالات اللاعبين المغاربة"
-    >
-
-    <link
-        rel="preconnect"
-        href="https://fonts.googleapis.com"
-    >
-
-    <link
-        rel="preconnect"
-        href="https://fonts.gstatic.com"
-        crossorigin
-    >
-
-    <link
-        href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap"
-        rel="stylesheet"
-    >
-
-    <link
-        rel="stylesheet"
-        href="style.css"
-    >
-
-</head>
+let currentCategory = "all";
+let currentStatus = "all";
+let searchTerm = "";
+let visibleCount = 10;
 
 
-<body>
+/* =========================
+   HELPERS
+========================= */
+
+function get(id) {
+    return document.getElementById(id);
+}
 
 
-<div class="app">
+function escapeHTML(value) {
+    return String(value ?? "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+}
 
 
-    <!-- =========================
-         HEADER
-    ========================== -->
+function formatDate(value) {
+    if (!value) return "";
 
-    <header class="topbar">
+    const date = new Date(value);
+
+    if (Number.isNaN(date.getTime())) {
+        return String(value);
+    }
+
+    return new Intl.DateTimeFormat("ar-MA", {
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit",
+        hour: "2-digit",
+        minute: "2-digit"
+    }).format(date);
+}
 
 
-        <div class="brand">
+function normalizeCategory(value) {
 
-            <div class="brand-mark">
-                M
+    if (!value) {
+        return "";
+    }
+
+    const text = String(value)
+        .trim()
+        .toLowerCase();
+
+    if (
+        text === "morocco" ||
+        text.includes("أخبار المغرب") ||
+        text.includes("اخبار المغرب")
+    ) {
+        return "morocco";
+    }
+
+    if (
+        text === "sports" ||
+        text.includes("رياضة") ||
+        text.includes("الرياضة")
+    ) {
+        return "sports";
+    }
+
+    if (
+        text === "transfers" ||
+        text.includes("انتقالات")
+    ) {
+        return "transfers";
+    }
+
+    if (
+        text === "middle_east" ||
+        text.includes("الشرق الأوسط") ||
+        text.includes("الشرق الاوسط")
+    ) {
+        return "middle_east";
+    }
+
+    if (
+        text === "world_arabic" ||
+        text.includes("العالم")
+    ) {
+        return "world_arabic";
+    }
+
+    return text;
+}
+
+
+function getCategory(item) {
+
+    if (!item) {
+        return "";
+    }
+
+    if (item.section) {
+        return normalizeCategory(item.section);
+    }
+
+    if (item.source_group) {
+        return normalizeCategory(item.source_group);
+    }
+
+    if (item.category) {
+        return normalizeCategory(item.category);
+    }
+
+    return "";
+}
+
+
+function categoryLabel(category) {
+
+    const labels = {
+        all: "كل الأخبار",
+        morocco: "أخبار المغرب",
+        sports: "الرياضة",
+        transfers: "انتقالات اللاعبين",
+        middle_east: "الشرق الأوسط",
+        world_arabic: "العالم"
+    };
+
+    return labels[category] || "أخبار";
+}
+
+
+/* =========================
+   NORMALIZE NEWS
+========================= */
+
+function normalizeNews(data) {
+
+    if (!data) {
+        return [];
+    }
+
+    if (Array.isArray(data)) {
+        return data;
+    }
+
+    if (Array.isArray(data.news)) {
+        return data.news;
+    }
+
+    if (Array.isArray(data.items)) {
+        return data.items;
+    }
+
+    if (data.sections) {
+
+        const result = [];
+
+        Object.entries(data.sections).forEach(
+            ([section, items]) => {
+
+                if (!Array.isArray(items)) {
+                    return;
+                }
+
+                items.forEach(item => {
+
+                    result.push({
+                        ...item,
+                        section: section
+                    });
+
+                });
+
+            }
+        );
+
+        return result;
+    }
+
+    return [];
+}
+
+
+/* =========================
+   FILTERING
+========================= */
+
+function matchesCategory(item) {
+
+    if (currentCategory === "all") {
+        return true;
+    }
+
+    return getCategory(item) === currentCategory;
+}
+
+
+function matchesStatus(item) {
+
+    if (currentStatus === "all") {
+        return true;
+    }
+
+    const status =
+        String(item.status || "")
+            .trim();
+
+    return status === currentStatus;
+}
+
+
+function matchesSearch(item) {
+
+    if (!searchTerm) {
+        return true;
+    }
+
+    const text = [
+        item.title,
+        item.summary,
+        item.source,
+        item.player,
+        item.category,
+        item.status
+    ]
+        .filter(Boolean)
+        .join(" ")
+        .toLowerCase();
+
+    return text.includes(
+        searchTerm.toLowerCase()
+    );
+}
+
+
+function applyFilters() {
+
+    filteredNews = allNews.filter(item => {
+
+        return (
+            matchesCategory(item) &&
+            matchesStatus(item) &&
+            matchesSearch(item)
+        );
+
+    });
+
+    visibleCount = 10;
+
+    renderNews();
+}
+
+
+/* =========================
+   HERO
+========================= */
+
+function renderHero() {
+
+    if (!allNews.length) {
+        return;
+    }
+
+    const item = allNews[0];
+
+    const source =
+        get("heroSource");
+
+    const time =
+        get("heroTime");
+
+    const title =
+        get("heroTitle");
+
+    const summary =
+        get("heroSummary");
+
+    const link =
+        get("heroLink");
+
+    if (source) {
+        source.textContent =
+            item.source || "مصدر";
+    }
+
+    if (time) {
+        time.textContent =
+            formatDate(
+                item.published ||
+                item.discovered
+            );
+    }
+
+    if (title) {
+        title.textContent =
+            item.title ||
+            "آخر الأخبار";
+    }
+
+    if (summary) {
+        summary.textContent =
+            item.summary ||
+            "";
+    }
+
+    if (link) {
+        link.href =
+            item.url || "#";
+    }
+}
+
+
+/* =========================
+   NEWS CARDS
+========================= */
+
+function renderNews() {
+
+    const container =
+        get("newsGrid");
+
+    if (!container) {
+        return;
+    }
+
+    const items =
+        filteredNews.slice(
+            0,
+            visibleCount
+        );
+
+    if (!items.length) {
+
+        container.innerHTML = `
+            <div class="empty-state">
+                لا توجد أخبار مطابقة.
+            </div>
+        `;
+
+        updateLoadMore();
+
+        return;
+    }
+
+
+    container.innerHTML =
+        items.map(
+            renderCard
+        ).join("");
+
+
+    updateLoadMore();
+}
+
+
+function renderCard(item) {
+
+    const title =
+        item.title ||
+        "بدون عنوان";
+
+    const summary =
+        item.summary ||
+        "لا يوجد ملخص متاح.";
+
+    const source =
+        item.source ||
+        "مصدر غير معروف";
+
+    const status =
+        item.status ||
+        "غير واضح";
+
+    const url =
+        item.url ||
+        "#";
+
+    const category =
+        categoryLabel(
+            getCategory(item)
+        );
+
+    const date =
+        formatDate(
+            item.published ||
+            item.discovered
+        );
+
+
+    return `
+        <article class="news-card">
+
+            <div class="news-card-meta">
+
+                <span class="news-category">
+                    ${escapeHTML(category)}
+                </span>
+
+                <span class="news-status">
+                    ${escapeHTML(status)}
+                </span>
+
             </div>
 
-            <div class="brand-text">
 
-                <h1>
-                    Morocco News AI
-                </h1>
+            <h3 class="news-title">
 
-                <p>
-                    مرصد الأخبار المغربية
-                </p>
-
-            </div>
-
-        </div>
-
-
-        <nav class="main-nav">
-
-
-            <button
-                class="nav-link active"
-                data-category="all"
-            >
-                الرئيسية
-            </button>
-
-
-            <button
-                class="nav-link"
-                data-category="أخبار المغرب"
-            >
-                المغرب
-            </button>
-
-
-            <button
-                class="nav-link"
-                data-category="رياضة"
-            >
-                رياضة
-            </button>
-
-
-            <button
-                class="nav-link"
-                data-category="انتقالات اللاعبين"
-            >
-                الانتقالات
-            </button>
-
-
-        </nav>
-
-
-        <div class="header-actions">
-
-
-            <button
-                class="icon-button"
-                id="refreshBtn"
-                title="تحديث الأخبار"
-                aria-label="تحديث الأخبار"
-            >
-                ↻
-            </button>
-
-
-            <button
-                class="icon-button"
-                id="themeBtn"
-                title="تغيير المظهر"
-                aria-label="تغيير المظهر"
-            >
-                ☾
-            </button>
-
-
-            <button
-                class="menu-button"
-                id="menuBtn"
-                aria-label="فتح القائمة"
-            >
-                ☰
-            </button>
-
-
-        </div>
-
-
-    </header>
-
-
-    <!-- =========================
-         BREAKING NEWS
-    ========================== -->
-
-    <section class="breaking-bar">
-
-
-        <div class="breaking-label">
-
-            <span class="live-dot"></span>
-
-            عاجل
-
-        </div>
-
-
-        <div
-            class="breaking-content"
-            id="breakingNews"
-        >
-            جار تحميل آخر الأخبار...
-        </div>
-
-
-    </section>
-
-
-    <!-- =========================
-         SEARCH
-    ========================== -->
-
-    <section class="search-area">
-
-
-        <div class="search-box">
-
-
-            <span class="search-icon">
-                ⌕
-            </span>
-
-
-            <input
-                id="searchInput"
-                type="search"
-                placeholder="ابحث عن خبر، لاعب، مصدر..."
-                autocomplete="off"
-            >
-
-
-            <button
-                id="clearSearch"
-                class="clear-search"
-                aria-label="مسح البحث"
-            >
-                ×
-            </button>
-
-
-        </div>
-
-
-        <div class="last-update">
-
-
-            <span class="status-dot"></span>
-
-
-            <span>
-                آخر تحديث:
-            </span>
-
-
-            <strong id="lastUpdate">
-                --
-            </strong>
-
-
-        </div>
-
-
-    </section>
-
-
-    <!-- =========================
-         DASHBOARD
-    ========================== -->
-
-    <main class="dashboard">
-
-
-        <!-- =====================
-             RIGHT SIDEBAR
-        ====================== -->
-
-        <aside class="sidebar right-sidebar">
-
-
-            <!-- CATEGORIES -->
-
-            <div class="side-card">
-
-
-                <div class="side-title">
-
-                    <h2>
-                        الأقسام
-                    </h2>
-
-                </div>
-
-
-                <div class="category-list">
-
-
-                    <button
-                        class="category-item active"
-                        data-category="all"
-                    >
-
-                        <span>
-                            كل الأخبار
-                        </span>
-
-                        <strong id="countAll">
-                            0
-                        </strong>
-
-                    </button>
-
-
-                    <button
-                        class="category-item"
-                        data-category="أخبار المغرب"
-                    >
-
-                        <span>
-                            أخبار المغرب
-                        </span>
-
-                        <strong id="countMorocco">
-                            0
-                        </strong>
-
-                    </button>
-
-
-                    <button
-                        class="category-item"
-                        data-category="رياضة"
-                    >
-
-                        <span>
-                            رياضة
-                        </span>
-
-                        <strong id="countSport">
-                            0
-                        </strong>
-
-                    </button>
-
-
-                    <button
-                        class="category-item"
-                        data-category="انتقالات اللاعبين"
-                    >
-
-                        <span>
-                            انتقالات اللاعبين
-                        </span>
-
-                        <strong id="countTransfers">
-                            0
-                        </strong>
-
-                    </button>
-
-
-                </div>
-
-
-            </div>
-
-
-            <!-- SOURCES -->
-
-            <div class="side-card">
-
-
-                <div class="side-title">
-
-                    <h2>
-                        أهم المصادر
-                    </h2>
-
-                </div>
-
-
-                <div
-                    id="sourcesList"
-                    class="sources-list"
+                <a
+                    href="${escapeHTML(url)}"
+                    target="_blank"
+                    rel="noopener noreferrer"
                 >
-                </div>
+                    ${escapeHTML(title)}
+                </a>
+
+            </h3>
 
 
-            </div>
+            <p class="news-summary">
+                ${escapeHTML(summary)}
+            </p>
 
 
-            <!-- RADAR -->
+            <div class="news-footer">
 
-            <div class="side-card radar-card">
+                <span class="news-source">
+                    ${escapeHTML(source)}
+                </span>
 
-
-                <div class="radar-icon">
-                    ◉
-                </div>
-
-
-                <h3>
-                    الرصد الآلي
-                </h3>
-
-
-                <p>
-                    النظام يراقب المصادر الإخبارية
-                    ويجمع الأخبار الجديدة تلقائيًا.
-                </p>
-
-
-                <div class="radar-status">
-
-                    <span class="status-dot"></span>
-
-                    يعمل
-
-                </div>
-
+                <span class="news-date">
+                    ${escapeHTML(date)}
+                </span>
 
             </div>
 
-
-        </aside>
-
-
-        <!-- =====================
-             CENTER
-        ====================== -->
-
-        <section class="main-column">
+        </article>
+    `;
+}
 
 
-            <!-- HERO -->
+/* =========================
+   CATEGORY COUNTS
+========================= */
 
-            <article
-                class="hero-card"
-                id="heroCard"
-            >
+function renderCounts() {
 
+    const all =
+        get("countAll");
 
-                <div class="hero-image">
+    const morocco =
+        get("countMorocco");
 
+    const sport =
+        get("countSport");
 
-                    <div class="hero-overlay">
-                    </div>
-
-
-                    <div class="hero-badge">
-                        الخبر الرئيسي
-                    </div>
-
-
-                    <div class="hero-content">
+    const transfers =
+        get("countTransfers");
 
 
-                        <div class="meta">
+    if (all) {
+        all.textContent =
+            allNews.length;
+    }
 
 
-                            <span id="heroSource">
-                                --
-                            </span>
+    if (morocco) {
+
+        morocco.textContent =
+            allNews.filter(
+                item =>
+                    getCategory(item) ===
+                    "morocco"
+            ).length;
+
+    }
 
 
-                            <span>
-                                •
-                            </span>
+    if (sport) {
+
+        sport.textContent =
+            allNews.filter(
+                item =>
+                    getCategory(item) ===
+                    "sports"
+            ).length;
+
+    }
 
 
-                            <span id="heroTime">
-                                --
-                            </span>
+    if (transfers) {
+
+        transfers.textContent =
+            allNews.filter(
+                item =>
+                    getCategory(item) ===
+                    "transfers"
+            ).length;
+
+    }
+}
 
 
-                        </div>
+/* =========================
+   STATUS COUNTS
+========================= */
+
+function renderStatusCounts() {
+
+    const official =
+        get("statusOfficial");
+
+    const confirmed =
+        get("statusConfirmed");
+
+    const negotiation =
+        get("statusNegotiation");
+
+    const rumor =
+        get("statusRumor");
 
 
-                        <h2 id="heroTitle">
-                            جار تحميل الأخبار...
-                        </h2>
+    const countStatus =
+        status => {
+
+            return allNews.filter(
+                item =>
+                    String(
+                        item.status || ""
+                    ).trim() === status
+            ).length;
+
+        };
 
 
-                        <p id="heroSummary">
-                            انتظر لحظات لتحميل آخر الأخبار من المصادر المغربية.
-                        </p>
+    if (official) {
+        official.textContent =
+            countStatus("رسمي");
+    }
 
 
-                        <a
-                            id="heroLink"
-                            href="#"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            class="read-more"
-                        >
-
-                            قراءة الخبر
-
-                            <span>
-                                ←
-                            </span>
-
-                        </a>
+    if (confirmed) {
+        confirmed.textContent =
+            countStatus("مؤكد");
+    }
 
 
-                    </div>
+    if (negotiation) {
+        negotiation.textContent =
+            countStatus("مفاوضات");
+    }
 
 
-                </div>
+    if (rumor) {
+        rumor.textContent =
+            countStatus("إشاعة");
+    }
+}
 
 
-            </article>
+/* =========================
+   SOURCES
+========================= */
+
+function renderSources() {
+
+    const container =
+        get("sourcesList");
+
+    if (!container) {
+        return;
+    }
 
 
-            <!-- LATEST NEWS HEADER -->
-
-            <div class="section-header">
+    const sources = {};
 
 
-                <div>
+    allNews.forEach(item => {
+
+        const source =
+            item.source ||
+            "غير معروف";
+
+        sources[source] =
+            (sources[source] || 0) + 1;
+
+    });
 
 
-                    <span class="section-kicker">
-                        NEWS FEED
+    const sorted =
+        Object.entries(sources)
+            .sort(
+                (a, b) =>
+                    b[1] - a[1]
+            )
+            .slice(0, 10);
+
+
+    if (!sorted.length) {
+
+        container.innerHTML =
+            "<p>لا توجد مصادر بعد.</p>";
+
+        return;
+    }
+
+
+    container.innerHTML =
+        sorted.map(
+            ([source, count]) => `
+                <div class="source-row">
+
+                    <span>
+                        ${escapeHTML(source)}
                     </span>
 
-
-                    <h2>
-                        أحدث الأخبار
-                    </h2>
-
+                    <strong>
+                        ${count}
+                    </strong>
 
                 </div>
+            `
+        ).join("");
+}
 
 
-                <div class="feed-controls">
+/* =========================
+   PLAYERS
+========================= */
+
+function renderPlayers() {
+
+    const container =
+        get("playerList");
+
+    if (!container) {
+        return;
+    }
 
 
-                    <button
-                        class="feed-filter active"
-                        data-status="all"
-                    >
-                        الكل
-                    </button>
+    const players = {};
 
 
-                    <button
-                        class="feed-filter"
-                        data-status="رسمي"
-                    >
-                        رسمي
-                    </button>
+    allNews.forEach(item => {
+
+        if (!item.player) {
+            return;
+        }
+
+        const player =
+            String(item.player)
+                .trim();
+
+        if (!player) {
+            return;
+        }
+
+        players[player] =
+            (players[player] || 0) + 1;
+
+    });
 
 
-                    <button
-                        class="feed-filter"
-                        data-status="مؤكد"
-                    >
-                        مؤكد
-                    </button>
+    const sorted =
+        Object.entries(players)
+            .sort(
+                (a, b) =>
+                    b[1] - a[1]
+            )
+            .slice(0, 10);
 
 
-                    <button
-                        class="feed-filter"
-                        data-status="إشاعة"
-                    >
-                        إشاعة
-                    </button>
+    if (!sorted.length) {
+
+        container.innerHTML =
+            "<p>لا توجد أخبار لاعبين بعد.</p>";
+
+        return;
+    }
 
 
-                </div>
+    container.innerHTML =
+        sorted.map(
+            ([player, count]) => `
+                <div class="player-row">
 
-
-            </div>
-
-
-            <!-- NEWS -->
-
-            <div
-                id="newsGrid"
-                class="news-grid"
-            >
-            </div>
-
-
-            <!-- LOAD MORE -->
-
-            <div class="load-more-wrapper">
-
-
-                <button
-                    id="loadMore"
-                    class="load-more"
-                >
-                    عرض المزيد
-                </button>
-
-
-            </div>
-
-
-        </section>
-
-
-        <!-- =====================
-             LEFT SIDEBAR
-        ====================== -->
-
-        <aside class="sidebar left-sidebar">
-
-
-            <!-- PLAYERS -->
-
-            <div class="side-card player-card">
-
-
-                <div class="side-title">
-
-
-                    <span class="section-kicker">
-                        FOOTBALL
+                    <span>
+                        ${escapeHTML(player)}
                     </span>
 
-
-                    <h2>
-                        اللاعبون المغاربة
-                    </h2>
-
+                    <strong>
+                        ${count}
+                    </strong>
 
                 </div>
+            `
+        ).join("");
+}
 
 
-                <div
-                    id="playersList"
-                    class="players-list"
-                >
+/* =========================
+   LOAD MORE
+========================= */
+
+function updateLoadMore() {
+
+    const button =
+        get("loadMore");
+
+    if (!button) {
+        return;
+    }
+
+
+    if (
+        visibleCount >=
+        filteredNews.length
+    ) {
+
+        button.style.display =
+            "none";
+
+    } else {
+
+        button.style.display =
+            "block";
+
+    }
+}
+
+
+function setupLoadMore() {
+
+    const button =
+        get("loadMore");
+
+    if (!button) {
+        return;
+    }
+
+
+    button.addEventListener(
+        "click",
+        () => {
+
+            visibleCount += 10;
+
+            renderNews();
+
+        }
+    );
+}
+
+
+/* =========================
+   CATEGORY BUTTONS
+========================= */
+
+function setupCategories() {
+
+    const buttons =
+        document.querySelectorAll(
+            ".category-item"
+        );
+
+
+    buttons.forEach(button => {
+
+        button.addEventListener(
+            "click",
+            () => {
+
+                const raw =
+                    button.dataset.category;
+
+                currentCategory =
+                    normalizeCategory(
+                        raw
+                    ) || "all";
+
+
+                buttons.forEach(
+                    item =>
+                        item.classList
+                            .remove("active")
+                );
+
+
+                button.classList
+                    .add("active");
+
+
+                applyFilters();
+
+            }
+        );
+
+    });
+}
+
+
+/* =========================
+   STATUS BUTTONS
+========================= */
+
+function setupStatusFilters() {
+
+    const buttons =
+        document.querySelectorAll(
+            ".feed-filter"
+        );
+
+
+    buttons.forEach(button => {
+
+        button.addEventListener(
+            "click",
+            () => {
+
+                currentStatus =
+                    button.dataset.status ||
+                    "all";
+
+
+                buttons.forEach(
+                    item =>
+                        item.classList
+                            .remove("active")
+                );
+
+
+                button.classList
+                    .add("active");
+
+
+                applyFilters();
+
+            }
+        );
+
+    });
+}
+
+
+/* =========================
+   SEARCH
+========================= */
+
+function setupSearch() {
+
+    const inputs =
+        document.querySelectorAll(
+            'input[type="search"], input[placeholder*="بحث"], input[placeholder*="البحث"]'
+        );
+
+
+    inputs.forEach(input => {
+
+        input.addEventListener(
+            "input",
+            event => {
+
+                searchTerm =
+                    event.target.value
+                        .trim();
+
+                applyFilters();
+
+            }
+        );
+
+    });
+}
+
+
+/* =========================
+   LOAD NEWS
+========================= */
+
+async function loadNews() {
+
+    try {
+
+        const response =
+            await fetch(
+                `${NEWS_URL}?v=${Date.now()}`,
+                {
+                    cache: "no-store"
+                }
+            );
+
+
+        if (!response.ok) {
+            throw new Error(
+                `HTTP ${response.status}`
+            );
+        }
+
+
+        const data =
+            await response.json();
+
+
+        allNews =
+            normalizeNews(data);
+
+
+        filteredNews =
+            [...allNews];
+
+
+        console.log(
+            "Morocco News AI:",
+            allNews.length,
+            "news loaded"
+        );
+
+
+        renderHero();
+        renderCounts();
+        renderStatusCounts();
+        renderSources();
+        renderPlayers();
+        renderNews();
+
+
+        if (data.updated) {
+
+            console.log(
+                "Last update:",
+                data.updated
+            );
+
+        }
+
+
+    } catch (error) {
+
+        console.error(
+            "News loading error:",
+            error
+        );
+
+
+        const container =
+            get("newsGrid");
+
+
+        if (container) {
+
+            container.innerHTML = `
+                <div class="empty-state">
+                    تعذر تحميل الأخبار.
                 </div>
+            `;
 
+        }
 
-            </div>
+    }
 
+}
 
-            <!-- STATUS -->
 
-            <div class="side-card">
+/* =========================
+   START
+========================= */
 
+document.addEventListener(
+    "DOMContentLoaded",
+    () => {
 
-                <div class="side-title">
+        setupCategories();
+        setupStatusFilters();
+        setupSearch();
+        setupLoadMore();
 
-                    <h2>
-                        حالة الأخبار
-                    </h2>
+        loadNews();
 
-                </div>
-
-
-                <div class="status-list">
-
-
-                    <div class="status-row">
-
-
-                        <span>
-
-                            <i class="status-circle official"></i>
-
-                            رسمي
-
-                        </span>
-
-
-                        <strong id="statusOfficial">
-                            0
-                        </strong>
-
-
-                    </div>
-
-
-                    <div class="status-row">
-
-
-                        <span>
-
-                            <i class="status-circle confirmed"></i>
-
-                            مؤكد
-
-                        </span>
-
-
-                        <strong id="statusConfirmed">
-                            0
-                        </strong>
-
-
-                    </div>
-
-
-                    <div class="status-row">
-
-
-                        <span>
-
-                            <i class="status-circle negotiation"></i>
-
-                            مفاوضات
-
-                        </span>
-
-
-                        <strong id="statusNegotiation">
-                            0
-                        </strong>
-
-
-                    </div>
-
-
-                    <div class="status-row">
-
-
-                        <span>
-
-                            <i class="status-circle rumor"></i>
-
-                            إشاعة
-
-                        </span>
-
-
-                        <strong id="statusRumor">
-                            0
-                        </strong>
-
-
-                    </div>
-
-
-                </div>
-
-
-            </div>
-
-
-            <!-- SYSTEM -->
-
-            <div class="side-card system-card">
-
-
-                <div class="system-header">
-
-
-                    <div class="system-icon">
-                        AI
-                    </div>
-
-
-                    <div>
-
-
-                        <h3>
-                            Morocco News AI
-                        </h3>
-
-
-                        <span>
-                            News Radar
-                        </span>
-
-
-                    </div>
-
-
-                </div>
-
-
-                <div class="system-info">
-
-
-                    <div>
-
-                        <span>
-                            المصادر
-                        </span>
-
-                        <strong id="sourceCount">
-                            0
-                        </strong>
-
-                    </div>
-
-
-                    <div>
-
-                        <span>
-                            الأخبار
-                        </span>
-
-                        <strong id="totalNews">
-                            0
-                        </strong>
-
-                    </div>
-
-
-                </div>
-
-
-                <div class="system-footer">
-
-
-                    <span class="status-dot"></span>
-
-                    النظام متصل
-
-
-                </div>
-
-
-            </div>
-
-
-        </aside>
-
-
-    </main>
-
-
-    <!-- =========================
-         EMPTY STATE
-    ========================== -->
-
-    <section
-        id="emptyState"
-        class="empty-state hidden"
-    >
-
-
-        <div class="empty-icon">
-            ⌕
-        </div>
-
-
-        <h2>
-            لم يتم العثور على أخبار
-        </h2>
-
-
-        <p>
-            جرّب تغيير كلمة البحث أو القسم.
-        </p>
-
-
-    </section>
-
-
-    <!-- =========================
-         FOOTER
-    ========================== -->
-
-    <footer class="footer">
-
-
-        <div class="footer-brand">
-
-
-            <strong>
-                Morocco News AI
-            </strong>
-
-
-            <span>
-                منصة رصد الأخبار المغربية
-            </span>
-
-
-        </div>
-
-
-        <div class="footer-links">
-
-
-            <span>
-                News Radar
-            </span>
-
-
-            <span>
-                •
-            </span>
-
-
-            <span>
-                RTL Arabic
-            </span>
-
-
-            <span>
-                •
-            </span>
-
-
-            <span id="footerYear">
-            </span>
-
-
-        </div>
-
-
-    </footer>
-
-
-</div>
-
-
-<!-- =========================
-     MOBILE MENU
-========================== -->
-
-<div
-    id="mobileMenu"
-    class="mobile-menu"
->
-
-
-    <div class="mobile-menu-header">
-
-
-        <strong>
-            Morocco News AI
-        </strong>
-
-
-        <button id="closeMenu">
-            ×
-        </button>
-
-
-    </div>
-
-
-    <button data-category="all">
-        الرئيسية
-    </button>
-
-
-    <button data-category="أخبار المغرب">
-        أخبار المغرب
-    </button>
-
-
-    <button data-category="رياضة">
-        الرياضة
-    </button>
-
-
-    <button data-category="انتقالات اللاعبين">
-        الانتقالات
-    </button>
-
-
-</div>
-
-
-<!-- =========================
-     TOAST
-========================== -->
-
-<div
-    id="toast"
-    class="toast"
->
-    تم تحديث الأخبار
-</div>
-
-
-<script src="app.js?v=20260919"></script>
-
-
-</body>
-
-  </html>
+    }
+);
