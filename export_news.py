@@ -1,80 +1,218 @@
 import json
+
 from db import recent
 
-
-# ============================================================
-# SETTINGS
-# ============================================================
 
 MAX_PER_SECTION = 30
 MAX_TOTAL = 150
 
 
 # ============================================================
-# GET NEWS
+# كلمات المحتوى غير المرغوب
 # ============================================================
 
-items = recent(500)
+BLOCKED_TERMS = [
+    "immobilier",
+    "immobilière",
+    "immobiliere",
+    "عقار",
+    "عقارات",
+    "شقة للبيع",
+    "شقق للبيع",
+    "منزل للبيع",
+    "دار للبيع",
+    "أرض للبيع",
+    "بقعة للبيع",
+    "كراء",
+    "للإيجار",
+    "للبيع",
+    "appartement",
+    "villa",
+    "maison",
+    "terrain",
+    "location",
+    "annonce",
+    "annonces",
+    "promotion immobilière",
+    "promoteur immobilier",
+]
+
+
+COMMERCIAL_TERMS = [
+    "promo",
+    "promotion",
+    "offre spéciale",
+    "offre commerciale",
+    "shopping",
+    "boutique",
+    "catalogue",
+    "منتج",
+    "منتجات",
+    "تخفيض",
+    "تخفيضات",
+    "تسوق",
+    "متجر",
+    "إعلان تجاري",
+]
 
 
 # ============================================================
-# SECTION HELPERS
+# HELPERS
+# ============================================================
+
+def normalize_text(value):
+    if not value:
+        return ""
+
+    text = str(value).lower()
+
+    replacements = {
+        "أ": "ا",
+        "إ": "ا",
+        "آ": "ا",
+        "ى": "ي",
+        "ة": "ه",
+    }
+
+    for old, new in replacements.items():
+        text = text.replace(old, new)
+
+    return text
+
+
+def item_text(item):
+    return normalize_text(
+        " ".join(
+            [
+                str(item.get("title", "") or ""),
+                str(item.get("summary", "") or ""),
+                str(item.get("source", "") or ""),
+                str(item.get("category", "") or ""),
+            ]
+        )
+    )
+
+
+def is_blocked(item):
+    text = item_text(item)
+
+    # عقار وإعلانات عقارية
+    for term in BLOCKED_TERMS:
+
+        if normalize_text(term) in text:
+            return True
+
+    # محتوى تجاري واضح
+    matches = 0
+
+    for term in COMMERCIAL_TERMS:
+
+        if normalize_text(term) in text:
+            matches += 1
+
+    return matches >= 2
+
+
+# ============================================================
+# CATEGORY
 # ============================================================
 
 def section_for(item):
-    category = item.get("category", "")
-    source_group = item.get("source_group", "")
 
-    # 🔄 الانتقالات
-    if category == "انتقالات اللاعبين":
+    category = normalize_text(
+        item.get("category", "")
+    )
+
+    source_group = normalize_text(
+        item.get("source_group", "")
+    )
+
+    # انتقالات اللاعبين
+    if (
+        "انتقالات" in category
+        or "transfer" in category
+    ):
         return "transfers"
 
-    # ⚽ الرياضة
-    if category == "الرياضة":
+    # الرياضة
+    if (
+        "رياضة" in category
+        or "sport" in category
+    ):
         return "sports"
 
-    # 🇲🇦 المغرب
+    # أخبار المغرب
     if (
-        category == "أخبار المغرب"
+        "اخبار المغرب" in category
+        or "المغرب" in category
         or source_group == "morocco"
     ):
         return "morocco"
 
-    # 🌐 الشرق الأوسط
+    # الشرق الأوسط
     if (
-        category == "الشرق الأوسط"
+        "الشرق الاوسط" in category
         or source_group == "middle_east"
     ):
         return "middle_east"
 
-    # 🌍 العالم بالعربية
+    # العالم العربي
     if (
-        category == "العالم بالعربية"
+        "العالم" in category
         or source_group == "world_arabic"
     ):
+        return "world_arabic"
+
+    # المصادر الدولية
+    if source_group == "international":
         return "world_arabic"
 
     return None
 
 
 # ============================================================
-# CREATE SECTIONS
+# LOAD
+# ============================================================
+
+items = recent(500)
+
+
+# ============================================================
+# FILTER
+# ============================================================
+
+clean_items = []
+
+blocked_count = 0
+
+for item in items:
+
+    if is_blocked(item):
+
+        blocked_count += 1
+        continue
+
+    clean_items.append(item)
+
+
+# ============================================================
+# SECTIONS
 # ============================================================
 
 sections = {
     "morocco": [],
-    "middle_east": [],
-    "world_arabic": [],
     "sports": [],
     "transfers": [],
+    "middle_east": [],
+    "world_arabic": [],
 }
 
 
 # ============================================================
-# DISTRIBUTE NEWS
+# DISTRIBUTE
 # ============================================================
 
-for item in items:
+for item in clean_items:
 
     section = section_for(item)
 
@@ -88,25 +226,10 @@ for item in items:
 
 
 # ============================================================
-# SORT
+# TOTAL
 # ============================================================
 
-for section in sections:
-
-    sections[section].sort(
-        key=lambda item: item.get(
-            "discovered",
-            ""
-        ),
-        reverse=True
-    )
-
-
-# ============================================================
-# LIMIT TOTAL
-# ============================================================
-
-total_items = sum(
+total = sum(
     len(items)
     for items in sections.values()
 )
@@ -116,61 +239,41 @@ total_items = sum(
 # OUTPUT
 # ============================================================
 
-data = {
-    "updated": items[0].get(
-        "discovered",
-        ""
-    ) if items else "",
+output = {
+    "updated": __import__("datetime")
+        .datetime.now(
+            __import__("datetime").timezone.utc
+        )
+        .isoformat(),
 
-    "total": total_items,
+    "total": total,
 
     "sections": sections,
 }
 
 
+# ============================================================
+# SAVE
+# ============================================================
+
 with open(
     "docs/news.json",
     "w",
     encoding="utf-8"
-) as f:
+) as file:
 
     json.dump(
-        data,
-        f,
+        output,
+        file,
         ensure_ascii=False,
         indent=2
     )
 
 
-# ============================================================
-# LOGS
-# ============================================================
-
 print(
-    f"Exported {total_items} news items"
+    f"Exported {total} clean news items"
 )
 
 print(
-    f"Morocco: "
-    f"{len(sections['morocco'])}"
-)
-
-print(
-    f"Middle East: "
-    f"{len(sections['middle_east'])}"
-)
-
-print(
-    f"World Arabic: "
-    f"{len(sections['world_arabic'])}"
-)
-
-print(
-    f"Sports: "
-    f"{len(sections['sports'])}"
-)
-
-print(
-    f"Transfers: "
-    f"{len(sections['transfers'])}"
+    f"Blocked {blocked_count} old commercial/real-estate items"
 )
