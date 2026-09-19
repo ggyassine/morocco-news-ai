@@ -1,14 +1,6 @@
 import re
+import html
 
-from sources import (
-    MOROCCAN_PLAYERS,
-    TRANSFER_TERMS,
-)
-
-
-# ============================================================
-# STATUS
-# ============================================================
 
 STATUSES = [
     "رسمي",
@@ -24,10 +16,6 @@ STATUSES = [
     "غير واضح",
 ]
 
-
-# ============================================================
-# SOURCE GROUPS
-# ============================================================
 
 MOROCCO_SOURCES = {
     "MAP عربي",
@@ -71,374 +59,533 @@ INTERNATIONAL_SOURCES = {
 }
 
 
-# ============================================================
-# SPORTS TERMS
-# ============================================================
-
-SPORTS_TERMS = [
-    "رياضة",
-    "رياضي",
-    "كرة القدم",
-    "مباراة",
-    "مباريات",
-    "دوري",
-    "بطولة",
-    "كأس",
-    "منتخب",
-    "لاعب",
-    "لاعبين",
-    "مدرب",
-    "نادي",
-    "أهداف",
-    "هدف",
-    "تصفيات",
-    "الدوري المغربي",
-    "البطولة الاحترافية",
-    "دوري أبطال أوروبا",
-    "الدوري الإنجليزي",
-    "الدوري الإسباني",
-    "الدوري الفرنسي",
-    "الدوري الإيطالي",
-    "دوري أبطال إفريقيا",
-    "كأس إفريقيا",
-    "كأس العالم",
-    "football",
-    "soccer",
-    "match",
-    "matches",
-    "league",
-    "cup",
-    "champions",
+TRANSFER_TERMS = [
+    "انتقال",
+    "انتقالات",
+    "ميركاتو",
+    "سوق الانتقالات",
+    "مفاوضات",
+    "صفقة",
+    "توقيع",
+    "يوقع",
+    "وقع",
+    "إعارة",
+    "اعارة",
+    "اهتمام",
+    "يرغب",
+    "رحيل",
+    "مغادرة",
+    "تجديد",
+    "عقد",
+    "transfer",
+    "transfert",
+    "mercato",
+    "loan",
+    "signing",
 ]
 
 
-# ============================================================
-# HELPERS
-# ============================================================
+SPORT_TERMS = [
+    "رياضة",
+    "رياضي",
+    "كرة القدم",
+    "كرة السلة",
+    "كرة اليد",
+    "منتخب",
+    "مباراة",
+    "مباريات",
+    "دوري",
+    "كأس",
+    "بطولة",
+    "لاعب",
+    "مدرب",
+    "هدف",
+    "أهداف",
+    "فوز",
+    "هزيمة",
+    "تعادل",
+    "football",
+    "sport",
+    "match",
+    "league",
+    "cup",
+]
 
-def contains_any(text, terms):
-    text = text.lower()
 
-    return any(
-        term.lower() in text
-        for term in terms
+MOROCCO_TERMS = [
+    "المغرب",
+    "مغربي",
+    "مغربية",
+    "المغاربة",
+    "الرباط",
+    "الدار البيضاء",
+    "طنجة",
+    "فاس",
+    "مراكش",
+    "أكادير",
+    "وجدة",
+    "الحكومة المغربية",
+    "البرلمان المغربي",
+    "المنتخب المغربي",
+    "المنتخب الوطني",
+]
+
+
+OFFICIAL_TERMS = [
+    "أعلن رسميا",
+    "أعلن رسميًا",
+    "أعلنت رسميا",
+    "أعلنت رسميًا",
+    "رسمي",
+    "رسميا",
+    "رسميًا",
+    "بيان رسمي",
+    "وقع عقدا",
+    "وقع عقدًا",
+    "تم التوقيع",
+    "انضم رسميا",
+    "انضم رسميًا",
+    "official",
+]
+
+
+CONFIRMED_TERMS = [
+    "أكد",
+    "أكدت",
+    "تأكد",
+    "confirmed",
+]
+
+
+NEGOTIATION_TERMS = [
+    "مفاوضات",
+    "يتفاوض",
+    "تفاوض",
+    "محادثات",
+    "اتصالات",
+    "talks",
+    "negotiations",
+]
+
+
+INTEREST_TERMS = [
+    "اهتمام",
+    "مهتم",
+    "يرغب",
+    "يراقب",
+    "يتابع",
+    "يستهدف",
+    "هدف للنادي",
+    "interest",
+    "interested",
+]
+
+
+OFFER_TERMS = [
+    "عرض رسمي",
+    "عرض مالي",
+    "قدم عرضا",
+    "قدم عرضًا",
+    "offer",
+    "bid",
+]
+
+
+LOAN_TERMS = [
+    "إعارة",
+    "اعارة",
+    "معارا",
+    "معارًا",
+    "loan",
+]
+
+
+RENEWAL_TERMS = [
+    "تجديد",
+    "جدد عقده",
+    "جدد عقدها",
+    "تمديد العقد",
+    "renewal",
+    "renewed",
+]
+
+
+RUMOR_TERMS = [
+    "إشاعة",
+    "شائعة",
+    "بحسب تقارير",
+    "تقارير تشير",
+    "يقال",
+    "قد ينتقل",
+    "قد ينضم",
+    "ربما",
+    "rumor",
+    "rumour",
+]
+
+
+DENIED_TERMS = [
+    "نفى",
+    "نفت",
+    "ينفي",
+    "تنفي",
+    "لا صحة",
+    "غير صحيح",
+]
+
+
+def clean_text(value):
+    if not value:
+        return ""
+
+    text = html.unescape(str(value))
+
+    text = re.sub(
+        r"<[^>]+>",
+        " ",
+        text
     )
-
-
-def find_player(text):
-    text_lower = text.lower()
-
-    for player in MOROCCAN_PLAYERS:
-        if player.lower() in text_lower:
-            return player
-
-    return ""
-
-
-def is_transfer(text):
-    return contains_any(
-        text,
-        TRANSFER_TERMS
-    )
-
-
-def is_sports(text):
-    return contains_any(
-        text,
-        SPORTS_TERMS
-    )
-
-
-# ============================================================
-# TRANSFER STATUS
-# ============================================================
-
-def detect_status(text, trust):
-    t = text.lower()
-
-    # رسمي
-    official_patterns = [
-        "رسمي",
-        "رسميا",
-        "رسميًا",
-        "يعلن النادي",
-        "أعلن النادي",
-        "أعلن",
-        "وقع",
-        "يوقع",
-        "تعاقد",
-        "تم التوقيع",
-        "signed",
-        "signs",
-        "official",
-        "officially",
-    ]
-
-    if any(
-        pattern in t
-        for pattern in official_patterns
-    ):
-        return "رسمي"
-
-    # اتفاق
-    agreement_patterns = [
-        "اتفاق مبدئي",
-        "اتفق مع",
-        "توصل إلى اتفاق",
-        "اتفاق",
-        "agreement",
-        "agreed",
-    ]
-
-    if any(
-        pattern in t
-        for pattern in agreement_patterns
-    ):
-        return "اتفاق مبدئي"
-
-    # مفاوضات
-    negotiation_patterns = [
-        "مفاوضات",
-        "يتفاوض",
-        "تفاوض",
-        "negotiation",
-        "negotiations",
-    ]
-
-    if any(
-        pattern in t
-        for pattern in negotiation_patterns
-    ):
-        return "مفاوضات"
-
-    # اهتمام
-    interest_patterns = [
-        "اهتمام",
-        "مهتم",
-        "يرغب في ضمه",
-        "interest",
-        "interested",
-    ]
-
-    if any(
-        pattern in t
-        for pattern in interest_patterns
-    ):
-        return "اهتمام"
-
-    # عرض
-    offer_patterns = [
-        "عرض",
-        "عرضًا",
-        "offer",
-        "bid",
-    ]
-
-    if any(
-        pattern in t
-        for pattern in offer_patterns
-    ):
-        return "عرض"
-
-    # إعارة
-    loan_patterns = [
-        "إعارة",
-        "معارا",
-        "معارًا",
-        "loan",
-    ]
-
-    if any(
-        pattern in t
-        for pattern in loan_patterns
-    ):
-        return "إعارة"
-
-    # تجديد
-    renewal_patterns = [
-        "تجديد",
-        "يجدد",
-        "جدد عقده",
-        "renewal",
-        "renewed",
-        "extends",
-        "extension",
-    ]
-
-    if any(
-        pattern in t
-        for pattern in renewal_patterns
-    ):
-        return "تجديد"
-
-    # إشاعة
-    rumor_patterns = [
-        "إشاعة",
-        "شائعة",
-        "أنباء",
-        "تقارير",
-        "بحسب مصادر",
-        "rumor",
-        "rumour",
-        "reports",
-    ]
-
-    if any(
-        pattern in t
-        for pattern in rumor_patterns
-    ):
-        return "إشاعة"
-
-    # مصدر موثوق مع خبر انتقال
-    if trust == "A":
-        return "مؤكد"
-
-    return "غير واضح"
-
-
-# ============================================================
-# SUMMARY
-# ============================================================
-
-def make_summary(text):
-    """
-    إنشاء ملخص قصير بدون تكرار العنوان.
-    """
 
     text = re.sub(
         r"\s+",
         " ",
         text
-    ).strip()
+    )
 
-    if len(text) <= 320:
-        return text
-
-    return text[:320].rsplit(
-        " ",
-        1
-    )[0] + "..."
+    return text.strip()
 
 
-# ============================================================
-# CATEGORY
-# ============================================================
+def normalize(value):
+    text = clean_text(value).lower()
 
-def detect_category(text, source):
-    """
-    تحديد القسم الرئيسي للخبر.
-    """
+    replacements = {
+        "أ": "ا",
+        "إ": "ا",
+        "آ": "ا",
+        "ى": "ي",
+        "ة": "ه",
+    }
 
-    # 🔄 الانتقالات أولًا
-    # لأن خبر انتقال لاعب يجب أن يظهر
-    # في قسم الانتقالات حتى لو كان رياضيًا.
-    if is_transfer(text):
+    for old, new in replacements.items():
+        text = text.replace(old, new)
 
-        player = find_player(text)
+    return text
 
-        if player:
-            return "انتقالات اللاعبين"
 
-    # ⚽ الرياضة
-    if is_sports(text):
+def contains_any(text, terms):
+    normalized = normalize(text)
 
-        if source in MOROCCO_SOURCES:
-            return "الرياضة"
+    return any(
+        normalize(term) in normalized
+        for term in terms
+    )
 
-    # 🇲🇦 المغرب
+
+def source_group(source):
     if source in MOROCCO_SOURCES:
+        return "morocco"
+
+    if source in MIDDLE_EAST_SOURCES:
+        return "middle_east"
+
+    if source in WORLD_ARABIC_SOURCES:
+        return "world_arabic"
+
+    if source in INTERNATIONAL_SOURCES:
+        return "international"
+
+    return "other"
+
+
+def classify_category(item):
+
+    title = clean_text(
+        item.get("title", "")
+    )
+
+    summary = clean_text(
+        item.get("summary", "")
+    )
+
+    description = clean_text(
+        item.get("description", "")
+    )
+
+    source = item.get("source", "")
+
+    text = (
+        title
+        + " "
+        + summary
+        + " "
+        + description
+    )
+
+    # الانتقالات لها الأولوية
+    if contains_any(text, TRANSFER_TERMS):
+        return "انتقالات اللاعبين"
+
+    # الرياضة
+    if contains_any(text, SPORT_TERMS):
+        return "الرياضة"
+
+    # المغرب
+    if (
+        contains_any(text, MOROCCO_TERMS)
+        or source in MOROCCO_SOURCES
+    ):
         return "أخبار المغرب"
 
-    # 🌐 الشرق الأوسط
+    # الشرق الأوسط
     if source in MIDDLE_EAST_SOURCES:
         return "الشرق الأوسط"
 
-    # 🌍 العالم بالعربية
-    if source in WORLD_ARABIC_SOURCES:
-        return "العالم بالعربية"
+    # العالم العربي والدولي
+    if (
+        source in WORLD_ARABIC_SOURCES
+        or source in INTERNATIONAL_SOURCES
+    ):
+        return "العالم"
 
-    # 🔎 المصادر الدولية
-    if source in INTERNATIONAL_SOURCES:
-        return "مصادر دولية"
-
-    return "أخبار أخرى"
+    return "أخبار"
 
 
-# ============================================================
-# MAIN CLASSIFIER
-# ============================================================
+def classify_status(item):
 
-def classify(text, source, trust):
+    text = " ".join([
+        clean_text(item.get("title", "")),
+        clean_text(item.get("summary", "")),
+        clean_text(item.get("description", "")),
+    ])
 
-    player = find_player(text)
+    if contains_any(text, DENIED_TERMS):
+        return "منفي"
 
-    category = detect_category(
-        text,
-        source
+    if contains_any(text, OFFICIAL_TERMS):
+        return "رسمي"
+
+    if contains_any(text, CONFIRMED_TERMS):
+        return "مؤكد"
+
+    if contains_any(text, LOAN_TERMS):
+        return "إعارة"
+
+    if contains_any(text, RENEWAL_TERMS):
+        return "تجديد"
+
+    if contains_any(text, NEGOTIATION_TERMS):
+        return "مفاوضات"
+
+    if contains_any(text, OFFER_TERMS):
+        return "عرض"
+
+    if contains_any(text, INTEREST_TERMS):
+        return "اهتمام"
+
+    if contains_any(text, RUMOR_TERMS):
+        return "إشاعة"
+
+    return "غير واضح"
+
+
+def find_player(item):
+
+    try:
+        from sources import MOROCCAN_PLAYERS
+    except Exception:
+        return ""
+
+    text = normalize(
+        " ".join([
+            clean_text(item.get("title", "")),
+            clean_text(item.get("summary", "")),
+            clean_text(item.get("description", "")),
+        ])
     )
 
-    status = "غير واضح"
+    for player in MOROCCAN_PLAYERS:
 
-    # حالة الانتقالات
-    if category == "انتقالات اللاعبين":
+        player_name = clean_text(player)
 
-        status = detect_status(
-            text,
-            trust
+        if (
+            player_name
+            and normalize(player_name) in text
+        ):
+            return player_name
+
+    return ""
+
+
+def classify_trust(source):
+
+    if source in {
+        "MAP عربي",
+        "SNRTnews عربي",
+        "Reuters",
+        "Associated Press",
+    }:
+        return "A"
+
+    if source in {
+        "هسبريس",
+        "Le360 عربي",
+        "الجزيرة",
+        "العربية",
+        "سكاي نيوز عربية",
+        "الشرق للأخبار",
+        "الشرق الأوسط",
+        "العربي الجديد",
+        "BBC عربي",
+        "فرانس 24 عربي",
+        "DW عربية",
+    }:
+        return "B"
+
+    return "C"
+
+
+def remove_title(text, title):
+
+    if not text:
+        return ""
+
+    text = clean_text(text)
+    title = clean_text(title)
+
+    if not title:
+        return text
+
+    normalized_text = normalize(text)
+    normalized_title = normalize(title)
+
+    if normalized_text.startswith(
+        normalized_title
+    ):
+        text = text[len(title):].strip(
+            " -–—:،,.؛"
         )
 
-    # الأخبار الرياضية
-    elif category == "الرياضة":
+    return text
 
-        status = (
-            "مؤكد"
-            if trust == "A"
-            else "غير واضح"
-        )
 
-    # الأخبار المغربية
-    elif category == "أخبار المغرب":
+def remove_repeated_text(text):
 
-        status = (
-            "مؤكد"
-            if trust == "A"
-            else "غير واضح"
-        )
+    if not text:
+        return ""
 
-    # الشرق الأوسط
-    elif category == "الشرق الأوسط":
+    words = text.split()
 
-        status = (
-            "مؤكد"
-            if trust == "A"
-            else "غير واضح"
-        )
+    if len(words) < 12:
+        return text
 
-    # العالم بالعربية
-    elif category == "العالم بالعربية":
+    # إذا كان RSS كرر نفس العبارة
+    half = len(words) // 2
 
-        status = (
-            "مؤكد"
-            if trust == "A"
-            else "غير واضح"
-        )
-
-    # المصادر الدولية
-    elif category == "مصادر دولية":
-
-        status = (
-            "مؤكد"
-            if trust == "A"
-            else "غير واضح"
-        )
-
-    summary = make_summary(
-        text
+    first = normalize(
+        " ".join(words[:half])
     )
 
-    return (
-        category,
-        status,
+    second = normalize(
+        " ".join(words[half:])
+    )
+
+    if first == second:
+        return " ".join(
+            words[:half]
+        )
+
+    return text
+
+
+def make_summary(item):
+
+    title = clean_text(
+        item.get("title", "")
+    )
+
+    summary = clean_text(
+        item.get("summary", "")
+    )
+
+    description = clean_text(
+        item.get("description", "")
+    )
+
+    candidates = []
+
+    for text in [
+        description,
         summary,
-        player
+    ]:
+
+        text = remove_title(
+            text,
+            title
+        )
+
+        text = remove_repeated_text(
+            text
+        )
+
+        if len(text) >= 30:
+            candidates.append(text)
+
+    if not candidates:
+
+        return (
+            "يتناول الخبر: "
+            + title
+        )
+
+    # اختيار أفضل وصف متاح
+    result = max(
+        candidates,
+        key=len
     )
+
+    # إزالة التكرار الكامل للجمل
+    sentences = re.split(
+        r"(?<=[.!؟])\s+",
+        result
+    )
+
+    unique = []
+    seen = set()
+
+    for sentence in sentences:
+
+        sentence = sentence.strip()
+
+        if len(sentence) < 10:
+            continue
+
+        key = normalize(sentence)
+
+        if key in seen:
+            continue
+
+        seen.add(key)
+        unique.append(sentence)
+
+    result = " ".join(unique)
+
+    if len(result) > 450:
+        result = result[:450].rsplit(
+            " ",
+            1
+        )[0] + "..."
+
+    return result
+
+
+def classify(item):
+
+    return {
+        "category": classify_category(item),
+        "status": classify_status(item),
+        "player": find_player(item),
+        "trust": classify_trust(
+            item.get("source", "")
+        ),
+        "summary": make_summary(item),
+    }
