@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-19T21:02:11.455647+00:00",
-  "total": 111,
+  "updated": "2026-09-19T21:05:12.360013+00:00",
+  "total": 113,
   "sections": {
     "morocco": [
+      {
+        "id": 1860,
+        "title": "تفاصيل درجات الحرارة وحالة البحر ليوم الجمعة بالمغرب - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBhRlNVN1VUQzVKeHVpd3ZjbHRqRUF1TmZKb2p1dE9Wa2JXRVJhMUJSd3VwWGpkLW1oTDZLRVVIYnJaMW12bWZoOA?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Fri, 18 Sep 2026 09:35:03 GMT",
+        "discovered": "2026-09-19T21:05:01.602435+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "تفاصيل درجات الحرارة وحالة البحر ليوم الجمعة بالمغرب Febrayer",
+        "player": "",
+        "content_hash": "d49ee3484a47cd47909d09065795ce9a41cb9afa550031c9d3d0375397f14520",
+        "sent": 0
+      },
       {
         "id": 1857,
         "title": "المغرب وإسرائيل نحو \"تمثيل دبلوماسي كامل\" - BBC",
@@ -336,6 +351,21 @@
     ],
     "sports": [],
     "transfers": [
+      {
+        "id": 1864,
+        "title": "صحيفة سويسرية: خطة ألمانية قد تقود لمغادرة قرابة نصف مليون سوري - aljazeera.net",
+        "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNTkIzWERwYVFqUm5SQ29GVDc1MkNDUEY2WnlHVW53SklOU2x4UFZVcVI1N01IVG5HbklFSFFvWXM4cHdhMGdJNHFuS3hyRlc5dzBDSTY3dFl2ZXRqdXZnQXVlNEQ3VlllSHRrR2NGRDJCaG1TR0FGd3NTNWM4bDVyNWVMelZmWmJFS3dGdEkxOG0yTk95aUd5SS1JQlltaFdpRlFVZTI1U0VHZlBtU2ZNLUFqR2JBb09wd21YSGtndzBYTmVzdXF6UGloWGdDRU5pOTZsQzBvREJCcGJkVmJ0bmdVMW9ob3JwVnlRYVBsQUM1dWV3YUdqYmt0OXJnZ2wydlk4QzVndkdPaU1JOGx0cDBGNjJQcmxMRm5SNlVIbDhVQ2pPX2fSAasCQVVfeXFMT0haeGhZNjZvUUNyZHpPYmpqZnZhbG9PcVEtNTBrV09sOTFVbktERml1V2NtR0JUVUM0b18zdVNBb3NSQ1ptckVXWVNJQVhmUThQOURpblRLR3N3QjZvaU1HQ0V5dEdHRl80S21MSVU2XzV6NEVYVGR2UzhEMnNOZUJQeERaa3lzODJ4ZWl6UEpTUTBpOE16V29zMXRPNUdFNl8zZmF3NDZUZVBRWlVxWHZtdGtjSkczb2RZanJfX25GQnUtRVZvU3I4eEhpT0FwXzZRQ2tYS0wyWm9vcGIyTHNfVjdSaDRWSFAzYmFwTl93MW5JYkJrUmQ0aG0ySnN0cXhmbkhIRUF4MmYzSXZaOGVQSXFGc2RJZGttbVVYUk0zR0J4OVcxZVROR2s?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Fri, 18 Sep 2026 16:21:29 GMT",
+        "discovered": "2026-09-19T21:05:03.508120+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "صحيفة سويسرية: خطة ألمانية قد تقود لمغادرة قرابة نصف مليون سوري aljazeera.net",
+        "player": "",
+        "content_hash": "65475741045ed0da3295b0068b99e0f10596877eb4854c9efd0f243155be1e55",
+        "sent": 0
+      },
       {
         "id": 1859,
         "title": "الزمالك يكشف سبب موافقته على انتقال خوان بيزيرا لنادٍ إماراتي - CNN Arabic",
