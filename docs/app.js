@@ -125,10 +125,6 @@ function getNewsCategory(item) {
         return "";
     }
 
-    /*
-     * section is the most reliable value
-     * because export_news.py creates it.
-     */
     if (item.section) {
         return normalizeCategory(item.section);
     }
@@ -163,24 +159,34 @@ function normalizeNews(data) {
         return [];
     }
 
+    let result = [];
+
+    /*
+     * Case 1:
+     * news.json is directly an array
+     */
     if (Array.isArray(data)) {
-        return data;
+        result = data;
     }
 
-    if (Array.isArray(data.news)) {
-        return data.news;
-    }
-
-    if (Array.isArray(data.items)) {
-        return data.items;
-    }
-
-    if (
+    /*
+     * Case 2:
+     * export_news.py creates:
+     *
+     * {
+     *   "updated": "...",
+     *   "total": 91,
+     *   "sections": {
+     *      "morocco": [],
+     *      "sports": [],
+     *      ...
+     *   }
+     * }
+     */
+    else if (
         data.sections &&
         typeof data.sections === "object"
     ) {
-        const result = [];
-
         Object.entries(data.sections).forEach(
             ([section, items]) => {
 
@@ -189,19 +195,45 @@ function normalizeNews(data) {
                 }
 
                 items.forEach(item => {
+
+                    if (!item || typeof item !== "object") {
+                        return;
+                    }
+
                     result.push({
                         ...item,
-                        section:
-                            normalizeCategory(section)
+                        section: normalizeCategory(section)
                     });
                 });
             }
         );
-
-        return result;
     }
 
-    return [];
+    /*
+     * Case 3:
+     * Alternative format:
+     *
+     * {
+     *   "news": []
+     * }
+     */
+    else if (Array.isArray(data.news)) {
+        result = data.news;
+    }
+
+    /*
+     * Case 4:
+     * Alternative format:
+     *
+     * {
+     *   "items": []
+     * }
+     */
+    else if (Array.isArray(data.items)) {
+        result = data.items;
+    }
+
+    return result;
 }
 
 
@@ -993,4 +1025,4 @@ if (
 
     initializeApp();
 
-                }
+}
