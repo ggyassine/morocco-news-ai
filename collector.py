@@ -21,10 +21,11 @@ USER_AGENT = (
 FETCH_TIMEOUT = 10
 
 
-# =========================================================
+# ============================================================
 # SOURCE GROUPS
-# =========================================================
+# ============================================================
 
+# 🇲🇦 أخبار المغرب
 MOROCCO_SOURCES = {
     "MAP عربي",
     "SNRTnews عربي",
@@ -43,6 +44,7 @@ MOROCCO_SOURCES = {
 }
 
 
+# 🌐 الشرق الأوسط
 MIDDLE_EAST_SOURCES = {
     "الجزيرة",
     "العربية",
@@ -53,20 +55,33 @@ MIDDLE_EAST_SOURCES = {
 }
 
 
-INTERNATIONAL_SOURCES = {
-    "Reuters",
-    "BBC",
-    "Associated Press",
-    "France 24 عربي",
+# 🌍 العالم بالعربية
+WORLD_ARABIC_SOURCES = {
+    "القدس العربي",
+    "فرانس 24 عربي",
     "DW عربية",
+    "BBC عربي",
+    "يورونيوز عربي",
+    "إندبندنت عربية",
+    "CNN بالعربية",
 }
 
 
-# =========================================================
+# 🔎 مصادر دولية للتحقق والرصد
+INTERNATIONAL_SOURCES = {
+    "Reuters",
+    "Associated Press",
+}
+
+
+# ============================================================
 # CLEAN TEXT
-# =========================================================
+# ============================================================
 
 def clean(s):
+    """
+    تنظيف النص من HTML والمسافات الزائدة.
+    """
 
     s = html.unescape(
         re.sub(
@@ -83,34 +98,63 @@ def clean(s):
     ).strip()
 
 
-# =========================================================
+# ============================================================
+# SOURCE GROUP
+# ============================================================
+
+def get_source_group(source):
+    """
+    تحديد المجموعة التي ينتمي إليها المصدر.
+    """
+
+    if source in MOROCCO_SOURCES:
+        return "morocco"
+
+    if source in MIDDLE_EAST_SOURCES:
+        return "middle_east"
+
+    if source in WORLD_ARABIC_SOURCES:
+        return "world_arabic"
+
+    if source in INTERNATIONAL_SOURCES:
+        return "international"
+
+    return "other"
+
+
+# ============================================================
 # RELEVANCE
-# =========================================================
+# ============================================================
 
 def relevant(text, source):
+    """
+    تحديد ما إذا كان الخبر يستحق الحفظ.
+    """
 
     t = text.lower()
 
-    # الأخبار المغربية
+    # 🇲🇦 أخبار المغرب
     if source in MOROCCO_SOURCES:
-
         return (
             any(
                 term.lower() in t
                 for term in MOROCCO_TERMS
             )
-            or
-            any(
+            or any(
                 player.lower() in t
                 for player in MOROCCAN_PLAYERS
             )
         )
 
-    # أخبار الشرق الأوسط
+    # 🌐 الشرق الأوسط
     if source in MIDDLE_EAST_SOURCES:
         return True
 
-    # الأخبار الدولية
+    # 🌍 العالم بالعربية
+    if source in WORLD_ARABIC_SOURCES:
+        return True
+
+    # 🔎 المصادر الدولية
     if source in INTERNATIONAL_SOURCES:
         return True
 
@@ -120,19 +164,21 @@ def relevant(text, source):
             term.lower() in t
             for term in MOROCCO_TERMS
         )
-        or
-        any(
+        or any(
             player.lower() in t
             for player in MOROCCAN_PLAYERS
         )
     )
 
 
-# =========================================================
+# ============================================================
 # FETCH RSS
-# =========================================================
+# ============================================================
 
 def fetch_feed(url):
+    """
+    تحميل RSS مع User-Agent.
+    """
 
     request = Request(
         url,
@@ -161,8 +207,7 @@ def fetch_feed(url):
     except HTTPError as ex:
 
         print(
-            f"RSS HTTP error: "
-            f"{ex.code} - {url}"
+            f"RSS HTTP error: {ex.code} - {url}"
         )
 
         return None
@@ -170,8 +215,7 @@ def fetch_feed(url):
     except URLError as ex:
 
         print(
-            f"RSS URL error: "
-            f"{ex.reason} - {url}"
+            f"RSS URL error: {ex.reason} - {url}"
         )
 
         return None
@@ -187,16 +231,15 @@ def fetch_feed(url):
     except Exception as ex:
 
         print(
-            f"RSS error: "
-            f"{url} - {ex}"
+            f"RSS error: {url} - {ex}"
         )
 
         return None
 
 
-# =========================================================
-# COLLECT NEWS
-# =========================================================
+# ============================================================
+# COLLECT
+# ============================================================
 
 def collect():
 
@@ -228,27 +271,24 @@ def collect():
         irrelevant = 0
         accepted = 0
 
+        group = get_source_group(source)
+
         print(
-            f"[{source}] "
-            f"RSS entries: {total}"
+            f"[{source}] Group: {group}"
+        )
+
+        print(
+            f"[{source}] RSS entries: {total}"
         )
 
         for e in entries:
 
             try:
 
-                # -----------------------------
-                # URL
-                # -----------------------------
-
                 url = e.get(
                     "link",
                     ""
                 ).strip()
-
-                # -----------------------------
-                # TITLE
-                # -----------------------------
 
                 title = clean(
                     e.get(
@@ -260,20 +300,14 @@ def collect():
                 if not url or not title:
                     continue
 
-                # -----------------------------
-                # DUPLICATES
-                # -----------------------------
-
+                # منع التكرار
                 if exists(url):
 
                     duplicates += 1
 
                     continue
 
-                # -----------------------------
-                # ARTICLE TEXT
-                # -----------------------------
-
+                # النص المستخدم للتحقق
                 text = clean(
                     title
                     + " "
@@ -288,10 +322,7 @@ def collect():
                     )
                 )
 
-                # -----------------------------
-                # RELEVANCE
-                # -----------------------------
-
+                # فلترة الخبر
                 if not relevant(
                     text,
                     source
@@ -301,19 +332,12 @@ def collect():
 
                     continue
 
-                # -----------------------------
-                # CLASSIFICATION
-                # -----------------------------
-
+                # التصنيف
                 category, status, summary, player = classify(
                     text,
                     source,
                     trust
                 )
-
-                # -----------------------------
-                # PUBLISHED
-                # -----------------------------
 
                 published = e.get(
                     "published",
@@ -322,10 +346,6 @@ def collect():
                         ""
                     )
                 )
-
-                # -----------------------------
-                # ITEM
-                # -----------------------------
 
                 item = {
 
@@ -339,9 +359,11 @@ def collect():
 
                     "published": published,
 
-                    "discovered": datetime.now(
-                        timezone.utc
-                    ).isoformat(),
+                    "discovered": (
+                        datetime.now(
+                            timezone.utc
+                        ).isoformat()
+                    ),
 
                     "category": category,
 
@@ -351,16 +373,14 @@ def collect():
 
                     "player": player,
 
+                    "source_group": group,
+
                     "content_hash": hashlib.sha256(
                         text.encode(
                             "utf-8"
                         )
                     ).hexdigest(),
                 }
-
-                # -----------------------------
-                # SAVE
-                # -----------------------------
 
                 add(item)
 
@@ -371,8 +391,7 @@ def collect():
             except Exception as ex:
 
                 print(
-                    f"[{source}] "
-                    f"Article error: {ex}"
+                    f"[{source}] Article error: {ex}"
                 )
 
                 continue
