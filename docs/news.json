@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19T22:56:33.943530+00:00",
-  "total": 41,
+  "updated": "2026-09-19T23:08:59.773983+00:00",
+  "total": 46,
   "sections": {
     "morocco": [
       {
@@ -53,6 +53,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 2903,
+        "title": "مع الأصالة الدنيويّة للألعاب الرياضية - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPRXJIX0REVkctX2ZxMGYxT1EydFBlRE1SOUJITUFzU3pUa0pTdm9iQ3ZTWWkzUlc4QXM3bzJZanFSbUlVWER4SFpqVW9hbjdsQTgwcDhrUVJvcU5jamFNVmtPTkRKNml5alYxNWM0ZVRlNmg1SEJQMURxTDdRN1pJOFpnQXZaNEZwSHB2RFdKVTlpdmtWTGlFcm9YOXB3ejhXaF9CRm53TzlvU2w1aWE2cUo4WkxwNE5lM2pHR3RnQV82NW9WWm5YNXZ6ZWc4eHNuT3RlWng2OEEybXJNQXdKZWpoSDlSRlhIcWFsRnRvRmhDSjZWLVN4OFVCVnlQZV9PdVNTWU5TcTJGaU1sUXEwVWViQTJxazFST2JnQzZ6UWxXdFB5MUNHZFVGN0N1eWRGRjRBZk4zREdsUnpaUm92SWVTRmpDWmxXQmtzeGRVRy1PM1lWbWlaVTZ5LTNUR0NxQ1dvS2hkLWE2MU5FMU9jemlrbW9pRlU?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Sat, 19 Sep 2026 23:07:18 GMT",
+        "discovered": "2026-09-19T23:08:38.044515+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مع الأصالة الدنيويّة للألعاب الرياضية الشرق الأوسط",
+        "player": "رياض",
+        "content_hash": "ee035058e46caff80556f1f36c88bbcdc519ad90326f68e42adcf71a4a361062",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 2875,
         "title": "أخبار و معلومات اللاعب مهدي حميدان مهاجم القادسية winwin - winwin.com",
@@ -326,6 +342,22 @@
         "section": "sports"
       },
       {
+        "id": 2905,
+        "title": "لماذا تخوف لاعبي الأهلي من وائل جمعة قبل قدومه؟ - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQaWdvb2VoR0gxZy1YTmZyN19ud1RmLTlZaWVhUlljRjZNRlpGWF9uZUxpOGpZU3dKRDFzT0xiUXd6WXJNdTlDVm5zY2VnemlvYTFJb01TYy1MaHdTMVZ5SjlEWmNsUFE2Ry1vbVRBOU5YV2ozZFRvTFlYTkgyeTVsbG5zb1dqME5PNkFfbjFsMWh0STRscWhGT2Q4dTJ6YkxHQzVacFEzX3l2QmZKQnZLTHlZQTBySmFVTVBXa0NUSWY1ZFhoVFRTV3haRUE0cXhZTTltblZud1FNQUxvcGUzaGdoT2FYX253VElaMW1WWUlURGJsQkRrR0Vsc1ZIdWMwQjZyYloycHczRXM1X05WU2QzUmlTeXBKUkhoaEJkRWlFTi1YelcxbUVadm5wMHdsUk5DbGk0RnlZYmtZT0tFUEZ0bTc4NkItcTNGUUQ3YVZscUlxZlNHX1VobVlOTXpPX2VpbDNSWUlySzQyRk83MU1keDV1VkpKZE54WUlUWnZWb1FnLWpVVGhWLXFOZnI4Z2hRSGJac0wtZ3daQmdVUDktRVhFUWtIdlE?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 19 Sep 2026 11:03:00 GMT",
+        "discovered": "2026-09-19T23:08:40.320072+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لماذا تخوف لاعبي الأهلي من وائل جمعة قبل قدومه؟",
+        "player": "",
+        "content_hash": "d5a3f7efcf49d835e500fb0c9105f473eedc5e3cc893c489c45dbe3c3ffe3d37",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 2877,
         "title": "صدارة دون خسارة.. موناكو يفوز على لانس - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nakhLbG1xZTRDWG9GVWhFS2JCbl9IWnc5RHhvN3RQNzQ4bkZxS2txT0dSWmNWeWpjdndnQ2ZwNzNraEl0ZmNVd04wM2RwWGl10gHPAkFVX3lxTE9NU1FHZFpSWUZsT29qMWtpMW0yT01sTU5iY3dXODdxQ0F2dUpmUGE3ZXpRX2FjcEZOekVoM1BIMk4tTXdGSWVKSHVSYzNXY1E3amRfV1FOWFFTZ04xWjd5bkFZZDRQUWtPaVctRE1JbUZ3c3R2VjU5WUF3LXlFN1dVWk8wbm91UjZzQmNSc1lnVFV2M1o0WVZPOFBRaTYyMVA2VU1Zb3JkbDJlWW4ySXFwZHg2ejNiaXIwaDBDejRCel9DVDllc1FERTY2Y1hUb3oyMDJGQ2ZZazctOGVsVHpjVFBTOXhuSmZkS0UtMDVxSW1UN0RRTXBKTUpBb25aZWF6NHk3XzdmUzFoYzRDdWVvMWFwdy1XUVNNeXpxbWdUN3FXc0tRVXp6WkRtWUNjOF9CbERKRmV1bExJRUtveTRWS2dna2VwbFZQYnVlc2l3?oc=5",
@@ -338,6 +370,22 @@
         "summary": "صدارة دون خسارة.. موناكو يفوز على لانس FilGoal",
         "player": "",
         "content_hash": "946fe73921a4e557da5995bb168909422477f47e93970d8fa10f94dafb4ed562",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 2899,
+        "title": "ديمبلي يرفض ترشيح نفسه للفوز بالكرة الذهبية.. ويكشف اختياره الأول - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxOUWpvS09yZS04eUE2dnd1dmhKbVk0N2tRMWpDSk5qMmxrWkEyQzhJdW5rOGpqRVFsT056UjlaOTBFOThkMUI1QklvMFBzODVMTGZMVWl2ZU5PbzdwR2lmQ0RvUEJHdXRqY1RRNWg1T0w0QUFPRTkwZzlveEFwa21aUHRVODJDUXhlaHdsclZCZVh3VHdLWkdMcndfcTktclYzd2Y2OEFTWFNGSmJMWHRwSlNlRGx3UTBwTTZwZzJaWDhkLVBXRG04MVp0R2k4SjZwVEw5MDBqdTRXcjlBMkVqUnhKcFRCeWRsZ0txVkY3UzhmR2VSVk5SbERvNlJpU0xZckZjc3ktXzYxT0liNnF2NGhWRXhIS2pYWndtaTZwVzFncnFJME52RjBCNzgxU3RtaU1Zb2NuR1NLR1hzSmViNGptbGhBOGUzUFM0WEdTTWtTWjlvajl1WDREdWJhb29kc09rWnFrbmVQOGhqQkp5akpRRmczb0hTNG9FT0M1dERmWlY1bVVjNzZCZlhnX3FsMVpkem9waGQ1Nk9MOUVtOFloLVdVY1lKSXhoelZ3QkR3XzRuS3VvNEJSY1ZIdS1HNy1VMENMdWJVRUhxM2RZMWdlUTV4WkZNazExaHg0dk9WOXdvR0xUUHFQbnFMOGg1NXpmZDM0NkN6SWxRdk5IalRYcFpKZWd4ckp4Qm5HQWVFSUhyeWJZQlYzOTZKSmhZTGN0c3Zmc1NSYzFqYjU5TnczSlFpT1NlUkhSNXhZV29YOHE3X0E?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Fri, 18 Sep 2026 19:30:05 GMT",
+        "discovered": "2026-09-19T23:08:34.362125+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ديمبلي يرفض ترشيح نفسه للفوز بالكرة الذهبية.. ويكشف اختياره الأول Kooora",
+        "player": "",
+        "content_hash": "cabd935b28fd8ce7153eca89b09173480fea9ea92abf57e56a31683f3012ef93",
         "sent": 0,
         "section": "sports"
       },
@@ -424,6 +472,22 @@
         "section": "transfers"
       },
       {
+        "id": 2900,
+        "title": "تشكيل الأهلي السعودي المتوقع ضد صن داونز في كأس القارات - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxPLVV5ZndRQTNSS08yckVNUEJHemZaSEhPYlpjcGx3enFYeXhHVENaVzRTTDRoQWI2ZlZXRTNFd2ZRUGYwckZDdEdIYlNTT2ZfVV94ZG52WU0wX1BMd2k5SEUtU19nbFFhSmRSelV5QVJaSDU1dm5JZEI5S3NZSEw4eFh2QXFXTWliVjU5SmNzc3ctSDJFdlVqakkzUklNeDlhWG4zeEhzWHRFTm9qWGJvb0puY3ZlMi0tWTVvZzZzVDJmYTZXYThsd08wbE5YdVA2NmV6MUZLZVd3ZHRRTkF0UVhlLUFnb3J1eFlWVzJueENyX1I1Q0tXdVFjaWhpc01kWV9idjUtM3hiUUQ3QzNLWXZtRkxfcmJpWUdROFZHcWxoN3VRNGduaXYwVVVhU1VRVFlLRkZwemNQbXFmLUw4ZmxBM0M1TjBmWXVIaUIwSkZ1NWlrcVotT0ZFVWlYSjEyVVliV256bGhnaEJ1MExoNEt1MVdzR0tJMEdFZnhWZ0ZoVDNpT1AyWnhhbDhEZk1xLWtuWEZPX3FvVTZkS0xaRDdKc25WMkp6SDdCUjRMSFdnYzRub3ByelF5T0VsOTFQNWJDRUUyU1lmNk1tOVR5U0p0RTZESkdPdXJGTUdBQ1VwVnZ6MTFyRndXUUppZ2pYTDZMMFl4MUlWZ2ZMZHo4ZjFCREJTak1OQmpKcFk5REo0dG5WRHpKMjBQSm5ldzBfTUJ1VmlKQmtEN0lkcW1keWdaTzBGQll4TGZJYmpR?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Fri, 18 Sep 2026 21:28:23 GMT",
+        "discovered": "2026-09-19T23:08:34.368604+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "تشكيل الأهلي السعودي المتوقع ضد صن داونز في كأس القارات Kooora",
+        "player": "",
+        "content_hash": "1269ce598363faab86fdce3d87f4027fd85e7a6f7b8caead8279a55212146faa",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 2592,
         "title": "المريخ يكشف لـ في الجول قرار لجنة شؤون اللاعبين في انتقال إبراهيم عادل لـ الجزيرة - filgoal.com",
         "url": "https://news.google.com/rss/articles/CBMimAVBVV95cUxQTUYtWWFoRU5aZHJCcHA4dmwyNnZqV3lxN2FSdVRyMkZVMkgwSW5wNkVaZzlVTmRLS2hxb2szNkVWQzVJU0E2VHBaZkF4Vnc5TjdWV0tIVEM5dXFULWtzY0c0U2pCLU1URG10MUJzSWFqMm9pUzdCX3B3bi1peUlMMmZzek41SERYbHEwOUFvYXQzU0t6eGdUcjBNVXpRYk5fMjlMNjBwRFlvdlVXU3dXRFhUWlkyWTJjZkUySHFUdVFuNThKRXk5a2dMZkNjTEtEZmRLOWMyR2VlcmVJV0tQcVBUcHFtMUNiOWFmSDZwbHBvVXlaVWUzR010b0YzRmdaejkyQktsdHJMWXI3dkhhQXpGeU84bldJRUxiMXBtcnVGd1NXUXBpR2s3QkZRUFZ6V0MxLVNZdFl5TWNkQkJEV3RETnY5VDQ4NFlfWllJcFBZdGxSN1Q1cnYyRXFMUG45QnM0U0RQMUxvaHA2N0hxUkROREtFaWtMVEQ3OVcydTFrenFZVzFRYWhPSlJrWExlMk54Ulh6a3ZRSFZjb29GbTY2QTZ1RUFKblVOTkJJRWNnVUdxT1FfMjJjQ0lOcURhaWxzbG9DVzNkTGNlUkhNUnV5T3JkMW1SQ2pTWnZrRTRJZ1YxLTZKdVlnMW5JUFFuLW4zdmdZV2xldlFIZGZNdF9SM1FWTUFmTFA1OVhaQkttQkl6cEJfRmhRSjNjNF9XNWctT2F2ZjIxX0k4R01RNWhzRTE2QW1ZVVkyX2x5YXAtSkZGWUFxcEgxdTg4dkk4VEluZUFlQWlrRVVDU0MyeEtoWXlmV05MbEgwZVoyWW92S1JaQVBfY3lEZFBiNThMOHhFazRXeTF0bENETHh1XzhXSVhYTEZQ0gGCBUFVX3lxTE1CMXpqZ3FhQ19XcXpMWnFZckF3b29fNnBjcFZwZmpaZHJwOWF6V0NJaDFzbFEwdTVoQUZ4VE1lOXA3Zkk0bC12T0hKWWFSYUxkMExlaGJNNG9OSWdKU3R0RnpXSHBZUHMxbk02WTVmMU9BTXRGaGlQNmtiaVRfMWdSbmc2ZVdOMDFSY3djcXBXMDJzSXhWWElDc285aTRfY1FNMUk5Uk1lR1hVZnBmSkVCSmw0eThUQUg2TjdHQ3ZZWWMwREd0MDZLQnRSQy1mUkJKbGk5OWk0RWYyNldVOHBEUjRYdkxzNzZhTTFUR01FSkx2RGtfUWxxUnk3WHRKenNqcXA0N3VDZGNkZFJWaW5weEZIR1NuVDJ0S3JYWVhiU2xJWEVfSDBBMGJ4aXJtVlA4SGhrQi1hZHd1VXQ3a2VodWtQaVZESGhzRjJtUHJYUHh0d2JtTkhEdGE1M1FXQ0dBY09PTE5MX1NTejRuN1Nva3habzBTMTQtb09rd19qaVJaSGFjMkVJZFRQR05aNW9jUjU0OExPLUVhY0ZCQ3pHbVJJLWIxV3pkbU9PcjlIV0ZnUWQtUEdBcnViTUQ3Q1FTSDYwU0RwTTQ2S09YWlJKZzhFVGpBTThTMHJEamYycFlyaXlzeGhpR0NKX01Ba0Nub09lR3NfSW5vWkNla25PdVhkc2llLU90VUV5LUFKUDFERnNNUmJORHZGZTd2TUQ2ZlViRHRLTi1tcjgyYVliSjRxU1BqbTB6MXZnSWlEWnBtQjczOHdLaFpNU2VGaEpuQXdRZUZnejBmb2R4TzBDaU9Ha2o1VlQtejVkZ1JKeDVDUEJPLXZZQ1V3cXBZREZTdw?oc=5",
@@ -489,6 +553,22 @@
       }
     ],
     "middle_east": [
+      {
+        "id": 2906,
+        "title": "التحالف: تدمير باليستي أطلقته ميليشيا الحوثي باتجاه الرياض - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxQQzFzaXhOdl9lN3VuUW1KTmNzWUF3ZW5DYnFLczNvNE4waXlYT0hjN0NxODhscjJ4UWVDQ0piR1BiZ1RtRTlWR1RVZHd4dlVlTkdvRWJSYWt3bUFHcS1qSWxjRDA0QloybWFuUU9HcF90WU5CVTJGWjI4YldiTUhHd1k3cXU3M1NxWHVibWZ6ME5tUFZwV0VkeGszUEpFdDlQbjQ0OE1GMWdFNWZ0djRQMW14RXNjZk5ZcHR3WWhXSTN1ZnNlLWJ4MWNzSjMtVmE3NjI0R2g5OWRIOERHc1BLTjdzYVBtREpJQ0I2ZmdxZkMwNGkwWmVQcFVYZGtHTWo5Qll4VzRkaGJpUW1ybXZndVA0NnFCMnRtR0p5Y2FvcE1fRDJNYllRWHplbjRyY29YaDNGczdQMXdWNzgzb1VTdnVRa1pqTjVfOFQzdjBlcEJGVDR5VjY3QjB6VVJNdE9TSV8ybXlBemZCNXNnSVFJX1RIcEZjenpmWmp4WEpWdmNZX0JpVU9fTzZlNVhCMkR0OGhOWklwQ0RYeEpSekVySjlFeGxRMkxyWFdPcjU2RldidjJKbUZqLV9ZWGVNV1ZWSWVDQTFTWHhaQUthRGJqc0RpaUxtdnRLMHdGOTNHMy1uZzNwZWZnMkR1TTJmZlNFbjlPUDlKQmNwWXUxQ0VFSHZiV3FJOXVVd19HVkhuX0ZLRzlKZ3JtVU9zWFlsOU5TakxCZURoNkFZVmhIWVg3MkpaZFRxcmxqaHQyUGZoQnJHWTVYb2NXN0w2TmFUVjB1aEdsOEZhRG1UWllyWlZQcGtFa2Z6VjdkaldKMU1n?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Sat, 19 Sep 2026 21:45:55 GMT",
+        "discovered": "2026-09-19T23:08:52.279128+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "التحالف: تدمير باليستي أطلقته ميليشيا الحوثي باتجاه الرياض الشرق الأوسط",
+        "player": "رياض",
+        "content_hash": "a0af1f8ad8234a0ac5ab467bcab5c273dabacfb2c71c1c112470bbca88d81efb",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 2864,
         "title": "اشتعال خزان وقود تابع لشركة أرامكو قرب مطار الرياض يربك حركة السفر - العربي الجديد",
