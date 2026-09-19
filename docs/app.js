@@ -2,6 +2,7 @@ const NEWS_URL = "news.json";
 
 let allNews = [];
 let filteredNews = [];
+
 let currentCategory = "all";
 let currentStatus = "all";
 let searchTerm = "";
@@ -16,15 +17,69 @@ const CATEGORY_LABELS = {
     world_arabic: "العالم"
 };
 
-function normalizeCategory(value) {
-    if (!value) return "";
 
-    const text = String(value).trim().toLowerCase();
+/* =========================
+   HELPERS
+========================= */
+
+function get(id) {
+    return document.getElementById(id);
+}
+
+
+function escapeHTML(value) {
+    if (value === null || value === undefined) {
+        return "";
+    }
+
+    return String(value)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+}
+
+
+function formatDate(value) {
+    if (!value) {
+        return "غير معروف";
+    }
+
+    const date = new Date(value);
+
+    if (Number.isNaN(date.getTime())) {
+        return String(value);
+    }
+
+    return new Intl.DateTimeFormat("ar-MA", {
+        day: "2-digit",
+        month: "2-digit",
+        year: "numeric",
+        hour: "2-digit",
+        minute: "2-digit"
+    }).format(date);
+}
+
+
+/* =========================
+   CATEGORY
+========================= */
+
+function normalizeCategory(value) {
+    if (!value) {
+        return "";
+    }
+
+    const text = String(value)
+        .trim()
+        .toLowerCase();
 
     if (
         text === "morocco" ||
         text.includes("أخبار المغرب") ||
-        text.includes("اخبار المغرب")
+        text.includes("اخبار المغرب") ||
+        text === "morocco_news"
     ) {
         return "morocco";
     }
@@ -32,14 +87,16 @@ function normalizeCategory(value) {
     if (
         text === "sports" ||
         text.includes("الرياضة") ||
-        text.includes("رياضة")
+        text.includes("رياضة") ||
+        text === "sport"
     ) {
         return "sports";
     }
 
     if (
         text === "transfers" ||
-        text.includes("انتقالات")
+        text.includes("انتقالات") ||
+        text.includes("transfer")
     ) {
         return "transfers";
     }
@@ -63,8 +120,48 @@ function normalizeCategory(value) {
 }
 
 
+function getNewsCategory(item) {
+    if (!item) {
+        return "";
+    }
+
+    /*
+     * section is the most reliable value
+     * because export_news.py creates it.
+     */
+    if (item.section) {
+        return normalizeCategory(item.section);
+    }
+
+    if (item.category) {
+        return normalizeCategory(item.category);
+    }
+
+    if (item.source_group) {
+        return normalizeCategory(item.source_group);
+    }
+
+    return "";
+}
+
+
+function categoryLabel(category) {
+    return (
+        CATEGORY_LABELS[category] ||
+        category ||
+        "أخبار"
+    );
+}
+
+
+/* =========================
+   NORMALIZE NEWS
+========================= */
+
 function normalizeNews(data) {
-    if (!data) return [];
+    if (!data) {
+        return [];
+    }
 
     if (Array.isArray(data)) {
         return data;
@@ -78,19 +175,28 @@ function normalizeNews(data) {
         return data.items;
     }
 
-    if (data.sections && typeof data.sections === "object") {
+    if (
+        data.sections &&
+        typeof data.sections === "object"
+    ) {
         const result = [];
 
-        Object.entries(data.sections).forEach(([section, items]) => {
-            if (!Array.isArray(items)) return;
+        Object.entries(data.sections).forEach(
+            ([section, items]) => {
 
-            items.forEach(item => {
-                result.push({
-                    ...item,
-                    section: normalizeCategory(section)
+                if (!Array.isArray(items)) {
+                    return;
+                }
+
+                items.forEach(item => {
+                    result.push({
+                        ...item,
+                        section:
+                            normalizeCategory(section)
+                    });
                 });
-            });
-        });
+            }
+        );
 
         return result;
     }
@@ -99,132 +205,169 @@ function normalizeNews(data) {
 }
 
 
-function getNewsCategory(item) {
-    if (!item) return "";
+/* =========================
+   FILTERING
+========================= */
 
-    if (item.section) {
-        return normalizeCategory(item.section);
+function matchesCategory(item) {
+    if (currentCategory === "all") {
+        return true;
     }
 
-    if (item.source_group) {
-        return normalizeCategory(item.source_group);
-    }
-
-    if (item.category) {
-        return normalizeCategory(item.category);
-    }
-
-    return "";
+    return (
+        getNewsCategory(item) ===
+        currentCategory
+    );
 }
 
 
-function getCategoryLabel(category) {
-    return CATEGORY_LABELS[category] || category || "أخبار";
-}
-
-
-function escapeHTML(value) {
-    if (value === null || value === undefined) return "";
-
-    return String(value)
-        .replace(/&/g, "&amp;")
-        .replace(/</g, "&lt;")
-        .replace(/>/g, "&gt;")
-        .replace(/"/g, "&quot;")
-        .replace(/'/g, "&#039;");
-}
-
-
-function formatDate(value) {
-    if (!value) return "";
-
-    const date = new Date(value);
-
-    if (Number.isNaN(date.getTime())) {
-        return value;
+function matchesStatus(item) {
+    if (currentStatus === "all") {
+        return true;
     }
 
-    return date.toLocaleString("ar-MA", {
-        day: "2-digit",
-        month: "2-digit",
-        year: "numeric",
-        hour: "2-digit",
-        minute: "2-digit"
-    });
+    return (
+        String(item.status || "").trim() ===
+        currentStatus
+    );
 }
 
 
-function filterNews() {
+function matchesSearch(item) {
+    if (!searchTerm) {
+        return true;
+    }
+
+    const text = [
+        item.title,
+        item.summary,
+        item.source,
+        item.player,
+        item.category,
+        item.status
+    ]
+        .filter(Boolean)
+        .join(" ")
+        .toLowerCase();
+
+    return text.includes(
+        searchTerm.toLowerCase()
+    );
+}
+
+
+function applyFilters() {
     filteredNews = allNews.filter(item => {
-
-        const category = getNewsCategory(item);
-
-        const categoryMatch =
-            currentCategory === "all" ||
-            category === currentCategory;
-
-        const statusMatch =
-            currentStatus === "all" ||
-            String(item.status || "").trim() === currentStatus;
-
-        const text = [
-            item.title,
-            item.summary,
-            item.source,
-            item.player,
-            item.category,
-            item.status
-        ]
-            .filter(Boolean)
-            .join(" ")
-            .toLowerCase();
-
-        const searchMatch =
-            !searchTerm ||
-            text.includes(searchTerm.toLowerCase());
-
-        return categoryMatch && statusMatch && searchMatch;
+        return (
+            matchesCategory(item) &&
+            matchesStatus(item) &&
+            matchesSearch(item)
+        );
     });
 
     visibleCount = 10;
 
     renderNews();
-    renderStats();
 }
 
 
+/* =========================
+   HERO
+========================= */
+
+function renderHero() {
+    if (!allNews.length) {
+        return;
+    }
+
+    const item = allNews[0];
+
+    const title =
+        item.title ||
+        "آخر الأخبار المغربية";
+
+    const summary =
+        item.summary ||
+        "آخر الأخبار من مصادر متعددة.";
+
+    const source =
+        item.source ||
+        "مصدر غير معروف";
+
+    const date =
+        item.published ||
+        item.discovered;
+
+    const url =
+        item.url ||
+        "#";
+
+    if (get("heroSource")) {
+        get("heroSource").textContent =
+            source;
+    }
+
+    if (get("heroTime")) {
+        get("heroTime").textContent =
+            formatDate(date);
+    }
+
+    if (get("heroTitle")) {
+        get("heroTitle").textContent =
+            title;
+    }
+
+    if (get("heroSummary")) {
+        get("heroSummary").textContent =
+            summary;
+    }
+
+    if (get("heroLink")) {
+        get("heroLink").href = url;
+    }
+}
+
+
+/* =========================
+   NEWS CARDS
+========================= */
+
 function renderNews() {
     const container =
-        document.querySelector("#news-container") ||
-        document.querySelector(".news-grid") ||
-        document.querySelector("#news-list");
+        get("newsGrid");
 
-    if (!container) return;
+    if (!container) {
+        return;
+    }
 
-    const items = filteredNews.slice(0, visibleCount);
+    const items =
+        filteredNews.slice(
+            0,
+            visibleCount
+        );
 
     if (!items.length) {
         container.innerHTML = `
             <div class="empty-state">
-                لا توجد أخبار مطابقة للبحث الحالي.
+                لا توجد أخبار مطابقة.
             </div>
         `;
-        updateLoadMoreButton();
+
+        updateLoadMore();
+
         return;
     }
 
-    container.innerHTML = items
-        .map(renderCard)
-        .join("");
+    container.innerHTML =
+        items
+            .map(renderCard)
+            .join("");
 
-    updateLoadMoreButton();
+    updateLoadMore();
 }
 
 
 function renderCard(item) {
-    const category = getNewsCategory(item);
-    const categoryLabel = getCategoryLabel(category);
-
     const title =
         item.title ||
         "بدون عنوان";
@@ -239,10 +382,18 @@ function renderCard(item) {
 
     const status =
         item.status ||
-        "";
+        "غير واضح";
 
-    const published =
-        formatDate(item.published || item.discovered);
+    const category =
+        categoryLabel(
+            getNewsCategory(item)
+        );
+
+    const date =
+        formatDate(
+            item.published ||
+            item.discovered
+        );
 
     const url =
         item.url ||
@@ -251,41 +402,41 @@ function renderCard(item) {
     return `
         <article class="news-card">
 
-            <div class="news-card-meta">
+            <div class="news-card-top">
+
                 <span class="news-category">
-                    ${escapeHTML(categoryLabel)}
+                    ${escapeHTML(category)}
                 </span>
 
-                ${
-                    status
-                        ? `<span class="news-status">${escapeHTML(status)}</span>`
-                        : ""
-                }
+                <span class="news-status">
+                    ${escapeHTML(status)}
+                </span>
+
             </div>
 
-            <h3 class="news-title">
-                <a href="${escapeHTML(url)}"
-                   target="_blank"
-                   rel="noopener noreferrer">
+            <h3>
+                <a
+                    href="${escapeHTML(url)}"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
                     ${escapeHTML(title)}
                 </a>
             </h3>
 
-            <p class="news-summary">
+            <p>
                 ${escapeHTML(summary)}
             </p>
 
-            <div class="news-footer">
+            <div class="news-card-footer">
 
-                <span class="news-source">
+                <span>
                     ${escapeHTML(source)}
                 </span>
 
-                ${
-                    published
-                        ? `<span class="news-date">${escapeHTML(published)}</span>`
-                        : ""
-                }
+                <span>
+                    ${escapeHTML(date)}
+                </span>
 
             </div>
 
@@ -294,312 +445,456 @@ function renderCard(item) {
 }
 
 
-function renderHero() {
-    const hero =
-        document.querySelector("#hero") ||
-        document.querySelector(".hero");
+/* =========================
+   COUNTS
+========================= */
 
-    if (!hero || !allNews.length) return;
+function renderCounts() {
+    const countAll =
+        get("countAll");
 
-    const item = allNews[0];
+    const countMorocco =
+        get("countMorocco");
 
-    const title =
-        item.title ||
-        "آخر الأخبار";
+    const countSport =
+        get("countSport");
 
-    const summary =
-        item.summary ||
-        "";
+    const countTransfers =
+        get("countTransfers");
 
-    const url =
-        item.url ||
-        "#";
+    if (countAll) {
+        countAll.textContent =
+            allNews.length;
+    }
 
-    const category =
-        getCategoryLabel(getNewsCategory(item));
+    if (countMorocco) {
+        countMorocco.textContent =
+            allNews.filter(
+                item =>
+                    getNewsCategory(item) ===
+                    "morocco"
+            ).length;
+    }
 
-    hero.innerHTML = `
-        <div class="hero-content">
+    if (countSport) {
+        countSport.textContent =
+            allNews.filter(
+                item =>
+                    getNewsCategory(item) ===
+                    "sports"
+            ).length;
+    }
 
-            <span class="hero-category">
-                ${escapeHTML(category)}
-            </span>
-
-            <h1>
-                <a href="${escapeHTML(url)}"
-                   target="_blank"
-                   rel="noopener noreferrer">
-                    ${escapeHTML(title)}
-                </a>
-            </h1>
-
-            ${
-                summary
-                    ? `<p>${escapeHTML(summary)}</p>`
-                    : ""
-            }
-
-        </div>
-    `;
+    if (countTransfers) {
+        countTransfers.textContent =
+            allNews.filter(
+                item =>
+                    getNewsCategory(item) ===
+                    "transfers"
+            ).length;
+    }
 }
 
 
-function renderBreaking() {
-    const ticker =
-        document.querySelector("#breaking-news") ||
-        document.querySelector(".breaking-news") ||
-        document.querySelector("#ticker");
+/* =========================
+   STATUS COUNTS
+========================= */
 
-    if (!ticker) return;
+function renderStatusCounts() {
+    const official =
+        get("statusOfficial");
 
-    if (!allNews.length) {
-        ticker.textContent = "لا توجد أخبار جديدة";
+    const confirmed =
+        get("statusConfirmed");
+
+    const negotiation =
+        get("statusNegotiation");
+
+    const rumor =
+        get("statusRumor");
+
+    const countStatus = status => {
+        return allNews.filter(
+            item =>
+                String(
+                    item.status || ""
+                ).trim() === status
+        ).length;
+    };
+
+    if (official) {
+        official.textContent =
+            countStatus("رسمي");
+    }
+
+    if (confirmed) {
+        confirmed.textContent =
+            countStatus("مؤكد");
+    }
+
+    if (negotiation) {
+        negotiation.textContent =
+            countStatus("مفاوضات");
+    }
+
+    if (rumor) {
+        rumor.textContent =
+            countStatus("إشاعة");
+    }
+}
+
+
+/* =========================
+   SOURCES
+========================= */
+
+function renderSources() {
+    const container =
+        get("sourcesList");
+
+    if (!container) {
         return;
     }
 
-    const latest = allNews.slice(0, 5);
+    const sources = {};
 
-    ticker.innerHTML = latest
-        .map(item => {
-            const url = item.url || "#";
+    allNews.forEach(item => {
 
-            return `
-                <a href="${escapeHTML(url)}"
-                   target="_blank"
-                   rel="noopener noreferrer">
-                    ${escapeHTML(item.title || "")}
-                </a>
-            `;
-        })
-        .join(" • ");
+        const source =
+            item.source ||
+            "مصدر غير معروف";
+
+        sources[source] =
+            (sources[source] || 0) + 1;
+    });
+
+    const sorted =
+        Object.entries(sources)
+            .sort(
+                (a, b) =>
+                    b[1] - a[1]
+            )
+            .slice(0, 10);
+
+    if (!sorted.length) {
+        container.innerHTML =
+            "<p>لا توجد مصادر بعد.</p>";
+
+        return;
+    }
+
+    container.innerHTML =
+        sorted
+            .map(
+                ([source, count]) => `
+                    <div class="source-row">
+                        <span>
+                            ${escapeHTML(source)}
+                        </span>
+                        <strong>
+                            ${count}
+                        </strong>
+                    </div>
+                `
+            )
+            .join("");
 }
 
 
-function renderStats() {
-    const total =
-        document.querySelector("#total-news") ||
-        document.querySelector("[data-stat='total']");
+/* =========================
+   PLAYERS
+========================= */
 
-    const morocco =
-        document.querySelector("#morocco-count") ||
-        document.querySelector("[data-stat='morocco']");
+function renderPlayers() {
+    const container =
+        get("playerList");
 
-    const sports =
-        document.querySelector("#sports-count") ||
-        document.querySelector("[data-stat='sports']");
-
-    const transfers =
-        document.querySelector("#transfers-count") ||
-        document.querySelector("[data-stat='transfers']");
-
-    if (total) {
-        total.textContent = allNews.length;
+    if (!container) {
+        return;
     }
 
-    if (morocco) {
-        morocco.textContent =
-            allNews.filter(
-                item => getNewsCategory(item) === "morocco"
-            ).length;
+    const players = {};
+
+    allNews.forEach(item => {
+
+        const player =
+            String(
+                item.player || ""
+            ).trim();
+
+        if (!player) {
+            return;
+        }
+
+        players[player] =
+            (players[player] || 0) + 1;
+    });
+
+    const sorted =
+        Object.entries(players)
+            .sort(
+                (a, b) =>
+                    b[1] - a[1]
+            )
+            .slice(0, 10);
+
+    if (!sorted.length) {
+        container.innerHTML =
+            "<p>لا توجد أخبار لاعبين بعد.</p>";
+
+        return;
     }
 
-    if (sports) {
-        sports.textContent =
-            allNews.filter(
-                item => getNewsCategory(item) === "sports"
-            ).length;
-    }
-
-    if (transfers) {
-        transfers.textContent =
-            allNews.filter(
-                item => getNewsCategory(item) === "transfers"
-            ).length;
-    }
+    container.innerHTML =
+        sorted
+            .map(
+                ([player, count]) => `
+                    <div class="player-row">
+                        <span>
+                            ${escapeHTML(player)}
+                        </span>
+                        <strong>
+                            ${count}
+                        </strong>
+                    </div>
+                `
+            )
+            .join("");
 }
 
 
-function updateLoadMoreButton() {
+/* =========================
+   LOAD MORE
+========================= */
+
+function updateLoadMore() {
     const button =
-        document.querySelector("#load-more") ||
-        document.querySelector(".load-more");
+        get("loadMore");
 
-    if (!button) return;
-
-    if (visibleCount >= filteredNews.length) {
-        button.style.display = "none";
-    } else {
-        button.style.display = "";
+    if (!button) {
+        return;
     }
-}
 
-
-function setupCategoryEvents() {
-    const buttons = document.querySelectorAll(
-        "[data-category]"
-    );
-
-    buttons.forEach(button => {
-        button.addEventListener("click", () => {
-
-            currentCategory =
-                normalizeCategory(
-                    button.dataset.category
-                ) || "all";
-
-            buttons.forEach(btn =>
-                btn.classList.remove("active")
-            );
-
-            button.classList.add("active");
-
-            filterNews();
-        });
-    });
-}
-
-
-function setupStatusFilters() {
-    const buttons = document.querySelectorAll(
-        "[data-status]"
-    );
-
-    buttons.forEach(button => {
-        button.addEventListener("click", () => {
-
-            currentStatus =
-                button.dataset.status || "all";
-
-            buttons.forEach(btn =>
-                btn.classList.remove("active")
-            );
-
-            button.classList.add("active");
-
-            filterNews();
-        });
-    });
-}
-
-
-function setupSearch() {
-    const input =
-        document.querySelector("#search-input") ||
-        document.querySelector("#search") ||
-        document.querySelector('input[type="search"]');
-
-    if (!input) return;
-
-    input.addEventListener("input", event => {
-        searchTerm = event.target.value.trim();
-        filterNews();
-    });
+    if (
+        visibleCount >=
+        filteredNews.length
+    ) {
+        button.style.display =
+            "none";
+    } else {
+        button.style.display =
+            "";
+    }
 }
 
 
 function setupLoadMore() {
     const button =
-        document.querySelector("#load-more") ||
-        document.querySelector(".load-more");
+        get("loadMore");
 
-    if (!button) return;
+    if (!button) {
+        return;
+    }
 
-    button.addEventListener("click", () => {
-        visibleCount += 10;
-        renderNews();
-    });
+    button.addEventListener(
+        "click",
+        () => {
+
+            visibleCount += 10;
+
+            renderNews();
+        }
+    );
 }
 
 
-function setupRefresh() {
-    const buttons = document.querySelectorAll(
-        "#refresh, .refresh-button, [data-action='refresh']"
-    );
+/* =========================
+   CATEGORY BUTTONS
+========================= */
+
+function setupCategoryButtons() {
+    const buttons =
+        document.querySelectorAll(
+            ".category-item"
+        );
 
     buttons.forEach(button => {
-        button.addEventListener("click", () => {
-            loadNews(true);
-        });
-    });
-}
 
+        button.addEventListener(
+            "click",
+            () => {
 
-function setupTheme() {
-    const button =
-        document.querySelector("#theme-toggle") ||
-        document.querySelector(".theme-toggle");
+                currentCategory =
+                    normalizeCategory(
+                        button.dataset.category
+                    ) || "all";
 
-    if (!button) return;
+                buttons.forEach(btn =>
+                    btn.classList.remove(
+                        "active"
+                    )
+                );
 
-    button.addEventListener("click", () => {
-        document.body.classList.toggle("dark-mode");
+                button.classList.add(
+                    "active"
+                );
 
-        localStorage.setItem(
-            "theme",
-            document.body.classList.contains("dark-mode")
-                ? "dark"
-                : "light"
+                applyFilters();
+            }
         );
     });
-
-    const savedTheme =
-        localStorage.getItem("theme");
-
-    if (savedTheme === "dark") {
-        document.body.classList.add("dark-mode");
-    }
 }
 
 
-function setupMobileMenu() {
-    const button =
-        document.querySelector("#menu-toggle") ||
-        document.querySelector(".menu-toggle");
+/* =========================
+   STATUS BUTTONS
+========================= */
 
-    const menu =
-        document.querySelector("#mobile-menu") ||
-        document.querySelector(".mobile-menu");
+function setupStatusButtons() {
+    const buttons =
+        document.querySelectorAll(
+            ".feed-filter"
+        );
 
-    if (!button || !menu) return;
+    buttons.forEach(button => {
 
-    button.addEventListener("click", () => {
-        menu.classList.toggle("open");
+        button.addEventListener(
+            "click",
+            () => {
+
+                currentStatus =
+                    button.dataset.status ||
+                    "all";
+
+                buttons.forEach(btn =>
+                    btn.classList.remove(
+                        "active"
+                    )
+                );
+
+                button.classList.add(
+                    "active"
+                );
+
+                applyFilters();
+            }
+        );
     });
 }
 
+
+/* =========================
+   SEARCH
+========================= */
+
+function setupSearch() {
+    const inputs =
+        document.querySelectorAll(
+            'input[type="search"]'
+        );
+
+    inputs.forEach(input => {
+
+        input.addEventListener(
+            "input",
+            event => {
+
+                searchTerm =
+                    event.target.value.trim();
+
+                applyFilters();
+            }
+        );
+    });
+}
+
+
+/* =========================
+   REFRESH
+========================= */
+
+function setupRefresh() {
+    const buttons =
+        document.querySelectorAll(
+            "[data-action='refresh'], .refresh-button"
+        );
+
+    buttons.forEach(button => {
+
+        button.addEventListener(
+            "click",
+            () => {
+                loadNews(true);
+            }
+        );
+    });
+}
+
+
+/* =========================
+   LAST UPDATE
+========================= */
+
+function updateLastUpdate(data) {
+    const element =
+        get("lastUpdate") ||
+        get("last-update");
+
+    if (!element) {
+        return;
+    }
+
+    const value =
+        data &&
+        data.updated
+            ? data.updated
+            : new Date().toISOString();
+
+    element.textContent =
+        formatDate(value);
+}
+
+
+/* =========================
+   LOADING
+========================= */
 
 function showLoading() {
     const container =
-        document.querySelector("#news-container") ||
-        document.querySelector(".news-grid") ||
-        document.querySelector("#news-list");
+        get("newsGrid");
 
-    if (container) {
-        container.innerHTML = `
-            <div class="loading">
-                جار تحميل الأخبار...
-            </div>
-        `;
+    if (!container) {
+        return;
     }
+
+    container.innerHTML = `
+        <div class="loading">
+            جار تحميل الأخبار...
+        </div>
+    `;
 }
 
 
 function showError() {
     const container =
-        document.querySelector("#news-container") ||
-        document.querySelector(".news-grid") ||
-        document.querySelector("#news-list");
+        get("newsGrid");
 
-    if (container) {
-        container.innerHTML = `
-            <div class="error-state">
-                تعذر تحميل الأخبار.
-                حاول تحديث الصفحة.
-            </div>
-        `;
+    if (!container) {
+        return;
     }
+
+    container.innerHTML = `
+        <div class="error-state">
+            تعذر تحميل الأخبار.
+            حاول تحديث الصفحة.
+        </div>
+    `;
 }
 
+
+/* =========================
+   LOAD NEWS
+========================= */
 
 async function loadNews(forceRefresh = false) {
 
@@ -607,15 +902,16 @@ async function loadNews(forceRefresh = false) {
 
     try {
 
-        const cacheBuster =
-            Date.now();
+        const url =
+            `${NEWS_URL}?v=${Date.now()}`;
 
-        const response = await fetch(
-            `${NEWS_URL}?v=${cacheBuster}`,
-            {
-                cache: "no-store"
-            }
-        );
+        const response =
+            await fetch(
+                url,
+                {
+                    cache: "no-store"
+                }
+            );
 
         if (!response.ok) {
             throw new Error(
@@ -629,21 +925,31 @@ async function loadNews(forceRefresh = false) {
         allNews =
             normalizeNews(data);
 
-        filteredNews =
-            [...allNews];
-
         if (!allNews.length) {
             throw new Error(
                 "No news items found"
             );
         }
 
-        renderHero();
-        renderBreaking();
-        filterNews();
-        renderStats();
+        /*
+         * news.json is already sorted
+         * by export_news.py.
+         */
+        filteredNews =
+            [...allNews];
 
+        renderHero();
+        renderCounts();
+        renderStatusCounts();
+        renderSources();
+        renderPlayers();
         updateLastUpdate(data);
+
+        applyFilters();
+
+        console.log(
+            `Loaded ${allNews.length} news items`
+        );
 
     } catch (error) {
 
@@ -657,65 +963,26 @@ async function loadNews(forceRefresh = false) {
 }
 
 
-function updateLastUpdate(data) {
-
-    const element =
-        document.querySelector("#last-update") ||
-        document.querySelector(".last-update");
-
-    if (!element) return;
-
-    let value =
-        data &&
-        data.updated
-            ? data.updated
-            : new Date().toISOString();
-
-    element.textContent =
-        `آخر تحديث: ${formatDate(value)}`;
-}
-
-
-function showToast(message) {
-
-    let toast =
-        document.querySelector("#toast");
-
-    if (!toast) {
-
-        toast =
-            document.createElement("div");
-
-        toast.id = "toast";
-        toast.className = "toast";
-
-        document.body.appendChild(toast);
-    }
-
-    toast.textContent = message;
-    toast.classList.add("show");
-
-    setTimeout(() => {
-        toast.classList.remove("show");
-    }, 2500);
-}
-
+/* =========================
+   START
+========================= */
 
 function initializeApp() {
 
-    setupCategoryEvents();
-    setupStatusFilters();
+    setupCategoryButtons();
+    setupStatusButtons();
     setupSearch();
     setupLoadMore();
     setupRefresh();
-    setupTheme();
-    setupMobileMenu();
 
     loadNews();
 }
 
 
-if (document.readyState === "loading") {
+if (
+    document.readyState ===
+    "loading"
+) {
 
     document.addEventListener(
         "DOMContentLoaded",
@@ -726,4 +993,4 @@ if (document.readyState === "loading") {
 
     initializeApp();
 
-}
+                }
