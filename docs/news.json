@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T23:47:26.110486+00:00",
+  "updated": "2026-09-20T23:56:39.184187+00:00",
   "total": 119,
   "sections": {
     "morocco": [
@@ -389,6 +389,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3605,
+        "title": "ماركينيوس يخطف الفوز لسان جيرمان ومرسيليا يغرق في أزمة - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxNT1U0SjhkTHNITzI5OWUtT1lwRnIyUnBxaWo3UmxGSjFBRnl3bUx1T1FuT04xN0FFWTBoQjlaRG9SdWs1T05NYXlQTzNyZjlzQVRXOGoyZTZ0dnFxSk15eWVOYmZlQWlJVUlJMFh4OGoxN3REYkF1d3dBTmZRcERvVi1HODM0dmMyUWRFTHFJOE55X2RaaHkzMDEwSUtjVEpoYmlWM0phaS1JOXJUQVJfWDViTXJDb3pNZnppazRXaGRLVUswWVdlQUpaSFcwNWVnRl9iNW91czJjVXNQdFB1U1dNTm1VcGN6WU1yMFVrMm1LRmFjNVJMaWZiSHNVREVjX1Q4bVBwTUxUbjZtbUhnSDNldGZxMlc4MnVjZUZUdzVxcEoyQVloZGZ5YjMtWTRLZXQtOXkxRHViTVVlQjNndExsUEdGWFhUcV9xT1VBYWM0UDZ4bWYzb2IzWEllaXVKdjBOM2dIVFNxSTBXVktiM0lrYWlGclpUUlNKSTB0amNEdVRpcGZ3UXRGSWNoOWtZcFNVaDJQU1d5d3ptay1yWjdkSmJLSDZnRDJGQ3RkOFVMakhhTkJBeEhsalZ4c01I0gHGA0FVX3lxTFA0VTNPbkxCbXROLTlmQXRrYjI0aU9vaHpsUTJ1Q196VTFOUGxQWU9zMTYzSzA5YXBzWi01dDdJVmttcXN2cHktWjBMaE9aYlJUWXNnWWRfNkZuUnF5TExVNTFZbVNVX3N5bWwwNmhrcVVjczJGNjZjaWRCTzFfUGFfTzluWUFEM0ZPZW1uaklWWXE4bWp1UFlkYzZXQzhfMFJjSEtIdGNlNl9pZEpYZFNPZC1CLTR2SnRZMTk4bXpXNXNCLTQxUlM1dmc3dGpONHlqcXpyVGJ2bVpQd3pzLTlCVGRPdEVGWkRXZDc1TWdCMUh6dVNtRUx4UnVGNUxvN3VwLXVyOEpFYnctZUw5cVcwQm95bm1kcWkzWGFwUjJkb2h6OHlDa1B4N2NYbE1WZ3NTOGkzOGJZVndEZFY5TTl2RERMbHJJRTY3NG1aa1ozZEJWSmNWelEya3F6dHM4bUFvOFhqdTJqUGdnaTVJTkJXLVJiYTQ3R3BBT29zUF94empzdlVvX1c2TnZCbWFuTktPZ0lIYnE3YjI0dmY1LU5XMW1lVHVsbWZLalFfRVZDQlp5QkVsSjZ1c0ZRWlh4ai10M2JpMEE?oc=5",
+        "source": "سكاي نيوز عربية رياضة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 23:47:22 GMT",
+        "discovered": "2026-09-20T23:56:21.181234+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ماركينيوس يخطف الفوز لسان جيرمان ومرسيليا يغرق في أزمة سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "267dfcca7ede8d01b35e145661c2241905bbdfbbbc61a7ddbd6b18cbccc850d6",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3587,
         "title": "أخبار و معلومات اللاعب عبدالرحمن الرياشي مهاجم الشحانية winwin - winwin.com",
@@ -1170,22 +1186,6 @@
         "summary": "صدمة للفراعنة.. موهبة مصرية تختار تمثيل المغرب Kooora",
         "player": "",
         "content_hash": "b67f40471bb115eb63a0a0c0e400ccef1d8fc666d27287c1f1336583cc3f340c",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3449,
-        "title": "الجزائر تضرب موعداً مع مصر في ربع نهائي بطولة أفريقيا للطائرة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxOcEZXY2tTbjhqT29NU01qb1B6eGNoVGtkRGR1cmxycWV0endCYVJ1WUJNSEVFeFd1UTBFVE41RWVVcXEyck5jTHdKNTRwVXdnNG9pZWVUWklGSnFDdTVSQUFLS25xSi1Ta0I3V05Yb2hySTUzeVBRcnJFOElXUHFfMUl4NWc1Ny1NQVNVZWs1VlQyYThma1VKWVlrNE1tdGpUSFE0YUpUQ2tUeEF3cWxWRHQ4cFdnYmMxcHRtYXM2RW4tMzBWTWRfc2FIS0VRNEFCamRManhFUGZkVDFUQ2hUQURKQjZURlJIZVkzc2czbEJBYllUOW5LX2Q4dWRxYWo2Zmxtdkk4MGhFRUFYMW0xcE9qSk1MZUtITjdUbXVQU29RWW40N1UzX2pUM0ZlTGZnNmdOcUF2LUFPUGowRGg0S2hBdWZEc3NtdHNaeHh5S0N4TFRuMGFMLTlsZWQyRm1vVFlWWVpSRGVQcmxYQ2tQNWY2bEs1OG1Td3Z1UkowZXl3eWQzT2c2dEE2bTl6M1RlRjk5c3h5dk5vdV9Gc2dsQUVheXUzM0pmcHVDamtsTzRJSHJWcjFMM2ZPRFFLeDhSU215blp1cm1CcXlILTB0V1JTa2dSUHdSTWJWQ21WMnpfVVhBMzV3S0ZEeEJZYk9ILWg3UTBHVG9WQVRKUUxIckRUbjhjV3N1QXJsZkU0SFNjWlRPWGxkWlBEampKNlFKSGswR9IBqgRBVV95cUxQMkN4c3JJTXVQLXNYOFFMcUh0NHhBUXFfV0xJemlRLTQ4WWp6c3NrVzQyMG5NTXFFeUdUazlhWTVLNzFSNm5TSlRQNHFGZlo2OGIxQ1JBOFpQNmNFNmJla3N6RENVZ2JsbjNxX0xDTWRZNlRLM0VjX1pIdVowWHVGQkp6YzNKZmlVVkZmUEEyZ0ZaXzZzdDUtWE14TXIzQVlKcXlwSTlsTS15RkdnZENaX0ZzZC1pdU5lVWVXc19UeXZDQTdHXzFjR1VrdW1rYUNlX3pwZDZrOXBfQVFXNHhSbDI1ZW11WmxGajBlajBnRGQ3amx5dGtTdzlZY21ONDZQWUtxRkwtZUpfb2JfbnpYVjJoNUZXTHNZSnhFYW51SGFhMlhROWpwN2JOU3JzQVFSTlQ2eldvWEVzeWx6cGpEQUZvWDJkczNyQjd0ZUpxVWxWcm9SWmI0M3VubTZjdzgydmxuMk1YSUZGUGRDU2NRNURYcHdyWDJmTUdrRjkwYkFZZ2VqWHhnMTNlbXB3MU5TYTlnbjhCTURIR0dEUHVPcE5ZS0piQTM0LUE5dHpIWTV1QXZDTFVYLU16RjgtTTdzZmtyZkRVb1g3ejB3V0xKbjRjaEw4TWM5YTVRS3lUazJoSzd0S0l3LUptOHRUdktoSkZYSjF1RzVmcGF5RDhTU1VVLXZnX1lkLTBvZmxJYnBxcTY0RFlkT3hwalgtbzRpSlEzVDl4RE9LZw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 19:47:00 GMT",
-        "discovered": "2026-09-20T20:09:09.319693+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الجزائر تضرب موعداً مع مصر في ربع نهائي بطولة أفريقيا للطائرة يلاكورة",
-        "player": "",
-        "content_hash": "bf880c8ae0cfa66a5fa2e883d986c2db9feb11f9a2681c67f96f1cd8f9e2f7a1",
         "sent": 0,
         "section": "sports"
       }
