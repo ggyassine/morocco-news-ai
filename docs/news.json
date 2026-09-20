@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T08:00:26.424952+00:00",
+  "updated": "2026-09-20T08:18:03.218169+00:00",
   "total": 84,
   "sections": {
     "morocco": [
@@ -178,6 +178,22 @@
         "summary": "مدرب الأهلي يغلق حسابه الشخصي على «إنستغرام» aawsat.com",
         "player": "",
         "content_hash": "26a83091ad93ae402e09f4bd1364984e8b25afa0249752e990f45ba0ea7ea96e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3153,
+        "title": "أخبار و معلومات اللاعب سيما سوسو لاعب وسط أوجسبورج winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWjRHa2d4VERvTzFqTlNzVTRxRXZXakxuM2VXTkhReTVmSEVtNmd3aVpqbWlTSXlpZkJZREE4WlVia0pGcUU3akU2ckx6Tjh3RkNpWWpMam9zVFJGNWhjQkhXMnRfb2JPQ0tSU242YTVHUHcyM3lHdks5Nm51ZXR5Mm92dTEtcmpwaTdENDJNdG44ZUJWTTlKQnZSNFJSYjdiMHQ1cWo0ZHpCeS0wUXd5OGZ6aGZ4RzdGU0Z3NEo2aUhRaDF1c0QxWG52REhDUWNSeDNadlBla3p2RDVFYnJVNjlVaHJxWGw5NUpqbUNRSFY?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 01:41:47 GMT",
+        "discovered": "2026-09-20T08:17:46.918845+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب سيما سوسو لاعب وسط أوجسبورج winwin winwin.com",
+        "player": "",
+        "content_hash": "d8a6172a650e0b53e686da5243cc993ee084400173da4f88f2fa5ff88baf9871",
         "sent": 0,
         "section": "sports"
       },
@@ -898,22 +914,6 @@
         "summary": "انتهت الدوري التركي - طرابزون سبور (4)-(0) جالاتاسراي FilGoal",
         "player": "",
         "content_hash": "25723bfc0fe250f1389695aa248afdac970ea25bb977ffde0045c959443f7f4d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3130,
-        "title": "الجولة الأولى من دوري الملوك لمنطقة الشرق الأوسط وشمال أفريقيا: أهداف وإثارة ومنافسات قوية في يوم المباريات الأول - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMihwhBVV95cUxOVUhWNkdUeUhKbUpTWWRGVEJDTWVQQlZXSUJUYzdHeFNqSV84Mm83elRkWGVlVUhic2syZzVhUDQyeDNsY1R4Nms1NUhzYWE4dEU2OXVQdl8tWXBzYjhXdHpkMjJENzJBVUtSbDh0SU5NNDBJczU4ZkRGU0NwWnpmTElKMlRQY3h1aWlxd0g2SzRLTGZzUVpVZ0FRVDIwdnozU2hLSUEzX2FNOXdsRE5DOXg2UW5UVTV0UW5zSDFZZkZ1Ynh3QzE5SlVoSjNqT2NFR012OUlENDZYalMxUTBUTmJ3c3BwaHVlNUxXWlg4RVo3NlZHQmlkdmNyWWpUYWhoRGp2R1pENWNuRnJ0MTk2cHhSaHpISUZqZ2o0RTdoMmhWdGNuQVdTZGZESUhoell3MHFIRDFLWWp1TjNEVTZLNFJXYjdZNk50U2M2VTNsdmU2enVCemRTalpuS0ttMjRvczJQS19fWFV3RGV4b3BKQWNvU0d5TWFtX1A2WkZwbUxsTkpVUzJyRUxWeE9ta21LMEhlckxIdFdWd2xmUjg2LWFKWXRsSmVFdmlxNXhtRUNFV1RiamNsekhmU3hEYndLZlBSX015aVlmOGhOS3VmQnBWT2FmOVZMcC1jakdySVE0eDhjNERyYUF6d0pCazNVTDQ5MVZfYW1vMFFPSzQweXpGUTFPZzBzMjJGWTZkZ3J1eWd5dnVDTDBhLXRneHFibG1ISnl3Rkh6TER2c19kQVUzZkFwNG5ENDNKcUJYYnNlSUc3OHp2S3lvODhKZHlrck91M1I5QzV1WWFqMG02YldDcDh2amlzTnk4WkdHajY0dkhPdnN2NFJpV1dMSG85c2IzekRRRTVfeUsyY21rVnpZa1FTQUhlYjFrbzlWZFhJcno3Nkw0T0E5X25fbkVlNEZRZURkQ29GNnNWeERseW1IdENlRU80Wm9hTVAtTE91LVdNYmZOeFBHQW9fMWIyU1lZaVRnUUpLdmRjdmszbjcwSHN6eXQ5SUZONTV6ejdVVm1nRFpOcUxESkZGLUhkRTd5amVKYWh0ejNFd3hnaGdKekI0UEpHeHBTS3I1LXFxTVlkcEVCV1VKbVpIVHVibGFhMjkyRHpPMHRPZWNNT1NTQ29maXExTnJQREZMMG9LU2F0bnM3LVFjejd4bkhaVFNtOTFOaGhQak5yNmNYN3BIeFVidXpNODNJQWI3UDFRTUROVEV4Z3NkODJJQnNieEdXMlM4S0h1d2kxNHhwTExJazNQRWZNb3oyWVJLYnloX2l2c21vTzBwaHk0NjVvR2NMbTEtaUNRMWl5QklvSGpIUlViOXhDRmlOQWxmT2dKZmQxcFlMS1lUZlA0aWZ3TElfNWFocw?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Sat, 19 Sep 2026 16:37:57 GMT",
-        "discovered": "2026-09-20T06:52:29.154850+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الجولة الأولى من دوري الملوك لمنطقة الشرق الأوسط وشمال أفريقيا: أهداف وإثارة ومنافسات قوية في يوم المباريات الأول Kooora",
-        "player": "",
-        "content_hash": "062575c37c38339ea04a4509087859c83be63a133474d60fac2af36abd42f9d0",
         "sent": 0,
         "section": "sports"
       }
