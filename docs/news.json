@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T09:20:10.323367+00:00",
+  "updated": "2026-09-20T09:32:23.667444+00:00",
   "total": 89,
   "sections": {
     "morocco": [
@@ -117,6 +117,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3188,
+        "title": "مباراة ودية في كرة القدم المصغّرة من تنظيم الجامعة العربية المفتوحة - addiyar.com",
+        "url": "https://news.google.com/rss/articles/CBMimARBVV95cUxNZHBCOFJ2bDRyRHpMRWp3Y3FMQ3hVdHlvSk1aRWYtR2FKT2FlRWgwZkdTbzNLSkg4ZVdVTHcxczBycEVzNWJXeTN5THowVDlvdHhuVTZUS29kNDhIdTNKLUQyQkdWdWR5XzdZQVduV2hlSGhLZnlZVG5pRjZ2OEl6b0pOeVVibFUtSlBJZkg1X3lsZUhtNzdSLXh5R19sM05iU2pqMzZDRERNcXM1Z3ExUVZ6NDFEQkRDVWxNWXliaVVwY2UtQ1VDanVtajV4N3VnNkZQOVFmbWQ1dGtreFc5ZURQZ3BoNnJQdHBDME5zLWxjVGV2eWhHZEtoeV9GMUIwdG9SRXZreFJjRkFyQzRPNVJlaS1Rdjc1OUY0Y0djWHVLM1RMbDMzX3hGWF8tOW10MzZ5MVduWlFmMEVYRHVzUVF4eDJFSHBXTHkwdW5hVWgzTTc3b0JNTS1qX3NmckdIc2txNVVzcjc4V3JjQ3Bac1Q4YmJ5S016bGJCWTNyOG1NRGhFOEppWE45dmZvYUxralV5a0Zuc3NXTTdnSVhIYmszdi0tRW14UHJRc0tKLWlDMjNmSWJ0WTdDaXpfZU9Odk00QmhhY1R0b2ZpRHRMc0tJUTRuYy1BMVFJUzNHMktyTUV5MjRGOG5hYVV3bGVIQVVsdURsX1hnTnBLVTZEWDE1U1M0Nk0yX2hMVFdUblFTQXN5X1FHOQ?oc=5",
+        "source": "العربية رياضة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 09:13:22 GMT",
+        "discovered": "2026-09-20T09:32:03.579801+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباراة ودية في كرة القدم المصغّرة من تنظيم الجامعة العربية المفتوحة addiyar.com",
+        "player": "",
+        "content_hash": "a37eb320109a0fc316f1d2a3156d528835f78a1f3b52487ca46d9cf88e60810c",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3184,
         "title": "هيليو سوزا... مدرب يحمل طموحات جديدة مع الكويت في «خليجي 27» - الشرق الأوسط",
@@ -898,22 +914,6 @@
         "summary": "مؤتمر سيميوني: أحترم مورينيو كثيرا.. ودربي مدريد مختلف عن المباريات الآخرى FilGoal",
         "player": "",
         "content_hash": "64bc8d25973304e61905c09e7427fd70487ca16a33c0d2f2dbd13c8e0128d36c",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3142,
-        "title": "إعلانات «الدوري السعودي» تزين مطار وشوارع جوهانسبرغ - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxQUFo2ZDR5LXY2Z0hBbnRaYkp6cWVMLUZ6VXd4U216NEVReXlXMXFzSDJqNzg1M0VrZ2FfdE1mcTBkVlktdkZNTVdvT3pTM01acVFseXZwdlVoYWQ1ak9IWkpXekFWaWtXUV9BV0FRQU4tOXhkR1VuRDlYcGR5NnlISExQWFc1OG8zSUh2SHU5X00wdjRnc2w3eGRDVlZ3U1E0T3JzVkVJRy1Meld6NFBZS3V4Mmgyc3ZBYnBRN2I3MkQ3VlFBMFpiMVFCUHZQWjdvYlpjUjV4cTlvRXhNSVUtd0xCUG8wV2JRbW1VQjN6UnBhcUpyMkJkMElSTlFkS0phRUs3Zi00YzQtMDgxX3dBVENrTzdaVnZtRUpBWVd5OGRKYnRFWU1xajY2ejdIeXhRd05ZbmRWV2dDaFF5S2VHaVRrQjlGc2tXQWwySVlna09JYTJPdFJPa0JhREp3UXBfNzZBdVZzUDIzenJJdjBXdUVzUE5zTXNQQmp1d3d5MTFyZHZPMkd1MlNLQ3RFdndBTnpyLTdvc0xUdjNXQUxaVEp5bTJLWi1LV2VuRXMyVXpHazlMZWJtbEZCdTdRTXRjZXVzMDJOSVZxVTRESnhMTGNPdk5OQWxrVllteG1RbUdjR0ZEYkN6bTY4ZWI4dDdkMm9pQ1NXQndaMkxBZGthTEV0VjgtZWRFSzhqM3YtaWNmQ2xlaHk5NDhJSFhlOVNMV25zQXo5RjVzVEsyVVo2LTRqQTE?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sat, 19 Sep 2026 18:18:32 GMT",
-        "discovered": "2026-09-20T07:30:05.705698+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "إعلانات «الدوري السعودي» تزين مطار وشوارع جوهانسبرغ الشرق الأوسط",
-        "player": "",
-        "content_hash": "0130b0086f4165b070b2c4fa29df50e616d3ab4db40069f994ecce08b1b3e3b0",
         "sent": 0,
         "section": "sports"
       }
