@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T13:38:15.460055+00:00",
+  "updated": "2026-09-20T13:48:31.096364+00:00",
   "total": 104,
   "sections": {
     "morocco": [
@@ -229,6 +229,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 3299,
+        "title": "صبا توفيق لاعبة الاتحاد: نسعى لتحقيق الدوري السعودي - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxORVNNQWVMNEpxbFVMZ1dRNUQwNENwTElvTnBFX3BtZ3ZFREVjakx3VUVBZ3N0dFh6R3ZtMVQwZ3FzTi1DaDhnOGJKT3YyQ29lU2ZRLTFUZWwyTTJEZ2dza2dubTVCWXhRVG9RRTVVNlZyUy13YlJuYWYzM09SZC01WUxfUVpaOC1SS0JoZUlEUzVubWp6d3Z4a0VrWDFvX0lXTi1aQldTZ2M1SEQ4WVlnSUk0WjZnUHJnNm53eThQUlBPaWVhMm9VS3gxV0hvblZZQThTUjd2Tm91SUtTaERXdGR5WXdKaG14UldpMTNaSzhLU2c1Si1DSks0bHhSVW5iUndmMFpOVENpSlVqem56TXJzZHgtRFFzeHdBRElTcDJKdlpoa1JKaVFxNFowVlE1dzVTbjExVlNpS0lpWXlqWjd3TlZGZWlQa3lNZnFWeTdNNS1KUmZ0TldRbWtYWkx5ZjNqOEdkSGQ4Vi1pc2ZPay1qaUp3MjFNdzhUMm5MN0NHd1V5Y3p4LUpPakRGVkhETkt6RmZuWTQ3VEV0XzhxRldfd2pFVFNiaU9ZQW5jTGoxd3I1RGRDUkFHOWxEVmpXWnRkZE9kMjlDQ28ydUQzNk1SR0l4S19EUlJEWGl6ekZQZk5TMUtoRmxGc0hWS1RlTV9ybnE1TFdreS1DMzlGdmtwUG9jN3JHUGU1TldCTFpoLVpOeWx1aEg3YXRKYWNSbFZvV2dDbG1wckh3ZGN2U0d4S2hfdw?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 13:39:56 GMT",
+        "discovered": "2026-09-20T13:48:10.054488+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "صبا توفيق لاعبة الاتحاد: نسعى لتحقيق الدوري السعودي الشرق الأوسط",
+        "player": "",
+        "content_hash": "72572567660f91ffff7d5d2762909887d51262077f66bdabdcc0fa263318dbd9",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3300,
+        "title": "بمشاركة هيثم حسن كبديل.. رينجرز يكرر فوزه على سيلتك خلال أسبوع - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQN2VTMnhPU0todERYbXdwekRFb0hDMHZiMm5NYlIwNV8wbmNEYU1sVGt6X3dCLW5IRExrMVEza1UxX3I1Um92eWRRbEtMMVQzdmNvREhwRUM0S0lKZC1naEFfTGlxdjA3TlJyd2dYV3JSRkdUZ3k1RUFvSnV6emJkWnR2QzlPejhSY2lwdnprVkJJdFh4c3ZPT0V6b3YwT1JPZ3lWaEVzek1RU3lSNnlkdXlYeDNIQVlNWDRwZWpkSTFKbExHd1o4WGt5dDVBMVhvU1JUYTJILUlXMWZYc25heUVSM0xmNXZmd045MGxQRVFTU0VZbzgxc2tKTzZxODMwWXBFZ2x1bERVX2pNRm9GZWQ2al8wajJhOTFRTkppVDVGVHA2ZFZZLWZjaTkwQkRhTnA1aUxPZTRycW1DYXFQQV82R2lta0ZqUnBGVno0UmZfak5xVlFLZDc5UzRmT1BMTXE0UmpvOERkSGd6X1Vwc05JdmEtOHpETERsYmRxZkFyWWZMdjE2QnFCYWNrdzNGaGRaX09kLUJIYU5JRG0tZ0hyY2tZQnJKQTNkam9iTE01bldtZHVoaXFkaFh0ZmJJWHJSTk5jQUhMQkNEdDBsSXlfeGxBWlFCWGNDTktjZzFBWmtwWGlGbzdfem53a1nSAfQDQVVfeXFMTmQxdlQyNC1fV3JKQkhWc1ItNXRTMUNRRXp0VEtLZE9RTTk2ZHR0QXh0Z1JRQ0pRS2hCbjFsSWJxQkhKOXNpQVdtUmZKWFJOZW1leFZpUFJNd3duR3g0TjdvUS0yRzcybXVlcGZ4dkpCXzNCQ1l3VXdSdGV6U3VvRFpXXzFJSkdLZ3BrTWV3bjZWVjVQcWRKdTFhMWZMcW5OcW9BOEVCeEY2N1BmWHFxU0Q4a2xSQkRoSTRyTEtCazEtdzRmN3VRanBLUXNYenlXbzBialI5ekdIY1VSdzlqLXQ4UEo1Sk82c3pwZGVYZUpxQkdWQ0hPNjR0Q19TZm5iQlU1Y05FX01vZDMxNkk2WVlkbTJQUXhzeWZQUlZvaVpxTmJwQWxyZTZJcE5ZV0NiTFVKaGY3akVsMERzZWNrSWJYSW10bXJNaGZxNk1qWW1QSklfZHBnbm9sd3VMWTkzaFZTa3I2RGVtdlYwc3d5X3VCQ1NLNFMwaFZLUkpfRy1qZDgyLUtXSF9ONFJmOHE1aHVmVUszQV9KaGdjMHdGTlJRZGtJRnZHWVpLUlVCZXhyVldTcjROR2hDUkV1M1BHazV0djNhamdCRXFCcEtHZFFDZXhOYlhhUGFRSUNDZklkM3FGSDJJVkFPMHRGTW1LbGc2bDQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 13:37:00 GMT",
+        "discovered": "2026-09-20T13:48:13.324112+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بمشاركة هيثم حسن كبديل.. رينجرز يكرر فوزه على سيلتك خلال أسبوع FilGoal",
+        "player": "",
+        "content_hash": "06dd54357b8c9e88ad676b6e8a20020ae1ce38863aeb58fd45f0ab9dc484ae78",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3293,
         "title": "كلوب: وقفت لمحمد صلاح بعد هدفه الثالث أمام جالاتا سراي.. وتذكرت أيامنا في ليفربول - yallakora.com",
@@ -790,6 +822,22 @@
         "section": "sports"
       },
       {
+        "id": 3301,
+        "title": "القنوات الناقلة لمباريات اليوم الأحد 20 سبتمبر 2026 - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPQ210Z2J1b2U3NmJKaktlazYtT3JjNU9JcGhpYkl1d1Z2SnM5RXZpSzE4YllBV082VWFZRm1IdGsxbGV3LVV0Z2xNM1NOeGFJaVQ1NGZiOTdJMzBxR19sRjZDaXU0SXhYWTV1Vko5alo3eG9vZ3JyXzFxTlFsRWJkOGZfS2V4Nms4SG44cnFMdTVxdFExelhmMjdzQ29EUWhkZWd0M1pGWHZ2c1BCMDhPS1RxSTdtVmFnSS1feXdzaWladGxkM2VrZ2FSVmpfNk1TTXh2TGNyc2ItREFpNDR0NDJzN2hrNEVWVmUxNFhrZS1JeGEwS09EYW5CLV85V05hSUl5TzBkcE9DdDFSZ0lzU0EwN3JjOFBNTE56aEVTalhpd1lqZ253X1BxQVNQbGUzdHh1TTR4Qk80Yy1PaFp2Z05fSnlkb3EyTVlwTklsQnVpSTZQdlVZOTMyRl8xcEZF?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 07:38:10 GMT",
+        "discovered": "2026-09-20T13:48:13.887454+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "القنوات الناقلة لمباريات اليوم الأحد 20 سبتمبر 2026 365Scores",
+        "player": "",
+        "content_hash": "77e0ae0d77945285c5a2b505eab9073aa48fe8962dfc021b4e2914cdb967c4b0",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 3139,
         "title": "مواعيد مباريات اليوم الأحد.. ديربي مدريد.. قمة مارسيليا وباريس.. وظهور محتمل لمحمد عبد المنعم - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMiwgVBVV95cUxNeXlaVldESmttV0FtVVR6QmZWME1LRG1zQW1iUkVBaW44dDl5dVowMXRuN2FxTUdZZGNYUDR2WjlOc0lwOHp6NVRUak1qUEtmRUV0UmpmYUVXLXJPcllaeGhiMzB6NzJNOGJEM08yVkR2YzR4anc4OFp2bHFwTVJ5X2szbld6YnVhMkI3S3FaUUQ2TG9FN2c3blpkQloxbF83SmdvNW54U280aXBRSmtGc1ViS2JDNzFlVEVEczlUdDlaY2pLTnJtQy1GaTdSRUlwLVRLc1JJbFcxOGh4TmE2WW9aV3RnOXZRSEd6LUFQX2hGTks3cFJkNjVoUmRVYVhfNWx2REQ3SnFGbGlQby0yWm5STW9xa2piWEI0ZkxTZGVTS1MyU2dDNVFWUzU0cXc1a1NScUdUdEdlRlVVMXhDVGt3dk9XVUZDRjhKSjVBOTRMbDJ0djBUbUpvQ2VNTUw0Y0NLQ01rSWFoMkJQcHNVWnpNSFlXdGdISzJrWW42YkYwMFpLU0RYb2tFeWV2YjE1RFNicWF2b011OHpnQVRRdzhVN3Qtd0Z4SkZnRVJyOVUyb2F4ZjNiQmZQOFFBajZzanRCOXhjT0JiemZGT2pEeno5QVp1TWpGbXJKdnZFOGM4YVNKWHVzLXRMMEMxa25NcG13ekRiZkdwWEtYUGRIRnIyT3lYdURtNUlPTWtHUmtiTmt1RXlsM1UyY3M4aUZ4OW9LSFdtZjYtQjJ5cG5fZE5GV2pOeWcwTGRJVlREX2daRmU3R084U3c2UVpmRUZIVmFXZXVacTE3YXRuclFuMElSUjFVdXd4WER2VWQwb2hac0lDVHBUVWcwUDQ0VjVMQlJLTl9nR1RJeXh5Y09sNjBocmpyNnhpMFA1V3lwbVhSSVJFZXZBYzc2ZFN2RG0tZ2lFb29fTllySi1NOEpFeml30gHHBUFVX3lxTE1KX0VCc2lkTlNCUklwaDNyZEJLeml4c052RUhxel8tN213dlMzSkZHQW5fNE9PdjFVUGVJSE1ZVFpXZWtVNl9YVUNmMFJob29NUEJKTmVWUE5nbVd3WDVpZ0dfOU4zUTU3X0NDRjRWYnoyUW1qRGNZYVUxbF95Y2N6V2VJcjdGOUZtcDNOcGV2WWwwWXJlSy1zX0JOTVJiUmx1VUM0OTgyWUs1M3lfMFBlQWtrS0dOeG9wSDVoVXNhS2JQN3FYRkN0QzJvcTRUMVpSMTNFUlJQaGU2QXo5cVVfcGJOZTQwUERhaldXeXdwT09GQ3pqQzdqM0dfTmJSb0ZJaFA4clZ1a3F3WWpfVkYzdlNWcjI5YW9WMjFDYzZmOXA1aHliN3NsbjFmcDlaY181VFlTaFFBWkhyU1VpZmIwSFU4OUJxdGNpZ2UzRmZ5Q2JsX3UwMGNSc2FZQ2U2R1RmcVFEazJkRWVDV0NTMWc2ckwtLXg4N0EwcmxLSllmVzlGVkVoLTg5bUpWVFlaSlhSYmUyanBESmt3NENCQm1iX0g3YVJsZUhWSktPUURjMkExOUg4ZUlVZUVKNVNubzJfdHhkXzFfTmhKdzJFSXlGZU1PTHpvUHVCdXZYU3NwYlVVZDY4SlNzUmJ5T2ZrRUVWT241dTdicHlDRHFrQnRlSzk0b1N2QUhwSmJvVlAzdFRwSktIZHFac1dOZWRjYlQ0YVRtRlQxbEtIMU80WHhBbFNRbGtoeC1EQm1LY29mcXd6QzJ1R0pKbGVpMUc5UTFwSEVQTE9Wa3dEZjVLQ0dCTlRkXzQ4bkVfUVVIWDVRUU0ydlFxcHhHZW5UeUtkV3pzRTNad1BxbGRpQURsMGJjOFlhRUVhR2hJTGplaUJkVFd2ODByb3A3MC1yeWYyZWtnYjhIYU9rZ3RlZlU2Mi0zVFFPdDZjRQ?oc=5",
@@ -978,54 +1026,6 @@
         "summary": "«لافتة مسيئة» توقف مباراة ليون وستاد رين في الدوري الفرنسي الشرق الأوسط",
         "player": "",
         "content_hash": "23a41161a6ef6330e3a1e6e04fef757e71f972621229ce792432396ba5037612",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 2875,
-        "title": "أخبار و معلومات اللاعب مهدي حميدان مهاجم القادسية winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOR2ZxUWRfZndKdk9xLTlTemg1MmJuNXR1WElxaGVORFBCVGdKQUNINEc3QjhrUFp2VlNhVjhoTHVOYl9LTDlld09BX1JvRzlmSVJseE5oaGhvU1dYQjJwY0hiWk92RHljVkZjMmdHMV9jY0ZLcXIzUEp2bHp6anBnaXN4bGNXWm9WUjF4TlgzaW1LczRPb2dhZ3EzLXdFNDV1SkhLSmtyYW5fX05xS193MjJDamF6R0JkMGh1M1cxN2puWk1DQWNxWlRtbkdYR2tUVGRSdzh2YXBqbXRYckNPcmJRSlV3NnZmMU1uS0ZmbjNxWFdVYjVWcmNGQlJKZ2p0?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Sat, 19 Sep 2026 22:27:33 GMT",
-        "discovered": "2026-09-19T22:38:12.295904+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب مهدي حميدان مهاجم القادسية winwin winwin.com",
-        "player": "",
-        "content_hash": "708e0bbb918a4fca7d315a081276c4d532244d8fc53071b606887706319dcf01",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 2874,
-        "title": "أخبار و معلومات اللاعب عمر صابر لاعب وسط المحرق winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZC0tTk1RdkJqamNXVTVOeGJhNEhYeG5HeDVuMG9fRnpKWDBtdVhlMWdyN1F1SkdSc0pLZlNWTlpIRnN1UzQ4RmdaTnF3UWNXTTdoVDM3Nzg1bjJ6RzNqM2QwSl96MVN4SVVTRGlZQklGTVA4QVZBMnMzVkxtNGJQTW9hUVFuTVllVEhvMWFUSEJzTzlIS1lHamdfenBYMmR4aTRqSUtTNm1neFZHMW9uOFdoQjBoRnZsRWhUcHdZRnhjbGh6cmVib3E3anRJMU1PUjhUQlhlS0M2elZZLWRxN0lsZGV3Vlhr?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Sat, 19 Sep 2026 22:27:33 GMT",
-        "discovered": "2026-09-19T22:38:12.283826+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب عمر صابر لاعب وسط المحرق winwin winwin.com",
-        "player": "",
-        "content_hash": "5adf29691323fd2be759cc4ce86befdfc33a67d8500fb0bf7b64a351e02a9e53",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 2872,
-        "title": "مباراة فريقي هارت أوف ميدلوثيان و سانت ميرين في بطولة الدوري الاسكتلندي - الأسبوع 8 - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPejU3R3ItbzFwSTIwczBqbkJ6NHhwMDBsOXBtOWEzQzRMVEdXRVVnN24xUzd5aFlfM0wxTTJJRDNBWFhzcUxIR2psSk9oMmg1cFhJOWVGWkFiLVlDVm1YU2pTRkNhZS0zSnNzQURnZFp3VS01Wlg3OTlBVmR1VHFGcDVzY05QMTRMMmRJTjlwWkM0MERsR2ZyRklwdkVMX1IyTzVfRlpGV2Zia0gxWlg5RG83azh3OHlqeUFiaERmaWNSVGREN2VJanBldmdJYkxPWGxLT3dNSmJaZzZHR1MzMGhaV3dGaThRMml4ZHZOeTBJSldyNm41ZVZVdk9aREttNy1wX09qaURSVXJuNUlHanl4YWYxYzQwNk5PbUY3R3lvbzc5MklHMWRCd1hTUUhfR2xSV0h5LUg0eXdybkM0ZUl1dVA3ajFEOVpCUkNsUG1FNHd0NWVpVEJSNUxhS2hkcjJZWV9OWmtGQmFwOEpFNVVZSEFkbkhCZ0R2WVpRY1BmOTVIdEdMOTE2V3ZJUVJTUF9HS255T3AtVGJoN0hqN2Z4WnZlV2lKWDFJOVAwOHUybEFLX28zZTRXOWZYY2EtSFp4Wmc0VTFja3JPbmFlM0duTnhKZUNLWXV0amkzMGNiZkU?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sat, 19 Sep 2026 22:23:46 GMT",
-        "discovered": "2026-09-19T22:27:01.711609+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباراة فريقي هارت أوف ميدلوثيان و سانت ميرين في بطولة الدوري الاسكتلندي - الأسبوع 8 FilGoal",
-        "player": "",
-        "content_hash": "db6b473d228e1210427af4ab1386ae5fe92180584c14702e1b0583cd61a8f85c",
         "sent": 0,
         "section": "sports"
       }
