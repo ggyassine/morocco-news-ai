@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T15:32:48.219164+00:00",
-  "total": 107,
+  "updated": "2026-09-20T15:43:46.533478+00:00",
+  "total": 108,
   "sections": {
     "morocco": [
       {
@@ -229,6 +229,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3338,
+        "title": "أخبار و معلومات اللاعب Walid Dhouib مهاجم النادي الرياضي الصفاقسي winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa3gzMTBXcy1URnFTZkRmZ3pfQ3k1ME1pUDVpazRUSGhGeHBBQzhzb3NQSWlMaE55RkpaR2lST0pOUUNyQXU2ZVI4QWhMVUxyR2RUOUYzbGZGVHlnR3ZhSmdKeDJCbFN6NU0tY2I0Q0xaQXNTdjNZaERyWFRnbmNfMGZLLUlxb0NDSVV2bE9ZNTM4dE8xeWxmNHhtTGhnUWJxUU5CdjBrLTBiQkk0TGZvSXdwYkYwNDM4cTFQekRlOA?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 15:42:24 GMT",
+        "discovered": "2026-09-20T15:43:29.503274+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب Walid Dhouib مهاجم النادي الرياضي الصفاقسي winwin winwin.com",
+        "player": "رياض",
+        "content_hash": "a6841779a75dcce7773f5d3cc169617a8867fca62249b1a64af13bdefa99b2ee",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3332,
         "title": "تغاضى عن إنذار لاعب الأنلتيكو.. حكم الديربي يثير غضب بيلنجهام - Kooora",
@@ -918,6 +934,22 @@
         "section": "sports"
       },
       {
+        "id": 3340,
+        "title": "مدرب برشلونة يثني على رافينيا بعد «هاتريك» إشبيلية - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxPN19BOF9ETGZWLWoybjZEaTJ3UzM2S21PZU5VMU5ETnlQUUJfbjNTRkl4c2dIRXJxRnRzOEc3OWdaa2ZFZVRVR1RBWExYR3p3ZS1QOXl0cWp5ZXJ5Y2FURzFKb2RqOFZ0T1NwbTNoWWFYNmU0azE1R0xQM2JfMXVPUktnR3I4NnhZMlFDdC0wVjJJbi1mWjhQY1hhSGtpNDRUNWtYcDBzTXltNHozYWJ2eUZsc3NaVnFncjUzMEJ6VnlHbGpUNk5pOXRrZWpBUE9QaEpsSDNaLS1SbHFuWUNEOXRnaWNGYUlkbGlZNGV2b1RoU19rbVNRQVY2dVFtUld5dERITExaUVllNm9SZEN6MDU0R21HUjRxTlM4UDY0cGNFaHNQTWhUalNEQTN5ak0wUWlJNVVmYnRMNFhIZ2dMT253Z21YSF84THJRNmQ0U1NTMi1TNFdtVHRRVy1JRDU3bmlRa1h5a0V4RU1RYURRTXNZTnFfeDJ3Tmh2QUpwRU54WVhZU2JpU2l2dG5YcU1kRGdnUUQzTWI4a1czbkx3aFFCZEdhNUZ4RFFyMlFDeURJeDRTNVlMczV5QWlUTi1wMm5pZkJzU3Y5VXFmVk9iTV9ub3paa1lzY2xiUmV4eTJJSkdqd0xvZS0tT3NRX3RFaG5wZ0hsX3A3TXdWWVpLSGdVcnNSV3h6dnpGQVVRSnY4QXViTkNnckg2bVY2OVA5TkhvdlJB?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Sun, 20 Sep 2026 09:27:55 GMT",
+        "discovered": "2026-09-20T15:43:40.321386+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدرب برشلونة يثني على رافينيا بعد «هاتريك» إشبيلية الشرق الأوسط",
+        "player": "",
+        "content_hash": "bd9eefae321a3c12aaae07ab9ee7e4ca4a826ec6b0e7501c334af3a3448e4512",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 3188,
         "title": "مباراة ودية في كرة القدم المصغّرة من تنظيم الجامعة العربية المفتوحة - addiyar.com",
         "url": "https://news.google.com/rss/articles/CBMimARBVV95cUxNZHBCOFJ2bDRyRHpMRWp3Y3FMQ3hVdHlvSk1aRWYtR2FKT2FlRWgwZkdTbzNLSkg4ZVdVTHcxczBycEVzNWJXeTN5THowVDlvdHhuVTZUS29kNDhIdTNKLUQyQkdWdWR5XzdZQVduV2hlSGhLZnlZVG5pRjZ2OEl6b0pOeVVibFUtSlBJZkg1X3lsZUhtNzdSLXh5R19sM05iU2pqMzZDRERNcXM1Z3ExUVZ6NDFEQkRDVWxNWXliaVVwY2UtQ1VDanVtajV4N3VnNkZQOVFmbWQ1dGtreFc5ZURQZ3BoNnJQdHBDME5zLWxjVGV2eWhHZEtoeV9GMUIwdG9SRXZreFJjRkFyQzRPNVJlaS1Rdjc1OUY0Y0djWHVLM1RMbDMzX3hGWF8tOW10MzZ5MVduWlFmMEVYRHVzUVF4eDJFSHBXTHkwdW5hVWgzTTc3b0JNTS1qX3NmckdIc2txNVVzcjc4V3JjQ3Bac1Q4YmJ5S016bGJCWTNyOG1NRGhFOEppWE45dmZvYUxralV5a0Zuc3NXTTdnSVhIYmszdi0tRW14UHJRc0tKLWlDMjNmSWJ0WTdDaXpfZU9Odk00QmhhY1R0b2ZpRHRMc0tJUTRuYy1BMVFJUzNHMktyTUV5MjRGOG5hYVV3bGVIQVVsdURsX1hnTnBLVTZEWDE1U1M0Nk0yX2hMVFdUblFTQXN5X1FHOQ?oc=5",
@@ -994,38 +1026,6 @@
         "summary": "بعد الخسارة من صنداونز.. مدرب أهلي جدة: المال وحده لا يصنع الانتصارات FilGoal",
         "player": "",
         "content_hash": "4e3261aff7032d526891a3f35e3da33fc5e903b46be6021bfe0410463a1cd978",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3162,
-        "title": "أخبار | هاتريك صلاح يقود طرابزون لفوز كاسح على جالاتسراي برباعية - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TMGNWTGpKSV9qbG0tRDNSMVlxRjVCa05qN2N2V1plcFhtQkhNTk4zMHJIMnplV2FEOWQ5THRERnZuZ0lYWjl6RnlncGg2LWtv?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 08:26:53 GMT",
-        "discovered": "2026-09-20T08:44:10.400726+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار | هاتريك صلاح يقود طرابزون لفوز كاسح على جالاتسراي برباعية FilGoal",
-        "player": "",
-        "content_hash": "7dbc386babeb11613471b340a6eff3f340873e3f67da12c720391238bc5b53e1",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3161,
-        "title": "مباريات اليوم الأحد 20 سبتمبر.. دربي مدريد وليفربول ويونايتد و5 محترفين - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxNQWZ4N2RiSUptdWxDOTQ1SWhvVW02S1hseXNHa2xidENNWEFPWGhGM0tpeDNVT0tnT0lwcmxweW15ZjllSHg2RkFyWXA2QXpjV2JYNi1NaG01M1VVN2xsNUJwbFRmUEJGekNHZ19PUXlQenNxZlY3Z2VyMTBRb2E3VEpxWmFqbmx2amxzcHJQOElSUTB4aFdNNkNfUHNsVl8wUnJ5LTFQUWMySjZXTXp4RTR3bldCLXp2N0M2V19TS2lPYVlUOURkb2VnV284VWVrX18tdF9hRG8yWkpBNmR1YUt3Vlk4Vnl2Ty1uMFNTaW1USUtxaFRCT004ZmVoLWVIYXhFbm90dUYzWXVjTmppNFU4OHlVbVoyM2hkRFRKSWg1QU1MLTkwZW10d3RHRXpSNFVwVmVicHBldGRjeGM2d3JUX0ZONDlSLVkxSWFYZ2xHbEFyRjM0eXpOdUkzSG5CYnRUYlFSa0pZd2FLN2lkNWdxamxaRVlmVjFhOFhydGRQNG9WMWxFN1VHc3ktWWlrenJqSWRzM1JNQ3RMS3QwVENVTHNHTDk1V2o4VXB0N0tyelc3d1pFOUFhSU9rWG1FbjktaEx2YzkyWTBnc3J0VWRnLUttdVJBaWNBaXJmeHRjYkM4cTV0WDZGdnoyUU1WbklsY1NibVhpUE14dVBNY01iOWh2UThRU3N4V2NCRzdGaFdtemg3UXJsVHRWRWNOTS16SjlzUHVOcWROUGlrNUpRdUJyZDRrcUNkZnRORdIBqARBVV95cUxPWXZycGozVEZmLXlJVWhQMTNYQy1tYmdMaWFDbnhNWnprTzc3R01wVmNISDUwbkFYWmNvZVN2VXlUbGxqYW1EQTd0azBUR2VPMUhxZHVxemtRcFJ6ek5VcHpqakRIUTlyWS1OMGZoZjVuT3ZMNll5M0d3d0Q1bEFoa2pFckdHRlcwVzAwcnZHekNzM3YybFU5Uy1fdzJZaV92aElia2dmekptVDZZRjQ4bVRTcU5vRUpCUFR5cXphZnVVTXFEYU0tb1k5WU9aZzlKZFBCcGVQNzQtcm40SUs3YWY5bV9nS0JsNG1GS05wc21kVTZvVUhEc3lpbWxkaU9OeUpCQnhqZWp6dG9rTWIwcU5jYW9KcnozZDJ3cDdFM1F1ZjBxcFlONHJFRDFZcVVTbDNzc1NnVUxYODAxaDRLWDcyaFNzdlVpSmx0TEUxOE02ZnN6Mzl2N2F1QWROQkZac0pxT2x6Qjgxa2R0NUYxMEFFT3hIWGp6Z0tYZVQxNmN4X0Q0SzZrcW52UzRWZmdmU0hiS1g5Y2hHWFA5ZEhDZF9rUGJJOUQ1aHFlbnhRTld5blBmYlZNUGtNMkQ3LWllREk3YjlMb3pmQUxtMmFnNVZ0OUpKLVNmWTNQdzBQS09FZzN4d2k2VHMyQTRMaG5ZVGJNRlV1anBPUURlLWxJUXdwb0QtTzV1MmlSY2t2ODBjaU1qYV9CMGc3NHBsd2hzdG8xak9PaVU?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 08:14:00 GMT",
-        "discovered": "2026-09-20T08:44:10.367337+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباريات اليوم الأحد 20 سبتمبر.. دربي مدريد وليفربول ويونايتد و5 محترفين FilGoal",
-        "player": "",
-        "content_hash": "723d10d32f96e7f0c0e9bbfd816ac47871a52f0d3ff2d1c13417817d05ee09a0",
         "sent": 0,
         "section": "sports"
       }
@@ -1558,6 +1558,22 @@
         "summary": "غرينلاند والدنمارك: الاتفاق الأمني مع أميركا لا يتضمن تنازلاً عن السيادة الشرق الأوسط",
         "player": "",
         "content_hash": "fb69b618a407ad61429d01d4ea5f490f0aaaa7642f7a45ed2d3611cc67a4cf92",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 3339,
+        "title": "بالتفاصيل.. أزمة في عرض البحر تهدد أسواق النفط - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOR2RJdjQtZmFpdVVqbC0tb0JHY1pDYkpOY0VFem01RUxld3FnbmZFZ1BoM0kyUzJOeFFwb0tkRFNXMnFrZXdIR0c1NHYzYVRsVEIyLWRnTW5XR3NhZUpRZThuTGJFMDl3cXdQNTBnTVh4ZjdzWXFWcktQZ0NyMG9RRFJnNUp1VEJDdXpPWVVDVmUxcUZBMVZSUFdELXY2WmdfNkZxY3pnSW5TY2l6T1ZBSmZQMTdlUk9ZR21NNGFCdE9mbkJVcWpobU94SzJseEkyTUFWaG5IV3hVRFFkTk0zbTg4SUpORTFLcndRYlFZUWJ3ZHJlVlU4Y1Jtb29KVWRGYk9BV0xXS2h6RFF2Wmhwam5tOXp1UnZhUmN3c1hUblZQVHVmbnpYNTFzQ0hzTE40RDU4MUtDdUhfUVc4WlRKTFhhSHNXZW5jaHhZNXlfZThrZG5oQXo4Mnd1SHI5RlNyTjFWZU1OQzdJS2x0MGVwVlZRUy1hc1HSAfwCQVVfeXFMTVFISF9ncDhDbGNZYUFwZDVpMUd0bDlUNVEwNC1CSmtjUHFTWURSOFk5dUhIeWFjbzBsa2ZueGFoMF93RmJFaF9nN1hQTTUtZXUzcGRTRHZpSXkxMHVEQWJWTlVpLXVQc0ZEQS1tNURnbXllWHVaMG9uQVh3bUxqQXhxWEkyUzhNQWYtQll6cGsyVTZQZWZDdXpvdVZVSjRST3NUajNKbklsT1ZzWkN4S3loVU5GVy1PVWdiamUtNU0tUjN6MktvTDVTT0dmZUlRcElLZlZXaGd4c05aSU9QbHZpb0pUM3pRTXpPM0ZUcVRaeUs2anlySUNBWmVyS0t2Q1dWQkxza3hVdHBPY09KNl95cF83VUtsYThDRk1WUjdnek4xRkFoUDNJeEV0Z0NzdllENmt3VkNCbkJ2NGdiOVVoS1hlMTN1bXBaYjFsb2JxRVIzM3JNRXc5UU5ETHNYVzVZTm1CamVERkhNVzFRM0FmUVRfR1RodUpDWE4?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Sat, 19 Sep 2026 14:51:00 GMT",
+        "discovered": "2026-09-20T15:43:39.033578+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "بالتفاصيل.. أزمة في عرض البحر تهدد أسواق النفط سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "d1979f4931f9a4160d152290e3a460db784103656e955e4da5e12979b52f462a",
         "sent": 0,
         "section": "middle_east"
       },
