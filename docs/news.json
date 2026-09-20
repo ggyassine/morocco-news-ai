@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T09:04:50.501957+00:00",
-  "total": 87,
+  "updated": "2026-09-20T09:20:10.323367+00:00",
+  "total": 89,
   "sections": {
     "morocco": [
       {
@@ -117,6 +117,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3184,
+        "title": "هيليو سوزا... مدرب يحمل طموحات جديدة مع الكويت في «خليجي 27» - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxQSUZmSGhRWUhDOWluVjFtbC02U2RrMWlEVk8wRG9aTWFNVTVmR1V6LWhlU25wSndpRUkwZlZkM3RReF96QUlfRmx5NDBtRWlwWk1lZUNUdDJiNnU3RjE1Wlh4MUxfSkpXQmNObGl0VUZyRl9lLTlBOU5OcWFwUXpOd1lMY25vY3BvdHFUV0hQbUh5a19EaEpYTDhvN0VZUDRJdkFTZ2I1RmpaNFVYME1BMTdKbVNhLWkwSGJLTnVnNHdHLU5KXzVyZWhLTlliSFVvV3lCUFFGbkFWRVY2ZDNOOXdQUWxOdXFSakMyTnVvZ0N4bWEtNlVjOUVzd3huYVZtZmUxaDItWGNEekZEZzdHQnh3aXJjdXZudnB4SGgxYmE5VFgxSWZTU29HcjJYYzNNelVyV1NOQnY4Q0pKSWNNZE1FNGt6ZWp2ZE41WXlmV1lnUVFKU3RxcG1NNVQtdDBxYnJvcGxhMFZxMURmYjZXQnhIbUtpeUdPZ3dvSXZuang2UjhRUEYtR2hWdm5zalhxT0hkZThZYW12Zi1JYW9FSVpzUGNMVllDNmhGYzFSTG5KeGZWNWNMdThhWU1UU21kdVBBTlRCOG93RzhEWHlRSEZyZ3hqLVhYXzBRNnVCLWFZMHFmX2JFZkJ1U283d1hrVnBTODJkQ1B6bWVvN0pwWEhhRnZMSmNQQU1OdVQxLTBoQWY2emZrNm13WEZsMnRBVEEwMHNsQ0szNFhva2NraEhaa0w?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 09:12:23 GMT",
+        "discovered": "2026-09-20T09:19:53.163858+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "هيليو سوزا... مدرب يحمل طموحات جديدة مع الكويت في «خليجي 27» الشرق الأوسط",
+        "player": "",
+        "content_hash": "cbf62d4595cc3c6641c31893f34d3a9d7c9abb1b5ddb93f02604fe0adcb055af",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3179,
         "title": "يكره الاعتراضات ولديه شارب مميز.. ما لا تعرفه عن أورتيز أرياس حكم مباراة أتلتيكو مدريد ضد ريال مدريد - يلاكورة",
@@ -630,6 +646,22 @@
         "section": "sports"
       },
       {
+        "id": 3186,
+        "title": "كرة يد – لمواجهة المغرب.. منتخب مصر للناشئين يتأهل لنصف نهائي أمم إفريقيا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43dl9JMWRUSmN3SVNleGRLelhjN1lhc3JHY2pTb1J1cEQwZnFhaHluSGdVYWlCWXMxVkZlRU9GbVZBYVY5RVNKMUdMRk1ZNXh30gG2BEFVX3lxTFBvNm5Dd2pjdlY0a1pqSG9lYl9HdExKZm92S2RWNWJyZDVQRlpMdUpsYUZVNFRnOHNtQWVTckJzM3l1ckpqUmEyTTZQWjFmM2d2LWhJM1NqOEkxcF9EVmdza2ZNbW43MnZEVWs2RlZWUVdiRlk1UG9hVWxRZ09LMlNyZW85SnVYaTdEZTUxOEEtMi13VDlBcjgwb2I0eXotVGZ0a0paZE9GZG44RlhPNTBET2FVQVhkMFd4R0FaaU95LW9nSFFhcUR6YWZKNS1HV0xxdXJsUm5FQ1cwcWFPR0FtY0tTdU5RNVk1R3BtT2dhLWRSclQtWk05MGdsR2h4WUtMMnJka0g2anVyYnBNXzNDUWRGRW5ISWM0UzJiZXJqWGdBTmVLMXdsRHB6ZVNrSWg2VzFSbjNqcmZDcEw2MFFTcGNLV1dtMmcwOWt6VFZlM214Y0xXSU9SVXVCaF9HOF92Tkd2LVRZQ0FTNGZNa1RCeENpU3VUV3JkX1RxSzVNSjFCZk5QSkNWemgyOFJzWmRkT1Vxd05pZ09EN1NEYk5vMXdSSnhfVVFtUDAySDctY1VmdFEzTV9FUnN3cGY1cXJSSnVYRXRQMjFEMFN1VlRkb2pHOTNnXzlwby1IQ3VhNTYzMjh6WDhjMHdkX0hmc2wwMklzWFRTS3YyZW5UMTVMVjJWeUdrODlFVVNmVE9oVmdWcDhaUG0xaUlTX0M1VEdJT2hlV0VBRG1XcG4tbkRvNlRqVkpR?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 19 Sep 2026 20:36:00 GMT",
+        "discovered": "2026-09-20T09:19:55.642502+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كرة يد – لمواجهة المغرب.. منتخب مصر للناشئين يتأهل لنصف نهائي أمم إفريقيا FilGoal",
+        "player": "",
+        "content_hash": "a380b7b51948e9819af48f8baea925e0895b53ec738172f9de0c09f0589598e9",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 2876,
         "title": "ذا صن تكشف.. دي زيربي رفض الحديث مع لاعبي توتنهام بعد الخسارة أمام أستون فيلا - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxQZXUwTThBcFBfbXI2OGMyMXhMaExOczZxNkFhVm5WZEhYLUtnalIzZUR1U2pMQ2tucFpqYVdBWkFkVGhGRW1BcURVZDNyYkpJaWtESks3MDNYOUkyVnhKUjRuWmhVamUtN2VmMEU3MGhuSVhnb0lGWFFsWllhaURWZFcyMEdZSEkzdXIyUVpCamN6czNkX29yWHBnWC1nOEdJVGlLellUd0lMMi1tbUpaQ2xvT3pzbjU1Wktrc19CZVE2b1RnLWZVby1FNEh5Mlg2ZEdfVlE1ZW1mZHlTUU5FUjFnTUxhaWhaczV3c0YzWUxwZ21zVUpGc0w4QjczTF80SXBsOEhEX0Q4Rk5lU1NfeWl4Y19lSURrZmYyTldObVdTcVVDalpSSEU2UVJpX3IwLXRBVDZHRnM4SWt4RlRET2NqQmk2cVltbDhWMDBjZVlQc0NjeXl5V1dEY3hBUlU1SXNnTElfTkpQLWM3MW1lOE5xTVBzd0dwTzI5YjJ1SnkyM0YzUU5BU2ttQm9oMFN6QmR4R0thRnpYM21ON3RRRm5lLVplWDRPemZwV2JVZTN5VEhuRWkxMWtpZFgtSG9YRWw1czJHZTVmb0tKZjM4RE9ldFpEblJQbW9xaUV2aDExa3JzZnFaTUpYZmh6Q1VQZzNOOHFHTHFWUmtFa0FWQkZnU3ZmLUM4NldJWDBDOWFkMHFsbHFFWnBHeTZLeXVrMnM2aUlJM2VTa1U1Mi1lYUlIR0N3OGQ5YlpkajdFaS15UUF1NEZIamdONEFUdkp1aHJrYkhB0gHbBEFVX3lxTE4wLUpqUzJWemdYUUhIZThFaG53SV9nd053a1dSM2xPSjVZaUZYUi1kQVZLSTVBd3dVbU5tNXR1ZV9FVzYwbEVsY1U4azY5ZG5ncXZPRHNmb3NGM1VkRTdJRXZoc3dPOXdldzVCcnNuOGdwcDJPcXpZenZmekhVejBlWklHY0JWU0hpM0F0NkJIMjN5STNIMk43R0xOZG1YTm5kaXRqV2tUd3NJZFo1RjkzVW5zT21nSEp1RldKN2hBa0VSMllQRmE3LWFzazJpdnkyaW5lVzJ6eEN2dWpvM3JpUVZ3bGpMMlV1cFM2N3VlNU00LXlTdC1aVy1mbll5Y2ZWSWNjejE0YVBzRnBoR2JuMFlrTHlPZV9UZTZkeEFmLTAxcWpKUFNrVVktTDh3ZHhjT3R1cHFEaHdqUVhtZzBOQlc0dlFjSWRjb2dacW1IbFJHc1RTU2g5T3c1c05pdHJ4N3FOcXpQbGFRU3Y4LWhRS0ZEQUFkTzZTOXVzWEJ5WVlaWjRnVXE5RnNCdmpMZmdVRTRUblJaeFpxbFVJaUxYMTZuWGc1bXZHN3ZXc09nTkktdk1CNXRpN3Jxc2JFamZ4OUExY01HVUFJX2xxd0VodDEtMEc1dzZlMkExVk9kV2x1cVl5OFhwbklReVJibUJQV1R3YkFUTmgtcU5HdE91Wm9IanNIZWFkb19OZ18ySHd3SERqdUh5TXdfaENUcV9HT3FlWC1BaGlPb2VnRDJpaXNNZUd2RU5XQWZ4eUtqZ0JNZkFaODd0Q3U5dlhUYlVlRHRJZTd0b0w0aw?oc=5",
@@ -884,41 +916,25 @@
         "content_hash": "0130b0086f4165b070b2c4fa29df50e616d3ab4db40069f994ecce08b1b3e3b0",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 2893,
-        "title": "بثنائية ضد جالاتاسراي.. صلاح يتصدر قائمة هدافين الدوري التركي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zV3NvcUgxTGU3WUVndFlaaWFJOHJDZl9hSl9VdDlxWHR3N2tsckF4QXYwaTRKVWsxZlRBRGdtbmliblhmM3pWYTdTOTBJV2tE0gH6A0FVX3lxTE1GVXZYVlU0TWNnRjFEbUFVUFRKZldCa0dYb1JIVkI4T0twVjlLZ05Qb2pWSlFfSUxXMDlBTkhLa0FFU1poVXljallIVV9JUURnSFd1WWowcVZFaU1LNmgxNUt5eG5Xb2llSXZYS1BkZGlsT3FoY2kzd1p3dU1DbnU5WGROUnpPeHNSMXdTYy1reXlHRzExQ081WkRvcE1fd01Ld3ZSQ2tjenFrV1dMVjVVX3FJYV93QWdLdGp0V2dTTC1BOHc4OHR5S2drek5XXzR6cUh3Y2RhVHRIUDhnVl83VVl6N2ZMRG9hVHhhQzVDbUtwR3V2OGNiSkM5UGsxdGl2cFBYdDRrck8wQU9TU0RHVkdoVGd0WUVmR2V0V0RUazRBU2J3b1Q2Y1JJUTV3Wnlia25SdkxSZ1pWdEdmbGxidnZ6ZHd2bVFhTGdGTlNISEFVMnVJbksyWHpaUFpqM2RibThDbWl4MUY0SjhkYmVwbmo2QnVNaTVZWWhqb3FnRl9kTFZvRGEtV1JmcEcyY2dlVmx4d3owU0oxakNIclVTcnQ5eGlSa003WkIyZDZkYkphM2NROFQxaHpHbGQwM05NMXhiR2c0QklMbGxHeFY4ZzgtNHljdnVHbFRmdDV1M0pRazNuWTZveFZFV3AtMlhFTGZyNDFvNDJ3?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sat, 19 Sep 2026 17:59:00 GMT",
-        "discovered": "2026-09-19T22:56:19.457643+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بثنائية ضد جالاتاسراي.. صلاح يتصدر قائمة هدافين الدوري التركي FilGoal",
-        "player": "",
-        "content_hash": "3575e3926fc1de2a2ae9f173eb5a2b182e2868961c076716bc2af337d449ef9d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 2914,
-        "title": "نيوكاسل يكبد هال سيتي أول هزيمة في الدوري الإنجليزي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14M2NfeDVtdWdxbFlYV3ZabU0yVC1SNUZWVkYxRVhYMEtVUzM3cjVaVXZlZ1ZVRlZfR3Y4U3ZWLVJXYTlUaWN1TlhSb21uRDNL0gG6A0FVX3lxTFBTcjNrbDItc21fTGRyY0tTVXZvTFFQa0NaeUI0MGlRNjhTVWIyQS15YjFjSjJBMlNZcGVHYWtwaUpNT0FYS0szV0c5Tk01eVUwdW5ES3JSMl9IZTVueWhyRGFVZWpBZW9ISEZMNDhJZWdnLVEwemoyUmlYckRtRjhHUU1vN3hmNERWek1XVnp5Q0V0ejlmcEhBanZqdVhwRkRvZzJkR09nOVJaSEVHbFI5eHBzSTlaZXBGQS1wb1RMU3JRMlZENjJGTURaZ3pwVkx2cDU2WnNRcGV4bkNLektkb0JZc1ZmOGd1ZmFmQS1fWGE5SHFBdmd0X2w1N0tQbmFtOFhVS3Rra0g3eDdLUDNtNkd6alJ3M0FGWDk4YjQ0a2t4WFMyb2ZZbUZkNGRMQjA0ZmJTaHJsZXc4QjcyakU4TVU2Vk96TUdObG5IYmdiRWtsMWhnSFJqY1d0RlU0Z0pjd0tpWnZwd2tIR2E4TXlCNmxERE43enJVMjI3VGhXaVc4LS11TVc5bVhHYjJYbExyZVhERlczWHBCMmZTZ3NxcmxTdnhTV2txaThreWRrTUcyWUMyRVB5Y1E?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sat, 19 Sep 2026 17:50:00 GMT",
-        "discovered": "2026-09-19T23:20:37.476128+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "نيوكاسل يكبد هال سيتي أول هزيمة في الدوري الإنجليزي FilGoal",
-        "player": "",
-        "content_hash": "a1b578a697842ebb6ca040437501bceedbfe304a3ec2450ccfe0e1d85f047019",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 3185,
+        "title": "ربيعة ضمن فريق الجولة الأولى من دوري أبطال آسيا للنخبة - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxOcXBPY0pfdWdiZDBaRTByRDctRkxrUmMzSXhJcjllVWVHNDItMFZUM3hYcHJucHAyQ05KUWZEYWkyYnBaSmx4azFrWkR6VkJZVVZicGd1M3VIZmRSd28xTWVVRGFXV3MwZ1MtT0N3c0JuYklmYUhtbFVVZjg4aUt1SjF3TlpsQjlMNWlQLVRKOFg0M25mMjMtTFpxRXNwbHZHV2FKZVJZRlBYT3Z0cVBtMnRXNl9jZ0tWZVAzYWtLbG8tRzVyd0dwbkF6ZDNrblBhVTZheFl1WEh2X0Rld2pZTUtlTldNeXItWkRtTVpVSXJDbkFnV2hfVHBrTmZNUGp3bm1RVU1wZDdzQnBjMGNtTDhncWRSNURRTGlJSmlDVWZBTm5uLVZ4aDFtU2FNZEI0UTd6UEllNDNLWEtZb0NNR0tMcXRZUkJ3aml0QmpRckg5em5WcUdZTG5zTXpQUDVhejdHTElRUmRzZFRtczdRMGdFUlhoRTV1WEx2T0xJWXZ5Tk1pVTVWTVNsQU5xdWhjLWlDZnp2SDFBdzlqM0p3TGFxVEZ2MEVFR2wyTHloTWZZazVlNVRtcVZmeDd2dV85Q3BiemlB0gHLA0FVX3lxTFBwVUVLcTFsZmhpYTc4UXpSNkdPdExrWUliQ2JkMTRhZE5aenJRWUw5QlV1bE8zUTFNd1ZOa2ZxZzRGYnB1NXgzaWw2VDkzdDE1T3lfenFtOEdYMk05NUdfNm40TnhWNnEtSUlGdllIempPSnVTNGNFREJYRks4b0IxREJURldMWlQxVFZjMEYxeUp5eHpKLS1CbHhzaVdtVGNwN3lUY0xVYnotcWtQN1cycFhJUTJLUmFhVHFRSS1rdENmOEtxOFFWSWIzWTZhbEVlV2FlM0dwLVhyZ2JES2hzMEpJWURhUVdoekp2Y2ZiazFDc2RlQjdwaDJuYW8tQjB3SUhrWlQtYThfZTVtUjlOSW4tUHdGYWttLTZPb0thSXZIR3ZkTUQyQVpoTm02M3Y3ZUFuUFZOakZDNTZiYUk4eUlqOG9nTEc2NkFOanNsTEEzbnY4T3ZNdGlEc0FvcWU5VC0taW8wTmRmcU5hSHdPdEdwM1d4aTZFYVZGb2pseFI1aXlTbU5JRVZXOG5mVU1Hd1IxaUxFVVdBaUMybG5WLW8tYXRpLVY1bVY5SDJ0Q2NmWV9OZDBuWVExWmp2VmJxWHNsZjJfUTBhdw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 09:07:00 GMT",
+        "discovered": "2026-09-20T09:19:55.627769+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ربيعة ضمن فريق الجولة الأولى من دوري أبطال آسيا للنخبة FilGoal",
+        "player": "",
+        "content_hash": "4f57ed6e79f0c07e9ca99733354c6614a40251a8beb33f91cff4c2d2349aec4a",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 3180,
         "title": "زيدان يوضح موقف كانتي وبنزيمة من الانضمام لمنتخب فرنسا - FilGoal",
@@ -1028,6 +1044,22 @@
         "summary": "\"أوبن إيه آي\" تتوقع تضاعف إيراداتها 10 مرات بحلول 2030 العربي الجديد",
         "player": "",
         "content_hash": "778cba50d74e649e27b5ea9024393ad811be4da2e5a2983bc72f65846f586f85",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 3187,
+        "title": "علماء يتوقعون انهيار العالم وفناء البشرية قبل نهاية 2026 - العربية",
+        "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxQZ0VBVTMxQVZxVjg2SnNFRzQyblNiSnNGM1c5bGFucGRxYzRaeDVHMEkydC1mX1ZoMDJxUVotYkE1N1ItTHdHNHo0dHdwNGFRTlB4QTliNTA4eTROcnFjRGdoN0h6NkpwZnhRRXNscURmSDBmWDNzYkhaTVV5TGJqZjk4YzliTlVldlBJaE1RemxYX3lfN1J5UEpWVFdFMXZZdkFGTFlNQWJGRmZLV3J6Rk5QSkRFcTB0bFZKX0N3QXdjbkhXT3Q0NTBLMUlGajUwdFdKLUdwUzgwdEc5UnZRREtRVGx0RHlwQVQ1X1BVcWZ4WENWQklxX2FsX1A3SXFNQldZUm5tal9VSEVacC1LTUNfYm5zRGlnWlRFbEx6UWFsb0NSZjVnNEMwVmJ3WGoycDRwNWZUenNfMm5wdE9nTjE0aWEwSkxwXzc0dHR3UjdxcWNUcTVBNGtUckY5dnlVdjQ0RzJCZnNOT2NPN3RoRXRZRVZvSHJvLUZlNkdRWjV5cEtKb1Flandtc2ZSdnJXd3RBcUNBOEt6LUxKbGxWUzhSeWZsa3BTaXdfbHAtc1g3UThldlM4VVJWYUh4blZ0YnFibzk3WEzSAc4DQVVfeXFMTkd1RGZRT1BFYmZ1cGc2M244WlV3Zk9KSkZpM2RoRVdQUDVmam9vT0p3WjN4RzZjRnVKMkN2bXpVYnZnMjJCSU9zSm9kQ3NoZnQzcDlHazdINkpFbzFhUkxYNlBTTGxHUmV3TkNuMW9ZXzFZSkYyaldUREtwUzRpbE5lNDJHV3VYTGxzNHFva0ctVEJEZmRZX0hHRWZJdm9lUmpBOFZ4aTNtUVZuaEFkX25pN0t0VUJmZ0p2UWdDVW96cWlxaTNXNGNjRVZ1dlN0ZlI0RTV5blNucU1sTTBwUkpOT20yOXJYeHJWUklhN04zVTRpRXcxaHZnVExZb3oyVGFha1RIZWJqTElVSlRqTUlvNlpDd0YwX0hfZ2VGZmtSOTU3X3RIT21lQVhhbjQxbkV1NDhUOTRjeU1vTlVxaGhxT09iNVRWYkpfNHZITVBCQy1XbllrU0o5YWxITnF4Z0tZWkVoSldQN0pDdWlNMnNxYnk1MVFVZGZ1SE5TM3BBX05kQ2t3cllXUTJXV3ZMbkJuOFdBaDJENmI5RGFFU094UGgzSDN6UHZ5QmM3TS1yM2ZmaHZrbEwyVEVRektLTnpGNTZVU0pWNDQtalJR?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Sat, 19 Sep 2026 10:51:00 GMT",
+        "discovered": "2026-09-20T09:20:02.433875+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "علماء يتوقعون انهيار العالم وفناء البشرية قبل نهاية 2026 العربية",
+        "player": "",
+        "content_hash": "a8e4c38efb9feb9f3200c9a85576b34303ca9831d47bad68ccca6b7283f9a928",
         "sent": 0,
         "section": "transfers"
       },
