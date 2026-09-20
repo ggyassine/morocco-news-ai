@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T19:38:24.734272+00:00",
+  "updated": "2026-09-20T19:47:34.713264+00:00",
   "total": 113,
   "sections": {
     "morocco": [
@@ -310,6 +310,22 @@
     ],
     "sports": [
       {
+        "id": 3438,
+        "title": "حمدي فتحي يغيب عن معسكر منتخب مصر - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPbk5pQzh0QWpOSURBN1pLZHNXb19RS251SWZEVi1DZDNkMTg3U3M0cUxab01BUDl3UU5TTUZZZ2duUDNQOU45QmZXTHFURXZDaFJONnMzZWF0czJVX1A0YjhzLWxSVld6QlNZNlRUc1RMU2IydGkxUkEtREVCMk1uMThUeFNKRF9BVlFDMGdBTmRCV0hldTdyQVZZd0QzODllVUVkZF9mRlNoelJ5WW1mMmJ6LWNLVGl1TFJkeldELXlzSy01SzRVSmRoMmp5SnRGc3o5SkhKUXh4UHNncTliUDVtRTJ0SDE1TFF1b1cxU1RrcUxOV0JJT2hXM0xhMG0wV3g0ODItRy11Mm5UMmxsRmlmUmx1UlMwVzFSeGUwdkZqcVk5Y1dtbjlCbjVYUlVCQmfSAbcCQVVfeXFMTTNRNHlVWmZxSmFyQjJBX0FULWZxQzFmeU1LYmU0Tnl1SG1uNVV5QjFnbHF2bm80cnAxb1dneXVkNUZXdzVkNVdoUFcyU2VjblRvdWpOUjRtU1Q5eHJkTnhWay1NWU4ycTZyVXdLQVRrRE5WWGh6TWlVcjFicEFCOWdUb2RHNTNJUWI2MGVxeF8wRG5jSG5tc21qSWJDRUE3bVJGa1NKclJ6ZnJNYk9SVW5KQmxVWU1EWl9GSmJiNmpUQUs3MFgwWktrVmw0MnNUb1FFcm1idkxMQjhVYnYyTXRwTDJ1cm8xM3BxUk1fWjFKcE1Ua2xfaU5TMkhQd3h6QlB2SjNnMVk5WDhDMF9XQjZlYXNGQU5IWHBpajJvWnNUNS0wWV9Qek9BOVF5WDNQVVN6a3RBSFk?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 19:43:00 GMT",
+        "discovered": "2026-09-20T19:47:19.987170+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "حمدي فتحي يغيب عن معسكر منتخب مصر FilGoal",
+        "player": "",
+        "content_hash": "06fd702f8c99904b6ac54f9de336a9414239151609e9b44978eb5d7e9900e582",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 3435,
         "title": "المنتخب المغربي لأقل من 17 سنة يعسكر بالمعمورة استعدادا لـ\"كوبا إسبانيا\" - Febrayer",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5fX1R4WW1qN3VVX20zQk40NXh1d2VvdnFtelc2RldoMTJNc0daX3p0eXJfZGMzeGgybndfQ281aEVmdV95RzVURg?oc=5",
@@ -322,6 +338,22 @@
         "summary": "المنتخب المغربي لأقل من 17 سنة يعسكر بالمعمورة استعدادا لـ\"كوبا إسبانيا\" Febrayer",
         "player": "",
         "content_hash": "76e1ce290b723a1c6c5e1d89b1282ee244fee0f200794b7db90cc35f8cec8b37",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3437,
+        "title": "أخبار | خبر في الجول – اتجاه قوي في الزمالك لمشاركة الناشئين في كأس عاصمة مصر - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMimgRBVV95cUxNZTNkNW1NbWtYQ1dYRkhoNHFPcEZ3a3hBOTF3c3F3ZjVSRVNPMTdneDNWYkg0cUwwTldwQmFtcGNSYVkzUzlOZS0yMWFxczJMazFWNmFvYnUtX2hPQWxna2lRdUxDTmZ3a2E5aHAwU1VwVWozYmJTWHppLURfMFZoeVRwRGN6UXJDNWxLOXJYalpsTGVZR2tpcXRTdEZBb2Vzem1tN3VYRHg5Q0NiS3ZXc2MySTRMYmFZZEpPV3JVWHpkX1NTZ2tEaFdDbWNnTXRxdWRScFhaTVNFU0hUUXNBS0JDeDJMd3JhUzRfcXlXT29Pc0V3anIwVy00MFQ0MGg0UThkU0RvdEVQYXYyMm90Tkg4dk9FRFVZOVNCLVhyMUttQk5pYWJlSFBHSWppQlRyTHpoS2xoMXA0QW1CWkhvX0dWQS14RzhXdU9zRTlTaS1XYk5Benc2UFJiU3psNHgzSTdjMmdxUDhJWlZOODFvYUVmTGF1enU4WUtDQy1jVndvZ0RqUGtuODZKQkNkT2lrRHJOdVR5MmZHUTNYVm1DazItUHB6NXltMDZ0YXlWMUV2Rlo4WXoxT2hFS2dxN3JhUXpzTU1xZURRNXpQdWRZV1l2ZEpVVURGMF9LY1VmaVN3SXN3S280Yy1oQ01xeW1LdHk3NmpzcXJndTU5SnpPSVZDZzZGQnVwTzF4Ymk0TWxicnRpcGxaSVNn?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 19:34:00 GMT",
+        "discovered": "2026-09-20T19:47:19.974842+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار | خبر في الجول – اتجاه قوي في الزمالك لمشاركة الناشئين في كأس عاصمة مصر FilGoal",
+        "player": "",
+        "content_hash": "26bccf0bb388dc39b07f787cdf91ad9c46e1103a749c22053c5d1e6c3ced9b9c",
         "sent": 0,
         "section": "sports"
       },
@@ -1074,38 +1106,6 @@
         "summary": "لقطات من مباراة مانشستر سيتي وسندرلاند (صور) يلاكورة",
         "player": "",
         "content_hash": "12867b7fb7f6b988ce094b69b6f24277702b56b12e035e8c7d2f2c7caa77d3ee",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3357,
-        "title": "مدرب إشبيلية: خروج رافينيا من أفضل 30 لاعبا للكرة الذهبية غير مفهوم - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxObjBSNkN5MjJUYXpBVHVDb3lHWWZSeThucExWYVJQZ3lGMEVmYXdINXRIR1ZDVXpvY1VIdkJfRVJpZEhZMnp2NTBEcUZDQXNvRngxeDRHaTFmeFJ6WE5YYnl6R2Ytc2R0bmtPd0ljNGFRU3RtTXZVOGpZZXl4VTMyVUl4SGN3U245a1BPSGI3eTV2NEN2a0pSNVFya3hlS3JKa0tENGcwU3BIVktsaVBmbFA0Q3pzdWQ3c3R2cDl4aHMxeGhkLVMtOUN0aklacUp0T3dNd3IxZTV4anJfTkI2NmRjVnN1QVljdTUwNmVodmx0NTkwZlVLbkVra252d0I2Nm1aOGF6ZUN1QjlfZ2ZzUG9TYVhpVUE0VjhWemk2eHpfZkU5d1lUZlNYQkd1ZUpKbnViX1FmVXpvRDFRem92ME12dU5EeERfVEp6T3lBZkZ2UkYxaW5jSENtVXA5bjlkSHh1N2FmUkFkcXFIVWp6aWhaRjBndnlHc1lxQk9UTDIwWkdWUEw0dVRxdF9ScVJ3RVFCWG9MQkhzdGFDRkt0RldnOU9HbFBCRDFabnc5bWVMLXRPejV2cjduc190YS1HTE1TRXNGTGg0Nk9DaGo3UDN2T0RleU8zdWowMXBYemN6bkl3TnZPYVVNX2E4RTJNdmFWd1p3ZWlKbzEzNldPM1A3MlF2WFJ1SXFr0gGQBEFVX3lxTFBaZ0JJYVl4NkdocENkOENpemd3SnJzaDQ3bXRKUEE4Q2U1VlVuVnF4dGpNc2g5cmlDelZNNmNTdXU1cXkzcTl0TTdLTEllMHVxUDM4ZnhKSktSU0E4LWpuMnhhbFgwa0FHRV9aVVZydlFFZVlNVEF2WkI4WkVOM3luc201OGRtWVpYLXI5cmJRMXQxOE40bzd2REMyMnNGTGJSM1IySkdPb3RJQXBHUmx4TkNxTGMxbVBFcmk2bTkyRUdwWkFmTDJkQ2ZncElGWUR2NjNVeVRXRnpxcE1Na2FyZzg4R252eThNUVJkREdZSVp1S2o3RWNFNlllbldsalJPWXZWdUJ1LUJxaXI5ZV9iOUxYaXA5QllmMHBON2wxcGtvdUJJY0NTdmk5MzJtTVJIS3VRb1BBOW1iNGc4RG9kekRJNXIwR3ZqSEg4Wi1CX2F3Y3ExU0RiN1hINWhaWUpySmx6SWNUWC1waHYxTmFITHBVMkJwMVVPWTdzRUF6bHNSQWtPSDFDdlpGaWFhYTluVkt1a1lxN3JxYk1nZkZNLVNCSWs1WXBuaTIwalZZR09HT2c0Tl96TlE4NTV1NEVoMVNIZjJJUFBpX2R3ZmVTOG8xMURUMld4SldXZTJGSGlWSkJLRkpueFJLQXJvU3FJZjc5ZlVDWU9BejEySlZxamVER0Y0bWFpWm4zQXVYag?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 15:58:00 GMT",
-        "discovered": "2026-09-20T16:18:34.979287+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مدرب إشبيلية: خروج رافينيا من أفضل 30 لاعبا للكرة الذهبية غير مفهوم FilGoal",
-        "player": "",
-        "content_hash": "bc6d096052172a6d7fb8ca580eba2cbb9fde687883b8fa1b332f1e353a2c27e2",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3344,
-        "title": "سيمينيو: ماريسكا لم يكن سعيدا بين شوطي مباراة سندرلاند - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxOd0k0aF82Zk91MTVIU2dzSWhkN2Y4U1U2VUdjYnpYRlM2eDVXc3FQVHZLaDFFbHlZNlZ1a3BqQzA4aDg4ZllmWXR6VUdqelBCSE1Tci1JM2RfVnNQb0dkN0pzTzJCTTNKczNDbGpuLTNSQWJjdlI3RzRuc0dLN1pSbmx5YjB2alJoeDdNeThpMnBiLVFwbm01QmsxTEpYWlFieEJSZzlXa2Z2amtpeTJNaU03UTlpcG9adVVwWElyQVZUeHQtTGVGQ1Frc3hXcHhLVWRXMVFORW1YQjlVUGkwaEFDNXJzc0FKZnlmWXJpbGlHYUpHZGpYblpIZzk3UllFWU1qb1lVQzBadEhxZDJrYktERklWZmpoRmNFa3EwS0Q2ZWpSeHlVbFRjemJHZkhFaE8xd2dqTzkzTURNaV9EVHlfWExIX1doUjJsekVYQ1FCcW1MOG85aXVlTFk0bE5WQUJDNlU1S2VuYnlxVlVGZDZyLWk3TlN4aDV6T0xKRVBsSEp1UW1aY3lXck5XZHR1ZVlSQ0pwX1RWZU4yeDdhaXBTZmd0TjVtbm1nR1o0RGI1OHRaSXIxOW9hWU1wcHhXa0Z3aHg2alJnU05xblFHckd5N0FJRFNuejJDUUVmU3jSAcoDQVVfeXFMTVpQV2VvVGxRQmRRY2dwV0twcnRsSjFycHdHRTFxQjF0VFA1RnNOTkdMVXVRcllWc2lweUZQWkNvX2lCbGVzMVBSNUJsMkxhTFh5WjBhMnQ4UE9DOEhvb01iSVQ4MlNTemgzUkpKeURIT2RINkZCYVVxZkp1ZF9WWGJIOWhVR0xlZy05UWxhcDBXaHF6UzJmbHR4ZTlLeElrT25KSDVpWDRvNmhIb25CdE1Pd3lhbWdIUHdtdEZwOHBZenhlQl85N291MWcyZFVuNzBkSzZnbHVsRjZXbWtLaVI3RmVhZWVaYnh4UDE5YmxlUmRxWi1XUkpKeUQ5b29aS3JkOGxBVW9QeXQ3akNfNXlyS2xudnlKZk1uZDJGREg2aEQ3ZkVTaFZiMXRUUlZ6cDJXR2tQSHZWNHpnbVp6d19nQTJXajJuNmwybEhCS0NueGpPdTNFRXV0Vl9ZaldkR3pPMk5nZVVfdktuWDMzZWZVRHp3eHVXWi1nbWxQVi1qNG9WQTZpYVQyTHFVSHlheWRJdzNEZ2ZZYUZ4NlZWOTRZNzVJYnNsNHlpbUhMdC1zOXFPX2MzV3RHTHpoQ1JrdVI1eC1fejM3Nmc?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 15:46:00 GMT",
-        "discovered": "2026-09-20T15:52:27.597792+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "سيمينيو: ماريسكا لم يكن سعيدا بين شوطي مباراة سندرلاند FilGoal",
-        "player": "",
-        "content_hash": "91870aa69885247505853fbd63349a6be920f132a111565fbab43bb53a09e54d",
         "sent": 0,
         "section": "sports"
       }
