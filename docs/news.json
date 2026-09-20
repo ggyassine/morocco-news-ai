@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T10:18:15.214584+00:00",
+  "updated": "2026-09-20T10:31:05.707601+00:00",
   "total": 93,
   "sections": {
     "morocco": [
@@ -133,6 +133,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3220,
+        "title": "بوبيل: سنقاتل للفوز على ريال مدريد.. وسنحاول التتويج بدوري أبطال أوروبا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxQSmxmTjlWRndfWGx2RHhmMkVKRUs3ZVB2VmRaN2x5WmVJLUI0ekRaeGtteW1WZTFrMXVDa2NZQVphUER5SFUxOUx4a3dvQ1FwXzQ1R0RWQXVYT0dZMl90VmR4V2h2RDlXOFJ5QVRkclNGSl9iMVhGa3pSSnhDT0g5NjBwZDIwSVREVktMYlVnMG9JY0lmbHJkR2NtNExvSzFia1VRUVpGWTIzMEladHBJYlh5R3ZWTUliYnRwcGd5cXZ3LVdwS2I1c1JhOW5Pdl90QTc3WkJpdDZqSGU3NEhlN3J6MDdxdVd4NnlhRl8zZE9oTEFoSThtUkRUT1NsbmNvWEpvQTZNdVVBem5YNXFwVlJvZGtUbHB5aGRlVi1yakRwV0RGTk5FQ3NDaWdUdmFMNDVnQkVLNl9ZUDZjejVEcW9xRF96SHNJUVNLTWwycXl6XzJJM21FOFZabTdzWDM3M3pLcEh1dzk1Y1JlcXVaclk3RExuRGFXM1d1SGNJZkd0dmQ4cGozd2kwVERTMjFDcld3TkxIQ05zcnZLV0pra1lsTHZOMmt6bUJremJGdmFkVTZWMHJoRTctVlZSNnpkWTdwM1g4MU1UTm1aSFdGcjF0TzdmQ2RnSlA3M3BWNGRLZ09NR2ZoMzBYN0Q3WU1FZ1JZczZNX0lpWmtXOFJ6VW1WOTFVRGoyMTNSZGliUWRUdzJ2VEFENDJ6cTVGQUZ5ejcyZXlKdUVGNWM2MVZ30gG0BEFVX3lxTE9WbkloZ1VnblhRX09sS3o0R2lPM2o2VjQyQjNteGwxLUNoWWQxb1d6Q18ycXdNWk9heUhoRkRnczJBV0NaeUtiS1NYWmZMV1VqTVhBd0pvRkgySmg1VUpLU3lLVnhkSWlub3gyeGNOMWpOUk9tRllqVVVtOFlpVG5rOHFTOEhXb29ILWlKTWZLTVJ1bWFzSGtHYm83MjhZSGFHajFNeXRYczFhd1ZIRDdXR3NTUGZxNENsdktJUEowRnpJVkdvWkt1RmM5bHFWSTRVQ2tSZm9zc2RDUFBTdzl5Q2c4T3IzaDVndURRTnBMTTJQMi1NME1TQ0pCSGxyMUFQbnNOc1NJbDdxYXk0M2lEQkZEZzg5N1BLT3lGUlRGT1FhdjRJa25sZVF0UERfTzlkZ2tXaGR6bjN0Rk1OandsUDNEd3dRYWZkanlmZnpRVkk4WlBxVHotTDB5OURhdFBvaDJyQzMyVUtxdnZFRzNESE1KaWJwRDN4SkVsQlhGTnJMaXc3Y1ZsUXU4ZW9CU09oM1FnRzVkOTZmVEFHNzBZZElvejBvM1dIbEotQTJpU2lUUElHX3AzT0E3TC1NY2dNRk1KUXJLdFNuLW01Tkt3N2p6WHhwWV96bXJhUUxxQ1U5TDNDQU9iVlFDd1ZMMlRsM0xjb1pRbU41WE50Rk1WR0pwREw5dGJ5SkktZDVTbm1ZWHlVTlpPS05SUzdvZkxubHJCS0xVRjh6UVZRcGpsWVNWSA?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 10:16:00 GMT",
+        "discovered": "2026-09-20T10:30:52.048410+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بوبيل: سنقاتل للفوز على ريال مدريد.. وسنحاول التتويج بدوري أبطال أوروبا FilGoal",
+        "player": "",
+        "content_hash": "84fdd85f605a172f2726409d6abd454b5c8a552292159517618a80d01360ad85",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3199,
         "title": "رامي ربيعة يزين التشكيل المثالي للجولة الأولى بدوري أبطال آسيا للنخبة - يلاكورة",
@@ -914,22 +930,6 @@
         "summary": "بعد هاتريك محمد صلاح.. ترتيب هدافي الدوري التركي يلاكورة",
         "player": "",
         "content_hash": "9889b418ebdbcd34d86281a4815fd483ac00c1b0809c4ad28d9c4167dfb7665f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 2949,
-        "title": "الترجي يدعم خطه الدفاعي بضم الجزائري آدم عليلات - الشرق رياضة",
-        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNM2RRUU5PdHhyd2ZyTFUwZy1KckJDVUpVc1lkLXd0S0ZwVkc1eFc4U1hLRE1fUHFEbTNLT2R5THlkMGszWE5MYUZTWFVZTjBJMnlaQkNyMk5QdFRFTjRLSlVJLWdQSXVjb042WkllQ1Q3NEJ3SG40X095LUVZUWtLaUIxeFN4Ui1JRTNBV2JKTnRYZ3EwVFgxNjBSV0phZkJFcHpjcVplaC1wdC1IQW9YM0dNS1RkTzdpcFpYYm9OSUlBeEpzNjhmS2xCS0FOcVcwRUVXLVhCR2cxbGhPU1VRRy1OeVphdWNIa0ZLZHpPd1BFbnppeHJ0NnpIakFGMHBmUk5LdEdwUWlWVlBPaUdlUTNQeVpsM2cxYkVpTmN5NFlaOFZpbGhJdF80a01SWWVuenlkcU5tdVp0SVZWeEJna3NvaUNGN1VHMW95OVBLN1RhTXU4cVAzeFR1Z2otN1A2S0NvQ24waXNJSGtmUnJ2V1dvQVM3bTEySWlfRnMxM1c4WGc5Vks0RGhjd0g5dnF2b3BaU3RnQ0pDRmNYS1dJQmFXX1Q?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Sat, 19 Sep 2026 18:32:12 GMT",
-        "discovered": "2026-09-19T23:30:16.940357+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الترجي يدعم خطه الدفاعي بضم الجزائري آدم عليلات الشرق رياضة",
-        "player": "رياض",
-        "content_hash": "1b6817d50dcf156ff6689d7b977b0da9dab25e527521f4273b2ff65e2bf16614",
         "sent": 0,
         "section": "sports"
       }
