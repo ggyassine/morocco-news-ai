@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-20T21:18:54.110964+00:00",
-  "total": 115,
+  "updated": "2026-09-20T21:31:06.485536+00:00",
+  "total": 117,
   "sections": {
     "morocco": [
+      {
+        "id": 3488,
+        "title": "لقجع يهاجم المتباهين بالإنجازات: اللي دّار هو للمغرب واللي تيربحو هما المغاربة - kifache.com",
+        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOMG1vdWJtclR2RW9ZVF9WQ0Z0M2N1cWhsVG9sZG8ydmREV2JfbVdtcHdXRVVMeVFwYk1ISzZSeVRxVTEzTUx4Q0NMMFRIYU5GUkNMZzE3bjlJVllRRE1WMFpSUTVESWpCRGlrLVkyRG1kanoxcThqZGIyQ1kyUVJJYTZadU5LVFFUYmREbHBlRnBiczVQM1VoVnQwelQwYzV1bHlra1BLVzYtaTVoa2xLM0R3TzRhUkZUWjZpSTRLQmlPZ0pDYlJRaG5zc2pyZEticHJFVlJxVzNOQ1RndUc3eDlHaS0teEVfdkUzOTVMeGZZaVlUVzRJeFJKZ2NXeHBGX1VaYmR5TFEzOW9JRVpwanp0YlJRN2czYnRteWNPQUc1V0hRQ05LbWVVOTNtQTNjOFlCanlmWHlHUGdKLVE?oc=5",
+        "source": "كفاش",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 21:20:49 GMT",
+        "discovered": "2026-09-20T21:30:43.622199+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "لقجع يهاجم المتباهين بالإنجازات: اللي دّار هو للمغرب واللي تيربحو هما المغاربة kifache.com",
+        "player": "",
+        "content_hash": "6dba6203a6504e826b74b8017fe5dba3ae42b653307396674d342077cf0ec0a6",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 3407,
         "title": "المنصوري ترفض الانجرار إلى سجال الانتخابات: فلسطين موقف ثابت وثوابت الوطن بوصلة «البام - Le 360 Arabe",
@@ -662,6 +678,22 @@
         "section": "sports"
       },
       {
+        "id": 3489,
+        "title": "أخبار | في الجول يكشف سبب عدم قيد محمد أبو جبل مع المغرب التطواني - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11NzNFVVl2TDRJazJyUmpPN1JYQ2JucHd4SXhOV3I2VWhxTkNZWmZXT1JXS2cxSC1Vdk1pOTlKalRGOER5WVhKakhCQXJFdlhm?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 19:43:31 GMT",
+        "discovered": "2026-09-20T21:30:51.786380+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "أخبار | في الجول يكشف سبب عدم قيد محمد أبو جبل مع المغرب التطواني FilGoal",
+        "player": "",
+        "content_hash": "263ade7024726a98d79fb882b985058655e903027abbc97cee78b7ef3c8acf6f",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 3438,
         "title": "حمدي فتحي يغيب عن معسكر منتخب مصر - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPbk5pQzh0QWpOSURBN1pLZHNXb19RS251SWZEVi1DZDNkMTg3U3M0cUxab01BUDl3UU5TTUZZZ2duUDNQOU45QmZXTHFURXZDaFJONnMzZWF0czJVX1A0YjhzLWxSVld6QlNZNlRUc1RMU2IydGkxUkEtREVCMk1uMThUeFNKRF9BVlFDMGdBTmRCV0hldTdyQVZZd0QzODllVUVkZF9mRlNoelJ5WW1mMmJ6LWNLVGl1TFJkeldELXlzSy01SzRVSmRoMmp5SnRGc3o5SkhKUXh4UHNncTliUDVtRTJ0SDE1TFF1b1cxU1RrcUxOV0JJT2hXM0xhMG0wV3g0ODItRy11Mm5UMmxsRmlmUmx1UlMwVzFSeGUwdkZqcVk5Y1dtbjlCbjVYUlVCQmfSAbcCQVVfeXFMTTNRNHlVWmZxSmFyQjJBX0FULWZxQzFmeU1LYmU0Tnl1SG1uNVV5QjFnbHF2bm80cnAxb1dneXVkNUZXdzVkNVdoUFcyU2VjblRvdWpOUjRtU1Q5eHJkTnhWay1NWU4ycTZyVXdLQVRrRE5WWGh6TWlVcjFicEFCOWdUb2RHNTNJUWI2MGVxeF8wRG5jSG5tc21qSWJDRUE3bVJGa1NKclJ6ZnJNYk9SVW5KQmxVWU1EWl9GSmJiNmpUQUs3MFgwWktrVmw0MnNUb1FFcm1idkxMQjhVYnYyTXRwTDJ1cm8xM3BxUk1fWjFKcE1Ua2xfaU5TMkhQd3h6QlB2SjNnMVk5WDhDMF9XQjZlYXNGQU5IWHBpajJvWnNUNS0wWV9Qek9BOVF5WDNQVVN6a3RBSFk?oc=5",
@@ -1108,25 +1140,25 @@
         "content_hash": "6d0fe0cd1bb7d0732465ce1920b21fec219a8718916d93686f1a2900b4619186",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3475,
-        "title": "بمشاركة عبد المنعم.. نيس يحقق فوزه الأول على ليل - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNMTQzcGJJVVZWRXVLVnhlbDZTVExINDZlU1lRdDFsYWZSN3JMa1pvYmlQbEVUTC13SnA3M2xOcDVHSzJKVUJQR2RiM1pqcXFlVm1lX0Q2RUt1YmJVUkdmUk9hTWNOSzF2SkF5LUVITV8xZ3VNZ2NBWGxYaVFzRURFV2dxTzJEa0ZTa29id19URjNlMGNpRFpVNlJPaUpObnFHNjFQYUJmbHZUSzRkTjVXRG9rUlZUcXRkYm1BRWhRQklZbTFwZlZNMXBSOURWaXlVVEtGV0lCZGxZdGI5bWhTWms0U205R2hOaVZYVTc1MV9EdGNzY3RRQ1VMVjFueTVMWGNkODQ4dFRCMVJnLWppUDlpTHF0dnplZzBqb19ITkRmdWlqekNUZG40X21hcndfcTFyVEJfZldEcFdlNkFnV1dQbmJCeG51RWhteGk4TU9NbnpvNERYVWlWcXdnTVhUbFc2SnJLRXJScEJKemNJRFBNTDBTQ3BnV3F6SVBCRFNjazJPaVl5U0JPYlLSAZIDQVVfeXFMTzlmaWd5R1c4UGlVQUhXU3FYR3JFcTEyWWRzNHNORmxPTFBGQlZoZkZlR2tOVG83c2ZCSVd0MVFzSV9BX1NwdElnbUV4dnBwYlZSdnFiQkhYNmNWbFhNWEZVQWl6cFFQbHNKdDZjZDFFZU9OUFl0eEw2cGlhYlFTUm5NcGx4RG14dlg0SUp4Uk9WOHdQZXBNZ3QyeHQtYl8yMEFKUXFLUG5Ra1pyWkpXTk5oUFhXMm1NaFhsb3RSUklHX0NUMnlNU2xSd3dNbmw3WjBSamtxUjIwU0lHTFRzMHZSZlJENzUyRnBkcmFqY2RYVm11V3d1c3hiMzZVbW9wMEpyaXNodjQ2bTNIbGVFYTQ4V2pTRlUwemdkSHV3T1gtMmg3T0U1cENIbC1JV0s0ekNLVmtudE1nTWZnYzNmSmVNRmhGWUgxSEpQeHUxaHU2eTRBX0ZUQjQwaTQ3Zjk2eDhCOFgwTi1fcDJyTldrNF9mVTl1OHhOWU5MRGt6REphd2ptNHRuZnNSOUR5c21pNlln?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 17:28:00 GMT",
-        "discovered": "2026-09-20T20:53:21.278993+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بمشاركة عبد المنعم.. نيس يحقق فوزه الأول على ليل FilGoal",
-        "player": "",
-        "content_hash": "8b9e4e8ee670d97563184f3185071e270f694c7b5332519491ee0f0da7cc11a8",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 3490,
+        "title": "توقيع 5 اتفاقيات عمل بين شركات قطرية وسعودية - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQdkVhemtmOTctSENaNWktRW55cEhwNFFZeVFmMlp0VUxtSFc1S0ZzczB6c1UwRFJ0MGtQTlRUT2hWLS10amRPbVRpai10QWFLZmdxTjVycW5XMWJIdU1xLUIzbU8yWTlhRDhLOVhybXBNRDI4TExvMlc4QjNVdlZIUmhWSFYwUFVoeEN2WjFJMFBad2k1cXp5dmFwbG4zdFNMN3VqaXI1U21TZzVBT25yTUNGQ2lFQ1pJbk41N3Q2OHhxZkFRc0FCOFRTY2dLcEt2c0dJZTFCZk5PNTJOSERRd09WNzlJM3A4V05aWnFYWXVHRkluWXg4TllaQnpzaHFCM0Iyb0ZObjM5aGVwOFZmWERNM0t5dzZyOVVTbW9kVXAwWHhMWUdqQ05QanQ1LTZGb2dVbFlhN2lCUm5SeEV0bktnNnZ2WlVqdFdqbGF1LUlqSl9ZVW5wUWdPaTk4Q0dsQU5XQ3dkLThrUEVWbkludHV1TDLSAfoCQVVfeXFMUFlxZFdSX3dxd2NDQzNMejZhSG9DdFQ4M1pBX1BiLUx3Yjd0bzZrWlNiNTRnTHhTN3R2elNTVUwxMEZVWkNiVTZsOVRaR0YxSngyQ3FOc2tYWlJRMWtrdmd2Z1daZTA0TkdaeHdKOW0zQjRSSGVhZXpvMVoycThJNEN2bTVUNGtLLXFfTTRJQXhIZWg4aTBvWnNpYmRvS1d3UzFlaFZ1VDhuSFJsaDBHUWxUck8wZ3V6Zlg0MUI3NFhwRUZjRGZrV2FyLXJ6Y0JCaUZTc3NTb1diRnR0NVU5NlBZMUc4N0plYVVudXR0ZDhoN09BajltWS1lZ0ZybGlaZzVlR1JsNHhaOW5MNzl2d1MycXBQeXNJVElUbHVvSEROWVBVdFNfZkwxTl9rSUc3XzF5dGRmbmNNbk94R2pFOU5paFFVbnVFZFZEdUhibWRjeXU3MXQ1bGxtNmxVZkZDMTA1UDlBVldTMlFXM2N4dGZUMnh3LWloTVJB?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Sun, 20 Sep 2026 20:49:47 GMT",
+        "discovered": "2026-09-20T21:31:01.393954+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "توقيع 5 اتفاقيات عمل بين شركات قطرية وسعودية العربي الجديد",
+        "player": "",
+        "content_hash": "a18f80a0d9ea6a14c06beb4e96f6f17613921d9683035a2d3d065ff8585a54c0",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 3473,
         "title": "الرجاء يتحرك لضم لاعب جديد في صفقة انتقال حر - 365Scores",
