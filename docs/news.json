@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T19:47:34.713264+00:00",
-  "total": 113,
+  "updated": "2026-09-20T19:56:28.837606+00:00",
+  "total": 114,
   "sections": {
     "morocco": [
       {
@@ -48,6 +48,22 @@
         "summary": "اللي فرط يكرط.. توجيه صارم من الداخلية لرؤساء مكاتب التصويت فالانتخابات كود",
         "player": "",
         "content_hash": "cad13b264dd1675df61dcc4349ec8cdfc2cd09b3b25d21b3b0a6b4ca380699ca",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 3439,
+        "title": "ديابوراما: «باركينغ» جديد بمعايير عالمية بمراكش - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NRkd4bGQ2T1dJUG9tLTczdENDTWNPbnZ1TUwzSHFwUFFTeVkzZktjQ3dBZTZhQVJOYjNSSjdnblB4cWdlOXh2OV9rXy0weHExeVJmcnh6dWZCN3RBa1dCdkVxT0pSS2s?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Sun, 20 Sep 2026 13:50:35 GMT",
+        "discovered": "2026-09-20T19:56:01.925173+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "ديابوراما: «باركينغ» جديد بمعايير عالمية بمراكش Le 360 Arabe",
+        "player": "",
+        "content_hash": "5ef94bf88b646eb27b5526e0e8afe40908c7d56903bd4dba5a9ae4a2264705d3",
         "sent": 0,
         "section": "morocco"
       },
@@ -310,6 +326,38 @@
     ],
     "sports": [
       {
+        "id": 3440,
+        "title": "صدمة للفراعنة.. موهبة مصرية تختار تمثيل المغرب - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQckh0d0JRSWsyTTcxQnRJai0yVG1rZDRuWkRLWnBzVTNVbE5VODJRMUxoVnRGRVl4M2NTanNHdmlyVmtvZl9TTWxsRUk2dFdiSTFTTmg1UHVpRm9CS3V0ek5EbFhVaVhoNXJoRDdlZ2g0RVFpYy1pT1Vsc0s2U3FpLU5jNllHMGZqSzQtYXFZMHotclFsMkdhS01nUTg3aDJWMl9UOE5jNnNfSWpPU0JfX2gtbmhKUmFkcnM5cjkwOWxmRC1qUDMwN21SZmtDRlJxN2xsZmNNbDZvOG1lNmFweHdrTkFOUzNYcVE2bVR4eWNyUWN3bTlLM2ZRaFUxUjV4X3FLTEU0bXhMQTEwS0dCSi1aeUFnSXVNTjVyRF9ZVHpyaElNUzMwa0JkOF8ySXh0R0x2YkpONjY4U0NMUXVGNzRnUnNrRWlmLVlwMU0zZEJKa0loUE02aG5qM2VqN044Q1ZRWGFSaUYzTkxTV1ZmUlRkakZDWWhLTVVPUlJOZmh0LUNrd1pMbENRZ1NnM0RIQmdGcjFMWlpweXZwaHd1eDVtT3JlcVVIYjl5QlhQcXVQVlBXcGJvSDRuTVdtWUVJTU83T3RrQnNqTFp0UURsdG53VTItLTBUYXppdk85Y0p1TkVPM2dTbGxlYw?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 19:53:36 GMT",
+        "discovered": "2026-09-20T19:56:08.510584+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "صدمة للفراعنة.. موهبة مصرية تختار تمثيل المغرب Kooora",
+        "player": "",
+        "content_hash": "b67f40471bb115eb63a0a0c0e400ccef1d8fc666d27287c1f1336583cc3f340c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3442,
+        "title": "الجزائر تضرب موعداً مع مصر في ربع نهائي بطولة أفريقيا للطائرة - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxNam5lYktJM0FYQXhDQUlEN3ZyY2JfWWFFcVZueWxqUzRfSUc1THpFOEItcFVZMlFFVlRrUXpDRHNHQ09kLUhNNmRJU0RxSGI1ZTQydDYwXzhjdXVnbWQ3RkFfR3FDb0xUeVJ4cGFVTVRIdmRQTkstSllxV3FZUG8wWEhKdDRaSFhZb2xEWENTQ3J1QmxGOHVBZk1DbU9OY19sQjZrZnZDb3o1ODVTRTVid0p2cFV0bFlrNk5BWVdZeTQ1T2NhS1NuSXYxUTVJYWxpX1hpMGpUQ0E0OVhIcUJhTko3azJCSHkzdEM2VUZEQzBST05zaDhKa240OGZpdFlRS2NyOFpPNHZqNV9GNzVkT2R1MzRJQ3BtZmxHbGVramlRcWN2YV80b3RfSnVtYTJhbHZSdmkxbEZXZ2N6OTZiaEN1emhMdXJib3hKWXlXLVViYUNXX1RhM0UtRDNWeGFhRmJ0TkR5UVJRQlQxdmU0dXNBY3dWTFFOTzRyQzVpalh6UWZBTUVsZFVPMTBhaTFaQzVxMU5nbFB2aVNRckctSnpSUUM5elB5emdIblQ2YjlFOU9helRoQl9SNjR6VnNGSXNnNXY3V0M3UndPUUU4VHpGZDRoNkowRUlxaWVoRW5vUTg2cjlBYTh1ZUZNZ21kMTNmM0ZwOHAtblRHa1c2WXVKM2XSAaoEQVVfeXFMUDJDeHNySU11UC1zWDhRTHFIdDR4QVFxX1dMSXppUS00OFlqenNza1c0MjBuTU1xRXlHVGs5YVk1SzcxUjZuU0pUUDRxRmZaNjhiMUNSQThaUDZjRTZiZWtzekRDVWdibG4zcV9MQ01kWTZUSzNFY19aSHVaMFh1RkJKemMzSmZpVVZGZlBBMmdGWl82c3Q1LVhNeE1yM0FZSnF5cEk5bE0teUZHZ2RDWl9Gc2QtaXVOZVVlV3NfVHl2Q0E3R18xY0dVa3Vta2FDZV96cGQ2azlwX0FRVzR4UmwyNWVtdVpsRmowZWowZ0RkN2pseXRrU3c5WWNtTjQ2UFlLcUZMLWVKX29iX256WFYyaDVGV0xzWUp4RWFudUhhYTJYUTlqcDdiTlNyc0FRUk5UNnpXb1hFc3lsenBqREFGb1gyZHMzckI3dGVKcVVsVnJvUlpiNDN1bm02Y3c4MnZsbjJNWElGRlBkQ1NjUTVEWHB3clgyZk1Ha0Y5MGJBWWdlalh4ZzEzZW1wdzFOU2E5Z244Qk1ESEdHRFB1T3BOWUtKYkEzNC1BOXR6SFk1dUF2Q0xVWC1NekY4LU03c2ZrcmZEVW9YN3owd1dMSm40Y2hMOE1jOWE1UUt5VGsyaEs3dEtJdy1KbTh0VHZLaEpGWEoxdUc1ZnBheUQ4U1NVVS12Z19ZZC0wb2ZsSWJwcXE2NERZZE94cGpYLW80aUpRM1Q5eERPS2c?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 19:47:00 GMT",
+        "discovered": "2026-09-20T19:56:13.610501+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الجزائر تضرب موعداً مع مصر في ربع نهائي بطولة أفريقيا للطائرة يلاكورة",
+        "player": "",
+        "content_hash": "bf880c8ae0cfa66a5fa2e883d986c2db9feb11f9a2681c67f96f1cd8f9e2f7a1",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 3438,
         "title": "حمدي فتحي يغيب عن معسكر منتخب مصر - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPbk5pQzh0QWpOSURBN1pLZHNXb19RS251SWZEVi1DZDNkMTg3U3M0cUxab01BUDl3UU5TTUZZZ2duUDNQOU45QmZXTHFURXZDaFJONnMzZWF0czJVX1A0YjhzLWxSVld6QlNZNlRUc1RMU2IydGkxUkEtREVCMk1uMThUeFNKRF9BVlFDMGdBTmRCV0hldTdyQVZZd0QzODllVUVkZF9mRlNoelJ5WW1mMmJ6LWNLVGl1TFJkeldELXlzSy01SzRVSmRoMmp5SnRGc3o5SkhKUXh4UHNncTliUDVtRTJ0SDE1TFF1b1cxU1RrcUxOV0JJT2hXM0xhMG0wV3g0ODItRy11Mm5UMmxsRmlmUmx1UlMwVzFSeGUwdkZqcVk5Y1dtbjlCbjVYUlVCQmfSAbcCQVVfeXFMTTNRNHlVWmZxSmFyQjJBX0FULWZxQzFmeU1LYmU0Tnl1SG1uNVV5QjFnbHF2bm80cnAxb1dneXVkNUZXdzVkNVdoUFcyU2VjblRvdWpOUjRtU1Q5eHJkTnhWay1NWU4ycTZyVXdLQVRrRE5WWGh6TWlVcjFicEFCOWdUb2RHNTNJUWI2MGVxeF8wRG5jSG5tc21qSWJDRUE3bVJGa1NKclJ6ZnJNYk9SVW5KQmxVWU1EWl9GSmJiNmpUQUs3MFgwWktrVmw0MnNUb1FFcm1idkxMQjhVYnYyTXRwTDJ1cm8xM3BxUk1fWjFKcE1Ua2xfaU5TMkhQd3h6QlB2SjNnMVk5WDhDMF9XQjZlYXNGQU5IWHBpajJvWnNUNS0wWV9Qek9BOVF5WDNQVVN6a3RBSFk?oc=5",
@@ -338,6 +386,22 @@
         "summary": "المنتخب المغربي لأقل من 17 سنة يعسكر بالمعمورة استعدادا لـ\"كوبا إسبانيا\" Febrayer",
         "player": "",
         "content_hash": "76e1ce290b723a1c6c5e1d89b1282ee244fee0f200794b7db90cc35f8cec8b37",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3443,
+        "title": "خبر في الجول – اتجاه قوي في الزمالك لمشاركة الناشئين في كأس عاصمة مصر - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMimgRBVV95cUxNZTNkNW1NbWtYQ1dYRkhoNHFPcEZ3a3hBOTF3c3F3ZjVSRVNPMTdneDNWYkg0cUwwTldwQmFtcGNSYVkzUzlOZS0yMWFxczJMazFWNmFvYnUtX2hPQWxna2lRdUxDTmZ3a2E5aHAwU1VwVWozYmJTWHppLURfMFZoeVRwRGN6UXJDNWxLOXJYalpsTGVZR2tpcXRTdEZBb2Vzem1tN3VYRHg5Q0NiS3ZXc2MySTRMYmFZZEpPV3JVWHpkX1NTZ2tEaFdDbWNnTXRxdWRScFhaTVNFU0hUUXNBS0JDeDJMd3JhUzRfcXlXT29Pc0V3anIwVy00MFQ0MGg0UThkU0RvdEVQYXYyMm90Tkg4dk9FRFVZOVNCLVhyMUttQk5pYWJlSFBHSWppQlRyTHpoS2xoMXA0QW1CWkhvX0dWQS14RzhXdU9zRTlTaS1XYk5Benc2UFJiU3psNHgzSTdjMmdxUDhJWlZOODFvYUVmTGF1enU4WUtDQy1jVndvZ0RqUGtuODZKQkNkT2lrRHJOdVR5MmZHUTNYVm1DazItUHB6NXltMDZ0YXlWMUV2Rlo4WXoxT2hFS2dxN3JhUXpzTU1xZURRNXpQdWRZV1l2ZEpVVURGMF9LY1VmaVN3SXN3S280Yy1oQ01xeW1LdHk3NmpzcXJndTU5SnpPSVZDZzZGQnVwTzF4Ymk0TWxicnRpcGxaSVNn0gGfBEFVX3lxTE9FaWpJODNGMlRnRUhjMmlIaDV4bDBOc1UzdFhUY0ZKWHdwTlI3b2xSTVg3VkxvU0hoSFg1MU1YNEJxQzFhejBJUVZ1Y1U1NXNyZU5TLTF1THd1andDNmkxeEt0UFROa28xeERnYUpVeEx4OGJvRVlLXzlGZ1IwRTJBamhmanl0WjFoMTJUcFRxZW1zclVFZEdPUENHV1EwUElnYnFjX1Rnc1hWVzdxdXlfc3k5SnNfaE1CWjJGdDJKTE16eTJNWEJoMnh3WTljZURSakJBb1NKR2hsVGFKczMyZi1sQUdnT01UN19WTFRmcXhRR0UwejFoYkxxNE43S3A3MFBjQ0RGemNuZVByZ1prUF9Fb000R0FyMWdFUE14M0dMMGp3Vl83eEtmVndMeFBtX1ZaQ3J6RTVJaGxDVUlwaUZUMnV5Zlcwd3U3YkR5WmRFcktTLW5NT3dLdnhRT3pTNmhJV2EyV25Ha0lPekduTVU5dnFBTmFxZnVFLVdBaU9pZjRRcktJT3dYek1PWWVDS0U3SzlZRXBmcDhpQ1NPUU5aeXRkRWhoVXBPNUpwZ3VQWHJrZ0xBTzYtZ3Y5b1AxSjNQbFVQU21LWHl5d0JsNnkyMUJiRG44aTJsdVNKY0dxN3dYNDdlSEJ4N2xpSkdqd3Nia0dQRi1pSTktN2UtVmtoa1AxTV83em0yZmo0QkNrMzhjeTRaM09yc3R6RQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 19:34:00 GMT",
+        "discovered": "2026-09-20T19:56:14.220090+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "خبر في الجول – اتجاه قوي في الزمالك لمشاركة الناشئين في كأس عاصمة مصر FilGoal",
+        "player": "",
+        "content_hash": "6c8229dd170f626fa3334f712b4cfded56798236deb67099bfc610d9bb9e0da1",
         "sent": 0,
         "section": "sports"
       },
@@ -1058,54 +1122,6 @@
         "summary": "ليفربول يحقق فوزا صعبا على بورنموث في الدوري الإنجليزي سكاي نيوز عربية",
         "player": "",
         "content_hash": "44daf6a32b57eee1c8972cba46e74e72a42527e3a9c83a829250b5818a99511e",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3365,
-        "title": "لقطات من مباراة مانشستر سيتي وسندرلاند (صور) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNS1B4NzRZSzV5ZXNJVlZzTlBVQ3NtTlZ2eVZYZEdmOG1MZVdLVk5CZnBCM1hfNFdJY0xiOVRKTmZ5WnlESEFKRHBFNEQwNnFnZW9Qb2txa0pZM0NqaktyWlNTNFVSNmhTbkJBb2h4THRydVpkTThrMUxxNWNOSTZUVXQ1VFNMVVpXTEY5NEtQWkNIeUh6S292TUxKN0Y4UklzaVd1V0RHb1dPQVlGdHpQVnRERzQ0Q05JWG9HcUd0T2hLLTdGV2RfSDBLQzNhb3VPU0pKT0d2VlZOZkNaX1NaTGE3VzZ0LWpTMjVMaHJFWmx2VTNGLTNzc0RJRzMwZ2R1Y1FHcmJSVzZzYXZvQVNsdDJtLVpVcFdhazVXVzh6bDFBZW5DLUpsTHdqX1E2Smt1S2tQS2M0ZE42S2xsMDkySTU5MnIzRWlnN1REdEd3NDVyZlBwdjRTUlo5M010ZGM1Tm5HTHNjcmttVnRTdEFKQ2xERkZSVXlFTUVv?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 16:02:00 GMT",
-        "discovered": "2026-09-20T16:31:50.079545+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لقطات من مباراة مانشستر سيتي وسندرلاند (صور) يلاكورة",
-        "player": "",
-        "content_hash": "12867b7fb7f6b988ce094b69b6f24277702b56b12e035e8c7d2f2c7caa77d3ee",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3358,
-        "title": "25 من 25.. هالاند يهز شباك جميع منافسيه في الدوري الإنجليزي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPcFp0S0dvRGlYUUJFVTd1aFg2SjhkVEVaN2pRRGZyVWREaXU2LVcwUkcxLUlmR3NSV0hhN1BYQ2xYc3RhQnVFQ3YxVHU0QzlOOFBPamZSTTRfclA1RDhnelBub0RzLWdOOHpzMTUxNFFGdFdkaVQ2M1V1REx1czNISWE4ZlhJamtYX0dvbWF2SnR1TjB1ZHQ1Uks0cXZCSkNSRmJpaHo4cWY4X1BDb0p5WmZEcWxjbXBORUw4dWFyR0ppOWJ4d1FwMGx4dU9zTkx1R1BGaEljRlpMQ3pXcEZ1S05ib3hsSm5ZRWJsVS1Ndm1yR1Y5cHc3ZkJGMzdoaGhYVjRyUjI3N2hHWEF6VDBieVhQR2NGZzliTHF6ZXd5cDRFaEZyRVZud3lIVXV3RVB2UU1WMXlDSktmc2xGa3hUZnE1VEZ5azN2dlFZN2hoZ28zMTZWNlhmcXBiSDdPdW9SS3d5UkdJeVBPbnlRb0lVTVRVb1dtcUZ6cllYeFd2VnFsNHZVelFULVl0cldLOC04SFd5RmotUEhVdHlHZC1EODl3NGh4STBjOF9MWjZjXzJ6YXBZbzhMMWhiNTXSAcIDQVVfeXFMT0NPOW5vV1BBNERPVjBya1hFeU56SFBJQUxaYXBBTmFCajNTMm1jS2ptOWhSeDBVd0xXVTk2TWFfcDNhYjJJeUZkMkpqc3lPUVF3OVlzQ2xrNWhZTjVSTF9PTDBXTUptOE1hRHdvVkdQRkdZWURLN1VUUlBaRGlxdEcwa1FfNGNUbWFrejQ5MTMzU2JYV19odTZNNGphaHFYSDRrelY4cE02d2dtOEYyWm8yMzVkYlJxcFVxZ3ozYnlMUTZCM2poWW9zT19lWnhGQXY3dDZTcjExQWRNNy15WTI5ME9qWk02dU5DTnAyLVlnWXp3SGhudUt5empSQWc3T1NHQ1U1SUJ3eHEtUzhibWdwdUxYaVg0ZDdJd0ZIZWpJT0JUa0N5cVgxUDdKVFhXb09taUlETzRNVDJtTmktVmEwMFl3T3BKVTh5eHlUWEJXandrT3VEMUI0SDJZTjk1aDBscldKVEdUOE4xa1dEUFRzM20tOTFQZzdUVnVBYmdaOEtMQzVkVEVqSHZIcC11N183OV9pajlaWUJuNlAyWXFUZGlXdm9wY0NFX2pCNEpkeldLYWtIYkJQMXpoeTFmZDN3?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 16:02:00 GMT",
-        "discovered": "2026-09-20T16:18:35.159277+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "25 من 25.. هالاند يهز شباك جميع منافسيه في الدوري الإنجليزي FilGoal",
-        "player": "",
-        "content_hash": "693fc8000960158909f14335e085574ae575a107c1e66d2c21e041f2220e614b",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3355,
-        "title": "لقطات من مباراة مانشستر سيتي وسندرلاند (صور) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNM2RoQTlqZENfNFRMdXk3S2IyeXJhWk5fbnVaZ3VsQlUxNHE0TC1tVVB6LXRBRFNjNTZOcDB3Z01pMng5eHh3eUdDbWo0S19zak8wcmZjMjF5ZngxbGRDUzlUSnBqd0NXYWRBc3BwWkE2c29UVlJuRDRPMWZ6YTZySkQ2LWplX3ppN3cwTGZ2dEFfaFpYUmUxRVZlbllKTGNOcWhJU0U0UXd2bkpuVTA0eTVxekR3eFlveDNKTzdfTnRMT0RSSmhiYWZ1bTNvT2FYc21qZ05TT1ZDX2Y4dU9XeVBCMGVmZXVtSDNlUF81OG91Q2pWVGR3R2R1RGJEeUM0TG9Oa0M2YkFXY1ktYUktNk5oSWdoa2NaeW1vc0VqQlIwYnczdnA3WTlnZk4tdWlLcENubzdKTXB5aHNqTUxDS29zM2ltQ1hJWUdqU3dNY0ZSaFB6Y25iVEltT1U5WC1BUDJDdzd3eWNaUExrRnNEVWk4Z08tdEdDa0VHdjFkVTV2RldpX3FN?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 16:02:00 GMT",
-        "discovered": "2026-09-20T16:18:33.179394+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لقطات من مباراة مانشستر سيتي وسندرلاند (صور) يلاكورة",
-        "player": "",
-        "content_hash": "12867b7fb7f6b988ce094b69b6f24277702b56b12e035e8c7d2f2c7caa77d3ee",
         "sent": 0,
         "section": "sports"
       }
