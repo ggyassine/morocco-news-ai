@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T00:56:00.058256+00:00",
-  "total": 70,
+  "updated": "2026-09-20T01:08:15.873082+00:00",
+  "total": 72,
   "sections": {
     "morocco": [
       {
@@ -32,6 +32,22 @@
         "summary": "نقابة تنبه إلى «اختلالات» المستشفيات بجهة الرباط وتدعو رئيس المجموعة الصحية إلى ايجاد حلول عملية Le 360 Arabe",
         "player": "",
         "content_hash": "2ef22319364b94281d9ef88e67c78fda6cc4fa65806243d5de11ec99dfd5f129",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 3013,
+        "title": "دفاع: المغرب وفرنسا يطلقان مناورات «شبيك» البحرية بتولون مع إدماج الشق السيبراني لأول مرة - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hVi1IcEdPNTVSWkZUTTl5bGpqOEFYbFBvMFljRFYzY0ZXWi1nUUh4VDBDWEpWUjRLVFpONzdjSm1UY0M4WnVxLWt3VDY3bGdXWllja0tTZUlWWGdTQlRFYmdXTXJRRm16?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Sat, 19 Sep 2026 12:18:41 GMT",
+        "discovered": "2026-09-20T01:07:49.696210+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "دفاع: المغرب وفرنسا يطلقان مناورات «شبيك» البحرية بتولون مع إدماج الشق السيبراني لأول مرة Le 360 Arabe",
+        "player": "",
+        "content_hash": "5213b581fed9f5c74d279ba7f940ec28ea8b61e65b0dd1c86226d7152ecaef23",
         "sent": 0,
         "section": "morocco"
       },
@@ -210,6 +226,22 @@
         "summary": "سوليه: أشعر بالإحباط بعد التعادل مع إنتر ولكن FilGoal",
         "player": "",
         "content_hash": "cb0ee5fe6100376739fc6ac7c28fcc216b34bd7286ba678d68fab7897b97c241",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3018,
+        "title": "مدرب طرابزون: صلاح قام بعمل رائع أمام غالطة سراي - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxNZGc1UTd3NVJPd2s3R3lzbWlVOTdmRFdyb0w0Q3hFeWJvQ0JWV3ZhZjJCTnUtZ2lsS0Z5TjNxQjdsMGRFUk5EaVd3SXVqSy1zYk9fb0xacWtydElrZmpOLTVfcnlWOXgyUWlBSXg4V3Fwdi0xSlhzS250T0hCdmRPTHVHYzFfalRsTmhvT2JwaW1rSkRqeG1YLW1CUVZIRHQwdHVQWE12RkEzM1dNdW9vQ3BtdHBoMmhqdUtFQzVER2E2ekkzUXpvTHRzMlJRTHFndFFjTGtyYlJRNm1hWUxBNlIxWmUxYWxWbmFLSlczaUpqZGZTUnc3MEZ2TUx1bmZzTWZmX0o3SU93VWhBWVFnZGpNdTlFb1NQWnA1cHRFZjVjUWRONkxFQmQ5ZVI1YWVaOHlwRWpGVlcyRTdBZldRaUpOWWIyTktackxLeHhtMDNFSGtvOGhfMmV4Q0tBRnpNNEZjX280TUpVUEl1UXZSSUtRZHo3a0NSbTJ4cDE5Y1dib1huY29KTUlZTlNvQ0dZUUw2OGxMMzVsU2tEdEtxcFpVcWpCZDhMc0lncVl4aDhPYXZXMUZqcWhVVTBLOTRid3FPV3Z4RXpZZV91MVR5VGFuZVpJcnZ3Ullmd3ItTEZaOUw3eHU0Z0tQSVU0ZFQwbV9ZdWdoRkoxeVlQc0RZYkRRcEhOZk5ZdkdIOXNvTUNDTmUzbTZ3?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Sat, 19 Sep 2026 21:33:52 GMT",
+        "discovered": "2026-09-20T01:08:10.400284+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدرب طرابزون: صلاح قام بعمل رائع أمام غالطة سراي الشرق الأوسط",
+        "player": "",
+        "content_hash": "6e1fa3334ccf323ea466a251fb47b3ac823e4e7662051b3eeaf3a911d3bd0d7b",
         "sent": 0,
         "section": "sports"
       },
