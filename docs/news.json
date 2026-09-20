@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T11:28:48.015552+00:00",
-  "total": 97,
+  "updated": "2026-09-20T11:40:20.472958+00:00",
+  "total": 99,
   "sections": {
     "morocco": [
       {
@@ -951,6 +951,38 @@
       }
     ],
     "transfers": [
+      {
+        "id": 3246,
+        "title": "زياش يدشّن مغامرته البرازيلية بأداء لافت رغم خسارة بوتافوغو - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE96VG90SUFRN3JsanNyS3pxaDBLOGl2S21YT1hQcWctZ185VU93VVFPbXYyZ291M0RKLVdnNnB4UVFyaUpZOFE3Tw?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 11:33:28 GMT",
+        "discovered": "2026-09-20T11:40:00.077332+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "زياش يدشّن مغامرته البرازيلية بأداء لافت رغم خسارة بوتافوغو - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
+        "player": "زياش",
+        "content_hash": "160923126e7e7c194964ed4cd2f030d86d7b406a8fe644028827ce60e7405809",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 3247,
+        "title": "الدنماركي كريستنسن مدافع برشلونة يتعرض لإصابة جديدة - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxPNFlFeGJNOF9Fc3pic2dDN0xXZEFKbGtrajN4a05ld0FKeFRjMm1neVlRRDFDVVFXWk5mSDFaV0QxbktMajZmSUdFTWtoRklwYjYtQzBHYXpSQ0phYWN2U3hJZ1VuVUtraWF2THpPNTFjcHFzMFk0NGRsUDJ6bmFzMGJvcXI1SnR0N1o1Rk1acG9TTTZnZHNJNjlBc1pDTVRjeThJajc1VTZMNU12OUd1UzBaLWJrTWtaSXl6bHNDaUF0eEw4aDc1UFJyYXMzZTdiVzhDTnlKVW5xMExzOENTaXlFcFpBbWdEVDhnR1RPTHhfeEhuWWZSZTgzSzhkWGhxaWlNSWFpVjU2WW5SOEt3WmQ5c3AxMXExbGxlU1czVVJtTXFRdk8zX2FCTllKNlpBV2lnaWQtZGlNQ3licjh5b2FYRUFDVUlYazktbThPeEJwWGluTVZEZUJVZUJLTC1PSTlkeVJQbFFEZGcwRmF0WThReEdRVjBRWmkwMXRpd01YS0RTQVlfWnJlRWlzXzBUU2ZDTGVoX2JlZnlUMlRhcmk1Nzd5TVIwbnpIUXVQTkw1LUowV2N2QjE3QTVnOUEySXM5bXd3blI2MTFPMER4YWQwMkhjN3hQS01ucjBPZnBQOG1UMXZ2aWNJalVNY1NDOWl4UkMwbVVvM21yejZKenBiZk9GWllhQWdpQXoyTVpHSFQ5R1VzTDZ0RlN5dE9WS2stV0lTd2toandjUmdCQVhFcWl4ZGhPVFBhdkwyOUtVRWxR?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 11:27:53 GMT",
+        "discovered": "2026-09-20T11:40:04.511640+00:00",
+        "category": "أخبار",
+        "status": "غير واضح",
+        "summary": "الدنماركي كريستنسن مدافع برشلونة يتعرض لإصابة جديدة الشرق الأوسط",
+        "player": "",
+        "content_hash": "196d3546611c8867992e77ac3150564ead3e180731a006930b5fea2af7a13d77",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 3222,
         "title": "بن الطيب يقود أندرلخت لفوز مريح على زولت فاريغيم - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
