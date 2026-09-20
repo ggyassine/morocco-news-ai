@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-20T04:27:26.363600+00:00",
-  "total": 79,
+  "updated": "2026-09-20T04:41:14.519855+00:00",
+  "total": 80,
   "sections": {
     "morocco": [
+      {
+        "id": 3085,
+        "title": "الانتخابات المغربية 2026: بين انتظارات الناخبين ووعود الأحزاب - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RSGJkdF9YMk54QklYZUR1NVBfaHhoTFFQSERkVUxLejBUZDdEMjhvVENGbzhaaUlpbVBYNXhlclc3SlVMSjdNRHphajUyUjJ6R2hDbmdlYktpUklRYUHSAWNBVV95cUxOcVZvcks3WG5WRTNDNzIyTHlZazFpRHZLcnozc25EM0NRQnh1ZGxXN1dVMFdkUHBzWU82RWJHR0FFOXpjV1NycjJFbGdCYkZ5Y2MwV01heDhNaHFEZnJDdlBfLU0?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Sun, 20 Sep 2026 04:28:24 GMT",
+        "discovered": "2026-09-20T04:41:12.272114+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الانتخابات المغربية 2026: بين انتظارات الناخبين ووعود الأحزاب BBC",
+        "player": "",
+        "content_hash": "5303e053ca9b4e51fabc5eab4810c22d4debac6381ff6b3a6611c08f9fe73e6d",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 2836,
         "title": "شريط فيديو جديد يقلب موازين التحقيق في مقتل المغربي عبد الرحيم فقير بإيطاليا - Le 360 Arabe",
