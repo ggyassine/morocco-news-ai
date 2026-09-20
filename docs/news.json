@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T18:54:27.227254+00:00",
+  "updated": "2026-09-20T19:04:32.979411+00:00",
   "total": 110,
   "sections": {
     "morocco": [
@@ -294,6 +294,22 @@
     ],
     "sports": [
       {
+        "id": 3428,
+        "title": "«الدوري الفرنسي»: الجزائري عمورة يمنح نيس انتصاره الأول - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxQWVVicVVOQ1Jfb1NRQ1lrOV9Zc05zWVhYMEVPRXhSTVp5ajNjaEFVa18zMVoxaFhxdkJLSVhrYVdWQzR4SEZIalBwMkdHaWs5SE9tWFBINVRaUDdiQ2NWSklJb1dDeWdxY014bFU1SmlIWDN6d0ozdVN3ci12QVc0MTRXYkVOM3NoY2gzVldWRTNMWVZObXl3N25nTlowU08zS09VYzItS0otcGFfNndRemRUSlYySEdKWUVKUHFRb1pZTk5ZdXpvVDJUNTdtNG1NRzZZV0E5alRtTXV1VTgyT0RDMnlEN3BVTk41T1JKMUtCaW5TOU9qUDJaZ3AwOHM5NG00QzhtNVJqc1V1VE53YWxsS19pRnNWZHJpS3FmOVFhbXBYUzFrbUJ1YVBlY09hNkdhc09LM0VqRzQtM2Ztd2dqenhfT0tZaTdWbnZlc2wwcjdoc1lheElJNGhHRWNjSU10aHcySGctV0dnY1F5aGY3Yzl3eTBFdTQxZVZhWE5FUGtjbU0xSVBUaGo2MG1DUUFPUzk3Mkkxd2xKR0lDemJfa3puU1NCZU5BWHRLTkZyeXJwVVJmNmVEOFN6d05PZHRhaFo4WlBkRTBJRUxpZXg2WlgzZ09aNU9pNGZReXozOGFQdXdRQzlyaHZNeGVSbFNmb1dsQjlXem1xNjlMYjlmQXROam1ON1JfU0tUbGUxOVR2bm5xY20xOGRhSHRTNjFaLVg2RnRObkh2SlpvaGtqMjczdUkxVzhhYTJBbkJnSFBISFE?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 18:54:49 GMT",
+        "discovered": "2026-09-20T19:04:10.525009+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "«الدوري الفرنسي»: الجزائري عمورة يمنح نيس انتصاره الأول الشرق الأوسط",
+        "player": "",
+        "content_hash": "7518feeab01415e2079f0624fc0e35fec2f9b2de450b63b5c65f282f8eccbebc",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 3426,
         "title": "حسام حسن يشارك في ندوة كاف في كاب فيردي لتطوير كرة القدم - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOcWQ3X2pWOEVMb2o5NzQtajR1UnVWa2pRUHV3eFVIMEFJSnNjdDZOYkE2Z29udXZMN242ZlZReEVPNWVKa0hKYXZSOVZnaXBBb0RPQ3ZNR19kVHdjeThTTUpOM0VXQlJ2LTVjODRFMU5fMGtUTlRjSFR0M0pOU0VyY3Fhd2pzLWF5dTZuNXlya2JNNVYyLWVKN1ZLUWpzbmZxN0ZUZEMtZDJzbkVVWEdwbGZlbkhqTThFUzJCYTQ0Ym9JMU05VzNRZGxpWlBLTU5MZ1J6RVU1VzZBTHBIQmp3RTFIVVZySjZXUTFvdi1PS19CN3NNVURXOU93UE14VjVRTFY4ZGw2QTFoNUEwY242eFl3YWFEaENUT1hBbVFaZlhPQTNsVEVYR2dFS0lsdmktUm5Sa1lGeElYWVZIbXBDaUN4alIxcXF1cHVFTDVoUHFCeTRuUzM3QlFjbFBrRzJQM0Z6Y3dDZjkxdko3cU14MERSN21ScWdjeUFpUDRZU2FMbzJ6UER0WjFZN1JpXzk5bERTUXBQaHg1MWZCbUYzNjBqU0MwS2RyQ1cwVkROZkJNR3NvSElqb01VcmUtS1dpZVVXNjR6T3PSAc4DQVVfeXFMTVlweWduUERQN3pBRUlwOUpRMnBGSXFzWjBDeDlVOUhYeVBxdzVUVlZYM3ZmX0lXYTdGSXdycGlfa0s5alFaN3FSREJTbjN5SnFodVFBX2UwV1F2MEJJaHRjTE1fS2M5cGRHdjlBSTFZeXhXUlNRSExuMm8wYnQ5U3FuZ2NDNGlSM2MxSk5wdkhUQ2FSLWtYNWdHZU5DWnhhVkZNVXhJbVZjNW9ucE80Qml1bm9XR3ptMVZIUm1FTEExYmVGTGxGbGxWdjlNR2pNVmxsNUNhOThpemEydnFpakZkNlhOM2FWRzJQWXN2dl9DZnlpNS1MTzBXZEZmWXRtSEhKRmdDeXpPc1FlNDFQS1JmenI5dDYwUm5kcXRFSUNZTXMtczg2ckp3TjBYdFY4ams3MFdvN2xhZjZjMFdsSjdNWWkyYTFPZ2J6ME8tcHlnWnVzVTNGUll0NjRPSHJyUzNEVU5KRGpCdlJaNW04VHBRQ2dYV25zcG5uZFZrOXQ1eGxzdlhXa0dRZW9kRVFSYWtsVmNSbkp6Y3d4TjdNN3VWaHI3T3d3TFJvb21qNEpDeWtPWERWNzR0emJIdEdMekJUSFlCakNrcEJQbHBR?oc=5",
@@ -518,6 +534,22 @@
         "section": "sports"
       },
       {
+        "id": 3430,
+        "title": "هزيمة على جبهتين… ميرتس يتمسك بالحكم رغم «كارثة» انتخابية لحزبه - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNdUtRd0l5Ny16RVJRRFdjX1phamM3RUtyU2RFazdfYWpGd1hhR0dzaG5WWTE5UVJvLWtPeTFzRHd4aldzMFNQYXlkbk0tcUFLLVFobFM4blEyMXZVSHJYYlJjSnpGQ1c1LXNTZkpsMlUyWDV6TFRXbDl5OWhpMk1XVnRtMlBsVkNfb25jc2Q4YW1VY0pWRHlZNGV6eVdEWWYteEo4cTBMQUxDZW0teXVabmZ6RGJlRWdoaWx4VC1Mb2lrbjVuVGoyZU5waFZ6Y01iWFZqSVpFdjdpSDM5Q3QzcFY0MF9qTFkwcWU2UE5PSmxnVEVLaXVhSjlyc0szazhQMG81emZsRGlHTzFWNEFYeV9xOG9iMTZHSEhQSkpkU2hxeHpUVWdtUWFtT0hnLXdyelNEVk1PaWYxbjNydHRn?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 17:43:27 GMT",
+        "discovered": "2026-09-20T19:04:26.384010+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "هزيمة على جبهتين… ميرتس يتمسك بالحكم رغم «كارثة» انتخابية لحزبه القدس العربي",
+        "player": "",
+        "content_hash": "7d985dc84dfbf0cc2dbae7dbe94ee7d8b758dee061ed2ee87e2bbf3a72c58d0f",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 3404,
         "title": "في الجول يكشف سبب عدم قيد محمد أبو جبل مع المغرب التطواني - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOajhCRldOMzA3Y1hWUmV1SG9XU2pXSTkwVy1aa1Qydk5kYlNUelM3WDgxV0FjUkpFVC11MGlmRXhKQWxGeXFjU1ZNdWZjb2szeEVUUDI4ZHJrLThpdldqVWhDZ29ROGZ3N1RrTGtCN2JjYTdqbjhqVTRSaThLd3FvVnRPSHVIMjR6ck5pUTN3Q2lYSmIzUFhZTmN3X2loY0thaDhKRVFsUXk4UGMxMlE0Q2ZuQ29kdEtwUVV6MzBISEI2VVpab1hEYkZtX3JuQmtkLU5scUVrSTMzVU1XUEcya2pWdEdfeTY5bHZycXo1VHdFUjg0UG1RTHN5SUY5bmNXSW1jeTVjVjRHVU9qa0kxWlo2akdyVTVldjcwQWN3dWVUdGpELWMzZXNNOVBXN3U4UU90Yy1CX2NUWWpYeXd6UGZ4YTZHR2JzTWViR3M4OE1weHNFbzRmWXMwWno0LWJTU0R6dWl2a09Qc2UxNTBzc2s3WUhtWmUwU0llVS1TSy1OWWs4SW9jeGg3ZDR0R1hZSFZhQzFsUk82TUtzNGFGOV9Ra0hEbU82OWRjQVRndTY5bVF1bXhLX2lLVVc2NHFtR2VjSlMwd2dYdzdvemxkMdIB1gNBVV95cUxNZHVkbEtSWTBReW4wNEdKNGE1Q2RkZ215cmlBUVpBNTZkMXNldU9GeFAwQVV1MUlRbThrZ0FkYy01Skd0aENGMGVTejR4WGt0STd5QWtHbTg0UGVkemVhdnViTTVxRnBPZGhkZUxJUEx0b1hJdzBOZTVkRE1yTzQ3bVdrMzgtM0lNdzcwY1J4UFRodFdZT2tOc3JXLWtMWWpiNXNnckp2MjQyRTBMV2djeHJaOFJNb0V0dlZzR3N2VERoSU9ZeDlOX2drNzRqazl2LWNsc3hVcDF0M25Ta0lqVng4WjBDaFJfTkRzZ3d0MnRNcF8teDVJd0ZOTlIxRUMxejFSYXgzVjBnZEhJS1hUVk9nQmEwZmxTdzV2QVJTNWN3V3ZRV0UxbEsweFBIZVB6aEV2bjNlN0pWT2ZsNVNVZWxCb0VmS1MybG1Fc1ZTSWpramF5Rnh3STBOaFk5eE5qZXllY3NaR0lERnlKMV9pOGNJQ1M5dHBQeXJYY0tFQllYQWZTd0liVXhlb3RTVXp4ZDB5bkl2a0Z3MGpoRUE0WHBOd1ZUNGVlel9vTlAxa3NTLXBSbVhieEZleTMwLVRjZEl1YmEzU0NWTkxuN1lRTFViOWVZZw?oc=5",
@@ -610,6 +642,22 @@
         "summary": "مصدر يوضح ليلا كورة.. حقيقة تأخر عودة الزمالك للتدريبات بسبب مسحتقات اللاعبين يلاكورة",
         "player": "",
         "content_hash": "fae9f831b40d90146642c3f9813deeb54adc52470caa8f37d4450d092f71979c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3429,
+        "title": "بمشاركة محمد عبد المنعم.. نيس ينتزع فوزًا ثمينًا أمام ليل في الدوري الفرنسي - yallakora.com",
+        "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxNc3NFNG9YZlpBTFRoc2FfTkpwTHExVW9Hb09ISEZCRERob0dDTzlicVppNTBfdVhJODdBTURBSEhlZnE1UktrZXNreUFhbGREa0dVZkh4T1FId2V6TXl3TzZZZVgtVndKZUtYaWZ1ZkVsNkJmbDVqT0NIeFlJT0N1VWgxUkd1OWFWNXRYLXZoaE5zaVRBNlFpZXJYVGNWaEo3NnhVYlUxMEtZV0JWN25HUHlUYkxYb2Q1a3lLY2NxN2hUVC01bFNlQ0tGZDdKZDlUbmVoMTNnd0s5NnZXQXhfR0ZRVTJNVWRuVlhsS3E3SGJFVXgxb2FJUkl4UVFDZURtY3NuYkpQNUZreFM4SnZVTGx6SEdjS0FDUEJTeHFXZ3loZDJUdlBfNDR3UEF6MW9Jd2p0cHU2QXNPTW9wNzJGSUlKczA3Qkd4YU5UWkNuUEN6YUNNU2xZZ012bXJnUEh2Q0VFSi1pcEJFVlVpdGZYTDV2Y05lWDdfdkNRdDd3d1NybGdNUXVCOVAwdHYwWUREbDBEdnh3Wmc0Ukg1Z0hhc1BNNXJudHM2V216N3EwUWQ1QTRXbjVadm85TlViblJXV05uWFlDbjNfSDZJbGVCbzRuZEtkS01jUDdPeGRVU0hIbEtuR1NkdU44M01WcGtIVnlxWlpLdEstRmR5WTdxeHNPYXJjODdIdGVkWDRFZlZ5VG9nOWRaLUsxS0R3UGtIbU1mUGJwVERscXlQWS1NTzVMcjhVUWVPNC13VWRvdnIyR0ZkYkxjNzNB0gHPBEFVX3lxTE1NWG0wRURRd1hvTkNzMndpUExXdjdLSjNqZmt2RXVoaFRGS004M0RPNWNIY3dTbVV2aHduYVdMTlRnUng0a0M3a0UycmpRLUtUa0U4RDNIeWlzXzkzZ0s3VHo3bHZybmY1b2pEV3VMYmNBZVAxNW5FR29nV0tBZ29PT0YwZ3ZaOWc2NlNscmFtcGZIcl8wcW9tbTlCQkthZlloTm9wYWlNM1B1N3ZXTlY2SkZsT3ByamJiR2dleXJNWV9lanRqeTBUU3VrUUZMSS1EX09yaWxqUENyS1UyVzhxcmZCREExQ19OcjRsY2w2cVRfeXRLcjhKYjZJeVlzM1VaNjJFaFRWTHdJc0dCMHhpT3RuYi00NnpFS0NNV1VuTmlmZnY1cnhWVUhlb2g0dVREbVFVcHlwWUpnbjA4NzJMYWpiaXZFUFp1M3dod2VRbzczQndrTHFGNFVQRGdEN2hFR2xzVl9EWkFjVUNaWEFRVHVUcDBCb3MzWENEXzRpdzRLendMZTg0T0gtdXNLak5ReEEwY05WYWxuVU5yRjBlcU03ZG1YeHNHQmtlUGZtemtiUHhfX296UThPQ2ZqdWNCQ2ZFTF9fZ2ZoUWlQQWY0T0VNWVdXaFVkRXNIb19qeVhRakFHTEFfcmZRekVqU0ZXQkl4Vzl3RUpZOVlGMFZrbWFlNHJGWnhYRFJ5bS15TThzT2VQNTl4WFJPVmhVSGg4RlpJeldXS3ltLWduaFBvUVV6ZlFyaFFTOU16NTRoZmFQYnFhSUFYM3FrSjgzZw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 17:15:00 GMT",
+        "discovered": "2026-09-20T19:04:12.844583+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بمشاركة محمد عبد المنعم.. نيس ينتزع فوزًا ثمينًا أمام ليل في الدوري الفرنسي yallakora.com",
+        "player": "",
+        "content_hash": "0b8962f0dc1315c22912165ee1a2e9f16ee70c7d36e82c961a46f1fd91ff209a",
         "sent": 0,
         "section": "sports"
       },
@@ -1042,54 +1090,6 @@
         "summary": "سعادة في دورتموند بعد تصدر ترتيب «البوندسليغا» الشرق الأوسط",
         "player": "",
         "content_hash": "fd0b03453b2e08d5ad1611257d25310a85ccb33e1e60fd94e3862108a39ecc93",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3346,
-        "title": "تغطية حية مباشر لمباراة فريقي كلوب بروج و جينك في بطولة الدوري البلجيكي - الأسبوع 7 - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQV3N4WXdMakliZXJPdkFSTE5ENTlqMDRONTJiRFdBWGktaWlNMFU5T3BQNXpOWGFMSE1ISlZiMjNRUloxaVBzYVUweFhTbUttV1NVMjNORHdtMlRBZUNPMnRMVXdIY3pVcWx1anBRenRkQl9jdy1FZWNBWGtMNTJnUmh1eE5MMDhZYWV0cEdoTXBYcWRleWx6OFpVc3pSUVgwb0l5MWgyM0hfY005REctaVlpVUJLUmxHdmZqbHY4THNFZVdJdGhlNUdVMW56bHZpblFlOHlRYXB0Zk5WdkthQVp4SEdET2s5Unh0QzlzUmR2bmI0SEZDQ1RHcEVkVnlqUjdxdXEzYTdRRXZLV05XYlZkeWY4WlFyVmZQRmRXUkJKVVZncDFzM3ZzRTFEQnVyc3RleGtqNFRLWkN0RTE1bC1NU3hvZlBIUjFHczN6NEM1YTFrLUJqSGtrVko0c2ZlYW9pTHE1VTU?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 15:44:02 GMT",
-        "discovered": "2026-09-20T15:52:27.614961+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تغطية حية مباشر لمباراة فريقي كلوب بروج و جينك في بطولة الدوري البلجيكي - الأسبوع 7 FilGoal",
-        "player": "",
-        "content_hash": "0cced886132119c07731c25fb09f2885aa3a7e7279c8e1e84596587bae7778df",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3338,
-        "title": "أخبار و معلومات اللاعب Walid Dhouib مهاجم النادي الرياضي الصفاقسي winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa3gzMTBXcy1URnFTZkRmZ3pfQ3k1ME1pUDVpazRUSGhGeHBBQzhzb3NQSWlMaE55RkpaR2lST0pOUUNyQXU2ZVI4QWhMVUxyR2RUOUYzbGZGVHlnR3ZhSmdKeDJCbFN6NU0tY2I0Q0xaQXNTdjNZaERyWFRnbmNfMGZLLUlxb0NDSVV2bE9ZNTM4dE8xeWxmNHhtTGhnUWJxUU5CdjBrLTBiQkk0TGZvSXdwYkYwNDM4cTFQekRlOA?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 15:42:24 GMT",
-        "discovered": "2026-09-20T15:43:29.503274+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب Walid Dhouib مهاجم النادي الرياضي الصفاقسي winwin winwin.com",
-        "player": "رياض",
-        "content_hash": "a6841779a75dcce7773f5d3cc169617a8867fca62249b1a64af13bdefa99b2ee",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3332,
-        "title": "تغاضى عن إنذار لاعب الأنلتيكو.. حكم الديربي يثير غضب بيلنجهام - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxPRk04UjYxOUhfbFdJbUR1TFVBNEg2bDQ4dVFSWnZrZzBSYjJXZk45M1BjckJ4Wi1CRmExTlp2a1BIZDBTWUVwdVFsNUVzOHNtenhJQURuMU9zNFMtXzNkLVA5YWh3Zi1ra3Z6VFpVdl8tQ0hsZm42d0dmV2p2cGYwVnluMWpreTd2eGVCZnhmVkxTMmFHcTRxNEw2T0VnaEx1NmZqMWtXREFac3dHd3lYckpYU1hPMzQ4NGs4aXVld2s5bTkxV2NmOEQwZFlCMWt5WnZxT0lSZk5STlJuOEZYLWpucldrZ192ZThQSzBHQVNFMS1rNG5MNkV1NDhMc1MwdWtaazRRTEVvUmM1NVNLQlEwNWg0YkN0aHZybGF1WHBabjBFWFZxLWpRQmdHZ2tpLUlaeHAzaERobkxMTVNLaHNIN1pLSUhaejFXSEZ3X3BYdUpjU09rZ1BmbUFoenJzM2V6Y2p2Q25keUVpekxlbEt1SHd6T1RFVERyTXNTZjRGQU5GVTk4QkRYSUwtYjl6THJmd2ZwUl9pYzBjV2xGaDFlQlVQSFZPRHpoN3BFZnlLRk1aMVV2Q1ZOWTBUZHQzNl9TUl91cnByMjktMVd0dndwamxYMmdkTDRXcUQ3c0luVDY4OVNhWkszV0h2c2dOQkVsSkxWR1VDOFV5SkxabVg1S2ttUmY2VnZCdFVkeGtIUmNmWkJ3SS1BaDlhVzJLSHY0aFRLU2dKc0RuTEJ4aG1XSVZzeWp4dkhBU3BlWDZwNktsV3FZV1VJd0ZTRURqVi1vdjY1MHhDaW5iRDBv?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 15:30:36 GMT",
-        "discovered": "2026-09-20T15:32:23.976035+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تغاضى عن إنذار لاعب الأنلتيكو.. حكم الديربي يثير غضب بيلنجهام Kooora",
-        "player": "",
-        "content_hash": "7462f1104f0a2c29ee6aefe02ebfe3b0d3fec1792cbb473af53473f12a3dc887",
         "sent": 0,
         "section": "sports"
       }
