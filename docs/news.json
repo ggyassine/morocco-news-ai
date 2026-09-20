@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-20T11:40:20.472958+00:00",
-  "total": 99,
+  "updated": "2026-09-20T11:49:56.190744+00:00",
+  "total": 100,
   "sections": {
     "morocco": [
+      {
+        "id": 3248,
+        "title": "أمن مراكش يوقف شخصا لضلوعه في السياقة الاستعراضية الخطيرة - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEb0xVMmxmUG5sS1lVN2VoNE5RNW9YQTlWQ3pwcU5XbVExZFNYZlFGVkJmemdqb0gxN0VVLVkzSzVaUU8zZUlxb09DSl96VjEtZ1F1Vk9wQ3U0OUZWVmFIRUJ0YzUzZw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Sun, 20 Sep 2026 11:30:35 GMT",
+        "discovered": "2026-09-20T11:49:27.417573+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "أمن مراكش يوقف شخصا لضلوعه في السياقة الاستعراضية الخطيرة Le 360 Arabe",
+        "player": "",
+        "content_hash": "5ce4fa7a38f41c34c67718f698454120927e4ab2e6f47a8608470c6a7f203b75",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 3240,
         "title": "الساعة القانونية: المغرب يعود إلى توقيت غرينيتش رسمياً بعد إلغاء الساعة الإضافية - BBC",
