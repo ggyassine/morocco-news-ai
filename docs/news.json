@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T17:30:21.867790+00:00",
-  "total": 111,
+  "updated": "2026-09-20T17:41:04.228833+00:00",
+  "total": 110,
   "sections": {
     "morocco": [
       {
@@ -261,6 +261,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 3396,
+        "title": "كأس ديفيس.. المنتخب المغربي يتأهل إلى ملحق المجموعة العالمية الأولى - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VU1puTGtQdE9CUGQydHhrTXVkT0ZJMGxFd3ZZdDVkQlFiaF9Hdjg4VUdsWUZNbVFuREJJU000N09TN2VmMnhaeQ?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 17:30:50 GMT",
+        "discovered": "2026-09-20T17:40:32.129598+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كأس ديفيس.. المنتخب المغربي يتأهل إلى ملحق المجموعة العالمية الأولى Febrayer",
+        "player": "",
+        "content_hash": "affe9de8aa39c4118115cb1d8c9cb23d41fe570a62df30e5024ea4c15ced92b9",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3397,
+        "title": "فيديو: مانشستر يونايتد يواصل مقاطعة الانتصارات.. ويعود بتعادل قاتل من معقل فولهام - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi2gVBVV95cUxPbEZFdER4cnVlbTRNeEhmd1hnVWhqUG85d2ViMmNiOTA2OHNwWWM4SkxZX29CZHVFOWdSSWpqOU9VVEhMc1ptZmZoeDM5VWRqRm9kbzl3Yk5SWDIxWGZnUWo4LTFwV2RNNTUxQkdoUVJES1JEcl92c19Md3BSUmx5UExndUtkdTJHUTZxTFVHYWJmWUJ3TWVhV1RndjRFOEdlTWJRV0U5RmgzcHUyZFFqeU1GMlIxZHJDd1VOVm80UktwUUNQREdTN1BUSDBhZDlveXNhbGN0cnAtQWNTbzNIOFNxempObGY0MzBQRXVnc1huMUhFaExjYVZXdlpXbVgwZDJSWHI2OEhLSTNoeHRCNTZkMjNyZ3A5WVpUZGduclF0X2RzN0FxemFEbXU1OWhJSmJFRFc0aW9nM3dNU1I1RHZVS2xRQzR3SF83WmdMRDJVSDVIdG02YzdUYk4tZ2lQWWRxSjBaa053VktyTXhPTEdQWEpIbXdhUnZUTC1rUzdFV3lRZTB3LUJpRFYxeENjRWRBTmQtaWtIVTFKY0FoRFZURDYtNm5LOFFYZEpSUW9hamNfQzZQS3BqanZ6VFM2clphZlVseVpoaG1pNkpoczJHTmRlZ2tmZ1JWd3FzN3lLcVFXR0QyM05nVGhUUlVpbk4yaXFKbUNtRVZ3ZklvYzNPUW9FR2o1dHBpLXh5N0hnQU16bkx1MTJNdExsWU9fQ0xUVWZjdjVTRUN0cl8zb1ZUcnA0elEtMV9takhUaGdPZFdvenhEdUlvX3BqMGt6RkNGRzVtNk8wQzRUY09OaHZwbF84VG9EejhmR1lNaENrOUZwQVRZM2ZnSWRXREc5RkhZQXd5TjJOZEF5UnMtR05NbS00dVZBcHRHMll4OGtDb295MjQ4YXk2WGN4LTB0NHlsV1ZiLXhlOUNjamg3RlViWGZaSUt4LUI5RkZ3T0ZLY192YVpxNG1B?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 17:30:18 GMT",
+        "discovered": "2026-09-20T17:40:34.697849+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديو: مانشستر يونايتد يواصل مقاطعة الانتصارات.. ويعود بتعادل قاتل من معقل فولهام Kooora",
+        "player": "",
+        "content_hash": "6d0fe0cd1bb7d0732465ce1920b21fec219a8718916d93686f1a2900b4619186",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3389,
         "title": "مصدر يوضح ليلا كورة.. حقيقة تأخر عودة الزمالك للتدريبات بسبب مسحتقات اللاعبين - يلاكورة",
@@ -1028,41 +1060,25 @@
         "content_hash": "3e64b94354c35e56f41b2065de99f8883cc97cfe3383463e28134148eaa51325",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3286,
-        "title": "بمشاركة هيثم حسن.. سلتيك يتجرع الهزيمة الثانية من رينجرز في 7 أيام - yallakora.com",
-        "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxQaGt3S0hDZEpkY3BrRWQwNGlXNjZ5eVF1eW1JUmxDZ0puR2JKZUk4UTFDVWxOQmZpRFl5aDJERExONFl2cVM1bktxWUQ2Q0F6U1M1WnUtcmZtN3JWVXlpRTdUVVdJU3pVYTd3VFNiY1kzRUw5VnRBM01iN252alJhUnJaaDhSWUFTWHdKZUZmVThmcnRmTXdHaDlicDI3RzgyY1BzV0tvSFkzZXpBdkIyX0p2TTNwa2xZSEVrT3VCSXNMNzNvbUVwcWhkVTVBZGdIMU1xeVk5T20tLUtISXd6MHRkMkRXdG1VdlBxS0VOREJVOE82ZWdwd1NOeVpPQ2RLRzlOYkFGeUhTZFp0b1RrYzFEdDcyRHplTVVReWhWVC1IeDNMVERlczN0SDV4MzhfeXdxZlhHelpyN0o3c1pjSDZEZEdUS3BzaFRyLXNGeFVoLXF0SkJfakdfYk1TWm12YmVyTEtndi15eEo4UHU2a2ZEaU1uTHlfLUM3cmNEWmRHbHpsMVBvVnZ6aVJYTHhwTEVib3d4TUtLLWpzdXJGWTJQVmwwWHNvdTRubTdIbGp1WWxDNUZ3Z05PVnQ5bXhSeGRxNXJkMlRpTG03c2lQeGZjMjhNUWxwcjcwakNJSTNQSkVNcUdTTWYxS1NtaGhFcWNmejJvT1RhS3JlLTRIajZPdXpJbkJoTWstRkw3bWpwRlF1dnfSAZsEQVVfeXFMUGZQYUlqMnFzQmRzVE5GR0JqMzFZR21uWVQyeXVPVi1lTmY5Y3R3dVJhZ3E5RUpZWDA3QlllbUxTOUpDNWJqRktxVk1idGVzT25VcGVHZUJNYmdnRjMxVl84NU03X0JVZVBDTW54QjFrOU9TSG1Nc0ZHeERobG1XdEQyTWdDMlpydHJuRG9DamJQdTRmUzBoSnFEb2hSRnVWX2xOMDYzakNwM2RlalUtWGtFNkVxUjlsSDNwRHZ2aHdaOXZmUUdOSlBZYUVfLVFsWGZmOWJOZFQzZXBUNFNTWFZuUHdrbFlGVDFfUGtmaml2VzRXSUdsV1JXRjRLVkJIWkxoWTlfZkR2bFFHbXBYVkVBS0FMZnFFdDdiOXBxOTRWVjQzYzJJajA1Z2JUamEzNkdoQmRsZ1d2QnRkSW0yaThfR1BNaWQyRmtRcGEwMGNXLTQtWTBZV1ZoSUtoM3NnUXA0aVZzMEJKM210TmlfelJvQ3pQMjJGQmh5dld6SHRSbDltWmdmOEtBeW4zcUVsYkJOM0tZWUlJOHNpb200YU03djVjbWdBc0RtZkYtejEwRkJiS3NjbmJLaTEzbER6TlVsNVFoVUJXaFg5SFhjSFQ4OFlJbkx2VV84ZDR2QUJ5OWZ5bzhTNmpveUdJN2lqdjEwYkVyV0xyVmI5VFFGX1dxSjJad2I3a05JTTlxdFBFbHBUV1pjamtFc3M?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 13:17:00 GMT",
-        "discovered": "2026-09-20T13:26:20.381012+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بمشاركة هيثم حسن.. سلتيك يتجرع الهزيمة الثانية من رينجرز في 7 أيام yallakora.com",
-        "player": "",
-        "content_hash": "8e7c05ba52ac466253aede7997666a6682278adeaa39ffbc50cfa98b519b1c87",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3325,
-        "title": "تغطية حية مباشر لمباراة فريقي بورنموث و ليفربول في بطولة الدوري الإنجليزي الممتاز - الأسبوع 5 - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQYXl5ZnpxVFd2eVhUY1RjM0RUVVRPdTQtVFozRnZFcFFZOHEwd181aU1FRVlIdERnMFByQTI0c3Z2LVNRVld6TnNGWnV0bVlNRzd3V3l4TDV3WnplWVJTTUItcWthTmpZYlUyRDNfV21YZVlWTEd1WFRYei1YeUZHVzE4TTRRRE1PY2U3NTVLTG5WWGhXTUxZRW5tVVloLVhwWi1aOERxTHl1X0pIM2l0ZGg2aS1yQmo1cU96NnFWSFdHSE5uQ0lQcXUyT1lDMFlwYkZtSmpfZW9JNjJfai1VbzRGdDFLbW4zN1paVDhiMjMzVHBrR0lWZXR4aVk0TS05TW9UNVlYNFIyMndPNzFTMEtXRDBzaklldHpBS0lUNndvYW5reE5nRmhLc1A5VWJfLWd4cllTRlBCYmNXYjhhWkRrSVBjWFV2WTJVeWJlLUNIX0MwVTZIRDBaV19rSTVCYmNnQ0k4dlo1ZFpiUGRUdGpBazFOWmotQW5fa0pMMy01Wm1RSlQyVnlDZG1OS2tXdXplcUx6MFJ0ZTgtX1ZkSXhESGhJSGlUaEJqd1pocnBSLTV5dktr?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 13:00:00 GMT",
-        "discovered": "2026-09-20T15:06:13.269946+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تغطية حية مباشر لمباراة فريقي بورنموث و ليفربول في بطولة الدوري الإنجليزي الممتاز - الأسبوع 5 FilGoal",
-        "player": "",
-        "content_hash": "0951b0d12dbf278adcc0d27b3d3c5a776938d69406f26ef1f7c3648ba3ed8560",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 3399,
+        "title": "السوريات.. العمل في مواجهة الترحيل - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOQTNFM1RZNG9BWWZIVGxyLWJZVDRVNXhhQTlyU29uUjZOcjlLRlBYVjB4T0pDV243cEpQVy1aZUY2R05mMEV4ci1QV0EzUFBkVTRLZ0xscjRzRlE3Qi02X3pKZkRoaHBBdmQ4WHJqRGwxSVhhOHk2S29RWXdvSjhQWkVjOWhSbDRkazFtSk5PM25lUWl3S2ppSVlBZ2hQN3ZFeFdpX1lPQTRTYjNPZU9hTkVDZWF0bFlmYmZBaWJ1QVNIWktFTVFQbW1DM0JKbkwtUTA5VDRvbER0dkZlbWVrR1Y5ODRVWWR0WXdiTWxKM2RzczcxREw5VlItcWdacVh0Mmo5UWROM2FQSHlqSkYzQ3BFc2VVeHQyVEpkRzdod3d0Mzl6TTFSMVlDaUPSAbICQVVfeXFMTTdvcDVab2dOSTgteFRlUWVFVjdjWnRHLUZ2ZTZ1dXZYREp4STRXSWdZcDJicVFVUkMxNUpSSGJnbF9fTXZxY1VBQ3BlUXY4dEVkS056cU1JRVRzUElJWHhPQ0dmd1hqbTN5bzJFTy1sNjVYT3dmYW82bDZiZWpIcnRmMWpPNlh6QUNVcUtVemNtbjI2bzdWQ1pBWnZMeHhFd1NEVlE4a0piN0w3YXphQ2l4U3hkd1YtSml0T1pmbFlZTG4tUlA1ZEZyNDgtem5TYi1HY1NZMURDZWRSaEJMd2VJMnZHcERVajFwQUZfVkxybU5wYk1FUWRURUl2WnJ4MFN6YnVDbWNfdVFJekpaTmlaVUlEZF9uVDIxcWZyMkdVU1BYR2cxb1luX0VaUkplWkF3?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Sun, 20 Sep 2026 17:16:05 GMT",
+        "discovered": "2026-09-20T17:40:56.288844+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "السوريات.. العمل في مواجهة الترحيل العربي الجديد",
+        "player": "",
+        "content_hash": "93d6abc4793330a5a9ddfd65f34bc52bacfe108a4be30c820e862ab2e67b0e9b",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 3348,
         "title": "الصدارة لصفقة البنك.. ملوك التمريرات في الدوري المصري (أرقام) - يلاكورة",
@@ -1448,22 +1464,6 @@
         "section": "transfers"
       },
       {
-        "id": 2897,
-        "title": "إيران تقول إنها أبلغت الوسطاء بشروطها لاستئناف المفاوضات وإنهاء ​الحرب - France 24",
-        "url": "https://news.google.com/rss/articles/CBMi0gVBVV95cUxOWnpOVGxjSXVBQTk2TE92OG1rNnFJbGtwY0hrazhhRnVyT1NkZ0poOWtjOWxWbG91SHdHMmVqZTcwUnF4WlNWU0RLelYtQ0NTUnFKMjFrc0MyNHZfYWdQVzdjQXJPUkNxTG81ck9tb0JSNnpLZHZDZmlrZlEzYUtWbkkwM3kzRUNRM1pVOFpBZC1MTzFjUHpnemJ3WUVQWHg0VVBIT0xLZ3BTT3VLSzJDbUFDN3F3ZmxTX0phOWl4UTdEaEZEZnZjZGVWTXl1M3dYcmdscE5wa0tScGpYdC05dHA4Z3FkMHpPOG9MZUlLblU0eUdDSVJaNlMtc25KTXQyQ04xdjJvTWgxUkJodkdBYTVQZWxEREVlVjROZHVid0hBNlowaEhOT0pXbUVfSWNyZk8tejJCVm10Zll3RlBYaHhtTHJfS2pCNjNvcFhjVnMzRXh2RXRFOG05enV2NXV2Ul9xQlFLVE0xeUVaNmI2UFVfbkxaU0pNS0lZN1dBQ29pd2RDWHlIaENRZ0R1MW1WbjlleXBCcTJacjlwMUhqOTNZckdmLW1pNU1RQU9COUxPOXFmSjZsZk01M0E1TWtfUVlkT2NuZ19wUFR0SEtFZGpMNUY3MDhSRXloMzJheGRjcVVOSjdZMGVKOERqdzJHdU9wUEtDekJtSExLYVZNUFE3OU4xLWhIdzVKNUlrUzZVMG9nd2xtdklFOW9kSzlKYzh5NmkxbWF2Q3Z0MlYzQk4xX0t4UkpZbDlUc2UzUDdtLS03MUVRaUc3NkFVOFdUQzVabENSel8xby1EcjVqLW5uX3N1azJWUHlCWW4xdnh2RE5SYW1pTGRaQUg5YXFnUzZUYTAwTkJlMHQyMk4tenVyQWRTNWRCMmVHRzVCV3ZJYm9KdHdrMjZQOWVOSndUNUk1RTRRTjZDWUdURU5SbHNraUhXMXExb2tueDJEWE1rQQ?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Sat, 19 Sep 2026 05:14:17 GMT",
-        "discovered": "2026-09-19T22:56:30.270297+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "مفاوضات",
-        "summary": "إيران تقول إنها أبلغت الوسطاء بشروطها لاستئناف المفاوضات وإنهاء ​الحرب France 24",
-        "player": "",
-        "content_hash": "48eb56ac0b469512eb1957d767cc3d4c10540042813c8ac7df1bdfee262bdd81",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 2999,
         "title": "صفقة خروج من سوريا.. تركيا مقابل إسرائيل - skynewsarabia.com",
         "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOaTFqWU9XWVFYWURfSE9aTUNfU2pYVGdOcnM2SlR1TEZVeVhENjNNZFZkN0xSaHJhblNrNXJiX3JLaG8yN21LejNMa3hpeERYVzNXeXY0VVlRNVNPTVFDR0Q3U2YxMEJDaUJ5WGRQREZ6MHJrT1A3UGxWNmNBZlV4SUFmUWtIdVlOZGV0WmlwUWFFd3dqVlFSLUd2bUFCVjczMkRmQU9xZE16eHJwcXNKbWhQY2tPdFQ3QXFzN2k1OTV0Nklhd2tzMEZ5NTlMRUQ0NXJxTkQ5QXh1c1Q1NXBCU2YzMzhQd0pGS000Vm1MYU5yM0JLSHlJNkczUTZvSzNHZ3paUTVOYU9lOGhsNU1hbThwekJQNTlfTzN4WGhrVmp4YjFRbG1NNTF0T3VKR2J0SkpaUXpvUkpCYnhvRXFyWGVvNmNMY1FCbDQ5OVlnbkRzRlBrbEHSAdsCQVVfeXFMTmIzSUxGMmVtV2JFRktjOGdnVHFaczQyRnhVeXl5bWk3N0NRaE9lR0VQa0hSSXR6emlVeXZfQWkydWhRN0RTckJCLWQtMVo0bmx1dzhlYU9aTENvcTZta1VBaUlOTEtlc21fUG1RTDJPcm11UzFzLWR1MFZGYmhiWHUwdEs1NmF3am1OaklzTmhGdXVxYnlfaEJ2ZjBUdC00dXYwTkhOdEJjdHotQWhzYTVQbzZGV2h3Z0FoWEJsVGY2bGR3NG5mdlJqdkZxQ0VXb1plUGc3OFlEU2NxVTdXNURmTjZFZEJ4dWtSZzlBanlSZWJ3RVlsZ1RrN0w1Vkl3YWlFUEd6ZUdBY0NhQ09LNFVyOV9HdU9kT3BTNXZJakVaLTNMZ3JFMkVCNXduNy1mQk12R21SSUdSejlwNWhLX1RpYmtzNWYwdGVjelE4akxKd0FqS1p4cm9CSWM?oc=5",
@@ -1476,22 +1476,6 @@
         "summary": "صفقة خروج من سوريا.. تركيا مقابل إسرائيل skynewsarabia.com",
         "player": "",
         "content_hash": "4e717a387c185afa440c313cbb34bd306667d1bd35aef89d4778cdc47c92943f",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 2900,
-        "title": "تشكيل الأهلي السعودي المتوقع ضد صن داونز في كأس القارات - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxPLVV5ZndRQTNSS08yckVNUEJHemZaSEhPYlpjcGx3enFYeXhHVENaVzRTTDRoQWI2ZlZXRTNFd2ZRUGYwckZDdEdIYlNTT2ZfVV94ZG52WU0wX1BMd2k5SEUtU19nbFFhSmRSelV5QVJaSDU1dm5JZEI5S3NZSEw4eFh2QXFXTWliVjU5SmNzc3ctSDJFdlVqakkzUklNeDlhWG4zeEhzWHRFTm9qWGJvb0puY3ZlMi0tWTVvZzZzVDJmYTZXYThsd08wbE5YdVA2NmV6MUZLZVd3ZHRRTkF0UVhlLUFnb3J1eFlWVzJueENyX1I1Q0tXdVFjaWhpc01kWV9idjUtM3hiUUQ3QzNLWXZtRkxfcmJpWUdROFZHcWxoN3VRNGduaXYwVVVhU1VRVFlLRkZwemNQbXFmLUw4ZmxBM0M1TjBmWXVIaUIwSkZ1NWlrcVotT0ZFVWlYSjEyVVliV256bGhnaEJ1MExoNEt1MVdzR0tJMEdFZnhWZ0ZoVDNpT1AyWnhhbDhEZk1xLWtuWEZPX3FvVTZkS0xaRDdKc25WMkp6SDdCUjRMSFdnYzRub3ByelF5T0VsOTFQNWJDRUUyU1lmNk1tOVR5U0p0RTZESkdPdXJGTUdBQ1VwVnZ6MTFyRndXUUppZ2pYTDZMMFl4MUlWZ2ZMZHo4ZjFCREJTak1OQmpKcFk5REo0dG5WRHpKMjBQSm5ldzBfTUJ1VmlKQmtEN0lkcW1keWdaTzBGQll4TGZJYmpR?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Fri, 18 Sep 2026 21:28:23 GMT",
-        "discovered": "2026-09-19T23:08:34.368604+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "تشكيل الأهلي السعودي المتوقع ضد صن داونز في كأس القارات Kooora",
-        "player": "",
-        "content_hash": "1269ce598363faab86fdce3d87f4027fd85e7a6f7b8caead8279a55212146faa",
         "sent": 0,
         "section": "transfers"
       },
