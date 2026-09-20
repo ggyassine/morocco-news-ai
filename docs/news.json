@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T07:42:45.444836+00:00",
+  "updated": "2026-09-20T07:51:57.630796+00:00",
   "total": 83,
   "sections": {
     "morocco": [
@@ -662,6 +662,22 @@
         "section": "sports"
       },
       {
+        "id": 3147,
+        "title": "بعد هاتريك محمد صلاح.. ترتيب هدافي الدوري التركي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQMGJaYS15TEsxRml4N04tVk9QZ0xiYmJ6ejNsWWRRY2JMZXFkS284dHpidXBEa0o0R3A5UzF5cjlYNXdZelNKYVkyWTJ3YUJwX0lUY29kRVpfWDRoa2N5b3dQcmN0VC1jVjByLXFxY1JIUkNCTkE1TV9UY21ORzRKQ2RqdGtRTkRTNTZtWHZ1M2gxM1FhNmEtZWxoOGg1cDNETFdZSFc5S0JDdDFaN2d6TFlFdk1BVnFBYzM3YW55TDZoTWpZMlRsV1V3NzVZcXpLdy1FLWdLcXNoWHg2WHZZQlNqTThRUzVWOE5YLUJES2xBV2xUSGo5N0ZvbHc0Z2xzd2pmUkpMc2RPMS1TZnFXTVBxeXlWVVVueFFfdE5idXRaTWkweDJJMEEtUUNPa0JZTGdKVU1sd1dGMkNhWEZoVDhLZHhsRDB0X1pHZm9XUkNLdXYzLU55WWduYXFualRveVdqMGY4b0FHUHJqS2hTUTlUcHhYVHcwWG5mS2RTTHk3d25OclRGMzh2bG8wOGdKTWtqWEo0aXFYbW9wYXdLLWM2T1VRZ0F5RXl2YWxsYw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 19 Sep 2026 19:09:00 GMT",
+        "discovered": "2026-09-20T07:51:36.671745+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بعد هاتريك محمد صلاح.. ترتيب هدافي الدوري التركي يلاكورة",
+        "player": "",
+        "content_hash": "9889b418ebdbcd34d86281a4815fd483ac00c1b0809c4ad28d9c4167dfb7665f",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 2949,
         "title": "الترجي يدعم خطه الدفاعي بضم الجزائري آدم عليلات - الشرق رياضة",
         "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNM2RRUU5PdHhyd2ZyTFUwZy1KckJDVUpVc1lkLXd0S0ZwVkc1eFc4U1hLRE1fUHFEbTNLT2R5THlkMGszWE5MYUZTWFVZTjBJMnlaQkNyMk5QdFRFTjRLSlVJLWdQSXVjb042WkllQ1Q3NEJ3SG40X095LUVZUWtLaUIxeFN4Ui1JRTNBV2JKTnRYZ3EwVFgxNjBSV0phZkJFcHpjcVplaC1wdC1IQW9YM0dNS1RkTzdpcFpYYm9OSUlBeEpzNjhmS2xCS0FOcVcwRUVXLVhCR2cxbGhPU1VRRy1OeVphdWNIa0ZLZHpPd1BFbnppeHJ0NnpIakFGMHBmUk5LdEdwUWlWVlBPaUdlUTNQeVpsM2cxYkVpTmN5NFlaOFZpbGhJdF80a01SWWVuenlkcU5tdVp0SVZWeEJna3NvaUNGN1VHMW95OVBLN1RhTXU4cVAzeFR1Z2otN1A2S0NvQ24waXNJSGtmUnJ2V1dvQVM3bTEySWlfRnMxM1c4WGc5Vks0RGhjd0g5dnF2b3BaU3RnQ0pDRmNYS1dJQmFXX1Q?oc=5",
@@ -898,22 +914,6 @@
         "summary": "تورينو يتعادل مع بولونيا في الدوري الإيطالي.. وكالياري يفوز على أودينيزي يلاكورة",
         "player": "",
         "content_hash": "311dc86e292af5ecf0f6177cc78a390c2f87fa18a1e658bfd97bd86077c5d2f7",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 2841,
-        "title": "«كأس ديفيز»: زفيريف يمنح ألمانيا الانتصار الأول أمام كرواتيا - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxQUmpFOXU5aGdiMlpYX2thd2tuUk5aZzFvajlxbFJzcUpBTjl4d0FNNnQzcXVqVnRBeDZvVVZNUXl3b3BORGFuTllGbzRtU0pDNlJ5V21pbEZVUjNqYVlVaFNyTzRDbGJPWmFySXdhVlBCbXlvVXZ3OEpKdE1DTEFpR2FsNllUWXpPZXY4WmNBOWRra3BkeTAydWNtWTdOdk9lMDJKTDF3NGlLcVhkaVhRSEg1b1dNM1IxQjYxV3FCeWtYZ3FOZHE0eGp1cHRNQmdQbGJ4WVJDRS1rUU5kVS10WUxiRlFmMFMyd3JzdkNGc3pUSEtEaUd5QWY0SXUxVjNxOXNDZVV2S2FReENxbXZFZUlISzM0QUdZSnRXRFdzLWxRVTFDUnNIT1F0LUdVMExoQVAwZWFZZEV2VktWSG5USG9VQmpjYmY2Sk9MSXhBd3RGTkpGLVF2aVRxd3F5ZGhvekdGRWltMDJPcXF2c0RvR044eFJKMERhXzkwNUFVYnoyTWZNSlAyNDhqU290M010MXIyV1VFNEYwVmtFX1pfMHhtRjRNVm5HSjRBSkw3bTNfNFhLU0xELWZXZXZZNjJEazFoMEMxZFh3NTA2M3pfdFBwVVg5RU53aWRTUmxHTE5PN0RIY2xfOVdBWUdMRkVJVlJZdWI1eHZsSFBNVnB5MS1ILXRqNzBBV1pma0dZVXRSS0pjRUlWMEd4QjU3MmlFRGVobkFJQXRRbjRGbzU5a211dlpDck5xb3lYaGRqdG5QN1JEYUFRTU9WVVlnVlpzVngyU0VVQzFlX2RUdXozakJJcFh1Y1E?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sat, 19 Sep 2026 15:32:34 GMT",
-        "discovered": "2026-09-19T22:14:43.302266+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "«كأس ديفيز»: زفيريف يمنح ألمانيا الانتصار الأول أمام كرواتيا الشرق الأوسط",
-        "player": "",
-        "content_hash": "29d07d0357c4bbbedcf88ef17482eb22542fad58de3ccd0678a812deb89a346a",
         "sent": 0,
         "section": "sports"
       }
