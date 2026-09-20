@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T14:24:40.131133+00:00",
+  "updated": "2026-09-20T14:36:21.100250+00:00",
   "total": 107,
   "sections": {
     "morocco": [
@@ -261,6 +261,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3314,
+        "title": "من ممدوح إلى الشيبي.. نجوم إحصائيات الهجوم في الدوري (أرقام) - yallakora.com",
+        "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxQWXRxempONm1OQlJiNUZGR3hXN05WSVEwUm4zVHFJMnZBVU8tRUQ0LXBzZEY3WmlYTzZJWVpxQTJ3LVVGY05rYms5VS1ZY0owYWRBMXVUaWhsSFpmUmhkMW1GUnNmcEgyZXNPYVpGUzJ5bm5uZXhsZ3RhV0RHbXF0dmJoU2NxTlFKRG9tY09ua2NEc2FWdFI3ZjhRbkNhSml5Zjl5TGdydVJyQXpaRUd6R3J4SXhzUEd1cXFfS2ltblZOQVRNdXFYVWtvbmxnNjh1aTFRbTRlT3pmeUZCM0R6X016b19KemZsVDJWNjlxOGU4UUVYLUZ1bjg1QXpuM3ZFa2xnODNuUlF4MW83dVlvZS1BUkdKOTEzcVFabmx3MlpFMlJvUzVUM3BRdW93SEpBOER1ZVNYRjJUMzB1SGU4djNRVWxnQnlRZTBJS2RvdkVfaDdBa1pZZllQMVhRakFIT3BkX21WMHpHa0pFZUF4RVY1eGYxczUtZ2c2bmd6Ql83RDdiYjlFN0x6Nm9ZWHJDVzlZUy1SYjBsdzZURnI5TWJRQzBidTVWNVVjMDJqVmtseUE0Yk1seF9rcEVoM2JsaGNUSzRpTm1fMmhGQUpnUlNtWE90bTRFSThQY2RrNE1pdENzT1RjNHpHbnY3czlk0gH2A0FVX3lxTE9QTnBxTk1oVEpYWlBsME04N0lwbzFLb1REUlhSZ0YwU2pYd1BWVU11OWhFSlh5Nkswby02aFZ2ZWpZM0ZuOGZEVzNjRDJ0cWNBcWZBX3Y4NDVwSjgxYy1kS05YeWdtenFyTDVKWnBaZ1RETG4tbTUtWjZwTjlCbDBxQXE4S1JLVUMzS3BiSzdhWlpjX3kzSnU3Wm5OYWZDdE9UWE9kdWI0QnJfenE5YnpmaVpMSmRmZ0RMa0w1S212aXZlZ2tLa3ZpdnBCZk84Y0dxdjVsRjR5QXg5Nlk1NUs3VzRZWWNKOTVrSi01c3VUQ2NlQ3RNZ2QySG9NVks3cjNQR1VYM2ZYengyMlFJUlZMV1JZTkYtUmY0aUdIQ0s4MmF5cWZ4dzRJbndSbTVKNzFoazdYaGh5b29RZVZKd1BXMGxHdl94QXZmTS1xbUVnVGdxblBGUkhSY0ZieklneEVmS09ZQU1BWm5FekJrQmVlcG5DT3FlNUFUVnRJMVhZTE9nSEFkemNxaW1sb1FCdldRYy01WWxWTHdEbEc1aG9YZ091Vll4MVpvWGZfdjVhZlpEVlhIdFk0WTduZ2EwTzNIUm55eGc1RFNMX3FhYkxVWWg5aWtUTVNYMzhwcTNuYVJXakpiVmFPRk1vSk1YcktlQjE0anc?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 14:25:00 GMT",
+        "discovered": "2026-09-20T14:36:04.233475+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "من ممدوح إلى الشيبي.. نجوم إحصائيات الهجوم في الدوري (أرقام) yallakora.com",
+        "player": "",
+        "content_hash": "5037ac0fe0b62b882bd0f0a35bed062ab2c41745623e58fc4b1cd0a8cd9053cd",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3312,
         "title": "فيورنتينا يواصل صحوته بتعادل ثمين مع نابولي - الشرق الأوسط",
@@ -1042,22 +1058,6 @@
         "summary": "أخبار و معلومات اللاعب كميل الأسود لاعب وسط العربي الكويتي winwin winwin.com",
         "player": "",
         "content_hash": "62f604a66edd5a22462ba7d558ece811c2e9346e1687fed04794dbf16ee758c6",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 2909,
-        "title": "أخبار و معلومات اللاعب محمد عبد القيوم لاعب وسط النجمة البحريني winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOSjhOY1FqZ2NQQS1pWGZySlZGOFZCNXVGYnIwZmRmVl8yeDZyQmRaandTR2RJSWVLVVhjdmxNN3V2b1JqVmRNSFdKUjB4Ym9Idm1SN2t1LU1QRG95SWNlZjBNd2xSVkotakhuVzAtVjBuYjNQdGdSc3FyOUY4TzU5dHE2OFpmamIyUVpKTXlhT2dTRm5ELXY1S1RwLWcySVdCS1pJU2RjaWdLMVBjQmFSSVJNUmc1YnRGV3RtUll2cGs1NmtEeFE5TkxWOU9BVjJGUmVMb3piaHRfNF80eDFwSVN6eS05YjBwdHpLRzltZE5KNkp1Z2txY1h1SWtxMGdqbXRsS1BGVG9EVmdfSW93RXhsUkJkenJ0X0E?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Sat, 19 Sep 2026 23:13:36 GMT",
-        "discovered": "2026-09-19T23:20:35.822303+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب محمد عبد القيوم لاعب وسط النجمة البحريني winwin winwin.com",
-        "player": "",
-        "content_hash": "ae6d13eba8da5f051b0e06023d67ef2eb361d887d88ababa56720e3274b70812",
         "sent": 0,
         "section": "sports"
       }
