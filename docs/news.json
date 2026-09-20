@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T13:48:31.096364+00:00",
-  "total": 104,
+  "updated": "2026-09-20T13:57:17.391158+00:00",
+  "total": 105,
   "sections": {
     "morocco": [
       {
@@ -230,6 +230,22 @@
     ],
     "sports": [
       {
+        "id": 3304,
+        "title": "بعد مشاركته بديلاً.. ماذا قدم هيثم حسن أمام رينجرز في الدوري الاسكتلندي؟ - yallakora.com",
+        "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxOMzZwVXl5ajZwV2M2WkIzenlsaWg5VDFwLWZocWpGbVJhTjU0YTRtNTBNNXpLdV9uN0lrMHRxTU1UY2o3d3lWZ2swcFc5UnNiSFpTdWhjZG5XQXBjVE82M3NLSGdlV25fTGVXYjJwQnFRZWFjLWl5X1NTUkgtVUpXb2lFZlIxWnYtZGJrNkhrOUx4b1F1SWxhdU52OFF0LTNEMjc2Zmg5cmM2QXpKcy15QU1wbHktQ1BUSXp4UnpKMFAzd0o2Y25rR2JESzVyNXQ2amlxWGx0NnFDbjJsQmRRcWptTDdhT1VpV1k2QmxOSFhjNkFsaXN6YXQyWFhGV0ZPSXhDZmNfUWhSMm5ndlJGM0JmeEYzR3cyUko4VmVKT0ZOVE1fTHVIUndxa21yS2JHODVSZ251eTlLNVBBLVZhRENGbGV2XzVpc0lyRU50OUdoWnlJVnppY2JzaVN5T1hnbDVNTUhNZkdFcHYtUTloWG1nSktQcTR6YzA4dF9sdFNsTW9jelJ0Z3MyZERPbUVZWmNuQlQtTnZxMHJfLXZHSHN2SjlkSzR1Z1FlZno0MFd6VmdzaGctSS1tMHRGclhhZFZVaEJGTEV5dUJxMi1kNXZZTG5VOFA3Si1wU3pMUGFoU28zbjVFeVlDTlc4OWVHaHVteXNtQk1OQ2htUWU0U2R0Qm9CYmh4elZkU3dxV0tnelM4VDUtSU83Q0pRNkp4SU9UV2JBbG91ZW5ucGg3elpGT0trRHVZSjlZbVFB0gHDBEFVX3lxTE93S0lScDhUdUNVb0FPZG9wMnpRWXdPV3pBMDNrbEY4RFBWc2hBRkhONVcwZnJDUmFOOUp6cGlqLW1wOGdndWE1VXdpRzd1Zkw4bXFvUFJ1Ym9Rdk1qN2tSb2ZLRjBOSkRyR2dWUHRaN3Y4Y1p0TWNBbHlGSTk1YmdrUGoyajhtdXNSOXRLZnNrZWFsQkdacFNLUkJCZ1JSUFNkQy1Cd1FaY015N0YxczF5WXZSQUxidWNBZ0gzVUVMVmppWFp4THU5dWdwTDdrNnBXUEttbW1YWTYySEYycDZpTklvd3FINktPUGNab19WM01SbW9UTmF3SWZqYVdPLW9ORlpTTWRtZ0ZOS2xzdXRJdE1Fak90Rk81NmhyRldKNUJ4N3BieXlDVmd1ZUFCcV9rRl9xSHZTaVJydUJFMlpBaVlPLTJMM0swNW5rRjdIWTk3ZDlUVzdhRlZBYk9MTmY3WVVjVm1ZQ056aFR2QUZheGxyVzd6YUxjbzF6dUlGNHhjQkQ5NXVTWHFSQjBBZzdhN1ZkWEd6ODhhZzlyZmpXc092UnJablZtTmxPWHFISXEtZUp5S0Z5dmVXa0RVZEkwcWZteG4tQU5WOVJPLWlRR3BYaTJGeFJYaXVZTnM2RWNiQXJtR2trV1owQzRCdW9URV9zTGlSaDFWR3l5YVNYdXkwU2c5bmpWUGhremFGa0NncXlHS0w1Ry16dkh2RC1OUlBZak9yTnAtOGt0VEhsV0Z6SkdEZ3BTdFdpNzJidWUwOA?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 13:48:00 GMT",
+        "discovered": "2026-09-20T13:57:03.009904+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بعد مشاركته بديلاً.. ماذا قدم هيثم حسن أمام رينجرز في الدوري الاسكتلندي؟ yallakora.com",
+        "player": "",
+        "content_hash": "0903db41b1df0ee46bf48586c8c07c9a1e70a7e67edb10404bf856df67f74391",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 3299,
         "title": "صبا توفيق لاعبة الاتحاد: نسعى لتحقيق الدوري السعودي - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxORVNNQWVMNEpxbFVMZ1dRNUQwNENwTElvTnBFX3BtZ3ZFREVjakx3VUVBZ3N0dFh6R3ZtMVQwZ3FzTi1DaDhnOGJKT3YyQ29lU2ZRLTFUZWwyTTJEZ2dza2dubTVCWXhRVG9RRTVVNlZyUy13YlJuYWYzM09SZC01WUxfUVpaOC1SS0JoZUlEUzVubWp6d3Z4a0VrWDFvX0lXTi1aQldTZ2M1SEQ4WVlnSUk0WjZnUHJnNm53eThQUlBPaWVhMm9VS3gxV0hvblZZQThTUjd2Tm91SUtTaERXdGR5WXdKaG14UldpMTNaSzhLU2c1Si1DSks0bHhSVW5iUndmMFpOVENpSlVqem56TXJzZHgtRFFzeHdBRElTcDJKdlpoa1JKaVFxNFowVlE1dzVTbjExVlNpS0lpWXlqWjd3TlZGZWlQa3lNZnFWeTdNNS1KUmZ0TldRbWtYWkx5ZjNqOEdkSGQ4Vi1pc2ZPay1qaUp3MjFNdzhUMm5MN0NHd1V5Y3p4LUpPakRGVkhETkt6RmZuWTQ3VEV0XzhxRldfd2pFVFNiaU9ZQW5jTGoxd3I1RGRDUkFHOWxEVmpXWnRkZE9kMjlDQ28ydUQzNk1SR0l4S19EUlJEWGl6ekZQZk5TMUtoRmxGc0hWS1RlTV9ybnE1TFdreS1DMzlGdmtwUG9jN3JHUGU1TldCTFpoLVpOeWx1aEg3YXRKYWNSbFZvV2dDbG1wckh3ZGN2U0d4S2hfdw?oc=5",
@@ -290,6 +306,22 @@
         "summary": "بمشاركة هيثم حسن.. سلتيك يتجرع الهزيمة الثانية من رينجرز في 7 أيام yallakora.com",
         "player": "",
         "content_hash": "8e7c05ba52ac466253aede7997666a6682278adeaa39ffbc50cfa98b519b1c87",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3305,
+        "title": "تغطية حية مباشر لمباراة فريقي بورنموث و ليفربول في بطولة الدوري الإنجليزي الممتاز - الأسبوع 5 - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxOVVUzMFVwZTUwRUpMMGd5WUJmUloxNXE2aFhkNDZaVEhuUUhxblctUG9mcmdHZkVIRnMwX0tlcXRHVUxrdEp5cWgtMEozM3Fac2xJZ25XWVQyOTZSa3BPRUxjTXRDSVR1VjkwMnVvMnJzbl9FYktRVnM5X3FFa0J0WjJYS0NPa1FucTI0WGtQQ2lDV0RNZ2NiZjhVU3ZsM2hEQmNraDFtSk1oRDBFdEt3NnlYdEQ0Mzg3VFc3VllwamVUdGVRdTc1bmRmeFQ5U213WEJvTHpKZm53SW8wN1hUZ3ZSSWdXYzI4Q2FyQ3NhY2NybDJlMXJtTTNxRkpRY2Q1amxQeWJ0V0lSbzhWWEVWQ3gxdUZqc0NzdmJ2ZEJ5bDdSOVctc2UyVFZmekpfUHNXU3JOTnJEbkc0ZEctWWtIU3UzcTlkcmNDWmRkMF9qVEt6M3p6UW9WS0xsdnBJdTRUTXRtbTZaMFQtWXNndmNMNFZYQW9pT0xnelJqSVNsS2JFQThOQnh5Z1BUTTFCMl9LejF1WGNHejdoNVQ2SDFzaUpKRXNqNzE4WUlqMHFOODBzWW1QNFNGYjVHT21peElUeWpwRzJ0aGFmRmhyd3FNMmx3aVFBZmhwNGZvZ1pFRF96UU5nQWc3eE40TEdQQ2s0TUh2TEpITzE?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 13:00:00 GMT",
+        "discovered": "2026-09-20T13:57:03.574369+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تغطية حية مباشر لمباراة فريقي بورنموث و ليفربول في بطولة الدوري الإنجليزي الممتاز - الأسبوع 5 FilGoal",
+        "player": "",
+        "content_hash": "0951b0d12dbf278adcc0d27b3d3c5a776938d69406f26ef1f7c3648ba3ed8560",
         "sent": 0,
         "section": "sports"
       },
@@ -996,38 +1028,6 @@
         "content_hash": "ee035058e46caff80556f1f36c88bbcdc519ad90326f68e42adcf71a4a361062",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3087,
-        "title": "ديربي مدريد.. مواعيد مباريات اليوم الأحد 20 سبتمبر 2026 - الشرق رياضة",
-        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQN1hXVS11MUdIVjdxSWVZMDI4YjRkaHBPNXNXcGhkeEtublp3UEMxdlpaX3FLZU5VZ0J6RjNSb1hPd0szYjlIUFd3VE9DbVF6SkJmU2NyMDV2bjJzUWk4QmZUTDh0dTNZbGJrVW02YW9aQ3RzdG03XzQwbmc1RkVCWmE5dVNGdGhla2MzUVNYNWN0NXlrZ19BZUVEcWJBVEI1TE1NOWV3WVFIdVpYczZCcE1vN2Y3QXB5TnVaRkZvbFJpa0FvVXNYaVpzakxYSnkyTC1Lb2RkazYtWk1tVDFneDE5X0tTQTQzdk1OSmdhQlQ5ODRkbWpYVmVtZTN1dG5qRXBONWF5T3piekotWGN0TkxlOGJta3VlSmlqa2JUNVJjR1dCV0pnZEY0VEphOGlmQ1JLcG92Rl9RRzk2Y196QV9MT0dEWjE0VkRkYXNLNi05Y2FwYmF4eV93VXpFNDZmdDBLZzhCX1pzRTV1ZmljUkJuUmw0OEZ2ZVkzUGZlTmpCZVVjV1ZzTk9fTWwxMVNMdHIzdFA1UVRsUjNaWmhNZF90XzRVUQ?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Sat, 19 Sep 2026 23:04:38 GMT",
-        "discovered": "2026-09-20T04:51:43.071541+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ديربي مدريد.. مواعيد مباريات اليوم الأحد 20 سبتمبر 2026 الشرق رياضة",
-        "player": "رياض",
-        "content_hash": "9d68f4eb23b97734db64ef928c6e54b6ac5bcbbefe4a63331d8cff6a28f56341",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3033,
-        "title": "«لافتة مسيئة» توقف مباراة ليون وستاد رين في الدوري الفرنسي - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxOeS1ETUZEMmEyMWZWa0I1bHRjS0ZHdmdvazdrMjJ1dHZTY1o5aHdmTXZFVTZJT3NscVIwWnRrQ0o0N1k0VnFBVTkwMDdGdkRNNzY1SlVoSldKa1g3a3FDU1lwOWszYUV1bmxIZ0pael80bDY0VEVGV2VoZWRYMVoxcUU1SGV3TDF6Q3pFLU9UU1UwbEpGOXotNTd2cjVpcVlqeUtKSFFMZjN4aFZ3V0VpY3dReGJZUXVldGtNRlM2cHEydFZDUElFUmpScy05T2JveHhTbG9TYktRVTJZRDZEcmo3Rl95T3FhbFlwZXRYN2EyVElkaUEzaGpCVmt4WG1vOTFJMC1fRjBRV0pGcDNfT19mZG5YVTduejRVc0JLNDZINE84bXZXb1hoMmNNV1BoZnNMRUlrWTZMbnVabkZPWk9zbGlhUVVldnRjUjQxVHJhMExveHMyNnptaEFBOHZtM3RZVGRLck8zalRYZ3RSRUxRSTZRdGtMeS1BRWx1T1FjQmp4d19Bb195SS1LcW1GSG1kTzVQNnNPb0pfZkpCM2xiLUdnSjYweUl0ODNiS2RUdjdDUTk1ZG81X0FnUnZiQWctWTdlOW9WZkgtdGhhYUEtbkdvQUVKSDZJYlBvRTN0STQ3Y3l1dkxVZlhxZUtIUEpXVjdJTXlsaFdjTUEwcWxvaTVnVDYwX3k2QW1acVd4Z254TTB2aEk1NVZ0ci1TdnJYalU3di1iLVJfRVhBc1J1REQwc0NOMHpYUlpnOTBNTVZ3MC1OR2tsUTBidWlhRUJXT1dmME4?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Sat, 19 Sep 2026 22:58:51 GMT",
-        "discovered": "2026-09-20T02:21:56.734622+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "«لافتة مسيئة» توقف مباراة ليون وستاد رين في الدوري الفرنسي الشرق الأوسط",
-        "player": "",
-        "content_hash": "23a41161a6ef6330e3a1e6e04fef757e71f972621229ce792432396ba5037612",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1268,6 +1268,22 @@
         "summary": "عقدة مستمرة لـ 18 مباراة وعودة متكررة.. إنتر يتعادل مع روما FilGoal",
         "player": "",
         "content_hash": "87f307f4753921ae0a236b9b8928a7effd849ee9db8ea4ce350c0ba61e6a1866",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 3307,
+        "title": "المغربي صيباري يحصد جائزة أفضل لاعب في الدوري الهولندي رغم انتقاله لبايرن - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQRWpsVDFtQ20zVmVMc0ZvVm80M01sYlY1SE8wVkljbW5ESFAtS1dIenhYOEVrOFFpMVd5dGdsZ1pqZndUUGE4UkJSVUgzLW1ERUVUcmJtQ3hYaGJSNWN5SVBhNlU2OFUyQmZ1Ql9OdTF2TWRDQThfQWxVMlJRSTFZMDdUUUtDeDlCal82TjhGMmxKaDBQSTJIMFpYeG9ITXJrQ2hFRXMyczFJa0NQVlRXX25zcWwtUGxseDYwT3lHWHZMZkpNRUU0dERpWEZTc1RIR3k2blk4Qko4dUxmNDhoWkxtaFRZWVBXbEVSbF9DV3dWbGlXSzl1REFYZG9QdFUxeXI2MXR5MzdsRjNqM05nRi1IMzVkSFdJbjYxQTJobkRsQ05Cb1lfTWFiNlc1X2dKZE9jOW9ZUWJUaU1lODh2eDNiQUl6YW44UUl0Q2IxOVBqcWRPV2J6MFZPaFhTbGJwMkt2M0JNRFpiVTZ0SzNVWUFHZExBUzl4dXJXSGEwdnhfYS1RV25xRkRjYXFpS1FiZ1Y0cXZLMzNxQmh5Y3N4TzVuV3IzWXByanpFeEg3eEY5Qk53TWFDeHRYcXVSUE0zWVN1RUlTQzFNOVZyNXFMSw?oc=5",
+        "source": "الشرق رياضة انتقالات",
+        "trust": "C",
+        "published": "Sat, 19 Sep 2026 18:26:39 GMT",
+        "discovered": "2026-09-20T13:57:08.319838+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "المغربي صيباري يحصد جائزة أفضل لاعب في الدوري الهولندي رغم انتقاله لبايرن الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "bc92eb55b397510914628fae18463163d083edd45cbfc78ed1ff4bcb64045ed5",
         "sent": 0,
         "section": "transfers"
       },
