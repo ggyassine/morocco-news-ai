@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T00:42:25.389513+00:00",
-  "total": 66,
+  "updated": "2026-09-20T00:56:00.058256+00:00",
+  "total": 70,
   "sections": {
     "morocco": [
       {
@@ -194,6 +194,22 @@
         "summary": "أخبار و معلومات اللاعب فنسنت إيمانويل مدافع سترة winwin winwin.com",
         "player": "",
         "content_hash": "7238896c80224eb6342d62139d1b922d4e99abc62e87601b3366e6218739a3ba",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3008,
+        "title": "سوليه: أشعر بالإحباط بعد التعادل مع إنتر ولكن - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HaDNQZTNNVF83ZlpfNWc4bmM1TWM2ZFZzNFQ1Zjc0VmZPOWpaQXJud0w4ZENHbXdpWUlJdlhJYlFhN0xVRzBELURMWnotUmFO0gGIA0FVX3lxTFA0b3Vnb1VLd2k5ZmFzb0h0RkNONUxMT1hma2x4Smkwalh4b3VJOVlZMjdLZzcxQkJaZ3FseVVlS0lrTWhfcEJDcE1IMl9tbHNTR2ZBR3VpWmtacXFmc2ZMRDBFT0ozdngxcjRkVUR0ZFFGVHRlNEFUUWZmajg3NHRwRHEtLU5nREdDSmxGbGlkRnJJWExIbEtsMElKejZ6MWdIT2JYU2pUaHlJYVFkcHp2WGhkZUhJNDRlSG1tVW5RZllPUnpHakdmSDMtX3lWX0I0T2lpLWpJbjBNYzFUVk9BTnoyYTh2Q1VVWVUwc0FRNVM2ZWItbVltTUR1a3dBaWF0N2tLSEZMVTVMbXVKWWRGLU1PMUNyRTV2UnM2R2VNdEY4Rkd2bHNZYW12dnBRX19tZWR3STQ4WVFkRTVWMmFmWmxCVVpSdXFkVTJlZ1NiOGxtZmhyQ3NqdWM1U0ZlRHlNX2dLbTFwb2VvQ0M5U1poSVk1Mm1UV3RpZDRRSWVsQ2JGaUZLSTFJ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 19 Sep 2026 21:38:00 GMT",
+        "discovered": "2026-09-20T00:55:43.604939+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "سوليه: أشعر بالإحباط بعد التعادل مع إنتر ولكن FilGoal",
+        "player": "",
+        "content_hash": "cb0ee5fe6100376739fc6ac7c28fcc216b34bd7286ba678d68fab7897b97c241",
         "sent": 0,
         "section": "sports"
       },
@@ -502,6 +518,22 @@
         "section": "sports"
       },
       {
+        "id": 3012,
+        "title": "الحوثيون يعلنون مهاجمة \"أهداف حساسة\" في الرياض واستهداف شركة أرامكو في ينبع - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNdUxJUVlyRFdWTE5TbUVVQlpfd25KYzN4enIwcmhoUEdXXzVadHMwUDI2MjYzSWxxUDU1OFZYODFqcVhqOTdTenpsS0o3dDNQRzJ3TU9ocC00bDBpbDJmdUFyVS03X1VxVmtZV2xFTm5FNzUwS0Q5aWRQSFZRN21OSFYxcV9XWlpoMFU3QWZNMkpVeHlVaEpmc1ZjbzZMR2ROaWFLVlRTeV9GTS1HNzNJNGZuRXZtMUNvNjFJdnRvUllyZVlCRUpvamIxRU5iRWNKWlhGVG9XaEpMcHJqUGhZZlBqZjlId2NKM2Z3TWxTU05JNU90Sno2QnZWR01RSVRVSGNMSkhDLUdxVE5BcDVxcGlKN3FJaW4zWjFIbDJZdmNlZWFNczF6YlJrVldudVAyTzRkaHdpZWJsWjF2VHp2MlJuSFdCeTN0?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sat, 19 Sep 2026 17:26:58 GMT",
+        "discovered": "2026-09-20T00:55:54.170171+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الحوثيون يعلنون مهاجمة \"أهداف حساسة\" في الرياض واستهداف شركة أرامكو في ينبع القدس العربي",
+        "player": "رياض",
+        "content_hash": "60633d83e9aeb1fdd0e583e81c3fecf07fb592491dfd1f0a5c706c52efa0315e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 2910,
         "title": "الخامس بقميص طرابزون.. صلاح على بعد هدف واحد من صدارة قائمة الهدافين - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYLWdvQ0NIRl82YXo0a2Rka0p1YVZaVGtScExCZXo1YmlrMnVrLTgxQTluR3g2S1Q4ZGJzRjJqRnBaU3BUQmRrMThiOFQtUWdP0gGeBEFVX3lxTE9lWUxSSHlnNnhtTkhNOGpfT1R6Z0JUTXVUZXRibS1NaDJXUHFwNXhOTW5mMU5oUUJOd0RBc2E1UGgyazkyNHRnUzRFM0RyTmhjQzdndjhNYWV4NVJmMVF1UnR1MmZULTBrMUdtdktFT01DVU11d0dKa24tYXJpVjdrMnZkVEhpS2RPUE1WdjBRWExQLXN1d3BkLXh2NGJBSGNKeEJRV0ZJWHNhRXZFbUV5VElueHpTdU1JWmVGeENOdHNQeG94ZFphUlpiYy1LWUJObXZlYTRxRmdYN2hsUW5SVXVTX3YtMjcxSURPbXJZWjhWejdSaVFQWTU4Q1UxcFFlZ1lCOURtTGd5N2hfR1JSQ3J0OGNlTWpQYmJNUDJLLUFyeHVvamFRUFhnTGxWcjduVGc1bFp0X1Fkbms4YjluSk9VMndvQmEza3hMbkI0QnQ1Y1MwVHBkZFp1Zko2QV9KNWlrWXpiZk9nVUt6U3o1ZldqRWxESjl6c2RsemsyYXE1UG9zZDN4TDRrRTVKU1NxTVZ1TG5tZnVCM05LSnZyeVhmU1NNdm9UNVYzbTFyN3JOWTJQdzBFV2pWZ1VORUo1VVNZcGhCOTBlMkZtSUktbFpkTVZZa0xHVVpfaU53aG43N1lHMlNxTllYTldjcEVkeGtTY3Y2U19faksxTlc1MS0xQ1FVZ0RHdG5Ia2VDbkZaQmJtZGxlZm4zZ2JB?oc=5",
@@ -690,6 +722,22 @@
         "summary": "استبعاد ثنائي برشلونة من تشكيلة إسبانيا مع 4 تغييرات بعد التتويج بكأس العالم الشرق الأوسط",
         "player": "",
         "content_hash": "412f5a72fedae4a2da54dc2e73a2782338e74efcc6d78effc1800c9e0f77933e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3004,
+        "title": "جدول مباريات \"خليجي 27\" لكرة القدم.. المواعيد والقنوات الناقلة - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQaVEwNkVuWEJmR2xPcHFTMjdCbkFpTHZNTXI1TTl6bWtnNWRXdWJrbzhpS0dxNWppMmJVaVRBWGQ1aDdIQkdjWmxzaGpHak1yMGtWamVMU3FYczZKSy0yM1J6cjd4V2g3NGppeUk3NGVzNzdrNjlmYlNSdzNHZG5OWl9DdXNVWkFTaUNHNGtYTGw4RG5WeVNfWnU1UU00TWllbUx5NEphcEs1djZ0UW4xcmxtcGpEbXBpb0ZIMWpVOHdXeXdwVmRVWkZwUWQ1VjJHV3FLcXFqZjktRXFEVVRFZl9SU1ZaYTlSTGZnSU5VQUpjQlFBWWYzS0VBc21zQ0xiTUNMddIBigJBVV95cUxPS18wX29fS0c0SnVKRFI3cDVNWEU3U2VXMmhxY1lnZFJoU0ItQ0dJWVlZMS1fekpnZkczMDlTcEJXRlBnTEZPbzFjRGpyZExsVG5HZ3VJejA1X1djSlZteXNKMlVJWnZfXzVMdlJkYmxXTmgtS0FBZ1BIdTMtZUZaemdLMXhZLXpuQ0RtTGFLbkpRNVpyZFdkZDJBT0FGX3dMTFFxam13MVB5cTN1ZDBSU2RuR2x2ajFUQk1Hdl9jVTNsallxdjNTeE90RXhONWQtay0xWmR6YlNFcVpUbTZMdmtaMXFzaWx6cDFWVHAxM1lObUZQYkdvN2d4M2ttaE9iZjQwd0VWSDNFQQ?oc=5",
+        "source": "الجزيرة الرياضية",
+        "trust": "C",
+        "published": "Thu, 17 Sep 2026 20:42:12 GMT",
+        "discovered": "2026-09-20T00:55:39.004331+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات \"خليجي 27\" لكرة القدم.. المواعيد والقنوات الناقلة الجزيرة نت",
+        "player": "",
+        "content_hash": "9e140bb7e6cbb813b4f648da3404c5f287fe6c1707f0138e4a4f54c0c05d545c",
         "sent": 0,
         "section": "sports"
       },
@@ -902,6 +950,22 @@
         "summary": "اشتعال خزان وقود تابع لشركة أرامكو قرب مطار الرياض يربك حركة السفر العربي الجديد",
         "player": "رياض",
         "content_hash": "61097475173f5e386a323dcb4a2cd3c827ff20f5116c33e6f2539a5f2448ac40",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 3011,
+        "title": "ترامب يضغط على إيران.. الوقود والانتخابات يضيقان هامشه - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPblBnZXhBcWRFNDltczRtOVByZzZxTWViQUpzcE5jTU9Sb1VuWmdVOW9uUWFKb21ZUF9tQnJPalMwVnNpR19iMGRfR05KaWFNdVh4b05saVhtTkFMME1zXzc5Y1JfOHhGUTVHQlJBUlNxaXNveS0zbUotNDNJTmJhWVFOYlozSlY5VEV0eWZ6eDFaYWVCMExOYTgwRUdNTkR0RGQ2ZmNoOFZxdk1RejJ6YXR2eTVJUGZTaENwT0l6QW5fck9HbDRqVVlRcHpiNXpNQnBwOXMwZmxPVDNuOVNmNTVKSDdPMVFkT2F1MktIaWVBN1pobDdUM0ZiRjRQWnZGdEl0d25icDg3c0VHODVZbFc4SXZ1bUhrc3pJbW1CbEl6VDBtNURoNDVLN01yQWxkZTNRSGZXeWtvcUhmV19GYjVqb2I2Mk91VXRDTGI5NzVNNGhPeENzYmgzTlFGbGM3blRyMU1nM3I5QUtOUzZtZGlGd0ZkRFhiT0JiQjVZdDM2N1g3UTFlU3ZMelprSG93a1lXeldOTWQzY3FLWWxQeVJKay1hblRnTnhya2JNY9IBtANBVV95cUxNR0NzYW9KSkEwNk45dHd2djBkRHVTX2hqNlYzQkVKQWg5MW5tVXZYbExmMWdQQ1padW9LX3ppcjJhSDFTVXQtSWNZNjY0ckpSOG9PQWZnRmRxSV80U2RPSnpvbjMzaFFJSFotcE9MNUxUU2hQV296eDJsSGRXWTFQczFXZnBxMTJpelhYUWJxUnZESmJNX2w1TzNHRmZ1UkwwVDQ3ZjU1MGhyLWtZWU9TQzl2dlpOenJVUnc1bFJYQVg4cGRCRXlzMTVnNW9uZ3NNYUkwVDczM1oxX1BJeGtEdUJwVnRqRmRiUGNfYk9hN2RRZU5KcjFETnVaV2g4dEJIajJtVlJDV0FaR3Q5YVVWMWVJZll1TGdocjZHeEZhZ0xfZUhqSGxKLTl4RHpzWjQweXBxYmVYdE1vakM4LUpSenpZYnRCRDdKUE82anlwVGVaQ3I4WG9iOTNCNG0wbEJHMndZZVdJU0l3WlBIOFQtb1R3RnY0Z3h4NHQwVkdYYUkxVE5RaXJmelFrRXRCVEZrMzY1dzRBam1adDlsLUVUVnBxVUNuRXpHU1E3UVpkNVBMVWhI?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Fri, 18 Sep 2026 23:01:19 GMT",
+        "discovered": "2026-09-20T00:55:51.599812+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "ترامب يضغط على إيران.. الوقود والانتخابات يضيقان هامشه سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "91ec030c565883aeb49877829771ccb2e13152e9b88b1ffdb38b60a7879e8b4b",
         "sent": 0,
         "section": "middle_east"
       },
