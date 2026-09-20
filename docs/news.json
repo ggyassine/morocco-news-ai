@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T03:08:43.848253+00:00",
+  "updated": "2026-09-20T03:23:46.221200+00:00",
   "total": 78,
   "sections": {
     "morocco": [
@@ -888,6 +888,22 @@
     ],
     "transfers": [
       {
+        "id": 3049,
+        "title": "علامن غنصوتو - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QMWJ0b1RwMDdCcnc1a0phTTJBUWRvanJNTGhBZmM2bW1Kdk04djZWRERtZjRpc0phWHpfeVFIeV9KMHdyUGpYWg?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 03:02:35 GMT",
+        "discovered": "2026-09-20T03:23:23.201140+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "علامن غنصوتو - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
+        "player": "",
+        "content_hash": "8cf399db20033702fd30e5ce1071faa6d09f492c51df9717ff9c71d971c458df",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 2964,
         "title": "الأهلي يستقر على رحيل لاعب ومدافع خارج التصنيف قد يلحق به - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNc0RlcTJSUlYxeEt1eENYYTE4QXhVTTBQUVZxY3VBNkp6cldjaWlJamxKOHFMT2YtUV9TYktHWThrOGxmXzc3R25jaWJESmVFRXBZV19uaG9WMlRlQktja2tOVTkzdjlEdjRlUlR1ODF0bUgydVZvWG9Jb2ExWVFwZEplbDhrNF9Hb0Q3N1JISTVOMkNZby1tbnU4am5sR2VkN09taUhOQVRld2Qtd0ktT1VtZGxIbVlpRHc0dXA1ckF1NmVGd1NnMnJGNENMTnZlSFc5Wm55bG9tamJVaUlZT1JGWC1RRUVYcVdhcTBxQ0s0WXdGN0lJT3dldXFoNDA3R0ZERmc4bTlkVGlQY0hUSnV4SEktNUhuZC1raUNFaVJfOEZqWHJSeGhmTlI1bTRZdkgxZDUwVlZaMzVha1I2eEhJQ3NveEFybmxaOUlwdEFzQWZhQm94UGhiY0JJRE9qWEFCYzBDcFFIallFSHBUNGNnRFlqdWl6N3dJZHcwX2h3RGM1OTE0Y0UxUVpSUElGbERudFNIWjVGV3VXVGNUa3h2QlJfSlotYmN1c2dyNG5QTUVEc3Ffd2hHT21mY29PVVFTaE9iLTRKMUVtMmNocXpGdWZGOWxLYmloVzBEeTdIMFlaN2tBTDZNSUwxZGtNN0c4Zg?oc=5",
@@ -1012,22 +1028,6 @@
         "summary": "المريخ يكشف لـ في الجول قرار لجنة شؤون اللاعبين في انتقال إبراهيم عادل لـ الجزيرة filgoal.com",
         "player": "",
         "content_hash": "053864abd63d1c6d03cecbc285aa873c3c42cce7003d0d455b19465bb3d537b6",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 2549,
-        "title": "تقرير يكشف فرص برشلونة في ضم ألفاريز بميركاتو الشتاء - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxNcndXZzBqT0kzSDljLWlDZGJ2eWxrREI1VHdXVVdOUE1oVFEtaXBwenloeFJXUXB5SFlsdEltQU55QlNRVzlLZVlpWWliZVlrNUhVRmxHWi02QkxING5NdUQ5SndmQWx5ekNiUVYwdDVsQ0tCeWQ1Y1AwdEZaaEF4MVJmSVFTV3hYZWVKTDUyeU9xQXVhV1VrYy12V1JNVG5icjNqY1hsVTQzLXE3dHdRLXpLdUZPZHpBV2I4MXlBc1hRckFGYlY2cjlZWUJYejFWRmRuSjZYalB2ZmQ3LWQ5WnJOdjE3Q2tPZDRLbFFVa1VLb1haZjh2VjN5Vkd2V0V2WExET2x6eUhvSXJWaE5VdU02Y043eXBZcmtxX2VnTmZWSklHeGNYN2w0blF4UmJpZWFYZVk3R0dvQWI2cFdpUjVKT2FzU0huUkFfQjdEMWxaM0NYRUVxLWs0RTE3U1ZraGFSTFRoQW1ZamM0eVBZWWJ6VkRrbVlwUkduUzN2ekhJZHI0SzV5OGE2c3laT29yZEVvbnFPSTZmQV9HQXUtTEg2Wkt1MjdWc2praVItUDdDOFZEVmI0dFB0dExRZmRlNWFIbWtSbWpybTdUYlZJSdIB0ANBVV95cUxNcndXZzBqT0kzSDljLWlDZGJ2eWxrREI1VHdXVVdOUE1oVFEtaXBwenloeFJXUXB5SFlsdEltQU55QlNRVzlLZVlpWWliZVlrNUhVRmxHWi02QkxING5NdUQ5SndmQWx5ekNiUVYwdDVsQ0tCeWQ1Y1AwdEZaaEF4MVJmSVFTV3hYZWVKTDUyeU9xQXVhV1VrYy12V1JNVG5icjNqY1hsVTQzLXE3dHdRLXpLdUZPZHpBV2I4MXlBc1hRckFGYlY2cjlZWUJYejFWRmRuSjZYalB2ZmQ3LWQ5WnJOdjE3Q2tPZDRLbFFVa1VLb1haZjh2VjN5Vkd2V0V2WExET2x6eUhvSXJWaE5VdU02Y043eXBZcmtxX2VnTmZWSklHeGNYN2w0blF4UmJpZWFYZVk3R0dvQWI2cFdpUjVKT2FzU0huUkFfQjdEMWxaM0NYRUVxLWs0RTE3U1ZraGFSTFRoQW1ZamM0eVBZWWJ6VkRrbVlwUkduUzN2ekhJZHI0SzV5OGE2c3laT29yZEVvbnFPSTZmQV9HQXUtTEg2Wkt1MjdWc2praVItUDdDOFZEVmI0dFB0dExRZmRlNWFIbWtSbWpybTdUYlZJSQ?oc=5",
-        "source": "يلا كورة انتقالات",
-        "trust": "C",
-        "published": "Thu, 17 Sep 2026 12:05:00 GMT",
-        "discovered": "2026-09-19T21:52:49.219134+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "تقرير يكشف فرص برشلونة في ضم ألفاريز بميركاتو الشتاء يلاكورة",
-        "player": "",
-        "content_hash": "e9e8cca9b2bb5f43880a2515b4473f05152c25e58af483692a12c0733805e007",
         "sent": 0,
         "section": "transfers"
       },
