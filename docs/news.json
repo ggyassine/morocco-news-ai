@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T22:40:34.607640+00:00",
-  "total": 118,
+  "updated": "2026-09-20T22:50:46.942714+00:00",
+  "total": 119,
   "sections": {
     "morocco": [
       {
@@ -176,6 +176,22 @@
         "summary": "توبا بويوكستون رئيسةً للجنة التحكيم في \"مراكش للفيلم القصير\" العربي الجديد",
         "player": "",
         "content_hash": "dbd3a04ce2ee54b0bbc3497d495b0b0354387bcc130eedadb3f8feca60563c2c",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 3573,
+        "title": "الجامعة الملكية المغربية للتنس تتسلم درع اللقب الإفريقي - SNRT News",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNUEV0R3BuMHIyWmhvTUlxbkM4Z2NzT200REE3REJTVGpBemJieFA1cmY1bU5WX3BleWR0X21aTnd4VlgtRThRbTFwUQ?oc=5",
+        "source": "SNRTnews عربي",
+        "trust": "A",
+        "published": "Sun, 20 Sep 2026 12:45:15 GMT",
+        "discovered": "2026-09-20T22:50:17.885160+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الجامعة الملكية المغربية للتنس تتسلم درع اللقب الإفريقي SNRT News",
+        "player": "",
+        "content_hash": "9bdcfc3a258809b0d35e9d525945f3bf6b9eb5d149e0dff023ceedaac601903e",
         "sent": 0,
         "section": "morocco"
       },
@@ -373,6 +389,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 3577,
+        "title": "مصدر يوضح ليلا كورة.. حقيقة تأخر عودة الزمالك للتدريبات بسبب مستحقات اللاعبين - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi-gRBVV95cUxOOVVQN2lvVzE0eThYd0hZQWN0aG1PZm9US2JIc3lLWUh3d1dUZ1RtbGtPWUh4dWpRZThkdDVxSWlWYldtU3pKWlV1djZBeHlZRTFfaERLQlk4Q08yWXZnUjVwX2s3bnNVd2YtS3l6RVk4S18tMGRhUW90V2VxN0pMOUNrMmlXeF9ZY0wwZWxjYVlqM1Q2RHJTNHJlTGdLaTI1ZFpaR1o0RFYyZ1BzQmZaUFNPNmtqaHM3WUY2aEJFODVpbHBIRXRKT3NHN1R2TFZPVFZtNzVJZ3NnUzUzaTRtODVCWF9kTjFtbGhiU2t5Q1VrTGlBRGNmSlowWThSS2p4TGZHZGRPUmh6STRuTmpsTi10anMyNWpDdzJyRzZCVEVoZDdnMzVIcFpwTTVrUzFkM3I0a0NONlpnbGRVNF9tNE93UzhBWmFhckcxTXRzY0hOd3F1ZlEtTXRfcktweW5OR1pCbVZyOXpsYzJIYnA1UlplV1oyYURxV0lIOHh0ekpLa21mR1lxTW5zMlh1djI3VzJ0NlRQSHlsQzBQcWNtd3dUTFZHQWo5ampRM2t3ek5ZLUFpZE5vTUpLV091cmkyb0RLbjltdHk2MEhpMTNib0dTWWd2SmtyY3d3aVVwMHRfVkNLZmtMX0pra3pqSG1JclQ4c2JXNlRQT0VuUWtFbFowOUlsSzhFc0VDVG0zTXZCYzJOY0hRXzJ6Yndqc3ZabjZoUXJwWm5aNnlfOTN1S2Vqblp4Ml9Odmx0OTZrMV9fOUctOXNVc1hQc2ROcFBZNFA1QzhSQnpQblh2SHZPdEt2X0RxNlFJSTBKRUNRYTZnZzAtYWtldjNn0gH_BEFVX3lxTE9rWXNBanUtMHhPeXZjNzY5clZIXzhOblpKVnVwT05tcTRUTGtMWmRFUWllZmdteUYxR1h5Q0lLWkw5eGRyNnllbE9yNkp5bUktVXNFLXVKWnBLcDh5bjBlaDlfSnlyTHI0d1dYb0h3aXhIdlg2QVZtYTUtNkJ1VHVBeTg5cnA5RUloMjd6NGJXLVJDNWIwUFFpRDQzWkJONUZGV3JwdG5YRWZReGN5U1NTdzZWTVRBN1pvNlQ1alNuVlZZOXhCdWU0YldKVkFBZlE1bWZPOUVENFRNNUk1TEl0Q2NyYVpnLXY5djVvdEZ6dmdTVFktVmRlcmw0amppSUdnbFl6WDJUR05EclRqNkJvbklySXV4RUJNd1hTZGVkSFRQTzJCby1DNnpwNzF1U3dOV09peURTX2NvaW02SkNYQzlEU05RZTBVSzRfQ3BBd1FPcFVrcDAxNXdMVlFnVElJVHB4ZlhMcUpuQXF2UFdiZ0Z2NWhnazI4enM5WVpZSjctcmRCQVR1Q2wtSVp6RHVLTnV6SVRQZUZXTFdOS2paa3FxalVJc3dYLWlrWF9hUmdnbE5MaW8tZjdQVnVTZGZaQ204bmFqNVNYQVJOUnc1aXhWMmZNLVU5WmUzeU13R05jOHluNHhfTjdtSHZXX0RqOGxPVDlJdFp0cmVjSUx4eDVDV25GdE93UjIyVzRpd3pFdndqZEZQVzV1SktkWWsxSmVYdklaTldBX0U0bl9ydlY3eWVGWGd4RTJPTkxwYmNBd0lWZzRwLURtT3NnRk4zSHV0RFk3d3VTRDBWNDBtb0lzZ3dFZjhld3pkYjNxR1hFS1lxRmNRQ0lZYk1kTQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 22:40:16 GMT",
+        "discovered": "2026-09-20T22:50:31.750596+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مصدر يوضح ليلا كورة.. حقيقة تأخر عودة الزمالك للتدريبات بسبب مستحقات اللاعبين يلاكورة",
+        "player": "",
+        "content_hash": "8571f73c4cc9f6bf4a144dcd27a099b4b8cdc0e386b70ea0291723375f9646dd",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3576,
+        "title": "رسميًا.. منتخب مصر يعلن استدعاء عمر فايد لتعويض إصابة حمدي فتحي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOaUZKN2xWVXJmVk5VNGszZGkyUV95OUI5dDZXSS1NRzYtNDdzQ2x6bWZKdkRZRWZ5aTl5UTNsbHhoRVkwQVkyTVpmcnJXZDNkdk9wTW02ckxwVFVScXRSQXM3X3lRdUNJQ1VoS092Qlh6TGhtaUVuSUNleGJUZU1hQzNVRC04alJwQUdlRklFS0ljZHhOU0dtcjZkbmJHbGhxWEFoSVRpUEs3UTZFMlBIRnUtMVh3d2J1U1BuSU45eEV5dDV6UThNTDFIcHFpQ19SWUtvcmQ4TTBlemFlZVpheXJ1Z2p6RWNrQVhNdHJjR0JRYkVuNVdubGZER2pOWmdvOWw3YUdXN3o4RmVwNkJyWUhxdEtHaE1CajBGdm1wQ3VLZnptTGcyUGl0cHJ2ejJ0X1ZwNXdTNVJlQUNDV0JlVmxFVzlFdWNkU0dmUGFxa3lBcko3cXdOSU8tZWtPTzFseENlU0xKQno4d0ViX0NvMko0RnIyTkJmaTVodjY4clNheUNsakM3bWlEV0NaVFN0V1p1OGxFREFnYkRzTkpwZGdBeGJTUnJOSGlMYzl3cWpiU1BRUkVlLWc0Q1lVRnZ5Y1g2dElpcEdPNXo4dUVNNDljZjVHeUEyTGIyekxGOW53NExsSWJWdmxpR0dkN2ZITjRWbE5ydFNnR281WGxaUlJCYUpFTVNk0gGOBEFVX3lxTE1HakFnTXZhYnpEcGVjbkpxVTZiZV81cjNPX0V3dGJjOXpObnFnbTNOelRHWG5hV2ZtZW11TWFHajhYb0lOQW1OUlVRVkUxMTdDNDQzamtTWGxGOHVUdDhyUnpveF9pY0JfODNfTE4wNWQ0TmFWRXlhTERSV1AwOFhIYUd4SmlmVFhPeUNwWG1faG9FMlFoYTBCMW50UDZ5aUpvTkx6S1NMazVvVnBHRnRaWXNWc2Q4aGcxMi1TbnBYV0RsQVB6azd2MWRjMHZyam05b19IWjdhYnR4VlllWEN2bTZHRjJBNzA0LW13OVRLN0VSR0FEdF9wbDEzemNVUm9iVC1Fd1pWd3VJRmVTSlhaV1c1NVo3ZjljREF5YmZfaGZLZkNBQ0VfeFpWVTd2QW8zMk9DWm16MThUSnBtemQtS0R6Y2tBd1ZSbjViWDQtaFVtWmpreEM1cE9kQWluXy0ySkVXNDFrSVo3MmxUa1N6ekZmTlVDd1NDaEtvZy1MUDEweW40RjNhWVdMclNtcGM0Z2UyU2ozYl9Ma3ZYcTZiYUs4bEY1OFFoRmU1Q0pFU19sNXJHbS13V3BYeThkUE14TUZhVjZRaFFTNEw2RmJpaUhkOEFhc1JONnpwNGs4NVlWS2lNdFFJNzFPdS1iQXJrSFgwcDVEbU5qdlluWnUyRnJJc1ZmRWhFUUl0WVE?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 22:34:00 GMT",
+        "discovered": "2026-09-20T22:50:31.744261+00:00",
+        "category": "الرياضة",
+        "status": "رسمي",
+        "summary": "منتخب مصر يعلن استدعاء عمر فايد لتعويض إصابة حمدي فتحي يلاكورة",
+        "player": "",
+        "content_hash": "713511e7e6be2c71206b0e979a63d9c113e5705f1290aeb5b16afd6233fecb54",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3567,
         "title": "بينهم حسام عبد المجيد.. 16 لاعبًا يشاركون في مران منتخب مصر استعدادًا لمواجهة أنجولا (صور) - يلاكورة",
@@ -1138,38 +1186,6 @@
         "summary": "«الدوري الفرنسي»: الجزائري عمورة يمنح نيس انتصاره الأول الشرق الأوسط",
         "player": "",
         "content_hash": "7518feeab01415e2079f0624fc0e35fec2f9b2de450b63b5c65f282f8eccbebc",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3536,
-        "title": "حسام حسن يشارك في ندوة كاف في كاب فيردي لتطوير كرة القدم - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CcmZzcVNSN0lHQmRmTEdDZXNKWkFKN084QjFCVGlLc0FtZzloYTBqdERkaUlxaTVERTdzRXdlcEJYVU5WbHJTbGFpa1dTNUFS0gHOA0FVX3lxTE1ZcHlnblBEUDd6QUVJcDlKUTJwRklxc1owQ3g5VTlIWHlQcXc1VFZWWDN2Zl9JV2E3Rkl3cnBpX2tLOWpRWjdxUkRCU24zeUpxaHVRQV9lMFdRdjBCSWh0Y0xNX0tjOXBkR3Y5QUkxWXl4V1JTUUhMbjJvMGJ0OVNxbmdjQzRpUjNjMUpOcHZIVENhUi1rWDVnR2VOQ1p4YVZGTVV4SW1WYzVvbnBPNEJpdW5vV0d6bTFWSFJtRUxBMWJlRkxsRmxsVnY5TUdqTVZsbDVDYTk4aXphMnZxaWpGZDZYTjNhVkcyUFlzdnZfQ2Z5aTUtTE8wV2RGZll0bUhISkZnQ3l6T3NRZTQxUEtSZnpyOXQ2MFJuZHF0RUlDWU1zLXM4NnJKd04wWHRWOGprNzBXbzdsYWY2YzBXbEo3TVlpMmExT2diejBPLXB5Z1p1c1UzRlJZdDY0T0hyclMzRFVOSkRqQnZSWjVtOFRwUUNnWFduc3BubmRWazl0NXhsc3ZYV2tHUWVvZEVRUmFrbFZjUm5KemN3eE43TTd1VmhyN093d0xSb29tajRKQ3lrT1hEVjc0dHpiSHRHTHpCVEhZQmpDa3BCUGxwUQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 18:43:00 GMT",
-        "discovered": "2026-09-20T21:51:26.060776+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "حسام حسن يشارك في ندوة كاف في كاب فيردي لتطوير كرة القدم FilGoal",
-        "player": "",
-        "content_hash": "40365b3e254fc2c7317011fee014456c2319f88a54a9a55e6b45f5ff7cd67a03",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3426,
-        "title": "حسام حسن يشارك في ندوة كاف في كاب فيردي لتطوير كرة القدم - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOcWQ3X2pWOEVMb2o5NzQtajR1UnVWa2pRUHV3eFVIMEFJSnNjdDZOYkE2Z29udXZMN242ZlZReEVPNWVKa0hKYXZSOVZnaXBBb0RPQ3ZNR19kVHdjeThTTUpOM0VXQlJ2LTVjODRFMU5fMGtUTlRjSFR0M0pOU0VyY3Fhd2pzLWF5dTZuNXlya2JNNVYyLWVKN1ZLUWpzbmZxN0ZUZEMtZDJzbkVVWEdwbGZlbkhqTThFUzJCYTQ0Ym9JMU05VzNRZGxpWlBLTU5MZ1J6RVU1VzZBTHBIQmp3RTFIVVZySjZXUTFvdi1PS19CN3NNVURXOU93UE14VjVRTFY4ZGw2QTFoNUEwY242eFl3YWFEaENUT1hBbVFaZlhPQTNsVEVYR2dFS0lsdmktUm5Sa1lGeElYWVZIbXBDaUN4alIxcXF1cHVFTDVoUHFCeTRuUzM3QlFjbFBrRzJQM0Z6Y3dDZjkxdko3cU14MERSN21ScWdjeUFpUDRZU2FMbzJ6UER0WjFZN1JpXzk5bERTUXBQaHg1MWZCbUYzNjBqU0MwS2RyQ1cwVkROZkJNR3NvSElqb01VcmUtS1dpZVVXNjR6T3PSAc4DQVVfeXFMTVlweWduUERQN3pBRUlwOUpRMnBGSXFzWjBDeDlVOUhYeVBxdzVUVlZYM3ZmX0lXYTdGSXdycGlfa0s5alFaN3FSREJTbjN5SnFodVFBX2UwV1F2MEJJaHRjTE1fS2M5cGRHdjlBSTFZeXhXUlNRSExuMm8wYnQ5U3FuZ2NDNGlSM2MxSk5wdkhUQ2FSLWtYNWdHZU5DWnhhVkZNVXhJbVZjNW9ucE80Qml1bm9XR3ptMVZIUm1FTEExYmVGTGxGbGxWdjlNR2pNVmxsNUNhOThpemEydnFpakZkNlhOM2FWRzJQWXN2dl9DZnlpNS1MTzBXZEZmWXRtSEhKRmdDeXpPc1FlNDFQS1JmenI5dDYwUm5kcXRFSUNZTXMtczg2ckp3TjBYdFY4ams3MFdvN2xhZjZjMFdsSjdNWWkyYTFPZ2J6ME8tcHlnWnVzVTNGUll0NjRPSHJyUzNEVU5KRGpCdlJaNW04VHBRQ2dYV25zcG5uZFZrOXQ1eGxzdlhXa0dRZW9kRVFSYWtsVmNSbkp6Y3d4TjdNN3VWaHI3T3d3TFJvb21qNEpDeWtPWERWNzR0emJIdEdMekJUSFlCakNrcEJQbHBR?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 18:43:00 GMT",
-        "discovered": "2026-09-20T18:54:07.174110+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "حسام حسن يشارك في ندوة كاف في كاب فيردي لتطوير كرة القدم FilGoal",
-        "player": "",
-        "content_hash": "40365b3e254fc2c7317011fee014456c2319f88a54a9a55e6b45f5ff7cd67a03",
         "sent": 0,
         "section": "sports"
       }
