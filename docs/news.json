@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-20T22:16:32.599569+00:00",
-  "total": 115,
+  "updated": "2026-09-20T22:28:37.805143+00:00",
+  "total": 116,
   "sections": {
     "morocco": [
+      {
+        "id": 3564,
+        "title": "توقيف شرطي يعمل بميناء طنجة المتوسط لضلوعه في محاولة تهريب مخدرات نحو أوروبا - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tc0RaTDR3UjAySUl6eHZkYURzS1hWNXlhV3ZkNE5KTll1MHJQUDBBTWdWZGlGWmxXS3AtWmNsTEc4bTJ4RXpwY2lhcHptUkFvR2Y1WHMyUG9weHFxd2VyLS1vNzM2Zw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Sun, 20 Sep 2026 22:18:42 GMT",
+        "discovered": "2026-09-20T22:28:09.211799+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "توقيف شرطي يعمل بميناء طنجة المتوسط لضلوعه في محاولة تهريب مخدرات نحو أوروبا Le 360 Arabe",
+        "player": "",
+        "content_hash": "99babbc6e5c622f322fdd3b92420d01688a9b18f9a9d365c444af3d3d9a5efe3",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 3488,
         "title": "لقجع يهاجم المتباهين بالإنجازات: اللي دّار هو للمغرب واللي تيربحو هما المغاربة - kifache.com",
@@ -357,6 +373,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 3567,
+        "title": "بينهم حسام عبد المجيد.. 16 لاعبًا يشاركون في مران منتخب مصر استعدادًا لمواجهة أنجولا (صور) - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiowVBVV95cUxQQXdjeFhqVmVfY1JWa3NnS1kwTHhsODk0R19xNXJkVzlZbEp1LS1VaFk1RlQ1NE0xaGhrWWFWcE8wejB0a29qVWQ3d0FURHlaZThIMmtKOUlFZTNIUTV4V2k0bm9OVmdsa29fYWdaZTZXSE5oOEFlVkI0UFhmTDRteVNLNXpPMjk1ZTZmQ1BsYkhXYkxuU1dkaDBmZi1aQjYwTTMxcWxGUGlsR0ZuQm1TMG5ydzNTMVpMdmU3Y2xtVGVPcE5za05lRjNnNlNNMFhrNWxKSGc1aVU2VFBLREI0azRDMVJoTUtpbVh6TXJyQmpsM1RkZzN1b3JJRXY4TFhuRzh4T2M4V3FmOGJiemhGbWpfd0RSWDZteUFJT1duTFVTN2VPMk1vQkFiS1QxTDdrWHJtREVNYXJrZnFjLW9fNUhPckJud2xiUWg4S3g5Wjd6MEtJUnFZTUF1TWlKeEdJR1RGeU9uTkV5MjJ0Sml3aE85cjE5RHNQaVVISV9lcVNTeFR5WGdZdGFfVkVydXktTy1JbmlHeGJXcGVJdTduUkNzM3FxS3BfNHZHYXpON01vUDRMMnNCdVVSODUyUU5GTEZjZTVRYTczZDdXRndoUFF3Z3pVeF9kSGxBblA4bGVqSFFwelktWVZLS2V1RmdCdEpJM2pUYm5xblJtNWM1ZEgwT2hpX2hzUUk4bEtGb0hLYTVJSmEwc1NuemotcklMUmZCekZvM0VneU1UNlYweUpGTERCUjZqUFM1aGVCZ1RzbjUwd2ctVUZrUjdPUHllOHBWVDRpS2RZdm5hNnk0Nk1LaUVXbmsxeEVLenpzbWhralVZVFBDWUU0aTl3cHRoSGpFUmpvTE5WVmR3clBhUHJkZ1VuR0hRYVo2YXFSbWxaZGfSAagFQVVfeXFMUF9EWWphcXZtV3hUQ2g4ZjRzZ0d0MGRSREpnajg2WXczdEp3VzZTa1JvTDNYVnFRVGdQTlZ5NS1UYTZSclUtalRORGtSWmlQN2hLVktQTDNVYXRfYkFkQ3VyZk5Nc3FtdHd0YmN6LW5VdEZWajJKa1B0dE4wcmNPUHdZci1yRnBXam9rSW9UWUQzUVZHU0FIZjNyRm91VVdLQ28tdENDalR2clIzX2F4N3Q3bjhkRlVndzVHa3lScFRVQ0E4U0NqT3plaF9MOE5DR2pHN2NKTjBKVXUwU1N3NFoyZjEtb2hOTEEzbm83QkFXbGxkSm9wR2VTTXh5c2t1SEVJYzFXVjJxU3lrTDFPV0NKQjNWQWMzaUhUTnJzXzZNdldSc3pSajhqelFpZFhmd2xjM29tUXJ1dU1paVhnMTRtcDM5dHp6UXNPM0xqSHctRmRNRl93TzFNc2d0MG5MQUtVdmZGLVJXUE5ZU1BHVEpUZFE3blhuSW05R3BzemtCdmVUc043cllkQThjRVBMWlIzS2RCVnBDdHUyWTJHXzRrbUVLemFJVXV6a0psQTB6b3ZlLVMtM0hrc0hGMWNUM1FldmNYeTNJUmZUYmk0dHJfTkZMQjE4NUg4WmE5bjY1UkRLaHcxcDBlVmhPVm9TOUgxVWJKelJDZFk3cUFhZTM1eWsxR215SjFVOVg2UWpmTjdZUDBBSFF5NFA2OFhvZTdrVlBxVVFlbWlWMS1tZkN0TGpGQmh4ZnJ2amZZdVVkT05rZ01IUTZORHBhaVJ2dEpBTFQxR2JsQjlWa0xWak5BRmJ4al9BblprZjhtZzN1R2ZCUDNacU8wbWdYZW9aWV9DNUpXYmlLZXZlNFhSX3JpWTU5NzJ4bTkxN2EzcWYwWTdma2VIOWc?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 22:21:00 GMT",
+        "discovered": "2026-09-20T22:28:21.437536+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بينهم حسام عبد المجيد.. 16 لاعبًا يشاركون في مران منتخب مصر استعدادًا لمواجهة أنجولا (صور) يلاكورة",
+        "player": "",
+        "content_hash": "193c69851d3791c3ab7fecd0ebad6f9af7db035411911496323538c69148f14e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3566,
+        "title": "16 لاعبًا يشاركون في مران منتخب مصر استعدادًا لمواجهة أنجولا (صور) - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxONTNDdmpoZHpLUkl4Slh5TzJ5dnZINEJsNjlyNVlDckxGSjA5cVNsVTBiM1c1SFpZUFp5LWxfZ3RlX1o3d250aWhRRGR6dzJObHAzbmVOTzFBallGZVVvTTlZMXBKbG1Kc3hnVkVOZ0FkNExERHR6ZEVFUnhGM1FDUkkwVUJBZUdmZlV2VFd2SUdRSTVac0xrLXI1dUJEYVhSNFpYbU5pRkhhMkFTMDJndGN0bnVveUNYbF9QZlJsZ25leW45Ukw0bkd1QVVpYTZpeU1CTVdpTUc5VHItOEtiNWxlZXFwS1N5YUVHSmQ4OEYwZ042OXBYZlNmWEVsNlNzYlBLZUdnLW5GV3hJZWxHTkVzU2Z6eVl4V1dBZ0xWVHNVd0p3cWtrajRScWpidDczS0lGRGtTQmJLN3dKTXV0ZXVXVzhPaHIzZXBtMzN6ZVRHbkNQRG82UGlRbndpY18tcTNaYW9IRV9uZG13RV8zWFE1TWFRRDdTMmlQTVFLTkZWWUtBZi1mSXVxeWlwUDBSOWJRNm0tcVVXQmRKQ0FzSFNFNFFwTGx6ODNJaGdPT3hRdEtwN0F5SGZUVkNiT2RXOEhTT2tENGVkdUVRUHZGVHZvTkxGV2hqVFdlcURjMDBCNXBMZGU1ODZ0N3VmZF90Q0JZbTlWZHloWEN1ZVdPdlBXNnN0N0FFV2IzZzNBNkQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 22:16:00 GMT",
+        "discovered": "2026-09-20T22:28:21.392315+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "16 لاعبًا يشاركون في مران منتخب مصر استعدادًا لمواجهة أنجولا (صور) يلاكورة",
+        "player": "",
+        "content_hash": "7fa0ca928010ac93bcb79687d7add2fff06f7b7b359475197ec13800de3e0bda",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3546,
         "title": "أخبار و معلومات اللاعب حمزة العبيدي لاعب وسط النادي الإفريقي winwin - winwin.com",
@@ -1122,38 +1170,6 @@
         "summary": "حسام حسن يشارك في ندوة كاف في كاب فيردي لتطوير كرة القدم FilGoal",
         "player": "",
         "content_hash": "40365b3e254fc2c7317011fee014456c2319f88a54a9a55e6b45f5ff7cd67a03",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3424,
-        "title": "«البوندسليغا»: شالكه يتعادل مع إيلفيرسبيرغ - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPbDVDSUJKbmtjNENlQV9MT25Vc2JwaG93Y2g3Q1dGaWlLT0YxYnB2MVdOSy05eG5fd2JNNGFzRENHcHlnV0RsM0R5Z1lnb2VjUHlRXzNXNFljelM3Z1ZRVEZaa1FyMk5uQ2hMbjd2c2lyYlk4dTdrNjNNaldQamczMlEzMkRLNHc2cU5IcTBxQ1dyNW5KRnlnODYzY2lrQUxmbHVnUjVMemd2MDZnUnlSYWVXdjJiS1ZDTXR1Y0tfTHd5V0x4SV9NVnBiOTZ6NDdTN3NHd3dDRWF0MFpIMXNjb0RseXl6dms0WnJiM19HQlgtX1E3UHh0cWdBU3F2U2s0UFRWMnJjTEFTSnE4b3NEZE1iWDJfUlRpZDZYSFhCeGQ4azMzdXhqbUtuQTNjZEZNcFFGM0g0T09XMW1XQUdiZ0trczZRMjRqcW8zdE5wbEpMR1FVcXFxMDc4WU8xR1ZOZDFQZEpLOXhfSWlXYWRiOGlOMEhhVHc3b1ZTeEZOMTFaSHRBanFRMFc5WkxrT1lGamdhTmQyWXBnWEduVi1BWDh4VjdFdWRpSk1sdVJkbEhvOERDdDdHSEtwbUNPZGtsTEFFZzN0ZkZRZFNEbGdMODNUcVdpUEVCZ3UwdHhyeUI5UnRHN3gxTi1yUm9qT1oxeWc?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 18:41:44 GMT",
-        "discovered": "2026-09-20T18:54:03.638533+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "«البوندسليغا»: شالكه يتعادل مع إيلفيرسبيرغ الشرق الأوسط",
-        "player": "",
-        "content_hash": "c454e33f57362ed7b5d4fb3ecba8d13bab7059fe42690ad8f066d6626e64b6e9",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3423,
-        "title": "«الدوري الإيطالي»: يوفنتوس يعود إلى الانتصارات بثنائية في أتالانتا - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxNbWw1UTNkTXo1WGpTOU5lQTgxNGdiZ3BwZ3lLSUJfRG9NNXA5ZkNFSmdDQ2p5bS03SDFRVUZrNVBaTG5SSHlvVDFoUlBlUUhpanNOS3EwSE82a05qZ1BrZnd3ZXRvT0pSM1NNN1VtOGswSXpfblZjRlVBTjVQeHlpemdTcDNqb2JfLXBsVjlLbnYtNkxXeW5pX3NtYWRmTUhKUWhXcFd2SVAwdllUUENiSm1OYU9hRDZrR2NfV2t5Q29NY200WHMyNE1qRi1vaktka3otWDI0dWg1MnFBZWlUVzFoMXdPQkhYUTVILWFoWDlxVE5YdjlidzlnRV94M3Z0akowNU9WRGFyMVRUYUtUblFoeWZ4dm9PMklmUkxKbzBCTjBTbUNzR2lSQ29TUmV1dkVEOGdMRV9Md253eV9jdXFlR2txUWN6aDh1TzRubjkyWmVOcE9QbERlbTc1eDV3cDI4TXBrQ0ozNVpnNzFpZkI4VXJoWjBkbjJ0ejhFQlFnWFBFTXRjOERsTWhpUEVWQ0FHOEpaN1VWLWUtcDRHajFVQTdsNjFVOFNiRXN4MGZXZGdieGNPT2MwbEE2dEdVR2tLVTVmZXh4clVPTFM5RlZtVW92QmlMQ2k3N3hOU01fRDZGUHpTLTBjRzRMczJrYjd5blNJRjVMZ3NuREdvanBsT1RZNmcwdV95UTBsQ05SUFFROXExcVNVbl9fQm8tR3o0c0dlc0hrb2t4dXU1Rjl3c0FGVmhxdElablRubFNzR2RGc01DWnNHT2JqcTdFTUw4LTFyb0F4RGY2bW1tb01McmVTMnJ1UEVFM19Qem0wclI2cFJSLWFNQ18xMDBaVjVLVmIwYjVTSDVIMHliVktETVowaUk?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 18:37:07 GMT",
-        "discovered": "2026-09-20T18:54:03.328425+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "«الدوري الإيطالي»: يوفنتوس يعود إلى الانتصارات بثنائية في أتالانتا الشرق الأوسط",
-        "player": "",
-        "content_hash": "060feed8997a667e477587dbc45abc8668539257927282c194c579c1f97c3442",
         "sent": 0,
         "section": "sports"
       }
