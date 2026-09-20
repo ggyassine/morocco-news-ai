@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T10:01:58.979213+00:00",
-  "total": 92,
+  "updated": "2026-09-20T10:18:15.214584+00:00",
+  "total": 93,
   "sections": {
     "morocco": [
       {
@@ -1339,6 +1339,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 3216,
+        "title": "واشنطن بوست: خنق الحوثيين للنفط السعودي كشف للرياض عن حدود \"الصداقة\" مع ترامب - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNMEpiSjdiczltTEIxemRxWVpkWTJJVG1NUkJXRUZia0N2ekVOcE11SUtWSTNUeG5fQkgxMTRfdFJfWW5zZ2JHT0VWdlhOa0p6V0k0eW9lWDl4ZUtQOTNRNXZ1c3ZHZUV0RVE2emtTckRjZ3cxSzdCeGQyU3p2dHNMLWhnQkRDaFJTVG5fU2R0R3UxRnUyZzhLZDdKRUhEVVhUWWJuMnBVSFdnWE40eDhDblJMejlURmdnX3lRVzZzZnRfX2FmMW4ybjRsRGhDRl9XZXRtemRSQkhPUVREZmRJX1dXWGwyc21HTUlhUlpTWkw0dHRuQXRfTnIwOVh4Nk5mTU9FOXdWUWVOd1Y2SzZIcXBLMmhsNFBDT0dBS2NNNzlyQlFUUHFCeHRlcEwxUk1hUC1IM3l3Q1FDeUl4MmQtNUlTYlExZw?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 08:44:28 GMT",
+        "discovered": "2026-09-20T10:18:09.002253+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "واشنطن بوست: خنق الحوثيين للنفط السعودي كشف للرياض عن حدود \"الصداقة\" مع ترامب القدس العربي",
+        "player": "رياض",
+        "content_hash": "7ec306ade03691232abfe8173707bd15aca79f08e79642c6d217678590e910dd",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 2778,
         "title": "فيديو مزعوم لـ\"هجوم حوثي على مطار الرياض\".. هذه حقيقته - CNN Arabic",
