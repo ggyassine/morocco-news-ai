@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T22:50:46.942714+00:00",
+  "updated": "2026-09-20T22:59:54.138244+00:00",
   "total": 119,
   "sections": {
     "morocco": [
@@ -402,6 +402,22 @@
         "summary": "مصدر يوضح ليلا كورة.. حقيقة تأخر عودة الزمالك للتدريبات بسبب مستحقات اللاعبين يلاكورة",
         "player": "",
         "content_hash": "8571f73c4cc9f6bf4a144dcd27a099b4b8cdc0e386b70ea0291723375f9646dd",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3579,
+        "title": "رسميًا.. منتخب مصر يعلن استدعاء عمر فايد لتعويض حمدي فتحي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOWFJ2bXotRWZ5LTA2dXpQMzZGdUNPWmM3REcwSVMxRG02V1FUSEJuclYyQ3lHdUU1dVgwdndaZ084RXUwVUV5TnpZOUJ1ZDJ2LWszbWVkRTVCVzJrY3FsUVNydm5RdzF1WHJEOFF3bGRZN1YteFpva0M2UUljOW0zakNHMk5oYjgwUURKTGk4eHBUcm1zbTVtX2g4d2ZQc0RGSklPVFVfZ3RuT1VHT1BpcU9jRUhBZ1RPellOTUVkM0ZwOVhwekxFX3laWW15SmVfXzJzYklVWHJ5UjJIWVN0Y3pYenJLUFBpTVlLelI2NTFuUkZNRnVkNFlmMGxCWklJRHhuNm5GMEQ5MklIVDh0VklhMFVUTnN3MEhseXJadzZDemNBRkt6ZFhHdWJvODF2cUJmRFBvbUFlZTA5M3NtenVJdkRHbl8tWkwwLXZhaDBPeG1mRmNMWFpubkQ2VnFZYWppX25rVkVybjVxM2RHWllkLVItMzhEZHFFSWJHemd2SUp2U0FITXI2R0NnQ29hRDhIdUtOZnFpQkQ1djVKZ1RZeVI5WDVZLTVGWm9UdUFmaDRuamdiNHphYW9BcVNKSzJzcG42UGRsYWdxT3YtUnBuNV9wMEt3amdfNEd2Z9IB5ANBVV95cUxOVEU5TEpBeGFhX2E5SUdYVHBlV04yX1pLNFFmeHBjR21lcUotaF9ONUpkeWNvTy1mcU9hWHNZUnB1Qi1uM3YxMEJMT2JscW51OU1QY0lKaE1tcURGVGVCN3hqWE93X1JOYjZiWGFWdU9tSnlFWFJDY3ZMZDM0OF8tTEZoTkJNQkROZGRiSTRhSnk3a0xRenN5c1FIOTc0TDdnTW5lMGRwTlBZN0ZpZUFmSXlXSW5JOGtvalU4dXNkY3dtcGEzdWdPYnp4M01oRy1jcERCMF82NWtNbTZKT0tua1NLSVF6Yl9kQTRGb29kazFUNFdLV0dkZUdRblF0SzRCNXdKZi1zeWdqcVBVNmhScGJ1YnFsVi1rUzh5ZTc3MTljS1VZN1NBck1nNm1NMU1RejRMbHU1R3cxdnZULUMtUWxHQnRvdFZlR0V5TnE5RV84dkl1YW9BOGRZS0hfMHBDelVVMTltSmRSc3NYMGZybGRoNlNZdVBXZThIZGxsOXdha3BBOUhqNC05dWQxSTVkcHRLbVJ5Z0I2bGxsNzVyajllaVVLOUZjNE40bFZ5TWJKX2xTa2s1Smp2LUpIQ0l5ekJyNWVxSHZ6Y1p3a0pLTEJKRjlQVVFrWVp1YzY3cmJqdzJY?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 22:34:00 GMT",
+        "discovered": "2026-09-20T22:59:33.698485+00:00",
+        "category": "الرياضة",
+        "status": "رسمي",
+        "summary": "منتخب مصر يعلن استدعاء عمر فايد لتعويض حمدي فتحي يلاكورة",
+        "player": "",
+        "content_hash": "1db7c9cb79c329a0401c331be436c0553074ffca026f4d17bce198d00e225c6d",
         "sent": 0,
         "section": "sports"
       },
@@ -1170,22 +1186,6 @@
         "summary": "مانشستر يونايتد ينجو من الخسارة أمام فولهام بهدف \"قاتل\" سكاي نيوز عربية",
         "player": "",
         "content_hash": "46b792098bebd7deb339c1d8f3a50e55502d062e56c93da16d8a26d6c49167b3",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3428,
-        "title": "«الدوري الفرنسي»: الجزائري عمورة يمنح نيس انتصاره الأول - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxQWVVicVVOQ1Jfb1NRQ1lrOV9Zc05zWVhYMEVPRXhSTVp5ajNjaEFVa18zMVoxaFhxdkJLSVhrYVdWQzR4SEZIalBwMkdHaWs5SE9tWFBINVRaUDdiQ2NWSklJb1dDeWdxY014bFU1SmlIWDN6d0ozdVN3ci12QVc0MTRXYkVOM3NoY2gzVldWRTNMWVZObXl3N25nTlowU08zS09VYzItS0otcGFfNndRemRUSlYySEdKWUVKUHFRb1pZTk5ZdXpvVDJUNTdtNG1NRzZZV0E5alRtTXV1VTgyT0RDMnlEN3BVTk41T1JKMUtCaW5TOU9qUDJaZ3AwOHM5NG00QzhtNVJqc1V1VE53YWxsS19pRnNWZHJpS3FmOVFhbXBYUzFrbUJ1YVBlY09hNkdhc09LM0VqRzQtM2Ztd2dqenhfT0tZaTdWbnZlc2wwcjdoc1lheElJNGhHRWNjSU10aHcySGctV0dnY1F5aGY3Yzl3eTBFdTQxZVZhWE5FUGtjbU0xSVBUaGo2MG1DUUFPUzk3Mkkxd2xKR0lDemJfa3puU1NCZU5BWHRLTkZyeXJwVVJmNmVEOFN6d05PZHRhaFo4WlBkRTBJRUxpZXg2WlgzZ09aNU9pNGZReXozOGFQdXdRQzlyaHZNeGVSbFNmb1dsQjlXem1xNjlMYjlmQXROam1ON1JfU0tUbGUxOVR2bm5xY20xOGRhSHRTNjFaLVg2RnRObkh2SlpvaGtqMjczdUkxVzhhYTJBbkJnSFBISFE?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 18:54:49 GMT",
-        "discovered": "2026-09-20T19:04:10.525009+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "«الدوري الفرنسي»: الجزائري عمورة يمنح نيس انتصاره الأول الشرق الأوسط",
-        "player": "",
-        "content_hash": "7518feeab01415e2079f0624fc0e35fec2f9b2de450b63b5c65f282f8eccbebc",
         "sent": 0,
         "section": "sports"
       }
