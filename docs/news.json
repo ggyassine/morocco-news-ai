@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T04:41:14.519855+00:00",
+  "updated": "2026-09-20T04:51:59.443808+00:00",
   "total": 80,
   "sections": {
     "morocco": [
@@ -146,6 +146,22 @@
         "summary": "مع الأصالة الدنيويّة للألعاب الرياضية الشرق الأوسط",
         "player": "رياض",
         "content_hash": "ee035058e46caff80556f1f36c88bbcdc519ad90326f68e42adcf71a4a361062",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3087,
+        "title": "ديربي مدريد.. مواعيد مباريات اليوم الأحد 20 سبتمبر 2026 - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQN1hXVS11MUdIVjdxSWVZMDI4YjRkaHBPNXNXcGhkeEtublp3UEMxdlpaX3FLZU5VZ0J6RjNSb1hPd0szYjlIUFd3VE9DbVF6SkJmU2NyMDV2bjJzUWk4QmZUTDh0dTNZbGJrVW02YW9aQ3RzdG03XzQwbmc1RkVCWmE5dVNGdGhla2MzUVNYNWN0NXlrZ19BZUVEcWJBVEI1TE1NOWV3WVFIdVpYczZCcE1vN2Y3QXB5TnVaRkZvbFJpa0FvVXNYaVpzakxYSnkyTC1Lb2RkazYtWk1tVDFneDE5X0tTQTQzdk1OSmdhQlQ5ODRkbWpYVmVtZTN1dG5qRXBONWF5T3piekotWGN0TkxlOGJta3VlSmlqa2JUNVJjR1dCV0pnZEY0VEphOGlmQ1JLcG92Rl9RRzk2Y196QV9MT0dEWjE0VkRkYXNLNi05Y2FwYmF4eV93VXpFNDZmdDBLZzhCX1pzRTV1ZmljUkJuUmw0OEZ2ZVkzUGZlTmpCZVVjV1ZzTk9fTWwxMVNMdHIzdFA1UVRsUjNaWmhNZF90XzRVUQ?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Sat, 19 Sep 2026 23:04:38 GMT",
+        "discovered": "2026-09-20T04:51:43.071541+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ديربي مدريد.. مواعيد مباريات اليوم الأحد 20 سبتمبر 2026 الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "9d68f4eb23b97734db64ef928c6e54b6ac5bcbbefe4a63331d8cff6a28f56341",
         "sent": 0,
         "section": "sports"
       },
@@ -882,22 +898,6 @@
         "summary": "غرامة بيراميدز وغزل المحلة.. 14 عقوبة في الجولة الخامسة من الدوري يلاكورة",
         "player": "",
         "content_hash": "03dc62b412f79b1ff0909b691691f03fce5f84f0ece85ebaa4b46fa4d29a77e8",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3072,
-        "title": "الذكاء الاصطناعي يضع علماء الرياضيات أمام «أزمة وجودية» - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxQbGF6RjhzZWU3ZXFrMS1GallJMGF0YnpNcjRSdVRBb1NFa0FUdk40VDQzYUlUajJ4aDlDYS1XN2hUOWNTY1NTbTdoTkFYWnZwMzJXNGRxS1NodXpoTjlBR2VMUmdkNFZ4RVhOSGN5eHZaM1lEVVdJOWJ1LUE4bE9Edi14a3ZxUGVaVnZNNFNQaUhPa2VtZG5VaGMwNzFJajJPU09pbFpQSXJqRzBSRVRZcDVfZGVRRDVLcHlaeVBBeGgzWlZleGNGYjBRY0VYUlBtOTdvajVfbTFMS3l6X09fckdKN0w0YmdSdlp5b1VUS1NhNTJvNVA1N0picElwdjF3RDhueVVhV1RUZjd1SWpZN01wRWRBMUx0cy1EYU14UnZlR01RdEMtQ2RTNW5ZNlJYalg3NkxXS3d4ZF9tb0VfdkhRNUpkdDROWkRjcDFNRmhIbEJBUDdyNzVQUFRJSElJQWN4LVVUbzFJRzI1UUwybjJsNTJsSVFvdFJoaVFrdmNrUTE4TjQySTN4SnNIVDVQaDVHQlJzRV9JSzNZS182N1J1S3loYmRhR2pOSzVCU0FIc0VhbXZfdHZxX0JHQVd4T054UlJxVjFqYWJtUXdEbFB2amxPOTNzc3NuNk1ETlhxY0R1YTlqb244WnpBSWpoUEhZeEtienhlaE0yNE5Nd1R4NA?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sat, 19 Sep 2026 13:21:20 GMT",
-        "discovered": "2026-09-20T04:12:04.468838+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الذكاء الاصطناعي يضع علماء الرياضيات أمام «أزمة وجودية» الشرق الأوسط",
-        "player": "رياض",
-        "content_hash": "623adb35fd2c6b1f47278c8ceaf3d8ccb1271bb1e89f560b92b9385bde1e5745",
         "sent": 0,
         "section": "sports"
       }
