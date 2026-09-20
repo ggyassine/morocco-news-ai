@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T10:31:05.707601+00:00",
-  "total": 93,
+  "updated": "2026-09-20T10:43:06.887702+00:00",
+  "total": 94,
   "sections": {
     "morocco": [
       {
@@ -114,25 +114,41 @@
         "content_hash": "b5718b5d4a47a539cfada9a31da6480605267887b85f2b8c5a9b66fd93526e58",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 2891,
-        "title": "المغرب وإسرائيل يتجهان لتبادل السفراء ورفع التمثيل الدبلوماسي - france24.com",
-        "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxNMHdFUUZwelRQd0w5amJ0ekxoZ0N1ZTY0ai1fUjFGOU5SRWIwLThPaW03Vkp4eVNxUWtzbGxHZXN5Smo1V0RiSzdHYjI0SDFYajBEbVpkWWZzNG9fU2FyRHBkRmVwUWw0NEtGelFXNU5hcnkxXzd2QzljYURxc2FmNlNZVjduVmJNQ0JYaEdZanNaSkxzLVg4NzVoRVRyTzVrUWUxMEtiVC01eXRLUi1HbjZTc3EwWjc4WEE1UDNZRjdIRTB5MWFGbU5VOTBUOGZOa1pDbXRZM1EtMzNRUlVnUERfWmpSRkp4bGdsSFhJeHpObzBmTUUzWEVrM3BJekx2bGxlS2M0NC1FaVZXcUFFSi1KNGZIdjZxaXN5XzlXeVhUWUtRTkpsa0NyOVNBU0ZJYXR2TGFLdkNZa3dWMnZ6eFE1MUk0bGIwaXpCY2ZDeHBud0hpN3ZnRy0xMTFoUkg3X2ZYb3ZNdGhpcGVxUXdVd3FZbDRCR2xwYXZLaFZzV05SdWlqdUxkaDQ3amN6NjdvY2dHa1VtU3J6c1RyU2VmYXBpWEhaZE5POTFORU04VUNzSEhXR3RpZWtPQjZkRzVwU1BUWUtqenpvQTAzUkZ5S3pwN1BCeDNHOXR0TFlGR1hSckJfbXZ2ZnUtUmVLRkpteS1TUVhGd0gyUUc5TGtZSmVwSTVhenJ1OEFwWlJLVUpGMWQzQmlaSU9DeW8tdktyREZ3TTJwbWdYRW1uYWVYcA?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Thu, 17 Sep 2026 10:41:11 GMT",
-        "discovered": "2026-09-19T22:47:29.812283+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "المغرب وإسرائيل يتجهان لتبادل السفراء ورفع التمثيل الدبلوماسي france24.com",
-        "player": "",
-        "content_hash": "9bcccb386960ada6302384dfa0ccf40421a550afe640209d7584e4942551f641",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 3224,
+        "title": "دوري أبطال أوروبا 2026-2027 | المباريات والنتائج - El botola",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4waldqQ0xRVlR5ek5oR0xRdlBfSFVhRGRwSjJrMFBsV3Npd18zVnp0M0g3MTJYVXV0ZVZnVTAyWW1LcnpsUjJDU0pna3ZfZUFNWDVyZmxmN09mck05OXNfNXg0c3IzcmZBeWtGMzkzb3J2aDg?oc=5",
+        "source": "البطولة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 10:34:16 GMT",
+        "discovered": "2026-09-20T10:42:46.710199+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "دوري أبطال أوروبا 2026-2027 | المباريات والنتائج El botola",
+        "player": "",
+        "content_hash": "af0bc5436af53c88d8fb6e4779e56381e8bdf1a8d4d864d2d7f9c5fdddbd58c7",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3223,
+        "title": "مسابقات كرة القدم: بطولات ودوريات وكؤوس - El botola",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iX2s4R1hETWRMOUlPWWdGQ3hnTGpKMGFvbS1FNnNpbmxocC12OVJmcE5lUUFTZFZOemphdVBlY2c3X0JPZXMweFhrNVZVbU1UY0VhclVxYTNwSzQ?oc=5",
+        "source": "البطولة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 10:30:28 GMT",
+        "discovered": "2026-09-20T10:42:46.706153+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مسابقات كرة القدم: بطولات ودوريات وكؤوس El botola",
+        "player": "",
+        "content_hash": "e9f6b31b1333a8a8f8f374d8c7ce06ad48f2b95a4b12a6fa9c57bc8d709e93f5",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3220,
         "title": "بوبيل: سنقاتل للفوز على ريال مدريد.. وسنحاول التتويج بدوري أبطال أوروبا - FilGoal",
@@ -900,41 +916,25 @@
         "content_hash": "b6ff82189bb62af4342fb5adb2dbdc00e1631e8b2cfcee8f65ea2313b9121e22",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 2922,
-        "title": "اعتلى صدارة هدافي الدوري التركي.. محمد صلاح يكمل \"هاتريك\" في جالاتاسراي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tSzNmNUpQNFVubWVTcW5qanBDMzVZT0VsU2ZYMGpNNUtrdGpicHZOOUdxTW1NdWJIYnM1R1otWjNPY0VKcDdtX1NyMFZxZGNa0gGsBEFVX3lxTE9DSnhfazBUMm9HRWFYQnFSb2xqV2V5V2JmNWlLVmZKWGRtQXVIRDBLZzM4OUprZTV3UXRrcHcxbjF0ZzBDT1l1YnpWR2xMU0d4VnBFWHlNQmk3WWdEQjZuY1lnZGJkN0ttVkkyOE9yVjdaVlpERTF2amlDbGNXc2l6WU96TGV0OW4yajZZQjlRSUV2czMtZTd6bkROWEZESGRGU09WakZNRU5ydnVmd00xZmxGUktLanByT3lNOFh6Znl0SnZUSXh3TzFtRE1pTy1HZy02MHF5bnRXMTdwemtwcnBkTWV1Ti1uaTM0emI1TGFlNEwyZk4zMjZlaldnZXIyTm54OFVDOVhwRThCQkh0WXpzOTJfVEtEM2F1SDBCeVp3TTdxVkg5cm9IMEZHWEJwSWhIbmp6WFJyeEV0Z1dZdVRIM0JjMzhfcFlQRF9pOWJFTkhlaWduVUlENnR5VUZvVVBVOVZKcC0yNTBTcnBMMzJmbk9FRElWb2ttcGFQMkpremlBdDJYOUVIYllLMExabnlKN0Y1QWxtZE1pSVRLYkVRakZ6WFNKNklTcGphVkV0WW44cjlQWVlhZkN4di1OcmRKNUJhVndtdVg1RnBqZWFLQzJqMkVWWjV0UGNQT3JhVGRMajQ1MEtlNlZqVlpsdTNMZEg3YmstSE1PM3B5dG9HU2xyWDRTaW51dHh2NWdOenhsSkc4c194OUVab0NSNHloTjBQcXJiQUI?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sat, 19 Sep 2026 19:12:00 GMT",
-        "discovered": "2026-09-19T23:20:37.511489+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "اعتلى صدارة هدافي الدوري التركي.. محمد صلاح يكمل \"هاتريك\" في جالاتاسراي FilGoal",
-        "player": "",
-        "content_hash": "bab71a404f6aee884264945b8c366a0c8eec6067367775bbfd3298ee1a434b92",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3147,
-        "title": "بعد هاتريك محمد صلاح.. ترتيب هدافي الدوري التركي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQMGJaYS15TEsxRml4N04tVk9QZ0xiYmJ6ejNsWWRRY2JMZXFkS284dHpidXBEa0o0R3A5UzF5cjlYNXdZelNKYVkyWTJ3YUJwX0lUY29kRVpfWDRoa2N5b3dQcmN0VC1jVjByLXFxY1JIUkNCTkE1TV9UY21ORzRKQ2RqdGtRTkRTNTZtWHZ1M2gxM1FhNmEtZWxoOGg1cDNETFdZSFc5S0JDdDFaN2d6TFlFdk1BVnFBYzM3YW55TDZoTWpZMlRsV1V3NzVZcXpLdy1FLWdLcXNoWHg2WHZZQlNqTThRUzVWOE5YLUJES2xBV2xUSGo5N0ZvbHc0Z2xzd2pmUkpMc2RPMS1TZnFXTVBxeXlWVVVueFFfdE5idXRaTWkweDJJMEEtUUNPa0JZTGdKVU1sd1dGMkNhWEZoVDhLZHhsRDB0X1pHZm9XUkNLdXYzLU55WWduYXFualRveVdqMGY4b0FHUHJqS2hTUTlUcHhYVHcwWG5mS2RTTHk3d25OclRGMzh2bG8wOGdKTWtqWEo0aXFYbW9wYXdLLWM2T1VRZ0F5RXl2YWxsYw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 19 Sep 2026 19:09:00 GMT",
-        "discovered": "2026-09-20T07:51:36.671745+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بعد هاتريك محمد صلاح.. ترتيب هدافي الدوري التركي يلاكورة",
-        "player": "",
-        "content_hash": "9889b418ebdbcd34d86281a4815fd483ac00c1b0809c4ad28d9c4167dfb7665f",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 3222,
+        "title": "بن الطيب يقود أندرلخت لفوز مريح على زولت فاريغيم - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WR3RVbWVqSEZDdmRVbG9RNjlqTEVvQU1ERjlNV3F6RjQwdW8yUHpRRklMamR0WlViWWNSeTZZNlZIdFk2ZE14Tw?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 10:33:28 GMT",
+        "discovered": "2026-09-20T10:42:46.208054+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "بن الطيب يقود أندرلخت لفوز مريح على زولت فاريغيم - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
+        "player": "",
+        "content_hash": "b1b970a4017149cd8d25cf419d7a42614a7596ba61aeb6fa9d3fe9bc9d420007",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 3200,
         "title": "استبعاد الجوير وضم مختار.. قرارات انضباطية في منتخب السعودية قبل خليجي 27 - يلاكورة",
@@ -1060,6 +1060,22 @@
         "summary": "عقدة مستمرة لـ 18 مباراة وعودة متكررة.. إنتر يتعادل مع روما FilGoal",
         "player": "",
         "content_hash": "87f307f4753921ae0a236b9b8928a7effd849ee9db8ea4ce350c0ba61e6a1866",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 3225,
+        "title": "مأرب على خط النار مجددا... صراع على الموقع والطاقة - اندبندنت عربية",
+        "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxQMWt1QWtsYkYwb0Y0RVAyaGExaVFHU0otQW9hcEgtOVRsMWxNTlFZd2sxZm5yLTFqZGM0dHBXQXNMWkFicUJTQTRWQ2h2OU1tVHFCam5kZnBsSm9ycVdnM21obHdCQUhNdnNkUExrTkt0eG9wdERDSTZnUlk4Z2FMTWNIREVPRDJhcWhjNjJMeDg0M1RxZWhZTTJ5UkR2RTFkb1FwME1fNzgxcEZ2QURxRzFrMXgtQnE0TlNhOGJFR0xyeExPajl1ZlR4RUhJdTYtYWcyXzdacXI3eVVmQzYzb0VVYTFCRi1TeWZibm1wOFlJZXFQZ09rNUZseFU4d2lJMnVRRzJpRHJ0UHYtVEJQZHJDQ29IZzctVEJ0Zk90Z1oxdk0tcFFOdVJSY2ZWdGJkNEVLRENHYXF1ZTcxaTBjV1JSRm8xSEtZZGs1d29Pcy00UWhSRFdkWHh6OTQwcWc5TWhqWTJBX0JvSkt0SlQzeHVMY1FqSnhnb2lBdWFUTElJR2l3T1pwY3MwcXpVR0pmUjJnb2Y5b29ydTBEa0phXy05LUVqX2NlZFZMcExMa2dqM3BpLUI3dWhjanQ5UmRSenAtU0p3Qk5GMnVYNTVWRER4ZTZzOUVnel8zZGYycTYxcHhrZjB0X09YbTdlbDN2Zk9kMm44MGEzMlA3eVc0?oc=5",
+        "source": "إندبندنت عربية",
+        "trust": "C",
+        "published": "Sat, 19 Sep 2026 15:44:24 GMT",
+        "discovered": "2026-09-20T10:43:05.042846+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "مأرب على خط النار مجددا... صراع على الموقع والطاقة اندبندنت عربية",
+        "player": "",
+        "content_hash": "c785c84d85ff9a85b430082fd7777d5fd1b3e89fb459e7dc73a045ce7c807057",
         "sent": 0,
         "section": "transfers"
       },
