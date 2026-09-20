@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T04:12:22.756159+00:00",
-  "total": 78,
+  "updated": "2026-09-20T04:27:26.363600+00:00",
+  "total": 79,
   "sections": {
     "morocco": [
       {
@@ -1028,6 +1028,22 @@
         "summary": "المريخ يكشف لـ في الجول قرار لجنة شؤون اللاعبين في انتقال إبراهيم عادل لـ الجزيرة filgoal.com",
         "player": "",
         "content_hash": "053864abd63d1c6d03cecbc285aa873c3c42cce7003d0d455b19465bb3d537b6",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 3077,
+        "title": "توقيع اتفاقية تعاون دفاعي بين الأردن وفرنسا - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPcGFMeDhuOVYyMU9CczVEd0syWmFreWwySmVDVGdrc1hwUVZ4MDNaeE1JODB3cWJKZnBWWTdjQ25WY1JxTVpOeVdVUlNfbGlaZUZRdkRzLUJkZzF2ZktUcFlvYkV4bERGVlJNYXpWWGJ0TzE1MXJpeWtrX1dYNW5qX1AtVzhZdk8yZFM1Q3NVanZXWk1PTnVVYmx5NjJLbWRkeG9UaE41elR4MWVrUWhLMEh0V3BCakM5aGFyRG9Db01sNnlZVTVlcGlyeWpEQlJLQ0NCd20yVUc0b084U1pnYTE2RlpYWnlXOTJCaXB4Ri1fMVVaclpOMUlVQlNBeDZFZEF3X1FpY25faDlYdTBnWHA4NUxFSzBDeVcwZjFOVmtGNHRNN0ZKUEhiRFIwSjh2aFhCZTVZUVpnaU5WR0tVaERxZWZ4Tnp4T1ZfM1dNWWt0d9IB1wJBVV95cUxOblN0bGJheTB4NVNFdk9ETjUtUFVwMTFYMUNVazVyT1FQVlZXYjJQZ0xIZ3M2djZKSDRqWHYzX2tRdU9VNjItQlJkdnd1VkZYTFFTMDQtX3NVNllEMFMya3ZtT3pkdENqVnVKS1JBaVR2cnhPWVJ5YVVlSU1LLVFpM2ZIVVRGdjdFOEVQaElUanZWNE9DdnJvZWJJZ3pwZTB0aDFGVTJBckVBWktQN1JvTVZIZ0hyeEh6cjdGXzQyWUk2bVBpMTVfZWZNcTJIRzJDRjdlbHd0UGNWak9rd2d3cmF0WEs4WHVMMHdaMDN0VzA2ckYxdnhUUXVBcTNkTkxTQTFJaFY4b2U1OF9xU2thTWwyOFdVbmJUR2xISGxiRGNySGxhVW8wS2tNc1hPdmhuRlFrZjQ2Tjl2cFoxOXdSdEpPMXZ2RVdtOVBGLTB2TlRhb2dBZEZR?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Thu, 17 Sep 2026 18:36:04 GMT",
+        "discovered": "2026-09-20T04:27:18.036741+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "توقيع اتفاقية تعاون دفاعي بين الأردن وفرنسا الجزيرة نت",
+        "player": "",
+        "content_hash": "35bb9517294e9c158b50f57653bdeadf36f87b6235569d28b874146682f49361",
         "sent": 0,
         "section": "transfers"
       }
