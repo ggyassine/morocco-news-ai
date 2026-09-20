@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T20:09:25.306040+00:00",
+  "updated": "2026-09-20T20:23:04.942387+00:00",
   "total": 114,
   "sections": {
     "morocco": [
@@ -325,6 +325,54 @@
       }
     ],
     "sports": [
+      {
+        "id": 3454,
+        "title": "أربيلوا ولينو يشعران بالحسرة من التعادل مع مان يونايتد - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxQMzAwSHBVYTYzcHpKS3dOM1JKdUFmbWhtdEhMYl9hWDdNX3dBSndPSUliMGpxS1FpdlVkb1pvRlQ3d0FYOTdmaHQ2aHNMQ25sWGkwSGlLVVpHa3VIRkVJcXB0TTFyODJFSTlQYmZRTmI4c1RTVmhDNGUwR25XU2NvTTRwdFJmVnRyTGE0TjdXeU9WdHQ3b2dDWkVrdjZXbW55V01TbUttS1p3MnAxcEt2ZnNBM1k0V3ZzTHJ3ZzJ3VklPbWl6Mng3M05sOWdlYTRyVXc1UVVPQXlrN0FlTnNpREFYTUpMSWlkdjZXaWgyY056VlEtMFEwUE9JQkhFQTZnVVJsQng4MGFkaEN5TjUzcG91OVJCNWQtZlF5OWRQVi1IbmpUaThOVi15S1RuQmQwY1J2THNuY2hHVUJxV0lGMmNJTGR3WmpuOFdjcGtJQ3pvbFctZVM3akUzVHl5bXhnbFhqOTIxa1VkT29DUnhKOW1EUEIyRXJWeVY1UGs3RklKQlFnLUIwTkl5S05tNDB4aW9mTmgyWGFCVEdUc1BqT0ZEcjlMOS0yMVNHLXNTTWtEZlJKdjQ4NFlxZ2Q1YTc5T0pudjhmVUpMbTdocV95VnMtVmprVGNpSmJudk1fRnpzV3ZfUEFlWl9qWENfVHZwU1VZWExyZFF6X3M4ajdJbF9fM2lqcDNpNmhzTnowSVgxOVhGaS1lSjFqcnRoSUhrTG5hNFlHb2pXWmhCN3JFRTRMdHhFaWJRd0ZSZWU5N3FBLU9wWmp2NVlYUG9yekU?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 20:14:04 GMT",
+        "discovered": "2026-09-20T20:22:42.638586+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أربيلوا ولينو يشعران بالحسرة من التعادل مع مان يونايتد الشرق الأوسط",
+        "player": "",
+        "content_hash": "d17db85347fcfd821974d8fe4c7bc1e37fddb54ec95cc7f21fcfa151369dd1d8",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3453,
+        "title": "كونيا حزين لتعادل مان يونايتد مع فولهام - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOLXcwRWROS2pySkdzZUZPLUpBeS1nQk9mN1ZKSW0yTklETE0yTTFlMjJzZVJhR3R0SWF3dE9KbW02Z0FYQTRaSGhVMWpGeHV1Wm5zX0p6RjZVVVNRc24yQlM0V3p3b0pLN01sTTVIMkY3V1ZIZ3BOU0lIZzA4TDZhZnMxQXhGVmZhS2JpMGxISTF3Ym9NRjVxanY4ajItN0NXNkVvbURIelpSQUx2WC1Jc3FySjZfZnpCTUNIdmlWcFIzeTNRZS1MV3NDcGRtX3BMX3ZjYkFkdWwwdmJnY1JIeDM4RnZ1WlA1VFZpZUJCWXJmaXNzMmxDVDAxUVpBbWVWaUlBUFhPY01NUXV3eTk5S0RCZXduOEZmdXZlS1hRSE9uRTh2amFmZnFuWEZ3bDJUWXZuZjNmMU1WM0dTT1RSTmFaRVFQdWRoZ0VOSXJEVEhjdHFjbm9aWk4tMHg0Mk9GSThfMThTMnBoeW82M3dHQWdsX29zUmdqN0tnUnVXMXQ3c21Pd1BqLV9QTzQxR1kyLVVxb2tsQTBxRU5NMGpxLXpjajZnOFRBOXBqcTV5RkNiZ2JaQmVNVUpIdm5KeHV2UjNNVzhwS0NOVTFfY3pIeWNUSHhKeXFfclJEb2llNU56TURl?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 20:13:35 GMT",
+        "discovered": "2026-09-20T20:22:42.630585+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كونيا حزين لتعادل مان يونايتد مع فولهام الشرق الأوسط",
+        "player": "",
+        "content_hash": "b8c44483f2b2a6e2ac4a479cc0e4614eaab6f864c95c6cd40c1cf74835f71b89",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3452,
+        "title": "الأنصاري لـ«الشرق الأوسط»: مواجهة السعودية اختبار قوي لشخصية لاعبي الكويت - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMiwAVBVV95cUxQS2F6VEVVajIyamlzSlBaOUhKcVFIeWJRV3IwZWhQakpNX3B3bGktcXZETkJ6LVYxY1hLc25uRl9IV2NIV1BtNXpvVmg3RDFwOU5sbW12WkVVT1ZEYlExQ0NpQTVBaTQ3OUZLeGhkMW0xbmh1WU9WUEZNQ3AxazJMeEZMU0dwNlZzLUFwSkszRzhnMjVGZkJmVlBRZWRLLUVPSmNBUmFVUUd2LVl1cEs3WVQ4X3FzWlJ5dnNzRkZONkZKR0RvWUZDZkFwdXFyRzcwbUNWaHpmdmR6QVpzRXJRRzE4SW9IRnlvOU5KenFxb1d3dlVQWUhZWWdiZ1pqOTNwX180WU9zZ0diazFJQnVyekluSW5aWVRvRzV2YlR3bW01OWxvc0pzUUNwamNuS1FEUTlMTmswdVhjYlVibHg5SE9XSkFWRkdzdVJqSmdLak9Fd255MkJ2TlR1cDZZbVJZVXZENUgtX0tzXy0wQngyWDBRYnlranRHNDVvWTFWMUF4LXc2UXpIOXNFNnRzNjQySG1IcUtuSWhkZ2RSbmZYc3p0TUc1TUhERzhDWVJfNVhGcVcyRmZqU0syUWlCUzZzcmk0RTQtUXkzVjRrdE93ZnFfSjVNU1ZCdVloQ1BHUU1LTl9oWmo1cHVCaEY0bVNGTDdIcG5mSFJQVldVOVpiY2pXMHRNc0JVeFJhXy1DWnlEd0FhblFsVXUzbGZ4eVppY1dJMGlSM09kWmxWNUVKOVYyNU9KN1Y4T2staFRKdWl5NTlNc3VYQUJKdVdoT0xmajQ4MFYtOGlVcV9TTk1TT3YxOVJkc3pEdVlCS0I2VGpwZkNvbERXOXNRTzFZakdlRE9tanBYXzZtQlF3U2h5ZHlQTWxXQko5bXRPOE9hQ01qU0d5LUJqdm9SUEk1RXZfd1JHTkhESUM5MzFobkFnNg?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 20:13:01 GMT",
+        "discovered": "2026-09-20T20:22:42.548899+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الأنصاري لـ«الشرق الأوسط»: مواجهة السعودية اختبار قوي لشخصية لاعبي الكويت الشرق الأوسط",
+        "player": "",
+        "content_hash": "a80cbee2a371984af9cd3232ae6c51c14d4033130ef8cce39a9c66b90856656d",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3447,
         "title": "أوبلاك حارس أتلتيكو سعيد بالفوز على الريال - الشرق الأوسط",
@@ -1074,54 +1122,6 @@
         "summary": "أخبار و معلومات اللاعب Sam Koffie مهاجم الوحدة الإماراتي winwin winwin.com",
         "player": "",
         "content_hash": "7b3bc2df177f1471c4052a75c7aacf20aa3a1341f54d0eaf70d39ece32551ffd",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3364,
-        "title": "أخبار و معلومات اللاعب Saif Jafleh مهاجم الوحدة الإماراتي winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVlLb19mbUE1U2lfVV8zdWlhME9jUTYwNlRIRTJvSVZuTjlOVE1xaUNlZC1yMG5PSHJsbG0zVVhudVE2NmhKVFV3Zl9wMFFZTlhrWWZxaDdSd3BqUWt0b0xUWVM1bmVHVHgyZDc3X3ZpNTRCRDJ4cnAyS2pLUnhFT0l5LTJYbFVnTTBOZHNydXBoam5BcUJaUnN6SUtWV1dmZjR2SUs3cF9WOU1hMHhIVl95VzJxZVZuLTEzS29B?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 16:22:43 GMT",
-        "discovered": "2026-09-20T16:31:49.443701+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب Saif Jafleh مهاجم الوحدة الإماراتي winwin winwin.com",
-        "player": "",
-        "content_hash": "4814ff1fdef1b36e021bd1c0e7604bd073c7855ce76a37cd4b06d2d764a90d98",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3366,
-        "title": "إيراولا: سيطرنا على اللقاء بعد إرهاق لاعبي بورنموث.. ونحتاج لتحسين بعض الأمور الدفاعية - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMimgVBVV95cUxQOFd6OERqSVA1RWlLcnRwVDNnUzhRVlhZYjFHN3poVElWY3J2T3p0Sm9TQ25rQ3RKNlp1Vjk3WHZCeVQxc1kzazZPT1VNQmFjQmFPSmdXdG1BSEVWV1NQN083WFFaQlROWWFBNy1BaTlySTlZOTVQeldfOGV0TVdnWUtFMXhiMGU4czNBYThMbUxOUVZyRmlsUVJ0TDlic1UtWUVha3RGN1NOQXQxUGlHbWVncFo4WTRRd1BkNERBM0p4VXlodllCMHFTWE54Vmtpdy12aC1xZV9tNmJUNFpMdGN3QjBndnEwQmZVcmhSbjdncGRNZVpHNzNOUW4wZ2Y4Y0ZWQVp1R1RuN2hDajhsVS1XYUk3bTFLSnMzTl9FSHVFTDdvdFJ0aWREem5IMHJ4ekhlUjM0bUZUS2VreW5xcFVUNXExZ3pyU3lyanVJNklVNzl3LUhRUmZFd1hIZ1RwMEU0aEVKSTljNkoxeDh2dzhnRjcyZGpDcWtsM1dMNDJZT0V3Z0RCSEwyUkZOdkg5Qm84VlZNdVJvd0NWcFEzcUNkaXdTOXhHcDRlV08xX25ydDhjT1hoamZTcGtpR1l3VDlQWUZua3BxY3VfZ1VFWEh2cWR6M2tVNl9YbkcwMEVKMG9aOUo2SEFqM21ZRDdhcmplOHVTaE5yY1RnOGZ6QkxpMmViVFJ4dVExazlKMTBvWFJ1V2owQUk3VnhEN1A0OTZETFNZbFd0dkN2eTBkQ2lHUDZvZlFPVC1nTGx2V3BJUVpobWRKTHVXX0xkVnFHZll4c2JZV3pzRDU1aWlTVlZ4bkh3eWRuelpUbm1GTllkajRKSTlSWjNRejU1dUU1eHlvcnRjdEM3QWxiSEdaVVptTWNSVkQxdnfSAZ8FQVVfeXFMTjBBMmRXazA1bDhEeGs4NmUwSGlxT1FNLVdUTFRoVGtyTlFQZ2I3MFlwV3d4OEVrNlNFZmdHbzdLak5FTjcyS1pMOUE0czlHNGR1MTNSUHlxZnVteHBUcTdianZYNnpDejNndlpUb2NkUVpxVXNjV05mdHdESDk2SnJkWEdqUElVMVNUcVV2bkZrcjdZWlRRY2s3Y2xGRFY3aTZxcDJlS3RHMnFrekRVZ1hxUGVuZkJIS3RrRWdyZDJQMVlfaGEzWDJTeFY3Zm56a1dUMnpXVHliWFRPZUh4d1RZTXk3NjJnTFUzUm5wNXZSME5Fam5oaDFoVkpFU1dsOFV6cWFybDFYRi1mZ1NhM1hpVUIxOG9nY1JSdkk5bGM5UXYtTG9fZDlidUhObFVValEzODRKNF9OTExseUN6YTN3SmxLNHNWb2J5X2h1d0NqMEljRnhSaDdqc1hGalkxRHF3V1R2cmJCMGd6S25vMzdFRTRoQmRZdjBCdGlKc0tLMFlIM3ZGMWs5VEVYMkNYZExZYnJNdHBGby10YTBaTjZqLTJqNXBYTk55aUpRZmM3ZjlOdk01UDdqYkhCdmJKUW9IZl9RQnh4eDZuUDViWTZxdnVOOHJYaUttcTk2SmZwWFVvaTVSYXNFeUlrQm5BODVyWFBEN2lDdUV4LVBVZDZTNG5VeldlUlY3V1Y5ZWdHZm9rZHlnNlNaS3UwbUN6SEdSYUpnZ2xmVGFBM25UOGJhb2NwTGt3dU5aU25FMUpkcml6V0c4SE9MTXo2MW5fOWpZS0hJMmhVX051MndOdXI2OHMwbmtDOUY0SVYxeWdTTE5HREpKeF9YeHdvakFFdFZ1dHNHUHNrMTlnMENXaHBidjc5ZHRXUWhjcHFxMEk?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 16:18:00 GMT",
-        "discovered": "2026-09-20T16:31:50.675946+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "إيراولا: سيطرنا على اللقاء بعد إرهاق لاعبي بورنموث.. ونحتاج لتحسين بعض الأمور الدفاعية FilGoal",
-        "player": "",
-        "content_hash": "7afedef199553b379dd04883002837e4333e4075067ba13273a71fe18f8c2fe7",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3352,
-        "title": "«البوندسليغا»: ليفركوزن يعبر لايبزيغ بثنائية - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxPNEs1QTc4dmhUMG45VVJTTVhnSUlEZnB5enpXWHV2dDdVTzl1QkNkUHM5aFFOaUlJTFZ1SVhPVU0yX1NBZWdQTEZ5NnNCOTdSS2REWXFUejBpTTJFVVlwd0lDeWctcDhIRm9ObzYxZW8zVzRpR3FlSjNTLVhMc05jMURycnpCcEFKU0RZMkZTN0tYa2xxSHlZOFVwaGJENklOWGNOQTg0M1d2WDNONDcwYTgyQUJSNTEzU241NjkySnVGMmpiajZuR19wYVROU2tYMHllZm1xTUxWeVl0dlp5VUJWSTBmaWVkSUU2LV9Kai1tZUtpYzNMYldoQWR6aWZhWFd4cHItZWFxWFRrblRfUVFJQjMwRjJoQ29FQmJPYmZBNVdQa2FPc2hjMEVjZ3dTNXk2azVRb3Mza1JleUprMm9GTHpEdlRSMkhZb0ZoMzcwM043S1NWeFRSSUFRMlZvOFRPcXF3SWZPYnNNMGVyaUZQQWZZZkcxaWg1OVBEOUg5Rjk2Slc2WEtmQ1lrY0c2V1Y4T0NFRVlMRGt3LXdxVExKMVVQZXFTeEcxRF9sZUMySWd6YWFWTUF4NERWTEQ4SE1zUHFvWmp4UF9EcjJ3VklVeFVrMGU5Q1o4RmlVelFaeG5hNkF1SXluQUQ3MldZSmVCYXJzM3F2cFJpWG1RTVBR?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 16:16:14 GMT",
-        "discovered": "2026-09-20T16:18:29.374987+00:00",
-        "category": "أخبار",
-        "status": "غير واضح",
-        "summary": "«البوندسليغا»: ليفركوزن يعبر لايبزيغ بثنائية الشرق الأوسط",
-        "player": "",
-        "content_hash": "35ad11107b918695b879df10f714f75c3261788932b068c8a08d063467a6dda0",
         "sent": 0,
         "section": "sports"
       }
