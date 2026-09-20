@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T19:17:33.454940+00:00",
-  "total": 111,
+  "updated": "2026-09-20T19:28:20.185824+00:00",
+  "total": 112,
   "sections": {
     "morocco": [
       {
@@ -1545,6 +1545,22 @@
       }
     ],
     "middle_east": [
+      {
+        "id": 3434,
+        "title": "برشلونة يصدر بيانا رسميا بشأن إصابة كريستنسن - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPeFNVLWFwQ0twV1d6OUtsZjhzTUdaYm81SHdtRjBURTJqVzkydjlyMjNtY2JXdmdKZ2VJUkJ6ZXRWLW1Oeld4MDR1XzRvU294dlVMX3ZmcXl6S1FadzJSSTlxNVoteDJqM3UyS19LbEwzNWpRel9Ic0ZYU2hPZGZwUjVYSUZFZmVXelk1bUhPaFEzNVYwNVQ1TmFsSTVyUHgtQ3pYbFdScDNkcXo2eWtpclNIcmlPSzF3eU54VWhGdUtNeXNQazA5ZzNUTXRTVmVMVUowNXUwZzdHc1FmWEh0ZVlVeEh3Ry02Smx4eHFhTDVJbk5laWlnMXNzV2drVHEwVjVSS2pkVzFwWk93RGU4M0pBT21VX2V00gGeAkFVX3lxTE9GeHJzU3JCa2lUNXRpa1Z1OEhjLV8yMWNQcHlTdDRGWnVqZzdqMnFkS0ZLVkdJUGFJc2hHZERtRTJlMm5FcXJSclhhUjZMM3FNQ1M4Nl9oMjB4R2N0RW9TOXFnYzdHSGJzX3JSN0ZJN3d6bld2LUNiOWRjdGJyelNuZkZoUUZBbWlBdWY2NHE1R0RyQU43UUMxYXNYMW1nR25fYmN4U3haeGgtVXFtUFJvaFY0SHFlQmtqYVNXcVRBUVFzSjdIQnRxUVp0eHBzM0ZjQmNKdWlDaUlYU2Mwbi1WdVBmenU5UUdOUVp4Rk5iejljTXN4a1p4MWRwSzBIaHFxdmNEVWx1aFdvUDBVT3BxWGIyQXpjZmlCZXNnV1E?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Sun, 20 Sep 2026 15:30:31 GMT",
+        "discovered": "2026-09-20T19:28:10.953417+00:00",
+        "category": "الشرق الأوسط",
+        "status": "رسمي",
+        "summary": "برشلونة يصدر بيانا رسميا بشأن إصابة كريستنسن الجزيرة نت",
+        "player": "",
+        "content_hash": "020efe7c3d49575d82861594e43b0554617af073f7d5cd8be37961c24ad521be",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 3406,
         "title": "وزير الري المصري: سد إثيوبيا غير شرعي وإعلان 2015 ليس نهائياً - العربية",
