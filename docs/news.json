@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T14:36:21.100250+00:00",
-  "total": 107,
+  "updated": "2026-09-20T14:46:03.811031+00:00",
+  "total": 108,
   "sections": {
     "morocco": [
       {
@@ -261,6 +261,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3315,
+        "title": "فيديوهات | ملخص تعادل نابولي مع فيورنتينا 1-1 (الدوري الإيطالي) - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5teDRCTHB5VG95Qi12enlxRDB2ZEtadUZRSXRhclBpN0dSS29vWkZRQ00wUEJTRTBpY28zbkltQWhoQ1E4ck84cnd2LVo?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 14:34:00 GMT",
+        "discovered": "2026-09-20T14:45:48.710435+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديوهات | ملخص تعادل نابولي مع فيورنتينا 1-1 (الدوري الإيطالي) FilGoal",
+        "player": "",
+        "content_hash": "945c4c2bd0af4012b3e45d2165eb24f803e7fac23d99cb46744fb198ce8515f1",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3314,
         "title": "من ممدوح إلى الشيبي.. نجوم إحصائيات الهجوم في الدوري (أرقام) - yallakora.com",
@@ -1044,22 +1060,6 @@
         "content_hash": "d8a6172a650e0b53e686da5243cc993ee084400173da4f88f2fa5ff88baf9871",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 2908,
-        "title": "أخبار و معلومات اللاعب كميل الأسود لاعب وسط العربي الكويتي winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQN0U4R3ZfcVFfaDViN1R5WGhBSndmWVZDWXotTWxxUXVBWlNidG0wbVBicDBBSklnNUxTN3dtaTIxcVJmclhLLU5SNHZZUDJUZkZfbFgwcm5kdjYyMEFjdVhqSG5panJUMWVHbHpnVHNLaVIzRGlGa0VvMmk2dEtpbmUtV2owdzVtSUZwVmRJRXNDRDJzWGdTRUk0UU5iTXduUlNzQmkyZkN4MDBTXy1tRUhCSHZmREZDMXNsOUxUQWFha0RPc05veldiT2FGeURKaS0xRUQ3TGlkcmxDT1RSM3Q4dUlqbFZfRmwzdkNUc2ZDcG84N2RzRGZyWGJ5Ukkt?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Sat, 19 Sep 2026 23:13:37 GMT",
-        "discovered": "2026-09-19T23:20:35.813312+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب كميل الأسود لاعب وسط العربي الكويتي winwin winwin.com",
-        "player": "",
-        "content_hash": "62f604a66edd5a22462ba7d558ece811c2e9346e1687fed04794dbf16ee758c6",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1204,6 +1204,22 @@
         "summary": "ربيعة ضمن فريق الجولة الأولى من دوري أبطال آسيا للنخبة FilGoal",
         "player": "",
         "content_hash": "4f57ed6e79f0c07e9ca99733354c6614a40251a8beb33f91cff4c2d2349aec4a",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 3316,
+        "title": "زيدان يوضح موقف كانتي وبنزيمة من الانضمام لمنتخب فرنسا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5SlJfS1Y4WkVPZ3BDZkpYR1FmWFB0WkFrak0zZ1UtQ3JlQ0k1UVdGZkxfdVh4VW1Ub2lxZ0k0NlAxZ0ZNdGF3a29MMkZ2cnRw0gHSA0FVX3lxTE8wYW9MbkdHS3YwMnZoaXhPa1lpblNuS25tcnBmYmtONTJ5cTJENzRsR1FfbHFEQlFuNHlncXkwQTJWeDFlemxKTW1jdktxNnR2MG4xLVNaNE1tOFJwNVVmOFZWQ29hNE1MVThqdVRZTWZvcFRrcWUtRDE1Y3lLa3dEUEppVzRjNEI4SUI4Rjl0NjU4UWI2ak95SmRpMEFDTXVkbElTcFdQd1VHa2VyRFdjaDhLa1NQaDAtRmIzNzJyVUNpUklTeENsTEF6NDljQzFJQ09IZ2ktMVZPQ0ZXR0ZNb3VRVzVXVF9jUHd0ZDJqNmNpMWs2M1F3am5rOWhpOG9KLXNsQzJDWjZqNmp0Zk5BRmJjSVY5dTlvY0NKV1NKdE9WQkdPRzFsX1dsYXZaQW9QdFpjdHJ2X0JUZnV3SUFZYU81R3k0NmJMcTNScE1lZnNlS00yUXNzRWZXdGZwMEdvSnpSNWlFZWRxTG8xYlM2Zl91cjRrNWJxRXBXVVZobm1RMnREb0RQS25IU3Fxb3I4ei1heUdOdUgtQm9SWGxycVh2X0NGMnhvRWZTSjk5TG82aDVGaFl3a1ZuYXdqNkZmM1ptTDI1dlpESkJSTWRSMkE?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 08:59:00 GMT",
+        "discovered": "2026-09-20T14:45:48.822051+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "زيدان يوضح موقف كانتي وبنزيمة من الانضمام لمنتخب فرنسا FilGoal",
+        "player": "",
+        "content_hash": "9d25a1158c9de69483cb5c88e82a012cc87fd9ea29ce63ed6970e082c41e7862",
         "sent": 0,
         "section": "transfers"
       },
