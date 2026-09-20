@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T05:42:39.761331+00:00",
-  "total": 80,
+  "updated": "2026-09-20T05:52:17.627776+00:00",
+  "total": 81,
   "sections": {
     "morocco": [
       {
@@ -870,6 +870,22 @@
         "section": "sports"
       },
       {
+        "id": 3115,
+        "title": "مباراة فنلندا و بيلاروسيا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOUWhnS1FrSEJacWxRZ1ZwVjlseXJTN3BRbVVLZTFCeVJ2MnhoNnRmSTZMcWNubk9kbDhEUU5oc3FyMlBieFd6d3NRN3Z2UzlFMkE1UEdOY3h0ZTFiWHJzakhORkg0b0ZDV3k0VjNJUEFnUm5yOVFLbHA1eG9hSmJkcUFvQnZwMy1WXzVvQ2FRUGRheC1uX1hiREdrbWVfYUx0Qk40RHVKVWtsUV81dXJacnpJWk1wZU5ORm14RGZSdGxYeExtTHVIYXk4VUxmYm8zdEg0U3R5Q3VjZTdoQzlTY3RaYmZRalpxUmVxNlRPVWZIMzNBNlVZWTF3dE9pMkJuTFg0TVBhUURQbTFkU1duZkJORkoySUdYelpILUJaQ3dIb2VkUm8tc2NVSDR6MDJPZHVBZFc2Z2x5MjZ3S1dUd19VRFJLR1duSlNRTDFvaDZKV0w3QlZKS05TcEZFNUZvcU9jNXg2YWJqVl9RUk9TSTd4TGR2NTJnLUZEQzVrVQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 19 Sep 2026 15:22:30 GMT",
+        "discovered": "2026-09-20T05:52:04.019166+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "f24ffb709149627f9653ec426afc014426c3ce01e0a48b93b59a3515f5ec1eea",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 2840,
         "title": "غلادباخ الألماني يقترب من التعاقد مع مدرب جديد - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxOQzJlSUxVOUVidXhnU0pqdlZ5Z0xmdU5TM1NIdFFRWDExV0MzUEdjTFc0QVdrX1pQYks2QWdRZHJkRG81ZlNYUTIxQ2x5UFB6b2duUVljQVVJMklDSnNSc3ZCY2ludEF1TVFQZTM4cUx5Z2RVVGdzN3dYYUFNNGt5Q0dpaXBWYUo1UGNzSGlkYUtQVVFSM2I1S2hKQnlUdXFTWXY4Uks3Q2p1bjNlRVNaV1JUNS1qWmFGTnE5S3ByS0syUE9tWXdiQnlPQXZQT2J3cEJBTmVWNmJHM2NqeHJLUEU5R0dSUkRLemRWNWJZb2trQ2pmUFlkMDZTckFPVFJIQ2thNEZSUk9zZkt3ZENLVFR0VURvMkZOLTNKMGpzQ1AzTkU5cUhNV3RyQ0FPS2l1WkxaaWx5Ykx4U0R3MWlXZDFudlRlNXd3cm81Q3FMTkFXc0NibnBYbmNtRUZ5UWp6NnBvN1RKdW5mN0xvbndtd29JeGFseXYtTnZXcmVEY1NpWC0xT2NycGlQSjNXSGhIbjhFajBSNzROczBGU01WZktwNlBUQ3VaVGlTd2NUbk9oLWJjZXB4ZTlVMXFYMTVnQmM0b2F5SGU3cDVlbXU2VXd2dW0wQTNyTVBKX05TU0J1Tm9LVDRjMVIyWjFJZGFuX2tCWmc0SmVRNUZyY1h0NG5Xc20tUnJIRTNOVElBOEhkWUNKUUE?oc=5",
@@ -882,22 +898,6 @@
         "summary": "غلادباخ الألماني يقترب من التعاقد مع مدرب جديد الشرق الأوسط",
         "player": "",
         "content_hash": "c4634c645be35f3a18a10cd7aa1c160486e1c375c23833b63e519596d722266e",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3058,
-        "title": "أموريم: لا تقولوا إنني أنتقد اللاعبين.. وهذا سر زيارة إبراهيموفيتش - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzQUE2VDR5MjRTeEthbzZCVnpzd3hiUFZidnY2TFVzaFpXbC1MVkl6eEVzc3B5d2lzbFE3dXBqMC1UdVp0UWxuR3RveVh0dHh50gGTBEFVX3lxTE1OWXNUWmhvaFVNWmx2bEQ3dG01UW1RX3pUM3JFXzU0SUtXT3RaUjZ0LVItbGl5N0lpV0R1dk1ZNlRJekZtRS1vdlM1aFphcmlKY3Z3dDBEUnItU3ZXWWZCQ1hGcjhUX2Zkb09WQTF6eU1OZ3NnbXItZ09zb1VJaXl0YWJ0VTdGNUZHdkVUbU0yVUNqVEtrMmhOWHZIQzJDWTNIdS1XclRJV2szSWstZ1hObkxsdU93cFlvOFdVM3RwTzA3NmplcTdqSWxISzZxdFhSOXNQRkFGZUlCRGNZckM3dFgwSTUtbElTSnk0eVpjYVJSc3FNVzVKWk9BVTVYQjQ1RU14b0lLTXg4eEY0RFhCcmY4UzlPSXF1S2JkdmRTRXJFNzJGcUtPQ2J5S0FtN3N4RTBNeVQ0M1UtanRfTGpXN3doOEJlcnd4djFWdVRMVEd5SGFYNUZwdFBBcTRIcWxWcXVQa1dXVnp0WDk2N3B5NjZVbzJfRENwWG9HUHJ5R0xETDFwZDE4YXNDZC1IQkMxQjluVmNOMVJNVHBpajQ2alo2RFJPV25xY0xONnNLYlQ5STVNUGI4NEc2M3VqckhqbTVIaVVpc2gteU9LY3pqZkI1S1lwVDJScFMtRWpEdU5aYzJoN2NBNUF5X29INGItX2xiTUpzX1ZCWEV3TnllNmw0SHJ0cjhsTjgtaHROdExGZw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sat, 19 Sep 2026 15:10:00 GMT",
-        "discovered": "2026-09-20T03:48:21.459871+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أموريم: لا تقولوا إنني أنتقد اللاعبين.. وهذا سر زيارة إبراهيموفيتش FilGoal",
-        "player": "",
-        "content_hash": "8d3de0f37dec5490dd0241c5dbd1ac8743854b77d1b3107701a9c6537a24084b",
         "sent": 0,
         "section": "sports"
       }
@@ -1110,6 +1110,22 @@
         "summary": "اشتعال خزان وقود تابع لشركة أرامكو قرب مطار الرياض يربك حركة السفر العربي الجديد",
         "player": "رياض",
         "content_hash": "61097475173f5e386a323dcb4a2cd3c827ff20f5116c33e6f2539a5f2448ac40",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 3117,
+        "title": "هل تكفي الانتخابات لقيام الديمقراطية وتعزيز الثقة؟ - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPM3dpYkZxRnpkdkhfNTdhZ29vMWRjeGRyOXVYR0k1ZGVGOWV6Sm1xb1N1ODNYallpZzlPdmdHTldIQ1VNNXEtelFVcV82Y3N6NWhZMk8yaTZ1eEc0eURBaVlPOElpVGp6dDBRZDZHSFdDM3Azb1g2bmNqWEhSUURkcTlrZi01RHVuTDFjZ3NfSmp0eUhKY2M3XzU5dlBNcG94ZkZUMFFQSXFKSFFsc1ctUXRDUWxtZXI3MWYxamFYY0lUVW92THBwczdiOS0xUWRlNFpwZ2ZGaWxKbERXRnR5Vk5zaU55TVlYbE5VWnlHZEJsZ1gtUGQ4aHdSNm5yZ0FyQzlFV3dZMGwxeVRRT0N6Z1ltOGJsVjZQVnBEU1Q5dlUyclZlcWpoNnBHb1hWTnZOUlZiQVVuc1gtakIyZzB0NGdJTFFCUGZfOTF4TGxQRkc2bVFjLXdqUkpzZDlLZXpsaUNlRjBZc2RkTURqcFA3MVNvcVhlZUUxYWVSNFprek5ZT1lDZEw0SmNBUGJzZHBMZ1B4MDJsU29yTDJmNFd2XzVsUzhFVXJEd1HSAa8DQVVfeXFMUFFhZjlRcFNBMTkxa3RrNHdqWTNQVGlnRFp1dlpOX1BHMnJfRFN5X19RVFU4djRWRjRVc0hldlFzS19kWFpNc08ydVcxTUktSGdvVjBQSlBreHRjQnN1RjFpeHo5SjNWM0NleVhZWEdjbEg4S3NDbjBsVFphc1ZGUDFJTDdQSThWUjVscmRLUnJRbVVTX1A3empUWDdRek5Ea2xLeFZJU1hQNjFneEFUTlF2UlhDRFh3UW5aLWRURnJ6YTRHdWJLOTJaMERlSWZSZWNYVFgta195R2JKVVZETXdkWHRMWWY5OGtqX2tOMy1OVjJXWGh2dEJpUXNDX0l4RzlLZzRLYy1tY3lMNmFsdnBneHpIV015NDJxNnlIczlnYkNxOXRVYXdHaDRFOU1VNXNvM3Foal9VM2ZrdXgyOGdZdzBkOGh6a3NIRHp6LXl4OVFGcFRZc2lnUHdidUhfRmVycVFZSnM0QUxjaG5feFNKUEEtcFRYWW44QUJCTXRSc1BUdVlLUDVkUFE5UHlZTlFhV1dmNWZac2NDQ1FVRktwVDh2ekNsWUJmS0JoNWM?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Sat, 19 Sep 2026 00:52:11 GMT",
+        "discovered": "2026-09-20T05:52:13.031409+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "هل تكفي الانتخابات لقيام الديمقراطية وتعزيز الثقة؟ العربي الجديد",
+        "player": "",
+        "content_hash": "4cda997442744341b28360af9cae8318664dc58444c4bb0df5394451e01278af",
         "sent": 0,
         "section": "middle_east"
       },
