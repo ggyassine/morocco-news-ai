@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T17:17:41.507822+00:00",
-  "total": 110,
+  "updated": "2026-09-20T17:30:21.867790+00:00",
+  "total": 111,
   "sections": {
     "morocco": [
       {
@@ -96,6 +96,22 @@
         "summary": "الساعة القانونية: المغرب يعود إلى توقيت غرينيتش رسمياً بعد إلغاء الساعة الإضافية BBC",
         "player": "",
         "content_hash": "2634ab1a4452fe14266b41c16e2716b9c8a2bdb4f130175a523d0d171eee7f25",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 3394,
+        "title": "من داخل غرف العمليات.. كيف تدير الأحزاب حملاتها الانتخابية في المغرب؟ - aljazeera.net",
+        "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPMGoxa0FUMS15REhPVFFuVVJJQUJaaUxGaHV0Q1FkSWVRX29uNmpGdm11aVQzNUxGc25rSzJsRU9kVGZZUk9YV0p0QVlnR3ptNGxXS3pXc0VybTRhMWhlX0xHMW0tTFkwMHdQQnRuSlpydUZVVnlnaUNXUDN2LTVxWV93QTRfRHlvVXplTjlrUmo0dXNaVTdhcEREZ1B6d3NYV0NfOUNjNWlTVEw5M2lXQUtOOXI3UWgzYndPZlBBV0x1ZTBwcUFybWFOU2ZmcC1HbmlRT1hqaTBzLWdmczBRMkdrTEsxR0JyNjJHZFRHQ292bzdUY0VqeXdLYmFITzJLdTRVUkNBa20zUl9QSkRHaHp3U3k1VzRZWXd5X1RNNndWWUVGYTRfTk42a3hDUE5ha2NVbEF1ZTZfM1FqLU1lb3FkWUwySVdDMTRCYzBRRFBjc3Jrb2NpZ9IB3gJBVV95cUxPZU9VMHNNMlNYLTFUbHJqWHhyTEJOakU3cVpNWGNvM2k2SlBRU0FqLUJPVXh5Vzc1X2lERlVkT28yc2hsOW5pem0tMVY3YWZ4NDlMbmNmRlZ0aW1hZEd3bmdEUGlLSzFvdExkOGhOX19KdVptcXZzTmhVVnRJSVpCYnNMMFgySjFuMkZZLU1PRGJKT3czc3ota0Q0YmtGOEVSMk91cUVVY29fN0dMZ0RyUFl6eGphSjEyMVpiTzJ2c2JXNkhIQk5ZaWp4Ylk4Sl81MWpyRXgxREtNZXhOTzF3U213N1FoaHFmZEJzV0xvU3pqak1zcUY4blR4VUJKalRxd0ZTUU9qN0dwcUxBbjJTamZuZUlTWmxqdlpTTHFoMUdfOFd4ODVXc2J4eGEtbG80T2dBQUpSeVY5UlUtOFZqODhLZVZGM0kzclhwWVpJc21NUWh4U2NyejNieXczdw?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Sun, 20 Sep 2026 08:46:36 GMT",
+        "discovered": "2026-09-20T17:30:12.429822+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "من داخل غرف العمليات.. كيف تدير الأحزاب حملاتها الانتخابية في المغرب؟ aljazeera.net",
+        "player": "",
+        "content_hash": "cc15390f43e132ec6938d96e21da5cd566616f1033530faa7459578c2ae2d50f",
         "sent": 0,
         "section": "morocco"
       },
@@ -245,6 +261,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3389,
+        "title": "مصدر يوضح ليلا كورة.. حقيقة تأخر عودة الزمالك للتدريبات بسبب مسحتقات اللاعبين - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi-gRBVV95cUxObm1wa2ZkTFgwZFF6VlV3UlBiNnlGemFkU3UyNHB3Nnh4Q1JDNDJQRFZ1cEhralpmamlWVWczc3RIcGpzT2xZMzRXeXMwTjc3bUZOYjhNUVlXOXdDUTRHNEhzbV9hOFJYNzByY29iR3RQcUlqM182YnVURkVEWnBpM2w5UDBYSmZ0QWdyRExHQ0p2b2lCVUJjSXVvWGRleWlSeHNSbUNxem5VQkd1dzZ1cGhqWHMyRFRsVURCd2NyY2pZYno1V1NXQzFNR3c1NXllWGE5VmYwY19PcmpkVGRxTEFjakxMMkh3M1o3cTZuY3FrSmxjTXFiaTJHb1daQ2oxWkdyS3FCZ3pRMXRDdkJYN1lxYTNyQjhwM2hWUF9IbEdFaTBXRVQyWVQya29PcVNZN1Vodjh0RXdaVDAzaWNRbklScWNzRk5jYlRrMFUwV0FlWTk4TzBpcEVFYXI0UGVFZFlwRlo0eXB4aHpNcTI1ck5jNEhhZXU5b1l0azdzbzUzRVl4Yi1FOU5saF9pNmVESmpxOVg3cWNrX0FUb0xaWTJTYVlpSXhPdU1XeTRhZEtYLWFzX2ptZ3FQbHBEV1JLc2VIUEs2cFFIU2EtM1lvU1FJQkhVQWFITHgyT2N5a0U1Q2wxbUNwTmZDc0xUbDF6Qnd5RVFBNTZ6R3ZtdGxMSkprVlI4b0ZpSF9fdUNTTm9WRTlJTzVRcWF6QzJQVHFua1ZUbmR4V1NGSDJ3MUlLaF9sZF8zdGY2b2l5blRtd3RlbnVwRVhwOEFpamE5Q0pSdWFGVjhnbkJ1dDVvdFNlMi1kclhCbVZYQTBhZGhtY0FyYmR0dFZhX0ZB0gH_BEFVX3lxTE1ORFliN05SSzFfVUd0cGVhQndaVHRsWkZPVHlUS0hSTWFXVVdJTElRRlZTejlSb2FxeDM0ckRYLURYMXI2T0xFUm4tbGJqTUU1S1JmRXBwQ1lnU1hFYjBwZ2RWNlhLeXBUUE9TN2xLUTJBelJzWEJZTTNOUXFERDhnRXVscmZ2MTRidWVzRjRBWUwyNFdkdWRjclF1V05QdHRJM21WVUQ1THVUbUdMcXF0T0hlOURTRWQ4UFNOYUhONWxGYmk0Wmw4X21aa1ZNUS1pNGloZjVyazdjUDcxMVZvLVoxTE5Kc3hPeGxScFhGWVVudV9XMXR0MlN4Rzg2VlJia1l6VmVual8wd2QxUkQyYmhXRy1YQktVVm1ZSGt5VjRFb3NJMk5qRE4wVmlpeWFqSHNiVVY2NUdzMVgtUnF0LVN1cUZBSVI3ZHdfWDBPbW1zcmxyTERCbXZXcGVPdWlpYl9vQ2w2emRjdXJITnpfMnNyMjgtbnNjYmg4UHNSMFh0cWM4emp4cjFWcDc2MzU5RDd3ME14cVZIZWNSc3Y4Q2FOc2o1VlUzUVliazZTX1FxZi1MY2FGOHJCenBhWVFWNHBoQ2tpb2VfaGR0SjNZVzBWMHBfcV9WVl96VnBDR0tFTVNBT2VRZzNxZVF1T3RGb1lnSVNLckdLbXhWczFVeXdoc2ZEMjd3cGVOUWdNSzJrV3pkQXhRNmI4Zy1TX3BKOTB6Um9xVFlhQzU3SHZSZnZfdU0zLXFpSGRrWkF6TWJ5LVFjd01yay1QQmNQUTlHQzBZLWxydTZHWkJkOFpSQWoxbWNDR3JwUnJZZnZfcUJ3Ukl5ZkozdUx2ZW94cw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 17:22:00 GMT",
+        "discovered": "2026-09-20T17:30:05.030517+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مصدر يوضح ليلا كورة.. حقيقة تأخر عودة الزمالك للتدريبات بسبب مسحتقات اللاعبين يلاكورة",
+        "player": "",
+        "content_hash": "fae9f831b40d90146642c3f9813deeb54adc52470caa8f37d4450d092f71979c",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3387,
         "title": "ريال مدريد: خسرنا الدربي بقرارات تحكيمية كارثية - FilGoal",
@@ -902,6 +934,22 @@
         "section": "sports"
       },
       {
+        "id": 3390,
+        "title": "مباشر الدوري الإسباني - أتلتيكو مدريد (0)-(0) ريال مدريد.. بداية المباراة - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xX29sMFB6Zl85R0R2RExiZE9xdG1RWVdpOC15MlY4OU90NFc4ak03Z1FHQTZDM1JfY3h0U3ZaZkFPTW9sVTQ5bkVtVWFPS3Ax0gGPBEFVX3lxTFA3ZFBiUWtobGtwUnpPOWtENE5ZYWl6MzVWR3EyeWtsMFdxam4xYnVTSWVVeDBtekkyYlJpaFJZUnExM2ZFdVRkRlFZdW92bFVOVV9fcTB1UC11akxrRU9RS3FFMkxvNDVpVEhMa19zQl9uMk9UQ29FOHRUN1o3ZnA0NmZTZld6YjBqRlF3bGRQWk4zZWQ4SFk5MzMxeGhKWkhTeE1Xc2tzYllYUWN0VGoyYlNTYkUwZ1o3NEk4eDZoek9JREVqN3VIdjh1bDhWVUQzSUFLSHV3ZUpoUTV5QndCRHZaVFZZOG5RX2hHNWZLeXZnaXRjZGtsQllmT3Vrc21NMFlmeWx1UHRBTllLc3B5ZDNYNV9oOUp1QkZDMWhpWEtjY0pvQUZWVXhPOWJob0J6MUNucFRIZlJheW5JX2g4SHVZN3lTMkNwMUtHOW5RR2ZLQzlpSWxiZmVJWWdLS28xNExMY1VlVU1FaVBoeDA5VEEtUHJEb2g4MzF1RUs3RExkU3NORTRBTUt3d0Z3M2gxSXFCMGNla3hCQldFakRBMWUya0hYWWV4ZmRLbVlNY0VlWnRpVERUdURTVnJacTR5VENfdWh4NW9iVGtma2NLMWNhbFFCcnVmTG40X3FPOG9BQjFrckRwUExjb2dpSGd6RVFUc25Vck9rVE05dm9YOWtLWUFlLWIzNU52Y0tn?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 14:07:00 GMT",
+        "discovered": "2026-09-20T17:30:05.672994+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباشر الدوري الإسباني - أتلتيكو مدريد (0)-(0) ريال مدريد.. بداية المباراة FilGoal",
+        "player": "",
+        "content_hash": "27a9c48af15116ae8c382c8292ac2210e87103ba2ad610db07d4caa4ff8961f3",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 3313,
         "title": "مباشر الدوري الإسباني - أتلتيكو مدريد ضد ريال مدريد - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQajgzQThxajJZS0hMb3BiMl8wdVNBb1BFVWEtRHFUV3I2SkEtemlPamxRdHRpdkc5dG5fSjhGcTFzaGdaNHdGYWxSVklXekJhRkhsTXlLZ0g5bEV1alE0QXZ4OVVQdXZaaXY0NncyakpYM0U5bFFPSVp3U2psc3NlR3hzenJhbThCeENpOVV6TzJlbk04TUozTm9scG9feW9aRFJWdHQtTWNWRTJQSlUwXzV0TDZWNEpUMkEyYUozaFB0SGtpZjFtYVhZcDhPaDBSWGgybE9tWGVlamhEaGRMOUJZOGF3cFBSOTdJdnFTZFp3ZnZGM045bmtra2xqQVBSSlZPS2IwcnBxbVRNT3lySzhkajEtZndJbnNJeDlfakU5d0ZKNWFHY0FVaE1tX00tbkZDbmZ2SmZ1aVM3UTNFWjJIWDE5STFiWDI1bEljZm56Rk5RYjJvZFJJV1BwUlNXNkhIaUIyYU5LN3ZZMFVQUlRaN29NNUQ0OEtEbnBmN2w1dmpSdWx1OGprUkJpWnZXVjV6THJzM2JNYWpYNVNBY3J3RjhHVmpkWWFnMGxMWDJaX0M4WUZmbEZORHdRdlkxVmV4SzMxRdIBsANBVV95cUxOYnBURTZQTzUxNVpBdWc5NHNuTWdYN2xmSGo0ZmplWVZKam5lcmJqcVpERm10NEJCQ0Fjcm85aWtINkdqSHBRaXM5b3dfUUU1dmthYXdFTVNOTVZEOS01RFIzWkl2czByS2k2dE4zaFJac2s2U05lN3FQc1RkQ1d2QWZ3UWhJcHAwVDhhX19ZZFBlbk42bmd4MkpEUVZ3UzBEaGdQWVllQzZNNWZ2aC1pZTZDdFhQdzhHcDRLdjRIb1Z6ZUZVMzhkQlNEcWJsSU5lV1YzSUVLNXJKRlRseDVpaGwtbEZtYkRfaUNsN3QySlRDWHRWLXE1c0EwcjRNMnZaTGJvVjdwQ1c5di1aU2NnZndWRzhaUzl5YW5GYkhORUF2alQ0OF9QcS1vdGtmMk5jRGF1QkI4bU1pSzhEYU9HdGFUazdaZXNkMFAtY2FaeGRPN1pDem5IU1AxX3lFU0xQNnBIMlZySno5Y21VUl96MmJmZnlsMUVkanpZRGJUWXlWYmhsdHJyZVdjT0RCeS1VZHBPOXhGV2JFYU5YWkpEY1dyTW1HV3o5Q0pZYUZKdUg?oc=5",
@@ -1010,38 +1058,6 @@
         "summary": "تغطية حية مباشر لمباراة فريقي بورنموث و ليفربول في بطولة الدوري الإنجليزي الممتاز - الأسبوع 5 FilGoal",
         "player": "",
         "content_hash": "0951b0d12dbf278adcc0d27b3d3c5a776938d69406f26ef1f7c3648ba3ed8560",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3305,
-        "title": "تغطية حية مباشر لمباراة فريقي بورنموث و ليفربول في بطولة الدوري الإنجليزي الممتاز - الأسبوع 5 - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxOVVUzMFVwZTUwRUpMMGd5WUJmUloxNXE2aFhkNDZaVEhuUUhxblctUG9mcmdHZkVIRnMwX0tlcXRHVUxrdEp5cWgtMEozM3Fac2xJZ25XWVQyOTZSa3BPRUxjTXRDSVR1VjkwMnVvMnJzbl9FYktRVnM5X3FFa0J0WjJYS0NPa1FucTI0WGtQQ2lDV0RNZ2NiZjhVU3ZsM2hEQmNraDFtSk1oRDBFdEt3NnlYdEQ0Mzg3VFc3VllwamVUdGVRdTc1bmRmeFQ5U213WEJvTHpKZm53SW8wN1hUZ3ZSSWdXYzI4Q2FyQ3NhY2NybDJlMXJtTTNxRkpRY2Q1amxQeWJ0V0lSbzhWWEVWQ3gxdUZqc0NzdmJ2ZEJ5bDdSOVctc2UyVFZmekpfUHNXU3JOTnJEbkc0ZEctWWtIU3UzcTlkcmNDWmRkMF9qVEt6M3p6UW9WS0xsdnBJdTRUTXRtbTZaMFQtWXNndmNMNFZYQW9pT0xnelJqSVNsS2JFQThOQnh5Z1BUTTFCMl9LejF1WGNHejdoNVQ2SDFzaUpKRXNqNzE4WUlqMHFOODBzWW1QNFNGYjVHT21peElUeWpwRzJ0aGFmRmhyd3FNMmx3aVFBZmhwNGZvZ1pFRF96UU5nQWc3eE40TEdQQ2s0TUh2TEpITzE?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 13:00:00 GMT",
-        "discovered": "2026-09-20T13:57:03.574369+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تغطية حية مباشر لمباراة فريقي بورنموث و ليفربول في بطولة الدوري الإنجليزي الممتاز - الأسبوع 5 FilGoal",
-        "player": "",
-        "content_hash": "0951b0d12dbf278adcc0d27b3d3c5a776938d69406f26ef1f7c3648ba3ed8560",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3287,
-        "title": "أخبار | مباشر الدوري الإنجليزي - بورنموث (0)-(0) ليفربول.. بداية المباراة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxNWlVpcFBSQnF6eEVjZU5LaHE3RF9JaWtXQm9RMmVfeWlyYWdUSGlsVkZUM2phY3dFSFU4YWZUYzJ6M0padXBodzBJQnhfQzVJZjR5dFhqVTY3VXN4V2Vraklqa3NyeGNJR3o5Q2V5ekctZFRZaWEtOW9qUVpwQ0h2OHNZaXdPMVNjYjNtZDRKTUtLLXZRWklqMVFfWmRmd1RXWG5VUkZaWWdkZFE4VVBOLW1tXy1wLWJrRWlEdklXd3JycnRPX0hNc0sxVVpMSUxwR215a0NCUTNXcDlCbVliRExGN093c3JlZV9CMWp3SE45V2xac0ZNZEFZYmFkdFhaYjV6dVo0T1daRXZOTFQtSUdqSHNJdC1WT0kwY3JPZVRvc3BPM0pIQ1hSNEd0T3NUaDBsa0NEc3k3Uk9DaDFQWWJkUFlYMllqV09KNVFWcmhPUFNVa0xlTlNndXAwUDJ2OHpPRUpId3RwWXBJOGVVZHNCVldlYVpmeW14MWhwUlVfY3BGTzBLRUl6ZmRQWmowWjF2NnJhYWJWbVdlNWg0blNhWkQzMGdqbmJkWnZ2eDJiOXBhNWJuWUJZNW5na2JZZVMxNDNjWVpuWFQxNHJ3bVBEX3RIWDQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 12:58:00 GMT",
-        "discovered": "2026-09-20T13:26:20.924584+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار | مباشر الدوري الإنجليزي - بورنموث (0)-(0) ليفربول.. بداية المباراة FilGoal",
-        "player": "",
-        "content_hash": "ae67783336bf3dc9abe258a04fe2eb8eb636d36a3e19c272855c444587447bea",
         "sent": 0,
         "section": "sports"
       }
