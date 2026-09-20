@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T15:20:38.385801+00:00",
-  "total": 110,
+  "updated": "2026-09-20T15:32:48.219164+00:00",
+  "total": 107,
   "sections": {
     "morocco": [
       {
@@ -164,22 +164,6 @@
         "section": "morocco"
       },
       {
-        "id": 2836,
-        "title": "شريط فيديو جديد يقلب موازين التحقيق في مقتل المغربي عبد الرحيم فقير بإيطاليا - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Pbm5tZU8tMFRFTUgwdTJsVnJtX2x6dVZEbTE3T1FkSWx5MlE0Z2hyNGRuTEhtemNTdnVaQnNkY0t4bElMTHRpdWZ6ek4wbS1VME0xZE1IMnBfNTRobHJDU2tXbnRSdw?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Sat, 19 Sep 2026 19:48:54 GMT",
-        "discovered": "2026-09-19T22:14:33.726009+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "شريط فيديو جديد يقلب موازين التحقيق في مقتل المغربي عبد الرحيم فقير بإيطاليا Le 360 Arabe",
-        "player": "",
-        "content_hash": "d1408b87281a2cdbe8778aa224b7931efe72181751347a3ef485e410ac617e09",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 3265,
         "title": "مهرجان البولفار يواصل فعاليات دورته الـ24 بمشاركة أسماء فنية مغربية - SNRT News",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90dVpubi1qMkJKOTRvaURGaHNXWHBwT2lXT1RGc2NnRVhMVnFZLTZZRzFzZjF4UzUxSW5WUlNnYXRfcVNEbjBMbE9jYw?oc=5",
@@ -192,22 +176,6 @@
         "summary": "مهرجان البولفار يواصل فعاليات دورته الـ24 بمشاركة أسماء فنية مغربية SNRT News",
         "player": "",
         "content_hash": "49f8148e0bfa11de1ccf64e5cff1cf34ad39445dabafabeb2ef94685a943a2ab",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 2835,
-        "title": "نقابة تنبه إلى «اختلالات» المستشفيات بجهة الرباط وتدعو رئيس المجموعة الصحية إلى ايجاد حلول عملية - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vWlR4Z1l1U1l5blF4ZUczOHNLX3Rad3VGM3F6RzhNYmFZY19yVUtWR1hTQWdzdTlyU1NCNGZ5aGJxRzV6MEgzXzdwMnpVS0kzYmJoMGJELVA5WnNXMGZCNVBtUzd5Zw?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Sat, 19 Sep 2026 16:09:27 GMT",
-        "discovered": "2026-09-19T22:14:33.705330+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "نقابة تنبه إلى «اختلالات» المستشفيات بجهة الرباط وتدعو رئيس المجموعة الصحية إلى ايجاد حلول عملية Le 360 Arabe",
-        "player": "",
-        "content_hash": "2ef22319364b94281d9ef88e67c78fda6cc4fa65806243d5de11ec99dfd5f129",
         "sent": 0,
         "section": "morocco"
       },
@@ -261,6 +229,54 @@
       }
     ],
     "sports": [
+      {
+        "id": 3332,
+        "title": "تغاضى عن إنذار لاعب الأنلتيكو.. حكم الديربي يثير غضب بيلنجهام - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxPRk04UjYxOUhfbFdJbUR1TFVBNEg2bDQ4dVFSWnZrZzBSYjJXZk45M1BjckJ4Wi1CRmExTlp2a1BIZDBTWUVwdVFsNUVzOHNtenhJQURuMU9zNFMtXzNkLVA5YWh3Zi1ra3Z6VFpVdl8tQ0hsZm42d0dmV2p2cGYwVnluMWpreTd2eGVCZnhmVkxTMmFHcTRxNEw2T0VnaEx1NmZqMWtXREFac3dHd3lYckpYU1hPMzQ4NGs4aXVld2s5bTkxV2NmOEQwZFlCMWt5WnZxT0lSZk5STlJuOEZYLWpucldrZ192ZThQSzBHQVNFMS1rNG5MNkV1NDhMc1MwdWtaazRRTEVvUmM1NVNLQlEwNWg0YkN0aHZybGF1WHBabjBFWFZxLWpRQmdHZ2tpLUlaeHAzaERobkxMTVNLaHNIN1pLSUhaejFXSEZ3X3BYdUpjU09rZ1BmbUFoenJzM2V6Y2p2Q25keUVpekxlbEt1SHd6T1RFVERyTXNTZjRGQU5GVTk4QkRYSUwtYjl6THJmd2ZwUl9pYzBjV2xGaDFlQlVQSFZPRHpoN3BFZnlLRk1aMVV2Q1ZOWTBUZHQzNl9TUl91cnByMjktMVd0dndwamxYMmdkTDRXcUQ3c0luVDY4OVNhWkszV0h2c2dOQkVsSkxWR1VDOFV5SkxabVg1S2ttUmY2VnZCdFVkeGtIUmNmWkJ3SS1BaDlhVzJLSHY0aFRLU2dKc0RuTEJ4aG1XSVZzeWp4dkhBU3BlWDZwNktsV3FZV1VJd0ZTRURqVi1vdjY1MHhDaW5iRDBv?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 15:30:36 GMT",
+        "discovered": "2026-09-20T15:32:23.976035+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تغاضى عن إنذار لاعب الأنلتيكو.. حكم الديربي يثير غضب بيلنجهام Kooora",
+        "player": "",
+        "content_hash": "7462f1104f0a2c29ee6aefe02ebfe3b0d3fec1792cbb473af53473f12a3dc887",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3331,
+        "title": "بالفيديو: ليفربول يكسر عناد بورنموث بفوز شاق - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQWHI2RDYtUG4zaDNPeXNsb0dxWDd1dENmTW1GWHZaVFRJRnVFTkNtdXhoMlhxN2JGUThsR3lmdHV5UGZJa0F4aUpYREk4SVBDdDFjeDdYQXRicnJJNGIwQ25hRUdMVk5kZ3A0SkFQWW5KNmhnanRkOG5BT1VERm5rcnVuMWVMb0NuRTJ2b1BtSmVhMHV0RHA3VWR1UUIxd3Z5dWM1YmRMSHhwMlJkOVc2bGFaSjlEdGh6ZEwtUE13VmllVy1JcnJRekU5VTZmSmdwU254U1llczI2ejJGSnJqQlhULXczbGVSdmhYTzd2d0NYRzFVVnhaMGFnU3dTd0ZFcnlRV2JhX0hOSmNWaDEteF9UMEdfcHlXU1Z0Q05ZUWlHT0FtTEV6Q0lpekRQaFJITXF6WHA5NHFlUEpwdUU3TVVwWjVjVFJwN1BvczRueFdYZ18xZ2ZKeks0bExLeHE1WU5RMjZHWjgtdHI4R215c2V2eGI5VEIzQ0JtZ0RDaUtNQ3FQd04yYWhGdFZhOGFmQmhzdnRPZVUxZTNBNGdneXNPdG14bnZjVUlaVzdETVlSeFFfUFBlZUNETXlUYTgwbUoxQ2doMXZHUGFQSURuTTZDSlVXemU3MnB4WjdnX2h4Zw?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 15:23:27 GMT",
+        "discovered": "2026-09-20T15:32:23.967000+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بالفيديو: ليفربول يكسر عناد بورنموث بفوز شاق Kooora",
+        "player": "",
+        "content_hash": "6e0493f97fdd13a4e9336e7d888f597457b1ec800333a81a52230eb7e6780bba",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3336,
+        "title": "محمد صلاح صاحب النصيب الأكبر.. أبرز المصريين أصحاب الهاتريك في الملاعب الأوروبية - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMijAVBVV95cUxNT3JyT0dSY3gxdG1uLXJYdjNIWm9Pb1YtdlFxMTZlT00zZC1aUDQyaFphTlk0TGNiUWRWSkVtN2tnTURNdHhFSjFXOVZ4QVlkZTluX3NfS2s1QjlMOFlsV2Jfb0pzaUtGYktUalBlRGppSUJjRlEwc1MyaW10eGNTMnJNNEl1LWREZXFzaFRHdjFJRkx2MHBwNGhnUHAxMmYzcU11YjVwdkhfSllLY1NiLXRlaEdjUWVVcGlxbFVDSmZHMzlFMTdiSzYxeHBLajZpd29Eb0pCTngza2tqR3FqSEJwZlBlcDhKMG45bWN1SUFFRVdFbXpKNXZhQzhvQjlLalowbUQ5MFI3Nmx0NVVuLWNUT1FCTHBFNGgxWHg2Y2ZHNF8wc3VYV0hZMGtCQ0pQSnZ1R2lseFlWeFh1YjF3TEhfd0xQOHdCN1NfQUEydXphanpzSm5xWVgzS1BZVmh3NEFTNVZEYjVuaWgwWmZtdFMzRUl4N0NsVlo0eDZWSjdPaGpKZXdWVUdqVVVNc2EzMzdua1RfbndwZXFhZXkyR1drUndDQkpXWTdwbnZVYVpSclp5YzFKUVhHeDZrd0l6YVZhZzdWTGFMR0JaY1FQVEZzWklNMzRCUWNqOVkzOWRzMFE4ZmlKVDRrMFppMG9WOVVRaXpCeXdXVzl1c1dUYkJIdFBDX3J6ZGdSSjYyd3pEbEo5MXdQQWxmSmVaLUthbkl3ZkV1M2VHam95ZVFOTGM0QVZYSWRhaDhSZEtnSk51cGNBLXZFdXlMVUpxNTdiR1NDVlJLQnkzQkhFVXhHWlc1NndOT2FMa3pXR2tJV0hGRWttbmZtelZIek14dWUxVVg5YUN6NkZwaGtW0gGSBUFVX3lxTE1sbTRVU29kdzZ5dUtsWUN3M0xKS2lpT1VlQWtRYkdzM0hWcG93QndaZWYzSDlCLUYxUU5MUzBXV0xHalFROW1DdjNSWVZUQ2J2OEJUcFdya05XUDhMU1h4NzNySS0yZXNfRThzVVdSN3phZ1lhVUxRZUFkZHpqT1kzSjhRcl83VFJoNUxSYWFHT3dxcjlHQ1lER3hvcUMxUFBaVVA4a3lIZXJxZU50XzJaSXRiVnZ3dFlTVG1JZjZfa0J5b2pCMWkza1NrUmNGczNwWWVza0NpM3M0M09uUHRxWF8yeWdTRHFrS3V4aU5MU1ZWbE5BOGRXc1FhVTJiWWw0dzlTMVFra3k1aHgtWkdCYWlLYXVlZDNJdmZLNjh0WXNjV01GUVN3X3V0WGpRUk9lamJSbE1KWE5OUFNfSzZUWUVCWmV2dDhYckd4VGZyRnhLbHFxcUtZRTNyblp1cDVzRGtiVW5fVXlZTGRMQ1lkQnk4eHNyS2lwXzNlM2JEdVdFalF3eUExOUN3ZkJVT08yclNGUU1KWUxqUGotelFhVXdCb2hBSXRjLWp4MXBHVnVmdDVCZ0I0WEN1V3VGRmc3ckJweWwwd3JlOVctWXVMdkFHaEtoZUZrYU9LWEFkUlZnSk5fdFAwWXgwUVVYYlNPUGhEaWN1SWp0WmRuam5iY194SlJJeXlHMkVHeG1ONHJVVTFldk4xMGNXRHFSVV9fMlBQRHQ2V0FtM1Rmc3p5ZnJESldWQ3o5TFVnRWRKM2dKc21QV3MwYVlUZllCX0hDcGF3REdWOHQzQVI2WUJFN0UxeVVReXhwZVlKYWhremJjRUhLV2lZMTF3emtrZXdqWEJibzZrN1hDNHZjSkkwaWc?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 15:17:00 GMT",
+        "discovered": "2026-09-20T15:32:30.242662+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "محمد صلاح صاحب النصيب الأكبر.. أبرز المصريين أصحاب الهاتريك في الملاعب الأوروبية يلاكورة",
+        "player": "",
+        "content_hash": "9d5434e4cf167c56986d17b3e52f393ef5715523b4ca3762436ad4158b016249",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3324,
         "title": "تحديد عدد المشجعين في مباراة مصر ضد أنجولا.. وأسعار التذاكر - FilGoal",
@@ -1012,54 +1028,6 @@
         "content_hash": "723d10d32f96e7f0c0e9bbfd816ac47871a52f0d3ff2d1c13417817d05ee09a0",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3160,
-        "title": "خريطة عقود لاعبي برشلونة (صور) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQbkJGcUs5UmV4ZHQyYXpFV29xM0ZTX1hiY0dPaXo2dGE5M3h5UXREYzM5YUVrcmhGTEhBeFJ1RC1CdzV1aENQUGxXVmI5ZDdtTVBBTV9pdWhLMm5wWGMtV1ByTWpqbmhGQ3plb1J6c3gzOHVLcFRpOXJPaUZ2R2x1UENtSWpQWmdtcUNKN2RxT3dfNEhiV2dhRUJoTldwWURtRFlRd0JKVnZUNHpFbWFobUZxRlNTa2FUMHdSd0k5QTQzQl96NTdiVFFZcEVlRGJIQk1ZSm1TSzR4YmtwRTFfNzV1b1h3TUNzRkc1bWMzbVBsNERUUEZBcTZpTXR6ekNZOEpWMEtPSnR3UFFNWkplV1NtZi1mVjE4?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 08:10:00 GMT",
-        "discovered": "2026-09-20T08:44:09.820166+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "5517bd9f0e2d70d8960b095b0f4081ba79f67aa2927276aa205b0543e4cd6d4d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3152,
-        "title": "لاعب جديد ينضم لمعسكر المنتخب السعودي بعد استبعاد مصعب الجوير لأسباب انضباطية - CNN Arabic",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZnRwNnFpajdUcEpmR19VN0FqeGdlRUkxSFNBSl9sR0dqU1JvRTl0MWl6SjRYTUZFRkZPVDc0SkJfb0NQLUZrRkVxck1mNXBKS25HVVk3eXNJRHNTMmljV2FPTjhoZFFITFQxUF9aaWNyVmZiVWtnYUljRHdyTGxicVA5Wnlrb0Y1Zm9YeXgwYUdsZG9DMWhYdE5ESQ?oc=5",
-        "source": "CNN بالعربية",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 07:49:58 GMT",
-        "discovered": "2026-09-20T08:00:26.047853+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لاعب جديد ينضم لمعسكر المنتخب السعودي بعد استبعاد مصعب الجوير لأسباب انضباطية CNN Arabic",
-        "player": "",
-        "content_hash": "195dd298b156143fd5ca07fbf6d03acc57e908e123d61a683913f33a83471058",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3301,
-        "title": "القنوات الناقلة لمباريات اليوم الأحد 20 سبتمبر 2026 - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPQ210Z2J1b2U3NmJKaktlazYtT3JjNU9JcGhpYkl1d1Z2SnM5RXZpSzE4YllBV082VWFZRm1IdGsxbGV3LVV0Z2xNM1NOeGFJaVQ1NGZiOTdJMzBxR19sRjZDaXU0SXhYWTV1Vko5alo3eG9vZ3JyXzFxTlFsRWJkOGZfS2V4Nms4SG44cnFMdTVxdFExelhmMjdzQ29EUWhkZWd0M1pGWHZ2c1BCMDhPS1RxSTdtVmFnSS1feXdzaWladGxkM2VrZ2FSVmpfNk1TTXh2TGNyc2ItREFpNDR0NDJzN2hrNEVWVmUxNFhrZS1JeGEwS09EYW5CLV85V05hSUl5TzBkcE9DdDFSZ0lzU0EwN3JjOFBNTE56aEVTalhpd1lqZ253X1BxQVNQbGUzdHh1TTR4Qk80Yy1PaFp2Z05fSnlkb3EyTVlwTklsQnVpSTZQdlVZOTMyRl8xcEZF?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 07:38:10 GMT",
-        "discovered": "2026-09-20T13:48:13.887454+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "القنوات الناقلة لمباريات اليوم الأحد 20 سبتمبر 2026 365Scores",
-        "player": "",
-        "content_hash": "77e0ae0d77945285c5a2b505eab9073aa48fe8962dfc021b4e2914cdb967c4b0",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1752,22 +1720,6 @@
         "summary": "للمرة الأولى... إنذار بهجوم جوي معاد يهز الرياض وسط تصاعد القتال في اليمن france24.com",
         "player": "رياض",
         "content_hash": "79f06f8094fd351fdf7105adbe92751de33201729666fdef5d01c747cd11e44a",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 2834,
-        "title": "الحوثيون يقتربون من باب المندب والرياض تبحث عن حلفاء.. لماذا لا تتدخل واشنطن؟ - Euronews",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV2xJMTVNeHhBc3NfWG84SlpBNDdZQ1hLYTBCSndXSXJmR25UQTBkekNWS2JyYV9aODcwSXJ6OXRaT2hGd3F5TWRrYTJXR0ZsOFU5dklPQjRDMWNZMmlUU3pMdWtKbE5WRjJnR0IwS2RmMDF1cEp4dUgweDlFR1JLQmdXNHZydHd6SFoxdlNPdXg4SEYtQlgtMHczb0dhUUdsVTdTaHhNTEthWDhkWTBKdURuQ1BtdDBKSUE?oc=5",
-        "source": "يورونيوز عربي",
-        "trust": "C",
-        "published": "Sat, 19 Sep 2026 07:30:55 GMT",
-        "discovered": "2026-09-19T21:59:40.790849+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "الحوثيون يقتربون من باب المندب والرياض تبحث عن حلفاء.. لماذا لا تتدخل واشنطن؟",
-        "player": "رياض",
-        "content_hash": "227b92ab8546bc9b725fe7baa6fa67b8eef3cd3d4f01acb78fe480a1c305ef50",
         "sent": 0,
         "section": "world_arabic"
       }
