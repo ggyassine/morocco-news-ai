@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T19:04:32.979411+00:00",
-  "total": 110,
+  "updated": "2026-09-20T19:17:33.454940+00:00",
+  "total": 111,
   "sections": {
     "morocco": [
       {
@@ -256,6 +256,22 @@
         "summary": "دفاع: المغرب وفرنسا يطلقان مناورات «شبيك» البحرية بتولون مع إدماج الشق السيبراني لأول مرة Le 360 Arabe",
         "player": "",
         "content_hash": "5213b581fed9f5c74d279ba7f940ec28ea8b61e65b0dd1c86226d7152ecaef23",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 3431,
+        "title": "إصابة حكيمي .. باريس سان جيرمان يكشف برنامجه للعودة إلى التداريب - SNRT News",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SNHNwTmpsS1hoX3FZX0M4UGlRU2IzdldBalZnZ2pXRk5fX1FmTkxQeUZDQmhqUGhZNnZPY0UyZXBrQ0VUZVpIZ0FkWQ?oc=5",
+        "source": "SNRTnews عربي",
+        "trust": "A",
+        "published": "Fri, 18 Sep 2026 16:13:52 GMT",
+        "discovered": "2026-09-20T19:17:06.454246+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "إصابة حكيمي .. باريس سان جيرمان يكشف برنامجه للعودة إلى التداريب SNRT News",
+        "player": "حكيمي",
+        "content_hash": "85594351f0966dd14b89c29f1dd23fbee533d13c06be1e42560ee22d2fa41d17",
         "sent": 0,
         "section": "morocco"
       },
