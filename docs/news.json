@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-20T11:01:01.779829+00:00",
-  "total": 94,
+  "updated": "2026-09-20T11:16:33.682122+00:00",
+  "total": 97,
   "sections": {
     "morocco": [
+      {
+        "id": 3240,
+        "title": "الساعة القانونية: المغرب يعود إلى توقيت غرينيتش رسمياً بعد إلغاء الساعة الإضافية - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83YkZGRGh0TFRMWVJYYXB6MTBYbU0zR040Q3RaRzhGa2ZLcFVQaU81NWRVaFhqdDVWMW5UVUxYM3l0azZwVDBHSHotektwcHRpTjJTTDJDdGdZZWhCalHSAWNBVV95cUxPSkloR3NmTkduM01wdTh0bHl2YWFYLVFESEN6RmdldkhaVUR2T1hmSjdUNEY2aFBXa3MyM0l0UUtZUDhzNVlzMG84VEVMX3hncUsteGRUQWZ1QTZweFBHc0hKdmM?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Sun, 20 Sep 2026 09:55:22 GMT",
+        "discovered": "2026-09-20T11:16:31.553282+00:00",
+        "category": "أخبار المغرب",
+        "status": "رسمي",
+        "summary": "الساعة القانونية: المغرب يعود إلى توقيت غرينيتش رسمياً بعد إلغاء الساعة الإضافية BBC",
+        "player": "",
+        "content_hash": "2634ab1a4452fe14266b41c16e2716b9c8a2bdb4f130175a523d0d171eee7f25",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 3203,
         "title": "من داخل غرف العمليات.. كيف تدير الأحزاب حملاتها الانتخابية في المغرب؟ - الجزيرة نت",
@@ -32,6 +48,22 @@
         "summary": "الحوثيون ضربو 5 مناطق حساسة فالسعودية: العافية لخزان لارامكو والروينة فمطار الرياض والخوف فالرياض كود",
         "player": "رياض",
         "content_hash": "7b2ecd7214013dd690fb208b4aac13d2761a230556bfdada57c13c0c736b0149",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 3239,
+        "title": "المغرب.. الاقتصاد والقدرة الشرائية يتصدران برامج الأحزاب - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOeTFPcFJFeFR6LVlpb1BVOF94a1dLVDQ4OW5sd183TWEtcmlpb09Pc3JJcWJPRHNfUDBEaXlaYXJQalNCTWs4V0dpb2ZTbG95MC1ubjhVeWNpbHZQLUFSaUVVMExxRFJ2ZUFjWjRhRC0tRXZFWFM2WWJtc0RIWjB4UlN0b1gtV2dGTnhGQlRQN0YwMC1uRTQ1NHh3ZUNXc1dhT1luQzdiaVYyU0FueUxjU0IwWkdmalRLUDQtZTM2RGprRGJENDNZcE1LQjB1RkZ4elJPcW5UclhMMmR2aHpEdk4yaFhnZVQ3cDdxcC1ZazNFWUNtQlJmZmFiRy1qckVKWTJUTVprMGd3RUlTR0loRGhOX1hBVF9jOVFZYVctaEZoYjNFQ3MtNlU1S005aWh0NXo5UENQTi0wRDhpRjc5OTRCc21rTzBpVmhvbFhBSjNRZThPcUVRUTdwVy1rZWlpcjZkZ1dORklWU3NSOUR4Y3NVYmNrVXc0RWtROW9kQlVHaTJGTUJfOThWX1ZwdlVyUmFrX1Jyd0xLa3R1MlpGS051Yzk2VnRXZFhlVXlKNXF0V3F0cU9TeDRpS0pCTXJieUhqODBHbGJRazVCcmtTZ2tObktFZ2lnZUhKOE55MNIB5ANBVV95cUxQd1VnN1VJQXFacWE5UThNZnpyRU9sSXBUQXloclNzRjl4dm5tcFRaeDR6UENxOGxTX0ZUSnRoSUYwaFRDbFhRMHVYemFWdEJRWEh0UEFDbVF0OEJGTTNvaE5WV2dhZTR1WFJzQ2pIbnh1WnNQbHFwdDVtMTV0cDl4SlNtb2xzVlZnRmJhNmVjbElYWHhQeGdYUElSN1QxT3FhTkFtY19LSURSWGdIM3ZlM0R3SWFqYzB4M0ZnSXlNeElKWlNXbm1QVmhSMFdseVJkYlluNVFGRjlBRjNPRkRSSVg4Yk1RREN5TWVSNUtXTWZhS21VUFBMaHJNTWhGZXhLNXhPWHN3aFE5Qm5uaHpnMlg4UmQxeVhoWlBOUFBnemFmUFBnbXNWYVVUcklIRHZ4aGRHWWRrQ01BcXJ4QlJRc2lvajkzNHRYLWh1MFVrSGY3VGxJdUlqMmlSTm16dW13a0VZN2Z4dlBQOEhONUtMUnRBV3FTOW5vMnNrTVMyY3NzZGwyMHFkeS1nYm9kNE9HU2tJbzI2bTllQ2JYN2tPemQ0THpnSjJCaHd3cmtMeDJKblhWY19YZEhDOWxMOVFfN1psMzM1MkV4eVN0M3Q2S1JaZ21lWUM2NnNuZHZWNU5jU3NK?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Sun, 20 Sep 2026 04:50:00 GMT",
+        "discovered": "2026-09-20T11:16:27.385996+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الاقتصاد والقدرة الشرائية يتصدران برامج الأحزاب سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "1fb0b35757d607dbce42ff3a2cd47dd399f66c92b249fb2e2ab738d5db722376",
         "sent": 0,
         "section": "morocco"
       },
@@ -117,6 +149,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3236,
+        "title": "مباشر الدوري الاسكتلندي - سيلتك (0)-(0) رينجرز.. هدف غير محتسب - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPZ1ZWUXZaa0VmbVFDWWl6cm9iNXFFcGNoMWpDM21ObElxWGJuX2JDZEJ4NWx5UmNIVlBmalJWOG9ZM0VtRVp6VmdCY0ZXbFpsZ09KX3JSM19JN2xqd0RPTmhSaUt2M1JPNTl2NncxZWlFbHVWN0p6VG9pMW9HWTRMQm9mU0RlVUtON1N1ZVN1TG9qd1N4azU0WVhwam5DbmZTQWp4NGhmNkthSkt5bFctUXc1N2t1MWZtZGt2bVlDYlVqSTZYazJsRnZlMDM4V1J1QmpoMWJCc0FaSWFpOVRMbDBqV3hkZnBuYS1iaEhvaEtSNERvN1ZWS0V1T3c5VWYtOWhucXQ2RTZNM2RybWlvdF9TRkQ5dUI1NDJobDNSLXRSZ2VTekotaTM2V012OUx1ZHNpVEI0VXZEZ3RiWmFQdHJuNjJEWHZMN1pSSlQ0aXQ2c3oyM1R2ZzV4R0w2aU5SYjdPVllIRGZJTHdPUG96TEZ3a0VYal82NUhYVGw1aE1uSjMybHdYNlRPQnJ4Nm5jdUpNdDhzNFFZZHJiX2hzWVRNVzlEUlhQVnY0ZVFwLWEwUEQtekxzb9IBvgNBVV95cUxNLWdIZzJYSUMtS0c3ajlDV3MzNjV4aTBzZ0h2TUZXWnZraVJwb1VBalJXeUg1dWlpSkU0a1ZOaU9fSjNmbWd0dnpNbFY4RkVxQVJ2LWk2WlRyNWhQQTkyUXROWG5OUGJVbTJRNUZqdXJCZ2FXeS1DbnkyS3NBaWc4TXNCS1Awd2ptTi1tMG5wUURwbVk3c0Q5eVhBTnlFdC1iLTY0UVh0Ml93RVFoT255cG5VTFUzbW0xelhCdW01c2lGTkdmOVlaRlpMdm1YckhCNE5NaWFiWEZuZ3BBMWpiMWNlYmFFRHM5b250OWhjN1FXbmQ1bHdfb2ZhMG5UdzRVZlRSbzZhdEYxaUlGTWxIYjRta2k5NHRRZGI2SWhmdm5sMnVCR0pTUkg2c1RSVFpHSzA4bmxZdllGZVBFdVAxTFlQLWxzTFNsNGRqNkFndk1XVmlaYXd5dTU2bEVuOVdHU2M1RmItS2hsa2lGdFBmWlJkczlpb3FQUDR1UG02U3FKbVdKTXRvbDNqSGZCUVJqUHF3QVRWaEVzZVhfTGZVZjhaNUM2TlBIY1RkUVg3d3l5RXpQd3VuamZ0bnplUQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 10:59:00 GMT",
+        "discovered": "2026-09-20T11:16:20.495584+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباشر الدوري الاسكتلندي - سيلتك (0)-(0) رينجرز.. هدف غير محتسب FilGoal",
+        "player": "",
+        "content_hash": "b0f6f2bc8ea79f15b5dfa9b182c382953e1d06591f2b71b0605c0ce92463c8e5",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3224,
         "title": "دوري أبطال أوروبا 2026-2027 | المباريات والنتائج - El botola",
@@ -210,6 +258,22 @@
         "summary": "مصري ومغربي ونجم الهلال في تشكيلة الجولة الأولى لنخبة آسيا Kooora",
         "player": "",
         "content_hash": "3d03490f8ef8cff7b6892a6fa334aa86d7eda47b74f6c14b890e5564eca59a4c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3237,
+        "title": "جدول مباريات اليوم - 20 سبتمبر 2026 - بطولة كأس السوبر الإفريقي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPMVVTM1MweXZqbXNBaHh4OW1XV05DRGhsNjF0cmgyby1ueUZqYkctb2didkxtXzQ2VUNvZ2NGMjN0QV8wblNNT1VJWkw0TTNLbUlmT1NuU09DS0hmNFFzQmpxbnoyWTdCVG93cFkyUm42Y2t3d3ByaDhDVlBoYWU2TFRoRWFLWHJ4VWpCelNjdjQ1cS1IenkweERCazVhcWFEWGZrcGF6S0VQOGVuTlNxaUZFb2ROdDlwbkpzVVYyRDdnZlZiYWRTQnYyRTEtLTcwNTNKN1p5QUx2aDVpWkpWWWVaemp6MlFTMEM4cm83Y3FlS1l1N21hV3RUZHExSGR6M1AwbWV5T29pcm1rTFljQVdhRnpuSDZSVlh6bQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 09:43:53 GMT",
+        "discovered": "2026-09-20T11:16:20.516019+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 20 سبتمبر 2026 - بطولة كأس السوبر الإفريقي FilGoal",
+        "player": "",
+        "content_hash": "6c8c5266b0f3d8be5f933b98d632877fb58b82493a89878b8a6aa9b4c9f69845",
         "sent": 0,
         "section": "sports"
       },
@@ -884,38 +948,6 @@
         "content_hash": "fe4f5dc4ba598650e74c0cfa52fad1c5b162edc7c98c7cd2c13e728122387843",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3031,
-        "title": "برايتون يلحق بآرسنال الهزيمة الأولى في الدوري الإنجليزي بثلاثية نظيفة - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiwAVBVV95cUxQdDFCZzR3ckRwRy1kQ3ZsRU8wak1Ndnp3ZUJUeDhTWmtibTFTVUR1Z1dzQjFyTC0yWldFLVBmbGhpUng5Y2ZOdWJOWTJpMnVDQjJvNHBSOVJSdmQ1UHRWLTR3N25VZTRVUG5HZFMyZDVDamhBZnBVcVpsVUVYeDllcEZHRGdPOTV5S3gxVnR4ZkVqeDJNTlpzb0JMNUVESUdxUVctelB5R19md1JGaVd2d2pRLUtkS3ZPVllkblliUnJ2bnBQSVFvR3JIdC1vdlJmQnBFRC1FMzhoQUo0VU1Rc0NOQWdPT2RFaDVBZkVaTGFhckhBcDdoeUktSkpJUURURXQzNUNERmZCS3VtQmpvcHZaYkVpNTgzU05kU2NWb2pjRGZZS0ZpNHh2U2I4bC1rTi1KbHNsdjdzNVJ3TURudUhEZEZlaHlGa3MyS1R1eDloamRlendJMGRrLWpHZ3JDRTRyRi1JTnl6OUZrZl9rN1N2TlY1ZGZMR3hjb1k1Wm1PQVlXTGV3MVBkU0UwNWwybEVVclRrVXpBb0tCZGR5UjRiYmZPMGlfeXhTR04za25VdzVKMnIwMGhaM1hlNkU2S1JNY3RDQmVGbm9HNTVraHhKSlNyb0VYSUlQYkUyMzZxUUIxTXYwYkJSd1E0YVBRMFNub0ZOWVR3SENFUkE3YW5JQ2RqOFJNVmZNSnMzRTVXNzNpcjhkWmctSUZRWkMwMEl2T2pfeFZ0TGVXbFhERUFmRmQ5ZERYZ05reEs2RUdCZ3FXRENZbGtPMGh1ZXR0eEs1NWhXVlc4S1dtVUhaQXhXQ0JaaUtyNk5TX0hhZjNWRmZ0VUpUZG4xVDlxQkRnTnZlN2ZfdlcwV1k5dXJmODA4ZDZ6ekZlXzUtcXZybDh4TWRGOGp1SVlQZ044N0gwN0huRUVxNmFtUlRBeXExZg?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sat, 19 Sep 2026 20:06:27 GMT",
-        "discovered": "2026-09-20T02:21:45.361720+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "برايتون يلحق بآرسنال الهزيمة الأولى في الدوري الإنجليزي بثلاثية نظيفة الشرق الأوسط",
-        "player": "",
-        "content_hash": "bed6587fad673c77dc392751c5dde4d7e3db9ab491cef052b4b9c2da52d58bf8",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 2965,
-        "title": "غرامات على أندية ولاعبين ومدربين.. كم بلغت حصيلة عقوبات الجولة الخامسة بالدوري؟ - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxOVUpHTGpxbXllTU54M2ozZDNjMU85N3paZmZUcWdWdTdtRjdoWmQ3TXZ3Sk5hQkIyWTdvcF9HQTRUT3BJalRyVDNVLXJndlM4Q1UtSTNtbUhSR05xbEl6UGpPVF9LcFNHNFpWbHp3UkEwWkw4TjRkMVNOOHlVbzJOMVVXSm1pMUZ1ODlrXzRZcE55V1RVLXpXZnlqUGJaakgtWjVOYVVwMWxfWFVCeExmVzNtTWdoOEhZR3J3b25aR3U3a25XTG9vUjhjZVVtMGo2ZHpXalVqMmxsazJ3bkJtR0hjV3VVWUd5bjJVNE10WjE5blNXWEd2QUE0MHAwZDFBQUZJSUpjMjBVREktM3pBUWJOeUlPMjhwNE0tNTM0aGpUdEk0VU1qMXJKTE1qRk11S1AzMVA5UDZSVEhrLUpCbGgxdFVvd1Z0eVBXcGJoZ0w3U2xvenpfc1czeUxZMk1VZ0xUQ2pBLXQyeFVOLWFoZHYwMWpmMUxpaG42cktyR1FkRGhoZjlFdGlBT3FuSVF5dy1ud2Utbi1WLUxzTXUwZUk1dXItc0loTEpUUVlFUDZLUjRwRE8zbVlhU1U2eVA3ZGl3QVBNUWJsWW9qa3BWMXdvYVFFYy15cUMtODhock1zd3pnMGo2aVkxWFhyM0pLRXdBWDdGZTZydzFNWmRtQ2dYT2MxNnZTVzh2ckt3dTBZaTM5WFBlSlNQaW9uNEQyYnJhYVVfUWttM1ZDdVplSWkyVzNLUmU4TFJvTGdTeG9fWUJvdlVOc0FscmVYUkdEUnp4QUdFTXpfbkJ0a0szY1JoQzJieWdrZ1FHVUcyeGhoNExlSWFDNURIdVdITEFsN1Q40gGIBUFVX3lxTE05YmpjTnQ2UWp1bHNKSUgyYzJ6M21la2YtYktDTGFxelJEeDBhZElPVzh0Z1NYckZXS2M0MGZ3aGo3WGR0LXpLV2tTZ29lb2ZmcDN3TEdPc3RDSWk4bFA2X1Q1amN2NmFVbzVsMkRjU09xRXdmNTgxZGtQcUlfWEVxejZxWC1WU2FBZjFsQ0E4cmdSUmVpdF9XTGdpem45b2Fhd1h6bVVhNnIxYkFMWGNYWUs2d2hkbUVwVVUxb1RsNkZicWtQRHlaNWg5UThnZzJYZUQyUERNYzhaRFlrQVNpNlNnMS1vOThlYXEyRi1fUXVheDZJYXFwSUF2Q3p6bjZXWmE5U1ZCZEhIZzEzelJFNU5yMXhLZmVRN2hZeHVRMF9YWmxtdmZWd1BrMVhuTklzd2ttVXJsMFRMM1k4b1M5VGktMU03R0t3OTNLRzZVV0VzYnBJcm1jWVVoaExZakYyOG1pNmUtZEJpdEU5ZFVheGZFMFlURVlZbXNVNlBmMllKSUVSY0pDdnoxS0gzMDRyLUZJTnRCczlwdlZWQmtNV0V0ZFNwMnNFdEFMQnBKMEhfbVhkZGdybDVBU2Q1SHluanZnY0RfMWVycHVzT0RpTVAyYXRxeTJWeWliN19mNFQ4SkJ4dkRGTVdmUFhKaGhob0o3T3dCMFdaX3VXaFZXQkxvMHVaUWlqUUtFcGowQU04bW1HRzZyQy1MeTZjNDhoTWo5aFVUVURfdVNxa0ZIZVZIdWFSZW5fOWV5MzdXUC1xUlgtT3pQSEJhZ1lpT0JZdVZuT1lyV3NMU2RMbjFlNDdGaGpCMnA1MlFzVm5QZmhjX3dkUEZQUU12WjFHd0ZUS2l6cmx0aA?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 19 Sep 2026 19:57:00 GMT",
-        "discovered": "2026-09-19T23:50:21.569212+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "غرامات على أندية ولاعبين ومدربين.. كم بلغت حصيلة عقوبات الجولة الخامسة بالدوري؟",
-        "player": "",
-        "content_hash": "7f1f42a06d06fad9d91403327d01bc3a846ac2e7457dcf01dfa5bb3c3873516a",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1188,6 +1220,22 @@
         "summary": "بعد 87 عاماً... برينتفورد يكسر عقدة تشيلسي بثلاثية الشرق الأوسط",
         "player": "",
         "content_hash": "86d3e8e7059d11f69fa30b9321488b6dcdf80ed6701f0695820075a6694cf8c6",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 3241,
+        "title": "\"محمود التاني\"... البساطة تهزم النجومية المعقدة - اندبندنت عربية",
+        "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQdElsQ0J3T1psY09RVUdqX3YtQVFXMEw5ekNuRVNVcFZLWEpOMEsyUjhvMDVHdHJNVnAyS3R2OVRDaUdjWnAwakNJLUlzcnRwNFdwdHRHV1AzbVYxMmFMMGJlMUNPYnlQdU1IRjYycnkteG50TFZ2Qml6M1FUd2ktOGl4R3dGNFFnNEJOZ3Fia3FNeTJiZUoxNmlWcTlTSzNhMVBDTnVsR3pUTnFkV1dFZEJJZ2hWSHo2dERITXRnU0pDc0N4Y3g5M01odFc5enlreVVnMjNjZzNzVE1LTXp4OXNjcEFxaFNiY0hZMmpab2Q4SlpqNFNQOF9lQlpjZklBVUltdGE0al9Ob1llSjgtVHZwb2lvQTZNMjJCVGMxLU81THdpcnFSYWZxd1FvVk0tODdEeThwNVR3UGdxMU44OHBCekg2Y1A0c1JfRjlzeGZBYzdXZzgtUVRKSFloX09Sc05kUS1rcEhNVVJOZ3NKWWd6SVdXOUVjcjNRRlZSN2Nha0N3V0JNUEtpM19vaGV5bVNpVnNFSGotbHpsOEdIMzhLalE5bkY1UWc?oc=5",
+        "source": "إندبندنت عربية",
+        "trust": "C",
+        "published": "Fri, 18 Sep 2026 12:14:20 GMT",
+        "discovered": "2026-09-20T11:16:32.694796+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "\"محمود التاني\"... البساطة تهزم النجومية المعقدة اندبندنت عربية",
+        "player": "",
+        "content_hash": "757a22737d26d288c871e00f7c27caab7417c4c54358c9e9a80917edadafd8be",
         "sent": 0,
         "section": "transfers"
       },
