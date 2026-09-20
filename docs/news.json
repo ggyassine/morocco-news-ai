@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T19:28:20.185824+00:00",
-  "total": 112,
+  "updated": "2026-09-20T19:38:24.734272+00:00",
+  "total": 113,
   "sections": {
     "morocco": [
       {
@@ -309,6 +309,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3435,
+        "title": "المنتخب المغربي لأقل من 17 سنة يعسكر بالمعمورة استعدادا لـ\"كوبا إسبانيا\" - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5fX1R4WW1qN3VVX20zQk40NXh1d2VvdnFtelc2RldoMTJNc0daX3p0eXJfZGMzeGgybndfQ281aEVmdV95RzVURg?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 19:34:06 GMT",
+        "discovered": "2026-09-20T19:38:03.079682+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "المنتخب المغربي لأقل من 17 سنة يعسكر بالمعمورة استعدادا لـ\"كوبا إسبانيا\" Febrayer",
+        "player": "",
+        "content_hash": "76e1ce290b723a1c6c5e1d89b1282ee244fee0f200794b7db90cc35f8cec8b37",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3428,
         "title": "«الدوري الفرنسي»: الجزائري عمورة يمنح نيس انتصاره الأول - الشرق الأوسط",
@@ -1092,22 +1108,6 @@
         "content_hash": "91870aa69885247505853fbd63349a6be920f132a111565fbab43bb53a09e54d",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3343,
-        "title": "سعادة في دورتموند بعد تصدر ترتيب «البوندسليغا» - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxNMUtRLUx4SFdxd1dGS3VtUUJJZVhDSUREZU9xeVdld1E5RzFQclNNaHdfV2NVeXN4a24zeGEzVzk2bFdNWW5Ic3RweS1MMEktQWpLTGtRdEJsWC0wUXhOU1diZG0xWlViS3FFS3hZUEVKV0YxdUZRTGNRcl9rVUNtRW5YeVMtbF9qeUNtZExEd0dKeE1iQWRxeGJ4STNhN191LVRtYWstNFBndkFHNkotdXJzNThkRHB6OGdEeEJOZDM3RTJyMDlYOEV0WnVXX1ByZVgxaEFsM1diNF8xcnRkcHp1S3pVdk9ZMUF0YldxdGR3aV9lYU5zXzBDaFVZQVZ0MnhWN1RrdEw4ZXp4Y1E3bC02bjJpenVuZGJuRy14TDZla1YwZV9aWmxyaXNNMnZvQ092OUVZWmpVNXgzTkxpX0F2Yk9IaTZ3OTl4SjFrclcxVFgxSnNvdWNDZDNpODlCXzRzM0E2OWhpa2t2MkpJTkxfLWkzNW1qTTJrQUdPRGE1OFRMenpJSWxQdWhYd3lRZ2pCNXBWa0NuUXdnTV9UWDJnMlZxdlFiZHBXLXZMSlRMMWpoUS1WMHVtUlcyZ21yS2JPV0NLbkJEalZsTG1CeVBFNkJLWE01aGg0aThoV04wQzM2eTMxcnJpYkw0X18taWtYUThNeFJpVXE4Z1o2am1mZEhadmgtYkdKVA?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 15:45:03 GMT",
-        "discovered": "2026-09-20T15:52:25.096698+00:00",
-        "category": "أخبار",
-        "status": "غير واضح",
-        "summary": "سعادة في دورتموند بعد تصدر ترتيب «البوندسليغا» الشرق الأوسط",
-        "player": "",
-        "content_hash": "fd0b03453b2e08d5ad1611257d25310a85ccb33e1e60fd94e3862108a39ecc93",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1736,6 +1736,22 @@
         "summary": "أزمة الرياض مع الحوثيين فرصة ترامب لرعاية تعاون سعودي إسرائيلي إماراتي - وول ستريت جورنال BBC",
         "player": "رياض",
         "content_hash": "7f9c1d7623da7cb67fc2baeb81230a2e968b07cdc6054f07e62f85facbf952d3",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 3436,
+        "title": "\"الوزير المجرم\" يعتمد تعذيب الأسرى الفلسطينيين \"صورة خلفية\" لحملته الانتخابية - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNZ254VTgzZFdfdXhLNTZ1SWN5a3NKVldmT2JCQ2d6am1xTjlMT2xaZ1dDLTVCYndGTGZ5d2ZZcm5ZUUxGRXJmSTJONUFpSkdWb1BGa1BMcXVtdml6dklxTGxaaW94MzZnejRKbTA5ajl3dVRzb3dFRjh5dkhJMTN4cndnYXI5VkszWFVyZXRSWHpSRkM4Q2pSV0NNNkJRU3R5R2ZsTWdGblBFYUpCbTFKSDIxWTZCMjUyX3JRSlJsLXc0anhPX2pEWlhIVGtHak9DRDJiNkhHQU1uV2ZWdk1TNG4wbUswX295RkRQZ2tDUzlxMHZ4bjNaYmJtcGZXNlk4RmpVYlZLZ0VhOHliUDNlOXoycVFkak9uQVFQRzFqN0xUOG9QY2dUTXpQcWdLaHAzMFk0RzBROWpTQ0dua2c?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 11:34:01 GMT",
+        "discovered": "2026-09-20T19:38:19.976075+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "\"الوزير المجرم\" يعتمد تعذيب الأسرى الفلسطينيين \"صورة خلفية\" لحملته الانتخابية القدس العربي",
+        "player": "",
+        "content_hash": "01a4a078d2718b50b9a829580f3eb0e1d9629d1b0b9c454e52cd037dc8c358e3",
         "sent": 0,
         "section": "world_arabic"
       },
