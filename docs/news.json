@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T07:51:57.630796+00:00",
-  "total": 83,
+  "updated": "2026-09-20T08:00:26.424952+00:00",
+  "total": 84,
   "sections": {
     "morocco": [
       {
@@ -117,6 +117,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3152,
+        "title": "لاعب جديد ينضم لمعسكر المنتخب السعودي بعد استبعاد مصعب الجوير لأسباب انضباطية - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZnRwNnFpajdUcEpmR19VN0FqeGdlRUkxSFNBSl9sR0dqU1JvRTl0MWl6SjRYTUZFRkZPVDc0SkJfb0NQLUZrRkVxck1mNXBKS25HVVk3eXNJRHNTMmljV2FPTjhoZFFITFQxUF9aaWNyVmZiVWtnYUljRHdyTGxicVA5Wnlrb0Y1Zm9YeXgwYUdsZG9DMWhYdE5ESQ?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 07:49:58 GMT",
+        "discovered": "2026-09-20T08:00:26.047853+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لاعب جديد ينضم لمعسكر المنتخب السعودي بعد استبعاد مصعب الجوير لأسباب انضباطية CNN Arabic",
+        "player": "",
+        "content_hash": "195dd298b156143fd5ca07fbf6d03acc57e908e123d61a683913f33a83471058",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3139,
         "title": "مواعيد مباريات اليوم الأحد.. ديربي مدريد.. قمة مارسيليا وباريس.. وظهور محتمل لمحمد عبد المنعم - يلاكورة",
@@ -900,22 +916,6 @@
         "content_hash": "062575c37c38339ea04a4509087859c83be63a133474d60fac2af36abd42f9d0",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3120,
-        "title": "تورينو يتعادل مع بولونيا في الدوري الإيطالي.. وكالياري يفوز على أودينيزي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxNQXQ2cS05NUVQSFluUHpfUWliU2lQNmRIa21jcHMycnNzOS1yODNCdnhkRGRrcDM2OFpWTFl5ZmhsUU5zVy1iUXowaGRUaV9HM0xCRlI3MC04M1JFbG1lenFrYXR6cjZBUUgxX1JrOVgzaHBETVRrNHN4NFRrYWY5WG9KZVBRREFCYkJMSHJxMlh0Smk4YTZ4NGV4TGp1SE9HYjJUOFR4NGhCeU1WS0RKeFBHSWhNcmlqcVdzeWFzVjFGR2tlVDBpRUxrSEduTEZ0NFM1NUdwaEhCYzJHQVVSdnJocVpFMWRlYVBfM3otY24tVm9td0YzOHI0bUI0N3pZb2k2ZFZNMW5KLWxzS0ozMmVnci0tS0FfT2w1SHhBdlFSdDAyODdHS3l6eGtaOW1hOEVRTks4TXFJWGhzeHhmY3VCbmY4VnV0Q1hoQkZYQnlmUDkyQXk0OGNuNUc1QlgzU0RONDFJbTZVUjNOcHBWS21kLVcyRWF0NE92WEV4OHp6V21OZDF3OG5fcTBybWJpNFlqVjN5WEs5Yl9hdklDZXdyRElQQUFWTW9UOXZ2MWhEcm16c2JISy02U0Fpdk1qV3Nmc3NjdEF3SjM5ZzAyVkxkVXVnQWV1OU0xZ09fQTE1MVNnaUp5NUhrZEJ1RE9RdGFEcHdSNGthUl9uUHZhRE5wdktaRlZvUS1Qd3ZIZjMwR3QtaUF0MXloRy0yQjdfenlNU3RtQVh0YTBEbkRITUlIN28tN2V1ampoeEx3NEpFR0tEcklPRWxEYkdVQdIB0wRBVV95cUxORUhFdmcxbUpzbk1lYjdKSUt0OW1fakNqdkl6dHlCZWRGdy1nSmt5NFRFVnI3NThMZVBVekJYR25QODVqZnFEMnRXSWF2dlp0d1NTYlRBS0lYMlQ0TkxDeUljeklhSlJobWdpZGNLTXlGcU1NWHBuRnJMMFZOT2FKWDBaOWFROU9qWG91QWF5RnlILUtXTjI5d2VRODRfeWZfVTY3WDRNUEtldGtiVXJyakJzMUNWakhQY2dWdms5TDJIMmFIMkkxOFdGbjRFMkN2RlI5R1A0VTJ0RzU0YW1xSXVzVjhORlF5YU1sd3dHUnpJQ1pycU9ScWNMV003Q0EzQVpvbmx4VUxNVUFnNi13T1NGaWkwbDU3Tjl5MTh5OEJKRjcwYXhxNXY4bW5MVW9XeUlUQkFwUjBhUklFUk8tNHpmQTUzbjItM0JSLVdXNEpjaEpINVBBbTcwLUxLSTI4TVVOR1hnXzBYQVJTZ0w1bjlmOGRWUUliZHZoNDhJYldyM3NjbXhEUlRKVWVGaWt6SElpOHNuSTdoMTE4Nm5lMXJqV0g1N2xzVU1IQUthOUJWbU11RzZBTkZ1R1VucU5wX0p6ZW9PMW56Sndoc2QxY2ZfdjhwSFA2SmppNU9CMGhEai03WXd5eUZlMnUwSll0Rm5mdExrNnF2RUxDQTYtLXRUcFB6Z1dEd180YzlYeGt3TGlCSElGaFlPYzFyRUttNk1lQTBrX0lKTXBPdENFMWpZb0s3VGZZTExHMVI4SWNXQ2JRZjlhdlFSOHdaOUF6RW9j?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 19 Sep 2026 15:39:00 GMT",
-        "discovered": "2026-09-20T06:01:22.086690+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تورينو يتعادل مع بولونيا في الدوري الإيطالي.. وكالياري يفوز على أودينيزي يلاكورة",
-        "player": "",
-        "content_hash": "311dc86e292af5ecf0f6177cc78a390c2f87fa18a1e658bfd97bd86077c5d2f7",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -980,6 +980,22 @@
         "summary": "عقدة مستمرة لـ 18 مباراة وعودة متكررة.. إنتر يتعادل مع روما FilGoal",
         "player": "",
         "content_hash": "87f307f4753921ae0a236b9b8928a7effd849ee9db8ea4ce350c0ba61e6a1866",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 3151,
+        "title": "\"أوبن إيه آي\" تتوقع تضاعف إيراداتها 10 مرات بحلول 2030 - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPVnZhOXNQdWV4djdPdG9UQjFkV1AzR21oeVdLVThrNmlFV0Qwd09pVlMzaWF5bXNqVDVfSTh6QXRMQnVfM01FbHNyZm9pZUFQM0RaZ3M5ZXYyYTBscUl5ZnBzc3RLUnVFR0M4cU5Tc2FQV242SEZPdndmOFNSOExfME40MFZTUFljQkw0SlRGcDUwWGZWZ1hpUFFJejVRaXFmbVc3bWZmeWFFZUJvYnkzZ3VkLVBDUGNXVEp6SXhUWHJWVnNBTlkzQkt5UHE4M3RDNmVDWGRfNEc0VlFJWTVIbVlLajZrQ1NvaU5FeVlqdnh6QW9taTdjOGswRlpBVTM0U3JZTzI1djNkVTBRX2ZLV2tFaWZKYjFKVVhMbUJydHlIV0tLYTY0MV9oYXg0eUNIa09PUHg0d2JXU0d6X3RjTXc3UVA0VWpoVWxQbDFaXzNmaXRwVHpiQ0owZVdYN3hrMlE1SjBYY2R1dmc5aUZkUjBGVDB3cTVmMktXbmdycTYtZl80cnfSAYsDQVVfeXFMTmE5TVd2M050MEoxSWJPOG9CM1dlb1d6OFd3OTJyTzlCYzRoZXNXSThDOXNpdlJsNUdLanJWQTdETTYwb1pOY1pTQnBkTDlpYnlqQ3FBQWx3UUowUmZkX0pESXI0ZVc4TEUyWDFwXzBfc1FsZjR4X0UzSlV3eE1qd0hBeUFsWUdNamREenBnLVMwZTFrNGNmM2gzaTVBUFFlbDdzS05yYml0N1ppYk42STVLNUNacklWNlNLVklRUU81bk1xX3V5QlVFbldIazZId01SSDFLMzBQTzFLY2V4WDRrS2RzMWl5V2lUZ2hJTlNyVllXcVI2ZjlpcEtKbGhzR3QwRWtXWERCTzllRTNQZGR4b1pIRlE2Y2xpSFBrYUJpbEstc2d2Q2lacHV5SFZvejh1TVhUZEcybS1HTjVtQnUwWDFJTHJMOHF3X2ZyejNYT2hZRWNRRHFRSXdsZndCbDg5VjFQOEtjOEpNWVNpUHlod2J3T1pyRGhMa3hZQVFvUDRoNUV6b0lOTzg?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Sat, 19 Sep 2026 11:20:19 GMT",
+        "discovered": "2026-09-20T08:00:21.949551+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "\"أوبن إيه آي\" تتوقع تضاعف إيراداتها 10 مرات بحلول 2030 العربي الجديد",
+        "player": "",
+        "content_hash": "778cba50d74e649e27b5ea9024393ad811be4da2e5a2983bc72f65846f586f85",
         "sent": 0,
         "section": "transfers"
       },
