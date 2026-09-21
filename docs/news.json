@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-21T16:52:46.132531+00:00",
-  "total": 118,
+  "updated": "2026-09-21T17:02:17.968424+00:00",
+  "total": 120,
   "sections": {
     "morocco": [
+      {
+        "id": 3845,
+        "title": "منشورات الانتخابات المغربية تحت مجهر الانتقاد البيئي - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNSGRpSUZkZWc3NXVBaV9qODUxWnVhcXJ1SHBXemNoSDNuS3pWMUt0TFQ5WDd4Tjl0NmZ6NWxNb1U4SVlUbTluRUk5cWpTZHJVeWpuT3ZVcGJmd0MtMWwxdG56MVFNcXBzdS1IM29qbE91VkdRWk4tY09WRG9fZ3dsanRfZzRkMTh5b01IeGZZblJ3ekg2VzNTdDhWNldXOGhQbU1IWVJMTndFVlRVSWdHWGo4ODVMZk45V0R3YkhMWlRDaUp2VUtSekdydWNhOGFCci1VVVpHY1dRR19hRUc2c3Ftd2MtU0lpbWU4d01rdFd0ME5MWUJPdVc2NUlHWGxIc0ZRazlpT3g1V0ZYWU9NSzdhS3ZOUm1RQjB6VENwQnZFcENCdGZIbjVpUF9jQi1ZNnNMem1IeEZOeElYdmtWTDhNN04?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 16:11:24 GMT",
+        "discovered": "2026-09-21T17:02:12.142122+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "منشورات الانتخابات المغربية تحت مجهر الانتقاد البيئي القدس العربي",
+        "player": "",
+        "content_hash": "37519f14a93004060cbc110a6335af5fcc94b342f765777f3e4df89135fca757",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 3788,
         "title": "هل تقلق موسكو؟.. مناورات تجمع أمريكا وليبيا والمغرب والجزائر - DW.com",
@@ -1191,6 +1207,22 @@
       }
     ],
     "transfers": [
+      {
+        "id": 3843,
+        "title": "خبر في الجول – وصول جميع المحترفين لمنتخب مصر.. وموعد انضمام هيثم حسن - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxNMFVtRTJya2ZjQnpNd2pXeEpBTVFlQmpWU21NT3hEdUY0eVZveV92bm5BNEZhdWU1dF9DcTlVSHFxMGRHb09BVUF3UVdpeG8xNHgzVG1OZU9HYTRKLUVFQ0Rjd2pCcGF0NlMyWXFoRzJTMUIzay14WlJlWkN5RDhXeFNUcFFtMVg4TFp1d1NfZGZIZ0NDLUpRYXVXS0p4dXhpMVE4ZnBDQUNtX3FjQjNQRkZGQVhaZ2djUldYVlp4Ukp0NTVYN3ExWEdDTTM1bW0yZ240TW5vSWNwb3NSV25DLWFwTW9WREtXejFvQ1duNmpPUU9hSndHdEp1OXBlN2xKbXgwaWlCR1J2WkJMcXpkOHdxcGVjamNQLVdjbzFnVkdYcy12M25aLThzRjcyV1ozQnlNWUhfYXJucXpKZFh2T2dPclVwT1hBU0ROZDQyOU1jSS1aWlk1NWZoU0JoUlpNdkttLTI0NDBxSUZkOEZrbHNhUUdud0NGZWZ5SjdiTHZKZVdsc0V4bGpsWC1taTY0TWpiUmhfZkJwNFNHbGgxZFBXdjMwODA3R1pGWlVwY2VaT3o1TFhEbXE0SVN5SWgwZ3FVN1BKQ3VGOFQ5WFVmU3pIRDFvbGVOdkR6aEN3VVlreVBtR29QVjNHQm1XbXNYSXNvUVZ4RXcwQXdCdVg4QXdlRzUzUllxWmxZLUI5cDPSAZYEQVVfeXFMT05yM0w4REJLUHVjNGFPdzRJSFQyZ2FPd19XVHY5VXRSMi1FZmVYSXdEWDd0YXFITUtlYkIyZGRqbDhHdmI4aFlxLThOaTU5TWE2LUI1SlV2TFFqdTNsQ0xaaVdxV1lzVE12bUVFRE51VzVIdHhlZjFKT1kyT0luOXlfNkhWVFFHYjV6VDNEZlEyZzVtQndYYnc1VEY2Tmhwek1OellNMndVbkxMUmQzaTByVVd1Z2RVV3E1TnhEZDJhdmViRk1mR1hlT0U3YzZsbDFpWHNyay0wT2hPS1Rfa0tGcG4zWHJLd2NtaERwWjlZSVlTaG0teUIyVHhBNWdsX3ZSVGozVXQxWWdsYWNXRmRZVHJvZ0JQS2FpV2p6OU55MTdtX0JBbDAtUHBfbEZwWDRsQkhXbmFmZlBfVzRfc01DdHczQ2d2OG5nRjMxQkFfaWk5QVI2MEwtZ252ek9pdkF3ZjBKOTFsaEE0YXZISF9ZMDZrOTVRWnlzUk83SGpzd2RmQ2RjWURZcE1OQzJSZE43MWtHV2xIX2pCNjVxR2VqeW5hTGdnNFNidFB2aFpTemlnU0l3ZldRYi1yUlVNQmFCWXZOMnB5ODkzVmpDRGdUbGhlNmlWZWVMMkVtV2ZZMmZvLXpWMUZ3M0hYMk5kckpJMjhTQWJNZ1k1elpCSzlWTi16WXFHRGpiLVNRVHRXVVF0ZE1B?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 16:55:00 GMT",
+        "discovered": "2026-09-21T17:01:59.400559+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "خبر في الجول – وصول جميع المحترفين لمنتخب مصر.. وموعد انضمام هيثم حسن FilGoal",
+        "player": "",
+        "content_hash": "598940503c2d1a83b602d9aa751ab1860a3ed45ecece9117cf6aeae5d866dc20",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 3812,
         "title": "دي لا فوينتي يمدد عقده مع منتخب إسبانيا حتى 2032 - FilGoal",
