@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T21:42:42.051980+00:00",
-  "total": 133,
+  "updated": "2026-09-21T21:53:18.724459+00:00",
+  "total": 134,
   "sections": {
     "morocco": [
       {
@@ -32,6 +32,22 @@
         "summary": "ساعتين للوصول من الرباط إلى الدار البيضاء عبر البراق !! febrayer.com",
         "player": "",
         "content_hash": "91b13722fce0c222b646c02025fbf95ce6c929071ca7e9305ef501b5ab20c885",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 3950,
+        "title": "إصلاح قطاع الصحة فالمغرب.. استثمار بـ42 مليار درهم وتغطية كتشمل 80% من السكان - goud.ma",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPTFRnanlobUVqWVZ6M2EzY0dTdE9NRUhfUGkyQnZlckx6X0pGcC1YRmhqY3JfTTFZOTB4NWg2UjdSVlV2QWxYcmlxSk1ZRmF5eUxiczB0bkdJSDgxYWRKYjFwSmNJdVBHSTIzam1xVERGMzY4blQxcnpyS2JSLWU2aDRjQm5JbnhlSF9jRW9nUUtpcV9SZ2lTMWJFUi11d0pKVG5MU1ZRMWh4bDdMMzhiS01lUUgxT2Juc0ZFdWNxX2lMZnFaR2hES0gxazlnSk14WGtvMDV3bEVyWTBRUjQ0UUZJVVFIUkFzc1laekpJeExHb2FEeExtTFQtOHQ5OW9CNk96SThLdTVkNEJBdWg0WjQtWkVUbUhGMXpfb0RvaHk5SUtaSTFwandzYjFsbVczNDRJS2dDREVSOFRFZVhmaWZVQTREQQ?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 20:19:22 GMT",
+        "discovered": "2026-09-21T21:52:48.059191+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "إصلاح قطاع الصحة فالمغرب.. استثمار بـ42 مليار درهم وتغطية كتشمل 80% من السكان goud.ma",
+        "player": "",
+        "content_hash": "9bef704ad9f83997563f37d1d734e09f6e974edd66ecc9bac0d0ecfa402d58b8",
         "sent": 0,
         "section": "morocco"
       },
@@ -469,6 +485,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3952,
+        "title": "موعد مباراة العراق ضد عمان في خليجي 27 والقنوات الناقلة - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNMUtKZzV4MUM5dzBncXdIN21sNjZEWVM2UU1abU9LeGxXV0RBRXJvQU4xanhhSDJ0VGJpb2ZBdjdHcldaOHNqM3R5MHlEQklmeUk5MGVhT0hLR3hHdnVqUk15aUdVd0szejlhR2Q5YkFJWUNTTnNZRi04VHBMRTBRRlJQSl9UTlI5czZYakZVMlJfUlRDMGM2WHZVdDY4YVotZnJNelVsd1BseXhoWlk0djBSOFNTTkVCWUdxNk9IMmE0ZHdSZ0NWem5LVE5LOTFlSmhOb2RoRUtJT0RRNHJneGc2dDBUZkhld250NFF6VEJoUUk5cm1JLU5pN3B4amVZNC1tWUl5b1lHanBUck1EMFU3eEZPTmdCaWwwbjlRRGk5UTVLVUY2TnVSczRkdGgzYTAzandzNNIBvAJBVV95cUxQSGFDNC1CTzlBRDc4Y29zQUsxc24zcTQ2SUVtVElGQ3hVSGNUS3dBZGRRTTBqQ2ZGdWlKbDZod3IwbU56Y2c0eHJWUDBUZGszUDI1dUk0VXVZemVpR2lqZEQwdVp4dTN1T2tmRmRGZnc4VXBQb3BzVGY2b0VRTXZzY2lqYl9GNW5tMG5QWXdDb1JwVTVwRnN6ZjZONmRMN1pXa0dQZVVoSjY0aDljZG5fOGQzUDJaLWtsdEZzX3pPV3VmQ2luSGhpcFoxcHkyWkNyTXJ3WkdVOWZGaGlPOWlSWTJSMFZTNEFqNTMtNXM1Yk1ZR2taOTZUQy1SZFFKbWV3bmZuVWdWcjVFQzIzazQtX0oxMnIzLTFZaGhsWHpXS1h0VDZ4WVpqTmhvSFJDT2pEV0pGR1ExRWxLaE1W?oc=5",
+        "source": "الجزيرة الرياضية",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 21:36:09 GMT",
+        "discovered": "2026-09-21T21:52:53.136611+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "موعد مباراة العراق ضد عمان في خليجي 27 والقنوات الناقلة الجزيرة نت",
+        "player": "",
+        "content_hash": "6b32e8b8155499e01b27b336bd7b981e6233d04eb9cbfb581e7e24abfa568573",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3945,
         "title": "اتحاد الكرة: منتخب مصر في بداية مرحلة جديدة.. ومباراة أنجولا ستكون صعبة - يلاكورة",
@@ -1250,22 +1282,6 @@
         "summary": "مبابي يكشف حقيقة توتر علاقته مع ديمبيلي بسبب الكرة الذهبية الشرق رياضة",
         "player": "رياض",
         "content_hash": "ba94b02a66f38d5fa7782de833c69dc22d5b2393e0e21345d98801d04bd96362",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3814,
-        "title": "مواعيد مباريات الإمارات في خليجي 27 والقنوات الناقلة - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQSmxRbnBWemxYNWx3T2V5cjdtVkFOUWxESUZONG9NVTBONmJ5aTd3UVpSV3ZFa1VrVE1hZGFDV3Nmb0tETTRyVWlzUS1Ia2UzX29DaXJyZTJHSlFETUZCLVYxOU1zOHpBQ0prejZackRHZlU4MG91bzBQZGFQN2FRS2NhaTdhQXFKWDM1cjZEMHdwdl9SUnFnOUo5YXFGdGJUb1FqRWZUVUhGbllxNWdGOTFXbmMzVHppd2dsSnVNakpGaU12dE9KLWNDU0hwTGxDcDJ1d2k1UXo3M2diWWZCY0xCWC1VTXVzakg2bEJEZW44WjRpMnhOaHhPRTl5N1dvdVRTWVlCOXAxQXBzOGxfZTBCUGdxVzJNMDdWUmxZVjJCckFXT3Awc1dZd0o2Vl93Yl95VGlBY2hGZmdCNzNTQVlRTUZiZXlUUUZncDJ6VnpwYWdWajh3a29xTkVPY01JMUE?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 15:03:39 GMT",
-        "discovered": "2026-09-21T15:20:33.575648+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مواعيد مباريات الإمارات في خليجي 27 والقنوات الناقلة 365Scores",
-        "player": "",
-        "content_hash": "5176e51f5d9b0f89d7cb1fc1e9a0834452ffcc35e5f6199a8fb735e7193132f5",
         "sent": 0,
         "section": "sports"
       }
