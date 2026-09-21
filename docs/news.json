@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T16:40:40.202973+00:00",
-  "total": 119,
+  "updated": "2026-09-21T16:52:46.132531+00:00",
+  "total": 118,
   "sections": {
     "morocco": [
       {
@@ -562,6 +562,22 @@
         "summary": "تورلوف: قرار المحكمة الرياضية بشأن روسيا يمثل خطا أحمر للاتحاد الدولي للشطرنج Reuters",
         "player": "رياض",
         "content_hash": "041595376177ded08e867bc04cbd9407a684f85ef2d05d044f8a174a683f1316",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3840,
+        "title": "مبابي يكشف حقيقة توتر علاقته مع ديمبيلي بسبب الكرة الذهبية - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxNSGhnMWcxbGs2ZUhWTmN4bnVvUmlmcW1pTUZoXzdOd1J5U0MyQ1o1UkxtSV9ycnQxUmFOUVZSUTRQMjd6NHNmbzV6Q1c0MlplLVItV3pwckNXZlk4MTgzejU1d1RKYUVST3pvS0N0R29lZ21xOC1vbVpfdHMtMktFeHhYOWpBUGRRM2twXzVKNXJFaGFidG8tV2xhamJjNFB0Rl9JenFRTFE0WG83ZUYzY3RDalpxUE9KQ05oRmFJNDc2X0JxNXQ4LS1nVTZEa2ZvYlUwc0RCSEszSWI0b3ZORzN0eGlMa3p5cjctSlFLTnYtMkQ2c2ZqSVp0UjBjVEpQTjhoUzN2b0JsUVhiMEVqcjFBcU9HLUxnMEFSN1BsSDMzNGlWVmJoZFE2RmlxMUp1bmxxVmlqNkE2UnY5eUlkSTBfbi1zYzJJNUxhQklXYWVyWDkyX0hIQmlHeUd0ZC1hemJTNmFRQTVvSVZsTVRFY1p1bHQzdGZSR3VzY3d4ZmsyT19YRWlpMG04WE9jd1BJQzZGX1dEU01iOXVRSFh5N2VtcFIwT09TNFY4SndQdXh3TVhMWkxZdkk5ZjdsbUU4R3VvMDFhVTVOUGhDSldnZTBZTDRfY3RrVFNxUGEwOUhrT0lkeU1FcTl1QUo3NGM?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 15:13:12 GMT",
+        "discovered": "2026-09-21T16:52:27.369838+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مبابي يكشف حقيقة توتر علاقته مع ديمبيلي بسبب الكرة الذهبية الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "ba94b02a66f38d5fa7782de833c69dc22d5b2393e0e21345d98801d04bd96362",
         "sent": 0,
         "section": "sports"
       },
@@ -1170,22 +1186,6 @@
         "summary": "أنشيلوتي يستدعي لاعبا جديدا قبل مواجهتي أستراليا والهند Kooora",
         "player": "",
         "content_hash": "b1dc5f664e35509018486d326eeda9fb86ff63b9c4b2625460321a41281d83fb",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3739,
-        "title": "هالاند يهز آخر شباك صامدة في الدوري الإنجليزي ويحقق إنجازا استثنائيا - aljazeera.net",
-        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPUHdOYmVPbXhScHIzc2g1alRHOUo5NExJSkdjX2hWZ0NLV0ZmWEZoUllRcW1pdS05ZVhra1hNZ1A3UnlPLW9GSjVSSXFjdVVJZHdFdkktR0VfX1o4dVlueUdvSVI3M1lIV2lVc05ZUWpUM2JuN0FzMnlFUkxUYWI3bG5hRnNtU19SWGh5cFlkMHFORTZWOVcwUHUtOWFHdkY3N1dDZTJsdUtVa0JfNjV5RTN3WnY1U05QXzdlLXdIZzBoYlYyZU5BZ2xwbTJYZzRYMFJjRkx0M3Y5MHhrVDRIaEpkaGVDN0R1N0ZXZ2pLa2FRRnBnRXNqODZUbUdXR0xrejkzNWkzdUs2WnMwT2N4QmNrbjZrWUhJbWxHSmNOZ9IBpAJBVV95cUxPODJQV2I3ZGt3alZkRDhsTk5NcDRTd3FZY25nNVN1ZlYwT2dJdk9FMGd5aHJDR05YYmQ1LXRySGk4U3Y5MTBtbjI0Y3owVm1Ca1BnYUZ6cndfbjRPaE9sbG9fTTVKZHp2bEIyS2ZtbWl6c0hSa29xcGpORk5QME1mYnFsV294VDJXUnU3bEtfVnFyVHlrOXpuMUJlTnFtV1F3TGJOSG9qVmVQalFja0NSQzEzMFExM1I4dGx3RG1KYTVvazRTNmw4Nk5DQnQzVndxbGdjMU5SUjU4YWZxVE5tekhkaVdRLTJGV1BibGt6RmV4UTJtYXhLOHAxYVlKRGdSbndDZkNUTTFUU051aVA4RDdDb1UwR082ZFBLZURUVlQ1RW81?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Mon, 21 Sep 2026 09:38:52 GMT",
-        "discovered": "2026-09-21T11:27:08.250861+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "هالاند يهز آخر شباك صامدة في الدوري الإنجليزي ويحقق إنجازا استثنائيا aljazeera.net",
-        "player": "",
-        "content_hash": "dbed8fd7ae5a2671567ac1c56ed68ac0eeafc7e34f19a6a1b5b71dd9f7f6e27e",
         "sent": 0,
         "section": "sports"
       }
@@ -1798,22 +1798,6 @@
         "summary": "برز أمام ريال مدريد وخطف الأنظار.. برشلونة يضم البرتغالي داني فرير الجزيرة نت",
         "player": "",
         "content_hash": "3778191701ffe3659f6220453d6826e37b9a8c39cf86a9b63c55616e21bdc56c",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 3339,
-        "title": "بالتفاصيل.. أزمة في عرض البحر تهدد أسواق النفط - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOR2RJdjQtZmFpdVVqbC0tb0JHY1pDYkpOY0VFem01RUxld3FnbmZFZ1BoM0kyUzJOeFFwb0tkRFNXMnFrZXdIR0c1NHYzYVRsVEIyLWRnTW5XR3NhZUpRZThuTGJFMDl3cXdQNTBnTVh4ZjdzWXFWcktQZ0NyMG9RRFJnNUp1VEJDdXpPWVVDVmUxcUZBMVZSUFdELXY2WmdfNkZxY3pnSW5TY2l6T1ZBSmZQMTdlUk9ZR21NNGFCdE9mbkJVcWpobU94SzJseEkyTUFWaG5IV3hVRFFkTk0zbTg4SUpORTFLcndRYlFZUWJ3ZHJlVlU4Y1Jtb29KVWRGYk9BV0xXS2h6RFF2Wmhwam5tOXp1UnZhUmN3c1hUblZQVHVmbnpYNTFzQ0hzTE40RDU4MUtDdUhfUVc4WlRKTFhhSHNXZW5jaHhZNXlfZThrZG5oQXo4Mnd1SHI5RlNyTjFWZU1OQzdJS2x0MGVwVlZRUy1hc1HSAfwCQVVfeXFMTVFISF9ncDhDbGNZYUFwZDVpMUd0bDlUNVEwNC1CSmtjUHFTWURSOFk5dUhIeWFjbzBsa2ZueGFoMF93RmJFaF9nN1hQTTUtZXUzcGRTRHZpSXkxMHVEQWJWTlVpLXVQc0ZEQS1tNURnbXllWHVaMG9uQVh3bUxqQXhxWEkyUzhNQWYtQll6cGsyVTZQZWZDdXpvdVZVSjRST3NUajNKbklsT1ZzWkN4S3loVU5GVy1PVWdiamUtNU0tUjN6MktvTDVTT0dmZUlRcElLZlZXaGd4c05aSU9QbHZpb0pUM3pRTXpPM0ZUcVRaeUs2anlySUNBWmVyS0t2Q1dWQkxza3hVdHBPY09KNl95cF83VUtsYThDRk1WUjdnek4xRkFoUDNJeEV0Z0NzdllENmt3VkNCbkJ2NGdiOVVoS1hlMTN1bXBaYjFsb2JxRVIzM3JNRXc5UU5ETHNYVzVZTm1CamVERkhNVzFRM0FmUVRfR1RodUpDWE4?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Sat, 19 Sep 2026 14:51:00 GMT",
-        "discovered": "2026-09-20T15:43:39.033578+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "بالتفاصيل.. أزمة في عرض البحر تهدد أسواق النفط سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "d1979f4931f9a4160d152290e3a460db784103656e955e4da5e12979b52f462a",
         "sent": 0,
         "section": "middle_east"
       }
