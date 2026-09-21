@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T19:52:22.748948+00:00",
-  "total": 129,
+  "updated": "2026-09-21T20:01:36.645543+00:00",
+  "total": 128,
   "sections": {
     "morocco": [
       {
@@ -324,22 +324,6 @@
         "section": "morocco"
       },
       {
-        "id": 3407,
-        "title": "المنصوري ترفض الانجرار إلى سجال الانتخابات: فلسطين موقف ثابت وثوابت الوطن بوصلة «البام - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tUEFueHUwMGltN0c2VlJsYnNjdkNjRGpfRlFUZVk3c0pOckhXUnBlWXVuYklyWDdkRmRmNnZjU1BJNko2SVphODM3a1RQNlMtejJ1MFByMTRZOGtvMlhQWkxWeVk2Z1c1?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Sun, 20 Sep 2026 17:45:49 GMT",
-        "discovered": "2026-09-20T18:16:50.402643+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "المنصوري ترفض الانجرار إلى سجال الانتخابات: فلسطين موقف ثابت وثوابت الوطن بوصلة «البام Le 360 Arabe",
-        "player": "",
-        "content_hash": "709fc5b14d43d7bee29f4944fb7d8b943ce4bc9a60af366218963480fd25c9fd",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 3554,
         "title": "مشروع هام لتقوية استفادة السكان من الماء الشروب بجهة الرباط - ar.le360.ma",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHdWN2Wl9aVzhlRjBOWmhWU0YtMUdlZFFDOG5JMHF2SXBOVmIxb1JYenB4d0JTTEx2NDR6UXJOc3Q4NFhSd3JYNUpsVEF3MzhyTlNpM0JOM2VpWmtGd1hjNkpUNmF5ZUE?oc=5",
@@ -437,6 +421,54 @@
       }
     ],
     "sports": [
+      {
+        "id": 3907,
+        "title": "يلاكورة يكشف.. موعد صرف مستحقات لاعبي الزمالك (فيديو) - yallakora.com",
+        "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxOc1gwR2x2Z3BXV3pFa2MxYjRacGx6bGVaVnpEN0hhZ25aM1JoUWd6dlBZeDJSdUM1UEVCOTk4UnZoV2NFSF9NcmhiZ1FJOEljTld5UzR4TDYydUZXMjRjSE1UR0ZxWHZDRTU0TUFyVjhiSW9ubEFaT3dLdGh0NmU4dlY0YTU2UHp2Z0N2QmN2Ri1DVmxzUkdlblprclNZMURWQ2F1cU0tU1JQRlVaT203MmJyaHhGZW01LVotNlpqM203MnZBa0lNb3FsY19oOFBjSjZfVmV5eW5mN0VlVnVRcEJ0Z1pBX2hPdlV0SGNDZE9aTjdFSldFNlJYaXJ2OVNSTTdDX1VDRFhJWmJmeGtOejd6SjJZbXF4dllXcUlza3dkc2VzbXVraEU1QlRKRC1mT0FTUEtJUlFzQWdzZVFBN1d2TGllZEhrNzVnZUdDaFNBbWpBQUI1U1NtbUlGQzlqLURaS3hOTUZGOXFhNXpsMGU0TDlycUlialpscDVqQ3J6Z1lUTmlZYm9VdG5pVEhDRTFGZEdrZW05UWJZXzN2ckEyTExvcnhOQWlGeHNCRmJaMDllcXNNZU1HbVlJQVNubmlPbWdLMA?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 20:00:45 GMT",
+        "discovered": "2026-09-21T20:01:20.019046+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "يلاكورة يكشف.. موعد صرف مستحقات لاعبي الزمالك (فيديو) yallakora.com",
+        "player": "",
+        "content_hash": "4a3ec921ef3d90a32456754e0fbc6ed1fa40b27a73105d43881eed870594ed1d",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3908,
+        "title": "يلا كورة يوضح.. سبب استبعاد محمد إسماعيل والونش من قائمة منتخب مصر (فيديو) - yallakora.com",
+        "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxNNEZFWWY1TkJfV25sNUZMR21MbUFISldqa0FiR2c3M2xuUVhzUGdYd2t1UVNTeUpJQ2pDNUlhenI3RklrdTVvX2dnVkJEVEx3a1dsWTlmWUMyUTdqWXhQSU9KTUdkWjE2dVRNMmlHeUNUV1poVko3VlpsbjR4U1N0S3RNZEx1WUJ2YnFLTFE3c3c0X3RkZVpWTWdzQ1lhU0Fsa2Z5Smx6aXFhNUV1a3RORGstRHJlRnpFbExwS0VkVjk4dTZNbUZ2aXF2cWhWajc5eTBzblNLdWluM2Jwd3pWS080ZnF2bW53WHZWdVV4SUpVNUp5aWpBY0tGODdVOVNPbDB5Ti01VDhPTGRzWUx1V2dGU1NSN3pjVW9tLVd2eFkxQ3RoZWpNU1ZubnJTWnRpMXFUTXhYRUgzNkJFRTI4ZkxSYmo1ZFdCSFFpS3c1amR4NWRMVmxQSVJxYUJTOEp0TEdSMWtlSUE2OE5EWGY2OG5sOU9rNTZSbTBRVzlJODdnMkRCWWZLc0Y0RGlrWFFabmlpLXBSUW43UWRXanVnaUF6Wml2Q1BzWmdzOWtjYzJmeGlkekszYlBjSHNoVkg1dmVDVDdSQlRLSkp5eFhvT2VIV01Ha0pTY3B2Q0JPR0JzRnE1VTQzNE84bWVuUUV4NkxZeVIyM1k3OExsT2hHMUd6XzhFbmZESTAtY2JsMG9VVi1palhPZldGdVFDbnUzNnpmX1JrYy1TYUhYaW4tUHFwTmpWdUFwRUNvOXVyZlJCRFJXazFiWGdVSlIzQQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 19:55:46 GMT",
+        "discovered": "2026-09-21T20:01:20.027728+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "يلا كورة يوضح.. سبب استبعاد محمد إسماعيل والونش من قائمة منتخب مصر (فيديو) yallakora.com",
+        "player": "",
+        "content_hash": "3972950cf317226eaf318d0a1698fd0554ff09cbcf150391ece0f606262344ed",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3909,
+        "title": "ماهر غريب: لا صحة لتغيب لاعبي الزمالك عن التدريبات لعدم الحصول على المستحقات - filgoal.com",
+        "url": "https://news.google.com/rss/articles/CBMi2gRBVV95cUxNZGMyZWdYTk8zWmNjZjZRX3pTODJncTE5bUZxT3pOeTc4SFhlYjhiQ0ZnVjVKQWkwZ29FTUxtRDVwa3VaTWE3ZHMwV1U5TThuSjNDb2VmaHlNMkRyZnhlS2Q4cVRHLVNqS3V5VDM4SVNlU2pQM0l1Zm80OFlaUXNTa3dSVW4xNWFSbUczT2Y5aG1PMXpyaFQ5RjQtcG9objZxSWFTajBZbUw3REt1b3JTZGwxNnZGaFJFa0k4cHhoRld5X3ZuMWRCaWp5MGUyUVFoc0ZiMVBfdWstMkFkV1J6a1ZXOE9pRWkzbEJ6d1BnVzgwU1ppTlpzSVBOZF9fVXY1eE04cm9BLXhZSlh3ejhBakpGZlBXRm1UajFjQzRYOE43VU1ZamlneFJTT3NTMy14TThuZm1ySFdWcGhmNGt4bkR2TGUzN3hIYk1ZZ2pfUXM5VjU5cm9xS2gwMHhMSUUtS2Jaem14ZmhrX25Fb2FOUmpWZUUzRmJzdFlpdzFnMkhzWmRwUGVNVHc4MnVQNGgzakwxWXBkLU8tbTdyNThyQXZqaXMzRURFUzFoNTNjWTIyUGU2djZuM0hSSUltMVkxSHZiMW9rODZlZVBodFloVHFVdGtyVkhoeVd1SFY3Q09uVFAtUmNQMFZRS0I4bnFpQ2NYRWs3aWdOdkhFOUNPUlhIZEZpUmVEMWhwSnBSMDNwa3pxQnhWQ1dMb2RjdEVKTnNHcHFFYVdfa1A5RHNkeEF6TXpkeEdSLWNzSmZYZWJvM2MzR3g1YjdhdjNaM2otVVN0VEpadkt1UdIB3wRBVV95cUxNNnZ2MjV6dGtpOWY3VFlkRjJXRmxxZWpCSFN0VWotOVdabjZTaHVONl9pZU1JTHNlalhaZV9JcHMtanBObWstTmhwXzhLTjQyLUo5TmcwU3hicW9NMUZZdzZVWXZXblFzdlFjdTJlTjA2dzRmSmpJYWNmWHBFUUNHUE5JRXNZV3BEOVRydzQzU2RTTFlwM05YNGFsQUZuZzdLV2dJRmR0d1ZHaC1OeXdudWdSMmVSbExETTBETHNpMUZYNEZyMVlELTI3YXFaSExVdDJ1Z1AtWG5nT1pEcnFDME9qTWhUSWFudDdTVWRPdzRkQnVzdGVxS01yR2VKbzhERWRUMEhncnRRUDB4LVltRGo0ZUlKMUotRVl0WnpTdXkxaXRLYXBhNUlFY3U3bjBwcGY2dTdkaWpjOTM5SktFb3dUc2R0dlk2bFAzSFZJb0s3VkRVRmV2cE5EV2tqU2dEMG9EQ1g0S1Nxd0ZkYWFlRFVLbklDamxic0NFTEE3dmJORUxUMFhXMlcxeVRUWHg2SEpySFJPemxkb211RUNjNjgtNWJ5X0VwTlFycW9VQUVHNjg3TVJlWnNSZzh5LXJ6anJ4VG1jMU5EclhvYklPSVJmMzNueXlBLUYtaDlWOEhRVV9XTF9ndnVUaXZlT0pQam80LUViVVA2bnVsZlUzM0pNb1FvLW5UdkNpT0JEdEFLNmZtWExIdU11dGJrN3FoS2xxNXFTTVRCOXZWNk9YUVpMcExEaEtZSmYwLVZ3SG5kWEhoLXI2TXBqQTYteHJhcTM2NWtNNElJeW0wWHV3?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 19:52:00 GMT",
+        "discovered": "2026-09-21T20:01:20.710701+00:00",
+        "category": "الرياضة",
+        "status": "منفي",
+        "summary": "ماهر غريب: لا صحة لتغيب لاعبي الزمالك عن التدريبات لعدم الحصول على المستحقات filgoal.com",
+        "player": "",
+        "content_hash": "5049136f91d9d42d75197acbc646bbe1749a4da891420f7301f321029383ced9",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3905,
         "title": "\"ضرره أكبر من نفعه\".. نجم ريال مدريد السابق ينتقد فينيسيوس بعد هزيمة الديربي - يلاكورة",
@@ -1186,54 +1218,6 @@
         "summary": "غليان في الرياضة المصرية بعد هروب لاعب مصارعة ثانٍ بأوروبا aawsat.com",
         "player": "رياض",
         "content_hash": "755565046127db2c18fe4d8eac1a849469495d7e8c70898aed4e61155e989302",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3852,
-        "title": "سكاي: منتخب إنجلترا يفقد 5 لاعبين قبل مواجهات دوري الأمم الأوروبية - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxPTWllcmZCUmgxQ2Zhd29TTmlxQkZGRXlEYzZqYk8xOHlWY1BZaDVTbUJDbkpuWVNLbWRTU1RHa2w4YTZWR1hhTU1ZS1Q0dXZwdzJTVDNBZG13VUw4UVoyMV85aU4tUk43UEw1b3VYeHU2SDE4SGctREdDUE5JTDNEVW1sVTBGU3JWTmdBaHdIMWt0TVpBUGVaNUZCajlDazFwMWEzaTBkWkdOS0NaV0UyOFdQc3hZQU45aU94RE5LeEl3ZHJ6Tk5jU29tN3VMeGJOV0NoQ3VZVVZJZTI2TlQ3U0F6MS1HU3JyVjVSWWxNYWF5YjhPTy1SaU5SdGl3QTE5NUdSYU1MZEVLbTh3amY0R0d5Zk5lcjBLdmlJeWNZWGFmWUdLVnVLM0JZZFNYeDlTLUZzLWR5c3V1VnFHUG5oTW83MDVtNHpEcVJWX3RwQTMxeXN5c3RwMS1WYm1qUFV5aUlnTGxNcElxYnhFVGNpOXM4ZVZSUFNlWFJJYU5EZDAyMkZwWFQ0d2ZHR1hsU2tHajZqcm1temdsTHJ3NkRKcGt4d0JNanFXM0MtTTViX3JfOG90X09IOEVqQkVyMzdnS2hWTDF5ZWpsbEVZWHhoOTdDZmdYaURNV2dmQmJpZHNvOVAyMFpMMThOeWcwTHBBVGpxQ0M5QlJ5bVdjdDZqdGNfdWtmZnVpUWZlZW9zVmHSAZYEQVVfeXFMTWEySW9nd3YzSUdJdzZwTTBzdHZUM3F1ZUFCSjROblZyR282UnlnVExDODJyamxEMkhkdmFvUzV2cXpyNFFXS1I3ZjV6SktRUGt6TTg2V0U4R2VYUmlBU0kyaDVtd0ZKaUhERXZ4RnMtSG96Vlo3V1VUd2ZiRFk0cnBvS3h6OEZhYjNZMnU1SWJENXdTWXNQZ3FzMWRhS3hTb0dtSXd6TDktbUxFWUVMc0h5ck5oZVltNmlaOXBDM0RLVVdnRVc0ZzJBY0Z5aWR5UHc3XzJEQkt5ZVJFUUNvWDlQTHpVLW5IUkZ6RHJUeWoxaHdFcldSdm1ZSjFOQUpMeVpMNjdETXVCN2w3VUR3ZzFZbDhSaVpQOFZjTlVQQm1yX0V5NHhVZW1KdFBvNzRGUmQxZGZ1RTkxSWp2YndnZ2lKZkU5X1l4UXJ3aF9RbjFiOTI4WVhjUDVXUDYxTnBzajN2ZDRic2R5b0tYZ2pJaDJwRko1WmhhTUtNRndBZmlLRElkc2xxbnB1YVM3a0U3VV9XR192UHVYNUNCaS1iMXMyTEQ1Q0lZNkFScktHd21zSkxSZzBncXN5czk5VEdaQnFoRl9ZMmpaeFBwZlFuTk8wSkstSGJGc01qdnJicTl0Q1Qydk90U1ZET1NHaG5IRDBBNVNhNmhiYmg5NmFVVXJoMlBHeHFveWY5Wk1KTC1xOWdPRFN3?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 12:58:00 GMT",
-        "discovered": "2026-09-21T17:28:34.960846+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "سكاي: منتخب إنجلترا يفقد 5 لاعبين قبل مواجهات دوري الأمم الأوروبية FilGoal",
-        "player": "",
-        "content_hash": "6f4f8120372b4c26a143f6acdd6de7c2ca942309ff943ffe6869809038ca54e6",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3771,
-        "title": "ضربة ثانية لزيدان تُربك حسابات منتخب فرنسا - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNUDJvdEpLN1VHazZKTVZwZUczQTZkTDZkWTZLX2MyMW5Dc3VpNDZ4QUcybElrQ0RkSWdGbmJzWjhSUzFDaDlqbFlETHBEblhhVEw1aGtDU2duUVhwdG9zQzRtempwTG1FamNqdjRZSGJPT2dQWVJ6MWFjUHNHR1lRYUtiU0c1TVFkd0tYcjNBLS1ib2hhajlIRlNsUnFKX2RMbEZSQWxTME9FeDE1R2JjS2pzRlVtU3pnanlzVDhfMjFxMEx0cHZQSWNwUFJaWlpSTkVGRmRnUGQwOG4weVZsdDNEWm1oZWVrRlAtS0pqeFhCWU00Qy1scmZOdEhHR1lZZFA1Q3dsYWpINFBZR0ZBdEtCUnYyZEgyWGluakpjNi00UGxUNVlFTjFUQi1xNzlHV2NkQ1hxMjh5eXZKMDhVeTM0UDNIRktCUUc1dzZfekpRdkhtejVpRDNTUWNiVDJGZUFYNC04ZWN2eXF6SzZIdllQX090ZDFxeUFPM19sSmN5MGFudVRZekNRUTVURHJvOEEyR29ZaDFmbGJzeHRpU0FqckdtNUJtZHR1dl9FRHNqSWlKVnJnSDQ5Vkk4Z2kzOU5JQ0JTbWRrTGRyX19kbjRSR3dCVlY4Wnc?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 12:49:35 GMT",
-        "discovered": "2026-09-21T12:51:55.652049+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ضربة ثانية لزيدان تُربك حسابات منتخب فرنسا Kooora",
-        "player": "",
-        "content_hash": "492ae2d49a75554336ccce67123dec7cfbb1a54621ee54f34707e662f1dd4dc9",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3774,
-        "title": "بعد انشقاق لاعبين... إريتريا تلجأ للمغتربين لتشكيل فريق يخوض تصفيات أمم أفريقيا - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMisgVBVV95cUxQaFdiVEtBQ3l2bHVKU2h5dFhZYjF1ZWwtX2tZYjEtWDN3Uk9JUGZ1SDl3N2NjNlZ1cVczaWR4SE1Jb2ZmMzNETHRic3RqT245Y0VTeG5YNHJUcFljQ180cER5NU14ZTY4OGhiSXVtQmtRaUtTWTZ0UTlRcmkwSGJTejRPeWpMYVBlbkNPdGUtbExLRUs4SDluRFlaNy15aF9Nb25wbjdxSEpQQ3NJY3NweWlZemZSOC1pM2N4NXVZcXBJMkhzaHVtaEIxUjJhdTN0Sm5wcWVYMVBOYmR0QUpJVmprVV9DMXhudjJXZlhVclp2eUYxa2M0ZDJYREpZaFAwSXhmUmY1bkZQSUhjZEFYd0p0SzNFOWhKcS12aHNueXdIeUMwQ3UzQVNwbjR4d0l4cHJtSkhOZW5odjkxTEtMbkhaSWh5T2pHTFI5bF95bDBLSnZESGxZaXdUajRadkNWRm9UZzEyLTB4ZlZmTDdUbnRCZFB3dlpnOFloM1M5WXNrQnBXdHJ2TDJaX3JKdi1ra3g5LXhsT3RuUXZld0hxVWdkSEx6YjBfRTlUMGZnTjFiNUZKQmw4MFlPSFk4SEhCbzRjVGdiOU9EcWwxWXZUWjBEc1dVT2JLRmZOTlJEY25nM2QzX1ZLZ1YyOEU5cEw0SDB6cEZaQktFNmR1cFhtcGJlYU0zdlZnYkNGakF0dEU0WDZCRlgwTHRLSFNxRVlqNWprYzV4dlRFSXVDSFNFbENEZFFXaVczZUxTZy0wUU5fN0IzaUd4Zk5rd1FLa1lZeUN5TGRsekxXVm42UWUzQVhPSC1NcDY1RzBkZmJWLUFIOVM1UlhtRTN6MTFFN2lLeUZKNnpCNjZQdk5QM0FuNWtNUWZHMXN6c0NOOTkwdnVsTXRMWGJOR3RDYThyYnZaU0E?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 12:48:24 GMT",
-        "discovered": "2026-09-21T12:52:02.554989+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بعد انشقاق لاعبين... إريتريا تلجأ للمغتربين لتشكيل فريق يخوض تصفيات أمم أفريقيا الشرق الأوسط",
-        "player": "",
-        "content_hash": "0188ec082cbcf8ddd21eae6770cb93b753a6c2728341b042be84c74f73c6344b",
         "sent": 0,
         "section": "sports"
       }
