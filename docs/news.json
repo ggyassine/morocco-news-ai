@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T17:41:16.160544+00:00",
-  "total": 125,
+  "updated": "2026-09-21T17:51:49.353845+00:00",
+  "total": 126,
   "sections": {
     "morocco": [
       {
@@ -405,6 +405,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3861,
+        "title": "كرة طائرة – منتخب مصر يودع بطولة إفريقيا بالخسارة أمام الجزائر - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxPWkFNMDNUc3E2QWxPU3lIQ2hfOFRRZUxYcmlGMDNialVrT0ZMTVlybGtIaWVOVFhfbmdoV0tSVHR6TlhTazJ3MGNaaHdJdDZhOTdXcGRpSTVnNHEtaDVPRnNCbHUtYzh5SC1XYmkteF9mby1zUFZZUkpld3Iyb0hxQ21rT3hZalFObndHZnFIaXpRSzJ2WHhGVTdRd3R6cXkyY25wdVZmWmdWMkdLa2dWZ2dZT0lJM19sYzB5cjlrb2hrMzVVems3TWhxNTJSVTBRTUZGR2tLcG9RN3o4MHY5Wi1XWGtDOTVRN3hCWktJV2V0ajBpNnZvclFNYjJjc010SU43MzJqaHdOYl9XSlBXR0FMTHloRFhqX2RHNW4wZV9SUG9Wb0lFZ1YyaDVkcjlNWUUxVjVySk5wZ2NWZ1JIM3B2dFpHX0ZiQ2lJZjVIRlZfSG5UNWJjdlFtX2NUdkMtWkhQeGstWXBNM3lJTWJGSDZtQ1Zoc0ZpR0VyemVHVjlzdm40UTVUaUZERXg4MDBUNzlHNkZXY0txRWRKaHFVa2xvdGVMZkQwSmFjV1ZNY1Jmd1RoNFNiblRQeTFUa0Q4bzhvZWRFc1FVMEltOUsyS1VsMnkxd2NYeURXcjZwOFFNd0RYWmFLaUdMcDJNUV8zaU8tMzdR0gH7A0FVX3lxTFBfRjhjOE9BQURSWk4zd2dxRFl6OFpvY2JqS1Nwc25NMV9fX2x3U202YmVoZFgtYUNWZ192WjRkYjRpRGVmZFVjMlV4cDN2Y19VOW83UFE3RVZZekxMYVFzcXJ6Y25tWmpoN2JFR3MtbUxtN0JmRXR6Uk1palZpWGJfRVV4LW8wN1ozd0Y4bmZCVUs0bWtlcThVS0FhTnBpYjB2VXRWT0NicE5QejN3aDVkRHY3WlVuM2ZNVEF4YU1Zdi1mNzNleXAyWEZnQ1V0RDlfWWxlVW5CbUVGd3Q3RHRvNE5KN25YUEtraDZBNXBlT2dLQjNjWE9lWURwYjdEdWpxaEZ4X2lfdWptbnE1OUxtTkFyOEVRRUg4dDM2S1JvZmlVeXhzREZqQTlZZ1RHSUhYcXY3UlNWYWRWSEdwSkttMW5EeFgweVFETGhZb0ZpWllsMjVBWWloVk1qRjZGLU52OGpSRDdQMHlXYzZHZ2ViZ1pEVFJFQW9ZRWl6MWQxbnJObGttTnNxZnpVdnJqZ0FfZGtncXhqZ1VvTjhnNjZxSWVzZjJHbXZXQWxHNDd6eUxpcGZfb1p6a2N6YjhDWTc5dEdidTE3cTBmNDB4a0YtWmxrZkttUU8ycWU5LVptc1R6RU1rNzQxZ3lHSzBLZU94S2RLT1A3SmRpOA?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 17:41:00 GMT",
+        "discovered": "2026-09-21T17:51:28.028733+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كرة طائرة – منتخب مصر يودع بطولة إفريقيا بالخسارة أمام الجزائر FilGoal",
+        "player": "",
+        "content_hash": "b42b144e9447f11acea3fe205c2981d63c6d9d55f5666b51ee9e4398bd23e59b",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3857,
         "title": "10 نجوم لن تراهم مع منتخباتهم في فترة التوقف الدولي (صور) - يلاكورة",
@@ -1188,25 +1204,25 @@
         "content_hash": "622ec756487198e4c1de4cd1b60f049a277e82522d2b33c1a49247fd6eadb3e1",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3729,
-        "title": "حارس السعودية: قادرون على التتويج ببطولة خليجي 27 - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPVE5kUjZ3Q1dUMlBIQzhvRnpVbTlpWjFfUWdhdC1GMktQZnNhcnNucHE4NjNtOFVyMnpHVk1kLWl0Uy15NFRmd1M1UjJjZWZtdlF3ZzVSOEswaDRXLW5tZkhfaHZtekVfdUJZczJuUkFmMG1yZUxoR2x1ZEZpSXFaQ01jWXNxaXlxd0hUTzFpQkZyQWtlN2dRdzgwdi0tLWQwQXhQTjQyc3JFVVBLYWlDZm5DYVVKamVPNWc2b3RwcVN2TXdvaTBnRzFUb2VYVHJtTG5HWVFoZmxJYkNsMWxCZnNadFY1anBISS1TdzVVS3BWQzgxS2lVWEVTS2tiX1p2dG1saUlwYU9rTHI3bTUwZ2o2NU5FdEw5bXV2a0RrSldKY0kyXzRBaFlPWG9XdGVjMFFTLVNXQkJ2aHJhamsyaDRRRG9mM1FGallHWGlLeDlYZVFRdXNIUlJKaHc0eXhpMkVTTHFndmhhZHhRNlFqZUc2UmRyZDdYOUh1OEFCVjlweGtKenVzT0NJc1ZqLTM4RUFZQ0930gGbA0FVX3lxTE90cXI4OUg4ZG1hZEpnS3JHbkJ5YnpmNDFmQjE4ZzNYRlpjNUNwMWdfYjVPYWhSaDJ2eWdyaWZzX2NveGJCUURxUGNuUzRDcENMb1VXbDd6MU9BRndTUFhhTFZLZExNcUFHTU9adS1obE1BLWFYYmFXaEw5ODB2MERjUHoxV2FwdC1uTzM5R09wY0FNY0dPbmM5N19UN2lVYUxSYU9Hb3daRGhlXzJtSUkteHNYaXJmakd0bG5GVDJkQUNDNkVnR19QUFVjcG44ZDkyVzVFcDdCT2tXelg0ZVg4dGhQaUxkaWdoN25RVVhxblc2Sl9QMmE3b3RsWk9uX2lJVThJOWlVZE1Ob1N4d0R0ai1QNTdaS1E5TVJBSzVLVUNMVDBielFfZjByS1pSaG5jX2l1WHlZNTJ6c3V3aE9Tc2doUlJOMGlOMkM2aldQSUczelZRRFlwc2NVR2h2NEZQdmRhOWRkcDdMREZ3VXp5M2wzSVA3Tkh5UUx4Qzk3NTI5Z1duTzdFNk1yMEVFUXlWYUg2ejVILVBwbw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 10:19:00 GMT",
-        "discovered": "2026-09-21T10:47:48.788376+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "حارس السعودية: قادرون على التتويج ببطولة خليجي 27 FilGoal",
-        "player": "",
-        "content_hash": "824cfe31ac6981d24db020fc1e2add1c91b0f04289063de21b61bdf1bef284a3",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 3860,
+        "title": "أبرزهم برشلونة وثنائي إيطالي.. أندية لم تتعرض للهزيمة في الدوريات الخمسة الكبرى - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxQRFM4cWlfSFBlWjVMZ1hrMG5VbE5LR3o0N3VUZGFzcXlCcGswOVIxbi1fRGUwZUZGQXFwMVFxMVl6Y1FtS2VJT250ZEJUamJWcC1LbkJ1X3VkWTBvTUdNaV9Zb2hiN2tjQTBGM3B4YmNpSXFYbEkwcmk1R242VXNiNTRTVFRwQmRLWDRCVnh6WS1aeWU4Q3E5Nm5BUmdkb0xlTkU3TjNYZkdhRmRGVGN4aENTYWpQNmNObTJ6NFJLenlRMTZlcjh6b2dQQ2IzRXFDMlVQTjM5NVJjeEJxT1RrRS1UQXhIYk44cUd4Z0dJMDUzVUhFR0NMbTlhS3NCWFdKWng0dE1sS3NrdXo3aEdPaklka1VFUzQ3YkhheTBBY2t5MHRkNHFXOEhwRmM0a2RyTHU0b3dnN1M1SFVMTG5YTHZzTHUxUW5oUGVVWXVOT0syU2JpX09aNWFyYmo0LVBoUW9NZjNmTzdlMmxCV1BpU2Nid3FLWFhEOEpsN2dndl9pOTdvaEt1ZFRnMGpHUm1SeXM5YnRnVGdBQ1RIQ3ktUXVJTjluM0NOMVB3cE9VQnhaeUR6VmU4QVJYcXhBVlMtY3dwTGctdUYyWFFKX0wwRWZLNkxlVTdsU2thZmtXWmJsUFQ1a2UtRjVHMks1NnRScGpIdHZWakZ4ei05UW1LeXU1QzFoLUd0eHhOMUVQY0VtTW1fTkoxNC1RaTQxM3lyZlNHTU1JVTdPeVpXZVVZc1VLRjN1a2RJS0p5SkMzX1B0NDlPbVFGZ0wySzFrd29scGg1X0M2ZVBGZlh2Nko1ak1sT2J5NHhYcmV3bmF1SGozbGhTaDNMWmVVTERRaTTSAYQFQVVfeXFMTjBLYnNmSno0Q2xRSFV0ejZ1b0JkME1MQnBKUEMxaV9XRnYxNmVWSnEzWVU0dFo0V3dINVlGd3Bval96Y1MwWVVFdVJEMDk3Vkxnb1Y4NEJQaWstM2hnWElNcGJhMzdLZzJMa05yWDBJOWxKMGtwVk1uS1k4QWVMaGtScG04dW9KZzhaV1hVSGZBTGJYTks3NDJwNko1SzZ4YV9ac0dXYkdCUU1WS0ZxUC1DaVhGdms4SkduWkFEVGNqejlvUFhyODNlNDN5QzRINEh0ZXdjcDk5elFIMU84N0NFbEtkNWVIR3N1dzlMX2thQmVHVmdKUzVCcGdiVFJtdmxhbDFFQ0NvSTNMeUtndC1sTktPZmZ2Mkx3RGF1bEJCQmN5WkptZmV1Tjl1MlJOclFGWUxtemxqay1QcDEySEc4U2Jtc1ZnZkFIelFyRllkZ0pkR1V2d05lTWFZSl9QV1prU3p6WVNuVV9teHVodGdYMHZQMHRxUmY1RG1EVmRzbzU3WFI2bk1WMmd0ZG9aZFBJOU83Q1pLUkFEUmZMbjFiUXFkd2VCUndsYXdJeU9YcXYxZGF2UTM1TEdSTzlQcERCOUd1cklQazVicnhMWWMydEwxWWZLTU1CZ2tXY2hVU19lSVViXzZxMlVfMDAxQ3o0NTJWT21Qb3pPNjFDX1owNW9yMDJBRlpwcDI3ZU9USW5hcGpOU2l2RHpVWUhXX2lVeW9iTG84bHBsQUtmbW5uWEdROFJBS0J1M0xRMjhWZ2h1NS1wREhWU3JVa21WRE9BdThCWjJ4dTdQME1yeVJrNnR3cGRxVFdiMHRWeWtDZzJ1aG5rZ2UwRklhd1FhWEdRUDI?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 17:37:00 GMT",
+        "discovered": "2026-09-21T17:51:27.109170+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أبرزهم برشلونة وثنائي إيطالي.. أندية لم تتعرض للهزيمة في الدوريات الخمسة الكبرى يلاكورة",
+        "player": "",
+        "content_hash": "4a014d835a4eb586af8542ac3107a3e7f3735d24939f3ac6b81004ca43291419",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 3856,
         "title": "أبرزهم برشلونة وثنائي إيطالي.. أندية لم تتعرض للهزيمة في الدوريات الخمسة الكبرى - يلاكورة",
