@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T03:01:33.615976+00:00",
-  "total": 119,
+  "updated": "2026-09-21T03:19:15.804148+00:00",
+  "total": 121,
   "sections": {
     "morocco": [
       {
@@ -64,6 +64,22 @@
         "summary": "لقجع كينتقد عقلية الفوحان بالمشاريع : اللي دار هو لمغرب واللي تيربحو هما المغاربة كود",
         "player": "",
         "content_hash": "9cc519d17cf02135af3aa43d31372b679d18dbd071049967d0dc2a9a28956bac",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 3644,
+        "title": "المغرب يعود إلى توقيت غرينيتش - France 24",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQckJhNFNzWTBlN0N5ZFg4QzNmc0loNHRmT2MtZlFwR1RfMFdIOHBRNWcxREFENDBPYnlCdkJJcnU5QzZSWjJlMi1Tc2RROG9mU0NaWXJyS3MweDE4RlFxeERaaHkyR1hhS2V0ckhzTTg4bXRGbURlWW1PVkl5SEZ1MndsMzVNR295Z2FYTUFEWmY0Uk54Y1drdV85LUlsQnlSWnkya1ZyYlpkZnBMLWhGVFg5NnpleHZ6eUZ4NHBnMEFLekdIOWUydDItd0Q4T05tWl9MZ2ZpcXJiel9BbjRCUDZtYkJzdFZDVWFNTnJKaVZLRnNYVGZWelEtZVpEbUNVOXJPb2FLbzN3bjRLTzBZYXhMQlpGZ2UzZlZCRlZHMGhJeDBKTzFMREJrVlpLOWZFRFFYblY0dTZ0Zll0cVlyUWRRV3k?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Sun, 20 Sep 2026 20:22:17 GMT",
+        "discovered": "2026-09-21T03:19:11.675075+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "60524bcf83b92c6abc261838d4240557c59dce9ae8dd018d6990df020dd3aa42",
         "sent": 0,
         "section": "morocco"
       },
@@ -292,22 +308,6 @@
         "section": "morocco"
       },
       {
-        "id": 3144,
-        "title": "الحوثيون ضربو 5 مناطق حساسة فالسعودية: العافية لخزان لارامكو والروينة فمطار الرياض والخوف فالرياض - كود",
-        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQYjBueXNVMjYwOFpMR2tzMG9XdXlhaVNFNnVxLXFweVlPQUNNN09EVUcwV21udW5qOXhvMVNKcjNqRWlLV21jMEN5alZMZHRXem52YV9WXzlhenFncl9zN01rUDlwOXgtd2hZQ3BDWXhhRnFuM1RpclNkcm9CeWpXZmYyQ21jOVprUDBfaUw3cXVCNmxIdmVLbmtNaG8zSHk0eks0RnZPUG9jZ0ZhemJvZTRiUjNqOUpjMnhNNEE0eHBXM0ZxdlZNT0tlWkEyak4yY3JxRURiUXYzaHB5UnFsNm90aEh1V3BSUzlxQTIwM2tTaTlueW1IbjdET1pmVnpWWjQ1ODczNkt2eUZBQ3pSck1ieEswS080b19tVXFpWGl0TVJmemZteEdyVGxCelFfV2o0azRTLXFkVm5wRlhjblAtVjFSSm84dUNGNQ?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 06:50:03 GMT",
-        "discovered": "2026-09-20T07:42:18.168644+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الحوثيون ضربو 5 مناطق حساسة فالسعودية: العافية لخزان لارامكو والروينة فمطار الرياض والخوف فالرياض كود",
-        "player": "رياض",
-        "content_hash": "7b2ecd7214013dd690fb208b4aac13d2761a230556bfdada57c13c0c736b0149",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 3267,
         "title": "الانتخابات.. بحث قضائي بسطات حول شريط صوتي متداول - SNRT News",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xLUh5b2tHYmlRYzZsbG54MEZhdjB2c0pINWtWM1NObGV5TXlBNXZGbm5sSVVDY0N4NDRXR01MWDN5TER2amRyQ05NNA?oc=5",
@@ -405,6 +405,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3643,
+        "title": "البديل من أجل ألمانيا يفوز بانتخابات ولاية ثانية في ضربة قوية لميرتس - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNU2E2SkZmZjlJVzQ4ejV4aVBMdnZXWUphTzlmQ2FCcjg0aFBQZHBiU3M2OFdxUDFkN1hiMFFEa2c2elFyc3NzdlNKQmNNT1F5OTQzN1FNV3dVWGVLbzdDYnJsN2xCS0h1RkV0eV9SU3hzcUdqcWZ2MExsbjFZRElQX05lLWIwVGdRejRHc1NsbFdQNjd5RjY3ZHB5ZnNWRzJLaTM3VjdCYXBCVUw0QUU1cEk2c2Y0TmVFaDVvTVhYckhsTWxsSzY3UjNydW94bWt0N0NDTFZHa1FlUVJwWG8zSVo1Nl9fTlppME1MQzlMbDFvZEZmUzJ0NWJEYTAxY0Q4RWdFQkdmZmNxN042c1p0TXJHRW1sNS1vVUM5ekJPeElEUi1Qam5PN3hzSnI5cDF3QTkyRXZhcGk1VkxDajcyY3djOFZidTg?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 00:40:29 GMT",
+        "discovered": "2026-09-21T03:19:10.870384+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "البديل من أجل ألمانيا يفوز بانتخابات ولاية ثانية في ضربة قوية لميرتس القدس العربي",
+        "player": "",
+        "content_hash": "38bfe2bf05dd0f9bf9a07cc85c47ab7633883d86c78d3e1c8a50531fb6d31a67",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3605,
         "title": "ماركينيوس يخطف الفوز لسان جيرمان ومرسيليا يغرق في أزمة - سكاي نيوز عربية",
@@ -1188,25 +1204,57 @@
         "content_hash": "97fd72e3503dc47aa3418ca6468ef6de8f7f843f0ce02461047331f08b99735e",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3458,
-        "title": "فوز البديل في ولاية مكلنبورغ-فوربومرن واليسار في برلين - dw.com",
-        "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxQeWd0ZkFENE0tTER4eDJSeXNNdWtLUkRBNGtTVmJTWVVjU09VTm1XWDhjNEpQVGRzN3J2UVdvTnhfdUlPMEJfYW9xWkJmbmh2YXhHbHlndE1DXzFheWRDOXh5MFhTNDVINHIxYnRiR0xxY010aURQc29zREFRby1YVzRCbXZQc2tBaGtralpLV1E4N2lnVVNBUnNNTFBOYlBoS1NPQXdaMjNPS1VPRWFmS0pkak56T3c1SnliZXFfODk0SlY0M29vMWY4LXdqZzVSTE5ZTlZ2c3ZqTkxCVXlDeFR5QWRSVmNVNktCQVZCT1Bra0tNbnVhc2NmVzZUbDFVNjdSSnhNaldEV1JnRUZrRHRqZ3pyVEcxSkE4SkFXcjVxX1ZZdE1pNXNNOWFLdXFaT09zbmx6Nzdpbnd6TnJOZWFKUG0yeko4NWhBdEpkb2hpYzRQZUZCMUVNbTdzUTBrYnlnQVdrRDEtc291aXpsdll1bU85NWpIbkZBT2dLODg1VEdpZHc4VU04UDJFNzY1YUpvTlBINDhZNzZDSjN6a05pcGxaSm5GbF9zTHprd1JFZE0xZW51TW5YcU9VMXpQcDlj0gHDA0FVX3lxTE5JdUlkNnR1UFdiY2poR0tCTkNmS1FDdUJMQjdsTGJRSG8zLTcyX3NJd29yY0sxY2RRT1VvRnlQMGRfV0pjOWxhN3AtMmlUVkVVeEdQdWU0NlhudW5VY2RhYnVOc3VHZHFkMTVIXzE3dlh0OWZHT3U2QU1hMXYwQjdCWUFzN0hodk5LM0hmc1ZWTU9JQjdsTENjSU1NZzVvRjMtV2UxMlNoOWRNa0RaTzJqTkV1bWEwMk5KNVlIR01DZWlNYU5JbkNscjB5bGZzbUUxTFZqNjJGREd3b00xV18tOWNPUHJ5MHgxZU1xSEdPR0t6Mkd6RXZfc2g0RG5wYUQ1aVBSQ3VwY2ZsX3pXVndjTThkMExiVUNiQkxmb2w2N0VZN2d0Zzh1eDRsSV83Q2hpbnlueC1CNW9CSG9Fb0xkUGI2c2dMTEtJWVZINkJpSnlPLW5DV0ZWaUlIZDdHdjRNX1d3UERWaDFwOVdNV0ZCS1hTLVVNMVhNN25pNHVVX01oVXY0dDBTNlRXWF9ENlNQbG92ODMxbnA4Rml5TWlmRkVxcXFfRVBMSHY1RXFmLUJ6ZEtuWmRKMjNzVEVUR0xoMm8?oc=5",
-        "source": "DW عربية",
-        "trust": "B",
-        "published": "Sun, 20 Sep 2026 19:57:02 GMT",
-        "discovered": "2026-09-20T20:34:39.206105+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فوز البديل في ولاية مكلنبورغ-فوربومرن واليسار في برلين dw.com",
-        "player": "",
-        "content_hash": "10decd6c2eba8e5cdacef96932d7d2b65717c845ba3fbcf8d8954f754eef36db",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 3638,
+        "title": "أخنوش بتامري - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mTFlpa3IwMmV4QmM4Q3FwYVNmMlBLLXRzcXk0UGxSSkRaZGFCbk1GNzVHVEhCNnJEQ25RX3NyTHl1YjJkNDQtQg?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 03:03:32 GMT",
+        "discovered": "2026-09-21T03:18:53.538972+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "أخنوش بتامري - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
+        "player": "",
+        "content_hash": "625949014a68899a83ae8542e7362a7a06e91db05b648b846d2f7ac51a76fd6d",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 3642,
+        "title": "انفجار في موقع للجيش السوري بمحيط بلدة العيس جنوبي ‏حلب - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPZjRZQnF2UWUxZ28zOG9qUEd6R09ocElLUFFnWlZTeUxVdFdnOGdsOXY4VWVkRWRVNmhGMGxBWDRycmhIa2JuRGIxS3QzYkxCOFh3NjRyd0JRb1M4R2I2WFN4dEZ2YlYtTTQ0bmZMbHdtZ2wzbDBCNXdtT1A5b3F5MmNfa1pYS0hUNHE5VmZLTkktdFdsRkdKMzN5TkR2RDNKc19LOWdYZVhlMDlsYi1YOWFmQzBXVzlFRU5MTy01Q2l0MV9XTkZEa1JyZWV6Rk45d1RDcE5SaXNETHR0VFdrU3RFQTI3Nkl2ODBjOUZMT1JmVzhmYU5mZWFpazRzZmNnaEhnWmZ3YXdkSDd1YndHWWxWeU1lWFRDUDBTNEtHdUZvZDdKaEpBV2dUTjYtY21DWmM1c0E5MGkzRE40eXlwQ2Fn0gHHAkFVX3lxTE03U0EyY3lpOVNyMnNoeW45dm4zRDRFWjB6c1R4TUNzR0hYVUJiTU5EMnRNVzFxbTV5LV9mS1VZbDlUZEpXTko4b3dqb1pHNC1QcXhKMHBVVURRZzh4WFktZmZoczY4ZXlRdk1ER0ExcWRHd2Z5eEh2MEpGTUlNY29Ec0pYV2lPVGJMT0p4am5JQkxJOUxLRW9aQzd0eEFWanBXYzBHTlJLbVlRM2FXc1h3LV9vekQtakRrSzc3ZWdRUHlpdXhMUHBiblNhT0FWMi1Ua0tSNTdMODlvSy0xenNhc20tM1BJaDdBcU1FQmlVeDl3OVJrUzI4cncxb0ZXTTVuQmw2WHRmdG9XTDZpdlUyWGhtR2dVeXA1R2l4VDh3M001Z1F0ZmsyOGNfYjJqN0ZVdDJTbjZvZ1BmdURxQlJFdk92S3BOZw?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Mon, 21 Sep 2026 00:45:03 GMT",
+        "discovered": "2026-09-21T03:19:07.130381+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "انفجار في موقع للجيش السوري بمحيط بلدة العيس جنوبي ‏حلب الجزيرة نت",
+        "player": "",
+        "content_hash": "b286b58b84503d5ca57adbfc534ebace3967912d1981544b4a97e8fc7107d500",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 3640,
+        "title": "عمر فايد ينضم لمعسكر منتخب مصر لتعويض حمدي فتحي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByaEdCUXdiNlk3aEZBS0p2NTJSSzdqUE5OZkxOVEhKQ0x6dnFPTC1nZUxvdXFxZFVwLVZDRkNla2hUQ3ZFNldKWEU1dkRHYWMt0gGaA0FVX3lxTE1IeVItLWRWVTM4aW8zbjFOSGF0S2pBUHN2VGNaVV9rQ29ac0d0elFIamtxWEdrdnllRWJUQ2NHTkE4MjBubjJ6QnQtLXpnZFlEZzFPZ0N5eFJubGFhLVItS0xwdzhmWE9oMVoxX3JDdW80aGx6X3YxUmNXNWcwNk1YSXpSRjNKY1JIVkV3X1dGRXNweFBpU0lLaVAyTG9yZmRXQVBtSHdidmhOVjZkUlBveGpzMS02VTBEYzZzU3pkT1pUbUpSa0Y4SEZOM1czT3JiRUxqa0NmVHB3UXFlSGlaMUNyWFh3aGxNdS1iQmxhZDdkd0FHdEpjZ3NaZkNtc1pJMUcwVUdyN2xYWE9aUjBnNXJxQVdFeHBmcmdIMkNrc1c4X3FhSXI2SWpXa0JEZ3ZtWFJwdjZ3d294Wkllb2Q3RW9tMk1PUUoyMXZhQ0d4WHpyV1FqbElMV1lzZWFvRkt2Qng4VzdZSzlHR1NjdzVpMjFETmk4SzVBdFEtdVN0YXROaS1Vb0YweXREakhib3ZPamJ1NU04T29R?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 22:31:00 GMT",
+        "discovered": "2026-09-21T03:19:00.886208+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "عمر فايد ينضم لمعسكر منتخب مصر لتعويض حمدي فتحي FilGoal",
+        "player": "",
+        "content_hash": "0bcfa099936774e65ab034ecb0952a6c191662d3ee39e86c0328b520f100e3e1",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 3570,
         "title": "عمر فايد ينضم لمعسكر منتخب مصر لأول مرة - filgoal.com",
@@ -1734,22 +1782,6 @@
         "summary": "وزير الخارجية السعودي: نؤكد على ضرورة حل النزاعات بالوسائل السلمية العربية",
         "player": "",
         "content_hash": "95bb4a0a1c2cbcc3f3209d87ce72aea7944072d05d7d3d65794be3d4ae71b6a1",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 3141,
-        "title": "تصعيد حوثي يصل إلى مطار الرياض غرينالند في قبضة ترامب - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQzQ3VGRlZjMwTk8zd0FwNERpc2pHMlJ2Sk1jajZ1UXZBd1JUcnlHNEFEQVRDOHRPeFBPM3RmWXNjNlpvbXA3Sm5rZzBPNktLR1RPRUREQjYwejh1WjRMZVVZbExnSXF1SHFsMjlTeEdLcVN1eUV5Q2JCUkd6WjFKMzRkNUM3azctUU8zX0FpeEZKSmc?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Sun, 20 Sep 2026 01:00:11 GMT",
-        "discovered": "2026-09-20T07:17:42.597736+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "تصعيد حوثي يصل إلى مطار الرياض غرينالند في قبضة ترامب العربي الجديد",
-        "player": "رياض",
-        "content_hash": "4954d23b04834ba143e005e92430394b7f5b3145c74b57bd957f5d58425191c7",
         "sent": 0,
         "section": "middle_east"
       },
