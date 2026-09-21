@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T14:54:42.814949+00:00",
-  "total": 119,
+  "updated": "2026-09-21T15:05:50.084936+00:00",
+  "total": 120,
   "sections": {
     "morocco": [
       {
@@ -389,6 +389,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3811,
+        "title": "حوار في الجول - أكوا: هناك شيء لم يتغير في منتخب مصر.. ولا يجب أن نفكر فقط بـ صلاح - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiyARBVV95cUxNSzdaOG9CcE5nTHhUYVdYRW1fbDN2eUQ1VEYyemxtRm9ndTRCN2ZLam42RFUtSVFYMkdmZmJBd2R5ZDVIMFhPTW5TbGJQT3JXbnlsS2JwTWNQMVBldHI3a1cwRWM1dzFaNUIxT0ZWb2VEeENfWjhNSXoyZ0FZUnV1ejVnSUI1NVMzWnQ2VGdOVjhiNnhfNG1RcFRjaEpXV1haR24yWFAyU1F2ZEMxaXpIdXRNOXBGTjNVU3NJb2VQbEdCXzFmM0JqQmFPQ3NlRmhDaUlXT1d4d2VXeDI3eG5ZeGZiRHlXd19SdnRRMW0ydDRRM0FHUDhlMl9UMXNVMl92YklpcUpCNURJc3FWY2gyRTVJbTNZelZZcTFIRlpZU1g3OWowbUg1ZEZwYXBrdnluc1pLaldJejNrWmZuc05ZTUtCS01MY2xBUEVwX1dYcXRyUjNNNDFQb3pIWWFPWmp4aFMwblQ3RkFyYkY5N3gtN1czXzNqVmllM0otOFNMbkNobHJYUUExYnVGUGt6M2hJNEVYdndPZ1lYc3ZCaWRhR3VaYmZtWVBqMVZ5ZFRIZXdDT1k0TGhncjkxcl9xakVIbW1xaGswdW1uMmlTNWlQcnNfX3VGVFZkOF9faEMxN3VubFdLdTR0cTgzeHB0NDZmSHB4dXAxbEhmM1lWSW50VzJTMG5TR05mdGN2Z19qRGhEaUxRSzdpR2djZXlXSFo5bk1uRWJKZnpHMEdOQ0RxNWx5SnFTc29DemcwVXJuOFRTZW1NWmVnb9IBzgRBVV95cUxPYllCUm1nSzNBS3dhZ29PX1p2TTlEc3R3SHpqWS1XaG5aN0xZTVNIaXBOVVFWSlJoYTR2VGtPQ1RnRVVVeXNMQ2ZCUFJwem5saUxZcUdWcm5yVTBlTmZMUHRzRUVBTWUxSGxCazZGUFdxakxtMU5aMmItZTdmck1aSFpnbjFtQk5kUEM3aDJaYld0cUgtQXFnOEFPMWFlTzE1RERqN2FJRENpdnVvQkZnV1dxOW9YWlRNUUt0dVBIMERjLUU5VUN1VFgtM1dDLU9XbnRndEdGY0J1STlzSkd2TkZSYWlDdDNXdl9UTDM4cHR4VFBhTFN5V0FpT3RlLTBTN3lRU1lrYlBLby1VNS00aC1zVU5sckxNYnlVLVNnQmtoSFMxMnE5MDlacGE1di1hSThKc3Atc2NNOWRETmNJakttZjVmWjV5aXVabWV1eGlPS1llLVVKRzFQUE84SHAxMm1KSzF6MUpiWkRZcUZUUzVPRTBMd2FIR0s1ejVZaW41S25tSXVKUldaQ21fRFhKOEtIWHJJTnl5WTltYmJnd0Q2Mnl0WWZtbE15UnRfVnoxdjN1WXVnNEh3eTJibVNKZ3U3OUcyVmd1YUxyM2JHTTBGejhidXZibWVPT3p2R3pReU1oektJSWdXajdrMmlRZGNzbEpfRFU0ZEp0c1lDdnRnaGdtRVRDY05ITWxyQTYzVW5GU2plMTNGZF9wZWwzWmt0TU5ESXNTcG5kOXRiNWxlaFNsNVBjNFZXTFlObklzWmVpMDRkQWhKR3M4dw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 14:41:00 GMT",
+        "discovered": "2026-09-21T15:05:30.535303+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "حوار في الجول - أكوا: هناك شيء لم يتغير في منتخب مصر.. ولا يجب أن نفكر فقط بـ صلاح FilGoal",
+        "player": "",
+        "content_hash": "b2136e63de3a9990c87b4180d6fb69545c02f4811f836f7a22d14ca2847d45d4",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3803,
         "title": "رشيد غنيمي: حمل قميص الوداد شرف كبير وهدفنا المنافسة على الألقاب - Febrayer",
@@ -1172,25 +1188,25 @@
         "content_hash": "2e29998bcafdd9e05d771dc8572e2937e1009fde42aecbe538838e24fc352f8c",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3678,
-        "title": "تسبب في إصابة فالفيردي.. لجنة الحكام تعترف: لاعب أتلتيكو استحق الطرد أمام الريال - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxQZHVKdzVfc3hCaW56ZHVtZUJ1SGFTdUJ4R1RrT01UWFMzMjFyYlg0TE1rWE9MbnJlYXJxOGU2MDdGQnlONWNLOTgtb0lFRkx2d1laa0FNXzA2dG8zZ1ZIZ0tsdzBVWldFN2VrUlMtWkxHc0kxNV9Cd0UzZHVCc08zMnlqY1k5WjZYN1pxNkE5cXQ1RjhGemRacFl3MXhmOTNBdG15cHRhRjVjdTh5XzNkUXc4ZUlxcGdBUDdHMHNlUi03Qml1bUxCcWVueFJGcXB6M0FPckwwc0NNQWhTbjVBMDFhTE1iN3h2WGJyUEVyMkZzQjc1N3FnZ0xnVDNMVF9JZXF3QkFXbllkbUF0cDNZVVRnbTRjZ2h1SFlFQ3MyTVc0M2tMSjlWX3E3MVlsQjR2aDd1MmxrQzdkQUNjSGRDVUsxYVdIMkZSbWx5SFcwbTNWLUg0c2VTSlVCZGRueGV2dENRTVNOek9kRGVkY0tUZmd5UzNPdEp5dFdrR293bmVjU1l2VEM4RXNBM1VYLUpNQlVOMDVjMzgwbG9yV0xaUUZOdWVSRlJVemdpQ19jcFB2WC1GTjFJb0RuaEk3dFBXT2RhdmFDTU9ZSWplaElxT3dHSllqYW91X0JnTHlYQ0c1VFZBRE5hdDY3ajUxbmxBUmVzMzhPQlE0Z3NFVnNhX3h4a3E1aUE1OHI2VTFDQU44Mm9KTi1zRy1CdFAxaHhWU3FsRjlfY2FYZWhmTnl4ZF9jWk9aaG5OZlZ1dEZ2U0M3RDdRU3J0bS1NZlNrdDhsaWdpTk1XcUdkeVVUU3J0NDJ3WWRWSENpY1UzLVRiU1JtalhxNU5lLdIB_gRBVV95cUxQdzV5OXh3TFQyaTRwSEZBSU9sMGphYXhMd05aendIR2d5LU5kNDVkOXNGYWZDY3BOMnJEZ1pxd3VuRE5FcURGMTl6Nm9LcnVnVFFoN1BJTTNLMmFRN3B2bnMyaUc5aXFUbVFRU3JPdkt6emItSWlwSXFDQTlJdEZrMTYzVTdObjc3YjF3b3ktc09JTWt1eGhTb3BsOXFWVFpaYWpRZUFqZHdwU3BrY0w0LVNsbHRUZjVmTEQ1WHFHRDFCemZXWXZycFFHYUhhZkQ2M24yWXV2TzZHc0I5dVNvOVJ1ME9lekxrTENFeWJOMDUzSkVQYUdoZVpldk1QUDYwbVpoYXVKRmVvSHdGUlVpLW9EVlpVUGZFRTJrbTV0QXhDT0drdDJhYjFobkR6b1gyVjdmeWJTZ1lWWWRzeHIyY1BWT05keUROVThOOXMzbzlIaDVhb1NMb2N1TXMzenFGZ3FyMzhTRkkzT2dTRVNXTGVtdGVJa3lxc1hPQ3dPQlBPVkdGOUNKTkxwUDJfYkc2WkZoWXR4V1BpYjQxT0QteUt5QU5xUGhBaVFwRVUxTEQ3aGJ5UUN6SUNjSWRfZVJXd0YySnFsV2ZuT25RbHQ2a0ZycjA2aElJZFZhcmNrNG1GdGZBdHNCdVc5SU5YWC1xWWhBMzhJUUc5d3gxR3ZGWlhWN05rYnN2Mkc5Q21IVzdwRlpZUFZWTmhpN1BvNVFTRlZZN01HZXhhVTlQWXVuMkQ5UTVmc3pmeE1aWVZOanVvU1BldUc0V0Z1d1FiVThHaE1rRTNybGF6anU5cjhmM015N0RoZl9nM0g3Y0FHWS1PRXZXTHM2LVBlenI5QQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 07:51:00 GMT",
-        "discovered": "2026-09-21T08:00:45.095998+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تسبب في إصابة فالفيردي.. لجنة الحكام تعترف: لاعب أتلتيكو استحق الطرد أمام الريال يلاكورة",
-        "player": "",
-        "content_hash": "db0e69dd8d6401197d9792f6f50196c781810f2662c3a7d37144e6a388f3865a",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 3812,
+        "title": "دي لا فوينتي يمدد عقده مع منتخب إسبانيا حتى 2032 - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNQW1EaGJDamVlcDBVUGtFeXBaekpJR19zMXd5YkxyMmNVV2t2dWRmRi1rV3lMdDEtRUNOaF81SFRpT1AxWmJXQkNISXR3N3hubk5XRTFReFREd1BrTmdHa1dnaEFnTFFxYndjVjJjNWVGR3JjZmc5N1JUanQzcDVKRWxQdmIzN3hkODhSRkJkdV9PeC1DT1g1QmE2TkR6VUZMSWZ1SFB4QlVTS3A5ZFlnOVFtZXlSRFFLcV9aSFlPbnc3bXJKRmprLUk4cGs4c1ZsZHNlOVdmTEVRMm5MWmI5cFNMdmtpRWRhMjZOZmlMQTJkRW1hMXRtaW50OEl4dVM2RjI0UHdrd1drRDJ3U0NnWjVyS0dRNXRWc3JnZ2tWYi1nRGhQZnZHYS1KS296dzZ6eDlBTS1TOTlDeTB6RDY1eTJRQTNrUEw4NGhaS0hCbkItaTFPbUxQdVQ1TVlUYnk1SUxyRHByLWRTQjBjSEZwSWJPWGFMdGdwd1Qw0gGAA0FVX3lxTE1PX05iUTFBVTl5TEtZOFJKZVBlcEp2T3dSQ0pLMmNrbVdKYnc2QnVfY2hhci1HWTlLdDNfa3YxUG4xMkhjS1p0NXREUGhIRmhPUFJ6VW9WRUVnYVBKSXN4MGZ3WmZMU3hvZ1AzaEZUbFVKekNPeEctcU42VTU0NEszZjF3R2tPZmtDaVM2U2s1WVZoekhhdVlnbV9fdWZ3OFh5TmRtOFZYc04zY0VGWTB6NUwyak5objhoVXZEb3lVcEMtYS1RVkYtczBrckVMelA1SmRsUTJDR05rcTVIZmtrZWRUSzkwREV4MXJCUzR4RTNmQzRVb0pIQzktcENVLWV0cldpMHIzekJuX1Z3WGhGaEVKdXVXSHdGdmQxbUpPdV8zN3JBa0tJTV9sVnlyTmJwdDI0Z1RRVGk4a0l5MUZVTmRISk1OOHVnelpCQlJaUmZ1SkNWSmNNUUpWUEttUW1pNVN5R1Z1alVWVUZhY1FBd1EwdjBRQTlUaW54WmVVTw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 15:02:44 GMT",
+        "discovered": "2026-09-21T15:05:30.550666+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "دي لا فوينتي يمدد عقده مع منتخب إسبانيا حتى 2032 FilGoal",
+        "player": "",
+        "content_hash": "211e69037b0fcc7ea335a04353f86cabeaa9bb8353db3c6ee846a644d498b7ca",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 3799,
         "title": "كرة سلة.. سموحة يضم ياسين عبده لاعب الأهلي - FilGoal",
