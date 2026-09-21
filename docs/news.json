@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-21T20:01:36.645543+00:00",
-  "total": 128,
+  "updated": "2026-09-21T20:18:25.325231+00:00",
+  "total": 131,
   "sections": {
     "morocco": [
+      {
+        "id": 3910,
+        "title": "كيف يرى الإعلام الدولي السباق الانتخابي في المغرب؟ - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GWGlNWlVaT3dWWFV6WDAtMm5QVllvU1dIYlV3aE9rRzk3ZXA4MmxKZW1XU19MTTJ0Y1ZvdGdocjF4ZTRyNWVpRw?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 20:01:55 GMT",
+        "discovered": "2026-09-21T20:17:59.891705+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "كيف يرى الإعلام الدولي السباق الانتخابي في المغرب؟",
+        "player": "",
+        "content_hash": "e01e1342cb1d32bf0c6c02f63227ae50ab8bdeed704ffd9e877dacc53471779b",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 3885,
         "title": "وجبة شاورما تجمع شابا بوالده المغربي بعد 29 عاما - BBC",
@@ -421,6 +437,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3912,
+        "title": "منتخب عمان للشرق: نترقب نسخة استثنائية من \"خليجي\" ومكافآت مجزية للاعبينا - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxNZGVlVVJOQkNSTUV5Q2FxRjIzX1JxUFBKTGJYWVFMZlYtaXNLc0o1T3RfVzVHTy1HUWpYRUw0WFJabmZfdFktb1J0OUl1b01CWEpRN0JnR0lLbzFXSll3S05jTVNkWFBoUGJJTGkwTjF5Ry1pcV9ZRC1keUhudmw4NkFoM1hMNy1Fb3M5WVZqcXkyR3U2MDRCVFlSMERzRUtNZHRtWXhHemxSTHpEOFQ0UkJuZHNRMzMxa1dQenFKeGZmY01heWd1YU9PTHh5UmROcVdBRHdtRjZreDdFZ2pnRG4zLXA4bXM0XzVUVDF4Vk5KckhZdXlSS1E4eVVNX3V2QnZlWTlpRzQtRGhLTnByTndUVGZUMVNxRkJES24xYS0xazFTU3hOamh1aWZUQWVtQmZSOURZMGVYaWNlTTZULXJXY1Fud3dZVFZMd1NITDZoRHcxOW1PXzBoams4YXZQQ2tqdjh0YVV3eGdHdkQ0Y2ozYTZwb2xiVThxVk1xTy01TV9zM20yS2N0QXBCQW1UaHRod3lzejh3T2NwUElsd19DbnZ0UVU4NFltTDVqSWN3U3M4TGdZRTdScEpvUUlBUUxnaWZKT0NMUnJDNVl6Tw?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 20:03:45 GMT",
+        "discovered": "2026-09-21T20:18:04.861682+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "منتخب عمان للشرق: نترقب نسخة استثنائية من \"خليجي\" ومكافآت مجزية للاعبينا الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "ca29c5a50212f12872ae2973d8bdbdf461ea3ffe2520aa27dc393a45459f8af3",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3907,
         "title": "يلاكورة يكشف.. موعد صرف مستحقات لاعبي الزمالك (فيديو) - yallakora.com",
@@ -1030,6 +1062,22 @@
         "section": "sports"
       },
       {
+        "id": 3914,
+        "title": "\"تنشط أجزاء واسعة من دماغك\".. لماذا يُجرى فيجورست تدريبات ذهنية قبل المباريات - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxNQy0tM0IzdVdMeXUtYlJTbktIQmNseDN5b0xBd2Y5Q1JaOExJLUI5UlBSNTkxYXhxWmNnd3hQTDNvS1h1aXBGZml0SWx6OTJhTnNxcnNDaFNURUJaODEzRFdVVHhYSU9JSGNLa2hjSy16eWtwczZzZWlXODg3dFFtNFA5Z25WLU1TaExnRkk5dERFSUwwUjFlT2tDbGt1YXZJVmRaWlFJanVMZ01mZVNHZ2hjRG1ZUGFIM3g4U1MyTjlUek5YSFVDNi00V1RHZ2dza3FrMUtvbTNPVDJtVFRQaHJwcXJOOTRObUh6Q1NFMDRPRjVMV09hUnBVWnBSQUFla0lvSGZvM1IwS25meFdNaE9YRUdtV3hvUXI5RUVmUkhTOFM5Y1BDNXJxRHZQbTc5TGVZekJjd1lOd0NSWExMV290WTFKa3N1aGZldndCaEdQU0w4NjJSZUJDXzd5V2x0dkc2WlRWTUVFeFlJMXFVcVFDb2tNdFlPM1lMOS1iMWlqMXloZnNDbXVpWDRIcXdhNkZoU0wzNEhQRklTSFpEZHpNRDZMLVhpTmhSOTZEcFhMX28zaEZJdEpRamlOTVlGUlQ2ZkJuaHJtSlpPTjdQZFRqODN2eGNOZlZnWU94VXBxOE5BUkgyTHdEdDdfNGZSbl9oc0ZLRW1pM1FPM29GVkRDem1xOVJ5Zm8zSUFaWXN0eXFUelBSdHVTSGtRVnhKUV92bWVBVEFsRlhURmVBWDBtMTYtajBiMkdPS3hMVXFMSTZWTmlDSnNn0gHPBEFVX3lxTE85ODlqSERqdVVRSTJrWTFmbThHUkZCclBnVXA5anQ0S0RIM3hjRmpCRDc1Ym5ZMENDTWxnb3FuZW40MFU3ZjNlNXBHZ2NUZ3Q3MGR4NHFVX3h0THppZ3c0TzNkd2k1ckdkSTh4ZWdKSnhCLUVmRElHeE15bWY1NWRRS1A5US1vaWRvWk1Ra2laZDVkS0Y1VUozWUY0QlNQSnFiNlB0VTJRckJiaXVtZlpKZV9jRlJaOENQQzUyV2FmOXNtaENmamRaYkNNbUFleDFSd25LMVJkWnhzZGpRNndJM1VQNzRKRkkyczdmS2gycHk0bXhMOGpVMHJMVkhERVNianlhNlpXZDJwQTBUZ3dtZmJKN2lvajlCLUpzX2RVQml5bEFmb05lTVFDR1dnem1EX2REZGRwdjZ1R2paOVRUcEF2TVZaZDgxZ0szOXFkQ3RRTnJEdEVLMEdxdTBjanYxdWttY05kRkFLWG5EUm5XdGI3cEZXU1RGZnpUZTFtdXJHVjdDNTFMSndKRlpuclBFV2Z6VE1YbEs4czdGNDFZT05QaUNQNlk0U0tSRFhVdXhTSTJCZ0MzUGVTOW1nMXlzTUJRQ3NyS2d1d1JrZ3RUSDA0SF8tdHNaR25xNWRhUmVxbFpTZ1B6NjlLdF9sT21VQzBWMlN5Y1NGMWRwOFlLU1VhS3VJUWZaaVQxMUI2Vm5CUWc5eXpodGhnVHU0LV94Wm96X2phNUxzd1Q1Q1QyWlZ6R3l2LTNmWVNmUHZtTVFKN21tWU5MeXEzemhwWQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 14:42:00 GMT",
+        "discovered": "2026-09-21T20:18:08.512661+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "\"تنشط أجزاء واسعة من دماغك\".. لماذا يُجرى فيجورست تدريبات ذهنية قبل المباريات FilGoal",
+        "player": "",
+        "content_hash": "f16a00633565db2d0a45ce6e560ef4664579ababe3539c1552a00c2e02bce886",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 3811,
         "title": "حوار في الجول - أكوا: هناك شيء لم يتغير في منتخب مصر.. ولا يجب أن نفكر فقط بـ صلاح - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiyARBVV95cUxNSzdaOG9CcE5nTHhUYVdYRW1fbDN2eUQ1VEYyemxtRm9ndTRCN2ZLam42RFUtSVFYMkdmZmJBd2R5ZDVIMFhPTW5TbGJQT3JXbnlsS2JwTWNQMVBldHI3a1cwRWM1dzFaNUIxT0ZWb2VEeENfWjhNSXoyZ0FZUnV1ejVnSUI1NVMzWnQ2VGdOVjhiNnhfNG1RcFRjaEpXV1haR24yWFAyU1F2ZEMxaXpIdXRNOXBGTjNVU3NJb2VQbEdCXzFmM0JqQmFPQ3NlRmhDaUlXT1d4d2VXeDI3eG5ZeGZiRHlXd19SdnRRMW0ydDRRM0FHUDhlMl9UMXNVMl92YklpcUpCNURJc3FWY2gyRTVJbTNZelZZcTFIRlpZU1g3OWowbUg1ZEZwYXBrdnluc1pLaldJejNrWmZuc05ZTUtCS01MY2xBUEVwX1dYcXRyUjNNNDFQb3pIWWFPWmp4aFMwblQ3RkFyYkY5N3gtN1czXzNqVmllM0otOFNMbkNobHJYUUExYnVGUGt6M2hJNEVYdndPZ1lYc3ZCaWRhR3VaYmZtWVBqMVZ5ZFRIZXdDT1k0TGhncjkxcl9xakVIbW1xaGswdW1uMmlTNWlQcnNfX3VGVFZkOF9faEMxN3VubFdLdTR0cTgzeHB0NDZmSHB4dXAxbEhmM1lWSW50VzJTMG5TR05mdGN2Z19qRGhEaUxRSzdpR2djZXlXSFo5bk1uRWJKZnpHMEdOQ0RxNWx5SnFTc29DemcwVXJuOFRTZW1NWmVnb9IBzgRBVV95cUxPYllCUm1nSzNBS3dhZ29PX1p2TTlEc3R3SHpqWS1XaG5aN0xZTVNIaXBOVVFWSlJoYTR2VGtPQ1RnRVVVeXNMQ2ZCUFJwem5saUxZcUdWcm5yVTBlTmZMUHRzRUVBTWUxSGxCazZGUFdxakxtMU5aMmItZTdmck1aSFpnbjFtQk5kUEM3aDJaYld0cUgtQXFnOEFPMWFlTzE1RERqN2FJRENpdnVvQkZnV1dxOW9YWlRNUUt0dVBIMERjLUU5VUN1VFgtM1dDLU9XbnRndEdGY0J1STlzSkd2TkZSYWlDdDNXdl9UTDM4cHR4VFBhTFN5V0FpT3RlLTBTN3lRU1lrYlBLby1VNS00aC1zVU5sckxNYnlVLVNnQmtoSFMxMnE5MDlacGE1di1hSThKc3Atc2NNOWRETmNJakttZjVmWjV5aXVabWV1eGlPS1llLVVKRzFQUE84SHAxMm1KSzF6MUpiWkRZcUZUUzVPRTBMd2FIR0s1ejVZaW41S25tSXVKUldaQ21fRFhKOEtIWHJJTnl5WTltYmJnd0Q2Mnl0WWZtbE15UnRfVnoxdjN1WXVnNEh3eTJibVNKZ3U3OUcyVmd1YUxyM2JHTTBGejhidXZibWVPT3p2R3pReU1oektJSWdXajdrMmlRZGNzbEpfRFU0ZEp0c1lDdnRnaGdtRVRDY05ITWxyQTYzVW5GU2plMTNGZF9wZWwzWmt0TU5ESXNTcG5kOXRiNWxlaFNsNVBjNFZXTFlObklzWmVpMDRkQWhKR3M4dw?oc=5",
@@ -1186,38 +1234,6 @@
         "summary": "بطولة دوري الأمم الأوروبية - المستوى الرابع - 2027/2026 FilGoal",
         "player": "",
         "content_hash": "a45a307e6981128258f2925ffb7db2d63a7c066c06ec813b7302ba0d0eba02c0",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3785,
-        "title": "فليك يمنح لاعبي برشلونة غير الدوليين 9 أيام للراحة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNMVZuY2RGbG40czkwX0UxWUhtX0NfWUxla3dZcGxJbld0R0pRMWhhdDYwdW5jczdTcWFLVjd1TklodEpjNm96MjVRZk1aeU43OVdHNVByX3hyTzcyQXB1WUZiSkxBUEd3eWlXam1JT25lNHZ2WXRUSUtTelNTOEpmV1JLTlVaMG1mWnFpVzNoUDhQM0FKaDY4ZXRxOGQ4Z0RIckxQMWxlVnBzU3llZXBRSGxUcTZRUEY3Y0lzdlhrX1p0LVlJYTA1RHdCSGhTcUR0a0p6ZFA2LVFoZ3UtX2pMR1JzMDdWdGhpTDNsUzVhT3NlVzl4akdMTFNOaGpDZGhjVDF4RWRFSmNoa250WlZBM01jY2stbzZBV1F0clZGdGtDcElqRHVVQVJrMEtJUzgycWdiakVqRW8ybVpUVkV2QUpjNm8wdmcwU3JnZGIzbHNORTVrbF9sdXhOM090am50aWpZdnZsZjl2UWg4VGVsalh5UTlmZWRkaWJhTHVzSEtWRXZvdzY2LXFqbzhyUkJ3SGp5ODE0ZmthbDNmczhlRUJlcDBxZ9IBqwNBVV95cUxNZG1yWUdsZFE5blFSRkxRRUFtSk5sSVgwVG54YlRTR0VaTUtTUjJ2QS15VFY1TmVIcFpCUjZ3cF93b0ZXTUMtVUJiZW1tWk91R211NDVKT3B3YXBsVXNxRWxzc243S0FfNzhXczRsRmxfRjd1NFFhb0FwSjRmOWRNQW5qY2k5a2wyakRMN2pBczlUUHdVZ3ZucjNydF9vdjFSUDJFRHFNb1M2V3JSOHExSkswc1F2MlNneVRGVzhUVS1kcXRMYXBOQnF0SmpZV0t4cWk3c2xmYnVyc1FSY2Q3UzQwdE10N3JpWFo1OXFTYk1GVExRSUJoMm9JWHdWLWgya0ZjbTctd2FNaGMxVVV2TmtDcF9KaERGck5wT2g1TnJBRWR2bzZCd0h5T2c3bmFPRDJ5X0t0WkJMZjdSR3ZBMHdqUmpkRnVGT1VxbVBBSEJTVGF0YkFBRTFPb0hrczlDbnJjVDIwRDN4SVJocUxabmRoSGNaXzNsRHRhbDhYMmdtQkp4Y1B0NDd3SEJYdGZOajRqRnhmSTlXLTlrbW5UT0VHNVd1QjcxMTlR?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 13:12:00 GMT",
-        "discovered": "2026-09-21T13:32:19.702711+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فليك يمنح لاعبي برشلونة غير الدوليين 9 أيام للراحة FilGoal",
-        "player": "",
-        "content_hash": "63b8d24c0776b5efb82e73c4e2b2ce43a010d19bb22f9e935c119f2267073873",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3877,
-        "title": "غليان في الرياضة المصرية بعد هروب لاعب مصارعة ثانٍ بأوروبا - aawsat.com",
-        "url": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxOTWtlVk41cm9ZbnhKVGJ1TDNvaGpUR1dsVUg0UkFkRjdvWTRZS2RXVm5XdXlpSjRjazlJRERLZk5TLXRmNHc4OTMyU3Nsa2trR0JqLUtjVWhaOHpodVlTU09uMjkzd08zRDR6bFRKcHU4ems3bGZCUWgyLVQ5YXNPSXI0ZzFtSFhHLTc4YXpyeW9xeW1teFFDSTJSQXRncC13WW02WG1QWEJHNzJqZzZhRjJtbjdKVmhJWDFzY0pYZk1iRW9MZllldlozck5Ba3pyeTRWc19saldteWo2d0RrRmFuRzA5dWFSRWhFZmZLLXZjU21lOXI1eW9tb0VBVHgxUU1qZU5IZ1hOM05QSzVRNnVWQ2FwZ2FVTG1CalVSQ2tGRXNDb0hhUWpKR3hKTlRBUXlTZllSNmtocXEyWk5HUDltZmhCYnQ2RFJMVWNZQWZNcWx6TWFENzVJSjVZWXdrM252NWUwS3B1YmZaMEFHMXhJSGEtcTB2bXlTNlNsam1obHZOZE1fVjZfRGtlMmZjYmtocnZjRDhyNENmMTRWejRWYnhmcXZOYkc5bW1GZXplaHR5MldfMVBmeXIyNTUtd3k3VkNFS0F4d0dKLVcyU2xCV2RhTGdLVTQ5MElDeXFMd3Z6aGJUTTZUQXVqZm5qRF8xZ0ltRmJyZEwwRjJsbXVqQ25tbV9rdjhMNFpOaWlZeGV2YWxMeWxLZzlTTEJQSDhHRDhYTE51VGlqYTNFaDQ3dXJKbWozX0QwWW9JNjVxOUtnSXZ2QmVwNVQ5N1BBaDA3RXM3eGJWbXl5SkVibg?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 13:05:32 GMT",
-        "discovered": "2026-09-21T18:37:02.260566+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "غليان في الرياضة المصرية بعد هروب لاعب مصارعة ثانٍ بأوروبا aawsat.com",
-        "player": "رياض",
-        "content_hash": "755565046127db2c18fe4d8eac1a849469495d7e8c70898aed4e61155e989302",
         "sent": 0,
         "section": "sports"
       }
@@ -1980,6 +1996,22 @@
         "section": "world_arabic"
       },
       {
+        "id": 3915,
+        "title": "أزمة الوقود تذكّر العراقيين بأيام سقوط صدام… و«العصائب» تلوّح باستجواب وزير النفط - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNTDFrZnkyanpqUWtJNnM1dGlJUnA3SFZ2Szg0UUpNa3VRcjMwaUJ0ckJleVptbGdoQ3NJN3RHTkxCV0FfSFk2WGRYRUNBQmx2MW5BdGx6eGx1SExFTTBEbzhQR3dKQmY4akI3YllJOGJGb0NDZE12ZjBqLWRWZVg0T0FlSXI1RHJSc1dMSkx1LWVqWGIzUUQxNTFsYkx5UlZOMEcwdld4bTdJY2lhS0tUbVluUFBya2lXNVBMOGp1VDBrUWR5ajkyckRiaGo2RHA4elotakt5cU9faVNLUlNkZ08zOG1DejJkbWphY25yMkN4LVhZTjFZR1NTaFdPRUlNQmROTmR0OVJFbUJtUG9FY1otcTJNV1I0dHVFdTlQTnUxaC01YWdJbnFFRWFOaXViWmQzMlB4TEFZVGFiWWhpcjhUMnFjdw?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 14:31:05 GMT",
+        "discovered": "2026-09-21T20:18:20.137926+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "أزمة الوقود تذكّر العراقيين بأيام سقوط صدام… و«العصائب» تلوّح باستجواب وزير النفط القدس العربي",
+        "player": "",
+        "content_hash": "a294654bc8fa174f6fefd3212317988dc827daa2e6849878a437a45184ecc9f9",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
         "id": 3692,
         "title": "نيويورك تايمز: ترامب واجه معضلة في طلب السعودية المساعدة ضد الحوثيين... قرر الانضمام ثم تراجع - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOdGJtOERveEw5VFpFQ2pNTWU0eWluTGZFWDY5c09FYWhGOG05dm9QcGoyclYzWE9TWXNKOTVIRFR0N1dVM3FUX3lDOWVrYkRHSW9kRmVsZUNVcGJOMGt0SWJkMmFqdDVhVWZPYURzb0JoTWdsTVZMWW1nenJVZXRiTi1sU0x6aDBQMVJXYmtyNFBXQkNjWXNPS2ViSU1IcTgwQUpyOE1BM2daSzdUUm9ZZXg3VU12R2tNRnhiM1FOVTBIakc4eEZxSWltRDgyT0c5SnVad2dqeWx6S3I1QTBSajNyQXNrYm0yd1pTQXQzSTlTRlNTdXVoaGxObGNfazRTSHFBQTFNYzZKNXFheFpDeDNvMjNtV0ZDbjZZSWtUT1lzZk5aam90cHRQcktZYnU1R0VLQnJQc1NfdDFHWUdZY1FBdjVuQ3Vk?oc=5",
@@ -1992,6 +2024,22 @@
         "summary": "نيويورك تايمز: ترامب واجه معضلة في طلب السعودية المساعدة ضد الحوثيين... قرر الانضمام ثم تراجع القدس العربي",
         "player": "",
         "content_hash": "b881a9fd21349008b0af8216714d473eec03400891d3ee6f95090b4eeedf0297",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 3916,
+        "title": "واشنطن تحذر من \"تصعيد سريع\" في الشرق الأوسط بعد استهداف الحوثيين الرياض - France 24",
+        "url": "https://news.google.com/rss/articles/CBMi4gVBVV95cUxNd0FQLXBlekRGWlhTOTVUbXBHaG9iOXBUU0VIR1ZjeUJnVDRsVmdqbGV0OW9BbFhORUxHVVF6R3BwVmJvVDdEdU9kSklfLUo1WHVUTFFZa0hPcWg4NFlHN25hNV9XYnNqYnROXzBhbzUta3Bsd1VuTlI0ZFVkeTlkb250Q3BkWXVPb0lBeE5oaVpIOHZQR2VyY2d4SnRvd29sTGhXamRsMTFTcnNEdl90MFZoNG5OZU5kTlpQcEhLTVJPZE1wLWVRejNZdjc1dk1ZWGM2UXlMd3dpRGhtZEIzOTRzUlRpUlpNQ1l5d2hUV19KbWQyNTU5SkVpcUl0dVZ6QVlkY2J2ZENqME5obTRsdWNtS1FXZW93TFE1ZmNibzZ5QjZOQ2ZLaU9qWmZ4YnNjdHQ5bktxX1c4MEhpWFRLS2VoR0hYVlBtN0cyWjhEbVZJVTdwWkRqSHRVRmRocXVpajQ1N1dWX05uM2trNmRzQ0ltMkJzcDc3d09TeTU0dHBEdkxJYzdXdkh1b1VoWGlwRnRiN1c1VlpUaDlvTU5qQ3g5R2dZZk5Vd2NsWFJqZlp2Z1c4ZV9NS1luMElmOHhsMFg0WV9sRE9zRnFMNTQxcUhPaWpzYnFOVW9walU5NTFlLTR4YzFCdFdUazBObGo3ZEN2Y2gtejQ2NkZwbURlSkRfbF9remllRzcwYmpuNlVxZXFMRGpucEthZm9NVTBoN0hDb3Q4MkFvMEVRX09aSmJFS0hiaktsbjk4WGp0dU9QQTgtVmw0Q2hOeVV1SkU0cFhzSTBxekVHZjNneFhkVGZDSzNJNmtiblRCTUlOYlhLNlB6Qjh0RVlMMWdqeG1jbFNQNWVSc3Z1b1gtc0cyeXNuTFhOOERVdmo4Qy1OV1J6MmJoanZiTEQ0bm1YVmRXZ2lwT1ZPazF6d0J6V2dSbThWaE9FVl9ES252djFQMnprUy1hekNtdnRBWEFqTV9DbEE?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Sun, 20 Sep 2026 22:40:00 GMT",
+        "discovered": "2026-09-21T20:18:20.947935+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "واشنطن تحذر من \"تصعيد سريع\" في الشرق الأوسط بعد استهداف الحوثيين الرياض France 24",
+        "player": "رياض",
+        "content_hash": "65d70a24b5b91524c9312faa034b62cd00265dbb30eac0774938c0e0ce156920",
         "sent": 0,
         "section": "world_arabic"
       },
