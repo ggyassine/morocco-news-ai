@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T11:52:50.828564+00:00",
+  "updated": "2026-09-21T12:02:43.400333+00:00",
   "total": 120,
   "sections": {
     "morocco": [
@@ -437,6 +437,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3757,
+        "title": "مفاجأة صادمة: قاصر مغربي يختبئ تحت حافلة بلد الوليد للعبور إلى إسبانيا - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMisAVBVV95cUxQb0NpVGhGLS00OG1rRHNQajU5SFpZeWVocjFCVzZpbjBXYnZ3VlF2M1V2VGVDMy1fdVZUSUVNMDg5a0tQSFlka0o2aVhCZVQ5ODRfQjdVS2ZHazRiYnBsWjlwZE9rUmluekdrNDJJaTNwcVZrV3lIZWQ2RmxpMzAycGVrZDd5dENNYUhOZUdsTDFwMm1hdGVYMmJmSURwZHBJRl9yRU9LamsxSC02RjBMeVVEMjVNZ2xVQ0R0Wk9mUGo4aldzN3YxNlptUF9oSEZCQnpGTUpjLWRldkNVd0p0UGo4ZmR2dktDTGVteVlELXgyck1mTGRZM183M3ZuMFJ5bmxGbHBxVXRuMV9oajd5Qk9aZkd3NkhSMzVVM2JBLW45U0xGTWxQelZFZzlVN2o0bHBicHFFTWhHdS01QnV0RzgtdDFMa3R6WE51cUUxczJ1SThjeGFWYzF0QVpTMnR3czBRY2NBOUg5N1JvTnBHMlBQd1J4anVRdU13T2tGVnp4OHVUQXo4VzVLWmJiOHNlYUQ5NHoxdmhhcHNEOTNIV0hrWDBkY2hGaU9BcXhJOGp0QkFrY09CX2VqVXdWbjhKSXYyNUR0ZXhUbkZaSUZQSXQ2SDlDY3o5N29FdVNvX2w1OE5QTWRuemU4clJha3ZTa29UZW9KSFBmandiN2gtbjdFRDZrYlluSFVGVzc3b2Nhd3UtMGU2bF9HZTZUb0dGamgya3k4ejBlWEhZM09vd19WUllLc041QUs3ekJVdlRRZlRrclJERXd6NWo3M3RxV005OVFCTW9USzRkWjBiNVVJYWUtZ3JhdF95X3ROR0xwTm9QRlVjQWlTcnNiRVpJcFlNYXRlZlA2OV8yQzhyS3VMd3VzNnhWbWRmUkJjUDBCd3BWWXllblBPMlE4OEpT?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 11:57:30 GMT",
+        "discovered": "2026-09-21T12:02:24.336838+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "مفاجأة صادمة: قاصر مغربي يختبئ تحت حافلة بلد الوليد للعبور إلى إسبانيا Kooora",
+        "player": "",
+        "content_hash": "69e9a80937f1c5920bf59cb26f5ea40f5ddcaa44e24e019f118ac738a4c8d115",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3750,
         "title": "متى تبدأ وتنتهي بطولة خليجي 27 في السعودية؟ - 365Scores",
@@ -1218,22 +1234,6 @@
         "summary": "منتخب مصر يعلن استدعاء عمر فايد لتعويض إصابة حمدي فتحي يلاكورة",
         "player": "",
         "content_hash": "713511e7e6be2c71206b0e979a63d9c113e5705f1290aeb5b16afd6233fecb54",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3616,
-        "title": "«إي إيه سبورتس إف سي 27»: الإصدار الأضخم في السلسلة يرفع معايير كرة القدم الإلكترونية - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxPUU95SnBHd3NNa0VGTXhELWNNMm4yUGNEZ1g1X1VJQ3hTTXRtZjhFcTFmakJxVXhHS1Z2REdMd3VqckVWQXB3UUtCTXpnUUpuRFFxUUc4YVZSWk91SHIyTDlYVmluMjdMRWJKR01IWnJsdTJPaGdLcU1UM3NNRGZ5LTIzcG9vT29KVm1mR01PSVV4cE9kb2lhcGR1OFlMMGZMdy1TaUVGbURvOXZnMmdsNE91Z1ZjUXJBNnlpMVVJM1d2U3UzN1BVOFFlNnB3S04zdnQ1QlJHSzRmTmNWRzA4R3gzeUJlRlBJTWwyMWFFdVRTQWNRQWVKQWRqNk1JZWdtREVqY3VNdGlLQWhPOVMtLVk2YnpKZVRzaVJxQmJINUdPRURoZ1M2ODVNYU9ueUZIVlNEaUVfTFBMWHE5cEZlaUF1Wjh4Y0ZpQ2xQYzhkNjlzaXRlMm5lQjdLMVhSSnNPQkhUMG9WdEF4M1RwVHpfaDk1VXBIelcyNWFFZW1ZS3lLcHFIWUVfekk0LXJqdHEzSHVwc0NYdlg2MXRmNTlKOVdsbVk4eU9FYzY4QllOLUQ4Um5mZ0RvNmE0U3dHaGJKZjJrVDNsZ2lkUkd5MDN5RTNhQk1pMDI1TGM4ZUVsR2cxLVBoQ0thVHdZeEtYTjNjVUFGZmJreWRub1o5MlRVZUlGejB2MDA0dExWaW5mblNfUFpRejhRdm1HUnVQc1RFdm1JWTNiSmxTOUd6YUo4aG1OT1hIbm9ILTR4SkFYXzBOX1FDd09xdWVKcy1xMlhydFZTdldn?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 22:29:19 GMT",
-        "discovered": "2026-09-21T01:32:14.862328+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "«إي إيه سبورتس إف سي 27»: الإصدار الأضخم في السلسلة يرفع معايير كرة القدم الإلكترونية الشرق الأوسط",
-        "player": "",
-        "content_hash": "54c166c25d4682aa4630ac1fbc3ad2a54653f6f12b2d9714c6fe09481ccdea23",
         "sent": 0,
         "section": "sports"
       }
