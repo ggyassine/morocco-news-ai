@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T21:01:37.811943+00:00",
-  "total": 133,
+  "updated": "2026-09-21T21:18:05.291207+00:00",
+  "total": 135,
   "sections": {
     "morocco": [
       {
@@ -32,6 +32,22 @@
         "summary": "ساعتين للوصول من الرباط إلى الدار البيضاء عبر البراق !! febrayer.com",
         "player": "",
         "content_hash": "91b13722fce0c222b646c02025fbf95ce6c929071ca7e9305ef501b5ab20c885",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 3934,
+        "title": "ما مبررات رفع التمثيل الدبلوماسي بين المغرب وإسرائيل؟ | د. مثنى عبدالله - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOd3VxSFlZZkRndTZ6dFR6QlVLNUx4S0E0NzNOVGtNemNicTlKbGVndk5yX2N2SDl0bjg2VVVBNEZDYUs3bTBqM3pkdFVJcGVHV0pkMEVqSGhpZXg3eUZPV1lBX2lDVWV4UXZvaG5CeXBCblVYMTlUUmJ6UnpCd0dGS0RVQ0hmRHBVNTZTNUd6Q3RGWU5uM0J6SVdhempjZlpVWHo0anRxMUtUbklqcm40blJGWmpPSmFUVUtTbUFmSk42WklHRVdVS2FYUkZuOWZkajJIdHRoZDlxbmJnTWpaU3E5dG9ScUZsX0VPSUZjOGcyTTRQU2xtb19BZUdIckh4Nm9WTVNaOGxENTlQbjVqRHlFQjFfUDlRMEliWkdRSklTeHVhNEdfbS04dHFqYkhvanlvV1BVeVV1RVAzX2NOdi1LSnA1UEE?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 20:14:04 GMT",
+        "discovered": "2026-09-21T21:18:00.183122+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "ما مبررات رفع التمثيل الدبلوماسي بين المغرب وإسرائيل؟ مثنى عبدالله القدس العربي",
+        "player": "",
+        "content_hash": "8de78544632ac97ca4385a7b280ef353d171dd728c1ea5ef2808b4644b248bbf",
         "sent": 0,
         "section": "morocco"
       },
@@ -112,6 +128,22 @@
         "summary": "محامو المغرب يعلنون «تعليقا مؤقتا» للإضراب القدس العربي",
         "player": "",
         "content_hash": "04372f0f86754f941f964fa88fe3d292caedf700ca89ca3a19263ece4d45868d",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 3929,
+        "title": "حرارة شتنبر تربك المغاربة.. عالم مناخ يفكك لغز تداخل الفصول - ar.le360.ma",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04WjV2T0YwcjNabDg4dXVpWjRLYWNIVnpSRGNPcWtiTTB2QkRzcWpfaGF5a1dJa1VXTlFjWjRydUNUcXNEWm9pUlFNRndlMjlYd3FnSEEwM3ZJci03T2NhR2pkbDVCdw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Mon, 21 Sep 2026 15:02:11 GMT",
+        "discovered": "2026-09-21T21:17:35.879910+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "حرارة شتنبر تربك المغاربة.. عالم مناخ يفكك لغز تداخل الفصول ar.le360.ma",
+        "player": "",
+        "content_hash": "3332624079710faefe7bee8187a85b720c16269967fb3d79770a91e576fc0f5f",
         "sent": 0,
         "section": "morocco"
       },
@@ -453,6 +485,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 3930,
+        "title": "ميسي ورونالدو.. سباق الألف هدف - Elbotola",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXdGFha0c2dFFEX3pUYS1idUM5RmpNNFl4R211ang3R2ZldnZlZ0R1SFVnR0p2NFRDbXRPcjZvdkJZNHQ4RVVrZXJkeVlGaE9OZkZRUnJvODF4N2wxSTBOSVF4RlROdkVJRldLeDRfdWM?oc=5",
+        "source": "البطولة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 21:01:49 GMT",
+        "discovered": "2026-09-21T21:17:41.431690+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "f64963bb632255f709a5e074b3e70c5faa49b63e13179a450455328dd2dab323",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3932,
+        "title": "تالاييتش: هدفنا العودة بلقب «خليجي 27» إلى البحرين - aawsat.com",
+        "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQeFlsdFV0UjVXbGx6OXJKeEFuekczYnIyRUU1WjdlbkFzWndVd0dnZ0ZUQ0VBbTVQdGt6NUhUV1NBTjZicFdaZHVLV21ZV2plWFlFUUduSm45UjhzREdmSTIxU1ZXSDZ4eUMweVFlZEUtUW9sdFgzck5wSkQ4cjhhUWw0aDN5NFhuV2lmRmpCekNXbHdOTDFNQlpSSkxGbXhpTnY1Rl9kc1N0SXpXanExNkRPZE9BejFYa2Q3MXBhV3VNZ3hQTmlsNXBYSTJLNllvZjBhMHNhd3B4VFY1U3JWNzMzb0ZkbFRrempZWnpKeDI2elIxYXNYbzFiYnBHSWEtQ0Z2a2tOUTNwclNwaXQyLXhxV01qVnpma3NKWFROcUdBYndSZDJLeFU0TktxZVdpdHh1TGFwZUg3TGJqQV8wUHZLWkFpcXVnSGJ1eUhOSDh1T25jNjJwcE5LRjdyeXJYSHBzSXJFcTV3dWFfRUEyNGJqYnpyeHZDSTg0M1BpVFhrNmc3WUxsQ0R5NzZJUFhqbWxzUUlBRVhLUUtOSHI0cFllUGs2WU0tdlVHR3I1Mk9pZ1UwS2VRMFFKdndoNTR1U1U0OEd2V2xCbFpXNzk5cmxKMmtrc29xN1FFTFpFa19qa0gydjVLOWtoZElYb21mNmxkb3hGZlV6VE96RWMzVmRGOFhoNzNi?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 21:00:14 GMT",
+        "discovered": "2026-09-21T21:17:46.371723+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تالاييتش: هدفنا العودة بلقب «خليجي 27» إلى البحرين aawsat.com",
+        "player": "",
+        "content_hash": "ca3e0a35fae526451eb28282d13a9d6869e6bc83813fc2315dc207473dd9806a",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3928,
         "title": "بعد فاندرليم… 10 مدربين حاولوا إعادة الأخضر إلى منصة الخليج - الشرق الأوسط",
@@ -1220,41 +1284,25 @@
         "content_hash": "f16a00633565db2d0a45ce6e560ef4664579ababe3539c1552a00c2e02bce886",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3811,
-        "title": "حوار في الجول - أكوا: هناك شيء لم يتغير في منتخب مصر.. ولا يجب أن نفكر فقط بـ صلاح - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiyARBVV95cUxNSzdaOG9CcE5nTHhUYVdYRW1fbDN2eUQ1VEYyemxtRm9ndTRCN2ZLam42RFUtSVFYMkdmZmJBd2R5ZDVIMFhPTW5TbGJQT3JXbnlsS2JwTWNQMVBldHI3a1cwRWM1dzFaNUIxT0ZWb2VEeENfWjhNSXoyZ0FZUnV1ejVnSUI1NVMzWnQ2VGdOVjhiNnhfNG1RcFRjaEpXV1haR24yWFAyU1F2ZEMxaXpIdXRNOXBGTjNVU3NJb2VQbEdCXzFmM0JqQmFPQ3NlRmhDaUlXT1d4d2VXeDI3eG5ZeGZiRHlXd19SdnRRMW0ydDRRM0FHUDhlMl9UMXNVMl92YklpcUpCNURJc3FWY2gyRTVJbTNZelZZcTFIRlpZU1g3OWowbUg1ZEZwYXBrdnluc1pLaldJejNrWmZuc05ZTUtCS01MY2xBUEVwX1dYcXRyUjNNNDFQb3pIWWFPWmp4aFMwblQ3RkFyYkY5N3gtN1czXzNqVmllM0otOFNMbkNobHJYUUExYnVGUGt6M2hJNEVYdndPZ1lYc3ZCaWRhR3VaYmZtWVBqMVZ5ZFRIZXdDT1k0TGhncjkxcl9xakVIbW1xaGswdW1uMmlTNWlQcnNfX3VGVFZkOF9faEMxN3VubFdLdTR0cTgzeHB0NDZmSHB4dXAxbEhmM1lWSW50VzJTMG5TR05mdGN2Z19qRGhEaUxRSzdpR2djZXlXSFo5bk1uRWJKZnpHMEdOQ0RxNWx5SnFTc29DemcwVXJuOFRTZW1NWmVnb9IBzgRBVV95cUxPYllCUm1nSzNBS3dhZ29PX1p2TTlEc3R3SHpqWS1XaG5aN0xZTVNIaXBOVVFWSlJoYTR2VGtPQ1RnRVVVeXNMQ2ZCUFJwem5saUxZcUdWcm5yVTBlTmZMUHRzRUVBTWUxSGxCazZGUFdxakxtMU5aMmItZTdmck1aSFpnbjFtQk5kUEM3aDJaYld0cUgtQXFnOEFPMWFlTzE1RERqN2FJRENpdnVvQkZnV1dxOW9YWlRNUUt0dVBIMERjLUU5VUN1VFgtM1dDLU9XbnRndEdGY0J1STlzSkd2TkZSYWlDdDNXdl9UTDM4cHR4VFBhTFN5V0FpT3RlLTBTN3lRU1lrYlBLby1VNS00aC1zVU5sckxNYnlVLVNnQmtoSFMxMnE5MDlacGE1di1hSThKc3Atc2NNOWRETmNJakttZjVmWjV5aXVabWV1eGlPS1llLVVKRzFQUE84SHAxMm1KSzF6MUpiWkRZcUZUUzVPRTBMd2FIR0s1ejVZaW41S25tSXVKUldaQ21fRFhKOEtIWHJJTnl5WTltYmJnd0Q2Mnl0WWZtbE15UnRfVnoxdjN1WXVnNEh3eTJibVNKZ3U3OUcyVmd1YUxyM2JHTTBGejhidXZibWVPT3p2R3pReU1oektJSWdXajdrMmlRZGNzbEpfRFU0ZEp0c1lDdnRnaGdtRVRDY05ITWxyQTYzVW5GU2plMTNGZF9wZWwzWmt0TU5ESXNTcG5kOXRiNWxlaFNsNVBjNFZXTFlObklzWmVpMDRkQWhKR3M4dw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 14:41:00 GMT",
-        "discovered": "2026-09-21T15:05:30.535303+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "حوار في الجول - أكوا: هناك شيء لم يتغير في منتخب مصر.. ولا يجب أن نفكر فقط بـ صلاح FilGoal",
-        "player": "",
-        "content_hash": "b2136e63de3a9990c87b4180d6fb69545c02f4811f836f7a22d14ca2847d45d4",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3803,
-        "title": "رشيد غنيمي: حمل قميص الوداد شرف كبير وهدفنا المنافسة على الألقاب - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5naHZvRUNMQnFwV0l1NXd4RWhyLTg4ZUR6cHdONVpPVXFhT1hDZFRXU1A2Y0tRaG5RTlc5cEpubG1GSWdxd2V6dw?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 14:34:56 GMT",
-        "discovered": "2026-09-21T14:42:40.265738+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "رشيد غنيمي: حمل قميص الوداد شرف كبير وهدفنا المنافسة على الألقاب Febrayer",
-        "player": "",
-        "content_hash": "8e4a0208977cfc3980c686f518420d394d6742142ac83d89551f8d8dd2481aa0",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 3931,
+        "title": "صلاح ومرموش وعبد الكريم ينضمون لمعسكر منتخب مصر - aawsat.com",
+        "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxNRHFXRDZ4WDNJd2pUZUpvVThINVlpdjcybFN6TzhqOUY5T0pHMTZXZkRieDZCSkJOQWJVTjdNYkdTcFhyNXdVd0JHTHpSNnF1bUlQY2JXVGsyQ0taUGdEZURnblBZNXhzR2MyMTlnN3pQQ3JwdDBVbzVqVlpRdENybnlaNDd2WG9JeEJ6ZV9HMW9XYW9rZXRldEFTU1FvOW5OYVB1Q2U5MFYwNnBKU1UyWUVLWTZuc0NsX2hYVnEtMEh0UnJpUGV3SGlzUG9TNlJsSkhBdUxpRl9xZ3U1VFUwTk9MYkxEbjBQSUNoOHg4dUlyVEJxTkxsXy1NUXl1WW80cllKblRxM0NGRE1QMThzRXRHcF9kVHVmVEJlaG5Pc2JYM1R3OXhHUEhKdWdzdW03T21pQ2RDUlFiajdzdTJSWUFidHF1TXRJd3hpdWVxd0tibEI2QzVpbTBaWlVjZWRzc3NwRmVvck1RRnpJLUgyVTVBNG5rVjNqMFd1YzhIUjFkX19mbXJ1a01LbC1pMzM4X291Zmh4UUJNbTNRMVB5RjEtaTNiVHp3Y1FwTU42cmVPZjV5ZmNrU19sTnE4cEFNWmxTV1JjMTNtaUdKYVNBWGU2MGdFWV8xSVFQSmNISU5WaS1GRjU2YTBlQ1k0Q2ViZUhYNFNFcWRrY3dtQURKNG84a1NzVG9kX0pmbFhUVEtfUFdGaHc?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 21:04:44 GMT",
+        "discovered": "2026-09-21T21:17:46.351363+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "صلاح ومرموش وعبد الكريم ينضمون لمعسكر منتخب مصر aawsat.com",
+        "player": "",
+        "content_hash": "5423ecbb3e6e7f58fa1d2c64ca99bac5e0d8a1583446c31e8cbe69e07df25b58",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 3874,
         "title": "\"جينيوس سيرفيسز\" تفتتح موقعها الثاني بالدار البيضاء وتؤكد طموحاتها التنموية في المغرب - Febrayer",
@@ -1926,22 +1974,6 @@
         "summary": "أدوات الرقابة البرلمانية تحت المجهر في جلسة الاستماع لوزير الطاقة السوري الشرق الأوسط",
         "player": "",
         "content_hash": "d33dc6a8bc16fe389f178f953f4486fd2ffac5c80950008ad74eca78bfdfb45d",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 3434,
-        "title": "برشلونة يصدر بيانا رسميا بشأن إصابة كريستنسن - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPeFNVLWFwQ0twV1d6OUtsZjhzTUdaYm81SHdtRjBURTJqVzkydjlyMjNtY2JXdmdKZ2VJUkJ6ZXRWLW1Oeld4MDR1XzRvU294dlVMX3ZmcXl6S1FadzJSSTlxNVoteDJqM3UyS19LbEwzNWpRel9Ic0ZYU2hPZGZwUjVYSUZFZmVXelk1bUhPaFEzNVYwNVQ1TmFsSTVyUHgtQ3pYbFdScDNkcXo2eWtpclNIcmlPSzF3eU54VWhGdUtNeXNQazA5ZzNUTXRTVmVMVUowNXUwZzdHc1FmWEh0ZVlVeEh3Ry02Smx4eHFhTDVJbk5laWlnMXNzV2drVHEwVjVSS2pkVzFwWk93RGU4M0pBT21VX2V00gGeAkFVX3lxTE9GeHJzU3JCa2lUNXRpa1Z1OEhjLV8yMWNQcHlTdDRGWnVqZzdqMnFkS0ZLVkdJUGFJc2hHZERtRTJlMm5FcXJSclhhUjZMM3FNQ1M4Nl9oMjB4R2N0RW9TOXFnYzdHSGJzX3JSN0ZJN3d6bld2LUNiOWRjdGJyelNuZkZoUUZBbWlBdWY2NHE1R0RyQU43UUMxYXNYMW1nR25fYmN4U3haeGgtVXFtUFJvaFY0SHFlQmtqYVNXcVRBUVFzSjdIQnRxUVp0eHBzM0ZjQmNKdWlDaUlYU2Mwbi1WdVBmenU5UUdOUVp4Rk5iejljTXN4a1p4MWRwSzBIaHFxdmNEVWx1aFdvUDBVT3BxWGIyQXpjZmlCZXNnV1E?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Sun, 20 Sep 2026 15:30:31 GMT",
-        "discovered": "2026-09-20T19:28:10.953417+00:00",
-        "category": "الشرق الأوسط",
-        "status": "رسمي",
-        "summary": "برشلونة يصدر بيانا رسميا بشأن إصابة كريستنسن الجزيرة نت",
-        "player": "",
-        "content_hash": "020efe7c3d49575d82861594e43b0554617af073f7d5cd8be37961c24ad521be",
         "sent": 0,
         "section": "middle_east"
       },
