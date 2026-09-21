@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T17:16:45.461064+00:00",
-  "total": 120,
+  "updated": "2026-09-21T17:28:51.907332+00:00",
+  "total": 121,
   "sections": {
     "morocco": [
       {
@@ -308,22 +308,6 @@
         "section": "morocco"
       },
       {
-        "id": 3349,
-        "title": "الإصابة تُبعد أشرف حكيمي عن \"كلاسيكو\" فرنسا وتُقلق الطاقم التقني للأسود - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RZElpbnR1a0k4QUZpRjV5bXh0VTlsVWJRMmNTR3lzX3U5SFVuakQ2VzVOWXVsRFUyNVJwRUNFeXlnREJwZzFDQQ?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 16:03:39 GMT",
-        "discovered": "2026-09-20T16:18:23.096823+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الإصابة تُبعد أشرف حكيمي عن \"كلاسيكو\" فرنسا وتُقلق الطاقم التقني للأسود Febrayer",
-        "player": "أشرف حكيمي",
-        "content_hash": "0fffd4bcde720ec30fa6b1ef24f428798703a119fc136367f77f24c8ca4cf2c0",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 3439,
         "title": "ديابوراما: «باركينغ» جديد بمعايير عالمية بمراكش - Le 360 Arabe",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NRkd4bGQ2T1dJUG9tLTczdENDTWNPbnZ1TUwzSHFwUFFTeVkzZktjQ3dBZTZhQVJOYjNSSjdnblB4cWdlOXh2OV9rXy0weHExeVJmcnh6dWZCN3RBa1dCdkVxT0pSS2s?oc=5",
@@ -421,6 +405,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3850,
+        "title": "winwin يكشف هويته.. مدرب إسباني يقترب من تدريب الوحدات - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQOG9vT1NCYUFsVk45MW9qVS1BaWI5UWVNUktNM0ttODVSclpHSUdZcmdzbEFUR3pwdzZabzh2M1RWalRkVmJjRU9RNjNzOXpneG5BOWNkOW1UdTZ0OU9CRzYwYmFVbU54TEo4dWFxUXFGT0RiU0tfQlRLdFpBYVVBbG9WOXRqaml3YUJwMm5pM3dJNEgwWEdnV0l1WXNoUGpISDNuSGs3aGRNc3l1aEJOeldsTVlkekZiOWlFMXpYNDVYd0dPMVB4bExBZkJOdHdfMmt3MW9CZGJKU3U0VlVHSmNzNng2MzI1QTNNTHVSRGhsQnFUeTZHZmdIWlFPR2VjTnUxaDUwUVp1WnNWT3hRSW9wSVkwZzVvY2doS2M5S1VFVUdpcG5SVVRZZDFuOUQxTDFNQTkwZnhDUTEtWG1hdFQyanQyVGlMTTlwLXctN3RQRGswenpPM2RFVjFJTWNjOGFtb1ZtRjhBMzlvMkNJNnN3OHRxQUpHVmsxeDVla1lIb1VfN0RWZHE1akVZOG1ucExQQmVSaU9admQ1QVB6LWFFVGlTQnNMQjhoUWRBUWVLTG9fWWJR?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 17:07:06 GMT",
+        "discovered": "2026-09-21T17:28:33.570738+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "winwin يكشف هويته.. مدرب إسباني يقترب من تدريب الوحدات winwin.com",
+        "player": "",
+        "content_hash": "f6eed4bccffe82d1ec77d0a6d3ee12e070454828465f0e93ed9c1aff9ce1cb9a",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3847,
         "title": "10 أندية لم تحقق الفوز في الدوريات قبل فترة التوقف الدولي (صور) - يلاكورة",
@@ -742,6 +742,22 @@
         "section": "sports"
       },
       {
+        "id": 3851,
+        "title": "أخبار | دوري أبطال إفريقيا - تحديد موعد مواجهتي بيراميدز ضد المريخ بينتيو - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxPVHdmU3IxbHZlanRfbnQ5RVN2dElPS013aVAwUlR6cTNZOTB1UnZUTDRXS3BBc1V5MmxIUGliS1pIb19BRlFXUGxXdjhYZ2cxalZCSGJJc094SFJxamJuVERoUUR2RC13VTVCLVFrVHZ4RVpvaE5Vd0tmd0dwakJwUjBDWGVGYXJOd0JfRndNOTlRdnd3eG0ydTVjMmtsd0QxbUFyVHdSV3dGTFU2bkVxZDJlbmJjRWh2RGh5LTFzeklKRDdsV1R0ZGJ1cFV4MEI0SkpmeEZQSjNRanpPZTkyYUh6RmNLbXV2cjNUY3FLdGFfTXpidzJ0aE05Qy1sRV9naTZxRFdTUGFaU3BxTHVGWVp5YWpoUDNpRGJxZEtFZTlXY1RETmdkUWt5TUt5TFA1NUdWZngwN253M2FRZy1JOFVZRnU3Mk1tUTlKRzBsM3Q0YVV6LXdoV29BOHpocnV6YXVkVnplV1RIdDUwWjBHZkM1eGJDMVpRLWlZRnNVdWxCRTNLRVJTb0E2VXdoVl9mMFRTMVlmSXY0VGpjUUxCZ3NmcmN2eWlTS01JNDVQX0t2UWIwa0FjaFRpcnZBR2ZULUN5aGNtQTA4UEtjVE9rWFlxTVFaSmdSVDJLa2VrR0Jwby1CQTVlZDRYbkRFcWRaclhzUWcyVjA3dWdKY3VHeU9jc014RnFuN21HOFJR?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 13:49:00 GMT",
+        "discovered": "2026-09-21T17:28:34.953664+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار | دوري أبطال إفريقيا - تحديد موعد مواجهتي بيراميدز ضد المريخ بينتيو FilGoal",
+        "player": "",
+        "content_hash": "793359bff69323bff1938c2f0aa7e72e69bf389000f172edb3784a43e959dabb",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 3794,
         "title": "دوري أبطال إفريقيا - تحديد موعد مواجهتي بيراميدز ضد المريخ بينتيو - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxPVHdmU3IxbHZlanRfbnQ5RVN2dElPS013aVAwUlR6cTNZOTB1UnZUTDRXS3BBc1V5MmxIUGliS1pIb19BRlFXUGxXdjhYZ2cxalZCSGJJc094SFJxamJuVERoUUR2RC13VTVCLVFrVHZ4RVpvaE5Vd0tmd0dwakJwUjBDWGVGYXJOd0JfRndNOTlRdnd3eG0ydTVjMmtsd0QxbUFyVHdSV3dGTFU2bkVxZDJlbmJjRWh2RGh5LTFzeklKRDdsV1R0ZGJ1cFV4MEI0SkpmeEZQSjNRanpPZTkyYUh6RmNLbXV2cjNUY3FLdGFfTXpidzJ0aE05Qy1sRV9naTZxRFdTUGFaU3BxTHVGWVp5YWpoUDNpRGJxZEtFZTlXY1RETmdkUWt5TUt5TFA1NUdWZngwN253M2FRZy1JOFVZRnU3Mk1tUTlKRzBsM3Q0YVV6LXdoV29BOHpocnV6YXVkVnplV1RIdDUwWjBHZkM1eGJDMVpRLWlZRnNVdWxCRTNLRVJTb0E2VXdoVl9mMFRTMVlmSXY0VGpjUUxCZ3NmcmN2eWlTS01JNDVQX0t2UWIwa0FjaFRpcnZBR2ZULUN5aGNtQTA4UEtjVE9rWFlxTVFaSmdSVDJLa2VrR0Jwby1CQTVlZDRYbkRFcWRaclhzUWcyVjA3dWdKY3VHeU9jc014RnFuN21HOFJR0gGTBEFVX3lxTFBocnNoM1c2S1Z5YU8xNklZSDh0clFON1R0alU1SnBLRWxWVnZ4M1dTUWtJOS00THROdjFtak5iR0k5MG1YeGtzX1JOR0wtSWpMdG11VmRTaGtyclFyUVZtTDNqTkpWOXVYcmlTdkYtS2VIaGwwYUlETGItOTd5RjVqMl96LU5hMHZLbmxzNVJ5TkFDcEZGNWdUaF8tLXJYU2djdXRidzdnRWpyNnFyYi14dTNGYTRWY2c0RkxqLUJIa3YydE5CeHJ5LWxZWGRRaTB5SlZsczFaRXFOU2RjMk5sS2YxOU1uMXRuRndVSFdPVkdpUUtJb3cteGdVZkEwbl9zcGpuS3c1eldDT1lHdUt0Tm5sS2xCdTdBczNzZUZheGx1ajJBZlRwR0lFVWpTXzljX3g5dEFmQ3I3Q2FUSE1XSHI1anZjbFNseUVwY3lQdVJnQUV1ell0Z2N5TF9IVHMwY0VnWlNJc3FNZHg5dUk0YURZTTl3YmtzbG9CNWVHbmJCbHlhQXpydGg2Q3RZeWNoMnJCczFOdHBUR1N3aTJiLXdYSDlMeWpEWWpqSlNmVzZHR2tfclItN29WdFVaWUlfSXFaVXhtZU9VWFF6eGNmUlFxQjQ0cDcxVHZaRGZfbDZiUEZ5TGZIaGpXdTNLeU9RVTRIRm55MXpYN2RqNXhtWmFBRHFWX1NaRWNZR19UdUdQZw?oc=5",
@@ -818,6 +834,22 @@
         "summary": "فليك يمنح لاعبي برشلونة غير الدوليين 9 أيام للراحة FilGoal",
         "player": "",
         "content_hash": "63b8d24c0776b5efb82e73c4e2b2ce43a010d19bb22f9e935c119f2267073873",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3852,
+        "title": "سكاي: منتخب إنجلترا يفقد 5 لاعبين قبل مواجهات دوري الأمم الأوروبية - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxPTWllcmZCUmgxQ2Zhd29TTmlxQkZGRXlEYzZqYk8xOHlWY1BZaDVTbUJDbkpuWVNLbWRTU1RHa2w4YTZWR1hhTU1ZS1Q0dXZwdzJTVDNBZG13VUw4UVoyMV85aU4tUk43UEw1b3VYeHU2SDE4SGctREdDUE5JTDNEVW1sVTBGU3JWTmdBaHdIMWt0TVpBUGVaNUZCajlDazFwMWEzaTBkWkdOS0NaV0UyOFdQc3hZQU45aU94RE5LeEl3ZHJ6Tk5jU29tN3VMeGJOV0NoQ3VZVVZJZTI2TlQ3U0F6MS1HU3JyVjVSWWxNYWF5YjhPTy1SaU5SdGl3QTE5NUdSYU1MZEVLbTh3amY0R0d5Zk5lcjBLdmlJeWNZWGFmWUdLVnVLM0JZZFNYeDlTLUZzLWR5c3V1VnFHUG5oTW83MDVtNHpEcVJWX3RwQTMxeXN5c3RwMS1WYm1qUFV5aUlnTGxNcElxYnhFVGNpOXM4ZVZSUFNlWFJJYU5EZDAyMkZwWFQ0d2ZHR1hsU2tHajZqcm1temdsTHJ3NkRKcGt4d0JNanFXM0MtTTViX3JfOG90X09IOEVqQkVyMzdnS2hWTDF5ZWpsbEVZWHhoOTdDZmdYaURNV2dmQmJpZHNvOVAyMFpMMThOeWcwTHBBVGpxQ0M5QlJ5bVdjdDZqdGNfdWtmZnVpUWZlZW9zVmHSAZYEQVVfeXFMTWEySW9nd3YzSUdJdzZwTTBzdHZUM3F1ZUFCSjROblZyR282UnlnVExDODJyamxEMkhkdmFvUzV2cXpyNFFXS1I3ZjV6SktRUGt6TTg2V0U4R2VYUmlBU0kyaDVtd0ZKaUhERXZ4RnMtSG96Vlo3V1VUd2ZiRFk0cnBvS3h6OEZhYjNZMnU1SWJENXdTWXNQZ3FzMWRhS3hTb0dtSXd6TDktbUxFWUVMc0h5ck5oZVltNmlaOXBDM0RLVVdnRVc0ZzJBY0Z5aWR5UHc3XzJEQkt5ZVJFUUNvWDlQTHpVLW5IUkZ6RHJUeWoxaHdFcldSdm1ZSjFOQUpMeVpMNjdETXVCN2w3VUR3ZzFZbDhSaVpQOFZjTlVQQm1yX0V5NHhVZW1KdFBvNzRGUmQxZGZ1RTkxSWp2YndnZ2lKZkU5X1l4UXJ3aF9RbjFiOTI4WVhjUDVXUDYxTnBzajN2ZDRic2R5b0tYZ2pJaDJwRko1WmhhTUtNRndBZmlLRElkc2xxbnB1YVM3a0U3VV9XR192UHVYNUNCaS1iMXMyTEQ1Q0lZNkFScktHd21zSkxSZzBncXN5czk5VEdaQnFoRl9ZMmpaeFBwZlFuTk8wSkstSGJGc01qdnJicTl0Q1Qydk90U1ZET1NHaG5IRDBBNVNhNmhiYmg5NmFVVXJoMlBHeHFveWY5Wk1KTC1xOWdPRFN3?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 12:58:00 GMT",
+        "discovered": "2026-09-21T17:28:34.960846+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "سكاي: منتخب إنجلترا يفقد 5 لاعبين قبل مواجهات دوري الأمم الأوروبية FilGoal",
+        "player": "",
+        "content_hash": "6f4f8120372b4c26a143f6acdd6de7c2ca942309ff943ffe6869809038ca54e6",
         "sent": 0,
         "section": "sports"
       },
@@ -1172,57 +1204,25 @@
         "content_hash": "478794d013937edb53407d18ca9af4c77335dda1162f7a47e2da07728da9dae1",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3722,
-        "title": "أحمد اليوسف الصباح: سوزا سيبقى مدرباً للكويت حتى بعد «كأس آسيا 2027» - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxQeHkwOE1wcFJnakpCbnE1MUstMWVyQndEZk4tX2lGeDFMb1VERnRYdTRUcTJWM3JBSmlVWkRaNkZuc0Q4VTBZWnJ1ZVMzNlZmQ0lvRzRjbVMzU0FFYXF4WHIwdzRWU0UwclRpS3Ewd2hZY2JKdXRobGY2RDJNOE1pWmxGZzBHRXJZd0R0M1lvRjBVS2xMS0pPbEFnRmFUMTF3dHNjc2pRLVUxWDdaLWpIakpOVnNLblRWam1zczJQMzNxU28tN3BCVzJoYVY2eWp2QmI4MC12ZjhpWXBxR1kwUTdPUWZxVTZRanV1UDZNMWpJeDM3NWRsMk9FQ3ZoTF9aMlpUVWhxazhqYU1RUUFxN3ByN3NBU3c1T1pZWXhaeEF2R2pzamEzVzd5VS15RTdhV3hHdERoa3lzTDI0SzRjdlhTTVZ1TlVSTkxkY0htS1V6eC1LRksybGNZYk1EWUFNUUlTN0ZvWkc1MVFZS3JpS00zYTRZQ3l0U1VZdm81WlNRT0t6dE54TjdRR05LV0ZPZFRvak5DVmhsN1pCUlpBOFBvWE5acV94UTVrS216clhlWm1LV3R2RWNWMWdHR2JCZFN0dEN1NDhKU0pXdDlBZlM4THJCSzJCUF9NSE9JN0hWTWE1U055Y0tNUjYtUWEtMkFJRV9ZY1RFa2d3VWpmVDE2Yzl5WTlsdUVQU091LWZ2dkVTbm1wNWdQLVdOYWpnMFpwM1VxMWpZeDJVM2tTZjQ2NXhpNkF2V0tQUmt5ODVfYXFLYWFjbEJ5Mmp6aEdMdHlpYUdQcEQwb19JaFp4LUxvamUzZWpQaUdDeTNxY18?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 10:11:13 GMT",
-        "discovered": "2026-09-21T10:23:34.941363+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أحمد اليوسف الصباح: سوزا سيبقى مدرباً للكويت حتى بعد «كأس آسيا 2027» الشرق الأوسط",
-        "player": "",
-        "content_hash": "d277bd53f49ca3ae5515b1a171716bff147ee5efa269d073342e47591cfce490",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3801,
-        "title": "استدعاء جيبس وايت لمنتخب إنجلترا بدلا من بالمر - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQaEk5c0tjZzdqeTFwajlySW1OS3g2S0xjbklmZUxOQk5fOHZ1X1RGYUlyVG95enJnTnRHeHdaSzhSTzVJRURsV094OGk5YXZzcVJZc1VUMUZ4MmwtQjdVUENYQlJsS0FVN0FtVnJqdE5HaUVsZC1NUm5lS2J1OGRtMmVNWWNJT212T2NqSFM3R3lpVFNCNk1pOTRJZlFXZkN5dzFXeFF5emZ5YzNqN2JnYUdPMzBHMjFaMU9OWWRhbDVHemhHY29jTjJoV0M2VEJ2Ql9MXzNGSkNwV3Z3Sm11V0ZNMVN2eVMwcFg0SUdHbG5UVEt3b0VoWW5HdU1WaC1oeUpKUzFyVXJEYVFsenVDOEU0eHp5Qkl0T1kwUEtobVJMZTVuNmNNMTAtOTlzbnpScUZMR2d6cW55TFNYT3pZOWRmeTV6UWotekZlZkpmaFlLN2pfcmNCU0ZIUmJHdmZZbHhZTURiLW1pTjN0LWJ3Y3FpQ0VQUHI5WkpnX2dleVgzdDF4ZGdmd2FJcnJUbUx5bmxJ0gGYA0FVX3lxTFBzRktzbTVIM2ZGSGYtSGVNOU1rNVF6NzFHR3RCRHRXTDN3TDV3WHUzOG41ZHRFOS1RUWV5eE03dDl4bGNBUFlUOFNlMUg5dkFJSUxSN0xjYUdNQXBiT3NWdzk5Y3pDazRibVZlNkxKUnJ6bTlqQ0g2V3VzQndyc0FreWhaUWdqTXBCeENHaDhKWEhXN2JObTBGZVdCZVoyanhUdlhwNmdMUmxEcXBKejF5ejF5ai1hT2VEdmlSc2d5VjBCQ053YVd5VUlpZWpzZTNGR1JEcExPN0laRXd3cDhqZVFVVWg2TDJRVDZnUGRQUDRzX2F6RzgxUTVtMmZZZXBGSHMxbWp2c3VRTTMwZ0o2bDhDZWl1RWUwaG9pbTVDZXJVOXNCUTZXbHJvQTlhUjIxeXBXOHNBZzE2ZEdYdGVGR2VRUThCV1RBay03T1MtUHRrX0V3ZXdJRmF1M00wemoxdXZ5TFlrRjQ1VVNRakJ4SVBnMXNrcE1LX0JnaXBEaWczejVyQzNUeHNieVFnQ1I2Z2dTLTN6SQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 10:11:00 GMT",
-        "discovered": "2026-09-21T14:28:04.490565+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "استدعاء جيبس وايت لمنتخب إنجلترا بدلا من بالمر FilGoal",
-        "player": "",
-        "content_hash": "9f595aeeb9305eb988a6298ef1fed99be0a5cf37484e27a76ff330d2e262cb88",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3719,
-        "title": "ترتيب هدافي الدوري الإنجليزي بعد الجولة الخامسة.. هالاند يحافظ على الصدارة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxNNnA0WEdjT0s5U2pjYjNnZUZlbTVjYkdoX1VnR3pyY2hJS081aVBzTTlLLWFvOFpZWXFxTXdiWTFIYmhDNVlDWDlPd0FOb1hEVVlpZmpHYUMxZDJjdWJNX2ROOWlhd05iMzZyQUo4TEdHNml1X2hSOE15N250VkhpdG1aQ09tLUowZUI0U1hSQTV5NEVqQktXc283Q0l1b0JOSTR4Mlk0djhYRHBVOGszMzJRWmh2VVctQXZ3TzR0M2dpaGRXU1BJWWJ3aUFqNjhNekVuV0dodFVKZGRvbWgwcHBxcjZueHRmNHkwZ0kxVTRtZDJoRWlUS2M2ejJvVE5oa2dOaFNzc0d5c0dsQzRIdzRkWDZuamZubE9SV0thY2Z0cDBZNUl3VjJPamdHYXBJQVBXOF9zR2g5YVZwQ2FPTG1mRDJ4Y0FVVTNYbUxTaGxsMG5qNzR1NFFMMzNNdllVWVhPS0RuVDh1el9INlJwalQyTUp1a3hZSEN5WTNEa0RRU3doTXR2NTJUYWxIal9SZk9XZlp6Tk1LNVVocEtwOThlS0RidXBWY2pyb3FTdGRTZWYxd2RwX1otSTJoMlhYMVAyamhsYUVjenpuYkdNRTRDRVVVNG5BRmFEcGVMMU5aLTMxT0FVR1dXMlJnYV9wRXgtRGRDYXUtR1JkaWxYUTg3S2RBVUJDNFdZZUo5dFdGb0o1VHVfOE01TUxKT1RVdmlvUWpTODJlMGt6WnlSWldfU2E4aXhQdDdLcVBDamFfMkdvaFdUcUZRekVDNTk5cmI2ekJ0aEjSAd4EQVVfeXFMUHZIN1dSUEdlZ0F0ZU5rVXl0M2V6bmZ1ekFnUTJ6M0ROVXB3TjE1V1ppSDVCVF9UWDVGcG5NRkRMX3hZVmFTaTlabDdwcTZBbmpETm1wYmFmY0xSeWR6OUh4N2NvY0ZCNG5hVHBxMF9CQkdfcURwVkZMVzZpazZfb3B1S2t0QnpwN0tlYkM1RkNORC03NXNtb1hxRTVHTmNoSGhKcXZxeVFRdzBLNEpBSmhBTWJBZElRZ2x4MGVCRW9lMWhveVNWSzhZdHkzZjlxR3c3YzY5aGRFM2FhdGxMaGdOOExpM1Zvbk1KNXE4aEk3clc1b1Vxam42bHVUM0tONlY5Q0Q5X2RlUmp2c1hPRmYyTmRVSV9tcENjQ3BjNjJmUmR5ODNiMVQtUWNzZnJqaS1KZkFCRFVmd25rSjBvWGJ1T0lWOHdLZURnRXhubDR2TFZZOUNYWDVDXzRDSFQzMTZLdWF5X2JMUUk5ejlkaWFIS2lIeVRVb2JMdFNGOE1NWDFtb050TDVlS2lvYTI1aUNPNUNpTGhuYloyVDMyWWZtUVJtWEU5SWlYQi1CSnVxSkZqWDVsM09KZFdOWVlVak9mTV9HRkdyTTdHMm9TcFR3NlJtREJRbDZ4U0REajRKRS1ZU181b0xaOWNMcFdYREZvWnNjV2lOekpoRzdUZ1pMOG1GSFJXTEVUWXdpazg0QmNsRVU3OHFNT04wLVNvQVlUcGhXSWZFV3FnZU5YV2ZCN2lTTk1nODJzck9oekFHUkxfQmVuWHYwUWVNcjVYclhGb2lJRXEyWVdKYV9B?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 09:52:00 GMT",
-        "discovered": "2026-09-21T10:08:08.338187+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ترتيب هدافي الدوري الإنجليزي بعد الجولة الخامسة.. هالاند يحافظ على الصدارة يلاكورة",
-        "player": "",
-        "content_hash": "c065c7bd824070891e248ddf67a6c0ef0cb869d4510671c795f46905666cd662",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 3853,
+        "title": "الذكاء الاصطناعي يتوقع بطل كأس الخليج العربي خليجي 27 - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNQ05jdnplUlphSjhxOTBOTDF2aXFRNEhjdTNzUW9YRF91d0lfRjNsSV9idHlfdWtzTHZ0dWVDc1FSR1RNOFRkZnNfb0t0ZlA1c3FOdDRyWHIyaWs1cnBIVGw5SGFKRGhxMGxqVUVXck8tRy1yXzRuejk2SXN6RDlrVnprR1AtSDg1U2xwMmtLLVh6cnNqaWFrel9KV1JKMG9LWWVYYV9jb2hFQVUtcEExWWxkdzhlQkxCbjNJTUNLVnZGb2RoT1Y1NEx6MjhVMVpQOFR2RXhVRWM0eDZvOE9vdVpOZHplejVtM3ZHcmljV3Y1UVBXaVhlNUQyZzhGUXlUZ29obUlCNjgyV25fSlNvbGFydFV0cmUxWGZnVUpJckdwM0p4MG5Td3diWkVlVEZUR01MenpTNEJtVmJSclRnYVdTRTZXMWtoOEpMNE5XeXllM0poOThTdnNSZjN1dw?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 17:20:04 GMT",
+        "discovered": "2026-09-21T17:28:35.474011+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "الذكاء الاصطناعي يتوقع بطل كأس الخليج العربي خليجي 27 365Scores",
+        "player": "",
+        "content_hash": "0be45e02943491ff8515bb996f3c1780af3a2b81ad2712738c1c7912162eaf82",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 3843,
         "title": "خبر في الجول – وصول جميع المحترفين لمنتخب مصر.. وموعد انضمام هيثم حسن - FilGoal",
@@ -1593,6 +1593,22 @@
       }
     ],
     "middle_east": [
+      {
+        "id": 3854,
+        "title": "48 دقيقة تكفي.. لمحات زياش تثير إعجاب الصحافة البرازيلية (فيديو) - aljazeera.net",
+        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNRFM4XzdPcmtQcWRNOGs3X3ZZMU1ielVBaHZ2QnJyUDEtMUhha0Rnb1l1b1dSWDVGZkFMS3RENUF2WEo3X0NSTXhTZGVPSGdEZC1ibWJ3VXp6VFJ5NjZGM2pFTWhqdmFyQkYwQ3o3NDN2WktHM25hUkY4Yk9MVHdERTU1a1h4MUVhanF4SXQ0WWVDNXFwS1ZhOHZ5UXZGd2lkNFRnekQySk45TUFRclJDcjZhYVU1MmwzQnd0c2NfNzdWOVB4a2t3LXNrUFR5ZGNDUTBHSzFSZU1ESXltazgzRVBvaVB3UEVEQ2RwVWtrc1BaNXlWaFJlU1JnWU8wZnNBb2Y2c3E5eV9xM0d4RG9GYXdnM2dIX29VTGttVno0MFNYMDRrckpodXJUUnZmQ3Uz0gG2AkFVX3lxTE5VWEtJeWpPSHZpOExiRVhMRFdwVGJZWXNwZWNZMC1qLW43MlVOdUQxM0VlMy1MQ1h0YlZHdmxiVTJiQy13anZhcjFBZ09Pb2pGdHhJc0dyVGJuMlRTRm1hSmNCdnJFakY2XzlPcEVHdHJZRUZSSG1JRlNyV2Z3cXcyUkdQem1kSzdZQS1GUXVBNS11UVM2MF9UQkJfYXF1TGNmeERhNDUxNnhrS3F3N3RlRlh4cWlXVzI5bUYtdFlSMXZQaEMtcTRxc09VUXEyQWd5TW5MWXgtbDl2UDdoMXNhZEpjYzZMdDVQbTQ1aGdIc0FzbDJyNnE1Q0JRcC15WkVHbzdCN2gwZVlfTUsxLUswZE03Mkl1RHB5a0NPZ0hvZk1ObUlzUVkzNTJZdXZ4ZUpZWmMxLXc?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Mon, 21 Sep 2026 16:06:33 GMT",
+        "discovered": "2026-09-21T17:28:41.405026+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "48 دقيقة تكفي.. لمحات زياش تثير إعجاب الصحافة البرازيلية (فيديو) aljazeera.net",
+        "player": "زياش",
+        "content_hash": "a457a0d12d2a3b266882c308070db69226253d65dcadec78bfb16351f1291b91",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 3835,
         "title": "وزير الخزانة الأميركي: واشنطن وبكين تبحثان سلامة الذكاء الاصطناعي خلال شهرين - العربية",
