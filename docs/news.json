@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T23:44:13.781875+00:00",
+  "updated": "2026-09-21T23:53:22.584342+00:00",
   "total": 141,
   "sections": {
     "morocco": [
@@ -501,6 +501,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3982,
+        "title": "قبل «النسخة الـ27»... من يهيمن على سجلات كأس الخليج التاريخية؟ - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi0wRBVV95cUxOdWVYWmZTSjh2OGhHWmhQUF9OXzRPOGlxR2haQllVRnRJVUZRdmpmN09WZk01Q0o3a3RFRnJ1YzZSMlhJR09aLWlHMnZWcjhiTVBuU0lBQ3JCYm9JRW12Y0tNOEZBT2s3Y3FXY2pXMW9wZEtQdHVlSjZ5dzF4a0tOaGlJbnJFeURMa0YzRERiVnRtazk4X1JpTklJbXllVnB1R1Q2bEVzMnBRWUZTV1hxNmRDT3lmb0hFa21jLWczQVFRaXZKVGJjeDBCNTJ3YWM4czZTNm5JZ1JkanBBdmxNV1lNSkNjS1daaVV6MEJkSzJwck5Lbk9jSTk1WWpWc0dBVDlVd25jS2hzX1ZFN2loczhJSk12VmtuRGtUeXlnaGtqSUhOc2RiM1JjdGplNWR4ZVVERHgxYk5fWWZfWVJzanprTmF2MlpibnZ5eFpibTNHT2lkekdVRXFXZEtrR2tRMDctYlo3OG96cVVSdk8zeEZRS0o5VWluOC05Um82aEZ6bXhfWVQtaUFBYzV2R2NMVEpuS2lXLWZDcVRROUR2X1pTS1RSTFR1dmNqbHdhMVpyeUpSVmQzRU02OXo0NkNvOEpzd3R4TllHWlRPeWgxYnA4SHVnVzU1X3ZuT01fTUxrV09uVTJzWHlLczNEMHRrV0luN04yay1WS3RHUmplUEFwVFBETVNSVjJIbnZsNVBwcU1CWGpwWDZUSlZNSHEzbExPdk9ZRWIydWFsUTBQV2RQbl9udmpkY2k3RlhTdExtdWx2OWhkWWpWY0tMbkpoWG9F?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 23:50:48 GMT",
+        "discovered": "2026-09-21T23:52:58.922373+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "قبل «النسخة الـ27»... من يهيمن على سجلات كأس الخليج التاريخية؟ الشرق الأوسط",
+        "player": "",
+        "content_hash": "8d8b4a4de7dd04e4d3aecef7640923e78888e588d169a029819ec1815d8ff4bb",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3979,
         "title": "الرياضة - الثلاثاء 11 ربيع الثاني 1448 - جريدة الجزيرة",
@@ -1282,22 +1298,6 @@
         "summary": "أكليوش بديلاً لزاير إيمري المصاب في تشكيلة منتخب «الديوك» الشرق الأوسط",
         "player": "",
         "content_hash": "7c053f275a70d6ad2ce21434322f4df0b7eb8a7aca74ae76022b537f7add1648",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3832,
-        "title": "كفاراتاسخيليا جديد؟ مدرب فروزينوني: والدتي المسنة أعجبت بمستوى كفيرنادزي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxNb0pWdkRlNzhPOGV3QldGWG45b1hnUUtURWJ0QWVLdWhmY0tMWEdVQkhMdzJsM0liLTJzdzVUbl92ZzJMa0pzR3NYdlFlZDJlNkZzd1h6cXVuQ1FNcnZkazd0RlEzVWtoOThWX2Fqdld3ZVFwQTFscEt2S0V0dElqOHU0bmVnLUZPZU9leUZhaEwzVENoTWdBZE9NeVFDOEVNSjMyM0M0d1g5MWMyLW5FOWhyalFFejEtZGJ4bnJXYWZGX2RJY3FCNk1HWGJkS2pXREdzRnFVV1BBLW9HR2pXRFQ5WnVESFhNMUdSVHFMdTJmMXNTNXh6WHg0bVNLX0NxM0F4UE9UeDhFRFBjUGtTUDc5Nm1tWFdTeVN3eUFORTQ4SUl6Mk1pMnVxMld0aVg2R1lxOXdSNUVkNDI5dVE5MmdWZGlkYW1XUG1UdUJUQ1Zlbk9vV0xHazNZX3J6V1RPSTZjOEkzRWpOWUp5WXBaRU5yUklORFdzd2E2VkZ6UEpwYUFQRzBRbzUyV0RGR2Z2VGRkRmRIRHFJOU5YQ3J4Q2NuQkg5dU1rNU1pY01kRHJ4TjlHVmVxeS1QSTRRdURqTk50LUZOUU1CaE9EeWdVbGw4Y0RZSWM5cURXWGFqSmJrTjlISk1Ea2VKd3NYZGZVaTRWTmQyUXZvakMwTGVkRlo3NmRPSG5LSG5mYWtoOXgza3lYck1BQk91NVZfaGt6NjYtempOaG5pWXptQUJTNHBhUlpWaFBfQUZLYTNBNUsxU3EyNE5EX2ttZGZnX3VVYUZiQnFVLXJvOUdRWnJGVG1FTWx0cHc30gHSBEFVX3lxTFAwM3FHdjRIOTBhdHNGakRJbFFvUHhDZngwd0Q2Z3RhQ0RQMnJwa1R5WlFqbEFLa0Y5SWViVzlLd2IzVlF6V3AyT1RaRHpwcHJDR0RmMmw1Q2padklPektjZXpYN3JpeTNEVTVrd2J2ZGZlei1VSzhIMmlwcWk1MjdKYXdrSUFVeXY5c0JoYkhDSkN4QVZXQmRObGE5cVd1RDFhUGdIelJ4Y2w0RlBmNlQxUzFjTkhkQ1BmRXdsUlp2SkhCLVE0b2Uxc2dUeWQ3dUZaY2lCRzFYWURIX3JxSTlHRjRHUXBLOG1UdUdxRW1mU2dFUk5OVmFFTTAwaFFfekkzUUtyaVVjNWdqdEZ2REJab2dGTi1WNU04b3dsWk9YN3RJWGY0NEVmT0pic2xJaVR0SjlfVHQzS2lkVHk5NU5TUWY0SFNIOFZ0SzV0RzBQUkZ1Vm9iQXdKOVZtNm4xQ3RwaUpfd21yYnFscjhFZFNxTzN0c0swY1hvekVtZi1mOEFtc2x3VzN6RkN0bTRIM2RmTTVLWERCUFd5dG1tTHdEdENZejVwb0szWkQtOFdjQVZRZkc4UXVUODVRRnk0alV5WUlmcko4SjBkYm5jalM1dGxFZXdhOTlBMTlxQU1nOUpxVzB3YmtseVBzdi1LRVFsQmxrR3F2U3R6MlRkWkhnMEc5T2Q5Ulp3Sjc5WlMxVmNQU0RQWjV3S2xmV0JoS0ZnTWZWUVdHQk9XQTZsV3pCTzZYTGVHOHRrUHpFTHd1NTNYRktTZmU3VVZVbGc4UjFwQQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 15:49:00 GMT",
-        "discovered": "2026-09-21T16:09:58.216735+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كفاراتاسخيليا جديد؟ مدرب فروزينوني: والدتي المسنة أعجبت بمستوى كفيرنادزي FilGoal",
-        "player": "",
-        "content_hash": "3e7603b41528fd03bede2355862b9a1547cc3865fd17aa09cb24aa823966fca3",
         "sent": 0,
         "section": "sports"
       }
