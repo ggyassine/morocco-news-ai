@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T06:34:19.271270+00:00",
-  "total": 119,
+  "updated": "2026-09-21T06:53:19.393259+00:00",
+  "total": 120,
   "sections": {
     "morocco": [
       {
@@ -421,6 +421,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 3668,
+        "title": "أخبار | مواعيد مباريات الإثنين 21 سبتمبر 2026.. الدور التمهيدي الثالث من كأس مصر - filgoal.com",
+        "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxPYk1UVVR4akV5YmJuQnFiSmFub09iZ2ZFb1ZXcmN4Y2l5WW1URC1yeGxrNkdqQnhTYjBpWFBDd09EanVhQkdCVlgwMlE3ZTNiTWZSMzI2X1NJbjBudU14U1B2RVBrYmFnWUtRWmFmelZQTUItOE1qU1U0aEFYUGZGTDRzYVZ6WVV0RWpGbVZfcml2bUJDU3dSTVhQVGtOVXpYUldMbEZrQlpkQ3hDOHJuSU1xWEpncUtZd0ZLUS1DWTg2T0N5QjZRZ19aQng5TTYzc01wUVdnRGl5VmRwVVlRNG1JVG9pZ21KaXVxNVhWUzFRLVNGaUpyallCREJXMEk4cmlwNTV5ajBmYkkzVGlsemVxWkhZd29tSkxnWFlvZ1E0U3hrNmVrQ2Nxdnd3b2V3M0dqRUdUX0RUQzJnM3VPQ3dXbFE5d0p5T3dhdmU0bjJ2elBLZzk3N282RFFta0pTZnVMWk5rV2lyVkt4OEt2aVd6aldQT2VRRXJCR2ZoSjZvT3B1YzdEeWFnQ01jZ29zbFU2c2d5Qmg3MGVxeVFnbEM0TTRhYzRWeVM5bHpZQldvZWp3R3N5ZjhJdnVvWUhjZUlTZ0JuXzBoc0RCUTNRWG5fZktOLTJ2ZUpRbVVBQWMtUzRiWEktNldlZVhpbkR2dGxndkl0VVFPQ2gtZ0VhcXcyWHVIVmNtcndKSnZQRUw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 06:46:00 GMT",
+        "discovered": "2026-09-21T06:53:05.639248+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار | مواعيد مباريات الإثنين 21 سبتمبر 2026.. الدور التمهيدي الثالث من كأس مصر filgoal.com",
+        "player": "",
+        "content_hash": "43c3285ffa118a2f11188209e4a4b9e9371ea4b64758d9889e919102ef3c11ad",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3669,
+        "title": "جدول مباريات منتخب قطر في خليجي 27 والقنوات الناقلة - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOREdNLUpXV0dfeDRxdHlvTm9EaXN3Njl1TGJfVTREX1JBa3pNY0szX0Rnbmo3Q2xsRk9LRjRFbERsMkRNTjBmSGhkSzJ1ZjdlZXpMcjIwcG1qNFN1TkJfVm5VQ25JTEI4YzBMcmdMaVNLek9ONVlfYllYYnBSS25OLTBZeWNIRXhsU29pcEplQUJHWjBreFpucXNrcXc5dGdpcG5QODIwaGl0N29SVGNkZTRodEFLME1BcEZDVnhJQ2dwRVlXWWM4Z0EzcmdOUkJ5bmdxZkRXSm5fU1ZoeVdDalVDeWJ6eTNjbE1yNGNuZXpwdmdBM0Z1UHZTaVNINWJKRDBzX3R0aXBaT2tMVlN0Q05vMGs1bk1HYXY4VEs5NzNZR19IdUctdVYzREhrTFJ6b3NEX085aXl3aTFJd0h6Qw?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 06:41:33 GMT",
+        "discovered": "2026-09-21T06:53:06.168025+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات منتخب قطر في خليجي 27 والقنوات الناقلة 365Scores",
+        "player": "",
+        "content_hash": "b3c4623c63e461719d2a1bf95f702fb810e4c2cb6b473f4f30e721b4b7a6ac5f",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3666,
         "title": "جدول مباريات منتخب العراق في خليجي 27 والقنوات الناقلة - 365Scores",
@@ -1188,38 +1220,6 @@
         "content_hash": "b8c44483f2b2a6e2ac4a479cc0e4614eaab6f864c95c6cd40c1cf74835f71b89",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3452,
-        "title": "الأنصاري لـ«الشرق الأوسط»: مواجهة السعودية اختبار قوي لشخصية لاعبي الكويت - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiwAVBVV95cUxQS2F6VEVVajIyamlzSlBaOUhKcVFIeWJRV3IwZWhQakpNX3B3bGktcXZETkJ6LVYxY1hLc25uRl9IV2NIV1BtNXpvVmg3RDFwOU5sbW12WkVVT1ZEYlExQ0NpQTVBaTQ3OUZLeGhkMW0xbmh1WU9WUEZNQ3AxazJMeEZMU0dwNlZzLUFwSkszRzhnMjVGZkJmVlBRZWRLLUVPSmNBUmFVUUd2LVl1cEs3WVQ4X3FzWlJ5dnNzRkZONkZKR0RvWUZDZkFwdXFyRzcwbUNWaHpmdmR6QVpzRXJRRzE4SW9IRnlvOU5KenFxb1d3dlVQWUhZWWdiZ1pqOTNwX180WU9zZ0diazFJQnVyekluSW5aWVRvRzV2YlR3bW01OWxvc0pzUUNwamNuS1FEUTlMTmswdVhjYlVibHg5SE9XSkFWRkdzdVJqSmdLak9Fd255MkJ2TlR1cDZZbVJZVXZENUgtX0tzXy0wQngyWDBRYnlranRHNDVvWTFWMUF4LXc2UXpIOXNFNnRzNjQySG1IcUtuSWhkZ2RSbmZYc3p0TUc1TUhERzhDWVJfNVhGcVcyRmZqU0syUWlCUzZzcmk0RTQtUXkzVjRrdE93ZnFfSjVNU1ZCdVloQ1BHUU1LTl9oWmo1cHVCaEY0bVNGTDdIcG5mSFJQVldVOVpiY2pXMHRNc0JVeFJhXy1DWnlEd0FhblFsVXUzbGZ4eVppY1dJMGlSM09kWmxWNUVKOVYyNU9KN1Y4T2staFRKdWl5NTlNc3VYQUJKdVdoT0xmajQ4MFYtOGlVcV9TTk1TT3YxOVJkc3pEdVlCS0I2VGpwZkNvbERXOXNRTzFZakdlRE9tanBYXzZtQlF3U2h5ZHlQTWxXQko5bXRPOE9hQ01qU0d5LUJqdm9SUEk1RXZfd1JHTkhESUM5MzFobkFnNg?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 20:13:01 GMT",
-        "discovered": "2026-09-20T20:22:42.548899+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الأنصاري لـ«الشرق الأوسط»: مواجهة السعودية اختبار قوي لشخصية لاعبي الكويت الشرق الأوسط",
-        "player": "",
-        "content_hash": "a80cbee2a371984af9cd3232ae6c51c14d4033130ef8cce39a9c66b90856656d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3634,
-        "title": "«البوندسليغا»: بثلاثية في هوفنهايم... بادربورن يقتنص انتصاره الأول - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMihgVBVV95cUxOWVlrVk1qZ0c2cjFtaVZkMDYwRDBKOXdMRU9MWjBhNlczRjZRMml6NnJwUUtnMDlTVnR3RDF0MEYwTzZFMU5PLUhCUnQ2R0tTb1pFenlOQVdzSTB2eGdfNFUzR1Q5UjJ2dVlpTjdaY0VOaEhlNkMtQ2g3OVU5LW1QZTZ4MER2M2J5YkRWeFFidUY2a2ptUG1kbFFpYVdYS1dMZE5NUzV0bHNMYWstbVZkUFRXTmlPekVaSERFVWF5R1BjaUZwMlJzd01sRURBYUN0NHB3c1FWNXZLVUs3ZklLMXBRanEtMXZZeU1sWXkxaFBtM0pTdXdRakJvMkE3VkhUX080Q3lrTXBGa2wxV05YMEdDR3ZpSEM2dUNOdU5FaW9KZ1V5eTZHQ1FmSmFnT0QyOFlVdXJiRWRnN19RR1V2Y2JyTy1DQk51UnpJdGZJUEItTUZYaGhwdU5DdENWcFhReEtQVlZSUGVLZG9MN1pXbFlQRXNmU0U0X0FHNjR5ak9sVldDNFJUMnl1aEYyQ2drNFJ3V0RPd3BGN3h6Y054dEZ6bUl2RkdVZVRPcjByMFR5NjhjT201RzRkTTlwWl90WnNEd0prTjdHc0htZU9Cc285NVlGTU55YWhpT25XU08xQjF4UHZFVzBVR2p6NXFYSEJ0Nm1ieVM5MFotSEoxbWVmbWsxZEJyZWdib3ZDY25Ca09tVVhKYnZFYnhBX3B5Q3MxbXBqeEUxdGppc183c280Y0hPNDcxbTM5Zm83TzhLeFFnR0JwZjJaRl9UNHVqeDlQMGlDeUxsa1djWG14UWtmSVRqUk9WVzVoQTBySEVQODR1Yk5GSjlzdlBPUzBXdE9JclJn?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 20:12:34 GMT",
-        "discovered": "2026-09-21T02:25:36.320433+00:00",
-        "category": "أخبار",
-        "status": "غير واضح",
-        "summary": "«البوندسليغا»: بثلاثية في هوفنهايم... بادربورن يقتنص انتصاره الأول الشرق الأوسط",
-        "player": "",
-        "content_hash": "f915df77d460d9339a16a23cd339950e8870fced7590e0887a58b9cc5d8b0d7c",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1673,6 +1673,22 @@
       }
     ],
     "middle_east": [
+      {
+        "id": 3670,
+        "title": "بعد 14 عاما.. برشلونة يهدد رقم ريال مدريد التاريخي في الليغا - aljazeera.net",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPYTUzQjNYUmhzTTVEaFEzTG1sdzNuZkdjdU9lZjBOU2I2aHUwT0dIOHgyTy1CSDlheXZBcW5CQTBvd3FHODdzS0VvUWsyX05EbDFpdE5xeTk4U3lVMXdEOWZOZmJmR3VNRFBTb1dtbkVuMnlMSG1kaF8yTzFPTnNRbVlnWEpCTUJfNXVuSmdCWk92OTBXVTNjSnlRWWY0bFIxeTByNTVmWUJHRGhLRE1CckROSHZ6RmFuLWFOLU1wMmhrb0ZYSk5FTkFJQzk5MGZOTmVON0twXzBpbTdsRTJzeFdRV1MzaF9ILVY3WC1ZNDV4cmxMcEZ3Wm9qLURtSGpEMXVVcVNkS2RBMTFKNEdqaTBSYWtpN0VUVHphQ0FhWktDU05VMVpqc0ZGcm5sRG4xUzZLbDVpUXVPa1BkMzVDZNIBxgJBVV95cUxPV2dsbG9xcF9Ic1NoOGRQWGJxX09qUDJNZlRJdXlwNTJDM1MxZTVZX192U2NjY1hVQTE4Ui1jSk15RnNQdUkwQW9acnNZVmxWTE9mdDg4emQwemp4cUJuNmRDU29mU00zS0t1RkxHc2FRMHFVaGdUbVVfdlRqeXA5S2xNeDVRSjZ5RG8wSXpERTRnLXlMZWl2aVJpV1h6bDhEVzJ5dXUxZEZNMVRPSkpzRm5vd0FfQWFyZHA3MExZUEI2bUU2TDJOM1QzcnBaRldHbmhWOTE2NlJHa1VDS3JxS1lOQlFMcWlqWkM5R2xSMmNvMExBLU9FS0xZUjNvWEdHTlJoN2xmemRlLUFELUlJVjhzMzlodEtzV0VCbjBPVzY1NVlzYTJ0U1YyNmJHWXUzZ0dyZDVNZWJvOEc3WVVZX19VZkhnUQ?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Mon, 21 Sep 2026 03:37:23 GMT",
+        "discovered": "2026-09-21T06:53:11.463449+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "بعد 14 عاما.. برشلونة يهدد رقم ريال مدريد التاريخي في الليغا aljazeera.net",
+        "player": "",
+        "content_hash": "7f11da4600dc411b17af4b1a88deed39b3f04dc0eac304eb4f41c9e04feb351b",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 3545,
         "title": "وزير الري المصري: سد النهضة غير شرعي.. وإثيوبيا أفسدت محاولات التفاوض - الشرق للأخبار",
