@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T03:19:15.804148+00:00",
-  "total": 121,
+  "updated": "2026-09-21T03:34:42.311193+00:00",
+  "total": 122,
   "sections": {
     "morocco": [
       {
@@ -32,6 +32,22 @@
         "summary": "توقيف شرطي يعمل بميناء طنجة المتوسط لضلوعه في محاولة تهريب مخدرات نحو أوروبا Le 360 Arabe",
         "player": "",
         "content_hash": "99babbc6e5c622f322fdd3b92420d01688a9b18f9a9d365c444af3d3d9a5efe3",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 3645,
+        "title": "أمن مراكش يوقف ستة أشخاص لضلوعهم في قضية ضرب وجرح بليغين بالسلاح الأبيض - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CTWYzc1RRUnQycEJYUVl4N1dicDJpTXh2YU1wZnlOUDdUYnBvb3Rxa1FXMDN0NEdraWxaUkprSHZkRkhmQ0JzaGdycTRfZlhtLVAyYmhsVDdyclg3ZXU2SDZlaFVjZw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Sun, 20 Sep 2026 21:30:40 GMT",
+        "discovered": "2026-09-21T03:34:16.092337+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "أمن مراكش يوقف ستة أشخاص لضلوعهم في قضية ضرب وجرح بليغين بالسلاح الأبيض Le 360 Arabe",
+        "player": "",
+        "content_hash": "3adf2af48eb256206798082d1e172a6de11f78cd2463880054e1d3fd02b7305e",
         "sent": 0,
         "section": "morocco"
       },
@@ -1272,6 +1288,22 @@
         "section": "transfers"
       },
       {
+        "id": 3648,
+        "title": "باكستان تطالب مئات طلاب الطب الأفغان بالرحيل - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPWnN4YVZTaGJCM0M4V3NNUndNUlhPTDJRdWFnQ0ZtQ0k2bmxlZUdZeHZUVWppQm9yb3FqR1p2cHprU0Jvb1Fzek1lUkVOMEk2LWZITFVES1lWUHNLREx0SENsLUdndnphdWp6WEppUGhueDdEWjB2MTJaZjR4YUJ1Zk9VX3hMVGUzaFZNNjdkVWNuOF9TbmNSNWo5RFZjVG1WYWNIcHpLTi1HcFo1dGZKQ0tVMS05Qkh3MkNwZHNEazd4dGR5eFZxLUlKczVzQS14alZTSEp3SHpDMW1EMTJNTWNCV3lqdTVWa1NWTk16eW1abXJLVWpMVWhaV3RGLWpLQmxmSERFbGRzTjItYWE4dWh4dGtUOEJKWUVRanBFQ3hIcnlmZWdXTXNSdktvbktqdmJWX1NmNlBKZ3R3czREZFVldW5mZDU3U0NkMGVGcDB4aGVHTkZYcS1DVThaSEdxOF9hdFNLZnRfbW9MTTNkTi1zcDM5YkxObkJWZENqMmVVZw?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Sun, 20 Sep 2026 21:15:59 GMT",
+        "discovered": "2026-09-21T03:34:37.265825+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "باكستان تطالب مئات طلاب الطب الأفغان بالرحيل العربي الجديد",
+        "player": "",
+        "content_hash": "75f51add8ef8164471ae010a65553e67f641b52f76098f3d038a9deb0982cc9d",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 3493,
         "title": "باكستان تطالب مئات طلاب الطب الأفغان بالرحيل - العربي الجديد",
         "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPWnN4YVZTaGJCM0M4V3NNUndNUlhPTDJRdWFnQ0ZtQ0k2bmxlZUdZeHZUVWppQm9yb3FqR1p2cHprU0Jvb1Fzek1lUkVOMEk2LWZITFVES1lWUHNLREx0SENsLUdndnphdWp6WEppUGhueDdEWjB2MTJaZjR4YUJ1Zk9VX3hMVGUzaFZNNjdkVWNuOF9TbmNSNWo5RFZjVG1WYWNIcHpLTi1HcFo1dGZKQ0tVMS05Qkh3MkNwZHNEazd4dGR5eFZxLUlKczVzQS14alZTSEp3SHpDMW1EMTJNTWNCV3lqdTVWa1NWTk16eW1abXJLVWpMVWhaV3RGLWpLQmxmSERFbGRzTjItYWE4dWh4dGtUOEJKWUVRanBFQ3hIcnlmZWdXTXNSdktvbktqdmJWX1NmNlBKZ3R3czREZFVldW5mZDU3U0NkMGVGcDB4aGVHTkZYcS1DVThaSEdxOF9hdFNLZnRfbW9MTTNkTi1zcDM5YkxObkJWZENqMmVVZ9IBhwNBVV95cUxNSTIySDBOdTJLSkt6X3YzbXlkMV82VkVpc25fOFQ2VXpZdHBzc2tHWmtlTGJQRmRJTXV6REdXRlFmc0w5dDhsVE44bkhyalgxYm1CVUNmTGFtaDZSbFFyQ3NCR1BqQmQ0ZUxUWHVmMWpoblRsMHBMT3Utb1ExRmUweXpES2YwQ1RfdjdhUGF4UHZGVllIcGZ0azBPX3RiLThVR05uVUY5V3FOaDZ5VklQQmpKeFN3YTFoc2RFYWR2S3hGVHBpbFdmX3NjZE81QkQzamh0ck1vSk5KSE1tTG5iUldFT29qRW5mVXhfYnJHQ1NVQWc3MElBUUtVc2JFLVNEdzdBaDlZeU15RXgtU0RFQ2FUNlRMRVZyUWxFdWNPOWhHR09UdHo3TjRtNm5Mc2kwdlZDTExMZlc5dklQb0NyeUdFbmNRWVlZemNqWTZ1c2c1c1FGNkRXa09iUmhyTG1meWw2cXV4dXNFbGVtdFYyZVM0ZlNZUjFoZU53UEl6WXNUZXh3MGZv?oc=5",
@@ -1540,22 +1572,6 @@
         "summary": "ضبابية في أسواق النفط.. \"جي بي مورغان\" يعجز عن توقع مسار الأسعار العربي الجديد",
         "player": "",
         "content_hash": "fd2337c5b48b6104c46e80c1ae3f66e526413239ac17d3ec6d962e4c67403c9f",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 3146,
-        "title": "السلطات السورية توقف لواءً سابقاً شارك في عمليات حلب والغوطة، و11 قتيلاً بانفجار موقع عسكري شرق البلاد - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGQm8wYVRfaFA0OE9JNDkwTkh5WjlvRE1BVVdpVlphbnVsTmpuNDZWZmhrZXFxZ25NbUVZQzJZLXNqSERYejNLSEFOZEhjZU95djB2cWd3cGQtZkQ1bnfSAWNBVV95cUxQa2tNWnl3MWwyczJQQkdSNTlIMUx3ZmhEWDF1bHE4WGFxVjdQNjVEUGhCNnAtbnluS0N3WEM5Ny1VdEV3Smh3U2o1Nk9KS3pnbXBMcjlIa3VsWDd6bkI1MXFlR2c?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Sun, 20 Sep 2026 06:48:36 GMT",
-        "discovered": "2026-09-20T07:42:41.946252+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "السلطات السورية توقف لواءً سابقاً شارك في عمليات حلب والغوطة، و11 قتيلاً بانفجار موقع عسكري شرق البلاد BBC",
-        "player": "",
-        "content_hash": "b88df47eb4425d4a37b7988e777c4d0adb19a4ee6433320a4bc47e4ab47c8a55",
         "sent": 0,
         "section": "transfers"
       },
