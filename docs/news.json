@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-21T11:11:32.010597+00:00",
+  "updated": "2026-09-21T11:27:16.546454+00:00",
   "total": 125,
   "sections": {
     "morocco": [
+      {
+        "id": 3737,
+        "title": "وزير خارجية إسرائيل هدر مع مفوضة الاتحاد الأوروبي لشؤون البحر الأبيض المتوسط وعلمها بتطورات الاجتماع الثلاثي المغربي الإسرائيلي الأمريكي - كود",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOb1YwRmdWVTg1eW9UdDd1ZlZDcnltSmNHVjc3NVpPNWU1bkk5eWJKS3JtVVc5eE1zNllhRFRWeFNJbU0xRXBmWlpZRlQyLXBKa3AxcTZ1S3hyZFk4S2lEcW9vejlPOTdJREM2YXpnRnJvR3gtTENZZWNmaHpwNndyNks5LU1KdnpBQTlyWUFRa2JZWmNONXFXSUFJaU5JTFVMd3o5NU5XNUMwR3hWZ254S1hVVThGQ2lEeG5uTXBYSmdSal9MTnk3NjYxeFJ5cEdSb2tGXzVKV0wzanJSNnJ3MzFEMkZpOUhNZ3IybmNRa0lqczlkMm9HQ2p3M3V3aW50WjZMTi1aTzlmelhjNnVmZ3M4LWtwYWZ2bkl5ZWZ4V1RGVDZhWm1NTUM0QTNwaTRlSFBkRzliRTgyX0pJWUhXZzJPVUk4cktzSF9N?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 10:59:32 GMT",
+        "discovered": "2026-09-21T11:26:54.335676+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "وزير خارجية إسرائيل هدر مع مفوضة الاتحاد الأوروبي لشؤون البحر الأبيض المتوسط وعلمها بتطورات الاجتماع الثلاثي المغربي الإسرائيلي الأمريكي كود",
+        "player": "",
+        "content_hash": "8765ffd6f0406871197210c023428368316d3d4c14994d65d8189a86b8b33f58",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 3730,
         "title": "المغرب ينتخب وسط تحديات البطالة وعزوف الشباب - dw.com",
@@ -388,22 +404,6 @@
         "section": "morocco"
       },
       {
-        "id": 3239,
-        "title": "المغرب.. الاقتصاد والقدرة الشرائية يتصدران برامج الأحزاب - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOeTFPcFJFeFR6LVlpb1BVOF94a1dLVDQ4OW5sd183TWEtcmlpb09Pc3JJcWJPRHNfUDBEaXlaYXJQalNCTWs4V0dpb2ZTbG95MC1ubjhVeWNpbHZQLUFSaUVVMExxRFJ2ZUFjWjRhRC0tRXZFWFM2WWJtc0RIWjB4UlN0b1gtV2dGTnhGQlRQN0YwMC1uRTQ1NHh3ZUNXc1dhT1luQzdiaVYyU0FueUxjU0IwWkdmalRLUDQtZTM2RGprRGJENDNZcE1LQjB1RkZ4elJPcW5UclhMMmR2aHpEdk4yaFhnZVQ3cDdxcC1ZazNFWUNtQlJmZmFiRy1qckVKWTJUTVprMGd3RUlTR0loRGhOX1hBVF9jOVFZYVctaEZoYjNFQ3MtNlU1S005aWh0NXo5UENQTi0wRDhpRjc5OTRCc21rTzBpVmhvbFhBSjNRZThPcUVRUTdwVy1rZWlpcjZkZ1dORklWU3NSOUR4Y3NVYmNrVXc0RWtROW9kQlVHaTJGTUJfOThWX1ZwdlVyUmFrX1Jyd0xLa3R1MlpGS051Yzk2VnRXZFhlVXlKNXF0V3F0cU9TeDRpS0pCTXJieUhqODBHbGJRazVCcmtTZ2tObktFZ2lnZUhKOE55MNIB5ANBVV95cUxQd1VnN1VJQXFacWE5UThNZnpyRU9sSXBUQXloclNzRjl4dm5tcFRaeDR6UENxOGxTX0ZUSnRoSUYwaFRDbFhRMHVYemFWdEJRWEh0UEFDbVF0OEJGTTNvaE5WV2dhZTR1WFJzQ2pIbnh1WnNQbHFwdDVtMTV0cDl4SlNtb2xzVlZnRmJhNmVjbElYWHhQeGdYUElSN1QxT3FhTkFtY19LSURSWGdIM3ZlM0R3SWFqYzB4M0ZnSXlNeElKWlNXbm1QVmhSMFdseVJkYlluNVFGRjlBRjNPRkRSSVg4Yk1RREN5TWVSNUtXTWZhS21VUFBMaHJNTWhGZXhLNXhPWHN3aFE5Qm5uaHpnMlg4UmQxeVhoWlBOUFBnemFmUFBnbXNWYVVUcklIRHZ4aGRHWWRrQ01BcXJ4QlJRc2lvajkzNHRYLWh1MFVrSGY3VGxJdUlqMmlSTm16dW13a0VZN2Z4dlBQOEhONUtMUnRBV3FTOW5vMnNrTVMyY3NzZGwyMHFkeS1nYm9kNE9HU2tJbzI2bTllQ2JYN2tPemQ0THpnSjJCaHd3cmtMeDJKblhWY19YZEhDOWxMOVFfN1psMzM1MkV4eVN0M3Q2S1JaZ21lWUM2NnNuZHZWNU5jU3NK?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Sun, 20 Sep 2026 04:50:00 GMT",
-        "discovered": "2026-09-20T11:16:27.385996+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الاقتصاد والقدرة الشرائية يتصدران برامج الأحزاب سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "1fb0b35757d607dbce42ff3a2cd47dd399f66c92b249fb2e2ab738d5db722376",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 3422,
         "title": "تشريعيات 2026: حزب الاستقلال يغازل الطبقة المتوسطة لحسم رهان «دائرة الموت» بالرباط - Le 360 Arabe",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uVWpCb1FJS2NoNk5taV9DTDNYVEpoVVFMUDVkWnFhZVE3Zld3Q2JZSHQ4aTJFNHdhYXJaODRPZks3ZTNCcVlGVmdtR1lncFJ5SzZvUEVlX2huRW1mQ3hGTkdXYllGMWpf?oc=5",
@@ -469,6 +469,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3738,
+        "title": "أكثر تذكرة مجنونة في كرة القدم! - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNeUJ2TFBJQWFnekhpcGxjVzlITkJPem5LTFZ1OXdNU1NqTjQtTFlKTDYzVjFFcklqZnZZZ3o2NUU4a3pqbnotNV9qdno3TnNfTkJwVmF6Z1JKSWNFSXVUX2hyWVJXRUJrSlFpVllZSllfTUJNSUJ2elczblQ2MWVaZnU1X3Y3QkVMTHlwTDQwS3BobjlvYWFQLWhQZ1Jfd242c05Vd21kLUxQZzYtTmhzUHFwTjkyMnpNWFlyNjllNk1ReVFIRlo4clplcmVDVmFqV0pMclhxNjE0QjJPVk1qb0cwaU9MS1d3NDNWcHcwMi03UmtEelBPaFJwUzBydktWNFFjQTJ3SmFXSlBoVlQzdEZOQWVUQUtGbF9McmtCVDhBdFFiTWZrUU84dnI?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 11:12:20 GMT",
+        "discovered": "2026-09-21T11:27:01.811328+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "509fcd12c2a0b99ff710213a6f3b5b2efd928d33223ce0ef50ce0c0228fe3b56",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3733,
         "title": "اعتذار بعد عزف نشيد كوريا الشمالية بدلاً من جارتها الجنوبية قبل مباراة للهوكي في «آسياد» - الشرق الأوسط",
@@ -626,6 +642,22 @@
         "summary": "أنشيلوتي يستدعي لاعبا جديدا قبل مواجهتي أستراليا والهند Kooora",
         "player": "",
         "content_hash": "b1dc5f664e35509018486d326eeda9fb86ff63b9c4b2625460321a41281d83fb",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3739,
+        "title": "هالاند يهز آخر شباك صامدة في الدوري الإنجليزي ويحقق إنجازا استثنائيا - aljazeera.net",
+        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPUHdOYmVPbXhScHIzc2g1alRHOUo5NExJSkdjX2hWZ0NLV0ZmWEZoUllRcW1pdS05ZVhra1hNZ1A3UnlPLW9GSjVSSXFjdVVJZHdFdkktR0VfX1o4dVlueUdvSVI3M1lIV2lVc05ZUWpUM2JuN0FzMnlFUkxUYWI3bG5hRnNtU19SWGh5cFlkMHFORTZWOVcwUHUtOWFHdkY3N1dDZTJsdUtVa0JfNjV5RTN3WnY1U05QXzdlLXdIZzBoYlYyZU5BZ2xwbTJYZzRYMFJjRkx0M3Y5MHhrVDRIaEpkaGVDN0R1N0ZXZ2pLa2FRRnBnRXNqODZUbUdXR0xrejkzNWkzdUs2WnMwT2N4QmNrbjZrWUhJbWxHSmNOZ9IBpAJBVV95cUxPODJQV2I3ZGt3alZkRDhsTk5NcDRTd3FZY25nNVN1ZlYwT2dJdk9FMGd5aHJDR05YYmQ1LXRySGk4U3Y5MTBtbjI0Y3owVm1Ca1BnYUZ6cndfbjRPaE9sbG9fTTVKZHp2bEIyS2ZtbWl6c0hSa29xcGpORk5QME1mYnFsV294VDJXUnU3bEtfVnFyVHlrOXpuMUJlTnFtV1F3TGJOSG9qVmVQalFja0NSQzEzMFExM1I4dGx3RG1KYTVvazRTNmw4Nk5DQnQzVndxbGdjMU5SUjU4YWZxVE5tekhkaVdRLTJGV1BibGt6RmV4UTJtYXhLOHAxYVlKRGdSbndDZkNUTTFUU051aVA4RDdDb1UwR082ZFBLZURUVlQ1RW81?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Mon, 21 Sep 2026 09:38:52 GMT",
+        "discovered": "2026-09-21T11:27:08.250861+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "هالاند يهز آخر شباك صامدة في الدوري الإنجليزي ويحقق إنجازا استثنائيا aljazeera.net",
+        "player": "",
+        "content_hash": "dbed8fd7ae5a2671567ac1c56ed68ac0eeafc7e34f19a6a1b5b71dd9f7f6e27e",
         "sent": 0,
         "section": "sports"
       },
@@ -1234,38 +1266,6 @@
         "summary": "فيديوهات | هاتريك صلاح.. ملخص فوز طرابزون سبور على جالاتاسراي 3-0 (الدوري التركي) filgoal.com",
         "player": "",
         "content_hash": "b856334da82d757a0f5494a32a878e481d32b970968e02b3b2e15c280395172d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3585,
-        "title": "فيديوهات | ملخص فوز فنربخشة على أيوب سبور 8-0 (الدوري التركي) - filgoal.com",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iNGtjUThMbm02T1ZEWlQ4TWZWR2hNU1REQUljSjNSNzhNdGRQeXZ0S2tMTFhjNnpWdm1jSF96aF9MbEEtazJlTXRuTGE?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 22:03:00 GMT",
-        "discovered": "2026-09-20T23:14:41.570314+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديوهات | ملخص فوز فنربخشة على أيوب سبور 8-0 (الدوري التركي) filgoal.com",
-        "player": "",
-        "content_hash": "9aaf070ff51bb62aa6258c810e6abce54c089c61d4afd79dc7b3bc3653ce93fd",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3546,
-        "title": "أخبار و معلومات اللاعب حمزة العبيدي لاعب وسط النادي الإفريقي winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZ1BHT0MtNXNOTF8ydmZxQ01YTEF1NW9Fck1NNHpSbXZjR0hEX1I5dllSTWtfZl9FRWxKRUZwTTdaek1NZGdqSlpqMURGZG9fc0ZKOUIzRnE0TS00MXdMMEJhaW9rbkxESGM5VUdHT0hvbzVPdVVsWXZZWlU4MWxoaGdoc1E4eUVhUVVDUTZKYUpWOFpuaU1zTmt5NnZjRTdVSTM2OE5RdTFGTElGUncyVmYtY2VxcXJYWWE4b2JsNzNYSUxtc3NCVXFzdHN2aTFzSHBUNllsUTd5TnFISzJfZFRFU2g1SlJoNHZJNV95eWN1b2JOWnFwOUg2eXNiV3pJUlBzR3RUWk4?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 21:59:23 GMT",
-        "discovered": "2026-09-20T22:00:04.899105+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب حمزة العبيدي لاعب وسط النادي الإفريقي winwin winwin.com",
-        "player": "",
-        "content_hash": "932e5aeaa8839020845fd6ce4994a5a0942e547ad2a7653ead762d0398c64814",
         "sent": 0,
         "section": "sports"
       }
