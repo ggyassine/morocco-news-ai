@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T06:11:22.904367+00:00",
-  "total": 120,
+  "updated": "2026-09-21T06:34:19.271270+00:00",
+  "total": 119,
   "sections": {
     "morocco": [
       {
@@ -421,6 +421,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 3666,
+        "title": "جدول مباريات منتخب العراق في خليجي 27 والقنوات الناقلة - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPYmUwaUQ0RnR3OV9jVnoyLUlIRTd0T1h6MDB6WmlYakVpZFZ4N2F0d1pIT1BsY3gxVHFlZ01Edks3ejE4T3ZYcFdMb0RJYW9jbTlUZTBTOTNJSmdrT0tNNU9idTJESDJWVEZ2bmV4SjRHZExrd2diSU1CNDczUVJMcDlUNG5BeVZrY2RXbndXb1VfLU4wR05GZDFldDFjSC1VMmFZR3NfUDZyaUNkUGJWdjdtZkpRSXIySHdDaXUxc3FrTHg0Mlg5Tm5pLVpqckN2VmMyYUZDc0x2S3hRTE9qY0ZDaXpITGJjb050Z01MLWxHektvVXN0SEN5V1ZrTV9RWDZIaE5nVUtOazFSSndxblFnMFNSakMtVEp3TkhDRHN5ZXB5M3hSUzAtcFFoSUppSXVjSzR1eU1jWXB1RXJXTGQ5bWRBV0o5Tmx4X1NDaGZsbTNkdjl2Yg?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 06:21:47 GMT",
+        "discovered": "2026-09-21T06:34:04.884416+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات منتخب العراق في خليجي 27 والقنوات الناقلة 365Scores",
+        "player": "",
+        "content_hash": "6cc96f579d3904691319c687ffbded83dbd3bb37eab2cf51f3d2757991614a96",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3665,
+        "title": "أخبار و معلومات اللاعب يوسف العلوي لاعب وسط الريان winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxORXZKZURRdWlBS29ob2ZnWkgtN1Bmbm1hZGptR01xOU0wdkZVRDcwUGNZRGNlYUM0UXpFSk85U1dEWFN3UEl3WVJZdXVNQURNXzFibUotUS1XU1lrV0hpRDBqWjQwak1sMWl5NmJyLTh4b0I2VzBNOUp6cGNSUEpaZ3NYaHNXZmdyS0xpdjUzenhxTEVNdW16aC1oMW92NkExNmFrWXdQMWV5WFZsZ052akV4VGRrdE0yWEZJamp0Q1VoN00yLTRZNVlad1VRN25XZHRRZm83d0VVNXBUaFNmTXhHbkVLc1hOUGdTYjNHMGdwX0g5dDlHQ0ozalpJT3h5?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 03:59:46 GMT",
+        "discovered": "2026-09-21T06:34:03.122443+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب يوسف العلوي لاعب وسط الريان winwin winwin.com",
+        "player": "",
+        "content_hash": "88b5961f029f5168155e11638b1b60b7aabd99a3be449d2ecd98294ee045fc84",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3643,
         "title": "البديل من أجل ألمانيا يفوز بانتخابات ولاية ثانية في ضربة قوية لميرتس - القدس العربي",
@@ -1188,38 +1220,6 @@
         "content_hash": "f915df77d460d9339a16a23cd339950e8870fced7590e0887a58b9cc5d8b0d7c",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3447,
-        "title": "أوبلاك حارس أتلتيكو سعيد بالفوز على الريال - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOcjlMV3BzM1BmWVYwU3pBUjFCb1BnTGhkaVJray15eHJJbzR6ZjlSM2hJQVMtdEJmaGpzTThHVWxrU3J6Qmd3NGY3RlVVQ2RxdmQxUnlya1B6c3p5SWFQQWw0NVRQZ0hfU1NvX2ZJSDFFaldCdTF2d3VIYkNiaW1KempiZ3F6bkZmME9fVUltU1Jua0tEZUVKRV9SR3J2Q3h0bm9JRFVZRWJxSWszRUtlbmRiSnVMbXZNSkJWT1M5VVI4TzJaZDBxbUFtdC1hbjVyaE1TMzM0TW1MVEZlZlNocW43clZQNGZkYkVMb0Vmbk5MRk8wYjdMUHVTQ3BWRWxmWEVYR2xjcUp0QlFhRElVdWRNV1VOaWticC1qcHhrNmJHQVA3WFFIZTdiZ1FtNlJjT1RwY3pfTDBLUmpfb09GVzVnVl9SZGQzblh2cVF1VXJVZ0MzRklUY2dzQ2pOMk5OWmV4TFZqVEk3WFJFSmdvQzZ4bXFJbHdsRlVqTDR6aENQSEEtT2hfWDV2cnliWVFfdExZWk4tSGh2aUVRdDBNaGhmem9lWUNsRUR5NlZBZk1objBTalJqZEo3Qi1tYzg4THlpQmhuUklqTmZoYkV5d1QyZEtveGhCU0tDeXM2dFE3MS1OTHV4X2lid001MHc1Z2JwUlBwV25VRVhz?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 20:04:59 GMT",
-        "discovered": "2026-09-20T20:09:07.553809+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أوبلاك حارس أتلتيكو سعيد بالفوز على الريال الشرق الأوسط",
-        "player": "",
-        "content_hash": "bb446f9a7ea614c4f4ab1fc3bba3a19571a839ab98745fc401613a2df94afad0",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3535,
-        "title": "استبعاد كريستانتي من قائمة منتخب إيطاليا بسبب الإصابة.. والكشف عن بديله - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9adWczV2JiY3JDTmRwNWhGa3FpU2dfV2t5OFQ4dWxHLXNTWWhIMHlvSzVCMXBkaEJXZjd0MUdCN0RraTg4VlY2WlNqUnpSS2VF0gG8BEFVX3lxTFBZbDM3ZzZOWFBxSnFidFg1YVA1NWJqMHhPYVFlNm41bTdtY0xBUFJ1dWpObjlnMWphcTVnc1NLNS1tQnNQQ0dIVERRcWswV0duQUZkUUNONmZSSzZTOWxiZWJ6ZEY5SEtnLUZYM0huSlhlX1BkN1Vzc2N2YkdtZmY1aGcxRE0xNXBqaE56QXR3WlBCUDI4T2JqVDVrcF80YUdHeUV1YkZrUzZ2bzhfV3Z2NW1MY080RU5JYlBkaFdzaFZWVXhFQ1U3aHAxQklmYUIzUE1DTTJiT2Z4YzFETnh4dHQ2ZW1qVW15QVpLajlHNjFXMmdCNkFlT05VN0Z4M2RWTWxMR1ZOSWVrTF8yMDZEcUZRVDFZTEZvYmo4WXMwWTl4LWw4aTlNYkpsMld2X05odFo1WlZnek04cnh1YnF4UXVsVWE4VEl1bTFJWWNwR2lzZG5BaExoa2lad0hDdFRyV05EOVJKOFZuZDRNZHFMa2ZvY1JYNlZMZGFyVXJ6VG1vaEdPVUtGdWZHTHRTZmFjVmNqQVhkOGRpTkdxNDNiZXZ5ekhLRVRPZzdQSTNUMzh3TWNfcFhvdnZacHNfWDhFQ0Q1RDVncjVsaWtuWFZsWHZKUXI1Z1pfZUJMSW1ZYnR5VGdsU1plSnhvVHE3ODFTWDBHU0hFcVBmZS02eXJCRmxVMHhGWnJ4UjZUcXFBTnJUWWFUbGdvYmxrQmFTMFpMOE9YNlJPaVZQeHJPZ2NWR2dKY1JVZnpPeWhD?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 20:03:00 GMT",
-        "discovered": "2026-09-20T21:51:26.056671+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "استبعاد كريستانتي من قائمة منتخب إيطاليا بسبب الإصابة.. والكشف عن بديله FilGoal",
-        "player": "",
-        "content_hash": "e74b42527eb10435c18b996ba2616d3e7bae8f4a3ba504315aacc2d12b1ad151",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1912,22 +1912,6 @@
         "summary": "سي ان ان بالعربية/سجال بعد تصريحات مفتي عُمان عن الحرب في اليمن والحوثيين.. وزارة الأوقاف بالحكومة اليمنية ترد بـ3 نقاط وتستحضر إعلان \"استهداف\" مكة nabdapp.com",
         "player": "",
         "content_hash": "dbf6da7e7d7b627652b1314bb5bff0bbd8757797fa1406024fec44831c1f68fd",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 3164,
-        "title": "للمرة الأولى... إنذار بهجوم جوي معاد يهز الرياض وسط تصاعد القتال في اليمن - france24.com",
-        "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNQ09xcVhrYXNpWVg5b3NkRW1YVFBab1dRc1ZPQmRSZVZma2lkRnk4RHFUcWxrVmVvVllBcG56WFh6WkdlWHZ6RDF3Sm1tVHZUU0xWMXlRQnVHb0Q5X3lVaFUyXzlmcVJWT2JZU0ZVa0I0UmNia1NVTHlXaDBOd2pLUEN2VnF3MHRBWVBjMkxqYXlqd1hhVTlXTHhFYldSOFRRNTByX293TjVYMlJOLVNRMElNSklKNzlvVWl4bU1zTDgyS0tiaUxja0YxY3c2cVRCTWxha0NWLW9hbV92ZThPdGNYbXVXbDBjTHVZMENhVFRVMThHRjJVNUNyNU94Y0pYTkFmZGcxX1ZIcmwxMzRXem9wRzNZREhVbnZBQkFsc3BpcjhOS2JDdWpPU25wTFBvXzVINUpkMlV4RUJhb0pUWUVPb0tUZjNfYV8yTUxxZ1U0LUpXSVJ0eUFOa0VrU2gtUWNoRWN1Z2cybW5ITS1mOTMzcFFLcWl4cFFGOXFkYTlTNm5NZXY0TmVyb3k0a2xQZ3JIODlHd19Hbzg0ZjJJcnFmMkdhTU5VcWRpQlhXVlI?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Sat, 19 Sep 2026 08:40:43 GMT",
-        "discovered": "2026-09-20T08:44:20.030184+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "للمرة الأولى... إنذار بهجوم جوي معاد يهز الرياض وسط تصاعد القتال في اليمن france24.com",
-        "player": "رياض",
-        "content_hash": "79f06f8094fd351fdf7105adbe92751de33201729666fdef5d01c747cd11e44a",
         "sent": 0,
         "section": "world_arabic"
       }
