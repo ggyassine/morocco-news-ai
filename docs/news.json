@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T19:43:25.215540+00:00",
-  "total": 130,
+  "updated": "2026-09-21T19:52:22.748948+00:00",
+  "total": 129,
   "sections": {
     "morocco": [
       {
@@ -437,6 +437,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3905,
+        "title": "\"ضرره أكبر من نفعه\".. نجم ريال مدريد السابق ينتقد فينيسيوس بعد هزيمة الديربي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxPUmVXS2syVks0b3pncEc1ZmlYUlY3VGNhX1Q4S3NTZTMySm1zalZFR183UThLU3o3U08wV3huUzJxZUYxeUQ2NzMzT3VpVFNFbGJlbFkzcEVfX3ZKdDVGMXJLR0ZMckhZRFN2ZFF0WTVranBFQ2hkX210ZWxtcVdlNTUycjAyVFJZb21qeHdsLUhucld6TGpIRmFVc1A2Rzk0d2MwZGU5ZmE1ZlNKMHZ1S0QyLWIyTDNQWDF6aFB4OUE0c0gzVXNuZ21NQ1lIYnItU24tOExKLWxBdUVOUkduR0pSMzVsRm82UTN2OFUyeTQ0SFF3SnRaSmx3a3Roc2NvYU9aejh4Y2NlbVR0NG10Rlo3dUVjTnBJd1l3RkdpOGJQeU9ob0JRYlF2SF9aVjctcnl5UVJ1UEczRDV4VmMzUjU3N1FuNDJqV1VVZEliT3dzYUg2OGltOGpjaGJEZmhMQllFbHl4MTFqQkFudmxTWUhTLVBrVDRmSFdzNVp5VXV5RHlvZllHN3ItMWJZTGhqSzM4aVhYdERGcnMxcGd4UXBiamdBWHI2T0Y4MTl3UGQ3V0w1VHJmLTlaa19YbUd3UnJFeFdkRlY3b08tLTdCaURNQ0lFM0sxM2xpRk1FUE90akZock9DSGRJWl9uUnUtdFBZaWFtd0pyMHpLYWVhRmFjbmJNY1lKNzBRYklVVllOejBrOW5fazdpNmxEeExoRkItZld5NDFSRm9EQzhQTXRKUFlsSVB6S2pxV1RWWTNPeE1MLTJURVZXbUF4UGVodVHSAdcEQVVfeXFMT0tJXzVpakdpY2E1OVBBNVNXLTY5RjZqZnEwQW1LLVdXX3VuTldSQmNOR09adllnNHYyMW1qSnk4MElBY2lLUzdRVm9LUFpQZHZTeng5b2M2OWZhaU04clc1ajZDdTNSVG9ZNkhyNG5OVEliNUxzeFJzX3hvYUlpY2RicWZISEtjSnpVSmV1NTAwXzFhblhlZ2Zsbm1LaVkxUVdZd3lTeG9vTmlZSnd2T0dUM1VCSXlsaTlWYUNuT2FXUENhYUJiRWRCc2NqaHBCNkxOS1VVaWFvSWUwUGJnQllBRWVZY1ZhcjE0TUtFSzM1MWtuYm9OVWc3R1FQejFhcmlYSlNyc2Q1eUplTHN5NWFRQWxiakpEQVFabk0wQUpZLVpGWG1YZkRhemlpWTFPbWloUlMtYnV1OG9mR1hoa2dLVS1kX0pIYVAwa255dlRxZl9JTXl0S1k4REx2RHNJV3hPOEIxSzVJMnFMOWM1SXNFVEpOUVpBNmlQTzkzNXVNdFBRRFNvejduWEN1cVlKNzY3QjlndGpyb0FhUDFpdk5WVVZHNklFRDJUWWpTLXFhSnA1ZFFYQzhxM1JQQWxYVnVKdGVneWZ4MDVrTmlXZmpmNEx0dmUtOGRHTE52V1VVTW9jdk1KSjRfYXpBcU56WWJhMUM3ekVVTVhYY044OUNXZ1lYRWhzdmNGNlVxenJZSnZWNU1NQjg4bS1EdUdubzRJQ0RZRkJvVmlTa0pCSUtxYXZDeVhKN3RHUmZlT1YxT2FDVWVXMnJCa1JyTklFU0tROXJ4OEU?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 19:40:00 GMT",
+        "discovered": "2026-09-21T19:52:04.550070+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "\"ضرره أكبر من نفعه\".. نجم ريال مدريد السابق ينتقد فينيسيوس بعد هزيمة الديربي يلاكورة",
+        "player": "",
+        "content_hash": "34ecf8810a906212c94221c975453be215fd08d16f78387bba80f79a5125637e",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3902,
         "title": "يلاكورة يكشف.. موعد صرف مستحقات لاعبي الزمالك - يلاكورة",
@@ -1220,22 +1236,6 @@
         "content_hash": "0188ec082cbcf8ddd21eae6770cb93b753a6c2728341b042be84c74f73c6344b",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3777,
-        "title": "منتخب مصر للناشئين يختتم تدريباته قبل السفر إلى سويسرا لخوض دورة الصداقة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiyARBVV95cUxNZG5TbWNscU8xMTgtUFFUQlZaeXc1dmRkRkQ2dXNMazZGZnV1RncxRkFKSzg1RkJMQnlKOTBRRHB4NFNlNGNTM21NQ2U1d0pxUDdOUGVXOERWSTRrQlhIOHdIV3NRdVBOYkZYMUxaZzFJTmdCNXVfTlN1R3VadVVmcTViN21mb01PQTBMTlNTY1J4NE40SG50aHA0eTdXYVJBcWRYb2RWY1VyM1RyY19ERVh5Ni1aVHQtZTdTYmZ4TTFWRUdCSmRvQlhCWGhfVDVpUnRKdDdxQV9Dc0tOMF93bHJFN0h0MHA1anV0LWVIckg2SjhtY1RHM0dyTURQU3A5NDBxUndjTVBGTExWNWE1RlRNQW56N05VbEZwdnNYMFYyRFNtYUZDMDNYT3QyVWFWYm83eXJzajAzbVRTN2FfUjZuUV96RTVkMWRpZHZsTS11RkN5b3RIV0RmcUFZZkRIWklCRnItOHc4c2liQjNRUFppUnB6R3R1M3JpZnFobnpXQkRGYTh5ZDVwU3p4VlVDd2lTb21jdmlkekJQcjB5QU1McE5ObWlHalBGQi1DTmdyRWlsY0dHV1JIcFd4dUI5YVlSU0RmaUg2aHNJc1lybU5TN0stVGM0MjFYSmxyb280VzhndXlSX1BaT0FXSFdaWGItaDRuNGJjT0k0ME9hRVd2TUZpRUtZLVMtb0NOSE5RbDF4bE9ZMmhPU0EyeWpkWmlPbExzQVJHbTJGSUFRS2lOZVhOMkY1MndxLXJoTUZ3X0V6TXRPN9IBzgRBVV95cUxNX19ZckRyUk5aOHVaejdyc09KZVRSQWlFVlBSdm5fLXp5Q200SzVsNDdyallLYmt3UnRYcnpRd0hrMU10TG9JQk9CSzAza28zS0J5NUZUNjNLWnF6aVd5VFh6V2l3cVRMNEdqcDBKT3ctSzZVQkZTSlAwdklXT3BwVldNVVZrWU5Fb2dFeUxFclZXZTV2T1B4OS1BaGdFUVc2UXRWQUYybUc2enZzY3o4R01XczI1R1FrLVR3RVVoRzBrUjdBUEVuZGhjdnRJdDZtZGF0M1FXU3l6Qjl0OVpEWWZyZk1CRW9yeFJTVXlza0tqaEp1MTlVN2V2QkNQU2kybldWQkhBTVFFRUhxdmJQbk5IUVpmam9kSTd3MlhScDM3LUVsMmF3NzZmOGRKeFdxYVYtUVliS2l6V0Q0MEd1RE43MnYwb2lUM0thUTNiZ0YwQnlQQjVsRDljNm5kaXRsWVVEUTRFZEpuYkJfQXVYSEV4aV9jZlNLNmxFLWZKczVVNVU5MWZlRXFLRjJ5eG5oakFWeXNPTlNZWmtIT2RvMVJPS1ZMX1J2MHBZS1htckl2bE54ZnFRdElJUlhwTFlOUDI3a3BxdEZ1WXRWeE9TdXEwYVQ1T2x2N2JXQ3F4Sy1yS3l1VWNIQkVwWjAtQ2IyTnRZckZkdmNJemEwUTY5dk1COGM1NFlZSkdtTE9HYU10aHhLVmxsLU1HSkFlb25pYng3RFNuZG41bE9GemNrcjJDWjRveXJ3T19kc2w0eGFIdzE3WjhkbHV3RHctdw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 12:43:00 GMT",
-        "discovered": "2026-09-21T12:52:04.960484+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "منتخب مصر للناشئين يختتم تدريباته قبل السفر إلى سويسرا لخوض دورة الصداقة FilGoal",
-        "player": "",
-        "content_hash": "03059bcf89f73bd282d33d4469315e1d753debdb8d48a9a4254951e1b1ad6a94",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1937,22 +1937,6 @@
         "trust": "B",
         "published": "Sun, 20 Sep 2026 15:30:00 GMT",
         "discovered": "2026-09-21T09:44:42.578586+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "وزير الري المصري: سد إثيوبيا غير شرعي وإعلان 2015 ليس نهائياً العربية",
-        "player": "",
-        "content_hash": "f4cc72ca8b40b5720701105614747278ba46678a530f1d2341893f4b3c43a663",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 3406,
-        "title": "وزير الري المصري: سد إثيوبيا غير شرعي وإعلان 2015 ليس نهائياً - العربية",
-        "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxQM1pIMHBENENnNGgxUE9iVjJSQ2RGQi1MUjFqU0RNVVZ5VmFIcXZmekFmM1JhNWE1X29fZTlLQlJibC1NV3N6cTUwbXFqTFE1a29uaG43RHRmaUhPdUgxdzFyRWhZeTVlU1pQSDBZNUR0R0QxSUEyMWtOWkpoOENYQS05RWc2Mzl0SW9VTGxYNXdvSndLb2RJUmZLdVE5WnIxSGI5bUZObGZEZmNGQmxwUUpBVjBJN3hYdkxWZFREbVVwcXBlYTQzVkZYQVVrbHlpeFdWY3Buam9Temp1SjJYYW54am5PNFY0ZUZhb0p0LTNLaHJsMjFQb0pWRjYzbk5EMldtZlF3RUhoTkN2M2EtTjEwRTRZZVJrWWFWM1QydkpfWlFzdlJUUXBPeTQ1cTFBdExwamxYY3EyMFBBVzVMRnVCWnBnWmZORjk5U18zYkhCbENoaWhROTk3bFE5LUdVV3JFcE04Z2hIWG84b0xMSlA0dkdMZHRURTJrSWdKTnZOTy1ubEY1V3lYTDU1Wkx1RTVzdDlTNVpWWTE0dURVbTFJWXh5MEgySHRna1BWVkNpM3FiQTIyMVByVTZmd01VWHItd190b09Yc0ZJYl9OSWNiZDlmTklBVFlhTGpRdjRrMTV5OVHSAesDQVVfeXFMT0tObVlaSkg5cFpOaGM4TktaVGxPOUVSOEtrRkhvWnk4ZlRQLWYyTlFUaEtvelVFX2xGbGNxTGFwZGlpQ29pUEFGdnAxSHlyWEdNNHRvak52UVVudGZISDQ4U1J2Q0h5S21ydUpiRU1DeXVKT3F6SVdHV1dlckh4YVZubFM4SWZSUk81ZjV6NVJ3QVZYZ2VnaWtJT05kZVZET3E1YV9CNDk4ZHY4NUtUR2dzVVZubDVWcEdWV01PUm5saW9yazluWEpCcHNtQks5eTJ2YXFTa1hmZ0hLMU5ueWR6c21jbGhYQTRaVEM5dW5hb2lDVnFtWldRdzR2S25md0dQTTNWZXJVZHZGdUJlTHRBMlRRTlJJNmVsSEd5cjlKVVlJUUtieUp4QXVKZlpaUlN6WHdzdWxxYXRXblFTTE5yckFxZGJralBkaFZOby1oT1pZRXdPTnpjM1N5M1M3aWMxVTVLTzZMQ0JxcXVJQ3p2Z01wMUp6ZjNXTXJNT1pWVXBtLU5hc21IaUkzTGZ0eDRRVEp3dExMNXFYUzV1Y1pxZXlFUmVhc0tHaVZqWmNldXlmQXN6U2pXTUdjaExleGE2ZlhOa01Fb09HZU1ZTmpvc3ZWRkx4QjBCdmVSUzlvREtDNmtGMXRpTmM?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Sun, 20 Sep 2026 15:30:00 GMT",
-        "discovered": "2026-09-20T17:59:16.922737+00:00",
         "category": "الشرق الأوسط",
         "status": "غير واضح",
         "summary": "وزير الري المصري: سد إثيوبيا غير شرعي وإعلان 2015 ليس نهائياً العربية",
