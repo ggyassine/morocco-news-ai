@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T15:33:34.103247+00:00",
+  "updated": "2026-09-21T15:46:34.178729+00:00",
   "total": 120,
   "sections": {
     "morocco": [
@@ -406,6 +406,38 @@
     ],
     "sports": [
       {
+        "id": 3822,
+        "title": "رازوفيتش يعود إلى الدوري السعودي من بوابة التعاون - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNWEp0TF91dFJ0eVptb2Z6ci1oWTItY3c5T2o1TXZ4WTdFcUZBcjN0VERrZ3QwZU53NzJERXBxYS1VRHJ0T2JfU3RQdzB3VjVvejBfMmN3aWdVZXFrS2dlQ3RZaW5hOXNBZ24zYnFJczByNlkwNm1rdXRFcV9Ka0FpVmRBWWhDZVJWOVdsdXl0UEMtUl9MR3YzcExVcXFkcDEwcVc3NXlybkZfMGFEQVd5NTRpUmI0dmpEa1NsR0tQVS1MMmRCa2JqbGxYR2lKMHdfekNpNFhfM214N1plRTh1VWNkSEtmeDZzbnBtMERoQ055UVhlV2ZOYVZmZFdSUlJibTJQUk9iWlptM3ZYUGU0c1dYOGtwLUtnVjlpSVNhY1RRNnFLRGdTTFRqN3BBbU5MTmg3NzR5a3Y2dUNnZFJvY1h2STZueV9KTnRKdlQ4WHhYRU8tcW5UQmp1Q2dhTmNxbmdHekU2WktPbW5NMXJzdUIwQmItdThsNTk4VjVERFFvekdweU9TM0s1cTVlZUQ2NUg3WVZCS3hmZWt5cVJaZXdtUDFGQ3pucDM1QndfNlZra3dSRG9RZ2NPVDRYRjlfZTBsR00wencwWDM1Z0dfRTZGNGlWZHNwM29uVEpLaEp0Wi1HT29Oc3JwNGdBbjhMa2ViX2RsQ1VWNVBneGdaNllwZGJLTnE1TEZ0N1NnWFRWUklXZVRCTEhzU0F1VWhBQjVldDBrVUk1MnhFekE?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 15:32:11 GMT",
+        "discovered": "2026-09-21T15:46:11.823480+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "رازوفيتش يعود إلى الدوري السعودي من بوابة التعاون الشرق الأوسط",
+        "player": "",
+        "content_hash": "7879555d71b7c2116cad2f54108d52767b1d92389b74daec536d1007e4e5159a",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3824,
+        "title": "أكثر 10 لاعبين مساهمةً بالأهداف بالدوريات الأوروبية الخمسة الكبرى - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxOYVpUV3Bqb3ZvRlpPVllfUE1kUG9rbzJRaGJZMVc0aWM1dkZzb2lXS21Ca3RGQlMzVTZDSFdZRjctZVItSEpsVU9oaUN5UE9IM3JOaTl0TU5DTTlacUF6R25VSEhoeHdabVNlODlMaTlQaTQySzhMdjAtVndNbGlDRjlNVER1eVB5c3dMWVhRSE5ybDBrVkJWX0ZJeWZlUklZdEFmbDQwOEloU1F6WUNiTU9qNng4R1k5ZWt6NDhqVGo1Yi1wZDQyamNzS0NZamlVT1VQY3ZnV0kxWUhkRjJyLVkxdm5Wa2VfaE90TjJfb3VueHY0NFhiRjZObWhCUkF0ZjRPWUphcE9jc2hqbWI2VzNWc0V0MWZlMWEwMl90bm5tOXVNTkk5cnJILXpMOU5RdDlLckZVbWhGVlBhUEFpQUswaGlpREt4QkVVdmlsX1laNmdFcF9wNGVuTFlNdThHZndHZEJNbUhiSV85RUZSN1VHRkNROXN5UEZHRnBOTGRBc2VuRXdCZjdQelY3WkR3emYtR1VsRFVpZ1lEeUhkbGM3bG1ZUUVNblhPM3daRnJURVBwUU5zSkp6VVNuN1poM3A5SDBzd0MtSjhrcUZ2SFZlX3pDX1hkSmxVRmhONENvWFE3U3c0WWcteVo3aTF5MkR2M0JSWmJLcGczVWQ4dlpwYTR2M2Zvb3MxZ21hYVg?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 15:31:00 GMT",
+        "discovered": "2026-09-21T15:46:14.267724+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أكثر 10 لاعبين مساهمةً بالأهداف بالدوريات الأوروبية الخمسة الكبرى يلاكورة",
+        "player": "",
+        "content_hash": "b0ef8bcc80e5a8a69f091feab02ae7a651b084c2288adbf436dbf2cc34ddf6e5",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 3819,
         "title": "تقرير: برشلونة يتابع مدافع منتخب البرازيل الجديد وسط ترقب أوروبي كبير - filgoal.com",
         "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxOMzl2b1EyYV9mQjA1QW9US3JDWVhxV1NSWkp6QUtBdlI4eHV3MWl2Z2RzZW5iY202RUFuSnFJblhZd2dUbTZEZVpobXQxMzNpa21BcTZIREp4MVlIOHRmLVd0NldDWW1wWVpHNHhSOXdGd1d4OUd0amhJMERyQS1MN0RhWnRGMnVta2JibXdtYTBZR2Z3bDJPVmh5dHFqR29HY1BlSEVNRm5CV1BqWVJfN2lPQ1hObnFiLVMwZ0RLd2MyVWM0a2M3NGk5ejJvUkRCUUtJQXctNlNVdVdfblpzcDk1S2NJLVcxeUd3bVNJeng0VUxqbmdDNUEtS2ljRDgyWjl4REpQOTE1MHlyVnZ4eXpjX09zUEVpNzVzQ3NmMmhDUDgtc011NFo4dnZwNGR2MzlLSzhXQXU2SURIRnpWSXctM2tNdm5YVDlOaWw0UjdVZF8yUnFNVnZ5VHI1S3A4OS1rRERlMGhGMVBnOHVwcTFTeW96X05TOENEUUs5aWo4bWhxdGE2WmgyTmRWc1FrYl9zdTNlM3hQQ1d0THI0aVhuTXJkaGliSWZTSW9famtSeGZtb3FtV1NzazZOZUQ4ZFNVZXVvSlpfNndmOFhIOU1xUVFkLVZMRy1MT3NUX2xURF90SW4zYnNmRTRDb3NzLU84RkdCdmhqeml1TGZ0SVJqZkdQbDc1SE91a3BCZVltS0hrTXNrb3NzSXJzOVBEbmZVeDZQVUhkM042NjNN0gG0BEFVX3lxTE81UEdUY0pwVExvcjNBb3lESlNaV1ZsZVJ1cXpaU3JqMjJUdkdNeGFtSFlZMVRXRV9qRmtZSDNRQ0ljWnZCTW1WS0tOelU4VFpTaERnVEVwV3dfbjU5VThPYXlSc0NjSTc3Y3R1ak1HVFBKczVvSzdfVE1BTXMzcTQ0ak41eVRwSl9HQURjTHJNd3VDUF9mMEFSanVoVlIzYnNfYU12eHJCR2FrWU9URExSS0xHbjBObVYtd2hPTnBUamhxRm1QZkhvaXBQREE2ZTZpcVdsXzhxYzNwbndTWmlUdFY3V2gtcTZYUTljX0o0alFQOXREeFc0NXBmOG1MSUY4SzduT09McFIzRk5TNmhfQVhsTDdtWGdDeVMyRjd2eC12SlZZWVBXQzdrMF9nZ1NMRmx6RHBHdlVlY194dk5OSEhxNHhNSzFxeGVpLUJENjhFY1o4M090a0JjM29penItbDNGTkU5VkxfUVhsT2pCSnk2bGlDSVlRS0ZoWHFFNmFPWVp1M3M5U2dIekFtX1h5emdoYURIZnFYTE5MX1QtUTRfNURoOGR6UUlTeXhCcERpcGw5MFFXV1dYMGw0MU9GMDhXUlF4WXV5emRnWHBvSFZUVWdTTGkzQzlTU3cwb0RXMVMtLWNqNXhvaWM1V2JHRkR1YmNZaEx2azVVRHYtMEx1NWlpbWF4X3F5QlJZVGtxdjItLS00bVNIRlA0MjRrb0k5ekR4UElVemVzZDBIYUdMbA?oc=5",
@@ -434,6 +466,22 @@
         "summary": "أرقام الجري الأسوأ في «البريميرليغ» تزيد الضغوط على يونايتد الشرق الأوسط",
         "player": "",
         "content_hash": "9d793f589743b6bfd24c1ffb4f01505cce88ebde02dd18512e607903aad26215",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3823,
+        "title": "تورلوف: قرار المحكمة الرياضية بشأن روسيا يمثل خطا أحمر للاتحاد الدولي للشطرنج - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXaGF0aDlVa0NCZFBRcEYwOG80YldMaUs0YTN3VXEzUVA0dUw4a1kwOWQ2cTFlZHk4M1dLS1NTVGUzUEpvbzJBOFRjcG1CWDZSZHJCenNCSkN3WmI3dEFONGJtZ3ZvUW1CTEhKQ1R4UkZzOEVGQVJla0tacUc?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 15:16:11 GMT",
+        "discovered": "2026-09-21T15:46:11.889210+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تورلوف: قرار المحكمة الرياضية بشأن روسيا يمثل خطا أحمر للاتحاد الدولي للشطرنج Reuters",
+        "player": "رياض",
+        "content_hash": "041595376177ded08e867bc04cbd9407a684f85ef2d05d044f8a174a683f1316",
         "sent": 0,
         "section": "sports"
       },
@@ -1154,54 +1202,6 @@
         "summary": "مدير منتخب السعودية: الجوير أخطأ مرتين قبل استبعاده.. ولم يستبعد بسبب وجبة filgoal.com",
         "player": "",
         "content_hash": "2975f805b16355265a17a7846442e27d237b8968d61a7f88fa4403d5615eea3d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3690,
-        "title": "موريرا: سعيد بأول أهدافي في سان سيرو.. وأسعى لإقناع أموريم - filgoal.com",
-        "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxOdTBOT0V3M0hnMzhrRF9VTnloQS03cUtQRDAtc1AxcU5lTEZLOTE3MmN6a3h0cnBpNnlNcXFkcGxHdXJJT2xMMnRDTjRHQk16Y1FhMkpHRDZRMzdfZS1kV2hvX3lQZkV2V2kzcTh2YmVxSkpIUnNmeTI1V0psZXlEWW1UbkNHN1NLc1pEckZOdEt3NElEMmUySHdodm5FY3AxcTlJZXJXVWFaZlgzVXQ5dHNlTjh5ZDExU0ZNSTU5dWNaaDZaeXJLVWRtTS0teDR4dkVFQWVRMUJ2aFltQW9fWFBoa0dJSFYwRE9ycWpmLWRHSEc3d3pGVFNWclVudkpZbE0wVmxCNVpnd0NJSnk5bUhBT3dZcDg5MDdqa1pES1lVdllNZnB3YzFKczQyczcxRGhXSGh2TnV4cHJHV044ZzZmS0Z5dDMxdHN5UEpURWZHLW51dFViamQ5b2VFWHlBUWNBTnQya1NEMnJ0OXpMZGZnUHc3ZXlpZTBqU0NJYU9WcWY5RFRzNU5PTnJ2a1VGWFg3X0c0RUl5akdkZUxNaEVud0trbl9ObXI0bnhuZUY2dTMwWmJfRXFYSWVIdW5lZWZ5ZlYzeVp5TWVCSlHSAdMDQVVfeXFMT29aNUVOLVBrZmMyemhmTHhSWWxPT0ZXSFltVkRsZFRNdS1VZFQ4d2MzblpzVXFBSGlLeWU3ejh2NUtHbjYxemZKTGVheGpJTF9lV1FWSWxTcTJqWDlBbTQzNTRacDZCNlRoRkVMcmV6QnVxc1d5R09ZSzBBd04xeG1QS1NPR1dvQVN6Zm9iOHVNUEpSQVRCLXZIWDNvWG03Si02RTlSb0wyQUU5ekhYbWhLNXVkeWhkdFctRUdHNlVmUlgtbzBnVk9jcVJxSUc3NkhYbGhXaVZQQUNZM2lQUUJxZDh2RWowWlZuWHVncHdXUUVMZEJLR3A3ZVBlQ29kTFR1RzRZcEpKQlhkWkNUWXNtRk5ZMUJNOUNOUUQxSDFxVW9tR1EzNTdSY3hVMlU3Z1dWZjc3WkdHbTI1NVZndy01a0w1TFFMcWhRNUU4LXpsN0RPaFF0U05ZcUhzSHBqQVNRdjVKUWR4enFERmVpQS1KcVRmTjRWVWp2cGZoU0xfLWtVTDdHMmJod2JyVUxuOTAyNGJCRmVMVC1EelJMN2NWcnU5UlZOLTRwWVA5WTJUb2FQSTA3NGFfTG1tR2x4M2JGLW5TZUpNbENCNFRZbWhDTkE?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 08:28:00 GMT",
-        "discovered": "2026-09-21T08:47:45.948640+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "موريرا: سعيد بأول أهدافي في سان سيرو.. وأسعى لإقناع أموريم filgoal.com",
-        "player": "",
-        "content_hash": "55ecc787cf3a1372e9cdd83a38806a4c610e3effea0c4b6a1af1dd6f73f111ce",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3689,
-        "title": "اكتمال صفوف منتخب السعودية قبل انطلاق خليجي 27 - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQb241aWlld0hOVThSd2lGajZKTW1EQUhQQ0ROamNDY3dVVGdnXy14WE1FZGdaR2NUQllrS2xndWZ2Z25hMlowd0NIWTB3SG5ub2hDc3o0RG1wRVE1MzJ5cGhzSWRkS0ZRMlZEVTM4SXJ3MHRSSnFTYzdOelFhRWEzNDZCSmoyM1IydWZGbG5fU1hMSlV5Wi10clNSc2l4OEhsZnRsYnJjLWsydGVSQV8tOTFES0F2dW1DWFlJdTJUeFh3T3Eyc05EVmgxb2JnM3VZUkFLN2tkbkhPWmtvaXdyTVBMa1JwYXFRWDY3eUQ2WW1DWkFDWlZ0bTRQaU4tU1RJNUpmSjZmemdYRTdlZGs4MU1ZbFVvZ2JrRDg5cWpsbEhwbV9sZm5kdUlobnozN09zVlhJcTFBTHNHcjlIT0ducHAzTFc4cUQ1eXk5R0c4dURrQ3RiSTRlWWtxcDktdmh3b3E5WmdQV25QUWM0VHk1UTlreEJzdllJWkhmbHlmOWQwZkl0LUHSAYsDQVVfeXFMTi14czZXOE1sRXRSS0NmS3FqUVItUFJvbDBBdmh6Nk5QbTZXQzZvLVlVMmtLNjlTVEg0TUwtWmhRWlhDbWNWNWFVTnk1ZmZSTzVTa1p1WXZxOG1CWkhGSFYybVdTdGYwdmQ1c1NBc0E1VVJCNndHaXZLM1kyeEIxdGtseEtJc2hSY0NMaE93dlE5OFVPTkNNcnBYanJuX3JUQ0ZZTExMWEIxZDY5QlBVdHhPb0t2RU0zNEMtSV9ZNW5mb1RRaUw1Y0Y4dmlFcUR0SlNsWURrQVBBM2dFa25DU0VCRzBqRExUVUpzR19BNm5SQWVZNWtqcW9WNmloX2tnWGpMQkVVVTRCTjZXUkhQb1BYOUFiM0hCVi1sakRNa0FHbWpxSWRfQldtQ0h0WmZ6U3BmNUdzSVlDOWhqNS1ydGR1LTJMdTJlMERtbWlES2lDNGhYZ0ZyN3B0UVJ1dzkwV3lhTjM0T2ZWRm5NYllkT2dpV2YzQmg1Zklqb0Yya2owcW5yNm9IWW1BLTQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 08:25:00 GMT",
-        "discovered": "2026-09-21T08:34:47.645606+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "اكتمال صفوف منتخب السعودية قبل انطلاق خليجي 27 FilGoal",
-        "player": "",
-        "content_hash": "563074d327d9118300219e25adc1ab96509464b333b3ae648f87d930f3224e7f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3761,
-        "title": "الرياضية: بسبب \"إتي\".. الاتفاق يشكو اتحاد جدة للهيئة السعودية - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxPTVQ2b0t3QTM1RExNMW1tamYzRkhZUnl1SDkxTWhSLW01US1HUWFSMEEwUkhZVUZzYWx4azBqM2l4UHZNbnB4ekxhZTBLWWIwdTZocGR6M0xsd19McG5ERG15MjhtTURkYmxMS252X0FLanhCdjdQS2NLV2d3R1RIX2xwbnhITUMzeU0yMEgteEVJUFM1emdEbmJ6QVJEZGtsTmRfbTJiQnRtRkZOMk5JLU5vSFhkb0E2czJlejNmRlFDb0hVYURMQnZlN2FHVFlaWVBkYlZ4c1RuSjBqNmE1YW15cTRGY1dUUkNNRzJJcnByYm9wcE9Zazh4dGNOMzA2Ny1jUk1wM1hIMjI4bkVSTHNZQTlhcXozeEZ4aTFDTmNHSFZjY0I1LThiUGdRbFJKR0VobFRtNVNjV3Z2dmVVMTZGNFhaUHV2LWw3Wk1BMjVWc2d2QmlwaGhQcDBXNWp1SGhOZklDZ3V3X0RLSENSRy1MUTAtVUMxdzA2djZ3cHJGcXVFOTRaR1R6SjdlSkdUTEJUNURidkZSQklEbGJjZ2lFbjlWbTlwTHFsSWRvb1h3d0NzLUVRZmFVS1J3UlRFaGtEMjlRakU1dm13TTd4Nl8tU3owNHN3STNOZ9IB4gNBVV95cUxQWFRaSXFRMGVBd0dVXzJEQXVZSzZFdkExazc4RXB4NVNtYmZmMnRwYm9DaDRGeDZ3bXlmYzRUem5jZW9PcDRScDhPZVF4SU1aZElQanBhNnhOSUJlNHJ3RjIyMHNlT0NOdVVmek9oUEJ0Y09nZU5rOEVlMV9ZNFBGZEZrdmg4SUxiN3p0Z0gySjhGaEhZamRPRDlSWkJpaUdCUk9vbi1CZTFmeWFfaHBXaEh5VHdJQ0kxb3JGaXN3b3ZFVHRfX1RiMW9sNkZGMkQwSnRHV3ExSUowT1NGMHRIRE4xWkkzb1NGd1Nub0dpMDNNSjFvQzB4YnVIOUFXUUhQTXE3bVVLSWlHVGJYNDI1Ni0xVkVwRnIxeC1FYWlPclo2WV85Nm1DM1hybk43YUxZRHQ4Tzhlb0xHRFB2VzZPbU5XVTAtVFNfX0ZERlFLeVZwRWhrR2lDVnRWT1c1U2dpMlVWOUZPaWFfRjJvTHVOaXd2a0Vsb2NteUpQSjRFUnJsVC03SXRHTE5KbWZINnloNVlvVExTbzU0M3plQ1ZRc1BrMUppTWM2a1RTOEREY0FZN25YWVdiNFE2Wlh0clhJZGtfWDFiSTd1VUJCZjI1MDJqUTV0Q2R4Tm1JMTJ5TTN1Zw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 08:23:00 GMT",
-        "discovered": "2026-09-21T12:23:34.647014+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الرياضية: بسبب \"إتي\".. الاتفاق يشكو اتحاد جدة للهيئة السعودية FilGoal",
-        "player": "رياض",
-        "content_hash": "b42d3c07bdb1275bb2ad8f813f652faac4a759b53cb246d7bf7a6bbe372e09eb",
         "sent": 0,
         "section": "sports"
       }
