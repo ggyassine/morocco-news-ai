@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T23:20:37.661164+00:00",
+  "updated": "2026-09-21T23:32:50.256831+00:00",
   "total": 141,
   "sections": {
     "morocco": [
@@ -501,6 +501,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3979,
+        "title": "الرياضة - الثلاثاء 11 ربيع الثاني 1448 - جريدة الجزيرة",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XVUNleUVmeHRySUZrR2ctQ0xtdHloYTVyWGJqNllQYUdheVVwV3dLdVdKX2NfUHdTMlJUNTUzRkVOU29sMnNlNEdwVWlSUDJ6UEFNUDNpaElKRFU?oc=5",
+        "source": "الجزيرة الرياضية",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 23:27:12 GMT",
+        "discovered": "2026-09-21T23:32:29.169474+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الرياضة - الثلاثاء 11 ربيع الثاني 1448 جريدة الجزيرة",
+        "player": "رياض",
+        "content_hash": "6f15c7b7d2a56a6814979cb4c7ffa462c147d9ccc89da6f5bc83f9d38d192afe",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3965,
         "title": "مدير منتخب إيطاليا: نواجه مرحلة صعبة.. وما فعله جمهور يوفنتوس مؤسف - kooora.com",
@@ -1284,25 +1300,25 @@
         "content_hash": "3e7603b41528fd03bede2355862b9a1547cc3865fd17aa09cb24aa823966fca3",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3822,
-        "title": "رازوفيتش يعود إلى الدوري السعودي من بوابة التعاون - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNWEp0TF91dFJ0eVptb2Z6ci1oWTItY3c5T2o1TXZ4WTdFcUZBcjN0VERrZ3QwZU53NzJERXBxYS1VRHJ0T2JfU3RQdzB3VjVvejBfMmN3aWdVZXFrS2dlQ3RZaW5hOXNBZ24zYnFJczByNlkwNm1rdXRFcV9Ka0FpVmRBWWhDZVJWOVdsdXl0UEMtUl9MR3YzcExVcXFkcDEwcVc3NXlybkZfMGFEQVd5NTRpUmI0dmpEa1NsR0tQVS1MMmRCa2JqbGxYR2lKMHdfekNpNFhfM214N1plRTh1VWNkSEtmeDZzbnBtMERoQ055UVhlV2ZOYVZmZFdSUlJibTJQUk9iWlptM3ZYUGU0c1dYOGtwLUtnVjlpSVNhY1RRNnFLRGdTTFRqN3BBbU5MTmg3NzR5a3Y2dUNnZFJvY1h2STZueV9KTnRKdlQ4WHhYRU8tcW5UQmp1Q2dhTmNxbmdHekU2WktPbW5NMXJzdUIwQmItdThsNTk4VjVERFFvekdweU9TM0s1cTVlZUQ2NUg3WVZCS3hmZWt5cVJaZXdtUDFGQ3pucDM1QndfNlZra3dSRG9RZ2NPVDRYRjlfZTBsR00wencwWDM1Z0dfRTZGNGlWZHNwM29uVEpLaEp0Wi1HT29Oc3JwNGdBbjhMa2ViX2RsQ1VWNVBneGdaNllwZGJLTnE1TEZ0N1NnWFRWUklXZVRCTEhzU0F1VWhBQjVldDBrVUk1MnhFekE?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 15:32:11 GMT",
-        "discovered": "2026-09-21T15:46:11.823480+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "رازوفيتش يعود إلى الدوري السعودي من بوابة التعاون الشرق الأوسط",
-        "player": "",
-        "content_hash": "7879555d71b7c2116cad2f54108d52767b1d92389b74daec536d1007e4e5159a",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 3981,
+        "title": "مفاوضات حول الوديعة السعودية في مصر وسط خسائر الحرب - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxOZ2VpdFNRRkZYcS1ZZVRBWHVMQlh6RGZad05pUVpFZlNJUVdzcF90b2RZRExSUTBUckJySHU2Y1FublNJeEMzd01HeThkOHAyeE9JVlBtVDYyM1pNV0sydHd4UVF6dTlORHZINzcxWG9tNy13SDU0ZlBnSFlFVWIwcjdQUGpTckRrRk05d1JyNXdzV2tiRjZzMG04d2hUQjNqYjJoNHN4WWNZNkd4NlVDQXJiRjk4WjFmdTdNSmZtX1BIWXlnMFRVU1cxbzBWbGRZSUxsamRUVEpGVlBhcEFEblgyeGNxTjNiejRVLVZZdXg0QWp5UDByYjQwdm94WkpLV1pFYlRnalYyYU9Banl0Z1l2U2Q0NHBXMkJMOFpDbFJZMFZGbElzUTlZSkxsV2pnc2RxV1luZzhhaWUtSTQzNG5QaUEtdXJsdVlmbW1GV2R1RmN6RF85eTIzdmRsMzFQS252RnEzRGVqaFlTbGdOQ1hBbUpqQlltMlV0cnFzNXYtTFNCbUVwcGtpWFdSMkRpZkh2SXlGYnBId0YyOUVKMGRYOHhrUWUtdjNUadIBsgNBVV95cUxQTHVYVFVSS05XMWhZMERtV0QxdkJ5VDFkT28xY3VQSl9HUlJ5QnBpTU1FdWtRcjVWZU9QYXlBbC1fYzM0ZlRHcWhBMjc2aGRIRl9oOEpPaFFoRTg2TV9KdnBKQVB0ek5hRnBqbl9YZ3M2bDVMcWRnSUNzSjN5bGMyVXlaQ3ZENHlwOWpPbm9nczdtdHBWSkdzQmxjc0JQSGkzZjZZdno2aHpoQjdsU1RLZk9BM01VWk5ZLTY2bXQtZzRTbnNZX3VyT0c5RU1YNXhwMUNWc2NMVkRlU052Y0hnaTI2MEtoN0dpQ2FxZFo3UzE1UFpyaUJ1NkdLckJkUzliU2lqdWd4X3QxbVRRV2ZiWENscDVSZk8tOWlwYkhOUXRnVHYwd1hnS19RU096ZXZtUWxVd01Ucy1qQlR0THZkQWQyTFNTN2lzM0c5cmVUVEU5STl4UmZmX3N0b3BBUUZzX3hldFBrMHlGSkhieGZ6eGN4X01idmowMnNPS2xsZHQwT24wQmNhaVlfMlZnd2RHMkFLc0ZPWGVFRklPSjVFVmY5bWhYSzdORE9lWWlZS2VGQQ?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Mon, 21 Sep 2026 23:00:03 GMT",
+        "discovered": "2026-09-21T23:32:45.153020+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "مفاوضات",
+        "summary": "مفاوضات حول الوديعة السعودية في مصر وسط خسائر الحرب العربي الجديد",
+        "player": "",
+        "content_hash": "a7d7c6f1962d1f9a462e6a2878006d7f274e5af676bbedee951e9efeb8cff7d3",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 3976,
         "title": "ملف يلا كورة.. وصول عموتة.. انضمام خماسي منتخب مصر.. وحقيقة اعتزال الشناوي - يلاكورة",
@@ -2232,22 +2248,6 @@
         "summary": "من مكة إلى الرياض: حرب الصواريخ والفتاوى! | رأي القدس القدس العربي",
         "player": "رياض",
         "content_hash": "e4db68dc3c6314841fc720703cb8b78c53ce0553c740ceae4349760f3a54a72b",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 3481,
-        "title": "«التحالف العربي» يعلن نجاح اعتراض صاروخ باليستي أطلقه الحوثيون باتجاه الرياض - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNM2wyVGVpeXc3LUR1aml0SWNYMVkwNVVTZzg5TFVCWV9UX2gxazVudk5rcTg1TzVpa2ZrMnVTbzVfTGp5c1pjbWVobU0wNjcwaXhLRF9xWTJMSy1yT0M4dHF3YnNabkdJR2tQZHVVNmZtLWlVOFdXcGxjWWc4eGgwQmtFQ1VZdlF6aW04TmRJTlA2MlpXSkxSVmtCa2xZRk03anZhVnFYM0tVTUhiQ290SkV1VDBrcXViUDhseEJfcUw5SjhYNDkxdkhjTHZOdDNxSGE2NG9LaDlwMm5wT2EyakQyTmNNRjNDbnBxbTJYTFVfelJZWkdmN1NrTjZ4LXc0MlhuY2pvWmtGVjJCUVdlREN1RVM4SkR4WUFTR2lMQ3htbU9GUkswM1hxYmEzWTFyVkItb3R3?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 17:20:58 GMT",
-        "discovered": "2026-09-20T21:03:35.152822+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "«التحالف العربي» يعلن نجاح اعتراض صاروخ باليستي أطلقه الحوثيون باتجاه الرياض القدس العربي",
-        "player": "رياض",
-        "content_hash": "5292d3d3f6b085bce2d6cc3fa8570c906e2c57d954e1b8e1b6e39e6a3e62b4e2",
         "sent": 0,
         "section": "world_arabic"
       },
