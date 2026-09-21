@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T10:48:02.754897+00:00",
+  "updated": "2026-09-21T10:57:14.722574+00:00",
   "total": 125,
   "sections": {
     "morocco": [
@@ -469,6 +469,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3732,
+        "title": "زيدان يمنع لاعبي فرنسا من \"استعراض الأزياء\" - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPWVU1ekJ4Nzkyak13ZVpSZVNYYzJsOGE5RGNmNTltSTh3TkFwaGRKMjVINXdsR0x1WGNBMmMxc3Vsd3haTFZkZjQxR1cxZ2YzbFNQUEw5ZHpVYktKYld4dzdjMDNMa3RsSlIyblozVFdMODVKUGlMam1PdUdnZjBxcU5LMlRUX3ZDM2NOMTR1czQ5Qng1UHhMeTVzX1dFUklxSVlTOHUtdjZFS1R4aEhsQkZnVUVBb2t3eVNUTFA3TWNkNE90dmdMZnlNTk9OOWhETTBlQnkwbXNMei1HVE5PN0lQNGxfWXBYR09hUFI0OGNUOWJ5eVN2TGdPN045MVF6SDJ1N0lac0phWV9UZHFzdnhZMlh6SlBINEZCVEx0ZXJYdnp0UFJJbkFYd25CNFhZUWJDbllrbnltRFhZdG1ETXNvbFpybWxsVmtCUXNfTGMxZS1tNnFXWnhTS1FxeG15RTJfZk9tekdVOHJFdXhjUlJoeEtlcmdPVjZvemJseUFQWW53NjRlMEU5U0tlSy14NnN5NmdzRnU?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 10:55:00 GMT",
+        "discovered": "2026-09-21T10:56:59.975907+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "زيدان يمنع لاعبي فرنسا من \"استعراض الأزياء\" يلاكورة",
+        "player": "",
+        "content_hash": "d40b577d783163d9ab1fd5b70652c9e2abf36d00e71979bd819be1d1eb56453b",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3726,
         "title": "هواي الحائزة 4 ميداليات أولمبية: السبّاحات الشابات مثل الصينية يو إضافة جيدة للرياضة - الشرق الأوسط",
@@ -1250,22 +1266,6 @@
         "summary": "فيديوهات | ملخص تعادل فولام مع مانشستر يونايتد 1-1 (الدوري الإنجليزي) FilGoal",
         "player": "",
         "content_hash": "d4c308c97d39758ce5940951ab8c99f0ff7c877ac3125a5eafea52a49d0bc67b",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3563,
-        "title": "كيف تفاعل رونالدو مع هدفي نجله في مباراة النصر والأهلي؟ - CNN Arabic",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa2Z2em13M0VBTndhS3NqVTlIQ2plblBfOVdJbWM5dWRNMjdDVHktR0VmTkFDS1NLckRON2JyQUh5bDBOZlhxb3FBakxXQko5aGcxN2sya2hTZEJXdmQ0YWNUUjFQRGxKVmQzLUhtU0lvWUx6ZjR6S1hCVkF3d2E4c3dEVHJTeUd5NkZfX3FGMUFxM1ZqZV9QSF9yVQ?oc=5",
-        "source": "CNN بالعربية",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 21:56:52 GMT",
-        "discovered": "2026-09-20T22:16:31.199020+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كيف تفاعل رونالدو مع هدفي نجله في مباراة النصر والأهلي؟ CNN Arabic",
-        "player": "",
-        "content_hash": "94de2ce163a6712979bf532f70b488408fda07b2441708bda541b230585a8dfb",
         "sent": 0,
         "section": "sports"
       }
