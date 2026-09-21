@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T16:10:18.153579+00:00",
+  "updated": "2026-09-21T16:26:16.502028+00:00",
   "total": 119,
   "sections": {
     "morocco": [
@@ -386,22 +386,6 @@
         "content_hash": "5ebf56081dc1816a1d7de43dc52247066835abc331980fe7d7f062f0c70a5f4f",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 3431,
-        "title": "إصابة حكيمي .. باريس سان جيرمان يكشف برنامجه للعودة إلى التداريب - SNRT News",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SNHNwTmpsS1hoX3FZX0M4UGlRU2IzdldBalZnZ2pXRk5fX1FmTkxQeUZDQmhqUGhZNnZPY0UyZXBrQ0VUZVpIZ0FkWQ?oc=5",
-        "source": "SNRTnews عربي",
-        "trust": "A",
-        "published": "Fri, 18 Sep 2026 16:13:52 GMT",
-        "discovered": "2026-09-20T19:17:06.454246+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "إصابة حكيمي .. باريس سان جيرمان يكشف برنامجه للعودة إلى التداريب SNRT News",
-        "player": "حكيمي",
-        "content_hash": "85594351f0966dd14b89c29f1dd23fbee533d13c06be1e42560ee22d2fa41d17",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -418,6 +402,22 @@
         "summary": "تقرير: نيوكاسل وبرشلونة يتنافسان على موهبة النرويج الجديدة FilGoal",
         "player": "",
         "content_hash": "72e621b0779dcdd029af93fb2ffc2b666e8a4c3e6a66c7376f89eca0f67383e1",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3834,
+        "title": "ماذا يفعل مدربو الأندية خلال فترة التوقف الدولي؟ - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNNWsycHdDOHZ4WDlOajVPWkZwMEVOQko4V25KZm00QXZWZ1JDeXJwMUNYdkEwTjRMSzZhYm5UeXdiWTcxR2NqcGo2OU8xMFBXbG5MZ1ExUzFPZnNLcVZNUk42ZHhaV3paaDVVM2FsOHBfZFZXalNfVmhoVlRBVmxvb0FINktha3JKZUZVZUc1UUR5VXUzZ0hpSzIzZlpVR2dFS3NnbFlaNGpuUnc2aE1hYlJfMUY3ZjBWeHdQa1ZSY2YyZHJ3S3JnQXNwNDU0SXNzQ0JJdFdKU1g2b1J1N2NGWnJpSkJWVUdSeE5ZV2habjhkY0pKWDB2YzRiOUJENWJJWmxNZlFtazZ1TU43T2E3TTlLLTJfZmV4SjIxVDNQcTVSQWF3djB1dy12OU5VRF9VbEI4ZTFOTEhlTWxlZGZzZ1lLYnNOa0V0V0loczhsMUJ5OXJBU3ZJeWRTQ3FYOFlub1B4cGpPQTF6T1ZaNWxvRzUxSXo5N1M3UnlkczUwakI5UG1JVnI0YkZETFAtUllPa254eGVXS1BYbFA2T0hZMHpKNUV6UQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 15:55:00 GMT",
+        "discovered": "2026-09-21T16:25:59.731111+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ماذا يفعل مدربو الأندية خلال فترة التوقف الدولي؟",
+        "player": "",
+        "content_hash": "f34abc80037a38c5c240db0d6646ae6b30ece99a4f2c80f35d82b2f19ad75a79",
         "sent": 0,
         "section": "sports"
       },
@@ -1188,22 +1188,6 @@
         "content_hash": "70022c9d6f52c5cb42cfb7b2ebc3e8e1f540b10a8907a3df2b44e06328854c95",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3703,
-        "title": "خاص winwin | الدعيع يستعيد ألم الماضي ويحذر المنتخب السعودي - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNZTU5clJqNkI1NWFhRVlHYnZDbUxHRU02endlb3FTOGM1bENtWFYtZTR2WmRoZXZINFZpakw5UG5Fb2xVb1gzOElOWExDc3NDclJ1R2RVVTdTMDBmN3BDeVB5aE1xcThkWERQSzdPUWREYTY1OVFSWGp6d3FlZVJOa2Q1SllCSkFrZGZPcTVrUFlSa2JXd01Ud1YzUW1iSXdWSkcwa2pIdXlzbXFxcXJLNk85Qy1DTXBSZVBQb1g3UG0tSVQyRFBXbjNiWDZFREI4T1d2SV90NE1zSmN3Q1BmbjBjMV9DdzlEejV0NEhHNFhKTTNLSEhwLTFfdm1NeUNUSWNJaDk4cXE1UUxyNS1wb3EwbG1tdl92emZETTZaV29HNFFreEdCdUhBbm5WUlRiT0dabzlnaVJmVU02eE1IRXFtdGtVRHM3RE1Gd0Myend2TVJzdEVseWhxc05iaF9ZeGdVWEV1SnFHbXMyYmF3dzVoaVNvVEVyZzlJMzhNZ2t5ZTlCVmlGaE5QYUU5U3NkelVrbFI5V1Z0OXZ1UGdielloYkQtVzNlcjN4TEUtbFJZN09haW1GYm9BQXdjQ05NNGI5NHZPdkJma3VfYmdEc29UcjRoNFFhcDlFOVViSQ?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 09:14:12 GMT",
-        "discovered": "2026-09-21T09:30:18.137647+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "خاص winwin | الدعيع يستعيد ألم الماضي ويحذر المنتخب السعودي winwin.com",
-        "player": "",
-        "content_hash": "39dd125029f5bb96b4e7192a999c3d5589a1a20fe7b0b251a35f6e71983d2244",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1577,6 +1561,22 @@
       }
     ],
     "middle_east": [
+      {
+        "id": 3835,
+        "title": "وزير الخزانة الأميركي: واشنطن وبكين تبحثان سلامة الذكاء الاصطناعي خلال شهرين - العربية",
+        "url": "https://news.google.com/rss/articles/CBMi9gRBVV95cUxNeWZDaVFoZXFlLVB0QkdvOUI1bVZUNTctSTBrUzBPM0lvUUR2SjBlTzlnYzBuNzhRNE1xZThNWGpJOG5oRTE4TlJPOXpjd0o2OFhRWHlSSlduSldDQnJfVVZ4X0E3YXRobmg5Rkt2cTVZZ3Y4SVVqS3llNDhFdnRyWm9DQ2JDRTdZNFRZR2xtN3BOdWF2LVpuZFJzMEc3QmEtV3NaUnNscFQxbjlOWkVJNXllMFlHdjZJZE5HTVdCZXR3MGNTVi1wLWI1YW9lengydElGNVJzUFpRUG16M2RlZFlwWndhZW5LaDFFQmk2V0lPelNLX2xyd0NVdl9KRDJpWFdmLTZkOThUX3E3c1Z4eTlyQ1A3X1plMXV1TzNLZkFZVEJfcko4Tk8tZTQtbTBpN1hCdENZZk9UWUVpWm5ucll6SndpbjZ3X3pEZVdRNldTUEZ2eFNWY0o0NVhLc3ROUGk4ZThxbXJ6TUROTGtQRkRxRkRsY1dHRnRzRms5RGtqd0xDZjQ3aUNmd1czakNNREY0UjlGRHZhaFk2N2tJQmd5VmpqMm1wRzdGZkIwakdvVXJsZVNDTUh3RXRiU0t1SGo0SExQZ3N4OFlSZDhNZ28wZzgyZWQ1c1NuRVhoQmRqdkQ4SVNQRkNxNEZuSzFkNnBGdXhmVHNESjgzM0t6ekxNbGFwWnNrLXhhVzNSWUYzbWpPbURRS0c0SE9kMmJqQm4tZTFnQ3VRTUdSczFJY2pyM3JLWF9oRi1lUUxaRE91RUhVcWlnQ1RXRXJyVGxBZEl2MFVZeEZ5OEtCNUpuQW9sREFWckVIcE1QUE1INlRGT05OT3fSAfsEQVVfeXFMUFQzUkJCMEhEV1hUdHFkcFdHOVF6MGNIYTVlT29uSlF6SnN2bmxoaGEwZmlNMVdFUHVqWG9MazVUTnkzcFJGSTJIX1ZGRUVCc1JJbWktT0plRHljZjFjSEdOX041Q2lSdWg0cUlCZzVkVFYyNVhWalB4eVFjWV9EbEFGaFVha0JOd3VhY2xHUmwwTXJDR0pRcGxYZ0xVRVQ0anFkVnhOeXdCTGpwMTJCcGMtWnZSQjkwcE9lTWxNcmlmSEh6d0xTRDFYWjNKVVNOdjh1WWV4c09XRTgzX3Q1MHVxQlpxbUNiNE91ZDkzNWplUThqeTU5RGM3bkU5ZG53ZU5BZnB1LUg0VFJNZnZIampFWHBlbkZIMi15SEN3Nk1OWk1tY3VTZ2xYSlRiZ0R4LUw5eFJ2NFJnMGRUbnJmaVJ6elVZcHVXa2FqMFRIUE5EZEVTSTcwbVFUM21uUzBxM0p3VUk1UlRjUUo2QmQ0eTkydGhobUFTaTNkMXJHVDVMRy1mZVFibjdrcnZMdkRoYVVONUtxc1Y2RnpRT2R5MUZUU25felJscHItbkpIUEVLa1cwSnVGdndzLXBESDBlOXdFSy1HRUtZN0ZZalh2MFZBQ2JKM3llcnB4WVltRFRRQlhKSy1jWjFLRTk5WXV2UUJEM0RLdXBYa3p0X2E4MG1sM2QzTnpLNVo2bnNDbjl3dFJlaE1ES2lUY3FlbzZCWnR5NjZlWExTR3Y4NmFDanFqSVdSelpUc3ZUamIyX2o4WnNINWxHN1R5QlBwbHRZbEFUemFZVGk1NU05Z0w3QnpfREQwaF9yRTEwXzA4WF9HMjExN3Z0XzNGUjA?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Mon, 21 Sep 2026 14:41:00 GMT",
+        "discovered": "2026-09-21T16:26:07.816023+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "وزير الخزانة الأميركي: واشنطن وبكين تبحثان سلامة الذكاء الاصطناعي خلال شهرين العربية",
+        "player": "",
+        "content_hash": "aeebfd35b964ed9eecf1a502baa2ebbbf78025aca05645a0952155429789ba81",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 3797,
         "title": "قطر ضيف شرف معرض القاهرة الدولي للكتاب 2027 - العربي الجديد",
