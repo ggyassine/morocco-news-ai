@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T17:28:51.907332+00:00",
-  "total": 121,
+  "updated": "2026-09-21T17:41:16.160544+00:00",
+  "total": 125,
   "sections": {
     "morocco": [
       {
@@ -405,6 +405,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3857,
+        "title": "10 نجوم لن تراهم مع منتخباتهم في فترة التوقف الدولي (صور) - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQczdrZUpuTUgwdVBQcURFQjF4Ym5UQjZhYjFCS1NtVE80LUs5OG9qZGdGMnBQQzFBM0hIaWk1OFA1a1hudFJJSXZBMVYtZ05kbjJqaDNLaU1RRTFjbmNkbEdLcE12UE9UbHI0UmVVNGstYThhS3dSR3ZCV0dIcVdtN1AwdUttZEdMbTdKcHZ5dUpjd004a0lsV245NThESm1iSTJPeklLUXBaWDYzZVU3X2RrdTNveHAxTXA2T0R5MHFucHJpVldBaklyMUtvX3hyU0VpdUJrOEVBVmpLdTFYTGpYZ3FRSkxtYjQzM3dvbVNydG4xNGJTZGY1MmNYQ3J3SlBGZkFJNnFWZFNmeU9TTGVkdGdXV09IWThsZzNlek0zbzU1UGV6NTB3VzJKLVlPLWRjX1pvZnpjbkdkTVMweUcxWWRRTlJZUktvVDJ0YkVEVEZYdFBhVjRNRGx6TnVJeUl0SXlZdzNiaEVuZm9tX1NMRk9tTVFpQVhkRS1LSE15ZVBZVDV0MlZPdnZ2Wld1NW9OeGp2dTBJc1VIUE5xSmVsbFBDRE5iQjF2cG51NFpZWGN2QnRTMWhXY29ZTU9fRGVRVGFCZ09vS2xGY25RRjFqOTh4OWpKNkp4NHZ4NmvSAeYDQVVfeXFMTVktYW9xOEJGZExpbFQwYV9tbUQyRzQ3TjV5MDBFX0YyMTZfR09GLVAzRXB1d2doZnV2QlNMemxzVUhkZFdpZGF5aGxRSlJSSE9TMVotV1M4RXEybUFWU2JiSUhvOU1iS2tfeXh3cFJ1M01McnFySlJwVVZCVDYwM0JFM3dOd25LanJWVExVSUN6S1FldHNYNEs3QmxkTUZBbld5akN1NVR2eDdlX2lZOXVQeklBVjVIM2Y5TDVEU1RYQkFKc0h5aUEwRms4T1hlNEJiY2J4bXllYXNXeWVCN0VMeG9xQ01fQUtLVHVpY1JWZ0IybC13eGhnT0phYlBxTkhmV2dCYzRGQUQ5ckp4R2tjemlETDB1VlpqZDM0UnFrRkFWbGpLTnB1VUo3YWxQbjRhZm5ibTJ5S3dZYW1RZVF6UzZGcnBtV2tIX25MaU9HOXhKaVdaNVdfSGYwbDhjTHBMQUFKc3VOTmpzSXdzUXNFcm1QRVBDWkI5X0t4TjRaU0R5Rnh0NW8tYXRSamFsQUYyakF4WUlfVkZqakR3X1JwU3R0a01LYmxCSzNwYk41Vl9PdVRGV2RqQlowWDVyNmNfRlYwTDRPbTktTmlDd3J0SkRBUjFsVnR3RnJXRURPT0xWY1dR?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 17:16:00 GMT",
+        "discovered": "2026-09-21T17:40:54.644996+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "10 نجوم لن تراهم مع منتخباتهم في فترة التوقف الدولي (صور) يلاكورة",
+        "player": "",
+        "content_hash": "1e95baee0291f88250bfb894a1cf8903a8325654a8db8307863e0a92b4ce2635",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3850,
         "title": "winwin يكشف هويته.. مدرب إسباني يقترب من تدريب الوحدات - winwin.com",
@@ -1188,25 +1204,41 @@
         "content_hash": "824cfe31ac6981d24db020fc1e2add1c91b0f04289063de21b61bdf1bef284a3",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3724,
-        "title": "ترتيب هدافي الدوري الإسباني بعد الجولة السابعة.. رافينيا يحلق في الصدارة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMivARBVV95cUxONWtDSUFKcXJmbGFodFo5U0I0V2prV2ltaWZCUm8wR0VNdmJid1d4TDByV1UwVGhxd2NYNmdOX0VrT0NNbXpMX3BfTk5SXzBuR2ZFSmZKYXpUY2Y5bTQySnRsc1dEUGswRUw5bF9JalFQamhLaktCUUthZk41WFh5bnFpcHdMaXpNUTV5MkhJbEFyTC1zcHVmRGpzbGJycFI5MWJRb2htMzlEeWJVMEdLWXEwZGs3UnBFRlUtNThMeGRDWkhrZFhxLVJZWnI0SVRqSk93V1ItUFdKbHdtN04wWTJMRlcwWm4yY0VETllOQ1BsdFRZTDAtSFlhdHp1R0xTemdfbXBCdmZ3QmlKNUlOakxkcTJ5Ql82Y2xLbWV6SWtOU0VENTRLZnNIbXZYVVFxdTJvUWVtNndZSDM5d2tORTBWT25tYWRBVWFHelJBVDl6Wk4tU1gwV2E3N3ZIb2ZxdE5velpRSWR4YTAzYXM0U2tkWmpRa0JrRkRFMUg1MTl1VkxUU0VPZVRUVGozemFxZC1jYUltOUhPQWk1M3VwSG9Rc2doTHJaTGJwTC1zRkJrOXFYVjIyYzVQdXdoV2lmSjZFN3I0SHhvb1E5a29idkN2dkk2VmxoTGlIbmpIX2lWalUwbGVJLWtsZmtEVUVFWTl2U2dtLVdPSXhrY3kzVGl3OXluMnhCZnNFSDlNSnRMYm9YWkdpVExJTUp1OF9rYVl1Y3RLZHRiUGZaQVJuaGEwSXpXWFFIbkhGadIBwgRBVV95cUxNdk91aVZWckhpZ2xEMElzNWVySmRBa2pPZ2hpX3YxUW1nM3pWQjZVMF94Qjlhenh3Um5STVlZR2xHclU2ZXB2NkZ0bFlIYlN3SktPTjgxZ1NobjZocmlOVEdRTmZJamlHQzJ0dndzTjZMS2M1Y3haa3RsRU1sT0xKSjdxV1hFemdpVTBIUWg2WUlzbFAxT1hIVXg2TGsxMzdJaDg3elNVNlhJUUtVS0VmVmNqY2RyQ1drMTJEZVNVUnlzQi1Ha0tHQlBTZm5uT0RxUF9pV0Vna2pwZllmUUNTLTRBWlBJaENMVzZYXzF3TFhWTXd3LUtkaTNOOEN6QThxVWJFMnJoQmxqYk9MZU1TNzFHdHlMRVBNalRUVllLbGlaTjM0MS1Tblg5ZzN4ZVFaUFlZOXh1TmxPeWF0a3U4bUZ3blM5LXNJdzJQNjl3ZWhxbHJ6QVllbjF5WV9pNkxZMUtTaHBmOHdnR3NSTnE2eXRCaHdXc3p4bEJRTkRRTGkxbndnOUYweDJibmNVZ1QzMHVJM21iVjR4UjNWVFRqRWx6aHBGQlpRTVpNQWNscGlZa01iaml3WTQzVHFIZzNmMUhvMzdzUWZLM25UYkVoTEl1RnZMWjgxWUFkMkNTRThHTVhhYnNuOWpBT1NnUXF3ZDFDSVVrd1ZtYzNwd0pJV1pGLWZld2FTdHlGWFUtNHlsT1pualM3dFRCbFl3UkNFcVUtd1JmV1RlUkphODRmbUcwcHMzamk2elFrcVVHT1Bvdw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 10:13:00 GMT",
-        "discovered": "2026-09-21T10:23:36.835703+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ترتيب هدافي الدوري الإسباني بعد الجولة السابعة.. رافينيا يحلق في الصدارة يلاكورة",
-        "player": "",
-        "content_hash": "478794d013937edb53407d18ca9af4c77335dda1162f7a47e2da07728da9dae1",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 3856,
+        "title": "أبرزهم برشلونة وثنائي إيطالي.. أندية لم تتعرض للهزيمة في الدوريات الخمسة الكبرى - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi-gRBVV95cUxPNEdpT2tQLVowMmIzRFNFUlVXQW1BVVB6bktuanU4VlhWc1U4T3FKcEVOUlBEM0VCazcwTVV5YUdrbElPTTdmTzVrZWtVS2w4bkF0WUpTNkI3c0YzbGZyMzF4OGZ3bkk3VFV2Q2xIZ19UNUplclhoblJLUlhPMFRsWmROVk5BRlE1WHJNRmxvMzE3R0RTNVhtbWc0TzAyQTJiZWZPeXVNRFhUM1lNUWNsdFBZWThqNVdsb01pLU50ZUk2LTRlUWpFX0hENmZNMlVGa0JRSG5Qa3JLY3NrRjR4dWhwN3p2Q2hfRUI0dTA3Tm1oWXF6bmpmczdlYUpXRkRIekdtekhkTVY1T2FJbU9ac3VuRy04LTJHUWVVbzFSZ3pqa05WMlJUdnZRWEdLYTZtX2RZbkZHRUFDcUlLRDJibHZwaFNQeU9VLUIwejJWaFpUcFNjY3NNU20zWkJZV2wxUGV0VFZfVV81YjVyb2xLX1BZWUhqRTFvZ2JQTUJVQ21WeEZzSHRwSTc3TnpRQkRGRkFocG05SjZ5ek0ySTh5Sk1Eem9zYUUzaVlPLW1BZjNiR0dBOHVFSlZWNDVZaHZnTnJMT2xVRXdGZjNyb1ZBaFd1S3RaeS1ZamtucVFzTHZucDBzX2JHTlZQdEhmX0R0cjZWX0g1WGdsM0tQaktJOWVfdGJUclF0S0Q2YjhRRWI4UGFnVnFscUNvMVAzb2pPdXhOUjJkVm9FaUs4X0l6bmYyeXRSR2F6blM3VHJmeDNEWi04OEpndW00WjRLVjhLUlkzU2dOYWsxb1JSeTdENHRxMWRBSnFNZWMyUTJUVlFUSlZxMUJlX1lR0gGEBUFVX3lxTE4wS2JzZkp6NENsUUhVdHo2dW9CZDBNTEJwSlBDMWlfV0Z2MTZlVkpxM1lVNHRaNFd3SDVZRndwb2pfemNTMFlVRXVSRDA5N1ZMZ29WODRCUGlrLTNoZ1hJTXBiYTM3S2cyTGtOclgwSTlsSjBrcFZNbktZOEFlTGhrUnBtOHVvSmc4WldYVUhmQUxiWE5LNzQycDZKNUs2eGFfWnNHV2JHQlFNVktGcVAtQ2lYRnZrOEpHblpBRFRjano5b1BYcjgzZTQzeUM0SDRIdGV3Y3A5OXpRSDFPODdDRWxLZDVlSEdzdXc5TF9rYUJlR1ZnSlM1QnBnYlRSbXZsYWwxRUNDb0kzTHlLZ3QtbE5LT2ZmdjJMd0RhdWxCQkJjeVpKbWZldU45dTJSTnJRRllMbXpsamstUHAxMkhHOFNibXNWZ2ZBSHpRckZZZGdKZEdVdndOZU1hWUpfUFdaa1N6ellTblVfbXh1aHRnWDB2UDB0cVJmNURtRFZkc281N1hSNm5NVjJndGRvWmRQSTlPN0NaS1JBRFJmTG4xYlFxZHdlQlJ3bGF3SXlPWHF2MWRhdlEzNUxHUk85UHBEQjlHdXJJUGs1YnJ4TFljMnRMMVlmS01NQmdrV2NoVVNfZUlVYl82cTJVXzAwMUN6NDUyVk9tUG96TzYxQ19aMDVvcjAyQUZacHAyN2VPVEluYXBqTlNpdkR6VVlIV19pVXlvYkxvOGxwbEFLZm1ublhHUThSQUtCdTNMUTI4VmdodTUtcERIVlNyVWttVkRPQXU4QloyeHU3UDBNcnlSazZ0d3BkcVRXYjB0VnlrQ2cydWhua2dlMEZJYXdRYVhHUVAy?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 17:37:00 GMT",
+        "discovered": "2026-09-21T17:40:54.243085+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أبرزهم برشلونة وثنائي إيطالي.. أندية لم تتعرض للهزيمة في الدوريات الخمسة الكبرى يلاكورة",
+        "player": "",
+        "content_hash": "4a014d835a4eb586af8542ac3107a3e7f3735d24939f3ac6b81004ca43291419",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 3855,
+        "title": "في مقدمتهم صلاح ومرموش.. انضمام خماسي منتخب مصر - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNbjg2SDRaeGx5S001dUczbEt5bm02NXVlWjdZN3JackpFdGlGVS14SndKdldtRWduQ0xoY3BNN0hCR2x1TTR5RTdyNWJtUW1KU040SzR2RVJWSlZWNUZRTjhzTzlPbEVsYlRFTnNwZ0xnQzNxVmtxUjlUMl9lWlFNSkNDbF9LcXRwVmJ1RWRETGR2QTJGZDIzb2NwakNPVDAweTMzVXVBQU9rWDB0WlUweEZQdHBNX0ROVkp6Y0hnSDNlVy1ZSDVnY3ZCU3hINnB1X2NlNjFkTHRRUFo3R1I1b3B4OGxrWDhZLW5vVDNobVVjRXQ5TnZqMjZsNUNOZXRsRnNrTGFTeWtqNWYzYTlETHBKWVRvMU05d3g3MFNndHZ1RGFGcmxXVjYzYmFnSVlfVkpuT2c3dldxS0NncjhhNVJrQTUzbFR5RHpMTHExTnBseThUUWVvSG92YktwTDBIeTZRNUVrVnBUdnJqY25SOHFVaGhRdHJSaHpmMVM5NW40QXFmOFo2QjMyV0VTZG44YlA4RVZlRlJyQU5BRWhxSU1yOG3SAaoDQVVfeXFMTXVvYjB6TnI4NHkwN21fR290c2p4cklfSGo5Nm9qSUJ4bEVDZVdtZDlJdHZHejJ2cVZDUUlvbldaQkNUYlBNUFJLeFlwaXd4Unk4NTcwNTd0Zmp4SjZjZTFhci1kMF9BQ2NjWTAzajFyZjdBTHV3bndRV18tNEpDOVNlRzl4RFVrRnRZdzVLbTNySEM1WWxzOHJCR3JYMTU2c3JMRFpVbGljeERIeXNmTDRLZzRPejgyUnBDVHNOUktWVThfWnJjc0hnQ3FtUGE3MU11eTlLQ0ZvV0pWdUFZUEs0NjBlQjAySUtXVUNmUlROR3JIQkJNSGVDX2ZkQXBCREJWeTNLYkxrWVZGSVFvWldreW1ubktZLXdNWWpXUl9HSFk3R1VjdlprMnFLeWo2SVRfVHg1cHFLN3V4VEh0QlZSVmp6T1BfbGxDZDRtWmNCZXhYejR6VUE0MVcxTXU4c3lZSldEQTZ5V1BZaXpGVjV3UEl0NVhUNWVXZFI0aXRXbXpJT0ZZakxCbUxXRFZRcmgzUmtWWVRJLXdPRjFpZVJUWmhHOVU1aUhR?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 17:24:00 GMT",
+        "discovered": "2026-09-21T17:40:53.710456+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "في مقدمتهم صلاح ومرموش.. انضمام خماسي منتخب مصر يلاكورة",
+        "player": "",
+        "content_hash": "aaef7455125bc818dace6e57558ec22965cdfd65a9ac2625b5c292968406b292",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 3853,
         "title": "الذكاء الاصطناعي يتوقع بطل كأس الخليج العربي خليجي 27 - 365Scores",
@@ -1590,6 +1622,22 @@
         "content_hash": "93d6abc4793330a5a9ddfd65f34bc52bacfe108a4be30c820e862ab2e67b0e9b",
         "sent": 0,
         "section": "transfers"
+      },
+      {
+        "id": 3859,
+        "title": "ما سبب موافقة الزمالك على انتقال خوان بيزيرا لنادٍ إماراتي؟ - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOXFSYm1pbUdPcnRUaDhPZ3BrYl9yTjlKRW5Hc3NYbEhOMXE3Vk54UW5sZHFsRWJ2MmowR0tMbDRNV2ZpQm1zVDRzMEFpOERnX0I0d01pVVRpRmZhSVdCTGhUSmg5YTloT09EaER0UW9TR0pLbWdZUWU2MHBvOEVOYW5nRjI2RkFwUDZr0gGWAUFVX3lxTE5jU0hnbEwydHJzTE1uREtyc3pUelYyR0RyVDhHamstcHFMcjhyWm4zcWFYUWllMlg3bmNCdUtMWWUxM2xENTVLaWdVRjlGQ0toZHFKMDhtb01fVXMxNC10TlFhaTRKcU9hNTZxdDk4ZGNKSzE1Snh5VXZDTW1Cb3gzRjdwdVplZ1FGd1N0OFRwSUEtX1NGZw?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Sat, 19 Sep 2026 12:04:35 GMT",
+        "discovered": "2026-09-21T17:41:14.379379+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "ما سبب موافقة الزمالك على انتقال خوان بيزيرا لنادٍ إماراتي؟ CNN Arabic",
+        "player": "",
+        "content_hash": "3dc60570dd27cf1ba5ce5c91e2c27a9134f829fe519822df1eefa04accb8b7cb",
+        "sent": 0,
+        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -1851,6 +1899,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 3858,
+        "title": "الولايات المتحدة تتوعد بإيقاف حركة الطيران الإيراني يوم الأربعاء القادم ضمن تحول واشنطن نحو شن حرب اقتصادية بدلاً من عسكرية - bbc.com",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qZS1uRVVseW56YUF2SDh1Qld0LU1KMGdPUXdhdWVsU0czcEhndHY3Z0N4RVlaenlBeFJZTnE2czRFNlY3d0tSTWh1MUFiQkRjS3dRUjRtWXBCQ08wTUHSAWNBVV95cUxNZTJEZDVNRXFHT1NrY2lSXzhEUTgtOGxWU19KV1N0cDlqeTdYaGFReVYwNFlCNjFreF9ZZGI1ZzdVS3BoV3VGN2JsOHRPRzVUMDcxYUJBVkd6RUtBNkd2bC1xczg?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Mon, 21 Sep 2026 16:30:56 GMT",
+        "discovered": "2026-09-21T17:41:11.957569+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "الولايات المتحدة تتوعد بإيقاف حركة الطيران الإيراني يوم الأربعاء القادم ضمن تحول واشنطن نحو شن حرب اقتصادية بدلاً من عسكرية bbc.com",
+        "player": "",
+        "content_hash": "084e8802da19be71cdcf5d1b2626aea7ac6abe5cad483fb597b233eb84bee912",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 3692,
         "title": "نيويورك تايمز: ترامب واجه معضلة في طلب السعودية المساعدة ضد الحوثيين... قرر الانضمام ثم تراجع - القدس العربي",
