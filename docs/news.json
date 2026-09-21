@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T21:18:05.291207+00:00",
-  "total": 135,
+  "updated": "2026-09-21T21:31:22.985298+00:00",
+  "total": 133,
   "sections": {
     "morocco": [
       {
@@ -420,22 +420,6 @@
         "section": "morocco"
       },
       {
-        "id": 3439,
-        "title": "ديابوراما: «باركينغ» جديد بمعايير عالمية بمراكش - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NRkd4bGQ2T1dJUG9tLTczdENDTWNPbnZ1TUwzSHFwUFFTeVkzZktjQ3dBZTZhQVJOYjNSSjdnblB4cWdlOXh2OV9rXy0weHExeVJmcnh6dWZCN3RBa1dCdkVxT0pSS2s?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Sun, 20 Sep 2026 13:50:35 GMT",
-        "discovered": "2026-09-20T19:56:01.925173+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "ديابوراما: «باركينغ» جديد بمعايير عالمية بمراكش Le 360 Arabe",
-        "player": "",
-        "content_hash": "5ef94bf88b646eb27b5526e0e8afe40908c7d56903bd4dba5a9ae4a2264705d3",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 3573,
         "title": "الجامعة الملكية المغربية للتنس تتسلم درع اللقب الإفريقي - SNRT News",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNUEV0R3BuMHIyWmhvTUlxbkM4Z2NzT200REE3REJTVGpBemJieFA1cmY1bU5WX3BleWR0X21aTnd4VlgtRThRbTFwUQ?oc=5",
@@ -485,6 +469,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 3945,
+        "title": "اتحاد الكرة: منتخب مصر في بداية مرحلة جديدة.. ومباراة أنجولا ستكون صعبة - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxPWW9SUU13bTBXVnhtWTdXODJWdjRoak14RVQwLWplVkVKTld1Z2FoVXZXUDA3TTFCQmxiWFRITThyZS00cXlXZ2NEYkFzVUpNWWgxR1JzZzFUakpfbTl5UFRpSUc4VGlyMVJPR3lRci1pX1pERlBNVm1tY0RQaUhQVUJXVnE4Ukw0MGIzUWJrWTZUM3dKbGh1VGVnS1c3elVnRDJob2RCLThIZzVjOHNxcV83RXRGVWNzWG9yVFc2TTJJdUxJUVhKQTJPMUxXRHdBRTJJY3JtbUc4NlFhZXdqQ3R6X2dGYnhybXVTSWh3TTZpaWVGRTNqLURIRjg2QzNBMWVPT3BBeklzTUZ3QWFsY3NiTFNiQmxoWWlWQmgwUXJwWnd4bV93OFhMMFEyRVJzSU82aEZLNjFmQnJ0SE54dk04b1FsRHlJdFo1ejVkek1EV0VaWjUwc1hZUm94dU9RVHdtY3NnY0RqSFZuSE11TmVDb1VGSEVjNjNOeWhtR0lSTEpCVV83eE9TLUtXNUpIVzRkeDI3MERNLXRybnBUNTVNdHhtZEtKYmlZRjI5VFV5V0pUbEd0aF9LYWMzMTlQMHR3ek1TckM3bWgxeEpUbWRzQzBOaW9yVGYyN2x3bUZIdG14MmxvUUdPYVhYanYxV1k3ekxVYTUyc2FldXF3Sy1jT3VaaFhrOEVYdVhXTW9FTlNUdVV3R3FuZV9qRnNSYWhWbjZpM0xYTmctMy12QmxpLThMZjNhZnp6SDUzTHbSAcYEQVVfeXFMT3FXUk5kS1RKMmVORE1iLWJfZjBsYjNEU19NUjZ6aEY3LWp1ak1EcktpcWdhYkZvV3k1TE5jUjBtSHFrY2dyOEhuR0k3ZWU2REZiUEU4bjRQZkdUbExUT2NVYjVFMXdNcGJrVTIwUVI3Q08yTWNHbkFtdjd1ZWJMOUp2VjRmSXB2T2xUMjNQZWs2S182T3RsblU4SXp1R0ZqT0Q1R0RlYTFrYmF1Y29RV1R2bWlZRjlFREpmMHVzMjJpOGtEb3FLSXhpWEp4QnhUTHFzdkkzSk1OZktMcGVqbkhDLWNaVWY4NDY0Nng1MUROalp5b3NBY3hRanVtQ1NIbE0tNFRlSXVSUFd1ekJXN205MmtiLVZpYXZRSGtDUzQ5WkxoVG5aMlYxNUEwYXZja2tqMG5FYjVCbEpuRTdxVHd5RGNqeDM1UXg4OF9CUzNoQ0ZscDZ4ZTUwQnhhV0tPZWhINWpjZTd1TmxpRHRZV2MzTXBlTlczMDhYTTJWd3RIaEJBbTFFMnJGTmhsdms2MVFnWDZILVJRMVdxZkIzb0JNWGY1Qk91RjBpVUY1U3ZjTTJhZWx5NWFybmlaa3pzcXpISmhWdmZlYWctMUpOOEdnRXRIOEFrVXZsZzdVSnIxVnJ1LVpRUFlVc0J3T0FCaW01NXVWWmZXTTRHQjhfSVU1WG9iVWlGZlROeGFLM1lkb2MyTHZscm9KRThIWm1ZVF9oRUplTkxQc2NXLVhnYVRfdk1NbGx1eGhUcjJjYnNYVVZjMUln?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 21:24:00 GMT",
+        "discovered": "2026-09-21T21:31:08.581087+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "اتحاد الكرة: منتخب مصر في بداية مرحلة جديدة.. ومباراة أنجولا ستكون صعبة يلاكورة",
+        "player": "",
+        "content_hash": "ea828db2fd11d827fd7af5fc924419628739e7fd962dbf7cc7dc7a37dcf71ef4",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3946,
+        "title": "مدرجات خالية في افتتاح خليجي 27!.. ماذا يحدث قبل مباراة السعودية والكويت؟ - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPQ0IwNXRsQXNVeWNjNEctOWpvSmRMQm80MGJUbk5QRlo5dkV1eXBoZGx4cTdOSkpQWFJ3WUdEN19Tb2lPY0FPaHplX1hJX2NBVDZqTFpYeWtnX3FOMVhMVFFOUHphZ182NVE0aElmSjJpWGxGaVgyUkM1aE1fRHJ1OTNDNG91R2RSTkZkRFVHXzV0cDFwTnpHTXltN2ppWHRROFJCUWthblYwSkI1SnZ4QkFjazJVY0M0LXlQa3ZrMV9BRjlJR0dnRUdFV3JhUmZCTHpoR2xhMkZ6aERrZDhsbnZtR1ZSanlnOHdreTRlOGJ4Vy1Nb2tBOTdnTTFkcTBTbURjNEVUV013ZTlrU3VmMm5hQnlmU0U4bzdaOU5QZFlOV0pobXYzQ0RpcXNLdEhsNWN6LUNHX1A2X0R2dW9aVlZzbGt6NFpTYVZWRXdBM3lQU05xTzFIRTZFRQ?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 21:13:09 GMT",
+        "discovered": "2026-09-21T21:31:09.713225+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدرجات خالية في افتتاح خليجي 27!.. ماذا يحدث قبل مباراة السعودية والكويت؟",
+        "player": "",
+        "content_hash": "72f489bf667826ffc1104f22fed47aadeba820a465d0b48059913cb8e32f079e",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3930,
         "title": "ميسي ورونالدو.. سباق الألف هدف - Elbotola",
@@ -1250,38 +1266,6 @@
         "summary": "ترتيب مجموعة الإمارات في كأس الخليج العربي خليجي 27 365Scores",
         "player": "",
         "content_hash": "1419966d634e07d079f7160ce6361f97dcfb53f86e42048521e585f3996c5521",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3876,
-        "title": "شاهد.. مقصية \"بورخا\" تطوف العالم ومطالبات بمنح الهدف جائزة بوشكاش - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOQW9ZUXNiMmVuSVRlam9TUWlWTk0tRm90eWRjX0h3UUZVay1jRENSX3lNbWJ4UTNuWlY4YjczdTdNWkxTRVNPT2w1YVN6WDVEZXdmRUI0R0xWWnY4eFFjeTRYblJDMWpSYWVSMEg0MG9KTzRWaWRlcGxnUnBENUVjT1ozNlJRNTJIcDdGNzc5UnNDQ1lBRml4VVU4NTF3eUJITDNGOGJ4NkgtMlJBWHMzTlFybWM4SjVraFpXY0VLbHlrQVp3STQzbkdiU3dFQW9UejAtdDlNTjR3WFp3U2w5aTVXakV6Nl8wbk1MOHhMYndMNUhpRl9zRV9wSFc2WE55X3B4ZGlCZ0w2VnB2QTJ0T0lFYXRwYlA1NGIybjFBQXc0SlVwSHByNnNlQnBlN21Wc1daYzg2MnROOFJ6NVZZMmhHRdIByAJBVV95cUxOenRFOHlBWDg4ekFTVjFKNVBxV25GVmZhdF80Sk5sQjdZRThpNDhJX3VBN2YwUkFPQUc5SlFza0s5eG9SU21iU1Jrb2t0b0Z5dndReHk5VGR0VUg0QmQ5cU9VbEViTXMyMGdHamhqWXhFUkUwbVJxQ2p6U3JlM1JjdENVYkFGeGhKcFhJMllOcU14cUZhS244dUoyMklnYXA5OXo0LVdFMFlTNVRwS3ZHcXF0UU1GdlNMR0I1ME9HU0hKM0pMeFRQeDQtcEVSRm1VcWFMb2xxd2dEVFNROEJnMC1PWVRZRjlyaXgyUmdPeWd0b29XdHJhVkV1eExhbmZhWk1IWEZ1b25KQUcxNm52TFdDeW9Kay1RUzh4NTlPcXVib2ZIZTc2bWlJOFN1Yk9NM3dybWs3WFd2NEZSLVppQ2RxQnR0V0hS?oc=5",
-        "source": "الجزيرة الرياضية",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 14:54:07 GMT",
-        "discovered": "2026-09-21T18:37:00.251558+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مقصية \"بورخا\" تطوف العالم ومطالبات بمنح الهدف جائزة بوشكاش الجزيرة نت",
-        "player": "",
-        "content_hash": "7977cdeab459cb47b3f501316f59a19b216895dbcf0bdf54041f67bef5ad44b2",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3914,
-        "title": "\"تنشط أجزاء واسعة من دماغك\".. لماذا يُجرى فيجورست تدريبات ذهنية قبل المباريات - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxNQy0tM0IzdVdMeXUtYlJTbktIQmNseDN5b0xBd2Y5Q1JaOExJLUI5UlBSNTkxYXhxWmNnd3hQTDNvS1h1aXBGZml0SWx6OTJhTnNxcnNDaFNURUJaODEzRFdVVHhYSU9JSGNLa2hjSy16eWtwczZzZWlXODg3dFFtNFA5Z25WLU1TaExnRkk5dERFSUwwUjFlT2tDbGt1YXZJVmRaWlFJanVMZ01mZVNHZ2hjRG1ZUGFIM3g4U1MyTjlUek5YSFVDNi00V1RHZ2dza3FrMUtvbTNPVDJtVFRQaHJwcXJOOTRObUh6Q1NFMDRPRjVMV09hUnBVWnBSQUFla0lvSGZvM1IwS25meFdNaE9YRUdtV3hvUXI5RUVmUkhTOFM5Y1BDNXJxRHZQbTc5TGVZekJjd1lOd0NSWExMV290WTFKa3N1aGZldndCaEdQU0w4NjJSZUJDXzd5V2x0dkc2WlRWTUVFeFlJMXFVcVFDb2tNdFlPM1lMOS1iMWlqMXloZnNDbXVpWDRIcXdhNkZoU0wzNEhQRklTSFpEZHpNRDZMLVhpTmhSOTZEcFhMX28zaEZJdEpRamlOTVlGUlQ2ZkJuaHJtSlpPTjdQZFRqODN2eGNOZlZnWU94VXBxOE5BUkgyTHdEdDdfNGZSbl9oc0ZLRW1pM1FPM29GVkRDem1xOVJ5Zm8zSUFaWXN0eXFUelBSdHVTSGtRVnhKUV92bWVBVEFsRlhURmVBWDBtMTYtajBiMkdPS3hMVXFMSTZWTmlDSnNn0gHPBEFVX3lxTE85ODlqSERqdVVRSTJrWTFmbThHUkZCclBnVXA5anQ0S0RIM3hjRmpCRDc1Ym5ZMENDTWxnb3FuZW40MFU3ZjNlNXBHZ2NUZ3Q3MGR4NHFVX3h0THppZ3c0TzNkd2k1ckdkSTh4ZWdKSnhCLUVmRElHeE15bWY1NWRRS1A5US1vaWRvWk1Ra2laZDVkS0Y1VUozWUY0QlNQSnFiNlB0VTJRckJiaXVtZlpKZV9jRlJaOENQQzUyV2FmOXNtaENmamRaYkNNbUFleDFSd25LMVJkWnhzZGpRNndJM1VQNzRKRkkyczdmS2gycHk0bXhMOGpVMHJMVkhERVNianlhNlpXZDJwQTBUZ3dtZmJKN2lvajlCLUpzX2RVQml5bEFmb05lTVFDR1dnem1EX2REZGRwdjZ1R2paOVRUcEF2TVZaZDgxZ0szOXFkQ3RRTnJEdEVLMEdxdTBjanYxdWttY05kRkFLWG5EUm5XdGI3cEZXU1RGZnpUZTFtdXJHVjdDNTFMSndKRlpuclBFV2Z6VE1YbEs4czdGNDFZT05QaUNQNlk0U0tSRFhVdXhTSTJCZ0MzUGVTOW1nMXlzTUJRQ3NyS2d1d1JrZ3RUSDA0SF8tdHNaR25xNWRhUmVxbFpTZ1B6NjlLdF9sT21VQzBWMlN5Y1NGMWRwOFlLU1VhS3VJUWZaaVQxMUI2Vm5CUWc5eXpodGhnVHU0LV94Wm96X2phNUxzd1Q1Q1QyWlZ6R3l2LTNmWVNmUHZtTVFKN21tWU5MeXEzemhwWQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 14:42:00 GMT",
-        "discovered": "2026-09-21T20:18:08.512661+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "\"تنشط أجزاء واسعة من دماغك\".. لماذا يُجرى فيجورست تدريبات ذهنية قبل المباريات FilGoal",
-        "player": "",
-        "content_hash": "f16a00633565db2d0a45ce6e560ef4664579ababe3539c1552a00c2e02bce886",
         "sent": 0,
         "section": "sports"
       }
@@ -2136,22 +2120,6 @@
         "summary": "«التحالف العربي» يعلن نجاح اعتراض صاروخ باليستي أطلقه الحوثيون باتجاه الرياض القدس العربي",
         "player": "رياض",
         "content_hash": "5292d3d3f6b085bce2d6cc3fa8570c906e2c57d954e1b8e1b6e39e6a3e62b4e2",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 3436,
-        "title": "\"الوزير المجرم\" يعتمد تعذيب الأسرى الفلسطينيين \"صورة خلفية\" لحملته الانتخابية - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNZ254VTgzZFdfdXhLNTZ1SWN5a3NKVldmT2JCQ2d6am1xTjlMT2xaZ1dDLTVCYndGTGZ5d2ZZcm5ZUUxGRXJmSTJONUFpSkdWb1BGa1BMcXVtdml6dklxTGxaaW94MzZnejRKbTA5ajl3dVRzb3dFRjh5dkhJMTN4cndnYXI5VkszWFVyZXRSWHpSRkM4Q2pSV0NNNkJRU3R5R2ZsTWdGblBFYUpCbTFKSDIxWTZCMjUyX3JRSlJsLXc0anhPX2pEWlhIVGtHak9DRDJiNkhHQU1uV2ZWdk1TNG4wbUswX295RkRQZ2tDUzlxMHZ4bjNaYmJtcGZXNlk4RmpVYlZLZ0VhOHliUDNlOXoycVFkak9uQVFQRzFqN0xUOG9QY2dUTXpQcWdLaHAzMFk0RzBROWpTQ0dua2c?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 11:34:01 GMT",
-        "discovered": "2026-09-20T19:38:19.976075+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "\"الوزير المجرم\" يعتمد تعذيب الأسرى الفلسطينيين \"صورة خلفية\" لحملته الانتخابية القدس العربي",
-        "player": "",
-        "content_hash": "01a4a078d2718b50b9a829580f3eb0e1d9629d1b0b9c454e52cd037dc8c358e3",
         "sent": 0,
         "section": "world_arabic"
       },
