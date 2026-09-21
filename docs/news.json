@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T17:51:49.353845+00:00",
-  "total": 126,
+  "updated": "2026-09-21T18:01:01.414287+00:00",
+  "total": 125,
   "sections": {
     "morocco": [
       {
@@ -405,6 +405,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3868,
+        "title": "الدرجة الثانية – الإسماعيلي حضور 500 مشجع لمباراة طنطا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPOGtjNnBzR1Zvd3VYWTJBRXVQLU9ZYkNKYnNVV0k3MDBkMmRaWERtMlBxWXh3Y3JNa1VSV0NDeVh5UmUxaUhEeGtNS3E1U3BQVmZ3bkNlN0YyZHlSeUs3ZEtOa0dHY0xnLW9Tb1N2aXFraHNJakpfYVFERHZnRG5pUXhZdEhNY2Vyc21Qb08wQmJVOXQ5Q3owdUJLUTBKNklUVG05RFByN2xZTjV6czI0NHR3QkQxU18tbGM2eUNSUGhjbjNKUnFMOEd4aFh6MUNvRFdXcEt3N0E5aXRDZGVncU5LUmhablJGME1zVkZxWGVHR1djb010SzNUVmpicVJUM19uOVdybm0yRUxHZDdDOU50dXZOUjVhV3ZLVm81Yi1Qb21JYlZSQ3hORmZ1N0pMTzgzU1ZBRi1seW1CenZuZGRuVVU5Ym5iZTB6bU1PRmxna0lRLWJObFAtN1BoYnVJWnhMOVFWVGkwNExORGhRN2hDM3pkUktCQnVMZ3VyVDhzUkphU0tXdmZjV3BRTzZDRnhrV3hDUFQ3S0JRa1JaOTBWVXVSOFNUcmpUb1Fhd9IBtANBVV95cUxOaWFYcE9yeUtiSWo5M2xXYm41WE5OakNHbEJIVjRTZTZRZGNRSGNud195eUIwYnMxRkg4TTRWWmdCaEJpNTg4eVRvN1dhRGZJcFFTWUxPLWRyMzFHSkNWRkNSN1BJcXdNTXA1b05hcXk3OXZfZVJ3NVY5YjFCeEM2WExMQ09fWDQzRDhnZkVBVy1KbEIyS3pKQkZVdUFrQUN5OE5YMjVfaF9qbkVQWEE3YzFrdjMyb042RjhRS2RabndUVUUtTWFHN0Vwaks3ZXBkM28tSkVOT2hNTFRNZTVUNUJSUjNrWG02Rlo0Zms2Z1JydXgyMXdzNlpvNG5zVk1Fd3RLRUJNdGc4aHZoN01KV2Z6TjN3cVc0RlQ0SEpHUWdSWVprZFVfWTJ0ejhzTWRxZlhjdjZDQUJsX29xOGRLN05KeHpDWFg1TDNabHMwY1hrWmUwMlFyNEVwTE1YR3JFemtTQkJhUWpBand3SlBSa1dDYk81bkVRNV8zSjZyTUVkMW1LaF9vOXlBZ3llekxWbkk2TEJNVVRDaHNmNzZzWTBQZUZmcmprWnN0Y293bFhmaUpN?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 17:48:00 GMT",
+        "discovered": "2026-09-21T18:00:44.480081+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الدرجة الثانية – الإسماعيلي حضور 500 مشجع لمباراة طنطا FilGoal",
+        "player": "",
+        "content_hash": "bb0d1eeda7c7ee26722f77bdfd475e5c8b5b678257910b2988c68e59bee952d2",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3861,
         "title": "كرة طائرة – منتخب مصر يودع بطولة إفريقيا بالخسارة أمام الجزائر - FilGoal",
@@ -1188,22 +1204,6 @@
         "content_hash": "a70ead6107163322f128c43784f85eecdcfc37bb6de1f624281ac62aecc15419",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3728,
-        "title": "مباريات اليوم.. مصر والجزائر في بطولة أفريقيا للكرة الطائرة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMimgRBVV95cUxQd2t6eWFHdXVLd2UwdnphX3lRd296dU1JSjZET0tsblU0bFQtelJmSXJ4RmZiMDEteHpFbTlwUmdrNW40cTNDX3ZUTWhaLWQ2azJNbzljb2J3eTU1aG9GQ2tMa2tsbEZsa3RDVFhRS1Q3Ui1EQ1ZjcG1PUmtISVgybEZHZENmUHdzVFlBdUJmS0ZpSmxQT29QdU5adGd5eDR5QnhBaGk0dWlNRFNiUzhjTEhKcEljY3VJb2p6cW02REpsT1F3LUJJNzVXYnJFblFHTTVBLXhJemk0b19ydi1DZC1TeGI0RFdYOVF2anlDdUVUOWJFRGpMTjdRU1ptN19XNGxHYzMwVmxGTzItNThZVUhNdWx4b0Nkd2hLeTRFYlFfZ2VGQkZBTG1oaXhGOTRpVnlyVHNJLW5EY21hVENzalhBRWJrVEpTS2ktOElYOHJ0MFNwalVLWHpJRl8zelpZdWV2MnZrN2h6dlpHUmctbUo1Q0hSeE5UT0IyRnpWV2RlVWdMX2Q3c21sT053cURWUld5aHZrQXNxeHNvOXdSdUp4TWZ6eGEtdnNYeHFyQU9NMEZWZ1J3cTRDMTVZNE45a3ZJeTh0dE5UNWpWNUtOWFZFcThBNkpoczVtU1ltakh1QjBwVXF4Z1ZlVEFLWV9ZdUNvMGloa2c1M3R0elA1M1BNUFZmQU04dEI3Y0Z1WmI3c1BtblJwZ01n0gGfBEFVX3lxTE5aX1g0Q3NzVXEtcGRzSUo0a1hyd000MW5ZTm1iS0czaGJJUVM5ZzJyd1RiUjNaNFRvMHVtLUJDMzBHQkxXN1ZuSmJ1ZXo3Szk0d05LZWRTcFhvQUE4WVRlcTdRbllYYnhZTFFnaGM0VG1Kc0Fmd0kwdzdOUlN2U3l6U3YxaU00QlFfdFBQS0pmWENFaG04d3BtSGhjak1HVnhCdFZiakh1dDZhYm1uNldjYUFYV2JXSmxSNnBsLU1GWjA4TXh6N2NkdTZjSHRoclNsS2UtTFplemszY2J0djhWT1pXdThkTVlXS3k0YmRwbGl3TFJ4dE1ZMi1iSmEzOW1NajZRNVRJMVRUZDhwWnp6LUd5VGoxWDFyVFY4QUJHTW00aEZ4R0cwem96RTVkTWRkYUFvVDZVRzVmbTlKQ2pKWEx4VGUyNVdmYnRBcHhjZ04zdU5PMlRRRWxvdlNFdFpkeFNXazIxUUxuWi1JWlNNbzdjSXBJZGNCOVVaU1Uxc2Z1YTZKN1ZpVlNiRXJaY3NGcml5OGhHNkg3bF80SXlkQUE4QjVCLWhTUndsaXBzSlpMMEw3dk41LW5OM2praGxqdUdSQ3hXUmw5cHhSTXlYWHRmLXFqN3NrZ3hRZm5EMUFGVWxPcDFHQkNXQnVpNlJtaWNHV3BrVzlycUg4NmFLMDNCaWp1eG14SVlKeW1NS190eGJHVUdTSm96WmVnbw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 10:27:04 GMT",
-        "discovered": "2026-09-21T10:47:48.161267+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباريات اليوم.. مصر والجزائر في بطولة أفريقيا للكرة الطائرة يلاكورة",
-        "player": "",
-        "content_hash": "622ec756487198e4c1de4cd1b60f049a277e82522d2b33c1a49247fd6eadb3e1",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1976,22 +1976,6 @@
         "summary": "«التحالف العربي» يعلن نجاح اعتراض صاروخ باليستي أطلقه الحوثيون باتجاه الرياض القدس العربي",
         "player": "رياض",
         "content_hash": "5292d3d3f6b085bce2d6cc3fa8570c906e2c57d954e1b8e1b6e39e6a3e62b4e2",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 3368,
-        "title": "مساءلة برلمانية لوزير الطاقة السوري … نواب شككوا بعقود للصيانة وتحدثوا عن تستر عن فساد - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNeElNaG9jREJJQVpXc2FKSUFUOW1zemc1R0VOSHNidUFDVjlxVFpyQlhLNGh0VVdwWEtYc19ERXNyNGZUVk5JN3ZIMGlpU3NvamNXWmZzb1dvMExLUU5RQ0sxUWlXSHJ3V3U2X2x3U1haZ2xNdDdjWlRkQVRXMWltUnB6eUE5d0xjSHFjUTRCNWY3bllqdGpwXzFsVkkxVnpweHJubVdNMDF0d3dodGU2bVpVdmxBbXc3OGdSZDVqTlAzbHlEcFdUX2p3eGxPZG1fVnhHQno4XzVmdWQ1dzhNQ1FuWGw2QkFFNkFqdHdicFRObENYcUI5V0ctWVpoTXlMYjJ1RUszZnFpU1A3dUZLNmQ0RmF6M3pZaUpDTUVaOTV5bVMtV2ppM0MwZXhxczc4b2E2b3oyOWh2SEhF?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 15:56:51 GMT",
-        "discovered": "2026-09-20T16:32:00.632944+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "مساءلة برلمانية لوزير الطاقة السوري … نواب شككوا بعقود للصيانة وتحدثوا عن تستر عن فساد القدس العربي",
-        "player": "",
-        "content_hash": "fe050f0f5d91626260a36bc2ec8662d9de23813211e2657633fbbc31818282f7",
         "sent": 0,
         "section": "world_arabic"
       },
