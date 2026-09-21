@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T12:23:54.310731+00:00",
-  "total": 120,
+  "updated": "2026-09-21T12:38:53.331220+00:00",
+  "total": 119,
   "sections": {
     "morocco": [
       {
@@ -372,22 +372,6 @@
         "section": "morocco"
       },
       {
-        "id": 3267,
-        "title": "الانتخابات.. بحث قضائي بسطات حول شريط صوتي متداول - SNRT News",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xLUh5b2tHYmlRYzZsbG54MEZhdjB2c0pINWtWM1NObGV5TXlBNXZGbm5sSVVDY0N4NDRXR01MWDN5TER2amRyQ05NNA?oc=5",
-        "source": "SNRTnews عربي",
-        "trust": "A",
-        "published": "Sun, 20 Sep 2026 06:16:48 GMT",
-        "discovered": "2026-09-20T12:49:19.667487+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الانتخابات.. بحث قضائي بسطات حول شريط صوتي متداول SNRT News",
-        "player": "",
-        "content_hash": "01f9a56d5e1a637b3ca1afc051176ac7045ca35dc85202c1fc43c7cb87203b1a",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 3422,
         "title": "تشريعيات 2026: حزب الاستقلال يغازل الطبقة المتوسطة لحسم رهان «دائرة الموت» بالرباط - Le 360 Arabe",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uVWpCb1FJS2NoNk5taV9DTDNYVEpoVVFMUDVkWnFhZVE3Zld3Q2JZSHQ4aTJFNHdhYXJaODRPZks3ZTNCcVlGVmdtR1lncFJ5SzZvUEVlX2huRW1mQ3hGTkdXYllGMWpf?oc=5",
@@ -400,22 +384,6 @@
         "summary": "تشريعيات 2026: حزب الاستقلال يغازل الطبقة المتوسطة لحسم رهان «دائرة الموت» بالرباط Le 360 Arabe",
         "player": "",
         "content_hash": "5ebf56081dc1816a1d7de43dc52247066835abc331980fe7d7f062f0c70a5f4f",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 3265,
-        "title": "مهرجان البولفار يواصل فعاليات دورته الـ24 بمشاركة أسماء فنية مغربية - SNRT News",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90dVpubi1qMkJKOTRvaURGaHNXWHBwT2lXT1RGc2NnRVhMVnFZLTZZRzFzZjF4UzUxSW5WUlNnYXRfcVNEbjBMbE9jYw?oc=5",
-        "source": "SNRTnews عربي",
-        "trust": "A",
-        "published": "Sat, 19 Sep 2026 16:40:53 GMT",
-        "discovered": "2026-09-20T12:49:19.649732+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "مهرجان البولفار يواصل فعاليات دورته الـ24 بمشاركة أسماء فنية مغربية SNRT News",
-        "player": "",
-        "content_hash": "49f8148e0bfa11de1ccf64e5cff1cf34ad39445dabafabeb2ef94685a943a2ab",
         "sent": 0,
         "section": "morocco"
       },
@@ -453,6 +421,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 3764,
+        "title": "مدرب اليمن: نسعى للمنافسة بقوة في \"خليجي 27\" وليس مجرد إعداد لكأس آسيا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxOdXRnd3h0QnYzdXctV0kxS3lHb19mWWZTOUkzQ0R3TE4wS29rOWZQdm00ZXhadEdJVUZvc2RVLXRNQ1JvOHJTTEFZdnhkdDJ5ZV9jLVA5TnNodW05blliUG9LS2loSnVuSUc3MzVqTDRYaVlxTGVHcmxGRTJ0WWRFZGJRdldwdTNjTThjN3JGSHhFMXNkNFFIMDI1MXZHaWFfaGdrMzNrU1AzaUQtY2NmdFllQnhNZ1ZnQm81UHZXSWk2QjVXTzBOb0tZR2F3MWRFa0lMeGJIT3dtZHRKUUh0SDNkaGN1d0pGRjE4emFrMWZkSERoSnpXcGhmOVJpWElZTTR5bWxybldjQ0NCSndfdW41TzFNV0JOeWI2WmVOSThycmNCTlpjc1gyaVRzMHNFdFBNR1RlQmk2cUc1VWtpdUt0WTFvTzFwOUZoeWpkSlV2T2M0OFQzeUIycUhYM1lybWJ4eXAyN1JlVG5vS0JtQUtoWE9hWlNEVHcteTJJUy1YM0JFbU04eUtjaHNhdXhIMG5zTERLWGpsQzNjMlhBY05WbG9vbEJWQXRZdXVOcmtpZEVkbWYteGxzWmcxZzRKNVNyUThyZDVMbFB6QkFja0gyZ0JFSXZaZkg1a3hSa3gyT2NfUXNvelJiZXJSRjBsLVkxbUVfeG4ydjVmTThCRFc4N0FhWjhEcmJheko0T2xfS2ZxOWZyMDYzdGFud3ROdjJuUEJLNNIBrARBVV95cUxPWHhNdjBNeDVabGNjVWhxSUM1Z0FsbkQ3Rkl3aU5WNGNybmxBc0hBYUpUbjBkR2dudGR1a0xueGQ5cWxTLTUxN3RTdHVsRDBfSXdMbnJaRndWdy1PTzZVLTd0amhuR2tobmpFaDV6bWNkdkMxdDVQTXU3aml5b1NtY1o0QVlMLXZ3UFgwZy11VlFoaWZwdEltWm5lOTMtUHBtRVNkLWRyRHFPRWJSdThrUk5vVWNVdHdtV2d5OWdWbDFQTzRlWTVQS1JRQWxSZy1jQ2FtYnhma2N1dmNBTTdTaFM0RnlnaTJVbjJhR2MteF9qN1FjdGYwNkZXZXlYZndpQlZtdXZieWVoN19WQ09vbXo4VUJIQWlyTWN4TEg0bkV3aF9YalR2NjlrZ0NEZEE5X1pvTTIzWTF2UGs4Z2ozamx5LU41S0FBRXc1dVYwT04xbDI3UEhDTG5Jc3FKbE9NMWp0ZW9wUW9qVUg5Z0JwV0N6anlsUEZNcV95Mjg4bVhfLWxSOUplU2dQR2JiX3pNUUFPV2M3dnM2enEzQzY1THZSS19Zb2RDdk9TZUk2SlpDM0xzdG1naE1USi13VGlBWjhTQUJJaUFPVmwxSkZPRWhraEVTdDJ1NGF2dVJVVmxjUk9vQ3JWbHVpTmxfamgzeUxuU3VpZlBKMHNNOWFJLXh2ODgwa0xIUzVxRXZfZlMwT0hOdERfOHFOeE12b3F0RGhRMUxFTHJTOU5Y?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 12:28:00 GMT",
+        "discovered": "2026-09-21T12:38:39.091406+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدرب اليمن: نسعى للمنافسة بقوة في \"خليجي 27\" وليس مجرد إعداد لكأس آسيا يلاكورة",
+        "player": "",
+        "content_hash": "3d54513d69454996d7dfd7559a05cfa9b5b5df005ea6f531dcca73c194524796",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3765,
+        "title": "منتخب المغرب للشباب يصل مصر استعدادا لتصفيات شمال إفريقيا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPU3Y1TmdqZldFOXM2MjhVU1hlMG5lMUp4UUdGTmgwckdHN0hqeDVkQzJhT2Z4NEFTQmhabVBtWWRZMjJZY2ZjbW9TaGdzU2dKRjJndTk3bEhjWml0VjhpT2hKOXVBWEt2QlVEY3BadWx4ZGd2cmZzaDREZnIxVzUyZ1E0dlM2UGtpZUhUQjBnTlpJOGFLNnJibXV4QWd0X0pRRTUtUXJYS09Fck9VU1FSRk8wU0R0djktRkxCNDhta0tnMkNMNXllbHFoWWliODBWMUtzcGJXZEF6RVlRVlZNRjJjU2x6UTB6bTJIc0tybDV4SmFoTWFQMG05THllQVoyd1Z6LWQwUmVBQmk5cXVJckFpMEZYRDBJeXFBZU96Sk1zVEVIeVJsMTZlbVYzRjN2TGRBSXpLUmphbWlMbUdTcDdDM003SW0yWl9ScWhVS2NFc1ZPS3ZYeWhCNTRwYlg1WW1GOGxTRXVHdVRyajh6VXdhRnR1LUNHLUtuRGRuZzFwUGFVQWFfb2J5LUlBOVNzUmt4WjRxWjJGMURELWUtQUlkcXZwM2JsbkxheHhMc0dQdnF1eXpyckJWcDF4d0ZWSFdma2tJRE5FYVRKRVJmMk9RY05Ib1dFMzg5QUFFamoyWHlz0gHqA0FVX3lxTE1uaXZqeEo1RmZQbTA5NnJBenR6V0Q2Y1B3Sm51aGMxcjRyTFJmNHBfTklMZ1hfb19tRElhN3JFRl9EMGpwWUxWRHVfSE1zTmNBaW0wWExwUUNTVzUyNm5xdlhkbjE0bG9wbGY2Rzhlb3E0VFpuRXV0aktvbTNsVVRkSWRFYTJlX0U0Ni1GRGFIbzFYSXRfWTg0ZEtYTUgwTlBOV294RlBsYVN0NVd1a0NJNENQZlcxcW5LM2o5SHA3ZlA4bllOeTRCVVRjSTF1dnNOV3RCc2hXY0NRSkZUbGxWb1huTlVsQlJ1eFdDNXliMGc4dHNoYkQ2MjFrVFpuYzhZcGhSY3g3dDFHY3pEWWNWOGdRZktOc3RBMU9PMjdlSFdZLVJjcEpITEhEdXRsUW94YjR4LUdVQ0RzUzlpalF5eUN0U1ZCSFpzQjZfd0RxMEticmRYcG1zM00wNTZKYlRyR1VOaERTZExlZmZwT25mTGhFa21HSWJhWGhTYk0yci1GRU16dzN5dUZ5WHJLT0ZhSU5FNDJFdFJMVDItUktZYV80U2c5NWIwRmVLeTNTLWRHU0hnMFZqWFpNZjJUcHRkREhlWEhxam40M2RCMEdCcXZjaURZdHAzbjZwWklQUEVPSnlnbFZvbkE?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 12:23:00 GMT",
+        "discovered": "2026-09-21T12:38:39.729139+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "منتخب المغرب للشباب يصل مصر استعدادا لتصفيات شمال إفريقيا FilGoal",
+        "player": "",
+        "content_hash": "9fca888f28bde572c9ef45d5d2f9f66e4dad99052a2a8bcd0f072795a2353ca0",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3759,
         "title": "دي لا فوينتي يتطلع للفوز بأول مباراة لإسبانيا بعد التتويج بكأس العالم - الشرق الأوسط",
@@ -1220,38 +1220,6 @@
         "content_hash": "6163d2a02c277333580786bee7018238b53be043c3998ba7f3b82922db729806",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3581,
-        "title": "كيف أفلت النهائي من الأهلي في كأس القارات للأندية؟ - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxNUmhYQVFlNkh1bS1TNk11RU1pOHZRS2stdTRQTGNOZlF3eVdMUTh1eUtIelQtTmJnVHdYb2JNMVlWd0FBdTNzYTF4d0xTTS1mWS1UelhtNU9uVFVVVVhNVi05TDhzYzRvVVdsOVllcDZPUERselBDZEF3aVhaXzJMTXljbTBVczJYaU0tUWVVcUxuejl5b2t2c3lJX3pieWN3QkVlVDVobjBjUHY1YkxGZXFZaUYxdXdlQlhFZF9oMVR2TDdmeHNyeUE5eGdjRE1GU3FraHoxNHNVLUMzUTVrR0t0cTlXV25jM0EtU1BkQVY1c1A5b0FZSl9xOHZnV2ZadTE0ZmdjZDNCa1d0TXl1NGJ4aWtNQXFVUHVuNmRCbnMweXE1MEI3WGh1NkpnMWF1RUhUNG1WOE1NQjhnTmRONmdIRHdiQUxqd0QyNTRMYzZxV2dBaHdfaHVWQzBLRi12bzBMMTFyY2ZQQUJlRHBHcHQwSmQyMjl1czBmMTZxWllEMmVaM19Fa3FwbVhHWkhrVUFGc1l6YllDRERpUWNfVDd1M2hRV0JfSl9DMkhSZ0NVeGxaMzdTUm50RlduWkIyWmZTcHdtOV9OUEdvV1pMZ2lxWnNibDBVMlRfaEVTT00zeXhSdkxjTWNvRDNEa3J1S3NCSDNCaHJCcXdWU2lEblRkWjRycUJrcWhqY3lRdGVSRmFJNTVwUHRSTkJ5YjJLSkFOVGRoakpPb1BSUDhN?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 23:06:25 GMT",
-        "discovered": "2026-09-20T23:14:38.795813+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كيف أفلت النهائي من الأهلي في كأس القارات للأندية؟ الشرق الأوسط",
-        "player": "",
-        "content_hash": "edc02a4ba605b2cd02adafcd152421fd88b6ada513f32d5cd5d5abdce17537a4",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3577,
-        "title": "مصدر يوضح ليلا كورة.. حقيقة تأخر عودة الزمالك للتدريبات بسبب مستحقات اللاعبين - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi-gRBVV95cUxOOVVQN2lvVzE0eThYd0hZQWN0aG1PZm9US2JIc3lLWUh3d1dUZ1RtbGtPWUh4dWpRZThkdDVxSWlWYldtU3pKWlV1djZBeHlZRTFfaERLQlk4Q08yWXZnUjVwX2s3bnNVd2YtS3l6RVk4S18tMGRhUW90V2VxN0pMOUNrMmlXeF9ZY0wwZWxjYVlqM1Q2RHJTNHJlTGdLaTI1ZFpaR1o0RFYyZ1BzQmZaUFNPNmtqaHM3WUY2aEJFODVpbHBIRXRKT3NHN1R2TFZPVFZtNzVJZ3NnUzUzaTRtODVCWF9kTjFtbGhiU2t5Q1VrTGlBRGNmSlowWThSS2p4TGZHZGRPUmh6STRuTmpsTi10anMyNWpDdzJyRzZCVEVoZDdnMzVIcFpwTTVrUzFkM3I0a0NONlpnbGRVNF9tNE93UzhBWmFhckcxTXRzY0hOd3F1ZlEtTXRfcktweW5OR1pCbVZyOXpsYzJIYnA1UlplV1oyYURxV0lIOHh0ekpLa21mR1lxTW5zMlh1djI3VzJ0NlRQSHlsQzBQcWNtd3dUTFZHQWo5ampRM2t3ek5ZLUFpZE5vTUpLV091cmkyb0RLbjltdHk2MEhpMTNib0dTWWd2SmtyY3d3aVVwMHRfVkNLZmtMX0pra3pqSG1JclQ4c2JXNlRQT0VuUWtFbFowOUlsSzhFc0VDVG0zTXZCYzJOY0hRXzJ6Yndqc3ZabjZoUXJwWm5aNnlfOTN1S2Vqblp4Ml9Odmx0OTZrMV9fOUctOXNVc1hQc2ROcFBZNFA1QzhSQnpQblh2SHZPdEt2X0RxNlFJSTBKRUNRYTZnZzAtYWtldjNn0gH_BEFVX3lxTE9rWXNBanUtMHhPeXZjNzY5clZIXzhOblpKVnVwT05tcTRUTGtMWmRFUWllZmdteUYxR1h5Q0lLWkw5eGRyNnllbE9yNkp5bUktVXNFLXVKWnBLcDh5bjBlaDlfSnlyTHI0d1dYb0h3aXhIdlg2QVZtYTUtNkJ1VHVBeTg5cnA5RUloMjd6NGJXLVJDNWIwUFFpRDQzWkJONUZGV3JwdG5YRWZReGN5U1NTdzZWTVRBN1pvNlQ1alNuVlZZOXhCdWU0YldKVkFBZlE1bWZPOUVENFRNNUk1TEl0Q2NyYVpnLXY5djVvdEZ6dmdTVFktVmRlcmw0amppSUdnbFl6WDJUR05EclRqNkJvbklySXV4RUJNd1hTZGVkSFRQTzJCby1DNnpwNzF1U3dOV09peURTX2NvaW02SkNYQzlEU05RZTBVSzRfQ3BBd1FPcFVrcDAxNXdMVlFnVElJVHB4ZlhMcUpuQXF2UFdiZ0Z2NWhnazI4enM5WVpZSjctcmRCQVR1Q2wtSVp6RHVLTnV6SVRQZUZXTFdOS2paa3FxalVJc3dYLWlrWF9hUmdnbE5MaW8tZjdQVnVTZGZaQ204bmFqNVNYQVJOUnc1aXhWMmZNLVU5WmUzeU13R05jOHluNHhfTjdtSHZXX0RqOGxPVDlJdFp0cmVjSUx4eDVDV25GdE93UjIyVzRpd3pFdndqZEZQVzV1SktkWWsxSmVYdklaTldBX0U0bl9ydlY3eWVGWGd4RTJPTkxwYmNBd0lWZzRwLURtT3NnRk4zSHV0RFk3d3VTRDBWNDBtb0lzZ3dFZjhld3pkYjNxR1hFS1lxRmNRQ0lZYk1kTQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 22:40:16 GMT",
-        "discovered": "2026-09-20T22:50:31.750596+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مصدر يوضح ليلا كورة.. حقيقة تأخر عودة الزمالك للتدريبات بسبب مستحقات اللاعبين يلاكورة",
-        "player": "",
-        "content_hash": "8571f73c4cc9f6bf4a144dcd27a099b4b8cdc0e386b70ea0291723375f9646dd",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1657,6 +1625,22 @@
       }
     ],
     "middle_east": [
+      {
+        "id": 3768,
+        "title": "وزير الري المصري لإثيوبيا: النيل ليس ملكاً لأحد - العربية",
+        "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPbm5BWnhmdXRUSG01TFpXeVlRYnVaOThwN0ExTXNheEotbXd0QlhyaVA2NWpGVWRiaEdEWXo4MDl5ZGN4VHRvRUZhWmdTc19xbTFvUGZTSW1jUkFJdm82RElfRTNKYWhURTFrSzFicVlLRWViR1ZOcUIweU5OdXY0YVBlS3JzQXRybTlIekN0MnhnRm8zYU1YNlkyOFdBdXlOZC1JaWNDUzRmVHMyRVo1c0syR3BFTWl4cWNaOGZqbVBVOUpDWVlwVWRCZFM1aF90VkxBT2JnUWliS1AxYjNpcTdZZHBoeF9NQ0ctV1hZWTQwUHdldlJseXV1UklkcUxqUEd6djF4akZ1LVhVOU9adHNsbUZTZ05qZlh1MXRzVHBHQkRMdW5qT3ZaWmJVdXhyRGh5YXd6dWFUWEhKcHJDSWtvcm14MnNYQjJoTlBvb20xbUFTVF9vMGtsSXR1a2REQUVGMFNmWnhrSmNWLW9fanUwaVJ6VVFkMEU2V2Q1X0ctdldSenlVbWVaQVVfZ3RjYVI3d0dnemJrZ1pJdDRINzIwb9IBqANBVV95cUxQUlZsX0VFd056WHVibWVVR0xpN0NHOXo3ZjVMYVk4XzdodkpUMW10UzZhSTNLVllkWnBsY3hOVHFKemN1ZG5aXy1rdUxmeTZSakowRTdyRXp3ZmtaVnBWNmViaXFIbGE1MFFtZ2RvSG51Ty1DWEcxZDVxS0V6MTZCR19oNzExT2NhdDV3bnRFQTh2NnlIQ3hOYWRRdmpBbERoTExFMW1QakJvSDBlMnJ4cEFNVE9zdmwxeXpsSzI2N011RjZsaVNfZ0tuTWN3RFpONXhiSU5uWUxlaFVvdy1rZEhxUmpFRm5MQllkbHJOcTg5QmV1VjQ5bkxWYlI2aF95eXlTMnp1RGpmMS1SNEhibnlTYTN3WEJHaG5ZLXlQMnlCR05GaE1oXzA3WEs2ZS1fSmNibFhUc0VOb1BvWm1aUW0wRHNtYi1aSDJMWC1tUnctTFNPNndQNEJwekJ6bmVXVXp3cUJDbUNKa1JpRHZjazh0NXJEaktRUlNOaVBSUURhcV9XaWVZOXB2Ync2aDA4dUNGdWJpT2hUZ0piQlJVRk1pMDhVUE1G?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Mon, 21 Sep 2026 09:57:00 GMT",
+        "discovered": "2026-09-21T12:38:45.734614+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "وزير الري المصري لإثيوبيا: النيل ليس ملكاً لأحد العربية",
+        "player": "",
+        "content_hash": "a3558fe1244e0500148517a9128672b76f7ac85abaccb4b631a7754803cdd127",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 3670,
         "title": "بعد 14 عاما.. برشلونة يهدد رقم ريال مدريد التاريخي في الليغا - aljazeera.net",
