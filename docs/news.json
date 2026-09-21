@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T07:38:43.141063+00:00",
-  "total": 120,
+  "updated": "2026-09-21T07:51:45.878131+00:00",
+  "total": 121,
   "sections": {
     "morocco": [
       {
@@ -421,6 +421,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3675,
+        "title": "استدعاء حارس كومو لأول مرة إلى منتخب فرنسا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQZ1pMcTVQb0U1X0NQRk5tcGtRbktJV3Z6Wi11eHhRSXVvYklHb2g2bkpEUHRhNmlhMWFlOUd3MDBoTFpzUzJNcngyT3E4dF9ZVjNVYnJJZDBkX0JUQVlHNHlwSFlfX01yTy00elR1dmM1SFVoUE8xdUxsTnF3bGZvY29FMUZfRE5UcUxXbzNWODZyQXVVVFp1bGt2X0w4M0kxbU5jSUtTejhTZzF2czZ0dHhXUDlYX3Y4d1ZsaHFJdHpjYXNQa1RlVG5EUG9DWVdwR1QtRFFPeVhMaDFlNW5mVFh1SzVIbHpfeUtGUk9tR0RXa1FQQ2Q4M3VCa2V4ZV83T3NrNENvYzJ3U0pKQjhQNnRlSGltOWlJSkx3YjMzbWh2WkIwaG0zOWxKUEJKY1NGOXRpbS03RWRYZElWd2NURndDUUV5dTN4T1NRcGQ4d0IwSU1UR2ZYR2ZZZGh4NTNQLVVwRDRDT0ZRX0tXTUJfbzhuMNIB-AJBVV95cUxQYml2TG9KcWRpM0ZaYTI2b1NLdXJLaGE1WGRhbnEyYThEODRQMXYxem9RWm9HbWZSdFB4X05jTUZibVJZWjdBMW90b3Z4a3VPcVNfUy0xbVN5ekxqWEs4M3Q3R2J6TElpRXg4NGNia2JXYnZjbkVQTzlhZjZfbXE5Q0tQZDZhRGM1MXc1bmJWeWtDb0dKQ1FhN3ZlTVYyX2hMY2lfT1R3dm5GZkgtV2VHbjJWcnVZaDZJZEtIMi1Rd0dVdHQyQTlUdl9TN3czeTZ0cTZMdmx1Y25Sa0xFRGktRC0zLU1KcklIUUQzVWV0TXJxSDFpczVrV2phOHJBQjNEM1RvWTduTFhSSkhYUDJvaGdNZHNxVUhydVVYdWNBcEZXWEp1T3hSN2pqcjN0OUhid2g4RkNOVEdrcGs4cWZoR01vSDY2T1NTUE9NV1RZaGJ6dG9lNkdUajBYYzBCdjZzcGdQNHprX0gyVmpUMzJPNGpNaTZWWlBi?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 07:43:00 GMT",
+        "discovered": "2026-09-21T07:51:32.134384+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "استدعاء حارس كومو لأول مرة إلى منتخب فرنسا FilGoal",
+        "player": "",
+        "content_hash": "2c7544b9e45a81f1c3300025352cbd4ca79cbb19d67f57a4c7c55fcf18bce41b",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3673,
         "title": "الإصابة تحرم مالين من منتخب هولندا بعد تألقه مع روما - filgoal.com",
@@ -1204,22 +1220,6 @@
         "content_hash": "dea287e30aa67ee06b39659efad05908d280a44fd1998398c10d684b04ca64d4",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3471,
-        "title": "40 ألف مشجع في مباراة مصر ضد أنجولا.. وأسعار التذاكر - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tV3dXZ2k5QVJyd2lLSUNNS3lIcEc1OE1UM19ET1EyWXZNZ2NKLVZZaTMyMm9CNG8yUjRrLWJLVmJ2OV9nRnY5SFozb19mZ1Zk0gGeA0FVX3lxTE1wQVZOX1lHSV94Rnc1QnNTN2dUNUhSbHFHMlJRMkZhajRaUWNvSlU3SS1pbnlERmRhNURLYnVBdm1YdVM4RmFDeTRJclFBSFFSekNYdjZweGY5SlJGaEUtMW5vNWExOEVVTTJTRFNXT2VMVC01dXlkNnlFRnFFYXFTbUhtdEREZUFhMzhWb0hqc3RxeEpUYUxMX0UtaUpCUUROVklLdmViSEZzRDFvYnBjUFRIYjh5aHJwempSTkw5OXc1bFh1VUlyOHpDSmRsOEZmcGQwbmJNNjVzWnRhS2lGYzVkZEhTY0JSb3Z2MzFsVnFkTWl3Uy1tUEM1NmIwSHhZWmhCNXU1NV9pTzhzZWktLTdZWDhqNGRGY2wyX1ZCWGNnYVZIX0JmWUVULVRJMzhVamNpNFFhUndiNjczMmxmSnlIbXl0SnZvSTZ4eVZRSkpUUnVVV3Uwa19Tck95elJPRDRJWHVERVg1eHo4N19zS05TU3c2NjRQa3AwejdjVm82QVE5b1ZDTkRPSlNEdXEwNE55T1B0cEN1aEI5QQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 20:34:52 GMT",
-        "discovered": "2026-09-20T20:44:27.840930+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "40 ألف مشجع في مباراة مصر ضد أنجولا.. وأسعار التذاكر FilGoal",
-        "player": "",
-        "content_hash": "7854c3397227c7c72873ff42f4813961e51dcf9c543bf67378fb1aa750ac951b",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1702,6 +1702,22 @@
         "summary": "وزير الري المصري: سد النهضة غير شرعي.. وإثيوبيا أفسدت محاولات التفاوض الشرق للأخبار",
         "player": "",
         "content_hash": "d9af80ce943ba4cc2c5394d8cb6adc529c5fd74e3fca7171d8ece1a1215093e0",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 3677,
+        "title": "الكعبي: قطر تستعيد مستويات إنتاج الغاز الطبيعية خلال أسابيع - aljazeera.net",
+        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOQmxpdEZHOUlCQmJneDZJWDNTYi0ta0JZMlJ6R2hYdUlsWnlDeFROTU1TbmxldG9rbUZ4TmJBZzZLNlVSNjAtSThmXzgwdkg3Z096eFNuYXEza1ZCdzdPY0NjZ29ITXVHX0xuaWhhWk83OTVibnRscERpMVV5TkdrVXBVNF9MOGRac3hFaTViR0NUN0RPU09VeDZOTFVDQ1BjdlA5TEZIOW5fVzBUTFNlZ2JHaHJsZVVsYnFublBGazFlOEFxRTJzcmJmdlNiUFFhUXIwT2NfM19NYl9mR0xDTTZQUVJ4UEhXN3djTUhpbDhKQmlZY0hVNUROUml5M2otLU40eDd3bVZwZy1SNWFhWjFSS2Mya1k4ZmY0Nk5CdHoxMVpHYTBoOEJRNGZzX3ZRLWUyZzUzRmRhMGZIci1GeXdvamIxVXNVOW5JR241cVpBaUt3M1Z0Umg2M2ZTamJl?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Sun, 20 Sep 2026 19:47:33 GMT",
+        "discovered": "2026-09-21T07:51:37.932003+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "الكعبي: قطر تستعيد مستويات إنتاج الغاز الطبيعية خلال أسابيع aljazeera.net",
+        "player": "الكعبي",
+        "content_hash": "b6a84d3736ed8eb9d40e0bfc45a8504a8ea6f0154de8bf7d6fae0459365fc18c",
         "sent": 0,
         "section": "middle_east"
       },
