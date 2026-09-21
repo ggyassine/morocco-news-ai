@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T17:02:17.968424+00:00",
+  "updated": "2026-09-21T17:16:45.461064+00:00",
   "total": 120,
   "sections": {
     "morocco": [
@@ -64,6 +64,22 @@
         "summary": "وزير خارجية الصبنيول: حنا على تواصل مستمر مع المغرب لمواجهة لحريگ والدعوات الجديدة ليه نهار 23 شتنبر والمغرب عندو السيادة باش يقوي علاقاتو مع إسرائيل وميريكان - كود: جريدة إلكترونية مغربية شاملة.",
         "player": "",
         "content_hash": "83dce87935a86f9939a4466d75657e665a0c29ed0400411f4410204f618d07db",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 3848,
+        "title": "الصحة والتعليم والتشغيل… ثلاثية تحكم سباق الأحزاب بانتخابات المغرب - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOQUgwTlhBMFc5SWZfaHFESENLMnd0cXl0UHhNWktFV1ptTnZZaFlWeWVfQW44MTdrZElOaUVhVlBtOEp3X2IzU21QTnFEV3VNVDhuS0tHeWRsZzFzNVBzT0RpTU12NlI1RG01M1hoUHZLWmFsM2hJMEVhaWIwbnA3eTFZc0xaY251LXByTEVRZDQ5dTVEdjlxei14MnlIOWttcU11dENBV1BHT2N6ME83eHBtUlZYY3RTZENDU3RGS1A0MDJZdG1va19TZXYwTmR1VFdnb0hQcXc2bWZtMWdQVVQ4WHhXc1lGUzFiaHV1eHpoZzlNWXB1SjN5N0xQRjJ0ejhfcmxIRDJva2NKeUEwd0ZSQkVuWml5QldNX2JodEVzMjg4V09GU0lMckIwOTBscWpSU3pKWk1zY2dsdmxPZjh3ODE5UQ?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 11:10:02 GMT",
+        "discovered": "2026-09-21T17:16:40.003772+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الصحة والتعليم والتشغيل… ثلاثية تحكم سباق الأحزاب بانتخابات المغرب القدس العربي",
+        "player": "",
+        "content_hash": "3b046e1f123f4b360d9828c16a792b9ebe27c0892045873e731138cbac5627b5",
         "sent": 0,
         "section": "morocco"
       },
@@ -405,6 +421,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3847,
+        "title": "10 أندية لم تحقق الفوز في الدوريات قبل فترة التوقف الدولي (صور) - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPdVlFZHQ4SmdZS0Z1blYtT0FHV1NibUFkQXkzNXU3ZUprZHk1ZjJsZ2lYREl1TGI3TkhLd0pkYzdVMGVpZzZWMTJBd3hac1lvYnA1dnJHSGtfeXdMUDB3WXp0dWpTQnpadUhtOWtoaDJCNElZU2x6bEpNQm5Ob0lNTVdha3UwNjRpQjhLRG93NUhCTjkyMDQyMk5SaXhHaDREWEtoVmYwdi1KUkZYYkwtcExwZHNva2ROWE1GZDl0Q1FrVm1MbW1KUkNpZDdrUzRtTjNVN3hfcDFZRnBXdG9VSFFEdWNpeTFKUjRjb2g4U29GSTFybUdqZWRPRHdKZzRYWEJkSHhFSVRPSWF3b0FXT0xwNWlUUHZmRWVqTm5TcU9LRm5DT2V0dDEtaTZ2QTRrNHJVbWxGekJBa3B5X0JxR2tzRWs1b2taYzFrTGdKUDlsMUVKZm5Qc3RmTlk1UjNoZ3djNWxIMy16aWZkMDhkb1JBS2U3cHZQWjllQ0xyUXdZWWZkOW5MUHVSb0tSYjBsOWNoYXppTEFZXzZVRkxPVm8yemVBZmxublNLTWJQcllUXzdDV0RzeXJCLUEzSVFBdl95enRrTDlrWUkxU3ZSdmN1ZjZ5ZmwwbXFCUEw3WjNLNDBx?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 16:56:00 GMT",
+        "discovered": "2026-09-21T17:16:28.980430+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "10 أندية لم تحقق الفوز في الدوريات قبل فترة التوقف الدولي (صور) يلاكورة",
+        "player": "",
+        "content_hash": "df99730861de2e44c40c4ddcab0c5c0dd57d636c17c9c41a80904ec58d54b9b5",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3833,
         "title": "تقرير: نيوكاسل وبرشلونة يتنافسان على موهبة النرويج الجديدة - FilGoal",
@@ -1188,22 +1220,6 @@
         "content_hash": "c065c7bd824070891e248ddf67a6c0ef0cb869d4510671c795f46905666cd662",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3712,
-        "title": "أنشيلوتي يستدعي لاعبا جديدا قبل مواجهتي أستراليا والهند - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMiywRBVV95cUxPTk9vRFcydnRSRVBDQ2hLZDZvSzlHandVUFJpUGVhZWtqeDZjZ25FdmIxR294NFlwLXU1dk9IREFMdC1zQ0lwY1lKeDduZkFmbVhYaTR0a1NsTHFIcEFJdmY4TEsyemhMcmloVDFzN0dyNUlGeEtmRmVvVnlncVV3eDRZbmR1YnBjMnNnUE9hRFNkZWlDdUgyLW95ZktoaW9EdkJiR0RNT0R5RllVS3liazRIb2RaQ1Fwb24yOEZMRnhMTlFpaWE1eTZqa0xsdmR1S1NLM2x3WDVCZHJBVEtwMmVCZ2xuYUpsaTA5VC1VQ0ZIaU9HSmQ0U3ZuSmlNTWZLUWpxNS1qZ0Ita3draXFpYlBSbnlESkJiWlBCLVVnTFYxNnJORkxGVE5LNS1pbW4zTkJkaUNrNE1ZVVJfR2dCc0RROXdlMEtidllpYVBnWUV4SC1NaEhSNWI5OHhoeFI2Q1VRcG5QWkp1TVF0N3BSdkFVRXZVQVdZb0RpYm0xeXhpb25EM3RkWk9FbHQzU0FWaVFLb0dwckI1X3ZuaEhfeUpyWlVEOTJFU1NBYzlPaV9DQ2drTW1VOHZXMHFNcTVLSmRUSlg3NWhIYzRRVkhfckF3M3F2NnRMSkRNZU9CWHNuTHFuVjJ0LXVXX1YzVmxBVmpNWmNkc1NCc2wzcE9JQjVadjdPMUhtUmhBOVd2d1UwRzcwVG1rWEdoN283SVRqUy1lc19GeGYxaW5pbGFsT0dsV0Nnc1ZMV2VLenVoclhEdVlCM2NwUGtKZw?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 09:49:13 GMT",
-        "discovered": "2026-09-21T09:55:11.000099+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أنشيلوتي يستدعي لاعبا جديدا قبل مواجهتي أستراليا والهند Kooora",
-        "player": "",
-        "content_hash": "b1dc5f664e35509018486d326eeda9fb86ff63b9c4b2625460321a41281d83fb",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1572,22 +1588,6 @@
         "summary": "السوريات.. العمل في مواجهة الترحيل العربي الجديد",
         "player": "",
         "content_hash": "93d6abc4793330a5a9ddfd65f34bc52bacfe108a4be30c820e862ab2e67b0e9b",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 3348,
-        "title": "الصدارة لصفقة البنك.. ملوك التمريرات في الدوري المصري (أرقام) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxOSkN6SHlfbmQyYVRHNU5rZ1VFN3pIbVJvZWFYTkl1TFNpSWpIR0trWU5DNTNiLWhydXZCdlpFaDFOY2o1YWhZb1RzYnN4dy10Ry1vWVFyNUNGTGdDNUhFREVDZDdoc3VFZzJBbkNnMGpzSDFjSmVnSWthb2ZDV0ZIN0dZQmJmV082MXkwdlpzVlRQZUlBZnM1X21WRlRjTVp0WWRodDRpSE8xUTF3T3hFVFhCcDk5SUZhNEtHcWdPSE5kTmE4WEtGQmN6TW5sbUtPeHdRNmhFZHNrMW01UVJJTEg5U0hiQnNPc0tCSThaWnVzVFhEeXJVUl9ZekpJbC1Ed0k0WFFJcU85VDBrQWNiN0RxOTZ0WXdBODMzVzZZcFZFdmZKc1gza1BIbmh4ZGltcTdOZXdSS1oyZllIUVM1VW1rWnVyY3MtZVRGYnByalIwZUxTcDh3d0NVTVVuY0tjdk5mMDc0TERfY0FqZDNxRE1ib3FuQl8yRDIwRzljXzh4T3pXemRpOEVOZ3Q3S3ZvQ2FTc1VFd19RRUFtdGpQM1dWckpzeG02M25DVGtrQnFUbEhScFJuMjBhdFNYRXdvb1EzNTVJMURKU0VOWkN3U0ozSEJMYzFJb0dGUjhEdXV4dTh0NEJjaGhXRTVkZmRmc0JCeHk1UVlfaFJORURJ0gGEBEFVX3lxTE4yY2NBNzBsOWZtXzd0bzMyNjJyZDRVeHZnVlhHeFlrVVl3dW1adDVMQ2U4OWNkWk95cU5Md2ZOSDdfVmtQNkdvZUR6V09mQUxLWVFlWHZXQTVHcF8yV05Kcm9hVWJtSlVkTnpOTEhlaGpPcUlrQW1VWWV6eTZDeVNucDIza0ppMGxtQmlNS1pkUmVXb3AyRTY2TEUwLUxtdnF6X01tZXVsRnFmSFJlVVVDRTViMnhlQUh0X1Ywb19ReUpjbV9TdGQ0R3NYN2Rfamx6MTMwQ1E5RFNfN0JCLWxUWmIyc1lCLWQ2MFowQmxpWnpjVDZnR25CS3VCckp1azFmRjFKY2Z1MnFUcmRaY3J0dV95dWZsN2ktcDB4UmxfUzZlNkpSeWltdjZvcU54dmN0R3Y4RUVPU0pkT1h5RU9ld1AzS04yOUhGNkhwcU5WT2lIcHVtU0tYOXR6di1nSzFSRE11NFlqYkE1T1pyS0VzYVVFVHJ2VDVrRUhXWVJCWnVaWTdyMWRVQ0F5bDE4dDc3R21KaXgzZ2FfRVJOa1EyZWhiQkNVSmQ4bExRa3Y3ZjZBalBZYXllN0Q4bWg2Zy1JV0VIVjJIVGRyVjNLZ3pKZVhubTgxX05KalZScmMyb1h4ZV9wbjR4NVFVWTVxMzZHMlJONDV4a1hzRHlSWXRtWHlkaQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 15:57:00 GMT",
-        "discovered": "2026-09-20T16:01:50.005298+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "الصدارة لصفقة البنك.. ملوك التمريرات في الدوري المصري (أرقام) يلاكورة",
-        "player": "",
-        "content_hash": "6f5ad3245550a8cbc5030262f29772fd8e10283f8e734cd8b546a72f74d1d424",
         "sent": 0,
         "section": "transfers"
       }
