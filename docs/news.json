@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T16:26:16.502028+00:00",
+  "updated": "2026-09-21T16:40:40.202973+00:00",
   "total": 119,
   "sections": {
     "morocco": [
@@ -402,6 +402,22 @@
         "summary": "تقرير: نيوكاسل وبرشلونة يتنافسان على موهبة النرويج الجديدة FilGoal",
         "player": "",
         "content_hash": "72e621b0779dcdd029af93fb2ffc2b666e8a4c3e6a66c7376f89eca0f67383e1",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3838,
+        "title": "ماذا يفعل مدربو الأندية خلال فترة التوقف الدولي؟ - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNNWsycHdDOHZ4WDlOajVPWkZwMEVOQko4V25KZm00QXZWZ1JDeXJwMUNYdkEwTjRMSzZhYm5UeXdiWTcxR2NqcGo2OU8xMFBXbG5MZ1ExUzFPZnNLcVZNUk42ZHhaV3paaDVVM2FsOHBfZFZXalNfVmhoVlRBVmxvb0FINktha3JKZUZVZUc1UUR5VXUzZ0hpSzIzZlpVR2dFS3NnbFlaNGpuUnc2aE1hYlJfMUY3ZjBWeHdQa1ZSY2YyZHJ3S3JnQXNwNDU0SXNzQ0JJdFdKU1g2b1J1N2NGWnJpSkJWVUdSeE5ZV2habjhkY0pKWDB2YzRiOUJENWJJWmxNZlFtazZ1TU43T2E3TTlLLTJfZmV4SjIxVDNQcTVSQWF3djB1dy12OU5VRF9VbEI4ZTFOTEhlTWxlZGZzZ1lLYnNOa0V0V0loczhsMUJ5OXJBU3ZJeWRTQ3FYOFlub1B4cGpPQTF6T1ZaNWxvRzUxSXo5N1M3UnlkczUwakI5UG1JVnI0YkZETFAtUllPa254eGVXS1BYbFA2T0hZMHpKNUV6UdIBqwNBVV95cUxOTF9Cc1pRcHk2MFlUNVNUR0pHWldWY1Q4R0RCQWRtTHA1ZGtuUDI0MHlaTGVFY3ZaOWRuUHBoc1E0OWxUVDFITmtCR094V05RZkFYRzVlXzh6UmxzUjNBQWxlSlBGMUZWa05yR1BoOTU2R3diRF8xdUxIbUZVNTM1YXBQYmw2U3ZWb0dGTVpOZ0N0Wlk3X0pMNnd6X3RDZ0tORmE1ZXV1NjM3enQ5ZG81SkdSckpXc1JCcVBOVE9DWXF2UjlEMlpPRVdYR2lVV3JuQ1VyTXdSQUdwVFZHT0luRTVPZEhmZEZ3T0xfazhjdjhLakItU2ZWUUpWY1kyWUhzb0c5NmpUSWtxNThuLXp4d2lvc244aDJ3bVMxa0pMVVJLdVZVUlNWSFhTczcxMWdheTUwb2V2amNKY2FTa0NVRFB1b0F6MUE3d1FIMlcxRjNLRHFiR2FPUHE1aUUybU90R0dYOFZNMWtZWHlyb2dtelVoTVhMd243TWRZWEJCX05vbW91UFJ3cEFmYmFrZ0F0bDRkUUI1TUx5eWJKMFI3dDIyaTFxV0xwLW4w?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 15:55:00 GMT",
+        "discovered": "2026-09-21T16:40:17.965598+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ماذا يفعل مدربو الأندية خلال فترة التوقف الدولي؟",
+        "player": "",
+        "content_hash": "f34abc80037a38c5c240db0d6646ae6b30ece99a4f2c80f35d82b2f19ad75a79",
         "sent": 0,
         "section": "sports"
       },
@@ -1170,22 +1186,6 @@
         "summary": "هالاند يهز آخر شباك صامدة في الدوري الإنجليزي ويحقق إنجازا استثنائيا aljazeera.net",
         "player": "",
         "content_hash": "dbed8fd7ae5a2671567ac1c56ed68ac0eeafc7e34f19a6a1b5b71dd9f7f6e27e",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3701,
-        "title": "ريباكينا تبقى في صدارة التصنيف العالمي للاعبات التنس… ويوفيتش تحقق أفضل مركز - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMirAVBVV95cUxOLVNPejlJMV9vWEdIZG5hcmUtRGx0NU1EVXhRREVVZjlhMWdDOFJpNVJFU1hXdTVVZER2U2xyQkVRdkU3aUNjVXpvTmxEMXBQNXlfSTdZSVRBa3UyWHdPNzdGcUlZX08yR2JYeENVdjI0S2JyMlVCS0FXSWhWRFNCcjRyem84R2JXTnkxZUZRcnV4OHJmTDV2U1o0VG42d01iSHc4d1FtVEM5VW5nRGhBS0s2d0FxQl83WFZEdXgzZGJNS0RySWtPTVBSbTloT3pVNVZIWkhnVGFyVmJ5RFJWa3ktMElMZlExclhsSjd4ZEZRaUJnRHJYN0xBcTBaRGhOX3V5TkpWdExBRFVwNXJkYUtYcEwwaEtBM1ZTbzN5NGJ1ZUpFTVdqcjVERmRzWnNYUGRmLTAzOVctRXdCZVFBOVdPUDJVT1BJTENTYWNnUDVXM21kMWFKVjZ3RjI4TFlhMXY3OXZzUjRZVHZEVEd0X2lsQ0ZSZ05oSk9Pa2pVb09ZZFNRV2wyY3hKaEZiTHc5LXVSLUwyZ1BvSW9ZQW5mUTVEczlXd01nRVJPeFphXzB6NDNldmpRZUlUVVpqXzVwN1BhcnZSTFhtRTJRdklEQUo1T25oeFlITExDVURsN1lrdFJSaVRLOHRTYnQ2ZktyamNRU1VSNHVGMWFwOGw1WnhId3daRnFwRFRfWmpfVVdOZWJtWFctNHB2T1I2VzZnT1QyYjhJZDRoUFcwQ1ZDc05CTEpzb0JfUlVrSWs3Ymx1UEtrUHJOUm41TXVHcnVrUWJkcUFBYWJtVURLNG9pbnBfM2l6V1A3YmtBNi00ZjFCMElzNDdOVmtWRUFZRmJXbk15QXhDUVltb2h2ZUdjWHIzZjh4bmtFY0JJZFlYTDlQZzk5SWkwWkFqZ2U?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 09:19:59 GMT",
-        "discovered": "2026-09-21T09:30:16.653658+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ريباكينا تبقى في صدارة التصنيف العالمي للاعبات التنس… ويوفيتش تحقق أفضل مركز الشرق الأوسط",
-        "player": "",
-        "content_hash": "70022c9d6f52c5cb42cfb7b2ebc3e8e1f540b10a8907a3df2b44e06328854c95",
         "sent": 0,
         "section": "sports"
       }
