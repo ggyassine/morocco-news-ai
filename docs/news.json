@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T14:12:22.429338+00:00",
-  "total": 121,
+  "updated": "2026-09-21T14:28:20.111646+00:00",
+  "total": 122,
   "sections": {
     "morocco": [
       {
@@ -422,6 +422,38 @@
     ],
     "sports": [
       {
+        "id": 3798,
+        "title": "مانشيني يبدأ مهمة إنقاذ إيطاليا: جئت للفوز - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxOWk9sNnRDMjJrcE12aXpOQzl2M0V2NTAwWUlVRTFOV21iWGtONzlBRXQyMlh2TnpudEZOY3BDZnJfMlk2UkROeU9PVHU2NjZ0RzFOQW5ucC1pd0tyN3ZYTllwck04aEQzMWUyenFtUnNTWHRtdVNJMGVPbm45d0N3Nkg3ckZtUmFVOGxQbEI1VGZHU2kteUFZTU9hN25uQ0JYUUJ4bC1mTXBhbjI2ZGF6eDl1LUc0OUJYVlZuZG1wVWJUV1hRcXM1bTFoQm1CNDFSdlFfT1ZHLXR4dkVSQUFpbnpxZnJMdW1QRFNjT2UtdnRmODdkT1dSQzlyVW9meW9lbENQbm03ZmhVWTBOanh5akQxZDVYOEN1VUdOWVlIUUdkYkNIOEJ1SkpXN0FZX3ZzMmFxc1BseU9Eci14SnFUbWFrM1dXVW1hU0RadGp6SldpaGVxV3Jlb29lcHozZHd1cDFIc1ZXNi1hZU1vMlF3WWhhZUpySlUzajNZOHFwd0hXX3JZTmhsZnV6M1VocnRsNmJWZ3hjV1FPcmQ1Y09vdUVDMlF3Y2JZODlZZk9CNFllWjVaaXRhTkxsdl95Y1dNMDRlMGJCUDFhWm9wOFQ4YUR1THBMUDFRWXNiWnNQaFNWWmp2Y2RtczUwNUIzTm1CcV8zbQ?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 14:19:50 GMT",
+        "discovered": "2026-09-21T14:28:01.553348+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مانشيني يبدأ مهمة إنقاذ إيطاليا: جئت للفوز الشرق الأوسط",
+        "player": "",
+        "content_hash": "f1b6c61e4bf1ddde4b4c4f8925d819d8d7a52c8573e8d5d14e79566c43759939",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3800,
+        "title": "لقجع يتمسك بطموح المغرب في استضافة نهائي كأس العالم 2030 - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNTXdnNFRweE1aRjAwd3k4VWpuVEhKZnYzUnQyREJLUWpzcjF2OFgtMzRKV0xvXzdYYy0zYTBxbVRLNms0cWpQSGY2RW10V056Wk5XTk1SWWVRWkdaWnFodmJoSU50RUlIUzNJWjlaWmVPdER0ZlRwbW5UR3p3S0haTWIyVTlycTd5aVRJa28zT2N2dmhRalZ4NUVGZ29YS2VocDBONnVvTjlkTEVFMTVxQ0NBd1JoQmVVRFItYnV3RDcxLWJXUUNoQ1dpUlc5SnI4cWpLVjlKeFVQZ1Q4UkU5OTBDY0dldEZyTzBoMzhHbTNYY3lFRFlVTDJvMUkwa3ZRMDAxNTBCNDA3V21BWVlaY3cxTndSTENoVDBBTU5MUEhHSW0yMXBlcnBORmhJZkROZkc0NjU0eTFNbndCU184UWxUX0ZrSS00TFBwLTlrQ3dEYUFsYUpSX1ZSUEt4bVpjd3BJUEVrWWtRWEY1ZE9lODM3UHpoN0R3dXJGOGdtcFlaeWIxYzBnR1lleEtpQloxdkVrckpoUmdOSGRWT1N5cGJvZWdJbzcwYkMwenRlZmZsUFQ0U2pMd1hKONIBwANBVV95cUxORW5WNVJaUGV0VGZBZjlRQmdIencxRVAxQ3F0WTlPUnlTTFF6bDI3ZVl6WHdYRU5PMGJHU1E4UW5TdGs1dzdRNlprTHFrdk1rY194WDhCcXplOGVOOHFvbnFfdEtKMDZiemVwYkNQZzJfdVgyYTZsY3dNZW1vOTlGalgyZHNaWjJFVnEwTldvMFI3cHZDZFJmNE1odUdwc2Z4T2tZSEhwNFY3NklmUGdJZVdMT2ZndnNpd2pqcklPeEM1VDhIdDl5N2lmY1JLZHRFLW80WF9qbDFYYm45dG9ENHBDVEcySU1ITlFyUE1vaGdiMzFuWjlJM0tycHZXaTNtUEo4UUIzbWU4X0pUcUpWdGxlaFhLdVJUMnc0ZFJSY29zeTNESnlsXzh5M2NiRnh5Q2M1QkZQMEtGb2w1TkMycTd3OFhlMW5zM0JIeDJXMEhlX0JWdXFhQXkteEF1amdLb0c4VnRqdFZUdkFhaG9NNTZZZDhiaG9hbElDc0tHeDVIcHcxNkFkbldxOGZUTjZGNkdmb2tWTDh2dkxqeTVMQ0dtVEZJRUozaFhMcXRjZ2M5bnJReEx2VFJfcnAxbXBf?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 14:08:00 GMT",
+        "discovered": "2026-09-21T14:28:04.456013+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لقجع يتمسك بطموح المغرب في استضافة نهائي كأس العالم 2030 FilGoal",
+        "player": "",
+        "content_hash": "2556267d74c317eb2171e2f44615e993d59e45375bd403fcba1cb6f987759a5b",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 3794,
         "title": "دوري أبطال إفريقيا - تحديد موعد مواجهتي بيراميدز ضد المريخ بينتيو - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxPVHdmU3IxbHZlanRfbnQ5RVN2dElPS013aVAwUlR6cTNZOTB1UnZUTDRXS3BBc1V5MmxIUGliS1pIb19BRlFXUGxXdjhYZ2cxalZCSGJJc094SFJxamJuVERoUUR2RC13VTVCLVFrVHZ4RVpvaE5Vd0tmd0dwakJwUjBDWGVGYXJOd0JfRndNOTlRdnd3eG0ydTVjMmtsd0QxbUFyVHdSV3dGTFU2bkVxZDJlbmJjRWh2RGh5LTFzeklKRDdsV1R0ZGJ1cFV4MEI0SkpmeEZQSjNRanpPZTkyYUh6RmNLbXV2cjNUY3FLdGFfTXpidzJ0aE05Qy1sRV9naTZxRFdTUGFaU3BxTHVGWVp5YWpoUDNpRGJxZEtFZTlXY1RETmdkUWt5TUt5TFA1NUdWZngwN253M2FRZy1JOFVZRnU3Mk1tUTlKRzBsM3Q0YVV6LXdoV29BOHpocnV6YXVkVnplV1RIdDUwWjBHZkM1eGJDMVpRLWlZRnNVdWxCRTNLRVJTb0E2VXdoVl9mMFRTMVlmSXY0VGpjUUxCZ3NmcmN2eWlTS01JNDVQX0t2UWIwa0FjaFRpcnZBR2ZULUN5aGNtQTA4UEtjVE9rWFlxTVFaSmdSVDJLa2VrR0Jwby1CQTVlZDRYbkRFcWRaclhzUWcyVjA3dWdKY3VHeU9jc014RnFuN21HOFJR0gGTBEFVX3lxTFBocnNoM1c2S1Z5YU8xNklZSDh0clFON1R0alU1SnBLRWxWVnZ4M1dTUWtJOS00THROdjFtak5iR0k5MG1YeGtzX1JOR0wtSWpMdG11VmRTaGtyclFyUVZtTDNqTkpWOXVYcmlTdkYtS2VIaGwwYUlETGItOTd5RjVqMl96LU5hMHZLbmxzNVJ5TkFDcEZGNWdUaF8tLXJYU2djdXRidzdnRWpyNnFyYi14dTNGYTRWY2c0RkxqLUJIa3YydE5CeHJ5LWxZWGRRaTB5SlZsczFaRXFOU2RjMk5sS2YxOU1uMXRuRndVSFdPVkdpUUtJb3cteGdVZkEwbl9zcGpuS3c1eldDT1lHdUt0Tm5sS2xCdTdBczNzZUZheGx1ajJBZlRwR0lFVWpTXzljX3g5dEFmQ3I3Q2FUSE1XSHI1anZjbFNseUVwY3lQdVJnQUV1ell0Z2N5TF9IVHMwY0VnWlNJc3FNZHg5dUk0YURZTTl3YmtzbG9CNWVHbmJCbHlhQXpydGg2Q3RZeWNoMnJCczFOdHBUR1N3aTJiLXdYSDlMeWpEWWpqSlNmVzZHR2tfclItN29WdFVaWUlfSXFaVXhtZU9VWFF6eGNmUlFxQjQ0cDcxVHZaRGZfbDZiUEZ5TGZIaGpXdTNLeU9RVTRIRm55MXpYN2RqNXhtWmFBRHFWX1NaRWNZR19UdUdQZw?oc=5",
@@ -838,6 +870,22 @@
         "section": "sports"
       },
       {
+        "id": 3801,
+        "title": "استدعاء جيبس وايت لمنتخب إنجلترا بدلا من بالمر - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQaEk5c0tjZzdqeTFwajlySW1OS3g2S0xjbklmZUxOQk5fOHZ1X1RGYUlyVG95enJnTnRHeHdaSzhSTzVJRURsV094OGk5YXZzcVJZc1VUMUZ4MmwtQjdVUENYQlJsS0FVN0FtVnJqdE5HaUVsZC1NUm5lS2J1OGRtMmVNWWNJT212T2NqSFM3R3lpVFNCNk1pOTRJZlFXZkN5dzFXeFF5emZ5YzNqN2JnYUdPMzBHMjFaMU9OWWRhbDVHemhHY29jTjJoV0M2VEJ2Ql9MXzNGSkNwV3Z3Sm11V0ZNMVN2eVMwcFg0SUdHbG5UVEt3b0VoWW5HdU1WaC1oeUpKUzFyVXJEYVFsenVDOEU0eHp5Qkl0T1kwUEtobVJMZTVuNmNNMTAtOTlzbnpScUZMR2d6cW55TFNYT3pZOWRmeTV6UWotekZlZkpmaFlLN2pfcmNCU0ZIUmJHdmZZbHhZTURiLW1pTjN0LWJ3Y3FpQ0VQUHI5WkpnX2dleVgzdDF4ZGdmd2FJcnJUbUx5bmxJ0gGYA0FVX3lxTFBzRktzbTVIM2ZGSGYtSGVNOU1rNVF6NzFHR3RCRHRXTDN3TDV3WHUzOG41ZHRFOS1RUWV5eE03dDl4bGNBUFlUOFNlMUg5dkFJSUxSN0xjYUdNQXBiT3NWdzk5Y3pDazRibVZlNkxKUnJ6bTlqQ0g2V3VzQndyc0FreWhaUWdqTXBCeENHaDhKWEhXN2JObTBGZVdCZVoyanhUdlhwNmdMUmxEcXBKejF5ejF5ai1hT2VEdmlSc2d5VjBCQ053YVd5VUlpZWpzZTNGR1JEcExPN0laRXd3cDhqZVFVVWg2TDJRVDZnUGRQUDRzX2F6RzgxUTVtMmZZZXBGSHMxbWp2c3VRTTMwZ0o2bDhDZWl1RWUwaG9pbTVDZXJVOXNCUTZXbHJvQTlhUjIxeXBXOHNBZzE2ZEdYdGVGR2VRUThCV1RBay03T1MtUHRrX0V3ZXdJRmF1M00wemoxdXZ5TFlrRjQ1VVNRakJ4SVBnMXNrcE1LX0JnaXBEaWczejVyQzNUeHNieVFnQ1I2Z2dTLTN6SQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 10:11:00 GMT",
+        "discovered": "2026-09-21T14:28:04.490565+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "استدعاء جيبس وايت لمنتخب إنجلترا بدلا من بالمر FilGoal",
+        "player": "",
+        "content_hash": "9f595aeeb9305eb988a6298ef1fed99be0a5cf37484e27a76ff330d2e262cb88",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 3719,
         "title": "ترتيب هدافي الدوري الإنجليزي بعد الجولة الخامسة.. هالاند يحافظ على الصدارة - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxNNnA0WEdjT0s5U2pjYjNnZUZlbTVjYkdoX1VnR3pyY2hJS081aVBzTTlLLWFvOFpZWXFxTXdiWTFIYmhDNVlDWDlPd0FOb1hEVVlpZmpHYUMxZDJjdWJNX2ROOWlhd05iMzZyQUo4TEdHNml1X2hSOE15N250VkhpdG1aQ09tLUowZUI0U1hSQTV5NEVqQktXc283Q0l1b0JOSTR4Mlk0djhYRHBVOGszMzJRWmh2VVctQXZ3TzR0M2dpaGRXU1BJWWJ3aUFqNjhNekVuV0dodFVKZGRvbWgwcHBxcjZueHRmNHkwZ0kxVTRtZDJoRWlUS2M2ejJvVE5oa2dOaFNzc0d5c0dsQzRIdzRkWDZuamZubE9SV0thY2Z0cDBZNUl3VjJPamdHYXBJQVBXOF9zR2g5YVZwQ2FPTG1mRDJ4Y0FVVTNYbUxTaGxsMG5qNzR1NFFMMzNNdllVWVhPS0RuVDh1el9INlJwalQyTUp1a3hZSEN5WTNEa0RRU3doTXR2NTJUYWxIal9SZk9XZlp6Tk1LNVVocEtwOThlS0RidXBWY2pyb3FTdGRTZWYxd2RwX1otSTJoMlhYMVAyamhsYUVjenpuYkdNRTRDRVVVNG5BRmFEcGVMMU5aLTMxT0FVR1dXMlJnYV9wRXgtRGRDYXUtR1JkaWxYUTg3S2RBVUJDNFdZZUo5dFdGb0o1VHVfOE01TUxKT1RVdmlvUWpTODJlMGt6WnlSWldfU2E4aXhQdDdLcVBDamFfMkdvaFdUcUZRekVDNTk5cmI2ekJ0aEjSAd4EQVVfeXFMUHZIN1dSUEdlZ0F0ZU5rVXl0M2V6bmZ1ekFnUTJ6M0ROVXB3TjE1V1ppSDVCVF9UWDVGcG5NRkRMX3hZVmFTaTlabDdwcTZBbmpETm1wYmFmY0xSeWR6OUh4N2NvY0ZCNG5hVHBxMF9CQkdfcURwVkZMVzZpazZfb3B1S2t0QnpwN0tlYkM1RkNORC03NXNtb1hxRTVHTmNoSGhKcXZxeVFRdzBLNEpBSmhBTWJBZElRZ2x4MGVCRW9lMWhveVNWSzhZdHkzZjlxR3c3YzY5aGRFM2FhdGxMaGdOOExpM1Zvbk1KNXE4aEk3clc1b1Vxam42bHVUM0tONlY5Q0Q5X2RlUmp2c1hPRmYyTmRVSV9tcENjQ3BjNjJmUmR5ODNiMVQtUWNzZnJqaS1KZkFCRFVmd25rSjBvWGJ1T0lWOHdLZURnRXhubDR2TFZZOUNYWDVDXzRDSFQzMTZLdWF5X2JMUUk5ejlkaWFIS2lIeVRVb2JMdFNGOE1NWDFtb050TDVlS2lvYTI1aUNPNUNpTGhuYloyVDMyWWZtUVJtWEU5SWlYQi1CSnVxSkZqWDVsM09KZFdOWVlVak9mTV9HRkdyTTdHMm9TcFR3NlJtREJRbDZ4U0REajRKRS1ZU181b0xaOWNMcFdYREZvWnNjV2lOekpoRzdUZ1pMOG1GSFJXTEVUWXdpazg0QmNsRVU3OHFNT04wLVNvQVlUcGhXSWZFV3FnZU5YV2ZCN2lTTk1nODJzck9oekFHUkxfQmVuWHYwUWVNcjVYclhGb2lJRXEyWVdKYV9B?oc=5",
@@ -1172,57 +1220,25 @@
         "content_hash": "f16c43618ae33db6f75e8d575df18941ef19757cc56864aebe29d0597ef90448",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3783,
-        "title": "دعوة أميركية للاتفاق وتحذير إيراني بالتصعيد.. الحرس الثوري يهدد بأسلحة وأهداف جديدة إذا تجددت الحرب - Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaUczd1FvVUVKeDB6YVVGWnY5Z2FfajZKUjFjMExZZm9WeGR2RHlFZEVVVWdHLU5Sam5QY1VrRVBZaVpkZlFZN1oxYXhPaUl0Z3liM1puZkg1cFpJV2ZoMWhjYkhnMGdJU1dncW9JV3Q4VE9OVWg2RUI5U1ROSHdVUVVtVV9JNGt3NVdBWVJvWUhId0dDRjJLUTFFUmJJanh5alB2QWt6NEZUZw?oc=5",
-        "source": "يورونيوز عربي",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 07:11:41 GMT",
-        "discovered": "2026-09-21T13:18:40.170482+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "دعوة أميركية للاتفاق وتحذير إيراني بالتصعيد.. الحرس الثوري يهدد بأسلحة وأهداف جديدة إذا تجددت الحرب Euronews.com",
-        "player": "",
-        "content_hash": "aa992ac7cbe368bb5fb40ee6a50cbef759d33968c183a914110df45011fe1fd6",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3672,
-        "title": "مباريات اليوم.. مصر والجزائر في بطولة أفريقيا للكرة الطائرة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxOWm92OElMMWlOMVF1MExHSDR0TWpEc2JGVWIwdVJkeWg4S3BVOXdFRDBuNkNqM3h1aWpyZFRtQTZFTXgzakY3Y2ZGRWZmdFlLQ0pzZ21yRUNjS3p1dk5OcHctZ09YOXE3RDY5Sm0yMmlYSW1Sc3IxZW9DRmxSbXFIRWJJVjFBZXhwcFVkUVNCb25nQ1c0TGlFUGQxMGozVFZPdUNJamc4X0dxVnZWdHRkY2pZNDdGaHpTX2hHdThaMTY2bjZEN2tCbU5oS0hObVFmRDZuUUtGaUtWM1lxNFI0cWZVUUtab0lNZEhrb29Wa0Mxdzk4TkhyUDBxVW5rd3l3UXNlZ3RfQWh4MzdreTR2MlRRT3ZHNzVBbnhMdFEzcUMyY28yRjNIVmpBNC1xQzlnMlE2VWpldlZMbGVBSjM5dUdZZDN1dUlKdFhYelRSdXZQZGZ3dmhJcHA2ZkMzWk5QajBKc2E4SjRUc215SFVEVmJPTFQzM1NBMG5VZEpYTVVOcWlCSWpseUdoZTg1cG12dEVxRmpBc3d2UDVaYWtIdjhhQ2RrM0czN084QkotUFQ5d1Vaa1NRWlNiUnpyNThKbkR1V3B5YTA0emJWcklPSmRZamN6QXFGVW1KSWJFajFUTkVSVV9NY084SlN1TjNLeHZuVGV5QmlITlnSAYAEQVVfeXFMUEE4OEJLMjBjRkg4N1AwMXc4akVHbWtjQVdqckxuUkdTa0hMRUl4aWVkZVV6NVZqR2luNHI1RHZnYjdxZEZSWTNSMDVFY1Z3SnJwOVl0bkt1QTdlcmdpR2ZhT0dVVW5GNkpfRkxNanRqc0JsMWVaOTNfajc3dGRBeWRPSkRpS2Jld2JDSE44czZrWlNmZ1JtWjZURjZ1a2Juc0tzbUQxM0lfS3Z5QThlNk54ZEF1RTVVVnRpOVdjNlhXQUdvQS1haVlsR0RiTTJaempCakdPeTdhWmE1SjBpeVBGajA2SWNOOWhzNkdUMEEzRUhjRWx6RFdwWmpzemlWQzNZSGZYNnVpUjhlZGY5dHJWbDdOQjNlRlpmc09UY1RTaFQ2R0hlNVhkaVB6MGZhc2ZHcWowMXFfZUdjVzFKNkZKaXY3ZzlLdXV4Q3R5SU54NGZvNWhRWmlyQUtRNFdqNHQxZWVpSUpRRVNBY29fdk1kU2JOM29YbmhnLUs3bGtrYkdldE9NRnltYksyRVBvZElydVVFRXZIMk9XbW52RTF5eGd1aW4wWi1qMHd0cEhMVXlLeksxNmZJdDc1MkdUc2ZTcVZ3SnF1cWNFTzF5eF9PRy1FQzE5ZWJNU0JWd1JRMElIVThEYTdkX0xiWHBVVkcyTEZpSWV5Y3JmSEFoYWg?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 07:08:00 GMT",
-        "discovered": "2026-09-21T07:23:08.298698+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباريات اليوم.. مصر والجزائر في بطولة أفريقيا للكرة الطائرة يلاكورة",
-        "player": "",
-        "content_hash": "622ec756487198e4c1de4cd1b60f049a277e82522d2b33c1a49247fd6eadb3e1",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3682,
-        "title": "مواعيد مباريات الإثنين 21 سبتمبر 2026.. كأس مصر للقدم والمنتخب ضد الجزائر في الطائرة - filgoal.com",
-        "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxPYk1UVVR4akV5YmJuQnFiSmFub09iZ2ZFb1ZXcmN4Y2l5WW1URC1yeGxrNkdqQnhTYjBpWFBDd09EanVhQkdCVlgwMlE3ZTNiTWZSMzI2X1NJbjBudU14U1B2RVBrYmFnWUtRWmFmelZQTUItOE1qU1U0aEFYUGZGTDRzYVZ6WVV0RWpGbVZfcml2bUJDU3dSTVhQVGtOVXpYUldMbEZrQlpkQ3hDOHJuSU1xWEpncUtZd0ZLUS1DWTg2T0N5QjZRZ19aQng5TTYzc01wUVdnRGl5VmRwVVlRNG1JVG9pZ21KaXVxNVhWUzFRLVNGaUpyallCREJXMEk4cmlwNTV5ajBmYkkzVGlsemVxWkhZd29tSkxnWFlvZ1E0U3hrNmVrQ2Nxdnd3b2V3M0dqRUdUX0RUQzJnM3VPQ3dXbFE5d0p5T3dhdmU0bjJ2elBLZzk3N282RFFta0pTZnVMWk5rV2lyVkt4OEt2aVd6aldQT2VRRXJCR2ZoSjZvT3B1YzdEeWFnQ01jZ29zbFU2c2d5Qmg3MGVxeVFnbEM0TTRhYzRWeVM5bHpZQldvZWp3R3N5ZjhJdnVvWUhjZUlTZ0JuXzBoc0RCUTNRWG5fZktOLTJ2ZUpRbVVBQWMtUzRiWEktNldlZVhpbkR2dGxndkl0VVFPQ2gtZ0VhcXcyWHVIVmNtcndKSnZQRUzSAegEQVVfeXFMTVZZQ01ETm8zdDZRV3ZucTFtWG83d202TlVzSWpmOF9qSlQ3Zk84WlJoX1B4eUhGakZwTEN1akJON1BmQVcxT0xnXy1iMkc4T25ZaFNJbUdfVzBnaWY2d244NXRRZUprWGFFS1VObHljeDdiVjNkUkpLbTlvN0lsbDd2d3ZFTUg5X1Q1YlVfRXIzdkg4WUVHWGp5TGpEbktCdDZrdnVFQlA2d2xMdWs3ZERrVXdkdldWdUtDSHNkVjV1ZFc3ekdSUHZFcUwzU0xrUW1LRmVYOE1KdWhUREFWeW9fdGZmbUxBcE9WTUw4b1l1NWlic3haN3ZOa0NFNHMxaFJZdHN0WmxubHpNZVNfMzRoWG54XzV6emdtUzlDV0QyOWt3X1FoX2Y4c3pKbTRZVWRpMVJ4dWFpYnA2MXEzSS1UbG9NMS02YVBjNzh5bmhVVGYzeEo4bWNqSmlLUlFIVUZwWnBBMC16b0FibGZaaUR1YXp3NzFmQ0tfZHV0X0RndFppSVpuY2pZRV9NZkprUm51bFdaYUtVcjBacmtCV3hrM190TkJxRE15bi12b1R4a1NCYU1ZNW95MDFfQ18zdDBzMFFaUGdkUXRza3M5YTdwa2R5RWl1enlPZTlXX2FKZEJIbW1na0ctQU5pUGxsWkRYZXR0aHM3QXFLblZ4bEw3R1N5X3hBYjhKMVVUUV81aGxzdms4VDBXTEhmZW5POG1CcDJIaHUzeEoycFZVMzhGQXlpQUtoRHg1R3l4dVNfNXR0YzlEc3RxQVU1SG4wazY3alZKb0xjQUJ1X3UxWHlTYnE4ZktOZg?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 06:46:00 GMT",
-        "discovered": "2026-09-21T08:20:16.959945+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مواعيد مباريات الإثنين 21 سبتمبر 2026.. كأس مصر للقدم والمنتخب ضد الجزائر في الطائرة filgoal.com",
-        "player": "",
-        "content_hash": "b728893012e0c8b3f76a27deb810dc5246a39c9119189dba1219f565d48dc3d6",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 3799,
+        "title": "كرة سلة.. سموحة يضم ياسين عبده لاعب الأهلي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPWTJINlBMUzhoc2V4TU1CX25sQ2pKTEI2Z0g5dnluN2FpcVhjX1pqM3lzZkJqa0Y3ZVFIczlteTgtaC1aLW1SandBQU5RdHk1ZlhDNHZ5dFpQUTR1WDRxRVgyaXUwNnhpMVR5NFNOZE5vazFKY051Z1N1Sl9mVkF6aWx2QTNWbHI1VFo1Q2VWN084YW1KdDhlWFhUYllUMnFxS3RJLWJWZnNVMWEyNXdTQlg3Nl9VVWt1bDNMZlFhUmF2QVBxY0xkdjEwWEp2UHlqMmdCbVd1UjQ0R3J0V3NWU0h6ZUZMSnZjX2dNWk1sbm9CV2NPbER1OGlyRTZaTTdvYmpvdmhyZ2RWd1FhdUl1STg2SktLWFVCR2ZCN3B6NmEyQ1U0VnZiTWNwei1ocDJRbFZWcnlEcGV4TG1iZ0ZHTUZFMzZhZ0NrQnhsQlo1VW52Z1BBdndRRHRpSnotV3R4RkRN0gHoAkFVX3lxTE9UbWJTbTFtLUNNVjRPV1k0YmpEc1VfM2dWZEV6dzZreWJHdTNjbkcwQWxDQ3VMTkRvNjZVVUtGOUdLNnBFdGdEcUR1WjlWWXl3cHNMRllNQ2xJb3JqM3p0eU5oZ2xNclRIRUN0NFVhbmVNdGlXTllSZTM4TXJHazRwRDM2bmhnRmVqSUZ2akZYUlJaY3JnVEg5SVFhcGU1Z3Q4TmZmUXUybzRJNUJxQmttRVptSi03T0QtVEF2MXVINy01Y2FINVdKTFlfRUZrMWNESTZoUVQ4dFg3SEc1eTF4Yy1IQ1d0eGhTV2JCcURFdXM5LVVDTW9pQnFEeFJoNG1aTXlTWTZOZXpHcTU2VWRoa1NhaER6U0FqRmpPaFA5X0MwQjJUd2locHBFcUsxcmlBUDdGVlI4MjJGOXk1dHZfQTBKdnE1RkkwSmhuc1l0OU9hLXFCU2RSVUFOREQ3UWppbm84RURiVg?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 14:09:00 GMT",
+        "discovered": "2026-09-21T14:28:04.239717+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "سموحة يضم ياسين عبده لاعب الأهلي FilGoal",
+        "player": "",
+        "content_hash": "a4d1c7e68b115bf9a8ef8067dbfe60a03efea4b8aee6b3a8aa6fc030eac488b3",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 3760,
         "title": "إسبانيا تُمدد عقد دي لا فوينتي حتى 2032 بعد فوزه بـ«كأس العالم» - الشرق الأوسط",
