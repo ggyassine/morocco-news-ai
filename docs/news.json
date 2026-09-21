@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T18:01:01.414287+00:00",
-  "total": 125,
+  "updated": "2026-09-21T18:20:54.125362+00:00",
+  "total": 126,
   "sections": {
     "morocco": [
       {
@@ -405,6 +405,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3872,
+        "title": "كأس مصر – فوز كاسح لـ النصر وانتصار المصرية للاتصالات على جي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPSUZva0xQR0xBLW5OeTI2dWRSR3pkYzFzd2JqQ1k1aUw5RWdRTlR2UE9HcXI4SkJyZmhEbU1NZ3JuZ3lxWkpLd20zN280YWMzTUo3ekIxaDNCUDE4MUFZT1p3MERNY2xRdkxFTkFfbzdMQ2x5bm5QU0dwazI4VmVOV2hZdVR3bTNHc29TSUlKbGJUNEFHbWx0dzFrUEtLaUlGRlVvZ3NTQ0JhcDhxZ1p5V0cxZ3oyX0hGeFpXTmozUHVpeDVsNzlEYXhSM1hFb1I1UVRkSk4tdk9ZSnpXdVplbkhERjhsSzFaZGlhaEU1bjdpVVJjcjBkaVdMVGJ3elFkSS1Da0xBUDhvZ19PQXBMbDl5X3V0T2ZkeGlTTHNvLXlwYVNHOUdxbzBXRHFqY2JaejJEc2FRWVczSEZhcWlxai1RdFBMYVB6eUhSTmROOHVpQXQzVnppaUVZTEFhbU1lOHpXSDRWZmpqNHFwSFlUWXM2aUZmYWxjYTU5N3BmMVlmUm9QT3hPZjlnVFdlQzdqdW1ja21PcUxqWmNvaFBYa0s3Y0FXVmVsWmZUQTVkV2N4UnlEMlVYQjVzWnd0ZUtkdVd6RVAwcWFXYm9qMFNvTDZzSm5CLW5LLTJadG40UdIB5ANBVV95cUxNdTVhX2NFZGQtcTU4S2VQLXRVREl4YmtBdzF5dTZhMmVMZkNpUHBfaFNpZ1FVYWdIZVFyZWJoUmhBTGQwLTZ0TGJNY0xHSHdBRkNBTkg0MTN0eVYtazRsS0xySnpwV3BxMk1ENUZ3Vm1DNWhQMnNRZW1vSmNqaXN3d094VzF4Z1pYclV4NmtjN0dWakdndXMtTFZRZFdWbGtMT1BKQXd0WmFGUGJpb1VuVWlFbGZtRUYyS2c1NWxGZ2hiUEtKeWNOYnlMYzhyWm5rS0pFbDBaOWRUOWoyV2JBLTZtb3A3TG95X0tJTUMwMlNXOFVhSHVfaFY4TERRNERpb0d2ZDU4TFNMckFJQUp2UzRmX0p6SGpzdl9NVEFJNTNvZTNBYllSV01VSEFTNDRKT1VGYmZNZlVMTldYT0RLUXJ0eUNXejIwWTUtSTJRVlNtRG9Ba3M4ZGl2bjluVy1ON2VkcHZLTWg2MEU4UlItX3I3RWI1R0ZCMkdBSU82X2tyVXRLUG0wUF9TbTdscmNQTVExTnJIMU1RYklLU1I4bUhBb3Q4S1lJbVFsdVlhQ1hrMkxNWXVxX3RXZjVsVTRPNkNfdzUwWU9xQy10T2dWNmhEUVY2S21fRDV2TzU0UThiR2o2?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 18:03:00 GMT",
+        "discovered": "2026-09-21T18:20:34.050529+00:00",
+        "category": "الرياضة",
+        "status": "مفاوضات",
+        "summary": "كأس مصر – فوز كاسح لـ النصر وانتصار المصرية للاتصالات على جي FilGoal",
+        "player": "",
+        "content_hash": "c5a18226e006ff51433b4653bbe4342af693261c46b5e5791266d4fc4eef3d38",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3868,
         "title": "الدرجة الثانية – الإسماعيلي حضور 500 مشجع لمباراة طنطا - FilGoal",
@@ -1188,25 +1204,25 @@
         "content_hash": "3139c43c0702a11dcbd4dfe40af576db112ba1f4ce3ef143e0855852ded5a7d3",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3726,
-        "title": "هواي الحائزة 4 ميداليات أولمبية: السبّاحات الشابات مثل الصينية يو إضافة جيدة للرياضة - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxOcjdMdTZYUEtiUnFUVVhPdk5QdWV0WGZNNHNJbzVNQk1zOVFKNnNMUWxCdlBrNVZ5czJ2a0tYcDZtX0RRWVJmUmM1dGRPZmZPMjA1bk5JdlFnUEt2a0M5d1ZxVEtKSGtRM1hCMklHNlRPaldIY3VuWXNXdHUxdVpNamJFZWJMU3R2WGlrcHlqSl9oNU5KSXNxeS05cW5ZWW1Ha1A1dDd0Mm1WTXVUSDIxUF81OW5ORlhqN2VxTHc1eVJOTjhwcUF2aW1XUklRWWItdUdNeUxlb1RtWGZUbG4tZUJNamR4Mnl1bjlTVlhSNkhvX1RqSzRqZmJlb0pTNDlscUZzT29LRGtMU2FXX24xVS1xNngtZ3NMcnE1aXc2eXNWbDNUdHJlcEVVRGRQdUdBNEp2bVdXMm5xN3VpSnZ2NG9qM3RsZkZJbnFVRl9oU2lRUF9wUTNsZFJ0elJfd2NQN2F4aFpiNWFWSkhXa0N5djVyOVg4ZmxDUmppZ2ZhYkZVUE9jTVJzMzVsNkxsS2N2WU9ULWotOFBJemtldkpnZzNwX21vbl9QbFZZQm1meW1LZmFzMEtUY09aZzY5MjV0TVlKV1Y3Z3VEODhwcXQ2VFFCcU1sQzJhaC1jZ0o3YXhTTk9ORWFQbnY3OHh3cFo3bks5TWN3blV1aFhjSENBUFhhUmR1eEdCMVRyeUxoWVJtb01vYmpHbXRpUHEzUmhmQ3oweFJ4dmNnbk1mZ0RRVnNkSEJnSU5TeEg2ZExHYkZtd2o3bnhPV2FMNkRRWVdhMmNFd21aVGNTWTlqVVJ3YldUWnRrSUhlUFJkVFhxSEV5Q1hPdmpYYmVPenNGV25WeEhsdmdDdHB0NXo1UGp6SkJZdURvTlhPWV9kNVJnUGtaRmdXNW5Lc1ltR0l3aV9wWU1lUG5HZ25TVU0?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 10:41:48 GMT",
-        "discovered": "2026-09-21T10:47:46.226338+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "هواي الحائزة 4 ميداليات أولمبية: السبّاحات الشابات مثل الصينية يو إضافة جيدة للرياضة الشرق الأوسط",
-        "player": "رياض",
-        "content_hash": "a70ead6107163322f128c43784f85eecdcfc37bb6de1f624281ac62aecc15419",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 3871,
+        "title": "منتخب مصر يكشف ليلا كورة موعد انضمام هيثم حسن لمعسكر الفراعنة - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxQWXktWk52UGk0bW5HNFlmenQ0YnprWldoZmRrcXluUk5pc2VWOTk4Wm4xSmVwZmVtYlVOWGNEcXpwSTJnWHowVGR6bzUzX1ZadTR4QURkQ0xuRERKcjRlUnp0LTAtcWhTTWZJN0ZjbzhLZURKdHdJTVNJakM1MkJiVmZxal9EWlhqSWdCQlpSVmdKbmowVzdUNXlsUUJuVDZTNlpGc2F4YUlZd2NDSGZzYklkc3ZWemNjX2EzcjRBUm1ZdUViTkZSSERVTnRGdmI2OTNoRF8ybm95dGNaZDVmSHBHS1VhWUgyNWVzMVNNME5pM1I1bXJQcHdMdFd6MzVjUVFTVi1kR0wzTi1tZmNCODRBSERSZnJLMWdSSnlJZ3B0ejVJWkl5MDJkNUhPWjFoVndRVGZMVnNrVHdkM1hubnVTWTFnZWlRTGg5TnZoa3p3WGZuSTRja2NxWldxTFpIbUoyRHdoY1J6QS1PNGs5cVoxR2JVVTdpTXRmWnJ4Z1hhUVpoVHVOMnZwdjBKanpmRm9LQnNyVUtDSFpPYm42b042THVVUF80SFk4RmlUckNSREw5UnBoaERJYkV0UzFYa25SQmlxak1JaEFyUXpuTnpDTHgxSTVybDFmTkJGZ1g2Q05mOE5KbjFnaUMzUFR0U2ZLaFRSWjF0Y19KN1dic1RGSk1mdWNfRy01NVVrWdIBlARBVV95cUxPN2l1Ty16T1JCcHp2UWFGMlVkRk5TUEZwOVRhZmRPaGd4azlON1hGd2VMcmVTVGRnR3owT1FnRzdmaUU4LVU4QmMycG9xMV9qcDZudmNvYWRPUTNRMGtVZTNYc0owd01wZWZMbDNDeWR1aW9OSXp5OHVtcTZWdGE2bEI1RHc2RnhKMlgteWpPV1NWa0NSLU1hWmU4c0dZUVV4d2t6bldEN1Z0d0JYS2xSY1FJamVFY2dFMmFLOTdLSW1zeUlINWMzTGI0Z21FZ0pyZHRZM0JXZEtzbldPdkI5SGl4ajNTamxKTURCby1kLWZvaXpnVHAyZnU4Q2dManJfS1dNM1ZlRHdFSnRzS1FDTEk4LTZWajhHSDJUdWdicWpURWZTc2tpVzJBYV9OSGpVUnFGaVhoR19lOXlCS1pFNHJxTFJRdnRYY21kVzUyOGl6ZVhXR0tzYjdrX0hUQjQ0WGtzR08xc2Uya3pOeEtGWGgyd1JEWm9PRXQxQVFDQW5qUTYxMGJjYUlBZkFVOGJxXzJsOGpJREROVnRIT01zalg4SWlFR1pTaXl3aV9mMWFEeV9rVEN5LVFTUW9HcGUwMVRXam5KYkxjTnRQbHk0NnkzSFVfRlhVcmNHaTYxTVNLTHh6WHR3QmlZdnBtWnM0TUZFRWI4Mnk3OUlWdWk3X2FocnUyd0NYcWpYRDNWTVdUd2xE?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 17:39:00 GMT",
+        "discovered": "2026-09-21T18:20:33.248476+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "منتخب مصر يكشف ليلا كورة موعد انضمام هيثم حسن لمعسكر الفراعنة يلاكورة",
+        "player": "",
+        "content_hash": "e14fd859f904d3d3f78237cda80afe996a12712fba52c7a568f81cf49c7e757a",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 3860,
         "title": "أبرزهم برشلونة وثنائي إيطالي.. أندية لم تتعرض للهزيمة في الدوريات الخمسة الكبرى - يلاكورة",
