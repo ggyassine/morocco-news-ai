@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T06:53:19.393259+00:00",
+  "updated": "2026-09-21T07:06:05.237135+00:00",
   "total": 120,
   "sections": {
     "morocco": [
@@ -466,6 +466,22 @@
         "summary": "جدول مباريات منتخب العراق في خليجي 27 والقنوات الناقلة 365Scores",
         "player": "",
         "content_hash": "6cc96f579d3904691319c687ffbded83dbd3bb37eab2cf51f3d2757991614a96",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3671,
+        "title": "إيران تحذر من أن لديها أهدافا وأسلحة جديدة جاهزة إذا شنت أمريكا هجوما - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOd0pkdHBseS03eUtfQnJiU0E3R1piT3h0Nl9YZTY0UmJDakU4QXBScjIwLVBSQVZHUXBIOTRQVmNhQ29BRDI0TUFldkhZdHR2TjVtc1p6X0JlM2VkbnlpeTM1OFdieGhPY3V1WlhCbE5SN1FBaHBQTlpuNzU2UUc3X0l3SC1XZTVuWFFramQzMVJlR2J4blBRNGF4bGM5RFNNMFRwdEtVYVpqckI0b01tWk54Nk5qci1qT3FOZEdlYXktYjgtdnFrcXB3WUhCdkpnMnBIeVVqTURhbnY3OGFpSWxUZGVlcUZ5Q1huOUhadkhjVk9ldWZSVFB5Z0FfSG93V3BoQnZXTWx4Wm9jbG1ieHhQZThjaHBDdjlyU3YxQTk3UUNxcGk0aUhoRVdfbUtTQi10alJwUmN4QW9jN2dYYVJ6UDlULUpv?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 05:45:34 GMT",
+        "discovered": "2026-09-21T07:06:00.484898+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "إيران تحذر من أن لديها أهدافا وأسلحة جديدة جاهزة إذا شنت أمريكا هجوما القدس العربي",
+        "player": "",
+        "content_hash": "faff070e65ae68590b9a8a50fefa7a163b11303862ee3f2601800605f22a4f5d",
         "sent": 0,
         "section": "sports"
       },
@@ -1202,22 +1218,6 @@
         "summary": "أربيلوا ولينو يشعران بالحسرة من التعادل مع مان يونايتد الشرق الأوسط",
         "player": "",
         "content_hash": "d17db85347fcfd821974d8fe4c7bc1e37fddb54ec95cc7f21fcfa151369dd1d8",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3453,
-        "title": "كونيا حزين لتعادل مان يونايتد مع فولهام - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOLXcwRWROS2pySkdzZUZPLUpBeS1nQk9mN1ZKSW0yTklETE0yTTFlMjJzZVJhR3R0SWF3dE9KbW02Z0FYQTRaSGhVMWpGeHV1Wm5zX0p6RjZVVVNRc24yQlM0V3p3b0pLN01sTTVIMkY3V1ZIZ3BOU0lIZzA4TDZhZnMxQXhGVmZhS2JpMGxISTF3Ym9NRjVxanY4ajItN0NXNkVvbURIelpSQUx2WC1Jc3FySjZfZnpCTUNIdmlWcFIzeTNRZS1MV3NDcGRtX3BMX3ZjYkFkdWwwdmJnY1JIeDM4RnZ1WlA1VFZpZUJCWXJmaXNzMmxDVDAxUVpBbWVWaUlBUFhPY01NUXV3eTk5S0RCZXduOEZmdXZlS1hRSE9uRTh2amFmZnFuWEZ3bDJUWXZuZjNmMU1WM0dTT1RSTmFaRVFQdWRoZ0VOSXJEVEhjdHFjbm9aWk4tMHg0Mk9GSThfMThTMnBoeW82M3dHQWdsX29zUmdqN0tnUnVXMXQ3c21Pd1BqLV9QTzQxR1kyLVVxb2tsQTBxRU5NMGpxLXpjajZnOFRBOXBqcTV5RkNiZ2JaQmVNVUpIdm5KeHV2UjNNVzhwS0NOVTFfY3pIeWNUSHhKeXFfclJEb2llNU56TURl?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 20:13:35 GMT",
-        "discovered": "2026-09-20T20:22:42.630585+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كونيا حزين لتعادل مان يونايتد مع فولهام الشرق الأوسط",
-        "player": "",
-        "content_hash": "b8c44483f2b2a6e2ac4a479cc0e4614eaab6f864c95c6cd40c1cf74835f71b89",
         "sent": 0,
         "section": "sports"
       }
