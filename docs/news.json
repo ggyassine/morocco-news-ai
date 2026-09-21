@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T13:18:42.477801+00:00",
-  "total": 119,
+  "updated": "2026-09-21T13:32:35.573490+00:00",
+  "total": 120,
   "sections": {
     "morocco": [
       {
@@ -421,6 +421,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 3786,
+        "title": "بطولة دوري الأمم الأوروبية - المستوى الرابع - 2027/2026 - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxORXRrWkRqRTVYNzNyOGJvbWRZMjFwTWJob1dPVDA2Nm4zZXh2ZGhTdVN2V3k5b0N1RGljLVB0Nm5janJTTFlkQjFpY1hVejVQWGlCcGh0UGxFZkZUbGhuaVdNQlQ2blFUcy1PUFoyZllLR2tPcWJlUTEtSjJUZ0ZtRGktdy02QWRqZzNlZVBqYzFxWXJFTnRjU0g5MnZKcVlBcXJHaHN3UEM1YzlhNkRHbXR3WW8ybGE0VW9nT3llUFk4cXFNWmlLSF9yV05mLWtYR01uQnJpSEMzVkhHX0dpYmZVYnR0TTNwSVZ3enBjSDBBS2VFTGZ3NEk0bmNpaC1NeFJCT0V1WEQzRlgtNFgtYTZJMHM2T3c4QnI3ak9SV1B5dm9Ob2p4Mzd1c21RUjdkU09KUmxkcHllamE3VFY1cGh1a1ZaSzhTd2FGWlhfaGltZE0?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 13:17:30 GMT",
+        "discovered": "2026-09-21T13:32:19.768162+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بطولة دوري الأمم الأوروبية - المستوى الرابع - 2027/2026 FilGoal",
+        "player": "",
+        "content_hash": "a45a307e6981128258f2925ffb7db2d63a7c066c06ec813b7302ba0d0eba02c0",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3785,
+        "title": "فليك يمنح لاعبي برشلونة غير الدوليين 9 أيام للراحة - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNMVZuY2RGbG40czkwX0UxWUhtX0NfWUxla3dZcGxJbld0R0pRMWhhdDYwdW5jczdTcWFLVjd1TklodEpjNm96MjVRZk1aeU43OVdHNVByX3hyTzcyQXB1WUZiSkxBUEd3eWlXam1JT25lNHZ2WXRUSUtTelNTOEpmV1JLTlVaMG1mWnFpVzNoUDhQM0FKaDY4ZXRxOGQ4Z0RIckxQMWxlVnBzU3llZXBRSGxUcTZRUEY3Y0lzdlhrX1p0LVlJYTA1RHdCSGhTcUR0a0p6ZFA2LVFoZ3UtX2pMR1JzMDdWdGhpTDNsUzVhT3NlVzl4akdMTFNOaGpDZGhjVDF4RWRFSmNoa250WlZBM01jY2stbzZBV1F0clZGdGtDcElqRHVVQVJrMEtJUzgycWdiakVqRW8ybVpUVkV2QUpjNm8wdmcwU3JnZGIzbHNORTVrbF9sdXhOM090am50aWpZdnZsZjl2UWg4VGVsalh5UTlmZWRkaWJhTHVzSEtWRXZvdzY2LXFqbzhyUkJ3SGp5ODE0ZmthbDNmczhlRUJlcDBxZ9IBqwNBVV95cUxNZG1yWUdsZFE5blFSRkxRRUFtSk5sSVgwVG54YlRTR0VaTUtTUjJ2QS15VFY1TmVIcFpCUjZ3cF93b0ZXTUMtVUJiZW1tWk91R211NDVKT3B3YXBsVXNxRWxzc243S0FfNzhXczRsRmxfRjd1NFFhb0FwSjRmOWRNQW5qY2k5a2wyakRMN2pBczlUUHdVZ3ZucjNydF9vdjFSUDJFRHFNb1M2V3JSOHExSkswc1F2MlNneVRGVzhUVS1kcXRMYXBOQnF0SmpZV0t4cWk3c2xmYnVyc1FSY2Q3UzQwdE10N3JpWFo1OXFTYk1GVExRSUJoMm9JWHdWLWgya0ZjbTctd2FNaGMxVVV2TmtDcF9KaERGck5wT2g1TnJBRWR2bzZCd0h5T2c3bmFPRDJ5X0t0WkJMZjdSR3ZBMHdqUmpkRnVGT1VxbVBBSEJTVGF0YkFBRTFPb0hrczlDbnJjVDIwRDN4SVJocUxabmRoSGNaXzNsRHRhbDhYMmdtQkp4Y1B0NDd3SEJYdGZOajRqRnhmSTlXLTlrbW5UT0VHNVd1QjcxMTlR?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 13:12:00 GMT",
+        "discovered": "2026-09-21T13:32:19.702711+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فليك يمنح لاعبي برشلونة غير الدوليين 9 أيام للراحة FilGoal",
+        "player": "",
+        "content_hash": "63b8d24c0776b5efb82e73c4e2b2ce43a010d19bb22f9e935c119f2267073873",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3771,
         "title": "ضربة ثانية لزيدان تُربك حسابات منتخب فرنسا - Kooora",
@@ -1188,38 +1220,6 @@
         "content_hash": "b3c4623c63e461719d2a1bf95f702fb810e4c2cb6b473f4f30e721b4b7a6ac5f",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3666,
-        "title": "جدول مباريات منتخب العراق في خليجي 27 والقنوات الناقلة - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPYmUwaUQ0RnR3OV9jVnoyLUlIRTd0T1h6MDB6WmlYakVpZFZ4N2F0d1pIT1BsY3gxVHFlZ01Edks3ejE4T3ZYcFdMb0RJYW9jbTlUZTBTOTNJSmdrT0tNNU9idTJESDJWVEZ2bmV4SjRHZExrd2diSU1CNDczUVJMcDlUNG5BeVZrY2RXbndXb1VfLU4wR05GZDFldDFjSC1VMmFZR3NfUDZyaUNkUGJWdjdtZkpRSXIySHdDaXUxc3FrTHg0Mlg5Tm5pLVpqckN2VmMyYUZDc0x2S3hRTE9qY0ZDaXpITGJjb050Z01MLWxHektvVXN0SEN5V1ZrTV9RWDZIaE5nVUtOazFSSndxblFnMFNSakMtVEp3TkhDRHN5ZXB5M3hSUzAtcFFoSUppSXVjSzR1eU1jWXB1RXJXTGQ5bWRBV0o5Tmx4X1NDaGZsbTNkdjl2Yg?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 06:21:47 GMT",
-        "discovered": "2026-09-21T06:34:04.884416+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات منتخب العراق في خليجي 27 والقنوات الناقلة 365Scores",
-        "player": "",
-        "content_hash": "6cc96f579d3904691319c687ffbded83dbd3bb37eab2cf51f3d2757991614a96",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3671,
-        "title": "إيران تحذر من أن لديها أهدافا وأسلحة جديدة جاهزة إذا شنت أمريكا هجوما - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOd0pkdHBseS03eUtfQnJiU0E3R1piT3h0Nl9YZTY0UmJDakU4QXBScjIwLVBSQVZHUXBIOTRQVmNhQ29BRDI0TUFldkhZdHR2TjVtc1p6X0JlM2VkbnlpeTM1OFdieGhPY3V1WlhCbE5SN1FBaHBQTlpuNzU2UUc3X0l3SC1XZTVuWFFramQzMVJlR2J4blBRNGF4bGM5RFNNMFRwdEtVYVpqckI0b01tWk54Nk5qci1qT3FOZEdlYXktYjgtdnFrcXB3WUhCdkpnMnBIeVVqTURhbnY3OGFpSWxUZGVlcUZ5Q1huOUhadkhjVk9ldWZSVFB5Z0FfSG93V3BoQnZXTWx4Wm9jbG1ieHhQZThjaHBDdjlyU3YxQTk3UUNxcGk0aUhoRVdfbUtTQi10alJwUmN4QW9jN2dYYVJ6UDlULUpv?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 05:45:34 GMT",
-        "discovered": "2026-09-21T07:06:00.484898+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "إيران تحذر من أن لديها أهدافا وأسلحة جديدة جاهزة إذا شنت أمريكا هجوما القدس العربي",
-        "player": "",
-        "content_hash": "faff070e65ae68590b9a8a50fefa7a163b11303862ee3f2601800605f22a4f5d",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1912,6 +1912,22 @@
         "summary": "\"الوزير المجرم\" يعتمد تعذيب الأسرى الفلسطينيين \"صورة خلفية\" لحملته الانتخابية القدس العربي",
         "player": "",
         "content_hash": "01a4a078d2718b50b9a829580f3eb0e1d9629d1b0b9c454e52cd037dc8c358e3",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 3787,
+        "title": "قتيلان بهجوم أوكراني ضخم بالمسيرات على موسكو في اليوم الأخير من الانتخابات التشريعية - France 24",
+        "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxQaHF0MHlDZkNYX3owVmpINmN6Mmd6a0hJczlMQWFtbGZ1LUtjTXBEaDVWSTJ6el95aV8yNHF1c1BoYmppYTF5Rnk5TFZLNmM4MmNfd19jMTQtbzlZUlJpa3ZNRGVOYnh6VFpLWkVTeVBNaTJNZTZwMzdJNTVtVDhZVzEwOW1uTFFJN3luQmpzdHlOSk5yWkhvSnMxaVZLWEIyUklpeWdkWFlDYS11MXJOWF91YmNfMkh5U2lDVmZCcE92UTdsdjI3Mk5zbjY1aGlXUW5jcVdsWGktMTVDWUNIRG1JTmF3UU1rMFR0TDNVaWxMeTAybU8xZTFTcHU4T1pSZXVtVXBUcncwVXBnbHh2RDZwU0szNHNXY051NFE2NkFnT3RhcWdfR215UnNaQXVSY3p3UFB6VDZQU0pSOEVoNUc4X2hUZGZubWhQVTNkZ2xFRW83bkdJZGlkdkxCMzNQVm9INl81OTlvUGRjY0NFb0E0WldKYlhjYXVVTkQ4ZF94SnlPUlZUeW01SjZpRU5VMkhac1Q5NDdHclNRTHViNWh2OG5CR2pUa3dpUDlabGw2RWItOXRicGRsaEo2LVA5VHNSdjNTRlR2WERyY3ROS0lycFNCUi1kbEY3aklfaw?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Sun, 20 Sep 2026 11:24:53 GMT",
+        "discovered": "2026-09-21T13:32:31.120791+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "قتيلان بهجوم أوكراني ضخم بالمسيرات على موسكو في اليوم الأخير من الانتخابات التشريعية France 24",
+        "player": "",
+        "content_hash": "f1e1cc78de9721baaa1946f52fea666f12ffbdc217e445dbad1349abd92b5e8d",
         "sent": 0,
         "section": "world_arabic"
       }
