@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T01:32:31.628808+00:00",
-  "total": 119,
+  "updated": "2026-09-21T01:45:34.159621+00:00",
+  "total": 120,
   "sections": {
     "morocco": [
       {
@@ -208,6 +208,22 @@
         "summary": "الجامعة الملكية المغربية للتنس تتسلم درع اللقب الإفريقي SNRT News",
         "player": "",
         "content_hash": "9bdcfc3a258809b0d35e9d525945f3bf6b9eb5d149e0dff023ceedaac601903e",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 3621,
+        "title": "من البث الخطي إلى الرقمي.. الشركة الوطنية للإذاعة والتلفزة تتعبأ لمواكبة الانتخابات التشريعية - SNRT News",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KZkZHUzRNcFVzWndVSDlVNmlEUWtSY3p1YzBlVTFQRHRnQkVQalBLRUR3X0FXQ1JZM2dGdWViUTFaT1VzUTcyNmJOMHAtakxC?oc=5",
+        "source": "SNRTnews عربي",
+        "trust": "A",
+        "published": "Sun, 20 Sep 2026 12:20:58 GMT",
+        "discovered": "2026-09-21T01:45:08.044139+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "من البث الخطي إلى الرقمي.. الشركة الوطنية للإذاعة والتلفزة تتعبأ لمواكبة الانتخابات التشريعية SNRT News",
+        "player": "",
+        "content_hash": "f7cc3c94695d40bc0721b2797adb6344244c444997e2899759697693e88eff42",
         "sent": 0,
         "section": "morocco"
       },
@@ -918,6 +934,22 @@
         "section": "sports"
       },
       {
+        "id": 3626,
+        "title": "«الدوري الإيطالي»: ميلان يصالح جماهيره بثلاثية في ليتشي - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxPbGFRZmpGeTRqUjZhNExwNFEtSW9KanRFOXlhY0JPN0ZfWlp1SUhhaUtadHQzYlNzaDFVMmZJQmYtbl9ZOHdqRm1IRG40cTFkUDh0RTNOQjJGZ2ctNFhxUFY1dFo3UnNuZXZmVFBEOFQwbW9US252dFJNeGZkY1lLYmJOaVR1dVNsc2RWZkpUdkF2Nkk5dnJZTVRMOWd2a3h1SzNNYndpVWV0RnNveTJfTW0zNjJYa3hRTHNicEFVdUMyYWxfT1hrRWdxTkpzVldRd1RGdlhRTzE3RzczOTNKQzNkNW9fSFN4N1JlTzZ1NVNtWmFCeko3QWVQdHlNYmg5LTZxTFhld1NPX0ZhRE03bVY4QVRzY2tMcWlHR2lUaVVtc3RuajRwMFR2OUV4UHc1ZGFMU01PbG5WZkVLcENOU012N3J1ajJrcXJLcDBTcDltbUxHakJUTlVhSkdwUmh4Uy14cGdtZW84SnF5U09PN3VIN01QR2pmeFJFeG5nd3U5WkFaMjhqVTVxWmxXb0ZicERlN0VVYzFKaTdiZEJzN1ZFYnJod3o2bVVLaFVySGJEVUlqOXY1bVNaMEM1OU5xMy1sYzhES1ItaDc5bXdhdzc5ZGhUZmVJRzlWV0VCV283a3dBbDVkdXhydEtWSm13Y2ZjcXVEQ1JFVktPTFR2eVZUZGZfb2w1Mmg3QnM2eUdkOTJ0N1BOdUJzX1RiNTJkVlVDOHVSNG9oR1BlWUQ5ZThna2gzM3VyVGZYblFSNURZaFJtTVE?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 21:02:02 GMT",
+        "discovered": "2026-09-21T01:45:18.085961+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "«الدوري الإيطالي»: ميلان يصالح جماهيره بثلاثية في ليتشي الشرق الأوسط",
+        "player": "",
+        "content_hash": "6244e194013103cc2590618cf9843c7776fe22c673495df60a72b07ff7b021e2",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 3524,
         "title": "منظمة مكافحة المنشطات: تم التلاعب بعينة رمضان صبحي.. وهذه عقوبته إذا اعترف منذ البداية - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VRE9oVGYtUC1ZX2dER29RVTBiNnBtXzFEYnVtQ0xCV0lDSzdrbjVIS0dtRW1RSlkxdW41RVdsdTdPYzdwZDRfSHpaV01PV2tN0gGYBUFVX3lxTE1aR08wZDNER29tMjhUM0N2cnZ2OFdXVU5aS3VBVWpGd01XU2VZQU1iYXhQMWVXZ1RYVWhTSXRnak1Qb2U1ay11emFBaWFDYW1DQ1Q4WjVaMWFKb3FPZGxQc0x4d1BnWGxxMWxoYmoybmNYWmJJVkNQUFZzeWNPNWluZ3BlQmZtdEpNeU1qSmVudjQ1U2lNNnJWRDlTT1hIZmZJX0tvT005cUgteWRmR09pVFF3UWE5OVlYWVJKVmhtUVEyWURleU4ycnFuZDVWVHRFMUFvSXJ4Sk1wZURjTVhYaWY1aVpBUFhtUEU2ZmZ1dU1LYjRZa0hscWdLZkRZeTNNREFfNnBnbkkwZnFQQU5vSllLV0syWmdRWnFjV3RXcm8yM3RINXZTRUxnUVRSOGUzd0VkOENOYWtHaENPS253eUdpVEFaeS02cTV2Yi1hRjZMQnN1RmpoVnR6Sk5QZkdFWGIyVk52SUdXaXE1LWJCQkg3NGtfVVV1VzdHZjVlTjRiWmNOdVZHYUxsWU9qeF9DczV6LThvdlc4QlRENWFTaF9PVGpQX1dOLUtnV2ZvdllWekpnSW9KeEZIengtYUJDWEdUeDVSaUx4OUxIWW9qTzlSNVNNejhDVE9FdURwZkhkbG50MmZNWnl4SlRjTHBiVmhHTTFFazJ1cVVxVzZxeENCM0JoWFJIN0g1WGcxaUhiY29WeDJ4VWNSTWdmdHBJMklCUE5GUXRaRDZtbDBSdFZDWklIeTIwUUUtaXNSbXlZZ3JXTkFXc1J1eUdJcnJpdXlLZV9PNUcwd0JUS1VYN2pXY0xsaFRYTXB6Sko2VDI1VkNjQW9ybmd5UWtXU0p4QUNZTHR2TlFpTkV0N3VpVTJDN1ZQcXM?oc=5",
@@ -1170,22 +1202,6 @@
         "summary": "جمال مبارك لـ«الشرق الأوسط»: أرشح السعودية والإمارات للفوز بلقب «خليجي 27» الشرق الأوسط",
         "player": "",
         "content_hash": "d94da342ff63d3c271d200753b5a301d39944cd98a5372c2d0b707c87753491d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3483,
-        "title": "ماريسكا يشدّد على صعوبة الفوز على سندرلاند - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxNbXY0RVUyWUxPVVBrSHY0SEJDZXNlMmRCMjFXVkRMNmdrUElBS0lIVlRCQ1FoQWpNNWRHai1hTjRNSzhaWFQ5aGR1R0tNbEVobnFnR2hnY091dHNQS3l0ZUprV1ZyanNpZ2hZVnRKZXdqaWdiS0Fmd2RmNG9KSDlPWDZaYkpGUkFETEpUTFhVMENKVFNnWEJoSmpMSTZkT2tvWXR2R0Y4V2lZWFRnWUpqZkhmTHZQZkJvRjFvb2NiMW9kbWxnbmlnUTlfM2twbXpOZmhOWmItOHp4dFRUdVlXWnh1ODZONFU5bTE5eW94R3BwSlZvMllTS3M5M2FELXhFb1ZNOTZwQU92S3dub1BXQV9KMkJwQ0VRSTRGbnUzek1PdGFVXzFrM1ljTlNFblpuTG03bnFJcmN5QmVIaWdhZlFzcXlqU2FQd0F1TnNaeDhtLXhnVjN1Z3RjOGllbDdabU41VWx5WHJWV2kyRnA0NmF1RXdLSkJLNUpmQnZFVEZiYm5ReHYweVF6cWszRzhyN1NHdkNyNXJSa3oyZVloaWRNZXk5UEJCT1VsN2Ixckl4ekRzTFQ2Q3NjZF8waUprb0NPQ2R6OTJOdHY1V1Jqb3dRdkVWVXlnY29xQ2o4N0xRZkExR0JvMlpYWkFGdTl1a3VHOHBEcGd2aXlS?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 19:55:04 GMT",
-        "discovered": "2026-09-20T21:18:35.860284+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ماريسكا يشدّد على صعوبة الفوز على سندرلاند الشرق الأوسط",
-        "player": "",
-        "content_hash": "4f070773d703763dbdbaac35371b93a0c58cfa3386132548df9cbc093c575ed9",
         "sent": 0,
         "section": "sports"
       }
