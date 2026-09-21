@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T11:42:15.953478+00:00",
+  "updated": "2026-09-21T11:52:50.828564+00:00",
   "total": 120,
   "sections": {
     "morocco": [
@@ -437,6 +437,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3750,
+        "title": "متى تبدأ وتنتهي بطولة خليجي 27 في السعودية؟ - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQNmVYNjNic0piR19CVkdFY0ZhWHhsQ19ZdFRaVWpnRmlPcnIwMGx5cm5kbFd6dHh6Q1I3TWZWTzJzei1wWVNsMkoxaWxmaDFUekl4UFJXZzZiTVNVa0JUenBTNXJvUjVKU0JoQlRzVzM3cF9QWkRZTjUyMGNhXzFMenluM1REeHVBUGVUWnI0UjVZdGczc280S3RJSk5aS1NjemNFNzB3aGlyUjRueWprWlNHU0ZhS3FjUzJRNV9uOENxZXNIdkw2OUo5SjJvNVJHbXdpZDc0Z3Z3X2ZVMHU1d0tVMlhmWXFIRWhFTDc2ellGdElRM0NzT09ZMHg0ck1ja3NiSVFyckxxTHR6NXRUYnk5a3c2MTZxWjZ3R0NzYnBNNHc2a1dxbA?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 11:46:30 GMT",
+        "discovered": "2026-09-21T11:52:35.668120+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "متى تبدأ وتنتهي بطولة خليجي 27 في السعودية؟",
+        "player": "",
+        "content_hash": "90b0df9e96bf4ebbf94f22cd7f546989e818c1e89badacdf71e82e034c21d957",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3746,
         "title": "إنريكي: نتواصل مع منتخب المغرب بشأن مشاركة حكيمي - FilGoal",
@@ -1218,22 +1234,6 @@
         "summary": "«إي إيه سبورتس إف سي 27»: الإصدار الأضخم في السلسلة يرفع معايير كرة القدم الإلكترونية الشرق الأوسط",
         "player": "",
         "content_hash": "54c166c25d4682aa4630ac1fbc3ad2a54653f6f12b2d9714c6fe09481ccdea23",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3567,
-        "title": "بينهم حسام عبد المجيد.. 16 لاعبًا يشاركون في مران منتخب مصر استعدادًا لمواجهة أنجولا (صور) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiowVBVV95cUxQQXdjeFhqVmVfY1JWa3NnS1kwTHhsODk0R19xNXJkVzlZbEp1LS1VaFk1RlQ1NE0xaGhrWWFWcE8wejB0a29qVWQ3d0FURHlaZThIMmtKOUlFZTNIUTV4V2k0bm9OVmdsa29fYWdaZTZXSE5oOEFlVkI0UFhmTDRteVNLNXpPMjk1ZTZmQ1BsYkhXYkxuU1dkaDBmZi1aQjYwTTMxcWxGUGlsR0ZuQm1TMG5ydzNTMVpMdmU3Y2xtVGVPcE5za05lRjNnNlNNMFhrNWxKSGc1aVU2VFBLREI0azRDMVJoTUtpbVh6TXJyQmpsM1RkZzN1b3JJRXY4TFhuRzh4T2M4V3FmOGJiemhGbWpfd0RSWDZteUFJT1duTFVTN2VPMk1vQkFiS1QxTDdrWHJtREVNYXJrZnFjLW9fNUhPckJud2xiUWg4S3g5Wjd6MEtJUnFZTUF1TWlKeEdJR1RGeU9uTkV5MjJ0Sml3aE85cjE5RHNQaVVISV9lcVNTeFR5WGdZdGFfVkVydXktTy1JbmlHeGJXcGVJdTduUkNzM3FxS3BfNHZHYXpON01vUDRMMnNCdVVSODUyUU5GTEZjZTVRYTczZDdXRndoUFF3Z3pVeF9kSGxBblA4bGVqSFFwelktWVZLS2V1RmdCdEpJM2pUYm5xblJtNWM1ZEgwT2hpX2hzUUk4bEtGb0hLYTVJSmEwc1NuemotcklMUmZCekZvM0VneU1UNlYweUpGTERCUjZqUFM1aGVCZ1RzbjUwd2ctVUZrUjdPUHllOHBWVDRpS2RZdm5hNnk0Nk1LaUVXbmsxeEVLenpzbWhralVZVFBDWUU0aTl3cHRoSGpFUmpvTE5WVmR3clBhUHJkZ1VuR0hRYVo2YXFSbWxaZGfSAagFQVVfeXFMUF9EWWphcXZtV3hUQ2g4ZjRzZ0d0MGRSREpnajg2WXczdEp3VzZTa1JvTDNYVnFRVGdQTlZ5NS1UYTZSclUtalRORGtSWmlQN2hLVktQTDNVYXRfYkFkQ3VyZk5Nc3FtdHd0YmN6LW5VdEZWajJKa1B0dE4wcmNPUHdZci1yRnBXam9rSW9UWUQzUVZHU0FIZjNyRm91VVdLQ28tdENDalR2clIzX2F4N3Q3bjhkRlVndzVHa3lScFRVQ0E4U0NqT3plaF9MOE5DR2pHN2NKTjBKVXUwU1N3NFoyZjEtb2hOTEEzbm83QkFXbGxkSm9wR2VTTXh5c2t1SEVJYzFXVjJxU3lrTDFPV0NKQjNWQWMzaUhUTnJzXzZNdldSc3pSajhqelFpZFhmd2xjM29tUXJ1dU1paVhnMTRtcDM5dHp6UXNPM0xqSHctRmRNRl93TzFNc2d0MG5MQUtVdmZGLVJXUE5ZU1BHVEpUZFE3blhuSW05R3BzemtCdmVUc043cllkQThjRVBMWlIzS2RCVnBDdHUyWTJHXzRrbUVLemFJVXV6a0psQTB6b3ZlLVMtM0hrc0hGMWNUM1FldmNYeTNJUmZUYmk0dHJfTkZMQjE4NUg4WmE5bjY1UkRLaHcxcDBlVmhPVm9TOUgxVWJKelJDZFk3cUFhZTM1eWsxR215SjFVOVg2UWpmTjdZUDBBSFF5NFA2OFhvZTdrVlBxVVFlbWlWMS1tZkN0TGpGQmh4ZnJ2amZZdVVkT05rZ01IUTZORHBhaVJ2dEpBTFQxR2JsQjlWa0xWak5BRmJ4al9BblprZjhtZzN1R2ZCUDNacU8wbWdYZW9aWV9DNUpXYmlLZXZlNFhSX3JpWTU5NzJ4bTkxN2EzcWYwWTdma2VIOWc?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 22:21:00 GMT",
-        "discovered": "2026-09-20T22:28:21.437536+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بينهم حسام عبد المجيد.. 16 لاعبًا يشاركون في مران منتخب مصر استعدادًا لمواجهة أنجولا (صور) يلاكورة",
-        "player": "",
-        "content_hash": "193c69851d3791c3ab7fecd0ebad6f9af7db035411911496323538c69148f14e",
         "sent": 0,
         "section": "sports"
       }
