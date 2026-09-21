@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T07:23:21.474176+00:00",
+  "updated": "2026-09-21T07:38:43.141063+00:00",
   "total": 120,
   "sections": {
     "morocco": [
@@ -421,6 +421,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3673,
+        "title": "الإصابة تحرم مالين من منتخب هولندا بعد تألقه مع روما - filgoal.com",
+        "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPckpNdkZ0dmswaU1GRzA5TnQtU1hKQVdKQWdfU3lYVHlaaGJRZEFKUGlldVpFOTlKdThjT2VZWVdPMTI5Vll6dWtkSUNQU1Z6QnplcVZ0c3k1OVRiUlhLNjJnWG5QcVp6bUJBeVFxMGZ2SVA5Y1FOSkd2MnlsUDBaYTVaZnRaTXhURmo5dmVZTEYtVmFMaFp0VjRzYmZIcUdZc1BDVktnQkJBZW45T0JCRWo2dFJfVmFrUHE1V0ZZU3NySmgxbndPeVRMdkZMUVF2Z2ZzdWVOUmRaaUU1Vy1VRU1Bdk9Hc3ZzUmYyZ1MzMTZUZTUxVmdySHdHamFfMWtKem9iMlVxUnRhVldiV3Rxd0hXQXIwanhaZC0ydjRjUy1ZekxBV0pZQ1J3WkotTUNtXzIwdS0zcHZ5Y1FvQmxRN0JWOXlmeEtfQUNGTUZwZDNHQ2RJeGVIbWljdGZnaWoxb2JweUhpQ0VISERxV25KOGd4UnhQdmVESTRpQk1VVUhyMGpIaHdZMGthM3d4dXN4amY5SkNMYmlBTUx4S0JuYjFHLVNpandvOE96Z0hIcVJERjhpWWfSAbsDQVVfeXFMUG9WbloxQXFYckdyNEM0Tno2RUF2VG5hOWZkTnhJb1Q4SXBrTHo4MHlIUjl0T1BmMVZHV1hYcVNRUGUwdG1MNE5jOUg3Y3FLaUhQcE94c0FEZlIwWnljS295eDRvZUE0dkRnLUk2dlpkTkVPM2NscnZiZ044VHhZVTRPb084VFppT0RsNlZMTUdkbWg0Rk85d1dLQy03OEpZSUF5b0tOajEwbHc4aDZpVFFvVnBJNmdGanVMUnpPejA4eTg4ZC1VbFY0eTNKb3Y3bm1hb3hmN2pnU2NFQUN0dEc5Sm1uZEtZVXBIaFNsdk1ma2R1TFBLdWNIUEVGWW5fbHI3ZXVLS1g3MDE2MUFRQVBsQ2pKbFBtdW9pWGxUU01SWXREVUFNMTRYRnk1SUZmdHl1Z1BNekRUUVA5T3FSRk9LUHJrcVU5REpCbzB1cEhRenhnNnFMMEU1UjJuVWxCcnFfRmZIX0RFNW03bGpqOXh0LW1vMkhQc3dGYk1jVUd6d1FkUzVUNndsTUktNG0yUlJUX3JrQ1VzOVNSVE9fcDRXeHllZGo3ZklpdW1fSGZ3bWdaZEVJUHVwMU0?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 07:22:00 GMT",
+        "discovered": "2026-09-21T07:38:28.422133+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الإصابة تحرم مالين من منتخب هولندا بعد تألقه مع روما filgoal.com",
+        "player": "",
+        "content_hash": "f16c43618ae33db6f75e8d575df18941ef19757cc56864aebe29d0597ef90448",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3672,
         "title": "مباريات اليوم.. مصر والجزائر في بطولة أفريقيا للكرة الطائرة - يلاكورة",
@@ -1202,22 +1218,6 @@
         "summary": "40 ألف مشجع في مباراة مصر ضد أنجولا.. وأسعار التذاكر FilGoal",
         "player": "",
         "content_hash": "7854c3397227c7c72873ff42f4813961e51dcf9c543bf67378fb1aa750ac951b",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3459,
-        "title": "بعد تريزيجيه وياسر إبراهيم.. إصابة جديدة تضرب منتخب مصر - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxONVotWFlyOEJUem91VEx5QzZOUTZzdUJxU3hydnh6eVBCWWVUcm1JZEVrSHlIeGRYQk1WZXZjSXdZYnR1azRMTW1VSXc1Ymh4Y3loNDZxeXFLUEhYQndHNElmX25iRDdzWWNwLWJJWmYyaDRMbFVSd3ZPWXV1VlQzclpkc0lQdWxMZXNRVW1xNFAwWUJUS1pvZDZpUHd6cXY3MkhEWE13RVdPX1VVNlF3VzVYNG9ZRU8xYWRUNEdsMnp5NkpEdUQ3M1hwN3RkUC1nb3E4a3N4MkNWazVUTl9GRjlLZDdYMHZOQUx0cUxZYWxUSmEwRmNJWHltV0JZakIwMDhRakpKc1UxQmd2TG90VEJKQW53SHVrN0VFSlNQaG1TM1RXZGc0UEg5VFo0YXJraXZhMWFoam5ocTZ5QzNaaklGSTlSaDRXV2dGNnlHWnJfbFRRS1NUR1Y2dkM4bDQ0eDNpM25QdEplUHZROU9HRjhzbWlPSmR1SWx0RHBqdnMyRG9DVEQweTVCem45Tjhoc0Q1QmxGWEt1ZDRyQjY1TmJxTTZWV01fWEdfR0xMZXRWanIyWURWdXpMVkFTaGdPaXJ5RlpLRllOUFdPNWFiNzBfUW5haUhzZXFXOFdJdloyNmZXakRZNmtEVmVaUjN6dVNqRER3UldpR2tUOG9PaHF4LVZxN3lfLUFuRjI0UlRDLUQzYTd5VUNMVTQ4elRHd0Z0WEtfcjJ5dnF0RVo5c3pSdWR3QQ?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 20:25:44 GMT",
-        "discovered": "2026-09-20T20:44:22.053273+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بعد تريزيجيه وياسر إبراهيم.. إصابة جديدة تضرب منتخب مصر Kooora",
-        "player": "",
-        "content_hash": "258a3c4564e892bf7cc53df5488961640a2a016e45bbca2597cd374caf816e79",
         "sent": 0,
         "section": "sports"
       }
