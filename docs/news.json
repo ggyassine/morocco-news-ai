@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-21T09:55:30.881449+00:00",
-  "total": 124,
+  "updated": "2026-09-21T10:08:23.681875+00:00",
+  "total": 125,
   "sections": {
     "morocco": [
+      {
+        "id": 3716,
+        "title": "وزير الخزانة الأميركي يقول إنه أجرى مباحثات \"ناجحة جدا\" مع الصين بشأن التجارة والذكاء الاصطناعي - SNRT News",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yRm13dk9ybHQ0YUQ1V214RU1hRnpvbkQxTjlCNy1vTFhFbzA4RzZmRHRodzJxendqNnYtNnY2WE9vcjBmNmFSTFE5bw?oc=5",
+        "source": "SNRTnews عربي",
+        "trust": "A",
+        "published": "Mon, 21 Sep 2026 09:54:48 GMT",
+        "discovered": "2026-09-21T10:07:56.349417+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "وزير الخزانة الأميركي يقول إنه أجرى مباحثات \"ناجحة جدا\" مع الصين بشأن التجارة والذكاء الاصطناعي SNRT News",
+        "player": "",
+        "content_hash": "ae1ba98cb191179fe22b90b8b2071d7ae942d3d6e026882659d5e05fd5eb634c",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 3709,
         "title": "انتخابات المغرب.. وعود الأحزاب أمام اختبار ثقة الناخبين - dw.com",
@@ -437,6 +453,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3719,
+        "title": "ترتيب هدافي الدوري الإنجليزي بعد الجولة الخامسة.. هالاند يحافظ على الصدارة - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxNNnA0WEdjT0s5U2pjYjNnZUZlbTVjYkdoX1VnR3pyY2hJS081aVBzTTlLLWFvOFpZWXFxTXdiWTFIYmhDNVlDWDlPd0FOb1hEVVlpZmpHYUMxZDJjdWJNX2ROOWlhd05iMzZyQUo4TEdHNml1X2hSOE15N250VkhpdG1aQ09tLUowZUI0U1hSQTV5NEVqQktXc283Q0l1b0JOSTR4Mlk0djhYRHBVOGszMzJRWmh2VVctQXZ3TzR0M2dpaGRXU1BJWWJ3aUFqNjhNekVuV0dodFVKZGRvbWgwcHBxcjZueHRmNHkwZ0kxVTRtZDJoRWlUS2M2ejJvVE5oa2dOaFNzc0d5c0dsQzRIdzRkWDZuamZubE9SV0thY2Z0cDBZNUl3VjJPamdHYXBJQVBXOF9zR2g5YVZwQ2FPTG1mRDJ4Y0FVVTNYbUxTaGxsMG5qNzR1NFFMMzNNdllVWVhPS0RuVDh1el9INlJwalQyTUp1a3hZSEN5WTNEa0RRU3doTXR2NTJUYWxIal9SZk9XZlp6Tk1LNVVocEtwOThlS0RidXBWY2pyb3FTdGRTZWYxd2RwX1otSTJoMlhYMVAyamhsYUVjenpuYkdNRTRDRVVVNG5BRmFEcGVMMU5aLTMxT0FVR1dXMlJnYV9wRXgtRGRDYXUtR1JkaWxYUTg3S2RBVUJDNFdZZUo5dFdGb0o1VHVfOE01TUxKT1RVdmlvUWpTODJlMGt6WnlSWldfU2E4aXhQdDdLcVBDamFfMkdvaFdUcUZRekVDNTk5cmI2ekJ0aEjSAd4EQVVfeXFMUHZIN1dSUEdlZ0F0ZU5rVXl0M2V6bmZ1ekFnUTJ6M0ROVXB3TjE1V1ppSDVCVF9UWDVGcG5NRkRMX3hZVmFTaTlabDdwcTZBbmpETm1wYmFmY0xSeWR6OUh4N2NvY0ZCNG5hVHBxMF9CQkdfcURwVkZMVzZpazZfb3B1S2t0QnpwN0tlYkM1RkNORC03NXNtb1hxRTVHTmNoSGhKcXZxeVFRdzBLNEpBSmhBTWJBZElRZ2x4MGVCRW9lMWhveVNWSzhZdHkzZjlxR3c3YzY5aGRFM2FhdGxMaGdOOExpM1Zvbk1KNXE4aEk3clc1b1Vxam42bHVUM0tONlY5Q0Q5X2RlUmp2c1hPRmYyTmRVSV9tcENjQ3BjNjJmUmR5ODNiMVQtUWNzZnJqaS1KZkFCRFVmd25rSjBvWGJ1T0lWOHdLZURnRXhubDR2TFZZOUNYWDVDXzRDSFQzMTZLdWF5X2JMUUk5ejlkaWFIS2lIeVRVb2JMdFNGOE1NWDFtb050TDVlS2lvYTI1aUNPNUNpTGhuYloyVDMyWWZtUVJtWEU5SWlYQi1CSnVxSkZqWDVsM09KZFdOWVlVak9mTV9HRkdyTTdHMm9TcFR3NlJtREJRbDZ4U0REajRKRS1ZU181b0xaOWNMcFdYREZvWnNjV2lOekpoRzdUZ1pMOG1GSFJXTEVUWXdpazg0QmNsRVU3OHFNT04wLVNvQVlUcGhXSWZFV3FnZU5YV2ZCN2lTTk1nODJzck9oekFHUkxfQmVuWHYwUWVNcjVYclhGb2lJRXEyWVdKYV9B?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 09:52:00 GMT",
+        "discovered": "2026-09-21T10:08:08.338187+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ترتيب هدافي الدوري الإنجليزي بعد الجولة الخامسة.. هالاند يحافظ على الصدارة يلاكورة",
+        "player": "",
+        "content_hash": "c065c7bd824070891e248ddf67a6c0ef0cb869d4510671c795f46905666cd662",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3712,
         "title": "أنشيلوتي يستدعي لاعبا جديدا قبل مواجهتي أستراليا والهند - Kooora",
@@ -1220,25 +1252,25 @@
         "content_hash": "4614ea26ec3d4307a8d1c7f66c79c8a544b79da42f5a420f1f74f865c718267d",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3547,
-        "title": "سيميوني: برشلونة يمارس رياضة أخرى عن التي نلعبها نحن - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50N3FsUWQ5WVJobUFQQ0N1NFNaRlNkdDlHRVNCYUtzbG9lZXdMR0tUQjF4R09CWnNVMFJhTUZ1R3pFN1lYU2tEVjVJNW42cFdO0gG6A0FVX3lxTE12OTc4bDZ1NWpEZzRVdV9DR3JoTmdFNURFcGJGUk1sa05TU1dOQVJtQjhiUzQ1M2d5enN4NkZvYXNCeDFtVXhuSVRVY3VjTngxWUpxSm1aTFQ3eTdyV28tWnZBRWhqTGY4VnNJRUVKX2drbzBxU1gxUVhxTkJzbUdweEZILTNROUF1MEttZGhONldmbjVUMUNxWDhKMVRCMHFwSDNfRS1nclA0cGx1SzMtaDQ0Si04TmtoakpPN0VKOFF4eTFsMzN5VzRhTm5yYU02ZENmcC1XQWd2cGZ2UDJSal8tY2llUTllM0ZjbWRGLU5URGJOQVdCeV9mSVNjTDFnYXJIV09oWjNDalVQSUF0Z1JBYnM2Q3d3bTMxa2tZeXFIUXNNanlkRDJ3RGQ3dERXb1dsc09hM0FLWC1ZTTMweXN0ZTkwdzUtMjRmZkl4RHpPeFl0dkRRZDVNZzgzcUV6N3dUREJPQnZfTTB1aFVpNEJpZ0J4cE9SenZiV2l4TUdDWktld251MFhwM2xRZHYzbjFoNjZqSWU3b2x4RHRPMFhJeHlFd3dQMm1WZFN6VnBSQ21iZFRMX3c?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 21:36:00 GMT",
-        "discovered": "2026-09-20T22:00:06.375941+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "سيميوني: برشلونة يمارس رياضة أخرى عن التي نلعبها نحن FilGoal",
-        "player": "رياض",
-        "content_hash": "0813118fad1485702c2a86c47da7532ac5aef5eee3c13f8015d41a65eee5e95e",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 3720,
+        "title": "أخبار | هاتريك والأعلى تقييما.. ماذا قدم المحترفون التسعة قبل الانضمام لمنتخب مصر - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMixwRBVV95cUxPOHlWbDEyQkxoNDVtN2lUN3hoUnQ1cmpycDhuVlkxQzFDSXl6Skdyb1RmSmZZbENWWXktcHBMVi1MSWFZbXMxdWMzbTJmS0FuUTJrU3k4RTRPOEhwZVlZSGRvX1NOMUxFblp5b2xTaDV2VzVHTjNTSWxHWllBU1RXWGtoaEMta0hQMDJNeTVNeXNJYVRDTkN6ZG5fQlZCX2N5QVlHdjlnY2oxaVdVZ2VFRkQxOGl2cVA4dmUxazNVeVhELTd5eXZ3OC1WTktGTlNTVG43OWZHdW4xaDdxZUF5QjVhZFBXRnp2QWtXa0xfN0ZlbE42Y2NGUWlrYVVud0syaE9qalZPbjFjc0VBcy1FQTRYQVdRN1IyQ2NvMkFnanBKc0tzeXlPMkswcW0tcy00enpZdU00M3gwZWtFVkhVajFxeHJ4dGlZNFQweTZWMFduUjk1X19zVHRMdjdDUFl5anpKX0t0QWdkRFlveDlxZ2FJSnpUdWtlRXhXcm15RTNqMmZYZU1sTm9ELUxWM1VPTWFncS1uV3VDSTgwZjNrS2hIUVRRaURZakFrMW5URzlxTmRzWHRoUWNXZW9SNm9NbFdRQURyeXhtOWszNXFvdnBrUGZSVWJyNkZHSnVrU20zNk5wMTRVT1FNNDg0Yml2T0N0bGFVYVdfcnBaVGhqcERNU29aZDBlemIwd0dBZUUxZnhEdllCTTJUX214V2t1WXpCVGc2emYzR1YwajRFcTc4NFpldklwV1pXcndwT3puc2FkZWZR?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 09:46:00 GMT",
+        "discovered": "2026-09-21T10:08:08.996749+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار | هاتريك والأعلى تقييما.. ماذا قدم المحترفون التسعة قبل الانضمام لمنتخب مصر FilGoal",
+        "player": "",
+        "content_hash": "8901972279291f545b8447c8e643729c1182b53e40ff55cf0098f56b8618bb23",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 3713,
         "title": "هاتريك والأعلى تقييما.. ماذا قدم المحترفون التسعة قبل الانضمام لمنتخب مصر - FilGoal",
@@ -1960,22 +1992,6 @@
         "summary": "\"الوزير المجرم\" يعتمد تعذيب الأسرى الفلسطينيين \"صورة خلفية\" لحملته الانتخابية القدس العربي",
         "player": "",
         "content_hash": "01a4a078d2718b50b9a829580f3eb0e1d9629d1b0b9c454e52cd037dc8c358e3",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 3216,
-        "title": "واشنطن بوست: خنق الحوثيين للنفط السعودي كشف للرياض عن حدود \"الصداقة\" مع ترامب - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNMEpiSjdiczltTEIxemRxWVpkWTJJVG1NUkJXRUZia0N2ekVOcE11SUtWSTNUeG5fQkgxMTRfdFJfWW5zZ2JHT0VWdlhOa0p6V0k0eW9lWDl4ZUtQOTNRNXZ1c3ZHZUV0RVE2emtTckRjZ3cxSzdCeGQyU3p2dHNMLWhnQkRDaFJTVG5fU2R0R3UxRnUyZzhLZDdKRUhEVVhUWWJuMnBVSFdnWE40eDhDblJMejlURmdnX3lRVzZzZnRfX2FmMW4ybjRsRGhDRl9XZXRtemRSQkhPUVREZmRJX1dXWGwyc21HTUlhUlpTWkw0dHRuQXRfTnIwOVh4Nk5mTU9FOXdWUWVOd1Y2SzZIcXBLMmhsNFBDT0dBS2NNNzlyQlFUUHFCeHRlcEwxUk1hUC1IM3l3Q1FDeUl4MmQtNUlTYlExZw?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 08:44:28 GMT",
-        "discovered": "2026-09-20T10:18:09.002253+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "واشنطن بوست: خنق الحوثيين للنفط السعودي كشف للرياض عن حدود \"الصداقة\" مع ترامب القدس العربي",
-        "player": "رياض",
-        "content_hash": "7ec306ade03691232abfe8173707bd15aca79f08e79642c6d217678590e910dd",
         "sent": 0,
         "section": "world_arabic"
       },
