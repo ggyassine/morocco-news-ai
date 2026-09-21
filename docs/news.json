@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-21T20:52:21.531519+00:00",
-  "total": 132,
+  "updated": "2026-09-21T21:01:37.811943+00:00",
+  "total": 133,
   "sections": {
     "morocco": [
+      {
+        "id": 3927,
+        "title": "الساعات الاخيرة د الحملة الانتخابية.. بنك المغرب لغا لقاء صحفي دايرو الوالي الجواهري - كود",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNWnFVcGVFS3JQOUhBVV92RlFPVEd0bEpMbTVlNjJEZHV1VlZ4VXNkWmh1clZzY2JZblExT19DbHJuaWZ0U2tEYlR3dG56elh6ZTFJZDhKUlhFUVdjUHlLRkkwaEtONmdhclFnVFFmX21pVjVUUzNYVnJkSFBrcWQwNHR0ckprUEVTMEhhVDdUb09KZnNqdVMtcWhYUVFpTzREelBKNWYyVkd2c1NSano3cHdZSjdlQkFPQ0NXeXd6ZnF3cW5COFFYQUJlWDNhVjZldUkyU204OFJ5T2FjUGljNU1QX1RuOHNOZGZzV3JESlA4NkFGS3ZYSXhwVTRDWEZEa0JOMXBHTGZLSTNuMVhLZ0ZTSHhHU3BpekpneWhoS21RVDVwR2NGOU5NbTc1LUlleDFLQ0F5ZzNqdE9ZTF9lMWhUS05DMk84NGc?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 20:41:50 GMT",
+        "discovered": "2026-09-21T21:01:10.879405+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الساعات الاخيرة د الحملة الانتخابية.. بنك المغرب لغا لقاء صحفي دايرو الوالي الجواهري كود",
+        "player": "",
+        "content_hash": "13d30e355a206cb0021b5af2a87751d7f633cadf69565cec250feb892206f709",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 3919,
         "title": "ساعتين للوصول من الرباط إلى الدار البيضاء عبر البراق !! - febrayer.com",
@@ -437,6 +453,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3928,
+        "title": "بعد فاندرليم… 10 مدربين حاولوا إعادة الأخضر إلى منصة الخليج - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxQSkVrMkZ2VXQ2Z19JV1poODltT3JGMTBESDVmQUdUOEJFNlJHTHVyXzZKVXNIRG9LS1hhZHlPM1dTanlLeFcyWC1xel9EWGcyNU1XdTZKckd3TU1EQVVORDRvRmJKTEdkbXdLaUpGSG5YbmN0OUhCbk9FR2ctUmVxUnVJZWZ2SWdscVp6OEY5WHNwdEJjcmJnZWlqQTdDYjVoZjlTczVNM1piTVJCbEc3OGFyTHhNanBpbzBnMmtFZUNuSWtydDNyV2poTEkzMXVMdlBDd1FRNHlNcVhjNXVFb210TEdKeU8wa1NBQXFZNHdxVXR6TktYamEyWXl5TGc0ekZBZEtYQ2NQSDlFYjN4WHZMUFlfNS11cEs1MXdUOWR0LUtTOVJQUmc1djJ6and4UVd3aWdyckRZNVVTcmdlNUVfTlJvdmdDMTN6eHgxOWxIdlJ5eXp1di1LRHZDcmk5T1hLc3gzYmdMcG55RW02dThrMEdnai1BTXNXSEhHdGNwR0dfbWhqaXpKb1VfckNuWmp2SXRpZGRxZWNoQ0JpVVhoYUN3a28taGpndDdBVWlDd0o1Mk9VeHl3LXpyM25TdUxIVXA2WmthUDRQRnlKd3VaM0VfU0pmekFyNUhnSW0tYklfM3JPYUNRMzFtNnVCUm5YbXBzN3EyQnRudm56azc0Z2N2YjdjNWZ3S2VfSDU5U21pYlpwRGxhTDVBRnFvUEhkQ2NqcXhDUk9JRno5TmVFNm44eVdfQTlBRXFqRm1QRmptdVlLWmxVcDFyN0M2NTVYcjctWUNkcGtVNng1X3k3TDZwNTA?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 20:59:33 GMT",
+        "discovered": "2026-09-21T21:01:18.173693+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بعد فاندرليم… 10 مدربين حاولوا إعادة الأخضر إلى منصة الخليج الشرق الأوسط",
+        "player": "",
+        "content_hash": "211b60da7f9d8b6d3783c4834dc1084bfa103caf69c213402f4a7d9b5ec96366",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3925,
         "title": "«فورمولا 1»: تقليص مدة السباقات اعتباراً من الموسم المقبل - الشرق الأوسط",
@@ -1218,22 +1250,6 @@
         "summary": "رشيد غنيمي: حمل قميص الوداد شرف كبير وهدفنا المنافسة على الألقاب Febrayer",
         "player": "",
         "content_hash": "8e4a0208977cfc3980c686f518420d394d6742142ac83d89551f8d8dd2481aa0",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3805,
-        "title": "يلا كورة يكشف كواليس ما حدث مع بيزيرا ومنعه من الوداع.. وموقف الزمالك من اختيارات منتخب مصر (لايف) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi6wVBVV95cUxNdnlNaWVzcndrNnNoWk9YNEtVY2JyRC10TXAyZ25HNXlKNWVXQWtTRmg2eFNReTZJdnZPV1htTXZBUXV4SmY1T2hYdHFtNkszdGlnYlNrQmZpRkR3Tm1pcHNNM1V5UURyUlQ5X0UwaFZ0T0lWQXZlNGpuaW1ZbVJORTdDTG9vdVNPOVRCQXp6bTM1dFU0SkRUa3FNMnZPZFhWajJXMzF6R0diTENXWmt6czBHY29zdWR2eHdncExhUnAwdjRDd290Q3plSnlobkE4V2xoVHV5bXdqLVJCa0tEY0NCNXRsUkZzR1VadjVydHFXZEhxaG5TeWlzTzFkbUxHaTBnV0xyOXZXSUl3NXJzcGxGTDBTMF80dVBlQVZqZXNFVmhWWVFiNE9Ma0JtR21SaWNBdi11b0twOVlzbVNWRTZQS2lPYlptTVRRQXFUeHBzOWN6UFRvMC0xUmllWVhkdFRBdVpHSU9adks5bUVBWkE1ZWdMc25jNEtVNXlkMjdyUG9wZ3FmM0NlckVKcTFCYVBFeDFUZ0pQSVo1VVZLQml1bndMOFVHQkIwOHV0aFpyUFQ4ZEJONFBQZDJJUF9NaG9telQ2SC1Id0FyUkhGXzBDRzYtLVVJYXRwM1h5M0VJWHh5STN6eW5HbEE1UjVEN0gxVkJEZGliZW0yN210dkFQR3BDZXVLUGEtb3VWWUp0VWt2aFRaMGRfRnRoZzBLb0s0M0dEMWhVS3kwZnIxOHRiY3JQRWJobWVuRUpFejYtbFNCNHJxNzVLc1ZXVXNVWnAyb0NsdzlhcFVjYXRoU1h0SFViSUFmQ3kxUTFaVU8wemtCMzUzZUhtS0k4QUVuTTl1OFZIRzF1TXI3RllsX0NnZ25yMk1TNHo5d1hVZkNpU283bXRqYS1BVHFaOVEwdEtuZFRUUmhUaW5heU9QWXpYMUNDVFV0SkJuWGJaZ2V5M3V6SDY5WjFkcVpSSm9LRkNEaDVQTUtfQU3SAfAFQVVfeXFMTjlGUDA5eXJ4MmZrOUMwaU1Fc3VaWWFFeEhONUNOZEN4eDIwLW1xTlVxQkFfQlljQUszSXZTTmdVQkV4aUR5QXNFRG9vTjh5QjVtd0hHTktWRzlpRHpna1FURjZwYmhIemdNNWJOMGVWZXdzMjNnNXo1X1ZjZEdoSHEzUFRxTGwzU1JzWHhaVzRTdkF4a01pTGl3b28zSF9RUUZwLUpSanl2dHJHYkJHeFRWb0FVR1lrNzNvVjI5RUlsQXJleUdkUUg2aXFzLTdlelpkcWtuaWRwelRVT2VMXzdwcTBhZ2daS1c0ampUUnZnLTAwX3NRNkNySW9uclNmdFZaejVDd3ZHSHZQV2RDQXFRWjR4R3A2VlkySWNFRi1SV1A4NmVueVFHTzBNTVpNUmtXM3FMNjNjZmtJaVd2akhCekd2YzJ2M3VkRTBXLWhUZTE1RUdoZTZ3eGxfMjAyY0VLeG03V09OcEFQdkVMdlcxYVZEbXE3UE1Bcno1TWRYLUJUWTdycGt0dnFkb2xXRkk2S1J2VVh6TlZfOFRNNkE2SkhGWDBGODFBQXMyZWgyZzV3WHNhNkhjV3ZuU3d4emh3QlBzbzA2SThoRVpQT1czZ2tpRTNEMXZUM0lDeFBQLXQzak1mWkJxdUExM3M1eExEUlRVaG9lUGQ0ZHRBaWo0VU1WTDZsQUhuU3prZHBRb2pKelZnUEQ0NUZuNnBudC1PN2dMUHJxZFVlYTVtc1FLaTdzUktIT245OGJZNzF2RllQSHBfdmNDNGY3T0ZJa3ZwV29tczZZSE9DQmE0c3h6UDZCWGp4aUVWV3c4d0Y0RDlYRkdUTWJJR1JQM3pBTF8xUEdyVVl0REQ4RFFKZHpBWmpQaG9TNXF4VzFsZzFLV1I1N3lyRzNOdEdKT2E4OWVwMFRJQnUzZmgtaFJ1emFNRGlqcl9US2JPQjJhVmM4TGZLQU1iS3RkYmh2WTNzTVE0UlVYMGxCY280aEdCOU4?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 14:20:00 GMT",
-        "discovered": "2026-09-21T14:42:49.901696+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "يلا كورة يكشف كواليس ما حدث مع بيزيرا ومنعه من الوداع.. وموقف الزمالك من اختيارات منتخب مصر (لايف) يلاكورة",
-        "player": "",
-        "content_hash": "3cb1142eec545258fe98760910b2e134b38a7c593931865ccc45c521ca89596d",
         "sent": 0,
         "section": "sports"
       }
