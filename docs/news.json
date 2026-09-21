@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T07:06:05.237135+00:00",
+  "updated": "2026-09-21T07:23:21.474176+00:00",
   "total": 120,
   "sections": {
     "morocco": [
@@ -421,6 +421,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3672,
+        "title": "مباريات اليوم.. مصر والجزائر في بطولة أفريقيا للكرة الطائرة - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxOWm92OElMMWlOMVF1MExHSDR0TWpEc2JGVWIwdVJkeWg4S3BVOXdFRDBuNkNqM3h1aWpyZFRtQTZFTXgzakY3Y2ZGRWZmdFlLQ0pzZ21yRUNjS3p1dk5OcHctZ09YOXE3RDY5Sm0yMmlYSW1Sc3IxZW9DRmxSbXFIRWJJVjFBZXhwcFVkUVNCb25nQ1c0TGlFUGQxMGozVFZPdUNJamc4X0dxVnZWdHRkY2pZNDdGaHpTX2hHdThaMTY2bjZEN2tCbU5oS0hObVFmRDZuUUtGaUtWM1lxNFI0cWZVUUtab0lNZEhrb29Wa0Mxdzk4TkhyUDBxVW5rd3l3UXNlZ3RfQWh4MzdreTR2MlRRT3ZHNzVBbnhMdFEzcUMyY28yRjNIVmpBNC1xQzlnMlE2VWpldlZMbGVBSjM5dUdZZDN1dUlKdFhYelRSdXZQZGZ3dmhJcHA2ZkMzWk5QajBKc2E4SjRUc215SFVEVmJPTFQzM1NBMG5VZEpYTVVOcWlCSWpseUdoZTg1cG12dEVxRmpBc3d2UDVaYWtIdjhhQ2RrM0czN084QkotUFQ5d1Vaa1NRWlNiUnpyNThKbkR1V3B5YTA0emJWcklPSmRZamN6QXFGVW1KSWJFajFUTkVSVV9NY084SlN1TjNLeHZuVGV5QmlITlnSAYAEQVVfeXFMUEE4OEJLMjBjRkg4N1AwMXc4akVHbWtjQVdqckxuUkdTa0hMRUl4aWVkZVV6NVZqR2luNHI1RHZnYjdxZEZSWTNSMDVFY1Z3SnJwOVl0bkt1QTdlcmdpR2ZhT0dVVW5GNkpfRkxNanRqc0JsMWVaOTNfajc3dGRBeWRPSkRpS2Jld2JDSE44czZrWlNmZ1JtWjZURjZ1a2Juc0tzbUQxM0lfS3Z5QThlNk54ZEF1RTVVVnRpOVdjNlhXQUdvQS1haVlsR0RiTTJaempCakdPeTdhWmE1SjBpeVBGajA2SWNOOWhzNkdUMEEzRUhjRWx6RFdwWmpzemlWQzNZSGZYNnVpUjhlZGY5dHJWbDdOQjNlRlpmc09UY1RTaFQ2R0hlNVhkaVB6MGZhc2ZHcWowMXFfZUdjVzFKNkZKaXY3ZzlLdXV4Q3R5SU54NGZvNWhRWmlyQUtRNFdqNHQxZWVpSUpRRVNBY29fdk1kU2JOM29YbmhnLUs3bGtrYkdldE9NRnltYksyRVBvZElydVVFRXZIMk9XbW52RTF5eGd1aW4wWi1qMHd0cEhMVXlLeksxNmZJdDc1MkdUc2ZTcVZ3SnF1cWNFTzF5eF9PRy1FQzE5ZWJNU0JWd1JRMElIVThEYTdkX0xiWHBVVkcyTEZpSWV5Y3JmSEFoYWg?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 07:08:00 GMT",
+        "discovered": "2026-09-21T07:23:08.298698+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباريات اليوم.. مصر والجزائر في بطولة أفريقيا للكرة الطائرة يلاكورة",
+        "player": "",
+        "content_hash": "622ec756487198e4c1de4cd1b60f049a277e82522d2b33c1a49247fd6eadb3e1",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3668,
         "title": "أخبار | مواعيد مباريات الإثنين 21 سبتمبر 2026.. الدور التمهيدي الثالث من كأس مصر - filgoal.com",
@@ -1202,22 +1218,6 @@
         "summary": "بعد تريزيجيه وياسر إبراهيم.. إصابة جديدة تضرب منتخب مصر Kooora",
         "player": "",
         "content_hash": "258a3c4564e892bf7cc53df5488961640a2a016e45bbca2597cd374caf816e79",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3454,
-        "title": "أربيلوا ولينو يشعران بالحسرة من التعادل مع مان يونايتد - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxQMzAwSHBVYTYzcHpKS3dOM1JKdUFmbWhtdEhMYl9hWDdNX3dBSndPSUliMGpxS1FpdlVkb1pvRlQ3d0FYOTdmaHQ2aHNMQ25sWGkwSGlLVVpHa3VIRkVJcXB0TTFyODJFSTlQYmZRTmI4c1RTVmhDNGUwR25XU2NvTTRwdFJmVnRyTGE0TjdXeU9WdHQ3b2dDWkVrdjZXbW55V01TbUttS1p3MnAxcEt2ZnNBM1k0V3ZzTHJ3ZzJ3VklPbWl6Mng3M05sOWdlYTRyVXc1UVVPQXlrN0FlTnNpREFYTUpMSWlkdjZXaWgyY056VlEtMFEwUE9JQkhFQTZnVVJsQng4MGFkaEN5TjUzcG91OVJCNWQtZlF5OWRQVi1IbmpUaThOVi15S1RuQmQwY1J2THNuY2hHVUJxV0lGMmNJTGR3WmpuOFdjcGtJQ3pvbFctZVM3akUzVHl5bXhnbFhqOTIxa1VkT29DUnhKOW1EUEIyRXJWeVY1UGs3RklKQlFnLUIwTkl5S05tNDB4aW9mTmgyWGFCVEdUc1BqT0ZEcjlMOS0yMVNHLXNTTWtEZlJKdjQ4NFlxZ2Q1YTc5T0pudjhmVUpMbTdocV95VnMtVmprVGNpSmJudk1fRnpzV3ZfUEFlWl9qWENfVHZwU1VZWExyZFF6X3M4ajdJbF9fM2lqcDNpNmhzTnowSVgxOVhGaS1lSjFqcnRoSUhrTG5hNFlHb2pXWmhCN3JFRTRMdHhFaWJRd0ZSZWU5N3FBLU9wWmp2NVlYUG9yekU?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 20:14:04 GMT",
-        "discovered": "2026-09-20T20:22:42.638586+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أربيلوا ولينو يشعران بالحسرة من التعادل مع مان يونايتد الشرق الأوسط",
-        "player": "",
-        "content_hash": "d17db85347fcfd821974d8fe4c7bc1e37fddb54ec95cc7f21fcfa151369dd1d8",
         "sent": 0,
         "section": "sports"
       }
