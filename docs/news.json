@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T11:27:16.546454+00:00",
-  "total": 125,
+  "updated": "2026-09-21T11:42:15.953478+00:00",
+  "total": 120,
   "sections": {
     "morocco": [
       {
@@ -340,38 +340,6 @@
         "section": "morocco"
       },
       {
-        "id": 3248,
-        "title": "أمن مراكش يوقف شخصا لضلوعه في السياقة الاستعراضية الخطيرة - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEb0xVMmxmUG5sS1lVN2VoNE5RNW9YQTlWQ3pwcU5XbVExZFNYZlFGVkJmemdqb0gxN0VVLVkzSzVaUU8zZUlxb09DSl96VjEtZ1F1Vk9wQ3U0OUZWVmFIRUJ0YzUzZw?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Sun, 20 Sep 2026 11:30:35 GMT",
-        "discovered": "2026-09-20T11:49:27.417573+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "أمن مراكش يوقف شخصا لضلوعه في السياقة الاستعراضية الخطيرة Le 360 Arabe",
-        "player": "",
-        "content_hash": "5ce4fa7a38f41c34c67718f698454120927e4ab2e6f47a8608470c6a7f203b75",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 3240,
-        "title": "الساعة القانونية: المغرب يعود إلى توقيت غرينيتش رسمياً بعد إلغاء الساعة الإضافية - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83YkZGRGh0TFRMWVJYYXB6MTBYbU0zR040Q3RaRzhGa2ZLcFVQaU81NWRVaFhqdDVWMW5UVUxYM3l0azZwVDBHSHotektwcHRpTjJTTDJDdGdZZWhCalHSAWNBVV95cUxPSkloR3NmTkduM01wdTh0bHl2YWFYLVFESEN6RmdldkhaVUR2T1hmSjdUNEY2aFBXa3MyM0l0UUtZUDhzNVlzMG84VEVMX3hncUsteGRUQWZ1QTZweFBHc0hKdmM?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Sun, 20 Sep 2026 09:55:22 GMT",
-        "discovered": "2026-09-20T11:16:31.553282+00:00",
-        "category": "أخبار المغرب",
-        "status": "رسمي",
-        "summary": "الساعة القانونية: المغرب يعود إلى توقيت غرينيتش رسمياً بعد إلغاء الساعة الإضافية BBC",
-        "player": "",
-        "content_hash": "2634ab1a4452fe14266b41c16e2716b9c8a2bdb4f130175a523d0d171eee7f25",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 3394,
         "title": "من داخل غرف العمليات.. كيف تدير الأحزاب حملاتها الانتخابية في المغرب؟ - aljazeera.net",
         "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPMGoxa0FUMS15REhPVFFuVVJJQUJaaUxGaHV0Q1FkSWVRX29uNmpGdm11aVQzNUxGc25rSzJsRU9kVGZZUk9YV0p0QVlnR3ptNGxXS3pXc0VybTRhMWhlX0xHMW0tTFkwMHdQQnRuSlpydUZVVnlnaUNXUDN2LTVxWV93QTRfRHlvVXplTjlrUmo0dXNaVTdhcEREZ1B6d3NYV0NfOUNjNWlTVEw5M2lXQUtOOXI3UWgzYndPZlBBV0x1ZTBwcUFybWFOU2ZmcC1HbmlRT1hqaTBzLWdmczBRMkdrTEsxR0JyNjJHZFRHQ292bzdUY0VqeXdLYmFITzJLdTRVUkNBa20zUl9QSkRHaHp3U3k1VzRZWXd5X1RNNndWWUVGYTRfTk42a3hDUE5ha2NVbEF1ZTZfM1FqLU1lb3FkWUwySVdDMTRCYzBRRFBjc3Jrb2NpZ9IB3gJBVV95cUxPZU9VMHNNMlNYLTFUbHJqWHhyTEJOakU3cVpNWGNvM2k2SlBRU0FqLUJPVXh5Vzc1X2lERlVkT28yc2hsOW5pem0tMVY3YWZ4NDlMbmNmRlZ0aW1hZEd3bmdEUGlLSzFvdExkOGhOX19KdVptcXZzTmhVVnRJSVpCYnNMMFgySjFuMkZZLU1PRGJKT3czc3ota0Q0YmtGOEVSMk91cUVVY29fN0dMZ0RyUFl6eGphSjEyMVpiTzJ2c2JXNkhIQk5ZaWp4Ylk4Sl81MWpyRXgxREtNZXhOTzF3U213N1FoaHFmZEJzV0xvU3pqak1zcUY4blR4VUJKalRxd0ZTUU9qN0dwcUxBbjJTamZuZUlTWmxqdlpTTHFoMUdfOFd4ODVXc2J4eGEtbG80T2dBQUpSeVY5UlUtOFZqODhLZVZGM0kzclhwWVpJc21NUWh4U2NyejNieXczdw?oc=5",
@@ -469,6 +437,54 @@
       }
     ],
     "sports": [
+      {
+        "id": 3746,
+        "title": "إنريكي: نتواصل مع منتخب المغرب بشأن مشاركة حكيمي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNamw0ZEFIM1VLT0JseFB4cGltVkxzdmhObXlMakVfUkZzUklrNzlZUDRvUWRFMFFNeW1SbWZfMHlHTktTTkdOMVVfUjQyQ2dNWlRuRW9XenRSNWNuSDN6R2U4T2IwejNZbHV0ZEFBUkFCSnRJWUR4b1FlczQta3YyZ1hDRldjemVlRUlnRk5wM3ZtY3p5cVdoVE1ZNnBnX2xFb2NxcTUtRGI5Y09IV0NtNDk4aTlpeEt1LWNBUUNtWlNxOFB2Q1VISmtySnVqUHlBYXJoZVZWWDlTZTdxa3lKeXB6Qms5OUstSUkxc3VSa2pDZWRHNW14cC13ejlCNEltMWJSZG9TaHB4YUp5U2w1UW1rWGdVSWJncjI1eEFORVZRMkpaenhVWEc5MmNCazREVXYwWTFmTFFHSGNrd0lxTkZCNmZKS3c1U3JrWUNUMXJoYlFOaGxJWVdob1FCSlY4ZGhyY0RmaWtwOWplOVFXN1Q2SXpMWVk1bUg0eFBmWlpIenA1UVdFTjFvajU5WEx5VEg2M3V6dkRlb1XSAaADQVVfeXFMTU9nRHc1QlBCWFJMSTRVZGVOcmZhQ3pqMGN5RFg1cVFfY1YtaVRGVVlpVUgxQnVKRU1RRWJibTBzS3kzSERta3FqTGp1TVJSdlhNM2RaWW1mS3FaUzl6NWhINUgwR0V6MVg3cFBUVEd1MlkzaU5PLWsxenNfZ3Z0NkFJekJOblFHN0pTN25vQ0xGNkFMVVl1TTdrRmFwMTFQVWJsTkRnSTlmb05ZdjhmclU3S25UMkdjMWZkX1dIQVB3RjY5Rll2ellWTmQ0Rnl6YkN2ZG5NVUtHMnNFaXNZQUlTVlRNaXVqQlJTa0RjRzVrQ0Q1V01fbml2LTRtdlV5ZE1NQXFTdFZsRWRoeDB3cWFOejNDaGtmaW9vTlJGMmkwMEYzUzJVYUhUSndUODVpYXhDQjF0OW9qYnFrbnhUWUhsbFhCdDlRdEgzakRLaXA5QVZVZHBYc29zZ2kzUmdmaDd6cVZSdldnZzhwVi1CTDYxTlNSTS10ZGVqVDZMaXJfWTNKQ3EyVTIwLVRVOUFKVjRxVWhEN3pwdnI5dWFQV2c?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 11:36:00 GMT",
+        "discovered": "2026-09-21T11:41:56.811598+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "إنريكي: نتواصل مع منتخب المغرب بشأن مشاركة حكيمي FilGoal",
+        "player": "حكيمي",
+        "content_hash": "7dd70c03ee7864065fbce50d309b9639e022f1df1c377c3dcd67cf568f08c6d8",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3747,
+        "title": "اسكواش - المصرية الخامسة.. أمينة عرفي تتصدر التصنيف العالمي كأصغر لاعبة تاريخيا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxNLTNPSHJZVHFoUWpubHdzVkQwNFQ3ZmZHM3dvcGItMWFGTWJ1WDVROEFnS2pENXdLbl85UWxoRm02aG1KN1hvTV9mVDNKd1BCWW9FQ1pUV3RmNlIwSGhRTDQzbDJFbEpaZ3h3U1hFZlhkb0I1bXVST1o4MmctcFh6VGoyNUhNaFp1dEpCTk4yUm5kbmJtUGI1Mzd2WWVNWFRtaFFQRXktVHRISmg0ZHFsbVpDM1hZRWM0Zi0xa20zOEhjYmM0M3dIc19aTG4wVWlsZ2Fnck8yRU5xNWRjZGZrNnMxbjluSG1GdmZtSEpYbVBYYldDTjZ5ZEJRUHZOeXpJV1IyYllmcm53Q1JGLVBPRlp2djVvX0NyLUhyWUdaeHhPZ0NEVzc0N1BlejB5NnJjMHVXZUlCUGtDd3BkVXRfV1FSYTlzb3hZdnVFbGRXajk0YUhzRUNFdnhlU3ViWUozVnJMcm5PdFUwdC1zSUREOGl5UGYtY0VnVTRGbnc2eVBQaDV6OU9aMk9ZODlkeS1rbFkwR095UC00WXVLMjV5a09XYVg2M2tnX0JVa1lQOHdBQ1Z2dWRtdzBQSTItYm9HN1VqRThQSnRIaU02bjhMd1FVR19RNWRUZVNvd3BQMmR3dnNJUVI4ZHNrb3c1U2dkeE9WeWwtOS1fY2lzZzZOeVg0NFIycFVYdEhQQ2M1Z2gySmRjeU0wcHlFa21NX3dmVzdUcldUZ3RqYlY2ek5YUFB0TzF0YzN2WXE3cktiSkVBVkVkdGc4ZkVQNi10S2NFUG80dG1aMEdzeVRtZFdzWVE5eTFlZlXSAewEQVVfeXFMT0RRZklWRU1zU2Rtb3Vla0phX3o3ZTdKQ0Joc0NIOU1TSFo2REtGcjN6aUQ4eVJNNGRQVUhrYVFQSGIydmN2RUZBd3Z4dFdYTk9YT3dhTDNLWkNCR3RvTk54N0d6Q0h6ZW9JTUFJQlRuWUZydUxvZF9wOTY3TlhnakdHQ2dMTnlwVnVvUXIwVWx2TlIzd3NMZmY2UVU4QVZBQU5adjZKYjl2ZWpYZzJQekhDN3ZWRVNodnp6UlBhTVk5eW11QUxzeHVZT0w2bHo4S0ctV0stT01Eb2hEbVFXN3VkS0dpaUt4WnIyVWRvTF82TWxmQy1HUFlkY2x4Ql9fSGNwOC1QVWZjbW9vMU1GYjJYMm9nVTRaZEplVy1EZXJnS3JJMWVNTWJyR21GY29jX0dRLTBVYi1wUDl6WFBhUDlBZ1QzZHg5azlENFFMekw3UUprWEpkaEZYSlJURG9QYTNXbzkyNlZHYzhaVzRNZXJ0c0o2WGoycjNPWUhJMU9Fb1JjVXFNNUtzTlZKWnB2UzFTUEM4c2xOaEVBVWdqVEI1TmRvR3lVOHVSUWJvX1c0cTNJRmJwbzJuWFAycVhER3hIeWVyM0FnRzd5WlhmX21wbGJIR0ZKLXlydjdOSnhsOFh0Zm0zaGFyQUQ3Wk0wcTRDZ1hxVkEyVVVTajNNZTlBVHNOYUUzUkxyVjNEOHlrelN3TG9yX0FpX2hOVGxxMThwNTRNV0hubkRZcDVobDB3eTVIVWZUeDV6N0pScWM3aTMtWGlTcUczNUlBM1JfajNRa2E1QlI1eFZrU1hBRDViRXJ4ZUtaWDRWY3k?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 11:32:00 GMT",
+        "discovered": "2026-09-21T11:41:56.823005+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "اسكواش - المصرية الخامسة.. أمينة عرفي تتصدر التصنيف العالمي كأصغر لاعبة تاريخيا FilGoal",
+        "player": "",
+        "content_hash": "6d745ad92419aa5815d66d72e929fad7fbe43a5151615ab8038e2763b25aab82",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3748,
+        "title": "الحكم في قلب العاصفة بعد هزيمة مثيرة للملكي في ديربي مدريد - dw.com",
+        "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxOVkdCUkhLM0p4UTRLMTl4azU1ZG1DNUdKaGQwX2dMMlFNaXNHc0RDZFp4Nkg4SFRRd3JhZmJhRVZzLXRIQ1h0Rm5lNnRKMmFESVJaZmozOF9Oa0RmRDBsQUpTNGJ6V3g5MnVrMXFHUUJqZEduUUtnLTlBZWNvX1Zta2N5ZkszRENBdTU1YmtKSDVlNHRHbW5DdTJNT3NqV3k1OERsYU5IM0w3NHlacDB5WTBDNUVJYjZnNmM1bFVPTmgwaUZpM3VhUFdLc29iYlJnZTQ1Tk1zX05sYnFGSUdCa0R6b0VEa3RHYVg3SDE3ZDE5NTA2dFJ3RVdYM1hLVm44WVlzZWJnbEtrdFNPM05yMm1tS3V0ck04MXpfdjRrTFpkS1M2Z3BLUEQ1N1Q2cTNubWpfUFAzakZ5RDg3TU15TDBfY0dyTkVsYU9WZ0tmc091RW5UOWp0d2g1TUV3amd3SUJ0M0JGMFpxbFFEejRpbllWY09xSHhabUFUUHBwT3dXYVNiUGRSd2ptVlpoM1NPZnlLQkY1T3ZaZXl0bVdWNXljUWVNUWtkSzBtYjFkODVpV1JOVURXTExKaVVHd1N0ZWpsay13R21YN0wtekHSAc4DQVVfeXFMT1hsUU1sZkFRanptQkZ0TnJiYWNvV2JKX3FDUk16S2w5NTE4dEFCYWduTE9qVEFNN3c0VmFVYndJT1FzZTlvZHBfcURVYkZ4aDlpSEdQLVBabDZpc3gxWFpmT18waDZ5Vm5RZTBWYkFhVzkyLVdEUHRDRm4zUXpvVjFpWEVOTTFVX1VSUXYwS3FmTG5uazJxR3h2LTNZRFpSbjBhNnR1UzdfRVZuNVk5YUVFM0FWVHF5SEJsNlNDQ3FBcU51a0szSzJLRDVaaWw0a3duZEpBYXA4VENfaGpkQzNsZ2NQMGo3Tm9uSk1Ja29fV2h5b3FYMldkeUFELVBqX1paOXpTWWNreGcxcnJyd3U3UDZjLVFfWW1pTlJVQTJQLTJKaFYxOGxmUFU3QWVFR0xNVWgzX1dxYnI0d3luZHM3YmFsRmphT0tPQWxGbFVRNFpUV01ralBiOFgtcnAzdDdzN0NSek1KNzItQkhsMUlUSXlndmVMNGhack9JN2NmTnF3SmFHVmxLOEh2X0FST2g3SmVQZFVvMGJuN0t2QmhfLXJIaURkVjNhX096cGdaT295RG5vUG9ZYVFMWkRCZm9SZS13c1RsYzZLX1Z3?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Mon, 21 Sep 2026 11:22:16 GMT",
+        "discovered": "2026-09-21T11:42:11.363295+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الحكم في قلب العاصفة بعد هزيمة مثيرة للملكي في ديربي مدريد dw.com",
+        "player": "",
+        "content_hash": "8d00d498360799c221c9c50aab1f18e421b5786314f14c2d4de61e37d182d930",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3738,
         "title": "أكثر تذكرة مجنونة في كرة القدم! - يلاكورة",
@@ -1220,54 +1236,6 @@
         "content_hash": "193c69851d3791c3ab7fecd0ebad6f9af7db035411911496323538c69148f14e",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3650,
-        "title": "16 لاعبًا يشاركون في مران منتخب مصر استعدادًا لمواجهة أنجولا (صور) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxOWkdmLWxIXzBaU2swMVNrUVZjcGtsMEFHMW1icW9INlFwdkYyR1pWZjRJMGJSZ29wcVhQSDBCNVFSdTRocHZkVEFPal9hVlEwYU0zS1BjV1RRZXB3MWIwZEw1dTdFcjFwYUh0QUNDYmxMc2dyTHZSUHZwbW5ZSF8yb19ZZFVLRi1KM0RFVGVUaW5LTHVkNXA3c0ZBOVN6UjllVzlsVDhFM3pha1N2Qy05UWNISXRqekRLUW0zLWdiWW9QemxqYlc3dGFKeEhhdXBybWlNSzhnWDRjQlRrRE9LT1kxcXBmY1pwbG5XcVIxT0pnN09Henlmb0R4NUE2djh1bTZiaGlWM1IxMUtGejlfRWg4YTRQZVpVV1FiMm9JUkU0UlQ4ZjA2cnZlTFhaak5zNThfb00xc0RBWHZMOG50TXFvNjVvbjdwajVYbjBOYzlnUFI3S2U2bXZkcEdWSk93eXFSZmRrNXVKMjJrdm5fSHZIcW1JOVVDaWw0OGNrWkZTQm53NHlFWG5QaThrQm0zUnZVOGJod2hRMzVyeUlwMFpOMVRXdVJBTTNwUXN0V2J1RGdTd2I4RnFmZk4zNGNUZU5teDM4QXM2MXowQ3RWb0Z3VnhSakE0RWlwOEN2ajQwdjVQa3I1QUNhUml5cy1QVDBOdmhB?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 22:16:00 GMT",
-        "discovered": "2026-09-21T03:59:06.359510+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "16 لاعبًا يشاركون في مران منتخب مصر استعدادًا لمواجهة أنجولا (صور) يلاكورة",
-        "player": "",
-        "content_hash": "7fa0ca928010ac93bcb79687d7add2fff06f7b7b359475197ec13800de3e0bda",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3566,
-        "title": "16 لاعبًا يشاركون في مران منتخب مصر استعدادًا لمواجهة أنجولا (صور) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxONTNDdmpoZHpLUkl4Slh5TzJ5dnZINEJsNjlyNVlDckxGSjA5cVNsVTBiM1c1SFpZUFp5LWxfZ3RlX1o3d250aWhRRGR6dzJObHAzbmVOTzFBallGZVVvTTlZMXBKbG1Kc3hnVkVOZ0FkNExERHR6ZEVFUnhGM1FDUkkwVUJBZUdmZlV2VFd2SUdRSTVac0xrLXI1dUJEYVhSNFpYbU5pRkhhMkFTMDJndGN0bnVveUNYbF9QZlJsZ25leW45Ukw0bkd1QVVpYTZpeU1CTVdpTUc5VHItOEtiNWxlZXFwS1N5YUVHSmQ4OEYwZ042OXBYZlNmWEVsNlNzYlBLZUdnLW5GV3hJZWxHTkVzU2Z6eVl4V1dBZ0xWVHNVd0p3cWtrajRScWpidDczS0lGRGtTQmJLN3dKTXV0ZXVXVzhPaHIzZXBtMzN6ZVRHbkNQRG82UGlRbndpY18tcTNaYW9IRV9uZG13RV8zWFE1TWFRRDdTMmlQTVFLTkZWWUtBZi1mSXVxeWlwUDBSOWJRNm0tcVVXQmRKQ0FzSFNFNFFwTGx6ODNJaGdPT3hRdEtwN0F5SGZUVkNiT2RXOEhTT2tENGVkdUVRUHZGVHZvTkxGV2hqVFdlcURjMDBCNXBMZGU1ODZ0N3VmZF90Q0JZbTlWZHloWEN1ZVdPdlBXNnN0N0FFV2IzZzNBNkQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 22:16:00 GMT",
-        "discovered": "2026-09-20T22:28:21.392315+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "16 لاعبًا يشاركون في مران منتخب مصر استعدادًا لمواجهة أنجولا (صور) يلاكورة",
-        "player": "",
-        "content_hash": "7fa0ca928010ac93bcb79687d7add2fff06f7b7b359475197ec13800de3e0bda",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3584,
-        "title": "فيديوهات | هاتريك صلاح.. ملخص فوز طرابزون سبور على جالاتاسراي 3-0 (الدوري التركي) - filgoal.com",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NZ1QxU1hrS1RIYUh2SnJaT25QdFpoQ2hURVRYNGRtT3pDR0VzVHprd01WNWlWeXhUZFdCSTFZU2JJU0xNMnpmTFlpUmQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 22:11:00 GMT",
-        "discovered": "2026-09-20T23:14:41.565489+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديوهات | هاتريك صلاح.. ملخص فوز طرابزون سبور على جالاتاسراي 3-0 (الدوري التركي) filgoal.com",
-        "player": "",
-        "content_hash": "b856334da82d757a0f5494a32a878e481d32b970968e02b3b2e15c280395172d",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1560,38 +1528,6 @@
         "section": "transfers"
       },
       {
-        "id": 3246,
-        "title": "زياش يدشّن مغامرته البرازيلية بأداء لافت رغم خسارة بوتافوغو - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE96VG90SUFRN3JsanNyS3pxaDBLOGl2S21YT1hQcWctZ185VU93VVFPbXYyZ291M0RKLVdnNnB4UVFyaUpZOFE3Tw?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 11:33:28 GMT",
-        "discovered": "2026-09-20T11:40:00.077332+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "زياش يدشّن مغامرته البرازيلية بأداء لافت رغم خسارة بوتافوغو - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
-        "player": "زياش",
-        "content_hash": "160923126e7e7c194964ed4cd2f030d86d7b406a8fe644028827ce60e7405809",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 3247,
-        "title": "الدنماركي كريستنسن مدافع برشلونة يتعرض لإصابة جديدة - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxPNFlFeGJNOF9Fc3pic2dDN0xXZEFKbGtrajN4a05ld0FKeFRjMm1neVlRRDFDVVFXWk5mSDFaV0QxbktMajZmSUdFTWtoRklwYjYtQzBHYXpSQ0phYWN2U3hJZ1VuVUtraWF2THpPNTFjcHFzMFk0NGRsUDJ6bmFzMGJvcXI1SnR0N1o1Rk1acG9TTTZnZHNJNjlBc1pDTVRjeThJajc1VTZMNU12OUd1UzBaLWJrTWtaSXl6bHNDaUF0eEw4aDc1UFJyYXMzZTdiVzhDTnlKVW5xMExzOENTaXlFcFpBbWdEVDhnR1RPTHhfeEhuWWZSZTgzSzhkWGhxaWlNSWFpVjU2WW5SOEt3WmQ5c3AxMXExbGxlU1czVVJtTXFRdk8zX2FCTllKNlpBV2lnaWQtZGlNQ3licjh5b2FYRUFDVUlYazktbThPeEJwWGluTVZEZUJVZUJLTC1PSTlkeVJQbFFEZGcwRmF0WThReEdRVjBRWmkwMXRpd01YS0RTQVlfWnJlRWlzXzBUU2ZDTGVoX2JlZnlUMlRhcmk1Nzd5TVIwbnpIUXVQTkw1LUowV2N2QjE3QTVnOUEySXM5bXd3blI2MTFPMER4YWQwMkhjN3hQS01ucjBPZnBQOG1UMXZ2aWNJalVNY1NDOWl4UkMwbVVvM21yejZKenBiZk9GWllhQWdpQXoyTVpHSFQ5R1VzTDZ0RlN5dE9WS2stV0lTd2toandjUmdCQVhFcWl4ZGhPVFBhdkwyOUtVRWxR?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 11:27:53 GMT",
-        "discovered": "2026-09-20T11:40:04.511640+00:00",
-        "category": "أخبار",
-        "status": "غير واضح",
-        "summary": "الدنماركي كريستنسن مدافع برشلونة يتعرض لإصابة جديدة الشرق الأوسط",
-        "player": "",
-        "content_hash": "196d3546611c8867992e77ac3150564ead3e180731a006930b5fea2af7a13d77",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 3277,
         "title": "\"مورغان ستانلي\" يتوقع تثبيت \"المركزي\" المصري لأسعار الفائدة في 2026 - العربية",
         "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxOZHkwSUMzblYxUmFHeGNyR1l4bXFzZlZ3V2ZTOW9vWWdaaE0xLUwyMnhueDl5UThELXlBb0R5cEQtRlZvTC1NZkN0aTFUT3RQbkNjb1V2TW1FQkh4SUZPbTJuM1dyRXRYNWhIMldYbGNRN08zelVWckh3TVlyb3VYSG9YTGZEWTFYcWJScnZ2TFROVUZGeWdzV3VQWTFLMEdJeGtkYmNjSy1fcUJwbTFuTDNldmtsZ3YtRkkxaG5lNmUxS1h0aE5UUUtQNTFRU3lFaTU2aV84U1RyVl93Tk1oTm83M2VnTTN5b1htZ2t2SWExVVAwNlZ3Q2tpRlI0dVB3S0wxQm5Ic2Z6cDNDWndYZGVsQnd6OWVfeDkzQXMtSExTNG1TalBMdEpsSTJoZFFoZ0txS1IzdVVlTVp2Q1JyRTVOdXJ4YlNoRkh2YmJFNGlHMG9IU1dKQUN4SzFxcS0tblZxdllVb05SX2x2S3p5bUdLbWF0MW1ZU1FzU3dwNU1LU3VzY2FfeklyRHk1QldRNVlrZG9nbGdEMmZLTFlra2ZGcldsblJyMHg4SXNSUklNZGRfWkxlSlVfM1ZNcXd5dktCREZxV2ZzajU5OThZQzJvMHpTWlljZ3V2X3Z6NEJKY0tGZmNLbzRSTmJFN19MT2lWMWxHZzEtVkF2akhHUVpB0gGHBEFVX3lxTFBhdTZ6Z3pqX2lhREtIbkpQcFhBN1dkYWIyal9GbVIwZmtqQ2FLZGUzS0xzLTYyUHpheXBlSmJjcDdJZDUwb0pZdWlqQ3M4ZnBWbzJGckkyRzFKRUJYenBILTJOYXU0dFhXbGJ5aDFaeXc5MzBvYlM0bG0tanVjaVB1aFZDTmEzYTRkckN4MXRCVm1JaU5lZFlOb3pBYXFOZ2duTVVhLXJNR19GVGE3Nm9oWE1nWHEtTXZ6MWZIWHAxTlNfS3EtcWp3eDNnRy11MjBEaHpRWkZ1QWdHU3NUVzJBbmpIMTBfbGx4TmF1LXZaR2ROR2lsX0dvdmtYdWVhYV81aVFLMHpzazU1eGt3R3pwU1d2aWF4eWdCNXpIZjAtRkE2dVRPeDdSOU1hSGhxS1huS2pmMjJlMGt5Tms4Z3E1bjh3bFRwUDhKeGlMTjVyZjlvWEQycW5aRlhGY3dKeHkzSFBKRnBrNWxjLWhqNzR1a0VqWUQwblZJMFZDbWwyemY5eWVMaFh1Mk1KYTRJR2N6dGV6QVZKb3pJdkphRGx6aUE0dGI3eXFkbkJ2STFkLWVYRWFDU3pzZFozbDFzLTdIZlBwVUFqOUx2eDJoMVhFOWNZeWYtV0kzSXd6UGJEbnNpTHEyMnIxeXRqckI5Q3dxV2pJdVVEdEZ2WC13eklTSG9CVkdEaw?oc=5",
@@ -1700,22 +1636,6 @@
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
         "player": "",
         "content_hash": "4c7aa4746b5d0a7f969627f423e5ae5025043b0e7ca4371f4784f58703996c5c",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 3241,
-        "title": "\"محمود التاني\"... البساطة تهزم النجومية المعقدة - اندبندنت عربية",
-        "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQdElsQ0J3T1psY09RVUdqX3YtQVFXMEw5ekNuRVNVcFZLWEpOMEsyUjhvMDVHdHJNVnAyS3R2OVRDaUdjWnAwakNJLUlzcnRwNFdwdHRHV1AzbVYxMmFMMGJlMUNPYnlQdU1IRjYycnkteG50TFZ2Qml6M1FUd2ktOGl4R3dGNFFnNEJOZ3Fia3FNeTJiZUoxNmlWcTlTSzNhMVBDTnVsR3pUTnFkV1dFZEJJZ2hWSHo2dERITXRnU0pDc0N4Y3g5M01odFc5enlreVVnMjNjZzNzVE1LTXp4OXNjcEFxaFNiY0hZMmpab2Q4SlpqNFNQOF9lQlpjZklBVUltdGE0al9Ob1llSjgtVHZwb2lvQTZNMjJCVGMxLU81THdpcnFSYWZxd1FvVk0tODdEeThwNVR3UGdxMU44OHBCekg2Y1A0c1JfRjlzeGZBYzdXZzgtUVRKSFloX09Sc05kUS1rcEhNVVJOZ3NKWWd6SVdXOUVjcjNRRlZSN2Nha0N3V0JNUEtpM19vaGV5bVNpVnNFSGotbHpsOEdIMzhLalE5bkY1UWc?oc=5",
-        "source": "إندبندنت عربية",
-        "trust": "C",
-        "published": "Fri, 18 Sep 2026 12:14:20 GMT",
-        "discovered": "2026-09-20T11:16:32.694796+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "\"محمود التاني\"... البساطة تهزم النجومية المعقدة اندبندنت عربية",
-        "player": "",
-        "content_hash": "757a22737d26d288c871e00f7c27caab7417c4c54358c9e9a80917edadafd8be",
         "sent": 0,
         "section": "transfers"
       }
