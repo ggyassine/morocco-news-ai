@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T20:43:09.073609+00:00",
+  "updated": "2026-09-21T20:52:21.531519+00:00",
   "total": 132,
   "sections": {
     "morocco": [
@@ -437,6 +437,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 3925,
+        "title": "«فورمولا 1»: تقليص مدة السباقات اعتباراً من الموسم المقبل - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMiyARBVV95cUxOTktkcEVhRUVjQS11REYtZndNd3g5YUI5YTFDYUZsOEpTbFZTRzlkVUtFcTFCVkpjcEVyUkhKYjVmbW1Vd2JiZUFlZFhrOG1BVEhBbkc0LTdCNlBvWHowUHh0b0pvdmNHM2R1ZHJHTHdCVWdwZlZralNLVXNjc0ttQjhwRGdRQU16QTJxLTR1OEd5WDZ4RE8tSEdhcm5mS3ZxQ2xFYllXTUhTQnYzN0JuelJaX3R0eV9LSU1femVzUFBoXzlNdlIwU0JmcEtGamdmRE41WGNmbVVtUl9PMy1ITldXbHRhaTBsazAwU3czVmpGbk4tdDhmT2pqQktKYkFuVVJVVXBsNkFaZ1N5YUxzQXNzRE10SjE1cVVNZmVDVDhpVzZ5ZHp3Ql84QUpZNzNkRnNOMVZNcEg0YjBhS2ptemJ4aXFsSkNQUGhoRFJMdmltVnZYVG0yUTZzTjQzd0ZVel9sdXdOOGN3Z2hrd2c3bnFtcVg3dk9tVThwWjhRM1ZFRnhPT2dpT0J4UEVnSl8xbHRoRFFiN1JTX1k2cUJ6YzR1YU1PSmNvWldBdEdpUFIxeTc4MzBTNU5MRlhRVThZd3JLUnZ4SDd3dnJudUxqQVdKOXJmQUg4emJsWGZteDZfN3FEaHpRZGdxdlRBT3U5RndiVXprc1kzVS1lVWtGa0VaeDFYYVlxNUU5X2swUUp0SzZGWU4zOTRrOGJBa3ZYaERFam5lRTFELUthRzcyOHFDckR3NGYxUkxqMHcweFlOYlgteGhNdg?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 20:43:35 GMT",
+        "discovered": "2026-09-21T20:52:00.752442+00:00",
+        "category": "أخبار",
+        "status": "غير واضح",
+        "summary": "«فورمولا 1»: تقليص مدة السباقات اعتباراً من الموسم المقبل الشرق الأوسط",
+        "player": "",
+        "content_hash": "703dad6ea8e6939e7b34d822018d45982ae401f9301f32ceb07c5200ab28f40c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 3926,
+        "title": "تقارير: غيابات بالجملة تفتح باب منتخب إنجلترا أمام موهبة أرسنال - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxPRkpTd0NaaE1FdFVFWVdrR2lXZWFoTmlWcGVvTFZDcjNVMDlkaEdIbE56RTAzMmNZUG00WU5QcmlQNnJkSTE1a2xSdlFiVDVwMmdJU09IUXI1SmFOTTFRRVZ1SGlDX2JCT19QM1RUV1BZYzB2aXRNUEt3OU9jMGV0RFlDUnN6eUNBZ05pMlZ0LW5kV1RTQTBOOGlQclR5SG5mVi1RUHhLR1VnY2xnVEpZVHh2b3RNdWpsTGtGVEJhcFRZanBuZWRIQ0s2Mk1qNVdkZWlPNkNHQlk4eGI0TTRhS2czLXVIUzg0ejFQNXpwUDVlN2JZSFQ2R2o4cEdvT3VhOEFoMUd0QzVWcElLVE1tUmp5c3FiZFpFUnNabHAyYXk2V3FaUDNCT1dlQUhGOGx0Zk0xRmZ5dHFYX1hMUzZHdDhGbFlvMUFLTGRUNzBEZDBvNTZFOGpiT293WS1Hbk9WQmFPMjZfa1JkUVVKVnpDdTBqdTRJMFluVUlpdUJuUk0xWU5lbXpvQzRaZGtWT3NMNUpuc1M2UWM3NEw3TkdPZUJkaURid0drSmhrTjBmRjMzUmJxdnBPUG1YX2hORTdhMU5sT182VFRoTTF6X1Q2NzAxQTRzN3otQmhYUFNTZFZpenJMczZKQUpTZG5zSnlQNW5Ya3g5VWpCRFFOQkRvb05YUnBMcG9HRVFjVHBQWEt1bHMwalpEelRHbU5tdlJmNEQzedIBqgRBVV95cUxPRUlmaWJyRXNYNVlLcWE4Nk4xRWE2WE1XNjhTVVVFV3gtT2pfLVlJcUpPTnV1LTljaGVQaGNkbWtnbF9xbU12QW9PSUlZa1N4QkhrVnBpOEIyRW9qWEM0cWpVWHhZYU5KcFlZbE5hTS1vOS00OUU3TGtYbEtrSjhCUURGS09lc3BmS3NhMENBYnNfOEFjd0Jla1FuVFVkYnhOZ2xMM2dUN1A1emZTbngteVNkbUdsakFqRFFIcURPbXR2MDN4TTdlVElsbmt6bUJlQUZtQ092QlRfNTd2SHB6STUxbzkzeUJtb3VCR1NoZkJOTWhSampzNnBDSlRsWmZIZHlZRUU5UWhXYkNXWURKXy1yUExBd0h2cU54dXZfWTA1aG5VNzBicHFuZXdhTW5uUHdqclcxeERxQktCN2JCbnBHRlBMSXd1QWRNenVWaG5OOVRsTzdSaDR0a1hCR0lhUGdCV1pYUUR5UnNISFpEZmE0RU9NTmxSaF9DaEhFS0xHYk8yTmlRaHlsUFhIeUt6a0cwcnlDaVJhNnd6Q2k5WVduZ1FhTFJKd2I0SjVoYW9RMWxrVWF4Q2h3b3Jyd2k5TnNpaVVSMEhLMDlfNDdqLVlHM3FnZmR1RzVFU2hjU2FiWFNDZUhvSTJJYzd4SVJYWFpyelFVM1dndHBlMHhKTzduNW5nal9Ydm9KWU1IeEUxNHBEMnRHZVdBeVpHdXBfTHp6RzdCYktjQQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 20:41:00 GMT",
+        "discovered": "2026-09-21T20:52:04.826485+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تقارير: غيابات بالجملة تفتح باب منتخب إنجلترا أمام موهبة أرسنال يلاكورة",
+        "player": "",
+        "content_hash": "385c4d6cf74280d9349be5685618393bfb210f2a665955c4b2ae592c569fcf88",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3921,
         "title": "سيسكو خارج قائمة سلوفينيا لدوري الأمم - الشرق الأوسط",
@@ -1202,38 +1234,6 @@
         "summary": "يلا كورة يكشف كواليس ما حدث مع بيزيرا ومنعه من الوداع.. وموقف الزمالك من اختيارات منتخب مصر (لايف) يلاكورة",
         "player": "",
         "content_hash": "3cb1142eec545258fe98760910b2e134b38a7c593931865ccc45c521ca89596d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3798,
-        "title": "مانشيني يبدأ مهمة إنقاذ إيطاليا: جئت للفوز - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxOWk9sNnRDMjJrcE12aXpOQzl2M0V2NTAwWUlVRTFOV21iWGtONzlBRXQyMlh2TnpudEZOY3BDZnJfMlk2UkROeU9PVHU2NjZ0RzFOQW5ucC1pd0tyN3ZYTllwck04aEQzMWUyenFtUnNTWHRtdVNJMGVPbm45d0N3Nkg3ckZtUmFVOGxQbEI1VGZHU2kteUFZTU9hN25uQ0JYUUJ4bC1mTXBhbjI2ZGF6eDl1LUc0OUJYVlZuZG1wVWJUV1hRcXM1bTFoQm1CNDFSdlFfT1ZHLXR4dkVSQUFpbnpxZnJMdW1QRFNjT2UtdnRmODdkT1dSQzlyVW9meW9lbENQbm03ZmhVWTBOanh5akQxZDVYOEN1VUdOWVlIUUdkYkNIOEJ1SkpXN0FZX3ZzMmFxc1BseU9Eci14SnFUbWFrM1dXVW1hU0RadGp6SldpaGVxV3Jlb29lcHozZHd1cDFIc1ZXNi1hZU1vMlF3WWhhZUpySlUzajNZOHFwd0hXX3JZTmhsZnV6M1VocnRsNmJWZ3hjV1FPcmQ1Y09vdUVDMlF3Y2JZODlZZk9CNFllWjVaaXRhTkxsdl95Y1dNMDRlMGJCUDFhWm9wOFQ4YUR1THBMUDFRWXNiWnNQaFNWWmp2Y2RtczUwNUIzTm1CcV8zbQ?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 14:19:50 GMT",
-        "discovered": "2026-09-21T14:28:01.553348+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مانشيني يبدأ مهمة إنقاذ إيطاليا: جئت للفوز الشرق الأوسط",
-        "player": "",
-        "content_hash": "f1b6c61e4bf1ddde4b4c4f8925d819d8d7a52c8573e8d5d14e79566c43759939",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3800,
-        "title": "لقجع يتمسك بطموح المغرب في استضافة نهائي كأس العالم 2030 - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNTXdnNFRweE1aRjAwd3k4VWpuVEhKZnYzUnQyREJLUWpzcjF2OFgtMzRKV0xvXzdYYy0zYTBxbVRLNms0cWpQSGY2RW10V056Wk5XTk1SWWVRWkdaWnFodmJoSU50RUlIUzNJWjlaWmVPdER0ZlRwbW5UR3p3S0haTWIyVTlycTd5aVRJa28zT2N2dmhRalZ4NUVGZ29YS2VocDBONnVvTjlkTEVFMTVxQ0NBd1JoQmVVRFItYnV3RDcxLWJXUUNoQ1dpUlc5SnI4cWpLVjlKeFVQZ1Q4UkU5OTBDY0dldEZyTzBoMzhHbTNYY3lFRFlVTDJvMUkwa3ZRMDAxNTBCNDA3V21BWVlaY3cxTndSTENoVDBBTU5MUEhHSW0yMXBlcnBORmhJZkROZkc0NjU0eTFNbndCU184UWxUX0ZrSS00TFBwLTlrQ3dEYUFsYUpSX1ZSUEt4bVpjd3BJUEVrWWtRWEY1ZE9lODM3UHpoN0R3dXJGOGdtcFlaeWIxYzBnR1lleEtpQloxdkVrckpoUmdOSGRWT1N5cGJvZWdJbzcwYkMwenRlZmZsUFQ0U2pMd1hKONIBwANBVV95cUxORW5WNVJaUGV0VGZBZjlRQmdIencxRVAxQ3F0WTlPUnlTTFF6bDI3ZVl6WHdYRU5PMGJHU1E4UW5TdGs1dzdRNlprTHFrdk1rY194WDhCcXplOGVOOHFvbnFfdEtKMDZiemVwYkNQZzJfdVgyYTZsY3dNZW1vOTlGalgyZHNaWjJFVnEwTldvMFI3cHZDZFJmNE1odUdwc2Z4T2tZSEhwNFY3NklmUGdJZVdMT2ZndnNpd2pqcklPeEM1VDhIdDl5N2lmY1JLZHRFLW80WF9qbDFYYm45dG9ENHBDVEcySU1ITlFyUE1vaGdiMzFuWjlJM0tycHZXaTNtUEo4UUIzbWU4X0pUcUpWdGxlaFhLdVJUMnc0ZFJSY29zeTNESnlsXzh5M2NiRnh5Q2M1QkZQMEtGb2w1TkMycTd3OFhlMW5zM0JIeDJXMEhlX0JWdXFhQXkteEF1amdLb0c4VnRqdFZUdkFhaG9NNTZZZDhiaG9hbElDc0tHeDVIcHcxNkFkbldxOGZUTjZGNkdmb2tWTDh2dkxqeTVMQ0dtVEZJRUozaFhMcXRjZ2M5bnJReEx2VFJfcnAxbXBf?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 14:08:00 GMT",
-        "discovered": "2026-09-21T14:28:04.456013+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لقجع يتمسك بطموح المغرب في استضافة نهائي كأس العالم 2030 FilGoal",
-        "player": "",
-        "content_hash": "2556267d74c317eb2171e2f44615e993d59e45375bd403fcba1cb6f987759a5b",
         "sent": 0,
         "section": "sports"
       }
