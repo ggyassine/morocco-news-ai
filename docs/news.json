@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T22:19:25.927046+00:00",
-  "total": 137,
+  "updated": "2026-09-21T22:32:57.905727+00:00",
+  "total": 140,
   "sections": {
     "morocco": [
       {
@@ -501,6 +501,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3965,
+        "title": "مدير منتخب إيطاليا: نواجه مرحلة صعبة.. وما فعله جمهور يوفنتوس مؤسف - kooora.com",
+        "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxOQ1ZpVzhUQmlveWtuRlZQR2xRajdicW9FRF8zcXEwU0R4MWNkakJoVk56ZFRHUXdOVV95aVRBUm9URVNDQzBzcDJCMk4wTnF5bkNsMEp2eTc1djFCSlJEXy1RbERvM3BTRm4zWTllOGZ3UExGczg1UlU5UW1RRkdFY0cwa0pOWG5LbmhOdUhHeDQ5LWQ0UXZZVElUQXBaTkxsMUdmSGJRQnYxVk5tM213RzkxMXVWYVFMWEJ2Vm9oTWI0TE5Lb2hxYzA5WldvY3NKX25YMFZvb19idFdiVFlMUWhoYk81OFNfVWR5eGtwWTloZWxrYzRwc1ZPUXJiVV8yOWNwZDl3c3lUUWZwY0JQME1xM1NGYWFLU0dkaUJpQ1BCZEowTlRreERqWFpqRmh3c1RVVDdFSms4ZDgyYlRHRlgtNU9aSkJ6NnMtM1BxaC1CdnV6ajdaaGpOMVVVYzE0aVEyY3NXeE9lT2pNc1VMeWVWVWlJZlJpWE5TOHpsQlBaV28zQmZfYUpiSWhQUGxXTWU0SHh1bmY2NG5jSDIxNDNUTGpVVU5oX2k0d2ViWXRYanpDc0lVbkRlekRPZTNfVDVrbnBCNjNSdzVLQmVEVHQ3OVFoU2MtX25MVGZKTTA0bFhXeGNpNF83aW51OWVyQms0WWdTb3Q5dTB5YWlIU0JIOXNkRFBHVk9kSmpNck1YcGJjZjhOdjV1R04yeVM1Nk9rRzIxNnBzOW9ZM3pVZy10ZjV3dDhGcldBMEZQdmE4VVFFWC14YjBZdEs2TlRFT1IzUTV5YTdqUTdVUU5BZTBUXzBGV28xcXdSR0xqTEtsRUZXQzctYg?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 22:25:20 GMT",
+        "discovered": "2026-09-21T22:32:37.080591+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدير منتخب إيطاليا: نواجه مرحلة صعبة.. وما فعله جمهور يوفنتوس مؤسف kooora.com",
+        "player": "",
+        "content_hash": "776bb0b4ee501e53ee4867179c480633a773d124e4593a29b3f6573a84d88066",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3956,
         "title": "سردار آزمون يعود لمنتخب إيران بعد استبعاده «المثير للجدل» - الشرق الأوسط",
@@ -1284,22 +1300,6 @@
         "content_hash": "b0ef8bcc80e5a8a69f091feab02ae7a651b084c2288adbf436dbf2cc34ddf6e5",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3819,
-        "title": "تقرير: برشلونة يتابع مدافع منتخب البرازيل الجديد وسط ترقب أوروبي كبير - filgoal.com",
-        "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxOMzl2b1EyYV9mQjA1QW9US3JDWVhxV1NSWkp6QUtBdlI4eHV3MWl2Z2RzZW5iY202RUFuSnFJblhZd2dUbTZEZVpobXQxMzNpa21BcTZIREp4MVlIOHRmLVd0NldDWW1wWVpHNHhSOXdGd1d4OUd0amhJMERyQS1MN0RhWnRGMnVta2JibXdtYTBZR2Z3bDJPVmh5dHFqR29HY1BlSEVNRm5CV1BqWVJfN2lPQ1hObnFiLVMwZ0RLd2MyVWM0a2M3NGk5ejJvUkRCUUtJQXctNlNVdVdfblpzcDk1S2NJLVcxeUd3bVNJeng0VUxqbmdDNUEtS2ljRDgyWjl4REpQOTE1MHlyVnZ4eXpjX09zUEVpNzVzQ3NmMmhDUDgtc011NFo4dnZwNGR2MzlLSzhXQXU2SURIRnpWSXctM2tNdm5YVDlOaWw0UjdVZF8yUnFNVnZ5VHI1S3A4OS1rRERlMGhGMVBnOHVwcTFTeW96X05TOENEUUs5aWo4bWhxdGE2WmgyTmRWc1FrYl9zdTNlM3hQQ1d0THI0aVhuTXJkaGliSWZTSW9famtSeGZtb3FtV1NzazZOZUQ4ZFNVZXVvSlpfNndmOFhIOU1xUVFkLVZMRy1MT3NUX2xURF90SW4zYnNmRTRDb3NzLU84RkdCdmhqeml1TGZ0SVJqZkdQbDc1SE91a3BCZVltS0hrTXNrb3NzSXJzOVBEbmZVeDZQVUhkM042NjNN0gG0BEFVX3lxTE81UEdUY0pwVExvcjNBb3lESlNaV1ZsZVJ1cXpaU3JqMjJUdkdNeGFtSFlZMVRXRV9qRmtZSDNRQ0ljWnZCTW1WS0tOelU4VFpTaERnVEVwV3dfbjU5VThPYXlSc0NjSTc3Y3R1ak1HVFBKczVvSzdfVE1BTXMzcTQ0ak41eVRwSl9HQURjTHJNd3VDUF9mMEFSanVoVlIzYnNfYU12eHJCR2FrWU9URExSS0xHbjBObVYtd2hPTnBUamhxRm1QZkhvaXBQREE2ZTZpcVdsXzhxYzNwbndTWmlUdFY3V2gtcTZYUTljX0o0alFQOXREeFc0NXBmOG1MSUY4SzduT09McFIzRk5TNmhfQVhsTDdtWGdDeVMyRjd2eC12SlZZWVBXQzdrMF9nZ1NMRmx6RHBHdlVlY194dk5OSEhxNHhNSzFxeGVpLUJENjhFY1o4M090a0JjM29penItbDNGTkU5VkxfUVhsT2pCSnk2bGlDSVlRS0ZoWHFFNmFPWVp1M3M5U2dIekFtX1h5emdoYURIZnFYTE5MX1QtUTRfNURoOGR6UUlTeXhCcERpcGw5MFFXV1dYMGw0MU9GMDhXUlF4WXV5emRnWHBvSFZUVWdTTGkzQzlTU3cwb0RXMVMtLWNqNXhvaWM1V2JHRkR1YmNZaEx2azVVRHYtMEx1NWlpbWF4X3F5QlJZVGtxdjItLS00bVNIRlA0MjRrb0k5ekR4UElVemVzZDBIYUdMbA?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 15:23:00 GMT",
-        "discovered": "2026-09-21T15:33:19.812293+00:00",
-        "category": "الرياضة",
-        "status": "اهتمام",
-        "summary": "تقرير: برشلونة يتابع مدافع منتخب البرازيل الجديد وسط ترقب أوروبي كبير filgoal.com",
-        "player": "",
-        "content_hash": "02a6004090a444f4ff2117b50f965f3b9fe6857de1a39c855b8f968bfc98dd38",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1320,6 +1320,22 @@
         "section": "transfers"
       },
       {
+        "id": 3968,
+        "title": "اتفاق بين مصر وسوريا على عقد منتدى أعمال لبحث فرص التجارة والاستثمار - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORFF3MDdrLTVVZm9PRm1SdXlxMWxubGVVOFlVN0xnTnp2T0RJbnNyeHozVVFkemVGZlpRWms3S0drRXlpaFMwU1ZQX0hsQUJUQjg1MFBaU0NCbTNJaFBKck1iTGxhSjRqOVc4UTBYel9wa1RSTHZiQVdLZFl4TWl2TVFpei1XTFV6WXdXSDlpN1JpUWVUaW9NdlZ6aDFmQkg5UW5mZm1BeHA2UnJQaWFLX0cxdFItMnQ2X1ZaN18wbw?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 19:07:38 GMT",
+        "discovered": "2026-09-21T22:32:57.407246+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "اتفاق بين مصر وسوريا على عقد منتدى أعمال لبحث فرص التجارة والاستثمار CNN Arabic",
+        "player": "",
+        "content_hash": "df230187f1936dad0ddcb6e533382c23c45afda270f8a3231499c330ae553f07",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 3874,
         "title": "\"جينيوس سيرفيسز\" تفتتح موقعها الثاني بالدار البيضاء وتؤكد طموحاتها التنموية في المغرب - Febrayer",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZWEU1Rjl2UnpaaVdBbmZZTnFiMWVqLVFrQVpiWlNQdFM0dGxJeDRKQmV3aGpGamZISUNzV3RtRjFUa3Vkc3EzZQ?oc=5",
@@ -1332,6 +1348,22 @@
         "summary": "\"جينيوس سيرفيسز\" تفتتح موقعها الثاني بالدار البيضاء وتؤكد طموحاتها التنموية في المغرب Febrayer",
         "player": "",
         "content_hash": "d8ebe46c878192fe472a46a5b17c45c142e56174a08ede29b71f2e632f0c07f4",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 3967,
+        "title": "إيران أمام خيارات ترامب.. تصعيد أم ضغط أم صفقة؟ - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOM2hrU3VPWHExZVBLSzJGdTlmUHJuX2FncGhaS0JXM0pzY2c2NU9aallpU1IwZF9VZEdZNXJ2WmduanJWWG42TjZINThZSlhOQ2xFS0FvaC16Nm9TVzRVWGhVUzdQNXcwdXNXbnFiSHFMVkNxTGVfaTd3Q1RGUGNLd2ZwV2VzQVdOTlJMR2RRNTRQMk1PRUVFVDJ2clVFdlBQZmhrcHFIVTRvZkh6eFl5VnlXUW9IaHlyMGtMblZiWF9rMndZN3NmVEliRG0yTmljRktyRmJ0RnJhRWVEZmFkRjRIcE4wSWhoQUc0QmJBMVJYSUdsRWdKTUVnTHd0Y1U5QTFLeXY3eTRYMTc3OERocmRPWGU4VE1ZNnNORnZJUkhoejNKSTA5bFRoLU1OcW8tX25NVjhrS2hmTnBiZjhKUGlpUXV1NnpmVHBvMExnRnBzZlJ6YTRYeHFPcTQ5a3FqeTRaZl9NQ1BOTFotSHZPSzBORGtZbmtpVWI4ekYyUTVUQ0xfUXVUWjZYSUlndw?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Mon, 21 Sep 2026 17:46:45 GMT",
+        "discovered": "2026-09-21T22:32:50.589456+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "إيران أمام خيارات ترامب.. تصعيد أم ضغط أم صفقة؟ سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "a1d2a4a76fc316a8ddd3d4aab9fcdd9b69cee74e6b602e44ae2d9782901df206",
         "sent": 0,
         "section": "transfers"
       },
@@ -1412,6 +1444,22 @@
         "summary": "الذكاء الاصطناعي يتوقع بطل كأس الخليج العربي خليجي 27 365Scores",
         "player": "",
         "content_hash": "0be45e02943491ff8515bb996f3c1780af3a2b81ad2712738c1c7912162eaf82",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 3966,
+        "title": "خبر في الجول – وصول جميع المحترفين لمنتخب مصر.. وموعد انضمام هيثم حسن - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YVjlubDVhOVF2dDdYSGQ4RkRzNUFKUUMwVG1DTnJTeThtemVSaUFzRmk0VnJYMVhOZVZMNUpBcTZwZXItUTNXZjh3NHRKUS1l0gGWBEFVX3lxTE9OcjNMOERCS1B1YzRhT3c0SUhUMmdhT3dfV1R2OVV0UjItRWZlWEl3RFg3dGFxSE1LZWJCMmRkamw4R3ZiOGhZcS04Tmk1OU1hNi1CNUpVdkxRanUzbENMWmlXcVdZc1RNdm1FRUROdVc1SHR4ZWYxSk9ZMk9Jbjl5XzZIVlRRR2I1elQzRGZRMmc1bUJ3WGJ3NVRGNk5ocHpNTnpZTTJ3VW5MTFJkM2kwclVXdWdkVVdxNU54RGQyYXZlYkZNZkdYZU9FN2M2bGwxaVhzcmstME9oT0tUX2tLRnBuM1hyS3djbWhEcFo5WUlZU2htLXlCMlR4QTVnbF92UlRqM1V0MVlnbGFjV0ZkWVRyb2dCUEthaVdqejlOeTE3bV9CQWwwLVBwX2xGcFg0bEJIV25hZmZQX1c0X3NNQ3R3M0NndjhuZ0YzMUJBX2lpOUFSNjBMLWdudnpPaXZBd2YwSjkxbGhBNGF2SEhfWTA2azk1UVp5c1JPN0hqc3dkZkNkY1lEWXBNTkMyUmRONzFrR1dsSF9qQjY1cUdlanluYUxnZzRTYnRQdmhaU3ppZ1NJd2ZXUWItclJVTUJhQll2TjJweTg5M1ZqQ0RnVGxoZTZpVmVlTDJFbVdmWTJmby16VjFGdzNIWDJOZHJKSTI4U0FiTWdZNXpaQks5Vk4tellxR0RqYi1TUVR0V1VRdGRNQQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 16:55:00 GMT",
+        "discovered": "2026-09-21T22:32:42.805254+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "خبر في الجول – وصول جميع المحترفين لمنتخب مصر.. وموعد انضمام هيثم حسن FilGoal",
+        "player": "",
+        "content_hash": "598940503c2d1a83b602d9aa751ab1860a3ed45ecece9117cf6aeae5d866dc20",
         "sent": 0,
         "section": "transfers"
       },
