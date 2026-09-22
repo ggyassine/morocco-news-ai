@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-22T00:04:24.159230+00:00",
-  "total": 142,
+  "updated": "2026-09-22T00:27:25.569533+00:00",
+  "total": 144,
   "sections": {
     "morocco": [
       {
@@ -1014,6 +1014,22 @@
         "section": "sports"
       },
       {
+        "id": 3985,
+        "title": "كأس مصر – فوز كاسح لـ النصر وانتصار المصرية للاتصالات على جي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YQzVWT0RXSm5hZEhuLW9iazF0NUQxUEkydnp3MTVWeXZ6WWw1SzB1UWNleUZKYXpqRERDc2RxaHllWXpIXzZmelRidGdPdWFh0gHkA0FVX3lxTE11NWFfY0VkZC1xNThLZVAtdFVESXhia0F3MXl1NmEyZUxmQ2lQcF9oU2lnUVVhZ0hlUXJlYmhSaEFMZDAtNnRMYk1jTEdId0FGQ0FOSDQxM3R5Vi1rNGxLTHJKenBXcHEyTUQ1RndWbUM1aFAyc1FlbW9KY2ppc3d3T3hXMXhnWlhyVXg2a2M3R1ZqR2d1cy1MVlFkV1Zsa0xPUEpBd3RaYUZQYmlvVW5VaUVsZm1FRjJLZzU1bEZnaGJQS0p5Y05ieUxjOHJabmtLSkVsMFo5ZFQ5ajJXYkEtNm1vcDdMb3lfS0lNQzAyU1c4VWFIdV9oVjhMRFE0RGlvR3ZkNThMU0xyQUlBSnZTNGZfSnpIanN2X01UQUk1M29lM0FiWVJXTVVIQVM0NEpPVUZiZk1mVUxOV1hPREtRcnR5Q1d6MjBZNS1JMlFWU21Eb0FrczhkaXZuOW5XLU43ZWRwdktNaDYwRThSUi1fcjdFYjVHRkIyR0FJTzZfa3JVdEtQbTBQX1NtN2xyY1BNUTFOckgxTVFiSUtTUjhtSEFvdDhLWUltUWx1WWFDWGsyTE1ZdXFfdFdmNWxVNE82Q193NTBZT3FDLXRPZ1Y2aERRVjZLbV9ENXZPNTRROGJHajY?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 18:03:00 GMT",
+        "discovered": "2026-09-22T00:27:09.002066+00:00",
+        "category": "الرياضة",
+        "status": "مفاوضات",
+        "summary": "كأس مصر – فوز كاسح لـ النصر وانتصار المصرية للاتصالات على جي FilGoal",
+        "player": "",
+        "content_hash": "c5a18226e006ff51433b4653bbe4342af693261c46b5e5791266d4fc4eef3d38",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 3872,
         "title": "كأس مصر – فوز كاسح لـ النصر وانتصار المصرية للاتصالات على جي - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPSUZva0xQR0xBLW5OeTI2dWRSR3pkYzFzd2JqQ1k1aUw5RWdRTlR2UE9HcXI4SkJyZmhEbU1NZ3JuZ3lxWkpLd20zN280YWMzTUo3ekIxaDNCUDE4MUFZT1p3MERNY2xRdkxFTkFfbzdMQ2x5bm5QU0dwazI4VmVOV2hZdVR3bTNHc29TSUlKbGJUNEFHbWx0dzFrUEtLaUlGRlVvZ3NTQ0JhcDhxZ1p5V0cxZ3oyX0hGeFpXTmozUHVpeDVsNzlEYXhSM1hFb1I1UVRkSk4tdk9ZSnpXdVplbkhERjhsSzFaZGlhaEU1bjdpVVJjcjBkaVdMVGJ3elFkSS1Da0xBUDhvZ19PQXBMbDl5X3V0T2ZkeGlTTHNvLXlwYVNHOUdxbzBXRHFqY2JaejJEc2FRWVczSEZhcWlxai1RdFBMYVB6eUhSTmROOHVpQXQzVnppaUVZTEFhbU1lOHpXSDRWZmpqNHFwSFlUWXM2aUZmYWxjYTU5N3BmMVlmUm9QT3hPZjlnVFdlQzdqdW1ja21PcUxqWmNvaFBYa0s3Y0FXVmVsWmZUQTVkV2N4UnlEMlVYQjVzWnd0ZUtkdVd6RVAwcWFXYm9qMFNvTDZzSm5CLW5LLTJadG40UdIB5ANBVV95cUxNdTVhX2NFZGQtcTU4S2VQLXRVREl4YmtBdzF5dTZhMmVMZkNpUHBfaFNpZ1FVYWdIZVFyZWJoUmhBTGQwLTZ0TGJNY0xHSHdBRkNBTkg0MTN0eVYtazRsS0xySnpwV3BxMk1ENUZ3Vm1DNWhQMnNRZW1vSmNqaXN3d094VzF4Z1pYclV4NmtjN0dWakdndXMtTFZRZFdWbGtMT1BKQXd0WmFGUGJpb1VuVWlFbGZtRUYyS2c1NWxGZ2hiUEtKeWNOYnlMYzhyWm5rS0pFbDBaOWRUOWoyV2JBLTZtb3A3TG95X0tJTUMwMlNXOFVhSHVfaFY4TERRNERpb0d2ZDU4TFNMckFJQUp2UzRmX0p6SGpzdl9NVEFJNTNvZTNBYllSV01VSEFTNDRKT1VGYmZNZlVMTldYT0RLUXJ0eUNXejIwWTUtSTJRVlNtRG9Ba3M4ZGl2bjluVy1ON2VkcHZLTWg2MEU4UlItX3I3RWI1R0ZCMkdBSU82X2tyVXRLUG0wUF9TbTdscmNQTVExTnJIMU1RYklLU1I4bUhBb3Q4S1lJbVFsdVlhQ1hrMkxNWXVxX3RXZjVsVTRPNkNfdzUwWU9xQy10T2dWNmhEUVY2S21fRDV2TzU0UThiR2o2?oc=5",
@@ -1282,22 +1298,6 @@
         "summary": "ماذا يفعل مدربو الأندية خلال فترة التوقف الدولي؟",
         "player": "",
         "content_hash": "f34abc80037a38c5c240db0d6646ae6b30ece99a4f2c80f35d82b2f19ad75a79",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3830,
-        "title": "أكليوش بديلاً لزاير إيمري المصاب في تشكيلة منتخب «الديوك» - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxNZEZuWnZVc2lQMnlyckFrbmZBeERHNVhPN1Z0dFNoRWUtNlhzaGxFdmUxVWZkOW8xR3IzQWRmNVg0c0lHbXlPVmpJd0ZxNllGNlhQSTJtcWMtQnlueVVvRVh1Qm5zR2RzcWhfaWU0QlNSMFlBcWYwWjkwaFRkdmpMR210cm9SMkdqZUp2eXlzSzZ2cnJyRnpSTV83N216TWxfRTdEX1pGZVpneU5NMXpDdk1xd1NodURzWEoyWWhIaE5qZ2w5ZE54eUptMG5DLWlBSUx5c2dBbEptZFlWS2kzek5BVWpPTVJEVUpFa05nZkh0WEp0VUZCRWVUb0l1MVN1bkJ5bnR3LV9kNmFMZnVkeFhxTHRjcHZ2cmJldFZOTWlrRXZrdDlZWUNGbDdVY1o4RTVGNlZrd1RDSXIxSkZYM096blRGblJST2xuNWNtX19XazFoamxSQW9jS095VWhFTC0xNC1jOG5SZUU3dFdXcHhIRHVSdUZrUzZTOFBCUkdmR1hIMTZsYmdxSGN5QndMOERUQnNSLXE3c1BWRFYzc2tEMFBSc21pSnRpOEV2ZFVPRS05UWE5enl2b2p0TG9MRHlOdF81eURsRzc1QXBMWURNRWRVeGRqSmV5c0JqNFdDcFRJSVl2dTdOREcwRm92MDVEbktzV25uemtnNlVEUGh2S0VIRzJpWmZrRjJkR3NUdWhmdWRqNllpSGpNN1A4VUlfSzVSUEVqQ0FVOGJMRUVqSEpXU0pydFlWcWRRSTRqN0JQc3Mzbk5GeXRaQm4waDBTTDN5NA?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 15:54:43 GMT",
-        "discovered": "2026-09-21T16:09:54.670407+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أكليوش بديلاً لزاير إيمري المصاب في تشكيلة منتخب «الديوك» الشرق الأوسط",
-        "player": "",
-        "content_hash": "7c053f275a70d6ad2ce21434322f4df0b7eb8a7aca74ae76022b537f7add1648",
         "sent": 0,
         "section": "sports"
       }
@@ -1894,6 +1894,22 @@
         "content_hash": "3dc60570dd27cf1ba5ce5c91e2c27a9134f829fe519822df1eefa04accb8b7cb",
         "sent": 0,
         "section": "transfers"
+      },
+      {
+        "id": 3986,
+        "title": "علماء يتوقعون انهيار العالم وفناء البشرية قبل نهاية 2026 - العربية",
+        "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxOR3VEZlFPUEViZnVwZzYzbjhaVXdmT0pKRmkzZGhFV1BQNWZqb29PSndaM3hHNmNGdUoyQ3ZtelVidmcyMkJJT3NKb2RDc2hmdDNwOUdrN0g2SkVvMWFSTFg2UFNMbEdSZXdOQ24xb1lfMVlKRjJqV1RES3BTNGlsTmU0MkdXdVhMbHM0cW9rRy1UQkRmZFlfSEdFZkl2b2VSakE4VnhpM21RVm5oQWRfbmk3S3RVQmZnSnZRZ0NVb3pxaXFpM1c0Y2NFVnV2U3RmUjRFNXluU25xTWxNMHBSSk5PbTI5clh4clZSSWE3TjNVNGlFdzFodmdUTFlvejJUYWFrVEhlYmpMSVVKVGpNSW82WkN3RjBfSF9nZUZma1I5NTdfdEhPbWVBWGFuNDFuRXU0OFQ5NGN5TW9OVXFoaHFPT2I1VFZiSl80dkhNUEJDLVduWWtTSjlhbEhOcXhnS1laRWhKV1A3SkN1aU0yc3FieTUxUVVkZnVITlMzcEFfTmRDa3dyWVdRMldXdkxuQm44V0FoMkQ2YjlEYUVTT3hQaDNIM3pQdnlCYzdNLXIzZmZodmtsTDJURVF6S0tOekY1NlVTSlY0NC1qUlHSAc4DQVVfeXFMTkd1RGZRT1BFYmZ1cGc2M244WlV3Zk9KSkZpM2RoRVdQUDVmam9vT0p3WjN4RzZjRnVKMkN2bXpVYnZnMjJCSU9zSm9kQ3NoZnQzcDlHazdINkpFbzFhUkxYNlBTTGxHUmV3TkNuMW9ZXzFZSkYyaldUREtwUzRpbE5lNDJHV3VYTGxzNHFva0ctVEJEZmRZX0hHRWZJdm9lUmpBOFZ4aTNtUVZuaEFkX25pN0t0VUJmZ0p2UWdDVW96cWlxaTNXNGNjRVZ1dlN0ZlI0RTV5blNucU1sTTBwUkpOT20yOXJYeHJWUklhN04zVTRpRXcxaHZnVExZb3oyVGFha1RIZWJqTElVSlRqTUlvNlpDd0YwX0hfZ2VGZmtSOTU3X3RIT21lQVhhbjQxbkV1NDhUOTRjeU1vTlVxaGhxT09iNVRWYkpfNHZITVBCQy1XbllrU0o5YWxITnF4Z0tZWkVoSldQN0pDdWlNMnNxYnk1MVFVZGZ1SE5TM3BBX05kQ2t3cllXUTJXV3ZMbkJuOFdBaDJENmI5RGFFU094UGgzSDN6UHZ5QmM3TS1yM2ZmaHZrbEwyVEVRektLTnpGNTZVU0pWNDQtalJR?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Sat, 19 Sep 2026 10:51:00 GMT",
+        "discovered": "2026-09-22T00:27:17.002225+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "علماء يتوقعون انهيار العالم وفناء البشرية قبل نهاية 2026 العربية",
+        "player": "",
+        "content_hash": "a8e4c38efb9feb9f3200c9a85576b34303ca9831d47bad68ccca6b7283f9a928",
+        "sent": 0,
+        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2264,6 +2280,22 @@
         "summary": "من مكة إلى الرياض: حرب الصواريخ والفتاوى! | رأي القدس القدس العربي",
         "player": "رياض",
         "content_hash": "e4db68dc3c6314841fc720703cb8b78c53ce0553c740ceae4349760f3a54a72b",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 3987,
+        "title": "طوني فرنسيس | إيران تنفذ مضمون رسالة مجتبى الأولى - اندبندنت عربية",
+        "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOSFJ2QVdwRnRXR3c2WjdjZ3JlbGhiU1BQSWRPRVpIbWJHaXBEWDgtLUlKaEhwbnFac1JoT1RtbDA4SVlwWjRQQVpBZ0QyT1RBOUVrdVBWZXEySVZFWkItbDdsRUV5cUJOcFNKTWpvaXNhRUpUb3pDYzJXQk9FZmFMYWNNSzNpWkVYcVhsUmh5R2RKSzZoM01mdUgzT0lpeDBsRkdtdFIzOFdCdTAzZHUzbi12TTV2dFc1ZHFIcVJUZkU0Q2pMcTRJSGYwN0hkRnVqbU11ZFcxQmlteFIzcWowNEtEeXdqb25NNEh2NElHODRkNWROVXFPd0NrTVdsYzl2RE5XNjZpZUVXUUcxNmZNLXh3Yi1qTnplSlB4UWdtYnRUTXNwb20xT0ZzOFRncGx1ZTFEcElJcGFiT2l2TmFMMHNxU0xXVHRfLXU4a1BndGcxRVdHY1FwcGZGeU5Nb2sweFJ5T3ExbTVvMkdwQW5tYUNR?oc=5",
+        "source": "إندبندنت عربية",
+        "trust": "C",
+        "published": "Sun, 20 Sep 2026 15:30:43 GMT",
+        "discovered": "2026-09-22T00:27:24.122713+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "طوني فرنسيس | إيران تنفذ مضمون رسالة مجتبى الأولى اندبندنت عربية",
+        "player": "",
+        "content_hash": "850733828ed83eef3e527b90714f8cd1bde99d695fcc757301229dc39e1bf3a5",
         "sent": 0,
         "section": "world_arabic"
       },
