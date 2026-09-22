@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T20:32:46.398614+00:00",
+  "updated": "2026-09-22T20:45:56.549694+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -629,6 +629,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 4248,
+        "title": "اكتمال صفوف منتخب مصر لمعسكر سبتمبر بعد التحاق 3 لاعبين - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM0FpWlRTeXdNejlBS0dhajBWZTBkZ0lNNWNrM3Yyc2Q3amlrekg5elhtdEJpbmotRU1TVVJ1dmd3RWdTVi0xdVhXTUdkS2UtT09FODhxQkprVS1NVEs3Z3dfekRFNXRyQmxhV0Ric2FqODJtQTQyT1I5NzBDTXAtcNIBiwFBVV95cUxPUVAtUHV5eDdZZGttdmhQX0NXdzZFdVpYaXc4NTdBLXpPRlYtSk52alhCVWg5WWJJdElVd1hmZ0dJVk9mZjVDY1ZUejNhUHJiOEJvZFp1Z3VBMkk5ajh3M1JmMjFVNDE0djhKZzlWUGJSQjhZVVNLeWZHbEVxdkpJUlRVRkctdml2X2tv?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 20:32:15 GMT",
+        "discovered": "2026-09-22T20:45:56.022760+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "اكتمال صفوف منتخب مصر لمعسكر سبتمبر بعد التحاق 3 لاعبين CNN Arabic",
+        "player": "",
+        "content_hash": "1bd3ab6f2d6e5cdafd73a4e9f46459632f5ea616b1229d17fac48dfcf269936e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4246,
+        "title": "حسام المندوه يكشف.. موقف الزمالك من استقدام حكام أجانب لمباراة الأهلي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxPZWo2NE10NnkySTYwT0hxTThDNU5CVEFUWWcxcjdoZ1ZRQlVzRjBhTGhyOWN1RU9EVzAzLXlDeTdMSFp0Tk51c2M4UlFlbjMybGQ5SUxpckxrYjY5SjBXQ0padWVIY3JyV2VHOU5za3BNckpGZC1mZXhpTExLbndKb29oNzJheXNuaXZ5TmFYMndDbEl5ZGNBLUZiZHNheHlIX0I5X1BhelV1QVBOMzJUblJPSG9icUIxSnFkUFJGbkJJTE90U1hJdnJSZ2RmVjY0U0lzenZUXy1WUGZaQXJFcnUzVFd2TWVtTHhMeFlpdEh5Nl9nd3VPbzRxR3ItM3pwbGdzN25kSzBUSUpLZ2huM05yemppamtxZW42N0E0UUR5YlE0T1pfcFBCaGEzaWJZeldReUdsMEdtdWFraWhyRDlMSzY3cnNRNEhHVWh0cUhFQWV4LUFNOVBHYjF2Si1TcVk4cmo2b2hBa1ZXcW5QUlNKZktqUkxIRGlzS3lMX1h6VE9WdkxjcVE2SUdMR3BTVmhfb0RySndNYTl3Y3dhaGtVaTFnQUhZcVlOYUw1NzF3Uy1SYlFOeFBNSXJuUTh0ODJvUngzWHBGY3o4ZUFOUmJMem4xVVRoc1dmM0FXci0tRENSajAzWlJEZ1o3LTJkSUNHSllIWjd6OHZqU19RUDMwR1RkSWpSRDVZRmFCYWxjdUU2OWVfdkNhMEJOQkNxU2J5V9IBqgRBVV95cUxQQmdGa21hQ1hYUVo4aXJDNUlQZk5iLVdLRnFFWThJUXY5UnhXb0hTc1VKbE1hSGNta3hSTFdTNndjbzNfNDl0TlF4UzlsNVpUM1RNaHplLUd0NGlUSUJsSE84MWZVaUhPdTNNMGVCYkUtSjgxSEZDSEJ3QTE3WFhQOTROMUJTenlFUVM4c3dTUmZheWN4WjVkazI0bFBWWHQtMEZfQUtJYjFua05lOGdFVGdHZ0NyYVRFejZfVmZtM0E0VW5NQmxSWHhHSl9mMlNmYm1vTXRwZVU0S2F5RG1RS2cwd0ZNR1JtdVY3SXZfZGNKVFA4S2NqTkNxc25nTF9pa0MyYlBiQTRUS19zVzVmY0w4ZDVMbGdaZ19MUUp2TTBja1A5emg4LWFnWFpHbmk3Rmpha3NSbGh3aXBLcjN1bnM5SXBhMndFVjk5dWt5WW1Pb25aZXJHVDA4NW91OUlIaDlWOUNwSzNqeUJLR0gwaDFJbDJnZHNHTDVEVHZQQ3dpZWU3UVpoZ3UwZ0pYYkd0dVJqS204clZydm9rczlfb09nSVBIc2RfZ3lBWE9ZdkNZaWdQUjVEMDJJVXpUVjhORGFmS3ZneEcxSG5oT2RvTTh4cVNtV1FxWFhFMHVZbXVlLVVadjhhTDFPYUhNZWczUTNyeDdLSkJwc0p3Y3Y5VWIzZXc1U0Q1a1hQNUVLTEprajFVX1EwVTNZRXNvU3Y3OVZWQ0JhZk9aQQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 20:29:00 GMT",
+        "discovered": "2026-09-22T20:45:39.476927+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "حسام المندوه يكشف.. موقف الزمالك من استقدام حكام أجانب لمباراة الأهلي يلاكورة",
+        "player": "",
+        "content_hash": "5a9fd330bde65a7039573cda3fb28e57c069d0ea9770274e2daf70d991567f71",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4244,
         "title": "سلة – نائب رئيس الاتحاد المصري: لاعب القناة تصالح مع عمرو زهران.. والعقوبة ستكون مغلظة - FilGoal",
@@ -1396,38 +1428,6 @@
         "content_hash": "a32ddaccb407cbe24c59a76c47c9ce899e525bffa22caafa583423d06e6574a6",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4127,
-        "title": "أسامواه جيان يتولى مهمة جديدة مع منتخب غانا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQZnI5b1VJb19xQnZaSnppZW01c1gyVVBJREFpMHZZbWNSd3dRVVFONmZmTzJUX1NFQmVtTEtncHR5QnRYNlhLQTVXdWphVGF5aGhPZ2F2OUR0c0JpWjFkdXIzVTlQOEs4MXNKNGR5eDNYZmFzdEo3SFlaMklPUjd1UFU4cHBRVHhTVnJsSVAxa01FOEdLQllhM3hibkdWWmtkczdNbktKMGQwVlFIbDlGNGdyU0xrRGh5SGpIUmplZktfdWFwSW5TS18zRXdjd0RBNW1od18xRVIwOFBpWEJGQUVwd1hxTGFYMkREc3doajh6UnFPdE04aTVuWDhucE5vXzlVVTZPeWphMC1WSVFZdGpYMXR2d1BkLXhWT3VQb21kLWtLNU9pVXFrazNYQ2VWN2hvbjdZbjJRRnI3d3lTRWJIM2Z6enVrNU5pYzAzN0NYY0taR295d2gwOVVYZ0MyRlFXa0VvdlJCZ2xUZVJfNER4VnBtVjF3NnJz0gGAA0FVX3lxTE01T1ZPUU1BVnJsVEwtQy1QUDh0c3VfVm9sYnl5a25WOUxLN3RRR29XRkZHUHlubVQxYllZZ3J6eWNlUDFPSk0wSzhkQVBRWTVXMGJhSm15R0Y5MUhWNWpQa0V6b0RWNmR6d0E3TXJLWDNyR3RGaW14OHdpT3NjdDAwemFobTBOS0ZzdU5FRk1XanVmdk40eXlkNm04SGhMY1hTQmQ1TGNZdUE2YWxxcXpZRC1jUXFBSFZuM0N3Ukxwek1FRmxwSWtPVGNncmpMaGY4WHNzR1RnWnBVWWhvZ085SU92bFpnZno5VzhZZFgtNEhaVTRaYTJkelR4UmhoTl9pZXVnX1pHSTNiNk1nTWRsWHBpNkFiaWdEVzkxbXRwNWxKd1BXelZiLU1MSVJXZkszWHAta19UWkpndWlIekNRdDE5OEFDQ2xDeW5FcmJUbnl3WGlQalVoNU94cml0LVEtdzJvdDVubHlmSkFXUHNiWTd0NF9EVXN4cTIwa3oyYQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 13:13:00 GMT",
-        "discovered": "2026-09-22T13:31:47.777267+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أسامواه جيان يتولى مهمة جديدة مع منتخب غانا FilGoal",
-        "player": "",
-        "content_hash": "bbf61f42c09a5895ecb5044028060e7adf033b41921ed7589296d10f146d38d7",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4122,
-        "title": "مباراة الجيش الرواندي و الزمالك - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxObVBWNlVfMVRGY2FFTUxOaURyTjE2UkxwbFNHR1I4ZFdFOG1fdEo3elhjWnZnTDNWbFY4YjNnMTY0UlNUTkEzV3pyRWtQbnY5NWxtWVRIbkMyVEM0YU9YT0UyNnU1bGF0ZDN6ak1JTE1yYTc1YXcyTVZuV1NxbndqX3pwZmlETGRiaGtiLU4tU29DUjNQWHM4RXE3bzFjLWw2QmZkM1B3eWM3RERjS09wT1diSE9pSmNHR2F3WDdmRk9nVmZWUDk1M0ZWVENNNFRKOVFWcF9CZ0JINXF4N2lsenFFZG1BbGY4VlVBck1CY2MzdDlRZzlnZ2hmTTNVWVRCV2JJYnlKVWs0TDlHMEVHZlNia1hYM0M3VkJDVzFiLTZUZ3lzTGd1VENyLVVZUUVkaWN2T0U0MzlyVHVDd1gydmJlemN1R29zRkxOSFlBRmhSbGQ3a3ZEOXBSY3FmNU5oZzFQanNJaXVvQWdKMWhiUHRWeUpqRGs0OU9rRmM4Q0I1d1M0N2dmSHdkYlhSam1lbHYxRTJpdjNWcy03anFr?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 13:05:13 GMT",
-        "discovered": "2026-09-22T13:15:44.538817+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "d328289cdd62113bbc32583d35e4d975375c12ed6338d6e80217ea74e20be44f",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1572,6 +1572,22 @@
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
         "player": "",
         "content_hash": "940348ff9bfc58af1d25af268229639081f8c109eb57ae92abf5b8520e70b715",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4247,
+        "title": "\"محتار بين إبادة إيران أو إعطائها فرصة جديدة\".. ترامب: أتوقع اتفاقاً قريبًا وواشنطن الأقوى في العالم - Euronews",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTXNrMy04ZlR2aXdOOUxSSU5TeFF1THNhV29Fdi0yNG51VEJXdmxGajVRX0VsZ242OTZjOVRCaDFaYUtzenpueWdmcEtfaEgzZk5SMERiNk9hSTNVaklsdG5hNGRtT1llU0ZKNEJLTFd3eDlvcG9FWlRibGxDX1U3NkpsVl9PeWR2eTctdWI0S1lLX2w2alk2bjFXZTd1aGVOa1QtUUN2ZjVWb0lfbjFpN0xDTEVsYzZZYklLVmFuSGpVRDFLY0E?oc=5",
+        "source": "يورونيوز عربي",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 14:34:36 GMT",
+        "discovered": "2026-09-22T20:45:54.478129+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "\"محتار بين إبادة إيران أو إعطائها فرصة جديدة\".. ترامب: أتوقع اتفاقاً قريبًا وواشنطن الأقوى في العالم Euronews",
+        "player": "",
+        "content_hash": "76b568d2e73d76fd4f900022a2775ae865bbf7d59f4fda5f2494fb62ea74bdd2",
         "sent": 0,
         "section": "transfers"
       },
@@ -2278,22 +2294,6 @@
         "summary": "وزير الطاقة القطري: لا استغناء عن مضيق هرمز في نقل الغاز الطبيعي العربي الجديد",
         "player": "",
         "content_hash": "efc51101d103453b9a3bbdac59d05f4b930d682ecd7802c98ea3ce1a2f9971e3",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 3768,
-        "title": "وزير الري المصري لإثيوبيا: النيل ليس ملكاً لأحد - العربية",
-        "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPbm5BWnhmdXRUSG01TFpXeVlRYnVaOThwN0ExTXNheEotbXd0QlhyaVA2NWpGVWRiaEdEWXo4MDl5ZGN4VHRvRUZhWmdTc19xbTFvUGZTSW1jUkFJdm82RElfRTNKYWhURTFrSzFicVlLRWViR1ZOcUIweU5OdXY0YVBlS3JzQXRybTlIekN0MnhnRm8zYU1YNlkyOFdBdXlOZC1JaWNDUzRmVHMyRVo1c0syR3BFTWl4cWNaOGZqbVBVOUpDWVlwVWRCZFM1aF90VkxBT2JnUWliS1AxYjNpcTdZZHBoeF9NQ0ctV1hZWTQwUHdldlJseXV1UklkcUxqUEd6djF4akZ1LVhVOU9adHNsbUZTZ05qZlh1MXRzVHBHQkRMdW5qT3ZaWmJVdXhyRGh5YXd6dWFUWEhKcHJDSWtvcm14MnNYQjJoTlBvb20xbUFTVF9vMGtsSXR1a2REQUVGMFNmWnhrSmNWLW9fanUwaVJ6VVFkMEU2V2Q1X0ctdldSenlVbWVaQVVfZ3RjYVI3d0dnemJrZ1pJdDRINzIwb9IBqANBVV95cUxQUlZsX0VFd056WHVibWVVR0xpN0NHOXo3ZjVMYVk4XzdodkpUMW10UzZhSTNLVllkWnBsY3hOVHFKemN1ZG5aXy1rdUxmeTZSakowRTdyRXp3ZmtaVnBWNmViaXFIbGE1MFFtZ2RvSG51Ty1DWEcxZDVxS0V6MTZCR19oNzExT2NhdDV3bnRFQTh2NnlIQ3hOYWRRdmpBbERoTExFMW1QakJvSDBlMnJ4cEFNVE9zdmwxeXpsSzI2N011RjZsaVNfZ0tuTWN3RFpONXhiSU5uWUxlaFVvdy1rZEhxUmpFRm5MQllkbHJOcTg5QmV1VjQ5bkxWYlI2aF95eXlTMnp1RGpmMS1SNEhibnlTYTN3WEJHaG5ZLXlQMnlCR05GaE1oXzA3WEs2ZS1fSmNibFhUc0VOb1BvWm1aUW0wRHNtYi1aSDJMWC1tUnctTFNPNndQNEJwekJ6bmVXVXp3cUJDbUNKa1JpRHZjazh0NXJEaktRUlNOaVBSUURhcV9XaWVZOXB2Ync2aDA4dUNGdWJpT2hUZ0piQlJVRk1pMDhVUE1G?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Mon, 21 Sep 2026 09:57:00 GMT",
-        "discovered": "2026-09-21T12:38:45.734614+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "وزير الري المصري لإثيوبيا: النيل ليس ملكاً لأحد العربية",
-        "player": "",
-        "content_hash": "a3558fe1244e0500148517a9128672b76f7ac85abaccb4b631a7754803cdd127",
         "sent": 0,
         "section": "middle_east"
       }
