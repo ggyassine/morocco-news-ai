@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T23:53:22.584342+00:00",
-  "total": 141,
+  "updated": "2026-09-22T00:04:24.159230+00:00",
+  "total": 142,
   "sections": {
     "morocco": [
       {
@@ -2038,6 +2038,22 @@
         "summary": "بعد 14 عاما.. برشلونة يهدد رقم ريال مدريد التاريخي في الليغا aljazeera.net",
         "player": "",
         "content_hash": "7f11da4600dc411b17af4b1a88deed39b3f04dc0eac304eb4f41c9e04feb351b",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 3984,
+        "title": "استطلاع: تراجع شعبية ترامب يضعف الجمهوريين قبل الانتخابات - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQYTlVZ3ZJU2JEMmd6bzdwNGppNjlLOHlhV0E1R25QODNjQ1VOck1WN2tlam5zdlZuc2txd1ZWN005SE90b1VlaFNkcHQ2UHZIRXY4b2dfeGxBZkU2enJWSnA5bnVPSF9EaDBYczZUbFl2dkEteG9la1N1bEZzUzA4bGktS05tb2piWjVSRWNsMUhGVnBGcHdJNURzajhYMUVWeEJiZXNCbHhTc0F4Yk9kRXdIamFaaXZQR3Nxb0tfS2Z6elctQVZVbjFaTV83c1BSaVdTQXFtSHVJb2h0d3I2N0FrdlFjT3pTLU1iOE5sbUJFdWl4dnl2cDZMTVhDQ0ZSRFpKNjZOOHBONDBDdWdvRGFHNmJ0WFhFMzdGUzB6cFFWRTNIZ19LOUtMR21QTXFuQ1ROWVhVVUtvVE1PeE5RWXRIYl94Y0JzNWlyaExkUGotNE1weFMzV3FTM1QybG1OZnVIMFRSRUx1ZXpjd3VVaVlTdTVab21lUmxNNEs0Z2FFbm1BZTNIaE1nOFp3VG9BX3l1VDM2dDlfVThBUkh5QTBkRDVqdjNfem1DV0lJcjBRU0lfeFNJak9ONFBQeGhUUTlXMl83RkF4OThEdXdj0gHUA0FVX3lxTE0wMENPYTBqYjZnRGllM2U5UHdtNFgtQlg2enBGbkFMSlNDeXpIZlhOSFNaSjVkdHdCMGE1dU9CcmhsM21UcjdCT0h0ODFGR0VyMndIZEsycFZHRjF5MUluakZ0VHgtOEJHRmg1ZXVtUkRPVmRYT2xzbVQwMlBHODU2Szl6SWxDZ3VQQVhHMmxmZ0tJV0RVVE5kVDR5WVNRQUVpSFN2UFdpRGlhRmd0T3o2WmlHNW9zNmJ1T09lclh1V2V5ZC1VendRaHhkSFNXRUN2RTBfYjU4NGtkWUYwYWNpYl9PaTFNQVBIQ0ktSjlUTEItMmFCNTlnQ0xocG5PM05KQmxsUTVGZERRb25nWDZNeTRxZmJBSm5rbnBfODl1dGVucHVHeUxTcFpYeFhINEM5ei1ra0k4R1k4UFlUY196dTJPdjZoekNYcXdqcFlhN3FOSHB0THNsdjBtU256SGM2SnRVOXphcWRoM3ZETUs1QWExU2R2U0xWamFTLUxzc2tEMUFPS3F5M1VJLWtZT3VvajZTdmVBV29zSWhvclJYdTFuWVBKYTZnOFY2QjVlbXp4d0VTVUZ4cXlrVVlzYkZoSDNqZWxtNE1maUJhMHljVEY1YQ?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Sun, 20 Sep 2026 21:32:24 GMT",
+        "discovered": "2026-09-22T00:04:16.156130+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "استطلاع: تراجع شعبية ترامب يضعف الجمهوريين قبل الانتخابات سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "fa3f4213d858f9aebca101c1bc57c305ec0fc57426431a6ea60b2e99b939ce45",
         "sent": 0,
         "section": "middle_east"
       },
