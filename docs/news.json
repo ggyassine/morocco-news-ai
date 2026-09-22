@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-22T11:33:33.501276+00:00",
+  "updated": "2026-09-22T11:45:56.083443+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 4099,
+        "title": "1.26 مليار درهم لتحديث الأنظمة الكهربائية والتقنية بالملعب الكبير لمراكش الفا - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mcFd5eU9vZFJZeVZaTFB4WGhOdFZyLXllcWd3NGpIRDkxMVlGNWZRNUxqSDdTR241b2Rib1lVMW16YklxVnVpUg?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 11:32:33 GMT",
+        "discovered": "2026-09-22T11:45:33.276048+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "1.26 مليار درهم لتحديث الأنظمة الكهربائية والتقنية بالملعب الكبير لمراكش الفا Febrayer",
+        "player": "",
+        "content_hash": "e33933275de679f2f6fac573a2ce9da803bd43b01640ab082d02c5ede5560d04",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 4092,
         "title": "جيل زد وانتخابات المغرب.. هل تكفي الوجوه الشابة لاستعادة الثقة؟ - BBC",
@@ -2392,22 +2408,6 @@
         "summary": "طوني فرنسيس | إيران تنفذ مضمون رسالة مجتبى الأولى اندبندنت عربية",
         "player": "",
         "content_hash": "850733828ed83eef3e527b90714f8cd1bde99d695fcc757301229dc39e1bf3a5",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 3787,
-        "title": "قتيلان بهجوم أوكراني ضخم بالمسيرات على موسكو في اليوم الأخير من الانتخابات التشريعية - France 24",
-        "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxQaHF0MHlDZkNYX3owVmpINmN6Mmd6a0hJczlMQWFtbGZ1LUtjTXBEaDVWSTJ6el95aV8yNHF1c1BoYmppYTF5Rnk5TFZLNmM4MmNfd19jMTQtbzlZUlJpa3ZNRGVOYnh6VFpLWkVTeVBNaTJNZTZwMzdJNTVtVDhZVzEwOW1uTFFJN3luQmpzdHlOSk5yWkhvSnMxaVZLWEIyUklpeWdkWFlDYS11MXJOWF91YmNfMkh5U2lDVmZCcE92UTdsdjI3Mk5zbjY1aGlXUW5jcVdsWGktMTVDWUNIRG1JTmF3UU1rMFR0TDNVaWxMeTAybU8xZTFTcHU4T1pSZXVtVXBUcncwVXBnbHh2RDZwU0szNHNXY051NFE2NkFnT3RhcWdfR215UnNaQXVSY3p3UFB6VDZQU0pSOEVoNUc4X2hUZGZubWhQVTNkZ2xFRW83bkdJZGlkdkxCMzNQVm9INl81OTlvUGRjY0NFb0E0WldKYlhjYXVVTkQ4ZF94SnlPUlZUeW01SjZpRU5VMkhac1Q5NDdHclNRTHViNWh2OG5CR2pUa3dpUDlabGw2RWItOXRicGRsaEo2LVA5VHNSdjNTRlR2WERyY3ROS0lycFNCUi1kbEY3aklfaw?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Sun, 20 Sep 2026 11:24:53 GMT",
-        "discovered": "2026-09-21T13:32:31.120791+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "قتيلان بهجوم أوكراني ضخم بالمسيرات على موسكو في اليوم الأخير من الانتخابات التشريعية France 24",
-        "player": "",
-        "content_hash": "f1e1cc78de9721baaa1946f52fea666f12ffbdc217e445dbad1349abd92b5e8d",
         "sent": 0,
         "section": "world_arabic"
       }
