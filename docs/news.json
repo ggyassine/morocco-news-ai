@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T15:50:03.207650+00:00",
+  "updated": "2026-09-22T15:58:43.097599+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -661,6 +661,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 4167,
+        "title": "كأس مصر - تحديد مواجهات التمهيدي الرابع والمؤهل لدور الـ32 - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxONFlKOXJXQ2QtV0Zja1V4cUdZdEtwUjJDNURyWkI3Y0xkLXFXMHVZNldDdUdSZ1o2djFCVWpqZTFFWm52NEdsX0hUQWd3dmNWVUhyN2ZqUVNiX2JYdTRoUVppRUNUa1pqemREV0RBRkljZF9fRHNhVnhoM3JjSHo1bjNabElKYWFlUVlqZ00tLWdSejNGQ3QwbldUVTE0TzhiYjY3RWtLWktnRVRqSWNLakd6djcyc25jN3dGUDhoMjF2eDluNmFkbmt3Mm1HR05ac25KMnVUalpib0FOSm83NU9rYTlNWG5rVlBCQl91UFI5b3owMV8tWVZnZU9BZncyRERiM3d1WXZYZkFHdjhXUFhjMUZ2eUZsRGxleWwya0NBcXpFRW41QlR6S0tjMENqeXE0T2p6eWY3bE5DNnM3c011QUhwdndVcDU5MlJWU3BRWUpVYUZBa0NuODNoQ0o5MnRndW9ralBuTWxMUVA3V0FPa1lOT0htRldneE95ZTZ6MkNLUWlXWURwOUJkdlJtNk5aYXZ5UVVFMDlWMGgyUlY2MFcxYWQ1UGRSeHc5V0ZLak9hbTVhYUdqNnYyZVA5RFlXaXpnQ29sZjFvWVlmRXRhZXNEWUVxXy1KSGZkdG1UbVZ1RzRRNGM1TdIB1ANBVV95cUxQcGd4cHg2dGNZQ2ZSQkxRRVdiZWx1MVBBaTU0eUNsczhrNFdXVUV4Mko3Y09NSEhCejh0VDBVT1BUNUxGU25nbEkyQU55T1NORFctVEJYVUpETF9reDU2UFpYM0xUV25yQmU0eFVMOFF0SV96WWxGV1pnYVY3V2Z2dFpTcEFydDZ4VkV2SGNYbkZPNUd3QkJkNldjajNuZkJOMVNJak5LY3dsVDBtcnh1NXdxUWpxVWVqbkg5QWxucmVHVFl6T1RYVnRIcUNhOU5GM3BiWFQwRVZxaFpsSlBYZXE2bzhqMU9VQVpLc3o5VjJXLWFyVU9tb1h5eDVoZFNTWlJyejdyRXlFYVgyV0NUVE05TFFtUW9YTzZNR3p5cnlEQ3BNTWc5bF9YeHg0RmI0TFZ3b01wTkRIanFTM3UzVGx6blhJSWc5Rk1uOHdjVThXdGpPemUxOWozNDNGeWl0UzNkc1c1YUxmQW5HQzc3eGdsdndKMm5mSS1meDlFaER6YWxtU0IxcDJiVTk1TmVBZWFiWlFRRUxfb2dEU1g4V2ZBbFQ1M1pXRFVWaENlamYwU2pDbmlELVVQd2ZkckM2eFhmc0pMY2pob2hPOTZGb3Q1anY?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 15:48:00 GMT",
+        "discovered": "2026-09-22T15:58:26.295648+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كأس مصر - تحديد مواجهات التمهيدي الرابع والمؤهل لدور الـ32 FilGoal",
+        "player": "",
+        "content_hash": "bc8b941d56928f4f5f4cd44cff44037bf50810cd2bca601fa3fb490a33d988f0",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4164,
         "title": "ماذا قال عن المغرب؟.. عمدة مدريد يدلي برأيه في قضية نهائي مونديال 2030 - kooora.com",
@@ -1442,22 +1458,6 @@
         "summary": "جدول مباريات اليوم - 22 سبتمبر 2026 - بطولة قطر 2022 FilGoal",
         "player": "",
         "content_hash": "5727d1648a47be70be886447a76326e70bd9422defcb438ad550eb012de55e26",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4069,
-        "title": "جدول مباريات اليوم - 22 سبتمبر 2026 - بطولة الدوري المصري - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVG1DSkY5YXEyajc4MHEzUGU1VkloREJ2dXBLWXVwb3hqSklBQU9VZ2tTVEc0ZkQ2czB1dVRlTzlILVJkdGNwR0M5aURoUjduc083YWYzdXVHcFNrd1k0ek1IZTFzV0NkN180RExsMGlYdEd0d01lbVhQbU4wWGtVRUFrVlJWa2hYOExMU01fMklJMzdjRHdHcTFISFJVNG9CdWpOTEpSTkhyMU90aU9aUDhiYWxFXzcyX1AxUTZITXNvaFp0UUxCRDFteFVzRmJLVWtyR3lYWHItVmF5VEx2ZGVuQTBnNFJoek9MTGNwdm9pZWM?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 07:53:39 GMT",
-        "discovered": "2026-09-22T09:47:34.190481+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم - 22 سبتمبر 2026 - بطولة الدوري المصري FilGoal",
-        "player": "",
-        "content_hash": "9bf221e8afe36c79be9bb7a7dee1b40c2b7f5712f0fc530f53cd46589dd91574",
         "sent": 0,
         "section": "sports"
       }
