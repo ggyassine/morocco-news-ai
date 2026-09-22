@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T15:38:59.787829+00:00",
+  "updated": "2026-09-22T15:50:03.207650+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -661,6 +661,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 4164,
+        "title": "ماذا قال عن المغرب؟.. عمدة مدريد يدلي برأيه في قضية نهائي مونديال 2030 - kooora.com",
+        "url": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxOYTIwbTZGcTQ1eElhVW1MdWtBRjQteWZDbW9abnAybmtJVUg3Rl96NmxtbVdPRTVveTR6b2JRRWVkNkJJemg1MHZ1R1c3ekR0bjJpYzZDWndCdllPb0VkU1Z2bW1OaVptZmd0U0lGMjJOamhMdXZ6czJtdWREZTlIZUtVYWlJUTlLaEZDaWZrcGIxcUZnT2ZMdHFZLUx2RkNnZW5HeWNyUHl4UUpoRU5uOGhhQXhiVnZxQnNNXzI3UGZEaGFTV0pVYS1PMm9NRU5EMjJldFMwOEVCOXQtdE5hUXNZZGRHLWVQV0tYeTBpVlR4VkpQV3VIMTl2QlBodnBJVlluUVRWTXM0VHpqZ0JDWnJLdVRkVHkxUndJb1BIR1BQQmhkVjFvVjUwSWtaaFRwaVczb0o1eTFyT05ybUtrS3ZmeFNXcUg4dmxvdXN0UzFZTUk0R0U2TTdrSVdRQnhsNE4wOVhPeVRpeTloMTJmZGZfaFBwRmNYU1FhRTdSUXVHTlBRSHdLUnVPaDBiV3lRaElJd1VzMXhiR1pzME5JVmJvY0dsajlqOEZpZTJXckEyNjZ0TklsNjduTHVDMmtrR2k4RG5JOEF6MU1Wb2ZvMFNjOTJBOG5JUVR6VERtSjB0RDlUOEMwcEhUWEJ4UFRPVXdDaVluYkV3QTYyR3NidE9yUXJUWU03cC16akxJaUZ3YUNEQnk5eG1LYnMtTVlreTlPdWhyZE5raHkzNzN5M19WOUZOcXlVMXdxWGhRaWZNajg3MDUtNkd5MUEtTHBzOHlNNm1NZFl1dWI4OVNveWQ1SmRBWEVnQUhPUnliQmc?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 15:41:00 GMT",
+        "discovered": "2026-09-22T15:49:35.414638+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "ماذا قال عن المغرب؟.. عمدة مدريد يدلي برأيه في قضية نهائي مونديال 2030 kooora.com",
+        "player": "",
+        "content_hash": "08e4de26b014261298c81a9d8afd7d281e1a475250566a6968590c3a4c6cad66",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4162,
         "title": "الإسماعيلي يودع كأس مصر بالخسارة من الرباط والأنوار.. وخروج الحدود - FilGoal",
@@ -1442,22 +1458,6 @@
         "summary": "جدول مباريات اليوم - 22 سبتمبر 2026 - بطولة الدوري المصري FilGoal",
         "player": "",
         "content_hash": "9bf221e8afe36c79be9bb7a7dee1b40c2b7f5712f0fc530f53cd46589dd91574",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4090,
-        "title": "جدول مباريات اليوم - 22 سبتمبر 2026 - بطولة كأس الكونفدرالية - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUEo2WHpabmdTYmNXX1R5U21mdmdKU2NYdEpRM3ZWNFNSdmc2LTZOLVAxTVlEYTlyRWwxcE15Ym5KS1h2VWV4dmtBakZNUjRUYld0SDVzM0o5eEZuUzVrU0paWGp4TU44aE8tTUNUMEpEODRycHZJU3Q3SWstZkFqVkt2ckVfdEVDSzNsakRmZW9MVElQZk5LaVZGLVdVZjEyc3o3bW5hWGF5LWFnMjJ6RTNsdXZRS3lPVDFkQ0NlMThMNWlSMnFHNzZQbjBoQUFSTDBQdjJWNVgtUHBYUHdBdi15dlY4R05ScjlEdk5vS2hGTUkybGRwa0dwZ3E0SzRxaG9DMjRFYmZNc0E?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 07:53:37 GMT",
-        "discovered": "2026-09-22T11:03:48.579857+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم - 22 سبتمبر 2026 - بطولة كأس الكونفدرالية FilGoal",
-        "player": "",
-        "content_hash": "5b23c4483be117349f90d46671e2e776bb0bfbb05d3d3c3a9ae6bb142ce157a4",
         "sent": 0,
         "section": "sports"
       }
