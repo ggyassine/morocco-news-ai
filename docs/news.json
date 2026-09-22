@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T21:07:52.371692+00:00",
+  "updated": "2026-09-22T21:21:23.806448+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -610,6 +610,22 @@
         "content_hash": "b6e2af3d249b500eff12cb50859e87346b4aec25c931370492e8d8c391906fa8",
         "sent": 0,
         "section": "morocco"
+      },
+      {
+        "id": 4102,
+        "title": "الشارع المغربي يتساءل حول القدرة على تحقيق الوعود الانتخابية - اندبندنت عربية",
+        "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxPMnY0OE1MV29rQkRVVnlVY19SRDFxY25wbFNNUlRDZHZKRl9TQ2hNZEFPeTR3NTVDbGtObzlvVWxyeHA5Vk5ERmp2TmI4cFpUYzFjZk5GczYtYnZ2OTktQ3ZIQWkwSnJLLU82ZTBlQzhiT0JHUlBXa01zSmgyLV84TlZsZHFoYUpwQzM2dW5XSXBlMDd6T0Iwemh3Qkl1MEpQZ2NPeUZrTmQyaXNTd1FsNmotYVlPQUttbzJpbHRwS3ctOXU4TTVwRjhuenJkZUdyWkg1RUx6dGhPdk5oQkFySUxzTFp5bGxWOThHcUhoYXRMXzBhUGl5Vzl4Tklibkd5MGtIN1dNN1J1Rlh4dms2Vm5sYjBrVURvTmVRU0tlOTZPYk9meFJhOTRERGJYaGk2LUJ2a2k5SlFqY3ZqYUJxcWctYUwyRldLTk1lT2FtWnl3VW8wak5rTVU4ak5tWjNBTmszNkEtc0RHYlFubGlYa2dEdzczUV9SWjBuaE40Q1ladENFdWtoNWVOOEhWeThuYi15eGI2RFQ5SVJnOWVaQjNwc3JZNFVISldJWExKcTdGX0s1cXBDeEdiX1lWbEtDTjBPTUVYZmV2ZTVmcmpnbnBRWkxRUUJxcl9jd091RE5zUk12bFBaNkMwT1AxM0lacTdwX0VZb3paMlVBek1nbHJIakUxLWRveGY2cFd6Z2pISUJwNExqQXBTNFFZbVc2dU9CTEIybkpOdi16cGZweWdnRXdXVm01OTM1MHFINGVNeUVmaHN3WEw0T2lHQ29WR2kybW5aVWJBOU8xRlNN?oc=5",
+        "source": "إندبندنت عربية",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 07:52:02 GMT",
+        "discovered": "2026-09-22T11:55:03.101946+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الشارع المغربي يتساءل حول القدرة على تحقيق الوعود الانتخابية اندبندنت عربية",
+        "player": "",
+        "content_hash": "8eb3b8b9012f35af14361f0c3d0153dba7f7ca6a868660e1e6a9dd65d29db813",
+        "sent": 0,
+        "section": "morocco"
       }
     ],
     "sports": [
@@ -626,6 +642,22 @@
         "summary": "جدول مباريات اليوم - 23 سبتمبر 2026 - بطولة الدوري المصري FilGoal",
         "player": "",
         "content_hash": "3b78cd5b4e1be379a0657ebb186e3922805aff486eae95ea49c9e0d3a940476e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4262,
+        "title": "قبل انطلاق خليجي 27.. فيفا يبتسم للمنتخب السعودي بتصنيف مبشر - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQZWdHWFhYblZSX2RXNXI3a0l0c2JCTldFMXo1Y1lpUkd2VC0xRm40OFpfbjVYUi14MWtBRWVNU3RfZEhlcHQ2ZEF5R3AyYmMwM1B3N205aWhybEhXWW1JMGQwUlNsbjY4dC16Zlk5cEF1c2JUWlJkUGZENFc1bUJzdXM3dk5zc01KNnB4ZjFvRnVXeEJjc3BoOTNTTlE2Mm1iYTdLOTA3ekh3b202UVRxdVFMMXVKdFF6ZUN3eVE3akVzTDQyWmxZbjVjallwWkFJOUVjSk1tcXRsYlVmTW1tUFhNc0txanFXNENDUFgzVjdsenJ0bHZNeHFsazdNSV9PcVA4THU5QVV1VmJIZWg0Nm52aWdtTi1BYTZRa3h5VXI4MzdvejRNUkUxTWd6MDNBcF9mY3MwanRQdkd6RHVZR0ZHUHRsMG41bVNtSzZYam1ZLU1nT3FUcjM2MA?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 21:04:11 GMT",
+        "discovered": "2026-09-22T21:21:08.337051+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "قبل انطلاق خليجي 27.. فيفا يبتسم للمنتخب السعودي بتصنيف مبشر 365Scores",
+        "player": "",
+        "content_hash": "7ef332cdcad6c812661275596e917a6b48e6a041b205cd63e03340aee6ab6784",
         "sent": 0,
         "section": "sports"
       },
@@ -1078,6 +1110,22 @@
         "section": "sports"
       },
       {
+        "id": 4261,
+        "title": "مدرب الأخضر منزعج من «الطاقة السلبية»... وسوزا يرفع سقف التحدي الكويتي - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMikgVBVV95cUxPcHhZdTJsN2pOTTVZelg0SkpadHVmWjdOWU54dkNXM1QzYzgySFhLZllLMEQ3X0pJUklaZDl2Wkc0MjUxQ2VIZm4ybEROcHFrZ2FrcW84c211RU56SlY4NUlEdVBYMGNxZjFqN1hRUl91QzZLSUdjMndjQ01PQ244QzV0MjFNMHY5VVBGN1d1RUl5WENaRXI2UGpmUVVPZnJfazk0Uk0zc2VtdEpOQWtmeUY3eEdtUzFaNXh4UXIyMlE3WmdIdDVvZmktamlsSWFMbEV4VnUwVDI1dUdyMnFiSmpaWjBLUzNVRkZjZ25CVkRGeS1nQ1VFVnpUckRhVDIwWmxZSVFqOVdSaUhZSnB5UTU0MVlvSV84UXRpVE50WlVYOWpPVjNLNzhwSVVvX2ZkZFNXNk83Z0JBaHpaRGdnZVZHRkxVUk1wV2VTU3A2RDkwMHdSUUVWbzd0ekJOdjBOSkEtM2V1VHVLcnFfak9QblVjM2RXcGpEMUh4YVNzLS0tNGl0c1R1MGZJLW9kM0JnY0pGdm9rRGlrWXZQZ01SU1VWaUpXSG9kV2JWVnQ2RXBnTktPRmpqS0NRTTUwelJoalk2ZzlfS1l2aWRiaTdMbTlOZFJ2aFVYeVFUbE1qVklkY2E4S1pKLWtzOWxoUVFGc1V4UXRVcDlLYWVFN01GZkNBd3VTbXRHS0owTmlmNGRxR00zOWlXcUN0dk1wMjFqWXRIQUhROWJIX2ZxS3ZqZ2RZbGcxSE1mMTZVSS1lc0sxTUhhb1dIT0lIQmNlZjdtRkppaGN1UmkyTGxXMzNERHdUN3lQZDFPWVZMaGtzakdxbDhVb2JRT2lZdEVvSFVWZTJDazIwbmk5VXZjVUQxeVpB?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 17:46:07 GMT",
+        "discovered": "2026-09-22T21:21:05.090416+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدرب الأخضر منزعج من «الطاقة السلبية»... وسوزا يرفع سقف التحدي الكويتي الشرق الأوسط",
+        "player": "",
+        "content_hash": "2e1b8f9cff03dc52d5effd1ee63eab79007c9a61a76f245fec3075102e3304f1",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4241,
         "title": "الطريق ما زال طويلاً.. تقرير يكشف تطورات حالة دي يونغ لاعب برشلونة - الشرق رياضة",
         "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOcU5ad21LVEtvdlhacGdLdlAyVUZvSG40cDN6WnRWSFFzenpwVExpNnlTeFNKMUc4ODdfZ180eTJhQ0RGRndxckV1ZmdoZmV6M3R1U2JFX3NTZVplN094OXctdEVMNVhSWkZNejJBNDZVZzc2dGhKR3JKUEFfUmhzeDhrLUp2T3dZbGJIdlg2NEg3Q0cwVm5PdjNvdk44SGZnanNMUDg3Q0RaRTFDUVVMSnZpanAwSjlhaG56MUZxeldwSjdqOFZleXpXaHp0di1nUmQtR1ZZV1V4Ym1wb09HeUFHUi1lZkxmTXVtOGxTLWtCV200M3VXR1B0cGVpTkJCWnhnZi0tSjROSVBvWlJBYm1XZ0wwaTVBVVVhcGFrZ0NrLUpFbi1ZZWpDeFlWNWczNlAyZ0lHaHFTM0hhNFR0clZvWU4zNmQzbFNjcFM2SFlnS1lrb3hfTkFwRVJUZjFRRFhRZ0xocXVxVmd6LVI5M1lobjNqSWJ1R3UzU3JBT0ZONTVCdVRpN01TTkJDNVVJY2U0QXY1NElvOGJGQ3p1VDJXUXB1eFREOGM3OUw2Yw?oc=5",
@@ -1378,38 +1426,6 @@
         "summary": "\"المباريات الكبيرة تصنع النجوم\".. الأنصاري يحذر الكويت قبل صدام السعودية 365Scores",
         "player": "",
         "content_hash": "a6b59cfccaecd993e00a31033a423ec79a68fb31382d16942673771af7771971",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4152,
-        "title": "جوردون: جيرارد قدوتي.. وهذا أكثر لاعب فاجأني في برشلونة - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxOMi1STlB0eEJYQkVlMmJWc1B6aXZNODFFZnpsX0VKUnRobThwdUFmMXdiTlJYUmpUbFlhcGlnV0pRX19TMldjZnpKdk1PbFBra0lEdTJDbU5fRTdHSmRJZ042OHUwQ0ZlWTg3bWgxejlHdjBXRGdrMGk5QzFnZ3FHQkJKQzNYeWNYeGMwM3p1YnpRZjl4Q1ptMzFna1k1SUxaZkUtSXZuRDdhRldVeWJ2eGZka2Z3aUxJU2o4eUNUZThMTlhQYTYtb0RRdE56UzU2cEhNa1JaRndqVG9aZmlENXVKSU5qZU9hZWoxNmVJWWpJWWwwZkFtQi16WlU3aGpHVkVVd0RCU1Z1aE0tQWNENWIxUUlIU2lEbVhMZUxhZ3JYM1VkOGRkWXJvYVBwa3B0V0JwSlZkSXRTZGFnTWx5QTAyWVF5Y1dGdTRoc0FQZTRaMkZ5aEVja1d4LWhGWkJpOHZZMlRRNlk5N3c2dDB5LU9DZEtVck53WkMyOGFfYm5HTnpCMlRqdjFhaVRwYkhfc3d5WGNPQ2U4YmFIYVpGdnJReVhTSlVlNjdMbk5BcUlIYkFCTDlWaTNRNDZLaW14QVBoLVdYTVM0RWN3SGFza3piV0I2dURkaTduLUhEYXM0eGFsVkdjZjR3Q2VmMlN3ZDZCc1J5aGFrNnlnTnhYWnFSaXJNcG5PQ2E3UmZoZGg3LW5PdWx3bWVILVVMTlpzVlVrMnpKZ0UxZnJYNGc?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 14:51:01 GMT",
-        "discovered": "2026-09-22T14:56:41.076006+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جوردون: جيرارد قدوتي.. وهذا أكثر لاعب فاجأني في برشلونة Kooora",
-        "player": "",
-        "content_hash": "28065215e8dd1eb03ce7e9d1547a99710a5d29ef6bb548f9c608498ee223fad7",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4159,
-        "title": "قادر على شراء ناد.. أغنى لاعب في العالم أصبح حرا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQYjJfUU9hc1NuS2wweGZQcVg0NmZVUkpCMUtsZXVWSnVpSnhNWGZZYlFHUS1EaEEzNTRaejhGV2RSdGhzMnotOHhQd25OSUJEV21uNkQwX3oxSXBObFA1SzFpOUpMcDFoZTQ4VjBBNXpmanJaWXMtRGhTd0pCb0wtaURnR00tazRNOU5xcFVyQ1VxVkgySlJXRDZxTWt1a1d1VmpiTEhuRG1HaU5kYlBROW9Yeld4ZXJRUEpiXzRtWWIxQm01eG5FY24tQWZPY1BFQ0xYRzRPd2xhN2JzZnRydXlsY1lmN0szXzFGN3BtRWk5TmZNdHQxMGZjVWIzZ2JGS0hNZ2VuWlctSVNHcURrbHh3ZHgzVUVpbHE5UDNtYy1HUEMtb21yOWJaZkF5ZzZzdGhBRDE1Y0NaWTl4YmJoYi10NThOZ0hacElvUEs5cFhYQWdLM3hydHBablhScWhrOUU1WVE4SndWZmswYTlrem1YQlR2SmpjcU1vVzBKb3ptVTA0RWJTa2l2SWVSdWhQQXVQb21XM3UyNzdMZlZkOXdTdTdUY2vSAawDQVVfeXFMTWVkdEZIQnVISHI2VkxqQzIwMktUazE5WVNWQUt6SXc2ZWRuNlN0ZXZxNlZncTQ5YXJEN3F2OUJodW0tWk03alJ5dkd2MkE1c0Fpejdrcl82RG91Qi1nTHdHX0l1VURyR3JqTmIwbVFFUmxnSTNiQUhsdjFhdkVycjVHX2tjWEp1OE05cGREVXlTQU5DeUhmUEJ5dEtPeFdqV1BnNFp4NS1sN2lZSWpmSlpUMUFOSmlZRmtpd25FTWkwLUhYaXNXLUVtMXpjSzZTaG16N0VhR2E1MGxwNm5xNks0X2c5Q2tSRjMxTTBvWHNiX044anVyNzVNcGp0RlNhNXZUM0c2VmtNamREMUduMDMzSDNWczRjX1ZTUzMwRXE5LTBSeHFjbXMxMkM4cnowYnhSUGFyaEc2ajJIa3F0MV9ITmlIaW5SdWp2bmM5WXRPWWh4Y3R5Q2JDVFU1dnpQT2RxLTdJVWpaU3l2clJBSVNxcVFNNDdKcmRIdGd6am5pRUw1Y1dTZkVLM0liTkwxbXJnRDFxVG9LMmJYSkNhOE4zMHFsVjJpY0xBWWw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 14:44:00 GMT",
-        "discovered": "2026-09-22T15:25:48.341819+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "قادر على شراء ناد.. أغنى لاعب في العالم أصبح حرا يلاكورة",
-        "player": "",
-        "content_hash": "5d576e953d9de22d8d0b0e17ca73f029ea819040e9cfb09a2f649b5f8d481785",
         "sent": 0,
         "section": "sports"
       }
@@ -2072,38 +2088,6 @@
         "section": "transfers"
       },
       {
-        "id": 3760,
-        "title": "إسبانيا تُمدد عقد دي لا فوينتي حتى 2032 بعد فوزه بـ«كأس العالم» - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxOdm4zejFoWmg5clhSM3g3SWdxUjVjUmYwZlZkMGdOTVE4cENfYndrQWxEUU9UWGhpbUV2VHhSM1QzRTE5VVlocTItRVpLRGZHN0xQZTZEeC1vb1dUQTEybEpSdVQ4TFdfYWRJSWRqRnZGbFg5a0lYc1NZRFFjTnlUcFE2c1preGZzZzh6QXRkakRCRk9KdnMzNEtuT0lkcEJTc3JJQ3ZuZ21fdHNQM2NvOXNWaTZOZ1N2RXh1dHNMNzdsblNGc3diMVBldzlTb05hamU3azREZ3l5Y3ZIRWNzMFBINlVDRjAwMC1GSGlUY3RKR2FlMjNqZ3owMURxX1BFS3RUbGNHdXM2b1FjeGZ0dUNIVDV3UjVPWEp1M2pEUlhZdkt4YVh6Y1JOS1psaFczNy1LYTFqeFpMQTNuM2tKcXhNdzVrbUExX0FaV0hQMlVkenc0Z0JibkxJZG0ydE9KNDFNbTZmc0tZaURTYTVib0RDUmd5NjdMUE5JNFNxdU5EeEFaUlFMYzJEU0Q2X3lJc0RXUGpZRkxRVTVNWGdpaE9nejlUcTFWeFJpLVpaZzZpVGNPUEUxLTNUU0F1QmlMdW9zVVZOWlZNV1VZa3F3R2U1QU5TVDZpbHFVR25VYTZXaDRESkc4dkhPMDdMcHo5OURRc0FLdnR2LTNFcXFDODNRUGxBRWx6b1F2YkJSMzBiQWFqMm56Nmd4cEpWaWVrSXN0bUlGdGJnR25aMmlKS2Zvbm9LTklGV0szQTA3ZHBCX2duTHNuMG41MGZkaDhrbGprSzdYV3M?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 12:16:30 GMT",
-        "discovered": "2026-09-21T12:23:31.095840+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "إسبانيا تُمدد عقد دي لا فوينتي حتى 2032 بعد فوزه بـ«كأس العالم» الشرق الأوسط",
-        "player": "",
-        "content_hash": "99a9ad22c59bd455d99702eb264cf5f8e3f4e1bb00baef3d00fa9dfcc899a4e4",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 3762,
-        "title": "صفقة مزدوجة الفائدة.. النصر يسابق الزمن لضم لاعب الفتح - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxORlU2NmxWWDlOTkhueDFGeXhzYmFkS2VrLWZjN1R4WWdic3JuSW9zSEotaElhR3BlZ2lnTm9ENlplZFZmeDEyWVFmSWdwYUNGbDlZdVcyQm5kX1podnhabV9MMTlCSFl6Y05PVjlROGpBZTREX3Q4aFdpaWhTbVJtUXRJbXNEWWpzNUJLeEN5QkpSR0JfLVpURnFDT041TTdiN1hBY3locnNZMk10WmlrMVBBdXNha2VXZ0RTSkNTSTlEX2JpTk5lTmNaa3FKR2YxMUxxR1lweDA5SG9MSFRva1ZpMlk5alFzVUVRZVcycTJ5YVM3RlF5X0pKSXd1MUV3VTBHTGgtZlNjeVk4cXotRG1FOTFieTl3d29uV2lucGdteU5jNnc0alpEOXVGRWM5aW9ZVnFlVW9ZMG9jSWpZSW42UWhhbEVJY1pBNEUwRmY4NnZPUlVJUzRlMXNiQ3lyNF8yQjZDMFVsOFZ6djhCdlVJUEpZSUlsTnd6dFNiQkdZNG1JbjFOV3VLcGNsTVdPd0FJVDZUYjZBT1FXa3RzNG44MVNmbUJscmF3VHF0NVZfYmR5Z1hPTWN0RjI1QlY3dDBLU0hLNW9fUU43alhCQ0lUSmxsRTFhcXZIanVtaEY0elRwem5xMWdhZ0tsemplcVppcHdYNFpEMkJTQWhTY3JncHZnVUFudllneWs3elkzcDZHZThKNDNmZVJ5dTBacDdNNTR3?oc=5",
-        "source": "كووورة انتقالات",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 12:13:40 GMT",
-        "discovered": "2026-09-21T12:23:36.839683+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "صفقة مزدوجة الفائدة.. النصر يسابق الزمن لضم لاعب الفتح Kooora",
-        "player": "",
-        "content_hash": "aa87c185516306c6127be342d5e9387fbf6cac173e63e24826c6760cf67ecd2f",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 3826,
         "title": "شبكتا CNN وMS Now وموقع Politico يقاضون إدارة ترامب بسبب منع دخولهم البيت الأبيض - CNN Arabic",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQWpWZlpJLXlaSnNIclYtaVZXLV9YUWtJT0pIOVR2d3ItcDNXVnJpS2VFUkEweGtiWXRMb21sbkRkRlhxX00tbmtJWmQ5a2JDNG9aZHBNMGFrOF9Pa2pFT1ZJWUdxdUlFMGtJZzVUTjhkQ2VJUHR0TnhOMmN5ZnVtV2o3T1BoVkFFOHFrTU9ZYm1MUU9UczBiZEdGWjY5UXF4dU51eXBDOGI4RGo1dXloTlB1QkFMQ3ZpNG9PTXFtdHM?oc=5",
@@ -2294,6 +2278,22 @@
         "summary": "وزير الري المصري لإثيوبيا: النيل ليس ملكاً لأحد العربية",
         "player": "",
         "content_hash": "a3558fe1244e0500148517a9128672b76f7ac85abaccb4b631a7754803cdd127",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 3778,
+        "title": "فيصل بن فرحان يشارك في اجتماع خليجي تنسيقي بنيويورك - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxQTWRudjhwODJ5NjAwZ3hQV1BCUVlETE05NlhFZkxSWXR2RmlFN1BhR1V0VFhtYUdpclpXWFRSTGotMlI0VzhJTlJzaTNKTjJBYXVVMjZsQlU5Sl82MWc2Sk84WlhfNkh0M1FtVzhLMGZpVzc2ZnJtdFVoWFg3bVBmZmdRRGNBRkZsVUI1d045cWV2SjRBYTl6bFpQTUx1U2xJakNHVzNPc2RIZXV4eEZzSXV2U1BYbHpkM1lWVFVJdXFFWTUzeXh6bzBzOWptODZiZ0VobWtFcWlvYXNrOHhUbV9mR0xBVFAyOTFvaEZyWXFfdVkxTzVuTnJUQnk5ZVFLRmRldEhIRXUtcThXdTlmRDhlZkFtRmtpNVlXMkk1QVNHa0g2RFBjVGpGVERWTXRaVUxaVTdWUHgwbjMwM095UHlJemdKSkktWlQzbEU2UUZCSzkyT1NBaDBKS2ZlNmN2VDJwbTk5ZVgtTzh0YTl4MGFmb2F2b3VlSnNoMUpHWkZHTjB2eDE0dHJqS1FGLXpFZ1l3OFBBZnRLdlZ4LW1uOUh5TW9mQk9oWHVuaGNiT1dmTWkyTjJCZm9XS21xN0x1SnR1U19fb2MzR1hoNzJMWF9RNnJST1huZC13VmtEcG5sT3p2Tm1MbEhwVnE2TzR4b0tJbnFULVRxMVVhenpHTnMwcEt1LTZacmFMSDdoaEUycmtEMDFZcXFEUDJpYlBtWjVvaDNLaHY0dW84RU84ZE9lTEF5d0k?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Mon, 21 Sep 2026 05:50:55 GMT",
+        "discovered": "2026-09-21T12:52:12.830096+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "فيصل بن فرحان يشارك في اجتماع خليجي تنسيقي بنيويورك الشرق الأوسط",
+        "player": "",
+        "content_hash": "56c97fd94b4e789ec02adf99d6b3d53b920da9d188e3ee47024f2a56e876dd16",
         "sent": 0,
         "section": "middle_east"
       }
