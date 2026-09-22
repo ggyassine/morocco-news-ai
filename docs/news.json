@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-22T15:58:43.097599+00:00",
+  "updated": "2026-09-22T16:14:49.727616+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 4172,
+        "title": "يستحق الانتباه المغرب وإسرائيل، ومرحلة جديدة في العلاقات الدبلوماسية - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTVXJTU1N2TXJUZjIwWUZvaVp0cWxnZTExUUpIVDhVTllSZlJIdWxpZHFJUkRuRjJwNDNwQ3N0aDZWQzRseXNOdzEyM01BNGZsdWZIdF9XVFZEeTg2YjRrdU9NRQ?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 16:09:39 GMT",
+        "discovered": "2026-09-22T16:14:45.331890+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "يستحق الانتباه المغرب وإسرائيل، ومرحلة جديدة في العلاقات الدبلوماسية BBC",
+        "player": "",
+        "content_hash": "036baecd0e4b4e6a781c92097d98d000fcd5b79902df1188b00a1b302c062346",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 4136,
         "title": "شوكي: كرامة المغاربة وفرص الشباب في صلب برنامجنا الانتخابي - Febrayer",
@@ -626,41 +642,25 @@
         "content_hash": "8eb3b8b9012f35af14361f0c3d0153dba7f7ca6a868660e1e6a9dd65d29db813",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 4060,
-        "title": "« زواج سنتر » يراهن على الكوميديا الاجتماعية في القاعات المغربية ابتداءً من 23 شتنبر – اليوم 24 - اليوم 24",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE90Mk43czEwWmt1MHNtMlptR092QWdQa085SWZrYnJnNGhHa0Joa01OSkZrVnFiTmJfdnVqVVhYYzc4ZUlKRHYwWFJB?oc=5",
-        "source": "اليوم24",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 01:00:38 GMT",
-        "discovered": "2026-09-22T08:43:18.596307+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "« زواج سنتر » يراهن على الكوميديا الاجتماعية في القاعات المغربية ابتداءً من 23 شتنبر – اليوم 24 اليوم 24",
-        "player": "",
-        "content_hash": "43b716d76f13be27ded9df5fbe49286bf589fd1f639f60894e706f3e0da6fdc7",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 4034,
-        "title": "110 وفيات بـ\"الميثانول\" في المغرب.. الكحول المغشوش يتصدر الحالات - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNSnM2bzktcU1kSXVYUjgxZDBrT0cyVHhQR3hZaXk5d1NXcjR6ci02U3F3cm1faVplai1XSXpWTGZ0T3BKY0VzTHBQNDFEcGdFbDBpb0lIOUl0NkFtMkV2akp6d3NLN3NKUURGNE5WdHBtUTVCdDNpNUhFLWp2MVo2MXV4ZG9Pc3VJRzI5X3Y4RkhmdVBMeEN5QUlrWU9fN296elhURUNpemd1WVpwQnVubHFjYno1Rjg1YS1uODhyYlZRWk9FeUJlNm84R1o2OXFRSU9XOE5UX1h6OHE1YUlicnE0QnE3VGxKYjlaTFdOTUU0QU1Oa01DSVlUMVM4emM5S3I4Q2FjUy1CM21JOUgtU0xyMGNTVGpNVmw2dnVSbTAyUjVBWWdKSnpsOVRkR08zcmx6V1UweUMyVlphOEw4bzFYd2x1YjJ6b1E?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Sun, 20 Sep 2026 23:04:33 GMT",
-        "discovered": "2026-09-22T05:36:50.614260+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "110 وفيات بـ\"الميثانول\" في المغرب.. الكحول المغشوش يتصدر الحالات Hespress",
-        "player": "",
-        "content_hash": "1427901ab411bf71818a2b718985aae84ca73649140072ae253276d99cf584aa",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 4170,
+        "title": "نتائج منتخب السعودية في افتتاح كأس الخليج على مدار التاريخ - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQdXNCMC1rb2ZFUnAtWFZfeW05dy1Sc25RR1RNZkZxVVNVLXBZa0lOUE9rOUpBVWozUFdaTF9OTW0wemlxX0ViNFc2Wk1ZT2h3eFJsd1Z5Z3k4d0hKa0dUNE9IYm5hdVhMSHhqd3BWU1lRSjllV25nUHNXeU83R3RMMFpoeElOb2VxbmRVSFFWcklWRE9OVDV5d3BjZW1NcDl2MThsMWJvRjFIRnhrUTNNVUlUM3BNTzhMMnZoeFQzQ1d3aTJyS01wdG1oWWJlUUxNNm41UFRvdXlicHZ1UDdYdW5ydGM3dDNxbEYwaEtYSl8tU2U5SDQtTk9TOUc2OHM2YkJ0RE1jQmstTVJPbHZLWU5sVUZWV1JRdUhzeHBKYnlVcHFHZ0ptLTl2QXhneUZabEdXZ3picks3ZTdxa2VleVRFcEtJNmQ0WnF0OWRySFRfUDJ0bWQzdzBhdGMtWmc?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 16:01:21 GMT",
+        "discovered": "2026-09-22T16:14:32.462507+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "نتائج منتخب السعودية في افتتاح كأس الخليج على مدار التاريخ 365Scores",
+        "player": "",
+        "content_hash": "d3a70c38a04ba0b762be8802966b7a20ba90954ff967cbabe6fac3632da16384",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4167,
         "title": "كأس مصر - تحديد مواجهات التمهيدي الرابع والمؤهل لدور الـ32 - FilGoal",
@@ -1444,25 +1444,25 @@
         "content_hash": "01987c9263ced5723bceaf5e836a3720434968ce3ebe4d52e46bc1978508ddc6",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4097,
-        "title": "جدول مباريات اليوم - 22 سبتمبر 2026 - بطولة قطر 2022 - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZFdVaXlpSWxVZHJ1amJBa19HLTI1UEV5Q1BJWVRyalo2aUlVSGZnVjljcFBDRlpDY2lMeGZqX1hnVHMzNS1Pdk1lVm9sMlB2RFROVVRJQVpwbFk0VEVBcDl2Q0ZXYW13Rm9ITFNHOFUyaVd1VHpGMzktSzVLWkZtc2xRWnBjV2ZYYmR4MldmLTI3bGYwWnRYdGw2czk1RTA0TzVaa290SmxZcHFpV0RFOQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 07:53:44 GMT",
-        "discovered": "2026-09-22T11:33:19.782554+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم - 22 سبتمبر 2026 - بطولة قطر 2022 FilGoal",
-        "player": "",
-        "content_hash": "5727d1648a47be70be886447a76326e70bd9422defcb438ad550eb012de55e26",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 4171,
+        "title": "من نيويورك إلى طنجة... معرض لبنايات غاودي الضائعة - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOeXlHUGwybk40VlZuTWdVOC1HbWgwaG1fejhjU1h4dUlNbFB0dTFiSzJObE8yQ2pyYkd2Q3FoRGdxcW1QZUJOUVI1NUl3ZVdob0dNU2M3dHBfUDF3T3BhcUdXclhyUHN3cDhLUlZzSVI2Y2owaEFWemZiWHNQWFRhcGpTSVdvemhkbk5jRTlyMnA0c1RleFR3OGtfZzZVSUlhVnp1RVhmeDJXZU5pUV9rdER6U1ZaSUVfbi1ncVppWjdjOVE2cnVVa29hUDd3U3laUndqMFotOWxhYnJXTlBhOTUweF9PX29CWFZBTTBYeUw4b1BROHZhNG1ka2x6eTZhWmdDekNhSjFCUGZpNDdnUXFvMDRwNGZYQlNlTU01UDh3UjA5dXcybndyM1VyT254aloxTHEwMWhJRVhITWJ5dGZWbWdRYjEzUFZRZEZhTU9xMEkyMlplXzNyYWJPSnZhd3AtcTBiMEpZRkFtU1BYRkM1cGtzUmxGcllNWUc0X0pUNUFxamJ3bDlJa9IBkANBVV95cUxOX19BSEFoS3lrNFRTNU9YeThjdW1zdFcwdEdDYzdJdFIwQzVLT0pHMkhVRmxURjFEbFdvZHFteWliZzdPRnQzMUF2RzZHSTJjUjRHb2pUaUlvR09Sc1BSRkZnWWc0d2lDbUl5Wk9mVUxuUkprTW43T1J5REwyRmx6d1RqakFsbEw2aWpOQ2FuOTlBNG1rVUlhZVVJUlRBdEQtWkF1dUc2RFZtb25heTZQeUdRTUpxOFdVRjlNRUdTc01xZkczelBld05xRmNsQ29xS2xLbzRvMGpuS2hkX2RwM2Y5VVN4ZmMzaEhwRjBoaWZXcmtSRDk3OXY0bVBjS003X0t1NnZ5WjV6WnEyV2hCYWJkcmtZMXIybDBzQUJ6bDdyWTBuRnR3eVJPUzVrS0tscldSbjBtcVpaYkplMWtndzRmTXA3WF93Z1VuUU9Kbm5vQnJuS0NsR0NHNzlveEJiTHJCdzhBZ0pSby0tTWdKYlBqRHJXbXpoVXlZMDZScHpGWGwzd0l5UjE4S0xLMkFN?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 15:13:49 GMT",
+        "discovered": "2026-09-22T16:14:42.274264+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "من نيويورك إلى طنجة... معرض لبنايات غاودي الضائعة العربي الجديد",
+        "player": "",
+        "content_hash": "bc02a5b21cc91b275f6bccdd3059378bd9b526939a4b76b14894cc4b180bd2f0",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 4160,
         "title": "خبر في الجول - الزمالك يتسلم الدفعة الأولى من صفقة بيزيرا.. وصرف مستحقات اللاعبين - FilGoal",
@@ -1524,6 +1524,22 @@
         "summary": "\"نفسي أصلي\".. رحيل \"عم محمد\" الذي صلى في العناية المركزة بمساعدة ممرض الجزيرة نت",
         "player": "",
         "content_hash": "75e099c54f9610dc1b38379e768ccb42a9da2658648f88537a52557f55149c83",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4173,
+        "title": "عاجل. - واشنطن منفتحة على عقد لقاء مع طهران.. وتقارير عن مقترح إيراني لفتح مضيق هرمز - Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Izbm9OR0l1bVNlX0tENFFlZHBEYnlnRTBmNzRNX3hRMDJ6aEFodDYwY0pWUzJjbVJjakJVaHBaNnlHTTlpek9WNUNGNDU0TjRlSmFXMW9JcTBFREVpSlVHVlZFMHpOeXQ5NkVvU1VPVkhnQmdqenV5bXducFRNUA?oc=5",
+        "source": "يورونيوز عربي",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 11:40:28 GMT",
+        "discovered": "2026-09-22T16:14:45.989518+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "منفي",
+        "summary": "- واشنطن منفتحة على عقد لقاء مع طهران.. وتقارير عن مقترح إيراني لفتح مضيق هرمز Euronews.com",
+        "player": "",
+        "content_hash": "a2c33b8304e58f60fd89e5a0d11bad5f81130d94acca58eaece2e7aded38ec84",
         "sent": 0,
         "section": "transfers"
       },
@@ -2294,22 +2310,6 @@
         "summary": "فيصل بن فرحان يشارك في اجتماع خليجي تنسيقي بنيويورك الشرق الأوسط",
         "player": "",
         "content_hash": "56c97fd94b4e789ec02adf99d6b3d53b920da9d188e3ee47024f2a56e876dd16",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 3670,
-        "title": "بعد 14 عاما.. برشلونة يهدد رقم ريال مدريد التاريخي في الليغا - aljazeera.net",
-        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPYTUzQjNYUmhzTTVEaFEzTG1sdzNuZkdjdU9lZjBOU2I2aHUwT0dIOHgyTy1CSDlheXZBcW5CQTBvd3FHODdzS0VvUWsyX05EbDFpdE5xeTk4U3lVMXdEOWZOZmJmR3VNRFBTb1dtbkVuMnlMSG1kaF8yTzFPTnNRbVlnWEpCTUJfNXVuSmdCWk92OTBXVTNjSnlRWWY0bFIxeTByNTVmWUJHRGhLRE1CckROSHZ6RmFuLWFOLU1wMmhrb0ZYSk5FTkFJQzk5MGZOTmVON0twXzBpbTdsRTJzeFdRV1MzaF9ILVY3WC1ZNDV4cmxMcEZ3Wm9qLURtSGpEMXVVcVNkS2RBMTFKNEdqaTBSYWtpN0VUVHphQ0FhWktDU05VMVpqc0ZGcm5sRG4xUzZLbDVpUXVPa1BkMzVDZNIBxgJBVV95cUxPV2dsbG9xcF9Ic1NoOGRQWGJxX09qUDJNZlRJdXlwNTJDM1MxZTVZX192U2NjY1hVQTE4Ui1jSk15RnNQdUkwQW9acnNZVmxWTE9mdDg4emQwemp4cUJuNmRDU29mU00zS0t1RkxHc2FRMHFVaGdUbVVfdlRqeXA5S2xNeDVRSjZ5RG8wSXpERTRnLXlMZWl2aVJpV1h6bDhEVzJ5dXUxZEZNMVRPSkpzRm5vd0FfQWFyZHA3MExZUEI2bUU2TDJOM1QzcnBaRldHbmhWOTE2NlJHa1VDS3JxS1lOQlFMcWlqWkM5R2xSMmNvMExBLU9FS0xZUjNvWEdHTlJoN2xmemRlLUFELUlJVjhzMzlodEtzV0VCbjBPVzY1NVlzYTJ0U1YyNmJHWXUzZ0dyZDVNZWJvOEc3WVVZX19VZkhnUQ?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Mon, 21 Sep 2026 03:37:23 GMT",
-        "discovered": "2026-09-21T06:53:11.463449+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "بعد 14 عاما.. برشلونة يهدد رقم ريال مدريد التاريخي في الليغا aljazeera.net",
-        "player": "",
-        "content_hash": "7f11da4600dc411b17af4b1a88deed39b3f04dc0eac304eb4f41c9e04feb351b",
         "sent": 0,
         "section": "middle_east"
       }
