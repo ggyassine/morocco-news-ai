@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-22T00:56:35.530286+00:00",
-  "total": 142,
+  "updated": "2026-09-22T01:08:54.898818+00:00",
+  "total": 143,
   "sections": {
     "morocco": [
       {
@@ -2150,6 +2150,22 @@
         "summary": "برز أمام ريال مدريد وخطف الأنظار.. برشلونة يضم البرتغالي داني فرير الجزيرة نت",
         "player": "",
         "content_hash": "3778191701ffe3659f6220453d6826e37b9a8c39cf86a9b63c55616e21bdc56c",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 3992,
+        "title": "الدفاع المدني السعودي: زوال الخطر عن الرياض والخرج - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPSU5Sb25lSUUwTjRPaGF6TEUzTVZzSDdmLUxaVDNyYmhwYkgwS2ZpVFFKVDFHVFV0U21hd2dVekx5M1B6dXdWWndMOVpsN3ZtZTVzR3huUXVwdURrdWVWOWZaTmFSbjJMT1JCbFU5dTlxVGNYNjVuVVpMNDIzSExqbWZGUTBvWWpXeG02Rmthb2V0VVQ2YXNDblRQanEtdTNkREFFNzNFd2k0aENqSjhrWUV1WVhGdk0yemlCNGhoZHB2bGJMeUEtV3ViYzZuMTRpQVYxVkZEU3NoWTkxOXAxRGgtYzhWS0JxbGZrVVNRUFJURERxcU8yNlRHWkxzMWxQckpvOEdOWXJXSV9lMFFWQ21ZcE02Y2owN285cFIzSExCR0pmSE1RbTFvUHFHYThnZWRUUDNGaGlDN0tpaEMyUDA4OWY1b3NQLTBJUzhQaEFWbW13YWU1OHFzdVNLYzJlbnllck9EeXdtcFFsYVJDcWhoX21pUXhPNUwxQ21MZ1hXYW53ZjBnbjBvX0lLeGp3U1d6dkl1bk5wNWFQWU94dllUWllrNUnSAawDQVVfeXFMUFpnR3EzTWp5ZHJCMVJpWDRuQ0RNSHJSQnlpSm52VjhjVm53Vngxcjl0UFYxbXR0aFFNLXRGamJ0YW85UUZkbGlWanA4ZnJ6TEZDZHIyVzZQY1ZBM3BlMDF1Rll1RHg0MklHQnEySjB4cl9mTU9wNHJYd1lZa3VvRlBTeXdrYnNsMDlOSUo2UVNXT3lBbTVwQmNhYTdlWndxZ2NoQWtlZWkxbngydHo1bW1nUzFpaGNRQ1ltZFVvV1BiQlZQNTlVeWl5MHpOdFV5bkU0Vko1M1BFOHFxYl82bTJmRnYxcHV2MWp3MUNtTENKN2dwcXhQMGpNenY1bDBMVFF6QmpxU09UbFVYdExfdURCRFFRSkZyTGxocTRPVC1JTWwwVG1yT24tS3FuWEVFcWdDWV9wb2JqTkQ5SWh1RDBRM0tuZzl6d0U5WWJpVC1oUzhyY1BWYnU2UnFKVTJYaUxuWUY0WnhGOS16T0hzOG13TXFudVd0SUpzYkkwSF9ibzROdklwNjFJcHVrRl9BSG4wbmZCX0N5V05lSXg1UW1jaWdULTBIVmlOLWQ?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Sat, 19 Sep 2026 01:29:00 GMT",
+        "discovered": "2026-09-22T01:08:48.089996+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "الدفاع المدني السعودي: زوال الخطر عن الرياض والخرج سكاي نيوز عربية",
+        "player": "رياض",
+        "content_hash": "aeaf2a617877292bfcf4de583d7d1e0e05d898aa1ba7bc419fc5d97abf3dadc5",
         "sent": 0,
         "section": "middle_east"
       }
