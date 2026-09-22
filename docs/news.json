@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T11:55:04.349398+00:00",
+  "updated": "2026-09-22T12:08:22.420995+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -629,6 +629,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 4104,
+        "title": "كيف ينسحب اللاعب من معسكر منتخب بلاده؟ - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxObk1RSnJ2clBzSzlIUF9URDlwUEpDM1FUZ3B1UnJnWmwtS1NiSENlUm5Nc1Mza0ZBMkVKb1pBV0ZZaTFVcDFsdk9rRk1KUzB0Q2ZLcml5S3VlQnE3OS1VRXJPd0d1b3c3d2lvM2tyR05OaDBxQ0paSEdQZFQzSWdJRjFteHZ1amZndnhkSXkxWm9FWDIzMkE0YzJJRUZBamtub2I4Vm9nSG1maGtQUHE5SGh6czk5YW4wX0JtN2pDUjJpQ0NDV0dEbGpFUDR6Nk81VkRrS3dzM0J5T3dQQUQ1Q1dJY0F2bVlmdzFGRTFpdzVGS2Nkd2NYejJDWVp4U2xEYnZ2YVBYd3JNNWdHeWVyWlAtUWpyQVFNNC1UV215QWF6S3hXa3JvMUNYTkRqWTE1a1JiTlNCdEtYUWtfcURHN2Fya2hfcUY0a2RmM0czclpnSzhlSFI4LXlsaHI5SWtkZi10a3dfcnNURUZpeWpnbW5mdmFPU3Y1RXA4cnd4eDVYUzVDU2hnWE9pSWFsT2dWSG5NbERXc1c3bnZBcWNuUm5YRzhNQnFfNWlfT0lfa1pFQzlPdkRVdm5TcHBfeWJ4MW9rUWV1SUgtRTFuVkt1bmVDYjl3QWUwejdYaQ?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 11:59:16 GMT",
+        "discovered": "2026-09-22T12:07:58.936982+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كيف ينسحب اللاعب من معسكر منتخب بلاده؟ الشرق الأوسط",
+        "player": "",
+        "content_hash": "713b866aea0c0f16865363f9e443e5020a733a6da5c405a7681cbd1def20b8ed",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4096,
         "title": "السكتيوي: لدينا رؤية طويلة لبناء منتخب قوي لعمان - الشرق الأوسط",
@@ -1410,22 +1426,6 @@
         "summary": "بعد فاندرليم… 10 مدربين حاولوا إعادة الأخضر إلى منصة الخليج الشرق الأوسط",
         "player": "",
         "content_hash": "211b60da7f9d8b6d3783c4834dc1084bfa103caf69c213402f4a7d9b5ec96366",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4052,
-        "title": "اختيارات حسام حسن تثير التساؤلات بين الجماهير.. هل اللعب للأهلي هو تصريح الدخول لمنتخب مصر؟ - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQdFlBUTVYZDJoTHgyRVNyWXBoT0R1dVN3czdWc1lsUzgwM0FVQV8xcnFkeGNNMDVhdnZQX1YzeHhDQUhndy1Nak04eG10M1l6X0JNTzZOQ01zUEVxRmhXbDNSS3BmMUtHVFY1SUptelFva05FcWdCaGtGc3NJMjdvUk1kbWx4ZDdNY0NUYnVHSy1vUVI1anVvTE8ycmFSTVQ5bVdoa3lyZUJXcldoUGo5TVlsbFVxQlJ0UEdtN0p2S3JCTmdYNEdDc29VVnlaY0dRWmJ3OFNsNl9uVUlhUzNMaC0tTlNfc0FhMmppUGhkamJEamNnTDRKQ1paS1FxLWhGOFhHUFozeFk2WXlJWS1TSkFOX1pNNkJVWE8zcXVRTjVxbEJfdktOekxPYVByb3FLeDR5Q18wcGh0RW1ZZkw1UWp2WHlYTS05R1YwZEpJOGVTQ3JBMERVRmZUWVcyeHVFMGNpM3NUTDVURzE5dUMzMFhIejFpTEhRbzhITXdnX3dnTnNCTGs2TFR5WEJGYlZGdzY4?oc=5",
-        "source": "سكاي نيوز عربية رياضة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 20:55:07 GMT",
-        "discovered": "2026-09-22T07:56:54.328191+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "اختيارات حسام حسن تثير التساؤلات بين الجماهير.. هل اللعب للأهلي هو تصريح الدخول لمنتخب مصر؟ سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "267a74381a9265d776d1fa15f956eadf0fea3e7946fa06b069c4a4fbc5723a3b",
         "sent": 0,
         "section": "sports"
       }
@@ -2296,22 +2296,6 @@
         "content_hash": "b6a84d3736ed8eb9d40e0bfc45a8504a8ea6f0154de8bf7d6fae0459365fc18c",
         "sent": 0,
         "section": "middle_east"
-      },
-      {
-        "id": 3619,
-        "title": "أدوات الرقابة البرلمانية تحت المجهر في جلسة الاستماع لوزير الطاقة السوري - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMioAVBVV95cUxORjlJTVVEN1B2ZEs2SGZVMkU5RWN6MkJpUGgtQ1M3Z1BXZkd5MWgzTENrRjh4VkJ6R3ZDZmlNZWxHRVhndlBjdk5NVjczTDJBa2FBOFk3d01yTEt1cV84RG9CMjZ1Nmt1RDdHZmdZUm1WWnBVdUlsNG5tX3h4ekU1eVE5QzF1R3VrWWc1RmdyS3VoaTJBdEh3Vk4zb010SW1rRDZIVEFhMHhDWlFjd1RzTk5acTlTZnlKM3NpWWpJS0Nkcm5SMG8wLWhXQnZZcWdoVGdlRnFuQm5ZTUw3YUtvTU1NZENhQ2ZpY09BdVB4U1hfbGhaV0pZb3diM2JwV0hsOFBMWjFMcDBRZVBjSldERW1tR2t0WTNhQWZFZFlCanRiRkowdHEtekhKSDhuaGxMYXpIMHVmZC01Y0RQWDl5VlE5WlhmZGI5SGlPNm9nRWJIWDI2TnF6ZW9YZ1E1TEY5NmNyNFJGcGI2bk04NnJzZ1dXMTBYcE9JQVZ5MGF5QWJRb2UtblFLYkZaZ2tLbGF3MklKMGpKSWhxekNqcVQwRXJ0YU44d1NadXR2U05xNE1ucHljbmJ3aVhVSjJBTXZpaUpwdEh1aHUtYUd0MXZ0R2JVQl8ydFhWbXRwSnpzWmg0ejVnSVNVZjBGZDE4ZjhHU1gwUDMwa0ZGVGVDdzhnWVBNY2Q4eTV0V1JTYkhvNFFJSGJsQmRVTkNvVEhrMVJFTlJJSHdLUE9KLUpocVRnaE9PWnlybVhDOTY5SFp3R1FxRjNBdU5nNVN2OUFMTExnTTFoU0RTZmMyN0Q0R0hlSUprMEVwNnFiS1RNZGxkSk1pNXlSSXI4TEw4QWxEQ1BmUmdvMG5FOXV4ZVh6ZkZnSnk1X1p0d29lM2NzX0sxYnk?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Sun, 20 Sep 2026 18:43:58 GMT",
-        "discovered": "2026-09-21T01:32:26.105067+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "أدوات الرقابة البرلمانية تحت المجهر في جلسة الاستماع لوزير الطاقة السوري الشرق الأوسط",
-        "player": "",
-        "content_hash": "d33dc6a8bc16fe389f178f953f4486fd2ffac5c80950008ad74eca78bfdfb45d",
-        "sent": 0,
-        "section": "middle_east"
       }
     ],
     "world_arabic": [
@@ -2328,6 +2312,22 @@
         "summary": "LG تكشف عن جهاز تكييف ذكي في معرض IFA برلين BBC",
         "player": "",
         "content_hash": "faee108d4d81951ee4f6577d62382cb0284183dcef8ce2617dae1f346916345a",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 4105,
+        "title": "الأمم المتحدة وأزمة الوقود: قادة العالم يضغطون على ترامب وبزشكيان يعرض رواية إيران. فهل يتغير شي؟ - France 24",
+        "url": "https://news.google.com/rss/articles/CBMiuAdBVV95cUxPZHBWckUwT0VwYkJ4V3kwWWdlQ2J4T2gxMFlpbTdwYl84R21mQjA4MkpiUkZiSkxnMk9IalFDY1REM19vMTNvMXhmSFFkUHhmNUlnSzFNcXBadHp6WXVvNGdxUmFxRzhsWWlHZ0FWdlZBVkVSS2lLMlRhb3VZRzhkRUVMMm0tNzRQdGc2RlBoaDZseDYzc01WNzJYRmJlR2M0dExpOGhhSlJoV2NKTDhweGdKY1g5RFFVUUh0bHhCOVhtLUVPYWFVSFFzQVgtOTV4aWNCY3JBTnMzSmZhS3piU1JIODZmOXJWT3B5c0R1T242dzM5c1ZfcUxtSDV0VWt2Z3Zaa25GbGhRV3ZVVE91OWlSSDNqVGFQVl9UcWFRMUw4UzhfTnlEaGJmWXlQWkYzVzlDYlBRRFZ0aDFJNjBfRm9VYTlzV0s4QWotOUdwQ09uendZb1JHMW1hZ2NvSWtTbXBrSEo2WDlvT3g4X2MzQkNPM3JSTkVwVzNyNXo0WC1VdEZ1TTM1c05qNjEyaWIyZjIxR3otN2MyTFQyR29JQjJfbXZXZmFRNGZWWVl6MTNiTGQ1MW9QVXJPLXJUTjlfR0JvUmRXV0l1MDMtbHFBYkw0NmZ4WGJyTnRtTU52MUlPYVBGUkczejViTHVGY2VTMUl5amhBVjdmdmk4aUU0QUpvaVNETGMwdDRJSjVEb3ZVU2lkdzRodzdfUUJXbWlMMFdPMnpTUEJacTdiTDlRcGE5dl9ObzNueXp6VktZc1NzalF1OE9QQTltZXZwNlVfN0RjYTQwNjQyMkU2amhaU3N1cEdvaWR2OTEyLUVsRFBIczVST2xqQ3BfM05qUzNRRUNDWnNjWUMxaTV4V2JQN1ZBQ0o4OXR4YXVBb1MxRnhvVzVPeXozVVgtVjZyNGNfb0ZRQWV4SkhFOGI3dDNNbVVTaUtaejRHUHVCR1R1amk0U1dZOTNYdU5LUm9EYWQ2RDhJMTBYY05MWGNMd3dSdGNZMTM2bTJkWS1aWDF0ZmF1ZHRFUUxKaXFpUWxRVXJVQUJ3MFR5VHhDQjN3SGpfTG8xRWpmUUZra0NlZVc0RU54eDJUcC1Ick9ZVVpSbm9UcVpYeFh5YVJMaEt1S21ScjRmQmg0WHpUXzloam85Tm50ejhjby0zdmpPTTVRdGxLZ2hzUmxSemEta1FndHBaRFVXQjBjY2xuUW56UXBzcWowZUI0QWlSd2FfcnNSNThaekFLM2l5c0g4SW1KYzg3LXBISk00cURX?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 09:53:36 GMT",
+        "discovered": "2026-09-22T12:08:16.747493+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "الأمم المتحدة وأزمة الوقود: قادة العالم يضغطون على ترامب وبزشكيان يعرض رواية إيران. فهل يتغير شي؟",
+        "player": "",
+        "content_hash": "a8afcbf133d6bc4a148591c9ff90c7aabb11c759998e75a2fb9d56c8faf7b075",
         "sent": 0,
         "section": "world_arabic"
       },
