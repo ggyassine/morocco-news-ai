@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T13:32:05.019387+00:00",
+  "updated": "2026-09-22T13:46:47.103711+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -642,25 +642,41 @@
         "content_hash": "3adf2af48eb256206798082d1e172a6de11f78cd2463880054e1d3fd02b7305e",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 3644,
-        "title": "المغرب يعود إلى توقيت غرينيتش - France 24",
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQckJhNFNzWTBlN0N5ZFg4QzNmc0loNHRmT2MtZlFwR1RfMFdIOHBRNWcxREFENDBPYnlCdkJJcnU5QzZSWjJlMi1Tc2RROG9mU0NaWXJyS3MweDE4RlFxeERaaHkyR1hhS2V0ckhzTTg4bXRGbURlWW1PVkl5SEZ1MndsMzVNR295Z2FYTUFEWmY0Uk54Y1drdV85LUlsQnlSWnkya1ZyYlpkZnBMLWhGVFg5NnpleHZ6eUZ4NHBnMEFLekdIOWUydDItd0Q4T05tWl9MZ2ZpcXJiel9BbjRCUDZtYkJzdFZDVWFNTnJKaVZLRnNYVGZWelEtZVpEbUNVOXJPb2FLbzN3bjRLTzBZYXhMQlpGZ2UzZlZCRlZHMGhJeDBKTzFMREJrVlpLOWZFRFFYblY0dTZ0Zll0cVlyUWRRV3k?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Sun, 20 Sep 2026 20:22:17 GMT",
-        "discovered": "2026-09-21T03:19:11.675075+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "60524bcf83b92c6abc261838d4240557c59dce9ae8dd018d6990df020dd3aa42",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 4133,
+        "title": "مصدر ليلا كورة: الأهلي يدرس معاقبة عمرو زهران بسبب أزمة مباراة القناة - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxONy14T3lqWDhTY1BMRzlFak8tcVhWQldvRWUxZE1kU2E1YkpRY2RYbWNxT1VlRlhzUndnODdhLTNmLVdqVEdaenU0NjlxM1owV2VwbVRxS2x4bFc2VTlxREJXczRHdlEzMjlhUmVJSmVyd1VOWGVqZ3FxVDlCZk9VbnhkbnhWQXFLQ3lDWWF6RWtMdUJObWlOUzNhWHFSdkJ2QzBhMXo3LW9uZlRZN3Y4RFpUN001alVxU3Ayd1pWYm9ya3c1UlNGWjdVcGVHY0JjUl9KNVNJbGdxLV9Dd2NsVnJrUEZrNUVqQXZUdlRFY0NNQWlDd1I1bVd5XzJBUUVzNWtHZmNRLXRLZVZmTkcwTFhmd3ZFVWZsU1d3OF9xVkphdHh2Q0MtN1BOZm9GdFZhOVFhOGptT3ZjbUFldTFHaXljOWJRaE5RMzhKWS1TWWo2ZHl1emFRUUc0RUlhNHdXRGFaaWpzbHJodndOWXA5RGs4THZhVWhGWGJIcG50VjlxTV9UZE9jQjVZT0diN0wyelF5MEVCQjFDNllWbkpmTmY2NWF5RVJlUm1EeFpfcHNTbVhIWGE1NWo1THlqb3hCUzVOM0VGTG9aQW9xZHdBbENvdmV1ZVVpd3FhTkxyWGliTGcyREZjdVFsVHh5Ync3R1RHOTVVZldudzhab1JzTUY3SjFLckRjejBmcjdYWWVTRjRtMEE2R240QkdwY1d6X0JRVU9faHJramFFdHA2dVBLd0VwZlJOOVR5X09B0gHABEFVX3lxTFB5cnNpRTJER1lkOXktOXhEZGp1MWVZMTczZkhTdVFiSjU1dWRQSExQVkxhQ1VnRlZ4T0UtUl9IbHhvUDFYZnZmcl85aE1pNEdXVUVqQXNmUm1qajVBTU5ab1B5XzNwX3BRTGw0WWdCTFRzYmhyWVhWQktxMVBZQjU2WDZtczdBMG0zTVJjQWFTcjZCdzJVU1hsMXZ2TTV5MUhrWWYwSGZiaUEwUGs2NHdtVVBLNkVacXhpV3JyU2xzTWJINElMdXZPVDB6MlB4amljcVhMSy1BRUpXU0tqaTJjajdGeWFicEpNOFFkSDEzWWUxMnE4eG1yOVAtS3JZcXdFR1Z3X3RTSmRlQThmN0RyUmRQamZpSnB5a1Q4QU1KYkFHbkcxX3dkV2NlY01jZnNnMy1JaklBazdRbnlUZXRaOEtqZHBqSHRIRjEtQkxvNWMxZ0toZDg4V21CY1dmYVM4MjhOaHprb0xqRVlUT0M4N0lDVzQ2RDF6ZGJ2c21QV3NsblcwU2s3ZDNjVkZ1M0lXQW4wZHk5N01oVU9UVlBvRXJzYmJYLXlLbjEtQlZ5aGlYc1p6X294ZGI3QllMY3RYRVBkaTIyR2IyYWxMa1JMYzdQaW1wcGZueURqckN1MzlDTTlObkliVkQ3Mld3VW43N3AyVjY5RTRCTXlQN29iU2VtTjdieXlqbVBYQnFpNHdwZndPWmlNYk40SmJXbUE0R09EZzJsQ2RMTTlkQmFyTlIySXVpMFRKRmctSV9NUA?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 13:35:00 GMT",
+        "discovered": "2026-09-22T13:46:26.614219+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مصدر ليلا كورة: الأهلي يدرس معاقبة عمرو زهران بسبب أزمة مباراة القناة يلاكورة",
+        "player": "",
+        "content_hash": "ef599ee2d3ae16fd79efd0d6739e766f0b68a80bb6798eadf78e69fe4f31537f",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4132,
+        "title": "منتخب فرنسا يبدأ حقبته الجديدة تحت قيادة زيدان - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxPS0lCNjE1NTZyTzgzanRYYXU4eURmdF9ubkpCNG9KTnR4Z0FUT2N2UGxBOGZMaHZBazUtck9qU3BPUy1USURpZzE5TnRKNUZNek1KTXFpNDlzQWU3WHpZMGNrblVUYTNDRTV2OU5HdFVNbW8wOFRDS0FHT2N6MjVVR3Zzb0xraXFmTW1tLVRWLTZmM3BRRG9kbVgtaEdiMmdQdkxBcUlMdW9xbmFPYlQ0Z0xJWTQzXzZBamlOVEF5bGctc0JHR3ZoY3pPcFNIVy1uMEhHME5oX3dGd1pEWktOTlNWXy1EbHBMTU9qS3VrSDdFNlpUc2xXUVJFaEE3eVdGY1JGdEhieEVpRzFRQTFWZU5rTGMwUnBnMVlyTTc2V2JUNlVaWEk1Z21sclQ1Ml8wbC1pNTROZVk3cTdoOUY0bXBVZ0JJZnhhcXo4cjJBVUJkeGkwSHpGVkd0UTlvN3NMY0h5X1VGRTNEU1BUS2NJdVhmQ2taZ29HQWVtYVpkbTJZNWZUUjQtV3htcldBd3cyZURmakFFZjU2UXRSTTVYNTBUNHdnUGF5SU03Y01XZEllc0wtYmQ0aDJXb1VTaWdqNkxEVHpwVHFEejBGRl9hSjJpdi1aMXFwT3pQc1VTTUYtdUxvNXdYYk96cEMwcS1UM3NRdnlyakRMcThadXJfcGN6cHpOa3dKd1owbUJCUHVyQWFwNmc?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 13:29:04 GMT",
+        "discovered": "2026-09-22T13:46:23.676980+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "منتخب فرنسا يبدأ حقبته الجديدة تحت قيادة زيدان الشرق الأوسط",
+        "player": "",
+        "content_hash": "bbc81d746c2fba3bc359aed287e177b5ae122cf3445289b07b8bbd0eb5122ba6",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4126,
         "title": "يونس بن طالب: كلوب كان العامل الحاسم في اختياري اللعب لمنتخب ألمانيا - aawsat.com",
@@ -1428,38 +1444,6 @@
         "content_hash": "f28bf57893d84fe7280eab717ab49fe3a451c1c4990ee3b8d6af5f7b0758014e",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4044,
-        "title": "تقرير: 5 أهداف تفصل رافينيا عن معادلة رونالدينيو في برشلونة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOZzR5eE5tbEVYVFJKVHpUcld6Y2xFWG9jZnhrSUZXZGhFN3dzNmFoclpUX0Vyb3p3U2x5UzZZTDRTMElFWDMwNnVtSGJ4c3FGMFRUSFFWcHFMcEVBZnoxblZ2ak1USmE5eFZZVHpWcFRJY1JFWjhacTlsM09Rd2VfOUZxbEx5ZUpydDFQdkJ1cEtFbXlOWWw1ZHNGYUFka3dZc0V0eEZpS2VZYWZRUk5pTm1XRUJZV1RDMlFTYllGTmxCdEpMOTBaZmV2b2N6U19MN3NES1BnSVFlbDZkcUZselZ1d2tHWEtWNDdtTDlxX2w0NFNJS0VtOEJ2VnNpNzY1WmlrR1hYWWRqcUJaVDg4SWFBSzhBRmZzeTM2V1l6d2NXb00xZEN5V2JFZXViZldFYmJWNmROd2IyN3Z4MEhkYkM3V2ZVeWRmeU9RVFNScDZESnZiTk52dEFtMlpyX1FhSGtzeXhsMjc2enY1ZFVFR3VyOGQtYndhMFdMbkZTeTdLekg1bjg4bUJpN0F3R0J6bDBQNWVVZzJaM3BjdmhVVmFHV2RYRkRxN2ZBSVJnc1BkMm5RSGNzUWVrRHR3WElRaE9QOWFkR2NEUHNWX25QTnFMNEtPcHQ5S0hvbjNFWdIB5ANBVV95cUxQdlcxODdZT1V1QlpkYWhvb3B1ZEVWZlo1bzIzMDFMQUZVYUxHUmk0a3d5UG95ZEVzRXpFRVFZOW9hNDY1VzhvUjBGR2ZCR0EzYzg3b2hYSmN4WHZjdVhZY29tVk15UHQ3cmFfbmVfTEhNN2N2OE43UVduZ1ZOcDZ3SUpzd0U1ck05NkJmZDNJWk1wYUkzbzdOZEVVUmlMMS1YMnYybzhxM0JyYXh3Sjk5WmltZHg3NFlmaUgzcFlKRm1rWDVyUXgwNzBSbnVydm5wWHMtaUhONzAtS3ktSW0tY084OGt2M21vNnFpSXloODZHN0lLZkpFMml6b1lSOVREUl9MTE03RVFCMUdLbnl6Q3VSOTNXVXljS2dJdEJ5bTVrOHY4dUZRYU1SQzdpeEVSbjNNa0JrNmVmUDBWVWZqbW81Q1Iyc1EyUy1tNEFQVjVKMExKQl9yN2N0OXFXZmExWTZ0UjN4QzY3ZWZXSWRsMlNHUkhjOVhIcW9SYko4ekpzT2YzOVNGM1o4UWYwX1NndTU2X0NESktQTUpfb0pKMHBrdWZzV2U4SHBrbXF6cUp6VEt1czl4QnBWQ3pfTTVUdloxSE1MNTA1dGVEdTllbHVxeW8tOU1EZHJjWXNtWVhMQ3po?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 06:57:00 GMT",
-        "discovered": "2026-09-22T07:19:58.634049+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تقرير: 5 أهداف تفصل رافينيا عن معادلة رونالدينيو في برشلونة FilGoal",
-        "player": "",
-        "content_hash": "21aa037b34811936c8cd11ad95183207ed08f5fe7958ea52adf2c3dcd3b20814",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4074,
-        "title": "فيديو: السخرية من مورينيو أمام الملايين!.. المدرب البرتغالي مادة دسمة للنكات - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMiuAVBVV95cUxQbmJhbXFjRjBZbUdwd2ljUFBUc3JwVVNub2ZGT05GdDF4NXU2VWwtZ1REd2hzeWQ4bjlydWh0b0hNcEJFNXNCMF9aQ0lERzlrbE5ocWZUem80N1NmNkQ5MHpxSXlmM04xUjdqclppSThjb0t6bFI1X21PbkI3cDlpRklfM2Q1SDEtUHJrWldELU56cVgwTGtPdUhGUWttRkxKTVE5VHJYck00d1FrZUFGTnMtNmExdDFQRG9lN3NOWkNfUlNRbzF0LWJzaFBzc3E0dmtvNUhaV1dvbHFsS0hoRHgtd1J3WTRTMXduSXhteVk1aXFuYmEwdE5HNHB1c3EtMkFNeXVhOTR1ZjVSTHoxcGxWX1hIbXNMeVhHWVNfUE1vaE51NndHN0RGTkEtbjcwYjc2YkFiY3ZEc0QtVjhfQWw1ckZJSWJLX0lpSkdzVmhlZ1UwcmYyZ214VGVJQmNidjRqQjlEM3p0Zk9odlBBSnpueXVJTlpKQXBvSnVQNmVJbl9zbW9BVU15bUVfLWlrVUlKYnFUYzNDMnpXa0ZfVEtDUWk1WlQ0U0FiNG8tLV9taHdpbGVBcGxWcHpTWmNuLUk2NzVCZjhSbzFGMk51RnBJeERjeXJ1ZkxuNnY1RVg1YTQ3bldZVFkyQU5yMzVYWkNoWE0xWUZtLWJ4NUU2bUZWN0pkZkxHbzV3aE91VWEyYUhYU0czSjRZTi1IZnRvT05UcF9iRzlUV250NmJrSTJXNUw0S1JzR3BMWmoza0k1LV9zaTZxM2NwTTBqRjJicVBqdWJhUHpURk15T3VWVEhuaE5YMXZjVFR6akpfLW9zZXFhS3NiNWRSa01za29BRFB0OFQycmEzVzRadDNjUTVXSnZEX1VsRFNFc1lzOG5tM0ljZ2Z3NEN3c2QtLUpLenhoOENKSWU?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 06:44:53 GMT",
-        "discovered": "2026-09-22T10:12:00.446745+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديو: السخرية من مورينيو أمام الملايين!.. المدرب البرتغالي مادة دسمة للنكات Kooora",
-        "player": "",
-        "content_hash": "9dfca5183947828e6f9c1b18b01c78c6dfadd86e3c8c0b2a3c9570adf6ea58c9",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2166,6 +2150,22 @@
         "summary": "وزير الخزانة الأميركي: واشنطن وبكين تبحثان سلامة الذكاء الاصطناعي خلال شهرين العربية",
         "player": "",
         "content_hash": "aeebfd35b964ed9eecf1a502baa2ebbbf78025aca05645a0952155429789ba81",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 4134,
+        "title": "وزير الإعلام الإريتري يتحدث عن صفحة تعاون جديدة مع واشنطن - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMiigVBVV95cUxPTmhGQUhwY3dzRDFaRURDRkVCNE0xZG91Z0t3WXRQVU9qS0JxQTh1bmhWRFN0VVVtRVpyQXF2d1ZFTW5tZml6TFZPNkt1d0x4VGhZTDFRX25KZXJIUmdKSjZ2Ti11MkRMckNtSTJGMUJiZTRYa0hlV0xpY2toRTU4NGhSU0FqX0xSejZQRm1nQ1NzazZNN0liVmc5SzJFSmtTZDl1bTNiaHE4N1M1MVp5cmdQcEFzSjl5ekp6NE1rUFRJVkJZQzljbG9Yek10NFVkbEhReHNROUd4aTQ1SGxtc0QycWp4XzB4cWZnYnZlWU9vSWlZWTFVWWFRTDE3c0U2eVR3dC1LOWs5cGtYRlpWenpGRjlCQjF5UGhCZ0J2MW45RkVodE85VUNNNU9VWjUxWDloZW9DTURoU0hrLTBKZlQ5UHQ3VEVFUVB0SlJKYXFnazNiOGkybnVBaHgxajFQQndZendsRXE3Z3MxUzFVTXVhNWJ6dzlqSW94M0Zwd0ltRFhFazdjUldrOWwzRjNseDNPQU9BQ21BV1VkV1pPQUVXTEw3eHlaRDVqanJDSzY0eGN1cC1JdjZuMXpZeWxWWDNMb2hILUtNSWlCNHJIZGl4OWFLU1cxOVZ4M0NyRUlMRGowOTU0WnkxNHczZW52bTQtYk1pMmtWbzR6NHlSOXFaQnBSZkRiMkszdG9VTG5JVVdNM2ZsQ1M5dWlYUnRhZWYzTmFLeDZJXzJXWVVuNE5jQlJPUDNWUlgyRU5SM0xzSVM4a3hUbVRSTzFMbG5ZUTg0emt1QWxwWWpUZTFZdTl4dVRKNTlnd3dIN0pDVEhVdC1yZlBjZjBaQl9LSmxtTU1OY0NWdGcyZw?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Mon, 21 Sep 2026 14:38:56 GMT",
+        "discovered": "2026-09-22T13:46:39.973441+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "وزير الإعلام الإريتري يتحدث عن صفحة تعاون جديدة مع واشنطن الشرق الأوسط",
+        "player": "",
+        "content_hash": "25241752bde2cc521d5e442a4d53c5038ba55102d2799b8ea9a6773cdb51911d",
         "sent": 0,
         "section": "middle_east"
       },
