@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T22:53:59.913122+00:00",
+  "updated": "2026-09-22T23:04:08.051698+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1416,6 +1416,22 @@
         "section": "transfers"
       },
       {
+        "id": 4280,
+        "title": "أياكس يواجه منافسة شرسة على ضم الموهبة المغربية إلياس هويرة - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxNX0VEbFZEbkJ5aENYd3F1THJHUFRnQ3k4NlJzVnh4Q2dSODRGb21DVVhETHUxX1dUWkszNlU2dWthRE54Z1gyM1BMMXpPTmlXc0duVTcwN2RWV3ZWb1A3MHJ1UFJEN19uRVdLcHV5dUEyajBTUXVmc280YS01SlMyYWJYQjR6WUIwOTZuUUNManhjSVJBZmt4QVEtbGstNFVWNkFaSkRNSTNWUEx3QkFvMUxOcEt3dmlfZWFJblg1VXA5eGpZemN5SUoyUVpYTWMyR05nYVAySnpuUFQ3YjJnQV80VnZ0emM4NHY1SjdDOWFtX20yWDZBOEtwVUhNMy1ZQi1nR0RXTVY0TmVkOGJuWkpNdlVTTXduY29odFBReXl0UnBkVWlXZDRXM1YzczJfaE9aUkZXekJuNUxCMXZBczlYNGU0am5yYkwxLWJvUnVGeEM4S0xXX1dUZEkwR1U2SzJ1SVZNZzRnNzRqOXJIbjFWcVY2aEtSNlRsaENsWFB6TjNjcHRQd1E0MHo3RzdQWFFJNXB5NXpXbzBlVnZkSXlpS3hxcE1jQlRNTS1SN0lIWkR1eGp3amlkSng2MzY4ZDlBZVotbXRlTm9Lb2tYTmV5bVpoVEVDWGE2S2htT1ZQV1A5QTc4bGtWdU5WdzRIU3JjSVVibFdvRU1Tb21ZMGNVQm1xRm1rdWNXbWRTT3dhczhBWThOdkRjSFZwUXI3VW5UZ21JVEdQcHF4TjVzbU5OWm1SaFRiSWN2MlF0QW5STnE0N25fa3VJUXFQOEtqVE90SW9RWWNVTFpMLXQ5TjQyZWZIRzFW?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 21:21:36 GMT",
+        "discovered": "2026-09-22T23:03:51.350989+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "أياكس يواجه منافسة شرسة على ضم الموهبة المغربية إلياس هويرة الشرق الأوسط",
+        "player": "",
+        "content_hash": "073e232c4c8d6dadb1ce2623e2831b77b928c6d7561f3fad73a59222c8d21aed",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 4214,
         "title": "أخبار | اكتمال صفوف منتخب مصر بانضمام هيثم حسن - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOS3B6b0I0cUN6MWdBZzZWTFlGLUtTUmlVcmpSN01wVUlsVC03RUZha1hraG84UDk5bmQ0dk5BS0VrVTFkVG0wejB1YXFQYnhhNzlXSFl2dzFzb3M2bkxvSFFaWGI5TTB5XzlKUmNySFk2VmZ0R1Q5bjhnYzlpVXRpN2JYVUNrT1ZuVXljRC1KeFFJdWp5R3M2S2x3MVhaZWJQVUhLbmNrS19Ga0RjRURhZEJhUTlLanJvdjJVVi1wM0hRM0g1ZTFNTVJITldIbFZaR1VUeFJ3SHhPNkVpTzNSUGdLSE9sOGlhc05KS0FmNDhmWFB0cVA5SktWM29feGFDeC05RmpiNzFiMEd4bEROMERMakZhdG9rbXh0dzYxMFhHS3NhZkY2QWpHZUlweGp4ajZVNl90dmV3cnl2V0E2X2k2MmR3VXkySm9SMzZ4QmJVMGQyM3dpWUdn?oc=5",
@@ -2278,22 +2294,6 @@
         "summary": "تحقيق: صفقات سرية أمريكية تقود 25 ألف مهاجر مرحّل إلى دول غريبة عنهم aljazeera.net",
         "player": "",
         "content_hash": "0c8c3b2a438c2488e67302ee7b78a21916e9ea60d4393a2e4a3ad792846b51ad",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 3780,
-        "title": "وزير الطاقة القطري: لا استغناء عن مضيق هرمز في نقل الغاز الطبيعي - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPS1NVR3Vld0dRMU9FLVljN3Bxd3ZraUYzZHlNX0JuXzJYRHhOalNGN2pZaEkyQnVuRjZKREg0WGY4WjJnai1WMS1vQjFKallwRVdJTkZIOVgxRURwdlkzeFpTY3pGbDlMWWdrN05mYW92V2drVTdCTzRXSzNlbE9FdDJaSGU1cWEwSjM4ak9udnBZckZGTTFERkNNUWkyUFgwRWE4YlFxRGdMN1hwX2JGeTNBQzM0T1Bpc2pJSzMzVUZEZnVjYi05eUNRN3hHeWcyYkVCMjhNMEZxSDNvbld1bnhXRF9uZWtIck9BdENfZFFQUzBWcG1hZElGZkExdXF2eGtvck5wdGsyeGExTnhsYmZYOXNBLXJWUTZqWWFjMU1QMVp5bHlTVkc3SnJvM2VVcFI5dlRUeGFKMktJU0REcTBvZjFuYWZIMGFZMWtzeEtvdGJ3QzlvX2ZsR2dYbnhxOG52UV9vNEJrdXVtNldaNzA3a3hDRTZ6c1Z2Z1A0UDdQMEg0M09KZFlhTHA4a3ZnSHZIZ0FnaVBIdVBybF9PNlg3MHN2dzlzV3pSMHRzUXY1NnBHNlFJTG0zc19sLTNCajdHU29TSWlmN1FrUlZOTVJGM2VHZnAxTjFvOXBaamhSSm1WVEcwdUZKVS1lcjRiS2YwQ0JiVUXSAf4DQVVfeXFMT3ZyQ0hmNlBpd0VVZ2EwYXpvZUdmSFNIOElSc0pMNDE4LWI5aUZTblNBRlJrQnJsdVdjcHU0NzZ4eHFuR0E5QkhzeHFWQm45a0RtZEE5WHJmdjdiQ0dHQ1IxVGxFNzR2SUlwMGw4b0RlNnBEajBMMmZTbzN3U2x5VE9WaEtDQ1ZkVnljeVVSMWJFc0Q2MXFHcGtVdmRxRUFkYk9LYVFvSVk3R2xNYjNGVjBSUWRZMUV0VXlld2haSlk4UE9HWG5ab1BDVE9EdE93Ui1UYmdaLVFBVWdJT211TXp0dzAwQzFWMzEtakZKaTJFaVZuQVFfcElTVWxGNktORlY3dE16eDRVTm01SDBhQms1TEV2ckdzRC1Pei1mVFZwbTdLa0loU3BjS3RSMlFYWWxGdmNWaGhlRHdLZlFYSzI4LUczYWZmX2Joa0pLNU1lb1o4Z094U3hneXZMeEFjWTNjVE1Bb2FWd0M1Yi1OekQyQUdta2VZUk5udnlRclNEM01qTXVzejlpR0ViTmg3cnh3YklsUWZjQm8zSUFmNTFlODExNFV0cDlyUlJkUXJpX2tNdVZGMFVybUFZMDRMNkd2ejdkbVFucmJpVDJuVmFBUHVKa0JseUZFZlV5ZnBjVEQ2UlJWejNiUTFNLW50UlZvc3ZkRnVyYTN0OGhB?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Mon, 21 Sep 2026 12:06:13 GMT",
-        "discovered": "2026-09-21T13:01:22.991200+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "وزير الطاقة القطري: لا استغناء عن مضيق هرمز في نقل الغاز الطبيعي العربي الجديد",
-        "player": "",
-        "content_hash": "efc51101d103453b9a3bbdac59d05f4b930d682ecd7802c98ea3ce1a2f9971e3",
         "sent": 0,
         "section": "middle_east"
       }
