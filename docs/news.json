@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T12:45:59.360759+00:00",
+  "updated": "2026-09-22T12:59:21.198452+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -645,6 +645,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 4116,
+        "title": "بعد أحداث ديربي مدريد.. مورينيو يغيب عن اجتماع المدربين - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPZDVWeXBCRGVNajF1UUVQVUVWRFo3M2VHTzY5TkJhTzdfa0JncXNpYTF5dHoyNWdqTzQyWlV4RXVsUUFUTnZyc1pjdF9NQUZiaDNwUVNHemhkNXdrNnE5alFIWDBONV9WRk1QRVhjMW5iUDlpaFBBV0NndHNqNV94WmMtZWZUSHh4T21DanFGUzlHY3VxUmVpOFRWbU1tT3g3cTR6Z29hZWNnSG5lOGRHalgtOUtDRzVSa2VnTEJtNUZnT1BhVkp5Um05cU1peGVCUzNPSmc1aWJMYnFCT25hR2dhUURTb3FHX2VGNlhseWNuSkpEY3p0b2p4SDNQS3RGYjVqbjZHSm00VFlxQW5CLUJmczJ0S2NaWEYyMmhOZGhUZUY0aFMteGZwT2VfVXdSOHBjR0cySUZ1QVNPRzZKdjVmdzlaQzlMR3dwSzJJeVJTR3VEbnh0ZzBRQUoxZWxlUFpuZTlfdjJJaHJRLWVYVlhxYlRPQ0lyRE1DYVY1c1ZlZEp4N0p5WnI3dW1CY1FxUmlzb1ZmNGtuUVZ1SEdiWEhzV2tLVjB3N2tGbHRQd3F1OFJiOEQ4eENaa280cl8yWlR5TVctbEs2amZoUEM0OVBISdIB2ANBVV95cUxONGV5TWRHR2xFb2JhQkN2b04xeFpzNkdvaFc3WHBlajU5ZmJiZS1Dbkw2dmRyTjI4VFFqdVlUMDBjQU1pMWNzdWtYeDBwQjZ5MVgwSGFVQkR4enlBalQ5S0hLWktxUmFIXzNVdnJGZnFYNGkzeTlGUWtWV3pUNFJPNWlLTzVnRFJEMUhhQWp1a0NZMDJKNjlYN01kXzFVZWtrX0FvNUxvX0R0Vl9DTDdDN1ZZM1RUYl9STkFRU3pnY1QyQ0I4VlYyUFBOenRGc3VWbzg2b3czeVVGQkxNLXpVT0g0M1BPWHVTMHBjcXFjaGozMDJMbnoxRDlfRlJIeVY1QXNoM1M4TUZ5bVdlTGgxc1ZOdnV5dkdaQi15TEp2UXFrSFJfdnhBRXZ3Nm5QeUt6VE1hVzlCaTZzRGg5VEgtZVdQbDV0UHRyT3oyRDhnVGV6YkJSOU1jQ08wbnlEYVRBczg5ZjF4NTBTa214aC1mWG9qejF1WWh2RkFVTU1WZjl2dl9Jdjh2ZnNUQlY0NmFhaThlcy0wZXU2X0dSU0RINFZhSDdybFBpY0ctajRMTnRHSHBLdldlSHN0Y1FaQk82RnNTQW9hZGRpM0Vsa1lEN3NmMlZWaWRU?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 12:48:00 GMT",
+        "discovered": "2026-09-22T12:59:00.483337+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بعد أحداث ديربي مدريد.. مورينيو يغيب عن اجتماع المدربين يلاكورة",
+        "player": "",
+        "content_hash": "45f7c729f96efea8917e03c6b02156130318a2c13edc4fbd355b7488c4f77e6e",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4115,
         "title": "لايبزيغ يترقب.. سمير المرابط على رادار الدوري الألماني - Febrayer",
@@ -1426,22 +1442,6 @@
         "summary": "سردار آزمون يعود لمنتخب إيران بعد استبعاده «المثير للجدل» الشرق الأوسط",
         "player": "",
         "content_hash": "104d67b81068c54124b561de8e8e7feee17e65c567f059e79da0a8f0c07e5bf9",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3962,
-        "title": "موعد مباراة السعودية ضد الكويت في خليجي 27 والقنوات الناقلة - aljazeera.net",
-        "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOZE1WS3dNTWZMYlAwN2ppbjY3ZURFQ1ZiN2pySGVJVGh0bUo1Z1pnUDI5ZXFYdkRucVlYbkFaU05hLS1SSmwyTGZzd195NHh1OUdsTW4tUEJrSU5YWF9YaWZqTTJ1aXZXWGg0alZfZmxKaWdPcW1TUGtJUV9CWHM4MjJSXzh4eWpWbi1VZktRTmoxTWlIckhSdG9fa0t1WUNNZERhckIwVzZBM05lamtOTHhPS21PNUV5RW5VOEJTLVFkUTNrb3NkbmdyUFdlR3RmQ3V4Z3lINHZDSE1Xd3ZXRjBtdFNJLXppYTcwNGpkazhBcmR3dmVEb2VpaDVZcmpJQURtdmtLcWhHUlNVSnk2OU9Xa09FVXhoZFBhMkwxUHRTRE8wRTNhNDMzRzV4MVRjRkZMN2gzQWIwLWfSAcACQVVfeXFMUHFxelVkcTc5YWYxYmVfYldlVEpsOU44Q2JzRmJvWkxqc3cwUmhUUHNCNXdEY05qQWZRbm1JQ2xPQU5mMFV6TkNpeV9tZ2d0OFZIeklkc0NMLWZvV0NVamRsbTkzcUlsdGRFQk5FM01CN1JEeXhNVzVaM3l0dGVvUXlqUkx2TFJwRmNReHVlcFRWRXY2VE5KamZ3bWllY05wVnA0MVhldFZuREpNbnJDajRPRmN2YldUN1BUSnBEQVNuUTh2YkFnazJwenhoRmx1WGxuV3hpZmNrWS10bGNoTjBWZFZseDEyWXQ1TjQ1c1l4MHF2VExiWlNfeE1BQWt5SjJCQ1cwa2FUYzVsUUJmbTZ6ZUpZUkJvVjh0LVZaMlVJQmx5V21RR2NRZjhOeWc2YnIxdkVySFFiWUl0R2tsSEg?oc=5",
-        "source": "الجزيرة الرياضية",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 21:51:09 GMT",
-        "discovered": "2026-09-21T22:19:03.997197+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "موعد مباراة السعودية ضد الكويت في خليجي 27 والقنوات الناقلة aljazeera.net",
-        "player": "",
-        "content_hash": "f75f59d756ee359d30eef47359f9f36356ff2bd05ec028bc56ad433f63223c33",
         "sent": 0,
         "section": "sports"
       }
