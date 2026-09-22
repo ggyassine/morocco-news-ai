@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-22T16:45:22.080732+00:00",
+  "updated": "2026-09-22T16:56:04.186317+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 4187,
+        "title": "انتخابات 23 شتنبر بالمغرب.. قضايا الشباب وتطلعات التنمية في قلب الرهان الديمقراطي - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xMFlQVEVSc04xTVVQM21vTE9sbmF6Y2hqaG1RN1YzcGUzVDJyYlFpdFFvdy1lemlEQzI5Tm1iWDBab1JxTzNqQUk5Uk83ekRrS0cxbXJDZnc4OWFZSTZoNTRBdFgwQWU3?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 16:23:34 GMT",
+        "discovered": "2026-09-22T16:55:37.389601+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "انتخابات 23 شتنبر بالمغرب.. قضايا الشباب وتطلعات التنمية في قلب الرهان الديمقراطي Le 360 Arabe",
+        "player": "",
+        "content_hash": "e182d478b3e85623af4f0bedcbdd5cf908439f8e10d079819ea7a4f0b2b96213",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 4172,
         "title": "يستحق الانتباه المغرب وإسرائيل، ومرحلة جديدة في العلاقات الدبلوماسية - BBC",
@@ -2294,22 +2310,6 @@
         "summary": "وزير الري المصري لإثيوبيا: النيل ليس ملكاً لأحد العربية",
         "player": "",
         "content_hash": "a3558fe1244e0500148517a9128672b76f7ac85abaccb4b631a7754803cdd127",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 3778,
-        "title": "فيصل بن فرحان يشارك في اجتماع خليجي تنسيقي بنيويورك - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxQTWRudjhwODJ5NjAwZ3hQV1BCUVlETE05NlhFZkxSWXR2RmlFN1BhR1V0VFhtYUdpclpXWFRSTGotMlI0VzhJTlJzaTNKTjJBYXVVMjZsQlU5Sl82MWc2Sk84WlhfNkh0M1FtVzhLMGZpVzc2ZnJtdFVoWFg3bVBmZmdRRGNBRkZsVUI1d045cWV2SjRBYTl6bFpQTUx1U2xJakNHVzNPc2RIZXV4eEZzSXV2U1BYbHpkM1lWVFVJdXFFWTUzeXh6bzBzOWptODZiZ0VobWtFcWlvYXNrOHhUbV9mR0xBVFAyOTFvaEZyWXFfdVkxTzVuTnJUQnk5ZVFLRmRldEhIRXUtcThXdTlmRDhlZkFtRmtpNVlXMkk1QVNHa0g2RFBjVGpGVERWTXRaVUxaVTdWUHgwbjMwM095UHlJemdKSkktWlQzbEU2UUZCSzkyT1NBaDBKS2ZlNmN2VDJwbTk5ZVgtTzh0YTl4MGFmb2F2b3VlSnNoMUpHWkZHTjB2eDE0dHJqS1FGLXpFZ1l3OFBBZnRLdlZ4LW1uOUh5TW9mQk9oWHVuaGNiT1dmTWkyTjJCZm9XS21xN0x1SnR1U19fb2MzR1hoNzJMWF9RNnJST1huZC13VmtEcG5sT3p2Tm1MbEhwVnE2TzR4b0tJbnFULVRxMVVhenpHTnMwcEt1LTZacmFMSDdoaEUycmtEMDFZcXFEUDJpYlBtWjVvaDNLaHY0dW84RU84ZE9lTEF5d0k?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Mon, 21 Sep 2026 05:50:55 GMT",
-        "discovered": "2026-09-21T12:52:12.830096+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "فيصل بن فرحان يشارك في اجتماع خليجي تنسيقي بنيويورك الشرق الأوسط",
-        "player": "",
-        "content_hash": "56c97fd94b4e789ec02adf99d6b3d53b920da9d188e3ee47024f2a56e876dd16",
         "sent": 0,
         "section": "middle_east"
       }
