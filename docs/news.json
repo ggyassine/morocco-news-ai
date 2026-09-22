@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T10:42:34.614510+00:00",
+  "updated": "2026-09-22T10:53:35.239943+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -614,6 +614,22 @@
     ],
     "sports": [
       {
+        "id": 4085,
+        "title": "هدافو منتخب مصر في تصفيات أمم أفريقيا (صور) - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQaF9PbWoxaENHYWFSRmgxaTRGeGpDMGlHclA4ZUNMRzBtbUZUQXpkOE9IQkhPZzFUc0FQZEJvTl80bE1LRTVvTzBiS2tqWE5IT2x1bnFPZjlHdHl3eTY2WmV3WGEzX1N3bWdYTE9VSWNpblB3M2hRbEJHRGRMVWhlUnRLRWpqeWVmZFhDbnJ0WWhXR2F6VlJCbkpOWW8ydl9acHJHOGF2ODE5UzZDWVpiU2JoVUVmaG9UQ0NiY1JQaFlVOXRwVDVZS2VQQXBQSkhpZERKLVZveFBhVWJ0LUpMREszM0EtczJUZF9XWEItZjdFQUFVWG8wNk1Wa3FmRDJCak8xdm5PM2JBMkw4WW9XbUxReXIzMnc0V0JYVklkNkF0S0JaZVd6MEhzcEl5QWtGWGhUOTdBaWh0b0Q3T2JMMFRHUXB3N1B6MUJXQkxqTHNBeUthekw3SFc4Ym5GbUZvV3RaZFJWVnVZZmFj?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 10:41:00 GMT",
+        "discovered": "2026-09-22T10:53:16.411716+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "هدافو منتخب مصر في تصفيات أمم أفريقيا (صور) يلاكورة",
+        "player": "",
+        "content_hash": "0302de45316cc521c9019c534bb1b92ccd5b87b9f7f15fd42537e3e2185ced28",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4082,
         "title": "منتخب السويس بتروجت يستعد لاستئناف الدوري بـ 5 مباريات ودية - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxQVDhDanBScHB2SWg1UGU1cEdLeUFVdWdQa2JwTlhwZURfNFVuRE9BYXpnZHZTSlVCZHNnZ0g1UmREaTJROHdHYnlTYVdzR3EtYkVTOWFwWDkwVUM3OEZKUThqdEFSQ1VNSDhwQm0wTUhjV2p0X3haa2hwZjg0NlpBSEoxTU81eTl1RTk0OEtPamNmci1Benc0MjNPbHVNUDJscFFNbWFUdVFCdnBCUEZMeHZ0VlpuREtmXzNQZndVdDhrVWVSQ0NXYUFxRl8xd0xSbVdZTW14cFl4dG1tTDZJcHlYS0t3N2ZkaEpEUWg2b0FxZnVPWmVpcEVBeFZIWnozTjdZYWRtTEhDSE9vaHk0YTU5NkRFd1FVXzE1VVIzU0s0ZXBDemxKazVIMU95dVBCZkdMRkkzcUx0WElBc19LZ0dKQzJvSEJBMnIwUGFKUGoxN19XaHhtU3BXazFxXzZ3UHZtcmxuQ0V5WXZVQTZyaHpwVXZNQmZ1X1dYS1hLTWsybnFWYmFCVnhMc1NvRzEycXRNVU9WNjBWQlpyWGdQeHhqbllpNWoyUnM5Z3RMUzZ2WnlOU1I0UUpEcVFCNFBaU1pKNHd2QW85dVFMUTlJM3NyaUtsbVVzWDFGZnFOZDREcjVFbnB3M29YZGw0UTJCZGczQkxRd2pLdUFyYlhaY1lB0gGHBEFVX3lxTE4waVQ5UmpwWUJRaDlxN3ZLNXVyd0ZoUmlyVEhFRGl0MHBnRkQ1cGR2Mm9VZ2FBSjRFT2RURjItdE9UZXF4cTJFbVpRS0FMM0tMT1hBZk9LekJ6cVdKUS1GSWgxeThvbU0yaFI2VXMxdGxBck1hS1BHQk91T2JIclZsaEtRSlZJd1gyN18wWEw5SWQxODlsWHJ3TzZESkhwaHNKQkxVaUloMGtpamlIam9NdmN5Vl9uWjdkV2lpR0lMeDNKcExaRlN1Y1VZdTgzd3VFWXppOHFxREdMb3dOQnF0UWhFNmJyUUVJTmFyMDUtVkVYT3UyNHV1NjN5N1pmSXV6em5wcThpNHd1RS1CWThTYzNIRUtsbEZFellnZTdya1lxVXUwZURHSnBtTGdUcUQ4R3ZVVmc5eFctbFBjMmZFZWpkeGQybTdyeE9iaV9KWHJlM2kyZEpQUmYyZW11TG9JVFhSQWhsVGY1aXg1R0twbW42Um1ObE9GZUpSNlJRLW1uMDdJc0NTOWt2bVJVSkhpc3JvQkt5WkpQSHpHaGlheWFMLTZnakIzOHJPWU5oQWdyT3ltbE9uYVVHbXR2RjIyUDFINjFabkpVbEJ0WXJ3WDNZR2pGY1NrUk1DRnZfRjBxMkgtQXZNcXRsUW5ZWFBWZ096bG1TZWgwMktXTk9FMWQ1c2FOUQ?oc=5",
@@ -626,6 +642,22 @@
         "summary": "منتخب السويس بتروجت يستعد لاستئناف الدوري بـ 5 مباريات ودية يلاكورة",
         "player": "",
         "content_hash": "a592418684f85f4ea4568856a004e51e0cbbbcb7af5c58a78279dc6e187dfa7d",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4086,
+        "title": "كيف تقلل كمية الهواء الملوث الذي تستنشقه أثناء ممارسة الرياضة؟ - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02UkUtcFJib1VRUDAyWGNGMGRJcVQ2bm9SaEpIOEx2WXktdXNjampVbGJabnNEZUpYY1V1OTNiN1lZZDM2R0J5b0FZT05zdW1Mc2JoQnVhaTJUVjJQRHfSAWNBVV95cUxONV9GdzFOaVM1cExhRzVXcmJ0V1FfSVVQWlBQcGxTR3lLTlBnVEVfTjRpUUQ3OHZTcGFhY2JQcWZoX0QtOVpkYTdSRnBLcXJxT0JZQTJ2bGdZTGkxNkhXaVRGeTA?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 10:28:23 GMT",
+        "discovered": "2026-09-22T10:53:31.715467+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كيف تقلل كمية الهواء الملوث الذي تستنشقه أثناء ممارسة الرياضة؟",
+        "player": "رياض",
+        "content_hash": "452c6da9837c3450d9c5957c0f485a2bff4defdc0f61661cf8eb87c092f86a19",
         "sent": 0,
         "section": "sports"
       },
@@ -1378,38 +1410,6 @@
         "summary": "يلاكورة يكشف.. موعد صرف مستحقات لاعبي الزمالك (فيديو) yallakora.com",
         "player": "",
         "content_hash": "4a3ec921ef3d90a32456754e0fbc6ed1fa40b27a73105d43881eed870594ed1d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3908,
-        "title": "يلا كورة يوضح.. سبب استبعاد محمد إسماعيل والونش من قائمة منتخب مصر (فيديو) - yallakora.com",
-        "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxNNEZFWWY1TkJfV25sNUZMR21MbUFISldqa0FiR2c3M2xuUVhzUGdYd2t1UVNTeUpJQ2pDNUlhenI3RklrdTVvX2dnVkJEVEx3a1dsWTlmWUMyUTdqWXhQSU9KTUdkWjE2dVRNMmlHeUNUV1poVko3VlpsbjR4U1N0S3RNZEx1WUJ2YnFLTFE3c3c0X3RkZVpWTWdzQ1lhU0Fsa2Z5Smx6aXFhNUV1a3RORGstRHJlRnpFbExwS0VkVjk4dTZNbUZ2aXF2cWhWajc5eTBzblNLdWluM2Jwd3pWS080ZnF2bW53WHZWdVV4SUpVNUp5aWpBY0tGODdVOVNPbDB5Ti01VDhPTGRzWUx1V2dGU1NSN3pjVW9tLVd2eFkxQ3RoZWpNU1ZubnJTWnRpMXFUTXhYRUgzNkJFRTI4ZkxSYmo1ZFdCSFFpS3c1amR4NWRMVmxQSVJxYUJTOEp0TEdSMWtlSUE2OE5EWGY2OG5sOU9rNTZSbTBRVzlJODdnMkRCWWZLc0Y0RGlrWFFabmlpLXBSUW43UWRXanVnaUF6Wml2Q1BzWmdzOWtjYzJmeGlkekszYlBjSHNoVkg1dmVDVDdSQlRLSkp5eFhvT2VIV01Ha0pTY3B2Q0JPR0JzRnE1VTQzNE84bWVuUUV4NkxZeVIyM1k3OExsT2hHMUd6XzhFbmZESTAtY2JsMG9VVi1palhPZldGdVFDbnUzNnpmX1JrYy1TYUhYaW4tUHFwTmpWdUFwRUNvOXVyZlJCRFJXazFiWGdVSlIzQQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 19:55:46 GMT",
-        "discovered": "2026-09-21T20:01:20.027728+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "يلا كورة يوضح.. سبب استبعاد محمد إسماعيل والونش من قائمة منتخب مصر (فيديو) yallakora.com",
-        "player": "",
-        "content_hash": "3972950cf317226eaf318d0a1698fd0554ff09cbcf150391ece0f606262344ed",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3909,
-        "title": "ماهر غريب: لا صحة لتغيب لاعبي الزمالك عن التدريبات لعدم الحصول على المستحقات - filgoal.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gRBVV95cUxNZGMyZWdYTk8zWmNjZjZRX3pTODJncTE5bUZxT3pOeTc4SFhlYjhiQ0ZnVjVKQWkwZ29FTUxtRDVwa3VaTWE3ZHMwV1U5TThuSjNDb2VmaHlNMkRyZnhlS2Q4cVRHLVNqS3V5VDM4SVNlU2pQM0l1Zm80OFlaUXNTa3dSVW4xNWFSbUczT2Y5aG1PMXpyaFQ5RjQtcG9objZxSWFTajBZbUw3REt1b3JTZGwxNnZGaFJFa0k4cHhoRld5X3ZuMWRCaWp5MGUyUVFoc0ZiMVBfdWstMkFkV1J6a1ZXOE9pRWkzbEJ6d1BnVzgwU1ppTlpzSVBOZF9fVXY1eE04cm9BLXhZSlh3ejhBakpGZlBXRm1UajFjQzRYOE43VU1ZamlneFJTT3NTMy14TThuZm1ySFdWcGhmNGt4bkR2TGUzN3hIYk1ZZ2pfUXM5VjU5cm9xS2gwMHhMSUUtS2Jaem14ZmhrX25Fb2FOUmpWZUUzRmJzdFlpdzFnMkhzWmRwUGVNVHc4MnVQNGgzakwxWXBkLU8tbTdyNThyQXZqaXMzRURFUzFoNTNjWTIyUGU2djZuM0hSSUltMVkxSHZiMW9rODZlZVBodFloVHFVdGtyVkhoeVd1SFY3Q09uVFAtUmNQMFZRS0I4bnFpQ2NYRWs3aWdOdkhFOUNPUlhIZEZpUmVEMWhwSnBSMDNwa3pxQnhWQ1dMb2RjdEVKTnNHcHFFYVdfa1A5RHNkeEF6TXpkeEdSLWNzSmZYZWJvM2MzR3g1YjdhdjNaM2otVVN0VEpadkt1UdIB3wRBVV95cUxNNnZ2MjV6dGtpOWY3VFlkRjJXRmxxZWpCSFN0VWotOVdabjZTaHVONl9pZU1JTHNlalhaZV9JcHMtanBObWstTmhwXzhLTjQyLUo5TmcwU3hicW9NMUZZdzZVWXZXblFzdlFjdTJlTjA2dzRmSmpJYWNmWHBFUUNHUE5JRXNZV3BEOVRydzQzU2RTTFlwM05YNGFsQUZuZzdLV2dJRmR0d1ZHaC1OeXdudWdSMmVSbExETTBETHNpMUZYNEZyMVlELTI3YXFaSExVdDJ1Z1AtWG5nT1pEcnFDME9qTWhUSWFudDdTVWRPdzRkQnVzdGVxS01yR2VKbzhERWRUMEhncnRRUDB4LVltRGo0ZUlKMUotRVl0WnpTdXkxaXRLYXBhNUlFY3U3bjBwcGY2dTdkaWpjOTM5SktFb3dUc2R0dlk2bFAzSFZJb0s3VkRVRmV2cE5EV2tqU2dEMG9EQ1g0S1Nxd0ZkYWFlRFVLbklDamxic0NFTEE3dmJORUxUMFhXMlcxeVRUWHg2SEpySFJPemxkb211RUNjNjgtNWJ5X0VwTlFycW9VQUVHNjg3TVJlWnNSZzh5LXJ6anJ4VG1jMU5EclhvYklPSVJmMzNueXlBLUYtaDlWOEhRVV9XTF9ndnVUaXZlT0pQam80LUViVVA2bnVsZlUzM0pNb1FvLW5UdkNpT0JEdEFLNmZtWExIdU11dGJrN3FoS2xxNXFTTVRCOXZWNk9YUVpMcExEaEtZSmYwLVZ3SG5kWEhoLXI2TXBqQTYteHJhcTM2NWtNNElJeW0wWHV3?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 19:52:00 GMT",
-        "discovered": "2026-09-21T20:01:20.710701+00:00",
-        "category": "الرياضة",
-        "status": "منفي",
-        "summary": "ماهر غريب: لا صحة لتغيب لاعبي الزمالك عن التدريبات لعدم الحصول على المستحقات filgoal.com",
-        "player": "",
-        "content_hash": "5049136f91d9d42d75197acbc646bbe1749a4da891420f7301f321029383ced9",
         "sent": 0,
         "section": "sports"
       }
@@ -2250,22 +2250,6 @@
         "section": "middle_east"
       },
       {
-        "id": 3586,
-        "title": "الكعبي: قطر تستعيد مستويات إنتاج الغاز الطبيعية خلال أسابيع - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOQmxpdEZHOUlCQmJneDZJWDNTYi0ta0JZMlJ6R2hYdUlsWnlDeFROTU1TbmxldG9rbUZ4TmJBZzZLNlVSNjAtSThmXzgwdkg3Z096eFNuYXEza1ZCdzdPY0NjZ29ITXVHX0xuaWhhWk83OTVibnRscERpMVV5TkdrVXBVNF9MOGRac3hFaTViR0NUN0RPU09VeDZOTFVDQ1BjdlA5TEZIOW5fVzBUTFNlZ2JHaHJsZVVsYnFublBGazFlOEFxRTJzcmJmdlNiUFFhUXIwT2NfM19NYl9mR0xDTTZQUVJ4UEhXN3djTUhpbDhKQmlZY0hVNUROUml5M2otLU40eDd3bVZwZy1SNWFhWjFSS2Mya1k4ZmY0Nk5CdHoxMVpHYTBoOEJRNGZzX3ZRLWUyZzUzRmRhMGZIci1GeXdvamIxVXNVOW5JR241cVpBaUt3M1Z0Umg2M2ZTamJl0gHmAkFVX3lxTE5Fbi1IdmFOdVU1LVljUGVhS29ReEEyU3YzdzNYUDcwXy1hdG9BWkllRWVlaE9VbjZiald1N2RXOGNLWU1aTFJBLXBNbUt0ZWRWeGdYYV8zQXJYbnFUcjJZcHh0b1R4RzZ5cDBzdjhQVkJTT2hOSkpDY2swZlJuVE1xVXlqRnlxUjFWNVBydWNKdDJpbE5QWE50d3NJUGRIdFBzdjk1N2c0VHBWTEY2WHNBLXZaTUNEMFZjSTFxbzhmeDFNWDFVWmVkY21fRTJuUzd2a2RmNUtZUW1qR1hTQlBKRGliR0VUa1ZiZTFYY1pDcnBLblBCanNPREd3aGw3dTFiUVdFU2REdGlXZHVOdjFGNGdmc0xCUjVJTkNONnNlcmw5MEVFdDhqWVJISnZHUi10R1ZxWlB1TTdKcnJ0MTh5Vm13eVVUUFZJbW94ejVvLTVvTlF5OUNiTklySFkybl9fb2F3UHc?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Sun, 20 Sep 2026 19:47:33 GMT",
-        "discovered": "2026-09-20T23:14:48.200952+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "الكعبي: قطر تستعيد مستويات إنتاج الغاز الطبيعية خلال أسابيع الجزيرة نت",
-        "player": "الكعبي",
-        "content_hash": "a6c7b3b887bb013b28985c6f39baee2d9b84986a82ec453e31e077f7d94ef482",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
         "id": 3619,
         "title": "أدوات الرقابة البرلمانية تحت المجهر في جلسة الاستماع لوزير الطاقة السوري - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMioAVBVV95cUxORjlJTVVEN1B2ZEs2SGZVMkU5RWN6MkJpUGgtQ1M3Z1BXZkd5MWgzTENrRjh4VkJ6R3ZDZmlNZWxHRVhndlBjdk5NVjczTDJBa2FBOFk3d01yTEt1cV84RG9CMjZ1Nmt1RDdHZmdZUm1WWnBVdUlsNG5tX3h4ekU1eVE5QzF1R3VrWWc1RmdyS3VoaTJBdEh3Vk4zb010SW1rRDZIVEFhMHhDWlFjd1RzTk5acTlTZnlKM3NpWWpJS0Nkcm5SMG8wLWhXQnZZcWdoVGdlRnFuQm5ZTUw3YUtvTU1NZENhQ2ZpY09BdVB4U1hfbGhaV0pZb3diM2JwV0hsOFBMWjFMcDBRZVBjSldERW1tR2t0WTNhQWZFZFlCanRiRkowdHEtekhKSDhuaGxMYXpIMHVmZC01Y0RQWDl5VlE5WlhmZGI5SGlPNm9nRWJIWDI2TnF6ZW9YZ1E1TEY5NmNyNFJGcGI2bk04NnJzZ1dXMTBYcE9JQVZ5MGF5QWJRb2UtblFLYkZaZ2tLbGF3MklKMGpKSWhxekNqcVQwRXJ0YU44d1NadXR2U05xNE1ucHljbmJ3aVhVSjJBTXZpaUpwdEh1aHUtYUd0MXZ0R2JVQl8ydFhWbXRwSnpzWmg0ejVnSVNVZjBGZDE4ZjhHU1gwUDMwa0ZGVGVDdzhnWVBNY2Q4eTV0V1JTYkhvNFFJSGJsQmRVTkNvVEhrMVJFTlJJSHdLUE9KLUpocVRnaE9PWnlybVhDOTY5SFp3R1FxRjNBdU5nNVN2OUFMTExnTTFoU0RTZmMyN0Q0R0hlSUprMEVwNnFiS1RNZGxkSk1pNXlSSXI4TEw4QWxEQ1BmUmdvMG5FOXV4ZVh6ZkZnSnk1X1p0d29lM2NzX0sxYnk?oc=5",
@@ -2294,6 +2278,22 @@
         "summary": "وزير الري المصري: سد إثيوبيا غير شرعي وإعلان 2015 ليس نهائياً العربية",
         "player": "",
         "content_hash": "f4cc72ca8b40b5720701105614747278ba46678a530f1d2341893f4b3c43a663",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 3782,
+        "title": "برز أمام ريال مدريد وخطف الأنظار.. برشلونة يضم البرتغالي داني فرير - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNZ25adjBHQ0JGd182ZkJUbHNXSHAzZkxXNTgwZDJKM1luY3EtUnJ3TkNzWURtUUdyVm9WdEttSEJ2NEF4Z3luRWpzNEVnZi1Cb2xmRWhwT29CVy1vSXVFMUV3azBYVTRpWXRicmVZTHFxX2xZdnJBZlpPdWQ3WURHQlZkOExzZjhHUW83Unp0dXUwVDJHZ01uaE9MemZqaWZBTnotNTktaWdkS2FBZXF5V2wzeW1uN0lrNEpsSW9DdnBkRWhTY0U1ME93WVAtVGY1NFpMWll2RE9yUExIbXBuaElsSHJiUzJVVVRUZTV0cEwzR2o2QUFweHA5dVlCTWxka2JyTTdxS3Q3U2lPUWo4c2xOaXFMMXA4SkF4dkVIUnluWWdKX2NMeERHN2VkOW8zTUs1US1YNWVsNHdzbkMxSy0yU1NLeUxRZ3ZBSNIB0gJBVV95cUxPVkFaYm9SU0dJd2FXeFVWNHZVNlVWcU1XeFo4bHdDM3JwUEtzazN6cHJzM2RJOC1wazludVRxZ2M5akVaTGViRXdpRHFzcmF2MnhRb1g0M0VPaGVWVVd5Ym56azF0eUNrRzVYcXhUYTZyV3Y5aUZHUTJPeG1rNHNMa29zMG9tMTF6Q1RXSmt1YVlILUJWdDlKb2gxT3Q0ZUtGM1I3bWRnSUgybF9Ba0k2WVhteDRKSjhZR0UzTkZIeUI3eXZrNnBKVkdueGhpQ1lSWFpVU2wtY3lmSHF4bTUxUndpSUVhUXpQYlc1QjAwZ2dCcXh5empsMFBMemlDdE9IblhwSDJjNmRkSnJWRlFvQmFmUkMtWW9ZR0tDd3ZKYXhGTzdFNGxoTlc4R2RaYkF4UGdGY3IyWkNxNTc2ZWdXNXVmYVgyRGt0blQ3bGFYbDhwQQ?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Sat, 19 Sep 2026 22:40:10 GMT",
+        "discovered": "2026-09-21T13:18:32.752371+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "برز أمام ريال مدريد وخطف الأنظار.. برشلونة يضم البرتغالي داني فرير الجزيرة نت",
+        "player": "",
+        "content_hash": "3778191701ffe3659f6220453d6826e37b9a8c39cf86a9b63c55616e21bdc56c",
         "sent": 0,
         "section": "middle_east"
       }
