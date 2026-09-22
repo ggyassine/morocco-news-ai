@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T07:33:49.755328+00:00",
+  "updated": "2026-09-22T07:46:42.040485+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -597,6 +597,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 4050,
+        "title": "مدرب صنداونز: يُشرفني تدريب الأهلي.. وإمام عاشور يثير إعجابي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxPMDBISWQyVVZzdVpFQjhTay1CZUk1SEllVzVHVDlMVzBSM3hUUEFxWTVfTVRuYkZaZTFYajlJWXdkZk9iN19BeURoME5yS3hEMUk4TUVNVDhrSllUYy1vS05HOWhfRlc2aENWcjZ5UHZzOUoyeHNwZmZhNjNmMUdjeDMxQUJCOEF1RFppLVlhaXZhUGZ5U3pBRDY1VjhteV9RQXJRVEg2RjdRYS1xSjVaTkgzRVlhTnFsVTFRcmlKeXFkVGUxcWR5LUxiX2RjS3VCQjRqLVlTelVJbGxOLW4zUlRvazBJbjI3MmdhZjI4TnN2RmNUcTIwdURkOUtlWUZNX2RsSnhWWUtUeC15WVEzZVJjMTZKYUpGdUJBaVREMTRQRjM4V0FZNnd2bU55azJITU4yd0d6bjIxNDRMRV85QTlkNmFfb1ktUXdWanp6bnJGQ2I1Q1lYV0FZd0lfMEJzVm10STdSN2txMXQ5azJVbGtPa0hoS0NGS3c4SEJVc0dYRVg3V3Yxb1RzM0U3c0NCNktKNmY1RU5MTmlyZFVLMXdsbUVhak9jR1A1QWRpT3FxaFRZZkVOWFJQRHk4V1dZdXhNVF9tQmlxM1RTX1hLQXJhY0lUVkU4eGIzOWFUX2YxbElLNzBJTWdWX3AwTVVWRVl3X1k4QXNEZ9IB_wNBVV95cUxQVnpOMXdZTXozbnYzZDNwYXE2SDduVTlxSHFhalFwTWJ1TThVbW5wbE83WlM4bm94NmQyd0hOblVGNnVMT3pTc0hLQUtZSlBXUWZpU0x0RTdCY0FYWk02b05xSXR0SkZDLUlJNmVlVHA4LUdKbHF6MWtDODhxOVA4Yl9JUksweFB4bVVBX0JVYzhYUU9wMGxRYzNEZC1CRHQ2aXppQmJTWmRqSEd1TUQ3aEF0cVdxb0tlM2tXb01ESjNIbHoxNzVUcHgzNFRxaHhuM1hlYlBfVVRsdVdSNW1ESzBINVNHQ25kTkIzZGZhQUhtMDhJblF3cjJubU1ueHpPVDExVGduaVJvcG82Q21CR1RGR1g4N1hrR1VvOVROZ0x1ckZkdUFESDNTZHVDSWoxd3V6WnhrdWFXZWxqek0ySTdiRzAwcGVZVjJ0TF80UE9uOXZQZkg0ZVRXRjJMRXMyd240T1I3UnZndUdoRVp4MWl6RUVseWIwT1NMUFU0cEpCSUVPMy02aWs0VDNrZkhlWWNqMWNSV1hyMEliMk1jc2FGOE5Vcnd1ZTgtRm1YbmlXZHoxZS1PcE9CMndsamtHSWFKWWVCYy1XVl9mS29zWU4xazZyRDI2QzFmRHJXcG0zdHFMbkM1VGlDajhCMy13ZURtaTdpcV9MQWJxU0hJ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 07:27:00 GMT",
+        "discovered": "2026-09-22T07:46:26.771802+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدرب صنداونز: يُشرفني تدريب الأهلي.. وإمام عاشور يثير إعجابي يلاكورة",
+        "player": "",
+        "content_hash": "c4f4ad903e560c55b724db715c16caffb5224d84a7750f52ece2ef1de5ca383d",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4049,
         "title": "القنوات الناقلة لمباريات اليوم الثلاثاء 22 سبتمبر 2026 - 365Scores",
@@ -1380,25 +1396,25 @@
         "content_hash": "01fa98891ae008ad2a302734d2e3df07c29b0381042a8ad4257abbb6809c0b8c",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3857,
-        "title": "10 نجوم لن تراهم مع منتخباتهم في فترة التوقف الدولي (صور) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQczdrZUpuTUgwdVBQcURFQjF4Ym5UQjZhYjFCS1NtVE80LUs5OG9qZGdGMnBQQzFBM0hIaWk1OFA1a1hudFJJSXZBMVYtZ05kbjJqaDNLaU1RRTFjbmNkbEdLcE12UE9UbHI0UmVVNGstYThhS3dSR3ZCV0dIcVdtN1AwdUttZEdMbTdKcHZ5dUpjd004a0lsV245NThESm1iSTJPeklLUXBaWDYzZVU3X2RrdTNveHAxTXA2T0R5MHFucHJpVldBaklyMUtvX3hyU0VpdUJrOEVBVmpLdTFYTGpYZ3FRSkxtYjQzM3dvbVNydG4xNGJTZGY1MmNYQ3J3SlBGZkFJNnFWZFNmeU9TTGVkdGdXV09IWThsZzNlek0zbzU1UGV6NTB3VzJKLVlPLWRjX1pvZnpjbkdkTVMweUcxWWRRTlJZUktvVDJ0YkVEVEZYdFBhVjRNRGx6TnVJeUl0SXlZdzNiaEVuZm9tX1NMRk9tTVFpQVhkRS1LSE15ZVBZVDV0MlZPdnZ2Wld1NW9OeGp2dTBJc1VIUE5xSmVsbFBDRE5iQjF2cG51NFpZWGN2QnRTMWhXY29ZTU9fRGVRVGFCZ09vS2xGY25RRjFqOTh4OWpKNkp4NHZ4NmvSAeYDQVVfeXFMTVktYW9xOEJGZExpbFQwYV9tbUQyRzQ3TjV5MDBFX0YyMTZfR09GLVAzRXB1d2doZnV2QlNMemxzVUhkZFdpZGF5aGxRSlJSSE9TMVotV1M4RXEybUFWU2JiSUhvOU1iS2tfeXh3cFJ1M01McnFySlJwVVZCVDYwM0JFM3dOd25LanJWVExVSUN6S1FldHNYNEs3QmxkTUZBbld5akN1NVR2eDdlX2lZOXVQeklBVjVIM2Y5TDVEU1RYQkFKc0h5aUEwRms4T1hlNEJiY2J4bXllYXNXeWVCN0VMeG9xQ01fQUtLVHVpY1JWZ0IybC13eGhnT0phYlBxTkhmV2dCYzRGQUQ5ckp4R2tjemlETDB1VlpqZDM0UnFrRkFWbGpLTnB1VUo3YWxQbjRhZm5ibTJ5S3dZYW1RZVF6UzZGcnBtV2tIX25MaU9HOXhKaVdaNVdfSGYwbDhjTHBMQUFKc3VOTmpzSXdzUXNFcm1QRVBDWkI5X0t4TjRaU0R5Rnh0NW8tYXRSamFsQUYyakF4WUlfVkZqakR3X1JwU3R0a01LYmxCSzNwYk41Vl9PdVRGV2RqQlowWDVyNmNfRlYwTDRPbTktTmlDd3J0SkRBUjFsVnR3RnJXRURPT0xWY1dR?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 17:16:00 GMT",
-        "discovered": "2026-09-21T17:40:54.644996+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "10 نجوم لن تراهم مع منتخباتهم في فترة التوقف الدولي (صور) يلاكورة",
-        "player": "",
-        "content_hash": "1e95baee0291f88250bfb894a1cf8903a8325654a8db8307863e0a92b4ce2635",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 4051,
+        "title": "كأس الخليج 27: السعودية لإنهاء العقدة، وقطر والإمارات لرد الاعتبار، وطموح يمني رغم الحرب - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GTWVTZkhMUG5QNWVUOGVKWFFpVUVOclJXUUtGR0tmVW92YUdqaThFckk4bGY2ZEtRdUJvcXpnWEZZc2taZ25wYVY0UnNNQ25SUGo3Vm1GRlJrdVRDWnfSAWNBVV95cUxOdDBvTWlQNndFLVVnVnhjOE0xTkRkNEJaaDZ2U2pkNjI3azZjUWVETEFSRng1ekgxZFFpSHBXOUZUVXI0WHhBRFlNeHlFTDVDTjFzeFhRdGJMbW1CQ2ljMnBwR2M?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 07:05:42 GMT",
+        "discovered": "2026-09-22T07:46:39.000082+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "كأس الخليج 27: السعودية لإنهاء العقدة، وقطر والإمارات لرد الاعتبار، وطموح يمني رغم الحرب BBC",
+        "player": "",
+        "content_hash": "5b6eb747e4e821c750604cd3b2a12b37058b9ef73373e15677101ca10ac3609b",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 4033,
         "title": "فوائد لا تتوقعها .. لماذا ينصح الخبراء بالحبوب الكاملة؟ - dw.com",
@@ -2262,22 +2278,6 @@
         "summary": "وزير الخارجية السعودي: نؤكد على ضرورة حل النزاعات بالوسائل السلمية العربية",
         "player": "",
         "content_hash": "95bb4a0a1c2cbcc3f3209d87ce72aea7944072d05d7d3d65794be3d4ae71b6a1",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 3782,
-        "title": "برز أمام ريال مدريد وخطف الأنظار.. برشلونة يضم البرتغالي داني فرير - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNZ25adjBHQ0JGd182ZkJUbHNXSHAzZkxXNTgwZDJKM1luY3EtUnJ3TkNzWURtUUdyVm9WdEttSEJ2NEF4Z3luRWpzNEVnZi1Cb2xmRWhwT29CVy1vSXVFMUV3azBYVTRpWXRicmVZTHFxX2xZdnJBZlpPdWQ3WURHQlZkOExzZjhHUW83Unp0dXUwVDJHZ01uaE9MemZqaWZBTnotNTktaWdkS2FBZXF5V2wzeW1uN0lrNEpsSW9DdnBkRWhTY0U1ME93WVAtVGY1NFpMWll2RE9yUExIbXBuaElsSHJiUzJVVVRUZTV0cEwzR2o2QUFweHA5dVlCTWxka2JyTTdxS3Q3U2lPUWo4c2xOaXFMMXA4SkF4dkVIUnluWWdKX2NMeERHN2VkOW8zTUs1US1YNWVsNHdzbkMxSy0yU1NLeUxRZ3ZBSNIB0gJBVV95cUxPVkFaYm9SU0dJd2FXeFVWNHZVNlVWcU1XeFo4bHdDM3JwUEtzazN6cHJzM2RJOC1wazludVRxZ2M5akVaTGViRXdpRHFzcmF2MnhRb1g0M0VPaGVWVVd5Ym56azF0eUNrRzVYcXhUYTZyV3Y5aUZHUTJPeG1rNHNMa29zMG9tMTF6Q1RXSmt1YVlILUJWdDlKb2gxT3Q0ZUtGM1I3bWRnSUgybF9Ba0k2WVhteDRKSjhZR0UzTkZIeUI3eXZrNnBKVkdueGhpQ1lSWFpVU2wtY3lmSHF4bTUxUndpSUVhUXpQYlc1QjAwZ2dCcXh5empsMFBMemlDdE9IblhwSDJjNmRkSnJWRlFvQmFmUkMtWW9ZR0tDd3ZKYXhGTzdFNGxoTlc4R2RaYkF4UGdGY3IyWkNxNTc2ZWdXNXVmYVgyRGt0blQ3bGFYbDhwQQ?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Sat, 19 Sep 2026 22:40:10 GMT",
-        "discovered": "2026-09-21T13:18:32.752371+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "برز أمام ريال مدريد وخطف الأنظار.. برشلونة يضم البرتغالي داني فرير الجزيرة نت",
-        "player": "",
-        "content_hash": "3778191701ffe3659f6220453d6826e37b9a8c39cf86a9b63c55616e21bdc56c",
         "sent": 0,
         "section": "middle_east"
       }
