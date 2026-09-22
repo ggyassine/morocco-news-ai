@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-22T00:44:26.751138+00:00",
-  "total": 143,
+  "updated": "2026-09-22T00:56:35.530286+00:00",
+  "total": 142,
   "sections": {
     "morocco": [
       {
@@ -774,6 +774,22 @@
         "section": "sports"
       },
       {
+        "id": 3989,
+        "title": "قائد منتخب سويسر: شريت شهادة كوفيد بلا ما ندير تلقيح - كود",
+        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOc2dXYlhsUXhjX0VxYWpMRnBKdFZPZVM3bE9fSXJNd1FJS3NQb0hLTjNEMTRqc2tEeEFYUVpYaXFGRl9uMWdmSkg4bzJiVmdlcjl1TjB2ZFlmOXh3WkFfZFZ6T3NERGtvYUFEdDZENk9SbGZjZnBta21xY0NHSjFXaEUtWk1XUVZkbTRCeGJNM2RWNXpUWWZFZ1B4YkxHYXUtWlQyMThRbnZzbFkxWm1NZ3g3empUVXFVZWg5S1VURTZBV3FvVE5XaHdHZWhfS1hUc1pSRl96ZW1kVmFWTUtDZmJGVFBEUmQ5MFo1SWROdzZwNGJ6dzFIM0d4dzg2OVlmU0Q2cGdNX1B0OFIwVDA2VnFmSDA2TU0zVko5WDZLTUdUWGRFVUxFLWo0ZnJuRnVpV0JCY2FPcHFOS1ZZQnNVb1hHY1pNVkhoN1VMcw?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 20:15:17 GMT",
+        "discovered": "2026-09-22T00:56:13.098554+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "قائد منتخب سويسر: شريت شهادة كوفيد بلا ما ندير تلقيح كود",
+        "player": "",
+        "content_hash": "64158d38edfab48c1a5576af5ec918ebc807c159057abbfb5064f6afa000ca4c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 3912,
         "title": "منتخب عمان للشرق: نترقب نسخة استثنائية من \"خليجي\" ومكافآت مجزية للاعبينا - الشرق رياضة",
         "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxNZGVlVVJOQkNSTUV5Q2FxRjIzX1JxUFBKTGJYWVFMZlYtaXNLc0o1T3RfVzVHTy1HUWpYRUw0WFJabmZfdFktb1J0OUl1b01CWEpRN0JnR0lLbzFXSll3S05jTVNkWFBoUGJJTGkwTjF5Ry1pcV9ZRC1keUhudmw4NkFoM1hMNy1Fb3M5WVZqcXkyR3U2MDRCVFlSMERzRUtNZHRtWXhHemxSTHpEOFQ0UkJuZHNRMzMxa1dQenFKeGZmY01heWd1YU9PTHh5UmROcVdBRHdtRjZreDdFZ2pnRG4zLXA4bXM0XzVUVDF4Vk5KckhZdXlSS1E4eVVNX3V2QnZlWTlpRzQtRGhLTnByTndUVGZUMVNxRkJES24xYS0xazFTU3hOamh1aWZUQWVtQmZSOURZMGVYaWNlTTZULXJXY1Fud3dZVFZMd1NITDZoRHcxOW1PXzBoams4YXZQQ2tqdjh0YVV3eGdHdkQ0Y2ozYTZwb2xiVThxVk1xTy01TV9zM20yS2N0QXBCQW1UaHRod3lzejh3T2NwUElsd19DbnZ0UVU4NFltTDVqSWN3U3M4TGdZRTdScEpvUUlBUUxnaWZKT0NMUnJDNVl6Tw?oc=5",
@@ -1261,22 +1277,6 @@
         "trust": "C",
         "published": "Mon, 21 Sep 2026 15:55:00 GMT",
         "discovered": "2026-09-21T16:25:59.731111+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ماذا يفعل مدربو الأندية خلال فترة التوقف الدولي؟",
-        "player": "",
-        "content_hash": "f34abc80037a38c5c240db0d6646ae6b30ece99a4f2c80f35d82b2f19ad75a79",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3831,
-        "title": "ماذا يفعل مدربو الأندية خلال فترة التوقف الدولي؟ - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQRHJSTm5MS2JhVXAtRVBIemJvSEVXYWtKY0tQbkxpRlhsOUFWMmM1V2RzQ3ozcUlSQnhhREs2aUJxZzk5WXdwOGhmSXRMTGh0TDZUOHotWUw2REkzUVBaS1V4R19aZmdhWW1uSjFlNThiMVVldl9xdnhsaE5JTDFsdE1HbzlaVk4tYmpZMDljM05xMV94cl8zVmtZR0tEQmxyRTdQT2tLNjltODllanAzRWplYmxlbzJxWHRtTF83NHR3ZUtHOFkwOVJRMGhWNXlSUjVoZDdPeE9peVhxWXAtMFlBbktOTDYtbzdPU1Fqc2lRMTNDNDlXSThQSDVWSDlzVjF2Zml5ZzFubE5oWDVtZ2NIVVVmSUljb0stdThKVDE1RHBXRkkxRC1id1dzSWJQZENTVTdTWC1WNVpWbXJuMlRJcFI3dkhZdVczUkhtVlE2bkVHUy1WUWM1enozTEM3b1FaV21yb1liSXgtTFhLTkhqQWMxYTB6NFVybW0zSlhsUFRiV1NNM1o1WTYtVVJiT2ItVHh2eDk5TnNHaktCdmZCZlVNT3FuZUhN0gGrA0FVX3lxTE5MX0JzWlFweTYwWVQ1U1RHSkdaV1ZjVDhHREJBZG1McDVka25QMjQweVpMZUVjdlo5ZG5QcGhzUTQ5bFRUMUhOa0JHT3hXTlFmQVhHNWVfOHpSbHNSM0FBbGVKUEYxRlZrTnJHUGg5NTZHd2JEXzF1TEhtRlU1MzVhcFBibDZTdlZvR0ZNWk5nQ3RaWTdfSkw2d3pfdENnS05GYTVldXU2Mzd6dDlkbzVKR1JySldzUkJxUE5UT0NZcXZSOUQyWk9FV1hHaVVXcm5DVXJNd1JBR3BUVkdPSW5FNU9kSGZkRndPTF9rOGN2OEtqQi1TZlZRSlZjWTJZSHNvRzk2alRJa3E1OG4tenh3aW9zbjhoMndtUzFrSkxVUkt1VlVSU1ZIWFNzNzExZ2F5NTBvZXZqY0pjYVNrQ1VEUHVvQXoxQTd3UUgyVzFGM0tEcWJHYU9QcTVpRTJtT3RHR1g4Vk0xa1lYeXJvZ216VWhNWEx3bjdNZFlYQkJfTm9tb3VQUndwQWZiYWtnQXRsNGRRQjVNTHl5YkowUjd0MjJpMXFXTHAtbjA?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 15:55:00 GMT",
-        "discovered": "2026-09-21T16:09:57.332979+00:00",
         "category": "الرياضة",
         "status": "غير واضح",
         "summary": "ماذا يفعل مدربو الأندية خلال فترة التوقف الدولي؟",
@@ -1828,22 +1828,6 @@
         "summary": "باكستان تطالب مئات طلاب الطب الأفغان بالرحيل العربي الجديد",
         "player": "",
         "content_hash": "75f51add8ef8164471ae010a65553e67f641b52f76098f3d038a9deb0982cc9d",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 3490,
-        "title": "توقيع 5 اتفاقيات عمل بين شركات قطرية وسعودية - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQdkVhemtmOTctSENaNWktRW55cEhwNFFZeVFmMlp0VUxtSFc1S0ZzczB6c1UwRFJ0MGtQTlRUT2hWLS10amRPbVRpai10QWFLZmdxTjVycW5XMWJIdU1xLUIzbU8yWTlhRDhLOVhybXBNRDI4TExvMlc4QjNVdlZIUmhWSFYwUFVoeEN2WjFJMFBad2k1cXp5dmFwbG4zdFNMN3VqaXI1U21TZzVBT25yTUNGQ2lFQ1pJbk41N3Q2OHhxZkFRc0FCOFRTY2dLcEt2c0dJZTFCZk5PNTJOSERRd09WNzlJM3A4V05aWnFYWXVHRkluWXg4TllaQnpzaHFCM0Iyb0ZObjM5aGVwOFZmWERNM0t5dzZyOVVTbW9kVXAwWHhMWUdqQ05QanQ1LTZGb2dVbFlhN2lCUm5SeEV0bktnNnZ2WlVqdFdqbGF1LUlqSl9ZVW5wUWdPaTk4Q0dsQU5XQ3dkLThrUEVWbkludHV1TDLSAfoCQVVfeXFMUFlxZFdSX3dxd2NDQzNMejZhSG9DdFQ4M1pBX1BiLUx3Yjd0bzZrWlNiNTRnTHhTN3R2elNTVUwxMEZVWkNiVTZsOVRaR0YxSngyQ3FOc2tYWlJRMWtrdmd2Z1daZTA0TkdaeHdKOW0zQjRSSGVhZXpvMVoycThJNEN2bTVUNGtLLXFfTTRJQXhIZWg4aTBvWnNpYmRvS1d3UzFlaFZ1VDhuSFJsaDBHUWxUck8wZ3V6Zlg0MUI3NFhwRUZjRGZrV2FyLXJ6Y0JCaUZTc3NTb1diRnR0NVU5NlBZMUc4N0plYVVudXR0ZDhoN09BajltWS1lZ0ZybGlaZzVlR1JsNHhaOW5MNzl2d1MycXBQeXNJVElUbHVvSEROWVBVdFNfZkwxTl9rSUc3XzF5dGRmbmNNbk94R2pFOU5paFFVbnVFZFZEdUhibWRjeXU3MXQ1bGxtNmxVZkZDMTA1UDlBVldTMlFXM2N4dGZUMnh3LWloTVJB?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Sun, 20 Sep 2026 20:49:47 GMT",
-        "discovered": "2026-09-20T21:31:01.393954+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "توقيع 5 اتفاقيات عمل بين شركات قطرية وسعودية العربي الجديد",
-        "player": "",
-        "content_hash": "a18f80a0d9ea6a14c06beb4e96f6f17613921d9683035a2d3d065ff8585a54c0",
         "sent": 0,
         "section": "transfers"
       },
