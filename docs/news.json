@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T11:45:56.083443+00:00",
+  "updated": "2026-09-22T11:55:04.349398+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -548,6 +548,22 @@
         "section": "morocco"
       },
       {
+        "id": 4102,
+        "title": "الشارع المغربي يتساءل حول القدرة على تحقيق الوعود الانتخابية - اندبندنت عربية",
+        "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxPMnY0OE1MV29rQkRVVnlVY19SRDFxY25wbFNNUlRDZHZKRl9TQ2hNZEFPeTR3NTVDbGtObzlvVWxyeHA5Vk5ERmp2TmI4cFpUYzFjZk5GczYtYnZ2OTktQ3ZIQWkwSnJLLU82ZTBlQzhiT0JHUlBXa01zSmgyLV84TlZsZHFoYUpwQzM2dW5XSXBlMDd6T0Iwemh3Qkl1MEpQZ2NPeUZrTmQyaXNTd1FsNmotYVlPQUttbzJpbHRwS3ctOXU4TTVwRjhuenJkZUdyWkg1RUx6dGhPdk5oQkFySUxzTFp5bGxWOThHcUhoYXRMXzBhUGl5Vzl4Tklibkd5MGtIN1dNN1J1Rlh4dms2Vm5sYjBrVURvTmVRU0tlOTZPYk9meFJhOTRERGJYaGk2LUJ2a2k5SlFqY3ZqYUJxcWctYUwyRldLTk1lT2FtWnl3VW8wak5rTVU4ak5tWjNBTmszNkEtc0RHYlFubGlYa2dEdzczUV9SWjBuaE40Q1ladENFdWtoNWVOOEhWeThuYi15eGI2RFQ5SVJnOWVaQjNwc3JZNFVISldJWExKcTdGX0s1cXBDeEdiX1lWbEtDTjBPTUVYZmV2ZTVmcmpnbnBRWkxRUUJxcl9jd091RE5zUk12bFBaNkMwT1AxM0lacTdwX0VZb3paMlVBek1nbHJIakUxLWRveGY2cFd6Z2pISUJwNExqQXBTNFFZbVc2dU9CTEIybkpOdi16cGZweWdnRXdXVm01OTM1MHFINGVNeUVmaHN3WEw0T2lHQ29WR2kybW5aVWJBOU8xRlNN?oc=5",
+        "source": "إندبندنت عربية",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 07:52:02 GMT",
+        "discovered": "2026-09-22T11:55:03.101946+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الشارع المغربي يتساءل حول القدرة على تحقيق الوعود الانتخابية اندبندنت عربية",
+        "player": "",
+        "content_hash": "8eb3b8b9012f35af14361f0c3d0153dba7f7ca6a868660e1e6a9dd65d29db813",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
         "id": 4060,
         "title": "« زواج سنتر » يراهن على الكوميديا الاجتماعية في القاعات المغربية ابتداءً من 23 شتنبر – اليوم 24 - اليوم 24",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE90Mk43czEwWmt1MHNtMlptR092QWdQa085SWZrYnJnNGhHa0Joa01OSkZrVnFiTmJfdnVqVVhYYzc4ZUlKRHYwWFJB?oc=5",
@@ -608,22 +624,6 @@
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
         "player": "",
         "content_hash": "60524bcf83b92c6abc261838d4240557c59dce9ae8dd018d6990df020dd3aa42",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 3621,
-        "title": "من البث الخطي إلى الرقمي.. الشركة الوطنية للإذاعة والتلفزة تتعبأ لمواكبة الانتخابات التشريعية - SNRT News",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KZkZHUzRNcFVzWndVSDlVNmlEUWtSY3p1YzBlVTFQRHRnQkVQalBLRUR3X0FXQ1JZM2dGdWViUTFaT1VzUTcyNmJOMHAtakxC?oc=5",
-        "source": "SNRTnews عربي",
-        "trust": "A",
-        "published": "Sun, 20 Sep 2026 12:20:58 GMT",
-        "discovered": "2026-09-21T01:45:08.044139+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "من البث الخطي إلى الرقمي.. الشركة الوطنية للإذاعة والتلفزة تتعبأ لمواكبة الانتخابات التشريعية SNRT News",
-        "player": "",
-        "content_hash": "f7cc3c94695d40bc0721b2797adb6344244c444997e2899759697693e88eff42",
         "sent": 0,
         "section": "morocco"
       }
@@ -1444,6 +1444,22 @@
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
         "player": "",
         "content_hash": "cc141348493cad00605b1e45ab5f52171675d3b74b6cdfd3526eb729ea7a9071",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4100,
+        "title": "بعد أكثر من عقدين على \"الكوتا\".. ماذا تحقق للمرأة المغربية؟ - dw.com",
+        "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxQZDF1RzBQWG5qajJiNU5ZeEpDaTdUZUpYaEY0M2pkckpaMjdmaUM2OHhGMUlNektRa1A5Um9abHFwOEVUQVgxaEo4RmMtVGZhRFNyTlZQUEZPajRvejFkeTUyeHRMbHVpaHpOcXdKQUhFc2FnVGgyUzVjZ2tla0EzOG9HUVdaVW9ma3BnSHlrY2F2cVhYdXd5YWlDR25VbzFBZWNyM3J3TnlUbUhFang0ckwzRVFVZEVsNFF6NHZETWdZR2djQVZqdlFzUHNYbUVieURPQ2NtSGd0NnFwS1hTMEpuMGdXLTZwRHRodlVSY1FTWllHYVRqdjZBbFBmYWp1ZEVtbnFJT2k1RXVjcFA4SDFyUmhUdGpzZ3QwTFhPemhKdjNzajc5d3c4dTIwRmc4UEx0R1JkczVhcFFGN2xTTFUtMXNoR2dCMkVuLVBOajM0bEpMRm1NWVRGMmhZMXZWcHhLUmF6OGxQb3dBal9KNlJqbmxoLUFRalpfVDEzb3YtNlhObVozUGRoM2xlay1vR1ZETnRqQlo3QVpJdW9md3IxN2NtSEhfTkFZSHJ3LXNWSFJCS2JBckZFdXBHaUlGaVQxR0pJV0xOdHpWNkdYdmNva0p0OTlWWmctSFg0VHNFamJOUFJyVWN1Q3NTWGZ1N1RTUnh4Y1FzU25faGc?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 08:44:20 GMT",
+        "discovered": "2026-09-22T11:55:01.222492+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "بعد أكثر من عقدين على \"الكوتا\".. ماذا تحقق للمرأة المغربية؟",
+        "player": "",
+        "content_hash": "b2c58d4539032d2509eebd24ac83168642c0eb13de53ff4992d081a17061a4be",
         "sent": 0,
         "section": "transfers"
       },
@@ -2296,25 +2312,25 @@
         "content_hash": "d33dc6a8bc16fe389f178f953f4486fd2ffac5c80950008ad74eca78bfdfb45d",
         "sent": 0,
         "section": "middle_east"
-      },
-      {
-        "id": 3708,
-        "title": "وزير الري المصري: سد إثيوبيا غير شرعي وإعلان 2015 ليس نهائياً - العربية",
-        "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxObmo1di04cm1KVFR1emFUT0ZDSGdCaUdSUVk5NGtraDIyVC04UGM5a3RvY0w2WWszenRxclJCYU5JQmFBdnRRVjM4Z19RLTNyVWdXQjBHTktsWFh3cmZxa1ZTRTdkdTZULUtDR3FtbDB3aU9oVXRJSW1GWmhkU1NiZmtFcEhicDI3U3VORC1IeUF1c1VUaGlFQTV0dDVxM1hEbU43M19mbGdZUnRPSV9DZUF5YXU1aHZwNERiblktLVd0YVcwN1dtRWNUTGk3eXl5cWlUTEItd0l2Z3dxbkNNX2RpYWV1UFZFOXJzZG9DWFZGdkVqZE0zQnotTUxaZEZNRUZCMzJUa3FBRlNqd0IzdXJULVpEMVRXVUhLRWpOME92eEljRDBnazZCU3Fiemt4RUlzVWJnMml2SUJyREhaQ3hhNm9TdW5OYzlqb1JONWNpTE9qS1N3WWpPTGN6Njh3YXdWaTRmNnZTRUwtcHNiRWVCTWlTVWRqakJZblN6Rm9TT3RuX1lqeUhiazB1U2NLZmJqZFRQREJNWWVlRE9Yd0FmSl9tTlhVdFBKc3lHeExRb19BclJ4VkhyWWlLMlVPWU5IYks3QnJHak5tM0JRMjBaWFk4Rkx5SG5XdVdHc0FKcjM5NGdMdW8wSlVtMlNHOVpTME5haHl5N1ZmNlRqTTZXc0hIYi1aaHloWEh5SGVhcnlYMHJCSTA1ckhHYVVEUDN5X0ZBSnp4SkVFR0lHeGFtS0E0SzYxODdlYVNXVnHSAesDQVVfeXFMT0tObVlaSkg5cFpOaGM4TktaVGxPOUVSOEtrRkhvWnk4ZlRQLWYyTlFUaEtvelVFX2xGbGNxTGFwZGlpQ29pUEFGdnAxSHlyWEdNNHRvak52UVVudGZISDQ4U1J2Q0h5S21ydUpiRU1DeXVKT3F6SVdHV1dlckh4YVZubFM4SWZSUk81ZjV6NVJ3QVZYZ2VnaWtJT05kZVZET3E1YV9CNDk4ZHY4NUtUR2dzVVZubDVWcEdWV01PUm5saW9yazluWEpCcHNtQks5eTJ2YXFTa1hmZ0hLMU5ueWR6c21jbGhYQTRaVEM5dW5hb2lDVnFtWldRdzR2S25md0dQTTNWZXJVZHZGdUJlTHRBMlRRTlJJNmVsSEd5cjlKVVlJUUtieUp4QXVKZlpaUlN6WHdzdWxxYXRXblFTTE5yckFxZGJralBkaFZOby1oT1pZRXdPTnpjM1N5M1M3aWMxVTVLTzZMQ0JxcXVJQ3p2Z01wMUp6ZjNXTXJNT1pWVXBtLU5hc21IaUkzTGZ0eDRRVEp3dExMNXFYUzV1Y1pxZXlFUmVhc0tHaVZqWmNldXlmQXN6U2pXTUdjaExleGE2ZlhOa01Fb09HZU1ZTmpvc3ZWRkx4QjBCdmVSUzlvREtDNmtGMXRpTmM?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Sun, 20 Sep 2026 15:30:00 GMT",
-        "discovered": "2026-09-21T09:44:42.578586+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "وزير الري المصري: سد إثيوبيا غير شرعي وإعلان 2015 ليس نهائياً العربية",
-        "player": "",
-        "content_hash": "f4cc72ca8b40b5720701105614747278ba46678a530f1d2341893f4b3c43a663",
-        "sent": 0,
-        "section": "middle_east"
       }
     ],
     "world_arabic": [
+      {
+        "id": 4101,
+        "title": "LG تكشف عن جهاز تكييف ذكي في معرض IFA برلين - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEN2ZaRkNOWEhmODU2Ym8wTFFfRENMaE5zcTVWamR1UHBrR2FYc2FYVE10RncwRkh1OFY3dkFSSDByTGF2U3pIcUJYWjAtSC1PSTRaYkNKOF9ZTm02LVHSAWNBVV95cUxQQWVmWW1abFBjemc1RlZEcEZJcWY5WHhPVHZSN01yeDZEN0NqZ0hhak0yVjRNSFJrVU85aTgtV0FkMksza2VsdHlONEtZYThmZll3dVczSmF5aWZ6UW4ycXJYUm8?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 11:38:16 GMT",
+        "discovered": "2026-09-22T11:55:01.846016+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "LG تكشف عن جهاز تكييف ذكي في معرض IFA برلين BBC",
+        "player": "",
+        "content_hash": "faee108d4d81951ee4f6577d62382cb0284183dcef8ce2617dae1f346916345a",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 3918,
         "title": "الانتخابات الإسرائيلية 2026: هل يشن نتنياهو هجوماً آخر على إيران قبل موعد الاقتراع؟ - BBC",
@@ -2392,22 +2408,6 @@
         "summary": "واشنطن تحذر من \"تصعيد سريع\" في الشرق الأوسط بعد استهداف الحوثيين الرياض France 24",
         "player": "رياض",
         "content_hash": "65d70a24b5b91524c9312faa034b62cd00265dbb30eac0774938c0e0ce156920",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 3987,
-        "title": "طوني فرنسيس | إيران تنفذ مضمون رسالة مجتبى الأولى - اندبندنت عربية",
-        "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOSFJ2QVdwRnRXR3c2WjdjZ3JlbGhiU1BQSWRPRVpIbWJHaXBEWDgtLUlKaEhwbnFac1JoT1RtbDA4SVlwWjRQQVpBZ0QyT1RBOUVrdVBWZXEySVZFWkItbDdsRUV5cUJOcFNKTWpvaXNhRUpUb3pDYzJXQk9FZmFMYWNNSzNpWkVYcVhsUmh5R2RKSzZoM01mdUgzT0lpeDBsRkdtdFIzOFdCdTAzZHUzbi12TTV2dFc1ZHFIcVJUZkU0Q2pMcTRJSGYwN0hkRnVqbU11ZFcxQmlteFIzcWowNEtEeXdqb25NNEh2NElHODRkNWROVXFPd0NrTVdsYzl2RE5XNjZpZUVXUUcxNmZNLXh3Yi1qTnplSlB4UWdtYnRUTXNwb20xT0ZzOFRncGx1ZTFEcElJcGFiT2l2TmFMMHNxU0xXVHRfLXU4a1BndGcxRVdHY1FwcGZGeU5Nb2sweFJ5T3ExbTVvMkdwQW5tYUNR?oc=5",
-        "source": "إندبندنت عربية",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 15:30:43 GMT",
-        "discovered": "2026-09-22T00:27:24.122713+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "طوني فرنسيس | إيران تنفذ مضمون رسالة مجتبى الأولى اندبندنت عربية",
-        "player": "",
-        "content_hash": "850733828ed83eef3e527b90714f8cd1bde99d695fcc757301229dc39e1bf3a5",
         "sent": 0,
         "section": "world_arabic"
       }
