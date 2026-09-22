@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T04:33:29.652276+00:00",
+  "updated": "2026-09-22T04:46:16.931676+00:00",
   "total": 146,
   "sections": {
     "morocco": [
@@ -16,6 +16,22 @@
         "summary": "حدود الرهان المغربي على واشنطن وتل أبيب alaraby.co.uk",
         "player": "",
         "content_hash": "a4c36d5e583e8f4230725b1e4905eddce22445b15e8343e049f3ded9c44a03c3",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 4021,
+        "title": "الطريق إلى الانتخابات 2026 | محمد شوكي - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOczhjOER3VUJPTHduNGZpZkkybXptWnB6YlQ3d3JlazlhRGdXdk5aS2lIUmRmb0xwT0tham5KSjhQTFhwejZsdE1qQlI5RVAzdG5JTXZVS0M4RlJDSkpiUzRpRHllUnZrRHdmcW9NVE9leGtGekhiRFpSOE03RzUxOXZGMFY4WDhwQ1g2SVNvSXBKZ3NoM3MzdTNXUWJfeVpTTlMtZHMzalR3alNKN3UxcDJYd3Rwamp6NXNrRWViZ1Vtc0pKLUo1cFBTT0lqbWxGblJ4VzJBMjRPV1Jxam54cW1UaV8wM01henlTVjVYMnBuaVEyT09Gc1ZSazBEU3JybXdhZjF1X0ZEb2JWZG1lbTRDZEZTQXFOMDVxZlQ4c0lOT1JNV2IzWTA2ZTZvS0J2THBn?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Mon, 21 Sep 2026 22:28:31 GMT",
+        "discovered": "2026-09-22T04:45:50.421671+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الطريق إلى الانتخابات 2026 | محمد شوكي Hespress",
+        "player": "",
+        "content_hash": "c90ff839cf1670c5516245d53521ea510cd10a0b580f57377aac402da7bf1f98",
         "sent": 0,
         "section": "morocco"
       },
@@ -436,22 +452,6 @@
         "section": "morocco"
       },
       {
-        "id": 3522,
-        "title": "لقجع كينتقد عقلية الفوحان بالمشاريع : اللي دار هو لمغرب واللي تيربحو هما المغاربة - كود",
-        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNM0FDN2J4YVA5Mkw3UUkyYVNwV1VjVzNxcWFkVFRTNENVVnpIaUlUNkswZUU1V0JEZkkwMFJ3WlRmZTNpLUVhczh3RndRNVJBZHBQR2ctVTF3WWozTFJsOTRtVVNSMFN6VVdtWFdCbkkwTHp1NllvM1ZibHBEdnF2c1pxNVpibjZENHFrOWNZVEozaFRjVTU2UlB4X3JlRzg2Z3lvM1o2WVltMXROQzR6RGFpMXhjVVhKQnJTV0dsOE1vb2xBcElGSW94bHMtbVp4U3BzTUs1ZkhreVFRazlPOTRnTDM0TnZTVHBTS0ZDZG40UW9lU0lJVEZOZlZyTVBJVGt5R3RjTzF2a240REdGRVhJYklYcWtHTk1xRE4tdUtBM1o1MnJZdlloa0ViVGpNWkNyWU1wc21qZ1A4d2hJd0xERGRyYUV5UlE?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 20:43:46 GMT",
-        "discovered": "2026-09-20T21:51:15.246836+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "لقجع كينتقد عقلية الفوحان بالمشاريع : اللي دار هو لمغرب واللي تيربحو هما المغاربة كود",
-        "player": "",
-        "content_hash": "9cc519d17cf02135af3aa43d31372b679d18dbd071049967d0dc2a9a28956bac",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 3644,
         "title": "المغرب يعود إلى توقيت غرينيتش - France 24",
         "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQckJhNFNzWTBlN0N5ZFg4QzNmc0loNHRmT2MtZlFwR1RfMFdIOHBRNWcxREFENDBPYnlCdkJJcnU5QzZSWjJlMi1Tc2RROG9mU0NaWXJyS3MweDE4RlFxeERaaHkyR1hhS2V0ckhzTTg4bXRGbURlWW1PVkl5SEZ1MndsMzVNR295Z2FYTUFEWmY0Uk54Y1drdV85LUlsQnlSWnkya1ZyYlpkZnBMLWhGVFg5NnpleHZ6eUZ4NHBnMEFLekdIOWUydDItd0Q4T05tWl9MZ2ZpcXJiel9BbjRCUDZtYkJzdFZDVWFNTnJKaVZLRnNYVGZWelEtZVpEbUNVOXJPb2FLbzN3bjRLTzBZYXhMQlpGZ2UzZlZCRlZHMGhJeDBKTzFMREJrVlpLOWZFRFFYblY0dTZ0Zll0cVlyUWRRV3k?oc=5",
@@ -464,22 +464,6 @@
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
         "player": "",
         "content_hash": "60524bcf83b92c6abc261838d4240557c59dce9ae8dd018d6990df020dd3aa42",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 3521,
-        "title": "لونكيط فضحات زيف خبر الهجوم على مقرات «الأحرار» و«الاستقلال» فمراكش.. مصدر لـ”كود”: الناشر ما عندو حتى انتماء سياسي - كود",
-        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTHI2ZzdQTm42Nm02aXRWcTJKX0hCd2JtQ190R3NyWTVPZ0JjblVKbmgtUTZLdXlDNUUtV0tTWGR5WnZyYkt5V1JfX05wLTYxRGVoSUVfeDdMWHY1RDBKZ29oZm1MRkFtNjRfelRJUmR4NnF1NGtjcVpLUThfcUFaWkM3alBSSEpSSC02b3QxcFF3WjJDVUlsckJfZm5aeW9YZzhUaEplVDNEcTNGdkx6Z2RhSE8tZGo2eFlGZGc4MzZfNnVjWFg0UFRlRTA1LTYwcTUyVGd4YUNaZGNGUy1NcFFGLUw0dnYyQzhtQ2c2OE9IaHRsRmU3WWZhZVJIWktXSlZ4SEdSYnVIa1RmeDNna2QxMUZ4a0JOOUdhN3N4MzB2QjVjcXlWSVZtMUlDdEhuMFFUeGF1RXBKMl9LV1o4WEpaRQ?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 19:45:46 GMT",
-        "discovered": "2026-09-20T21:51:15.236989+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "لونكيط فضحات زيف خبر الهجوم على مقرات «الأحرار» و«الاستقلال» فمراكش.. مصدر لـ”كود”: الناشر ما عندو حتى انتماء سياسي كود",
-        "player": "",
-        "content_hash": "a308a2cfdb46cd5736b7308b20743f9457966f797f303e2f6885975a17813f09",
         "sent": 0,
         "section": "morocco"
       },
@@ -1908,6 +1892,22 @@
         "summary": "أتلتيكو يكسر عقدة الـ49 عاما ويكرر سيناريو 1977 أمام ريال مدريد (فيديو) الجزيرة نت",
         "player": "",
         "content_hash": "c34bbd0b6779136bdc5136e3fb86f11edec025d9281425763f83a79ed20d90d0",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4020,
+        "title": "الداخلية تحصّن تسليم محاضر الانتخابات بتعليمات موجهة إلى جميع الجهات - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPTEs3cHIwbEVCdFJkVGc4QjVxRGFPSG55ZWVLcnBOTTl0c1c0NTJYdkZYWHhDTG5KTk9sTk00empJX0E4eWJrVEsyRGVlWGFNYzRMeEpxRjBGUy1xcTNaSkpkbFZCUFgxVjNHV2tza1ZGZ0JiT0hnVEpZbU9ocGJNMDZYd0pjWENydWJNTENLR29QbHRrSmIxU3JLT2tZM1hpVXg1RFFaaHlpU2NSRmpPMVUxVTFKcmtQOEpoM182S3hMUkdkeDJTbjJMa3NPRmtINnVvWmZoajBjYUc0VzNXSXl4MHNLRFNZOHF3SUo0QUEzYmg1N2d6WFN3S3VpTHVJR1VCeGhSUGFXb1NtMmZDNV9KdHJ6UEJULXhXZHJIbjdKaXpiZzg2MFdzZXR6X3g1dlJtaUlMVmx0LVJIel9VZlVTX2RmTllkY0Uwc1F3VzI1NkNfUkE?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Sun, 20 Sep 2026 19:06:11 GMT",
+        "discovered": "2026-09-22T04:45:50.400488+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "الداخلية تحصّن تسليم محاضر الانتخابات بتعليمات موجهة إلى جميع الجهات Hespress",
+        "player": "",
+        "content_hash": "44df4d7b39c9a6461e94466ded696a2f2d430f2676f74baaf2cf5d795ad60b52",
         "sent": 0,
         "section": "transfers"
       },
