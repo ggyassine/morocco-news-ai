@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T11:20:27.137305+00:00",
+  "updated": "2026-09-22T11:33:33.501276+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -614,6 +614,22 @@
     ],
     "sports": [
       {
+        "id": 4096,
+        "title": "السكتيوي: لدينا رؤية طويلة لبناء منتخب قوي لعمان - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxNVmVyd3gyN2s1Z0JhUnJfMzRNVHc3VWFwUE9xbTFhcktoVmU2T0VGTHk5YUJOdi05dkdYWkt4dm9XWGNfR0pWakRLN3kta2hZWjk3TlNIMVNvNDZyb2ZldmdXcU9KcURmekg0elp4V3ZXRUdmdndEVTBKTnN2UXdGYWtsNzdJOTh0SEZmc2U2a2tVVVMzLWJQRzYwQjN3aWYxN2VKSFNObzg0RS1qYXZkcUZmSlVKLUwwMHpJdGhLSXBsN3ZFcVJMWWZ0YWJuQUV0U2VHckpNck9hZFV5MDZHLWp2c2xRRlc3WVR2ZmJvdjE0VS02NGE3bGx6aDdTNDFyR2Jrd05Dc1FXT1ptajhFbG9YU3c5QlFPWTlSbmZvUlFQLVJTcDdJUDNyb2N4ZzhQMUY0NjRMT3FQcXJhMXVmVFB3T0lra1ZwbjRsWmJXTm5xTzVOVWlSdGdibTd3QzA0UFV5RTM0VjM1NVdsS0dYUk5IcTZ1TWhGRmlEZTRsOVJuZVRZMGp6VGx6UkkyVlN2VUY3SnVTaHM0TUc5dWUyeVJLOVFWeFRQa0JSY1lmUjNPQzA1aU5GdFdiTEtzOEstVXU4UU50MkhxS3RqaGduczB3WVpuMkg3al9Mb3YtQ2hJdG40bW1xSmtRSi12dTJVb05Ub0dHc0dOdE80Sm5PcllzeEhVcnNyR2prbVJReFZseVBaZnc?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 11:28:31 GMT",
+        "discovered": "2026-09-22T11:33:17.305796+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "السكتيوي: لدينا رؤية طويلة لبناء منتخب قوي لعمان الشرق الأوسط",
+        "player": "",
+        "content_hash": "f2007ec9473c14abdb4993f3f9c281006a12ae609316786ba8c50d025d238f0e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4093,
         "title": "سوزا مدرب الكويت: لا يهمني تصنيف «الفيفا»... هدفنا الفوز على أي منافس - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMi-wRBVV95cUxOY2dWYnljWVE1YjJ0TEFheWpHc3g5WnBUWks1ZjU5R3RZV2NWYkFfcnJvOHJBalpqaGh2bGwzU0xMUW5KYVdWZUxucXdMd3pIVkxHMEloMlM5bHZaTk1IWjA2clJKSTR2c0lRR2tWNk1UWjhrQURVVHNPUVZScnNIMW1aWmZqTXNwb2owUUtBMlFRQ2NqeGp3WUNuMmtBUFVkM0FtakhpSV8yVzRfbklONUVXRVFqRWJSOWJoU1N5TnFMQ0hSVlVveEtROXhNRjVlZElzTjQwdlBVclluVGNjODdyZU1WR0hHeTV4Tm85VTRjS0xEVjZmcjNZOGUwdHFqRS1uVVNBTzZYMDZVWVZIdEdiV19nRlJoYnVFRVNlMDJPQjd0WE1sbXlFYjVYLTE5ZkNMaDBNeG9Ob0ltd28zLUJOc2VPQzhHbHpSX1hIYXhibXFfUXQ4b3pTOVAwWDJSUTBOcVZMVFRWcFBkZGtTcElVWE1mNkhManJqdzVZUHFmMDVpMGhhN2hOa2VEWTRTc2dPTGRrRVhBVkNScVp4NnpsSDFfMUtaVmxfeE01dFUzUk0yOXJYXzQzc09xekpRTjJDajdwajBFSE5jZkFSX2FxRkdrMzBqSl9SaU5tRS1oWFRtTHhRdVo5NUczRzFJcUVMZEl3R0dmOHRzX01PdHUtSVRZVUtkUUgxRU5MZEhEX28tbTNUSjVhMmNpZlppMUdMLURwLVI2Qy1VcVF4Rm12UXU2bS11LVNvNTFLd2sxd1dzMGVGMzFyTEpOc3c2MG14RE55ZHpndG84bkZhd2JkRkFmUnNXY2EtMnJDeEMxY2V3N2NDUlZIcw?oc=5",
@@ -854,6 +870,22 @@
         "section": "sports"
       },
       {
+        "id": 4097,
+        "title": "جدول مباريات اليوم - 22 سبتمبر 2026 - بطولة قطر 2022 - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZFdVaXlpSWxVZHJ1amJBa19HLTI1UEV5Q1BJWVRyalo2aUlVSGZnVjljcFBDRlpDY2lMeGZqX1hnVHMzNS1Pdk1lVm9sMlB2RFROVVRJQVpwbFk0VEVBcDl2Q0ZXYW13Rm9ITFNHOFUyaVd1VHpGMzktSzVLWkZtc2xRWnBjV2ZYYmR4MldmLTI3bGYwWnRYdGw2czk1RTA0TzVaa290SmxZcHFpV0RFOQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 07:53:44 GMT",
+        "discovered": "2026-09-22T11:33:19.782554+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 22 سبتمبر 2026 - بطولة قطر 2022 FilGoal",
+        "player": "",
+        "content_hash": "5727d1648a47be70be886447a76326e70bd9422defcb438ad550eb012de55e26",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4069,
         "title": "جدول مباريات اليوم - 22 سبتمبر 2026 - بطولة الدوري المصري - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVG1DSkY5YXEyajc4MHEzUGU1VkloREJ2dXBLWXVwb3hqSklBQU9VZ2tTVEc0ZkQ2czB1dVRlTzlILVJkdGNwR0M5aURoUjduc083YWYzdXVHcFNrd1k0ek1IZTFzV0NkN180RExsMGlYdEd0d01lbVhQbU4wWGtVRUFrVlJWa2hYOExMU01fMklJMzdjRHdHcTFISFJVNG9CdWpOTEpSTkhyMU90aU9aUDhiYWxFXzcyX1AxUTZITXNvaFp0UUxCRDFteFVzRmJLVWtyR3lYWHItVmF5VEx2ZGVuQTBnNFJoek9MTGNwdm9pZWM?oc=5",
@@ -898,6 +930,22 @@
         "summary": "جدول مباريات اليوم - 22 سبتمبر 2026 - بطولة كأس مصر 2022 FilGoal",
         "player": "",
         "content_hash": "f7f1e22c924abe21cb2b8d8713ac4b9ceb6bd624027428921e28fcd38f69abb4",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4098,
+        "title": "جدول مباريات اليوم - 22 سبتمبر 2026 - بطولة كأس السوبر الإفريقي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxONEF4Q2dBWGd3SDNfMlE2azBQd3JlTHNqSlJ1UzhWc1ltaldKZzc0X29henlVbVdIZnhRLXJVMy1ZWGZfeVd3MjRwMjQ2Zmc0RWlhWm84dmg5YVBhQXktN0R1MUgzdkNFYWwwN1M4MGJaZ0c5OGloTXVqclZLQ0h4S0FZYXAyc25UallaZUdTblllUC1QX3h2cXBhRl9kSXY1VURtVzFhNXFiYW5STmRrVFc2anRxQUYwYXV4c2hFRXdkWjF1Vk1OZXU2VE1jQk00dVE1TzZNOXVCT0d0X1lyTXRWOFZJOW4wSF9RanNfc0M2am4wMThuakVyUDR1SnpkVmxNMndja0RPWVJWWWM5aUtDRDJaaDNKNDl2NQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 07:53:12 GMT",
+        "discovered": "2026-09-22T11:33:19.787799+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 22 سبتمبر 2026 - بطولة كأس السوبر الإفريقي FilGoal",
+        "player": "",
+        "content_hash": "cd1e699a24eff71f714a74c4539563ecac3b58342b47bc9a606fab5b02077355",
         "sent": 0,
         "section": "sports"
       },
@@ -1362,54 +1410,6 @@
         "summary": "اختيارات حسام حسن تثير التساؤلات بين الجماهير.. هل اللعب للأهلي هو تصريح الدخول لمنتخب مصر؟ سكاي نيوز عربية",
         "player": "",
         "content_hash": "267a74381a9265d776d1fa15f956eadf0fea3e7946fa06b069c4a4fbc5723a3b",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3925,
-        "title": "«فورمولا 1»: تقليص مدة السباقات اعتباراً من الموسم المقبل - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiyARBVV95cUxOTktkcEVhRUVjQS11REYtZndNd3g5YUI5YTFDYUZsOEpTbFZTRzlkVUtFcTFCVkpjcEVyUkhKYjVmbW1Vd2JiZUFlZFhrOG1BVEhBbkc0LTdCNlBvWHowUHh0b0pvdmNHM2R1ZHJHTHdCVWdwZlZralNLVXNjc0ttQjhwRGdRQU16QTJxLTR1OEd5WDZ4RE8tSEdhcm5mS3ZxQ2xFYllXTUhTQnYzN0JuelJaX3R0eV9LSU1femVzUFBoXzlNdlIwU0JmcEtGamdmRE41WGNmbVVtUl9PMy1ITldXbHRhaTBsazAwU3czVmpGbk4tdDhmT2pqQktKYkFuVVJVVXBsNkFaZ1N5YUxzQXNzRE10SjE1cVVNZmVDVDhpVzZ5ZHp3Ql84QUpZNzNkRnNOMVZNcEg0YjBhS2ptemJ4aXFsSkNQUGhoRFJMdmltVnZYVG0yUTZzTjQzd0ZVel9sdXdOOGN3Z2hrd2c3bnFtcVg3dk9tVThwWjhRM1ZFRnhPT2dpT0J4UEVnSl8xbHRoRFFiN1JTX1k2cUJ6YzR1YU1PSmNvWldBdEdpUFIxeTc4MzBTNU5MRlhRVThZd3JLUnZ4SDd3dnJudUxqQVdKOXJmQUg4emJsWGZteDZfN3FEaHpRZGdxdlRBT3U5RndiVXprc1kzVS1lVWtGa0VaeDFYYVlxNUU5X2swUUp0SzZGWU4zOTRrOGJBa3ZYaERFam5lRTFELUthRzcyOHFDckR3NGYxUkxqMHcweFlOYlgteGhNdg?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 20:43:35 GMT",
-        "discovered": "2026-09-21T20:52:00.752442+00:00",
-        "category": "أخبار",
-        "status": "غير واضح",
-        "summary": "«فورمولا 1»: تقليص مدة السباقات اعتباراً من الموسم المقبل الشرق الأوسط",
-        "player": "",
-        "content_hash": "703dad6ea8e6939e7b34d822018d45982ae401f9301f32ceb07c5200ab28f40c",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3926,
-        "title": "تقارير: غيابات بالجملة تفتح باب منتخب إنجلترا أمام موهبة أرسنال - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxPRkpTd0NaaE1FdFVFWVdrR2lXZWFoTmlWcGVvTFZDcjNVMDlkaEdIbE56RTAzMmNZUG00WU5QcmlQNnJkSTE1a2xSdlFiVDVwMmdJU09IUXI1SmFOTTFRRVZ1SGlDX2JCT19QM1RUV1BZYzB2aXRNUEt3OU9jMGV0RFlDUnN6eUNBZ05pMlZ0LW5kV1RTQTBOOGlQclR5SG5mVi1RUHhLR1VnY2xnVEpZVHh2b3RNdWpsTGtGVEJhcFRZanBuZWRIQ0s2Mk1qNVdkZWlPNkNHQlk4eGI0TTRhS2czLXVIUzg0ejFQNXpwUDVlN2JZSFQ2R2o4cEdvT3VhOEFoMUd0QzVWcElLVE1tUmp5c3FiZFpFUnNabHAyYXk2V3FaUDNCT1dlQUhGOGx0Zk0xRmZ5dHFYX1hMUzZHdDhGbFlvMUFLTGRUNzBEZDBvNTZFOGpiT293WS1Hbk9WQmFPMjZfa1JkUVVKVnpDdTBqdTRJMFluVUlpdUJuUk0xWU5lbXpvQzRaZGtWT3NMNUpuc1M2UWM3NEw3TkdPZUJkaURid0drSmhrTjBmRjMzUmJxdnBPUG1YX2hORTdhMU5sT182VFRoTTF6X1Q2NzAxQTRzN3otQmhYUFNTZFZpenJMczZKQUpTZG5zSnlQNW5Ya3g5VWpCRFFOQkRvb05YUnBMcG9HRVFjVHBQWEt1bHMwalpEelRHbU5tdlJmNEQzedIBqgRBVV95cUxPRUlmaWJyRXNYNVlLcWE4Nk4xRWE2WE1XNjhTVVVFV3gtT2pfLVlJcUpPTnV1LTljaGVQaGNkbWtnbF9xbU12QW9PSUlZa1N4QkhrVnBpOEIyRW9qWEM0cWpVWHhZYU5KcFlZbE5hTS1vOS00OUU3TGtYbEtrSjhCUURGS09lc3BmS3NhMENBYnNfOEFjd0Jla1FuVFVkYnhOZ2xMM2dUN1A1emZTbngteVNkbUdsakFqRFFIcURPbXR2MDN4TTdlVElsbmt6bUJlQUZtQ092QlRfNTd2SHB6STUxbzkzeUJtb3VCR1NoZkJOTWhSampzNnBDSlRsWmZIZHlZRUU5UWhXYkNXWURKXy1yUExBd0h2cU54dXZfWTA1aG5VNzBicHFuZXdhTW5uUHdqclcxeERxQktCN2JCbnBHRlBMSXd1QWRNenVWaG5OOVRsTzdSaDR0a1hCR0lhUGdCV1pYUUR5UnNISFpEZmE0RU9NTmxSaF9DaEhFS0xHYk8yTmlRaHlsUFhIeUt6a0cwcnlDaVJhNnd6Q2k5WVduZ1FhTFJKd2I0SjVoYW9RMWxrVWF4Q2h3b3Jyd2k5TnNpaVVSMEhLMDlfNDdqLVlHM3FnZmR1RzVFU2hjU2FiWFNDZUhvSTJJYzd4SVJYWFpyelFVM1dndHBlMHhKTzduNW5nal9Ydm9KWU1IeEUxNHBEMnRHZVdBeVpHdXBfTHp6RzdCYktjQQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 20:41:00 GMT",
-        "discovered": "2026-09-21T20:52:04.826485+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تقارير: غيابات بالجملة تفتح باب منتخب إنجلترا أمام موهبة أرسنال يلاكورة",
-        "player": "",
-        "content_hash": "385c4d6cf74280d9349be5685618393bfb210f2a665955c4b2ae592c569fcf88",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3921,
-        "title": "سيسكو خارج قائمة سلوفينيا لدوري الأمم - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxQb1NzODdxdlcyZHliMWxJYjNNVWhjQjh3TWo5c3ItalA5OE9xNHJMNjNlN0NkVXBSTjdhZl9Pc0MtWWlBajctQ2g3RDNFckh3RzRBZjhZZklNWVFZbUl0TG1kUmt4WklhYVBhN1Uzb3FpSDVxMzJsNU92U254RVY0WGloLWZOR2RydmdVdk5jTUVDckJMN2pnSW5HbTdPcFY4SU1ZS1BKSFNKM19hNG5iYXlacmxJY3pqYmlVakpzWktBUmRLOEhhTHVzNkJsRjlLM1IwQmlxZzFOUU1qTGFJT3FJRTQyeEdCRC1MRVVCQllEcjltZ1dJbjdycWl1XzZlRFE0UlpJN3ZZa2FoaTdQaWRJV1JJX2xzTGRwUU5La2ZfUzFRclEyZF9zMllDZTNvR2pCREt0dkFIODBxNDJhRzlUMTZuNW56X1pOT1NHb1lFMzBtX0NNa1NZbjY0aXRNMERXUXBwcUhPVWo1Uy1RMkQ0al9sbmNhN3BmSmNOM050aWcxZll4TE9OXzEyZVZwQmhiV3dmV1plQ0R1VllMb1BGN3pieFJfc25MVG1SSlFpWjBydklxTHRKRVdYb2NmamJ1amcwOVlLTFplbG5mT2pqb01faTF6eTJV?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 20:37:19 GMT",
-        "discovered": "2026-09-21T20:42:51.091937+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "سيسكو خارج قائمة سلوفينيا لدوري الأمم الشرق الأوسط",
-        "player": "",
-        "content_hash": "388a50fe3ec016805b517a05330b033c2e71b7d267c071683612d70f4bfdbf5d",
         "sent": 0,
         "section": "sports"
       }
