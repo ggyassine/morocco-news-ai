@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T14:28:32.684093+00:00",
+  "updated": "2026-09-22T14:44:04.622336+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -112,6 +112,22 @@
         "summary": "شاب مغربي يختبئ أسفل حافلة فريق إسباني DW.com",
         "player": "",
         "content_hash": "4824451ef677d0f0f56057f5cde6a89aa86d3990d1b79456f081090e54044044",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 4151,
+        "title": "المغرب على موعد مع الانتخابات التشريعية وسط مخاوف من عزوف الناخبين - France 24",
+        "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxPb3E2SndNT0RWOUIyWDV0UzFGQjlGLWhleHFFd3V5UGlUeTdZdldTTnI3ZWlSSmNUUFVYcms5TEY2SU9HdU5QSWwtaGV2MXAzZEhlQmc2TTVvYnJPSEh6UktUM2hoNXpmNWZISDU4d1I2a1Bwd3hsTTdoc21nLTh5aUFVNV9BY3o5SXd5OTBDVjUyQ1lQeFJyVUtPLXpjUmJnSVJvNXJJMUc0WkdtSloza3E4WWhIZWd5XzRHYXpWdmFGNkREc2lDeXJLWWZEaW1JWXRId2g0U0V3bjFOSHVYQS1HVHVIV2pLazJ0UFdSaHg4V09teFZNV3o0TmpYYXpRVUN1VWYzODZ1UE1EbDdmMTVINHFwU3ctS0pjTGVtQjl2OEpQRElVWjBxR2tOeTFmZUVxN29uM0dtbTJyeHRfd0RaSTNvampCZ3otaW5SOERHNjBuNXU5MDRndkJtTEp2STZ0ejNOVkZlTUY2OXJxT0hGTy1qOTA5VDdvaFpUS2d1ZUV2X1N0ckVmZmx3SkNCLTZ6WUtkSEZ1cG9fWVhPY3dQSzNrWDdUcDc4QWxXNC1qbEE5NHIybzBsTjJMUW9jakFodjlGS0xTeFIyWWppcnBpeXlHR2pfMTRaYXlhU1Y3dHJYRkdOS1NJX1Y1a01CeGNXVFNLSXVGX1c1VVltR2N1RUg5a3dyMWlYWFhWbVE4WlBMX2N3MFh3MGdUNzVHV2FiNWR5ZDJGS0k0bUczMDZyS2hiRTlOQzJtbEdNNlVrbklF?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 07:29:33 GMT",
+        "discovered": "2026-09-22T14:44:00.762889+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "المغرب على موعد مع الانتخابات التشريعية وسط مخاوف من عزوف الناخبين France 24",
+        "player": "",
+        "content_hash": "eadc08032f2e008d2b6fe1e6af97818c56070d9f57506c39eceaaa11e845b47b",
         "sent": 0,
         "section": "morocco"
       },
@@ -645,6 +661,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 4146,
+        "title": "اتصال واعتراف صريح.. لماذا غاب تشواميني عن قائمة زيدان الأولى لمنتخب فرنسا؟ - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMiugVBVV95cUxORmoxSDhxNGYzTlNPTFA0M0ZSSTlreXc3MzJvcU90LXloRTNtbEpCb1BoVEtOTkNPWXFrbV95Umtka1dkLTNHUW5zYnlvRmpMeDFMdi1zcVNUdVZNWko5R1BtM08yQU4tVkZFOGpKb0VMS3dRNzFvYVk0ZFU3T2xsZmd3Y1ExUnFvbUUzR0tCbmhsaklLZlVnckJ2SktVeUZoWDhRYTc0NnpQQmJaM1lVblNOTXJCTTBfcUlNcWd6QjM2UVZkYmNLYjNMeGlRYXN2V040M2xlWlNvMVpsSUZfekt0X1hqRzRvRFRZOVhTeVBYVTltODNvaXc5UE1sYVhuWDFxT1VvNlp0XzlGQ0hjTzNERGhLSC11Sjc4blJYOTdFdHhmWmlUb3VUT1Y4MlNGZUx4U1dhQXlkWXdnMUhDU0ZhTFY2bG85SnMzNGxBYWlZQzd5ZDFwMUpoM3B4aEhMWU9KMW84cVZYdWRFSnpwMjlseXo3bmg2Q1pSYzVFQ3NOVFBzemlxa1VRU1dTX3lBWTBDNDk4NWFJSlJUZk15MkY2ekpabnFGTnlpbjBlcmFJektYUzlOMlJLeklWbVpvQkJoSmYyX3ZVaWxubGlYOHlpQ2Q3YzhHZlRvNHVvZ2wteTN3OVFTNlVzd1NtQkhBdnhGMXIwT2ZqMDMwd2I3bFBxT2pmT25DTmRfR1k1aGJjbFluVGdIOG1rX3U2V0s5a1hKSGFVM0ZveXZucGV6ZkJ2Z3RuWlJZdFdwd0s0Z3N4dy1scGl1RklzMnR2VjBkNWtqTlotNnpLalRzQWNaLXZjbUJMS0pTTnV3bDlwZE1QZmJsck5kWGlvRVE3TXRUUFJFTjhuaTlVNXBLYTZEOG81RzktUDc2WXIzYU1CMFduTURuMENqY0xPVFBObWJxRkQzb0IzZVMwUQ?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 14:30:31 GMT",
+        "discovered": "2026-09-22T14:43:43.951457+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "اتصال واعتراف صريح.. لماذا غاب تشواميني عن قائمة زيدان الأولى لمنتخب فرنسا؟",
+        "player": "",
+        "content_hash": "ffba92ce1afd1a384e5b226a820436e57f162ada33c6cc3e7affb5a439e322f0",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4150,
+        "title": "في الجول يكشف كم يحصل الشرقية إنبي من الأهلي مقابل ظهور علي محمود مع منتخب مصر - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi-gRBVV95cUxNUkl2Y1E5Q0tHcmdVcmhhd3Rqclg2czJVOExoX293Wnh1em1qSFRJTmNzdjczd3lLU3pZOUw2QXl0YVhGWi1VLWt5bEF6MFlhQlZudkx1allNZ0pRZ0VoOHFlbU5uTnVDMDFQLWFFVFdra0JZX2w4VGpFWS1pVExJdVp5QkRGT2dQbW16SW92TkdzNEJudnpJZ28yQ2p0VGVxRzlLN1VDYjh1cjk4bExEdTZBdklON2RLUW1PR1BQamFDOUhTNUdSUDBNX1J3WXAyQVFYQjI1eEQ1NFhZdjNVQ1ViMUMyekQ5MWMzRW1HNlFhUmM1QmdLdGhETWdJX1d5bU0yVWVxVlY4Ul94SWlydnEtN0h2WWdDX0lpWHRCZTV0UlpScUJVTUpHemJJV1BwZkVxTmNWYkZWTlZCb2NTZUZWUl9QUVI2SXlnSm9QRWs1Mzd4LVVjOEIwS0FCQUpiakd4bDM1Mmk3UTJNLWJnNWFRdHQyR0hjYTdSeElNdTBFRVY2XzRKSVV1bWZwVzJOdU53eHpTbm1xa01OMDRpMjVHcnl0LS1IcFllcEZCU0xITml6dG1SdlA0dVdHb21jbldhR0FSUkVLVk9vZlNkOVBycDQ1ME9fUXA4WWxQYUpVRTlBajJrTHhrX29hVC0wYkFyZllCM21IQ05KQ2FSUDZFbkZoRVdnNUp4aS1JRFRVejlIUzctZWVnT1h3VEFqX3lDNHlDLW96WkVwWjRwenlrVFdnMUl1ZnVvZXROTkdKMXBIT1ROX2xJNk9JQkstMGszUzhLUHlJT29RQXNWVVVzN3ZEMEpuV25BZHc3MEhnZ2pMOTRicnpB0gHjBEFVX3lxTE1RZlFEM1NPMWdDOW0ySHlYTWozUmtPWlFkVzZ3YU9VQ3ExNG5neG9GNmJfUEJ1LWxQVVFtR0l1WUZPbVFRazNENlBFY3JmOTA5UzRNaXZCelJTWlI1LS1ONGxqQkJlV3VlYUZNMkphMWV1MmM2dXhJdW1RYXFZTVhDVHRKYW1aTDFrbjNYZ0RCTDQ4cEdVT3p6SEM4SFdudmVfQkM1aGljS3BZUEFqRzVHSHc1ZzFGUDZXV3FYTm1ZcUtRU3FVYlhGelZodHJIaGVCTjFMZVNTYmdkTXRhQk80RWg5V1hRc3ItQXNLUXZYX2tkSlJ2Uzd1R01mbUZWS2tNYmZ1TlphZ1h0TXhFSFhiWVdIZ2ZycFlBOWxXZE14TzBoa1lzSzE2cnIyWm16VVo2NGZCRUlna0hVbzFXakZRa2VpUkQxZW9CMkNvVkRRY0xmaWlWT2t2MDU0czljN3k0LWxXVnFhRHlIWmRFV0pRU2t3bjlPWXpwNmw3R3B3UDZiNnRiN3EwZW1YU2VTV3doUFBOTm5DaWxRcV9oR2x5TG0yNW9Pcl8tVWpTUm41SW5majVBclRTazBSbFlfaEJuWmRlRUlUaVlZaFBiXzNKSGthZE80STZ5dnJJcV9xQk11Yk43cjl0aDIybF8tb1duYlhHUF95X0p4SC1ENlNGblNvQWNDa01taDZBcnIwM3Z1Z19ScXRxckdleno2RTk4bl9iSUYwbU5NVnI0dDEwUE53aUc1T1I5bzVlc1dFdTFreFJFT3JsV0JPdFc0YWk3OE55U1BpLTVrUV9DeDM2RmE4?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 14:22:00 GMT",
+        "discovered": "2026-09-22T14:43:50.069535+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "في الجول يكشف كم يحصل الشرقية إنبي من الأهلي مقابل ظهور علي محمود مع منتخب مصر FilGoal",
+        "player": "",
+        "content_hash": "da23c594083d816cb1d56fe6878038d0fd9b43cb3c3798b83e57c2bbd8671ab4",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4138,
         "title": "منتخب أنجولا يتدرب في المغرب استعدادا لمواجهة مصر في تصفيات أمم إفريقيا - FilGoal",
@@ -1412,38 +1460,6 @@
         "content_hash": "39a65a5b6a16452f99a7105ef13f9fa69a1b0fcb3e948efb4eabf9f18851ac2d",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4042,
-        "title": "مباراة كروبورج أثلتيك ضد هامبتون أند ريشموند بورو : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxNaGY4Z3BpVjFMOTVuaEo1U3VvcXQxRUlxTjBoYjJRNFJzc2pTaDY0VTNnd3k5WUxtT1VPOU5jdUNnYTk5N1ptN1lqVjEzTWd3ZHRNbE5DNUtmcmlVQUhIVVAxZU0xZVRJUzRDaEZfQXlyMGt5YWN3cHd5NnY0ZURtbHRpbG4wVXdtdDRtSTJNcWZJUW82b0dEVTIzMkJIa0RYdy1ZeTlRUEVvQWdMTnlwVHpOaHdmRkl3WGc2Q0F3ZHJGR2ZueEFGMHJscEthMV9vMmlIdm5sdnVHYzNlT2hISEpKMVZ3SDQxbGExZ1VlenR2WkhkZFI2anpwUUNQUWlvV0NwM1RrMXMteHYzT1NfQzZqV0ZqYnE1TnprS05ZOHhXbzB6UG1VVU5tUGU5S3lHbGtlWlpyNTV0bm8wU3BLWWhMQ0pLd3A3T2d3OU1lZEJUaTJ0XzFuN1ljQmp6ZGJoNUZMMlJQQzJyZFY0eTB2bW5OTHQyREJQUEdVaG5WaFV4SHBFQzFCa0hpc3FfajRpZVRHZ19lMXVJRS14MXV4R0tlaWZxOURkaGRaZVRyZ09wRUlzZl9jYzdJSkduZjdxNm5MZDVDR2phdlc3M3luNWh0SHJwZw?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 07:06:53 GMT",
-        "discovered": "2026-09-22T07:19:56.773742+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباراة كروبورج أثلتيك ضد هامبتون أند ريشموند بورو : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin winwin.com",
-        "player": "",
-        "content_hash": "14fb410797ee76f5f5637c261948cce18f74699af92fc0b6bb4a309cd9453ffd",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4055,
-        "title": "لجنة الحكام الإيطالية تعترف بـ 5 أخطاء تحكيمية قبل التوقف الدولي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxPanhMRzVOUlZESVhQYlNqaUNiQzZBYU1pZkkwOUc4Tk11Y2F2VWhPc0ZDV1ZqbTVpQkFLX3RTWUwtSHA3bWxCNTFqanNDbTctTGxrX3pyVUVGejdnV0o0ZzBXMHBuR2RkM2Q1N1dtUlNDWlBjRjB1QjNvNG1FUkZHVUZUQ1UzajBmcmhFYVRQcGdSUmt4eUx4aDlOQ0p2TVlwVTJncGJQZWVBcTVPQlFZVm1MbWVhUGxVbGR0RV9JUGsxTzF4QWlXNHRUcExFUGUyZDE0akU3akxOdEp4Z21HTldoVS1kS1dnYXN2TUJiV0xtZThyck01Q2NvM0FoVzFxc0RYTWJ4R2dJU1hLTURsOWozeEJwUy1ydlR5YTJhLUpkWlZMSDZyU3lUd1BOMXF0azBucW9xZW1CVTFlVWVVdVY2UC12eWh0amhNb0hPUkdvbVYwMXpvbGxWZmhTaXNxNnBCczkyUmh2STQyR3EzRHA0MmFvaEhOT014UE1YTFR1alFpS0VRQWVTbkpjM0NuVmJLT3lDS3dHZXNCVW9HLS1DR1I5cXpxUC1jUmxSS3pqVEZUSVhPQVdaUnBwX0VhdUgtSFhMLVg0c2U3REtKZUJVenRsT2drU1FyZVNZaWVPWGZmVzdTcmVtbmZWZ3p2WVVaeVRKYThqdHFTOFF3c0IyNE9uR1NT0gGOBEFVX3lxTE5iZWtJQjRNQkd1YVlTZFAxZUdXOThRelBlQ3FDQldNeXdSWEU4SmQwQ1NXSnNUQ2VjT3I4WWNBWFQyTVlEUlNqSWdSSTE1UXNHU0szdjBRaDB1Z3pqVElxaXFydlNxcjVTOUZsNklFY1FIZFhneEhfYVFCWVFBSlNzcGNoU3otRkxKUkdQVzJBZUppMmF3VGFxVENSVXdBdGk4azNEbEdSZkxVbEZoTnlzRWE4WWJNWnF3b2x2VEtuTl9yV29ISVhzTFRIaXJOQ0dqQ3lOamdWZkd4blI4bkpSWTF2NTlDQzNGeGZpRzQtbldEUGgwcjNaTi1oWXpCMDdLWU1oemRLWnRqSVE5X1pUUkV6VUpUNW9TSm9KcGVXcGhFZXQyVFUyalNjdUZYamxCSUFXX2VKNXdjdGxYb0RCR0JzbG10UzIyaG1SOW1tRWIwcmxVRFAzcU85alFDVGFza3RLbElZRmctXzRzUlA2X21UUEd1UWJ6dDZKR1h2MS1wdExGUGd3LW1yYTdHRGJZN3RhQW1PYXFlempzcEI1WW9rLV9WZXJXblJEY3VNUTJtcGg5SFhwY2xWTUJWZk1Fa0xqVk5DOFkyM1hUbHU2SmpzWk5uNk1fYW8zSzhSR3ZISThBX1FyUm1qeWo0cXdKU21nb2ZVTWdSNE4tV1p4OWdNZkhJRXhZY2lVU1E?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 07:03:00 GMT",
-        "discovered": "2026-09-22T07:56:58.539029+00:00",
-        "category": "أخبار",
-        "status": "غير واضح",
-        "summary": "لجنة الحكام الإيطالية تعترف بـ 5 أخطاء تحكيمية قبل التوقف الدولي FilGoal",
-        "player": "حكيمي",
-        "content_hash": "4c5b256bdceb7630d95dfcdefea755441507f3e9f5c3ec5d3639c031295dbd81",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2052,22 +2068,6 @@
         "summary": "تاوريرت تستحق الأفضل - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
         "player": "",
         "content_hash": "a577ec1629a41722a958cd862d522a36df74ba819b187a6fb8ff62fbe7024b7e",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 3648,
-        "title": "باكستان تطالب مئات طلاب الطب الأفغان بالرحيل - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPWnN4YVZTaGJCM0M4V3NNUndNUlhPTDJRdWFnQ0ZtQ0k2bmxlZUdZeHZUVWppQm9yb3FqR1p2cHprU0Jvb1Fzek1lUkVOMEk2LWZITFVES1lWUHNLREx0SENsLUdndnphdWp6WEppUGhueDdEWjB2MTJaZjR4YUJ1Zk9VX3hMVGUzaFZNNjdkVWNuOF9TbmNSNWo5RFZjVG1WYWNIcHpLTi1HcFo1dGZKQ0tVMS05Qkh3MkNwZHNEazd4dGR5eFZxLUlKczVzQS14alZTSEp3SHpDMW1EMTJNTWNCV3lqdTVWa1NWTk16eW1abXJLVWpMVWhaV3RGLWpLQmxmSERFbGRzTjItYWE4dWh4dGtUOEJKWUVRanBFQ3hIcnlmZWdXTXNSdktvbktqdmJWX1NmNlBKZ3R3czREZFVldW5mZDU3U0NkMGVGcDB4aGVHTkZYcS1DVThaSEdxOF9hdFNLZnRfbW9MTTNkTi1zcDM5YkxObkJWZENqMmVVZw?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Sun, 20 Sep 2026 21:15:59 GMT",
-        "discovered": "2026-09-21T03:34:37.265825+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "باكستان تطالب مئات طلاب الطب الأفغان بالرحيل العربي الجديد",
-        "player": "",
-        "content_hash": "75f51add8ef8164471ae010a65553e67f641b52f76098f3d038a9deb0982cc9d",
         "sent": 0,
         "section": "transfers"
       },
