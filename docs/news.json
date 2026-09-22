@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T23:18:40.171368+00:00",
+  "updated": "2026-09-22T23:30:24.985371+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -581,6 +581,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 4285,
+        "title": "الوحدات الأردني يتوصل لاتفاق مع المدرب المصري عماد النحاس - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxQdFFTVUxJSTdvRS1VY3h3VHMtUHpBWmJVbXdrblR0dHl1enZnVE92ajBFMzRvelQxaUViVEZqMFFacm9KSTJhNk1TY0FoNlVUaEtNdjlaUlNxLTNxbnZyTnh5Zmg2ZVNVVmowQVJ0Uk1kVy1wYzNNNmtIQU1GZTRDMHZIaWVGYzJGU1hFb3VCQ0s4SU1YVWlIY1JzWnlRZUZRVUZ5N09KU1VzVUNIaG95VzdVRk1sV3VMTGhyQ0xMc201eEF5MEw2dndra0JRZDA1SFQzMnF5dWtpX3hsYjdQdC1rVDlDYUJKay0wcUJYbFE3RVlrLVIzX2R3TXdrNXhJWG9oNnhWeER6dG5WcHRVSTRSenNoc2doTzlydUtFQXI2OTY2RjRxM3pqckxBTklfMnY2dERoRzVfVVljZ1pDVGhjMGp1WEpybm5WdkVOUFBpYUs4YzNwUnFhRGZDYWxWTEo2LWJ2RmFvLUJPMWdrR0JDbUpBX1F5ck5FUXo0UFNKSWpDWFZuV1h0VG1zb2hkZTh1OVh5d01YY01SdWhleThzZ0FwT3NTd3djb3JpS1B4ZnlIbFdHeUZ3ZDlSbTRCSHJjVGxUa3JfcnliY3dJa29FajJzQVViX1FoZFVwVzJTZ3pOQms4R2xmcXJNd3R2M0RQTkxUSWQtM0lWTzBkVXJrZ3I2VUJsWUtiMk1GQUJoNDFEdzFNSUljWEdQMlZaN2FNQlBMa0FyVnlqdVdiRkFvQUdKMEd1MGFIZEdVeUdCb1FnMGE0Qm9HeXF4aFVTemJvclRnYlVBdmR6WXdF?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 22:42:52 GMT",
+        "discovered": "2026-09-22T23:30:07.409003+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الوحدات الأردني يتوصل لاتفاق مع المدرب المصري عماد النحاس الشرق الأوسط",
+        "player": "",
+        "content_hash": "0b736823533b9f8eb5b6be85eeee2174123c2a95cf345aa38cca6b9aebd08c2f",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4276,
         "title": "أحدهم اُتهم بأنه مزيف.. ماذا فعل محترفو الأهلي والزمالك ضد منتخب مصر؟ - يلاكورة",
@@ -1222,6 +1238,22 @@
         "section": "sports"
       },
       {
+        "id": 4287,
+        "title": "ذكرى سيئة مع محمود صابر.. تقرير: حكم كيني لإدارة مباراة مصر وأنجولا - filgoal.com",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54WWdLT1BUR2tyYW5iR1k3UWt6Mm9IQUNZYkUwVU1qcUhLTHZ3Y0h6bUxxdHJyTTBWdWZzOUhyUHJzampNVVdLWjQ1Z2JrNWth0gGOBEFVX3lxTE1lX183Sm5OZ2FrMm9fdUFaaWNCaF9USm9raGtsWkNnOHppMHVTT1p4Z3dZNmw3bnR6Mk9JdlcxMTRqaVJQcGRFLVFSNlNVRzAzUEIxUmJ4OVQ4R2lrN2Q2QVdCUU56Z1RBcVJwQlNFeUpxbHZJZnpJeF9uWlZXbkx4eWkybk5xRS1yaHd5UHJCYXNKQzE1ZWFvVXUtay1MbkpBcXppLWt0WjFUV0hpR0FGcjVOdmpraUkzOE9IVmdmblBRZTV2OENIR0gwRngyU21RdWt4LTI5ZHpUR1pOS2NJRDI0a1FKQ3BkRzFxbnUySi16Q2dGeDFlWGpYVkdwMmVqWDFYakRiZnBEWEt1azcwUlNOSndRZTVVR1BJM0FoS2ZpenRSTnU0UUxhTkJ3alUyYU1JWDI0QzUzZkEwbTVwd3hscnRxUWlPRVlpRUFFQzNuaWlQTEJlM0xrZlFUQXZMcWcwZHFjOVdESlhkTWc2XzVsRXNsM1F5TVU2ZUROXzZTSkVBd1JLLUo3cFJqaWIzeUdhSEx2cUpDQ05TOFZTc1kxX25oYjdqR0k5S2JrY1g3Tmh3dVB0Z0hvQ0RUUFN2dlhYSXQ3TzEzZ2JWaW82LXpUMnVqdHdnSW5MLXZERzFpam92OS1sVEd4UDFzVEVDODdON1E1V3VDX1dRVHJoeVR5OEJhT05lWTVCLWc?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 17:36:00 GMT",
+        "discovered": "2026-09-22T23:30:09.900513+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ذكرى سيئة مع محمود صابر.. تقرير: حكم كيني لإدارة مباراة مصر وأنجولا filgoal.com",
+        "player": "",
+        "content_hash": "aa6371307158675d1f78f9d67ee99136457c29d8f33318c930403de6d8196c62",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4241,
         "title": "الطريق ما زال طويلاً.. تقرير يكشف تطورات حالة دي يونغ لاعب برشلونة - الشرق رياضة",
         "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOcU5ad21LVEtvdlhacGdLdlAyVUZvSG40cDN6WnRWSFFzenpwVExpNnlTeFNKMUc4ODdfZ180eTJhQ0RGRndxckV1ZmdoZmV6M3R1U2JFX3NTZVplN094OXctdEVMNVhSWkZNejJBNDZVZzc2dGhKR3JKUEFfUmhzeDhrLUp2T3dZbGJIdlg2NEg3Q0cwVm5PdjNvdk44SGZnanNMUDg3Q0RaRTFDUVVMSnZpanAwSjlhaG56MUZxeldwSjdqOFZleXpXaHp0di1nUmQtR1ZZV1V4Ym1wb09HeUFHUi1lZkxmTXVtOGxTLWtCV200M3VXR1B0cGVpTkJCWnhnZi0tSjROSVBvWlJBYm1XZ0wwaTVBVVVhcGFrZ0NrLUpFbi1ZZWpDeFlWNWczNlAyZ0lHaHFTM0hhNFR0clZvWU4zNmQzbFNjcFM2SFlnS1lrb3hfTkFwRVJUZjFRRFhRZ0xocXVxVmd6LVI5M1lobjNqSWJ1R3UzU3JBT0ZONTVCdVRpN01TTkJDNVVJY2U0QXY1NElvOGJGQ3p1VDJXUXB1eFREOGM3OUw2Yw?oc=5",
@@ -1346,38 +1378,6 @@
         "summary": "طاقم تحكيم كيني لأولى مباريات مصر في تصفيات كأس أفريقيا 2027 يلاكورة",
         "player": "",
         "content_hash": "7f2de2142722c53f70a1822ad74284ed87264f0116cb5e9401d36d6341530d3b",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4170,
-        "title": "نتائج منتخب السعودية في افتتاح كأس الخليج على مدار التاريخ - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQdXNCMC1rb2ZFUnAtWFZfeW05dy1Sc25RR1RNZkZxVVNVLXBZa0lOUE9rOUpBVWozUFdaTF9OTW0wemlxX0ViNFc2Wk1ZT2h3eFJsd1Z5Z3k4d0hKa0dUNE9IYm5hdVhMSHhqd3BWU1lRSjllV25nUHNXeU83R3RMMFpoeElOb2VxbmRVSFFWcklWRE9OVDV5d3BjZW1NcDl2MThsMWJvRjFIRnhrUTNNVUlUM3BNTzhMMnZoeFQzQ1d3aTJyS01wdG1oWWJlUUxNNm41UFRvdXlicHZ1UDdYdW5ydGM3dDNxbEYwaEtYSl8tU2U5SDQtTk9TOUc2OHM2YkJ0RE1jQmstTVJPbHZLWU5sVUZWV1JRdUhzeHBKYnlVcHFHZ0ptLTl2QXhneUZabEdXZ3picks3ZTdxa2VleVRFcEtJNmQ0WnF0OWRySFRfUDJ0bWQzdzBhdGMtWmc?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 16:01:21 GMT",
-        "discovered": "2026-09-22T16:14:32.462507+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "نتائج منتخب السعودية في افتتاح كأس الخليج على مدار التاريخ 365Scores",
-        "player": "",
-        "content_hash": "d3a70c38a04ba0b762be8802966b7a20ba90954ff967cbabe6fac3632da16384",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4167,
-        "title": "كأس مصر - تحديد مواجهات التمهيدي الرابع والمؤهل لدور الـ32 - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxONFlKOXJXQ2QtV0Zja1V4cUdZdEtwUjJDNURyWkI3Y0xkLXFXMHVZNldDdUdSZ1o2djFCVWpqZTFFWm52NEdsX0hUQWd3dmNWVUhyN2ZqUVNiX2JYdTRoUVppRUNUa1pqemREV0RBRkljZF9fRHNhVnhoM3JjSHo1bjNabElKYWFlUVlqZ00tLWdSejNGQ3QwbldUVTE0TzhiYjY3RWtLWktnRVRqSWNLakd6djcyc25jN3dGUDhoMjF2eDluNmFkbmt3Mm1HR05ac25KMnVUalpib0FOSm83NU9rYTlNWG5rVlBCQl91UFI5b3owMV8tWVZnZU9BZncyRERiM3d1WXZYZkFHdjhXUFhjMUZ2eUZsRGxleWwya0NBcXpFRW41QlR6S0tjMENqeXE0T2p6eWY3bE5DNnM3c011QUhwdndVcDU5MlJWU3BRWUpVYUZBa0NuODNoQ0o5MnRndW9ralBuTWxMUVA3V0FPa1lOT0htRldneE95ZTZ6MkNLUWlXWURwOUJkdlJtNk5aYXZ5UVVFMDlWMGgyUlY2MFcxYWQ1UGRSeHc5V0ZLak9hbTVhYUdqNnYyZVA5RFlXaXpnQ29sZjFvWVlmRXRhZXNEWUVxXy1KSGZkdG1UbVZ1RzRRNGM1TdIB1ANBVV95cUxQcGd4cHg2dGNZQ2ZSQkxRRVdiZWx1MVBBaTU0eUNsczhrNFdXVUV4Mko3Y09NSEhCejh0VDBVT1BUNUxGU25nbEkyQU55T1NORFctVEJYVUpETF9reDU2UFpYM0xUV25yQmU0eFVMOFF0SV96WWxGV1pnYVY3V2Z2dFpTcEFydDZ4VkV2SGNYbkZPNUd3QkJkNldjajNuZkJOMVNJak5LY3dsVDBtcnh1NXdxUWpxVWVqbkg5QWxucmVHVFl6T1RYVnRIcUNhOU5GM3BiWFQwRVZxaFpsSlBYZXE2bzhqMU9VQVpLc3o5VjJXLWFyVU9tb1h5eDVoZFNTWlJyejdyRXlFYVgyV0NUVE05TFFtUW9YTzZNR3p5cnlEQ3BNTWc5bF9YeHg0RmI0TFZ3b01wTkRIanFTM3UzVGx6blhJSWc5Rk1uOHdjVThXdGpPemUxOWozNDNGeWl0UzNkc1c1YUxmQW5HQzc3eGdsdndKMm5mSS1meDlFaER6YWxtU0IxcDJiVTk1TmVBZWFiWlFRRUxfb2dEU1g4V2ZBbFQ1M1pXRFVWaENlamYwU2pDbmlELVVQd2ZkckM2eFhmc0pMY2pob2hPOTZGb3Q1anY?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 15:48:00 GMT",
-        "discovered": "2026-09-22T15:58:26.295648+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كأس مصر - تحديد مواجهات التمهيدي الرابع والمؤهل لدور الـ32 FilGoal",
-        "player": "",
-        "content_hash": "bc8b941d56928f4f5f4cd44cff44037bf50810cd2bca601fa3fb490a33d988f0",
         "sent": 0,
         "section": "sports"
       }
