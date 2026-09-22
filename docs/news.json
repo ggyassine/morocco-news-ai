@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T20:45:56.549694+00:00",
+  "updated": "2026-09-22T20:55:51.457315+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -630,6 +630,22 @@
     ],
     "sports": [
       {
+        "id": 4251,
+        "title": "فيفا يدخل على خط خليجي 27.. قواعد جديدة تغيّر تفاصيل المباريات - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQS0s4Q3RoUWVELUZFaU1hWEp2MktZWTZSVUlES1B4MDdlV0pBSjBRV3FIUS14LXl0YkdFTHVTT2hqeWNXVEhrdnFnc2FLXzV0WGVPM0s4V09UODNFRHlsOG04U1RTWVZQTkYxbnpRTy1qQnB1OWo4TlZaMFlEMVE5M0VGaWltaHhMX1J2bVpac3ZxVTdTVnlhQVpwQ3JjWllVRTkwZW02ajcwM0d5WXBrSlpxUmJoaEF4U3V2RTlURkswM3M1X3liMzZsU2hxRUZMY1FhTXpuX1dveVlFQTdxbDQxX2FKSksxeS1wRmZCd1YxeW8xTnRrZHdxdEhNODJzNk1GcUZfUlpnbU1hWjNhcENGQzNpVzdVNlZvUHdNWHYxRGFCRkVuakxNejBXZmlQY3daSHpSYVAxdUJKNzR6R0lTalRISEs5Q0JvU09kREN3RWJLUU9nWDN3dVo?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 20:47:22 GMT",
+        "discovered": "2026-09-22T20:55:31.960525+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيفا يدخل على خط خليجي 27.. قواعد جديدة تغيّر تفاصيل المباريات 365Scores",
+        "player": "",
+        "content_hash": "212f5e673c868e1603a6a3efb235732cebd2e5786a63a25997d6fa5c4cf33e19",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4248,
         "title": "اكتمال صفوف منتخب مصر لمعسكر سبتمبر بعد التحاق 3 لاعبين - CNN Arabic",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM0FpWlRTeXdNejlBS0dhajBWZTBkZ0lNNWNrM3Yyc2Q3amlrekg5elhtdEJpbmotRU1TVVJ1dmd3RWdTVi0xdVhXTUdkS2UtT09FODhxQkprVS1NVEs3Z3dfekRFNXRyQmxhV0Ric2FqODJtQTQyT1I5NzBDTXAtcNIBiwFBVV95cUxPUVAtUHV5eDdZZGttdmhQX0NXdzZFdVpYaXc4NTdBLXpPRlYtSk52alhCVWg5WWJJdElVd1hmZ0dJVk9mZjVDY1ZUejNhUHJiOEJvZFp1Z3VBMkk5ajh3M1JmMjFVNDE0djhKZzlWUGJSQjhZVVNLeWZHbEVxdkpJUlRVRkctdml2X2tv?oc=5",
@@ -1030,6 +1046,38 @@
         "section": "sports"
       },
       {
+        "id": 4250,
+        "title": "الأهلي والزمالك يعرفانه جيدا.. من هو بيتر كاماكو حكم مباراة مصر وأنجولا؟ - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxNbkJJTnE0MVF4UDlYX3JHSzlIOWdxNE9JbU9OM2FPQjVLeERMN2hXS1pOSk8xaGkwMlRMUE1BbXNqNjVVdkhtbUZnUEhNemtxeF9kQ2k1WTBwWEhXVGFOZk5jN2t5RXlBd1cwdDdSYTRvUktpM0dyd2twWVZuemVfY0VvVUh1QXVndm1hM3diMmJaQXM3STZxbjJHaF9fSkpNUjJFV2dGV2ZnOVA2ZVhjYTdWc3EtRkJMdE1MTFhYbjRTYXBFb29qSWV1NUJSaUo5T284czlqcWVvUmI3bDNOUmRpWWlZZ0xGV2Ywa1NoelpLTTZFR0hQTVFRcnhmVUVoWWZfWG1VbS1zckd0VHZiRm52LXktRFNFMkl4SUo0ZzJwM2FxellzTW5rM2xqaW5RMGtaR29XcWhkbmgwWVZkVkJBWHdGb2E0NkNqb3QyTjVpX0k3WFAzbzRkOG1wVWlmNTJkWmV0bUlQTDBjWEVTSTJVSDlKY0tyVDgtbDJWOVVGNVN4NFJjMEJnNjlpM3cxMlBnMmticWVnVHlDdkh6dmxWYWstUkEzZ1JEdlQxNlVXanFjN2hHbFB6RDQtXzduY2dIVURqSlVOTkIzR3dqNTFlUURJeFc1dHJRYXFFYmdlQUY3RjNNRHdQbG5oQUdBaWVtN0tiXzdINk1qTFgya0FjMTJUamRLWjJtRmh5aDdTZFdYWXNXU3VSTEVRbVpaUXZNOG43ajJlZW9XV1JFOWQ5UlJLcDc2YnA3V2VkdkJtWDhtY1hKRWxn0gHPBEFVX3lxTE95WnV0MVlyQV9EcTdzN3dLN25DTlBYVV9McTZhNzJZaUhJeEVtTjl4d1ptMmZWdlNlRlR6cE4wUmhFaG4wdGdPYjdpWWw0cGVXWE9pTi04NnlPQ2F0ZFQwRnRfMkEzOTVjOW1kWS1uUjV4eFJ0eWNHTlRpZW02YnNidUNvUnpiVndJbDlKWlV3UUVzNXY0NHpCeFlZa2NEcXppbDd4SFhiczBEU0ttX091UV9LUk93QTFKN0hMVWE1bFREUGU5QTkzSXJzVy1rekdNZ1BITGo1TzJKTTVTSl81RXpmWTlZZXg0am96c0tiVl9CdmNRcGtlRVJEU2Y5OU5DZDBZWHk3WlUxbEluWnZRUE9nY3FZbVlJcTBoQV9vMVNlSzluTTgtRy1qY0d5amNjLWpyZUVwTml4V3VhOENKSnlVZVlsNTFJQ0UwVUdGdDkyNGRwM240amlDLUR4Zk9JWkE0VHUzVklqVmpicHJFZDZTd0picGk3OHFpLWxLRkJILTNwV3NKRWpnVGtpMG1GQ3EtZXBNcFAxYnh2WFJCZThGNnJDZll2bmtCaTVuQ2dxNGtvcUMxb3dfaGlMOUJRQ3pBSEdpdGo5QlpyTElDelZqMjgzZWdNS2E3a2loSjIyMlMzYWZTU2ZMSlRVUG5iZ1pOeXdKTFlOc1liSFp5Y0FqUW51UlV1MDM0V2ZTSGFWNHlGQVhHeFBPdnNzNnVic0ZKSHFSZFJqWEtqMVZMZElvbURzUW1RZENqVHBaMGhfM2VtaHhqQ29JUzFCTQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 16:50:00 GMT",
+        "discovered": "2026-09-22T20:55:30.424823+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الأهلي والزمالك يعرفانه جيدا.. من هو بيتر كاماكو حكم مباراة مصر وأنجولا؟",
+        "player": "",
+        "content_hash": "c1c6aebefca41a290f2bc8433d16b06b25a3f459b0519d7c9f933271ed883198",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4252,
+        "title": "بعد انضمامه لمنتخب مصر.. لاعب الأهلي الجديد يهدي \"إنبي\" مليون جنيه - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxQUEdaZktRaUNiMkdJbVZsNGdscGRLZUo1dDlWT183SXlmVi02RkI3TDZGb3RJVWVFUmtyQ3RZU3p3b2Z2bG5VMkl4Mnd5NGpwX2Qwd0NfeDQ0cnhBOFM5dWVKQURnb3RUUXowZXphUU1XcVNwYUlvZjNhUUpWVVo3bnYzREtkX3R0OE1JZzZPekx0Zk5GVUs1OW1xRWhKcUxIcE9pYWpVS3VMMkp2b0FQNnpvNXFuNkhJVnlyejFTdGZTSzNmQ1ZPbnlYeHNpQjJHYXpDT0hQbDA5NWtFY3kxaGlSNHNwbFFIMERKbkplWlNQNEphRjhrb3pqSHR6MHpDRkdWVHppSGhsTlJzS0VJcmR6RE1ZOHhrdFlEMnVrYU5uSGV0T18xWVdmWDBIOTNfZkg1WWl4UWExVXd6TzJrYkNGdWxTSTVJTGU2dnV4aExjMzhZWFgzQUx1bnh4c0s0c0RoazlZa2pjVjVmWDVsY3laenNrTW9yaUJwTUdKYWkxTlpMTzN4c0NkaUFsMXFkN3MtSEJobEFOek1EOGRwWDdpVkVSUktJbVBadHA2eGJrUnU1RmJCQXRmWTlYYVdwWms5aXNuRUNlXzZ2Rll2QUNR?oc=5",
+        "source": "الشرق رياضة انتقالات",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 16:25:39 GMT",
+        "discovered": "2026-09-22T20:55:38.027286+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بعد انضمامه لمنتخب مصر.. لاعب الأهلي الجديد يهدي \"إنبي\" مليون جنيه الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "18666d7a8b72eaced768cce9ca48469bf1a0ea7d8f7e81299031ed56b55d0e46",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4185,
         "title": "السفير في استقبالهم.. منتخب الناشئين يصل سويسرا استعدادا لخوض بطولة الصداقة الدولية - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxOUzNwZmhidWdEQjc2Szktb3hwLWJNaEFud2F5VUFNRTEzV0tYQXdGNmhCRkpHR0RWTVZPbTllWmtWUUVXTzVMWTQ3djJ0LV9GV3p5ZURMNjdHNGR2NTJ3TmhnYllkNEFUOHNFRnBvMVQ4aHozX2loMkNoM3VWLXFmdnEyWVotMnh0bldSU1RQRFBKTTFXeTZRMU45R3E1U2kzbFJLYVUwbkZ6Q2R5a19YemtDWXVYZ1c1QURqSkpvbk1HdEY0WkMxWG1FU2Fyam1KMzZDSXJYdy0zWjhpNjF2TTE0cHJzNWdEcTIxTUJhcWliTVptdERaWmpSbTE1Z0FpOXBwVEdMbHI1YTBjSUVPZlNCWUlNWFJ2cDFQNmFmU0RwTUs2cWs2V2cwZWNUUEQ5SFFXU1Y1aldBc2lfaGJHa1BCdmt0RXdNdGlKNmxlamZEZXRacm00WVV5b0FQLS1zekNTM3BPaVQzMDkzR1REejJDWUdjeFc4b1JlUG9RVUVqdnNWaFNwdkhPaEh4NXFZY2pfdnRJX1lrZnFKb2J5bWIyaldFZ2tWakZwUHcyMG1zNEhaMG9rTTROazB4ZFhMMzVWOEJTX1ktUEIxc1ktZ09acWpFdkFlMmRoTkZFUkFkTDdSamRRdjdhQ1NOYWMwS09uTHNRdk1YNjh4LXB2bV9OYU9nREhHQ1JOc1RpTjZvMEhrejJfbWhIajMwU0NCZnlFR0FRT0hsNkN5Z0JEem5tNkNWajc0UU1lSFIwUEQ4bDRSWGxrT2RwcXJfdXEzWW5ONDhxVkVTaDJkVVlqelAwaTJKSE43S2ZPOEsxNjBkT055RmY0N2Rjb2xnVWdyMkRpWGRHcmNmS3ZZOE94TdIBlgVBVV95cUxOLVJiODVyMEtLdkFFRkZkajFPVjJtWFJ2UjRLZUZyWjhTR0RoaUJoc1d4ZGdpaEJBX3JtdlRkREItRGkzTW1MdzlJMUFHbXhYd2tNSDRJNWtmUF94U2NmSXo3cTdZMDNXVGdrWmlNc2IzMUV1eE9nWEtYSVJzT2lBZXd5ZkF0bUJoWkExME9KRGxUWU1EanFmZWZKOFVMOFNYZktYSXA5QmgtTnNOVEhnMXY1cnJjYXFENUR3SWo2TnhJN3RFZDhWSFk1TU9yeVVlT0hSNUZPQjFjTW5xdFNESk9TVThUbExhUDRCVnkyc2hiNmk3UUhIUk42cmNWYng0cXlKRkx2cEl0cnhaTUNsTnQ1ZU1PaURoWTFwMFRRMEtaaGh4T3g3UkgyVnplcDhhT3paSUN3R2V2b3NfcGd5V3NCUDlrVnd6NW5QbThQU2lTTnM2RlJEWlBNLXhzTmUyWlhNS0xaME9VNlhUaE1vZ3ZvV3UxXzk4NlFhaXltaGhhbDlpZHpXU0pDcHljVXltVDdlb1V0VFd2M0Y3dXlzQlV5SVlBMEtDWnE3WWNhNFp0dlgyQnFEZE9hS2RlTUZNV3lPOHp2MGxFeU90dGdnRENORG9KMVZTN1JBYWlMdlJjNFFqLXg3el9lNGRXQ09vU2NJVU9KRnFLblRxdUpRZ1VlT0k4YnNZblNnNFFOb0RDVHFNZ1RuWFBkY21fb3puNnpnT0UwSFdhcldlQXRZZk40dVZTY2pfN0JWX0lDUWRtQ09FR3hDRlNoYUp5b1ZLZVFkM3MxY2JTc1E0YXd0bGVHd2c2UWtTS1kyX3BKclVQU0Y5a0FGRmxxd3FiRnJoaXNoUUlqRTV5QXYwWDlaUkZRaWljQQ?oc=5",
@@ -1378,54 +1426,6 @@
         "summary": "مصدر ليلا كورة: الأهلي يدرس معاقبة عمرو زهران بسبب أزمة مباراة القناة يلاكورة",
         "player": "",
         "content_hash": "ef599ee2d3ae16fd79efd0d6739e766f0b68a80bb6798eadf78e69fe4f31537f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4211,
-        "title": "صحيفة الشرق الأوسط - رياضة/| هيليو سوزا مدرب منتخب الكويت في المؤتمر الصحافي: - الكويت مرت ببعض المشاكل حيث غابت سنوات عن المنافسة، والآن نحن نعمل على هوية جديدة وطريقة جديدة للوصول الى المكان الذي نستحق، اللاعبون يقومون بأفضل عمل نريد تأمين الاستقرا - تطبيق نبض",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tOS1mR3diVkQzR1FzeEFFdlYzRnRZOTJkY0I0bmNWX3V2ODF2U3Q5MXp0d0ctYndMc3pRczJITFJyYWdqM1BDdGc1VVFjUGM?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 13:32:44 GMT",
-        "discovered": "2026-09-22T18:42:34.401393+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "صحيفة الشرق الأوسط - رياضة/| هيليو سوزا مدرب منتخب الكويت في المؤتمر الصحافي: - الكويت مرت ببعض المشاكل حيث غابت سنوات عن المنافسة، والآن نحن نعمل على هوية جديدة وطريقة جديدة للوصول الى المكان الذي نستحق، اللاعبون يقومون بأفضل عمل نريد تأمين الاستقرا تطبيق نبض",
-        "player": "رياض",
-        "content_hash": "dcf48088d4a8c8e7679f29754f5182311acb0716eed742650de57b17e4962f06",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4132,
-        "title": "منتخب فرنسا يبدأ حقبته الجديدة تحت قيادة زيدان - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxPS0lCNjE1NTZyTzgzanRYYXU4eURmdF9ubkpCNG9KTnR4Z0FUT2N2UGxBOGZMaHZBazUtck9qU3BPUy1USURpZzE5TnRKNUZNek1KTXFpNDlzQWU3WHpZMGNrblVUYTNDRTV2OU5HdFVNbW8wOFRDS0FHT2N6MjVVR3Zzb0xraXFmTW1tLVRWLTZmM3BRRG9kbVgtaEdiMmdQdkxBcUlMdW9xbmFPYlQ0Z0xJWTQzXzZBamlOVEF5bGctc0JHR3ZoY3pPcFNIVy1uMEhHME5oX3dGd1pEWktOTlNWXy1EbHBMTU9qS3VrSDdFNlpUc2xXUVJFaEE3eVdGY1JGdEhieEVpRzFRQTFWZU5rTGMwUnBnMVlyTTc2V2JUNlVaWEk1Z21sclQ1Ml8wbC1pNTROZVk3cTdoOUY0bXBVZ0JJZnhhcXo4cjJBVUJkeGkwSHpGVkd0UTlvN3NMY0h5X1VGRTNEU1BUS2NJdVhmQ2taZ29HQWVtYVpkbTJZNWZUUjQtV3htcldBd3cyZURmakFFZjU2UXRSTTVYNTBUNHdnUGF5SU03Y01XZEllc0wtYmQ0aDJXb1VTaWdqNkxEVHpwVHFEejBGRl9hSjJpdi1aMXFwT3pQc1VTTUYtdUxvNXdYYk96cEMwcS1UM3NRdnlyakRMcThadXJfcGN6cHpOa3dKd1owbUJCUHVyQWFwNmc?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 13:29:04 GMT",
-        "discovered": "2026-09-22T13:46:23.676980+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "منتخب فرنسا يبدأ حقبته الجديدة تحت قيادة زيدان الشرق الأوسط",
-        "player": "",
-        "content_hash": "bbc81d746c2fba3bc359aed287e177b5ae122cf3445289b07b8bbd0eb5122ba6",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4126,
-        "title": "يونس بن طالب: كلوب كان العامل الحاسم في اختياري اللعب لمنتخب ألمانيا - aawsat.com",
-        "url": "https://news.google.com/rss/articles/CBMiowVBVV95cUxNRGRja0MxbnFCYkNBVlhMSW5USHR6SUVuNjUwbUNudXlqWHE5UDB2d2xmV1llSG4xcG5xdUMzQUllbFJwTTNFTzJSbTllZTZSMkxxbXQteW9iU2lJX3V4cDNCYXkyem92TjU1azR5emtBRk5EVVdqUEc3dDRkRHFwNW9KSFNkcHVNamxSTUJuU29waFlYMEEyaFV1Y1BJYjBiNENpOHVLWnlPeFFPb19yZG5fS0VzRTFZdWVNZExNX1k0dGt5UTBTYW9aY0FkejY5emF5V2JSbmgxWDh6UTBGNWRVUUZmLUdLZjhOemZyemJKZkg4WEZxLVpMSkZNeHFKbktEWXo2ZzFfS1dVekp3cER5LW00WDEzMG1tV2dFVzNSaHMwbUJFN1ZmWWpDM0ZMalRQSlVWOW95SHROeS1ldFNpZjh6b09ubWFPSkxDZzJtaTZCbl9BYUt2TzZYWjRFY2pJRlVtdk9LUFAyVXJyQ04xUXNxem9QTHhkZUFaS04tTkxtbmlZVEd2Sm9rNmNQa1Z5ZVg5dWd1eXY5LTZuNUVrSHh3Q3BnSU5FdXBrejBhMHdzcWlneHpMZS00ZmdfRjhMTUdVSEpYOUxsTjlnazBSV0p5dlZGYXAtMkNFbHlzLS12ZFBrN19xc2pIc0FPZW1BR05xWW9vRm9kekNnZ0szT0cwZnpLS3dleEZ2ZGJxWXB4Ty12TUp4aUlINzZueHhOczBMNkRJczBlTk5XQ2RSLUoyQkJZYXdicFZQQ2FPbncwNVZPTFBWUHpVUjlhMWpNSnRoTGZZVUlVM0MzN3ZOMGlocVozWktHTXFxc3RuUDNKdmd4T1Z0RXZoNnU1NDY1TTNDa2JBU1k0c0JyVnl2Y1JuclVRQzB4cVN0cEhXM28?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 13:20:58 GMT",
-        "discovered": "2026-09-22T13:31:44.352170+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "يونس بن طالب: كلوب كان العامل الحاسم في اختياري اللعب لمنتخب ألمانيا aawsat.com",
-        "player": "",
-        "content_hash": "a32ddaccb407cbe24c59a76c47c9ce899e525bffa22caafa583423d06e6574a6",
         "sent": 0,
         "section": "sports"
       }
