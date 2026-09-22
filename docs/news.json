@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T09:47:46.821524+00:00",
+  "updated": "2026-09-22T09:57:00.186113+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -564,22 +564,6 @@
         "section": "morocco"
       },
       {
-        "id": 3573,
-        "title": "الجامعة الملكية المغربية للتنس تتسلم درع اللقب الإفريقي - SNRT News",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNUEV0R3BuMHIyWmhvTUlxbkM4Z2NzT200REE3REJTVGpBemJieFA1cmY1bU5WX3BleWR0X21aTnd4VlgtRThRbTFwUQ?oc=5",
-        "source": "SNRTnews عربي",
-        "trust": "A",
-        "published": "Sun, 20 Sep 2026 12:45:15 GMT",
-        "discovered": "2026-09-20T22:50:17.885160+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الجامعة الملكية المغربية للتنس تتسلم درع اللقب الإفريقي SNRT News",
-        "player": "",
-        "content_hash": "9bdcfc3a258809b0d35e9d525945f3bf6b9eb5d149e0dff023ceedaac601903e",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 3621,
         "title": "من البث الخطي إلى الرقمي.. الشركة الوطنية للإذاعة والتلفزة تتعبأ لمواكبة الانتخابات التشريعية - SNRT News",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KZkZHUzRNcFVzWndVSDlVNmlEUWtSY3p1YzBlVTFQRHRnQkVQalBLRUR3X0FXQ1JZM2dGdWViUTFaT1VzUTcyNmJOMHAtakxC?oc=5",
@@ -613,6 +597,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 4071,
+        "title": "دونيس: هدفنا كأس الخليج... وما حدث مع «الجوير» منحنا طاقة سلبية - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi2gRBVV95cUxQblhNSC10aDFGY0tKWG9HZjZjWHoxM0NXbFhycFhscUEyY3J2NU93WV9TMzV5SVlMbGtnMzN1VGN3Q1VSdmlpbUkwZ3J5SGlvdXdNdDloWXVEc0J1a001Z2h3M1hHQjZVOUVCMXY5ekpoQ0c3aDlMTnl3UmRLZXAwWXM5d2lvNlM2TGlBMng3elVESnN6QVhmN09sWUNObjBjZTRYcm4tbEhjOEdoLTVUa1lwYzU4LTl1MjE1STY0THRINEpwZHl2N1k5YXVyLTdQa1BBejNldDhNY2lieU5JcGh4UkM5MWJEWUNSZGliSnpId1ZVaTlTMXVvS25fOXEtZXFGazA1d2ZIWjB4MFRYNG9KOVAyT18zYzc1dG9Qc1lJQ1dObVhOX0pVdVcyaUR4LWtUTS1rdW55ejE2SXJ4WXJqM0c4WGltcm1fRTF4YkFUcklvV2JWQjBQX25qdGNnSGlQNVp6YmlHOTVvbnpsWFVaazk3QkNpMkNMWkdfdy1RdlhTamJpZ3FXZnl5MFRhakx2Y20wbkFSQ0JoNVZoYjZ6X0xoMnpENkxkVlVTd1VFaHVhbkdIU19QSzNqWlpsUEZQM2FMX0FpTXJHYkd6Q0JuZGZDUnBWX21QV3FjRXY4TVJiRnA0bFVTRHZUUUZySlN1cGhNRkxqSUt4aTFRY2M3MENWN2hxbWctMl9aVDNFY2c2NDVEMWdGLWtJazdpQ3BCMG5PMnE2OGZnWTJqOF9tX0lFRGY0V211TGlWVjZyeGxla1F2ZVFtaHJwRVdlRk9IelV4QTBMQQ?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 09:53:28 GMT",
+        "discovered": "2026-09-22T09:56:44.211339+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "دونيس: هدفنا كأس الخليج... وما حدث مع «الجوير» منحنا طاقة سلبية الشرق الأوسط",
+        "player": "",
+        "content_hash": "59144e4f646552f12b75155833d2b896cc69ad85570974f03681a6d800209128",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4072,
+        "title": "بن طالب: تمثيل ألمانيا بدلا من المغرب؟ عندما يتصل بك كلوب لا يمكنك أن تقول لا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxOVmxvR3dqT1otZnRYS0p5eVR2d3VHaGpCeGowVzVKYUNEdzh3QXF2MUFCUFNqMENSWWpqakxEblpNSTBtQ0l5MEk0R25hWnVheHhUQlV3Skw0eVc0enQyN1I2b055aXNKZEltcGFCQ3Rfd1loZmRucFBvYmZza1V3SndSdDlkTm5DMUhIN3lKb2xQdDBIbDBPRWpGWkFlbUo4cFQyd3dfdV9yV2ZCd3o3S3dOajE5UloxelBCSzlNdkwyeGRDRGlvOUFQMVl5NGplM0hQYkZkTVdVcU0wTVRJSFY5MUdocXNxYzdJdi1yQW0xaDlDT01TRnlNZFNJNUJQcGxsRE1JWHpuejBSeE5nLXZvRGVjbFBOWHk1a1gycGZfSE5PQzA5M1V6TGlCQWthUE5ueGxpd3psR055OFdMZVEybjJwMTJKXzdxdkdNY3FBZjBiNzJ1dHZiOE9Id0dyQVk5Yms2QWpfdk5aN01kQVZiY0RJNnZ1QjV1TEZnNzZrc3ZaaU9jUzRoUFk4Qml5T2swV0U4aWNlQzZzUGEtOEZEVXM0NVVxeExMc01mLV9GcXpRQmNSdTFqMGw2LUFsRlphalpSUzZKVlFVOTJoamV2d0NQWTNPTXBkRFkwQjBPcTlaWkxwWWZlT09iUk1ZbGRzV0pMRFFybzMzSlVCM3YtNjQwV2V0Q0c1RHlqdXluTXV3NFcyV3cyTzZwQVc3cm9GTTdlemZzQUpsMDBuY3V3NjV2LXdFSXZjRGU3dGZqcEVMdGfSAcsEQVVfeXFMTVctTjFheTZRVWV0RnVXcEw4eEktQlJGWTBzT1BlaWZDX1VIWXNhS2s2ZjRqQzFaR0xaZjNHaXpUc1FMNUJNbnV2ZW1uLVRKd21aSFVJa0lidThMTHdfMnJURDJpR05KdjNBY3ZIX1JiSkZZamd1U285dU4wS0N2ZXZBQ0F3NzBCUUtMRXplSkhOSFhTVGxCZkt1SXZVUHhhN0dUdVlMaVJqVUJqaW41UmhRZHo0R3FYNDJLcGJsSkZ6QWQweXdMYU1NQnl6Mm1TanQyT1dLOVZaMWhVNVVNZG50QkJudmVyZXluMVByWTlWbW9KUzl4VWhZX2VCWVVib1cxM0hFN2V4VDc4NUtjMjhSTlRwZ2t4V1J3M1FBbTQ4cDk4a1NTQ0xzSlI5dk9TYWlXLWVaWlpIWXNJNFZkZGpkcVlpMFllM09EanlYcXFfWWhYdGtDanQ3TGtlb2t6eDFLSHhYMmpOM3dSV1N1bkVMWHFKVjFJR1Z4MnNQUEFkcE03QTViTi1CanJsc0d2aUV5QTBuWWlNTVFFOVF6SzdOWjBDeFBDd3BLbFo0cWJJdDIyM0pXbVFYdmwzcTJ5ZTBsY0lvb3BVTW5ISTM5dGI3emxuSE9yR3VQMjZuU2s3ODIwOW9XTDhiZ0FFTXg2dWdVZ2lnbjlZNmhEaERCVWtiSlNLUUR0V05ONTJxd1RuaVp3QlN2MDZrOWQ4czJtNjl6Y2duX1gtbWJnTnAxQldlX1JBNGNQdHY4cVM2dGotTEotWTdvTGlSMUk?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 09:44:00 GMT",
+        "discovered": "2026-09-22T09:56:46.618941+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "بن طالب: تمثيل ألمانيا بدلا من المغرب؟ عندما يتصل بك كلوب لا يمكنك أن تقول لا FilGoal",
+        "player": "",
+        "content_hash": "2410b678abb330ecf42003c51fce1e8dbf774679b2284002a29f03b44b1d5170",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4068,
         "title": "العويس: غيابنا عن لقب الخليج «تحدٍّ وحافز للبطولة» - الشرق الأوسط",
@@ -1380,38 +1396,6 @@
         "content_hash": "a95fce7749d42cfde038d35911478ccf11f3fc61f04384a7597a83cb09062ecf",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3898,
-        "title": "صلاح وعبد المنعم وربيعة.. مباريات وبصمات للمحترفين المصريين قبل التوقف الدولي - yallakora.com",
-        "url": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxPMHpheXJ0OEdycjNMalpoNHJRY25PY01QZktQdWlpd21WTXJHZ2RGNS1GeW90UjlmT3hnLUI1LW5OdGFGODlGUU1qVjB3YWdSRUhlUGQ5TTkycWdsUXJTZ2RRSEpVSFRGQmtqb19sNnBGM0RucTl5TzFkbGpjYUxyeGtVb3MwUklUSEVGS1lVM1UxOHhuMjlrY2tPb19DMi1DY1Vtbm9SSjB4bXFXSHd6TGlEcVZfRFIwbE96eFZ3b1ZyaUw4a2ZDZGNmc1dBV1prSU01Skxadk5GU2NQQ3BlcHpUWlJ4UnhPUTc1R3Z5LW5KRnZtZjJ3SHQ4TER6UWJVa3Z4OXBNNVgzY2VzdjAzaWpoSFg1WEJndm41RklXYzlmLVRrQ18tdTNtS2FNc09zbld0R1lUNVF1NjByNHhFMElJY3pYSDBYMTRjeWdTbHJoMFhMdmxDSEY2Y1VjMUNoRnh6U3I2c3hBbm1HMmZfeGxXNGNpUE9lRjRaMzg5MzkxMElXbTNGcjlLVm1GdUFkSWtFZlZ3VW0zYmRILUFFUEhaYWJyTUpwdnQ2YzV6V3RZaVF3eV94LWdQQUljZmxiX3ZwT1R4RXQ0Z1JsTklKZ3JHWVctSHRFU3FmQWdEY1ExbHNpQ25WU01LQ2pzbHhwZHFSa2xzQWdlN0s3WGFacW9ERzBlM0lRaEJteGd0UFNxS1YzNjBzMXEwU0JHU0xIeldSdEtJaS03YmtGNjVzVGVYODh5VTJ5ZExUZk1KREEwUE03d2dtU0ktazJ5bmxLb1JqN3N4VjhKYUVmNktGNHVJdmFWLWw2VUhsbW1za0lqVEZhTmtlNEJ1U1QyUUXSAYQFQVVfeXFMT2p2SU9OLVpkRl9sci1iN3Y1aUYtTzdlUUhDMHhNTjVoT1QzUEd2aWhvR1lCQnJacTZhRE9QUW51MGQ2bWljZ2lpX3prSG00X1dDSDE0anB3V2txVEdIWEt0V0QteDBhN05QX1M3Ny1INXZ2aXhxekNWWUtQdHp3WklLQ3F6TjBIVE00WGlfdU43MkFiOFZLQXZaZ0pDRVVJLXd5dWtEMnlyOXpXZXRsRHhqWWVlekRLaGVCYWRld3JOa3BaaTlDSktFTUZ6RHBzSlpJa2RReHNkbWFYSWxxUVlsVm4xLTV5dnRWUmExejR2ZGdfS09xcXlMRm92N1JpMmdCMEZVZHpON1hKTjlMX09BV1pzWlIyS0l4Y2tTeFBsM0ZKcGIwNlJfQldBWF90SEFNOUkzWUIzTEZzQWJ0c0xZcndVQl9HTUExVFJtNGhKWHdaYU9JcWlEVHpHUnZnd1o0ZTZPaDItRHFkdElqZDdjTHNKT1h2cVBPNEdNcVd0dEZ6aE9FbFBuemtHTU44OWVOLWFkTWF3aS03Y24ybmRxVlhUcVhwSkUxajFKRDBaTk9Ba3hXVENKYjdTREpXNk1FRVJEZWdHSDRnTjRxV1J6WU5TSXAtM2RQOFBiUXNaemhYbkZlNFRybmFjaDRKdVd1M25zVV9SMjI5WF95cGhLLWhHNTNMX3BJZHJFWFpYVHViTHJIczRJaUZkTEYzc2twSXNwcXZnamJfMFY0aUF0R09TSGhvRnByYkctUHpCbWdYWnJiV3h2OXdNTF9wdWRIZWZwZlhFWmpTRmhkaUhWRHcxcWJ3LTE4bjktVURvLU9fZXYtN2wxaHlIeUFhX1dhMkk?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 19:12:00 GMT",
-        "discovered": "2026-09-21T19:30:10.183813+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "صلاح وعبد المنعم وربيعة.. مباريات وبصمات للمحترفين المصريين قبل التوقف الدولي yallakora.com",
-        "player": "",
-        "content_hash": "a7e107032a95ebfd7ed349042f227de57893292dd717ec518b70f111fd731e1f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4039,
-        "title": "الانتخابات في المغرب بحال الأوبئة والجائحات كتستهدف في الغالب غير الفقراء والأميين وكبار السن لي عايشين الهشاشة، حتى الحملة الانتخابية مكتلقاهاش كتدور جيهة القاريين أو في الأحياء ديال المرفحين، كيدورو غير في السواق والأحياء الشعبية والعشوائية وعند صحاب ا - كود",
-        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPeGg0TU1TNVlmMGt4THlMY3cyRHpicXRxaEJlTDktbF9mMXc1dVRRX3hXdEczS2JWQWRDM3hqTFdTVWlDQVI2Sjk4eE1EZk03dkFORmlSNXBRaC1wZnFOdE9vbjhxczRLYVV4dG1BMGZGLUlDT2xWMG1NbnBoVEtueGx4NzhpWXNsTm4zUUFMVXBfZFF6SjUtLXNIRHpQeTg2Vk82UFU0THpsMzFZeDIwX1p4SUFYZkxZT3dmUERZVURxaVgxaE5qNzdRN0ZPZ0s5UmFQTU9Vckc1ZzdFR25DRldWcndEWXd5amx0ODJCdWQ5QmtrS2E3TlItTnlOTkZsb3pqdkdpcUdPdTdqNnU0SzRyazY1OTVuTTh5dnFjOWNJV3Exc1dMT2Y1Y24zRG5ISi1lcUdSa3FIcWdBNHZ2amRWSXJWTW9PS0E?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 18:52:45 GMT",
-        "discovered": "2026-09-22T06:52:01.271020+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الانتخابات في المغرب بحال الأوبئة والجائحات كتستهدف في الغالب غير الفقراء والأميين وكبار السن لي عايشين الهشاشة، حتى الحملة الانتخابية مكتلقاهاش كتدور جيهة القاريين أو في الأحياء ديال المرفحين، كيدورو غير في السواق والأحياء الشعبية والعشوائية وعند صحاب ا كود",
-        "player": "",
-        "content_hash": "a121c832114979bf2e708e9e0f7d90b0dec66ddf216a46076eb5f060fbb64ee9",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1428,6 +1412,22 @@
         "summary": "كأس الخليج 27: السعودية لإنهاء العقدة، وقطر والإمارات لرد الاعتبار، وطموح يمني رغم الحرب BBC",
         "player": "",
         "content_hash": "5b6eb747e4e821c750604cd3b2a12b37058b9ef73373e15677101ca10ac3609b",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4073,
+        "title": "\"يمكنك تعلم الوصول لكن لأي وجهة\".. مقولة عميقة لمارك توين - العربية",
+        "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxQVFJjNmd1SzhZZzVJM29Ic3NCRWZScF9pSUlZTURJNTAwd2FfY29Gc1ZvWlFkM0pkY0VaTElhNGtRRGU5eXNJMTFOcFI4VlpTRFEzdl9ZMWQ5LU5CQVlOMnoxN1VzOWo0RHl4NEdwelJWZVNkTF84M1ZJV21XZXZwRzctSVQ3cndLQjdER3RTN1h6UUJfdkc5bWZfTDVVc0E0cHkwYnN0bWJUWFh4WXJ0OW1TSUxaUXUyZDR5TkZlRFRJaVZ1Z0J2WHJrWW9UUHhQSDlWUDZWekF6TTJVSnVneUZlbVNVLXlEQkZNV3NlU3JFWDNadXpfbUxLTTdvaHNHZ2hHV2UxcGNmdUN6MGZKd1lNQkxUaENSWlRnNl8tek52S2pHdFltQnFkTllyNGFpZkFWcE43SDZJNUd3NlUyMjhXRnZlYWlTNC1lWXpFNDlqbmRXTkpmZjNIQnNnZ1hWZjRzRXg0cmpiRGF0ZGUyTVFxa0JKVlc5OHg1cFl4cHZwVUlhdkpwNjFWLWNXbXZPajVVNnRnSFVRUktnLTlJUldLTzRXUC04RnFRcEg4SGRSUWJWRTJqVGtjZG8tbkw0SUJKWUV30gHLA0FVX3lxTE1QZHBNMkNOOFBFdkp3RzRna1F4aFRUYnpoQlFlUmZSMnpwWDN0UFVTbExLQ0xVemd1aExLZ3hJZTVfdmV5QVlmMmd2cUxZWjlBTkhESGFiUFhEUkUzMmQtUThaRS1WaVBjWklJcmdoc1JmYV9xajRiQXlhQUhSN1o2NkxHZkhMWUY2cFlzX2hsNzNPUkZ5a05lNU9jLWUxa1E0bDk0YTQ5dndLRTlidE4wRW1DVmZsYlotX3FmZVp5ZDRTUV9nTGtzalBOUHNZTEdJVExzVkVjMlVIMlBBd2JXRlYyRXZJakZRMTdrWG9kUXotS2dZRjlqemQ3eGZaam53LWdycWJCSWdWaWNqZ2s5ZmJIVjdHd2NNRUFNX0JIa1pTSUtMZDVIQVBFc3VIVFplVWQ5SFVpR2xnY2pIZGsta2dHZTBXWmVGbEI0cHVTNDNLMHU0LVNEb3VTU1FxN0xrdGJIU3JqZkg0M1E1eGl3WWVqR1N5ZW1nNzlrVmVhSDFBMDJ5dHF2dTRfZEZFaXoyVFpDT2d4ajJOdVA3eF9WUXNtRnoyY1pwcFlvRklyM0tYZGhkTEREMDFOYzNGTHhDbGhZZjBNdGVfbw?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 05:17:00 GMT",
+        "discovered": "2026-09-22T09:56:52.858386+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "\"يمكنك تعلم الوصول لكن لأي وجهة\".. مقولة عميقة لمارك توين العربية",
+        "player": "",
+        "content_hash": "e39137c786697e2663bbed006008a9208b7329bfb0d3c2c7120438c35d32f10a",
         "sent": 0,
         "section": "transfers"
       },
@@ -2282,18 +2282,18 @@
         "section": "middle_east"
       },
       {
-        "id": 3572,
-        "title": "وزير الخارجية السعودي: نؤكد على ضرورة حل النزاعات بالوسائل السلمية - العربية",
-        "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxNbnFPRDB5dkd2aEx0VG40Yjk5ZmE4NHZVVFFuS01hVnFOZzZOMzFjVUVKcTRMZFVyRzRlbVZjbE5ISTlNcHZ6dVp0VDV5blR1T2NaVnhHQ0dQaC1RaWlXeVd6aXVmNTBzNFhYbUlSdk1FMkNpS05MRlZBTkxicTlVS19SdjBnYnd0QTZENGxZNE10WHhaakRuRzQweWxEZlFPUWRoaklnbkF6dHdWcGZQR0l3R1FqeG4tZkJXYXNmYkVCZzBxY1lTSzB3T25wXzZHUmlVRjdDQmlDT3pYMTdlODZsWDFkUWtBdXBROFFRYlA5cWxnZlZXS19NcXVYODNnUW1LT3V3N2ZnM3JwUXRQbFJjMnpsUXpYeFZ6UUk2d1QwUTByeGtzU2FoX0lpdjNCdVhEajBZN19FMERKY1o0UmhQRXJja0tQZVRjWUZWYVpXcXltS2dTRmN2QTh3VktHR2IzaV9xNEhEcE0waHBIMXBOUXBQSWxIVDZISGRmSnlwd3NQV2ZQTTVKUVl2MkRxQS1BSHhUQ1M4MXd0ZERwX1JKdjdaNUdJS0F1RkN5M2g2X2dGQlhNQl85anN6OEhVYmhOeTBPZUo0RlYzcHFGaXRoMktVOFBTR0JocEg5U3RhcVBjMTZlRXF0UWxFazhoVjFSVmMwSmJfc2tLX0xEbUhwTjIxMVNCdktaazhtbHM2ZXZ6Zy1uVWZ3TFpfb1QzYjRkZ3VlVjNtOVXSAbAEQVVfeXFMTkZRejgybDdKUFJmR1hUVkRFZm9DbExxSnlNZE5LZGxmTzdUOUE5dWN0OUlyVUlqV0N0TUd3OFlueDZ4a3o4QUczOXREcEFfdnFkczhaaDBGOXU1MHZNOWk3azJGcjJmbndvSGtBaVpXOC1keXlELWNtUVBZcVJLT0lRaEFsRTlYOVRybmo5S1JPR3AzTjVnUHZHNFR6WDVyaVc3OXU0UG0wY3E0c2FNMWtEaGpqcXZVaVpvNVB5ckdBODNxSGRwWnNudndXVUNSZUxoMmJPSm9oQnkyWnBZVkRBOHdrRlJRVERQQVpqM2xBZnpIN1ZELVpvVGppUm5wb1dBeFFyTk5oZHZvNEw4QUdCSEwzbU5NMTI1ckNfNVBfN2F2VUtycWRnU1BYVllHQ1lyS3FDcUFQMUxOMW1sb3ZYemt1NU81VDhDV2ZIX292NS04bFFfaEI3aUFnRVJpLWtuQzQyZ0liQm9iWTRpSzlTOEJBUEVlS0ROVnNrM09wREJlOU5HWWdtTGpPVlBFMTNnRXYxNDdjNlRxTEFCXzcyeGF6OGlKWHowU09DU0hsYlFrUVdzV1pmUTM2V28yTHZWR3BpYlZSeGdrblpRd2FUcGQ3SWFsNG5ZVDRwTDlaOUtPOExwQmlvSUFMemItT2ZDbUM1b2pPal9ocEhXS1JUUUhBSWpIc3lKMDhCTlg1NzY2Qkg5VkJxajlTdlNlLVJSYUVsemlBaVZEcHJkeXU?oc=5",
-        "source": "العربية",
+        "id": 3782,
+        "title": "برز أمام ريال مدريد وخطف الأنظار.. برشلونة يضم البرتغالي داني فرير - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNZ25adjBHQ0JGd182ZkJUbHNXSHAzZkxXNTgwZDJKM1luY3EtUnJ3TkNzWURtUUdyVm9WdEttSEJ2NEF4Z3luRWpzNEVnZi1Cb2xmRWhwT29CVy1vSXVFMUV3azBYVTRpWXRicmVZTHFxX2xZdnJBZlpPdWQ3WURHQlZkOExzZjhHUW83Unp0dXUwVDJHZ01uaE9MemZqaWZBTnotNTktaWdkS2FBZXF5V2wzeW1uN0lrNEpsSW9DdnBkRWhTY0U1ME93WVAtVGY1NFpMWll2RE9yUExIbXBuaElsSHJiUzJVVVRUZTV0cEwzR2o2QUFweHA5dVlCTWxka2JyTTdxS3Q3U2lPUWo4c2xOaXFMMXA4SkF4dkVIUnluWWdKX2NMeERHN2VkOW8zTUs1US1YNWVsNHdzbkMxSy0yU1NLeUxRZ3ZBSNIB0gJBVV95cUxPVkFaYm9SU0dJd2FXeFVWNHZVNlVWcU1XeFo4bHdDM3JwUEtzazN6cHJzM2RJOC1wazludVRxZ2M5akVaTGViRXdpRHFzcmF2MnhRb1g0M0VPaGVWVVd5Ym56azF0eUNrRzVYcXhUYTZyV3Y5aUZHUTJPeG1rNHNMa29zMG9tMTF6Q1RXSmt1YVlILUJWdDlKb2gxT3Q0ZUtGM1I3bWRnSUgybF9Ba0k2WVhteDRKSjhZR0UzTkZIeUI3eXZrNnBKVkdueGhpQ1lSWFpVU2wtY3lmSHF4bTUxUndpSUVhUXpQYlc1QjAwZ2dCcXh5empsMFBMemlDdE9IblhwSDJjNmRkSnJWRlFvQmFmUkMtWW9ZR0tDd3ZKYXhGTzdFNGxoTlc4R2RaYkF4UGdGY3IyWkNxNTc2ZWdXNXVmYVgyRGt0blQ3bGFYbDhwQQ?oc=5",
+        "source": "الجزيرة",
         "trust": "B",
-        "published": "Sun, 20 Sep 2026 11:13:00 GMT",
-        "discovered": "2026-09-20T22:40:24.960584+00:00",
+        "published": "Sat, 19 Sep 2026 22:40:10 GMT",
+        "discovered": "2026-09-21T13:18:32.752371+00:00",
         "category": "الشرق الأوسط",
         "status": "غير واضح",
-        "summary": "وزير الخارجية السعودي: نؤكد على ضرورة حل النزاعات بالوسائل السلمية العربية",
+        "summary": "برز أمام ريال مدريد وخطف الأنظار.. برشلونة يضم البرتغالي داني فرير الجزيرة نت",
         "player": "",
-        "content_hash": "95bb4a0a1c2cbcc3f3209d87ce72aea7944072d05d7d3d65794be3d4ae71b6a1",
+        "content_hash": "3778191701ffe3659f6220453d6826e37b9a8c39cf86a9b63c55616e21bdc56c",
         "sent": 0,
         "section": "middle_east"
       }
