@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-22T17:23:19.664635+00:00",
+  "updated": "2026-09-22T17:34:48.817940+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 4201,
+        "title": "التضخم في المغرب يتباطأ خلال غشت.. الغذاء يتراجع والنقل يواصل الارتفاع - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GQUczOEI1VldzSk9SZDlRVmtxZFVtQ2xyWHdYN2pHZUhCOUtqZlBLa085Xy1MX3M3bDgwSXIySzhJVE9HTkFJRg?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 17:32:23 GMT",
+        "discovered": "2026-09-22T17:34:12.544407+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "التضخم في المغرب يتباطأ خلال غشت.. الغذاء يتراجع والنقل يواصل الارتفاع Febrayer",
+        "player": "",
+        "content_hash": "6816326495e2785737963f11a965c5577323ef90cf975f6225b108465e975e59",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 4187,
         "title": "انتخابات 23 شتنبر بالمغرب.. قضايا الشباب وتطلعات التنمية في قلب الرهان الديمقراطي - Le 360 Arabe",
@@ -610,22 +626,6 @@
         "content_hash": "ae1ba98cb191179fe22b90b8b2071d7ae942d3d6e026882659d5e05fd5eb634c",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 3709,
-        "title": "انتخابات المغرب.. وعود الأحزاب أمام اختبار ثقة الناخبين - dw.com",
-        "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxQM2JIb0stYURfTWctNFJrUWlWU3NQMjc3Q244RllIcXRVMUgzUkpCVVp4UlBHRktSQXA0ME91OTFGMVg3T1dlTUx4ckZTVlJsU1FWc0MxbGNDZEZjbl85VzV5THdsa1VoSjNzRFUySGZET3prX1FFVUZkOXJRNXh6bHEzZUZuNS1Ud2FRMjRMZ1l0Z21Tb0FJUnBCZmlTMm9IQ2NTYXlxOUI5d2NwTlo1SkJWNC15Q2NQdF9oTlNOMGtpNjJtdEM5QU5Lekp2R2pXc3V2bXBDLTRROGNxdnVnOTZrWkNTOXhLT19iUDhMdGUtZU5nYzF4TFgyei1HaUNjQmFDSjVXeXhGUndGNkdsTDNEaWdwcEQyd3hlYVB5eHBWYmpPSlR3TnRDVFd6RTRhU203X25BQVRleExrRmF4ckIyN0tpVzBLWERmQ3lEYkkyTU1vY1hGcFJtV1JETTNJWHpJNXBGT3hBY1N6dXdscnJkS3ZnZERWTDhXM1E4Q2FoYmNPMEhjOWRkTjBzY3J6M285TGpyZ19yd2RkN19uVUhrU3JfVVJuV2s4bVlYUFhkN0hadVFrQ2xrOFk2YlFkaWfSAcIDQVVfeXFMUDUyTzFJUTRqWWswR2l6YWU1a0hhanhYZzNMWlFLZ1ZDWmF1bEdQZXZ3ZEpRcFJWMGJZM1FYYnBSdU8wNE5iOWZNeHlET2l3SEd5WlNlVkFRWFFUOV9MaGlZTkxuYmphYW9EMWxZRHZDNER1YUFtV2tMcnV1azFQX3paZHZVdm93OHYxemFPY2dLS280OC0xWnUxeFVGUTBfZHZDUTdpSkdvTWlPckVaZGd6ZDdFVTd2aFVRN2tYMXFQTHk5T0ZhTnFid0xESlBGY3U3cTRGZXExTG9Ub2dHM1dPWTVMWTNIUHlXcnhDN3FqN1hHeGpTZFJQQ3pNTG1Ga2RkVTZrOVNaZmY5QUR1aGZXWmI0cGIxOFdTd1lrbUZGbTc3X2tiVExVei1DSkliTkxMbnYxbnNKOFZjSE5temxUNTlkTWZ6UVUzNVYxWTN6bXV1RllVN3FnM0xZbTZyS1NaWTAxNHp4Z25JMFZFR2dJVEZpSnF4cGlxdW82X2k3Uy10Nk5iOXIzb0tuNnk3ZDYtTGdJeU5meHFxLVNzc0pCWHBqT2pOVGxTUl9PTVlpcHprNzJvOEtERmczenZFOXp3?oc=5",
-        "source": "DW عربية",
-        "trust": "B",
-        "published": "Mon, 21 Sep 2026 09:32:14 GMT",
-        "discovered": "2026-09-21T09:44:47.316132+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "انتخابات المغرب.. وعود الأحزاب أمام اختبار ثقة الناخبين dw.com",
-        "player": "",
-        "content_hash": "988ded26476c9d370e79c2ca1d87536ac07b3a584cadb40f99d12475c3a27290",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -946,6 +946,22 @@
         "summary": "بريطانيا تواجه ألمانيا في دور الثمانية بكأس ديفيز الشرق الأوسط",
         "player": "",
         "content_hash": "3c0bdf7df261b04bbf6e38b5447645f1561d0de62b028e01b6e4ff1838e86a85",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4202,
+        "title": "صخرة تحولت لمزار سياحي وشارع باسمه.. تأثير صلاح يتجاوز كرة القدم في طرابزون - yallakora.com",
+        "url": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxQeW0zTzlVWnRLYXZVNWRLa082eURuV084Y2Z1N3V1bVMyOGFYaXFsYTlLdEZsalhHQ1liT0JuUUV0S0l5REhucWNhYmdYUDF1elFaaHNiTHFka2dtTFhvTWMtdHRCMHkzVXhETzJEdTY0eW1GdFdIWTFEekJobWNaaWZYWEhhVTM2YmRZaE41ODIwa0g5Y0hxT0ZiYjhLTTJVQUZQQU1xTS1wVzNBbkJPMUhFWUlMZzd3UDhyaEdaNC1WNHNtYVFHSFZwYUlaU3FSVjF4aUZBQS12UktUVHNDZWNJVEM5N2lsd19SNU0xcEpUR1pqbjVMT0EyZlJhWTRLcVlVc2ZTd1RIVHZRM05wWUpQOWM0ZGJoOXpXNF9nX1hTUzJLQkU5eE00ZWM5UEp5R1pTT056bEx6OVlTbjVWTjZZWUdacXl5YjJSMDVqYXV4NzQyXzdic1hhWDB4NXNHa2NCVHA0T3JuMkhqMExjRGsyeXROR3FJTFRXR1JDN1VpU2xIVUhKZ3pXS1Axek5RdDVTSGFaeWpITVhSOVRFUnJKOFpxMTZsOXlZcG1BSlZreHFHVXpWaGVUa3B0Q0xYemVRNVUzZnUyY2tEU3dpM3RzSGhMU2p4bS0yeGE5clVEenFWVXJLOUQxT0w3QmM4ZzlBblA1Wk1xcHB2ZmNadzFaaXJmWVU0ZnVKekpkY21xdzJFaVd3Vjl3ckdrR1FWT09CU2k2SzNDTEJJZGlhazN0QW5IT0hEeTZjMEpsUnd4S0czM1FhaUx1bnJ3cDVXRU9kTFlETUo1YXR4Rjlmc3lxY2JtZ0HSAewEQVVfeXFMUFgzVlNhZEliQ3Q3RGdmQU1XMUNqS1ptcGVLN1N1eHJrcFl3blBZZ2g2WlM2SURMTDBCb3VGd1hTcjZvcDBqeTl6dGtHZml1WF9Oc1d0WVpoaXNjQURhOTJ2U1IwTWFTOEtiS0xuajB0Rmwzd2FyNUYyRnhIMGp3XzlkekpyLUhEc215eVZNY3hOSDdSbTRvVWQweGJZUVBpbGNoUmxtOW5WcDQ1OVFtR25zYXFvRWNOcHNDdXo3QV83UlBrSWZjX3MyYzBXTmY2dmN4M0JHZ0I2ZGhrUnFId3VzZ20wOTc5bU93eHhXUHJUREw5cVVDelJ6cGg1Z1NCNFpJZFloYjNPSVdzc1BIdUdzT2tNT3VSZk1qNlpqcTZTWFpteVVLYVVDcURwSkRMemhKc2hHckZra2RMUmUwcVI5U1lvNU5fcU1hcjhmb1dCM0YzR3ZrcHhEXzMtZ3ZRcVFkWEtCc2NBMXRqczdCSXFoTDV6aTNnLWdlWGNjZDFMNDMwNXViS0hxTTFoTUlEdWVfWEdoMVBfZnY2RlY5RS1wU3J2T0NxX3k0N21QdDdTbEdDTHFMYlVwMHljUFJfLWxGRS11T2Qya19pY2ZtaFpYdjZfczJmbDF0M0FxZDIyVXRWTS02cXF1Qm5rTk14MUhkeHNibEF0aGFzTFA0U0g0S0dETEt1VFJibURwUWFsUTFTNy1JNlBXTGdZWGRGdzRoVGVwYk1wMEgtdXZIOHdxNXlndjgzcUdjV0hHUzl2bEJGY052Vm81TEFFaWlKOHZUeHVBWkVxRGJ6TmkyLVFDRGZCRFhaUTFEelY?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 13:42:00 GMT",
+        "discovered": "2026-09-22T17:34:22.348343+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "صخرة تحولت لمزار سياحي وشارع باسمه.. تأثير صلاح يتجاوز كرة القدم في طرابزون yallakora.com",
+        "player": "",
+        "content_hash": "d3c648d6680379a31a9a44b492c1a348299c3272baf2ba2626337a0c7c4ea6ab",
         "sent": 0,
         "section": "sports"
       },
@@ -1410,22 +1426,6 @@
         "summary": "دونيس: هدفنا كأس الخليج... وما حدث مع «الجوير» منحنا طاقة سلبية الشرق الأوسط",
         "player": "",
         "content_hash": "59144e4f646552f12b75155833d2b896cc69ad85570974f03681a6d800209128",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4154,
-        "title": "بن طالب: تمثيل ألمانيا بدلا من المغرب؟ عندما يتصل بك كلوب لا يمكنك أن تقول لا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCVkFoZFJFMzRnX0dLYl9yejVkd1N3SG5rNnlXa0prbDA2UnlKT2JtSm5wcXBjMGJjc01iRFczRjUweG1uS3N3WDZ5ZWVBVWc20gHLBEFVX3lxTE1XLU4xYXk2UVVldEZ1V3BMOHhJLUJSRlkwc09QZWlmQ19VSFlzYUtrNmY0akMxWkdMWmYzR2l6VHNRTDVCTW51dmVtbi1USndtWkhVSWtJYnU4TEx3XzJyVEQyaUdOSnYzQWN2SF9SYkpGWWpndVNvOXVOMEtDdmV2QUNBdzcwQlFLTEV6ZUpITkhYU1RsQmZLdUl2VVB4YTdHVHVZTGlSalVCamluNVJoUWR6NEdxWDQyS3BibEpGekFkMHl3TGFNTUJ5ejJtU2p0Mk9XSzlWWjFoVTVVTWRudEJCbnZlcmV5bjFQclk5Vm1vSlM5eFVoWV9lQllVYm9XMTNIRTdleFQ3ODVLYzI4Uk5UcGdreFdSdzNRQW00OHA5OGtTU0NMc0pSOXZPU2FpVy1lWlpaSFlzSTRWZGRqZHFZaTBZZTNPRGp5WHFxX1loWHRrQ2p0N0xrZW9rengxS0h4WDJqTjN3UldTdW5FTFhxSlYxSUdWeDJzUFBBZHBNN0E1Yk4tQmpybHNHdmlFeUEwbllpTU1RRTlReks3TlowQ3hQQ3dwS2xaNHFiSXQyMjNKV21RWHZsM3EyeWUwbGNJb29wVU1uSEkzOXRiN3psbkhPckd1UDI2blNrNzgyMDlvV0w4YmdBRU14NnVnVWdpZ245WTZoRGhEQlVrYkpTS1FEdFdOTjUycXdUbmlad0JTdjA2azlkOHMybTY5emNnbl9YLW1iZ05wMUJXZV9SQTRjUHR2OHFTNnRqLUxKLVk3b0xpUjFJ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 09:44:00 GMT",
-        "discovered": "2026-09-22T15:10:56.075385+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "بن طالب: تمثيل ألمانيا بدلا من المغرب؟ عندما يتصل بك كلوب لا يمكنك أن تقول لا FilGoal",
-        "player": "",
-        "content_hash": "2410b678abb330ecf42003c51fce1e8dbf774679b2284002a29f03b44b1d5170",
         "sent": 0,
         "section": "sports"
       }
