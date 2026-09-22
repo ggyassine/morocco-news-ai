@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-22T02:22:06.473328+00:00",
-  "total": 142,
+  "updated": "2026-09-22T02:34:45.360655+00:00",
+  "total": 143,
   "sections": {
     "morocco": [
       {
@@ -1364,6 +1364,22 @@
         "summary": "صلاح ومرموش وعبد الكريم ينضمون لمعسكر منتخب مصر aawsat.com",
         "player": "",
         "content_hash": "5423ecbb3e6e7f58fa1d2c64ca99bac5e0d8a1583446c31e8cbe69e07df25b58",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4014,
+        "title": "تحليل ميركاتو الدوري المغربي.. صفقات مكثفة بين إعادة البناء والرهان على التكوين - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQNDJYM1YzSG9LaF92cmhwQWJ5WXlhRXRFY0NMNXhDcVdueDd1RTg3SDRRQnRYc2cweUYyV19UNi03Y2xqd1ZkRWgtYURqbEtnNjdPY1JseXBpLTdVM3pfQWJ1TFA5Qjc4N1dYcGwzdGNpMmViNlBQbENscW9SSno5QmdRd1h3VUs3cXU0MndtNlB4bkdhb2ptSGJ6UVZiRnFEclRRMzZtSEFJU0hEWjNiRFR3QlY3bmMta216c1BMcklGRUlrTDhKNTBOTVRuVmR5aEdEQkdDeU9YM1FYa25SZjg0OERmRnE4NmhEc3VQTkY2R01lMVZIN1lYWDhBNFAyS1VDMk1rRFZuV0E0dlNrOFR2WjJBZ3RXdGhwdXZ5MlJUU0MxY2w1Tkw1Q3hyLWNhV292ZVNOUmJLSy1ab0puU0V5STJtc24wVzA3bmNQelZiNzVsajdrN0ZpSUp4QQ?oc=5",
+        "source": "365Scores انتقالات",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 20:30:10 GMT",
+        "discovered": "2026-09-22T02:34:34.515181+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "تحليل ميركاتو الدوري المغربي.. صفقات مكثفة بين إعادة البناء والرهان على التكوين 365Scores",
+        "player": "",
+        "content_hash": "dab539cc83d2e80534d6f66cb4f851e148ca955ff421083d7962efd16b3194ea",
         "sent": 0,
         "section": "transfers"
       },
