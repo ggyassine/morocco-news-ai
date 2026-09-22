@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T19:06:20.032073+00:00",
+  "updated": "2026-09-22T19:20:29.862430+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -64,6 +64,22 @@
         "summary": "شوكي: كرامة المغاربة وفرص الشباب في صلب برنامجنا الانتخابي Febrayer",
         "player": "",
         "content_hash": "c7a0292538fe94ddb8edc38f799045837d49e61fda6e0a0e0d9e7d7aab4d5130",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 4221,
+        "title": "ديابوراما: حريق بغابة تافوغالت بطنجة - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zNXpGcmJQa1hGUi12ay12RmlBTzFpamxVN05xbS15b3RrbzNsSEFRSWhHQ3VZcHVBR2FuQnBCQkpibjBSLW03cFNvSU9FWXpnS0ttOGpjUk05MHgtRkJaRnp1QVRrb21u?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 13:12:09 GMT",
+        "discovered": "2026-09-22T19:20:01.388034+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "ديابوراما: حريق بغابة تافوغالت بطنجة Le 360 Arabe",
+        "player": "",
+        "content_hash": "c5c2fccbd24c39e9af70a63077c6ee819eb0e42898ba383c0883f3730acad353",
         "sent": 0,
         "section": "morocco"
       },
@@ -645,6 +661,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 4222,
+        "title": "قبل مواجهة مصر.. ماذا قدم شيكو بانزا خلال مسيرته مع منتخب أنجولا؟ (أرقام) - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxQWnZ5cy1KUHFSQUs4UzUyVWhmVDMzbFhRMU9JeG96YWlad0RVRVZiTkUzZVNTdVVaMWpRSGR3N2kweVJ4bGZ3a1UxNGgzcWlvQWpJYXBJdDZVY1ZwekI1RE1IWGM3VkhqQ09PRlNPbFVUVk9lc25yN0I4VWJTeFNaNkpMVU44dDdUWmNxMUlXc2VITGpsY3RMbERxMnB3ZmVZelN4Yk9kNnRneWNaQ3JOQ0RCc3BUWXBodFVjeFBHbVBrNHB2aEM5bmhJaVVEajRBZzFQOHc1SXN4dmZpcDhocGpyT2hTWE5tRVA5bDM5ZkRlOS1zbkVWVE1OWEpjYjRfczJLQ25GdXpPNEw5MDR6Rlo0WnJWbkRacm5wX25LT092NTBKeXJxby16emlVZ0ZWQzZ4VXJKN3ZzX2s1cjVob2tMWGtaUUhTellLRlBKc3Bidk1Tb3VBVFpfbElWVVlsTkJHYUgzRXJ6ZFNCajlIN3RiQmNkdVBpQkhueG81alFKZ3FQcERBR2UwaUdOVGNMc1F2TVNoMGtmS3Z6eGZkUmp3QTdYUG8yTkpvekpUcVd0bGJDbDhxVUVXeUJ6WkJxQ1BTTmNpQnpqY0dWWWFFQnpkQ29Wb1V6T0g2OEIwYklJSzFsSkNVMVg3YktOQUM1TGtMRzVZNF9hN296OUVLYnoxWVRDTEFwZWxxUXpKSmxGRV9DWGJsZncxeXlNMWFsNHZaeDJubUtHT2V1NEJhQnIzWTFkdGJjbHpB0gHABEFVX3lxTFBjQ2MzMWJ3WGVRM3VFTGwwRm5mYmtkeFlSUm54VzVmYU5laWd3d0xFN3NYTk9kNGQ3aVh5Q1F1cjllSnZXVWI5SlptUVVXRHRRckh5VWxIYjVHRENIaTd4N0lFNE5RQ3gwVTVHX2VyaWJ1b1R1TGx0Y2NOOUVxUkZjejFHSkI0ZXIzb2Jta0xid1liQ3JNTFNTWnI5dTg5ZFgxSHJOeW5xVkNZWmUycGtxMFRnQWF4WkRaODBnN1hWdjJ4OVlTLUtzdFNKb09kZXZxRjcwa0ZLd0hELXdiYVlxTkdacDZhZG1XbnNwZEVRVVk1QXRhbXFkVjljVmkzX1JwczVmR1hITkcxaDlnUkd2UUhHY1I1c3hDRlZRaVFSSTZSTkJRWHJpQU1BblpOZHNyejl6X2xQZThhQ3VqeVFHaU5CYmJFN0tWUWZYZkVyZ1BfM2cyWEhIWnRFMUtyNzI0eUJRWTBVQmJiVDg0Vml1TWVILXpSbjk4TGJ0UWdhN21BN2FMMzFhaXpoTEJqTjlMc1pScHJwc1ZsdVpNVHlib1U3bkhlck5LZmUxQ2pmZWd5bDlJVmRkSXl5Uzg5cGxYUGVUYTZXb3hWYmdUMWN3NF9NMndnbVplWVkxT1BkbGxQZ3BtbFdDQmUwLXNlX2ZXX0h5UTE4RUsyN2E3dVFfdXlGMDZ5OXp4UzdUY25QTVMyX2tSUElaanJLbnNYZ3NKdXlrVWN1anY1M0k4bnQxTWF6TldQNElRYkZYaGt5UA?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 19:08:00 GMT",
+        "discovered": "2026-09-22T19:20:13.993210+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "قبل مواجهة مصر.. ماذا قدم شيكو بانزا خلال مسيرته مع منتخب أنجولا؟ (أرقام) يلاكورة",
+        "player": "",
+        "content_hash": "add38c389949b0677632b7cf9426440f80918b0eeb120fdf6b3b6c83cb1b3fac",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4220,
         "title": "أخبار و معلومات اللاعب Will Mcpartland مدافع شيفيلد وينزداي winwin - winwin.com",
@@ -1426,22 +1458,6 @@
         "summary": "إيقاف وإحالة للانضباط.. قرارات لجنة المسابقات بشأن أحداث مباراة طنطا والنصر يلاكورة",
         "player": "",
         "content_hash": "5b16186184d5bd8a84c218fc015fc8155421b4f17af3d23fd015d6d2f9095525",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4096,
-        "title": "السكتيوي: لدينا رؤية طويلة لبناء منتخب قوي لعمان - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxNVmVyd3gyN2s1Z0JhUnJfMzRNVHc3VWFwUE9xbTFhcktoVmU2T0VGTHk5YUJOdi05dkdYWkt4dm9XWGNfR0pWakRLN3kta2hZWjk3TlNIMVNvNDZyb2ZldmdXcU9KcURmekg0elp4V3ZXRUdmdndEVTBKTnN2UXdGYWtsNzdJOTh0SEZmc2U2a2tVVVMzLWJQRzYwQjN3aWYxN2VKSFNObzg0RS1qYXZkcUZmSlVKLUwwMHpJdGhLSXBsN3ZFcVJMWWZ0YWJuQUV0U2VHckpNck9hZFV5MDZHLWp2c2xRRlc3WVR2ZmJvdjE0VS02NGE3bGx6aDdTNDFyR2Jrd05Dc1FXT1ptajhFbG9YU3c5QlFPWTlSbmZvUlFQLVJTcDdJUDNyb2N4ZzhQMUY0NjRMT3FQcXJhMXVmVFB3T0lra1ZwbjRsWmJXTm5xTzVOVWlSdGdibTd3QzA0UFV5RTM0VjM1NVdsS0dYUk5IcTZ1TWhGRmlEZTRsOVJuZVRZMGp6VGx6UkkyVlN2VUY3SnVTaHM0TUc5dWUyeVJLOVFWeFRQa0JSY1lmUjNPQzA1aU5GdFdiTEtzOEstVXU4UU50MkhxS3RqaGduczB3WVpuMkg3al9Mb3YtQ2hJdG40bW1xSmtRSi12dTJVb05Ub0dHc0dOdE80Sm5PcllzeEhVcnNyR2prbVJReFZseVBaZnc?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 11:28:31 GMT",
-        "discovered": "2026-09-22T11:33:17.305796+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "السكتيوي: لدينا رؤية طويلة لبناء منتخب قوي لعمان الشرق الأوسط",
-        "player": "",
-        "content_hash": "f2007ec9473c14abdb4993f3f9c281006a12ae609316786ba8c50d025d238f0e",
         "sent": 0,
         "section": "sports"
       }
@@ -2294,22 +2310,6 @@
         "summary": "وزير الطاقة القطري: لا استغناء عن مضيق هرمز في نقل الغاز الطبيعي العربي الجديد",
         "player": "",
         "content_hash": "efc51101d103453b9a3bbdac59d05f4b930d682ecd7802c98ea3ce1a2f9971e3",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 3768,
-        "title": "وزير الري المصري لإثيوبيا: النيل ليس ملكاً لأحد - العربية",
-        "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPbm5BWnhmdXRUSG01TFpXeVlRYnVaOThwN0ExTXNheEotbXd0QlhyaVA2NWpGVWRiaEdEWXo4MDl5ZGN4VHRvRUZhWmdTc19xbTFvUGZTSW1jUkFJdm82RElfRTNKYWhURTFrSzFicVlLRWViR1ZOcUIweU5OdXY0YVBlS3JzQXRybTlIekN0MnhnRm8zYU1YNlkyOFdBdXlOZC1JaWNDUzRmVHMyRVo1c0syR3BFTWl4cWNaOGZqbVBVOUpDWVlwVWRCZFM1aF90VkxBT2JnUWliS1AxYjNpcTdZZHBoeF9NQ0ctV1hZWTQwUHdldlJseXV1UklkcUxqUEd6djF4akZ1LVhVOU9adHNsbUZTZ05qZlh1MXRzVHBHQkRMdW5qT3ZaWmJVdXhyRGh5YXd6dWFUWEhKcHJDSWtvcm14MnNYQjJoTlBvb20xbUFTVF9vMGtsSXR1a2REQUVGMFNmWnhrSmNWLW9fanUwaVJ6VVFkMEU2V2Q1X0ctdldSenlVbWVaQVVfZ3RjYVI3d0dnemJrZ1pJdDRINzIwb9IBqANBVV95cUxQUlZsX0VFd056WHVibWVVR0xpN0NHOXo3ZjVMYVk4XzdodkpUMW10UzZhSTNLVllkWnBsY3hOVHFKemN1ZG5aXy1rdUxmeTZSakowRTdyRXp3ZmtaVnBWNmViaXFIbGE1MFFtZ2RvSG51Ty1DWEcxZDVxS0V6MTZCR19oNzExT2NhdDV3bnRFQTh2NnlIQ3hOYWRRdmpBbERoTExFMW1QakJvSDBlMnJ4cEFNVE9zdmwxeXpsSzI2N011RjZsaVNfZ0tuTWN3RFpONXhiSU5uWUxlaFVvdy1rZEhxUmpFRm5MQllkbHJOcTg5QmV1VjQ5bkxWYlI2aF95eXlTMnp1RGpmMS1SNEhibnlTYTN3WEJHaG5ZLXlQMnlCR05GaE1oXzA3WEs2ZS1fSmNibFhUc0VOb1BvWm1aUW0wRHNtYi1aSDJMWC1tUnctTFNPNndQNEJwekJ6bmVXVXp3cUJDbUNKa1JpRHZjazh0NXJEaktRUlNOaVBSUURhcV9XaWVZOXB2Ync2aDA4dUNGdWJpT2hUZ0piQlJVRk1pMDhVUE1G?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Mon, 21 Sep 2026 09:57:00 GMT",
-        "discovered": "2026-09-21T12:38:45.734614+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "وزير الري المصري لإثيوبيا: النيل ليس ملكاً لأحد العربية",
-        "player": "",
-        "content_hash": "a3558fe1244e0500148517a9128672b76f7ac85abaccb4b631a7754803cdd127",
         "sent": 0,
         "section": "middle_east"
       }
