@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T07:20:12.065547+00:00",
+  "updated": "2026-09-22T07:33:49.755328+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -598,6 +598,22 @@
     ],
     "sports": [
       {
+        "id": 4049,
+        "title": "القنوات الناقلة لمباريات اليوم الثلاثاء 22 سبتمبر 2026 - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOLXFjMFpIWHFlNnVyMTJOai0yU2pkQXZLMHQxY0dSbGZtZFc3SEFxRXFaaE5ZVzk2WlpUTmJIb2RwTkFDWUNMSmZYbGt0OEVyaWk4TGtnek5mTkZsc0V2emZJeEswMms0eXBOZWVBWVJrSHpEaVk4aWJjbWNWazFHNV9JbGRIN3dYM3VNZ3A3ZmR6V3NOUm9YZExkQThqWUFyWmdIcHhtQlYxOG9DRG9ISUc0TmozUUc5UGgzUHp2cVhNWHFuTlVSSzctdFFJXzJ2OFdocUd1bG42S01qSkJHNktQZHdTMC1rclU0dVlQU3BDcWo3ZXMtTDUyY2ZXTUp5XzRaZEpVbjQ0NmtiSW1nY1hkZzIzR1pqR2dQYl9CSmxWVXhJUk1fS3pjNXJnMkJ6UnUtWVRHeS1HZFVPT3h3Wk5TTnpycGp3VUhfMko0aGdXcXdHTjJwRDNMakNqVHAy?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 07:24:17 GMT",
+        "discovered": "2026-09-22T07:33:35.979428+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "القنوات الناقلة لمباريات اليوم الثلاثاء 22 سبتمبر 2026 365Scores",
+        "player": "",
+        "content_hash": "e1fffb456fec9e73e5b95541fafeb25c8e7d06e1a7b1e4f67014acba669e6960",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4041,
         "title": "مباراة دوركينج واندررز ضد ساوثال : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin - winwin.com",
         "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNaXhOLWRmVFhkRzhudmFobWJEMjUzN1YteWJRekZtWTNpd1FNOU5aTnhlU2tKUGpMbUh4OF9IbW5XaHhzSDkxTTBIdHRGS0xnaVRtSzZQVnZEYThwSEZ2dERTWkd0Q3ExYjloZTBVVmpfUm1vaGZDejltWWd0LVk4NHJIbEFLbU16OHF1LWdQTEhqSDRuOWRMYjBmNkdCUDY3aDZPaGFyS3RJMTlUZWVQVnZYSTVaNjNXblRlTDdRd2E2bDVIUDM5R3RSVE5vZzVxdEtoYVdDNzItNUw1TDNtdTRpOG12M0g1Mmp6aGJRZDVJT3RTd0Z4aDVqWlBSUjZ3ZVdsTzYtX1FfYU52eXBDYlliOXNuMk9pNlNxVzByZF8zOUE1OWdkcGl5TnZuT0FFQnBFZHREZ1NORER4bkZpYlgwVmNuS3hzeEt1TVBTZzBTUElYZzRpSUF3d3JZcjJvNlE?oc=5",
@@ -658,6 +674,22 @@
         "summary": "أخبار | لجنة الحكام الإيطالية تعترف بـ 5 أخطاء تحكيمية قبل التوقف الدولي FilGoal",
         "player": "حكيمي",
         "content_hash": "db63855a2a21bd1f3194e043a4f938c80979fbf1a43285529b0455399326a2f7",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4048,
+        "title": "أخبار | تقرير: 5 أهداف تفصل رافينيا عن معادلة رونالدينيو في برشلونة - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOZzR5eE5tbEVYVFJKVHpUcld6Y2xFWG9jZnhrSUZXZGhFN3dzNmFoclpUX0Vyb3p3U2x5UzZZTDRTMElFWDMwNnVtSGJ4c3FGMFRUSFFWcHFMcEVBZnoxblZ2ak1USmE5eFZZVHpWcFRJY1JFWjhacTlsM09Rd2VfOUZxbEx5ZUpydDFQdkJ1cEtFbXlOWWw1ZHNGYUFka3dZc0V0eEZpS2VZYWZRUk5pTm1XRUJZV1RDMlFTYllGTmxCdEpMOTBaZmV2b2N6U19MN3NES1BnSVFlbDZkcUZselZ1d2tHWEtWNDdtTDlxX2w0NFNJS0VtOEJ2VnNpNzY1WmlrR1hYWWRqcUJaVDg4SWFBSzhBRmZzeTM2V1l6d2NXb00xZEN5V2JFZXViZldFYmJWNmROd2IyN3Z4MEhkYkM3V2ZVeWRmeU9RVFNScDZESnZiTk52dEFtMlpyX1FhSGtzeXhsMjc2enY1ZFVFR3VyOGQtYndhMFdMbkZTeTdLekg1bjg4bUJpN0F3R0J6bDBQNWVVZzJaM3BjdmhVVmFHV2RYRkRxN2ZBSVJnc1BkMm5RSGNzUWVrRHR3WElRaE9QOWFkR2NEUHNWX25QTnFMNEtPcHQ5S0hvbjNFWQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 06:57:00 GMT",
+        "discovered": "2026-09-22T07:33:35.482894+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار | تقرير: 5 أهداف تفصل رافينيا عن معادلة رونالدينيو في برشلونة FilGoal",
+        "player": "",
+        "content_hash": "f28bf57893d84fe7280eab717ab49fe3a451c1c4990ee3b8d6af5f7b0758014e",
         "sent": 0,
         "section": "sports"
       },
@@ -1362,38 +1394,6 @@
         "summary": "10 نجوم لن تراهم مع منتخباتهم في فترة التوقف الدولي (صور) يلاكورة",
         "player": "",
         "content_hash": "1e95baee0291f88250bfb894a1cf8903a8325654a8db8307863e0a92b4ce2635",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3897,
-        "title": "winwin يكشف هويته.. مدرب إسباني يقترب من تدريب الوحدات - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQQWYyZ2JHdVR2QnpVUVE0QThIbzhsN1QwYm9yeEU3OUNZUndyWHpCbTdNWU9SbmlodEl2TUw3cTk2V25Jc1Bqem5qN0VWOG0xMVRDYVd3RzVtUEVra2Y5d1ZnWTBaYVVSZHBBWHhEZ280b01OQWtuR3RJRjR0MVN3SGdIU2pMX2xBLW5FQjJMYzFubDlwU1F5OHBUbVUzQmVoQXNCdF90OWpva0E4ZkJfamZwVG05NUZfUU55UjZpOW5hcEpMMmJoRUxuUmZ3bC1PajI4RVJxY1BjTC1FNlk0b3p6dW5MOTN2a1pOdDVud1Jfdkl2MEhPVHFFbHVKXzZhOE5ZcHplaUFUVHFBSzB2QTFVTGNIZWE2LUlmdm9kbHNkRXhVUWcxVG1RZFNKbFE3bWxXMzBPbU1uYjJlc3Y3aHJJV0JmTUNacmRGM0hZYzk0UElqT3hURGtUVWVabl8zN2JzVDhIOFJicnBleUgtaHZ3YjltNHE3aXhtQnk3NEZiWHlBb2hfemZYeE9makEzd2FGLVRObUFwV1VuNXZaUnlJbjVsTlpqYWdzS0IwX2oxakhwUkl2T183d2k?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 17:12:33 GMT",
-        "discovered": "2026-09-21T19:30:09.505360+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "winwin يكشف هويته.. مدرب إسباني يقترب من تدريب الوحدات winwin.com",
-        "player": "",
-        "content_hash": "f6eed4bccffe82d1ec77d0a6d3ee12e070454828465f0e93ed9c1aff9ce1cb9a",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3920,
-        "title": "ما القنوات الناقلة لمباريات خليجي 27 كأس الخليج العربي؟ وكيف تشاهدها عبر الإنترنت؟ - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNQVV2RWtjY1hXYUMtSFppS1lUdDFrT3BNdm9ULTdkeTdaeGxScm9zOXVTaU1OZjJ0bVJfWVJEcWdhNnFnOGp4ZzlxR01UdFRMVk1tZ3JjV0V0QnRSRkNfdXJsOGhXZEtobTQ5eUJRUDc5a0lQUU9nSVU4eS1DV3NvMjdMTkx2SThEUWY0UVBfZ3o2NVJDXzVPbmN3SFJrdjZSV2Z5RmhkeVRmLUVNVnJBbHdpVjJJcFVOWmktekQ3TFFUbTFueW1fUHVOQk5BZnpFY2lfeVhoUDFtUkZnU1Yya1R0OHZoU1NnVlQ0cW0teEFGWFJ2bThDU1ZYb2RqME11ZHByWXJDalhsVnNUUmFlVU1Pd2VKZTdwX0s4SzlWZFROek9sOFB5MFVPM1dYTzE0M1F1RTBDYzhNdjRrSVBqbGFqRVBXcTB1SFJNQjYyVGY0NlZwaHB2OC1ZSm95LTBrejc1M1pfYUE5UFFqZ2h2SXgzMFg2U1ktNjFzVkNWOE5zMV9ja01oRG5ZZDRkWWFHSDVrLVRvVkU5d0FvdlFWM3pGc1lzdHE5VmRFSnZjUVpaSjE0Zm1IdkY1b2NXQ2U1dVVsTGs0Ni1mLTBCX1lST3VZc0U5TXlKRnJ2NkxfZnBTQ21rQTBLZUZybV92MnFmQm10S1lpMkJuM3pRUGVWcHg1N19nNW1Va2RDNVFiMEtjRTNzdGo5MXc5NnVYRWdSV0IzUUQ1Tmc0Zk8zWjhvTUZqUl80Zll2WXhFdVR6ODltb3IxaUFfdzJPOWxldUdYa1poTlFLazlFckxHbUtqaW5SbHo5Um16WGlqbVJiR3ZjZzVkeHU3cnBIZHQ3aVhHUURhblFsbEtQSkJhbWhjUw?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 17:08:58 GMT",
-        "discovered": "2026-09-21T20:42:47.883780+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ما القنوات الناقلة لمباريات خليجي 27 كأس الخليج العربي؟ وكيف تشاهدها عبر الإنترنت؟",
-        "player": "",
-        "content_hash": "228d9a69c68b2e212634569201a90c56406f20f11481779dfa7b359c8028a79b",
         "sent": 0,
         "section": "sports"
       }
