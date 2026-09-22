@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-22T01:22:16.188731+00:00",
-  "total": 142,
+  "updated": "2026-09-22T01:34:13.537091+00:00",
+  "total": 141,
   "sections": {
     "morocco": [
       {
@@ -485,6 +485,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 3998,
+        "title": "بمشاركة 21 لاعبًا.. منتخب مصر يواصل استعداداته لمواجهة أنجولا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxNeVNEOXVXeTkxVVJhMDhZbE5vWVV1MWxZTk52MVZSeWJpRGRKNTZjWDg4akZwSFNBeGxRWkxIeVNCLWlpRkoyeDNJendYblN2Q1R0WmRUMkFDRWktSzExWnhCcV9CNlhwYUZ3S1h3Y0ZQU1c1d2dYR0R5NDRKb3NkLVQ5eDRHb1RGTF85VVlocV82SlVsLW1WTFdzOV90UHQyS1g2YzNJTUhRV0ljRDYtUHkzSVRVa19iVnFFRFROSURYYnFNVlI4YTY2MnhjLWxoMzRGWHFFTi0yYXAwNFRXZ2Z6VmpHYkQySkhhWlBkY3ZZbWlwTGU2a3U3Sl80RmlsSHdsbVVBS0ozZ1E4RkhkQnQwT2wxRUdKbE0xZWltWmUzb25TVmtjRzV2Umo5OXJJVTA4SVE4UHN6eURxSVpaTXZ4Ykx1M0ZURU1sdFctbnNuUkJQc1BVa1JoY1lWOVlFaE9LQ3JIM19sd3FKWGdpcXMweGlPeW94VjQzTFpXUE0xcG90bnRqWHpjV2ZQWktlTHNGUUVjVzRLNElwWk5lT2hkT2FFNEktd1FFdDJKQUdTY2VoRTBTNE13b3ZWWmdXeGRRdnoxM1lNdlRTUElraWo1ZFdZSVBsQmdxdTFEUUlWM1F0bVBETzFlUFhVa3RpZE9CQ0dYaHLSAf4DQVVfeXFMT29mQy1PYm55Yzk4aXRsRkkxWFpzaXBSZ0YxYm43UEJTX3B3bVpjVGF5bkZLQVNMV0cxNGJYVVF4R3E0UGhNWE90MjRmc09MaVVsd19nR09YbHgxdzNLdm9DUG5jN0dKSV8zS2FmOFVPZk9RM1JWMFUyOVJkdjFDOEkzNkN1eFJSQnktdmVLOEtYZ0ZvOWc5bEtkNHhhREhTMmFseGRGcUV4RUktMW9TaWNuSDFmZ0F2TTRBVFpJV2RaU19KTHY3am5UZndaTGtIYXBDLVFtQm5PSlBPa2sxdWwwQ1hPb1dta21jMXN1QU5xci1wbER2RW1BWXhjdlBMeUtPYkl5RzJ2dkprYXVwblJfU1FOc0ZUMFpNdmJPQjVNeWZkXzVORlFoYy1SNndmUGp2a3RTaXBzcmVnWFNrcEgzREFqTjV1QVBJYlZBcG4xUDJaUUt1bGtCN0VvRGFDSllDdmcwTzFPZV9WMk9JVUM0X2IwTHNXMWpvRkhnTEZFQ2pBMjVzaC1GdTNuSk1kVy1zU3lZZER6Z2RIc3J3VnY1S3BQMUpLUmI3UWJlSDhoVFVCVzhSRUVLNk0wbVVxM1BLSHkwaFBPUVh0b1NLSkc3enhKa2lQMXMxY0w0eER4MU9UbzQ4QkhyMlB0aGdDR2U0Y1FwYlY5ZDRxWUhB?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 01:23:00 GMT",
+        "discovered": "2026-09-22T01:33:58.557259+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بمشاركة 21 لاعبًا.. منتخب مصر يواصل استعداداته لمواجهة أنجولا يلاكورة",
+        "player": "",
+        "content_hash": "8f159a498d331e5d34e03a3d76ba38deced09357ccc3fd749ccc6b16eb549234",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3982,
         "title": "قبل «النسخة الـ27»... من يهيمن على سجلات كأس الخليج التاريخية؟ - الشرق الأوسط",
@@ -1261,22 +1277,6 @@
         "trust": "C",
         "published": "Mon, 21 Sep 2026 15:55:00 GMT",
         "discovered": "2026-09-21T16:40:17.965598+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ماذا يفعل مدربو الأندية خلال فترة التوقف الدولي؟",
-        "player": "",
-        "content_hash": "f34abc80037a38c5c240db0d6646ae6b30ece99a4f2c80f35d82b2f19ad75a79",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3834,
-        "title": "ماذا يفعل مدربو الأندية خلال فترة التوقف الدولي؟ - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNNWsycHdDOHZ4WDlOajVPWkZwMEVOQko4V25KZm00QXZWZ1JDeXJwMUNYdkEwTjRMSzZhYm5UeXdiWTcxR2NqcGo2OU8xMFBXbG5MZ1ExUzFPZnNLcVZNUk42ZHhaV3paaDVVM2FsOHBfZFZXalNfVmhoVlRBVmxvb0FINktha3JKZUZVZUc1UUR5VXUzZ0hpSzIzZlpVR2dFS3NnbFlaNGpuUnc2aE1hYlJfMUY3ZjBWeHdQa1ZSY2YyZHJ3S3JnQXNwNDU0SXNzQ0JJdFdKU1g2b1J1N2NGWnJpSkJWVUdSeE5ZV2habjhkY0pKWDB2YzRiOUJENWJJWmxNZlFtazZ1TU43T2E3TTlLLTJfZmV4SjIxVDNQcTVSQWF3djB1dy12OU5VRF9VbEI4ZTFOTEhlTWxlZGZzZ1lLYnNOa0V0V0loczhsMUJ5OXJBU3ZJeWRTQ3FYOFlub1B4cGpPQTF6T1ZaNWxvRzUxSXo5N1M3UnlkczUwakI5UG1JVnI0YkZETFAtUllPa254eGVXS1BYbFA2T0hZMHpKNUV6UQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 15:55:00 GMT",
-        "discovered": "2026-09-21T16:25:59.731111+00:00",
         "category": "الرياضة",
         "status": "غير واضح",
         "summary": "ماذا يفعل مدربو الأندية خلال فترة التوقف الدولي؟",
@@ -2134,22 +2134,6 @@
         "summary": "برز أمام ريال مدريد وخطف الأنظار.. برشلونة يضم البرتغالي داني فرير الجزيرة نت",
         "player": "",
         "content_hash": "3778191701ffe3659f6220453d6826e37b9a8c39cf86a9b63c55616e21bdc56c",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 3992,
-        "title": "الدفاع المدني السعودي: زوال الخطر عن الرياض والخرج - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPSU5Sb25lSUUwTjRPaGF6TEUzTVZzSDdmLUxaVDNyYmhwYkgwS2ZpVFFKVDFHVFV0U21hd2dVekx5M1B6dXdWWndMOVpsN3ZtZTVzR3huUXVwdURrdWVWOWZaTmFSbjJMT1JCbFU5dTlxVGNYNjVuVVpMNDIzSExqbWZGUTBvWWpXeG02Rmthb2V0VVQ2YXNDblRQanEtdTNkREFFNzNFd2k0aENqSjhrWUV1WVhGdk0yemlCNGhoZHB2bGJMeUEtV3ViYzZuMTRpQVYxVkZEU3NoWTkxOXAxRGgtYzhWS0JxbGZrVVNRUFJURERxcU8yNlRHWkxzMWxQckpvOEdOWXJXSV9lMFFWQ21ZcE02Y2owN285cFIzSExCR0pmSE1RbTFvUHFHYThnZWRUUDNGaGlDN0tpaEMyUDA4OWY1b3NQLTBJUzhQaEFWbW13YWU1OHFzdVNLYzJlbnllck9EeXdtcFFsYVJDcWhoX21pUXhPNUwxQ21MZ1hXYW53ZjBnbjBvX0lLeGp3U1d6dkl1bk5wNWFQWU94dllUWllrNUnSAawDQVVfeXFMUFpnR3EzTWp5ZHJCMVJpWDRuQ0RNSHJSQnlpSm52VjhjVm53Vngxcjl0UFYxbXR0aFFNLXRGamJ0YW85UUZkbGlWanA4ZnJ6TEZDZHIyVzZQY1ZBM3BlMDF1Rll1RHg0MklHQnEySjB4cl9mTU9wNHJYd1lZa3VvRlBTeXdrYnNsMDlOSUo2UVNXT3lBbTVwQmNhYTdlWndxZ2NoQWtlZWkxbngydHo1bW1nUzFpaGNRQ1ltZFVvV1BiQlZQNTlVeWl5MHpOdFV5bkU0Vko1M1BFOHFxYl82bTJmRnYxcHV2MWp3MUNtTENKN2dwcXhQMGpNenY1bDBMVFF6QmpxU09UbFVYdExfdURCRFFRSkZyTGxocTRPVC1JTWwwVG1yT24tS3FuWEVFcWdDWV9wb2JqTkQ5SWh1RDBRM0tuZzl6d0U5WWJpVC1oUzhyY1BWYnU2UnFKVTJYaUxuWUY0WnhGOS16T0hzOG13TXFudVd0SUpzYkkwSF9ibzROdklwNjFJcHVrRl9BSG4wbmZCX0N5V05lSXg1UW1jaWdULTBIVmlOLWQ?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Sat, 19 Sep 2026 01:29:00 GMT",
-        "discovered": "2026-09-22T01:08:48.089996+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "الدفاع المدني السعودي: زوال الخطر عن الرياض والخرج سكاي نيوز عربية",
-        "player": "رياض",
-        "content_hash": "aeaf2a617877292bfcf4de583d7d1e0e05d898aa1ba7bc419fc5d97abf3dadc5",
         "sent": 0,
         "section": "middle_east"
       }
