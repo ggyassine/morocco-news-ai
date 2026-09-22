@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T21:33:04.868638+00:00",
+  "updated": "2026-09-22T21:44:43.812641+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -608,22 +608,6 @@
         "summary": "5 أحزاب تغطي دوائر المغرب الـ92.. المنافسة تبدأ من الخريطة skynewsarabia.com",
         "player": "",
         "content_hash": "b6e2af3d249b500eff12cb50859e87346b4aec25c931370492e8d8c391906fa8",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 4102,
-        "title": "الشارع المغربي يتساءل حول القدرة على تحقيق الوعود الانتخابية - اندبندنت عربية",
-        "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxPMnY0OE1MV29rQkRVVnlVY19SRDFxY25wbFNNUlRDZHZKRl9TQ2hNZEFPeTR3NTVDbGtObzlvVWxyeHA5Vk5ERmp2TmI4cFpUYzFjZk5GczYtYnZ2OTktQ3ZIQWkwSnJLLU82ZTBlQzhiT0JHUlBXa01zSmgyLV84TlZsZHFoYUpwQzM2dW5XSXBlMDd6T0Iwemh3Qkl1MEpQZ2NPeUZrTmQyaXNTd1FsNmotYVlPQUttbzJpbHRwS3ctOXU4TTVwRjhuenJkZUdyWkg1RUx6dGhPdk5oQkFySUxzTFp5bGxWOThHcUhoYXRMXzBhUGl5Vzl4Tklibkd5MGtIN1dNN1J1Rlh4dms2Vm5sYjBrVURvTmVRU0tlOTZPYk9meFJhOTRERGJYaGk2LUJ2a2k5SlFqY3ZqYUJxcWctYUwyRldLTk1lT2FtWnl3VW8wak5rTVU4ak5tWjNBTmszNkEtc0RHYlFubGlYa2dEdzczUV9SWjBuaE40Q1ladENFdWtoNWVOOEhWeThuYi15eGI2RFQ5SVJnOWVaQjNwc3JZNFVISldJWExKcTdGX0s1cXBDeEdiX1lWbEtDTjBPTUVYZmV2ZTVmcmpnbnBRWkxRUUJxcl9jd091RE5zUk12bFBaNkMwT1AxM0lacTdwX0VZb3paMlVBek1nbHJIakUxLWRveGY2cFd6Z2pISUJwNExqQXBTNFFZbVc2dU9CTEIybkpOdi16cGZweWdnRXdXVm01OTM1MHFINGVNeUVmaHN3WEw0T2lHQ29WR2kybW5aVWJBOU8xRlNN?oc=5",
-        "source": "إندبندنت عربية",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 07:52:02 GMT",
-        "discovered": "2026-09-22T11:55:03.101946+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الشارع المغربي يتساءل حول القدرة على تحقيق الوعود الانتخابية اندبندنت عربية",
-        "player": "",
-        "content_hash": "8eb3b8b9012f35af14361f0c3d0153dba7f7ca6a868660e1e6a9dd65d29db813",
         "sent": 0,
         "section": "morocco"
       }
@@ -1432,6 +1416,22 @@
     ],
     "transfers": [
       {
+        "id": 4265,
+        "title": "وهبي يستدعي لاعبا جديدا لتعزيز صفوف الأسود - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3VUtOSGVSdVJLT0x1Z2dWSDh3VzBIdVFraXdpZU9YbVdUN01HVzZMWHNvVFBiX1Z1WGZ0elZDWG43OGtvbEQzWg?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 21:43:34 GMT",
+        "discovered": "2026-09-22T21:44:19.800710+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "وهبي يستدعي لاعبا جديدا لتعزيز صفوف الأسود - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
+        "player": "",
+        "content_hash": "3feaf07f04fcb3c4be54bf2bf0d4cd8ceb6be4ff0d17d7ed39db70cdf79f0f46",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 4214,
         "title": "أخبار | اكتمال صفوف منتخب مصر بانضمام هيثم حسن - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOS3B6b0I0cUN6MWdBZzZWTFlGLUtTUmlVcmpSN01wVUlsVC03RUZha1hraG84UDk5bmQ0dk5BS0VrVTFkVG0wejB1YXFQYnhhNzlXSFl2dzFzb3M2bkxvSFFaWGI5TTB5XzlKUmNySFk2VmZ0R1Q5bjhnYzlpVXRpN2JYVUNrT1ZuVXljRC1KeFFJdWp5R3M2S2x3MVhaZWJQVUhLbmNrS19Ga0RjRURhZEJhUTlLanJvdjJVVi1wM0hRM0g1ZTFNTVJITldIbFZaR1VUeFJ3SHhPNkVpTzNSUGdLSE9sOGlhc05KS0FmNDhmWFB0cVA5SktWM29feGFDeC05RmpiNzFiMEd4bEROMERMakZhdG9rbXh0dzYxMFhHS3NhZkY2QWpHZUlweGp4ajZVNl90dmV3cnl2V0E2X2k2MmR3VXkySm9SMzZ4QmJVMGQyM3dpWUdn?oc=5",
@@ -2106,6 +2106,22 @@
     ],
     "middle_east": [
       {
+        "id": 4266,
+        "title": "ترمب منفتح على لقاء بزشكيان وأنباء عن عرض إيراني بفتح مضيق هرمز - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQU0o3VGItLXlINWlGT3Aza2VPUGwtSVhSSk9KN2U3Sk1KNXowT3hpQU9kc2hUOW1yZkc4bmJXZV9OWWxRdnVjM2M1Vnl4RURVYzBjTFM4eDJybW5GRmlPYlIxVEVNbmJvbHU1R3otNWdkc3djN2NXM2xqLWtJRzBLZFVNbFpYYzZ1QlkweHNMUHJuUHYtWkRsTWo5dktkTWxCR0NtM0h1SXd3WVlnLW56ZlpnbEV5VWZUb0ZDV3BIbElVMVVDVnlwLXpva3FJd1FSVXZoa2trLWEwTV9mbklwY1FONUZaQU56UnpOUVhjYXNGNmJqdEpQNGVvY29pLTdoWjgwczFsT2Npek1odWppNno0U2gxZ0dUTngzNjBhNzRzZDJDYXRVRUl2RnF5LUlGcUtmNHhISFdqa2FEQ0t3TWFsb2NGVy1oT0HSAc8CQVVfeXFMTU5vY3ZpZFZvVGZORDZ2RU1wMjduN3ZuQnVTd19TbnZrbGRwRFJrWFljU19tYTVybDZFeVR2ejJucHlMLUVURXBUcFRtSzZKQ18zaXgtOHdWRjlaQ05wOEZSdTJCZlN2QS0tUGZtUFE2anJXWXFpeWpZYlptdEJRWnlRdHlYSXgtc1Bpa21RVENlZWRvTDAwczVlcktyZXN2RDdqbmhlcTdWcU9HOHRvX3QzS1VCM0lvb2VrcHdIUkVnYkFBQ2ZTd1BOdkltYVM4MzVSaEZlTkxYdmVfS25VbThxeFZfeUZkU214SERSQ0k5SWROVHZfb3dGb3h0OUhBYTVTa2ppVXdsZHluQmI4QkUyN0dyOUxCWVhVdmF1Qmd2dHRkaTJmSm5aclMxN29JcTk1T1VpTHF0UjlDQzVad3Q0eGFTQWlIV093V3RKcWc?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 11:24:49 GMT",
+        "discovered": "2026-09-22T21:44:33.889848+00:00",
+        "category": "الشرق الأوسط",
+        "status": "منفي",
+        "summary": "ترمب منفتح على لقاء بزشكيان وأنباء عن عرض إيراني بفتح مضيق هرمز الجزيرة نت",
+        "player": "",
+        "content_hash": "45a0ec95d512cc6ab12b34b86e94e49326c062f4d542af7ef271af45193f1431",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
         "id": 4038,
         "title": "الزيدي يعرض في واشنطن خطة بغداد لحصر السلاح.. وهذه بنودها - الجزيرة نت",
         "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPOWFUdkY0bVhpNnJhdjFGUGtUU1RaQmpWUXYtUC1FOW5HOWk2WXJhbjFBVmNrTVllME1zSC1FNVZjYl9YelROQkpGWXNnNm11eDZmZnF3a2ZxQS15V1BVaGtpNm5aaHFIZDVKWDY2UkpaaGI0UVh6RnlnNkhTbEdUWFA1Ylh1N0pETFV6c1F5NlBzYTRsODg2cTJremd5Nm5GWVBHckpDNTM1eTduUTREbzVpMGl2WFdxWGpjamdvNF9IS0xaVFdWcHV4SzAtX05naGdGYU1BUzcxRVlsUGplQ0M0WVc2NUxRX3pKODRfQU16TUtuT1JaSFVZY3dZaVVDbGV6TmVKemZ1T21yaGtzZG0zZS1xME0zUDJPMjN5NlFUQmh6TUs0YkZxYkhCREZYdTh0cm14YjlXWFM5b0tmNFhiWGZzaUpYR1lN0gHQAkFVX3lxTE5zZk1DR0t4WlAwVVpTS1Q2QnlzeS1qS3JmNnZOdzZfRzJjN2ItSjZ2MXF6ekZNdzF3WEswUDdSd1VTcnA5bVNwM0R6cHdMdFQ5aE1GMDIyTTZ5WEMzMTNIYnVCOU9IdkZ3ak91dFlBR3lCcnV2MUc2ODhtN1htM0dkV2w5WGVzcXd6S0xESDVZQzRVRklFSkVhX0lfM0p1cWtIYUF6R2tLVlJkcWo5VG5janJ0Y3NvV1R1UWN1SC1XUjdaMFVXbE9WaFk5dU4tTTZSZlM1X2lHS2hCTU5JV0hXOU1JR0V3QnEzZFdfSHVXVHN5aXNzTFROcmw4VGtSRER3ZDBidmgzVGp5dnFiSGlISnJWNHloUHJsVUVjdFlHMnE2elRPYzgxQ0wzTU4zemdHUG1YWkxjV3JXeTgxbi1WN3pHenZJYVN5b0R1RUtMTQ?oc=5",
@@ -2278,22 +2294,6 @@
         "summary": "وزير الري المصري لإثيوبيا: النيل ليس ملكاً لأحد العربية",
         "player": "",
         "content_hash": "a3558fe1244e0500148517a9128672b76f7ac85abaccb4b631a7754803cdd127",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 3778,
-        "title": "فيصل بن فرحان يشارك في اجتماع خليجي تنسيقي بنيويورك - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxQTWRudjhwODJ5NjAwZ3hQV1BCUVlETE05NlhFZkxSWXR2RmlFN1BhR1V0VFhtYUdpclpXWFRSTGotMlI0VzhJTlJzaTNKTjJBYXVVMjZsQlU5Sl82MWc2Sk84WlhfNkh0M1FtVzhLMGZpVzc2ZnJtdFVoWFg3bVBmZmdRRGNBRkZsVUI1d045cWV2SjRBYTl6bFpQTUx1U2xJakNHVzNPc2RIZXV4eEZzSXV2U1BYbHpkM1lWVFVJdXFFWTUzeXh6bzBzOWptODZiZ0VobWtFcWlvYXNrOHhUbV9mR0xBVFAyOTFvaEZyWXFfdVkxTzVuTnJUQnk5ZVFLRmRldEhIRXUtcThXdTlmRDhlZkFtRmtpNVlXMkk1QVNHa0g2RFBjVGpGVERWTXRaVUxaVTdWUHgwbjMwM095UHlJemdKSkktWlQzbEU2UUZCSzkyT1NBaDBKS2ZlNmN2VDJwbTk5ZVgtTzh0YTl4MGFmb2F2b3VlSnNoMUpHWkZHTjB2eDE0dHJqS1FGLXpFZ1l3OFBBZnRLdlZ4LW1uOUh5TW9mQk9oWHVuaGNiT1dmTWkyTjJCZm9XS21xN0x1SnR1U19fb2MzR1hoNzJMWF9RNnJST1huZC13VmtEcG5sT3p2Tm1MbEhwVnE2TzR4b0tJbnFULVRxMVVhenpHTnMwcEt1LTZacmFMSDdoaEUycmtEMDFZcXFEUDJpYlBtWjVvaDNLaHY0dW84RU84ZE9lTEF5d0k?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Mon, 21 Sep 2026 05:50:55 GMT",
-        "discovered": "2026-09-21T12:52:12.830096+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "فيصل بن فرحان يشارك في اجتماع خليجي تنسيقي بنيويورك الشرق الأوسط",
-        "player": "",
-        "content_hash": "56c97fd94b4e789ec02adf99d6b3d53b920da9d188e3ee47024f2a56e876dd16",
         "sent": 0,
         "section": "middle_east"
       }
