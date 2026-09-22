@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T21:44:43.812641+00:00",
+  "updated": "2026-09-22T21:54:26.956356+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -674,6 +674,22 @@
         "summary": "فيديوهات | تحليل حالات التحكيم للجولة الخامسة من الدوري المصري FilGoal",
         "player": "",
         "content_hash": "b8aa4ade936688c5d986f8a8e12b0b6dafc676770e2ab2d77f38d5cd1519a858",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4267,
+        "title": "الساعات الأخيرة من \"معركة المحيط\".. أنصار البام كيرددو \"الحكومة ها حنا جايين\" والاستقلال نازل بقوة ومنظم وموجد سيناريو الإطاحة بـ بنسعيد وكاين لي منشط البطولة - كود: جريدة إلكترونية مغربية شاملة. - كود",
+        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPUkxndnNXdG1xd2RaTjRjUzlGU212czJZU2FISGdSQ205dUJuQVF4U19hbnNaalRxdmZNLVczVVJtaG5mUTZRYjFLeUxCUnlBcFFvUElKcklwZ0ZMWF9lZWJwZEo1XzduWGtEQWtWUTFwckwyejFJN2FWZFJXYVFEVDNSelRmLVhuMk9sb0xtYzVTRm9SMlREWnFDZDhDanY4VTUyN1FaZmhwUTV3RGpvLVc5YTd4djlUdERialR0UldSU1NzZkFBYV9rUTc0X0tLVG5zQjJHbmxFLUtRNkdtT1JtRVFLWWk3QWRKbmxsUjU2dmpoYXkzZUVSSTRUVXNFLVNpeGpXSzRGY0NJN3F3S1RfSm1MVGNDRWFiNElqbHN3SDZKaDdCVXNaNHhCY2NvU2VyU0FxY1NDZFRUNkN3RkxB?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 20:49:30 GMT",
+        "discovered": "2026-09-22T21:53:59.058074+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الساعات الأخيرة من \"معركة المحيط\".. أنصار البام كيرددو \"الحكومة ها حنا جايين\" والاستقلال نازل بقوة ومنظم وموجد سيناريو الإطاحة بـ بنسعيد وكاين لي منشط البطولة - كود: جريدة إلكترونية مغربية شاملة.",
+        "player": "",
+        "content_hash": "1d29e500eaa8aaa0bfd0f7533ae1b274a9cd0509e8936116d07094402d1aa53a",
         "sent": 0,
         "section": "sports"
       },
@@ -1396,22 +1412,6 @@
         "content_hash": "7b3cbefb9181eeb52a74ee8a7ec3a9630d9f8021a63d7723a9a7dac9e4285d95",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4259,
-        "title": "\"المباريات الكبيرة تصنع النجوم\".. الأنصاري يحذر الكويت قبل صدام السعودية - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPaUtmSEtULW5lSVZoTDRsM3h4YTIyRDV5WlVuWTBtakp0QkYwblNZSnhlUy1hU21QMzBpTUMwM2hST1lEMnI0dmpVZlZuYlhOektGOFMtRkszdVlWSTZiSC1lbThRVDZTcGRCcUtxeGdOcVRpanVVMnBaNVA5NVAxc1RsMmdzMWtyYTVkYmFVT0hSaEtrNV9SUTNVM0RWSFU1aHFQczdobVV2R2pSU2ljS3lnNW9XZE1sVG5XSmUyYk1rVllzQmhWU25qZW1RYzFiOERad2R6Y19NeWQyRy1QdGwxaTdVRjNOQU9JMWZmQTUyZEd0VlpSMVp5MXdrYXZQX2V5RkpITHRwUU5kaEx1QWJwYW0tOUM5YUV3a2t3ancyUEtTNEplamtpUmZfdEVwNUJ1ckk1ZEExZXBzRmdRWEtER1VaNWtWZlc2WjFnSDNGZl9z?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 14:54:12 GMT",
-        "discovered": "2026-09-22T21:07:34.016674+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "\"المباريات الكبيرة تصنع النجوم\".. الأنصاري يحذر الكويت قبل صدام السعودية 365Scores",
-        "player": "",
-        "content_hash": "a6b59cfccaecd993e00a31033a423ec79a68fb31382d16942673771af7771971",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1428,6 +1428,22 @@
         "summary": "وهبي يستدعي لاعبا جديدا لتعزيز صفوف الأسود - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
         "player": "",
         "content_hash": "3feaf07f04fcb3c4be54bf2bf0d4cd8ceb6be4ff0d17d7ed39db70cdf79f0f46",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4268,
+        "title": "انضمام عبد المنعم وهيثم حسن وإبراهيم عادل لمعسكر منتخب مصر - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxNUHdpVXJZZ3kwazBnT0V1bHQ4VzhIYkVnUEI0MXdkUDFBYlV4TnNfYkI3ZmNTdDBjbjRYNm5FV21aaHVwdEt1RW1MX21weUFsM2UxZURDRlNibktBRkNQb1NFTWxQTmcyd2FrcEh2RFlIWWdkVWoyMl9YckN0d2NfMnRpWTJqTlQ3ZXlIN09kbmlmSFB2ZkVPTXZKQUdtMEQ1czlBVmJQLS0tU3VvaHVaUEhTLWRiVm10RFpadnJLa3JPZzdPY09NcTBOcHpGVXExN1A0SDdXd1h2Yl9jc25KVmJZZlZRV0N3NTVoWmh0bU02RkRsWlVBTWMwZkctc292WjJGZS1CbmV6SGR3aXJlcWdfN1N5ajhYeDV2WEI3X2lLVGpkeUU5QWlpbDhiU3JodTdoeHFyR003NzRZN2RseDdYeWd0RTF5c2dKMXF1UUpFeHZMc1ROT0c3TlgxcFNtVG4wNkkzQW5WOU4xbldQSVZtLTJtcDljSlozc2xTQnE1LVRxeXd0Q1RMMC1xRDQ5MG9Kd3k5cXlOLWRHTXo2VHJ6MjQteXV3WjRnVUtkeUZPaGtoMUd6aWxQWkZMOWs0MUpSdncyWHJXMmRTVU5pRVc5d2hmVktJQlhCd2c1eUhweE5qVGlIZzg3Umd3emRLZGV2NjNVNlZURVBLVTlPaXBqajdpdTgtX1VHMUFrZ2hnNmkxYlRidVlLdTNjTjFBb2w0dXROdkVDRnMySzdULUprS1VWbS1hZ3VmSVEtTU9oTGxDSDRtTm5sdWVzYjR5R2JnbExxNURwMF9oWDVNZg?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 21:42:49 GMT",
+        "discovered": "2026-09-22T21:54:05.815197+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "انضمام عبد المنعم وهيثم حسن وإبراهيم عادل لمعسكر منتخب مصر الشرق الأوسط",
+        "player": "",
+        "content_hash": "528f8c553180a59854977acd3f9d80ca4e48be17fabbb76758e883ed2baaa24d",
         "sent": 0,
         "section": "transfers"
       },
@@ -2278,22 +2294,6 @@
         "summary": "وزير الطاقة القطري: لا استغناء عن مضيق هرمز في نقل الغاز الطبيعي العربي الجديد",
         "player": "",
         "content_hash": "efc51101d103453b9a3bbdac59d05f4b930d682ecd7802c98ea3ce1a2f9971e3",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 3768,
-        "title": "وزير الري المصري لإثيوبيا: النيل ليس ملكاً لأحد - العربية",
-        "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPbm5BWnhmdXRUSG01TFpXeVlRYnVaOThwN0ExTXNheEotbXd0QlhyaVA2NWpGVWRiaEdEWXo4MDl5ZGN4VHRvRUZhWmdTc19xbTFvUGZTSW1jUkFJdm82RElfRTNKYWhURTFrSzFicVlLRWViR1ZOcUIweU5OdXY0YVBlS3JzQXRybTlIekN0MnhnRm8zYU1YNlkyOFdBdXlOZC1JaWNDUzRmVHMyRVo1c0syR3BFTWl4cWNaOGZqbVBVOUpDWVlwVWRCZFM1aF90VkxBT2JnUWliS1AxYjNpcTdZZHBoeF9NQ0ctV1hZWTQwUHdldlJseXV1UklkcUxqUEd6djF4akZ1LVhVOU9adHNsbUZTZ05qZlh1MXRzVHBHQkRMdW5qT3ZaWmJVdXhyRGh5YXd6dWFUWEhKcHJDSWtvcm14MnNYQjJoTlBvb20xbUFTVF9vMGtsSXR1a2REQUVGMFNmWnhrSmNWLW9fanUwaVJ6VVFkMEU2V2Q1X0ctdldSenlVbWVaQVVfZ3RjYVI3d0dnemJrZ1pJdDRINzIwb9IBqANBVV95cUxQUlZsX0VFd056WHVibWVVR0xpN0NHOXo3ZjVMYVk4XzdodkpUMW10UzZhSTNLVllkWnBsY3hOVHFKemN1ZG5aXy1rdUxmeTZSakowRTdyRXp3ZmtaVnBWNmViaXFIbGE1MFFtZ2RvSG51Ty1DWEcxZDVxS0V6MTZCR19oNzExT2NhdDV3bnRFQTh2NnlIQ3hOYWRRdmpBbERoTExFMW1QakJvSDBlMnJ4cEFNVE9zdmwxeXpsSzI2N011RjZsaVNfZ0tuTWN3RFpONXhiSU5uWUxlaFVvdy1rZEhxUmpFRm5MQllkbHJOcTg5QmV1VjQ5bkxWYlI2aF95eXlTMnp1RGpmMS1SNEhibnlTYTN3WEJHaG5ZLXlQMnlCR05GaE1oXzA3WEs2ZS1fSmNibFhUc0VOb1BvWm1aUW0wRHNtYi1aSDJMWC1tUnctTFNPNndQNEJwekJ6bmVXVXp3cUJDbUNKa1JpRHZjazh0NXJEaktRUlNOaVBSUURhcV9XaWVZOXB2Ync2aDA4dUNGdWJpT2hUZ0piQlJVRk1pMDhVUE1G?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Mon, 21 Sep 2026 09:57:00 GMT",
-        "discovered": "2026-09-21T12:38:45.734614+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "وزير الري المصري لإثيوبيا: النيل ليس ملكاً لأحد العربية",
-        "player": "",
-        "content_hash": "a3558fe1244e0500148517a9128672b76f7ac85abaccb4b631a7754803cdd127",
         "sent": 0,
         "section": "middle_east"
       }
