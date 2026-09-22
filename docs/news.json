@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T17:34:48.817940+00:00",
+  "updated": "2026-09-22T17:45:40.092201+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -112,6 +112,22 @@
         "summary": "1.26 مليار درهم لتحديث الأنظمة الكهربائية والتقنية بالملعب الكبير لمراكش الفا Febrayer",
         "player": "",
         "content_hash": "e33933275de679f2f6fac573a2ce9da803bd43b01640ab082d02c5ede5560d04",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 4204,
+        "title": "كيف تتعرف على مكاتب التصويت؟ وزارة الداخلية تكشف الوسائل التقنية المعتمدة - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RNXY1NVRPNjRpd1FydW91OXdlM3F3bzMyeTItTURocGlnUlg0ZzR0MHR1TFBNTWQ1YnpXR0daQUlPU1RJMm9qUzk5STJpMHJ3cmF3MkQwczhGcGNpX1FoRDFnNTBPYmk5?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 11:32:06 GMT",
+        "discovered": "2026-09-22T17:45:04.309837+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "كيف تتعرف على مكاتب التصويت؟ وزارة الداخلية تكشف الوسائل التقنية المعتمدة Le 360 Arabe",
+        "player": "",
+        "content_hash": "f03cbcf16ae3cf9005415c2c6626df43b61b3fe9d254eeecef845a465157c102",
         "sent": 0,
         "section": "morocco"
       },
@@ -2116,22 +2132,6 @@
         "summary": "أخبار | هاتريك والأعلى تقييما.. ماذا قدم المحترفون التسعة قبل الانضمام لمنتخب مصر FilGoal",
         "player": "",
         "content_hash": "8901972279291f545b8447c8e643729c1182b53e40ff55cf0098f56b8618bb23",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 3713,
-        "title": "هاتريك والأعلى تقييما.. ماذا قدم المحترفون التسعة قبل الانضمام لمنتخب مصر - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMixwRBVV95cUxPOHlWbDEyQkxoNDVtN2lUN3hoUnQ1cmpycDhuVlkxQzFDSXl6Skdyb1RmSmZZbENWWXktcHBMVi1MSWFZbXMxdWMzbTJmS0FuUTJrU3k4RTRPOEhwZVlZSGRvX1NOMUxFblp5b2xTaDV2VzVHTjNTSWxHWllBU1RXWGtoaEMta0hQMDJNeTVNeXNJYVRDTkN6ZG5fQlZCX2N5QVlHdjlnY2oxaVdVZ2VFRkQxOGl2cVA4dmUxazNVeVhELTd5eXZ3OC1WTktGTlNTVG43OWZHdW4xaDdxZUF5QjVhZFBXRnp2QWtXa0xfN0ZlbE42Y2NGUWlrYVVud0syaE9qalZPbjFjc0VBcy1FQTRYQVdRN1IyQ2NvMkFnanBKc0tzeXlPMkswcW0tcy00enpZdU00M3gwZWtFVkhVajFxeHJ4dGlZNFQweTZWMFduUjk1X19zVHRMdjdDUFl5anpKX0t0QWdkRFlveDlxZ2FJSnpUdWtlRXhXcm15RTNqMmZYZU1sTm9ELUxWM1VPTWFncS1uV3VDSTgwZjNrS2hIUVRRaURZakFrMW5URzlxTmRzWHRoUWNXZW9SNm9NbFdRQURyeXhtOWszNXFvdnBrUGZSVWJyNkZHSnVrU20zNk5wMTRVT1FNNDg0Yml2T0N0bGFVYVdfcnBaVGhqcERNU29aZDBlemIwd0dBZUUxZnhEdllCTTJUX214V2t1WXpCVGc2emYzR1YwajRFcTc4NFpldklwV1pXcndwT3puc2FkZWZR0gHMBEFVX3lxTE1FeUk5TTNmWjRmNjlKbjNhSXNnLUNaZEIxN3M2V2dzOWFuRUNnOXVKYmxUcEEzYlo2TUhJbktXV1dWbmxYeGdab3BXYzNSMEptVlBGXzMwcnRUSGNGUklvRmIzVWhqYUlUQlhzaVc3UHZ6N2FBQktuRGxlNEhvaDhCVkJEQzlYcTlkYWRIM3Q1eWE0NnBJdWZ0M0dWcDVZcWIxY1R6YXEzRlhOQ05IZUdrQ3VNbTFqRHBlUTBWX2hfUXgySTltY0Q4NUFRSnp1QXR3MGRiZ2dVeVpYN3VoVmFYbk9pdkVWaTZnRUtZc1VLY2pxNl9fekFQOU96am5kcklwQnpQTUpReV9Rc3dnRkQ0eVRVa2hvTG84dFA3Z3p3d2JpNHlORWxadE5LRU10aW50Q1dOd2pabFdwT1RUQjFWLXdhRGkydndCdGpxeUZsWnE1UTBvR0xVVXlSYVE0aDktajV2NjdmR3pBTEhmd0lHR1J2S0FlbFlxQTFsdlFPeHI0bTFGOEZsay0wOXJqODFWME9uOXlON2VFWXBHVjRJX05oRVVsTDU2Z08xTjZQNHg3d0F1eVY4dXpILWhsSDlXMjFkSXR4bW11Q2YwRGQzQjZEMzFSZXpqQ0k5U3hMV2RxWXpWREx3WjZJUzRQNk9JZWt0Y0lYRnJKMmNrQWNTT3Z4WkNPZmY4UjZZOHhJa2Z0VDdEV0pSZjNxZW1Fc1pYQ2lqUzg1czVNWk5MTXZNaVFwbjRnNDR2dlhqUVdQU045ZC1jVXB1VDFiNg?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 09:46:00 GMT",
-        "discovered": "2026-09-21T09:55:16.529169+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "هاتريك والأعلى تقييما.. ماذا قدم المحترفون التسعة قبل الانضمام لمنتخب مصر FilGoal",
-        "player": "",
-        "content_hash": "9cb1f23857bd7152c8dce403790a787c89faab87a699511a16da8c2a10e7b82e",
         "sent": 0,
         "section": "transfers"
       }
