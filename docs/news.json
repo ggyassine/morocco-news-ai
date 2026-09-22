@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T09:08:39.534419+00:00",
+  "updated": "2026-09-22T09:23:25.960187+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -516,22 +516,6 @@
         "section": "morocco"
       },
       {
-        "id": 3564,
-        "title": "توقيف شرطي يعمل بميناء طنجة المتوسط لضلوعه في محاولة تهريب مخدرات نحو أوروبا - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tc0RaTDR3UjAySUl6eHZkYURzS1hWNXlhV3ZkNE5KTll1MHJQUDBBTWdWZGlGWmxXS3AtWmNsTEc4bTJ4RXpwY2lhcHptUkFvR2Y1WHMyUG9weHFxd2VyLS1vNzM2Zw?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Sun, 20 Sep 2026 22:18:42 GMT",
-        "discovered": "2026-09-20T22:28:09.211799+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "توقيف شرطي يعمل بميناء طنجة المتوسط لضلوعه في محاولة تهريب مخدرات نحو أوروبا Le 360 Arabe",
-        "player": "",
-        "content_hash": "99babbc6e5c622f322fdd3b92420d01688a9b18f9a9d365c444af3d3d9a5efe3",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 3645,
         "title": "أمن مراكش يوقف ستة أشخاص لضلوعهم في قضية ضرب وجرح بليغين بالسلاح الأبيض - Le 360 Arabe",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CTWYzc1RRUnQycEJYUVl4N1dicDJpTXh2YU1wZnlOUDdUYnBvb3Rxa1FXMDN0NEdraWxaUkprSHZkRkhmQ0JzaGdycTRfZlhtLVAyYmhsVDdyclg3ZXU2SDZlaFVjZw?oc=5",
@@ -594,9 +578,41 @@
         "content_hash": "f7cc3c94695d40bc0721b2797adb6344244c444997e2899759697693e88eff42",
         "sent": 0,
         "section": "morocco"
+      },
+      {
+        "id": 3821,
+        "title": "الانتخابات التشريعية في المغرب: \"لا نلمس أثرا لوعود الأحزاب\"... الشباب بين الأمل وأزمة الثقة - France 24",
+        "url": "https://news.google.com/rss/articles/CBMi9AVBVV95cUxOMEZCNTdVY0p2MDFFY0xFMlRaQm56a051T05mUi0ybU92Sm5vbWJNVHpGX0w4MHA1dGNGdmxFai1FRHlOWG9rM2g4NXJVS3U2bmhGWXdyVThmbzVEenBMOUJvWXduaUF3MlpZMXdnSEhUVTRELXpZQWhzM09IU1hIVW52dzg2WHYyS2ZoN3h5Z3VwZHl3cFYwYzA4UEdKLWJmb0ZqNkZTMGFRcXRnOXZwU29JV1hzYlNOYVlhYUdwaE5zNlQxcnAydGplRVZTN21kTXoxVEItU3M3aWpRb3JOQUNYX3Ytano0dTJIM25QNmZub29lVTllMzFsQVpfUVVkNno1eS11Z21lcUoxdG9lRkowYW9kWFZYOGNtOVBuMXdwRVM4WUlkNFFINXBpdDFvcmx5NmEyYkQwdHBPRXNnSkxYVGs3SFY1TWVNRHFKUC1ua0F1dFVRNEpYZ21saEY0aEVCVlpySkdFX2JRNGdjdzZyME1KTmpYamdRd0dZQ1A0RGliSy1EZnFLSVVuWXRZNVhmZWtldWlJZXQ4UmZ1X3JRWHpGUWNHeVc1Rmt5S0NCc21iUUFKeC1qYWJJQTJwVGtjSV9lOWVUcmh5MHl0dEIxUi10QmN6WEltbmc0cTZRVVlaNWllblJfOHg3S2JrS2FoVmJURnMzSWtXRTdpQlZVbV9zdHVraVpFdHlhVzJxTk82OHhScFRaX0lYT3k5MTg5OXEtODZ5N2hjNWN4Nk54dWNMU3lyeVoyYWpMMmp1QlkwLWo1bmg1STAySHdtQ0pUOWZXdXFTRWxFNUZobmppTGVTZGhCSmlXazJGVnh4aE1kcjZxVGZTLUhySjJ6blVySXZwMVVUVXhoaXo4NExBb1FVSU5xU3FVRGFMcGxKRVBYcTJwankxS19zVjI3ekxwOExsWkNtMTdXUERXYldrZDlXazdHYVczaERQMHlXQ1NRRDRQMzZBTGZHRGxEVHpidkw1d3cyUEthR1l2MEJoT0w?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Sun, 20 Sep 2026 08:59:32 GMT",
+        "discovered": "2026-09-21T15:33:30.470515+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الانتخابات التشريعية في المغرب: \"لا نلمس أثرا لوعود الأحزاب\"... الشباب بين الأمل وأزمة الثقة France 24",
+        "player": "",
+        "content_hash": "28519f27a140250ba3d5b20932f5f9246bf6eca5ebf50d3b792a5ba9f8d12313",
+        "sent": 0,
+        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 4063,
+        "title": "أخبار | عكس كومان.. تشافي يبرر استدعاء نجوم الدوري السعودي لمنتخب هولندا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxOY1FSOUswaVdrSDlkVE90NDJqNTVVVVg0N09PNkUzQzNkMlQ3TDBxZndIVk9EVWEtajJjclQ2Y21kbWJzNFR6VUJzeG1qaDBHYjI0WVg2OG9RaVZjWDBKOV9WZUdLUzlHd21vVlVQcFBERmhnOEtEX3g1NkdOMFZUeVZpX0JlX0RGdGpyUlBVMy1NRkhEYi1WOVh4VnFWXzVvUWZwbmZZNmdYWnU0WlB0dDBZVE1pR2tJRnZYdzBMVXZBOHlycVB5VFdMdHBYS3ItWWE3dHVDQV9NN3JpMHhyT29VcXZ5WG9YZTVKQnlRY1dhUXVkaTZEeGM5NlpaMnowMEZ6d1UyOUhPcVpHSnUwT2V6d0dkODNiUy1fVTkwQjRYY25fTndwZUJiNUpmUnd5ekQzdG9MdEdTMjNweDdBbXVqVXg0alI4eHp6ckFsQmFObUtmR1JCR2J5cGxfSVZHWk15a045Q2JFNEZnakVmeG1RQUxudGNmMk5OUi1tUXZta2NkMHh2S3dzVXJvY3NieEhuT2VGX2xGaHlqdTFqQ21ZMkQ5ZmROMHludnRfSzMtazBoNjRteHY5UkxaZ3BZbXN4Z0U2S1dnalpzLXNEdk9TdzBKMzE2T2ZTV01LV0tKbW9zcXl4dm9yTC0yMGVwQjJYZmZNZllLUE9xRlF1Tm1Ib1RxZw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 08:50:00 GMT",
+        "discovered": "2026-09-22T09:23:10.818127+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار | عكس كومان.. تشافي يبرر استدعاء نجوم الدوري السعودي لمنتخب هولندا FilGoal",
+        "player": "",
+        "content_hash": "8c8d05e628e4d0474792f40fbfce9b0e4497b48090be3959785a4dfbf12f5006",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4058,
         "title": "كاردوزو: شرف لي تدريب الأهلي لكنني ملتزم بتعاقد مع صنداونز.. وهذا اللاعب الأفضل في مصر - FilGoal",
@@ -642,6 +658,22 @@
         "summary": "المحطة العربية العاشرة.. كارتيرون مدربًا للظفرة الإماراتي يلاكورة",
         "player": "",
         "content_hash": "fcd027c3597107c6a915fc0ac82da377c7759f675c6043023d1e9ff1c8c973d4",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4062,
+        "title": "الأندية تدفع والمنتخبات تستدعي.. حكاية التوقف الدولي - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQeDhwdGxRWFhHc25qWGJ1c2FfS3pqRTFJZ2J6WXhOU1lwaWliUmphdkpuUXd1d3pleDdRYTRGTjE4LVdxMDg4ZmRlQ3FlaGVaa3J4dmVNeURiWmlLU05DZVB0d0xkZnRNWHpKMWhXamduRVIyVHp3dFRweU1BWnF2OXhpS0J2aXlubFU2eno0ZVUxa2NHSW55WFFfd0hLRUc1a3d6c01VVDBXaGdSc3V1R0Y4X3VoQU8wNGRrNTBXZG8xZkU5WDg0VmlZTVRXcXJmZTVOQU1WZXdiUG5Nd3JDdWNTZWwtZ2VDMEJVQzQ1NzVBZW9DYWppZFhsQVVSSlJxbXR4dFNWUFFqSUllTklhVkN2bVVPV0VIbXgxY3V1NkpLcnkwZ1VWbzFEUkJMLW5zOVJ3NFpoQVI4MnlQWkthczVOenBjazVPSkZRMm1qdWVGeU1VYVFFUUZCNC15bkXSAd8CQVVfeXFMUHg4cHRsUVhYR3NualhidXNhX0t6akUxSWdiell4TlNZcGlpYlJqYXZKblF3dXd6ZXg3UWE0Rk4xOC1XcTA4OGZkZUNxZWhlWmtyeHZlTXlEYlppS1NOQ2VQdHdMZGZ0TVh6SjFoV2pnbkVSMlR6d3RUcHlNQVpxdjl4aUtCdml5bmxVNnp6NGVVMWtjR0lueVhRX3dIS0VHNWt3enNNVVQwV2hnUnN1dUdGOF91aEFPMDRkazUwV2RvMWZFOVg4NFZpWU1UV3FyZmU1TkFNVmV3YlBuTXdyQ3VjU2VsLWdlQzBCVUM0NTc1QWVvQ2FqaWRYbEFVUkpScW10eHRTVlBRaklJZU5JYVZDdm1VT1dFSG14MWN1dTZKS3J5MGdVVm8xRFJCTC1uczlSdzRaaEFSODJ5UFpLYXM1TnpwY2s1T0pGUTJtanVlRnlNVWFRRVFGQjQteW5F?oc=5",
+        "source": "الجزيرة الرياضية",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 07:47:57 GMT",
+        "discovered": "2026-09-22T09:23:06.241290+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الأندية تدفع والمنتخبات تستدعي.. حكاية التوقف الدولي الجزيرة نت",
+        "player": "",
+        "content_hash": "37ed56556b092aafca8c18c2707c462311db8c560c94a8644261962a7e9796f9",
         "sent": 0,
         "section": "sports"
       },
@@ -1362,38 +1394,6 @@
         "summary": "أحدهم اكتفى بـ4 دقائق.. من اللاعب الأكثر مشاركة قبل الظهور مع منتخب مصر؟ (صور) يلاكورة",
         "player": "",
         "content_hash": "bfcfe05a4c76a553d18276561268aef7b451fb7e18141f97e97ae07786b10135",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3880,
-        "title": "أحدهم اكتفى بـ4 دقائق.. من اللاعب الأكثر مشاركة مع منتخب مصر؟ - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxPdUZ6TnZKV24xUWRzZENBWkItX1FtY0JDaWFVMDNpcms3YzFRWEZrWjF5NzZ6RFFjVmhjREEyYThObGtCVlg2ZXpWejltbVVTTkFuWGJDa0JLWE5vM21kaFYyZHB4UE9LX1V5VXVGNVplZEEyQnBNZzUzQ1NmaEFHM0Q4Ty1tVi1wd2cyNmpMdTFYN0J3WkJqWVJxMW5yMjIyTHZiaEhOb0JkZjEyOHI2SENCQ2YtRU1pOXpXT2VLQnVUSTNrMTVaQkVHWjVFNFBlajJuQ0duZXQtMEFOVjFBM1RyQ3FnZFBndXFDeE84dUk2RG9UcU9RS3lfb1lHUkVIMXV4cC03RXB1dGJMb0p5ZVlqVjZvREJ0QS1fSjZDcVdBekJMbDZzaS1CeGZycDgtVk5wWThSVTdkdjVMTXdfYmNSYTVvNDdNdXRSaHp2eG1BT1Z5ejc5REFMVV92OGtfdmJjcUlJc0wwbW5UQ1lDUEJoYTU3Ry1kSTZXMVJxV3A4WDA4VmYyTUx5U29kaE5lYWVId3FvZmpMc2Q1M1RaVE1fcmo4QnBJV01fNDZIR0pEakRhVnFvallvNHN1aWRVN2t5VkdDM04yQktPdmIxU3FLRnFFem1WZlMtbXFPdS1sVkZZaVNaOGZiRVlpS2hxSkhWRQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 18:31:00 GMT",
-        "discovered": "2026-09-21T18:37:04.597334+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أحدهم اكتفى بـ4 دقائق.. من اللاعب الأكثر مشاركة مع منتخب مصر؟",
-        "player": "",
-        "content_hash": "e6b889862b2a350f2dace4ae95e385162de5ccd3edcc558fb7a3e9b5abe7449a",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3878,
-        "title": "ثلاثة أسابيع بلا دوري... كيف تحافظ الأندية الإنجليزية على جاهزية لاعبيها؟ - aawsat.com",
-        "url": "https://news.google.com/rss/articles/CBMiwgVBVV95cUxNdHVlOHF6Sm1vdktobnNscDFScUFmYVh1Rk9aWU9JWW5sQ3htdDdfRXhHenFxbWlOMVEzalg1LVcxVS1fZWJVOUh4SnU5OVRHckJvVEVPTFpzT1F2YV9FTnlIdWF1YXN3RW5UU3ppcDBzV0dZX0lQbmgxSEZlMWNnVHFHNUJxU3ktQkZfSWRjZ3hYX3o3U1ZQRDh2WDNnSFBINnBuaExJSEdXa1FOOWU3S2diNm5Wdjl5SHJUS0k0eG92WE0tTXNKR3lBd0tPeVpGazVxRnVGZ21rQW1OZzFwZGR6X1ItR3Q4ZUVSUW0yVHhwQVZDWG5wRVhpSS10VTdteFcya2tXRXJnM3ZrU20tWVllRVZSZjZXS3RFZ1dGN1haN0xUQ1FrcFhDM2VkRXpPRGF3SXVkTDhnTHN6dGROQjVzSHloN1N4X3lTbmNoSWZUZEpxS2pMdjdSY1hjeE13c2dFclQ2amxFaGx3Q2F5Tm1SOGNjUHFsYnZGUmZXNkx6U3Z2bWNrd0huWmRESGkxbjczdEdwNkNtUWNOcnlrcm1LeHpCSG9MV1I3NjJPanpaRC16WDcxblR0NXptak41S3hjUmhfOWtiLTRyX2piUDJmZHhFRWV2cF80OURLcG4zYkstVG9DSDRsa2RRWE9rNF96VHh2UEQtVkdJcExkZmJ2cTZubWFRdmNObkNJVXo3U3Y5ay1XZk9xdGplQThsRExaZXRtbVoxZEhNcS0ybWRiMDZTeDNvNE9FemdOUklieGZscXdsY0lTU2tlS0pQYVFXc2FxNXppQmZTZGxXQmxYV0lKOUZoTGMtYk9id2J2YS12N2tGVVdGenNmRUhkaTZpNklRMVhlU1JqajZ6dExjbmxtNnJVRnd6REVZLThCSzhmN0dNcGJNcEdqRVNsMTBGd0xzaThKY2RxMDJoN0JB?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 18:25:23 GMT",
-        "discovered": "2026-09-21T18:37:02.270012+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ثلاثة أسابيع بلا دوري... كيف تحافظ الأندية الإنجليزية على جاهزية لاعبيها؟ aawsat.com",
-        "player": "",
-        "content_hash": "df5c9ff9af171c4346f39ee4fe9d4e4fa637c499018cffba6f59f33b03b551d9",
         "sent": 0,
         "section": "sports"
       }
@@ -2280,6 +2280,22 @@
         "content_hash": "95bb4a0a1c2cbcc3f3209d87ce72aea7944072d05d7d3d65794be3d4ae71b6a1",
         "sent": 0,
         "section": "middle_east"
+      },
+      {
+        "id": 3782,
+        "title": "برز أمام ريال مدريد وخطف الأنظار.. برشلونة يضم البرتغالي داني فرير - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNZ25adjBHQ0JGd182ZkJUbHNXSHAzZkxXNTgwZDJKM1luY3EtUnJ3TkNzWURtUUdyVm9WdEttSEJ2NEF4Z3luRWpzNEVnZi1Cb2xmRWhwT29CVy1vSXVFMUV3azBYVTRpWXRicmVZTHFxX2xZdnJBZlpPdWQ3WURHQlZkOExzZjhHUW83Unp0dXUwVDJHZ01uaE9MemZqaWZBTnotNTktaWdkS2FBZXF5V2wzeW1uN0lrNEpsSW9DdnBkRWhTY0U1ME93WVAtVGY1NFpMWll2RE9yUExIbXBuaElsSHJiUzJVVVRUZTV0cEwzR2o2QUFweHA5dVlCTWxka2JyTTdxS3Q3U2lPUWo4c2xOaXFMMXA4SkF4dkVIUnluWWdKX2NMeERHN2VkOW8zTUs1US1YNWVsNHdzbkMxSy0yU1NLeUxRZ3ZBSNIB0gJBVV95cUxPVkFaYm9SU0dJd2FXeFVWNHZVNlVWcU1XeFo4bHdDM3JwUEtzazN6cHJzM2RJOC1wazludVRxZ2M5akVaTGViRXdpRHFzcmF2MnhRb1g0M0VPaGVWVVd5Ym56azF0eUNrRzVYcXhUYTZyV3Y5aUZHUTJPeG1rNHNMa29zMG9tMTF6Q1RXSmt1YVlILUJWdDlKb2gxT3Q0ZUtGM1I3bWRnSUgybF9Ba0k2WVhteDRKSjhZR0UzTkZIeUI3eXZrNnBKVkdueGhpQ1lSWFpVU2wtY3lmSHF4bTUxUndpSUVhUXpQYlc1QjAwZ2dCcXh5empsMFBMemlDdE9IblhwSDJjNmRkSnJWRlFvQmFmUkMtWW9ZR0tDd3ZKYXhGTzdFNGxoTlc4R2RaYkF4UGdGY3IyWkNxNTc2ZWdXNXVmYVgyRGt0blQ3bGFYbDhwQQ?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Sat, 19 Sep 2026 22:40:10 GMT",
+        "discovered": "2026-09-21T13:18:32.752371+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "برز أمام ريال مدريد وخطف الأنظار.. برشلونة يضم البرتغالي داني فرير الجزيرة نت",
+        "player": "",
+        "content_hash": "3778191701ffe3659f6220453d6826e37b9a8c39cf86a9b63c55616e21bdc56c",
+        "sent": 0,
+        "section": "middle_east"
       }
     ],
     "world_arabic": [
@@ -2360,22 +2376,6 @@
         "summary": "واشنطن تحذر من \"تصعيد سريع\" في الشرق الأوسط بعد استهداف الحوثيين الرياض France 24",
         "player": "رياض",
         "content_hash": "65d70a24b5b91524c9312faa034b62cd00265dbb30eac0774938c0e0ce156920",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 3562,
-        "title": "من مكة إلى الرياض: حرب الصواريخ والفتاوى! | رأي القدس - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPci1Sb3VKd2h4aVQ4RmJBeUtRTE93NGJOYmF1a0pfclVwaG5IM24wNVMxLWJQTE9YYlo0cEJ0Vk11WjlLMU96QUZxNGRlM3lXVEpzci1IMDNQU0dVWFFIRHdxd2xXT2taQ2RFQUFOdWFkNTJUMUZDX2JPbkxZaTRDbkdqeEMxaGhGaW5EQ09iUUxFaXlPbkppaWFkMHlEclNiLUtxT3FTTTE2dHFJdzdhWGItcEJZQjdva0lXd0lXbG1zSXhqd0NCemhaY0hHcEJPT1lLdjduYnBfOVJneUZSOUQ0VEdmb3ZER1R3VjBWbGhDZm1valdfRmwyMm5WeDhSQXlETXZpaHNDcUZ6NGxHSlhpN1hzQlI5WFZuQkJUQ0FJZmYwd2dSa2dySzRzdlF1b09OVWRqY0QwZlM5S2Y0OWtkMDFieUk?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sun, 20 Sep 2026 20:17:49 GMT",
-        "discovered": "2026-09-20T22:16:25.182122+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "من مكة إلى الرياض: حرب الصواريخ والفتاوى! | رأي القدس القدس العربي",
-        "player": "رياض",
-        "content_hash": "e4db68dc3c6314841fc720703cb8b78c53ce0553c740ceae4349760f3a54a72b",
         "sent": 0,
         "section": "world_arabic"
       },
