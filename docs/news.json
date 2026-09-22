@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T08:28:35.801063+00:00",
+  "updated": "2026-09-22T08:43:42.208980+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -32,6 +32,22 @@
         "summary": "حدود الرهان المغربي على واشنطن وتل أبيب alaraby.co.uk",
         "player": "",
         "content_hash": "a4c36d5e583e8f4230725b1e4905eddce22445b15e8343e049f3ded9c44a03c3",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 4059,
+        "title": "الصحراء المغربية: الشيلي تعترف بسيادة المغرب على الصحراء - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FTFdzWjNPLUdCTkF0UTlZeHFycUQydldld0I3Wno3QTZZOVVkRHdubVRrUHh0Y0JLS2RySHEtME9UNzloOW5kRWNjZjdYRm9YcXR6a201cWlBczFVM1V2YThwSk9ILXJZ?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Mon, 21 Sep 2026 22:51:19 GMT",
+        "discovered": "2026-09-22T08:43:17.538771+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الصحراء المغربية: الشيلي تعترف بسيادة المغرب على الصحراء Le 360 Arabe",
+        "player": "",
+        "content_hash": "37fe82cc63cf6a7742ca21c5431e31b9cc9d188d912a5a6447eec350f4acdf74",
         "sent": 0,
         "section": "morocco"
       },
@@ -452,6 +468,22 @@
         "section": "morocco"
       },
       {
+        "id": 4060,
+        "title": "« زواج سنتر » يراهن على الكوميديا الاجتماعية في القاعات المغربية ابتداءً من 23 شتنبر – اليوم 24 - اليوم 24",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE90Mk43czEwWmt1MHNtMlptR092QWdQa085SWZrYnJnNGhHa0Joa01OSkZrVnFiTmJfdnVqVVhYYzc4ZUlKRHYwWFJB?oc=5",
+        "source": "اليوم24",
+        "trust": "C",
+        "published": "Mon, 21 Sep 2026 01:00:38 GMT",
+        "discovered": "2026-09-22T08:43:18.596307+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "« زواج سنتر » يراهن على الكوميديا الاجتماعية في القاعات المغربية ابتداءً من 23 شتنبر – اليوم 24 اليوم 24",
+        "player": "",
+        "content_hash": "43b716d76f13be27ded9df5fbe49286bf589fd1f639f60894e706f3e0da6fdc7",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
         "id": 4034,
         "title": "110 وفيات بـ\"الميثانول\" في المغرب.. الكحول المغشوش يتصدر الحالات - Hespress",
         "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNSnM2bzktcU1kSXVYUjgxZDBrT0cyVHhQR3hZaXk5d1NXcjR6ci02U3F3cm1faVplai1XSXpWTGZ0T3BKY0VzTHBQNDFEcGdFbDBpb0lIOUl0NkFtMkV2akp6d3NLN3NKUURGNE5WdHBtUTVCdDNpNUhFLWp2MVo2MXV4ZG9Pc3VJRzI5X3Y4RkhmdVBMeEN5QUlrWU9fN296elhURUNpemd1WVpwQnVubHFjYno1Rjg1YS1uODhyYlZRWk9FeUJlNm84R1o2OXFRSU9XOE5UX1h6OHE1YUlicnE0QnE3VGxKYjlaTFdOTUU0QU1Oa01DSVlUMVM4emM5S3I4Q2FjUy1CM21JOUgtU0xyMGNTVGpNVmw2dnVSbTAyUjVBWWdKSnpsOVRkR08zcmx6V1UweUMyVlphOEw4bzFYd2x1YjJ6b1E?oc=5",
@@ -560,22 +592,6 @@
         "summary": "من البث الخطي إلى الرقمي.. الشركة الوطنية للإذاعة والتلفزة تتعبأ لمواكبة الانتخابات التشريعية SNRT News",
         "player": "",
         "content_hash": "f7cc3c94695d40bc0721b2797adb6344244c444997e2899759697693e88eff42",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 3821,
-        "title": "الانتخابات التشريعية في المغرب: \"لا نلمس أثرا لوعود الأحزاب\"... الشباب بين الأمل وأزمة الثقة - France 24",
-        "url": "https://news.google.com/rss/articles/CBMi9AVBVV95cUxOMEZCNTdVY0p2MDFFY0xFMlRaQm56a051T05mUi0ybU92Sm5vbWJNVHpGX0w4MHA1dGNGdmxFai1FRHlOWG9rM2g4NXJVS3U2bmhGWXdyVThmbzVEenBMOUJvWXduaUF3MlpZMXdnSEhUVTRELXpZQWhzM09IU1hIVW52dzg2WHYyS2ZoN3h5Z3VwZHl3cFYwYzA4UEdKLWJmb0ZqNkZTMGFRcXRnOXZwU29JV1hzYlNOYVlhYUdwaE5zNlQxcnAydGplRVZTN21kTXoxVEItU3M3aWpRb3JOQUNYX3Ytano0dTJIM25QNmZub29lVTllMzFsQVpfUVVkNno1eS11Z21lcUoxdG9lRkowYW9kWFZYOGNtOVBuMXdwRVM4WUlkNFFINXBpdDFvcmx5NmEyYkQwdHBPRXNnSkxYVGs3SFY1TWVNRHFKUC1ua0F1dFVRNEpYZ21saEY0aEVCVlpySkdFX2JRNGdjdzZyME1KTmpYamdRd0dZQ1A0RGliSy1EZnFLSVVuWXRZNVhmZWtldWlJZXQ4UmZ1X3JRWHpGUWNHeVc1Rmt5S0NCc21iUUFKeC1qYWJJQTJwVGtjSV9lOWVUcmh5MHl0dEIxUi10QmN6WEltbmc0cTZRVVlaNWllblJfOHg3S2JrS2FoVmJURnMzSWtXRTdpQlZVbV9zdHVraVpFdHlhVzJxTk82OHhScFRaX0lYT3k5MTg5OXEtODZ5N2hjNWN4Nk54dWNMU3lyeVoyYWpMMmp1QlkwLWo1bmg1STAySHdtQ0pUOWZXdXFTRWxFNUZobmppTGVTZGhCSmlXazJGVnh4aE1kcjZxVGZTLUhySjJ6blVySXZwMVVUVXhoaXo4NExBb1FVSU5xU3FVRGFMcGxKRVBYcTJwankxS19zVjI3ekxwOExsWkNtMTdXUERXYldrZDlXazdHYVczaERQMHlXQ1NRRDRQMzZBTGZHRGxEVHpidkw1d3cyUEthR1l2MEJoT0w?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Sun, 20 Sep 2026 08:59:32 GMT",
-        "discovered": "2026-09-21T15:33:30.470515+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الانتخابات التشريعية في المغرب: \"لا نلمس أثرا لوعود الأحزاب\"... الشباب بين الأمل وأزمة الثقة France 24",
-        "player": "",
-        "content_hash": "28519f27a140250ba3d5b20932f5f9246bf6eca5ebf50d3b792a5ba9f8d12313",
         "sent": 0,
         "section": "morocco"
       }
@@ -2262,22 +2278,6 @@
         "summary": "وزير الخارجية السعودي: نؤكد على ضرورة حل النزاعات بالوسائل السلمية العربية",
         "player": "",
         "content_hash": "95bb4a0a1c2cbcc3f3209d87ce72aea7944072d05d7d3d65794be3d4ae71b6a1",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 3782,
-        "title": "برز أمام ريال مدريد وخطف الأنظار.. برشلونة يضم البرتغالي داني فرير - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNZ25adjBHQ0JGd182ZkJUbHNXSHAzZkxXNTgwZDJKM1luY3EtUnJ3TkNzWURtUUdyVm9WdEttSEJ2NEF4Z3luRWpzNEVnZi1Cb2xmRWhwT29CVy1vSXVFMUV3azBYVTRpWXRicmVZTHFxX2xZdnJBZlpPdWQ3WURHQlZkOExzZjhHUW83Unp0dXUwVDJHZ01uaE9MemZqaWZBTnotNTktaWdkS2FBZXF5V2wzeW1uN0lrNEpsSW9DdnBkRWhTY0U1ME93WVAtVGY1NFpMWll2RE9yUExIbXBuaElsSHJiUzJVVVRUZTV0cEwzR2o2QUFweHA5dVlCTWxka2JyTTdxS3Q3U2lPUWo4c2xOaXFMMXA4SkF4dkVIUnluWWdKX2NMeERHN2VkOW8zTUs1US1YNWVsNHdzbkMxSy0yU1NLeUxRZ3ZBSNIB0gJBVV95cUxPVkFaYm9SU0dJd2FXeFVWNHZVNlVWcU1XeFo4bHdDM3JwUEtzazN6cHJzM2RJOC1wazludVRxZ2M5akVaTGViRXdpRHFzcmF2MnhRb1g0M0VPaGVWVVd5Ym56azF0eUNrRzVYcXhUYTZyV3Y5aUZHUTJPeG1rNHNMa29zMG9tMTF6Q1RXSmt1YVlILUJWdDlKb2gxT3Q0ZUtGM1I3bWRnSUgybF9Ba0k2WVhteDRKSjhZR0UzTkZIeUI3eXZrNnBKVkdueGhpQ1lSWFpVU2wtY3lmSHF4bTUxUndpSUVhUXpQYlc1QjAwZ2dCcXh5empsMFBMemlDdE9IblhwSDJjNmRkSnJWRlFvQmFmUkMtWW9ZR0tDd3ZKYXhGTzdFNGxoTlc4R2RaYkF4UGdGY3IyWkNxNTc2ZWdXNXVmYVgyRGt0blQ3bGFYbDhwQQ?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Sat, 19 Sep 2026 22:40:10 GMT",
-        "discovered": "2026-09-21T13:18:32.752371+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "برز أمام ريال مدريد وخطف الأنظار.. برشلونة يضم البرتغالي داني فرير الجزيرة نت",
-        "player": "",
-        "content_hash": "3778191701ffe3659f6220453d6826e37b9a8c39cf86a9b63c55616e21bdc56c",
         "sent": 0,
         "section": "middle_east"
       }
