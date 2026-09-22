@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T19:44:09.680244+00:00",
+  "updated": "2026-09-22T19:53:44.086073+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -690,6 +690,22 @@
         "summary": "تقرير الحكم لم يدن مدربنا.. الزمالك يرد على عقوبات قمة السيدات يلاكورة",
         "player": "",
         "content_hash": "d2f8032f8f78b948793edc7bdeb74538ad01f0f36e63a6f8e821507b73371b27",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4229,
+        "title": "أكثر اللاعبين تسديدا دون تسجيل في الدوريات الخمسة الكبرى - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxOS0xsQld2Y29UTlIyb0d1YlMxTDJVTjNBc0Y1V3lxRThwTk5saThHc2k2ZWZYYnh1SHBaY0pGN0V6QnJ5VVhBaXVpbkEyMU9ZZl9XU0x5MHp0S2Jjam4ySEI1WEh1M295S1ZodXZvbFdWcU1pclNEb3ZJaFpzTmVSbFJPSDNkaGE5a1FxWC0td1EyM3B3VENMMEhsX2lTbXpNajRfWG55U2VEakppdGw5Q3BtVzZtajcwcjY0Q2U4bTE3VUtEZ3JJZk8ybG53SEF4R0ljSG9DYkhuT0NnS0xBUGtRWDVjRDBBcmlIN1RzTUk4ZnpWaWR2a1RZRVdtSTVDbi1sMDdIZm8yRWt6cXM2MTZET1h6bHV5SkhsanVzZ3d4cUFMSUh2eGFnYXBtUHVheXRFY3ZtdVVxcnRtcktDcWNQNklvUm9RUEFtM3doWmVwN00teVlia2xVQ2dHNE9mTG9ySXpHZWF6dDhaZHZPOXVXZXJkRVliTno4Q2lqMEozUjlERFgtUTZXVk5LSDZkeDdjcENvM1ZZdUZJWWREMjR0aVRaZWhtdFRvNEFFVV9GRmszQ2N1aGd5TUVJRHAtYVhwcHBoakcyU0NNRmY0MFZtRTVrd0x4aEJCUg?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 19:17:00 GMT",
+        "discovered": "2026-09-22T19:53:17.692877+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أكثر اللاعبين تسديدا دون تسجيل في الدوريات الخمسة الكبرى يلاكورة",
+        "player": "",
+        "content_hash": "d1f25a8bea0a05037b1ad43d4e2d3cac7a726360d2c85a1fc758d29d6f867b72",
         "sent": 0,
         "section": "sports"
       },
@@ -1442,22 +1458,6 @@
         "summary": "صيباري وحكيمي يلتحقان بمعسكر منتخب المغرب غداً الشرق الأوسط",
         "player": "حكيمي",
         "content_hash": "58bf99253b6f6e80c9a5c6b37c6eaf297e372a834308ba41b0dc5edde0a1b10b",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4108,
-        "title": "إصابة فالفيردي في الكاحل الأيسر تُبعده عن مباريات أوروغواي - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxQOVdNWmlLcGRyY0J0Q2ZQeDhVTTVvTGUwUDFWenBxNUxUMmRwUW9qTkdYdU9FOENGaVhJMFRrWUxnZF8zbTI3QjJ4cmZaeTRrRFBpTFlWVmpGTkVrNmxnQlA0V05JamtrWV80ZVJsaWVIeGR0MUdVMGstS2h6U2hIMU5uMWNRY25aakhmV2I0THZiMVhRSHpkUjhVOUhrMDlsYnBIV2NnX25KOXlsMVp1UjFkZnpWN0lkLU5aakdaY1JYR0FRejZ3VzN3SVJGWUZzVlg0WlBGWG1abEVUWjZEaTdkQWt1NGo0V1JrS2h6TDBINS1Xb2FCVXhTaHlYbGpTTXFHUkpyTkUxblg5S2Y4dzM0VVZ1b1lyN0ZieUM4QXRURkJ3aW1Ec1A3WFVOTnBBVU45S0N0Q05Ick1aRUZZNHlkaC1uakVMNF9nRDgyNXp4aUN2Z1ZNRldaN2JxelJlVk1lWldCbHpSRWRMUW04ekNqYTAtMTNIUEE5c0U3MXl6M0U0TE95QllJRldnUzlreEZJLTlsd21xamt3R1dWcG5Iclg5eExiNlhmOHVzUXNxTXFRTzVWZ3ZWZXRfR1hCaEF1V1JrWDBZRUtXM0RTd1dZYnc5NHdjek1KajFCNjBRQ0NxQ3JOVWtJckc4WUdDRHJKcHpld2k2U2YzdWEyejVvUGhQeWNIeDRUcV9FbjZub2VERkZUbXFMNGo3OTBCWmR2TnJEeU1nODFNRGJLRVFBcjBGbmlNSFFRS2c0TG90Y04xVHloSC1mRjhkbE0wTVJ5OVdSaEw0OVdDcmRaeTJGSjdJOXIzQUtCdnlJOA?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 12:10:21 GMT",
-        "discovered": "2026-09-22T12:27:45.287872+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "إصابة فالفيردي في الكاحل الأيسر تُبعده عن مباريات أوروغواي الشرق الأوسط",
-        "player": "",
-        "content_hash": "f8dd8dfc9e0ed5115802a35b3a5818fb17603506f0c33e3ca573dd99fd331385",
         "sent": 0,
         "section": "sports"
       }
