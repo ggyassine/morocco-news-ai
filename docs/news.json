@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T16:56:04.186317+00:00",
+  "updated": "2026-09-22T17:08:55.084539+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -661,6 +661,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 4191,
+        "title": "السودان يتأهل إلى كأس الأمم الإفريقية للشباب - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPclh3TnQ0LXJzTG1JbURWQ3FoSjRUeU9NQzR5SGV4QXRlbEEzNDBEUWowODJ0X0h4NDNCOFJsOG1SNXc0LWd6R2pYdk5MWEtJaGNiQ2JrZ2ota1J0c2RpVWNrN1VEdHR1MHhYZWJGVzFHZV9yR0Fuc0tfclBOMHI0SDAtMkhkMUNmUUVuLUR3Qjl0VzY5RjZBVXdiNFpkNTJ5N0J2cnZibU9PSndpS2JHZzJEeG80X1BGVXdNMUdSU2VCNDVKSkdDcmNZemMtWXVEZXJZV2ZPN1piSDI0MWNuQlJPOExIdXhiZC1xbXNCVGM4dGo4RXE2Ry1ERkk3Ri0wTjNkQzRTc3d2RW1hbU5NUFRXZHNReVU5LThlM2xQOTFhWmUzRUhnblIwU1ZIZEIyaXdtTDJiWldyNzdXT09RQjRFYVVqOWtPcV9sclhKNlBEWlItNEwtdXZVWUtYTWY4MEowR29MQklYQjU0ZmpxVnRMbXY5RkV6c3BVNjluNVlLTFVKb3hHNjR30gGPA0FVX3lxTFBCTHRmVzQwbzhlckRwUTA5Z3RZUE54cThUQ3FyU2dHMDhUV20wUTV0QUttQmVEUUNMMmdDNUN3cy1MWktZbUxkMDJ6THFaN3I3WXBTZFphNW00ZWxZazFVazk2b1h5YTc3R3NTMTktT2hmeGFHQW1VRXpRNmpvZmpKajVRMWFaTHBxT2FCX01acVJGN0N3bkd1WXpXbmJNN2EtM0JXeE52NDJfT2xSY19FTExNdUI2SXdSNFJjQTNDRnNIZXFpZy10SlBCbTN3SHBBV2h6SWZjZXlsdGEzZk1ZYlA2dnc2aGxpZVYtN21qeTBwQk11SEhQQW5GTUg2LUlHY2pMajJlY0FNVUw2X2F5YVFoR2gybmYtMVZMd0FJY0NpSU5YcndPU09scWduaWl2TW96b29xR3VSQnhXSFI1aVJKZVN3X3drYmJVQlpMMUVidkhKX3pMaTFMcnJYODdKSVJ1LTRTNmFWQVR2LWxUbC1weG92RnFJUndlLXlTVlktMDN5dHRjWHFhSWNKcw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 17:01:00 GMT",
+        "discovered": "2026-09-22T17:08:32.580451+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "السودان يتأهل إلى كأس الأمم الإفريقية للشباب FilGoal",
+        "player": "",
+        "content_hash": "d43a78172f678ad10d801d2b40ea5a67f74b0f56129f00a47e0630eb6e7d8b16",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4185,
         "title": "السفير في استقبالهم.. منتخب الناشئين يصل سويسرا استعدادا لخوض بطولة الصداقة الدولية - FilGoal",
@@ -1444,25 +1460,25 @@
         "content_hash": "9fe42429bbaa8dac0a0dd611f41532a15c7f7d2c8f00af67aa8db43bca8c90fd",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4068,
-        "title": "العويس: غيابنا عن لقب الخليج «تحدٍّ وحافز للبطولة» - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxQai1ZQ1dqLUQ3TG1hWGtVZTNCdVFHcE9CT0t0MGVXOUNpcl9qTHVtVkczaUhZQXhOQ2NkcVJPWUM0LTdZMFZmMXFoYklWTEJjSHpxVk5udWcyckRPMHdEZEl2S1dJdmQ2TE1vWDBTOHRLQms0UHVJcWpDQ3dIQ1pSRDdVc2pkT2Z5eldpblBLWlF2Qzk2d3ZHVjYwZW04MDVjc3JTUEk1N2UxQ2N6R1RfZ09CWGRBb2pmeFRrUUhSNzltU1JJRVNqeEh2d2xoalVJQTZaajJaTFM2eVctaTRuanlVLW9LazAzNlY4d2tra0dzb25ZaVhlZmo2djBTeFZEMWpza1hBU1NDYk55VUQ2Sk9kcEZOdHE2TGNXcmhhbnF3NWh2ZmZfX0syY3FLamo4ZDlRU3lOcTU0bWpxWGpOeUt0UmFnMVk0a0FrN3lSLW9ZaE9oRFY5ODN1aDI4dzVpTXcxUGkzTk90VERLOHlnZTV5ZlRnWG1ralBRcWFreVBnTjE3cVRmRTluODFVMlh0S012WkhvXzUyRFBOclVFY2ZqaDdCazA4LTVTcGdJTDdlN0dGVmJBdUVWYjhEX1V0ZmtKTmFFTmRESFQtdGQycFhLTUJUMzktbUVWekRaNzJSU2FaUjBMcHNaQS13bDRWcXhrekU2TkRKUHJmUGRmeXpmUzdDNU9xbDVsc3d2N25sQ2I0WXJSMmZqUDgwZw?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 09:36:08 GMT",
-        "discovered": "2026-09-22T09:47:31.780655+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "العويس: غيابنا عن لقب الخليج «تحدٍّ وحافز للبطولة» الشرق الأوسط",
-        "player": "",
-        "content_hash": "bd034434d6702ec285eb7d2159719c107777d67d0450e8eec0886018c71b59be",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 4190,
+        "title": "أخبار | تقرير: الاتحاد الأرجنتيني يعرض على سكالوني تجديد تعاقده لكأس العالم 2030 - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxQNlZpSG5KV2xzb1Yya1BtMVpfSTlmc0hJRUcxeWhSUkdFUlpjWEdJaFdzWE9CUzZlbzNUeU1iQ0YtTUdzWDcyRWhfeWZTdHJlMkxmNG5rQ2Y2NElIM21PdDVaYVdsOWlLUzlZNmdzWHVvbEZqX3NySTF5WEwzSEdQTnF1MVlzMEFzR1U4S24waWdRREtHSHhRN2lxazQtVVc0SVNmZmdQUHdfVVZqanBpa2VrRS1hZ3ByZHQ0M3hON1l5YWhwM21tV3RpbzRtMzNwaHlQdmdIUG1ocUk0eXl5UXU0eFNfR25uUEVvbEQ1MmNveGpnZUFFOTJQMFEwdi13V2RzblJteEVObjFxZnhINUpCVnhBX1dkd3BqMVFYREE1Um5RT2xZRUFTbkk3czQ1QV9SREVIeW5ITnJZSmd4MDlJTU5fUkoyZnpfWWdaUGlSSU14QWM5RVNXX1dfNnJ1TXJEVjJabnVIS1FEdE5LbmxzeXkwYjI0THZIZHgyODhRbFVoNElBNjFGaU5NZXBFbHZuZmVKTTFEZFNRMWdzS2plTktycmpkUHF3eWVjZ3NoRllXdkNGeGNmQkY5VUxRUlU5aEtvMEE0VEpxbHNjRExWbENuTmR2azIwMUZIWkNZZnlKVVNFOXBBSTNBaWQyaVJvMGw5ZGpjUWNJbWZxMjJLSENoWTd2X0FOUTJUVTI1alN0MU9CbFBwOXdmNHpFaG4zOUZDQXNhdXQ3?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 16:55:00 GMT",
+        "discovered": "2026-09-22T17:08:32.556173+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "تجديد",
+        "summary": "أخبار | تقرير: الاتحاد الأرجنتيني يعرض على سكالوني تجديد تعاقده لكأس العالم 2030 FilGoal",
+        "player": "",
+        "content_hash": "671845a42f24e90500e1698ebf110647b7cc00b2ce6d47eaec1d829dc15f23a2",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 4175,
         "title": "يمتلك نحو 19 مليار يورو.. أغنى لاعب في العالم \"عاطل\" وينتظر عقدا جديدا - Kooora",
@@ -2116,22 +2132,6 @@
         "summary": "مصدر لـ\"الشرق بلومبرغ\": مفاوضات لشراء حصة في النصر.. فهل ينضم رونالدو؟ الشرق رياضة",
         "player": "رياض",
         "content_hash": "25385fcf86269386c978e866ac6c3dc75f7e1f6cf738c50dd2e8bac6e3ad626c",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 3731,
-        "title": "أكثر من 10 انفجارات تهز موقعاً عسكرياً جنوب حلب.. والسبب لا يزال مجهولاً - Euronews",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMUpuMFRPRzBnbkNWMEpzaXI5WUV1d21hVUZCNGhzS3MwMF9ITGVCN3FOV3Jzc0dfM3J4NEloOUJ4R1BBRDRtXzlfczZGc08tMVRDcnRLWENXNVFJVW9ESVRSdEVaeWVFdk0yV3YxbW5rbWxSaTYyYUZNX2FNM0NybU5Ed1hQc3lENkpYcjlLNXU0OHBhVDYzakpLNlRmaE9PZ3hMLVRQNlhPRDZzVkRfSUxWNnlQYWEyZUNVQ3d3?oc=5",
-        "source": "يورونيوز عربي",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 06:30:42 GMT",
-        "discovered": "2026-09-21T10:48:00.604973+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "أكثر من 10 انفجارات تهز موقعاً عسكرياً جنوب حلب.. والسبب لا يزال مجهولاً Euronews",
-        "player": "",
-        "content_hash": "d121e053f0a759ef5a9caaf47e496bd3ac863795ba5008446db5aecbe2a6420f",
         "sent": 0,
         "section": "transfers"
       }
