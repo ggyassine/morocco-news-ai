@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T06:15:40.025740+00:00",
+  "updated": "2026-09-22T06:36:04.379273+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -581,6 +581,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 4036,
+        "title": "بعد التوقف الدولي.. لاعب ريال مدريد أمام لحظة قد تغيّر كل شيء - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxQeUNuSTR3LV9oaV9jb0YxV0JoeFZRTmZPbXlicU0zSkdqYTdoRmpaUmtyMG1PSTJGcVhKeWpBU3JHZ1ZOUG95Nk9BNGNKUGJpWm5WeS0zWXE2U0xTVEh0WUFPSUZld1NFUEtaZmRVNlBSa3gzV1ZoWEtSdDZ0cEdBWmNzYm92V1d2anVHb2FMRU9GLW8ybmZGTE0wWllOWm11cjRqdFhrYlBZamJ6b1NnVWdhanMtTGhXUVZyeWJsS0FKajdXbENQcHpHem9nY19zMlVqWTNDZy1QYjgyLUFIVDN0blA2RFBGbWZiQ1owN2EwSzk1QlNZT2cwNDVJZUE5OVJEX21Mbl9COTFlYnB4TkM1LW1Sa2Y5eUhMTGFGSXp0VThhVjZiX2NEQmtNY0htalJhekdmbGFMUklZd2I0cU92WV9wUFF1V1ZuZ1FRempfRU43MW02azhvYVhIckdOUHJndDZ3LWFYd0RxTF9VTmNsS3RZY1RHenlQZDIxLThkdE5PYXFpTGJJdjJHdzdMREtQSGhtN3hxYmpHMVBjNHY1RnhQMS14aUVwemRKWjFjZk1VSUZDdHVPZndjeVQ2ZEhKd2VjWkQyVU9rVjBmVW9DZXVWM2w2WFVYSFA5TGRJZm03NlVqLVFzckljcEhSYkwzY2Q0R2RNLWtUWHM4VXBXbXBNWFhlelBZbGw4N1o0aGRrbmNJVXhPcU1RQ0F4NDZWMGliUEZWWnU5SXZSRVhiRFhPUFJWckxOZmRzOFZSYWVmSmJjVDFB?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 06:24:34 GMT",
+        "discovered": "2026-09-22T06:35:46.366469+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بعد التوقف الدولي.. لاعب ريال مدريد أمام لحظة قد تغيّر كل شيء Kooora",
+        "player": "",
+        "content_hash": "f58dd9c7e94def6f09627340b02b69edc7ab90cbd2e6144f4732450b5ef06f1c",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 3998,
         "title": "بمشاركة 21 لاعبًا.. منتخب مصر يواصل استعداداته لمواجهة أنجولا - يلاكورة",
@@ -1364,22 +1380,6 @@
         "content_hash": "aa6a56486fa3e3b0040205c50713a1cf710e7fb6f109bc058a789754ede5094c",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3833,
-        "title": "تقرير: نيوكاسل وبرشلونة يتنافسان على موهبة النرويج الجديدة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQTmc4S2R0Szk5Tk1jOEFBbDlFYzZzNFVVTWFmdjN5TG9iQXdmbWhUZU9zMkhEUDY4SmhtVXJrVHRTNDBwZngydWl4SFlZZUVNcGtCT2pQTEdSVVA3UkNvTGtORmJ0MUt0ZUFZSjU1VVpTT2FQZzRQZGpOSTRCSGxSbVhMWklVVWZhZzJZNXVsV3ZRWkRaU2lRWFdadTNvTTM5U2lHdXlzSXFZUWNCMVQ5S3MxdFRHbnROcUc0NWJiNUh0UDR1Ny14WF91MzJJRTQwNGxQMXJWVmZVQ0lHWkhaX0QydWJwZmszWHVWdXB1M2ZoT3Jhbms5UmEyZUZKYm92RmxubmxQX0xzcDZ5V25oTnNjbHQ2d3ByYVV3QWJQV21KNWk1Sm1QQTZCTC1OUGVuRFN4QXZ6TzFzZ1ozb0ZXMzlyZEdfMTJXZVNUXzVrTS1fN2M0Rjl4VHFQWks0SHMtUFNWMGkyUkFTXzZhSUVDaUM2YUd1X296TE5Ienh0Y2JmNnM5T1JYeC14bERwa3BUUWl0b3BYRU9Ea05wMzdXRnZIVTU0Q3Z6ZjE2TnpibkVQZWFVckJLbWZPOHFCaE40ODItQ21xRnlodzZRS2ZDdEVnZUdZT3UtSWp4SktOUzcxUnNzREJOTDMxSdIB8ANBVV95cUxPNENWZkJCakpsX3NDRklQdUFkWFZ0RDAycGUxNF9TbHdfQmJPZUJtY1RpV2pPZkJkdVotLUF4TDU4TDAzZVhRM3h3clNha0h4ejdORnM4QmxZN05OTWhxV2hXaVJMcGRFN3B0ck12ZE0xNE8xdnViWDRNZG13eFcxNk83ekVfX0RHY29fUUdkOWlBbjB5VzFkNUZBOVdpVjdKcjd6akVCNFJpNGFFUlYwaTVLanRvNjVIZld1eWpaWkJzV01ZZEVoTmVvcm9FZzFnWnd3MXVfYTRUV2g2NWVRNDdfRWVGVG9VR1V6ODNGOHJoODFsWml3MGJsUk9oNGdCWG04X2JjU2NlLTlCSVlCSlJQNDRkbUVzcVA4M0xWM0VnYy1VMHBLNnphbFBwYjdLLVVVYVNCREpwSm1OZTlsemZzVHRPZnZQcFowdlF4R1kzWWtSQm5wbU1CY3V3eUhzc1VhNjR2MzIwZDV0dDlsLXdNQmdRb0Y0WnN1ZjdRRXlOeEpzMTduVTBhUGJheTZhTEpQNlFNVTZncWNHR1BxazEtYzc1ejlqMXFhd3hyX1RJQWtSM0xUc2FNbHc1WmMtQkxSS0RCSEcyc05QbFdhT2ZVS2RuLXh4em5VZ09CVDl6T2tmTzVZY3hyelJodmRp?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 15:59:00 GMT",
-        "discovered": "2026-09-21T16:09:58.221058+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تقرير: نيوكاسل وبرشلونة يتنافسان على موهبة النرويج الجديدة FilGoal",
-        "player": "",
-        "content_hash": "72e621b0779dcdd029af93fb2ffc2b666e8a4c3e6a66c7376f89eca0f67383e1",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1990,25 +1990,25 @@
         "content_hash": "44df4d7b39c9a6461e94466ded696a2f2d430f2676f74baaf2cf5d795ad60b52",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 3859,
-        "title": "ما سبب موافقة الزمالك على انتقال خوان بيزيرا لنادٍ إماراتي؟ - CNN Arabic",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOXFSYm1pbUdPcnRUaDhPZ3BrYl9yTjlKRW5Hc3NYbEhOMXE3Vk54UW5sZHFsRWJ2MmowR0tMbDRNV2ZpQm1zVDRzMEFpOERnX0I0d01pVVRpRmZhSVdCTGhUSmg5YTloT09EaER0UW9TR0pLbWdZUWU2MHBvOEVOYW5nRjI2RkFwUDZr0gGWAUFVX3lxTE5jU0hnbEwydHJzTE1uREtyc3pUelYyR0RyVDhHamstcHFMcjhyWm4zcWFYUWllMlg3bmNCdUtMWWUxM2xENTVLaWdVRjlGQ0toZHFKMDhtb01fVXMxNC10TlFhaTRKcU9hNTZxdDk4ZGNKSzE1Snh5VXZDTW1Cb3gzRjdwdVplZ1FGd1N0OFRwSUEtX1NGZw?oc=5",
-        "source": "CNN بالعربية",
-        "trust": "C",
-        "published": "Sat, 19 Sep 2026 12:04:35 GMT",
-        "discovered": "2026-09-21T17:41:14.379379+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "ما سبب موافقة الزمالك على انتقال خوان بيزيرا لنادٍ إماراتي؟ CNN Arabic",
-        "player": "",
-        "content_hash": "3dc60570dd27cf1ba5ce5c91e2c27a9134f829fe519822df1eefa04accb8b7cb",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
+      {
+        "id": 4038,
+        "title": "الزيدي يعرض في واشنطن خطة بغداد لحصر السلاح.. وهذه بنودها - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPOWFUdkY0bVhpNnJhdjFGUGtUU1RaQmpWUXYtUC1FOW5HOWk2WXJhbjFBVmNrTVllME1zSC1FNVZjYl9YelROQkpGWXNnNm11eDZmZnF3a2ZxQS15V1BVaGtpNm5aaHFIZDVKWDY2UkpaaGI0UVh6RnlnNkhTbEdUWFA1Ylh1N0pETFV6c1F5NlBzYTRsODg2cTJremd5Nm5GWVBHckpDNTM1eTduUTREbzVpMGl2WFdxWGpjamdvNF9IS0xaVFdWcHV4SzAtX05naGdGYU1BUzcxRVlsUGplQ0M0WVc2NUxRX3pKODRfQU16TUtuT1JaSFVZY3dZaVVDbGV6TmVKemZ1T21yaGtzZG0zZS1xME0zUDJPMjN5NlFUQmh6TUs0YkZxYkhCREZYdTh0cm14YjlXWFM5b0tmNFhiWGZzaUpYR1lN0gHQAkFVX3lxTE5zZk1DR0t4WlAwVVpTS1Q2QnlzeS1qS3JmNnZOdzZfRzJjN2ItSjZ2MXF6ekZNdzF3WEswUDdSd1VTcnA5bVNwM0R6cHdMdFQ5aE1GMDIyTTZ5WEMzMTNIYnVCOU9IdkZ3ak91dFlBR3lCcnV2MUc2ODhtN1htM0dkV2w5WGVzcXd6S0xESDVZQzRVRklFSkVhX0lfM0p1cWtIYUF6R2tLVlJkcWo5VG5janJ0Y3NvV1R1UWN1SC1XUjdaMFVXbE9WaFk5dU4tTTZSZlM1X2lHS2hCTU5JV0hXOU1JR0V3QnEzZFdfSHVXVHN5aXNzTFROcmw4VGtSRER3ZDBidmgzVGp5dnFiSGlISnJWNHloUHJsVUVjdFlHMnE2elRPYzgxQ0wzTU4zemdHUG1YWkxjV3JXeTgxbi1WN3pHenZJYVN5b0R1RUtMTQ?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 01:41:22 GMT",
+        "discovered": "2026-09-22T06:35:57.006260+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "الزيدي يعرض في واشنطن خطة بغداد لحصر السلاح.. وهذه بنودها الجزيرة نت",
+        "player": "",
+        "content_hash": "6816e23fc667d1fa4a78df967a749989e28ab15bb8e144de8d38cb50b45a845f",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 3854,
         "title": "48 دقيقة تكفي.. لمحات زياش تثير إعجاب الصحافة البرازيلية (فيديو) - aljazeera.net",
