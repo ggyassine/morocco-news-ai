@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T12:28:01.446715+00:00",
+  "updated": "2026-09-22T12:45:59.360759+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -645,6 +645,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 4115,
+        "title": "لايبزيغ يترقب.. سمير المرابط على رادار الدوري الألماني - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBSOW1MREtTSzE0RkxEanNNa0VMUUJTYVhLdVJPRGIzbXRtSUhzM2xEdU9TSnhmNl9nek1XRHNLLVlzakhYTGxTZg?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 12:32:02 GMT",
+        "discovered": "2026-09-22T12:45:28.870041+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لايبزيغ يترقب.. سمير المرابط على رادار الدوري الألماني Febrayer",
+        "player": "",
+        "content_hash": "a02a6583c02bc5078ceeeb2db12a2fef72b4d838436f9f17755b344f4171c4bd",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4109,
         "title": "منع لاعب الجودو جاباريدزه من اللعب بعد اعتدائه على منافسه الألماني - الشرق الأوسط",
@@ -1426,22 +1442,6 @@
         "summary": "موعد مباراة السعودية ضد الكويت في خليجي 27 والقنوات الناقلة aljazeera.net",
         "player": "",
         "content_hash": "f75f59d756ee359d30eef47359f9f36356ff2bd05ec028bc56ad433f63223c33",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3957,
-        "title": "أتلتيكو مدريد: إذا طبعنا الأخطاء التحكيمية لصالح ريال مدريد لنفدت الغابات - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxQdERZNXNrLVQwNVBVbHJMZjlvSnJfTHBCWEowSWZNbC1LdmxRa3J4WmZlbjVwcC1xa3E4ZGRITmlEd2lNYlAzSUJxbldXQ3d1cXB3YUxocGZQZy1jam1iT1BtdF9ieGpkV1d6alQwQ3hOX25MSUUxcWRFV3g3eHp0ejQ5ZXM1cDF4QUJUbmtKWF9iUVhtQ3ExVDc5REE2ZWZyX1ltLVNvdVVINklPN0tJRlBKZzBZNW5KZnE4dVdJRy1MNXBrZWs1cXpBSFV0RU9JRkpDczlXQmwtNVlQT0JFejZjMmYtSGgxRXJ3elNoUXk0NmRubUFMdlVXSm5VZ3ZiZWd0bEV3LTNzNWtObFpyTmVZbFNveDZRNGlMejg4cGsycjB6cmhGNVdlS0dEbFpWbnd0QWdaZVhpUTd3NUdPbVIxTWtzVFJlYmtXZGgwTXVxSHFpWWxsUXBHWjRGUG54OV9PTVFjcWFBdzkzT1p1ZHBaU3U5ZXhXc2xqN2UwMTRvUlZYclNUX3NPb3JJUUhnM2EzYmw4ZzAycUlRYWRPU1pvQ0lGSXEzNXROQTBiUDdyRWx2WUd3SmVtQi1WUnlQdEU1R2J3X0UyWG54elVFdERqWmUwVzBKbmNQNkpuUTFueFFpSmpyV3RXZFAwMGxoQjJreTk4TlJ2ankzRTdwYmcyVm45TmF3MzJ0RG15U2IxYlE4U2NqV0VNcV9Ca0ZQeEN2aVpfS2xCQWRTWlBoMWRIT2I2enFJb3EzeEE1d0pHSXlCaHV3S2tKZXFNRWfSAdQEQVVfeXFMT044SW55N0k5eWhZOGRfR0hoTFNsTEJ4WTJJMGZyeThONkF0Tno1d3puby1OX2NGMDJnNmlVTTBlWEYyTlQ0MXNxUTlEajZrbnRTQmktcUd2dzFsTmFTNjFCVTRXSmM0WGtuZ3FXZ1BDWHRUTG9POXp5akx1RjloOHRYOEZ0ME10TkJralF4NW9IaW8zZ1FjZGU2MVdIb2NvZmdZLUpIUWdXZTBZcDJORlRnY0JLQksxd253OVJOZThjM1otTDFOekV4UUxzd0xVUUxNMGtQMFI5aUUwaE4wTDFRdktmaEdrT05rbVpHNFNhRXVMbzF1UXQ4LXBOVEdpR3pMajQtNTlDQ1Z1Zy1tRkxTU3dSTjZtZHJJUGxPTjUzUUpFVXMzZkdLNnlqWDFLOEk5OEU5OTJkaUFwMHhXa3RHbHNtTU5HSkF1blpRSnI4MWswVnJiTnpPTTNnbUR3TFBYcVlnSU1jOEdWNTZFaU56Sjl3dm54LXE4Z2VFcjRsWEltVWg3NTRBRXprVEJ5N3YtYTBNZ0M4WWFrdE5PMjFfdU1NN0hrV2NNSUxCd0tLSDVJZnR2Vll3eVpvTlE1S1NJbzNYRVYyVDY3ZjZWbm1uTmlpa0dUdkR1SVZOTk1YblVyaUg4Nlp1eDdlM3hncGFDNS1SdEtXTThjaGl1RFpXUkV1ZTE0NUZkUEJOQms3cmpzbU1YUThHWFgzWUNWczZVdVRkSmdDaldUOGR4Q1NXU1gydVFPYzJMSjNhbUhHeXBzdkp4WXFMTW9vclFaSnhTaDU?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 21:51:00 GMT",
-        "discovered": "2026-09-21T22:03:13.309797+00:00",
-        "category": "أخبار",
-        "status": "غير واضح",
-        "summary": "أتلتيكو مدريد: إذا طبعنا الأخطاء التحكيمية لصالح ريال مدريد لنفدت الغابات FilGoal",
-        "player": "حكيمي",
-        "content_hash": "1f0bd394060f8a7a278d1ef9c7aa83488ed5bec4dcd33d3ea5d85e762c1e4274",
         "sent": 0,
         "section": "sports"
       }
