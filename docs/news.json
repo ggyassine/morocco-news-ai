@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-22T12:59:21.198452+00:00",
+  "updated": "2026-09-22T13:16:01.343074+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 4119,
+        "title": "تعبئة أزيد من 200 عنصرا من فرق التدخل للسيطرة على حريق بغابة تافوغالت ضواحي طنجة - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WLW1kQm5yMjJxYUR6S1BLZlFQYlZmUm11WGtoMWVxVWJvWHRKdl9ncGJXTDNJWHRHMDJaWnZYZ29Vd1BiUS1YNW54NTlaWW9sZVluMzhHeUdtNXlGMzhRNlZVSEllQQ?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 13:07:09 GMT",
+        "discovered": "2026-09-22T13:15:31.830402+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "تعبئة أزيد من 200 عنصرا من فرق التدخل للسيطرة على حريق بغابة تافوغالت ضواحي طنجة Le 360 Arabe",
+        "player": "",
+        "content_hash": "87841a2132015d1d6eccd6146adeacfd939a742a5ff19eb3a988991fbf5b4a78",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 4107,
         "title": "وزارة التجهيز.. شبهة خروقات فعملية منح شواهد تصنيف الشركات والمقاولات والنيابة العامة دخلات على الخط - كود",
@@ -645,6 +661,54 @@
       }
     ],
     "sports": [
+      {
+        "id": 4122,
+        "title": "مباراة الجيش الرواندي و الزمالك - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxObVBWNlVfMVRGY2FFTUxOaURyTjE2UkxwbFNHR1I4ZFdFOG1fdEo3elhjWnZnTDNWbFY4YjNnMTY0UlNUTkEzV3pyRWtQbnY5NWxtWVRIbkMyVEM0YU9YT0UyNnU1bGF0ZDN6ak1JTE1yYTc1YXcyTVZuV1NxbndqX3pwZmlETGRiaGtiLU4tU29DUjNQWHM4RXE3bzFjLWw2QmZkM1B3eWM3RERjS09wT1diSE9pSmNHR2F3WDdmRk9nVmZWUDk1M0ZWVENNNFRKOVFWcF9CZ0JINXF4N2lsenFFZG1BbGY4VlVBck1CY2MzdDlRZzlnZ2hmTTNVWVRCV2JJYnlKVWs0TDlHMEVHZlNia1hYM0M3VkJDVzFiLTZUZ3lzTGd1VENyLVVZUUVkaWN2T0U0MzlyVHVDd1gydmJlemN1R29zRkxOSFlBRmhSbGQ3a3ZEOXBSY3FmNU5oZzFQanNJaXVvQWdKMWhiUHRWeUpqRGs0OU9rRmM4Q0I1d1M0N2dmSHdkYlhSam1lbHYxRTJpdjNWcy03anFr?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 13:05:13 GMT",
+        "discovered": "2026-09-22T13:15:44.538817+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "d328289cdd62113bbc32583d35e4d975375c12ed6338d6e80217ea74e20be44f",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4121,
+        "title": "مباراة الزمالك و الجيش الرواندي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNVkljbUhOTnB4UGlJYWoyTE5WMWlzMGJiYUVMYW9BcDNIY0ktX25Dc0NSQzlReTl4UkVIQkU5bDdOY25NMjFVdlhvWUJqOEJ2VXhldk9Ob3ZLME5pSklLN0NXYmV2bU1kMFdLY2gyOWp0Wlg1cUcwaHNxSjV2SmFRWWZaRWtJMVFKYnh0N0ZvN1NMTnZXQUFQeWtJcy1OX0xid0dlV2M0Vi1pVzhrVkJTNXdlMTdvQVNpbWxEbGNLcDBnUHpUTUVkb1luWDhNeUs0ZzR0dGsxTHN5NTEydGFjMUhMR0tnMXpFNTk4X0l1X1FtVG9SVjdidlJNdndRWW5pT2FXQ281Z2NjWHNyUTZ2ZEVZZTJZQ0tBc1NMel9VRC1JdG5LWW40ZGQ3N3NDUHc1eUM4VjNQSHltM0E4VndOUTJrYmFtRHpGRDh5cHppMm5uNkd4THhVZnVvb3E4QzZIU3JLSkJPdkpNaHVUdC04eUlncG02LXVGWWVoUE50cUdSblBpV0VSSjRJdXhyMktwSmlrMUxiSXpGZDVPN0Fn?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 13:05:13 GMT",
+        "discovered": "2026-09-22T13:15:44.533695+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "a2ae5e208b26e9243ccfeee713b6f515583c1fddab8997f456c0064f04822496",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4123,
+        "title": "أخبار | دوري أبطال إفريقيا - تحديد موعد مواجهتي الزمالك ضد الجيش الرواندي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQUV9FanlwQTJhLXYyZ2FSanpCRWJ4d3Y3dUw2c2dZTnlmRzEwU1ZuQkkzYXBDR3Juc1hocjJhYmFBemRqSVJqRUJ5WEt6MkVPdFdyRTlXc0VpVzJycXRFR01OSk5QWk0wbEJUVUdQQ3VXVXdFS3pWeGEwYnRWT1dNMmh1c19GTXh1VW15WWpvSkpfRzZQX203bWFQUXJBVk5wTnlFYmhjbDJtdDdrQW14N3ZIWjgtakdPM1ZWWXhGV2NFRVpWWWtnZ2R1TnRVSE5tRTdCTzlwS1VPOGhxcHQ5U3JZdC1oREZQQko4Tkw2N0pqTUM2RWJ1RExCM3FjNDk1VjM5QVNzTEVwTmdRMEdRZTNNNXdjSk56eHlOYkc2MnVYUUhjWWc4eUlJZWM4Q09sb1ZWbnduYVdleHdPV3dlZE1LY2FBenVLZjRzRjlidHRjNF9PdlhUYTJaZGJDcHI2SUR5T005YTd6VW9lYVZJRTdJcmRwWUprcWNrb0ZQZ2pRc2tOV1lQMWVULVliUFY3TFYyWlhxT29OeC0zN2NMcTdWNG42dkROMW9uVkh6Vy0yS19XQkJHLWhBSC1PMzk0Q1Zwb24zU0RES3dKQjk0a29TbFU3bXdtU3VBSDFOYklxbjgzdmZxaXBvUWtzYkVTb1dqMi0yZkk1bmVSOWs2Z29VMi1tNmdvZ3Y0MDR3?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 13:04:00 GMT",
+        "discovered": "2026-09-22T13:15:45.207002+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار | دوري أبطال إفريقيا - تحديد موعد مواجهتي الزمالك ضد الجيش الرواندي FilGoal",
+        "player": "",
+        "content_hash": "5eb125a2b5d53a610ccd660401ced8ce0b43d671ed64183d911f2b362ae4ab20",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4116,
         "title": "بعد أحداث ديربي مدريد.. مورينيو يغيب عن اجتماع المدربين - يلاكورة",
@@ -1396,54 +1460,6 @@
         "content_hash": "8d8b4a4de7dd04e4d3aecef7640923e78888e588d169a029819ec1815d8ff4bb",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 3979,
-        "title": "الرياضة - الثلاثاء 11 ربيع الثاني 1448 - جريدة الجزيرة",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XVUNleUVmeHRySUZrR2ctQ0xtdHloYTVyWGJqNllQYUdheVVwV3dLdVdKX2NfUHdTMlJUNTUzRkVOU29sMnNlNEdwVWlSUDJ6UEFNUDNpaElKRFU?oc=5",
-        "source": "الجزيرة الرياضية",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 23:27:12 GMT",
-        "discovered": "2026-09-21T23:32:29.169474+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الرياضة - الثلاثاء 11 ربيع الثاني 1448 جريدة الجزيرة",
-        "player": "رياض",
-        "content_hash": "6f15c7b7d2a56a6814979cb4c7ffa462c147d9ccc89da6f5bc83f9d38d192afe",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3965,
-        "title": "مدير منتخب إيطاليا: نواجه مرحلة صعبة.. وما فعله جمهور يوفنتوس مؤسف - kooora.com",
-        "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxOQ1ZpVzhUQmlveWtuRlZQR2xRajdicW9FRF8zcXEwU0R4MWNkakJoVk56ZFRHUXdOVV95aVRBUm9URVNDQzBzcDJCMk4wTnF5bkNsMEp2eTc1djFCSlJEXy1RbERvM3BTRm4zWTllOGZ3UExGczg1UlU5UW1RRkdFY0cwa0pOWG5LbmhOdUhHeDQ5LWQ0UXZZVElUQXBaTkxsMUdmSGJRQnYxVk5tM213RzkxMXVWYVFMWEJ2Vm9oTWI0TE5Lb2hxYzA5WldvY3NKX25YMFZvb19idFdiVFlMUWhoYk81OFNfVWR5eGtwWTloZWxrYzRwc1ZPUXJiVV8yOWNwZDl3c3lUUWZwY0JQME1xM1NGYWFLU0dkaUJpQ1BCZEowTlRreERqWFpqRmh3c1RVVDdFSms4ZDgyYlRHRlgtNU9aSkJ6NnMtM1BxaC1CdnV6ajdaaGpOMVVVYzE0aVEyY3NXeE9lT2pNc1VMeWVWVWlJZlJpWE5TOHpsQlBaV28zQmZfYUpiSWhQUGxXTWU0SHh1bmY2NG5jSDIxNDNUTGpVVU5oX2k0d2ViWXRYanpDc0lVbkRlekRPZTNfVDVrbnBCNjNSdzVLQmVEVHQ3OVFoU2MtX25MVGZKTTA0bFhXeGNpNF83aW51OWVyQms0WWdTb3Q5dTB5YWlIU0JIOXNkRFBHVk9kSmpNck1YcGJjZjhOdjV1R04yeVM1Nk9rRzIxNnBzOW9ZM3pVZy10ZjV3dDhGcldBMEZQdmE4VVFFWC14YjBZdEs2TlRFT1IzUTV5YTdqUTdVUU5BZTBUXzBGV28xcXdSR0xqTEtsRUZXQzctYg?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 22:25:20 GMT",
-        "discovered": "2026-09-21T22:32:37.080591+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مدير منتخب إيطاليا: نواجه مرحلة صعبة.. وما فعله جمهور يوفنتوس مؤسف kooora.com",
-        "player": "",
-        "content_hash": "776bb0b4ee501e53ee4867179c480633a773d124e4593a29b3f6573a84d88066",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 3956,
-        "title": "سردار آزمون يعود لمنتخب إيران بعد استبعاده «المثير للجدل» - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxNQ05Cd09sZ081bnRHLTZXMzh4MUJoM05QZURVM1MxM0FCQWloaEVTWHlLSDJfOWFhMHpzSEtNRHZ6ZC0tcEQwblFuQkU5VmV5eVlJa3g1Si1KQVBRWTJfbktRal9NMWctOG1PeFptSjQ0VzcxV2RXTkxycjZpTFhVLUlZaWRuRXJMRlhNU2xKLVZWZ0pocVBwV3E5aU40Mi0zdGwwN1B3SWFsRkl3S2lIdnZHelRhby1Dbkd6RF9iRGtpUUNLd1RWV2ZzM0RWY1pnTG52cG9PYmhydUlPWkhqWVg3TzVrNHBJOXd3RlhKU1F1N2s5a1JZcVNPQVVFWVM1M3pUd0lPN2NCMGJUN1FVME0yZE8wTzNpdTg3T29mSEgtNmRLVWFVNGkyemJTUldTYWZnNGh0OWZJc3Nza3pXWmhrWEJlbW5kNmVzS1I0a2ZHR21renhXcmNSbUd2c3MtZmtCR2k5Q3I0Q3oybWM4T2d6UVNaT2sybnJBMWZSVjB4OVdZRVVBSkR2VTh3UXJiRmw2TzhTT3h5cXFYUzhqLWhZTFVjVk8xQjdLSWwwbzVObnh0amNqU0ZVbXRQRE01X2s2THdnZGg5Y1BoUTctb2dWaDRlU055b0FkRlB2VjhoT3NGcjdvd1pjSzM1TkZaSzVuSUpDZkVQaEhReHNyLVY1R2E1TGZBWFB3U0hieDJOanJYOV9xUEp3d3RPVW5mRF9MeUxBcmY0S1JZMjdtLVNOVmFCdENVN3A4akVfNGdKUHVDUmFYZG10eDN1cDk0dnFqMmxBQQ?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 21:54:22 GMT",
-        "discovered": "2026-09-21T22:03:07.765538+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "سردار آزمون يعود لمنتخب إيران بعد استبعاده «المثير للجدل» الشرق الأوسط",
-        "player": "",
-        "content_hash": "104d67b81068c54124b561de8e8e7feee17e65c567f059e79da0a8f0c07e5bf9",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1492,6 +1508,22 @@
         "summary": "كأس الخليج 27: السعودية لإنهاء العقدة، وقطر والإمارات لرد الاعتبار، وطموح يمني رغم الحرب BBC",
         "player": "",
         "content_hash": "5b6eb747e4e821c750604cd3b2a12b37058b9ef73373e15677101ca10ac3609b",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4125,
+        "title": "بزشكيان يتعهد بالدفاع عن مواقف إيران قبيل توجهه للجمعية العامة للأمم المتحدة - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMirAVBVV95cUxQUDFyWHdqeHI0NEJCOUpkMG80cUhHTUxnRTZlalJBRzR4MEZIcmdFYU5Jdk9fY0h3bElRbHp0UDVXaG5oS3M1a2ZRbEdvbS1wMDlGSktsaUgtN2xRUTJDTXpWaDc4RWljcGhIS0Y1dWdXeDhVbzU0ZTBWRXRiSFpXTWl1N1VuaWFWVDlCZUhBV24zcWFEQTRGb2JfZVNXZTNHdlZMRllscDM4QnpKMlRWRnk0bTV4RXMzOHlWOVVBUmUxeWkzT1QtQmVBQ1lyX1JhOEtuV1o2ME4tYk1YdzlVaVRTa3RxYTExTmxLdWdBVm40Sm1WRlJQa2QzTDhtWndnS1ZOWDJKRFhLM0dvVW5Mb2FXNVB2WFMxSGdRcXZWaUFsRG9yYUx1ZENxOWpCemFyd2dpd05aVlVURWZwTkk0TFRkY1ktbjNjTGJkdlRFWElsNWZ4VDR4SDVJS2YteW41dHZZd09pc3pmcElabDBheUlGclRXQmFqd0xfSjNsUWJ0bE11UUtmLTB2MkdqemVMbXhwcTdic1FNeVl2TlEyNnQzSGtvdlIxSzR4bTJUMHNGZ1YyZFZPQ3R6TmMxQ1pqcXQwRkFlZWxldkdiSEwyTkp4c0wxWHRFSjZZWnI2X0U3VmNKQlBSN1BYOEJGMzV6UnIycy1uT1BENUV0TWMwOXVLeFpNTzEzLVlOLVVoS0c0cVNBWGF0OTdHUnBKOW5UUXYtVGNiV2s3U3lsSnJzQ0FLNGNuX2oxRTk1eTd4UEVCenVzY0NINVM5UlB4d2pnaDdnSmhuWTM2VmptLTY3aEEwOVRYUEpuLUgzdDd0YVpLWWdQV01CNWlINlN1MXpxemctc1BydlltLUZvRnNFN05BMWlaekNsQWFyZ1p0bV9ZV2VFbmV3amxUNDI?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 06:59:09 GMT",
+        "discovered": "2026-09-22T13:15:55.452563+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "بزشكيان يتعهد بالدفاع عن مواقف إيران قبيل توجهه للجمعية العامة للأمم المتحدة الشرق الأوسط",
+        "player": "",
+        "content_hash": "02a1d4c048cc1833eb4a536001e06253365df89bead4e530c5f71e220e62c19a",
         "sent": 0,
         "section": "transfers"
       },
@@ -2086,22 +2118,6 @@
         "content_hash": "75f51add8ef8164471ae010a65553e67f641b52f76098f3d038a9deb0982cc9d",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 3697,
-        "title": "أتلتيكو يكسر عقدة الـ49 عاما ويكرر سيناريو 1977 أمام ريال مدريد (فيديو) - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNbkNteHVfT1U2WWhOdDBrUkg0ZXNDY2lSMGJuRlYwZkh2Q0VMZmFSdklYRHpRUzhfUEJ6eklsdGpZdG9fRnMtVDE0VkhwN1BQbVNZdWUxSkhlWFJiUlY4WEk3eUlWVVdkNzFlbHZNZmc5b0JOREd3TkFUZkVveXZzTkNLZjdlMWZETURUcXh1NTFmSjJYQl81QTkzMk81c012VWZOczFKSnJxZDA5TGc1dzJlbmo0R0k5TFhXbU5WMWhyb0QtWFZ3Mmo4LXU3RFVWUGlaOFZDNlhUdlJEZ2hFdElHYzNTWldYeUx3R3owSm9pT05RLWJhN2NpaFlDZEtRaGJfUER6aDZkRExuYlREd1d3ZG03ZGxuMWtETTdGZ2dfRUgwN2RLQzRILS1xVS16MFR4ZzlB0gG7AkFVX3lxTE5VaFVadUotY1dIQ1dCa3N1NU43R2pnUHlDb1JsdDg5WEFBbVJHR2pvd1N1bUdRS2dsODdhUk9mcV9FNWdLT21xZkswMXFqNDlwWndWeWhyWjVoUEhTekc3UUVuZl91WXJpMW1RNlVrNFVZa2VYLS1VYm90NHBuNVFCMjVETmdQOUlwV2pWU0laOXhqYlloR0N1Wlg3aWkzZk9aMk4wTno3WGlpckxVYkYyUzRXTTVYS2F5WWpqSnVSd0dhVjIyS2hvT3pHVGdPcjg2VlRyNGtvUzNza2VBczl4ZUdiSDVWekFIbjR4bjlydkVSUmhjSHBIZFM4QzdFYnBHREF4YndtZG4wQlY5X1U1X3QyZFpLeGtYREVxMWZPTnFad1JVc1U4dzZpd2JnMnBCOHhGcjQzaF9ybw?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Sun, 20 Sep 2026 19:51:24 GMT",
-        "discovered": "2026-09-21T09:14:45.853228+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "أتلتيكو يكسر عقدة الـ49 عاما ويكرر سيناريو 1977 أمام ريال مدريد (فيديو) الجزيرة نت",
-        "player": "",
-        "content_hash": "c34bbd0b6779136bdc5136e3fb86f11edec025d9281425763f83a79ed20d90d0",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2278,22 +2294,6 @@
         "summary": "استطلاع: تراجع شعبية ترامب يضعف الجمهوريين قبل الانتخابات سكاي نيوز عربية",
         "player": "",
         "content_hash": "fa3f4213d858f9aebca101c1bc57c305ec0fc57426431a6ea60b2e99b939ce45",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 3677,
-        "title": "الكعبي: قطر تستعيد مستويات إنتاج الغاز الطبيعية خلال أسابيع - aljazeera.net",
-        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOQmxpdEZHOUlCQmJneDZJWDNTYi0ta0JZMlJ6R2hYdUlsWnlDeFROTU1TbmxldG9rbUZ4TmJBZzZLNlVSNjAtSThmXzgwdkg3Z096eFNuYXEza1ZCdzdPY0NjZ29ITXVHX0xuaWhhWk83OTVibnRscERpMVV5TkdrVXBVNF9MOGRac3hFaTViR0NUN0RPU09VeDZOTFVDQ1BjdlA5TEZIOW5fVzBUTFNlZ2JHaHJsZVVsYnFublBGazFlOEFxRTJzcmJmdlNiUFFhUXIwT2NfM19NYl9mR0xDTTZQUVJ4UEhXN3djTUhpbDhKQmlZY0hVNUROUml5M2otLU40eDd3bVZwZy1SNWFhWjFSS2Mya1k4ZmY0Nk5CdHoxMVpHYTBoOEJRNGZzX3ZRLWUyZzUzRmRhMGZIci1GeXdvamIxVXNVOW5JR241cVpBaUt3M1Z0Umg2M2ZTamJl?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Sun, 20 Sep 2026 19:47:33 GMT",
-        "discovered": "2026-09-21T07:51:37.932003+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "الكعبي: قطر تستعيد مستويات إنتاج الغاز الطبيعية خلال أسابيع aljazeera.net",
-        "player": "الكعبي",
-        "content_hash": "b6a84d3736ed8eb9d40e0bfc45a8504a8ea6f0154de8bf7d6fae0459365fc18c",
         "sent": 0,
         "section": "middle_east"
       }
