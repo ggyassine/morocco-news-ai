@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T19:04:01.557656+00:00",
+  "updated": "2026-09-23T19:19:31.323891+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -112,6 +112,22 @@
         "summary": "القضاء الفرنسي يرفض طعن أشرف حكيمي ويثبت إحالته على المحاكمة بتهمة الاغتصاب Le 360 Arabe",
         "player": "أشرف حكيمي",
         "content_hash": "a105a79b19207fab105ce15afbdb3d74e6c622ad33a7b381581d81ee2cc34892",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 4574,
+        "title": "عاجل: حريق مهول بالمنطقة الصناعية طنجة تيك - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sRUdyQmN1Yi1VTFR6Y3Vjc2J6U0FaX2FXQm5JOEhFN2tzaUhKcllFakRzUFZINlB5ZG9FNmhrdnFZWXdxQTZwVHFGUFdXc1FENTMxUzI2QUg4b0oySkM4dldsc0ZFZw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 13:14:32 GMT",
+        "discovered": "2026-09-23T19:19:01.233892+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "عاجل: حريق مهول بالمنطقة الصناعية طنجة تيك Le 360 Arabe",
+        "player": "",
+        "content_hash": "e3216e81c7b980efea5b83eb0cb8a020029215bcb5521c41fb9082db93e3065c",
         "sent": 0,
         "section": "morocco"
       },
@@ -626,25 +642,41 @@
         "content_hash": "f03cbcf16ae3cf9005415c2c6626df43b61b3fe9d254eeecef845a465157c102",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 4092,
-        "title": "جيل زد وانتخابات المغرب.. هل تكفي الوجوه الشابة لاستعادة الثقة؟ - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41MlRCSm9LNkVUaEdkM0hTekFuZ2E2RFNkdDAySTNlLWQxaUl4OEp3cFFWYUtCbHZmeFNzRVUtdjlHQnN4OERGSkduQVpFSXZDb1VJRjFDSG5ndEZFRlHSAWNBVV95cUxQU1k2ZmIzdXl0QzFLb3VhUGEwei1nVWNNMEFveUJnM19VVGJxX3pHbWoyYXpnVUdsU2RUOHhGbDBlMlBUOWs2UlNGOHNHS3V2OUN2T1FtRUgwNXFTRlFNTTRPQUk?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Tue, 22 Sep 2026 10:51:30 GMT",
-        "discovered": "2026-09-22T11:04:03.430934+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "جيل زد وانتخابات المغرب.. هل تكفي الوجوه الشابة لاستعادة الثقة؟",
-        "player": "",
-        "content_hash": "96889d7710a5ad409df9f4e570b3bcc2c4b8efdcb6ed4e8f725c11e544c77653",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 4575,
+        "title": "مدرب العراق: لم نكن الأفضل أمام عمان.. ولا يمكن مشاهدة هذا الأمر في بطولة الخليج - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi1gVBVV95cUxON3lxUFFSZ0VKWVZzWUw3YVFucFVMRXQyejlibHh1QjI2UFhmWGlQNE5IeXVrVW1pU3VEMHMxRDRXVkt1X21FYjM5YmtXckNyZUxrRWtaalhua014ZWk5am91MjJpU2pTUHFxcUV2VWt5SXc2Q2V1TDNmWERZaXA1QUdfOHQxQmpLVmxWdHBPOFVkb0JZY01USUR1Zk9EalpZdXcwZ3V2REt5bndjS3RrTDhabDF5anFVdkpHUXljbXIzZWJVb3NTMzNRcG91ejEwWm5ZWU4tRnVXd0tYS3dhcnpXbDNCZkptOHJnZEtwV3AxMm9kTmxsUkJaaU90RWJ4R2RfbTVsWFNDa3FYdy1jN3VKRGV0eU1vUXRvR0JIdDBuZXlVSzJqYWhNMXFfUVV0Ty1FSVRpS3dwelU0ajdUWG1yek9UNUlUWUFXOVA3LWtpbk9BcFVJeW1vNEF6MTJTZDdqVEVTQ3ZRZnJycjE4ZWhYdml0OF9CNE5HTDNXbkRqRTVVZVk4WjktYVhGR0o1R1g3S1kyMmsxckZaWmpLS2ZseWxORVBoNURwczMyYWdXMm1JYnRDZW1hYXlJMjRsVkNpRjdIdUY1QVRpMDBTSmxKbUZXSkg2ZThjRDU1TkY2VWlSbkRtbkxpOXJXb3BTaW41MGU5c0VhWW5TU0hQNWh2bTgzZzJULXFNTU5ha2d5ek50NFprcXo2NExoTUtzRFFjWDdXVG9UZ0hvWTRaOFRCLTNYNHE0Z3lNZjRlLW9hY1BzTnBiNlZCWWRfMm5pcE4wX3M3dDlBN3drd21lNnlpdU5iY1NYUU4zajM5TGJLek80VlVmTFhNUWh1Q0tNazlaeGt3cXQwSS02cmdhaVc3cGZFM2NQSnA1Ri12c1h4V2N4bjFmT2hFVWRnOU42TWVXeGl4TmE5Ynh4MnJlRUkxX3B4SE5pb2VCRUFQb1BOSkJhSEE?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 19:15:56 GMT",
+        "discovered": "2026-09-23T19:19:08.096778+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدرب العراق: لم نكن الأفضل أمام عمان.. ولا يمكن مشاهدة هذا الأمر في بطولة الخليج Kooora",
+        "player": "",
+        "content_hash": "167522fbf274ea44692184d77f648d6d1b137cdf3dfee403adef766b6cb21a72",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4576,
+        "title": "جوهر نبيل يتحدث عن.. رسالة الخطيب.. لم الشمل في المنتخب.. وتدشين الشركات - yallakora.com",
+        "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxQc1dGNkJjaTduekpxMERKZ253ZHI1dHNlVm1CNGpSbmxlNEpaNFBnX1ZEQnJJWWtIWjF2anZkbGtSQzJhTkVYajVFMkJfQWkzOXlva0dBN3gxQzdOVGhIWVZmdnhkWG1GTFA3Y0tSQXl4WnhiOVNPNDlIaGVIZi1Hd2tNLUFDbXctcnVkTTBpM2hWaU5MRkhCVHd3dW5zQnJIMjl2aE5HLUpPSEk3aUh5bnQ3X0JyNzU0QnNQSjFTR2xmLUQ1ZzRHbGxBOEo2c3drY0RfQVBQcHJuaXdRSzZKRGVPTW5NSnhMRGhrTGFuQmlmMjRHQ3FvTklPaGhjYmxjOHc4UGZWYkprVzRsNjB4anMtYjl6dXFCRG9EUXhNMVp6X1piY1lKMUhLWHNGOVlQVmFsa2dRYVNsWmEwWnZyUDdla25aaGNLNHRTeFc5V0RFZGxWNjB5NXFjTjF1Vjd4OThwQmNwaTZlbWlWTXIzOEI2N2JyNGlZM3lnWjQwbDRpWFlqanlmcExSNlQ0Smd3VTRFVl8taUVGSS1hN2tzSDNZQkE2ZDBiOURJYXRVS29vOXhFZGJqcHBHcmFKVUt4ejBMNGhSNFJtNllocEUyNkJSMGhqYTdRcEFhYkpzNnhCR0xFWEpzQWN4ZHFlVFpNUXE5OE4xV18zYldpWjExRW1BWGhfRC1vMjFySTFiTzVWemZsMkHSAZsEQVVfeXFMTzFQMUVFeDc2NUFCTndCUHoyU2Z3WEc2WXg4MkxaRmxNZUN5LTN4c0ktQXR1eW1fSXFQeUtXcWhWWnZfVVptV1VPYmVuN3djYzRNLS1xcFRXdjBiZ0FtNmllV3FqaHo0NUpsVnNSdjRHbmVnZVpXY1ZVOXFNaWlBSjZqV1Q0eERwZzZ5TGVKQXJzai15RjdVNWNDX3VDZEhNR1UtdEZZbHN0Q1poejQ2bXNacWo3anJFSUcxQVJlUFIwXzBBT2x1eW52d1RhV2lzODczX3Z4MHpUOUNpYUVnYUdKVlYtNEdsUEM3SE9UcTRaNUZXN0dmU2JSZzJ5Z2o5Z3JpamxsLUlfUFR3YVdRMHZfeFVpbjc2T2tjNFhUWGtBR2dKZEE5UWVlbDB6NU1lT3NCbkI1ajVoWkxjNVkwVFB5VGloZ1JzM2tOTzNtU29IeUhyTVZ4SFUta0pLZkZiTzhScUJGU0ViZl9oZG5ZSFYwdFRxY2NCZGwzWnlvS2otcXJuNFJ5MHMxRDZSdjRzVGRNYVc2LTdUNnFfSmIzcmQwOGw2UHQwVEJxU3NvYU55N1Bnbi1wMHhIcExmVEpYVDdJd1pNbUVhaGl0cHJ0ZU1CMVpsbnV4eTEwSWRGV2I0YWpPUlpMUzJJOTZyTDNhTFlySUNaOG92Uk93U1BWRHF3cHp2WmZPY3JVVDg1d1lPMlM3VDkxMmZlSEU?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 19:07:00 GMT",
+        "discovered": "2026-09-23T19:19:13.723055+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جوهر نبيل يتحدث عن.. رسالة الخطيب.. لم الشمل في المنتخب.. وتدشين الشركات yallakora.com",
+        "player": "",
+        "content_hash": "ede95cf1ba3e7c4e921a6d7fa055a4d3fe6535663d11733fc80479af1056f7f3",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4570,
         "title": "بسبب عزاء زوجة كومان.. تعديلان في برنامج منتخب هولندا - yallakora.com",
@@ -690,6 +722,22 @@
         "summary": "نجم برشلونة يتصدر.. أكثر 10 لاعبين صناعة للأهداف في الدوري الإسباني (صور) يلاكورة",
         "player": "",
         "content_hash": "b938cc03e54d1ecc328167450f916ed072348027e78b47b4a6fd7b23d947c7c1",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4577,
+        "title": "أكثر 10 لاعبين صناعة للأهداف في الدوري الإسباني - yallakora.com",
+        "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOZ2sta0RCM3BobnlEMHR3RGJ4X0dndXdmT2NVZXNBQXpkQ19tZ3J2QmtwTS05SlFWdGJNeUdTYmFIcW5pSThRRGRYV2RGb0hZZGxZM0pBdDdmanhrTXdLLTZJNDZmbmVvemQyLTBBbEx0NV9GSDFuckJmd1hSd0NiQkd3TzRCcms5MDFMSUpudHowQ3lGR1o4VUZMdEpYNTNUeUI0RGJEVEZoVk8tUHQ4R3pwQzFPRjQ3emVNY2xWMmN4WDdCVjRFSzE2TWREaEVpcnhpN1BTN21IUnV6akZfSnpLM2dUS1VTdUpJaldnaFVQT1p0bFg5UnpiaDFGTjNtRm53bXp2cVZHV1ljSEVHcVM3V0RXOV9uVVlFWTAzTW9fbXpuZTZvWWN4bXZ5TTdtTVhSZjV1Z0J5b0xHWFhkTVlqOXlyODNNSE1HUEVzN0EzR0dkVC1pZjdOb2poNHBMbFZlb21xV25mREFlR3ZzejJFNVBIT0hrVTNZYU1kcGlTOUh3a2pOVzdDR3FOQQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 18:19:00 GMT",
+        "discovered": "2026-09-23T19:19:13.732219+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أكثر 10 لاعبين صناعة للأهداف في الدوري الإسباني yallakora.com",
+        "player": "",
+        "content_hash": "beba40803ec9dcc7d8f19d3f2309ff5200352307b6fdd95731f272f032aa6307",
         "sent": 0,
         "section": "sports"
       },
@@ -1396,54 +1444,6 @@
         "content_hash": "4d9f52547d1731cb19c9aea5d4ae7b32ba4b102e62335ed4026dcdbf69a9accd",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4451,
-        "title": "الدوري السعودي للسيدات: صدام المتصدرين… والهلال يترقب الترجي - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiggVBVV95cUxNeVhkYjc0d3FRNExYaTJTZjFPQVQ2VVlOWkNpTVg2SHluY29iY0hGeFJ6bVk5UTFsaVpYeXJBNUdnOVFURVdNVHd1N1ZyWFpUbk83ZUVaVUNuQjk4ZERxT0tOZmR1WlQtbUl3cC12ODM5THlaXzZNdTRaTEpjUVpITktqZHk5akY4azB2aUc5Sm9udHpDenV0WjlTNjNaNzI0eGhXZ1BTOEVSRTFPLXM1c1JzZmp1T0ZpTDdLTXM1azg0SjJqZW5nRm1VUkg0LWNsaVhjS3dkMnJzc1E5eW00YjlHU3B0Q0VxT3Rxc2d1cGZobXp5Sk9wcVF4V0hwNTZ5NFljSU9fMUs3UkQ4czFwQXBXbElWZ29kVTNNZXRxckJCZzhmTHRpb05jRlVUT05Tekg5UnJxUEtxU0ZVSGd2UGJTQk5mXzdwMlBnNTRlNlozbjBrUXlGTXdFbWkwb0lkSmNabWowR1BBcmZuNUVZZHo5UUpIWFR4UFh5cVNuX1Nud05pZVhlbXJQdjBqLXpQdVZIR2xBclBJZG5oWjRwRGRnbHJYYUpsdjF1SjV3bFNtcTBXUm5NbE1RSEZ1WWdYenNiU282Wm9ZYktfWE1PdXl5dVdnLXpuRFZYZU4wMTQ4VTF0TUpXNGZ5anMtMHB5WGhPeTZGZXJ6am1LaXhPMFNaQVZEYXFwcGpQQURNWnhVRUlIWTlTZjlOR3FWYnRiejA0eENKTWZoalVnMW12OEE2UXNOT1dLSkN5OWp6aS1BQjhvY1hyTU81VUdJM0hIazB2ZmpsZlFoM1BqTEdtaElublVhZVN5aDJQbUVMSEV3SXk3clQ4eXhFeFNsbTRLaWc?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 13:44:33 GMT",
-        "discovered": "2026-09-23T13:48:49.033373+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الدوري السعودي للسيدات: صدام المتصدرين… والهلال يترقب الترجي الشرق الأوسط",
-        "player": "",
-        "content_hash": "5dc01bc8d0f060744105f06cda62db3efc80cae97f5a1b7fb2ae7d8866c30518",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4445,
-        "title": "منتخب الناشئين يخوض مرانه الرئيسي قبل مواجهة كوريا الجنوبية - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxPZHpKcjBQWE1PUmc2a095OGxpZlpaQ2RfbmhKeDlGT0hQQTRrSDlIRFB0bVhMNS0tM0hIc1J2S2pMd2NPS1pnZThWcU8xVnJXN3hqbkIxQTJhaHVkdjV0ZUJHZzFrX3NzQ0d6eFJfZWhZWUpyOUJGdVY3UHJaZXFkWHNNdXJicXphTUVaUlpEXzJWLVdjbXVFRVlNTHJYNlRacW5Fa2RIN2FKcXQxV3F1aGFKeXZVODZ1d0hZa01TME1YVHJua21UUjhidDRkcWhLVWZ0RGsyS2NmcUljWjVISTNwZWRsUDhNaFJxTlZDX2c3aVU4aHhOWkhHYi1sNmcwa2hoSnZiV0FLZmlrby1IazhCLURKTDluMEtTQVp3cmVXN29qU000SlV6dDNMcWdMa0NybmhvREoxUEFOVHBEOE1nYjhMSGVHTzBOeHlkNTVCTm05UW5OYlBmcmhwamJva0tLMnRlRWdjZlV6WEEtVWJpZUpMZFBQdjdCbnV6cHJiVGNBMmdUUUIwUGRDTnpEZFFVZjNjVllBSG4yWlhsSE51cGlmSEo0dkNzTmRNT0JxcjhCNzN4T0dYZ1A5UVZlcWdHeG5jRENkemVQSFcyNlBLNzdEcHZVT3lUVThKMFB0eW5sSzFENF9wMmk4Vl9XN2RjdtIB-gNBVV95cUxNRUlTX256ZTlYN2xHaGcxTWRfWEVhRnU2M3ZKR0I4ZGN0NDVUTVlRWHduUWV1bFp5YVVnQ1NhOGtBa1JuUWRBYnY1clVld1dfbFFmQ0llMVhhNVUxRjVQc2p2SjdLazRDS2Fsakc0NjdEd2g1QlVkMEZVOXk4Z29GR1RGaU50eXBtQnJXZl82ODJDVndXX3BlUTJmYnM2VFdMQk9DVTN4ZW1JM0N0dWNMUjNwbkFMNUFXNV9ZbUU5NEpXT2gxS2RWbGVMZVcyZlpRdlRleVRrMUhiNEZtMjJMZFpMa2ZCa25hbWo2dGd6TGp2cUxjZG5TZXcxMEt5bU1GSDVQZVdaTWRHTnppUTNPR3JjNkZ1MV9BcEhMaUtzNlp2eU5JNlN6UVJ6UlZxMkdtWndmbXFhLThsZWFYRDhOVm04ZGF3VTdfTWZCZUNWN3FOQ1VqbTVpVmxkaFNnYzV3aWp1TFBhR0FpZDdiY0NEdW9Nd0FDSnJqTkdKQVRRN1BLektTNEJpV043ZWFTNVpVRnhMWUY1N3B1eUU3ZTlFZ1M4WUdFOUo5anNpYlJqY1VhMkNJUTBoMnVWaHpWdlVUT0ZpZlBxZWU0UnM1RUQ0cDVHVmR0R2FETnFLQnl0Z0Y0Z0hzRVNGQlUxclRYdVQxak1FN1AwdXdZUQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 13:28:00 GMT",
-        "discovered": "2026-09-23T13:34:56.689796+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "منتخب الناشئين يخوض مرانه الرئيسي قبل مواجهة كوريا الجنوبية FilGoal",
-        "player": "",
-        "content_hash": "18aca969b0d924660a7c5ce8e75d51cbf7cb908442bf99c7189cae17d2d68301",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4440,
-        "title": "بث مباشر .. شاهد مباراة العراق وعمان في كأس الخليج العربي \"خليجي 27\" - kooora.com",
-        "url": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxNdXRiOVBNTEJaODRUb2NIelNHdlczdjh0M2w0SVVFU2UxelNuMEtMM2dycVFXNEFJYlJuWTc1eW1kRGFqNDg4WlBfX3VNdVg0UnhlU1E1X0dCMUFtQmtfekM5bnhBX2t2b0ZhZWNSd3ExVW9GM0dUYVltRHlMb282ZFJaNU1Dd19JTGgzODVzaTI3QzE3bWRBdkVGLVFrWHRVb0cyb1Y4Q21Uc2h0UXo2MVE5UWpMMlFCOWhHbm00TzhRbkxqVEEtMVJFUkpweTViUnVqRlFEMl9GOGgyVW5SNDBTWTV3QjJUVnBmRm5mSk9ycEZwVmVxa3gzNnNtLW5qRjd1RnItckZXUjRLbXhBZGhDUi1RUk0xRWNKWWNfSEFoZXpZZnh0ek55MWZ6Z2labnNVNHF5Z0JZbDc0WGdJN2lrMlk0TFBZdDNBT1d1UzJHMkpmb2lyaDlQZGtBbGZkR0hMTVBIYW9pR24tRDJ4eGNlUzVjbUdOTDd2akc3U3BZUGVxTmFoRzQ2dUszbGZOVm52ZTZlSmJuU1pMT0NkZWI4TUJzX3h0ckFuV3VabVpZNDl4cGpZS25zcThfQ2lhZmdzOXJha0pkWVZRN1JrTEdYaFdiQ3FFVVQzb0lhdFdiWXI4alRLc0VwZzIyczFvenBVbHU3NHAyQW9QYkFqUy1ERGdQbW8wNks3MEdFMUo0aGk3OFR0V0xCNS1vY0ZiaV9iV3JNU2RpT1RNNVI3b2EtMWFuOW9kR2RvRTZjSE5pb1gzS1NSTk5fVFc4dlVCb3JKOFV2dzN1ZUF1?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 13:18:50 GMT",
-        "discovered": "2026-09-23T13:21:06.201640+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بث مباشر .. شاهد مباراة العراق وعمان في كأس الخليج العربي \"خليجي 27\" kooora.com",
-        "player": "",
-        "content_hash": "238e71db8ae228eaca94d164b55a8507572cdc07b2b21e4f23305a36e2a10fba",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1880,6 +1880,22 @@
         "section": "transfers"
       },
       {
+        "id": 4579,
+        "title": "توقيع عقد إعادة تأهيل أوتوستراد دمشق – نصيب مع شركة كويتية - aawsat.com",
+        "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxPYVMxZkVnRnVuT3VfYm1hcFFsRFl2OXlZT0xWWk9GVWpxY3htTk5kRWRZckNOSTNhVWdWcHhsR2h3NUl6ZXhMdXBEd1lNSlF1Tmo5RF9OVDV2Sk1ZUXRCLTlzdnhQd01CTC1hME1fNjNHaERHM1NvSGlDd0tVUDZRay16MWo0am5ZR0h6RGppU285YXJZTWlVc2RvWk1TREtiWV81U2E1Tldyb2w0NEQwZUVKMFF6T1d3VDlISDhTRUJ0WWRvRHBrYk9lSVktOEJjU0Z5TGtPQnRTWmtqejM2UFpXckMzb0VsbkNBdXdYVGtReTVaZXZHSUtzcnVWMjJCYnJIbmR2QndfSWxxZzlQS1MxODJqemJENEh1emwzRWwydlVLZ0FtQ2xDSnFXU2ZoaUJHcWdZOXN4ZlJOeTZQX0d0N0lqZlJmMVdKZmtZbGNfcUlFV0tkNE5CanRrNkhqbGJuTEZiSVVBNEtVbW9qLUt4S2tQdTM0NXM3aHZmUF9HZmZNOGJUdThVWlBBYUw1V183SDdiRVpLOWp6bEl1bHItdEVPTHJnc1N6cmVCMENhY0QzZlRxQ1RPOVA2aEdlLXl5YTRZYm9wNXJxeC1WcUR4djhFSjRsQncwcmo1a1dudjZIMk1LRkstNC02YlI5N3phY1BrbUwyanpfY0xsSkNUbFc4TUZscTVRV1NzejU2Z3Bkckp4SUtHb0oxX1laYTZub0xTaXVlM3BzU3o1OTF1RGJ1VWRNVUp5Ym96cjJfWjMwSnAyM2poaFN1U2RQbGlseWZpR3JfTmluT1NjQnFwV0RiRmFiYk00c1NrYlhOSEo2V0ptWE1ud1FrTkZNZUMtRWlfS0ZTTndqb1ZRYXpCb2luQXM?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 18:05:42 GMT",
+        "discovered": "2026-09-23T19:19:24.861784+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "توقيع عقد إعادة تأهيل أوتوستراد دمشق – نصيب مع شركة كويتية aawsat.com",
+        "player": "",
+        "content_hash": "965b8dd415ae1305b1ff328cc308773394e540b383eb55f063f5e83a7b185412",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 4192,
         "title": "هل يتحسن أداء الأخضر؟.. التشكيل المتوقع لمنتخب السعودية في افتتاح خليجي 27 - Kooora",
         "url": "https://news.google.com/rss/articles/CBMipAVBVV95cUxNb21Ud0ZIZ2UyNmlRbWQwajA4NVl5T2dBOTNJV2hfcF9OS0dtZW9mdXN3V2d4YXdURkRlSlZEdDhnQk1GUXY2VHJhMjIxZnlGLVhwTEdmeU1FMnNTaE94cm55cVQwbS1sRUpOaGl5dzdHb0xlLWdHU2dkeHFvb2pnbHhSNWlTRVZYbHdKRUJ4d0ZGaXhNZWFsMnU4WWZSNzFOSHdiSzhFM1Z4alREbV9KTzdhWERrTGtKaW5BOUllZnBBR0V3elloekNzX041WWlsUGs3bnlHZFZNZngzY1BidzhUZDZWeDNNTUQ0aHRobzdjX0pGelJibzFRVDBaV2lvbk1SYUltUGlXRUl4Znc4RGlNRUpjaE1ldVduM1BoMmN5UFZMUWJwMklCQWl6M3VSdEdmUktscVYxVXFLTUVtTml0dE4zbVNIS25LS1N0UnhNWTQ2WU9OSHBmZWJqQmZxdzkxdV9Qd2Nfc2FOSnpUM05RcE1rSGJhSERpX0ZZVXB1bVF3Ri0wZzk5RFYwSndKT2MwX0VWV0tiQzNoQXgydTFETTEtQnJ4RjkwSTlIMERyVUZCR0ltWFU5NkdzMFQ4Q0ZJTnhBTHVRemhQNGNmZGNVVXdHakZLS2l5bU0zdkZYOEhTWW9zWlUyb2VlS21LSUc4Q19kRWFWWEI3N0Q0eWNzQ1ZRRC1HOEstaFRiek9CS2dxZC1VZEtxRjZTWFkxLU9WQ3hJeW1QbWZhSUtwQUI1cDRVV0ZWTkdSeGhGZDNpOEJHUDJwUm90QWJMXzIxdnp1UnNzZmFOY1hqRVk4UUxPT0dxbVp1ZVNLa1lpSjlhVkNTY3ZiSC12MkNieHFYTHZNc0M2S0F0MnBWMWJMT2R5cGZ1MDlhNFJYT196bUFVYlli?oc=5",
@@ -2132,22 +2148,6 @@
         "summary": "روبيو: منفتحون على عقد لقاء مع الإيرانيين في الأمم المتحدة سكاي نيوز عربية",
         "player": "",
         "content_hash": "6ecf7f1ec9e3db56d6b51377b8c656dd16ee2c3858f7d150f321d079f2d5a658",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 4094,
-        "title": "مدرب الترجي في طريقه للرحيل - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQVlBVVUtXUGZlUzExU3laSERYbmxDTDJXdjdobEFrMzhUM3k1MHJ2UnFSM2JneWlpaGM2ZEl2X3hJQTdJaVM3Y0RhVEJJVGhMTmEwUUFJVGE0X2N5YmhPYjFHeHhoLXgxLUJZQ2cxdXVIUy1EcDZsVDNTWXJ6WmVsdzFGeGNySEM4ZGxxUE9aYjVCMmsxNW9QWU5iQ3hsTWprMVdUZWhtXzJQMjluZ3hWQXVlQlZXTTZHTEVraFlhQzBPMkt5VVM5TlFabHBwb3hRMXQ3alpKQnkzWTBFamI1aUwtaGRUOTdnLTBWXzhnRVBmRXJQUmtwZWNhRjhiQ3pxTWhTTm16LWM2YkFXbWNB0gGUAkFVX3lxTFBaSEFsd1dCSDY2WWI4cE1uRUc3bmZoNmFBeDBQeVdSZXUwTVIzbzlyTE5CNUVRTkViTFJkMG5zMnd0S1lzMjF6ZDFueno5MkZXUkg4STZtZnFjdWVHajQ3T3gxU1pHQWdoR1VXNEhWUmpra2d3ZVQxVTM2VFFjTy1JTHFVNlZXYWNVYWt0TVJnai0zLTZzNzhwVGdNZS13aTdNaGx5azIyYnlBdmt2N0h2eUJnUmxjQUxCMUFvVzM5dndVTTB5b1NnNFVxcHhzT1RUbkhQSTh2RVJ6MjAzekRvdE9acmFJaTZMbVNSekRpc09FenNIb2JKTTkxX2tZbEtpYjE1UmE1cklDOWpJZ1dvSzUyVg?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 11:03:00 GMT",
-        "discovered": "2026-09-22T11:20:13.175440+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "cc141348493cad00605b1e45ab5f52171675d3b74b6cdfd3526eb729ea7a9071",
         "sent": 0,
         "section": "transfers"
       }
