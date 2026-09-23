@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T21:08:26.315094+00:00",
+  "updated": "2026-09-23T21:23:43.018693+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -642,25 +642,25 @@
         "content_hash": "fb87d09757965ba5222a873b0f54a653cfb7d5deb9a8cfe17168879b6f63e101",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 4107,
-        "title": "وزارة التجهيز.. شبهة خروقات فعملية منح شواهد تصنيف الشركات والمقاولات والنيابة العامة دخلات على الخط - كود",
-        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPWTk5WFRSUmZsemFUUjVkNVNtX3VQbmFZOTZBRmg1aGhjOHplVjdseHlyVmEtWGhTaE1DaU5BOWlWX3cxQWdQbHJMZkhIZzg0WHJtdDhzdGgzRWVHNHdiV0RqTkhYV2VrYmNDaFc0RDNGd1AwSTNzQVlqY0RocXVWOXNWaU9MOFc4U3d4YVZQdXp1dy1uZzY5RFRBb2ZCaElMejRzdUxhUEFteGhmckp6b0s4RURIcXZBdlRNd0ZwSXhzMlVwQmNHRVFzclFKN0hnbmp4RjZMZEtkUld6UjNiLVFsNzZwUmF0aUN6alJrQzNSenhUQi0tT29wZkdROXRGUTRuNW1SbWwzLWhoaUduY1dJczlJcXZBNkt0bUxRLUctUVJwdDdpMmJQc0lPcnlUcW1kNnpqWmlwNnJ6cnNMX0NGbV9CSnFydkNV?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 12:06:29 GMT",
-        "discovered": "2026-09-22T12:27:39.817387+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "وزارة التجهيز.. شبهة خروقات فعملية منح شواهد تصنيف الشركات والمقاولات والنيابة العامة دخلات على الخط كود",
-        "player": "",
-        "content_hash": "9324f85cf00dd96ea4d8275a557728c3db30a337d4e408a1280170cc84ed0aef",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 4610,
+        "title": "مباراة الأهلي و الاتحاد المصراتي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOVmpLNkdLdUpvMUtpX0FCTlRGZjF6MWg4dEI2ekR2LVpublFZVG1qZmVPcUJDR2ZWekw0YlVFSG12blUzVXpHQUlSajZOaVE5NlhOQk91NHcwY1NqX05Tb1RJa2JxY0JVSHk4R1BqdV9YOHlGMU0zblhrYU5ZeUFGbWsxdDVHWVhTalpkODAybFAyRVlNWjVGUDFFeThqRUxpamVxM2duc1U0dU1ZVkNsTWJYZEZ0YkpiZzBkQ1p0dmZaN2V3MWRGdV9kcnc0c005enVIWWxDc0JTRGhOM1lGZjVicTRKTkYxQUNyN2o5a0dKLU1nc3FNWFk3NVBTQjZLNDVFNGFWMnVRNTFVWWQ0LVo3OElDRDNKSmFNeXdPZVZGcUYyZUhSak9HZXlvbjBvLXRlLUNZR1g1aGtzdGQ3ZDFtWEhycVk1YnY1X3pQcjBycDBmVWpJSzJjR2lSRTRqVGdfQzl5Y2E2aTdfdnFpWHQ5QnBJb2c5Mk9uaG5IbTNYQUE4OGtXMlF1ZnJ1Ni1ndTVrZVR4NUNXWWUxVGRpWGxyTQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 21:14:18 GMT",
+        "discovered": "2026-09-23T21:23:25.174819+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباراة الأهلي و الاتحاد المصراتي يلاكورة",
+        "player": "",
+        "content_hash": "bc4d04daff62550aeb3275196d6006574b74b4e1fd2fc1acf8b05ad17a565421",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4604,
         "title": "موعد مواجهة منتخب الناشئين ضد كوريا الجنوبية في دور الصداقة.. والقناة الناقلة والمعلق - FilGoal",
@@ -678,6 +678,22 @@
         "section": "sports"
       },
       {
+        "id": 4611,
+        "title": "مدرب السعودية: أزمة المونديال مازالت تلاحقنا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPaHhpY29nLWdHNklGaDZDUDAxV05MS3lJSXlqZFRmcFJrekNaZVBmdXJuOGlrSWp4T05JZkVfNnpDUUpiX3BReVh4YzN6dERkU3lLSUZ1WTdFNkloa0dfU0NRWGVaVDI0QU9Fcm05UEJEOHpGMGhESWpEZjlvcjNFWWtyMEpYblFycDFaRHo4b29KWXg5aGl1ejBjbXdFWWpoYUxyUmtXMmhlRktOLVBlS0FQeDZGMlRhYW9PWXI4TFRkMjdhTHNBZldFVVdmUXAtQ2t5dlZzTnlvQ3VseUtVYmlGem8zQjNRb2dWaUtLVzVaVFg5VC01NVpIbWlJLXpBckxHSXBDUGxjQlJXSE0yWGxHVmh2TkhLa0RON0NqVFpmd0NSRnJTQXZiUkFXQ0RzUFo5QkxfdWpoeXNzOGJZdzdkeHdZMXNUU05LWTZWRDRFMUJnWTVaVnBOekpURVBjT0Fmei1iSWtOajI1M3BrRkpKd25WQnp6TTZMT0N6M0t3R3pmRlVRUEVwNlNFY1ZMeUhWckFRMXZoQVFaNGh3MjFrMNIBqANBVV95cUxNaXBOeVdjSkZDRnBkUTVod01qbV8tcG1ZR3RDNGJ3R1RPejhOX2pYcGQtcTdjS3RENzM4RUVuYkFrVTR1WVpOemVTNnI0eEtSTmtER1dETFZfR21zSU5GV2FONG5UNDR4dzlPd2tYX2k0LThPNENFY21DSHgxXzgtZmpCRE1lX3JINlFzYTRiTVJGdkZ5M2xYN002V2dWdk1pczZMUFlZVXZUSVN3Q3lwdUZ3UGdUWXN4SWViR1huWmdVbE1iZkI1QllscmhWV3BoZm1NOVlzUkMzZmNKb2Y1R2tYdGdjQTc2dmp1NEtnUDl4T1hoaWlERG94WXlBM0RHb2w0dVUwMlBDcFpvcDU4cTdGOWtfNDc4bmV3ZkhXLWJzckw4V0wxYkNtU1BnTFVmeWRaQjhzdVgtTk5WSnptOURBa2lRM1ItMU1vUlpPVlhoWGdyZTNSWlUxOW00RjNwcWJSRzg5a0FmNXVWRjM1WTNHN1NDNVEzUmxpNEZXd2VVaXJBQk82MVJoNnNFUjRkeU8zSjg0Y1F0MWVOd21pYms5anZNeWNL?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 20:54:00 GMT",
+        "discovered": "2026-09-23T21:23:25.181990+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدرب السعودية: أزمة المونديال مازالت تلاحقنا يلاكورة",
+        "player": "",
+        "content_hash": "ee7a2332ed864c9186f46fc075c01ca2dd9343781e70ba6bb76bb19be4b06d39",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4606,
         "title": "موعد مباراة السعودية القادمة ضد عمان في كأس الخليج العربي خليجي 27 - 365Scores",
         "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQWHR6SEFITWMwOGppV3ZFcUd3bnlLWURSNkhUQWpoSFp3WjJjaWNhTVRiQ3hWa0tDMnZRcFpBd0J5clFFNmtuWWtMYmpiYjl0dGtheUNQSVVua1BsMThZY0xXVTdELTQxRlFpeFBOWDZQVm8xUmdRUWxIT0FlejhLaXZiNlVfdVBWaEpQY1RCX1pZSWd4eG41cmFHVGJxVkFLemJWR2IySjBiTjVOc0J0ZFhFN3JoaFNDcWl3V2F2TFVZX19mWVBKM2VYS2k3NHozQkpsRzZhTmtUWXVBTFhfNno2STNVb3NweXJBc2p4WE05YWlxanB2dTBIbDRVS2IyN3RwSTR2WlFaVFQ3SlpST08wUVhHeXpFSk5DZVVEV0tia245NExxd1otbnVySFMxVngzaXltOTBWVXdqUDJBYWJILTBxN2Q1WFFJTDlmQ1AwSGx2QW1uX3JESkxNbkF3U0E?oc=5",
@@ -690,6 +706,22 @@
         "summary": "موعد مباراة السعودية القادمة ضد عمان في كأس الخليج العربي خليجي 27 365Scores",
         "player": "",
         "content_hash": "46b2df9615f13d96784a24c2b2ed18d3090d0651e9b6eba775b61851fdfc18d3",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4608,
+        "title": "بسبب مشكلة مونديالية.. دونيس يهاجم لاعبي السعودية رغم هزيمة الكويت - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxNUGdhc3BoS21fQnp2RHd0TkJvOGdjVngzUVFxeVhsT0FMdTRTLU5YSVYyMVpQQmZaVEdCNTRlNnJ1M1BoQXJKRHhtOV92UlUxc25UZ3FaQXJEUXRFZVFRZmt4X3Ixb1EtYmphcU11NW9QcXVzMnFSdERLUDM4U2RROXdHU1FjR0RCNk56SUZlT2I3RU9leUM4R2tKYWdscGJIV2pOcVR0ZWhMM3JPR0pGQ1Vfb296TGtPSXFIV3JPUzZpZVN2Yi1jdmpkLUhjdW9rU1EzX05pNkNncjRWb0JIb0RCOXVPNUFVSldScTJDbWZvTFFkSzk5cnRqdGVZdjRjY0NzaUVJWElRQlV5b2ZxakNNYmdabVQ3aHpyWHdWY3dDMEpwN2hkZUNPSHJGS3JPY2kybmZvazdwMUFIRWF2QzV3c0plUmlGU1pCMlFiT3lEUXJuU0dBMWlDR2tMRi1Lb2o1bEFJZUs4aEtQRFQ5TUZqWFVQTDBrVVBpSUpSaDNfVFdQeDVnbUhPamJVQU80ZXVuTlItYW5vQUJVT01nWFVidkstZjFvaVZtUEZHRE9YREk5Ny1hcGlfazR0MExoZjZrNFR4QlFZamVHcmlUUWl1VFJZTDFFcXg4UFczWHBlajcxYkw4WVBUellyNk5RTGN2U0lZb2NUcEJZaERMcGFib1N3LUxqNnAzTzVqVFVwbE04cEl3SUFzd2hEUzJLbV83MGFSRUtQblZpb2V4QUNXcnpoZ295cFQ2WEQyOXJ3MGtneFdNYUVic0RKS2pjVDYybGNRcGJqWFY1eWlaTUIzcXFEdk9acWR1bWpwMXhUeDl1Mk1n?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 20:52:00 GMT",
+        "discovered": "2026-09-23T21:23:19.418314+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بسبب مشكلة مونديالية.. دونيس يهاجم لاعبي السعودية رغم هزيمة الكويت Kooora",
+        "player": "",
+        "content_hash": "0725b8bcd07e9176e8bfaaed994d1b109d70d7d21f482a215cecd93b095ffe6b",
         "sent": 0,
         "section": "sports"
       },
@@ -1412,54 +1444,6 @@
         "content_hash": "351ec600e43a842e9dd3f69a5224743d8fd5c5e3f3f490c89ea5d2467e4a4b69",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4599,
-        "title": "ماني يطلق مشروعاً زراعياً في السنغال باستثمارات 18 مليون يورو - الشرق رياضة",
-        "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxQdFBaVFJUMGpiWkdWdURNUUVPUlZTZDhMZ203SzZZbFZoWWpqSDVOdkNocW8wTUQyZ0dSUnQ2cE9jS1M1cEt1MHAyNDBFQzZxNFhoU0xXSUFRelp2UFItR2RraUtjb0Q3OGVLbThrUjFtZVNPY2JzQ19WZmJleFk4aFlzR0NJSk03M0dvVkpKQVZuVl9NUFBxMVlxeFdxanRBMVhmZ0NDOFY2NzVjM084OXJkNE5qd3NNV284WHB2TktpN3lIYjJvcDJhdWtiSmQ3Uko5d1pickdTSVZsQzNNMGRRalFycjU5SkVhN2xNLURzeGxQOC1TN1V6U1dhUWdqTGlPdU9RM1JVbVp5Z3R0N0FJbV9kNUt6RWFpaXNWOXcwWUZYcWlXX0lOeEhPM01GY0tSaC1GcG5mYU8tRDZJaUdmU3RzM2V3QzMzN1FTbGlIWHZVOHdmQzBIZHJMc3dDWXEzUjVkNFpxSTg0eWhfY3F6eUd5SDBGMkNGdDhvckRBaFNyQV9hajJDWmRJeDNRNk1ieFlOVnpHbGZaMG1BVUdXcGthNWF0bGRFaVZiT2s3dXF6RTlfdER0Nk5LVmRNQmhWYTdvTGdPdThLWFNnTlE3RXJCOVlwbFdaUmNwVHNCMExHV0RxUmpR?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 15:35:18 GMT",
-        "discovered": "2026-09-23T20:46:20.571956+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ماني يطلق مشروعاً زراعياً في السنغال باستثمارات 18 مليون يورو الشرق رياضة",
-        "player": "رياض",
-        "content_hash": "430e4779c81d494d6595eafc3c0528f49683ef4bac16a8eebd9dc492b227bf70",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4486,
-        "title": "سيناريو تكرر قبل 7 سنوات.. العراق يفتتح أهداف خليجي 27 بعد 6 دقائق - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxONmlrbkVkY2YzWWdQQmxmTkRQYkV2bmxFaXA5VVdaUWVSdmJSdWRxSjJGYms2R1gwMl9jT3JJSTFZUGpJZGg2Zkp4Q0ZTQ05oQkpaUU5IRW9XYkcxcVUwVGZ6T1FBZ3lzaGgxZkVoSmdHWUc5cUxEU1Zvbklkc0dkVEpxVzNRUjBHeWRVWS1LVm8wTnJQM2l1NV9ycXJwaFNDeUQta3NCaUUzc1hQMXdVd3FBekxKQ0l0LUw1TUN1bDczTWRQQU5UQU5iUEtaVGFSVFBXb1VLNGNjY3BRU0dTRXhyc1BRVzFQVlYycUEzRXBnVDB4bDNXZHltZ0VNUWx3Qm82bUZHalN6Z09RQzlLSzBKWURBUGpSNXlOZE5QTl96dUVveEVvSnc2SHhWMmoxRlpxdTRUSjBqTUVsZ1ROOENQNzhlajFQR0w1cEE5eXlsV3dWanRCdl9xcFhGUTZNNGp4ZTVYYmZuTHVSeE5FZjI4ZWFtMWFmeUZrTFp3VWxNR2hRVy1pV3VwT1VPRlhPYjV5OFlSREkySWlaT1drei1SVmRBWjQ1bVU5SnN5UkdubnZ0bG1hMWt6eGloQkE3WHBrbFczcHZlQXdrT0JOcUh3eVd6RC1SOEpzTU9HTUx6VURNeUxBcXVjUFJaTXpRR20xMFRSem9CcWlVOUxvd1B1UW01dXROX2NldlIyaDVkZ0lsblE4RWYxbVNDdl9xLXUxaGN0NHZGX1lTZTVHbVo4YVZYYWMwcU9FeFJaSW5rZ3AtSktTQ1c4YVlpdlZpdnY5OG9OaVE?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 15:24:08 GMT",
-        "discovered": "2026-09-23T15:29:15.754004+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "سيناريو تكرر قبل 7 سنوات.. العراق يفتتح أهداف خليجي 27 بعد 6 دقائق Kooora",
-        "player": "",
-        "content_hash": "da9658289d4a59e313b30cb6299014e224b5ddaab7e0d343af13a0655c4925fd",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4496,
-        "title": "قبل دخول عهد جديد مع نايكي.. منتخب ألمانيا يظهر بقميصه الأخير من أديداس - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxNUzJpRWFMWW5LTXZDUkpPOENaQTJ5NkJOV2JBLWFPNWNOTURrN3p2em9JX183RjltU0NmWUJpbmpNTV9xc0ZFbkNteW5jM1U2RnhEVjdrNnZnVEFyTzBITkJfVkx2OW5Da1ZpaXZBMzBsT1ZQOWdrVzd1SFlmUS1YcVFicnVwanFRM1g5c0tjRzA4RGhWdlVDb256aGNjRGR2U2VxblZvX3JiMUNhRDdiOE5WclJOY25UNFVJT2tJcy1uaVg0M0dDQWVVUFh5aDloZ1pYeXR2MktwM2I2SE1DbDR1azZGRjZUZnh3aFNhcmkxWHYzbk9zcUI4WW1CTGpvNmxSLVh3UG42bUU0eGFJWXlKeTdwV0xQZHRjdXBKUThiWHVJeWJVMVRRMHZvN01hZE5HQ0Z6Y0d0RGVuLTBma3hWaUZrWFpTSGhnWVpvMjlqNHNMS0xxbzJtQmFYd0xkbFpFOFFJXzFMZ2oweG9FVzFiaDhFLWFKRVVxTTFVQ1VEYUh0NEdBWDZnakw2dVFHQ2NjSEJRR2F5WFJrbXZrUElvd0ZKSUlxZlFtQnZRY1VfdWhxeEZwQVpyTlFDdnJFZk92aGszcmdhbThmek9HcW1ZOThfLWlHZVU0amZQb3lXVTBuTmNIWUNYeC0wbFNjRUJoLUJRWGQ0Uk80R0V4RHlTRGc5YW9uRkQ0MnFIcngyWWxwQTEycUl2cEc2VXgySkJtaVhJM3pKQdIBrwRBVV95cUxNTWZDMU5wbU9YVFUzSXB1UDhyN2swZEJ5NFlvQzI2cmkwLXBrNkFXSk5XVkpGVkZyc1hQUnRlNHdYcGR4c0hHMkRUaURSbnpobzJOMlJHSnQxVE5WVnl4YjJhaXFqbW5RQTlhQ0FfSjUxbDVvQVdsNnJFcnpCUUFfamdxYXpxSEpuWkx5aXY4TDF3dHgtbTBKVHc3WWNFRDQ0UEROeHNlaEdpRXE0cVVQeXhYYnc1N2N3N29SVXJvcmVkdzZUUFpxeW1naUJXdkpmaVdJUUFDOVZMU2dXYS01NU9jVzN1MVhUTUxYdV9WOTdKd1pSVWZESDFySUhZNGI2VF9DYmg5SkVIS0VJcHhHT1JrTUdLUDhFdjN2dEZqenNVcTczX1ZsNUktVWxKYlNFWG1NNnpNMF9QRVlQR1BlQ01FbEFDdnVKcG85WktMOVdlSHNjbVVGZWZDZ0w4Yll2OFpxT1VYemxsWV9RRzNSSHoxQWNSSzRYdE4yNW95dnRYaTVIWVV5eDYtYUFJdmUyS0s1TFpnaTFLV2ZOclNFMmlGVVdKTGRVMlcxUUZJcjZaSldyenhVVU5OMTZVVVRXZ2tsWHV4SmVDNUxITnVSVktLbkVjTGFwZnNBbV9PNFdnNzRTWVRDejQ0cW5yclB2RF9mdkNKZXlfQ0ZkaXFxbXo4eWxpR0RObERDRUs0VGpWa0lHZFJKd3FKZEc3Y3ZsbGw2el9pQ2xWU19uUDRv?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 15:24:00 GMT",
-        "discovered": "2026-09-23T15:44:27.717703+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "قبل دخول عهد جديد مع نايكي.. منتخب ألمانيا يظهر بقميصه الأخير من أديداس FilGoal",
-        "player": "",
-        "content_hash": "b09fc56f4a2a881c716ff6edf12cdf4377b5d9f2761e46d0b2582a488cb08047",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2180,6 +2164,22 @@
         "summary": "- واشنطن منفتحة على عقد لقاء مع طهران.. وتقارير عن مقترح إيراني لفتح مضيق هرمز Euronews.com",
         "player": "",
         "content_hash": "a2c33b8304e58f60fd89e5a0d11bad5f81130d94acca58eaece2e7aded38ec84",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4186,
+        "title": "روبيو: منفتحون على عقد لقاء مع الإيرانيين في الأمم المتحدة - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQdnFHZHhXVERRTl8xOGtJaXVxOTBhajRmdDlhMGZNZzdxYWlxTTloVUQzU0hyZjNZWW1yYllPMjl1TlhORU9Mb2NSLW5OZTQxRk5Kd09OX0R5ekNJYk1BRGNJd3NjT1NpN1hxUjNVZ1lwOEh0Q0RVaEpGUXM1TE4yRGI3TWtxNUh0RkN6WlhiUzRYYTFVdmRQLWVpMkd3b25JbUlDUThiZ1lVQ1QtU3IzOUp2Z1FBb25xMXk1UzhiUnlBVzFtNFYtMUVpMFoxMUl5RU4xMTA1a09vZkt5QmVJanRXeGsxSFJMZmxqUXhHU0tQR3pGdHlYQ19wWUZ4UGVXVWQyWEJwcUJKVU11MG5PbUtrcUlMbUNOVmg5WDFCTTF4Rk5NMS1jQXV4WF9FelhPM054TVlubnl0YjZvNllkZmZsVUJCLUwtSzVnUDVhUW01YWxMVTN6ODNWaW9oZzEzR3A2Q3d2MVgzdGhCZVhQcEtOY1pLR3NzbzQ3MTFWYjFEalJHRFdycHJwWkVsbnJxYVczRnMxekNNZFdUeXZnQzFnMDJoTEXSAawDQVVfeXFMTXFTNFpCRDdGYmdlbVJ4SXRtemktc0t0VDd4SVNhbzdsR1RlQVB4ZzVvcERpS1BrdzdZR1IzZGVqVWN5NWZyMHc1SXdfbjYxUTFwMmNPeGRKa3NkZHhLVEMwWXp3VkZjUHhoZjVLV09kMXR4MGNoMDZiMzlHc1dpV2ViNmJVZ1ZkZVRmcG56eE9xTzBpM3hzallNOEtEa3ZiYnJ5OUFPUTBiY2J4aXRHVGVxdV9TTUdVb3NlaUgyb19DMURZNHN1WENxRTZ6VXlGZGJzNEEtUUFJMnR2NGN4YTdZVlEtcmNIeHRCall3czZ3T0NwM0o0N19DU0hnYThhb3lHRnNLeXBuLUZWTkpUQy1GT1RKMU1KUlZqZGlOMWxZYXRuT2ZsMl9CaFFiYWRhdnV5RmhrcnVKclFRc2hud3BpTW85TG5MNnRSSEhNdGFIOVNYRXNyUGVXaUc2aWhsU182ZmxrVnpqWlF5ZW9uWURkbjhZSi1RYUxjYzFWN3VybTZEOE1ZMTZOZnNkMEhuMjRnZURTTGlyaEMtaU5WU3JiVG1qdkpXZ2dwb1U?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 11:35:54 GMT",
+        "discovered": "2026-09-22T16:45:14.333371+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "منفي",
+        "summary": "روبيو: منفتحون على عقد لقاء مع الإيرانيين في الأمم المتحدة سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "6ecf7f1ec9e3db56d6b51377b8c656dd16ee2c3858f7d150f321d079f2d5a658",
         "sent": 0,
         "section": "transfers"
       }
