@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-23T17:33:27.755877+00:00",
+  "updated": "2026-09-23T17:45:18.494101+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 4541,
+        "title": "البام يصف أحداث طنجة بـ«المؤامرة» ويدعم فتح بحث قضائي - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tUFYteHVXV2t1VlhmVTFveTlsblZJbTJYbjVzakN3UmprYmd1UmhyN3Jmc3ZZMVRIY2lNcWI2VUJOMXhCMjJncg?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 17:32:55 GMT",
+        "discovered": "2026-09-23T17:44:47.756177+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "البام يصف أحداث طنجة بـ«المؤامرة» ويدعم فتح بحث قضائي Febrayer",
+        "player": "",
+        "content_hash": "d85ee7747099803e70055ab74bfe3f4ab9ad8252c674a6d2c7c205e3f7b45029",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 4533,
         "title": "المغرب ينتخب.. برلمان أمام وعود ضخمة وصلاحيات محدودة - DW.com",
@@ -645,6 +661,54 @@
       }
     ],
     "sports": [
+      {
+        "id": 4543,
+        "title": "حدث غاب 14 عامًا.. عائلة أبو الشامات تكتب تاريخًا جديدًا في المنتخب السعودي - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMirgVBVV95cUxPMVZJZWxsbnFjTXlHbXhNb3gzU3hsc0RiSkl5YlNza3lFc29hYkZFUHdXcU1Eb0E1Mk1zbU94eEpPOGIycDhtYTZqX3p2Z2RkeDhwVmJrVV9EU2pmM083YVZ6S3Zfcmwyb0FTNFpwa3dkSDNVbWhrQWtDZGlBZXhDOG43NEVXb2x3U216MmZnSGZmTGNXQVhMOU05S1JBQ3Q3TFcycVRCajhlREFoS0ZsbWJkSEFzWkxmOHpLcXB5ZVhsZFRlYlhtY3RTZk5naElLeXFNWDRXNWNkd1o3V1I4S3YwdzJJYmhsOHp4bk00ZC1aWlh4YVJxSWZxeHJiMFRPSHBTLXVKVUtlZDNORnZzMm5hY1llY25zTEN3WWZlOTZmU3Y5eUxFWnR2YkFoSmgxMHlWdmZZUlBMTDR2X2FnWWRQb3FwcDNIZlZudFRkLVEyLS1WNXEyV19FdG50WGpvWHJSeUtRZzVxa1BvbzhUZ0p0aWh3TWJPZ0FZMGpNeEczUEg4aGRrSjhNM0NQTjZkRUlLdVhuWDFuRXl1dFAtVGpnRWVJNWNxTTZkRnMtU3VuQkQzeld0QjB3SHRJbTJPYkxLcVJXVFJSemI4VFdOSHRtaUJrZG52bUxkMGV2eXRwVjEwaGlLVnZldDYwcjZPQjhSVVJMUXduY1Y2ZFdLeGJOUEVMbmVSS1RLb0ZJcE9IdWZhRUtDbHIybGpEbmdZME5QMGtoMFhZdGFFdGhJU2h5VTFMVlI0cmR1WlNiQ1Vkdkd1Q1pwWS1ndnR1SS14ZmdzZGd6alhlNnB2V3FnMHFpSVI0N3E4NldEU284Qkh1R3p6Mm9jbkdkQXVqdFBIeHVLU18xaGtSemJCT1RzeVZpRUNmZF80ZS1XMWJyT1VISmxQOWJZRi1QWkh1dw?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 17:43:27 GMT",
+        "discovered": "2026-09-23T17:44:50.117217+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "حدث غاب 14 عامًا.. عائلة أبو الشامات تكتب تاريخًا جديدًا في المنتخب السعودي Kooora",
+        "player": "",
+        "content_hash": "6327afa65584e4a7a1f0d73d5832752078f8a299ebadb82059fa15ac5473cb12",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4545,
+        "title": "ساكا: نشعر بخيبة أمل بعد هزيمة إنجلترا أمام الأرجنتين بكأس العالم - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMioARBVV95cUxQVUJLVlNDZU1ORDVSa0xHdXRKSGFoaElwSFRWY2xueFcyTTVnczl6dEplUnFKZUxSNjYzXzAtdFI4WFRGZVA2LTZWTWxNMHJ4TTJyRUlfUndXUTZPeko3MFFqbzN1bDZiZzJkV2ZPaXlJLXN1VnFOQUtVRjdfaVJuZTRCTTVRRDhJcXdEZWN3MFpFVk9fTm5WT0FNWExVck5KMVYtNXBxeEw4aWpacFVJTDNCanV3ZWs0c3d1ODhfd0tXdklyZzA2STZlY2wtSXJRaTREQl9Yb2hpVl9GRWhvbEl2cFlRODhtWnlmYUhaTmhBM0J4MjVkU1NkcUpaWE5OcUJQaGV5Wi1PWDU2WU40RHgtUWVOczVQMHBiRE5JaHhPdFRacGlMVFdtQ2I3Ml9zdjFtcTRwVjZfejdxSkRQb0h1eGhaQXp0ajhKNE5fNGFoNGRXdW02ZElSY3M4WDU0OG4wSk9McU1rbG5jYS1YOVBBN29ndG1Qdkc4T2doTWZ5Q3B1Z1FOSHFGS0FsUVFxbXcyQ3J5N3B5LW04SlZCTm5rRXdGUmo5TjNlUURZaFk1aVROd3NqQTBpSDNfd1V5cmdhT3VGTDhmZklLVEtob3VHMFh2MUtNZWFiSVl2THE3ZVZBY1A5MXg0VWtVYmhXWGN3UDkyZXpPWkhPR2dNVlZ4cmJ6R05iTHlDN1Q5U0RVZE5BdEZtMGo3UjV1ZV9p0gGmBEFVX3lxTFB5ZWpKRzJUdC11Si1OZmpZdk8zSE02Zlk3RWFJQzQ1ZFd5VlkyQUk1XzBWNW8wN3BtMjhpVEJrZEw3X0VFQ1VfOS1pdUNtS0psRUJ6Mk1IdmRNdS11Q0VkV2JHeW9JNTRvcEljaFdDWEZuQ0FzcVBYXzNiVDFhbjltWVFTZXEzZS1aODVJa0tqRk16MmkyUnEzdms5ZmxpbUJfSFdybHdpM0phRVBiTXhrN1pHSEVxTnE1Ri1SdVpCTkJqVXBhSk9aWFMxdFRmdVMzZmtPaDZiZ3hOeExBNlh2NGM2VFNxRTVsOGlfM2pkXzdmSVNmaDlfNy1kcHdGQUhFaXRCS3IzOWRXQWZSTlJkWkZ5dTZRakpwaU1oNm9PaW8teXJCN1hNOGwtOUgtTU1nSUlhMEVrNkVWbENKM0VTS3NDa3VPanhuOTh3QWZEQWp5c01BaWtvR3lyeTRjRThnZkpaRjIyclJIQ1pQSmg5VTNyQ1BUY2FDQlRuSnhzZmw4SFdSeWZxVW9YdzFLNXJRRE1CTDc2THdsRWdKdkptWWdLNVBZQ2hDQ0k3QklsVGFmZVh4RlNzNmRPcG11SURTOW1jSTUyemJhOEh0R0ZOaHdPR2hnSGxXZGhVY3h1YUxMODRVY3FiLXNqVWQwTmFrbXlzNnRTVmwtNzBFOHZKclViMDJwYmVWRHhsenVUemFXYzVLVFRVQWE4NXFVQm9kWWl6dHc?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 17:36:00 GMT",
+        "discovered": "2026-09-23T17:44:56.899904+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ساكا: نشعر بخيبة أمل بعد هزيمة إنجلترا أمام الأرجنتين بكأس العالم يلاكورة",
+        "player": "",
+        "content_hash": "0cfca2f9c70a00d0144c884fef66126ec4cb26b6839a0481e011b5a5180d9516",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4542,
+        "title": "بالفيديو.. أيمن حسين: الأجواء السعودية والإصابات سبب التعادل مع عمان - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxNdlRnNFU0Sk9JZUlicWpHUkF5cEJuWnVBVTBFc2FWbURGVWMwVEFDUk9xRTY0LWY3aEFEbGJGQTdwdDBNQkg5bnVhWjZjUTdDbkUxa1A2UnhvN0NjRXFHY193RXR4b3E5QkQxakM4Rm05MFhYMUNSQmJ1Yng2NldKQjVmNzRRUDg1MWF3X045NklvTXk3aFBiSmVkSnlORkJwNGI1d1JWX1pzMS13WHh0Y3dDbDdGNWpTeXRWNVFGa3FERWRyRFB0YU44WXR6emVzMktjRTVSRkFQNWRVYktZblRTMFRUTzR2LXlBcmVfZ2JKVVd4REdrTk4tWjNha1BsVmdTNEpTcUoweXYxR19pdjc1dmpScWpXSkd4a0s2eEhxMXdna21EVlVXUXMyS2l3QXh1NXZraGtHVGdyc0xVdld3UTN4Vy1WeWRqek1hMTR3aVN0WmhDSlZydGVpYU1XaTNSdG5JN0Q4X3V1bEVxb3hoVnJFQldtSE5KZWtSX1hUUEhza2lhVVlUckJmTUFWMDZjbVpWV2tKQUg1QWJvMWYxUzhQS1hERkItUUNERnkzUGVvaXhEVUp0QTN6NFlMMWV1dUNIUHR0ck1WQmZEOWFwQzh5cDR6NWVUQW5ucFVtQXpYNzA5R0FSTEhCTWFCRWttVUVsLVZ4SmRidm0wd0RMeWtQTzZUM0c0ZlAwNk1RRmN1VHN0OHVBRDBVakNKNEtqTjZhRFM0TzNtdExpbGZGMlJNOFdqTzlkYUlFd1JYbG8zS0pQYkw4X1JyS0tWVUxvMF9kbE00LS1hcXhKR3FKWmZ1bjdQVV9CcWhqOGlMMDFnNk5PX0dWM3hUM0tlNEZuVlJXNloyNjBlX3dRWS1lOEl1UVU?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 17:32:54 GMT",
+        "discovered": "2026-09-23T17:44:50.098603+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بالفيديو.. أيمن حسين: الأجواء السعودية والإصابات سبب التعادل مع عمان Kooora",
+        "player": "",
+        "content_hash": "eee8a418e90fbf601e3256e5fbb248a9d8cf0db588a4f57e997955de12af5cc6",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4531,
         "title": "«خليجي 27»: التعادل الإيجابي يحسم مواجهة عمان والعراق - الشرق الأوسط",
@@ -1396,54 +1460,6 @@
         "content_hash": "fda967ea7f181815358793083813c4d829c53fb7ea9ed1d11133d84d77ee93ff",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4416,
-        "title": "أمام أنظار العميد.. هدف وحيد يفصل صلاح عن معادلة رقم حسام حسن - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPN09hS0Uwbmk5a094cGhzRkpSZDlRTmZWSThGZGE4T1E3blpZV29DVFJJYVJmQUt1bmZSWk81eHRWdkZydzNraGhyQmRVNU5vSzl1d2c2dEZQUGlfRkt0eWVJaVZfS004NHRic0xYQlc2THdNLXRyTUR5VlFfSkpYWkgxS0VaWmVQdHBCTTgwNTc1T2RoZ0x3bGQwWWQ0OS1uYmZnOFVzSEV2Yk1XR3VqZ1E4dk5td0toUEVhMGYzOXVYVFVPdk93WWNSY3JkMFJGWUFvUFZ6U3VUQ01ZaTdGbEd2VFZPLWFKeDdkLWp0anhJbXpvOXdBb0IybzdHSVhsWlUxT0N5UTZxNDhueEgtSVBtRXdfUHUtRHRacVNod0lsM09jeEhhNi1BU3FXUnBLRzFVSi1aRmpud2dTQVJTVHlxLThDdVRCMnZLdkFjSXdHbmdmUmxjUmlqRGFLbzVsejNvakdQRFZqYUlyTkEtZzVpcVU4V3M2VTMwQ1FuZHRPYng1cXJiX3ZIdWxCdlZHZk1vS05rN2tSTlVJblFaX2ZsLWtTdW1iZXhVS2N0Sm1rUUFRdkcwMmRUNWRiN1JGNHRBcWJ3c2oydUxiRDVILWU2OGM5OFJycGNXWS1uZW1IR0Z2RThEZ0J6RUhuRGo2ZnpTV2ZpdGzSAf4DQVVfeXFMTkJVc0xwMEZieS1rbXhuSDNfODBxZV9Sd0xhNGo0VUZ2M044Z1JOT3VObm44Ulc1Y2pyUjhUSzhHMHkzZFBkWXRIb2dFckV6VXI4enlUbE1WUlNUczBYVXZ3OGRJUUtGYmstZ0YzM1lzLWdWT1NKRllYX0NYZjRPS196cGdUVjA5WFVnczFWLV9YQzNvN1dzTjZvLWd0am1FdS1ScU8yclpWNDZZWFNyd0lsSFVraEtSRjR0a2Y1RmpXZ2dKelEzc2txN1oyWkwtLXNJejVEY1puWTRXN051RFRiWS00VWx3OTZuSDlleV9PV0pWQWkyYmhheG5GRzZnMFl2S3RDeUFZRHBUSkdzdkxhZVd6WVNBWWktVUVnNnItZDdqT0I4Mlc1RlRzNnJJRWdTWXdhZnJCWDRYQ3hjbjVYUzAyTzJqZGhhV1FOejBjY09VOGMyVElSQkRFVjRnU3Y2QnRkSnJmRExBME05enNyWC1xU0ZndnJBRWZ1REVBR3AtdEJIT1pQSGhNTWZNRXVXLXpBbmMzNGQzekRISHV3WE1ISlhBY1ZEaEp2blNVS3B5cUJpS2NsZ2lMMEhwN1VSMkJYVUMzSjhlZHRvUTExU3paWVhhZ0h0LVdmUi1Bd3EtLTViclVHbGhFZlhjY3Ztd0ZlelhLUWd0aGpn?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 11:50:00 GMT",
-        "discovered": "2026-09-23T11:56:08.165609+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أمام أنظار العميد.. هدف وحيد يفصل صلاح عن معادلة رقم حسام حسن يلاكورة",
-        "player": "",
-        "content_hash": "abe1056ca466a5764d89e9eb685681bba2716d35dc6dd921c01d172405d979c6",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4414,
-        "title": "غزل المحلة يخوض 5 وديات خلال التوقف الدولي استعدادًا لاستئناف الدوري - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxNRDAxaklRTzhVbHZBN2tPekQwZWNuMDFNNWMyT1Y0ZGxSMU5HdDdxTENoTjRKWktHbjg2Skk0emU1VS1wYlMwSTI2WGdVUjBISktBU2oycENSNEhWOHFEYVpkeGdiWTlUT2dXTFltMFZrTkVEVlhpSEQtdGRfbm5SM1lpVUhRaERQRkx1NGlNQ3A4LUxZc2RLbFBhT1JQc0pfbWlGYkFHel91SWJLZDVGSWdra2tuNWhLRU5KRm9rMnhXMDhEM1ozbXBlYmhMRlQtSFM0QzlKMjB5aE05YUtQY1ZnMXRKQ3N4Y3BrQVd6UndIUnJRMkFuUzczM2NJMFY2MXJOd2hMSUhJYjQ3Z0FnNVRTVy10QzRSczV0NDVZdDJFT1F0UmtDZTcwVkNRdGh6eV81ejJMT29rMkZsb2hyZkkxNEx1OURNVDN2OGg3ejU5RmdYM2kxek9hMDdmVUNrUjFOUWJlTHRlMm1JdElnRXNUcUkxVERDRFhJaUZBUEFjMmlJSUFpdDNqNmpNYUxEdi1pRlVUSVFpYk4wRkVLeFdlSGJINlcyaVdfUGxPRXlFbXpxSzFCQjZJS1RMQ1Z0bWdsMWRrMDRJQ2JzUDhkWGJVQXdBRlE0X3FUM1hKZEpnZFMyNHZwSU5UTTVYX29PczNlbm0yNjlkMnJ1SHk4UjZIUFJGeDFKajJsanZEcTV5M0NBdjgxaHRDT0taOEZPNnFSMVZ3dDc4WHJ5clZrX2FYT0JGVDZMdnE00gHABEFVX3lxTE1hWHMwcEprVEU1ZHd4UWtkQVBnZV93TUh5VzJ4R09FMGUwcENpZUNHbU1Ed25nZHVGQjVSZ0hGQVN3NzBIaFk2RE9UOWE2UXJEelRmYjZlbDlEUkVZbzVtb1ZpZGV2cEl1bFgwZWVYbWVMX3JEQkk3MWk1am5sbWdLT2JYZ243RzRta0pPNGZrY3pISGQxZFd1UjllSjl0UVpXMnJFNFhTUVJ2TEE1OVFmVG9ZVk40dDVWLXVmZGRXaTVkX2oyaDc0aUpfUHFrRHRaS3Axb2NibnRiSHEyTC10QjcyZlBPSmZJYXNpdE13ejIzcEFPRng2SlZjc2xFMkhGVkQ3X1Zoa1NHU0hqLW5MOS1KZ3J4cGMyNG0taGYxMXpSV1IzWTAxemM4Qmt6RjUybEVtLUM1QXZIOHpJNTRQcnhfQzc0cXk1OVhzVjNWMnM0d0dWNjlsTkhBVm5rd1FzUEFlajlqWWIxNFYyd3pPaGwzYWRWTUU0cFJUVlZta3N1N3FxWTF3VlZJcHRPTGIxcjVDbk5CcWtCX29tWTR3cEJPNjZ0TTVIcm1mc3pybENCVWpLUVFrOTFkOHJxWTl1ZnZpNGlybVJMMl9aNXIyN3U4b1hvNkdXWjQ1dXVuTTlkMWF4X2pJcFp3U2lUN3RIVldxb2ZnR2RaQWNQdEFERWZ3MUZBNHQ2V3dpeTI5YTJUeDcwcTRZWE1OT1BKNUdoYzhzOTJWLWRYYnQtUWo4UFB3anBGM3JLQXB2cnU2MQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 11:41:00 GMT",
-        "discovered": "2026-09-23T11:46:18.050714+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "غزل المحلة يخوض 5 وديات خلال التوقف الدولي استعدادًا لاستئناف الدوري يلاكورة",
-        "player": "",
-        "content_hash": "ba30ca79c9680c9aac540fd33d153e294956a924cddd0fdf20597ee3aaa5d699",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4430,
-        "title": "صدمة لمبابي ويامال قبل الكرة الذهبية.. كين يكتسح الترشيحات بقوة - الشرق رياضة",
-        "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxQZ2VfRVNFMXZYajNYczc4X0tuQkRQVHlQRDhzSURocVhzV2I2NWt5MWk1elMxNTdleHBpMlBucDNVUjdLdXJ5R3ZXMEw0NWJtbDhFblhLdDNnanpxNWFDMGVIYUxDLTVTVjA4VE96aDNPTlJ3amRtVm5GV0N0OC01NXZUa0lxa1U4RnhsY2NlR0tHeHNDUDNhTXh6cWloOUluQnRLSDNSVTB2bmdLbjR1dFJja2p0SFlnem5Zc19NQ2Zuekx1WEx6MkIzMGhOcTMta1RuWmdWM3NZaUI0YVdGYWdxRjZiU1JnRkEyTTM0ZVNLMm9mQmc3N0dkMjctSWp0MTVYeUxlanRVemRTQXZCbEZONW92enpjU2lXcTRSS2EyLXl0cjF5eFZWQWNFU2huQlFuMkNtWjdhcm9FTFhNY0dxUnhCWEFVTUg3N2l4M3A2dWxPWHhRUjNLR0hPcjlXcnk5VF9mckt6OGlwYXpOLTZDaXE1enRwaXZxYlFyNzBFSUtyWmVhWnp5TUtGejlraTRzMlFJVVZmZlA5MFJrSDZ4empHaW5oS0MtbWRJNWtOWnlXaFo2eGpmcE55dUg5TmI0UUdVTDMxQXVodmFvS2FhOTZVQkJkZnY1VmNHMVF2LVFCbXc?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 11:38:40 GMT",
-        "discovered": "2026-09-23T12:50:36.790659+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "صدمة لمبابي ويامال قبل الكرة الذهبية.. كين يكتسح الترشيحات بقوة الشرق رياضة",
-        "player": "رياض",
-        "content_hash": "a69886ba473d030c4689f099140df110ce6b1e58effb2330a47a64f03d2c11e9",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2116,22 +2132,6 @@
         "summary": "بعد أكثر من عقدين على \"الكوتا\".. ماذا تحقق للمرأة المغربية؟",
         "player": "",
         "content_hash": "b2c58d4539032d2509eebd24ac83168642c0eb13de53ff4992d081a17061a4be",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 4051,
-        "title": "كأس الخليج 27: السعودية لإنهاء العقدة، وقطر والإمارات لرد الاعتبار، وطموح يمني رغم الحرب - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GTWVTZkhMUG5QNWVUOGVKWFFpVUVOclJXUUtGR0tmVW92YUdqaThFckk4bGY2ZEtRdUJvcXpnWEZZc2taZ25wYVY0UnNNQ25SUGo3Vm1GRlJrdVRDWnfSAWNBVV95cUxOdDBvTWlQNndFLVVnVnhjOE0xTkRkNEJaaDZ2U2pkNjI3azZjUWVETEFSRng1ekgxZFFpSHBXOUZUVXI0WHhBRFlNeHlFTDVDTjFzeFhRdGJMbW1CQ2ljMnBwR2M?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Tue, 22 Sep 2026 07:05:42 GMT",
-        "discovered": "2026-09-22T07:46:39.000082+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "كأس الخليج 27: السعودية لإنهاء العقدة، وقطر والإمارات لرد الاعتبار، وطموح يمني رغم الحرب BBC",
-        "player": "",
-        "content_hash": "5b6eb747e4e821c750604cd3b2a12b37058b9ef73373e15677101ca10ac3609b",
         "sent": 0,
         "section": "transfers"
       }
