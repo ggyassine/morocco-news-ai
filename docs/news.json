@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T11:19:11.820889+00:00",
+  "updated": "2026-09-23T11:33:08.246341+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -624,22 +624,6 @@
         "summary": "توظيف الذكاء الاصطناعي يفتح الأسواق الأوروبية أمام حلول مغربية مبتكرة Hespress",
         "player": "",
         "content_hash": "42580ad971c6338ea889eef55ef66fc90b2b4d6914e02251ba64d33b6afcf7d4",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 4018,
-        "title": "المغاربة يستعيدون توقيت غرينيتش.. نقابات تحذر من \"ساعات إضافية مقنعة\" - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNWVhoN2huNGRvSGh1c0JtX3hyaEVJVVZBNmxYWkhpQXRyY1hQYVdtN19Hak4yaVZ4bnBuMS1JLVNTZ0xJN3lwZDBsVG15bGlaOVpRQ29pb2FlV0doWE9SNEJxY2Y0M1dtbFVsOExuanlLUnZEa1NKN3lNN2dZXzZOVFd6a1RqZHUzQXlybHVzcTJzZnpINXl5UkljYjFxSjZsWE1zMWFNaF9Sb3RFZV9ucU1kWlU0M3BWby1ZQU5YaXlldzk2SzNCaXhaMDhjUEdTQTF5YW5QOHFDaVhzRUJsRlFGbm44a1dHbWpPdDlJbW1tMTNsOFJOczV6MnJtTnZHU3VxMjQtSVRzaXNrU0RjZzE5eWlsRHNDTjNHVk9pMlMxVmU2RHNDM2UzYTJCUUlvNDdsQ0psaE9iaC1DSENUNHlzNkNGNTZ1ZVQzVjFBQmlBZnBT?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Mon, 21 Sep 2026 16:08:11 GMT",
-        "discovered": "2026-09-22T04:33:05.085324+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "المغاربة يستعيدون توقيت غرينيتش.. نقابات تحذر من \"ساعات إضافية مقنعة\" Hespress",
-        "player": "",
-        "content_hash": "1770b1639de3eaee62cc4d85cc1bc70ff73f449f42429be559ce6b115c4a3f31",
         "sent": 0,
         "section": "morocco"
       }
@@ -1447,6 +1431,22 @@
       }
     ],
     "transfers": [
+      {
+        "id": 4412,
+        "title": "لاعبو منتخب مصر يحتفلون بحسام وإبراهيم حسن بعد تجديد التعاقد (صور) - yallakora.com",
+        "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxOOVFrX243MS12dUtWcnNNeDVrMnRwS1ZXdkYyU1dYenh0cy0tb0xQckRDeGNsWmN2ZzZQZXBSVXoyM0twbWVuaGh5UE1TQTZMOVQzWXo0N2RMREpLSExZeWhOX2NwZjdPVWhmRmtoRkVQdmVjVWc2WE1lNTJKOUdyWXBMOEQ5SWU2V2NGNURxaDlwZk5mYldwN2JFZV84ajNnTElGanBpUnVVdl9DRENTZ3d3MFl4Qk5UU3lnaXZyWVhhblpjWmFJVnZIdklEMWlKMm03dFZsZ0hCM3NLcm9zTklMMkV1ZzUzMzhQLURHWlBoNElwd3Z6QVpaN0Vsdy1DZ0NBeHJoS3VrS0s2a3N4MkdycHJXVncyNExOTVdPOTFEWE0xVWNGbjZYRV9ILXVydmZqelR5bDFSS3h5LVA3aU1UcklnX291UVk5WW5IS0Fyck55SlpQZjEtak9qVHZwWl9QekcxZUczelVJRkhGNmpIUDRoWHlBUHFUcXRJd19TazY2MEs2ckhlY1JMVkdkQ1pYTm5GTnNDa1ZNYUU3dWZoT1pKVW1zQldMVzllU0xSLUNDSTdOdzl1X05YdFE5R2tFSl80aXVqWnhFRzRMeTBJRm45dzJneGdnNElHOHU1c2duYlFNRVpndmZOU0xNYmJHUnliSVl6UDB2TmYwWWF6UnJxY3FnZnkxS1pGb1g?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 11:03:00 GMT",
+        "discovered": "2026-09-23T11:32:52.081323+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "تجديد",
+        "summary": "لاعبو منتخب مصر يحتفلون بحسام وإبراهيم حسن بعد تجديد التعاقد (صور) yallakora.com",
+        "player": "",
+        "content_hash": "998f1fb6385ff0b9228a4db0656aa8f16cdfd2a8b71efed9de99764057c34383",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 4405,
         "title": "تقرير: مانشستر يونايتد يستهدف ضم كوندي - FilGoal",
