@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T04:03:43.493411+00:00",
+  "updated": "2026-09-23T04:21:35.671071+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -96,6 +96,22 @@
         "summary": "يستحق الانتباه المغرب وإسرائيل، ومرحلة جديدة في العلاقات الدبلوماسية BBC",
         "player": "",
         "content_hash": "036baecd0e4b4e6a781c92097d98d000fcd5b79902df1188b00a1b302c062346",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 4322,
+        "title": "من معسكر مصر إلى قائمة المغرب.. وهيب العنتري يحسم وجهته الدولية - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxORmNSQjlQMWk2ZnBwa3Z3TGQyWUo0aU9nUm1mOG1QZ2ZGQUxJcE1BU2ljTXNoUE9SaDFLTmJncVFMc3NTQmJPVGJfdmdTcnlYVkxEM1Z1UEJxNDNNSDdaNmJ0dURqREIyUmZSeE9DeWpFVUFkMHlqUXZSdUFJeDZUNG9ldktRV3FtbDlWajM5S3NPblozR1B1cUVHRnJJYTdMQnZZTTlxSkJXbHh3aU9FSGU1QXdlUTlwOXhXNjFxbV85Rl8xTU96aG9GR0Y0UGpCT3J0R21FZG14R3BHVFJVWUVseTlVZmc3Y3RTczVyQlR1YkRDb2Nkc2RfcEZGZ3hJSDFJY2hsejd5aTBSaHhOblhyZ0FpbnBNN2N4djdneTY4S21USkk4RlRR0gGvAkFVX3lxTE03WUxiZGNucEMtNk82ckdBNjRONDM5Y2FSWUtUVkVfcWlZcGZjV3RIeWFGNW4yQ3dvbG0tSWpEY1ozRjZFMVluZWdIVXZMaURxNENtLW5yUFlxR1pUbUtrRDByM0ZBMjIzX0gyTG9aVXBmYkt1ZXZFYlBvTXdHcWMzQ0VFWE5YWnVsdmRzNTN3Q3Y4MGFDZmNDVFpOYXZibXRDS2ZWcGJUaUtFSnhJOUJVM1VyMmctemdsSGZCU1lUN0pxUV9HdUN2ZFBpbVFmYlo1QjRfSzA4WnhuWEQ4dWxOOS05MVhURGdTR21qVWxWajEyMnQwYlFpRlp6TjBRWUdvVHdBMVVxcDJGc0ZnQ0lIcFIwNEs5eWhKRzVRV1djTExobER3WmtuN1ZVeU44dw?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 15:08:19 GMT",
+        "discovered": "2026-09-23T04:21:27.686107+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "من معسكر مصر إلى قائمة المغرب.. وهيب العنتري يحسم وجهته الدولية الجزيرة نت",
+        "player": "",
+        "content_hash": "a4b0665c365632d290222754815eeeca2c386b731ee07ba44007cf19f656310a",
         "sent": 0,
         "section": "morocco"
       },
@@ -2392,22 +2408,6 @@
         "summary": "أزمة الوقود تذكّر العراقيين بأيام سقوط صدام… و«العصائب» تلوّح باستجواب وزير النفط القدس العربي",
         "player": "",
         "content_hash": "a294654bc8fa174f6fefd3212317988dc827daa2e6849878a437a45184ecc9f9",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 4239,
-        "title": "فصائل فلسطينية تبحث الانتخابات وتتفق على إنهاء الانقسام وتفعيل منظمة التحرير - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPYkFLTmVvTzdjemNHc0pPU3dFa2wyZmttTUxVRnJ3YTc4blhZdGpZWGhiSGI0OWNTR2VLRV82bl9nZUFNM3NmSThtTTBQZ21FTWp6ZFBEVUpWd2RJOWtBeS1uRGt5bE1udzV6d1BqeTdRYUF2LTFlaUk0U2hfTVBTTzdEN29vTVFDTHNCMGJudzN3MTBqeGVtRFVYQjV3b0N6WGxOQnNZcDBZLVpoQ202dDItVGVJUlRZN0JYdHVpZms1aTdzNUNwRkpUaUowXzBRVV8xekZFMmZHQnR4N3BrXzFFcWtKclFpQk5BQzMtei1TWngzd0h5M0lyMFVSUHRrZFdPV3E5Z05KbGFQTHpTU0FWUXA1bU1seGUzeE55c3N1NTFYN3VHYkVPVkZnbnJkQVptdXMtNjVRa3hsc2ZCSUlXOEc?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 14:25:49 GMT",
-        "discovered": "2026-09-22T20:19:20.299544+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "فصائل فلسطينية تبحث الانتخابات وتتفق على إنهاء الانقسام وتفعيل منظمة التحرير القدس العربي",
-        "player": "",
-        "content_hash": "a75188b2bf53c745187d8b9f64b6250c99e94d99790d4111ab6edb210d41cee7",
         "sent": 0,
         "section": "world_arabic"
       }
