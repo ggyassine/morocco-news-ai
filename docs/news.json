@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T17:20:40.697578+00:00",
+  "updated": "2026-09-23T17:33:27.755877+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -176,6 +176,22 @@
         "summary": "الانتخابات التشريعية 2026.. نسبة المشاركة الوطنية بلغت 4.23% إلى حدود العاشرة صباحاً Febrayer",
         "player": "",
         "content_hash": "de420c80ae81e2d4c0286c4f6a6cb4d658767ef0806ae4fad93bb2fda2609591",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 4535,
+        "title": "توقيف مراهق بمراكش لتعريضه حياة المواطنين للخطر بسبب السياقة الاستعراضية - ar.le360.ma",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uNkVNaXprZ0wta2xkTDE5U3R5VGwzSERHWWVrMmhhRDFYWEtHOXZhVHZtNEkySTU5WHBWUVZGVXR4UUNxa1NWVWZBckhBM0pJUy1MZmZvR3hHR3k4T2RRbDkyZ2g1dw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 11:23:58 GMT",
+        "discovered": "2026-09-23T17:33:00.077531+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "توقيف مراهق بمراكش لتعريضه حياة المواطنين للخطر بسبب السياقة الاستعراضية ar.le360.ma",
+        "player": "",
+        "content_hash": "068b85c83ee76979d4915b1584068e94bc851414e4b2ffafbe495f9a9e9e7968",
         "sent": 0,
         "section": "morocco"
       },
@@ -934,6 +950,22 @@
         "section": "sports"
       },
       {
+        "id": 4538,
+        "title": "بعد بيع بيزيرا.. خبر في الجول - الزمالك يصرف مستحقات اللاعبين المتأخرة ومكافأة الدوري - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOTS0zQVNfNGY3bFBwOUNldWZ5NWtpMWU4SzRxVzFpbDVpYll5Vm9zbjJWN3JBOHJxTzI1STlYcVBCZkZaSGJMZ0lnbE40TVk40gGPBUFVX3lxTE93U3F0cTNIbEdiODU1SS1wSEViWkhFekp5ajBmSGRmVjRUZ2NJZ3N0cmRGcXVTVWNBaEF6ZXdxZmRfc01wbW1FenlGOG5sa2tZZ0lVM3MwcWVGWmFYQTNGN2UtZDJPcXI2dG92U1p4NWY3LTlTcVE1Y3hSYk9Xc0pLTzR3MU5PYmsxYlRNTGhib0lrSkdKZlN3TWNRMWNxX0pLV3dKQWo0LVA1ZHByV3ZYZDExODZPdEpFZFpxd2pCTGdLT19GZDRhZDlBamh0OFhhZ3JzR3R5YzNpWmRvbGtETGRkMW1GLXVZUUdWSGxfeUVvU0hTY1J4SUdpUU1KampUQWNkRTR0bm9PMUJYRXdNWUY3ejRmUkZtQ19oV1FzV2I2RGlIT1dnaFV3eHkwZDAzaWFSRm5PeFJuS0U5Z3M3Nng4c3Y0OWpEbEJxSllxVUpkZHB5SFJiY0tJT1JwMFRERTVvZDNOSzIzRFJ4NjU0VU1QeEE4dmNVellfVWF5UVR6MkoxbnRQWFFURHFqaUdwX3ZZQnJ4RFd3aE02a1JFaHowTndndUxxclpBZDVwOVBWTjN6NUlzTU81QTZNYktxLW82N08tUFJ5RS1BcmYzN3d5VFRrOGFqS3dFd2E5M0FrWi1XWXpVODNGZlNHb0N4Wl9Dcm5SU3dNTVh4TVdUSUc3cDdFcFBPNFpWc1hkVnJqZW11dVczc0R0SlphWTVVaWoyS1l0N0ZmUDV0cnk5di1XOWtDQ3UyS2E5azJncHplaTRKdm00Z2wtLTNSOHNSZXgtalY5bXJrSFMzSS1DZDcxZjc5M1JKeWFwTlhLVDFsRkFCUzJXUXZUOFVJMW8yOWUzRzRyeW9iem9GMlU?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 15:22:00 GMT",
+        "discovered": "2026-09-23T17:33:12.704157+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بعد بيع بيزيرا.. خبر في الجول - الزمالك يصرف مستحقات اللاعبين المتأخرة ومكافأة الدوري FilGoal",
+        "player": "",
+        "content_hash": "0a88210ff00fd627f57c75f9592fbfbd1f9e51cab64edb111a30ba08617a63f4",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4495,
         "title": "هدف من 24 تسديدة.. فينيسيوس يفقد بريقه مع ريال مدريد (تحليل رقمي) - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNanR0cDRUSDNfZHBSeFBtRE1CY2EyY3Y2VjFhLUdNMVBleUlJWEh1eHBPTGVnbEdZRk1LQUItY1BfZEw2WWhlMHBIeEpnU2tDZWIxVnR1NmxOTkY2blA5NW5SanpTdUxBR3pUZHloSzNzODh4OXhyR0xhZ0tBenJDR0RtM09YLU1ESE42OUh5Y0R3V01LckhCQXhQWVpzcnFjSUlOdURpUDZyYVpIcm9DY0xwekM3MFZfR3NWbldQMFRlWVEyWEhtSW1ySVJCVjBhcGFoTFNQWjBiY2s0SV9qRVp6LTlISXItZjVBWGtFVmoxQnVHMDlJUG12Mk9sb2hRVU5mZG5VQmdGS1lFdzN1bk9jZVoxbHVORUFQcFV5eFlFRTlUc0dOOVVOVGRuZHlTYVprVFNJMmZ2TVVyd3dRQTZ3RVdMbjgtTUhOZVBxbmxPbW1oaENYME9uUVZ5eVVseU9FSGdSQ0JHVm9yQXRmNFJsTEd4clRTb1pRQUxudFNhWWJncTl6ZkExelU5Rm5OcDg4N2YzRVhJRXJjRk5oRjFpZVQ4V2Y2a2wxc0dCYU92Sm5YTHNqVEdQTWNVLVZTMUZUOGVlR1FjUS1HWnZPY0paQldRakdPUllQQWNWNnkwaHlXTTNPXy1Za1FnUjBMNHU00gH4A0FVX3lxTE1fZE5fbFdQZkFSVjFXM3FhVXRPYUlpbmpJeGoyUDRZR1ByMlhFQVlzMVZxcEROQjc3cDA3ZUhTMl9ETnI1NGxZcGU3bEpFOGdKcVdJLTlqb1NUTmc2SHgzTlIzbXlYTDFBWHRqb19ObW01aUZwbUhaVEVmTVk1aHo5RXJTRUVydk5nOGxJQmhfazlVVWZleWcxZnhVR1V4b1pTOTZhbm9QME4yS1k5d2hHeFE0aW5xUUNsU0FaVXA3TDBlR2N6SzJKVEhRdGEzaTFTbC0xMHNleHN1MUdGZDVjcElfN1RCa0ZnYldwMGhfdWEza0ZhNW5GUXVlbDFxaXVnNlMyZVZjM0ZUSndOclkxNU1zTHBGREk0V0JmSzFjb1BVdzdmSkxvMzVJTG5nV3Y0cHdmbmlXYWdUUkppNlo5TGFVcGY1OTRMdVRNVDlVR0FQY3RNSWdubHRybVFtdm5LZE5xTkZFbEpRV05yZFp2MkVuc3h0ZHQ3LUltcXBuUmFveEVZNHhDcHdVZmNHYzBxTzB6Qm5scEpLME02b0lhTEZadWZWd0JRVFA0X1NEUkFDM0JObG1NdGhkeWJubVFHazdnVTh6SFByUFhHVElPcFJqd3llTHMyYldXQlFjSk11SWl5QnFoWkpob2I3VGZjS2d1ZVJNMg?oc=5",
@@ -978,6 +1010,22 @@
         "summary": "\"لا أهدف للعودة فقط\".. منصف بقرار يرفع سقف طموحاته مع \"الثعالب\" يلاكورة",
         "player": "",
         "content_hash": "abb3b5525c19b04295ba4770e88a32c41a49f0ba5d435533eaf6d7a4382b6353",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4536,
+        "title": "مصادر: رامون بلانيس المدير الرياضي يعيش لحظاته الأخيرة في الاتحاد - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMimAVBVV95cUxQQnlKYmZHQjlhNWtVNXZiMmYxeTc1Ri16eElFeEFvOTBkendRcHhELVVRcEtfUGtDQ2JhVXM1TTVZMEswUWVzWjRrcmRlYzB5NTRSdDZYOW1ROUZ1ZlZIZ05lZ1VCSHFQUXZ2RktvaVd1UWR6TlRVeDJRRnc5UU13LWJ4ZjE3a2NVbWh0eG8zNXh5WWNMWmtoRkpQbmY2NmlONHlGN0U5a0d4Z0oyZ19UMmxLZjBzT01xc1FzaG9tQWRoZlc5UkNVbUpNSl9kWV9pU3pYRVBUaHdTRU9yRFlEZ0NrMEpad0xvc1MwREJCTzZqUmdfT3pmXzdSZ0lEaG1Jd1h6SDhhamFPVkZaNjR4QlMtRWlaVmE2SmFXYkN2NGJuQ3pNdmNtWmJlRURfMW1zNjJqbTViUHVPak11TjJvS015eVl4YkE0R1ZSUEM0Qjg1S3hwLW5BQ1c3ZmU5Qk14MTh5bE5UTzlXcTdEVlhtTExLNlhkMHpsbHlfYmtSYUVRU2tnVmxETnd5LXd3cHR2MWEtNnh4NjBQVkI4LTlyZmk0LXJGMUItaXJDNUJxWjJGdTJTUXBZVTRUWFpxQTc5WTZQUGhUd0pyR1VFLUVoR2FLSEFqanY5SFJjSDJaUkw2UXF0STVYb3JzQ2tDV1FIWWtDczBCWHFhajluSXpxVjJJNVh0bU84ZUxKT2xVWkxGTklQUjVvak03WU5hTVBmSXd5VTlDUjRDVm9Bem1GNE5KWFdMLVl2WFBtWm52eXRQcFVBUzNlVTBXeDRSX3VmWE5ZeFc1ZDJSanNld1B5eGROUXB0UWNOUVVwc2pxanhyTVdTZm1TeW9QcEV2OGprVmptRFY2WFo2Zi1LSld4RjRLUmxObmtK?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 14:53:14 GMT",
+        "discovered": "2026-09-23T17:33:10.049712+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مصادر: رامون بلانيس المدير الرياضي يعيش لحظاته الأخيرة في الاتحاد الشرق الأوسط",
+        "player": "رياض",
+        "content_hash": "bbb6dea6812e36ab8c4710d0bdf351753e0afa2bb6c3c729b6a3ae9eb515e1b7",
         "sent": 0,
         "section": "sports"
       },
@@ -1270,6 +1318,22 @@
         "section": "sports"
       },
       {
+        "id": 4539,
+        "title": "خبر في الجول - الزمالك يخاطب استاد المقاولون العرب لاستضافة مباراة زد - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEX2Yta1NpbFpDVjVWMl9sdGdPRjlBMmxVMzRBNnJfMTB0LWNURzZRYmhJZDI5Ql9MZGstNDRnMG8xVndvNVZCcThTMmVuTmtq0gGsBEFVX3lxTE9NcUlOWGMwaG4xb2x5dk1qOWkzekFmTW43am9wN1NIMFVIRW5pTVNNWThUd21uejZOTDVLYTkxRVN5SlJQWFdqMXJMTnoxVHJRZGpRUXJBUG5vYkdLRk5PRHBBYXE5NjkxSzc4NDNqcUdSWlhFNUhvcmJwRklIWEN5QURIX19JbW14Smxid2hwMi1ZVmRxZ1k0d1VhZF90ZUdoNGFvTmNFeUtnXy1vVElfeFRWR190VEVjRlFQNGdRYXQ2UU43Y0RpX1hTT1Zyb1NZNE1vM09wM3lLbFNiMWdyR21yTGlRNEZPbjdlOVZOMmktRE1mWjNabk5hR1BySjlycnEyWmFaYXFBdmQwWFFQM0szdHlMOVBtS09RV3B0b0RkUVZqWGwxTEMtaExpR2dqLU4wUWMwQ2d2TnhVMDdpNk52UkF6Mm5KWS1HRGJzSTNaSndjTW1sbzN1WFhJeUFTc3BaQXhadUZPMTNubXZwejRKd2pRdkZNYnZSMUxOV3lhcmE3eGVZaE1FSXVqYURrVk1KdW9waXhvMEJ3eUtCbEFHSTRuOGFmM3lzcDhzdU4zV2NqNmlQdTJYTmZxV2IzZ2h1eUoxU0ZDaVhUT0RGS1h5Q05KNXA3MjlQTVlkSmRaTEhONUd5VWE0NWY3RUZnNzdHTGFHenVzZ19iS3dyOEVMbTZvNjQ1RzNUZFg2bTVHc1NUUnZXRkJaODhYek1XT0lPaEdnX1dwVnU?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 12:22:00 GMT",
+        "discovered": "2026-09-23T17:33:12.707974+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "خبر في الجول - الزمالك يخاطب استاد المقاولون العرب لاستضافة مباراة زد FilGoal",
+        "player": "",
+        "content_hash": "02224bb5558414a1dff995e7113dc4a81dbfbc1f549be2de3e0eb03f0c7d8d8e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4427,
         "title": "خبر في الجول - الزمالك يخاطب استاد المقاولون العرب لاستضافة مباراة زد - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxQcm9hWWVqZ0hDeng3NVU4d29CVVVQdXpENGtnZFJlR0s2YWlMbVpYMFI5cHNGZEtYamxkQ29fYXJDRGZpeXZTdEJkYnd0Z1ZqZm1SYkdGVWZpbnplcUlrckx2bnJzN3ZNZHp4Q1IwT0dXdXV6UEFmNEFmWlM2RkxfNWItVlBZLWk1RXlCcDUwR0wyRnZNbW5pejc0azFXWjRwYkItRThsbm9GTWw1VG9sSVFYTDBrNXp2UERsNmdYQjdiVnVBS0RJcTh2NFNTMWZjTkJGZnc3Y3dINzFGanhRQlV0c2JDR1ItMmFPXzlrUkNwd0dwdlVwc21RNjJGMHFGTVlvWjUtdnFlRnlfRFl1UmpKaVlNeExQaEdsVFc5X3B3RUF2Qk5ma0JSMUYzb0V6TkJUaV9NTEJhZm8yczhjNHdhUU5UT05ZUWdWVmVtOC1qbHVSXzJrQjFsZzRCQmx4YlNXZ2djSXVmWUJkTzd2ZmxiMHB5T0VfYjFqYjVsN25OaXl3UUptY2xPdkp2bmhJM1d4RS1xLUktUFhHcFU1MTVzYXZSWWFKNW5PVld0ellySzhKTDlzck4xazJyUkNCMEJudnp2eVlQMXZYMzBwLV8zYjlNQVZ3VXZUNGt2dDZkbWlENzRhX2QtVmh5M2hpQ2tCMnNEcXRVWUcyT2c5UVJQaWRxazV5WTdSUTEtX3NpS0xoLThManBqUXlzcDUxd2VQSGxTd9IBrARBVV95cUxPTXFJTlhjMGhuMW9seXZNajlpM3pBZk1uN2pvcDdTSDBVSEVuaU1TTVk4VHdtbno2Tkw1S2E5MUVTeUpSUFhXajFyTE56MVRyUWRqUVFyQVBub2JHS0ZOT0RwQWFxOTY5MUs3ODQzanFHUlpYRTVIb3JicEZJSFhDeUFESF9fSW1teEpsYndocDItWVZkcWdZNHdVYWRfdGVHaDRhb05jRXlLZ18tb1RJX3hUVkdfdFRFY0ZRUDRnUWF0NlFON2NEaV9YU09Wcm9TWTRNbzNPcDN5S2xTYjFnckdtckxpUTRGT243ZTlWTjJpLURNZlozWm5OYUdQcko5cnJxMlphWmFxQXZkMFhRUDNLM3R5TDlQbUtPUVdwdG9EZFFWalhsMUxDLWhMaUdnai1OMFFjMENndk54VTA3aTZOdlJBejJuSlktR0Ric0kzWkp3Y01tbG8zdVhYSXlBU3NwWkF4WnVGTzEzbm12cHo0SndqUXZGTWJ2UjFMTld5YXJhN3hlWWhNRUl1amFEa1ZNSnVvcGl4bzBCd3lLQmxBR0k0bjhhZjN5c3A4c3VOM1djajZpUHUyWE5mcVdiM2dodXlKMVNGQ2lYVE9ERktYeUNOSjVwNzI5UE1ZZEpkWkxITjVHeVVhNDVmN0VGZzc3R0xhR3p1c2dfYkt3cjhFTG02bzY0NUczVGRYNm01R3NTVFJ2V0ZCWjg4WHpNV09JT2hHZ19XcFZ1?oc=5",
@@ -1380,57 +1444,25 @@
         "content_hash": "a69886ba473d030c4689f099140df110ce6b1e58effb2330a47a64f03d2c11e9",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4406,
-        "title": "لاعب | محمد وجدي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd1JvYWdRTzFOekdmRzFrYXpfUkF0bzc4aGVpbDdTeS1VbVQ1X0pKU1BrTDh3UXEteGVnTnF6eS1TM1RSeV9LZjU0ME9IUlhHNkNWWDhDZElBWm1DbVpUT3FkYzFZTDlydjhieUxVeW50VVVHRGc0ZFloS3ZrNV9mdUFHSFdNa1ZJT3lxbE5qbERDdw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 11:00:30 GMT",
-        "discovered": "2026-09-23T11:01:46.943602+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "03d1ac2b317e780e1a2f0bd12003b6ef6c2e3bf314265ba84200619afda51eaf",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4407,
-        "title": "لاعب | حميدو أبدول فاتاوو - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYk4yQmhjR3pfV0NjY0FWMFQ2S0pkNGhoem0ta3VRN3pXa2RLUFA1RjNaYnJmUm9jUnhkcS1uTU5CQk80RHJpTUdZaG41R1VCSldJX0MzUVhlcDZ1TzUwR2lXYkxuVUp2X1hzdGtMMjlHWWtTMC1tcGRQZjB5YURySnNGN0thQ1NMdEktVThOWHR0U1ZLTUM4TGV0U3dxVjVfTTVRVEVyLUNQN2V6Nmo0dnR5Ylo2ZHM1NEN5c1RrNVJvVVp1NlE4bS1hMkpGLUdUWVZ3?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 11:00:28 GMT",
-        "discovered": "2026-09-23T11:01:46.946912+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "e06d831a3da33e08ce9d3d380c22c718510336afeea1bee08c0a61f16c4275b3",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4408,
-        "title": "لاعب | فيتور ريس - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQU81a19xWU12LWMxS2VONTRyOVE5eDg1dEo0Sm1EakhnVFRMXzhSVll5N1VFSGVnejc0Q25MQWtKeG9KNG9IQUZrM3FHcFpaRjk3VXZuSWJSRzUtUHJNTWhsakZNSjRxTnhDS0c4UUhPYkRJWXZnY3EtWVk0SkdIQkdwNlpxMTJGcHMzcjJ2TkpGZw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 10:56:29 GMT",
-        "discovered": "2026-09-23T11:01:46.950399+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "93c3783f66115fdc5e4c9a3ea2931d8e68fa8e2a7e71db30507870b1c7c3f487",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 4537,
+        "title": "اليونايتد الأقل حظًا.. أندية الدوري الإنجليزي بين التوقعات وأرض الواقع - yallakora.com",
+        "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxPQUhxSWV2VFhFNTFtVVpycC1CZGEzOE9zQ0VMMXpCX0Vkdzc1cGRnRlpVSS1vTjU0Q21VMmZRWkl2WFFRZzdBWlh6a2poVWpCdnAzSkdZN09fX0FPRTQtVWF0QlJvbnAzNEdlLXE0Z09qYjNWUkFFaHZDbzNaRnpMNWQxb1p3YWs2S2RDNHN0M0dtNS1EaFRNWW9VaTRTVzFuLTZ2UG4yM2xGd29IbHFIMTR6UTNPRXdFVnIxNUtfRWJBTWxPYXRvY21NN2lHSGtackxneS1ORnBGVUVjSmlCZjI1YVp0Q0UyTkdPTzhfallVQkNqaTFydmg2MnFlSUw2RFRMdURQSWd5ZE0xTThici1fOEVJZWtlbnR1UFVEbm02LUQ1TldyVE5KWG9ZdHdJTFZGTmkzZ3JpOGhZbnM3YVUxcmg1V25uTS1mWjJqNTA0OGpHU0duSWFvZ2Q0eHZqSHBiUy1oWjFHUUJTb1phZlN1enhXTC1OWV9vbFZOTWJyOUJuR3FkSFJvV0xaRy13ZnlqbEd0UkhKZnR5ME5QV0MycUZHOUc0aldrY05QTGpYdUVzejlHbXVNc2pkTUFIb0NkZC14UFl1cmxmWWRQRWxRU0wydVhieEprLWVKQ0ZoNHM5YVZoZ2x3YkhFU2xHNm5qcnI2dmI1NmJPTFZNME5aWVNNdnoydXVnSmNVeTFORzJiallDQWwxZWpLREdUekMyclE1QktrZGFQdXRsOFQydUlxOUpw0gG-BEFVX3lxTE1wSEUyYlRnWm16NHhCQzJrdHFLUnpaUHZ1TTZycmxKMHNGTk5pQzFlZDl3Zm9NOXl1TDhXZENUalBzR3ZsZVMzQmZOVG9jSXp4bmVPa2VwSlIxVGgtUHVxUExXWHU5MVRNdk9sWTJyUkJZTWNFcmV4ZE90dTlGbTYzcGJMWjJGLWk0eUdpbXZhN2NQUXJHT1NfWDNlN2lnMEQzWFRtZXBoUmhXdV9RTTlPdGcyVzI4bU1uUDdWZ0szRFFMdjhNRXFaR2EtYlRHZ2JOUkhCNTFUT2lQLXJibjlWeHNadkE3bVRYaUo0WUpWa1RKSWpIRGxDc3lJYW9fbWhxbXpwcW9WbU9CUlNsdElsRmVGOFlGTmlvR3kzNDg5NHozSTNrOTdBUXJNNGRhdlFsMkFsajhwcDBxZk4zMUpsYTVWQ1dxNVhJZ2djR0w5LTRxXzhMX0pjSm9RbE41UVJ2c25lcnRUNHZVMlRRMFNEdDdjdVlWX25XeEgtRWVySi13ZkE1VmpyRG1adjFmbERpcHNDZWJaR09kR1dzNjlaVklaRmJmc24wYzRrV3dqZ0VUc0tkOFdGcjJQTVZxMWRZWldYaTJzYl82NkRkNGd5VnlFOS0xNExBUk1xLVdrVUlKSzBNSlozVGkwM1BRLU5KTmNOWmhWV0NkZVJzeUViYkJqNG1rSVh6VnZHLWV3V3ZwbGI0c1l3YnZobDUtR0xERFQ2Z1Noc3M4a0lCLXpDRUZFR2V2TWxXZXk1QVE?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 17:18:00 GMT",
+        "discovered": "2026-09-23T17:33:12.043092+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "اليونايتد الأقل حظًا.. أندية الدوري الإنجليزي بين التوقعات وأرض الواقع yallakora.com",
+        "player": "",
+        "content_hash": "047f7b7741c1b2cc3a23d0a614af0814a34c0ddd87248853d2e684ef7a4aaf4c",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 4513,
         "title": "موهبة مغربية تثير اهتمام أياكس وأندية أوروبية كبيرة - febrayer.com",
@@ -2100,38 +2132,6 @@
         "summary": "كأس الخليج 27: السعودية لإنهاء العقدة، وقطر والإمارات لرد الاعتبار، وطموح يمني رغم الحرب BBC",
         "player": "",
         "content_hash": "5b6eb747e4e821c750604cd3b2a12b37058b9ef73373e15677101ca10ac3609b",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 4125,
-        "title": "بزشكيان يتعهد بالدفاع عن مواقف إيران قبيل توجهه للجمعية العامة للأمم المتحدة - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMirAVBVV95cUxQUDFyWHdqeHI0NEJCOUpkMG80cUhHTUxnRTZlalJBRzR4MEZIcmdFYU5Jdk9fY0h3bElRbHp0UDVXaG5oS3M1a2ZRbEdvbS1wMDlGSktsaUgtN2xRUTJDTXpWaDc4RWljcGhIS0Y1dWdXeDhVbzU0ZTBWRXRiSFpXTWl1N1VuaWFWVDlCZUhBV24zcWFEQTRGb2JfZVNXZTNHdlZMRllscDM4QnpKMlRWRnk0bTV4RXMzOHlWOVVBUmUxeWkzT1QtQmVBQ1lyX1JhOEtuV1o2ME4tYk1YdzlVaVRTa3RxYTExTmxLdWdBVm40Sm1WRlJQa2QzTDhtWndnS1ZOWDJKRFhLM0dvVW5Mb2FXNVB2WFMxSGdRcXZWaUFsRG9yYUx1ZENxOWpCemFyd2dpd05aVlVURWZwTkk0TFRkY1ktbjNjTGJkdlRFWElsNWZ4VDR4SDVJS2YteW41dHZZd09pc3pmcElabDBheUlGclRXQmFqd0xfSjNsUWJ0bE11UUtmLTB2MkdqemVMbXhwcTdic1FNeVl2TlEyNnQzSGtvdlIxSzR4bTJUMHNGZ1YyZFZPQ3R6TmMxQ1pqcXQwRkFlZWxldkdiSEwyTkp4c0wxWHRFSjZZWnI2X0U3VmNKQlBSN1BYOEJGMzV6UnIycy1uT1BENUV0TWMwOXVLeFpNTzEzLVlOLVVoS0c0cVNBWGF0OTdHUnBKOW5UUXYtVGNiV2s3U3lsSnJzQ0FLNGNuX2oxRTk1eTd4UEVCenVzY0NINVM5UlB4d2pnaDdnSmhuWTM2VmptLTY3aEEwOVRYUEpuLUgzdDd0YVpLWWdQV01CNWlINlN1MXpxemctc1BydlltLUZvRnNFN05BMWlaekNsQWFyZ1p0bV9ZV2VFbmV3amxUNDI?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Tue, 22 Sep 2026 06:59:09 GMT",
-        "discovered": "2026-09-22T13:15:55.452563+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "بزشكيان يتعهد بالدفاع عن مواقف إيران قبيل توجهه للجمعية العامة للأمم المتحدة الشرق الأوسط",
-        "player": "",
-        "content_hash": "02a1d4c048cc1833eb4a536001e06253365df89bead4e530c5f71e220e62c19a",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 4073,
-        "title": "\"يمكنك تعلم الوصول لكن لأي وجهة\".. مقولة عميقة لمارك توين - العربية",
-        "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxQVFJjNmd1SzhZZzVJM29Ic3NCRWZScF9pSUlZTURJNTAwd2FfY29Gc1ZvWlFkM0pkY0VaTElhNGtRRGU5eXNJMTFOcFI4VlpTRFEzdl9ZMWQ5LU5CQVlOMnoxN1VzOWo0RHl4NEdwelJWZVNkTF84M1ZJV21XZXZwRzctSVQ3cndLQjdER3RTN1h6UUJfdkc5bWZfTDVVc0E0cHkwYnN0bWJUWFh4WXJ0OW1TSUxaUXUyZDR5TkZlRFRJaVZ1Z0J2WHJrWW9UUHhQSDlWUDZWekF6TTJVSnVneUZlbVNVLXlEQkZNV3NlU3JFWDNadXpfbUxLTTdvaHNHZ2hHV2UxcGNmdUN6MGZKd1lNQkxUaENSWlRnNl8tek52S2pHdFltQnFkTllyNGFpZkFWcE43SDZJNUd3NlUyMjhXRnZlYWlTNC1lWXpFNDlqbmRXTkpmZjNIQnNnZ1hWZjRzRXg0cmpiRGF0ZGUyTVFxa0JKVlc5OHg1cFl4cHZwVUlhdkpwNjFWLWNXbXZPajVVNnRnSFVRUktnLTlJUldLTzRXUC04RnFRcEg4SGRSUWJWRTJqVGtjZG8tbkw0SUJKWUV30gHLA0FVX3lxTE1QZHBNMkNOOFBFdkp3RzRna1F4aFRUYnpoQlFlUmZSMnpwWDN0UFVTbExLQ0xVemd1aExLZ3hJZTVfdmV5QVlmMmd2cUxZWjlBTkhESGFiUFhEUkUzMmQtUThaRS1WaVBjWklJcmdoc1JmYV9xajRiQXlhQUhSN1o2NkxHZkhMWUY2cFlzX2hsNzNPUkZ5a05lNU9jLWUxa1E0bDk0YTQ5dndLRTlidE4wRW1DVmZsYlotX3FmZVp5ZDRTUV9nTGtzalBOUHNZTEdJVExzVkVjMlVIMlBBd2JXRlYyRXZJakZRMTdrWG9kUXotS2dZRjlqemQ3eGZaam53LWdycWJCSWdWaWNqZ2s5ZmJIVjdHd2NNRUFNX0JIa1pTSUtMZDVIQVBFc3VIVFplVWQ5SFVpR2xnY2pIZGsta2dHZTBXWmVGbEI0cHVTNDNLMHU0LVNEb3VTU1FxN0xrdGJIU3JqZkg0M1E1eGl3WWVqR1N5ZW1nNzlrVmVhSDFBMDJ5dHF2dTRfZEZFaXoyVFpDT2d4ajJOdVA3eF9WUXNtRnoyY1pwcFlvRklyM0tYZGhkTEREMDFOYzNGTHhDbGhZZjBNdGVfbw?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Tue, 22 Sep 2026 05:17:00 GMT",
-        "discovered": "2026-09-22T09:56:52.858386+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "\"يمكنك تعلم الوصول لكن لأي وجهة\".. مقولة عميقة لمارك توين العربية",
-        "player": "",
-        "content_hash": "e39137c786697e2663bbed006008a9208b7329bfb0d3c2c7120438c35d32f10a",
         "sent": 0,
         "section": "transfers"
       }
