@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T15:13:52.810300+00:00",
+  "updated": "2026-09-23T15:29:42.737597+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -642,25 +642,57 @@
         "content_hash": "c90ff839cf1670c5516245d53521ea510cd10a0b580f57377aac402da7bf1f98",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 4029,
-        "title": "الأرصاد الجوية: الاعتدال الخريفي لا يعني تراجع درجات الحرارة بالمغرب - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOV0pkdzhoTU1kVVVqOVhHQlBBWkg3Z3R0SVV4XzNhS2ppVHVaYjRjYldhanlaVU5BcHFwVzVCZnNqcmpFX2JxUjFXSDU4WTdrQkt0OFRMWlpDVkZuek9kODc2RGRrMHFWRW15eHBwSmNTVVUwVWE2UjR4MEVZXzQtLVhMazU0ZHdXdlppSHNPWjlkNHdLaHc3c1BfcHlIYW02UDZMMG00b1gzMXIyLUNNWDJZYWNJNHB5QWQ4TF8tX2tpM25zV3ljZkZxc2I3eXktcWZ5dDZWX2ljWGp2Y3RVcEozNFVSZGZ2V3hLUzRzNVl4T0YtZE9yUlhIMFJudS1BX0VrcmsyQ0VpQ1liREFkVWRrTEtmMzZsNG5lVnI0MFg1UTJfb1VNQVFJV3RUOWJ6NnI1eFpybzNVZnozalRGN2lQS0VxZHMzOGp4S1NWT3FETDU3MkE?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Mon, 21 Sep 2026 20:02:04 GMT",
-        "discovered": "2026-09-22T05:09:44.380650+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الأرصاد الجوية: الاعتدال الخريفي لا يعني تراجع درجات الحرارة بالمغرب Hespress",
-        "player": "",
-        "content_hash": "55a8c79e46b6bdc7d882411bc65c356d2bca854dead518d52b1ca20ca799fd38",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 4486,
+        "title": "سيناريو تكرر قبل 7 سنوات.. العراق يفتتح أهداف خليجي 27 بعد 6 دقائق - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxONmlrbkVkY2YzWWdQQmxmTkRQYkV2bmxFaXA5VVdaUWVSdmJSdWRxSjJGYms2R1gwMl9jT3JJSTFZUGpJZGg2Zkp4Q0ZTQ05oQkpaUU5IRW9XYkcxcVUwVGZ6T1FBZ3lzaGgxZkVoSmdHWUc5cUxEU1Zvbklkc0dkVEpxVzNRUjBHeWRVWS1LVm8wTnJQM2l1NV9ycXJwaFNDeUQta3NCaUUzc1hQMXdVd3FBekxKQ0l0LUw1TUN1bDczTWRQQU5UQU5iUEtaVGFSVFBXb1VLNGNjY3BRU0dTRXhyc1BRVzFQVlYycUEzRXBnVDB4bDNXZHltZ0VNUWx3Qm82bUZHalN6Z09RQzlLSzBKWURBUGpSNXlOZE5QTl96dUVveEVvSnc2SHhWMmoxRlpxdTRUSjBqTUVsZ1ROOENQNzhlajFQR0w1cEE5eXlsV3dWanRCdl9xcFhGUTZNNGp4ZTVYYmZuTHVSeE5FZjI4ZWFtMWFmeUZrTFp3VWxNR2hRVy1pV3VwT1VPRlhPYjV5OFlSREkySWlaT1drei1SVmRBWjQ1bVU5SnN5UkdubnZ0bG1hMWt6eGloQkE3WHBrbFczcHZlQXdrT0JOcUh3eVd6RC1SOEpzTU9HTUx6VURNeUxBcXVjUFJaTXpRR20xMFRSem9CcWlVOUxvd1B1UW01dXROX2NldlIyaDVkZ0lsblE4RWYxbVNDdl9xLXUxaGN0NHZGX1lTZTVHbVo4YVZYYWMwcU9FeFJaSW5rZ3AtSktTQ1c4YVlpdlZpdnY5OG9OaVE?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 15:24:08 GMT",
+        "discovered": "2026-09-23T15:29:15.754004+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "سيناريو تكرر قبل 7 سنوات.. العراق يفتتح أهداف خليجي 27 بعد 6 دقائق Kooora",
+        "player": "",
+        "content_hash": "da9658289d4a59e313b30cb6299014e224b5ddaab7e0d343af13a0655c4925fd",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4489,
+        "title": "وزير الرياضة: أزمة أرض الزمالك كانت كبيرة.. ووضع الإسماعيلي يشعرنا بالحزن - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi2gRBVV95cUxPWnBwVHYzSTI5YW1CVldHenlFSm1sUG9FcTFheFhGeHhOODMzNXlWVHJoaWdzRDlZSjg3bmxaUmNta3RHSllRTmd6MTVTLXpVdWZuVEtkanU2TU1wMHpBbHd0SmVfaFlyQmZsSnZVZjY0cElxZzJENEk2enVDUk5pTEh1dWQ1SDJqeXFsZTRRQ2hySXpiWE1nN3BBWUVqcEtzWWpmOGJTeGpvOVNvR0FiZS14bzFiMWFTQzk4QXFmZHNITTBybGplS1JDdzllU0wzSU5MOWlBRjhhODJGVDhDRzVIRGlCZzY5RVU5LXhyU2pXX3o3bUxFZDFhdlk2YkF2ZllkTkY1SWF3S29RRFZieUFfdGlOcVUzejBEWGdqZkJWd0R4M2htencxMHRjclNNcVdnMVo3cHpFVVQtSC1IZTRoOTlHMi1sZ3Fid2d6WUlDY1BydmdId3lrTVlJMkpaZWhYS3hlRGU2V1pOXzVrcVVRMXVPVjJraUxOVkFIYldPTko3RmtCWTVkSTJmR2xrd2tvdTR3OGhSRktiLU9CaUhVLXI4eGRTcmdUYnJfOS1ucTlYUlVBTmFybjl5MkZTRFNheE9PakM2aWpYR29Ta0QtMDdGNnpheEdkV1NXZ3FUQmdEOFZrN1JOMEFlZEppUm1mZ3RnSVFkcHI4Q2UtSVdOb2VOeTlZLWp5Q1VFMkVvX3lVOGNmNldvSkY1RW96RVd3RllJdUMySFowTVB1SXhoR21VaTk5clV2NkNvQ1NESk00TThOLU5Ha2NHNmEwWVp3dE5IaDJDUdIB3wRBVV95cUxObHZFQzB5aHlTcmp5ai13eDlvVVJWY0dJdy1ka2x2YzZHR291NjdMNF9NaVJ3Mkp4YlNwUGdURUlwWmR5Wi1XOG9aNXotUDB2Rml2aEtNbW5MX1BrRVd3R1BxVFU3cVY0OTBrdlpIWHJtNHZ1QlY3MlBvUUllbHFVOEVkNDR4U3B6X0R3NHVWN3BuLWhXQjRjTllITm9IeXBlRHoza1Q1dnlNYXd2T3JScElPNF9tUXl1VXBDemN1WDV4bHZzYWtuVHhzVmNxeVNSVXFXTmxlT21KUHFCNEF1U19SWkdVTEFDNGZ6SW9nSmZ3eWV5S2V6aDdPaDAyd2NHWVNmR0RBbDlRZld0ckkwd1J5NlF3M196RDdnX1VBd0pmRjhVT2pkUmszUG1nQlM3VTJWeUZRS2stSWRwN0xsTUVMaENDaDFtei1wa3YzTmY4bkZJU2pPRWt0dl9xcnNzeExwSnFrVmdBQWlSOEdteHRaWFI1alJfcDY3dVdSQXM1bVkybjR3T0dlSWhnTjJjdFRhMkJUSVpsN2VhYXFVT3ltZHBNZm4wNHJDazBxTUJZdk5ndTZlS1kyZElyV2hVVVVrYjlVdWx5a2ttWlprZHVqY1lOQXZoaXI0RTkzLWl3VUVmTXhNbTRJelMyWFZoUXotdUNSUXdid0xIY0xNVEVYbnNzWWhrcFJ1RFJnR1hKSUxRMDFVelhvYjJ3b2xrUlNuQ3RGYWFvdHduVjdJQ283VmhFMndvZXlrWUZFT1Q0RVlnbjdmWE55d2tMWExTZGlQaW9ncU5tTi1Kek9N?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 15:14:00 GMT",
+        "discovered": "2026-09-23T15:29:22.270569+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "وزير الرياضة: أزمة أرض الزمالك كانت كبيرة.. ووضع الإسماعيلي يشعرنا بالحزن يلاكورة",
+        "player": "رياض",
+        "content_hash": "a9a2b3d11478cd88794933b4f16e295e6b6abc8a8f1e51fa62e663b752aa53ed",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4490,
+        "title": "\"لا أهدف للعودة فقط\".. منصف بقرار يرفع سقف طموحاته مع \"الثعالب\" - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxNeWFHY2Z5UEpWTmQ3LWp2TERSUnJyOUotTEVoWUFHV0xJVS1KY3QxZHRPMk5CdUxhWTd2SzdsLXRPZHhuX1FjYVd1VFIyWkxXQ1k1eF9BT1lmeXFuQ2tSY1Y3Z0kxQ01TQjBxT2YwNlpkQk9nWHFMd2pmV2xUYy1HWVNrTlZXOGt6eldxVzJRWUZQV2ZMNzFYREVmdjk0Sm8yODI1UTVONmF1bmhIckh1M2k1WVdVQW05dncycFhGUy1uSVVGT005dDFYb2JQT2l4VmlUODhaZk1vaEFUaHBvNU5hZDNzSm5JeWp6d0hUMXVaRFE1bVlPbDJSSEJPcVVTOTFha1V3cnhZbHV5aUdsSW1od2Fzc3puMEtqU0xzd0s0bm1RdDY2SDlTMUxlTExFcUhrdU51NnRWSFlLY2lVZXF2Yng1YU8tanktaXRxdWtmVXZZYmMtWWZVbTZ1M3pyb21qNGtuVmFjT1o4MFRWektpZHhENFNDM3hLR2wzVk03SnRsOUl0WVBSRktFVFVUeF9yZnBCRWVYVkI0Vnd5cU9tZUpkZ3lFNHpheFZrNGxZWnFpb3pqSU1XclozMFdNTUNEVlVxM0VhLVFYM1RtbmZRQWltMGxPRFFCX1BoNkMxZmI1YnNBemh3Yi1oQmo3ZmfSAfcDQVVfeXFMT3dJN3Brdks1UkRfaFp3WWZVNUsxZzg4RThLb0FkUnJpd0dTVHVBTVg0WEVwai14Z0syejJVei1VMjZmVkplZDJqcTB1RG50VjdUY2o2WV9SSjkyamVWZHJxLW5QRlJaaHpPRmRQUHZhZjBqdGc2bVBZYVR5cFY1d25yZzM0cF9HNUtPYWNhTWV3TVRKU2NSU1VuMjlQc3p1NzJ0OE5ZSVE5cTNweTI3UUk2TXlYelpZUnc5VmNMTUNsdTlISVZWYUFyUTdOOUsycUVvMUpWNDRBWVdodjViLUY1VHp5QmFOUzhYZGl3NHh0elJDc21UbW9zUmlDcDg1MWNJR1ZnbDNOckhVVEZSVnhGbHh3aHNqWi1Sd254ZE00MmJQMTFvSWlIbEtuMlRKdUMzMWpvZjY5bWcyOFRvUUpQU3NuNVBHM0szTXBQb1BLcTRQN0RoNlJVVzctbm5xbUhiNW8zWGdzTDhjeGFSSkp3LTczWXZGOW56SEk2WmhtazJHbGhqMjYxRTQ3aVB3ckcza0lHRjUtRGtWQ2ROV0l0TXBHOGdoQ0NSc09SV0dyRFZ0SzRUMkY4enFVdE5RN0lqYU9rSEVva3JmS3hER1ZaMG4wQlUxX1JrNlpxUVZsekhJbDFCUFRXT201ZFphejVVbkZKeGM?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 15:13:00 GMT",
+        "discovered": "2026-09-23T15:29:22.275426+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "\"لا أهدف للعودة فقط\".. منصف بقرار يرفع سقف طموحاته مع \"الثعالب\" يلاكورة",
+        "player": "",
+        "content_hash": "abb3b5525c19b04295ba4770e88a32c41a49f0ba5d435533eaf6d7a4382b6353",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4479,
         "title": "من كلوب لـ زيدان.. 5 مدربين ينتظرون ظهورهم الأول في التوقف الدولي - يلاكورة",
@@ -1412,54 +1444,6 @@
         "content_hash": "4b1e473d56c15b6032f9ae1fbfced4062899f4d9cb33cfec3aa885074783048f",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4364,
-        "title": "لاعب | كاميل جرابارا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMVVUb1RhbWlaMDEtOUpIWm1lWmlUU2VDdlFOZGlEaktkWTVTU0JKNVBYQ0lJVFlsbkYzOW41a2s3X1JfWV9nTzUxUzBRcTJsXzBCb3djaWNFbzVtN0Q1cnB1Rkx2dENSNHU5NlYtOFkyVHRMd1hXOTF2R3F3eWRTOTNsNDA5WUlTTXNEaWwzRDd1R044d2h3TzdnVnJNQmlJZnJmWnhSdW4weDlWbWFnaW5R?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 09:22:19 GMT",
-        "discovered": "2026-09-23T09:30:10.679388+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "680d651a3cb45b9c87a7b87629ff117ef4892b722e80e7caa21a42bb7ec34a1a",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4391,
-        "title": "جدول مباريات اليوم - 23 سبتمبر 2026 - بطولة قطر 2022 - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmdQaG9kR08yRVcyOW5mbXY0N0doel8tZnRndFIxVEVsSktTMGwwZllWaFRiZ2VEOTFsUE1FY192OHlOYjVEWXBONWJRM1dCMXE3cnR1QzN2ci1EMzEwZHFZYTFxYmpKS1V0d19jcHZwNklkOEl3YTJ0eTRqb2pJSWdkZGVOUnc3UmZBN0dUUF9qZ20xai0zRWpFdm1PaUFrNHQxNGlvR0owRkRsNm5FaA?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 09:12:44 GMT",
-        "discovered": "2026-09-23T10:25:18.156557+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم - 23 سبتمبر 2026 - بطولة قطر 2022 FilGoal",
-        "player": "",
-        "content_hash": "4ffe15dd33e1832d4a708779d99c1b01f0c83e25e7aa5d85ecaa2a2ab533779b",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4366,
-        "title": "جدول مباريات اليوم - 23 سبتمبر 2026 - بطولة دوري أبطال إفريقيا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxONkt4NTZPWGhkNW45bUdfc3NzTU9IbE9vYXpCLXdZUzVjdWl3NHVmMS1mSlFIbGwyWEhCUGs1NnhfUkZZVTJWZ3VTaDd2bGJjT1RHbkJ0TEtvaDd5TnRyVk1ySlp0YldVeEhBclpaTG5ocEFWZ2MwamZWLVBvNV9MTk1LelVHdmJ0WUZ0UEtHOW8wdFB6aWwxY0VKRnREYjNzS1RoUzA2YThzTFdEUDBFVUpDQ1RUeklkcWtZb0Fhd0JobUgweUswLU9iYjdSTjBOcUFENGFBQ1Y0eW1IVTJtUVlteWtjeFJQOVZwSi14ZERVN0JTU0laM1l2STYxc3NLcnVQUGVLUXdoaER1bERseW9jOUg?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 09:12:44 GMT",
-        "discovered": "2026-09-23T09:30:10.695879+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم - 23 سبتمبر 2026 - بطولة دوري أبطال إفريقيا FilGoal",
-        "player": "",
-        "content_hash": "3ac1f722e1840b831f9ef2c4616d55f08df533afa2d1fc5953607d84aa6e6c6d",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1556,6 +1540,22 @@
         "summary": "لاعبو منتخب مصر يحتفلون بتجديد عقد حسام وإبراهيم حسن FilGoal",
         "player": "",
         "content_hash": "9b34b0cf235dc3bf686674a23dd41b8e4e74710cda1f3b2dfd3264495515eda2",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4491,
+        "title": "وسط حسابات معقدة.. هل فقدت أوروبا تأثيرها في الشرق الأوسط؟ - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOOTQ2RVc3M0NSMElkV2pGQ2lQUXkycjlKWE9MQlhscHlON1I5aEdYQ2pFeGQ3WUxkZlhlbWgzeDRLSldaRzc2Nkh4cGRSenFMV09iX01NVC1qUnpmUXlIQjczdmZtS25Sb3lweE8yLXI2VVRxZW9DWFZmVHJHRUtaNGhyaHpYb3Ytb25lMHdSbTlsRklUb0JyN0laMkhzM3ZscGRRME56V2Z6enpsYzF6MkpCbmFqdTJQeGxPTGw0WG9CdUtkellKcU5fQWtvQjJaaUZuTnRUQWRudm1zWVp0SENNMU1hSUZaZ0NVTjVEakFEeVl6N2VzbmRYZy1RNy1uV2FMdmlUNVZDNnUtUEFGWEUxMVZzMS1vdGdiajhGb0ZkRmNDUmxYVnBn0gGvAkFVX3lxTFBRTmx1NXY4czkwdE82TXY3eEZhMkJfUXJnUUFjNXJublQ2S29FQWI3R0hmcXhPUUk1YWxqRmUtSmRqeDFWNWZUdlVna192dTJaLV9KcHJ0MDVNeXRjbF9Kc2FxdnVnXzlOUE1fNkp1Sms5V3ZGM1FPbHF6VUF2dERUSHpmRkpxSXFER2hzelh6ZlNRT3BSNEJMbjFyX3Y5MkpWZ19rSnVtRmFJQlU5YUtTSmJVM3c1UWVBa3N3RThpdFYxMDVUNk5ZcGVrdmQyYjhfY2sycWd5YVB4b1lXa0NPeDV0UWg1V19Ra3RYbTZ2WnBidG9zTTBmRFJ2YWUxaFd0RklELWgwREhET1BlTnktaEVVN1k0SzNoVVljMWdidHh3NGVLaUtFdHdnOVFnVQ?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 09:52:28 GMT",
+        "discovered": "2026-09-23T15:29:31.231601+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "وسط حسابات معقدة.. هل فقدت أوروبا تأثيرها في الشرق الأوسط؟ الجزيرة نت",
+        "player": "",
+        "content_hash": "9bea0aeba5c0822fa623d5490ee5cbada4f46cd34df017ca6f4733d57abad864",
         "sent": 0,
         "section": "transfers"
       },
