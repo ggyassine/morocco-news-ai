@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-23T09:56:25.329554+00:00",
+  "updated": "2026-09-23T10:09:56.113859+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 4377,
+        "title": "بوريطة يعلن ترشح المغرب لشغل مقعد غير دائم بمجلس الأمن للفترة 2028-2029 - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90aGp5NTZ0bFNlZWRpc2FVMjBrRWlxdkdFNmRHdjBqdmVjdHNEdGdvdGhMZ3ZCbEdnMUN0dFdvMGV5bG5MbDNuMQ?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 10:03:39 GMT",
+        "discovered": "2026-09-23T10:09:34.691894+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "بوريطة يعلن ترشح المغرب لشغل مقعد غير دائم بمجلس الأمن للفترة 2028-2029 Febrayer",
+        "player": "",
+        "content_hash": "5243dfcbb91f20ab5cfa3ed7b95f170fe7fb9a3252db10de040a2f44ce3ec424",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 4373,
         "title": "المغرب أمام صناديق الاقتراع.. القضايا الاجتماعية تخيّم على معركة تشكيل الحكومة المقبلة - Euronews.com",
@@ -564,22 +580,6 @@
         "section": "morocco"
       },
       {
-        "id": 3885,
-        "title": "وجبة شاورما تجمع شابا بوالده المغربي بعد 29 عاما - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UUVpxV3pfNUlmbG5KNlVaWm96WlpHS29WWUIteGUtNWVPMEpqUzFSNGJUd0RzUUY0UDQ1OW93R0ZCaHptbmkwa1lkdnNLX29qLVFidVJidURjc1YwQWfSAWNBVV95cUxPRVVMb1BTajc2M05CejB1aUZwalZQTHJTbXdfbzlNeTlfWUU4LW9NUlFGc1ZBd1Q4bUs1WlFsQVBmMTdscUhuYWdfajlpd0dnNmplZkxUYXJ5eUkzNGxoSHJENGs?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Mon, 21 Sep 2026 18:25:41 GMT",
-        "discovered": "2026-09-21T18:37:18.607111+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "وجبة شاورما تجمع شابا بوالده المغربي بعد 29 عاما BBC",
-        "player": "",
-        "content_hash": "4ebebb65745564a321f8ee84f027eb0ccd030309fb7470a259109d21b63ca1af",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 4016,
         "title": "توظيف الذكاء الاصطناعي يفتح الأسواق الأوروبية أمام حلول مغربية مبتكرة - Hespress",
         "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOajYtZkhud1NhcEhEd2NVT1NDQTFJNVZxZklZVGFpSnZUdFMyR0V6ZzQyZnJxT3RWUncxcEdidnNCMDZySDY0Z0ZXeGVaZXBGZjl6eW9OZzJqY1d5REczeFNXa2dIZ3pPcDVQR3kwb25ld21MaE5oRGVqTTd4Tzh0VGRldy1HY3Y3ZXpfNEplWmVaS0lDSlJqWGZsVUREZmFQUEtNaVVnd1JBSnNMNnEtdW1iblNMeTk3N04yRUZXb19ickxSVk1od2tjc1JxQ3RNcDNVd18tb1RQSldNSmVZTVFfRFhGVjZUWUVHdlFxY2dEdEtpV2ZGbVZkZUF6NHBoMER3Q0xCdXFMeldjRE5UWWdaRUM2b1VJRGRqSkdOWkxHTlFrUUpCUmxjalN4a3lQV0hfak8yNG5IM3FEb0hQb1ZreFBQRFZpR282TDEwbUtLLXF5Y0E?oc=5",
@@ -592,22 +592,6 @@
         "summary": "توظيف الذكاء الاصطناعي يفتح الأسواق الأوروبية أمام حلول مغربية مبتكرة Hespress",
         "player": "",
         "content_hash": "42580ad971c6338ea889eef55ef66fc90b2b4d6914e02251ba64d33b6afcf7d4",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 3884,
-        "title": "محامو المغرب يعلنون «تعليقا مؤقتا» للإضراب - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNRnk5ODFrbktuRTdiRHdNeGdzdzk2SDRWTXZXWVVQeW90TFNOZzRjZ2FFOE1ycVI0b2NVY1NJTGJNb3RrQ2pRd2Zrb3RMQTQxTW1XcDctWWE3UzZpdnZ2eXhpMEx1aGtPZ3ExU0E4QTBVRGg3SlBOdWhXSS03YUpaQmlWVjVsUThsVkUxdGFVOHhnbndySFliYjQ5eEpvY0dWSjhzd042aDFWS1JqU2stZ3JGcmdJeGF1TUQyejdWU0ZTemJ4Z3FRdjZrN19zeEVUbm16dEpJTjhGei1KRVRTQW10czVPSDZ1V3RzeWhLWTRjaTJtRVRJc3dmUzFLclRxM2RPaGh6NFpfU08wM0tHNDdCdTVvUEM3eW9VODBnM2VuWkxzdkk4SUdVQUo1dzlJengzQnp3?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 16:11:23 GMT",
-        "discovered": "2026-09-21T18:37:16.271879+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "محامو المغرب يعلنون «تعليقا مؤقتا» للإضراب القدس العربي",
-        "player": "",
-        "content_hash": "04372f0f86754f941f964fa88fe3d292caedf700ca89ca3a19263ece4d45868d",
         "sent": 0,
         "section": "morocco"
       },
@@ -645,6 +629,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 4384,
+        "title": "10 وجوه تعود وشيكو بانزا ومابولولو.. كل ما تريد معرفته عن منتخب أنجولا قبل مواجهة مصر - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNTWdKUTN6S0tDUEh3bWdNbnBrMTlGTGZpYThXbGlkdW1ZWEZuUFViZjNKWlZwdVQtUlpURG1WNEZJZ2dYRll0Z2pPTmFHUm5vOXVuRzRsLVpoamFyakM1eVUxb1dLUVcxcFV3YVBwYk5fdzF1VVFzM3BnRGd6OVIzQVlLOWtfZHdtbENxT3JqcFNRN2pHNGp4d21ySGpKRFJyRkxJMjJURy1GaWJwN3ZSckZfVHNUZWFCYmRMSFFFLWI3OXNjNnFudkJKaXZ3TzEtbGNNeG9vaHJFbnZlMXg4U29rT1FJYTFwcUpfWWs1eVJHTzFaRnFpSjlXUnpCNVpMci1WbmRFajlHWklwS21NcDNBY1U1bnVCSE11YXlXWUVNU1pNaGF0dGtzbmpJTS10ZjFEOXNGbVhpZ29hUUVzSmdHaE5EZjFwUDliZk5PNm9oZllrZlc3a2JYRDE5MHR1V1JQdDZQWnN4VkVsdlZXazMxaG8tU0pvUU5UWVY3dW5vaks5NW1UeUJkcERyQnQ2d0xFTk9ORE9BR2MwY3pKS2R2ZzVNaDBiaV9hMk5PQTFqWlFndG9hcDNPZktLWDJUdGVzSnkwS1BpRVk0NC1scERzR2JFUzAwMWVCN1VCLVFyQVZIeG5XVHdqS3QyaFBISkgwZzQ2Rmk2UmFfcW9OaW9ZRC1DMENsYlVzS1RLSDZFNHdSUVJYRjE0dlAzOWU0VlN4dy1lbHlmV0kxN3ZSZnJDX2EtZmx3aWoxUFlDVVZTMUJqVVJkVnlQUnpXa1VBc2tVRXV4UllrbDZFeWF6VGVndml6Wk84OFRyYWhvY1p6ZHA0aEVHZVRodHpaR3laOTNMbGpCVndsSV9wbHFkdtIBlgVBVV95cUxPckdJSXU5OU1QTV9SWXlfMldCeDdKdEZCNktRRVd0WUFOZmJsaGJCUEUwWnlyZzEyS2hwa0ZMaVk5VENNOG9Zdlo3cDl5aUw3c0NhYkxtcDVaclE4MzUycVdSN1pSSFo3b3NYc3EzcmpOOG9yd2hjSkQxOHRSMUZtUnYyeUktQzRkWlM0eHctdHUxTnp3VGFFOVU1SUhEZl9PSVdtUmw5RUJwNjhoc3A2NjdlYndCMURldU41SFZRYkdSby1iMlpUMUtBRk9nRVAxalZQNFJLcndieEY5RGN3ZFpWRFp3OHJGd3M1aTJkS1dST3YwRmhlQTJ5Y0Q3TTBoRFZwZ05fVlNCX2o0bUNHTERmcFgtLS1LUWlWWk5sNW15ckh4b0E0VklyQTZFNW93aVJqTFNLR0FSUkRmZGxWSjNvd2ZZdXV4TzNLOF9HTUs1S0U2MDMweW84blVXM3lEODhmSmRHNXhSd3pUdV95TTNMNnJyX01CYUVZb3JaNzRRb2t0RG9MRGhNc3R5RjN1NC0yVnhwWHNxWEY5eHk5UEd3dUQ4RDYtbDFqaElEUG9lTjNjOEVqVThVaENHUUZBOHNNUnRGVVFRNFEtTlZ5QUNlbG1ic0UxOFNmUkd4ODcwUHZHT0dFZ0taOFB4NmZkbklRVzN2cEZ4UUV2Vy1CaFlKYVJ4cWE0WUFmTlVsTEM5RUFBSjd0NDQ5MEtTUTBUWmM2RUsyQS13YUVvLThfTWZhZmd5Tm9BLUh0blA3aGRyN2NhVHFISUJrQ1EzZ3VJTTNvekVVM1IwTHUwQmJuOFFyRm45bGlLbU1yUXNpQ1doLTNmMFo1c3BadEc3UmRHdVdlZ0piS1lkZTJ6OHAyeTNqaXBJQQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 09:59:00 GMT",
+        "discovered": "2026-09-23T10:09:41.204760+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "10 وجوه تعود وشيكو بانزا ومابولولو.. كل ما تريد معرفته عن منتخب أنجولا قبل مواجهة مصر يلاكورة",
+        "player": "",
+        "content_hash": "a2a627d783e6a5c4c0e1e36f1c57554bfb534a0d0eead84f1777dfe984e552d2",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4383,
+        "title": "لوبيتيغي: لسنا هُنا للتحضير لكأس آسيا... هدفنا «خليجي27» - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMioARBVV95cUxONHJnQlBrUkdncnpUMERjVk5NNFNhSEY3Y2Q1dlcxMzNReXVjRDBQdlBjT2ZyR2dlU1BRRlZwdzhhNW1ZTkpYMC1vWW9zc3RQbTZIeGcyXzl1VTY0ajRtT2thb0hrYUsybWpBZGM3LV9LSUtkMVV6WEE3d0xFb2s4N2UxWVhQbnIzYy1iaTZqRW1uQzZ3bU9MLWRoNE44bHVCLUwtV2dpdE1qZEtOVUVlcmMzM19vSUtxSmJKYjNua2RZT3lPcl93Vk5nUVhiem94VXJJUWtKVkxOaGlUcGItaXlBQzVOZ1pMejNMYmN5WU1hWHRDMTVoTTRYT21PYzJUV1pqUGpDSThwcXUzNEN2blA3N0J4bWhnT2E3UjJ4UXllWTR6bW80VDJLZzJkTnlfalJ4SDRDbkw1QU5ONWN4ZldwQWFBV0g2ZFRreWEybVVHUVQ2SFBTZXBsZjM2ZncyZHVNbWtuR3NqQTJBaTBTWUY2S3hrLVBvS05FWm1NWG5ZcGR3ZTZTWXdFTWgzeTBWMnFvcjRNUDZJcUgyN05CUjVZZ3B0VFF4UjVEUXN1M0RMa1hsSTE4X3hhTzFIeGZUVk9JcTZOVzM2WmU0VVNkWW9nUVBMcjBtLWlNNnI3ZUQyQlFUV2VpRl9ZNFZUbUR3UW9TVW5YVUZyZ2xObFJYVWVxRjg3OHdzZUM4bExlWlJWeTh1ZEVHZ1dncWc5bVRy?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 09:55:04 GMT",
+        "discovered": "2026-09-23T10:09:39.522429+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لوبيتيغي: لسنا هُنا للتحضير لكأس آسيا... هدفنا «خليجي27» الشرق الأوسط",
+        "player": "",
+        "content_hash": "2dcc9a5cfcde8a0de5824396bc7f7023c18d9514d03fa9836d7e0f7aefd5811b",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4375,
         "title": "بينهم منافس مصر.. 15 مدربًا جديدًا يظهرون في تصفيات أمم أفريقيا (صور) - يلاكورة",
@@ -978,6 +994,22 @@
         "summary": "مباريات اليوم (الأربعاء) بالمواعيد والقنوات الناقلة يلاكورة",
         "player": "",
         "content_hash": "b345a9ecba2d1ee249d8962626ee1ed3c908632d3813b0d08cb294c4f2a94823",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4385,
+        "title": "القنوات الناقلة لمباراة منتخب العراق ضد عمان في خليجي 27 - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQLS1pV01NeWdMbldPb2tVTkRKWTQyOGo3bTZIcElDYUVJN3ZLeF93ZUMwU0ZKVUtQeWNJSUJyb2RzZFdOSG5SVVRqRUNfNEhrZzRKOFlkb2VZVUVlci1OXzlvcHFrNWMzV3I4WXIyZU9pRFI0bURqVWMyTTFJb2YzTENsWHUyc2U1WE9ySFVJM21IY1ZkaFJneXZsNkRvTjlVNU1qaENuWUxXSk50c0pNS2F3ZVAxdmpCaEtWX1JWRlFJclZxaW9Yd09qcnByMEo5Nkg5ZHhrVXNhTFFhNjN4Z3hKNVc4dS1UZkRmeUctOHM0bkFzUnh3VzRfQkNDWEhWR3dXZWVtbVhwaW9KcHdmUlZoMGNQbDRCUmwxOHp0VU92akhMTzgxQlEzdHY?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 06:29:00 GMT",
+        "discovered": "2026-09-23T10:09:42.281263+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "القنوات الناقلة لمباراة منتخب العراق ضد عمان في خليجي 27 365Scores",
+        "player": "",
+        "content_hash": "9670e2a5c5c5c91259250da62d7caffa20a6055352b1612f04ca581eb8c3c203",
         "sent": 0,
         "section": "sports"
       },
@@ -1394,54 +1426,6 @@
         "summary": "اتحاد السلة: الحكام لم يشاهدوا واقعة عمرو زهران.. ولاعب القناة تنازل عن حقه يلاكورة",
         "player": "",
         "content_hash": "cd030a80622c3c2c65d111c7f611ce60570a100e39c950158cf84898f0d18489",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4248,
-        "title": "اكتمال صفوف منتخب مصر لمعسكر سبتمبر بعد التحاق 3 لاعبين - CNN Arabic",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM0FpWlRTeXdNejlBS0dhajBWZTBkZ0lNNWNrM3Yyc2Q3amlrekg5elhtdEJpbmotRU1TVVJ1dmd3RWdTVi0xdVhXTUdkS2UtT09FODhxQkprVS1NVEs3Z3dfekRFNXRyQmxhV0Ric2FqODJtQTQyT1I5NzBDTXAtcNIBiwFBVV95cUxPUVAtUHV5eDdZZGttdmhQX0NXdzZFdVpYaXc4NTdBLXpPRlYtSk52alhCVWg5WWJJdElVd1hmZ0dJVk9mZjVDY1ZUejNhUHJiOEJvZFp1Z3VBMkk5ajh3M1JmMjFVNDE0djhKZzlWUGJSQjhZVVNLeWZHbEVxdkpJUlRVRkctdml2X2tv?oc=5",
-        "source": "CNN بالعربية",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 20:32:15 GMT",
-        "discovered": "2026-09-22T20:45:56.022760+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "اكتمال صفوف منتخب مصر لمعسكر سبتمبر بعد التحاق 3 لاعبين CNN Arabic",
-        "player": "",
-        "content_hash": "1bd3ab6f2d6e5cdafd73a4e9f46459632f5ea616b1229d17fac48dfcf269936e",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4292,
-        "title": "كيروش: لا يوجد مدرب يُقال بسبب الدفاع.. وغانا ستعود إلى أمم أفريقيا بطريقتي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi0wRBVV95cUxQdFk3VVFkLVAtYi13TUxJdFVxdXFMZUdzNWVUV0tkZ2JTQ3JuQ25wWFh2cHE2ak4tSEdIU1RqcnBkWHBITHJuMWNQSjk4dmVkRXZfcGg3NUhOc3F2cUxaWl80QnJoSEwxOEFLT2pQY2xFR0NueWRTVnotNnlTak1oV3RmSWVtdnpTZXhEVlVXODdFR0MtWFRUbVFXUERxVWNmUjZjQWxkYmxRV3F0QmNfb2N3RTBwOUs2MTNvZVRlam9YYjZ4Mkgzc3FHdlpRazhVRFBjeDhhMTdRWlZWVjVLY2RxR2swT3VYSzJDQmVzbFVQQVI1YlJxeWxWNUdaanZkd2xkVE03V1RoeG16dE5EY3p5TmRnZUpndnhHcjM3Q3RJRF8yLXk1VHFTVUZRcG5FTE9sbm1hckpiN2o1UHdhTEx1cXpBY3E1akotdjl5TnlmSER3R002alZXRFBSbTdmX3VWc24talhWZndxWXptQ3ZmZEo0SWhSLXJiMXdpSlQyaEYycFFHcS1saEw3RGJBR203bzdVLUNkRnU3WG4tcXpGUEcwVlFrQThuQkZuZ1Flb0JQcE5IdXBkcXRhWnlUUkdwaURidm44VEZHYVRRR0tNR293V3FuaWRydUJaYVlLTng4MER6aS1UX1BzMkMyQ1lmYld6MnBseFFJeTI5SFdERndVTjMyaldEWi1YSER1SDB3QXJaUFlYMlBjZm9DMklnT1JWR2k5MUZjTzdxT2QyaTZsN2RYQ1BiVDMyRWhJRGRFWml5SGxFMzZDV0xiOFVz0gHYBEFVX3lxTE1zeFk2N2pZVmg4N2pram9YQVVQM0hkVHJNcWdkTjFCc1hzb0UzYWFhNG1IWkF4R0xnVEdtQzI1V3YyTGc2ZDdQaDIyNEN1S05tY3N3VUdtR2tGdGVlYnlmLTNjQnFuN1ppSEZDRF9tQndiVHl4cTdvT0pGTUNvdGd0YUpMWTlPTEkydS1xVjR2UTRuR0pwWmxDdmtEUXVNZFR6RnR3QzNLSUNVNHN3WmljNjJUbXd0cVh4WEM5cHJ3T3Y1NUJDM0NmZVVlbkpCNlBEc1ZzbHlLRzFGWnQ1dDFyR2t4TTZkUUFxc3hERHpEQ3RxOWd6ODB4WEFZYU9vbUhHUEo4cHZ0NWJ5LWd1ZGYyZnZoVV9iVjFYbm5NN1ptTVVpbnJpSXFjdDYtMnBwdXBaR0JBcHU4YjNTeWlDUVJMYjNRNkd0ektmZXQ5Mk9QclBJVDRzSGRTeXNoNXRMaVZjdDd4X0Zfdy03cVZTSTI4bFlidm9nR053aXJxcHBPLVgxU0ltZnpMa3JUaS13TThQT3B0bnJmejhOU3Z1bGJ0bnFMVTF5cWRMQ0ozRmF0M3pTaXJKajBEUmhhOEs5M0R5TDV1Q2xtanBVb2dfbFM2bkxnREJ4dUdLUHFheUpyTEY5a2dIUVlUM0p1WXlmcHV4MC12SmVWRS1wVmR1OE4tRG5EMHpseXJ3R3RRSDJOVEtDdEhkZ3I5ZmFHcTNfX3JtTUFRdmZVQ0owbnh4bHNjc3l4Y3poT3JtbkZKWElIX2Izd2xabDRyc2hxdlRyMU1HX1c1eTB1Tg?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 20:29:00 GMT",
-        "discovered": "2026-09-23T00:39:38.768007+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كيروش: لا يوجد مدرب يُقال بسبب الدفاع.. وغانا ستعود إلى أمم أفريقيا بطريقتي يلاكورة",
-        "player": "",
-        "content_hash": "a8751c776917b9cfd2e31d0d614a20effbb89dfa0aa3a31d0d02fedb22106e29",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4246,
-        "title": "حسام المندوه يكشف.. موقف الزمالك من استقدام حكام أجانب لمباراة الأهلي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxPZWo2NE10NnkySTYwT0hxTThDNU5CVEFUWWcxcjdoZ1ZRQlVzRjBhTGhyOWN1RU9EVzAzLXlDeTdMSFp0Tk51c2M4UlFlbjMybGQ5SUxpckxrYjY5SjBXQ0padWVIY3JyV2VHOU5za3BNckpGZC1mZXhpTExLbndKb29oNzJheXNuaXZ5TmFYMndDbEl5ZGNBLUZiZHNheHlIX0I5X1BhelV1QVBOMzJUblJPSG9icUIxSnFkUFJGbkJJTE90U1hJdnJSZ2RmVjY0U0lzenZUXy1WUGZaQXJFcnUzVFd2TWVtTHhMeFlpdEh5Nl9nd3VPbzRxR3ItM3pwbGdzN25kSzBUSUpLZ2huM05yemppamtxZW42N0E0UUR5YlE0T1pfcFBCaGEzaWJZeldReUdsMEdtdWFraWhyRDlMSzY3cnNRNEhHVWh0cUhFQWV4LUFNOVBHYjF2Si1TcVk4cmo2b2hBa1ZXcW5QUlNKZktqUkxIRGlzS3lMX1h6VE9WdkxjcVE2SUdMR3BTVmhfb0RySndNYTl3Y3dhaGtVaTFnQUhZcVlOYUw1NzF3Uy1SYlFOeFBNSXJuUTh0ODJvUngzWHBGY3o4ZUFOUmJMem4xVVRoc1dmM0FXci0tRENSajAzWlJEZ1o3LTJkSUNHSllIWjd6OHZqU19RUDMwR1RkSWpSRDVZRmFCYWxjdUU2OWVfdkNhMEJOQkNxU2J5V9IBqgRBVV95cUxQQmdGa21hQ1hYUVo4aXJDNUlQZk5iLVdLRnFFWThJUXY5UnhXb0hTc1VKbE1hSGNta3hSTFdTNndjbzNfNDl0TlF4UzlsNVpUM1RNaHplLUd0NGlUSUJsSE84MWZVaUhPdTNNMGVCYkUtSjgxSEZDSEJ3QTE3WFhQOTROMUJTenlFUVM4c3dTUmZheWN4WjVkazI0bFBWWHQtMEZfQUtJYjFua05lOGdFVGdHZ0NyYVRFejZfVmZtM0E0VW5NQmxSWHhHSl9mMlNmYm1vTXRwZVU0S2F5RG1RS2cwd0ZNR1JtdVY3SXZfZGNKVFA4S2NqTkNxc25nTF9pa0MyYlBiQTRUS19zVzVmY0w4ZDVMbGdaZ19MUUp2TTBja1A5emg4LWFnWFpHbmk3Rmpha3NSbGh3aXBLcjN1bnM5SXBhMndFVjk5dWt5WW1Pb25aZXJHVDA4NW91OUlIaDlWOUNwSzNqeUJLR0gwaDFJbDJnZHNHTDVEVHZQQ3dpZWU3UVpoZ3UwZ0pYYkd0dVJqS204clZydm9rczlfb09nSVBIc2RfZ3lBWE9ZdkNZaWdQUjVEMDJJVXpUVjhORGFmS3ZneEcxSG5oT2RvTTh4cVNtV1FxWFhFMHVZbXVlLVVadjhhTDFPYUhNZWczUTNyeDdLSkJwc0p3Y3Y5VWIzZXc1U0Q1a1hQNUVLTEprajFVX1EwVTNZRXNvU3Y3OVZWQ0JhZk9aQQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 20:29:00 GMT",
-        "discovered": "2026-09-22T20:45:39.476927+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "حسام المندوه يكشف.. موقف الزمالك من استقدام حكام أجانب لمباراة الأهلي يلاكورة",
-        "player": "",
-        "content_hash": "5a9fd330bde65a7039573cda3fb28e57c069d0ea9770274e2daf70d991567f71",
         "sent": 0,
         "section": "sports"
       }
@@ -2294,6 +2278,22 @@
         "summary": "وزير الخزانة الأمريكي: شركات الطيران الإيرانية ستتوقف عن العمل بدءا من 23 سبتمبر الجزيرة نت",
         "player": "",
         "content_hash": "da5e2e5fdf2c9024ea81fbc57f27d3d74033fd78d308249ac7ff0d324b911cbe",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 4134,
+        "title": "وزير الإعلام الإريتري يتحدث عن صفحة تعاون جديدة مع واشنطن - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMiigVBVV95cUxPTmhGQUhwY3dzRDFaRURDRkVCNE0xZG91Z0t3WXRQVU9qS0JxQTh1bmhWRFN0VVVtRVpyQXF2d1ZFTW5tZml6TFZPNkt1d0x4VGhZTDFRX25KZXJIUmdKSjZ2Ti11MkRMckNtSTJGMUJiZTRYa0hlV0xpY2toRTU4NGhSU0FqX0xSejZQRm1nQ1NzazZNN0liVmc5SzJFSmtTZDl1bTNiaHE4N1M1MVp5cmdQcEFzSjl5ekp6NE1rUFRJVkJZQzljbG9Yek10NFVkbEhReHNROUd4aTQ1SGxtc0QycWp4XzB4cWZnYnZlWU9vSWlZWTFVWWFRTDE3c0U2eVR3dC1LOWs5cGtYRlpWenpGRjlCQjF5UGhCZ0J2MW45RkVodE85VUNNNU9VWjUxWDloZW9DTURoU0hrLTBKZlQ5UHQ3VEVFUVB0SlJKYXFnazNiOGkybnVBaHgxajFQQndZendsRXE3Z3MxUzFVTXVhNWJ6dzlqSW94M0Zwd0ltRFhFazdjUldrOWwzRjNseDNPQU9BQ21BV1VkV1pPQUVXTEw3eHlaRDVqanJDSzY0eGN1cC1JdjZuMXpZeWxWWDNMb2hILUtNSWlCNHJIZGl4OWFLU1cxOVZ4M0NyRUlMRGowOTU0WnkxNHczZW52bTQtYk1pMmtWbzR6NHlSOXFaQnBSZkRiMkszdG9VTG5JVVdNM2ZsQ1M5dWlYUnRhZWYzTmFLeDZJXzJXWVVuNE5jQlJPUDNWUlgyRU5SM0xzSVM4a3hUbVRSTzFMbG5ZUTg0emt1QWxwWWpUZTFZdTl4dVRKNTlnd3dIN0pDVEhVdC1yZlBjZjBaQl9LSmxtTU1OY0NWdGcyZw?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Mon, 21 Sep 2026 14:38:56 GMT",
+        "discovered": "2026-09-22T13:46:39.973441+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "وزير الإعلام الإريتري يتحدث عن صفحة تعاون جديدة مع واشنطن الشرق الأوسط",
+        "player": "",
+        "content_hash": "25241752bde2cc521d5e442a4d53c5038ba55102d2799b8ea9a6773cdb51911d",
         "sent": 0,
         "section": "middle_east"
       }
