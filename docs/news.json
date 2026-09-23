@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T07:41:00.062921+00:00",
+  "updated": "2026-09-23T07:53:01.758500+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -592,22 +592,6 @@
         "summary": "الوكيل العام ففاس دوّز بوليس لغرفة الجنايات بعد متابعتهم بـ”الارتشاء وإفشاء السر المهني”: منهم رئيس فرقة محاربة العصابات فتازة كود",
         "player": "",
         "content_hash": "f61b278fca344e4346e8aa0f7fb14e30d35009cf9a6a6a1c9aca80be3f5a2d1d",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 3845,
-        "title": "منشورات الانتخابات المغربية تحت مجهر الانتقاد البيئي - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNSGRpSUZkZWc3NXVBaV9qODUxWnVhcXJ1SHBXemNoSDNuS3pWMUt0TFQ5WDd4Tjl0NmZ6NWxNb1U4SVlUbTluRUk5cWpTZHJVeWpuT3ZVcGJmd0MtMWwxdG56MVFNcXBzdS1IM29qbE91VkdRWk4tY09WRG9fZ3dsanRfZzRkMTh5b01IeGZZblJ3ekg2VzNTdDhWNldXOGhQbU1IWVJMTndFVlRVSWdHWGo4ODVMZk45V0R3YkhMWlRDaUp2VUtSekdydWNhOGFCci1VVVpHY1dRR19hRUc2c3Ftd2MtU0lpbWU4d01rdFd0ME5MWUJPdVc2NUlHWGxIc0ZRazlpT3g1V0ZYWU9NSzdhS3ZOUm1RQjB6VENwQnZFcENCdGZIbjVpUF9jQi1ZNnNMem1IeEZOeElYdmtWTDhNN04?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 16:11:24 GMT",
-        "discovered": "2026-09-21T17:02:12.142122+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "منشورات الانتخابات المغربية تحت مجهر الانتقاد البيئي القدس العربي",
-        "player": "",
-        "content_hash": "37519f14a93004060cbc110a6335af5fcc94b342f765777f3e4df89135fca757",
         "sent": 0,
         "section": "morocco"
       },
@@ -2153,6 +2137,22 @@
       }
     ],
     "middle_east": [
+      {
+        "id": 4346,
+        "title": "أنثروبيك تطلق Claude Opus 5.5 بتكلفة أقل وضمانات أمنية أقوى - الشرق للأخبار",
+        "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQSVJDNTY4eGFpU3lNX3oxLW9UbHlfNmZSV2dSVDZjcGp3UllBbmpFTHQxRnhLaTdXZm4xeE9pNW4za0ktY3pHYk42eG5oX2VuRF8xbnFORkQ1WEFPd0p1RDBiLUp0X0ZuTkxCREJrMXVWMlNlSHRnT2RMMW9VbkVYUkZEbkZGQ29WYTRmSHVCMjZfdm01d1B1Wm1BSnl2R05LM2JTcE5wV2p2ZmJsWWY0bHdReE42dXJpbEhvNGJZN1R4RG9UWFZiaGF5aXQ4MFJKT3VMaHVRX0EzRmZpeUZFcjh1UUdwOXI5N0RnbnlROVN1NC02VndkdU5fM212VWgxeHJISzRyLVU4ME1XMU04MHEtQmpKeHFQb2huQzRCUExCOFpGZVMzT194Z0Mtb09odGFhNFlFY0xjaVpNVGFaOTNNNXBVd0xPUU9jR0tjalZ3T1d1ZFkxbVpycHc5T0pXNG1nQVdLN1RQdmlsZ0NaQVJBcHNqUDlCbW1oNnVteVprbENrWjdFZUVJZ2Y4eHU1alJyag?oc=5",
+        "source": "الشرق للأخبار",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 02:57:04 GMT",
+        "discovered": "2026-09-23T07:52:55.815727+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "أنثروبيك تطلق Claude Opus 5.5 بتكلفة أقل وضمانات أمنية أقوى الشرق للأخبار",
+        "player": "",
+        "content_hash": "12ab47bae25f840742775a7c5de369a3d3ab993622748993d3774eb485f90739",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 4302,
         "title": "قلق حيال الانتخابات الرئاسية الفرنسية - العربي الجديد",
