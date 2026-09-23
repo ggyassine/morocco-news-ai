@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-23T06:56:18.314522+00:00",
+  "updated": "2026-09-23T07:10:50.341780+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 4334,
+        "title": "بوريطة فالجمعية العامة: النزاع الاقليمي حول الصحرا خدا مسار لا رجعة فيه ومجلس الأمن حط 6 محددات ولا حل خارج الحكم الذاتي والتنمية متواصلة وسكان الصحرا مشاركين فالانتخابات - كود: جريدة إلكترونية مغربية شاملة. - كود",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQTk9vNFR4bXY1X2hQNWc3ZTU4eHNRS1N0MlVRZTJyWTZtSWljbWtETDY1T1BOcHVfdjBfcFBfcGVEdGZmd0ptaTRsblZnMWRlMmRFZGFtcGNpaWx1bHgxRVRLMnJaNmRIVW84Y3pxc2ZuRnRuOGZPXzl4TGl4YzV6R2F4d3BSM3ZPbnhWMkhCSGpxdnpYUFlBeVhQZHJfbkJKMGJPQlZzR0t1YVNOdFB5NG4tUkN6aDMtSmRCM2ZmMlB5b0hUZmpfd2hKbWNLRlNnLW56NnJSOUNDODlicEw3dERqOWJVMHFpMkNTcHdaQ1k0eng2VFc4ZHFQaWhmRHBhVm9sdndEQm9XVTJ1SFpJeFJLblhEc0hVWUkyT1lXcE9xaVZQVzhKWDZYM0FsQ29jR2FGTnk4UkJtQUN4MFYyTXdXVGJQUlR2?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 06:20:35 GMT",
+        "discovered": "2026-09-23T07:10:27.995767+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "بوريطة فالجمعية العامة: النزاع الاقليمي حول الصحرا خدا مسار لا رجعة فيه ومجلس الأمن حط 6 محددات ولا حل خارج الحكم الذاتي والتنمية متواصلة وسكان الصحرا مشاركين فالانتخابات - كود: جريدة إلكترونية مغربية شاملة.",
+        "player": "",
+        "content_hash": "410c853e352a681f0c7cc734b4f213076376f11300224a1d221d835c9d647f45",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 4325,
         "title": "ملايين المغاربة يتوجهون اليوم إلى صناديق الاقتراع لاختيار ممثليهم بمجلس النواب - الجزيرة نت",
@@ -629,6 +645,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 4335,
+        "title": "مباريات اليوم (الأربعاء) بالمواعيد والقنوات الناقلة - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxOUTNKMXdJcl92M0lPcXNoWUpxZk9mbUJQakVlVHNmdWZSUFNObENweW1nd05zNi1lYWdpSDE1cU9YOUM1N1hLRnRDNXlVSHhCaUdKUFhjT1cwQVpuMk55Sm9LN24xRjY1eDlxRkNTUVB1Q2RyQ2FOejloTy1MZVlDbTZNdENiSHlJODEtalFVNDA3SXhkdnVrRjJ2b0JYUUlWb2tFUEZoRjZUOW9DNnUtVV92MVA5V2xQR3hRM08tY1JwQXRJb3B0d3VYLThpMHFET29hOW5uVmZyNnlnVExmUHlvVUkyc3JKZkkxeWplSmhJWDNUNHNVWTRxWXBwTTl1NnFQdHF4X1FBTm94eUVqSXJLTzhZUTJMVWd1TFd5VVRZcDZiVGpBLWxvMEpSQ0dzdHJrTDVHLVI3NkVpY0Vkc093b1JmaERHT1FzVTVGNU0zWlhFWHBaMHg3YV9GWTIya2pfTVpRNU92Yng2QWxiZi1QUHZ1SHVNTEdpSWZJZ2tQTk03eUJPNmJ5ekgxOW8xb1gtTWhaTTg3SjFWN0sxbFlhLXFVWWhXeElTQWt2SHV3Z3hDeFlNSm9YcUczdnppY0VTdFJyYXNwNHZLdk1ZNE9QWjFvS1FiS1VVWWRkaUxHNk0zcVlTUzctNFZzeUJkNEd2YnNDM19MYlR0NGl4djlZUE42dmFoOFBRblM0WFJza01laXAwelNHWVFQcVdha3RIV0V3?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 06:54:00 GMT",
+        "discovered": "2026-09-23T07:10:35.352510+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباريات اليوم (الأربعاء) بالمواعيد والقنوات الناقلة يلاكورة",
+        "player": "",
+        "content_hash": "b345a9ecba2d1ee249d8962626ee1ed3c908632d3813b0d08cb294c4f2a94823",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4323,
         "title": "أخبار و معلومات اللاعب Gedeón Díaz لاعب كولو كولو winwin - winwin.com",
@@ -1412,22 +1444,6 @@
         "content_hash": "d1f25a8bea0a05037b1ad43d4e2d3cac7a726360d2c85a1fc758d29d6f867b72",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4222,
-        "title": "قبل مواجهة مصر.. ماذا قدم شيكو بانزا خلال مسيرته مع منتخب أنجولا؟ (أرقام) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxQWnZ5cy1KUHFSQUs4UzUyVWhmVDMzbFhRMU9JeG96YWlad0RVRVZiTkUzZVNTdVVaMWpRSGR3N2kweVJ4bGZ3a1UxNGgzcWlvQWpJYXBJdDZVY1ZwekI1RE1IWGM3VkhqQ09PRlNPbFVUVk9lc25yN0I4VWJTeFNaNkpMVU44dDdUWmNxMUlXc2VITGpsY3RMbERxMnB3ZmVZelN4Yk9kNnRneWNaQ3JOQ0RCc3BUWXBodFVjeFBHbVBrNHB2aEM5bmhJaVVEajRBZzFQOHc1SXN4dmZpcDhocGpyT2hTWE5tRVA5bDM5ZkRlOS1zbkVWVE1OWEpjYjRfczJLQ25GdXpPNEw5MDR6Rlo0WnJWbkRacm5wX25LT092NTBKeXJxby16emlVZ0ZWQzZ4VXJKN3ZzX2s1cjVob2tMWGtaUUhTellLRlBKc3Bidk1Tb3VBVFpfbElWVVlsTkJHYUgzRXJ6ZFNCajlIN3RiQmNkdVBpQkhueG81alFKZ3FQcERBR2UwaUdOVGNMc1F2TVNoMGtmS3Z6eGZkUmp3QTdYUG8yTkpvekpUcVd0bGJDbDhxVUVXeUJ6WkJxQ1BTTmNpQnpqY0dWWWFFQnpkQ29Wb1V6T0g2OEIwYklJSzFsSkNVMVg3YktOQUM1TGtMRzVZNF9hN296OUVLYnoxWVRDTEFwZWxxUXpKSmxGRV9DWGJsZncxeXlNMWFsNHZaeDJubUtHT2V1NEJhQnIzWTFkdGJjbHpB0gHABEFVX3lxTFBjQ2MzMWJ3WGVRM3VFTGwwRm5mYmtkeFlSUm54VzVmYU5laWd3d0xFN3NYTk9kNGQ3aVh5Q1F1cjllSnZXVWI5SlptUVVXRHRRckh5VWxIYjVHRENIaTd4N0lFNE5RQ3gwVTVHX2VyaWJ1b1R1TGx0Y2NOOUVxUkZjejFHSkI0ZXIzb2Jta0xid1liQ3JNTFNTWnI5dTg5ZFgxSHJOeW5xVkNZWmUycGtxMFRnQWF4WkRaODBnN1hWdjJ4OVlTLUtzdFNKb09kZXZxRjcwa0ZLd0hELXdiYVlxTkdacDZhZG1XbnNwZEVRVVk1QXRhbXFkVjljVmkzX1JwczVmR1hITkcxaDlnUkd2UUhHY1I1c3hDRlZRaVFSSTZSTkJRWHJpQU1BblpOZHNyejl6X2xQZThhQ3VqeVFHaU5CYmJFN0tWUWZYZkVyZ1BfM2cyWEhIWnRFMUtyNzI0eUJRWTBVQmJiVDg0Vml1TWVILXpSbjk4TGJ0UWdhN21BN2FMMzFhaXpoTEJqTjlMc1pScHJwc1ZsdVpNVHlib1U3bkhlck5LZmUxQ2pmZWd5bDlJVmRkSXl5Uzg5cGxYUGVUYTZXb3hWYmdUMWN3NF9NMndnbVplWVkxT1BkbGxQZ3BtbFdDQmUwLXNlX2ZXX0h5UTE4RUsyN2E3dVFfdXlGMDZ5OXp4UzdUY25QTVMyX2tSUElaanJLbnNYZ3NKdXlrVWN1anY1M0k4bnQxTWF6TldQNElRYkZYaGt5UA?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 19:08:00 GMT",
-        "discovered": "2026-09-22T19:20:13.993210+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "قبل مواجهة مصر.. ماذا قدم شيكو بانزا خلال مسيرته مع منتخب أنجولا؟ (أرقام) يلاكورة",
-        "player": "",
-        "content_hash": "add38c389949b0677632b7cf9426440f80918b0eeb120fdf6b3b6c83cb1b3fac",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2148,22 +2164,6 @@
         "summary": "خبر في الجول – وصول جميع المحترفين لمنتخب مصر.. وموعد انضمام هيثم حسن FilGoal",
         "player": "",
         "content_hash": "598940503c2d1a83b602d9aa751ab1860a3ed45ecece9117cf6aeae5d866dc20",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 3959,
-        "title": "عودة زراعة القوقعة تمنح أطفال غزة فرصة جديدة - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOZVZnVlBPRjM0dU5UQ2JJTnFkbTJDVUFoM2xtcTRKLU1pYmtubnJKRG5uX2ZXYzRfZ3VRWUZKeGYtb2RzQzNtNEdJZXpmRTdwdVdPVWVNZnVrbzhoMGhPMHBxR2tkQlIwbWJWTHJjc2RzcWF5bUUzUnpWMFlpR19rai1HVWxfbEF6WGNqdFVBMnJvdDZ2WndxZkM4RnRYdVZZVWhONW42R2FyamtuaHZKNmV4WVU0RWxBNzRNNnc4aDAtUFJxalRuVTd2X3JxRm5HU0tNYzJBVnB3eE10M2g3NEVmbE4tbmZkUEhFYnZZaHNPQ3VwNjJWaG1meXBCRmh3SmFHMEFydlYyMUNXTkh1OGxXc29TTUdsb0lwOF8xYXprLU5aM0tfTUg2SElUVHg3YUJxSml4SUY1RVp1X0g4QW43NHRjZDQ?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 16:00:47 GMT",
-        "discovered": "2026-09-21T22:03:36.806344+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "عودة زراعة القوقعة تمنح أطفال غزة فرصة جديدة القدس العربي",
-        "player": "",
-        "content_hash": "c61c6fd9300696113b142733f0502f2949e0087fc9ca5fa3373b17a38cdcd3d4",
         "sent": 0,
         "section": "transfers"
       }
