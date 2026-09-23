@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T06:24:06.623323+00:00",
+  "updated": "2026-09-23T06:41:37.831023+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -624,22 +624,6 @@
         "summary": "المغاربة يستعيدون توقيت غرينيتش.. نقابات تحذر من \"ساعات إضافية مقنعة\" Hespress",
         "player": "",
         "content_hash": "1770b1639de3eaee62cc4d85cc1bc70ff73f449f42429be559ce6b115c4a3f31",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 3929,
-        "title": "حرارة شتنبر تربك المغاربة.. عالم مناخ يفكك لغز تداخل الفصول - ar.le360.ma",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04WjV2T0YwcjNabDg4dXVpWjRLYWNIVnpSRGNPcWtiTTB2QkRzcWpfaGF5a1dJa1VXTlFjWjRydUNUcXNEWm9pUlFNRndlMjlYd3FnSEEwM3ZJci03T2NhR2pkbDVCdw?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Mon, 21 Sep 2026 15:02:11 GMT",
-        "discovered": "2026-09-21T21:17:35.879910+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "حرارة شتنبر تربك المغاربة.. عالم مناخ يفكك لغز تداخل الفصول ar.le360.ma",
-        "player": "",
-        "content_hash": "3332624079710faefe7bee8187a85b720c16269967fb3d79770a91e576fc0f5f",
         "sent": 0,
         "section": "morocco"
       }
@@ -1508,6 +1492,22 @@
         "summary": "أياكس يواجه منافسة شرسة على ضم الموهبة المغربية إلياس هويرة الشرق الأوسط",
         "player": "",
         "content_hash": "073e232c4c8d6dadb1ce2623e2831b77b928c6d7561f3fad73a59222c8d21aed",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4333,
+        "title": "مصدر ليلا كورة: الزمالك لم يفتح ملف تجديد عقود اللاعبين - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxQZldHeXIwbEtXbnZMN3Q0VmtiNUpnbGhJV0dGTVBGelVWSFFLSDVlNTR6dk9BU2txUjdwSmJ3Y3FacHRhUHFUYlJpVnJFSnpIbnpLbFJubnRvaEtDS3NYeHByN1RXekF5VDRtOWRnLVR2clJQMFVqNjI4ZklJZ1hvMmp4T2J1bTdPSG1GamJoeHA0VkNlWGJUcnprb18zdTJ1SnVnS2FhR1VlclI4WlM2YktLMTQ4T2ZrdHlQUXZrV25QdHNGdU9uTm9WV2MwUFAwY25BdWdseWNPc2xCMFMxb01JbkNvelNYaThHUHRxdG9CcFJwY2UtUENtQmlEMC1RdG5Sd084alZQYmRkeE10UERkcGV6TnRuVmJSemJXck05YWNpVkEzUlhHelRBRTFiU2k5OU1VLXhFMG1LcnlLNUN3RkFhbGlDMFlDd1puNm0tRmdJRmh4OHZKdUhHZjdjdlk4VHhzQ0FTejRLQ1FYd0FwVlZoUFVMSFpUSjB2Zm5kWjlkd2JwWkx2aEZyMC03TEswcy1KdE9ueVZyRG00Uk9XSHRqYmhEcVd2S0Z4VS1jQ2JKZEtGU3R4bXRvMVc3eG4xRVh3Wk5hWU81WDJjUTlIY2FhT0hnMWFVSkZuQdIB5ANBVV95cUxPLTU0OFVnLXpVczJwQVU1OE5fRHFPb3hDcllERkRHSnN5MktCMi1feVlhaC1vZUZDWHFqdlk2ODdKRWNFbnVmODdEM2xLLWFSX1JwbER1OVBKcmpEZXpaaWtuajlsay1EMHdyZ2piOGF4TFhIUFl5YnBvbzZITlk0aDB3aE9QcTRmXzdYOExHX0M5YWlVX1ZfYVRjdWlKNmdhSWZ6V2ZZWXRNcE5OaFd0bUZUYjk4MGNHQ2U3NUYxT1k5RzZZc0hEZmJwdk8tUEY4bWNKNmhFOTd2MGNhc2NhaHBDNTFpeVdhZTVTYk5LTGRyRGxXNjFycHRQSnhwSmNsTGV5NnVLb0ZoY0JlQUdqS0pOYVFldFBSQTQ4d29GNF8yTHJDdDN1QjZ4em1QNk45RmtmR25QdE1GT1IzM1dQa2Z2ZV9UUXd3UWFTTmdNeGw4Y0ZnNV93R1c0dWU0clpDUlZpUS1NNkFXYXZucnRQcGJfaDRkaXUyVW5WV3h6MWtmSllNMGJ2bUo4Ui1oeGVlZ1NtWHFONHJZN0J3bDJIemNrQkhVcS1TWVJxcldFQm1CN2hEU1FhWEVOcTBFVGZFM2pZbmRyUFRaQldQTHJOMUNoSU9BblVKTUNzakw1N01vWXZn?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 20:44:00 GMT",
+        "discovered": "2026-09-23T06:41:24.549530+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "تجديد",
+        "summary": "مصدر ليلا كورة: الزمالك لم يفتح ملف تجديد عقود اللاعبين يلاكورة",
+        "player": "",
+        "content_hash": "e08a5bbce5d321a8d0d4ec17732d776a3bfac2bf961b5a5dee8b392ace29c2ff",
         "sent": 0,
         "section": "transfers"
       },
