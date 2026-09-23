@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T22:33:25.505598+00:00",
+  "updated": "2026-09-23T22:45:02.026768+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -608,22 +608,6 @@
         "summary": "شوكي: كرامة المغاربة وفرص الشباب في صلب برنامجنا الانتخابي Febrayer",
         "player": "",
         "content_hash": "c7a0292538fe94ddb8edc38f799045837d49e61fda6e0a0e0d9e7d7aab4d5130",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 4221,
-        "title": "ديابوراما: حريق بغابة تافوغالت بطنجة - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zNXpGcmJQa1hGUi12ay12RmlBTzFpamxVN05xbS15b3RrbzNsSEFRSWhHQ3VZcHVBR2FuQnBCQkpibjBSLW03cFNvSU9FWXpnS0ttOGpjUk05MHgtRkJaRnp1QVRrb21u?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Tue, 22 Sep 2026 13:12:09 GMT",
-        "discovered": "2026-09-22T19:20:01.388034+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "ديابوراما: حريق بغابة تافوغالت بطنجة Le 360 Arabe",
-        "player": "",
-        "content_hash": "c5c2fccbd24c39e9af70a63077c6ee819eb0e42898ba383c0883f3730acad353",
         "sent": 0,
         "section": "morocco"
       }
@@ -2036,6 +2020,22 @@
         "summary": "بنك المغرب يثبّت الفائدة ويخفض توقع التضخم الجزيرة نت",
         "player": "",
         "content_hash": "f5d5319ebc82507a5bbd90d42b02038026ba80812b25c11e3eb61088dce0518b",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4624,
+        "title": "«سار» السعودية ترفع أداء قطار الشمال للشحن بعقد مع «ألستوم» - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxNUktwa1NVcGdYYllhY19hOXFMOUFEbUpGY0Nic193MzBFZkZwZXk1SlpIODlNUGNBTXd2dmZ2QVpTY3BDWkNYNm1MMTFDTm1xUEJSVnBGOTR1bDhuVlhiMzRROXFHN1h3NE5EQUF6S1RxVEtNOFh3czRZRTE2eGg3NUlmaFRJRUJZQ1dOVEZnX1l2MnpTRDQ5ZVlMVmhRazl1c0owQ1RleXBiUkRoYXhUWnh4OVIydERCcVZhSGt1MndMa0o0bG1QSXY0ZGcyZE5OY1FIekZwMF9fRXZIX1NqSEFrdWo4NU9QamNLY2tjbnlSMVlxRUl1SnVLR3Rzcmk1eFZhSWN2VGkwRlBSMTVuVC1SQUdwT2J5YkFWS3lQYTdWVzBBSUxheHVRUThrSURtODFITXJaMDFfUzliRVZBVEFrbXdCdERJcDRPX2preUVfWGZUTmFkME01X2lZd3ZvZ2xKTzhrbi1VS0VUT0hCaGNnd2VOS1VzR19FZ0dWalhtZUxRQnRHVzkxMTBNM1NmdXZNOFU5SnZhWVAya2tpVHlGRUd6bk9TZkFHb0xPbGlxdGpVQ2ZISnJtN2JWUzR6eGl4ZGxyY0pUTUNyM0pOSjVMWUk1YjBtWWNaQTFKeVo1STlZclVnczZSc1RzaHZFLTdsdDQ2NDZPZUFpanc?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 15:34:24 GMT",
+        "discovered": "2026-09-23T22:44:56.467581+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "«سار» السعودية ترفع أداء قطار الشمال للشحن بعقد مع «ألستوم» الشرق الأوسط",
+        "player": "",
+        "content_hash": "427274f257d0943fba12773a5ced5126b4af7d31d4dd82953d061c8a23c286cd",
         "sent": 0,
         "section": "transfers"
       },
