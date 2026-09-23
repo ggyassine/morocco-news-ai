@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T13:01:59.525484+00:00",
+  "updated": "2026-09-23T13:21:27.084619+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -661,6 +661,54 @@
       }
     ],
     "sports": [
+      {
+        "id": 4440,
+        "title": "بث مباشر .. شاهد مباراة العراق وعمان في كأس الخليج العربي \"خليجي 27\" - kooora.com",
+        "url": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxNdXRiOVBNTEJaODRUb2NIelNHdlczdjh0M2w0SVVFU2UxelNuMEtMM2dycVFXNEFJYlJuWTc1eW1kRGFqNDg4WlBfX3VNdVg0UnhlU1E1X0dCMUFtQmtfekM5bnhBX2t2b0ZhZWNSd3ExVW9GM0dUYVltRHlMb282ZFJaNU1Dd19JTGgzODVzaTI3QzE3bWRBdkVGLVFrWHRVb0cyb1Y4Q21Uc2h0UXo2MVE5UWpMMlFCOWhHbm00TzhRbkxqVEEtMVJFUkpweTViUnVqRlFEMl9GOGgyVW5SNDBTWTV3QjJUVnBmRm5mSk9ycEZwVmVxa3gzNnNtLW5qRjd1RnItckZXUjRLbXhBZGhDUi1RUk0xRWNKWWNfSEFoZXpZZnh0ek55MWZ6Z2labnNVNHF5Z0JZbDc0WGdJN2lrMlk0TFBZdDNBT1d1UzJHMkpmb2lyaDlQZGtBbGZkR0hMTVBIYW9pR24tRDJ4eGNlUzVjbUdOTDd2akc3U3BZUGVxTmFoRzQ2dUszbGZOVm52ZTZlSmJuU1pMT0NkZWI4TUJzX3h0ckFuV3VabVpZNDl4cGpZS25zcThfQ2lhZmdzOXJha0pkWVZRN1JrTEdYaFdiQ3FFVVQzb0lhdFdiWXI4alRLc0VwZzIyczFvenBVbHU3NHAyQW9QYkFqUy1ERGdQbW8wNks3MEdFMUo0aGk3OFR0V0xCNS1vY0ZiaV9iV3JNU2RpT1RNNVI3b2EtMWFuOW9kR2RvRTZjSE5pb1gzS1NSTk5fVFc4dlVCb3JKOFV2dzN1ZUF1?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 13:18:50 GMT",
+        "discovered": "2026-09-23T13:21:06.201640+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بث مباشر .. شاهد مباراة العراق وعمان في كأس الخليج العربي \"خليجي 27\" kooora.com",
+        "player": "",
+        "content_hash": "238e71db8ae228eaca94d164b55a8507572cdc07b2b21e4f23305a36e2a10fba",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4441,
+        "title": "قبل 10 أشهر.. لاعبون لفتوا الأنظار في آخر مواجهة جمعت مصر وأنجولا - yallakora.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxORTMwS3I0U25YOFltQWZ0LVJ1bHFEVUtTUVl1OXIzQW04RFpkRTNjemVsNFpHT19KN1ZuYlNZMDR6czN2OGFFM0hjNkFQVUNmZEl0cktRMndtcnkxMndsUXRUVjVacUxaMDBpZnotMFV6UTh1R085N01zaXJmX2FxaE1oZHBZTmdydC1UdXFiR3ZKN2tOdW5TLUpocUFIOThHQm9zaUxPZTJrM016MUlTVHkwcFUwZlNzM1JyaDZRbTVESHpwVE1yUWZscV9yWDF5OUtsZmllVGx1OU5oOHdpUkNJcFhGNnZTaG8wX0pYNks1aDZGdmhLckt6YVA4QUlSZ2Nja0JRanZ2UGdfcmZNanpLeWdSUU9Yb3VOM1RoRTMxS3pTb2JXbjh1R0xPODk3VzBuczZpcTI4a1pzcDZ0Y3kwd0xVNmxlMVBNMHltU0tRU0RmLU05MmdmTEUybzNqOHBubElncmdVU1djR1pRcktfeGE2Q19ySFVrUWRMT25YX2xTOVN5bWRCRTJHMFllSTRKeXBrNk5aS0tETnotRGRWOWhOSUtEcFQ4M2hVV3QtV0lxOFJyZzE3Rmx5ZzNCWkF1aExMUkIteDBGemhPVC1DRVQ1RnZXb2hoRkh5SXJYY1J2MllTMUJkbkNhS1I3ZTlwTng4c1FIQWUwTG8tMS10MHpaUnpBYThN0gGQBEFVX3lxTE50RE11bHQzLVRfQTNvTHdVenZXX0t1MEpMRm55LVFSTHlWdzBPSjVBU1ZPZXNjQzV5bDcyT3R1eFZ5d0l1a2Rib1E4bzh0T2pCOGRIY3AzbENBVEI1ZW9kNUVSOUJKbS13XzRlZXJUWElkNHZmcHlJa2w2NFZjZlRhM3NvWk5WS283SzkyendpMWFFZUNPYnZ1Y1plRFVGWWhzTjNrWG56Y1pOZnUwa2RPblVTM3BuVTFNUkdlUUR0UVVLcGNZY3hIbzJNMFlrTnRzTnRqelpVZ2xITWxfSTFVd1dYcXZKeGxxOVgzbzdxZXhTcFhORkNOUTlXQWF0Y1hkY3U0akF1dkhhMUdiTGlBSnhLU01FYTBCZURTbEt6aXRRcU5HcjA3elp2Rml4ZzVOWHZyN3NDeXFCd1N3VFotVTRvTk8yeXp2NTdEdFN2QWJDTDNBZDJ4VmEtOUlYNXZrdHZNd3BZTGcyamE5bVdLaDI4RmsxUFhDdDhTc3B5U2VwU0ptaVlOVTRjR0VvNHBPbC1OSDhnekw4dU5zaUZyWjhtSHlqT3hUOWJQNHd0TGdyd05EQ2RkT1ptdVR6bzJWUlJCNzBrUTNJVUlybTc0ckt0YjhsTGlpR2F5ejV6RjlIMXRESEhhcEkzMy1iZDVhR1BGY0NmVWk1ZXNSNV9FZU1tbmc5Tk1XYUZUVHhiMQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 12:55:00 GMT",
+        "discovered": "2026-09-23T13:21:11.194647+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "قبل 10 أشهر.. لاعبون لفتوا الأنظار في آخر مواجهة جمعت مصر وأنجولا yallakora.com",
+        "player": "",
+        "content_hash": "5d6c2f4042ffb7e697021512580a9c914166509a94a0868825cd0eea816759e5",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4439,
+        "title": "ما القنوات الناقلة لمباراة الإمارات واليمن في كأس الخليج العربي \"خليجي 27\"؟ وكيف تشاهدها مجانًا عبر الإنترنت؟ - kooora.com",
+        "url": "https://news.google.com/rss/articles/CBMimwdBVV95cUxPbU1QUlgzSjRva01jc3hydjhEa08wT0ltbjEwMUpqbnJJNTBZQlVmV0FnQ2dnaGhycnJYY1FESldtRTJQWlNxUDBjaXVCUzBrT1Z6YVJzX21wVnEzRXg4Y3ZTNnJEeVBNQ2YtSmllZGg0SjhFaDFmcWlYeTFWUmozdS0yQXBIQmRqRC1mcWRKMHdORm1YQXMyZ2ZuaktYTnpUaVlJX3Jfekp2NUluRzB3a19NOGU5cUtMbzFpVWN4Ukw3alpUWkpudFBkUjNTN09TZENjOHN4YVNkdS1oeHc4dDl0TTg0RGhaX1BfS2Y0bEJudjJ1T3hGRk9aZG5oaHdVV1dUVGpfODBURWZfZmlQQUxnV1BYQmR4bnZUdDRHTEdOTGNBZGFzbmVoVm93VHdPSG90Vy03WDFoempnd1R2TnVSb3F6Ty1TNVhfTjNIbEE1OXQyWjV6Rm5qVTFDRHpDd19wZlppTjFmNWNfR0lFREwtY1A0MFVOeVl6QV9ObVZaYmM0Ry1wTUtyWWxCSnVlMmZMWUtNRHAzNFRWejVGakN2dVdkMHJDSGZDZ1ZHaVRrbmgzU2ZUb1NZU0s3M0pCN0tvQlhLaVpiY1EtM08ySXFhblQ5VnBlVEFCZERXR3d6Y1RyUDdrVENnMXRBOV9PY3NKZGt1VGIxMmp2aDhGQUFqckdsbWFPU0xVaHRxNW1LcW01ei1UUHRwS3lmMWJUTkFxNGVfbHNKTVZaSFZEQ1VfbjZIVGlLdHlZTk0wZnEwQmRCWkU5ZUdsem1fMklEbGtuMC0wdkhtZElnQUMwRUxob1h0NklMWjdTSXJMNEZjWEdnYUprN0pvZG9xMDFZR1VXN0VuWTgzcjF6Z2g4NVUyN1p3cnVrNzRnQWhGRDAyNml5UVdwVFQySVU4YzZZUWFUOGplRnRlVmVLV1BnZnpCcWpfdHQzZUE5UU5ITjRwUk5xTUxwTEJwb3M4UGhoeWhRYlZhaUhKSE5oV3FyUVlhU2JGcjdMV0FHTnlsLVpGQkNPRzc4am9sbGFCTDd5SzdrSU01XzF5QXVwQVlleTJhSWJNUklFMFR2dG96Y0RobE5zbnRuMHhxYzJBOHRXb1Y4OVliSHVzMVktNDA0MVFoWFZoSUkwSVl1QkVMOTlwSGZnWVNiMGVraUZnMDNEQThzRTc5bUtteDFMc2ozTjJVSmtma0V4d19tbk1Sb1NDcnl6SWtRMnNlRQ?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 12:45:32 GMT",
+        "discovered": "2026-09-23T13:21:06.102573+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ما القنوات الناقلة لمباراة الإمارات واليمن في كأس الخليج العربي \"خليجي 27\"؟ وكيف تشاهدها مجانًا عبر الإنترنت؟ kooora.com",
+        "player": "",
+        "content_hash": "40787229960079cc07f1c209b399fb87e2a9149b42c098941749ade008eabe82",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4432,
         "title": "أخبار و معلومات اللاعب جورجيوس ساراكاسيديس حارس مرمى أيك أثينا winwin - winwin.com",
@@ -1412,54 +1460,6 @@
         "content_hash": "9670e2a5c5c5c91259250da62d7caffa20a6055352b1612f04ca581eb8c3c203",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4323,
-        "title": "أخبار و معلومات اللاعب Gedeón Díaz لاعب كولو كولو winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLWc5Y1Fwc0RNR1NicVdBWUJ6eDA1all2aV9nNzQyQTV3ZXAxVXpmQzFzMnRtTWRkclQ3eDQ0OGJLVUo3SHg5SXphNFF5WkdNbzNlbFptaHk2cUU0VTRnS0JmSVJUVy1Iakc3SFloX2hiX0pza3dzaHJhdl8waHgzOExRZTNoMzlSZzR6MnhsNlZ5UkQ5dWJlMDhHcUMzYVZrcjZkQ2s0RDhUM19xaVlPcWlKWUt1SGFFXzc3MFFYcDFma2tJODRmb1czYw?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 04:28:09 GMT",
-        "discovered": "2026-09-23T04:35:11.758454+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب Gedeón Díaz لاعب كولو كولو winwin winwin.com",
-        "player": "",
-        "content_hash": "a95099b0cd070523a9790ead80d57f8787f47ce54def2fbebffe1ec1469917a6",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4328,
-        "title": "أخبار و معلومات اللاعب عبدي الريحاني مهاجم معيذر الرياضي winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPcHJyRC1FVUNEVmFZWG9HRm5sQUxEbDljWk9Nb3hWckhuX1Q1RDRscGJQbUhCMTdDOGM1N3F0SHJXUWJWcUhUU2loN0VEaUhFY3pwLXpXY19XeG9JV01DVXdEWUZEdW5GeHc3XzlGc1pIVk9BOUZjZDY1bXg5TE5sazVvaEpZLTdteExmQ0k1dVJSMU5md0lfSVdSdlM3U2luV2FFQnA2c3BleHZvdkxVemhjaWI2YkI2NU9lYUpGVFdrRkxmUDhJX1d0T2R4MnowbThaeVhjOFBDNVpFSHBnUVNkYVpNTC1hS2dNcm9Gc2pSbXk2TjNEV3loSFJGT0JYQjkzWlhja1J5cGhnN2NIWA?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 02:39:31 GMT",
-        "discovered": "2026-09-23T05:26:31.603855+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب عبدي الريحاني مهاجم معيذر الرياضي winwin winwin.com",
-        "player": "رياض",
-        "content_hash": "4bd83636cae8c106c2b5e9c2d4d734d17fd381ae056577c4685f43bcdf415d8e",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4308,
-        "title": "أخبار و معلومات اللاعب محمد مغاور مهاجم الشمال القطري winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObUdJTFExdlJXajZpRzZMM1hWVVNJMjlySUt3dFh4eUNzRVF0bHF1MGRjWk1DV3V3N3NMVW44SUh3Wm5UcVQyZzBuVUxoVEZqcDlPSG5ianV2Q3owd0Nza2VXTVRfbF9hekJxdlJfVlRpUDRNWDZ5NjVoUFlfTDloYnFsWnZVN3BPYUllLU5KT1lzLWJXVDFOQW9oSEE2QnpkYVRDa3ByVlpnQXA4c0lZZWFSd1Vjel8wSmhCM2J0U3Jmb3FhM3BReEtGdk81XzVqNDB4aVBweEpJRmNvTzhHSmMyNlJVTnJScWVJcXZya05MS3JrOHlKeQ?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 00:45:31 GMT",
-        "discovered": "2026-09-23T02:03:45.447038+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب محمد مغاور مهاجم الشمال القطري winwin winwin.com",
-        "player": "",
-        "content_hash": "4084a96f85c00141b208a1318a4e774dd83b27e0bfc70237bae586a1c4da6479",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1556,6 +1556,22 @@
         "summary": "ترامب يوقع اتفاقاً يعزز الانتشار العسكري الأمريكي في غرينلاند BBC",
         "player": "",
         "content_hash": "de1b1f9ed638a5bd831e366c73a86f02f22458cfddb5644c7b7240146b63a2f6",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4443,
+        "title": "وليد فارس | ثقل حرب إيران في انتخابات التجديد النصفي - independentarabia.com",
+        "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOOF9DZmpyZkpfS0lIRVVVU1ROM1VWalU4cmhIdENiMFdZY3ZjcjRtZDBKeHFJeXExS3lSN3VzTzRQWXlCdmxjWU9BbkZNVkRmM3Y0TkNGMldDM0lFZnVUS3FIRzMxY1ZhVVZQWnNGdTNCWlJpcHZtS1plMnJHUl8ybFpSQWZmSGItWWk0ODc3aHVKVll0bDJpc2puUGVTazZSeV95c3BhVmtEdmZDTTJkWmNiV3h6UEltMmN2aFVJcW9TaDhZMHRzc05UVzlPcXdpOXlwUEVTRnNvV3NLV1dUdUF0czRqZmdJNlBlZ3pISkNLWkR0ZTBESEt3cmgwamxrZUxaek5qazc4V0M1Y1JYMDF4SDZWazdCUm9DOE80eGlvYU1ac3lqcFRqUnpWMDMxVkE2NktUVlNIWkcxOERjQ1Z0d0dFbTBLbmRyNW9LMWdnVWs3N0FoUW0wek9rOFlDVW96UmVBemFNYUxNUGs2X042SjN1QlFBNGxkbFFndnM2SG9wQTJqQTlmUFF2OFlpYkxR?oc=5",
+        "source": "إندبندنت عربية",
+        "trust": "C",
+        "published": "Tue, 22 Sep 2026 22:41:14 GMT",
+        "discovered": "2026-09-23T13:21:25.645704+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "تجديد",
+        "summary": "وليد فارس | ثقل حرب إيران في انتخابات التجديد النصفي independentarabia.com",
+        "player": "",
+        "content_hash": "66649acb90c659496169be5c52cee4659fbd8691fe45a6f013f45665830b8921",
         "sent": 0,
         "section": "transfers"
       },
@@ -2294,22 +2310,6 @@
         "summary": "الزيدي يعرض في واشنطن خطة بغداد لحصر السلاح.. وهذه بنودها الجزيرة نت",
         "player": "",
         "content_hash": "6816e23fc667d1fa4a78df967a749989e28ab15bb8e144de8d38cb50b45a845f",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 4182,
-        "title": "الصين تدرس استئناف واردات الغاز الأمريكي ضمن محادثات التجارة مع واشنطن - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNZTZ5N25XMk1HUzFRYjRFc2pVMS1KU1ZrY0h4bnRkSFJDREFLSnlOMUdlZmdLUE93bnBfbHRSaGdXNXVqSHkzdEFnNFhuWkVWZXFhZWM4S3NXSkZGTklRRW9UVzVjZ1RrQVVYN0xtZGROTUUxR0w0aWlycXJydUlkUVlEX3RwZW1TVDBtbmhmY3V5SzVLcFpZaFY5WU9HbHN1SDMtOXltdHhGdDZNR25XMWxJR20xTFB6b1diY3pxMzRvcGVpUUlrVUVxSU1odk13VV9nU3RHVVd3cHVBX21TUEhHa1Z6OGo3b09sQU1WNWJVa1ZSa1lqcmRFS1BZOHVmVFpaT0pYQWxsRGVicktCanFDNWFBM0ljQXRyZXhmbVBWTWxlTmM3c1FjQWUwT1BlcGk4c212SdIBvAJBVV95cUxNMVh3cmRqZWNIU2ZCLXFQaWNWR3R6QTJ0cUtMZ2cycGpkemtSTW0tZ1k1a19oSnFBWGpMRk9OUDAzWUVkdnpCZy1wU09BNHlLVmh5bmhDZDdXdXBuV3BvOFgyOThGRVBpOHBqZms1N1UtbXlJVkNuUGxuVmRBUXZ0azRQWmxNbEpzSEhMV2pOaVYyM1lxazNMUDJ5VVA1TWVQenBXaGhZVUJKM0MteEZfOGxaREVrSXVSV19hb0Z3b25PVlUwSENEaUM5N002ZWRMYThQUmVvdmxfVkRZVmpCSXRJYmV2QmpWMkt2Y04xZFNpZVg0bV9fM1hrYi1nOWhyVzRtZldTLTJkYkUxNnJzV2V5Q0ZGaVRZRXllelMtQ1o2UlNpOVdXdUYzWktzQ292OEVyOGdDZjNTUlFG?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Mon, 21 Sep 2026 18:11:10 GMT",
-        "discovered": "2026-09-22T16:30:56.788806+00:00",
-        "category": "الشرق الأوسط",
-        "status": "مفاوضات",
-        "summary": "الصين تدرس استئناف واردات الغاز الأمريكي ضمن محادثات التجارة مع واشنطن الجزيرة نت",
-        "player": "",
-        "content_hash": "18fe11fdd13cef80467bfb24ed5e1c1e5eb6bde257f37c4f64d6ddaf42978ef9",
         "sent": 0,
         "section": "middle_east"
       }
