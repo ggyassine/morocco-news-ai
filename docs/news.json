@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T02:21:06.030725+00:00",
+  "updated": "2026-09-23T02:34:19.634070+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -2280,25 +2280,25 @@
         "content_hash": "25241752bde2cc521d5e442a4d53c5038ba55102d2799b8ea9a6773cdb51911d",
         "sent": 0,
         "section": "middle_east"
-      },
-      {
-        "id": 3903,
-        "title": "قطر ضيف شرف معرض القاهرة الدولي للكتاب 2027 - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQWkVobDZsM1ZhZFNFYTBNTDhSWXVEWmRZVmJuamRyaDFXUkpvQm0yTDdLWjdEZmtGNjJkS3VIWlk4M3puSDhxTFg4SWMtUWJZNFhFbTdNR3NqZnhKRlM4Mi1NQ0djak5CcDJ1YWpqSVVJb19Hd3hjNUdYeVZDMGw0ekNoN3RpR0xYZlNkMV9KLXRsX3dSQ3MwcHZTMmtuNV9rV1puT21xXzBodkhNa2lsS2JIaUpnZ0ZMamxFUkdGMTFxN1I1ak1LYWR1dDVkTENsdTl0RS1VN2xjNm1SM0lYd2xxdmpwWENXX2NqSjR2dGVDdHFGOGV4aEIxaU03WFZfQmtiTmZUMV9IRVZIajU5akw1MVQxSXZzZjdNdDE0dmVKQ1hOUUFVRUdRdjZoZkk0SExRVHE3REt3cGtZNEh4UUtIclpoUDZsVV93TEh1bE1zMTg3NU56dg?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Mon, 21 Sep 2026 13:33:27 GMT",
-        "discovered": "2026-09-21T19:43:17.757845+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "قطر ضيف شرف معرض القاهرة الدولي للكتاب 2027 العربي الجديد",
-        "player": "",
-        "content_hash": "9e0486f96b4d30f410cd2ca4d0e90af51ba775d3df0e126672c78bd7e02b61ab",
-        "sent": 0,
-        "section": "middle_east"
       }
     ],
     "world_arabic": [
+      {
+        "id": 4311,
+        "title": "الوديعة السعودية: إعادة تسعير العلاقات بين القاهرة والرياض؟ - dw.com",
+        "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNTHI2STFTR0s4Tkc3UE9fNDBta2tpRlhLaGpFYnNjbmJhZFZuYVVQLXdzWW1DZHBrc2tXOWlfV1JHZDAzbUdLTWlJRXl2UEZMMW9MY1NaM1ZkU1hhYnQxdEFVb3ROSTFBSEJUY2RSeE11X2hILW5SSVFmNzhaNmlvUFoyTms5UEhFVndoZjJOU3VwRV9RYlBrZ1NxUmYxZzBVaWY3US1mekdRUFB6TGQ2dkFhSmVXSWhOT0hXRUhwdjZiMHZGU1lNUVBqSHI5ZERNVjE5Yk56TFpWaTJDUXNHNzRUd2xkb0tuZEt0N1hUWmxmWE9oaDg0TnFCOTBHR2xiNXJINVFLM2UzR3dyU0NtWFMyLUpsbzZZOGIwX3VEbXh2dXZSRG9VaC1TSHlQSVFDckhIcFdMSzBxVU0xSlVHZEdFTkRmWU10SjdoX0J1TVNRd25Sa1ZJQWs3LW1IM1g2TVJVVmxaZExMUG5lZlg3bHN4N3JLUC1kUG1hSGQ1Z0plWkNfaEZOYl9CY3NlcVpBT2hVbFNlV1VDZkE1N25wWEY0MG4tVmREME9iTTF1R0E0OEFZMDRDTzdfdUNtT1RsR1dnUlhaelY0czZ5Y0hhcWlWQ0xBNU9LbjA5cFh6X0EzdDBDcHJ3?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 18:31:29 GMT",
+        "discovered": "2026-09-23T02:34:16.923990+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "الوديعة السعودية: إعادة تسعير العلاقات بين القاهرة والرياض؟",
+        "player": "رياض",
+        "content_hash": "929d45597c885eb751fd826a058e3464a7fce3e45d854ce0769db53a9fcf5130",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 4199,
         "title": "عرس عشائري في العراق ضم أكثر من ألف ذبيحة يثير جدلاً عبر منصات التواصل - BBC",
