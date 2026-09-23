@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T15:44:43.537445+00:00",
+  "updated": "2026-09-23T15:55:47.505559+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -16,6 +16,22 @@
         "summary": "ارتفاع نسبة المشاركة في الانتخابات التشريعية إلى 21% بحلول الثالثة زوال Febrayer",
         "player": "",
         "content_hash": "ae30385fcf534cb8dd27268165e0be42ccb27ad7cb8fcf55a5d7a676e4e4f4a2",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 4501,
+        "title": "الدار البيضاء.. اقتراع في ظروف عادية وبانسيابية - SNRTnews",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BMF9BRHZOS3M2eWRvN1o5QnF5Ylo0NWZIRFFaa1ZtSm1nYzd2Wkp0Y1hrVnB2MjlzSmU0b2hGOGhRN185aExjbzhLOA?oc=5",
+        "source": "SNRTnews عربي",
+        "trust": "A",
+        "published": "Wed, 23 Sep 2026 14:34:42 GMT",
+        "discovered": "2026-09-23T15:55:14.771305+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الدار البيضاء.. اقتراع في ظروف عادية وبانسيابية SNRTnews",
+        "player": "",
+        "content_hash": "d0584a1e88f42ef99bd25f603812df0e919a7b06f04f8ab426aa6b1281112581",
         "sent": 0,
         "section": "morocco"
       },
@@ -610,22 +626,6 @@
         "content_hash": "37fe82cc63cf6a7742ca21c5431e31b9cc9d188d912a5a6447eec350f4acdf74",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 4314,
-        "title": "الرأس الأخضر تجدد تأكيد دعمها لمغربية الصحراء وللمخطط المغربي للحكم الذاتي باعتباره الحل الوحيد - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoRGZFczB1U0VQZlVuRUlNRmJFeWhNZHRWXzZyZXF4Y0RtRVI2d0hTZzY5eVphNVVvZzlCV2ZHdWNDdEx4RTJjZUJfdHl5UnVQcTk1SGRxb1hHeXhLeTVfUUpXT0lMR0xY?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Mon, 21 Sep 2026 22:46:22 GMT",
-        "discovered": "2026-09-23T02:56:44.656213+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الرأس الأخضر تجدد تأكيد دعمها لمغربية الصحراء وللمخطط المغربي للحكم الذاتي باعتباره الحل الوحيد Le 360 Arabe",
-        "player": "",
-        "content_hash": "b9ecc6554d682de38514b1eedccff95433ecf4933dc176b351ffa3475a8b9bca",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -642,6 +642,22 @@
         "summary": "بالفيديو.. قائد منتخب نيجيريا السابق يشهر إسلامه Kooora",
         "player": "",
         "content_hash": "1945750eb871352e5d5631d4e8c8671643f7b929afd765cc0d256596adcff4aa",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4508,
+        "title": "الأهلي يجري 3 تعديلات على ودياته بعد تغيير موعد مباراة بترول أسيوط - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxOT3FoVmxzM21xb0xDNHdSanplZHRIUXc4UkhfTWNpdFpVN05sYmRndmFzbnJCclBWRmp0UExqbzY4ZktvUFlvM0dtNkUzVGxINXB1YjVaLU1MMGNyanBaOHVsNWxBcllpcXdhcTh1RXFBSjZkMTJMZGdLYklkbWtUQ2NqdUFucEtCNEY0SHZXWUUtSzZnLVlRVk0zMXZkMkQ5MzRJWU5rcDlrUEYzMW13aVhqVUZNdzJXN2VOQlQ5V3VXUjhwLVpOSk1wRldYdzBmcGN2ekN4WGdvV2F6X1REVUZKRkJyOXMzc1BfZXExLV82MHhmWkFnY3hTV0J6b2pqbXJNaTh5YlpHNDFQUnMwNGFkcGx4dWJKUUxUU09CQWk2UnRnWlVhSFZNMlBoRUVZYjVUV1ZneUlVSEd2aGtLbW93d3lPUTJjNWV3VmZ6MElHZGtaNjMwai1uUzFONEZwd1hHLWl6X3dOVjZWdFJkaDZ3al9yU0VJLVBTV296R3NRa2phX0RKT0J5NXdYWUNrQzFVTWhyNWlrRVgtOXRQUWVxZ0dzcl9jNmJKRklsVkJocUtMZGVoUVZaNDA3SHVxVl9ia1QzdjNsVjBVX1M0WWJkV1RfVm4ybFNoSTg5SUxvUEdaclNfd0E0bzVDSEtkWE85WjlJM2d3aG1SLVhmQVk5VFRTQW56WXE3NFUyX1FSNXozY1c5dkU4dzc2aUZhcUd4RzFaQ0JORUHSAbAEQVVfeXFMTl9aVWsxLU9hZ0l6bkY3VjhRQmpHNEJRNmNJWHhQVklkVlVQcnhPdHFveVpnQVJLNGhYWjlFUG9YUnRIbEUwUFV4LXpkS0RIb1dxRDZ5T0FFZU9QYXVCOVdoQlh0X3VPbF9MamtBMDdfR3g0TUFETzBoZUZXbmtWNEVpTGI3bGp2eUM5ckg0OGFFVU5rNnhCSk1PYlJGWVdQeVBSR25xNkxDcFpEVFc5T1gzenpIaWNnMl9UNV80UmtFTzI1bTV4WDRnODVnNVVHOHF5M09KeFR2Smt2MHVrYjhob290d21hWVBrRDdKMGFwNnEwRzNoS19XVUFDRW5lMzVKamVSVC10X0dGZjlLbGE4cHNhQnZoREpXLWhoaWx2Q2IyRThFQnhqRXpZaEd0dW41dldzMUJaNkU5anByS081Y3NqUE5nSmI3Um43RVZlVHZZanVkRUFIV3N3N18tb1JlNmQ1LUlaYVVpejIyWXltNnlOTTA0N0l1UHY0eHVTSGllYmxBRmV4akJSai1rempRa3J4bUxzTU52amt6aWNYX3F4MDQxejZXNFNCbVMyM09DN2V6bUlPc2dJTTZpM2NGSldEb1RmLUc0ZkRoV0RNR1k0VkdJYUUzU2lGODZQNVFuSWpvdGJqaE1VWmlKUW9KbHJCSkxBaUt4R0NmbXJQY01DX2xSRVhzbzE3OFluMXRoQnFSZU1Qdno3TWtOWVYtdWRNWTlyRUhsUjlubWk?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 15:41:00 GMT",
+        "discovered": "2026-09-23T15:55:30.551716+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الأهلي يجري 3 تعديلات على ودياته بعد تغيير موعد مباراة بترول أسيوط يلاكورة",
+        "player": "",
+        "content_hash": "351ec600e43a842e9dd3f69a5224743d8fd5c5e3f3f490c89ea5d2467e4a4b69",
         "sent": 0,
         "section": "sports"
       },
@@ -1382,6 +1398,22 @@
         "section": "sports"
       },
       {
+        "id": 4509,
+        "title": "15 مدربًا جديدًا يظهرون في تصفيات أمم أفريقيا (صور) - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQdmlXZHVrdVgyOWtsQXBfR2ZyZzdZZlRnNWJwRV84dFFRbXdKSVBxM0JodDVnNUVsNnV6Q2U0VWxPVkMxOGVWa3NxdGFfR0VfemhVbjdQbzZhQVQ0MW9GbTdqLVdQSnNFb2E3VkhHSFQ4T3M4UDdsbDAyZnVlbnM5TmprV2ZyNFhsNXV2MXdFZVFxYzVBZlpxdzhWTkdnaEhGcFlxeklQTS16RjFtLTlrZ01MV05yWEhtNUhkQ3FvRWVHZ09UeWNWX3NyYWVkaE1KaHdWVGpxZzhlR2ZYRURFM01XZzlxeTdFR291aTJZckNpZk54ajIzQ1VMZVkyQTR0d0h5V2ZPcDQxNk80YjJ0NEpBVXVVNjhWTjFTRHI4OFBIbzNjamZTWHpMTHpCenFvSnlzWlNQQm1Reko1WDl4R0FLbUtmY1lGT3NDemVpWFRpbmc2RC03YnZOaExiaC1JaXJyczBFdXVhV0hpck16amM3SVNYcGp3dm1QWmd4Zl9vNGhpT1F0ZU8yTQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 09:37:00 GMT",
+        "discovered": "2026-09-23T15:55:30.560287+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "15 مدربًا جديدًا يظهرون في تصفيات أمم أفريقيا (صور) يلاكورة",
+        "player": "",
+        "content_hash": "24a9cf6666baf8d16fe6ff56cd65680bc88464258883d9783ca03611ff64e926",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4371,
         "title": "15 مدربًا جديدًا يظهرون في تصفيات أمم أفريقيا (صور) - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOMm95RGF6UG5mVjI2SEFuM3VNb1hKekNPaVMyZXo5OWthc1hoa0tMSldHSERNT3JYaFhxQVJIaUh4b0hUdkhib0NsSjJoeG9MWDl2WWM5OTMwWFM2MGpCVm1sZG9zOXQ4OVRpV3lLUjFZSGw1RllmT0RrVGItYnVzVkpvUXNMY2ZBZV9wY3VDSlZUa2g1cGtnV0hyRlVONy1oSERvNGNPd0hGMkllSnJEYjBXdjRoSWFZOUhjbXRtTXJSWmoyMG5WdXhETWszRnFNYlRlUHR5eWZGYUdwaV9hanhCNUhFZElBZDNoN3dMYi1OU0NPOXpsRHZEWEpubGR5UlJhYko1RkRYcnRFZU9ROVlOLS0yYTFHd2t3bjdGS3BaTDBsU1A1bXNoWHY5Rnh3TmVaaGlZTkhlajdQWGJUY2pqeVZXeXhZX2w3UUZTRlFjeEJhemxpejFNbXJnQ3NZaFJnUkZuTUJjRzA1bDRNNjlYWTE4d3h6dzZaNHNjTG1Dd0xiU3FUV3NfRDUyNFVMU1o5Y2pDNWtSbVVadTFZVlFTcGNvdw?oc=5",
@@ -1394,38 +1426,6 @@
         "summary": "15 مدربًا جديدًا يظهرون في تصفيات أمم أفريقيا (صور) يلاكورة",
         "player": "",
         "content_hash": "24a9cf6666baf8d16fe6ff56cd65680bc88464258883d9783ca03611ff64e926",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4438,
-        "title": "أجيري مدربا لـ فالنسيا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNN1VxMjZ1S2xuaF9TOFl4SGprV3M0OS1zdm9DVFZFRVU2OEdaQUNMRm5mdDItRi1xMzVfal9DaEJjWWh4WmhzS201aTU0RkxVdWRmQ1ZEdjdra3JxUWxWVzBYa1NDS2FJSXN1OVVIREI3aWN0amFHak1MakZQdFloYVpnYmxTNXlYVWlhYjJOcU0tVTZzOFc3THNrdFF6TE1tZHBwbXhKVUNJc1BaSVRXS1VoUDNUMWtKY1JaLW82dG1MTGlNbzNVcWYyUTdHd2xsYjliME42NHN6Nkd2U0o4ZFlZaVhTV1VEcC1xRWZn0gHzAUFVX3lxTE1vaDRQVjR1UEdUSUJuU0V1NFd0SzdFcDhmdkxCWHo2cE5ONk1nU2xCOTNsMG13c2tjSFUyMVI0VlpDYkdYbjBoTDFHX2hvMlBjR1dDeVhuN1ZyRmhQUFdPN3VNU1A5Mjl1ZXBUQXBvUkh1WVZfUDFKdEpMLUYyZzFic1p3NGQ2MlNGczdnQ1FVUWI0d29la0dHdnhlalpZNXVNMTdPbjdPdUJtbmx4UkliM3QxVzFHQXNuLVFMaENIYW50X0xFTlBpekZWc1puUzhkVkJOZWJmczVXSTFnUXFkb19sX3Z4QmIwWjZuNzJNU2Fvaw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 09:31:00 GMT",
-        "discovered": "2026-09-23T13:01:44.203365+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "d3276ebe4a68924670e757b5a82d15eb918988e5f0eeabd68444c4b735783661",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4361,
-        "title": "ولد علي: لا نريد خداع جماهير اليمن بالوعود ... نحلم بكأس الخليج - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi2gRBVV95cUxNVmxKU1dnMEN4WTFFTXRnZDQ1ck94YkRhLU1nQTNiM1JzSTItdk82em05UU14ZmE3WS10OTBwRG1qREVycG1WZFB6RUVnaV91NHV1endMbmdEdE1sVHdsOUZyQUxNcDEwc1l1MklOdzlKWDBDN25lWHpDdENtUG52VXF2SHVsOWhPN2JHSjBMMFg1NTVldzQzakhKak9YN1JsTkgtTVd0aTVKdWRsYS0xbUczT2hjd1NJVU9ZSVVMT25DU21STmRsYnYzQVlVMzNoMUp2Tm5XNlNTYXE5S3FSQmNHSFpRdkl1VHU5dnJXMUlzd0lDUHZJSkpCZlFBUnZNdVZROGZUajMxSXU5VUxVTWdmMmcwOVFiVFc4V3pIME52OVZiY2hFazBEX0tUd1RjSjFYWVVETFRpSmZIalF2SklfVk5aSnNRWlMxRlQ1b0JLZGVwWXRWekxSYVZ6VEx0eTd3a0dUM2c4d1AxTi1tSUVfM24xSHlPUE9BTndTUXVBQ0RYYXlyeEQ5SDYxNkNGMWpIQklpSmRZVk80eVVCYmEtVy1XS3piV0FIM0VLSDNIYkFsZWhTV2JadjFOUDc5SnI0ZW9nME4yNk1mMWRlZWJnT0JlMjByQzdXaUt2RFYyQ2xQM2xycGxuZ1FzZ1I4Q0xTNm9ZUWZ6U1BlaGR3MG0tTlkwWlFVZzh5Mlhod0VzVWV2bmJmMVItWEZJLVp5bTJ4SWtRT0lNbDBwZkMyX29za1NYRDVWQlNsNWU3OFZrQU5aSDJ2blV3MzhERFZNNUNYSDAwa1BtQQ?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 09:23:12 GMT",
-        "discovered": "2026-09-23T09:30:09.370458+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ولد علي: لا نريد خداع جماهير اليمن بالوعود ... نحلم بكأس الخليج الشرق الأوسط",
-        "player": "",
-        "content_hash": "42b066295aa47630a697fd6d14e8e6b232229ffdc6a9638d5259f5a380e95efe",
         "sent": 0,
         "section": "sports"
       }
