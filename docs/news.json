@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T00:00:29.119908+00:00",
+  "updated": "2026-09-23T00:23:33.910815+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -560,22 +560,6 @@
         "summary": "انتخابات 2026 .. بعثات دولية تتابع \"اقتراع 23 شتنبر\" في المغرب Hespress",
         "player": "",
         "content_hash": "87cc16f5ffee46b370940bf189e92500e5dfbe8c7c9c4b63e54fae4fde57f3ff",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 3848,
-        "title": "الصحة والتعليم والتشغيل… ثلاثية تحكم سباق الأحزاب بانتخابات المغرب - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOQUgwTlhBMFc5SWZfaHFESENLMnd0cXl0UHhNWktFV1ptTnZZaFlWeWVfQW44MTdrZElOaUVhVlBtOEp3X2IzU21QTnFEV3VNVDhuS0tHeWRsZzFzNVBzT0RpTU12NlI1RG01M1hoUHZLWmFsM2hJMEVhaWIwbnA3eTFZc0xaY251LXByTEVRZDQ5dTVEdjlxei14MnlIOWttcU11dENBV1BHT2N6ME83eHBtUlZYY3RTZENDU3RGS1A0MDJZdG1va19TZXYwTmR1VFdnb0hQcXc2bWZtMWdQVVQ4WHhXc1lGUzFiaHV1eHpoZzlNWXB1SjN5N0xQRjJ0ejhfcmxIRDJva2NKeUEwd0ZSQkVuWml5QldNX2JodEVzMjg4V09GU0lMckIwOTBscWpSU3pKWk1zY2dsdmxPZjh3ODE5UQ?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 11:10:02 GMT",
-        "discovered": "2026-09-21T17:16:40.003772+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الصحة والتعليم والتشغيل… ثلاثية تحكم سباق الأحزاب بانتخابات المغرب القدس العربي",
-        "player": "",
-        "content_hash": "3b046e1f123f4b360d9828c16a792b9ebe27c0892045873e731138cbac5627b5",
         "sent": 0,
         "section": "morocco"
       }
@@ -2134,6 +2118,22 @@
         "summary": "تركيا تطارد تجار الجنسية... صفقات وهمية تورط شركات إنشاءات كبرى العربي الجديد",
         "player": "",
         "content_hash": "fa933f36323cf270d320fa8262874c4ab8586d382e8a6a40cee6bb66c9199221",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 4291,
+        "title": "بن غفير يطالب بوزارة الدفاع ويضع خطة لنزع سلاح السلطة وتشجيع هجرة الفلسطينيين - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPWUQ0NkhWVDgyNzhnT21pQV95SFUtR2dsU3lyVjVpWTR4NldGc1lXekZOcWxMQXVwaWF1VUFER3J4SzZicFkzNjc2SFNHWUpoSmlUZFEzNHBYaHJRX25XQld5dWlORS1qZkFoMkRycDJLUGI2cmNWd3BqY1dUUGxPZDd2cFdwVk1qaF9hN1VESldlVkR1SFFYMEh5SGdnaDJtbWxlckRJX01COEgyQjh0N1ZvU2JUdkdxUDl4aTMyanpvNHVieTFnLTA5ZFlPaHdTTmdUWU1IekJmV01kWUtxb2FsT2dDYUZWSURSN1FxUk5rdEFHRHM1TnM2TzluX2MyY3ROWWdoLTZiWmtvandYUVY1VGxUUTlzc1pqek14NW9CWG1lMTNqQXIwTjJBTkRwOHRsMklzLXFHZnJKOFhGQjJVd29rU0c4aWxN?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 20:49:09 GMT",
+        "discovered": "2026-09-23T00:23:22.753826+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "بن غفير يطالب بوزارة الدفاع ويضع خطة لنزع سلاح السلطة وتشجيع هجرة الفلسطينيين الجزيرة نت",
+        "player": "",
+        "content_hash": "aff6e342e56c848568ac9764cd274ffc06c350e9e352214a20c4d0b8ee0abe1e",
         "sent": 0,
         "section": "middle_east"
       },
