@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T02:47:17.549953+00:00",
+  "updated": "2026-09-23T02:57:11.058315+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -308,6 +308,22 @@
         "section": "morocco"
       },
       {
+        "id": 4314,
+        "title": "الرأس الأخضر تجدد تأكيد دعمها لمغربية الصحراء وللمخطط المغربي للحكم الذاتي باعتباره الحل الوحيد - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoRGZFczB1U0VQZlVuRUlNRmJFeWhNZHRWXzZyZXF4Y0RtRVI2d0hTZzY5eVphNVVvZzlCV2ZHdWNDdEx4RTJjZUJfdHl5UnVQcTk1SGRxb1hHeXhLeTVfUUpXT0lMR0xY?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Mon, 21 Sep 2026 22:46:22 GMT",
+        "discovered": "2026-09-23T02:56:44.656213+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الرأس الأخضر تجدد تأكيد دعمها لمغربية الصحراء وللمخطط المغربي للحكم الذاتي باعتباره الحل الوحيد Le 360 Arabe",
+        "player": "",
+        "content_hash": "b9ecc6554d682de38514b1eedccff95433ecf4933dc176b351ffa3475a8b9bca",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
         "id": 4021,
         "title": "الطريق إلى الانتخابات 2026 | محمد شوكي - Hespress",
         "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOczhjOER3VUJPTHduNGZpZkkybXptWnB6YlQ3d3JlazlhRGdXdk5aS2lIUmRmb0xwT0tham5KSjhQTFhwejZsdE1qQlI5RVAzdG5JTXZVS0M4RlJDSkpiUzRpRHllUnZrRHdmcW9NVE9leGtGekhiRFpSOE03RzUxOXZGMFY4WDhwQ1g2SVNvSXBKZ3NoM3MzdTNXUWJfeVpTTlMtZHMzalR3alNKN3UxcDJYd3Rwamp6NXNrRWViZ1Vtc0pKLUo1cFBTT0lqbWxGblJ4VzJBMjRPV1Jxam54cW1UaV8wM01henlTVjVYMnBuaVEyT09Gc1ZSazBEU3JybXdhZjF1X0ZEb2JWZG1lbTRDZEZTQXFOMDVxZlQ4c0lOT1JNV2IzWTA2ZTZvS0J2THBn?oc=5",
@@ -576,22 +592,6 @@
         "summary": "حرارة شتنبر تربك المغاربة.. عالم مناخ يفكك لغز تداخل الفصول ar.le360.ma",
         "player": "",
         "content_hash": "3332624079710faefe7bee8187a85b720c16269967fb3d79770a91e576fc0f5f",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 4077,
-        "title": "انتخابات 2026 .. بعثات دولية تتابع \"اقتراع 23 شتنبر\" في المغرب - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQb0xXUDdKanh1S2gxNF83NnpFa1lDdE5CZmEzWTF2eXZuWVBrblFST29HTk9mOGRfejZRbW9Dc21SUjNYaF9wTktVZlZFOXRyd0I1T05UYmJLdVdreTZvTlNiTnR0VmQ4RWh6ZXFheWc0LUh5Rnh6ekV6c3cxTzZIeTIxMWY2bEtIb3VZU2RsS0lqd082MzBVbXpkdDVqMDZHbm83eVdoQU00NTdGNjFFbzBIN0pPdlFpX0pLMVcxTGM0aVJWM0RyMTI5WFlxLTVodHlVMExoMFhYUFZVRjV2eVdHaURyOWpDMi1pU194UVpCMTdxTG1PY2V6MlFfb2VDSVlUNGs3eHpMUDlUQVI1VTU1YmpPV0w5cTJjUEctdDI2cThyWG53WVh5RGlnMjUzMDVoV3lkSnhzSm1nVHQ4aF9JVEhoVGYzTk9sRjJDc00?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Mon, 21 Sep 2026 14:04:35 GMT",
-        "discovered": "2026-09-22T10:28:01.966151+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "انتخابات 2026 .. بعثات دولية تتابع \"اقتراع 23 شتنبر\" في المغرب Hespress",
-        "player": "",
-        "content_hash": "87cc16f5ffee46b370940bf189e92500e5dfbe8c7c9c4b63e54fae4fde57f3ff",
         "sent": 0,
         "section": "morocco"
       }
@@ -1399,6 +1399,22 @@
       }
     ],
     "transfers": [
+      {
+        "id": 4315,
+        "title": "ترامب يوقع اتفاقاً يعزز الانتشار العسكري الأمريكي في غرينلاند - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DSVh0TURHLWw0SGw2bUZDZkZXZGNHR1Mtc2lHTkFCMTd4YUVNcGN3X3ZMcnQyNWdLMmhSNWxvYXBJbnU0Mk5DcjNlNXpEVklYWDRiX3haUG45ZVJ1enfSAWNBVV95cUxQNXplSDRjb1NEMG1tOXRfajBSX0JwX0hUMUdrcVN6a0swdU51eDdyY0otMzFaQzc1SnlUYTJVSGRsTjdicDUwVFhkSkRBZXBQVHNiWGpQaGlaM3VsLVQ0ODh2WWs?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 02:00:57 GMT",
+        "discovered": "2026-09-23T02:57:07.909106+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "ترامب يوقع اتفاقاً يعزز الانتشار العسكري الأمريكي في غرينلاند BBC",
+        "player": "",
+        "content_hash": "de1b1f9ed638a5bd831e366c73a86f02f22458cfddb5644c7b7240146b63a2f6",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 4265,
         "title": "وهبي يستدعي لاعبا جديدا لتعزيز صفوف الأسود - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
@@ -2262,22 +2278,6 @@
         "summary": "وزير الإعلام الإريتري يتحدث عن صفحة تعاون جديدة مع واشنطن الشرق الأوسط",
         "player": "",
         "content_hash": "25241752bde2cc521d5e442a4d53c5038ba55102d2799b8ea9a6773cdb51911d",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 3903,
-        "title": "قطر ضيف شرف معرض القاهرة الدولي للكتاب 2027 - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQWkVobDZsM1ZhZFNFYTBNTDhSWXVEWmRZVmJuamRyaDFXUkpvQm0yTDdLWjdEZmtGNjJkS3VIWlk4M3puSDhxTFg4SWMtUWJZNFhFbTdNR3NqZnhKRlM4Mi1NQ0djak5CcDJ1YWpqSVVJb19Hd3hjNUdYeVZDMGw0ekNoN3RpR0xYZlNkMV9KLXRsX3dSQ3MwcHZTMmtuNV9rV1puT21xXzBodkhNa2lsS2JIaUpnZ0ZMamxFUkdGMTFxN1I1ak1LYWR1dDVkTENsdTl0RS1VN2xjNm1SM0lYd2xxdmpwWENXX2NqSjR2dGVDdHFGOGV4aEIxaU03WFZfQmtiTmZUMV9IRVZIajU5akw1MVQxSXZzZjdNdDE0dmVKQ1hOUUFVRUdRdjZoZkk0SExRVHE3REt3cGtZNEh4UUtIclpoUDZsVV93TEh1bE1zMTg3NU56dg?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Mon, 21 Sep 2026 13:33:27 GMT",
-        "discovered": "2026-09-21T19:43:17.757845+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "قطر ضيف شرف معرض القاهرة الدولي للكتاب 2027 العربي الجديد",
-        "player": "",
-        "content_hash": "9e0486f96b4d30f410cd2ca4d0e90af51ba775d3df0e126672c78bd7e02b61ab",
         "sent": 0,
         "section": "middle_east"
       }
