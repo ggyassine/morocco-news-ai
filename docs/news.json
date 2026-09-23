@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T08:21:23.348679+00:00",
+  "updated": "2026-09-23T08:35:35.961297+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -608,22 +608,6 @@
         "summary": "محامو المغرب يعلنون «تعليقا مؤقتا» للإضراب القدس العربي",
         "player": "",
         "content_hash": "04372f0f86754f941f964fa88fe3d292caedf700ca89ca3a19263ece4d45868d",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 4018,
-        "title": "المغاربة يستعيدون توقيت غرينيتش.. نقابات تحذر من \"ساعات إضافية مقنعة\" - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNWVhoN2huNGRvSGh1c0JtX3hyaEVJVVZBNmxYWkhpQXRyY1hQYVdtN19Hak4yaVZ4bnBuMS1JLVNTZ0xJN3lwZDBsVG15bGlaOVpRQ29pb2FlV0doWE9SNEJxY2Y0M1dtbFVsOExuanlLUnZEa1NKN3lNN2dZXzZOVFd6a1RqZHUzQXlybHVzcTJzZnpINXl5UkljYjFxSjZsWE1zMWFNaF9Sb3RFZV9ucU1kWlU0M3BWby1ZQU5YaXlldzk2SzNCaXhaMDhjUEdTQTF5YW5QOHFDaVhzRUJsRlFGbm44a1dHbWpPdDlJbW1tMTNsOFJOczV6MnJtTnZHU3VxMjQtSVRzaXNrU0RjZzE5eWlsRHNDTjNHVk9pMlMxVmU2RHNDM2UzYTJCUUlvNDdsQ0psaE9iaC1DSENUNHlzNkNGNTZ1ZVQzVjFBQmlBZnBT?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Mon, 21 Sep 2026 16:08:11 GMT",
-        "discovered": "2026-09-22T04:33:05.085324+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "المغاربة يستعيدون توقيت غرينيتش.. نقابات تحذر من \"ساعات إضافية مقنعة\" Hespress",
-        "player": "",
-        "content_hash": "1770b1639de3eaee62cc4d85cc1bc70ff73f449f42429be559ce6b115c4a3f31",
         "sent": 0,
         "section": "morocco"
       }
@@ -2214,6 +2198,22 @@
         "summary": "بن غفير يطالب بوزارة الدفاع ويضع خطة لنزع سلاح السلطة وتشجيع هجرة الفلسطينيين الجزيرة نت",
         "player": "",
         "content_hash": "aff6e342e56c848568ac9764cd274ffc06c350e9e352214a20c4d0b8ee0abe1e",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 4350,
+        "title": "الطاقة السعودية تنفي شراء 25 ناقلة.. وتوضح حقيقة تصريحات وزير النفط العراقي - العربية",
+        "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxNOGM3V09Eemw4VWRFOU5acHpBTnZyQVJSMXU3Q0lid09pbW1pR3RCNFpwZjZGTkV5T3ZiZUlWbHFNSTJSZWVCSW1yT3NLVTl5enY5Nm0wdXZfMmVxY2JXNUUxTXJ6MW5BSWtKUFp2dGtCM1hSOS1IMXVESFNTUHduNnltT1FzczBzMXJsclFMLWdDVjg1bDJobk42X05nNFpGNWxZRUhKbmI4ZDNMbVk2TG14M04zS2VQOGhlbGlxMm8yMlZseldLYkpmXy1XTEs1YjZmQjR5STJJMTNYNkcyTVE4VmFsbjYybmVHNEdSeEFPZGl2OGFHdWdtamktRnBPU2JwWENUWVhrb2stallSTDdWbDdPM05nOGV5d3cwU0t3SEF0TGtnLXVRYWkyc1c3TVhLOXRRZTFhcHVvazF5UWJjVnVhSDlfMDRCSmRka0llM25Xb01aeUJITk5nUTZxRklaS1pBZndGR3JGcFNaT2I0dWFuWHZPZ21hXzJNUV92LTNLUDlKaS1SdXNNSW1qV1FfVmFDUVlKSXo4SlB2LThvVDR4TDJEcDFDS2ZiX3FOM2lCdjVMSUJERkNyMTdMVVpEd3QtU0FtSGpvUXliOGdzUF8yVjA2R1Jrcjd3cUQ5Y3R2b2RWYmhWeGhIMHdUcWRZdlN3b1NadEJySTdQU3RSdWpZVlhPVF9WaXVKSTMtYkx6dGJTQTEtT3lpOXpPNzFXVHJCWXk0Ql9EdVVrYVJRU21XX3FaV3VKdmpuWWpqbUoxdE5obnluZ1c5akphMFRMZlE0Vmh4Y3otWDBTUVBGcnVMVjdQeHhrNUtLT3l1SVl2eEhlVkh3VThDR1U4Rzlqc0lSYjdId0lldk96b2Q1dEdtNDdVMkk4dW5OZTd3d9IBpwVBVV95cUxQd255dkVtTXdEeUQzbnJzc2lfUzUyeS1rWjlDUnhHTTlfRG80NHhuWi1xbW85dWZHX3hfbHJfZk5EakZUM1NvemRzVXN6SmFoU1NRU2FvcGZYYUZER3F4M1Rwd0FNeU4yckp4MG1FS1doVHBqM2hKVzNNQ3NJZ0htNGtFMENsUE1STEljRDFFQkpqVjJHSl90ME9Jc05ybUJ3cTZ1ekR0bmFpc2d0eE1pUGc0VmNNQ3dfa0tRRDhPOFdaWm9yMmtRRUNSSXptUDMtNW1FV25oQjBzRnltcDFfMFRZN3FMeEpVNU1CVTJQUHB2UjFTWF9zc3IwSDhFUGdvcE1EakZWT25QZjFub0NjU3YwVDIwVmtaTEx5eGxpVXBHLVI2aWNQb3Y3bnhZZzVpRHJCU1RKUjdBODhwZVk1b0RjZUZhdnkzV19JLUR5YXdtbjdBLXl6RGxqNWdkRTdmNnFTVVdsVWJGYWxpNW5wRDdqUjhqQnJPQzRFZkRUUzFpZklfZHJGUmt2c2NCVTg4aFNoU1hHTUEyZzVyVWNNRXBXd1ZHRTRUNGZwRURLcWViTmdmOXR5X21MTFdDclZmczBPRUdtbllrcXVraFFpOFNGZEo1LVQwRzVWREFYSGV1VWVraE4yRUk3UWFvd1Y3ckZaV09vVVZPeWloYzZmZWtQYmxNMDJmc1N0R1ZTTXdneG94QW00TUhZeUEyNU1xOGluYUx1azJPSGt4ZzF3UXZ5cnJBYmN5RU5GOGN4REhUWnpiM1RtU054T1p3VDVGaGI4SmpkQ0FYbVljTDFWNUhzU0FVY3ZiejJkU2VQcHJUX3V0aEVDRC16NHJYdmVpVElEdDNTdUhfUk1FR0N3VjlYZjNtb1RkMVVjTDZyNkVIakZydGln?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 14:50:00 GMT",
+        "discovered": "2026-09-23T08:35:28.472168+00:00",
+        "category": "الشرق الأوسط",
+        "status": "منفي",
+        "summary": "الطاقة السعودية تنفي شراء 25 ناقلة.. وتوضح حقيقة تصريحات وزير النفط العراقي العربية",
+        "player": "",
+        "content_hash": "5c30a9e385394a49d3db9573300a188b3df6230bd94beac1b05751883274d146",
         "sent": 0,
         "section": "middle_east"
       },
