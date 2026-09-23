@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T01:53:43.717784+00:00",
+  "updated": "2026-09-23T02:04:01.948769+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -598,6 +598,22 @@
     ],
     "sports": [
       {
+        "id": 4308,
+        "title": "أخبار و معلومات اللاعب محمد مغاور مهاجم الشمال القطري winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObUdJTFExdlJXajZpRzZMM1hWVVNJMjlySUt3dFh4eUNzRVF0bHF1MGRjWk1DV3V3N3NMVW44SUh3Wm5UcVQyZzBuVUxoVEZqcDlPSG5ianV2Q3owd0Nza2VXTVRfbF9hekJxdlJfVlRpUDRNWDZ5NjVoUFlfTDloYnFsWnZVN3BPYUllLU5KT1lzLWJXVDFOQW9oSEE2QnpkYVRDa3ByVlpnQXA4c0lZZWFSd1Vjel8wSmhCM2J0U3Jmb3FhM3BReEtGdk81XzVqNDB4aVBweEpJRmNvTzhHSmMyNlJVTnJScWVJcXZya05MS3JrOHlKeQ?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 00:45:31 GMT",
+        "discovered": "2026-09-23T02:03:45.447038+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب محمد مغاور مهاجم الشمال القطري winwin winwin.com",
+        "player": "",
+        "content_hash": "4084a96f85c00141b208a1318a4e774dd83b27e0bfc70237bae586a1c4da6479",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4296,
         "title": "ملف يلا كورة.. 3 عروض أمام الزمالك.. تغيير موعد مباراة الأهلي.. واكتمال صفوف المنتخب - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi_gRBVV95cUxPSllMRzNjTnBqODRFdXF1QjBtVUhldnhVd01SWUp1dGo3M2ZwVG1iV01UV2QyZlBjUTBGdmp5RzJKNmlrT2lYcnZWZ1NpQW5rZW04ZF9SOExEMmtwZnVaQTF3YnFzMTRlVVEtQXZuUXRlNXRVbl9NTGd4OE5xaXhsRlM2VVotdVROX04tR3pDWm1mcjhwOFZxZTBCc1hfYUlwT0lrS2RPeXFMZWlpdkU0dDBpZ3AxMkR2NFQ2V3ctTXA1R0xoWjBEZVZiM0N0RDJFc1Q4UktsN0QybHYyNVFIeW03dnR6UUdZZUMzRDRBR3kzNGEySHIxR3pVNk5xM2V3VkVOS24yendqUWJlQ1d4YXJtYlp6cmswdzJtTUtOdkNMeXVPaTlreXVEM2VSUlRsNlJQcEl5X1BRWnBCeEtUY1NubEFyT3c0cmRKRTVMOV9fUUszVklMRC1rTnJ2RWdPUTR1T1pFWm91bzFod2EyWHdKekMyaHVXM0ZTYW00TFg3SmktTHZvaFRMQlR0UzZ3aVZNN3NyT1AyVUZXR0lhLUROcFFORWdZSnFsUXRRWFRacW1XZUdsVXFwc3JVUGZQR2ZWaXE1ZlA1OW0yRXlRQWVXOGplMjVBRVY0bGlKZF9CS0JGUUI5b2RjNkJFY2hYdU9QU0tuTG5vdzBKQTZSM3VRU09iVGJjTnZhcWFYbFNhTXR4b1k2Y3drWU93c2JWc1hrNm8tWXlXZTQ5cEhwYkNmN2VySW9yVUJxeU1KUTlZMkRxM1FKQjJhTWlQaVdHZkROTkpKelVqaGdQYnVfdXJsMmFsVG5VaE0yS21LV2RFZ0lmX3hRWV80bEN0Z9IBgwVBVV95cUxOczJPb1lnQWFpYzBxQmRVeGpISUJ5RG5hNmVRSTBqdVUwRDRqR1ZIUlhRSXctWE5GWmRLUGcxQ3pYempwN3JDX3hROGxjdi1PN3A4ZUxjc2k4QmZETl9iazlEcEowSVNEY1BBbEVFa0xwYnpueDg1M0k2c2kyaF9jMnlVcS1WNzFTdzUyRDQ3Y3VSQkNyQWJZZlJqYm90VTlMUE1CZzdnZW5zOXNzQm51RExmdW10Mkd6dnU0VUtRN0UzRTNBSGNwU2x0TGpSbFZPVFltTzN5dWhnVXpOMkNES3VOUnE4VmxSWGcyRElFZEZyZDZabzk4VHpoUmw4WmpkczVndlhTOWNpTTRwUWZjcklTRm9oaklOaTByUHotN1BjYlZvaWFmMDhqVExDZWZBS0ZGWHNRcjBXaV9NU0Z2SGI5aVM2RW5aZ0dBNmRjNmxrdHVmQVNUX2w1bzRqNGNMWWRFTmFqbUhVQ1RVSTlsdjdGZ01yVzhQaEhmRTBQcldmYVQxQmJKSW9SNUxpQktmRExmcmpMMUFVS0VVaU5JX1lWYzZMQzdhRUNaTlBXSmUzTlFfYURBLW5QdkdKWW9QVllyUHdGb2luMmVVSFNFZnBBTmdKdWhFcTRiZUw5NkZxbmNybWxjelBPaVN2ZXRxTnp6cGEwV3E3cXE2VVdib3Y4dFdOV0FjSlB4RGI1UXlRY0hMVnlUR1o4bXZUZ0xJWmFkemh5aEJRZG1tbE5Wa0JWenpGb1NDNUtGZUxwb0tkT093YTh2b3Ryd1BoWVJFVXdiV0poTk1VT1BRbEdTU0VnUlRlc0JnbDNJd3YxbWg4TG1ybFdTUWUxRGdVM1FsTWlJ?oc=5",
@@ -610,6 +626,22 @@
         "summary": "ملف يلا كورة.. 3 عروض أمام الزمالك.. تغيير موعد مباراة الأهلي.. واكتمال صفوف المنتخب يلاكورة",
         "player": "",
         "content_hash": "473cb18e4677b4318c056ba16df5fd7706fee390cea73b63cb0650e0beeeb109",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4309,
+        "title": "بعد خروج 11 لاعبا.. وجهان جديدان فقط يظهران في مران الأهلي الجماعي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMilARBVV95cUxPbVliSS1PUjZDOHFVZXNHMXJ3OV9kekdBVUdSZnd3Z28yQjdkcWlRcWRHZmF0NUUzYUh1TVg4SzdLU2NRb0FGVE1KXzIzRXlWQ1N5ckdqb2pxdXhlTUIxSlp2bzRmU1FXM2VzV2RTaHlsM2Zxa0J6a0tTNEhWc2JIMUFNZlpkOWlPSXdRcThGVzJ3N0dJbnl4R3FtSUlEM1pZZEk0YVRCaG5HUWRVZTZyRXRUYWVZNHQ3clZBYU51ZE5mUThjLWxRNmttNkNoLWJucHZibjdiUmdYeGNMdHRNRVREOEk0UjNHSzZmazZmUjhJbm5tMmVyeWJNdjVFX0JWdW9UN09ERXZ3SGhvTVo5RkhXaFpES2ZXbjhoR3l2OTg1aFlrZ2VZaER4cjcwTzRQLWw1R1dVb0hSUkt5VEJRSVFOUjF2ZnRBQ2RIdFdoWXhWQUNuTl9aU2FDeW5MZmg0cEctb21kSDU4WFRaVk9EYmczUnFfN3pMZGIyakc2MXN3d3BZckFuVVpmdTRLS05MZFREUzd6ZGE5RUxHbUpYZG9NV0RmM2FFR2dhQjc2YUlGMWIzcTZuYzhJN3FaVEdjQ3hmbEVQN2RsbHpab0dtZE9RXzdZMDFibndKbk5YOEJ6RmczZ01ibldKenN0VmxFNUM0dF9jakJEWU1rWXB1TnZ4ckZVM2RqaUg2dG1BM2I1dDFT0gGaBEFVX3lxTE14OUtucS14WEo1MGRLZjg4WWpVazZTaG91SlN5c2w2QmFFV3U1aExfQmRZdW92YTBRZHEwMDBlUi1KRzRMSXpUNDhtMkpDQ0tQYmZzYkkxT0JRYklMX19PMnlCOE82cG80Q2JIeGdXWThocjBxSmpfcTJycEI2Q3dXVDlaY1BRVGJMSU8xMWl4c1pndE5MT3NrV3RJZFk0YWpzYkhqSDR1M0JINXRiTXp1OFcxcmVlTmhPRDdaWjRLQjQ1cVd0TUhWM3VHQnE1TE8zZUVkNE11MHFZQ25aTzY3Qk05dTZZU0p3LVNIMEp2MWtEX1cxc3NaZ3BaZ1FNYmNfY0o3WF9VNzRvTFBEQVBfdDJ3c3JyQ245VjhQX05pdmhaaFFVRE9hcDV5RFBMMUVJc1RNbEo0TlF0RTB2R0FVRFZiSVRDYlZKMXY0Y3hmQ280NnVwM1h4cUs5UW94M2h0dk1xWXFLU0x6Q1N0LUFtRWR0aXJLSUdGaTZrdDZGV29jX2ZXYlJMc2xIckh0WEJxaUNGRE1LOGZRS0xIZ2REb3NTak9LZ0czRF92X2ZtT0lyOEVYdU9MbEQxeV9fRzlwZzlsdG1jUjNWcEpDc0VhNF9NQ1BINW53QmtOOUR6bFJkOW9kUk5FNGlYVm8tMjlia1N1RnJMck5ibWJQVHExZFBfM3Aya2x5UFB1NC1RRjV0Qkxpc091cFE?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 00:06:59 GMT",
+        "discovered": "2026-09-23T02:03:46.127289+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بعد خروج 11 لاعبا.. وجهان جديدان فقط يظهران في مران الأهلي الجماعي يلاكورة",
+        "player": "",
+        "content_hash": "5b0f999072c04718458f6f1b011dad2c3f423757c10483568080dbbfd296f0dc",
         "sent": 0,
         "section": "sports"
       },
@@ -1362,38 +1394,6 @@
         "summary": "كرة يد – منتخب مصر يتوج ببطولة إفريقيا للناشئين بالفوز على تونس FilGoal",
         "player": "",
         "content_hash": "04c8b9ed865e30bf5e7f1c7e12b5e806f6dc749620094d45fa5f96e5d511c23f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4208,
-        "title": "كرة يد – منتخب مصر يتوج ببطولة إفريقيا للناشئين بالفوز على تونس - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxNdzRRc1NvYVlLSFY0aGVQd2o4MFRYdXpsY3J1TV84Q0ZTOExrWGJPYkpOUTRZcXNHTnotUjZEZXpkdVRHWXdsNVZ2cFo3aGI5U09fSGVzSFZRWlVYbFY2NzB3TWtQUDJuWWdmQ2lMRV9tRHZteEdySWxITF9oNllvNmNVa0VmQVNUVzgzRlYxMFI5WFVJVFRzMGRkQndld1M0RVBPV2pNakxmZE5WT0kweXIwX0lDbndIV2EyUGR4bGxsTnpvR2VGQTV0SGp3dHJKMUtLSVpLQkszZ2ZyUHhKMldNVzRVRXZNRDkzeFk3ZzFwSEg3Ti1JY1NyWmVOVERhd3dTYVRRQXE2cUhSVk0yR2t3QjlRMHlHR3YzVUVTV3lueGw5VnU5UFF5OXFtY1VkNWZ6WTVKU0NhODJZT0trZzVrRVF0eXRZbVQ3dER6NlFFSGRTRGJjRkZ0MklVeVp0MVQxdUZsZHpqaGIyem5mbHAxRzNUUGZadHJ4R09ZcEF1eDZqS3hCT25aRU1KRDRUNWZTNUhkdVlPVEdzM1hfT2NMdUdjTGU1WV9SWXlHN3dGSVUwVGs2ck8tdTR1MXN6dGpzTGdkQy1kR3FmQTVGaW1nU2Ftak9MVWhaRFQ3Q2RaYWRiTGFMVXNrNllpd1FFalNacGF6d9IB_ANBVV95cUxOdnVydFVjZDEyMWo5T2ZMSHBjajRxbWg5TTl4NTFIaEJ5Wk1BbVkybTBmLU94WWZjVG9ndkttWUFhUUxBQ01QdnI5WFQyenN3dDdnejBvOGtaMlRoYnVOZW53SlhNbTB3SnFFSDBNZFUzNVptdXJHNzNPUXdfT190cVJwaHFBQWh5bmNxTEZrTXBSZno2R2F3ZEZNUm12c0FRT2toQTUwQlJKRkFCS1E1czRDRWhoM21zSXNmZ3lwQzFiS0FjeHB5eDViVGM4SE45YXIxcG53UzhyaFNXNFZvZnNEUVIwUTJqSWptZjdvYXF0X05fb3I5RC1VUm80REtWUXh4djU4bkdaR0RjZkc1U0ZOZzFSWGd0cUZfSW1YdW9DUTNfRWxTdnQ5azZxUmhrMks1cF9INXd1a3BMZHIxM2dBeFN6ay1hbUQtWXV6T01yV290R3VoQTZGdkplZWU1VlNRejRZU3BvaUtxTGpKZFcyU1N1YU5sVzZlTDhKd3Flbm9zWFVWcE1uWWIxcVNOeV9oSmhxTVA3Q3g0cVd1MUI4aFFIcVNrR3UxcmV4eUdySzJtVUJCWTIwWnIwUERROFBLYW1uaGNmS0s5bTU5U3llV2sxaExFVTZRdTFFUHJEUGpDMWVqdVdfSXhvajEtMzRHWjltcFBxUE5v?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 18:06:00 GMT",
-        "discovered": "2026-09-22T18:27:18.059820+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كرة يد – منتخب مصر يتوج ببطولة إفريقيا للناشئين بالفوز على تونس FilGoal",
-        "player": "",
-        "content_hash": "04c8b9ed865e30bf5e7f1c7e12b5e806f6dc749620094d45fa5f96e5d511c23f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4253,
-        "title": "«كأس بيلي جين كينغ»: التشيك إلى نصف النهائي - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxOeXZ3MjhxWllKNHk0WV9UblAtWWItM2huT3UtekFiRHlKNVNRMWZRRWlvdFZuRklfTTNjVDlKS25vSkxGeUx0SjFKWkZVbGhfeXRraHBvVTFoajNKa3RDRHBLaXFVQXBWV1Z6cjFudHF2aWFkVTdlaTZWVHFvYVhRX20ySHNwNmpnb1VWUWlkbE9udEFsM2ptVkFoNTRudzJUVjdmY2pwWG9rTlFWakxrcDNmUVpGN3JKVVpxdmtrb3dmNXJTLUVTZ0cyOXJOUHFmZFZxSVpoZ2dzMXYtdkR6dWJvMFZzY0psUTZWNlA4OHVtQjlrNXVSNHNqaHNvSmdMUnVkS2ZSSmhQV19JWE9YMVZjUVg2REdMN3NUUHZ4V2xPWHE0cmhfWDUwV2JMcjFNODFsVVg1YmQwZjJCbG04NUdQZmJvTjdCeVI3aTAzUDBfNDdsQXJWOFNWNm1vdTZRV3NiS1lETVdoQ1BkTWlLSlJrcHZocDJDYkV3WTdNMW5Hd2ZqMUNnU19sS1IyaWF0czN5czFKSTliVElMbGU1VUVNRzV3R0NWOVIzUk8wUHU2MldtemtNYnlSajA1dWxGYUZJZkhiQjd1QTMtcjBhNjRWLTJQMi0yZWpKcTF2QVZmU1RpT0E?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 18:02:14 GMT",
-        "discovered": "2026-09-22T21:07:30.213570+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "«كأس بيلي جين كينغ»: التشيك إلى نصف النهائي الشرق الأوسط",
-        "player": "",
-        "content_hash": "2894c49e07fa056adfa169f2c17cf05d6f639deb73b64d9d1ed5761c391656cf",
         "sent": 0,
         "section": "sports"
       }
