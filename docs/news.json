@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T20:46:39.462623+00:00",
+  "updated": "2026-09-23T20:55:36.081057+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -645,6 +645,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 4600,
+        "title": "جوهر نبيل يدعم منتخب مصر قبل ملاقاة أنجولا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNVDdoc2s5MDJHcTRHNzhtbGtRdGppenJualRmdTdvcUlxNGlxcGNYVkJaOFNhOTJ6UW1tQUx6NExzUm9wdlM3Sk95NC1qS1FQbXVtb2pCc2ZhcTFqQ0RiX2dUdy1GYmxPaVV6TktuX1haVW5USkJjZG5UUnVJazBHTVdnM2NJQXNScm5LTGthbC1mYkRpTVBNRDNvdEdUZnY4cXJjUmc0R1JrTjQwS3pVVEVaZHgxR05WNU9IVTlUbDlVaGJlbnc4TC12c3V1Z3JXM1RscFhqTTMxeUpXWFRLS2hVMGh5bnBxSkwyRVo5dUJBaWVFTC1Bc3pVLTdjMWZyQkd6bkY5Wmc4UTg4VlVrODBwWmY1UnAxNXVKXy13SW9nSmhHajlZSXhYYWdzT1RROUZCYkdIZmdZM1VHdWhNZWpjZUhwQ2pjMFMydzhrWXBZRmJ5cDdGSld5dlJNT09Md2V3SDYtdURNeVFSalpMZnlYb9IB-AJBVV95cUxPWW14WThGaEZ5WjdmU1lSU0NnN0RPemNqbnJhbkYzQ25PMkNsclBfWFdaMHpBb1NVa1FpNDhKSjdLbGR3YzRLUFR0bGdmeDFnWF85Y3czcm0zQXRRX2hIX1lHbk1SLU9GTGU5ZmpyOU55SGg4bWFtTmVTc3BXczd5TTFnM3llbjV4bVYwaGZKTXM2X0ExMEU5YmNHSExkcWdxcmdEeGhvaGZnT0JQTmxPVExEd0l2Vlg3R041aFBBVmM1ZDN1RmxzVkM4dE5MWFVRSElSS21VbHVtY0V3YmtVY2c3QUcwcFNjZXhGZGY2eVhCTVI0MXBvcXRiRHY2U2c4V3IzUTFzRWhOMG00WjlmeFlEeURiZWYyaDZVSHY2V1R3VlY2NkdaQnU1blVzMVJRcDlBd3VkdklvTndYSF9oSjhrclp0a2d0aUIzMUp3cUloLWpDSUZyQjZNdnZCOGpvdVg5aG8yMVFQNEQ1SUxzU2lLU0FJX3Y3?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 20:41:00 GMT",
+        "discovered": "2026-09-23T20:55:20.099083+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جوهر نبيل يدعم منتخب مصر قبل ملاقاة أنجولا FilGoal",
+        "player": "",
+        "content_hash": "8f13913ed11027a89e538c50faeb757162c2c2b1cc5584571a762f99b596708d",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4591,
         "title": "جدول ترتيب هدافي كأس الخليج العربي 27 - Kooora",
@@ -1428,25 +1444,25 @@
         "content_hash": "a9a2b3d11478cd88794933b4f16e295e6b6abc8a8f1e51fa62e663b752aa53ed",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4490,
-        "title": "\"لا أهدف للعودة فقط\".. منصف بقرار يرفع سقف طموحاته مع \"الثعالب\" - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxNeWFHY2Z5UEpWTmQ3LWp2TERSUnJyOUotTEVoWUFHV0xJVS1KY3QxZHRPMk5CdUxhWTd2SzdsLXRPZHhuX1FjYVd1VFIyWkxXQ1k1eF9BT1lmeXFuQ2tSY1Y3Z0kxQ01TQjBxT2YwNlpkQk9nWHFMd2pmV2xUYy1HWVNrTlZXOGt6eldxVzJRWUZQV2ZMNzFYREVmdjk0Sm8yODI1UTVONmF1bmhIckh1M2k1WVdVQW05dncycFhGUy1uSVVGT005dDFYb2JQT2l4VmlUODhaZk1vaEFUaHBvNU5hZDNzSm5JeWp6d0hUMXVaRFE1bVlPbDJSSEJPcVVTOTFha1V3cnhZbHV5aUdsSW1od2Fzc3puMEtqU0xzd0s0bm1RdDY2SDlTMUxlTExFcUhrdU51NnRWSFlLY2lVZXF2Yng1YU8tanktaXRxdWtmVXZZYmMtWWZVbTZ1M3pyb21qNGtuVmFjT1o4MFRWektpZHhENFNDM3hLR2wzVk03SnRsOUl0WVBSRktFVFVUeF9yZnBCRWVYVkI0Vnd5cU9tZUpkZ3lFNHpheFZrNGxZWnFpb3pqSU1XclozMFdNTUNEVlVxM0VhLVFYM1RtbmZRQWltMGxPRFFCX1BoNkMxZmI1YnNBemh3Yi1oQmo3ZmfSAfcDQVVfeXFMT3dJN3Brdks1UkRfaFp3WWZVNUsxZzg4RThLb0FkUnJpd0dTVHVBTVg0WEVwai14Z0syejJVei1VMjZmVkplZDJqcTB1RG50VjdUY2o2WV9SSjkyamVWZHJxLW5QRlJaaHpPRmRQUHZhZjBqdGc2bVBZYVR5cFY1d25yZzM0cF9HNUtPYWNhTWV3TVRKU2NSU1VuMjlQc3p1NzJ0OE5ZSVE5cTNweTI3UUk2TXlYelpZUnc5VmNMTUNsdTlISVZWYUFyUTdOOUsycUVvMUpWNDRBWVdodjViLUY1VHp5QmFOUzhYZGl3NHh0elJDc21UbW9zUmlDcDg1MWNJR1ZnbDNOckhVVEZSVnhGbHh3aHNqWi1Sd254ZE00MmJQMTFvSWlIbEtuMlRKdUMzMWpvZjY5bWcyOFRvUUpQU3NuNVBHM0szTXBQb1BLcTRQN0RoNlJVVzctbm5xbUhiNW8zWGdzTDhjeGFSSkp3LTczWXZGOW56SEk2WmhtazJHbGhqMjYxRTQ3aVB3ckcza0lHRjUtRGtWQ2ROV0l0TXBHOGdoQ0NSc09SV0dyRFZ0SzRUMkY4enFVdE5RN0lqYU9rSEVva3JmS3hER1ZaMG4wQlUxX1JrNlpxUVZsekhJbDFCUFRXT201ZFphejVVbkZKeGM?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 15:13:00 GMT",
-        "discovered": "2026-09-23T15:29:22.275426+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "\"لا أهدف للعودة فقط\".. منصف بقرار يرفع سقف طموحاته مع \"الثعالب\" يلاكورة",
-        "player": "",
-        "content_hash": "abb3b5525c19b04295ba4770e88a32c41a49f0ba5d435533eaf6d7a4382b6353",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 4601,
+        "title": "بسبب الرواتب.. لاعبون من الرجاء طلبوا الانتقال إلى صن داونز - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOZy0tWWR6d3FNbHM4QWJfVER4TEkyNjk4dmlUNEpSSnQydzJ0dVZmSFRIanp5d2xFdmlaMlpPeUphMEZwemNpaU1wUHEyUnhGdFRsS3JPTzlLbWR4Z2pCZlg2N052aUNCNkVvLTl6OGtCT1YxSjJnWFBXYWl4QllHZDNPRUswa0hPWEVnZkQ0cWx4X3dJS3pyZDBOY3ZYb3Z4andaUkp6czl2bnFYZUg5eXZldnFNVzgwakYxUXd1NURVdDBxTU9KbE5WalpaaFlNRHRjT2xob3l4T1psM3hJcTFGQ3NRNGRkMzBpOTljYlU4U2lHREljZVEwVWlGSEtMRVhvNVkyTkpaNkpOVlVJeUFxYmczUTM5cjkxNy1CZFFwWjlIQ3c1dHlTc2s3dGRvWTFrbXJnZGZuTWFOdTc2VkMwWHk0a0JCRXhQTFJYanZqSHVpVHd3SV9aN24wNG8?oc=5",
+        "source": "365Scores انتقالات",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 20:49:55 GMT",
+        "discovered": "2026-09-23T20:55:24.888664+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "بسبب الرواتب.. لاعبون من الرجاء طلبوا الانتقال إلى صن داونز 365Scores",
+        "player": "",
+        "content_hash": "39fcfffd83edd8533216c865d1b8f9004565b523d7521ca0b586a53362326544",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 4586,
         "title": "أخبار | رودري: اتهامات ريال مدريد للتحكيم تضر بكرة القدم.. والملكي كان مهتما بضمي - FilGoal",
@@ -2392,22 +2408,6 @@
         "summary": "إثيوبيا ترد على تصريحات وزير الري المصري: تجسيد لعقلية \"استعمارية فجة\" CNN Arabic",
         "player": "",
         "content_hash": "372af88f1ca2fc29b56560e15644df0fcea2920c6d742f62001797585a11bcef",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 4101,
-        "title": "LG تكشف عن جهاز تكييف ذكي في معرض IFA برلين - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEN2ZaRkNOWEhmODU2Ym8wTFFfRENMaE5zcTVWamR1UHBrR2FYc2FYVE10RncwRkh1OFY3dkFSSDByTGF2U3pIcUJYWjAtSC1PSTRaYkNKOF9ZTm02LVHSAWNBVV95cUxQQWVmWW1abFBjemc1RlZEcEZJcWY5WHhPVHZSN01yeDZEN0NqZ0hhak0yVjRNSFJrVU85aTgtV0FkMksza2VsdHlONEtZYThmZll3dVczSmF5aWZ6UW4ycXJYUm8?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Tue, 22 Sep 2026 11:38:16 GMT",
-        "discovered": "2026-09-22T11:55:01.846016+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "LG تكشف عن جهاز تكييف ذكي في معرض IFA برلين BBC",
-        "player": "",
-        "content_hash": "faee108d4d81951ee4f6577d62382cb0284183dcef8ce2617dae1f346916345a",
         "sent": 0,
         "section": "world_arabic"
       }
