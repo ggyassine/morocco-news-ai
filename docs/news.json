@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T10:40:03.516773+00:00",
+  "updated": "2026-09-23T10:52:40.258584+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1432,6 +1432,22 @@
     ],
     "transfers": [
       {
+        "id": 4400,
+        "title": "لاعبو منتخب مصر يحتفلون بتجديد عقد حسام وإبراهيم حسن - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPT1pybDlkSktxcm8tOEIwcm40eGZxS3hWOHJocUpkTjNKQ1ExdElpNWNtLVpyQWpHR3pXZjRWdlo5RDR6OE9QSDNzMm8yTzlSRVVyTWlibzc1Z2k3eXF6RXFvckxYaWcxM3dTeU81b2phZzJuQkh1T3A0NFhSVzlrV1lMMXRXQVdYel9YTU5fQVVHNE1yemRBY2laNEF5cERpa01jcHlQTE9RUmhGTnNDdy1xZEpwckoxWmMtdndRMEpyWEY4NUllU1AzMkJoVkZJSzZKdzVyRC1RX01NQjlGYy1CeTU4UFNfY08zWE1BcVhWUEtHTG1lOW02RHVwRWF1ZXZKTmtWV1BScjJzcHNuVHBGd3laTm1xZkdGbVBMR09wTHRrbWVhZmloRWxEdE5RMmg2YzQ4YTJPb3J6cGtGVVNwX19zcEU1QXhlV1hXSGc3RkdRTkFHS0lRaDBnYTRsNTFZb2xTQzBFUFQwNHF0MWZWNnpDYTF5My1mcXdfUkR0OXpEdkNTazdVbkc3alpxTUY0eE1nbW5QbENOWXJPOFhKV3ZQNXF1eHc2VVdHdklmTkhteHRneHkwdjfSAcIDQVVfeXFMTy1PcTBmTnY3d2lhbjhkREY2OWJkUUdabUNGOU1BYUo0aUg4bkJwWm9hTWkxUGhKa09lNFlUWWtvQ1pjUWNPQU1TTmR0R0FmeUJQTG5TaHFtUktidjJDOGVpNGo2ODFFaW1kUHpoMFZhRk1rdW9iUnVBc0NjNG1hejRoeU1wMjBkVTk0VlhuY2xzaUZzMXdHbWRtNDg3ejNZNXh2bWZlOEFxM0RPRU1FVWFmaVU1VGM4cUNJVVh2OHAzTmNSSkd1Z1pDZFp3UDNHamloT2E1VXRtTFJ5ZG5oMmlYQkh3MWNFRFlodmpWdmstelh3cEhMakJxdkFLTzFkY1NaRU10UUZpMGtXLTdZWG1xNGdyWjVRR0JDeWJuTDlzNnJCVjBDMmFwbjNTQzE5SG16SWpnbUVVVDgzRnZ3VnFKdTQwRkNnY1dueEVtSkpxT3RNNU04SmdsckVtR2xWRDBXMzlxemc5eDloTjU4TExZN2R0QjJlMFRKaHZYRXc1bVRlWFA2dy0tQkNpd2ExcHVxTnBjX1RtanRxSW01ektjUk91N1VJMTVGdmFvTVpHbkhCMHAwbGNMUTREcUQ0dmJR?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 10:48:00 GMT",
+        "discovered": "2026-09-23T10:52:23.684990+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "تجديد",
+        "summary": "لاعبو منتخب مصر يحتفلون بتجديد عقد حسام وإبراهيم حسن FilGoal",
+        "player": "",
+        "content_hash": "9b34b0cf235dc3bf686674a23dd41b8e4e74710cda1f3b2dfd3264495515eda2",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 4315,
         "title": "ترامب يوقع اتفاقاً يعزز الانتشار العسكري الأمريكي في غرينلاند - BBC",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DSVh0TURHLWw0SGw2bUZDZkZXZGNHR1Mtc2lHTkFCMTd4YUVNcGN3X3ZMcnQyNWdLMmhSNWxvYXBJbnU0Mk5DcjNlNXpEVklYWDRiX3haUG45ZVJ1enfSAWNBVV95cUxQNXplSDRjb1NEMG1tOXRfajBSX0JwX0hUMUdrcVN6a0swdU51eDdyY0otMzFaQzc1SnlUYTJVSGRsTjdicDUwVFhkSkRBZXBQVHNiWGpQaGlaM3VsLVQ0ODh2WWs?oc=5",
@@ -2392,22 +2408,6 @@
         "summary": "الانتخابات الإسرائيلية 2026: هل يشن نتنياهو هجوماً آخر على إيران قبل موعد الاقتراع؟",
         "player": "",
         "content_hash": "11c6d0f4b07885181d0c012fd375b6d0810c1414460a553b746ff095ead767e3",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 3915,
-        "title": "أزمة الوقود تذكّر العراقيين بأيام سقوط صدام… و«العصائب» تلوّح باستجواب وزير النفط - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNTDFrZnkyanpqUWtJNnM1dGlJUnA3SFZ2Szg0UUpNa3VRcjMwaUJ0ckJleVptbGdoQ3NJN3RHTkxCV0FfSFk2WGRYRUNBQmx2MW5BdGx6eGx1SExFTTBEbzhQR3dKQmY4akI3YllJOGJGb0NDZE12ZjBqLWRWZVg0T0FlSXI1RHJSc1dMSkx1LWVqWGIzUUQxNTFsYkx5UlZOMEcwdld4bTdJY2lhS0tUbVluUFBya2lXNVBMOGp1VDBrUWR5ajkyckRiaGo2RHA4elotakt5cU9faVNLUlNkZ08zOG1DejJkbWphY25yMkN4LVhZTjFZR1NTaFdPRUlNQmROTmR0OVJFbUJtUG9FY1otcTJNV1I0dHVFdTlQTnUxaC01YWdJbnFFRWFOaXViWmQzMlB4TEFZVGFiWWhpcjhUMnFjdw?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 14:31:05 GMT",
-        "discovered": "2026-09-21T20:18:20.137926+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "أزمة الوقود تذكّر العراقيين بأيام سقوط صدام… و«العصائب» تلوّح باستجواب وزير النفط القدس العربي",
-        "player": "",
-        "content_hash": "a294654bc8fa174f6fefd3212317988dc827daa2e6849878a437a45184ecc9f9",
         "sent": 0,
         "section": "world_arabic"
       }
