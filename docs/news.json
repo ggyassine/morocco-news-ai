@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T16:09:44.015675+00:00",
+  "updated": "2026-09-23T16:26:15.059075+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -608,22 +608,6 @@
         "summary": "نيويورك… تعزيز التعاون الثنائي في صلب مباحثات بين وزير الخارجية بوريطة ونظيره الأوغندي – اليوم 24 اليوم 24",
         "player": "",
         "content_hash": "e27f001c62e6725126abef01891b155f9d222dfb2499cc2f89b29117e1730dea",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 4059,
-        "title": "الصحراء المغربية: الشيلي تعترف بسيادة المغرب على الصحراء - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FTFdzWjNPLUdCTkF0UTlZeHFycUQydldld0I3Wno3QTZZOVVkRHdubVRrUHh0Y0JLS2RySHEtME9UNzloOW5kRWNjZjdYRm9YcXR6a201cWlBczFVM1V2YThwSk9ILXJZ?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Mon, 21 Sep 2026 22:51:19 GMT",
-        "discovered": "2026-09-22T08:43:17.538771+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الصحراء المغربية: الشيلي تعترف بسيادة المغرب على الصحراء Le 360 Arabe",
-        "player": "",
-        "content_hash": "37fe82cc63cf6a7742ca21c5431e31b9cc9d188d912a5a6447eec350f4acdf74",
         "sent": 0,
         "section": "morocco"
       }
@@ -2315,6 +2299,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 4512,
+        "title": "\"نحن وإيران جسد واحد\".. الحوثيون: باب المندب خط أحمر وسنضرب مصالح واشنطن إن ساندت الرياض - Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaTRfX3lrTmtOZm81Q1RSZ0hYQXZZdjB6TGdzck5FdUtoVWQtUVpnZWd4NDdQNkZ5YzJHN0JGUDBtYlhNRFcxci1PRjZmXzIxNmFUSndrN25UMHVYVUtfdWZ6c3NVbEtrQ01Jcl9XTjQzRmkzQjJ6VVhKYWJMaDJ4M1Q2cEE5TXhRWXYyZThNeEctNG5BZk52aU9RQnQ0TVVvRFg2aXgxQ0xsbm1kSm9ybC0zY1hsa25vZ1Bpcms2MA?oc=5",
+        "source": "يورونيوز عربي",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 12:50:18 GMT",
+        "discovered": "2026-09-23T16:26:12.500095+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "\"نحن وإيران جسد واحد\".. الحوثيون: باب المندب خط أحمر وسنضرب مصالح واشنطن إن ساندت الرياض Euronews.com",
+        "player": "رياض",
+        "content_hash": "12de95bbbd53fc5232322eff7df2b90eff66a082d1e75bf8262fc7a94f5903c6",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 4311,
         "title": "الوديعة السعودية: إعادة تسعير العلاقات بين القاهرة والرياض؟ - dw.com",
