@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T01:32:42.296023+00:00",
+  "updated": "2026-09-23T01:44:15.864274+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -16,6 +16,22 @@
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
         "player": "",
         "content_hash": "faac51bf30e8815b13148c4d8fefd1be663c209c29b98c94ada5f66670c657b3",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 4306,
+        "title": "حقيقة اختفاء سائح فرنسي بمراكش.. الأبحاث تقود إليه داخل المستعجلات - ar.le360.ma",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LZHFsQWZNWVFHMXRfWDEyLU9INlRmS2NzRnNDazF5cjJ5S0tycnFQeGNLLUpyZWIwUG90TkJ5SVVVcTNUSEZLRmJXV2pSTkVhUU56c24wa1k0ZktLa1hjMERIc2l5UQ?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 19:34:50 GMT",
+        "discovered": "2026-09-23T01:43:43.145482+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "حقيقة اختفاء سائح فرنسي بمراكش.. الأبحاث تقود إليه داخل المستعجلات ar.le360.ma",
+        "player": "",
+        "content_hash": "474690a3030ccedb1920c8ac6871ce324f64e6ab05e59899da2c7a0838e9e453",
         "sent": 0,
         "section": "morocco"
       },
@@ -2278,22 +2294,6 @@
         "summary": "قطر ضيف شرف معرض القاهرة الدولي للكتاب 2027 العربي الجديد",
         "player": "",
         "content_hash": "9e0486f96b4d30f410cd2ca4d0e90af51ba775d3df0e126672c78bd7e02b61ab",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 3963,
-        "title": "تحقيق: صفقات سرية أمريكية تقود 25 ألف مهاجر مرحّل إلى دول غريبة عنهم - aljazeera.net",
-        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPaktOSkltWlpkMmxMMUFYb0t6Snd0NE1RZGYtVG5nRmI5U1pjQ0FyTzZjdFlfRS1fOGRQcFJvY2NMOE8xa1JpZWpBREcxcTRwYzVnM0F6NnVIVDZCd0pRSEVuU2tyanl2cnE3WnN2TVg3bEd4eXNJVjd0RkJsREY3aHJKbW1QRFhfTWJvOVJEWklaQXgwWGFHNS0tVEd0Qy1MZHMzemVTcUJKQ3FkN25vZWswdEFhZ3lZU2s5ZTFzUmlxZGZQSVZqRW1DNzhpX0hPRVJGX2pISU9IRUlEdlBvMm5WNVg5OEN4UlJER1NSejdUT1RaQWxvcm9SMDRhaTZrekpWYk45eG5TMGI4U05qZUxseHNGczgwWE93OEZFTnYtUXJuMk95N1lST3U2b1RDT3Jxc05mQUVMLUZ5ckHSAcMCQVVfeXFMTmw4YkktQXpRcmJhVUJxT3hJTnRGWTNMTFdsMjBjQ1ZkUWxJY1JMWUhFblJmelBoMzFJWWtBdkdleEo4YXozdVhlcjNVaWdDUDBrc0N3aFpOcDVoU3VELUZsWUJ2WjVGbXY0UExZMll6bFJsdE96Wm5BMmFoTDBIeG9jUFozXzhvT3kzRHdBeVF0SWhaT092cGxvdUx5SGI3cTd4LWN2MEVKREtyT1RabUFuVEMzOS1VYmZOdzdUMmxISGdkRDRKOURVcm1IUkZ6UnVBMWlJeUgwdmtyUktua2VxTGczZmhueEpUMzd4T29vaDNBenBhdDd0NTZGdEZiZDJOVEFUTVBGdTlES1RVXzd1RWtxTkM5T3dOMmNXcy1CaGRXWm5lNlYwaENUSHdScEFUNUVCRWJHUVFLanhFN1M2Nk0?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Mon, 21 Sep 2026 12:35:52 GMT",
-        "discovered": "2026-09-21T22:19:16.071229+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "تحقيق: صفقات سرية أمريكية تقود 25 ألف مهاجر مرحّل إلى دول غريبة عنهم aljazeera.net",
-        "player": "",
-        "content_hash": "0c8c3b2a438c2488e67302ee7b78a21916e9ea60d4393a2e4a3ad792846b51ad",
         "sent": 0,
         "section": "middle_east"
       }
