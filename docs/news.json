@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T19:45:08.859532+00:00",
+  "updated": "2026-09-23T19:55:15.781107+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -646,6 +646,22 @@
     ],
     "sports": [
       {
+        "id": 4589,
+        "title": "«البشت والسيف» عنوان احتفالات الرياضة السعودية بـ«يوم الوطن» - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi3gRBVV95cUxONTJQNFlMcXhXWlFpTjFHVmpNSURHVGZtZHEwVUZ1YWdZUlpoNDc3MUp3TzFkQWxyV1RTbFJoa2FfdUZObnNteWVwazVfaFlZb1lCcnBkX3RMT1FoaFpOMUVGSW9RazRhS0JOVjctQnVvejN4YlpsZXBOUWpZUmlyX3VtaUU1U3B4UzdQdFQ0eG1sNGpmc2RvdFRNRnA2d1BYQXlJQWdxeEFxX0RzYmVFT1BRbUZZUEE2Y05qc1d2RTNhWWpvYWtiaHFuTDRFc1JvLUcxb2RzQlphOTlFNzkyRG9NODFfUXBiOU9JV0xyQ2FHSmItTV9tTDBLMlRmcG1pUnpvQlhaWmU4ckVIUTFpamZ5bU1nSjhVWGpsQjJ6RTFOMUMzaG82Z29kZ1VlaGZCRGJad1hybjladGVHaVRPSTNNR3BYdmJDMjhBOUdpQkNuU3dncHp5UmhxYUhjby0zNUViYUpXMUxJYkJZbTJKRndBaEx2cEZGeU5USGVEMlEyLU1OYTNjNzVNOFNSZFBGZ25FZEhLeUFDWDFiX1pJTFFwalgxdmxNdTFrSUE5cllLckRFTmdCRnVfZWpvMDNLQl95QlJUcHFSNVhOUDA2ZGlOeTVCdFMwd1NoM3dHcGVTNDZfOHh6QU9uYzVJVWJDNS1OLUcxVWpYM3R1V3p1bndfXzhhbFF0QVhLOVVPbVQyUTQtRS1pQ0EyZ19PYktWMzJWcndkZzdDeXpyZEFfUlR6aS1kU3lRMkJZSExYQkVCdklhdmJtSW92TUtDa3BsZmtnNmRWcHJTNkNCQ2c?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 19:38:57 GMT",
+        "discovered": "2026-09-23T19:54:56.932852+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "«البشت والسيف» عنوان احتفالات الرياضة السعودية بـ«يوم الوطن» الشرق الأوسط",
+        "player": "رياض",
+        "content_hash": "47423c28af31448f9b715748dcc9d72d350a0c7f5b86382645a1deb685bad302",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4584,
         "title": "مدرب عمان لـ«الشرق الأوسط»: الإصابات أثرت على جاهزيتنا - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxQdzlkSk9BTnp3Qm5BbUpWNWpJR0NHbWg4b0NaY2J3aFhlR3dBVlFzY2RZZlZ0ZFpyV3pVRXF6WHBDZllzRU1TTlZSRl8xemk4YzNXUE5fZ3JVVW0zbUVJMW5FYVNqeVUyeEpWQUtOcWJUcGhYUDQ1bmhCM19uSVhmS0piamZsRTh2cnNOQzJmUTBrU1RXVjBNVWpaWWJSVm9MQllvZ1F4NmpULV9NMi1tSTRvWTczLUZSYVljRmh0cnpKYXp0UVdzUzRLUHJpSFFaSjlpeEtZU2EtOElwZ3VSZExnNWFMeFRhbUlyWVZsYUdYV2tMVG9TbFV1TFgxcjdncm5wUzVwbGdabjhxVERmbTZnUl9qd2V6RjNKZHlWczFWY2lCbmsta3VENmVEaGIwRWRudi1jVXY3cVh0a3FaaVBDMWVhZ0dFbmNpZHhTNzdOb3NZa2RJYVFLX0hzOWRPVldMNEFtMkFvb3pOYTlXTm54YzZyR3BlaDJCQmZnRE0wSTJ2TDdHQzBEMDhLZllZU0hvdi1zWnRraWUwd3BWOV9tMmxiUnUwNmtXeDVMMmw2Z0Q0QzEtOVpTZ0pCX3p3dTRDcWR3QVVFQUI2OHhvQjRWNEpiTXNvejdNdVMyTjVsUURVUC1ZSWx2MlFvSDdEXzdBV3dWNU9OU2M4WEtVeE5YV3dBT09KS1FScDFsajRQMU9rZjkxTkt4TkI1aGl1c1FKQ2VLcE1jb1NjeXFBbnNfb2plZw?oc=5",
@@ -738,6 +754,22 @@
         "summary": "مدرب العراق: لم نكن الأفضل أمام عمان.. ولا يمكن مشاهدة هذا الأمر في بطولة الخليج Kooora",
         "player": "",
         "content_hash": "167522fbf274ea44692184d77f648d6d1b137cdf3dfee403adef766b6cb21a72",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4588,
+        "title": "تأييد حبس لاعب إسبانيا السابق 4 سنوات بتهمة الاعتداء الجنسي - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxOOVl5cEd0dmtYcG9qNHBPRng1WElwQk12RmR4QURCSENfTmRDc1FCZjViWm5jZDY4dktKZFdmOWFJSkJJRnM5aW5SUlItd2NmaUxOdE43XzdLY2xOTzhhVmgzTDE1dGZTU3VjMEdlaUpDVWxaZ2llUFRabE1nT0NTU01ManBhWXgtb1ZHekg5LXoxb1B5bV9aQXRKWXI5ZFJaZzNjT2Q0WklqSWh2cVM2UjF3dHliNno2NlBXMVRxTjlRY2tOdzRYc3RJdWlJZzV2UXNCVXRkZmxqN3kyY2ZrU0NvQ09wRFUwTjZsUXZycWVCdzZpalVuZHJMbG5LVkh3TW9MT2ZfTGVodHVqNURPVHRZVXVWZTF1WUZid3ZxdTNwMXc2WUZFSnJ1YklnYmpUdmdBMUhGYmNIR1VOTHJSVXhkQm5aLWFMVElFS2lVdUp2cDZibHBfSFNyaVA3cFFkREdOLUhmTmI5dzN4VlpONDBZU0wwWHg4QzRsWi1DX1dySXZ3WkNnbFJ2N0Z5bENxV2k0bDY1b3VJY2xUOTQtQ2ZWcFB1TzF2R2dWNlBxdmJKazdDYUxUNXR4QTB4alFIMmJQUHdVcW1PS0ZWRDl2X0gySWhldm5WOEJhNy1zRnpWME1NZUR4Q3JHSy1Fa3Y2R0VLNkZEUmplazJQeHZFaVBiVEFnN2hSSjJWSi1UQjd4MzJMTDJ5RkFOZjFjMnRGd3h2OFZBR0Z4T1l4WWk2NkV6YzU1QVg1VHpqaHc2R1pEa1BEUlVFNTRBdVUzNkVhLS0xN1E4WnhmU21DS1Zydm41UzAtaXlIdFFmUGdvR2tud0JlTG9rbTJ4emd2TmZQWGJ2UVlxU3JmdVZ4NENrX1NOcm44aTJBNERRb3pIV1JrXzY2bV9BbTAxakkzb3VNODZrVWVWSHR5X1k?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 19:09:52 GMT",
+        "discovered": "2026-09-23T19:54:53.371368+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تأييد حبس لاعب إسبانيا السابق 4 سنوات بتهمة الاعتداء الجنسي Kooora",
+        "player": "",
+        "content_hash": "ff5dec57913f5c9d4bf5d8d74dae34783fe3ffca9480a58cb44f847180052d46",
         "sent": 0,
         "section": "sports"
       },
@@ -1410,38 +1442,6 @@
         "summary": "أخبار و معلومات اللاعب محمد دلاور مدافع نوروز winwin winwin.com",
         "player": "",
         "content_hash": "9874d13093cd2c5b51f71e6957f368d5f0e004115cb0b145ea92c1a5e475f23c",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4466,
-        "title": "أخبار و معلومات اللاعب سيف رشيد لاعب وسط الطلبة winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdzhNMGYwdE5nMi10SElXREszTW1LSjhVR2hpaFNFWnJCWWxZRE5pdG5aSlZGTUZ6Y3R5bXlYU1NWcC00YWZUZEl4TWp4aFhUaGtwQlFjVlZ5bnVGcU5CaGROWXlsWlFRQ2sxcG5odEs3MTcwOFBTZGhWOFdtcTVjcERZUTNsMC01ckMtWnJjVV81MU5tcGdhRlIyM29wU0RhdmlCSUdhU25EdG94N2tLaEVPUnZfVmd1NFpMS3JZOHVPQ2c5UF9fOFhiOXlYRlhjeXA0Sjk2WEEyZXZ0anY3VUFuMDdhNTB4UHhn?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 14:31:30 GMT",
-        "discovered": "2026-09-23T14:46:32.623899+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب سيف رشيد لاعب وسط الطلبة winwin winwin.com",
-        "player": "",
-        "content_hash": "92dc6de849c1444bd8d1bbd63d186c6aecf0ecc058195070b665f87cc083da38",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4461,
-        "title": "بث مباشر مجانًا.. رابط مشاهدة مباراة العراق وعمان الآن في خليجي 27 - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSXVMeVUzeExRR0xVczhWQUliN01QTXBBR3lYaU41eUZra0Fwb2NoR29QeHRFV0JHX0ZUUzFGU0hmNk9uNFBzYXJiRmhkN0psZkctc0R1QTlYOTJ5YzdCcGhnc25IOW42RmhhZFIwY0pNelpkRXl6OUZIbHd0a1dQM3J2b3pleVlBbEJnZlN5d1VBX3pSenVXa3VmblVyWnB0MFdNQmJPdWpkemRHZGpHa1JwSGVvZGdCYk01NERvOEFGdG1oMjhwT0duMU9ycVJtSTFoUVFtWkZqZFVBQXc0RHlxRzhUbmNnckZj?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 14:25:14 GMT",
-        "discovered": "2026-09-23T14:30:37.799263+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بث مباشر مجانًا.. رابط مشاهدة مباراة العراق وعمان الآن في خليجي 27 365Scores",
-        "player": "",
-        "content_hash": "c210dd36ae18b83bdcfa7f1d8d9a02fba384f5983a6d620eba54ee0154ec9bbd",
         "sent": 0,
         "section": "sports"
       }
