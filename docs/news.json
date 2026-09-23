@@ -1,8 +1,40 @@
 {
-  "updated": "2026-09-23T12:13:17.746620+00:00",
+  "updated": "2026-09-23T12:33:23.471129+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 4423,
+        "title": "أكادير.. ناخبون يدعون إلى المشاركة في الانتخابات ويصفون التصويت بـ\"الواجب الوطني\" - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUZDdDY1VCbnd6clJUaW1pOFcyM082SjhMWWFXT00xNUE2LUxYRFdraUdYUnl0V19oSkVuQkxuSnpFaW1oaEpaYw?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 12:13:57 GMT",
+        "discovered": "2026-09-23T12:33:02.259182+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "ناخبون يدعون إلى المشاركة في الانتخابات ويصفون التصويت بـ\"الواجب الوطني\" Febrayer",
+        "player": "",
+        "content_hash": "1c2433759c4e72851949986a567ff033de317eedab7bcad78e5aac16559fc1f8",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 4422,
+        "title": "انطلاق التصويت في الانتخابات التشريعية بالمغرب.. ومعدل المشاركة يبلغ 4.23% عند العاشرة صباحا - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5INlp6eDRVX1poaWhYUGcteFJfVFR0WTRWR3BwTE42SUdMeGJNcjM2WkFrNnd5SDZ0WG1CamZDQW5GZG9MM1E2NWRGbmNmckFMNTItZ0JjQTZfSDV6TU9tVXFQQnI4MFpj?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 11:33:21 GMT",
+        "discovered": "2026-09-23T12:32:57.700256+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "انطلاق التصويت في الانتخابات التشريعية بالمغرب.. ومعدل المشاركة يبلغ 4.23% عند العاشرة صباحا Le 360 Arabe",
+        "player": "",
+        "content_hash": "493be20050711b07813eed43ef46aad53967fe77775d1bd45937001fa6f3dbdf",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 4413,
         "title": "الانتخابات التشريعية 2026.. نسبة المشاركة الوطنية بلغت 4.23% إلى حدود العاشرة صباحاً - Febrayer",
@@ -516,22 +548,6 @@
         "section": "morocco"
       },
       {
-        "id": 3927,
-        "title": "الساعات الاخيرة د الحملة الانتخابية.. بنك المغرب لغا لقاء صحفي دايرو الوالي الجواهري - كود",
-        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNWnFVcGVFS3JQOUhBVV92RlFPVEd0bEpMbTVlNjJEZHV1VlZ4VXNkWmh1clZzY2JZblExT19DbHJuaWZ0U2tEYlR3dG56elh6ZTFJZDhKUlhFUVdjUHlLRkkwaEtONmdhclFnVFFmX21pVjVUUzNYVnJkSFBrcWQwNHR0ckprUEVTMEhhVDdUb09KZnNqdVMtcWhYUVFpTzREelBKNWYyVkd2c1NSano3cHdZSjdlQkFPQ0NXeXd6ZnF3cW5COFFYQUJlWDNhVjZldUkyU204OFJ5T2FjUGljNU1QX1RuOHNOZGZzV3JESlA4NkFGS3ZYSXhwVTRDWEZEa0JOMXBHTGZLSTNuMVhLZ0ZTSHhHU3BpekpneWhoS21RVDVwR2NGOU5NbTc1LUlleDFLQ0F5ZzNqdE9ZTF9lMWhUS05DMk84NGc?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 20:41:50 GMT",
-        "discovered": "2026-09-21T21:01:10.879405+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الساعات الاخيرة د الحملة الانتخابية.. بنك المغرب لغا لقاء صحفي دايرو الوالي الجواهري كود",
-        "player": "",
-        "content_hash": "13d30e355a206cb0021b5af2a87751d7f633cadf69565cec250feb892206f709",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 3950,
         "title": "إصلاح قطاع الصحة فالمغرب.. استثمار بـ42 مليار درهم وتغطية كتشمل 80% من السكان - goud.ma",
         "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPTFRnanlobUVqWVZ6M2EzY0dTdE9NRUhfUGkyQnZlckx6X0pGcC1YRmhqY3JfTTFZOTB4NWg2UjdSVlV2QWxYcmlxSk1ZRmF5eUxiczB0bkdJSDgxYWRKYjFwSmNJdVBHSTIzam1xVERGMzY4blQxcnpyS2JSLWU2aDRjQm5JbnhlSF9jRW9nUUtpcV9SZ2lTMWJFUi11d0pKVG5MU1ZRMWh4bDdMMzhiS01lUUgxT2Juc0ZFdWNxX2lMZnFaR2hES0gxazlnSk14WGtvMDV3bEVyWTBRUjQ0UUZJVVFIUkFzc1laekpJeExHb2FEeExtTFQtOHQ5OW9CNk96SThLdTVkNEJBdWg0WjQtWkVUbUhGMXpfb0RvaHk5SUtaSTFwandzYjFsbVczNDRJS2dDREVSOFRFZVhmaWZVQTREQQ?oc=5",
@@ -645,6 +661,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 4427,
+        "title": "خبر في الجول - الزمالك يخاطب استاد المقاولون العرب لاستضافة مباراة زد - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxQcm9hWWVqZ0hDeng3NVU4d29CVVVQdXpENGtnZFJlR0s2YWlMbVpYMFI5cHNGZEtYamxkQ29fYXJDRGZpeXZTdEJkYnd0Z1ZqZm1SYkdGVWZpbnplcUlrckx2bnJzN3ZNZHp4Q1IwT0dXdXV6UEFmNEFmWlM2RkxfNWItVlBZLWk1RXlCcDUwR0wyRnZNbW5pejc0azFXWjRwYkItRThsbm9GTWw1VG9sSVFYTDBrNXp2UERsNmdYQjdiVnVBS0RJcTh2NFNTMWZjTkJGZnc3Y3dINzFGanhRQlV0c2JDR1ItMmFPXzlrUkNwd0dwdlVwc21RNjJGMHFGTVlvWjUtdnFlRnlfRFl1UmpKaVlNeExQaEdsVFc5X3B3RUF2Qk5ma0JSMUYzb0V6TkJUaV9NTEJhZm8yczhjNHdhUU5UT05ZUWdWVmVtOC1qbHVSXzJrQjFsZzRCQmx4YlNXZ2djSXVmWUJkTzd2ZmxiMHB5T0VfYjFqYjVsN25OaXl3UUptY2xPdkp2bmhJM1d4RS1xLUktUFhHcFU1MTVzYXZSWWFKNW5PVld0ellySzhKTDlzck4xazJyUkNCMEJudnp2eVlQMXZYMzBwLV8zYjlNQVZ3VXZUNGt2dDZkbWlENzRhX2QtVmh5M2hpQ2tCMnNEcXRVWUcyT2c5UVJQaWRxazV5WTdSUTEtX3NpS0xoLThManBqUXlzcDUxd2VQSGxTd9IBrARBVV95cUxPTXFJTlhjMGhuMW9seXZNajlpM3pBZk1uN2pvcDdTSDBVSEVuaU1TTVk4VHdtbno2Tkw1S2E5MUVTeUpSUFhXajFyTE56MVRyUWRqUVFyQVBub2JHS0ZOT0RwQWFxOTY5MUs3ODQzanFHUlpYRTVIb3JicEZJSFhDeUFESF9fSW1teEpsYndocDItWVZkcWdZNHdVYWRfdGVHaDRhb05jRXlLZ18tb1RJX3hUVkdfdFRFY0ZRUDRnUWF0NlFON2NEaV9YU09Wcm9TWTRNbzNPcDN5S2xTYjFnckdtckxpUTRGT243ZTlWTjJpLURNZlozWm5OYUdQcko5cnJxMlphWmFxQXZkMFhRUDNLM3R5TDlQbUtPUVdwdG9EZFFWalhsMUxDLWhMaUdnai1OMFFjMENndk54VTA3aTZOdlJBejJuSlktR0Ric0kzWkp3Y01tbG8zdVhYSXlBU3NwWkF4WnVGTzEzbm12cHo0SndqUXZGTWJ2UjFMTld5YXJhN3hlWWhNRUl1amFEa1ZNSnVvcGl4bzBCd3lLQmxBR0k0bjhhZjN5c3A4c3VOM1djajZpUHUyWE5mcVdiM2dodXlKMVNGQ2lYVE9ERktYeUNOSjVwNzI5UE1ZZEpkWkxITjVHeVVhNDVmN0VGZzc3R0xhR3p1c2dfYkt3cjhFTG02bzY0NUczVGRYNm01R3NTVFJ2V0ZCWjg4WHpNV09JT2hHZ19XcFZ1?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 12:22:00 GMT",
+        "discovered": "2026-09-23T12:33:09.450504+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "خبر في الجول - الزمالك يخاطب استاد المقاولون العرب لاستضافة مباراة زد FilGoal",
+        "player": "",
+        "content_hash": "02224bb5558414a1dff995e7113dc4a81dbfbc1f549be2de3e0eb03f0c7d8d8e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4426,
+        "title": "رغم الخسارة.. بريان بروبي لاعب الجولة الخامسة من الدوري الإنجليزي - yallakora.com",
+        "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPWXZhYkNTN3pkaGtQNVFaYzdicDFCR0w4bWxxSzdTdmNlOUpSOHBtTk5rX0ZuSk5wdmV4Y2NHWTlROTN3YWRlVzFaRE1YMTZ4RmtQeDIzYUxYZl9UYlJ3SWVvLUxndUNQS2tzRXlZMUNBbmRpVnhJVnhrd2NOUlVGWVlnQTR0LUdiRmxYUVFCa3VjaEZDRXNXQW4yanVvbVVFWm1hU2FpaEpLTFJ3dmUtemJtZTN0MEU3cVdvQVR6OUgtTlZHdWRNM2NZejBvQTdBU1Q0VERRWFJsb1B4YmNPSTRoVFVQUTRLMmd0THlxMzY1eW9GQ2QzRW5sRWdBZXpDSk5iWndtc2VKY0xpSksxa1psYTVKNDZPS3dENEZMU2VzR3VOSll2RUt5bzd1ZDdORVhmMVBIT3RWc25IdVdFdmtmRENaR01TTmU2eGhJeWFVNXp3R3lqcDgyQjBJa0pxem1WT0ZQOXh4U1BPSFoxWlFMMnR1WmtkdFkxUm1kcEF1UTFTSzZ1Wlo3T0JsbGpmQlpOUEd2MlQwVTZVZGZvd3kwellneXRaazd3MThqODczcFROR3VONmgyQW95MWh3RVRDbjFqVmlFUHV6Sm1GRGdodF95UWk3bVdLU0xsLTBjQlpWa21Lc2dwQTZiLWJQOTcwb09ZVUs1dHhkRHgzU2FpczBTWG51TUxxTW1XOV9KVXBFYXN30gGcBEFVX3lxTE5raFkwLUc1MlB2NF9OdmpzQ3lkVnJNX3NOcUlhRy05UnE0bTJNSXVNRjJ4bElrS2NEdnBFa25MNWE1OVZ0LTNfRkJZZEJZNXhNUWo4aTU3STA0RmdPbGJtU1VUUG51cll0TDhxcXppM2l1V0ZHRHF2b1dTQ1gwSU11UkZvbldPcDlGWk9xMlhYVEJEXzBoMGZlSGhZekNBRUdpY05iYVpkV1k4NmxHYWtXb2NzRmdGZ2szdXYwLWNDWEtYWTRJNm9LWkJ3aFdKRzhYYWIwbTNaZDJTOHEyT3dRcWZUV2FZT2lBcVV3R2ZDaDJXeTlVdDJSdVhJc1BicVloV3hEOXl2Z1FpSGJBNkhOanNwUWhWVThUcUZuWkh4UlQzMVdDOGY3UkIwbkRSNVhwNDBIYTV1V2NGcXFsMkl2eTJNMzk5a2pOYUZIUTRfSzhKRHg2a1RGNWxxLXJibUtET2owUUMtTU9fSEF3RkxSSVpvU3BPQTVKWDhHdHZtWGhHRmRHMU1mTmdSQ1RCblRuV3VjeEtmeTNRQ1JIaE9RYTJ4RXlNLXJiY1V5Z3ZMOTJxMW1WYU5JTHNIZm00b2NFZWJ4VE1GenZZMHlqZGtyZ3JJRlhtOGFDd211WUxtLTNJNU52bnQ2QlJNSWsyUHgxR2dXa2VReC1yYm54dnNrZW8yWWFmQTBzTC1KLUtkdEJCN2oxOENRNmNWQQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 12:08:00 GMT",
+        "discovered": "2026-09-23T12:33:08.843478+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "رغم الخسارة.. بريان بروبي لاعب الجولة الخامسة من الدوري الإنجليزي yallakora.com",
+        "player": "",
+        "content_hash": "ce69fae7916fc04c1e279164d4c6fcf7415556ceec0aafcca25bad560bacf868",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4419,
         "title": "مصدر من استاد القاهرة لـ في الجول: لن نستضيف مباريات كأس عاصمة مصر - FilGoal",
@@ -1412,38 +1460,6 @@
         "content_hash": "7c4cbb32d65972a1b5c467c52278f4ae7064889b836e314d78513c300f4c2941",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4288,
-        "title": "في حضور أبو ريدة والدرندلي.. المنتخب يخوض أولى تدريباته بعد \"اكتمال الصفوف\" - yallakora.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gRBVV95cUxOdktqaGtnN1Z2V215STBlWkNvWS1BRFNzakEtOG9hNEVfdjZ1bkRKZ1hxM3FVN18tcWNxczRtTnFBQUtZcEJzQzV5ZjNjQjhJM3E1WENCWndqSEN2a2pGb3FURVZGRVFGMEhYazRhTGgyaWhqOGVjRjYwcnZKRDdyOW9Zd01GV0Ztc19QRWJOOEE2VVlzQ2xLNlVLZ3V3b21jLWRqa2VWV1ctZGUxNFFaVWo5S2N5Ui1CZDJSMFJKY2RwUFVpX0p3cUF6TmRqQTJPdDhtRnNUNmdBQ3lEaFBEbnpJckpyZ29XS0p3R1U2ZkdWRnRWQXhaLXlySFFhMlB2enMwZVVGczMycms5b0s1d3UzdnlBdlB6M280XzRhUHRqWWZ2SUVGUkhkcDl4SlhLY1Npb1EzQUkzMXNjNlJud2pKZU1nUUlKd3d5MjFFNE5VZ2QyS1JsdUE4cTB4STRPQ1ZBSU1WTTN2Y1VaNEo0dWFkWnBKQVdFbU02cHdZeUlIQkhzcHR2VTBvWENmUWk3Rnd4VWJGeEREU2RzZmI2ZU9Jb1l5aEp3bDBiLUJFcTNuVVJuSGR6V0J5eVpCRmdreThDMldKNG82THVEamJzTVhDSmtIdDRGOGhGLUNQRENVa0JvNU9GQlJFdGtOTDNhcWprT0t3VWFBSXFRNlp0d2tvRnFNazlxSmw2b1ppZmRXOWxZSHRacGNtbFFTamtLOUd3NGNfWVQ0UWswNzZZRURCa2VWZWo5b2EyeFBnNkRicjA2WE9VWUJvUUNUSWY1clIwNVhxNFVtUdIB3wRBVV95cUxOMlNDbG4zX3M5VnUzTjNjWU5rNTV6MnZkcGRsdmhVaWNwSW5IV1R4ZUZhNlRYX3R2dTc2WW1sWDFhYmZQOHgyNGZjQlRZZXR3YVZFY1RsMDdWUkRBZXZDcE9GTGNad0t4NXVXUEt2Z3lHRjVFRUdvTFRES2VySDdxbkc4STZ0eFpqZ0NHN25FYU1OMFV1VjNIZEVSU3J6UUtyQl9HZFRZNkNESnlaOWpvY0RKT2dmdFFCVnplRmpmT0pFQ2NUdGF0YS0tOGJ6OGNsb0dzWFdzQ1EydDR1bERJSDNVRWNUYmdHWlpQSV91SHFUWm1SajRBaHhKY01IZ0toSXZzZG0wOGJGekRHZmVzdTNqblBZYzZFUGlsblBJaTNWR1lRYjlwNFNhSXlRVVFkRER0ZkFrTlZCeklOcHNpTFR3dVp4VGRoek4wYW52LUFpdXZqdWhPeVJQNzRhRldtS3lnM3hBYVVjODgzUlJiYTB6cUI3QjRsTHJLOW1GaEVDTEQwZnNrMTFZTmdMVWptazhjYlVCdlJUU3hqMWI4WGdzZFF1d21Bd3R5UGdaazNMN281cHNid21YSlFUdFg1YTRhbUY4UFJCRjQ5U0ZwbXhVQ0l0cjNkSzVGZXY1d2hucmtqck5VT2lUbnpwbUtSeVEzZWtQSlRPcnJrRG9oRmx1a3lYOTVXdmVnZXp1T1FFUVJrdlRTUTU5aFE0TDJSaVoyVHV1azY4b014ZEsyaUZxeFE4Z0tMcWU1d1c5RGFwelQzQmpJaF8zSk9YTzlYMWMxLTFaa1RURU9hODNv?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 23:27:00 GMT",
-        "discovered": "2026-09-22T23:41:42.188487+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "في حضور أبو ريدة والدرندلي.. المنتخب يخوض أولى تدريباته بعد \"اكتمال الصفوف\" yallakora.com",
-        "player": "",
-        "content_hash": "f8db5a8f32f32b80623cc81a569e174184779167c73cde69c57fc68b9afe9382",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4285,
-        "title": "الوحدات الأردني يتوصل لاتفاق مع المدرب المصري عماد النحاس - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxQdFFTVUxJSTdvRS1VY3h3VHMtUHpBWmJVbXdrblR0dHl1enZnVE92ajBFMzRvelQxaUViVEZqMFFacm9KSTJhNk1TY0FoNlVUaEtNdjlaUlNxLTNxbnZyTnh5Zmg2ZVNVVmowQVJ0Uk1kVy1wYzNNNmtIQU1GZTRDMHZIaWVGYzJGU1hFb3VCQ0s4SU1YVWlIY1JzWnlRZUZRVUZ5N09KU1VzVUNIaG95VzdVRk1sV3VMTGhyQ0xMc201eEF5MEw2dndra0JRZDA1SFQzMnF5dWtpX3hsYjdQdC1rVDlDYUJKay0wcUJYbFE3RVlrLVIzX2R3TXdrNXhJWG9oNnhWeER6dG5WcHRVSTRSenNoc2doTzlydUtFQXI2OTY2RjRxM3pqckxBTklfMnY2dERoRzVfVVljZ1pDVGhjMGp1WEpybm5WdkVOUFBpYUs4YzNwUnFhRGZDYWxWTEo2LWJ2RmFvLUJPMWdrR0JDbUpBX1F5ck5FUXo0UFNKSWpDWFZuV1h0VG1zb2hkZTh1OVh5d01YY01SdWhleThzZ0FwT3NTd3djb3JpS1B4ZnlIbFdHeUZ3ZDlSbTRCSHJjVGxUa3JfcnliY3dJa29FajJzQVViX1FoZFVwVzJTZ3pOQms4R2xmcXJNd3R2M0RQTkxUSWQtM0lWTzBkVXJrZ3I2VUJsWUtiMk1GQUJoNDFEdzFNSUljWEdQMlZaN2FNQlBMa0FyVnlqdVdiRkFvQUdKMEd1MGFIZEdVeUdCb1FnMGE0Qm9HeXF4aFVTemJvclRnYlVBdmR6WXdF?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 22:42:52 GMT",
-        "discovered": "2026-09-22T23:30:07.409003+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الوحدات الأردني يتوصل لاتفاق مع المدرب المصري عماد النحاس الشرق الأوسط",
-        "player": "",
-        "content_hash": "0b736823533b9f8eb5b6be85eeee2174123c2a95cf345aa38cca6b9aebd08c2f",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1832,6 +1848,22 @@
         "section": "transfers"
       },
       {
+        "id": 4429,
+        "title": "11 من 12 خبيراً يتوقعون تثبيت الفائدة في مصر.. لماذا يظل القرار معقداً؟ - العربية",
+        "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPd093cks2ZWc0bmRoWjFqZU1sNDFaekU4MjFsZEhCLWVSYkJ5M0RuNkVfUWJMSjJfX08ycjdtMTFqR25uQTJIcGxtMXltVXVhUTlLSWZfampkZkhubE5nREdRcF9IRDJwcUttcXpYNVlaRUpqUEpvQUVxRm84RHZNcGNqRWtGclpTZ2tRZWxPdzJnV1VpdFgySWE5bTFfaEZJVTU1UmdRdlpHUzBXQ0p6cWlXYW82N21IQXNUcy10TU9fR0hXdF85ZGtPTlc5NFphT0JkakVjUDFKbVpKaUlaczczTWpCcjlqU3oxTU40QXpNMWZNc19JOTJYRml2eWZEOXBCalhRQVBCNTFKM0h4TmVsRERpcEgyM1p2bDAtU05YazZyVmFNS0VqTF83WVQ5T3Fkb2RrNDZpdEtGbnZ30gHEAkFVX3lxTE83SFQ0NEhsdFBVWjdnbWZ6X2hhUzRxRjAxZExlSUg4MGdRUHAzSnNFSkVTWDhjOGhMRExUT05ZMnl1ZlFuTXRkVHA0RHV0UWVVWmVHUDFqdW5VS3ZPSFBvWUcyMDR3Q2M5VmpvZGVhejlObUs2Z2U1VUEzTDJheklpc0IyMzN1SkNsOUVNbldNN0NpdDVMMEFWMTFkSVZSWmhaN1c1QnZ4Y2xYMFNzOEt0R0pFNnM5NzA2SHNtR1VROUI1VWhRRUNmUXMzMjdFcVhpaDBsVHdiM21ndHhyelduUUFrUmhKSHNVSlVjWmV0WHBkNGtMR19MMF9yYTBvQ2doaFdpY0RNcHdyQXJ6X2VLa1hkZjk1ZFlwRmxTMTJWd2tVQXRhalB2WnpkX2ZYLVBXSDJCeWI1M1h3X25CeFdGT3N4NA?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 13:06:00 GMT",
+        "discovered": "2026-09-23T12:33:15.910449+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "11 من 12 خبيراً يتوقعون تثبيت الفائدة في مصر.. لماذا يظل القرار معقداً؟",
+        "player": "",
+        "content_hash": "66f8ab66de6dfac0dd13a6f5b6742b8da8105fcbe0122591803f1285a3c57d1a",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 4173,
         "title": "عاجل. - واشنطن منفتحة على عقد لقاء مع طهران.. وتقارير عن مقترح إيراني لفتح مضيق هرمز - Euronews.com",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2Izbm9OR0l1bVNlX0tENFFlZHBEYnlnRTBmNzRNX3hRMDJ6aEFodDYwY0pWUzJjbVJjakJVaHBaNnlHTTlpek9WNUNGNDU0TjRlSmFXMW9JcTBFREVpSlVHVlZFMHpOeXQ5NkVvU1VPVkhnQmdqenV5bXducFRNUA?oc=5",
@@ -2102,22 +2134,6 @@
         "content_hash": "a1d2a4a76fc316a8ddd3d4aab9fcdd9b69cee74e6b602e44ae2d9782901df206",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 3966,
-        "title": "خبر في الجول – وصول جميع المحترفين لمنتخب مصر.. وموعد انضمام هيثم حسن - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YVjlubDVhOVF2dDdYSGQ4RkRzNUFKUUMwVG1DTnJTeThtemVSaUFzRmk0VnJYMVhOZVZMNUpBcTZwZXItUTNXZjh3NHRKUS1l0gGWBEFVX3lxTE9OcjNMOERCS1B1YzRhT3c0SUhUMmdhT3dfV1R2OVV0UjItRWZlWEl3RFg3dGFxSE1LZWJCMmRkamw4R3ZiOGhZcS04Tmk1OU1hNi1CNUpVdkxRanUzbENMWmlXcVdZc1RNdm1FRUROdVc1SHR4ZWYxSk9ZMk9Jbjl5XzZIVlRRR2I1elQzRGZRMmc1bUJ3WGJ3NVRGNk5ocHpNTnpZTTJ3VW5MTFJkM2kwclVXdWdkVVdxNU54RGQyYXZlYkZNZkdYZU9FN2M2bGwxaVhzcmstME9oT0tUX2tLRnBuM1hyS3djbWhEcFo5WUlZU2htLXlCMlR4QTVnbF92UlRqM1V0MVlnbGFjV0ZkWVRyb2dCUEthaVdqejlOeTE3bV9CQWwwLVBwX2xGcFg0bEJIV25hZmZQX1c0X3NNQ3R3M0NndjhuZ0YzMUJBX2lpOUFSNjBMLWdudnpPaXZBd2YwSjkxbGhBNGF2SEhfWTA2azk1UVp5c1JPN0hqc3dkZkNkY1lEWXBNTkMyUmRONzFrR1dsSF9qQjY1cUdlanluYUxnZzRTYnRQdmhaU3ppZ1NJd2ZXUWItclJVTUJhQll2TjJweTg5M1ZqQ0RnVGxoZTZpVmVlTDJFbVdmWTJmby16VjFGdzNIWDJOZHJKSTI4U0FiTWdZNXpaQks5Vk4tellxR0RqYi1TUVR0V1VRdGRNQQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 16:55:00 GMT",
-        "discovered": "2026-09-21T22:32:42.805254+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "خبر في الجول – وصول جميع المحترفين لمنتخب مصر.. وموعد انضمام هيثم حسن FilGoal",
-        "player": "",
-        "content_hash": "598940503c2d1a83b602d9aa751ab1860a3ed45ecece9117cf6aeae5d866dc20",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2294,22 +2310,6 @@
         "summary": "الصين تدرس استئناف واردات الغاز الأمريكي ضمن محادثات التجارة مع واشنطن الجزيرة نت",
         "player": "",
         "content_hash": "18fe11fdd13cef80467bfb24ed5e1c1e5eb6bde257f37c4f64d6ddaf42978ef9",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 4139,
-        "title": "وزير الخزانة الأمريكي: شركات الطيران الإيرانية ستتوقف عن العمل بدءا من 23 سبتمبر - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNaEduT1M4TWJQb3RFaEwtWGVTUnpnRm5EME14ajFhckRaVzZ1SHRWVjhWR0dCOHl6b3VVb1gtbGQ5cWZPT1QtWG5RMW5fcXh5dW4teGNOWkhRNF9vOGtRcVNnZGVWTl94by1jVTJsU2FDTW5nTHMwS0RJSGpwaXhYUTFZR1hDZmUzRWgyUjNSaWhhTDRHaGVlRjR2ZjViZ281cFRBWVJQMkZ6YlZwWVJCbVQzU2NPaEpIRl8wdWYzOEhFdlRidF9pUnBnSVl6UWxFLVphUzVuajhwZjJ4dEZZaXFXQmxBa1h1YnlYbW9BMjJjNGVfTlpna0lZYjEzeW9OY2JVYzlTWXhqSFRqdWM4WUNCX2g5SU1xcDJReHJ2dEpDbnFWWkpPWUk4VGJvbHIxZkxtQjRaUlV1VHVEb3dEQ2xYQ0NqUDloWjFCczNTdWZLbk1RNU9n0gHcAkFVX3lxTFBzUzNLNFV3dUVLbUVHXzVJeDdiMGFiN0VrUEhMQUFrRmhoVk4yWVRLUGwwd1BqVmVCT2xCWE1wOW93TWJqZ0JnbmhuaEtCVmFWcU14VnJJMHliT0lidkpqaE5WVGJKalJpWmpzTTBxalRTby1Ic0c5eU9mNC15MEN0aG5VY1NsbFRyZjNiUVJ2d0NWNm1XbnF3VG5mNU1VbFJfTzY4ZjNWYjdETHB6Q1ptZmswZ3ZRSlA3a1dPMlZTVzNyeTlCRXYxMWhNc1FlMnJZQTNManF4WG1ITEUwaTJUdUxoY0cyVGNpdDEyaUJzT00yb2Z6cUhkeVdFTkJIRWtjV1BneEU0NXVzX0xFOVFwNWx1OExLaVd4WkRZOVhYaTllUXVLMjBiS3dqSG5QMzJFR1VFZnl1T2p1RTd6dV82QTZqX1VOUDY3RzJOalhQVEJRVVlPVk4xQm1fMg?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Mon, 21 Sep 2026 17:01:56 GMT",
-        "discovered": "2026-09-22T14:12:15.263920+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "وزير الخزانة الأمريكي: شركات الطيران الإيرانية ستتوقف عن العمل بدءا من 23 سبتمبر الجزيرة نت",
-        "player": "",
-        "content_hash": "da5e2e5fdf2c9024ea81fbc57f27d3d74033fd78d308249ac7ff0d324b911cbe",
         "sent": 0,
         "section": "middle_east"
       }
