@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-23T13:35:10.051382+00:00",
+  "updated": "2026-09-23T13:49:05.615349+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 4447,
+        "title": "القضاء الفرنسي يرفض طعن أشرف حكيمي ويثبت إحالته على المحاكمة بتهمة الاغتصاب - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBleGJWdnVrTDNhT3o3aU1DSDRwYlNoN0o0N0gtTVR2UWFoQWx6eFlGRkw3aXdrNS15dDF3cHNUSzR4c2Y0UDkxV2t0emw4UmtPU1VmUTd0c1N6WUhLRlBvbC1CQnk?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 13:33:18 GMT",
+        "discovered": "2026-09-23T13:48:39.982408+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "القضاء الفرنسي يرفض طعن أشرف حكيمي ويثبت إحالته على المحاكمة بتهمة الاغتصاب Le 360 Arabe",
+        "player": "أشرف حكيمي",
+        "content_hash": "a105a79b19207fab105ce15afbdb3d74e6c622ad33a7b381581d81ee2cc34892",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 4444,
         "title": "ديابوراما: حريق مهول بالمنطقة الصناعية طنجة تيك - Le 360 Arabe",
@@ -596,22 +612,6 @@
         "section": "morocco"
       },
       {
-        "id": 3950,
-        "title": "إصلاح قطاع الصحة فالمغرب.. استثمار بـ42 مليار درهم وتغطية كتشمل 80% من السكان - goud.ma",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPTFRnanlobUVqWVZ6M2EzY0dTdE9NRUhfUGkyQnZlckx6X0pGcC1YRmhqY3JfTTFZOTB4NWg2UjdSVlV2QWxYcmlxSk1ZRmF5eUxiczB0bkdJSDgxYWRKYjFwSmNJdVBHSTIzam1xVERGMzY4blQxcnpyS2JSLWU2aDRjQm5JbnhlSF9jRW9nUUtpcV9SZ2lTMWJFUi11d0pKVG5MU1ZRMWh4bDdMMzhiS01lUUgxT2Juc0ZFdWNxX2lMZnFaR2hES0gxazlnSk14WGtvMDV3bEVyWTBRUjQ0UUZJVVFIUkFzc1laekpJeExHb2FEeExtTFQtOHQ5OW9CNk96SThLdTVkNEJBdWg0WjQtWkVUbUhGMXpfb0RvaHk5SUtaSTFwandzYjFsbVczNDRJS2dDREVSOFRFZVhmaWZVQTREQQ?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 20:19:22 GMT",
-        "discovered": "2026-09-21T21:52:48.059191+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "إصلاح قطاع الصحة فالمغرب.. استثمار بـ42 مليار درهم وتغطية كتشمل 80% من السكان goud.ma",
-        "player": "",
-        "content_hash": "9bef704ad9f83997563f37d1d734e09f6e974edd66ecc9bac0d0ecfa402d58b8",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 4029,
         "title": "الأرصاد الجوية: الاعتدال الخريفي لا يعني تراجع درجات الحرارة بالمغرب - Hespress",
         "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOV0pkdzhoTU1kVVVqOVhHQlBBWkg3Z3R0SVV4XzNhS2ppVHVaYjRjYldhanlaVU5BcHFwVzVCZnNqcmpFX2JxUjFXSDU4WTdrQkt0OFRMWlpDVkZuek9kODc2RGRrMHFWRW15eHBwSmNTVVUwVWE2UjR4MEVZXzQtLVhMazU0ZHdXdlppSHNPWjlkNHdLaHc3c1BfcHlIYW02UDZMMG00b1gzMXIyLUNNWDJZYWNJNHB5QWQ4TF8tX2tpM25zV3ljZkZxc2I3eXktcWZ5dDZWX2ljWGp2Y3RVcEozNFVSZGZ2V3hLUzRzNVl4T0YtZE9yUlhIMFJudS1BX0VrcmsyQ0VpQ1liREFkVWRrTEtmMzZsNG5lVnI0MFg1UTJfb1VNQVFJV3RUOWJ6NnI1eFpybzNVZnozalRGN2lQS0VxZHMzOGp4S1NWT3FETDU3MkE?oc=5",
@@ -677,6 +677,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 4451,
+        "title": "الدوري السعودي للسيدات: صدام المتصدرين… والهلال يترقب الترجي - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMiggVBVV95cUxNeVhkYjc0d3FRNExYaTJTZjFPQVQ2VVlOWkNpTVg2SHluY29iY0hGeFJ6bVk5UTFsaVpYeXJBNUdnOVFURVdNVHd1N1ZyWFpUbk83ZUVaVUNuQjk4ZERxT0tOZmR1WlQtbUl3cC12ODM5THlaXzZNdTRaTEpjUVpITktqZHk5akY4azB2aUc5Sm9udHpDenV0WjlTNjNaNzI0eGhXZ1BTOEVSRTFPLXM1c1JzZmp1T0ZpTDdLTXM1azg0SjJqZW5nRm1VUkg0LWNsaVhjS3dkMnJzc1E5eW00YjlHU3B0Q0VxT3Rxc2d1cGZobXp5Sk9wcVF4V0hwNTZ5NFljSU9fMUs3UkQ4czFwQXBXbElWZ29kVTNNZXRxckJCZzhmTHRpb05jRlVUT05Tekg5UnJxUEtxU0ZVSGd2UGJTQk5mXzdwMlBnNTRlNlozbjBrUXlGTXdFbWkwb0lkSmNabWowR1BBcmZuNUVZZHo5UUpIWFR4UFh5cVNuX1Nud05pZVhlbXJQdjBqLXpQdVZIR2xBclBJZG5oWjRwRGRnbHJYYUpsdjF1SjV3bFNtcTBXUm5NbE1RSEZ1WWdYenNiU282Wm9ZYktfWE1PdXl5dVdnLXpuRFZYZU4wMTQ4VTF0TUpXNGZ5anMtMHB5WGhPeTZGZXJ6am1LaXhPMFNaQVZEYXFwcGpQQURNWnhVRUlIWTlTZjlOR3FWYnRiejA0eENKTWZoalVnMW12OEE2UXNOT1dLSkN5OWp6aS1BQjhvY1hyTU81VUdJM0hIazB2ZmpsZlFoM1BqTEdtaElublVhZVN5aDJQbUVMSEV3SXk3clQ4eXhFeFNsbTRLaWc?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 13:44:33 GMT",
+        "discovered": "2026-09-23T13:48:49.033373+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الدوري السعودي للسيدات: صدام المتصدرين… والهلال يترقب الترجي الشرق الأوسط",
+        "player": "",
+        "content_hash": "5dc01bc8d0f060744105f06cda62db3efc80cae97f5a1b7fb2ae7d8866c30518",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4445,
         "title": "منتخب الناشئين يخوض مرانه الرئيسي قبل مواجهة كوريا الجنوبية - FilGoal",
@@ -1458,22 +1474,6 @@
         "summary": "بحثا عن اللقب الـ11.. أرقام قياسية تزين مواجهة السعودية والكويت في كأس الخليج يلاكورة",
         "player": "",
         "content_hash": "f74efc0e08d4ea716af2583ec68b89527067e451296dcaf0468abda16c925d2d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4340,
-        "title": "هاجر عامر تتحدث ليلا كورة عن.. موسم سبورتنج الرائع.. التتويج بأفريقيا.. وحلم البطولة الرابعة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMivgVBVV95cUxQVWxFSXJMREttY0JwUGZ6M3ZYZ2I4RFVrWmR2QUNhUjB6UVJPX3AwZUhfRy13TGhJMGlkaDEzN1lJVUlXVVZfZE5fQllSeG90ZGZzSnlmUFJobXNuRlozZTk2N19BaUVHWmlxdVlFdjR1U1ppTXpkZGdpcWlTYmlWLWxhOUY5bkFtUXpkQUpFWHA0Ty15bGtHTGYwODRJaHdLWS1wTUlHNG5OQ2RnZTRBWlFHeUFYZTVFaTRpTk40R01QWFVDakFZRmc1YjBRcDRMUWNoVktoMGVvUTBvNm8xWWJMZEZqbkFtdTA0d3AzclYtVzZLdnFlN1Z5dXpFNE1UdHR4Vno2MXFHOTdTZ19MeklWd3E1WXBRcUw4UFJmNGluRUxlT1BRdmVST25KcTEyTTl0T2pySUVJdnp3WlRRV2RYeW5xcHJEdUM1TUJoclZ6aDZHZnczMkZHMzdnZ0JYbkxMT1BOYWl5aWFDcHRNQWNYTVNJQkZYdU9XcVJ3OEN1Z1FjclZmNDU2cTVFd3pvalQtcWMtOTB2dUVrZGxsMV9JcEdVVUlKbFdIdDBFclEyUC1DaVdIbGd3QmhZWDlHNzE5M2N4WTZVSzd5ZmhJdF9LUmIwTUhhVlJnQ1RyOUVzaHhUWXE5ZWJBd2FMVVBuSHROZjltOENjampGdkpEQldiYkNWWHZhb1V5Mkt2dmduVG14Si05Yi1RTktUeW1OenhFRnVlbFItd3R1VS0xWXh6TUhwOWU4bnU5U1Q2ZUtXNUR5b1NmUDVBOEhkUXBIQ0RTc0gzRmdXNHhBVVdSaEZHdHlFUDBqZU5tTXA3Tzlyd0hlejJFdENzblRIUU9aNVREZWI1RjRaZ2dfVEpSdnk0ZXBCTkpSRUNudUN2Z05SM0taakl5QmpKbUpwX2EwRzAxOEduU2lzT19jcHfSAcMFQVVfeXFMT3RuY21pYll5dUtXRFZ6eTlUVlVleW5qdFNCUTQ0ZzA0bG4wVldKRGNyLTBnVEZTdGJrMjlXaFVxTWxwcndfTWFPcm9Gdk14Qm02VEpqTG8wY3MwNllnYmJTVmJMSVBEWHF1QmxhYTRabzRGMkpIY0NZTjBwS1BFQkhhSXNNUmlYTFlzX21pMzVtM0w1ZjZLMnExMkJFdnZfUVlwTFVZcEtqQWJZVW1fTGh0V2NIWHdMT0Q5OTZGbjJYTHRUdzVoN0ZwRVZpVE1aYlozUUlGa0xZVHJqS25YSTNJREYtWWNCUGI4bGY0b0JFakw0NS04am1BMXRJU2F1djZGM3o3TnRKVGM4T1ppdlFGcjB4NHNoLXI5M2VYRmluRXVZYzlVZWdkRnpvLXVITWZGWEhOaUdEMFQ1U29YZE5Ha2hjUC1xSmhwZ3l1NVpqRHZPaFh0ZV9RQkh4U1A5bmVJeVo0V1lOT0tLdEcyMlV4UVlicmlVM0x0bHA3eHduYmpmdXlyV0ZwZzViVDJpd2RkeW1KczJ6TkI3TXV2RlE5YUxleVdUb0dJLVY4MGNIUFNGOG01U3BrN1NHdE85b3JBWFBLcmstRk91UGtueXpIb0d1S0pFNFdxcW5YRmdweE5EWkJfbkNoQUNkZHJyQnRRMlV1UVl6WG1Ob0J2Tm52cFJHSlVKbW0xN3F1Z0Q2VHR0U242Q21mclJ6TVZPRmhYWVNUQmxZX1F4QzlJNms0dUZOR0hkVkZKbTJiN2VsX0NHb045UklobnJsa05VQVJjMHVIWlFudWRNenh5MndFM19rOFFOZTZ2YUhtSWRoNzZkZXJQV2ptdlVla1llRTJ4YmYtaFZmMEpLTGFQdTZNTHQtUjMxSGJCbS01YXdnN04ya2swM3F6YTVmUnlsM2UzSWhMWk5oNkZjWV9lVkhDRWc?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 07:12:00 GMT",
-        "discovered": "2026-09-23T07:40:44.554387+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "هاجر عامر تتحدث ليلا كورة عن.. موسم سبورتنج الرائع.. التتويج بأفريقيا.. وحلم البطولة الرابعة يلاكورة",
-        "player": "",
-        "content_hash": "a05d243d7af1537705e9691fddc7ab173bd4e4092e4479c972ef71fd55f447a3",
         "sent": 0,
         "section": "sports"
       }
