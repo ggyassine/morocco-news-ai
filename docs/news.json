@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T16:53:37.227488+00:00",
+  "updated": "2026-09-23T17:03:52.952743+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -614,6 +614,22 @@
     ],
     "sports": [
       {
+        "id": 4527,
+        "title": "فليك ينافس سيميوني على جائزة أفضل مدرب بالدوري الإسباني خلال سبتمبر - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiwwRBVV95cUxPZ05HSC10UGwza2FvZldsSnBvMmZ4X0VOZDFVTGc4SmVtVVVOSGxIVVdVd1ptZkp3cGRkM29DcF9tenVpMkgwSzJqd1JrQV8xQkd4VW94ZE9ISFl6Rlh3WlUzcjgyb0JSOVhxYnNGbDFzSF9oSDc2aDBIcnNzUDZEc3V0bkhWWWo5RXNsTXQ1dUZvLXFiZkFmUTVaemhHN19TN3c3NUtHNzlvWE51Sk1lMmtpaEJPX2hCZkFvQ1R3Y2lGbVZJZnZ0Mk5uV182eWZ6aUpLWDRPQ2EweHEtcUNoQzRYM2c4cXBXdnE3cU55QzRxY3gyMlhrbk9TejBnSXdnZ1QycGNrNUtMQkwwMEdSRHc1ay1vTG9LejJfZzRWOVJTaHF6ZHY0RlBJZGdOSWdaUnczMTBfYTJKTHZkRHN2LWFSb19EZTZwQ05BVDNLM0NNRkpsVHRuVC1WSnFUMVpoQmhKcHl1aWkyTzk3VWxFZG1od0lSR05iS3V3TFFyd2VfaEhwZlNzVzRyNE0ySmJqVnlXV3ljRU5mQjFxbTU1NUptSVhFTHF3ejBCQVlCdkhCcFVUNnVJWlIzWTJPbEZ4S0tLVmRVR0FLaTRzaDFKdEQ3SFh4dU1zVmhJOFYxaTZxVWJ1M0d3aGdqQ1E0M1cwNHJmZEJPa0tqdlYxTkI4SHZva1V2V1BKbWdmTC1sdzQxRWlmRVBzRnYxM1UtRkhEcDJQTVdCaXFwOHhFbWtFMXRIR1ZmbXBJWlFJdTBfZmEtcmPSAawEQVVfeXFMUHhSOFZpelVPdkhNMlRPVWJiN0pTVW1VekVtR1YteTlOTFlqa21HeFhKYzBHbDFvSWs3bFV0Ynl5S1FsdnN5dTRzN2NWbC14QXBlLXpybjNxTXpXNy1LRW41ZWdrYVpydERUUDFEdGN3bTBOR0xfSmRfN0x6MmJqMzg1TUJ6RUt4QnE5N2I0UV9uMjhLMGV6TWptYjNfbmhFaWgzc0NXalY4dnhwenkyamNFOWNFVXAxMzRpLTNIR2ZaWkdweEN1c2YxYWVIZTJnTVlhZmFnZm94c1BFbW9nZkdlb1h0Qk4tcXlNTW5vRUo0T1hHcDR6YkFCWVBqQkU3SFZnRzhBb1RJUWVmREU4Q3NOcUcxSWRLUl9IX3U0STROUHE2enVDRklIVlhPd1hTVGxXb1BDUkIyVmg3NXYxem10MEpIVzNHeVYzYmlxUWd4MXBfM1pIdVE0NGViWXVoZ1Z5TjNLZHNlMjNrcWtqTndSdFRMcDdQaldHaWFEODd4NVgxdUpwY05KN3NBNkNfYjBFUTRURzBBOUtKalMxbUZPQlB2VHItRkY5elJjREY2Q0M3Vk5md1J1bTdNNkhUbzFncGRxSXBQbnYyVkt6cXV4Tnduc2JYQWUtb1d2cGhSbFBCVno2c3ZPMTZaeEZNN2JIS3ZLZ085TXVGczNZV05wNDY2RFRHZTcyaHhyTXpvTXZnSEk5SDl1V1hEUEhZbXozZ0ktRzhYT1piYw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 16:51:00 GMT",
+        "discovered": "2026-09-23T17:03:35.268721+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فليك ينافس سيميوني على جائزة أفضل مدرب بالدوري الإسباني خلال سبتمبر FilGoal",
+        "player": "",
+        "content_hash": "64ab94a3775e734f102193d1192272f7b8b030b53b30a4a36a194757a75ab351",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4519,
         "title": "خليجي 27.. العراق يتعادل مع عمان في مباراة الافتتاح - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOV3pEM0dVYWpTQnlQUjBkZU91S2FISmZhSTQwaUFELUhhamx2RDdZU0ZNaHNlSjhVRU8zZWhITDZWT3FlLTU2c2hHYnM5ZXZmeFNHMURpVF9WYjM5UTFrNUtzbWRidWwyTDJ0WWNBSndnVllodWxtby1pWTlsd3BOYWQ2ZmdKbDdkWDVMZFVzNUJmdTl0TGl5eEhPQmpYaXBlWFVld1p1dXgwWjZiMXBHWG1tYzYwc1FDVFRtZ3k2ZG5lWVlWaHI2ZVRuTUI2QV9yNjFxNEJSMlJNWHN2V240VGZaQzFGaUhBR1RpTE9xeDBFMTFtVlV6aEhHQjJGNDNIRkZVbmI2Y3d6RldZN0sxNE5QNHNsdHVCdnlGMk8zblB3Tm95SzFlVlRmMXNzdWFfUzZlZDl3UGl5MFJfQ18tRV92ZG9teVpKYmZTbEd0VlpHQWFKVktUaTVhT0hRS25zRzdLQ25aTmQzNGlld080clFfMmFLM19FdVNnTXpCZnJRUTBrWVlmTnJWLUpKTGhlaC1NRUxlZWdkc1JfR3p0R3R3a29BdlBUMkpvOUVyMW9Bd9IBtwNBVV95cUxOdFBjaVdsNFpaeV9wYTltM0ZDMlZQemNnX1dncEE1THBKZGd4T1NpRFVBX1VMUzNoUHZjMFVxcDc0SjVkSEd1emlqY0VuTjRjR1pqdy03dzdSZVdzRlRGWEJhTUg4MEMyMTZ5VldiYnZLU2NRYS1MT0dJY1VHUkdLcjc0bEVDNFF2NXNJQnJQTmdWMjgxdkFqbVRFVlhCY2tHTjJQNUQ1ZDJjOGkyZndyM3RUYWJMczNUaTBjd0dGWEFaSElFLURiNzZiaXdmWjU1TFJyeVlyMnFoR3BxRzZUY0FhbjhTX0J1WmVXVS1HOFlqMDRXSk1DdEJYTzl1dDFfNl9yUEVuYm5jR2dVeElNZEw5RFltNlZvMjlZR0g5c1RxajZJeDNEQ1doQUxNdG9qUXc0RnlqWlZ2Nnp3NXprT3B6cXFQa1Backhld29CZm5mYjRSQU1SVmNCN19yb1gxWkdIMDRMdjZMTll0b1hRa1duQ2U5WW5hd09pZnJsdGhMcy1uY0VFLU5GWnhRZFo5b3c0X3FIbGhSbDhXMzZoS2lPeGpEUHBJcllIRWtsQWpqUjE1SzhZ?oc=5",
@@ -626,6 +642,22 @@
         "summary": "خليجي 27.. العراق يتعادل مع عمان في مباراة الافتتاح يلاكورة",
         "player": "",
         "content_hash": "0e1ab6900b3ab66b17056a0de5f4f09523eeb19a91c0a7daf20d7494d1f1727b",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4528,
+        "title": "العراق يتعادل مع عمان في افتتاح خليجي 27 - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNY25CWXAtc1JvcVg2TEVnYWQza1c4a0NQU1F0bVl4dmdvQ2RrQlhYc3BoWTJ5M2xEMDBFbENDOEU3WHBvUTUyNkpwMXFHdlNnVHdwVHRHdDNYczJ1elQxdEJXMllTT0oxX2U1SFp5OWkzdEJtOUJDR241a0pXZU9LUVQ3eWVHMEdxWmVsbTNXY1F4c3JwTjZGWTlGamJXRFctLXFzMnpKUUVfQmR1SEdYcmVYdlBrWHJpeGx5d3ZrWEE4ME1PMzhBZE1DMThkenBIa25OVS1FMENPMEhkaEk5eVRPMjhVdEVjcWZiTnJqYUZBYXN0Q1luY2xWdTVGTFN4Y0s4Y3dIWWkxVi1VbS00RkdUblFyZFZQSDczVTZ5YVZXSlhzNTA0RGZlbkZjS0M0V1ZSY05PVWRDTFlXeEpWcU1qQTBxX2MzbDhyWW1lWE9qT3pKY3fSAdsCQVVfeXFMTlA2eWpDZEE5aGtnLTNCaUJOdVVFUlJ3OWdNWFZiUEU3VGdIZHdRa2tOTjZwTkNYUUFvaDljMXAyei1NZDhqLW1TWnNRTXZIRzM3dHI4S0NmSUtlNlpqc2ZOSGI1Vk5IWnlVbXRZaDZPWWhyY2RMZDhWMElESjNlQW1DT1NibldoNWlESk8tSkRCNHlHdVFCbWoyV0RQRldTYkNZeFZRc2VhR1Y4SVJBeEpkT0JxM0JFNkVlRnd5S0p4R0dXcFltLThzZmxSaUNZRHg5ajNQRDJFWElNMHdoVVJuQkMxLUpuNW55c2RpZGZTUktCdmc1XzNCTWtnQ2FJWGRVbGZuRngzXzF3OWU3LWF4RE55ZzAwb3hoZkJPRTRvd1pTUXo4SVZ6VHVWaFN2QlBYZ2FISzVTSmNFU245WlNLV3FoVDI1THMxWHk4ZS1Tbm12MEtieGR2bDQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 16:45:00 GMT",
+        "discovered": "2026-09-23T17:03:35.277039+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "العراق يتعادل مع عمان في افتتاح خليجي 27 FilGoal",
+        "player": "",
+        "content_hash": "669330885e0f5e8e3443982dffdd6239121dac09ce0c54a136385375e3c0fa6e",
         "sent": 0,
         "section": "sports"
       },
@@ -706,6 +738,22 @@
         "summary": "منتخب الشباب: ننسق مع اتحاد الكرة لحشد الجماهير.. وجاهزون للفوز على ليبيا يلاكورة",
         "player": "",
         "content_hash": "04ef638587cee84510a7e84e5f1f91413274e7cc66e34cd63290e0282e904655",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4526,
+        "title": "رونالدو يتحدث عن الاعتزال والهدف الـ1000 والانتقادات - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMihAVBVV95cUxNNTFScG56Zm1zbDJkMDE3aWFMeEhJU041cHFRd2oxaG5UdVRSMkphTHIxTWtKUklwRnJHZUk3VkFXVFpUakxQTHg5cnlVLUphZWRCLUZBOWtWdU5VNHY1SHRjM1JjZnlvOU84TGEwNFVjd0ZZZG44OUN6N0lOVzVUbHA3RVN2V2NuZnl0OUpKZFRWNnVKTy1ydjdaWlBYZ1ZpbDh0RkhNT2xHSEg5NWV0T1psV1J4dHVReE1wSDFMVnQ5QU5KaXhNTkZhek1OWGFpa0I2Zkx2MkZ5NFlFUEF2MWFfRE5iSlI5OHAwcms1ODE0bUtCc0VTRHVCSko4OWhFbzV0MEd5djlOcEotRkFwSGx5NElEcTBuODlSb3RjaVBMTGpOYVhkS0w1d2FzeHhSaWRubURtV2dGOGNHTE1BOG1lY3VXS29wcFdvbWhPTk5kS2dWT3d0Q1EzME16OEVGb3VtdlVhSWczVjBPQzFleDZzY0oxRHA5QUR3TVBaMGoyUzdrem9vZTlWeTE0NWZBLXIteHEzbVpFNjRqa01aT2JXUWdYY3p6TE9lc0lWc0s2Tk40Q2tyajUyTExiR29rTFJXdVRFTFJWdm4zb1RwdWNBN1dBek96b3RvUDJtY0t2ZTc1WVVCSnpvTGtOSlh2S0dsM252ZFdzNjVvdW1sTF9TNWg0UEs3MlBxQVk2WFlHb1NBajl3RzJPMEhjanVJNmU0enZ3VThCalo1WGxQSVZUNlZNVlF6aEdkWjRlelB0NmQ0Q2ROVkFaSWFNZ0pxbnplUzd3aEM1akZIaDNqM1BIcGlHWlBvZy1TSDdNaksyS293RmxMc2JKTUpLcHp5aXFPWA?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 16:25:00 GMT",
+        "discovered": "2026-09-23T17:03:34.378621+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "رونالدو يتحدث عن الاعتزال والهدف الـ1000 والانتقادات يلاكورة",
+        "player": "",
+        "content_hash": "d79c232394e4eca0d236a19b4e13bd0ecd900dff24c4867aed875f2add29f7a9",
         "sent": 0,
         "section": "sports"
       },
@@ -1362,54 +1410,6 @@
         "summary": "نتيجة مباراة فريقي نورويتش سيتي و مانشستر سيتي في بطولة الدوري الإنجليزي - الأسبوع 30 filgoal.com",
         "player": "",
         "content_hash": "83c74a266d23b9dde592a760f0fc9a56bf01e0527bca0a96d4a13bcd5b5af4cc",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4514,
-        "title": "أنشيلوتي قبل مواجهة الهند: لا توجد مباراة ودية بالنسبة للبرازيل - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiiAVBVV95cUxQTWhJcVFMelF4QmNER1FmdlFjbW1SU09WVklZMFNKekIzbUxtNGFJUUlSRk5ZQ3dKdjhZNThPMFR6TzdEeU91VFZyWkJ3V3lTQklOTWM3QVFoNE9EM0ZpYkhBMXNhcmZfdUE4YTJwZkxVNHB6ODlFM0s2RXpROURUb2l1dGlKY1E2aWlBSU0yaTVwb211QUpKLUhGazlCSGd5OU1PWUV0WU03cmhvWVhtTG9UbzJ6bDI2eWNvUzNyVnZyM1BNYnJvSmt3c2pZX2FqRFc3OTFhenFPb0dNUFBTVW5UWWNzWmVJak13TE1aMFBkQmhhTjM1MXdDb1I2amZUaXI0RXNMdEhnNm5GSlhCZHkyT2xLdXdLckZZZHhfeHBjSVpmd1VDSzFSSlg5dm9oa1ZPdWVRS1pBRlFoN0RnMGF4QW51ZGVaYTU2R0pZeVFubExqTGUtaGtlUnFGNHhqQk1HZ0hhOUNpTGlZVGFwWGJNMEdVLUs0OWVldGhvUFIyVTJ5TTBDRi1lbGI4dDFBaGlzdGFUbXA2bmo1WnF4b1FTNUhCbHJndm1YMmZlTXRBXzIwbk5ELVBWNkZIc1o3enpmUUdEd3FtNTZmUXdjNlAydzBMSzNvSjZfSWZFUmpDR3laaUJjYWE2Ym5PR2ZLT3oyckdlUUZaRWpnb0NSOS1NN0ZUWWtiTjVTX3h2R2MyREpRSVgzUDRtMFZlSHBGMDNfeUZjTHhpUDhldmN6eHpCb3lHOWk5UTRmXzktb1E2T2xfU0Z3SDZkRXN2WjZNQ2VXbWNHRlZwU2h5TWdmemJOMVIzRjJieEl0Q1RWV0JrUUNrbW5mS1ZyckQ4SEN0V0FHeGZqVXc?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 10:32:32 GMT",
-        "discovered": "2026-09-23T16:41:03.822258+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أنشيلوتي قبل مواجهة الهند: لا توجد مباراة ودية بالنسبة للبرازيل الشرق الأوسط",
-        "player": "",
-        "content_hash": "7f56ac9e5d9b1e1cc14c1f32c671f1646cd22fbb618b7a42fe72e6f541ab3ebe",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4468,
-        "title": "لاعب | أحمد خالد - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iZGhrb3NBMElYT0s1SnE0cE1aQW4tWWpZbnBYcmVKVEE0ZEZyUGkwM28wUGlUZG1aSFU5U25yeDZsdTFBb3Z1Q2RtRVpsSjVs?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 10:28:26 GMT",
-        "discovered": "2026-09-23T14:46:33.849300+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "1a695027a59c740fb78d70ee77daffe71e2c92a1448d44b26b6fdca1212051ac",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4460,
-        "title": "لاعب | عمر عبد الشافي عسلية - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcHdkNlFIZkV3U29kbjRzU3RkanZDbHJ2TkRuTFljWnhxcmxaZmVmbElLQ0NoalR4Zk91VzJFVm90aTdES25GNENTdUNydGxTemxOOVlLanZGN0Zid2FEQ3Q4VDVHNG5pNUVUbTBzQ09IS1Zvb19hc2o0cmluQ0s4b1R5RWtzNXd5a21Pa0dfVm5COGtwYzB2QWRHTFVkTkpHVkh0MDdJcUZtVjIxOEJNZFVDVDZTMUZNaUpxODBiTHB4SGpCUVN0clRENUNCblFVaS1hSmFyb2pwMC1z?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 10:28:26 GMT",
-        "discovered": "2026-09-23T14:30:37.257318+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "c97ee30fdf20e9371396e3bcb0c987ba2759d5ceada0ff6fbed85f7412715c31",
         "sent": 0,
         "section": "sports"
       }
