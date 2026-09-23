@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T11:02:00.454130+00:00",
+  "updated": "2026-09-23T11:19:11.820889+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -48,6 +48,22 @@
         "summary": "المغرب أمام صناديق الاقتراع.. القضايا الاجتماعية تخيّم على معركة تشكيل الحكومة المقبلة Euronews.com",
         "player": "",
         "content_hash": "e6caac5a2847bd20d8623328eef011d23027efca97e0596ac534cd24aafced40",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 4411,
+        "title": "شاب صحراوي يعود من تندوف ويشارك في الانتخابات المغربية - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPN1h5cnF2ektQQWFaNXY3eEhGbU40RjEwTGVkMEVSbEt6N0hPcXlVMnZLeWtHOXU4b0xaOGU3b0VTWnRhalg4aW5mMHVNemFmR1FUTGZwZHVSd2NyVDhLNGhVdEhEbDI3akRHUXdJZHNpQXl6SUZzZE5DVEdnejZ1X0N3dk1Zd2dRcDA1ZzBwczI2ZmhSaGxHbWFnN3ZLY1NJRkc0dkl3NkJIQUhWSDdJSjJzOWJ1bDJ0bkhGR2pBX2wzVHQ4WlZpaDlseHptOWhmSnNQWUxCb2NsNm1rMzJYU2V4M2ptVjBIWTIzZW9TUGRCSzRFV2FEOFhqSl8xRDdTS0tFWDd5RkdUS3o2V1lTQmRPeEdQeExPVmdjU20yWHRPd09CRjdQUDZsM0U0b1BseTl0ZHZMaEt6UG1kRktrejVPcndRbGJZaHIyVFZKTTROMlBYSzZlVDBWUEg3ZG12WXpSMktJQk92QnU1b1FKbEhXOUx0RkpNOTh4U3pxQXV0ZktwLVk2SFRiMTd3VHpaNzV3NGtJcHNMQ3R1V29jZWlUQVdva01rRGpvTTJtSdIBtANBVV95cUxPOXdnWWl3RlI1dGEyS1M2YTZ3WWhyQ3UzbWcweDlpZldOSDlTT1A3VWdpampwMHkzSjJ4V2dJamlWOWZKNGxMQVVhNlNBUmFoQ2dDZF93RU1Zc1h1aEJpdFNzek5mM19wd3ltY3FwQjB3Zl9na1FaaGVBOW1INzZCTWtWZFU4V0JadTlfZ3FfajNvMVVWMy1yRkVxSXRFUkhubldxOW5mczhvMzFPclU5VXRvRjBNRFJkamF4S2Q4aHpaYkpXUS0yMGZJd3pRUVdUa1gzcmNpcEtWc1lPdHM4bUMtYnI2Ul9ISE5ubXhQZnVCcV94U1hEUl9aempacmMzSTNYX1cyd25DNUU1N2FIVENwdUZRbFdwaHdxQVRCTUNRZFZfYS1McnYyOXF0d2I0cEUzVkdwYk9jZjRWMGc4MDJIbDRzT05zMkFkV0xRX3NCY19YenQxX2tjMndCc2Jvczh1dWhCMW1mVGF4SG9xSjNwLWwzTjMxaVZhUGFjNE9aV0V5dWp1SDRkQi10alM5aHZac2xUWWo4TDVrUXdYS3dHbDJhV29pZVF4aVBuUDNLSmNv?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 07:46:16 GMT",
+        "discovered": "2026-09-23T11:19:05.176341+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "شاب صحراوي يعود من تندوف ويشارك في الانتخابات المغربية سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "fb87d7113830d33cf8060b5423d470ed8ba7b73d855ca0c8849a6fc9271a8b2a",
         "sent": 0,
         "section": "morocco"
       },
@@ -2084,22 +2100,6 @@
         "summary": "خبر في الجول – وصول جميع المحترفين لمنتخب مصر.. وموعد انضمام هيثم حسن FilGoal",
         "player": "",
         "content_hash": "598940503c2d1a83b602d9aa751ab1860a3ed45ecece9117cf6aeae5d866dc20",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 3959,
-        "title": "عودة زراعة القوقعة تمنح أطفال غزة فرصة جديدة - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOZVZnVlBPRjM0dU5UQ2JJTnFkbTJDVUFoM2xtcTRKLU1pYmtubnJKRG5uX2ZXYzRfZ3VRWUZKeGYtb2RzQzNtNEdJZXpmRTdwdVdPVWVNZnVrbzhoMGhPMHBxR2tkQlIwbWJWTHJjc2RzcWF5bUUzUnpWMFlpR19rai1HVWxfbEF6WGNqdFVBMnJvdDZ2WndxZkM4RnRYdVZZVWhONW42R2FyamtuaHZKNmV4WVU0RWxBNzRNNnc4aDAtUFJxalRuVTd2X3JxRm5HU0tNYzJBVnB3eE10M2g3NEVmbE4tbmZkUEhFYnZZaHNPQ3VwNjJWaG1meXBCRmh3SmFHMEFydlYyMUNXTkh1OGxXc29TTUdsb0lwOF8xYXprLU5aM0tfTUg2SElUVHg3YUJxSml4SUY1RVp1X0g4QW43NHRjZDQ?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Mon, 21 Sep 2026 16:00:47 GMT",
-        "discovered": "2026-09-21T22:03:36.806344+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "عودة زراعة القوقعة تمنح أطفال غزة فرصة جديدة القدس العربي",
-        "player": "",
-        "content_hash": "c61c6fd9300696113b142733f0502f2949e0087fc9ca5fa3373b17a38cdcd3d4",
         "sent": 0,
         "section": "transfers"
       }
