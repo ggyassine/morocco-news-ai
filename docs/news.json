@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T23:04:31.128092+00:00",
+  "updated": "2026-09-23T23:17:43.750424+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -416,6 +416,22 @@
         "summary": "شاب صحراوي يعود من تندوف ويشارك في الانتخابات المغربية سكاي نيوز عربية",
         "player": "",
         "content_hash": "fb87d7113830d33cf8060b5423d470ed8ba7b73d855ca0c8849a6fc9271a8b2a",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 4631,
+        "title": "المغرب: نسبة المشاركة في الانتخابات البرلمانية تبلغ 28,05% عند الخامسة مساء - France 24",
+        "url": "https://news.google.com/rss/articles/CBMi9wVBVV95cUxQNloxY3JsSUhZOFp0elhqM3luU0poQjVGN1d5N29CSW00VklKV24yUVhGczc0bGhtRkczUXNCd1BBQTFBOEhQci1TX1pvZDFCUTZ1YVNrVHVLZ3RfOVpFb0RYdUlkSW80YjBpZE1sQlpfR3B0OTVUZnkzTDdaZjFFeXE5YU1CbjV0LU5GNTc3Wm5CNGNId05ZNGRpWF9oVkpKV0JVMTd0MjFuM094bEJaWlB0a1hXbkxRdHBIWUZTeE5EMm5mbzc5R0VNMy1fMGdHUFM4TDJoYmpVY3ZRMmV0N3VHY3N6dWNRX0x4XzhvQmdpUC1pMGIwR0N2SmpXNFZMNnF6eVljRllteENDTGs1WmNodk12TllObkw0cm1mUjIxS1RmdW16eGJqbzdUQktNS2VfaWl5YlZFT1otbmtpZ1FMN3B1ZUJ2N1lteFMtSW5jTzFPdUNzQU9yeVVLZFlYcHB2SGJHTkRWUlV2ZUZYU2ZIemFrUF9EdTN4RV9ycjl3Z093TnBNYk1ROFVSeEJYeWlPc0kzQmpuYUZPMDR3bXVPOUdtN2hsSTE4OHpHamxpa1d2LTJwUThsa1Q4NklYdGp1eFFxMU5XMkhTa2xBUmhMcFpJVXlPdjUxcGxsb3hKcVdWOHp2X2hzNThBU1VuYnJNcGtMcms3ejY2MTJ0b3U4NGlOZngwdFVXLXF4U2hmQU5vSkhhSlBza2pEMkdPOF9ZNXNoX3FqQnZkV010V3JpSGpXNVVOOC1Mck9qNjd5b3hkdzlOdzBocjVmcDI1XzhDaFBFN3NxWi1BbXFJekd5OGtlMjBSWDBieFhpa1RDS1ZJMl9nRmhlZS15R2VKcXE5eDlNMEpoclU5a0xDdFZMTWJYa3dlLXRTczJzWml6U3BZZmpLQkVYQ0J2Tmg4aEttVTY5bFpSZ0xVamhvcmFhYXJCdWVZRzN5ekFrQXR6Q0VBWldTY0x4RGEwVEdFZmFuUnhSVDQxT0NqaTVHZ2RKdTJadVk?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 07:28:55 GMT",
+        "discovered": "2026-09-23T23:17:38.288028+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "المغرب: نسبة المشاركة في الانتخابات البرلمانية تبلغ 28,05% عند الخامسة مساء France 24",
+        "player": "",
+        "content_hash": "3fc9bbbbc57f3fe01766aa1c3035cf1eaa154e86951776020e72f3aa4cc05c31",
         "sent": 0,
         "section": "morocco"
       },
@@ -2148,22 +2164,6 @@
         "summary": "الكشف عن موعد انضمام حكيمي والصيباري لمعسكر منتخب المغرب يلاكورة",
         "player": "حكيمي",
         "content_hash": "62dbef8361fffa4a91fc3886a7eaccccaf8934ba1091f7573533a2c6aa339265",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 4153,
-        "title": "\"نفسي أصلي\".. رحيل \"عم محمد\" الذي صلى في العناية المركزة بمساعدة ممرض - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQSmlQYTRzT3JzVTd0RktyMy1EOGNIQ2h4UVhCdWRyTU1RTEkwZDM2Q1VWYmVJOHNmTnlWTVJfREhySFVpeWxIMDZwcjFxNl9pU2ttNzBxWFVJZk93Ql9NUGNXMzJ5c2JTOUJlR05JYkFYaDlxOGJDcGJYNmg4bGhEanRKVHl2aTNYX1dnVDdmY0VpQ1R0VThheFphNndGeTFfejVpNnRtTU10TXQxRHFOQ2k4MHp1VGY4Wl9NY3J2UklibWpWWEE1MDdGaE9UMkNDQUZreVlORTlYb2kyMm9rM1lBQnJxRER5XzVJU2FLQUFpWUdBM19Mbmh5TFBCWEZxUVpwRHJPaTZSNkhKamllNGJXU3hOWDJZX3pYc1RjdGd6NnFwVy1lbHlmWmtqcFVLVjZHeQ?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Tue, 22 Sep 2026 14:05:54 GMT",
-        "discovered": "2026-09-22T14:56:52.399233+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "\"نفسي أصلي\".. رحيل \"عم محمد\" الذي صلى في العناية المركزة بمساعدة ممرض الجزيرة نت",
-        "player": "",
-        "content_hash": "75e099c54f9610dc1b38379e768ccb42a9da2658648f88537a52557f55149c83",
         "sent": 0,
         "section": "transfers"
       }
