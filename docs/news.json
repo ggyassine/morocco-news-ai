@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T05:12:33.715964+00:00",
+  "updated": "2026-09-23T05:26:47.802414+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -642,6 +642,22 @@
         "summary": "أخبار و معلومات اللاعب Gedeón Díaz لاعب كولو كولو winwin winwin.com",
         "player": "",
         "content_hash": "a95099b0cd070523a9790ead80d57f8787f47ce54def2fbebffe1ec1469917a6",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4328,
+        "title": "أخبار و معلومات اللاعب عبدي الريحاني مهاجم معيذر الرياضي winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPcHJyRC1FVUNEVmFZWG9HRm5sQUxEbDljWk9Nb3hWckhuX1Q1RDRscGJQbUhCMTdDOGM1N3F0SHJXUWJWcUhUU2loN0VEaUhFY3pwLXpXY19XeG9JV01DVXdEWUZEdW5GeHc3XzlGc1pIVk9BOUZjZDY1bXg5TE5sazVvaEpZLTdteExmQ0k1dVJSMU5md0lfSVdSdlM3U2luV2FFQnA2c3BleHZvdkxVemhjaWI2YkI2NU9lYUpGVFdrRkxmUDhJX1d0T2R4MnowbThaeVhjOFBDNVpFSHBnUVNkYVpNTC1hS2dNcm9Gc2pSbXk2TjNEV3loSFJGT0JYQjkzWlhja1J5cGhnN2NIWA?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 02:39:31 GMT",
+        "discovered": "2026-09-23T05:26:31.603855+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب عبدي الريحاني مهاجم معيذر الرياضي winwin winwin.com",
+        "player": "رياض",
+        "content_hash": "4bd83636cae8c106c2b5e9c2d4d734d17fd381ae056577c4685f43bcdf415d8e",
         "sent": 0,
         "section": "sports"
       },
@@ -1410,22 +1426,6 @@
         "summary": "أخبار و معلومات اللاعب Will Mcpartland مدافع شيفيلد وينزداي winwin winwin.com",
         "player": "",
         "content_hash": "537ebe0fa00dae7408262c9d2c2aaf5557f8d79e3eaea4eafb59d1149e71eb75",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4219,
-        "title": "أخبار و معلومات اللاعب Joel Akpobi لاعب وسط شيفيلد وينزداي winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR183aUpXSl9hdV92aGgwSy1RMWpUU2RaMUk3LU5ORHU1aW85U1BoNTZCbG91c0I0ZG9JRjVKQ1FEYkpWbTNnc2NHVEtEdVpwMGN4amJEQkdtTjdGUDFfQ2lWc1B2OE5nWHlIV0JSMlZkdTBDVHpranNHQk9sM0MzTERtRDhzRW02YVpKUHVWTVhfbzJwbkFSRFFDX3FZWVlCUE5iWk0wVmZnVURiSnBFQ2cwa0xpN3U5UWU4NExR?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 19:01:20 GMT",
-        "discovered": "2026-09-22T19:06:02.841878+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب Joel Akpobi لاعب وسط شيفيلد وينزداي winwin winwin.com",
-        "player": "",
-        "content_hash": "c9ea1278f134e581bd6bb9b775227a57ceb599f74f55c77cc9f0eba56839d09a",
         "sent": 0,
         "section": "sports"
       }
