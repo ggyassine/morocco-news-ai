@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T18:53:47.617406+00:00",
+  "updated": "2026-09-23T19:04:01.557656+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -640,22 +640,6 @@
         "summary": "جيل زد وانتخابات المغرب.. هل تكفي الوجوه الشابة لاستعادة الثقة؟",
         "player": "",
         "content_hash": "96889d7710a5ad409df9f4e570b3bcc2c4b8efdcb6ed4e8f725c11e544c77653",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 4081,
-        "title": "بنما تجدد دعمها لمغربية الصحراء ولمبادرة الحكم الذاتي - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE82by1KQ2VhWXRUVHpKTVNqZzVfNUpaQS1UcWFDODNmdnItUkdmNVFzc3U3S0plSzlnU2llc1BsTFFieTJEdjljcw?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 10:36:58 GMT",
-        "discovered": "2026-09-22T10:42:13.646521+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "بنما تجدد دعمها لمغربية الصحراء ولمبادرة الحكم الذاتي Febrayer",
-        "player": "",
-        "content_hash": "ae3ae7ae091e101d34836cab109c6d2cafbd5637e9cd4bac56061fac30882106",
         "sent": 0,
         "section": "morocco"
       }
@@ -1604,6 +1588,22 @@
         "summary": "عرض بمليون دولار لبث مباراة الأهلي وكيتارا في الكونفدرالية يلاكورة",
         "player": "",
         "content_hash": "77ac36e348208562d7bb41e1d0744f2316fc07f5627a3252bde244cf37d43b65",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4573,
+        "title": "الكرملين: بوتين مستعد لعقد اجتماع مع ترمب - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNS3g2TXJLMUtrOTQ0YlRWdEtIaXM1ODhXUVE3ZUNNLXlJQmlfV3RLLWN6b1FCSDFFQTFzaFhHZmlOWmRVcDQ5eEZNeFlLd0x2MVhtWkU4VDJJNmphTkdpN3NNMUJJRUJqbVZ3bkFYZzIwMDNWNzlpM2ltdzZHcFcxT2phUGNLdHVnN0lPMlNkdFEwbW81Y0JCQzlRQmZzbmh1bmFDNXJYa0NfTjJfWkFXazhXVkZfQ1J6dGVnbDFydE4wcUdWQjhLU3NpLVJGOWg5MXhKM1hHRFVwRE50cHUzaVJSS0ZQUjRQOEwteVZJZEsxcDd2TnZNanBuVTNieFNIeU5hN1g3Z0JMRGlxQXJta1FBdUMxa25HcDEwLV9nSzMtTnh4b0g2NTFyalhjWUpLT2hGdzhsdEV5RVJLbzBDQ0pZbGhuLV9WbExFMVFGTTJzT1FPV1lzblQzNjRIRjk2S0Uxa0x4LThXcWlFZ29uQzZMVDFrSmxNdnZMUXo3SFRrT1lhNmdwQmM2alZxTzBmSzZhUGE0cXFoSlVicEw3cTY2bm44eHljNEtQS2dRS0FtUEsweEE5SjZuZw?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 11:56:03 GMT",
+        "discovered": "2026-09-23T19:03:53.735919+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "الكرملين: بوتين مستعد لعقد اجتماع مع ترمب الشرق الأوسط",
+        "player": "",
+        "content_hash": "dfcfb198d85116fd81e8fae176c38921e512e774bad4921786409a0abafecad5",
         "sent": 0,
         "section": "transfers"
       },
