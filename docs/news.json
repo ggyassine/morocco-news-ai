@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T19:55:15.781107+00:00",
+  "updated": "2026-09-23T20:07:35.084282+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -645,6 +645,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 4590,
+        "title": "فيديو: تحت عيون الصقر.. أول هدف عكسي يفتح سجل السعودية في خليجي 27 - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxNRGNfenF0LWxiSFA3Yi0tNWpYeWRNZWVIX2dPLXZqV0tMT1c0cmNXMXZqT2RwTlZCMEZlZ0JUenhHNHFvcnloVk9iWXc4cmljalk3d3EtZ1lfR1RhRTR6MVB3bTBxX2J1OVBuNjJzQU1mUEYxUEhXN29iRDFERFVidVQ5Zm5CNXdaejh3ZExYSnV0MXFZdTFQcURWWlY1SzM4TnBTQnJtNUZ0ZGRxUEMyWVh5YUNJR29yd21qZ24wSDIxT2hBM2x4aGJ4XzNZZ2RtamhPcDc0d3k5b3o4LS1GWUdHd1pPcEpzcFoxbFQ4RDQ5LWhjTTJYT0R5T3lXSTFYWTRqcm9xcEVxZE80WFVfcnhEakhidVFOUlZMVTlzZmp5b2k3dERhdFBMZjFuVzBtUGh5TVQtRFE0U2dwc1R6dWRWMFdpcU1MT2l3RUhwMy05SVlpYzI1bllUemRyVk10ako3VmNHdlJKSV9aNWY4ZEdLRTZ3N2RTdmdkZzY2dG1sZkxTTnFwUFljTVZESTlRQm9sN0FEV1VMLTNxMU5Bd0Y0bDJpZ2U5eEo1UlJYYnFMUVlZSVlld0k0TkdvX2k2WVBrU0I2bnR6WDVuUWd3Rl9WRi1qbXJVRE5xODUtM0VFd2pYR1hHOGZtQTZnY2Rna2hiaEdfb0phdjlKMTEyLTRNY1J2eDJmSHduc3BNMzdCU3VsQjRGRU00Z184QVZqWHBBcWNFVkV3bXRrUDlqVEl2U0dOS2ZGX0trbFhrRGhYYmstR3BRV1lPN2dqTERJbE14ZXl3?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 19:58:17 GMT",
+        "discovered": "2026-09-23T20:07:15.156875+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديو: تحت عيون الصقر.. أول هدف عكسي يفتح سجل السعودية في خليجي 27 Kooora",
+        "player": "",
+        "content_hash": "ace55e72d85d181d7917017d39ad02092efcc83f0c3b1f8b843b70ba16d7bd1a",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4589,
         "title": "«البشت والسيف» عنوان احتفالات الرياضة السعودية بـ«يوم الوطن» - الشرق الأوسط",
@@ -1426,22 +1442,6 @@
         "summary": "القضاء الفرنسي يصدم أشرف حكيمي بقرار رسمي في \"قضية الاغتصاب\" Kooora",
         "player": "أشرف حكيمي",
         "content_hash": "fa7f415d9f7ae4751e57db74e98679564341b9f662abe991b71054def87f1653",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4467,
-        "title": "أخبار و معلومات اللاعب محمد دلاور مدافع نوروز winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU0ZPN29IMXh1dm1TZElaMTByNXc2SjVTbHRkenVhSlIxMDczNERwbExQcnJWcU5mR044Qjcya2RxYzd2Rjd3X1ltLVNKRUh4WEhqWlJwU01fZnZTbHkzdVI2Z0NXRHlzUXBYU3dEUzVuYjdrZW1aSVd6OEtCQkEyRE5FMjNxaWoxdVFBZkR2WFZPQ0hEVGhGVUpjSFNhRld1RWhnV3FCM2V0d19jRGs1emtHZUQxUklKckVFSS1zZG1LMmtoTzRNMFhsUUFiNndSSlhOaWYtUW5yUWRTeE5tTzVPdlRjeEF2amV5X3BrZTc5TW90VWFHLUhjUQ?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 14:31:32 GMT",
-        "discovered": "2026-09-23T14:46:32.629287+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب محمد دلاور مدافع نوروز winwin winwin.com",
-        "player": "",
-        "content_hash": "9874d13093cd2c5b51f71e6957f368d5f0e004115cb0b145ea92c1a5e475f23c",
         "sent": 0,
         "section": "sports"
       }
