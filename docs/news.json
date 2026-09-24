@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T18:15:13.759547+00:00",
+  "updated": "2026-09-24T18:33:47.067830+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -224,6 +224,22 @@
         "summary": "بعدما تداولات معطيات على عزلها من رئاسة سيدي بليوط.. الشرايبي لـ“كود”: هاد ماشي عزل حينت المحكمة جرداتني من العضوية والحكم ابتدائي وأنا مازال رئيسة المقاطعة - كود: جريدة إلكترونية مغربية شاملة.",
         "player": "",
         "content_hash": "c4e42b264815d6028d88c2f6e0acf0321b208060a34c6e1aa573b17a0b1b2156",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 4910,
+        "title": "نتائج الانتخابات المغربية قد تصل بأول امرأة لرئاسة الحكومة - dw.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPSDR6TG9aa0dLbFo0MWlqd0xXTnp1dndacE0xWUZmVW50VEFEMHJkS3dYR0taRWdnY2xmXzJ6U2NPQk4xbHdGTnpYaGFmbzRKcG0tc2xTQk45MG11dHdYY3poTS0tLWdyMjlUdXRaMGlxQ0pxaDN0cGxXYmlyUXd4cVdNTzFScWpxT2JvdFlPWUJNX28ybkFUdi1rTEtZckRnVUhhYmU0a254Mk9qQXhKdzhuRm04YXM3c21xaDVXalRUMERwU3F0TmxyZDBiZEwzQjZuQjZwc2JWSmw0ODNYLWFsdC1DS3JDeFJGM29UNWdwT0FhZUtGSHo4TUdiNk5JRXJZcGlGal9qYnBobjZHQTd3YWJ3N19WWGQwTndjNi1QSWRMcjA2Z2xRaXZxUDZZTFRzRTZfR3lQZFc4ZFEyQlloUVIwUUNKa2wwdHNHYVhvOW1lNll2RURqcUdtbm9IYUVrVnRnZ0thY3h1YXVPcm5JSFIzVEJWYnJtcmE4dVFTXzZYcU9QcnJYLV9xMHJQTVN6bmJyWWdfVm83QWNTS0NRZ0lBSnA1UTJ2aXNlY29EQ3RmZzNBMm1iZ3k5eEZadW1aTVZZOXJYdTgxbnNaOGZ1SE5rb2x4WVpNYVIzdjNGRkE?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 08:00:12 GMT",
+        "discovered": "2026-09-24T18:33:43.867575+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "نتائج الانتخابات المغربية قد تصل بأول امرأة لرئاسة الحكومة dw.com",
+        "player": "",
+        "content_hash": "f01c15003f1bb9eec924354c305810586b9367757b1730402f068ce6a475b808",
         "sent": 0,
         "section": "morocco"
       },
@@ -724,22 +740,6 @@
         "section": "morocco"
       },
       {
-        "id": 4409,
-        "title": "إقبال كثيف على التصويت في العيون المغربية - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNc2x1aHhPaHBTTHIyT2ZXSHZnQ293SW5TSUpTd2JxSmtWYTVmbms4SWZvUm9YajhCQ2FwaGphUTY3VHJpbHp3eEFGUGcwMDhVcVpsQjBDRG40aTNmTmUxa0h5eGd1TjNWS1huR2prd1RkZ0FhaEpJUkdWYnRpNG96TVFFYWxYd1lIQkplaHk2eEpCRnlVYV9pcVBTWTZkdFQyanU0eEoyR1M4dHpmMXlUTF9sRXZ4cVNLMmctaEViSjVUU2xsdXAtbXZJRkxpLUxYendIUHVveGNsb1dSZE9hbENmcDBfQUNrUGxmZkFjcVBsQzZOWUoxV2ZxNTc3UnJlazNGT1dZc29XUFMyTWY4N19UVm02NE9EZ3NHaFg1Y0lrYXZGT1FZSFNkNHg4TXY0UzJlX3dWbjd4ZUlmZUM3QlhkN1BWSW9meFhNY9IB0gJBVV95cUxQc0lXcUplYy1leTZVN3Z5R1dMUHZMTmpFbjZJOGZxSEZKaVdIcWw0d1hhRGVVODJZMy15dF91dEM0YTFVd0dWbWFXUGl4dURCWWRKMktab05VZHE4dXh4TG1RcVQ5ckJvN0JnWXBOY1FDSl9zU2RHTlptZGFTRG1wQXNUUDI5dHRRcnFiX1dEOHhqaWdXMmVWZVhjOGlpRWZaSV9zdDgzSDlZZ184cjFBbnpSQzJGRzlCaEdLRVF0UzVfUmVhZ1NvQXZVZHl6d013M1loUEtSY29Ob3BtRHR6WGlOY1dpZmU2el9mUVBDanVMSEdvdDh4T0VmcW0yMk8xcFdZWFF6ZjBLMEtIMG5nTTl3VzluT01PTm52aGVNMzJjMFdoaTB6QjFxekV3c3M4LW1oX3paS3FLZ2pKMWNueW10VUdvVkFYYzgtNVpJZ3J0QQ?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 10:42:16 GMT",
-        "discovered": "2026-09-23T11:01:53.915377+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "إقبال كثيف على التصويت في العيون المغربية سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "6f47ea605a80a67478c9c16b1ae48cc7364d6f51555d19bd62ccc30235ff56da",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 4628,
         "title": "فيديو.. إقبال كثيف في العيون مع انطلاق \"انتخابات المغرب\" - skynewsarabia.com",
         "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNMzRsVUd2T002OFpOUkRNS1pYUmMxWHZrWFNLd0k4UVlIRGFUZlRmdW1VcmhZcHIwSVpwMDRJc1NUZXJORGJGZ3dFdzkwamJMYUlhSVZEODVIeUFHaG03SVcxQ2djeWVGWGRBeHpVQlgwSXRfRlN0TGpoVjdOS0lveGN0NTFSV0RCdkhXQXZLUnFmV3h5YWg4MlVZWElqb3lBZHgwWWtXMDNSV2t2blRjakhTOVQtZWczRG9RLUZMNWE2eS1ITkVJdExxY21obmdSUW9jUnpEU0xzSFhCQmRPT0ZOcXdZNjVoREg1M21PWHIwblNFTkNFZ2ZGT0lMakRlUW5OVUE4Um95dUhRRXpWLUpsUDRMdlpoVS1ITTdXQnFta05BVFJScDk2SlZPaU5vLTkwUHpLQ1l6ZVZSWmd5bUxCa3RkWTJ1RXJrY1JUYXctOVpTbVlVcFNINnBlTmJqOV9adFRyTXNja0xsMi01WmNNQ25EelVEZktmellDclc5dmZGUzlHbFViUnlHSE1JY1RTTlVKamhwV1l0TjdDYUZLY2pZYkHSAawDQVVfeXFMUHdyMlhjMVpGYVFQTDVYT0kxdDZTSXF5YTFIYmNVOXV4WEo1MUlyWmhpV1I4ZHI3MDdYeUpLSTc5ZC01d0VPU3FlaFFfUk5oa0h6M3ZZYk1ZUGJNZEp3ZTJ6NGQyRDRvUExSeldtVW95WXE5OG9PWnN0RkFHVGJyQ04zS2hZejJIWElVQzlMZWg5RGFKTG00WnJqRGpfUDZZVHhZVFg3dUVUMjlIQjZaTDktVk1KakctTHJfb2g3elNCSmhhWnR1eE13dW1qVmFmdThXVnhjRUY1TzJWY3pnM1JDdlowUGs3WnhWZ2s4azR1MjdqTUNLc0U0NnI1Ullaa3E0S0Q2d3otZjZJNDVZTXpRYlM5SnRFTkZzUlJmdWt3U3Fad0lVckV4bHlZd1ZHQkxHM3E0LVlpYmF6S2JQTzJENmVpMEdhbWFsWlVhbmxoVGUyTThKaTdldGs5aFdtQlhyQ0tEMmRjNl9JWndXdUdpNElkd0RyR21SNGROem9FYXg5eTFYa2lTdUE5OXFZc2p4NnhHcFk2SGtpMlRES2xDV0RWaF9vbXB0NHQ?oc=5",
@@ -774,6 +774,22 @@
     ],
     "sports": [
       {
+        "id": 4907,
+        "title": "أخبار و معلومات اللاعب لوبيز غاراي لاعب وسط winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSHRQWTFEUHlEN05EYVM3c2FLSS1uejA0NWhFc2xqVjZ0Tm53aEhndEZSc3NYNTk0bkVNdWg1NzFkZTV3RE9MbjhRLWNvWDdoZlprX2dNRkxtSTFYbDY1dVNiYTRPWlFrZGRYa0tCbkxZY3kyMjZJbENvVGNqcTcybnpMWHNhOGJvLUNzRm02X3Z5UC1Pejl0b2IxWlhaMV9nTHFkVDJycHlKWWxPd1ltWllZUVFqOHJyUWswRGpLNFlSN2s2aHlTRnoyc3I5VzFzTE1HVTEybkZtZktxRVJKS0hqX3pOODVJTlBQZnBFWDFlaUpsVDJNM3FVUUdfdFhE?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 18:30:56 GMT",
+        "discovered": "2026-09-24T18:33:25.417526+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب لوبيز غاراي لاعب وسط winwin winwin.com",
+        "player": "",
+        "content_hash": "0e1b2b1316ff4be5d1c692b2e310c5903a8c39ffa2b836639e2b02971409aff1",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4905,
         "title": "بالفيديو.. منتخب الإمارات يمطر شباك اليمن برباعية ويعتلي مجموعة \"البطلين\" - Kooora",
         "url": "https://news.google.com/rss/articles/CBMipwVBVV95cUxQVDFNZ1ZTVWt5U21IOXNaSWVocDRKc3BLWlpwU3BIbDJSLXVQdVdmb0dzdWpEYk8zZ2g5bUlVczFsUjdKUmRHQUNxX3pFMjZ6c0VlSWM1eEJDMjd4M0FsdThKSS1jOHpUTVRFTmkyYzRWODBLcUZlN0NPTnd2YnNsY2l0RE15NFViLXAyU3gyTFNjRnNudmpoVVd3NmZRRGFoTm1IVkFKcVpLaDExQ2h2YmpfaUlGeWQ0TmgyNzNNaERkMXV0T2xYTTlUTDBkclhFSXBDaGlNWFVUNGZBMkV0OTNYUGlXTTFkMVg0ekNWN3kyTnpjZU5IdC11cmdOeXpaTUluQ2Q1NFdScGh6SjFuZHZ4dGhTaGxXN2xCbXhXTWhfdzY0Z2ZEVXhaR2hGa1YwRTFEblVpLVFqdWstbnhIRkxGdFdzYnhXOTQxR09ySFlSdm96eU9sYUpxRi03N3RlSmRqeE5CU2JYV1lJamdHcWlPQzcxWnpNR3JENHFPUHozdFo1ekU3U2lpeUxveldSWXpMWmRDZnloNzlNUGg2R0FUaGZIeE8yRjQ0emRZaFZqa3NNV1VwMWdDdGhQLW1MUEVKSWJhbHNWWWRGS2VQbG5pTmtQVHJrdzdLRE5GYzlNSFZYZnY5MDRTVzlvR2s0MElHTW9iYmlTVEgtYkx2aGplTEhuN3l2Zk4wd3M0NDAxQWYybmJLZUhDX2Vid0VuZ0dnRGJRa1ltbHI1UkV2dnVZRDBFckJKbzNUV2kzX2c4bXR2TVpwOGtzelp5ZUsta1duRURGUHNmQzdfRG12M09mVFlqMm8yVm9pWERZZWdOTkp0cGlqM3pSbVI4aWIxUDFkampYQkZoUHBxeWh4OGdTYUxFc2lXLW1fU3FvUzd5M0VZSXhN?oc=5",
@@ -786,6 +802,22 @@
         "summary": "بالفيديو.. منتخب الإمارات يمطر شباك اليمن برباعية ويعتلي مجموعة \"البطلين\" Kooora",
         "player": "",
         "content_hash": "b11ef787c41134cc6a65a4d8d0a52c796ef0bca84a416edd46c419d9914960f4",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4908,
+        "title": "بامبو سجل 5 أهداف.. المصري يكتسح القابوطي بـ 9 أهداف وديا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNVmt4MjNkRDVzeVdNX241NDNqY1p4ZFloUDZjeEFUMV83bnAzdjBQSFdEUFUtNXNVRnJjS0ZkN3BaU3l1bmRGU2NVU3lZdWdMcVVORkJKMk9NSnZ6NGhsUGJuQmNFdDdjNG1Bc2tvUVRxb0pGcG11SThOR3dQMTgxaU01dW5QZlhTd2lMcDctMnZZMkZjY1VoVnh3QzBUMmdKOWhaWGFqSzRJM1d5NGRfdkZWTGNpRE5yYldjS1FQbUU1dS1mUUpBbjFtcXhZQ25kS2U2VHVDd0g4QXVrRlNXUjgzVDZmbUgtVkFJcE94c3RvSm1XaDJGcVJXQTJibDE3REdvaEZBaDNReWNIdHVTQXAwdUswVU9yVWpPVlVKUHAxOVdxUlVWdVlMcmE1bHptNDAxRDZiemVBQnNxUEpsTlZySGFCdEk2M3JsSjVKdlZQb3ZBaXczRTJRbFZUbExYWmNRUW02LXF0Zzk3U2x0LVpRUEFUTEcwZWlDTlNTRFdxY1h0QlltVk1xR3VKdUhUWmFkRi1BU090MGw0MFIzblpGZzNCeDBhdlRsaEhmRDJZeS1qbzhSNUNn0gG_A0FVX3lxTE00LTlxM096bXNoZXZ1VDZCcm5zMGxySFBReXJMZWF3TnpFb2pTSk55cEZreW9VbUJLMXU0bzluWHR3ZERtcXRvZXJmOG45aHNkRlRhZUJlclVvUm1NeE1ScmVFNmk0T2FMcURYaTE2bHNTRjZvTlhqZzlKZ2lxbzZKOUZ6MFgzN2FkM0RmSDBJVWZSMXJSUjgtQmpxQXZDeTltcDJyMFRfZ2xaMFBEakJQSnAxbExabHk1YTB2NnJ5TU5zV0JrSndhcHJTeWs5d1pMUU8yNXpodTJRUjV1U25JSC1KQ0pYSm0tM3hDWWxMOG9CV3djOG1odnJvdXU2UGlrZEtoRTdsOHY1aDI1c0VFSHpLTFFkSWJKUFJieEJNVUI1UVhxZ1UwWkRZT0l0UEZfOUFLSXF4OWt3b3NQd2ZqMmJYWnVDS1VGMVpJaUIwNU9Gek95Uk9jMGV2VU9FMHdwUUdtdF9saFdSY0tqTVEtMVVSZ0dEeGxLNmFwZkZoT19GNHZEdWVhNFc0TERPakRRRWJQeEZuMmg5d2hhdjNQQWc0aHQ0ZVU0b0tsTjN0VzQ3Y29uVW1lUUM4dVlOOA?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 18:01:00 GMT",
+        "discovered": "2026-09-24T18:33:26.800195+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بامبو سجل 5 أهداف.. المصري يكتسح القابوطي بـ 9 أهداف وديا FilGoal",
+        "player": "",
+        "content_hash": "baad54014ba1923bfae5b5d1f239aaef9a2181cd290d7b7404935b8ae784968d",
         "sent": 0,
         "section": "sports"
       },
@@ -1540,38 +1572,6 @@
         "content_hash": "baeff8ba054d6a683863af1e6b01be37201e904a0f2005e08a326c187f3337c3",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4809,
-        "title": "لوبيتيجي: ذهبنا السعودية للفوز بكأس الخليج وليس للتحضير لـ آسيا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQc1Rmb2tqN0NGUG9ONzhSYUFHMmlsTjFZWDRxMGVJSmRBcll6ZjZScUxPS3JZZE5QS0txUnF1cXRaZGhqb2FBTDVPUExvSVIzNXNFeG9kcVM4cXliMEJ3bzQtdUNIRDlaS0p5bjVEQ3VGUWI2NWpCWUlCQ3JSWUVTb1JUOGFWRVNlWFFhS0lNa056VW9pU2QzSklMSFZORGdfRXRaMnU0RkRVYng0WVJiRERRNVkyalczYlJGbXJqNlUtUG9FLXVxNHBjZjFSQTdxeG4yNGoyc1hCWmUtdC00WEZ3TTJpemxzUzNVMFVoaHdTc3E5SGpVR09xZ3ZyTU5aMEF6ZlA0X1JnZkZJWDJxZ0hMcTJIY2t5UkRNZmcxWklIZ2Q4OVZBWER5MjF3b3hXckNJOUxMeURid2FFWmtSV1RENldFUnJCSVU1djd0SVVGNTMzNFdYcnB4TzFxLXdaNWg3VUlHY3lXbmhLNVh1UkxpcHZsLThqeVY0eWxzVVo5T1hpZ204S2R3LXZqS3Y2al9qOVJ3d0lQaGhyTEZtRGFycHdmWVBSQUtJZE1iRHVsbmpNRDZldF9RQzNZekFVUFRkMzZxRG9CdlRLVDgtc1l4VmdTcjc1Y01RZElhdWlVb0VmWWxhZ0ZMdTdaR0xseUl5aTVsMEUzVDNPT0xDYzNXNW5YQdIBiwRBVV95cUxNUGdxckZ6bXVPbjk4cFRkQVRZc3k1MFRfR0R4Z1dFajBmQnNmalQza1hhdGVidEVJYTgwdUMtYnJ5RmRNWi1Eb3p1X0gwZ254WFZwRFpCQy11YzQ2NmZZY2NWSkVpSnA1SkNxOFRJby1FMFRBVlVGVm5qYTRxSGJSY2daQ1NPa1d6X29lQzBLNDZaYlNjNkdEY2ctb2hTNEhNbUh3LThtT2JRWTZvYXlIcDB6S1pFSkhNVWFvOG5KLWJpSzVCWWNkQ1dFdXZzMU9zcGRJclo0MWVXbEI4X1NWTWFBcnl0VVVTY2c0R1hvMFFIYUZGdGxNSjJtOUNZVE8wbEprOVktSTNfTmdRUE9rRlpCNkdfem9oX3M1T2pUTENxWDU5LWo3MWhIdll4VmxrLU5Gb3FfeF9qVGwybVNpb2tCTzh0UGlNZlhRSnNYRm1UbzA5aktJSGpJU0NfS3B1dkpxQ24wa3ZkTmYzWlFOTVZkbFVlMlpfc3dFYjZFLW12Ri1vbVJmWDQ3dEhiajVWTHdhNTUzRDlDQVJpUE5hQUZuNVRlaTh1TnpjQ0xhN2NWWDZ0MlpIWEQ0STFyYllNblloeEc3bmlCSmhmTTI5R3RWLVktYjNldjBBY2J0aVA5MnpoX2QxN0p1bE4zTDk0UE1ndEprQjNIRklFWmptMXVXYjd1MHlpdHpF?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 13:43:00 GMT",
-        "discovered": "2026-09-24T13:51:03.205665+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لوبيتيجي: ذهبنا السعودية للفوز بكأس الخليج وليس للتحضير لـ آسيا FilGoal",
-        "player": "",
-        "content_hash": "aa923acc833e28f4fb1d34d3fd055c1e8ffdd2732f1ec5bd887f947b83f411a9",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4811,
-        "title": "العراق يقترب من استضافة بطولة خليجي 28 رسميًا - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxORk1yZDZkbENKZ29fZ2E2U2FEV2tnVWNqLTI3Z3BxWUZUUFdBOGdDQVBfSkxXTnBfNkZZMGYwT1ZablA5bmQ0RG5VS3ZaeUd3TVJ3bFBLV2RVbmZobXBQWWhJOC02R0xBTzBKV3VGV0pIUUxOUmk1N1RKZHowTklCc1l0QV9Xa2RVZzcyY2pVNkpPZkFDZmswNTZXY2xPbDA2RU95VGZwcmpqckRKbldhQ1UwYm5KZ3hNQ2N4TVZYOTBZa3RLVnIxY0RGVFJTRUF4RHk4cXZtZno4WHExbWpzMGpfZHBTdkcyZzZCa21NU053T1VwQlEwRVRSRjVwUXl4SGx0Ny1MME5NTkpLRTVIZm9ZN3lsdUJjR3Z5MnFRZENnY2pGZ3JGTGJ1dWtKVGEwSVBfdmw4bG5JMXRRV0JtTm1YRms5RVhpVG1wUmtpcy0ybGs1eDlaUDRRSQ?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 13:36:52 GMT",
-        "discovered": "2026-09-24T13:51:03.722910+00:00",
-        "category": "الرياضة",
-        "status": "رسمي",
-        "summary": "العراق يقترب من استضافة بطولة خليجي 28 رسميًا 365Scores",
-        "player": "",
-        "content_hash": "0731accb85c73e098a9ea6d06395a90b8e199372fcd3282ee6f1f3e8d0db670e",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1732,6 +1732,22 @@
         "summary": "4 حكام من أوروبا ضمن 76 حكما لكأس آسيا 2027 FilGoal",
         "player": "",
         "content_hash": "85b1aaf47ec452d2a915412f3166781d2f4aa6fdaf359a178f7842bd513e1c9e",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4909,
+        "title": "ليست للنكهة فقط... 5 توابل ومُطيّبات تحتوي على البروتين أكثر مما تتوقع - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxNSE85WHpjQ3NmbDZXQXlQa0pnaTFNVE1jRFk4bE1XMVJ5R283Y3k1LWJCZUtveUgxZGg3UjYySUx6OUtWZHVDWENXS0twRjBPMUF1djFCWGlUaHlweEFTNjdodU43VGtKS3BPaXpERm1CLTNCVjU5d05TbHpDdUxHNmM4Q1pwZGxVUl9uVDAyeGphcFJqWG5Rakd5enZEMTFxeWdVZ2dlMXhFaksxVVUyb0RnLUFpSWhDOHZvMUZPdDI2NGlSTDRUUkkxTE9QbjhEc3dfb3NibHFUdmFyVW1GcnFFYkVHeDlTWGtObzREaEtrbHVXYVUyakxKdTN5ZFN5eGJFRTBXbGhGa0pFelhHaVZfc1g0OUM2QUN6elUtZEFwRkZXdUUzMm1IWFJzR3hZa3Y4cE1ncDdjWFQtTDQ0dEZUMVhfQnZ1a0lMSjU4M0pNM2RFMWZ0bGd3UXB5aEJqbUFRaV95ZzBFeVRYTzUzUFpXQTVodVh6cGk2RHpDQjF5ekYtbzRRaV9TdVE1cHB0bTN3akE4d2YwbU4zS0xQTFBMZFRNMzVHcXhpcUxnbnkwWEstMnNaX3hlZ0ZCUmhHNWNTZmYwMjBWQ1pKOXFCblY1UFdRUFE2TGp3azhmS3M2NUx6dmczQ3gyRTk0X181OG1ad3V0QlJEUnp5QVMzYlRJQUN3dk10TmRISXFCMEY4Y1NXU29hc0didzMwWEstbm44TUM5NHFPUQ?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 09:16:08 GMT",
+        "discovered": "2026-09-24T18:33:37.540811+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "ليست للنكهة فقط... 5 توابل ومُطيّبات تحتوي على البروتين أكثر مما تتوقع الشرق الأوسط",
+        "player": "",
+        "content_hash": "e6036910c895dd75c87cc31f4f78f9fcc5de55f9bf917e61b8d56a2db94f0a0e",
         "sent": 0,
         "section": "transfers"
       },
@@ -2228,22 +2244,6 @@
         "summary": "محادثات نيويورك تحيي مسار مفاوضات إيران.. وترمب يشيد بـ\"زخم كبير\" نحو إنهاء الحرب الشرق للأخبار",
         "player": "",
         "content_hash": "3664de3c6722713dd3439a2f3c532e461489e028ce637b67397bb8515cc10c69",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 4832,
-        "title": "غرينلاند.. توقيع اتفاق يطوي الخلافات ويكرّس الحضور الأمريكي في القطب الشمالي - France 24",
-        "url": "https://news.google.com/rss/articles/CBMihAVBVV95cUxNVGloRzN0ZFlscVNDSDlUNTE4RnVIRGtKdDIzUDJwR2hQMy1ueWxVYTdCSjVqdWdfaktLelA3cEtlS2I3N0UyakFvYmt0TXBaVE9BYnRtanoybmtMUE5ldUxLeFF1bXFLSE5GVEdneFh2aFozaldQTGZTdUxhV3dndGRWdGRKdmh5Vlk3MjlqZTdUQkJ3em9JeWhpVm1odGFsR2pTNkNYcXBqczJrRTVCM3pIZ3IweFV1VFJjbU5BMEExa0tOLU11WlBQZy1kM01ncFhTSDJBYkxLTERNT0laSlNFWWtJUzNDbmsyUjZDc0IxdkUzeU9rbG5WZWItc21VdmhGZmRrV2F6Z0U1N2phQUFlMDB2MnZiVTVaSWxEOXZYUE5TTXlrQzBzLUEzUnhyZllPZzNKNXhqamFCX0xjNEQ4MHZmT1p5ZS1heXZROWhJNkpac2JPbWNEQ00yUHE4Z1MwMXI1NnBIZmk4ZUpwaElMdHBwM1FKSHFram9zYWNGeTVHanlSQ09DSXpreTNPZkxhWGh5dGRqQ1VDbERNTnJrSF9jQ2YzU0VDQ2dzR0pTYXI5Rldrc1pua3RSVzF5dENLSHN1RHE0ZXdXczI3ZHlha0EtY2hEQV9ibW5uOFowYVV3LVRqQWR0TmFBbUNnVUhlcVRaRGdJT0ZMNDg4Uk9tQ05lbWFKZEQzWHFpR0xmNUdoR05pUURzc09KRGsxbHJfY2Rkb2draW5sZHpJSXhnN3laZ1lRUTdkN3ZhTG5wWlhPUmJ0SlBlRFltTllFMVRzXzFHbWJIZGpobXFranBnT1hXRFlSTi10UVVNVE1Nc0FtSXQ1WVFRdV9fTFV3Y1dLVg?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 08:39:53 GMT",
-        "discovered": "2026-09-24T15:01:52.419108+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "غرينلاند.. توقيع اتفاق يطوي الخلافات ويكرّس الحضور الأمريكي في القطب الشمالي France 24",
-        "player": "",
-        "content_hash": "b5167df68cf1c7f6a90919c1f9dcee344918095bf2ac6741d0fe3eab1379effa",
         "sent": 0,
         "section": "transfers"
       }
