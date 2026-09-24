@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-24T07:20:53.469530+00:00",
+  "updated": "2026-09-24T07:34:30.488693+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 4717,
+        "title": "احتفالات بمقر حزب الاستقلال وهكذا علق نزار بركة على نتائج الانتخابات التشريعية - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92Zmx2Qmw3TUJWdTFLdnZ4WHZ3VHJTV0lVVWRjN2JkeGc1dTZ0WmdqUlNwNjRfSVY3NE45RjN5WDBFTTNKQjBPS3B3b2d0OTVlMzlaaWt5ZUZzVTJveXZnRWFzcUJabG5M?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 05:15:44 GMT",
+        "discovered": "2026-09-24T07:34:06.827896+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "احتفالات بمقر حزب الاستقلال وهكذا علق نزار بركة على نتائج الانتخابات التشريعية Le 360 Arabe",
+        "player": "",
+        "content_hash": "256cc0bc197788d335cf3e4edffd4c2d7e159b4870bb155c4fa611272ea7e66a",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 4661,
         "title": "أكادير إداوتنان: البيجيدي يتصدر النتائج المؤقتة للانتخابات التشريعية بـ 14.900 صوتا – اليوم 24 - اليوم 24",
@@ -660,22 +676,6 @@
         "section": "morocco"
       },
       {
-        "id": 4221,
-        "title": "ديابوراما: حريق بغابة تافوغالت بطنجة - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zNXpGcmJQa1hGUi12ay12RmlBTzFpamxVN05xbS15b3RrbzNsSEFRSWhHQ3VZcHVBR2FuQnBCQkpibjBSLW03cFNvSU9FWXpnS0ttOGpjUk05MHgtRkJaRnp1QVRrb21u?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Tue, 22 Sep 2026 13:12:09 GMT",
-        "discovered": "2026-09-22T19:20:01.388034+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "ديابوراما: حريق بغابة تافوغالت بطنجة Le 360 Arabe",
-        "player": "",
-        "content_hash": "c5c2fccbd24c39e9af70a63077c6ee819eb0e42898ba383c0883f3730acad353",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 4410,
         "title": "شخصية افتراضية تدخل الحملات الانتخابية في المغرب لأول مرة - سكاي نيوز عربية",
         "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxNT3YwZHQxUW1QdVNqaXgzS3J5aW8tTHl1S2VlUzc4MjlBZkt2Z0tsM1JUQ0YzQkh3Rm9BRTJraGh4V3V6Mjh5OEs5SXhWLUdOc2xQY0VPeUJyS2taUHN3NFhhRzZsSU4wVnEwQkFxeXI4LV9WTE1EZThWSVBiVXRacXlUekp1RHpGczNGTTN4NXVrbTlPa1BNUkdQaE1RT1RsanB4aGRvY0d4YnB4MjRmZkczUXBjUE50SzlyQ0VYaGdiSFJZa2l5dmljTXhYWWh5VjBWZWdNZEJqVVpnZm9OVEs3bXBhb09sYUVQVjM0UWZvRkV6MWFWbzVueV9TU1Q0YWo2TGlSUmlVbFlmUjBSSXVuaVdQMWlJU05lbTQwbkl0X1RNbzF2dzZkdGFUYzVaWVBXYnhzRnNyWVRaSGEyRjB2LUJTQVFZa1NqdXY4S1VrTjNrU2FfdzZLTXBFdVNJS2x3UEM0bThGb3NwdGY0cGhQbU1RYjEyYXNOOGJHOG9zMmt4VlU0NzR3djY2cUdaODdxNDF6bDFtaVhlWEN4OFp4aXpqaGE5WkQzcEhYR1Nadi10QjZoMHFQZ01XaXlBWUFUei1YU3VvQnZCa3hPWm1qbENxLXJC0gHeA0FVX3lxTFBxZ3FWbkZsRktINGlTMlRGOG84QkZ4amlmaDNhQlQ5WmxGZWxFUmJXY0dTWlZRdkhlRHdmQk84UlhaamEtYjg4Z2F2U2V6cjZMVGZuSVBER1VpcFk4eFV4X3VJbUJrdW5KS1ZfalREZ1FNbG9PaDlFY1hxYnMxa0FkRnJ3R0JfWnl3WWFVeE9jRVhaZGFwSEdNbUc5cDVqSHZmR3hvYmsxZmVyR2RMY1htR0VrVmVUNG5GcHF5dlltb0h2ZHN1OU5iN25FZVNBSDRyaDByZHFUazNETmM4dmJaUExqV1BsM0hjVWJ6ZUYydExzYURqVzJnNHBoSWRvT1ZiNkwxZkVlcjlSM3Rkc0ctd25RM0V3azFMRldnX3RGWW55ck5DWWtKZ0ZMZkVtMjg1d0RzamtZRy1PTGhwMDlPMExId29mX3F4ajM2WFkybmpDWUZQS2RMYnc3OS1EZkJOV0pQTDJCTGE2dDlmNWl6TTBscHlkNk1Jcy13Q25PTDBnNjhXLVBTXy1tM052Z2NIMWVqcVpFUjU0M3h6ai04UG54bVJ0bWJPMHF0eDB6ZURxSkhKVlZoOXJQb1BHVjhzUFUtZHJHb00zUWFfYzB0RlBSdmVEVTdnc0k2bVE?oc=5",
@@ -706,25 +706,25 @@
         "content_hash": "b7398fc977a3cf235ee8e185cf81d3a3827c023c3b9a327a8ed6755951a3c7bb",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 4314,
-        "title": "الرأس الأخضر تجدد تأكيد دعمها لمغربية الصحراء وللمخطط المغربي للحكم الذاتي باعتباره الحل الوحيد - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoRGZFczB1U0VQZlVuRUlNRmJFeWhNZHRWXzZyZXF4Y0RtRVI2d0hTZzY5eVphNVVvZzlCV2ZHdWNDdEx4RTJjZUJfdHl5UnVQcTk1SGRxb1hHeXhLeTVfUUpXT0lMR0xY?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Mon, 21 Sep 2026 22:46:22 GMT",
-        "discovered": "2026-09-23T02:56:44.656213+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الرأس الأخضر تجدد تأكيد دعمها لمغربية الصحراء وللمخطط المغربي للحكم الذاتي باعتباره الحل الوحيد Le 360 Arabe",
-        "player": "",
-        "content_hash": "b9ecc6554d682de38514b1eedccff95433ecf4933dc176b351ffa3475a8b9bca",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 4722,
+        "title": "خروج كوناتي من معسكر منتخب فرنسا.. واستدعاء يورو لتعويضه - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxPRm9WUEVob3JHUmxoRmtwZjNLSFN2LVFBNFpycWhqYWlCeXlxdkhDeXR0YkcyWHB3T0lWWHdRNlhodGR1S3B2dnh5VW5Ba3diaU8xTXBzUi0wVzVpUUxfRHB0UEhQY2ZjaXNEUnpsNExBZkNaYnN5SzRlYUlhYTN6Yk1lV3RvNUU2UjA1UGhBbVRqaHVlbFN6eDBQTUJ1eHFUdFdYTnZWTmstdjU1NG1uWm1nUzRHN2N4U1dnWHJ0VXduc0dJUWhuaXJBeVFOVmpORTZwU3pKbERJR3VyQ0V0cEtLSDZpQlYzazZtZ0dwYldRMHZ4U0ZlaVY5b0FvY2oyTmJ5UF9fSGluVlF2ZkljTlNESl8zQUJfQXJsd0xSNjJQaC1NTG54MHhJckV5SEhVWFlGQlpQQ1hrSm12NjhLM2xPZHVNOFE3cDdYVTIwVE1FcXBGY1hMTWo4V09MZWlOZ052b2JUVFJnaFVpZUNlNE5hR3lTYTJydFNMODQwd1lQcE0wamY1TlduNU9GNUkyRERXd1EtSlNZRWliMmtLU3QxZklQZlV2bFZpenc4Z1kycFFDUDc1d3EwNnFDVXlMVkhsWHJfSjdYNW9jQzZMMUQyLU5sYW1vNEhINDhHRTJoWURwX1UyV08wd9IB8ANBVV95cUxNOHFyanBnT0J5ejM0YURuOC1xSGJpaVFScmt4ZjVNUkIwTk5US2FNN1RKNjg5TXF4d05xd1l2QUFKT3M2WUswaU9waWdKazhSN25UNEVmcDdrMFpyRUk3REFJcUpydGlLbEZybmNoX1V4Nm1QUW5XS1A5UlY2T2Y1YzJLQnZ0eVh0ZEVwUTNyUWozOENvMkIwQnloQVhXdTRfVEpYai0tcHdYQlBtRjRSQnBQLXlLbndGMm9wUGJlS2EtX3hrblBSR0hjX3ZVR1FSSHp4dXY4NU0zelQtNVZpUWJjVDBHVUlNOGdHMUJWV1BmYk4zdkxKWVo5MXdMYlVhc1NadXN6QkFTM0Y0S3V0SU5ndF9BTmhYRloxS0JjV0pqeHdDZXBxSVVxSnpoV2FQQmxXQXY5dlhtV2dDczM0UkZ1bDNZMlRiOGt6SGJsQ0k3ZEJlSHJMSldiZFZmcXhpd29mUmxxRE41MmZBR0MtMGRvalUzc0JBZkMtUnJDQ0x2Y283SV9wV3F6dmJwQS1IMmhWUFNxbGNtQVRBMXVEdDVTVV8zakNBaGZwTGVPODlzbURDV1cwSGNqeFM4M1BNTS0zdnFzODhOQm5ETERISWlERU1TZ3VWLTdOckJsN29rRzBHemJSTC1LdTYxXzYy?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 07:21:00 GMT",
+        "discovered": "2026-09-24T07:34:16.520114+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "خروج كوناتي من معسكر منتخب فرنسا.. واستدعاء يورو لتعويضه يلاكورة",
+        "player": "",
+        "content_hash": "43f456c8007c1d68d46aa66934253f6a92f400fda1e6b5240aaa64e5efe64096",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4716,
         "title": "تونس والكاميرون إلى بطولة العالم للكرة الطائرة.. وصراع عربي على البطاقة الأخيرة - يلاكورة",
@@ -1508,25 +1508,25 @@
         "content_hash": "a3e2163249da9e8a98a46d9a1cd54635fc0b679b022b8a77577b1d1d3b8ebaad",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4562,
-        "title": "عقوبة مضاعفة.. هل يفقد مصعب الجوير رقم رونالدو في المنتخب السعودي؟ - kooora.com",
-        "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxNSFVQQ0VleHotMVJuU1pTR3hqSEhBdmJJdWdtbm1ZV2Y2cGh0eU1qc0ZlRlZJRk9JUFNwUEF4ckxvcXNFQ1lUcEtocE9HZkpWazZldm9ULWl6REg0c1JsSUlXOW5hbnlBOF95TFZaTkoxWWo1WU5hUVBBb0NFVnY5Z29IZ1Fwb2pCNDgwY0Z5ZWVsODB0Tkt5cDc2UC15MzVyY1NGQjZ2ZzMwcXFMSVNVNG9VUTFiN1FmQXVNRFRBd2Q0QmJsQXgxelVfaTJMU0lrQ1JHa2tiUGJuQTJNZno5bUlqd3cyRTNwOW5EZHhabVd2R0ZuZkExbTBjQkNVdkVuQW1mOTAwV3JtY3lPRm1nSnJuUDJtS2VMZ2xzV0h5LWNxNW5SdVB3dUFBRTZYbWx2NnExaGZjdXRxTHN5RUozeGNkbzVHUWxjMFF0QVNkTEViS3BLaEd4VWZWY3dLVzdxTXpEZVpNZWxzUzdSdG91ZGNzWWlnZjNYVi1HT1ZRczMtTElhaGNEOFc0czhwWVo5eFpDbnFPNmVBT1FWdDlHUGwxcExnZTVfUVRJN1VCd2lwbXVpeEpKa0VONVdoSlRtOVZrdm9NT1JWOWFwMEs5NEdoUWlYY2Jac2h0TkxVb1djNUZFeGdtRXUyZ1YzNlB1N1ladmRxMlpQNjRqdlRjQ0VGVEtzUTZrV2FKbWZFMWVsWFJhWkllVEVzcERqZTBXN3dTODI3eTBWS0g4TWRhYThudFlrdV9Xbmh4bWFLY3EyenZOVnN0SkM1Znlsck5WMEc0U1VsTDlIN3RNeVp4aVk4VHBMdXdo?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 18:38:18 GMT",
-        "discovered": "2026-09-23T18:40:42.413266+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "عقوبة مضاعفة.. هل يفقد مصعب الجوير رقم رونالدو في المنتخب السعودي؟ kooora.com",
-        "player": "",
-        "content_hash": "4bdcca080e8091d19a3f9cd0e969c9b14e6f3fd4e05cb4e2b8845929cee0b92e",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 4721,
+        "title": "هاري كين يرغب في ممارسة كرة القدم الأميركية بعد اعتزاله - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNYk83dWVvN3dydG4yQm9Zbk15OU5wOE5nTGl0cUFsdFEtWGJReXhBMnEwS1Z1NmRjalhlUHpBWGZoUU9LM0c1REpDYWJsMVNkb2tWY1liT05aalJFTURUblBSdmhqYzNEWVZRZkNCWmFkV1c1VFltZXdRSUZ5bUZNWWVQcHdEZjVXb05RTW8yRFpNRlJqX2NLZEp0QTlCdXFzdUFyVzlqSjVHcG5aRUZzYldFR29LcHpfbVNvNVJKcHIzRjgwYVpCbTY0WEdCSGh6cjlfeEdYQVluUDRuV091MEQ3bVZmOVVqcVZZR3MwT3RnbU1vd0xrVUxiWWk3clQ5MFZudWJjRXRxX2xnZkZmdEFpYlV1dkN2Qm00d1k1SHRlN3NERWVMeEhjeUdaTlFzNjE0elBxa19Qb0ZELW9HUE03RmFBMGVsQ3ZRendOOEZJRFh0cDd4eFdNbVBaN0ltYjlNSG1feTdYaGdTNnlEQ1M3MmxsQ2I5NmtQU0RkXzVsejRWb1Btd1FXNFJoMmZlYWY2bjMtSkJ1XzQ3Z00yQ0FxVE1DdXdPdXhtQVV2aTBVcDJKQ0s2U2xWbmUtRjJKV2VkRURxUm9TcU1CTWcway1R?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 07:01:35 GMT",
+        "discovered": "2026-09-24T07:34:14.415281+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "اهتمام",
+        "summary": "هاري كين يرغب في ممارسة كرة القدم الأميركية بعد اعتزاله الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "ecc8cf45e380f4f9a1b78157bb9f778c77be3293ca98fda669878429ed97a271",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 4618,
         "title": "تسليع الاستمرارية المتخيّلة... من يملك حضورنا الرقمي بعد الرحيل؟ - العربي الجديد",
