@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T12:35:58.458993+00:00",
+  "updated": "2026-09-24T12:53:19.042123+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -806,6 +806,38 @@
     ],
     "sports": [
       {
+        "id": 4793,
+        "title": "من الكرة الذهبية إلى مقاعد المنتخبات.. هل يكسر زيدان قاعدة بكنباور؟ - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxOdDBxMVdpeW91bG45a1p4eFpsWnNmdU4tRDE5TVhTX1lRaFJqYVpIYlNOWklOcjhPbjlhSzVpSXNrNFJqVmpPS0syVEk1bl83M0VLVnBOSWoxR0NBd29rLUd3bFd0MFJQYzRWTnp1enpEN0RFN3ZNNVFTc0xTSGkzX0FXbGVVUUFkcnVia1FSbG9HeDVPZ25RTGF1eEFZUkY5ZVhBNGxta2JtOS13bUpkcU9XbG1LQy1jT0gzQTZaWnRib1RHd1lhNFlnU1NsTXFoVUhmR05EUFlmMjc2THV6SzlrRm9aRWkxM0djU0RicXc0eE5hVWx2X0RQeHEzdXZtNWhUV3pmbFg2dC0zMW5vblNXcXpnUEdJOW9NY21mN1ZXa2gyOGRjWlBhdV95WHJpeXRUWEt6STc3NVhzVlNlbURjOFRhelRnczJValJOdzRsZHhKQ3ZtQ2JTbUFGbUU5UkhKV056QW5XMTlXZGJEZE9qcDFFVkFwRlJWeTJHaXVRRjBseXBGRnlsRmwxZUtWNi1aXzBNdE5FTnVPdy1zU2xfdk1mdU9SajhvUzlaZ2p3eVZBTEJoOFo5ZlZFa1JnYkZJTHNVNm1SVWdTN2h0WndyTVhUb1dEb0lsZ2lCQnZ0UUp1bDk0U3VtR0VxckZRVk0xLV9CYTdkYzZuWDhYb1hwZl9OT01LVE5GVFhGUXE4T3gwekVOSmE0aG0tZlQ0eEZndXIzTHl1ejhkWUR30gG0BEFVX3lxTE91VEl1UGVKQ2todEVCOG5uaTh1ZnhUWnREZUlUMF9XeTN5eVgydC11enpoODJpQXBiWmNKd1IyQnJBblRMN0ZPNm1xOW5CU3Bnd3VzUUtyN3o4YlBZUnJjOGJvdlN6d0RqNjRRZ0NCbU1xbGp1QTBFWmh2SjJXTlRhalVVeE9fYmV1YTJMZEZLcEphRUw3WjRwVV82UXNNVjBod2ZZN3FnWlRsRGJhSlEzaUJaRFYtVWp0anRGV253U1dqVFNoSDhkbWxhQTAxQUdsQWxkaXlWWFk0WndhdzV2bWlwNDRfY29ZS2tMS2IySlpXZWVGMHlZcExGNnZwSUxtT3dmSW1OOE53YTl4R2I1OTBqOEhfX0FjOFdtODhyenJOVUJTZm1nNW9kSXlRaXhHYjM0MEhXa1RvMnZNWmhYZmNUWW5ZS2tCMUJIUjd4dF9qd1dVUXFhcXBiNWlwRUQ5NlZ3RUNrZTJuVTVSOXFRU0o1VGdzQUR6VFBDd1A0aUpyZy03WXlUeUg0NWJKTzJyRmFfTTcyZjF3aTYtLUg1V3daTFRQUi0tWE9wOUhienZFQ3llc18yWTNFZmtsM2JSdlBfOVhxZ2J2aHFPUzRBYUtFU1lwYzRWZzRVeUlqLUpRTVJTZlFDdzVKNkJLZnBuYmIzN1R2STk4bnphVk10cXVNb2ltSnpYRndOY25icWdDa2t1TDY3UXU5TGFwQ2JDTGxreE5vWVNsSHE0TFg0TTVrSw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 12:46:00 GMT",
+        "discovered": "2026-09-24T12:53:04.084038+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "من الكرة الذهبية إلى مقاعد المنتخبات.. هل يكسر زيدان قاعدة بكنباور؟",
+        "player": "",
+        "content_hash": "a955043a12b01182445484f9346cc9169a66f437d00fcdef98e7e2fa6486dc08",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4794,
+        "title": "مونتيلا: زيدان يمتلك كاريزما كبيرة.. واللاعبون يعرفون أن ما يقوله صحيح - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45SmRKREhIVDZWX2laZ3ZMNmJNSGRRMDZRZGJSUUJjRmNsY0JpTHgzU2IwVDBQNDQ4SjBpNWJZVHVBdHI3TE56bVEySW11UzE40gGsBEFVX3lxTE9NUUVxc1lWb0thUGtEdTJvWW81VGlZOHBaVmpiWDgzdmhuc09fdG1WN2t4bmxBc3FneThuQzVRb1MweFRVMzBLdFNFTk1KYmZfeGtNRW9MS3lIeFpQaTJfSzhUZ1VZMjFoamZNY24xMHN5dU9zREw1SldVN0MySFZ5eXRjRElWeUpvbXVUR3dSc0h5eEEyNjNtdG1MYkxNYnhpcXpxX2QxQ0NkZmxXZTgtWDBUaENlaGRHRDJjYVFyaXNKZE9QclZVVlNuTnAyTVBaem1hYm03SC1rWlFTT3JxZFV6RzYxS1l1UlZLdEthQVZLUFh0bTc5TlUxOHIyY2kzdmM3amtIMHZnaUNfN1dtYnM3QXV4dUxSTkNTN2laZ0JOMDVmVnVMem5UeTVwUXp2eUFsWnd1bXhxWGJuY1kxdGUyT3F0Mm5lYmZ1aGVDeVEtMWhJcW1STlpvRV9wa1lsbXR3XzkzWlRueTM3M3kxSEQ3NzV3M3U5RzdEcXNtQUI1VzB2b2Z1UHVLNmM2XzFsYTJSMExoRUdJYlNveVRyX2gwRjhLRTM1eXlBR0FZTjZOeE5MVUxFamxOMTZsTzg1UUNPUHFLdDA1QWE3MjR3SlRBdzZlMUE5NDlZT3Z1ZHNScEZmcjZuWm4zQ3pVWFBxZUdqUHh1bEVHakhFWndzOG0wQlNoaGE0OU5OQTAycjA2UWxTSjRJejBNTDAxZVE3c25jUlRzeTJSMEk?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 12:39:49 GMT",
+        "discovered": "2026-09-24T12:53:04.705150+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مونتيلا: زيدان يمتلك كاريزما كبيرة.. واللاعبون يعرفون أن ما يقوله صحيح FilGoal",
+        "player": "",
+        "content_hash": "e4ad413408034191fe7fa08f5347dda5cdd0b9313857f251929cbf207a37b418",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4785,
         "title": "الدباغ يسجل في تعادل فلسطين الودي أمام نيوزيلندا - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNcVBtWWJkUkhqMUxwWEIxUTZQU3pqRWRJMUR3Z3lZMHJ4ZWUyOUxJUDlpQlNyQWVUXzFQaU5yNWNEZk5lblAtejluenRXaW5kZ2JLbVJfak1tOVBSVi14cS1iVDVrTGp6LUI0OWtGZWJWZ0hTX09DMkRKQ3BLcEVPSVRfTnVNREpTUmdqRmF1bXBacVlqTmNLVTIyVVN6cms0cmhyXzhwaHV1RTBveUxRWnFka25RY29Gd2RwQlFyQ3VObUVkVFM4a0l3Vk5Wd2NnT09NaWlaSG40YmtDV1NHMThRZUJMVlZfLWdlVWRwV29sTDdNSzQ0YjZQR013MmhOVFRoZTBJcWNKRWhDVmJDTDZEaW9oOXZCbGVQWTFVNXVTcFNTMmpuNnlxQjJMbnFaR3JIR1pIWDlxamIxWnZwS00yRDNkZ2M4RDNEYnU2bk02S2JRTThkYVpuS2tYRjFvcjVvR2lQNUxyN0QyMDhxc19neG1qTHhIZW02b0JrUE1BdFA1MFFrYXRxOFVRZU5NWEN4Q01FdkF0clNJNVpScVBSa9IBqANBVV95cUxQbUd6NW45VWJZeTVWRzBYc1dkOUg5dy1Fa2xhWFh6enJtSlpUOXdaekpXMXlxeG1xYnJHRTFfUHU5R3FKclg0Z2dnbzByOUoyS3RNU3EtdFE2bWwwZk1HUE15ZXc0cTh3NnA2b0hVNW43SDNLam1MVUowRzY2UGpYcWZKd1R4STdYb25UZ2FWX3Bld2JQQXZYNVJLOW5BVjVqeFQ2OEhqaTdjZ1NsQVdUdnJOWlZRWnJRN3o3ZjhhdmROQmpxaUZDem52RDhZb1FDTE1qVDYyMG8wdVd2S1JCWGQ5SFVUZ0lZNDlhWHRncWZZZXRPUlcxOFhfdjFGd01oMHM0YVB2ODROWE02VFo1WjZYcjc1c0VzS2lZb1lzTGM5bDNDTGgwLTgtRGJNU3J0RVc5Z2lyU0Z4S3RTUFFnR0NYeFZyQ0U5c3I3TUN6b00zWGZScUs1QlJMRTN1aXk2RG1uQmtIOXRpMzlBbXdMS0ZScEFidkF4a2tJdEtvMmF3bDY1YVZua3NJRHZHY3h1dGZMLXBObkFCRGFqekt4Ri15LTRPeHJY?oc=5",
@@ -1014,6 +1046,22 @@
         "section": "sports"
       },
       {
+        "id": 4791,
+        "title": "كوكوريا يكشف معاناته مع ثلاثي ريال مدريد: يسبقونني دائماً - sports.asharq.com",
+        "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxOOFJmVzN4VWs5S2JqRmtPd2kyR2Q4Ni1YanpxUlpNelhJNHBsMTBhV2JFVGxHbFJjVWFjSFZlaGg2QTF5UHNZS1hrMFR6TEQ3RUdkYjUxaGNpS1dFTUFQRjZVUjVWMEhQTHRWRHIzVGdHdS1Fel9iWlVaVXd2dHMxN0VTMVF4aGhYUFZNMkg5cm5RQWtCTy0xYUo4NERwT1diTHlhX2FyRlU3WExiWnZoLUlpSmc0TXNzUjNRbWp2dDVBZ2R5eHZpNzNHYnY5UXFYLUdnMnVRbDRiR0l4eHVIS1M1LWdzRDNXc3FUQnBuU3FfRThhdFRmbVg4aDRHbUF5U3lubzJ0MWNQR1NkSnF3cXpnT08yaGRMMFhjYzcyUE5GM2JGdzlleFVBT0JQSjV6Z0dFQkJGb0d4UFZuVnBweHIwSi1rVVhYN2QzVU9Zc2xMSzFfczVIb3NOTktBbEdBMjNrTS1mQ0MyTllFLW9ud3R1UUFWb3dGTTNYUUVPUjZhVUM2QjRwTmVqbFpqZkpIYnpzMjVVNkxidTUxUE1jWVBrb1ZXb0hQRTVkbmhXamFoVFVQTGR6amJjNmhqeTFEQlZMeXlmWVV0UE9YbXJuNTduLXNJbDE2eU5vTlh3?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 10:20:34 GMT",
+        "discovered": "2026-09-24T12:53:01.556932+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كوكوريا يكشف معاناته مع ثلاثي ريال مدريد: يسبقونني دائماً sports.asharq.com",
+        "player": "",
+        "content_hash": "6f2bfba9a3c6fbd204c43b0906d1788a65a6b7f632f140dabd839e49af4958d3",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4751,
         "title": "أكثر من نصف أهداف طرابزون.. صلاح يلاحق الأرقام القياسية في الدوري التركي - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxQZFp1dE0wYmNBNGwzSmo5TGY2NGt0SzJBUS01NzZBY0R0NURuMFZLLVRaOGstejJGaVZoUTdJZWt6VjlTNlBFemFVOUJmNUVYdEk2Ui1jTHdHaGlYdmY0bmMzbExIdExmakwtMUpvRWwwaGtGSFBISEJhN3Y3UUlTOVZDelhYOU1hUldYSG9BUm5Fd0VlUWl3VEFWN1EzZk1YWk9DSHpXN05rWVc5MnQzR08xbnpvMmZkV2xjblhFRkpyQnAxY2dUaDlEY1I3cm5tNFYtZGU4a1RQc2h1X3EzNGlpWTRCUG9GTjl1dF9pYWRpZ2VTZ1Z0Q2ZmTmpOM3lBYzZaSFA1ZlQ4aEpwTWQ4TXJGRnluMDFMcF9fczZGTGI5aGZwcjFkOC10WENhcTh5WnlONm1IQlZrMkNBYTBIbExVdk15SjZsMUVHNEdJWWtRMzRTVlJaYkFrWWZrTklGdGxKSVY4YmFwcXVHU1BLQ3Yza0M0UDlBSXQ4Ulc5SkRXc2dHZ0VEblY3ZjZEQWYtSUZlSTVmdXhxd2xZemNJNWZ5S0pTRnFxUXI2VFlvQkg4V2pwMUNuVTZFak9UTHNXbUt1UV9HM2dCTUZjMGJWOFhOVk9MeUNqLXJkOVN0V2R2SmRRWURXNkl5VkdWdFdjM3Zfc1Z6Tkw1MUNDY0x4dEZXSUpVOE1weUlXWHRKdWh6U1FoRENHWHVGcXVBR05JdU5XbXBwOHJYdlBNZGxXVllrRUFTdG40ZTdLaERUa050U2prZmxfbTNrQUpiMDNpM2xuNtIB2gRBVV95cUxNSWRKVURaOENzNVJTUHhKYXZxdzgwNXNTRHk1XzhrVlFYLVNhdFNnNVNoREJfSlVkZzRiRDE4Uml3SkVxUEZCVGM1MFEwS0h0NXVpRzhONGZwUC1ZYWpRNkhTb3hob0xRb0xwbEpBZ3NsX3pTcmtXWFBVZXlxYXhwWkI2R0g4MVg3UjY4aGFvdnpzNU1ZdHgyd1BDbklTanUtbVV4SEpDWnhfMTlNVEg0SHh0cE9jM21zSzRvNWVZZmFabzgtWFFWVWtobVhBTUhzakxrRGlzeUp1aXY1cjZQUEtMNzdBdXdwWVBfb2UwdURBUDJKZG1wZU81TTFqTXB4OTNZcFdCUURld0NuRjlMaTRDVUxTSDd2eEpwa0F4bXZDS2tFeFA4SERxOERPY3hWRFNkNVduS1BKYm9ZazF6QTdITTNuX3B6ZWZrcE9ZcnBhUkNGRV9UYTBnTE91Q1JBbk1NOGZGZ3k4WUtLbzVEVUhubzVpbnNzUmZrMTNnUXJZNDVoOEpGTjVWZFkxdEE1UF9lcW1tZ0dRU3poTE85OUJZWFhqb1RvdEV2cVJaRFpCOWd4RnlrT0RpV3dOSkQzTWV6THNaOFVjc0xNa0R0Vks4Q2Y0TThxNncyVzdtTEpYMXM4OWFiQWVkZnBVS2kycVJMSjVrWDF0RThoSUd2ZVBhYmQxRDZDS3VZSjRDbHROcHRaajF0dVVYdENzWGpFNWE3YlhtR0J2STQxZU5RUlM3T0gySVowbDN5N2JYdWVEeEpfdy1sWTV1MHpuVmI5NHJSOFAzTzk0Zw?oc=5",
@@ -1106,6 +1154,22 @@
         "summary": "فيديو: أشرف بن شرقي يختار أفضل لاعب في تاريخ المغرب Kooora",
         "player": "",
         "content_hash": "74b40eea6c2211a5e1f2c60f42d4c847e3200aa059c575157b4020930a41ff3d",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4792,
+        "title": "ديمبيلي يفاجئ مبابي.. \"حرق شبكية العين\" يشعل معركة الكرة الذهبية - sports.asharq.com",
+        "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxPeVZuWjZ6eUExTUpLZDNna0RwalloN296TnZPaTZDbUJRRjBDc004V0s3TG9ac2NxM0pUbHlnaFJ3Z3BpQkhxMjc4UGZ6Uk1ZcE95ZHFDekFkeXRjX0lXV3RQeUxkdk5CV2lPVUlDSEhIY0FvY1ozRGJqeUZocHA2aG0tX3ZUMVczREFmU3FGa2lsU0dCZGZ0dnl6N1k1V2hjRV83N2JqdkRSeTJvb2JfZnpEUERtVGJDbFRYUmkteVFrYzVrem9ndFNTTzZ1dXBNV2loWHU4MDNpT3JtSnlBV0lYOUM3SUlFWWxWRWJac3c1SVBka2VJZWxsTmpHQ2pJbnVkQkRiclN3RDM2VHRRNzMxZTJDdjJ6UE1IUlNMUDlsUEE3U09zVTNTa2QxQ25FMjJTb19OTEFyMTI2N3kteldST3dqUHQweWR0Uy1EWnkwVXFQVVF6UXRQbUVPXzd3dkZQSjNBQnhmZHNPd0V5TmdpeWhGWUFJc0VyMlZJYk9MSGppdzI1R0pvLTRaV18wbWFYVWdjcEZWbVNlSVZKWWJlUDhoRGx0T2Q5Wm5wbW5yTVNFdjFNMVFWdWVtTF9HLUR5S0twU1g3V0daeXpVX01CMXF4czltSFl1dHA2MGR2aERBY1J5X01WWlhOTnZOT1M4QUd5UHcwWW1HVjVF?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 08:21:09 GMT",
+        "discovered": "2026-09-24T12:53:01.567236+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ديمبيلي يفاجئ مبابي.. \"حرق شبكية العين\" يشعل معركة الكرة الذهبية sports.asharq.com",
+        "player": "",
+        "content_hash": "c6269a5575016253349910d6b64ab1d45dd019dda3cf220df61ab64034fddd69",
         "sent": 0,
         "section": "sports"
       },
@@ -1538,70 +1602,6 @@
         "summary": "جدول مباريات اليوم - 24 سبتمبر 2026 - بطولة كأس الأمم الإفريقية FilGoal",
         "player": "",
         "content_hash": "841f4b0aa2ed9b3ace2e852e734a9c6bf0a2c4ccb18f11872cdd07d3c3814c29",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4780,
-        "title": "جدة تخطف الأنظار بحفل افتتاح «خليجي 27» - جريدة الرياض",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBKekJ3R0laelptdF93Z2tXZGpWREhhM2tTLUlRVGhhdldvcXlCMVNVb1pab0pJcGoyLUNCU3M3N2FXTzU5Wkpv?oc=5",
-        "source": "العربية رياضة",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 22:36:08 GMT",
-        "discovered": "2026-09-24T12:14:07.189517+00:00",
-        "category": "أخبار",
-        "status": "غير واضح",
-        "summary": "جدة تخطف الأنظار بحفل افتتاح «خليجي 27» جريدة الرياض",
-        "player": "رياض",
-        "content_hash": "3d41d4e1d6362e7dbaca9bc5b0693c97b8186669bb0779992f217c33eda9e997",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4619,
-        "title": "بالفيديو: نشأت أكرم: السعودية لا تستحق الفوز على الكويت - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxNU1NycDRlSFdtMS1sS1Nsa1dnWHNOUGZMM2lDTEJJdVR6S0J3ekZFYmlJUWt3M0pmSUE5RzVDbVBwWEh5eG5DRjZ1ekVsT1ZuLTV3ZWxaYmlqajNidWQ4TkJDOWxMcDBkelB2eGp3QW1wc0J4bXlNSjRxOW5yUWgxUzFvOFludklPa2oyRTYzOXNkOGZrR2tWbGtSb3ltSFFUazlwQ084S2ExV0VIX3BKaWdVQ21DZnNFTTl3WUNpbi1NdnlLS2F1MkNKdms1dXJ3cG9OQWhBcUNZUmtINHNNTHJmV29jcW9BaUxFdEthLVF0RWlTMTRTZkwxalFiQUN4eW11TXZXdlQ2bmUwOFNiNkhEbDVXaWtqMV9HUVBxNTNZQ18wcXFZV2pQS0l4UzNoS2NCWnJXeEo1RHBqSE5DNGZuMVFFdnY5NG9UV3kzS3VJOFlLdzlGcG41bTh4RlBibjhUbFpPSGdZMkFUTndDcGJ1NzRlUkIycU01LVVMTzNqZ052NC1BUmQtYlI4VFFCVTdyTE5ObzFVSXNtLXRxZm1qTXJ2OVpjOXFVRFIxWkdWazVjLXRjVWFkSUlBdDMzclZSM0RMdjhKblVtdU5peDBMdHp1MkFHbGtDRFZLOHBCeXpqSDVYMkRQeHY0c2R4VmppUjBzcFFpbFNhUWZ0WDd5RDRpWGpIMlVpZzlYYXpnWkVhTXFsa3hfNG80bzFNcDA2YzdkbFRjRjdVakxkZlpvUWE?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 22:11:52 GMT",
-        "discovered": "2026-09-23T22:21:25.838020+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بالفيديو: نشأت أكرم: السعودية لا تستحق الفوز على الكويت Kooora",
-        "player": "",
-        "content_hash": "dbf518100f043ecc48edabb72c0e5a7fdadf8e7cafb7fe30717a04ffaebc5a98",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4703,
-        "title": "الأخضر... فوز سادس على الكويت «خليجيا» - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOWTI0U0NZOFFpX1VCTEViQ0tFLW5MNXlVMFNVRS1fdm9pd2JERDZxZEozeE16WVN0VGRyS2txaGFwenlWcjJMRWdjQkhjeTRZUXhQc2JrRjh5NmxtUGxKcURvRUdCVG1qRC1pU2txcGl2Tlp0SXFQVHA2X0pYT2E5Ulp6VkFqSjFHSC13Tzdyd2htNUpsR1NZdm1uRGNmVzdWTm5BZmRnMnJVUFluakdYRjNpWmpPaVFLZ1p6enh2ZmRtdzB6MTZjS29WSHdqWTlJenY2TnM3VnBTQWRBVlpXRDFpNGFHVEZRcUFfWEYwU3Z1Mk5Wc0hFcUNUMVFzTXA0SEhZTHdXQ1FoQVFDdkxYRHJPVlJwb25iV3JIYWI1NFUwSF9PNEFYcEwxYTRkM3ZCa2FrZy1Wemk3eUdfWEE3NFpMT0JlaTZ2Rm5fbHVtS1dIWV80dmozdm5oQ2tYRTZfbDJSS3hTTFcyU1RrY253cEhTZVdYZkljTHhUdFlIU2hiTDcwdks2TTl6Mlg1ZldTRVZpNmMzNkdGN0pMTjY0aTYtbmo5anpZVDlkbHdCUE1iUms?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 21:58:49 GMT",
-        "discovered": "2026-09-24T05:20:21.932678+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فوز سادس على الكويت «خليجيا» الشرق الأوسط",
-        "player": "",
-        "content_hash": "e0ec9407d301268cb5b71cf5c378198282e19ffedfb0e31ad905a1cbf0d51fb5",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4648,
-        "title": "دونيس: لا نريد 22 فرصة وهدفاً واحداً وعلينا اختيار القرارات الصحيحة - الشرق رياضة",
-        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOT0Rpb3B0SmFIaFlnY3I4a1d3QzhRbEYxRHNaM1V0d1dqSU9jSmFBOTMtU0t5ck9VZ1EwZWNTaWVpNzRleElRZ2RtbUhFZlo1TnhNNmE5cVUyVDZXUjN6T3FFVVpaVjh4RWNVSjhSR2N5dENwM1RxM1VNRTZqcmJ0X2hQNk9HLVk0UnBIMlJPQU8taUU4VHVXcTY5Y2l5Q0p6aU05S1d0Uk5vQ0dDUGUyakc0cTEtN203NEJuejJoaXpSbFpMTnJFaU9OTDVCWDFQcWp5ZFdVVVRkTTBZU3JmNFB2LXNPNFdEYUxLSzdmZkV4d1lqR0J6WW1qVl80QTBNXzNHQ3doekpNaFpqaUQ3SXpfZE9fRV9qYk9QZ3JzWG81UVZMZnhNRHlNa1N0MFV5WnRVUUtYbmQzbW9LVkZiaFVSVFhFTVgxdERTUzZjVVpZT0VEOGtpaWg0dnh1QWhxSlpQeExIRXVWdw?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 21:42:53 GMT",
-        "discovered": "2026-09-24T00:52:39.629491+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "دونيس: لا نريد 22 فرصة وهدفاً واحداً وعلينا اختيار القرارات الصحيحة الشرق رياضة",
-        "player": "رياض",
-        "content_hash": "1bc7bb12f37ee72bc91fc02cdb90cffd36029f0ff86080fea00d3d69380c8a56",
         "sent": 0,
         "section": "sports"
       }
@@ -2344,22 +2344,6 @@
         "content_hash": "aff6e342e56c848568ac9764cd274ffc06c350e9e352214a20c4d0b8ee0abe1e",
         "sent": 0,
         "section": "middle_east"
-      },
-      {
-        "id": 4291,
-        "title": "بن غفير يطالب بوزارة الدفاع ويضع خطة لنزع سلاح السلطة وتشجيع هجرة الفلسطينيين - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPWUQ0NkhWVDgyNzhnT21pQV95SFUtR2dsU3lyVjVpWTR4NldGc1lXekZOcWxMQXVwaWF1VUFER3J4SzZicFkzNjc2SFNHWUpoSmlUZFEzNHBYaHJRX25XQld5dWlORS1qZkFoMkRycDJLUGI2cmNWd3BqY1dUUGxPZDd2cFdwVk1qaF9hN1VESldlVkR1SFFYMEh5SGdnaDJtbWxlckRJX01COEgyQjh0N1ZvU2JUdkdxUDl4aTMyanpvNHVieTFnLTA5ZFlPaHdTTmdUWU1IekJmV01kWUtxb2FsT2dDYUZWSURSN1FxUk5rdEFHRHM1TnM2TzluX2MyY3ROWWdoLTZiWmtvandYUVY1VGxUUTlzc1pqek14NW9CWG1lMTNqQXIwTjJBTkRwOHRsMklzLXFHZnJKOFhGQjJVd29rU0c4aWxN?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Tue, 22 Sep 2026 20:49:09 GMT",
-        "discovered": "2026-09-23T00:23:22.753826+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "بن غفير يطالب بوزارة الدفاع ويضع خطة لنزع سلاح السلطة وتشجيع هجرة الفلسطينيين الجزيرة نت",
-        "player": "",
-        "content_hash": "aff6e342e56c848568ac9764cd274ffc06c350e9e352214a20c4d0b8ee0abe1e",
-        "sent": 0,
-        "section": "middle_east"
       }
     ],
     "world_arabic": [
@@ -2408,6 +2392,22 @@
         "summary": "\"نحن وإيران جسد واحد\".. الحوثيون: باب المندب خط أحمر وسنضرب مصالح واشنطن إن ساندت الرياض Euronews.com",
         "player": "رياض",
         "content_hash": "12de95bbbd53fc5232322eff7df2b90eff66a082d1e75bf8262fc7a94f5903c6",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 4311,
+        "title": "الوديعة السعودية: إعادة تسعير العلاقات بين القاهرة والرياض؟ - dw.com",
+        "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNTHI2STFTR0s4Tkc3UE9fNDBta2tpRlhLaGpFYnNjbmJhZFZuYVVQLXdzWW1DZHBrc2tXOWlfV1JHZDAzbUdLTWlJRXl2UEZMMW9MY1NaM1ZkU1hhYnQxdEFVb3ROSTFBSEJUY2RSeE11X2hILW5SSVFmNzhaNmlvUFoyTms5UEhFVndoZjJOU3VwRV9RYlBrZ1NxUmYxZzBVaWY3US1mekdRUFB6TGQ2dkFhSmVXSWhOT0hXRUhwdjZiMHZGU1lNUVBqSHI5ZERNVjE5Yk56TFpWaTJDUXNHNzRUd2xkb0tuZEt0N1hUWmxmWE9oaDg0TnFCOTBHR2xiNXJINVFLM2UzR3dyU0NtWFMyLUpsbzZZOGIwX3VEbXh2dXZSRG9VaC1TSHlQSVFDckhIcFdMSzBxVU0xSlVHZEdFTkRmWU10SjdoX0J1TVNRd25Sa1ZJQWs3LW1IM1g2TVJVVmxaZExMUG5lZlg3bHN4N3JLUC1kUG1hSGQ1Z0plWkNfaEZOYl9CY3NlcVpBT2hVbFNlV1VDZkE1N25wWEY0MG4tVmREME9iTTF1R0E0OEFZMDRDTzdfdUNtT1RsR1dnUlhaelY0czZ5Y0hhcWlWQ0xBNU9LbjA5cFh6X0EzdDBDcHJ3?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 18:31:29 GMT",
+        "discovered": "2026-09-23T02:34:16.923990+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "الوديعة السعودية: إعادة تسعير العلاقات بين القاهرة والرياض؟",
+        "player": "رياض",
+        "content_hash": "929d45597c885eb751fd826a058e3464a7fce3e45d854ce0769db53a9fcf5130",
         "sent": 0,
         "section": "world_arabic"
       }
