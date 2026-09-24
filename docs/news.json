@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T10:40:41.418714+00:00",
+  "updated": "2026-09-24T10:52:50.643476+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -773,6 +773,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 4761,
+        "title": "رغم غيابه عن منتخب مصر.. الشناوي بين عمالقة تصفيات أمم أفريقيا - yallakora.com",
+        "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxPSnBaeXVYVlQzQk9haUpRR1JZcEQzMU9LYmlzdlZoVFh4RXJjNnJ6VHlfdndfQTRlRVU0ZXhlc1lySWhxQzczbUtOWHgxaXluM3prYVV0R3dmSVpWcVYzOXJGUHE0akJkcS1ibDdaTHB2SnlXRzVwTkhrZlNFa0J2cUVBMGU1MkJxWHRSdjdyYXpZbTV0WDBqSUJ0RWNZNVJkVVNSMWx6RDZGVHZrTDdxYnpjTnlpejE2ZkJ4MFNLRlZ5RUd3RE9ZREFIOTl1UVZNTjVWXzAzUGJmNmFDUTN0OXB1X1hvSExNLVZUQlBGeURqRndlQWplcHUwQXBMcUYxMWRuVktjT0l6dUlXY0c2d3hjdk1icE5sOTV5cG9MSmRBZDNwVFFDRzJuWEpDbHA0ZFEwZ3FQVl84X1ZqSGlld0V2cTloUjltMld6XzBUN2tlTm8yOXRoYzZmSzlGaDE4czE2ZUlwWGZmY1ppbGRBeXFsRjY5dTRqMWNfSnhmdW52VTk3dXQwcE4waVVYWVVsUTYzQmx3Y0ZCbjB2eFdKU3VHUkNWY2g4b3dsTFYxTzVnb0o3ZjB5QnhVODRIbW40UDM2d3IxNmxLNzcxNVlCeFdpSl91U2U5RjlXVXNaYzNOYlA5RGdZcUgzM3J0Y0VhRWxZaFMwNXBTRmtCdjNEa2pMVUNaQVXSAYwEQVVfeXFMTkpTTGxyWXc5U2c2UUJXRWpBWC10d0M0WkwwTHJTcGxMQjRJMTlzVmM0NmRxejBGZ1pOUDV5R0stLVVjcV9zMGlYMjFuMzJHNXlTcGRCWEduTi1YdjBkU184SXVodkdwVTlTZzhLdzRrTTd2NHlMMDRfNzdyOTZoZlltajVCUGo0RTNUZVk5TlM3ZXd3MFB4RU1FejY5dm9Ea0xRTXBIUnlCTld5UTZVaVg0cUwtUnlLR2RLUHdabmpfZnB5VnFxWHZhMGdzRE9jd3d0Q1d5REp0cFBDdWdlT2hLS0VmMDlRYjd0RzJpYm1HeVJtbWlfaFFQdDRMOHBlTFRDZnFHWUdtSEROWGtjVVJLaVNMMkhTNGg4MTE4dC1QYjV3aFVqQjZHWnJMdk5MVFdvT2V3NXI1Y2J2eGgtLTItNEIzMUQtZDNEdlZ6a0ZsTmhxOHpNd2ZiZk40Z0hnTmFDNENSS1Mxa2tHbDRDMHc4OE00bmRFN3cxVlF3MnF6UzBMNndjODdpR1Z6Uko0a000X2pma2t0cjIzODBQN0Rab1lYUlJRYkJmZzZYc0ZzS1RfemprU1ZLRUtLXzVkamlrX2l1SE9rbG1WMkRIelY2M2FNc3RxOW4yUkZLRkh3Y2lfU3NJeU1MeXRoVm5qajRRRkNCX0JJdXJIZjR2R2I1SGxUTjNkM3paVnU?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 10:35:00 GMT",
+        "discovered": "2026-09-24T10:52:36.053903+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "رغم غيابه عن منتخب مصر.. الشناوي بين عمالقة تصفيات أمم أفريقيا yallakora.com",
+        "player": "",
+        "content_hash": "a97589d3a47c2d6cf750fa5d18b2689ee153801878147dcb21a3ea196527bec0",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4759,
         "title": "مباراة تونس ضد أوغندا في تصفيات أمم أفريقيا.. الموعد والقناة الناقلة - يلاكورة",
@@ -1554,22 +1570,6 @@
         "summary": "جوهر نبيل يدعم منتخب مصر قبل ملاقاة أنجولا FilGoal",
         "player": "",
         "content_hash": "8f13913ed11027a89e538c50faeb757162c2c2b1cc5584571a762f99b596708d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4591,
-        "title": "جدول ترتيب هدافي كأس الخليج العربي 27 - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQTmVFS2FKYlFESFhwNktWeWdubnE0c05JUS1CWm5WUTZXZW1iT2RVUTNZUl91X1M0T3pmVFFzTWx4MHJ0YTJBZHJrVkpGeVdCTTFQTjY5TWpWWjJPMzNTLWxlWG1yLXBFRVI3MHRBcGhkZ1dHRnJDdXVhTlc3MFI1ZFNKVnJfd0V1eURPX21sRllabFkwNWZQSHpGcjFFWlVMSXJoMGxZVUpFN0xkbmJJSDQ1M0lsckRYQ1dhX0ZiR0xhUnp3NGtCQWZHaFN5YjNnRFNYOFQ4Y0lBNTBBM0dTQllKYi1KNThRX2ZsdHNQM3F1eUxEc2lKd3I2RndXVmRMZDlzS3I2TzExamtYVHVMMVktWHRqNm11cE95VW9YZy1wRERMUl8xOVZoeEhKb2l4WkdEdXdKSWROUWdocTFEbjdUY2pZRnBNdmF2cTF2QXlwWjlwRVpCN2tzdUVNQ0tRaEpFeHdmd016c3FmMG5hdUFjNEVqODV6elJ6MlhvaWFjT3ljTEFpcGgzVWhxRVlZN3Z1STUxSUl6bmw0ZFN0dVFYVnRtNzNfRVlPUA?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 20:11:56 GMT",
-        "discovered": "2026-09-23T20:23:07.246924+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول ترتيب هدافي كأس الخليج العربي 27 Kooora",
-        "player": "",
-        "content_hash": "a9500b2c7e5d4a7ece9c6490333f06500d60d5fc097d999d4723bcd9e0f4f782",
         "sent": 0,
         "section": "sports"
       }
