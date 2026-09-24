@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T22:12:51.438677+00:00",
+  "updated": "2026-09-24T22:27:42.533648+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -709,6 +709,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 5013,
+        "title": "فرحة لاعبي اتحاد طنجة بالهدف الثالث في شباك أمل تزنيت - Elbotola",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2ckJDZzBDdXFFUXIxLVppTTAxTUJSWlBOR1k2d0xBNk55cXhNUEhjQjZTUllyd19USGxRZzg0Wmt2a1M4R1U3VnNhQkYtZDJjLUFRSjlGS2RFT1FNVHIxb1JrMlNmRnhncUpVcVBLM0I?oc=5",
+        "source": "البطولة",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 22:07:52 GMT",
+        "discovered": "2026-09-24T22:27:19.928373+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فرحة لاعبي اتحاد طنجة بالهدف الثالث في شباك أمل تزنيت Elbotola",
+        "player": "",
+        "content_hash": "8b5ffc05940a42bfc8005f91ba7ac26f8e59069503fad5bb0466445ba417313f",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5012,
         "title": "بالفوز على رواندا.. منتخب مصر للطائرة ينهي بطولة أفريقيا في المركز الخامس - yallakora.com",
@@ -1492,22 +1508,6 @@
         "content_hash": "2a1fe716cd0e934ecd4ce94ae73dee027909d57ef64fa0717732f592216719e9",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4953,
-        "title": "نجوم التنس يحتفون بالعودة إلى لندن للمشاركة في «كأس ليفر» - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxPeEhXVXNqRk1hNkZiVjBzUnZEVzFZMUI5UE8yd0EzdmJPODBXeVd4eW1kVEZFRE94WVdlSDRsdUEyZFAxTWZtaHVld1JGaVdVVnlFTlJoZWZLQml3T3dqUGdxR0ZzSVl3bi1xUnNINUIwOUpsUW9fSXpyb05BV1ZuU092ZW9mR19wRjJWZmZHN3ZaRjk0c055ZEplUkJiZ3BuNjNfS3JBV3RXMS1KZ0VBOEU4R0VpQk9ZWHF5T0R3SFlFYkNPWFkxd0s3c3o1dlY4b1c5TmhRN252UkZfUlpOTkZiYzBXSVJlTHhVVlY4UXUtZzVJaDNLdHEzS3pLU0NWRnVwa2c0QmpZT1F5SWt5R2laYlVhRmRVcGptR3NNMjEwamtlTTh2d1NvSmlJWUZwbDY5WjJnc3oxcy04cV9uZGU4VTJYcUpwSnlKZV9aNDhnNE9EVjF3dUI1cjh4S3BlRGxRSGhXS28tS2lQYy10Y2xTcnUwRnFVU2V1NnhCNzdvVmdwZkJwcnR2ZWxzNVRTd0VfdDlXelNacXBaRlpyM2hTN1FmVkt0TXM5V2cyTm1SYkxycEl6SHJIb1Z3RERYYkphU2dkNGVVT2xEbnU0VEdoN2dnOU1vQ3VBYi05ODhrNlBwQWl0dllOYmx0NTJ2OFlpNUJyM0JMc3JtS0g1S2hwOTFDaDI1OHl3Y0hBRTdmclR4cUc5NERwbVFvWEMzTGNyR1ZVUlFTNWtiNGJsbFZwN1NJQVlHazhsQURuRHNmeG5Xb0Jkb3FxTGxBQkZ3?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 18:31:31 GMT",
-        "discovered": "2026-09-24T20:18:44.053274+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "نجوم التنس يحتفون بالعودة إلى لندن للمشاركة في «كأس ليفر» الشرق الأوسط",
-        "player": "",
-        "content_hash": "f22a93ba9777deba955f30d45564e87a075168ff93e3f1f4be05dbeafcebc93e",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1652,6 +1652,22 @@
         "summary": "منافس مصر – سيسيه: كنت لا أتمنى مواجهة الفراعنة.. وهناك لاعبون رفضوا الانضمام لنا FilGoal",
         "player": "",
         "content_hash": "8685906fedef83f1e5ae0c5fcbd2a86a7f557693d3378cc5c605c4709cf929b0",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 5016,
+        "title": "رحيل الروائي المصري «حمدي البطران».. مفارقة العدالة والأمن - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPekRsQnVzaE5YS1BkbjlsU3E0eERReFNITjEwbW1uS0JSZmxXMnhvdVRWeTY0YTZueEY4VHZMcFE0MElEUEdwQmdTZmZ4THFaV0swZ2oyMHNxcFhEVkJ1aTM4RHl4d1VzN0loMFNzcUNnaVJURFgzcGVSVFhHaFk0NWZnczVDdHJMZUo5SlkyVndkNlFCbDdtWnNXelZONkZldzd1Sk5LZ0JmazBiWmk3MXdmU3hCSXZyYVp0cWhxZVdvTFE5a3c1OHpHTUdrYWNwOUphQWhGZWFSUEdOZEhqbHQ2ZmQycDlRdWwwR0paOTFfa3lIaEJmWUlQRUFFLVhnbVJzcmJWc0ZZUm1tU21KWnR5QTdvbXZWT2RZV1VoRS1TbzVLQlpWSlNyYXJSdFppblZrcEo0NkRUNW9aclE?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 15:34:09 GMT",
+        "discovered": "2026-09-24T22:27:37.636295+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "رحيل الروائي المصري «حمدي البطران».. مفارقة العدالة والأمن القدس العربي",
+        "player": "",
+        "content_hash": "048f30bdb4849db88307da0d5814ed4d07bd222336cbbc3cf4d65db43b3e138d",
         "sent": 0,
         "section": "transfers"
       },
@@ -2068,22 +2084,6 @@
         "summary": "- \"أوروبا تريد هدنة لإعادة تسليح كييف\".. لافروف: روسيا مستعدة لمفاوضات سلام في أوكرانيا arabic.euronews.com",
         "player": "",
         "content_hash": "8b0f68fd5cc98a117bb77e722259af83afcd3132d566519ae1cbcb4656a89dcc",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 4513,
-        "title": "موهبة مغربية تثير اهتمام أياكس وأندية أوروبية كبيرة - febrayer.com",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ROXlYazNEVUpIbDhLcWtNbmZIbGpEckVGeko3SFFWVXlnSm1uNUVxRVliVlZvbm9GZEo2VUU1YzJNem1NcnJudA?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 16:33:10 GMT",
-        "discovered": "2026-09-23T16:40:58.942449+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "اهتمام",
-        "summary": "موهبة مغربية تثير اهتمام أياكس وأندية أوروبية كبيرة febrayer.com",
-        "player": "",
-        "content_hash": "9fe38bcdec32ef1076082a6c029a493d50afd3bc663db49c3173f4def0842c50",
         "sent": 0,
         "section": "transfers"
       },
