@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-24T09:56:55.474916+00:00",
+  "updated": "2026-09-24T10:10:38.990366+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 4753,
+        "title": "شكر وامتنان المحارب الشهم.. درويش خسر الانتخابات وربح القلوب - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5JN1pjemM4MzdjMkJnVjBISWtpWlRvNzRydm9tZ2htTzZmWWIzQVhsM0dwTDRCQTlNZU80cWl5cEtUaGlMMXhmRQ?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 10:03:59 GMT",
+        "discovered": "2026-09-24T10:10:17.876192+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "شكر وامتنان المحارب الشهم.. درويش خسر الانتخابات وربح القلوب Febrayer",
+        "player": "",
+        "content_hash": "4b578a4600fcc4caaa9c675da6c61a2ba45735524b84586ae78b591d368cede6",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 4742,
         "title": "انتخاب أعضاء مجلس النواب.. وزير الداخلية يكشف عن النتائج - SNRTnews",
@@ -704,22 +720,6 @@
         "summary": "واش كاين أزمة فـ”الأنسولين” بالمغرب؟ ها حقيقة الخصاص وعلاقتو بالأقلام ديال انسولين كود",
         "player": "",
         "content_hash": "84bc73f6c48443cf80d69c95ff8edddeea72c72597e3d2217e06ff2a81240f08",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 4322,
-        "title": "من معسكر مصر إلى قائمة المغرب.. وهيب العنتري يحسم وجهته الدولية - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxORmNSQjlQMWk2ZnBwa3Z3TGQyWUo0aU9nUm1mOG1QZ2ZGQUxJcE1BU2ljTXNoUE9SaDFLTmJncVFMc3NTQmJPVGJfdmdTcnlYVkxEM1Z1UEJxNDNNSDdaNmJ0dURqREIyUmZSeE9DeWpFVUFkMHlqUXZSdUFJeDZUNG9ldktRV3FtbDlWajM5S3NPblozR1B1cUVHRnJJYTdMQnZZTTlxSkJXbHh3aU9FSGU1QXdlUTlwOXhXNjFxbV85Rl8xTU96aG9GR0Y0UGpCT3J0R21FZG14R3BHVFJVWUVseTlVZmc3Y3RTczVyQlR1YkRDb2Nkc2RfcEZGZ3hJSDFJY2hsejd5aTBSaHhOblhyZ0FpbnBNN2N4djdneTY4S21USkk4RlRR0gGvAkFVX3lxTE03WUxiZGNucEMtNk82ckdBNjRONDM5Y2FSWUtUVkVfcWlZcGZjV3RIeWFGNW4yQ3dvbG0tSWpEY1ozRjZFMVluZWdIVXZMaURxNENtLW5yUFlxR1pUbUtrRDByM0ZBMjIzX0gyTG9aVXBmYkt1ZXZFYlBvTXdHcWMzQ0VFWE5YWnVsdmRzNTN3Q3Y4MGFDZmNDVFpOYXZibXRDS2ZWcGJUaUtFSnhJOUJVM1VyMmctemdsSGZCU1lUN0pxUV9HdUN2ZFBpbVFmYlo1QjRfSzA4WnhuWEQ4dWxOOS05MVhURGdTR21qVWxWajEyMnQwYlFpRlp6TjBRWUdvVHdBMVVxcDJGc0ZnQ0lIcFIwNEs5eWhKRzVRV1djTExobER3WmtuN1ZVeU44dw?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Tue, 22 Sep 2026 15:08:19 GMT",
-        "discovered": "2026-09-23T04:21:27.686107+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "من معسكر مصر إلى قائمة المغرب.. وهيب العنتري يحسم وجهته الدولية الجزيرة نت",
-        "player": "",
-        "content_hash": "a4b0665c365632d290222754815eeeca2c386b731ee07ba44007cf19f656310a",
         "sent": 0,
         "section": "morocco"
       }
@@ -1608,6 +1608,22 @@
         "section": "transfers"
       },
       {
+        "id": 4755,
+        "title": "حرب إيران.. اتصالات دبلوماسية تصطدم بـ\"فجوات تفاوضية\" وعقدة هرمز - الشرق للأخبار",
+        "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxOaVVOZ3MwNTFLY0ZneVhxTnhYdHVraHU4QWNjMmMtd2lMa0lWb1E4dmFJMmJJWnU0TGdRMmhzMVE0YUcxU0pQYXdvSnlOTDJMRWk4QjhyS1Bfb1RnemhFRV9BSDlNWjl3YUpwRGxwQzVnZk84ZkpVVzVKTXdzdzUyVmhqMU9MdzNxa2hCVHYxLXFoOW9IYzdXZzVzSV9ZRFRLc3VMU0l1QXIwSXFwRHhfM1VfcGFKYWx3THY2N2x3Yllqbm41ZGlCYU4zUE4xbjZNYk53RFJnTm5XR2ZoNVoxUjlpU3BudGljVEZZMVFmTklHSVVPdFdzZllVa2FfdEhGb0RnZVZWSmRIclVGLTJuVDdhOHI3TUZYNUxfeU0zcDRSUzJidzktUGJmNmRKdXBUZmZ3UWVPQVFJZTFZeVFXMm5GTVMtSjV1ZTlDOUVRWTNoM3N1S3JtWU0zTjlTZDJleThyVEJiWGdDMnhXVDdRYkJyeHlQZ0w4bUVtRXA2NjN6eWd5MW1sUG1VaWFlWURGN25DemI5NVJOTEwwNEtaQUxCSk1UZUNEWS00MktFbUItc19zWXVYSERmTVEyQkJWWEJPN2hHS29kZXJWaXVVNjlVTXdMdllOTmViZGZFNmJGbEc2NW9OVzdnOUhKYjA?oc=5",
+        "source": "الشرق للأخبار",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 06:36:55 GMT",
+        "discovered": "2026-09-24T10:10:32.571798+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "مفاوضات",
+        "summary": "حرب إيران.. اتصالات دبلوماسية تصطدم بـ\"فجوات تفاوضية\" وعقدة هرمز الشرق للأخبار",
+        "player": "",
+        "content_hash": "994f15cacba3564e23fa379fc53a6ad6ae10018a362ffae393c65565d54a10df",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 4618,
         "title": "تسليع الاستمرارية المتخيّلة... من يملك حضورنا الرقمي بعد الرحيل؟ - العربي الجديد",
         "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxQNGZxc1JPMnpaV2llQXVDVHhKOE9mZ0J0TW1GNUU1aHptbTQ4MlgtRkV1MzlfcnowZzBtUDQ2UzRBdkRsTy1rQlBNS0hldTdOWVRlV1MwRHgzMFJSOEJYRHNEYWMzYm1Xem9QRUFjV3N3ZjZsZ082TnNDMGZHcnlJeVY2SWtCSmNyaGhjTXlKUTdsY2xxQy1XRHU2QWMxQVBUR3Z1Z3poYkZyM1NQTHFrbHdwOTkta2lVNGJpMXEwQlpQNHJuUjJpUjdIVGxORWp6clQ0cFdyM2ZwQTZfQkExZWZ4X3NMMTB1U09mUVI1VHJyV2tjSWswb09wUDM1V0N2QVNqT2p3NVB5UFE1a3RDdHpsUVdaNGhBdjluVTlwLTMwYUtnakR2SGphZTYyUGFDY1FiUUNLRk1Ya01yb1dCWUxGdlh0dHAwRlIzUnpHX2tUN2hTVXhrd3BoMWlaZzk1UnlJU0FqTGU2S2t0emxJT2NuX3JGX21lRTVPNmdTTGRiakpmb2dJZkZQWTJMTGdiNjhtMWdDOXR4RnNxMTVVSDB5ZHBrMTBmZzFpRGFqNW9rQXVDckdteGdVb1VXSzRYR3dwUE16VDA1a2k1emx4bHotczRDVGlESmlYV3Y2TDVnNWkyR2hrN3F2azA2UEFvcU5DQzhOemNmUG1NdlZjY05OY07SAYoEQVVfeXFMTUhranIwUzM3Sjh5YVI4U05qN2xPNTRmOTlIWHRReFFyakNFYmFnS1RQXzE2ODBQa0l0NHhxalFmc3NYVXJrT1VkejJFeUh4SVRrMnNUVENxdEw5cWxydldQRk51Ni1GNWd2Q1AxQnVEdUF5Y2RmMEw1eXZ2SlB6UlhVNHV0QzVybmN6NnV1LS1VWFk3NFZMTVY2MkNRWUtGNzFWRjFWZVU4eW9uTzVyWU0xeFNmS3FWUDM0NmRwWGZKT20tQ0t0QzBFelRMQ3dPa0FpM2hzXzhIM1pGd1FxMFhsOE5tZEg1eEVpVFBsd3pya0tSVkd0MW9TM2hlVzNza1FoN0pHTUh4dFpkREIzNURKTWNUVFFtWk1lWWZ2NEE2NDVkbEROMHAyU3ZhT1QtSzFnWEhGaTBzQUNPQnJITWpkWEpnb05rcHZwU2UyQThVaFlYTzV4aW5GcEpwaFcwWGJvNWVwV1Y1bXRpMVZOTndjTDNHMVBEdUNvODM5NVBmU29QWlN6ZDdLd0FlN0ZzYW41MmVqVVo2Nl9ZdUduRFZZSXhLV0lnamJYRG5uN1JkRnl6NTRKdE41X0hhekJ4a3RiZ2ROQkk4d2lmVUtDbkFBZUhTU1NXSHVHZ09EOG9YVTdjdTduVTY0V1paTVR3SmtJYzFiOFFWTHJnMmZ4aHpnNTZwR3lCWmRR?oc=5",
@@ -2294,22 +2310,6 @@
         "summary": "بن غفير يطالب بوزارة الدفاع ويضع خطة لنزع سلاح السلطة وتشجيع هجرة الفلسطينيين الجزيرة نت",
         "player": "",
         "content_hash": "aff6e342e56c848568ac9764cd274ffc06c350e9e352214a20c4d0b8ee0abe1e",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 4350,
-        "title": "الطاقة السعودية تنفي شراء 25 ناقلة.. وتوضح حقيقة تصريحات وزير النفط العراقي - العربية",
-        "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxNOGM3V09Eemw4VWRFOU5acHpBTnZyQVJSMXU3Q0lid09pbW1pR3RCNFpwZjZGTkV5T3ZiZUlWbHFNSTJSZWVCSW1yT3NLVTl5enY5Nm0wdXZfMmVxY2JXNUUxTXJ6MW5BSWtKUFp2dGtCM1hSOS1IMXVESFNTUHduNnltT1FzczBzMXJsclFMLWdDVjg1bDJobk42X05nNFpGNWxZRUhKbmI4ZDNMbVk2TG14M04zS2VQOGhlbGlxMm8yMlZseldLYkpmXy1XTEs1YjZmQjR5STJJMTNYNkcyTVE4VmFsbjYybmVHNEdSeEFPZGl2OGFHdWdtamktRnBPU2JwWENUWVhrb2stallSTDdWbDdPM05nOGV5d3cwU0t3SEF0TGtnLXVRYWkyc1c3TVhLOXRRZTFhcHVvazF5UWJjVnVhSDlfMDRCSmRka0llM25Xb01aeUJITk5nUTZxRklaS1pBZndGR3JGcFNaT2I0dWFuWHZPZ21hXzJNUV92LTNLUDlKaS1SdXNNSW1qV1FfVmFDUVlKSXo4SlB2LThvVDR4TDJEcDFDS2ZiX3FOM2lCdjVMSUJERkNyMTdMVVpEd3QtU0FtSGpvUXliOGdzUF8yVjA2R1Jrcjd3cUQ5Y3R2b2RWYmhWeGhIMHdUcWRZdlN3b1NadEJySTdQU3RSdWpZVlhPVF9WaXVKSTMtYkx6dGJTQTEtT3lpOXpPNzFXVHJCWXk0Ql9EdVVrYVJRU21XX3FaV3VKdmpuWWpqbUoxdE5obnluZ1c5akphMFRMZlE0Vmh4Y3otWDBTUVBGcnVMVjdQeHhrNUtLT3l1SVl2eEhlVkh3VThDR1U4Rzlqc0lSYjdId0lldk96b2Q1dEdtNDdVMkk4dW5OZTd3d9IBpwVBVV95cUxQd255dkVtTXdEeUQzbnJzc2lfUzUyeS1rWjlDUnhHTTlfRG80NHhuWi1xbW85dWZHX3hfbHJfZk5EakZUM1NvemRzVXN6SmFoU1NRU2FvcGZYYUZER3F4M1Rwd0FNeU4yckp4MG1FS1doVHBqM2hKVzNNQ3NJZ0htNGtFMENsUE1STEljRDFFQkpqVjJHSl90ME9Jc05ybUJ3cTZ1ekR0bmFpc2d0eE1pUGc0VmNNQ3dfa0tRRDhPOFdaWm9yMmtRRUNSSXptUDMtNW1FV25oQjBzRnltcDFfMFRZN3FMeEpVNU1CVTJQUHB2UjFTWF9zc3IwSDhFUGdvcE1EakZWT25QZjFub0NjU3YwVDIwVmtaTEx5eGxpVXBHLVI2aWNQb3Y3bnhZZzVpRHJCU1RKUjdBODhwZVk1b0RjZUZhdnkzV19JLUR5YXdtbjdBLXl6RGxqNWdkRTdmNnFTVVdsVWJGYWxpNW5wRDdqUjhqQnJPQzRFZkRUUzFpZklfZHJGUmt2c2NCVTg4aFNoU1hHTUEyZzVyVWNNRXBXd1ZHRTRUNGZwRURLcWViTmdmOXR5X21MTFdDclZmczBPRUdtbllrcXVraFFpOFNGZEo1LVQwRzVWREFYSGV1VWVraE4yRUk3UWFvd1Y3ckZaV09vVVZPeWloYzZmZWtQYmxNMDJmc1N0R1ZTTXdneG94QW00TUhZeUEyNU1xOGluYUx1azJPSGt4ZzF3UXZ5cnJBYmN5RU5GOGN4REhUWnpiM1RtU054T1p3VDVGaGI4SmpkQ0FYbVljTDFWNUhzU0FVY3ZiejJkU2VQcHJUX3V0aEVDRC16NHJYdmVpVElEdDNTdUhfUk1FR0N3VjlYZjNtb1RkMVVjTDZyNkVIakZydGln?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Tue, 22 Sep 2026 14:50:00 GMT",
-        "discovered": "2026-09-23T08:35:28.472168+00:00",
-        "category": "الشرق الأوسط",
-        "status": "منفي",
-        "summary": "الطاقة السعودية تنفي شراء 25 ناقلة.. وتوضح حقيقة تصريحات وزير النفط العراقي العربية",
-        "player": "",
-        "content_hash": "5c30a9e385394a49d3db9573300a188b3df6230bd94beac1b05751883274d146",
         "sent": 0,
         "section": "middle_east"
       }
