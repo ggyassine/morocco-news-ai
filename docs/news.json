@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T17:25:41.624730+00:00",
+  "updated": "2026-09-24T17:38:00.683506+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -770,41 +770,25 @@
         "content_hash": "e741030261209fd2372632c18dd863bd6f6684ba7d189ca0c0f57984db8e4734",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 4411,
-        "title": "شاب صحراوي يعود من تندوف ويشارك في الانتخابات المغربية - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPN1h5cnF2ektQQWFaNXY3eEhGbU40RjEwTGVkMEVSbEt6N0hPcXlVMnZLeWtHOXU4b0xaOGU3b0VTWnRhalg4aW5mMHVNemFmR1FUTGZwZHVSd2NyVDhLNGhVdEhEbDI3akRHUXdJZHNpQXl6SUZzZE5DVEdnejZ1X0N3dk1Zd2dRcDA1ZzBwczI2ZmhSaGxHbWFnN3ZLY1NJRkc0dkl3NkJIQUhWSDdJSjJzOWJ1bDJ0bkhGR2pBX2wzVHQ4WlZpaDlseHptOWhmSnNQWUxCb2NsNm1rMzJYU2V4M2ptVjBIWTIzZW9TUGRCSzRFV2FEOFhqSl8xRDdTS0tFWDd5RkdUS3o2V1lTQmRPeEdQeExPVmdjU20yWHRPd09CRjdQUDZsM0U0b1BseTl0ZHZMaEt6UG1kRktrejVPcndRbGJZaHIyVFZKTTROMlBYSzZlVDBWUEg3ZG12WXpSMktJQk92QnU1b1FKbEhXOUx0RkpNOTh4U3pxQXV0ZktwLVk2SFRiMTd3VHpaNzV3NGtJcHNMQ3R1V29jZWlUQVdva01rRGpvTTJtSdIBtANBVV95cUxPOXdnWWl3RlI1dGEyS1M2YTZ3WWhyQ3UzbWcweDlpZldOSDlTT1A3VWdpampwMHkzSjJ4V2dJamlWOWZKNGxMQVVhNlNBUmFoQ2dDZF93RU1Zc1h1aEJpdFNzek5mM19wd3ltY3FwQjB3Zl9na1FaaGVBOW1INzZCTWtWZFU4V0JadTlfZ3FfajNvMVVWMy1yRkVxSXRFUkhubldxOW5mczhvMzFPclU5VXRvRjBNRFJkamF4S2Q4aHpaYkpXUS0yMGZJd3pRUVdUa1gzcmNpcEtWc1lPdHM4bUMtYnI2Ul9ISE5ubXhQZnVCcV94U1hEUl9aempacmMzSTNYX1cyd25DNUU1N2FIVENwdUZRbFdwaHdxQVRCTUNRZFZfYS1McnYyOXF0d2I0cEUzVkdwYk9jZjRWMGc4MDJIbDRzT05zMkFkV0xRX3NCY19YenQxX2tjMndCc2Jvczh1dWhCMW1mVGF4SG9xSjNwLWwzTjMxaVZhUGFjNE9aV0V5dWp1SDRkQi10alM5aHZac2xUWWo4TDVrUXdYS3dHbDJhV29pZVF4aVBuUDNLSmNv?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 07:46:16 GMT",
-        "discovered": "2026-09-23T11:19:05.176341+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "شاب صحراوي يعود من تندوف ويشارك في الانتخابات المغربية سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "fb87d7113830d33cf8060b5423d470ed8ba7b73d855ca0c8849a6fc9271a8b2a",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 4631,
-        "title": "المغرب: نسبة المشاركة في الانتخابات البرلمانية تبلغ 28,05% عند الخامسة مساء - France 24",
-        "url": "https://news.google.com/rss/articles/CBMi9wVBVV95cUxQNloxY3JsSUhZOFp0elhqM3luU0poQjVGN1d5N29CSW00VklKV24yUVhGczc0bGhtRkczUXNCd1BBQTFBOEhQci1TX1pvZDFCUTZ1YVNrVHVLZ3RfOVpFb0RYdUlkSW80YjBpZE1sQlpfR3B0OTVUZnkzTDdaZjFFeXE5YU1CbjV0LU5GNTc3Wm5CNGNId05ZNGRpWF9oVkpKV0JVMTd0MjFuM094bEJaWlB0a1hXbkxRdHBIWUZTeE5EMm5mbzc5R0VNMy1fMGdHUFM4TDJoYmpVY3ZRMmV0N3VHY3N6dWNRX0x4XzhvQmdpUC1pMGIwR0N2SmpXNFZMNnF6eVljRllteENDTGs1WmNodk12TllObkw0cm1mUjIxS1RmdW16eGJqbzdUQktNS2VfaWl5YlZFT1otbmtpZ1FMN3B1ZUJ2N1lteFMtSW5jTzFPdUNzQU9yeVVLZFlYcHB2SGJHTkRWUlV2ZUZYU2ZIemFrUF9EdTN4RV9ycjl3Z093TnBNYk1ROFVSeEJYeWlPc0kzQmpuYUZPMDR3bXVPOUdtN2hsSTE4OHpHamxpa1d2LTJwUThsa1Q4NklYdGp1eFFxMU5XMkhTa2xBUmhMcFpJVXlPdjUxcGxsb3hKcVdWOHp2X2hzNThBU1VuYnJNcGtMcms3ejY2MTJ0b3U4NGlOZngwdFVXLXF4U2hmQU5vSkhhSlBza2pEMkdPOF9ZNXNoX3FqQnZkV010V3JpSGpXNVVOOC1Mck9qNjd5b3hkdzlOdzBocjVmcDI1XzhDaFBFN3NxWi1BbXFJekd5OGtlMjBSWDBieFhpa1RDS1ZJMl9nRmhlZS15R2VKcXE5eDlNMEpoclU5a0xDdFZMTWJYa3dlLXRTczJzWml6U3BZZmpLQkVYQ0J2Tmg4aEttVTY5bFpSZ0xVamhvcmFhYXJCdWVZRzN5ekFrQXR6Q0VBWldTY0x4RGEwVEdFZmFuUnhSVDQxT0NqaTVHZ2RKdTJadVk?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 07:28:55 GMT",
-        "discovered": "2026-09-23T23:17:38.288028+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "المغرب: نسبة المشاركة في الانتخابات البرلمانية تبلغ 28,05% عند الخامسة مساء France 24",
-        "player": "",
-        "content_hash": "3fc9bbbbc57f3fe01766aa1c3035cf1eaa154e86951776020e72f3aa4cc05c31",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 4888,
+        "title": "أخبار و معلومات اللاعب معتز الجرنيزي مدافع المدينة winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPVGw5c211R0dSM3g3dFduSjBramQ0U21DZ05tNHF1N3NLcjRidWNwel9zbDkwcWR4MVJqNWxOcGdKTEpwY1FVcWtJLWtmeU1pU0xCMVptY0cxLVI5Qk5SajZZSTlobzF1eWUzdkF4TWE4TUFsUGk4R21zYmgzNWtpV1VBell3ZFhwLUpRTmc3NXB3NFl0blp2c0I2UzdNOWNTNHJJN2xVNkctcENXdGlucU11VW9qMFdHcGhXcWpvSElOZjVRX2JMUVFGZmRvWmJxbk05TUZLU0tqbjIzQkc3VW1JbW5MUldOWUk5b3UzT0daMjAxR2EtLTlnV0R5ZGl3N3ZyTTh5VFYzNllJU2tXcA?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 17:30:32 GMT",
+        "discovered": "2026-09-24T17:37:38.802599+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب معتز الجرنيزي مدافع المدينة winwin winwin.com",
+        "player": "",
+        "content_hash": "1c44ea0afd2f0b2ee97c2ba3560e9e7cab6dac18cb4aacbfd9bd6e6207e72052",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4882,
         "title": "محمد هاني: علينا مسؤولية كبيرة.. وهدفنا التأهل إلى أمم إفريقيا - يلاكورة",
@@ -1588,25 +1572,41 @@
         "content_hash": "dac44ad0ff2c4b582079d223c12c92639fe25f9fc371688c7b925a6831c64834",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4866,
-        "title": "الدباغ يسجل في تعادل فلسطين الودي أمام نيوزيلندا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XMFYwblJ1UHZvbEpVWHE3TlhXNzRDb0dhS2Zhc0FFc2NDcUJSNC02LWkzdWRrRDl1MTROenJ5bEZxdTM0eTFwbmp6MEFwZVZE0gGoA0FVX3lxTFBtR3o1bjlVYll5NVZHMFhzV2Q5SDl3LUVrbGFYWHp6cm1KWlQ5d1p6SlcxeXF4bXFickdFMV9QdTlHcUpyWDRnZ2dvMHI5SjJLdE1TcS10UTZtbDBmTUdQTXlldzRxOHc2cDZvSFU1bjdIM0tqbUxVSjBHNjZQalhxZkp3VHhJN1hvblRnYVZfcGV3YlBBdlg1Uks5bkFWNWp4VDY4SGppN2NnU2xBV1R2ck5aVlFaclE3ejdmOGF2ZE5CanFpRkN6bnZEOFlvUUNMTWpUNjIwbzB1V3ZLUkJYZDlIVVRnSVk0OWFYdGdxZllldE9SVzE4WF92MUZ3TWgwczRhUHY4NE5YTTZUWjVaNlhyNzVzRXNLaVlvWXNMYzlsM0NMaDAtOC1EYk1TcnRFVzlnaXJTRnhLdFNQUWdHQ1h4VnJDRTlzcjdNQ3pvTTNYZlJxSzVCUkxFM3VpeTZEbW5Ca0g5dGkzOUFtd0xLRlJwQWJ2QXhra0l0S28yYXdsNjVhVm5rc0lEdkdjeHV0ZkwtcE5uQUJEYWp6S3hGLXktNE94clg?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 12:22:00 GMT",
-        "discovered": "2026-09-24T16:45:48.539025+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الدباغ يسجل في تعادل فلسطين الودي أمام نيوزيلندا FilGoal",
-        "player": "",
-        "content_hash": "9de0921c90d4d3bcd328d3c6d6921e5b42b22730dcc0a982597d703e1037ebbc",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 4886,
+        "title": "بعد طول انتظار.. عجلة البطولة تعود للدوران - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB5MFp5X1B6R3RLVU9VQndkVHNuZjlWdTlxZHFTZDRQRXdIeHVLSTlyeHBjU2F2cWc4OFF0elZDRlNVa3h6ZDVJZQ?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 17:31:51 GMT",
+        "discovered": "2026-09-24T17:37:31.303724+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "بعد طول انتظار.. عجلة البطولة تعود للدوران - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
+        "player": "",
+        "content_hash": "cf2da31b5d136b3f11f45b1ad5cefae1b84ba85fb51b05818f4e5c9dde11267e",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4890,
+        "title": "\"روبرت\".. قصة قط في بلجيكا يواجه القتل أو الترحيل إلى الجزائر - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPRWdFVlFvS0tySlNwQ2ZRcmxoZ3ZxZlpJY1RBRVNaRFg5VWUtUkVQNk1GTXFNaHh4YzFiNzBKUnFpVlh4RFM2YU1nTzIyRm9FUFZ0a2pRQWsxcGgwOTBqenZZLUotb0JiSnBjMDJRdDd6VHVkVTR0aFM5MDlJUm1QVmVaTm9XcUh3dVd6TkhqcHNYQkRFeVBXNF9QZlFUcXdxT0prMG5vZ3paVzB2S2c1ZFJMX09jMmJScnFCdmZodnpKdmthRDN6R1dXQ09xTElkLVhJZWQ0M2pwMzFITHRCZUZzVEI1eU9vajVfNWV0VV9FX1U4b25xX1hQWUE0dGYyX2ZDZFJTYkZaTjU1QUoydklUVlAzODBDYUo3cE5EOXcwYVU1aTNPQUppdk9aY2pxeEdQTFpIWFJCZnE5bDJhX2lVS2xCdVZhaWk5Z3BjUGk4cUtYV1NOTlpxc1I3Z09fVE1Yd09WV0E3Q0dBOHFjalJHRS1mT3RMMURfYmNkZTFURFZJd2RPQnZzNFRHSkdXd3F3U2VIUEYxMzVFVzRfSnkwVENvSVQwME8yaDN3Z2QzYl9abUpXUmlNQzZCcmttcm9YUzVoUlB5ckVZNlpjZEZ6MmR5Mi11OFM0RmNaa9IB5ANBVV95cUxQS2NZc1FvTXJVWVp1LXRMdjVNTzJZUS1JYWRfdnhVQkdPZ01GeEJkSHQtV205RVZnTXZHSUZJbHRJQU45cm9jUmx1bFlsakVNVlptenE5a2tOR1lRUnhpcDRuNno3dGxQT3lSblF2R0V6OTdyN2VoZEdGazZQTHJPT21MLVV4eDFlRXkyLWtZbkRuaTBib3dtU2tBeXBTQ1pyd19CLUJuc285bEVrel96SkVadXp5OVotN09TMU9WSkRPWmt3cnRVLWNCUDNTb1hZUF9DMWtxMThCYVJYblplbzVORkRTa2FfSWZaMGg3VW9lSE5nR25qcVoweGt1bzZkZDJjM29lLThtSkJ3OTlKWEt0NFk3UHpBZFl5ZFdiVlAza0VBTTltZElQdzlBNDF6UlhXWDFRYnI2NHVFWUhwS0x6b3ZncTl6VkNWNHJ2cVpuSU9xV2lIdEd6MWNmTWxMOU13UFg0U3VIXzdVUEtJTkFYV3BVLUhYVmE3Wlk3cVVWR3Y1ZEl3OFpMamRlX0R0dU9ZWjZNZTZ3MVJxUV9CV1BFVWJkblo1WU5OdGJDd2ZITFY4S2hiU1l5bGVkLUEydVp3aU5BUDhZbXdpdlFRN1B2by1OZjg4a3M0Q1N0Y3ZzTGpK?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 17:09:15 GMT",
+        "discovered": "2026-09-24T17:37:53.208968+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "قصة قط في بلجيكا يواجه القتل أو الترحيل إلى الجزائر العربي الجديد",
+        "player": "",
+        "content_hash": "ef08fa6dbdb6e3690f54084e495cf9fd1b99ea676b1e6fd86b4638fa3edd59be",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 4855,
         "title": "منافس مصر – سيسيه: كنت لا أتمنى مواجهة الفراعنة.. وهناك لاعبون رفضوا الانضمام لنا - FilGoal",
@@ -1732,6 +1732,22 @@
         "summary": "“الأرصاد” تتوقع استمرار الأجواء الحارة وانخفاض الحرارة تدريجيا بالمغرب برلمان.كوم",
         "player": "",
         "content_hash": "f9fd8428238e2c0c30eb857a433864d2a35164fac5290faef132dbd42982fe3f",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4891,
+        "title": "الذهب ينخفض وسط توقعات برفع الفائدة الأمريكية - alquds.co.uk",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPM1ZRWEI3ZGgzRDVlX0g3Z0ZHeGpPVU0yLXhwbUwtd1VVRzRXUy03QktVcmMyQzhSOVBNdEhEUnQyNUxkdDdqSDBYb1IwS19HYm5QZExCV3FjSnpNRzBIZTJoTjV5TlFYaFVzUFN5blpkM1dEbEYtQk02dzMxaUNVUjBEcVJ0dnhOb1llVWtMa1E3dDdZZVozc0JCQmhXUFBHbFVCaWFuQ001bDdkX1RBckN1X3ZWR0MzM2tMR1Q5Q21KbnpQWWh6MW5rN09RQW1XY1I3amdUSWRRU1VfZ1Jqem9sSW4tMG1mSVBCVl9nMHFJal8zeDNIeVp1enpJSkZqaGpoODRXREJTb2dhankxN053MmJOOTRKSVpyeGNHakptck9DVXBzQ1VwNm05THdvbEFfaWhmTndTNXZLR2dSeWkwZUo2NFE?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 08:58:07 GMT",
+        "discovered": "2026-09-24T17:37:54.130859+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "الذهب ينخفض وسط توقعات برفع الفائدة الأمريكية alquds.co.uk",
+        "player": "",
+        "content_hash": "86ad3ff5518cde54333d0a9d4a0c8a88201aa6f8d3d1d1cf10634452e7b1717d",
         "sent": 0,
         "section": "transfers"
       },
@@ -2244,22 +2260,6 @@
         "summary": "غرينلاند.. توقيع اتفاق يطوي الخلافات ويكرّس الحضور الأمريكي في القطب الشمالي France 24",
         "player": "",
         "content_hash": "b5167df68cf1c7f6a90919c1f9dcee344918095bf2ac6741d0fe3eab1379effa",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 4435,
-        "title": "التشغيل والغلاء في صدارة اهتمامات الدار البيضاء - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQVmRKbmVaT3k1ZEcybjNCNmNfY0d0eWVpYWgxcW1ibDdGYi1La3NQYWJHbUNUY1lVSUk2NWJyRnhhRTVfcEh1RHI3eERkWlhUR09venlYRXNYdEhfVFhuV3ZGT3VnR2MxZS1SQkNzTUhfSk13Yy1vMHRiV3dpQUlnZUlnMUIzQlphaGMtQzhWZ2o3VlJfRU5LQUVHaEdXeW5JeFNxcWhOQlJFTV9ScHp1QmQwcVhyUF8wekNxY1RuYzlaOHZxVFIxX2ZnMWJlUTVOaWM3aS1ER0xNTEtWSkM3UXJyWnZVQmJwcjJBSVhqVjk3SFJZYkQyU3dPRVFaXzR5ZE90amJCUXhxaF9Ld0R5SDJnallGVG1fdm1WbFlvSkdTamRCY3NvZzFINkp0OEFkc2k0ZnpJZ1NUc3ZjSlVJM01NdFNBcFVlQ1BZbWRsMUJneGwyZXBBZ05hMm8yX2lKbGx3ejZZdk43Y3didk5NYmxYWnNCS1N0UnF0UmJXNnJMLXN2U051WkRWM3JQckZiR3Z3cU1B0gGbA0FVX3lxTFBTcmZXNDRhc2RRb3ZFRGNuZDVabzhaSmVsQzV4c1lpY0pxRkpGYWd2dnNWaDdKVXZ5U1ppek5YS1NlSE5meG5wY2YwZ2FndVdBeHY2TnFTOVlFQS1qaXBsYXpRYW1oT01ZS3dodm1neVdxT3A3S2k5SEtSM3ZicFctUEtoOVVIWnQ2WVVTUlVrT2dmOHBGY0JINlBMWmVSRFBtb0d0SU1BakNPQjIxZWxNb1FKSTZmQndYYVdiTDJiVnhab0RGZ2xPQWFweDNLNUxJeUtocnpUMFk5ZG5zMFRVYWR6bWZISDJEcE93bTRSVV9GRG1ESjc1MGRYUWdKa3UxbVd6cl9YUnJtczc5cGU5NVRqNjZpQzNDOGpqamZ2cDBQUVY3ZGNRSWMtNThYSUlLNms4ODFUNGhVZXNLdUFFV2RZa2RCVFhQZzVaZkVUS3huSXNkclRqeDRBVDJQOTg5ZDBHNDVuRy1lSnAwWmktZmtEMW9jMzYzaEFuOGZ6R2ZUUGZqcm0xcjRZNk9leTdFczQ0VTlWbWwyQQ?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 07:45:21 GMT",
-        "discovered": "2026-09-23T12:50:46.602777+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "اهتمام",
-        "summary": "التشغيل والغلاء في صدارة اهتمامات الدار البيضاء سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "c57d6fce3841d5244f37c1aefbdf6a0ec93ce35fb9cbf2625b05563c5a849f0a",
         "sent": 0,
         "section": "transfers"
       }
