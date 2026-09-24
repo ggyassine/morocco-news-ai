@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-24T16:57:41.370531+00:00",
+  "updated": "2026-09-24T17:11:12.749116+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 4871,
+        "title": "حموشي يستقبل سفير الكويت المعتمد بالرباط - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hb3RPRjVCaVVLQmZ4TjFmaG00dUJUQVlaTFZtS01BYjBtdW84dzR4cm9BNVFoTjFlZGRRSmtwcWkybHF1M2NiTzRPUllWU2V1T3BKQUVZbTYzVHVsNlc3d0dpeU5TMERT?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 16:36:11 GMT",
+        "discovered": "2026-09-24T17:10:39.111672+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "حموشي يستقبل سفير الكويت المعتمد بالرباط Le 360 Arabe",
+        "player": "",
+        "content_hash": "cd79fff111c6c85e039196705278946b713b9fad6545ffd4932761ce912d860c",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 4864,
         "title": "الانتخابات المغربية: إقبال ضعيف وصدارة للأصالة والمعاصرة - BBC",
@@ -708,22 +724,6 @@
         "section": "morocco"
       },
       {
-        "id": 4377,
-        "title": "بوريطة يعلن ترشح المغرب لشغل مقعد غير دائم بمجلس الأمن للفترة 2028-2029 - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90aGp5NTZ0bFNlZWRpc2FVMjBrRWlxdkdFNmRHdjBqdmVjdHNEdGdvdGhMZ3ZCbEdnMUN0dFdvMGV5bG5MbDNuMQ?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 10:03:39 GMT",
-        "discovered": "2026-09-23T10:09:34.691894+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "بوريطة يعلن ترشح المغرب لشغل مقعد غير دائم بمجلس الأمن للفترة 2028-2029 Febrayer",
-        "player": "",
-        "content_hash": "5243dfcbb91f20ab5cfa3ed7b95f170fe7fb9a3252db10de040a2f44ce3ec424",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 4628,
         "title": "فيديو.. إقبال كثيف في العيون مع انطلاق \"انتخابات المغرب\" - skynewsarabia.com",
         "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNMzRsVUd2T002OFpOUkRNS1pYUmMxWHZrWFNLd0k4UVlIRGFUZlRmdW1VcmhZcHIwSVpwMDRJc1NUZXJORGJGZ3dFdzkwamJMYUlhSVZEODVIeUFHaG03SVcxQ2djeWVGWGRBeHpVQlgwSXRfRlN0TGpoVjdOS0lveGN0NTFSV0RCdkhXQXZLUnFmV3h5YWg4MlVZWElqb3lBZHgwWWtXMDNSV2t2blRjakhTOVQtZWczRG9RLUZMNWE2eS1ITkVJdExxY21obmdSUW9jUnpEU0xzSFhCQmRPT0ZOcXdZNjVoREg1M21PWHIwblNFTkNFZ2ZGT0lMakRlUW5OVUE4Um95dUhRRXpWLUpsUDRMdlpoVS1ITTdXQnFta05BVFJScDk2SlZPaU5vLTkwUHpLQ1l6ZVZSWmd5bUxCa3RkWTJ1RXJrY1JUYXctOVpTbVlVcFNINnBlTmJqOV9adFRyTXNja0xsMi01WmNNQ25EelVEZktmellDclc5dmZGUzlHbFViUnlHSE1JY1RTTlVKamhwV1l0TjdDYUZLY2pZYkHSAawDQVVfeXFMUHdyMlhjMVpGYVFQTDVYT0kxdDZTSXF5YTFIYmNVOXV4WEo1MUlyWmhpV1I4ZHI3MDdYeUpLSTc5ZC01d0VPU3FlaFFfUk5oa0h6M3ZZYk1ZUGJNZEp3ZTJ6NGQyRDRvUExSeldtVW95WXE5OG9PWnN0RkFHVGJyQ04zS2hZejJIWElVQzlMZWg5RGFKTG00WnJqRGpfUDZZVHhZVFg3dUVUMjlIQjZaTDktVk1KakctTHJfb2g3elNCSmhhWnR1eE13dW1qVmFmdThXVnhjRUY1TzJWY3pnM1JDdlowUGs3WnhWZ2s4azR1MjdqTUNLc0U0NnI1Ullaa3E0S0Q2d3otZjZJNDVZTXpRYlM5SnRFTkZzUlJmdWt3U3Fad0lVckV4bHlZd1ZHQkxHM3E0LVlpYmF6S2JQTzJENmVpMEdhbWFsWlVhbmxoVGUyTThKaTdldGs5aFdtQlhyQ0tEMmRjNl9JWndXdUdpNElkd0RyR21SNGROem9FYXg5eTFYa2lTdUE5OXFZc2p4NnhHcFk2SGtpMlRES2xDV0RWaF9vbXB0NHQ?oc=5",
@@ -752,22 +752,6 @@
         "summary": "الناخبون يدلون بأصواتهم لاختيار \"حكومة المونديال\" asharq.com",
         "player": "",
         "content_hash": "cee96a4017f00f43693a42c009e4aaf2b735ac84aee368f52683a79ca0eb4750",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 4373,
-        "title": "المغرب أمام صناديق الاقتراع.. القضايا الاجتماعية تخيّم على معركة تشكيل الحكومة المقبلة - Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM05KTjZYcG85Z3hlbks0b2JJbkhTSGkzU2J6MEhSOC1RT2tmSFNqa3N6UENSRTNfX0ZxdGlTY0hpbmdfV3hfMVNaUXBrT1lvTDBOQ0VGck1aV0Z0WGkwdEFnREs1QzUxM2JOdkE5UTZ0emlKSmJGRi1USHg0R1lMWThsV2I0ZW9URzJ5N0dGWmt6N0J2VjdkVnJHM2RUSXNKV0ZkYzdHaExrbHR5?oc=5",
-        "source": "يورونيوز عربي",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 09:10:12 GMT",
-        "discovered": "2026-09-23T09:44:49.750982+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "المغرب أمام صناديق الاقتراع.. القضايا الاجتماعية تخيّم على معركة تشكيل الحكومة المقبلة Euronews.com",
-        "player": "",
-        "content_hash": "e6caac5a2847bd20d8623328eef011d23027efca97e0596ac534cd24aafced40",
         "sent": 0,
         "section": "morocco"
       },
@@ -802,6 +786,22 @@
         "content_hash": "fb87d7113830d33cf8060b5423d470ed8ba7b73d855ca0c8849a6fc9271a8b2a",
         "sent": 0,
         "section": "morocco"
+      },
+      {
+        "id": 4631,
+        "title": "المغرب: نسبة المشاركة في الانتخابات البرلمانية تبلغ 28,05% عند الخامسة مساء - France 24",
+        "url": "https://news.google.com/rss/articles/CBMi9wVBVV95cUxQNloxY3JsSUhZOFp0elhqM3luU0poQjVGN1d5N29CSW00VklKV24yUVhGczc0bGhtRkczUXNCd1BBQTFBOEhQci1TX1pvZDFCUTZ1YVNrVHVLZ3RfOVpFb0RYdUlkSW80YjBpZE1sQlpfR3B0OTVUZnkzTDdaZjFFeXE5YU1CbjV0LU5GNTc3Wm5CNGNId05ZNGRpWF9oVkpKV0JVMTd0MjFuM094bEJaWlB0a1hXbkxRdHBIWUZTeE5EMm5mbzc5R0VNMy1fMGdHUFM4TDJoYmpVY3ZRMmV0N3VHY3N6dWNRX0x4XzhvQmdpUC1pMGIwR0N2SmpXNFZMNnF6eVljRllteENDTGs1WmNodk12TllObkw0cm1mUjIxS1RmdW16eGJqbzdUQktNS2VfaWl5YlZFT1otbmtpZ1FMN3B1ZUJ2N1lteFMtSW5jTzFPdUNzQU9yeVVLZFlYcHB2SGJHTkRWUlV2ZUZYU2ZIemFrUF9EdTN4RV9ycjl3Z093TnBNYk1ROFVSeEJYeWlPc0kzQmpuYUZPMDR3bXVPOUdtN2hsSTE4OHpHamxpa1d2LTJwUThsa1Q4NklYdGp1eFFxMU5XMkhTa2xBUmhMcFpJVXlPdjUxcGxsb3hKcVdWOHp2X2hzNThBU1VuYnJNcGtMcms3ejY2MTJ0b3U4NGlOZngwdFVXLXF4U2hmQU5vSkhhSlBza2pEMkdPOF9ZNXNoX3FqQnZkV010V3JpSGpXNVVOOC1Mck9qNjd5b3hkdzlOdzBocjVmcDI1XzhDaFBFN3NxWi1BbXFJekd5OGtlMjBSWDBieFhpa1RDS1ZJMl9nRmhlZS15R2VKcXE5eDlNMEpoclU5a0xDdFZMTWJYa3dlLXRTczJzWml6U3BZZmpLQkVYQ0J2Tmg4aEttVTY5bFpSZ0xVamhvcmFhYXJCdWVZRzN5ekFrQXR6Q0VBWldTY0x4RGEwVEdFZmFuUnhSVDQxT0NqaTVHZ2RKdTJadVk?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 07:28:55 GMT",
+        "discovered": "2026-09-23T23:17:38.288028+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "المغرب: نسبة المشاركة في الانتخابات البرلمانية تبلغ 28,05% عند الخامسة مساء France 24",
+        "player": "",
+        "content_hash": "3fc9bbbbc57f3fe01766aa1c3035cf1eaa154e86951776020e72f3aa4cc05c31",
+        "sent": 0,
+        "section": "morocco"
       }
     ],
     "sports": [
@@ -818,6 +818,22 @@
         "summary": "أخبار و معلومات اللاعب امجد الغاشم مهاجم السويحلي winwin winwin.com",
         "player": "",
         "content_hash": "3d5af035a5a229d2d18c2979b8d64c4abf2ea453e43cd9460f3ce48ce7a6f24f",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4874,
+        "title": "\"كنت أراه في البلايستيشن\".. لاعب أنجولا يكشف شعوره قبل مواجهة محمد صلاح - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxNUkhBUTdteUJBZUV2LWRfdEVfZXYyR09YZmZuV2ttczExekZTNEtiZ01NRDFZZHJEVDctcGo1bTBtV2pCQlI3QTBuQTJKUU1sLVVZVFlGb05MeVdKMW9MV0txeVF4amZfWm5XaHhZeDFuZEV2c3RVVG9abVRVNDN0QzItcE5OdmhlRW1PSlFBano1MGV0bjJBN1ZOcDNuVjFSOThqY0UzcnY4eWdjS2ZSMGtDTHI4VzJRM3FDX05abmVJVlFTbjZaN3lMY3VCV2FUQ0ZBS3E1RjVHeFBIeUd3RjhyMlo2NjNJV2hPN1BJUmVsVFJMVVplM3haUWptUHp1WW9za1R3S3VFSDhOaGVoSzdlVmU3RXBQcDNDQlRzWGV6Wm8tN0xJc2FlMzBDWm9VRmgxb2x6N0VSRGt0QkxQTkJJeXhWT25jbEhZSjNpWnpZdGdtT2ZSOU0zM3BBaHkxVHMwN0ZxOG41QllodkhRb0xtZ0RpTVhYbGM3WGwtRTNSZnlYTDcxSzFQb2JxWEd3TWV5N2RmX1Ridjk1ZnptVEwybl9DWm1CWVFaRE0tTUJPczY2NU5hUktuMUw4T3JwSkdqUk55RkVUVVhTTWQwMmd5dWI2SXQ1Zk1DOGM0dWZLSW9qVzJ6Nnp4UHpHY2x4VjZGckdRUFVybWtsZEg3NUU4bEhkdEJaQkUzR3hZQ0hVRXUzeTZWOXdGMnRjbWRIenFJVzgzWlhBWnhXUjZ5X0FCeURUSnpVYUHSAb8EQVVfeXFMT0tlOVRTM1psc0Ffa0pMMnhBSE5CNUJ0RTJLWFdfbnl3SmttLTExbVIzNGl5YS1ETHdlakFDd0NPdzl4SFNLcTk1NEIzWGxtZWZjbC1jUUJ5QTdGcFpReXdBblhWVXh4VDd2QmUyWlM5MHpXOENUWDdOcmtTYjZoakFPMEQydUpRaVBTMFNWV09tc2dLQVVJc2FObFdQRllkODZ2dzVqZnp0MzN1OFJhczgtcGl6dVo3VGdUOEpCekhyVlJ5cDNhZjVtRzA4MndYU2F4QnBVdG5iY1hXbXJ4MU16OURmbnl1dHd0MEF2aXA2OUpFRVkyLTZvcUFUZjY0WHhQcVlUX0pjU2VDMDRFS2hPcGU4QWdCM05VNm1LR0o4YlpLeUQ2UUJsSlJQQk5qSVo5cDJHSkdIN1RrajFJa24wcHZHZy1odWRrT054UEhPNldIaEpBNFBhVmo0VDFUMTlhZVg5VGk0Q3o0a1lBWlBBejMwTjBUdUx4eUtDSDhrQmMxU3JPWF9ZdzYyYnEtYnBYUXZxV2o5VGlxYS1lYjNkVjR6UE9Ub3hqU1Exbi14dm1lMEs0R2RVY2FnYUdqUmJmb1FFNjUtblVVc0ozelBJcklQZ2ZhTlJwSG5Pc3RYXzNsOUdIeWFnM1hOOV9ELTBiMWlNMGF6U1ZpNmU0aHRUUVN3Ukh3bVkxWV85d1drTldfZzJZcnZVbENDMVRDdjhmV215REsyNGJMX0h0RjZWUUlHSTBjd043anVFX0U?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 16:53:00 GMT",
+        "discovered": "2026-09-24T17:10:53.903725+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "\"كنت أراه في البلايستيشن\".. لاعب أنجولا يكشف شعوره قبل مواجهة محمد صلاح يلاكورة",
+        "player": "",
+        "content_hash": "7539353bf653193687590889995ba27bbc1f1ae2b2a35b54de13bada42b0ebc8",
         "sent": 0,
         "section": "sports"
       },
@@ -850,6 +866,22 @@
         "summary": "أخبار و معلومات اللاعب مروان الحبيشي لاعب وسط الأهلي طرابلس winwin winwin.com",
         "player": "",
         "content_hash": "e508606ae2138da1ac1feac17ec84fb167565f5f704a00b42ff5162645f39a70",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4875,
+        "title": "مباشر تصفيات شمال إفريقيا للشباب - مصر (0)-(0) ليبيا.. بداية المباراة - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOQUV1ZzZUd3VUQ1BJOFN4N2FDTzNCemJmUlVTUjU1V0tTWi1vZnM3Y0d3VHhKZ0RxelVEcFc3LVhWSTh3UEx4QUNZeGtwUnJDbHVKRUE0OHh6dElrMWpSV2RQaTFWT2FVLS04UUZON1V2OHhVUjdKTmZoaTNFWi1PX0F0U2dDOTVhQzhjU0wtSFVKa2tqSEVBWHJWX3I0c2FMaERfN05RSldsQVZkMmJ5SUhhaFFlQ1FaZTVoODRFeUJUTVRHMjVJSjJlbV9JRVMxWjlEdUptak41d3dNenBiVFBWQ3dfSlNQdDlrLXNsNHNEU1JrV2tfckFPai1uaTZTTnYtVG1QY1FjV2VyY29kbVhubmtza0NVbjlVU0t1cXgzSTVGUWgwOWpLMk0wYWpScktxWEdPWGR2Zm83d1pVRmMyZU1oYUNvcW5wczNXaF9IRHpyencteE5CellkVDlWM3hOU3dGSVphZGtrdjlnbHVidW5BSUg4bURlOXVPQ1pmSVdXWUdybTRkbmNZaElJZXlOZnhBT1FVaknSAaADQVVfeXFMT2V0emlYZkJieWVaV1Y4cHcwSnBtZUd2Z3FES0xvZ1E0NlZTdVVTdUpyZW5YU2dNSGh5dVFuUkR4alZEWmF2NEdkdDVjNm1pZnFtZlFfNUh2Yzc3MFpHNl9YdF80ZnZ5WXdqbnVvVzNaNHJzdjJCbGhxdTd2MW1zZVZfU0pvbjRBRm40eGFhTEVCd1J3VHcwQXVMRDJzaXRUblZWdFJ1b1RpUVBCTXd0dXVCejAzc2lkWWhKdElqcmNwUVplWGlfclZjTzdBZi1JdmxoY0s2WXFEUE9Lam5lM1FBVnpycnJDN1lXUFNla24xd1NVNmJ5VFFsc09Zem1xNUQxV2tzZnpCZkk3anQySGpocjU2OGs4MnZETlFBR2dLZWJYSTN1YXlYRzdWd19nZlYwYVBXOElEMWNSVTFDcWZvN091UE9xM1poMzBnQm9DUmZHd1dJeDc3aWxKMWIyb0pSNDVva3doallBY0RmTko5VDBCTVJFajJSNFpsYmpYeF8zc1BBMkN4SGVudF9OTUxfRlpETXlWMHRQOTZRSWg?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 16:20:00 GMT",
+        "discovered": "2026-09-24T17:10:54.588655+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباشر تصفيات شمال إفريقيا للشباب - مصر (0)-(0) ليبيا.. بداية المباراة FilGoal",
+        "player": "",
+        "content_hash": "5d62490b9128e0578b10db360a3a19d759f580b8d8cec93faf215ccc770d5032",
         "sent": 0,
         "section": "sports"
       },
@@ -1046,6 +1078,22 @@
         "section": "sports"
       },
       {
+        "id": 4872,
+        "title": "فابيان رويز: لماذا لا أفوز بالكرة الذهبية - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPd0ZUak5ZTUttQUhCMG9iSjN3UDVKOG43RWdLTVUtNU1mMndaMGhLVEF4LWxkWl9QaUphNVJ4dlZNMGZ6X0k5R25SaTFzOXFzYjNHTEYzX0h0ZmxWTkI5WFNRUk9jR2RmczdOY0lKS0lTTVVIRnJKXzRxNGg3QXZXSHAzRHhzT2JXZ29oUXpuMG1GSjljNXlUcUtCb1dOMHNpM0taNTZPNU9SQ1VJT3RRRnlPdmFvcXUzQ3F2c0h5OVF3enhMVVVKcHJKeUhvLUJZZUlBZmtTel9RZFF4bDdJYVFwSzhfYjR5U0ZtSnJCRTdYVG9MX0Y4YlJwemdQSGhkbXVrZnJ3TG1iU2pGMnlxTmtSLUNyZ2FDMWlTd3FJMTFkN1FBaXVyUzNHdXpCaXhRZ2ttR19vZ2dNLWZXaTBOYlQweDhDMndJT3FjdU0yZ2dvT1pBbzBJTE5VVElnTmt5LUE0WldsaUZYUldYLXczQmw5UQ?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 15:31:04 GMT",
+        "discovered": "2026-09-24T17:10:50.237352+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فابيان رويز: لماذا لا أفوز بالكرة الذهبية الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "99c54b7c91c67ecedef35001e33dfa8980f737cf2b02296fc24fdb69d02214f7",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4845,
         "title": "دوري جوي للنخبة ينقذ بوستيكوجلو من مستشفى النصر - Kooora",
         "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxNSHNZcm13dFFNaTlvdXAyRTEySDNXd3lzQ29mSG80WEU5b19xUWVZeURUX0FtLWY5QVNET0pybnRkNnBjSHJxaEozOUNHdmNfSFAtRlBKWmltakVzaDk1RUN3N3RDck9rd3Z6UUdfNVViV201bGcyZ3FBbU1oRkE5V2N5RHY5SjJFQzFnUE1hUTljcDMwbUEzUkNQRnFiY3NzUW9Rbks5XzZOMllsSFNLMElCcWtEeVJ5RU5KYl93dXpyOG4xUVVlY2ZsMlF2a2lEOEo0Qnd2NnBYbnhwOVZvNFVrUHQ1VnM4MzBqYkpBRE03ZXJfR0x6Y2h2N2o5em94eGl3YTc5NDNaeHgxcWVNLV9ObVBDV19JeXhfR3JBZTNFYW1QSG51UExYcENWbWFXekdmQVRuNzJjTlVGeF96ZlFwUHM4ZEFrbGVoUENkYWhZckhJdmdmdjFjNXJqNkZvZFRrTkRHbDZtWGJXQWc4NUxoaFM0MjF0V3ZCQ2J2Vkg5YUs4UXlMSGdqVEtyQlU2ZHlGTFhaMGd5XzNnVlFjVFB2VXRhMk0tZUhLTGlIVkJWQjVlSU9HTGZQcVhTNTBYZ1IwV1pUemJkSVFCMjR1bTNoM25Ia3VPWkZlT1FTcV9BYW9mQk02RFFwNUJMRDJSb1phYzhZdmVuWDQ?oc=5",
@@ -1058,6 +1106,22 @@
         "summary": "دوري جوي للنخبة ينقذ بوستيكوجلو من مستشفى النصر Kooora",
         "player": "",
         "content_hash": "6e1414e5619b8edac4f316b2441591e240f52aa15f9a5aae37fbc672950fd81b",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4873,
+        "title": "ألكاراس يدعو لإنهاء المباريات المتأخرة في البطولات الكبرى - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxOMUJnM1h2U3FEQWVURWdTbzR5UXdkOERuYUtfY2Vxa3FLZm5RQ3FqV1ZqUVpYRno2NmdMdmd3X1dFYVRkUm9MWGZ5OXNfQjZTczhObGoyMS0zM2Iyd0J4dnZWYWFVU1Vtell6VnQ4UTc2ZjJtVnBLdUxDejdTM1loWUJid2FnckF2TXBmVTNaajhxRHJER04yY1dyR3hnOURKcTkxWm15QWwwWnRvb3hDdGZLZF9YcE4zbTZKUkU4WGd1Sm9rVUtTQ0haZkw5ZjBSSkRWMy1IOExsNDY5anJuQUhBbUtILWRkVFlCcFR4VXRRamV0ZklTdGJMMkZnZ1BMdHZkbUtUM0ZHVGxYdzl0TTF4RnJKYUZtaGl4Y2s4S0hweTlOS1hESURFSkJNR05OODZ6aGI2Vmxkb2xzOGNxTC1pVThnTXZCdzFlSzVVdkhZZV8tNklDLTd2bjhnYWtJQ1ZrbjJCYUdPeGhBdWpQaUNhM01fbm81R3ZOM3ZzMWN6ZGF3SmpLOHVldW5ON0ktQWZ6UlNzNkRRVUVyWjEydS1MLUNhWTE5ZFBNVGVPbkozaFpuekxIdHBuVEVkamc0VDNTNzExWEJvRUgydDAtUTZITGlzMzRST3UzUHg2Yi1MUVBlcjlYcGRSZVRNQUZWYm9PaGtIdjh4WTk3dm9xNHhVcFhlMnk3QUtvMTJ4dGtuRHFHOWtwb0NMeDhrLWwtR3lFWTRWRzVrSUJrdi03VnViYkVScE9kN0M4bjN2RnplcXdiRzg1c2p6YXJaUXk4clJ5NmVtSzlydENFdGtKblJEVEgtWW0teExFWGpR?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 15:29:35 GMT",
+        "discovered": "2026-09-24T17:10:51.328531+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ألكاراس يدعو لإنهاء المباريات المتأخرة في البطولات الكبرى الشرق الأوسط",
+        "player": "",
+        "content_hash": "f6ce17d2c6f1a78b5c06bd0ebcf458d9d6f9da5205994519a08904bd2d7ac184",
         "sent": 0,
         "section": "sports"
       },
@@ -1538,70 +1602,6 @@
         "summary": "بركلات الترجيح.. منتخب مصر للناشئين يفوز على كوريا الجنوبية في دورة الصداقة FilGoal",
         "player": "",
         "content_hash": "040661f528303b58b2125766ba555a72a5543c2d44a973d2343797dbcbd48e10",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4777,
-        "title": "الدوري الإنجليزي.. الكشف عن المرشحين لجائزة مدرب شهر سبتمبر 2026 - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNMmhXcVQ1U0tRY3JQYjFRVHhRSXBWbHVoWk5oR1BYUy1mZXFBVUlmUzRXOFBBYTQxUzFVb3I3UXRVS2plVDFLcU9rOFVNb0sya3k3U2lwa2lTVS1qM2o4dE83dVJvbks5UEZGLUc4YW9GaWgxTWZQM2JvdXJRTTN1ajRsbDR0ZWZZSFBzUUZmbFhwX0xtaE5kUTB3RHNyb0pacjdUMWprNWk5ejAtZ1Uwc3g1MzRJVXM0T3J3QTUzeElTTS1CcTR0WTRYXzRCaV9QYXdTaWh6NHJkVkdoTW5ma1Bmb2ZyZU5IWW5TUTdaUFdHbG1JWkhkUDdGRGZMSnkzRzk1SG8zT200dFJlNWpWZEEtS0VDQ2w5ZElOcmNsbXotRXE0dW4yMVlkT0NWeW00aFdvUHRob0NpcmJhSEc1a25tM2VYRlpBM1RSdy1NU2JYWEQ1X0ZOQVMzVlh2VDcxWGRybkdHSVpWMUhWcXd2SEZSYVI1MmE1MnJsYnRnWUEwT280WFA3SUpJYlhTVVhtWFFjWUk1OVZ4N1pRYlVjNFctVjdyOUlBamFZNm1MbDlUamMxMWx2M2lUZkhCV1p6MUpDcExTM0hvNlZrQWxsYTloR1YwTkFzWllnbF9aR2hIUmpyUU04WmtTdTVLTnQxeldySNIB-gNBVV95cUxPS0M3NUlGNnNkT1hOb2FZeTlVNjcxRU5DLTc2TmJZYjc5S1V4dVF6b0NkT2xqNlR4N1Y4OEhfSVRPT1F5VFN0MmQ2bXNLSGdTQ3FJcXFoSFBiWXdBZXZkOGVERmhScDVDU0Y1U25aNG5WNE9zd1RsQzJyTms1aW5HNUQzeFBqUDFEWjhtZUJZSVZ4R19jRGpvbVBULWlBNkNfVUt4c1Y5SC1rWE9RQUNsTFNHZjlTT3FwQ0QtUXFMYlFYTGpuMHVxUWcwOUFOR01abmRxQUxhdU83TFZGWF9WWHRwc3VOOWJKRUlWZFVCQ3BEX1ZmeWFadXZENmpiOF9YcVNhaXBnOTZyRm5kWmpHMTZpUlhBNFJvTkpiWk1uNVlNUmQ5ci1mc1VSbzJNU2xNanpXR0o4cjN4cW5MMjhWcXNmS29EclhNTGR3b0J1VVdQM2pJOUQzd0xuVVVqUzg5YkUxQjVSUmNWM0pGLThFcFEzRFhnVlVVZERnYzk4SzU5Q3YyaXdPYmdUMU1CeXZaOXE5YXNVN0Zndlp0bGNrQXV2MjJlQ0xDSFRSenZuNllJZVlic1VtZ3ZkVURZdUY2ODljOTAxNjRFMllrdzRUdUk2eVc4ZGtfRXk2SklGaU84RTdReC16akYxSlp1cjlXcWFnTjBLdmFPQQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 11:48:00 GMT",
-        "discovered": "2026-09-24T11:57:02.550429+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الدوري الإنجليزي.. الكشف عن المرشحين لجائزة مدرب شهر سبتمبر 2026 يلاكورة",
-        "player": "",
-        "content_hash": "911b1c4171e82f79b3717bf69b5959959658d4bfb73a66eee7b496cebc76fe86",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4784,
-        "title": "موعد مباراة مصر ضد أنجولا في تصفيات أمم إفريقيا.. والقنوات الناقلة والمعلقين - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxPeWJleEVfNGpON1RPVTZYTEZkb1Y0S00tLTVna1BraXoyRnoyMUZfeU10QzlRbk41QVctUjJEd3hHOXRLUUF4TS1aS1VOREhlQmFtXzhEMDFIRmROVGF0MDB5Vkl6WEhGY1hvQVVBYm5zcXJnVTUxMzVNYlkwQVRLbFJpZlFBcEJvem9rYVdfWmkzckI0TVM5c3hpOEdURjNaQnFwbjd5LXVnRVh2RmMxRWJsSFk5YmtXOXBIVmt4LThHa2lJUWVuV3RJRjI0RFlmWW9xRGt0dm4yT0ZBYXpMek9GUC1LQzJ5TklETWNpQ1JleFdwLUJyX1hhUnp1Vk9Ick0yeEtyaGtpbTY2NzFwaW1jS2xfdjFCckVfaG9BdnN3N0ViT2xsSVJCYmR0SFI0OUJDWk80TkN6VTBrODRhQWFXSF9kMTBDLXRXMFJCX0Z2SmdQb0ZiX2hCTVlyV1FfYlFsb3Jxb21nMWRMcHZoRnQtbzZTdXBURG9DUlNwX1dUYXE4cjlodkUzZjJrZFFXVjQzY3RaNjNsaUZMd2hERE1vWmZuRUZUNHV5YlZlRUU1MFdxa3V0YURBMjNSd0R1d1NNLVFOS004Zk9zRXFqd0ZUZVZZbzlnZ0t2d2F5VlFBc3Nsai1aYVRGOHB2cjdLSThFeTk5THdlT2psNEJXUTNmclZveXhQbnVfQXFmcFVrb2NYM1lYUVk1Y256eEVMTjNyT3V2SXBYbnZVeWt6eS1CLS0wcGJpYk1CY3h2bGjSAd4EQVVfeXFMT2tIZkdnNVJ5NzVrcFNGeUp3QW9XWEZIeHgwX245MkFNQ1QyTUFoa1gyWmhDWG1YMVQxVjc3WGwzaHctVFo3NjFKX2NuLXF0aGxVZXVnaVBBTzRQVW45UHdsMlRFWkh5eU00b1R1M1lHeVdOVjI1V3F0d0c0a1AwR1Y1cVJpY1dUdDZLdW9YZWxaT2pJVlFIYjBtaHpEMXJfcFl1QnZYdl9XLVB4UXVGbExvQW4ybG10WjZ2Y0tqQ1hRY3hCdU91bWVUc3RrUlRoa1QzbFh6eDg1dXZreGRyNEdsX2VSYTVqd0YyWHpHcjFxWjNtX3Jhc2FyYllBdVVudGtqMWgySHlfSXBsYnpaVW0zSEQxZ28yMVJJcFlCZ1ZTcV9vMkItc21PcHFZLVNJNDJQS0JnLUZ0dmlvc2x1b3Y2M2tuM0h4c01RRnBTbHozblR3RjFfZkZaR2lKREh6SlE1aHNiWGdwOUlyeG1WRXFreWlfdlFfV2djUlQtZUxYdFBsX2tsbWZlNkUzRXY0bF9xd3cxZ09uN1o2Qmo3RjBUdnBTWDZiVmx1SndTek9LdE1lRHNuN0RSb1lvS2xxdkNmd24tQkxnUlZkWDFfOFR3RjVkaEdxM2ZwXzNxSVQ1YVVjM0F3V29PdktGNDVrTWN2RWNUQ2djYVNLdE1XVzZqalVELW54U3h3WkVCcEZMV05mekVfNUswZTRXd1dORGg4a2JMenk3Y3pNWkRXWVFCclBFS0x1SHhKQW1fQXpJTzE0TkNQOTZFV2NPeFVVczBwcGNyNjRvZ1hYUHVn?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 11:37:00 GMT",
-        "discovered": "2026-09-24T12:14:12.227563+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "موعد مباراة مصر ضد أنجولا في تصفيات أمم إفريقيا.. والقنوات الناقلة والمعلقين FilGoal",
-        "player": "",
-        "content_hash": "2602b79d084d748ed33ee0f336febeea49a456428c2b4f0f988eb7b71e6582c6",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4776,
-        "title": "الموعد والقناة الناقلة.. منتخب مصر للشباب يستهل مشواره في تصفيات شمال أفريقيا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMihgVBVV95cUxOOXBLOU9TY3g4azZRemhQS0hlaFEwR3dBd2IxZ0xPdXFjbGdDWWY3UHFnNjFkc2hIdmNHSFZLdG91SkRhZU1lQW1vV1Z1ZF9sS1lqR3V2R2pVMldGaDgyY1VxR1RmNnFQelJCSnNTanBMS2Fkd2I2SlJKSVhmYkxJZmk2Qm93Wjl6cUhVMHBlY1lqQWN2WXBjWFBoeGVOdHJfSXE3VFl0TXJISFdjUm9uc1g3SWJNVjVjYWRqdFZDdlZNbFA4SUdPdWczaHlXV1VXSFRvbXpVaW5BdVhTeS1QOU14M2JLTFJuRGtYMmhweWJwbW5TWUhsVjlmcDVfR0pUNjllY25ib09td3lXbzA5eUMtWUxvYTgtOE5NWDRZTlFyeF9hRmJOck0xZWJWUGxZUjVmbWJUZlJqeTVLTmdyQ1g3WDA0dy0tNkFKeElKYmo0dnNBTTA5bnZUOVlOdTd1MHpxUjdwQVROQi1yRzRjVFFlQ1FYNlZiR1JXR1RZa1lBX29Vc1lCQS1wLUFTRENSWWZ1XzZwVVFfMlduWENLT09Ca1NBazVHYzFkWFd0UWdDZGlCVHQtZy1HUldLMkxZTlhHMFIyemlRd25ka0lURU0zSDFuQlIxQUdIc2lvM0xCcjFXejFrYzFtdUZ0NUNFWEdaMGNUcE5TbUh5b2pTQV92RWJ5a01mMldLZFBUaEVuUkxrbUkxZHlqQlhBdkg2Y2liek1wa3ZmRFlYdkJwXzM2azBka3BLZzhRV2VGM3pkSnVfMVl5Q0M2S1d5amMxMFJabDh0SnFPNkVQaEd1a1lSQVVZZDhSSTVsSDZmT3hyMktWNTRld0xTLWpTZzRYRjMxNnB30gGLBUFVX3lxTE9rWTRDbVg5UWJxSkJsLUFGbXZFLVJ3U1p2UjRfakVVTi1PdW1naDU3VXd5UFQ5ZEotMFA3QVlpVnNWOU1kc05WQWk5YzEyMFNURWJmTHNDREpsTWsxcm9VaTdjNGx0TnZoUHpVU1E5aS1mY05YMGdaaHZJT1Q5SExodXRPV1EzTHJ5OUJwTW5weHgwQkd1VlF3cGdBdzM5dmpRN3F0WjIzUkxFQThKQVBVNGY3ampuMGloUVhpdEtqLUx0bVhzWGxFMEhTaVFZS3UzeHg0YW1KNjRvWUhnVUZlSDlQMG1OZ0g2dUU0YmhzS0pLUFJKdTM4UkxaemdjbG1nTERVaktNNmZKdkFmU1NYa3hSUUl0R1psNmRVUThCQ1hDVlQwSTlqWFJCWFp4RllkS1c5Tlo5S2pJNnBnNFo5YlZXenRwUEg1SXVJaUdVRWwtSkEzMXk0TnlmamxqcjN6dmFmb2ZxLU5FVkVjS29kUmhrd3pyQm5NQl9QX213cUJ4N2V5c1NBQ3pvQVZNTC1xckoxR0U2eC1NRnZ1YUszclVwN1dYc1NVSlh4dFBoaTVMRlpidmNzQTk4WDNxZkFnNUJLMy16UmRxSTBTbVZraERGOTUzampVdjI4dUhyeWhWM1VuZzNkTnBRb1puM0U2WHlueUJINEIzTmhsZ2Rrd3Y2Ry16bnFOczRqM1FRVGl4U2JxYWNyVUZZTFFHVU8wZWszT0VJbWh6TEdjdDFLODY5WnhWNTNTa2ZfeEdWNnVIdWVoeGdLbTFRNy03ZGNsOUhfZHdrbzUzVFlGSzZnZTNqZUkxWlNOVWhTZmNRdzFNcTB4OFJoWTFMaC1jUDFJOG1HcjNJSmxlWQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 11:30:00 GMT",
-        "discovered": "2026-09-24T11:57:02.536957+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الموعد والقناة الناقلة.. منتخب مصر للشباب يستهل مشواره في تصفيات شمال أفريقيا يلاكورة",
-        "player": "",
-        "content_hash": "e7821f982a3c982af6b39eef37192e45ff54d430f47a16ab64dfa22ff75fe22d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4773,
-        "title": "كأس الخليج - أيمن حسين: إهدار الفرص حرمنا من الفوز على عمان - filgoal.com",
-        "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOVzQ1MjZmcVhRN1NkM1E5NGlqWmQ4d3I5VnMyMjQxM2pnbzJWOHY0LXVaTXM2SVFsaFRSU1kwZU5FdG0yM21uLUZTbG4xVDBkalJZNFNqOTN3bHYwZVZiTkotT1djWlAzTF9GVERuaVNwR0ctTlhTSG83ZDFjbTU0ck5jc0E0dkgwNnlIY29HaHFVdXRNZWNiczBKb1BMdUJkQlZYVEhxLVhNTFZvUlJ2aDJDS1Q3VVJMUGZFcTRlZ3FURFdUQm5zdWRoRkxWc0ducVpKSWdveFg2a1lrZDNpLXNQdlRFOEJMb0c5QTcxUHlISGRCc3lianhyVWU3dDNaSkpDeXY5SVN0RzM0NWlHMGRNbk83dHhVSG9SXzlFdDRrMDIxTGNVWnM2U1RBM0Z4Y09XelU5YzRPSUZTa0JJV3Q4YlllTFZPeHdSZFJhVVBldFZWbFpKUDZHMUJ2RUJIclZBdDZ2LU1oYllhYlZDZVRJMmVoRWJoWnZXNnhRVHpGTW1jRnNPT2ZBSWNnS0NpQkI4X2owcHZnTWI4OEg5Qlh0cFhOUldRZFNPdHVqeTJDS01DelY3Rk4wTTNsU2t4ajVXUUZsUlNEdU5PYUtz0gHUA0FVX3lxTE52V2F1U0ZFUzZuR19lRDNiQnRzcVZpdlJpaXJFamtaZEZ3WTNlSUdhd3A4R1JqcWdVZjhGSEtqZ084R1NGTUJIUDFFWjdFSkhtakVqZ2NkN2hQdDltOC1JVVNIbnc0VDc3T3BEeFdxY0dILVZOZC02QkpOMVpGNXBCNGx3YWs3cTNIZl9NSE81NWM0eGpkbUVLajVxQ1FBWlMtRWlXckZwZGNiUVplOEFwUUREYVA3bDNNT3ZzUDc0bTNmV05Nb3JiRktuNmNzT0ZTRjZDWlJheTkxU2E4T0FWci1wY0w1cjFJeHBLWmhhYjVVYUM5VmdEQzAwZHBDXzFhUEhOaDRBZmhXaFNhUVlkbDhoOTdwdnljLW9CT1ljVUhXck1seXhhcjBxbG1CRUM1RC01MmpSb1pxd2ZENFNBazY3eG9MSEFyQlp2RndpMXBSRGxYNkU5dUNjVzVzUzNyRlBFODNPSXFReDlBcW0wRmdFMEUzdkplcWdCWEE4bmlTLVR5UTNSdW9iWDdoZWhvRG04Vk9FZ3BXdGRBdXkxZjR3d2xZZ1NweG9wT3VmRG1uR1lUUkNjTGpFZ28xRDZEQlZwcS13dkRVbzZJSFFsVUVhdw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 11:24:00 GMT",
-        "discovered": "2026-09-24T11:46:59.872737+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كأس الخليج - أيمن حسين: إهدار الفرص حرمنا من الفوز على عمان filgoal.com",
-        "player": "",
-        "content_hash": "41613f3a9a307a24c67e88f9b15d74631a1dff6efeb718bfc4123f969ffd83cf",
         "sent": 0,
         "section": "sports"
       }
@@ -2262,41 +2262,25 @@
         "content_hash": "c57d6fce3841d5244f37c1aefbdf6a0ec93ce35fb9cbf2625b05563c5a849f0a",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 4772,
-        "title": "حياة على الهامش - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ndWMyS05URWRNQldrV2hsWllUMHRSY0I1RTNTOFd1YkV5NkFNQ3hPS2VieVJMVGVNbjJEdHRoTVJqZmVBOHVVVw?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 06:30:42 GMT",
-        "discovered": "2026-09-24T11:46:50.264565+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "حياة على الهامش - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
-        "player": "",
-        "content_hash": "16590d7cdc5f9e0151f8220be4bd52633be333d81e946d5aca377a7c52493cc2",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 4524,
-        "title": "خطط أميركية لحظر صادرات الوقود لضبط الأسعار قبل التجديد النصفي - الشرق للأخبار",
-        "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOZDhEMzI4Nmk3NUhheTR0OWZOR25qZ2JGd2VvMVNmOGRVS2pEM0R2N2dLNTlmNU9YMUw1Rmtwa0xTWjVlVGpSSncxajdNT2FJR0gyRWVsdmlxNnVOcEtiR3dvcmFCdkREc2hxWHM1X1JtVnZpTGdfc1pxbER4RGtEOWpwdzNscklvYTNnSVBHVGNuMmxvYzhjeXAzNlNhdUVyMGdOVlVSaU5Gb2QzdkoybUNSUFllSUlaMURUTmhZWGwtSWxrWDF0QlQ3eXU0NjdtR1N1Nnd3UlFNc0ZuTjdhOUFMMnU0RWhmRnllY09XWHNubVBKcFJ5Q253ZnZidlBnTnFXY0hBbXVWUF9ROFZOZktfdXpvWFBoUXZVRTlwOVlETi0zZms0Tl92SjkxSWMtbHB6emZGYXA1Qk45ZVRPZWZVZHNTaE1IWkVXUTVfNUFDemRqMnE5VFNWMi1CRnFQaGNMOFNwS0gzd1lMWVZ3VXpfY1ctUGZFalFnTVh6NlZseHdRYU9ub1JXS1BnWVNSdlZRbTRYYzY5OXRpSk03YnMwa1Q4LTRMWnJyWHB1N0lDOG5GUFowUjJOOTNIallERVV5TEpObDlocnBDdXMyUVA0TmtFbU9GUEFhV0Z4UnBoM09EUENIaUJ2M21qa1Fz?oc=5",
-        "source": "الشرق للأخبار",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 04:52:04 GMT",
-        "discovered": "2026-09-23T16:53:29.198209+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "تجديد",
-        "summary": "خطط أميركية لحظر صادرات الوقود لضبط الأسعار قبل التجديد النصفي الشرق للأخبار",
-        "player": "",
-        "content_hash": "c7124953fae8b84645565d8d890b0654cc21479dbc50a8736542c6876ce66116",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
+      {
+        "id": 4877,
+        "title": "وزير الخزانة الأميركي: نحو 80 - 90 % من الرحلات الجوية الخارجية من إيران تم إيقافها - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQVhMMENSY0hKWUZpLXlHcGJNUURySFB3bFJMMUJUWU1XaDA1emw1ZDdvbTN6V09WcVN6Z3BRaXZWS0tDTHFvWlFfSV9LdnhKdTFocUgtbkR5a1RFWVpYdUkxOUpnQWNFZWpXdmV1bjB6QnZFNFhCRXh4R2M0Tngtb0t4QUJPdDZVeWd2Y0ZaNHdZaEh0UHVrcU92MTdKdkZUY2RWRHNCZm1CZG9BT3Z4MzZ4dnNtelNibUJDOWU3d3NJSU5kNjVEU0lGQWVoS1JIMk5rWE95OVJ1aG94enlzbGQxT2NKWkRNeWk1aEVwaEdBbUE?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 09:08:01 GMT",
+        "discovered": "2026-09-24T17:11:03.701335+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "وزير الخزانة الأميركي: نحو 80 - 90 % من الرحلات الجوية الخارجية من إيران تم إيقافها سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "d9e753f74ff64614c7a91dc7908aaf1d9b3ac5ad073e5f9f37998b466ff6b687",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 4614,
         "title": "جدل واسع في الأوساط القيادية الفلسطينية حول واقعية إجراء الانتخابات التشريعية - الشرق للأخبار",
@@ -2347,6 +2331,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 4878,
+        "title": "مباحثات لوزير خارجية العراق حول خفض التوتر في المنطقة - alquds.co.uk",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQd1dzRnBkTnBQeU4xTUhZQWhlZ0lSZlRKVEQwaGRtZEppOXl1OWdjTXpuN2tCMjBHNnhMSTM4ZzRJYUU5S3U5X0hZbGhOSlp1RkE3M1JtM2ZEWEFWbFkyaUJiRmJvNzBtcVROZFQ0N1RQdTZkYnBPeEJvaERKT2hEekwzM1BGR0hlRHR6bEpfdDd4RTJabXFDa2JGclp0OC1SV3owZ0Y3aXY4N2stNWVEWnhiU2tLcV9rYXdDV0V6NUZuZTNIakFYUzI3Y1RkdXA5VU5UdkstaGNBeUplenRmLXZ1MngxbzZkRGtsQW0zQkI5d2lKbzBRTnBWSXlSVW91VUw4QUxwRURuNS1iallfeXVHQldoMXNqSHh3MEdTRVZEUklENFNEdXRkRmY1Y1NOUkZjTWI1UVhUVG02TENka1NFazJJVDA?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 15:38:02 GMT",
+        "discovered": "2026-09-24T17:11:06.517686+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "مباحثات لوزير خارجية العراق حول خفض التوتر في المنطقة alquds.co.uk",
+        "player": "",
+        "content_hash": "627010cc0c3d266da1a49195d65fa8aa881e61d2656f8b1f048db29a302cbc49",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 4800,
         "title": "سي ان ان بالعربية/سابقة \"تثير المخاوف\".. لأول مرة دولة تعلن تعرضها لـ\"اختراق بواسطة الذكاء الاصطناعي\" - تطبيق نبض",
