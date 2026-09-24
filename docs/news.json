@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T03:00:51.866595+00:00",
+  "updated": "2026-09-24T03:18:28.031708+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -48,6 +48,22 @@
         "summary": "وزير الداخلية يعلن نتائج تشريعيات مجلس النواب في حدود الواحدة صباحا Akhbarona",
         "player": "",
         "content_hash": "80eee831c7aaed82495ad51a09b211c73e452f6fb544b2597395c23bc37d011b",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 4668,
+        "title": "الأمن يطيح بـ10 أشخاص بتهمة التحريض على اقتحام سبتة ومليلية يوم الانتخابات - برلمان.كوم",
+        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQeUpNOGc2bWNWeEtqRkx5ZmExRlFYcm5NbjIyYk00RmJDWWUzN3IzLVVzVEFncFh1TEdlSElvMzE3Y1hBaW04NzNmaF9zU0dHZHRMYnFoMk9DTWt1b214TWNSdzFLUmhjNXNmRWZLNEVWV2tRaHFudGFyQUk4dWpyM1Y5akIzdlBHUlo2SFZub0F2OXRXUTZvM0ZsV2M0d28ySU5FVERGcFJ1aFAxc2NwTlZuWmh2cS1leXpZQlhLZWpiaFp1Zm5weFFuNnZEMndaeTJSMmY3eFlkUk92V2JpT3BNaXJON3BVa184RGk0aWZzQXljamNFajRBNm9iQklTS0Q1ajhIdnhJc3hpRmdZZmlfX3dSdXpFbnV1YjdBcWo2UnZMVXNEeXkwRkFhV2l6UXlSMWxaeENJTEdJZUE?oc=5",
+        "source": "برلمان",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 21:10:45 GMT",
+        "discovered": "2026-09-24T03:18:02.602482+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الأمن يطيح بـ10 أشخاص بتهمة التحريض على اقتحام سبتة ومليلية يوم الانتخابات برلمان.كوم",
+        "player": "",
+        "content_hash": "8012b66b3e94b91078b7459f13ead18a5a73fbd4cb535ae930dcbdcf47edd6bf",
         "sent": 0,
         "section": "morocco"
       },
@@ -2148,22 +2164,6 @@
         "summary": "خبر في الجول - الزمالك يتسلم الدفعة الأولى من صفقة بيزيرا.. وصرف مستحقات اللاعبين FilGoal",
         "player": "",
         "content_hash": "76de6a9d997e7a1d58be0ff617da5302b33e5f55388c5be70f4bf35472a990e0",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 4247,
-        "title": "\"محتار بين إبادة إيران أو إعطائها فرصة جديدة\".. ترامب: أتوقع اتفاقاً قريبًا وواشنطن الأقوى في العالم - Euronews",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTXNrMy04ZlR2aXdOOUxSSU5TeFF1THNhV29Fdi0yNG51VEJXdmxGajVRX0VsZ242OTZjOVRCaDFaYUtzenpueWdmcEtfaEgzZk5SMERiNk9hSTNVaklsdG5hNGRtT1llU0ZKNEJLTFd3eDlvcG9FWlRibGxDX1U3NkpsVl9PeWR2eTctdWI0S1lLX2w2alk2bjFXZTd1aGVOa1QtUUN2ZjVWb0lfbjFpN0xDTEVsYzZZYklLVmFuSGpVRDFLY0E?oc=5",
-        "source": "يورونيوز عربي",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 14:34:36 GMT",
-        "discovered": "2026-09-22T20:45:54.478129+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "\"محتار بين إبادة إيران أو إعطائها فرصة جديدة\".. ترامب: أتوقع اتفاقاً قريبًا وواشنطن الأقوى في العالم Euronews",
-        "player": "",
-        "content_hash": "76b568d2e73d76fd4f900022a2775ae865bbf7d59f4fda5f2494fb62ea74bdd2",
         "sent": 0,
         "section": "transfers"
       }
