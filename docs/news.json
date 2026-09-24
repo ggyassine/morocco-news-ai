@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T21:39:42.054412+00:00",
+  "updated": "2026-09-24T21:48:50.740488+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -612,22 +612,6 @@
         "section": "morocco"
       },
       {
-        "id": 4501,
-        "title": "الدار البيضاء.. اقتراع في ظروف عادية وبانسيابية - SNRTnews",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BMF9BRHZOS3M2eWRvN1o5QnF5Ylo0NWZIRFFaa1ZtSm1nYzd2Wkp0Y1hrVnB2MjlzSmU0b2hGOGhRN185aExjbzhLOA?oc=5",
-        "source": "SNRTnews عربي",
-        "trust": "A",
-        "published": "Wed, 23 Sep 2026 14:34:42 GMT",
-        "discovered": "2026-09-23T15:55:14.771305+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الدار البيضاء.. اقتراع في ظروف عادية وبانسيابية SNRTnews",
-        "player": "",
-        "content_hash": "d0584a1e88f42ef99bd25f603812df0e919a7b06f04f8ab426aa6b1281112581",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 4574,
         "title": "عاجل: حريق مهول بالمنطقة الصناعية طنجة تيك - Le 360 Arabe",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sRUdyQmN1Yi1VTFR6Y3Vjc2J6U0FaX2FXQm5JOEhFN2tzaUhKcllFakRzUFZINlB5ZG9FNmhrdnFZWXdxQTZwVHFGUFdXc1FENTMxUzI2QUg4b0oySkM4dldsc0ZFZw?oc=5",
@@ -725,6 +709,54 @@
       }
     ],
     "sports": [
+      {
+        "id": 5000,
+        "title": "تصفيات إفريقيا - تونس تتعادل أمام أوغندا.. ويالكويي يقود كوت ديفوار للفوز أمام غانا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi-gRBVV95cUxObkpLbnpFQ2xJRnVsSktqNUVZZ0RLa0MxLVNEZ3VZLVotdG02Qnd1T29BNlBjSVJHRGUtVkZzVmw3WlZodnRsYnVnVjVwSndRSXJfNlFuY21EdGdySzNmQmdnUHNua0ZoUk9ZMjNYUmg5MFBiSXdQZGZ2VWFLOXBJcUc5ZlNSOGlIcHZPMWF3czI3S250V3EyOE5sTUcxWEE5ZU9pdmNRS2ttZnFmUngtR2ZfS0RzRFdhUDZLbE5QRnpRYXdaejZSaVZJM2JqOUZuMklRVDVwOWx5Q2k1U2M0NWtaTThiM1JpSk4yMW5WX2d2dFY0X21CSkNoRjdZcHFFUHUzSWhOQ29UUXREbmxKMkl5VktOUkNCUWtOa09rb1VKRUNLOXdqZjUtR0h1MzNIdFo2TS1tendROEdJMFdhb3B4VTl3Q004NTE1MWdtRjhKTGxfZXN5LUdKTzdUd1VXWXU2T3pYUlFMeS1RQjlGVXpVR0FqVU5PRWxTaktmeElRX2REWXMwN3cxN3JFdUU3LVF0R1lhVmxxeG1wVk1pdE5kSWNyN194X0M1S2pMNWoyeWpMRHpyb1NCOWRzLVlwbFpwWTRNdVVNNFMybDJ4QkRTN01pTVIza2UxbkUydFRxeWplT29qOFBzMk9WUmpNc1RQancwUDFSRElNaXJmdkN4dU1HVjBNRElJT3YxSmZwNFI3cHQzSERsYWVBTDM1SkNwY1FWMzhQTzNDaXVwbWFYY2VPSmxXRXEtY2I5bFRNY0dZSXZleW5iN3doV1lOSmQxdmozd0laLVhJQjgwUjVrSHlSU25WZ0pNb1RaampzV3FVMzQwVllB0gH_BEFVX3lxTE1UanhrYng0aEwzZ3pqWVlDakVhSGp0RHNBeHVtcm9EMkJvaDVaRzhXSVY4Rm96dFYwNDFsSEJfRklETTRGTDJfQUVyN3NIalo4VTltUHJxang2ZHNhSUtYWWJ6T2M4UU9na2ZYaXNuU2huUWhNNURWVWtFMXNSNHVMQ1o5UThDenpMRWdIYnI0OFZnUzFtNFVxM1JENndQNFJYWVdsdFBEWVZvNU1vMXpQN2JfcGI4aHFiTjF1RWc3QjdfekdIaWF0YzVhX0RkM1lZcHdCQnJZQjNMb29BQWJuY1JxbUdCU3BEd2RSTjljTGx0dFhBREplQ2tGbHFlMTZBeks1V282UG9uaXhYUjNHLUhGZzJYZkhzVlBFbndBRl91VWRJSGFFWGtIN2ZIa0pRSzVlTEpabHhyVWlETU8zRlpya0dUbExSbzN3dS1WZzdvN1Z3bDQ0MDdmakxOblZJR0ZzX09RanVsZUNQX1dtcVNNR25IWFpWblctZnh5OTZuNDNpR1UwSlZDUzdBcUtYS0dha1B5Z1VYbzRnT2E3a1ZXVnZjRVN2M2Z2ZTJ4NGdUUzMyMzRIZ3FhcjB6V01QbjJBdVAyYWhjZno3WEV5c28tbUk2OHBDT0Z3dlZ5aVdXZ2xYZGs4ZlIxWHlDLVNFWmhKZ2wwTjFvcHhyQ3ljWFQ5bGZ1dnplaGNPV0NoemJDbzdzaG95Wm96MzJycHpRS2VxbmlBSVM3NnlkSXpDT1pOS3pRTXc1bjlpbTlRVklyQXU1eVhkRFdpSWJUOEtmMld0cERINUctSy1UYnpDZjdJMGdwOERwMlpOR2RNUmMyam8tODlnWjhJUGtqZw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 21:42:00 GMT",
+        "discovered": "2026-09-24T21:48:35.531492+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تصفيات إفريقيا - تونس تتعادل أمام أوغندا.. ويالكويي يقود كوت ديفوار للفوز أمام غانا FilGoal",
+        "player": "",
+        "content_hash": "583adb93e26b732d1f3a531e46e0d19b87c53fa71727e0dcd1acc403a79b8b75",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4998,
+        "title": "دوري الأمم الأوروبية – البرتغال تفوز على ويلز.. وهالاند يتألق ضد الدنمارك - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxNUkpPQVc2WlR2b0loRmJyYVVZMnRsT0lPSlpMd285NzlGVUV2V3RQNHlxOUhTUTZrMWZjeWdrSVBjSmFJS1VVMzZiOS1NSEhCRlJjSS1EMVREc0dNQWllT1ZvN19hQkRxVWFfZGVPRkdteU1MRVhjR252c0djbFd0RnYwSENRTVNhdTJxOHJDVHNIZEx5M194TkRrWnNqaVEtQ2JNbDBmQmM2blZmR3Y0OEJ3eGdOQkhDVFJwVmZLZUNMZ3lWaWNhQ1dCd2g1T1E4SXJvaW4tdEdiaHRXR3lIZDdwSThQV1ZQM0pKbkRlc1U4ZWZnWVJia0RMQmlZOEc1NFdqVzJqQVM4ckhiZDdqS2dTdjVPM0s3ejdDSGtBWnp4azVoa0VDVWRpeVFJcDc4bDg4ejBUdFhaSDg1bGJ2MUh4dllCNVNud1k4X1lUMV96WnFuZzNNTTlScUVRN3hfeGcwb2R1SmRyQkRQY2hYNzVCNldVVXpUUWI0a2lPbVE0NnNrUU12OERUREgtY1YwWXc0c2d2b09ENDVQXzFESEc2dFdyb1N0UmllYVZUUEtwdDg4R05VUlFnWEF2MHZzM3poT2FxbWp3UnRRWU5oSE1UTHhjWFNnMVBXV0F2eXpaTjAwR2xDNFoxeThUMGdQZDlCYjVzaHpfMm04X0xDQ0dEVlAtSG1zZ1lHUFhwUjQyUklkcEoxbVdfZlFOZ0dSRXRzZmlzZXBiNG9YcXdsZHVjeGd5bjDSAbwEQVVfeXFMTi01WXpKbWd5X1FkOGxFOXQyOENCNDN3QmZ3QlVTcWkyclJ1ZXZ5RkgxRkd5RlpmUzV6YTZrUW52RnRGT3VMeTJfaDFnYy14S0RtblFVb2t6OVJpcVpaY3NGRWFMMW56RENJZlVsRU1WQTBidnZic2haSG1qTm13ZHRYQjVhc1FfWjd3cU1rOFhwcTVheXh0cG1BQUZtY2FrUEh2aXc5MVpEYzZUZGtqRVZqbk9ZOWxVWW04QUFqYko3aERlTFVJMno1SVU5Q0QzdGMxdFd3TERpdlRmWU1uZzI1cUxYUTNKcEJndjRsVEVHYnp0OE82eVRBUlZxeFhBV21nODlDcmVQZ3hZTThzc0hBa29Nb2VQdEU2TmpVS1VoM01KMERaMUEta2dGOElJYWJOVUZWMEtHZ25ONFEzTWZoa2JBTEE1T1BhaU9EbjNnRXhUQnYyUEVNT2VRbFl5cUZlMXRrNjdtZWFGbEtuYlZiLWFMdXhacy11RjFYaC1ZSkhVYjZBY2NXOWFpRktvMHdKQnJnNGlWREZiNXFfbGNXRHhUeVdSRG5sekxxLTVoMFRkNGF2WmNzbHowUTFfVjZ5THZZT0JsUEFJYjhGZFZpUmI5cXJSQmJsNTNYWjF1VlI4WVgzdDdQVVRxc242cmJWVS1wQzd2V1liN3BIVWlXTEdRNVRmODdDVDI0V2JsUVY3SGRiX25HWkwtSnFNY1lhOTRIODFaUVNFNUJVWi1wd0MwcnNwZ2lTWUY?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 21:40:00 GMT",
+        "discovered": "2026-09-24T21:48:35.507483+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "دوري الأمم الأوروبية – البرتغال تفوز على ويلز.. وهالاند يتألق ضد الدنمارك FilGoal",
+        "player": "",
+        "content_hash": "2c0253e1380901ab8c0a89bc0e7f9af01c1b69e4a42440006e1aaed270644fba",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4997,
+        "title": "بحثًا عن أول 3 نقاط.. منتخب مصر يستهل مشواره بتصفيات أمم أفريقيا أمام أنجولا - yallakora.com",
+        "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxPYXVfMGc0dzVDS1BuOHIwUTdRSDJSUzctYnFaeUlwLVY2ZjNFclM3Y0tDU21TT2VTRU1FZU9KdzZGQWxRWW5MV3d2bzBGaVFCd2RkbWtjOGItb3o4bUt0U2UwNlZZVWlmOUc2OW9DVEl4cnl6RmVBQVJVbGFXUVRtWExqZ2g1ekNDRkp0ZHNrQ1RHS1RlMVRDeEtMc1R3dUdKQUtDMjZKczh1cWNydzdhZkt2N0NYZzBIbGhaczNIQTBqa0tORnBuOFpwVVZZY0FydmgxZmlVUlVCZmtnQkMwM1Z4R1phX1VJTnhBRHU1Zkdacjc3ZXRMd1ZINTFJdkNRTHFlanREb1JNRUJUUDRjbURGX1NmN0UtQUZ4WmY4R3NYazJnSERKNURrRlhxcW8wQkNsYXBPbXRPX0RlQXNzSmdEYXdBTGR2azk5WV9HcFQ1emNmN2Z1NmYwazMySTgtNmJQaUx5bDVDWDdrMDdIZkVES3FsdDZBRl9BXzNBa3lvRmNiemhRZGstN2NseU9fbWt0OXNOcHIxam1icTZLcW1USGxHT0lLX2ptZDNzQU5GSTlxb0ZrRl9Ud3IycGxtX3g2bnpyMkVwdWQ3ZGozbTB3OGI3M3haTHpXc0JmS0ptd1c5dUxjZHRqRk1BRzJReWg1dEdIQ3ozSlVoZXZnSXptc0diS0JjdkpLQXc1SHF3bjRGdDZyUVMxUWdFUHRhMFRnZ0drb3dETjBQd1Bqb2xXaHhGaVBpMUxZMVg5YXRYejVQZGF2YkYyZVVOMlJRaG52T2530gHbBEFVX3lxTE9nTDBmNkREbUJtcmJ5dGNmdXNCODFHbUxEZHBZT0lFTGZ5X1lOQXh3UXQxRmI5aWZqUUppZXdMcGZkU3pwbVNjNVBlNDE5cUhvRU90YnBNUFlIazJ2M0RORFJiVnRWNjR4UjJybXRucnoxaUh2emxWM3ZkREdpbkgwSlJseTllUkZPUlpLeTcyREtPMmpyeUcxSnljYV9Ub0NnaWJiMlJvbWFQZW9qcHR0XzVPSTdobmJKQVNqY2FUVkRnVFFsOTVNYkJpNHo1QXJ2WEE4TnJwOUVmRUwyRWszNE5xY1kzQ1FadnptNmJLd1dPak5KcUNmSVFsN3RjblJnZzlhcklXVnJlbXFrZ1BMbkd0VEkyRWNpOEVfcGRWYWphb1BITUF4dnFRSzRseDgzaGg1elJtbkJlak9yQ1M1WmNqRVVPWmlVd2o4dkp6R3ZLdmZwbzdSLVhaRUN5azh5blA0T25sdlZMbmcyS3h6Vy1ZU1ZTTWxrb3pZeWNMb2tpSEkxOVpDS1h0WThBRFJiM1ItS3lOMVlWelg5cVpVSnp6M09nRDNoYlFEazVWMTY2OWtiNlhxZVFOZHdSOFlOWWdWSHhmcFZzeE53NFFPRWNMUXpzQlN0X2NkSG5XbmxnR2tVLV9QMTZMWndhR2h0ZmJTRGpkNDhNOW96RVpqMExDd2o0dUJxNGtDTXY3MTRvVVBRaUVzOS1nM1VOdFFQSDlsMXEya2lZUG9maGR1dHJhTF9mOUxJZjJrd2xWYTZDanNXZGtYVm8yY2dMZVRtUDFVRVFOZE9RUQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 21:34:00 GMT",
+        "discovered": "2026-09-24T21:48:34.777369+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بحثًا عن أول 3 نقاط.. منتخب مصر يستهل مشواره بتصفيات أمم أفريقيا أمام أنجولا yallakora.com",
+        "player": "",
+        "content_hash": "ee66d311eaeb6f6d7cd2a04cabaef6dccd64713ac220c4447bfac524f762b76b",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4992,
         "title": "المنتخب المغربي يجري آخر حصة تدريبية قبل مواجهة نظيره الغابوني - Febrayer",
@@ -1476,54 +1508,6 @@
         "content_hash": "d487ab3fd36b8adcade80e7bef5a02aebc022186f6c5d77b38439a4b2107f6e1",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4908,
-        "title": "بامبو سجل 5 أهداف.. المصري يكتسح القابوطي بـ 9 أهداف وديا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNVmt4MjNkRDVzeVdNX241NDNqY1p4ZFloUDZjeEFUMV83bnAzdjBQSFdEUFUtNXNVRnJjS0ZkN3BaU3l1bmRGU2NVU3lZdWdMcVVORkJKMk9NSnZ6NGhsUGJuQmNFdDdjNG1Bc2tvUVRxb0pGcG11SThOR3dQMTgxaU01dW5QZlhTd2lMcDctMnZZMkZjY1VoVnh3QzBUMmdKOWhaWGFqSzRJM1d5NGRfdkZWTGNpRE5yYldjS1FQbUU1dS1mUUpBbjFtcXhZQ25kS2U2VHVDd0g4QXVrRlNXUjgzVDZmbUgtVkFJcE94c3RvSm1XaDJGcVJXQTJibDE3REdvaEZBaDNReWNIdHVTQXAwdUswVU9yVWpPVlVKUHAxOVdxUlVWdVlMcmE1bHptNDAxRDZiemVBQnNxUEpsTlZySGFCdEk2M3JsSjVKdlZQb3ZBaXczRTJRbFZUbExYWmNRUW02LXF0Zzk3U2x0LVpRUEFUTEcwZWlDTlNTRFdxY1h0QlltVk1xR3VKdUhUWmFkRi1BU090MGw0MFIzblpGZzNCeDBhdlRsaEhmRDJZeS1qbzhSNUNn0gG_A0FVX3lxTE00LTlxM096bXNoZXZ1VDZCcm5zMGxySFBReXJMZWF3TnpFb2pTSk55cEZreW9VbUJLMXU0bzluWHR3ZERtcXRvZXJmOG45aHNkRlRhZUJlclVvUm1NeE1ScmVFNmk0T2FMcURYaTE2bHNTRjZvTlhqZzlKZ2lxbzZKOUZ6MFgzN2FkM0RmSDBJVWZSMXJSUjgtQmpxQXZDeTltcDJyMFRfZ2xaMFBEakJQSnAxbExabHk1YTB2NnJ5TU5zV0JrSndhcHJTeWs5d1pMUU8yNXpodTJRUjV1U25JSC1KQ0pYSm0tM3hDWWxMOG9CV3djOG1odnJvdXU2UGlrZEtoRTdsOHY1aDI1c0VFSHpLTFFkSWJKUFJieEJNVUI1UVhxZ1UwWkRZT0l0UEZfOUFLSXF4OWt3b3NQd2ZqMmJYWnVDS1VGMVpJaUIwNU9Gek95Uk9jMGV2VU9FMHdwUUdtdF9saFdSY0tqTVEtMVVSZ0dEeGxLNmFwZkZoT19GNHZEdWVhNFc0TERPakRRRWJQeEZuMmg5d2hhdjNQQWc0aHQ0ZVU0b0tsTjN0VzQ3Y29uVW1lUUM4dVlOOA?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 18:01:00 GMT",
-        "discovered": "2026-09-24T18:33:26.800195+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بامبو سجل 5 أهداف.. المصري يكتسح القابوطي بـ 9 أهداف وديا FilGoal",
-        "player": "",
-        "content_hash": "baad54014ba1923bfae5b5d1f239aaef9a2181cd290d7b7404935b8ae784968d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4996,
-        "title": "حسام حسن: ما يتردد عن خلافاتي مع اللاعبين \"عيب\".. لا تقولون ذلك للأجانب - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxPZHhKRjVLenlHWldLQnZGbDZnRkZNRm1Sb2dweEMtaDNiUzh2RV83eGJkQ3pzLWxSbFI5RVczMEM4cjE4R0l1Rml6OUJ4eDV4QkNRYTllN29od1dKMlgyMDlpbHJLbENDdE0xSHRkQW0xcERVeHBMTHlTaXRoU3N1YkNFenFEbWpNbElNWlAzODNMTUt2UVE5NF9WZ1B5UkVxN0RBOVd2MVZ2LU8zMC10UzltcENHdmpVbHBiV2hhVDItZXJ0SW1LVDhPS2o4ZEZ5S1BtVll5RWpuWTBVVF9Kc2lvaXpYVWY2RVBzZXl2Z241bVF5RW9kQkdzbmVITFUxbFJkdVdiQTlVMWZGdTdXcGZRdlhRakJvNkV1MllQM0V3aGR0ZGx3R0NJSWtVQ24xRGxvRENjMkEzMjY2Q0hoQThqTE8zSTJ2eHdYTUJNWjBYLXpoNjhxd2hDd0NlZXNrSE5XYzd2aTFrVGV5UWNwSmkzSXVoajZ6X3psQmp2X1hpdVhSOGg1TmUwa2lkYTR2djRzT1dBVk9ROEVtaXZlRHFXWkV3VkVWMFJlOHFCMWhZTFpCN1o0NzZadmltZ0xoak51WkFJT3hDOXJrVVBPeGVIU3BzRmVEdnoya0txZE8tM2VSZHJPRmJiQmJ1Z19veFdMVG5IZWxkZWpXN29zZ1NCVHVYR3VCN3RkVVdrYWpIYjhGQmQ0NWQ3S3lkUDBHSUxJOHd4bExjUdIBrwRBVV95cUxQejFLaHlpZHAtQ2UxZmFIc2xwdlJJN2Zxa1FiNk5JelFIa3VVNEJJZTNpS0w3aC15T01MQXdoNkVETlJRbERlLVg4Z0V5eF9TWjVodEZSWE9Eb0VQX2ZjT0lUM3liUEN3TGpOblJNa3YzNVVXcmRBSmNiQ0xoakYyT0ZZampSTFFpT3Z1bmdzSEFpQkdBd3hHcUdoNjNQVko3a3psN0NZZ0l0TjN2MWlQUTI4SEp1aVdzRkZpZXFyWDh5RXFiaW94MVpRNmZsR0pmUktieXhaOU53U05yRXNkQi1OZXBGOEx0VUU4bV81akpPdEpiakZzOXFwUmM1ZE9QMGlTNUs2d254ZF9wNHY2d1RSLWNYT2JxYzFVNzkzdFlyN0pWc28yVjR4OTVhN2pPRFBfMl9UbTZycE1HaGo3aXJQWWlaMmJhVzJxSHlzQmxGb2RqNllMa00tTjVfQmNadlo3ODl5TjJUQTdaeTA4ZjZVOFNMUGRVLWJUODBJNnVWaUliYUVVZVdSc1NnSlV5ZkhlUGJ6eTZoU2gwUXFWM05rZGFkRjZobjFsdlJ6SXh6XzNFdS1JQXlKWGVKWktqWDlMTzI5bnNfTzJLUkR1NTkzNjVDcXA1VVJxcTdnZlBVeG02dGJZQWRETG5PRndQalV3VU9vYVZkVmxqYUVvaVo4YmttX0IyOTBLa2RIdTJhSWx5TFBsYmFBUEZoeWZfWGx3RVNELWRtN2gwMnBn?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 17:55:00 GMT",
-        "discovered": "2026-09-24T21:39:22.718169+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "حسام حسن: ما يتردد عن خلافاتي مع اللاعبين \"عيب\".. لا تقولون ذلك للأجانب يلاكورة",
-        "player": "",
-        "content_hash": "38855b1393e6641f682e2e8cdd6e9273e56591bdf7080f3f7ea4969750b3c3a7",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4928,
-        "title": "مباشر مباراة ألمانيا ضد هولندا في الجولة 1 بدوري الأمم الأوروبية - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNQllCLUxTV2dpRUM2U2NzUFhHdlZLRXJQWDloYmk3bTIxalVublF3ZlRxUUFjclFrQy0tUmwtc3F3YklyclN1VVFiYnNwLU9YdS1OUnp2M0h6eDFieFVRRGxWeGZzWjY3NmZzd0c3U1VNMUZHN1ozekM0N0xLeHZQdmlOZm9sdk1oemVyWDM1aU53aGtDSTQ4eVFCTGZDSkNJM3FHcXRLb01RRTl6LVFtWklGUlEwdG40b1ltTDFGYU9rTHNvZXZKQ2J2MzBpNXhxTl9fUHhJT1E2N3BBTGVRM1JUNkxmdHA1eTFQUnBfbVRtZEpMY2JDWWpNRzNoaC1nU3NVellTWEN5NzBJUFhJRE9UVDVVdFBpRzFyNFF2b2JvVnpxajQwa09yVThGSko4Mm9IN2paWnhzYS1POVFGR3YwSXNBbFNBVFRuQVZWeVlma0F3S1NVcUdZWUNZVXc?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 17:52:22 GMT",
-        "discovered": "2026-09-24T18:59:36.897049+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباشر مباراة ألمانيا ضد هولندا في الجولة 1 بدوري الأمم الأوروبية 365Scores",
-        "player": "",
-        "content_hash": "5b0b8c027de7b802712562eeeed29566810819f8cac1c610d2aea3e48b08a280",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2088,22 +2072,6 @@
         "section": "transfers"
       },
       {
-        "id": 4498,
-        "title": "السيد الغديري لـ365Scores: انضمامي لحتا نقلة كبيرة.. وهذا اللاعب سيكون مفاجأة الإمارات في خليجي 27 - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNTHFpdXpXbVZ4VzZtSVM2LUVHNEwwSXRVU29ObXBHNW5KMS1sYnZXZHQyZk1IVVdBYlh5b2doQ0Q1U3NGWGx2ek5Tem1zYktjeWpfWEttOW1ON1NtRnFMQ3FwUTFPTDQ4d2NRQWs2MTZiSHhvdndhdHJVYWx4LTZLblpzQmZwRC1xQ3FYemYzWENVSjNNWFFfU2RsODFCbS1mb3BIR1dZTUxBUEt6OU54ajJXNmpubzNaZzgyUFRRSXhfZDc5aWE5OHBjYWNUOEM4Q1BNVmNyWUhGV2xZMmJRYTZid1JXZkRLdnBmRmNUOGZmZFY0d0pFZHRma2lLX1BuVmNIa0hEWGFTR3JjbnlwcmplTWkyNkVlanBTWnFaNUM2Z2t2aG91a3RxdXVFSFJoVUVDcTUtd1F0Z09tYjJwYzhpdkJKY2QwUlRUTkJ3RXM4MWVZQTVnQjljcw?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 15:39:19 GMT",
-        "discovered": "2026-09-23T15:44:28.350564+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "السيد الغديري لـ365Scores: انضمامي لحتا نقلة كبيرة.. وهذا اللاعب سيكون مفاجأة الإمارات في خليجي 27 365Scores",
-        "player": "",
-        "content_hash": "753bffd3f581c12acc87233eee68e4b21df5b41db8e8dce5287cba1f0684b73c",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 4613,
         "title": "ريندرز: الانتقال للدوري السعودي يؤمن مستقبل عائلتي لأجيال قادمة - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oanAyNlIwVHlGSjdtekZHbkNRUlJPNlRBN3I4ZlhGZTlfY1QtY29oUGVGN0kxeHFpUFhvTTRrQlRxSVRNUW5LWGQtQ3d0VFFB0gGSBEFVX3lxTFBkM3ZEREdHRnhlLVVVbklHcUlXTFZBR2xmMXZLb2RRYjRSb3dTNWVYQUpCRFRRR3RNU2RFYm5CSWZYNEEyRy13S1JOZTBSTXhGTVRpcEhrWlgzNGQ3VmZGeHZCa211d3lNVkxJYXJVcEJSbXdMRTUxb2VlQW04MjNVd1ZqeXBOd3B2OEJRSXowZ2lhRTJTNGJtOTZCV3daV3RNTXJfZDVpMGpkU19RVV9zWWtuTXNCeHRPN1lvdzM5YUJ6eGU0M2xKQWJ6VUxBbFFpUHVza0Z3cWxZYW81ak9taFd1eUlQLW9wTm1URVROZkF3V3hzUlpzWW1MVDMyX0I1dnZjNGxzaFBTM0oyRVdDb0Fnd08xbzVFOXpObTUtRTJRN0hEOVhkRlJtamNJVFpuRm5RVW10RjdJODlES0ZQY0FjX1RSVmdfUXoxX1JrSmc0Z1NaWk1oWkc3SUF5NGlQc3FCWkFnZWR1LUwzYjFWNVhnVjE5Q09VcW5TT3FjTTE0T3NTZW9nd1dfQ3dkWWlDVjU1eW5GTTRGOEFKNzlGMmtHZnZTU0xwVlZaM2x1d084Wng5RVk5MVU5NTBJdXZCVlhfNjRqdkYxRkNHV0V6X3gxV1BMT1BlbkNnZVczUWtHc3I3VkRCaHBqd1VUSThwOG9LbEVjd1RKU0VNRUFKLTRKeFFEcXhxTHMzeXc2V2hn?oc=5",
@@ -2116,22 +2084,6 @@
         "summary": "ريندرز: الانتقال للدوري السعودي يؤمن مستقبل عائلتي لأجيال قادمة FilGoal",
         "player": "",
         "content_hash": "2e99f93b3d3435689ae81147b3ac55d761a426190ade10ed49c40a423b24ab2a",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 4500,
-        "title": "صفقة بنك مصر الإمارات وعشرات الأسئلة الشائكة - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNdG5hcGM4Y2hSbjJFR2k5c19CR240bHNGeHFWajdXODJZejRkZlBqUzFENlBodVB5X0xmb3NJUF82THEtNDE5Vy1UaHczdFBnS0dOMHBvbkNiU29sMEhHVTg4bjZXelkwdVlDSzY2VXVGWDQwSDE4emc4TTZSS09RV0ZQUWZHclBiaDJRQ3pTSWtGdlhlcjhtLWcwNDl0alBUWi1WWEc2OVRmYTZIMGlPUldVb09XNFZaeU1RbnlXNzVrMEQ2YnM3WXFwcVFnUkdsN3ViUTU4WERhZXY4RWxLc1RUMjE5cGh3S01PMmdtR3BuNXU4YnlLeE5zMFJFZURlQTZGUWxxY1pnR0k2NFktTER5NTRWdmcyT3hva1h2aVNMZXE2cF92ZWtlUTlVSHZLbkJaUXpjX1VhMlY5UHppU2piOFNkRG5fUVpxVXBpLUdUalBZVXBvMHNNVno3amtjYVd6UlMyd2dCZUdfUEt3dzNnQUlvRzJfSm5wZndWQTdSZw?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 14:30:13 GMT",
-        "discovered": "2026-09-23T15:44:38.060491+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "صفقة بنك مصر الإمارات وعشرات الأسئلة الشائكة العربي الجديد",
-        "player": "",
-        "content_hash": "f10a23a7ecdbe4b5cd3c48264f54d9e2343488c581bf403744e57f3bcd325f0a",
         "sent": 0,
         "section": "transfers"
       },
@@ -2196,6 +2148,38 @@
         "summary": "حياة على الهامش - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
         "player": "",
         "content_hash": "16590d7cdc5f9e0151f8220be4bd52633be333d81e946d5aca377a7c52493cc2",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4524,
+        "title": "خطط أميركية لحظر صادرات الوقود لضبط الأسعار قبل التجديد النصفي - الشرق للأخبار",
+        "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOZDhEMzI4Nmk3NUhheTR0OWZOR25qZ2JGd2VvMVNmOGRVS2pEM0R2N2dLNTlmNU9YMUw1Rmtwa0xTWjVlVGpSSncxajdNT2FJR0gyRWVsdmlxNnVOcEtiR3dvcmFCdkREc2hxWHM1X1JtVnZpTGdfc1pxbER4RGtEOWpwdzNscklvYTNnSVBHVGNuMmxvYzhjeXAzNlNhdUVyMGdOVlVSaU5Gb2QzdkoybUNSUFllSUlaMURUTmhZWGwtSWxrWDF0QlQ3eXU0NjdtR1N1Nnd3UlFNc0ZuTjdhOUFMMnU0RWhmRnllY09XWHNubVBKcFJ5Q253ZnZidlBnTnFXY0hBbXVWUF9ROFZOZktfdXpvWFBoUXZVRTlwOVlETi0zZms0Tl92SjkxSWMtbHB6emZGYXA1Qk45ZVRPZWZVZHNTaE1IWkVXUTVfNUFDemRqMnE5VFNWMi1CRnFQaGNMOFNwS0gzd1lMWVZ3VXpfY1ctUGZFalFnTVh6NlZseHdRYU9ub1JXS1BnWVNSdlZRbTRYYzY5OXRpSk03YnMwa1Q4LTRMWnJyWHB1N0lDOG5GUFowUjJOOTNIallERVV5TEpObDlocnBDdXMyUVA0TmtFbU9GUEFhV0Z4UnBoM09EUENIaUJ2M21qa1Fz?oc=5",
+        "source": "الشرق للأخبار",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 04:52:04 GMT",
+        "discovered": "2026-09-23T16:53:29.198209+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "تجديد",
+        "summary": "خطط أميركية لحظر صادرات الوقود لضبط الأسعار قبل التجديد النصفي الشرق للأخبار",
+        "player": "",
+        "content_hash": "c7124953fae8b84645565d8d890b0654cc21479dbc50a8736542c6876ce66116",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4835,
+        "title": "منشور ممول يساوي جريمة - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ESko3bzB6eWdNRFhHUzZjSndFc1NXTHhPVlBaaUdPTFU5Z0p2ZXpzODFkUmRrV1dtZy1DaTYtdzJZNWVrVHR2Vw?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 04:39:46 GMT",
+        "discovered": "2026-09-24T15:48:28.086511+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "منشور ممول يساوي جريمة - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
+        "player": "",
+        "content_hash": "6171f908a4af693cf07fdaeb95b8ef81b4adaf69377d9fb121c24fb6832cdcf6",
         "sent": 0,
         "section": "transfers"
       }
@@ -2328,6 +2312,22 @@
         "summary": "مباحثات لوزير خارجية العراق حول خفض التوتر في المنطقة alquds.co.uk",
         "player": "",
         "content_hash": "627010cc0c3d266da1a49195d65fa8aa881e61d2656f8b1f048db29a302cbc49",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 5001,
+        "title": "ما حقيقة تجاهل ترامب لرئيس الحكومة اللبنانية سلام وعدم مصافحته في القمة متعددة الأطراف؟ ـ (فيديو) - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPN3FtNkFXWFJsM091bXlHQjBhbzBLcnN6cDV0SG1tVWtlX0U4cGlXLTJmekotQTVYUkhhVFBSQXE2NUtRZnNaRkZ6dFoxQTFIeDM5bE1PQzdPcWp0R3doeFlhWHRybnM0ZFpMUU9zaUJEdGltZDQteHVQTHpoNC1sY3ExaVN3OGM1MTNtRTdLbENaMl9xdlhreXVyNjRfd3oxalJkMlo5djhUX05GQy1Md0hQZmxqYmZIZXFXRUR3ZHhMSGhiWDIwSkl4TkxnYU1qUE5yTFFnbnJNWmFUQVJvQlNsX0Vyb3k2R256UGY4RlpmNXZBX21ZZlc0NjlxNk1NdF9feGRmTTVRV1dUZ0R1bF8xbHdFcFBzbnF3NzJZeE1kVUJBOW44cFpjdDRDbnlodmpEckZobThsY0loRTA0RTR5c0ppSXc?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 11:43:59 GMT",
+        "discovered": "2026-09-24T21:48:46.078221+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "ما حقيقة تجاهل ترامب لرئيس الحكومة اللبنانية سلام وعدم مصافحته في القمة متعددة الأطراف؟ ـ (فيديو) القدس العربي",
+        "player": "",
+        "content_hash": "33868013e7f4a452620a678f5ef07846d96a325236f317fc57198cf5fcf17d59",
         "sent": 0,
         "section": "world_arabic"
       },
