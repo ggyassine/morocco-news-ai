@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T13:03:35.147387+00:00",
+  "updated": "2026-09-24T13:22:25.452816+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -772,22 +772,6 @@
         "section": "morocco"
       },
       {
-        "id": 4297,
-        "title": "المغرب... التطبيع في زمن الانتخابات - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNTnpRNEI1MGZqOWNtVGJXdVVpSllTQmtrNUFSTlNBbWh2RWlxZU1HTmZ6cVVWUjNNdWw3R0pfSmVXbmdkbGp5QUg3NDVaQk1PdGZMbXBoZVdpam9sVk5oaGVrUlJ5VFprVDB5S0hJRTB0NVBwdVBHclQxdnlRRWVYclpLNWY3MU0wSTRybFVOZjlDM1U1aFQ0SGEzd2JZWllMOWJuRFVyeDhQdVBEZTE1dFZrVjdCOS1GdFhCSVVKbVJWRFh3TThBWUlJNnFUV2ZXQUhYV0FqSmozMllSWnF0U3dickNaT1B4NkdIdmNnVEtTZk55b1d4ZDB1bUhjT0pITVRtczhsT1VPbVh0Sjc0VTdvaXU0SlAtYjRWZ19INGpvNW1qY2JzTXE0TU5tdzDSAbQCQVVfeXFMTnRxOHdaUEI2czI3QzctQTF4WEU3bk9iVVVhbC1Gakh0d3pFZ1lUcURIRXQyRzk3WElHb3ZUTmpuMXlIVXBRRTd5OHF3ajJyLXZnM1huNF9xb1hWalotTV9vY00xSFlsVy1hUmZkN3pjUHhQaHhJSDVUTVFCZlVEcS03TnVyUWxCVHJnMFNTRURjM2tqeGRPcWJleDN1aFl1U2ZOaUY0V0hiSVoxek5RY1NvYjR0YUpRa1B3MlNIQXJIYi03UjlkSVpZUENHQnNmWmJMeXlRa29oMGoxcktJV2lGb2dXUW5SdWpNZ25mQjNqLXVXSnJNcHJlWV9GMjMxTTBSUE1SRGFJWXlJRnFqN0lpaF9XN2VmeFRyWEstUzNTUGcxZzZ4SVpsSkNzQ1JIcmZnVjQ?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 00:26:58 GMT",
-        "discovered": "2026-09-23T00:53:28.044555+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "faac51bf30e8815b13148c4d8fefd1be663c209c29b98c94ada5f66670c657b3",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 4659,
         "title": "انتخابات بلغات المغرب.. تيفيناغ والحسانية تدخلان معركة الصوت - سكاي نيوز عربية",
         "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxNRUtkbWJwN3hrVXNsSVhpRzVQN2hYSkVmSjczalN6cmlXd1VSc2phZWJfNGoxWW4ySTZXMFAzZ2RyaVRBN0dCUWV2MGZlVFpST181dS1MVHZnZVExOWVmdmFSSDJsLWpGSk5xc04wQjBMY01sWkRTX1dNVHU3MjctMUY4OTFmOG5VdjAtTzl0OW9SYmgycmJVbFZBUnA3U3NoSmQyeDR4eEJad1M4eGJmWjRrcER1REhsbWY4d0NROTA2T0NWMFlORFdJRHZ5cVhORUgxSFhkRkZoVS1Da3c5TUFnbHFkYVZuOFZiNDR5QmUyMnJWbmVIM21RV3I0clpsS1BESHVLNVNKVXNxaXRkajc5WWJIVDBjQ3ZHRFdIN2pzX0R3elFTeTVEaUJpUFY0UlN2UU42dHVyeDlaQXQwbUx1NWxKXy1pcVo4VmFrYjYxSDMxN1hsN2F4SmNkWm9lQ1JOd2tLVndTOVpON3NXOThWdUpFQnViVkJoRW5fVWw1M2R0NFo5Q013RlIxTW1Cd3JuRWtnRjdOeEdmZ29GeDFESEU1Z2x3WWVISGpxTlJKNVU0d1c1UW9iLW5kY3ZNTGczM1pFSV9ZM1NRa1ljMzlWMXFuRHZSbFNaWHRnbDdzSDBnZ0RlaXNCR2o4OUFzeUtiTnd3WTZRX3ZVVlk5ZdIBhgRBVV95cUxOd1lDdV9GbDhJd2l5eTZkSHZ3ci1SdDNJQUxsYWFveWZWZFRhcThrQnZFVnhRd1hBdmYySXhkZFJwMF85Znd0TWthRjF2bFo0c1FlNmFDZldQbzI0REZjR1hfUmEycHNMVWhxZDdsaFA3ZE5OZGFLWFIzekpacFB4MGRSV1U2VDhPZHprNW45SUFWa3lJdDlkQ25qNGlma2piY0kyS3BmVGh2dDNKT0NVQmdLLTU2VjhMSXhvaXFxOUhIQXVqUzRZdEN1aUNBTWN3MGh0WURoZXFvendHMk9wcU1CM1NXMVhZQW9oYjhMVkx1eDFBRGdHa2ZNa05sODJrRXlwY3FIakJQMlluUHRLdHlMOWc5Y1p3U3JGOE5KY2o3Y0NBbkF1N2ZKdm9UeDB5Y0YtLWpJMzNHZVRoQ0FzV2pGS3JkWXFMZU9BaHZqbE1mV296dnNaUlhQbnhIWXRuZm84MUpFbmpvQUp3MFdsYVdfWGNQbFZPODZFMlpfbmZhNnhTRElIMDBtYjVURElTb3ZrVmZPaXcxbnY1US1lUkZrTHBWOS1HOUVZMFBBN2FvT2psenI3RlhFUVY0VGVXVjFXWVdCd2hUSXlTWXpibzYzN3VIa3dFQ3AxbTMxemZ6ay1TeFh1NV9RdDNXcHlnc2U5X0prTjFfWEN2SmNSMDNuMG9Idw?oc=5",
@@ -802,9 +786,41 @@
         "content_hash": "b487023dd400ef69ffeca73d51c658d573352f000790a0069cb419cd9ed9061f",
         "sent": 0,
         "section": "morocco"
+      },
+      {
+        "id": 4306,
+        "title": "حقيقة اختفاء سائح فرنسي بمراكش.. الأبحاث تقود إليه داخل المستعجلات - ar.le360.ma",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LZHFsQWZNWVFHMXRfWDEyLU9INlRmS2NzRnNDazF5cjJ5S0tycnFQeGNLLUpyZWIwUG90TkJ5SVVVcTNUSEZLRmJXV2pSTkVhUU56c24wa1k0ZktLa1hjMERIc2l5UQ?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 19:34:50 GMT",
+        "discovered": "2026-09-23T01:43:43.145482+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "حقيقة اختفاء سائح فرنسي بمراكش.. الأبحاث تقود إليه داخل المستعجلات ar.le360.ma",
+        "player": "",
+        "content_hash": "474690a3030ccedb1920c8ac6871ce324f64e6ab05e59899da2c7a0838e9e453",
+        "sent": 0,
+        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 4799,
+        "title": "لوف \"الواثق\" في نجاح كلوب كمدرب لألمانيا يحذر - dw.com",
+        "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQSHB4ZVN5VDBLOGNyYlRPZ0cyWUxvbDdQazc2cjZhOW5TR3RLZlFmdDdsdlJxSEpxZ3BDVG4wSHlCRzNEUGF1TDNMQXVxQ2RmVkdhQzR5bW11UEFBbEdNMlNQV0ZxNzR3YnlPOW1QS1MtbVB2Z18tNHdQblRlWGdlU0RFeE5EdU4tRVhwWl9zZzVaeG1ZdDd1NDlMaVB3NkNOUHdwQWpyRjJkdnNJZHdWLVBiSDAwZFV2N1hLZmdRT2hNUUVSaHE4TU5jZ2pBQkdRbXBrYk1GUGxqVXJSWUxGclhmX2c4TGxUSThyaWJzc0E0MDRnOWp0QnBGTjFlZ2pJVHN4Vk15WU83Y2x2WFdMak40RmVFMUt2T2ZXRVVqQ2QxNzd0ekhtc1pWR1ZNUlVVWEdCRDNVaEJqbko1Mm5ZNjlSdGlfWGFCWEh4RFdGR0NkQXhxMVN4cUMyOWhmTnhnaUpSYWU4TllDNDczeGY4UmtR0gHyAkFVX3lxTFB5UWwyS1NjNDh0cnFudThmSWdQeHY5STVTSnhXOVdIQWlKVGJFTFNGTVVpVGZTWm14Um5uUktIejg3Q3AyUVUxRk85LUV0aTM3WUdhSzNPUGxJdGh4QkFwNEFvWnVvZXcwY2ZPQ3JkQ2F2aGFFV0lBTWJjTnRzZUc3dTFQQk5BSVpLdnE3VGRqenJjNlNZLXdpaE1tdHBoY0hsdWR5bnpiUGdFNHYyd3ViX1g5Ny1JM1gyckN0MEdqaHhjYUNZSzdzcFR0bmZ0NXB5RVhZRHV5NG15UjN1VTJqdzJIYXBMQ0ZmcXVXZGtlb0c3bnhyVzVfMGlXTkk3Z2taZ2lGY3lCUzZQOHk5N09md1g2NVhDWWlPN3N1Y1dOcGVWWXVGWno2akh2emNkdVRfNXpJRDFMZnF5SUViekVjLTJxd1NLQ1Btcm1WZ3d6Vmx6ZlhuSGp2U1M0WlMyUFo2emsyRG4zWVFpU2RrYXY4RHc?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 12:52:51 GMT",
+        "discovered": "2026-09-24T13:22:22.225047+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لوف \"الواثق\" في نجاح كلوب كمدرب لألمانيا يحذر dw.com",
+        "player": "",
+        "content_hash": "7d12349c0013cdf021854c3b9e29f4e48344b07dd68e2fe0abf685cae348422f",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4793,
         "title": "من الكرة الذهبية إلى مقاعد المنتخبات.. هل يكسر زيدان قاعدة بكنباور؟ - يلاكورة",
@@ -1588,22 +1604,6 @@
         "content_hash": "72406e2dfe360246e4aa079adfe553241fcb8ae306d851ea97bff5f707e0f61c",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4647,
-        "title": "جدول مباريات اليوم - 24 سبتمبر 2026 - بطولة كأس السوبر الإفريقي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZHpFd0k5Mkk0Ry1CclJwYzEwa0gxdWprdW9BeHRxZ1RhVlRVOXlaa1h0a2dnZEFLaFVRVGp1dVFYejR2WDU2SDEzMmk5N3o5Z2tJQTlPdmNPTG9XSGJqLXpmMmI5aGJiTXRDTlc0OFZ5RjNBTW1WSzMzMU5Hd2Z0Q2Y0VEJLUkVDQmg5Vi1vbGRwUVoxOWVwODJrUVd1TlM2b3VjdlB5SjRtdExyVUVpaFZQSmFOZW9WRUJENU5OZHA5R1VEemtZY1Q2aktxeWR3Z3FheDEzbDJ6ZFFCTTE3cVJ4WndlcXdtT0xZNTlxNVQ1LU84SndRYUxOcXdkMDgxdjI2MUVzV3BYdzZTZHUzUFo5cVd2TWRXdzlJMA?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 00:00:36 GMT",
-        "discovered": "2026-09-24T00:38:40.823756+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم - 24 سبتمبر 2026 - بطولة كأس السوبر الإفريقي FilGoal",
-        "player": "",
-        "content_hash": "e4a2dc9b70a557a1f02b1ca6e1730f1c0b7f5a9a4b6701fbd02044f5068dd959",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2184,6 +2184,22 @@
         "section": "transfers"
       },
       {
+        "id": 4798,
+        "title": "لتصحيح مسار الانتقال السياسي في سورية - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQNFVaa1dESVdUYjU5ZEIyVDN2aXotU3lNLTVVVHZEWTdqYzFOYS1Hb0ozWW1FQWExX0I3SmJZeTFsUXFxS2tabEJXWXBBS2dHczRqMW1SSi1DQWk3bUhyMlVydUNmejlmUGxKajNfdS1fOEo0aWd2MTAtUDdiNk84OGRxQkZEN250NFUxd1VYWGhsN01xdVl0cXpweV9xYzV3bDdWbkw2WWNMMVhYdHU1Y05RWnREM2xLXzRHZFV6N3hKT1B3NldmYUVjcUN2UHEwRUhoc0lsZDk0YjE3X0p4UU1WRjN5VnJwalYtaWtWMnEtZl9YRVF4NmdOR2RVb3phWldRczdtcWQ0WWFNSnZBTFZzU25Qc0lmdjFWc3FkUnRTM1JNOUhXRzNGTE9nNFVzRjV2SThrNTFxY2VvUUhid3ZJUG1LRzBSbXF3NFR2QmjSAdYCQVVfeXFMTnQ4VDRwYnlGVEItOUd2S2NUSnBtN2tKRUlRZ0NpOEpBc01BZTRwSi1aeG44bGIwYm1xaE1vXzZYcGNPZ0ppelNCQURDYUZNYW9kVVlRZnp3d0RKWXJ2S2ZIWHM4X3BsNEVuS1RjY055bE54M25DY3RfRGFteUdjUEgtYURjRks1Q1pJNHp1WEhnSG1KTDc2TE1EWmtTN0JmQ0oyalpXb1F0bFhlS29SRXN1djRRZkcyZDY2RUFiU293aXZmRzlzdmdyMV84UWQ2WXhEYTJlSjlFM3hYOV9QTGdiNHd5WTFNeHBNbXJrbmt6SzB6SDZoWDJ5X3JNbWpBdGVTcTBRM0lsNi1UM1loWmhPRVZwbkpSR2xCSWlmeHZiWC1yNHZydWRHMnp3OFhwRTVkbWRQRl8yN2NaTlpzcFV0MHd1dllXdVNTSW01M2stMTZMaVB3?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 00:25:59 GMT",
+        "discovered": "2026-09-24T13:22:20.146601+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "لتصحيح مسار الانتقال السياسي في سورية العربي الجديد",
+        "player": "",
+        "content_hash": "842135aecc959aa14efe0228b3d911aebb5991672655eabebedcdda5b6263c49",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 4443,
         "title": "وليد فارس | ثقل حرب إيران في انتخابات التجديد النصفي - independentarabia.com",
         "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOOF9DZmpyZkpfS0lIRVVVU1ROM1VWalU4cmhIdENiMFdZY3ZjcjRtZDBKeHFJeXExS3lSN3VzTzRQWXlCdmxjWU9BbkZNVkRmM3Y0TkNGMldDM0lFZnVUS3FIRzMxY1ZhVVZQWnNGdTNCWlJpcHZtS1plMnJHUl8ybFpSQWZmSGItWWk0ODc3aHVKVll0bDJpc2puUGVTazZSeV95c3BhVmtEdmZDTTJkWmNiV3h6UEltMmN2aFVJcW9TaDhZMHRzc05UVzlPcXdpOXlwUEVTRnNvV3NLV1dUdUF0czRqZmdJNlBlZ3pISkNLWkR0ZTBESEt3cmgwamxrZUxaek5qazc4V0M1Y1JYMDF4SDZWazdCUm9DOE80eGlvYU1ac3lqcFRqUnpWMDMxVkE2NktUVlNIWkcxOERjQ1Z0d0dFbTBLbmRyNW9LMWdnVWs3N0FoUW0wek9rOFlDVW96UmVBemFNYUxNUGs2X042SjN1QlFBNGxkbFFndnM2SG9wQTJqQTlmUFF2OFlpYkxR?oc=5",
@@ -2212,22 +2228,6 @@
         "summary": "مصدر ليلا كورة: الزمالك لم يفتح ملف تجديد عقود اللاعبين يلاكورة",
         "player": "",
         "content_hash": "e08a5bbce5d321a8d0d4ec17732d776a3bfac2bf961b5a5dee8b392ace29c2ff",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 4332,
-        "title": "صندوق النقد الدولي يتوقع تراجع احتياطيات الجزائر 61% في 2031 - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNSFZjZWVJcUZXT3JqTzlLS2dhenhnNVlaMGtwdXdNQXJPazJtdnU2MTVZMjNOVzdMMUctQkl0dC1hcjZZUHpoYm1jNjVObXNEdUdtUmNUaU1sYWhUSnFSdUJwZkdDOGtwbjZxTWo4YkxhM0RCa2QycEZIRExiMW9jWGdHN29TdUZYbl90OGx0TE41MTVUNm82cV92TzY4cWhSQ1N1czZkelVXM0xhR2ZqUk9pMGRiQm0zWmh1R0lEMzNaYldZekRrWWNidUF5OWZNYWthWkRBU3FvalZqLVZ6dUVFSm9sZENWYlc2NXBwX3Etc1ZtYjJYMGNyYk1CQzNobmxpcmJCUVdlR3lFR3JweG1NdVduVEEwTjNnelA2N2Z4NUM4ZXl1RURqMzhjN0nSAbQCQVVfeXFMT3JpZnEtbDd6SUhweTVwQWZFOUs5Z1B5NEZZV0FyTWE0YUxLcnd1bnNEa2pNZGJ1TTFOd2hVUjQzaExEYnI3SW9LM3Iwd0s0ZlZyaWtKMjI2QXhncmZyaTI0endqckxuX1QyMUdoYjJRTUN4R20xeTVNQWJoSVdvM0lxY2pVYlVQVVhKUElPR2NSZFhSanlFcXF1R1FYc2JXODVlTENWWl9wbWNKZ1c5UF92VVJ2MVRBZ0ZDVGlJOUlBX3F3Zl81XzM0VlZpWHJiTzg0V2dlX3J0cDlpN3NzOVZwM3RBdjUzb3FLblpCdF9hQU5tcTFWb0czT1RMbTM4eGdEdzF5ckRid0l1Qk93VGctWU1sb3Z1TDhic0FZMW5nRUtENlh5UVVBOV9USVhxSzlhdHY?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Tue, 22 Sep 2026 19:08:25 GMT",
-        "discovered": "2026-09-23T06:23:56.570322+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "صندوق النقد الدولي يتوقع تراجع احتياطيات الجزائر 61% في 2031 الجزيرة نت",
-        "player": "",
-        "content_hash": "ed712f688e38789f264f6639fb886ac5386f30e5e5368eb6ade001e4219291e8",
         "sent": 0,
         "section": "transfers"
       }
@@ -2348,6 +2348,22 @@
     ],
     "world_arabic": [
       {
+        "id": 4800,
+        "title": "سي ان ان بالعربية/سابقة \"تثير المخاوف\".. لأول مرة دولة تعلن تعرضها لـ\"اختراق بواسطة الذكاء الاصطناعي\" - تطبيق نبض",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9makVmQmY1eDdhNGNZcGVDMU1PTE5OeWJCV1FYam4yQi16TGJMZGFnd3ZNT01nOTBUUmZpSkFoSGVreWtiRi1tcmcySTlUcHM?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 05:10:52 GMT",
+        "discovered": "2026-09-24T13:22:24.557028+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "سي ان ان بالعربية/سابقة \"تثير المخاوف\".. لأول مرة دولة تعلن تعرضها لـ\"اختراق بواسطة الذكاء الاصطناعي\" تطبيق نبض",
+        "player": "",
+        "content_hash": "c80115c7bf62cc4eb2a5aa8b88317fcc234930ae8763df3a531e0d194954223f",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
         "id": 4741,
         "title": "إيران تهدد بتوسيع النزاع \"حتى المحيط الهندي\" إذا تعرضت لهجمات أميركية - اندبندنت عربية",
         "url": "https://news.google.com/rss/articles/CBMikgVBVV95cUxOSGRVXzdMbWZteVdqa0JHbjdiNUQ4a2NsdkVKQUpfUUcxVDlpZ2Fwb0lXWGhZQWs3d3FKNkd5Y0t4TnBFWU90Rkl5b0ZzbEFaU2d3TGxvYjVyMVgtM0lHam1Xa3NSbFVFZ1hmZDRlMDBTYV8xejVoN3kwVno3X0tZSG1kSHIwWm1HdXhoRU5TWTg3VzhMVWZCd21PVDZlV3ozUHhJRGtncUFONkZDc05wU0VfQW1lUVN4YnJQeG1rbkJOcFhrU3Rfa1BxdkZ1eVlIeXU3OHN3Zm53R0UtbXNJU2plbmlia0VNckYzcHZzUmkwbVlXVERFX040ZE1RZmFFSE43aUs2NXBCSmJZbUQ3ckNZUTBMWl84S3UzYm5VV215R2lRRy1XWnM0cGF2dzNkdkJRNTVTbEtYWFJqNmI0Y0ptQUtLdjV1VVVJYnVGT1VSWC1qbkYza1BLa2lza3pmU3NsNTFkdVVBUjJtakVGbkhqWHFZMTgyajRlVjdvWlR6Z19PbmJqU1A3SFRDNDE1N25BLWJySUNYeldwZmZXUXczeWNXbnBlUEpQS0lieXhqaUktUlZOcndhT2RzTDI4QnNPQV9sREFQcVJLeDI2ODhRck8xc2NMeUZmTWcwNGh1S1IzM0pTQmlDdUtMN2t4ZWZLanZ1TE5ZS0Z1OGNxTWxNYTV4dzMxSjdsXy1kWmpfNTI4NGpxNlBNNUdldFFoSUk5dmo4T1JxWmlXcnk3U0lQVlh2UmZrcWV4Qnd6VHJwOWx0RXk2MUZ5bFNGQVV1MWdVZ2JBV0ZwbDNpdkZYUFJ5MHF2MHYxQURSMTZlcXgwV2ZWeUktSGNHWlphem9yelo3My1DLWsyUzMxall1RzVB?oc=5",
@@ -2392,22 +2408,6 @@
         "summary": "\"نحن وإيران جسد واحد\".. الحوثيون: باب المندب خط أحمر وسنضرب مصالح واشنطن إن ساندت الرياض Euronews.com",
         "player": "رياض",
         "content_hash": "12de95bbbd53fc5232322eff7df2b90eff66a082d1e75bf8262fc7a94f5903c6",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 4311,
-        "title": "الوديعة السعودية: إعادة تسعير العلاقات بين القاهرة والرياض؟ - dw.com",
-        "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNTHI2STFTR0s4Tkc3UE9fNDBta2tpRlhLaGpFYnNjbmJhZFZuYVVQLXdzWW1DZHBrc2tXOWlfV1JHZDAzbUdLTWlJRXl2UEZMMW9MY1NaM1ZkU1hhYnQxdEFVb3ROSTFBSEJUY2RSeE11X2hILW5SSVFmNzhaNmlvUFoyTms5UEhFVndoZjJOU3VwRV9RYlBrZ1NxUmYxZzBVaWY3US1mekdRUFB6TGQ2dkFhSmVXSWhOT0hXRUhwdjZiMHZGU1lNUVBqSHI5ZERNVjE5Yk56TFpWaTJDUXNHNzRUd2xkb0tuZEt0N1hUWmxmWE9oaDg0TnFCOTBHR2xiNXJINVFLM2UzR3dyU0NtWFMyLUpsbzZZOGIwX3VEbXh2dXZSRG9VaC1TSHlQSVFDckhIcFdMSzBxVU0xSlVHZEdFTkRmWU10SjdoX0J1TVNRd25Sa1ZJQWs3LW1IM1g2TVJVVmxaZExMUG5lZlg3bHN4N3JLUC1kUG1hSGQ1Z0plWkNfaEZOYl9CY3NlcVpBT2hVbFNlV1VDZkE1N25wWEY0MG4tVmREME9iTTF1R0E0OEFZMDRDTzdfdUNtT1RsR1dnUlhaelY0czZ5Y0hhcWlWQ0xBNU9LbjA5cFh6X0EzdDBDcHJ3?oc=5",
-        "source": "DW عربية",
-        "trust": "B",
-        "published": "Tue, 22 Sep 2026 18:31:29 GMT",
-        "discovered": "2026-09-23T02:34:16.923990+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "الوديعة السعودية: إعادة تسعير العلاقات بين القاهرة والرياض؟",
-        "player": "رياض",
-        "content_hash": "929d45597c885eb751fd826a058e3464a7fce3e45d854ce0769db53a9fcf5130",
         "sent": 0,
         "section": "world_arabic"
       }
