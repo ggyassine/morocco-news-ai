@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T23:29:13.877184+00:00",
+  "updated": "2026-09-24T23:41:33.167001+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -80,6 +80,22 @@
         "summary": "شوكي: نتائج الانتخابات رسالة سنستمع إليها ونراجع ما يستحق المراجعة Febrayer",
         "player": "",
         "content_hash": "3b1c2e94caf10a66c8079502f9c62cca1fb7bd34f25fa7eca52ba3a9ca00d2d0",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5045,
+        "title": "بركة: بعد الانتخابات ننتقل من التنافس إلى الاستجابة لانتظارات المواطنين - febrayer.com",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xSkpQblhIblZJY2dZZlJkUW9JV0JYQkpnQ3hUX3ItUWlwMXFEbHowQklGc0JzSEFUODRhUFRjR2JxNzA2UURUeg?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 19:43:57 GMT",
+        "discovered": "2026-09-24T23:41:10.585259+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "بركة: بعد الانتخابات ننتقل من التنافس إلى الاستجابة لانتظارات المواطنين febrayer.com",
+        "player": "",
+        "content_hash": "38848b7591434f6a7cd2f0945d6843cb423fa3cb5fd158309a7b79c15d8e0444",
         "sent": 0,
         "section": "morocco"
       },
@@ -756,18 +772,18 @@
         "section": "morocco"
       },
       {
-        "id": 4628,
-        "title": "فيديو.. إقبال كثيف في العيون مع انطلاق \"انتخابات المغرب\" - skynewsarabia.com",
-        "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNMzRsVUd2T002OFpOUkRNS1pYUmMxWHZrWFNLd0k4UVlIRGFUZlRmdW1VcmhZcHIwSVpwMDRJc1NUZXJORGJGZ3dFdzkwamJMYUlhSVZEODVIeUFHaG03SVcxQ2djeWVGWGRBeHpVQlgwSXRfRlN0TGpoVjdOS0lveGN0NTFSV0RCdkhXQXZLUnFmV3h5YWg4MlVZWElqb3lBZHgwWWtXMDNSV2t2blRjakhTOVQtZWczRG9RLUZMNWE2eS1ITkVJdExxY21obmdSUW9jUnpEU0xzSFhCQmRPT0ZOcXdZNjVoREg1M21PWHIwblNFTkNFZ2ZGT0lMakRlUW5OVUE4Um95dUhRRXpWLUpsUDRMdlpoVS1ITTdXQnFta05BVFJScDk2SlZPaU5vLTkwUHpLQ1l6ZVZSWmd5bUxCa3RkWTJ1RXJrY1JUYXctOVpTbVlVcFNINnBlTmJqOV9adFRyTXNja0xsMi01WmNNQ25EelVEZktmellDclc5dmZGUzlHbFViUnlHSE1JY1RTTlVKamhwV1l0TjdDYUZLY2pZYkHSAawDQVVfeXFMUHdyMlhjMVpGYVFQTDVYT0kxdDZTSXF5YTFIYmNVOXV4WEo1MUlyWmhpV1I4ZHI3MDdYeUpLSTc5ZC01d0VPU3FlaFFfUk5oa0h6M3ZZYk1ZUGJNZEp3ZTJ6NGQyRDRvUExSeldtVW95WXE5OG9PWnN0RkFHVGJyQ04zS2hZejJIWElVQzlMZWg5RGFKTG00WnJqRGpfUDZZVHhZVFg3dUVUMjlIQjZaTDktVk1KakctTHJfb2g3elNCSmhhWnR1eE13dW1qVmFmdThXVnhjRUY1TzJWY3pnM1JDdlowUGs3WnhWZ2s4azR1MjdqTUNLc0U0NnI1Ullaa3E0S0Q2d3otZjZJNDVZTXpRYlM5SnRFTkZzUlJmdWt3U3Fad0lVckV4bHlZd1ZHQkxHM3E0LVlpYmF6S2JQTzJENmVpMEdhbWFsWlVhbmxoVGUyTThKaTdldGs5aFdtQlhyQ0tEMmRjNl9JWndXdUdpNElkd0RyR21SNGROem9FYXg5eTFYa2lTdUE5OXFZc2p4NnhHcFk2SGtpMlRES2xDV0RWaF9vbXB0NHQ?oc=5",
-        "source": "سكاي نيوز عربية",
+        "id": 5044,
+        "title": "التحقيق في مزاعم تزوير انتخابي بطنجة - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNbTBnOHhaOWx3N3ZEcmpqUEd1dVpCeThwWjZqeUVRSGdJbkt5TTlLWW9QYUsxTXV6MmotWm1xYnVzQ3B5ZUp2UzdrY3RCWUI2NGppV3VOU0VLOTl3LWdmeW42S3RMcGRXS19aNk8zWmhDVzFRNDVHUk5YeFVQdHduTWVVX1RfTnJSdlhTa0ZBV01NUkFWN1pET01XMTM1N1g0SUpWQ1R1VjJxYUstcEpfSkhCbGVmOU05eXBPM09wTVFHN1dNSy1RcG5TSEVsYzJnOFFCNHVRVXU2U3FVSEZVby12cTdncjNTVTRZelZHOXJNc3diZC1hNDRTV0pzYnNYWk9GZUplQTRSVXpyVEw0SGJmZ2NnaC01ZHVfV21GTDczU2FBdktqczl3cFBUZWk1azNnRUU3WEtOUy1JamNzaTgyVkRtMFNjUDR0UUdGYjRKMWpZTVhR?oc=5",
+        "source": "هسبريس",
         "trust": "B",
-        "published": "Wed, 23 Sep 2026 10:03:07 GMT",
-        "discovered": "2026-09-23T23:04:24.258526+00:00",
+        "published": "Wed, 23 Sep 2026 13:09:11 GMT",
+        "discovered": "2026-09-24T23:41:04.973053+00:00",
         "category": "أخبار المغرب",
         "status": "غير واضح",
-        "summary": "إقبال كثيف في العيون مع انطلاق \"انتخابات المغرب\" skynewsarabia.com",
+        "summary": "التحقيق في مزاعم تزوير انتخابي بطنجة Hespress",
         "player": "",
-        "content_hash": "4360106a6606f49638abe5bcc34b232df2a4fb0091a5d929d3f7c174bc48a285",
+        "content_hash": "6cc4aca3de2c8fa96d86b730e31e4b0c438a52c5d8fdeb8441846b5fbd88f115",
         "sent": 0,
         "section": "morocco"
       }
@@ -1624,6 +1640,22 @@
         "section": "transfers"
       },
       {
+        "id": 5046,
+        "title": "ماكرون يعلن إرسال وسائل عسكرية لـ\"حماية\" موقع رئيسي للطاقة في السعودية - France 24",
+        "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxPWUN0T3dNSmtzb29IeEs0cjRWdDhVZW5MOXRqU25rMFNwVHE0dWhpa3VLdDlEV1NxbjBGMElHS2RoUnBiZHNVeHRZUTF4OWNuRXF6RVBVZW5Sd21jeEx2ZXZGZXpBaDM0ZjFWR0ZfY1JzOGlFaEtjcDZwMlBEQXo0clRvejhZcEFEakZnZEUzQlU1aFJKNkxGR3hHT1U4SW05MnhTUlJSZjY2S19fVmk0VllLNnZ2ZXppc3h2VkRTOGhHRnJtcktmdEdhMnhxRUI2OEd5Nk5YT3k0WVdOa0tib1JsS2F0T1RVZGhUZ2IzN3NMWndvZDNMSFJ5RWw2ZVlmNXBXLWxNVEs0VTk4VkRZSDRvYXNJSHpQRXBUNXZuak1QREJWYjBOYXNPT0k4VW1kd1U0TjBrbUNEd3lidmxtZFJlWVdRWDc3QnM2YklZRkpjVGViZFR6SlZkS1hzUDJwQTVQYXZWQXlXU3ZPUEtjTHNwR3AwS3Rjc2xHdHRZRHBmbVQ5TmpjOEM5Y0QzZEt4TnFNMTlueEpPYjVsV21VbzBqbGlfRWlxQlJaa0Z6NGF0QktaaEs5UEZFeHlQMm5ocW9WeFpFSGtadERaaWpJMVJXaUREOThQUzhtQlEtNXFjVDZoSTFLemdsNDJ4ZFpoM1QtYTF2XzA1T2t3VXZLY1piYlBvUkh0TzdFZlR4UWtBWHR6bUFaSkxSUEZfc1FKV3UycktBYXB3NU9rSmhaVzR1NGMzRk10V1RkVzdBbk1fVFFMd2E5Uk94NFJwQ0ZRVllubVR3?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 19:49:28 GMT",
+        "discovered": "2026-09-24T23:41:29.175699+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "ماكرون يعلن إرسال وسائل عسكرية لـ\"حماية\" موقع رئيسي للطاقة في السعودية France 24",
+        "player": "",
+        "content_hash": "16276628f890e0b8be710838d260f4579ba08c417e4f75af72cf6866b2b2660e",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 4944,
         "title": "حسم قراره.. تقارير: عرض مفاجئ لديشامب بعد رحيله عن منتخب فرنسا - yallakora.com",
         "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxNZ1FQS20zRU5KcGNmUS15QXBDam95Ty1VVkI5Z0lBWG5DMUFOX2V6ZXhXUFFfSXNzQVVsaGsxZjBFd2F4Q0tOejFfdmVaOEF3TXRxQmVUX3NxOVk3Wkx6eThzOEtleks0TWlQT1hySU01bndaUXJaZXFzcWdEZEdJWVFObVc2WDZHWGZ3X1Q2dHZVQV9YS2E1NHREQzNUNGVHZDMyUjdpLW1tVF9obG91VjUxdS02WVp3STB3MVNzTlB3UGNGVzdpbTlEUkhOeXo0VmlUNVJEUmlHY2lSMzdxMHRqTmczOERMal9vakFKTUJyZmdETmJ6cWprdUp1NHhKbkttRUEzY3ZpamFFVlBxM2JyZFU3OXBjU1BxLTY2RE9zSEZOemJUTzRNQUpoTV9MRjFtQ2NPNXJ2bXhTUUItYmlBS1Eyb08wMmFneG1hekExdEpEX2RjR09zM0xENHp5M3ZmcVNFS3pTVWFfZEE4VFZxeTE4RERfSW5lSmJTMjQ4MV95MGtPTVFIWjc3SWtyVHFuUWY2cnhzTWNiV3pNcUFjeWRvX2VzODFxY2J4WDNZTm1oRVZlclh3RjY5THVtVmFjeWZzMjlxSWxCeUZPQnpVdmRVT21tMjVvc3NFWUFEbGJoRFVYOGdBTnlLZkFzbUdSd19aVlVfQ19rWjUwUXBEY0hTUG_SAYwEQVVfeXFMT2lobGY2a1E0MkUxeVZhQkxZUFBXNWttQzZ3YlJFc05vRkF3NUV0X2ZaMHl0WjF1UGx1TmE3djJSZGF6amRBYzZISDVsSTBPb3Bpd2o1MzBUdHd6ZzA5TmZjMjQydmRRMkVjLUhZclRGSGwzWVpYZGt4UEd5VDU5T2RMa0wwUS16MklubFRSNmVsbzBTWTdJa1c4VTljTnV3eXVwclBGWEFwVWhpYXdMeHdjcUlWRGVvYVA1amxmeWNjcjA0VUh2TVJHNEJHSmk2ZWd3ZFloVnh3d2ticVZNUGZQbVlPbEhSYW5TOXdOQ2lDWHFCMDFkSGpzMjZ2YTB5LUJUUE5HTUNLTU1RWFducnMzUVFmYUlmX2RSWmJSOVdFaEYyTEU4QVQzSUcwczNTeTB6anlyX2RkbXZ3elBBdEpxdGpUTFdfT1pGZU0wbkIwNTNWNlhCVVNVUHZYd1BFeVRJdm1yM1prQVJBZjdORl9jWHQ4SzlPc1FaT2lnVlBPV0F4WTlRX2JpMXhRZHhDd1B4c0d6dnhXRHRxTlkyc2dFWFR6eW1vVEdXRHo1X3YyNVVpVFBoS1VyR1plN0Y2amVFRzhSd1AwUk5vRUwxR2thb0hvWkJWNjR6Y2NmNnJBMEJYZU5GczRvUktMTGc5UU9sYkh0bXJwNHVXa19XcGFUYlhic3ZVTHJpb2I?oc=5",
@@ -2120,22 +2152,6 @@
         "section": "transfers"
       },
       {
-        "id": 4546,
-        "title": "الخطوط الجوية التركية تحسم صفقة 150 طائرة بوينغ 737 ماكس - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQZGZuSTRFU0tOMlY2YUpHakRyWFRqVjFYX0JrNVg3VXgxTDBxVkQySzRqY3RIcWhEdmxyeENVVC1YcnI5V0JUbWhlUUNvNWtoZTYySVJOQ2xYMTdqNXViQTlzWGRiRG5xT2FxVjl6OXk1MDRQZTN5VEtHQUZsMHJGcDhyRlE5Y2MtWmVldmEwR1NpX3JJOHV3Nlh5b0t2WWl4LUU0V1FLT3Z1N2hYY1pNY1ExMkd6b2NOaEdBTVpQSlYySl96dzRZU2hQWTRpaE1YU2Uzb2h5Zk5pSzdrQ1dPc3RWcEZtOVRaNGd0UklMWGE5RWZOLXpqSE9lc3lmUVpvQmFCUGVtUTFUZFY4U0w2Y1Q1emdJRXlQb2lMYVBJbXdFVGoxaS1RSjFWdVd5bVZHV0dsVUx2TzFoaDN5ZmJCNVJmS0JTLVhPXzZ5djh3dDlyRXN0Q1FzSUk5QWFpckVYSHhaSTZrakUyRElVZFNkOUY2a21kQ3BrbjZUVFRTbXdHVk9ueWlOYXhLTzlCNGNRM1l2LXNMa01sMjNoTlc2S2lHMlgxQdIBqwNBVV95cUxPeWFDTHNWaTU1c2diWnY2SUZ1cDF4VG1lWjI2RE5oa2V4SUlVY29SN3pKcWZiUHBCZkphbk9sOEo1QUxmU3d4X182RWZTVW5RajVsOEFyclB4cVUzSHFpd084amN0cjNtV2RoMFZud2F6OExpMm5QUEZ6c1MyTDZlNG1mRVFhS0o2aFl0ckRKWmFoZ0tBczRnTk56Y1VQLU9fSGZHRG9LWDkwWVZDUDhKb1NRVndzbmhGV3cyMVN3b19nbWxHcWwwM0pQY2ktMFBLeFVfN2t4dHl4bDBzRm9VYUNMU0dxSm05X3hhQUQydm8xSjFWa09lcFloMzd2Z0dsYXZORFg4MlJRUDBIMjBMbEhFWnFLR2dCNlBrYnJ6T0VfTEZpTWVPSmlYeHZ6VnRQY3hHTVMwR0xNZnhHcmdOVjg5TmtFbzRkdkJpcGowd2FObmxJLWtiZUFMMkJHQ0NpMEQ2RWhyWGQydVZhNjhaZlhlQVFnX19zOXZabldPVUd1Y1k3aWo2bU1YZy01bEc4WE03d25aUUVJWk1VWG10Y1ZiLXpnM29Lb09J?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 16:42:25 GMT",
-        "discovered": "2026-09-23T17:53:47.366511+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "الخطوط الجوية التركية تحسم صفقة 150 طائرة بوينغ 737 ماكس العربي الجديد",
-        "player": "",
-        "content_hash": "2e7701621861d183d0eec67b0b563c29c5084474898402412c1f25f181d58fdb",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 4550,
         "title": "عاجل. - \"أوروبا تريد هدنة لإعادة تسليح كييف\".. لافروف: روسيا مستعدة لمفاوضات سلام في أوكرانيا - arabic.euronews.com",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUU15SGVtUEtPNmpkaXA3bEh0LVc1T0M4RHVGSHhUcXJSUG1UQzJnS0tRX0dYUWNZUFdLTWlhNl9LSXU2U3B2MUdVR1F3MUNvc0RxbWhkUDBwUzczeTM5SDFxejdIX1hQYzQxQ2h0SWptdDd6aWtON3hhU2VCWDQ3bHItbmhXSG9scUxaQ3JreS14R2oyRjB1WkhMQQ?oc=5",
@@ -2164,22 +2180,6 @@
         "summary": "ريندرز: الانتقال للدوري السعودي يؤمن مستقبل عائلتي لأجيال قادمة FilGoal",
         "player": "",
         "content_hash": "2e99f93b3d3435689ae81147b3ac55d761a426190ade10ed49c40a423b24ab2a",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 4573,
-        "title": "الكرملين: بوتين مستعد لعقد اجتماع مع ترمب - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNS3g2TXJLMUtrOTQ0YlRWdEtIaXM1ODhXUVE3ZUNNLXlJQmlfV3RLLWN6b1FCSDFFQTFzaFhHZmlOWmRVcDQ5eEZNeFlLd0x2MVhtWkU4VDJJNmphTkdpN3NNMUJJRUJqbVZ3bkFYZzIwMDNWNzlpM2ltdzZHcFcxT2phUGNLdHVnN0lPMlNkdFEwbW81Y0JCQzlRQmZzbmh1bmFDNXJYa0NfTjJfWkFXazhXVkZfQ1J6dGVnbDFydE4wcUdWQjhLU3NpLVJGOWg5MXhKM1hHRFVwRE50cHUzaVJSS0ZQUjRQOEwteVZJZEsxcDd2TnZNanBuVTNieFNIeU5hN1g3Z0JMRGlxQXJta1FBdUMxa25HcDEwLV9nSzMtTnh4b0g2NTFyalhjWUpLT2hGdzhsdEV5RVJLbzBDQ0pZbGhuLV9WbExFMVFGTTJzT1FPV1lzblQzNjRIRjk2S0Uxa0x4LThXcWlFZ29uQzZMVDFrSmxNdnZMUXo3SFRrT1lhNmdwQmM2alZxTzBmSzZhUGE0cXFoSlVicEw3cTY2bm44eHljNEtQS2dRS0FtUEsweEE5SjZuZw?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 11:56:03 GMT",
-        "discovered": "2026-09-23T19:03:53.735919+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "الكرملين: بوتين مستعد لعقد اجتماع مع ترمب الشرق الأوسط",
-        "player": "",
-        "content_hash": "dfcfb198d85116fd81e8fae176c38921e512e774bad4921786409a0abafecad5",
         "sent": 0,
         "section": "transfers"
       }
