@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T04:42:12.644794+00:00",
+  "updated": "2026-09-24T04:54:07.106742+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -688,6 +688,38 @@
         "summary": "ديابوراما: حريق بغابة تافوغالت بطنجة Le 360 Arabe",
         "player": "",
         "content_hash": "c5c2fccbd24c39e9af70a63077c6ee819eb0e42898ba383c0883f3730acad353",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 4410,
+        "title": "شخصية افتراضية تدخل الحملات الانتخابية في المغرب لأول مرة - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxNT3YwZHQxUW1QdVNqaXgzS3J5aW8tTHl1S2VlUzc4MjlBZkt2Z0tsM1JUQ0YzQkh3Rm9BRTJraGh4V3V6Mjh5OEs5SXhWLUdOc2xQY0VPeUJyS2taUHN3NFhhRzZsSU4wVnEwQkFxeXI4LV9WTE1EZThWSVBiVXRacXlUekp1RHpGczNGTTN4NXVrbTlPa1BNUkdQaE1RT1RsanB4aGRvY0d4YnB4MjRmZkczUXBjUE50SzlyQ0VYaGdiSFJZa2l5dmljTXhYWWh5VjBWZWdNZEJqVVpnZm9OVEs3bXBhb09sYUVQVjM0UWZvRkV6MWFWbzVueV9TU1Q0YWo2TGlSUmlVbFlmUjBSSXVuaVdQMWlJU05lbTQwbkl0X1RNbzF2dzZkdGFUYzVaWVBXYnhzRnNyWVRaSGEyRjB2LUJTQVFZa1NqdXY4S1VrTjNrU2FfdzZLTXBFdVNJS2x3UEM0bThGb3NwdGY0cGhQbU1RYjEyYXNOOGJHOG9zMmt4VlU0NzR3djY2cUdaODdxNDF6bDFtaVhlWEN4OFp4aXpqaGE5WkQzcEhYR1Nadi10QjZoMHFQZ01XaXlBWUFUei1YU3VvQnZCa3hPWm1qbENxLXJC0gHeA0FVX3lxTFBxZ3FWbkZsRktINGlTMlRGOG84QkZ4amlmaDNhQlQ5WmxGZWxFUmJXY0dTWlZRdkhlRHdmQk84UlhaamEtYjg4Z2F2U2V6cjZMVGZuSVBER1VpcFk4eFV4X3VJbUJrdW5KS1ZfalREZ1FNbG9PaDlFY1hxYnMxa0FkRnJ3R0JfWnl3WWFVeE9jRVhaZGFwSEdNbUc5cDVqSHZmR3hvYmsxZmVyR2RMY1htR0VrVmVUNG5GcHF5dlltb0h2ZHN1OU5iN25FZVNBSDRyaDByZHFUazNETmM4dmJaUExqV1BsM0hjVWJ6ZUYydExzYURqVzJnNHBoSWRvT1ZiNkwxZkVlcjlSM3Rkc0ctd25RM0V3azFMRldnX3RGWW55ck5DWWtKZ0ZMZkVtMjg1d0RzamtZRy1PTGhwMDlPMExId29mX3F4ajM2WFkybmpDWUZQS2RMYnc3OS1EZkJOV0pQTDJCTGE2dDlmNWl6TTBscHlkNk1Jcy13Q25PTDBnNjhXLVBTXy1tM052Z2NIMWVqcVpFUjU0M3h6ai04UG54bVJ0bWJPMHF0eDB6ZURxSkhKVlZoOXJQb1BHVjhzUFUtZHJHb00zUWFfYzB0RlBSdmVEVTdnc0k2bVE?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 12:59:24 GMT",
+        "discovered": "2026-09-23T11:01:53.919335+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "شخصية افتراضية تدخل الحملات الانتخابية في المغرب لأول مرة سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "fb87d09757965ba5222a873b0f54a653cfb7d5deb9a8cfe17168879b6f63e101",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 4204,
+        "title": "كيف تتعرف على مكاتب التصويت؟ وزارة الداخلية تكشف الوسائل التقنية المعتمدة - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RNXY1NVRPNjRpd1FydW91OXdlM3F3bzMyeTItTURocGlnUlg0ZzR0MHR1TFBNTWQ1YnpXR0daQUlPU1RJMm9qUzk5STJpMHJ3cmF3MkQwczhGcGNpX1FoRDFnNTBPYmk5?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Tue, 22 Sep 2026 11:32:06 GMT",
+        "discovered": "2026-09-22T17:45:04.309837+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "كيف تتعرف على مكاتب التصويت؟ وزارة الداخلية تكشف الوسائل التقنية المعتمدة Le 360 Arabe",
+        "player": "",
+        "content_hash": "f03cbcf16ae3cf9005415c2c6626df43b61b3fe9d254eeecef845a465157c102",
         "sent": 0,
         "section": "morocco"
       }
@@ -2040,22 +2072,6 @@
         "section": "transfers"
       },
       {
-        "id": 4198,
-        "title": "تقرير: الاتحاد الأرجنتيني يعرض على سكالوني تجديد تعاقده لكأس العالم 2030 - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxQNlZpSG5KV2xzb1Yya1BtMVpfSTlmc0hJRUcxeWhSUkdFUlpjWEdJaFdzWE9CUzZlbzNUeU1iQ0YtTUdzWDcyRWhfeWZTdHJlMkxmNG5rQ2Y2NElIM21PdDVaYVdsOWlLUzlZNmdzWHVvbEZqX3NySTF5WEwzSEdQTnF1MVlzMEFzR1U4S24waWdRREtHSHhRN2lxazQtVVc0SVNmZmdQUHdfVVZqanBpa2VrRS1hZ3ByZHQ0M3hON1l5YWhwM21tV3RpbzRtMzNwaHlQdmdIUG1ocUk0eXl5UXU0eFNfR25uUEVvbEQ1MmNveGpnZUFFOTJQMFEwdi13V2RzblJteEVObjFxZnhINUpCVnhBX1dkd3BqMVFYREE1Um5RT2xZRUFTbkk3czQ1QV9SREVIeW5ITnJZSmd4MDlJTU5fUkoyZnpfWWdaUGlSSU14QWM5RVNXX1dfNnJ1TXJEVjJabnVIS1FEdE5LbmxzeXkwYjI0THZIZHgyODhRbFVoNElBNjFGaU5NZXBFbHZuZmVKTTFEZFNRMWdzS2plTktycmpkUHF3eWVjZ3NoRllXdkNGeGNmQkY5VUxRUlU5aEtvMEE0VEpxbHNjRExWbENuTmR2azIwMUZIWkNZZnlKVVNFOXBBSTNBaWQyaVJvMGw5ZGpjUWNJbWZxMjJLSENoWTd2X0FOUTJUVTI1alN0MU9CbFBwOXdmNHpFaG4zOUZDQXNhdXQ30gGyBEFVX3lxTE5YYVJvNjJya1BBeElPZjdyY0xyNHI2eGQxc3JnRW1WT0Rma1JSZXl4NVU0enY3QlBWZ3BHa18ybEN0b21DMWFBQjU4c2FsYlhuTWptVzUyVTNqSC16dl9Wby0weFlKdEJxRFktMklYWHBZcmVnMEJDRjczb01oUW5VV2lQNDJMdUh6cDR3c3lHd3ZycmdEUWlLTVFhMHV0d0hCV0djSzdEcFVZMmF6emdhNkJISkxxcFhBUzNVR0ZCdmZVY3ZydHphYzdvMnQ4VVNkYndpcU9MOENfZTZhOXRzMVBuMWVoOEhNT3lReHowa1VJYjNJY1BKb3dOY1hidklIZlp2NVU5eWplS2tpaDJONkg4Y2U1UUhUdWw4UDhRT2stMFRtUHVWV2JOSlE2RXRhdi1FTjFfY1h4SDEwdEROUUlEYS1rRjF1eGdpZDNCZEhGV1BValZIVEU4bXMyQV9HX2hwNFUzempXaG9LWjhuQ2lFTGYyZEF6RUZRMGo4Rl9QN2dPRjB4S2tBT2NmWGZubTNOc2I1Z1A2cGNIV0pFZE1xMWsyZDlLeGxfQmRKSWtvcURPTXNfVEd2U05SeTg5c1pCSTdwOXU4UnYxTDQ4MnlSWmQyMWxkeGtlcFlNSklTZk90dlBBZ3Q5TXJaOHNyUlhLa3k4ajFEanNhRkF1cHV4OU1IbkxoLVZLcGNhbi1VbHg5N2hzSkRCNy0yMVRXX2c1ZmE5dWhlUGhreTk3WXc?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 16:55:00 GMT",
-        "discovered": "2026-09-22T17:22:54.864193+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "تجديد",
-        "summary": "تقرير: الاتحاد الأرجنتيني يعرض على سكالوني تجديد تعاقده لكأس العالم 2030 FilGoal",
-        "player": "",
-        "content_hash": "a58bd880117dea3b3ac99c0175f7cbf6e29e5f2b9b0e2b1d202fed64b4494337",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 4278,
         "title": "بنك المغرب يثبّت الفائدة ويخفض توقع التضخم - الجزيرة نت",
         "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQdzlnelV0THcyLUxKandYVnZGMkJzeFcwZk8zVDhXVzdNSzNBMWVENENEem1QSkoyTi1kcUg2NnU0WC1fclh0X2xKczI0U1VZV21QdDlBNjl2ZF9vY0tCMkJuM0ZBaTNkUkU0YW5nSnlIZlRlYnB2aC04dmFPcEVHWVVqeFZyU0ZMdmd0dUdHRkR5NnZPU3diUnhOZ2dVZ0h6Mzk4RFVMSExWRGFuaThWVmRfMXZWVC1OWDRvZ0w2R0duTHpTa0dGV0RWSjFDOGR4b2VmREIyUExnRmZfYWp2bnBjOFJ1bjhxbEo5SG0ycEFQV25GTlVwWDB6dUFFQVpmNkJJOE5GODhYcF9ZYmF2MWdNTGdPSkZJS3ZoTFdIT25zdFBMN3FMLVlURzJaM05FMzhPM2swSHZ5dWpYcUJqYTdFTjVFSHlL0gHOAkFVX3lxTE9ROUQtelBocUdacUpoMVhFWFFfUjBSUTlBU2daQTdJbHA2aE1lMlhFd01MNjU1M2lSRm9PMnhjU0Nxd3F5bUN2QzYzZmtfTnZEak02QWJETWlwdExLLVU3Y08xdkdhX01TOWZQTTlYajdNMTdabzBQV2RwOVlZdl9JcFpMLUNyQ29waXI0QlVSQV9NQXZBODlMalA4MDM4ZUhQTS1telhlYkVHdERmd0ptbFNBMndWWWVTZDRRdmVBa3NVVUhMeU5LXzEycU1UQzlNMFotU1dDQlBCMGhaeW5aSGtMdXlVVjEtamRrc3NwTXliR01CckR5ZnMzVHVyMnlHTGZaR2NLM0dSMzFOQUN6OEJFUEtaV094U0ViSXBjNGV2VG1jMjVnQjJsWmZMZkxDVXByX0JOZ3ZxLUFPZzJVZ0VobnJjMk5Sb3ZpdEE?oc=5",
@@ -2084,22 +2100,6 @@
         "summary": "«سار» السعودية ترفع أداء قطار الشمال للشحن بعقد مع «ألستوم» الشرق الأوسط",
         "player": "",
         "content_hash": "427274f257d0943fba12773a5ced5126b4af7d31d4dd82953d061c8a23c286cd",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 4197,
-        "title": "خبر في الجول - الزمالك يتسلم الدفعة الأولى من صفقة بيزيرا.. وصرف مستحقات اللاعبين - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPYWxOX205NG5ORThaNkdxYWU4YUZCaTVGRlRDYWFycGlGaWlwSmdORXNZUmc2Y0tndFVYWFF2YWV4bXkxSmF2eEd1Vmo0cjNW0gHvBEFVX3lxTE5sNzhmMWh2MkI4OVhlalhmR1c4ajNjZThZbHZmOF9SWXJORmpwdzI4RlJmOGNKWndRYzJKWm1PSzVyVzduY1dYbE82NWdTQVdabFdZZTN4Nk9rSVdTQnNVMTBZanYyWjc2ZGxlWkJmTHdmQWZJbGJkaWRob3FEWDhZLXptQldaczFYZ0liazB5WU4xUllpUGdCbEdIRl9VaGk5SVBrcWZfcHQxOWZQdlktOFFJdUl5cXhoTWpxVmU2emk0eDl6WlZDU3RJYUpyTEgwUkxWTmJYYy1SWGc3N2t5SFV1WHNRcHRrckViQWYwak5naWdkM01xdUJ3RjNhZUJWVWktRC0wNklHNy1VbDA1WXcweC1Sa1drRzRRVWhldUwzbVVId2dzS25zVzJ4YjlHbkNvN1pOZi0zLUxucUNlNjZVZlFMb2w0YnYzVDJMWTU5REx2SWtNTWJBVDJSQTNXN2NyMV9vZF9acldydHlEMXI3ZFNKbFVxck5fQzdaWHFVUzh0MWNici1iazlLanRIRFJKd2x0VmJtM0xyQ3RYc2l3VW5ZOURSWGdrTkVZLXdfazRING5fYldlU3NwMy1jX0Z3MmpNSFh4RklBamF5TjZxMi0tYXNfSldfd3k4bWE4YjhQR0xTdkdzRHNtLWR3ekoxRUhLVnREaml0X1hMNUVWcXNKWnJxOVdqaTFKVmh2WXBtdjRCYVZCOHByNjRnek5Ya3ByallnUDBJX2JJdHprMEtzRHpOVm5fTFh5YVk3aTFMamVROHYwY21TQ3FITU5xcHV0UEttNjFuZ05xdUR4OW5lajdDamdCaWNR?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 15:08:00 GMT",
-        "discovered": "2026-09-22T17:22:54.844088+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "خبر في الجول - الزمالك يتسلم الدفعة الأولى من صفقة بيزيرا.. وصرف مستحقات اللاعبين FilGoal",
-        "player": "",
-        "content_hash": "76de6a9d997e7a1d58be0ff617da5302b33e5f55388c5be70f4bf35472a990e0",
         "sent": 0,
         "section": "transfers"
       },
