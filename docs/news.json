@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T17:58:01.719263+00:00",
+  "updated": "2026-09-24T18:15:13.759547+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -773,6 +773,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 4905,
+        "title": "بالفيديو.. منتخب الإمارات يمطر شباك اليمن برباعية ويعتلي مجموعة \"البطلين\" - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMipwVBVV95cUxQVDFNZ1ZTVWt5U21IOXNaSWVocDRKc3BLWlpwU3BIbDJSLXVQdVdmb0dzdWpEYk8zZ2g5bUlVczFsUjdKUmRHQUNxX3pFMjZ6c0VlSWM1eEJDMjd4M0FsdThKSS1jOHpUTVRFTmkyYzRWODBLcUZlN0NPTnd2YnNsY2l0RE15NFViLXAyU3gyTFNjRnNudmpoVVd3NmZRRGFoTm1IVkFKcVpLaDExQ2h2YmpfaUlGeWQ0TmgyNzNNaERkMXV0T2xYTTlUTDBkclhFSXBDaGlNWFVUNGZBMkV0OTNYUGlXTTFkMVg0ekNWN3kyTnpjZU5IdC11cmdOeXpaTUluQ2Q1NFdScGh6SjFuZHZ4dGhTaGxXN2xCbXhXTWhfdzY0Z2ZEVXhaR2hGa1YwRTFEblVpLVFqdWstbnhIRkxGdFdzYnhXOTQxR09ySFlSdm96eU9sYUpxRi03N3RlSmRqeE5CU2JYV1lJamdHcWlPQzcxWnpNR3JENHFPUHozdFo1ekU3U2lpeUxveldSWXpMWmRDZnloNzlNUGg2R0FUaGZIeE8yRjQ0emRZaFZqa3NNV1VwMWdDdGhQLW1MUEVKSWJhbHNWWWRGS2VQbG5pTmtQVHJrdzdLRE5GYzlNSFZYZnY5MDRTVzlvR2s0MElHTW9iYmlTVEgtYkx2aGplTEhuN3l2Zk4wd3M0NDAxQWYybmJLZUhDX2Vid0VuZ0dnRGJRa1ltbHI1UkV2dnVZRDBFckJKbzNUV2kzX2c4bXR2TVpwOGtzelp5ZUsta1duRURGUHNmQzdfRG12M09mVFlqMm8yVm9pWERZZWdOTkp0cGlqM3pSbVI4aWIxUDFkampYQkZoUHBxeWh4OGdTYUxFc2lXLW1fU3FvUzd5M0VZSXhN?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 18:04:41 GMT",
+        "discovered": "2026-09-24T18:14:52.303139+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بالفيديو.. منتخب الإمارات يمطر شباك اليمن برباعية ويعتلي مجموعة \"البطلين\" Kooora",
+        "player": "",
+        "content_hash": "b11ef787c41134cc6a65a4d8d0a52c796ef0bca84a416edd46c419d9914960f4",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4901,
         "title": "جاكبو ضد هافيرتز.. تشكيل هولندا لمواجهة ألمانيا في قمة دوري الأمم الأوروبية - يلاكورة",
@@ -1556,22 +1572,6 @@
         "content_hash": "0731accb85c73e098a9ea6d06395a90b8e199372fcd3282ee6f1f3e8d0db670e",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4814,
-        "title": "أخبار | الأعلى للإعلام يعلن مد فترة البث المباشر للبرامج الرياضية بسبب مواجهة مصر ضد أنجولا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMikwVBVV95cUxQbkpzXzY0bkdOUnUxeTVSRWJJYWthWDFNa05uZ1FwQzhkMVJjbG15UDlCMUtHajA1dnExSVJJdWN2QmMxdHF0YktnUlZXSzZzal9aUlJ0ajh6SW04a3hYU2k3UUNOSENHSVU4bFg2NG1HVV83STBWLXh2M2o3U3JCQ25RMnI0cTBFeFQ5T1JtUWVfZWpWVHJKanRON0RXUnV0ZDlmQm5MZW9haWx2dEFDeVhTV1UzbkxKQ2NMVHN0WWJ0MVgwVXdFazVIbU5zcjV6MWxNU2htb2JTRnlRaldkMHVqajE1SlNFQTd1bV9OSkZkbThCZFJFN3VVendBMXRHNVhmQjNPSjVFQkRjMXpoeUpwU04yRmxVTzVuM1lMM1dzN0c0cVE5SndXZEVwbU1EOHFVMjl0dnBFY2VaYTVqUXBmY1c2bkl5YUNvNTVVOGVsMGJrVjdCX2dGQk1nZll2b3RmSUYxdU1ac2hIZTRaZW5WdmMzczNVejh4elFUdF96Z3J6RXJKTEhEZy1DbUJzUlpFaW1HRWwtclhUXzJDeFU4dTlqNWw5dWk3eFV1VjVZbDd4bW55WW9RUm5VLThVUGFyYk5xSWw0VGh2QmhhZ1lYV3JFWS1faElxQkxERkhUM1IwbjNidUdzejY0ZGZRU3AyWVBQbEhXbHdiT29fYzdIcTN5ZWNPUlZnVGtIYVNKM2RlOGk3ZEkzSDBPNmZJNFUtd1BZLUpaRWl0NTlSRWttMVU4WWNBdUZjaERydk96Y0I4LWRnQ1BVb0RaUDY3RkM4WXJwMUVBaUFWUTRKbkV0aXhQM0h4SXZPNExnZW1YNGo4bExvQmFSVWQwODhwd2s3bVNFaDhJdFRQdVRnTGJBYw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 13:33:00 GMT",
-        "discovered": "2026-09-24T14:00:42.647097+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار | الأعلى للإعلام يعلن مد فترة البث المباشر للبرامج الرياضية بسبب مواجهة مصر ضد أنجولا FilGoal",
-        "player": "رياض",
-        "content_hash": "81377e0c82e07e54b347885ff1614e5a240ae96c97d1726ec7011e5142235bee",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2184,22 +2184,6 @@
         "section": "transfers"
       },
       {
-        "id": 4405,
-        "title": "تقرير: مانشستر يونايتد يستهدف ضم كوندي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPVjFUZnl0QnBYR1BjY2FuUEdWR3c1dDNXdlY5ZHVyU3BSVWx0TVh5VlJWcjgxMWFkZnJzUGxrV0dabjBjZ0dmbjJBcnM3Y2VnMGkwM1NFUVk1ajRhN2QtNVoxZGdtdm5CVkZseU5SeWpuTWNTWTZWU0loemx3VkVVaEthYjd5aTN2Vk54MjVtSEd1cndjV2dLaE5nb2QzRXFvQ0poMDE1a08tTWpzYjIyaVNETEhpckMzN29pdHd2WkpJTnFXMnlVMjdjaVMyaF9JSzVXOGxFSnFpd1VsRjV4YXY1MWxKemM2aWVNR0F1dDZZcVl3ZjJKaU5XRDkxSEpBYzBsTHZaMWtsbWV4SEFaOXotdUxQSEwydEhnRk9hWDlVN1A5N0NabGNhNjYxU2t0Wi01U3dQd2w1SzZSck9wZXZHWVltT1NLbTVXVTZ1SFdyLVN1REFYbtIB3gJBVV95cUxPS1YyMWtpa09pUjExSnJ4aVRZQ0dEdHhoUkFjVW8weWRMTkZwS3lzRXlIYllBbks4VTNyaVV2MVVjVFZTb0lYOTFqekFrTTRxUXM4N1pKaC1HYldqWEYtUkhydXNiRWd0RlNnN1dhbTdzbWRPalFiNzNLb0VWcHNiS2RLckNLZmIyUi1DbnBNb085YW1wQkg3SmRYVlhHWnltWkwtN09CdnRvSC16UjhHMmxDME52OWFFZDViUzd5N2p4TnZiTFZ6a3dDZnc1VUU3dkJnNWNLRXJoNTh0OVNMSm9kRm42Qzd3WlhIY3c2SGI0dzBaaVFzWW9WNE5kekFubmwyUkp2V3ptNWhCUm9PaHBaVTJib2VvUDVrTkhhN1c4RUxNTnN4SlU0WXJiVmRDSHBxXy1jNXFJellXbHdVSGpkQVByTW1ZQ2wyRVZMRzdnT1RnTjAybFZMdkFaQQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 10:53:00 GMT",
-        "discovered": "2026-09-23T11:01:46.937597+00:00",
-        "category": "الرياضة",
-        "status": "اهتمام",
-        "summary": "تقرير: مانشستر يونايتد يستهدف ضم كوندي FilGoal",
-        "player": "",
-        "content_hash": "603d2cbec58f22efceb6f2ff3757cadd2d7685ce777098c107925ce78857f09a",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 4491,
         "title": "وسط حسابات معقدة.. هل فقدت أوروبا تأثيرها في الشرق الأوسط؟ - الجزيرة نت",
         "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOOTQ2RVc3M0NSMElkV2pGQ2lQUXkycjlKWE9MQlhscHlON1I5aEdYQ2pFeGQ3WUxkZlhlbWgzeDRLSldaRzc2Nkh4cGRSenFMV09iX01NVC1qUnpmUXlIQjczdmZtS25Sb3lweE8yLXI2VVRxZW9DWFZmVHJHRUtaNGhyaHpYb3Ytb25lMHdSbTlsRklUb0JyN0laMkhzM3ZscGRRME56V2Z6enpsYzF6MkpCbmFqdTJQeGxPTGw0WG9CdUtkellKcU5fQWtvQjJaaUZuTnRUQWRudm1zWVp0SENNMU1hSUZaZ0NVTjVEakFEeVl6N2VzbmRYZy1RNy1uV2FMdmlUNVZDNnUtUEFGWEUxMVZzMS1vdGdiajhGb0ZkRmNDUmxYVnBn0gGvAkFVX3lxTFBRTmx1NXY4czkwdE82TXY3eEZhMkJfUXJnUUFjNXJublQ2S29FQWI3R0hmcXhPUUk1YWxqRmUtSmRqeDFWNWZUdlVna192dTJaLV9KcHJ0MDVNeXRjbF9Kc2FxdnVnXzlOUE1fNkp1Sms5V3ZGM1FPbHF6VUF2dERUSHpmRkpxSXFER2hzelh6ZlNRT3BSNEJMbjFyX3Y5MkpWZ19rSnVtRmFJQlU5YUtTSmJVM3c1UWVBa3N3RThpdFYxMDVUNk5ZcGVrdmQyYjhfY2sycWd5YVB4b1lXa0NPeDV0UWg1V19Ra3RYbTZ2WnBidG9zTTBmRFJ2YWUxaFd0RklELWgwREhET1BlTnktaEVVN1k0SzNoVVljMWdidHh3NGVLaUtFdHdnOVFnVQ?oc=5",
@@ -2244,6 +2228,22 @@
         "summary": "محادثات نيويورك تحيي مسار مفاوضات إيران.. وترمب يشيد بـ\"زخم كبير\" نحو إنهاء الحرب الشرق للأخبار",
         "player": "",
         "content_hash": "3664de3c6722713dd3439a2f3c532e461489e028ce637b67397bb8515cc10c69",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4832,
+        "title": "غرينلاند.. توقيع اتفاق يطوي الخلافات ويكرّس الحضور الأمريكي في القطب الشمالي - France 24",
+        "url": "https://news.google.com/rss/articles/CBMihAVBVV95cUxNVGloRzN0ZFlscVNDSDlUNTE4RnVIRGtKdDIzUDJwR2hQMy1ueWxVYTdCSjVqdWdfaktLelA3cEtlS2I3N0UyakFvYmt0TXBaVE9BYnRtanoybmtMUE5ldUxLeFF1bXFLSE5GVEdneFh2aFozaldQTGZTdUxhV3dndGRWdGRKdmh5Vlk3MjlqZTdUQkJ3em9JeWhpVm1odGFsR2pTNkNYcXBqczJrRTVCM3pIZ3IweFV1VFJjbU5BMEExa0tOLU11WlBQZy1kM01ncFhTSDJBYkxLTERNT0laSlNFWWtJUzNDbmsyUjZDc0IxdkUzeU9rbG5WZWItc21VdmhGZmRrV2F6Z0U1N2phQUFlMDB2MnZiVTVaSWxEOXZYUE5TTXlrQzBzLUEzUnhyZllPZzNKNXhqamFCX0xjNEQ4MHZmT1p5ZS1heXZROWhJNkpac2JPbWNEQ00yUHE4Z1MwMXI1NnBIZmk4ZUpwaElMdHBwM1FKSHFram9zYWNGeTVHanlSQ09DSXpreTNPZkxhWGh5dGRqQ1VDbERNTnJrSF9jQ2YzU0VDQ2dzR0pTYXI5Rldrc1pua3RSVzF5dENLSHN1RHE0ZXdXczI3ZHlha0EtY2hEQV9ibW5uOFowYVV3LVRqQWR0TmFBbUNnVUhlcVRaRGdJT0ZMNDg4Uk9tQ05lbWFKZEQzWHFpR0xmNUdoR05pUURzc09KRGsxbHJfY2Rkb2draW5sZHpJSXhnN3laZ1lRUTdkN3ZhTG5wWlhPUmJ0SlBlRFltTllFMVRzXzFHbWJIZGpobXFranBnT1hXRFlSTi10UVVNVE1Nc0FtSXQ1WVFRdV9fTFV3Y1dLVg?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 08:39:53 GMT",
+        "discovered": "2026-09-24T15:01:52.419108+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "غرينلاند.. توقيع اتفاق يطوي الخلافات ويكرّس الحضور الأمريكي في القطب الشمالي France 24",
+        "player": "",
+        "content_hash": "b5167df68cf1c7f6a90919c1f9dcee344918095bf2ac6741d0fe3eab1379effa",
         "sent": 0,
         "section": "transfers"
       }
