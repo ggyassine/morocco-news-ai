@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T20:58:25.855301+00:00",
+  "updated": "2026-09-24T21:13:50.555912+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -709,6 +709,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 4978,
+        "title": "مادبو: لم نستعجل أمام البحرين… والتزمنا بتعليمات المدرب - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxPLVJSbjFBUzF4TWtQb3pTOVZvTUdHOE04b2ZSZWhOQ3M4NE9wSUdqUDZ5V0RYUWh2aE1Wa3UzOVoxRUZpejFBTmd0bG5wbVRxT0NMdFJHeVA1UXoxVHhuSGNCOGtUTmpaMjlGblRKWjF0U0hfS0ZmdVpZZUx6bmVmNXdyRXhFNDdPUUdSTFA2NXV4czlmMURtc25TSDBiNEFqMElBNVJZcUt3ODdXRnlTMHFMRXI0WE1qS1YtcjdtaG1GZXFnRk0zUy1xUkNWeFA0dmZFWHRuejZYdVdMX3JnSTM0eDdfZUhMcjFiMEtSaHNaaGFxcVpraU1zVDE1TWxtbFpzSGZ0Tm1xSUZmX2VkTzFuZGFkOFA0YUhLc3JDY0pVblgzZXRmNG5zWXRvRzJDQ1JVOWtSTm81dzlhOEY4U1Q3aTloSFJDbW5DYi1UM2I2MGotNWNxY0FidXkzYlRsU3VvZWp1WDBqb241czZvTTVyZnBqVjFXZVE4bng5WTZTaTM2Q3ZHZVkyR2h6ZGNOel93NWJFNnExd0xsTnpWRVQ1ZUxHRXYzZ2EzWGVPeFRWbENwOVhCa1FoSDctOGwzcllRa25ZLVZsNnpkZERweldDakZhNlVHSlg5UGxfN3d2aHlvSXhvc3pDeEtSbW5RSjNOZEVDQXI4VGJhcjF6OTdPY1FRQUxMbVVqam1ScnNQeFJNWlJreHB6akxTSVFzUktsbHM1MUtNUGt1MUlQTVVacmFwdU10RThGQVlXOHJ0RWFvY3NjZk03aU9RVmJNaXc?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 21:07:21 GMT",
+        "discovered": "2026-09-24T21:13:26.036184+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مادبو: لم نستعجل أمام البحرين… والتزمنا بتعليمات المدرب الشرق الأوسط",
+        "player": "",
+        "content_hash": "8ab92b8feaf2047ae9d677d14ddbc7ff27f8f7f22203a2584c7ec6e8311619b5",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4971,
         "title": "دوري الأمم الأوروبية.. منتخب البرتغال يتجاوز ويلز بصعوبة بمشاركة كريستيانو رونالدو - يلاكورة",
@@ -1490,22 +1506,6 @@
         "summary": "هاني: لم يعد هناك مواجهة سهلة في إفريقيا.. ولن يشاهد المصريون مستوى أقل من كأس العالم FilGoal",
         "player": "",
         "content_hash": "710f6b9e05fb19adf79cf1808c21e281b42c7f68131e6e017c1e48e8e349a105",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4880,
-        "title": "مدرب أنجولا: ما قدمه حسام حسن مع مصر يدعو للفخر.. ونعاني من الغيابات - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxQZnRjb1NoUXhQMml6WXNxZ1NnakRGNmllMWloanZfS0cxX0NJLUwwTlJJTG5GTWlPWVVZQ2ZJOU9Bd0VBT0RESGdoblhFNHFYWUVyR3RnMklOLXZadkwtWWRjRy1lN01tM1FvMHhfd2NJSXhpUHB3akttZVBQMGM5NHpFVGVNb0dvVU9GYjVsN1E2b1BjYm84NE96YmR0Wmk0ZDNpU2lVdmdfd2hKYTdfcVZSRDlEcy1iYUNSNnBvZ0I0NGw0OU5qRmNhN2FYQUw5emVrekRWcnBReXJGMFV5XzRxQVlrOENMVHVxbXRwcDlMRGVVZzJqMlFabVFRWi1ycG5Ta0ZpeUlqT3Q5c0tBTDVMYXJDNmFRdC1fcnRDTktOWGJQSmdsalJKNWRrUHN1MjZ4ay01OTNOMTVNOS1NUHE5djlZZkdPVmdmOEVHTVRvaHVzLTNsbHpBcnNZNWxwRUFPenpuWVQ2TEUwMU0xYXZyRzRXV3dzbjBFbS1uc3pJRk5rLVVwZkpqc0x5ZUlhT0dmRlF5cEtOLTBPYU5rdTBKT0pGem5KZzhiY2M1bWQwbHIxUTB4UkFzaDhqLWxpcl9zRXdFNm1WNlR0SFVQRmVOU0FGLUNLSGgxbTljTDZBY256QzBkbzdkX010WUxxcDFZRnFBbTAzZG1ucDZqZ2FPRUtZOHptVXJPdTlueF94OG9NemJydEFCVHNlR3RIWlHSAacEQVVfeXFMTy1vTXVQU0Zud2M5UFh1MXpkYTdtWTJ4dTAtRVBsNWdmdXQyOUJqX1VvMm5yRzk5MWxRUDNqNERnRlJSMW5ZazcyV2ZmN0Vjei1wZTk4Q2l0SzFHdkFGUXNDQlBCQ0hzcGZQakk0WXBjX1BaZGVCYTY2UDNFVnhzV1ljb1pNLVZ1U3FDd0VUM3pTV1RKMUhoZ08wclJTRDZfUUNPRlMtMC1NSTRxVDhhWTk5VFVsYkgzYmpMTmExYTl6V0NvdTFSeGx2QUdHU05MblNwT1M4RTVqOERnOGNsRDFoYjZUenRERnNPUE51TzlETW1yRDh1d08wNlFRTDJDWWotN3NKV3YwbVQzVnhVM0t6Rkg3dDY2eXI4emY5RjFkSGlNa0xqYnVsQkx4RWN4T01LZG5LZWU2UlVoNk1nS1NzSGo4STJ2aUNYMjJWMkJONU9aSlA5LTJ4SmZZM3VGaTVDZ2ZRNU45QmU3akJLUEcwZHJVN1QyajRMdTZiTmVydHpHR3JxNkpFZC1uV3JDcVl3cm9fUU9tMTd0VXBqNU5qVm42WEltQmNtVF9UaXY2bUxIenY1T0lsOUI0cmc4NFRuOWlIR05jUDFHYVAyemY4T1VxbmV5c1AtZWpKeUxYNDlabENwNnQ0dS1UZHVfUGpHNk9CNEdDLUxYanQ3bzVjb0lXVzVCM3JIZnBWYWtLRkFHWTZwTTBmeVByWlFfTUFnQWd6RUU?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 17:14:00 GMT",
-        "discovered": "2026-09-24T17:25:24.821494+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مدرب أنجولا: ما قدمه حسام حسن مع مصر يدعو للفخر.. ونعاني من الغيابات يلاكورة",
-        "player": "",
-        "content_hash": "b2926469c1d133be0b92865b5c3529dacf02882da035f336deade7c5bb3caeff",
         "sent": 0,
         "section": "sports"
       }
