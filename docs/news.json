@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T18:33:47.067830+00:00",
+  "updated": "2026-09-24T18:48:50.193052+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -708,22 +708,6 @@
         "section": "morocco"
       },
       {
-        "id": 4413,
-        "title": "الانتخابات التشريعية 2026.. نسبة المشاركة الوطنية بلغت 4.23% إلى حدود العاشرة صباحاً - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3YWt3bnlDVWh5THRVWFZMczZNSkZsbGoyemdJNk5FZHB1TGdxSnlybzhXVzlrRjgzNk5ZQUxtSnFRM0hDclROTA?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 11:33:06 GMT",
-        "discovered": "2026-09-23T11:46:10.013322+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الانتخابات التشريعية 2026.. نسبة المشاركة الوطنية بلغت 4.23% إلى حدود العاشرة صباحاً Febrayer",
-        "player": "",
-        "content_hash": "de420c80ae81e2d4c0286c4f6a6cb4d658767ef0806ae4fad93bb2fda2609591",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 4535,
         "title": "توقيف مراهق بمراكش لتعريضه حياة المواطنين للخطر بسبب السياقة الاستعراضية - ar.le360.ma",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uNkVNaXprZ0wta2xkTDE5U3R5VGwzSERHWWVrMmhhRDFYWEtHOXZhVHZtNEkySTU5WHBWUVZGVXR4UUNxa1NWVWZBckhBM0pJUy1MZmZvR3hHR3k4T2RRbDkyZ2g1dw?oc=5",
@@ -774,6 +758,54 @@
     ],
     "sports": [
       {
+        "id": 4913,
+        "title": "شاهد الآن.. بث مباشر مباراة ألمانيا وهولندا في دوري الأمم الأوروبية - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQVzBOOWcwTnNKdFJjbkFseUtqNjBqc0Z0VTJCdEV0NzhSWFUzSDc2dTMzd3dudkpTOVJpZmtpdi1CZ05qdkg3Z3dxd2s5ZlRHUDRCRXl1anNyNV9DT25OTHUwUHpxdzlfNzFWRUIxRldQcmlISmt2c2VlLWk0c0pzR0ZQWDdLdk55M0xtSWJNZmw0ZE5keExHdi1YN0JOMVJwMVlhLUVuZXBHZTNEdE82S1hfWlhNRTJSTnJYYUJ5YXJaM05aYVFmMjRmcXFxYXZtUE5jd1d6UFlWbVMxTFFaWWNZQlVPZUtLc3UwZHFreUdZWXBnYlVWRTdlNkxGRHhuYllpQ1VjQVgtMGRsUnNRb0lVNUh5RFJtamdDRUpaVk82c0E2?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 18:45:53 GMT",
+        "discovered": "2026-09-24T18:48:29.961088+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "شاهد الآن.. بث مباشر مباراة ألمانيا وهولندا في دوري الأمم الأوروبية 365Scores",
+        "player": "",
+        "content_hash": "8584b63d58ceaeca3ff5b6cacd7dc14b8456d7ab3d9b47f0c790d2c6fd77d027",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4911,
+        "title": "أحمد اليوسف الصباح: ثقتنا كبيرة في لاعبي «الأزرق» - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxPVGY1N0dPakh3cWotY1k3NFU4aGJWTU9qZGdUWG9wQnIzdzhQN0tzVzh3dENiMEhHYTBURF8zblFFeWpxV0tNc0QzdnhEQllCU3JBcVl3UnZNM2xUT3ZDczNXaEhMdlRZV3VMaWdrWXZWb2h1T3JxeTNNUGVIVWZEQUpVM0tQUm5Kc3NTQ0tGY1VkZXZYbkhUbnFTb2ViZWtPc3NaTW5vZ1l2SkJiblJ6dDN2eW1hMUJLR0o1S3lJWnlNR05kUzROQUMzLUYyY3FuWTJKMUxQcTJzNVBXaDdKMDFfU1Itand2b1R4REtvLWpOUHpHVVlnQk11V0ZfcmJwQkcyS2hub1VwZFNoOFEtQXlMT2Q0TmxFcmREOEk2a2I4ZmNyWWJ1UkpzMXY3ZkRVTVdZTG5BR0V3a0x4a1QzcEswdlJFeW56aXRpX0NSVmpicmlvVHJnUk1tNENVNVd5Vlo4SXVHMHcwclk3b2pZZTZMZXlEa3ZIZHZWRjBFUzV6cFFneHQ4dFFVLWZpVjdxUkQ1ZFF5VGIxX2gyazZKZ3dkNGFSbFU4c2U2d3plZ3g4Y0tXNFhiZnhIUkNHQ29YS0tEbXVBQlliV3BxaURlb25TTXVpcHVwZWV3QnRJVmhsU3Vla2RhNkVMRi1RU3J1c2hKZy01a3lHOUhhbWxFS2NHV0VUNXJzWWdkUU53?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 18:44:01 GMT",
+        "discovered": "2026-09-24T18:48:25.957583+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أحمد اليوسف الصباح: ثقتنا كبيرة في لاعبي «الأزرق» الشرق الأوسط",
+        "player": "",
+        "content_hash": "81f48827f581b02d767f5ab65eeb0111c667e1323dd4d60beceab36dbb0e4da2",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4914,
+        "title": "بث مباشر.. مشاهدة مباراة البرتغال وويلز الآن في دوري الأمم الأوروبية - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdU5kRlEyenI0Ry1lS3J2cHJUNVlWaGprSWRNWS1zSXMwWHFBSUNpUEh0V0thdjNoX2trZzZqZ0t0TWZWc0pxUU5Hb0YyS09NRGY3bFg0NlhUYmRqNzdtOFpETndaZEMxeWplREJmTGpQN3dlQXU2VWJxMk9CRlN1OTgyaEp0YW9IUElHT1Z1NU9FclBNMkdFTkRwWE9OYV83Vjd6M2ZxeDVxM0gwcUpCMWRWNUY4RktDeGpJSXF6c3hSWktNWU10dkwwdDJWQ05vUzBtbkV4c1lXWE5uWVNha25vLV9OR0FvYXROc2tmd3VxS1oyVlV2NXBPaw?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 18:39:13 GMT",
+        "discovered": "2026-09-24T18:48:29.964826+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بث مباشر.. مشاهدة مباراة البرتغال وويلز الآن في دوري الأمم الأوروبية 365Scores",
+        "player": "",
+        "content_hash": "7009d47aac711af87ff9d423d2fda282e814bd7700fa53d00a4be1012b743c78",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4907,
         "title": "أخبار و معلومات اللاعب لوبيز غاراي لاعب وسط winwin - winwin.com",
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSHRQWTFEUHlEN05EYVM3c2FLSS1uejA0NWhFc2xqVjZ0Tm53aEhndEZSc3NYNTk0bkVNdWg1NzFkZTV3RE9MbjhRLWNvWDdoZlprX2dNRkxtSTFYbDY1dVNiYTRPWlFrZGRYa0tCbkxZY3kyMjZJbENvVGNqcTcybnpMWHNhOGJvLUNzRm02X3Z5UC1Pejl0b2IxWlhaMV9nTHFkVDJycHlKWWxPd1ltWllZUVFqOHJyUWswRGpLNFlSN2s2aHlTRnoyc3I5VzFzTE1HVTEybkZtZktxRVJKS0hqX3pOODVJTlBQZnBFWDFlaUpsVDJNM3FVUUdfdFhE?oc=5",
@@ -786,6 +818,22 @@
         "summary": "أخبار و معلومات اللاعب لوبيز غاراي لاعب وسط winwin winwin.com",
         "player": "",
         "content_hash": "0e1b2b1316ff4be5d1c692b2e310c5903a8c39ffa2b836639e2b02971409aff1",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4912,
+        "title": "عودة في 9 دقائق.. ليبيا تقتنص تعادلا مثيرا أمام بوتسوانا في تصفيات كأس أفريقيا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxPTXlRRFRMZ0RwVm0tRDFFdFo2Mk50TkwwWFhfYnJVTGlNajh5ZGRDWlBpbUg4UlZZazVOeGl5Rlo2M3NtZ1FRZ25SMFFTQlRxaUlHSF9SZTlESE9pN3h6YXFNVHhMYlNuTU5oYlJCUTZ0bXVtWGRHVmwyU2UtM1pKMXdaUlJRcDU0VGlrUnpnQkE0S1pwWDV6NXlObms2YThHdVRvemM3ZndfUDdBdjQzWlRWbHNhZGZGY0FCMnRqeFpuN1Y4UkRvdHhBRjBZMHlzUlNHdS1GeGpWVVdGV0VTeUZuMzBibnpBUXhCN3lwazY3c0ZfSEdmVjFHcF9xY1BDT21YVE1YX0JYODdYNjFQR3FpZXFfb1ZvTmJhbjZhU3B2cHRmUmJfdlVXUGF2ckJJYkJFWXFYTEJ1Vi1meEtocGhET19LOU53ODBOV0drUHVOcllIVVdTTlZvcGM0eEprN2FRNUJZREdleWZVVVlqZks1T1g5WldQZGhrcmNWbkRKWEo4Y0c1bnRKYUtOOWdiYjZQUlgtTGZmeHFCcVY3bE5JMmprZU1xZ2FHcGtMT0g5a21yWjNvcnR0RW1MUFBEUUV2UU1jRDNiMVVib1p2Z0N5bUdkcktiUjhya0NFZlJoT2RpYy1pYmZsTnAwR19naHY5RXRYRmRZV3RiRGVraU4xSVUwYkRXTlUwZGNDYzU0aHBDSUhrVEY2a3VEU2RnblRMUS1xNXpCRzZFekNCNWJaSEE1Y3Vfa1BjdmhMdUJtVThhZ0VjMlJBZW1aRjdJdmhQZmZyVnVxeVZWSXZ0Q2JqdjBTVWdpVmNNZdIB8gRBVV95cUxQUjdZQUlGdHNWdjd2VE9PUWowV0F0UDRJS0N0RTZjUlo2QXRwblJTTmViYmxSVjFHWFRJUWZTMjBOWW04RVFUb09uQ2FURG5RZXJ4RWItdTFocm1DZW05Wm10dWl4aFFRV254VjdJWjc1NTNkR2ZOcjZ0NWxxRFJlMWZtZTdLY1Q1ZklnVzlEc291a1BoTmlWalZRZE1iY1ZoNVlCTHVTRGRwYVZHNXAtTkpBaGRaY0tpWng1bTFHUC1selZnekJZaHZfMmFTeU10S0Y5MXVad2N4TF96RXV2aGVlTGp5OEIzSnBXaE9BcG1GekRXRDlBY2RtSkc3c0lqUkQzeTBQLUt3TG5jeHdZRndVZU5MMk0wbTBuT1dacHhkY2ptRXBNaEJaUnFUNnk3azVhUUZRN3ZrcTVRY2prdEtiNkV6bHBCemNlVjRtZzg2OUs4OEFtV3JwUk9JbXdLRUFZVGpxWXFiOHp2VkZzbXNxTThlWnExblVGYzNyVm5jb3phMnlvTmlYN25MQ1F3eFR3S0tVaWNsUm5LSGlQdWFHY0JXMUN0OFhlZ2JRSGExeDh5dEVidXNfb0dxa3k1eHM3RV9sb2ZWRTBRWF94dWlFWlhmakRqV1IxcHpobHpHTjNxTm9sNFREN1M4blVKTTRvMWZMOUdZaDlnMjFlajdBYXJ5LXpoNEVvcEVXVkJTNHZ0WUZJWjV0UElXa21ENFBPTGdxb2tWdllIQWRBVzNTaHkybkhubk8zeVFXeUh4ZF9RaXpjTmlHVnNjR3pNZmU5WmtOdG92dXVwb1hHTzVsZnRFcEV4ejkwN0tDdXpFUQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 18:30:00 GMT",
+        "discovered": "2026-09-24T18:48:28.422627+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "عودة في 9 دقائق.. ليبيا تقتنص تعادلا مثيرا أمام بوتسوانا في تصفيات كأس أفريقيا يلاكورة",
+        "player": "",
+        "content_hash": "4f6b913b3c2756d2f0c7c2b5b7030166eec76662ef02ffb6b879bbfb78418913",
         "sent": 0,
         "section": "sports"
       },
@@ -1508,70 +1556,6 @@
         "content_hash": "1dee3d6f67ee3f495077bd28d3b6c36b4e7ffccf7ec24c02ced0322ffba20c75",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4898,
-        "title": "حادث غريب.. غزال يتسبب في وفاة مأساوية للاعب بولندي - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQdVplV09FMkJFTGo3eTVmX2d0T0xrcmI0WWpKak9qdlJfQk5iNVNSdGVUUWNCZVNReXZiMkpDbGVJcjFLbTMxZUMzUVg3aVZNSnQzNG9CVno0V2d2MmNmN19KVkg4WF9mWHZMcjdlNWU0bmlWSm04QzNmQzhJb21aYUdOWHIzSmJwSkRWNDRfaGFDY2drYVVEdWRMbjNBSW5mZHJObi1MLWVHbFZZX0tkd1ZiSkFQSzVab3NaNWtTcEx6Sng3ZEg1OVlocGJqbWZMZmJtbGdBdzRKSU44NWNjY21UcUZOSEpJWURRQ3AtVGI1UHRvN0J3OTFoNmRjQlA2Mmllc1FZUTRfZ9IBjwJBVV95cUxQZExXaTVVMGVvWjFSTU1zR3lobEg0MmxsZHZmckQ3aHdWSm5rOTlGUDZZeVZzd2luNTVVSVFINUVnVFV3TlloUmNhN1NGNkJiel9ucGd1eXlXbW4zaFBzUzBoNFNNWVdNbkF2ckVDY1Y3aDBXM3liYnozSElmcUZBTi1GdWFrdDRuVm45WDctMHF4Qk1IaWd1aUZsTXJGcHdxSDE3NWZrd0lBZFVZNjhxZzJxZ3ZtRUVMQjN1bGtacS1JWTNjZ0JXQnkwVmVsbnlxSjJvMFh6cVhwR2pFVHdicnlZZlk4cmhyVFg1NXdDNURVMGM5OEtFRUhBUmk3RjRNeUkzdHdtZDY5alA4Qm1r?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Thu, 24 Sep 2026 14:07:04 GMT",
-        "discovered": "2026-09-24T17:48:43.830901+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "حادث غريب.. غزال يتسبب في وفاة مأساوية للاعب بولندي الجزيرة نت",
-        "player": "",
-        "content_hash": "04200519ba2876af03e23c8e71ec2485c4c7a65564de02cbdaf5846567649223",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4816,
-        "title": "رئيس وزراء بريطانيا يدعو لرفع حظر شرب الكحول في الملاعب الإنجليزية.. والشرطة تعترض - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiggVBVV95cUxQY3BCVmw0SlpWWldOYWktVDF6YUQ4Sy0wUUFDdFRjQzBQWThzTmQ1T2N0aU1zNXRkVnZvZElRVlVBYnVDN25fV19MZkVHT2RDQ0NEbHUyclVfaWNNVHpTZmQ1ZkRqS3VaVWlPaHBNbmpyZGFwM1ZuYjJvX3hMYmEyV240ajY2alB3c214cEd6X3dnVHR6VGpMXzVrZ1VJOUJ1YkJUYnV4UjZUQ2NsSGVRU3JBQWh0RWlnSl92eE51ZE9aSFQyTlhuOVZKMlhFbWlpVXU4NWNtU2FDVV9sS3VhdDhxX3laSVJIZFNkQk03M3dzbGRjcUxHVzJ0Qy1kSXhEZGkwWHRfeTRraWV0UmhkdkZ4cGJMc1E2eXUtSUluM0hPN1Z3OS1uZElPVVdGV0FJbWNHVkNMM3ctclc4TUpOaHVwQjRqckFkZGdKcVVzd2U5d05TU004NEpMTFl1TVlCZUpoTlg0aTFGNG1tdDUxU2dQRnNMeW1vVWhGUUQzdFFfVzg0M2Z2MWFrdzJneXBiNGdUYkJZajdrdlh2eE1SRGtRSndIeVJ2RmJoMjV2MmdMMnV4VkxSLVNvbWVWbkMzOUtaalZJVkdORmk3WFRnWGRTY3JhbWNQc0xteGEyZmJuOWhjVGl6N3VLN1ZtZmJzRmR5ZjVVNHdJT1ZBNmQ3S0tiaHFycWhkMDFIZmRRME1BWDhZemZSTkwxbDZHWWx0U0Q1eVFPbnRmUkNvZG5ab0NQdDlGcmpPQzdUUWpydFpVa3lVYmYwaXoxazBzc1o1eEdYQTJfSzRBY0Q3SFhOS0Z3QkhNRnZaWGRVREJqSGFGRlA2LWVoRl9Lb0FmS0l6dFHSAYcFQVVfeXFMUEo5MnplU1JfSTd5QkdybTRxMjNUTFBKbWNkSC10cVlCeEt3WUVPSXN4dXNIQ0xLN2lzQmRaTC1xM1YwSy1teE4wbXpHZV8zLTRSV0liZVE4WEx5Z0prbzE1TTI3djVaQURfZlhsUDNyQ1dBNXU2S3lpM1BkcFkxLWkxMUlOVlR1aXlMWVozWWVmUGpuWG9XcjhIV0FMTW0yTWNRazdoMWFkdHNVa3l5OTNNVGhubmxleG9JSWVNUE1RNXJsb0VmZ0g4YTlwS09DYVgteGY1RWxNSTd2VjdrTHR6U2NXVnhWT2pEbFJMbnE1bW1WazJuWHZ5VndLSEp1V3hIZFhPM21CSEdMUkRIZG44U2dORFU4Q0RYbkdnaTl3eHdoTWN0OEhwR1dldm9iMTEwQXd6UzVnZHJLOEhLc3gtSmtIa3lCb3RRUEgzVE1FV1ZLTk81c05sckV3aUZFc3Z5bHhjdEU5WlVuTUFBdnhwZjJmVzdDWUNuRVZ6WGpFYy1ReHdxLUlqb1B1Nl9Jb1J2MnBhdlE2QlQ5OHgzam5OX0F6TVIySFFDcGliVWhtdjA4X1ZmcTVwY18wNV85QXdfcDRzU1FQRjNnX3FVdC11ZzFRS2RuOEJaeW9RRVYxZ1FaSlRDRlo0eHpUck1ZSVpYRXZzc1hoX2xqVzBUeV94THRtVElGRmNodG05dkRDSERZM0hGQk11ZnkteEc2XzBXZjZHc3VXTGpwN1YtbVhtUFFtYTdjUDM5czhjaDZ6a2pvZDQ5aXJwNG5SbGZ4amJGU2hxWFZibmFpR2RBSi1aWnVHNThjX3VubkZwVm56M1poSlFFVElhY05rZUxZMGNfVHBWNmM?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 13:56:00 GMT",
-        "discovered": "2026-09-24T14:19:25.901312+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "رئيس وزراء بريطانيا يدعو لرفع حظر شرب الكحول في الملاعب الإنجليزية.. والشرطة تعترض FilGoal",
-        "player": "",
-        "content_hash": "ce430ba832aab1bbeaca517f62d0f50df71a26396ec76f36d767fd8d6e3cff72",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4837,
-        "title": "مدرب آيرلندا يعدّ توقيت انتقاداته لإسرائيل «غير موفق» - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxOdmhZb0lUU2lCdVJZQjA3ZW1EWkg1eHpUblRuNzQ1enQwalpkeWlSa0ZRWjBvOE1YWG1wTEM3VFBtMnNabjlzQmJfUFlyQk94NmxHdnYxRTJVbXVpN0l3UHRjQUlRRVNySk56WldCZ3RnZk9FaUlCcmJnR3AyX3k2OGlIdjM0MU9uMjhfdlFaNUViR2F6bVlkQktmTHZEMElLVDJsaWs5aXRjajNfUGlLaU1lbURrQ0JBYUdEN0sxUWxwN2psYUdjOF9ndEs5ZXVmX2NETEkxSnkzQjhhM0ItQ1BrbUNraFhTeTlqeElFQWh4S196ZFBLTWxLQjMyeTNmTVNfbTdFaEhCalhpeFR5NG1aelBYcHB3bF83OExRUjYzQVR5UkFLaVFUT3JqUDZJM3FjWnpLX1NUOWlWRWtHWkhUTkg0VWJGRklSdEdxdXFjQ0NqdDg5M1kwdElIOGtTd3RLbkFEeWwwQzJRcWJUUWcwVl9VY3B1eG5hYXBMWXI3OU9MQjR0cURSTGx0bF85eVlNNVQ4NmpieU1IaFUwdlItOC01bUNsUmdXTlBzcVFjN01uRFJOVmFYLVpYdWNTQnp0RlRjVDd3TUs5dnRjaWpZVHJqdlVNZ1pFb213YmpmU3d5aUx1M1dTcEw2alhURTBvV0k3SDFKZXJIYll2dDJ2Z2UwVzM4NjFycnJMU3hrTnYyeGdFVTU0dTU3Y19tZUxld0JrckRCRXhIYkFWaHd0M3NPaFYtUTZ0VGZR?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 13:53:20 GMT",
-        "discovered": "2026-09-24T15:48:33.691273+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مدرب آيرلندا يعدّ توقيت انتقاداته لإسرائيل «غير موفق» الشرق الأوسط",
-        "player": "",
-        "content_hash": "728e8effd1b47316db8f1ad21e686e02eda00afc88e85f90b7910e98a8b38d7a",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4808,
-        "title": "مباراة الزمالك و مودرن سبورت - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOWVpybGcxTlJvVzktSll5SHZub3JmSUlWd0I0RndVN2h2MmQtMXVpdjNjZ2JsNHNYU2R3S2xBSkhHZUR4SFQ3VGRjSjlRTHZKNkMtZUFBY205OEFEUzZMcmpNQWpqZDl3Z3J5ZEJCa083bzk5UXBLSFlPNUI1WTAtNW1TMWp0OE1XLWlMeGYxMUNZQUpEXzNwZVV4ZnlrU05wY1Z2UGFRS3hfOWlIMHhzTEt5N1BsdXJFRzhSdDBZeXJwTVR0TDNyemUydy1jWXdnR0NjdE0xV2VYbUl0M1dwTS11eDI1V2tORnRxN00tSEhQMzVSeUxTN3dPR3RuTGMtWF8tSG9kNGwyMGNYYkdUcXNkVjJQN2tZS3RKNWtqTUVrbVQtbmFUaVJjLVBPVVRHYUxMejUzcTU1SU1vRmNVRGxocjhPYjNFWjFoaFpnR25lSV9HbmhJbmpNbl9sbktELXN3Um82VXZpMlJ0SXJzQ1Z4SWFjckJPNzFPcUg5dmo3XzQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 13:47:28 GMT",
-        "discovered": "2026-09-24T13:51:02.509090+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "baeff8ba054d6a683863af1e6b01be37201e904a0f2005e08a326c187f3337c3",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2184,22 +2168,6 @@
         "section": "transfers"
       },
       {
-        "id": 4412,
-        "title": "لاعبو منتخب مصر يحتفلون بحسام وإبراهيم حسن بعد تجديد التعاقد (صور) - yallakora.com",
-        "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxOOVFrX243MS12dUtWcnNNeDVrMnRwS1ZXdkYyU1dYenh0cy0tb0xQckRDeGNsWmN2ZzZQZXBSVXoyM0twbWVuaGh5UE1TQTZMOVQzWXo0N2RMREpLSExZeWhOX2NwZjdPVWhmRmtoRkVQdmVjVWc2WE1lNTJKOUdyWXBMOEQ5SWU2V2NGNURxaDlwZk5mYldwN2JFZV84ajNnTElGanBpUnVVdl9DRENTZ3d3MFl4Qk5UU3lnaXZyWVhhblpjWmFJVnZIdklEMWlKMm03dFZsZ0hCM3NLcm9zTklMMkV1ZzUzMzhQLURHWlBoNElwd3Z6QVpaN0Vsdy1DZ0NBeHJoS3VrS0s2a3N4MkdycHJXVncyNExOTVdPOTFEWE0xVWNGbjZYRV9ILXVydmZqelR5bDFSS3h5LVA3aU1UcklnX291UVk5WW5IS0Fyck55SlpQZjEtak9qVHZwWl9QekcxZUczelVJRkhGNmpIUDRoWHlBUHFUcXRJd19TazY2MEs2ckhlY1JMVkdkQ1pYTm5GTnNDa1ZNYUU3dWZoT1pKVW1zQldMVzllU0xSLUNDSTdOdzl1X05YdFE5R2tFSl80aXVqWnhFRzRMeTBJRm45dzJneGdnNElHOHU1c2duYlFNRVpndmZOU0xNYmJHUnliSVl6UDB2TmYwWWF6UnJxY3FnZnkxS1pGb1g?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 11:03:00 GMT",
-        "discovered": "2026-09-23T11:32:52.081323+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "تجديد",
-        "summary": "لاعبو منتخب مصر يحتفلون بحسام وإبراهيم حسن بعد تجديد التعاقد (صور) yallakora.com",
-        "player": "",
-        "content_hash": "998f1fb6385ff0b9228a4db0656aa8f16cdfd2a8b71efed9de99764057c34383",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 4491,
         "title": "وسط حسابات معقدة.. هل فقدت أوروبا تأثيرها في الشرق الأوسط؟ - الجزيرة نت",
         "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOOTQ2RVc3M0NSMElkV2pGQ2lQUXkycjlKWE9MQlhscHlON1I5aEdYQ2pFeGQ3WUxkZlhlbWgzeDRLSldaRzc2Nkh4cGRSenFMV09iX01NVC1qUnpmUXlIQjczdmZtS25Sb3lweE8yLXI2VVRxZW9DWFZmVHJHRUtaNGhyaHpYb3Ytb25lMHdSbTlsRklUb0JyN0laMkhzM3ZscGRRME56V2Z6enpsYzF6MkpCbmFqdTJQeGxPTGw0WG9CdUtkellKcU5fQWtvQjJaaUZuTnRUQWRudm1zWVp0SENNMU1hSUZaZ0NVTjVEakFEeVl6N2VzbmRYZy1RNy1uV2FMdmlUNVZDNnUtUEFGWEUxMVZzMS1vdGdiajhGb0ZkRmNDUmxYVnBn0gGvAkFVX3lxTFBRTmx1NXY4czkwdE82TXY3eEZhMkJfUXJnUUFjNXJublQ2S29FQWI3R0hmcXhPUUk1YWxqRmUtSmRqeDFWNWZUdlVna192dTJaLV9KcHJ0MDVNeXRjbF9Kc2FxdnVnXzlOUE1fNkp1Sms5V3ZGM1FPbHF6VUF2dERUSHpmRkpxSXFER2hzelh6ZlNRT3BSNEJMbjFyX3Y5MkpWZ19rSnVtRmFJQlU5YUtTSmJVM3c1UWVBa3N3RThpdFYxMDVUNk5ZcGVrdmQyYjhfY2sycWd5YVB4b1lXa0NPeDV0UWg1V19Ra3RYbTZ2WnBidG9zTTBmRFJ2YWUxaFd0RklELWgwREhET1BlTnktaEVVN1k0SzNoVVljMWdidHh3NGVLaUtFdHdnOVFnVQ?oc=5",
@@ -2228,6 +2196,22 @@
         "summary": "الرجل الثاني في \"BP\" يصل القاهرة.. صفقة محتملة قد تغير خريطة الغاز في مصر العربية",
         "player": "",
         "content_hash": "180490a3847da8b2fd49462339db340831d1f9146484f5349651a8843df0b654",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4917,
+        "title": "تسوية أم حرب.. انتخابات التجديد النصفي الأميركية.. خط الفصل في مسار العلاقة بين واشنطن وطهران - skynewsarabia.com",
+        "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPTm9yT05yZUdyWU5rdTQ3elNqUnVYUnNJTTBPeHctR1Noa3RHWkUyNEtXbGQzSVotZmRLNS1BV0Fpc2lOZUd3Z2Q4dTYzeFBXVjA1UlRDSEJzQzJjSGYzVUhFX2lieXhtbXdoVTZQNzJHNmVDOE5nNDdLWWlGN014dG5RbU1JOUx5Nkl4OV9RaGpheFQwclFqLXdyMlE0cC1ZLVlGX3hBUmNPcEJOV1FIVGxCU09Vc0ppU1pfZDdTYi1JRWxxMnVWd2xxaS00b2IyajhQZk9yUjA5SFRBbWVnZ1AyZ3JPMmVFVXhlRW5PU0NpeWJsMExlYmdFS0lMZWZqZzVwTlN3aUx2R0FaZ2J0UkxaVFRmVlViSFhrYmlsT3pjQ1ZoeTF0aERGZkpqOVQ0LWdTRDBDek14NXl2ZGd3M210U3YtUmpVZ3FSZ3lzelhqMUZmc2k5eW5qSUdtazdWZ0Ficg?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 09:29:51 GMT",
+        "discovered": "2026-09-24T18:48:39.425747+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "تجديد",
+        "summary": "تسوية أم حرب.. انتخابات التجديد النصفي الأميركية.. خط الفصل في مسار العلاقة بين واشنطن وطهران skynewsarabia.com",
+        "player": "",
+        "content_hash": "2bc6f4587c5ca7742e89ba8ce834aac3c9dd50fe6dd000b6c12b6eca97bfb9a5",
         "sent": 0,
         "section": "transfers"
       },
@@ -2331,6 +2315,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 4918,
+        "title": "عاجل. - وفود دول عدة تنسحب من قاعة الجمعية العامة للأمم المتحدة قبل إلقاء نتنياهو كلمته - Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUUxLQ2xlTXdrWUg5RzJ1MVdIbDh6QktjWEpTZlI1UFEzb2Flekh4WEZJSjRwalVGWGd4ZTVvT09lbXduNUhmX2hfekNyUnh5MEVFZDgtdGpHbjhtdk82Vzl5YWZKd2xOQVdiVzM4SUQ0bFRmVVRZeURqLXAxd1FDZjZJSVo1Yml3aDRMbVF5MXpsMzN4T1dwMlM4azF0bDNCUTFaZW9wNUczMlhiQTJ6VkFKSDFrTjZXUTNqMkVmZ19KNGJsNXNVSw?oc=5",
+        "source": "يورونيوز عربي",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 18:06:06 GMT",
+        "discovered": "2026-09-24T18:48:46.718480+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "- وفود دول عدة تنسحب من قاعة الجمعية العامة للأمم المتحدة قبل إلقاء نتنياهو كلمته Euronews.com",
+        "player": "",
+        "content_hash": "51d3cf3fea6d2c36c047e8b8dabdb1640045533c0778c535c855c3b4ef505130",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 4878,
         "title": "مباحثات لوزير خارجية العراق حول خفض التوتر في المنطقة - alquds.co.uk",
