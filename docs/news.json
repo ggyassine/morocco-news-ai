@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-24T02:10:04.770380+00:00",
+  "updated": "2026-09-24T02:25:38.941717+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 4661,
+        "title": "أكادير إداوتنان: البيجيدي يتصدر النتائج المؤقتة للانتخابات التشريعية بـ 14.900 صوتا – اليوم 24 - اليوم 24",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE83Q3U3MWhoM3RqUUZxRk9kS1JST2d4NGlFQXNXMGZhTjlBUWNkWjc1aktrVTdtQVg1UXRhSGZoUUxvS3B2Y3FkeVJ3?oc=5",
+        "source": "اليوم24",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 01:31:53 GMT",
+        "discovered": "2026-09-24T02:25:14.019831+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "أكادير إداوتنان: البيجيدي يتصدر النتائج المؤقتة للانتخابات التشريعية بـ 14.900 صوتا – اليوم 24 اليوم 24",
+        "player": "",
+        "content_hash": "c4b7c4aee2acadd1ad8e34726a0afa8c44df1400a1ce3f3901ce595046162e0d",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 4652,
         "title": "عاجل.. وزير الداخلية يعلن نتائج تشريعيات مجلس النواب في حدود الواحدة صباحا - Akhbarona",
@@ -661,6 +677,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 4664,
+        "title": "مباراة فريقي المغرب | كرة طائرة و الجزائر | كرة طائرة في بطولة بطولة أمم إفريقيا للكرة الطائرة - تحديد المركز الثالث - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxPaVVobFFtR3dpTFBqanV5MllMRzByT0xBWndMdlB0ZEJqemF5Z1lzdmFzXzJ4amJLRy1hQnNDMnQydExYa01jRGl2OG1CMDRTbmliWHZtWFB2RFhGUUhXb1E5YlVnWVJmZ2Y3Wlgta2FzbVlwYkVYV0s3SEZLZTdsemxieU5saXNJaXJ2ZlBNWmJfVHlTYzdMUjRwdDZhTldNOU43NHBvdjg5czJPc2NlcmpLQVhvemlQbjJYYXQ2NVRlTUxMV3NvU2JmNEpaVUNrYng2LXRTT0lJc2FsdExXWjAwV1JlVl82YVUtUEI4bWg3Z1ZjTFpRRlV4M1o1N3h4Q3RKVGEzU3A2TERRazlwcUpJZUhSMXczTEs3eHhHc3Q0TlRyTlFVWHB3cjNsbVV2LWRxUkE4RWhjVkx2RmJySXFsQWM1THlUYjJGb2wtem5id3JOcnpjTmZsZWVMMmZ6enZsMlczQlJYTU9makxxNlFObTJuV2Z5WXQxWmZDU0pOcFlnRzZ1bUliRWtjVzFqcnprS2ZCQnNid184cnhsaGVpSkZnZjZFV2RpdDdpcmpnM1U2U0c1bTNPZ3M4TVdtYnlldGxOd3pTdVJOeWRqRjdyQkFjeEo1X3cyOWNDX2d1OTF5Zm16T3N2TFB3NmF2X2hKVmpSQUw4RFA1NzdxWUNjSkFIQ0JSdW5ZOVhxNW9tZGlwcE5GU3hyOTFSSHZIcXpIUU9SNU4za0dCZFp5RmtmSExkTjEzRG8xWC1wVTRReW1mSm53LXF0NHpoTWFkd3BMdDRxRWtLa2lXRlc2ag?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 02:17:24 GMT",
+        "discovered": "2026-09-24T02:25:24.516123+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباراة فريقي المغرب | كرة طائرة و الجزائر | كرة طائرة في بطولة بطولة أمم إفريقيا للكرة الطائرة - تحديد المركز الثالث FilGoal",
+        "player": "",
+        "content_hash": "189b4e09eea553d95627c94a14aec75bbed9e2725f66559543674412d5bf6f32",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4640,
         "title": "جدول مباريات اليوم - 24 سبتمبر 2026 - بطولة قطر 2022 - FilGoal",
@@ -1442,22 +1474,6 @@
         "summary": "بالفيديو.. أيمن حسين: الأجواء السعودية والإصابات سبب التعادل مع عمان Kooora",
         "player": "",
         "content_hash": "eee8a418e90fbf601e3256e5fbb248a9d8cf0db588a4f57e997955de12af5cc6",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4605,
-        "title": "كرة يد - مصطفى بشير على رأس قائمة الزمالك في كأس العالم للأندية - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPbzNodlB1ekRGNVlDeUNxdlZmRXBXTFhCNXcyTDZMbEtobDZvTkZiaVpRc19uM3dhYWtFbHJzeDFYWFJCaWJTZExqR2h6YUJLalV1aHJaVk01M3RRYWp0V2dWRmRhWFdfQUxMMkZONXJpMXd0djVEeHh3ZWQxRzFMUzhnSFlPaWd0SlI3NHRpRVdYSkJ0Wl9LdDZEVmpQVWc1THdkSXVYY3ZHUVpHcHZrZnhGNGFHMzk1X3EwN3ZSZWtUSFgwZTI2ekM1WnFURmcyR3IzZUg2em9xa2VEb2xqUE13WHBVd0pkam5ucE9OM0oyeEEzM0NZbjk0US1zWkFUYk9qWjNCV3hhQ3JHNmVEb0RpclFyenc0NHFKWlN0cmxYUFZYMjNzQ09FelJhZWFaVUFFWWtqV0I5T3R4bmQ4a3hwdmZRMG8zQ0pqM3ZxdnNEWW9yVmUyOGFNLVpVcEc0MERQZmdyVE5PTFpVRHlZVmdJUGg3TGRtLXdZcW9qaWk0cHI2ZkhXTlIzRkMzSk1RM25QRUZwclpZQkwzbFMtNkxjdEYycmJPU3NBQW1GWkZNaHBiZVBIYVlqZ05ZRkNHQ1RGU0w4T2hnNWRHM1FDQy0tUElnRkd6V2ZhR0dGMXM0dGZKazN3M2ducnljQ0E50gH2A0FVX3lxTE9hU2kwYnU1MDd0Q1VfbW5ZLVRlOThabTU0bVhlRW4xUTFlX0NSU1A2ZVhGa3M4SVBDbzBBajZ6aXduT3FRSVd4bFZ6Y3F5VGpsRmh4d2hnZXh2c2RtRjVhcWdNWlRENlZRZVBhZ2dVRGZva1VaRWdTbUVuZF9Db0g0NnMwbnZfbGFXbEZXbFk0SXdLNi1tYnNtdlpGRUlMWERaXy1qbHNyZWIzSmtZMlQwS3ZLVUFEYmlIalJOR3ZGWXBaZlJZWEJiZG1MN215eDNTanMybFZjU3gtVjlvQWJ5TGpmNjhTeDJEZDgweUtKdkFOejZySzJQUnd6SkpUWnh1dTFDNV9WU1V5NWVESElvdVZPbE5CN3o2NjVad05KVnhBZWJfbWtMaGtfbG93LXFjazdsaUI1QzF4QmhmTXZDREp2dzVLWFU1X210NFFSalB1SzRCYVNPbnlQTHR3NDJNaUdiUFc0ZFc1SnI3TVRJMVpMV2szQTRfTU9qbk8zYlNnUWpjX01RQ3ZVd1lOM3JLei01X0JUR3lLcUQyZm4wX2wxUmhPMndzTnRkdkpqYlpsNFZBZGh0R21aamk3X0pUMldFUGRDUUJhb0ROZGY0SlBpX21iSTIwSGRfSERFWXNoWWk1MVFha2FGNkk0aVRJMWVwYVE?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 17:20:00 GMT",
-        "discovered": "2026-09-23T21:08:07.745451+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كرة يد - مصطفى بشير على رأس قائمة الزمالك في كأس العالم للأندية FilGoal",
-        "player": "",
-        "content_hash": "5eb89fb58160a422f036b506c6d85063a3f104529ad753b471a2b4598dec6069",
         "sent": 0,
         "section": "sports"
       }
@@ -2294,22 +2310,6 @@
         "summary": "الطاقة السعودية تنفي شراء 25 ناقلة.. وتوضح حقيقة تصريحات وزير النفط العراقي العربية",
         "player": "",
         "content_hash": "5c30a9e385394a49d3db9573300a188b3df6230bd94beac1b05751883274d146",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 4558,
-        "title": "محمد بن سلمان وبوتين يستعرضان التداعيات السلبية للتصعيد على أمن الملاحة البحرية - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNSU9GbF9Td2tLd0Rfa2l4LTB4eUp2OUtwRFRxWHd6eHdSYmdrejRTaEFzcUlZcHRzUkF5NE93ZVhnR0xiajhodXpMYktuUlh2VnVYbFVoYnZleU9IWTA4OFhqVUNFTk5GczJjdnJSUWs1dXpoUnpNb2JBM2JFOFo3aUZRU3dhM3FDbzBpMlJDRnNfcHR5cHlvZjVKZTlMQ1lWclVsWW1nZEZyV1k4TXhVYXBoLWUzUU92ZUMzTWQtQURySlBWVWFrdklqYzBaSHlkVVVoY2xOVXlRVEYtajMxaHZtbWhEX3k1dmVwV1NmU3g3R1NOZVZHNTAxZ1ZyQzdHNndmYkM3ZXhTaEZnOXZPS1VxcU15eTR1XzlwS0RCTHU5OTBaZ09tRzFDY3FfR09QdDU5amtYUUlGajdhdWtERUQwYTZLcVVCSGEySWpCc0NHdTdwYm5QUzk0QzJPNG54cjFyRG02VmhhdU10V1JYcmxheUxXNG9XMjZLTk1HVlA1dGRhUmFwdjVlSlQ2UUFkNUczVmZKQkE3VnBsUEZESC1nQ0daV3dVcXlWaUNfSWZCU3ZvR0M1dDE4RUN6dENwTzcxcWxtdERycENEMjA1Z0FkVzlUYUg1VV9ldTljazM3b0NJQjF1bmRraXlhalhEMU9TZnhGOWxKRWRIVGUzdXFaUXRvUUZUV3Zid0o4Ri1xaTFGWUVmWUdSOE1aMGctUkdUekE1dGszYVNmWFZHNC1qaUNUV2FrQjlKR2lYQTBmUzY4TERkbXNqVVB2ZmRlWmVHVjFPQ1FqVjBrNkExOERnYTZxQWFRRHEwYVA1WnYwM042RjV0VnhDNlc3c2p5a2NreXp0V1d2VVkyTkxvVw?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Tue, 22 Sep 2026 13:39:50 GMT",
-        "discovered": "2026-09-23T18:25:34.098133+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "محمد بن سلمان وبوتين يستعرضان التداعيات السلبية للتصعيد على أمن الملاحة البحرية الشرق الأوسط",
-        "player": "",
-        "content_hash": "7f11cbd939c1a290521f8b1ef4d25442e44194315ce3920f38a451d07f692daa",
         "sent": 0,
         "section": "middle_east"
       }
