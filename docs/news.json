@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T07:47:56.812544+00:00",
+  "updated": "2026-09-24T07:58:04.749827+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -709,6 +709,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 4726,
+        "title": "بطل كأس الخليج العربي يحصل على مليون دولار - filgoal.com",
+        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPa1ZrYzg4YjlUQmxZaFNUMVBIVlJ2VFlpN1loeWZYY2o5QVB5RWRnelJGV015a2JqRjRiTzRDY3VUc2ZWVkFFSHRCblN0NGRDSnBWVW1mTjdRaGVieFpiZGNTZkwwNml5YVFfU1ZSSXBOZ0JWM3lpT01wdmZkbUVSS241UDh5V0pfUWVSWHcwcThqQUYwSzZkMDc4VTNfaDJtLXlsT2RiSWpCMVEtajhVVnlpREo1c2prclZ4Q2lyRFVRMjRvNmxsTUdCTFVkRS1Jd19Ja0JwNVFSeENxWnE4OUdBQjVMMm9yMElWOGx3MVN5T2wxQUJXWm1tcnBid0lub2RqaGh3aEE1Z2xOeW1hRjc3WTJ6YXQ0ZlhpWk80Z3BzN0FVWnQ0alhNZmNTdHJhWUM1cGhCMVhnZmkzZmMyZzlTNEpvbjM2emU3cFZLSG9NNVN0eFRGdmlUeWljNWF1RS1EdWlmLVJIbFNud3hIQzVmc9IB-AJBVV95cUxQQ3VTbDZ1eUcyTUpIZE8wUFl6dXQtcXlSVW5PdUJxblJnRzRoWWdsNlJqcjBRdFVmODFrYi0yQ2Uxb3ZXSlpiUEZZNG5RWV9tNWZ2VUVPUTRRZDZqb01HekZBbHpJLS16Yk1qbFlGR1ZkNG8tV2kwSTZsVmdzSTlzNnBKZHJoUjZFVzBSeVBSUzNVenZxclNLNjJhRlZtVUdxM0YtbG1qRV9FdWxmelZ2ZXVqRjFPemtpbWNSZHRTT0J2U2tyaUViYXAyM0pjS0lzX2Q5SnRvekxDelB0dTlPSUpRNmNnMVdlWVVmMWw1MS1wWWtKZU5XdEJCN0lfN1pZVVlkNk04b0NfdmRvTzdvbEthbGRaV2ZwejA5SzJUWHVjMTY4aXB1eUg0OFBYZmQ3RlFTSTF2SmJKSm5ZR09zRk1kTW5ZcGFBTGhBZS16V0FtckZkdWZHVXBHZll1SlZLSUFGUEJhTEZhSGZjOGJGYmd4X3NhUkNu?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 07:40:00 GMT",
+        "discovered": "2026-09-24T07:57:50.439914+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بطل كأس الخليج العربي يحصل على مليون دولار filgoal.com",
+        "player": "",
+        "content_hash": "879efbf069dd4a171dce5015f27285813eaf887af48989dfc61ab1bd02007eb9",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4724,
         "title": "كرة يد.. موعد مباراة الزمالك ولوس أنجلوس في السوبر جلوب والقناة الناقلة لها - يلاكورة",
@@ -1492,22 +1508,6 @@
         "content_hash": "556f6ee711c29bc6d06a667e24141e0a29168883c36e951add3a1ee05d4d763e",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4620,
-        "title": "من الملاعب السباعية لقميص المنتخب الإيطالي.. حكاية أونست أهانور - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxPdzg1TVYtODEzOWZKSy1KSnRCei1XYUwwWlZpaTBVNnJNTDNRb1NEQnpsZjZJUGtKOVFMZHZvYVdtM0VaRnVqZ3IyVkJDZi10TkhPa1FzLXJVTVZxNmNLNnhVOTFKZ2NGNkJ3OHJFRTNUbm9mQVFQRFNib1gyTGhtRERqNjZDSW1xcjZCUG5DeU8xdUxBX3NpTENzYnlhU2pqdVNrdE92SGplRFpmUkdEREo2bVBuS3FVa1dCc2x3TGhHQzJUOVp2Zm9DZjVoZ3liU21ZMDl2NGwzOTQ4M2dIdkZOUW5JSnRNVDJpeDcwZmFVQ0NHNDhjQXdGR2NCejBOd0Q5ZFROVmRmX2UyLWNkR3htUmZFdXE0WVBDT00xazByWG1pSmllZ1d5U1RocGtmMXlxWk1jVElGUHQtUGNXNHZaNU8wX0k0aVpZZjNhUmZwWWRNbEMtcGstX2FfMDNoX0NzTU5HcWdQQmdFT0pSdU1oOG9Mb3RrMU5QNVpEQjFHZW8xUEdxNi1rTEhZYVpmbTA3Rkx3NzhtVnk1VmMzcU5kbWlWQUVtdl9ZeFAxZWRsRTBZMW1wVTVoYXhOb1pTRERMaHR1TkNIX0o1SUs3aTdmdnZ6TDFwYVpnMU55ZGI0cDhqaXJkZFRzVmx4bGEzcnR4UU1tV0dnREp1N2l4bzRPNEpXa3JlNVlBeHhn0gGoBEFVX3lxTE4yMEI1Wi1CTlhPVlYwYklBc3VTa1ZxWXV4aVpjOEV1ZVp5djJOWTZpclV4aWF2NHRJZWI3dEo3QWlUaHl0dGpTd3lQQlFwVXk4REZOcGJaSTU3c3Jibk92YjVYTzVaR3VxcE1LMHVRNzd1VWJrZXdMdnAyVlRZRXlOV3E1eVJ1bE1EN2EwYXQ4dEg2V2xUUG9DeGl2NUtrQ0ROT1pMSnBPdUdIVUE0RnQxdHpINGItRmF3VkMxaWlCTW03QVVWNW91TGZya01UNlRfYlZ6SVdUU1c5U1V4QXM4MzVmYWJ0bnF6VmU5cjZPWHRVUzdoUXh0VWZqYmhBMGF2UGk5SnVYb2ppTm1SNEFxbTRONHI3bVBGVW1yazdQQzhVaWt5TFFlNHlhZ25rYXpzWHlKNFY3cU52bEFVdUZOQUZlZDJHdVJNOV9ubkpIaExpYUJQaTJpcm05UXBJUEg5OFNqZ2txUzlPS1VuRWQwVnNqaVFCRjU5cjNRdGlGNE5CcnVraEwyXzcza1pKSm5veDVyWVVRbXVBa0ZaNEtLa1didEU2YkxrcGktdVl0Y3FGMXZZWjQ1aURCbEs3cVQzUDloRk9UYkdxaG5RM1o3UkkxdmJmZlBsbk1fTmZMYmcxT0NuZVBSaDZfNTA1SEU4Z1ZYMDRaTnRySVRTbG5mbXpDMWstQWdJUGNIOTh2VnFrMkI1T293amZEblB1dnE4OWNKbTdGXw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 18:50:00 GMT",
-        "discovered": "2026-09-23T22:21:31.231554+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "من الملاعب السباعية لقميص المنتخب الإيطالي.. حكاية أونست أهانور يلاكورة",
-        "player": "",
-        "content_hash": "556f6ee711c29bc6d06a667e24141e0a29168883c36e951add3a1ee05d4d763e",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1524,6 +1524,22 @@
         "summary": "هاري كين يرغب في ممارسة كرة القدم الأميركية بعد اعتزاله الشرق رياضة",
         "player": "رياض",
         "content_hash": "ecc8cf45e380f4f9a1b78157bb9f778c77be3293ca98fda669878429ed97a271",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4727,
+        "title": "البنك الأوروبي لإعادة الإعمار يتوقع انكماش اقتصاد العراق ولبنان - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxQSnV0bXU0a3JubGU1ZlZWOHJubHY5WWpCQ3B5SF92S1p4UWxPQmk2N2lfR3V1bWt3WldpLVV1Y0lCMDAzR1RzekNPNDc2RGlqdGFrQm9nV3UtOGo2Nm9ZTVVjVC1vN3h4VzloTVBfVWRHWUhXVDA4Uk92UjdYQzF6MVZkMTVrNHk3YkoyX2dBQnJPNGZyY0JQbTRlVkxSOVFTaGdiVFo3RHEwUlB0X3VhYXZoekV0UVAxSGVmaGk5Sm5yQ1dlNmQ2QmE3di1tYW1NSW5ZUFk3SkJGMXlzaVd1U3Z2RWpwdEN1NWhJTWtVVVRJVmhIN195T0pta2lFbV9qWUtaWWVCakFUa3hRTzdKYzNnZU5haUJKVEFlMGRDOWs4Z0x4QVpZd0FNMU44R2puRVppSTZtQnJMYW9BWFVMWXZLOEVUNG9tbG54b3ZYRW4xVERsZWtpOUxYTGNFWlVhMjFSNGVycDlFN2pWYzdmYV9BM2R3YTA3djYxLWJkOUZBYVQ5ZXZYTzFwaUx2M2xFSU02MENTWW1ZRDZ1eWJ5RG5tYjJUaUpuaTctZXk4bmZIN1BZYnZpc1dVSnlxYWFCbU95YVBhdlk3a05vcnRKWGZ6VG5JNlBQSWliQnFXcWhtMTlpenFoWk9UVTh2UThoLVVjN3NaeTN0eFRNdUpMQm1ReDcxMldwMmFXQw?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 06:58:46 GMT",
+        "discovered": "2026-09-24T07:57:59.224349+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "البنك الأوروبي لإعادة الإعمار يتوقع انكماش اقتصاد العراق ولبنان العربي الجديد",
+        "player": "",
+        "content_hash": "5393bfe2e26b864a218c0ccb23b6a6b10c83407bad0ca18ddbe9d25546748d8e",
         "sent": 0,
         "section": "transfers"
       },
@@ -2310,22 +2326,6 @@
         "summary": "محمد بن سلمان وبوتين يستعرضان التداعيات السلبية للتصعيد على أمن الملاحة البحرية الشرق الأوسط",
         "player": "",
         "content_hash": "7f11cbd939c1a290521f8b1ef4d25442e44194315ce3920f38a451d07f692daa",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 4266,
-        "title": "ترمب منفتح على لقاء بزشكيان وأنباء عن عرض إيراني بفتح مضيق هرمز - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQU0o3VGItLXlINWlGT3Aza2VPUGwtSVhSSk9KN2U3Sk1KNXowT3hpQU9kc2hUOW1yZkc4bmJXZV9OWWxRdnVjM2M1Vnl4RURVYzBjTFM4eDJybW5GRmlPYlIxVEVNbmJvbHU1R3otNWdkc3djN2NXM2xqLWtJRzBLZFVNbFpYYzZ1QlkweHNMUHJuUHYtWkRsTWo5dktkTWxCR0NtM0h1SXd3WVlnLW56ZlpnbEV5VWZUb0ZDV3BIbElVMVVDVnlwLXpva3FJd1FSVXZoa2trLWEwTV9mbklwY1FONUZaQU56UnpOUVhjYXNGNmJqdEpQNGVvY29pLTdoWjgwczFsT2Npek1odWppNno0U2gxZ0dUTngzNjBhNzRzZDJDYXRVRUl2RnF5LUlGcUtmNHhISFdqa2FEQ0t3TWFsb2NGVy1oT0HSAc8CQVVfeXFMTU5vY3ZpZFZvVGZORDZ2RU1wMjduN3ZuQnVTd19TbnZrbGRwRFJrWFljU19tYTVybDZFeVR2ejJucHlMLUVURXBUcFRtSzZKQ18zaXgtOHdWRjlaQ05wOEZSdTJCZlN2QS0tUGZtUFE2anJXWXFpeWpZYlptdEJRWnlRdHlYSXgtc1Bpa21RVENlZWRvTDAwczVlcktyZXN2RDdqbmhlcTdWcU9HOHRvX3QzS1VCM0lvb2VrcHdIUkVnYkFBQ2ZTd1BOdkltYVM4MzVSaEZlTkxYdmVfS25VbThxeFZfeUZkU214SERSQ0k5SWROVHZfb3dGb3h0OUhBYTVTa2ppVXdsZHluQmI4QkUyN0dyOUxCWVhVdmF1Qmd2dHRkaTJmSm5aclMxN29JcTk1T1VpTHF0UjlDQzVad3Q0eGFTQWlIV093V3RKcWc?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Tue, 22 Sep 2026 11:24:49 GMT",
-        "discovered": "2026-09-22T21:44:33.889848+00:00",
-        "category": "الشرق الأوسط",
-        "status": "منفي",
-        "summary": "ترمب منفتح على لقاء بزشكيان وأنباء عن عرض إيراني بفتح مضيق هرمز الجزيرة نت",
-        "player": "",
-        "content_hash": "45a0ec95d512cc6ab12b34b86e94e49326c062f4d542af7ef271af45193f1431",
         "sent": 0,
         "section": "middle_east"
       }
