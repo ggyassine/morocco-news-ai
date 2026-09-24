@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T23:16:45.980197+00:00",
+  "updated": "2026-09-24T23:29:13.877184+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -564,6 +564,22 @@
         "section": "morocco"
       },
       {
+        "id": 5039,
+        "title": "افتتاح مكاتب التصويت بمراكش - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOUUJGMWZfWXU4OUFzemFla2VPaXprZUV0TGVKYW5SOXhBczg0YjkzX280QzFvRlRYMGhvMFdlZTBYbFhaSU9xeXRBRmQ3dkd0UmhMcWtYY0F5Tk5ybHUwdmIxV1ZtVDM4Z1JGRm8zV2J1dlhWVWZNMXAyaC1DczhlTVVfTS1mOGlrN2hxUFRWTzZwRGJFN3pneHJBdE9KWC1MQldqSUJwR3d1MnRTU05ucnN5M0pUaG1tajF3OTJ0S1V1WWFhY3dPSl82ZWlpS0F6S19xVk5VNi1DT0lFWlQxWm1nNEtZX2hCZEJLN01KazBqT1dtUUE1MkthVE9QaWVXNC1BQ1c0LUM0UE9FeVNCWTF5SQ?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 21:43:33 GMT",
+        "discovered": "2026-09-24T23:28:46.564487+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "4b9da489badd8fd79a7bc6773ab9b972d5b0ac3244cc2400c017c656c8835555",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
         "id": 4668,
         "title": "الأمن يطيح بـ10 أشخاص بتهمة التحريض على اقتحام سبتة ومليلية يوم الانتخابات - برلمان.كوم",
         "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQeUpNOGc2bWNWeEtqRkx5ZmExRlFYcm5NbjIyYk00RmJDWWUzN3IzLVVzVEFncFh1TEdlSElvMzE3Y1hBaW04NzNmaF9zU0dHZHRMYnFoMk9DTWt1b214TWNSdzFLUmhjNXNmRWZLNEVWV2tRaHFudGFyQUk4dWpyM1Y5akIzdlBHUlo2SFZub0F2OXRXUTZvM0ZsV2M0d28ySU5FVERGcFJ1aFAxc2NwTlZuWmh2cS1leXpZQlhLZWpiaFp1Zm5weFFuNnZEMndaeTJSMmY3eFlkUk92V2JpT3BNaXJON3BVa184RGk0aWZzQXljamNFajRBNm9iQklTS0Q1ajhIdnhJc3hpRmdZZmlfX3dSdXpFbnV1YjdBcWo2UnZMVXNEeXkwRkFhV2l6UXlSMWxaeENJTEdJZUE?oc=5",
@@ -656,22 +672,6 @@
         "summary": "\"البي جي دي\" كيستنكر رفض السلطة تسليم لائحة تصريحات مراقبي مكاتب التصويت بقيادة واد اسلي.. ومصادر لـ\"گود\": لاليست ملاحظي المصباح ماشي قانونية وها علاش ترفضات - كود: جريدة إلكترونية مغربية شاملة.",
         "player": "",
         "content_hash": "1048313b8465a498f9713cf7ef89039db67cefb7b35de83870f4ec4104a614ff",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 4541,
-        "title": "البام يصف أحداث طنجة بـ«المؤامرة» ويدعم فتح بحث قضائي - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tUFYteHVXV2t1VlhmVTFveTlsblZJbTJYbjVzakN3UmprYmd1UmhyN3Jmc3ZZMVRIY2lNcWI2VUJOMXhCMjJncg?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 17:32:55 GMT",
-        "discovered": "2026-09-23T17:44:47.756177+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "البام يصف أحداث طنجة بـ«المؤامرة» ويدعم فتح بحث قضائي Febrayer",
-        "player": "",
-        "content_hash": "d85ee7747099803e70055ab74bfe3f4ab9ad8252c674a6d2c7c205e3f7b45029",
         "sent": 0,
         "section": "morocco"
       },
@@ -774,6 +774,22 @@
     ],
     "sports": [
       {
+        "id": 5041,
+        "title": "اللاعب دافيد نيينغي - الإحصائيات والسيرة الذاتية - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOU3ZvdVdfeXRkV2hVRFpDRHpLMUFWVGt5ZkF0LXJlRC1TMGhPY2dodnJTMXduVi11REFiQkNwdEFLRnc1ZG5xQUtaQ1VNNXNDbFl4NVI5OEJMM0djQWxNTk1FYU5jX3YwM1BjYVJ0MGVOQlFIWkRFWUp2ZnhWZGUzSHdiZTJOTWFzaGNtcXd1UFMySk9rUlRubEFreHhNYmd4TS1fUDkyTUtOemgwQ0VZMEY3RGNoX0RmSEx1OEsxTjRIZWd6eUJZRHN5Y0Z2TWVUXzhzMUpYczZkTGhqUXRNaC1yMlgyZXVTUENMdGp1dXRiel9vdWd4RmJNR0NGU081Rkk1eUoyOFpoT01jbzc2M2R3R29sQQ?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 23:19:23 GMT",
+        "discovered": "2026-09-24T23:28:53.287684+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "اللاعب دافيد نيينغي - الإحصائيات والسيرة الذاتية Kooora",
+        "player": "",
+        "content_hash": "d1fc80047ae01302304b62ed4baa2c531917fae1a9758078b4ee18f57c6bd769",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5017,
         "title": "وجوه بارزة ذاقت مرارة الهزيمة في الانتخابات التشريعية - Le 360 Arabe",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDTV9KYXhRMkg4ZF9HLUo5bVBORUxBd1RIUkt6OEhnZUNnM2tuYUhqbkNJeXU1bG1MZ1dpYUFIekt1eGprZ1E5THF3TUNtYzRPeGpnT18zcWFhemN6OTR1eFppeUlrUms2?oc=5",
@@ -806,6 +822,22 @@
         "section": "sports"
       },
       {
+        "id": 5042,
+        "title": "أبو ريدة يشيد ببداية منتخب مصر للشباب - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxQdUU2WlhtSnVNZC1lc3VyUC0xREFpeWRzQVUzMFV3WDlNbkxMcG5RczdiZHpRNlY1UWlaa3dBd0hERGhubEdYd0xjNV9TTnpYVWZKMnBlNFJ1MGM1d25QY3Q2LUxoTjVjODlOT214YWNfUHh1cGJlSzBRMEd4c2t5Tlg5bEVNcVpWOURra25IVjJMTUtvLUgwbEIyanVWX1VFZHkydlhpTXBqV09TMnZOY1FCcmtQdDk3eHFRVVVOWjhiWkUtdk55aExpcWZnV2Q2NEZUS3RqTGRPYlpKRk4yLUpWVnZVNldseGhKOElUWXR5cUZiQkRoakZqS1dqMGdxaDhOTmREbGl1QU9BM2RtM29XWkt6VG9YSmE4N1ZPa1RLeGlmUk1hUVU3dXhzdjZneWJTT2FSZnlmcmFTN3JVa2k2dHFuUDV5QV9Dc3JXMzJJbEVLUWpOV0M5QmhzX3ZJSHd5aGVFNFZYMEhXN3E2eFRIYnFQSUFJZkpfbHNvM3VLdnRTMUlvZ1Jzem91cmhXdHhtWThGa2lULUNBb1VBZkhLU3k2RmFydVJtaDctSW43NHFRRHo4WFlIUF9nMGxEVXJ2N2tzYmY5ZXJ2?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 22:15:42 GMT",
+        "discovered": "2026-09-24T23:28:56.424685+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أبو ريدة يشيد ببداية منتخب مصر للشباب الشرق الأوسط",
+        "player": "",
+        "content_hash": "e5ad401e3a4082dc5a4c068fa6d3a2ce7311f316142a4c7088a65045af36c1cb",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5013,
         "title": "فرحة لاعبي اتحاد طنجة بالهدف الثالث في شباك أمل تزنيت - Elbotola",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2ckJDZzBDdXFFUXIxLVppTTAxTUJSWlBOR1k2d0xBNk55cXhNUEhjQjZTUllyd19USGxRZzg0Wmt2a1M4R1U3VnNhQkYtZDJjLUFRSjlGS2RFT1FNVHIxb1JrMlNmRnhncUpVcVBLM0I?oc=5",
@@ -818,6 +850,22 @@
         "summary": "فرحة لاعبي اتحاد طنجة بالهدف الثالث في شباك أمل تزنيت Elbotola",
         "player": "",
         "content_hash": "8b5ffc05940a42bfc8005f91ba7ac26f8e59069503fad5bb0466445ba417313f",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5043,
+        "title": "بالفوز على رواندا.. منتخب مصر للطائرة ينهي بطولة أفريقيا في المركز الخامس - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi9gRBVV95cUxNTi1pTlhvNk9aU01udUNwb3BZclg5V1RGZW9KX1JCU2tuQ1VYM2lMTWw4X3JocWh3eGh1S1ZSZXNPRFJDaXg0MEN0ZmJGS3NfRDNzczIzYjBKbnRFRVdUTHJzQ1IycndoazAwRERKVmdTa1RsN2tnOTZLWEtQUGtHZGQ2dklaYzMxYzlac3VOT01SWjNYdFFzN0x3cldjckw1dDloWVVYOFlqU2pwaUNGeFNXci1wRTdRNHlVS29NVEdneG1RV3JwQ3N2UkZUcG8xdFl5LTUxZXJsVXpuTVRsc2g0aDZURTUzX29NTmxoa2FlVkFEaXZ2SVpnekNYNnpocjRKdDdtQ2U5aDRMNXlWZFQzZFhLdzRyTG5BYzczd3IzdmRkTlZ4Y05UVjBJNDN4OUpOdUg4T2lOdVhqeXZZNTZIZVl3QkNwUGY4N0hwUVlPdEtjZ2wydnM1NGRRX2FkSVNXLW91d19Pd1p6cDFobkRZNUZraFR6OGVLN241bndHdXA5VjIxRm03cW1jWko2dVAyV2JEY0VrZ2Q3V3FWUG9DN0tHbjhDT0ZjYkQxUDV6RlFNSFdkajN4NDdndjhmRU1kSFlSaXN2RHRVQjl0ZC01d0lsUjBkMzFIM0ROM3NmTHVubmdxWFRCWEZIc05PTzFSbUNndWVxM0twelJoYzMtWnJQUzJkVkNzUlNEN2R2dFgtWEVBSTZhZEJpWXJhLU9uenRodjVvMmk0TTNpZWxNUVRYZnNScWU4VXQ3MGFfMHEzQllKZjVYTnFUMjR4ZXRaTy04aWdyU1ZubFltNmdxanU3Mk0xQW10ZnVoaUhFcGZPYWc?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 21:53:00 GMT",
+        "discovered": "2026-09-24T23:28:58.206416+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بالفوز على رواندا.. منتخب مصر للطائرة ينهي بطولة أفريقيا في المركز الخامس يلاكورة",
+        "player": "",
+        "content_hash": "431bb9b3fdc96d9b7c953d19ec9481283b563abb53c04eade8f31dbf96b23b1b",
         "sent": 0,
         "section": "sports"
       },
@@ -1522,54 +1570,6 @@
         "summary": "انتهت دوري الأمم - هولندا (1)-(1) ألمانيا FilGoal",
         "player": "",
         "content_hash": "cd0fd4193992746b773b81fc41c2a76cffb5f75420ce74c6a2a5172104b43a56",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4940,
-        "title": "مباشر دوري الأمم - هولندا (0)-(1) ألمانيا.. أديمي يهدر - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOT25fOGxMZld5NFlmakF5RHNVNkxUTzhVYkRVTE0yWWE1NU9Mcm1CYXZWampVT2ZfQllHS3dYVHVvU1ZDQTlOSDdIcnlBQ3dQN1NLY0FYWnFwdkU3QU9CbGtTR3pDbUlGVk02YlMzRlRvN3d5WUJwbThwTkktaWp4dzhHbTZJN0t1TGkyb01UUUtYV2NTb1o4VVFMYjM2SHRhbG5NNmx0V1FpeXNVVHZaNi1ZOFdQTmNUV1RYS253dTdueDU5Q3I4UjdxZkpQYjBUTU9DbU5JMkF0RlZPSXlDeVhwMXZ4MC1UOWI3OHB3RUZXYk9rV0dQTXR4dl9QV0JOeHNFSTVNX2dFNC0zN2k5LTdjMU5nR19kNXQzV0RIYmphR1lXdjNDWjJYUjN0OVdJd0ZRejlCd2VQQWd3Q0NQa1FCcFdzd0w2RWlSdGx0RU1nQ3BwdjVGdXpuLWpLWEFFRnZMbzBRbGkwQ3VQSXdXLW1fN1RucWJkaDJzZ0Uzc9IBhANBVV95cUxNNWFZNUpFZmt1MkdrdkJyVTNWV0NNd3dkRkhtQzdNRmdJdkdiSWpNWHBQZkR1bjN1MFZWdjJhaDJIWXZscWUyNDN5UGNUMHpRNXFqUWprZDNJaXRyaVgtQ25NeGlLWHJ4b21OVGR1UHNoamk5S3pIdnhEd1lKOHJNTWhDcVRzTFd2bjlDbTFjamgxWHpXQ3pac1JMckwxbzN3TDZDUG44cUtiRmVONzVKemRqMzRCWi1uVFZBY2RBV3A2MXBMZXBGMnVJSUtOcjhzenVyU1hIYURvTWs0SmJOQ3ZhOHIzNnNkQk43RUszOHVuejc2NFZPNVFFNExhSzdMWjlpY3prSDhhMlRFbGZ0UW15YW1HQ2xzazROZ0Z6N1F5UkV1Q2NNSGd4XzU5cE5XcUVhbkdfQ2dJejJxQVoySHcydFZkU0JMbWFZMW5mQVVsOHlEVDJScDJ3dHFqRUs1WjNvdTZuY1o3MF9MZmZlNVhQdG8tUWVmdG5Wb2ViOTA3dlNK?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 18:46:00 GMT",
-        "discovered": "2026-09-24T19:40:23.610344+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباشر دوري الأمم - هولندا (0)-(1) ألمانيا.. أديمي يهدر FilGoal",
-        "player": "",
-        "content_hash": "7a78ff9ec7fd8edc50133bb17a7f51b0ddbba826c7b36b7e0cd6b4731085f9b0",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4924,
-        "title": "مباشر دوري الأمم - هولندا (0)-(0) ألمانيا.. بداية المباراة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNelRkNDhhUWhXbGVUMHpTMm9Zb3JxaHF5YlZSZjZiNnoxWXdUSXpmeXZya1J6SjBBd0tnRHVqRTBQVjluQThlbU9WOW4zSFRTT2tGNFhUWGtlMHdxRjkyZGg0R19wVzNxZURLV1JBdExmS08zVGJXOUJXOXFfcWdKV212ZnJUaWRVUTB0X1JGU0diUkY4dWlaeHVIX3I2QVRDQk1NTk14RGZWQXByQlJ4RjZjNm5GTTIyN3FMb0VHejFqa19jQUgyYzlKU0JxY2dwUWNXd1E2VUxsdE1lZm1PX0IzMmdtVWxYX0NOcks1OUdIVzVRMFI0bmpPNUF1dlF2VHV3ZENybVRHWDU2RVlVa2xWSlJ1RTZkc1hrbW5ra3YxZFhzNU56TU90bnBXZDVTZjd5OFVzN3oyUUZPbDg4UW5rTHBLRXA1dm1mQ0k0bGkzQWxCSlAzQVJiOG9vMmM3bVl1eFJ5V1JScG1CdEgzRDUxQ1FaNG1WaV9nbF85ZHdYSEZLby1Ud2Q3MjlMZjRVaTF3U0Jtdnp0azFjSGtJ0gGkA0FVX3lxTE9aMmxGVmFwMUtCNTdzWjhrd0l5a1FNaTQwYmFXQUNUMWJCTk9pcnA5UEs0WDZQN2VQQTYya0M1ZDRoaVViSy0wb19nMDRFOWZZYkQ1MTRuWDU1RjdZb280MkcxbVBwaEtyQjRtb21aV3E0N055WW9jUmlKLTQ0VTEwRUNWRjhyeXVPUjdJZGE1TlhXZ244YWxfZ2hwSFpwb1AtN3diRmFKbHhDSVNKNE1QREZWeURLblhhTEdMZDZiRTNaclZEQnJqQXYxNnByaFJTaElXSUlSZHljQThXZDVkYWI5UzhIYmJpa2pTSnBfaUltbktkN1laVjdVdkVQTk5TT1dCcG5PT3NUWmtUVGhrbnVpemdacjk2LXlReE5tazhYRkMtWjVicTBDZ2Z6ejJTVnZsVUd4amFiTERoZFhxamRvUnI0bDk2dWdiOVhaRVVSMUxBZGYzNE92OXROWC1PSzhpNV9rMWxWcWcxNHdOVEZlOThpdmFuWVlMSmNrdUk5cTdSb0FRTHk2eGJ1SzdhSUp6UFFGcHloLXJtdnA2US1xUg?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 18:46:00 GMT",
-        "discovered": "2026-09-24T18:59:36.125097+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباشر دوري الأمم - هولندا (0)-(0) ألمانيا.. بداية المباراة FilGoal",
-        "player": "",
-        "content_hash": "a055a889900debe35b0f0a64ad30649a51bb3d2a8143e366e79459e2bec9841a",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4913,
-        "title": "شاهد الآن.. بث مباشر مباراة ألمانيا وهولندا في دوري الأمم الأوروبية - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQVzBOOWcwTnNKdFJjbkFseUtqNjBqc0Z0VTJCdEV0NzhSWFUzSDc2dTMzd3dudkpTOVJpZmtpdi1CZ05qdkg3Z3dxd2s5ZlRHUDRCRXl1anNyNV9DT25OTHUwUHpxdzlfNzFWRUIxRldQcmlISmt2c2VlLWk0c0pzR0ZQWDdLdk55M0xtSWJNZmw0ZE5keExHdi1YN0JOMVJwMVlhLUVuZXBHZTNEdE82S1hfWlhNRTJSTnJYYUJ5YXJaM05aYVFmMjRmcXFxYXZtUE5jd1d6UFlWbVMxTFFaWWNZQlVPZUtLc3UwZHFreUdZWXBnYlVWRTdlNkxGRHhuYllpQ1VjQVgtMGRsUnNRb0lVNUh5RFJtamdDRUpaVk82c0E2?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 18:45:53 GMT",
-        "discovered": "2026-09-24T18:48:29.961088+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "شاهد الآن.. بث مباشر مباراة ألمانيا وهولندا في دوري الأمم الأوروبية 365Scores",
-        "player": "",
-        "content_hash": "8584b63d58ceaeca3ff5b6cacd7dc14b8456d7ab3d9b47f0c790d2c6fd77d027",
         "sent": 0,
         "section": "sports"
       }
