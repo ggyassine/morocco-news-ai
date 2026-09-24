@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-24T08:58:49.768071+00:00",
+  "updated": "2026-09-24T09:15:43.059585+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 4742,
+        "title": "انتخاب أعضاء مجلس النواب.. وزير الداخلية يكشف عن النتائج - SNRTnews",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yMEVuVEcycTg0aXM5bE1DNUdwcjdoZzZxQUlsV3U4cmk2dm1ab00xb2c5b1RUZVZkYU9iVHFJUGd2ZkVsdndUSGJfUQ?oc=5",
+        "source": "SNRTnews عربي",
+        "trust": "A",
+        "published": "Thu, 24 Sep 2026 09:01:11 GMT",
+        "discovered": "2026-09-24T09:15:18.876175+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "انتخاب أعضاء مجلس النواب.. وزير الداخلية يكشف عن النتائج SNRTnews",
+        "player": "",
+        "content_hash": "eb068f54b5c280dd2097655973e493376ec7bda50983d0814f7a51989327c7ab",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 4740,
         "title": "المغرب: حزب الأصالة والمعاصرة يتصدر الانتخابات وسط أدنى نسبة مشاركة منذ 2007 - BBC",
@@ -2148,22 +2164,6 @@
         "summary": "«سار» السعودية ترفع أداء قطار الشمال للشحن بعقد مع «ألستوم» الشرق الأوسط",
         "player": "",
         "content_hash": "427274f257d0943fba12773a5ced5126b4af7d31d4dd82953d061c8a23c286cd",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 4247,
-        "title": "\"محتار بين إبادة إيران أو إعطائها فرصة جديدة\".. ترامب: أتوقع اتفاقاً قريبًا وواشنطن الأقوى في العالم - Euronews",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTXNrMy04ZlR2aXdOOUxSSU5TeFF1THNhV29Fdi0yNG51VEJXdmxGajVRX0VsZ242OTZjOVRCaDFaYUtzenpueWdmcEtfaEgzZk5SMERiNk9hSTNVaklsdG5hNGRtT1llU0ZKNEJLTFd3eDlvcG9FWlRibGxDX1U3NkpsVl9PeWR2eTctdWI0S1lLX2w2alk2bjFXZTd1aGVOa1QtUUN2ZjVWb0lfbjFpN0xDTEVsYzZZYklLVmFuSGpVRDFLY0E?oc=5",
-        "source": "يورونيوز عربي",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 14:34:36 GMT",
-        "discovered": "2026-09-22T20:45:54.478129+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "\"محتار بين إبادة إيران أو إعطائها فرصة جديدة\".. ترامب: أتوقع اتفاقاً قريبًا وواشنطن الأقوى في العالم Euronews",
-        "player": "",
-        "content_hash": "76b568d2e73d76fd4f900022a2775ae865bbf7d59f4fda5f2494fb62ea74bdd2",
         "sent": 0,
         "section": "transfers"
       }
