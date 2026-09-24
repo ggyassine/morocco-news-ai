@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T10:10:38.990366+00:00",
+  "updated": "2026-09-24T10:26:32.490909+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -80,6 +80,22 @@
         "summary": "احتفالات بمقر حزب الاستقلال وهكذا علق نزار بركة على نتائج الانتخابات التشريعية Le 360 Arabe",
         "player": "",
         "content_hash": "256cc0bc197788d335cf3e4edffd4c2d7e159b4870bb155c4fa611272ea7e66a",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 4756,
+        "title": "مباشر | نتائج انتخابات المغرب - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPbW1vcHZQQkRIeXFxVzJ5NnAyZjJ5UFlKZmtiLWthSWdwUTFKcFlCaEdSQ09mMGhmWUJnNnVrNEE5emJuR2pCaDJiTDQ0N2U1Rl9vN2NPcUxIT3pvOGp0OGNkSjRUdG8yZUFERW9CcG90ODBTQk02bjlabGlEaEZZMF96RmMtNzN4NFc1QnZxcUFJTW5HWHFEWi1CZ0ZlRUI1b3JTaUxuR1hTVXNXVnJHZng1UzBtUi1jWmVNdVFtWGRzaVlIZVlmckJNOVhqcWgzX3hRNXdOMkVlaVZBbG1lXzRreWl4YldwMWlGS0RmSWRQM3Vyd21PZXRrZHNPdWtfMnpDdDhwcWZOUFpka3VmOHBEYw?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 01:51:21 GMT",
+        "discovered": "2026-09-24T10:26:04.009515+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "d17f7e40d6ab6a7e3a73703907b9443fa65755a1be7e876ba0a33b3aed8d75cd",
         "sent": 0,
         "section": "morocco"
       },
@@ -2164,22 +2180,6 @@
         "summary": "بنك المغرب يثبّت الفائدة ويخفض توقع التضخم الجزيرة نت",
         "player": "",
         "content_hash": "f5d5319ebc82507a5bbd90d42b02038026ba80812b25c11e3eb61088dce0518b",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 4624,
-        "title": "«سار» السعودية ترفع أداء قطار الشمال للشحن بعقد مع «ألستوم» - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxNUktwa1NVcGdYYllhY19hOXFMOUFEbUpGY0Nic193MzBFZkZwZXk1SlpIODlNUGNBTXd2dmZ2QVpTY3BDWkNYNm1MMTFDTm1xUEJSVnBGOTR1bDhuVlhiMzRROXFHN1h3NE5EQUF6S1RxVEtNOFh3czRZRTE2eGg3NUlmaFRJRUJZQ1dOVEZnX1l2MnpTRDQ5ZVlMVmhRazl1c0owQ1RleXBiUkRoYXhUWnh4OVIydERCcVZhSGt1MndMa0o0bG1QSXY0ZGcyZE5OY1FIekZwMF9fRXZIX1NqSEFrdWo4NU9QamNLY2tjbnlSMVlxRUl1SnVLR3Rzcmk1eFZhSWN2VGkwRlBSMTVuVC1SQUdwT2J5YkFWS3lQYTdWVzBBSUxheHVRUThrSURtODFITXJaMDFfUzliRVZBVEFrbXdCdERJcDRPX2preUVfWGZUTmFkME01X2lZd3ZvZ2xKTzhrbi1VS0VUT0hCaGNnd2VOS1VzR19FZ0dWalhtZUxRQnRHVzkxMTBNM1NmdXZNOFU5SnZhWVAya2tpVHlGRUd6bk9TZkFHb0xPbGlxdGpVQ2ZISnJtN2JWUzR6eGl4ZGxyY0pUTUNyM0pOSjVMWUk1YjBtWWNaQTFKeVo1STlZclVnczZSc1RzaHZFLTdsdDQ2NDZPZUFpanc?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Tue, 22 Sep 2026 15:34:24 GMT",
-        "discovered": "2026-09-23T22:44:56.467581+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "«سار» السعودية ترفع أداء قطار الشمال للشحن بعقد مع «ألستوم» الشرق الأوسط",
-        "player": "",
-        "content_hash": "427274f257d0943fba12773a5ced5126b4af7d31d4dd82953d061c8a23c286cd",
         "sent": 0,
         "section": "transfers"
       }
