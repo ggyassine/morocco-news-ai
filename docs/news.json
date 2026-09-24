@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-24T11:34:09.000483+00:00",
+  "updated": "2026-09-24T11:47:18.123143+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 4774,
+        "title": "هل تتولى فاطمة الزهراء المنصوري رئاسة حكومة المغرب؟ - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtaHQxVzI5UU50U1pvMHFJSWthRzZ2SzF6ZlcxNFprYnRvMndtY1RhSVhEQ2h4VjRtc2E4eVF2UjFST1BVU1V1c0NiZWxiaUNQeFFUXzFwQU14U1lYTkHSAWNBVV95cUxQN2RHakxhWW5haVpZMVZKQWpCWkV3ZW0yVUxvbXI3Q0IxaDJuNW5lLUo5YXlENm9DNmUwWnNTRi1Kb0poTGwyT2pCUWhZZ0ptbkl2ZmZMMXhTaVFKZXQ4bmFKTjQ?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 11:44:40 GMT",
+        "discovered": "2026-09-24T11:47:14.422262+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "هل تتولى فاطمة الزهراء المنصوري رئاسة حكومة المغرب؟",
+        "player": "",
+        "content_hash": "3cc86ffeecb679cb51f5d0a932c9e859904778d4f157e25ce828b220c338ae3c",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 4758,
         "title": "الانتخابات التشريعية 2026.. المشاركة في حدود 38% و«البام» يتصدر النتائج - Febrayer",
@@ -754,25 +770,25 @@
         "content_hash": "474690a3030ccedb1920c8ac6871ce324f64e6ab05e59899da2c7a0838e9e453",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 4273,
-        "title": "واش كاين أزمة فـ”الأنسولين” بالمغرب؟ ها حقيقة الخصاص وعلاقتو بالأقلام ديال انسولين - كود",
-        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNZVVzWEl6Y1ZwTDlOWWZ4dm1fWkh4RGxmNG9JMmdiSHJVbDZJd0diUVhMVGkxajhCTDhZYzFUcnAwZXk5b29SUmE3Nl9ZOUZGLVdDZUd5VkV6UVZxd0JaQVdXRWZXOUZITEFrdmRhX0xzR1RDNWRHbmszOFk0THNGaHhhSkF4bmoySmtuMkMySlRiVnBNbEFZRXgyLXJrc2x2eEowdk43RFJhM3BZUkhYUGU4bEU3ZzVzci13b0RwN1QtMmwtTkpta1hBbFV6WWF4Ung3eXdPVEpoNkxnSXhkRkdVOWQtdTRueFpGckZ2WTJQNUN0V0NMQmJFV0JhcjZzSGN6Q3huNjN6Sm11M0RGRWxUYk03dUd5ejJicEdZNGVfQWFXcmdac1dnNzBJNEttUjJWWWVDRnRNNy02dkh1NnRn?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 18:30:53 GMT",
-        "discovered": "2026-09-22T22:20:03.435097+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "واش كاين أزمة فـ”الأنسولين” بالمغرب؟ ها حقيقة الخصاص وعلاقتو بالأقلام ديال انسولين كود",
-        "player": "",
-        "content_hash": "84bc73f6c48443cf80d69c95ff8edddeea72c72597e3d2217e06ff2a81240f08",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 4773,
+        "title": "كأس الخليج - أيمن حسين: إهدار الفرص حرمنا من الفوز على عمان - filgoal.com",
+        "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOVzQ1MjZmcVhRN1NkM1E5NGlqWmQ4d3I5VnMyMjQxM2pnbzJWOHY0LXVaTXM2SVFsaFRSU1kwZU5FdG0yM21uLUZTbG4xVDBkalJZNFNqOTN3bHYwZVZiTkotT1djWlAzTF9GVERuaVNwR0ctTlhTSG83ZDFjbTU0ck5jc0E0dkgwNnlIY29HaHFVdXRNZWNiczBKb1BMdUJkQlZYVEhxLVhNTFZvUlJ2aDJDS1Q3VVJMUGZFcTRlZ3FURFdUQm5zdWRoRkxWc0ducVpKSWdveFg2a1lrZDNpLXNQdlRFOEJMb0c5QTcxUHlISGRCc3lianhyVWU3dDNaSkpDeXY5SVN0RzM0NWlHMGRNbk83dHhVSG9SXzlFdDRrMDIxTGNVWnM2U1RBM0Z4Y09XelU5YzRPSUZTa0JJV3Q4YlllTFZPeHdSZFJhVVBldFZWbFpKUDZHMUJ2RUJIclZBdDZ2LU1oYllhYlZDZVRJMmVoRWJoWnZXNnhRVHpGTW1jRnNPT2ZBSWNnS0NpQkI4X2owcHZnTWI4OEg5Qlh0cFhOUldRZFNPdHVqeTJDS01DelY3Rk4wTTNsU2t4ajVXUUZsUlNEdU5PYUtz0gHUA0FVX3lxTE52V2F1U0ZFUzZuR19lRDNiQnRzcVZpdlJpaXJFamtaZEZ3WTNlSUdhd3A4R1JqcWdVZjhGSEtqZ084R1NGTUJIUDFFWjdFSkhtakVqZ2NkN2hQdDltOC1JVVNIbnc0VDc3T3BEeFdxY0dILVZOZC02QkpOMVpGNXBCNGx3YWs3cTNIZl9NSE81NWM0eGpkbUVLajVxQ1FBWlMtRWlXckZwZGNiUVplOEFwUUREYVA3bDNNT3ZzUDc0bTNmV05Nb3JiRktuNmNzT0ZTRjZDWlJheTkxU2E4T0FWci1wY0w1cjFJeHBLWmhhYjVVYUM5VmdEQzAwZHBDXzFhUEhOaDRBZmhXaFNhUVlkbDhoOTdwdnljLW9CT1ljVUhXck1seXhhcjBxbG1CRUM1RC01MmpSb1pxd2ZENFNBazY3eG9MSEFyQlp2RndpMXBSRGxYNkU5dUNjVzVzUzNyRlBFODNPSXFReDlBcW0wRmdFMEUzdkplcWdCWEE4bmlTLVR5UTNSdW9iWDdoZWhvRG04Vk9FZ3BXdGRBdXkxZjR3d2xZZ1NweG9wT3VmRG1uR1lUUkNjTGpFZ28xRDZEQlZwcS13dkRVbzZJSFFsVUVhdw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 11:24:00 GMT",
+        "discovered": "2026-09-24T11:46:59.872737+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كأس الخليج - أيمن حسين: إهدار الفرص حرمنا من الفوز على عمان filgoal.com",
+        "player": "",
+        "content_hash": "41613f3a9a307a24c67e88f9b15d74631a1dff6efeb718bfc4123f969ffd83cf",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4769,
         "title": "سان جيرمان يجدد دعمه لـ حكيمي عقب قرار محكمة النقض بشأن اتهامه بالاغتصاب - FilGoal",
@@ -1556,22 +1572,6 @@
         "content_hash": "5c8fd9161b784499d71f104ff39a64b8c2d7f56b3547cff9fb9988fa0de5def5",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4604,
-        "title": "موعد مواجهة منتخب الناشئين ضد كوريا الجنوبية في دور الصداقة.. والقناة الناقلة والمعلق - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMimgVBVV95cUxOcC10UU03TkFtUEpvTTNyY00xZU5OSEg4Uk9XQlpFemZ5Znk1bTJOQ2w0ZW5mNW5ZTnctWDRRRnZ4ZVliYko2Nkw2ZDlLZXRxcU13UnlfSFJNMXRXaFZiaUtmSmR4ZENNOXYzWnJmUktwdWtBSjM5V01DNDJwSDRrS05lbjM0RXVOcGhUcWRXMWtuOE45dEl0OENSODVGWVdHV1QwZVJFYlZrY091Nms2ekpKNURid0o2M1V5dWY5cDRHWmRXdWcwWFU0MFJDWVRfckEzQTFZcUFHelVnd1J6Sy1QVENQdFJRdlYxTWlBM1htdkVDVmd5SnotTnBsVDJhdG1sQ1NoYlkwTGZDYk1kNWFRbVFZekNyVTZXck1vR29xVU9RdjBHM190WUQ1X2VGZ3VIdHlVZFQ3VEpKWXlZTEotbEZWaVlsRW1TVkxlN0c4SGVzRS1laWk2UjNXM05FRlZRaVM0d0I3Qjd5Y215ZmNyVjBrT3FJVy1zQTIyaHp0UWFsR3NiUVU2OHc2UTNrVWxmOUw1aTA1MTk1XzJCRDhhOVd5cnJucFBnQzZZaXMwQjRnaUdxUkQteE5QdFNxQzFxcVVHa2FMbWhKdlN5Y1huR0gzUnN3T2h5LWxVbnFwMTc4ME5lVWVwYUNELUJ6Y3VjWF9ReXFhWW5LWUsxSjRzQk8yc1BEYnhIUjROUnE5c1M3bFF4di1BaWdmX1lHejJBSUxoYkhpeG94THFhM3NtVEdJZE9Rcm9pOFRRcGVkZjNpMXMzQjd5TWlUT1ZlLXVqb3VWUUNKeFNVMkRmYkVkeHlMa1pGemJ0V1dPQmlyM3dMcGFhOHlJTENRU0dKQndHQnFrMGkyUE9GWjNJeDhYNXRuZ3hOMGfSAZ8FQVVfeXFMT0EyS1AyZldKQWN1X0JmOHJTVHlCTUkxWDdjLTJjRTFIaTVrS3dpOVgxNnp3MjEtbnZ0ZU5XT0lkU1VMWWtjVTY2Z1VWS2JiTUhuUWxCV1BxVi00TF9ESloyWVVaVHJYSFVPWVFjR0pEekkzbjJPRkJZZkZVVFV4V0dvd2lZZmtNZDJueGJNU0NsdUxQYlRYQlJLbmNVbUt3ckJqcmJMOWhRRW1tZ1dLRVNYdzZCMmd2eF9Xb2FDY3JKU0JjSG1SbWotSllxOWk1RnJZMTFKUmY1R0lndDQ3aWx4M3A0VVFwVWZKdG52NmFhUVBqMmZjeTU5YUotZ1d4RkpoNHhIUlI2ZEZGOWZpdXdWXzNjWEpoUHlGcE4xMWtJQzg5MTZSQ1hJZjZSTWtKZGRyTV9fSE1YMWV4bzJER2oxN1ppRjV0RkRzNENBMDBmNEJJSzh5TVZXR2o3b0NnQXNIVURkbGlKbkxwSXdvWVdVSkI1NkNoNzBCUmZKQ3dRNVQzMWpoUXNEalpoOU5hdC1Ja3lKeDVfS3VoLTlXbHd3enBTZXVLczNLcDNNU2tVMjM5UFZNZ09DTHBNWndjakdHMzBJSUVOb1ZTSHRFbTFZdTJDYmJ5ZEhheUR1LTRmZWV0ZFAwYnl5dXI0VG5jVXVvYi02enF6LW1KQWsyaGpLUkprMUR0WHlzOWx5MEZWVkEza1BLeXBTTlA5UlYtb1F1dTJUSXpCZng0eFZZb2VKdmhZSEFCUG1jcHhUemJxS0pGTms3V1VUbVBhWmp3T0tJa2hZVXVTN2t3aFV2bGZ4UjFRUFdzenZ5M1VnMWQ1Y1AtTm5qQTRJTDZXZzFpQWVoUEJHU1p2bGpuUnhQZE9ldjYwN3B4S2xMcWo2ZTA?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 20:59:00 GMT",
-        "discovered": "2026-09-23T21:08:07.736065+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "موعد مواجهة منتخب الناشئين ضد كوريا الجنوبية في دور الصداقة.. والقناة الناقلة والمعلق FilGoal",
-        "player": "",
-        "content_hash": "0a72e51a075541071ad2b38ea94e4c0511ec8252869e66c36650b968a904232e",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2056,6 +2056,22 @@
         "section": "transfers"
       },
       {
+        "id": 4772,
+        "title": "حياة على الهامش - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ndWMyS05URWRNQldrV2hsWllUMHRSY0I1RTNTOFd1YkV5NkFNQ3hPS2VieVJMVGVNbjJEdHRoTVJqZmVBOHVVVw?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 06:30:42 GMT",
+        "discovered": "2026-09-24T11:46:50.264565+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "حياة على الهامش - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
+        "player": "",
+        "content_hash": "16590d7cdc5f9e0151f8220be4bd52633be333d81e946d5aca377a7c52493cc2",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 4524,
         "title": "خطط أميركية لحظر صادرات الوقود لضبط الأسعار قبل التجديد النصفي - الشرق للأخبار",
         "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOZDhEMzI4Nmk3NUhheTR0OWZOR25qZ2JGd2VvMVNmOGRVS2pEM0R2N2dLNTlmNU9YMUw1Rmtwa0xTWjVlVGpSSncxajdNT2FJR0gyRWVsdmlxNnVOcEtiR3dvcmFCdkREc2hxWHM1X1JtVnZpTGdfc1pxbER4RGtEOWpwdzNscklvYTNnSVBHVGNuMmxvYzhjeXAzNlNhdUVyMGdOVlVSaU5Gb2QzdkoybUNSUFllSUlaMURUTmhZWGwtSWxrWDF0QlQ3eXU0NjdtR1N1Nnd3UlFNc0ZuTjdhOUFMMnU0RWhmRnllY09XWHNubVBKcFJ5Q253ZnZidlBnTnFXY0hBbXVWUF9ROFZOZktfdXpvWFBoUXZVRTlwOVlETi0zZms0Tl92SjkxSWMtbHB6emZGYXA1Qk45ZVRPZWZVZHNTaE1IWkVXUTVfNUFDemRqMnE5VFNWMi1CRnFQaGNMOFNwS0gzd1lMWVZ3VXpfY1ctUGZFalFnTVh6NlZseHdRYU9ub1JXS1BnWVNSdlZRbTRYYzY5OXRpSk03YnMwa1Q4LTRMWnJyWHB1N0lDOG5GUFowUjJOOTNIallERVV5TEpObDlocnBDdXMyUVA0TmtFbU9GUEFhV0Z4UnBoM09EUENIaUJ2M21qa1Fz?oc=5",
@@ -2278,22 +2294,6 @@
         "summary": "قلق حيال الانتخابات الرئاسية الفرنسية العربي الجديد",
         "player": "",
         "content_hash": "90666e89b6f50d1e383bb1ade6a2046461f93ff26c8a02f6db8547c8b397f661",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 4272,
-        "title": "تركيا تطارد تجار الجنسية... صفقات وهمية تورط شركات إنشاءات كبرى - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxOeWRaOUxiSnRUb1lOelJjVU9JQmN1R0lFRGdfMklKeUlYT3VYXzF6Q3JaMVpDb3h3eEdBN1NaUjJ0WFFHTU5rSU1SSDU1Y3BUb2hUYVBJTS15a1ZxM3V4eGZEU2tmN3VUNTAxdktHRmZ1ZHJFLTNQOUNwaVhzc0h2TkFxdEs2c2JQOXp6ODVSVGJPbkxXNVMtRHhGUS0zUUM3cmRHYkxsZFczclUxMUpPbU9WNnRDSGRuR2plR2pyLUJVbzh2RlI0bmhYTXI0S3d4Si1oS3dUNGtwWjZnYUJFNzVtS1dQMHFPZEoxeERWRlFPRmsyOUNOUDltcXhJcXY4TFNTM0ZWdnM5dlhHcEhoa05xZUxiSzVBTUJBRWRPT0NlbVNEdC1pa3A3NTFxR0JFLTFMWW56bWkwNEtlVjZuWFJqcFl0dkpZcEp1VGtOeENfMG1hM0FWSERJV1RySXJRT0w3bEd4UWpGZmhnandwWGxpLVNtczdTY3RWSDdDdU9BTTNXYWF6RzdlN3VFZzBMVmxRMDVvZ2hNVDJPTzZuX0FOMGlRa2Q4dkl1alRYRmhndWZNbldXa0NJaVNvVVc0MUVzaFJyZUN5aDZ1b01zTld0ejQyRzJROW93N3hEWW1uYVNSRFVjY1J2UmQ4d9IB8wNBVV95cUxPdUxLUzVSS2JYR0VnaHFuR1N4Q1RjT0QwRmV1eXVMSW45TWZHUkhJbnVhcHlVV0xSV01maEREMkdtVzVaTnVZYkNzbmxNQUZuUW5KV2k0S3FSMHJ0bVVVcmcxakpMdFpnZDk5MjI2ckNrLWFuZVFvbGJKdkltNnlWUXFKcnhQOExuMDIzVjU1VG5YNlBHVUdvOWNZQ3d3cWRGT1JlNVIzMXg2VC04XzRNSUZHalJ3eXY5YzI4V0hHN1RybEZuS1U3NTE4RktFZFVhTnkzOG9pbG1HMHBBWkNLWGxiemIwdWM5aUpYOHhRbXYzbk1vd2JFNWlMbGRvSXhMY2FCU1U1bGpReURQRE5pY2FDbnEwN2h3QkRoSDh0alVSdEVMa0tGa242TlhVUVBFd1lOLWF6N3d1VUo5RmVfSFRTbWVhMW43M3ZGMjQwUGwtMjlRTksxcDZ1MTZ0VTNxTFZKWHozTGp1OXpmT3JPWW12bnNSM052MXNmZWRmS2JVQmZtNkF1SUJFQjB3bmRvaVJPM3BxNllza2tZZTBPZm4tTHJCc3I3alBQT2dVYkFQWEpoa2t0aWotYkxXelN0QWtQYnFQblNWTnV2VFZKaEtDeGlvZGZ2cks1dFo3cXZoYjlUb0tMUll1eHRRWHF3Qkkw?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Tue, 22 Sep 2026 21:30:03 GMT",
-        "discovered": "2026-09-22T22:04:56.721836+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "تركيا تطارد تجار الجنسية... صفقات وهمية تورط شركات إنشاءات كبرى العربي الجديد",
-        "player": "",
-        "content_hash": "fa933f36323cf270d320fa8262874c4ab8586d382e8a6a40cee6bb66c9199221",
         "sent": 0,
         "section": "middle_east"
       },
