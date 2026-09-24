@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T02:51:43.481900+00:00",
+  "updated": "2026-09-24T03:00:51.866595+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -16,6 +16,22 @@
         "summary": "أكادير إداوتنان: البيجيدي يتصدر النتائج المؤقتة للانتخابات التشريعية بـ 14.900 صوتا – اليوم 24 اليوم 24",
         "player": "",
         "content_hash": "c4b7c4aee2acadd1ad8e34726a0afa8c44df1400a1ce3f3901ce595046162e0d",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 4667,
+        "title": "الداخلية المغربية تعلن نسبة المشاركة بالانتخابات وتشرع في كشف النتائج الجزئية - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQMzFBbVI1ZUwyb3BCLXhJQzFhWHFpZldlVWpaTHNXbmU4Y04zZ0RLcllsUDFrTlpvMk5tT2pFd2htNmNYX1N6dEsyRHlqTV8tMldhYzg1VVNfRFluLUFWOUJKZzAzdE1tVE9TVkpsUldaSW4wNUs2TWhaeDJoNC03TmRlcE1yMnJGa1ZfRm9yeFZRX240M0VOSld0eDY2U0dJQkZVMTQzbGNnNTcyT2JYZXA0cWxyS1dqcDVXZFBvZ2hQNzRZM1VEU01SbDRzOFI4R2ZnU3FBRnI1MmxsOHU1VjFvSFFpVDREdXJDMW5BMHp0cjJXaGNPemNTZ215THlEMUxJUm1tZXZla25uYzRBNTdfUC1qVmZpWUUySUVTNXA1M1RpcThsb1FRUWtYeEk00gG2AkFVX3lxTE9ObzlFa1hUTm9jTjFBOUJ2dDloTHQtVnZIZW5vTkFGTmZrQ19zMXVVSUppdC1IOWtjc1JPajRsajNicFFWX3FRb1hnaG13cEY4aHBFUkY3bFpVSFk0dkJSZ2FGV0VsN3ZFWnpES2ZvdG5pa3JCSVltcWwwNUJOZWNJcm5JUU9RMnVVeVJwNU41bzZQTklZVVZVM1JuLVNrNkFpZnUxR1QyRm9Va01VQVA2MFl5cFF0MUtCTFNpcTNPUUhlekhDZTZUakxaYjJoOFdUUnQ2RXQxLV91UW0tYVVGOWdzcC1aWmMxamhWcFJXQ1lDdjlZdWxaTW9scjItQjNqTThYb0ZFZkNfTEdRdC0zekVWLWtZWHBPWWxLSTgxeERZLU5Sem1zNXBNSEo3ZEl6cXBJQ1E?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 01:24:55 GMT",
+        "discovered": "2026-09-24T03:00:42.090809+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الداخلية المغربية تعلن نسبة المشاركة بالانتخابات وتشرع في كشف النتائج الجزئية الجزيرة نت",
+        "player": "",
+        "content_hash": "700c8547397e66fdf32323a4d3321561ac979c3e13eb313531b54d5d8913ea14",
         "sent": 0,
         "section": "morocco"
       },
@@ -656,22 +672,6 @@
         "summary": "من معسكر مصر إلى قائمة المغرب.. وهيب العنتري يحسم وجهته الدولية الجزيرة نت",
         "player": "",
         "content_hash": "a4b0665c365632d290222754815eeeca2c386b731ee07ba44007cf19f656310a",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 4534,
-        "title": "انتخابات المغرب تعيد \"العائلات السياسية\" إلى الواجهة - independentarabia.com",
-        "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxQMTRpOElDM2w4dU85SG0zV1VTQ3NZSVc1RUlkWGU3Wnl6cjl4Y3FLOUh4UjdmZmtlX01iUGdYQ2h5OS1NVEFEMV95aDgzenY2dGYyWlU3NWFlV3ZPb2gxNlJfV2Rra1BzSFhlTW5CWFc0bldQdmJQd3JJLURONk1UOXBQWDVoVzY0U2xKTXRpZjFYMEsxek5ITkJlMERwem1IbTR6djRqdDZWbVU2djlSRUdwanhZRmVnVDUwYVk4c3RnQ2R0MnF0ZFVRTlNOWmRtd2l4Tjk1eHdCTWtCZGpVMGNreGtOOGR0elNtaS1CampxOFBxVWVRN0RLLW5iVkpjbU4yQTY2MzNfd3cxblRkOUQtcnNleE5KUUtQMU1kb0dGRFJxT1pROHJqU0JSMUdEckotRDRKbWZPNnlCdmZOamlqbjRUUjRuMWgwakpEZjQ3Sjk0SXFTRVJEVFY4cy1GUWptSlFtUmJWR2pITW5oMnhrNUpvemlkUno4Nm1TR2txUTg4bmdWMXhBMngwSjY4Y0FaeTFDN1VJMi1OQ1NoX1RrVFdnRlhUdVA1UF96bmFTWUNuaDNiRlJrNElTRmh1d3Y5Rm5ORDNQMVBQdDZMSmpHdXN4bmlJOXk2ZnFtUGZrYTZPYWxOSEF3d3d0SWprNFBHS3Q2M2tsRzZoOUxCUERPbVlaUUxsdHFiVGZieThkQ2NEOFJrX1locEE5NjlJWXhoMFFReFFVdUlY?oc=5",
-        "source": "إندبندنت عربية",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 14:17:14 GMT",
-        "discovered": "2026-09-23T17:20:39.619896+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "انتخابات المغرب تعيد \"العائلات السياسية\" إلى الواجهة independentarabia.com",
-        "player": "",
-        "content_hash": "b553c605c47fc2029aad0fc02cd5d8fc4879e96725d40aae6947ee45e860e1cf",
         "sent": 0,
         "section": "morocco"
       }
