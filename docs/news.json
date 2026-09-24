@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T15:58:19.733862+00:00",
+  "updated": "2026-09-24T16:14:46.996501+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -806,6 +806,38 @@
     ],
     "sports": [
       {
+        "id": 4854,
+        "title": "أخبار و معلومات اللاعب Eric Ookame مهاجم مولودية وجدة winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzRXSTBrclBuWExlTzVtNEJCbVk1WU5VUVJpMjdmUjU0X05PXzNMdk9vbkdIX3d3dFJGS255Zk54aGNYVzlmRDd5Wm54RDNjZ3dsZUJwaDdPSzB2d1ZkZjkxNE9hdHB6Zkxzb0Zkc0ZtN2dJZnRvZUtYM2JKSTlwWm54eDhfOGNnaWM1R1dITlV5Wll0XzdCcEtJTVRQY3pFTHc0WWhVUmdSMnhEbzM4N1pNR1hZa2lUaVc5bzFR?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 16:10:02 GMT",
+        "discovered": "2026-09-24T16:14:29.678545+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب Eric Ookame مهاجم مولودية وجدة winwin winwin.com",
+        "player": "",
+        "content_hash": "febca5b629303adcefb9d85ffe7042fb198644a819f46acf96e48a199113db6a",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4853,
+        "title": "أخبار و معلومات اللاعب صقر الدربي لاعب وسط الأهلي صنعاء winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONDE2d1Q2UHEtMlZnc3ozZ1NYdkp0d3EtRUhFNUhsV3ZEdWNVZEdOOHZadXJyTWVnUWdBTzRLVzQzVjRoTFRpelczZjlXZThnUmZ5OC01dXpiUGlFWDVTaDQySXhzMWNoTFA2YkM1b1FuLVFCemE1M2MxaWp5VG43QjZqUE8wR2lMU01GeWtwQXNDenlyVnhGOVlyOEV3bjh2WHZtY3VYenA0YUpvOXBGMGIzX3pBd0pkY2FCMmlNNlRwZE1vc3lzdy1uLTNrSzhpdmw0Z1JOa0tOSGFJeVlCQU9LM2ZXSl9WeTVZT0VZRjYyVUdoRTlBUA?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 16:02:03 GMT",
+        "discovered": "2026-09-24T16:14:29.673281+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب صقر الدربي لاعب وسط الأهلي صنعاء winwin winwin.com",
+        "player": "",
+        "content_hash": "2ba96e9752e9ac7f3a3a7d37fc60f96678d785e97d582caa06c251323f745b06",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4849,
         "title": "\"المصارعة التقليدية\" في قيرغيزستان.. تعرف إلى هذه الرياضة العريقة - CNN Arabic",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUzljT1FEelVtWTFteTYtUjltMlJWN3VCa0daQUhxVzFOUldHaEpfNDFMTGhEQVFtU1l0VWJkWFVQRm8zdi1UV3NuUnFma1c4U0VDMXdiQmtDQkduelpyV1FCRDFZa3VkUHFmYng3b3RyN2J3anpXNldmSFlBWW1pcHM1dXphQ290Q0R0d3pXR0x5LU94ajVqVUhVU0xXNUhpWWc?oc=5",
@@ -962,6 +994,22 @@
         "summary": "\"أنا صاحب أكبر عدد من الألقاب\".. فابيان رويز يحلم بالفوز بالكرة الذهبية يلاكورة",
         "player": "",
         "content_hash": "3f7200cfc79b00c3fb07179abe8bfe228ff87945499ce2696e962022af5a37b1",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 4852,
+        "title": "بعد غياب 19 عاماً… سوريا تفوز باستضافة البطولة العربية للدراجات الهوائية بمشاركة 14 دولة - aawsat.com",
+        "url": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxOWXZyM3owUl95Tk5zQlhuWVFnVE9YRi1yS09KOG9qNUVzSHRhRlFkcEw2TTI3WUpUbTczQkJBbWFDMW84NEt2dnM0TktHUjVEdm5HMnAzUVpzNEV0VnFpOURBam5iWVZyODJWMXRlLWVFTU1LNnQ4YUhZM3BOWl9nZ2J6bUtpUVBic2VnMldNcHpPSldRbDIyV0VxQ0dPUEU5SFllRllFbUNhZVNlVklXcDFqa2k0aTljZjByQmVEQzN1eHpINF8yMWd0UFR0MnpydlN4bS1ZX1hRMFU5ZkdkY2NJZENWeFFGTFNDTXk2c1FCRnEtQVJoZUo4dXlHcXZqM1k0bTZMSWgwWmJweFUxa25TSW1CVE5HMHYyVGdQbml0OWJkcmpJTUlfU3dIbWZnaGU2RmpycnZMa1JIVkFFWTlBS2l6VGktdWJIN0R5OWE5djBnNlJYdTI4U2VaMThwTXE1WHZOaml3ajEwN2NvdTJ5ckRleWRzbzFDbVYwQzB4bFEtTVNWRzYyd0NuUVk1TGhrVTVHMTZPRnVoT3l1MlJrVWw2SzhNYjRNa3pnV0E5Ym1POFUtNzF3cm5KUlR6bWZlR1RkeGVJaHF1TzNzczdtb1JqY25TRFBKYXJ5QzJfZkdZS05UWDIxaHB3SklmQUMta01MaUNDQVk2SlpKWGZYRW5qNFF6cWkzeGFUdWpFdmpXU3MyejM4SGVmd3FoNjVyM21tOEFqbVh4Z2ZRMG9tRFIxc2dFcXJxX2V1bE1ScDZKaUZSdWE0ODJCQzJxV2VEcUIyWWxYMnZ0b0MyS29HanVXc2tRamczTVphSnA5Nk9sY1dPTnJDRGZGLVE?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 14:27:34 GMT",
+        "discovered": "2026-09-24T16:14:28.375679+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بعد غياب 19 عاماً… سوريا تفوز باستضافة البطولة العربية للدراجات الهوائية بمشاركة 14 دولة aawsat.com",
+        "player": "",
+        "content_hash": "9435143cd7aa4c03746c9b4173970f5f4aa8da6e40407ed63d0e233ae93acd3d",
         "sent": 0,
         "section": "sports"
       },
@@ -1556,57 +1604,25 @@
         "content_hash": "2a84bd1d9e851773be13e843c5aa6fa75e73d815868392e517a0e7d227471274",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4751,
-        "title": "أكثر من نصف أهداف طرابزون.. صلاح يلاحق الأرقام القياسية في الدوري التركي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxQZFp1dE0wYmNBNGwzSmo5TGY2NGt0SzJBUS01NzZBY0R0NURuMFZLLVRaOGstejJGaVZoUTdJZWt6VjlTNlBFemFVOUJmNUVYdEk2Ui1jTHdHaGlYdmY0bmMzbExIdExmakwtMUpvRWwwaGtGSFBISEJhN3Y3UUlTOVZDelhYOU1hUldYSG9BUm5Fd0VlUWl3VEFWN1EzZk1YWk9DSHpXN05rWVc5MnQzR08xbnpvMmZkV2xjblhFRkpyQnAxY2dUaDlEY1I3cm5tNFYtZGU4a1RQc2h1X3EzNGlpWTRCUG9GTjl1dF9pYWRpZ2VTZ1Z0Q2ZmTmpOM3lBYzZaSFA1ZlQ4aEpwTWQ4TXJGRnluMDFMcF9fczZGTGI5aGZwcjFkOC10WENhcTh5WnlONm1IQlZrMkNBYTBIbExVdk15SjZsMUVHNEdJWWtRMzRTVlJaYkFrWWZrTklGdGxKSVY4YmFwcXVHU1BLQ3Yza0M0UDlBSXQ4Ulc5SkRXc2dHZ0VEblY3ZjZEQWYtSUZlSTVmdXhxd2xZemNJNWZ5S0pTRnFxUXI2VFlvQkg4V2pwMUNuVTZFak9UTHNXbUt1UV9HM2dCTUZjMGJWOFhOVk9MeUNqLXJkOVN0V2R2SmRRWURXNkl5VkdWdFdjM3Zfc1Z6Tkw1MUNDY0x4dEZXSUpVOE1weUlXWHRKdWh6U1FoRENHWHVGcXVBR05JdU5XbXBwOHJYdlBNZGxXVllrRUFTdG40ZTdLaERUa050U2prZmxfbTNrQUpiMDNpM2xuNtIB2gRBVV95cUxNSWRKVURaOENzNVJTUHhKYXZxdzgwNXNTRHk1XzhrVlFYLVNhdFNnNVNoREJfSlVkZzRiRDE4Uml3SkVxUEZCVGM1MFEwS0h0NXVpRzhONGZwUC1ZYWpRNkhTb3hob0xRb0xwbEpBZ3NsX3pTcmtXWFBVZXlxYXhwWkI2R0g4MVg3UjY4aGFvdnpzNU1ZdHgyd1BDbklTanUtbVV4SEpDWnhfMTlNVEg0SHh0cE9jM21zSzRvNWVZZmFabzgtWFFWVWtobVhBTUhzakxrRGlzeUp1aXY1cjZQUEtMNzdBdXdwWVBfb2UwdURBUDJKZG1wZU81TTFqTXB4OTNZcFdCUURld0NuRjlMaTRDVUxTSDd2eEpwa0F4bXZDS2tFeFA4SERxOERPY3hWRFNkNVduS1BKYm9ZazF6QTdITTNuX3B6ZWZrcE9ZcnBhUkNGRV9UYTBnTE91Q1JBbk1NOGZGZ3k4WUtLbzVEVUhubzVpbnNzUmZrMTNnUXJZNDVoOEpGTjVWZFkxdEE1UF9lcW1tZ0dRU3poTE85OUJZWFhqb1RvdEV2cVJaRFpCOWd4RnlrT0RpV3dOSkQzTWV6THNaOFVjc0xNa0R0Vks4Q2Y0TThxNncyVzdtTEpYMXM4OWFiQWVkZnBVS2kycVJMSjVrWDF0RThoSUd2ZVBhYmQxRDZDS3VZSjRDbHROcHRaajF0dVVYdENzWGpFNWE3YlhtR0J2STQxZU5RUlM3T0gySVowbDN5N2JYdWVEeEpfdy1sWTV1MHpuVmI5NHJSOFAzTzk0Zw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 09:43:00 GMT",
-        "discovered": "2026-09-24T09:56:40.517427+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أكثر من نصف أهداف طرابزون.. صلاح يلاحق الأرقام القياسية في الدوري التركي يلاكورة",
-        "player": "",
-        "content_hash": "87dab65487325056c906c2ad106ccac1fbb712a319b875aeaaa5dfbf9f28165c",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4748,
-        "title": "توفيق السيد: خاطبنا حكام الدوريات الخمس الكبرى لإدارة القمة.. وتم استبعاد الاتحاد الفرنسي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMizgVBVV95cUxOUGIwWnRYdlA3ZG5TQ2JxTTl5b3V4d2NnYVpZWno5eTRMeUw3UmgxWGlEOFU5VW5MVVBBc3A0YXNtSlFMdmdxRlN4MTlRckdiRWdoaWlibHpYaXJlTE5nZmhuYWxtSjhGWHZxR2RvRHE0dnM1SW5GbHhLQVIwNHVBajhhTWlublBwaTdBbWJsbExXTHNSX2J3bjAzcEpUaUZPRWZiLUQ5OS16N1BJUzhZeHB2WkJLNlVEd0kwelJ3MEVqbXVvY2ZXaFdlN3c0Wi1lZHA5eFNUYlI1V3dQR0VydHdDX2ExdktsVkNsMWRsMWFwMlo3RkQ1Nk9GRHd2TzB2aGxFSjFtSGk5S19qclBqUkIzWXRaQlF1aEpfLVVzX3FzYkxON3hBcEVPd0FPSDQ2T055aTROMF9QNDhSeEdtU01OQS1tcTdNTU1qczZBbFRabkhyMlNPSno1dTBXTFJENU1mVWFQNXpJTzNqTHlZSUh1cXF4cjVFdFZycE9qajNwakhhSXd2M2U3dC10d0R2cU5DdTdrU0I3Xzh1TmhpS1JXa3NwRjFsMGs2SXpBMzBha3ljemZVZkJzRDNPclNaUVFJcEJ5SjhTRzFhVDVhVTRjTjJ2UmJZbktid09lMU9yWElyOGotd01PQ3U5aldPVjNBNkVnSVVRbGllT3c1YmJzWVVqdmpfV2toTFpYMkNYemQ0ODh5YVlfN1RXcktrWDAwYmFXMlpKVUNYbFRVZEFma1BqUU53aURUZ1dpRjNfcDBvb0hzNmxVRVhoQmhlU0N0cUY2bFJTNm9nRzlRRXBzeWJ5ZTllV2dheGJqZWtidTZxUF9wMjRjYU9JTTRmU3NjVG5ac3EzU2Y3MGRnR19XRWVEdERxbWVsVjJ0NVR4dTVqWW1jbFUyeXh3dXlaTDI3VUFIZWdua3hCME5HZ2czM1F2OWRuc09MQkdn0gG3BUFVX3lxTFBDV2JTTk16MEh0VWR6bWtFdGs5d0FKWi1ENDU3MzBBeWJFakxQNncxcF9YSDdiZ0xhNExFTF85a19SUnNUS0FsQzRKTTVneFBsLVM1V2doXy1lVUJ3bWtyaUJEYkMyVU54ZU5EbHJfcU5nbF9EUFBKVjc1YjFqVmNwRVJxUDh6SFRXOHVRekFVRzRqLWRjNm9UV0NEN2ZHSnlSZ0xtVG9pMnpZOWU4a1pfYy1nWUtreEt5aV9QODl1elE4R2FYcVB2d1d4XzBJaGdSRkQ1Q0dYNUxxVDFSc20xcE5RVlhUMHZkRXlST3VoX0ZUS1VCOTdsT0YzZW5OWExHUEg1cXJRLVpxTERlTkczcnBIYjl3Tjd4dXlzbmstdW1hdlFsMDNqRmRlTUJJNEczVWgwZGRQM2dsWjMzRVFJb0tyWDRhNmtCVEdYVFBDSU1KZkEySXB0N3ZnWHB6QmdlaFJpd3RZeU9IU2dTblBGZ0tBUHRwckJQMGVLY1Z6aXBlQWVQQWhaTWFGOXZUTHhCWHpqbjdnb25rOXU3ZC1ycERCbUZnTjdlWWZXNHczYzZUbElla2FRUm56dW5Vc0R3dlltaTdaVEM5T2NlRmdMTE8tZmpuanpTZXV2NDcySzFQRFZyNkNjZDZWT2x4SmpnS29TeUhmZ0xmQk5OQ29OV0FuaklYZV9YZHliX1VUdG1xYkY5bzREQmRJZjBlUzdnWmxLc2oxX3JKdnlaaWh3OGhjUGljWHZvUy0zMk5FaHNXcmRoYlRwWElTMXdoRDhZTkhiWTB3T1hmNG5jazNKWWFxTXpvQ3dlTzBILUVaZVROYVlLSzgyZUQxYWthTVluVDI0S0k2VjBtVThsZWw1TmEzYWNqSFdNcVRtUm5aYkUwdEotd0VCYW8yZTlkOVBKODF1S1dJ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 09:36:00 GMT",
-        "discovered": "2026-09-24T09:45:59.402887+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "توفيق السيد: خاطبنا حكام الدوريات الخمس الكبرى لإدارة القمة.. وتم استبعاد الاتحاد الفرنسي FilGoal",
-        "player": "",
-        "content_hash": "87f44eb79f2b9ba89f050ffdb5a0e6d3567bf086326bc87847d6f012c2db8334",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4745,
-        "title": "جوردون: منتخب إنجلترا لا يمتلك ميزة إسبانيا.. وعلينا استغلال نقاط قوتنا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxNdGlUeW56TmhkT0NhTXhweFNKNHFTaDdVRG82VmpqVDQ0Rl9rWGFrWUIwSWNlSS1Ua3FXZUZaYnlsVjFfMnE5Ri1jT0FJbDFUdTRURU1NTWNicTlMbkJLNzl4TjJCUl9kcXI2X2pUVVdFOHc4a0F4bW9RTDAyOVRYb1RyQzBFS0gteUtOMnhodWJVX3JQQ1lrZmoyUktwS2k0U0tkNG5va043X0dYUFBGSWktbm1rRXFOeVFkVEhBVGNfTHJGUFRFUHZYZ010NmdWejUzZ2JEM25aQ0ROQlRZR1RuYVFpN3NWa0pONG0yOEFQS0M2dGV0cHN4NTJRb2RrZXE3MmlEVlUwZWNYVF9SUlBPVUdVbWl0cVpKU3lTNzQyeHBCR3ZxekxRN2lid1hTWG1lTG5ZN0xIbUxqTTk0VHNvUmlwdFFOd296OGVoTXpEWVFscmVUSVhPVnpITExCSEVVZjdqckdLRDRsMVBWSXN3dlV2cEN6TElyMWtUZV9Jc1V5WWptTjdfYXdxU2l6Nm83MDJmUk9OcDFEbjRETXplQ3JRcHE0OHgteWM3eXB0RF9KQy1mN2NvbGlWZUxrY3I5UVFneUNoa1ZaMVA4SnEwbVgxODZzSXZGT1JzX3lkWE5nVllWbkRJaWthOVZLcHBLcktCcE9fNDktdGttUXZWUFdpNTdXMEk0QnFKeXJXaXBkVjQ5Q0VaTzUzN1JLcFJCWjZjQm1iTzk0dUJr0gG0BEFVX3lxTE5RY3pFQU9iVFFraGExbEpyZ2ZrTW1vdExBamlla0FaR3ZnellRVnB1SDVWcXA1bVJscmRCWnFsVkNpWFhYdXh1VG9tZWM2TUN4MG8yMHNMazJZbC1xT2wydkVBcWZMNnBEaDRaQUpvMkQtWVJoenVma2d6X0M2YU5NV25VNVVFQnA0Sm13U1R6MXplc29ROG9QNGtjb0doVW1naHRVNy00SE1tMnMyT2o2VWRaY3FBNy1lZll4bjhRQ3pHMEpSdmptOUZkNFVLeTNYLTJfWUd3WTNTeFlCdGFheTlkV21BX091RDZVTE1yOUxUdTBiSm5MQ093bzZSU0lNN05aTnB4Q3NieDVjdG9BeTNGMy1va0hLSlpNWF9fb1Y2T2VKTlZzemtPX1R6SFE1dXl3VnJfR2RlWnpZakZ1UnpEMHlSWE41Nm1KaHFYN25sT0k5T09vbl9QWlJBUWNIbDdYY244bWd4ZFUyQ1l6SnJ5R1gxejhYVVB5VFZQeWp1QjUyMnlGczdYd3RiWjVwWDJmUXJCS3BzM3Fsa0lpU19VSEEwb1ZuSVpzMlQ3bmI2RmxRZGdkVE5qX0VkQnFEZ1B4dFhTYzFQT1hxRWFiRUxoV0g3Z29FNDdxMXVPS0FNWnBCQVRKUEU4NTNCenV0MGNEcDBlRXdIVlRNUlFUTGZxNkRzLVBUYVlVZU16QjgyTVMxdk8yZnFnM2N3WndfWHY0cGhFb09qNWhIM2hzXzNQVA?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 09:22:00 GMT",
-        "discovered": "2026-09-24T09:31:42.601004+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جوردون: منتخب إنجلترا لا يمتلك ميزة إسبانيا.. وعلينا استغلال نقاط قوتنا FilGoal",
-        "player": "",
-        "content_hash": "56220262dbd6c8e94e1e137f4bd9f474dd7f447a04ca0b46220081e07a14b33d",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 4855,
+        "title": "منافس مصر – سيسيه: كنت لا أتمنى مواجهة الفراعنة.. وهناك لاعبون رفضوا الانضمام لنا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxOM2FuejdXcGdybk1JT0t4bVBKVUpPM0k5X21RbUswaENQaTVnVFlZQjRsZG1qcHAtRUNSVEd3eTlzZ3hER1dqaTF2MEdGQ1paTHBRWFdZTUtmR2FaMVRvVkNJNHBkd09jcU05My1wR0FjT0NiY1NycndGLTJiUlUyd1NsZUJIVnZuSWRaWWhlcFJXVnVBMjdzY3U3SDR1NFoxamptbmM5NlY2TzY2bUdvT2lSQUtSTDl4RDlCaG1xNEJWY2MwQWszTW5tWEJOSDdZSWZvN1pDclBBNFNDZ1NDaGlQUzFES1Q3TUZVZ2lIS0tmVk5Bc0RiM1FRYjVxZFh2WDNqNl9NNWJmUGpFN3ZwT2VCdk5kV3hjTU1KRWkzV2ZuN0huSG5uaEpfMnJ1ejBGRVpYTThFZXlQUGx1N3Y4b2V1ZEcwOFB3NmFzRUl6VjJFLWhOOWhDX3hCazVEaXp6N2c4M0hFUGU0bWpfY2Z6dVBLSEZJekhsWERlRHIzMy1IYkVELW9HZksyc3dacENKWl9oY3k5UlpVZE04V1BZWk5NUTJiSklKQnoyMnNubjZqdTlJNDltWTVBYU5EdUVxU3VSRy1ZamxHYUhEUWVzc3NaWTJNQnc3em5LZ05nQWFwSWt3NmtMZkJvcTlQVlplU3Byd0FPQy1zWDl1VVFoNHQxUF8tWkYwSUpRbm1tTnU5VFVKMWZUMlVEQ2U4VmZOLUx6dFdoZ0UxSmowVGdzV3VKM2NTcTdheDZvcWRJSXNMMUZNTUpTX2lDSm9MMFJ1cUd2VzdyUVpoMDlDaFhERk930gHnBEFVX3lxTE9ub0JiZk9jTi1ZdVZ3blFQbDRmdWFOY3BpT2dqc19jWFZtVjkzLWZwSjN1Z0hTS3JVMUpocXh1dDF6Um1GYlpCenNVYW1VMXIyZmlNMGxWNzBUUjVtREg4YWFlSVN4RmN5SWFNODJSbXNQU1ZJMlFXY1ZBeG85X044WDdXREVma0lxd1MzOU5LNUltZmNDeUhoT1I4Y0tBc1I3VUp2TXZ6Z1BXTW13SkNkaVFxUHdpWEMxV3FhcDhmUnFPbV9hZ2VNQ05HZTJpMXhCWHhjZjczS1FDUFAxcEoxTlpxMHYyUHRaZ1hkUGJHdS03Z29qWWpZakVZejliRG1vbVh5TnNYQVYzdW1ZSUZQSUpUZURRdW9IYWVRMm9SQ2xETDZMeUQzSUtld042WTNHYkxjbEtkaC1oVzNwVHgzZFpiT0xEdC10NzI0RXF6RFdreEM2RWZvRmd5UlJNWW5PUWg5cC1lSXMwNnBXZ2V0LWRKUlN6YTZ3LW1XemNwWUpHZTU4NndMR2czNTR6QmtBZVBsTnVfNllUMVpUNzlYVkptMGtNZWJVLU1FMXdoTS1qS1RzOTNUZkFUdlpWYWxwcDk0RVJSemJveVRRWDJiNWEyRzN1YVU3VTVQanpmaVRVc3daM0prMFh2MTJyZmpwdEpVMjR5TURxbU1ubXFpc05fbWVQNkJERUszSThxbDZtcVF3elp3VnNOTWtDc0VpV1BVd1hzQXYzUXlYSkV6MVJMN09nOXFLSkpPaTdTR29GNE80dS1oenh4SlBNU2I1UG5iTmFGdmVWcHpYcW1DMThuLV9TUQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 15:54:00 GMT",
+        "discovered": "2026-09-24T16:14:31.029184+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "منافس مصر – سيسيه: كنت لا أتمنى مواجهة الفراعنة.. وهناك لاعبون رفضوا الانضمام لنا FilGoal",
+        "player": "",
+        "content_hash": "8685906fedef83f1e5ae0c5fcbd2a86a7f557693d3378cc5c605c4709cf929b0",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 4825,
         "title": "مدرب الرجاء السابق: اللاعبون كانوا يطلبون مساعدتي للانتقال إلى صنداونز.. أصبح مثل الأهلي - يلاكورة",
@@ -1652,6 +1668,22 @@
         "summary": "الخطابات الدينية آش دخلها فالانتخابات؟ بوعياش: رصدنا 44 حالة كتستعمل الدين لاستمالة الأصوات و2300 محتوى فسوشيل ميديا كيبين الانتخابات على أنها مواجهة بين “الكفار والمسلمين”.. وكنتسناو نتائج التحقيقات فداكشي لي وقع فطنجة - كود: جريدة إلكترونية مغربية ش كود",
         "player": "",
         "content_hash": "1560232f6ddefbcfc7855093f5135db52d07e63a69718e6e90d4fd4ea13cc02c",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4856,
+        "title": "قد لا تتوقعه… مشروب يومي قد يخفف الإمساك - aawsat.com",
+        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPeGE3MHNVclhPc0JnbWEwUC1UQ3dRV1hCekExeDJ2TVpwQXUwaHVlUk5EYm9Od19BU3V2MnBXal9lblNEM01fYnRTdEE4NU02c3g4eXA4dGN3YVpRdnBoYWZmQ3VfNTdFWDVDUTFIWmtLSGkxZ0FreDVCeTFPVkVzci15R1NZYVVGVlNTWTdSNDY3NkowVERqR0x3X0FiWGx5QnNLWm0ybldMLUIxaXFobmlGMW9hLWx0bzB4UEF2djRrSjZFTnVQUFFScGYtb3paWkVNaEVZYUd6TzN6UzZLOGZzNjY4QTJ3ZFl3SFBUelUwVXNwWjZ4aGlTaDkzT1JHcWwtUVZGbTRyaEt6aEJnMzlmbUdzdVQ4NXY2a05rN0wwbTFaOGZFTUJzQi1JcFp2b0tBTnllYmxXZXRjdlN5RGI1MjJjNDVacjUtdFk3UzFYaTRzNEpxTy1YSFFfR3ZzV2tSWFJJbm5PejQ2bjVFdWZaWEVSd00?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 13:40:42 GMT",
+        "discovered": "2026-09-24T16:14:40.393947+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "قد لا تتوقعه… مشروب يومي قد يخفف الإمساك aawsat.com",
+        "player": "",
+        "content_hash": "bf765337d28c64d7f2131be1612cd6083c5146dca43bbb1ece310e5a3809ab1b",
         "sent": 0,
         "section": "transfers"
       },
@@ -2262,22 +2294,6 @@
         "content_hash": "c7124953fae8b84645565d8d890b0654cc21479dbc50a8736542c6876ce66116",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 4835,
-        "title": "منشور ممول يساوي جريمة - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ESko3bzB6eWdNRFhHUzZjSndFc1NXTHhPVlBaaUdPTFU5Z0p2ZXpzODFkUmRrV1dtZy1DaTYtdzJZNWVrVHR2Vw?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 04:39:46 GMT",
-        "discovered": "2026-09-24T15:48:28.086511+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "منشور ممول يساوي جريمة - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
-        "player": "",
-        "content_hash": "6171f908a4af693cf07fdaeb95b8ef81b4adaf69377d9fb121c24fb6832cdcf6",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2326,22 +2342,6 @@
         "summary": "هيومن رايتس ووتش: السجينات في ميانمار يتعرضن للتعذيب العربي الجديد",
         "player": "",
         "content_hash": "2dc0bb2a920866fd19297ecda14a3451eb5ff765af422b5d2d23bbc6e09fcd46",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 4353,
-        "title": "تونس ترشح مقدمة ابن خلدون لسجل ذاكرة العالم بالتنسيق مع الجزائر ومصر - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMioARBVV95cUxQdDVfSUxhUGUyN0dIc1FFcndxTkpsVTd0WnZoSUI5Q2RpRmVDZ1U0b3dBUUNURzZVb1VEbjBUdjgwNGpGazFpeHNJN3lLd1NudUQ5eTk4RkZrMllkcVdvSm9KWXl2MmRCS3F6amU1bEFHMUhTeUdGTXNfRk1fQWtWaTRTbTVTeFlyZFhVUXpDdTJhUG90YU5FT21ObXQxeHNkRFNuYjNvS0NuUjljVV9CMF9ibXNIU2RqX0E0Q3hXWlpDUmVfTTJISVJhOWpBMDFmaGxWc3U0WjBTbGpvbG9pbEJ5UGhsZXhYZVRRc2tJOC1RV0JTdzFOMkZrZW1VOE4xT3J0Mi1HUl9Ncm1mWldKb016WTNvb0VKQUFKYm1GdzBVTGc0R2JRd2t4SjZSNVpUeVVRMlp2ak9HMWpqWlNCTml1SGptV1h3dmJNemtObDRSbW16b1FPOGRHYU1CZnNtM3JJMzlHNVZ0V1ZYT0ZoYVJoRG9oSGVEY2NkSWtad09QY3FXc2dJbURWZnZJY2ZEQ1BRWDFsY1RvdXFMMVhrWGZYX21KOElhTGdVblQ2NS1DSGQ4NHROZ3NtNUlmN1F6Z0tJSDhYckdDU0xfTlVtbkhVdzVDNjBLbWRNeUNha3JQdGhtRGJQZ2pPcTFWS09XaDN2ZG5NLVcyX1FmTmc1MnJ0cFY1cUdSV1VaVzlDZm1NTFRvRnNXbFBzNl9YMjhW0gGmBEFVX3lxTE9oZ2I0LXNNSm9CMktKUXJFLTNHNFFuaDJfREwzVzRtdGpGeUJNTzRzN0ZuaUZHVkxqMkoza0Mxcm9ULXJQWVFOS3ZBOVpoOENVUEM0SW94TlFFYWYxbTdKdmNkaUpHRTlwcThWRjA3WjVqb3prc0NtN3dSTEE2YWhTTFFvQ3NUOUJjeGk2bXFRQktDaHVYcW1oTzJtNk5vajBLNE5WbnVHUlhkVGF3ZnFCeDdXdEZkNkpoQzc0X2w0dlducXdLUzU2VFpIeThMb3NJNzAyWWQzSnNkaFhoOUNDXzJSZlRlYTVUMGJxalZvdG4wOFd6VGEyb0FDMElTbHJlRWVMQnZ0cVlzTW1JY1MwVnRFS0VXckFrR2JoQlhUbTdjMnVsVDBxYzVBNEl3a3ZpMWpUZVZpdzRIVS00bC1wTEdxZE9TQlI1OW1RSXE3TFQ2QndxUERLT2FPaFJCWTZabmdvS1pZQ2dPTHJIUVFSalBuSVFLMF9QMktsVWtOcWpGMm9DNlFoVF80U2FMaUEtVG95c1hMOE12aGEwdnZvR212ZGcwQkp4NjhuZFFwa3hYY3BEQ3hzMlFzOGhaLUdVUFVzaGRrRXROcDRjWFAyTlZnNmZOdVRlU2M2VEdXeTdLZG51WkxGZ2NHaGV1cWhxN1VUVTVTbkFBQTVhVWZtS01IdkhzNV8tb2ZQNzl4akNHYkJjWlNFdktPdDVyUHFzSnN1a0E?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 05:00:03 GMT",
-        "discovered": "2026-09-23T08:50:09.244131+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "تونس ترشح مقدمة ابن خلدون لسجل ذاكرة العالم بالتنسيق مع الجزائر ومصر العربي الجديد",
-        "player": "",
-        "content_hash": "87c4e920f06611e2e29fb9f8ba57fae17ef6dd38e1ce1a38e96c02b5b2ca0d8c",
         "sent": 0,
         "section": "middle_east"
       }
