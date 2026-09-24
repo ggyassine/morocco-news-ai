@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T19:51:45.343380+00:00",
+  "updated": "2026-09-24T20:00:20.964924+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -612,22 +612,6 @@
         "section": "morocco"
       },
       {
-        "id": 4447,
-        "title": "القضاء الفرنسي يرفض طعن أشرف حكيمي ويثبت إحالته على المحاكمة بتهمة الاغتصاب - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBleGJWdnVrTDNhT3o3aU1DSDRwYlNoN0o0N0gtTVR2UWFoQWx6eFlGRkw3aXdrNS15dDF3cHNUSzR4c2Y0UDkxV2t0emw4UmtPU1VmUTd0c1N6WUhLRlBvbC1CQnk?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 13:33:18 GMT",
-        "discovered": "2026-09-23T13:48:39.982408+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "القضاء الفرنسي يرفض طعن أشرف حكيمي ويثبت إحالته على المحاكمة بتهمة الاغتصاب Le 360 Arabe",
-        "player": "أشرف حكيمي",
-        "content_hash": "a105a79b19207fab105ce15afbdb3d74e6c622ad33a7b381581d81ee2cc34892",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 4574,
         "title": "عاجل: حريق مهول بالمنطقة الصناعية طنجة تيك - Le 360 Arabe",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sRUdyQmN1Yi1VTFR6Y3Vjc2J6U0FaX2FXQm5JOEhFN2tzaUhKcllFakRzUFZINlB5ZG9FNmhrdnFZWXdxQTZwVHFGUFdXc1FENTMxUzI2QUg4b0oySkM4dldsc0ZFZw?oc=5",
@@ -709,6 +693,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 4947,
+        "title": "دوري الأمم الأوروبية.. البرتغال 1-0 ويلز.. بداية الشوط الثاني - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQREdHRVUydzl3TXZBYTlmWTl6SnRDeHBoX2ttaU1VeG1iU1VXdnNibGtuaXA1QzNoNXBVckVJdzNJd0MtWDJLTUpYeDJZdUdESjNkWEhRQmxqMnl6NXFXVkRzZmx3WmMzNVV2T0tIR013bHM5UjcyUG1qNFBGbWctNVhCSkJCRmFoWHM2VGpmN2F1N1psUDJQdThZdmo0blVoVFpPNC1Wbjg2dlc5VnNZOXBJN09uUWZveDB2dTkyU0xBbWxJc0czY1FxS25EeGlzUUVWendEYWpVX0hJaWJyU0ZRbWFiOTJELUp6VUxUM2hfc2JaSmo1Y010WDdLcHRtcEN1QjNlYUlUdVRvRmlfVFJiRFJzU2cwUVB2SVB5OTBLeElCT1JpV18yOHRlWHg2Nms2elR4MURFZXluTTBhN2x6VUphRlFyQkNUR29vRi1VcThuVHcwYnVpMHEyb0tOWUlEQTN4LVMzNjlPQVoyaGpIZ0g4Yk1mYjhZcjZGdmJaWWdtM0tNV0syYmdFRGdSdW1Jb3IzMmo1Sm9nbHdsdkU1Mjd3MVdYNmtqajNSOWlQbVBZb3U5RkVrLUFONkJWVFJxLUQwTUZIanpUNzJnVWYxN2NoaE5FdnpycUdXcHN1akt0SXhwWHVfZzdGREHSAfQDQVVfeXFMTTBWNnJRblNobjJDUldJOFFIX1BIVGRWX0I4dXhiSzhQd2VHNmxDZGZkc05QN1ZuclhrVGlWVVQ1Q3B5UkU0SDk4Z01VR0dFUjc1VDhJZUtObUdqWWEzbHVtenJxbTB6R2FHZEsxZnVlLU5ZOVpkQXN6LU00bDVxLUhENWcwZFhURzF4VkY2aDVLc0lmckhFdVhBZG16NzlFOW1FMElCNnVHMFB5Yk1xZnlQS0hZZndMcnBpZ2NUZU1UZ2d5VVQ3QmFCbUJSZnNRNk15eURoMlYzckJlZHdpQXk2Rko5aFFVYm9faW1BWm00N3RXdEExeEliaS1lNE1aRm0wN3RRcjJKRDF3c2RHSEJCV2VrVnZFMU4xSmdVMGtZLXBCNlYtb3pGQjhLbjZGRzQ5YnVLNm1zLXI1U3BBLVZLd1IwSFNqeG5MVGFDZzhTWFpVT2NRc0lqUWpJWm1RemhTTEZBVDVkSkN3ZVcyWEZRUFZJMmFodDJlU1Nsd1JEZ3dhZ2R4RnVjZ1ExbHlTOFgxVjRvUjV1cVo1Y3FJcjh2bTFTZzVnMHR1Vy1rVXI5R0ZRQWV3eWVpWk9KQ00tYnUzWThDd294djJiZXdGMWJTd2tpcHEtaDVwMHRpaFM0UDJYeXZsYlRNTGJxUkJzcDh6WVM?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 19:51:08 GMT",
+        "discovered": "2026-09-24T20:00:05.156229+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "دوري الأمم الأوروبية.. البرتغال 1-0 ويلز.. بداية الشوط الثاني يلاكورة",
+        "player": "",
+        "content_hash": "83e689de2224ca8aadb4cd2eb25a30105fd99cd3662b4422249148d3dc4ee83f",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4938,
         "title": "أخبار و معلومات اللاعب كرييست تابي مدافع تولوز winwin - winwin.com",
@@ -1492,22 +1492,6 @@
         "content_hash": "04dcc64ac48113be105eb3ea2ebc0ad1ea696fd114307748796af71e45ac32e9",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4842,
-        "title": "تشكيل منتخب الشباب - حمد وأنس رشدي يقودان هجوم مصر أمام ليبيا.. وصلاح بديل - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMisgRBVV95cUxNdTVLR0k0S0J2ejJLUDVzWHJqRWNZTU5vVWR0LVZHWmtaME9tNWNycFh5b3hqLU51SlYwZ2RRNlJLVjhKbDNRdVg1ZkpvaFh2cUxNQ2RIcThUWHpxcHBvS2xVdm5wWjF4YzQ4VEphWjdUWGgxcHFkejFNbWtvbzlnYmhoRVFzVDREdXh0bXhQd3libTFLNHdDWV9keVVGQlloaGo1UnRRNHpteWFnd1o3WXhpdWxRQU11bVZ6Z2hJUWFOUGlrNHByLVc5N283Y25Ta2ZfZjF4Qk5FYVZlZHI5QURaZWtTX0ZMb3NONjN2Z2dhYUotZjd4N0I2c0xzZWJxdC03MHp0WTl4ajZTWU54bjVYRkRBX1I0d3VHS0UyMEViS2FIajkwZ3FUbUc2Q3E2SWctVFFqM0tnN3RfU2x4S0sxVlRJV1R5Y19oOENmVHVFME01eGVYNURhYVpZLUJTOGRTaFljOFhicFBKREdNQjBFVEFjcGVZcm9SMXJ3LXExNkxSYlI3cWh6N0Z3VXo0Q2ZiREgyclpIMGxSNnAxUDdrN0JyTkE3UnhWaGxaLWVtZlJ2QzF0Vm5pYUVCeWM0NllDZmVYczhDSmVta2xlc09GY3psMWUyYmpRcnU3ZTlfX1RTRnBUN0V0SGk5dWpEZTRaOEdjaFp1UjIyRE15VUQ4NmtTeEJvYldONURwQ0Z2ZGFyb2FpeDlVSjhCeUtiamNJRW5QY2hkSVBqMUhiZzBB0gG3BEFVX3lxTE9NNVBvUTlsQnF0dzNuQ19lQ0xsalJtQnJxRDJ2Q2dBeWg4VlpmMzczcHdJaGNQMGRESHlUSkFQNXJiZWN0MmN0WWVuMzRRdWx0dE1IeEgyMDlGX0JxY0t5YTREb2VWemFMWG5KaV9sNjFuZ29ubVdUSFNlbGFDcnB6MTJsX1BDaEdQV1hKcWtZSWxXelpOaG1oOXRzdFFwcmtwUDBTRlJOTTltNE9YZm1FZVdYbDNCZVRFOVFZSUlZUTlrVmFfbWpxQVlWNVlJY2labzI0b1ZWZGw5MkZfa0l2X2tuOGNsWnFRV3BGTllEZDJsX1d5UkI1WDJXalhDZFY0UVFXbGJ1dUtCeVZNdnliTGtpVC12N1paT3V3T0xDa0dVUXkyeVNGSC13SFdyY01GVjVWemNhell0dkZDczJCM0xCOFBJN3U2VFJ4MkZtZ0U2MFA1OGdPREpHTGVLaGZXcXhlTXFpUk0wR0Z2ZTFmdjc1aXdtZVZnUFRRcUFVRFJIcWoxY25RbTlHVHQ3UV9fUW9iMlp0bXFPc09PRU9tTzU1UVFXY1RXTlk1dnB0SlRRa056dy1CZVM0cU5iRjQ1UnBYQWQwWjlVaWlvYWZEYXF1QURxZlVTUVBDQ0JKMnllNXpSY2FsOG1RNHgwQjZKWDRkWWQtelZXZHN1THdIZ2t4dDZ0OEtKb2Y3N3laZVo0WXpQTVJTSUVFMDc2NW4xYmlGY2UzQnNHUEJDM1QwNktmR09fTQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 15:34:00 GMT",
-        "discovered": "2026-09-24T15:48:37.634087+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تشكيل منتخب الشباب - حمد وأنس رشدي يقودان هجوم مصر أمام ليبيا.. وصلاح بديل FilGoal",
-        "player": "",
-        "content_hash": "66edfabd4a7926d1b23c502e099bf4311feaa58083b5decdcffa93be292ad467",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1572,6 +1556,22 @@
         "summary": "السلطات الإسبانية كتواصل ترحيل المهاجرين غير النظاميين من سبتة المحتلة بالتنسيق مع المغرب: وفهاد الأسبوع ردو كثر من 800 شخص كود",
         "player": "",
         "content_hash": "2f18cb407716597d045857b6bd2433cd3a3083a2518fbc970a3cdc7f2daa2d40",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4948,
+        "title": "منافس مصر – سيسيه: كنت لا أتمنى مواجهة الفراعنة.. وهناك لاعبون رفضوا الانضمام لنا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hRnJtNVJlZzNXXzRZSUFmc1Q1bVg0cGJnOHpXcVR6Tk4tX3o4b0R3cngySDlDSFVIMDZtZzEtTnNfYldyaDh1MEdtYi12dndX0gHnBEFVX3lxTE9ub0JiZk9jTi1ZdVZ3blFQbDRmdWFOY3BpT2dqc19jWFZtVjkzLWZwSjN1Z0hTS3JVMUpocXh1dDF6Um1GYlpCenNVYW1VMXIyZmlNMGxWNzBUUjVtREg4YWFlSVN4RmN5SWFNODJSbXNQU1ZJMlFXY1ZBeG85X044WDdXREVma0lxd1MzOU5LNUltZmNDeUhoT1I4Y0tBc1I3VUp2TXZ6Z1BXTW13SkNkaVFxUHdpWEMxV3FhcDhmUnFPbV9hZ2VNQ05HZTJpMXhCWHhjZjczS1FDUFAxcEoxTlpxMHYyUHRaZ1hkUGJHdS03Z29qWWpZakVZejliRG1vbVh5TnNYQVYzdW1ZSUZQSUpUZURRdW9IYWVRMm9SQ2xETDZMeUQzSUtld042WTNHYkxjbEtkaC1oVzNwVHgzZFpiT0xEdC10NzI0RXF6RFdreEM2RWZvRmd5UlJNWW5PUWg5cC1lSXMwNnBXZ2V0LWRKUlN6YTZ3LW1XemNwWUpHZTU4NndMR2czNTR6QmtBZVBsTnVfNllUMVpUNzlYVkptMGtNZWJVLU1FMXdoTS1qS1RzOTNUZkFUdlpWYWxwcDk0RVJSemJveVRRWDJiNWEyRzN1YVU3VTVQanpmaVRVc3daM0prMFh2MTJyZmpwdEpVMjR5TURxbU1ubXFpc05fbWVQNkJERUszSThxbDZtcVF3elp3VnNOTWtDc0VpV1BVd1hzQXYzUXlYSkV6MVJMN09nOXFLSkpPaTdTR29GNE80dS1oenh4SlBNU2I1UG5iTmFGdmVWcHpYcW1DMThuLV9TUQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 15:54:00 GMT",
+        "discovered": "2026-09-24T20:00:05.802642+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "منافس مصر – سيسيه: كنت لا أتمنى مواجهة الفراعنة.. وهناك لاعبون رفضوا الانضمام لنا FilGoal",
+        "player": "",
+        "content_hash": "8685906fedef83f1e5ae0c5fcbd2a86a7f557693d3378cc5c605c4709cf929b0",
         "sent": 0,
         "section": "transfers"
       },
