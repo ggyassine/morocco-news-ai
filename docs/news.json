@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T21:27:25.615819+00:00",
+  "updated": "2026-09-24T21:39:42.054412+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -612,22 +612,6 @@
         "section": "morocco"
       },
       {
-        "id": 4492,
-        "title": "ارتفاع نسبة المشاركة في الانتخابات التشريعية إلى 21% بحلول الثالثة زوال - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VYjRtb01kaE1aWEZadGt2b0NjRVZvUXExYjQ5a29nRHVmRlVEN2xMWUdXZEhHYzI4cHpoX0VSZVZqa2t3ak1Hbw?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 15:43:18 GMT",
-        "discovered": "2026-09-23T15:44:18.627702+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "ارتفاع نسبة المشاركة في الانتخابات التشريعية إلى 21% بحلول الثالثة زوال Febrayer",
-        "player": "",
-        "content_hash": "ae30385fcf534cb8dd27268165e0be42ccb27ad7cb8fcf55a5d7a676e4e4f4a2",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 4501,
         "title": "الدار البيضاء.. اقتراع في ظروف عادية وبانسيابية - SNRTnews",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BMF9BRHZOS3M2eWRvN1o5QnF5Ylo0NWZIRFFaa1ZtSm1nYzd2Wkp0Y1hrVnB2MjlzSmU0b2hGOGhRN185aExjbzhLOA?oc=5",
@@ -722,9 +706,41 @@
         "content_hash": "3fc9bbbbc57f3fe01766aa1c3035cf1eaa154e86951776020e72f3aa4cc05c31",
         "sent": 0,
         "section": "morocco"
+      },
+      {
+        "id": 4571,
+        "title": "بنعلي: تحسين المعيشة أولوية لدى المغاربة - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNdjJpSG1BaVFHSzBYdU9sNWEtamsyY2Jqd1ZhbmlNdC1ZcWFpU0FrSjBVTkJTSG41dnhyM0s5Yy1qZXZvRnMxZ08wLUpUUnpCSHktdzZrOC0zZW04QUJINm9fZXJCRGUxSlBnUVdidkFLYzZjQUpDM2p3aDRSM1hoWHVpRzFCTmRqZ2dQcEZacHZ0WGFvYVhVbENVdE9qNV9WZXVXa3BjcU1xNERNOXdIY09YZWhaa3ROYlF5Tm9wLVVYWDlzR3ZJYXN4SHF2aHp5RHhrQnN1cDgyVUFzZ1FOU0xIbGd4TEttdHEyZXdFT0lLeDQyOExhSHZIWTR5c0dndUNGaDJSWGlsakdEcEo3N3hQWWZoZHlTaTBDRF9JY0l6QXBQQXBwQzVIcU9uUE52a2I1eXRZalh4bzZ5NVJsZlpGeDNBNWlhNG5VNTQ4Vm4zMmhl0gHaAkFVX3lxTE5pUEVNWVVxZkZ6VXFCYk5lWUQ1alA0WVFpZzN2Y1Y3cFFBZVpGUUVhb21INi1DeGVpY3N1MVF5Mm9Dd2x0azlCMVppMmp0S2ZxSGt6Z2RuTzA2bThUSDk2UWpFWHhHMG96bkVsUEFCVkVJOUt4ckZUWTU0cGpzS0JqZ3dyclU5bm5RcmZyN2VMc3V4MXZBUDF5WGZwSS1zUF9mXzluLXZydmdZWmlOSjZIVXo2RGgxTngyNkhwQVlHTjk2LVZCaldjNzVxVXN1Q3NHalZkdDdIMTM0WUswak9wMnN3RU1iYTFmTjhYRmFFSC10VjMyS0hGWE4xZGEzM3pLYmxqaWE1M2VYUVMxTXZwZmV2YUdxSGtJdXdXVEZrNUpsR3UzVHVHNE1QbkFSb1ZLOFk5cjhEUnJQSDQ1OTR1MFk0cWFpamViM05oMUZBUHpSemtqMHhrX1E?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 05:27:03 GMT",
+        "discovered": "2026-09-23T18:53:39.150528+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "بنعلي: تحسين المعيشة أولوية لدى المغاربة سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "9c6e0ab245ab8c982bcd57322e90267789268135a035f3070379c1ae926f59c9",
+        "sent": 0,
+        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 4992,
+        "title": "المنتخب المغربي يجري آخر حصة تدريبية قبل مواجهة نظيره الغابوني - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1YWmMyOVd1cUNtTnhMWTZ5M3JMWWx1Um9PM3k5dFpxYVlueTViU0JsUGp2bVZnbVlqdDRxQXhoc2x3ZUZrQVQycg?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 21:32:12 GMT",
+        "discovered": "2026-09-24T21:39:14.368710+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "المنتخب المغربي يجري آخر حصة تدريبية قبل مواجهة نظيره الغابوني Febrayer",
+        "player": "",
+        "content_hash": "00a1a3611bce6b8ed66f20373714f2e4fb68d059e73e0a2b11fd0974bf6af57b",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 4986,
         "title": "إصابة محمد رأفت لاعب منتخب الشباب بارتجاج في المخ - FilGoal",
@@ -1478,6 +1494,22 @@
         "section": "sports"
       },
       {
+        "id": 4996,
+        "title": "حسام حسن: ما يتردد عن خلافاتي مع اللاعبين \"عيب\".. لا تقولون ذلك للأجانب - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxPZHhKRjVLenlHWldLQnZGbDZnRkZNRm1Sb2dweEMtaDNiUzh2RV83eGJkQ3pzLWxSbFI5RVczMEM4cjE4R0l1Rml6OUJ4eDV4QkNRYTllN29od1dKMlgyMDlpbHJLbENDdE0xSHRkQW0xcERVeHBMTHlTaXRoU3N1YkNFenFEbWpNbElNWlAzODNMTUt2UVE5NF9WZ1B5UkVxN0RBOVd2MVZ2LU8zMC10UzltcENHdmpVbHBiV2hhVDItZXJ0SW1LVDhPS2o4ZEZ5S1BtVll5RWpuWTBVVF9Kc2lvaXpYVWY2RVBzZXl2Z241bVF5RW9kQkdzbmVITFUxbFJkdVdiQTlVMWZGdTdXcGZRdlhRakJvNkV1MllQM0V3aGR0ZGx3R0NJSWtVQ24xRGxvRENjMkEzMjY2Q0hoQThqTE8zSTJ2eHdYTUJNWjBYLXpoNjhxd2hDd0NlZXNrSE5XYzd2aTFrVGV5UWNwSmkzSXVoajZ6X3psQmp2X1hpdVhSOGg1TmUwa2lkYTR2djRzT1dBVk9ROEVtaXZlRHFXWkV3VkVWMFJlOHFCMWhZTFpCN1o0NzZadmltZ0xoak51WkFJT3hDOXJrVVBPeGVIU3BzRmVEdnoya0txZE8tM2VSZHJPRmJiQmJ1Z19veFdMVG5IZWxkZWpXN29zZ1NCVHVYR3VCN3RkVVdrYWpIYjhGQmQ0NWQ3S3lkUDBHSUxJOHd4bExjUdIBrwRBVV95cUxQejFLaHlpZHAtQ2UxZmFIc2xwdlJJN2Zxa1FiNk5JelFIa3VVNEJJZTNpS0w3aC15T01MQXdoNkVETlJRbERlLVg4Z0V5eF9TWjVodEZSWE9Eb0VQX2ZjT0lUM3liUEN3TGpOblJNa3YzNVVXcmRBSmNiQ0xoakYyT0ZZampSTFFpT3Z1bmdzSEFpQkdBd3hHcUdoNjNQVko3a3psN0NZZ0l0TjN2MWlQUTI4SEp1aVdzRkZpZXFyWDh5RXFiaW94MVpRNmZsR0pmUktieXhaOU53U05yRXNkQi1OZXBGOEx0VUU4bV81akpPdEpiakZzOXFwUmM1ZE9QMGlTNUs2d254ZF9wNHY2d1RSLWNYT2JxYzFVNzkzdFlyN0pWc28yVjR4OTVhN2pPRFBfMl9UbTZycE1HaGo3aXJQWWlaMmJhVzJxSHlzQmxGb2RqNllMa00tTjVfQmNadlo3ODl5TjJUQTdaeTA4ZjZVOFNMUGRVLWJUODBJNnVWaUliYUVVZVdSc1NnSlV5ZkhlUGJ6eTZoU2gwUXFWM05rZGFkRjZobjFsdlJ6SXh6XzNFdS1JQXlKWGVKWktqWDlMTzI5bnNfTzJLUkR1NTkzNjVDcXA1VVJxcTdnZlBVeG02dGJZQWRETG5PRndQalV3VU9vYVZkVmxqYUVvaVo4YmttX0IyOTBLa2RIdTJhSWx5TFBsYmFBUEZoeWZfWGx3RVNELWRtN2gwMnBn?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 17:55:00 GMT",
+        "discovered": "2026-09-24T21:39:22.718169+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "حسام حسن: ما يتردد عن خلافاتي مع اللاعبين \"عيب\".. لا تقولون ذلك للأجانب يلاكورة",
+        "player": "",
+        "content_hash": "38855b1393e6641f682e2e8cdd6e9273e56591bdf7080f3f7ea4969750b3c3a7",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4928,
         "title": "مباشر مباراة ألمانيا ضد هولندا في الجولة 1 بدوري الأمم الأوروبية - 365Scores",
         "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNQllCLUxTV2dpRUM2U2NzUFhHdlZLRXJQWDloYmk3bTIxalVublF3ZlRxUUFjclFrQy0tUmwtc3F3YklyclN1VVFiYnNwLU9YdS1OUnp2M0h6eDFieFVRRGxWeGZzWjY3NmZzd0c3U1VNMUZHN1ozekM0N0xLeHZQdmlOZm9sdk1oemVyWDM1aU53aGtDSTQ4eVFCTGZDSkNJM3FHcXRLb01RRTl6LVFtWklGUlEwdG40b1ltTDFGYU9rTHNvZXZKQ2J2MzBpNXhxTl9fUHhJT1E2N3BBTGVRM1JUNkxmdHA1eTFQUnBfbVRtZEpMY2JDWWpNRzNoaC1nU3NVellTWEN5NzBJUFhJRE9UVDVVdFBpRzFyNFF2b2JvVnpxajQwa09yVThGSko4Mm9IN2paWnhzYS1POVFGR3YwSXNBbFNBVFRuQVZWeVlma0F3S1NVcUdZWUNZVXc?oc=5",
@@ -1490,38 +1522,6 @@
         "summary": "مباشر مباراة ألمانيا ضد هولندا في الجولة 1 بدوري الأمم الأوروبية 365Scores",
         "player": "",
         "content_hash": "5b0b8c027de7b802712562eeeed29566810819f8cac1c610d2aea3e48b08a280",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4901,
-        "title": "جاكبو ضد هافيرتز.. تشكيل هولندا لمواجهة ألمانيا في قمة دوري الأمم الأوروبية - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxNajFvTVlpbmFPX1RnSDlqazdHaEM0V2R0WXM1VzRDYXJERTZWR05jOFZWVFZFZG5Db0s3MUZ1a0M1UG9HLVE5Y2hXaWdYSkpvdWZ2WThNM3EwMklfN09RU0ZXS1M2eGlsZ1VaYm9QdW53VmZpbTdFZ0RacGJzQnRMeDVXamtRdC1FTWlkemVHNGxkWWE2Sl8xc2pxVmlOdXlRQ1BGR3EzTFZ2TFMzZ3dMY2IxcjlHWEE4NDFFRXN2QUtoNVdSaTd2ajdjQkM3eThGTzVEMU11OG84RTJlMGNtbkRyX3VncHlnLVBfeXFhTzBaSDR6eVA2em43UG8zSmhHQWwydzFockZiRFNTUGdmVnlrTTMxWl9mOG1KNnVUYV9oMElnTGhxTmtSd09xZjM1RlpEUFBOY3R4ZVpxWnhYM3lnVDE5ZktjNXAzVnZCU242NFNtUXNLd2p5WlBGeVZyMV9vQ2hMVk5iMHd3Sk8tQmZRaDUySzBiZVNGcURNOWFmR1hzQ3RZQVZIcWFycjdYRmR2ZnphTkJqMml5UnJBb24tNXZpbmZlTHN1M1VGQzE0LWlYZHpjMGhuSDZHZ0FOamFYREowYl9mYW1JaHRGTktNNm5ockRBUkxtSEdjd0xucEZZT3VlemlqejJVT0hEcHRDM0xXMEFlR2dnLTBTTlFzcVZSVW5VQ3pWYlFtbjB6UjJWTzF5X2M1UFlMUzd1OGJrVFduak10UlpwZTdfblY2YjhKWDlPY2lwZndfZFluaXR6dVhQeC1wNWFYZFlIczlmV1QxMnFERGdtRGd4SUZMUWxZS0NJQmRmZFVrZ9IB9ARBVV95cUxPV1RDZmU0VGlEUnRVNlNXd3NsZkNqMWwzUkV0M1pZN0c3NDduMUlZNVI0c2NMU2NGYWs4U3ZvZ1B3ejZ3aGtJY1hmdkEyRUZiMHNUV2F0Zm9SUWtaZ2ttc2swdXNzM2lxZkIxWWt4b2RpX0lSbXotVDlKeDlWV3ljanpKYUhnVm0zVkE5MDZ4dzY3Yk5MdjVmZnB1a0o3UjBiTG1GNWluT1JlWkhNOEhVR0QwbTNieFlRTDNNcVV6Q3R1LUx6b2NRUllqX1dvWmRPR1RRZTZGeEoxRWN5c1F2eDNtYU50Z2FtX1ZSQjQ2WEJiV3I3Zlh1NDRNSHlqWW9rR0lLQWJ3LUpyUmt5cThpZUQwSTVOcmxESUVYVVZidWo5dTJJX0o5OGZrbm9na1JzeXp2ZWdaT0hMcFJGSm1Xa25KUmpqdjJ5d2NiNkZOMG13blc4NDRRU2tjYTc4cFJzT2VKM2FWa1RodjIwUUtfbWtEM2NsZDVxelJnOEJtVV9OaGNUODVfaVJ2dTZ4YXk0SnUyNzlVdmZjdVBoV2V6WmNKMTd3cWpYUDNSN3AtTTI2Qnljc2xjakV5azUtc2ZJUHdNZjNvVHhHZDhzV0szYXRsLVgtZEtCTVJXakt5d0dvRnVVSXRhazg1OVF5aGsxdG5nVUhPOURaRzh3Y1pNcnZzbFdyTl9rTGxZaUR4US1kYUthcnk2WERKbTlBaTRURVVsVUlnZzNQTlpMTE9IcGtnTnhrdk9WZ0NJNzg2c00zbmhNYkNxX2lYM19hSldnMExkUmctV2NNem94UFh2Y29ieUUwd0hqaEJTdnFHcUc5RTlw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 17:48:00 GMT",
-        "discovered": "2026-09-24T17:57:43.253291+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جاكبو ضد هافيرتز.. تشكيل هولندا لمواجهة ألمانيا في قمة دوري الأمم الأوروبية يلاكورة",
-        "player": "",
-        "content_hash": "965a3d24d850d7d6bda687c68e67c6212aeeabbef254ae1b563ec052fb00fc71",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4893,
-        "title": "تصريح ياسين بونو حول استعدادات المنتخب المغربي لمواجهة الغابون 🎙️ - Elbotola",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QQnpxZE1mSWJ2X0k3Q04waFljU1kyYXNpLUlnUFVBbVo0YnlWa2dKOUVIbmRReTZKNnpKRnN2a2laNGphaEdkRmVCUVVyVDFjZ29lTWlQYXQxemNYU2FPaUNDZzhldUUxNXhBNWNsczM?oc=5",
-        "source": "البطولة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 17:40:54 GMT",
-        "discovered": "2026-09-24T17:48:16.433211+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تصريح ياسين بونو حول استعدادات المنتخب المغربي لمواجهة الغابون 🎙️ Elbotola",
-        "player": "ياسين بونو",
-        "content_hash": "b5553f648e2ff1527969564ab0ecd4904d4e608274637798fbf5eee43b45c2c5",
         "sent": 0,
         "section": "sports"
       }
@@ -2152,22 +2152,6 @@
         "section": "transfers"
       },
       {
-        "id": 4491,
-        "title": "وسط حسابات معقدة.. هل فقدت أوروبا تأثيرها في الشرق الأوسط؟ - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOOTQ2RVc3M0NSMElkV2pGQ2lQUXkycjlKWE9MQlhscHlON1I5aEdYQ2pFeGQ3WUxkZlhlbWgzeDRLSldaRzc2Nkh4cGRSenFMV09iX01NVC1qUnpmUXlIQjczdmZtS25Sb3lweE8yLXI2VVRxZW9DWFZmVHJHRUtaNGhyaHpYb3Ytb25lMHdSbTlsRklUb0JyN0laMkhzM3ZscGRRME56V2Z6enpsYzF6MkpCbmFqdTJQeGxPTGw0WG9CdUtkellKcU5fQWtvQjJaaUZuTnRUQWRudm1zWVp0SENNMU1hSUZaZ0NVTjVEakFEeVl6N2VzbmRYZy1RNy1uV2FMdmlUNVZDNnUtUEFGWEUxMVZzMS1vdGdiajhGb0ZkRmNDUmxYVnBn0gGvAkFVX3lxTFBRTmx1NXY4czkwdE82TXY3eEZhMkJfUXJnUUFjNXJublQ2S29FQWI3R0hmcXhPUUk1YWxqRmUtSmRqeDFWNWZUdlVna192dTJaLV9KcHJ0MDVNeXRjbF9Kc2FxdnVnXzlOUE1fNkp1Sms5V3ZGM1FPbHF6VUF2dERUSHpmRkpxSXFER2hzelh6ZlNRT3BSNEJMbjFyX3Y5MkpWZ19rSnVtRmFJQlU5YUtTSmJVM3c1UWVBa3N3RThpdFYxMDVUNk5ZcGVrdmQyYjhfY2sycWd5YVB4b1lXa0NPeDV0UWg1V19Ra3RYbTZ2WnBidG9zTTBmRFJ2YWUxaFd0RklELWgwREhET1BlTnktaEVVN1k0SzNoVVljMWdidHh3NGVLaUtFdHdnOVFnVQ?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 09:52:28 GMT",
-        "discovered": "2026-09-23T15:29:31.231601+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "وسط حسابات معقدة.. هل فقدت أوروبا تأثيرها في الشرق الأوسط؟ الجزيرة نت",
-        "player": "",
-        "content_hash": "9bea0aeba5c0822fa623d5490ee5cbada4f46cd34df017ca6f4733d57abad864",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 4917,
         "title": "تسوية أم حرب.. انتخابات التجديد النصفي الأميركية.. خط الفصل في مسار العلاقة بين واشنطن وطهران - skynewsarabia.com",
         "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPTm9yT05yZUdyWU5rdTQ3elNqUnVYUnNJTTBPeHctR1Noa3RHWkUyNEtXbGQzSVotZmRLNS1BV0Fpc2lOZUd3Z2Q4dTYzeFBXVjA1UlRDSEJzQzJjSGYzVUhFX2lieXhtbXdoVTZQNzJHNmVDOE5nNDdLWWlGN014dG5RbU1JOUx5Nkl4OV9RaGpheFQwclFqLXdyMlE0cC1ZLVlGX3hBUmNPcEJOV1FIVGxCU09Vc0ppU1pfZDdTYi1JRWxxMnVWd2xxaS00b2IyajhQZk9yUjA5SFRBbWVnZ1AyZ3JPMmVFVXhlRW5PU0NpeWJsMExlYmdFS0lMZWZqZzVwTlN3aUx2R0FaZ2J0UkxaVFRmVlViSFhrYmlsT3pjQ1ZoeTF0aERGZkpqOVQ0LWdTRDBDek14NXl2ZGd3M210U3YtUmpVZ3FSZ3lzelhqMUZmc2k5eW5qSUdtazdWZ0Ficg?oc=5",
@@ -2196,6 +2180,22 @@
         "summary": "غرينلاند.. توقيع اتفاق يطوي الخلافات ويكرّس الحضور الأمريكي في القطب الشمالي France 24",
         "player": "",
         "content_hash": "b5167df68cf1c7f6a90919c1f9dcee344918095bf2ac6741d0fe3eab1379effa",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 4772,
+        "title": "حياة على الهامش - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ndWMyS05URWRNQldrV2hsWllUMHRSY0I1RTNTOFd1YkV5NkFNQ3hPS2VieVJMVGVNbjJEdHRoTVJqZmVBOHVVVw?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 06:30:42 GMT",
+        "discovered": "2026-09-24T11:46:50.264565+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "حياة على الهامش - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
+        "player": "",
+        "content_hash": "16590d7cdc5f9e0151f8220be4bd52633be333d81e946d5aca377a7c52493cc2",
         "sent": 0,
         "section": "transfers"
       }
