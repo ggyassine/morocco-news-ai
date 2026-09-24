@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T08:47:33.726346+00:00",
+  "updated": "2026-09-24T08:58:49.768071+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -704,22 +704,6 @@
         "summary": "من معسكر مصر إلى قائمة المغرب.. وهيب العنتري يحسم وجهته الدولية الجزيرة نت",
         "player": "",
         "content_hash": "a4b0665c365632d290222754815eeeca2c386b731ee07ba44007cf19f656310a",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 4534,
-        "title": "انتخابات المغرب تعيد \"العائلات السياسية\" إلى الواجهة - independentarabia.com",
-        "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxQMTRpOElDM2w4dU85SG0zV1VTQ3NZSVc1RUlkWGU3Wnl6cjl4Y3FLOUh4UjdmZmtlX01iUGdYQ2h5OS1NVEFEMV95aDgzenY2dGYyWlU3NWFlV3ZPb2gxNlJfV2Rra1BzSFhlTW5CWFc0bldQdmJQd3JJLURONk1UOXBQWDVoVzY0U2xKTXRpZjFYMEsxek5ITkJlMERwem1IbTR6djRqdDZWbVU2djlSRUdwanhZRmVnVDUwYVk4c3RnQ2R0MnF0ZFVRTlNOWmRtd2l4Tjk1eHdCTWtCZGpVMGNreGtOOGR0elNtaS1CampxOFBxVWVRN0RLLW5iVkpjbU4yQTY2MzNfd3cxblRkOUQtcnNleE5KUUtQMU1kb0dGRFJxT1pROHJqU0JSMUdEckotRDRKbWZPNnlCdmZOamlqbjRUUjRuMWgwakpEZjQ3Sjk0SXFTRVJEVFY4cy1GUWptSlFtUmJWR2pITW5oMnhrNUpvemlkUno4Nm1TR2txUTg4bmdWMXhBMngwSjY4Y0FaeTFDN1VJMi1OQ1NoX1RrVFdnRlhUdVA1UF96bmFTWUNuaDNiRlJrNElTRmh1d3Y5Rm5ORDNQMVBQdDZMSmpHdXN4bmlJOXk2ZnFtUGZrYTZPYWxOSEF3d3d0SWprNFBHS3Q2M2tsRzZoOUxCUERPbVlaUUxsdHFiVGZieThkQ2NEOFJrX1locEE5NjlJWXhoMFFReFFVdUlY?oc=5",
-        "source": "إندبندنت عربية",
-        "trust": "C",
-        "published": "Tue, 22 Sep 2026 14:17:14 GMT",
-        "discovered": "2026-09-23T17:20:39.619896+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "انتخابات المغرب تعيد \"العائلات السياسية\" إلى الواجهة independentarabia.com",
-        "player": "",
-        "content_hash": "b553c605c47fc2029aad0fc02cd5d8fc4879e96725d40aae6947ee45e860e1cf",
         "sent": 0,
         "section": "morocco"
       }
@@ -2331,6 +2315,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 4741,
+        "title": "إيران تهدد بتوسيع النزاع \"حتى المحيط الهندي\" إذا تعرضت لهجمات أميركية - اندبندنت عربية",
+        "url": "https://news.google.com/rss/articles/CBMikgVBVV95cUxOSGRVXzdMbWZteVdqa0JHbjdiNUQ4a2NsdkVKQUpfUUcxVDlpZ2Fwb0lXWGhZQWs3d3FKNkd5Y0t4TnBFWU90Rkl5b0ZzbEFaU2d3TGxvYjVyMVgtM0lHam1Xa3NSbFVFZ1hmZDRlMDBTYV8xejVoN3kwVno3X0tZSG1kSHIwWm1HdXhoRU5TWTg3VzhMVWZCd21PVDZlV3ozUHhJRGtncUFONkZDc05wU0VfQW1lUVN4YnJQeG1rbkJOcFhrU3Rfa1BxdkZ1eVlIeXU3OHN3Zm53R0UtbXNJU2plbmlia0VNckYzcHZzUmkwbVlXVERFX040ZE1RZmFFSE43aUs2NXBCSmJZbUQ3ckNZUTBMWl84S3UzYm5VV215R2lRRy1XWnM0cGF2dzNkdkJRNTVTbEtYWFJqNmI0Y0ptQUtLdjV1VVVJYnVGT1VSWC1qbkYza1BLa2lza3pmU3NsNTFkdVVBUjJtakVGbkhqWHFZMTgyajRlVjdvWlR6Z19PbmJqU1A3SFRDNDE1N25BLWJySUNYeldwZmZXUXczeWNXbnBlUEpQS0lieXhqaUktUlZOcndhT2RzTDI4QnNPQV9sREFQcVJLeDI2ODhRck8xc2NMeUZmTWcwNGh1S1IzM0pTQmlDdUtMN2t4ZWZLanZ1TE5ZS0Z1OGNxTWxNYTV4dzMxSjdsXy1kWmpfNTI4NGpxNlBNNUdldFFoSUk5dmo4T1JxWmlXcnk3U0lQVlh2UmZrcWV4Qnd6VHJwOWx0RXk2MUZ5bFNGQVV1MWdVZ2JBV0ZwbDNpdkZYUFJ5MHF2MHYxQURSMTZlcXgwV2ZWeUktSGNHWlphem9yelo3My1DLWsyUzMxall1RzVB?oc=5",
+        "source": "إندبندنت عربية",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 21:07:34 GMT",
+        "discovered": "2026-09-24T08:58:48.763199+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "إيران تهدد بتوسيع النزاع \"حتى المحيط الهندي\" إذا تعرضت لهجمات أميركية اندبندنت عربية",
+        "player": "",
+        "content_hash": "2614887eabd54a69b56050d3809eb5e34a6b4be24988ab9e6f465a9eb4e2aece",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 4615,
         "title": "محكمة التمييز الفرنسية تؤكد إحالة حكيمي إلى المحاكمة بتهمة الاغتصاب - France 24",
