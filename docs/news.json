@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T05:44:43.775014+00:00",
+  "updated": "2026-09-25T05:55:50.802789+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -32,6 +32,22 @@
         "summary": "تباطؤ معدل التضخم في المغرب إلى 0.3% في غشت Febrayer",
         "player": "",
         "content_hash": "227db1bae9f1a9ade382bbfcb56c9e727683b24a1d6074768efcad1c330ebc20",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5089,
+        "title": "بوريطة: المغرب بقيادة الملك يواصل جهوده لصون الحقوق الفلسطينية المشروعة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zalg3U2lhakNBM1M4Zm1hem9pdzdOT1FrOFFFV3k5NmxaU2JBU3ZsckNCaEg1bXozRUxUUTJxMVJKeDhFd3ZiVQ?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 22:04:24 GMT",
+        "discovered": "2026-09-25T05:55:29.618013+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "بوريطة: المغرب بقيادة الملك يواصل جهوده لصون الحقوق الفلسطينية المشروعة Febrayer",
+        "player": "",
+        "content_hash": "3c18f3b916673e66e2efeb884cd09ea7a0ca7e229c90704974dc3f7afa775fa7",
         "sent": 0,
         "section": "morocco"
       },
@@ -966,6 +982,22 @@
         "section": "sports"
       },
       {
+        "id": 5092,
+        "title": "إصابة محمد رأفت لاعب منتخب الشباب بارتجاج في المخ - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vYW41c0htakYwWGpDeE9ZazFHTF9TYzdWeVhNRE9SV1p6bDdxT0RpcEZvb3B3TnJJcE5uTHBzSnNKcHV2UzZwQzlxd01RQUJC0gGqA0FVX3lxTE5WdnFYUFh6WkxHTkVUNVpBY3FTRDBxWjltSC12WGgyOWZrSUZEWWpvYU83OG5XR0NselVDVFQzM3F4NnVsZzE1d0xha3pxVUgzeTJla1FqYWdiZmxOQVYtMjlrcnlTZWJjWVduUEoxVG1Wek5LTWx6MVZzLUtNS2E5VGJ5X0ZhY1VULXFXa3UwOTItc08yZDhXOHlvT3hicWVBQWVOS2ZsSVRrQmcwZjBZNENfbWZQUnhKOVhFeWJ4c0hyU0VLaDhCWE5PTU1nOGVubDIxS1lZd1BOWWp2dXRhcXl4WHVySmpGS3otanpQa0pUQzRrd01Bbk16NmFEMzcyT05jdFU1QnhkQ294dXVld181RkVkT2stN3NOMzBBVThqbV83OTBrOUVla0JLTmhjcFYzd2M2cEZ5Y2ZGeGMydnpJSFhrUUlZaFI5THdrQkRwbkFGRGpaUFdkTUZQM0F1MHJTZmJxaE9qcE82a3RlMkxZb3c3UE55N1FuVTF5cTQ5WkVNOUxoV2lodlJtUVlQdFkzdUVDazVSOHJJUGNOS3ROR3lFeFlUUQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 21:20:00 GMT",
+        "discovered": "2026-09-25T05:55:37.451584+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "إصابة محمد رأفت لاعب منتخب الشباب بارتجاج في المخ FilGoal",
+        "player": "",
+        "content_hash": "82b4f34574352ad70c8483f8d6aa80a289b12302b7932286ee9b7bad463b36cb",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5004,
         "title": "أخبار | إصابة محمد رأفت لاعب منتخب الشباب بارتجاج في المخ - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNREFiUFdOWGpNS1plWWRsYm5PT21BTGNNVHZ0VmlzUXNhbTBzMFdtdmVoWm1mTTJwMC1PTGIxcHlzRG93OThrMUtMYjZfakI2N0F0aHctZS1uVVUxUDl5MndVYlpfakE0dkpXVzFHTmpKVmZuVG5uWGllc01HUjh0cmJkMWQ5bTN2TXAyYjV0WFd5YUsxVEFyN0Q3aGMyQjJiNGwzdmUwckZHNkxONUd5ZnhWMk1UdUEwN2RJMTdkT085OGh6RFBGSlNhNXM5dDh3VGZVOTN0Y1A2SVNjcklyTVZoVERjdG9uOWdwNHdEdEJ4c2dxYWNkdUZLOUgzeURtQkFhdTQ4YkkxSXNkT2Q3MGlNU2J6aVVqU3FHTmRFaS1uS19zdmxwcEc4TENzdFR5TzVIcVVKcS05RVpReFVteXBIVkh1VlVVVEtGdjBUdUFHdy1GTXRsVFZUR1FHSFk0VTg4TlhFeGROUUwxUTlOQnBnWVJkQjBWZ0luajgtQ091Z3p3NGZrTHpHZkVmY0VKaTdhWFdDakJsWjNXN2p0MkJfSUg?oc=5",
@@ -1522,22 +1554,6 @@
         "summary": "حسام حسن: استبعاد الشناوي من منتخب مصر قرار فني الشرق الأوسط",
         "player": "",
         "content_hash": "6049777651e5e17b1f72ed5b80d73ded17305a4a4b329d2670599f5b1e6f7cec",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4937,
-        "title": "تقنية الفيديو تحرم هولندا من أول هدف في عهد تشافي - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxPZnJrRG8tRnY0RzRLdERPa2kzMUFjd0Vra3Y0RkZDdXRXdUUxMzFKSlNMLXRVX3BYOXV2b0lib3E0dHpiSlgwWU1vMTU4TTJLSzlhdDhNbXJuUXltNTJTRHNTZTBHcjJPaVd3NmprLXQwNERWbTBWTW5UQ1htRE5IQ1ozQThScEF0dEtPMjJnM3I2MXR5YmM1QVZMVmdSLWt1UGcwWF95ZVM3TlVvU19HTlJ2d0NRUlUwSElvVUEwTUtUWVR2RFdmc0pBUnVYRy01Rmg3WnppOEtxVEZRa2oxd0lMS0lqaFM2Q1JwSkdBZk5oTE95cjk1ZWtrX21mNkZSZE5RYWExcnZOOVF2X3VGWWptcXFlNmlsb2ZXUzI5QWd1NkdTemlJUXBEb3g0MENRN3ZpeGJzVjl5QzVLRlZJbWV3cDBTSTFSdnpDZGlNdE4tUV9Ea3NCQllhRjMzbWEtRUlTZ1Y1MTBaZHBTR3B2c2VzY3JqR2VINzM1ZF8wUUxJblJlbW9IdktZSmd2S1YyYXdiQk8zbUlhSlpHTjl2SGxTUm5ha2JJajR2Nkk2Q0wtQ3VEVGhPWklaeENJQzFTMzdVZG1YandYRDlPV21KVUpLOTdGY2FzRmtqeGdCaUZqeWZoQl9SNjZBTWw3UTZFZTViQkpieGl5Tl9yY3ZvUTk2T2pWdw?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 19:28:31 GMT",
-        "discovered": "2026-09-24T19:40:17.164757+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تقنية الفيديو تحرم هولندا من أول هدف في عهد تشافي Kooora",
-        "player": "",
-        "content_hash": "6755427ce5580f0b096a70f55681f420d0756c61b7fe663c694f4381f73d4a6c",
         "sent": 0,
         "section": "sports"
       }
@@ -2230,22 +2246,6 @@
         "summary": "خطة تضم 71 برنامجا.. ملادينوف يعلن جاهزية لجنة إدارة غزة لتولي مهامها الجزيرة نت",
         "player": "",
         "content_hash": "9f226ce8d60a644bd1a452d63f3a4487d18479de19a3096a8f1740930ddb3b56",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 5083,
-        "title": "بعد تعرضها لحادث.. شمس البارودي تكشف تفاصيل نجاتها - العربية",
-        "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQWUtXdy03NlBVVXBEbXZWaUY1OWtoNWF2ME15WVp1U1g3YjhCNXA2aGtjbGZoMHBrX3lUbndIaHJRRkZfVmFSaXJsb2tuTWF1U2Fka3QtMkQ0NERpbXdTck1EaHppQXN4M1IxOWtGb0NWdTRwSkxXdHo4WTZSZ1NSOGVNZEp4OGpzdUJtUWFxSEZMc0RKVERFRE5XdnVmRlNhVnRScWtzU0NkbmxCdFQ4N3h3Mm9lVFhhME0yM09fZlczOUVwVW81WDJsYXRPNjdLeHowaXNBVHdTeFNwbDZFMzNKaWRCZE5xU3g4RDVGbHhMZ1pyZHcwV2VhOHlQbERxaXF2UUt1c2toYWV4NndMQVBKbFNkTHl2eUY3eUpmZDFleFJ1NXhZeUNQTXYwNDRnanltVXlGNGQ5Y2ZmMERTWGY5TTlyX1BxZnhtQzZVU2p3TGRhUEkyUW1scVM4di12SUt2VllnU3JOY3VKbklHOXZPOURfakVfd1BVSlFsRG5LQjVpTTNMUzg4Tmdhck9CaXVFR0hWT2UzU3BZbjk5THFJZld1ZnkwVFZJX2tDZ1ZjX3JG?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 13:06:00 GMT",
-        "discovered": "2026-09-25T04:21:10.263181+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "بعد تعرضها لحادث.. شمس البارودي تكشف تفاصيل نجاتها العربية",
-        "player": "",
-        "content_hash": "6f9ffe3217fffff40d1c1b19c47fd661de8321a161076f1fb353bebee8b7b95c",
         "sent": 0,
         "section": "middle_east"
       }
