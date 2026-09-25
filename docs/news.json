@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T10:41:24.902406+00:00",
+  "updated": "2026-09-25T10:54:03.417986+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1560,6 +1560,22 @@
     ],
     "transfers": [
       {
+        "id": 5141,
+        "title": "هدفان يفصلان صلاح عن قائمة تضم أساطير العالم - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOb3RiUGxQX25QWmVmZ042aWlFY3g2RFhVQ1pkRDA0ODAzSjE1ek92WnBZYlRtRGNraU14TnA5SmpPYThjV05hODRtNWl0Y2Ywc0ZXaWh1dUhYM2pTRWlBUXhHbWdyTXpvV1lfbmh3VUdKUWZaX3N4dS15NlBJNTIxX0RRUzlVdUNjZFNhb045b21lTXRtNmlkdGQ1bjlJT0dOMmVjVGhjNlo0d0RWdXVtNEQ4VnVhcGNDd0JwT3JWaEtxV0JWNS1rNlVERnhZcjJQRnBWZmlHUkF4MXJYc3BhM2lpUV95dExMaHNHaDRuX3UyUWRpS1I5ZElxeDFGd3dFelZ1UTdRQ1hNNUt0R2w5V1paQVB2TGFHUGN0ZjBhUndHNmIzLWR2Z2NoclAxUmJEWjJ2NFRIVGlVZGxmWHBhek9tYkx3c3ozUV9mb19OdG1mTnhVOGRYMGJBU0k1Ml8wZjZiSFlIWk9CX0NNRnRHSzRYZ3JFakdURUthY2xPOEdBTDlmbTU0Zzk2Rk5KbXNYR21MNi1CNkpKMkHSAaADQVVfeXFMUGJjQnlUYVpja0wzc3NRZzk1Q2xkYXB6VndVYlItYzdZMkJYVHhKelp1bGJobC1Oa0d0RWV6eGs4aWxfT3RObktBVHZEWUVPNmNJUXpfSTlrVGFRNVZfalBxOTBJbGhjd0lBd0V6cHNIR1dPemVyNGhPWjdqbklpbG1oNWlSLXZTVndGNGZDU3lLcmwyMGE3aGlEc293UHVJSDNJUkZFRG8zREthQkY1ZDRwTDVmdkdSUVpkbGlEWTZ2SVlfTGp6d2d5aDVIQmhNaTVtLUJKNGVXQWlibzR5bV9fQ1pfUFk3bk0yNGwydW1zMlN2UE5KZndZNzlTb2dBZzlQYjhJdDZnRjFLcmY5eFdwSXhJeTE5MXJTZG1GV1kzYWVxaE5Ca1V2OURyaWlJcEloQWJ0R3VBVHFVOFdEVUQzb21mRlZoRzRZNFhxZHhINjVzZ0ctS0lBZEw0ajB0blFhZnBRZWF6aVM5elhEbWJ5ZUZ1d1NkemFoQ1JkZTFNbTY0MEE2bDBvMGVwcVF0aW90Wk8yYjFUUGRnT0NNems?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 10:44:00 GMT",
+        "discovered": "2026-09-25T10:53:48.532017+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "هدفان يفصلان صلاح عن قائمة تضم أساطير العالم يلاكورة",
+        "player": "",
+        "content_hash": "b18e69d10ee9dabc1072d3f09c46bd639408c9b273e86454d3fa1d3c1a6554f1",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 5130,
         "title": "وول ستريت جورنال: مضيق هرمز يعقّد مفاوضات واشنطن وطهران... والسعودية والإمارات ترفضان التنازلات - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOaVV6NFE4Z0xaVFZBWDVTSkxpSXdFZ3BuNWlObkRKNnhTZi1semZwSWhVNUZwLXd4eUh1V1I3Q2Q2SFlENzcySjBLSG1uZzQ1QW9mMFJGdUZwZGYzSjMtN0pxR0NhSFFBR1RZeUR3TlBUUm1wc09oeFBzbzlzU0pESTJUTWlhX250SDlaV21uTkZFSHBZd1luMEk3UUxyUTVYUkN2cVFRMklEekRXeWdMN3AtbEN3U2VpRVdzeThGM1dfbjc1b1p0QmFSV1FMSlMya25NV2k3b0xnLUFIaUJ1bWh5OTQ3U2pHb01ZdGg3Q3lJS01kelhsMWpBc2Zfb0RqYlB3T0lOdUV1TFM2VmJnM25fQVN2TnM0UXFjYjBvZl9Tb1J3bkdfZmQ3Z1FqYTlvaktodXI4Q1VCLVktWlBmYU1JTXNlNkE?oc=5",
@@ -2164,22 +2180,6 @@
         "summary": "الخط الأصفر.. شريط أمني إسرائيلي يعقد شكل الحياة في جنوب لبنان الشرق للأخبار",
         "player": "",
         "content_hash": "7d82ae3d8a473a55e2f822f350171f5a1ea7910ae515826dece9ac3f7046c963",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 5070,
-        "title": "صفقة بنك مصر الإمارات وعشرات الأسئلة الشائكة - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNdG5hcGM4Y2hSbjJFR2k5c19CR240bHNGeHFWajdXODJZejRkZlBqUzFENlBodVB5X0xmb3NJUF82THEtNDE5Vy1UaHczdFBnS0dOMHBvbkNiU29sMEhHVTg4bjZXelkwdVlDSzY2VXVGWDQwSDE4emc4TTZSS09RV0ZQUWZHclBiaDJRQ3pTSWtGdlhlcjhtLWcwNDl0alBUWi1WWEc2OVRmYTZIMGlPUldVb09XNFZaeU1RbnlXNzVrMEQ2YnM3WXFwcVFnUkdsN3ViUTU4WERhZXY4RWxLc1RUMjE5cGh3S01PMmdtR3BuNXU4YnlLeE5zMFJFZURlQTZGUWxxY1pnR0k2NFktTER5NTRWdmcyT3hva1h2aVNMZXE2cF92ZWtlUTlVSHZLbkJaUXpjX1VhMlY5UHppU2piOFNkRG5fUVpxVXBpLUdUalBZVXBvMHNNVno3amtjYVd6UlMyd2dCZUdfUEt3dzNnQUlvRzJfSm5wZndWQTdSZ9IBhwNBVV95cUxQNXR2Ujc0M2stcWM1X3JEbjVKSUJ4aXcwclNqVG5zQ0p3bGJ3aHl2WS1ZV2hBckZsenJNOHRsdU5WR1h6VWtlMldRUTJQbzNLb29ZZVRHbzg0U0hoRVR0RFJ1djlpNlBycUJVRndoLVBvaXRQS0x0X1pHa2xQX0pEWUktX2xkaW9WX3R2V2R4N0JXX19fV1lmTjhSUkU4UTlIVFFXOEk3YWR2TmNiT1Ewa1l5QUpGNnNsSllGYW9fbmtncnVEbFVrWDBLQXU2VVNoRDdXcEtyZ1ZpaGE4UlRzZmkzeWVqd0lEWDJXNjVhZzNOUENOQnJtN3N2RzZqUThkU1JLdUhSZldmeTQ4b1kyUU1CUUdZUXZNRW9fZi1OWXFIQ094RnIybnlwZDZwaDlUUGRTRzEyUTNMSUNaanpZc1ZKd2tXNVVKalRnanlOb0hnamwtZkIyTkN6ZjRLbDJXdWROZGtRZ2EzNE53cU83c2hBN0hCRjIyZFhjbWhIOHZEU2VQcFl3?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 14:30:13 GMT",
-        "discovered": "2026-09-25T02:57:43.365990+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "صفقة بنك مصر الإمارات وعشرات الأسئلة الشائكة العربي الجديد",
-        "player": "",
-        "content_hash": "f10a23a7ecdbe4b5cd3c48264f54d9e2343488c581bf403744e57f3bcd325f0a",
         "sent": 0,
         "section": "transfers"
       }
