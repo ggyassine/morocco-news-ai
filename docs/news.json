@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-25T06:51:46.720244+00:00",
+  "updated": "2026-09-25T07:02:18.112321+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 5102,
+        "title": "المغرب.. انتخابات تعيد توزيع موازين القوى الحزبية - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOaGxNblNmemVzdERLSDRMdFRldU1icVFEZ2pvdHNqamR3Ukc2QVNhbjJJVy14LWVjRkVpQy0weV9iS0JvU1dWMDNBTXR1Q3I4U1BsWlpRODVuY3l2TldRQ1JnakVFdk1pU2lFTFc0Mm51UnB6eXI0cV94ZlgwZXZHTUF2Z3pISnVCallIbUxDTUZUNkI4NnR4VkhyRmJKaG1ZNzZIQjBxMkVrT3NNX2c1VnlvNDdOakN6TlVxQjVTMkZSMklLTDQ3bGpaS3F3V2hGeTNlR29rcGNTQURkU2x3N0xVR1BrOFdDNDhMSUxRRDBiUWk4d0d6clUtOUpvdkxWUldCNmszSFNaSlpmLS1wUG1Db0hQMzR2QTBJYjNUaVdFbTl0YnFWTEhZSUo3YkxuSTU1MFhJd1N5My15TGFNdGR5d21KZldtZG5mMWZfTlZmbnJlVy15Y3R3WUp1QS1XSlRqNnN0NWlYeXJ0eGRXazFLM2JMclhhLVNISndLMGdlVGR3RV9kU21kRk5wQzNRZ0xDXzF5djNRRGFGXzM2ZlktRGxlV3JuWE9zVGp5UUZvUkhSM3c?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Fri, 25 Sep 2026 00:52:48 GMT",
+        "discovered": "2026-09-25T07:02:11.012873+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "انتخابات تعيد توزيع موازين القوى الحزبية سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "c42cbeb3b423f01164dc0f973ed9022fec4fa611d98eed30da8d8cd0a9219b56",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 5034,
         "title": "مسؤول ألماني: المغرب يرسخ مكانته كبلد مستقر يحظى بتقدير كبير لدى المستثمرين الأجانب - Febrayer",
@@ -640,22 +656,6 @@
         "summary": "الانتخابات التشريعية 2026.. نسبة المشاركة على الصعيد الوطني بلغت إلى حدود الخامسة مساء 28,05% SNRTnews",
         "player": "",
         "content_hash": "29340d24528fcd8f24511d020bbe42adb03217a261d27e1c0772e2775db0b745",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 4602,
-        "title": "متابع بجناية تبديد واختلاس فلوس عمومية.. جنايات فاس دارت اليوم المسطرة الغيابية لبن عربية رئيس جماعة “بني درار” - كود",
-        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPbzVhRG55bGtITy1WWkViSjdsbzlYLUlxNi0yaWs1U3pNOU9ONlk0NUlBaUlvR1RjSmdlVUJNMVduVGlxUzR5aHhnTlZLUDNYRldSelRJVkhiRTJsejdXYXJENi1US0tRLVlhbjRhMU9IX0pRdy1KWk1wWkNHajlEcFJqQmZ2VHNINkRZdHJPQXRvN19ZSlZ0M3dZVlV0TjZMUTJ0TElCTHYxbE5tVUJzdDhRczlqRURSMG42VzMtbEFDS0lOUGt5NUEtcEtfSEFhQ05BcF80amlHa1dyZzdLWGtPSHVvY01QeENCOVROSjhrQkJSSlR6b19sMXhtc3dFOExUdG9kZF9HUlFtRWRab0dDQUhEWGtuandxbm5RenE1dGNnY3hIVXl2aS1JcnplaWlJQ1A5bUFxTDRJaVJsNzFhOTI3TEc1akE?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 18:26:48 GMT",
-        "discovered": "2026-09-23T21:07:57.398942+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "متابع بجناية تبديد واختلاس فلوس عمومية.. جنايات فاس دارت اليوم المسطرة الغيابية لبن عربية رئيس جماعة “بني درار” كود",
-        "player": "",
-        "content_hash": "6c822e663736befe11a25bfff208a6db55dd38dcf66279598be3a4e43d325ccc",
         "sent": 0,
         "section": "morocco"
       },
@@ -2104,22 +2104,6 @@
         "section": "transfers"
       },
       {
-        "id": 4601,
-        "title": "بسبب الرواتب.. لاعبون من الرجاء طلبوا الانتقال إلى صن داونز - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOZy0tWWR6d3FNbHM4QWJfVER4TEkyNjk4dmlUNEpSSnQydzJ0dVZmSFRIanp5d2xFdmlaMlpPeUphMEZwemNpaU1wUHEyUnhGdFRsS3JPTzlLbWR4Z2pCZlg2N052aUNCNkVvLTl6OGtCT1YxSjJnWFBXYWl4QllHZDNPRUswa0hPWEVnZkQ0cWx4X3dJS3pyZDBOY3ZYb3Z4andaUkp6czl2bnFYZUg5eXZldnFNVzgwakYxUXd1NURVdDBxTU9KbE5WalpaaFlNRHRjT2xob3l4T1psM3hJcTFGQ3NRNGRkMzBpOTljYlU4U2lHREljZVEwVWlGSEtMRVhvNVkyTkpaNkpOVlVJeUFxYmczUTM5cjkxNy1CZFFwWjlIQ3c1dHlTc2s3dGRvWTFrbXJnZGZuTWFOdTc2VkMwWHk0a0JCRXhQTFJYanZqSHVpVHd3SV9aN24wNG8?oc=5",
-        "source": "365Scores انتقالات",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 20:49:55 GMT",
-        "discovered": "2026-09-23T20:55:24.888664+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "بسبب الرواتب.. لاعبون من الرجاء طلبوا الانتقال إلى صن داونز 365Scores",
-        "player": "",
-        "content_hash": "39fcfffd83edd8533216c865d1b8f9004565b523d7521ca0b586a53362326544",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 4626,
         "title": "رودري: اتهامات ريال مدريد للتحكيم تضر بكرة القدم.. والملكي كان مهتما بضمي - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOUklRaE5SWllqV0pPMW83NU01c3Q3anJBbElUdjBidnVUU0Rjd0lpczZkZWVVd1NkY3lKVlI1NEVzbEQzWTI3cjlDNEJ3ekQ3Zjh1bWRVNzJvTVQzZ2hFNk5ZVm9CRjh1UW1Ob1VGMzVwOHcta0VLbVhET2k5ZXVOb2pGaDFnZkZwa09IbVJ1Rlo0WTQ4NWp4UzhvaHl6a2RUaVZOU2NSNnFVX2xIMkdsTTNBVjVfM0lTUHFaQmgtVW9DZmhuY1VsOVlUVVUtaHlzSURIVEpwR0Y3cTNSTzljcUtidC04Sm5BWS1vcnI1aDkyWmdsdUJidkdwRTRXVmE1ZW9rdTVPMmctTVBtY254UkJ5UnJ5eU4tU002bzdENk8wTnpJOVZBaFNPdHFlUl9aVjB0Z0hGMjdSMjdwczB3UjUtanphWVdwaWIwQXZWQURMdTQwOXk3bzdBeXdQRXo1SWNMUFNENU9wNmktZUpZSDlGLUEydWllZEZsQnd1YkFnUXJYdlJ1OG9ZaXFERTh4OEJlM3BvMGlZXzdaQm1fZGk2Nm52ZVBkQXVkSXBVRHpLVHFGamdxUWE0OXE3SWJDRVpUZ21TUC11aU9KSjFka0dQeVpGV3JheUEta2JSeUlNYktoTjg2OFNDbGRSc0ppVzBIS1Z2STBxSjB4al9tLTZPWno0LXdSOXh1Mkw0VWVMUThsMVNXb2JZQ2NrSGxiVzFBcDR6TzBqRUlsNk5FbDRGb2dDWGt00gG-BEFVX3lxTE91MjhheTh1RG1YUlNpQkxCWEZEM2ZkekJ1TkRaRGRXNW9ncy1Va2M3MGQ2SXNNdXczSnlrYXVGWlJlblhuMzd6OXRHNDQxVERlakcwVkhqVFg1WkotcVNDYTFGZDRtTHJ6NklNZ21ad1dSSFNmX0J2cUxrbUYtTTdLSHVuVWZ5T3BVSklSaExhOWllVHJISG5aWkVWZDVEYWtycDZLR1hBdG5wQUV5UGQzTW9ZS3pGWnhtWEFDd2FINzFTYTdjWXNyUnBOalBhT0VMcFJLNmVGVmVDOEhfSFZ0RGJBNW5vX0pjWmgxb1BVczJMd1l3Q1RydUFxQThxZ1Zpb3MtVUZsTkRwVXdrUTRSUF9VSjFRc3dFOGwtSG5DbXVlZHE2N1pkQndrVEpKLWZjWjhLQThsMGl0QmlhRTg1bzRwTVRqVGlNLW83am9IQ3l2bXNEUEo0N1RjNE1QMzBIaHQ2dlktcUkweWZjRkRvU3hpMWVDVDB3TWw2WDVIX2pLRjE2VHAtb2lsdjJ6dkxvbkZDdjFjN2o0MUFnWEhuWTdNdGZodDJkV1c1cDBsVFM5YU5PZGVzaXMzbnZQYzBzc0JYc1ZLM0tUX2RiWEc2T3dnbTgweWV4VVFyQnh6Zzc2cng1SF9aQzRnVGRhSGo1TTA2RkctVGI3UVc0QkY3SDcwb2JKYUlacEl4cWNPWkZmY3NUX0xGVGZleXhzZG51ZkdMdFZ5M0RNN2xkMEZzVzk1RkZTN1diNzNiWkE?oc=5",
@@ -2408,6 +2392,22 @@
         "summary": "معرض «صُنع بسحرك» تجسيد للظاهر والمستتر من قضايانا alquds.co.uk",
         "player": "",
         "content_hash": "20b91f402ee50fc2360e3d6470986db635258bfd38d06142935cc545e9c7f981",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 4615,
+        "title": "محكمة التمييز الفرنسية تؤكد إحالة حكيمي إلى المحاكمة بتهمة الاغتصاب - France 24",
+        "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxPVDl6TnlUSlJTLXF6WXBWMlMzRjJYYUZ5aGJSVFpBQ09LSWJjeE1iVi1oOFF6cjFmM2k3NE5kZVdZMWlxVU5ySTZfTmVNNVZqS2RZYjZreVVaejA4aE5mRkpNaE55a3lXQndXUHgzM3ppV2Y3c3dJNlRMdHNZNzRSVTJOb0NaMnduUnNtaHBMcTNUU01yLWFTSkM0UVJVdWJUczZZLWVvVmltX0pLdGFCNFJVRkpaVTh6UkVRWEJJT3NKZTV3Y3I5X3RTUzBud25iRzJ2S0dIUzlJZFYtV3k2ZGNEZHI3YU1uSE5zZVB0UWhPLThzcVhfc29xMTNvQlBrRnZNNmJYZmZlZmMxbnFROGFnbUxfRV9rb2p5UXpOWm80cE5BMnRtMjZCTVdRRGgya2VMY293NGVRNnJmNHhpY2hlNlVjNWRtSTQ2RmFQTGo4MnM2M2tBT1ZyakdQd2JmNmhsclRKYk5yRzRTb0M1MUlVVzBETE90Mlc2eTNvYkNIMURVbFRRSVZYaVB2UUw2LTZxZnN0NlVNVk5KZTQzLXFLZEF4aGVpM0lON0Iwc2MzMnZfQXByektVVmptRHp0Wm4tRWVKbGFNWDg2aDFDLXlhMERfYjFubTkwdWg0WVNrYVJQTWdUazRMVDVYcEVfcHRUV0Z4T1BqbDJBMWg2LWhhai0zOGNDZDhhZG5ONU8?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 13:14:35 GMT",
+        "discovered": "2026-09-23T21:35:26.563517+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "محكمة التمييز الفرنسية تؤكد إحالة حكيمي إلى المحاكمة بتهمة الاغتصاب France 24",
+        "player": "حكيمي",
+        "content_hash": "5b399db8a295d310c6ba0cbbb87dae5c856408418f4dfe77f03c82aca3cebc6e",
         "sent": 0,
         "section": "world_arabic"
       }
