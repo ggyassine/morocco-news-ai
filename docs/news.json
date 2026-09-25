@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-25T18:35:44.321027+00:00",
+  "updated": "2026-09-25T18:49:43.272712+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 5297,
+        "title": "هل تصبح فاطمة الزهراء المنصوري أول رئيسة حكومة في المغرب؟ - bbc.com",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GeExaNlZFLTJDVW5CbjRZX0lFdU5oSGNhMF93em9OSEhvdEFaLWpsZVhmM0JaT1A3MkFvSnBTYUNIUDVfOTBBMFpmS1lwQjNuWXhxZ0tKQnJjTzJJdXfSAWNBVV95cUxORG1jcUd1dFBNdmhPRS03ZWZDVjZZalFEMy1TaFItUVVHZTZPZ0dmaXZ6N0xkakZjazVVWlcteGRNVS1CaTRHd1EyN1p5UTQtLWd5Ti1HY1QySkdaZUlQYkFFMmM?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Fri, 25 Sep 2026 18:44:49 GMT",
+        "discovered": "2026-09-25T18:49:40.268300+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "هل تصبح فاطمة الزهراء المنصوري أول رئيسة حكومة في المغرب؟",
+        "player": "",
+        "content_hash": "6613206d2527fe5a680ef72198de623c404f768f10659272bd80c9b67ed88158",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 5250,
         "title": "الحريك بين سواحل ليبيا والطاليان.. 6 أشهر نافذة ديال الحبس لواحد ففاس ومو خدات البراءة - كود",
@@ -80,6 +96,22 @@
         "summary": "إسبانيا تطلب من المغرب تعديل ارتفاع تحليق المسيّرات قرب مليلية Febrayer",
         "player": "",
         "content_hash": "1e77d11374596bd18e9de2922a6f13d04f89bf6487a7eb28a91b8c969a7b4f04",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5294,
+        "title": "تشريعيات 2026: الرابحون والخاسرون وما تكشفه المقاطعة عن شرخ الثقة بين المغاربة والطبقة السياسية - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16SDNBelNIbk1tQ1d4VzNGbk9ZN2FsRnljaEZKVWxjYkVZN2ZMUWlPd1hJZFl5emh3aTFMZ1djX1JIT0xtMTllWlVnbjBldVZqQ3Q0MmYxSmFFSEhrUFlGMDJPRmpzSmpP?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Fri, 25 Sep 2026 12:50:34 GMT",
+        "discovered": "2026-09-25T18:49:11.902310+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "تشريعيات 2026: الرابحون والخاسرون وما تكشفه المقاطعة عن شرخ الثقة بين المغاربة والطبقة السياسية Le 360 Arabe",
+        "player": "",
+        "content_hash": "d631dd7c841046885014f48a942969b46c1614dca9f62653ceba998373270b81",
         "sent": 0,
         "section": "morocco"
       },
@@ -420,6 +452,22 @@
         "section": "morocco"
       },
       {
+        "id": 5292,
+        "title": "وزير الداخلية يعلن نتائج الانتخابات - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOVmZGdjYxT2x1S2hwN3Zya1Qzcm1IVVlBaU5mUng2SlpSTThGTzBodThvUGYwdGVyZlcyYnBiUEhHUjIweWktTFpldm5KNmE5NzVKM1VwRXl4V0VfdllwMXNyQnVyeW55OGNlYXJGUHdtNkZtY05SaFhTWG52dWtOanA2bHk5dXUycTY3S2tEckVoN1pDenNOR0RqdEhOOG9qalVscFVBTzNlMHQtc0FpU1BERld5d0U3aXpnMnVFUTlLSzlQLW1vOE1ranR4bUlEZmtNOE9TdHdhT0RMeGdXOXdOaE90T29jOUdISGk1VFJPYlBGZWRNeXRJWnJHbndPN2hwenhYQ0tNaTNxT09JVUMtNEp4SF94ZURMaVdZdHJKcDdzaFNHR3M4TnJMdVRMTHQ3cENSakRoclYzZlRFNnVsbkRkcWdQenlzbA?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 15:51:32 GMT",
+        "discovered": "2026-09-25T18:49:11.356928+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "وزير الداخلية يعلن نتائج الانتخابات Hespress",
+        "player": "",
+        "content_hash": "40f7e985480a04d3fd6fd9d400e9ace37185f67c2f4dd54a6ded5b055a006042",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
         "id": 4844,
         "title": "المغرب: هل تفرز الانتخابات حكومة تلبي تطلعات الناخبين؟ - BBC",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zMURoTGtwS1U5R205NVAxSUpQbzNSaXlHU2RjNEhsUVRYYk1LaXF1YjBiQWxJX1lUd0FvR1BrWl94Y1poWkFBajRVVTRkNmFwRGJ2UFlQaG9GU09oV0HSAWNBVV95cUxNVjRRbktvWmxLN3N3ZGtuWENfZkFFdHNXd3NrWkh4OTVMNG9zM0E2bHdSVWJNNXQxVTgtaS16dmt5VWpIemRueVRTUk4tdUVHOVZsZTR5YkxSX0t0N3lma0ZkSjg?oc=5",
@@ -752,54 +800,6 @@
         "summary": "القضاء الفرنسي يحيل أشرف حكيمي إلى المحاكمة بتهمة الاغتصاب Hespress",
         "player": "أشرف حكيمي",
         "content_hash": "36a1cbd5a24795755efa41dec376f4b7c0498fc3defc48bc846daa4efa728fa3",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 5044,
-        "title": "التحقيق في مزاعم تزوير انتخابي بطنجة - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNbTBnOHhaOWx3N3ZEcmpqUEd1dVpCeThwWjZqeUVRSGdJbkt5TTlLWW9QYUsxTXV6MmotWm1xYnVzQ3B5ZUp2UzdrY3RCWUI2NGppV3VOU0VLOTl3LWdmeW42S3RMcGRXS19aNk8zWmhDVzFRNDVHUk5YeFVQdHduTWVVX1RfTnJSdlhTa0ZBV01NUkFWN1pET01XMTM1N1g0SUpWQ1R1VjJxYUstcEpfSkhCbGVmOU05eXBPM09wTVFHN1dNSy1RcG5TSEVsYzJnOFFCNHVRVXU2U3FVSEZVby12cTdncjNTVTRZelZHOXJNc3diZC1hNDRTV0pzYnNYWk9GZUplQTRSVXpyVEw0SGJmZ2NnaC01ZHVfV21GTDczU2FBdktqczl3cFBUZWk1azNnRUU3WEtOUy1JamNzaTgyVkRtMFNjUDR0UUdGYjRKMWpZTVhR?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 13:09:11 GMT",
-        "discovered": "2026-09-24T23:41:04.973053+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "التحقيق في مزاعم تزوير انتخابي بطنجة Hespress",
-        "player": "",
-        "content_hash": "6cc4aca3de2c8fa96d86b730e31e4b0c438a52c5d8fdeb8441846b5fbd88f115",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 5047,
-        "title": "المغاربة أمام صناديق الاقتراع.. تطلعات إلى نخب قادرة على رفع التحديات - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNVHUxUktGMG5EcDg4TXduZ3ZSZ3QwODc1N1dKNzFNMnM4ZFh0d0YtZ0ZaWEFSdVoxZk85eTFYRGhQdUNjNXNCSXBTWjRPU2pMcU1KUGxRS0J0NVg0cWhsM2JCbDdWdE5KRmhNNDBrSUtMQXBKaUhNSjVHenlFeDFTanlHUEhpN3JtdS1qaEdQOVB4Ukc2ZmxFME5PRnhSM05lX2VLX1N1M1pRbGhIQTFlcjlOb1RYZWlqNk9zWm04Z3JmcDhtYmp1R0xkV1JQX1dJdmtINjBROEMtVEpablVBNnY1NVpOR2hnRXhLYWlqRG11a3NEbTFzUUZjaU9TTExVRHdzZDVaTUZsdmJUYWRDdDJ0OEphVkZ1eUlmbWpyNlJjUXM2LUdFejNQQ1hOdzFCd0FVTkJ5VnBSbFVrLWtzSzU2VVdENERsZjdCVlhXc2psV0V3?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 12:34:10 GMT",
-        "discovered": "2026-09-24T23:50:36.215215+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "المغاربة أمام صناديق الاقتراع.. تطلعات إلى نخب قادرة على رفع التحديات Hespress",
-        "player": "",
-        "content_hash": "5d579b243b281e91044f1818a5ed03814d2b13b2de5aff07b76a221e35a12656",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 5080,
-        "title": "وزير الشؤون الخارجية السنغالي يجدد التأكيد على أن \"الصحراء مغربية\" - SNRTnews",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WQXotWl9CY0JnQWNfaGltNjR2WEE2RWdMbzRPMlVpQVdQbDlkY21DbUZXYmNVanpzcE1oN1lNS0ozaDBVVzdLZUhhVQ?oc=5",
-        "source": "SNRTnews عربي",
-        "trust": "A",
-        "published": "Wed, 23 Sep 2026 12:17:21 GMT",
-        "discovered": "2026-09-25T04:20:51.052100+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "وزير الشؤون الخارجية السنغالي يجدد التأكيد على أن \"الصحراء مغربية\" SNRTnews",
-        "player": "",
-        "content_hash": "86d8ffb6ef0acac68c7a5529255bacb746b9de82bd8f2961cfb6c9089b0ce5d2",
         "sent": 0,
         "section": "morocco"
       }
