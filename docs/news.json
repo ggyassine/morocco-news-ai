@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T09:45:44.470365+00:00",
+  "updated": "2026-09-25T09:56:59.801707+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -736,22 +736,6 @@
         "summary": "القضاء الفرنسي يحيل أشرف حكيمي إلى المحاكمة بتهمة الاغتصاب Hespress",
         "player": "أشرف حكيمي",
         "content_hash": "36a1cbd5a24795755efa41dec376f4b7c0498fc3defc48bc846daa4efa728fa3",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 5044,
-        "title": "التحقيق في مزاعم تزوير انتخابي بطنجة - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNbTBnOHhaOWx3N3ZEcmpqUEd1dVpCeThwWjZqeUVRSGdJbkt5TTlLWW9QYUsxTXV6MmotWm1xYnVzQ3B5ZUp2UzdrY3RCWUI2NGppV3VOU0VLOTl3LWdmeW42S3RMcGRXS19aNk8zWmhDVzFRNDVHUk5YeFVQdHduTWVVX1RfTnJSdlhTa0ZBV01NUkFWN1pET01XMTM1N1g0SUpWQ1R1VjJxYUstcEpfSkhCbGVmOU05eXBPM09wTVFHN1dNSy1RcG5TSEVsYzJnOFFCNHVRVXU2U3FVSEZVby12cTdncjNTVTRZelZHOXJNc3diZC1hNDRTV0pzYnNYWk9GZUplQTRSVXpyVEw0SGJmZ2NnaC01ZHVfV21GTDczU2FBdktqczl3cFBUZWk1azNnRUU3WEtOUy1JamNzaTgyVkRtMFNjUDR0UUdGYjRKMWpZTVhR?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 13:09:11 GMT",
-        "discovered": "2026-09-24T23:41:04.973053+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "التحقيق في مزاعم تزوير انتخابي بطنجة Hespress",
-        "player": "",
-        "content_hash": "6cc4aca3de2c8fa96d86b730e31e4b0c438a52c5d8fdeb8441846b5fbd88f115",
         "sent": 0,
         "section": "morocco"
       }
@@ -1559,6 +1543,22 @@
       }
     ],
     "transfers": [
+      {
+        "id": 5130,
+        "title": "وول ستريت جورنال: مضيق هرمز يعقّد مفاوضات واشنطن وطهران... والسعودية والإمارات ترفضان التنازلات - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOaVV6NFE4Z0xaVFZBWDVTSkxpSXdFZ3BuNWlObkRKNnhTZi1semZwSWhVNUZwLXd4eUh1V1I3Q2Q2SFlENzcySjBLSG1uZzQ1QW9mMFJGdUZwZGYzSjMtN0pxR0NhSFFBR1RZeUR3TlBUUm1wc09oeFBzbzlzU0pESTJUTWlhX250SDlaV21uTkZFSHBZd1luMEk3UUxyUTVYUkN2cVFRMklEekRXeWdMN3AtbEN3U2VpRVdzeThGM1dfbjc1b1p0QmFSV1FMSlMya25NV2k3b0xnLUFIaUJ1bWh5OTQ3U2pHb01ZdGg3Q3lJS01kelhsMWpBc2Zfb0RqYlB3T0lOdUV1TFM2VmJnM25fQVN2TnM0UXFjYjBvZl9Tb1J3bkdfZmQ3Z1FqYTlvaktodXI4Q1VCLVktWlBmYU1JTXNlNkE?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 09:39:33 GMT",
+        "discovered": "2026-09-25T09:56:55.167825+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "مفاوضات",
+        "summary": "وول ستريت جورنال: مضيق هرمز يعقّد مفاوضات واشنطن وطهران... والسعودية والإمارات ترفضان التنازلات القدس العربي",
+        "player": "",
+        "content_hash": "dcb19fe8506ea6813de6d644217847f6531d7aba8134c20a39e8685652ed3f75",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 5105,
         "title": "\"أرض الخرسانة\": معاشرة سينمائية تعاند ترحيلاً إجبارياً - العربي الجديد",
