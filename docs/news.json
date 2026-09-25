@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T17:24:56.570911+00:00",
+  "updated": "2026-09-25T17:38:26.375941+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -806,6 +806,22 @@
     ],
     "sports": [
       {
+        "id": 5268,
+        "title": "مجموعة مصر.. جنوب السودان 1-2 مالاوي.. الهدف الثاني - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOQmZtRkw1US1zSE16dUdRaXZQNGJCdlBOelRzejN6QVVBRnpTRnBLUW1mcmFCYzYyYktEUkk1NUtfd1VsZ1VTeTBDa1QxMF9vYlN4blpVUDBoS25MQ2VQR2NiMGVXQ1ZuQlJ3VmRwR0ZObEhmTzhtelAydUozSVdjX1hkZkRfMEg0SWZxcmxpNGVGaktEVnRDckZzTDVDd2s1NFA3UDM1NTRRdVQxaExxd1pPMTFaVHFfanJyYjVUOF9VRDlINi1PbGQySy04UnVxd2M0X3ZYdVkwaHdJenQzTk1ZaTlCYl9oUUlYeWdjcHhLZU83OE53dzgzODdLUk9EX3d3Y0pwRS0yOEJRV3l0UzFidkxqNUhXbEJQLVFKRzl3MkF1bjlxTmhrY0dldEtKWDNQX3lyZjZQR0kxdmxXekxQOVh3djBZS3lBQ0pXS0hSZWY5RG5VVFVsOFpLeklscDlGYTJnbUxUaFlYcUZzOW00bTZUbHFRZGJaU0xHTTNVQkdKeURMSUYzRnVkSnNxNFcxN3k5eG5lN1B0ZFlN0gGkA0FVX3lxTFBybUxPSjlzalFObEJVTU10TXpLWGFaM0hHbE1BaGxfTEo0ZVNLeHJmOHRPak5FZTJ2UlczQ2tRX0pBNlZTaWpxcU9zRzlfd3JoWGN6azBhaTdsWDVZN0V1T1FENEI0WnZfdnhaWk45ODBQdHd1YW1RWHptYmNtbVNTS195dFk0bFIydXU4TjhzTkczS3RNLTk2MGZPSThKbG5OdGdQNVF1WHRQSmJmX2lXMUVLXzhGU2ZIQVQyanhFamE5VHdyU29ZQUdSbnB1cmFwZ2tibk1LRnZ2QVFwY2x2aW5IZTZnZlJmVDZvV2lBQmhINHFBcnZobjR0TWtMQ21DaC1JUzYyQUtITVhhX2V3aVRleG4zWGJkYjlhRmtrd21UdDRxWmhybVBSMUYweVBmblhEX2FkX2dKdHZJV29HU2hsV09Cd2NxblZwMGt3LWlMWVo3OVM2OURCNzZsbHlJLXdiR0FLU1JjdG1kX0U2ME5UbHZSU01JU3lWblpRYy1kM1Jmckd3OFBIMnVnRHZ3UzlFeENzNlV2WTh5aWxYSGxEeA?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 17:25:47 GMT",
+        "discovered": "2026-09-25T17:38:10.640977+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مجموعة مصر.. جنوب السودان 1-2 مالاوي.. الهدف الثاني يلاكورة",
+        "player": "",
+        "content_hash": "129ed0590fec97ddc787baedfaffe81514802d14d695eec4a906669d6331dcc0",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5263,
         "title": "من مباراة واحدة.. رابطة الدوري الإيطالي تعلن موعد بطولة السوبر - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNUTVSY3cxTEo0dEhtenZoelpyMHhpeGxFanUzMGdXNlp1d2l6UjlHdW1tYy1PNThEVGRCZUEyS1hhS2hHYkJkTDBUclNOaUQ4U2RnUXpNSi1GVkVOTzRjUDIzczJBWG9UZ0xFRHRuaS0yV3c3dXZMR0lMM08zYWRUM0ZTQmJYU25nZmxldnJaYmZ4bHU1cWNoVzFwRmZFS0d4NnJJVGVyYjlnR25GRElBNEFTcktoNkxUcGxrODBmS2JIZzZLbTBxYXdsZEZvTFpIUWVTQ1ZvVFpWSi1BRWViaHJhTl9ZMVdfZ2JtRmpLTzVIeldSZ0FxNzZtSlNTMzdsWm1xRDJ2SWFPNHBEclA3Ul9xVU1DNS1JanJYSW5pY1I5dXZRSFhKRHZBVU54UVBrSnpCMHJzdFVxb1N6d3ZQUHZBZ1U1SFhmUlBNNHU2ZElQLVFKaDhob3ZoaUU5aFRpbHpzQm5HUzFNMVdEUzlhY0dOeTd4M3FDUmVtendBZENjTm0tUUVEd1JqNTkwWHNuc0hDWTE2d1Jydk5HVnBJMjJkd0xWQUpIMmdMRUg1N2ZFS1hNVllqQkdIWElBOE96b243ZGtDM1VwVVlFYm5vVFhoUVl2U0Z3a3JEb1FLRE9NaGRfdE5DcmlWVk14ZGh1T1dMbkNn0gH7A0FVX3lxTE4tVm9PaHlJaGRzM0NwbFljbDJjekpvakhwLU5KYk5lMVpjUHYwVE9qQU1Qa1JWcHpzOGtCN01QSkl0a01JLXVMbmd3QXhTNjRYSFVBUGFVLTRvZXVkcXZEVEViYm1YSmxIZlVmS2dUdi03U01QdTRmLXkweXFQU04zNnZEcHB6c2lqaTlXWkxxVUpKODl5eDhPNjl5azVkck1oUUh6ZmlRNUEzMVBQSTFWLXlaVWR1MlVHRktQNkJSR2oyUDJhNHBodXNleWVtRThfY3BwcExpMmhOOFA0bXlSeHhVMEZDTlVNdndrMTI0UWFhbUswbnBIV3ZTY0duQ3dyM29JU2RkbW8tZTU4N21wNkpRenVMWGpsQ24takU3X25BTlM1UFZRU25YZ1ZKNGd6UmdYb0diUm5leTlKa2tGSW1ENjBTeDk1QzJjakgyVnE0QzZNaTZ6UFA5T01FU093QU5ZOFdaeUwxZTRPZVYta2ZtZ3hINDJkVERRSE0yWEFNTm9NR0hRMXZjdW00QUlXUkg2WlYwT0J2NG5feXRuekpEZ3dMN0dUZ2w5bEhJTncwX2pkSWN3aUJfM2tsYW00M0RCXzh1RGZJSDd4OEJoczdUTGxRbk8xMWFnWDJRV0lMZ3lsUHdFdmxqMjBLVjZjTTFBVG5OZTVxOA?oc=5",
@@ -1588,22 +1604,6 @@
         "content_hash": "d4b644a0d34537e1d139adafb2893cae19d93ae4a64ba27cb11b5316b65dc755",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 5190,
-        "title": "إنجاز تاريخي.. منتخب المغرب يتخطى البرازيل في تصنيف فيفا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQQ19NeWJYUzQzeTdGZ25Fd250SEZEY0lVZjJtdERpVkE5dE9FRmxNaGFtcE1UUzdCSThvem1Dal9PU2dQS0sxQ282RmRqTFBGRVNyX21wN2lPSTI2b2x5ZXRIZVFKQnBwazlqUzZXZ1NrQTNaOWtBWjhjajZFamg4b1FfMnZVWkRsbW5qM0k0OUcybTlKWTZKelBOVGFzMGdrUzhZTUZXOTVhUlVzM3ljaHVPTHdvWW00Q0N0UGcxWFhJTjBHQWUwTXpqSXF0U2FTWWpHWGhrMnNYQ05tcVhmRC1hOE90TV9zSWNUbS1NNmJueGJrS3pfSzRrRUxnUVZIX2tGa21NUjdncEVFb2xFcWNFbk84WEpBcEM1SWFCX2tqNEQ0bjYyUElaSmRrUjJ6eTEzZy0zQldyZnhXNUFvRzFyQU53dExKVUNHUW1fLU13SHVjeGVrckV0SWFvVjdYSlk3TmJpTm04ZmIyZGNWNGNPWnF5U2JRSGxDeGJqLUdiUG1uT2pyZkdZODZWMWgtOGg4VDVYQlVVb0JJMWhfNmxXSWxPMUVvN09uaWdBMnlIZUl3el8xS0ROc1VqSGxQN3VONVlvc3pXb0xRUTdKdlgwek9OTUliT1MzeTIxWFJRelh40gHqA0FVX3lxTE9DWGkyNURrVE1FUFNvV3l2Q0EyVHhkWG5fOHdaOEo4MllGUWFnRjlDX3VVZ0Q1MlMtQzFLcWF4cUU1S1JVM1hsdk5QUEdVUUd5VlJSUDZxY3FQQnF5VnZpb2dBZ0NoZ1drTy1RNGdIVGRtN2tPYnFSelpRQ29la3FONC0zXzBqVG00MTllaTBHMnRucThYTU9OOXJZNEM1a0JlZDlGV21oWk9fczRVcUNyWWctaGdaV2dwZ3RXYTB3ZDJsLUtXMUZtd0daSnpKTEhMcHpLX0d0WTB3WU5xeXVTZzdKbkt0WHRjQk9YSV9PZlloUUhDVXk3N3JmZWh5a256ZG0yekRWUHBscUtnR1RpZjlWRGN6N0paMjUwQTRTaFpvTDBhbks4bWd3MDVSWE1vNEpNdm5RQkF3eXRhakRPa0YzUndCaWwtcFJaR09CMEZHWVh4WnBGcG53MHFnem5CWVBpRGFDR2tNM2s1cldpbVB2NDNGcTFoRmhuR3lzSlkyc1lLelAyRWJ2RFFwblNZWndldWJtSlNweWxGcXpqOEFRejZqOEQyLTRQaERRUHBnZUhZdjR4YVFLVWpjREJfZnhLSWJkQmxGOEN2dmdsVmotdUN2ZUNvUlFfcU1RcmdyZjNqWU8za1E?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 14:09:00 GMT",
-        "discovered": "2026-09-25T14:21:39.156301+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "إنجاز تاريخي.. منتخب المغرب يتخطى البرازيل في تصنيف فيفا يلاكورة",
-        "player": "",
-        "content_hash": "bbdecc1eb1f2457059d494789395328e40bf7c5b1a43e0e54bdde96b62a36de9",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2104,22 +2104,6 @@
         "section": "transfers"
       },
       {
-        "id": 4767,
-        "title": "رحيل سيد أحمد أقومي: ملامح مُعبِّرة جعلته ممثلاً سينمائياً متنوّع الأدوار - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxQT3hld3pEbEk0NG1EV1pCR2ptWDNTbTE5WkVZVmhpcjN0bENBS2ZHQ0pxUTVoaXBZYm1DaHF6TEI3Wm5CTzc2aEhBejBVSXhUMGpLX2xGRjRKcXltTGFZT2gxdWVhTHROajN3R1F6WnJtdlp3NEdnMkJRM3pGZ1pzeFlwVEp5V3dOWWdnWVc1ZktUUFlPd1lUeXZZYzR3dG9SMEdtbUFaclpXdmhIVWVKNDlsM1ZwZG5iRy1PUnMyZG5sMERZa0g1NnBZRG14bXJpRTNiM1RWLWZaaFBCQnJmQzN6ZjZFR19laExFTU53NjdhU0s0T1oyNnBETktUbGhmTVRCcEJRbDJ6MzlYQzc4OXVWQUxoSDFXb3BkTjczcUhPTHl2OFpJN2NOdnlKOENuTmdqanVzMDNzMWhGWmp3RU52RU9ZSVFmSC1VWDhTblIwWG1HWkhLa2U1WjdrS3g5ZXZnR2MxbDR6Uy1iN0FnblRQaldULUdnbmR4NU9GQm5JeHp0dWhFNEpfSWh2cFVIRGo5cktkRm9OTTBsNmcwWU5QRHBRbUpiVkpZMGltLVdSbVluTWFoSFdDaDV1VGtjal9lVzVRRk1TV054NHVKR250SVBBRFBtZE9mTmRIVGloMWR5Vk5IOWpWSVF0NHIwSWljNmRtM0lObHg5cDNGWXF0MHY2aEtRNXJaY2F1SnE1bGNfN2ZkejN3U2VlRGpyd2NIWGEtanRUMFBhMzlxekN1ZWpFZw?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Thu, 24 Sep 2026 08:21:36 GMT",
-        "discovered": "2026-09-24T11:02:43.510015+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "رحيل سيد أحمد أقومي: ملامح مُعبِّرة جعلته ممثلاً سينمائياً متنوّع الأدوار العربي الجديد",
-        "player": "",
-        "content_hash": "7b77954dd8d4df6839123d6ccac63f0d03044db8f3be049bd4e2108af5fc32c5",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 4778,
         "title": "قصف باكستاني لمواقع أفغانية يوقع 4 قتلى - الجزيرة نت",
         "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxONENFNDY3LWNQQkR4Z1dGRDJZMDBXTWgtY1pteFk0SjZyaF95OWRRa1ctbVBpN1o0M01CZFBtc0Z3czVVcmRWSS1UYUpqdG0xei1qdWRtY3Ywb3BBNzItckpjX0JQdEl3TUNRRFFCX21YTFp2akR6cXJDdkRDNXJkaXUxdlZ0c3VlU09NZldKQ2lqZ1ZMQVdnOFFQSkEzV2JWMUljdXBKNTlXOE9kQ19LUWpRdDdZVkU1Zm1Nek5kckhld0E0c0EtU28wV1VoVXlFUVZTTnpkYWVhMVp5QnBhM2ZJejZZMHliekdjS0Y1LUxWMDJKZzdhRG1tUXhkMkhhSGtZcWd2MEpjWklTOWcyQmxXRFNaakwyWS1vb0hXS07SAaYCQVVfeXFMT09YMUhucmdQZVlKQjFkQnBlMUF2TU9uTzFPS0M0alFPb1lhT2Y2WktBbUVFRTJYQllXVVBZY3RENVJ6dy1uck16Um5tdkVIYkNUMGpjUUFqTWYtQy1POUpLNjdZTVNRTmxFbHB2aHpHZ2l0Y0pSTGN6eGpHeWFyWkIwc3FSQjhON3FIZnNic1g2eng2X21EYzRoM0VHZ1l0TTdzSExldWR5YU9RVTg3cVlVWllzQ09ldDJWSmFNYzBEUm9mZk1sLWRNdnpBZmxuU0ZoSzE5UWhzNVo3NHl2dlZ4cE1LNGtSQlNPZGZacXBMQ0VROTBuUGVwUndRWXNlOTNiVjhVdXBvVklkQmRWcTcxSUVrOXdGX0xielZrcW5NWmt0ZFp3?oc=5",
@@ -2246,6 +2230,22 @@
         "summary": "أزياء ميلانو وترمب والانتخابات.. لماذا غابت ميلوني عن الجمعية العامة؟ الجزيرة نت",
         "player": "",
         "content_hash": "8bb676c362234a9324a117478d51541fdf2adae7975bd94e52fd13a91a074325",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 5083,
+        "title": "بعد تعرضها لحادث.. شمس البارودي تكشف تفاصيل نجاتها - العربية",
+        "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQWUtXdy03NlBVVXBEbXZWaUY1OWtoNWF2ME15WVp1U1g3YjhCNXA2aGtjbGZoMHBrX3lUbndIaHJRRkZfVmFSaXJsb2tuTWF1U2Fka3QtMkQ0NERpbXdTck1EaHppQXN4M1IxOWtGb0NWdTRwSkxXdHo4WTZSZ1NSOGVNZEp4OGpzdUJtUWFxSEZMc0RKVERFRE5XdnVmRlNhVnRScWtzU0NkbmxCdFQ4N3h3Mm9lVFhhME0yM09fZlczOUVwVW81WDJsYXRPNjdLeHowaXNBVHdTeFNwbDZFMzNKaWRCZE5xU3g4RDVGbHhMZ1pyZHcwV2VhOHlQbERxaXF2UUt1c2toYWV4NndMQVBKbFNkTHl2eUY3eUpmZDFleFJ1NXhZeUNQTXYwNDRnanltVXlGNGQ5Y2ZmMERTWGY5TTlyX1BxZnhtQzZVU2p3TGRhUEkyUW1scVM4di12SUt2VllnU3JOY3VKbklHOXZPOURfakVfd1BVSlFsRG5LQjVpTTNMUzg4Tmdhck9CaXVFR0hWT2UzU3BZbjk5THFJZld1ZnkwVFZJX2tDZ1ZjX3JG?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 13:06:00 GMT",
+        "discovered": "2026-09-25T04:21:10.263181+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "بعد تعرضها لحادث.. شمس البارودي تكشف تفاصيل نجاتها العربية",
+        "player": "",
+        "content_hash": "6f9ffe3217fffff40d1c1b19c47fd661de8321a161076f1fb353bebee8b7b95c",
         "sent": 0,
         "section": "middle_east"
       }
