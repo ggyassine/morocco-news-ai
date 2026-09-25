@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T00:43:26.803356+00:00",
+  "updated": "2026-09-25T00:56:45.642777+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -768,22 +768,6 @@
         "summary": "المغاربة أمام صناديق الاقتراع.. تطلعات إلى نخب قادرة على رفع التحديات Hespress",
         "player": "",
         "content_hash": "5d579b243b281e91044f1818a5ed03814d2b13b2de5aff07b76a221e35a12656",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 5048,
-        "title": "من الانتخابات إلى الصحراء.. خريطة “الجزيرة” تستنفر المغاربة يوم الاقتراع - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPUHVIS3JZSlV6a2ZWVmFzUDFYWXI3eXlHaGEtQ2N1UGluN0wzSmtTRENfNV9KazF2Wlo1NVhVRzJVSmU1eVQtcTNYZXBpcVFzVVRSUTFRcUNfU3JITmRkQ3FZRVpLOXBlb1p0WmlaMHpRUGJFcFJ3Z0FNeC02N19pQUVvZUw2TFlpSjdkd2V5cVhJNmJaNzYxQWg5bnRtUGFFbU1mekw0YW9ldUJGUzZpck5UQTVsazlVVzlBcG55WDNiSTlEY3h1dm9nLW9zRU9sZmZ4YTJta0lkaWtxc1FZcDRURWdhVlBfaUZIanR1Z2pqaXRocTZDdG1qMjFSVXFpQk81M09sOVNwVXJVNG5jN25CUWJLTm10dE8zOXJJeUlmRDVDNlNrVDJ5czlOMkcxb2hKN2xoQnhqODJfcGtmYkQxQWRVZw?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 11:29:08 GMT",
-        "discovered": "2026-09-24T23:59:46.403621+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "من الانتخابات إلى الصحراء.. خريطة “الجزيرة” تستنفر المغاربة يوم الاقتراع Hespress",
-        "player": "",
-        "content_hash": "8aa0bb09d3083e04137bcacb3098b1b3fe1689ea9e9d28762de7a69fdd53bb21",
         "sent": 0,
         "section": "morocco"
       }
@@ -1780,6 +1764,22 @@
         "summary": "رحيل الروائي المصري «حمدي البطران».. مفارقة العدالة والأمن القدس العربي",
         "player": "",
         "content_hash": "048f30bdb4849db88307da0d5814ed4d07bd222336cbbc3cf4d65db43b3e138d",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 5054,
+        "title": "هل تشكل إيران العقدة الأكبر في مباحثات ترامب وشي؟ - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNb3hfSlgtSkhTT3J3RGhHWll5amVPUlpxbnczUnZEaUVLUFB2a2NOU2E5Q29Nd3E2aVIyVlhYQTkxMGJoQ1RIdjY0VVRCbE9lMmdtMHUzR0dyYWR6WmtZemI2djBXLXhNMlpkRE9SLVNYQXZCS3JXRklET0NveGVTNHAyZmlnN1ZaZjNXRlZLcG9Ta29KUGFibWdBQ29vcm5PTkFMS1FfRXI5V2RTZVRJc0JkVDhXYUtXUW10RGpTNF9pcENoQ1FDSjBUcnRKdzVVOFE0a1RNWHJYMVVBb2U2XzJYUGJqY05jR0pGN3RJcFAwUUNrSk4xVzJZa25mMHo5eWJ4MXl0Ym1zQVlyM2xvMWdtLV9jeHNZdU13THdGb3VRd29xbkw1S0RmbWtmTFBWbGhFVlZwUE5jLUF1eXVDY1NfOWVfZkVob1RYdHJUUTJnUWhMQzNwV0xXRV9oUE85VUUzSVRUNVRNaV9Db243QTcwMGFraG9BTV91MktsTVJxN0h5dW9teVp3?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 14:50:17 GMT",
+        "discovered": "2026-09-25T00:56:38.596589+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "هل تشكل إيران العقدة الأكبر في مباحثات ترامب وشي؟ سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "d7eb7ec35a3ccfc305381126fed77d9d1820599cafdecdacda50ac9aa25bd678",
         "sent": 0,
         "section": "transfers"
       },
