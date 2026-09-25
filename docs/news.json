@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T11:35:24.257205+00:00",
+  "updated": "2026-09-25T11:48:28.228486+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -660,22 +660,6 @@
         "section": "morocco"
       },
       {
-        "id": 4652,
-        "title": "عاجل.. وزير الداخلية يعلن نتائج تشريعيات مجلس النواب في حدود الواحدة صباحا - Akhbarona",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBudXFnWGIyTmdRRzdObXdxd3JVczNoeWhIS0wzZ1pkQ0FvODZyT3lJZ1ZwWk5aUVJHN0N3cC1XV2M1T2QwVnJFd0VqYWotU1IwT1ZlVkRfbWI?oc=5",
-        "source": "أخبارنا المغربية",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 23:52:00 GMT",
-        "discovered": "2026-09-24T01:31:50.805702+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "وزير الداخلية يعلن نتائج تشريعيات مجلس النواب في حدود الواحدة صباحا Akhbarona",
-        "player": "",
-        "content_hash": "80eee831c7aaed82495ad51a09b211c73e452f6fb544b2597395c23bc37d011b",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 4733,
         "title": "حزب الأصالة والمعاصرة يتصدر نتائج الانتخابات التشريعية في المغرب - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMiyAVBVV95cUxPRE1KMUl5S196SFpxajh3Q1loRFpwd2lRZktFMlZPWENsZEE4dkc1WFFXTkFWNUlhV0lOUWFpVkt6ZjhuOWVHTnpiTGhKRnhvelhoNWpNMDZrMHY4Wk9UaFY3b3g0S1lDRGtiWmJRWnJZMkU1ZnRfb291Vm9lMWwxamdOM0p5X01hNkVIaUhDWC1ReDUwZjNDWWxveTFuRFNzLTBDQkdpZjZnNjRCcE9IalYyUDM5SlVhUHZ5Z1FsUjNWa2x6NThlaHF3d2lMTE1kcU9zSTRBLVJqMlJUMHV6N0MzM0VpS0lEYlFIUFhwbWdaRDI5d25DYUZOUXZNYzUwVEtpdHU3OUltZFdaaWdrX3MzR05rQzBCWDdRUXN4YjZFSHhlcHk4bHZ5dk54X2RXT1FtZlY4aXlTVnJzdmNtaVBLZDBWN21GWVNTelY1SGJjdXBRWWdBQWpQNDIwbm1abDZBNFdwNmZ2VTQtNnJwRDBBb3lGMzlqQUFhZ2U4bEp1YUdFOGIxeEpLWVdhcjdrWE95MzZGMjF1QjdjUzVsVEpkUHptbURyc3o1NGN3Z0dzTnBBVmg1Q1dpaVF6SEx1MEVLZXhUQVk2R2stNndteHVPb0pZTmo3Z3kyeTlTcXdZa2YtRllzeGVOMHBoWnpMSHd1eTNFWlFQZXlsa0VSakZ4UVFWV0N2QmRtanhrV0g0a2VicFdBVTItTkVZclp0RTczeC1Ob01RX1ZZVXBOTHhHek1jejE2ZXUtd0ZwZmpWbzAxTHZjV21OaTZ6N0dSOGZMSU9NdXFBVGc3R3BpODJWdVlNRFFNdlBpOWxleXFsMUZUVUFDZG01Y3BsZmNVdWVIMDFuZ1F2b1MyckI1cmg5enlNY0N5WGlZYTB0WHVIemFyQjhtbjZ5ZE9jcW44Y3VfeUFOT1Y3WC1nUzRDVlhmenA5QmNT?oc=5",
@@ -773,6 +757,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 5153,
+        "title": "لم يلعب دقيقة.. كأس العالم 2026 يمنح بيكهام 44 مليون يورو - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxPTFNkekRmd1ZVRVNtTldtQjdLX1RaMFIxRks3ZWtBOUcyRjEyU0IyMkpNTUFMdDVUTXJEcGo1NXVQX3BiTWg0VVVUUjZMamRWY0tBaTBjR1hES1FSaFI4eF9QSXN1bFNyWkl3aHdUdmlmZUtIQUNMcVB0RnBONnhseVhFeUpTZ2NwanZMNG9uT25NdlB1bHliazVOVFpZT0RNSmpvaW9pMlRobUp3MDgycnNlMWY1UURHN2FHQ002MGFtSy1kMmhMMzRfeU5heWJmU1pUZmt3LUFRR1l6WlNIdEptWXo3Vy1iQk40UXllUmdDTU51SUJjLXhULUNTV1IyRjhYRjNzdmh1alJ1UUV6YzJ2TnhTdWpkYkZRR1JyODBiajFtQVYzZW1CSC1hY1RwN1Y3ajJtb0JJc3BnZUtaMGtyNHY1eGRCelFBZEhxcHFwbHhILUNmTlh0SUd3a0JCY1lXRnR3OV9tUFJRV1lBRjE1U25VeW5NeDJxYy12N0hITVRXak5lS0dpVnJfN2V0aXBQWjNIMGtPb0thbncyeEJ3Ym52RDRDaDZRSUJhM01CbDZiSmowWW15ZHIwWVdXaHdLRNIBygNBVV95cUxQd2s5X3dqaXNNQkR1MzRXWGpCdWdER3EwLWs2WjA0QllaWFlJbDNUTnBvXzR3XzNqY1BnbmpfWUVNZVM3dXRHeFNYdkE2bERrckViV2FZSXBUNTlReXN6X0c3Y2JQNWtfZkZvbGpFNUc4Ny1SWmd5ZU10Z3BfYWtPT0hSQXppRnlSMXFFT25XenZELTBlU2J2WnNZUnZXODN4YmYyLURnV0lweVVNdENvU2xaN3NBMXcyRjZYSmY4aTdmeUdJbjBqMHpxSUhsTElrZjM2S3FaTnZHS3pHNnc3SFctVmUzNllJMDdRVFVfeTlFMV9EZUgtSVNySXkwclByT1ZqczR2SDVic2lpQndmNXlmVWdtUFV1UjRuX2tqR3pDcDVnZEsyeEs1STJPdHVoZ2xvdHJSX0JJNDhBZ1psWkFrVUdVSGZVUGZyWnFqalA5czkxRkEtNW9FRGowUllvTkdGMm1mN1gwRlZ4MHJWaThtd1ZoaVFaSkRzTzNtcGwwX2FzVUxHNklESTBJbXFOZHJyZmlnZEdBendfbXhMbzcxVUNmTGw4Wjk0MTVjcnVUeFJTOVRpQXRuNFlmRXZ2ZW4taE4wVGhoQQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 11:38:00 GMT",
+        "discovered": "2026-09-25T11:48:13.958085+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لم يلعب دقيقة.. كأس العالم 2026 يمنح بيكهام 44 مليون يورو يلاكورة",
+        "player": "",
+        "content_hash": "5c02831e18943f71bf1a4c668930cdbb1389189d37da9b07700fa66bdd7887a9",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5154,
+        "title": "أخبار | عودة في 20 دقيقة.. كوراساو تصعق كوستاريكا بـ 4 أهداف في دوري أمم كونكاكاف - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxNMzZPNXoydlRLSW1TVVNCWVFybG9XRC12ZW9NdDlnUUFseUJweUVWMUpiX3I0UXNfb1RadkZZR21jZVJ6WXE2d1E2eDd4X2JOVTFSU1BnZ01NaFJyWXU1M1BsSnM1OWdVeWRjdGJlc1BDVl9FVzNZMWplQ3ZBTXViRmpicV9rLUhHSU13d2Yxb3RaRXFyOWw2THREZWRNT3MzM25pS0t1dmhpdEhwMjJGQWVPNlZScFJ6MDh6LUxiNFBiakxuM1k3ZU9TclI0blJXUjlVWUxRUmxCWTNaM2R2RXZVUjh0ZkZGcF9mVERYa3JGLVpBdXl0VWM2aDVUeWFLakd1bTY1SmtWUC1oeGFGQUZFd21NSVdtSkRIOElzeHJhSFlWSTl3M24tVnB1Y3l6b0M3bjF0LWFaR0dCUkNaQTBPcUVzbjIycHpnSFhqOEo2ekZFZXNPMFNkRU9yT09WaVV5UVhGU3BUVm12UGwtNTFIZ2I0OXBVSlRwMVpHTUNtX1N0UDV2NE1aRjlGRXVtYVVvclFESTNEazJpTUstRXpZM19YVmZrb191UzRVaHpvTVNJWHJrVnNleDRsMEFpVEdObnhEbEdqbFREdmZHUzhZTGFzTi1hNmhoaFNib24zV3VHVGxqeng5M2tJSURBUGkyaHFaTVBEVnhwcVBuMzUwVzFIS1ZpX2dWSEZHeWF2LXluanE4U3pLLUFVbnM?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 11:31:00 GMT",
+        "discovered": "2026-09-25T11:48:14.584796+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار | عودة في 20 دقيقة.. كوراساو تصعق كوستاريكا بـ 4 أهداف في دوري أمم كونكاكاف FilGoal",
+        "player": "",
+        "content_hash": "f69ef631bda313f8954afc6c068306ea96758321d5d6fadcfba9733ef0b14824",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5149,
         "title": "عودة في 20 دقيقة.. كوراساو تصعق كوستاريكا بـ 4 أهداف في دوري أمم كونكاكاف - FilGoal",
@@ -1538,38 +1554,6 @@
         "summary": "الإمارات تفتتح مشوارها بفوز عريض على اليمن سكاي نيوز عربية",
         "player": "",
         "content_hash": "52db9a988c15312d9451b20129dfd4487f79421d5bc8b77c547da3458a65e8cb",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5056,
-        "title": "في الظهور الأول لـ كلوب وتشافي.. هولندا تتعادل مع ألمانيا في الدقائق القاتلة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qcjJEcXBCaTIxd2NFTENuMzBTTkd5ZDh2YWNVTkVPNkRDLWp1YmJ1MnJIWlU2cFpQSU1sRVZQcGtxUU9xRkhGOTgtMnZmLXpF0gHXBEFVX3lxTE1oTjJMc0FEZW8xYWgxLUtxSHpJWmdubzNVd1hlUGdUY1RDQ2dOSmF2Yk1kS1RGdVdYb1p5N0JpQkxQZG5vWDItcm9jM05sZUdpeXBlbGNVVDBKZXdYZDl1SGR0bWhUWm01YThDajlkdkotMGlQSzJpbk4xaEo1YnBjQlhhZUNyc0RRSkJOeHJNUjBaTGJHMmtqUkJ0NEw5VUlkbUFLQ3hOYUtwVVpMek1PT0Q1YW9qUjVzWTRzbktjeHVBYTB3OFpZbHFrcFpBMzRycm1OdnBTc1JMeVdqNmdfQ05lWnR4Mm90NDZkR0xHVm9DTDNnanptY0xXZk83cHlaRzdKQk40RW0xNEJWODJ3Z3VIR0RsdW9xX0R3eEJ2N2VsTUpBdVhUMGxJd3dFc05kWV81MWJ3ZjIzU3M4LUg2LTFWYVpGZVZtVnlMUjdNMlZzWDR3cGJXLXFLS1ZETTVDN3liaWd3ZWROcEl3bURPOTNfUUFhOWM0TVRHczlMNnhJazllN0pPSll6dUUtMTlfdmFWY0dMRmRydHRuM3dibWMwaTA0ZXVad2x3bjBsYm02OW85TzE3YUlieVNmWlZWSXotZmJoVlZ4NzR1TFpjVUk5aDZmVXFqWHZSblZoMFZBX1ozSnpqdDl1M19pQTh4QXBzUTF4UXYyWEdqM3RMRnRYTWF0VXFkb25BOHFMZVRtbWRLQm1NWE1Qa1c5VlpNc3pfZm1EZEZ5RHFqcTQ5OHlXTG5QWUtEOFJBaFozMUJfMms5RjBsclFqaWNHVUdhVms1VkZv?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 20:57:00 GMT",
-        "discovered": "2026-09-25T01:09:47.167687+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "في الظهور الأول لـ كلوب وتشافي.. هولندا تتعادل مع ألمانيا في الدقائق القاتلة FilGoal",
-        "player": "",
-        "content_hash": "e201cbbb1e0f6a0254cc423cc237f49be723440a8bbabed090b43a78f370f82a",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5097,
-        "title": "مانشيني: على إيطاليا تجاوز خيبة تصفيات كأس العالم - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxOY3ZUaWRTdHFNQUdsZ09qQ2JGZHliZmFIQmlsYTdwNU55UnBHRHN6TG0zSnJ3RzU0dE9yTENSZWhScl84WGplTlpnQ3FrTEc1OFBvdUdIMFdKaE9PZG5IcFlJeGNuNnFhb0lUQTJGM2VFV3lROTloblZWbGZZekgtcGx6RU9SQ21LX193TmwwdjR4SVFCWENCenVsamYtaUZORlpGbjVfendubWx6MHFHdmUwX3RCOVZ4WmFfUUZ5SnRmazhMaHU2SG10bzhmNHJJMXp5aWJycHJqT0RPX3dPZDlaenhFMHRlQUhEZnNfOVVJZG1ZdGQ1V3hObDBKQzRwZG1hNHh1YW04N3dDU1NGYTNfUGNVYXBUWnU0MWZ2Q3IyVjV0N1FzdlkyblBSeVN0TWpFSWRKTGplajZpSDNvTF9XdllKeE9GT3ljQmszWjlWNEhLaTZ3b0ZDZllnNEluVS1HLUxpYy13SmRBMVpKcW9jMkRRM2VPWW5MenNaY2xwWEkya3VjTm10elZ3ejM4RnU5NHNhY1Jnb2xKLWtlTzJpb1JUdHhIbklyT011dGhhNGhiZ011akRsb0dDR0YtU3pTbl9RUXdwTU11M0gxVVRhRGNjRXlZSzdmcXNJS3RDZlFmLW9iUVZXM0F1TjFiX3l0MkFKaFY5WWJvdk1qT29BMmUxU1Q0UWZRZkVhS28yLS1Rcm96QXpoWFRyd1l6X3ZJWnh3?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 20:56:06 GMT",
-        "discovered": "2026-09-25T06:51:27.864229+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مانشيني: على إيطاليا تجاوز خيبة تصفيات كأس العالم الشرق الأوسط",
-        "player": "",
-        "content_hash": "d67966f463879fba19dd4e0a53549755edef11873440829f65e37eb5443dcddc",
         "sent": 0,
         "section": "sports"
       }
@@ -2408,6 +2392,22 @@
         "summary": "إيران تهدد بتوسيع النزاع \"حتى المحيط الهندي\" إذا تعرضت لهجمات أميركية اندبندنت عربية",
         "player": "",
         "content_hash": "2614887eabd54a69b56050d3809eb5e34a6b4be24988ab9e6f465a9eb4e2aece",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 4945,
+        "title": "معرض «صُنع بسحرك» تجسيد للظاهر والمستتر من قضايانا - alquds.co.uk",
+        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNcE1IOEUyVjV3aXU1UUoxeldsTHV1MHltRi1oVVVjS0dwV1BsTGwwajBrLU1ZUVRyWHhHNmVCdURjTldWVC0xQ3FIbVBfV3lSaG1wNjlQeGxDdUZnVlVZXzhuSWxHWUt3V1IxWmVYRV8tdF9aVnNQbkY2MkY2ZW9xcy13SHpBMWxDa2VzRW8xSXFWUDJOQWpqRkljVmo5SEMzS3IxR29Sa3FnS2ZIZGdwaFJuQWRVUkhPcUR0aEI2YXRzMmgzeUx6WGxJa1hUcVI5Z1VzTDZOcW9kSEppNk5kUWFjUFNIczlyMVhKYmlWaER6ZTUxcmZSLUN3ejdNelpOTnJORWZMRGpFZ0pKT2Y1Z2JPN2lnZzQyM3d6SXhoemJ2bUJZNzNRWGN5dDlHa3U5c3JScjNn?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Wed, 23 Sep 2026 17:09:32 GMT",
+        "discovered": "2026-09-24T19:51:37.982156+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "معرض «صُنع بسحرك» تجسيد للظاهر والمستتر من قضايانا alquds.co.uk",
+        "player": "",
+        "content_hash": "20b91f402ee50fc2360e3d6470986db635258bfd38d06142935cc545e9c7f981",
         "sent": 0,
         "section": "world_arabic"
       }
