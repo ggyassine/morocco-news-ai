@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T00:00:27.651822+00:00",
+  "updated": "2026-09-25T00:25:52.443345+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -692,22 +692,6 @@
         "section": "morocco"
       },
       {
-        "id": 4551,
-        "title": "الانتخابات التشريعية 2026.. نسبة المشاركة بلغت 21% إلى حدود الساعة الثالثة زوال - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zamtQaEs2QjNXMUdtd1pmLVpXWk1tRUQyYXNIMkNOX3ViQmhLZ2NNM2hWZ1JJWXVOLTRkcHdvNmhTSHk2Z0sxenhZcVdpUXFVNnlrMzBOT3ZoMERDVFNpWjNaN0lXNG82?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 16:25:14 GMT",
-        "discovered": "2026-09-23T18:25:12.228223+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الانتخابات التشريعية 2026.. نسبة المشاركة بلغت 21% إلى حدود الساعة الثالثة زوال Le 360 Arabe",
-        "player": "",
-        "content_hash": "8f97ab1b9b6364522b0b8913f6d89abcdd414b16e763f5b4479b3c19a422c640",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 5031,
         "title": "المغرب وإسبانيا يفلحان في صد دعوات العبور الجماعي نحو سبتة ومليلية - Hespress",
         "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNa0lqVFJsMldjUTFpNlBQZWstX01tZG8tczVyVXZjMkpKLWFDc1JVZ2VIVFF3MldHcXI5ZG52ZTFWVEQ0bjNxTTZ3Mm54MHhmQlp0M2lrQWVLX0hIbmwxX3A3UkJ4aENWWkthSkpFUmZrUjNrb2hZUWtuSFcway1MLWZidFBRWElHYVB1Q1RtWWJXdF9QY083b0tNYmUzcF9hak5YQVFNdWxiUk9FZlBkWEt3aURPUWZkNUVhejNZNHprLUd4a2RkSjIzYnQzbTNWUmxxcXJ4TXRBN29keUxadk9wbXFWakNNVjVVd0FNMGJBSjNjTTV2YmdZUXplU0M4VDQ1Y0VKTFBzR2U1ZW1lZVhGc3VCc21Ja1BTZHBVbDVSQ3BCaHUyU3BmRjZjZlY1M25NRThvLVdETGhhU0xzbzNCN0hNUXZGRU96djBlQ1VPRS1HSDZ3?oc=5",
@@ -784,6 +768,22 @@
         "summary": "المغاربة أمام صناديق الاقتراع.. تطلعات إلى نخب قادرة على رفع التحديات Hespress",
         "player": "",
         "content_hash": "5d579b243b281e91044f1818a5ed03814d2b13b2de5aff07b76a221e35a12656",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5048,
+        "title": "من الانتخابات إلى الصحراء.. خريطة “الجزيرة” تستنفر المغاربة يوم الاقتراع - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPUHVIS3JZSlV6a2ZWVmFzUDFYWXI3eXlHaGEtQ2N1UGluN0wzSmtTRENfNV9KazF2Wlo1NVhVRzJVSmU1eVQtcTNYZXBpcVFzVVRSUTFRcUNfU3JITmRkQ3FZRVpLOXBlb1p0WmlaMHpRUGJFcFJ3Z0FNeC02N19pQUVvZUw2TFlpSjdkd2V5cVhJNmJaNzYxQWg5bnRtUGFFbU1mekw0YW9ldUJGUzZpck5UQTVsazlVVzlBcG55WDNiSTlEY3h1dm9nLW9zRU9sZmZ4YTJta0lkaWtxc1FZcDRURWdhVlBfaUZIanR1Z2pqaXRocTZDdG1qMjFSVXFpQk81M09sOVNwVXJVNG5jN25CUWJLTm10dE8zOXJJeUlmRDVDNlNrVDJ5czlOMkcxb2hKN2xoQnhqODJfcGtmYkQxQWRVZw?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 11:29:08 GMT",
+        "discovered": "2026-09-24T23:59:46.403621+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "من الانتخابات إلى الصحراء.. خريطة “الجزيرة” تستنفر المغاربة يوم الاقتراع Hespress",
+        "player": "",
+        "content_hash": "8aa0bb09d3083e04137bcacb3098b1b3fe1689ea9e9d28762de7a69fdd53bb21",
         "sent": 0,
         "section": "morocco"
       }
@@ -1366,6 +1366,22 @@
         "section": "sports"
       },
       {
+        "id": 5051,
+        "title": "كرة يد – السبكي: هذا هدف الزمالك المنطقي في كأس العالم للأندية - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBITDBpNllzZXZpQU44ZURqcS0zWXpual9PR3o5ZGktZzU5STNjOVp4OUM1bFNwNVFIRzliZUYwRUl1NVkzYnFXYW44bGVWb0xu0gHsA0FVX3lxTE9LNVE2b2MtRS1faVo2eEFjU19ZRmRoLWZqNGcyenhnTU40bHBtb3lqLWhWaEZ1ZzdqcVg2dmtKNnRpOVVlVTZSTmZtdi1PbEd3Q0FReHNRZnN0ay1TTzZkVkFKMEVDaDZFSnZyWWw4N1ZsbDJXTFhwdjk1ZVVxdkRSV0tuNmt4WXdfZFFwTWYzN0RLaHpuYUlYN1lERmlfMFROSERxZF9YUno1aXZlb2NBc0dXWllBdkptUkw2andoU2JvOS1lQ09Oc01xSnRZLXF6bkx1d0M1S2lKd3lOU0JWLUN5Ni0wdGQ5MGM1b2dMRUJTNTJGWWowY3VqVF9panJTNVY3WG1nMk9YSVk4M1piOFc5VHRoZDA1VkVFRExlcmtCTHVabmJRNDBhS3F1ckFHNnZqQ2J6Nl94aXJ2b3RZRUFXVVliNVFBZ2p3Ym1ZZ3dsUmVZc29oR1h1ZC03eEVKOWdPa3RUTUhjRnpmS2lnRTBpOWR2QzEyUko3ZmlMNjluUHRtUVVvbmxHZ3JvZF92NjNHeHhFU3ZZNTlDbVVkSnJIaWJZekl5ODVYTUZNc2M3eVVWbS1TMDVUcTNYSTF1dFZhQnM0VDNycTB0T2RQdElaalBGWGRYVmNNMldwWWJRVjR6RWtEUUpaeg?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 19:59:00 GMT",
+        "discovered": "2026-09-25T00:25:34.256126+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كرة يد – السبكي: هذا هدف الزمالك المنطقي في كأس العالم للأندية FilGoal",
+        "player": "",
+        "content_hash": "615121ba247d3ea2bf200ea021427cd8e2ce8057e340503515b57b0a86da2670",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4955,
         "title": "تغطية حية ومباشرة لمباراة البرتغال وويلز - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQREdHRVUydzl3TXZBYTlmWTl6SnRDeHBoX2ttaU1VeG1iU1VXdnNibGtuaXA1QzNoNXBVckVJdzNJd0MtWDJLTUpYeDJZdUdESjNkWEhRQmxqMnl6NXFXVkRzZmx3WmMzNVV2T0tIR013bHM5UjcyUG1qNFBGbWctNVhCSkJCRmFoWHM2VGpmN2F1N1psUDJQdThZdmo0blVoVFpPNC1Wbjg2dlc5VnNZOXBJN09uUWZveDB2dTkyU0xBbWxJc0czY1FxS25EeGlzUUVWendEYWpVX0hJaWJyU0ZRbWFiOTJELUp6VUxUM2hfc2JaSmo1Y010WDdLcHRtcEN1QjNlYUlUdVRvRmlfVFJiRFJzU2cwUVB2SVB5OTBLeElCT1JpV18yOHRlWHg2Nms2elR4MURFZXluTTBhN2x6VUphRlFyQkNUR29vRi1VcThuVHcwYnVpMHEyb0tOWUlEQTN4LVMzNjlPQVoyaGpIZ0g4Yk1mYjhZcjZGdmJaWWdtM0tNV0syYmdFRGdSdW1Jb3IzMmo1Sm9nbHdsdkU1Mjd3MVdYNmtqajNSOWlQbVBZb3U5RkVrLUFONkJWVFJxLUQwTUZIanpUNzJnVWYxN2NoaE5FdnpycUdXcHN1akt0SXhwWHVfZzdGREE?oc=5",
@@ -1570,22 +1586,6 @@
         "summary": "كرة يد – الزمالك يفوز على لوس أنجلوس ويتأهل لدور المجموعات لـ كأس العالم للأندية FilGoal",
         "player": "",
         "content_hash": "20dff2e39f441b6d373d2e180112ccbb8d9fd20838a47d64635f7e08ac42ca25",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4922,
-        "title": "بين الشناوي والدوري والغرور.. 5 تصريحات نارية لحسام حسن قبل مباراة أنجولا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxQOEZuWkU0TWo1ZWZKUXN4eTlEYS1TU25tMnhydnpOQm5sNVpLR1ZEMVo3ZXg5Qm0tS3V6Z2s0ejI2YnVLTm1ObHNIQUJxSkloLWdFemI0ckRocHJFS1MwLVdXbThoazQ0WFNmbGZ0ZHpxNkZqS1NPR2hFbmI3c0NleVZDRkZqcm5xeFJBS2Z0LTB6MVVQcDA0SUxITkdBd3p5cHdPQl9wajM2cEhSUUJ6WkJ1ZnNEQzJnUFQtb3BWZU85eW9EaHJza2NEWUFBTW5BelhiT2Fqa2JPMGxZY19mOUtCLWtSaVNGcWtQMEY4N1BtLURTT0JNV0VHdEJWVUlJR2lXcFRfRFRkWmZTQUJ5RHlyZzNXdWZSUDg0RVBVdUdqcUI0eUxocS1saW5mTUlhTC1SQUJoc2dibWxUUTM0bTRfaGFDQXhHbnZPUng5Sk1PZ2dVdVpwdWtldVF0UkcyRjJITzdHRXRmeHl0eEFpNkxud0Q2UmNpejlmblNRS3Z5RWFVNnRWc0xLSm9xU0Zoa2RUVElXZnp6U3VkbXA2NWVzQkVGeGtucXhCZlp2SlBkMXNpNV9uZGdKSmsyclFwRnhhb1FVMHEzdEJEWnhzVklpTWg3d24xejNMYk9BOXZTQVhlRS1iTGxzNU1KQ2pBZURIcDlJMTZMT3lKMEJUSE5hRDdyUmtodUlDdl9saVhlN3ltS1Y4bUdkV2FuOTFFOF9lc0FoNk5WbkplamhEZlVlNER1b2ZXdkxmcWhYYndsWGdITWlmYVFlbEZOLVdoaFHSAdcEQVVfeXFMUG94NkFGOURMdjFOT1ZBMjB2MEl3dFc4TUdfY2Z3WWVMRTd5SUF1c2c1ZnJ1OGI4WkNHd1p1Ymh6Y1dHa281SENoOGwwakliazBtR3M5dlhrc1ZadjRiUkpkT2twZUdhZFdfbGRYaXI2UmNDQWFudGppN3BPZkl1cllLQV9UUXVGbEdvSkNIN3czYVZNYVg0Nm54YWF6d3VVSTdCS3Rnc3JRWm90eHpBbkRpMnhHYjBtV3B1bkNfaHQ5UGMweU4zZTgzNHcyc2hHb19lRVJ5VzlaX3Y4XzlzbUthZVluMkFWbk4zUXVkVmFma1ViTjZ3R1dPQXdSWU1Uc1F0d0RiYjVIcXBmYzR0SXgwVzBjQlBQaEhFTEdiU0VXUXBXWlJiYXFGaEROa3BjRlU2blZhWHJHd0VrMEs2RHBXMXBLQ0F3d0U0SWVQd2ZHakR4VEZVNDBUMUs1YWFKUllJRzFDRE1wRzE1MHkzVVQtOEpYZGl6dHlrTWxHNlloSHNOMjBXeHhtSGtQVzUyczlQMHE4Vzh0NTE1US1UVkY5QmY2amZmNmFGNWxabXJNbFVJUnZVN3poNEx1UnZsZTZuaGRLbnJYRUxuRGlwZXktbWVmbXBhVTJMUzEwaGp6aVhPdVk4Q0lqX19rU3hWZ2M1X1NwVTZQdjFtZ0lzNG5kRUhTUm1NZ0RjN0dqc3FVem9tZ3Z5RGlxbDUzYmYxbkpXQlctdml5U216RDFRQXhaTHNPUmd4d3FHU0hvd3QwbGpYb1NINkstS3h4cjNUQkI1Y0Z6Mlk?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 18:47:00 GMT",
-        "discovered": "2026-09-24T18:59:35.286425+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بين الشناوي والدوري والغرور.. 5 تصريحات نارية لحسام حسن قبل مباراة أنجولا يلاكورة",
-        "player": "",
-        "content_hash": "d55fa346e428df67a918285f1bbbedae0bf093962178575afe8a05b092e895f2",
         "sent": 0,
         "section": "sports"
       }
