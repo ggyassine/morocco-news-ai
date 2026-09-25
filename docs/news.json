@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T13:39:37.341343+00:00",
+  "updated": "2026-09-25T13:52:55.099534+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -725,6 +725,54 @@
       }
     ],
     "sports": [
+      {
+        "id": 5181,
+        "title": "أخبار و معلومات اللاعب Mustafa Eisa حارس مرمى winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaE02Yy1iUUlNd2VWdXRpQ3ZsRFp3ZjJ4WHVHMW4yMjdJekF6LUZnRncxM1dhdXoxdmREWXhxMUprNHdVZlp5SUlyM2hGdldVM05CZFFVdk8yTmxTQXhydmlwWVN2cDItem1YeHZtSlNFb2QycWdQY2IxbzlCTzdJTjFnQzBhWDVjdm1JUGNQTDZuaC1JcmpuQmdHMUdiQXVCbHdqVGo0V0JwYU1kWDg4eTQ5MmVNcC1weWV3dWtyaw?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 13:49:56 GMT",
+        "discovered": "2026-09-25T13:52:37.576575+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب Mustafa Eisa حارس مرمى winwin winwin.com",
+        "player": "",
+        "content_hash": "0b5796be9c5d120236e81c491d2040b9f9fd2362f85f5807599224129cf9cf16",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5180,
+        "title": "بيكهام يحصد ثروة ضخمة من كأس العالم 2026 - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxQOWVSQmY0ZUx4ZHQ3ZmRmcGp2NGdYUHNWbjdGZEtzdDNHWG5SeS1FU3BUMU8wa1RqNW1OeXhTUTNGaWZzNHYxNGZ1NE9QUGRxMFptN3dEeTJNX3hpbGNwbmN6Qkd5VnJXRzJkY1FjdHV5dkJGUEJXMVV6ZUhBdkt2UWpFcU1CbWZUeVNRSERBZ3lJWWxkcWx5a0RJdU1WLThTVkhhelIzLXJmYUVKSGdmTmV4SXhFcTIwMXNLa042TnlzQ25xbHAwajJCby03UTg5MERETHptOWdXZG82c2FiUzR5YldsdUZVRlFNSC1uOC0yN0N6RUVnS0xZNF9qT3RoYUVYQTdydlo2c0RSZ0tScW1yNGxlS2s2d3JyLWZ1eGs4elAwTWRkcjBieElXRkhxaXRQRFdsc0RHYUVJamV5UUpyU2U2Tm1Za1VCencwaHk4OGYyYXRLUE9WeFFjTzI0cHpZYzdUWS1rTVVWVWM4OE94bDdOVmNJZWFoLVVSejJ3OTNfVHlRUVFFcGRjV3VmV1YyMFpwS0I2S05pR0VhVWdZS19fZXVpdWFFbGw5SVI?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 13:47:30 GMT",
+        "discovered": "2026-09-25T13:52:32.971148+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بيكهام يحصد ثروة ضخمة من كأس العالم 2026 Kooora",
+        "player": "",
+        "content_hash": "700cf7a4d632798bcf7a13d86258f55fe47dee48e693669e952ab4845879d317",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5182,
+        "title": "بطولة العالم للأندية لكرة اليد.. الزمالك 31-13 منتدى درب سلطان.. اكتساح للأبيض - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxQZWJ4UkNKMUFMX1BUSFlmVjB0V2JOd3MwZ1FPLUxVMmFnaWoxZmN1LVk2dkd3djJ0a2w2bFNDb2ZJMDVTbWQ3X1dhRVNELUhBQ0wxS25UOXJNRi1DTTZkQjdzOGVmWkxzby1NdG5WZ3RPb3JudkFya3MzeGdpX3ZQOC1zdkVDYWJnUTFkQWUzeE53dEZhNG12Qm5GRkp4N1pyNlExTUUtWk51RmdvUnduRTdQZlh2Q09PWFdURHBJS1FwMlFXUkRmMGxwSlJ0eU14czg1XzZwRTJoMU54cC1qNTVoV09Xck5aREpoU3VlSWVKakpuMUlIQ0RVU3VmeVlwam5teHduX296RUpGREY2ZVlENHpJSHYzUHVDclNyTFRBN1R0NFloS2dDREVKbGg4Y3dSYng5NmZuR2otaHFhVXdlMEJYT3dGV2JwMU5oVGxpWW50N3Z5bnRmRXc1S0tMRDZhZ0R4MFB5N2JqMmNHUzlRT3QtazNOVnVVREhRQ04zMjNBM3NTZ1EwOHRKM0pMbS01SEJ6Rk80bHlvcFNEQTdSNzNzWC1QRmxlbC05M3RUNHhwZi1CZFdZMW91ZFBDX1BTWWVxNTZYbnMwLXpNTU55SHpBVmtVSV8ya0VrZXJ6UWlQZnVDZVk4VTZBVTF6MTRCa1RsdXV2TC1xbi11cHlHWmx5aklySVRYVzBzRzJiSkVUMXVHNzNnUHdtb2prX3VnQ2FndHhEcFlrWWVCbGV5OXZJWWpJdzM1Y1N0N3puN0FEc1JmYU1n0gHcBEFVX3lxTE5aSDk5NFE3RGRNb1dSd3pJckxkTTNlbmFRdnMyeUUwbWE1TVNrcG1rSkx0VkhadEtrb2luUVBGWWtrd3JnWDFpUkt6RnIzQjA3UTdGUDRrV2lfam9TLWJ4amh0S3RFOVIwcTFjN1liMlp6WXM0VHpLSmxROFBsdHprVVVnUDRjZlhjdHIyNUU4cTFrTGtrMG1sMF9Bc2t4UGR4dzJqdmcyV2FlSjcyUURMUml6alVkU1VjMVJJM2puSE8zdlktQjVVV1VOamZNZGRaQTVtcGtaTzUwMjMxcnZuOEI4R1lpNk9WZE02S0dQQjY0VXRKbURTN3ZHU3BCYnJRUExmVXZUcHVZRU9xRTZRYm9rQVp5MVRsMEZZZ0F1WUtwRjR1aXRmWV9PN1lCQTJFenZsbGhIUHN6M1RyTm5tUTkyNmxLZU01TTM5LVJONWhDVldqb3Y0U2ZoRjhMaGlmcVZIcV9GbnZ6NHRqRHE4RDVHcE9PTDFSbVl0aFZfUUFfS2RUSEVHVkI0dUM1VUp3SW1fYlZaRFZLMms3NE9XZ1hUbENzSTIyZ3paWm1NRXNuOFBuZUNkSTFTX01BeUIxTnhYNndjNWNEaE5peS1iYVUyM2F6c3JObzVGNHpjeDUzZW5nN2lmM3lxeGN2YTFBX01tZENiSE1mbkNKSWo4Rk1tWFE0ZV9XSUxqQVVqSHl4UldFd2drbDdGbEZXNXJwR3ZINzdJWjlmWklpNERDUXlHMUhycnZOazdnZ2N3UjkxXy1aNkFVWDJqdjFsQkJVdFV5S19yOFdLNU8?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 13:34:03 GMT",
+        "discovered": "2026-09-25T13:52:38.453039+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بطولة العالم للأندية لكرة اليد.. الزمالك 31-13 منتدى درب سلطان.. اكتساح للأبيض يلاكورة",
+        "player": "",
+        "content_hash": "fa29fe4c90cf717c692e80de1fa0d03c775d62d6ee6328e1bc3b75e3f569c688",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5166,
         "title": "بالفيديو: انظروا لفرنسا.. وليد الفراج: ما المشكلة في تجنيس اللاعبين؟ - Kooora",
@@ -1474,54 +1522,6 @@
         "summary": "إصابة محمد رأفت لاعب منتخب الشباب بارتجاج في المخ FilGoal",
         "player": "",
         "content_hash": "82b4f34574352ad70c8483f8d6aa80a289b12302b7932286ee9b7bad463b36cb",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5004,
-        "title": "أخبار | إصابة محمد رأفت لاعب منتخب الشباب بارتجاج في المخ - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNREFiUFdOWGpNS1plWWRsYm5PT21BTGNNVHZ0VmlzUXNhbTBzMFdtdmVoWm1mTTJwMC1PTGIxcHlzRG93OThrMUtMYjZfakI2N0F0aHctZS1uVVUxUDl5MndVYlpfakE0dkpXVzFHTmpKVmZuVG5uWGllc01HUjh0cmJkMWQ5bTN2TXAyYjV0WFd5YUsxVEFyN0Q3aGMyQjJiNGwzdmUwckZHNkxONUd5ZnhWMk1UdUEwN2RJMTdkT085OGh6RFBGSlNhNXM5dDh3VGZVOTN0Y1A2SVNjcklyTVZoVERjdG9uOWdwNHdEdEJ4c2dxYWNkdUZLOUgzeURtQkFhdTQ4YkkxSXNkT2Q3MGlNU2J6aVVqU3FHTmRFaS1uS19zdmxwcEc4TENzdFR5TzVIcVVKcS05RVpReFVteXBIVkh1VlVVVEtGdjBUdUFHdy1GTXRsVFZUR1FHSFk0VTg4TlhFeGROUUwxUTlOQnBnWVJkQjBWZ0luajgtQ091Z3p3NGZrTHpHZkVmY0VKaTdhWFdDakJsWjNXN2p0MkJfSUg?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 21:20:00 GMT",
-        "discovered": "2026-09-24T21:57:40.677327+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار | إصابة محمد رأفت لاعب منتخب الشباب بارتجاج في المخ FilGoal",
-        "player": "",
-        "content_hash": "9333281060246b322233e8178afe3d1ea5848f8e2a0124c0b13a83455f5796e1",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4986,
-        "title": "إصابة محمد رأفت لاعب منتخب الشباب بارتجاج في المخ - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNREFiUFdOWGpNS1plWWRsYm5PT21BTGNNVHZ0VmlzUXNhbTBzMFdtdmVoWm1mTTJwMC1PTGIxcHlzRG93OThrMUtMYjZfakI2N0F0aHctZS1uVVUxUDl5MndVYlpfakE0dkpXVzFHTmpKVmZuVG5uWGllc01HUjh0cmJkMWQ5bTN2TXAyYjV0WFd5YUsxVEFyN0Q3aGMyQjJiNGwzdmUwckZHNkxONUd5ZnhWMk1UdUEwN2RJMTdkT085OGh6RFBGSlNhNXM5dDh3VGZVOTN0Y1A2SVNjcklyTVZoVERjdG9uOWdwNHdEdEJ4c2dxYWNkdUZLOUgzeURtQkFhdTQ4YkkxSXNkT2Q3MGlNU2J6aVVqU3FHTmRFaS1uS19zdmxwcEc4TENzdFR5TzVIcVVKcS05RVpReFVteXBIVkh1VlVVVEtGdjBUdUFHdy1GTXRsVFZUR1FHSFk0VTg4TlhFeGROUUwxUTlOQnBnWVJkQjBWZ0luajgtQ091Z3p3NGZrTHpHZkVmY0VKaTdhWFdDakJsWjNXN2p0MkJfSUjSAaoDQVVfeXFMTlZ2cVhQWHpaTEdORVQ1WkFjcVNEMHFaOW1ILXZYaDI5ZmtJRkRZam9hTzc4bldHQ2x6VUNUVDMzcXg2dWxnMTV3TGFrenFVSDN5MmVrUWphZ2JmbE5BVi0yOWtyeVNlYmNZV25QSjFUbVZ6TktNbHoxVnMtS01LYTlUYnlfRmFjVVQtcVdrdTA5Mi1zTzJkOFc4eW9PeGJxZUFBZU5LZmxJVGtCZzBmMFk0Q19tZlBSeEo5WEV5YnhzSHJTRUtoOEJYTk9NTWc4ZW5sMjFLWVl3UE5ZanZ1dGFxeXhYdXJKakZLei1qelBrSlRDNGt3TUFuTXo2YUQzNzJPTmN0VTVCeGRDb3h1dWV3XzVGRWRPay03c04zMEFVOGptXzc5MGs5RWVrQktOaGNwVjN3YzZwRnljZkZ4YzJ2eklIWGtRSVloUjlMd2tCRHBuQUZEalpQV2RNRlAzQXUwclNmYnFoT2pwTzZrdGUyTFlvdzdQTnk3UW5VMXlxNDlaRU05TGhXaWh2Um1RWVB0WTN1RUNrNVI4cklQY05LdE5HeUV4WVRR?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 21:20:00 GMT",
-        "discovered": "2026-09-24T21:27:07.856044+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "إصابة محمد رأفت لاعب منتخب الشباب بارتجاج في المخ FilGoal",
-        "player": "",
-        "content_hash": "82b4f34574352ad70c8483f8d6aa80a289b12302b7932286ee9b7bad463b36cb",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4981,
-        "title": "الأسوأ في المباراة.. رونالدو يبدأ حلم دوري الأمم الأوروبية بوجه شاحب - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMiqAVBVV95cUxPTW01cm1nUWo5cVZZWGFmMWozRXlfcGwyZUdRa2xQMkEtek1WdXd0QW5wYmh1LV9jZHpjR0JHR3BVSF9ETGoybmtvQmZYajNVT29Gbmw5N1RTNWNiTjZLdzZFSzhmT0ZYNk83YTRoejZBdWdjYkdlVjZNRXhVdjBKMVZNVThnM2RpTC1neHBZbFVwU1JLazg1MnVDVFppVkw4T201WWRQVmUyU1p4TVVYd1FiRmp0d0MyU1NzNGtmRHZpbERhVDU2dVZhcDhOdzdtN1pONlpGVldudVNKSldmWDdyYU1hZl93TGF0UUhfNjFtX3VGalBuVUVQS1o4SXJCcVlBN3hCNVdTdFd6bnB6QURLTlN3V0RLV2ZWX1p2V3JOejRITkZ1VXc1S0pjdHlqdU5oTGR6ZHlMbmRDWS1zZTNXQjIyVkdMTi1VWkh2Q21vVGNjV080Zl8ycmRiREZ0Rlg4NjFrQll5TXZmSGM1VDlrUkFPTUpUcTdBN09Md3BlWUpvUDdwUnMtaGJ4Z3d1SG52OUlISEZOekR3V3p4SWZHbjRjWUVmWHZYNFE3clh2d1Znd0I1Mmd1b2RmMmw5TFNSUmJMXy1DTEg1QjI3dGZuQXQ3RFh2UXZQaTR2U1QybTV2anNkUml0Nmo4ODVVbDROMDBKeWhTeE9OanFqZE5UaHRmang4UTVNOG9iN1czNV8zZXE5Z3NpZHRmSnhjRTB5SUdFQUNCZGhibGVGd284d2RvRVZ2V21hT3pveUFuZ2FQbTE2MEk3VVNZelp2c2JzakU3aXVWRVAtVkFULS0yWHdPNkc2Tm5saFN3TkctVnJEX01ncGFiNG5jX1lBOXV1dHRKR1E2MlNwSzZzbG83dDRvQXUweEdWV29iSnhoaGkybUpMRA?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 21:14:58 GMT",
-        "discovered": "2026-09-24T21:27:01.250481+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الأسوأ في المباراة.. رونالدو يبدأ حلم دوري الأمم الأوروبية بوجه شاحب Kooora",
-        "player": "",
-        "content_hash": "506f17b01e656f1b4b03fb72bfcb69458d4fdc15486dc613872bf6ed76d00c0d",
         "sent": 0,
         "section": "sports"
       }
