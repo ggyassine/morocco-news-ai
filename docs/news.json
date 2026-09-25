@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T10:26:53.947233+00:00",
+  "updated": "2026-09-25T10:41:24.902406+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -757,6 +757,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 5139,
+        "title": "تركيا تشن حملة أمنية تستهدف شبكات النصب - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQbm5QZUdNeVRwWVRONmZGYTRxcnJRWEVFZGhKUm1FbFpUd1d2eWVNZndWVlFPT2gzMGo1R2xvRkhlR2ZYbHRFM2NlMlhYdFRPZjVmNXFzcnVmeHdHSEpqT3ZPQTdfT0V6YkEyZGEyWjB0bzJ6a0NFOHd1TmpXbzZIQ3FRbk1FUHRJa0NzTy1lMEtLYUY5ZXduS0dTLVlKZ2d4U282b0JLU3B1WGx2WEFBTmhBcTFLWDhMcXl0TEs5Z0x6bk9wSldIM1VpRkhHeVM1Vkp3WnRsRzFsZGlSLXQyc0xZamNieFhwVUtySjdJblBjV19OcHZnaWFmUzRKSDRvM0owcFpyc2N5ZlZoUDdMMXZXeUl0TjMyMUxwNWc4MzNYcW1xcGtWV1EtX2xhN2pnV0NBMi1ydmYyUGxQcU5EU2RhTFhxVlhVSGFvNHNFMlZRQmVhLUx0aHRNX0liX3ZyekNNSDd2RdIB7AJBVV95cUxNVW1kLS1VRkRWVHRNVmNDMDhFVU9JNEMxUXBhdm1RWGMxRFZZbk9ObXRweXJKbVk5ckcyNmFlS2NUdGRXUXMta0hTN1BVUDNyYmVONjI4X1EtVlp4SG81Zm9xNlJQUVM1RUlJSjVyOXJsVFV6Uk5vRjVia0pvR2J4QXVseC16MFhfR3NvUURLSWhWbjB6VU5jVXB2NXJ6TzgyVThwcmItMmhfc04xZE5XOVpLUmFiQi1XbFowT3lTSl84SVM3MjUzenRVaEhub0FvYl9pRzlXXy1qTEdMS29YUGJBdHdMTVpnRTNrQXc4ckh2dTVRZFhTazBxbFNkQ24xODFvVU5jeDJ3TS1uUDhWTm1LZ29HaTk1akk0QW94dmxsOFoxanJjaGxIaWEyZ25HZmUyZWIyeG1maFhLVUNXMXpINTRGNTZFbWxuTE5sTVFLRGNiemhNT284Q1ZQTXJzV3VjekdDZkFNSm1J?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Fri, 25 Sep 2026 10:16:53 GMT",
+        "discovered": "2026-09-25T10:41:18.078031+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تركيا تشن حملة أمنية تستهدف شبكات النصب سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "7777c945d5560cec74e1463102c1f23da852a219008722254d8b6b439ea8d59a",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5133,
         "title": "الاتحاد الإنجليزي يتهم تشيلسي بانتهاك قواعد الدوري الإنجليزي في مباراة فولام - FilGoal",
@@ -1538,22 +1554,6 @@
         "summary": "«خليجي 27»: قطر تعبر البحرين «حاملة اللقب» بـ10 لاعبين الشرق الأوسط",
         "player": "",
         "content_hash": "bea9aa94ba04f3ed9395dc689d41a8bd391f65a77a74830328c8c5ed1da4df6b",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4960,
-        "title": "حسام حسن: الشناوي كان منتهيًا.. وعاد من خلال المنتخب - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQTm82NkhxTEJESnIxcHRDaTRKQkprdlJXclp6R3BEUGxRQ1FTeDFmYUd3WkFxdjYwOVRrTE5jdDFXU1J5ZFZkYmdsN00wSF8yMmZkQWh3NnVnaDJYMkl5bjVZRmdBME9rRWUxMG9WOFpkOTBleWNBbWI4RXBfNzZ0RXRmYWJ4UWd1TWZBQWw3UmNsQm9ZN2ZWYmN1aV9fY0xKWXpmWk5XS1R4UDFnbXU5V0liVThKdVpYSU85VXh0X09PSDVIM2hKclhSMFFJb1U4bU9JMmNVdnFQOUVLUm5QWlBFRnE2d3hqRkRkcm5FckJjWTBib0ZxNEZIZTFXbVplZ3VKb2ZQUW9Pd18wYVZLZV9aZUYxOVpadGxCbG1XdDRPNFRmVUhsNzl3d21sczRQdVZXMGotWGdTeGcwWWd2MmZ3VWVJTHJQQkRIdGVWOW1hUmRDN25RTEFLOUp3RXQzNVhaX0JmdGpvdk5PN1VDX2trSU5zdXlTdEpOWUF6dDhuQnItQ1NDUDBwalhxQm1rdnI4VVFYWm5kVWwxMWt6Wnp2OUtyaU94d3ZtdTczZkNxOVhsZXFXdFQ1MEwydGdVWXpMaXMxRlhKRGNtWl96U0ZnNzlMbUpIRjI5Y3Q0dmM0NHJCelkyYXBWSkJYV3F1ZXhCZGFCTDF2Y0FaNGpFQ01IZ2Itdw?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 20:28:48 GMT",
-        "discovered": "2026-09-24T20:34:11.415827+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "حسام حسن: الشناوي كان منتهيًا.. وعاد من خلال المنتخب Kooora",
-        "player": "",
-        "content_hash": "179754149090148449990ed58963bc4d42e096e9053995a60bc6fb7aaba0ae15",
         "sent": 0,
         "section": "sports"
       }
