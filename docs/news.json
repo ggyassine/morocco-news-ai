@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T09:56:59.801707+00:00",
+  "updated": "2026-09-25T10:10:49.907031+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -741,6 +741,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 5133,
+        "title": "الاتحاد الإنجليزي يتهم تشيلسي بانتهاك قواعد الدوري الإنجليزي في مباراة فولام - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxObTg2VkIyeDhRanVPVThiT1A5RWJTNzFxR2hvcC00WWloWllTc05TTVg2Wm5NWjZVOGROSERPVjc1cmhfQ1RDX0xXcXpqNHJ6XzRoejdFSG03MEhwcVdrZmpqWldCRDkxaVFCY3R0cng3Z1VPSGZxVDUzZlplck8tUE9KOXgzNG1hdnFfOGtxb21NcVdZYmxuX1h1blU0TVd4M1ExUUhXVW5DTDBYYVBfbFpCUTBEZTkxTDFFakVYXzJXbUtEUnVGVmUyb05fY3llZEd1S29FajZwZXJnT0hnX3Vtd3oyVW52X0FBdkhxS0IxODg4NkFoMGxPTUs0c3lDZXBwbjRiUXlrcjFNWUFLeXhTck1GZndpeVJsYW5DWFJic0tNRHE5ZWdtZVdLQkw0RlpOeGxoeWVxc0hfamt1Ty1NUHkwajZhWTZPMG5WUGYyRXhlMEZFa2c4MXdzOGg1elpxdVNtdFVIa1R1dnIxLWU0OF84bjZSNTZNemRHREJTV1FPNUhVTkh0NHlRVzJfTW5aU0pjVDVhdmRIMi1HZ3JHWHZvdWJnLXdtcDFEcVBDTUR1TGtSQkpCby1vcWc2d1plSFMtSW9rOHRKUTZWdHBxVGV0aWk5WnRJd2dSbTc3bGI3bGRDVzZuVlQ2SlhZaGFFdUlSOWJTcGdqMTdvRWp4dlBtN1dkTXlqYkZsSF9LRmRPSkswLUdSRDEwNEZGVk5DZ2VxR3JaTmdIeWt4RDAzc0JkaDJKMFJqNnRkckNjM0hmMEdheE85T1N0Z0xsbUxKSmhQeG5LVXJpQWlySkFDWDJteVVwbGdDTm5VVdIB9ARBVV95cUxNb1NiR3JtVnRTOWZIWXdQMVctLVFqWnk5ZUdMeG90bTRVMFEyRWZoejFaWDloc2djdXhHbVJRRWV3bWFyVnQ3Q0pIemI5WVBobnNSeExUWDBKZGtpTG9vRjhtUDlJUmVOaUNtT1Y0YXZpXzlmY3I3Sy1nN2JFZ05odjVjdV81cXhQTjV0eTdFQzZaU1drUUJBMnNVNzgzc3ZGd19qU19QU1lVanRaLVNvSGQ4NGRjaTVRS0ZSclFOOTVzN3FKTkdiS0FodTVUUlJubnJsdnRhZ1dEY1dza00xa1ZiblY4VzlGRTdndURmQnh4Yy1LdTVzNVFRNlJnU3FheFpuLWwyV2R5MDdVY3p3Z2tzcVdRUGJqeTU1RXhXT1FZME5UZUJ1dGNZNTVoQmRRTTU4OG9nX0kwNDc5cW9ZLUJWbWR2Yk1ISERpYjhGR0phd3dJcW1TdkpFeVVzT19PV0hoYXI1dEIyLS1KaXltMjdfb2lYSFB0MktoZk5pSWtfcS1MVGRiQzRHb3lxV0xueVF4Z1JoSnV5Y1lFLTJQalRwUzZIS3FnSEU4RlNjUURMU2dPaGF0bWlrMWNud1VRQ09vcWswdXRqMVQ4ejlUUlpjeF9jdFNMNEMwRTdBWmREVVdSZ0tYZGdmQ2VkbDNBMzZXUzJ6ZGZJdWowSkxmOFh6dFp3MlBSdU9vdFd3ZllwQllFT1ZkZGJLYjRGWUdRVWNVZkhvNGNFUFZhMVU1UnBESHBPSnBHTWJxVTBtclB5T3hPcWEzYU5oZUpwUjJWWm9aME1aNnVzcF9nOHppWVQ5Z2dhNkZyamI4Q2EyVmMzQVpa?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 10:02:00 GMT",
+        "discovered": "2026-09-25T10:10:31.611501+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الاتحاد الإنجليزي يتهم تشيلسي بانتهاك قواعد الدوري الإنجليزي في مباراة فولام FilGoal",
+        "player": "",
+        "content_hash": "9bd890ea6e2bdad2ad7a1f47851eeda02489f9bcf10b8fe1e22ae2a50c7fdfda",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5124,
         "title": "أفسد مفارقة مثيرة.. تقارير: ديشامب رفض تدريب منتخب تركيا - يلاكورة",
@@ -1522,22 +1538,6 @@
         "summary": "حسام حسن: الشناوي كان منتهيًا.. وعاد من خلال المنتخب Kooora",
         "player": "",
         "content_hash": "179754149090148449990ed58963bc4d42e096e9053995a60bc6fb7aaba0ae15",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5057,
-        "title": "وائل رياض: مباراة ليبيا كانت صعبة بسبب الطرد.. ونسعى لحسم التأهل مبكرًا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NVnNVRjBwdUN2bXJaSXFnX29KLWVlTWpxYml2dkpOVWQ2cFZTdTVRSHVIVFo1ajhRT0lDT2lGazZWekxsR3pheVBHZFFEZWJT0gGnBEFVX3lxTE9MeEY3R3BNWWtvRWwwZlZaZXBBMWVaTElqaTBZM0VZNHUtLWtuVlZpSkp4eUh3Z2RJSERILVdZdjJPSjJnc0k5WTRKb1hRUk1mVTlDcXJpQktMcEtHRmFaVXo3bkZVQTNhY1NNdVQ2NXV1UHlrU0JiSWNwMjBXUGtSa2ZGd2JpUEZ1c0JyRUlic3pfZTBfZTNLSmF5RGRJRmZ5RlU3cW1ibS1NR2N2M0tPSFJCRksyQXlFZm5WdEpzblRsVzBYNmkwcnE4bW03UmVVS0l4SF9yYnpsd2hCSTJIbTFVeVQyaUVqVVNiam5tTW91ZGJCdUp6QXM5Q3NkWG5yZnRnUnVYYmlXRmZwanM0bE5lNGpQOU04VFk1ZV9kenQyMFpXeHQwZ3NPdHhwU3poempwelkybE1DYmwtdll3a0VGSldwaGxfdDhNTlNvOEw0ZnU4RTR5OWdOZ3BDUkhKYmRQMU5QcnFGVjJtenJzNG16cDJCczM0Sm9zeVRreE9fczZ5SVVmS2taMGx4SGZaemw4blVBTzJKMDVkczNuR0JOam9sUWl2ZFkwUG1RcjRJNVJ5b2dlZ2NMR3djbUZWR244OHN4VDJnSTBBUXA5M3ZhT2NBai0wTnl4WDgtTXczemFTWXFqVDFxanVBbWNJd0lfTmlheFVnV19tV05JUnJCbmpUMDJwSHVNVzAtQ2hoa0dmUmEySFJHT1JZYUFhd01CdHI0?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 20:28:00 GMT",
-        "discovered": "2026-09-25T01:09:47.170960+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "وائل رياض: مباراة ليبيا كانت صعبة بسبب الطرد.. ونسعى لحسم التأهل مبكرًا FilGoal",
-        "player": "رياض",
-        "content_hash": "1f1361de621879c29d00969d6efb21a5b70fbd8bd67daca16cf3a22700a0f772",
         "sent": 0,
         "section": "sports"
       }
