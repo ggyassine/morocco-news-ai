@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T08:58:38.352305+00:00",
+  "updated": "2026-09-25T09:15:00.171285+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -757,6 +757,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 5120,
+        "title": "دي بياجو: قلت للاعبين ارفعوا رؤوسكم - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxPc1p6SWpwdUVFTzItbE0zcEstaXV3cXVraktSd1g4Nk9MVDR3RWxQamF0c2FzRFJtM1ZtODduTXRDZG5GaHZpY3ZmN2g2blBQR3ZCRjlWTVIxOHM3elZzZ1BWeGx4dmJ1NkxxS0JrYVgxU3hmbEgzcXZSeklMM1VpUzU0WHNLSnJnc2pPdWt3elVTYnRTNlczODUwTlZKckxjNmNwYlUxZFdoODRQTTh0Q0xHUjZCNk9ZZEIxVWZPTW41eW8xbnFvbzBfdW9RLVZDZ1ZkbHhiOW54YmxlNV90WTNsQU5HM0lwY0dMV2FKQ3NwbGhCNTFrbGxUaTFtOGtabjRLY0ZybHJUZDgzTDBFWHM5MzJ5eDNsaDZ5d2k2SzB0bzNaTzJWbjVGbWlEV1lTdEFHYTdUMzgzdlFVYmltbUdJWFpLR2JYcGRBbFVLb0tYTGRTTENLWERlNERja0hpM0IycDJKWHhHbnZERWN1a1RqZUhTTjF6UWZoczRsU1V2V0ZWQmFiblp1QU14Um1DbTh1ZXVzdTN6dk00VVppaFdHaGV2c29RT0FWd0QyM0cydHQ4MF9JZkF3Nkg1eFhFNWxn?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 09:04:22 GMT",
+        "discovered": "2026-09-25T09:14:39.410177+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "دي بياجو: قلت للاعبين ارفعوا رؤوسكم الشرق الأوسط",
+        "player": "",
+        "content_hash": "3f0291acc7cab55d31716f2cd7b34aadde86a3b4375925414f1af1bb7f5373f3",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5121,
+        "title": "من كوبر إلى حسام حسن.. الدوري المصري بعيون مدربي المنتخب - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOMzF0QVE5eEJnOHFPSVh0dWJyTkZwbzcxaVZrczBZTUNFVUs5emI4VlZXZGE4ODJkNC1QTjRrN0tMTkRZSE4tN1Mxa2E4b1VybnZJVlZyRlA5NlpkNGY4NEdmYWV4Mm1fRGhOMWQwbkRPazkzaHpzLVhOQVA3d2xPN0MxVTRtaVNGZHVWUlJLR2lWN0czMS1kN2U0VTg1cnhhQllHR25lZmJvNjJBTDBqMVJFZ3hsd3lWcUFrS2ZTMVNMOHVQbGp3X01Ld1FZTEhSSDB0RXd4elZyNXcwNng3N0pDQVUxR2xWMDNHMXIwN05yOU54c0lSTzV2TlJfVnR1R3NlZWhlQjhCbjhralNMbm1vQ09NY1h0VEtiZmptSWxZMGI0OHh6ejQzcFhnSjVfYzM5M1ZHSGd0azhKWlowYkNnN09jRllpblRtYkF1WWZBYzNLNlRNNmJNS01rb045U0E4NGJWRGVXRTVqUHB5X1NKVWx6Q2hyWjY4am0wSzE4QU4wQ1lnYXlfTDVYcTNpMEVXMzJ3OWJFVW5remlSalBtT2twY19vVmVNeHVKX2R6SUdPeElxLWlJZ2UxYUlDNE40Wk4zV0diUVJVSG8wWE9raGtkT28wNmxQUGluUdIB5ANBVV95cUxPNXI0SUJROW9Fai1YNzhBU1VrVjV4ZjY5RVJsN3RpYUI4RXg3NUpVTG13LVU1ZDRBMWJVR3Q5ekxPQVhrajNkWGNncS1sTVc2bWNFQlRLaHI3a0FDUzFYdTdpaUZwWW8wMzFmeHFxM1p1by11eFFyZXJOMXJ4M3RHV0o3WFV1M2I1dnF3MHctZzB6Z29BaXlUOW1zV2NPdXEtVGFkYjNQT0FzU1BWZHJJWUtQZXhkdGhpV295aWdOZllwYm9FbDlsaDktWkdhOU1SdWF2WmJsMmwzLUluR1JHS09qcjJFQXpFTTRWY3lHOWQySTJqWjRZY3hyekRPa2lqWFpNekh2cUV5NVk4MDktdGxFSHcya0lLcTlSYmRqa1VfMHEtZWVmZEtYNlJjMmJSLV9fMVBBNFQxaC1kSEp3S2U2aFNJZHVYaTBlWWNidks0QkpzVDB1ZUtsY1NKc09WcFM3bHJacnh4cC12cHh4YUxCal9wRE1yRGNodkpBNjZOVlNtX0VGVjRiVWNEdWV0b3JEamdaQjJZdWhqMXNZQ2NSSGhndkdYOUNSUjJqQktRRUdBdVJZNmtpNjd4S21lQUd5Z0dseVhfN1lzdEJRVGc0NFFhV1l6aTFoRzNDVlcwZG92?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 08:53:00 GMT",
+        "discovered": "2026-09-25T09:14:41.755680+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "من كوبر إلى حسام حسن.. الدوري المصري بعيون مدربي المنتخب يلاكورة",
+        "player": "",
+        "content_hash": "d5c68e00491972e9972f2300cb84918cd89431d523274ee8a0add3071421f3a0",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5117,
         "title": "هزيمة وحيدة.. كيف افتتح منتخب مصر مشواره في تصفيات أمم أفريقيا آخر 10 سنوات؟ - يلاكورة",
@@ -1522,38 +1554,6 @@
         "summary": "الإماراتي عبد الله حمد: نحترم جميع المنتخبات الشرق الأوسط",
         "player": "",
         "content_hash": "9ca9f5e7cd1f51bf0904c09accb557f4066b2dffa400ce0ba4730fc7bfd975c8",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4950,
-        "title": "بالفيديو.. قطر تستهل كأس الخليج بقهر حامل اللقب - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxQWmozRjVJMjB5ZFpJSU10Tkgzb3gtOWhpdkxLS244czJibVpwNWhBdUp4N3lXdjRkRk5ISWJCR3J6b0NBMXRveHRFSUltT29jSVdKdzlnRFF3LUF1bml2Z1hHeTluVjF2TGFvTW1FUmlJLUZfbDZzeGJsOXlKTG4tc1p3dnAtczM0dnVDYkIybjgtSmdaVzBSQzBWOVRWTi1DMXYwU1RhLWc2Rk5IQkVXLW1nRzJuYldPZGpSai01TmRhZXRUeXpQTlN1dGY5Qm40R283ZkkweEdicW9nRC1rRzVQSk5WWjg2WGJVT1Q5UmdUdmhxVUd4Sm5qaHg3QWgyUEdSbG50cXVwNVotakpqcnFVMDc0bXdYZS1feEZYeEQ4dFQwM01Ndm1xNzBzUm9zVE5vdHJUTUF3ekJPYzFZOEg4bDZfci1GT3lFZEt5ZjhrbFQtWDNMRGstdVpXWXlXemRzLUE0dUJTV0tLaFI2TjNrTkhwbjM5ZmdfSUdIZmFYUEFWYUpGeVdlNEZuTW9JNHU2TXRodjBsNllTSTBONjBWNC1RUUtYZnY5X1VKLUg2Z3JiX2VFYm81ekY0aG9YNEIwYTJHcER4UlhlYkhaUmtyMGRRM1lxYVctcXpfd1FsWjhveTJGWjJ5QWI1SDE1Z0QzcQ?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 20:17:09 GMT",
-        "discovered": "2026-09-24T20:18:40.952717+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بالفيديو.. قطر تستهل كأس الخليج بقهر حامل اللقب Kooora",
-        "player": "",
-        "content_hash": "065661491121f2635cba563e0c79df0e9ef39943f360ca86f75aa6a5c01b28ab",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4954,
-        "title": "صدارة مبكرة.. منتخب مصر للشباب يعبر ليبيا بثنائية في بطولة شمال أفريقيا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiyARBVV95cUxNYUlQN2tKS19DSzRaRXVvOXRURW93bUMyd0hLLUtRUHNDOF9fR3VSQzJxY3FOa2NoemJMUkxhTGRnY3V0em1WMUlBeGdOUG9JQkhVb1IxY2pPbV9BQ2NzUmlLR21fak9YVmN5a0tPWWFEV1c2eE5aR0FFNmZxMUxaZjVCb1ZXU0s1UFV6VXFMSEprRno0MXVxMkxrNENYVUJkZmZGRk5BWmNiZTdxQVRCNGNITnVJaDRqUzJfb0kzZ0JSSnR4Z2VSeDVNWEZjc1J0cFVMMUlfVndZVExyeGhuVXctSmJ4OUxMeTFWcVhpdDV6VTNsY2s0QTFEenBua3ZJWnFrV0ZIamVVQmxUVEM0czVzT3otallYb0JPdXlnNl9NMGxoMHp5V3NreU1XeS13c24ySEdoeGRSSkVhV2d1SDUwUzZ6ZUpBRzdWVHF0TW5RdjdjSEY0azRHZFJfX3gzUWRucHBMUEh3bUl5RWthU3JtUVlweEVHMHk0NVd0Vmx4cXo0aTdIMXhwWkxfd0U2WDBLUkl4WHI5WGFuR3BLdEd0M2RRTUprZHlkN01HTEpUc0FqdWtQekttWFZ4TkE2Q2F3SGJ4MFU0VjdVSDM1enc2NDFEQjJ1cWxQV2NRZkk2S2lBM1A3djFrT2dhUXY4cTkweWJYWjdGZEFteFBXdFZkclY5dFZFSTRnVEFDRDJMOVRzNHdKdGVlUTJlWjRaZXNmQ2IxVE5rSmprX1AzREVvMlRwZ0M0Qkd5aW1ERGh2RF9qMDdhStIBzgRBVV95cUxOQUxHSkdHQjJGSVFWSkNWVC1Eb3RkUU5pQzMtcmVlNDZOU183czh1M19FTUxlMVk0Q04wYjBrLTRnUlpWS2hsdTQxcURYZ3hWMGZQM195cnVhVTVIcmU4X2RxaFNtOTR2Zko2LVNNdjkwMGJEUUpVSC12TnRLS3VzUDBDSGlMX25EU2JmV0NZWTBwOUw5c2JscUl1U2dlRmhnV1g4WmJUaElMZGp3UDZNdVhRbW5MU0dIeUVBRmFVV2FmSUNLclkwa0ZRZVJfblNxY0VDUGM3WWctM2l3ZnRHUm9DN0FaYnJYaGRJSUdYTWNYUHRCck1iaTl2MGxhU1FfemwxYWV6VjR2T1JSbE5mTjdvdHRxTENMakU1bERjQl8tbnBvZENtUGN1TUVrVGRmU2hMMVBNN1JhajlWRHllYkFkcTloM0ZqSU82aFlfSl83LUt1MUFydGlqNG5CcGxUcVF6ZkNWNERWaGlZNXM0MmNtMjZrbGpjVWFyWnVzRWtBTEhwQWJHVHJseXd4REJBWWhmSVFCV01uZkJ5a1FkVmN0Q1ZfS1dPWXhWaGlSWEh3UW4wbU0yZ01lY01nMnVPRk9SMldLRXpRUjFMWnl6NVRoelBmNFNQVDRDa0lMMERKRkl6RS1hbFJ1VmwwbzFzUEljTWwwV09LQnBPOVlzX2o1U19ZWjBWSkhHd3ZpNk1uM3ZnbjhyLUVpRkNyS3J3RW5HUlI2NWZ3R3hMVFk4RzZYSEFBVEN3OFY2aGQxNEFSNTVWVkdzNDJpbVNDdw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 20:09:00 GMT",
-        "discovered": "2026-09-24T20:18:45.933346+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "صدارة مبكرة.. منتخب مصر للشباب يعبر ليبيا بثنائية في بطولة شمال أفريقيا يلاكورة",
-        "player": "",
-        "content_hash": "5b69767be5fa672f74c6b444da7e84d29d4deaf1e56303229934460dff72904b",
         "sent": 0,
         "section": "sports"
       }
