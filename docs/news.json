@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-25T21:59:20.453090+00:00",
-  "total": 150,
+  "updated": "2026-09-25T22:14:51.943150+00:00",
+  "total": 149,
   "sections": {
     "morocco": [
+      {
+        "id": 5388,
+        "title": "المغرب… وقفات بعدة مدن دعما لـ”الصمود الفلسطيني” ورفضا للتطبيع - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPNmU5WElDV29SajBSTk9mQ3pkZ2ptay1hTjg1VjRubExNYzZVUDRWa2Fjd045MG1pZDFwVU9sR3JrOXdEbHFxWllkSzQ4WktVbERFOWZTUXJ4bFV2RjZBSktrRnFXTVZqbWlCb04wQ1g3by1pbXVJV3JsOWxyNWpfSXZYYzdjaHB0YW9hc0VucW56cnJaMVVhNi1kaUwwS3FqSUY5bjVCRVNXdGNQeFpuQ3JrUDFiempnMVZnWk5yMlpoMUNJOWxpY0loMXRmYzdTU3F3Y3NSVHE2QjZ6TjFPbEx6VVZnN2wybVJhc2s0Q1NmX2FnS3hySUJIZWdfRW10U2p2SWJ2R1UyM1FpbXRrQTNDeUFVbE1HUXZlRTkyUzhUY0o5UWlTaXlxU2plN21aRjBNTlZGbDFPcWlHR2lF?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 21:50:38 GMT",
+        "discovered": "2026-09-25T22:14:46.950394+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "المغرب… وقفات بعدة مدن دعما لـ”الصمود الفلسطيني” ورفضا للتطبيع القدس العربي",
+        "player": "",
+        "content_hash": "b631c715910ff1b0422ae325d3b5bdf5bc7cc4a72dce238efbdb6a11b3be32b9",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 5308,
         "title": "الاتحاد الدستوري والحركة الديمقراطية الاجتماعية يعلنان تشكيل فريق برلماني مشترك بمجلس النواب - Le 360 Arabe",
@@ -786,25 +802,41 @@
         "content_hash": "36a1cbd5a24795755efa41dec376f4b7c0498fc3defc48bc846daa4efa728fa3",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 5044,
-        "title": "التحقيق في مزاعم تزوير انتخابي بطنجة - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNbTBnOHhaOWx3N3ZEcmpqUEd1dVpCeThwWjZqeUVRSGdJbkt5TTlLWW9QYUsxTXV6MmotWm1xYnVzQ3B5ZUp2UzdrY3RCWUI2NGppV3VOU0VLOTl3LWdmeW42S3RMcGRXS19aNk8zWmhDVzFRNDVHUk5YeFVQdHduTWVVX1RfTnJSdlhTa0ZBV01NUkFWN1pET01XMTM1N1g0SUpWQ1R1VjJxYUstcEpfSkhCbGVmOU05eXBPM09wTVFHN1dNSy1RcG5TSEVsYzJnOFFCNHVRVXU2U3FVSEZVby12cTdncjNTVTRZelZHOXJNc3diZC1hNDRTV0pzYnNYWk9GZUplQTRSVXpyVEw0SGJmZ2NnaC01ZHVfV21GTDczU2FBdktqczl3cFBUZWk1azNnRUU3WEtOUy1JamNzaTgyVkRtMFNjUDR0UUdGYjRKMWpZTVhR?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 13:09:11 GMT",
-        "discovered": "2026-09-24T23:41:04.973053+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "التحقيق في مزاعم تزوير انتخابي بطنجة Hespress",
-        "player": "",
-        "content_hash": "6cc4aca3de2c8fa96d86b730e31e4b0c438a52c5d8fdeb8441846b5fbd88f115",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 5387,
+        "title": "مصدر من اتحاد اليد يرد على شكوى الدرع من إقامة المباراة وقت صلاة الجمعة - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiswRBVV95cUxPWkN2clpiWE1vTWdGdHNKS0NJQUFqWVN5ME9iRWZFV2VPMXV3OENfM1JoM2RROGx6OWlfb2RydGNxSVR2SUlZZDZLSTdYWWd0TmRZcFltNGNFcVRyNmJGZ1JpUlJFYmkyYmctdVRQMC1RLWdNZXg0Z3NqbmtnbzJHZDdfOERKejFMUVRKV3haT3ZiSHdUNU1TbXhoR2hMa3NtMm14YkJaTjVKMURYTnZ2YmhIOGVMVXFFYzQzZGw3TG1DUl8xYnQwQkkwbG9oc1F4cU1BUDZlNnFkRkpZOWlDMURYaWJsbU5Uc3ltSmJoMS1NcFJkcEFiek5FeVBnb0Z0eVNCZngxWlYwTFFqc3NMaFpSa19LbDRPSENlRURzTkFnRUkzUkdOWFBnMDZGbGtZUDBZV1pfYlVUaVRob014UUxUWGxSVi11LWlIQ3ZMWWtvVHpSZkJGVlBXa2owUTF6YVR1OXZBX0xPQ0dZY0c1YzBVSG9GNTRqbzh6YWdPUlllWjNKc1c5bDBPS01zdnM5bzdjWm10VnZiOGFSZ21sSUxBWHRzNXZGUGh6aDFhWE9tN2dxTDI0b0dzVm00YWtxRFBEZTZrMHo1UE51LXRybTFxVThUSjV5SEJValhWeXU4RFY1djJlWFNPQ05HM1NjTFo2S2plZUFUYUZDLWFBZFR3MTFHZ09Bb1YyV2MxYzlJV0kzaEdsWjAtQ2RsRU1WajBEaC1OY29LVWFhRmVyNGI3c9IBuARBVV95cUxPYms5XzBJai05ZnNJaS1aZEhORVFfekZkZGZuN2hKWGpQWVh0dlpjZmlvcGhhTlZiZjRhbHNPaTduRlpNNHdBY1hTZXl5RVFyVDBXN3lZRnRad1RFSWFGUFNGbFZydU9RVnFzRFN4Z050TVFsWFo3WDJOd0pXMjRadFNqWU0wcTBNMGVrNmE1LXdsSmNNUXgxaGQ0S2prNW0xalV2VE9ESnhKcUlUN0ZKSllzRktRc1JjSWRfZE5pQ1ZOSE5INjEwZUtmZTBYaTBZVDNjZHZ6ekc5Rm1BWGNueW1Lek1WRm54WHpSb2NFN3ZaaHhlOVdHdmFhVEZBdlBQTHJKcnpYTFhHRm5vb3p1bExsUXNyRWJjWWwtNHVmWFFKSkktYzk0bURiZW0wQ09FMWpUY0NZX2ZlV1puVDN6akhsRl91MzVFMHd0RWE3cjRSTlVZcnloSHJzUEhlY2NXNEgxLW5VYzlwbDQ1eFVtSEdQMlowM0M2QlFrQW05UW92TGgzNDQtU0hFX1ZWRkZSdUJNRzZHYWV3S0FUM3hsZ1dWSTVPdkhXajFWUVR6aEw5QVp0ejQ1alZLN09vemtJVmd1TXhVcjFwMUtsNmFRN2NmbTd6OWdnWkRId0k4Qy02MmZ3ZzBVQ05PMElJXy1XdWM2QllnZ1pvRHduX3JWYzZBeFI2YTNNTFFCTGZnRjg4OWZ4eTl4Z0p4R0V4ZjZyek5zSFVmRnpxRjQ3QU10TEw4NUFjRUNy?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 22:05:00 GMT",
+        "discovered": "2026-09-25T22:14:36.407414+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مصدر من اتحاد اليد يرد على شكوى الدرع من إقامة المباراة وقت صلاة الجمعة FilGoal",
+        "player": "",
+        "content_hash": "1a2ac496b23aee91262cc29a9b615c39d79fb5832ff52b2da26b78b9f7e5a5a4",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5385,
+        "title": "سفيان رحيمي يحتفل بهدفه في مرمى الغابون بطريقته الخاصة 🥹😍 - Elbotola",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52QmRuSV8yN2c1Q3VDaEFkeW5ueUU2TUVlNTdTQ0h6TWh2R2lacS1SWURtUkduV3lqLWw1XzMzQWxUSlFIczZwNVBzcEp4ZVZjLTk3Zl9QajlXQUZYcUZ6ZFN2LVFOcUpRQUNVYW1SN2E?oc=5",
+        "source": "البطولة",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 21:53:22 GMT",
+        "discovered": "2026-09-25T22:14:29.061404+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "سفيان رحيمي يحتفل بهدفه في مرمى الغابون بطريقته الخاصة 🥹😍 Elbotola",
+        "player": "سفيان رحيمي",
+        "content_hash": "98e7c71fa04c7b0097d95c1b4ceff1bb2df5d7e1b74fe3a472dedd58c53414b2",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5382,
         "title": "زيكو: التعادل أمام أنجولا ليس مرضيا.. وتنتظرنا مهمة صعبة - FilGoal",
@@ -1238,6 +1270,22 @@
         "section": "sports"
       },
       {
+        "id": 5386,
+        "title": "غياب جديد.. المنتخب السعودي يفقد البديل الذهبي أمام عمان - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxOdHV0MzZVTWZ3RmVhSW5ybVVHTmtwT2pURFBac2FtWlFGdmM1bnc1QTdReTlsZU83bUFHRl9vR1kwb3VVT3NJZWdyMk9xN2JSUDZieENJQWhFamhhREdWRUlQcFFoSVZ2bWZnMm1yWEJNZVotWnBFNmt2WGZkcVlIMS13bjN5WDh3V0NWZFlraWtNUkFIM000X2FJbVE0ano2ZnFKZk5STjBpUy1YZTZtampqWFFreXoyWVkyUTZsQVNycWdPT2lHRG02VG8zc0dKTFJRMjhFQWw2NUdic0wzcVlTMGJ6bDNJQUFidEo4LVJtaDgyVW1ON0I5cjBWWHJGQjBGeTJrRjlKYXRDekU1VUIyWEdBQzFsVlMxbGt0YW5HNURkV29ZdG1uMUhBRENWRkRGcFhHSGF3ZU9yQmVJLTRYNGUwdl9yb1VhT3RheFJ3ZmFtTzNvajltTmZaVGRaVDAxSGtoZ1BTN0lUQUNOTTh5TjdiS1ozbVdBdktuWFE1WXRIZ24zVG9xYjFuUVl0RW8tcDJwZ2NJU25yZElLVnd1cHlPWjZfR0R0MXZfV3N2NmVuZ0owYjd4c1hKVnIzYlRpREF2eE9COGhaVU1BOHpON3NlRkFCT3VNN3BRck1BTEkwWXBSaF9Md29aejdjZVlqeV9BRzJxazN2WDVJZmx6QVNCMG53TEl1NkFJbFlESXNpeTVMcDR6NFk1amFFX3NRYzNEUzU5bTBadjBmRVMxSlUwUQ?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 19:30:49 GMT",
+        "discovered": "2026-09-25T22:14:30.444689+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "غياب جديد.. المنتخب السعودي يفقد البديل الذهبي أمام عمان Kooora",
+        "player": "",
+        "content_hash": "3f79dbaa5204eecd4c3e4b4c4c86e6c5fe44850eb9754ce6cfaeda922d2b8b4b",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5318,
         "title": "تصفيات أمم أفريقيا.. روندا تكتسح ليبيريا.. وفوز جامبيا وتوجو على الصومال وبوروندي - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMiiAVBVV95cUxQTlE3aW9fc0dFcUJMYmhNVlJERHA2Z3N4OHQzYjJJZXlFWW02aVJOQnp3c1JoTHlKY3I0UnFBS3lJM3JENDMxX0N1dndlcXAtUlAtYkRtUXRjQ0lESzVuNFFocnRoSGtLVmFNQ1JZNnhUQ2MtXzZqUFhfeFhzLTh2a0pfWkswaTJYT2tBVUFPdjU0ZHhxckJtUldQTlE3cjVPUXB2b1lZbk5SYXZ5cjlhdjlRbzlPVGVNalhOQ3pYUGFudm9qWWY1alRoY2pCME95alQ5WUZJWUZkYUo3T3lYQTdIcHBaRVlHQzVrVE5vWnpBQ2U4THNXZWtEdGNoVDROc1lfU0ptemJtSDlXYUE2V1JJZi1RT3FzbV9mSThfN2QyOGJ4OUpCcHZVX0lkMmlHZVpFT0tHdDBrY1BJNS15dnJsQWZpUWNORUlzX0FTZ0hRVzBLV1cwalVfd2xycDJFZHNpNTgxNFhxeFNYMDVpdXotbTNSbHFtYXVMTkkwbExmclJ1NVhqRU1ZemlnSlpod1ptNEVwRTJWZW9KT2pxUDBsaloxLTB6M0hxWFFuaWswSXpYUkRrZ2hFTlQ1WWJ6Q0tiZTVOOTlGS1BvNVJvZTJmamc1cGo5OHJTc1hYWjNMMFltWFBMUVZiRVU2MngyZmlXYXJaaG9fcF83b3hReV8zY0hfcC1qVVB1MU8td3FleG1lMHpFVTJ1UHptZFdRd3E5RFBhU3JTYk5QaW1SMkFsMnJ3cDZjZlNsQ1RuOVJoTGZNblhZUTIwT203d3pvZk44Rkx0T29TQzlac2N5U185aXBKSnB1aVRNQjVKaFlKekUyZWVmMTFGelIwblhSbFZieFR6SmnSAY4FQVVfeXFMUDVPbkpENzBxSVJWd1lnZ05MUFF5VHhqWXNrU3hrQlJ5REN6Nm9GQ1hyWXU5NHBXUkdOaDltYi1sZlNQX3V5ZGFsNlJ4cXNlM1hDWVdMRUJ1T1AwenJaY1RvSmtUNnR5S2pKQXhYandRMWpXREVHTFBFZjVRZ0lnZndoZWNxbC1OTDRZR2d3RTRjUk82aHItT1pZTXVlUU5TTW9lNzctZVVpSXRvc0hUZVFTWUZIUEd3dFRISTZHN3A1UVF1Qk0ya2dTU3NOSW11NzZqcHBRbzlBOThLUGRGWnBReTlNUkZIQU1RYkRIbHhsMXlzN3Rwb1dmRms1Mmc4RFdXY1R0WXVuNWJvOW9rR0ZRMHNNTHd1WGFYLUlPLXVCS3pCNnBhTFJVaVpjMEhBOGliQ1BnVDNCLUUyUG96bkd3eWpWWHRzSXphdlVKNHFHd0d3LW5uODJJa2doTDI4VXE0ZGsxaFVmUVdYdVpTODJYRmgwbDNvTHBheHJLMl91cm80VjlqdGtuRXljOWFQa2FpYm1qOFNRNnBNYjItR1lBMjZFWHk1eXRSQzA2ZnctRHBKWjREZlBySEVTeERXNXdyRDg4azZpRW44V0JkcldSeGU3REl5eWVDQUtWQjFQci1uTGJnTTRSdFlEMGhYX0FLWUxmblJ2LVZrOVFMV2JmWUV4XzdLYmNyeWxpbVBZUU1KaUNzZ1QtOXhMY3UyS2VaelhoTUl4UjByME5VT2VPZDdDVy1qR0FCVzNXNFZQXy1oaDB5V2ZMOTlZQnFZRWh4VENiLXozU2g5aGh3XzA4cXZXT2x2VHpDRzAtcnQtbkE0YjB0VWxyVktiakt6Znc1V0otcGdOc0RQOVdn?oc=5",
@@ -1556,54 +1604,6 @@
         "content_hash": "17d049709846ff52393aa2dd81190542a33d1965341971cdb53bcc52e67fad17",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 5335,
-        "title": "أبو الشامات جناح السعودية: نتحمل الانتقادات ونحتاج دعم الإعلام - الشرق رياضة",
-        "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxOSW9DTjBQaW5kQjE3MzN1T3JQbmRiV204ZlUzT3NVeWJHMkRMd0czUHlydE9keHNjYUdZZm5BdEZaVmlfc0ZaM3dKeGhKbm55cktlRTd2ZHFJaC1WVE8zUTh0V3RaX2YzOWZUcEdUbnFNc3NUcDl3ZjdrRXNXNVVDeTlVd19kZzBkTzE0TE9wSm1nMWI1OE4wN1hiWU9rSjJRY0F2dFVhUzR2OC1tc083djhXbUpXX1otMTFGQlNWY3dIbXllelFYdVVwODBaZHhibmo0Z0dISkxBa3hqMFZWbEtNRXdfdl8xVWtUOWd6VE4yZW5rVkhKTFR5QkhjMjFhTW5lNjBaWm12cGUyOG9jTXpPOTFCRDRPUmVmb3NRR0sydlJhZVIzSW9uZEZBX1JPSGRZbFFUTVlBQ3ZseW5ONFZ6VWZyeWJyODVuNFZMWWJrSFVzSlI4TThkUjlubjNHZnA0TVE4Wm5kbE1qbDFnLUNqcjQtNzR6UldLZmxiWTJRS05ZTXdhVXFuSUJjZ3QzOGR0T0lhMkF0cTI1d3JVYjVsaFZNN3pJSHN0Q3daT19iUUJiQzZLU2RZMy1qbGtKa05VY2hoQ1pGanhpeEUxU24tYVY2bGJKQXRIdTRpRjFxMW1yQUxMbnNDckU?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 17:39:59 GMT",
-        "discovered": "2026-09-25T20:30:50.647066+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أبو الشامات جناح السعودية: نتحمل الانتقادات ونحتاج دعم الإعلام الشرق رياضة",
-        "player": "رياض",
-        "content_hash": "a617220ae5e981fe4538abe3ecb971d8f2e582e6c874267800abed219b9e214b",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5334,
-        "title": "إيتو يتجاهل نداء \"الكاميروني\" مبابي ويدعم يامال بسباق الكرة الذهبية - الشرق رياضة",
-        "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPOUdnTkRKbWM4dUJvTFo4OWhWVUVlVTJNS2ZyRmpKZDJlZ3Z4MGt6UXhlYjBfZjBkWWpXX3Y5RFdUVmd6VzItaFRSbnJJT0xyQm9vR21rNVY5cnVSWmZhcUFoVk1KNVg5cGc1NHBDc2Z0bGs4bVY1bHZrUkozWGtVQXJ6LVZEcWdjRFV4TzZYUTVPZHphVDVfekZ3dVFHYkp5SkdBUlJzSHR3WkF6S0I3eW15RllnMzYwS3ZsSGJtOEtOWWcyLURnNV9BNl9BV0ktaE5hQ1RId2pLS25FX1NVOXBhUHhoUi1fN01GbjI5Qy1aQ3E5QTdfS3h5M0dBUFFfSjEtMTJ0NUNDMV9acGhTMHRYNE5qMmE5MnVsSTV0UDVmZVpIU0tTbTdTbnhpZTNkTVBuam42VWlhUTU5UzJoMmMxR2pJTEpOUFQzM0d5LXNQVnJjRFZtSEJHZTZMV21aN3VlLW0yOWZ5QnRIVUNNdTBXY1oySlVOQTBpcDNFQzRfTVp2VkFFMy1Cc2FKOXpyT1RVSTlNUm5BdEtWUTNzZHRwS0diU29zQXZHVldQM3pXZy1PZUM0cnMyXzBfVl9EdzM5R1cwRGVvRDR1dnVfdVNLbURLazdDekVLeTZSbGQ5VU1VYmNtSHNZYnMtUU9Gb3hnV2VjVUY?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 17:39:59 GMT",
-        "discovered": "2026-09-25T20:30:50.637695+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "إيتو يتجاهل نداء \"الكاميروني\" مبابي ويدعم يامال بسباق الكرة الذهبية الشرق رياضة",
-        "player": "رياض",
-        "content_hash": "aa9985f04caf89f1f9c24474d60fc06595538b51686967313ca1629c0515d45a",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5373,
-        "title": "موعد ومنافس الأهلي في المباراة المقبلة ببطولة العالم للأندية لليد - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxOUTZPM0FZakJteldKR1lWUVFJdkoyclNwNC1xSEZfQmItdjBydWlKdzExT0dySkRsejd3Nk9hY0ZmMzBVQmhkZ19ja3JsWHI2M1FxX2FzZk9JS0RuYmkxYzloUFhZV0N4anZ5c09KUmwtMFhMZVhvOUpkaUZRTndNckRNTmg1UzAzM0RCRHhMUVFnU0JPZ0gzSGUzZ1A0b25fdzA4dkxPOGRlSy1MVEVUVjNoNmdMUmNwb0pISFZCVDlZWHZSSHNzellPTExCaHFQNVA5b2Jzd1dPX0Z2eS01UjVjc2tHRzVxbzJ2Yk5tNFBDM1JSaVQ2cmxzNld2YWx6c2Z3NDdYVXg1bktsRWxRWjBaTF95ejdkbV9GcG9Bc05SUk1wOHZXSUF3d254QWR3T0dyWHVfcERFMHZ0Tl9acFRJY1J6ajFmLXpyQldCMkNXTW5GbGV2Vkt6eFJCd3V0eGYzandRYlN1NGpCbEExcUZNbnpRYXI5LUhJQnVPZUR1YmpUNmdqWTBWZ2ZkdW00d2hveUVMa0d1VnJYNE5Hc1BfcjJKZDJyUjR0eHhDbnRRbWFSWm02UXJHbzlPeUd3RWZjRE9rNFQxd0w3di1OZXdiRkNDTnV0T1dla1JqcklmSGFwQmFnekotdW9QZTVrY1czYTgwX1NtWFdZX2pFcm1MV2Y0QWFJeEhqOHIwcHFEZW5TR0FpWEZUZHBjQ1Z3NUJMS2cyMjRLcFBPUHZWaG02RXk2b0FPOUgyWHR3?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 17:34:00 GMT",
-        "discovered": "2026-09-25T21:37:53.541728+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "موعد ومنافس الأهلي في المباراة المقبلة ببطولة العالم للأندية لليد يلاكورة",
-        "player": "",
-        "content_hash": "70284869aa330b8d0cedfa8c5856f1a2ed60dc900d9df15d888430f2c269aa4e",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1908,22 +1908,6 @@
         "summary": "حسم قراره.. تقارير: عرض مفاجئ لديشامب بعد رحيله عن منتخب فرنسا yallakora.com",
         "player": "",
         "content_hash": "3adf8899de1fd86a9a40260672220cf964bb6cfde0e01f4f1028ebc74c3ea633",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 4886,
-        "title": "بعد طول انتظار.. عجلة البطولة تعود للدوران - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB5MFp5X1B6R3RLVU9VQndkVHNuZjlWdTlxZHFTZDRQRXdIeHVLSTlyeHBjU2F2cWc4OFF0elZDRlNVa3h6ZDVJZQ?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 17:31:51 GMT",
-        "discovered": "2026-09-24T17:37:31.303724+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "بعد طول انتظار.. عجلة البطولة تعود للدوران - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
-        "player": "",
-        "content_hash": "cf2da31b5d136b3f11f45b1ad5cefae1b84ba85fb51b05818f4e5c9dde11267e",
         "sent": 0,
         "section": "transfers"
       },
