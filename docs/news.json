@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T19:28:21.164426+00:00",
+  "updated": "2026-09-25T19:40:30.170043+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -32,6 +32,38 @@
         "summary": "هل تصبح فاطمة الزهراء المنصوري أول رئيسة حكومة في المغرب؟",
         "player": "",
         "content_hash": "6613206d2527fe5a680ef72198de623c404f768f10659272bd80c9b67ed88158",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5312,
+        "title": "تقرير دولي: حرارة مرتفعة تطبع أجواء المغرب إلى نهاية شهر شتنبر - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNc2U4b1VlUGJTdDlCUDRLaUZGTThaam1rWngxeng2cnpXYWx2SHdzUThEY2tyelEtTzlrcWMya041TWxEanVVakJTOElZQ0FXdnc1QzM5ZzV3TFFOZWJRQnVBUzRWeURXUGF4QmQzMmxpVkRVM2lXekUyamJmY0trcEJRbXZ6NHBGQjFOQzRSSFJoWnhCMzdTOERrZnBuWmNNYWRCWmpwY2w3ZnNrVHg0RWFmVHZ1SGpFS244RkRmWFZ2RjMxT0luQ3R4Z0RqYkZqSTZmcTJtZ1o4czZ6cDJsZ3l0OWh0X3ZuOHRBUFBIall5Uzc5S0lseDZQWW5pMDQwTVdmRC1yY0tqdHM1NFZlR3ZEZHR4R0Uxd05zTzBVbFNiQnBTb3ZTeXdhQVQ2SlNCR2o0bmtGbk5qekNPYnFGNVBzMW9KTnU0aG1vZjhNUzliZV9EUE80?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Fri, 25 Sep 2026 18:05:01 GMT",
+        "discovered": "2026-09-25T19:40:01.513207+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "تقرير دولي: حرارة مرتفعة تطبع أجواء المغرب إلى نهاية شهر شتنبر Hespress",
+        "player": "",
+        "content_hash": "4eb7c809a054e3a0f51e401d89610170b26e6dbb04e159505a15d058393fe45a",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5313,
+        "title": "انتخابات 2026.. ذوي الهمم غايبين تقريبا على الترشيحات.. فكازا سطات ترشحو 4 كلهم رجال. وعلى المستوى الوطني كاين غير3 دالعيالات من أصل 10.. وحقوقيين: العنف الرقمي والولوجيات باقيين عائق قدام المشاركة السياسية لهاد لفئة - كود: جريدة إلكترونية مغربية شاملة. - كود",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxON0lfVllxQ1FJSTRnQ01QbGdHaDJvNXdzMzFDNmM1MEtiSXp4TGNIR2wtQ1BQMU96eF9ja3JTcGZVSWdYbjl6MDA0RXJYeTFvbnlfQ2xadUdGODRPMWd1a0NtdVVnQjhxQ3BRa0Q1MlZ0NDRjNVdldlNFSVRidk1jUkdSd3dvelQybmRaTm9uSGZfNkgxQkdkVXBCY1llSXlZRG4tS0tCZzhCSzF6WGFMbWZJYnI1OVE0bERvSmJNRHE1UFBJeEFwZHR3X1hsaS1SRWpqOUNJQVBmLXBPaWx3ak9ncTNQTi1KQkVxSGxpbDhTN2g5d2l5R1Y0R2xpeXpVamIzYV9HelVFREU3QVpHQTdCQy1MX1BoaHNveFRQRXA1Njl2ZlNCaGd3T0J6UlB1ZWtxZVpvakVFUDQ4Rm0xemJqS0psVm9r?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 17:31:37 GMT",
+        "discovered": "2026-09-25T19:40:05.761527+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "انتخابات 2026.. ذوي الهمم غايبين تقريبا على الترشيحات.. فكازا سطات ترشحو 4 كلهم رجال. وعلى المستوى الوطني كاين غير3 دالعيالات من أصل 10.. وحقوقيين: العنف الرقمي والولوجيات باقيين عائق قدام المشاركة السياسية لهاد لفئة - كود: جريدة إلكترونية مغربية شاملة.",
+        "player": "",
+        "content_hash": "b441d20d6ac26f859570cc83f089c0c251789b1c9d15c36d91b5da3510fcb8ec",
         "sent": 0,
         "section": "morocco"
       },
@@ -500,22 +532,6 @@
         "section": "morocco"
       },
       {
-        "id": 4815,
-        "title": "تحالف اليسار يحصد 8 مقاعد ويعزز حضوره داخل مجلس النواب - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qb2ZxdXRuLTNMYUFGTGdvTEJTeXVtVTg1TjYxSEQtWC1HbXdEZjJHWHNWM2dHUjFqTUUtTG9oeXlQQmV2Z3RxSA?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 14:04:59 GMT",
-        "discovered": "2026-09-24T14:19:17.152434+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "تحالف اليسار يحصد 8 مقاعد ويعزز حضوره داخل مجلس النواب Febrayer",
-        "player": "",
-        "content_hash": "b84353a18d1e855b3ef973d2ba9d3f2f40654260b115f2e840ff5300cf7b57a3",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 4857,
         "title": "لائحة الطاشرون سليغوة مهددة طيح فـ”دائرة فاس الشمالية”.. أبلهاض لـ”كود”: كنوجدو الطعون وكانوا الناس كيساينو الفلوس - كود",
         "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOQ2dtSTFUMXpNMERWMkVpYWxoT2FIZXJDdDhWdTAtQk9aZllVNzZDZU5CUnJ6em5jeXgtVTVTeE9jNFV3ck9mNVZaTjZURDNfVFpHRFpPLTRQQkdXY2dMWEJ6Z2E4Mnp0SzZndmstN2lWb2FoMnNWVm8yQzZlSU9xYURaSjZqckE2d2F0QWVOSXQ5cmozMWxIWEU5SXBWNU96NWRza0Y4Mjd2ei13QWlZTFUxbkxSXzFIeUNuYjdEeVRmRWctb2NfUW01Z1lzZ0NFM0lveDVfa0MtYlFvV2JnOHcyaE1HM0FfYzY2OUhaVWFQcVFIWXRBLU9iSVVUX0VES1ItVjQxbm1DMk1NaGlROUpDa20tQ1o5RUhhNlFnVnJGaDV4dm5KM1FUWEdwckJyOUZrZWFIanhwRFpJV2lDakxxUmRRMTFRZmc?oc=5",
@@ -786,25 +802,25 @@
         "content_hash": "72de763b9f0a162c344fc4725c769f730a08e31766327df4e80f6a86fee0833b",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 5027,
-        "title": "\"سيناريو محبوك\" .. \"البام\" يرد على واقعة مكتب التصويت بمدينة طنجة - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOT2IwV2RwNjRaMGE1MnhaaVRQeGdEak1RVWxKaE84aWtkaGdQbkFScUFCbDVfU2R0RFhkZkxwRDZtSmJIaUpCUXZTN2JkZ205ZmJFd3ZRTzVvZGdxUHNyZUZtSXU0R25lby1EWEY5RHAyZzFMaER1aHNCRnF2V2lnTWlMeFpKS01VTV9ybkJUY1VVeWZHdnV3Q1Y1LTFZNTJiOFdqRDZBSG50RzUzeXFkXzBsZ3VtMjVKQW92YnIxNHpzOG0yck1qQVdXSXBjYnozOHVQSmF4SnhBd3IxUTFYZVZUZHdNZ2FhUzU3cFZZRDFHODBSWmpDQkM1dzFkQjFzdnVfZlk3NV8yaG82VFZLaldXdGxIcXl0THZ0SjMwM3N1Z0VPNGZ1ZkE0V0tHZ1ZOZTlkMksxY1I4YkZBWkd2WEhUVTZKdlU?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 17:40:37 GMT",
-        "discovered": "2026-09-24T22:50:55.844715+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "\"سيناريو محبوك\" .. \"البام\" يرد على واقعة مكتب التصويت بمدينة طنجة Hespress",
-        "player": "",
-        "content_hash": "c758c7c4302f2783aa13ec13ddb11174f9bfe9f7f06bc5cc8b22cf12491388e6",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 5314,
+        "title": "رسميًا.. تحديد موعد المباراة النهائية لخليجي 27 - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPa3dvWUdkOVpOTUlZLVdVYUVEa0NkVzZnZ0w4aml6MElrT2x3Vld1YWNUWjFZQmFjb1lNLTd4cDhfdEtLQ1UxWHQ4eVVuUXAxM1hlbHRrc3ZXWS1jV3JkNXVMckdCeU5YVmhqMDIzUV9HeUxBWmxiNGZmaGUzS2JuT2dYeHBDb1JyYVh4YWZkVHI3X0JNYzZLNHFwWUxfcXFhVndPY00xb0Njcm9sY2JZcnctVXRfTmxDamhjMmFPdExSY0pxUEMyX19JS0drQkE4Z05KTlhlVlJwTWtMdTJ4U2ZJSEY3MzRnUUp3R3NDYzlYQkwyZGpTU043RlJScDVtaWEtOXgwdmNHY1p2aFcyS1ZxdF9XcllYSzNJRlBYbndfMVlia0Q4YzRub3ZMN1ZwRDZoQmVreTZ1eThkOGZvM1BRbWxpQnhlNzZnUF9oN2tZNU93cWZVYkFNem8wUQ?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 19:30:50 GMT",
+        "discovered": "2026-09-25T19:40:14.867898+00:00",
+        "category": "الرياضة",
+        "status": "رسمي",
+        "summary": "تحديد موعد المباراة النهائية لخليجي 27 365Scores",
+        "player": "",
+        "content_hash": "e799fa3093558cd35b66fce0e87f7a57ad91157803524e925c477ebbe67497e3",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5311,
         "title": "أخبار و معلومات اللاعب Issa Djiguiba لاعب وسط رايون سبورت winwin - winwin.com",
@@ -1588,22 +1604,6 @@
         "content_hash": "53926b74d2516129bb374269a4d4482cc3d89fb63b2139590e890aa7ffd6f9f1",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 5209,
-        "title": "تقترب من مليار جنيه إسترليني.. أغلى تشكيلة في الدوري الإنجليزي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxPY01EeDdYNWowYU4wVUNQblloNjRpRXhUcXZEQ2ZsS0QybWlUVlRFVExwaEVTcHRLYlNfbHBFYVJRS1I0dlA4ZVhncjBFRUIxd1hEcVVILTZLTi0yd2lSVzJYLWhzZVJNYlgwY0pMSGJiU3poRmQxNkhBdVJuU3Z3dHJkUUE5WDNjWjhTMk5HeUZueGhsYWh1NThfUWEwcXd6QTlOQVoxa3NQenJRVURVVUEtZmhKN2xqajU3RW15UEdjV2hCaUVKMXZIZkctbllubUVnS3VzTVlUQXJPYWc2WnBZSDdGX01MeURMUXY0Y3Y0REJNVXlUMTdwLW04dzhzXzFXRzBiUDF3Mzh2MlRLVzVEdGN1OVpabDRKYi1JNjRNYkJyZ011SmF0SXM1eFhuU2c1VDhNVTdBNDl0S0xUTzNDeU5CanVUbml0dVgyUUJDMERycmhoYWM2eVVHZkZXUUNYX0lFa2puMmRXUFJPTmtFVjFKNnZ2Tm01N1lGSVM1SmIxUFM5OENWOXNmYURROVJHenVyN19qV2Y1aXVHU3FjWFE3REM3OVpiNGpKbkx1RXVTOGtOemZZb2dGSXBiTV9hY1FjcFNHNnB2ZXlhOFppMm5UM2xjRVlLZkhWelhnTm5QTHpBUF9yRDNnRlhLdzFVdmlFX1JjUkxLaHl1cG1R?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 15:16:00 GMT",
-        "discovered": "2026-09-25T15:20:41.451170+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تقترب من مليار جنيه إسترليني.. أغلى تشكيلة في الدوري الإنجليزي يلاكورة",
-        "player": "",
-        "content_hash": "53926b74d2516129bb374269a4d4482cc3d89fb63b2139590e890aa7ffd6f9f1",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2056,22 +2056,6 @@
         "section": "transfers"
       },
       {
-        "id": 4812,
-        "title": "\"المركزي\" المصري يثبت سعر الفائدة موافقاً التوقعات - العربية",
-        "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxQVmNrdWR1WDZuTF9IbWZJSHppZnlJcFF3c3F1bmsxUlg1bWVoUTF1endENGdhZ0dPb0NYUG85WjQ2NkV2ZEJlZk5zdjdSbjk4RjZPWU5TelJ6U0xsQjg1X002OW5hZGFmOTdPQXRuSzlNT3B5eEtzeEdxZTVSb2RQeTQ4MC1VZ3FvVXBOMUU5SFdkWFBKc2RKd2JseWtsT2FWakFGNTBJMG5UeUJiRXNTaVBlSjJ5U25CYkJUS0FubDRMaFk0aGtYWUNrYW1MTlNFOWNod1p4MGhXVWNhN2hXM2YxczNodGtOUkdxWHF5WE1ET2RwWi1oWXEwUFdzcjFlMVg3Z01FNFI3S3l2WnZFZTVIUDhWNkxvN012QUZmTk93UFpNNTNZaEE5Q0hnS0lHa2dSUlNiRDVQZDBIMTR4ckxFREZfY2s5a2JPZ0RaR2JVUU5OMWhZUW16V0NhSUFEckFKYW1KNDZCQV8wN29nVWZ0ZzRNNFdfaHlLVndDdVlUVURraDkwWnUxSE9VWVNkRkZTTE1WX0tVX3VsOXJrRXI5MnBjTE1wYnZzZ1d0YkjSAbYDQVVfeXFMT1FubWhfV3lLYzBia3lWUnlRZ0Z4c2Y1NHVVODdmclhfN0l6TTl3eTltVW41dEdFclAxN2hXdU40V0kxSDdEd19QMVNSZlBrRGFRWUtXUnVJNGM3WVhaSzZIWDVua2F3b01yc2xDYWpVeExISjAxTEJadWdSa1FXXzNrNTdCdDM0TFVFa3k2WkFVSzNLTHpHRURnaVc1TE4wWVZ3aF9YeFNOclU3VFVzaW1mbC1iVG0tX1V0VVVqbWk3RlpTbTJvcW9lMG9QdGViT2p1bmZJSnU0V2xSY2pBR1JTd3Nwd3RJd0ExM1lfSC04S2w0RHJqYUtQb2swOGpmMkJvMXN6eER3RTFqakI4czZpTmxrNUtLR2ZjTjBUSnN3YktraHNyaTNrT1JTZVVqemZ5MVR2SU1JcnRPV2RTVlZUN2UzS1JmY2tvQ0RENUVfZ3Q0YzJPdmdvR2M2SlU4d2thR0w1bC1TOHJWX05teldUNmw0SEF5TEVlRVVuckY5RmpoMUhyMndhT3k1Tld1UnFNanNVS3VQUGZQMERCV1A5NkpWQ2RISUdYUkpBdy01dnFlSGpn?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Thu, 24 Sep 2026 13:21:00 GMT",
-        "discovered": "2026-09-24T13:51:10.316390+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "\"المركزي\" المصري يثبت سعر الفائدة موافقاً التوقعات العربية",
-        "player": "",
-        "content_hash": "6b19ba2f5871550a36e93119e440ab07341e0e09525777c527fa759d683debb0",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 5164,
         "title": "هدى رؤوف | ما يحتاج ترمب إلى الاهتمام به للتفاوض مع إيران - اندبندنت عربية",
         "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQTGxPYjRROVVnRVY5bUhxYzROT0t5eWM0V1FUaEF2Q2JRQU45QVM3YnRHbjc0VnhDSXhVTm13Q1hfMkdzWG9oWlNrbXJUVG84UWdDcExsckU4OEVQanltekJUMDgxU0k5NGw4NG85cEd3c25lYXc2UkZDLVBIQl9scXRwWDJoZXo3RzM2MEluX0VSaGxpaGJtZE1IaGdJVnBXN29EbVRobENYNGlCckdLWTRQTk5BLXhXc2txX1d4U1UwUWZaQ295N0Y5Sk9URTd3NGNOR0ROTUpTQUtKWEFSTG41OGllb0FJZmNOblVSZk9wUkxHMFUyc25lQ01HMnJvOXJQZ0VQdHdHbXZrcHUzVU82c1B1eTBkQ2ltS1R5MTkyUFVTOHktZ3BYM0pwaGNUaExreU9hdV83N0F5VzJrb3J3Mm9aTjdVdFg3QkRiZTA4N0x1aS16S1Mzc0JSb0VJeEZGOFVOWHQ5dEtOdFhlSk5Cbm1xNEdIQTFUSzlBaVVVZnpkWXNfUUg0NGJUVXNlUU11Ymx4dUpOaURobE5OYnpkWGlVU2Z4VjVBS3hpMWJleWNXX0E?oc=5",
@@ -2198,6 +2182,22 @@
         "summary": "وزراء خارجية دول «اتفاقية مكة» يستعرضون ترتيبات اجتماع عاجل لرؤساء الأركان الشرق الأوسط",
         "player": "",
         "content_hash": "ce0644736ff71f0ebfba25fa1d8e0c2c6e0ae1b5f2e4fbcdf40dd930ea166b1f",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 5315,
+        "title": "رئيسة كوستاريكا تقيل وزير الخارجية بسبب لقائه ترمب من دون إبلاغها - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMivgVBVV95cUxQV21abzV6MktJSE55NDJXMExlWEQ1M0F6VWdUV282LWtBNGVGUm9NcWJtY3FFYTcxam9aeTU0V2w4ZEdPbWZhM2h2LVdYX1JSZHMzTm0wYnJ5VnlVcjBRbzFBZTVhX3pGTG5YMzliaUpsejZpMDhrd2RmaFlCaHdwUmprUGx5ODhGMTBmTEpYbGtCMVhiVWFRV25HM1B2WWJoU2pfTEFJc2ZFNnhCT0loQ0RQZkVrZkpwa0dFd1BVMUhLYVRTZlNhbFZtdkxRcFFVR1NYazE5RWFDQkF0eDZlWnJxSVdpZzAzZURlYVVlTVV1Y1dLaEtoMFFha1hJWHp4ZnhXU09paFg3RkhtUUxLR29BNkNwdWFaUHN4anNma2ZRTGhBdXBKcXFrNE16QmJ2UEJkbVRCTHhlaldlUE1WZjNmWWVpbVdjQ2RZMzZaa0RVVDN4UDloZmxhVjNMOTVVWW1BcFlURVR2NFBuZjE1bWNUZkd5bVdjN1RQWFJMVlVlLUI1RnZrN0QweEtBRWNyV2piajdtZFVxU1RJcXBkemt6a2JHOVlCMWJwTHpXaTN3TzNZV1V3TkhNVTFkWEQ3Y3BBaUl5Y3M4QUNMaXlkWFFaUEV6UmFud1NBLXVLZnlOd2tfODdVTjlVYXplbzZtaUhfcmxoa1hQMU9DU1NmUUd2bXo5NjBiakJFM1FpbEF0dWdUdXNBQjM5Yy1LdnEzOTZTejVBYjMyWmcyV0dzUGRKWEQ5aWRuNGxtSWl6Y2h2bFVWbmdwZVZoV2pwblNxYzlNeTZybmFTRmtwczI4b041Q1V0REJsOVVoMGI3MmFmY2h4VmFNM1d4anZ3cTk2aDNmODhiZXZnMUJZUTliUWE5b3J3OU4yX05hWGQ4Zjh6dmJXdjk2STlmbi00eGF6RnZfZlN4b1htWFN2UkE?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 20:26:14 GMT",
+        "discovered": "2026-09-25T19:40:24.446629+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "رئيسة كوستاريكا تقيل وزير الخارجية بسبب لقائه ترمب من دون إبلاغها الشرق الأوسط",
+        "player": "",
+        "content_hash": "0dc697fbd7fa6e378bd1c8332d18b54899dba8154c871e3cabab4e4c97180bca",
         "sent": 0,
         "section": "middle_east"
       },
