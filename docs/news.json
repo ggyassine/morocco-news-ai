@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T07:41:04.099209+00:00",
+  "updated": "2026-09-25T07:48:29.018227+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -725,6 +725,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 5106,
+        "title": "تقارير: بيان مرتقب من روابط الدوريات الكبرى ضد فيفا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPbHJnRmVCeVgxM3FqRU9KUlh5UFFNdTFYQnBjODhhRFhSVVNRYVFRN1h1dW81ODU1TVBrb1RHaVpCYjExc2R2bU5HQnF3UnoydW5sR2c5YzZwQVpqb2lBYUFrWlZkM2RCVU41UU55VjJDVUZnUENJX2FwV3BIem1jWFNPMGtHWHJwMUx4SVBWVUQ2OTVzTFFKSXRBNVRxbm1JLVpuRHlzbVZMT3hLdmw1THBIaFVOT3pIX2xZLUkzUVJOai1UTktia19kTGl2S1VwSmQ1bHg3OVU2SzJ1anI2WlRGSlFfOF8yUEpuWXdzQUEyblR5ZGxZdng4cURhTE9uM1JVRHBtQ2QtMzNZRnB5MmhmdVJDelk3N2lCU014eTNRX3JCOV9QbFBjalBuV0lITE40WElld2hqQ1huTzBLakIwRzBUXzJyNkV1TzNMUmNYLXZwMDVqSzBydUQzSTR1N3FkRThWZUdySnQ3S1NHUDRXbGlBaE9pQnRlQ1pFYTIxbmlTRTRSM0QyY3V0eUNsT0RyeDBHbzR2aXlnRlVFbnRJbEdYWkV1d3VKazdMckRfdm5uOUs1WmpWVdIBwANBVV95cUxNU0FGTzh5bHk5VGFtSVFVc253U1g3dU9TeF9fSlZpRG5vaWlLbUt3dGs3UGNMTUQwdjkyZXpuN3pXcFo0SFdnZzhHdXJGR1pDa0pRYUQzYngxZFZKRVBXUU5oSUFzWUxKUFR4N3RWandXRW9WTGtRbnJLanNHMGdvWmFGSDNvVmp3Y29pVy1HTU4zYlNIYjhQejhTNE5HMUlCYUt6Wjl1M3lCTnFTSVFTTWp3UjQ5cWNvR0RhRERoVkM2UGNDMW5aOHlkOElnX3dVQWkyT0pQMVV5Y1VwRFBrQkhnZVBtSTdwUjdPd3NKLTVpc3lqTFJWbFl4cUx3TFc3eWxSTG9UTFRoVnhEM19nNDRmWnRnM3VSSDg4YndBUk1LOXYtUEFOd1lsVmhiaUtwd19vWkZCbGFaWkdpa3hCTHgyOUk2cjVvY3I2TGIzeU1CZ1R6Z19sWjg1OVhtSy1fdjRWM3BOWjlreUlrWnBtRXVwWGRNc19zbXY2Wjk5VENtQTFPYjlSMUhiMzRhQVFOSEgyQjd4bUpXdU0ydzAyZTJ6MTlOcEswUnU1Y1RweGJmci1UdlFCaExla280WHk3?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 07:41:00 GMT",
+        "discovered": "2026-09-25T07:48:15.837909+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تقارير: بيان مرتقب من روابط الدوريات الكبرى ضد فيفا يلاكورة",
+        "player": "",
+        "content_hash": "995bc3fc1ed170ab425c692902e8ce977e25c3d19b07ca917a81e29c80e0117a",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5104,
         "title": "مواعيد مباريات اليوم الجمعة.. مصر وأنجولا في تصفيات أمم أفريقيا.. والأهلي والزمالك في السوبر جلوب - يلاكورة",
@@ -1506,22 +1522,6 @@
         "summary": "كرة يد – السبكي: هذا هدف الزمالك المنطقي في كأس العالم للأندية FilGoal",
         "player": "",
         "content_hash": "615121ba247d3ea2bf200ea021427cd8e2ce8057e340503515b57b0a86da2670",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4955,
-        "title": "تغطية حية ومباشرة لمباراة البرتغال وويلز - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQREdHRVUydzl3TXZBYTlmWTl6SnRDeHBoX2ttaU1VeG1iU1VXdnNibGtuaXA1QzNoNXBVckVJdzNJd0MtWDJLTUpYeDJZdUdESjNkWEhRQmxqMnl6NXFXVkRzZmx3WmMzNVV2T0tIR013bHM5UjcyUG1qNFBGbWctNVhCSkJCRmFoWHM2VGpmN2F1N1psUDJQdThZdmo0blVoVFpPNC1Wbjg2dlc5VnNZOXBJN09uUWZveDB2dTkyU0xBbWxJc0czY1FxS25EeGlzUUVWendEYWpVX0hJaWJyU0ZRbWFiOTJELUp6VUxUM2hfc2JaSmo1Y010WDdLcHRtcEN1QjNlYUlUdVRvRmlfVFJiRFJzU2cwUVB2SVB5OTBLeElCT1JpV18yOHRlWHg2Nms2elR4MURFZXluTTBhN2x6VUphRlFyQkNUR29vRi1VcThuVHcwYnVpMHEyb0tOWUlEQTN4LVMzNjlPQVoyaGpIZ0g4Yk1mYjhZcjZGdmJaWWdtM0tNV0syYmdFRGdSdW1Jb3IzMmo1Sm9nbHdsdkU1Mjd3MVdYNmtqajNSOWlQbVBZb3U5RkVrLUFONkJWVFJxLUQwTUZIanpUNzJnVWYxN2NoaE5FdnpycUdXcHN1akt0SXhwWHVfZzdGREE?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 19:51:08 GMT",
-        "discovered": "2026-09-24T20:18:45.940415+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تغطية حية ومباشرة لمباراة البرتغال وويلز يلاكورة",
-        "player": "",
-        "content_hash": "53e14172d23199192048dac91ace86cfb5fbc5d6803894f0ec655d0f6a084472",
         "sent": 0,
         "section": "sports"
       }
