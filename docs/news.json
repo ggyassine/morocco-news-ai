@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T11:58:26.324694+00:00",
+  "updated": "2026-09-25T12:18:01.597980+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -757,6 +757,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 5159,
+        "title": "إعادة مباراة في كأس إنجلترا بسبب خطأ تحكيمي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNb1RtYm03N1VpWFUzRENUVk4wS1JMSWtBMFdicUU4anQteXU1ZVJPUmJsX1dlNnpSVlUzZ1lyRDJUQlcwVWhleVg2T3VWeVB4ZUU0anhCRnE4elhMaGJlNGFITWhPVEZxdEloTk85MGdFUXRSRi1VZl9lZUcwdlpxbm5PMHlDMFZaQWxISjZYX2NLZXRVM2l4dmVQLTN0VG8zZG93bzRvVGJUcXRQUHNXRFlJeENlNl9sRE1xazlVLUhLS0lRRHRnWmhyaWp3TGNnNnFVN1lWdGVaSE9FZDhVNnE2RmozUDExbWcyQkNsRVFvZEJYcG9DajBkTS02eUY1ekRuNFdjd09WOXJaNmIzTmxOYlVvZ1hFWTdLNGlITHE3VWR0bXEyUWI1WGw4T25jS2ZVVF9keUpJX1M0cXdqTm1sbl9GekNJaXZNazhjZkZOM2M1a2xkQTZ5ZnV5R0V6ekdOQm5xZW1RR3F4ZHJUOGZkYmdJckkzYVA40gGAA0FVX3lxTE93cWZxd3owNUpTdjFJNmxtYkt4UW9zbVBfYmJ0cC1WVTYxcFF0SFhLeEc5Mll6N3F1aXExQUp2X05YLVdpUmJ1WUVqeWxVSVNpbDZxZ2xnUm9FT0Y4T3M3bk8welBRVThNNUZ5RnJwZkN3YkV5Y29hNF9CWWVmQU5WVDlUNXB5YWNrNHEwbFQ0UUxlU3ZBdVJBbHo4NTZRVTNWVHVlNFk3bEowWkVIZDMyTndMTV9RVHg5RkRManRuVzdzMEhjRnVLUHNfaW1KRjQ4X2dJbWV4WG9BTTBHMHZVUVZ4QW00M3hzbnV1XzB6UlZoYUxQcmxqdXkxaTczNTg1djZ5eUI5dkRVR3ZTTEtCbTFTeFM0b0k3M1BpTUxLUUlqNmxuMTFsWktRTGM4TVEzd25odFh3Mm54RmpPMl9ZVWpYazV0bU5Ob0t3bmJ3cUZtaV9XeVhvaFZTYXBPYUJzcVdNNVNZUGNFRzhZR3NtMnIydjl2M3BaZE5OVEc3ag?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 12:03:00 GMT",
+        "discovered": "2026-09-25T12:17:40.153615+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "إعادة مباراة في كأس إنجلترا بسبب خطأ تحكيمي FilGoal",
+        "player": "حكيمي",
+        "content_hash": "e187f56c381707befd1b332ef0accff89979f10f281eef256be2b00bac79d27a",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5153,
         "title": "لم يلعب دقيقة.. كأس العالم 2026 يمنح بيكهام 44 مليون يورو - يلاكورة",
@@ -1538,22 +1554,6 @@
         "summary": "قمم ونهائيات ومنافسات حاسمة.. أبرز الأحداث الرياضية في الأسبوع المقبل الجزيرة نت",
         "player": "رياض",
         "content_hash": "4f4104221a9aa4cde2bed2546544c868f073a36d4f87e400695b249d106783c4",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5055,
-        "title": "خليجي27.. الإمارات تفتتح مشوارها بفوز عريض على اليمن - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOX0xhblU4V0ZmMVN6eHlfOXpvZTRnRklpZFZWMEtOd2tSdFk5UDNrNUEzYU40LWRMd0dqbVhNY01xb3FILWljN0FpZE1Vc0VzX180QVBUMDJ1Q0RZakdXbWI2NVR3b0Ixa0ZYVTh1cUE1TFpLdEVDQVd5aWdxX1l5d1JvaU9QcWdQLW11ZUJsUFJkWWwyZDJORVc5VE9GYllHMXJwM3RyOTZjR0JvcHhfaVJadkZDcEFaTC13TV9rNUVPN0JJT2ZPYmUxMXllQ1A3T1BLeV9zZVkzRW1fc3lvUTlGdF9xcUNwLXhpSThQcDBWS09yTnZhaVR2UXpvd1RzN3lsZUkydnhicFlMVmh3Y0RLWnpXMC1OaklncTcxay13WG0taFBMX1gyQXFoVTc3clU1U1BtM1BJenRGV2tFdVZLelAzS2JBd19kS3dxRUpNS21URlF1NWtGYXVmWXc4dG16aUlkR09kNHNmcU1sOFZPdC1zX01VX0ZZaGtQVG1tZFVFakNXN3I1dURTTmpnTnA0RUYwWXNfQXFZdGdjdDhwZ18zUGM?oc=5",
-        "source": "سكاي نيوز عربية رياضة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 21:00:03 GMT",
-        "discovered": "2026-09-25T01:09:43.517095+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الإمارات تفتتح مشوارها بفوز عريض على اليمن سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "52db9a988c15312d9451b20129dfd4487f79421d5bc8b77c547da3458a65e8cb",
         "sent": 0,
         "section": "sports"
       }
