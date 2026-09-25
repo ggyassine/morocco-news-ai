@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T07:58:30.057330+00:00",
+  "updated": "2026-09-25T08:15:11.036824+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -372,6 +372,22 @@
         "section": "morocco"
       },
       {
+        "id": 5109,
+        "title": "الصحراء المغربية.. بوليفيا مستعدة لفتح مكتب تجاري بالداخلة - SNRTnews",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sUC1lc3kyU3M2WnBLQzZBWC02SVBpNUpqQ2RsSkU3aWNnMENDY04zTnFLSUtIWjJSUmxtbmZLVTRoM1pVMWFOd2hxdw?oc=5",
+        "source": "SNRTnews عربي",
+        "trust": "A",
+        "published": "Thu, 24 Sep 2026 09:07:22 GMT",
+        "discovered": "2026-09-25T08:14:41.109945+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الصحراء المغربية.. بوليفيا مستعدة لفتح مكتب تجاري بالداخلة SNRTnews",
+        "player": "",
+        "content_hash": "aaafb134295fa3a9e3338a0ace1a52d31d821885594f6939c595b64095418b51",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
         "id": 4742,
         "title": "انتخاب أعضاء مجلس النواب.. وزير الداخلية يكشف عن النتائج - SNRTnews",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yMEVuVEcycTg0aXM5bE1DNUdwcjdoZzZxQUlsV3U4cmk2dm1ab00xb2c5b1RUZVZkYU9iVHFJUGd2ZkVsdndUSGJfUQ?oc=5",
@@ -706,9 +722,41 @@
         "content_hash": "9688410f2e50fc6921eadf89c783b39331ef9bdff0e81807eeb84e3ca9b400c5",
         "sent": 0,
         "section": "morocco"
+      },
+      {
+        "id": 5030,
+        "title": "القضاء الفرنسي يحيل أشرف حكيمي إلى المحاكمة بتهمة الاغتصاب - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPTHlGdjdBMTlJX2R2blRhNkJHVVlhRktPTmMyNHRjZHJCQmtwTkZ4WUxmM3c2TXlMdlpHelh5UDBfRjJiOGIwVGFEODl2S3FBanROeG4tbFdYXzNsZXlkUFdRRFdhTXo1bmJPckRpcUotcHBGanhZMEJxN01mSG56aUY5UWxVSUlfLUdDb3BKREV5SnlnTjI0RFJNMkRjb0V2TVZkZ2lVaHFQOWI1RlRoZzNZeEtwaFI0NENUSzZvMVpaUmU5aE8yV215d3JqOU5aTGVIdUpqakFqZlV2VG0tUGduNTV6Rmwyb3gtdlMtQnhYN01PWHpVTWdndlRscjNLT2tPMzBvbmpxakdwX284SWJodGoxbk9aRTRXV2xrTVliZTdUNzJRaGN2SzN3dlpOcU9yUFV1QU1OeEk5SWhVcnBxdmhmS2JrM2R5ZWxCU1FnNUtnczVB?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 13:16:19 GMT",
+        "discovered": "2026-09-24T23:00:01.813265+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "القضاء الفرنسي يحيل أشرف حكيمي إلى المحاكمة بتهمة الاغتصاب Hespress",
+        "player": "أشرف حكيمي",
+        "content_hash": "36a1cbd5a24795755efa41dec376f4b7c0498fc3defc48bc846daa4efa728fa3",
+        "sent": 0,
+        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 5113,
+        "title": "مصدر مقرب من حسام حسن: المدرب لم يقصد التقليل من الشناوي.. ولم يشكك في إصابته - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxOOTNxclBFOXlxeFdJU3NXR2MxUlNvekpaaUk5VXFIMW5FczQ4c2hmYkNfV01hdWhSdnNrOTdfMFkxaDluaEc5akdMdHQzU3dZZWl0djNmNDdpUjVjcTFSYWxyN3hDNFhJWlEyMUgxSjdyb0Q3SUsyMDlVQjRWekd2SGxyYTVrajRtR2k3VExHaVBYMnREYXRQdzVqWkZVS1hTemRLYS13Yk9qNXdmbzhJOFlLUHktY3NrRHRuUVVMZ2NtRFRzOGQwU2lyNFJYbUVmZHA1SzVRSzVpNGVhRkZTbkZkMktSNVNFZVlQS2dEbmtHR0tVQlJ5RUk0RExWTjNtWFZsSkU0c21PUmJiOElJaTUyaFZSUzF0bDNFRnJiR1lld2tDWkdaUjZsQUxUaGtxbDFhZS1ZdThsc0prUDhfRGtiMlp1V2xteWo3NXlzRW4wOFR3NHpkcTk5RXQ2dDlWZUI3WHFsb3JhMGVNZk9fdWFQSEVjYk9qMWhwc01tdFYwLTNuVERZRlcxWTBiNkhScHk1SEdpaTdrOW5NUXBSZmJoeE9hTnNFNEdHUWdzeVNUaGhtdlhMMDJ0Q0hpNUgybHV5VEw3M2RqRC12aE84SzliVHZaRDlhaDhCOUlDanlWcTMyV2hRSEVtWXlwMkVLclBQakt0ZmRoakZXMU5veUNfX0FXY0pFdzV1SEttdVRudU5Hd2ktZGF2NzZiVEk4UXMwZVBuWkxFRktsWWpjVTFwcmFWN0dfOGVJazJuRzU5SEZw0gHKBEFVX3lxTE5OOW14am1ELUduUmZicHhsb2UwbzZzaWIxUzZTaDVMV2E0RVNoVTRlWEVsWW4zSktCYnVUQW40d214YVZzZ0tDc3E0d1RGQXdZVUE1S1NTV3VCZHcwSHRVaDY4VjI4NFZQU002a2FBbDl3Q2ctbGNJSXYwQXYtSU44clM4WUstZURRbVQwemY2OUI3c1dhd1YxaUh0Y0t3elFSeGRJZk41UC1MMmszMVUyTmxNQlVwZFVmdUNqcS0wZGFsR2tqSmd3ejRzUGR0Um1tQ3JMQmd4UlRMcWthS1RiRWdwc053U2xsclJmdFNKNXE2TkMwanhXYlBuel9FdHVjSExCeXAzTjdaT0ZDZnk3NjE0QS1ZZTYxT29QMHZrT0dGdUI3b1FwQmJLdElodVlPY3YwRXhRMHd5X0YyRXlmUkNGZEMyeENEWE1qZkp0ejZ3NjVhTGtsZHhMZUx5RVliM3owWDdXRjQ0b1lYeHcyZW82Q1Z0emp6WDZsRGIxVmo2cGZlVDdKcDd0WFU1Nl9DVnpjckRYTWxveVFuZ2NaeFA5bGNoSi1HSGQ0UXRmV3FoWTRsU1VzVUR2Q1dmcEhSQlZHTEFROTdhMnliOTNBNkZtaTB3eE9kRnVncnVlVWFIMkE0M0dVZlFPTzhhdDd2UkxnbldhRUxobk52MTRkbDRWcFowSklmYkJQNm1wWnpxb2MxdVMyakxVM3UyN0hEMUhxSWZmUkVXcEl3TXl0a3hsN1EyRk92d29CaEdkOElBdGhPTzNKVnc?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 07:59:00 GMT",
+        "discovered": "2026-09-25T08:14:55.303615+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مصدر مقرب من حسام حسن: المدرب لم يقصد التقليل من الشناوي.. ولم يشكك في إصابته FilGoal",
+        "player": "",
+        "content_hash": "b737c6eba6afecce8263119e6904752f73f67d847a5e6ecda17b7dfdcfa27e85",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5107,
         "title": "تقارير: مهاجم أنجولا خارج حسابات مباراة مصر - يلاكورة",
@@ -1492,22 +1540,6 @@
         "content_hash": "ccb29fb916074ce6ff7516e25685d377012c5419699402a1d7257e81f232a17d",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 4951,
-        "title": "بفضل تشافي.. نجما دوري روشن يكتبان تاريخًا جديدًا في منتخب هولندا - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxPN3loMHF0N2FBLUxvc0tOSU1tcmxlOVVFWjRCU2s5VEltVGlOX3RROGd3ZGl4VjljRWhQNGVvMkQ0NU5QUHlQTVVYajJfZzVqTXNHSEt2NTM3T0dCRE5sUC1GWFE1T0xDaHkzRWxvLVc5enJLX1QxQTljMFhsTkJQRkNvemQzaHpmbHQtRkRDN01jUkVMdUlVelMxbTYwaEplVGY1OHNmdGk1c2x5eEx3aFk5bGU0NzZ2alRNdlpwWkNlR0QyelB0STRxY09TRkdXckxwOWJycjJaTFpDbzJVclM2VGYzMkE0VDVBNUliYmZfZml2Ml92SWpzdFlnUzJiZWtQQ1RVdm1mWXFLWlVYdXk3d2lDZmFsWFlTSi1kcHctMHZMOXUySExKSWpJOHg5U3JIMXMyRjFySzVnOVcxcGo5VVdLa1NoMnM4TlAyLVNfSmlQcnNfU00tWHdJREplNWRhc191dmV5RkdvZ3FPZHhuU3A1dldrdmVWZGRROGtOVlBlaUlNeXlmZDI0bndkQ1pnN2lMdTNLYjJod2xDT3dMQ2Z6VnhYUlpXQnMteU5SZE5ldFhLZWJoaHZrdENLRTJSZWRwNllxY1R6SnNmcE1oaHhabmFkMDFTblUwVHl4bXIyUGZzYzZPejRXdm9hdTVmVDNBdkVkajhNVU9rWlVxSGFGeVRKTE8yaENsTjFELU1KOU1iQU0zZ04yaGtSUXdiQWg3REtrWk1CNVVVSFR4QUdzcm5iMlVLV2JUQi1la1J4aWJvSzEtNzMtR2xsLUx1SWs0amFJTGswUEFDaXFPYXd5Y0VZ?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 20:00:56 GMT",
-        "discovered": "2026-09-24T20:18:40.960552+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بفضل تشافي.. نجما دوري روشن يكتبان تاريخًا جديدًا في منتخب هولندا Kooora",
-        "player": "",
-        "content_hash": "bc9117e5a496363bc3f5e095e698a0f8bf668ec3c2d9351461b33442087f357a",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2120,22 +2152,6 @@
         "section": "transfers"
       },
       {
-        "id": 4613,
-        "title": "ريندرز: الانتقال للدوري السعودي يؤمن مستقبل عائلتي لأجيال قادمة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oanAyNlIwVHlGSjdtekZHbkNRUlJPNlRBN3I4ZlhGZTlfY1QtY29oUGVGN0kxeHFpUFhvTTRrQlRxSVRNUW5LWGQtQ3d0VFFB0gGSBEFVX3lxTFBkM3ZEREdHRnhlLVVVbklHcUlXTFZBR2xmMXZLb2RRYjRSb3dTNWVYQUpCRFRRR3RNU2RFYm5CSWZYNEEyRy13S1JOZTBSTXhGTVRpcEhrWlgzNGQ3VmZGeHZCa211d3lNVkxJYXJVcEJSbXdMRTUxb2VlQW04MjNVd1ZqeXBOd3B2OEJRSXowZ2lhRTJTNGJtOTZCV3daV3RNTXJfZDVpMGpkU19RVV9zWWtuTXNCeHRPN1lvdzM5YUJ6eGU0M2xKQWJ6VUxBbFFpUHVza0Z3cWxZYW81ak9taFd1eUlQLW9wTm1URVROZkF3V3hzUlpzWW1MVDMyX0I1dnZjNGxzaFBTM0oyRVdDb0Fnd08xbzVFOXpObTUtRTJRN0hEOVhkRlJtamNJVFpuRm5RVW10RjdJODlES0ZQY0FjX1RSVmdfUXoxX1JrSmc0Z1NaWk1oWkc3SUF5NGlQc3FCWkFnZWR1LUwzYjFWNVhnVjE5Q09VcW5TT3FjTTE0T3NTZW9nd1dfQ3dkWWlDVjU1eW5GTTRGOEFKNzlGMmtHZnZTU0xwVlZaM2x1d084Wng5RVk5MVU5NTBJdXZCVlhfNjRqdkYxRkNHV0V6X3gxV1BMT1BlbkNnZVczUWtHc3I3VkRCaHBqd1VUSThwOG9LbEVjd1RKU0VNRUFKLTRKeFFEcXhxTHMzeXc2V2hn?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 14:59:00 GMT",
-        "discovered": "2026-09-23T21:35:12.689292+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "ريندرز: الانتقال للدوري السعودي يؤمن مستقبل عائلتي لأجيال قادمة FilGoal",
-        "player": "",
-        "content_hash": "2e99f93b3d3435689ae81147b3ac55d761a426190ade10ed49c40a423b24ab2a",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 5070,
         "title": "صفقة بنك مصر الإمارات وعشرات الأسئلة الشائكة - العربي الجديد",
         "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNdG5hcGM4Y2hSbjJFR2k5c19CR240bHNGeHFWajdXODJZejRkZlBqUzFENlBodVB5X0xmb3NJUF82THEtNDE5Vy1UaHczdFBnS0dOMHBvbkNiU29sMEhHVTg4bjZXelkwdVlDSzY2VXVGWDQwSDE4emc4TTZSS09RV0ZQUWZHclBiaDJRQ3pTSWtGdlhlcjhtLWcwNDl0alBUWi1WWEc2OVRmYTZIMGlPUldVb09XNFZaeU1RbnlXNzVrMEQ2YnM3WXFwcVFnUkdsN3ViUTU4WERhZXY4RWxLc1RUMjE5cGh3S01PMmdtR3BuNXU4YnlLeE5zMFJFZURlQTZGUWxxY1pnR0k2NFktTER5NTRWdmcyT3hva1h2aVNMZXE2cF92ZWtlUTlVSHZLbkJaUXpjX1VhMlY5UHppU2piOFNkRG5fUVpxVXBpLUdUalBZVXBvMHNNVno3amtjYVd6UlMyd2dCZUdfUEt3dzNnQUlvRzJfSm5wZndWQTdSZ9IBhwNBVV95cUxQNXR2Ujc0M2stcWM1X3JEbjVKSUJ4aXcwclNqVG5zQ0p3bGJ3aHl2WS1ZV2hBckZsenJNOHRsdU5WR1h6VWtlMldRUTJQbzNLb29ZZVRHbzg0U0hoRVR0RFJ1djlpNlBycUJVRndoLVBvaXRQS0x0X1pHa2xQX0pEWUktX2xkaW9WX3R2V2R4N0JXX19fV1lmTjhSUkU4UTlIVFFXOEk3YWR2TmNiT1Ewa1l5QUpGNnNsSllGYW9fbmtncnVEbFVrWDBLQXU2VVNoRDdXcEtyZ1ZpaGE4UlRzZmkzeWVqd0lEWDJXNjVhZzNOUENOQnJtN3N2RzZqUThkU1JLdUhSZldmeTQ4b1kyUU1CUUdZUXZNRW9fZi1OWXFIQ094RnIybnlwZDZwaDlUUGRTRzEyUTNMSUNaanpZc1ZKd2tXNVVKalRnanlOb0hnamwtZkIyTkN6ZjRLbDJXdWROZGtRZ2EzNE53cU83c2hBN0hCRjIyZFhjbWhIOHZEU2VQcFl3?oc=5",
@@ -2198,22 +2214,6 @@
         "summary": "أزياء ميلانو وترمب والانتخابات.. لماذا غابت ميلوني عن الجمعية العامة؟ الجزيرة نت",
         "player": "",
         "content_hash": "8bb676c362234a9324a117478d51541fdf2adae7975bd94e52fd13a91a074325",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 4614,
-        "title": "جدل واسع في الأوساط القيادية الفلسطينية حول واقعية إجراء الانتخابات التشريعية - الشرق للأخبار",
-        "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxQdzRobUZHUFpmUU5GdERFRDN0eGg0SG9jQnNlMEtEYVg3RkNHZmlYZVNMa3hKVWlwTWZsbmt3bGNJQTF4NVE5elBvTi1FNk1TSEszQm95OUZxQ1ZyS0tvTzR6TERySHNHZ2RHdThWdUJkLU1zOU1UZmEwenpybTdHanRKNlV3WmJHY1ItZmQyempiSElkWFpWRTY1ODNCeW5YbC1sVmVUblFPRTRHdy1Zb3JvRkp5bW92a3pJSXp4OVhCQU9JS1dDb25wT0w0TEpXbnZjOTRaeEdVZ1hDTDF2NUowVHNLNGJ5QkpNQmZrZVlaNzl5NGhmZ3hJdHMzeEVsRG5HR3YwOW5fZG9HZkJyUC1aLTBna2pvcS1yN0FQMGhjN3RzY3FXNy1JOHY3c2Y4UTJaelgzMUFNczZiSlBiMmhlOHZqajd3amtTanlHTmZwN0lfMHh1Tm8tY2NLZ3d4UGx0OTd2Nkc1bk9ZM2Uzb3BJZVM1MDl5WXZ4VVRzTi1fQ1BMSGJqTzJ0dENyN2FYanRfeW9ub1R5NXNjOWVURkxENjNTU3kxak9hOHptcXFCenozZnFVM0dHMGc0c3g0M21QZTYyeTZFTmVYN1VLZnRucVZOb0gxRFVHc3ZscF9CR2FVeW1aYnBsSzRyQkNGNlAzdkFGZUwybnZoUHc?oc=5",
-        "source": "الشرق للأخبار",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 17:02:25 GMT",
-        "discovered": "2026-09-23T21:35:23.201867+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "جدل واسع في الأوساط القيادية الفلسطينية حول واقعية إجراء الانتخابات التشريعية الشرق للأخبار",
-        "player": "",
-        "content_hash": "4cb390fdf711613e7a1e1e4c0745fcf0edf702734723d9e179f51f04426da872",
         "sent": 0,
         "section": "middle_east"
       },
