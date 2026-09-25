@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-25T11:21:01.592913+00:00",
+  "updated": "2026-09-25T11:35:24.257205+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 5151,
+        "title": "مفتي السعودية يحث على \"الرباط والجهاد\" ضد جماعة أنصار الله، وإيران تقول إنه لا شأن لها بما يفعله الحوثيون - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKUDNMX0h0T2MyOXBjaUVuRkxOSGtvUXI1dlg2YVJfZUdrTU55MUs2LTBrbVZZRjgya3lzcHVSdnpycjZOVWNtcUhxSFIzRi1FNVZSa0NjTDlVbzBnYWfSAWNBVV95cUxQWGI4VVlFUm5McEFfblg4Y2diOTFzUVktTDh6dFEyWndvWXF1RTM1cW9uN0NDTEUxVFN2VlA1WUEwMjdJVnlMY05yRDZxUUhEdmZGR0ZFYkVLMVY3RmdSZ0pzNHM?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Fri, 25 Sep 2026 10:00:53 GMT",
+        "discovered": "2026-09-25T11:35:20.849644+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "مفتي السعودية يحث على \"الرباط والجهاد\" ضد جماعة أنصار الله، وإيران تقول إنه لا شأن لها بما يفعله الحوثيون BBC",
+        "player": "",
+        "content_hash": "e782a4f76315f3c3bfe02a730710f2585caebeac05cf87efbb24e88cbf5fdd31",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 5144,
         "title": "مفتي السعودية يحث على \"الرباط والجهاد\" ضد جماعة أنصار الله، وإيران تقول إنه لا شأن لها بما يفعله الحوثيون - BBC",
@@ -757,6 +773,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 5149,
+        "title": "عودة في 20 دقيقة.. كوراساو تصعق كوستاريكا بـ 4 أهداف في دوري أمم كونكاكاف - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxNMzZPNXoydlRLSW1TVVNCWVFybG9XRC12ZW9NdDlnUUFseUJweUVWMUpiX3I0UXNfb1RadkZZR21jZVJ6WXE2d1E2eDd4X2JOVTFSU1BnZ01NaFJyWXU1M1BsSnM1OWdVeWRjdGJlc1BDVl9FVzNZMWplQ3ZBTXViRmpicV9rLUhHSU13d2Yxb3RaRXFyOWw2THREZWRNT3MzM25pS0t1dmhpdEhwMjJGQWVPNlZScFJ6MDh6LUxiNFBiakxuM1k3ZU9TclI0blJXUjlVWUxRUmxCWTNaM2R2RXZVUjh0ZkZGcF9mVERYa3JGLVpBdXl0VWM2aDVUeWFLakd1bTY1SmtWUC1oeGFGQUZFd21NSVdtSkRIOElzeHJhSFlWSTl3M24tVnB1Y3l6b0M3bjF0LWFaR0dCUkNaQTBPcUVzbjIycHpnSFhqOEo2ekZFZXNPMFNkRU9yT09WaVV5UVhGU3BUVm12UGwtNTFIZ2I0OXBVSlRwMVpHTUNtX1N0UDV2NE1aRjlGRXVtYVVvclFESTNEazJpTUstRXpZM19YVmZrb191UzRVaHpvTVNJWHJrVnNleDRsMEFpVEdObnhEbEdqbFREdmZHUzhZTGFzTi1hNmhoaFNib24zV3VHVGxqeng5M2tJSURBUGkyaHFaTVBEVnhwcVBuMzUwVzFIS1ZpX2dWSEZHeWF2LXluanE4U3pLLUFVbnPSAaQEQVVfeXFMUEZDNjFSS2M5czVnX3ZtZmstQ0pRdWJXeFFqSVh0U0M0R0pJQnJYTjVkTGcxZVZfdzdLVTItdGVMa1VOMnVzdVBNYUt1S25lNlFmR1ZUN0VFTWk4MjZSYTFIVl9RVXMxTGFtUVM3X0w2S3dTZEw0XzhLZW9JbHMxRUoydUFvdV82a2VmajlTZnhPRTFrWG5lTVc4bXFRX3VRemdyTnhobGFRVlhjUkNpTzE4bHBNTFhLWjdwcWYtVFA3WjJRNldZU1dFTGNqZWpCb1NjUHVGM2dRYUhiSzRCXzVYQXlYblVCaE9kTHo5QlQwQW5PVy1ZUzA4aC0xQ2pva0dwN0hUWHZOSGcxWWhwcXZ0T1pnMlVMN0FlNEdXb1c3cFh2aVdCdWpBb2tMWDFwdDhxWFRtek9va1pyU1pRQ3hzeG9jcnFZQmNpYzE3MGtVNEtEc3BUQzI4NWFWeFQzdGppb0NsZ0IwQUVjZVFqR2ViU25LV2p5Z2V6d0VOdUtDaTZIejFpYjNCdGdwSTlvaGs1ZDN1dDh1YjFCRW13X1NUZkVVTG5ienhhMDRJNW9LYThaaG81VUlBQTZNanc3QUNLYU4zWEF3S0w0VVM0QnNFX3VMeXlnTWZ1a01lbXIxbzRibXprVEFtSkIxdFZVbEVvbTR5TFFhWXZfRUpldkY2QTREU2xUOTgxTm9nQUhxVnVSQkdpOVJKSm8zMEV6SVNubWQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 11:31:00 GMT",
+        "discovered": "2026-09-25T11:35:08.957727+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "عودة في 20 دقيقة.. كوراساو تصعق كوستاريكا بـ 4 أهداف في دوري أمم كونكاكاف FilGoal",
+        "player": "",
+        "content_hash": "f778721754f2580bc6dd74d9537ffa11108892a528511a9bf4a858029d8acc10",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5148,
+        "title": "بقيادة أمين عمر.. طاقم تحكيم مصري لمباراة زيمبابوي والكونغو الديمقراطية بتصفيات إفريقيا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMisAVBVV95cUxOeFlyMVdmcFM5TjBYM2tKNXREc3E3dGY1NnVzMWlpZ24xcmRaU1hobVYyNkg3U3FMYW1FTlp5ZHFzUW5LMHozVzJLU2lYMmZHdVJiaXBWMDRNSG5BRUN3OWRGNUpEd0IzV0xfMDVGdzlqSGI4MVFRYzFnbVo1UHFDdXdYS1RmaEZicFVXMW9MTUs0UXM0dl8zTnh0WlZHMGRBNnhqUnc2QjM1dG9WQk5uR0ZTX2dnTExyemxtWU5iZVRuQkR1T0M0ajh2S3FaZkxYTFd1REJFY09ad2YtX2JqNndReE10VGdOcG84ZHdwOEF0cjRhTmd0S2R2cEVzejMzV1pfaS1fbWl3ZlBlZXV0a1RRRlFvcXJTSmVKZ0ZNR29KSk9HQzJCVGRWLTVZb2NfYnNZeGE0dUtsR3B2VFMxVHVOZzRTVmRMZ19RXzdPR0JtdFpKSzJUY3FXelNlcl81dl9taVhtM2xSNnF4LXdEQUczOXB3UjdxdEdpekJneUlUZDl3aHRsMkhiaWpBWVBMbTJNUGEwZTVISjM5Y0FsLWhtdG5FenpUTXNpVXRLSlN6eFAyMVF2LUo5LWEweG45S0w4a1poV2ZSMk1yS1h0dTZOclBZTEpHMzBQZVF4THVkZjZDRzdVZDA1TlY4VjlfTFctTnZ3eldEWlJTYXhldnJaTDlJb00yU29BMTJydkRIaFQwajZ1MFpSdXZzcWh4WmVrMkpfZlpPV2JOVlN4VTU1WUxuOVNucU5pWkxBNTF3NXVsT2I5VkJzYjk3U3h5MnVzbHdMR0d3SGpyTVFycXFmZzFiT25GYVFYRzRZNkFEbVFFREV1ZkdqZjdrYUgzQzFmd0NkanZNczlVM1FxRnFlNEtEVmoyR3FiR2JtQ1lVaHdHTUQxYUtVVFRid0Nr0gG2BUFVX3lxTE9HajRnam1pcWRSYkJzMHRUdFUzZ3hqdlVIV2VlTXpvdDdnRk1pMnpzZTFnOE5tOWVNU3FURGxLVFktUmVMU0tpaExraDluYko3OHpGZno2TGJldG41Ql94Z0hQTllzMW03TzNZNzlLVHZqNmJZVDFPSXM3LWtGTURNVmJJZDctOVk5WkZ1RmFUNFNDTFFTT25LXzVlRTVkMUZsbnVTYlpzYkhpVjlGQkZKQ0d0ZDh6N1BQN25HY1V2d0NCWjVPYlV5YnMzU2VhTVNLNDdRT2xzOURYZXU3T0pseTlwd2U1QmtoMkF6a2pxOUFGNWJJdnNKZ2kyMDNvdGxWWWZ4RzdFV2JtVkhwc19PRWk0X0NZd05VUHNIa2xPaGZNRFNHejZTREJpdlFoOFNHT3hMWDdBS1RLUFFkRzM3Z3VEcExLUmxvVmExLXg5anZvZW9rSnk1VUcxU2JlYzhqTWRLSE5QU09aUkJ3QmFfRmt6VFY5MFNXc1ZLN2gzYTFPd3BLVFUwbVoycHgxMkliVTdoenh4NzliNDBFeHZ1NWlEZVNHUlZIcXVhUERqNnJubVg1SktFQUptbk1oQkYtSWQ1WlpxR05UWE81Y1lRSGdNOXJFWjEtQml0MVoxTWJjOTQ1cWFzT0QzTWxITTdoWkxaVk5GYXNxQ2E3azF0T0pSTEdoRDRQdXlzNi01UGkwRlg1azg0TW5vTlVrSFBwcjRfZ0Y2WTBqaU94NzllbWJuTjE4Vm01bjNJeXBXMDRpRmhWVm0teFByZzBXblVBM3IwUXFZdjlWMzZYUE0zZldtYzZxaGdoREY5VzlHU0x3MXVXWjFmTUlMcGR4WlVYbVMtVjU1X3Fud2pqVnhYOUI2TU9UX3lLeWZsMjJwX3ZKMERjdGhQS2k4SXJrSlJqSW5obGc?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 11:27:00 GMT",
+        "discovered": "2026-09-25T11:35:08.944062+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بقيادة أمين عمر.. طاقم تحكيم مصري لمباراة زيمبابوي والكونغو الديمقراطية بتصفيات إفريقيا FilGoal",
+        "player": "",
+        "content_hash": "1a348053f1d9b36d4856f93fc2be9685c8692e51bbd07430cff75e2840840a1e",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5145,
         "title": "خريطة إذاعة مباراة مصر وأنجولا في تصفيات كأس أفريقيا 2027 - يلاكورة",
@@ -1522,38 +1570,6 @@
         "summary": "مانشيني: على إيطاليا تجاوز خيبة تصفيات كأس العالم الشرق الأوسط",
         "player": "",
         "content_hash": "d67966f463879fba19dd4e0a53549755edef11873440829f65e37eb5443dcddc",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5008,
-        "title": "جدول مباريات اليوم الجمعة 25 سبتمبر 2026 .. القنوات الناقلة والمعلقين - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi3gRBVV95cUxNS1JpSlU5aHh3aV94a0k5dXNkaTRYWEFscHN1VkFwU2VUdVNOWWQ4eWxrX0txdlVTSExDS0p3Q1h2MExHUmt0cU5JaTBWNDVHR25SN3o5b2lLRk14S05BQmhXZG5TV3U4WU55ZjBGNnF0VDRTTk9qSXpxZzVlcFJSdE9JTDFHY0VJREZ6WkxYRUxoYjdHWEJraDhXTG8yWTRJMDROeVFxYTNtd2FOb21relBma3I1NmplN0I3THo4Q3RlOVUxRmxWcnRvdUc1Mmh0TzJuR2VjeTFiVW1qYlJPLXI0a2Z3azFZMUF4YklTVHpBenY0T1ZlT2xNQjluS19XN003Yzh2MzdOeDlZMy0yTUgyZjVCaXAxeEVUWjFKSWpTNnFCcWFzVk9vRFNySTlLQlJDYmVEdnRBbmJPY0oxOE1tWkJVWjhXYmIwUlZFdHhlazZEd3hVX0lFTTFoVUJ5WElKbUYwOGg3Z240WVE1Zk1HcDN4WE45YndJUnh3N2d0OHlxZFVOQXg3dFJ5d0h2RzhyeFFWU1RtOTZGZFdUNHNaNmMzNGk1ZjJocDVicnlVVVhRZFRwYTlXV1pkb0w2Yi02b080LXFqX09OWmpJWTd6U2hYekRfVURPRTBoZTdUVEd6X09kX0RiX3BYcmlaY1IxRzZJczBJT19ld2I0Rlg1V3dlTTFmc0JIN0lIUFZVTU40VnJrOUdMcFZPYndtcFN4ZTNuWGtoTlJ6RTFqaF9tU0NYQ2NmLWVTLUlYTEl1YktibWlUQnNBLUl6dlhmQTB2djVqMkg0MzBwYVE?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 20:55:01 GMT",
-        "discovered": "2026-09-24T22:12:28.885221+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم الجمعة 25 سبتمبر 2026 .. القنوات الناقلة والمعلقين Kooora",
-        "player": "",
-        "content_hash": "7984e81f43b4170f973879fd2e93b4542faecddbe207dec6d77261170fe47e21",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5071,
-        "title": "فرحة لاعبي أمل تزنيت بهدف التعادل أمام اتحاد طنجة - Elbotola",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYTkw5a0VTclRqVUdERmFHRTkxU21icVl5Q000RVN6eGtfYnlrRzVfVVl6TGhlbGJBdFRCT3FWUzRKcnJCQ0VVUDhva1FaZzFydG45THl1TWFjVjFyRXByY281THc4ODdYSFdINldhMzA?oc=5",
-        "source": "البطولة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 20:52:25 GMT",
-        "discovered": "2026-09-25T03:12:08.585875+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فرحة لاعبي أمل تزنيت بهدف التعادل أمام اتحاد طنجة Elbotola",
-        "player": "",
-        "content_hash": "c382e18f345afc7e599324d9d32e95bfadaff5bb6ef1bd8bbd1e20b5fc62abe6",
         "sent": 0,
         "section": "sports"
       }
@@ -2392,22 +2408,6 @@
         "summary": "إيران تهدد بتوسيع النزاع \"حتى المحيط الهندي\" إذا تعرضت لهجمات أميركية اندبندنت عربية",
         "player": "",
         "content_hash": "2614887eabd54a69b56050d3809eb5e34a6b4be24988ab9e6f465a9eb4e2aece",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 4945,
-        "title": "معرض «صُنع بسحرك» تجسيد للظاهر والمستتر من قضايانا - alquds.co.uk",
-        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNcE1IOEUyVjV3aXU1UUoxeldsTHV1MHltRi1oVVVjS0dwV1BsTGwwajBrLU1ZUVRyWHhHNmVCdURjTldWVC0xQ3FIbVBfV3lSaG1wNjlQeGxDdUZnVlVZXzhuSWxHWUt3V1IxWmVYRV8tdF9aVnNQbkY2MkY2ZW9xcy13SHpBMWxDa2VzRW8xSXFWUDJOQWpqRkljVmo5SEMzS3IxR29Sa3FnS2ZIZGdwaFJuQWRVUkhPcUR0aEI2YXRzMmgzeUx6WGxJa1hUcVI5Z1VzTDZOcW9kSEppNk5kUWFjUFNIczlyMVhKYmlWaER6ZTUxcmZSLUN3ejdNelpOTnJORWZMRGpFZ0pKT2Y1Z2JPN2lnZzQyM3d6SXhoemJ2bUJZNzNRWGN5dDlHa3U5c3JScjNn?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 17:09:32 GMT",
-        "discovered": "2026-09-24T19:51:37.982156+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "معرض «صُنع بسحرك» تجسيد للظاهر والمستتر من قضايانا alquds.co.uk",
-        "player": "",
-        "content_hash": "20b91f402ee50fc2360e3d6470986db635258bfd38d06142935cc545e9c7f981",
         "sent": 0,
         "section": "world_arabic"
       }
