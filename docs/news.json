@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T14:36:40.621042+00:00",
+  "updated": "2026-09-25T14:51:06.778442+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -176,6 +176,22 @@
         "summary": "مغربي سرب أسرار أمراء سعوديين لـ «داعش» Le 360 Arabe",
         "player": "",
         "content_hash": "50ed41a7362d0d8a3277da0625e7ac591c451d88d3170e465e54065712074d47",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5200,
+        "title": "مفتي السعودية: الحوثيون عصابة شر فاسدة العقيدة والمنهج - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxPLWNDY2VVUFk0Z3JqMGpHN2JweGJIc09tUHhkdkpkdjdFVmxIaFRlSHN2Vmt3MHg4ejBmLWRRWU1GZVNaaVlNdUcwQ0JiNmNPcmp1RG1pVHZ1Q1JUbzlBQmg5M01lUXEzek0xTnluc3RiaU41MDhwWUduU2NsYmNjNHRRNUNDNXFxOWtSdmhfTkJMUUw0SENVOEtnUWdHWEsycDZhbjh2cHhQUXBBYmFYZkk5dE1BdmFkVU5yQU9ucFBFekotcV81RUpwd3lRWERHUlBYUXdwSnRDRnctUGVKMENJSEs2cjVjSmNvTVM0RUszUEFwdHpiMW5YS3JLbzBwN3A0UjRLOGVHVHhVSnVKX0dTcHEweXZGUmstMFJPbG5sYm53Qk9DaUphN0JiZktIUTB0bHpQa1lhaXZPa3FUa1lrY0tTT1dJeG5YcE9sUllTbTdfUUVoMDBPeGc0ZFB4Zzl2Z1B4OGUtNVM4d1kwZm5LZ2l0akI1XzJZMkhSOG5fZGo1TS14VGVkeWVIR3o2ZUxNbkhRS2dlenRzcXhEVERnRTdJZEEyVjFLVEQ2TG90UnROOFVBaDl3SlE2bDFBZVNXQnZDaVJ4M3RGWVFzVXNGMkI2ZkIySzRLUC1fNWRfa1Z4d3oxTC1XWV81WWh3M2h1RlNQcGNmLVJScWVyU243QldaX2poSlpZbU42QzFzOGlBdmR5QnZ4WkY5dVE3Wmd5amQ0UDJMSHJXUW9Xd2x0QlloV1RKaENBLVptTFgyZ09CZk5GUHMxeE1OZw?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 20:53:33 GMT",
+        "discovered": "2026-09-25T14:50:59.961526+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "مفتي السعودية: الحوثيون عصابة شر فاسدة العقيدة والمنهج الشرق الأوسط",
+        "player": "",
+        "content_hash": "2296390f2f812f3a5211d35948172b7f7294d688411457417973bfd8bbb8b329",
         "sent": 0,
         "section": "morocco"
       },
@@ -758,6 +774,22 @@
         "section": "sports"
       },
       {
+        "id": 5201,
+        "title": "لماذا طرد اللاعب الإسرائيلي سيد أبو فرخي بعد احتفاله بهدف؟ - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVV1JOdHFUdjk0WGtzMDlKOTVUcktPTDNpN2w3NXRnUVNBMlJMaHlQSjkyTWpvLUxoMDJvOHp6T0w2bGxrcWZfVXdFTUdxZUdJZHl3UlRzQk42dnlYS0HSAWNBVV95cUxONHlPc1hOdy1DMVZEaklfWXlZckZINEhBbkJfbkkzdU9CQUVIZ2d0R181ZDhRWVRSWHhYT2JORDZkSnNuQ1lmX1ZUVG9aU2laU05uRlFJelJlTzVWcGtjR1BLS28?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Fri, 25 Sep 2026 14:21:27 GMT",
+        "discovered": "2026-09-25T14:51:03.910114+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لماذا طرد اللاعب الإسرائيلي سيد أبو فرخي بعد احتفاله بهدف؟",
+        "player": "",
+        "content_hash": "11e83c41b58ef516a9b942725b3f6310704a3db577eb217d6f529b2e921fa3c4",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5198,
         "title": "كأس الخليج - دونيس: إصابة العقيدي قوية.. ولذلك قررنا استبداله - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxPaDVXdmc4SGs1TWxZWHNiQk9zUFBlYXpoczdDUFZ6YkhjRmNGQy1rVjJxRXNKeFdkMUozWk1WaFlkWXhYSjN0OUpqWkVwZF9ERmh3VGZnWmhJZkNjazNwRllhQmMyQXpBM3NzZ0xIZWl5ZF9idVVXSC1hMlM4Rk15V3hEVTFjRUVRcmpqTnJxMENaYmMya183Znh4b2JmcFBiOHhCcGdEdUJ2YmhMZDRxdGlMZWlDZnpycTJFUmdMZUJFUU93N1lzYjliZmFYN2hzcDNpSExuUDBURXNqdkcwWWxjbk82aHNkOGtqN0hZZUo5dW4yb24zZXZQYVg2WlF1NnFjMnpkZzExa2dodWlXRk1DSVFOX05WVHk4QzV1OC03XzNSdFVfSzV4MTd4bmpsdkU2dmNnMmc4Zk42cVFyRXZaNlpDcm5sdHNGcVllRGRLUUlWeDhFQUFJTDNqVHBPTlRmcVVlbjBDS0U2TDd1WTdNYkFRRzJwaW9sczdFamRVWno3SHgyTzBRLXJiaWdQdGlURmNyZk1YNWtDS0JfS003OWFtVWpBaFFOakplU2RoSWpGRkp0Y3VQY2hHY0NiX0g0RF9jNW90LVVjNXNIUXZ2MmZPaTIwMjdzSNIB4gNBVV95cUxNd0NlSE9UQXAzVnJjYXkyeWhWQWd1bWQ1MmpyNmVjaGNfLWNheXJnZTNwQnpXNG5meXhVNGxQdW1JRF9wNTRPbURpeWJmLXVQR0ViRmtlRThKLW5fSThvQnFtNFRoMVhFa2VkR3VBZkpSdnFoNExOa3F2TVdOSHJJVFlJV1RMdFdVUFdudDNtc3pJM2p1Ql81Z0VMZVpmWnVzcHNIOVM0QmRGSVJzdk95N0Q0SlJwem04aS0xbHYzcHhFTE4zblFscDJReU01WG5QU1FoZ3pNc2pzN3d4OGd4ZFVVY0VrT2V3Ry1jWHVaYlFYMWx0ZEhmRGZOT0pxMHNxZ000cDRWYTU3bm9fa3MzdjdwbGVYdTNUZGZBd0drU2trT0YtS25oVkpLakcxVDdGNlJURlVxeTg5aTlRR1YtNFVxZVprRHR6TDNZVVVXSDJOeVhXNU5MM09LMWh4d1FiQ3J2VFJ1SkVGUkRwd0lsbTJfSDNTRUo0ckdzUHMtNmVaZnF1aWdjSU1rVGc4TExZSWJuc0RqYmQ2QmlUaW9nS2dGcWZzbUNIUjA5LW5GSGVxU3Y0Mk5KaW52SVFnTS1aQWs1UERvZkxTM1pXdmJPT01LakxySFBCd2FQemg2LTYxQQ?oc=5",
@@ -930,6 +962,22 @@
         "summary": "بطولة العالم للأندية لكرة اليد.. الزمالك 31-13 منتدى درب سلطان.. اكتساح للأبيض يلاكورة",
         "player": "",
         "content_hash": "fa29fe4c90cf717c692e80de1fa0d03c775d62d6ee6328e1bc3b75e3f569c688",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5199,
+        "title": "سينر يؤجل عودته إلى الملاعب بانسحابه من دورة بكين - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxPRnQ4UEpJSEl6QnNFMlZ4dzYxS3gySU5wUmE2RjlvOUZzVWxGR3VNSkZWUWpCX0RObUFra0gxU3YzWllFMHJkQzc3SkM1UzdKT3hhM3k3OHRERTVJTUh2enpVdVZFTlVhWmw0aW84QzF0a0tQUEUwdmJfRjE2Q2FqWWRzSk10alVXTHRTbzRncm04TXp5N0Fnc1ZOT3FlTi0ycVdNQkxsa1lhYTRnY2dnekNzT250cjdGQXhjRnA2aFNMNGZJVkE0dnlzY182SUZDYWtUQTJsMGs2clNnUE9LVTRxS05NS2J6Um1pTFZOSXpHMG1iOHFYdmhjSGJPNjhNS1c3ajdqRjJNci0zY21vcmw0MDd2cnBuQnQ2bWx1MVhLQXJDZXJwTVNWZjRhZnRjSmxyTTIteGFLNzR2WUdMYUt4eWVENnN2QVJhSFRNRGJIdk5PdGFYMzNmSG1aZVVZWm5YVTREMGwyZ1pVSDRhUEpBZWpvY2I4c1VGcV9BWVZvRTJxdVh1blc0ZjF1OHJXb3FQZkVqckp0d05JSFpoaWZER0xkUWhNS0tUS09SNW41SFk2akhCQWctWHd6TFdmcWVzcTV3VFJqdjNRT0YyYjFiVjFCemw4MkRCdXBtdlhpcG9aTjFCVGlTRnM0V0J4a2hqaTlIY003eEhVZWdnOU9RbG94RFdlekpsZW5hZ2E3RzJXUVJ3d296anJlY1lDMzkyZFRQVQ?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 13:13:18 GMT",
+        "discovered": "2026-09-25T14:50:46.151154+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "سينر يؤجل عودته إلى الملاعب بانسحابه من دورة بكين الشرق الأوسط",
+        "player": "",
+        "content_hash": "4551109ac0b313e2238c346370b43d19156c3b72f3e4d976fcb465adefc0564e",
         "sent": 0,
         "section": "sports"
       },
@@ -1490,38 +1538,6 @@
         "summary": "وجوه بارزة ذاقت مرارة الهزيمة في الانتخابات التشريعية Le 360 Arabe",
         "player": "",
         "content_hash": "42f63aee5c07fe11865d8a997f9dd0cb27a93dbf3f83f660f72393d863d18212",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5036,
-        "title": "سعود بعد الفوز على أمل تزنيت: \"ربي وفقنا فبداية البطولة ودابا غانْفكرُو في المباراة المقبلة\" - Elbotola",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAweUpnbGhqMEw0YW5EdjBlRTl2ZXpYUmtVTXlpbjdjaWZvUk0wcXhlTkxPaHVmbVFKQWtQdUlTTEtOZlY4cHRab2pwQ29meFF0SEM3dlptc2MwWFUzNlZ5Uk52MTF4c2gtTV84a2ktV1I?oc=5",
-        "source": "البطولة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 22:27:03 GMT",
-        "discovered": "2026-09-24T23:16:13.841451+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "سعود بعد الفوز على أمل تزنيت: \"ربي وفقنا فبداية البطولة ودابا غانْفكرُو في المباراة المقبلة\" Elbotola",
-        "player": "",
-        "content_hash": "995440016c8f9ba4bc5d0c00b8521b8f67dc5323bdb220c7c940aee84ba4678d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5042,
-        "title": "أبو ريدة يشيد ببداية منتخب مصر للشباب - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxQdUU2WlhtSnVNZC1lc3VyUC0xREFpeWRzQVUzMFV3WDlNbkxMcG5RczdiZHpRNlY1UWlaa3dBd0hERGhubEdYd0xjNV9TTnpYVWZKMnBlNFJ1MGM1d25QY3Q2LUxoTjVjODlOT214YWNfUHh1cGJlSzBRMEd4c2t5Tlg5bEVNcVpWOURra25IVjJMTUtvLUgwbEIyanVWX1VFZHkydlhpTXBqV09TMnZOY1FCcmtQdDk3eHFRVVVOWjhiWkUtdk55aExpcWZnV2Q2NEZUS3RqTGRPYlpKRk4yLUpWVnZVNldseGhKOElUWXR5cUZiQkRoakZqS1dqMGdxaDhOTmREbGl1QU9BM2RtM29XWkt6VG9YSmE4N1ZPa1RLeGlmUk1hUVU3dXhzdjZneWJTT2FSZnlmcmFTN3JVa2k2dHFuUDV5QV9Dc3JXMzJJbEVLUWpOV0M5QmhzX3ZJSHd5aGVFNFZYMEhXN3E2eFRIYnFQSUFJZkpfbHNvM3VLdnRTMUlvZ1Jzem91cmhXdHhtWThGa2lULUNBb1VBZkhLU3k2RmFydVJtaDctSW43NHFRRHo4WFlIUF9nMGxEVXJ2N2tzYmY5ZXJ2?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 22:15:42 GMT",
-        "discovered": "2026-09-24T23:28:56.424685+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أبو ريدة يشيد ببداية منتخب مصر للشباب الشرق الأوسط",
-        "player": "",
-        "content_hash": "e5ad401e3a4082dc5a4c068fa6d3a2ce7311f316142a4c7088a65045af36c1cb",
         "sent": 0,
         "section": "sports"
       }
@@ -2392,22 +2408,6 @@
         "summary": "سي ان ان بالعربية/سابقة \"تثير المخاوف\".. لأول مرة دولة تعلن تعرضها لـ\"اختراق بواسطة الذكاء الاصطناعي\" تطبيق نبض",
         "player": "",
         "content_hash": "c80115c7bf62cc4eb2a5aa8b88317fcc234930ae8763df3a531e0d194954223f",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 4741,
-        "title": "إيران تهدد بتوسيع النزاع \"حتى المحيط الهندي\" إذا تعرضت لهجمات أميركية - اندبندنت عربية",
-        "url": "https://news.google.com/rss/articles/CBMikgVBVV95cUxOSGRVXzdMbWZteVdqa0JHbjdiNUQ4a2NsdkVKQUpfUUcxVDlpZ2Fwb0lXWGhZQWs3d3FKNkd5Y0t4TnBFWU90Rkl5b0ZzbEFaU2d3TGxvYjVyMVgtM0lHam1Xa3NSbFVFZ1hmZDRlMDBTYV8xejVoN3kwVno3X0tZSG1kSHIwWm1HdXhoRU5TWTg3VzhMVWZCd21PVDZlV3ozUHhJRGtncUFONkZDc05wU0VfQW1lUVN4YnJQeG1rbkJOcFhrU3Rfa1BxdkZ1eVlIeXU3OHN3Zm53R0UtbXNJU2plbmlia0VNckYzcHZzUmkwbVlXVERFX040ZE1RZmFFSE43aUs2NXBCSmJZbUQ3ckNZUTBMWl84S3UzYm5VV215R2lRRy1XWnM0cGF2dzNkdkJRNTVTbEtYWFJqNmI0Y0ptQUtLdjV1VVVJYnVGT1VSWC1qbkYza1BLa2lza3pmU3NsNTFkdVVBUjJtakVGbkhqWHFZMTgyajRlVjdvWlR6Z19PbmJqU1A3SFRDNDE1N25BLWJySUNYeldwZmZXUXczeWNXbnBlUEpQS0lieXhqaUktUlZOcndhT2RzTDI4QnNPQV9sREFQcVJLeDI2ODhRck8xc2NMeUZmTWcwNGh1S1IzM0pTQmlDdUtMN2t4ZWZLanZ1TE5ZS0Z1OGNxTWxNYTV4dzMxSjdsXy1kWmpfNTI4NGpxNlBNNUdldFFoSUk5dmo4T1JxWmlXcnk3U0lQVlh2UmZrcWV4Qnd6VHJwOWx0RXk2MUZ5bFNGQVV1MWdVZ2JBV0ZwbDNpdkZYUFJ5MHF2MHYxQURSMTZlcXgwV2ZWeUktSGNHWlphem9yelo3My1DLWsyUzMxall1RzVB?oc=5",
-        "source": "إندبندنت عربية",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 21:07:34 GMT",
-        "discovered": "2026-09-24T08:58:48.763199+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "إيران تهدد بتوسيع النزاع \"حتى المحيط الهندي\" إذا تعرضت لهجمات أميركية اندبندنت عربية",
-        "player": "",
-        "content_hash": "2614887eabd54a69b56050d3809eb5e34a6b4be24988ab9e6f465a9eb4e2aece",
         "sent": 0,
         "section": "world_arabic"
       }
