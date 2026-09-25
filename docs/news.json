@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T02:57:49.269277+00:00",
+  "updated": "2026-09-25T03:12:32.991522+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -740,22 +740,6 @@
         "section": "morocco"
       },
       {
-        "id": 4574,
-        "title": "عاجل: حريق مهول بالمنطقة الصناعية طنجة تيك - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sRUdyQmN1Yi1VTFR6Y3Vjc2J6U0FaX2FXQm5JOEhFN2tzaUhKcllFakRzUFZINlB5ZG9FNmhrdnFZWXdxQTZwVHFGUFdXc1FENTMxUzI2QUg4b0oySkM4dldsc0ZFZw?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 13:14:32 GMT",
-        "discovered": "2026-09-23T19:19:01.233892+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "عاجل: حريق مهول بالمنطقة الصناعية طنجة تيك Le 360 Arabe",
-        "player": "",
-        "content_hash": "e3216e81c7b980efea5b83eb0cb8a020029215bcb5521c41fb9082db93e3065c",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 5044,
         "title": "التحقيق في مزاعم تزوير انتخابي بطنجة - Hespress",
         "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNbTBnOHhaOWx3N3ZEcmpqUEd1dVpCeThwWjZqeUVRSGdJbkt5TTlLWW9QYUsxTXV6MmotWm1xYnVzQ3B5ZUp2UzdrY3RCWUI2NGppV3VOU0VLOTl3LWdmeW42S3RMcGRXS19aNk8zWmhDVzFRNDVHUk5YeFVQdHduTWVVX1RfTnJSdlhTa0ZBV01NUkFWN1pET01XMTM1N1g0SUpWQ1R1VjJxYUstcEpfSkhCbGVmOU05eXBPM09wTVFHN1dNSy1RcG5TSEVsYzJnOFFCNHVRVXU2U3FVSEZVby12cTdncjNTVTRZelZHOXJNc3diZC1hNDRTV0pzYnNYWk9GZUplQTRSVXpyVEw0SGJmZ2NnaC01ZHVfV21GTDczU2FBdktqczl3cFBUZWk1azNnRUU3WEtOUy1JamNzaTgyVkRtMFNjUDR0UUdGYjRKMWpZTVhR?oc=5",
@@ -1206,6 +1190,22 @@
         "section": "sports"
       },
       {
+        "id": 5071,
+        "title": "فرحة لاعبي أمل تزنيت بهدف التعادل أمام اتحاد طنجة - Elbotola",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYTkw5a0VTclRqVUdERmFHRTkxU21icVl5Q000RVN6eGtfYnlrRzVfVVl6TGhlbGJBdFRCT3FWUzRKcnJCQ0VVUDhva1FaZzFydG45THl1TWFjVjFyRXByY281THc4ODdYSFdINldhMzA?oc=5",
+        "source": "البطولة",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 20:52:25 GMT",
+        "discovered": "2026-09-25T03:12:08.585875+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فرحة لاعبي أمل تزنيت بهدف التعادل أمام اتحاد طنجة Elbotola",
+        "player": "",
+        "content_hash": "c382e18f345afc7e599324d9d32e95bfadaff5bb6ef1bd8bbd1e20b5fc62abe6",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5011,
         "title": "تالاييتش: سنعالج أخطاء مواجهة قطر... أثق باللاعبين - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMilARBVV95cUxPVVFyZzBMZ2pQal95Y0d6NUNmelU5MlFtY3pxb0V1SmN3M3JXT3FYNWVBRDU4ZUJ3UHlqYmY4eV9fX1NyMXRpLVlvRlBCamM5b21MX0pub0wybnhrT21EOHJkLUdyMWpvLXo3T2ZtencxTE1ZcDk5d1p2VEkwenU0Sk5zVFZVNlNLcktnNmFmc0w5Nmw5WkRsZndCdzdiMFdGMmp4TjU5cHh0YXNvT3RfUlhpdU4xRnBIdnpUQVM1Q0txTWFVeGVQSF96Q0N1QUpJc3pZc0kyckhQTlBrTFUycFhYNjNkbXlDWnM2RU5OYXQwaTFRaXN6MDdSRFNhYUJZRjY3SktNYlRWZnhCOFpSbUpPSlFjMFUzTFdTUk5YUWFleWl2czlFMkFYS1ZfOXhlTXVCSmxPbmhYWGpxbUx0XzJUQnNSTVJDa2xudldxSHNDYXlZOFNvSURfZF9GMnlSOW0wcHcydm5XOFEtb0J0d3F6OGl1ai1wQ3c1WmNyNm55TUtJZklieXlsWFpESGpJWEw5RVhBa1hDOXdfN2o3RW9JZ1dsM08zcDJ6QlJzdzN0RTRIQVBjbE5nYmpjb1hVQTdrTHRTYmlITWs1OE1hZGkxTVRCUWdXaEFCMGtWNTJZSF9xVFNzdnZkVHFKTlFpNXdMNDJRZ3NjQXVQZUZqaFc3dzFaSkFJeW9WV3QyU0JLSXVQ?oc=5",
@@ -1554,22 +1554,6 @@
         "summary": "خليجي 27.. قطر 1-0 البحرين.. هدف أول يلاكورة",
         "player": "",
         "content_hash": "a22e52186f3c7f941b82528aa1d6979dc8fb10b9a1f2e29801921c3e26f2b34b",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4968,
-        "title": "أمم أفريقيا: ليبيا تخطف تعادلاً قاتلاً أمام بوتسوانا - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxNb21HU3V5MmthVld4ako3TllBS1lVdDFoMUNJbkxCLU5OakFpRDRnU3lCQzFWTlEtdjJHMGpVWkJOMFBIVVRKek1TcGJWS3lEbDVGdEE3QXdLaVN4LUtMRHZKZktOb2poZ0VHU25fcWlnRGdMUWFWUkxwSy1nMnVuNE1JZGhKbkxGc05rU2kzdzE1Y3VHTlBjZjdMV3VZbU83c2FFc0k4T2xScjlDMndLVU9zNHMzMW1aYUsyOWdGZl9qSlAyTWo4bHhacHJid0Z2dTNMYmF6bTZLcnZfcXBORDgweHV2Rmkyb0ZOcGlSTFE3VEEwbVVSb21WNGxFVWhhRjJCS0dwVldyQXVWWnZxaHhxR3BfTEJMYlhCb3NWLWNhSW4yS3ZQS0VlaHNqdEtzX0JWV3JOeWxpcUdWSDlSdmlib2Jjb3ZTdnFNUGtLXzNqcWNMbTVhaWtyUnNDZTdpTWN4M1VoSk05U0lmTGNLSl9nNE9MbF9TQUJVOS1oOElGRkxnSkk5UGxhUTY5LVVhcWFjcnlBWW90NDZSQThLa1FjcTNUdUxyOGpmbjRoczMwbGlObHJuUGJOcTRGUUN1Zi0waWVpM25rdXdDcW5URldoZmdwZWE0ZWZkNmRJdTk4TS0yMjZvNmhzdWVLRHk0ZXRCeUF0U0QwenB6cmtRZ2Eyc3piNkhyUHpucFc1aEhVODVUTFR1Y000djRGZUFjZVJXd3ZXMVpqT1psakRXN185VW0zdw?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 19:12:33 GMT",
-        "discovered": "2026-09-24T20:47:51.697530+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أمم أفريقيا: ليبيا تخطف تعادلاً قاتلاً أمام بوتسوانا الشرق الأوسط",
-        "player": "",
-        "content_hash": "c84c05ccf99a16433ce3dc4c3ed0a293e29af3f8a0ef6aef3154a632f432e0fb",
         "sent": 0,
         "section": "sports"
       }
@@ -2246,6 +2230,22 @@
         "summary": "خطة تضم 71 برنامجا.. ملادينوف يعلن جاهزية لجنة إدارة غزة لتولي مهامها الجزيرة نت",
         "player": "",
         "content_hash": "9f226ce8d60a644bd1a452d63f3a4487d18479de19a3096a8f1740930ddb3b56",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 4902,
+        "title": "بعد تعرضها لحادث.. شمس البارودي تكشف تفاصيل نجاتها - العربية",
+        "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQWUtXdy03NlBVVXBEbXZWaUY1OWtoNWF2ME15WVp1U1g3YjhCNXA2aGtjbGZoMHBrX3lUbndIaHJRRkZfVmFSaXJsb2tuTWF1U2Fka3QtMkQ0NERpbXdTck1EaHppQXN4M1IxOWtGb0NWdTRwSkxXdHo4WTZSZ1NSOGVNZEp4OGpzdUJtUWFxSEZMc0RKVERFRE5XdnVmRlNhVnRScWtzU0NkbmxCdFQ4N3h3Mm9lVFhhME0yM09fZlczOUVwVW81WDJsYXRPNjdLeHowaXNBVHdTeFNwbDZFMzNKaWRCZE5xU3g4RDVGbHhMZ1pyZHcwV2VhOHlQbERxaXF2UUt1c2toYWV4NndMQVBKbFNkTHl2eUY3eUpmZDFleFJ1NXhZeUNQTXYwNDRnanltVXlGNGQ5Y2ZmMERTWGY5TTlyX1BxZnhtQzZVU2p3TGRhUEkyUW1scVM4di12SUt2VllnU3JOY3VKbklHOXZPOURfakVfd1BVSlFsRG5LQjVpTTNMUzg4Tmdhck9CaXVFR0hWT2UzU3BZbjk5THFJZld1ZnkwVFZJX2tDZ1ZjX3JG0gG6A0FVX3lxTFBxZGdfdC1QQUZua0tTbG1ZTXljRWpUUTN1UnVCNUxvQldyRHV3Vlc2QmU1Nk95a1l5NHpOWU9tY3o5d2RZc3JJakV4dFZzeWV5RkRHWThLX0U5TnN2YnN5WUxvbkhsN3g4aEhKYmVzekREdG80M2VNSEVSdXZuSlhPb29XTUdUeFdjT1J0OG1QYXE1bmZkOHFQNWZKcTNCUjdVX2NxZEU5cGgwdFlnSV9tOXV3V3dMSE43MnA1azR2V0xXNkRxNkdHMHNMd1FvaUcwLVRNSmdSQ21TUVlyckNaNkRqWGxlMUZMdTdteHRyNlRkeGlILXlIVC15QjhQRVdhVHR4UHVPYU5OR1BaWU1GUk1jSHZVNTJDOUE2RGFsdTJJZDlrZUF1dTNKc0NqVEhrREMyQ295dkMySWRUSlVLd2F6MUZZa3JjeFQteldBM3VHNDdVM2o3WGJjUjJHZHE3NWxua19nSS1RRTJlWEUwTktyTnoyX1hhalhOdmpnOGgxQ1BhaS1HYWktVEFuTXF6OEpoRzNtZWRNa0UwOHpSVVEzTGJJdEVwVGFVNW9PMzZhOExaem4yTFE?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 13:06:00 GMT",
+        "discovered": "2026-09-24T17:57:51.428166+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "بعد تعرضها لحادث.. شمس البارودي تكشف تفاصيل نجاتها العربية",
+        "player": "",
+        "content_hash": "6f9ffe3217fffff40d1c1b19c47fd661de8321a161076f1fb353bebee8b7b95c",
         "sent": 0,
         "section": "middle_east"
       }
