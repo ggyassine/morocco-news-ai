@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T03:41:09.737225+00:00",
+  "updated": "2026-09-25T03:53:16.842599+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1046,6 +1046,22 @@
         "section": "sports"
       },
       {
+        "id": 5077,
+        "title": "أخبار | سلة - فوز الأهلي والزمالك في دوري المرتبط - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiMWs0elVyaGdIRGtjb0phSXFvcEpLUmpUbFZZakN2UkhDU1JoVnlhX0xtbDVxRzh4WkFQM3RTWFNmcnNhR0FPQjRaTk9kb3VI?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 21:10:00 GMT",
+        "discovered": "2026-09-25T03:52:59.322477+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار | سلة - فوز الأهلي والزمالك في دوري المرتبط FilGoal",
+        "player": "",
+        "content_hash": "4fe6867548484669bed9ed7cb4128da29fba565fd9a003c318ece57ad25070e5",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 4990,
         "title": "سلة - فوز الأهلي والزمالك في دوري المرتبط - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQcHBVMGRkUDQ5SXAwWEtuakV3dnBsbGkxZW1scU9NbEdSOFdUOHMwV1RETUtjUVNMc3M1S3BydnJuZzE3V2FpSUo5T2p5TDJINVF1OWFpVjE4ajFlR3Vjdy04RzQ4ME5TbVpTT2l6aTVzTmRLU1lvTms0TUVQNVdDUU5WdW9NWXMzN2Z2WXpyYkZfeHdHTzV1Vmk5cVBmbFBuR2VZX1UxTWNJcVh1WFhUM1BwN3p0bVJTNENpVllZdmN5cHEwaXNuRy05akZJOUhpQ3ZnaWNMUXczdjU2SVo0eUlSdXRvejJnRjJodWFsZ3Y0Z25YOENwWms3QVZlQmZiQ2lWQXNVLTlDUGZMTGVrSHlNSW92MDRfS3NfUWM3U0M4dGVZWnNjYU9MZGpkaXB0NzJMRFF5Y1dQNmtFeC1ueTFwM2NZMWFKbmJDc3dCX3Ric01ITG5LcWN5dnB4LTZUeXfSAecCQVVfeXFMTTdYREdyRDVRVnpPZ2FTTUhXVnhXZ04zR3ZRRV9CekNibms1MUJHUkJYZlBneFBmcFhIWFkxMGdBQ090Y1lBQzU3V0stbTIyTU1nLXUyVjdQZjNBZzdJZFBjTHZaMGdfR3N3c1VNR1FhMktOSDRZTU5Sd2dlZ213c2ZXMUg0dFNLWkhYV1NvN0tRbElpdTVUVVV1OGwxR2ZaVXEyTmZaZkZIN2RNalVURUhhUTJuYjlLT1JQSUlnZXZQb3hxM3NRVmxQTHp0NWgxQ01EeklTN3FaWEFYV1ZsWEFyZ2xpVVEzM0xzaFdSYU9YWHdmUm5JaUphZVRwMDZtMjJHSVlMLVBSOHY1Rlc0WVM2bTdzNnlXRGFCRDVuV0RDMkh0OHBTRzBoMlBvcjRwWlZmNUVnX2d1ckw4SXFESklVaWNOaHlUeUNiVVp3UU5RNUVNclRScjRtVERiQ3hXUG5PN2hOejQ?oc=5",
@@ -1538,22 +1554,6 @@
         "summary": "\"فارق 64 مركزا\".. تفوق كاسح لمنتخب مصر أمام أنجولا في تصنيف فيفا yallakora.com",
         "player": "",
         "content_hash": "b9e66a3a9638acd0de1b414cc91060b165ebf95489b4d47a8b1fd0055c0401db",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 4939,
-        "title": "خليجي 27.. قطر 1-0 البحرين.. هدف أول - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNUVVBVG4xb0FwWDBwMWdudlBKZHdJSXNrM25GSHRtd0xrQjlVaUdOODVndGQ4aFdMeTV5dTEwZWJHTVdIbUY2TVZEc2Z1d2U2NnJxa3R5WXFkVmdTTDE0Q0haelpiMVEtQzJQZ0pWRDkzWkdkMmc1Y1g5MGlOd0NtTHpBdTNWSFZhcTcxbm9zZGI4eVpMOGRrYU5hSGNHdVZLaUo1Vm5yMlRHTlJ2QnktaVI4Z2RwaUZJdEJKUHJrQU1ZV3dmdlFFbU1Kb2l4aUt6TmdKWVEwV2xNcFpsRHgyRlJBdTRoZWZwZ1pPc2RLV29ZczlrblRKSXdUSHZRVUd3UFpBSXFNQkVfWm43VUtjajB6WHNXWVk5WXdFX0d2ZUlyajjSAagCQVVfeXFMTjRFTmNYdk9nNlh2RE8wOXdTUXNQR1ZWUjdJMkkwT0JJYUpFeE4yWkhyOWNTTVBibG8yT3A2OEJRMF9wZTlNdTh1c2V3NlJ3QkdVclhrdUp4T2QyX19nZlFQVTRFQmpvN3h3cG93N0dVTVJoei02ZTBhdGdsRVBETUhwWENmOHdlR1FaMnZGX2U4OXZibWFycENTUGd3TkZOVUlGNVJqU25zRFc5cFk0TFhOTjhZX2VuR0xndGV6bV9WaWhXa3VGLXd4ZGcwT0E1dDh4SzlQN0RaaDhVY0ZETld1b1Z2RThUOW5vVTVUaGVjWllwaFkwcmJ2UGpveVllNndQdHY5bGN4WTZGU2xOeWUwdWR0Rmd5V0Rma1BPbmVkdE5YUDdvZlA?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 19:24:02 GMT",
-        "discovered": "2026-09-24T19:40:23.022882+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "خليجي 27.. قطر 1-0 البحرين.. هدف أول يلاكورة",
-        "player": "",
-        "content_hash": "a22e52186f3c7f941b82528aa1d6979dc8fb10b9a1f2e29801921c3e26f2b34b",
         "sent": 0,
         "section": "sports"
       }
