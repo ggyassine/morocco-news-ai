@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-25T10:10:49.907031+00:00",
+  "updated": "2026-09-25T10:26:53.947233+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 5134,
+        "title": "مهرجان مراكش للفيلم القصير 2026.. رشيد الوالي رئيسا للجنة تحكيم المسابقة الوطنية - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tV3JyRi0zNjJCZ1FuX3BST0hfSzhfc0owMkN0RWhKdmdLTkxjenlhQWUyaWZKUVZVVHkwNG5TeHQ5a1hzVUxRQzhTSTB0UWl4QUViVlE1S2NGSzNYR2drNGFhWkdZdw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Fri, 25 Sep 2026 08:24:24 GMT",
+        "discovered": "2026-09-25T10:26:28.051864+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "مهرجان مراكش للفيلم القصير 2026.. رشيد الوالي رئيسا للجنة تحكيم المسابقة الوطنية Le 360 Arabe",
+        "player": "",
+        "content_hash": "c4d762c00e595902141b0a324deeb37b0220e7f0413bfa357e3375522613e2c6",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 5102,
         "title": "المغرب.. انتخابات تعيد توزيع موازين القوى الحزبية - سكاي نيوز عربية",
@@ -256,6 +272,22 @@
         "summary": "\"الجرار\" يحرث و\"المصباح\" يتّقد .. المغاربة يعيدون ترتيب موازين القوى Hespress",
         "player": "",
         "content_hash": "db73fc517400619bfd5f5a2b0c686ce3d26967c0f420e28d5780d2ceeafa2eee",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5136,
+        "title": "الانتخابات التشريعية المغربية: من هي الشخصية السياسية التي ستحظى بثقة الملك لتشكيل الحكومة الجديدة؟ - france24.com",
+        "url": "https://news.google.com/rss/articles/CBMijAVBVV95cUxOTGZJNzNjay0wNkk5WTUybUJzSkJfUXVUbGNIUlJVaHpCaGR4WEY3MzJPTFkzaXM5WGVadS14emFwRXdmbUplVEs1XzFNMU9XM1lXajZEVDFNOU9wblFJblowT0lYNjRVN0ZZR2RpTF85a0tBcTM5aHBoTWFfVk5yVmNJWWRUbDZ5M1ZLcDdBZlpxeGU3N05EOFlPMWxvN3VhWmFNc2MyQUhPdWVMekFDUmNrUmR5Qm5iNmRVV1RzbVlfYW5VdWtGM3Z3Zjlvd3dRODkyeFhDN0VZRm5GczBHX0UzU3BKaldFTlhzRXdJeW9KdG1iM0dTcXBjODJJRHV4eWN0WG11c1Bob18zV280cXVCUmlhMURLOV82bkRxUXVGMXhBNlpwU1RsVDFUTXRRTm10aS1BVmlPNGd6WGpPclhlVXFWWUl5dDJCZ3ZLbmpYZUhUUi05ZnpQUTdPV3B4V3dnMC13c2pLbTVqcnRiUFBqTjhoZHBmSzEydk1IVkdjbl94LXg4ZHQwZkUxeEZQY09tR1dXMWxQazFDRTZnYmJ3SzRScnJmbDF2eS1YODUzWkYteHF1TTYzVjdpZE4wem1XSTBHaHgwOGFERjBITzRLbkl4NXdYajVROXJtc05WamlRYnE5SnJTUjl4djRBSVpNVkhXQnJRbjJpS2Y2bGVWVmN3MVBzTV9WZFJ2cm1USzVGUEpnZVJVMjJaWnlsZVlIUk1fSFJBM2MyUEJ0NFk1ZUpBUGREUGc0cGo4bzhMN2hJaFNzZ0R6cTZTbkxsMm9FeHF0cnM2RFBpTnBaU1N5TkJyRm82SFBmR1k4SGRGU0g0NUVSRnRuRmhmNWotdHBId2dRZjVoT1Rh?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 13:11:59 GMT",
+        "discovered": "2026-09-25T10:26:49.530607+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الانتخابات التشريعية المغربية: من هي الشخصية السياسية التي ستحظى بثقة الملك لتشكيل الحكومة الجديدة؟ france24.com",
+        "player": "",
+        "content_hash": "a4434e526cdbb5f9cd436d7211278fa939f67b59713ec4d4ef3d631a6b66b017",
         "sent": 0,
         "section": "morocco"
       },
@@ -720,22 +752,6 @@
         "summary": "المغرب وإسبانيا يفلحان في صد دعوات العبور الجماعي نحو سبتة ومليلية Hespress",
         "player": "",
         "content_hash": "9688410f2e50fc6921eadf89c783b39331ef9bdff0e81807eeb84e3ca9b400c5",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 5030,
-        "title": "القضاء الفرنسي يحيل أشرف حكيمي إلى المحاكمة بتهمة الاغتصاب - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPTHlGdjdBMTlJX2R2blRhNkJHVVlhRktPTmMyNHRjZHJCQmtwTkZ4WUxmM3c2TXlMdlpHelh5UDBfRjJiOGIwVGFEODl2S3FBanROeG4tbFdYXzNsZXlkUFdRRFdhTXo1bmJPckRpcUotcHBGanhZMEJxN01mSG56aUY5UWxVSUlfLUdDb3BKREV5SnlnTjI0RFJNMkRjb0V2TVZkZ2lVaHFQOWI1RlRoZzNZeEtwaFI0NENUSzZvMVpaUmU5aE8yV215d3JqOU5aTGVIdUpqakFqZlV2VG0tUGduNTV6Rmwyb3gtdlMtQnhYN01PWHpVTWdndlRscjNLT2tPMzBvbmpxakdwX284SWJodGoxbk9aRTRXV2xrTVliZTdUNzJRaGN2SzN3dlpOcU9yUFV1QU1OeEk5SWhVcnBxdmhmS2JrM2R5ZWxCU1FnNUtnczVB?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 13:16:19 GMT",
-        "discovered": "2026-09-24T23:00:01.813265+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "القضاء الفرنسي يحيل أشرف حكيمي إلى المحاكمة بتهمة الاغتصاب Hespress",
-        "player": "أشرف حكيمي",
-        "content_hash": "36a1cbd5a24795755efa41dec376f4b7c0498fc3defc48bc846daa4efa728fa3",
         "sent": 0,
         "section": "morocco"
       }
@@ -2214,22 +2230,6 @@
         "summary": "أزياء ميلانو وترمب والانتخابات.. لماذا غابت ميلوني عن الجمعية العامة؟ الجزيرة نت",
         "player": "",
         "content_hash": "8bb676c362234a9324a117478d51541fdf2adae7975bd94e52fd13a91a074325",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 4760,
-        "title": "خطة تضم 71 برنامجا.. ملادينوف يعلن جاهزية لجنة إدارة غزة لتولي مهامها - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPaG8ya01jYXVUQ0xvVWhqUGRvTDc4eXMzQWxHTzQ3MWNEeElyM3FwR1NBZXFYQkdhUzdvbjN3TFd2MGhVbC1oczhCRjNSRENWYVNnOTFmX2RKNTFnQTBRYjMza05jdHRiRDVxU2pKY1dUQVhwV2lfbXNEVlpheTFpOEQxTmZRVGJFNi1ZV1IzQzV0RWdXMkttbGtSYi1yZ2N1Z2pQQ19UUG1iUWN2SWJYZ0llOUdjLTdGZFduZ2QydEZTRUtHT2JZMHVKVkdETTdsOW9zNkV5bFlDUFlOa2tmYjl4dGF6YlFwQkZzLWdNRF9EQTBwV1dOWEl5UnRSZklDakg0WlM5UnA0ZWlYZW4tSUtvRFpBTlhua2EzRzg4UHN5NlJRRWRmNHVyM1BuVzZNalE?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 14:23:56 GMT",
-        "discovered": "2026-09-24T10:40:33.969314+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "خطة تضم 71 برنامجا.. ملادينوف يعلن جاهزية لجنة إدارة غزة لتولي مهامها الجزيرة نت",
-        "player": "",
-        "content_hash": "9f226ce8d60a644bd1a452d63f3a4487d18479de19a3096a8f1740930ddb3b56",
         "sent": 0,
         "section": "middle_east"
       }
