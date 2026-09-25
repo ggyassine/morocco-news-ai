@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T04:21:17.439700+00:00",
+  "updated": "2026-09-25T04:36:02.413822+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1544,6 +1544,22 @@
     ],
     "transfers": [
       {
+        "id": 5085,
+        "title": "وزراء خارجية دول اتفاقية مكة يعقدون اجتماعًا في نيويورك لبحث دعم السعودية - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS1puMGtrX0phVVZfQzhXOHoxNjJBWk1PNjhBbkh6YThhRVN1Wmx2SFlHOFRvc1dsNTlDRTBqV0dGYjN2eVVfamE5UDJlN282d0lCVk12ZURIVmt6U0hud3hxejAyakhIRDV4bVRpMzY1WWJVRFR1OVBTamk2SEFuYTVTTlU2QllhdHBQaDVLS0dGbnpMdl9nVjBJcDRyU0FTVWRRcmktQURzUU1RWFVFYlZrZnZfcENYTlE?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 04:19:14 GMT",
+        "discovered": "2026-09-25T04:36:01.759309+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "وزراء خارجية دول اتفاقية مكة يعقدون اجتماعًا في نيويورك لبحث دعم السعودية CNN Arabic",
+        "player": "",
+        "content_hash": "f987e4627d9b02ca9fc8ce715578ef21d8627b0ce167c4473cafcd6be0f21890",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 5023,
         "title": "صفقة هرمز تلوح في الأفق.. إيران تفتح المضيق مقابل رفع الحصار - العربي الجديد",
         "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxNMjFlRjlZYXFWWmRISnd5dU1JRFNHazg2dXdIXzBBWVZnVU9pRW13SG55VTRRcXJ6cF8tN0cwMV90c1YtS1hhYU0yQmVQT19rX0doQXFNNlJ3RlZtOVJGU3BhZVVKT0RYeUM0Y0JoSm8zOXBSdXZkWGdDUldkck96dzRkbXh0b0dHOFhKdEpObS1US09sRTJRZlcxSFB4YlgyS1NWUjdVak53d0NPc0hoY2htV0dvZTZRdGJyeDVpMmsyM1NxQldBSk1rZGFIQW9VQjBNeTFLUEVoY1lOS1Z0RE15Skp4dVpmdVRTZW9DZThET0JvMjBfM0kzOFJ4eDVZZWpGc3NVME5UU3RiU3pqN2hyVkk3VDdHb1ItdHZ0MTdmUnh2ZENQaEt6cGE4R242aGdXcDhJS2QyV1RCUGdTaTg1WnM0UkFfNVlSZjNqNmRCdVVmb2c3RkxVMVM5OXZ1d3gwdXNwaWxXX0dDZXZrS09mNEo4d1lYQWtWN3A3ekMzclFITklKaHNacFJhV1d3U3lDTTJfbTZmeWpxSWVLT1U3Q0xOY0J6SFBBaUR3QU5zYUZMeTU2QnNQREV0bEg1eUliX1R4azVCREk3aTcwU3BpZm82RDTSAdwDQVVfeXFMUGJSbUNZLVFiSWpLUTM4N3BrcTJsZFRVQXdMQzdLcXM2OWJtNDVIM3A3T21fTDBjbTdMeGpCcjhGOVRyV09qTGJra2Y2ZzkwRlFzbWJTOUg0NHRrYmI1ZUc5M2ZzWVE5YVpIWEZrN0pkNEVoSlB1Sjh3ZGxud0ttcGpzVVpqMFdqdUhVV3pBcjBGVzlpMmxpZFJMSTJEbEh0Y3BpeUxfZEtxVkNWZVhXNl93bkRiQkc3amZwOFFONDVXSG9KdDVGamNYSEVHaU5BSkJrM180M1dUWE1acTNOWkU2eHg0UzF1UWVZZGRfNHh5Vl9NZ0QycktjWjdhNTU4SmFVLVdINjhfMUxpRDA1SDljc3lEQ25qWGxwNnpVRFdwdTZ6aHVPRGZiOVVXVGpuNFNYVjI3QkpSM0ljd01TODF5ZmlPYXdJQ2VSc0Z4ZVlFTFZzZjNrRzFOWTgta2ppeFQ2Y1paWUFscDhLNm96eUptc1FUX2E1azJUOVR4OTNpNzNNbDU5dDZnNE5FczBLME5wdUhDekY1RmFEdkh5V2pBZFl1UnFLLWpaU2piMnEwYUFBZS1icWtsTUxhaVU0c29MaTRHQTNncWYxSXNKb01CX2VTVFNsZzlfYTg?oc=5",
@@ -2225,22 +2241,6 @@
         "trust": "B",
         "published": "Wed, 23 Sep 2026 13:06:00 GMT",
         "discovered": "2026-09-25T04:21:10.263181+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "بعد تعرضها لحادث.. شمس البارودي تكشف تفاصيل نجاتها العربية",
-        "player": "",
-        "content_hash": "6f9ffe3217fffff40d1c1b19c47fd661de8321a161076f1fb353bebee8b7b95c",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 4902,
-        "title": "بعد تعرضها لحادث.. شمس البارودي تكشف تفاصيل نجاتها - العربية",
-        "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQWUtXdy03NlBVVXBEbXZWaUY1OWtoNWF2ME15WVp1U1g3YjhCNXA2aGtjbGZoMHBrX3lUbndIaHJRRkZfVmFSaXJsb2tuTWF1U2Fka3QtMkQ0NERpbXdTck1EaHppQXN4M1IxOWtGb0NWdTRwSkxXdHo4WTZSZ1NSOGVNZEp4OGpzdUJtUWFxSEZMc0RKVERFRE5XdnVmRlNhVnRScWtzU0NkbmxCdFQ4N3h3Mm9lVFhhME0yM09fZlczOUVwVW81WDJsYXRPNjdLeHowaXNBVHdTeFNwbDZFMzNKaWRCZE5xU3g4RDVGbHhMZ1pyZHcwV2VhOHlQbERxaXF2UUt1c2toYWV4NndMQVBKbFNkTHl2eUY3eUpmZDFleFJ1NXhZeUNQTXYwNDRnanltVXlGNGQ5Y2ZmMERTWGY5TTlyX1BxZnhtQzZVU2p3TGRhUEkyUW1scVM4di12SUt2VllnU3JOY3VKbklHOXZPOURfakVfd1BVSlFsRG5LQjVpTTNMUzg4Tmdhck9CaXVFR0hWT2UzU3BZbjk5THFJZld1ZnkwVFZJX2tDZ1ZjX3JG0gG6A0FVX3lxTFBxZGdfdC1QQUZua0tTbG1ZTXljRWpUUTN1UnVCNUxvQldyRHV3Vlc2QmU1Nk95a1l5NHpOWU9tY3o5d2RZc3JJakV4dFZzeWV5RkRHWThLX0U5TnN2YnN5WUxvbkhsN3g4aEhKYmVzekREdG80M2VNSEVSdXZuSlhPb29XTUdUeFdjT1J0OG1QYXE1bmZkOHFQNWZKcTNCUjdVX2NxZEU5cGgwdFlnSV9tOXV3V3dMSE43MnA1azR2V0xXNkRxNkdHMHNMd1FvaUcwLVRNSmdSQ21TUVlyckNaNkRqWGxlMUZMdTdteHRyNlRkeGlILXlIVC15QjhQRVdhVHR4UHVPYU5OR1BaWU1GUk1jSHZVNTJDOUE2RGFsdTJJZDlrZUF1dTNKc0NqVEhrREMyQ295dkMySWRUSlVLd2F6MUZZa3JjeFQteldBM3VHNDdVM2o3WGJjUjJHZHE3NWxua19nSS1RRTJlWEUwTktyTnoyX1hhalhOdmpnOGgxQ1BhaS1HYWktVEFuTXF6OEpoRzNtZWRNa0UwOHpSVVEzTGJJdEVwVGFVNW9PMzZhOExaem4yTFE?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 13:06:00 GMT",
-        "discovered": "2026-09-24T17:57:51.428166+00:00",
         "category": "الشرق الأوسط",
         "status": "غير واضح",
         "summary": "بعد تعرضها لحادث.. شمس البارودي تكشف تفاصيل نجاتها العربية",
