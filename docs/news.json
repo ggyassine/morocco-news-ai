@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25T20:31:08.106353+00:00",
-  "total": 148,
+  "updated": "2026-09-25T20:45:33.923216+00:00",
+  "total": 149,
   "sections": {
     "morocco": [
       {
@@ -516,22 +516,6 @@
         "section": "morocco"
       },
       {
-        "id": 4844,
-        "title": "المغرب: هل تفرز الانتخابات حكومة تلبي تطلعات الناخبين؟ - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zMURoTGtwS1U5R205NVAxSUpQbzNSaXlHU2RjNEhsUVRYYk1LaXF1YjBiQWxJX1lUd0FvR1BrWl94Y1poWkFBajRVVTRkNmFwRGJ2UFlQaG9GU09oV0HSAWNBVV95cUxNVjRRbktvWmxLN3N3ZGtuWENfZkFFdHNXd3NrWkh4OTVMNG9zM0E2bHdSVWJNNXQxVTgtaS16dmt5VWpIemRueVRTUk4tdUVHOVZsZTR5YkxSX0t0N3lma0ZkSjg?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Thu, 24 Sep 2026 15:00:00 GMT",
-        "discovered": "2026-09-24T15:48:51.518964+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "المغرب: هل تفرز الانتخابات حكومة تلبي تطلعات الناخبين؟",
-        "player": "",
-        "content_hash": "f90372de54c65fce470ef20204c06de543d5f49aa405e8114b60b21584ac0862",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 4857,
         "title": "لائحة الطاشرون سليغوة مهددة طيح فـ”دائرة فاس الشمالية”.. أبلهاض لـ”كود”: كنوجدو الطعون وكانوا الناس كيساينو الفلوس - كود",
         "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOQ2dtSTFUMXpNMERWMkVpYWxoT2FIZXJDdDhWdTAtQk9aZllVNzZDZU5CUnJ6em5jeXgtVTVTeE9jNFV3ck9mNVZaTjZURDNfVFpHRFpPLTRQQkdXY2dMWEJ6Z2E4Mnp0SzZndmstN2lWb2FoMnNWVm8yQzZlSU9xYURaSjZqckE2d2F0QWVOSXQ5cmozMWxIWEU5SXBWNU96NWRza0Y4Mjd2ei13QWlZTFUxbkxSXzFIeUNuYjdEeVRmRWctb2NfUW01Z1lzZ0NFM0lveDVfa0MtYlFvV2JnOHcyaE1HM0FfYzY2OUhaVWFQcVFIWXRBLU9iSVVUX0VES1ItVjQxbm1DMk1NaGlROUpDa20tQ1o5RUhhNlFnVnJGaDV4dm5KM1FUWEdwckJyOUZrZWFIanhwRFpJV2lDakxxUmRRMTFRZmc?oc=5",
@@ -802,9 +786,41 @@
         "content_hash": "c758c7c4302f2783aa13ec13ddb11174f9bfe9f7f06bc5cc8b22cf12491388e6",
         "sent": 0,
         "section": "morocco"
+      },
+      {
+        "id": 5031,
+        "title": "المغرب وإسبانيا يفلحان في صد دعوات العبور الجماعي نحو سبتة ومليلية - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNa0lqVFJsMldjUTFpNlBQZWstX01tZG8tczVyVXZjMkpKLWFDc1JVZ2VIVFF3MldHcXI5ZG52ZTFWVEQ0bjNxTTZ3Mm54MHhmQlp0M2lrQWVLX0hIbmwxX3A3UkJ4aENWWkthSkpFUmZrUjNrb2hZUWtuSFcway1MLWZidFBRWElHYVB1Q1RtWWJXdF9QY083b0tNYmUzcF9hak5YQVFNdWxiUk9FZlBkWEt3aURPUWZkNUVhejNZNHprLUd4a2RkSjIzYnQzbTNWUmxxcXJ4TXRBN29keUxadk9wbXFWakNNVjVVd0FNMGJBSjNjTTV2YmdZUXplU0M4VDQ1Y0VKTFBzR2U1ZW1lZVhGc3VCc21Ja1BTZHBVbDVSQ3BCaHUyU3BmRjZjZlY1M25NRThvLVdETGhhU0xzbzNCN0hNUXZGRU96djBlQ1VPRS1HSDZ3?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 16:05:36 GMT",
+        "discovered": "2026-09-24T23:00:01.824234+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "المغرب وإسبانيا يفلحان في صد دعوات العبور الجماعي نحو سبتة ومليلية Hespress",
+        "player": "",
+        "content_hash": "9688410f2e50fc6921eadf89c783b39331ef9bdff0e81807eeb84e3ca9b400c5",
+        "sent": 0,
+        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 5343,
+        "title": "بلجيكا تُسقط إيطاليا في عقر دارها بدوري الأمم الأوروبية - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxPS2d6WktRRWtNdlowdGUwbHFCbldxeWszdXJoLWxKWHphQVdaSE5jcHNCTkQ5ZEN4N1gtczRDR3pHVEhCcklDZ2pMVEk1NWswVHJNa2FqTEl2TXZKMGFMQXl2SDM2ZVBrN2sycUd2T21DTzU4c2FZUld6WlJuZVdzTTBVMmg1cm1VOWtYLS1jT0xLRTI2Vm1KeElFM2c4TGJHUkZnX1VKRldBT1NkalloU3hnd0ZZSEJZVERCZ1lGUjJsUU9wTWFWUmNDazRIWEZMNzRMRWxDclNUdmRZSEVMcDhnRU5Hdm1za25IdklRczJwWkpjRFlubWlFUmhEbmRzUFNDWVVScUsyc0l6TWFYRl9YcFFEMkZDNVRUWjBlZkdCWlhMZVFwaUpxenVfdk5VenpKWXp1T1dyZUwtVzNxRE9ybHd1NFdaMThaakY1MGNPTjdvaXI5Y1Z5RUJkeDB1WDBlSmFpSEtaZXpUUl9BU1llTmc5M0QtN0hyVVhRQ3dkZDdNU2JvTlltbDVUTk04Z1RMeDdUNXg0V1Fkc05Pcno4YlNTdlhWcTZwbllDdmIzVlFYbzRheHdkZEVrZHZKMEtaNjhFMkQxSkV1YzBSalVOaU00RlF5dUVzb2NvWTc0OHM0TDFsQ1FxR0zSAfIDQVVfeXFMT0xVT2cxQUR0OG5OSDNDT2o3TGFFUUt1NzRZNE5jV25TcHN1YzRua0dMbDNfVmpjQkl2dTd4eHk0ZTJweGtoaXp2RkQ4SExBbDI1SjlKa1JnRVRxR2tLQTUxcTN0aFRVUkRJYnJPMjRiNlBtMDRjSHA2T2JJT2xhTjkxMjRWa3BmX0szVHQtZjdsZzN2VlNic3ExSWFYZzI1ZmpnSk8xbHVwZkY3UEk4WURJUmZGV2U1VFJNZmNQRDFXODdmV0xBSVNxcTFHZE9JU3E0Wkttb0dYclFUejZqRHZ4VUJuS1JNLWVmRTRtR1c0VnQ5NUVrS21UTlZKWUxFZmpVbEhyODVDVFF5LUo0c3NPQmttOHZyWmNCNGpuVjhwMnF2eHlRQTI2REJhX0JZaEJOV2FtQ3VJNjZZdWpFWk80UWY3b2JhdzRxcEpwNWl1aG5nV1N1ME12Y1NPUk1sX2FvbTNNYm43MDh4OHdleXpoZzZPUTQ1QXk0NWxvbEZ6R1owLWpzRFdXRXhONWM2S2JwZ2ZLREVpNW1EQUNQekRRdl9HZ1A1UndSXy1HRmdMaTdXbVMxSXgyTEdtNjh2R1U1RVh1RlE4VjBaYk5RMmpBWmpBRHQ1SmdTVnFHWDRlWWpoY0lndTFBczhzdThNcUh3?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 20:40:07 GMT",
+        "discovered": "2026-09-25T20:45:17.102900+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بلجيكا تُسقط إيطاليا في عقر دارها بدوري الأمم الأوروبية يلاكورة",
+        "player": "",
+        "content_hash": "09ab207e9c72bbf14ccf2df753a94babcf97395b43bb2c014c095b5f46553bee",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5333,
         "title": "ضربة موجعة: \"ممسكا بركبنه\".. مبابي يغادر مباراة تركيا مصابًا - Kooora",
@@ -818,6 +834,22 @@
         "summary": "ضربة موجعة: \"ممسكا بركبنه\".. مبابي يغادر مباراة تركيا مصابًا Kooora",
         "player": "",
         "content_hash": "dc572dd0820c18c82710888b013f709ac39f54192680c446c2c74f5dc4044210",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5344,
+        "title": "إصابة مبابي تثير القلق.. نجم ريال مدريد يغادر مباراة تركيا وفرنسا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxPWW1nX1M5amFkWXFxMVJwVHBSRWlHXzhhT083bEJkWjFrTTdSYThLSEs0bkstOXV3d2NKTGR4SzhFU01jWmYzMmttMjBieGk3b1ZaaWVnU3Y1eHphSU93c3p2VmRodEpDV01rT2R4SVJHWlVvUFlXd1kwV0czSjIxWUpLdHN2WGluZG9yUnZnVEcyTDQ5dkFjdVQ4VDJ3U2dYSFhyV0doOUFwM29VeVZWYm1iVFRKODJFWUZBNlcxMUVCdWo5Xzg5ZUVjVHIweWN5RDd4Uzk0RVRmUWlybXRnRU4waG5TTnFQTUo4SmhSWmFmSmIwQU54S2xObVE0Mnd5RDA3alFFRzkzb2RDVXM5a2Zoalo1NV9aNUNNcDlnV0t1OExwR09VdWNoX3Z4UEkxSUw1NmRKZWc4ZWM0cmhmRlk5aHJFSXF3dEduZUYwcEs0OFk5bkkwS3JnaU5OMVQxTmZHeUI4MnVEcHFJUGZ3M3FDRWJxbm5Dd09pYXZpZTVvdUkyRGplNExITE1wQU1oSG11ajdEQTJGUTdZeWRjWVRrSjFCTVNPU3JNNEllWmlEcG0zNWlRRlZkM0Z6LVlYeldKTlFsNm92Tm84bkh5NE5MQVlqZmt5Y0xRQnhISlBGQjBCX3JFOUFoV25QN0lSRU5ub1FQaTE4anA1VUZWMm1icVF6TWg2dmFEejlDSnBFLTE5UTlMUmpMdmVjdElKemYzWmZR0gGrBEFVX3lxTE9VQ3Q4ZmJDa1B0NlRBWm95V0pPdUxLMnNDOGhOZFl3WVRrRHRMMEhzZVBHRDZQM081YllyZUdvWWxTM3RWOXYyNmVxdGZzSlhBUDFaNWx3cG1pOW4wY2FaNUJNZDRrb2ZHbGZLNkQ4UDhzOUlFLUFfOUdUd3RTendTT2NaTUFqaUstMzJJOGREMVFUX1loZWZIOXM1S1V6UGZ5cTJNaHoxSWZpdndZeHpXR1loOWtQNm9IZVdYbllJOE1zalBIc0NZTnBKT091TXhSa0lrbExDRWxWX3AwcmRNeERySlZSR014c2hEZzRrVnljWjBqSHlSUVR6ZUREbllibVhIbHZIa1pnU3UwcGt1VG9KS0RfNVZwTjNFMkFteFdSTUFtY3J3Y2pnN2l3QkpKS1BaUmxqWGN6Wks0WkdfZWgwLUdOTjlzSjd6Q0tPVzRVR296SVVhZG1oNHZUMHVic3lrekpta1ZOa2M0MVU1djJ2REs1aFEwSDBkOEZodEQ1Zm1XT25kMG9FNHFUeTV1VFI3LUR3cTdSUXZtR2QyOWRrWjJCMDA5RmxCQy1OdDhBMHh0cUpUUW43TGRla0RGeFo1RzdQNndfZ0k4dFNRS1RDMEE2UlVyMXRScF84d0hDY081M2Rjc2VlV0JncldoZW80VDE5NDFLOHhwdS1IRnRHOUdvdUxFcC14cndDVWJmM0FJTjR1Zmc1aE9WZUpfLW5NTzVfQllDWQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 20:27:00 GMT",
+        "discovered": "2026-09-25T20:45:17.107175+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "إصابة مبابي تثير القلق.. نجم ريال مدريد يغادر مباراة تركيا وفرنسا يلاكورة",
+        "player": "",
+        "content_hash": "5504de1a9854b73e81c4cc304361609fee40948432015c0d3e57767efd42b77f",
         "sent": 0,
         "section": "sports"
       },
@@ -1350,6 +1382,22 @@
         "section": "sports"
       },
       {
+        "id": 5345,
+        "title": "بفارق 8 أهداف.. الأهلي يخسر أمام فيزبريم المجري في كأس العالم للأندية لليد - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxPeDlkc2FPTnNhQnNPVEtqeHByallndS01cTZqLU1XOGotLXNxa1FkbTF5ckF4ZWdvdDNiNkZ6SVNTaGJvMlpEXzJQMnhhMjMwbUVBdXFqX1NFZXhQOGdxbk15d0Z4MGIzU1hTOU1qa1Zac1RFQWRCUE9vQVVWeHlCeUdHNU1BQWNMVTR3aGE5Mm5IenhnSlpBU2UzUlR5V1VCQk5qU2gzd1NIN3FxVG43TTFjc2VDbGQtWnAzdGJzakM1OURBSmlYOGlCUVJPRGJCaTQ2SWNCdXNqLTNibnN2enlnNGNNcjMzdmdkMDRJbEFIYkhvMkh2bjNZYk1rTEljUkcwVEtMaHg2dGxZTUhha0lFYzNLMGdYend2TldDaFZIelB5eVlsNDFQSzVzSEVWc2ZEVFpGWmlBWnk4WkQ5ZTFwcXJQNlN3cklhY1ZQT1o3dGlUTFlIbUY5WlF3VG9VYnpDc2cySFNJX0FYUnBWM19mVWdWUDhhOUtGbEc5cnNHWlBUeHkzdUpSTEkzV05FaU1lVDRHR3licXFwZGx6dGZWVHpaRE1uQTJPSHd6TDduTVpBR0FNMEVEZm9yWjhtSE5yQWNwdzh4ejZWMTNiUVBzeHVBMjNiQVRCQmtPMndCVl9vX3dacjJqNGUyYjNLaUZWVUxwTkZHUHdXU0N6aWNIczZKSXlSMnhoQVV2d05BY2lxVFUtM3N0NE9WVzc1UkxYcDJ3TEh6R3pocGZWTG5fd3k0RDBL0gHABEFVX3lxTE5jX3VQNmtRQlR6cnduVkdjcFRDNGxEYW12NE1FUVhmRUFIWVFuQWFtZ09TRUNoSXBCYktkNlVRSG5JRDZ2MGI4QjZmWHdVX0piVjh6T0FrVWtKSk1rY1hMUUdpdVp4OFNTWUx0azBoSldpSU1Xa1RBLW9IamRYUXZIUThzcnlQYkZhd1l4VnlOcnJObWhmakVxdlBqT003TDd5UHAwRGtsa29sQzF1UWxfdC1TSGc1UmNtX3QxSWNhVUJYZXY2SThpUXE1ZWZ1RnBpMkpGVUpuV2NNVFYwRWQwRkRudnpuNVlIZ25hcG90M01KYkhEZVlyMjNWUS1iTTU1c29DM2FjeDBIMXJhUnJGWDI0NUMwS0prTWUyb3lINkxTV1RjSUR3QzFRaXM1NUtyekNLTHdVdmY4ZVBmZVBiNzV6WTBIcWxjZm1vX3laaTJDMjB2LVZMY3VkMXFmalN2dkpicDFqLUZxRnQ0aFd5anl3TTdEZHp1ZVk5ajlsVk5MWUF6bDRkUTRlLXFyLTIxTEI2SEtVNkhXWHBDeFlsSkg5cnpHRDVZRG4yZHhMZHZMYklycVlQeFFqUVhSQlhxU29mLVZMUnNvZnFSZWpnUzNGSlk0d09jSFI5RzVJTEF0VWx1RFZUQURzYWRja0JVem1Tc25UdkpiZTBIVDQ0TlpRWGZ3dWlCZmRhOGVENUpyTzJycFVPUXpxSVdybXo5eTN3Q1E4QThPUzBwby16V3hha3dNbW1XWmNUWG1VRA?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 17:07:00 GMT",
+        "discovered": "2026-09-25T20:45:17.832345+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بفارق 8 أهداف.. الأهلي يخسر أمام فيزبريم المجري في كأس العالم للأندية لليد FilGoal",
+        "player": "",
+        "content_hash": "9b567761d620e987ccf6a603e334cf762bbd97522a2fe8cba6cf350657417836",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5340,
         "title": "أخبار | بفارق 8 أهداف.. الأهلي يخسر أمام فيزبريم المجري في كأس العالم للأندية لليد - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxOR0J1SHRxUWdVenROQmhHVi01cjRsS1BZWTR0RVpMY0VnNXRJYVdTLWRFSmRLdmQxcUJYMjZucU94cElFd2lDVWE4ZnhuMVYxajNqNnZmLTVBRXE0MnE5SE5xaFc1Uy1kZ3BFOG9nLVJxSnJtLUJNRTFrTmJ4c3Eyd1BrWHVtRlBrVGhDaXRFSVlfM2YteXFmck8wbkpWcG14dE9VV19tbEl2c3Roc0JBUDJiLXg5bjN1TTBweG9tdW1ZcDE1Uk91QlhBUFM4MmtweGFGV3MzX1VPZHVjOWJPNEkteE90bmI4V2tSMXhvd3NTS3gtOGlZMGhVZlowb1MwNTg1RTNKYzhualRoaThhM20yUVZ0QVhWUDNkdHlEWTAyMXJmX1ZQNHNHaFNmX1NKYWNySFZoZ0llRjc4eGZDM3BJcXA1aXlFbTFGTUg0eUdMNTRCS2UtdjBiekk4QnJqcjc2U0dtSUxqRWE5c2llak16STJpZkdUbFVablQxYU5uVVpwTXhMaFpKdTRwZE5zMC1ySG5nc3R4NTkzMGFIQ3BlN1BaUGc3dHlRMTd1T1hYczJfMW43SVk0SnBkWkRxd1JBRmFESnBnTE42VFk3OUJiTnhmcFg0SVZ0OHI1QVlVanUyb1NRYWVvZjlHWHZLZHE5RU9GSkxqUm00Mmp1dW5VczZ2Z1hGYlF0dE04RWM3UVE3UE1SaGdxT0VTdlllaE5INWJDUDhNQ2lqLU1VbHZPVE9iZFA2NTZJ?oc=5",
@@ -1554,54 +1602,6 @@
         "summary": "دوري المحترفين - الإسماعيلي يحقق انتصاره الأول.. والبلدية يخطف نقطة من الترسانة FilGoal",
         "player": "",
         "content_hash": "c46db0b1320f802d5f924dff0e89f72b945609d610335f956a465c4d58c363fe",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5243,
-        "title": "الإسماعيلي يهرب من مراكز الهبوط.. ترتيب دوري المحترفين بعد ختام الجولة السادسة - yallakora.com",
-        "url": "https://news.google.com/rss/articles/CBMijgVBVV95cUxOVmNja0pEbmtBUGdhOWl0WC0teXVsdDhFOU9nNnFKSmF1Z09hQnhMX1lIRktqUGk5QXJOSGRQa3NpTHRIOW5CekxNNWJRdUdXdEFJYlRvZ2VXMGlOaXhIYmJZTkdHenU1T3N1N016UHZuSk9ndTJZNlhDOUNjcVU5TUhxNzdlNVo0Tm1jdTZwTTR3V2dpSExXaV9YbFJKX1FVcjZiclZYN045bTBlTkNyUUl1bnBOUUExOEpBYkZvVFEtbXR5b0MtZ3pXSlE4R0JhSWExVmVDYTE3eTRMTWgxdEZ2NVBqUmZMYWthLU5wWWhOZXRORENPbmM0QVVDQTcwM24wR25DYUlMNnVMVk16V0pueDROeG5zQjYxeTBQY2ZINlVXYmVubHo3THpEMDlKUzhxSk05aV80bTctMF9hT3pyckhyVmJkZHc4LURKOWEzQkwtakJ5WGt1MkRiVmZpbG9BLS1Oa3ZwUk1NTzMtTUJDMWhiT1NVMlo1VmZOR0ZBTWlMbk5DNU0wX2g0bkNGdk9taTRQd0hIZFRfb2IxZThSLTd5XzVWbEhWeXMxYk1kOFYyUU5YdmJVUHdhZ0F2WUpsa1NtUlBqT19lbXVLbERySldjcGZNalhWLXotLVhmNVVwMFo4YXJDcmxUTFEwVzNRcWJiUEJwaS1rZG93S1hpSlFfRkpiazVXZ1hxMjhEUWxYZFJLaUlsRFdnRUx5ZDZnSTZsZkthWEdtQU5XajY5b3d2aXFyZDRoSkRMQ1lTQjJKcWItanZkNTNTV01jODU1U2RoYlV2Nl9EODQ0R1Mtc1VPUTB3WG5LaDNseDVJeVAxSjdQT1hCUmx4NVUxaTl0TlhSWmFuY3BJa3fSAZMFQVVfeXFMTzNUZjk5bXlONzcwVUtTbFhpR2NpUjBCMXlEQkdJTTdJTkVwNEhiT29FYTdST28tWktibDh3RUs5dFNrUlZnRGJaWmJHc3NHeldURjA1aXJaS0pLQTNkc0RCdllabkdlU0tTV0RHYVNLSE5rUDFaSGd0UXV4NGtQaXByd213dGxEWVE5TXBZMVppM1VHRmdHYm4yZnZhNy1BYk4wVTRXejBUa0dzX1BPdXhyZ1NZamw2T1FwdXVtRnNYSHBCZ2FreGNvRkJjS052U3VRZzdWMWpQZVljWEdjT2lHd3RkOFoxaTlIQ01TczFxcV9xOGE1WnI5N01WU0VWZHVtV3hNRGQtMGNDTXc1c1I3QXJpcmJ0RmNlXzRtd1JUQmFnaDREZHJYWjRhNFNmSS1kMms1Q3d1T193ZGpfdTBLdEN4dzQtaGl5Y05sQlZlVDZqQWIxT25LdkpQN2NRYnpERE1oMGxTUFhwdVZiemNsWHYyU3pFWFBKbzVxajBINVhJYVdQZXF1cU1qcmZ1OFRHMV9zeTl1Y1liQ0lacVh4OXFpc3FqMlRMMjVDXzJIZFhVREptMlZZOU5kSE9MT0IwQmlZWnhDby1JYWo5VlRRSExUMUhLR2pjV25mbnlad3FXRzFYZlp1ZExXd3ZuN2xQUlJMMEpFZVhEaVZTNTduaHQ1QWVUZlh4SThoWldCV29hQXFCVmF4MVE4UnQ2cjZwSGRkdHBmamo3Um1BdkFId1VTcHpGb0J4bGc5eVFXRnhWbGxJYXNZZnpCenZwVTkyVmJpb2JmZ0dzM1RJSjRqdlgxcFdURUNtZlRNQXo4WGVyQ3JpVERVZktmTU0zaHpPZVE0blRHeGZ2SXYzWjdMZmM?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 16:18:00 GMT",
-        "discovered": "2026-09-25T16:29:13.368748+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الإسماعيلي يهرب من مراكز الهبوط.. ترتيب دوري المحترفين بعد ختام الجولة السادسة yallakora.com",
-        "player": "",
-        "content_hash": "2f3d264946cdb6f170795613f31269fdde8ff9bc8d7f35dc18b106a061ddf2c3",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5240,
-        "title": "أخبار و معلومات اللاعب بيهيو أنطونيو مدافع يونياو دو سونجو winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPZDdIZXI2LTd1NEdrYlRYN2pWTVpHZ3pEd1prcjFiaGJHajN6ekRIUFFHMVRQV1RFUlpZY0lJTTl3ZHpSSTdTV2NsUzFnTG9ialNDS1dBTV9iV3Jsc2hKdjZrQktWTGJLWUtyNTBLbkI3UDVpcVZuSmVYbHg2UFlqSW90MTBybU52Zk11WGplbTZlWFE2NFFEZ2NNbHV1Ny0wdVFPZlF6RVl5VUlNb1k0bjVPQTJldXE3Q0QxaGFNMTRkMG5meVhRNnJQTjVnQnV5U09OY0MzLW1KZ0RHN3hIWXZ5TEI3Ml9oVktNZmNGSEtLR292QTVJSW1LOFhqR05UdmdpcG4xeE1mUzdfakxjRg?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 16:12:35 GMT",
-        "discovered": "2026-09-25T16:29:12.722709+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب بيهيو أنطونيو مدافع يونياو دو سونجو winwin winwin.com",
-        "player": "",
-        "content_hash": "d8206bcf13433eb6d3da7bb510d8d1ca7399e30996badd23b1bc77ea349e4c6d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5261,
-        "title": "الأهلي 10-17 فيزبريم المجري في بطولة العالم للأندية لليد.. استراحة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxNV01mN01QYXUxYWlwUlA5OC1PdjNFd25HMmtNcFd0VzRIM0Fvc0ZGaUtHQzNYdjM2eWxIb3NNSUxpRjgyamlYRi0wVlRseHdVcVZ6UHhpMVdpTmtHcWRLUk5VZmtnY1dQenQtWTQ1SDBwaDJDM3RuUTBNUnptRU8xNHRPWW5NZWZCQVV0NVJHNG15enBWN1VzMnhELXdRYnZXNDRSSEN5Y0VEXzJpS3lXeW9MUDBPR0hqS2ZLY3k2RVFNTkREMHlzMzdGZG51SW5WaFZNU1Z1OTJWOVI2cWdycUxQSjFkRldHd2tRNF9naUFiQS14OVVDY0Z3dU9Qc0djNEgxdko2VG1RR2J5d0w0LWtBb00wdkJyUXV6QkdYdGNFVXRCcTloTFd0b3Y5N3NFWjdiSVZzQmo0a0d6ZW9uQXluWVVvUEYzTXBCMGJ2UjR2YkczcGFyQVZkazhkS2wzQ3NtMm9Xell3azRPenFuUW5RTVZQLWR6VTQ4bkFEUUV6Y3VtZnhFb05HdU4zTXNUS1oxd3libmtZUTF4QThhMDJtSjBkRWNxV0EtU0VkcDdtcDI3RkRFeEszQ0JLeFdSTEVoU3NlR2dZeEt5dThidW5OcTNiYWR3RFROeXhmaGhDV0VVb0htNkpuaG1KV3pkaVBsaU5QZzZPaHZ2YzE1cXFYMGU4cGhQY2Y5QjFYdVZJVHFGdFHSAZsEQVVfeXFMT1JiLWp4OVAxMXNiMUNxMXpaV1BLbHBWeENyNDFzTzNYOGswX1o0cFhmRV9XUGRMdDhodDNGcDExR0hRVVFoaWRGbEhPXzNkandqOVBEWnA4R25RbWlkbmpFd2dMbFhaazNjWUxQSV9jQmJLc2czbWl2azdkeHpQODFNZDVnYkdLNW9HcXpjV0M0LTljak42eVpUNVJhSVBoNklNaXdsUUlHNFlZYzB2LXdFNmRIOXpPeldKeTNSRmJPelF2bFlIcGlPdVdEV1lCLVppVDZRQm1ucE5lc3MzQmN4TURLTVZmeXdOejdxaDBDdWx3Mmg5ZFJqdTFkWWpVRzl5RmlaaVFfeFV6TXVlY0V3ZFotVU5jVWV0OE1hbmVlNnRwWHVXUmtzOFg2UTBQM3R6S0VFaTZEVGxuOXczTmlBanVKcHhsTm1FNHRhMHVZczBxQU80akF4SlZvS2lFNkk0MnlJdG1wNElaUHFtdTUyaUVwS05BQ1ExT0x1eHZXWUhxZV9xSS16ZnU4bWlUQ3YxQUJGMlZjM3Q2ZWZlZWNhQ1VrcTdGRFh1MDFvUlY2UmpxTnBzN0M0XzJiNXRmTUp1eVlLdlR3RFpPaUZ1c3hLWXdabERBUlZqdVIwYUtyckpUaUpqbVFuY1c0Qk5vWGQ0NkhQdzJjeS1lOWlTeXIxa2J4bEt5RnprdkJNNVkyNDAxV1ZxSF9lOEU?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 16:06:58 GMT",
-        "discovered": "2026-09-25T17:24:39.118694+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الأهلي 10-17 فيزبريم المجري في بطولة العالم للأندية لليد.. استراحة يلاكورة",
-        "player": "",
-        "content_hash": "22154c3c00c4dc7d726df0cf0ace169d735ef0c50b6fe46450b1424fe3457fa7",
         "sent": 0,
         "section": "sports"
       }
@@ -2219,6 +2219,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 5346,
+        "title": "السعودية تعلن ما توصل إليه قادة جيوش دول \"اتفاقية مكة\" خلال اجتماع الرياض - arabic.cnn.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcEk3SmlXZEpNWkkxYkd0eUQ2amNVdHczMUtOM3JCQzk5WWlyMUI3NWlRcVg5LVo2bG9OUVUtVGQwSndnb3VvRXhYTkluQUg5VHhHTTBQXzR4ZG1vNS11ZUJFT0lWelVnS0R2dEI1d2F1Zm9MRUdmLWU1Zm9pNmF0TlRpS1hXWFctWExBN3A2LXhpbmdUbzVicC1ZbkJuaUZ2bUpEcnpBZEFuTDhHSTFReTVBSQ?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 20:37:32 GMT",
+        "discovered": "2026-09-25T20:45:33.409517+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "السعودية تعلن ما توصل إليه قادة جيوش دول \"اتفاقية مكة\" خلال اجتماع الرياض arabic.cnn.com",
+        "player": "رياض",
+        "content_hash": "138d233da6ea204977e35653cdd9169e16a85cbf8496a0a26e0e982bb6adf5a6",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 5307,
         "title": "لقطات مصورة مزعومة لضربات حوثية على الرياض وينبع.. هذه حقيقتها - CNN Arabic",
