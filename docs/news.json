@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T16:29:27.953197+00:00",
+  "updated": "2026-09-25T16:45:58.468477+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -32,6 +32,22 @@
         "summary": "الانتخابات التشريعية لسنة 2026 تكرس المغرب \"نموذجا\" للديمقراطية في المنطقة (أكاديمي إسباني) mapnews.ma",
         "player": "",
         "content_hash": "90ad20e6fd517afa82f2db8af39d4132b19cd84d7b9a8f900f850ccb6db775ce",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5247,
+        "title": "رابطة الكتبيين بالمغرب كتدق ناقوس الخطر على خصاص الكتب المدرسية وكتطالب بتدخل عاجل - كود",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQYTVCN2RoSkRqRE91UEpmZFFpd0ZTUG1EZ2hwdUg5ZUtWeFhJVzNoejgtSzFFVktkZnMzOEZ6ejB2R2o5alhOZkJwOWlwTmp6Q2FOcWVhVHpkZGtDY2IteE1IMWFxaWptcjlKck9mc2ZwU0trQktqZnRFV2J4LURmN0NEems3UVpkc0Q2RU1rYlRvV1lRZ3BXdUZicTNXSWZwS0N4elh4SHl1TGlTN3dNamNxQUljeWRMdy1fZGlfeXFITWh2WEgtTU9LR3d1eFBWcDdCRDVOcnctOWpMNzVGdWxDNllYcTlYVENqZ0ZGZTh2cUxOS1lfcVBtNlJoVFBEMnlrV1hZMnlDbEJPeGFPSkEyYVZFZ1U3REVCMm90aDExVWhLdGE2UGFQbTQ3UU5hR2lLZWtUMlJ5OWt2QVdHb2hWNy1SVUE2bkE?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 14:30:17 GMT",
+        "discovered": "2026-09-25T16:45:29.654568+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "رابطة الكتبيين بالمغرب كتدق ناقوس الخطر على خصاص الكتب المدرسية وكتطالب بتدخل عاجل كود",
+        "player": "",
+        "content_hash": "2071ac63c5e9ace773a7a2f9c81a4806e721ed2933f6816689b2ccc46dd98835",
         "sent": 0,
         "section": "morocco"
       },
@@ -789,6 +805,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 5248,
+        "title": "الأهلي 14-24 فيزبريم المجري في بطولة العالم للأندية لليد.. الشوط الثاني - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxQZjRTQzNuem9SdkhJME5kZnJJYjBXYW5saTVGc0F3S0pwNERFQ2Qzal9iSkpiVk9fTk9yTk9Vbloyalg0UFBTTVNLOEVMZ19xUksyM2xzaGxNeEpUcDRkZXduZVotVTg0QXp4NkhTb3JVQU02VGQ4NUFXU3AyckRodTBJMXlSeHJqTGZ4TGhVcVI0cWhRelBxbFQxTUxyblhMT2RUS0V5QldtM3A3QzJqUEFMZ0lWeVNreThPdnlRT2JNd1BMNE11bGJVV3RZdWxHRGlCb28wcXVWTjF5ejd2X1JYUHRETUZfS0NaSENHaW9jSEtleVpLLThuTm02NHBYWHVrdjZHdmNJYlItcW1zcHJJMGI5a3dLSzVxWVZJNTZ3aDRaUTdlS19RU3AxVURhWjJjb1hPQ3NQLVFLSHZfWGhTeEk3RG5GV1BVbjVRVUhkaGwtaVNFX252Vl95MDlwemJ2OHRXQlo4U1NlS3RJYjhpTVhwNDhyWmJTdG5HbzBOZzF6MlRJNjZLR3pMWFpoR25jNmVBbDZnOHIyNUpjNUp0MXJmYURNTmhFM3pFZGVXT0EyaDlfcXZsRGRLZ3dsc0IzcTE2eFJWcHpNczI1VWhSZThMUlFTX0ZBOFMyYm0tOFdteWttWlpKdDllbGc0OXRiWjVZdzZQRjRwQUc1U08wM042RVZ2a0hOVWpxaThmLVJzdk1XWXJ0NU5Mb0pqRktNUXZCWmzSAbsEQVVfeXFMTl82Xy13MmNBREJQXzByeTRXT012NjdhcHZlZnJaYVV5Q2dOVDRoMjVvWUExaDNKbkI3dEhXZWJkbmFaaUxTeUpuNUVnTHhmcmxpel9BRi1oZks5a1pxeS1YRVBsWDUwdmhGRmtSSUlfY3VxbVFuSVdIQlRHSVRLXzlMU1Nmbm9zMk5URGw4VFNZd0xuVGNBV2QtZnRWOFdFbmVXTzRPdm92RU52OUdKSHpJSldCak4yRWR0U0VSdEJRdUVpZk9jUEszRnBPcWNkQXotM1M4dFZLdDlwZkJfNXRZV1Z4UFRVakktMXgyWVhob3NqTEpfcFJSd09kdy1Ld1hSTk9nZUZSdXZKOVFmb1NqSXp4cFhHcVgwZUdicURERDFnc3FDT2pRdGgza3pOTXY2cGUyNE90SVV5bkpiWnRkUTlsMFp3dGgwejBpdGVpLXJvTVV0WUZQOWJZZ1JySUVPVkRrWE5MWUNGWGJyTkxTaDVLa2l4V3RPQU8wQmFIZ1dITG14eHJjWWxqZ3FOdXY3RHBDMjU5Z1A2dTVGMTROR01hNWlOV3dWNkd5M3FhSGFLWjk1ODR1cVVCeEY0OEczbkJ5NHFGOU5TNUpGYmV4TGF4czFtODUySWdMVmotZl9YSjRiaE94YldZOG1ncU1GWTNzeWZCV3Y1OVdOa0hfZVlyN1dSZkRwZVZBVXlwUnVLcTAxV0wwbXRsdFphUk1HMVA1eXVUbXN1Mm1qdVdyWm8wLUo3NzJrMA?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 16:38:48 GMT",
+        "discovered": "2026-09-25T16:45:38.814665+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الأهلي 14-24 فيزبريم المجري في بطولة العالم للأندية لليد.. الشوط الثاني يلاكورة",
+        "player": "",
+        "content_hash": "d7f7854101ce2373febc6f9686801938b95a4e9e9ff725f54733150c9493dcd4",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5249,
+        "title": "دوري المحترفين - الإسماعيلي يحقق انتصاره الأول.. والبلدية يخطف نقطة من الترسانة - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxPcF9oQS1GZDdGR19jTng3RUZkNXUwekhqYmxqTjZQSXJMSkVWenJIZXhxNGRPSWNKcVlPY0ItUWdEdzViZ2JGOEh5enlmNjEtQkc3Mmk4WXFQUENseE5nczBaUW9hS3JWQTVVbXFZU3h2dHd3NXQxeFpkLTVLMS1zdnFjM0ZjOWlwRTVhdlNIUUY4UEpad0pqRUNKdWttLVowZm45bG90WWFxOUh6bkJSS2VZczE4VEZQcVpFZUhLalE5ajZqdzdKbXowSE1yMThsZVVObUdUTDBrQWd1ZllUTHhoLXpFMDV6Q3ZwdzhnWmtOM3RiZ3N4aVNKVkw3c19BMWpKTFhMVW1kT3A1TFk2dmY0S3NfR1pHTXNrQ2JOcHZueTVpQnU3ak1DNjJBSjhJNHh5UTg5NHg0YlZRMmhlQm9oSkRlWmxkWV83SFhuOU1EUkgybXV2ZklmNklOZFBzU092SEc0cGszbGxYbVFlVnNVTlJSYVFEdFVoS0o2UnFiWWI3TEdTOFZwenRYWnoxdUN5eFNod0E5cHhkaEQxc3ZqZjNoOElfb2F4bTJGVmZUdGU4S2JHR2tTTzhnTC1zUENQbnI4cm05eHUxQjNHMHM1YUpESWlxMkJxZ2FxemdwVlpBMXktRWs5NVhkVU1xU0MwdFFrYnA2Q0Nlb3pTcE15NEFUc1pqRE5FVlZiNXVmOVloYzNGUnZvYk42cDBVWFJXallBT21kRkVyZi0xNGQtUzhmbXZzM0d1YkNicXRTTjF3cklHcDY0NHA0SU5lMUlfalF3d29XcHlTUUk5UmdVTHVjdmvSAewEQVVfeXFMT1dGNEhrRTZOMFRfaUxyQTJrczkwVHNCWk1pd1pXd3VvN0lWZHJyQkhuQS1tQTVsdlFQN2o0OFRHeTlYMTBoVjhHYU82c2RUSVZsTVpVb0ktaFFjLVIwSnJvcmtqTElsZlMzQTdVX1dlcFh0VFE5WDJ1UXRtdnMzZGEycFp5NWZoVjBzYk1GM05tcWotQUx5NEpUdkRSV0xlLW42RzV4UkJDOVNuN3hIbXB6dFNVblpxLWl6bXQ3VTRMZmtsX2ppS3RHLU1CdjNSZ0pJaWtKNmRSb2VTMkJmYUV4Ti00UWFkMnkza1l0T1ltb0stLUMzOGFQWHAzeXZDb096OWJxRjBaZnM5T3NobDYtTDQ2TDlDcDVqckZQSk1jT0d0WWgxaDJwT1c4aUlmTmFLNEpuWmVFdHNaSVlhYTRFY254N3V3OTVPamM1VzlXT0tBZ3FWWTlhVnoyOElsX2R2c2pmRm5FWUJ6cG42WWo0M2RWZlR3a01oOE5qbGZZREt5MWtvemV1dVZfdGFremlEVi1oem52czhVcGowSU9Oem1SMEwzaEx5U0ViMzZVdTItc0t6LXFCV21GMUtDSG1EZWZ4cEp6aDJBenUyZXBSNHFWV1FPRTFOTF80djQ3Vzdna3pYTDZVQzZmQkJXdGQ5UU82MTNJaExJakZuZlhpcEI1ckd6bWZ0ZnAxdXdhS2ZGYlpObWxzbXRjcndPcUF0bkxSMWpZUjlsM283VW4tVjIwQ0xOc3lzbHYtNTg0ZHJQTi1rN0ZpdUhSMFBnOGtSc2liMHlXbjgzMVY4VDNhOU42MXVwU1c3eE4?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 16:32:00 GMT",
+        "discovered": "2026-09-25T16:45:39.688141+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "دوري المحترفين - الإسماعيلي يحقق انتصاره الأول.. والبلدية يخطف نقطة من الترسانة FilGoal",
+        "player": "",
+        "content_hash": "c46db0b1320f802d5f924dff0e89f72b945609d610335f956a465c4d58c363fe",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5243,
         "title": "الإسماعيلي يهرب من مراكز الهبوط.. ترتيب دوري المحترفين بعد ختام الجولة السادسة - yallakora.com",
@@ -1556,38 +1604,6 @@
         "content_hash": "bc5dc3aaf1f69d9768d9ba7154aab3eaa6532bef3af9a19ecb5e549c8767b4e6",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 5185,
-        "title": "كرة يد - انتهى كأس العالم للأندية.. الزمالك (42)-(17) درب السلطان - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOUFh0S2N0UE9zX2gtS1FfY2YyM1A5MkV0aFk3aGxsaFpQaXVhMjFtUFJWc3FsamtHNkZ0WU5CbXNsUTBvVWFVamVQZlVrSEZpQkQ4aFdSZDBOczdlbUV1cnBVR0F2eDQ4cHJRSW5QZDRBb0hMbDZmenFMN0tYM0VHTk9sbWQ1M2R5a1lLU0t5czRYcUdhR25LZS1zanBrRWVoOHVKRHU3bFNzT1pxQk5sLTk0MnRBZUhBY0hxQnNSdGtiTnkyQUM4ZURPQlh2SWlVWndDbXlUX2NVXzF3YjhXYkVLV19pUG1iQzhDTXBYRUF5bktaVTF0VFJ2T25PNG56ZF9BY0E0UUdlMDktUVdWUUhsa2hrOVc5bGFfVlg1YU1aa3RZS0lOeUpBVTNIcXZNbmtDSjRCR0RlSlV0OVA1U3pVWTZpcFRBMjFrRjJtcTRfRURKRmFMVGd0R3VnbHdTTDZodzJ5MlUtekxsSzFRdnJCTGthTDZIOFd6a092NEt3RFAweVhERTF3QTVwU0x3Rjk2OGVSb09kNHJtSzNhTldaVVczMmRNVktqT0wwa2p1aXMtUGtncmMtX3LSAcIDQVVfeXFMTUp6S1hNMG1obV9CdWxkTk9fajZqcHIzUFp3ejdYa3pDX01rRjV5THdHdmJPTFhMZG94NlVQWEVuTGpDUlk0OGg3aWVQSGZMTl9ERXU2TmVUQ09CYzlkckNDbGdwaXU0UlhQNVdTd2tZcDhNNTVWM3U3YTBnYVVsczRMdTZQMXFFRG03R2JTRi0zTDVMcmNwQVAyTWNfWldIZUx0OE1uVHNuZnlzN01YcjN6TW93WEM2MlJFVlZCc0E1YW5idTMyR0lLWjZ0bDcwaW5Nbkh4TktISkJHLTFRclAzUWFkVFBYUGVmbnBSLVFXNXhibEx5OUxLdExpYzJXRVlJMlVXZFhKUnBORGRoMzNIVXZSZ2dxaWxkUno5cU9lUXlubXRzNE81RERBdUpaYmJQZzJqak5oU05HVDNwX3BUZEtOUm5PN25KTXNPaVFsS1R1dkUxQ1lpbnozT0ZpUDhwRFVINVhnNFpqLVZlRWJSOHFRZlUtM2tsVXFtVENFaDZ6Q3BSeHp3WEs0cWhDNHlfUG5LR3YwdFFkOTFQVG9BdkZKeWxsLVBsdmcwQ2c4NUJ0clQtM25MSUlIYVJubG93?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 12:30:00 GMT",
-        "discovered": "2026-09-25T14:02:48.514215+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كرة يد - انتهى كأس العالم للأندية.. الزمالك (42)-(17) درب السلطان FilGoal",
-        "player": "",
-        "content_hash": "16999b5f3f38077f58c7c6394bf39e87abd3eb33a984a3076478fa6f6ab14128",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5168,
-        "title": "كرة يد - مباشر كأس العالم للأندية.. الزمالك (12)-(6) درب السلطان.. تقدم أبيض - filgoal.com",
-        "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOQmthRTRDY3pSRlFTSVJIWVdHVkgtcVRHNVYyWGlmdVRsS3BuYXpqbWJrNGNpZ0NDLVgzSWp4MGVSTmdYSXlxd08tbzdhak8zQXlVbmlOdWNiNGVaQkNVSC03dGJwWW5lTFhLclh1TlhuVkl2WVVnVTZOUWNWc2xLc003a0RtVF9id21BdFNOUUp6cjlNdHpycXFXMWhmNFB5dGwxS2lLN2hyYU5neFRha25BSEZpWWk0dmlnS0RrMmkzZnlDY2hrZ0J6NUUzcVdRT002M1REaVpQaHU1M0hlX1BVSTB1YlQzcWFQa3RYanpmeTJYR3hKNjAwYjBRNGFCY2RYOWtvd0dkX1hsSFBpaHJadER1MGl2MjZrNzFIM091REZRUGJCWUI1TEg5bmJfSVR1eTFWSFBTVElfX0owYzhxWkxMelNncU9ZRDRaWUNPRWZVYzdqZjFhb19qZ1BFX2RaMWNoWXF4OHFBTDNoSlB3dHJQclNuZ3VOZGxwSWdJRFZJTDZhdHphU0ZVcDZXQ3FuQlNGbGk5TWE4aFVGeE5TSG1WNC1NZE5HQmNJY0E1S3lIRGdZWmN6OTNkOTU4a1JaQlVUOElIWXBHQkxPbzFHODlnaWdLaU9CUkR3SHRjTFdpRWE1M3pkUnZFSFFaNmxudk0tUXBQcS1m0gGCBEFVX3lxTE13Q09ESXlkMlhNMTZKM2pObkJzcDZVRVN5RjN6UGpVWTMwZXYtRDFsYU1LemsxQnBNOEdHeDFpR3VkVzNCRWFfcXphUWlONmJMem9TMFVMOWlfSG4wcEpjODNGOWxJb0c2OURhR2twWUpQT3pOa21Mc2JZZ05OYU5DNGVFbFNXQlViVlVUVkdlbjdrd1RHd05ZbWt0eHpmV2Rvck1mc3dBaXlhR2t2a2NONk9YZXlWelRsY3pMZlppalJUbmJ4QkFJSE5FaGUwNnpMQUJRM2JUdnVZRkZ6SU1NSUZXVWtnWmFoOWRRNzNiSFNSMURzVF9xTWtzTzNwdW9qT213emppVFRCd3ZNWUpyZTRvYWhUdDFPNVI3MFYyY1RXMDRJaXcyNE9oblVZZkFfU3ZLbDdtMXVLWDFVTEYwUTJDaWQ5X1V6Q1dZMFNaMDR2YXhDTmRoU2pidVpoelVvdVNUdTc1QnVmYzZ6WDZUOGxYa0wwajJvQXRFcEw0cXpLZTBFMGxPMWFCSDhUU3RYbmpsNGJvaXU3d1JPcG9EbGI3ZFgycTZLd2s2U2FCNzFfNnBhWXM5c1NIa1VSQXg5dzBTVGhqdFNFd2dRdXJSdHRwNFJoNmVOSWZCUzZ2UkV4cDc3Znk0Tnhfd1hHcW1iZUowSUFmU1U2cjdhWEtxeGc?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 12:30:00 GMT",
-        "discovered": "2026-09-25T12:54:06.292435+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كرة يد - مباشر كأس العالم للأندية.. الزمالك (12)-(6) درب السلطان.. تقدم أبيض filgoal.com",
-        "player": "",
-        "content_hash": "af46b998a84462a832140907434cdbe592d701955f6cdcb31aec5552263a6284",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2180,22 +2196,6 @@
         "summary": "الخط الأصفر.. شريط أمني إسرائيلي يعقد شكل الحياة في جنوب لبنان الشرق للأخبار",
         "player": "",
         "content_hash": "7d82ae3d8a473a55e2f822f350171f5a1ea7910ae515826dece9ac3f7046c963",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 5070,
-        "title": "صفقة بنك مصر الإمارات وعشرات الأسئلة الشائكة - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNdG5hcGM4Y2hSbjJFR2k5c19CR240bHNGeHFWajdXODJZejRkZlBqUzFENlBodVB5X0xmb3NJUF82THEtNDE5Vy1UaHczdFBnS0dOMHBvbkNiU29sMEhHVTg4bjZXelkwdVlDSzY2VXVGWDQwSDE4emc4TTZSS09RV0ZQUWZHclBiaDJRQ3pTSWtGdlhlcjhtLWcwNDl0alBUWi1WWEc2OVRmYTZIMGlPUldVb09XNFZaeU1RbnlXNzVrMEQ2YnM3WXFwcVFnUkdsN3ViUTU4WERhZXY4RWxLc1RUMjE5cGh3S01PMmdtR3BuNXU4YnlLeE5zMFJFZURlQTZGUWxxY1pnR0k2NFktTER5NTRWdmcyT3hva1h2aVNMZXE2cF92ZWtlUTlVSHZLbkJaUXpjX1VhMlY5UHppU2piOFNkRG5fUVpxVXBpLUdUalBZVXBvMHNNVno3amtjYVd6UlMyd2dCZUdfUEt3dzNnQUlvRzJfSm5wZndWQTdSZ9IBhwNBVV95cUxQNXR2Ujc0M2stcWM1X3JEbjVKSUJ4aXcwclNqVG5zQ0p3bGJ3aHl2WS1ZV2hBckZsenJNOHRsdU5WR1h6VWtlMldRUTJQbzNLb29ZZVRHbzg0U0hoRVR0RFJ1djlpNlBycUJVRndoLVBvaXRQS0x0X1pHa2xQX0pEWUktX2xkaW9WX3R2V2R4N0JXX19fV1lmTjhSUkU4UTlIVFFXOEk3YWR2TmNiT1Ewa1l5QUpGNnNsSllGYW9fbmtncnVEbFVrWDBLQXU2VVNoRDdXcEtyZ1ZpaGE4UlRzZmkzeWVqd0lEWDJXNjVhZzNOUENOQnJtN3N2RzZqUThkU1JLdUhSZldmeTQ4b1kyUU1CUUdZUXZNRW9fZi1OWXFIQ094RnIybnlwZDZwaDlUUGRTRzEyUTNMSUNaanpZc1ZKd2tXNVVKalRnanlOb0hnamwtZkIyTkN6ZjRLbDJXdWROZGtRZ2EzNE53cU83c2hBN0hCRjIyZFhjbWhIOHZEU2VQcFl3?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 14:30:13 GMT",
-        "discovered": "2026-09-25T02:57:43.365990+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "صفقة بنك مصر الإمارات وعشرات الأسئلة الشائكة العربي الجديد",
-        "player": "",
-        "content_hash": "f10a23a7ecdbe4b5cd3c48264f54d9e2343488c581bf403744e57f3bcd325f0a",
         "sent": 0,
         "section": "transfers"
       }
