@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T04:03:15.034895+00:00",
+  "updated": "2026-09-25T04:21:17.439700+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -688,22 +688,6 @@
         "summary": "\"البي جي دي\" كيستنكر رفض السلطة تسليم لائحة تصريحات مراقبي مكاتب التصويت بقيادة واد اسلي.. ومصادر لـ\"گود\": لاليست ملاحظي المصباح ماشي قانونية وها علاش ترفضات - كود: جريدة إلكترونية مغربية شاملة.",
         "player": "",
         "content_hash": "1048313b8465a498f9713cf7ef89039db67cefb7b35de83870f4ec4104a614ff",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 4583,
-        "title": "الإعلام الدولي يواكب تشريعيات المغرب - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOMUF0SGRwNExZUWhCOU1iejJUcFhsWWoyRGdfVHlpMW5lLWZycXVmTG8xYWI3NHpPUGRYQk1iRUhNazRQWUdUMmg1OUctLTZVZzJrQUloMzZkS2x4Wm9XeUxfVFVpa1hXelIzclEtV0UzSlpuaWtpNEk3THVSQkVwSVkyLTlSYVZDbkJaazI2bHZMYWFjZTBoelBWQWJNc1lwY0xpMG9EbkNmdkFXMU9qMWtUd2x6ZXFRU0U5eWphNGJNMFo1TXZwbk5qLXM3S2VwQlJuc3VuczdQeHJMbHNfa245VnozM1NOekFsQURhNVUyRTZydXdieEtsSDdib2lQM2wtem8xT0J3SjJWdk8wQnczbzJZbjcwOUEwd0tBQkRucUZqa3M5NEJMTkJyalpCb1F2YUpDXy1xcGVEZHFuUEIwNENQUkQwLUNTcUNqYUdFLVNf?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 17:11:19 GMT",
-        "discovered": "2026-09-23T19:44:36.202357+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الإعلام الدولي يواكب تشريعيات المغرب Hespress",
-        "player": "",
-        "content_hash": "b39d77717b25c112639f1131f3e7f0125ab3ba81681676c7fec06b1a77e2c69d",
         "sent": 0,
         "section": "morocco"
       },
@@ -2230,6 +2214,22 @@
         "summary": "خطة تضم 71 برنامجا.. ملادينوف يعلن جاهزية لجنة إدارة غزة لتولي مهامها الجزيرة نت",
         "player": "",
         "content_hash": "9f226ce8d60a644bd1a452d63f3a4487d18479de19a3096a8f1740930ddb3b56",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 5083,
+        "title": "بعد تعرضها لحادث.. شمس البارودي تكشف تفاصيل نجاتها - العربية",
+        "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQWUtXdy03NlBVVXBEbXZWaUY1OWtoNWF2ME15WVp1U1g3YjhCNXA2aGtjbGZoMHBrX3lUbndIaHJRRkZfVmFSaXJsb2tuTWF1U2Fka3QtMkQ0NERpbXdTck1EaHppQXN4M1IxOWtGb0NWdTRwSkxXdHo4WTZSZ1NSOGVNZEp4OGpzdUJtUWFxSEZMc0RKVERFRE5XdnVmRlNhVnRScWtzU0NkbmxCdFQ4N3h3Mm9lVFhhME0yM09fZlczOUVwVW81WDJsYXRPNjdLeHowaXNBVHdTeFNwbDZFMzNKaWRCZE5xU3g4RDVGbHhMZ1pyZHcwV2VhOHlQbERxaXF2UUt1c2toYWV4NndMQVBKbFNkTHl2eUY3eUpmZDFleFJ1NXhZeUNQTXYwNDRnanltVXlGNGQ5Y2ZmMERTWGY5TTlyX1BxZnhtQzZVU2p3TGRhUEkyUW1scVM4di12SUt2VllnU3JOY3VKbklHOXZPOURfakVfd1BVSlFsRG5LQjVpTTNMUzg4Tmdhck9CaXVFR0hWT2UzU3BZbjk5THFJZld1ZnkwVFZJX2tDZ1ZjX3JG?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 13:06:00 GMT",
+        "discovered": "2026-09-25T04:21:10.263181+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "بعد تعرضها لحادث.. شمس البارودي تكشف تفاصيل نجاتها العربية",
+        "player": "",
+        "content_hash": "6f9ffe3217fffff40d1c1b19c47fd661de8321a161076f1fb353bebee8b7b95c",
         "sent": 0,
         "section": "middle_east"
       },
