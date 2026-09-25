@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T09:31:59.113108+00:00",
+  "updated": "2026-09-25T09:45:44.470365+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -736,6 +736,22 @@
         "summary": "القضاء الفرنسي يحيل أشرف حكيمي إلى المحاكمة بتهمة الاغتصاب Hespress",
         "player": "أشرف حكيمي",
         "content_hash": "36a1cbd5a24795755efa41dec376f4b7c0498fc3defc48bc846daa4efa728fa3",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5044,
+        "title": "التحقيق في مزاعم تزوير انتخابي بطنجة - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNbTBnOHhaOWx3N3ZEcmpqUEd1dVpCeThwWjZqeUVRSGdJbkt5TTlLWW9QYUsxTXV6MmotWm1xYnVzQ3B5ZUp2UzdrY3RCWUI2NGppV3VOU0VLOTl3LWdmeW42S3RMcGRXS19aNk8zWmhDVzFRNDVHUk5YeFVQdHduTWVVX1RfTnJSdlhTa0ZBV01NUkFWN1pET01XMTM1N1g0SUpWQ1R1VjJxYUstcEpfSkhCbGVmOU05eXBPM09wTVFHN1dNSy1RcG5TSEVsYzJnOFFCNHVRVXU2U3FVSEZVby12cTdncjNTVTRZelZHOXJNc3diZC1hNDRTV0pzYnNYWk9GZUplQTRSVXpyVEw0SGJmZ2NnaC01ZHVfV21GTDczU2FBdktqczl3cFBUZWk1azNnRUU3WEtOUy1JamNzaTgyVkRtMFNjUDR0UUdGYjRKMWpZTVhR?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 13:09:11 GMT",
+        "discovered": "2026-09-24T23:41:04.973053+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "التحقيق في مزاعم تزوير انتخابي بطنجة Hespress",
+        "player": "",
+        "content_hash": "6cc4aca3de2c8fa96d86b730e31e4b0c438a52c5d8fdeb8441846b5fbd88f115",
         "sent": 0,
         "section": "morocco"
       }
@@ -2132,22 +2148,6 @@
         "summary": "الخط الأصفر.. شريط أمني إسرائيلي يعقد شكل الحياة في جنوب لبنان الشرق للأخبار",
         "player": "",
         "content_hash": "7d82ae3d8a473a55e2f822f350171f5a1ea7910ae515826dece9ac3f7046c963",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 4626,
-        "title": "رودري: اتهامات ريال مدريد للتحكيم تضر بكرة القدم.. والملكي كان مهتما بضمي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOUklRaE5SWllqV0pPMW83NU01c3Q3anJBbElUdjBidnVUU0Rjd0lpczZkZWVVd1NkY3lKVlI1NEVzbEQzWTI3cjlDNEJ3ekQ3Zjh1bWRVNzJvTVQzZ2hFNk5ZVm9CRjh1UW1Ob1VGMzVwOHcta0VLbVhET2k5ZXVOb2pGaDFnZkZwa09IbVJ1Rlo0WTQ4NWp4UzhvaHl6a2RUaVZOU2NSNnFVX2xIMkdsTTNBVjVfM0lTUHFaQmgtVW9DZmhuY1VsOVlUVVUtaHlzSURIVEpwR0Y3cTNSTzljcUtidC04Sm5BWS1vcnI1aDkyWmdsdUJidkdwRTRXVmE1ZW9rdTVPMmctTVBtY254UkJ5UnJ5eU4tU002bzdENk8wTnpJOVZBaFNPdHFlUl9aVjB0Z0hGMjdSMjdwczB3UjUtanphWVdwaWIwQXZWQURMdTQwOXk3bzdBeXdQRXo1SWNMUFNENU9wNmktZUpZSDlGLUEydWllZEZsQnd1YkFnUXJYdlJ1OG9ZaXFERTh4OEJlM3BvMGlZXzdaQm1fZGk2Nm52ZVBkQXVkSXBVRHpLVHFGamdxUWE0OXE3SWJDRVpUZ21TUC11aU9KSjFka0dQeVpGV3JheUEta2JSeUlNYktoTjg2OFNDbGRSc0ppVzBIS1Z2STBxSjB4al9tLTZPWno0LXdSOXh1Mkw0VWVMUThsMVNXb2JZQ2NrSGxiVzFBcDR6TzBqRUlsNk5FbDRGb2dDWGt00gG-BEFVX3lxTE91MjhheTh1RG1YUlNpQkxCWEZEM2ZkekJ1TkRaRGRXNW9ncy1Va2M3MGQ2SXNNdXczSnlrYXVGWlJlblhuMzd6OXRHNDQxVERlakcwVkhqVFg1WkotcVNDYTFGZDRtTHJ6NklNZ21ad1dSSFNmX0J2cUxrbUYtTTdLSHVuVWZ5T3BVSklSaExhOWllVHJISG5aWkVWZDVEYWtycDZLR1hBdG5wQUV5UGQzTW9ZS3pGWnhtWEFDd2FINzFTYTdjWXNyUnBOalBhT0VMcFJLNmVGVmVDOEhfSFZ0RGJBNW5vX0pjWmgxb1BVczJMd1l3Q1RydUFxQThxZ1Zpb3MtVUZsTkRwVXdrUTRSUF9VSjFRc3dFOGwtSG5DbXVlZHE2N1pkQndrVEpKLWZjWjhLQThsMGl0QmlhRTg1bzRwTVRqVGlNLW83am9IQ3l2bXNEUEo0N1RjNE1QMzBIaHQ2dlktcUkweWZjRkRvU3hpMWVDVDB3TWw2WDVIX2pLRjE2VHAtb2lsdjJ6dkxvbkZDdjFjN2o0MUFnWEhuWTdNdGZodDJkV1c1cDBsVFM5YU5PZGVzaXMzbnZQYzBzc0JYc1ZLM0tUX2RiWEc2T3dnbTgweWV4VVFyQnh6Zzc2cng1SF9aQzRnVGRhSGo1TTA2RkctVGI3UVc0QkY3SDcwb2JKYUlacEl4cWNPWkZmY3NUX0xGVGZleXhzZG51ZkdMdFZ5M0RNN2xkMEZzVzk1RkZTN1diNzNiWkE?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 19:33:00 GMT",
-        "discovered": "2026-09-23T23:04:16.845026+00:00",
-        "category": "الرياضة",
-        "status": "اهتمام",
-        "summary": "رودري: اتهامات ريال مدريد للتحكيم تضر بكرة القدم.. والملكي كان مهتما بضمي FilGoal",
-        "player": "",
-        "content_hash": "60ee4f7f9c5f8ae46abb9217f8bdd22e92bc26b6c27cd345bcc8718ade5d6876",
         "sent": 0,
         "section": "transfers"
       },
