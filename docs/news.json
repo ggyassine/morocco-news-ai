@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T11:48:28.228486+00:00",
+  "updated": "2026-09-25T11:58:26.324694+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1560,6 +1560,22 @@
     ],
     "transfers": [
       {
+        "id": 5158,
+        "title": "موهبة الطفل بين التشجيع وضغوط التوقعات - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOenFOcGRMY1NjSzFtN2ROV3ZoM2h3QXdhajA4YUIxVVlCSW43RWp1VGdISUF2R0tSLW5fakFFSUxKWjhRd3VkLWxidlNINmRLeXNaU0xicHFXYTZZekVpTFRvcmM3LVZwREdqMzZnVEQyUFBKYVZYMlNrSU1LZGZtbjFLMEhaV2ZiRHVIc0FncWRDRlY3cFh6bVBDR0tPYzA1SFNNZnY0RmE5WkxLSkFkQkV6Q3hHbk1URy1leFlINTRRakYtd1N5OENoZEw0S2ticnY4bG5OX0FGQ05XSVd4YlR5RlE2b2NOMUk3aFdzeWdHVW1SWk9odFdUSDhxRjVHcVEtaWJ0THpXUkt0Mi1UdlIzdkl3YXlMN0dHb0IwM1RjUEhnOXlFdVVkbzhQZ21Ha29sYmFRalFFMFdwN0d0VUJzY3RzeUxwbVlv?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Fri, 25 Sep 2026 11:04:57 GMT",
+        "discovered": "2026-09-25T11:58:18.958880+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "موهبة الطفل بين التشجيع وضغوط التوقعات سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "653410b69461e86c491fa91ec1e544bf748cd6e4411179e548b5d2a509a4f636",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 5141,
         "title": "هدفان يفصلان صلاح عن قائمة تضم أساطير العالم - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOb3RiUGxQX25QWmVmZ042aWlFY3g2RFhVQ1pkRDA0ODAzSjE1ek92WnBZYlRtRGNraU14TnA5SmpPYThjV05hODRtNWl0Y2Ywc0ZXaWh1dUhYM2pTRWlBUXhHbWdyTXpvV1lfbmh3VUdKUWZaX3N4dS15NlBJNTIxX0RRUzlVdUNjZFNhb045b21lTXRtNmlkdGQ1bjlJT0dOMmVjVGhjNlo0d0RWdXVtNEQ4VnVhcGNDd0JwT3JWaEtxV0JWNS1rNlVERnhZcjJQRnBWZmlHUkF4MXJYc3BhM2lpUV95dExMaHNHaDRuX3UyUWRpS1I5ZElxeDFGd3dFelZ1UTdRQ1hNNUt0R2w5V1paQVB2TGFHUGN0ZjBhUndHNmIzLWR2Z2NoclAxUmJEWjJ2NFRIVGlVZGxmWHBhek9tYkx3c3ozUV9mb19OdG1mTnhVOGRYMGJBU0k1Ml8wZjZiSFlIWk9CX0NNRnRHSzRYZ3JFakdURUthY2xPOEdBTDlmbTU0Zzk2Rk5KbXNYR21MNi1CNkpKMkHSAaADQVVfeXFMUGJjQnlUYVpja0wzc3NRZzk1Q2xkYXB6VndVYlItYzdZMkJYVHhKelp1bGJobC1Oa0d0RWV6eGs4aWxfT3RObktBVHZEWUVPNmNJUXpfSTlrVGFRNVZfalBxOTBJbGhjd0lBd0V6cHNIR1dPemVyNGhPWjdqbklpbG1oNWlSLXZTVndGNGZDU3lLcmwyMGE3aGlEc293UHVJSDNJUkZFRG8zREthQkY1ZDRwTDVmdkdSUVpkbGlEWTZ2SVlfTGp6d2d5aDVIQmhNaTVtLUJKNGVXQWlibzR5bV9fQ1pfUFk3bk0yNGwydW1zMlN2UE5KZndZNzlTb2dBZzlQYjhJdDZnRjFLcmY5eFdwSXhJeTE5MXJTZG1GV1kzYWVxaE5Ca1V2OURyaWlJcEloQWJ0R3VBVHFVOFdEVUQzb21mRlZoRzRZNFhxZHhINjVzZ0ctS0lBZEw0ajB0blFhZnBRZWF6aVM5elhEbWJ5ZUZ1d1NkemFoQ1JkZTFNbTY0MEE2bDBvMGVwcVF0aW90Wk8yYjFUUGRnT0NNems?oc=5",
@@ -2392,22 +2408,6 @@
         "summary": "إيران تهدد بتوسيع النزاع \"حتى المحيط الهندي\" إذا تعرضت لهجمات أميركية اندبندنت عربية",
         "player": "",
         "content_hash": "2614887eabd54a69b56050d3809eb5e34a6b4be24988ab9e6f465a9eb4e2aece",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 4945,
-        "title": "معرض «صُنع بسحرك» تجسيد للظاهر والمستتر من قضايانا - alquds.co.uk",
-        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNcE1IOEUyVjV3aXU1UUoxeldsTHV1MHltRi1oVVVjS0dwV1BsTGwwajBrLU1ZUVRyWHhHNmVCdURjTldWVC0xQ3FIbVBfV3lSaG1wNjlQeGxDdUZnVlVZXzhuSWxHWUt3V1IxWmVYRV8tdF9aVnNQbkY2MkY2ZW9xcy13SHpBMWxDa2VzRW8xSXFWUDJOQWpqRkljVmo5SEMzS3IxR29Sa3FnS2ZIZGdwaFJuQWRVUkhPcUR0aEI2YXRzMmgzeUx6WGxJa1hUcVI5Z1VzTDZOcW9kSEppNk5kUWFjUFNIczlyMVhKYmlWaER6ZTUxcmZSLUN3ejdNelpOTnJORWZMRGpFZ0pKT2Y1Z2JPN2lnZzQyM3d6SXhoemJ2bUJZNzNRWGN5dDlHa3U5c3JScjNn?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 17:09:32 GMT",
-        "discovered": "2026-09-24T19:51:37.982156+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "معرض «صُنع بسحرك» تجسيد للظاهر والمستتر من قضايانا alquds.co.uk",
-        "player": "",
-        "content_hash": "20b91f402ee50fc2360e3d6470986db635258bfd38d06142935cc545e9c7f981",
         "sent": 0,
         "section": "world_arabic"
       }
