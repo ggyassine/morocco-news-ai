@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T07:39:57.598986+00:00",
+  "updated": "2026-09-26T07:50:25.968815+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -806,6 +806,22 @@
     ],
     "sports": [
       {
+        "id": 5496,
+        "title": "مواعيد مباريات السبت 26 سبتمبر.. إنجلترا ضد إسبانيا وتصفيات أمم إفريقيا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxPNFRvWnRUOE1JSmZtSGlVN3N2WHlXekJTZGlRRFpYOTB1V3Exck0xRzcyREluTTlmVDdWbHFrMUpQd2ZGd0l0Z3AwR3RUNUpLN3F6RXptZGxibE43QVJYb2lQQlEwRTRtekx3TTZOTTZuZTdmbjNiVkdScjZMTUJCUndocTdEXzVJR0VJemROSDd1N2F0bE8wOGd5MHVNLU9qeTkxa3lwa3BTdlh1NmhHX09WQWQ3WXphZEtsRjB0UHRoMUNDSXVXbThMdVpWRGlyS1EwRnFHanR6amE5V1ZLM3FDRnNSbVUzRl9yZkJ1Nkc2YlJjQUtRbVlWV1Q4dUdXTHFRZkNhd09pb09iMkIyeHpmRENJNjNTWWZqbkluWUx1czBIZ2ticldVOFdEV3loV29LdUtseHUtVURXbTlXT3hoZ3F0bkxnZm5VMFRyRlJLTWdfMmdyaHY4S20xd0FJYmF1dnJLWl9qSk9IdlFQSS12NnlfZUg2aC1Nb0JpZmdTMkhoSDVnZXgwT2k3NU5RaHdZSmtFR1hGa2MyUzJ1NGtwNkE0S3F3M0ZiaUlzanlfRXVydDJnbGpfRXNaSnR5U0FTdk5vSFdHWGt4VThBN2lackUxeE4zd0xzM0RKSGNWSXlJak01S0ZGRnZRTU9KbllHYXlfYVJHMXNoZHRndFRobUpLMEhHOTVUN01LX01vSjZIVGNlU1lqWnZUelpjV3ZqTzVxMjZLd9IBrwRBVV95cUxPb0pXenJseUdoNENaTjdmem1rQ0FPc0tveExVdnRhdjNXUEQxVjRJQUNNQms5OGY2WHFyZUlXX0Y4Vm5jUTdfMzZPWXlxcV9jdFdLN1pyeUlVNDU5OFEyaXNiOE80MHE5VEpmRzNyNlZFbmt6YmZTdGVMUzZUem1VcVlYVUI5UWRzNUxlUEJYRGhtVlNoZG9sTmI1U05XcUJjbkJ3d3N0Qy1Ca3Z5RU93RUJnTFU0NVpiRnFiMXpabFJHdTFCT1UyN3lMcWc3YlVaVElCTnpyTU9fSl9wVE9RekFQZG56NU5aOURNQ2E2Zl91bzE5UmtMS2d2OXRRUzVfY0N0dDhJOWZSMzg5NjhJcW90YllTTTctb00tNXVwUkViY3E5MWNGdTMtRGFacVM1cmF0SnRuSlFDeGxORVNlcEZxc0Nzb1Y1cTU4VUlKalozb3dGQk1iZ3dHU3JybHZpUm5fSDhPd0xaX081bWxQRnpxU09JUnZxZjNFWmZ5eGdFa0VxeHVqY1lJMUs1NVhMOFNST3ZFSFhCZjNRV2dTVjYxUFd3N0ZmUU02c0I2S1dMaWhpQ2RoazJlQ2tCYUticWdFNUVERGY4VHhtcnp0NHBHX0o0QTJnSVVlTEE4bVd4VjZqNTMtaVBrQTh6MmVNMG0xajRNaS02ZTFoT1EzaDVOQ1dUYlBENmxNZURkVXIzUzhDVjV2cjNoSTZDUEpoTHFOaWEtMTRyc1hoWkNv?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 07:39:00 GMT",
+        "discovered": "2026-09-26T07:50:08.576358+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مواعيد مباريات السبت 26 سبتمبر.. إنجلترا ضد إسبانيا وتصفيات أمم إفريقيا FilGoal",
+        "player": "",
+        "content_hash": "376acdfd4543e0a52818bcca3d7a28799bbfcf1da8345bd8af4127c0f998ba06",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5461,
         "title": "قبيل الانتخابات.. لماذا حظرت البرازيل المراهنات الرياضية؟ - سكاي نيوز عربية",
         "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPRFRsbWVZZGRUa0pSZUJzOEtyWXFoQkNjcWw2ek8tTXdORkZWbmhUcHlqa0pYOTM2SHQ5eTZ6MTNLbWhpWGtfaGRVUWl5Z1BBMHpvbmIxLWJNNjFEMDdnWkJSSl9jM2NEMnRzOXpSM3RxY0VGdUJ3VXdmSmdxSjUtQk5ORTN3emN0THlTOHhXaHhCMkhXNHZlT3pWM29NbGhlb0JrMXN4QUxLNnRxRWF3STJRb2E2YmhDeG01X2hodWVURk5fV3BRUDJqeGRVLU1ldzNxaHU1R21wSDNSRksySVo4VzZ6MV9acWt5bGNuMXRrNEUwaXV6czdIZ1A0WFo0dUszZVpuOXAxYW96TmlDR1hDUS1kVmdtZ2lFekR6ck40RFVkczZFTkczbndVbzJna3NsNmZqNFNZTG1nT09NSUtXTmV6Y3NrNHN4ZU45NmVVd1NkWnVqQUZGNUJ0Vm1QYS1zM3NHSkZZQ0dhbVpCeng2cWZyTnFqcVg0RVB4VmRacjlVNDV3XzdiRVprXzlQaHZTbmRiZ1ZiZjhzeHpmNGNvY1BBN1poMldMTkswM1RIekNkWFBmYW52QTBRNmgzbUdtTTdQbkpVdWJzQ1BIeU9PckxEdjNHNG16SDhIVdIB5ANBVV95cUxNaWNTX1FPcHFKTnlxaUxlcHBJUG5XUWpaMVAzZ0ktRXF1M09UOFJ1T2g2c2QwOWhVdzM2d2xrNm1JOUI1SjJvakxWZmc5cENOeEx5dUpYcWhJUzJqVFNEeTEyTnk4NERiRGlTUFFSbjJVY2xFQzA5NXZFbWlCNk5qcnpac2lnMTBYeHBPMEV0LS1OVVQ1LUlYXzItTm1QSkJWUEN6NVlxZUNoT3B0YXFhbl9CQ055Q3lKVWJsdXQyQVBZdG51cC1QNXNBbllzMmFvUnB0eV9tY0JFM1FmOE9Qd0pGNndIVVVrbnB5R2pYNXlfNkV1NTBja0NvRFpqbnB5ZEdHbVpiZ014bkRvWkdWNmw2anlBeEUyZFJMRU9xWC1HZ1NpaklzNEJKZVI1WE1FcTRiS0RLMjFpcGlUdDg1a2djRDNiZ0NodkpiSWRRMEdSRjdCZEFjVy00NjR5LS1BbGV0amswQm5ueFlqcWdBR0xoTTgxcVF1Y1haeGc5Mi1pOWhJUDRjc0oybEhCejV0eFZNbnJJV0tNM1JfN1hwWXctQm9CUk42QkxvV0tITlF4emZfYmJ5UERnalJpZGNSRVZobXlZcTJMX1lZQlZZY3RuMUpCTk5RRVJuSmkxOHBranFU?oc=5",
@@ -1586,22 +1602,6 @@
         "summary": "تحديد موعد المباراة النهائية لخليجي 27 365Scores",
         "player": "",
         "content_hash": "e799fa3093558cd35b66fce0e87f7a57ad91157803524e925c477ebbe67497e3",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5386,
-        "title": "غياب جديد.. المنتخب السعودي يفقد البديل الذهبي أمام عمان - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxOdHV0MzZVTWZ3RmVhSW5ybVVHTmtwT2pURFBac2FtWlFGdmM1bnc1QTdReTlsZU83bUFHRl9vR1kwb3VVT3NJZWdyMk9xN2JSUDZieENJQWhFamhhREdWRUlQcFFoSVZ2bWZnMm1yWEJNZVotWnBFNmt2WGZkcVlIMS13bjN5WDh3V0NWZFlraWtNUkFIM000X2FJbVE0ano2ZnFKZk5STjBpUy1YZTZtampqWFFreXoyWVkyUTZsQVNycWdPT2lHRG02VG8zc0dKTFJRMjhFQWw2NUdic0wzcVlTMGJ6bDNJQUFidEo4LVJtaDgyVW1ON0I5cjBWWHJGQjBGeTJrRjlKYXRDekU1VUIyWEdBQzFsVlMxbGt0YW5HNURkV29ZdG1uMUhBRENWRkRGcFhHSGF3ZU9yQmVJLTRYNGUwdl9yb1VhT3RheFJ3ZmFtTzNvajltTmZaVGRaVDAxSGtoZ1BTN0lUQUNOTTh5TjdiS1ozbVdBdktuWFE1WXRIZ24zVG9xYjFuUVl0RW8tcDJwZ2NJU25yZElLVnd1cHlPWjZfR0R0MXZfV3N2NmVuZ0owYjd4c1hKVnIzYlRpREF2eE9COGhaVU1BOHpON3NlRkFCT3VNN3BRck1BTEkwWXBSaF9Md29aejdjZVlqeV9BRzJxazN2WDVJZmx6QVNCMG53TEl1NkFJbFlESXNpeTVMcDR6NFk1amFFX3NRYzNEUzU5bTBadjBmRVMxSlUwUQ?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 19:30:49 GMT",
-        "discovered": "2026-09-25T22:14:30.444689+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "غياب جديد.. المنتخب السعودي يفقد البديل الذهبي أمام عمان Kooora",
-        "player": "",
-        "content_hash": "3f79dbaa5204eecd4c3e4b4c4c86e6c5fe44850eb9754ce6cfaeda922d2b8b4b",
         "sent": 0,
         "section": "sports"
       }
