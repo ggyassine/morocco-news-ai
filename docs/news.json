@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T09:21:49.192634+00:00",
+  "updated": "2026-09-26T09:33:53.945405+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -806,6 +806,38 @@
     ],
     "sports": [
       {
+        "id": 5515,
+        "title": "بدأت مع مورينيو.. مدربون استخدموا إشارة \"لا للعنصرية\" - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxOdG5DYi1GLUlCNEtTdV9rZDRpTGdMckJ4Y0RFNzE1Z0xPeUVLQUt1c1d5Umh5NVc1ZTZBRmlxeHkxZERORUFpeDNmLUdJdmN4SFA1NW9MZHAxbGZ2U3pRWDFMOHRjQUZyUEJCQVUweDE5TW05M2VtOEJfdlF4cUdHREpBU0w3R2w2Nk96UWtmbVc1R1Nxdl9XazR2Ti1lSzZrbXh1V2Rfa3dkcEpHbnhvSUw5X1NUYV9wbmZjcVZvY0RtV3hzTWdFVExya0xDTXhpSUstc3JDMEtTYjZJX2xGWWNyeGNaWTRiY1duZVFPdFd1RWJwZW12VVFzcmFrTmJ1YjU4dU9NQW5VRm9fbUZuMTJobHlrY0Q2R2dfYW1yelVnRDVDWjhDU3hjcm9QZlRpQnd4U3FnWXJZZWJ3azdOXy0xSDExZXVuNFlvS015V3RoOVlmd3I1M3FNNVExV05jaExLbldma21vZ1hqQ0U5MGplYkpZcmxjelBTczdOUy1zb0RfTldtV01CMUZNUDFKYXMzY2loS01rc0JVQ25nM0ZYY2JqWEFaMmtHWURuY015dWQyRHhKam9FREZfWnJ4eG84LdIBygNBVV95cUxQQmxhQlo0V3F1bEs0VHVxVU8yaUVuQ21ab2x4T3NjdzdKZ29KRktLbDI2NEpXb0JVb20wQlhMMG5CdlRodEd2RERyVjdXaUR4UW13eWlwOUpBTnk3TVFoNWJRN1JvazBYZ3ZnLVFrcEsya3I3bzhLY0x0aXZTSkxzQkpySTg0MFVtX2NlckNwUTk4Z1ZjdXZtNTc2R0pUSUR5QXJmN3ktMEZ4S0NiV1JkeEhhR2tRbnpnMGE3WUhYcVFhdjRRNC14RGlZOThRSW03bkZRdFJFc3VpTWtBTTZjYzhiZUlrMGUzU2Q4eXFsWUg0N01lUlIyZjFqX3NhTGhsMVprSUxkaVZySzcycU8xaW5kNTdRaHpyT214dnhQXzFhMkk5anIzZzVmY0FLalloaDIyNmtFNXBNYy1WY0lzV2NMdmw2UjhIUzg1cGE2aUg4ZEpod3hfdTExaWpKOEJfbURWc2NiREd3Q0dFY1JjUVl6NXB2MzZ4QzBKb2ZsdWVfY2Z2dG1SZWFYSWtxdHVzVThXZTgyT3JYUDdIbFVKY0NOZmF6czQ4VHpRai1sMi1aM1hNR3MwUzhtNEhTenUzTmhROGVmcEl4dw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 09:23:00 GMT",
+        "discovered": "2026-09-26T09:33:39.290633+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بدأت مع مورينيو.. مدربون استخدموا إشارة \"لا للعنصرية\" يلاكورة",
+        "player": "",
+        "content_hash": "2f0e7c3c3b2687e1f64c6328583c2442574a3c5a773f460df5a5fab660018ea7",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5517,
+        "title": "استبعاد مبابي من معسكر منتخب فرنسا.. ما السبب؟ - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDMFd3NGZhM1o2U2ZpR3otRmxSb3EtamZqcmlzc285SndIWHB1cDFYU2R4TG1wc3k0VkRtQlN6eWROZ3N1dXE0ZExPSzduc2l0dW1jT0NERi1SaTlCemJQM0psc2xHWmFuZERuTUNSc0RwbUNZanBZ?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 09:19:51 GMT",
+        "discovered": "2026-09-26T09:33:53.405243+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "استبعاد مبابي من معسكر منتخب فرنسا.. CNN Arabic",
+        "player": "",
+        "content_hash": "da2966f3c1c8e9054122a342e976c9b6f9dd6dbdc39dd3ac05a9965d27de8da8",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5514,
         "title": "كأس الخليج - الاتحاد البحريني يحتج على مشاركة مادبو مع قطر - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPa3JweFVaNDdjRTJDSVFQejRlT0FGcWxTRWJJdzlXSldXOXlLckJyNk0yamQ5eERfMGVrSVhHQzJBcWlFTDhUZ0pFRENYMU8tWldnOGhSbkFWOU9KOFdsRlRvdDZGbmlmTGhic1RfTWcxajI0RWNPRW0tUjZYZ3BjNVhIdlpsSVJXa2Q4NzhKU0JuaWFmUnEwRjF1cTlBRXpnbm85alAyay1OM0JHUkNOUG11ZjBmRDVtN3VJM3pPRnFISm1PRWVJbGd2ZmMwMGpWUm16dk9nZHQzRGs3aTM4VzAweVZIZnMxVEFzNTNfY2J5TVFCTzU4dzFCeDllQWhuNTBTTUEtWXc3MXFfc09LQzJpWENLWjlRSDJhVnVCMVNpcEdZNlUzRG0yRmF6b0VzMEEwWm84djFJM3pXdXhpVVE1Z096WVlSemJoQnRUTEMwYUNDOElSUUJZdDFuaUIzU1VMYXlOVHRLSl8yR0hkNjdkZnJaN2RSU2txV21Pa0Zwb184Q2QyZGIza00yWHVzY3ZqakhMbEZsdkRNNUt5TnpoZlp2eGdpdExwVTlzckItRnpUZjJkMkhtbmoxbzRsZF9zdEpNZ2NHZWpKMl96NjhqOXM0UdIB2wNBVV95cUxQVHcta21Fazd1SVFSeWUzNUE1MDlOZjQwb1p1MEtLdVBnbGZoOEVBckc4bTlnaWY2MjdWNEY4TDhJZl82R3NZT1h1Qmx5OW1JVW44VEFiMjlKSExjQ0lUUm1hM1NSa2I1SVN3RnllUTVXcGVmME1UdEtzelRXVlo3c1dkbUhyaXM3UmVnNk92TzBITGE3WXd0VW9oeHhHVFlESThHYXFSbGY2cXlqQkFQYTAzUWY1VTBOUHRkY3dOS0dWMkdUNmtLT3RTRXF5Um1ZS1N2WkpFVlhGVmVfVk4zYXl1QUlpTzdvMUU5VHhBdWV2ZTIzNkJ6anZZOUk5a0FYYWNpc28yQ0lsUWlDV25uU3BhSWVkQjl2N3BnV050VEpZN1l2Y2VaZU1KUnFiWkRrS1NENnB5Y1NpWjdCSjRWRVhQNWpXTzA0RnZIUDgyMWo1alJrYXFZQnlhNk1EVExQOE9ZNzJLMmZPbVdTc3ZCTVNBOHZGbkVUS09YLW1tM0lYN0N6N1RyOUttR1cyeFR6c1dHcFdOaHYzVHdSNkw2aGZWWW1WX1Q5SmNEaUxQTEsyYXRCYWlJMDZib0hqenZqd1ZMMWNpZnh4MHVmdXk0U3I4NEdsd2xCS19v?oc=5",
@@ -1572,38 +1604,6 @@
         "content_hash": "49e948b5e30174b8208a5ebce8323f0b840121e88483f1c7cd782793fedd83bc",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 5337,
-        "title": "دوري الأمم الأوروبية.. إيطاليا 0-2 بلجيكا.. الهدف الثاني - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNazJtclpFc1hCRENvNkdCRDlGakZ5VG5CcDN4cFBmNFMtQ3FXd3ZRTHNVQURQdmUzQ0VreEZmZFdaU2ZaOHJfY0tHWUNfTUVYZ0pJU0VZOXZ4X1BVQzFnMnNEZ0M4UUQ1RExtWXpsU2k3b0JiT3EyNUU0LWxvZElEMzRwZGNhVWZBZFBTVHJ3OXhKb2k2aGtCa1A4bEJRT2pvMG4yaG5Na3BOX2JfWXRjZzFuY0JuNWNWb1ZDSVJxT0RIYXRINVpjVTlRaHdycXlFT28yNUkxejZITGFFMDlKaWd5XzRjWjFaUHROVjMtTUxGLUdsVU9meXZJc25veEhGblFTVGUweHJaWHI3cUgxbHJFaGtVU1AwWncxWlRRNkNUeGlCOVczM1MybHpsQXQzZGl6RTVrVk1UM2dBSXFOZTI0cGl3YVRkUm9BOG8zZXJRREVoNHNRQTdHQjVpX1dCYnRiQkFhRXVndW0yZXFqcFRGZ2JwNEFNMlZNRm5ZNlpOYWlia3gxaGtBOWtSeGxPbkdzRWRENmtGTWplbEYzY01oZVhERTNLNHRVU2RianEtUVpreUNoUXJIM0wtZ9IB0wNBVV95cUxOUktTMjBoUGVybXl6bXpfbkV2R1A3dlRMNzhTUHFjQ0Fad1RiN0hTMVFsQzdxblVEMTdNTlFIVTRocVBRMXg3OVlFaFdmZS0zLU5NUDJheEh1d18zN1BaazlQRHhsVkY3cFpBSnd6XzJxTjVMbDNWZnpGM013WExFeF91NVBoVTJGLTk5MnUyZ21rUi1OVFRhR3V1eVo4RjZxYnVGS2g0OE41aVJmdjdGUFVuZ25fY0JKMHR3SWRQRmRrYlg3STR0dE5yOWtpNnNIU2YtdVBrSThGazFrelRvdi1FQVU2cDZtWlZnSFZmTEtpdjRKdVlKN185djJOUmZwMnoxMjRWWFhpMkt2cjlGc2xRTG9uaTNOZU1HN1NCSkg5SUZpYUxYQ3BrQTh5dGNoSDlfRFNFam5NUGU0V3RJVDNNME9QdVFxcnljR2lsQWd2dUlCSUd4MjZQSDJQYnh1WWdLemxMMlp5cWttdUdyeU5lTktjb1BpTnVpaW54d2lsVTYzMHNMaHo2dE5qMjh3Z2xvc1dXQkVJWElhMENpS2J6SGIzZHJ0djJnSHFYMzkwTmVCMEo2d3ZPUDN2ZFFjNzI5bFBXaXp4eEtycTZMUEhKNA?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 20:17:20 GMT",
-        "discovered": "2026-09-25T20:30:52.952645+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "دوري الأمم الأوروبية.. إيطاليا 0-2 بلجيكا.. الهدف الثاني يلاكورة",
-        "player": "",
-        "content_hash": "2a01f3f64f3c42b7fad75d1c6a25ddd4177a2bf920c222e4a6751abdf4d07e19",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5349,
-        "title": "على طريقة حسام حسن.. مدرب أنجولا يعترض على حكم مباراة مصر (صورة) - yallakora.com",
-        "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxQdWJnWG52cVkxWXhua1NtX3BYYXdreFByVzVsVjdrTThGSENNTzMyclZDR0R3TlZEMmNHUmRkMTltVS1UbTNTbmZlejFQZnBzUFFqem5XbXZNSG0weFB4azJ3ZDd6U01xVW9FTG5KMVZRSmE3ZE85V2puSnpLeFdGTVRCSlFSZHBJMHAxUFctRm9XUFBaNW1fbV9mZDdwM29FZnJvSTg1REZmazFnY3BQS0NjNU42UTNsVk5uQ1Yyc2pvTS13bnN5UlRRT0w4UzFzY0plTXU3NHN4TnBhMnZjNkdnanp4cTU1SGczdloyTE5wLUg5SjhJTVVnSzVyUm1Wc3lMdzZvSFFsTmd1Y2dlMDBsSjlzckYteS1wSDBFNVc5YWxqUS1qV0x1aHo5dEJjNGx3Qm1PYkhJbXRqeFZUanNnbkVmakt6WFFJTkdUaXh1bHRkUmJ3S2VmQjdkTlY2YkE2X2dlMDM5VzRhQlJIT0labC04R2dBSUZpQW03Nzh5NlJnS1pfdE90Umw0X3hiVFRiYUNhY3VBTGdFT3FjZ1BuRWVCUHVwaU9Ob1lsd01RVW1ZM2dPTy1vZDFqVTBHd1NMX1MweHZwY3p5TUxaM3hzUTFrZXJrUGNQdGVRQ3M3NnZka2R5MUR5S0NmTEZTQjlBcEdpM1dpVTM3NlE0MGYtTdIBiARBVV95cUxNOUZSejl2aDcyWmVaN3BTa1FTbFdHekgyVGQ4NkFPdTRqTlJId2lBRDBHZHlYcGJfcC0wRTRhQWo1anBsa1NrTjU2VmdxaFYxcHFxdldmSDdkU2NuUDVQeFRfXy1NZ0VLV21hS2FLXzhqdEVXa0pVTjBxZ1I5QWpJY1lJWnozX2g1OXRMTmE0aWQ4Nm12UklmczFQTk51UUxON2RjczlvWHNtVTVqWWpSRjd2bTAyMmV5el8tdzgwNHZ1U1ROX1oxOEdmaHZaNVU4UHh5Q1dkNGQ3WW1pMWZRT25mbU1RcnZKdzUyX01FV3BfaTVpVllsSEwxejYwcTZCaU1XMWZzSnhRbGhyVFdURmpCVWFNblR1YjVzVl9fd2VFVU4wWnladlo0VVJUY1ItRUtpUUdVcFhwV1gteEhhbVZCVFNMTDE2Vlo4Q2p5WGN5cFRRMmpfcjVha04xRzNsY2RPdEp2UGFJeXktdC1PNzhfRFp0OG1Md3JBaXRaSUgxN1BuVjRTb3FwTURKaUkxN25mMlNySVFNSkFqY3UzVS1Ob2NpTzdpdGNGZFM1TU43RGk3WExyV2JxdXJVSlNJOFdBOFBRTENRWG1hVEZUOS1pbUFTT2dsLVlWTEJGZUlMc2lPRFRBeTRwVmoyRFJLSkduRHpuc2FtOVg4SXRfNm0zTEpmXzVj?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 20:08:00 GMT",
-        "discovered": "2026-09-25T20:56:07.670845+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "على طريقة حسام حسن.. مدرب أنجولا يعترض على حكم مباراة مصر (صورة) yallakora.com",
-        "player": "",
-        "content_hash": "7720833335e6002929b8df57ab4dcd2530736c0a7b9bd1137fb2ba055ed6a085",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1992,22 +1992,6 @@
         "section": "transfers"
       },
       {
-        "id": 5016,
-        "title": "رحيل الروائي المصري «حمدي البطران».. مفارقة العدالة والأمن - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPekRsQnVzaE5YS1BkbjlsU3E0eERReFNITjEwbW1uS0JSZmxXMnhvdVRWeTY0YTZueEY4VHZMcFE0MElEUEdwQmdTZmZ4THFaV0swZ2oyMHNxcFhEVkJ1aTM4RHl4d1VzN0loMFNzcUNnaVJURFgzcGVSVFhHaFk0NWZnczVDdHJMZUo5SlkyVndkNlFCbDdtWnNXelZONkZldzd1Sk5LZ0JmazBiWmk3MXdmU3hCSXZyYVp0cWhxZVdvTFE5a3c1OHpHTUdrYWNwOUphQWhGZWFSUEdOZEhqbHQ2ZmQycDlRdWwwR0paOTFfa3lIaEJmWUlQRUFFLVhnbVJzcmJWc0ZZUm1tU21KWnR5QTdvbXZWT2RZV1VoRS1TbzVLQlpWSlNyYXJSdFppblZrcEo0NkRUNW9aclE?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 15:34:09 GMT",
-        "discovered": "2026-09-24T22:27:37.636295+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "رحيل الروائي المصري «حمدي البطران».. مفارقة العدالة والأمن القدس العربي",
-        "player": "",
-        "content_hash": "048f30bdb4849db88307da0d5814ed4d07bd222336cbbc3cf4d65db43b3e138d",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 5054,
         "title": "هل تشكل إيران العقدة الأكبر في مباحثات ترامب وشي؟ - سكاي نيوز عربية",
         "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNb3hfSlgtSkhTT3J3RGhHWll5amVPUlpxbnczUnZEaUVLUFB2a2NOU2E5Q29Nd3E2aVIyVlhYQTkxMGJoQ1RIdjY0VVRCbE9lMmdtMHUzR0dyYWR6WmtZemI2djBXLXhNMlpkRE9SLVNYQXZCS3JXRklET0NveGVTNHAyZmlnN1ZaZjNXRlZLcG9Ta29KUGFibWdBQ29vcm5PTkFMS1FfRXI5V2RTZVRJc0JkVDhXYUtXUW10RGpTNF9pcENoQ1FDSjBUcnRKdzVVOFE0a1RNWHJYMVVBb2U2XzJYUGJqY05jR0pGN3RJcFAwUUNrSk4xVzJZa25mMHo5eWJ4MXl0Ym1zQVlyM2xvMWdtLV9jeHNZdU13THdGb3VRd29xbkw1S0RmbWtmTFBWbGhFVlZwUE5jLUF1eXVDY1NfOWVfZkVob1RYdHJUUTJnUWhMQzNwV0xXRV9oUE85VUUzSVRUNVRNaV9Db243QTcwMGFraG9BTV91MktsTVJxN0h5dW9teVp3?oc=5",
@@ -2182,6 +2166,22 @@
         "summary": "رئيسة كوستاريكا تقيل وزير خارجيتها.. بسبب \"اجتماع ترامب\" العربية",
         "player": "",
         "content_hash": "6c10cac9a6194766629eac96eea51da81fb82d46c45a6a70e4d37222b3bce054",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 5516,
+        "title": "وزير الاستثمار المصري: نرحب بالاستثمارات الخليجية بكل المجالات - العربية",
+        "url": "https://news.google.com/rss/articles/CBMihwVBVV95cUxOME5xbE9HQVNuNnRvdDFvS2swSWRISG1pak0wVWIwTXd1c1FscHdEQzlTQzBzbGhELTQ5UWhlR1JBc0Y3TERoOWN3VXgxWmRwVmRiYjRJZUJpSDEyTUxQQkJYbnV3NVA3UEl4YjBHMnNUYVBRMkpKRlItN1B1SFFIWVpqLVR1X2dndldVLTV3Z3hBbXdFU2F0eloxZzFKQ0J4azFyOFlsYWlrYlpCS1hENFRhSjYyNnNjUUVWdkYyNE5oZzFVNXJaR2dwN0g0U25DNXNpS0lxaTZMRFhxMUU5bzNTLTFPSUJnUzRCX2ZYcno4NmlIZGNYUnBybVAzN09yS0NaTllvV24yc29PUGhQa1RocnZ3ZGZpZUhITmFCMG90aDRndS10eE5pUUhqVWdUMFlKSHRKMXZ6MmVHRlM4R0kza2xpRzduWXo1OXRjc04zaFRxWG80U3R2SGU1OS03d1AyeURqNl9Neks5OGswUkdYRmRRV2NLcDY5eUZIajAwejdlbThraVFLVnFwbFdzMnVENDgyUFNmbTc4RDMyakEtdm50ZGgyT0F2MUQyTEI1aWItb3dXWWlyY1JvamxIRDdIUUhmTGt3LVVaX3FockEwUk84dnlEMzc5aTlMdVdNSDVxTE4yN0pTalBwNENCcUVFR09IWnI1aEtWSU5tY1NfTS1TSTBxSVFIYnQ2ZXVVdU9USUdudFIzNVMwMkIxdVA1ZktEWjMzLU9NZnFmUW1ickVYdW5hY3hxaFdtdzIzNlZUVm94bHJUTHlOcnVZd1JhZkcwU0xnak1YTnhTclRGMndTNElvVHZNZG0xVHBhbTU1TDRQWlRsVkoyMHM0bmF3OG15QdIBjAVBVV95cUxQNE1tb2pOb1hXNUtHSXdHWERxQW5lMDU3WFk3aGVITGZnaU51OHRoZ1JEdWZSdlJ6RThwd25TLUJfSlJLaEpjVU5PbnpqaUxjZ0Z1VmdoQ2dUSmpucnh1ZDhab0xWV1Rsa1RqUVZvVXI1OTNMOThSUHludlhFLTljR1BYV2lDV3R2MWxYZ0RNWU9aRjlnRDNzdlpRMl9fVEZOYWFadXQwSDQxME5lc1cteXB2SUtzcFRSNlFzY2k1ZlFiWFRydTFtNUozcjBvM2Y0VUkxNG5VenFUakI4Wkk4dXJYc2o2RFQyTzAyWW96TUZBMWFqcHpFZjdZRUpvLWdXa3N5MjZ0MHhjWEFjbmd2MTNfSDZwaG82Mk1nUVFYVklBeWdMbTVnNnJjSTAwMEdCTElGWkJ0ekROWHZ0Vk9wdExGNE0td19hUnFBZVhJZGtWN2NCQWMxOGlVRkFIR3dnZ0F1VGpScy00TXRNQkRicFN4clJWZEpic2JoaHBCWEpqdzJJeTBjaDZSLUNFOUdtOXRwSkhELVZEcnpjcnV6Qi1GS1dlYU10R2tmWEhxNXlJbWRfQmRvVXRRQ0dFUnJvYjJoLXJJZWRseERDd3YxdGhDZXRSem9ldUJzTDZPUXVKYlFoVkYwbXZBSkRjVzdPbzA5YkF3bTNYOGMzZFhVZnJXTHQtN2RTbzVuTm9Mc25LSF9CcWxfUnFqUVJZdUFfdE1qdnBjY0RFQk9KazZCb0VmSHBKT29TckY2Nlk1MVRRUk13OFd0SkkzSEVjdEFWMjhnTXpqaTJNajFYYWg3QjJ4MzRFakpLdkxDMUVkX0x5TDNyOEcyRzI1V1pHcHRoamFxeENoTjJSY3Q4?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 14:13:00 GMT",
+        "discovered": "2026-09-26T09:33:46.378193+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "وزير الاستثمار المصري: نرحب بالاستثمارات الخليجية بكل المجالات العربية",
+        "player": "",
+        "content_hash": "ec5e89668c7b63e18f747cc899888b11854800fc24413864c6e3a373d1002b7c",
         "sent": 0,
         "section": "middle_east"
       }
