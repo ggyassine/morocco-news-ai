@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T22:54:55.045359+00:00",
+  "updated": "2026-09-26T23:06:25.645759+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -208,6 +208,22 @@
         "summary": "برلمانيون بارزون يخفقون في الانتخابات Hespress",
         "player": "",
         "content_hash": "a9a393f9e740226a4d038bc0252545816e744b7397f24d4455e5a74a626d00fb",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5794,
+        "title": "الرباط .. إطلاق برنامج دعم الفلاحة التضامنية المدمجة لفائدة النساء والشباب - | MapNews",
+        "url": "https://news.google.com/rss/articles/CBMi-wRBVV95cUxOOVk3RmNvZ3VsS3lxMjdKWDdsMHNFbzQzZlRRQTRzbjRvQlpMbTF2U0dweU1ac2xGMDlPX25JR3A1SjJhV09La2hGV01kaGhwR0ZnQVJlaUxiTHFLQUo5S1hkMVRCV1JuTGtteUhBd2NjbGZWYjJXeWZNc3F1THhRYnVybEJsaXpmLVo1MmZaMmlkWmZsZDJNTktyYk5nWWh2RzlwNkdnUlRsUUVKWUllTzhsbVhfOEVPM1QyRk00NjRXSlJtOGZuY1c1VUVJS3ZsdDhremszc3VTRGxnVkZhcUtfLW5WWXJSVlB3aUh6SzJtTC1jLVExRUNuRDBKV19YQ3BXazRYbGJDR1dwTUZlck1mSkE0Vk5iWjVYZ3hON1MtLWJXZzl3RHBDT0Z2bGlGUUd6bUQ0ZVR3SFBPcjQwd1VGMHN2bWZ3Z24yMWM1R3B1eEV1emhOSXhYQkYyU0o0WHp1VFZTenBvMHpVc2l0N1JrcHhjZVdrR2ZPajlLTzZ2M2o3TUpVYkh0UDZrd1EweTZzVTU2X0xheG9jNU4wa1psR19KWFBfa2xSX2t0dEdpY0xoUU5EZTBLR0VWNVZIdWdLbWZnRUd2YVJmTG9FVDl5M1Y2TndybWhyVFJGVXdOTmFsV2RLRmdKSjhEdHBlSkllWUVvYzNiVF9OQmJjWkI4bHVNdlIwOXlSbTZPWHNibkNrM2lLakFZTnRRemxjWXVhaGUxMkhfUjRUVldyX3RRZFFzWUxqa0hOVkRSdmRXclNTV3BwZTZyWnp0MmZydXFBMF9CWXhDTk9pNkxjVEg1TTA0V3pXTGVZUUQ1ZlJpeTNKRWt3blY3NA?oc=5",
+        "source": "MAP عربي",
+        "trust": "A",
+        "published": "Sat, 26 Sep 2026 05:09:25 GMT",
+        "discovered": "2026-09-26T23:05:58.690101+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "إطلاق برنامج دعم الفلاحة التضامنية المدمجة لفائدة النساء والشباب | MapNews",
+        "player": "",
+        "content_hash": "e35bc0874258969a20a95cd26f5f4371fd1bc16c0a520aa80ce114ac741a7575",
         "sent": 0,
         "section": "morocco"
       },
@@ -436,22 +452,6 @@
         "section": "morocco"
       },
       {
-        "id": 5294,
-        "title": "تشريعيات 2026: الرابحون والخاسرون وما تكشفه المقاطعة عن شرخ الثقة بين المغاربة والطبقة السياسية - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16SDNBelNIbk1tQ1d4VzNGbk9ZN2FsRnljaEZKVWxjYkVZN2ZMUWlPd1hJZFl5emh3aTFMZ1djX1JIT0xtMTllWlVnbjBldVZqQ3Q0MmYxSmFFSEhrUFlGMDJPRmpzSmpP?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Fri, 25 Sep 2026 12:50:34 GMT",
-        "discovered": "2026-09-25T18:49:11.902310+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "تشريعيات 2026: الرابحون والخاسرون وما تكشفه المقاطعة عن شرخ الثقة بين المغاربة والطبقة السياسية Le 360 Arabe",
-        "player": "",
-        "content_hash": "d631dd7c841046885014f48a942969b46c1614dca9f62653ceba998373270b81",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 5477,
         "title": "منهم لطيفة رأفت ورشيد الوالي… فنانون مغاربة يوثقون مشاركتهم في الانتخابات – اليوم 24 - اليوم 24",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ucjhycWYtbXhZVlFTOENpRWhlNVFIZ0ZjaVg0Vml6dTI0QmsxbEgyMTY0UmlDQW0tSkt1RWJGTzZmb0pJZ2RfRnZn?oc=5",
@@ -629,6 +629,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 5796,
+        "title": "أخبار و معلومات اللاعب أسامة جلفاط مدافع الاتحاد التوركي winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMDlNaTRYWFNSM3IxUl82T3pBeFhseW90NGV3TUJnVXRQT1JBQVg3NklfdEk0amlHeVdVSmJYa0lna3dkVWYzSThOZjNSV2hmX3QwbndwMVZKMmItR3dfXzE3c1ZkenFXR2g0MjY2cU5ENlgxckd2QjZEVVJSZWlCTkRQaHlMeFBRdWdiQWM5WEFRVWlvYVlELU9qQ1ZzRjNYQzVmc01PWnQtR0NaRFZuVUV4V0hWa2wzcHF5SnpCVDhBNVlGWEJubTJqNmQxcldqVE5RTV9QS1E0aWNFNVI3b1MtbXlIbGpyT0JVT3hENUNDVEMydUpjN1BVNVNDTWNQ?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 22:54:09 GMT",
+        "discovered": "2026-09-26T23:06:10.471195+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب أسامة جلفاط مدافع الاتحاد التوركي winwin winwin.com",
+        "player": "",
+        "content_hash": "12275e8066fc2dcbd5b3fdbf96701cf0b440f96f48c6fb2a5828e30882fd1827",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5792,
         "title": "أخبار و معلومات اللاعب عبد الجليل شايان لاعب الاتحاد التوركي winwin - winwin.com",
@@ -1410,22 +1426,6 @@
         "summary": "من عين الكشاف إلى ملاعب أوروبا.. كيف تبدأ رحلة المحترف المصري؟",
         "player": "",
         "content_hash": "fb885dcb841792f12017df7b6af1427d0753df81fb36c86b9aea95beaad9f062",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5667,
-        "title": "بالفيديو.. فراس البريكان يحرج عبدالله الحمدان بهدف من أول هجمة - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxOd3gzM0VUZVRDNWE2VlZWOThFNFo3M1luRDRQTk1DNmtzYVMwQXNVSUpyZ2tVWjB1M0s5VFNYUklnMGpfSXhqemdlVmZtT0JoOG13aERwWWJQN2wta0l5NXVlTWJKazRJYl9talFGMHNNMEtybmJHTWZicXdQR1laNzFkYndoUDFzZkFZdFd4NEd1c1BhTXd1dFZPdHMydDZKT3gtYjhxQm1QTGhQYm1jbnZCMDFiUXpaWFgyTzd3dWFobDdGbjN6ZVA1Z3FrVW9HNGk0X3VxLVZ4clIyMUY3VlBMZG1EcHpiVy03bm1Eam1IUlJwZlFfUS1QTG9HTHMySUhxczg0aHRqVll1c3h3aW5PSTdIMXY4aWNFeDNkamlsOUxEYVRJRXhNc09VNEt3R25sSXU2SUwtazllSHBUc0g0ZWxTcWZ6MEJoQVRmelNxclJ4RkxSZkkyN0g1eTFob2lDbWJmdG1wV0RRT3ZNUWF6VDVtN2pGaFhfNkZzYW1jdHZPck5RUVZvU3lRTDY0cWU2eENib0dfekdUSWc4WW4tWExnb0dENTRyOWhuVTMxdlY1REZCMjlTR2QwSkZyN3dFZGx4dVh3cXBvX0hzVG5BOFJ1cVMydE1xdmtta0xVLXAzbnRwNWRhTWpjbVktaW1xMEp4ZGVYTDY2bW5EVnNXcVBoamExNGNsbDFwc2FCWXlpc05MNEljSktpN2RnaWQ0OUNPYXB0RlpNTzE3WUR1aW1EbVhDcnR6YmM0TjgtM2NSSElzUmRKTHQwVlJZVW5OX2dBcGRqNFU3anB3?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 18:32:27 GMT",
-        "discovered": "2026-09-26T18:36:25.374913+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بالفيديو.. فراس البريكان يحرج عبدالله الحمدان بهدف من أول هجمة Kooora",
-        "player": "",
-        "content_hash": "48cdb3720893c8098ca43343d2b4e00bce052ae8b7dd064018b5e4351913d1ba",
         "sent": 0,
         "section": "sports"
       }
