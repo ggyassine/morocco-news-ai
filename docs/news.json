@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26T20:55:11.709649+00:00",
-  "total": 149,
+  "updated": "2026-09-26T21:07:00.010115+00:00",
+  "total": 150,
   "sections": {
     "morocco": [
       {
@@ -678,6 +678,22 @@
     ],
     "sports": [
       {
+        "id": 5754,
+        "title": "إسبانيا تنتصر على إنجلترا وتواصل سلسلة اللاهزيمة - filgoal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNM253Vzl5Z1pobm1mcTNmV0pxQjE0T0dBUGstRFppd3FmYUQ5ckR0V3g1TFA3T0pDS0RxX0lQYUdJYzFoU2g1TTcweGpwdXVkcmNLZlA2RjZtYmxvMWhPeDhSbDBUY2I0ZWQwM0NDZGwzcDV3eG91NElheTJEeF92RWkweTJrdkxlZldPc2tDd25FNjF0NXVjWU1RSk5BR216T2NKMVNNaVZPdXF1MU9tMi1MOUdhVnJmN1FPLVVzWW1pWWx3LU5RMDM0VFZBOXlNT2xOQ1pOcTFXSHc4VzVwU05yRllReF9DbTM2YzdkUGE1QTJKSnk5Tl8wYWxMeDRLM3hETHpCU042VmZwdnRjUXJ5V212ZmpWSG44R1QxMHpuSGN4a0pPeW9SWEdaRXpHNlhCSUJIVmtoX2FiR2hCVjVpV20yNFlKX2ZCenYwbVk4dWdsdXBfV1l4Y3EyVldHcHhudnpPVEUtdEdQa09WVXZyU1ZkRFV5UTQtZHVYQkdqYi1fV3FpWlAxLWQzaFBuSWRYTXJMUHhFUFJMRHRMOVhWRmM3eUd0SmfSAa8DQVVfeXFMTi1vV3lTSlo2V2JaZHl5SFZYaEFKQnE3am9LWXEtN0dvM3RsZHpDYldaemdXTEpvRzJ3dUlIaUFFY3YtUlNHU0Q3YTBKdTNRdS1YUzY1U2gwUVcwQ2phelhlQ1RBRk03azRCYkNhQXpNZlB6Um9kVWtWVUhqVVBPbnBUeWh6VHdCWndlV2JSakt0Z3ZCNS1uNFBqaWVvQ0Q3LV9TVjU3NFFzS3Q2QTlYMnAxTy1QR1pZbkxOMlIxZmVUeVdZVDJCZ0hDRHl5ZzZjQ2ZYNmdPMnlFUnp2T1BlMFBnbldYVHRfVTd0c044b3RObGJ5OGZhZTBfYk1iaFpCUUxrcFVKcTljbzFKRFJDQzJfUVliTGZjendHNjl2amxkZEVQSkhUQXJ2clFyWUJZSy11dG4tRjBTMUNXRm1rc0hhenVCMzd2SjVxWU9RLVR5RzlyZXBxU3BKMEFWbUNZQzkwRVIwekZPWThWX0lTNV9nZDVzNkhyLWxqZDF5bkRxUVRubkJscHBJR1RHUVUyVHZ4VHpwaVJqcGFoTmdiRk0tZk1IWXNPc2pEWUxfeFU?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 20:52:00 GMT",
+        "discovered": "2026-09-26T21:06:43.836505+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "إسبانيا تنتصر على إنجلترا وتواصل سلسلة اللاهزيمة filgoal.com",
+        "player": "",
+        "content_hash": "0c318b0fec1cc39a712d4bea6bc113b46dd9fe4e55972b82af4c50c385c0934b",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5749,
         "title": "بعد آيت نوري.. جويري يغادر معسكر منتخب الجزائر - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNS2tLSndSOFBKdnJaR2xwQzZ3dTF3endxR3JQTXRqYlJGak1GSTNnR3h5YmRRajgyTjROMVhmVTQ1czNKWnNoeDRRaTl1aGw2VzJOM1NxZ0VYeHp1elU5empoU1lBNFNzM2NaVzF6RmZRbklNTDBnV09hMVUyM25yWWpva25lN1Y1cy1iWXE2NG05MXd4TUs5QXdqN19Ua0tnRkozRm5CbTg4Rl9INFpZekFIUkNYbjAxUjNyemp6b1ExaDF4V0NHREZqYzgtWFhqcVFBNUxjMzU0Sk04c1BMM2Fqc1diNzJXTkJhUEx6eUdKX1plT2lPTkhqZ3N2LVU3Z2lBU2x2SElvTVVnUE9jN0Y1cko4QXFyeDFMN0gtUzBRRzNBT0tLd0QtcnRYa3k2Tk9iTGJWc0tzdWppTk9mZU5ycmpaYW1WdHlVQjVBanFHVzZtLVk0c3ZQQVY3MV9GNC0xZXBWMGpwSXFTaEpZQjhra1kzbnZwUmtQeEkwX25hek3SAYgDQVVfeXFMTXB6alVjSVQ2c3VnRmw2aXJEOEgxTlNBQjhWX29yV19ZS2xER2phbGUySk5IX3JWUDRyX1ZYWDJyc1hDU19wcmpHSXdwU2o5TkhMbWxuSkNKYTBYeGVPR2xySS1CdkIyb0lIaldPNE9GS3NEa2lEN0pyR0ZmV0Y1X1piX1FnSHBxbWgwdER1NkNJNXoyNGFwbmZJN1Z2dzNYcjdfcm10TU10ZVllbmlZOTdqYndHcWJzMjdvQnlVNlZZTloyeW81VlZnUUhfZ0tCLUVKUEtSSC14cHJPWkNaZWhnTFpjR0RNN1h1MDkzTEtobG5ROXBNcUV4Y1p2eHlqOGV4cHVTaURfYnlxMnRKTlNCbmNEYk5EM2JkT1NiQmJxeG4xNVhuanU4Z3VyNGRzajFjb1k4SGx4bnRvU3psMV9uV3FlaDR4aGdRN3ZtODRCYktNN0x0OExmR2hkV3hBX3l3YTJmcjFIUFZ0WkE0Q1UxVEpKaEpIRDFZZ0Y0N1dvdFh2QVM5TnY?oc=5",
@@ -690,6 +706,22 @@
         "summary": "بعد آيت نوري.. جويري يغادر معسكر منتخب الجزائر FilGoal",
         "player": "",
         "content_hash": "cb010cbdcaf722bb2214a9384a869f188ee4d455449af6ecda193feea487c398",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5752,
+        "title": "بعد الفوز المثير.. مدرب العراق: مباراة الكويت علمتنا الكثير من الدروس - yallakora.com",
+        "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxOQzZnbExDajBIYmRwS1lwVE5BbmsyWlYtT2s5cEgtOXUyVUx4X1UtWmtzZWF5bHVxRFNkRE5QdXlkVkpkbzA0bjJmdnJLRExCTVBqYTlJVWZVTEJ2M2dzeVN5WTRKSkMwWlZZRGtRbWRLNHhOSld2Z05qM2E1ZHRGdEROU0kwZi1ZVG9QcmRteGNBWWd3aE9wUHBiZ1F2WlIwdWhVaTViTGo2aXpBUWlsMHZKSGNlSjBJY0pYSlVYMndQSEJ3Q1JNdDdCNWtnd3RfaXRING94bjlJdUFSWnNlUVFCV0tWY2VSZGdjel9BWWJSSkVHSDIyUW9fOW9jaEtZbHZvVEloUmR6WnBYaW1xRXBkc2JlX3VPTkRqRnpfaXcyRkhkeFI2N2VWWlJ4eU1tWVdVMEo2RDR6cjhqdkFyVmk3Z1EydXhjaFg5ZnAteGZqekJQeW54TEdPNzZUZU9rU3lNTW5xOHA3MXExMWtYc3AzbjNkNXJQNF93ZVZsaEpVU2dSazlDM1JkVnBhbldPOFcyWnNoSmUwbnFPNmVnWGV6dXlMeWZ2TGkxUTlydXBYclMwd1paTzFZTGhxeENPUElXaTUyV3VYVkdEd2s2aF9KNkdlNS1KMjVTbjAyUTZod2h6R2ctM1h0NWphVl9lQ1BSUTNieEN3ZzdCeU9rQ3RQSXZua2VFWmZhcjQ0MHdrS2x4WHdtN28tNUQ5Q3VqU1FYaGR5ZkdwMGlldGEta3I2N0FCWVlWSmfSAb8EQVVfeXFMTjdoMFBMVWhnSEJlVW1IelVldmp1U1JFc0xTZGEwZUstOGpvMm1PcWxMR1ZxZUNUbkJaaGEyZ2J2ZUlyUkF4UFFTREd1SXNESDhZTV9aQ0ZxSkd5N1k0aF9YQlNaVU1tRTllaWsxRmpiRURWU29EZGFXUXhBSExfR0lFRlJESW5fZV92ZkJnclNIQVZmbFNXRFBCUWM4UkswT2dMemo5T1Z6a0Z6VThraG9TazZ6WmVOUVZUZkNTYjZZT1FyQzBvaTZmbzZ5Y1AzMGU0RUV0UDh3aTN4Vl94UW9reUpsM2wzc2t5TUZkRE0zZENkV3M5YjkxYWYzaXRTclp4WnV0TW5hRkpTcHlTNmtDa1NqSVZTYjRsN1pfWm5GVkRSaWVIV21XX0dOU0pQNEthdzRwdWRTQ25Hc3RKM1Y4eE5ScW1jeDMtMWZGa3BKZUJFdVVRNHVpbV84U2FnN1JNVmZ3LWhwcXNJdmJWWFhMT0wwRlNyM0NfSnlzeUZ4Y1ZnS3p0c2JaOGkwaHpXVGR2OVlEQ0xXMnExeWoyY1d2WGwyenRrOFcyeURJdXFuamdvc29ZeHBxN1VTOXhLQnhjcEctTkxBS0JXVzlfcG9iaGgycW9qN0dzQ2xRMjRlOEhfQldzakxTQ1pxTWt2eVlfNFluZ25hQmpFVlo2Y3VOOFNXWWJDYU1XTEt6dXFBeEN5RUsyaDVBVW42RG11eXNENm10UldwNzhIWmpOaXhOUERKRXhjb2pwcU9FZXc?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 20:44:00 GMT",
+        "discovered": "2026-09-26T21:06:43.255877+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بعد الفوز المثير.. مدرب العراق: مباراة الكويت علمتنا الكثير من الدروس yallakora.com",
+        "player": "",
+        "content_hash": "39b3ad4991ce9d73f344bb7aa67d1100c1a5ea6336e19a073f1788fb430466fd",
         "sent": 0,
         "section": "sports"
       },
@@ -882,6 +914,22 @@
         "summary": "كأس الخليج - مدرب الكويت: فخور بما قدمناه أمام العراق.. وشعور الخروج من البطولة صعب FilGoal",
         "player": "",
         "content_hash": "6e9b3cdf6e5d69de624abdec9bd9116b91deaa8d5f7b47ffbbd275aa1e2e13cb",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5751,
+        "title": "مدرب الكويت: حزين... وضعف التركيز سبب خسارتنا - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNTGJQVlVVU3FWTWFfMFM3RjE3T19XTUwydm9aRTVBcGUyN29DQ3lEVlFiTVZtajUyS1M4cVhzRlJjMEFZd0hoTjg2ZlZrQVpEQjY3djdEVFFmQTJTNVFFWk1rQlVzQUJqTnpWVnlBXzlERGNmOFZCVEVldTVFT2VneGdLTDBUWEVlVFVoLWpHRkxCQUJEbDlWN2hTbTI3NDZJQVd1Z1UzYjR5MUJfV2dhaGpEbTl3TTRFbVF6Ym04MHFmbWEtcUZHSmFqdk1zVS00XzNGNUNGbFhPUUtSb0FqUVNNZHM4Z0tWbVF1LWxGdGN6dFppMzJDTFRBT3ROVDB0WkIyUEdWU29HeV8xWlFia2xQMkNpWG9aUjRsalQ2eXM1SElXTVZFcHYxZ3Z6Z1ZPNlA1cFd4ek1hQnoyVUpWZE80UV9fQlBzRkIxbUtQX3FaUnFXSkFoNkFfSWtreDhhcFRuaHFDeWppcExBODBXY1J5bjhoZmJFcW9MWFlRNURkVEFhOWFPck9qV083UHlmVFZpOFN4N2tOTWwxZGxjeXBvckVpNHZ1ek92dHNNZ3ctd29LLW16dEwtZ0FaTzdvdWZudzlSZWpFQWgyWE5WUGQ1LXVEYnU2SXgwTmZoTDFqY0ZQeVNNbTZSY2I?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 19:28:43 GMT",
+        "discovered": "2026-09-26T21:06:41.333341+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدرب الكويت: حزين... وضعف التركيز سبب خسارتنا الشرق الأوسط",
+        "player": "",
+        "content_hash": "36221bfa326077d6731b9d7d28e90f14d64daf36980867a442217f1792809512",
         "sent": 0,
         "section": "sports"
       },
@@ -1428,54 +1476,6 @@
         "content_hash": "fa2dfee742fa4e3461cb3482a2b6b892232c53c4f42095aa80a6a440611e5a44",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 5654,
-        "title": "بث مباشر مجانًا.. رابط مشاهدة مباراة السعودية وعمان الآن في خليجي 27 - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMnl2aV8xbTYzNWtQbFBjcGFONFZUQ0g5VldOc2hyVEJJdDlPcTNnNFJPaU9Rc1d3dFZSNG5BOXdwR0p0NjVKVjNMQ2wyTE9qQU1vcEkza0hkXy1IbTJNOGRLRXMxUUJQUjhnRS1kN25VYmdyMV9rdXBjWDRBbXR2MmVaRGRXQlBhekREVlY3Sm04M0tXbW1qcmxSMXBCR0F4TEJzNWU5aGlabHR6VlBEMjBqcHpYNHBvendLZU1GVWQ2Rml0bGJMcjJJd0VLRURGUmlLakpreC1za0JWcGdnQndBN1lqSnBHSE5KMTVOU0hMRll2SnBZUUlXcVh0UQ?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 17:50:50 GMT",
-        "discovered": "2026-09-26T18:01:03.064794+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بث مباشر مجانًا.. رابط مشاهدة مباراة السعودية وعمان الآن في خليجي 27 365Scores",
-        "player": "",
-        "content_hash": "e53fd9dc6d1c35b7be687acf47ff31a19d3f7b585849b05b5f3f770f92af6952",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5647,
-        "title": "إصابة عضلية تبعد أمين حارث عن الملاعب - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9YYkdfdENtS05Oc3hXQVUxNGZNeXpnT2ZHR21JSmpEOWc3c2lNSkt4enRNQXEwZzVWamNyVDEtZUFGcHJ6V3N5Nw?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 17:32:40 GMT",
-        "discovered": "2026-09-26T17:41:17.665080+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "إصابة عضلية تبعد أمين حارث عن الملاعب Febrayer",
-        "player": "",
-        "content_hash": "b003d6a2761a2942f4cedbcb807ae1b18774d21769d96ff7161449db0a461cd0",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5696,
-        "title": "أكثر اللاعبين صناعة للأهداف في الدوري الإنجليزي منذ موسم 2020-2021 - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxPcG1LUjZnYjVlbDJRWlBXcHItcHl4eUNmbnhLTzlSSjFyV1BMM2t6ZEZQQWRhNDFzb0syYWhEdU5BZkplVEkwZkJySEh5Tkg5ZDA0LW5FZkdkVng1TWFPeXNYd1NmVGtIeEp4cFZXX2FJY0g5NEJ3dnZMczk0QnN6T0w4UWNsaEI4U3FFbDZCa1pfRkNMXy1sWEdSd0s4Y3ZuLWptOWUxNDhac1E3WFdfN2F0YW91Q1F1clRBanhOalFOZmZXanZVZVQwOFhlNTAxMnRWOHNsazl0bVpNU016VEhqdWlQdHNWSVVIMUJWRUxWVXptRFRDUFNPZk5Rem42c0d1NjlZNzRHRURYbllvZ0trcGNKS0k1QUNCZ1F3NVZIZXg5UHpOdXk4NWIwQl9tQi05cmpMS3hya1lJZjdoeFJPUGx2SHpDRWlndjRJSjJpdFlPS0FoRTZ5Qkk0cnBKVzd1cHV6SExTelpSTmV1SmE2cVNxMG04Ym1YRVp1SlIydUJDOV91R2NGZG5YUzRhbGtKZXUzdDE1QklOSzc0Ql9Kb3RTZnljVVdtQ1FUZFdWSXF6bFZVTzJheTVNWWk1anMwMzhGOUtqWkdrNmNPRDJ4ZUVqMFhfZ3p1YzRlLVFYOFliYWh1Ul9B?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 17:32:00 GMT",
-        "discovered": "2026-09-26T19:13:20.981740+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أكثر اللاعبين صناعة للأهداف في الدوري الإنجليزي منذ موسم 2020-2021 يلاكورة",
-        "player": "",
-        "content_hash": "3290901c1fda156f81f1f8a3b73229d46b3adefbb6811748b5501aef6c1be6a3",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1540,6 +1540,22 @@
         "summary": "\"فلاش باك\".. كيف رد حسام حسن على مغادرة صلاح معسكر منتخب مصر؟ (فيديو) يلاكورة",
         "player": "",
         "content_hash": "4719f6d35184e5d83f92281fc171bbe33dca1d2d5be7241324771cb9352d1632",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 5753,
+        "title": "خبر في الجول - بعد مغادرة صلاح.. منتخب مصر يطلب جواز سفر أسامة فيصل للتواجد أمام جنوب السودان - filgoal.com",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40anVCOEZwZjdHNkdsT2JQSTA0SEVQR1UtY1dBRUlMNDF5b19KM0JLWktxVnRSXzRHeUZIMlFyMFpZSFRNMk50ZEZDalNyNU1B0gG0BUFVX3lxTE1aVFdEUnBmVk0zTkJFQ01xaUdzZnh1QkFNNDRYbkhMZ2xiSmM3eWw3RXRmbWl1NnR2bm9PWTQ4M1VQMkhmb1VwTEE4ZVptTDJoUllUMjBmaWs1WDFTRUtzcUNLSFY4c3FlRFFqS0NzOXZvRHY3LUF4SWpFXzhyTmhRNGlpdFdPTnp2ek1EajVEbVFoRldZOWdOcHFrZjllOExiUUxhTnd4RnpSUHNLUEdadk9ZNGR4dzdRRjd6TFdXZE5MVDZoaFRmWE1aZGxLNzNpTDNqX255NzlKd1hZblJhVTNTbXppcEVuVXVBSmlsdGsxdllwMHMyRVpjRDV4Qm96Vkk0OC1Rd19OY1VBb0RwZGFpZ0dvNzlFWExoUDU3cGdQbkUtaUVXTy05R0RJZVJ6cmFOSUx2eWZ4NTZONVNaWjNiNElxeXpRdERaWk5ueHFxWlFLa0lITTVicUg4LWRnR0wtcE9yakhfYXE2aVB4eDFXblptMkhOUE9CMGo5V0tHQm1DMFhQS2hwU1N0TVhhNkNfZnJBNmZ6MGhXanUwdDZDZWVCekM3MDZBMXZILUEyVDV0elp5MEdXRUo5cVliNlFoMEpOMnJPLVg3dVR0TmVaVWhfOHhLQ0Y5cHlJM2NjXy1rMmp4TXJVTVFwX0xXZklERGF2WThoRTd1MTZWT2VFSTJhNmZSTDR0RjAzcU1yTmU2VUttNnVXblB5TjFGUWotNXo4MlNPVDlrU2Y4eHlRMTdzRlVfenpqVE5lamx5UFNZcThQNldfSklCZm1nU2JoQWJvVHNiZ1dQcDdwVFFKMGlZYXdMeTZUVWtpLVNnc3FfZDBHRUhDV1drVUEtbGdTRUhqLThoUUd1OC1LdzlSS2w1M2dHTkV5enM4QXE1VmNtUDNURERXcmhidWY5b0sy?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 17:14:00 GMT",
+        "discovered": "2026-09-26T21:06:43.830963+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "خبر في الجول - بعد مغادرة صلاح.. منتخب مصر يطلب جواز سفر أسامة فيصل للتواجد أمام جنوب السودان filgoal.com",
+        "player": "",
+        "content_hash": "6cabd8f4d2f868bdc8492d24c46c40a385f831cc6711e0c34faedc5b84fa86b5",
         "sent": 0,
         "section": "transfers"
       },
