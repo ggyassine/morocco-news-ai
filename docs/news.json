@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T10:21:21.719142+00:00",
+  "updated": "2026-09-26T10:33:51.498642+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -612,22 +612,6 @@
         "section": "morocco"
       },
       {
-        "id": 5038,
-        "title": "المغرب.. الناخبون يختارون أعضاء مجلس النواب - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQa1BYTU81Nm5wTDZtSjctR2ktRjB3cWtUYXpLWjlqQjBEd1JCNUJjd2xZVnFBX1ZSX0s2YVREamR6YjE0Y3NfcjJLeV9GSjVORDUtd0VpX3A5am5uYWJGYWtoeUNfWlhramcwbTJoNFRPdGRNVEFEZXlRdGoyQWJZS21aUERiWWZicmlObXdzRDFaR0cwN1JPbjluQXpXU2dnWS0tYUl2VG9YaHBzbGotUllTMU5taWpRZ2tlbTVEZVYwV0xYbGstcU14d3RpaGNQYWRsc2xGS2MwcFBYNkVJVENldWdPRFY2aC1EdkhTcXptRVRjX2wyaWI2NDZpSENwQ2xzWGI4eGhoQVRvQ3hWWGJXZ3c0VFE1UzQ4bWtHSEFhdVVPald4cGpzeDJWX3dENVBNMGtybFZmVTdUbTVESDg5amk4LW5seGl2QW94Q0ZPSHcxS3BPNDNzU1EtQURTVGdtRzBNbzh3MV9kNklwMjhtYVFYYVVqb1prbjVZZ24zV2trOElkVHFtRVc?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Thu, 24 Sep 2026 10:20:51 GMT",
-        "discovered": "2026-09-24T23:16:35.013319+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الناخبون يختارون أعضاء مجلس النواب سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "15fd8077db6151fa18e530cb5dfa100cde0a1e88bb50f110bb2c7148ca6039eb",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 5109,
         "title": "الصحراء المغربية.. بوليفيا مستعدة لفتح مكتب تجاري بالداخلة - SNRTnews",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sUC1lc3kyU3M2WnBLQzZBWC02SVBpNUpqQ2RsSkU3aWNnMENDY04zTnFLSUtIWjJSUmxtbmZLVTRoM1pVMWFOd2hxdw?oc=5",
@@ -773,6 +757,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 5540,
+        "title": "ليست المرة الأولى.. قصة غياب صلاح عن منتخب مصر بسبب \"الترتان\" - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNc2R4VkhsYWNibG9mZlRKN1ByOU5CbF80VGtQYmFXUGJYbS1CNTNHYUk5MW5GR0UtRWxBYUZxUkpjbzI2ZjJZYm9MdllGVE1CZ09ZcFREWlVkaXdnMTAzSTU2MmpvS19WOEdPTFpEalprU0tYQXAtN1ZEYkN3T1JRWkdFYk9XdzVibm1mVFJHYXlKLV9nT1ItOHo4Q0xoelc2SzVGNUNFZHc1MWc3UE5ZYnVlWVFObFdMRXBmSEN5SC16U3NQYUEzdDNKakZxdDh6ZVNlbkUxMXJRQTdhQmtQVl8yeVk1TUpiWVloZmh6aDhBYXhqd0QzQUJVVkV1a2ZQTEZ3LWhvaHBVajN1ZVJXUlg1eGxHRG5hWGVNZXZGbU1NbXh6STV3dW9NWHRsbG40WUR4d3BfdGNSZ3F1TWIzQ3dsUUltM2pCYTVzRXpLU3ZILTdKcUlmdFFNRTlHNTdXVEtjSFB2eGVlX1NmT3Rjeks3VXMteXlKNjczWjktSkl6ZjBSNUVIVURoQnhNV0VfSy1aNF9NT0lsQlA4aWN6NkRuOUVsRmhxWlFqSkxTekEzVHRHSVFsMEEyM1Zqc1p4TVZIZ1dCdk1ocmQ5UGJULVZDNTdqbnI0cFRDRkZ0Y2k1RU9iMlBQejJfM3dhZFY30gH2A0FVX3lxTE80eDcyWGtWd2lMYzdvS0plZXBfY3lZVjhzYmlYWDQ5ZjlGS1k0WDV0NWRJaG9FLUVvc1d6V3luMUp2bjlMR1N2d3hRRV9zbnVCQ0RkQU4yYmMwNWVMblJXNlo1ZW1TSnZwMEc2OU9RYVpiek82LWZlYThRd1VLQkxuekR2dEtvMld2ZkVnV19KZlptQURmLVJ1Sk01bUpycjZLb2QtLVRVMEVndTFfcDNjWUdDSmllTVFOVkM2WFBNcWd0c0RJMklYR0xoeDY1b3kzSGZKMTFZdkVaS050anB4LWdSZGFPU1V3cUNvdVJ2NjdoeWtneklCOHFGMUJESzVrWXVwTWEtcXFKS1FackdlUVRKVC14dk5TMUFLcEI4d0REd0tXT3luTjladF96MEtzN21RcmMtWXc3RkR1RHNxRHdDR3RlS3pzbktRdFNnRk9GTG82aExqUjR1X1VIVldIRjVhTHFabndHRFNBRTZmZ3dlcHN4b1JUbm1lV29VVHFTbGlhc0szMGdUM3pfTGdkTFRidEVDNkxPaXp2SnU1OU5sUTZrVU1Rd0I3emFEcUJRb05oVWxFcXV2ZEVyVXkxQS1nejRWUGFDeDZxVmJNeE1lSnY3RzB4M2wzcTdEamlwMG1LWXVTZ1lXTER1VHZqNWZNdGc?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 10:19:00 GMT",
+        "discovered": "2026-09-26T10:33:37.825083+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ليست المرة الأولى.. قصة غياب صلاح عن منتخب مصر بسبب \"الترتان\" يلاكورة",
+        "player": "",
+        "content_hash": "5ff937eac1cb96a391fbbee0932ff0553fb2172015f1c6bb0b1978cf7d1d45cd",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5539,
+        "title": "Copy of ما القنوات الناقلة لمباراة إنجلترا وإسبانيا في دوري الأمم الأوروبية 2026-2027؟ وكيف تشاهدها عبر الإنترنت؟ - kooora.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AZBVV95cUxNSzNORG4yQXBMTXNqdzJ0ZThzOE9NM2NOdHlObTBpejVIWTBZYUJBUHIxNm1oT0FzZU1GNHFtNUhsNVA2TWhITHMzRTg3QjdzMFljekhJdmdWT1gzQTFMa2Z0SUR1SWpETVA3WEN1Ry1KVThlakZFY185Q0h2VWJYcXlucEk4RzdPQUFnSHB1LTFGX2ZxNnlBVEhrRjVfak91NGFfdFJYakJDSkFjSUQxRFJPR0xKeUExTk9lTkxkUUJocjR1NzFUZmM2Qzd6N3RBd2hJSDN1REVqb3VKMTVMMUJObUlrZm41R1JWMnlLSEVlVXBWZ051NFdwWWdOSkZ6VWNQQW9vYnVoVC11bjJ6UFl0ZFNZblBUSUJIVFdTNnpLdC1GazVFNUJ3Ri0yb2R2eDJDWUcxN1owZlR2S19jS0VXZWZ5S1JnR2lKbnVwbFBKb0tEWlFMZ010aWg3RzJuMDhtOTVMRnJvaWgtSHB4ZGJPUUJpQUZKcnBpbU1Dam5mSEtoZEhmM25ST3VNM1F4WC1lOE5OTXVLV0kzVnByLW9qY2JkZ08zUkRJMVoxREhvbzNWdjR5UUxpRnpNdWhZTVdYRldQRm1OQllYMjJSdmE4ZXpnVVQ4aG9lOXBNV2t4cGlfLXZyT1RtVlFLa1VlTWd0MXhiWjFGQVdURGJTYmQzSmY3MGFZLWtPU0M4TnVtbjl4UDRjMzB3bkZLcFEzQzRqUDZMWS00endSRDRCd2cxcV9yRHRWOEw1N3hSTjVKdXM3c1JOdnVRTXVydlZVa3ozbGVYLUgwU1k1aGtuMXB5LVlTMTFQcGZ1VFFDaW0zMGpFcTBNVkJKcUVvWmJ0VGMzTW5BSWVQU3I5dko2N3RLMkdHeml5MG9hWGNrTnhYelpYYjllSnZUX29CUTh3TllLbHVEblhBSWR6dVVFbk5nRVNWM19ENWxsSnJsUnp3VTRrbDNSRFViSnFDaDFIN1oxb2Y3akVhR2N4b09ldm5XTjNaY0xCS1lpUjUzeDd3RVFmTkVlR3E4bkRsZ2c1RjVxbVFYOHZyOE03TjJ1Rm5wUExFODN4YkFMMnduVTQ0UUtpVUE2ZS05eXZfSXB1Z0VPU0ZtaVU4V1daQkNsQ1JFN1RhTTl5LVlYaWRsSVRZcC12UHVVUDZxc3ZLWXRjajZZVzYxUFg?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 10:03:59 GMT",
+        "discovered": "2026-09-26T10:33:33.315912+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "Copy of ما القنوات الناقلة لمباراة إنجلترا وإسبانيا في دوري الأمم الأوروبية 2026-2027؟ وكيف تشاهدها عبر الإنترنت؟ kooora.com",
+        "player": "",
+        "content_hash": "cc4de807de20b8f0c6a8b0478168919f49703b242e19ab62aa10fbb5abc429ab",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5528,
         "title": "حفاظًا عليه.. اتحاد الكرة يعلن غياب محمد صلاح عن مباراة جنوب السودان - يلاكورة",
@@ -1540,41 +1556,25 @@
         "content_hash": "404e659a286a4ac669cacd2d17fab288956586619aaf6570d841cbda9307b3f1",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 5379,
-        "title": "أمام أنظار بقرار.. منتخب الجزائر يكتسح زامبيا بثلاثية في تصفيات أمم أفريقيا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxQS2ZqMDR3ZWNGT1hrNnNxbnJfTGx2VmlNZ0FDMjVyc1JlT3dHX0FNUXoxeGFvYXVQbVFubEJWMTlGbFB1UE9uYlZOQkFMbVNjRDluQndfLVY4bV9mUHJQWGFFQ2VzcEczNU5kTXJYX3BsUEJuU1JGckk0Ty1Bb0xOVHNRZ3RLR2d4bDZmQVp1YWZtVmZTcWU0MEVDOFljWU5nR1pZV2g3RHdXbVQwdG9ncUt3aXpVNkhNbTM2TkNLbDVFUDY5RVZZdjNTMTRmTFVmX2pYeGc0LTk0WDZIcmxzemZ2dkpjajQ5cUMzZVgtVmU4Mm0xLS1UWnFGNGRZSDZiaU9JVnVrTkRZQVpSNGlFSFhIUkE0RXc3UlZjTG83RmpTS3ZKcWdXS1VvZlFSQkxPWnBRVDF6amlFQzZhdlJIVXcydXBrcm95TGRPY05EdGxmR01zMDdyTXViU3RCY2pNZzlzX1dFYXExNjFlU0FuVjMySWhwbm8za2gtdzBiQmczZnRkcURlUExtZE9xU3VGN09tX05Yd1FndmV5ZVBHVUZJUm00eF9MdldJNENHWDNGdnU1X3RqLVJFNFVEajVDeFNNak5OUmM1d0tNUmt2UE9iS1ZzNWt5QTI5VlZEZXI3bUVtNU5ycVFuQ0w5VmRyZVdrRUpNTGNyaUc3MlROY1FJQThnenItc3J0c0ZtZnUyWjIwTkJxdEpwYzVaRXhWc1ZObHpZXzlKdG9YTXhlOXdfZ0RJM0o2SjVvYWlQdGRydUdQZUNVWHNhTEdEQVJFNEJXN1JIRE8yUC14RmRYQmh2QUpHem0y0gHuBEFVX3lxTFBwR2VOWTk4bS04QUNOdWU4NGJDOVZHcC1QbEk4X0FDV1VXTHJiYjdENzAzUDNGMkRGZTF3X0dMLXpDMUsyYWQzcHpkSnlKOEF2VGw2cG1lbG1Tb3JrSWdlby02Unk0RHZlbVRIcDV0MU1KZEI4d2hIRFF1VG5vZE1QcE55Qmt0bjBnS3BlN2I1OVd0RHNXSnFpV1gxRW1EcWJBNEpvWTFSMUcyX1VtRjU1VXc4WWRLVi14REkyTl9JTnNSWlMzczRmamstZHNQeFNLTGVkQUhGQ1RTTVBrVVVsdndCOTl2RGFtMTdINHd2SEJPREJhWjZBaTlJN1NCaG90amNyMlJyZXZ5NHBoRm9RVzZSZUxBOV9NdHlfOG1CbUlHeTA0RWtqR0pzWDNLbklrcTZUNmo1dEk5cEpYdDZQbGFBWU92bWplbUg3RklNaVQyOUhyX2d5QkdFQWxMMjhnMllwWW1uNFRka2liUzJEZDN2NTZnaVlDY2Q0VTNUTV9YSXFMTTVwUmNTX0xtQUtiVnduNGRxX1E4Yk5meG9pUnRWTC1TeHRsVFloRXBFVkJsUUktS1NMenB4MklfNEdUOGozMkYtbmZfUlNfeGxNcnlCX015QURiT295cUFYMXB2TVZhWS1QT2hucm9UVnB6S1ZzVXZXdWtaNXVBYzlaN2RDWWdsUXE1SUp6UXlOZ3EwNHdjaEYwaW0yb2NjaXlDTEFBSEd1d2NOQmszNW5TY0pJZVJleVR5LTlGQ2dnNE5haVpOSm9IRHJLdXNlRko1YjdoT2ZLRFE1Nk9MOWhiZWlSYWRRY2pTb2xxWHc?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 21:01:00 GMT",
-        "discovered": "2026-09-25T21:49:42.087342+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أمام أنظار بقرار.. منتخب الجزائر يكتسح زامبيا بثلاثية في تصفيات أمم أفريقيا يلاكورة",
-        "player": "",
-        "content_hash": "afaacba2af268b3887012ec84e659f51f1b3096b6c075ebd8aac6cc67279d233",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5357,
-        "title": "مبابي يخرج مصابا بعد لحظات من تسجيله هدفا - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxONmVyTDFXeVFxOVlqcEV6dkJBNDNPZHVqb1Rla2kyREdpR3VJSWxUTEZBRFNpQzhaZzdUY2pZOUxKZktYSVN0UEJvVEJGUTRRT3N0cElUcVFucFMycDQ3R21PSzFveUJQV0thX0x6X0xYTVN3NVZDcFhuSEFLaFMxYi00eGZWM2lLZHZ6SU0wdmFPN2dXUi1nSkMtTy1HNFN3aE41VEFwT05oZU9yN1BKMVNjdkxsS2NIY2Z2RGtNUlQzS19qNjlwdVNwY3c4YXk0WlM1SDU5SmQ1djdRVmRKcXpiMjhkUEgtX29rY0ZUZy1zNWtpVFdhRm51TEh4d0Fjc1JCTmZfOTdGcGpDaUJsZXVmTG02R2tHSTZYaC1UY2xnZmJKekh6Z2pMNVd2VDlFTUtyV3VCUTNxVExlZ3hmOTMwNjh1UdIBywJBVV95cUxNalpWMUNQUDczV3U3VUh3WTU0TjdBdWl5bGlSRkZzOGFoMWFJRnEyMzFjNmpydXAtYTgwc1pFNEo5WjFnZ0JONTlWeXczNXRnOFBKRU1HZkhOQ1VGZWQ5d1lEWDBGMTZSZ2JxdTcxM0Q4c2lNR0lfa1B6dHk2UE5Rd216RmZ5WHlxVlNIbkx6SXpNTzFvWDhsanhMeWZxQ1Y1dE5fT0ZGbVg5Rks2UmZjQWF4Tl95Q3BUYkJQLWVfQnBSbmtWVDVEck5xV0pfa180V0V0QW1GdnZwZGdmNG9yMzdybFhlWnI0a1NfbnRkVUxJNUF0aHN1NHRTWlJpM193OFhqRHR6b0VQWnV3R1NkS1l4c2dveTd3T3BDcHJHMDJoU1pfU3RmWHdBbGRpblBJdEl5NjNtdGwzTWhnNTdVdkFCdFg3eFFVRzd3?oc=5",
-        "source": "سكاي نيوز عربية رياضة",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 20:57:58 GMT",
-        "discovered": "2026-09-25T21:24:10.354146+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مبابي يخرج مصابا بعد لحظات من تسجيله هدفا سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "380643beb6fb09d4164634fcbb185a204c48cbc2602b228c5b8b8dac191776fc",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 5541,
+        "title": "مغادرة صلاح لا تتعلق بـ\"الترتان\" فقط.. كواليس غرفة ملابس منتخب مصر وانفعال حسام وغضب هيثم - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMitgVBVV95cUxObkRzMEJTQmtNTmd6bTdhMEE3SVNNdW9leEJOb29RZFFqTzZuSGhjNFBIOEpfdXNJaXVpcGZ5QUVLZU9mZTNST2NoVEZabHlVSGltcVp5ekFNT21XV2VnQjI4dk9NY25FVzZ2UTZVUzZjc2VrZ1huejkyajFNVmNZOXd1cnl1MFdDZER4TGFucFRhNjFKMXIxRWdHXy10YzhIY2l4YjRVQVdEUGFYNGhIRDFHUEJBNmktOWZKbzFEMVJYWE1naWRyVGNvRXRfalkxQUVfV0ZfYlEydFlNT1JsbVRaeHB3c0piYjdtUWNJOXFEdEo4MUNDQWQ2OXdwN1ZJakQ5TnVSSVJYZ0NUb2pFX3VqZ1o3ZW5IcnByNHNKT3dsQmRNYnFZSXA5aW1XcHdJNDdDV2djQWNVOW5JYnpZdnU2enA3M2JoQmwtSHoxTXlCSHJ4M0J1WEE0XzVNLUQ0TGM3b1k5RlVSbHVUblYtaE5UellnVlJzcEozeGhBcDNCUTY1YUJ4SlpMX1VlNE42WVJ5c2gyYmVOQTVMLWczd3lPMjhxd1pWMGRzY0pkaTJkQ0ZucjRfN0VoVUtJa1p3VG9CNGs3dzdrMlFvQ1lsMmltVVIwUnJGYWtOd21lelJlRDlYdjNKdEs1OUlrc0UtaXAtM3NOMnNZS1JaUTYzQml6RUQ3cmRVeG1hS2VuMFNDeVJqUlJYOUZBV2t6cVg5WHV0Tkhya19vX2VWMV9IczdGN1l4Y1c2aVNFUWY3Q3F0OEI0QVowVTVWRF9Jb0RiT1lJamVwNzFtM1VrdmlmVEdIUUMxLVViRGRvdHlNX0ltUGV4R2ZxVENBNVdDejhEREpnaWhVUXI4RWZQWVN2MUMxNlpBZmdCZGlvaXVvWHJKdW9DQkEyWEQ3Vks1M3NYUmROQjFR0gG7BUFVX3lxTE1NQjdnNVNEUmkweDlqTFFwTHNoTXdCbDRYN3NBQ3NkRXUtYUNONDU3Z0RJN2U4WDdXaDg4WWdTY2FWSk4xQUl4RXYyd1FIR2FtRmJTX29lN3pHMFZMVko0aEtnVUhseHdFaG4xWjdSTGE5S21nbVB2SHdFMi1MZW5qSGdWWnNvQS1KbVVTNlcxa2g2dXYzSkN6QkhVR1gzaVFhUWZrRk1XZmFLT083T252ZzdVNk1xWnktVlJ6YTRrZXNmNDdGcHdDNXR6QVI3M3d1eTAzVjNLaXBoQndNOGZKYWw1c2x6c1hhYmR6c0lDMkY1eXZHY0QzOHNtTEhDTm5CXzROdjVrTXFQUVhOR1ZidnlSTVJxNUFZWjN2N0phLW1QT3JFRG5Kd1pxSmw0S2RHeG9ZQjlVNUFQRDI4OFZKS3laeUJHM01lNmMyTWhEd09sV284d3BzVXRzY0puaFRlT1VZbzFwNFVnSWVrSVozR2hCUkNzSzVBVU5nWFhGcU1JVS1uWGRZVW0xRkdVc1JvNFItLUxGM0J4OU4xZ25hc0RKRWNQaGhzeEhaSVpVTHU5MnZGdWRpQmdrcmt1Q1U3QnRGTmYycVdHdGktWndlcnh5ckdfZDV5cjhwNF9MV0xIWVhVWmV4T0E0ajZhemdvcklVTlhLR2NKRG5RVkpZUXVBWUVRcEV6eDhmY0FGUHA4bGExcmxMYjRWWHlSajZpSVpoOUoyTW1VWUZ4QzN3NHVMRV8xMko0R0VEVmV5TmJFc0lITk9mOGtKclFHbWNWbzY3amFqbTRocG5KdWt1a0o3VnVrS3pJOUtWYjNwcVkyQTF2WERYVGdXY05iM2tRWlVHYlVRTTE4MkdnSHR3cFcweE9USXFkdnhncTBiU0xXYkYzSFZmTldCbGRlVFVicm13RDNaOHVtMA?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 10:16:00 GMT",
+        "discovered": "2026-09-26T10:33:37.830504+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "مغادرة صلاح لا تتعلق بـ\"الترتان\" فقط.. كواليس غرفة ملابس منتخب مصر وانفعال حسام وغضب هيثم يلاكورة",
+        "player": "",
+        "content_hash": "78b16839fc9299500308350346ca61a8bfbefd2b8c5b1695c3482c5d2491c6a8",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 5521,
         "title": "مصدر ليلا كورة: صلاح أخطر أبو ريدة بمغادرة معسكر منتخب مصر - يلاكورة",
