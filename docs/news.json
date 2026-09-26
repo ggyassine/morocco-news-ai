@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T10:54:45.587368+00:00",
+  "updated": "2026-09-26T11:06:04.361657+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -516,22 +516,6 @@
         "section": "morocco"
       },
       {
-        "id": 5045,
-        "title": "بركة: بعد الانتخابات ننتقل من التنافس إلى الاستجابة لانتظارات المواطنين - febrayer.com",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xSkpQblhIblZJY2dZZlJkUW9JV0JYQkpnQ3hUX3ItUWlwMXFEbHowQklGc0JzSEFUODRhUFRjR2JxNzA2UURUeg?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 19:43:57 GMT",
-        "discovered": "2026-09-24T23:41:10.585259+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "بركة: بعد الانتخابات ننتقل من التنافس إلى الاستجابة لانتظارات المواطنين febrayer.com",
-        "player": "",
-        "content_hash": "38848b7591434f6a7cd2f0945d6843cb423fa3cb5fd158309a7b79c15d8e0444",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 5292,
         "title": "وزير الداخلية يعلن نتائج الانتخابات - Hespress",
         "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOVmZGdjYxT2x1S2hwN3Zya1Qzcm1IVVlBaU5mUng2SlpSTThGTzBodThvUGYwdGVyZlcyYnBiUEhHUjIweWktTFpldm5KNmE5NzVKM1VwRXl4V0VfdllwMXNyQnVyeW55OGNlYXJGUHdtNkZtY05SaFhTWG52dWtOanA2bHk5dXUycTY3S2tEckVoN1pDenNOR0RqdEhOOG9qalVscFVBTzNlMHQtc0FpU1BERld5d0U3aXpnMnVFUTlLSzlQLW1vOE1ranR4bUlEZmtNOE9TdHdhT0RMeGdXOXdOaE90T29jOUdISGk1VFJPYlBGZWRNeXRJWnJHbndPN2hwenhYQ0tNaTNxT09JVUMtNEp4SF94ZURMaVdZdHJKcDdzaFNHR3M4TnJMdVRMTHQ3cENSakRoclYzZlRFNnVsbkRkcWdQenlzbA?oc=5",
@@ -754,6 +738,22 @@
         "content_hash": "38e58330a2205247b2fa0a6ee290c514dd6f1d7ccc74961f9224fd13564cbc76",
         "sent": 0,
         "section": "morocco"
+      },
+      {
+        "id": 5298,
+        "title": "لخصم يكتسح الانتخابات في صفرو - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNc0tCcnRZRDA1N05NR1dQaGwwcmdWZTByNG5KaE9TOGZVTzhjelpFQTFhSkFpSlpkdXNZd3ZyUHlIUkQ5Zjh2bVlwaVQ1dGt5dTFEaWRhWDdtQ3RoRjhhOTgwekJKbmhtQVktZHUyaHJKejZnalFKaDA5TEYtSXpZcFZGdG5VSEFvVjZmZFhCalp0azNWdUo3ZXNmUW1vS21oeGFQOUdCRXJ5WWNwX256THU2VTdub1Q1cDJ4V0FkY3JLazcxQ0Z3MTRwREdXSFNTTG4tSVNYTEJfbEIyX3NrTzFYM0dxb0NhUlhTbS1qX01PblRMM3BoZnpUMHZnV1BYc3ZtdGdKNVd2WGQ5OEJiakVjODc1OVkzYWVPMw?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 23:40:41 GMT",
+        "discovered": "2026-09-25T18:59:58.008168+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "dc6ea4f8bd1438d2001fb81fbd7e129f441e1bee49130b6365a24eb2bce39413",
+        "sent": 0,
+        "section": "morocco"
       }
     ],
     "sports": [
@@ -770,6 +770,22 @@
         "summary": "ليست المرة الأولى.. قصة غياب صلاح عن منتخب مصر بسبب \"الترتان\" يلاكورة",
         "player": "",
         "content_hash": "5ff937eac1cb96a391fbbee0932ff0553fb2172015f1c6bb0b1978cf7d1d45cd",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5545,
+        "title": "رسميًا.. الاتحاد البحريني يحتج على مشاركة نجم منتخب قطر في مباراتهما بخليجي 27 - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNN0lfeG1Wa01CaEMyc0t2cjJHWVZzaWdNcVlVS3RlaUxWd1J4T0lOVVR5WHB6ZnlTc1hmR3BMQXNFQWFFQklPQ3FuZ3BBaUl5TVBKVzJjOFkxRGZXQXRMaFNkR2ZKbUdBR0owNWZKclJIYTQ2OGhzdTE3dlBCc2QycGp0M2RjUkJ5OFpKWC1UT0NrZ3lPc3VERV85dU14ZWhtcVhrZnhYeW9vRld5dkdVdGFaem84b2NacHB2Z3JLWHJmOFNnX1lvcjVaZ20wTTJHbHNUTjVEODFPa0VEeXhvcEVMcGlPYW9lMHpERnRlUzNoY3R1NV90QmgyQjdwaUtzWjlxX1pBMi1uWHNUdXg2cEg4RW9ibVptTExNZVhiX0JDRWdMak9TMEVFYnRDTGctSHdSSjlRbHdVOUx6UG5CVmhQTHJNV09KM3NvYU5ZLXZ5YTktT0hlX2ptcHBRQQ?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 10:12:07 GMT",
+        "discovered": "2026-09-26T11:05:49.203923+00:00",
+        "category": "الرياضة",
+        "status": "رسمي",
+        "summary": "الاتحاد البحريني يحتج على مشاركة نجم منتخب قطر في مباراتهما بخليجي 27 365Scores",
+        "player": "",
+        "content_hash": "793dabcfca184fb01610dc55b6cc305a72d78f7f570d656ea31d916d09dd47db",
         "sent": 0,
         "section": "sports"
       },
@@ -994,6 +1010,22 @@
         "summary": "مواعيد مباريات السبت 26 سبتمبر.. إنجلترا ضد إسبانيا وتصفيات أمم إفريقيا FilGoal",
         "player": "",
         "content_hash": "376acdfd4543e0a52818bcca3d7a28799bbfcf1da8345bd8af4127c0f998ba06",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5544,
+        "title": "بعد ترشحه لجائزة ياشين.. خطأ غريب من فوزينيا يسقط الرأس الأخضر أمام مالي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxNOEZkY09GS19lU1RYcUtQUWtTU3RxVk9VZWJWbG5yV0xfbEtZZ0JBT3R3ZkttNDA4QzNTa2dvbFlyV1RvWW04b1E3QzBPbDNacjQwT0VacGViQjdxeHRFclI2UzFZeWZkb2VHbXN3eTkybUZBc1FIaC0za002OTl3bXNlZEFxWUFWOTVscExiZm9rNnJmdEVLa3hsVXNTZlFyUl9haHdLa2ptbGdURTZ0S0FrcUR2NXBULTZ4d0oxZkJJc1NhR1Rxa1MwS3VLTFUyeE13NFdZbVl6RW8yZXgxSjFhbDExa0xwM1Q1cFVMa09nRlc4VGg4MlZaTTRPUGlnSlI1WWdhSlVEYmlkQjU0cjhsYlV0R0NQWUtKdmxuZXctWS1aR0VzQ3lXbDZVYUV3eVNpOXF0am5sdFFLZ2YzQ1BHRi1QS1l0QV9RVjFXZHQxUWxhOEFPZTdJWjNmVG1FZndiaUZBUWNDbkVfdXN4a1hYMF84UWt1SWpRT3dvR0R2RGlvMTlwNFZrSFRTLVRsOFhfZWduaTlWSkNaQUFtRDFpMG5HQWJ5Y0JpUWhVdDJ6YzRBeE9kbTNfRXcwTjc2VVBEVUVYU3luU0F1Q3RJSldMRjVDMlhXRng4TXRMOVlxOWJNanh2NFpPMFFOckZxbkRGWEI0dnJrYTJ2SkREQ3kxaWg3MERMZUhMSmphRFZxTUNqX2RWNXY3dVdjUEVwcjlzWno5NDZiZl9fY0liY2Q5X0xucXloT1ZxTmotV0JOZDVmeWVfNjJn0gHPBEFVX3lxTFA2ZmxncUJUM0c5RTBpNjZIS0U5NVpoX04zQ3YtTVpaOWgweEtRS1hfeEFvcGlNRFROVk5vZVZvX0dZdE9PT3MxaE5qN3EwNGJkTHU5QVZPNi1FbFAtVUFrV0FUNEdkMndHRDhzZmptbkdkZm1yUjl5V0p2RU5WaVdNcUVuLV84UF9LUk5abTF5cXFoRVdCQllQb216dU5tSF9rdXNXVUMxMjF4V2FrT0Y4NzBPWnhSNnpNZ21sblNaRjFneERoTVF5OTlMQlNCWEtJNmxvTE1lRnBWUk9iMG1Hb05sTVMxUnNPZjJDaVYzZ1hUcURWQTFZN0EyeDg0LWw3VlFZZ181UUcwMEM1eGN5YTNPWjJwaTIyR3VNVXB6QV9kdzBnZk1UaEo0cE9maTdjQ1Vrbkw0OGN3Vk1mOWtTWk5NOEFPckdEcEtKc3pNZVExM1ZtMzhKdlY2V2tudXBHZ0pYN2llMFVzcmc5eFF4U3V0UjJqUmpDclAyc3daYXNSOTZUa19pUWMwQ1BEcEZlalg5cXFJam5ldEl1UzBKcm0xMHdfNEg4U0NvV25tNzZOOVRBbUpoeHpFWUNwWlV1aHYyb2VVUVdKS3JqR2NuazB5S3E1OUY3bDMxUU5INzBDOHNCeEt1LUZ6Y3NiVUNNbVd2VTR1ZmVyLWZhOXZ0MkViUEVZd2hvZjhzYk5tb3dHQk1WNm5HeW5kTzVfaWViRXNqTlF3Qmk0ZmdDY2psVVNOTDBnMzdCcTNzRDFVTUh4cmxINE4xZ2lQcldGYw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 06:52:00 GMT",
+        "discovered": "2026-09-26T11:05:47.941827+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بعد ترشحه لجائزة ياشين.. خطأ غريب من فوزينيا يسقط الرأس الأخضر أمام مالي يلاكورة",
+        "player": "",
+        "content_hash": "d740e9124ff0782786230e4a8ae71a63067af0e9bc1297f50238d7d7424a9743",
         "sent": 0,
         "section": "sports"
       },
@@ -1524,38 +1556,6 @@
         "content_hash": "4b12e7f30d06f426ee23f40f201f9e1e33101fa20d76693517bef767835f8c8c",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 5406,
-        "title": "مصر: مواعيد ونتائج المباريات - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYakdzTVVBUXE4S3NkbWZRNG5oYzRlVFVadkRiNzd0ell5bDY2b2NrdEdfS3hSVkVNWEd3R3l1dTF6MTBUdkxIMUtvcnRYaTRtdUo0cWxoaDFiUEd3dndpTUpSWQ?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 21:07:29 GMT",
-        "discovered": "2026-09-25T23:17:25.996235+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "6ec0e6b8a97a82fc928388af15aa7a16c85f6f2c213a16d827b7e70409704778",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5364,
-        "title": "العاشر لـ حسام حسن.. منتخب مصر يكتفي بالتعادل أمام أنجولا سلبيا في تصفيات أمم إفريقيا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMijAVBVV95cUxOdW1zYXZVSjBOalZka3NBU05ITHlwdUFHcGs4Mk9jODFKbG5hcnlucU95SWRIR0l3aW5rMGRWRExSVmZ4d1FoTlRFTnZKMnJ2RVpBQmtDNTlWTUFQUUw3LXlkTmplbUNVdURyZ3NIRmlkYzNGY0gwSVVILThuOFZnWXFvRnI5YTdUUmtCVEp3YlBrMmxpUEZkdm5RY01SeUNOaTlDV1ZQdzdJTFFGdW9QZ3hsZURFWDc0bVkwMFhVWjd3VUFBVkhJbDNKamlCMEdqVFQwZTZQV3Z4NlV5ZE05ejVPdmlsejBiTFI5TmVTeTdIYmowSXpqYV9FZkxrZkZtcklJeFNCWHV1eERocEhpUlNPQUt4WTBrNHpUQ3JpMlRSNjdIa3hhRnBJclk4eEk5ckhWbjhhOVhfcDk4LWViNVBVS1FWMm9OdVlWRVd5V2FNdTF2OTk2LXBHQ3lKZTBOLXBXS3gyclJvcDNBa0VaVGswcmV6dng0RGxDMmV2LUMyUVhWUm5CVXFHa3NXWWxsLUt0dG5FdlQ0RW1YVUlSRWhjVEpfT2wySHNzN2VGdHpTWWZPMGlGWGt3anZDdmVzblpqQkNLSVFYRzBtdHZ4ME1fVHR4ejdzLTRkZ2NScHhkaTQ2S055YzRNRWhJLUtCaW96WlVNOEoxN2pYR2pGSS02cHM0QThmNGFqektybkN0MzZqN2RnZHlnR0JRTFFmYWpRZXg0VmpDQW5GU2thYjRIN1plUUdSNlhDUjdqSjlkNjhqMXZwRnRUTURISS1Td1dENEtCODV4UVVhRUtkOTZDUGFzZ3VYUjlrcHlHV1pfT18yQ1RmbTlROC14ckMzcTdhTlIyVzNhSXMx0gGSBUFVX3lxTE5IOGxDcHM1ZnMtUHc5WlRNM0tSbG04RXJWTTEtbTJrMWE2RmpTR1RULVQzejE3eHlTY3ZiU2Y5a1d4eXlRSEs0S2IzLVhDREFaN0FtRUU1NG9VMkpUMm1oRlJEbjhCeUgzOEVrNzJCMjhFOEhhQTByWmlqNEl0amVSbGJ3UFpKUHpxTnhkYkNjRTV3QVJVUkcwNjFmWGZpMTdQNkdxY2RmOUoxMXhZU191bDFkdlVrZ21rSTE1NmJQWDlKdHg5WUJISHZCZzdUMjlsOF9YdEQtZmhxMlFjVzYxYVhhS0c1LWw1SmMyS1NqMXY0ek5ZN1JvamloM0hjN3dPUGQyLXQwY29RdEZtMGVERFZTZ1Jfa3otOTM4Q3VtRk9ib0s3cXdua2hXT3JBTTg2RU1kTFZJbVRsUW1PNklLZXdvTGpxYnRTOWRnTUdDdm13VE1SV1kxMDk3T3FScHRUNWdza2lia2Q3OTd3R2YzRjg2MnhSM0dfNjBNNV9EX2tGeVRDa1g3YnN0dUpCdHVGSlJERTk2TlMwMHZvSUtITXhnaVZxdmJrclAtamNQLVdORzNSYW95T3RfWE82X3VWbTRwNmNPY2FiQ05qeEZPU3FNQkhCazctLW9xcE5fMExOcUdxak53a1NvLW5ZTkRMd1BBQWJENUhKdkNRYUg1Q1JiU0VOQ0xHNHRqQl95ZlBzQnVBdEJtcUlyVXdLSkpLZ3dVNk44cVRiZEtHZ3BwQVdRMnVjV2s0cGtlNVNWVk1ZNk1tUmMwU0dPbGNRQUJzU2E4LWtxNTgyNmpBck1OQ0Y3UFpWT0MxWXBabFQ0OVlZc1NSRlh6bnRlUEdFd1h3NGJEdDEtaGlMSGF3NVlNSUE?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 21:06:00 GMT",
-        "discovered": "2026-09-25T21:24:14.927044+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "العاشر لـ حسام حسن.. منتخب مصر يكتفي بالتعادل أمام أنجولا سلبيا في تصفيات أمم إفريقيا FilGoal",
-        "player": "",
-        "content_hash": "42453af06c5d1f0e3ebebb96627c0bddb4d6763e0b64def4f20fa7018b84fc7c",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1928,22 +1928,6 @@
         "section": "transfers"
       },
       {
-        "id": 5046,
-        "title": "ماكرون يعلن إرسال وسائل عسكرية لـ\"حماية\" موقع رئيسي للطاقة في السعودية - France 24",
-        "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxPWUN0T3dNSmtzb29IeEs0cjRWdDhVZW5MOXRqU25rMFNwVHE0dWhpa3VLdDlEV1NxbjBGMElHS2RoUnBiZHNVeHRZUTF4OWNuRXF6RVBVZW5Sd21jeEx2ZXZGZXpBaDM0ZjFWR0ZfY1JzOGlFaEtjcDZwMlBEQXo0clRvejhZcEFEakZnZEUzQlU1aFJKNkxGR3hHT1U4SW05MnhTUlJSZjY2S19fVmk0VllLNnZ2ZXppc3h2VkRTOGhHRnJtcktmdEdhMnhxRUI2OEd5Nk5YT3k0WVdOa0tib1JsS2F0T1RVZGhUZ2IzN3NMWndvZDNMSFJ5RWw2ZVlmNXBXLWxNVEs0VTk4VkRZSDRvYXNJSHpQRXBUNXZuak1QREJWYjBOYXNPT0k4VW1kd1U0TjBrbUNEd3lidmxtZFJlWVdRWDc3QnM2YklZRkpjVGViZFR6SlZkS1hzUDJwQTVQYXZWQXlXU3ZPUEtjTHNwR3AwS3Rjc2xHdHRZRHBmbVQ5TmpjOEM5Y0QzZEt4TnFNMTlueEpPYjVsV21VbzBqbGlfRWlxQlJaa0Z6NGF0QktaaEs5UEZFeHlQMm5ocW9WeFpFSGtadERaaWpJMVJXaUREOThQUzhtQlEtNXFjVDZoSTFLemdsNDJ4ZFpoM1QtYTF2XzA1T2t3VXZLY1piYlBvUkh0TzdFZlR4UWtBWHR6bUFaSkxSUEZfc1FKV3UycktBYXB3NU9rSmhaVzR1NGMzRk10V1RkVzdBbk1fVFFMd2E5Uk94NFJwQ0ZRVllubVR3?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Thu, 24 Sep 2026 19:49:28 GMT",
-        "discovered": "2026-09-24T23:41:29.175699+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "ماكرون يعلن إرسال وسائل عسكرية لـ\"حماية\" موقع رئيسي للطاقة في السعودية France 24",
-        "player": "",
-        "content_hash": "16276628f890e0b8be710838d260f4579ba08c417e4f75af72cf6866b2b2660e",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 5125,
         "title": "\"روبرت\" قط في بلجيكا يواجه القتل أو الترحيل إلى الجزائر - العربي الجديد",
         "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxOXzJudW5xZk9oUEdTaVdGMS0wTTI2Mk94OUJzS1FTVWJGZUJIakkzMUR0STFuOTdoWXFYS1UzSUJoVUFhMW5JQ2pnWXJYeFhxdDloR0k4VWQ2WXl5b2cxUzcwRW5XRUNOeVdwTi11UjF0SmN3bHd6NW5IRThLbk5mSWlZV09XYTU3MUc0QzZVcDdVUFh4TlhodEM5WmFDV2ktTlhpZ1VIZFNSN1NCaS1JcTVPUE1NQzRmOEc4VXJWWHBwa21BNlhuOUxORzNrMXJrTDhuZFRZSTVEVS1XM3o2ZzYycnEySjBGNmVvSkN5WlJqeEV2RFJXSFJxSVZxTWNMYVd3bjFHTDhqV1gtQXFlMXpKeThSd2lCMGhZU09ENW16UWN1X01jbVR2NHNDc2h0Tkk3ZHVybVVtQVg0YzF0TTJ1Q2VyU0NyVGVza1RWaENhbmE3SG9WVXJkUEM3cDNBTC1Jd0JnZkZrTDhCdXR0Smh1QnktdjN1TGVZdDF3SER4bmYwb3lWbFpXMXJhT0tXdW9BdHlVcGtZRUdDVkp6TlNUcVVWVldTa3ZDNzlxQ0JNUmpkM0RIUndxMjd5REMwS2tSdWhB0gHLA0FVX3lxTE9FWWZIRV9hUFV3NllVeFphdHVrWkJ3T09VRzhnaE9kdG9NVnduOXJROEhpeWtaNGdGenFmUHREYzhOQ1E1WGNvR3UxNWF2bFpDRzNaLW5OXy1yRkdFa3Z5RjZBWDZKbmxjMmlqM0F0cmQxWWJtRHBBNl9leVAzdWFtYkJ6Qkxlc1BCdW9OUVJPYjN1Ym9MN3lSZURxWHFQVzZ0OTZBY0ZvZjZrN01sc0hmUUlYLUpqbzJpSEtnRHo3RHd0djVKX1RrUWY0Ymk5YjBiZGJ6Z1FzWC11ai1JbGlMUThqQXAwSVFPYldwX2RUWXlYYi1fVEE1UDFzaWdPOWFLakhxTzNzZDViZ0lXbk16X2tzVG5WMGl0RExKamd1b09LTUVBWVpzMVJkN085QnVCX2RzanZEd1BhRV81Qy1EZEJFTE53ZVlYQzhLaTZzU2VVZUZ6dHpSQkFqQjI4bzJjaTNZWDRVNnY4VjZ5VHZnLWY4YjBGSjVETUNNSjRDbi1uQTVTaWpXVTBjdzlSYTlpeUZqZm1IUHBYblpEeG1VbU5nREJ5cFBfTU5aZ254M0Q1VllNSDhMc05WMVNDT3VQV1kyYlJKZC1CUQ?oc=5",
@@ -2182,6 +2166,22 @@
         "summary": "وزير الاستثمار المصري: نرحب بالاستثمارات الخليجية بكل المجالات العربية",
         "player": "",
         "content_hash": "ec5e89668c7b63e18f747cc899888b11854800fc24413864c6e3a373d1002b7c",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 5064,
+        "title": "أزياء ميلانو وترمب والانتخابات.. لماذا غابت ميلوني عن الجمعية العامة؟ - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPQ2Y2UXhodWItM0hUZGNoMEE5U3l3dmx2b3pHbmtUMTlxRUFQZ2w2YV9DaW1kZWw1TWxUX3Z5SFJpQm5WMmN1ZE5tTWhoaW50dlZsNmhkWi1sT1BfdmU3UUFFZThRZG5SVmliTlczczVmeW9uQW5zLTRjMmFsRE5qZUVnWndtb29sMVk4WkVLQ0o4QVZvS29LZzBkUy1xXzZRYVhSVktGU1ZpZ0JRYW1BYkdYQkZFY2dFTjR3Zi15OTVSSFdFVDFGWlJ4ZnRhVWJKMGpsZlJKVXhJVFpDRWpBV2VpaE0yZU91cVJMLTk0MUtnanVHMzY2QVhWZUh1QzZ5M29nMDJUakRjTmk2dmVpdUNSSUlnYmRaQWN4ZVZHaFBObjhtQTktaTVYSzhLYk9RWEZkcDNhVUxHdTYxcHFEc01UT3JVVUFwc0pYU0FiQQ?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 00:27:29 GMT",
+        "discovered": "2026-09-25T02:07:58.605746+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "أزياء ميلانو وترمب والانتخابات.. لماذا غابت ميلوني عن الجمعية العامة؟ الجزيرة نت",
+        "player": "",
+        "content_hash": "8bb676c362234a9324a117478d51541fdf2adae7975bd94e52fd13a91a074325",
         "sent": 0,
         "section": "middle_east"
       }
