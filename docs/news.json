@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-26T03:12:31.303296+00:00",
+  "updated": "2026-09-26T03:27:17.481214+00:00",
   "total": 145,
   "sections": {
     "morocco": [
+      {
+        "id": 5469,
+        "title": "تطورات الحرارة في صيف المغرب.. وجدة والحسيمة وتطوان بالمقدمة - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNNGp1LThMWDVKTUJ3c0QtMG9FU2NxN0VYTDE4N044UUFkM0hhUTN3YWJydV9faWVRd01pbFBzbTBmYmVaLVpDZFB5XzUtcUtaaHgxMVQzOWhkVkFzZjZBZVBMc1RrT0Y2ajBJTGNlSy1KSkdRT0hlTzVGMV91czY3NFBDeWdkOEpiRURRS2hvUnVaU00xV1g3VjJlMzFXbjdZSjdteDluQWNYWS1vY1loaXJXV2lFTjdDWlp3Sm01YXVEWUdIZm1jSGtiOVQ1MVk5X0RpVEdzTDQ5Sng1by1MVDcxM29HM0NYczhGNGJfWXNiY2ZINVgwMFZCcUdRNTlqX1RTVmo4WlNKcW9PUE9BRWJ2TW0xY3ZDNEs3VURQUjRCOUpZeHlCRTRvSzhQMjR6U2FYRlQzTVlKY0Nya2ZFQUxHUVJLT0lYRlJUck52ckwtMWFMNEJF?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Sat, 26 Sep 2026 02:02:54 GMT",
+        "discovered": "2026-09-26T03:26:45.823831+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "تطورات الحرارة في صيف المغرب.. وجدة والحسيمة وتطوان بالمقدمة Hespress",
+        "player": "",
+        "content_hash": "d432d3050917faa26cb8d434732df5eb4711171c35c33e4c67dff127a9d6f3b0",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 5403,
         "title": "وهبي: مزيان التنقل لإفريقيا باش منولفوش رفاهية المغرب.. واللعب بالشباب ليس مجازفة - Febrayer",
@@ -784,22 +800,6 @@
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
         "player": "",
         "content_hash": "dc6ea4f8bd1438d2001fb81fbd7e129f441e1bee49130b6365a24eb2bce39413",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 5435,
-        "title": "نتائج العاصمة الرباط.. “البام” جا اللول و”البي جي دي” الثاني فزوج د الدوائر: الأحرار كلا الدق وولد لشگر طاح وتحالف اليسار طلع فالمحيط - كود",
-        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQdlBBSWRxRmZfQWZJenVJakJPazlfZ1N0VV9nQzd1RTJoUFB1U21vcHdYTmVtSHR5b3hEWGFYcGRSZVE5Zm45Y2IzWHFtVlJqc09Oa1F5UGNhTWNQRTM0NXFHdEM2bWxwZ05DUnBiSXNwTmRxSFhYNTNYNGRxX0p1NjdYaGtNWDdXMWtGNUdfMVBNVElydTNjUV9OWkw5THVMaV9PV0lxT3YtT0p5bmxBeGtuY2ViZlMyUXZEYV9lTWw1YWRaYzhyNzlYdkpXUnYyZ2RfZjhkVGtqSnpUbVVXUktpd2c0WGI5bThsQnllVE5VVk43UkdGcVM2dTVwR3FEVlBnOWRaWkVKZ3ItdFBweFlpUEpBcDVZbXRKQXdQbkZiWXc5OFBpV3JUNS1Ec2ZJWlMzaXUwRUlYdw?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 23:33:30 GMT",
-        "discovered": "2026-09-26T01:45:06.356608+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "نتائج العاصمة الرباط.. “البام” جا اللول و”البي جي دي” الثاني فزوج د الدوائر: الأحرار كلا الدق وولد لشگر طاح وتحالف اليسار طلع فالمحيط كود",
-        "player": "",
-        "content_hash": "0bae36c99b0aeedb0984f16705cf6b48c82a55c29d4692e6dbba557bd6093e9d",
         "sent": 0,
         "section": "morocco"
       }
