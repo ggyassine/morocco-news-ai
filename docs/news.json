@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-26T12:40:07.572070+00:00",
+  "updated": "2026-09-26T12:53:44.719642+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 5562,
+        "title": "زلزال انتخابي بطنجة.. مذكرة بحث وطنية في حق العمدة الليموري بعد مغادرته صوب إسبانيا - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oUG93MXlVTHd3QkEtXzlWVzc1VDlOcG1DTFNhYWVWMXBNMTBZUUtJTHZJZE9Vby1kTnl0QWJDYzVnUEsxYzhYQVA3c3F2YkxPT0ZjcTVXZHZpV2t5VF84ZGhBdW9Edw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Sat, 26 Sep 2026 11:56:04 GMT",
+        "discovered": "2026-09-26T12:53:17.733680+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "زلزال انتخابي بطنجة.. مذكرة بحث وطنية في حق العمدة الليموري بعد مغادرته صوب إسبانيا Le 360 Arabe",
+        "player": "",
+        "content_hash": "11bf0e671676567060c8cff43e13510b081197883681eb1fe4bb0c3b5bc19640",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 5553,
         "title": "برلمانيون بارزون يخفقون في الانتخابات - Hespress",
@@ -774,6 +790,38 @@
     ],
     "sports": [
       {
+        "id": 5565,
+        "title": "عاجل: مقتل 11 شخصاً في هجوم بسيارة مفخخة استهدف نقطة أمنية في شمال غربي باكستان - bbc.com",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEcFZ0QV9LNnpwMHMtazBpN2oyYnJWTm84b2dIWTduTWV5aVhUTkQ0VVBDMVVVdVdKd0VjUU5remhMYU9XSURqSWxPZGtFYmNlOEh5cnBILVNvNlJMWGfSAWNBVV95cUxQaHZZSlUwaUs2Qms5b1RDZ29MMFlXRk1BeXhuWmY4UmtnbkE2VXdDYWxBRTZpUUFQcHNuU3hDVFhGSzAxUGQxQ1hsekVTTDdGQnVoM1NUUjZVZnJOUWxtMHM1Qmc?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Sat, 26 Sep 2026 12:50:56 GMT",
+        "discovered": "2026-09-26T12:53:41.503863+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "عاجل: مقتل 11 شخصاً في هجوم بسيارة مفخخة استهدف نقطة أمنية في شمال غربي باكستان bbc.com",
+        "player": "",
+        "content_hash": "c77325ff16ba82ca8f106e2bfb780c61034514a448e945a297f64e7dfc6f4c10",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5563,
+        "title": "مصدر ليلا كورة: الأهلي يدرس توجيه طلبا لاتحاد الكرة بإعفاء لاعبيه من لقاء جنوب أفريقيا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMitgVBVV95cUxNckdROUd6cV8zdVRRRWRKWkxiS05RY3oxMk9HUlpjM2VsU25CMWVTYlBDLUlBS3RZZHRjOG1KMkNyeDNQdDFfZ0JYRnU5N09USllUc1gxc2pscF83QlU0bWhnTkZBN2tScFl0NS1oUHlaeE5zcGNWcFRDRXhTQ0FZaWJhanlSX1MtbldOSTV4cUlaYkJZZGE1SmRQQUotRlFrUTJsY0IwNU5Jb3lFNUFZX2dyYkhYelEzOXpERmJHb1IwbVdUTXQ0cGQ0X2lNS1c0T3FzVzdXTE0yNG5Lbng1VjhhSnU5bHdWZ3h1a3FEVk9yUEZBYTZWZHdGa0Y5VXkwVzJiZGNxOEtEeHU4SlBlaWRaTDMyV1ZsbG9Oc2loUG5oZU9zS0V2dHJVTUJaV29FT3ZUc0xhZ3huN2RXRHpRX3MxdXh4UXVHQjVXZldud3dON0pXZjg1V2dzQXp6M2VmNkJhNkFST3IxQ09Vd2VqcXVGMTBybGkxQ2pYSnhSMlBYMmZXRmswdnhMSzFiTXNvd1N2V21JQXdZTW0zcFpsMjB5QXBteW11YnF5YktHZGFpM005aFk3blN0dXowTlRzbnBIX1I4WnNsZkptUEhSQWdlemJhQjg4aGhUVzNyUE5oaURzblFhMXhmY0RZMkhSTzRuZWVub0ZnSGE0dkQxYU5NV01Pd2ZKOVlfZzRnRER5T09kWm12c0hUYzNycnRVOEh2V04zU0FtVzdzQXlJaTJ3T244dVl1OUk5NWc2YUg5RnNLT1Jsd0dZWnAwSVBQMXFvNjBNVHp0NjhMdU5OYkNQY3hHWkFnZjdwN3JFcXlXOGQ0SnBxX25aNXFUd0FnbGpjcnoybkdpMUhqQVR1d29Zd2FGdUdRWm01UU4xMVdxZmxYYUdZSGRraDAwdjBpSlRXV1h30gG7BUFVX3lxTE5YQ1p4N243c0tWRmxtMjBPbGFKZUItMFFJeHBCYWc2MjhDS1QxOTNZOFQ3aTBHMVR2LTY4SlhteUxFaHpkU1doR0RfdmIyODd3NmdCNW9tUjVIUmFUNTVwcUpjbmVwd2NNdjYzWVF4TEJDVmdzV0c0Qk5VV2lVazl6NVlnQVV0X3NGVzhMemFjb0ZsbC1IaEV2RDd0cFl2T1ZjLXJYckhsbXY3SlcyUFp0RkNMdjV5ZVoxbHNyMTlGcnJDZ3lOOWZHWGJlbS1qSEdrX3dhalJ0U2FMZUhwZDJvUV9qRzZTM205Mmg5MFVsY29CVHc3QWQtdGJHOHdraHlXQk4xb2Y3VlFFVVM4MHd6d3l3c3V1am1JWUtkUGg0Um53R3IzTXBhZTZQYkJFakpSMGtxdVF4YXhBS1NDU3gtMlBzREYxWkxVb0I1bjdZb2FILXN5Zmp0R25qTXRONVhoc3Fhdk9BRWoxLW9qNjQyaFNlbEZCcHdSQk93ZzJTemlNMUg1NC0wdGtfMnlNSkdPeUJmbXdvUi1XR1Y1MDNLSE5HNzBTU3VpWVZSb2RFRFJjb1M0RmNtV3JUSFd2MTNzRWlBVUNTZTNoZXFPaFRZT2JYdjloenVTLXZZa2ZHdGFsQ3lhLWFENmdrZm9iZmxvNDNmTXFYVXB2Wk90WW8tTFZEdzJXRng4Mm50R2M5Rm1Yc1Z0M19LWnhXSWRpNEhvb1hnamx2THdJZjM0RHFCMWJDb2JGZDNnNUIxeGU5NXhHSm5XYllxQ2dGc2JxYTlXWkk4dXhEX0RmejgxcnhyNDZHTjhKZEt1MkJjd0M4eVA2cGtLb3ZPSlVNUDFIbmRlbnkzcG5qRUtOSEJPUjdjXzJwUEljUGVzdHV0QVJHTU1hOUl3SGNhUUpnc1VyVFo1Zl80dWlkVFp4cw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 12:45:00 GMT",
+        "discovered": "2026-09-26T12:53:28.780722+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مصدر ليلا كورة: الأهلي يدرس توجيه طلبا لاتحاد الكرة بإعفاء لاعبيه من لقاء جنوب أفريقيا يلاكورة",
+        "player": "",
+        "content_hash": "fbe0b3106fbd7fa68b363b4bf2c687fe63b646d6e21a19ebb2659ab4e56b3738",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5561,
         "title": "26 مباراة دون صلاح.. ماذا يفعل منتخب مصر في غياب قائده؟ - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQczJBeGFBYnZkZk5scHF3Um1XX3hrUDBFbHg3bVRmRlVfVTRTX25HVXRYN19IWWxuVUNpVEJHMFlMV1Z1NERHbU45R3BreVhIZ1pEVzNHNEJlOXJqU0xCT1FkX0lBNnAxcGFTd3g0d3BMT01DQ3dzLUNidlpFMkNTLXprcGhCT2VzQy1MZ3AtQmJCVFZMZk0zVWxXOTBlbHB0SHEyZU5SQ0p6bUJ1MUlvWkZlUkY1WjQ5SVF5cE05MEpZNDFCSExRSnh5c1hGaGJkTlZ2WGpuTlVzc3BXanlGRTNlWUJsTHF6ZUNIbWVFR09iaDFJdGlITjJLQU1QNWp5QUs5UnBzeS13QmdlQV82Uk90aUFfeWthbVNRX0l2VkxZcEhlQWw4VmNTMk1yMnA4Q1JXMl9hbVBkZ2pPMFZuaDFPT1A5U3kyTWEtdTQxQ0xxelZiTDUyZ2Z3TmxJb2JmV012OW9uSkdnaE03azNNRk52b3dFYi1DZGFVT3FHZTk0Vkc4RXF4RTl5dVdnYWRLamNmdjFTbnVBZ1Nkb1ZNVm5kdXdtbktIbHExckpwSWw2Z08tWFljV0l2VdIBwANBVV95cUxPWFRrX2FsWkxtVW9FX1hhbDBabDVtY3QyU2l3bDNLQ19STXJFRE5mc09vVFl5bkRnU2FBYnBoTmowUUlmVVhuNkhjZ2ZMdFNSRS05ZXdMLUExWjFsMWxVM0tmbDVhVHlZdnRKS1hxM0dZYVdidVRGV2xBT3dITFU2QkJ5ZUxmNDNmMXRQZ1dtblFaRjJlbnlINUtITXRxT2FLTHRJVHdsd2VEVmlBS0xQbzdVVnRJOFYwMnhIQjF1Uy1xS0NGZHI1cG1lSUJjOEVCWHNkRm43dUY1VHltRTUxN3FtaVZCWFRWUTRVVTJVQldSLW0wVkx3SXRBaXhjYlViOUdGQlN4eGVvdTBELVUwT2lCSFBxdzNVTWpqaEsxXy1CM2RETUw2UjJ6VlREcE1iNkR1MmFmdXFiX09JcmJLaDZlb0JnQXoyczRKUWlTZEl3N1N4MGw2VjVYa1JCaktUZk4teUMwZHUtV292Q2lMTHVoNlc3VzBmQnI1bm9KLXd2eG92U1RMaTNnWFppYVNlSXF0N19CWjJJbWtwQ0pHYlhzNE1YdkNMQl9Vc3JNZ2RaZW96cWQ5TzktZmNneUVJ?oc=5",
@@ -786,6 +834,22 @@
         "summary": "26 مباراة دون صلاح.. ماذا يفعل منتخب مصر في غياب قائده؟",
         "player": "",
         "content_hash": "9070e70b98547a86b423e51501668cd305dd0981cf158f997352f6e78e2fed41",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5564,
+        "title": "الروائية الأميركية لويز إردريتش تفوز بجائزة دوروثي وليليان غيش - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxPOGJWeGR0a3E4OWx1SWN1V1I5d3A3T1NnYi1OQ2M0bDBDZWFVbE5YcWZteG84S0duQ2V1NnJKWVNUWmtBVVlKRFp1VkdSRWtqSTZ5R21OR19uMW5JUXNJVmlDbjd1YmhReGZXUVQtSU1sd2huR0QyZGlBLUNzSUJZaXg0T2pzMkI1ZkdFX0plalljS3M1M3plM1V2ZW1ydm03NkJKb2M5RXJNWWUwRGFVYlBkWWJhRjNIdHE5TWpldmh6aVN1OHZXb1VVcTRtczlOVTZ6S2lKRVdqUGZPbmFqeDJhOXdaeVdmS3hkSm9QRjRaYVhsRG55MU9FM0NtaDFfcHVZeFdnMW9taUtfQjlRQkNxYTN2dHFZby04em1Ick81U0s1VUxMWS1MdDFhLU5vLW5DR3JEUjRaYXFCNVZfdVVhcE1vT3JaR3RvR2N5UzZHQUVWeDFoSS1FZ1F4OXNFQnRkb3poTE1QVlJDZ2RoczNLT1FRSHg2ZGVReFk4VDJEVlR5SHo3NTBZb1VzZHRuQVFsRjk2NHFhWDFiZ1ZYZUk1alpRWUMtT09JLVNMV3FVOUdvXzliQnhGQ1BWdWt2amtJME5RbkZ0aFlGMC1MQlRjT2hGZlYzbjI4ZWRMQ2dkYnVZV212djE0X0JVNzNwTElYVEZKdW1Qel9QU2xDbDNuQlnSAYoEQVVfeXFMUGEwXzJRTXZ0N3dqTFNUNWxEY1hkR3h4VnAyOFJvQXljU2JFRDl6Y1l3Zzl6WjcweG5qcjhRVGVOajZ6bHNURWIwa3VYTUdzVHRzRDlmWTdLUk5MMzczYXJiT29MUVhiZmtwOXJId19jR2lYMmc4VXdoaTRqNTkxWENXcmpkWVhITVpCclFCbklWS0k2Uks2YTFqNzdMbGNxX3VMY2FJNkNtVU92NzB4ZHZrTWlQd3hTcVJaZncwVXl3VXdScDUwTGViX0hwbzhXc0RTaTZFRGtuSkNHNHJHWG5TOWJwYVA5eUh4Ymp2X28zYVNqTmg2YnFlVmlMN3RfUW9RS09tbFhkdU5uR19NNGc3eHdVM1FUZGJlUVVzYnFQMU93UF9qMzJKSVEzVFp1RG1vM01QLTFRcjFHZUcxdDRDU0xVNTZGWmtyemVWYWppU2JJTHhZTVRiSHVBcHJkTnVfVWR0QTNhdkl6QWNmTkk4SlhRb3dRd1R2RUtfMW5SeW1WVlRTV01RVmVJWWRWZFlsLUNIRmVpVXpSd2V5c3hQOC1wLVV3eEJoR2pPSmNvNEV2T29hRnBBRm9FRzZ3eGU4SEpzSTRCSFNSMmdxZzNDYi1MWFNFekZ0R2dVbzRPUVViZXE0U2wwMXNfYndTWEFiLTd0OFdHdUpleXF1Z2FwbjVocUdHaUR3?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Sat, 26 Sep 2026 12:25:31 GMT",
+        "discovered": "2026-09-26T12:53:38.721789+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الروائية الأميركية لويز إردريتش تفوز بجائزة دوروثي وليليان غيش العربي الجديد",
+        "player": "",
+        "content_hash": "24ad8b4f5ca6e506f42f8482217f37d8a2c40ae77ba8eb5ac6cbe1484145b5cd",
         "sent": 0,
         "section": "sports"
       },
@@ -1524,54 +1588,6 @@
         "content_hash": "3e3b9a3c515e3c0969e92e1e34cc66151198f9b9a1041e03d20d6f9e47be6049",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 5377,
-        "title": "بلا أهداف.. كيف تفوق منتخب مصر \"رقميا\" على أنجولا؟ - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxNSnQtZVl0TlJrVk0wVEFPOWNyOHpOS05UelJZUlRzOUY5a2IwWDdYWVI3M2JNOU1GZ2dtdzR2RFNWV2p6SVhVMVlaRlVHYnk3SUx3Yko2bjZMdFMwNFRsODFNSkNSMjN0bGY1bnN4eXk3dTFDYUpWdWpVa1JXbEJRVVpkbkIyTnB4MkpmbTZLZWhwbEVYM2M3amxuU3pxcUFwdUFITXg4T293ZU5nai0xelh5ZV9DQlVVSXprQ2I5bXkwc0VKMTdlblNzWU4wTVM3M01qWERfN2w0RmZVM1lMUjY1UUZyNkloci10WmZORUkyMHJsQm9yM2M3cHZlU0FLYzNmdUszbnVWQ2FlNFNSSWFsZDR0c1RvX01wTHRnUTV2REs3NzVqUmlHeFUtY2NwUDRsWmFvMUhfa1ZxeFFuZXVtel8xMDJLSXVSMjlHVUYzOWpYY1JnQmlxSFppNVpEMWRaVjV6d0tLVzk4a2Nfazhnbi1LcjJfTTdTSXpkTzJ4U29VS01TR1B1NzI3Zl9KckJPc0xCZTNEcW1lX1HSAaMDQVVfeXFMTmJueUtZZzVBZndBR0RmY1YwLVdXT3Vna2RWTUVKX3hsc0tJT19zTVVNaGNaVnhfVy1MVnZVNnZnMUtXdlA2VzZzVGhJazR6UUl5MTFabmd2SEFzdURHME42Q2VETEQ2NW0tZUlmVDM3VmJSeXFPUlRoR2NWR3c4Z05heDNCWE5WaVN1elBCdHl3Q3BfdjBIMVJMR1U4SWdLUGktYW9lM3pPRkZtWnhsaDUzQzVObDhnX2syT2J5ZjA0WXhHek40S3l6LXczWVI0MGFFYUJ1M3NmUFRfb0Y0WWtBNFl4czBuOEZTQ1dWcmRDUVVHOFFFczR6eFZXeGNuWWYtZ1BaTHExaUJqdW1yODdHODAwNXpXc0o5RVJWeUNjYV9CUVhpWVl6cXZSQjBPNzN2aU1DS3VZLTFsRGNmSHY2cjdOTHBVb3hCZWs5NnFxWUR2SWxKSFBqMVUyWkZrLUNCSzV0U1hCZXJFWXp4ZGRKbk5NUFB0Q1Zhd1VaVVRBZzJtbVRhRkVtcEpLbFNNd0JsUzZDMmdSTjVTOWhTdXNfTkE?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 21:39:00 GMT",
-        "discovered": "2026-09-25T21:49:42.065254+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بلا أهداف.. كيف تفوق منتخب مصر \"رقميا\" على أنجولا؟",
-        "player": "",
-        "content_hash": "3a9d47a84a872ad905a8a048182ad079f41a5b1f14534adbe8ab183116056ddd",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5381,
-        "title": "تدعيم لـ صلاح.. رومانو: طرابزون يتفق مع بواتنج لتعيينه كمساعد للمدرب - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxQRXJDa3pHRVJPNWktYlFzUlAtUmNPWHlGbDZsU2NWSnR1dGRuMVRoRTBBNEJZTjhPLXV1NkNPZ3c5ZFFiLTZERUZFRmdzMm1HU2k1SGt1bFJTNlRlbnJxd1NVSGd6ZjlqVHh6WkUtUUVxZ2pWU2dtYllpUl9zSk5KanJYSi1saEtJRzdMalFyU3RfdTB6MUNxelQ3c3ljU25hcHoxZmJkb1ljYk4tc1VBZEhiandSYWMwcm1IU2NRZ19CZlJwRl8zajFBWFhOZldmUkg5RDF5Wnh0NXZhLUthbzQ3QnZrWndKMmNKV1E5akJrY2Ffa19MU1RwN3B3VVpYVjZ1VUNQV0xZcnFKcDZQNlplaTB0MTlvcHlscDNrTUFYRjFFcjBkT1RJRkIwcWpCeHBCYzJJUlp5eVd6VjdFU2oyYVRZUF9oWllobWpSMmZ4ZW9JNEtxbHBwcE5nZU41OUFza3ByMDZKeGcyZHJpTFIwT0RtNVl2aGdJWDQ4VDRvTkplcHdZRUc2YWZoVGlMNXhRZjdCLTRKSGlDMDg4bHBxOXJqbXRMN1o5U1B2cXB5R0lEYktIRUlpS3cyRnNDWjVEU1hsSzN4ZzJfNVpPbG1WOGVkcFJmR1ZncUZGRk4wOGFXc3ZVTER6TGYyZVB2cWJlUTFLTlNQRENuYWNtWFczRzBjd0dRbmlGLU1NdDJBMlNFbkRF0gGcBEFVX3lxTFB0eUVfU09DRzJUSHpUMHVwVS15QUJvdDZLTnV0NUJ3am9rVVE0TzZaTjB3THBmQ1BwR0hVWER1YzlGbVFCNWg5OHlVTHR3anJ2OERwZWJ0bGZmN2RmaHgzRmptZkdYREZlQXZ5ZUEwNGZFdlVnQXJsaFdtUEExX3NFWXl4WWdISVdYSGdvQWJSNEpRY3JDWHdhbDlRSFhLcV82ZjQ4RXZsNHVtNE04am9PdWlCZU9Nakc4VnRZSHpZNVhGdUtXY3U4cklwZVR6VDRra2lRUXpZQW1na3JVak5IWnJUQVZGLWxLbkVzYVlMRUJjTnVGR1JFQjdlbG95MXVGOGdoOTZCT3hRenBQX2Y1UzVvZlhydThkMUZKWnFEMHhRdzVlaldXR09IWTlfanhpX1RCZDBPdklBckVkbDFjcFlnY0ZJdzVjQmw4UzBxeVl5YklPLWxlUDVmMXlaLURPV2gwS3laQ2ZxNXVzX2pHeS0zS0I4akQxSGpSZkRGV3pvQUdJckRuc3NKaXhsempXY1ZKTzR6VEJyLXJNQnhuSWVxdzJtR3VTLU9PRWFDS2lOOFJyRExhSVFHbkRGS05ldzZYZWZjWkRuQ2p0WWVhdl9RckxEajA1TzI0NXJFX0NJWXFNNGFDbHlROGd6Y0U2RjVzVzN1QUdfQ2VQRVFkVzBvUi1Da0F3OWZTLXdzZS1nNWtlMzc4aklxNQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 21:38:00 GMT",
-        "discovered": "2026-09-25T21:49:42.717280+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تدعيم لـ صلاح.. رومانو: طرابزون يتفق مع بواتنج لتعيينه كمساعد للمدرب FilGoal",
-        "player": "",
-        "content_hash": "77ea81e8a6cb350936f47a6067a618da0010423bf04b4eef1d7696df08786c18",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5532,
-        "title": "«تصفيات أمم أفريقيا»: مصر تستهل مشوارها بتعادل محبط مع أنغولا - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxQLUFOREh1QV9SZzZyVEprQjhHdkpDc0haWFEwTS01aGdiZHl4VW9rbFhIajBWOFdsTTVvS2NHcGU1MEtpOEkzc1l0cVlTTlg0QjdYbFZHV05Od3VaQkI1SUJnUmlLc0k0cDBDbzQwWXZXcWhCRWJRTVpLR3JnRUFsblI2U1RCZVRHSjRxQVI0SnltNk9DSGl2MGNaV2MyOHhWX0w3U0FKdzlRZTNJWENkTnBwMzdPWHhId3VBZDkwUWphMHVjS0ZScUpiaWZQVzdScmg1WGlxS3RmSkplTEhDZnA2b2NmMkFFMGhiWEh5aGdoUmc3M2d6bHlMNXZpUkd1bjdPcGUydzhUb1EtcGtUNmFsZ09GMElwQ0kza0o1bHpHVGdoc050NnVVLW1jdWRHODNnWWFZQ1M4N05wbFpSVTVQQzVqcHNxdERkXzUxVWpnQjFDOUJuZW9fN1NiYVA1UHF1dHRVTTlHQ2JGWF9qSllxNlhpNnR5eUt2bmRCU1NxNHViaU1IVS1ZUlRCUzNlNEM1ZWE4VUx3TjFLYXhHbkd3YmdPOVFrMW5Ia3NhOTd3cktKV3IwRlFoQ0ZOZV9VcDFxMXEyYS0zblM0WVBGOWEwX1dMMDBGckMyY0YyVzlwNDhnbW81a1hlZEdwU2pTX2JnN3RxaFhrd0JSbG1ONmJiNmxxUXRQU2lMQWdLcXZzVWZta1JVYmpzR1Jna21WN09HMmpYVGFMVGtLMTVvUzFmRnV6eFZhcmxZdm1hWUdMTS1LR1VKeGx0VWstcFEzMVdnNmdBSDJ0eXhxd2x6SzJCS3IzOUNK?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Fri, 25 Sep 2026 21:31:16 GMT",
-        "discovered": "2026-09-26T10:07:07.823883+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "«تصفيات أمم أفريقيا»: مصر تستهل مشوارها بتعادل محبط مع أنغولا الشرق الأوسط",
-        "player": "",
-        "content_hash": "4051b62a86b3f8d79bf4e38259ed0bad397e18ca133bc111836a0766238aa14d",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2166,22 +2182,6 @@
         "summary": "وزير الاستثمار المصري: نرحب بالاستثمارات الخليجية بكل المجالات العربية",
         "player": "",
         "content_hash": "ec5e89668c7b63e18f747cc899888b11854800fc24413864c6e3a373d1002b7c",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 5064,
-        "title": "أزياء ميلانو وترمب والانتخابات.. لماذا غابت ميلوني عن الجمعية العامة؟ - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPQ2Y2UXhodWItM0hUZGNoMEE5U3l3dmx2b3pHbmtUMTlxRUFQZ2w2YV9DaW1kZWw1TWxUX3Z5SFJpQm5WMmN1ZE5tTWhoaW50dlZsNmhkWi1sT1BfdmU3UUFFZThRZG5SVmliTlczczVmeW9uQW5zLTRjMmFsRE5qZUVnWndtb29sMVk4WkVLQ0o4QVZvS29LZzBkUy1xXzZRYVhSVktGU1ZpZ0JRYW1BYkdYQkZFY2dFTjR3Zi15OTVSSFdFVDFGWlJ4ZnRhVWJKMGpsZlJKVXhJVFpDRWpBV2VpaE0yZU91cVJMLTk0MUtnanVHMzY2QVhWZUh1QzZ5M29nMDJUakRjTmk2dmVpdUNSSUlnYmRaQWN4ZVZHaFBObjhtQTktaTVYSzhLYk9RWEZkcDNhVUxHdTYxcHFEc01UT3JVVUFwc0pYU0FiQQ?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Thu, 24 Sep 2026 00:27:29 GMT",
-        "discovered": "2026-09-25T02:07:58.605746+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "أزياء ميلانو وترمب والانتخابات.. لماذا غابت ميلوني عن الجمعية العامة؟ الجزيرة نت",
-        "player": "",
-        "content_hash": "8bb676c362234a9324a117478d51541fdf2adae7975bd94e52fd13a91a074325",
         "sent": 0,
         "section": "middle_east"
       }
