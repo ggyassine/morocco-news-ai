@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26T19:36:53.990487+00:00",
-  "total": 147,
+  "updated": "2026-09-26T19:45:55.887841+00:00",
+  "total": 150,
   "sections": {
     "morocco": [
       {
@@ -2123,6 +2123,54 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 5714,
+        "title": "«جلد فائض» مجموعة الشاعر المصري إبراهيم عبد الفتّاح: المفارقة والقفز خارج الذاكرة - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQYkt2Qm95bVBEOV9wbGw2SjhfR2NKQ213RHJRbTJxQ1VHMG1GbXVjY1Z0T3RQN0o0S2xJRFVsOVBuRkstWTNVc2xDT2R0LVlxSXlOWlo4R0tGNmFZb1ptM1l3VmdRUXJGdEpyX3NINVNuVDZDWG9CeGhROVg1ZGNtRFFBWVctRDExSEhEbnkwM2FhT3o5N0lyTnY0ZzNYeFY4NFM0Z0YwM2JJUzZWeENCUFdwNk5kb1Q2c1FVdF9GTFZoZEFjeThtbS1ZLWhxb2N5czNBSlY4eC0yNWVJdU9RNzQ5YklvYklIXzlQZ29XR3N6MllnMFM4aTJRajJZRHBwU0xRYXdaMTFhRFFVdWxhSDVKRHFNX256RFlac2tfNkVHVlUzbE8yemlwWGdyRDgxektjVWtn?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 19:24:13 GMT",
+        "discovered": "2026-09-26T19:45:51.548073+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "«جلد فائض» مجموعة الشاعر المصري إبراهيم عبد الفتّاح: المفارقة والقفز خارج الذاكرة القدس العربي",
+        "player": "شاعر",
+        "content_hash": "d5ddb4e5a023c986ed34da69e9bca506c315e396c0179c0bfa35acbef2d7826f",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 5713,
+        "title": "«الشمس كلها في وجهي» مجموعة الشاعر اللبناني يوسف بزّي: قصائد قريبة من الذاكرة البصرية - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNU3ZZd0VRaVpuUW5ueFNCcUNtVFBxRkFMLUZKVnBlM2tVZEh1aWx1NC12TldlOC1kdDUxV2huT3RfVGl2czJCR19GLXZvbEhJRUt4anJQUFNTNzdKSmZVSGxFYlpySWE4T21HejNDVnF5UjVFMEx4cmVYc09WVjZ2bjNUal9RcHZwV2FRY0tMSktMX1NlTTB1aElwTTNxdWtPaFhBRENqNEtCU0ZfSmNqNGhsRkoyXzl0QnJ6SzU1SUY4VXV0UmdPaWxDS0Q4YlBVMS1MRkkybUhncGgwejZEalBMMC1mTzhxUzFDV0R6dkJ2VXhncGZid2V5MzNvUDBSYTRUa19jdkowTE9XbGZlN0ZHZE1IMlp3cmVWMHNpdng0ZkNURkNRaHc5R2p1WTJWSi1GOXBmWQ?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 19:21:14 GMT",
+        "discovered": "2026-09-26T19:45:51.521052+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "«الشمس كلها في وجهي» مجموعة الشاعر اللبناني يوسف بزّي: قصائد قريبة من الذاكرة البصرية القدس العربي",
+        "player": "شاعر",
+        "content_hash": "b352c121bec936e3d2e7be09310eab60fa9f34c0e7b0290e4b42506ef7f96def",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 5715,
+        "title": "تجربة الكاتب والروائي والشاعر والأسير المحرر ناصر أبو سرور مثالا الأسرى الفلسطينيون وفعل الكتابة... تجارب وأسئلة تعبر الجدار - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxObGVvRHRqeUJkUWdXYk13cUFUd0lNZlF1aHlkNWFJVFp4bllpT0VqbW5OT2Z0VEhMSEJ4Yl9HNm15UjMwWmc3ZnZsV0lSYnEyWXotdVdkWmNVaW5ZLU5CMVJpOU5ERUJOd045N0pGRUV5ajdzWXJXYVhmaGdMSXJrMkxMNXBPUG0xVXpTRjhSaGNXRnF0QXo0b1lzalRIOFFFZElpQ0ZsVkFyRm5XNXQxZUYwaXNWZnYyeTdHM2swdXhJT2dqMnBFQk5OT0FMUGZrVzJaUWpPU0VHVmluSmtqV0NqM01qamo3NjVqSVIzMk1hOXZjTzNxQWo1dS1VUmNiSzRqNTZaMW5fUVFmN0stVzNtVXJfeHBDdTNpei1naEN2a2ctR0NIWU9kY3NBU2dDWU4tUExOVm11ME95aUFxUzdfNEE?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 19:20:14 GMT",
+        "discovered": "2026-09-26T19:45:51.556748+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "تجربة الكاتب والروائي والشاعر والأسير المحرر ناصر أبو سرور مثالا الأسرى الفلسطينيون وفعل الكتابة... تجارب وأسئلة تعبر الجدار القدس العربي",
+        "player": "شاعر",
+        "content_hash": "81b705d29853c5c51897dac203e72e188aed23b7624faa5add58f08852e4a969",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 5597,
         "title": "بالجلد الأسود والشعر المبلل.. جورجينا رودريغيز في عرض \"غوتشي\" بميلانو - CNN Arabic",
