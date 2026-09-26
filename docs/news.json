@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T14:32:08.910544+00:00",
+  "updated": "2026-09-26T14:44:58.471842+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -16,6 +16,22 @@
         "summary": "ثاني أمسيات “جاز الرباط”.. سارة مول لبلاد تمتع جمهور العاصمة (فيديو) كيفاش",
         "player": "",
         "content_hash": "508ad1b479223112bc526739d315ba34ce34e3f204b13ead46acb16dff090182",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5587,
+        "title": "سويدي مطلوب للأنتربول في أكادير - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPVjZfWDhhNEQ5d05YRzBnT3FDQkJwTWlhenVtZHFwYWtyYzRXOG5RSHhzTlBBZDk4cy12QXNSWWszU3hPRkg5YXQyX3gtTll2U29fdklIcUtMZzNpUWI0T0xaZnpBc0dlSXFac0JBMGo1enNVWGdjRTNkU0hCbEtwUU9FQjJOS1M4dW1ZcURZcXpNODVhZTBPRDhIZ3Qzd2JXMkdxV2VGVlNwbm1FWUsxLW1qMmZZVXJ4NEJsNDgxeU1iWFlxeGl4d3NwWmRmOFE0dHMwQkc2M0JnUEZGNGVuTmJ5dmh3emo5UkdLZlRrVzdOSlNCNU0wcHpCUEtKSzY1NS1MbHRfeW5TYjF0bnJFc09IZWZ2aE5xZTdtZ3pTbXI4bDBPdnNGWmYwZ0I?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Sat, 26 Sep 2026 13:46:11 GMT",
+        "discovered": "2026-09-26T14:44:26.661534+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "سويدي مطلوب للأنتربول في أكادير Hespress",
+        "player": "",
+        "content_hash": "baff5cd15c6f4eca5f347f436e61f0c41d80e5544c5c8bd219fea8bfe68083bd",
         "sent": 0,
         "section": "morocco"
       },
@@ -564,22 +580,6 @@
         "section": "morocco"
       },
       {
-        "id": 5089,
-        "title": "بوريطة: المغرب بقيادة الملك يواصل جهوده لصون الحقوق الفلسطينية المشروعة - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zalg3U2lhakNBM1M4Zm1hem9pdzdOT1FrOFFFV3k5NmxaU2JBU3ZsckNCaEg1bXozRUxUUTJxMVJKeDhFd3ZiVQ?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 22:04:24 GMT",
-        "discovered": "2026-09-25T05:55:29.618013+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "بوريطة: المغرب بقيادة الملك يواصل جهوده لصون الحقوق الفلسطينية المشروعة Febrayer",
-        "player": "",
-        "content_hash": "3c18f3b916673e66e2efeb884cd09ea7a0ca7e229c90704974dc3f7afa775fa7",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 5200,
         "title": "مفتي السعودية: الحوثيون عصابة شر فاسدة العقيدة والمنهج - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxPLWNDY2VVUFk0Z3JqMGpHN2JweGJIc09tUHhkdkpkdjdFVmxIaFRlSHN2Vmt3MHg4ejBmLWRRWU1GZVNaaVlNdUcwQ0JiNmNPcmp1RG1pVHZ1Q1JUbzlBQmg5M01lUXEzek0xTnluc3RiaU41MDhwWUduU2NsYmNjNHRRNUNDNXFxOWtSdmhfTkJMUUw0SENVOEtnUWdHWEsycDZhbjh2cHhQUXBBYmFYZkk5dE1BdmFkVU5yQU9ucFBFekotcV81RUpwd3lRWERHUlBYUXdwSnRDRnctUGVKMENJSEs2cjVjSmNvTVM0RUszUEFwdHpiMW5YS3JLbzBwN3A0UjRLOGVHVHhVSnVKX0dTcHEweXZGUmstMFJPbG5sYm53Qk9DaUphN0JiZktIUTB0bHpQa1lhaXZPa3FUa1lrY0tTT1dJeG5YcE9sUllTbTdfUUVoMDBPeGc0ZFB4Zzl2Z1B4OGUtNVM4d1kwZm5LZ2l0akI1XzJZMkhSOG5fZGo1TS14VGVkeWVIR3o2ZUxNbkhRS2dlenRzcXhEVERnRTdJZEEyVjFLVEQ2TG90UnROOFVBaDl3SlE2bDFBZVNXQnZDaVJ4M3RGWVFzVXNGMkI2ZkIySzRLUC1fNWRfa1Z4d3oxTC1XWV81WWh3M2h1RlNQcGNmLVJScWVyU243QldaX2poSlpZbU42QzFzOGlBdmR5QnZ4WkY5dVE3Wmd5amQ0UDJMSHJXUW9Xd2x0QlloV1RKaENBLVptTFgyZ09CZk5GUHMxeE1OZw?oc=5",
@@ -786,9 +786,41 @@
         "content_hash": "04de4e27616305d0813271619a2dc687eb016c10f46e8ae0d422632c87a16e9e",
         "sent": 0,
         "section": "morocco"
+      },
+      {
+        "id": 5452,
+        "title": "المغرب.. \"الأصالة والمعاصرة\" يتصدر الانتخابات البرلمانية - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxNZGw4Vkg5QmxUdm0ta3BlSEdLUmVWNFVpbGdDNWVwSWxtcDYzYWNtYlllX0FWQnd3Wms0UGFJcXBJVlV2RXRjTjdLSEhtOHlQb2VySUpXMEdtcWxZNEhNWlZkaWlpUGlmRkdoa0dTS1VOcXpKd2RqMk5mdllfME9ac1hFSjIzOFU1T0VPRkoyNEZmZ01hc011OUFPbE13RTlac1RUbU56RnlwS01yYUZvNmRRX2Q5bTBRLVJiTzM4TFpHSUZaQmF6SjRzYTROMXFpdkhta0tYeEVvVm04T1ZWblVMR3RhYkpNOXVIc0VDY1JaRUtocWZrOU1sRVN0cmdPOFc2eGlSOWxxV183Q0VUdGJSSGFqZUR1bXJTb3JaaW9vTDQwZENaN3JfRlpGR2U3c2hPWmlVaWZmR2ZiSXFPRUVZRWFDbFJNZGNydVF6ZHdaZGFEV0k2U2hnRlk5b2lRT2F4X0JVZFRzV0hXNkZTWWxuNzF2RGpTRU0ybDIzeXdnY3o4Y1YxbVgxZXdZU3pPaDVad3hQRmpzT2VCSllGYWpVVkh0c3lEY0llQlpIWk1SMDFJemdvdFkxVGEtSHRLQloxakJ5Vl91WnVMcHk4NmFoOHhZVnk5WE1MT1dB0gHjA0FVX3lxTFA2ZXlOR0tocHp1WEdNV0szMW5aUkxld1UxM3FXQ1NoUHpoc0NRdWRlamt0VnoxamFBQXZuajZyeC1nb0I4V1NybS1UaXlqbm5kdF9ZbTFBODdBemtKMTVydTJsUENlZTgxSGZWcGd5UUhTU0R2bkFrNktXRjlpUWMyX2d3OTFVdDV5aU1kQ1NqTnF5Y1BKUWVLOS15NEdHVElnYWdIQ200bnJ0MnY4M1EzeW5BZ2ZkTXFRa21ublB2UWNzQWZUTjZDdFBQajRIWXByUFZON1dvMmhac3FCNExsYUEyVmN3QXBhUmZEbXM5YzNPX1cwVUZtM3FYdkpmTFR5UTNVXzBqZlhVaUhPQzlJR2dhUW5uclB6RkhrbTg5VGp3WF9WRnZHV3BlbUVkLWt3dzdIOWJUaFdiSGkyY2FaRU5ZQ3JaVDZuR2lsUFFBN3AzVFUwZ0tJbmhCWHFTb0NYWm5TZkpxT3c4aTZUTk0wNWJxR3lNYm1jT1VRdnc1cWFyMW1Uek9UVXF3N2pMRU9KblJ4Q0tnbEg0anVxZG5MYXpCUnJ6S2h6ZjlEWlNmeHMxbEI0SXFEMGxlM2RYSFdLdWhfS0N2SWNLTmswTTYzSlc4bFlSc2RhU256NG1WQnU3Yw?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 04:07:00 GMT",
+        "discovered": "2026-09-26T02:35:50.311801+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "\"الأصالة والمعاصرة\" يتصدر الانتخابات البرلمانية سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "cf220a66d80ff28bdf8f4532c831a002c4d8f00cd9ce10ef6c3299387d8023b9",
+        "sent": 0,
+        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 5588,
+        "title": "طرد لاعب المنتخب الجزائري بعد مشادة مع الجهاز الفني - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxPTlBaNHpOcXRIUFNjTlF4MmI0QnBGLVhDSjNrU1R1VWJ3em1hZnZmbnZoN2U3dks3QXVEOE5xVm15YzdpSVBoLTZkUUo4ZXJ1a0JkUkhfQVlCeDVpVUQ1RVBvVGZKeDVyRzJmQmh0amlZMnE2dUxuMGlILXZhUFNVNHVVZnBiVXduc2k1STNRRzV6RloxMkpWOUlmSFRBdnpkNjRpXzhDdjlIUlVJaFRJQkJzd2dVakI0YlpmQ0JFMVNfNjZHR3BuSXRpRzZZOWZYd2d2Z0xPQXJ3dnItcGZybmRWWGNlaTVPZ0pzMU9jRm52S1dEaVgtN0ZnUkJvQXNhQTZ3b2l2cWtmMFdIaDRyZDJ0OXJmYXpJTUREemM2bjBHeGsxN3ZVNHpXYklxNzdjX0NVWFlzUjlZTG1zY3E1NHdWbEtQVkdQcEJiWHpQa0M0UWZJdnRKRzllRC10a0Rrd1N1LVZxSkJhb0RZbmhIZnB1UTgxSmtPRC1YSjlTRU5sZ0UtUDFZMnpET3hkSkJPcFZfMDdscGp0UWpDNmVjYUhUaHB6eFpuZTVrUk9OenFrN2R5bkFTa3RGSVhiaWEzQmFHMkFDRUpLQUI5bEg4SS1Obzlna24zekNpbThNb0M5eUtGaGJSb0FmbVM4UF9qYlZXYmFGWEdhTmVueHlSRWtjbXpjcS12a01XWDJTeDBWWFkwVWdsV2hueTg?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 14:29:10 GMT",
+        "discovered": "2026-09-26T14:44:34.438994+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "طرد لاعب المنتخب الجزائري بعد مشادة مع الجهاز الفني Kooora",
+        "player": "",
+        "content_hash": "6279e22a9cff74fecec5ec31393fb24bfb7840ff6a15c8c671c974af75e7b1bc",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5584,
         "title": "بعد التعادل مع أنجولا.. 3 تحديات تواجه منتخب مصر أمام جنوب السودان - yallakora.com",
@@ -1572,22 +1604,6 @@
         "content_hash": "503c1ee70f8b173846a7de2ce84885c134f833380660ce1f3c936c6967a82787",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 5524,
-        "title": "المغرب والجزائر يبدآن تصفيات أمم أفريقيا بالفوز ومصر تتعادل - France 24",
-        "url": "https://news.google.com/rss/articles/CBMizARBVV95cUxPZ3NCNkxxc0JsUGNFa2liU2c4Z0gtWmtNclVYcnNHaW9FOUpaWGY5UzYzaGRlYTdzZmhzaldLeTNIb1hTaEJ4R3hGRnRsQXJ1ZzdtV3JFelJLSnVUMW5qem82MmhqcHBuRUFHLVlxMDIwZ3VCWDcxVWJ3LVBmbkF5XzItbUhJNDNVN0hsNl9YTlp2bW1FQ2FwVlBKR3IzckxRRUYyWHlzWVM2dnJzZzJXYjUzYVBkSWZPN01ydmhiT3VyaE1tYTJBTnBXTWZudy1uVnFCNGJpVHZGS0dhaW9JdncxVjRxS2EzREF1dUJHQlpjaldpNTF1cUJDZjh3UkI5bkFUVlM4eUt0UjJBTUcxekdQT3BHU2pzSE95WVZCOEN4Y0l3NEJFS3RfOFRtXzBaN0s5NXgwTHNSaUJuRGIycVUzV2E0TTFrcldyTERUU3lyV3NOQWllQW84TkRXNWpSb1ViRVdyMlZvSjBYUXNqMUtseFU4c3lqVDE4Z25GQ2lEMTBQMk8wX3VrcVI3YXUtR29PcEtmX0E5NzdRWV9nRDZLNXVic2tzMi1vSjlqY003Qk1HZzFtdDA2OE9IZzg2dkFubFI0dGFXSWVXb3Y1MEhQYVl6NmU0WVAxQnh4MFZhcTQ5VUZtNXBjSVkySnZVa29Bak41ZWtncXpPTkxrdVNmME9kSjhlOE5aVUtaSUU4UVFSbEc3OFlaSnhnY01CTkJIMWFzQWk3Ql9Cb2Vib3htMWVWaXhpcnA2eUFMR1ZKdE4yR00yWElGTDk?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Fri, 25 Sep 2026 22:58:00 GMT",
-        "discovered": "2026-09-26T09:45:28.603412+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "المغرب والجزائر يبدآن تصفيات أمم أفريقيا بالفوز ومصر تتعادل France 24",
-        "player": "",
-        "content_hash": "5606c56dc65fddaa78f616d7b5c07ac44d4d1f29919e7b99bd2a17d61eff16ad",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2102,22 +2118,6 @@
         "summary": "مقتل جنديَيْن إسرائيليَيْن في غزة بانفجار عرضي لمسيّرة الشرق الأوسط",
         "player": "",
         "content_hash": "5e7fb8de24131bbb8289aef1d9b11ba15dd0d405c53e04603dfff3258e41dc40",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 5088,
-        "title": "وزراء خارجية دول «اتفاقية مكة» يستعرضون ترتيبات اجتماع عاجل لرؤساء الأركان - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMimAVBVV95cUxPUEFBLXdfR0hvckViUFQ4Y0xsU2dKZlFxZUdEUUdIc1RvSUtiYldINXA2THpWa29ESkpLVWlhLWNxLUtYb1QtaFFhOWlSOWF2cGNHdTVaOWNvTGtIUUdhcnA4TkpLSVkyX1A3Tld6ZHNHcUxmcmUtSXRjd1lMVjVBbHB0MnFZUnVrM2d0THpxdFg4WXYwZmdVcWdYT1JGWDhxUXpzQWt3UFVPbV9pX29leUROSDdVSm5sUU1oTFZwWFJrenl3TU5LTVFTbXJjU3g3bFd5QlJEVFFRbUdzYXZnclZHMWZwN19ZcmNmc3N5dnFxOURfc0ZUa3EyNTFMR2FwanM0Y1g1aE02cHVtek9BZEVtbkJEb2NLeXk1QkVYMkYyYmVnbE9sSzk4VHRKSG8wUThEel9HOWgtdWNZdGQ3WFNjYkl1a2V3NndEaTdRR2dXVVk0VHlHbXY5bnllZHJtVS1tMGg5R3JuSXhGYUw3N0VjUXpBNUxzd1NoXzYzODVjMm02cng4WWpBQmNCOVVpaGhaOVJBemVTdTEtbFk2Y3JpSmxrSGdjNVBjbU9xVDdVcG9iZTQzRGtqcVRkcVZQb0NQbm1IdzdCVEJ6ZGNfR0NLV0hnSzRFcGlxLVEtb1VJQU8tc0d3VTJSTkpzOGVMWUVPRWNoRDBIUjRkRFNSaDBxTlhOb0JMdnBOeTJodUJyenBHNk93Tk0tYV80R3BNckEtQ1lCcGx2a2FKUXd4QVBTNlFZYms1dFQ1Umxqelh5SklyNGhmV2dVUlg2emtjZ09UcnpqVE9zcVhRS185aVM0THFMUTU4R240TlJQY3RQbVI0b0I4WFE4eDJHcjFieHU2Tk8wdFRvbkRVMXUxaXRZSzhMUV9C?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Fri, 25 Sep 2026 00:25:42 GMT",
-        "discovered": "2026-09-25T05:15:53.816273+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "وزراء خارجية دول «اتفاقية مكة» يستعرضون ترتيبات اجتماع عاجل لرؤساء الأركان الشرق الأوسط",
-        "player": "",
-        "content_hash": "ce0644736ff71f0ebfba25fa1d8e0c2c6e0ae1b5f2e4fbcdf40dd930ea166b1f",
         "sent": 0,
         "section": "middle_east"
       },
