@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T21:44:39.535134+00:00",
+  "updated": "2026-09-26T21:53:22.079619+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -642,9 +642,57 @@
         "content_hash": "266ebc8afa2347ef1462ba717aab93f2506c4afd93b028a53ae9e0e0b0580c1d",
         "sent": 0,
         "section": "morocco"
+      },
+      {
+        "id": 5298,
+        "title": "لخصم يكتسح الانتخابات في صفرو - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNc0tCcnRZRDA1N05NR1dQaGwwcmdWZTByNG5KaE9TOGZVTzhjelpFQTFhSkFpSlpkdXNZd3ZyUHlIUkQ5Zjh2bVlwaVQ1dGt5dTFEaWRhWDdtQ3RoRjhhOTgwekJKbmhtQVktZHUyaHJKejZnalFKaDA5TEYtSXpZcFZGdG5VSEFvVjZmZFhCalp0azNWdUo3ZXNmUW1vS21oeGFQOUdCRXJ5WWNwX256THU2VTdub1Q1cDJ4V0FkY3JLazcxQ0Z3MTRwREdXSFNTTG4tSVNYTEJfbEIyX3NrTzFYM0dxb0NhUlhTbS1qX01PblRMM3BoZnpUMHZnV1BYc3ZtdGdKNVd2WGQ5OEJiakVjODc1OVkzYWVPMw?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 23:40:41 GMT",
+        "discovered": "2026-09-25T18:59:58.008168+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "dc6ea4f8bd1438d2001fb81fbd7e129f441e1bee49130b6365a24eb2bce39413",
+        "sent": 0,
+        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 5773,
+        "title": "دي لا فوينتي: هذه هي إنجلترا.. ولن نتوقف عن الفوز - kooora.com",
+        "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxOUW10MXhqeGgtWGhlOTBCSGo1MWFQeExHOE9KM3c3cDRhQmUxTFl5dHU5RWZuM0cwRFFGczhqWFZ2d1NuWlpabGZwTHh6cURCSXFkTmlrbFhSbUxRVHFmQ2VwM0ZBM0VHUXRKRkVtYmtFbVlRaHh5XzJIU1JjeFNyaHhpc3QzRXBUVFB3WHhLVkhUQTdKb0c4bmdBc3kweW1NTl9fZGhCa3Axcnhsdl9FeWl4TjhXX3NkSWNpVHFRUkFfdlVGRHVZOEtFcmpCUzQ4ZXlid3NVZXE4UTJ0RVByWWlPS1g4VndYM195dExZY1BWSUo2NFFyLWlaMzB3eU9PWTBraGxSQjFkdUZLLTV1WXdRdXo1QkFoY0k1ZXp3UDBWcTZiQVZySzVueG4xclM2aEpLYlI5V3ZZY0pvc1N5MzUzMlZiNHJPbmJEaGQ3dzhFS2hQaFF3YVdCdW5fc19BeTBVenBLaUJtekFtSmxuMmJrMm03VVFKa2w2S29MT3FDSVY2T3QxaE5GNXNKOVVHZlVHWGU4VUhfOTRhcUh0aENKN0Fnc3JNczJaU1NaM3Jsa0Y5TEU2MjRmRzEwNnpCNmU4dmlObmxnbG1wM2VMY2dfcHVZVjYyRVVvSDVGbERwTEtONXczN0VBLW1ycDg?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 21:45:22 GMT",
+        "discovered": "2026-09-26T21:53:01.426538+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "دي لا فوينتي: هذه هي إنجلترا.. ولن نتوقف عن الفوز kooora.com",
+        "player": "",
+        "content_hash": "c05fb6b9e0dc4dddd278adcdbe345c169f4d3590554bf5974560e5f2443332d1",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5774,
+        "title": "يامال عن هدفه في إنجلترا: أحيانًا أسرق الكرة - kooora.com",
+        "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNZDh2cHhWb0Z6U0pYN2x0REo5UnRIU3ZsSlZlQWZES0hyQmhFb3BvVXB2dU9TVzV6YTQxdVNSS3h5ZWhGODlrVS0xVGRsT3o4MHlSOEtnZW5KNy1UMzhvYXgtVDZRT2lKVzFrYzRPcDlONmdoMVB3YUJiVVpRcDFadzA2ZXFDNnlqaW9LU2U3QlExdXVsd0hoLUNTelNnZDgwemFndDJlNjVNN0pxY1hQd21sMTYtQjVTYWlEUndYNXNSRVVSXzc2eW5vcEhxRXZGSVo0WGNRY0g0MHRGYndLdUItNEpuY096aHk5cUxIQXJYdjlOMU9mVHpYVWlSdVhHMUJGSFpZYTJzS3lFZE5CV2kwQnlnaGJ2bUpfdEFuUXoya2hFMmVWMzBQa2w4Y2pDd3RHQUc4amVqNlluMGY3NjJubUN0VlZjQm1QTS1EMllGTWVMcG13LU9Db01uek0yM21tU3J5NTd4RkUwdFIxaEYyZVJxZTkzbDhDYndjaHVMSlhLTHdOS0JBN0Rfd0VWTHBnZHl3b2pQSEw2OHZzUWItNTg0eTlEcmZkSzdVSmEtNjZYSV9kUjNTMXd3SG5VdkozbFk2N1BqUVY2TjVkYU9USkNwd2RPcEo5Q1Z4bUpqcDhCNnJMeUppb1ZLZlpwRXZF?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 21:45:20 GMT",
+        "discovered": "2026-09-26T21:53:01.430119+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "يامال عن هدفه في إنجلترا: أحيانًا أسرق الكرة kooora.com",
+        "player": "",
+        "content_hash": "7a2d70b81c8045dfe955bee9fa457ffb39e3c89a561ed5b220bb8f33dcd79900",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5762,
         "title": "مباراة أيرلندا وإسرائيل: قرار الساعات الأخيرة جاء لصالح إقامة اللقاء - bbc.com",
@@ -1412,38 +1460,6 @@
         "content_hash": "a5579b007ffb8192b79e2aff188359c1e0b144df3fd0a5408aeef988068da515",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 5720,
-        "title": "«خليجي 27»: العراق يقهر أزرق الكويت بثلاثية في مباراة مجنونة - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiywRBVV95cUxQajFITG1NUU9EbTVYR3N6bnh0blphbWZRb2htT3hsek02dVRHYmhlRTFpQmZ6bV83YTgwZi14WWtVQnE3Vm5PSnVLeGZlcU0xdmIwT25SS01KSEN6TXkyUTJ0RE9MY1ZFOTdOMHBhSnpUZXVoS1lCSDYzUHJDSGlGUkZTMEVHdU9oNVAxcWdFdjFVaVZ4Y3ctN3ZCbjdIYjRLZi0zb2pLWWhTNHJIUlpRMEhNUU9NWGQ0azdUM003cVpGaEUyN2hPV0dqeHQ1ajlYcTBMTXZ3R09fVkxzUjYyR2lhbVZIUm5MeDZYanBBRlljSVJfSDdwdU51RjdUX0lZb0ZvNUUwcHJvS1ZmNGhGbDJoQXExSFd5WFE0clFzUjhTNDJKUGxxbVY1Q2I0ZUk0Vl8wRG04N0tYODUyLWs4M3Fvcks3ZEFwSEpJQThUWWcyN0hQSDRTMjlFbFdwQ0dScnoxaGJXQkx2ZE1uYkg3VE1lQzJsd1VMOGNZSjNVcmlrWUZWbXBROTJabl9hcGFobEt4NXdOZlo4YXhucUNCQlpuOUF0ckxwRGExWDdqejFtQ0RUaFFyVHdOS0JtUWxxemxVLW1RRnhzMUpEUERTMVd1ZzNTMEllOW1yWmxrWDhURHo1NFYyUk8yUDBkTEM1WWlxcHVuMzJYdGhVMU9ZcXFUUzA5Q2MzczJLZE1LU2t1RFN0NHZqbEYyU3dzeUVqZU5ZOHZNR3VKU0FyWlBTaXF5LVBsYnhEVG9TTDltU0lMN3pPVWNVdmg4UQ?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 18:23:41 GMT",
-        "discovered": "2026-09-26T20:05:42.456790+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "«خليجي 27»: العراق يقهر أزرق الكويت بثلاثية في مباراة مجنونة الشرق الأوسط",
-        "player": "",
-        "content_hash": "c547afa000e52175ff39bd3d52fd635b185fbb62c368aac0e1feb036141f0565",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5656,
-        "title": "غير قابل للطعن.. تأييد سجن لاعب إسباني 4 سنوات بتهمة الاعتداء الجنسي - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxObEM5R3pzczBETlpRUHpTOXNqUmFwZlJmX1hFWnk2clFPUXZKUmZ3Q1ZJM1cySmMwTExNQlJ2MXdkamFmSzJNdThKaDZMWTlOazFsUy1IVlg5RlE4WmRwb0RwbTZ6bXg3b2w3TWpjU0lzQVhHeEZMdFA0VFNNTVA2al84TjV4dlZpZEx5LXJHVWU5OHRYejM5bFhTdGRxeS1WTmpGU1RyakhKR2FCSThycjBEcE9Dd2pSUVNXSS1kbUV3LTNSbTFsTGE3TS1zY3B2MjExZjl4RGE2X1JUWGI3aFliYW10bUF3UWExUWt4cVlhMXBDZlpxUDRkdDQyckxIYi03ck5kSWRnams1Z0FYd1FFMFBXRklBQVJEbFNpV2dSekNsbmt3cnB3dWhXaW1UMEpoTkk4YUItOGU4eFRNMGMwbVA1VjdmRWVOZXBUbUxMYWxzQTVZb0hNMWViUGNYZU8wbEFVbVNtT0ZSNDNmRmtSMlV3UHFPMDdCOHYwREFoTmpOS0p0SjlDWC1BVzlGdm9pTWhLeGFhcklyQnZmZXRqc0RzcmwzeXVuOEtzalhGaG5EMWNvT0JWekVIdDlrSHJXWWJtaGpJeURZT01NT1RrMW1Renh0RmJ5eTBVRkRuWU9Zd1BZZ3VncF9HaUNhNzdfQkhtWkN6aURXMTBGb1lOMFhhSmJfa3llb2ZZQTFvM0ZyTWlidUcwNGNfbXlKaEd2THI2OTZxMWVRUDJVVm54UjV5OGRmWlU3bFVNczBtSm1RV05UUTRMV2FDN0wxMmtCLXFVQlBTeWtZV3VuUmZnTVZXaHZPV203d19RVVhYQzVjTklvZzVmYUo5cktwLVUw?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 18:08:30 GMT",
-        "discovered": "2026-09-26T18:20:31.880572+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "غير قابل للطعن.. تأييد سجن لاعب إسباني 4 سنوات بتهمة الاعتداء الجنسي Kooora",
-        "player": "",
-        "content_hash": "81981e3a53713292f859c63f960fa2968508764ba045e8428ce0c375f6647349",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1812,22 +1828,6 @@
         "summary": "بوريطة: المغرب غادي يبقى خدام باش يوصل لحل كيضمن الحقوق التاريخية والمشروعة ديال الشعب الفلسطيني كود",
         "player": "",
         "content_hash": "562d13bccb42043564a5f05cfe67411ef09c0babd16d04d3223ca9a8da91bcec",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 5273,
-        "title": "أمن طنجة يوقف أربعة متورطين في قضية ضبط حقيبة تضم أوراقا انتخابية - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Vb2VuQ1c4R280dW9FemZtVy1KelVmeDlFNDZXZzYyeTRWblZDTlNrMEFrS0dmd096UG9TQUtpNzN0LWhiRE1LMnlmaDdzeG1tX0JTX0tnZktnV001QmdqZDR5ODFXdw?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Fri, 25 Sep 2026 16:05:20 GMT",
-        "discovered": "2026-09-25T17:59:42.642301+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "أمن طنجة يوقف أربعة متورطين في قضية ضبط حقيبة تضم أوراقا انتخابية Le 360 Arabe",
-        "player": "",
-        "content_hash": "4df82d61aa809e1f87ee95f2643876e4d54559d4d9d793dcfd28b76a906fbc7b",
         "sent": 0,
         "section": "transfers"
       },
