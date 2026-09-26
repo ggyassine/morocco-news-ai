@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26T02:35:58.832852+00:00",
-  "total": 140,
+  "updated": "2026-09-26T02:47:40.437341+00:00",
+  "total": 142,
   "sections": {
     "morocco": [
       {
@@ -48,6 +48,22 @@
         "summary": "المغرب… وقفات بعدة مدن دعما لـ”الصمود الفلسطيني” ورفضا للتطبيع القدس العربي",
         "player": "",
         "content_hash": "b631c715910ff1b0422ae325d3b5bdf5bc7cc4a72dce238efbdb6a11b3be32b9",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5453,
+        "title": "إطلاق الرصاص بوجدة لمواجهة شخص خطير أصاب شرطيا بالسلاح الأبيض - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tVWxHenVSWlJpS0pnTjR2cHVaTk5sd20zR1Z2X2pvZkVMMzQybDJhSmVzc1BwaURZaXhyMDFQaHg3cXZIMjNxQldmSnlGd3hkZXpab1FSUzByd0Jiak9MR080UWk5QQ?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Fri, 25 Sep 2026 20:36:15 GMT",
+        "discovered": "2026-09-26T02:47:12.253769+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "إطلاق الرصاص بوجدة لمواجهة شخص خطير أصاب شرطيا بالسلاح الأبيض Le 360 Arabe",
+        "player": "",
+        "content_hash": "a4338e90b114f0497be1fdb8a7b49d14bbabd8f2ca6a36936bb55ee6878ff456",
         "sent": 0,
         "section": "morocco"
       },
@@ -784,22 +800,6 @@
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
         "player": "",
         "content_hash": "4b9da489badd8fd79a7bc6773ab9b972d5b0ac3244cc2400c017c656c8835555",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 5061,
-        "title": "إسبانيا ترفض فكرة السيادة المشتركة مع المغرب على سبتة ومليلية - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQUl9oYmhCcmkxUGNfMzd2cjdBam5SNzRwWWpsQTRENDhjX0xRN0FkbVFhbnl4UXB4U250UWN2TjhUbENORnJ0UW8yenNtYXJaUnItdnNiblJaN1d2eE5zb3dtY2RlNmYtUnc4WlZRYkd1clpYczZHTE5GcTF4bzR0UGgxZnZ1RlZPWkdkQUdwUFJfWHRVQm4zaXlwamRnNG9tb2VycjVHYjRwR2dpQ0ZlM0xmZGlaUVlFUE81alVKdUo5bGlaMWRuTF9SNVpPOGhVVUFMVS1HS2trcmZNN0lNUzkyYWdDOTRwZmZhVDJCNXdmZUx2VElhNk9PZlB5N2pQZW9kN1dlUmVJSGNhZWZQaU9lUmtpVjlfTzVMWnhzbGxsWU5vQnRQamFQNGF6LUJCS0RTc0UwTk14ZHQwVjNpNUU2M0JNNGZvMWVxM0dmR0UtMWlZSGc?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 18:02:34 GMT",
-        "discovered": "2026-09-25T02:07:39.801080+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "إسبانيا ترفض فكرة السيادة المشتركة مع المغرب على سبتة ومليلية Hespress",
-        "player": "",
-        "content_hash": "72de763b9f0a162c344fc4725c769f730a08e31766327df4e80f6a86fee0833b",
         "sent": 0,
         "section": "morocco"
       }
@@ -2124,6 +2124,22 @@
     ],
     "world_arabic": [
       {
+        "id": 5455,
+        "title": "التحالف بقيادة السعودية يعلن اعتراض طائرات مسيرة أطلقها الحوثيون باتجاه الرياض - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPd3RzTzJORkFZUXlCeFJ6Skh3QUl4OGY3RnRNaG5ubF9HX1VDbElQWWQ5eVdNV2JpeGFub0hnZmZxRDZsRjBjZ1lzdnEzMmcwQVhsa2ZkclFHU1NOVEJOcExPa1l2MGpRUDlJY2pjbGhBNENscEVtTjYxdjA5SENGZlQ0WGV4M25icEd5VzlXMW5BbXFsQ0x5bFBvZjFISFVTXzRZQWNycnRUb0drbXJmRWotWVZrcW1rOGVaV25pUjV0UGFrRF94a2lJY2J1cDU5Q0ttNnZWeTdLLS1mdGZoeFhXaTZ3Z2lYb0VUbjJJSTVsekxuejVhcnhFbHNidF83ZFZDekt5VWozSHBHMFhUcE04Y01fZG9HSERPYmhxTXhncl9Yc1FkSVVPcmZ1eWxTUklZeHhtTWowVjBTQzNzU080bmtqdmtP?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 02:46:21 GMT",
+        "discovered": "2026-09-26T02:47:35.377248+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "التحالف بقيادة السعودية يعلن اعتراض طائرات مسيرة أطلقها الحوثيون باتجاه الرياض القدس العربي",
+        "player": "رياض",
+        "content_hash": "2bb44b67471b06e4866b7e537fe48e006cc98340d3dbbe64eeb58e28165d8a64",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
         "id": 5449,
         "title": "اليوم الرابع للجمعية العامة: إيران تعرض جدولاً زمنياً لفتح هرمز وواشنطن تتحدث عن مناقشات \"بناءة\" - BBC",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rQXUzdmNLZk5BSUJ3OWUzYjVVRU5tdnNjNnhCSGJMWEtBNXdFeFBTc25KRVU2QktIWXlPcjZYVVdSbzh0TFdCM0tMWjlhbC1zakpGN3pYWHQzM2MxS1HSAWNBVV95cUxQbXhUUno4R1ZKbEpYRmtJaUpKeGdSeGVFU2FNb2RQNVU0dFNwWktwZC12NFI1SVFLRE03eTRJaUV2MWNWRnFRTFdkR0lwcjk0Q2h2dS1YYklRMEZ3U2pSbXF0cmM?oc=5",
@@ -2232,6 +2248,22 @@
         "summary": "ما حقيقة تجاهل ترامب لرئيس الحكومة اللبنانية سلام وعدم مصافحته في القمة متعددة الأطراف؟ ـ (فيديو) القدس العربي",
         "player": "",
         "content_hash": "33868013e7f4a452620a678f5ef07846d96a325236f317fc57198cf5fcf17d59",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 5456,
+        "title": "نتنياهو يخاطب الأمم المتحدة أمام مقاعد خالية… ووفود تنسحب احتجاجا - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxORVRzTmR3elVITV9nb2pjNnFNdTV6c3FtLXNVYnp1c3BONVFiTGkzSXNPSDNrNktCajVybHFaQXhLM1RLM0ZURGxhSXFtNlRjMG53VlZES25hLXVfcTEzNndmWlNCOHZxSGVsMndrc3M1M2llYTlINjRVWTBKSlpLVGtOdGtUWmFSQTg4SVdLMnBLOVV1eGY0N3J3T19XRVpaOUZSUThsRjhTM2N1RVFMajZ1eExvNGN0UEtQZ0lFNWY5b0p3Q09GYkFIUnVaSmNtWEJkT3RKeUlfOXJBVzY5TWhYRXZ5VkdFZW1rUk5KNU1TeThfUlRtcFVyZHE4LXhWa0pHYmcyb3JmOUJTcW1icEt6QTVKUFptOHFleXZjdDdjYVBlTjJHTjB6VF9aMHhpeDhqOTRZWlRXbjJhNWt3STdia0NqQQ?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 07:00:00 GMT",
+        "discovered": "2026-09-26T02:47:35.382250+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "نتنياهو يخاطب الأمم المتحدة أمام مقاعد خالية… ووفود تنسحب احتجاجا القدس العربي",
+        "player": "",
+        "content_hash": "9785a557514e4314c2c8a7f4a9f5d5a13c7b03bedcd19ae04913afaa52a5dd3c",
         "sent": 0,
         "section": "world_arabic"
       },
