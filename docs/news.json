@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26T04:46:06.147007+00:00",
-  "total": 147,
+  "updated": "2026-09-26T04:56:01.536523+00:00",
+  "total": 148,
   "sections": {
     "morocco": [
       {
@@ -404,6 +404,22 @@
         "section": "morocco"
       },
       {
+        "id": 5477,
+        "title": "منهم لطيفة رأفت ورشيد الوالي… فنانون مغاربة يوثقون مشاركتهم في الانتخابات – اليوم 24 - اليوم 24",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ucjhycWYtbXhZVlFTOENpRWhlNVFIZ0ZjaVg0Vml6dTI0QmsxbEgyMTY0UmlDQW0tSkt1RWJGTzZmb0pJZ2RfRnZn?oc=5",
+        "source": "اليوم24",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 01:01:36 GMT",
+        "discovered": "2026-09-26T04:55:37.559081+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "منهم لطيفة رأفت ورشيد الوالي… فنانون مغاربة يوثقون مشاركتهم في الانتخابات – اليوم 24 اليوم 24",
+        "player": "",
+        "content_hash": "988c31dac87be79f1838bb178e3f23a27cc267b7cabbb6bbc24f7b35c24ec448",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
         "id": 5102,
         "title": "المغرب.. انتخابات تعيد توزيع موازين القوى الحزبية - سكاي نيوز عربية",
         "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOaGxNblNmemVzdERLSDRMdFRldU1icVFEZ2pvdHNqamR3Ukc2QVNhbjJJVy14LWVjRkVpQy0weV9iS0JvU1dWMDNBTXR1Q3I4U1BsWlpRODVuY3l2TldRQ1JnakVFdk1pU2lFTFc0Mm51UnB6eXI0cV94ZlgwZXZHTUF2Z3pISnVCallIbUxDTUZUNkI4NnR4VkhyRmJKaG1ZNzZIQjBxMkVrT3NNX2c1VnlvNDdOakN6TlVxQjVTMkZSMklLTDQ3bGpaS3F3V2hGeTNlR29rcGNTQURkU2x3N0xVR1BrOFdDNDhMSUxRRDBiUWk4d0d6clUtOUpvdkxWUldCNmszSFNaSlpmLS1wUG1Db0hQMzR2QTBJYjNUaVdFbTl0YnFWTEhZSUo3YkxuSTU1MFhJd1N5My15TGFNdGR5d21KZldtZG5mMWZfTlZmbnJlVy15Y3R3WUp1QS1XSlRqNnN0NWlYeXJ0eGRXazFLM2JMclhhLVNISndLMGdlVGR3RV9kU21kRk5wQzNRZ0xDXzF5djNRRGFGXzM2ZlktRGxlV3JuWE9zVGp5UUZvUkhSM3c?oc=5",
@@ -786,22 +802,6 @@
         "content_hash": "38e58330a2205247b2fa0a6ee290c514dd6f1d7ccc74961f9224fd13564cbc76",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 5298,
-        "title": "لخصم يكتسح الانتخابات في صفرو - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNc0tCcnRZRDA1N05NR1dQaGwwcmdWZTByNG5KaE9TOGZVTzhjelpFQTFhSkFpSlpkdXNZd3ZyUHlIUkQ5Zjh2bVlwaVQ1dGt5dTFEaWRhWDdtQ3RoRjhhOTgwekJKbmhtQVktZHUyaHJKejZnalFKaDA5TEYtSXpZcFZGdG5VSEFvVjZmZFhCalp0azNWdUo3ZXNmUW1vS21oeGFQOUdCRXJ5WWNwX256THU2VTdub1Q1cDJ4V0FkY3JLazcxQ0Z3MTRwREdXSFNTTG4tSVNYTEJfbEIyX3NrTzFYM0dxb0NhUlhTbS1qX01PblRMM3BoZnpUMHZnV1BYc3ZtdGdKNVd2WGQ5OEJiakVjODc1OVkzYWVPMw?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 23:40:41 GMT",
-        "discovered": "2026-09-25T18:59:58.008168+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "dc6ea4f8bd1438d2001fb81fbd7e129f441e1bee49130b6365a24eb2bce39413",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -1074,6 +1074,22 @@
         "summary": "تدعيم لـ صلاح.. رومانو: طرابزون يتفق مع بواتنج لتعيينه كمساعد للمدرب FilGoal",
         "player": "",
         "content_hash": "77ea81e8a6cb350936f47a6067a618da0010423bf04b4eef1d7696df08786c18",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5478,
+        "title": "المحمدي: هذه هي الفرصة الأخيرة لـ مرموش في الدوري الإنجليزي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xOXkxYWV6TzJYMUo0alRkNDVIOTlDZHFKT0s3c1FGd1BmSFg3eGlBa1JfSzQzWlZ5SG9leEp2M0hGV2JjajliMEsyTWwzZ0Nf0gHrA0FVX3lxTE0xS2puR1I0TDFOUDZ1blR3NGZUaXdmLVB3NTB0c1JxSFJzcDZsZUJ4bE4tMGVCRFhfVUJ1Vm5qWFJYR2RHWlRZdG9lNW9tRDhpa0o0OGNtaFpkQ1RkRkxmWTFTVVduS0JTQkIyY3daRGFYbUVfdEVVU1FrMEpOX01YVzZTRmJYUGVoMTBaeG9wSXBOWjVfaXdMZW5YWXRxWWF0ZXU5WVFLY1lETXdkOXByeHZfbTgtU2Y5S3haazhvaVNFNnl1c3FaYkZSTHZLbWJqSHp5VkRKN2hFclpKYVJhdF9SbDFrUkxucTFRaXFVNGxLbWs4N3ZZbW5Jc01xeVNUakVxTEhuSHdCWXJubW83Rkw1M3pXcnhEZ2l3OWktbnhRaDN4bzNHOHY2OTNqNXlJZnhvN2M0YUF3R3VSX0dQSFlkclRyMG1HQy1KTUhJYkhTQnF3OHh4TnFaWDNMNnFTbGNFc0dXOU9hdU02MzF6a2hGb3daZjB2X0RKQklWZnVYVTE0UGtZZFJLV3p6T1dfSXFhcjNROVFrdmI3LUhXNWtVcDB1Z3Rock1NLVBsaUlldm5tSUFVY3RwaTFFU0UtU3NYUVd3NS1sM2l1WGxLNGYzTkZuXzBoeXZmRHdGaVBOMlozTDlzTGtn?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 21:25:00 GMT",
+        "discovered": "2026-09-26T04:55:47.950645+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "المحمدي: هذه هي الفرصة الأخيرة لـ مرموش في الدوري الإنجليزي FilGoal",
+        "player": "المحمدي",
+        "content_hash": "e995bfdd2b3adf283535d0ce947436365bbeeb44537441336fa676ddb1c89047",
         "sent": 0,
         "section": "sports"
       },
@@ -1588,22 +1604,6 @@
         "content_hash": "e56bcc4e222d2fa3cd6a137d490071ee26b435b4acb1554aaa78d547a5846f62",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 5421,
-        "title": "آل حجي لاعب «الأخضر»: نتقبل النقد... ونحتاج إلى الدعم - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPVmlzN3J6cngtV1pPY3AxTDhNU2I0blAzZHZXbDZINFJpT3hDTndpcEI2UEZDbE1Ob0VGREpOV2wzTWFLaGJFQVJuMmN6OEw1UmZLVDkzNkgtTTFuWldESDhpUTh4X2ZKNFhrNXpBSmlWQjNaelBvS1gyWDBORzlrc1dkUEhCT3o1OFZwZm9RdFo4UnRXT2dSeGZxZEVSRGlqRkhpSFhodElJbFpua2VqbHBJUnpreG1WdFBWNTBmcWNIV2kwUXRmQVhDZm83MVF4M2h3MHNkcDZzbU1Pcnl3NUxMUGk3eGM0d1locnM5d0J3aldBTEhIUXR5dGk3clhYMnZndDg4RGtQS0hLVkQ5dWNsLS1yT2hoWGRoOGo2QkhpX0xiNzNDVG5tTTkxRk9RWW1tS2VzR3ZPV2R6YmZRZ3Z6RHllaThTOHo3MGhRWm1SQVpqX0R6TXpaRng5VEM5WkJWdmFuSGU3T1RHbElLTTkyUjVyVlk0aXBTN1FpNjJlU2FPaXVHdWFaVG5FSmhwcjJzbkJWLTAtMzQta19QTXBPZzczcE1NWlBRVl8xZmNuNXlFazFnTDdHNmV6NTRqZTZpLVQwMlVmVVZQeUl5LURtN0JLNVZmWDVzejEwX0g3MXdTWURKRHBKaG1WMUgwajFJOF9pc3Jva0NfUTdsc0hwRG43cURhLUlOb2pnS1Z5VWlnNUlB?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 18:59:13 GMT",
-        "discovered": "2026-09-26T01:06:03.429400+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "آل حجي لاعب «الأخضر»: نتقبل النقد... ونحتاج إلى الدعم الشرق الأوسط",
-        "player": "",
-        "content_hash": "877ed38c0885b6b81e9e1bd9aefecc9e54e9a15169db1ccd0dac040a07169b67",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2054,6 +2054,22 @@
         "summary": "رؤساء أركان دول «اتفاقية مكة» يستعرضون الوضع الأمني والتهديدات الشرق الأوسط",
         "player": "",
         "content_hash": "2384eccaec04aefa26d2e86eb2e80d43bce8d4fe48fd928f4ac38f22fafe48d3",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 5479,
+        "title": "مقتل جنديَيْن إسرائيليَيْن في غزة بانفجار عرضي لمسيّرة - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMihwVBVV95cUxPRGsyaVNUWUR2WjJ3c0x6Z0RNREFIajZnS2cxVG85WGpvNzN3N3l5b2ZiYlU1X1Jwa0NyYjZMUFo0UW9kcDFpSnVSanJsbTBncFc2YU1McjQ1b2ltMjA3VUxJZDczcl9SQ0puVmhlQ0R5WHZYdUpCLUtjdWNXRFpZdmtZeXpuYmtwR3ZkLWxXN09PQmg2VXJoWV9xaVAyNy15QmVzX2RIVU9ySXMwTUtNU2xBd09GemIwQXZySkxPMVZDWDBYNEhoXy1JRndMc055aGFqV2wzN1U3Z01hdHliS0tKUExVX0ZoMm9BTEZHXzM5blJqRVBjNWR1ZWVYaWpvWnZWM1hSNFc4Sko3Y2ZkaFRmeVNsYUxyb1duNkhRTndGaGlyekZ1NWpkdkhadjFRZTZmcnM1N2Y3cWl6NWVMaGkwVGw1aWdtVV8xTDZQMGJ2WE1TczQzNVJnTFgtQkgtV2JmdUthRk5sT2RILWZYSmtjbmtYOHdTQWpGOG4tazN1WnJaVTFlV250eks5U3VlS25TaDNzY01LWDN0VjdGN29yU05MVUlpcmszRDdVbUxNRDdjeFd4Ujc4VGVzYVFJNVlCSWNLYmZ2d1NVTVpJMnM4emlzVDd3RjNSLWU2NGFTdVVHZVlWaFlIM2lkM1F5bmJ3NzNYcE8wcXZMaG1UeFV6dUJOem5CT2plWmhEOURjUFRneWRONnJmT2U2MUF5X2Z3NWJ3WWRmdl8xT1hDZVdaMnZocU03dV9FLWk4cFdiWk0xZHplQlk1WVpwMzFVdEhZSFJCU0hEOXJPZ2N2RU5FNk1jUXZoNjJnR2Q4ZEd3dWRiZWlhUmVaSDBFZ0lpQ2JlM3NCMA?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Fri, 25 Sep 2026 07:42:23 GMT",
+        "discovered": "2026-09-26T04:55:56.144982+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "مقتل جنديَيْن إسرائيليَيْن في غزة بانفجار عرضي لمسيّرة الشرق الأوسط",
+        "player": "",
+        "content_hash": "5e7fb8de24131bbb8289aef1d9b11ba15dd0d405c53e04603dfff3258e41dc40",
         "sent": 0,
         "section": "middle_east"
       },
