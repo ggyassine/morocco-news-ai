@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T22:32:39.327858+00:00",
+  "updated": "2026-09-26T22:45:15.621815+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -626,25 +626,25 @@
         "content_hash": "cf220a66d80ff28bdf8f4532c831a002c4d8f00cd9ce10ef6c3299387d8023b9",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 5443,
-        "title": "النتائج الأولية ديال الانتخابات التشريعية فكازا.. البيجيدي متصدر فالفداء وعين الشق والحي الحسني والنواصر.. الاتحاد الدستوري ربح 4 دالمقاعد ومنيب حسماتها فأنفا.. والفرز باقي مسالاش - كود: جريدة إلكترونية مغربية شاملة. - كود",
-        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQajBNMXVYR0hRZDF3SjVmbDJxamNVZEI5dWlJWEZBeXhlSXVpNi03SEJJQ0NWZU80d3liVU43dGJNN0toQzMwUnYyMzdwNkNhaG1BMk55RzQzWkVjNElIZWVTaUtEdU9pWjJnR1dJd0U2dG5pdlY3MjZ3UFlWWjZwampnWGQ3U0ctZnkwVC1rdW8tdkg3X2txOVllN2Zra2VHQ08xdEVDeTQxMElZdVJWWk1VV1BMWllTTXVneGxIOEtYX1R6OUJ0WEtSTFZYNUkwbHRxMXdJZmFkRkVZV1pOUi1NeGpnTTM2d2xSMkVsLXg4MHhRNVBELXBqdElad21oSThxeG5sX3dMcXE0Y01GZXBEc2lPaVdtbS15R09aRktQYlhtTlFkTlh2MWp1bG9QY0VZcUItTHhzZ2ZOVjB3YzhHMElHcEtP?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 01:34:54 GMT",
-        "discovered": "2026-09-26T01:45:06.395709+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "النتائج الأولية ديال الانتخابات التشريعية فكازا.. البيجيدي متصدر فالفداء وعين الشق والحي الحسني والنواصر.. الاتحاد الدستوري ربح 4 دالمقاعد ومنيب حسماتها فأنفا.. والفرز باقي مسالاش - كود: جريدة إلكترونية مغربية شاملة.",
-        "player": "",
-        "content_hash": "38e58330a2205247b2fa0a6ee290c514dd6f1d7ccc74961f9224fd13564cbc76",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 5788,
+        "title": "اللاعب السعودي أحرز البرونزية في دورة ألعاب ناغويا - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxPWGl5endXb2tlN2VNQ2dlTFpBWXotOVJ3YVh2TmU0dzMxYS1TMHdURGk0MGpSdTkwR3BFWUkxLWxwWnN3aWs3Y1MtR0I4WVBmMU0tUzRoT29pT0xGSUxyUVB1d3hRQXE4YmNxSUVIUUFRM1pwdzZNWEh2U0xhT1c3elJQV3JLZGRvY2NvU016V3FUOFBRVEN2TTJWdmQ1ckNlU0R5dmFXZndjZTI0UHZQUm1mNDZaTXVVS2hRSVBoaHdVRU96MjBJUzhGYVRCdmZmaXdCX0hXNmtDVlVWd3phbG5YX2Z1amdReG9RZ0lfUWx2VGM2dFRyWlVjbk84YVZ3UHJtdTE1N2lRMExvM2hZTEtRSHFiV1Nud1J1Zjl2UnNPamx0ZEJDRERJbENmZkhab3ZHTlBUU0twYWtoWm0zbFR3TDM2RXlCR1U1TG05WDVWRU1ldmh4NEVBc1JvQ1BRcmd0QlhHazl3dTByQloydlU4T1pPMVlVLVp2S3c2YUl1YlB5YVlpblpZYjBpRFRfZUFIMUZmekZiQmctNGw0NmN4TlRHcU9FU09jbHZOX2cyOUlWOTdGaU5ibVBuSmtTeUdvTlNRZ0R2Z2N6UXBIZ1JNQlhQRkpabGFsVFY3b0JybDVGLUdNNE1WWUhGMF9iOFhEenpjWVY0TWFVT0R4OWlKb00yS0xiWG83cEU2UDFlZU5JQXBKa0l3bG1MQXI3bXh5WHg2d3JZeVpOOGlPN09RRjJhQQ?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 22:42:16 GMT",
+        "discovered": "2026-09-26T22:44:58.029760+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "اللاعب السعودي أحرز البرونزية في دورة ألعاب ناغويا الشرق الأوسط",
+        "player": "",
+        "content_hash": "5e08d4e07ced44e569bbca0b73d8d8a87e4e06c3e188013e294308bf7ac7cc27",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5783,
         "title": "الوداد يستهل الدوري المغربي بخسارة مهينة على أرضه - Kooora",
@@ -1428,22 +1428,6 @@
         "content_hash": "69c1c3bccbef6c631fbc27c6f498569bd1bdd075375e1c8edaa7c30779ab0892",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 5675,
-        "title": "أخبار و معلومات اللاعب مارفن أوموندي لاعب وسط Kenya Police FC winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNbTRRWERIRkRvVExlVzBhV3g5ME9yejMwU05VQWR4U2JYTXRqbjJUblNGTnNheUVHR0R6ZTU5MU9md2stVFBYZkVYZl9aX1VUZlRHdW9DZE82dTdqMWo4WFdRcUlyZkNpbVVMRE8zQjdDbnIwcmNzOTc3dkhqNEdLaU1mUFZLS01RUkFMbWdYVkViNnZMT2hOSmhOYU9OY3BxWlpFTm9maklhVmNxOGlZUmtPUW8wMnFpWlFEeXRlVldFaWY5QkJJWlUtQUdneHowb2c4andZMzdkTkxwYWN5LUZud3A5WUljSW1QMXU2aVlkREM4bVZaNlNkZHFGVWZhenk5MXlHTjJUM1ozNWZZaA?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 18:25:31 GMT",
-        "discovered": "2026-09-26T18:36:29.584461+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب مارفن أوموندي لاعب وسط Kenya Police FC winwin winwin.com",
-        "player": "",
-        "content_hash": "9945c5271d17c84df1a7d925db089c7a098696fbd8637631149e2d3db29f2bf5",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1958,6 +1942,22 @@
         "summary": "السعودية تؤكد أمام الأمم المتحدة أهمية ضمان حماية حرية الملاحة الشرق الأوسط",
         "player": "",
         "content_hash": "da7a055f429571cc0cb460a9f8eb3a85323e2d3c0ab1bf57a45fecd5aa36c8f9",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 5790,
+        "title": "رئيس إيران: مقترح فتح هرمز وضع بالتنسيق مع المرشد - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPaS1OSjE0bXhfRmtzX0piMWpjU1Rmc3JWcnd5cnlOd3BCRDZ0NU1ZMzdsTG9USXNLejJ1bjVXM3AxcDg4emk4b0hoN0FQQzR0NEV4U2IyQXJmakFPWTN4VnBhaURLV1lKTjJXMDdYaGhsYWMxV3ZTY2ZrZmQxeHVObnlrMHdaZkt6U3dMWmFaNTAtQkJkNDFsOXh5YnNGbGVSRDBlN3RSWHNfdTVDQnZkRXRzT3JHYlFDbV9XamQwLU9SMDBtNDVmenVqYmtPWWItbmRuTEVrejFhSm1IZVgyVl9WbF9yS3dPM1FzSEhqV2NNYkdPUlpENEsya0hGS25PTWNmeWtRV1ZXTjJ1eFE1aGl2MEM1TjhrUV9uSVFCSU9RRVU5WVl6VFRaS3RRT3FtT1RLdkI5MkE2OXRJQWh1YzVJYUxQSjFNc1JiclZyRE5ITDVONWEyNzE4Q1ZaT295c2VCZ20xWFdoVEZMZ3ZnLXdrR0NPWHBpUXV4X1ZjNUJZWjZaLW14RmhVaXpjVkk20gGWA0FVX3lxTE9jS2ZrSXJVcjlXY1RTTllqOG4wN3V1VkJHRlNlN3VvaWtTWUZCWm1kbUtZVXpkcFlOUENNcV91Ym5OQ2dBOGFsblNtRmFaUktCSUI3ZTd4ZmtSZ19Iblp6VnFQUm8zODZvc3EzYXpKVHBvZER0Z2ZWZk5vRGVEOG1lX0hIT2psaXRuaVZ6TGJyYTcwdFdZM1BTVnNHdk9nOXB4V2xMX1NkRDhYaU1QZmZ5TUtjQmFjNDlWT0ZkZjBXTkFpaUpZamlpa2pxUnRjUlJTNFVvU05SS1V1QzdTaEpBTGNyV002RThOY28tdkxEUHdVMFNDUEw0aVFTRHItdVdZTDJKcVlVd2FlTXFialpyYWduUk5ZbXJUM0liX2kwN3owU05mZWdVYzNiSUdtQXV0VFc0ak5oMUVqV0djQmRkdTJfYkdTSkhxN0xzU1cxMEFybC1oMXNWSTFMTTg4SE4yemFxakxKNjlMQ2dJTDVzNF9QWFpQcUF1MjZxVnJ5WndKQzhLVjByOEJpUF9IWUYwVFlUbkE?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Sat, 26 Sep 2026 11:11:45 GMT",
+        "discovered": "2026-09-26T22:45:08.188853+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "رئيس إيران: مقترح فتح هرمز وضع بالتنسيق مع المرشد سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "adf131fd1514d5e6a97e024971a753b61d08685ec073f5ae0b7a76bb8d343b71",
         "sent": 0,
         "section": "middle_east"
       },
