@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26T03:52:27.902637+00:00",
-  "total": 145,
+  "updated": "2026-09-26T04:01:47.047090+00:00",
+  "total": 146,
   "sections": {
     "morocco": [
       {
@@ -2216,6 +2216,22 @@
         "summary": "السعودية تعلن ما توصل إليه قادة جيوش دول \"اتفاقية مكة\" خلال اجتماع الرياض arabic.cnn.com",
         "player": "رياض",
         "content_hash": "138d233da6ea204977e35653cdd9169e16a85cbf8496a0a26e0e982bb6adf5a6",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 5473,
+        "title": "تطوير الإعلام المصري أم تفجير النقابة؟ لماذا يظهر وزير الري مع المذيع الخليط؟ والسودان الذي قال لا! - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxObmtfS3ZFWXQ1RkFVNnQ3RE1hTk8zbXJmYW55dkpFOVdzYmJWYWpCUDVDbXl2Z2NieHQ3elIwNzV3YUZma2ZreGVKVWE5NW03ZEZBU0puZFp1Zk5JcFZIMkxER1ZYcV9aUXdITkM0X1ZjcTZvSXNDQ01aTTdUWFFYeUZrZTZFN2pYc0JESkZZeVVwX3k3bnZZX3ZtWGNnTlkyajlKZFc4LUpwaXJNeFpBZ2dtN1hiVDFqUE13cGJjMTExOHFtb2dtUTF2YndvcUQtZzBhV3FCa0QtMTBTOHBaSkQzTVBRVGp5Y1NMbFhXcE1kZHNjc1BtWXZOZ012cU5sZ1U5UFhrUzZTeVE5ZlpHTDg1WXpScVNLMUI3NkJkUmtvNVE2UlJXWnNXenBnTjkyTUVDR3BRWXdScEJfbmxyUHRmU0NxUQ?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 19:57:31 GMT",
+        "discovered": "2026-09-26T04:01:42.580046+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "تطوير الإعلام المصري أم تفجير النقابة؟ لماذا يظهر وزير الري مع المذيع الخليط؟ والسودان الذي قال لا! القدس العربي",
+        "player": "",
+        "content_hash": "846e5b0040b91692bfe7484d90ee9c1e5d0bc75408a728623653ca74d9efbc3c",
         "sent": 0,
         "section": "world_arabic"
       },
