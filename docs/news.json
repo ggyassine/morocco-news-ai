@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-26T11:32:44.332428+00:00",
+  "updated": "2026-09-26T11:43:59.201571+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 5553,
+        "title": "برلمانيون بارزون يخفقون في الانتخابات - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPTk0xZ1ZfSWVSTTNJSWJCWlpmcWF1TGRLWUlsR01jNk9oOEo0elZrSXlieWlvT241dnppMUpnVE1rQUhaOXBWYldlMnZLTnNnajF6WEJLTi1OUmROMnpaR2tBZGhySzhRQ2NxZFJJX2lsOTlvMGlNOTZES1hkQmdaN0hTcHh1M2xIWlpVcDFxSER0Tm95VUE2SGEzaTgyWGpTOWpaYmd2MU9ONHpGQnRUMko0RnhBT0RlSzdLR3d0Vy1IWEpJQVVkV2JWVUhpRW45VjMxcHVvdUIzbFFzWVNZU2RvTklhZjlEU1NrMThiWDJwb2dtSlpRdjRWUU85WE5Vdjdsa2cxZ2EyckhIZU81dHNxVkFkdXJtM1JpbmFobHNLSzBNZWVWV1NSSUxrSWhfaWxxQmtvazQ3OEJlNHY5YUhaaEZKUTMxNUlTdGdfZFJrc3RU?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Sat, 26 Sep 2026 10:05:42 GMT",
+        "discovered": "2026-09-26T11:43:32.725474+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "برلمانيون بارزون يخفقون في الانتخابات Hespress",
+        "player": "",
+        "content_hash": "a9a393f9e740226a4d038bc0252545816e744b7397f24d4455e5a74a626d00fb",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 5469,
         "title": "تطورات الحرارة في صيف المغرب.. وجدة والحسيمة وتطوان بالمقدمة - Hespress",
@@ -1956,22 +1972,6 @@
         "summary": "تحليل نتائج انتخابات 23 شتنبر..الخبير يحياوي: أهم خلاصات لخريطة التشريعيات.. ورقة لقجع\" صنعات الفارق وها علاش وقع انكماش \"الأحرار\" وصحوة الطبقة المتوسطة والتصويت العقابي لصالح \"البيجيدي\" - كود: جريدة إلكترونية مغربية شاملة.",
         "player": "",
         "content_hash": "9683f3c8506776fd6f23fbaa12594e52b94340c0aace11d5d5d738d23531314b",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 5054,
-        "title": "هل تشكل إيران العقدة الأكبر في مباحثات ترامب وشي؟ - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNb3hfSlgtSkhTT3J3RGhHWll5amVPUlpxbnczUnZEaUVLUFB2a2NOU2E5Q29Nd3E2aVIyVlhYQTkxMGJoQ1RIdjY0VVRCbE9lMmdtMHUzR0dyYWR6WmtZemI2djBXLXhNMlpkRE9SLVNYQXZCS3JXRklET0NveGVTNHAyZmlnN1ZaZjNXRlZLcG9Ta29KUGFibWdBQ29vcm5PTkFMS1FfRXI5V2RTZVRJc0JkVDhXYUtXUW10RGpTNF9pcENoQ1FDSjBUcnRKdzVVOFE0a1RNWHJYMVVBb2U2XzJYUGJqY05jR0pGN3RJcFAwUUNrSk4xVzJZa25mMHo5eWJ4MXl0Ym1zQVlyM2xvMWdtLV9jeHNZdU13THdGb3VRd29xbkw1S0RmbWtmTFBWbGhFVlZwUE5jLUF1eXVDY1NfOWVfZkVob1RYdHJUUTJnUWhMQzNwV0xXRV9oUE85VUUzSVRUNVRNaV9Db243QTcwMGFraG9BTV91MktsTVJxN0h5dW9teVp3?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Thu, 24 Sep 2026 14:50:17 GMT",
-        "discovered": "2026-09-25T00:56:38.596589+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "هل تشكل إيران العقدة الأكبر في مباحثات ترامب وشي؟ سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "d7eb7ec35a3ccfc305381126fed77d9d1820599cafdecdacda50ac9aa25bd678",
         "sent": 0,
         "section": "transfers"
       },
