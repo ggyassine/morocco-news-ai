@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T22:45:15.621815+00:00",
+  "updated": "2026-09-26T22:54:55.045359+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -468,22 +468,6 @@
         "section": "morocco"
       },
       {
-        "id": 5292,
-        "title": "وزير الداخلية يعلن نتائج الانتخابات - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOVmZGdjYxT2x1S2hwN3Zya1Qzcm1IVVlBaU5mUng2SlpSTThGTzBodThvUGYwdGVyZlcyYnBiUEhHUjIweWktTFpldm5KNmE5NzVKM1VwRXl4V0VfdllwMXNyQnVyeW55OGNlYXJGUHdtNkZtY05SaFhTWG52dWtOanA2bHk5dXUycTY3S2tEckVoN1pDenNOR0RqdEhOOG9qalVscFVBTzNlMHQtc0FpU1BERld5d0U3aXpnMnVFUTlLSzlQLW1vOE1ranR4bUlEZmtNOE9TdHdhT0RMeGdXOXdOaE90T29jOUdISGk1VFJPYlBGZWRNeXRJWnJHbndPN2hwenhYQ0tNaTNxT09JVUMtNEp4SF94ZURMaVdZdHJKcDdzaFNHR3M4TnJMdVRMTHQ3cENSakRoclYzZlRFNnVsbkRkcWdQenlzbA?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Thu, 24 Sep 2026 15:51:32 GMT",
-        "discovered": "2026-09-25T18:49:11.356928+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "وزير الداخلية يعلن نتائج الانتخابات Hespress",
-        "player": "",
-        "content_hash": "40f7e985480a04d3fd6fd9d400e9ace37185f67c2f4dd54a6ded5b055a006042",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 5625,
         "title": "المغرب يحذر بجنيف من العنف الرقمي - Hespress",
         "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPRjdsLVZlZ2FkU2NFUjVVMmFNLWlyeG54aV9pSlJibV9YcFpwZVltVjFGWGJnVTBmdUtHdzk2Q1l6YUJpS2VEdU1HUXFNYmZPUXowOU5EQU81MkhuV3V2a1VPd3lpNFlIVVoyQzRWQUtZRVFuWEduOTRvMVBMbC1DWmEtZ1g3MXFIa1d3R0RpNzBLeHBWQ0d5aGdoT2ViakpQazNZd0h5aFNxQmF3ZXp6R3hwRjJoX3VVX3FzN1pLSnlWM25uXzNCZEFacFN2bEpEM3RJMk5PRlEtVGlHeXFtRU9walQ5M2tveXlNZGVtSnVISDkwcWYzYVpMNnZtWFUwdlNaTGppQm9QTUxCSGEyRzRMQ0RtY1NKMTRzdVhYYl9TTnN0N281NG9qRkd5aUh0cW5kNEJ3?oc=5",
@@ -626,9 +610,41 @@
         "content_hash": "cf220a66d80ff28bdf8f4532c831a002c4d8f00cd9ce10ef6c3299387d8023b9",
         "sent": 0,
         "section": "morocco"
+      },
+      {
+        "id": 5443,
+        "title": "النتائج الأولية ديال الانتخابات التشريعية فكازا.. البيجيدي متصدر فالفداء وعين الشق والحي الحسني والنواصر.. الاتحاد الدستوري ربح 4 دالمقاعد ومنيب حسماتها فأنفا.. والفرز باقي مسالاش - كود: جريدة إلكترونية مغربية شاملة. - كود",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQajBNMXVYR0hRZDF3SjVmbDJxamNVZEI5dWlJWEZBeXhlSXVpNi03SEJJQ0NWZU80d3liVU43dGJNN0toQzMwUnYyMzdwNkNhaG1BMk55RzQzWkVjNElIZWVTaUtEdU9pWjJnR1dJd0U2dG5pdlY3MjZ3UFlWWjZwampnWGQ3U0ctZnkwVC1rdW8tdkg3X2txOVllN2Zra2VHQ08xdEVDeTQxMElZdVJWWk1VV1BMWllTTXVneGxIOEtYX1R6OUJ0WEtSTFZYNUkwbHRxMXdJZmFkRkVZV1pOUi1NeGpnTTM2d2xSMkVsLXg4MHhRNVBELXBqdElad21oSThxeG5sX3dMcXE0Y01GZXBEc2lPaVdtbS15R09aRktQYlhtTlFkTlh2MWp1bG9QY0VZcUItTHhzZ2ZOVjB3YzhHMElHcEtP?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 01:34:54 GMT",
+        "discovered": "2026-09-26T01:45:06.395709+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "النتائج الأولية ديال الانتخابات التشريعية فكازا.. البيجيدي متصدر فالفداء وعين الشق والحي الحسني والنواصر.. الاتحاد الدستوري ربح 4 دالمقاعد ومنيب حسماتها فأنفا.. والفرز باقي مسالاش - كود: جريدة إلكترونية مغربية شاملة.",
+        "player": "",
+        "content_hash": "38e58330a2205247b2fa0a6ee290c514dd6f1d7ccc74961f9224fd13564cbc76",
+        "sent": 0,
+        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 5792,
+        "title": "أخبار و معلومات اللاعب عبد الجليل شايان لاعب الاتحاد التوركي winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQaEVuR1BULWZJU2RZTk1JMjFUZ3djbF9vaE1tTmw5Mnk4TWRkVVVqcnpxX0FJX3VKRFdIRzVvTHJXNGM2bTRYSVQtOGdEdkJPNVdSRVNlTGZjV3ktREZyR2JrM29mMGZaVFhldzNVWGJka19ESXdGcUhCZmd5a3JjZ1U0REJ0QTRST2hISTY0cGY2SzB2T3Q4ajA0SFNmRVFVeXE3VlFjcTMzTU1vVF9WejB6M0FvM0NvYTBHd2ZzcjVyRmdBTFA2clppZ1BzWmxwTkw5aDFrWHRhVDNqWWtzemVrZms3U1daNU9sSWdzYlFGQ3pjREpWdmctZUl2aE1BalhRTm9YaWJ1UEppUU1qSFlVTU85SVpIZUNnV09BYTlYZw?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 22:54:09 GMT",
+        "discovered": "2026-09-26T22:54:38.411511+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب عبد الجليل شايان لاعب الاتحاد التوركي winwin winwin.com",
+        "player": "",
+        "content_hash": "88542a25c89656a2a2c5ee92c143907546f9bed3682ac29e69da5d4ddaed199b",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5788,
         "title": "اللاعب السعودي أحرز البرونزية في دورة ألعاب ناغويا - الشرق الأوسط",
@@ -642,6 +658,22 @@
         "summary": "اللاعب السعودي أحرز البرونزية في دورة ألعاب ناغويا الشرق الأوسط",
         "player": "",
         "content_hash": "5e08d4e07ced44e569bbca0b73d8d8a87e4e06c3e188013e294308bf7ac7cc27",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5791,
+        "title": "فرحة لاعبي وداد تمارة بعد الفوز على الوداد الرياضي - Elbotola",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05RGJGUU9lOFNHcUQ2bmg1TXA3MENyRUp4TXlLT185R1hRZ3FiV3QyV2ZsZFBFLXNlbEh5WURScmpzMWxDQ0k2dTVfSGpyOHl2YUZJMFVXamd6RV81N3ZVQjFKVWdjZzJTUnd5elowdE0?oc=5",
+        "source": "البطولة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 22:39:48 GMT",
+        "discovered": "2026-09-26T22:54:32.782751+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فرحة لاعبي وداد تمارة بعد الفوز على الوداد الرياضي Elbotola",
+        "player": "رياض",
+        "content_hash": "02d861ec5e422e274e41a397aa88ae0a6ae256a647174e5bd7497c060a705879",
         "sent": 0,
         "section": "sports"
       },
@@ -1110,6 +1142,22 @@
         "section": "sports"
       },
       {
+        "id": 5793,
+        "title": "بقيادة هشام يكن وصناعة علي سليمان.. إريتريا تتعادل أمام كينيا في تصفيات أمم إفريقيا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxOeGIxNGx2OUo5WllVQlh5RkpROHgtSnB6eFk4YVAxcS15cUFNdHp3bVlZVkFQZ1RwVHFHNkFucXBvYWFXUkE4ak1RM3d4U2JzXzJXdzVkbXN3SHRLVk1FSkxrdW1IYlJFdHhQWUwwVDU3czdpVEdFbDh6NVRiaXlEcUd6SHZHMnVpNjgtWEZYeTlyajAyZl9CVmRqUEEwSjA1ZXRqVjJCM2hTaHZXVUo4SGNNOHVDdWdvU3BkY2VYNFFfZC1UUG9jMUJPSW9CZm5yc1JvQVpTd1BXenpZbHZTaVBUUENGcDNFLXlXSUhGOEZTTWcyMGJqUEhNYnJzTnVodlllbGpvVTdid2NQZGd3REZHNHdhbHhJLWNQQzh2YXBRbV9pQ0w0UG1wTVZaLUQxMEJkQklkRktJczhIYnhEenhaQ0pwakhmdjZYcnJxeXkyb251blF4SVZDSWw2U3Z0Z3VjaUhZNDRsa2R1TTVVZS0zaHZvazFYUktzTnFiTDQtTl9oTDl6aG5POE0tenZVT0Rpa2JLUDI3R2xoOUs4RzQzeHJxY0U0ZGhsMG01aUtVUzUtWi1qR1gtbTNVME80cWRXRkw1b2hDSndFNEJFVzFvbFBWTEhfNWI3QUt2SG9laHFaMlAwXzgzRHJjSjZrb0JOU2Jnd0lpbXRkOHFZUjV5cjU2X003XzQtTGFPd05Cdmh5aUhGWFFGUEh4ZHQtakx2Yl9BNHpZTEdraTU5eE9xQjJUZGNfY1hDZllFRmZNQjNHMlZPbVhYV3ZZblBFQVRCeTJDV0F3NHEtc3I4VnJNazNZc01BTzl2UHh1TzlIaWN1X1pPaEZ1N0NqU3FZaU440gGIBUFVX3lxTE5jY0x3eWthZW5DYVlYR1drSW5TdzNLSjZwWEtMLUtsaXRPd1ZYcXRnb05hM3I0cFJOOWhWUm9oYWYyNkU1MjlOU2lWbWRYSld5MERHLWhhZjA2Y2t1LTJ5ZjFaTXBEVlYzY0RYXzZJUmVCX25rTGhWbmNDVmxRRGt3RmlhdllKQ1pLNU1UVzV0MGc1MmF6YVhXZ2VhYnpsV3NkMHBDTWdMazNfNzBaTUNGaUtXXzVaR0c0T1pVZkkxanV1V1BfVGk5MnhvOVRKMFV3MEt5cUdYSDRSdl8xdU9UaHZxelMtVExEZE5LZzVSd05MMEtVQlBQdUwyWk5DN0N6aDZwd0RpUWxJMXFOQThRRVhWYXAxNUlrU0tQVmIyZkY3ekZwOFExRjFocEpLZnVsT0QwSEJ5ckRXcHBMemxROWdrN0xsZ2x1a2cwQ0FUa21sbWJnbEtxU2xNX0x6NXlhS3l0RDZWVnozZkM4QlBEdEdaVjcyekFzV2owdEw0YjlXWS05dkxaUTJZR1NFdHVlX1VKVG9ZOC1BNjg0WWZBeU9wSTNpVTM4VTg2SzhNeHA3Mzdac3dKaUxzcEVkMElhN0FyU2t5Q0FRSWh1cHJpOWdLM2FpQnRlTG4ycUJ6SUpmTS1VLXpkbThuUGpfenVYTGNZWndvcUlYUWhCMmVmTUZmR3hOLUhXQ2JPbnM0eUtBTDYySlg1QkFLQzFEMnFqWHVQOFJERjVlQ2FUYmpSWENuRno2SGRfRE54S3BsQTNfYnR6YkR6aG1kazlsZTdZUXduM2tscFVibURJMkc5Q3NEaXdxZFFOVG55bzlmbUgxMVpqUU85bnE2VHBMN29mMDFqcUI2Yw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 19:20:00 GMT",
+        "discovered": "2026-09-26T22:54:39.729710+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بقيادة هشام يكن وصناعة علي سليمان.. إريتريا تتعادل أمام كينيا في تصفيات أمم إفريقيا FilGoal",
+        "player": "",
+        "content_hash": "405c5227856ba09e3a11cd22fb546295e5001b91beefab0da0e40fe486546b99",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5706,
         "title": "التونسي مرياح \"يودع كرة القدم\" بسبب الإصابة - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxQbE5UXzJRblg5clF5MEZ6REU2ckJlNzlRV29RMHNQTGppd1JLajljUnJhRTM4REdtMGNMeEZOWUpuak5abTJ6X1NWd0hUOUNZZlBiUkNxbVVKRnJwdDJocVZBMHVyeWUzdmM1ZHRtMExDMmpxZzdTUmNkcl94Z2ZqZTJRUVQ2V1R2Ny0wREVMUlVHRWF1T05jRmhFX19fWnhUYWZtNTktckZjVXgxczRFMVRKZTZWSHUxM3I5YzR2RkN5VmtCUVY2XzcwUTJfN0ZMb1EtcG9OQjVIVU5zMWhjb3ZuNzhlRDZOR1JPVnFLaTJ1c25GUDF1WXRPdXFZenZMNDBkQzByQTQzcGN6RDJ5MHZnOW5STmxxaHMzbm1UdVR2ZHItNFA1eXdMUDJjV3VnLURXX2NtM0dQSWU2TzhqRlJIVzZMbXVDSGZrNUlfUExnam95dDNrdzBFdURHOGtsSFZkaGtCQnZPbDRfNjUzWmRMWVBLUS1WblJXLUVGUHpiUFhuYWpRNVRFdTFfYXBRRjZ5VDNTNVkxdWVJUnV6ZG1MZUJHenlCUUY1QVR1Nll2dl9lNTBFU0hTRnFGRXZHMmdOQnFWUkFTbllSY2FTY19sY08wdGV4c21mVXlHVTI2bU1GRFV4dy16MFd0Uy1WMkotaUxRYVR0eW05RF9CUlVMaUcwc1R6eHdyUlQ2eDU1ZnFIWW1oYUN5MUdzTllZY3RDbTRtVTNsekdnNmhV?oc=5",
@@ -1378,54 +1426,6 @@
         "summary": "بالفيديو.. فراس البريكان يحرج عبدالله الحمدان بهدف من أول هجمة Kooora",
         "player": "",
         "content_hash": "48cdb3720893c8098ca43343d2b4e00bce052ae8b7dd064018b5e4351913d1ba",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5680,
-        "title": "الحواصلي يتحدث عن ثقة اتحاد تواركة في اللاعبين الشباب ومهتمه الجديدة بعد اعتزاله كرة القدم - Elbotola",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LV3Y5MXNWZGpITXlKZnZNc0J3ZjBaR2lhbS1fajREMkFNNVRsaFRlZXhQbk5Rd0t2MF84SWpxeWZpQ2NNREw3T1lZeHJIeWtkS3BJOUxueDcxWjhkeFJwR0xJYzNHUzVPWjM4UzFQSl8?oc=5",
-        "source": "البطولة",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 18:31:17 GMT",
-        "discovered": "2026-09-26T18:49:58.732105+00:00",
-        "category": "الرياضة",
-        "status": "اهتمام",
-        "summary": "الحواصلي يتحدث عن ثقة اتحاد تواركة في اللاعبين الشباب ومهتمه الجديدة بعد اعتزاله كرة القدم Elbotola",
-        "player": "",
-        "content_hash": "96b22fa20a6af5c1429564b6cf3ffb56d25e9aa1c0affc1063f4f1624a093ca9",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5679,
-        "title": "كأس الخليج - العراق يفوز على الكويت في الوقت القاتل بعد مباراة مجنونة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMioARBVV95cUxNTE9GMXkycmRUOFR5Ql9pRHNrbkNuWURPdU1hU0NlSVpOWkYwTHM5Q0dWaklFVnh4LUstaVNhc2NjZllmVjJzcXF1ajVlZGJkN1NObU1mbXhkUWNEQXQ5R1A0ai1WWWo5djZsbExmelVfd2dlSl9GR0lROXVYQkV1LS1RZEVuZnB3SmtFQmJUV3A5VTFpME1abUZELXI3enA4TE1JcUhzYmtLWXZNWUtLS1hzZ0NxdWNEaVphanR4SXBiWkhXZmVWUDFySU01MU14SUJUdVM2T2p6ZE9DOURZRzItdXYzMWhsdmdwa3l5UzFQaUJjcWVuQzJJQXBqY2VDLWU3cmFWZHpUbTRoV1R6OGM0azU0U0dwb1Y2WGtJTXktV3FaQUpkZWFpOXYtMWdIa2FrWUpyVEItSHRKZ2xuWS0tOHc5X2tIRHNxeHljRUJsYkR5UG1fQWhocmRuTFZ2T3Fnek9EdXZlZmVFSm83aXJsRlUzdFlOeTdyc3ZsZjh3dlJ5MHNGcFpPemdOQWJCUTJWNlZCM0xETEtIX1llcWwydmxXeG9wSDNXMlo2RXVVdG5zN3JhbDdlamVhMWFlZ2dhaGZHcWRvN0N5TVZ4TmhOLWxqSy15eDJaU2pZelJiX3ZiU0FtM2tfSmlES0RNV2VQV0F1amw2VlIwVm1GYkExUHdoUnA0Yng1OGtmcUtzX3gxSTQtOWlEdlQyMlBp0gGmBEFVX3lxTE9NQ3l2RVpSZGNOY1dTUGdfZjQzMmdoRUpmbmtrSHJLQ2lOMEFpTDE3R3RzTnV4WHI0b2RTbWpCaVFtZWhsNzNVcWpHWHpxdmdDR05GQnhDNlZuaThjQjRhNnZyT2tMektJdWYyem91Mk11Umw3RXJXNHlUa001RmVuaXhOcmJRejdvQ0dORGRfSFIyQi1jV0RjVmhFbWZPalBNYWpYeHVOeHFYTWpaYzZfcngwNDFDOG1KWExBYTNVNExDN1pUMEtsR0pvN1B0T04zeWJ0SXE5NTExaF8zSUJSckttdW8wdkdDeDRCY25aNngzUUQ1N3o4ZkJ2d2JFYjF5YzVMcE9yY1VIcjE5YnBrV0hHZ05pbE5XMVROVVYzUzY3QW5SR3dHRXFuY3JQNDNkS0staGxuYmFxSVBsR2FDUzkxd25Mb1ZYM2RNRHowcWwtTDJHUEZPdUlnQURUeTM1Qjdnc3RISURFSzlCTzFaSDlONUVqVVRnTloyeE1fTUJVSmtLQzNJc2MwSEo1NzFUU25yTWwxRlFIczBMdFE0dFl3QmVRcHJBRWFZVEhiOWtSajFyWnYySUtOOVBselU3WHZwNGUwdFc4bGhidzZpVDExMVMwcV9BSklmc0FST2VuUzZNZnhGOUhyeGM4OTV0Y2x3TVNDbVNEQ0JxbEpTalF0dFBvMDBiRmZCM3c2a1YzQ3ltUExOcHdhbmNMcHdBLWkzMGc?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 18:27:00 GMT",
-        "discovered": "2026-09-26T18:36:30.847404+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كأس الخليج - العراق يفوز على الكويت في الوقت القاتل بعد مباراة مجنونة FilGoal",
-        "player": "",
-        "content_hash": "a80e715258a12892481e78bceb61783d41588003a14323d8bb049ee0dcc52f7e",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5676,
-        "title": "أخبار و معلومات اللاعب كريس ارامبو لاعب وسط توسكر winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOR2F0WWZlemhRSE5oZFV4Q2hiMEw1bzZkaVBOeWN3WUFheFVCUTNFUENJYjQzOWRaNC1Pci1IN0UzVDVwb1NhSkNiUGQxdXRkTWpuUVlIVWVaZUppUnhFLVRsR1hMYVVBTTVtTlN2RVVyVU1KalJqblVIOGlzZ1RqbHN0dXUtNVZMZWxlUjM5eUNxQUsxNTJnTGNWcHFPVUZ5WFl0TmdHa0Qxbm9kMWRueHQ5NkNRckNzbGwzT0x3UUNPaFRqZkVJLUFYZmxSb2VNaTNJZVpHOVRMcUJrb3ZFVGJhSi1WNHZEdTliN0FfWFNFd2Q3ZTRMUU9STWtBQzlO?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 18:25:31 GMT",
-        "discovered": "2026-09-26T18:36:29.596879+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب كريس ارامبو لاعب وسط توسكر winwin winwin.com",
-        "player": "",
-        "content_hash": "69c1c3bccbef6c631fbc27c6f498569bd1bdd075375e1c8edaa7c30779ab0892",
         "sent": 0,
         "section": "sports"
       }
