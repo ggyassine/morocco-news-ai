@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T15:56:46.870052+00:00",
+  "updated": "2026-09-26T16:10:28.679342+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -806,6 +806,22 @@
     ],
     "sports": [
       {
+        "id": 5606,
+        "title": "القنوات الناقلة لمباراة البحرين ضد الإمارات في كأس الخليج العربي 2026 - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQc3ZaWWhxSG9IbXROUk0tY0VCelRVaGpnT1l0eTB1ZzF1VmFJcVBrV1NmVkstclQ1YXhhYWtWTVh3TTVwT293TzYtRHlLdXROVHdmVjlMRDRyaDBtaGtZdlRlSTJXMkozbDlZR1BEYThrcW5sb0ZXM0pKNWZudWJjQlZJNE5GOGRRWFNOQS1kOE1pWFhjZldSTVRTcENWRDdOVFN3aEZuTXpyV25UR2FyRkJvVFRRZWZUZVRKVXpGdUZGaVlzdVc4ZlFlU1JaWEFSWnlMOTV0QmFIRjJ2NzFnYXZsVHBhblh0MXdwelFuZ252NV80c2ZsX3FXb0lhS2d1ak1MTktoX2Y5dTNRUkNTWGJLZW9Mc01XWmtORU81RWcxajhjMDNsZlhwWlBVb25KdFU0aGV0ajhaakZXQ2ZmN254RnFDVkdRUmNTMENDenVNOFl2SGpoUEtnN2pnUQ?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 15:57:52 GMT",
+        "discovered": "2026-09-26T16:10:11.504031+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "القنوات الناقلة لمباراة البحرين ضد الإمارات في كأس الخليج العربي 2026 365Scores",
+        "player": "",
+        "content_hash": "ebbd3fc76b85a5093fd82110befdd15a76e3ec955b91dc5318d427bedf3da774",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5599,
         "title": "رسالة خاصة من جماهير منتخب مصر لمحمد صلاح - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPM1NmaTVMeURVSi1zWlhkX29sZUgxTlNTQ2hhMFNCMnRiYzZvU2Vod2RNd2VEeWZ2dVR3WWJLNVBGSnhFakt3YXY1ZG1oQll0Z3FVV2pDUXRBenNZaVl4X0NaRmlxbmVURzRnNjU3YkR5ekhQMjJYNFhlR1hZVDBVWjFRaTk4UTRERDd0cV9BRmdob0YwMGRfZmM2Vl90RFN6QTZfcnY2cmFBTklZNHRKNDdVZzdOaUtOWS1ZRU5CSUNVUVQ2N01KVktleW9jQ2VXNDBrZkE0RWZqMG9EUEF4VU0xQmROS0liOHp2VFZQR1I0SUpybm1pcnNCdW1zbkUxV3ZRdU5Ra0xMMm82OGstVk5FZG5HUjREV0F4dGttYUlpVUN1bVlMcWM4SEt4X0syVXJuNmdLaU8tVVlvTDRENVU3aVh2M0hoX3NYV3FnODRmX3JfaklyLWF4OTBZUXRPaEdFQktIOFNuZTg?oc=5",
@@ -818,6 +834,22 @@
         "summary": "رسالة خاصة من جماهير منتخب مصر لمحمد صلاح يلاكورة",
         "player": "",
         "content_hash": "c6fc93148d7488fa514691b86cee7f3fd5b95e8bd34fd1f6b6c68b8586bf480e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5605,
+        "title": "مشادة في مؤتمر مصر الصحفي لمباراة أنجولا - yallakora.com",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNRE0tU0ZCM3JYZDJoUnFzczJRX1dTZVYyX3lJeGFnUmxVWFlLS2ZXU01yM0pRM1NCZm50ODVCLWdNY2gtaUJsZ0dkdnpxTy1tOEdWUDNxc1U5NGFmdVA2UUhIZ19QRjlWQ1BPVEhnY0IwSjR0Rll2NFdTRTZPcUxvM1JIN19xZzh4WVdCTUwyMDRwZm9BMGV2RlFjalJIMGIweWRMdWlhYThiYnlnX2U2U2Q5ZFZIS3A4WVlydEtkTmwzb3p5TVFvT2VGc3VLRzNHMk43d2tfb2ppWEFIU1g1TEtRalk4Q21RR2dRQjVvU3phSlNkU1kwNjFEWDVBQS13azJlSGdxR24tUGlRaVlWMkRrNF9kRjRkZVI0ZXp6QmhQYWVJMTRmczh0SHRKdHdOY21pMExEd1B4X19nQ3pJME9WYlZqbGZjbFlveWxuaWxqOEVnU3lJcV92cTd5MnYtN3dCaDEtREFLZw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 15:36:00 GMT",
+        "discovered": "2026-09-26T16:10:10.113695+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مشادة في مؤتمر مصر الصحفي لمباراة أنجولا yallakora.com",
+        "player": "",
+        "content_hash": "cb5f29850a271daaba6ca71975cd16ace000c8394269d58bcbcf1c0a063b235a",
         "sent": 0,
         "section": "sports"
       },
@@ -1572,38 +1604,6 @@
         "content_hash": "376acdfd4543e0a52818bcca3d7a28799bbfcf1da8345bd8af4127c0f998ba06",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 5544,
-        "title": "بعد ترشحه لجائزة ياشين.. خطأ غريب من فوزينيا يسقط الرأس الأخضر أمام مالي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxNOEZkY09GS19lU1RYcUtQUWtTU3RxVk9VZWJWbG5yV0xfbEtZZ0JBT3R3ZkttNDA4QzNTa2dvbFlyV1RvWW04b1E3QzBPbDNacjQwT0VacGViQjdxeHRFclI2UzFZeWZkb2VHbXN3eTkybUZBc1FIaC0za002OTl3bXNlZEFxWUFWOTVscExiZm9rNnJmdEVLa3hsVXNTZlFyUl9haHdLa2ptbGdURTZ0S0FrcUR2NXBULTZ4d0oxZkJJc1NhR1Rxa1MwS3VLTFUyeE13NFdZbVl6RW8yZXgxSjFhbDExa0xwM1Q1cFVMa09nRlc4VGg4MlZaTTRPUGlnSlI1WWdhSlVEYmlkQjU0cjhsYlV0R0NQWUtKdmxuZXctWS1aR0VzQ3lXbDZVYUV3eVNpOXF0am5sdFFLZ2YzQ1BHRi1QS1l0QV9RVjFXZHQxUWxhOEFPZTdJWjNmVG1FZndiaUZBUWNDbkVfdXN4a1hYMF84UWt1SWpRT3dvR0R2RGlvMTlwNFZrSFRTLVRsOFhfZWduaTlWSkNaQUFtRDFpMG5HQWJ5Y0JpUWhVdDJ6YzRBeE9kbTNfRXcwTjc2VVBEVUVYU3luU0F1Q3RJSldMRjVDMlhXRng4TXRMOVlxOWJNanh2NFpPMFFOckZxbkRGWEI0dnJrYTJ2SkREQ3kxaWg3MERMZUhMSmphRFZxTUNqX2RWNXY3dVdjUEVwcjlzWno5NDZiZl9fY0liY2Q5X0xucXloT1ZxTmotV0JOZDVmeWVfNjJn0gHPBEFVX3lxTFA2ZmxncUJUM0c5RTBpNjZIS0U5NVpoX04zQ3YtTVpaOWgweEtRS1hfeEFvcGlNRFROVk5vZVZvX0dZdE9PT3MxaE5qN3EwNGJkTHU5QVZPNi1FbFAtVUFrV0FUNEdkMndHRDhzZmptbkdkZm1yUjl5V0p2RU5WaVdNcUVuLV84UF9LUk5abTF5cXFoRVdCQllQb216dU5tSF9rdXNXVUMxMjF4V2FrT0Y4NzBPWnhSNnpNZ21sblNaRjFneERoTVF5OTlMQlNCWEtJNmxvTE1lRnBWUk9iMG1Hb05sTVMxUnNPZjJDaVYzZ1hUcURWQTFZN0EyeDg0LWw3VlFZZ181UUcwMEM1eGN5YTNPWjJwaTIyR3VNVXB6QV9kdzBnZk1UaEo0cE9maTdjQ1Vrbkw0OGN3Vk1mOWtTWk5NOEFPckdEcEtKc3pNZVExM1ZtMzhKdlY2V2tudXBHZ0pYN2llMFVzcmc5eFF4U3V0UjJqUmpDclAyc3daYXNSOTZUa19pUWMwQ1BEcEZlalg5cXFJam5ldEl1UzBKcm0xMHdfNEg4U0NvV25tNzZOOVRBbUpoeHpFWUNwWlV1aHYyb2VVUVdKS3JqR2NuazB5S3E1OUY3bDMxUU5INzBDOHNCeEt1LUZ6Y3NiVUNNbVd2VTR1ZmVyLWZhOXZ0MkViUEVZd2hvZjhzYk5tb3dHQk1WNm5HeW5kTzVfaWViRXNqTlF3Qmk0ZmdDY2psVVNOTDBnMzdCcTNzRDFVTUh4cmxINE4xZ2lQcldGYw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 06:52:00 GMT",
-        "discovered": "2026-09-26T11:05:47.941827+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بعد ترشحه لجائزة ياشين.. خطأ غريب من فوزينيا يسقط الرأس الأخضر أمام مالي يلاكورة",
-        "player": "",
-        "content_hash": "d740e9124ff0782786230e4a8ae71a63067af0e9bc1297f50238d7d7424a9743",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5536,
-        "title": "القنوات الناقلة لمباريات اليوم السبت 26 سبتمبر 2026 - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNQW9DaFZING9WUnppMlR3NDlrQjEzTkZ6NVl0UkNMUVBtUEgtOEt0MGtZX0c2UkhxRzc5NUlkYmMyeVR6YmNJVERkUTlwa0l2clUxWHpXaElYSTB1dk1WVFY5TjRyYm4tYXprZmU2NDl6dmhLZVJsd0pTUkZhMlU0cnlWYWlqa2FwMGxtTmhhM0FlRUpYNm8zUEc4ZGo4aUt2Vjg5U1I1cHBhaXFFakVVLWxvNHJsWXkwX1NYZllyb3FIU1QxWU1YYW5wQTdTcXdPMFZHbldUSnFXNTRkSGd3d2o5Nk1nZzh5eGFvcTM2MUFPalVEeHBwUXpzYnJQWUdkY2FJV1I2dDMwSUw2VDZDYVAzbm5ncEgxMndnYkNYX3pDUnNsUDdlSmVQS1MwOWE4TncwMHRlOGp1NEN0Wi1xTDFJUXQ5Tkg3TGNoQThWUVZZZ0RxMndsM2FleTNZQldr?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 06:14:30 GMT",
-        "discovered": "2026-09-26T10:21:08.373441+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "القنوات الناقلة لمباريات اليوم السبت 26 سبتمبر 2026 365Scores",
-        "player": "",
-        "content_hash": "fc938f8d07aa63477b9b04a6ced9431efe00994b5084bb44e4061354cf446aeb",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1924,22 +1924,6 @@
         "summary": "وول ستريت جورنال: مضيق هرمز يعقّد مفاوضات واشنطن وطهران... والسعودية والإمارات ترفضان التنازلات القدس العربي",
         "player": "",
         "content_hash": "dcb19fe8506ea6813de6d644217847f6531d7aba8134c20a39e8685652ed3f75",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 5105,
-        "title": "\"أرض الخرسانة\": معاشرة سينمائية تعاند ترحيلاً إجبارياً - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxPdDd3d0c5cG4xdE92d0lpZmYyeTA0RUxBRFZfd3BYMDM1QXhVcHdya25naFh6UnJxS3NVVDZDNG92V3JqMUZMMGFxRmVlSWFPdDByZXhINHI4TTJNYzhBdmxkNm1ENTd6RWdYRjJTeE9RYTR1dlJlQkc4aE1UZXJvUmliUHpqbkR4YTBpdEVyR2NfUFo0cnBqdUxsS2h1U0NZak00NkJwRk1Wa1hUd1dBZElLeXdhN3EyaXo0S0NZSXpWLWtvRU0wTnUyUUJVZTRtcDNWbE5kbU9fRUQxbklTSUUxMkR1VGFxZVFvLWJKeWdjLUZFYnJrVTBfNlN2akhfRV9VRGV4d2ZmNVoyVWV2RWNhM0pxNDlxTUdLYV9oNGRkV2dQbDhZSURXTnp3ZnktZDhfT1pyUWFqS3NNX2ppUXp4WGNMd1BiWXVzeGFxLVpJN2VOcy1PN3lDQ0pscEFiNWRMY01FaFptMWRRLThfNE1qQkhwd2ZBdXlsS3Y5Y2lGYjBRM095Y01jTHQwUnVnTXUtamJCNHJ0RTVva3ZpdV9ieFhNLW0tQzhoaGtNTVoyVGtjQThJRDJqN1NCSXdGVGZDRjFrdElZUdIBzwNBVV95cUxOUlJoOFhyd3NyN3RjRnRfcUtkZTBGazFRTi1UTHdJbXdZblQyNEJOMjltaW5XZm1iNGlLdlhOZ2VjZmI3YW0zNlVnT1Q1bEl0VlIyODh5MWtXc1lhOVludlZCQU5nemx4QWRGTGszVEtJWFFLRW9KdUFVMVFYV0ZmeUxzZDZOX0FEMTJFNVAyU20tU05pdVRnT2pUazByU3FfakZ3R3EyZ2pYYXhmancta2Q4TER2UjMyVkVidTFMMjQyQ0pmSXJpZENMOXpsLTAzejUtdHpYRnI5MW9TZ182NmxxeUxIVVdjNV9hTV9sVU82UGFNYnRmQVlfZjJuNC04aW1RQUt3LUI1Q0pUelNlQlphcnZmU3BMSkc1d185QV96b3BHbkdXMFAtOHQ3THczbldoSmJNbGdwdVAzNEVtUTRxUGpISUluSWhISHBETWhDb3JVeGRsSzZFNkhsV00zbGM4M1ZDTEE5RWhobmM1UXRjSkUzalRHQk1xWElhRVJDX3BGUDRFMFRuRkozZllHYTZUcWF2SXdxaDRnSHNsdGFRMzN2YXczWjZ3Zk9HYXUyci1ybkFjakxuRVJ2WjNHWGt2eFZBWW96V0J3eFhF?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Fri, 25 Sep 2026 06:36:17 GMT",
-        "discovered": "2026-09-25T07:20:51.607067+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "\"أرض الخرسانة\": معاشرة سينمائية تعاند ترحيلاً إجبارياً العربي الجديد",
-        "player": "",
-        "content_hash": "ef426a90294d9c8db06bc045035776d2dd7a228257697df89785779e1ece7d7c",
         "sent": 0,
         "section": "transfers"
       },
@@ -2360,6 +2344,22 @@
         "summary": "مشاهد تعرض لأول مرة توثق لحظات ما بعد استشهاد الأسير ثائر أبو عصب في سجن النقب alquds.co.uk",
         "player": "",
         "content_hash": "3e37ae25c5ffbc16d0801cc2dca03066ed5972a5e9a9b7a7104d410c0ed3cf8c",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 5607,
+        "title": "الرئيس الإيراني يعرض الوساطة بين الرياض وصنعاء - DW.com",
+        "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQbTFKQl9hOVZJdHFZMjhRblphTzdJZS1yVTRwZlY2R2p0U0lvbDAzYnM1bFpXQVRveENsZlVQRW01ejg3S1pCNmhOekMzd0ZBUVM3YzFQWFJ1TVJjQlNZdElfTEptT2JqdzlZRjNiV2c4NTB0Rkg4YnZhMlBRZ3I1RGRHTUthRUJlT0ZuUE9NaTUwVEpjR0psckM4ZWdmUVUxeTBZYlBiS3ZVQXFYQXpWZXIzQUNPWHQ1VVFTM2ZVMmJKMWZkU1l6MEZwRjlxSkQzOFR2LUxzdDJuNlQyeUNQb2JlWnBKVTZvd3RGQkEySmdiSEY2RUtTdWNwWnVfTFcwYncxblpoeHpGZVFsY1FYak9QYmxaUDFZLWk3T1ppWkNoLUNKeFJPeDE0QVR1OEUtRExHOHdfaWxTMmxqM1RubTdhcFpfX0ctcnliRVhva05qTV9RMTRyTldIV0FTWUdMMEtkMjVCRFJrejEtb09CLW9wRmF3ZmJndXJFNk5oWDVwbWFkd05LUDNXb2FnSE5WT3pkTQ?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 19:38:02 GMT",
+        "discovered": "2026-09-26T16:10:24.238537+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "الرئيس الإيراني يعرض الوساطة بين الرياض وصنعاء DW.com",
+        "player": "رياض",
+        "content_hash": "6f0891cc23d0d89e338e15e2b792c4b0334d00614a20e09e437cbf924dea716e",
         "sent": 0,
         "section": "world_arabic"
       },
