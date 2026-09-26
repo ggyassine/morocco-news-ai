@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T13:43:31.222300+00:00",
+  "updated": "2026-09-26T13:52:49.400377+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -16,6 +16,22 @@
         "summary": "زلزال انتخابي بطنجة.. مذكرة بحث وطنية في حق العمدة الليموري بعد مغادرته صوب إسبانيا Le 360 Arabe",
         "player": "",
         "content_hash": "11bf0e671676567060c8cff43e13510b081197883681eb1fe4bb0c3b5bc19640",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5577,
+        "title": "ليموري موضوع مذكرة بحث بطنجة - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxObHhtSm5YY1lCU2tFaE5xOFhQelFybUJqLXA2VFF4dlpZTFVHS2Fkancxamp2aklkYk1BMjNPYnNoa01LeHpFT2g0S2lhWE9HVWp2OE1VZlkzcFNDaHh4aEozMHVpbjZsMWJsRDVfNFp1UHNXU2t0enJGQXJmNGhrX3gtRHcwa0NiZ283LVRULVlBMjFiaHJyMGFKUWVYaVNqdHFhYmpZNDRra0ZRclVfby1fakMtWi1ZVHZlbWRSM3R1THJ5MGJMRXNLRFhGWFZab1VUYkdPdk5UMk52M2pvRGtHMVhQOGtXZy1CNnZxS201eS1wb2VQYmt0SXA5ckhTODNvc2hHOXNXd29IZF9fV3RqdTQ?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Sat, 26 Sep 2026 10:25:43 GMT",
+        "discovered": "2026-09-26T13:52:15.463793+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "4330f1c75be697a862be1705f522a8f47f1151f4ef58a5eca8f68ed276b69ea9",
         "sent": 0,
         "section": "morocco"
       },
@@ -770,25 +786,41 @@
         "content_hash": "cf220a66d80ff28bdf8f4532c831a002c4d8f00cd9ce10ef6c3299387d8023b9",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 5443,
-        "title": "النتائج الأولية ديال الانتخابات التشريعية فكازا.. البيجيدي متصدر فالفداء وعين الشق والحي الحسني والنواصر.. الاتحاد الدستوري ربح 4 دالمقاعد ومنيب حسماتها فأنفا.. والفرز باقي مسالاش - كود: جريدة إلكترونية مغربية شاملة. - كود",
-        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQajBNMXVYR0hRZDF3SjVmbDJxamNVZEI5dWlJWEZBeXhlSXVpNi03SEJJQ0NWZU80d3liVU43dGJNN0toQzMwUnYyMzdwNkNhaG1BMk55RzQzWkVjNElIZWVTaUtEdU9pWjJnR1dJd0U2dG5pdlY3MjZ3UFlWWjZwampnWGQ3U0ctZnkwVC1rdW8tdkg3X2txOVllN2Zra2VHQ08xdEVDeTQxMElZdVJWWk1VV1BMWllTTXVneGxIOEtYX1R6OUJ0WEtSTFZYNUkwbHRxMXdJZmFkRkVZV1pOUi1NeGpnTTM2d2xSMkVsLXg4MHhRNVBELXBqdElad21oSThxeG5sX3dMcXE0Y01GZXBEc2lPaVdtbS15R09aRktQYlhtTlFkTlh2MWp1bG9QY0VZcUItTHhzZ2ZOVjB3YzhHMElHcEtP?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 01:34:54 GMT",
-        "discovered": "2026-09-26T01:45:06.395709+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "النتائج الأولية ديال الانتخابات التشريعية فكازا.. البيجيدي متصدر فالفداء وعين الشق والحي الحسني والنواصر.. الاتحاد الدستوري ربح 4 دالمقاعد ومنيب حسماتها فأنفا.. والفرز باقي مسالاش - كود: جريدة إلكترونية مغربية شاملة.",
-        "player": "",
-        "content_hash": "38e58330a2205247b2fa0a6ee290c514dd6f1d7ccc74961f9224fd13564cbc76",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 5578,
+        "title": "تمزّق القميص… مشهدٌ يتكرّر مع العيناوي في مباريات\"الأسود\" 😅 ! - Elbotola",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pZC1GNUxaMkwwN2d3Vlo3ZzM5WUxXaWE5UzRnb1M5S096UWM0VVdrRm1uNFdDaURwc1VWUFN3VkhtOEJJNVFldXVqaHpDLXlITHRnc0h6Rm1PM3p3UGYzX2FpUGRuWGhjRVFqVDBHcGw?oc=5",
+        "source": "البطولة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 13:39:53 GMT",
+        "discovered": "2026-09-26T13:52:22.945696+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تمزّق القميص… مشهدٌ يتكرّر مع العيناوي في مباريات\"الأسود\" 😅 !",
+        "player": "",
+        "content_hash": "b3dceb7a14a7bcf774622836a540cd56bfbb20b0e8e03612bf6d81959dc5d957",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5579,
+        "title": "بند جديد في اللائحة.. هل يحق للأهلي استعادة لاعبيه قبل ودية مصر وجنوب أفريقيا؟ - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxOMmVoaUNqb1V3R3RIa2pjNHVjeVljdFRlYkYwVXNhdDhfVF9kUXgxQjJ0ZndkeURRM0lPWGFEdHFHb2ZvMldiRHVJczNCdjRVSnJHd1NxTkQ4M2pkaE0ySDhRUGR4OFo3M1V1am1yVU5qaEhXRXh5Q0dhZEJJdHRBRHBsS2FJMjcxZDF5MkRqcmw0ZXFkZDlVYzBRVmRrODJSZUFZdGR3eG1GYllSNFpGcm1BZ0xiQ0t0b2RaSmR4STY2ZVpMb2UwUEhhUnM2YllIcEZ3NVJzbGFHY19UUVEtc0JtTGluN01OLV9zdmVFbVFTQ1Q4UTlIaGdZbndGM0tBNXJab0lWRDMwUWI3NVJVRlI4UE1qRVpsNURPcHZaUVg2NzVpT3BYY3hsajRETHE5WkUtdHlNTGFzWElCUVBBSFgtUWNmMzVORnlEaWstdWE1dmw2NllSTFNwRk5ldjZJZW1KcHhUU1dhNWJ4MmU1MFhUeWc3ZWRIbk9iNGQyQWZQSXNyUVBiSWhDQW1FUkNJRjBHMnVVamVoWW4yUl9wODRfYTI2Wl9KcHNYTm1Wa2hPRXFNU3Zib2dFNnM5V1ctQVF6MUQwcWFqbklYbTVvbGc1Rm9RV0pRaGFObEhIQ2E5QmVLWndJaG9iekN6NEh2ZlR6bG9nUnhqbFlhSEQ4VkE2cThFNkZ4TGVTaUdqVVZjY0JndzFhT29tbVFVVTFpZ29xY2RYY29jZnFCaVJ6S0RWWEpsblJha21ZRjdTX1JzV0loQmlER2VuVmZKLVFUMjVpeUE3QmxQeUxLQnBpbEs4dVRGUmU2emtKR9IB8gRBVV95cUxQS05oUDJQNk5vdDMxWjJIbjNmZHF1NFZhV3dzdDhHcGZxYWR4ckhpTFkzSmhPNVAzemFOa1VDVExxbkFzQTdGb1ZBZ2Z0TmNjUHFaNlRhaUMtNWhSWXoxN0c1aU9RZHpMRUZBVWlGUkhHOHFfdkhnS3lvTjlfWVhPLVFUTmp4c18zclIzVmc5MlVFdlRtZEhDeThucWZTbVZDVWdsZEd4eHdWeWVFZXdlTUZSU1dVV18xVllzN3NFUFNBMkloU212N19KUFdfV1dMbDktWEQyVzA1VkRDZlVsdjJEdEJRYllrRXpOb3h2RkgxLUFhNEFhX1I0eEpXOUgxNlBoN09zSm9ZbGFtUEQybTZxa25fYnJPbHNZNGxROGx3TW5JdFVQU1pqWk1kbmNpcE1KVXhuN2R6azloRlpYS1pfajZhUGxuM1pKYzFrR1lYRjA5R0hRODVuZVB2Q19Uc1FqVW1yUFFXLVBpNEh6aWVSS05XN3BqUjdDbzFfNlBaSlBYd2NocjV1OGg2MTdKNnhPTkc0eGxjTEt0WUdyR1EzNXg2U0MtVHJCSks0MmdidlZPd3FPSjl6akJCbG8xRE13MHNkNkdyS0lBVngzREsxM3ZlZFFGa0NwRkJRejhZWDlNeVBQRDZpb21mb1dsaER0NjhxSmtjMGZjMzJSLTBnV2s0V1dyUTkydHYyWTN2MkRVcW81VlJPRFRCblZQLUtNTHI0Z19Ed2xYMGRQV3JhVnlKclVReHdVZVZVOHZrWmdQWXNnN0ZBUHcycmozUGpuRmxodmY3NE83M1ZsM0JISUVFTjJYb3l5V3AtYkJLUQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 13:33:00 GMT",
+        "discovered": "2026-09-26T13:52:30.371792+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بند جديد في اللائحة.. هل يحق للأهلي استعادة لاعبيه قبل ودية مصر وجنوب أفريقيا؟",
+        "player": "",
+        "content_hash": "edc0f3cc354fbf561d0ca8b228303ad2422a93b991e348cc8aaedebbc8599fee",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5576,
         "title": "منتخب الجزائر يعلن.. استبعاد آيت نوري من تصفيات أمم أفريقيا - يلاكورة",
@@ -1554,38 +1586,6 @@
         "summary": "«كأس الخليج»: 6 أكتوبر موعداً للمباراة النهائية على ملعب الإنماء الشرق الأوسط",
         "player": "",
         "content_hash": "34019f103ca36646f31317a918945e98e4ecf7323a7d9c24fe65809bbdd4e575",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5542,
-        "title": "سيعود لـ مدريد.. منتخب فرنسا يعلن تفاصيل إصابة مبابي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxPOTFUNTB1MGxwOWIwUThSSENIZnJ2YVdFR25wbE55NmZWZldxMmFhMWRpLURidnR1SERBU0tqU0RKVm1jWk9OZVZleHVyZ1VZa1I1bTZTNTlzQjJZc2NWSGJ0bFBPTGUtZ1E4RmdZTlcxU2NLQ3VMTGc3c2RSdWhfVlJJSkZPSFZybUFBdDhHVW9KSzBxT2dDRjhNY19sQkFwS25zNmZ6eTJaTXNQa3dja2RXSW5udExhc3Zyd2ZnV1RpaG9lZ21GbzFVSWNqSS1kMENLTHdsX3ZTQTMtSHZqY29VZEk5aVFXVjRDUFJDbWNxVXlUVUF6MmJEajRRdnZ6S05wN3VLb2NRZ0ZyY0lnRlZCX0NsS3M4b2lVdGM3MEVYdTQzOWxqT05QblFXR3VnaWNWQXFhXzA1bXBuUHR0emwxdTNDNFd3bmQ1Z09CQlJTQlpyTzdhcEYtdkZvU01uRGFYS1oxLXJmUXo0aEV6OFNRVlVCazdDU3lsTEY5WU55MzBWWDgyR3NRY0VJUmNkbEZSTlk3ZTBuY2Q2d25OelZQVFdnZ2dic1ZxaNIBsgNBVV95cUxOc2EySWR6d1Q0YVd1YkMzRmIwX25KNmJfVXJOVDhrOTZuMjlORE51bEgtZ01ZX2JfOXU5Y3I1a25nclYwdWRublItM0lURkpLRDZvRzFWZWJNLWFpV1U1SUF3RWVPaTk2TU1XUjBRbVBNdUMyblhWSlNhUVBaZlVkd25COFdxSy1fYU5Tdi1BbGJ0RlkxNVgtcUM3SVpTTkRwUTdGNkxTS0hWRXlxQ254cnpYRlJqbjd6Nk01SWxHTlBPOHJ4a2VlWXNiS1FTV3l4VnhpY01xT0tkVGo4UTZ5UlVJSzhWMVp4RkFLMGJMTWR2MnVhNUVBb2hqSGxucXoybUFDZHZnLUtQTHN6eVI0MUZQTS1VdXBMSHViS1B0UW9UemxVN3VqQVdIS19FcWNBNjFLNWYyaVRvcHdxUVFpNF8yUHdJUWpHSkpKOTFUbDkzT0lwUldDUlV3ZGtYbFZwUkNKVGF1OERrc2d6dmctZ0w4R2M4SnJfbE5lZ2JYRTNPYU5RWkU5VmhBb2VUcWJ2TFNDVnh2ZUcyS29GQjRjV1ZTbS0xLTN0dU9xX2hTRk1lUQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 22:18:00 GMT",
-        "discovered": "2026-09-26T10:45:26.540358+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "سيعود لـ مدريد.. منتخب فرنسا يعلن تفاصيل إصابة مبابي FilGoal",
-        "player": "",
-        "content_hash": "336d4a75c992618fa5913ce3e87a9cd115e5c01b602f00a14977a4d347afe019",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5389,
-        "title": "تصفيات أمم أفريقيا.. مالي وموريتانيا تنتصران.. والتعادل يحسم مواجهة بوركينا وبنين - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMijwVBVV95cUxPcGVPTkRUTXhFX1ZUcWtBRkdMRy0xN1BFQnVLYmdnbkk3cU1waDcybVFKT2xlRmRaaTN0Q3ZUdWZZXy0wdmZoUFQ0ODFoakd2TVp6cUt5a3FkemNGUmFKajUtR1RqRUtMVjdBZGtwUU1xSkNtS0d0Sm9LM2t6ajRpcGZRZ1BTcTRYQm5VbFMwM1drUnlFSEhLTlVGM3Jic0hZelJwc0hUb2NYNWFkdmVPVUl3QkVZWGlQNFhjQW9GQUthaDZzTkhFejQ5bWZiUTRnelpCTFh2SHIwM3hWME84LWpYcUUwLXowMVI2M0pmTlBuQ21janZ1TXlSc3MxQW1sbGk2MEJUcE04VEpOVjRJNmxqd294blAyVTBNV0pqNVpSQlhQWmNrRklCVUNNdkRNYUdqR3EwNDZ2RHdhWDQ3amk3VlhydkhZQktyeUZVMnUyZ0FLUlFudFkyNUJhZ0prVjhfR3c0QkFjTjhsa0lPalU3RERCYXhfMXlPQzdSdWtYTk1WbW1HTi1IUmdhby1mX05wTWNRLU9UVlJUTEJzMFVkaUgtZlNaUm9XV1F0dC1FT2VqclZ0NGdmSnFTQVpKSHV0b1V3UGx3NnR2cXd1NUx3dTBxRHZoNU54SXV3WUFaM1A3bTk4cnNfZVRrcVl6XzNlU1oxQkhobDdId2FKZGlGVndEcFk2X21kcHdOUzQ4bks5N1hVX0Jjd3lvTGhfa3pPRGQ2c3VBcTZNTTFLU1JoMmlvVVJkY2o5SjAtUnRJcjU1UGtRdUQzOWNHY1hzdEQyWXAxcjVpSmtSUFFhNnlfSzF2RHJzQ0hsMWszVDNkSExZM1h3OE9IcjM2bHF3SEpYS2lJR0h1dks4MFBv0gGUBUFVX3lxTE51V3RkWDNTdmMyekFKWlFkR1JyYlRZcHQ5SUZkNV9FQV9DYUNBY3l3b3JIaUswQWl4eUZNaWFGeGg4dXdTeWVBOWROeU1weTJCR1d4SUNoaHFRZm9GMW14dmRqd2VScl9fVFhrWmtvOUtvcmliaHhjUU0ydmVKaU84YkdLcm56YWpvcVVSdHNwMnM3cHppX2wtTTJaOWFoR2RWTWgtMjNUdnFqc0lDMVlSM3RFWHhyOXRjZEMwSmNfWkRXQzk3QnQ1bmYzT2FLOERkckswNm5rOGFuQnVlQ2ZhQ2JnNWE2UC1OeE1tMWdBMjhSTGg2WHFnZkJJQ0VCWXhwSWxzNHRWZmJxVkVKZEN0RExLZVAxM3l1NUh3TkdpdHdydVhsbDR4X3VMb1FwX0J6VXlxSTZRN2l6MEdrcnBEVnNaeDFqeDJxVlJ1NzhDeTVaUE1URVpjRVY2R3BjME9sN0puY053bU50Z21JUUJlV1BibVgyYWt2X21OTXl4dmV2RmJpWjdzN28tc1RNQVFxRlA5azN4RlUtVnBUNEx3cm10Z200MWFPd3AyY3NPbk8xekx6TUYtUDNNMkhSRXo3ZFp0c202a2l5X09YNmJWWnFKejMzcTVfNmpEckxHQmotR3A1RmFFWnZkMF9ENlF1WXJ2NktEcU1BdEZKNWRYRVZmbnIxUjA1VXZCVzd0QnZzeEJLeW1naFRhVFVQQmpqbnVHenRfcjlscElteTdGa3JJTUdBMWxWbWh6dWFQNVdRZFhjM09lSlpOaVZfNlRTemFhUGJoYkgyTzBhazZvcVg1bXhNUG9MWmlPNmYxTkdiVEhqQnNRM0RjMGhBaTZOZDlRamtReXBNVjg3eWFmYmoydw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 22:12:00 GMT",
-        "discovered": "2026-09-25T22:28:39.833229+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تصفيات أمم أفريقيا.. مالي وموريتانيا تنتصران.. والتعادل يحسم مواجهة بوركينا وبنين يلاكورة",
-        "player": "",
-        "content_hash": "79b5c7d11ebae1dd44a808b9bb2afe26b94c0f399e6a233251c3007e99ce2d6d",
         "sent": 0,
         "section": "sports"
       }
