@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T09:07:10.909532+00:00",
+  "updated": "2026-09-26T09:21:49.192634+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -806,6 +806,38 @@
     ],
     "sports": [
       {
+        "id": 5514,
+        "title": "كأس الخليج - الاتحاد البحريني يحتج على مشاركة مادبو مع قطر - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPa3JweFVaNDdjRTJDSVFQejRlT0FGcWxTRWJJdzlXSldXOXlLckJyNk0yamQ5eERfMGVrSVhHQzJBcWlFTDhUZ0pFRENYMU8tWldnOGhSbkFWOU9KOFdsRlRvdDZGbmlmTGhic1RfTWcxajI0RWNPRW0tUjZYZ3BjNVhIdlpsSVJXa2Q4NzhKU0JuaWFmUnEwRjF1cTlBRXpnbm85alAyay1OM0JHUkNOUG11ZjBmRDVtN3VJM3pPRnFISm1PRWVJbGd2ZmMwMGpWUm16dk9nZHQzRGs3aTM4VzAweVZIZnMxVEFzNTNfY2J5TVFCTzU4dzFCeDllQWhuNTBTTUEtWXc3MXFfc09LQzJpWENLWjlRSDJhVnVCMVNpcEdZNlUzRG0yRmF6b0VzMEEwWm84djFJM3pXdXhpVVE1Z096WVlSemJoQnRUTEMwYUNDOElSUUJZdDFuaUIzU1VMYXlOVHRLSl8yR0hkNjdkZnJaN2RSU2txV21Pa0Zwb184Q2QyZGIza00yWHVzY3ZqakhMbEZsdkRNNUt5TnpoZlp2eGdpdExwVTlzckItRnpUZjJkMkhtbmoxbzRsZF9zdEpNZ2NHZWpKMl96NjhqOXM0UdIB2wNBVV95cUxQVHcta21Fazd1SVFSeWUzNUE1MDlOZjQwb1p1MEtLdVBnbGZoOEVBckc4bTlnaWY2MjdWNEY4TDhJZl82R3NZT1h1Qmx5OW1JVW44VEFiMjlKSExjQ0lUUm1hM1NSa2I1SVN3RnllUTVXcGVmME1UdEtzelRXVlo3c1dkbUhyaXM3UmVnNk92TzBITGE3WXd0VW9oeHhHVFlESThHYXFSbGY2cXlqQkFQYTAzUWY1VTBOUHRkY3dOS0dWMkdUNmtLT3RTRXF5Um1ZS1N2WkpFVlhGVmVfVk4zYXl1QUlpTzdvMUU5VHhBdWV2ZTIzNkJ6anZZOUk5a0FYYWNpc28yQ0lsUWlDV25uU3BhSWVkQjl2N3BnV050VEpZN1l2Y2VaZU1KUnFiWkRrS1NENnB5Y1NpWjdCSjRWRVhQNWpXTzA0RnZIUDgyMWo1alJrYXFZQnlhNk1EVExQOE9ZNzJLMmZPbVdTc3ZCTVNBOHZGbkVUS09YLW1tM0lYN0N6N1RyOUttR1cyeFR6c1dHcFdOaHYzVHdSNkw2aGZWWW1WX1Q5SmNEaUxQTEsyYXRCYWlJMDZib0hqenZqd1ZMMWNpZnh4MHVmdXk0U3I4NEdsd2xCS19v?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 09:08:00 GMT",
+        "discovered": "2026-09-26T09:21:37.261240+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كأس الخليج - الاتحاد البحريني يحتج على مشاركة مادبو مع قطر FilGoal",
+        "player": "",
+        "content_hash": "a701a6d3658a502a1d00704c780d0ee45c1e5d349548194868e0727985ee6263",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5513,
+        "title": "المحمدي: توتنهام سيكون الفرصة الأخيرة لمرموش في الدوري الإنجليزي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxQMXB3T0pkRTlPRkpfZ3VSVVVWaktaMl83THJfWi1ZSERueGxDa2lKX1NGX2IxaXFSZTMwV3cydVVrdDdsRTVpOXJuaHpqY0lDbWlQUTd5eUN5dTE5dzdxRXRxRTZzTW1sSHNOc3ZxUkVrNWh5eWF6MTdTSXlMaWs1andTS1FtdmgzZ3ZQTUlRMjdJVHoxSTQ0YmcyZXVjY2V2WWl5VHVqbnU0RzZEQllHVTVOdjJDVXdrN2diZTVOZHA2UklkdS1WSlBKajN6TnU3cUwzX3hLcFB6QTZRTVZNNEpwYzMwVUFyZnZRNHFjVW82ZEVaNDhvOXkzNXhRWUdkTi15ZkJWVmFNNzlRa0h4NkxCalh0V0s4ZWhSTHlQQXFqWmpQU25hZ1ZKQTBRZnE4Zm1RS0tpWEpLMW1ILXVFZ3dMemdfTnl4c2dxT3I5eEpyZEM5dmxYZjJKWGVTeUs1Ym14amxrWGhaLWYyVFJ1X2RyQkZybWpaQzRMVU9iSjFaYkt3XzhBVDhGNGRZOGIwRUV3RTBVZlJKZjRMa2dMYW9FOWIxOWNtRkhXZTltMEpWaE96enJ1bVdrNWcyT0RrLW9nLUxQb3hJQnBqNmxWdVlUOEs4RlZBUV9uNVNOQkl5OU5XWlpqU1NiTENsWGFOMFNuWjFSVnp2RU9ZNElnQUM3LWsxeHZrU2hqYzhmLVpwRVpiNFYyY3pfWW84Zw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 09:06:00 GMT",
+        "discovered": "2026-09-26T09:21:36.703859+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "المحمدي: توتنهام سيكون الفرصة الأخيرة لمرموش في الدوري الإنجليزي يلاكورة",
+        "player": "المحمدي",
+        "content_hash": "e27297ab33339731edcf9ca8a53ed29aaa2b41e365555e0df4c39969f32d1e0d",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5508,
         "title": "148 هدفا في 3 جولات.. انسحاب وغياب عن الملعب ونتائج قياسية في دوري السيدات - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxOWmp0TjBfSG1INmNYelg3cm90M1kwVFE5bjNubFJqZmI3N2NpY1c0dlRYTmkyRnEtMkVCNUZNb0ZKZlQ2X25wNW4zWldJUWkzMWkxWmlpOGpRMlVjaGlZUU1pb0w3VERpSlpLQk5RR0pteWxkM09za21oSXp2QXRPUmY2MFhLLXZta1pQTXlzUW1NbGhJcEVrN21tVThRZ1V0ampiN081TkVfOU1OamdqcThhVk9DWTRxWnp3NXV4YzlTNnN0aXl3RVZsRlcxOC1hSDdXZjJOZzJSR2libXkxdEY0aWNOcTdfXy11S184Uk9DNGZ0eGpDbUt3YmVuRHhjNWZfQjBqcVhRZUZfeTNueE5XMFE3RnlzWjB3QmJRREZvVVlxZnhxUUcxUDBRSnFkNFdUVk0yd2RCc1lfRy1KQ0QzM2tucm5DNnZiOHFIVjN3Slh5dmtDOFpGUm8tRlF4R2lnTGg0aXVMTU85NFBadW5jcHVienU5ZDdybFR2dWJOUFJfVkNHbnpZUXFfWExyWWpjb1ZnbktIMVdSVjYyVzZCODdDZVpSM19kX0U1NXU0SFhtQ0RhdEZrbnNYMW91d1FsaUx2bFVMUVBOU1UwQ2N3NmtkcUlSSmVaempJYTJzWC1zZmpkMWtsR1RLU1FSOU83Z0hySkRuWGlOZ21lUjVuRlhEX1lMSGdzaldqbGdEQzlPa2QzWFdYR1BhRlFNTzBRaWVWWFJaclo2c3ptNGJTLVRFaFNrQ1HSAb8EQVVfeXFMTkdiVVJ3M3FSZlJ6OWlPalZoSUhtRHRFSkVxYkF4Q29ES1VwZlMzWWpSVERnbk5FRF9HSFpUbnVsWHAzc3hyU0l5MjMyRDBvUHpoN0R0ekEtdzlUUVl5TXdZVHlZdllWblRmVnhmSEFvRWFLSnEwZXhja0pnSkhNaDVUVjE0SktuTXFGWEFNZFhyVmdIYTFIWDlSUGtlSGNvSEJUV0xpaVc2MWxKdF9GTGxybW4xV3Ixa2NvUTE3WHhMS2N3ZlpHeC1Lb0tNdWFQVm9TY2JoRk9WWVpCT005NGM5RXQ5R2ZVMkE1anI5eFc3dkg0bGFEbWlUVzRfX0E3cmYxdzZ1TkVDeUk4RThGdXRHOEZVazBkeEM1RzVzbFNvSWR0aTFkd1RCZldROHB3Y09tdWY3aGtIejVHNlU1SGpRbnhQRzVLUU15Q01RVlpUUkMtcVRuSHBsQWVxbVFudlJKWXdKOUNrUks0c0w5Ym0zd3l2RFpSMURYNDNHekpySDJzb04zSm9iMlpuLXM3OFJmcTJtQmZsRlJ0ZFJQd3U2QzhXWHAtWUl0YUFzWUNQUW5BUHNFWi0wWW92TWVNOFFTazVOSDFwNlFsWC1uR0VfQ2MxZVpXRlFOTEt5ZEZKNXFUV19PUDdPa0pZVFVSaHMxcEVmeEVPRlFJcjc0SVBkRFlXNkxsdTBMdkVKUVA0eldmN1ZBSHdmaUxCSU85c2xVVm52TGc0SE45Q3RKRWd0WUJmcHVvNjh5V051UDQ?oc=5",
@@ -1572,38 +1604,6 @@
         "content_hash": "7720833335e6002929b8df57ab4dcd2530736c0a7b9bd1137fb2ba055ed6a085",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 5330,
-        "title": "تصفيات أمم إفريقيا - السودان يفوز على إثيوبيا بهدف في الوقت القاتل - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxQUEVuenoxcjJhOWI5eHJwbVJYQjRCZTJzOWVnOGk0R05sa3hQekcyYWJCd2lSeWhzTTR5dF8tb2lKM2lRUWhDZjh1Tmd5WVRSdTJfblRtekRvTUdBOXlmUFNzWGU2WV9GU1RHbFpSYjM1MVdhZFRKSmY2Y2NLLTNITXdCM01LdXBYZDNTR2pCTzRVc29zSnJJS1dEa2gwNjcxTktvNVV4N0RMTUJyUXVXSmtSYWN4RkxZbUJIcjRLZ2dvSl9JTjluZjlKOTJEdXFYXzh1SGE3ZXpnQ3VraUJ3cjg0THUtUmlRWUF3VHR4SVFpSVpLRWFXcGQ2SXdtLS1pSzNoNHpxWmN3cW9TSW51aDhpSENIN1ZxTm9Fd25MOFBKT0syeE1KU1RabHZtSlkteVpZTzhJMTlualhuOGxSMFBtbm55T1UxX1FJV2VGQ012MUI3cE1CX05aLUZnSkt4LWh6cDhtTmxSeFZOQk55YTNvdkd6NTZmOU5tM25fTFZmXzJWbXVXLVBKb200bU5lRnVmelJ1WlMyd1drSW9NSmt4ZXNzR1V3a2w1b3BGQ3BxQUpJUWd5NmNWeXFweFVlSGtvMEpPZnVLMF9iMWNCdmszaEY2dFNET0Q0cDltNU5DcGd3RENLTzRsTlRIZ2ZqdUlzTl8wcTRqNDIzdWxrQVhVTG1XRFlWOUJkV2JVONIBlARBVV95cUxPQmZ6dk5DZ0ZIbmx4V21BV2VmWXpEMVVLUDFIUTIxb3U0UzYwR0VLUFRSTThzUll5amhsVXhEUmJTaVdDaE5odWVSSTVLekduc2MwRHNwODFwUTRUdXN4WE9rN201Rmc3WVlpTndDUi1sczN4NEtTN0FKajNvSFd0MjkyOEc4WkZCRElaWUlaOXlCaGhBUDJZYTZJMGR5TUxMTzZsaUZHRkd0VVlPUUIxWUwySzRrUE1LeW5BT2xKUVUxWU9Ub1MzU1hjN3RueExlZjdzUmF5Nlg4dWVscnN3aU1haEpjVnVHajVIajRmckZ5MWRMdXB3dElnVlVSbUxlMlpqMzQ5NzVhdmhFR1Y0WDRCZlBHQ096VUNtaXptS19rQjh0cmRPc216SmR1aXItSkRwdjMxNVdpZFlpRG51bnFjZ2J3Zkc3TE9fNzhBbEo5aTV2bnN4XzFkV3RlZjd0aVlLTGVUWkNYcFRhZ0s0YXZzcThnNW9EdnZKNmdfYks2UHpKSzJRdFBfNlJHQ0tuc09SV2E1dENhTjFOcEJKRllCcmJOSUJIcXBPcjNvUWxTaGR2MTF6RVBTWXFFNXZzb3FQSzhSck9ldzR2M25DSjMtSThmWWNaUEJDajhKWFdBYTN0NDJ6THAyRk1fRE14eXNKYlRGbHhnSlFYWmRMeF9tYWRQTWI2UFRuRERUWU1QZllD?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 20:04:00 GMT",
-        "discovered": "2026-09-25T20:16:49.627894+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تصفيات أمم إفريقيا - السودان يفوز على إثيوبيا بهدف في الوقت القاتل FilGoal",
-        "player": "",
-        "content_hash": "88ff315b7190ef1df4526ac374b104ed12bfdf2d28d0888205987d97117051ff",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5329,
-        "title": "لأول مرة منذ نيوزيلندا.. منتخب مصر يفشل في التسجيل بالشوط الأول أمام أنجولا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxQbUkyeF9HVk9IU0swR0hNNDZYT2JNd3hjMnBncmxVaU5Ua2tfY09DTkpoRGtUeUs4dThKc05vcEZFRktUQ1d6MmRfZlRqNTUzdDJ5bGpwYVdMNUYyNHk5dW9FRlVQZm9SYnJPM19BOHZCS2pCN0xqWWxJNUhfbGpUdDlSanJpMF9kTEVFODNSYlFCWHc4bGJBdk1kUTZ3cW1Wd2p2dXdzYWpOZ1pjVklvbmY3RUdVMUx2Q3Nxa0tnaHFIZDd6UkFhTWJKYlR3S2pha19XRFRaUWRvR29JQVplc2VpTUszbl9NbEV4M0lRSUZ2Sk15a0E1T1JhLUdfa1lrZGN6OGZyeEs1R0RQcDRHaEx4V1Jma1psNjJQUFg4U1RrWHk5TFBudFFGZFgwQ1hfeWlSbGVVTzVGbjFZWDJBV2lCSWJiS0JlSDRMYkV4WWQ4Y1hocFJkbE5ZMEs1U3cybVV6Rjc2a2d6LW9iT21LbFl1aEV3WllFTkYyMzBXenVxT1NJRVh1cHFycHVWV2JsWlFMOGVtLUhFb1NwMVdBN0ZvRS1GSGxZMzdXc1M5SXF3Z05tTjd6aDZKNzhQSUlfWF8zWGFJVW5CQXZwSDFoYUhJVHFCajNrRF84SklKYWphV3lDMDg4TUhTeTQ5eURiWS1WNEtyczVFOG8ycVRMVVBjZXRuMW9kQWZEdUpWalFvVE9fSHFMb2tBd3pBaTVkY2ZIV2R3dEU2bkNSWlBZWXE0X2FGYWNhOXJfakNTMngyTnlsTnA0a3VqWmVNS09HU3NEc3c2N0dtbmRsRzc3RTNR0gHnBEFVX3lxTE5YdzZabmVCeHFQU1FiMFdtZHJOeFY0dVUxVjFZbVNqMGljX29udmx2bHh1VktFRzU3QjVCV3FQeUptWGl4RzdLVEh4X1NKS19KQ3BRNEViU0lpVld1ZVB1cTVBMVlGVHFXckVMbWRsZEhfdlFwYnZMdC1yRnZWd1VjRWszcTZNQUR3ZC1vSFpkQUQtelVUOS1TUUt5cHhINXFadVF5LXo5dG04N2ExSm53SndueGRUZUN3dTB1dGJtQmpVVmpLekxhZDlIaFJZalFqQXZQeHhaWHlMUkxMajhkbzlSdEM2enNUMXN1SG9PMFR4OVFxc2ZpWGxkTXBJNXBKSlJVVkZCQWp5Z2lVYUNfaktISWpiUFQ2d0VfM2dlMk44bzhlbFVCQjhlWDhyUV9mVVVFblFBand3NWltdnoxYlVUTFpWUFB5UjlFd012bTlYNGNCdHlQQXVXOGhCT0tfV0ZpOU5RLUV2WHNkMjFyOG1udHltY1dHREpIR0c4dEhpbWJqbkFIaTRRQzlSRkJsTzVFZjJUa0JTY0VNUGpSMGNiN19sVDVTUWJ2WWdmcWRLa1RJcm9tQmhMZGNVQXRzYURNSWo0bUxyX0lWend3NVNYUFBqRDlYSkFWWl83M3V6WjgzTzM3QUxrZzNtOWZZdFlISk5pODZGNlJpTGtjRHVSN0hFdHdIY2kwMGotVzlGOU02OXg5WGdpZUlvZVlaY0dENzJyaXFqb2VmaTR6WmNKMUQ4SUxoSTVYY0dLTUZmOVdTSUJMOTBvRTVEazBKMV9tczBCTTRYSmlPdE1Vcnd4VjZaNA?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 20:04:00 GMT",
-        "discovered": "2026-09-25T20:16:48.869810+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لأول مرة منذ نيوزيلندا.. منتخب مصر يفشل في التسجيل بالشوط الأول أمام أنجولا يلاكورة",
-        "player": "",
-        "content_hash": "0bd4ec56e0c5b8c6249f631b9339de1567ed5ce616a5ea709f6f6ddfc6f31ea5",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1668,6 +1668,22 @@
         "summary": "المنتخب يفتتح تصفيات الكان بثنائية أمام الغابون - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
         "player": "",
         "content_hash": "dc4abc8afe72d3d8428cfac8be52c7f6f8259ff6efc39688d9e2f25c764de73f",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 5512,
+        "title": "لقجع رئيس حكومة - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hck5YMTVKTEdFR29qXzItRTYyQjhpUXc5UEtkZFJFUkt3em90MllsUFVSbnFqUzJhdUp6aWNvNk03d2FweWl1Wg?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 02:05:46 GMT",
+        "discovered": "2026-09-26T09:21:30.978702+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "لقجع رئيس حكومة - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
+        "player": "",
+        "content_hash": "108b62acdf3e1b192f1c91160c7a0c62ba78ca2df478c00833026c7a98faa24e",
         "sent": 0,
         "section": "transfers"
       },
@@ -2166,22 +2182,6 @@
         "summary": "رئيسة كوستاريكا تقيل وزير خارجيتها.. بسبب \"اجتماع ترامب\" العربية",
         "player": "",
         "content_hash": "6c10cac9a6194766629eac96eea51da81fb82d46c45a6a70e4d37222b3bce054",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 5064,
-        "title": "أزياء ميلانو وترمب والانتخابات.. لماذا غابت ميلوني عن الجمعية العامة؟ - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPQ2Y2UXhodWItM0hUZGNoMEE5U3l3dmx2b3pHbmtUMTlxRUFQZ2w2YV9DaW1kZWw1TWxUX3Z5SFJpQm5WMmN1ZE5tTWhoaW50dlZsNmhkWi1sT1BfdmU3UUFFZThRZG5SVmliTlczczVmeW9uQW5zLTRjMmFsRE5qZUVnWndtb29sMVk4WkVLQ0o4QVZvS29LZzBkUy1xXzZRYVhSVktGU1ZpZ0JRYW1BYkdYQkZFY2dFTjR3Zi15OTVSSFdFVDFGWlJ4ZnRhVWJKMGpsZlJKVXhJVFpDRWpBV2VpaE0yZU91cVJMLTk0MUtnanVHMzY2QVhWZUh1QzZ5M29nMDJUakRjTmk2dmVpdUNSSUlnYmRaQWN4ZVZHaFBObjhtQTktaTVYSzhLYk9RWEZkcDNhVUxHdTYxcHFEc01UT3JVVUFwc0pYU0FiQQ?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Thu, 24 Sep 2026 00:27:29 GMT",
-        "discovered": "2026-09-25T02:07:58.605746+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "أزياء ميلانو وترمب والانتخابات.. لماذا غابت ميلوني عن الجمعية العامة؟ الجزيرة نت",
-        "player": "",
-        "content_hash": "8bb676c362234a9324a117478d51541fdf2adae7975bd94e52fd13a91a074325",
         "sent": 0,
         "section": "middle_east"
       }
