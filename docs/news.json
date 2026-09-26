@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26T02:47:40.437341+00:00",
-  "total": 142,
+  "updated": "2026-09-26T02:58:09.942615+00:00",
+  "total": 143,
   "sections": {
     "morocco": [
       {
@@ -16,6 +16,22 @@
         "summary": "وهبي: مزيان التنقل لإفريقيا باش منولفوش رفاهية المغرب.. واللعب بالشباب ليس مجازفة Febrayer",
         "player": "",
         "content_hash": "894b2397b1239c69ec73e28553662f219c833d2bc506f3a57e6ea942e2acd423",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5457,
+        "title": "فلقاء مع بوريطة.. نائب وزير خارجية ميريكان جدد دعم واشنطن لمغربية الصحرا وتعهد بتنمية المنطقة - كود",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPSldoSm1tWl9oZ2tQd2ZWMDdtNjVla1B2d0IzMkl0a1VLeUJFdDhaenZkRDlVSHJ6c0MtMmg4WFFySC1KaVg0SENuWGp6RTJQRDNXRVJtUXNVOXViLVlWaDJwM29zY3lyUEFXMFFlbXBxWlFMTXRudnc2VURzejhSdWtBVWF5X0h3XzZJVGxSaUtaNGJUVnhIYTlkNnBlRWF2cnBiYTMwZVZqblZ0ZnJSZldrUGxWcmJ3RXJqd0h1U043MnpKN3VPVjZwM1Y3ZURGY2ZZOXowSjktdjZhc25UYk5nQk96RDRyN0dFZDdLN2VFeThLZVBReTE3ejAtaWxuUjFmUi1BaXVrY0xaeFY0SjkzdW1BTnFIWHU3VE5INWF6b1VwT0VOaFA3cHVIcURhWjI4Xy1UeWJiRHJOUy1Ea2hORkRXdlkyUTFz?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 22:52:57 GMT",
+        "discovered": "2026-09-26T02:57:46.067644+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "فلقاء مع بوريطة.. نائب وزير خارجية ميريكان جدد دعم واشنطن لمغربية الصحرا وتعهد بتنمية المنطقة كود",
+        "player": "",
+        "content_hash": "c046253384df419d16cf3f75d66652313dea0a1fc0e4d810e11d9b9febe0ac52",
         "sent": 0,
         "section": "morocco"
       },
@@ -128,6 +144,22 @@
         "summary": "تقرير دولي: حرارة مرتفعة تطبع أجواء المغرب إلى نهاية شهر شتنبر Hespress",
         "player": "",
         "content_hash": "4eb7c809a054e3a0f51e401d89610170b26e6dbb04e159505a15d058393fe45a",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5459,
+        "title": "الفلاّح المغربي المدافع عن الأصالة والمعاصرة! لولا دعم الناخبين في البوادي للاختيار الحداثي الديمقراطي في آخر لحظة لأتى الإسلاميون مرة ثانية على الأخضر واليابس - كود: جريدة إلكترونية مغربية شاملة. - كود",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPa09ObUhpSHNjVXZaQkhmRzFlUWJqMkVnLTAwcGJKWllRSlBlQmxiUHg1WWxaN1l5VDdfTU15bXZ2TGZOanIzU0FHaU9ub09xd3d4dkJuam9WNGRmdmhOa2w4TWhpQjBqZUpzMjJpWUZDV0FBRVBtanlVOVJSYld3M0RHOG1lNi1zOFRXLXFUSzlqdWhhM1l3bEduU1VkUDRocV9tZTJQYXdxNmViNExIUlV3a3prM244cC1FVEM4dTRqYmFVdWplYWVwSFRySGkxTFMxZk9ZUm1nNXlvQU14VHQ2ZU9kb3BBZEtqdmZnQVRCdmtYa2VFMzNnb1VtQ0JnOXB1TXVyQ1FGRU5GWnI1OWJHc0txaDVUcW9BMEFEdTROZ3d1a3c4TW9QVnFYOEVCc1NxU0hTV0JuM3QyX1U3bFh5bFNjRGROeWc?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 17:41:46 GMT",
+        "discovered": "2026-09-26T02:57:46.085802+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الفلاّح المغربي المدافع عن الأصالة والمعاصرة! لولا دعم الناخبين في البوادي للاختيار الحداثي الديمقراطي في آخر لحظة لأتى الإسلاميون مرة ثانية على الأخضر واليابس - كود: جريدة إلكترونية مغربية شاملة.",
+        "player": "",
+        "content_hash": "2b28df566b6ee5e576fa63077ea7e1eaeba9ba665795fa0ec1ef3cbd15970baf",
         "sent": 0,
         "section": "morocco"
       },
@@ -770,41 +802,25 @@
         "content_hash": "0bae36c99b0aeedb0984f16705cf6b48c82a55c29d4692e6dbba557bd6093e9d",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 5026,
-        "title": "وزارة الداخلية: نسبة المشاركة بلغت 38,02% في الانتخابات التشريعية - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxONm9UaEZzRnpOWmw4SDhsT0VDWkF3U0h0cEJ5UDY4Y29nSjB2STVSbkZfVGg3OGVkbTJ4MnRjV3hXTTNQSVhoT3gwWDVnTzRJVTFqUlJNTlo3allLZFd0RGFNVTFvdnhYcU5qNXRZN2VPN3daTWw5WnltRXU5VmRWWVBITHM4SWtTNUl0UFVQRC1UZ0E4RE9Rd0dyNXhLZ2w4dkZWZW1UVkpIWDBWV19XNjBCTnZZTjltZENER3VKdmJ4cVVsSWJSUS1QY09BeDZ5WkxpX3hnTWJpNmJZLW9YcFZ5U0dZRXZwOGZ0Rmp5SkRnQ0xhWms2cmtPUkczS2VNZU8xNUY1d21ZVDJGZkplLUpFSURXY1c2R09vOXpIU0ZvRXRtLWRRWTJsVGRteG9jaVpwTE51akhqRTNySXllaDdKandsM3dPblc2eDc2UHlYbXdH?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 21:57:28 GMT",
-        "discovered": "2026-09-24T22:50:55.792852+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "وزارة الداخلية: نسبة المشاركة بلغت 38,02% في الانتخابات التشريعية Hespress",
-        "player": "",
-        "content_hash": "b123957a712b1ccfe9bb020b31d9de0dc3af882af8b941aa18931eccdef3a250",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 5039,
-        "title": "افتتاح مكاتب التصويت بمراكش - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOUUJGMWZfWXU4OUFzemFla2VPaXprZUV0TGVKYW5SOXhBczg0YjkzX280QzFvRlRYMGhvMFdlZTBYbFhaSU9xeXRBRmQ3dkd0UmhMcWtYY0F5Tk5ybHUwdmIxV1ZtVDM4Z1JGRm8zV2J1dlhWVWZNMXAyaC1DczhlTVVfTS1mOGlrN2hxUFRWTzZwRGJFN3pneHJBdE9KWC1MQldqSUJwR3d1MnRTU05ucnN5M0pUaG1tajF3OTJ0S1V1WWFhY3dPSl82ZWlpS0F6S19xVk5VNi1DT0lFWlQxWm1nNEtZX2hCZEJLN01KazBqT1dtUUE1MkthVE9QaWVXNC1BQ1c0LUM0UE9FeVNCWTF5SQ?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 21:43:33 GMT",
-        "discovered": "2026-09-24T23:28:46.564487+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "4b9da489badd8fd79a7bc6773ab9b972d5b0ac3244cc2400c017c656c8835555",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 5461,
+        "title": "قبيل الانتخابات.. لماذا حظرت البرازيل المراهنات الرياضية؟ - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPRFRsbWVZZGRUa0pSZUJzOEtyWXFoQkNjcWw2ek8tTXdORkZWbmhUcHlqa0pYOTM2SHQ5eTZ6MTNLbWhpWGtfaGRVUWl5Z1BBMHpvbmIxLWJNNjFEMDdnWkJSSl9jM2NEMnRzOXpSM3RxY0VGdUJ3VXdmSmdxSjUtQk5ORTN3emN0THlTOHhXaHhCMkhXNHZlT3pWM29NbGhlb0JrMXN4QUxLNnRxRWF3STJRb2E2YmhDeG01X2hodWVURk5fV3BRUDJqeGRVLU1ldzNxaHU1R21wSDNSRksySVo4VzZ6MV9acWt5bGNuMXRrNEUwaXV6czdIZ1A0WFo0dUszZVpuOXAxYW96TmlDR1hDUS1kVmdtZ2lFekR6ck40RFVkczZFTkczbndVbzJna3NsNmZqNFNZTG1nT09NSUtXTmV6Y3NrNHN4ZU45NmVVd1NkWnVqQUZGNUJ0Vm1QYS1zM3NHSkZZQ0dhbVpCeng2cWZyTnFqcVg0RVB4VmRacjlVNDV3XzdiRVprXzlQaHZTbmRiZ1ZiZjhzeHpmNGNvY1BBN1poMldMTkswM1RIekNkWFBmYW52QTBRNmgzbUdtTTdQbkpVdWJzQ1BIeU9PckxEdjNHNG16SDhIVdIB5ANBVV95cUxNaWNTX1FPcHFKTnlxaUxlcHBJUG5XUWpaMVAzZ0ktRXF1M09UOFJ1T2g2c2QwOWhVdzM2d2xrNm1JOUI1SjJvakxWZmc5cENOeEx5dUpYcWhJUzJqVFNEeTEyTnk4NERiRGlTUFFSbjJVY2xFQzA5NXZFbWlCNk5qcnpac2lnMTBYeHBPMEV0LS1OVVQ1LUlYXzItTm1QSkJWUEN6NVlxZUNoT3B0YXFhbl9CQ055Q3lKVWJsdXQyQVBZdG51cC1QNXNBbllzMmFvUnB0eV9tY0JFM1FmOE9Qd0pGNndIVVVrbnB5R2pYNXlfNkV1NTBja0NvRFpqbnB5ZEdHbVpiZ014bkRvWkdWNmw2anlBeEUyZFJMRU9xWC1HZ1NpaklzNEJKZVI1WE1FcTRiS0RLMjFpcGlUdDg1a2djRDNiZ0NodkpiSWRRMEdSRjdCZEFjVy00NjR5LS1BbGV0amswQm5ueFlqcWdBR0xoTTgxcVF1Y1haeGc5Mi1pOWhJUDRjc0oybEhCejV0eFZNbnJJV0tNM1JfN1hwWXctQm9CUk42QkxvV0tITlF4emZfYmJ5UERnalJpZGNSRVZobXlZcTJMX1lZQlZZY3RuMUpCTk5RRVJuSmkxOHBranFU?oc=5",
+        "source": "سكاي نيوز عربية رياضة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 02:29:38 GMT",
+        "discovered": "2026-09-26T02:57:50.797346+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "قبيل الانتخابات.. لماذا حظرت البرازيل المراهنات الرياضية؟ سكاي نيوز عربية",
+        "player": "رياض",
+        "content_hash": "71e2a549e3cafa162c1a05fe5040d39a19779de605a9345b5ceff50af145df22",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5425,
         "title": "زيلينسكي: روسيا تستهدف \"الحياة اليومية\" بهجماتها على مراكز البيانات في أوكرانيا - BBC",
@@ -1588,22 +1604,6 @@
         "content_hash": "6d5849788accb413930818d19d0ddf07ebff34a9dbb88b3e10850dca432dfc8d",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 5290,
-        "title": "مشاهدة بث مباشر مباراة المغرب والجابون الآن في تصفيات كأس الأمم الإفريقية 2027 - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNcEVYRlFfQk95dF9OSmFZY3d3SEZEa0dQUGZtektLcnN0ZlNGbkVtUWpCRXg4eU1udERNdDFkanZrVlFfM3FOR01pOXZlekhQU0lQQmdGN0NNcmVQbFllZ1lyTWJSVmFLR3J1UWhWMlV2dFhrZ0pRYVhZb2hyQktaWl94RDlMZDRPZmJ4Sjl6eDFYUGNCQkdqS0N6bjZGV1BCWlAwc3hnWlNtME9nLUE5T0Vqa1lGOW9rdzgyamVJRmVMRDRRT3g3X0taWGk3UzdONGpXWFVvVEROZFVScDFJMXpqNE5iU19Ic0tCcmNxVjBZLUdzS3ZNSmlmeEpRVGZvUW5F?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 18:29:45 GMT",
-        "discovered": "2026-09-25T18:35:29.918943+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مشاهدة بث مباشر مباراة المغرب والجابون الآن في تصفيات كأس الأمم الإفريقية 2027 365Scores",
-        "player": "",
-        "content_hash": "83f01a7f99a0f37d8b994ec30aa7bb22754e41fcbe2e2e41a54ee2f756d8385c",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1924,6 +1924,22 @@
         "summary": "\"روبرت\" قط في بلجيكا يواجه القتل أو الترحيل إلى الجزائر العربي الجديد",
         "player": "",
         "content_hash": "03fa3e6ed42621fa69aeca30e5d4d1e55fc06afe3f37f4fc0cc17d8a7d7d4548",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 5458,
+        "title": "تحليل نتائج انتخابات 23 شتنبر..الخبير يحياوي: أهم خلاصات لخريطة التشريعيات.. ورقة لقجع\" صنعات الفارق وها علاش وقع انكماش \"الأحرار\" وصحوة الطبقة المتوسطة والتصويت العقابي لصالح \"البيجيدي\" - كود: جريدة إلكترونية مغربية شاملة. - كود",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQTWxvQzVPLWJyTXRhQVBjcW0wRlVYNUJDbjJFdWpTRDBKdFdremVoLVNGU0NNa1pSVkJxOUtqZU5pWXhPb0FUc1BqSzRNMHhMT2laNW52UlI0NTFLLWVKY2l1bzdVX1FXUzVUb0lTenVqME50a200dUpqRGFCQ2RmZHZKV3lSWHlaU0U4RGIxcWlXYnpzM3AzV3lXeUlQOG5mb3F0MkdYSUJvT1dRcU9ublRCUjlLRk10Tk9INU1VR2dtdG5jUU9MZ0c5V0RlYURfTW5VaDJIX1J0dGRhZERZa0Z2VWFCank2aEZQVUpubUN4SHQyR3FOcHA0blJZMlNZMi02QXBNV2UwTWx3Njd0RVJuVnBjRGYyUzAyMEpZVnI2TDduc01CUUlsbmxCeEpQRlJvWGI3dWRzSHdjX2txM01UZnNEZw?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 17:06:44 GMT",
+        "discovered": "2026-09-26T02:57:46.081516+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "تحليل نتائج انتخابات 23 شتنبر..الخبير يحياوي: أهم خلاصات لخريطة التشريعيات.. ورقة لقجع\" صنعات الفارق وها علاش وقع انكماش \"الأحرار\" وصحوة الطبقة المتوسطة والتصويت العقابي لصالح \"البيجيدي\" - كود: جريدة إلكترونية مغربية شاملة.",
+        "player": "",
+        "content_hash": "9683f3c8506776fd6f23fbaa12594e52b94340c0aace11d5d5d738d23531314b",
         "sent": 0,
         "section": "transfers"
       },
