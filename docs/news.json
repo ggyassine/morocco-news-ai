@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T16:51:03.514653+00:00",
+  "updated": "2026-09-26T16:59:50.465507+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -790,6 +790,38 @@
     ],
     "sports": [
       {
+        "id": 5623,
+        "title": "أخبار و معلومات اللاعب Abdeljalil Chaynane لاعب الاتحاد التوركي winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa2pXWkgzaGxKWmpjRmJYdmRMMThWaXlYWVNUYk5yeDhQLURjbXUxUlc2d1BtLXZ0Vk9UaWFBWTNIZFl0N0Uwejc5TTlhYU00ZGY3RUJMdkpMV25qbjAyYkJyZFhhRlVGWWpvaWNjcHpGejUtNU1ubXlub0dEZUZUQ3Q2b3VPamRSSEMwdDQtMkNJd3lCSlVhb0lnVDQxbUJNdmpjRHpOTXZlX0RMT2tSLTdEZWhsSmRKaFd1TWZ1YU9iSUNXRUVFNA?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 16:58:58 GMT",
+        "discovered": "2026-09-26T16:59:34.443776+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب Abdeljalil Chaynane لاعب الاتحاد التوركي winwin winwin.com",
+        "player": "",
+        "content_hash": "c48cb18e38c35e9d0e58ebaf673b8170c94db0001200966aba92784ccd4a5a1e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5624,
+        "title": "من هو عبدالله جمالي حكم مباراة الإمارات ضد البحرين في خليجي 27؟ - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOWnFpbGJtMEdMY0RjNnVPQ2pXTzU4OC1MWnVTbGFBang3Q1c5YXl6Qk44RlIwR2ZuMzR1SXFQMmI3dXQwMHlndVR1SzRXQ1dBTlhTaXJsWHhERFVZOW94S0d0RGFsaUt3REdYRm1uMzl3YU5EZlp1M2VNSG5pQ1pQd1hnYkVuRHMtcEVmRHJldkp0cWNHMktFc1dOMEp3MEpFN1F3RGxBbGFpQTE1MGZSNzlUOUFubnV2ZTN6VExDUDRpbHJ6a1dlNHgzb3NlMGRLeUptdmFLSTNJMk5uVFpubHVGcllNQkFweEdVaXVPV1lraUg1MGQxVEYzYmhxaXdpT3RnY0E3VVhuc3NzYmFuNzJxM2dqWld5ZThKMkFRSkpXTXBTRS04MWNnLS0zR1NpaVNBa2NQWEpNVHdzVmZ1QlZOd3JBcTRILWpxb25EN1d2a2VCQzMwSGlkUDNrV0U?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 16:44:13 GMT",
+        "discovered": "2026-09-26T16:59:36.159732+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "من هو عبدالله جمالي حكم مباراة الإمارات ضد البحرين في خليجي 27؟",
+        "player": "",
+        "content_hash": "6b5cde58c9782889a822c79e942d357aa22e02720ee99d3e0fbd868fb793e8ee",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5618,
         "title": "بعد فوزها بمقعد برلماني.. فاطمة وشاي توجه رسالة للناخبين - Febrayer",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QLXJNWTR3aG83ZlRBLTdSTjJQUlpLNlNkUmlUQXFBVHc3Yk5uWUtPellwdHd4ZWpmRU40ekNWN1JHYWhHWkFrdw?oc=5",
@@ -1554,38 +1586,6 @@
         "summary": "استبعاد مبابي من معسكر منتخب فرنسا.. CNN Arabic",
         "player": "",
         "content_hash": "da2966f3c1c8e9054122a342e976c9b6f9dd6dbdc39dd3ac05a9965d27de8da8",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5567,
-        "title": "مدرب أنجولا: حققنا الهدف الأهم أمام مصر.. ولا يمكنك النوم في وجود صلاح - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMisgRBVV95cUxQb1VCa0JGRlBtREl2QlVZY1RwMGdYcjZBXzVpdGVNS1dudnVma0lxQVlfVzkyQ3ZDMGY0Z0Vnb0RNSk5BellGYnlxSFNDb2pxamRIT0hELWdlLWlBZjg4d212dzBZQzlXZ0Z2NU1aZUxzWHVMYlVoQmJ2ZUZSNHYwRFRlTll4NGt2UDJJY3BhUkh4RkFqTWpHYXFuYTdiQkN3M3Y3eW9TZU9veFpZSFRVWUg3azVPREQwY3RJSWd6YkFqVm12ZUhKV3RPOXh5dm5HRGVBSU9BbVBhdU9kalpBa2NyVkU4R0w5alNEWE80bk9sZmNhVTBCV3VSNE9JcmF0Y1VoUkh6cFhmTXpyRFFQMDV0eWFYcElnZ1lFMk5PRGdpa0doeVZhZlQ3QXp6Vi12MDBuOVhkWnlTNDVJTlpQSXptSXF3OHZXLVNzSnIzX0sweUxQOXREWThmZW9FSC05anVYa3BBTkxpZk5oMl9YbmxudnRRd2ZXODluaWpFaFVZRlAxNFpvWGhTbEZCSkZQOURPWmNTT181cGV2d2hCVHdFeU1zbkhhTC1qQ2NxdXJqbVpBWWwyOG11SUlDMllmUHJSc2FaaXNFTEV4cDl3cy1qTFV6b0RtVDF4VE1vMDZBSjVCUkJVSXl1RjVkRVRuUTRFQmxMRXdVR1ppR2pwamcwbUZZSk9VODdIdi15Y0stcGVfTFcxb2hnU3F1YUJoQzAwWDc4Rk1sU0l2aTdOQ29B0gG3BEFVX3lxTFBYRDFyZXRieW1xcUR0d0lpLUJFa1NmbFdJTlJrVmxNSm90TWRwZTN1bFRFNzhES1RFWHJkNG5SLU5ucFlQZlpQZm1XRS1OWTZ0TlZTQ2xZdlFvekhhT2FfWVQxbHhzTDJFWjNPT3lpNW5oSE9DR3RFOUZScEFfc2sxWkVBbzhwamlSZ3ZOY3M1UXZ6VVRkR2hPNnJSTGgyalZuTF9mTDZfUlpCVFpxLVlQeTZRUk12N1l1Yi1Gdnc3dm1mWUtjbW5rbkh5TW9qVlM3aDF4bUJ3a1JVM3djV0Z1cW00M19JSWpKd09yWWFsS2hsa3VzTGhYMWxrNXozQjJBOXpBMGtRXzVyRkxxOFRHd0gtQzRnemZVU0ZlbkgxYi1qUmRTdHJHM2RPV3BjVi1YUGxWTE1FMVdHa2t5S2szVDZQd2JCZllwQ1hWbGVaRUliTzhUN0owSEl6anBhTldmSTdKNUtZWjJONkRJaVpRZmVzdThHeTlVc01sSFA3a2VyLTE2WlF5QXp6S2tkVTMwNks1VWdEdUhOdGJrdTFKUjBFaHFUVksxQmFiYzdaQVVFRXE4c1R0ZHVwY2V2NFlSS2pQVUM5bHZyRm5OR01nM3hBeHR6MFlBdTRBZmNhdXF0RXRmSWRVUFlEZVk0TlZaVGktcFlCcnF3TDl1c1FGWGJyY0ZpRWNLcF83ZEluMG1pV1JwTkdoXzJHWkxfdU9GUnFGMG95blBFQzlrVnNuZVZaZExEWQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 09:16:00 GMT",
-        "discovered": "2026-09-26T13:03:27.324521+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مدرب أنجولا: حققنا الهدف الأهم أمام مصر.. ولا يمكنك النوم في وجود صلاح يلاكورة",
-        "player": "",
-        "content_hash": "db3bd6de95dcde645fc4187cd8ec762de0e41cb1e979bf0dd2cb727faf3ba0f0",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5514,
-        "title": "كأس الخليج - الاتحاد البحريني يحتج على مشاركة مادبو مع قطر - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPa3JweFVaNDdjRTJDSVFQejRlT0FGcWxTRWJJdzlXSldXOXlLckJyNk0yamQ5eERfMGVrSVhHQzJBcWlFTDhUZ0pFRENYMU8tWldnOGhSbkFWOU9KOFdsRlRvdDZGbmlmTGhic1RfTWcxajI0RWNPRW0tUjZYZ3BjNVhIdlpsSVJXa2Q4NzhKU0JuaWFmUnEwRjF1cTlBRXpnbm85alAyay1OM0JHUkNOUG11ZjBmRDVtN3VJM3pPRnFISm1PRWVJbGd2ZmMwMGpWUm16dk9nZHQzRGs3aTM4VzAweVZIZnMxVEFzNTNfY2J5TVFCTzU4dzFCeDllQWhuNTBTTUEtWXc3MXFfc09LQzJpWENLWjlRSDJhVnVCMVNpcEdZNlUzRG0yRmF6b0VzMEEwWm84djFJM3pXdXhpVVE1Z096WVlSemJoQnRUTEMwYUNDOElSUUJZdDFuaUIzU1VMYXlOVHRLSl8yR0hkNjdkZnJaN2RSU2txV21Pa0Zwb184Q2QyZGIza00yWHVzY3ZqakhMbEZsdkRNNUt5TnpoZlp2eGdpdExwVTlzckItRnpUZjJkMkhtbmoxbzRsZF9zdEpNZ2NHZWpKMl96NjhqOXM0UdIB2wNBVV95cUxQVHcta21Fazd1SVFSeWUzNUE1MDlOZjQwb1p1MEtLdVBnbGZoOEVBckc4bTlnaWY2MjdWNEY4TDhJZl82R3NZT1h1Qmx5OW1JVW44VEFiMjlKSExjQ0lUUm1hM1NSa2I1SVN3RnllUTVXcGVmME1UdEtzelRXVlo3c1dkbUhyaXM3UmVnNk92TzBITGE3WXd0VW9oeHhHVFlESThHYXFSbGY2cXlqQkFQYTAzUWY1VTBOUHRkY3dOS0dWMkdUNmtLT3RTRXF5Um1ZS1N2WkpFVlhGVmVfVk4zYXl1QUlpTzdvMUU5VHhBdWV2ZTIzNkJ6anZZOUk5a0FYYWNpc28yQ0lsUWlDV25uU3BhSWVkQjl2N3BnV050VEpZN1l2Y2VaZU1KUnFiWkRrS1NENnB5Y1NpWjdCSjRWRVhQNWpXTzA0RnZIUDgyMWo1alJrYXFZQnlhNk1EVExQOE9ZNzJLMmZPbVdTc3ZCTVNBOHZGbkVUS09YLW1tM0lYN0N6N1RyOUttR1cyeFR6c1dHcFdOaHYzVHdSNkw2aGZWWW1WX1Q5SmNEaUxQTEsyYXRCYWlJMDZib0hqenZqd1ZMMWNpZnh4MHVmdXk0U3I4NEdsd2xCS19v?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 09:08:00 GMT",
-        "discovered": "2026-09-26T09:21:37.261240+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كأس الخليج - الاتحاد البحريني يحتج على مشاركة مادبو مع قطر FilGoal",
-        "player": "",
-        "content_hash": "a701a6d3658a502a1d00704c780d0ee45c1e5d349548194868e0727985ee6263",
         "sent": 0,
         "section": "sports"
       }
