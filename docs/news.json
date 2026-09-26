@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26T00:24:02.261309+00:00",
-  "total": 146,
+  "updated": "2026-09-26T00:41:50.297421+00:00",
+  "total": 145,
   "sections": {
     "morocco": [
       {
@@ -580,22 +580,6 @@
         "section": "morocco"
       },
       {
-        "id": 4919,
-        "title": "بعد فرز 85% من الأصوات… « البام » يتصدر دائرة الرباط المحيط وسباق محتدم على المقاعد – اليوم 24 - اليوم 24",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9iMWJNUjNhcFQ0XzkyQjVXNUM2bmFvelE2MnVETWUxTzV6QU8tOTZjU3FTM0hzb0RkLVV6QzRZdUZJYUhQc3pPSlVn?oc=5",
-        "source": "اليوم24",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 12:30:34 GMT",
-        "discovered": "2026-09-24T18:59:22.210766+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "بعد فرز 85% من الأصوات… « البام » يتصدر دائرة الرباط المحيط وسباق محتدم على المقاعد – اليوم 24 اليوم 24",
-        "player": "",
-        "content_hash": "f71db53171ef0735c820a5dd69868cfea022982f50ee889dd04ea61a8abfc463",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 5038,
         "title": "المغرب.. الناخبون يختارون أعضاء مجلس النواب - سكاي نيوز عربية",
         "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQa1BYTU81Nm5wTDZtSjctR2ktRjB3cWtUYXpLWjlqQjBEd1JCNUJjd2xZVnFBX1ZSX0s2YVREamR6YjE0Y3NfcjJLeV9GSjVORDUtd0VpX3A5am5uYWJGYWtoeUNfWlhramcwbTJoNFRPdGRNVEFEZXlRdGoyQWJZS21aUERiWWZicmlObXdzRDFaR0cwN1JPbjluQXpXU2dnWS0tYUl2VG9YaHBzbGotUllTMU5taWpRZ2tlbTVEZVYwV0xYbGstcU14d3RpaGNQYWRsc2xGS2MwcFBYNkVJVENldWdPRFY2aC1EdkhTcXptRVRjX2wyaWI2NDZpSENwQ2xzWGI4eGhoQVRvQ3hWWGJXZ3c0VFE1UzQ4bWtHSEFhdVVPald4cGpzeDJWX3dENVBNMGtybFZmVTdUbTVESDg5amk4LW5seGl2QW94Q0ZPSHcxS3BPNDNzU1EtQURTVGdtRzBNbzh3MV9kNklwMjhtYVFYYVVqb1prbjVZZ24zV2trOElkVHFtRVc?oc=5",
@@ -800,6 +784,22 @@
         "summary": "المغرب وإسبانيا يفلحان في صد دعوات العبور الجماعي نحو سبتة ومليلية Hespress",
         "player": "",
         "content_hash": "9688410f2e50fc6921eadf89c783b39331ef9bdff0e81807eeb84e3ca9b400c5",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5030,
+        "title": "القضاء الفرنسي يحيل أشرف حكيمي إلى المحاكمة بتهمة الاغتصاب - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPTHlGdjdBMTlJX2R2blRhNkJHVVlhRktPTmMyNHRjZHJCQmtwTkZ4WUxmM3c2TXlMdlpHelh5UDBfRjJiOGIwVGFEODl2S3FBanROeG4tbFdYXzNsZXlkUFdRRFdhTXo1bmJPckRpcUotcHBGanhZMEJxN01mSG56aUY5UWxVSUlfLUdDb3BKREV5SnlnTjI0RFJNMkRjb0V2TVZkZ2lVaHFQOWI1RlRoZzNZeEtwaFI0NENUSzZvMVpaUmU5aE8yV215d3JqOU5aTGVIdUpqakFqZlV2VG0tUGduNTV6Rmwyb3gtdlMtQnhYN01PWHpVTWdndlRscjNLT2tPMzBvbmpxakdwX284SWJodGoxbk9aRTRXV2xrTVliZTdUNzJRaGN2SzN3dlpOcU9yUFV1QU1OeEk5SWhVcnBxdmhmS2JrM2R5ZWxCU1FnNUtnczVB?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 13:16:19 GMT",
+        "discovered": "2026-09-24T23:00:01.813265+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "القضاء الفرنسي يحيل أشرف حكيمي إلى المحاكمة بتهمة الاغتصاب Hespress",
+        "player": "أشرف حكيمي",
+        "content_hash": "36a1cbd5a24795755efa41dec376f4b7c0498fc3defc48bc846daa4efa728fa3",
         "sent": 0,
         "section": "morocco"
       }
@@ -1238,6 +1238,22 @@
         "section": "sports"
       },
       {
+        "id": 5419,
+        "title": "استبعاد \"البديل الخطير\".. ضربة جديدة لمنتخب السعودية قبل مواجهة عمان - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxPaFdZeVk2SXZ4d3U1eWV4bEhMYWtVNnBOU003TnREc2FvX2Y3NmVBRTRuamxnMk5sREV3S3pmZEdTRENPLUU1S3Rmd29UejAxWWlhUmlMSEJhS1NUTHdPN3R6SnNraUcxdmdKbWZiazRFVVhHYUl1cFp4ZGNVYU9RUDBMMEpHR3ByRm9EUFppZFcwU2xKV3VuWHM1UWRCWW13eXd4T2x1b25idk9mTVpqY25UTkdmOUtlT0FNS1lheklkbHVkR1pkNUFWQVltTmM0ZFVIREtmX0h6OE95cTVvakU5bTZ2X3hmb1BFVUQ5Y2thalNNVmgtRzNMaS02Vl91UllzWl9JeUwtOUQ0bnBpVWdIMGZsdmU4a0FOd1VLVlMtVlloSVFjOW5NTEZOUkE2bmtuVnVHRkVGcEhVUVdRMjZrT0pGd19vbTNhMlhtaldzem5JNHRlQjhoeDJwZENyaVF5Vmp0UEkzYlhEOWdaaW9PTnM2U0l2ekJOaTBwYURNV1puSjdmdEE5emo2WGxIeXpTeUpvNXJXVDAzWk5KeURac19Zcm1sQ1RfYVJCcTdmdkpVNjBmaG5XaG5YelFPdUl1UmVobnVyVVBK?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 20:30:28 GMT",
+        "discovered": "2026-09-26T00:41:28.545143+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "استبعاد \"البديل الخطير\".. ضربة جديدة لمنتخب السعودية قبل مواجهة عمان الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "68528d41e0b519b1ccf1bc5534b4e5860d32c59cec0f3b79375e03b2e8212860",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5333,
         "title": "ضربة موجعة: \"ممسكا بركبنه\".. مبابي يغادر مباراة تركيا مصابًا - Kooora",
         "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxNR2ZVWlFZLWRIRnlldDMwMER6NnpxYzNhMWVkWmw1UGFWY3Mwb0hQaXZHaXRmQ2V5Z01GbE9TcTNVaUFfWFdTUV9mdWFncHl4eHRJWWFoMTQtQU9pcjBSMGYzT2NrZVhfa2ZoTllEYmQ3NXM0N3AzcWcyOGVWc29kTFRCQVFoYVVCd3BVd1h1aTdLUmZoYXdxTnpQOUhPaUFQLUI4YUJnaG4ta0xReHZnX19VOU01M1ZiYy12cU9VUW1oNjRlbDFCWHZKYm1PdWdwa2o5WnBaY2N1cHB0SHNBUmZvaXJVWm04WkdoZ1RHXzg2Y3YwZUdTTDlfWW1zSjVYZFhDRm1yN0V1a01kbE5oT2ZaU2ZZSGZESXVWcTFFTnYzMEZmbzBwMVFtSERGU1I4ZlNOdEVWSGVCd2VKYVFkbXhldmpscDBYSGRuTWt3SkZUMUVmdlVlbEd0WXpyeHJWbHBqdDNJZG5pTTE2Mk5NY0dvZVN1U3R0eHhudTBjYTVkNExXeGJqXzZlRktLMTN3X1NwSFh3QlMxZGhMZ1J1bkVMbG1jV012bXRGdkNyWUFCT0RremdIMGJ0Z21jQ0ZFckI5VXNDWUNuYm9DSGNYUGVkSjZndUY0MVFGTmZQc1Nfa0JTb3lBMEo3VUd2QTlHa0R1UmpVMzFwcUNnQl9wZlJoZjFxODF5Y2x0T2NseU9fWDIxTmNZQWExWEd6SElYZ0xOMG9Rdjcxb1BlT3RUYnFwV2lnck0?oc=5",
@@ -1586,22 +1602,6 @@
         "summary": "التشكيل – ثلاثي هجومي في مباراة مانشيني الأولى.. وفان بومل يدفع بـ دي بروين أساسي FilGoal",
         "player": "",
         "content_hash": "a3746f7e6698e23cec4313ee92ef249d121259d02c31883a9fc65c9ddd453941",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5281,
-        "title": "دومفريس عن هدف ألمانيا الجدلي: نعرف حيل كيميتش - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNdnZkdDBSa1FLNTNQQzRtcXJjdmVtNlg1THNHMWc0Mi13QVNucVVSYWpZWUVWamJ2elFGQzl1eUFvaGRlV2NZTnNMWHE3dnlBNWhYT21Bcnh5UlctR3pzZk44QUVzdHhZNlRidmpVQmQtem9GTTFqZmZyd2ZfTlk4RVZrc3FZZFExcndXNTA0eDI5S3UwcG5HYTVHSzZZYjhWOC12R2tLZzJSUTk3bkR4clBackNjakgxUFN0Sk1MNkhKVEEzWHBqM3pSMGhhZy1IV050QXE4N1BhbW9pQVN1c01vX2pGMFcyN3A4cUQxRHdvTTByelgyY0RUSjBULWF6cjdwTlQydUdBVDZhSFFkQ1pTdVlIQkRObVNtR3Y3YlV2NjF0TXFSRGN5aFRkQXBwVzVaU0YyWnNxV2hDTkJhMnhQcS1IbG5ya0xJaFI4SVh2TFN1UVc3TXJXbk5LRDNWSE15U3hRNnRPM3ZqdjdYUGoyNTJnZTJEczNqazFPU2pfRzJlbkpaVG9nMG1lQ0J4NzZxcWNfMV9VUlA4OXU5eXBJQmN4cW9WNXJCekVoOHZsQkNsY0tmbFJWbmdsQzhQUTEycGZ2ZWlWTk1lQ2NaMzFWbkVmVm5ERU5waXpDRHZaRXRVRlF4eDNGdE5fNkFyV3VB?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 18:02:21 GMT",
-        "discovered": "2026-09-25T18:19:20.733237+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "دومفريس عن هدف ألمانيا الجدلي: نعرف حيل كيميتش Kooora",
-        "player": "",
-        "content_hash": "395bb5030256537cd4c9c977e035c8ee7a50897cc2267a6255a6d23b350140da",
         "sent": 0,
         "section": "sports"
       }
@@ -2248,22 +2248,6 @@
         "summary": "الدورة الثمانون للجمعية العامة... حفنة من المشاهد الباقية | عبد الحميد صيام القدس العربي",
         "player": "عبد الحميد",
         "content_hash": "b599ce851e0578f3b0be1f58a100e960d5df4a8819ca9dbd8fd9c221163e58bc",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 4918,
-        "title": "عاجل. - وفود دول عدة تنسحب من قاعة الجمعية العامة للأمم المتحدة قبل إلقاء نتنياهو كلمته - Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUUxLQ2xlTXdrWUg5RzJ1MVdIbDh6QktjWEpTZlI1UFEzb2Flekh4WEZJSjRwalVGWGd4ZTVvT09lbXduNUhmX2hfekNyUnh5MEVFZDgtdGpHbjhtdk82Vzl5YWZKd2xOQVdiVzM4SUQ0bFRmVVRZeURqLXAxd1FDZjZJSVo1Yml3aDRMbVF5MXpsMzN4T1dwMlM4azF0bDNCUTFaZW9wNUczMlhiQTJ6VkFKSDFrTjZXUTNqMkVmZ19KNGJsNXNVSw?oc=5",
-        "source": "يورونيوز عربي",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 18:06:06 GMT",
-        "discovered": "2026-09-24T18:48:46.718480+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "- وفود دول عدة تنسحب من قاعة الجمعية العامة للأمم المتحدة قبل إلقاء نتنياهو كلمته Euronews.com",
-        "player": "",
-        "content_hash": "51d3cf3fea6d2c36c047e8b8dabdb1640045533c0778c535c855c3b4ef505130",
         "sent": 0,
         "section": "world_arabic"
       },
