@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26T23:32:10.900280+00:00",
-  "total": 150,
+  "updated": "2026-09-26T23:42:57.726206+00:00",
+  "total": 149,
   "sections": {
     "morocco": [
       {
@@ -610,25 +610,25 @@
         "content_hash": "266ebc8afa2347ef1462ba717aab93f2506c4afd93b028a53ae9e0e0b0580c1d",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 5435,
-        "title": "نتائج العاصمة الرباط.. “البام” جا اللول و”البي جي دي” الثاني فزوج د الدوائر: الأحرار كلا الدق وولد لشگر طاح وتحالف اليسار طلع فالمحيط - كود",
-        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQdlBBSWRxRmZfQWZJenVJakJPazlfZ1N0VV9nQzd1RTJoUFB1U21vcHdYTmVtSHR5b3hEWGFYcGRSZVE5Zm45Y2IzWHFtVlJqc09Oa1F5UGNhTWNQRTM0NXFHdEM2bWxwZ05DUnBiSXNwTmRxSFhYNTNYNGRxX0p1NjdYaGtNWDdXMWtGNUdfMVBNVElydTNjUV9OWkw5THVMaV9PV0lxT3YtT0p5bmxBeGtuY2ViZlMyUXZEYV9lTWw1YWRaYzhyNzlYdkpXUnYyZ2RfZjhkVGtqSnpUbVVXUktpd2c0WGI5bThsQnllVE5VVk43UkdGcVM2dTVwR3FEVlBnOWRaWkVKZ3ItdFBweFlpUEpBcDVZbXRKQXdQbkZiWXc5OFBpV3JUNS1Ec2ZJWlMzaXUwRUlYdw?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Wed, 23 Sep 2026 23:33:30 GMT",
-        "discovered": "2026-09-26T01:45:06.356608+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "نتائج العاصمة الرباط.. “البام” جا اللول و”البي جي دي” الثاني فزوج د الدوائر: الأحرار كلا الدق وولد لشگر طاح وتحالف اليسار طلع فالمحيط كود",
-        "player": "",
-        "content_hash": "0bae36c99b0aeedb0984f16705cf6b48c82a55c29d4692e6dbba557bd6093e9d",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 5804,
+        "title": "أخبار و معلومات اللاعب كريستجان أسلاني لاعب وسط الجزيرة الإماراتي winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNUG9sdlQ3Zy1DVDM3LVZWQmNkbTY0N3dKZUVGMFg5RXdYdUNTamJ2YTcycmtTdlJHeVY1QW5SZ1V4VkZPbHpCZ1FsREZNdnNKTllCMGZJZ2pkRW1keVd1bnJYdi1mZV9yc3hMcTdHeVphb0NidzZZRWlYODhFMlRIeUhIYksxb0tvLW5GbmxONU9TbzRjaG1GMXoxVkRxaWlGZHVKb1BtMXJYZl9STGVVX29jZF8zSzFPdGZJN19fRXRGTkxGUVV2UlEwdFdBa1h5VHlZVWU3dUhJZksyMTZBSVU4Z2w1MklYbld1NFRIZFE5eDAyd1EyWGhmUm1VQ0lVUlZFOGNpV3NQaUg1NzJIOG8yZjVfTkM3UUZXVWUtRnY?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 23:31:34 GMT",
+        "discovered": "2026-09-26T23:42:37.933750+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب كريستجان أسلاني لاعب وسط الجزيرة الإماراتي winwin winwin.com",
+        "player": "",
+        "content_hash": "73269f4f46624ec83122acbdef0eb7d9099440103b2d33bbf3f9d4782aceae80",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5796,
         "title": "أخبار و معلومات اللاعب أسامة جلفاط مدافع الاتحاد التوركي winwin - winwin.com",
@@ -1046,6 +1046,38 @@
         "section": "sports"
       },
       {
+        "id": 5805,
+        "title": "الدماطي: الأهلي لم يطلب عودة لاعبيه من منتخب مصر - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxOYkRLbmtkbmNabXFKOFhwblNLZnBsaVZ4WmxYQlZlOWdfZ3AwNnAxVXpaWU1RVUpMdlVuVmNDODU1TlM3VTFqemlXajRIMk5KU19NTkkydk5RLW9mQWdPMEZOd3JkblNWdS1lRWtPeTA3NzlPX0lBNHNKUFVOT1hmQW9YUV90Z25HVFJhMWo2S1JJYWlrbzhKUjVxV2d4VW1yS29DQXdtODNPMEl2NzZhNE9JbzZkR083RGU5LVdHOW51UExfQ3BtTUV3S2I5MzRfZ08yTVY5WWlfMm1NUE9BcjdNRTU4MnFHb3A4djZEU3NhOUw3S0E4THZkVVF5WERhTkd2ejA1VHY0RTJNRTFZTjB1QmRpRl9iYkVFbWdSSWV5Q1pNaW5nTzFWNnN5N2pZc3RmQUY3cVU0NWU1MF83S2loVXpzV3ZBUDEyeTVuMjR1eUlVTVhoaVJabERKVzZaOVZtUVd2Y25jYkhLNTVWSHJ3Vm9RRThDNDN1a290cW5ZVUdXTEp3MG1vM3ZOOUlidThES9IBmgNBVV95cUxPN1hJVk9jU2tRQmU0X1dSU0xXd2FMdDR6TDA3TVhlMHNHbE1VNlhDUV95S1FlY2FtLWlGcEsyNjBjbTdNeEh5dVhEVWdMclVZU01LN2J2bmFUNFhvSjlvNUFrRlVscEpsNWFjaHY2VlA5Tlc4Y2pwYmgtTDYzbmlDM0dNX3ZrSUU1YVJzODVXdmZyT0RtNFNSNVR1X0hUaGJqakV0T251WGpYeWhRdzhxbHY1WDZmWURxVzZEOElXeU9NVmlCbXY4X3gtV0J3ZURqdVRINjVHVFRqR3I0aHNuQVlsX0FMV1ZTVC12djcyWklhcUZWc0IyRm1SbVZRdmlGZEg2VXVBaXk1VkF2OGViaTdsdnIyaDJGSnlCSlhFb3FGNlYyekoyWlM5a1h0U05xYVQ1TF8wMDRqNEhzb3RYdkVhTjYwMjFRVWtPX25kWnJqOG13c2VERHFjb0FfRlRib2lBZmZZOV8yMWxRa3Y5MmlKM25IZU5xODdlVmlsQ2sydWZRZ0NBNnYtT1VhUFhKT29PVUdwQ0F0QQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 20:16:00 GMT",
+        "discovered": "2026-09-26T23:42:39.585121+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الدماطي: الأهلي لم يطلب عودة لاعبيه من منتخب مصر FilGoal",
+        "player": "",
+        "content_hash": "b870963dc1cc0bc76db22edde02121e87a8b9e218845cd4e8dc5fe79c916bb58",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5803,
+        "title": "حرب الأصوات تبدأ.. إسبانيا تتحرك لخطف نهائي مونديال 2030 من المغرب - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi9gRBVV95cUxQRlRLbC02NXFSc3c3dl94ajRkeXdFalNkakJaUEQ1VHVaNV94eC1GYkttNG5zY09oa1RwRDFVVkstTXdMVllSUXRQWmRKc2o2MzFsY1RmbVBSbG1HZkN0U201cTNGRlJ2Z2UtbmN6X280bjg5czYzMFdFSE1saTVfaXk3T1g2eU1wbnJabHppd3FNdVpLeVNoRkdRR1lrcVFBb3JLRUl6bGtQM2xqTlVGOFFjZ3pBQlRDWUVwajRiMVZQSEhmTGdlTnZaWUtaNG5oNXBtdGNSeVM1dWpnUFBncjRzMUwyeDZyR1NYcHEzLWgxVlRPZ2RaeFZMRlV4Q2tPRjljV05YRXhTTFpIWF9zalNUYmFKZzhtenNPbUJFSERHeW41SjVDQmxBbkFLYjlpUkpXZjZybWlzZy1NT3hTN20yQlUyM2xuT29rVW9kYy13V2NPdVNTMFpmcFZVcWZFYk5WQ1hvVFl6SjJWSmhKZ2h0OEdHYkdZamxXbV93QmtYTXd4VzNKX1ZsQ1Y2RFdGTkNKQ241M25KeGJfbFl3V2NfUzk4RHlSaEZid1VycmJMaUpvdEFpaGFpRHVEVEhERzZyS3A2ZTlrMTJqQVdjN3UwNjZLS3c0d0VYY1pQNVRIbmJKNWdodTBZYUtKclF5VWhPU0dfVGlxMkJRN0haNTBGMXQwUWM3eFFDMGVVWTlEVXZNanU0S3Vha25ZWGdhYy1KWEVpeHhvWW1sMm4xT0NadlZPcy0tNWlYZVBwbDNkN3lmb2c5b0hvUGdrcTFhRkVUYUF4LVQ5c2ktMXdTbm9ROVVNNE5zYWdjU0k4RjVZVU5JWnc?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 20:15:12 GMT",
+        "discovered": "2026-09-26T23:42:32.878982+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "حرب الأصوات تبدأ.. إسبانيا تتحرك لخطف نهائي مونديال 2030 من المغرب Kooora",
+        "player": "",
+        "content_hash": "b0cedd9da826cb1b30ff11d1fdc3772a6ca3f1c2cb59e5834398190c6e118b2c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5727,
         "title": "أسرع ريمونتادا وأصغر من يسجل.. 5 أرقام قياسية من مباراة إسبانيا وإنجلترا - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxNb0NSZGk2cDd3Y2xveG5RckZSS216UXdDbVFRLXMwMnprdnp4YnNOTkViQXc4X3VWZGlXMWlybmVNLW9yMVJHTzNuVEJzNEpHRjlWN1dxRk9zUkFSY3FucDFxeGVNX0hYcTJoOTNTZTFJa3BCSHJVMG5Mcjl5V0lnMFJOeUpDcjFRWDVPMTZkOXVnTldJMjBMcXk1Mi1sTFl5aFJ1MFl0LXRFUVl3REQzclV5QnlSMmwwajBpemdSV0RCODJRNnctbFdWcGlXV2h3cExzcENNSC1FRDhKd2NlUlFxMDlOaXdWMU1vVFB0R19xT2RZc1A2eS1fR2VVYmkxMmQ5Ny02LUNocW84aEFiRlFOUGZEZkJldklIS20xbVR3bTJsWUhPUzZSRExDZWl6dUx3dXE2cnpURVJHbkJ4UlRCbG5PMERCRkJRZndmQkt0SEFGU3paNW5vcFlUNDlhZ3VQT01xZEttVlZ4dFByaXZQNTBnOWJVZGVOYlZCUjkxVktlako5Wm9UaHpwOHhhSnZvNndxSHlMSE5Bd2lRSnVxVTZmZ1Rlb3o2TkxLYUx2NGpMNkk0RFFVcGVxemZRWG1ReU5yWEw3WVZpMmc1Y0RpTFpUOVR4UXNDRDFKZ19IbEcxRXYyTGVXaFB5cFVvWVRXOUE0UFhra0ZUSEUwWkFwUk5zWG45b3loa1lmZThFQS01dmZ6NTJKcTIzcl9wVEZMYUd5ekV4Vm5PV1I4a1QxWHRlTTI0WGM3bWl5NkJxR0xwbjRMRFZnSnd1SEk20gHWBEFVX3lxTE1hUlJLQlhlb3JmT1BDeUEwc1hielY1a0dyMnE2a0RqTUJrdTRyMk5tdktoV0ZLeDBlbHRMX3lxS1J1S0JrS1JIbFc4S1JqUFVFcGxqcW0xbEFfLTd4bnp0bVpXWnBnYXVlOU9TRHU0NEt2c3lfNC1iNXpILVZxOGRPRmFYZ3RfODVQdVdJZjc4NUFTS25VQUVtWTBBT0g2N0V4c3NTV29wVEVvaUhrY2JwQTJKZ0d2by1PZU92Rk9NX3EtbGNwbXdJY1NfdUNkZUwxM2lsQTlTdlNzdTRPNGtQZTdzV3lfemxhM19qVGM3a3ctREhxbzRiZEhIWTdjNE80NVBla1ZzZWhmdE15a3BRXzAycW1uRG9zOXFTb1JNV294ZDZMMWRKT1Jnby10VDAtckpKY1BGNUxkbmdPRF9Mby0wUUxadlhtRDQ0NGRwYVhzM0lpMjRaVkdQdDdReDVlN3JoWmRLRk9pd0lDX0xPaHhnbnZhVlMzSTByX0hTQmQwcWo2cGs4Z21jdHFTdFhWMmUwQVJoVTBZUDBwblBUYk9QUnNIYTVzeWNpM0JIMkNOOU1uZ01oeWo3NkhIaDJKZV92Um9ZU3Fkd3dHcGwwN1ZXRy05eEFJUVY4WGFDemhoQXBaUF82WjZLRTBQV3BnRU9zNThUMU9TTFozSVAxcEJtM3lIa29yZ2g2cTlZcnZFRkhtRndBT3cyYXpkZFFxZU9mWDBaa0tPMEJxSi1XSTZnSjM0anpIR1RHV29taDRDbVZZdW5ZU2tTRUJxTzVIN29kM2c?oc=5",
@@ -1378,54 +1410,6 @@
         "summary": "بالفيديو.. هدف نادر يعيد مانشيني إلى السعودية بعد عامين Kooora",
         "player": "",
         "content_hash": "ebe57f961a2615656c53c428b8747d74c51169c0aba01ad8168d0239c7d93da1",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5690,
-        "title": "شاهد الآن.. بث مباشر مباراة إنجلترا وإسبانيا في دوري الأمم الأوروبية 2026 - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQU19PdFRwa0lqQktaOFZyd19hT3A1VHVyNlhJbFdna2FoUmU1aXF6czhSWk94XzZycXh1bnpSMjlpQndYRzlnUnBCYVNTRTEwaFhHNXY3b2tFZTgtNXZyeXlfZGV6SG1sZkhCbVdfNFFWOUZtUkpCVXYwVldtbzhRYm1USDBwWHhyRmhDTDBiZDQ0QnUyTEtfbERNcWJJNUcwX1BSWnlfVFVibUpHSnU3ME9VQlJmWXVYaHV5SUk5Unh4cnFZU1RrenFmeVNNWnJiUXNSajNxWHNJQVliM1MtbmpUemhiTnRqUmNwdVVzamxZbDl4X3pJQUhQVmNaMkpRaVpuN3BiaWhsMjhqNm5qN1pkYjZUeWdYQlloczBONTFiTW1iaTM3UWMwSUg?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 18:50:04 GMT",
-        "discovered": "2026-09-26T18:59:21.189226+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "شاهد الآن.. بث مباشر مباراة إنجلترا وإسبانيا في دوري الأمم الأوروبية 2026 365Scores",
-        "player": "",
-        "content_hash": "dd9dc4cd5371fc80bdbc654bd354d299ba71a4e94597bbcff4d0294f5d599e78",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5685,
-        "title": "دخول لاعبي وداد تمارة لتفقد أرضية الملعب قبل مواجهة الوداد الرياضي - Elbotola",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qVnFqbWJXNmFMLXZRSmlwaWQ2YWpZSVktSDlTbm84THVCWXJsTHZ2ek1zbkpNc1hLa1V2OXUyWWg4UXBjSElBb2w1SG5MYS1RYW9KWFZXVnYwdk5OOU9SdDZJRVBFSzdGcEdOZ1JlRjk?oc=5",
-        "source": "البطولة",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 18:49:25 GMT",
-        "discovered": "2026-09-26T18:59:13.789318+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "دخول لاعبي وداد تمارة لتفقد أرضية الملعب قبل مواجهة الوداد الرياضي Elbotola",
-        "player": "رياض",
-        "content_hash": "0e571062c0b75df3201aaaa77cc3ae5c0562c64eda2b274d633d46f9806bb204",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5689,
-        "title": "بهدف\"قاتل\".. العراق يحسم مواجهة الكويت - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPdTBSaUlzMnBrdXZLbzZ6UkFLUnV1WTNTWnFrNkV6amhkZnVoYm1Land4SFN1aVU3QzRnNi1hLVJmNUxMSjAyZHhFVGtOd1I3VWc3VnljT1hFSnk0MzdLNnE0SFV1bzdqSzhSRTNtRW45d3lQTGF2aXN0VzdxUmxzcDlGZDV3Y3BJLTNqNTM2WVRacEEyLTg3VkhfOUZndnRCaHN4SHhXNS0xM3N2Sjl4SGNBYnYtUDgybkFJbi1pbHpiVlBrM29SRTQzNTVvY050dko0M3JJZFdpVjRZNUV6RHo5ZG9TdzN0VnpYSVQzcDRNc3BrNXRBcFZfMnpua3FOYjdXYXZzU2pwUDBzTmZpeWpnU3VWaGhqX0N5NXJFTVRJN1RJMUJrY0JibTBsNzBUamY2NmxxUnExR0lWMmNNYU9nMWpkRm42WloyT29n0gHTAkFVX3lxTE5mVERtazdIM3lWc2ZkeDczbHZmYkJ0ZkptZ09UVlk5TkJESDR6Y09IdXBfbjdfMC1ES21QUmd1Yy1uMUpQaGc5TXVENU45YlAzdHhzTTE5NUdBWlY1WEhNcnpZMTBuLVZTTnE0ZU5mQU5pOHFXYTI4RVotTzRZLTFXdnBnY2c0WmdWRDFJdnRReEJXT0p6anN5bmNCQjk1eTZPeXhZQ3pXTkllTTBMUlkwLWJPb3ZON0dqRS1IckF6SEJkNi1xU0JzSFJ2d0NPeXhYcGx6RFVSTkpRUkhfaGV1Y1lFY0hfUXpiTG9jdUM0a09uVk1wZlNpdmEwRDdJaEV4WGFrd2s3M3JZS3hxcHZHOThRR25RQkFnTWtpaHlWc3lzS2VYVkVnZjhhejY1el9jeXZMYndFMGQ1VE10ckF3U1hocy1Ic3BEV3J4RHk5cFpSVQ?oc=5",
-        "source": "سكاي نيوز عربية رياضة",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 18:47:36 GMT",
-        "discovered": "2026-09-26T18:59:16.639920+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بهدف\"قاتل\".. العراق يحسم مواجهة الكويت سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "c14fbb0bacb3cd68793e5e117e662eaca38d28f202391ab83b0466014244387f",
         "sent": 0,
         "section": "sports"
       }
