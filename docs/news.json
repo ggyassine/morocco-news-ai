@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T12:23:45.878621+00:00",
+  "updated": "2026-09-26T12:40:07.572070+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -773,6 +773,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 5561,
+        "title": "26 مباراة دون صلاح.. ماذا يفعل منتخب مصر في غياب قائده؟ - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQczJBeGFBYnZkZk5scHF3Um1XX3hrUDBFbHg3bVRmRlVfVTRTX25HVXRYN19IWWxuVUNpVEJHMFlMV1Z1NERHbU45R3BreVhIZ1pEVzNHNEJlOXJqU0xCT1FkX0lBNnAxcGFTd3g0d3BMT01DQ3dzLUNidlpFMkNTLXprcGhCT2VzQy1MZ3AtQmJCVFZMZk0zVWxXOTBlbHB0SHEyZU5SQ0p6bUJ1MUlvWkZlUkY1WjQ5SVF5cE05MEpZNDFCSExRSnh5c1hGaGJkTlZ2WGpuTlVzc3BXanlGRTNlWUJsTHF6ZUNIbWVFR09iaDFJdGlITjJLQU1QNWp5QUs5UnBzeS13QmdlQV82Uk90aUFfeWthbVNRX0l2VkxZcEhlQWw4VmNTMk1yMnA4Q1JXMl9hbVBkZ2pPMFZuaDFPT1A5U3kyTWEtdTQxQ0xxelZiTDUyZ2Z3TmxJb2JmV012OW9uSkdnaE03azNNRk52b3dFYi1DZGFVT3FHZTk0Vkc4RXF4RTl5dVdnYWRLamNmdjFTbnVBZ1Nkb1ZNVm5kdXdtbktIbHExckpwSWw2Z08tWFljV0l2VdIBwANBVV95cUxPWFRrX2FsWkxtVW9FX1hhbDBabDVtY3QyU2l3bDNLQ19STXJFRE5mc09vVFl5bkRnU2FBYnBoTmowUUlmVVhuNkhjZ2ZMdFNSRS05ZXdMLUExWjFsMWxVM0tmbDVhVHlZdnRKS1hxM0dZYVdidVRGV2xBT3dITFU2QkJ5ZUxmNDNmMXRQZ1dtblFaRjJlbnlINUtITXRxT2FLTHRJVHdsd2VEVmlBS0xQbzdVVnRJOFYwMnhIQjF1Uy1xS0NGZHI1cG1lSUJjOEVCWHNkRm43dUY1VHltRTUxN3FtaVZCWFRWUTRVVTJVQldSLW0wVkx3SXRBaXhjYlViOUdGQlN4eGVvdTBELVUwT2lCSFBxdzNVTWpqaEsxXy1CM2RETUw2UjJ6VlREcE1iNkR1MmFmdXFiX09JcmJLaDZlb0JnQXoyczRKUWlTZEl3N1N4MGw2VjVYa1JCaktUZk4teUMwZHUtV292Q2lMTHVoNlc3VzBmQnI1bm9KLXd2eG92U1RMaTNnWFppYVNlSXF0N19CWjJJbWtwQ0pHYlhzNE1YdkNMQl9Vc3JNZ2RaZW96cWQ5TzktZmNneUVJ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 12:29:00 GMT",
+        "discovered": "2026-09-26T12:39:53.283453+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "26 مباراة دون صلاح.. ماذا يفعل منتخب مصر في غياب قائده؟",
+        "player": "",
+        "content_hash": "9070e70b98547a86b423e51501668cd305dd0981cf158f997352f6e78e2fed41",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5556,
         "title": "لخوض ثاني جولات التصفيات.. موعد سفر بعثة منتخب مصر لجنوب السودان - يلاكورة",
@@ -1554,22 +1570,6 @@
         "summary": "«تصفيات أمم أفريقيا»: مصر تستهل مشوارها بتعادل محبط مع أنغولا الشرق الأوسط",
         "player": "",
         "content_hash": "4051b62a86b3f8d79bf4e38259ed0bad397e18ca133bc111836a0766238aa14d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5478,
-        "title": "المحمدي: هذه هي الفرصة الأخيرة لـ مرموش في الدوري الإنجليزي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xOXkxYWV6TzJYMUo0alRkNDVIOTlDZHFKT0s3c1FGd1BmSFg3eGlBa1JfSzQzWlZ5SG9leEp2M0hGV2JjajliMEsyTWwzZ0Nf0gHrA0FVX3lxTE0xS2puR1I0TDFOUDZ1blR3NGZUaXdmLVB3NTB0c1JxSFJzcDZsZUJ4bE4tMGVCRFhfVUJ1Vm5qWFJYR2RHWlRZdG9lNW9tRDhpa0o0OGNtaFpkQ1RkRkxmWTFTVVduS0JTQkIyY3daRGFYbUVfdEVVU1FrMEpOX01YVzZTRmJYUGVoMTBaeG9wSXBOWjVfaXdMZW5YWXRxWWF0ZXU5WVFLY1lETXdkOXByeHZfbTgtU2Y5S3haazhvaVNFNnl1c3FaYkZSTHZLbWJqSHp5VkRKN2hFclpKYVJhdF9SbDFrUkxucTFRaXFVNGxLbWs4N3ZZbW5Jc01xeVNUakVxTEhuSHdCWXJubW83Rkw1M3pXcnhEZ2l3OWktbnhRaDN4bzNHOHY2OTNqNXlJZnhvN2M0YUF3R3VSX0dQSFlkclRyMG1HQy1KTUhJYkhTQnF3OHh4TnFaWDNMNnFTbGNFc0dXOU9hdU02MzF6a2hGb3daZjB2X0RKQklWZnVYVTE0UGtZZFJLV3p6T1dfSXFhcjNROVFrdmI3LUhXNWtVcDB1Z3Rock1NLVBsaUlldm5tSUFVY3RwaTFFU0UtU3NYUVd3NS1sM2l1WGxLNGYzTkZuXzBoeXZmRHdGaVBOMlozTDlzTGtn?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 21:25:00 GMT",
-        "discovered": "2026-09-26T04:55:47.950645+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "المحمدي: هذه هي الفرصة الأخيرة لـ مرموش في الدوري الإنجليزي FilGoal",
-        "player": "المحمدي",
-        "content_hash": "e995bfdd2b3adf283535d0ce947436365bbeeb44537441336fa676ddb1c89047",
         "sent": 0,
         "section": "sports"
       }
