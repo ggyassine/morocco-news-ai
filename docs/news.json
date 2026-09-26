@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T18:36:44.583175+00:00",
+  "updated": "2026-09-26T18:50:21.880708+00:00",
   "total": 149,
   "sections": {
     "morocco": [
@@ -420,22 +420,6 @@
         "section": "morocco"
       },
       {
-        "id": 5183,
-        "title": "إسبانيا تطلب من المغرب تعديل ارتفاع تحليق المسيّرات قرب مليلية - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE95VDlCb3dPdUJfY2pBNGJNYmEzUjlwSFdtWlZCYk4wNXdKeDhTZjNJa1g0NWI1Q2tvRW83c09ZR0hQZVliVHdHRA?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 13:35:06 GMT",
-        "discovered": "2026-09-25T14:02:39.686060+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "إسبانيا تطلب من المغرب تعديل ارتفاع تحليق المسيّرات قرب مليلية Febrayer",
-        "player": "",
-        "content_hash": "1e77d11374596bd18e9de2922a6f13d04f89bf6487a7eb28a91b8c969a7b4f04",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 5294,
         "title": "تشريعيات 2026: الرابحون والخاسرون وما تكشفه المقاطعة عن شرخ الثقة بين المغاربة والطبقة السياسية - Le 360 Arabe",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16SDNBelNIbk1tQ1d4VzNGbk9ZN2FsRnljaEZKVWxjYkVZN2ZMUWlPd1hJZFl5emh3aTFMZ1djX1JIT0xtMTllWlVnbjBldVZqQ3Q0MmYxSmFFSEhrUFlGMDJPRmpzSmpP?oc=5",
@@ -806,6 +790,22 @@
     ],
     "sports": [
       {
+        "id": 5682,
+        "title": "أخبار و معلومات اللاعب Jorge Paixão مهاجم النادي المكناسي winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZWVjbHJkb0tVdGY1VHVlWTZVb3NibjZVaUllTFNPOW1ZOWU0aTNDUk0wMnp4QVU5MUtzUlNlMThPMmp4OXpCUzNPc1g5c3BELUNZS201Mm9NTDRVUWNwaFZ2dW5SSzg3M0tPTHcxUG1rbm5uTHMzUXg5YnBtQ2J2VThKb1QxeEplWjhQUFB4WDlpQXFwX0JuLXY2SHRRdGlaanZxdzBVSU5RYjk3VEZBU2h4anpIY3dmNzBmMXo4X3FoTHlkdHc?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 18:39:22 GMT",
+        "discovered": "2026-09-26T18:50:04.792913+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب Jorge Paixão مهاجم النادي المكناسي winwin winwin.com",
+        "player": "",
+        "content_hash": "a3b2a70887ae5234d6aba8f64794c17ee8450dff7ffb369fa1c13655b7494ca2",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5667,
         "title": "بالفيديو.. فراس البريكان يحرج عبدالله الحمدان بهدف من أول هجمة - Kooora",
         "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxOd3gzM0VUZVRDNWE2VlZWOThFNFo3M1luRDRQTk1DNmtzYVMwQXNVSUpyZ2tVWjB1M0s5VFNYUklnMGpfSXhqemdlVmZtT0JoOG13aERwWWJQN2wta0l5NXVlTWJKazRJYl9talFGMHNNMEtybmJHTWZicXdQR1laNzFkYndoUDFzZkFZdFd4NEd1c1BhTXd1dFZPdHMydDZKT3gtYjhxQm1QTGhQYm1jbnZCMDFiUXpaWFgyTzd3dWFobDdGbjN6ZVA1Z3FrVW9HNGk0X3VxLVZ4clIyMUY3VlBMZG1EcHpiVy03bm1Eam1IUlJwZlFfUS1QTG9HTHMySUhxczg0aHRqVll1c3h3aW5PSTdIMXY4aWNFeDNkamlsOUxEYVRJRXhNc09VNEt3R25sSXU2SUwtazllSHBUc0g0ZWxTcWZ6MEJoQVRmelNxclJ4RkxSZkkyN0g1eTFob2lDbWJmdG1wV0RRT3ZNUWF6VDVtN2pGaFhfNkZzYW1jdHZPck5RUVZvU3lRTDY0cWU2eENib0dfekdUSWc4WW4tWExnb0dENTRyOWhuVTMxdlY1REZCMjlTR2QwSkZyN3dFZGx4dVh3cXBvX0hzVG5BOFJ1cVMydE1xdmtta0xVLXAzbnRwNWRhTWpjbVktaW1xMEp4ZGVYTDY2bW5EVnNXcVBoamExNGNsbDFwc2FCWXlpc05MNEljSktpN2RnaWQ0OUNPYXB0RlpNTzE3WUR1aW1EbVhDcnR6YmM0TjgtM2NSSElzUmRKTHQwVlJZVW5OX2dBcGRqNFU3anB3?oc=5",
@@ -818,6 +818,22 @@
         "summary": "بالفيديو.. فراس البريكان يحرج عبدالله الحمدان بهدف من أول هجمة Kooora",
         "player": "",
         "content_hash": "48cdb3720893c8098ca43343d2b4e00bce052ae8b7dd064018b5e4351913d1ba",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5680,
+        "title": "الحواصلي يتحدث عن ثقة اتحاد تواركة في اللاعبين الشباب ومهتمه الجديدة بعد اعتزاله كرة القدم - Elbotola",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LV3Y5MXNWZGpITXlKZnZNc0J3ZjBaR2lhbS1fajREMkFNNVRsaFRlZXhQbk5Rd0t2MF84SWpxeWZpQ2NNREw3T1lZeHJIeWtkS3BJOUxueDcxWjhkeFJwR0xJYzNHUzVPWjM4UzFQSl8?oc=5",
+        "source": "البطولة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 18:31:17 GMT",
+        "discovered": "2026-09-26T18:49:58.732105+00:00",
+        "category": "الرياضة",
+        "status": "اهتمام",
+        "summary": "الحواصلي يتحدث عن ثقة اتحاد تواركة في اللاعبين الشباب ومهتمه الجديدة بعد اعتزاله كرة القدم Elbotola",
+        "player": "",
+        "content_hash": "96b22fa20a6af5c1429564b6cf3ffb56d25e9aa1c0affc1063f4f1624a093ca9",
         "sent": 0,
         "section": "sports"
       },
@@ -978,6 +994,22 @@
         "summary": "غير قابل للطعن.. تأييد سجن لاعب إسباني 4 سنوات بتهمة الاعتداء الجنسي Kooora",
         "player": "",
         "content_hash": "81981e3a53713292f859c63f960fa2968508764ba045e8428ce0c375f6647349",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5683,
+        "title": "أكثر اللاعبين صناعةً للأهداف في الدوري الإنجليزي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMitwVBVV95cUxQRzdzV3V6UlJBbEVFeldrb2E2TXBSSXZEOHplUXFSaUlLMDBsT0JKWFZLblFqNFVFcGNFcGRTdDM1dDNWQ1BnSmItTk5kcFRGVjkwWVQyNjd0RTNXUjVSZUhyLWlMU2IwZlFJTkRYM2NVUkxmLXA1TjByZkJ4aHR5ZmpLQTF2SXBEVHRqNnlHajZrSmtWMGs4ZHNOaUpaX2hhNlhmMGxzY2wyNVUyRGN5czZfdVVGZHI0TmFsemxkTktvcVJnZmNrYlppOGdiMkZrdGd0OE91TXRIdl90UjJxZ3dLWmxMamZyb3F0SXg1ZDh3b2tzYnBtNFdIOHZ5RWFUWnYxNmZVVWw0VjdManpITE5PVHVoSDA4VzlIeEl0OE9ab3Y4Q3RlQkRpalF4ZFZ2SnR2VVJMM3o4UjJVUzUzLW1ZOUU4WWZ3dy1iX3ZDZEJDSEJZMG9qSnAxMGt0MkROUXhoX21UT3Q1Ml93Sm1wc1g2LXVvRWNpaEZvbzFiWVQ1VTIyUENGNkxWR0FPMWV2R2ZtTlZtZ3pjR25aM0t0OXFoYzZlVUJDLUJGMWpqV0NxNEFKQXBIaWZ2WHpGM19adjlmY0hnR0VTZWd3RVlldTNpUVdiYmloR3FRYmZXY0d4YXJxTGlKT2hwVUNKb3ZsV0JQOERaUVZ5STRTazRDVDZ6RlJ0R2I0Z0xuUTV1b2NTUjZEbFFPZEN6MFlpTzFrTFAxYjBMZzJ5VHoySDg0LThMbjhuYnJmbGMwbzBvcW8yYjFZUGNMNnd1M3lsbm0xZjBrd2RzdWl6ZUdmMmRndl9lSzhyLXczQVpvTl9UYkl6MDRDakVfR0NiSktud1Bna050R2J2WGlfQkI5d1lvMFQ2YVYzVDE0Q3BwaUF3NDN2T1VBZ0oxcFhuNFlkSzJSZWhWYnhMWQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 17:56:00 GMT",
+        "discovered": "2026-09-26T18:50:05.445601+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أكثر اللاعبين صناعةً للأهداف في الدوري الإنجليزي يلاكورة",
+        "player": "",
+        "content_hash": "8e53ac096217e9b217c5d74807662936721e8a28979ac3127f2aae6f09dc5dbd",
         "sent": 0,
         "section": "sports"
       },
@@ -1554,54 +1586,6 @@
         "summary": "بث مباشر مجانًا مشاهدة مباراة العراق والكويت الآن في خليجي 27 365Scores",
         "player": "",
         "content_hash": "79e6b2375b75a4b0e7bb45af23b24dbaf8850e0162f263395746ab5ce299f963",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5600,
-        "title": "موعد مباراة الأهلي ضد برقان الكويتي في بطولة العالم للأندية لكرة اليد 2026 - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOei01OUs3NzhreE0zekFmZVVJN3FYZG5HSlg3QXdSejRFS2VfUGF3dzk5bFdiZHBVcGo2Q3BlWm1SVzVZcVlSdng2RkU1WGItRmtHLUVIcXhOQWpUXzZEMHVOVkZNVHJNc0VlTUVscTA4M1FtMlVRNVlIQXJtM3ZZWnRpX25rQndyZWpKSE1hZ0hQd1RscTBjV0Q4ZDFBa2k5eDlVR2U2ZXpRdjVFZlVZNEw5WmNSVk9KT2dZWlo4ZzhoeHpUd0dqdUx4djJsWHVmZVZrTHBIVDJORmh0MVZMSWwyVFFWVzFnY3NYWVJ3RC1iNlp2V0k1bnZxSlQ?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 15:25:21 GMT",
-        "discovered": "2026-09-26T15:47:24.786260+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "موعد مباراة الأهلي ضد برقان الكويتي في بطولة العالم للأندية لكرة اليد 2026 365Scores",
-        "player": "",
-        "content_hash": "64a3d99dbd31947cc21a3013307f0c9606b3d4e215437822b8b857956ac0ab7b",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5660,
-        "title": "لاعبو آيرلندا يصوتون على مواجهة إسرائيل وسط دعوات للمقاطعة بسبب غزة - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxOcnpSbUtGUFgxdDhBYmxVUFBoTG1QREJpYm9pcmY3cWJkbGIxVnFlTGZRSFI0YlYxV3pKUFdLSXBlOVRLeVNFNXoxWE9SRk42T2UzSlQ2TVVoTTFneGFGcGZqT0U5TVBSY1psUUJ5NFJCV1hQLUR3NUNnZmhMZC1MeEN6d3JBbWp1Zm1wX3hmWUFQZ2dKZG1VbGx2ajk4dmkwdjliWVhsSUFRZmVndjZvNjlKbHlfUEJQR3JFS3ItU0pfYnN3MXR2aFdPSWpQTndPUVdNeTVVSUFoMnJRVWhsUTF4SWd5VnVUQjZqYlVhMnc3NDVnMFNGV04tLTB0NDczbDFNdFhRUHFFaXFnU1ZTRzZUdGI5QThIWWUyc1B3dGw4Vm9RZDlYNWVEc2lpUWNFNmZodF9YREV5V3pZLWpCdUJ3UDF6LXVjMGRUUGd1V2xEVjBPVDRyb0ZRWWZPYmtveV9oX1M3cWxPUFhyVFZ0Uml1bkdxX1BjWnh6WTAteHl2TmpEQ3pNZmFBN0JFSnA4Zm1lRkJ5VWVndmZfTXJTYWNRdGxsclZJemF1NDJVeVBSem11M0dCb3lnSE5vUmdKRVBTeGY2bUhmb2RnOUNjc0JMMExKMkZORzdTb21sWEZyM3hRQkdzNU1GLUstd3VOODh5NldPdFMxOGlyLV84aDVjTDE3eC1qRi1keGRwem41N1dPM1JnLW94NmFOUVZsMEdMZUpIQlBUT0pXa3hLdHVEQ0k5Z1NZc0ZfTzhOd0F5b3QxMlFWVlR6UG1FM0tzdnk4VnJLdm5MQ0RTWDdpZlExX1VEYjBtaXd0UEdCb2tDQnlFSFB0Sk4xRmpHWGMwa2tJZWdVRENiV2c2dHVFZThiZVBlZlNObTNrT2lxMmpwTGdTejk1NDdB?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 15:13:27 GMT",
-        "discovered": "2026-09-26T18:20:35.563654+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لاعبو آيرلندا يصوتون على مواجهة إسرائيل وسط دعوات للمقاطعة بسبب غزة الشرق الأوسط",
-        "player": "",
-        "content_hash": "a7612cc62470b6067394e28fbc03f2d653f17800f7da175ce2b4de01ed76c81d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5611,
-        "title": "بث مباشر .. شاهد مباراة الكويت والعراق في كأس الخليج العربي \"خليجي 27\" - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxPWWFoWXY2ejFsSVI4MnBDWkgwQU9zLUhMeTBCNm5RSVJQU042NEZBMDR1c21LSzdCM3AwMDhLY3NyUmwyN0NtYUo5MTVjUDdkLWRrcXVyTjZrZzJZdG1rVS1WT1JkYnlQWkVFbmkwdl9veFVKUHJoQ1lPZVl2OFhmN2NadFc0TDg5SkpmNGJFbHloNFNycGQ3VWRSdmdGS0ZFVGE4Z05HNTJ3djY5eXFrNHQ1d0diVmpWeHJjZXZKT21sMy0xMEh3SEZBa0JJdlJ6MmRVYVMyNjRfckVUNkZXZ3NsaDc2eEQyaVpzU2Q3Rmd5Z3ExeVZLQXNlRDdMSlFpbUZHLVU2OEVLZmM2Y3M2SFRPenViRGR2enhraEc2TGwzYV9ncHJQbmpldk1GTU1WbmxCWjNMUXBtNW1ldk1BclZkSlRSbFlsTW41ZldfOUxIMVlaZ1hBdzVvalU4UXl3Vk9BZWswU3loV1MwZE1hYmZWQl82aWdGM091c3ZjTTZtbm5HcUVJaEV4bXNTUmtjMkVrdnA3bmUwUFJIVmRYYUVzWXJwZ3VCN0VJck9HdDdhUWhHLTZuelc2clhBZTBfdVZtV2ozNGxBcmlwdlZpODJHeXdZM01NalBEdzI4NXJ4MXZLNlByaV9vSUktM0tlUHlCeUpWMW5PVE5Sa3hwdTdtZWFEUkxjQ19rX3FGOFJ5WFRtUzhNSkFtenM1TmVaa1pnc0k5WEFhd0V3aFBOQTBHR1I0bkFQdklsVTlocHF3Z1NieUtkMGpQcEZ4MXFpcTE0LWpXWVNYNFRWOVBSekFocVNKOUxwVERCSg?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 15:11:24 GMT",
-        "discovered": "2026-09-26T16:25:21.560032+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بث مباشر .. شاهد مباراة الكويت والعراق في كأس الخليج العربي \"خليجي 27\" Kooora",
-        "player": "",
-        "content_hash": "e8cdfbcd7e75624599c0685e96159bd1ef10358749932ef7258c2e566c32a2d3",
         "sent": 0,
         "section": "sports"
       }
@@ -2280,6 +2264,22 @@
         "summary": "اليوم الرابع للجمعية العامة: إيران تعرض جدولاً زمنياً لفتح هرمز وواشنطن تتحدث عن مناقشات \"بناءة\" BBC",
         "player": "",
         "content_hash": "2b0c7548a9013086f97f13387659c4cf9e8a3296052e975add3a5128aa572260",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 5684,
+        "title": "ترمب يرفض مقترح إيران ومصادر: يميل لاستئناف العمليات بعد الانتخابات - اندبندنت عربية",
+        "url": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxPZE9Vb0JNUUJGY2xjcFB3aE5UV3J6SDA3RDRFVUhzcldQTDA5WXlLX3A2bmVNZFkzT240MEVkVlRRSFJZTDVWNFlXM25Zenl5TnRRd1JNcGthZU1ZeVk0VEk1WVpEeUFqd05ZRTFOQW83aGVrMGdFN0RmenFzelFUYWg1UzNKVXVZOFBpeGZhSmJIVVE2RldqZlZvdVZ2NGxINlZzZ0d2TExqOFAzT1J4ZFU1WC01U19NVG5qcFZiWmlPVmVHMEI2QWZSU0E3b3pYUTQzVkVveTRHWWMyN2JsVzg3WGNZV21KOXU2MWhjYWV5RUhucVA3c09JVU9nUjNzY0NxcVJWVmZLNXY0U0J1enduZ2dEekd6UmFOVWRxVGllb3pqOHQ2QkVDVHFmWW5iTGNCVUZmRkNiLUFlaklJYWdqU2wxN2k5UnYxRnFMWnFJUThpM3dmLXFWTXhaZ2JVWjY3cFNNNTZybDdDbFh1bXFPeWpfYWVXYUhaMHZ5aDlEbXQxWlZFMXhmNy1HVzVjOGF1bk5wRjdTU0FTTnNQV09Zaks0aDJVdUh2QVB5eFVvLUhTZnpHS296VVdxUUZFNHBaa2tZdVZ2YVdrOC1LcmNFSDBSaUg3Q2dTbVpZZFpLdF9XNkdzRC1NMGQwQzBBUTZQeXZKc2tSaHdpd0xrb1R0Z1pkd3IyM0NJcGFrSl9SQ0VQNUpoQnJCaXRYZzZvejdrdlJpQ1V3anZENkp5dUhfTE9fVkxaVUh3RndwZk9wVU9iY1lDR01scWphdlFqRnhORlpFdmVyUHJrN0VNOTBPQkpLcnc?oc=5",
+        "source": "إندبندنت عربية",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 21:31:29 GMT",
+        "discovered": "2026-09-26T18:50:20.661509+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "ترمب يرفض مقترح إيران ومصادر: يميل لاستئناف العمليات بعد الانتخابات اندبندنت عربية",
+        "player": "",
+        "content_hash": "9521f41b34531433a6c693a530f821d1b577dab0c72b921700496f3621f37693",
         "sent": 0,
         "section": "world_arabic"
       },
