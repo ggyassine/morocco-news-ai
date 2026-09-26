@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T17:28:37.567753+00:00",
+  "updated": "2026-09-26T17:41:39.302404+00:00",
   "total": 149,
   "sections": {
     "morocco": [
@@ -484,22 +484,6 @@
         "section": "morocco"
       },
       {
-        "id": 5151,
-        "title": "مفتي السعودية يحث على \"الرباط والجهاد\" ضد جماعة أنصار الله، وإيران تقول إنه لا شأن لها بما يفعله الحوثيون - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKUDNMX0h0T2MyOXBjaUVuRkxOSGtvUXI1dlg2YVJfZUdrTU55MUs2LTBrbVZZRjgya3lzcHVSdnpycjZOVWNtcUhxSFIzRi1FNVZSa0NjTDlVbzBnYWfSAWNBVV95cUxQWGI4VVlFUm5McEFfblg4Y2diOTFzUVktTDh6dFEyWndvWXF1RTM1cW9uN0NDTEUxVFN2VlA1WUEwMjdJVnlMY05yRDZxUUhEdmZGR0ZFYkVLMVY3RmdSZ0pzNHM?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Fri, 25 Sep 2026 10:00:53 GMT",
-        "discovered": "2026-09-25T11:35:20.849644+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "مفتي السعودية يحث على \"الرباط والجهاد\" ضد جماعة أنصار الله، وإيران تقول إنه لا شأن لها بما يفعله الحوثيون BBC",
-        "player": "",
-        "content_hash": "e782a4f76315f3c3bfe02a730710f2585caebeac05cf87efbb24e88cbf5fdd31",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 5194,
         "title": "المغرب-إسبانيا.. بوريطة: الشراكة لا تبنى على مرافعات لا أساس لها وخطاب عقيم - Le 360 Arabe",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvR1lZTmpfZGNSanBldmNuNnprM2sxYWlTVFdzQmFiTUxoU2wyVjhxbmZpWGN5N09kT2tEN1phUjFuRXdSRWpUNVJMSzY3elpVNTlkUkFINURhTW5jcHBkT094dUR4TG82?oc=5",
@@ -802,9 +786,41 @@
         "content_hash": "266ebc8afa2347ef1462ba717aab93f2506c4afd93b028a53ae9e0e0b0580c1d",
         "sent": 0,
         "section": "morocco"
+      },
+      {
+        "id": 5298,
+        "title": "لخصم يكتسح الانتخابات في صفرو - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNc0tCcnRZRDA1N05NR1dQaGwwcmdWZTByNG5KaE9TOGZVTzhjelpFQTFhSkFpSlpkdXNZd3ZyUHlIUkQ5Zjh2bVlwaVQ1dGt5dTFEaWRhWDdtQ3RoRjhhOTgwekJKbmhtQVktZHUyaHJKejZnalFKaDA5TEYtSXpZcFZGdG5VSEFvVjZmZFhCalp0azNWdUo3ZXNmUW1vS21oeGFQOUdCRXJ5WWNwX256THU2VTdub1Q1cDJ4V0FkY3JLazcxQ0Z3MTRwREdXSFNTTG4tSVNYTEJfbEIyX3NrTzFYM0dxb0NhUlhTbS1qX01PblRMM3BoZnpUMHZnV1BYc3ZtdGdKNVd2WGQ5OEJiakVjODc1OVkzYWVPMw?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Wed, 23 Sep 2026 23:40:41 GMT",
+        "discovered": "2026-09-25T18:59:58.008168+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "dc6ea4f8bd1438d2001fb81fbd7e129f441e1bee49130b6365a24eb2bce39413",
+        "sent": 0,
+        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 5647,
+        "title": "إصابة عضلية تبعد أمين حارث عن الملاعب - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9YYkdfdENtS05Oc3hXQVUxNGZNeXpnT2ZHR21JSmpEOWc3c2lNSkt4enRNQXEwZzVWamNyVDEtZUFGcHJ6V3N5Nw?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 17:32:40 GMT",
+        "discovered": "2026-09-26T17:41:17.665080+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "إصابة عضلية تبعد أمين حارث عن الملاعب Febrayer",
+        "player": "",
+        "content_hash": "b003d6a2761a2942f4cedbcb807ae1b18774d21769d96ff7161449db0a461cd0",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5643,
         "title": "أخبار و معلومات اللاعب تيموثي أوما لاعب وسط تشارلتون أثلتيك winwin - winwin.com",
@@ -1526,6 +1542,22 @@
         "section": "sports"
       },
       {
+        "id": 5649,
+        "title": "فيوري يقول إن نزال الملاكمة مع جوشوا مهدد بسبب «أزمة تنظيمية» - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxNRTh2TnU5VTVaNXQ0OG50YjVJVVN4cTVtWlRtOW5VeU00Tmkwa3Zrd1pzVm9Eb3dmdmRGWXgzRFFSLVRMS0x4THFneVRwVDZEbXZidDlvSXFSQVVGbGVUaS1vQXQ2RGxhSHRJX01pN3h5RHVjLUFtUXhYZVg2clRBUlJTN2tfRUd2OWE3UHdMOEI3NnY3aEh0MzdCWGVXZDFiMUFHcWNScTA1QjlHWk51aWhYSmhHNjRtd29FSkF0LWlMVzlOVWhpczA2S2FOakgyaDhBeWVFak5QU0FKRDY3Q21BbGVKUURQV2JXR0RVdk9KUndTWGhXZEo3MllSdW1VaXJGT2JOZlh0OGo2dFpLT1pwY1hqXzFOOXB6TDNwZGliaVlCeVpndGVsSEV5V0E3UzdUZFREZWtqMkJvdmpzQ0Z1a1pvTWdqeko3cGZzalowMUxYS2F4NEZ6cTNqaHIyTEFqQXNNWUtZTEhkUjJUNUozOU1HVW9fRno5UmZKSlpkalJMbU9tM2w4Qk5qRV8xNVdwbVhlQlBBSUxxaFdNa3NSX1dlUFY5NHJJQ18tOEhibGVxYUVlc0NOTHFDcERQa0hUWUJCMHdnVG5zV1VLaUlRNGY5ZkR3ZUFUV2JFX3RidXlSaWRiRFk0c3NWNG03djRLM0NRcUxSQ1N6UllzY2JpY3NlcDl0bi0zU2N2STcteDJWdXk0cDl4R1VvUmM2TU0yTm1FLXY1ZGVCZHFHdDVmSkdxWU5sRzR3Z0lDVEVpekdERVFFSFpXQnBhSmQ2RVpydjJiRG5PUW03cjRzcS12QjJ0cUJ5T3c?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 12:56:25 GMT",
+        "discovered": "2026-09-26T17:41:22.410595+00:00",
+        "category": "أخبار",
+        "status": "غير واضح",
+        "summary": "فيوري يقول إن نزال الملاكمة مع جوشوا مهدد بسبب «أزمة تنظيمية» الشرق الأوسط",
+        "player": "",
+        "content_hash": "36f956c66e36be7a80cb7d8ae383ecdd7e4fb8cc11965338e9e0381277e6b724",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5565,
         "title": "عاجل: مقتل 11 شخصاً في هجوم بسيارة مفخخة استهدف نقطة أمنية في شمال غربي باكستان - bbc.com",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEcFZ0QV9LNnpwMHMtazBpN2oyYnJWTm84b2dIWTduTWV5aVhUTkQ0VVBDMVVVdVdKd0VjUU5remhMYU9XSURqSWxPZGtFYmNlOEh5cnBILVNvNlJMWGfSAWNBVV95cUxQaHZZSlUwaUs2Qms5b1RDZ29MMFlXRk1BeXhuWmY4UmtnbkE2VXdDYWxBRTZpUUFQcHNuU3hDVFhGSzAxUGQxQ1hsekVTTDdGQnVoM1NUUjZVZnJOUWxtMHM1Qmc?oc=5",
@@ -1570,38 +1602,6 @@
         "summary": "وداد تمارة يترقب أول ظهور في تاريخه بالقسم الأول أمام الوداد الرياضي Elbotola",
         "player": "رياض",
         "content_hash": "20007e4c2ce6edc96ef16f2a3bf197d357e01740b94d5f7beb8ea97b39745766",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5568,
-        "title": "رودري: لهذا السبب حديث اللاعبين عن التتويج بالكرة الذهبية لا يفيد - filgoal.com",
-        "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxOM2JDY0QtZHdSUHJWVks5cG5BNTNZTFFRUEFuUGd6TU9FZXhFT2NXQ0x4Mk54VWVmNGhneHUwZGR6YzhfODlrcHYtc1kyUDh5WjZkYWhwdjdzT1pXZVhrVzM1VXBWa0gxUXVBMko3VC1oZzAzb2JJVHdVSFhzSEM3dmlVTTJIRWx0YXVlN1ZXZXBnSENTbkpQYlhJUTVLUThCTkdnWk15LTZGNHliaHdLVTJyY1Jta1NmWFBQbmo1NmtDTDBuano0WXJPZXhsSXFzcWNWN0htdkl3NWhra2VTeGg0YnMxYjVzVVB3dmZvYjhON183TFcwaXZteG5wREh3VjNTbUdPVHkxVkRDSnhfMkRoSEtjc0paQkNUWGgwSEM0blNaOE1NcHV2TzNZb242dUJMOHVfUVlJQ25aS0xJX1FSc2NIejRGbS0tY0xMLTgyekVvVDQycVdOVDlOYnNQTnZkalV5czU0bHhiQ3BrQlF0Yk9xNWY2SE01dmk2c2gxaGVqcTdxRjh1TldOQUdDaXZJdTFVUzJIZVNHVG5EUzlmX013X2ZOTXhuLThGTU9sUzFkUi02Qm1zMnVvRFNmQTUybGpDU2I0RWc5d3M4LWg4UEVKcHZhQmxTUG8yQlViakE1cUJFMTlnYmhuY3JjRk1ZU2xBUlNjVE43a3EzMGx0bmZkMV9uNDNTS1dnVdIBlARBVV95cUxNOThTMldiMFFYZ09VQ1VPcnV6aS1UTHJQTGNERS1faWFycEpkVEdtMk5iUk94aE85V3dhQS10Q3JiWGRINURsYkNPYjJ5RWZXY3FPVnI0LVF2VGN6VnQxZS1za214dTluWHpjSktqeHF4OUtySFJPYnhXNjBKc3BIczlNM3I4R3RXakNESGxCTS1QODNIVk15LVcyeHdTOFhGM1J3UnJtd3JQLWptTFNQVzRpWlI4eGgtSVlCcjB3emdZUFVyYXlKM2NfU1RuU0Z5cjZRZjZrdFl3dmVGem56ZmNBMWV0dWhGWE85QzVaOWdnYld1TlBhNWpQcXc2dHo4czgxUTdkUGtuRk9IMDBKNkY0b2Rtb0R4Z2MwYmp6U1Nkb2xISG85SWtWeUFSR1JPUmVsTG04aS1tdDRvR1ZTOHZlYU9PV2xReGhNdHo5Z1I5emlvcENYLUcwblVTaERPb1BLYkl0d0RXdWhQS0UwUjF2OHJMTVpxdW1SdjRROVhlMXZvMnNRdXY1d3lsb0xHYWgwTDNmX3Jfa2dWc051Y1VJWHhXazNiNnVNQlNNLWgyRFZma2tjNHhlNm1JQTlmd1FCWVEyQWFnS3dwNU5XRHA5Ry1qNVVwaUtPanBkREl0aHlZV215MkczLUV1dHFMTUtBQUtsZy0yZkJMaFU0YkJoWGhjd2QzOXFiY0RhUF82QzVC?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 12:36:05 GMT",
-        "discovered": "2026-09-26T13:03:28.128760+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "رودري: لهذا السبب حديث اللاعبين عن التتويج بالكرة الذهبية لا يفيد filgoal.com",
-        "player": "",
-        "content_hash": "b8bda79e1745f82e37210ae9513289c16cf45e1a71abf11a1d4050d929ed6c56",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5561,
-        "title": "26 مباراة دون صلاح.. ماذا يفعل منتخب مصر في غياب قائده؟ - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQczJBeGFBYnZkZk5scHF3Um1XX3hrUDBFbHg3bVRmRlVfVTRTX25HVXRYN19IWWxuVUNpVEJHMFlMV1Z1NERHbU45R3BreVhIZ1pEVzNHNEJlOXJqU0xCT1FkX0lBNnAxcGFTd3g0d3BMT01DQ3dzLUNidlpFMkNTLXprcGhCT2VzQy1MZ3AtQmJCVFZMZk0zVWxXOTBlbHB0SHEyZU5SQ0p6bUJ1MUlvWkZlUkY1WjQ5SVF5cE05MEpZNDFCSExRSnh5c1hGaGJkTlZ2WGpuTlVzc3BXanlGRTNlWUJsTHF6ZUNIbWVFR09iaDFJdGlITjJLQU1QNWp5QUs5UnBzeS13QmdlQV82Uk90aUFfeWthbVNRX0l2VkxZcEhlQWw4VmNTMk1yMnA4Q1JXMl9hbVBkZ2pPMFZuaDFPT1A5U3kyTWEtdTQxQ0xxelZiTDUyZ2Z3TmxJb2JmV012OW9uSkdnaE03azNNRk52b3dFYi1DZGFVT3FHZTk0Vkc4RXF4RTl5dVdnYWRLamNmdjFTbnVBZ1Nkb1ZNVm5kdXdtbktIbHExckpwSWw2Z08tWFljV0l2VdIBwANBVV95cUxPWFRrX2FsWkxtVW9FX1hhbDBabDVtY3QyU2l3bDNLQ19STXJFRE5mc09vVFl5bkRnU2FBYnBoTmowUUlmVVhuNkhjZ2ZMdFNSRS05ZXdMLUExWjFsMWxVM0tmbDVhVHlZdnRKS1hxM0dZYVdidVRGV2xBT3dITFU2QkJ5ZUxmNDNmMXRQZ1dtblFaRjJlbnlINUtITXRxT2FLTHRJVHdsd2VEVmlBS0xQbzdVVnRJOFYwMnhIQjF1Uy1xS0NGZHI1cG1lSUJjOEVCWHNkRm43dUY1VHltRTUxN3FtaVZCWFRWUTRVVTJVQldSLW0wVkx3SXRBaXhjYlViOUdGQlN4eGVvdTBELVUwT2lCSFBxdzNVTWpqaEsxXy1CM2RETUw2UjJ6VlREcE1iNkR1MmFmdXFiX09JcmJLaDZlb0JnQXoyczRKUWlTZEl3N1N4MGw2VjVYa1JCaktUZk4teUMwZHUtV292Q2lMTHVoNlc3VzBmQnI1bm9KLXd2eG92U1RMaTNnWFppYVNlSXF0N19CWjJJbWtwQ0pHYlhzNE1YdkNMQl9Vc3JNZ2RaZW96cWQ5TzktZmNneUVJ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 12:29:00 GMT",
-        "discovered": "2026-09-26T12:39:53.283453+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "26 مباراة دون صلاح.. ماذا يفعل منتخب مصر في غياب قائده؟",
-        "player": "",
-        "content_hash": "9070e70b98547a86b423e51501668cd305dd0981cf158f997352f6e78e2fed41",
         "sent": 0,
         "section": "sports"
       }
