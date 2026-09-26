@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T15:47:39.280216+00:00",
+  "updated": "2026-09-26T15:56:46.870052+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -532,22 +532,6 @@
         "section": "morocco"
       },
       {
-        "id": 5102,
-        "title": "المغرب.. انتخابات تعيد توزيع موازين القوى الحزبية - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOaGxNblNmemVzdERLSDRMdFRldU1icVFEZ2pvdHNqamR3Ukc2QVNhbjJJVy14LWVjRkVpQy0weV9iS0JvU1dWMDNBTXR1Q3I4U1BsWlpRODVuY3l2TldRQ1JnakVFdk1pU2lFTFc0Mm51UnB6eXI0cV94ZlgwZXZHTUF2Z3pISnVCallIbUxDTUZUNkI4NnR4VkhyRmJKaG1ZNzZIQjBxMkVrT3NNX2c1VnlvNDdOakN6TlVxQjVTMkZSMklLTDQ3bGpaS3F3V2hGeTNlR29rcGNTQURkU2x3N0xVR1BrOFdDNDhMSUxRRDBiUWk4d0d6clUtOUpvdkxWUldCNmszSFNaSlpmLS1wUG1Db0hQMzR2QTBJYjNUaVdFbTl0YnFWTEhZSUo3YkxuSTU1MFhJd1N5My15TGFNdGR5d21KZldtZG5mMWZfTlZmbnJlVy15Y3R3WUp1QS1XSlRqNnN0NWlYeXJ0eGRXazFLM2JMclhhLVNISndLMGdlVGR3RV9kU21kRk5wQzNRZ0xDXzF5djNRRGFGXzM2ZlktRGxlV3JuWE9zVGp5UUZvUkhSM3c?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Fri, 25 Sep 2026 00:52:48 GMT",
-        "discovered": "2026-09-25T07:02:11.012873+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "انتخابات تعيد توزيع موازين القوى الحزبية سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "c42cbeb3b423f01164dc0f973ed9022fec4fa611d98eed30da8d8cd0a9219b56",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 5259,
         "title": "الدار البيضاء.. حنان الفاضلي تحكي عن \"30 سنة من الضحك\" - preprod.snrtnews.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWXlnVU5odEJienpOZTI3SG1ia2N6MGZDX3kycFphY3c0TjJwTGdBczRJM3N2N0dRTy1GZ3g5RHc1NXlYcjg2VUJyNGFRbmFGUnBDei1CczVVd0xnWE9WYjJQZWF3VVZWMjhGeUZkMGxoNlh3enFna0YtanZyTkNLdGFTdlQtbG1Kc3JGUA?oc=5",
@@ -800,6 +784,22 @@
         "summary": "\"الأصالة والمعاصرة\" يتصدر الانتخابات البرلمانية سكاي نيوز عربية",
         "player": "",
         "content_hash": "cf220a66d80ff28bdf8f4532c831a002c4d8f00cd9ce10ef6c3299387d8023b9",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5443,
+        "title": "النتائج الأولية ديال الانتخابات التشريعية فكازا.. البيجيدي متصدر فالفداء وعين الشق والحي الحسني والنواصر.. الاتحاد الدستوري ربح 4 دالمقاعد ومنيب حسماتها فأنفا.. والفرز باقي مسالاش - كود: جريدة إلكترونية مغربية شاملة. - كود",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQajBNMXVYR0hRZDF3SjVmbDJxamNVZEI5dWlJWEZBeXhlSXVpNi03SEJJQ0NWZU80d3liVU43dGJNN0toQzMwUnYyMzdwNkNhaG1BMk55RzQzWkVjNElIZWVTaUtEdU9pWjJnR1dJd0U2dG5pdlY3MjZ3UFlWWjZwampnWGQ3U0ctZnkwVC1rdW8tdkg3X2txOVllN2Zra2VHQ08xdEVDeTQxMElZdVJWWk1VV1BMWllTTXVneGxIOEtYX1R6OUJ0WEtSTFZYNUkwbHRxMXdJZmFkRkVZV1pOUi1NeGpnTTM2d2xSMkVsLXg4MHhRNVBELXBqdElad21oSThxeG5sX3dMcXE0Y01GZXBEc2lPaVdtbS15R09aRktQYlhtTlFkTlh2MWp1bG9QY0VZcUItTHhzZ2ZOVjB3YzhHMElHcEtP?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Thu, 24 Sep 2026 01:34:54 GMT",
+        "discovered": "2026-09-26T01:45:06.395709+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "النتائج الأولية ديال الانتخابات التشريعية فكازا.. البيجيدي متصدر فالفداء وعين الشق والحي الحسني والنواصر.. الاتحاد الدستوري ربح 4 دالمقاعد ومنيب حسماتها فأنفا.. والفرز باقي مسالاش - كود: جريدة إلكترونية مغربية شاملة.",
+        "player": "",
+        "content_hash": "38e58330a2205247b2fa0a6ee290c514dd6f1d7ccc74961f9224fd13564cbc76",
         "sent": 0,
         "section": "morocco"
       }
@@ -1058,6 +1058,22 @@
         "summary": "انتكاسة وغضب.. رد فعل ريال مدريد بعد إصابة مبابي مع منتخب فرنسا يلاكورة",
         "player": "",
         "content_hash": "d52455f6092475c8e945d6c29f5e57a76e3df24e16676380471d3b1cf1d513de",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5602,
+        "title": "أمام المستجدات المقلقة: هل يكون فوزي لقجع هو البروفايل المناسب لمواجهة الفترة الحرجة على حساب المنصوري! - كود",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQUm1vbmpKR0ZzMzBMZkF2NGhVNjZYMWFIZ2J4TEFKVEtIa2ZNUkY0Uy14Ulh3dW5FTnF0TzlTS2htcG54a0pFNG5qVUlCNmVGOTlqQlJYam56TnljZGcxbVRKMVRVaWVMV0M2eWVJbW9fZGpxYXRBeDBua25RamUxc2xUVHJoc18tX0d3REw4dHZCSnd5U2FaQkhxQ1k3UVd4dDFVV0lzZHhQQ1JNV1FTTEJZLVJMSGpMcUtYdjdFWEZjampqV240a1JLOG5HeG5HbER6Q0ZfOWJrbzJXQXlFM1NleERORGsya3lubW1QNm1LN3hUQ0YtblM4NUpha0JNYWVJdEJBTy1VS05taDhXSlBuM0pHa01EWF80WGRsYUFoaGhZS0NfZTduOVhReFhXOVpJVTl6U0JRRVlVSS1oOVVHaXVaNHM5YkJR?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 13:19:38 GMT",
+        "discovered": "2026-09-26T15:56:18.612345+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أمام المستجدات المقلقة: هل يكون فوزي لقجع هو البروفايل المناسب لمواجهة الفترة الحرجة على حساب المنصوري!",
+        "player": "",
+        "content_hash": "1420d27ca0be022dff9ffbc2ffde15a8d6284b79f8faaf564d391111fc195951",
         "sent": 0,
         "section": "sports"
       },
@@ -1586,22 +1602,6 @@
         "summary": "القنوات الناقلة لمباريات اليوم السبت 26 سبتمبر 2026 365Scores",
         "player": "",
         "content_hash": "fc938f8d07aa63477b9b04a6ced9431efe00994b5084bb44e4061354cf446aeb",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5461,
-        "title": "قبيل الانتخابات.. لماذا حظرت البرازيل المراهنات الرياضية؟ - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPRFRsbWVZZGRUa0pSZUJzOEtyWXFoQkNjcWw2ek8tTXdORkZWbmhUcHlqa0pYOTM2SHQ5eTZ6MTNLbWhpWGtfaGRVUWl5Z1BBMHpvbmIxLWJNNjFEMDdnWkJSSl9jM2NEMnRzOXpSM3RxY0VGdUJ3VXdmSmdxSjUtQk5ORTN3emN0THlTOHhXaHhCMkhXNHZlT3pWM29NbGhlb0JrMXN4QUxLNnRxRWF3STJRb2E2YmhDeG01X2hodWVURk5fV3BRUDJqeGRVLU1ldzNxaHU1R21wSDNSRksySVo4VzZ6MV9acWt5bGNuMXRrNEUwaXV6czdIZ1A0WFo0dUszZVpuOXAxYW96TmlDR1hDUS1kVmdtZ2lFekR6ck40RFVkczZFTkczbndVbzJna3NsNmZqNFNZTG1nT09NSUtXTmV6Y3NrNHN4ZU45NmVVd1NkWnVqQUZGNUJ0Vm1QYS1zM3NHSkZZQ0dhbVpCeng2cWZyTnFqcVg0RVB4VmRacjlVNDV3XzdiRVprXzlQaHZTbmRiZ1ZiZjhzeHpmNGNvY1BBN1poMldMTkswM1RIekNkWFBmYW52QTBRNmgzbUdtTTdQbkpVdWJzQ1BIeU9PckxEdjNHNG16SDhIVdIB5ANBVV95cUxNaWNTX1FPcHFKTnlxaUxlcHBJUG5XUWpaMVAzZ0ktRXF1M09UOFJ1T2g2c2QwOWhVdzM2d2xrNm1JOUI1SjJvakxWZmc5cENOeEx5dUpYcWhJUzJqVFNEeTEyTnk4NERiRGlTUFFSbjJVY2xFQzA5NXZFbWlCNk5qcnpac2lnMTBYeHBPMEV0LS1OVVQ1LUlYXzItTm1QSkJWUEN6NVlxZUNoT3B0YXFhbl9CQ055Q3lKVWJsdXQyQVBZdG51cC1QNXNBbllzMmFvUnB0eV9tY0JFM1FmOE9Qd0pGNndIVVVrbnB5R2pYNXlfNkV1NTBja0NvRFpqbnB5ZEdHbVpiZ014bkRvWkdWNmw2anlBeEUyZFJMRU9xWC1HZ1NpaklzNEJKZVI1WE1FcTRiS0RLMjFpcGlUdDg1a2djRDNiZ0NodkpiSWRRMEdSRjdCZEFjVy00NjR5LS1BbGV0amswQm5ueFlqcWdBR0xoTTgxcVF1Y1haeGc5Mi1pOWhJUDRjc0oybEhCejV0eFZNbnJJV0tNM1JfN1hwWXctQm9CUk42QkxvV0tITlF4emZfYmJ5UERnalJpZGNSRVZobXlZcTJMX1lZQlZZY3RuMUpCTk5RRVJuSmkxOHBranFU?oc=5",
-        "source": "سكاي نيوز عربية رياضة",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 02:29:38 GMT",
-        "discovered": "2026-09-26T02:57:50.797346+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "قبيل الانتخابات.. لماذا حظرت البرازيل المراهنات الرياضية؟ سكاي نيوز عربية",
-        "player": "رياض",
-        "content_hash": "71e2a549e3cafa162c1a05fe5040d39a19779de605a9345b5ceff50af145df22",
         "sent": 0,
         "section": "sports"
       }
