@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26T04:18:55.500909+00:00",
-  "total": 146,
+  "updated": "2026-09-26T04:33:15.627482+00:00",
+  "total": 147,
   "sections": {
     "morocco": [
       {
@@ -2184,6 +2184,22 @@
         "summary": "التحالف بقيادة السعودية يعلن اعتراض طائرات مسيرة أطلقها الحوثيون باتجاه الرياض القدس العربي",
         "player": "رياض",
         "content_hash": "2bb44b67471b06e4866b7e537fe48e006cc98340d3dbbe64eeb58e28165d8a64",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 5476,
+        "title": "بعد ساعات من اجتماع \"اتفاقية مكة\".. \"التحالف\" يعلن \"اعتراض مسيرتين أطلقهما الحوثيون نحو الرياض\" - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQXlKQ3ZCdkQ4bUU3bnl2RVJiUml5dU9qZkJjNkVFelFfQ3JpZEpIQl9jUjRqRTk3MFdvWVA5Rlc5cE55SS1Mal80VzFiM25ObHNhV1BvazFwLW1vZ2p1ZnVNZFFxdnlJOENJbUhobXZISXlWN0FqZDlLb1VSNENnRm9DWGw2ckxuQ2o1TTFDc3JlWUs1TUxsUEkwUEsweDRsM3BUOVJzRjJCNkhram10a0NlVW5yU29Sc3dzSnM0bkJPY3RsV2I0?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 01:29:22 GMT",
+        "discovered": "2026-09-26T04:33:15.163709+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "بعد ساعات من اجتماع \"اتفاقية مكة\".. \"التحالف\" يعلن \"اعتراض مسيرتين أطلقهما الحوثيون نحو الرياض\" CNN Arabic",
+        "player": "رياض",
+        "content_hash": "82f9b8634fd3eb73af42dc67e6e9ef8f652957ce834a8060e28079e3a028f3c9",
         "sent": 0,
         "section": "world_arabic"
       },
