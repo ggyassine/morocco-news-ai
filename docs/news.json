@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26T02:58:09.942615+00:00",
-  "total": 143,
+  "updated": "2026-09-26T03:12:31.303296+00:00",
+  "total": 145,
   "sections": {
     "morocco": [
       {
@@ -516,22 +516,6 @@
         "section": "morocco"
       },
       {
-        "id": 4967,
-        "title": "الانتخابات البرلمانية: عزيز أخنوش.. من قمة السلطة إلى الإهانة - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KY05yb0hoRDdkdHE5ektja0xETTRwMVdqaTI0QXgyWFpHcmV1R3lnTzQxemR2SG1RaS0waVFBamlvckdURm9mem5TQlJpOFpuZVU4Z3ZGU2hkYVpvZXFvUURkNktySjVh?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Thu, 24 Sep 2026 20:33:23 GMT",
-        "discovered": "2026-09-24T20:47:39.710783+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الانتخابات البرلمانية: عزيز أخنوش.. من قمة السلطة إلى الإهانة Le 360 Arabe",
-        "player": "",
-        "content_hash": "7c8befb6a49e4b0a04e03419c2476fbd22de2c2213f81d3b09ed78439f6e02e1",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 5045,
         "title": "بركة: بعد الانتخابات ننتقل من التنافس إلى الاستجابة لانتظارات المواطنين - febrayer.com",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xSkpQblhIblZJY2dZZlJkUW9JV0JYQkpnQ3hUX3ItUWlwMXFEbHowQklGc0JzSEFUODRhUFRjR2JxNzA2UURUeg?oc=5",
@@ -608,6 +592,22 @@
         "summary": "حين انتقل العثماني رئيس الحكومة الأسبق… من مطعون في انتخابه إلى طاعن في خصومه – اليوم 24 اليوم 24",
         "player": "",
         "content_hash": "75197c906d04f56f29f9c257695b725cf6cdd5d549da92451c27fc40f6b5885d",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5467,
+        "title": "خريطة الانتخابات المغربية.. تحولات عددية وإعادة ترتيب - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNWW9xQUtPazR5S0t5bTBSU0xRYlpDY3dTV2dRZWtidFFlUmN2ME5qMGYtLWQ5WWRJbGFPd1ViM25hS0JNckw3UmVycnc1SzRKU2hldlBkcEdSTFdDazRXSW50TVhmekFuZWdsU2MwR0I5N1I1RURSRFpLN1JLbEx3WjRvUUZuM25uNnZZZWt1LTlvS3RJdU9aNDhaSVBndURBZVpMSVpuMkc2Zkd0TFFzZ0Nmc1B3bmZzVGd0dzJQU3NOMGRlNndNRXVlTEI3UlNKMTIwSVBMdy1HTjNrbzUzUFl3bmFaRVdYa3pVTVNoRXdNdWttUjVNTUgwa3pXencxdTZZN2l5Y2ZhdXd6R2dDbWhVYi1HcUhHcXF6WEZSd1ItTGhnaEFYU1o3RmlJcG1YazROQ3dEYUFGZDZaQzRPLXFpdkvSAcoCQVVfeXFMT2FyRXhyTDdYTkJQQnY0Ni13OFgtTUI3OXM1YzRjcVVmUFFIbG4tQV9vdDVlLVBMazBCeHlqZjAtMU8zY0ZHNndEbHk4VkoyVW13V1BCaXhlaDhaOW13RUplM1hqN1lwSmZuaTNTTV9KelIxWUJvMzJEdFlXTFJEa2VlSHNUNElZdll6R3hkT05saXlkTDVuc3MyWGZ4eEg2TjNDaWFoampYS3ZFUmdfMEtXd3cwSzk1RjFxQnpkNDZOQkhCbzZKTkNqTVd5b0lzVlY3LWdEbzdnV3VqUFppMThISmFCWXNSTWd6d2dNN1NfblU4WEhvRjJNWXM3S19IcXVxQ3duRmE5ZEdKM194MkFRT3dlXzhmeE1mWXA0WWlmSC11TExELTBYelowSUhfdEVNRk1CcDBfdFdQWWc1MmluSDdnUE5NVzh3?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 11:57:55 GMT",
+        "discovered": "2026-09-26T03:12:23.165781+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "خريطة الانتخابات المغربية.. تحولات عددية وإعادة ترتيب الجزيرة نت",
+        "player": "",
+        "content_hash": "3adc884949cc535fdb618206419bc26bf475411b8f98ac3925e9671af0550800",
         "sent": 0,
         "section": "morocco"
       },
@@ -822,6 +822,22 @@
         "section": "sports"
       },
       {
+        "id": 5465,
+        "title": "الدفاعات السعودية تعترض هجمات حوثية باتجاه الرياض وخميس مشيط - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxPckhxa1BHMkIyeEVhS05tcXFXU3V6aDdnSnNTOExGMVh1WTBqelNCN2psR2RlaUM5ejdoYzNTMzUyUnFLOHQ0QlFDcE5hNHJUbmhMaFNmQzFCR0VYWHlQN1dUYlQtVXNwMzZCbk1MQ1lLTkk1V0ZmTm0zYkZDZ2dqdzRUR2hBSEdzclZYb2YwNXNvcWhzZTBpbVM2OG9fdEhBTDV6Z3A1MTN0cGRvOGVuM1V6ZWp0WFlYQTB2YTMweXNDOVhLYjJLVGl3U2JEUzNVV3BuYkx0WUpPa2hpUFc3Z3ZpUVctOTlnRjZScjAzMEhpSjM4cnVVWUx2YUY1MnduLVMzcGJIZnkxbDdvTGIwM1p1czJld25BMjNsVDA0endULWhaWDBHamdLaERBMnVDRGR4SFFIRl9iS2pyOUw2YlU1dXpQNGRDTy1UME9NckwxSEZPRHJud2pmaHpkMXZGM2s5S09tLWhTZ0htcFlHZFVQcWkwazB4UjRLd1Z1SFlPTHVCUHNzMzlNQ2F0ME9jT2ROSHR1Skg5QzZ1NkYwNEJ5U3lPcWtteWR6czRFTGo3aEFyamc1dUM0R3R6TzJISVliN1VwdlhuTmEteGw5NEZ0UHRwWTBvNDlTWUUzaXg3STNOM21NNlNLRkFIU2JQbFpiZnRlYzFOdjEyQzg2V2EwYU9lY2lyb1HSAY8EQVVfeXFMT3MxcXZQWkRJSndQcjZ1T3FnOUdyM0phbkg0WHlQdUZRYjhqdHJIcnVKYWVxWHBha1ZGaFZVN3FDR3lnUFROZEYzeEdxb0ZCbC1aTElzZDNnQW52Sk0wWllGWjZnMTdDVWtUSmx4LTR0SkR2bEFKZWhSRWRhWjVoUlRpYUUydUxBZlBfTHloaE5TeWM2VERUVnp4ZTNKUFk2YXFTLXp5NGJzUjBsVUwzc2VUMXRvcmoyQlNFWkZ5aURTVFVRZVVxTGpxdks0YmJIMFVCUUZqcWpCYmIyaGpTUkdKdlZjUjJkR0U2dFBOY3FJb21pNWpwNjM0aE1ONWVmWldfUzlHSjlXc2dMSUtja0hINmd5ZjBfakp4QWplMDBlckpJTHJVSVhuYTk5bUFYOEw5WGhRTzhILUxwUmFMTlNuX2xBVlJLYzFfQjhsX2k1c29ZWTYtRGtCeGxHM0xMSkJ0M014LWNLV3p6djlsT2tScWhFVnJmdTdvNktrNktvR2VvT1Vqek5WS1VyQWw0VzhtYXJ3YXBWVXhFSHpKVDkydHRROUIzcElVNWlGUV9KYXdEZVZIdUQwVDJNTHJiQzdXTmlJc1pXQ0REbWx3LVlWb3plZFJxNVE4X0RUYWFNb2lEZWtxYXlzbzB5ZGJMYWJqWlZ3Qk0tMzZvT01GNE9sX2c3bHYwTjBDazIwLVE?oc=5",
+        "source": "سكاي نيوز عربية رياضة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 01:44:56 GMT",
+        "discovered": "2026-09-26T03:12:12.572356+00:00",
+        "category": "أخبار",
+        "status": "غير واضح",
+        "summary": "الدفاعات السعودية تعترض هجمات حوثية باتجاه الرياض وخميس مشيط سكاي نيوز عربية",
+        "player": "رياض",
+        "content_hash": "5bee1ad26b4812a8a216caff9c9c165844635705460d28f5a19b6462f09b957e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5425,
         "title": "زيلينسكي: روسيا تستهدف \"الحياة اليومية\" بهجماتها على مراكز البيانات في أوكرانيا - BBC",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jX19IcTdJQTRFZnJiWlRZUVEtMXBIQ3pVTWItOFgydUNOU2xFNlJvbjVKR1Q5R0Nja09lREFrWUpjdWhnc1czNXpYdEM0RXljejRleEo1RHI4Wmg1a3fSAWNBVV95cUxOUGd3NUYxNzhCUnRYLVdsUEp1bFE4SmZZVU1nNWJVcDdNQnl4NWdYdEIzMXB2QndXWWJFaWZPd1d0YjV5czZocWVUdzItQnBDZDd3TEt2RDk4RGZrdjE4MzFTZkU?oc=5",
@@ -850,6 +866,22 @@
         "summary": "خاص | آيت نوري يثير الغضب في منتخب الجزائر وقرار مرتقب من حمداني winwin.com",
         "player": "",
         "content_hash": "c9e712db77461880be6467f14b14170086e94fa2c8305b41b492ccaf3e41c90d",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5466,
+        "title": "في ليلة الإصابة.. مبابي يكرر رقمه التاريخي مع منتخب فرنسا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxOTnZ3UTd6amxYWHY0UTZSWnZySUZiVTZjeDd5ZU9LX2FGckxoVmRlNXhhbm5waWNjWm8tcmo2NXVCa19NNVlMLXMyMXdPeW55aTVuSGdxbFJSMGJRaHk1YjM3OVBXM0M0VHVrSGNlQWkwa1UzRUxmUEF6Rm03cFhRM3hTdy1KSXJING5GU0prSXhQSy1QTDFKOW5KcDdGTGJzdjlLUmcwLVhTcGROTkpOUFo2eERWR0xkdXNxQktyek5JZGlVTXNhWEJEbk90WXNFZ1NnLUdjbjZzdVYtUDBBZ0IxLWMzeXlhTGlWQjh0Q01zcF9FVllEbG1Ed3VES3ZsRE4wN0VsTDl0R0JaVDJSRTBXZEs0Q25xU1g3MUFaVnNKVkZmNjVwbjl6OXZ1NWJRM2xxWUtZVVZTVk82b1QzeTZmODFZN01XRDdTSjh1WEtZU0VlR2dMMlRyVV94V0kwV3FiejhoRHFoWUpCWERIekZqS0k2c3RwTkc3VDNPZzAzYUpIRFlDUlVab0NjcDRqVE5VZEZQeC1LUUZXNWhSZ1gzNTNPWkMxTklvdE1oX2ZVcjM0YW1ob2hZbk5nMmRBYnpQVjRFZ0JNdTFETFhfbDZuRTJDZjc3ajJwRm5zN2FDMGc0QjRyYklneXXSAfIDQVVfeXFMT1VGZzlYYWhTVmUyT0pfNnRJdG9OUzNqZ1ByNGZCMUMzZTljT3VhQVF5OGpFMVlvR3Z3RFBndGN4blU2Q0hFN2xlRGRyaERQd2s5Qno4cmRWZnBJdWRLb3VxRDNaaXRIcWRJTzNDWEY3TnpBcGlhV180NXVRb2ljaFdidnVIb3l3c0x1SEdXYzdUNTJDbDVTMGUxSkl1d3BxVHViOHliSGRrUXpSTi16NWpjMGJvMm1kTVdzaWVqUU9uUzVTWlVCbnprUElFN0dLOC1GRlBiT28wbFBpMDVPQVU2X0p1bXk1SDN2anowc2pmQ1I0YXNPT3lwX1owLTY1Tm1uVmx6VmxNblljYURWOEJRaFAtUU8wQnRtVU9MN3ZtTFJiY2ZybUg3eE1wQjJoNV9LS2xiRkxPQnlwaFVVVERueXFjX0ZYSG9KaUdtOElrRHc0SGN4emZCMWFtRFE2a29odmFrd1g0YWc3U3VsZnoxNTVsV0ZzbXZBYkFfcWpTWDY2dFVHR2dsQzB0N2NVX0R2Z2FnTTByaEdTaG96Y3hTQmtvaEtQRVhXUWFqUWtKXzM4dEFKQk9YbzNtaFh2T0pJR25nM3J3eGlrMUd4YjRLOGlSS3JXZTVyNjdUY0NWRFdXRlZKT3pjelBzVEl4WG53?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 25 Sep 2026 23:23:00 GMT",
+        "discovered": "2026-09-26T03:12:15.915544+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "في ليلة الإصابة.. مبابي يكرر رقمه التاريخي مع منتخب فرنسا يلاكورة",
+        "player": "",
+        "content_hash": "aad27c6ffa5cb81728228d402eb49b3d94432eb4668404d2c1b1557a36661856",
         "sent": 0,
         "section": "sports"
       },
@@ -1572,41 +1604,41 @@
         "content_hash": "877ed38c0885b6b81e9e1bd9aefecc9e54e9a15169db1ccd0dac040a07169b67",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 5303,
-        "title": "شاهد مجانًا.. بث مباشر مباراة مصر وأنجولا الآن في تصفيات أمم إفريقيا - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNT3ZNYTEyRGRkZVM0amJud01ZdjVwMmtrQkhNZ2VOS2dUaFBiNFdENFZBVHdCMmJpdDZad0lTbjl6SHdKdFFSOU1EY2NyVVpnZXRYR3RNc0x2R1RicmlJWERNWGUwcnFqRHh5cGltcE8tanJaRGdDY0lnT0tyZEFrZ1ZIUEhBaTAwRmpHdW1GUXM5NmhpOWNiMGZMUC01eWpRWkR6VnZrS2FvOUNOeVRtazBkekw1ZlhuTmlnZmZrVVZVZlNUcHplM0k0algxR0d3RTRoLWI4cTE3X2w0aHNQRHVDSWNQa2hTUlRmZXBmbVNUTi04cWxIMDZRN3EyY015NUp6eGRtVXlNb2gx?oc=5",
-        "source": "بي إن سبورت عربية",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 18:52:30 GMT",
-        "discovered": "2026-09-25T19:15:09.456807+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "شاهد مجانًا.. بث مباشر مباراة مصر وأنجولا الآن في تصفيات أمم إفريقيا 365Scores",
-        "player": "",
-        "content_hash": "b5c25a17a0846bfa74ab37f3221bc05032279aab5e126c3fe6045b9a9d22a220",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5306,
-        "title": "ريمونتادا النسور.. نيجيريا تقلب الطاولة على مدغشقر بفوز مثير في تصفيات أفريقيا - yallakora.com",
-        "url": "https://news.google.com/rss/articles/CBMigAVBVV95cUxNVUFNazdTTkpCSWw2LUdiMTVFcW1yV3lBR2pZYjlqSXVheUtYMXVQQnp3eERudFRzc1RDTm54Umg0QTk4UXl4OW5qajhkUENfRFFHMXlQTjIzVm9CYjZBZlFwYjBhUWdkcEhaYS1aanFib0M5UTRObjAxU2gxLXpVSThJelJqWjZ1RDRocGp0UFdwSzR6MlNpWnZjU3htbGdpOWlLa0FacnZNQllRSWJoOVUyaEZLSWt0Wi1ta0x1b1B5Sm91Ykp2dGNyR2o0N3FWWTRWaFU1cjdpTmRSb0FpdllPUWpXejNNV3JqTGcyZ2ZaOWlhRFAxV0M4bF9PMVg2Y1NYS2ZGdWJ1WTEzS3Bpc0IyT003ZjN0T2tPdDZlYUJiVl9iMHJUMERGRms1QXlxbHVCMWI3cnNKaHRNalJ1SUJwS2htVy1Mbm1wTjlwN2psM0FQUVNsU2Zaa216M2dabFBjUDJDb2YyZ3J4cDVmY1lQcGZfR0dlbUlrVFhENUVtN3BiR3c1VG5xOE5nNldvTkpaSkZpVUNlTkdTbFd0d1UyQmVCRHotMjdzSEtIRW03U3NvV3l1S2RvempVMnhkckZHNW1YT2VZUUU4NTdkSGVJMEplZV8xWGZlRWRRbHR5NWl2NExPR0tJb2prZ19hR0owQWoxMHRMaTY5S2E1M1VWSEFVQWZVRXdnaE0xRl9rXzdXV3hVd0RpdmJVU1h3YkIyUk1VNHpJX09ERXdkX1VLaUhiWDBfUFl5dTJycUxiWHNLTVVMby1DRXdXUnowSXBrM250dzUxYV9fTEc0cXMxb2k0SmZRQzM2Tzh5Zk0tME1kN1JwMFE2NlBqQjdB0gGGBUFVX3lxTE5fM3Y2bEFNU0JRLUJ6ay00djExWlN1eDI5a0JiSzJ1al9MN3ZtTUpZNDRTdnZPWHdfVGpqVHFzc2Q5YnBONF91M0JfWkdja000QTVQTHY3WTNTRnFiVk52ckRsQ0RfSHp4ekZNQ1hyQXdXR3NNMng5Qzg2NFlPSkhITmxpQzNyazIzS19aQVpFRFRSUnEzOGhGSFZqNWVfSENNdC15Z1FSaWRMaDgzQzlMcVpNZEU4a0Jaa3lxQVdjUl9yQnRwUXFUYVpqaEhLTXBlOWJEZ0pYbHc0dkJNUzdna2JZamM5V0xwVXE3N3RkNzMxS3NVUTlNam1JVE1SbWMtYXhma1lhUnRCZEdmcWhnM2JzQ01jc3d3MmE0T2xlZXhvREl5aS1xSzA5aFNtRWNodElFQVk5NVJGa3Y3UlQydXhDRmlfOEMzelRzMC1scGlsZ3IwaEJGcVc3aGxBcF9qRDJLYXRiSTFwV0xkSkVVV1JrZmVZN1pSVkhjeEJrdWVPSTBfdWJ6RlVISWVfMWJzTFEwRXJvQ2FrMU53OHZRYkpfNnBFR2dYb0JDMXBzcUNUcU9OS3lteTZoY3ZaeWVEaU01NC1uN2c0YXRWT09kZXBJcFZtY0x6WEtyWEZJS0R4Q3pzOEZJY0xhZ3VHQlBmWUtVT3N2U1ZscDM4a3RIbmpDRk5MV2JySkpjLWJJTGN2MTNBUEFiWnFmNGFoVS1yMG9sanRVVUticDEzV05VbGZfYVdKc2NQU2ZaOV95a05zR0lmeVNPcFpBSUtzN2RaRThDMVY1cDhUYVduZUFPSFN1RXktRG5hNnBGTklzSUlfVl95VXZNVmNuT0lMaEpHRU95SGc?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 18:52:00 GMT",
-        "discovered": "2026-09-25T19:15:10.676028+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ريمونتادا النسور.. نيجيريا تقلب الطاولة على مدغشقر بفوز مثير في تصفيات أفريقيا yallakora.com",
-        "player": "",
-        "content_hash": "6d5849788accb413930818d19d0ddf07ebff34a9dbb88b3e10850dca432dfc8d",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 5462,
+        "title": "ندوة وهبي بعد الإطاحة بالغابون - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1DVzdzWU5uUzBRQjlvOGxGMjhjZUViQU1GUEl6aVJSelM4ZlAyUVp6eDJid3NOeF8wYTl1M0k1Q0pzZl9zQTBKaQ?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 03:06:15 GMT",
+        "discovered": "2026-09-26T03:12:08.758367+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "ندوة وهبي بعد الإطاحة بالغابون - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
+        "player": "",
+        "content_hash": "b33c964a26d60045abf2a04e0a476641afc9dcc8bedee658094c37437816972c",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 5463,
+        "title": "المنتخب يفتتح تصفيات الكان بثنائية أمام الغابون - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NV3puNGN4N0MxRlFCMTc2ZDBjZ2syU0RVUWRUcGVIbm4tblNFZ0wyc0dETzl1bTVCaE9aYWhiazE4dzdjcmUxbQ?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 02:54:05 GMT",
+        "discovered": "2026-09-26T03:12:08.770176+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "المنتخب يفتتح تصفيات الكان بثنائية أمام الغابون - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
+        "player": "",
+        "content_hash": "dc4abc8afe72d3d8428cfac8be52c7f6f8259ff6efc39688d9e2f25c764de73f",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 5383,
         "title": "لاعب نابولي السابق يكشف كيف تسبب ريال مدريد في انتقال فابيان رويز إلى باريس - 365Scores",
@@ -1864,22 +1896,6 @@
         "section": "transfers"
       },
       {
-        "id": 4963,
-        "title": "لفك عقدة الـ16 عامًا.. منتخب مصر يتسلح بخبرة صلاح وموهبة برشلونة أمام أنجولا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxQbFZBVzlncVpNcEd3WXI5TUJrdHppZl9KWjhBTlAxWU9rWHNESkgwZWRMa3JjeEJaQm50Y3VhM1Z4ajNMRzI1RUtnMUpKU3UwTVZGdmZrNm8tcXI3MnBuZmdrNDlMbDdlU0FWM2JzNXBPel96S1pVcEptREhUMDNabThTTkVIa09ZZjVvZFE5ZVRhWkloRnlnbzFvV3otTWU5VXlCdGNOb19SR2p4NkZzc0N1N2E2RV9Jcnp6M1FFLTdxMzlVZzRSY2swSlU5MXo0V2pUV2JLRVNsYlVyc2k1VUUyM2VfSzBnYnRZSWxSNnBENjlYUEdoM194LTl2RmVkclRYclI1eTdVdGZaRmk4dGp1ZDE2LUZBLVFRUlhEVUtmU0lZVU5PeWUtbVI3N0traEJOc1dhRXNNV0t4SHl0WFlheDNLeGtsR1IwQjF0UC1IWGkxRDUxMVAzSk1RWTFGbGJvVWFwZUNQLU9OaG1VakNFZHVqZmtTS3JUQ2h6bGlueHFCbGtsRVFuSEVlU21YS3FSSzVUQXpUNkp0c0hIY0JfRnlNSnh0SXNFNDZ4c0xlTzk2UkZKLXIzby1zb3NBZGhteGhyQmo0RER1dWhITDJfSWdIdE5RTzhZQ2hGdEQ3S3NweGliZlEwLXRWTGJSSURKUjhQdkRGSmdJYXpXallpNFVJUVhsZGZ3bXZIV2tyOFBFOVVaSTdoTjIydkVzN01CYkg4eEFrRkszWDF3Q1Vuekd5R2N6V25DM1A2TUxJVTVnanI3ZHJwOFZCWHlOdkU5TGhB0gHbBEFVX3lxTE1xeUx5ZF9wM2JTY254U0ZuY3VwWHBKMFVybm41YlhqeklfSHRzNHdwaVdhUlFIaWt5ZTRjWVpmUkNVX2cwQjRBaS0wVmh3RXF0b1NvaDgtOEYwdlZtazVvVjRETEhob1JNamtDcDhhR19JbWNjbENQMEd6MkdSVzBxcUVDMVpQbm94ZnJkbXhab19ueXExSkh5REVKRG1IRThxWWxLazlIUy1NQ2huNFRjV1FSRmNlekZtSk5ZSU1GSVZNWkhpS0FzcVhhSEw4RTZwUFFPWTNtU08tc2JadE1TYXdobm5hanpDLXZFT0lTMVV3S29vd2tHaHdRdDdhN25BRTV3WmdsWERvZzVjdm5SLVpueFZPdW5GS2theTBwOS1EVXYxbk1PcEFibU1jT1RaSWRiZWVaMGVkTzI0Z1FOb0xQR1VCOUh5ZkMxZlN1c09LWlpJVXZOeXN0SVpSdU96bGlpWkJRM2g1QThYQV90aFZnQU5HLVNma2l5OThlNDN0OG5sNkdSc05FSXkwR3RMNkdJelN3TGhIUFJ3MDcwZG41OEZhQmQzSGRkOFZaMzNCdXl5RXNWQlF1Ynl2d3dGdTRPVUVGby0wU2tMM2ROSklJN3RMSnlJTk5ZeFBIWnIzMldNWjZFOU9aOVpybWNyYlh1dHNpZ2xHbGsxeVpuUjFpMUxMSEZTX0V2ZEJOanJJM2NWZkVaQkV1WTh3Zi1lQUlTcG95cFBTTDdCMjZNaXlxbTRXTlBVUTg2UU1OdmxTRTdjZ21DaHF3TGFEVzd1a20tcVl6dmdaSQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 20:17:00 GMT",
-        "discovered": "2026-09-24T20:34:17.771053+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "لفك عقدة الـ16 عامًا.. منتخب مصر يتسلح بخبرة صلاح وموهبة برشلونة أمام أنجولا يلاكورة",
-        "player": "",
-        "content_hash": "44afabc48cc4df86b3871f70951439652269a24afdbd0f84931de4419e9b69da",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 5046,
         "title": "ماكرون يعلن إرسال وسائل عسكرية لـ\"حماية\" موقع رئيسي للطاقة في السعودية - France 24",
         "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxPWUN0T3dNSmtzb29IeEs0cjRWdDhVZW5MOXRqU25rMFNwVHE0dWhpa3VLdDlEV1NxbjBGMElHS2RoUnBiZHNVeHRZUTF4OWNuRXF6RVBVZW5Sd21jeEx2ZXZGZXpBaDM0ZjFWR0ZfY1JzOGlFaEtjcDZwMlBEQXo0clRvejhZcEFEakZnZEUzQlU1aFJKNkxGR3hHT1U4SW05MnhTUlJSZjY2S19fVmk0VllLNnZ2ZXppc3h2VkRTOGhHRnJtcktmdEdhMnhxRUI2OEd5Nk5YT3k0WVdOa0tib1JsS2F0T1RVZGhUZ2IzN3NMWndvZDNMSFJ5RWw2ZVlmNXBXLWxNVEs0VTk4VkRZSDRvYXNJSHpQRXBUNXZuak1QREJWYjBOYXNPT0k4VW1kd1U0TjBrbUNEd3lidmxtZFJlWVdRWDc3QnM2YklZRkpjVGViZFR6SlZkS1hzUDJwQTVQYXZWQXlXU3ZPUEtjTHNwR3AwS3Rjc2xHdHRZRHBmbVQ5TmpjOEM5Y0QzZEt4TnFNMTlueEpPYjVsV21VbzBqbGlfRWlxQlJaa0Z6NGF0QktaaEs5UEZFeHlQMm5ocW9WeFpFSGtadERaaWpJMVJXaUREOThQUzhtQlEtNXFjVDZoSTFLemdsNDJ4ZFpoM1QtYTF2XzA1T2t3VXZLY1piYlBvUkh0TzdFZlR4UWtBWHR6bUFaSkxSUEZfc1FKV3UycktBYXB3NU9rSmhaVzR1NGMzRk10V1RkVzdBbk1fVFFMd2E5Uk94NFJwQ0ZRVllubVR3?oc=5",
@@ -2025,6 +2041,22 @@
       }
     ],
     "middle_east": [
+      {
+        "id": 5468,
+        "title": "رؤساء أركان دول «اتفاقية مكة» يستعرضون الوضع الأمني والتهديدات - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxNN09ZblVib1NYRjJueHlodUtJd25oQnJaR3R3Q1ZBV3VBYVhkd0R5eWhtZnM1VEkwRnVEcmtYYy1FcjljNW9SRTNYb0dZbklQaDdzVHVxSGtVOFc2TVZPb1pyckh5N2d5SVFEbTRZRUstLUdXd1BKUEpORVg3Z28welJyOHE1eHNxS2FRZ3NaOXcyb0ttR3NoaDZtZ0JXZk1EbUNHRHBSQ1owOFlJZUlPaHZjLW5TUkJSQjRnNVdrb0x0S3VQSW5FQnpFeGdyRkhjX3huQjRlV2pVX0RnaTVzRTIwQmN6NmR6Yk5pU0NMUkZZcXQtWWpKMFVydVR0bWdybVlkYUJPTDJ1RjV0X29UaXVrSkdkaDVjYkVnN05odEJQRkU2c0RqS3N3eXdvaFlBLURNcGtWMDk2OHdCYXEyQkdJUElDMG5kUlhaWVBrR1pRcEhwVVNkYWRVektnNFI0ZVpZME14RWdVX09fSW5SQ205bU1MRzNZSUhGZU5QTTJhanFSVnlLcGpDYXAxQWFfNm1jT2lZN3lwbGRKd3RKaHJiUm9vRkZhQzA4bGZ4amdPU25GcXZrQkdsWHhreFRRSFdwbWtYT2VZR2pPY3VIZTV1MmYxcUpFcHpiNE5tX29IdmM2NFBlamc1OXlzOGJ3S0tXaG9DUjBTWlVhRHg1WXIxalFvdnBPQTBQemVWajJtdC1nYzQ4eGl1WkRqMndXUV9XS0FUSmdUREhDRGh3WWZPQ19QV2R3bm05TFRnTE5yRjZnQzFWYUNCbUc4TG1RV1J5dTdiNTBZeWIxZGh2bGVaLTB2bTBZMkRPRFFRejgtVXhHeXA2Ul91azhBV28?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Fri, 25 Sep 2026 19:53:10 GMT",
+        "discovered": "2026-09-26T03:12:25.777665+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "رؤساء أركان دول «اتفاقية مكة» يستعرضون الوضع الأمني والتهديدات الشرق الأوسط",
+        "player": "",
+        "content_hash": "2384eccaec04aefa26d2e86eb2e80d43bce8d4fe48fd928f4ac38f22fafe48d3",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 5285,
         "title": "مقتل جنديَيْن إسرائيليَيْن في غزة بانفجار عرضي لمسيّرة - الشرق الأوسط",
