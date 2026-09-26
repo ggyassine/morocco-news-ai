@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T08:55:19.485712+00:00",
+  "updated": "2026-09-26T09:07:10.909532+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -2038,22 +2038,6 @@
         "content_hash": "45ca01dbcb65cae2fd569319ba4a42b39fd04a3268cadd2a22fb909a10b276ed",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 5070,
-        "title": "صفقة بنك مصر الإمارات وعشرات الأسئلة الشائكة - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNdG5hcGM4Y2hSbjJFR2k5c19CR240bHNGeHFWajdXODJZejRkZlBqUzFENlBodVB5X0xmb3NJUF82THEtNDE5Vy1UaHczdFBnS0dOMHBvbkNiU29sMEhHVTg4bjZXelkwdVlDSzY2VXVGWDQwSDE4emc4TTZSS09RV0ZQUWZHclBiaDJRQ3pTSWtGdlhlcjhtLWcwNDl0alBUWi1WWEc2OVRmYTZIMGlPUldVb09XNFZaeU1RbnlXNzVrMEQ2YnM3WXFwcVFnUkdsN3ViUTU4WERhZXY4RWxLc1RUMjE5cGh3S01PMmdtR3BuNXU4YnlLeE5zMFJFZURlQTZGUWxxY1pnR0k2NFktTER5NTRWdmcyT3hva1h2aVNMZXE2cF92ZWtlUTlVSHZLbkJaUXpjX1VhMlY5UHppU2piOFNkRG5fUVpxVXBpLUdUalBZVXBvMHNNVno3amtjYVd6UlMyd2dCZUdfUEt3dzNnQUlvRzJfSm5wZndWQTdSZ9IBhwNBVV95cUxQNXR2Ujc0M2stcWM1X3JEbjVKSUJ4aXcwclNqVG5zQ0p3bGJ3aHl2WS1ZV2hBckZsenJNOHRsdU5WR1h6VWtlMldRUTJQbzNLb29ZZVRHbzg0U0hoRVR0RFJ1djlpNlBycUJVRndoLVBvaXRQS0x0X1pHa2xQX0pEWUktX2xkaW9WX3R2V2R4N0JXX19fV1lmTjhSUkU4UTlIVFFXOEk3YWR2TmNiT1Ewa1l5QUpGNnNsSllGYW9fbmtncnVEbFVrWDBLQXU2VVNoRDdXcEtyZ1ZpaGE4UlRzZmkzeWVqd0lEWDJXNjVhZzNOUENOQnJtN3N2RzZqUThkU1JLdUhSZldmeTQ4b1kyUU1CUUdZUXZNRW9fZi1OWXFIQ094RnIybnlwZDZwaDlUUGRTRzEyUTNMSUNaanpZc1ZKd2tXNVVKalRnanlOb0hnamwtZkIyTkN6ZjRLbDJXdWROZGtRZ2EzNE53cU83c2hBN0hCRjIyZFhjbWhIOHZEU2VQcFl3?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Wed, 23 Sep 2026 14:30:13 GMT",
-        "discovered": "2026-09-25T02:57:43.365990+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "صفقة بنك مصر الإمارات وعشرات الأسئلة الشائكة العربي الجديد",
-        "player": "",
-        "content_hash": "f10a23a7ecdbe4b5cd3c48264f54d9e2343488c581bf403744e57f3bcd325f0a",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2203,6 +2187,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 5511,
+        "title": "إيران تعرض على الولايات المتحدة اتفاقاً لإعادة فتح مضيق هرمز خلال سبعة أيام - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EWWxSWVlTSHFMeTNrdWVOazE5Ml9FbnkwbS1aWnM3X3FMTXNYVmdiaFRlOWtNLVl2UV9ScU1UTXF0b3dweGhUR2IyLWNtMlZGc2RDd3JVUHBwTTJzS0HSAWNBVV95cUxOWXhiY0lUaEYwb2FhQWg4aGtTVFlGNmZNQW1yZnVwNGxhRXV4aENHa2kwcXI4T3hSYVQ4NDVYakhEdFNqV0FGMm5NQVBvLTNDcU04T3QyQUMwWnh3T1F3ZEdJTVE?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Sat, 26 Sep 2026 08:10:47 GMT",
+        "discovered": "2026-09-26T09:07:07.880568+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "إيران تعرض على الولايات المتحدة اتفاقاً لإعادة فتح مضيق هرمز خلال سبعة أيام BBC",
+        "player": "",
+        "content_hash": "3982ee828f3612435379660d58cce92a5a992fade4f5ea9741edb7e4c397895a",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 5499,
         "title": "بيان لأمين عام مجلس التعاون الخليجي بعد هجمات الحوثيين على الرياض وخميس مشيط - CNN Arabic",
