@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T13:13:53.514488+00:00",
-  "total": 147,
+  "updated": "2026-09-27T13:28:01.120359+00:00",
+  "total": 148,
   "sections": {
     "morocco": [
       {
@@ -16,6 +16,22 @@
         "summary": "بنجلون: دورنا في المعارضة هو الدفاع عن المغاربة والتصدي للسياسات الجائرة Febrayer",
         "player": "",
         "content_hash": "a399442658a37daf8b156ba007d30c81d849f441a78568929b203a90e264da89",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5920,
+        "title": "أخنوش هو اللي ربح هاد الانتخابات - كود",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQRFBSOWVIZ09KMnFSNFBxc1ByZlRvV3dTQU9UT0NyTjJWWndJRUEyX2hpOTZkTllrTllJekdKaWJFVnNUVmgwWlQtUURRS0p1Um9WempQcjZzaE9HdmplWnN6blk4Mm4yS25fbE51NEtHdGpWUDdQWFRJVmhEemZqZlFfZVVYczhCR2pXTXhxLVZiTl9WMnloVS1SOWxFQUp3YXpnNjQtazVSY3E2Sm14Z1ozMERwSjFyam0wcmpPd3l4OVAyNXhUamd4b1pVcWpDWEpLdlVka0V4bi1oVHFvVFlIdHRkNEVNdGxyak12WUQzMnJTTTBZekRzT1Z6RlRKaDdsbTY4Nk9ITjZlNXlsVGd5a0JISHJNeDRoRTBnekZCQQ?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 11:04:44 GMT",
+        "discovered": "2026-09-27T13:27:37.360261+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "8ae6154ddff567423099c7350ebca0fda281efb38049cbe7858f2a4f7005b9cc",
         "sent": 0,
         "section": "morocco"
       },
@@ -496,6 +512,22 @@
         "summary": "المغرب يحذر بجنيف من العنف الرقمي Hespress",
         "player": "",
         "content_hash": "abe1bac027c36b95f380fab9ea8517b37577d5afdacb8d63c1c529aa191b25c5",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5919,
+        "title": "هسبريس - نتائج انتخابات 2026 - المغرب - elections.hespress.com",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJOVpiV3MxdTVhcW1MUl9zb1VEY3Y0SUdDQU5uaWNzeWhZWDhFUFNGNXpSa3YySnFqZTNBSVp0SnRqcnU4ZnpZQw?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Thu, 24 Sep 2026 13:57:24 GMT",
+        "discovered": "2026-09-27T13:27:33.397425+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "هسبريس - نتائج انتخابات 2026 - المغرب elections.hespress.com",
+        "player": "",
+        "content_hash": "348647d91205e41cc352f3db160d323bcde5d053122cceb16760a5a8cd8ab946",
         "sent": 0,
         "section": "morocco"
       }
@@ -2344,22 +2376,6 @@
         "summary": "الرئيس الإيراني يعرض الوساطة بين الرياض وصنعاء DW.com",
         "player": "رياض",
         "content_hash": "6f0891cc23d0d89e338e15e2b792c4b0334d00614a20e09e437cbf924dea716e",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 5498,
-        "title": "التحالف بقيادة الرياض: اعترض مسيرات وصواريخ أطلقها الحوثيون - DW.com",
-        "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxPeFhkYkVTRkR0OUdMS1hrOEZua3FDX2gwdm9sY2QzLVB2NWpSZkVZZ1owelpRUUsyNFhGYVNrZkxPY1NuZFV5UFZYd2JlSldTRU5yS3A2SEFoNnJQeEcyZzBvRTBIVnFPWWd1d054eXVBLTJFOTBwaVE5TTc2eGxrdVlXYk5nSFZLNmtKSXhsNmJtcGNRXzBNOGxMdVFpbUtDSWJtSFBYb1FEdHFKcl9aakJFcnVlY0laa2pVOXRpb1RLUEJEdVRfSFpKcHpyT1RxaE1zY25weWMxeXFSU0h3SnNCVS11NFRfTU01WTFMNlFsRldLa04tamRGX0x3VTVaUHJlZE9rTWJsNXRBY0lTMXJjV1l3eVl0NmF5NlBtNzBUNm9jSXpMYnFhYVFfWTR3ZTM2eHUxZDdueHp5S1ZTbU05dVk5bVo0TTJ0QzJWdEYyaWZCNndrUjNmYWRacnJhUDVyLWdheXpXNnFwejdqcUVLODhodF92WlpkVjZWUUNTX29BTWg4dTJqR0NmU1FlTGJabUVaQ0RnN1FzR3VEVF9VTFRqOU40ellXanZzVFhvRXd6ZFdKQXI3ZnBHajJmWUVVMEJkT0Z3LW9LZFVmdmdGSlE4a0RJWDJSMURBU3hDbXZGNmdjVFNfVUZKY0VWcjkxMHJkZ2FwczlNMWRnaFFYZ0VRbmFiclRtbWdmT3dvSTZYeXZlc0dVRmNqaEU4Qy1nZThXWEhfSkQtdVB3alBuMG9wazJl?oc=5",
-        "source": "DW عربية",
-        "trust": "B",
-        "published": "Thu, 24 Sep 2026 13:17:32 GMT",
-        "discovered": "2026-09-26T07:59:04.287055+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "التحالف بقيادة الرياض: اعترض مسيرات وصواريخ أطلقها الحوثيون DW.com",
-        "player": "رياض",
-        "content_hash": "a03a6761de02b9eea8debd517ab28b51cfac9485cdbfb5676a05f9be65135ac5",
         "sent": 0,
         "section": "world_arabic"
       }
