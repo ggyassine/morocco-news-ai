@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T18:58:30.014807+00:00",
-  "total": 136,
+  "updated": "2026-09-27T19:11:53.555320+00:00",
+  "total": 135,
   "sections": {
     "morocco": [
       {
@@ -498,25 +498,25 @@
         "content_hash": "0b94fff08ec0a5b4584fa2bec1126c2cee4a1179dc79a3c4a27259e9c0439c62",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 5537,
-        "title": "قفزة تاريخية بعد هدية برازيلية.. المغرب يبلغ أفضل ترتيب له في تصنيف الفيفا - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxORWxlS2hBR2xhaDRROTBrWFJUV2NKTnRWdEdhaTFlcm90Ry0ydlRLcmpfSmRidWNES3cyYTdQUWxjc3M0dm5RdkVEa19GeWFnbzBoRGtxQmVnTmw1aEJaZGppZGlOSGc4NU42eXhwU3RBTkNrOUpmYVY2ZjZYcHZMYm00Ulh6MlVYNWM5RWNyRjdlcms5ODV0YUpKczV0ZkQ5VjBZTENsak1Xc2RzRXpiaDhGTU45dlJxS1E5RE9DQzJDYVdYRkZPRWw3bmFBZlBtRU94aHpOU0h5MFRiWExpanZBeGZvUkFSTTR1UHl4SVRWY1laMVVBN3VaM0dQUTBTRlVYMURXd0Uxc3dhdFRESlZkaDI1V0FNQUVQeWY3TmxYM3V0UjZMbkl30gGvAkFVX3lxTE5Ebl8xY0dRbHFFbThpMG9taUpMaDhXRC1mWGE1WldMUTU4dXBLQTZfd3NYbE1lMmlOVGNjZ21pbmJFeXJaQ012RGdySF9TMWY3TmZfYlhKT3VxclRuYlhMR01qOVBJU2dxeWYxNHdHNWEtUlRZTzJXQThNZFRTeUpJbzczWWVuOTQ3WTR3RERSbzhxbkJiM292dFVyWGw2bXBLVzFlWnlyWVhRVWNHUTR5bHphMGxOQnpsY0NJOVUyVU5TVUxRWEJUQl9FOEN0eWxqQTRadXIySHgzQk1ld0oxWVVhUi1oU1ZvNjlyTWNKRWY3VXg2RVJkOVI3cWV3ckpzS3hCdWxDM0dNZUxoVGNHYkEzTWVfT3djVWtSQzNjaFBKd2gyVU16UG9CX01RSQ?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Fri, 25 Sep 2026 16:03:58 GMT",
-        "discovered": "2026-09-26T10:21:13.713087+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "قفزة تاريخية بعد هدية برازيلية.. المغرب يبلغ أفضل ترتيب له في تصنيف الفيفا الجزيرة نت",
-        "player": "",
-        "content_hash": "3fded432d44d1398bf52c59213b2943264a73aa993cc18c9b6993d5edfa07286",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 6035,
+        "title": "نادي خورفكان يعلن استعارة مهاجم من الوداد - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSRGVPNEVfdDJ4T2YteTFRY1NhWFJjVmx4WC1Wa0ZyTno0OGVxel9qbDZYR0ZUX1NYYVhwd2tPUTh5RkNKNVdNaC11UlB2bi1Mc0FNZw?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 19:09:13 GMT",
+        "discovered": "2026-09-27T19:11:22.300150+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "نادي خورفكان يعلن استعارة مهاجم من الوداد جريدة المنتخب",
+        "player": "",
+        "content_hash": "6fb5b21e30122d9e4e2cc9d2ad8d7ed209d4865f6710cfac85a763876995fd4e",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 6034,
         "title": "بث مباشر.. مشاهدة مباراة البرتغال والنرويج الآن في دوري الأمم الأوروبية - 365Scores",
@@ -530,6 +530,22 @@
         "summary": "بث مباشر.. مشاهدة مباراة البرتغال والنرويج الآن في دوري الأمم الأوروبية 365Scores",
         "player": "",
         "content_hash": "3a9088237fe41803771f0e192227a2d35da831fe5deac94f4ccaf415ff45a02b",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6036,
+        "title": "قطر تحسم التأهل وتنهي آمال اليمن في كأس الخليج - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQYUR0bFpUTTZMMzg4UjF1bDY0LXFBU2ViTTV0RVRZaU1weWdkTlN1RElZWi0xRTlfbE5BYnNZMHdXMENsVUM3RjRtWFJjb2ROeVhld3Z3R0dPbndldlZqLUI4Ri1qYUtHM2FqWjYxbVkyWjdrOTlIMHB5RFJvM2UwRkVBWlBxcDlCZ2YyRnhNRDl2QmlJN1BCekM2dEF4SnZDdFlOUF9tR2hDMW82SG1uTTUwZUZJSEdvOW1kOXRzVXJsNTV6OEZMeE93aHRKeVpXelRXekUzdTlsaUJUNXNJSmFWQlRqcnRzMk0zdE1hTG1peDM4YW90Zl9rRE1pdjhnRDlCTHBZWlFLWk1pT051M0pVa09xdHcyNEo5akRCVGNvcFg2NWZScjNzMXNwa2VDSzFERDJnOW9hdjkzS1o0YU9uc1lxTU15cXpYYjIyak94N2dNY0owYlNfSFpJeXRyeHVmQk02Q3JnNXU4TUM2ekNIN1lsX3dBM2N5Tkd6WXFBWS1nX3dSY29fTWo0S2g3NUHSAZcDQVVfeXFMT2RTdkVPRjJWY1hkX01EV1hXa2E5TmhMR3lGclZjUXJYSzNPcUk1eTFSalB4T1JibGNKR21aRTFFSTlTczhiOVVYMkpsbURBTXhrdjRTc3VCSkNpSmxEWXB0b1RGeU4tRE5weV9TSzJkcDNIOHdJeEVZVkJxcTk5NU5jbnBIVGNkQkpIcV96bFc4X08zNXA2LTRtMVZ0Q2dsWFByLXJyQUJzRW9XaGhQQUwwWFRwMzdjdWNOalhoQ1lCajR0Q1ZfU1VXa2JaY1phT2FodHlRa2p3c0dfSG8xazMzeTBacDI2bmU0Z0JrUXFvalBmY2dZOEk1WVRZV1EwLUJEOS1EV01KRXB1RGhmemlvSk56a1FBcGVXY19WVnJJMzJLLVhEZWpzbTBsQ0N0ejJuV2x6Ry13TU9TUnZjMkk3aW5GYUs3T3hIbU9jQWJwWWlMMTBVVmptUkc1THQtb1BUcnNwY3FmODNwZlVKTzVSd2ZrTWU5RmNKdGdPMUFkMUdLSnpXQ3BWVEtXX0hFZ1pFVHJUa28?oc=5",
+        "source": "سكاي نيوز عربية رياضة",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 18:41:17 GMT",
+        "discovered": "2026-09-27T19:11:25.386463+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "قطر تحسم التأهل وتنهي آمال اليمن في كأس الخليج سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "468d131da90ad6b9c25093a7cc2bce70377688f72822b03147f64072ab50d9e3",
         "sent": 0,
         "section": "sports"
       },
@@ -1094,6 +1110,22 @@
         "section": "sports"
       },
       {
+        "id": 6037,
+        "title": "باكيا في أحضان أبنائه.. فاجنر لاف يعتزل كرة القدم في روسيا - filgoal.com",
+        "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOYXpqbTR6VU9Fb19kM2NkWXk0N0RsSTRDVS1JbmZZN1VFdGFjaThGLVNMNG50ZkhtWkZXR05JWTRPdVFFa3pieGRwM0xKOWhOZXFvZWozMVlPMWpiQlVLenFZamJ1QzZZTmZReGUtU1BfMmRUM2h1c1RLU0t1S1hFQ2Zya0J4anNYSlFkaldnN09PVDVnd1AzNTRjdGdMMmpMVlVVWU9odTJZR2pDdG41ZFdEYXpLQUs4LTI5SGsyVkZaRUlPc1cwYk9vZlN6RTF5X1dQQXZmNzJnSTVVUm05ZnA5ZHc5WHA5TGVmcE12U2Z2X282TnZSVmtiSThXcEtRam9ueG9LMC10ZzBGbkh4ZDljSUpuVXZ0MGNoU0RQWjh2LU16MlI1Mmx0M2NSaFA1TWRBeFV5Y3BsOXB2RUxMTHhpT0dKSmJ0d2FHUlBUdGJHNHVybGFYZFBvam9WaVhyNlpCRlp3SzlSaUplelVnWFo3RGxPNzMwaWNXOUtRZmd6cVp1b1JzQ1FxMHNCNXFkTHVFWTktckk0eEJQOHZleXl1SWYxY0ExNFlTOW9JM3JGWkstS09GeWNpYzF6R29QMXRRNVdhNXM4OUlZc2R30gHUA0FVX3lxTFBEbVVmOUhhM190c1JISG5hX09GLVIzdlpTMFktNmFEVVN0NEUtdGFJbDQ3cHJTRE9SQnY0X3RxVk5FSHFvU2YzelB2YV9YeTJrcGlhbWVIZmo3WjdHazRXQkd4eC1GVVlYY1JyQjh2YnEyTnBGUjZZM09xdW40RWxZTHMtbHdFOWtLS3k4cGF5YmdDTG9hSWduY3VVQmNvWVFCVWloOVRSM2VmLUxtdXN5SUhNZkNhMTJJNFNHRHk1bWxTTkNHVzdHME00Tm44eEZwb0phOHgtVUw4V2V5SFlHcDVzem1MRkFZcHZQT256azdUd3ZPWGJJNnRGM0g4TlA3WUpORGJvVlgycW55VEJNSFpBRW1FRVRWQlVUTWhPamlqNHlKMzQ1d1JzVnBEV0ZvZ25nTEJjQlpZdUtjc3h2QWx5UWhoUzdyaS0waUNKTi15RklPdUtsMk1LZ1U0eGpwMm5DZVI5UE01RGdDeXFUMDJIbFNBSUtIYW1lS000YTdKV3U2V1dFdHJIbWRvbWg2dk1VUzlEd0pfbWhLOERNTmdKd0V4a1MwVFdad3VZWnNDQ0ZhVTVMOWlFcUNOUzQ2LXhTVEYwbm9FVi1vNzF5WGdQTw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 15:22:00 GMT",
+        "discovered": "2026-09-27T19:11:31.080019+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "باكيا في أحضان أبنائه.. فاجنر لاف يعتزل كرة القدم في روسيا filgoal.com",
+        "player": "",
+        "content_hash": "c7bef544f87d7d28c014c4f607b054d54bd2b34fed4e7302d0dcc4485b4ddaa4",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5956,
         "title": "إحاطة طبية.. الرحولي يغيب عن الجيش - جريدة المنتخب",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fWTNGeGhWdkhNMTdUd29HR09VUVByTTlsamdfb3FMb3pVamtVUEZnSjdhNDhTN3pGeC0ycHM1aXNaUUg0cHhWSDRRUmFpQTFGQ3c3UQ?oc=5",
@@ -1266,54 +1298,6 @@
         "summary": "لاعب ريال مدريد السابق يرفض العودة للبرنابيو.. وآرسنال وتشيلسي يراقبان kooora.com",
         "player": "",
         "content_hash": "2148baa449c5124f278556c53dc5ff770e686a63533a0a10d512b5e4b427943d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5980,
-        "title": "جواو فيليكس يحلم بدخول التاريخ مع رونالدو ويرشح يامال للكرة الذهبية - الشرق رياضة",
-        "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxPcDZILTBiSmViVEd3U0JwbEtRMzFqV0x0ZG5Zc0xoRDREU1BYbm5GN1dIMUNKQ1o4SnhRQVhuQmR6QWNyU2RMV1RXV0ZaTlJrdEhRemNpNm5lRVI5Vi05WkpsT3N0QUdpTklsRTBlbXdvYXBVOGk0VTRmU2JuRUl0Qm5feHhoM0t1VWpZbnlWTTN5UkoyeHBmWTE0VWtDclgzXzFGRzMwZE1VUHhFMFhjcUFvaWxTOVVpODgtQnUtUzRjRVJHaHpNNlYtQUtUTlhXUTQtYTF6U3Ixc2lERHRGZFMwdU5KVGptOWw4bXY1b3pSSHppT0tidVU0V1lQZE94ZU5aa0NVdVpNcU1YTnBPc1BCektaT2cwRmN4N1hDeXpPaUQyR1RqajcyS2pOSkhIQXlVUkZ4S1d3SHVIYmVNcFdmSmJoUm9QcGZHbEx2M3pQdU5ublkzZlZDdG9jNldtUktLUTMtOWhQbVFiZXBqTzdscWQ5Ym16M3JwNGNhZi1ldm5Ca1l6aG5vVW1rRTYzc29vUm9lRkdpdjJHS1owUlFxWlo3X1otRGNrdHczaFFHQVdINERndkhjLS1aRTB3dFpDbQ?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 14:00:37 GMT",
-        "discovered": "2026-09-27T16:23:26.042991+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جواو فيليكس يحلم بدخول التاريخ مع رونالدو ويرشح يامال للكرة الذهبية الشرق رياضة",
-        "player": "رياض",
-        "content_hash": "af630f41769b7dfa672b3fad98a693072d37691ea33489d96b3d23c8c507a63f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5954,
-        "title": "\"سخروا مني لأن والدي باكستاني\"، لاعب العراق زيدان إقبال يوجه رسالة لجماهير الكويت - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1SnJpTVBfcF9OdGdJSmoweVNLWXNld29oaEJKd2drX3dzMFV2Z1pmckFRVU01bVk0QXBTZW5QZ0pZbllUMkhfVl9WQ3VHVTNWRWg3eF96X3c0OFViSXfSAWNBVV95cUxPaHdhN0Y1ajZGek01d29mSXJiZy1uUUxYbmd5YV9vMHBoNlZWM3R2VTlpdFB5XzBKRktLT2Vqd0dnTXlrUkRjYTRCeUc0WUhFZkhiUVFOWlJ2bVRBeHkwakRTcUE?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Sun, 27 Sep 2026 13:56:36 GMT",
-        "discovered": "2026-09-27T15:04:00.294375+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "\"سخروا مني لأن والدي باكستاني\"، لاعب العراق زيدان إقبال يوجه رسالة لجماهير الكويت BBC",
-        "player": "",
-        "content_hash": "df497363992506838e9abca7fe39a2c44063cbb23f30079ec362755064b70549",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6013,
-        "title": "بعد رفض الحارس للمشاركة.. منتخب أيرلندا يسجل مدافعه كحارس مرمى أمام إسرائيل - filgoal.com",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TMmtraG8xQ0NUVnRXcFczY2xlbkxoM1dPdlpnR3RRcl96cERmOS12bTRZLUxkZ2hSWkNoOExJUlUtZVBMRWZUdE1QRlpBNkU40gHWBEFVX3lxTE5LdlA2UTMxTThBM21SMUJaTUNKdDg5bDRSOGdJM1FsV3lTWk9aZl9Tdld5RE5tYXVpNk9tNEh4REdDQXV4LTIxNlNnc1daQlpPcGM5bUR1NDk3ZXVrQmMzRkF0RGl5NDN4andDaTRFWkJPTWI5NmtwWlpMLVB1aEw2YmxNRC1kekFkcVg3c3RIdkV5MzU5OG5TNTNFTlRsYjdGSWN0YmZzTWQxVkxzUjg4amMtSWlFT0RJWVFIdUp3UjFBcXNZdEhhdy00a0Mzcjg3dENKRWtJcUVOVW9oNXRiV2ZWbmRDMVNfM2k3YUZzUzFVTE9KbVRLTnkySkQ1cFh2amxpeVdkZUp6cWU4M2VpTGxma2Z2QzJhRThYY0l5eDA4STBmTlpONjZWZ3hzbm90aGxYb0JIYks1VnQ2S3k3M2JVWm0zOEc1SzdobEdfdDBta29MSjBpbFdYRUVFN3FYTzNIcDlUbG1odjFqN094QWJPdi1GUmozaG0taFV2a2FuNGtsN1JUNk9ZaFYweXd3TmJwSHhFRTRUWTVsTTF6eFhqcm9Ua0NjcUJ4ZkxDZUF2d2lYY1lqVnFpQlVlekJ5YmM2bERCRVRzZ2duMVlaRWFQTk9vbGpBMzZqV2JCMDZtazRGTW5tZE51Y3RtRkcySmJpT3BYcEVibnpob1J0X1NYM29udDRjTklVd2pkcW1NQlZyWmJQS1AxRUV6N1VpcmVZYnEtaWFfbzl2Y3A4eHh3bUZ2YXdfbWVheHp0a25PTTRhNWtrYnZHV3RGVF9IakhvZVE?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 13:56:00 GMT",
-        "discovered": "2026-09-27T18:13:25.817252+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بعد رفض الحارس للمشاركة.. منتخب أيرلندا يسجل مدافعه كحارس مرمى أمام إسرائيل filgoal.com",
-        "player": "",
-        "content_hash": "d05fdb2865a8247501753c42a989b1672f0e84a70fc0a92121b62c2b99989e8c",
         "sent": 0,
         "section": "sports"
       }
