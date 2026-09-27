@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T22:22:08.651731+00:00",
+  "updated": "2026-09-27T22:35:44.813207+00:00",
   "total": 133,
   "sections": {
     "morocco": [
@@ -470,6 +470,38 @@
     ],
     "sports": [
       {
+        "id": 6105,
+        "title": "اللقاء رقم 50.. فاخوري يصنع هدفا في تعادل الأردن مع سوريا وديا - filgoal.com",
+        "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxNLThuYXh3OHNsQ1MxVTlEcWVMOThITF85MGVNZll0NmdpSHZjcHR0M050dE5sME9FTUVLa1lZNmNHc2RfMFlOc09ramFINHRncVZuYjFQTUVNUVdDSld5RkdONHI5WDZuZExobmQxMGQwTm1pSy11Q1E3bHFwS2hCWEtmSzh5ZlVHVWxUT2xsZWhGTHNLc3k3Z2NITzFScXBka0xleWppTjhEY3d3VDZZbVlPN3pMZ2FKSlFNemhleWltNEVYNlIzTGNYYzZ0X2M1LVZTZDBMdG9Kb04zUjlpTmVrQUZzdUxRd2k1RkVlUV9SWHkxSUtmT21fRVRNM0d0UWlHUEZiM3owbTVmVGlpc2pKaWJPd1UtX3hzZmt5S01aUktaZVlTS1pDUGtJS3ZHYXQ3U1dGbjRKSjVGUkJHMk0tOFI2UlNZNU9xNGRfdWZ5cEdCdG9EWjNJR2pCRm9ZWm1BTno5S05SbFgyTU80UVdmZzU1TDZCNThxZkxPU3NuUDF3eEtRUTY3QjBQc3ZEbnctMVQtZEVRNWZ3QjhsSDJxMEx6Z3lGdURjVzRCZTVRa1pjeVZKeGJ1YlloUHpuSTBTX3RHRDZUbnhjTHB0QkFEOENoOEZLcWhz0gHgA0FVX3lxTE1Bd3NxazdSbDJWWHBSZXp2dWd0cU93elJ6VDBVWXc2SzF0N1RzYUc4Z0Q3VUJhLWpXclVnRE1VNlk2RlY4Zzk0NFhEMGxZY1dpbjNGam96YmtVZjVBREdEMzRUX0FmU05Tck9CcGdaU1J5aFJnTTlLT2I0Ty1JWU1jVWs3eWVjdWFPMVMweUNoOS03RlB0SG9KYnJveVJ5UmRyVlRFWC1uMXprUWkzMWhJTVpKSnJBUWstM25BZnBUWTRfUkJtQ0NYcjVaNnk3SnlKVktiX243OEF0WVZidXNhclB0NDc4UHBOcExqQk5GMHdRN3FXZzE5YjhHeDM2RkFQRzlNRGJtMmoyZXdnbmVnV3loUW5GbUlpcDdlYURtSWVsNkE1NkN5WUUzdkszN2lXZXlMaGxXbnJOcVJnWW1CdXBwc09vbTNqUlhoZ1V2a2RjOEFXbVlLWWxRanJLQnktRlZfcE9oSE1MMTFWUlJJUzNDbm5zSW9KaV95WDhoR0otOW1YOGY4c2RNWDBWVzdBbXVMbUNmaERIMjh6OFNhRU41T0o2S0NFZ0ptWS1DdWNCNy1SRzFMcWxjREt5cnlmdUJqaGFtM0Z5Y0tLU2JYNHFZV0VkS1hQRXZCN2ctRA?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 22:30:00 GMT",
+        "discovered": "2026-09-27T22:35:31.366463+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "اللقاء رقم 50.. فاخوري يصنع هدفا في تعادل الأردن مع سوريا وديا filgoal.com",
+        "player": "",
+        "content_hash": "b3ebdc3008c36d7f143d8c33011f302d50949655fdfa52b21c77bfb1ad979e08",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6102,
+        "title": "وليد ناسي يغيب عن الوداد - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzVnlGVHpsdVZOZUlxNmtCVkx0TU40ZE5tbm1XR3p4V3BaRDZiOTZNY0tzS182VzIxc3VWejJWazBzRG15S1o1dTV2OXZRQ3hSOUxSMw?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 22:29:44 GMT",
+        "discovered": "2026-09-27T22:35:24.803120+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "4842ab205ca86cf6d14e8180c0d0333079154dd4e2840c163377082549e73faf",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 6097,
         "title": "إسبانيا تتوج بلقب كأس العالم لكرة القدم للسيدات تحت 20 عاما - جريدة الشرق",
         "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxQVFFoY0xYVjZvRTNoWkNVYWREWk56eVR2VW1YY2hIdkJXTmZmZnQ3Y2pUSUpqa09UMnFybDdlZkVEZkQ4eUlSUnY3MG5BZHFtTVBpNkRYTE1TQTVKZG1FdnRscklOaXU1emhsc1d0Q2FrN3ZBYy1JWE1EV0x5cVpCeG9JQmw5QlZHbE15WUNzWkZlaTVucnVmZHFsUWk0Y25panZERmJPZjZfa0JuVG5MZDg1YWNmaHpmNEVMNVdhTG9QYk1SWEVXTzJTS2lxU1RCSWZwazhOSGFOSWtDeWVzNHFfSDhoMmU3Mnd5SS02bFBXZ2lMUkNNZllRWTM3ZWJzQ2NYeHFMLU5JYXVyeXQxTEhJNXF5dzdPTERrTlBvNHd6QXVMSUlSX0Q1NzBYV3BrVlBsVE1VNi1RVF90RzEwZ29NbWd0bGZxT0E5djA5cnR1dDdDUlFiVlZrUzVPWXZRX0EtTm5YZG5wdVpXU2hMVnExMzcza1hRYzlBUTRyMThmTkdEY3kzMHdwcEVpOHRlel9FSzhXa2tJYWEyV0RqWmo0TUs3alBVMG1uQ0RpSVB6U1VQTVlFZUl0TVJxNGVUT1NVcjdfWG0tQ1RoYWwxYXlEVnRJUjVkaEE?oc=5",
@@ -594,6 +626,22 @@
         "summary": "دوري الأمم الأوروبية - بدون رونالدو.. راموس يقود البرتغال للفوز على النرويج filgoal.com",
         "player": "",
         "content_hash": "abf2cb2d3e58aebd5c0289f8973b4eb8a53cef256b47a55769ac7e1e153ae7ce",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6103,
+        "title": "\"تحت أنظار رونالدو\" .. البرتغال \"تكبد\" النرويج هزيمة استثنائية - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi_gRBVV95cUxOSDZ4UlBDeFkwajRxY3loaHpGVUlGVUlzRFU0ZVAwc0dIazlERXJvOExPby1EYTd0OWx3aVNlMHV5dTAwMWxWMDZzeTBySHhTZVpUcHZnZHhOdkpXUkFaZzNvYjc2VXFQZ1FHMC04eURmbjZjak5nVVd4SWVQQVJLbHpFRS1rb3ZYN0tSY28yVnlsVzBBWDFhVFB2Q2FNbmN1WTV1bUc3allGTUhoQ2NTcUY3eTVWOWFvSEt0OGNZNjBEYmlNYmtIcko2ZFVBaXpuay1WNi0xQjJwcXZTQXFOSEtCWnJYSWhDWVdTci1qQ3VzTHZfWDNwRTJudkpfOGdMVTVkNHpQeGtHNHd1X1lvVWRLb0RVZGFXR01SU2F1aElQM1IxU3ZNbngtYWR4azRYR0lIWWN1QjFreHdvbGZPaVlNRTRFeWswSG9aay1JSTVXSFBZTFJ4TllhMDBfUkdhaEtyR2UxZFBwY3N0VTBPdXN6MGEzUktGS3NVLUxRN0E4bk9ISUVOM21DUXIydWpSMmtLZ2dMbFdWajU2d3JmS05mVmFPdjhUWXgxUVhiYWNTaUF0QTBVazgtTURYVnJfSnlpb2QzS2hoQUJWWlRSOVpwNjBQaDZ2bzJfelJGTDhpQWFfY1UyYWs1cERHNnQ5Q1BPSGhOOXF3dlhXZ1RHdnhzSmNFdTdKSE9Qc3RUMl94ME9yRUJpYVF2bW9MNE5jOXpGWERrVzBWbW9CTmhmbENnV01nR2V3WVlDbUdPSG1QNWlXOXY4ZjUxaW1lbVF6OXlYV3BQdzVfZ0JhYUZCaExHVFZWR3BPSVptTDVtRW9hdWVXcVhpWkJENndydw?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 21:08:21 GMT",
+        "discovered": "2026-09-27T22:35:25.433429+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "\"تحت أنظار رونالدو\" .. البرتغال \"تكبد\" النرويج هزيمة استثنائية Kooora",
+        "player": "",
+        "content_hash": "00ed0536b02a568cbb1b70e71a83fc09daa792afeff5bea9df0d19f8bc9efda0",
         "sent": 0,
         "section": "sports"
       },
@@ -1218,54 +1266,6 @@
         "summary": "الروائي الفلسطيني إبراهيم نصر الله يفوز بجائزة نيوستاد العالمية للآداب 2026 القدس العربي",
         "player": "",
         "content_hash": "f80ae78747220b953232bd1b2171f6b25c4ab217d0f87b01228679e22849d12e",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6052,
-        "title": "بث مباشر .. شاهد مباراة قطر واليمن في كأس الخليج العربي \"خليجي 27\" - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMijAVBVV95cUxPc28wTFJGdU1iWDI0TVlXeHc2S3poVGhreHVSdGF3X0ljQ3ZCR0kyeERxWmYwbGZSSHAzd0c3dDBrQTFkUWQ4bnd1c0p5amVSb3hsY2NFeUtRZU85RElKOTZXZy0yYVR4TDJXLUF6Z01paGR0aVI4dGJXYnRrYTZpYVJnUmJkV1dSdGFCZ3VzMHY2dHhHcmotTjBHQkpmaWlVVm1hM0lpQTRtNG9SZ1NNSWhxRS1aUWdtQlA2dWY3RVpObFB5TXE0S2N0QVE3WlV1azhJYTBpd29fV0pKenczMFVmdXo1a0hIWVFtZHZ3UzQtMXktYWJiQ1dsS0VFREhCWGxyMmpDZWJVLTRJX0MwOUlzbl9tRjJVTS1UeHdZWWxyXzgtb0VsMU5YODFsNEEyR0psN204WGtnQmg0Y29XMXVzc0VGNy1VcGtZaTM2TGJGa2owUTY5cTRSd0xmU2ZtaHlzdWpSUUxoNmZpTXZtNUMwdV96cXd4MnNIZVNDUkJzTC1zLS1EdUlSRUdHaU9LVWpjaHp5VXM0YjNxZmtRY3N3a1dRQmxqTURFRFdtWWJYdHlLSkRnN2RqZ2xWTUg2Y3JZX05yOHVTbXh6QUdnNkhnbU9ncTFvalF6TkhrWnJRLUQ5Z1BQUVVtZ3RWUUZMT2Fpci1QVFRINHgxVzlSM1BYdXdKTXlLdkNJR21IYUctdmw3aG9DSmRqMVVGQnVPdDBSbExGb0RUMkZYbTBTZzdkS255OVBCakJrV3JRSExGQjY4VjRncFJCSzJERDNfdmJyTjJIZjA0blpTSFVySnN5emtTQnJqb0dudW0yN1VZS0VaMkVZOUpXbTJVUEMyMUx0QmxzU2VrX01y?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 17:06:46 GMT",
-        "discovered": "2026-09-27T20:04:50.257271+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بث مباشر .. شاهد مباراة قطر واليمن في كأس الخليج العربي \"خليجي 27\" Kooora",
-        "player": "",
-        "content_hash": "2c8bf06c6a0de4d67554c350c60418b6b234f8d1675f33847d6144a277f19132",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6025,
-        "title": "المغربية ميساء باها.. مشروع فائزة بالكرة الذهبية بشهادة نجمة برشلونة - الشرق رياضة",
-        "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxQamlpR0hiNVcxS2JFN202NzZFaGF6Zk5GeUozd1ZKZjJPYVRWLUt0cXJsOGdsblJ1UThVNHVPRjFQM0NXWUxXdU5jM2ZDdWNvdjlPOEVQbU1SZ05BMkE4cG9yc1pMODlQSG5PbGZJdE9oUzNya1RWRzgzNExlOU8tYzRrOFROVVZJbHlrSWFZUl9qaENDSzlzUTFpWXN6T3ZEN2hqa0pSNUZSMlNGZjBwUnVSS2pKa1N4MzBrYWdqOHJKR2hYSmFkQmpVMEpHSGsyQ0FGTjFBd0dJUHNhRTlfSmNsRUszR1dWak1TT2FCWWo5MndIOEJFMkw4d0cwWWk2WnhFRUhjendqUXRocWRBVHZBUW9CS1ZRRmVLdGhFdjV1bE9KbF9sbHNreFByWktWYV83WU5xdEtsbUpxS0Fkc1B2eFFvb003RVZQSVF3TjJJN3R2SFozanN1c2s4MTExc2dmMm1aSHR3RXh3YjB5U2RNOVVwelpSdTczN2xQN0M0UXRhTEVvNHNLRE5LTHk0TmVrOFpyVmxCM0hYay1PZmdkQlZvbmZJc3hxOFRtbzVLSDg1WjF4Q1NnaXVYWjBwenRkNmFDeGVnM2M4ZkRLTXhpVHdZcEZoZTNCZEpuMTlrZTdLNVk4ZmVfTTRFdw?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 17:05:58 GMT",
-        "discovered": "2026-09-27T18:46:59.830119+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "المغربية ميساء باها.. مشروع فائزة بالكرة الذهبية بشهادة نجمة برشلونة الشرق رياضة",
-        "player": "رياض",
-        "content_hash": "d77bb8f561acb1573dd859f8a4d1ef1cfc83a7dd18f3615bda8fb9246dd2fc00",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6095,
-        "title": "تفوق بنسبة 100%.. منتخب مصر يسعى لتأكيد هيمنته التاريخية أمام جنوب السودان - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxONVZLU1FGMGhEcjloMEZQS0xKWURDby13UGo4dFgyaWRMY0lrVFd1cTduUEU2a2c2bHljRWlTZVFCSE5ja3I0SDNua29uSlgwcjFyWUtWcGE1RC1YeGR4b0s0cjZEUjgxX0d6dDN4VXc3TDY3a1pMa2hVdzIyaGstRlNUY0ZJSmFZZUNnR0o0U2lVSURjbVo0UnNDaWxkcHlvalNIUWFiekVnaEhBZ3ZVUF9kV0Q0M2FhbWg1N3FrQlVGUXUtaFVtNkt1bjR3RmJCTThsUzBvd21ERERHSWk0aC0wazhfRl9obndhMlBRM1YxZEdmS0taOWw0TlVIWVo5djUxdzhMbnRBb05aTlJMUzRDUFp2eTdjeXRxYjl0UGFsUXdYaDZlXzJ2QUtDcEczbVV4T3ZXLVFPU3E5U2lmd20tOU5CTWQ0ZE96el8zdlk5aWh6OGJQQ21WeU9GLVpXUmF0ckUySExtV1AzVFlmOFFXdkJpSTQ4SzJEQm9kZUplaG8xTVFDNUVERlJTeUJpZVlrR29mWGZKTTZ4OFN5em1JZm1VaWo3TXhldy1MdndUbW5QVzk1eE0wMVZNM0VXSnlOVDVlZ0s1MzI5MkxrVWRqS0plQThINnB4eGwxeGV3c2gwcXBVMWRDcXVVeEpGUTd6YnRzRGNvd3UtakplX1pjNTlrdFlyY2dFTi1fTjNWNWI4d2JQNkU5ZWYxN1c5Q0ktdHZ0MkU3eTVZM1ltY3VYU2k4a0pYR1MwMHM0Z0l5d2c50gHKBEFVX3lxTE52ejgtUjU4X1BCeXFXN19PbU1Tclkzc2hvTjVwcVRvQmhTQU1OU1NHN01fSWJLWVMwYTM3M2E2Vm1uUXZTd3JpUWxHR0hQNl9GT3J2LXNyMnRWMV9QczdOcVgzdVBVZVNENmh1MWFMY0FpSHZFSWJOS25jWjlXRjdvOXdqTTBJSGlDZGN4eUJGU3BHcU1OOS1UcnAzbXRnUkkxVXJwSmlpazJnamRNcnVhTzUtZVY2dVRLcnd3ZEZMek1KMjlkdy10RDFBblRBSnp6TTlOVlNCQXMzamxtWlczT2N0LVBhMnREM0Z5MG9VUTlRYUpPSGNpNjJKVlpmY2V3RmVnbTdXYzQtbmNWR2g3eW9SQVJtVzRtbkdXS3ktUENpVzlqb3J1dXhldWFsVG1kSjRub25CVkowd0VQdXM5R2Ewd05nYTRpY2t6b3UxZmsyTXBTcVgzV2V2MHZTNVhRRmxSM0RtdW5zTkxJdkJfU05qRkxQSlEyZ2lEZWwxRVFWcGo4b1Y4emR2am1DM0VtR0tpZlQ5YU8wczlMeTVMU09nMm9GN3ZVYWdIS0VLdjJ4VlVLYlVLMDFNZWUtcVkzbFR4bTMyTkVNSVB2Q00zbUdwTURWVGUwVTF6UUdPQmhvZHJycllJU1JpOTh6RE0tU3VVUlJFQXRyZkkyN2xzTFRtQUxMU3JIWTRzTDIyNUphZExuT1p2OWtiS1FRTV9vTnZwU3NTZTQwR1hlMnZyVGxxUkRYcjc5LVg3aHFWLVNWU3RUZjN1a3c?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 17:05:00 GMT",
-        "discovered": "2026-09-27T22:05:49.321592+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تفوق بنسبة 100%.. منتخب مصر يسعى لتأكيد هيمنته التاريخية أمام جنوب السودان يلاكورة",
-        "player": "",
-        "content_hash": "ba9aeeaca9eae40f975c53df770af09c7e78469ca83b29489fdd92fb42d7e4b5",
         "sent": 0,
         "section": "sports"
       }
