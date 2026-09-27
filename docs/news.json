@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T10:54:02.275561+00:00",
+  "updated": "2026-09-27T11:04:57.836555+00:00",
   "total": 146,
   "sections": {
     "morocco": [
@@ -517,6 +517,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 5895,
+        "title": "منتخب مصر يتوجه إلى جنوب السودان - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxON3ByZTBzWU0xM19heXl5QTdzZ1MyTXU0RWFiTGplT3pCZWZfU2VEWlp3YWhIQkgxSk9zNDRnN0JiclJCc0dpRWRyaDJLUlhxaGt3YXc5LXVkVFNCdXhPd21lR0d6Q0k4cWJyQ2xNVGlOMnRoWmp5elJ2VWxCdm01TmpvUm1adEt1X1Z4Y2hYeWhvdXFTUmFrckpScUVUWkpJUWF2cEwxU3pXZ3FNQUZadmVWQ1pQMnExbTIxT1ZadzR6QmpEOGt5VUJxSnN1X01tOTI4MUpxZ09Tb2hpR3RHRkJyOFZ1WjVmMUVRbkRSblVBREZmNlczWGN6RjBRRmI5VXc3NUEyRmttU01IcjQ2TjZZOElHQ0RyQTlrYkJzem5ZX0VfcnNSMldscHJPQUZCT3ZSME5wSXRZTVRMbFJPUVVvMjlEanhJ0gHOAkFVX3lxTFBHUU9ROGc1SjgyRFRxaTJZaW1nT3M5N2g0N0lfMjJDUlVUTGtkZWtta2RYb0R6aDhacDR0QVVDOU03RFFOLTBEU0VjMUo3b0JXZXVzRTM1UEdRX0FjUzJyaHRIZkg5dFNtLW9BSHlBVVNYY3JjZUdfZGRLbmQyOEUya3drNEdOYU9VcEs3V0FjRGN0cTNUVkxxanJqOE1wLW5KdnhXM09qWFQzQnJ5UmlQb01idkZFQkxPQ29BeUN0NjNOYWJ3TmhGaW5oNUNyazZBeVNTWGtVYi1VdGVJdFlxdlFfN0tINEZ1Y2MtdnMyNWE3SDZwWFdHdEpyTm4wNUQ2bEpKRjYzeUNVZHdHVEd1M2JNTllGRllmYUdBRVRISUxuckN3czd6WURzN3B2TE05X3FzYUNiRW1oZDF4TFF5aWM2b0FCQWQ4WUJCcmc?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 10:46:00 GMT",
+        "discovered": "2026-09-27T11:04:41.306701+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "منتخب مصر يتوجه إلى جنوب السودان يلاكورة",
+        "player": "",
+        "content_hash": "5622d3fa33d9b4ffee857405f256d6b55f61940063aece943c2bede3db4f6768",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5890,
         "title": "منتخب السويد يعلن إصابة إيزاك واستبعاده من المعسكر - يلاكورة",
@@ -1298,22 +1314,6 @@
         "summary": "مباراة أيرلندا وإسرائيل: قرار الساعات الأخيرة جاء لصالح إقامة اللقاء bbc.com",
         "player": "",
         "content_hash": "eaa936062583d4dac4fa7986cd4306dbab27182b55dd2eeb35fa070016faae32",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5765,
-        "title": "فيديوهات | ملخص فوز السعودية على عمان 3-0 (كأس الخليج) - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQOW5LQ0tDalBMbEloYmlmQ1FZWXFlRE1BNHNyOGhrTmF4X3NoMDFmNDYydnBUMUN5ZS0yY3hZSGJtbGJDcWcxM3M2X2FzZG5VdWgxMk0yRjhPZ0lKTkRQOXYtTXczS0NDRS00eHc1U0JLcFFQTXNYZnh3MTJaTFp2dmVKbElNZGljYVJuYllxMUVjU2wtZUN0eGpOT2ctalNoTXB6YjRLdHc0NVh6Zlg4Ukx0X2JJSnFkVWl3SVNXbzdkWTJ1YkVuZWFMRDNBYm1lMHp4a0xjcXFPc0VydHlfc1ZfSExNY3lPbm5mUnlPQXdjYUJZTXZ0YS1yQWRGSk9JWXhYbnMxRGtZZHJQZ0c4V09CQkl0ZXJ2bUo2TFF6bUtmWVgzQjlQbzJ3RjhoUS00aW5Sc3Z0bHdxUmtISTd6M21nUDVuS1A4NlZjSmNoSmRPN1E?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 21:15:00 GMT",
-        "discovered": "2026-09-26T21:33:22.598155+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديوهات | ملخص فوز السعودية على عمان 3-0 (كأس الخليج) FilGoal",
-        "player": "",
-        "content_hash": "e147c0abe8bbf5eb73b4da3f75edd057a0719704c5c9101f9edcda749bf3052f",
         "sent": 0,
         "section": "sports"
       }
