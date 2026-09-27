@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T02:03:15.800129+00:00",
-  "total": 145,
+  "updated": "2026-09-27T02:20:31.669874+00:00",
+  "total": 146,
   "sections": {
     "morocco": [
       {
@@ -64,6 +64,22 @@
         "summary": "الملك محمد السادس يجدد تضامن المغرب المطلق مع السعودية: أمن الرياض والخليج جزء لا يتجزأ من أمن المملكة Le 360 Arabe",
         "player": "رياض",
         "content_hash": "24bc9b48fc8a22964877b26697c1441c2fed926ed0ba34790668100e25a2c631",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5836,
+        "title": "احتقان بقطاع سيارات الأجرة بفاس.. مهنيون يلوحون بالاحتجاج للمطالبة بحل الملفات العالقة - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EdmNfZy1XNjRtZldpVXNRWUlWRksxQXZEZW00d3ktZWlKSjBNTXpfOVh3T1Z0cW9GZWtXaUdVOXlDUk9nLTRmNUVTVWIzQlRNZFduSEFQc0VuQkhGRXUzeGQ0R0NCNFE?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Sat, 26 Sep 2026 20:04:18 GMT",
+        "discovered": "2026-09-27T02:20:06.591163+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "احتقان بقطاع سيارات الأجرة بفاس.. مهنيون يلوحون بالاحتجاج للمطالبة بحل الملفات العالقة Le 360 Arabe",
+        "player": "",
+        "content_hash": "f306b2bfdca0b7feb9197bed0cd78e23b0415f4ffc1d52dbb7a7d86dabf0f127",
         "sent": 0,
         "section": "morocco"
       },
@@ -838,6 +854,22 @@
         "section": "sports"
       },
       {
+        "id": 5837,
+        "title": "صدامات مستمرة.. هل تنهي أزمة صلاح والشناوي سطوة حسام حسن في المنتخب؟ - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxOTjlWenlrY3Ffa3c5UGdUQ1pWVEJWY3RGUl9nOEduOThoSUNVemFzNmNpWENpcmJJSzV6cU11M3g5RnFMb0JkMFRpMERvY1lFdXJDaWstQlJnY2JZUHJoLWNMRnhSR1FiSzl1MTV0R0cyX3Y2aHFtT2g2cXV2QjVKRk42UUs3R0k1LXdWbXFrT3Y4T080MFYyckJFcDFFSXBVUTdfR21vekJDV0hoalV1VHdHdEVYbUY3dFZaWHd0ckx4Y2NoaUFyMDRyUFcxMXFFWDhQM0VHSlRmQnVaempjQmNIT0l0TDkyMldUN1ZrT2ktcWNpUkVPQTIwMEw5MmRzSU9jRUZtMllHdUVuemhfQ0FSbVBkZjJpNXlpamFrQlF0aGNJdkRUNFRLSUlPaVRmMFJHZ1pmMzcxbElscDc3TjNHU1JpbTlwX0VGbGNSSWg5VFNmcjVmVTJXX2dmVDVzbUlsdDUzcGlCOG9NQnZzek41NTlEZUZVaHlERW5JRzBjWVNzVjY4dHV5OURhWHVVRVVMdEtreFJILTVoYXJpdHh5QzRoTE81aXYxRjY2ZU9RY2hPSnpoT0g2VzBQdXNmTHJMUVprTW44M3dpZkduTWxSVzdIVW43dXRUdWNoVEd5cGtpMy1pQTRCcGJWMXRfbDh5N1lXQ0tIVW51VXJrV3dxZGZHM0JuVFQtTGQtdG9Tdw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 21:31:00 GMT",
+        "discovered": "2026-09-27T02:20:17.209879+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "صدامات مستمرة.. هل تنهي أزمة صلاح والشناوي سطوة حسام حسن في المنتخب؟",
+        "player": "",
+        "content_hash": "529771601bf93b272dcc0e12676fa96b92af839f821450ad849d4d6aceacf160",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5815,
         "title": "44 يومًا حاسمة.. هل تنهي أزمة صلاح والشناوي سطوة حسام حسن في المنتخب؟ (صور) - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxPekRiWEUyS1pJQ2ZYMDAyd1poOTNzV3M1QUZUXzVvbk5ONGFJTjV6NVViSDByQU5JRTFoZERhckVaTnFBc3dLX1Q3RFNxOHFQTlI0WnVUM1JyNHZEQUF4S2w5V2x5bHotWTJEajVCSkhPSDlEZEFnd0dJTmsydHczNGJPWnNtNUNVOFVmMnA4Nm05bk5Jenh2dXgtcjZxZkdpZDNGMjF6eDFycDM5UEhnT2drSWt5WTh2TzFVNWtGb0Fsejg1bDNfMExXa2xpdWZHMkU3dzhJcHBLaE9Rd3l1ZTJ0bVFFTjhmbWdmS3B3TElSQ09ZMXJhRnNqTTExUE9zWTBlOElJYjRtZEE5SDlfQjdhZlhQNGtXaUVKd0o0MExmdUlVMnpUY3pYSlZMZmxyT3U4WVlsZ05OdlQwN21uVnREM29Ec0RuLVVac0RQMVdKRjQ2YnlkX05oT2pTMnFTbnNIS3p1dHdldktxaFVYZlVXYUxGbllJZ1FzVUdxcnhKeFdRaGNFTDJBUlVkUEp1dTF4SjYtNGJUNTByMDVMOWdCdmZFSkh2RmpfQlVPWHh1Sy1ya3k4aTRBZnFzNDdaSWZHUi1KS1ZNSWNBWUNIV0pQNHlLUkM1MmkyMVdUbFg3VkpBa1FpLWNzVTFPTXA0cWtSYVdvTE04T2tuWWlrekxLM1dDZ3JBN21iR3FQeTZVV3pMcWhCdTI3TzN4TWw2YWxnMUVONkRnaUNPaUJsN9IBtgRBVV95cUxQYUdMeXB3WEtPSk5OWVhRNExxX2VIZTFlSk0wSDBuQnR5UEtYMGtqUkNWU0pJRlZUQUZPb2VJT0hEeVFfMnhmQjRuMTlPMF9hZl9DbTRLTWptZHU1Tm5ESnV1MHlDa3kta0JVczZVaFl0aUF3ZTZENjRpbjRxOGNOMHFoS0o4OTlSMFM1ZlhTRXBybW1fLV80Y0NnT3cwVE83MzNfSTdYLU16QUt0eDNIdlF3YUxRVTQ3T0dBdzV0OHRGZkQ3aWNEbnJHTDlJS25uREJUeUxNOHRNMDNMamRIQmFrajlpUFdFZnVsZWNDWXNKN0dGYmhTaWx6bnFyOF8tcmtsZ0FpRDRLUTgtbmRXZlJsV1NxX3ROd19RRjJPODNWY1hxeUhNNTNscHA0eVlHcUFrcmdkR3dIaWdUaGUwWlA0dGZ2WVdXNzI5UmdTS3ZSU2RSMnFlOTNidmtmN3BSOVJTd1FSRTVsSEsxaXk4MWthUlNXVm9wa2hsR0ZPbG9TMWNkdGRCZXJ0OE41bms1NTE3aG9UcF82dm5EcW9TY0ZZX25EUDUzQ3VFNUVPNUZVaFN5ZG92M3MtYTZBWWpIeTJUNlNGMHFMZ0ctWXduUXFfOTNTMnZRVGtwWnRwR3hETGVWOGQwMm9PbG4wQWJvNjRiQ05kNkdNOEJ4OGtfMlN1MkduUnpRbTZHd3c4UXRrWmNTOGxDVHlCWTY3YUYzaWwxTDVEVXEzRUZycHZ6S0FsbFBJdw?oc=5",
@@ -1330,22 +1362,6 @@
         "summary": "غويري يلحق بآيت نوري خارج صفوف منتخب الجزائر الشرق الأوسط",
         "player": "",
         "content_hash": "303df04f6f552587ab54b56a0870addd9e4ea485e3ccc634cf743d1776a0f581",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5705,
-        "title": "بالفيديو: يامال يعاقب إنجلترا على خطأ فادح من لاعب السيتي - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxOVE1VLS1YTi1ZcFRHdFRSeFpISXNTT2x6SURDZDNSQXRVaEFnaGFIOTFKeEktcm5GQW9FaGtLbXBlN2tPenAzeUhiMW1yR2Z4a1U3VDJwM284XzhETTl3TWQ2TWpKQ3d6UmE2a1FPbTFnbDhFTG5RUk0ybEo3WmFOclNNckpUR01FemZVNTdpRVRPdnJBcERKeU9uZFRWVW5LeUdKRjBhaHQxN1FPb2pWV1gzSGp6amM5UlFDSkhpcUMtTVM4SFphWGg0OUhPVDFjZVJBSHRGb0NnM3JuRTBKMklhVnV0WG44MEFlVTV3WlRfZXAwTjhoaERVZks0cHVmY2VZa1NPeUw1aGxrWm1zWm51UWZqaUxwUS12eXRKMm94bl9nYjRIdlVSSzVpaDRYLVYzZzk1UzI1bE54S0Z5bk1vaEd0UjNES0hLTHg5eHcwaVAtLW1GME15SjRjTG1TSGJDOVdRaUVjUmRCakdaMS1FdGpoYjV4ODJoQjJ5NjRoYWRIWUcxbXk2di1ydE9vMGZ1a0pGSHdqZWNmWVZacWZROHNLd01qOXBLM09oVGhlb0dyTEpEUXZfVnBWTF9mWTlRTjhuemxPNGRNUGpvZ3RSUTVHTU1ZLVhWaWZsUDlmdVg0cWZnWXlnaElUbUNncUc5TkFLX3B1TEZLc05sVEdvZDJ0TTExWWJqWEZEcmZGaWxYaGxRNVJERTFZa0xMd1k3T0NXY1c4aXBvSGd0bnU2NmFHaG12a0N0QVV2MEkzYWVUeFE?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 19:22:33 GMT",
-        "discovered": "2026-09-26T19:25:35.787171+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بالفيديو: يامال يعاقب إنجلترا على خطأ فادح من لاعب السيتي Kooora",
-        "player": "",
-        "content_hash": "4aae8bad23a84496a1d19d3ef3fa0597d039f76ff02bd425ec6c6a099664f343",
         "sent": 0,
         "section": "sports"
       }
