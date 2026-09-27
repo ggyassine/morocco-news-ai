@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T21:08:11.283239+00:00",
-  "total": 138,
+  "updated": "2026-09-27T21:22:38.443181+00:00",
+  "total": 137,
   "sections": {
     "morocco": [
       {
@@ -448,22 +448,6 @@
         "summary": "سويدي كتقلب عليه بلادو فقضية محاولة القتل العمدي حصل فأكادير كود",
         "player": "",
         "content_hash": "7f0a0fc5c1bb2ec7c060dcd7caf92dc53e03897ea84321ab7c63826cc32adb83",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 5577,
-        "title": "ليموري موضوع مذكرة بحث بطنجة - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxObHhtSm5YY1lCU2tFaE5xOFhQelFybUJqLXA2VFF4dlpZTFVHS2Fkancxamp2aklkYk1BMjNPYnNoa01LeHpFT2g0S2lhWE9HVWp2OE1VZlkzcFNDaHh4aEozMHVpbjZsMWJsRDVfNFp1UHNXU2t0enJGQXJmNGhrX3gtRHcwa0NiZ283LVRULVlBMjFiaHJyMGFKUWVYaVNqdHFhYmpZNDRra0ZRclVfby1fakMtWi1ZVHZlbWRSM3R1THJ5MGJMRXNLRFhGWFZab1VUYkdPdk5UMk52M2pvRGtHMVhQOGtXZy1CNnZxS201eS1wb2VQYmt0SXA5ckhTODNvc2hHOXNXd29IZF9fV3RqdTQ?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Sat, 26 Sep 2026 10:25:43 GMT",
-        "discovered": "2026-09-26T13:52:15.463793+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "4330f1c75be697a862be1705f522a8f47f1151f4ef58a5eca8f68ed276b69ea9",
         "sent": 0,
         "section": "morocco"
       },
@@ -1190,6 +1174,22 @@
         "section": "sports"
       },
       {
+        "id": 6079,
+        "title": "أخبار و معلومات اللاعب صامويل فيلاسكيز لاعب وسط ديبورتيس توليما winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRUNyUnJxY2Vqc3RPZ010d2o4dTYxemRqc0JqR1E0eDd2bDVGcmwwRUtFY0diRW9VNjFlR3hsVFY1UDBjM3lFbG1Qb2ZrdWZ5dlA3TG85SU1DcTM5azZXYV82N09mUDQ5NmdicGJEbFlHeWJBeWwyZDMxMUpNbmgyY0tFS01kb0lsNFlDU0hqZ1dlNUV2eF9RVG1PQW94WTNSWFFULTE0SDI3azFkci14U3dTYXhYX3VnVnJoN0V5cjBnNXE0V0FSU25TM0lMUWl1bU9WX3lQRkZVMkN6aWluSE5zeU1WSVoyM0V0VjhyUTZaRDVqaEo0TFNYQUJ4MWhrWHBxVFo1amlDcVpUMVRkY3VuY2dZcUtNTXNKNkxlczg?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 16:44:25 GMT",
+        "discovered": "2026-09-27T21:22:19.581395+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب صامويل فيلاسكيز لاعب وسط ديبورتيس توليما winwin winwin.com",
+        "player": "",
+        "content_hash": "02c9bae38f303989e314988c406123180ec4f906a0f9d2ea0324cc73452c6e44",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5989,
         "title": "أخبار و معلومات اللاعب كيفن أندرادي مدافع زينيت winwin - winwin.com",
         "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxObzQ4ZHRjM1A0UEdGME9BRnhMbGJfaVUzT1VKZ19XX3NYNHNRejhPYkZqc3NJbkdDNUMzN21JTlB5a0djRXZ3N2kwb0FLMW82bk5PV1d4MEdXc2tuQ1lvdGFHaDUxU09paGtNOUhBR0VjVExEQU12NEtVbHJNeHRWZkZiTHlyMzlrOW5WQUpaQkN1SXlrSGR2T2RPcjhsX1VxaUNYVTRCbkI0akI2TjVfbHMtR2NZTWpEWmpxLUlORTNBVlJlU2lzWDhWMnVhUjJCNmdSOHRxdW1xOHJ1Wm5Kb2VFNklYeG9IU2YzQ1JzQjlYa1h0NkJnem1qQW1rMFlBZms1YXRub1k?oc=5",
@@ -1282,22 +1282,6 @@
         "summary": "في لقاء الـ 7 أهداف.. الزمالك ينتصر على مودرن سبورت وديا filgoal.com",
         "player": "",
         "content_hash": "341f181b162f03825e8847a3d7b9742fffe6a5d44261c4fdf852bb3bd8cd8f60",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5986,
-        "title": "أخبار | في لقاء الـ 7 أهداف.. الزمالك ينتصر على مودرن سبورت وديا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNQldTYjVBMWdSSU5SRks3XzZQa1cwMXhST29oWDJ6LXZqNTFkV1plYmN4SDUxWUtkS2E3Y2lxZHNQVzVKRnBEV2QwMHAxai1XYVdEWjB4V29GV01DRWVDNEoxOEhENlRxLVdxQm5BMFFzSW1HYWhUcmRGajZPVkZfdmJnc0Y3Njd0Mm9MaWNNbldiM0tISHlGV3NhcXJSeHpQUTdzVzBfbmVTa0R2dEdoN3VMYUFGZVMzUFJGVmRpbHAzcTVQeVhnYnFYTDVVdTZyX09HMmpHMFVLa3o5aWp4eE52VUZmQWd5Z3pjbnNWTEV6MzNnUzc2UlZMM0IxYk1Xelg0aTRFX3c2a19VSDZpaW9BS19uRU5Cb25pODN1bE5kbDVfQWllVGpjZVdTZ25wS1RDUkhFd2g3eXpBdlpUQ1hsNFZnWGRDTzkzRW50VkhqbURZQ1ZjNWEtQWtBOC1tR0hESkM0dHI0VVBxNkRYamdmNzhTbDRRY1ZSZE15a29wNHpGX25IWTE2SF9KRFhqOUlRdEgyQmpsMUcyUGd3T3BaeFFEZGJ2LU8xRlVncm1GOWEwMHJ6RA?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 16:22:00 GMT",
-        "discovered": "2026-09-27T16:37:12.443951+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار | في لقاء الـ 7 أهداف.. الزمالك ينتصر على مودرن سبورت وديا FilGoal",
-        "player": "",
-        "content_hash": "3b65d75865bef5a6ec1eb68e0617fbf5ee4b9f7f16bfbb5bd838ad29799fd835",
         "sent": 0,
         "section": "sports"
       }
