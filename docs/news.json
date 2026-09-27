@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-27T10:31:10.822979+00:00",
-  "total": 144,
+  "updated": "2026-09-27T10:44:13.126211+00:00",
+  "total": 146,
   "sections": {
     "morocco": [
+      {
+        "id": 5892,
+        "title": "مقاتلات F-16 المغربية وRafale الفرنسية تعزز التنسيق الجوي في تمرين ORYX 26 - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBqekdnOWVjclJaREk2Z0Y5MTdmWEswYkdrRVJseHQ2QW9oTHB5dnpTaHI0cURsRTdlNWtrbEsxZ0syU21xVEhwNg?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 10:34:04 GMT",
+        "discovered": "2026-09-27T10:43:48.167912+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "مقاتلات F-16 المغربية وRafale الفرنسية تعزز التنسيق الجوي في تمرين ORYX 26 Febrayer",
+        "player": "",
+        "content_hash": "f9438a8bcfc99d03635d515533ca42fe5e98949decb438bb98b13c4a7a8485f0",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 5888,
         "title": "عصيد لـ”كود”: انتخابات 23 شتنبر فرقات المغاربة بدل ما تربيهم على الديمقراطية وصعود اليسار بـ8 مقاعد واخا غياب المال والدين كيخليه نموذج لبديل مستقبلي - goud.ma",
@@ -176,6 +192,22 @@
         "summary": "جمال العسري لـ“كود”: تزوير تابت فـ“مجزرة” الانتخابات فطنجة وهادشي خطير.. كيفاش عمدة رئيس للمنظمة العالمية للمدن والحكومات المحلية يدخل فهاد الملف؟.. كنطالبو بتحقيق مع السلطة المحلية وإسقاط جوج كراسا ديال “البام” فالبرلمان تماك - كود: جريدة إلكترونية مغربية شاملة.",
         "player": "",
         "content_hash": "203b238e6931324995c6a330a041dd3739919decb92413f8ff9f9566856aa21f",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5893,
+        "title": "فرنسا: السجن عشر سنوات للمغني المغربي سعد لمجرد أمام الاستئناف بتهمة الاغتصاب - France 24",
+        "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxOTE5YOGtCX09FZUhnNnlPcWhMa0lWTlFHWjVCM3FkUXdMaTFLbHZxWFJLNTRlVml5MWUxeE1fdWQ0ckctazZOR0tyUW1BeG4zU2RNOThDekRIVlBLUlFBUkhLZy1uaUdqVWZENnFVZ1J4cGhEV2JHMkRkdUxfYVRLTV82Y3BmbmJ1UmN6VzNnRVNpZDF6ZjNpTXdPZEt1S3AwcFFoaWx1UG56ZGNIQW5XT3p2MVgxdG9FMUtjWDRqZkRlcVRLSm5wdE43ZVRiZEV0ZDg1YW1sQkh4aFFXbVdBdmI2SVJLTjBSVXpmQ2JHQTc5NW9RSFNRYzhoR1U0V1ZQTVBiVGJvbkkxY09aRFZvMEZ5cVVZaTVDTW9WbERDeWtsUTU2RXRrV0F3YzVCaXh5MzFMSWFSaldlaEZXLVFnVjJNcExWX3l4TGNnUk9Ed25WLU1fUEJhc3NFclEydUc2MXplR2RuM01rbm1KWGlCUVAxVWxwaDlXRGxiN1JyTU05Tm95TFFCemsxbW5UYkRQN01zcmVSVVgzOWlPaUhjSjI1WTVkMS1ra0xwc0NOd3g0VjhlYlI5a1g2UUs5UFVjcFpTcnk5SExlbWRqVENjZVlzR2JoT2dHb2JxTGxkSXBNN2RKSWRaUHRnazJfOUVYRGc?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Sat, 26 Sep 2026 14:44:57 GMT",
+        "discovered": "2026-09-27T10:44:08.005699+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "فرنسا: السجن عشر سنوات للمغني المغربي سعد لمجرد أمام الاستئناف بتهمة الاغتصاب France 24",
+        "player": "",
+        "content_hash": "2d8ac24b8e75ad36f9ec24958bf52f108ac96cce76c936c1c13495c5f833bf17",
         "sent": 0,
         "section": "morocco"
       },
