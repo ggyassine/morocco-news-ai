@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T20:21:25.296764+00:00",
+  "updated": "2026-09-27T20:34:20.562839+00:00",
   "total": 134,
   "sections": {
     "morocco": [
@@ -485,6 +485,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 6064,
+        "title": "منتخب السعودية يكشف تفاصيل إصابة حسن كادش - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOdWl2TWcyZmViMFZtSTlGaFZmN2Y4MFdmVlYxdDgwcjdBWnA4MEZudlBJbks5VHdvTWJhUE5EMWVYendvcmhDOW5xVmMzajh5bC1jaWp0UFJ2UnBzRFpmS18wMkFhN1J1dE5XUU5nSkw1SnFOWVFUcnptQXhnSE9XUm1GdVpHODNWd0FucVllN2RQU0FiQ1kwQ2ZJbThyQ2EtaWVpZkFNRXJ5LWpZV3RlM3RDYnByMEdyTFpXWE1ZN0tYVmxmMk5GaGZSelhSQXU1OU1RQjh2QlVMMEEtRE5wLVNEbUFpbEdRa2c4bFNmRDBUem1lT2lNSXdqRC1hTWZucU5UTS1rRjdaRHFLVWVDVFNaR3hmOHVzcGhsYmtfQUpya2Q2VFpSSFpNM2luZ3B1VkdELXNidjl5blY3RWIyeFhydXdqX3BpeW1Dci1Ob3p4NUpLUWxnSWtsRXFJSWc?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 20:23:43 GMT",
+        "discovered": "2026-09-27T20:34:03.070113+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "منتخب السعودية يكشف تفاصيل إصابة حسن كادش 365Scores",
+        "player": "",
+        "content_hash": "15ff5e5e24b486cb492e4d03bf5ff0cc96c357f12e00be0a72d38871a26caa83",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6063,
+        "title": "فوزينيا: فقدت سلامي وهدوئي.. وسأختار الحياة السابقة التي عشتها - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNVWNJdUlnSVVZQURIc2ttWkdBMHJ4RkJjNWZqRFk1X1hkeU5jUGFFaVhqOUxwVkdBUXdQMnBxSUxWaklJdEIwTWtpemlHSWlUTUl3OHVjRHlfNFdyXzJob0VIZG1oRl84THVWUG1WZ1lGak14S3FkSzZINUpwakdnUERkZV9iMGF3U1h0b0hVa2dBWFYyWDh0YW9WT2Z3ZGI1SkVWNWxVT29WMld1dkg2T3k3ZURzcjlwV1ZFaXllNVlUOFFfRTB4Y2w4NEROT19vRXNGQnM5LW5wSVc1QmF4eEwyd2JYZ3p3MFVCMFhEU2R1a2JxSDJkSGFfVUVFVHVDbnJZWDhFYmZJWGtmZTBFVVNra1RIT2pvMTlIVVZHaW5nYWkwbS10MXR1bS1oR0VrS0lUamE5NnpBeUlfc1lBQzljT0gyNEstZFBYWjFqRThvQy1zQXlqZjVNS0RqU3hQMVBfZDdLb3BZSHgwSl9GY1N2T0VMb2F6TUVXeUx6ZlNQYWRobFJxTG83M0ltdXFlaDBCNnJkVlZ1M0Y1djhwdXZLOHpwa1daTkhRM2VRYUZFNlFZckdTRTdwcUthNGhzZEJIQlUzZEhIT01UM21LckthMTVuUG5EOGlzc0xzSjlNTmpxYVlVMC1yaUhkVml1OFNSX9IB-gNBVV95cUxNamhXRHVUckpxWVkxRXM5WXp2Q09QZ0s1WFBuM1BGRmFTN0NWdWlkOTVZakw1am5pMzVtVHJHQW1NUF94cHRRRHM3ZWdRbUVEdTF4SWF1QmR3RGNMRlItemg1LXBYb191UEU3NWtRVzRkVDJROUk1UWdXRDFNYzFianI5UGNIV1ROWHZ1ekZGbDZXWDZGWndkbUZTN2phNDAtSlJEeGtVTXM3X01rWUF6MDNPZTZNanVWTnoyMzVxZ1JFTzFXaWRNSVFSdXQ3ckZjcEFaUkZaVGVTWFNFU3Z1MWlLa1Y2OE8yNUhUdERVeFBFWjZ1RnUwVjJhcHh5NkM0QU80ZndmeFJ6T2lGOEt6T1drQVFIYWFET3JlTVYyR0laZTVIM0hESlVmS3Q2NjRKYWJZSm5oMVZZUE8zQy1CTmdzU3FzemVYYzdfaEpzc3pCYnR4czRtUmU4YjI4eFdjTmJKUUpDWEN4aFZlSW5DaDVQNTd1ZVBrLW5ENEpIcDNSUkJoVEJ1bUNnUUdRWDRpQk1HNWpmbHlWU2lyOXY5R3hSUXJTVVgwUnBEVVMtM1VuOUxPWlBxcDBDTVdKQlhDUTFOdHV1Yk5ubDZjVlJ1YWRtRU5vWk5teWY3dFVVWjNnLWpSdlRDYUNPMFBncmxlRmg0MTZaSjVxZw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 20:18:00 GMT",
+        "discovered": "2026-09-27T20:34:02.485999+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فوزينيا: فقدت سلامي وهدوئي.. وسأختار الحياة السابقة التي عشتها FilGoal",
+        "player": "",
+        "content_hash": "dc5d9cf31f4e0b9b87e9f20763741e76a0906bc67f9b6138860d15eb663fb0be",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 6060,
         "title": "فيديوهات | ملخص تعادل منتخب فلسطين مع نيوزيلندا 2-2 (مباراة ودية) - FilGoal",
@@ -1250,38 +1282,6 @@
         "summary": "بث مباشر مجانًا.. مشاهدة مباراة قطر واليمن الآن في خليجي 27 365Scores",
         "player": "",
         "content_hash": "fb075eeede7a0a0fc55dec5902594fc2129cc9dea1a27c2e36b5a5676f507830",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5965,
-        "title": "رسميًا.. استبعاد لاعب منتخب السعودية قبل لقاء العراق - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxNME1lWTV5MWhPZlBpdnlfak9YZ3VTdjBXc3RPcWg1YkF3YXNPRFlWdUV5WVdGRHRUZTNiT25rVlRHYlBraV9PaEU3Q0g5a1VaVjRXRllNX2tXY25CQVBRSXlxb3NLcEVjTWt0b3FpZE5DRlNGem42WmlCUzY3WnFKR1ltaElzWHhVQm51U196YnhKWkttbjZxNlBJZFl3Wnl3RlA4V2JvOUE1akxBcUdYTXJmT1dwRERuRUhlVE9HejhBTlk3TWtPemstemZDS19qaHJXbWUzb2dIbmxOcWVpcjVlR2lXQ0dRR1JJbWxiZGFxRnZkemdhcW5sMU01Y1FkRnhhTnY0ZjVkRWVtSmt0bDFqN01qZFZ2NnB3cEp4YVUzUnFpZ283YWZfQ3Y0aFhzOGVGNTJHUmpUVTJGZjhBZmR4ZGFjWVdvblV6RWVfdy11bTFiRVJodWlmVDRSRUpaNE94N1BKQnpPLXc2Z3RtUDQtejdMWkhVSnU1dk96ZU5vcFJfRXFJbTJnVzJMNWtwMFlCMC1RWFY4R0ZSOTk4el9FX0lyLU9rSWxvYUhLbGdXdHF2TXVSazlKMFhRblZLdW9vSzV1a9IBzANBVV95cUxQLU1iZUp0dC1pWkVSRDJDdkJBMmY0QVFWazNLSW00X2pWYXExRElvZHZYYnRiSTQzTnBGUVdkWkhIdEhPT2VTdndZLUt1ZFZNZ1NiODMzSnpSR1lDdEtxYW1Kem83RlcyLUc0bGItREZQc2JycktxVTNWYzY1OG11dTdJWERlZFpWTDdqUzJpTVZKQ20tMDFpNFA5MVlOX01DQ2VHYzVPTURBRU4teGh4TUZYdUhyekNUZDBUQ0RnZTdFOEQ5MDdaZ2gyZUdHS2V0UEVqbkVKcGFNd1p0d2ZnX1VjNEpXenpodGZ1bWotbEt2M2hnb2lmQjhXaXN1UVdmY2ZHNDdnYW9Hak1SOGNXUXpuNTN2dTdRZFVkWUVpcHM4OVBXTzFEVEtiTEtVNnNlV1Nwd1lKcU1Gb0QwT3BkS0RyLU9lV3k2MTJoZkR2d0MxdVNORHNtWlFSWkwyX1RENjJWU255dnJ4V1dXVEI1cjZmT0hPUUEzSzZzVFVUOUE2YXlmRXJHZ3lZN0dIR2tLLU5lR1pMalc4bFM4Vy1qaC1pTXdtWHlGeFJHT2VPT01qQ1kxdG1KVkRGWXRiMmZKVThuWEh2MHdTV1BY?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 15:31:00 GMT",
-        "discovered": "2026-09-27T15:45:41.351310+00:00",
-        "category": "الرياضة",
-        "status": "رسمي",
-        "summary": "استبعاد لاعب منتخب السعودية قبل لقاء العراق يلاكورة",
-        "player": "",
-        "content_hash": "b17561b280b30544f401da22d3d03b3c647547a1289e0080e3b176b165731f44",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5966,
-        "title": "كرة سلة – بعد إعفاء 5 فرق.. تعرف على قرعة كأس مصر للسيدات - filgoal.com",
-        "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQbDNPN1haQURIZ2xVNHlKS19XTElPSHpISHpicTNwZ192cDRxUkZUNVhyRVJfRXpVNGc2Z2dPTGVVUFZHMk0xeU5QT0pUaUE2VEhSRXVyVWlUYWxubXVkdk5NNHZyeTRzUUQ5bVl1M0h6TlZ1cDZiR0pKbGZDT2JsV3BBdjBndFV1aFdteTcyazY2OFVXRVdfcUh3RmZ2dU4tbXBseUtDaVlGTktjenIxQ1NobWo2aXl5V25IQndlQjNJUUhobzczZ0w4RUFJZ2E5eXh4dVlkQkhqYlFpU2RrSHFOWG1RV1ZrcTBXVGtDSkNHelVmN1QwOW55U3h0cVFsb2xPWHcyT3FVVGJPMG9JWjNvT1N5dkdTX3FtNjBzOFpVZ2ZqYnV0akpUQ2pDcVhqOHFncEpxVUU1UHFiNHBsQkpENEU1LXdBeDVRY2hiRzRDZDN0SXJYSS1xa3VHeHg4VUVRMU9fV3lHTDNNWktmdVZaeEpubG5UNEgydnd0WWdPTUZFSU41NlAwMUM5VERLSmIxMHlRSGhHY3hIN3AyWGx6YjNQQXNPSmfSAa8DQVVfeXFMTlZ3OUVtQ2d0d2xySF9BNG1Hb2I0NG1Pb1pqNXpLOGp5aXdxQU96cjQwV24taWJpSm96c2ZqdHk0ZEJmUE1MQzNUWERSTWdRYW5yYkE2V0NNaXBVbENhSG5YZnFyeTdnX09UY0s5a2Z1MllGTXN6OC15dzhaY09Kb1BlZks5NFFhZTE3Wlkxa1VHMDdPczFPdlIwZkE1UlBlZk9yc3A2RWt1dkFtdi1ETkVTY2pBMTJoaTJ6T0k4U3ctb0VRVExwOVJQQlQ0d1Q3Y1kwUWpuaDJsWUpEYWZfYUg3c24ycDQwUnhwOTk0VGFJUktldmR4VFpJcVpUY2EwY2tBVmQtTlJEVEhUUWNyY0Z0VmRqVmthTkp4R0IzWnVBdEg1SnRja0tCRjNXei1vcTF4bEtLSXZnb2k1YUZ5WUgya0JPbEkwVzNxTVdhVk1YY1Vpd292RGhLZGhpNUJCdEl6QkxjY2sxNXRockpva0l5TzJMbjNYT2ZRWGptS2JYRlRHeUdmVXNKMDV2ZWJDNS1BWUFjRlNzMTlLTXNoTDNZRDRBLXg5Z3RuQTVZT0k?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 15:30:00 GMT",
-        "discovered": "2026-09-27T15:45:42.072706+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كرة سلة – بعد إعفاء 5 فرق.. تعرف على قرعة كأس مصر للسيدات filgoal.com",
-        "player": "",
-        "content_hash": "4f30f5dbb45b44a41447e066de7cae6e6debdc52e36066efbbfadfeec33d8016",
         "sent": 0,
         "section": "sports"
       }
