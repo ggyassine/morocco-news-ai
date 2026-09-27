@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T23:24:51.546889+00:00",
+  "updated": "2026-09-27T23:36:25.683878+00:00",
   "total": 130,
   "sections": {
     "morocco": [
@@ -368,22 +368,6 @@
         "summary": "فرنسا: السجن عشر سنوات للمغني المغربي سعد لمجرد أمام الاستئناف بتهمة الاغتصاب France 24",
         "player": "",
         "content_hash": "2d8ac24b8e75ad36f9ec24958bf52f108ac96cce76c936c1c13495c5f833bf17",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 5626,
-        "title": "سويدي كتقلب عليه بلادو فقضية محاولة القتل العمدي حصل فأكادير - كود",
-        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQTGo2SEM1Vnp0X1dOU3VYTVlRbF8zS3dFc3RZRGlBMy0zVjBuMmZTX0Nwcm80QUJRZ2l6OTExaWRUVHU1c1MydkRQNkxGSzdHZXhFa3EzaDhCVmRRYXV0TVg5bVRVX0dVVEFMYmJoLW5oa3o2VWQ1ZGVUYTEtQ3ZyejgzRjlNUXZyVGMycE1wWFp0S1pNMnAtVHV1LVJGMkpxblV4STNKOXNaWFh2bWhWdFhCNGh4SDBXM1BWRWpxaTJvN0FOdXVOUjUzanlFZUgwbkJzdHdkaHBtY21TZUVzSHAxVnZfeGpIQnUwWkgyT2V2cXItUlRMNmdIUXZ6NzFzMWt0UHVmTmdGT2pfbU1yN1FwQi1GY2RvT2pGTFMxMVNITkx3Z3JIOXhEbTdTa2FBME1kRXpHM3pUcHRWellhTXRaTjducDRqU0dz?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 12:52:39 GMT",
-        "discovered": "2026-09-26T17:14:36.290297+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "سويدي كتقلب عليه بلادو فقضية محاولة القتل العمدي حصل فأكادير كود",
-        "player": "",
-        "content_hash": "7f0a0fc5c1bb2ec7c060dcd7caf92dc53e03897ea84321ab7c63826cc32adb83",
         "sent": 0,
         "section": "morocco"
       },
@@ -1268,6 +1252,22 @@
         "summary": "ترامب يتوقع استئناف المحادثات مع إيران الأسبوع المقبل القدس العربي",
         "player": "",
         "content_hash": "5af431bb7e8b9eb436f3ad1fa453518dd1edcd1c785167ca73e3425584664213",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 6126,
+        "title": "استعدادًا لبطولة كأس الأمم.. انضمام ثلاثي الزمالك لمعسكر المنتخب الأولمبي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxPcl95b0dqd1BqZ09LZFM2QlpZZUszWW9JWFIyaUpUUjVsXzdJLWl6Q2JBYjNLWTEtWGlWcVBHMFc0aF9QclZRU0R4dWZ5R0NFUTFjMk5TcHlFLTJwbVExTWwya0VFSUFWUnJBNHdwUzZwbjE2TzU5b29ycXpfZ05Kb3F5ejBDRVBqUm5fQ3lZWjZRWmdFZmhldTJmUlMwUVBqa0R2NmVseWE0VWVfNHJVM3YyOXVGNndCZnZMWjlzZWxvd2s1VkZZenhrX0RzdjJJX01FY1JRWk1sUUxHWDVreUtraVNJUV8xT3hCeVN6aHpKcXpZOTgzMjV2TVpIdTVPU0RtLTZRcExzYVVlZjZTbmg2a0dCckpCZzc5b1JkS1RqTzYwSU10MkZ6eFR2LUZ2alJ1a0ZNNjBvZzUxaTBNQm16ODRKWnI1OFYyTS1QcGFDRFZtaXdFanJFZV83Q1B2SnZIUzFHMHBuMUVFN0NJZzhmQXp6VHZROFFiQnAxdGhKNWFTOC1KcGhPZ25OaVZ0TVdjdEFqem1NRGdFbEJ3N3Vlb0VQdlhxeU9pdUt2ZThCNnZldFdWaUE4Z1pqd3l1eTFzMTF2SHc5THN6eG0xajg0Tjg1Z2JDXzNpUlZCckdzLTNtTXhFejlNREpLLU9fa0pKazNOM21oQU5yN0h6aDUtNHgtTmtZUnhiM1RiSmdfT2JMSlhyclQ4dUM2MkNoUktFZGNwODd4SWxESEQzUEdDenRaaWVWZ3ZLQjVNTUZZU2V4ZWEwN293WEE2blFTcVUyRmQtcFdJTXpNdmNvZmVzOEV0ZTV5eUV4b9IB8gRBVV95cUxNVTVYcGZUVXB1QkxNMVM0YVhzZEtEVmk1d0Y0NVoyZG1oSkJSUFAtRUtQQUlibnhVN1BOYWNUV09rT1dyX2JOOHFCU3lROGpKRnltbHoyYW5GalRsdDdaUUhzQjhSNU1nbE1Ud0w0U2pOWVgwRVhvZ3QwcVduYk9YLWRObDJQaEdpS0JsdW9YVmRsbllBVGtGVFYwWnpPVzVCaUo5RTB4TjlHWFZuVHBqeTk5QTg2TFQ3Y01lMEdlLVNESnhlZ3lrNWN4YzJ1QmwyQmZpZEswSGd4LWF4bmtwVUp0eDIyWmt0aktiVGNNLVJnSW1PQWpWckpkUG13SlM3QkNRak43eVFkdWVvQWE1VE1YV3h1d1BQY0tGMkUxejVxdHFTX1ZKMW5qZzN5TFd3a3dYNjV2YXRacmdSeF9aX2ItemY4eHZ4WFRPS0pSYlNXUWdNZ212dkNyXzVIb2NFcnlYeDctNmx4UzM5MlFvaldCSUF0Nm5qVkhITnJIUUJFSE8wZHFjWXlMNV9hQUNHLWY4elgyZTU1d2gxRTRkcXY2cVp3aW1FYnFBdFd2TXRCSDNieHRZdTEwcHd3bDJzTUxnczc4WHR0eWRXYzNKdXRTdjR5SU9BdTdzd01PTVFZT0lJbUlSaTF4aWVXMktGa3NkQ0RmRk4tZ2xGbDlmVDlIOXYtRXdWcWhoZzBIOGJEWThNejNCZVhLcndKMm4yUEVkeWJpQ3p5MUVlc19LTUZZM3dON0plRXROVkNpQlJ4SmhRUlR2RnBJaUdjZWk1QjNxZ1ZZUzBfX0N1dm5Bd0FSUGw4UmpseHV4NS12alFuUQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 18:59:00 GMT",
+        "discovered": "2026-09-27T23:36:07.475270+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "استعدادًا لبطولة كأس الأمم.. انضمام ثلاثي الزمالك لمعسكر المنتخب الأولمبي يلاكورة",
+        "player": "",
+        "content_hash": "bb2ef6c3f3e3539648c6364317e86df5c7bc11a7161dc1ea93db27a3b7f5109b",
         "sent": 0,
         "section": "transfers"
       },
