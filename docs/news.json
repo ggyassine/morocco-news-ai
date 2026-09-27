@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T09:12:03.515727+00:00",
-  "total": 144,
+  "updated": "2026-09-27T09:27:05.277208+00:00",
+  "total": 146,
   "sections": {
     "morocco": [
       {
@@ -502,6 +502,22 @@
     ],
     "sports": [
       {
+        "id": 5875,
+        "title": "مران منتخب مصر قبل السفر لجنوب السودان (صور) - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOQTlTSG5sTWdlcndYbHAzMVJ3bnZwZjJ6M20ybTYxaUJPVHJZNjBZR2J1bjZ6YW1vQnpBQ3dJU3FRd0l3aVE1QmFNdUZyUUM1bzlpTkEyYmFydWo1Qk92WHU1aS0xQmd1bE5LR3VKZ0t4QkZ5aXR4VU5UM0Y5R1F5VEZhb2FCZ0luNWJRaXRVX3c0SXRsV1FaMDNRaDlOMnBnaHNTcFVUR1Z5QTlmdlFpSktlOU9oMzZZVm5qQTdjV1BjeUp6NFVBdm5fdzNlR1IwazAzRk02WDZRSUh1dndIQkRjcTFDdmRlLUJnY0lLdElDYW1zR0xuUC1fa3o0dDM1M25iam1vUXFmSzlxM0ZfcUlIbHI0ZmcxTDhKMjFwalRTQ0FrbkgxNkJVVFhaS1g3TEc1TV9Pd0dTMTZsc3JkOGpyR0dGWXYzbTIyMWFXdjBybmtzTUdqUUhQMHF4Z25lWVVkeXJaV0VWVmFEaFV1cUtXZXk1Z2gyUUpMUmpKc3VTX3poa2kya0dKUVZENkk?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 09:17:00 GMT",
+        "discovered": "2026-09-27T09:26:49.868923+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مران منتخب مصر قبل السفر لجنوب السودان (صور) يلاكورة",
+        "player": "",
+        "content_hash": "6adeade4ad5328f07b52bd90d4c20cc171f9d1d6130d9d4f5c67c454b39a4e06",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5873,
         "title": "كأس الخليج - السكتيوي: علينا نسيان ما حدث في لقاء السعودية.. ونتمسك بأمل التأهل - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxPV2s1M29EZVNITTFjeElsQnhGTkh1d1gwUURxbXBvR21vT1NOcHdoNHFCRHdTZWhoQXFfdlpFMDFZM3RzMGxsQkR4N2xuOHVwdEotMFVUeFZzYnVvcXBBN09xZDIwOVZFWWpKLThWbGdhNnQ4OFNBeGdGeU10MWtGc29BMjRnYzZCN1hiS1pDR2tXX1JPYmRlWWpxOEJHVHROOVJvUXRMZEx4dm53MmV2ckJhVk9Ya2x4bUJudkpmUkl1dVNuenp2Z2VhWWM4enVUWjg3XzYtTHBDZ3p5NlZwcVpBdnp5WUFsZzhfS0RuT25QM2JZMlAwTDV5VXFRVkEyaHVGTlJodmd1c0ZoQzJFNnU1cl9XS2ZZcG1yQ2Qxd2k1S3YwNjdqNTBBam9KMUZvTlZQTlNvWVBEUGUzelRkTTlGVDhlZ1M0MFVuR0ZGYUFjVHlVQTFUTU4tVXZWZk5RTTl0ZTVQYXJ2NFlmSFVFS2pxdkJxOFpIdFo0U25zRk5mM0VYYzd4WUxXcld4d2FrYnR2bDRUZXFQUllVdXExcE9rU0ZkdVVpcjNxX2VkdVhPR2o5RkVFZ0JwM1V5aTgyZWlVdG5haWtsbE02YzlOeWhtQ3lVWVlYbWtRcmx5RU9LdzJEUDJuVXBWRllPUm9oMXpSRkI2eWVSa0FldzdySTZ0Ty12NVVBelAzM1kwMFM5dy1yNUFKM1NBWlRuamRtbzRTbDVmaVhfYjdleDFCMVRkZVVZeVVpSjBWWmM4NXhCNlNUYmlFSEVNZzFtR1lzYkHSAdcEQVVfeXFMUHdtNjU4UVBEU0Z0cFNORjRZaFgxRW5tQk5PY1hKcTJkbFdadHBtbDF2Q1RCeUNGV0NEWXpUUS0ySnF0MlJ5elFoODN3TndTMi1GZndRalAySHY2czR3RE1xekdaWFJIZ3JhaHc2alowMUcwc2NHUzVubWszX29TTTByNjFtYU9jMmVoLXVPMEFfVG9xbE8yYk1LelRZYlhCV2ExaVRQMmxCeDhGbDY5U1Z1dzYtQnFxcHlhTHMza0VNU3dFRjFDbzVkaWZDV0d3cnRkUGRfY3Y2UFRLby1TN19OaG80TzViYUhtX0ZYb1dVWlJUTmtPSm9ZanNobkJuTW5WcXQ4NkZwc21VUkZXYncwZHozeGFFQWtDaWV6TDgzNXAtS0hwdjQ0Q2kzY21YTFFTRUZmaUxMYjNVZEhwN0J3NUNyZWQ4WnNNX2RWLTdZUmVPbDdqd1U0MmhreDRPaVZVeWY4b1NXVEZOWEk2REllcUplTXozUkw1N2hRSENRS0ZoZzZLN0hvNTJYbllrWUdvbWxrRm1LMDNqeFgwa3FfTEF5N0ExNkVnUjlfRU52dDNfNG5iZ1Bib0w0UWl1ZVR2bS1oS3E1VE03ZjkxUE44Uy1WQWk0Umg0OWhSWU1ZdFVlbnNEU3lvOWN4Y052Qk12bGk4V0xWTzJVaTNmR29jQXZreDdpX2ZiQlBNejRFcGVqbDlKbzJIZGp2MmJGeFhQMUZ5UGxOTXk1TlRaSUljZVJpdDA0ZFlKcXZHRmExOVVSdTFMeDNLbnk0OVp4akZ3VWpISm8?oc=5",
@@ -514,6 +530,22 @@
         "summary": "كأس الخليج - السكتيوي: علينا نسيان ما حدث في لقاء السعودية.. ونتمسك بأمل التأهل FilGoal",
         "player": "",
         "content_hash": "28d2335aaea80fe110e86113bf32b7a6f62bcfd60adee0a5699a8dfc31339003",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5879,
+        "title": "لاعبات كرة القدم الأفغانيات الشجاعات - dw.com",
+        "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQVnA3RW93RWVSak1KVnlLZm1ZYmowd3VUcjFPekQ5WnBBSG83NE92djNEQVNiUEVLRjV1SXNzLU9VLXRCcUVZWllnZ3hmYkMta1ZITFNIaTg2dXpucHFIMHZxYzBIZHN5Y19LTjhfSWxsa2NrTHg4bHdReE8xdlRkQnVpOGZKSnNmM2lWNTBFZmNrTHJyOG81ZzdJSlExbGQ4UXE4U055M3RGREVxMXNxOEJKWmJzcnlSWmpDaHR4TEVrQkF4eFhZZlJpbzNzaG1tV0xwR3FKTFlLRVhmWGZHbTkzUjhfLVRCMEExM3pUYkdxX3Bud0pvSUYwa0RFaGJhdFRlZVpTVTB0NUs0ZDhQYk00MVdHazFPckphOTBnclBZNEdMaHl1UTQ2N0pBYmlFNEd1YjBiT1B3WlFHY3FWOXhoS2hxUXNWUGl0ejEySC14Y0pBcVlCWFc1R3U2bTIwODZPa185TjBqcnlCVFdieU92SmVWQy1iNnZpZ2RPS19aMGpWV0N3STU5UDJKYnVVa28wdmc4X3pPdWRiTnUxMXdOM3RrSnctNUFMSDR2aUpOcmdoUlU4MXoxdU9PUmMwbk8tRVR2QXVEMVZNYThJ?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Sun, 27 Sep 2026 08:56:45 GMT",
+        "discovered": "2026-09-27T09:27:02.267682+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لاعبات كرة القدم الأفغانيات الشجاعات dw.com",
+        "player": "",
+        "content_hash": "978dc2e423911e9a7d2a9155a0874942c545c8bc1b63819dc89d72fbeb6faea0",
         "sent": 0,
         "section": "sports"
       },
@@ -1268,38 +1300,6 @@
         "content_hash": "cb010cbdcaf722bb2214a9384a869f188ee4d455449af6ecda193feea487c398",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 5752,
-        "title": "بعد الفوز المثير.. مدرب العراق: مباراة الكويت علمتنا الكثير من الدروس - yallakora.com",
-        "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxOQzZnbExDajBIYmRwS1lwVE5BbmsyWlYtT2s5cEgtOXUyVUx4X1UtWmtzZWF5bHVxRFNkRE5QdXlkVkpkbzA0bjJmdnJLRExCTVBqYTlJVWZVTEJ2M2dzeVN5WTRKSkMwWlZZRGtRbWRLNHhOSld2Z05qM2E1ZHRGdEROU0kwZi1ZVG9QcmRteGNBWWd3aE9wUHBiZ1F2WlIwdWhVaTViTGo2aXpBUWlsMHZKSGNlSjBJY0pYSlVYMndQSEJ3Q1JNdDdCNWtnd3RfaXRING94bjlJdUFSWnNlUVFCV0tWY2VSZGdjel9BWWJSSkVHSDIyUW9fOW9jaEtZbHZvVEloUmR6WnBYaW1xRXBkc2JlX3VPTkRqRnpfaXcyRkhkeFI2N2VWWlJ4eU1tWVdVMEo2RDR6cjhqdkFyVmk3Z1EydXhjaFg5ZnAteGZqekJQeW54TEdPNzZUZU9rU3lNTW5xOHA3MXExMWtYc3AzbjNkNXJQNF93ZVZsaEpVU2dSazlDM1JkVnBhbldPOFcyWnNoSmUwbnFPNmVnWGV6dXlMeWZ2TGkxUTlydXBYclMwd1paTzFZTGhxeENPUElXaTUyV3VYVkdEd2s2aF9KNkdlNS1KMjVTbjAyUTZod2h6R2ctM1h0NWphVl9lQ1BSUTNieEN3ZzdCeU9rQ3RQSXZua2VFWmZhcjQ0MHdrS2x4WHdtN28tNUQ5Q3VqU1FYaGR5ZkdwMGlldGEta3I2N0FCWVlWSmfSAb8EQVVfeXFMTjdoMFBMVWhnSEJlVW1IelVldmp1U1JFc0xTZGEwZUstOGpvMm1PcWxMR1ZxZUNUbkJaaGEyZ2J2ZUlyUkF4UFFTREd1SXNESDhZTV9aQ0ZxSkd5N1k0aF9YQlNaVU1tRTllaWsxRmpiRURWU29EZGFXUXhBSExfR0lFRlJESW5fZV92ZkJnclNIQVZmbFNXRFBCUWM4UkswT2dMemo5T1Z6a0Z6VThraG9TazZ6WmVOUVZUZkNTYjZZT1FyQzBvaTZmbzZ5Y1AzMGU0RUV0UDh3aTN4Vl94UW9reUpsM2wzc2t5TUZkRE0zZENkV3M5YjkxYWYzaXRTclp4WnV0TW5hRkpTcHlTNmtDa1NqSVZTYjRsN1pfWm5GVkRSaWVIV21XX0dOU0pQNEthdzRwdWRTQ25Hc3RKM1Y4eE5ScW1jeDMtMWZGa3BKZUJFdVVRNHVpbV84U2FnN1JNVmZ3LWhwcXNJdmJWWFhMT0wwRlNyM0NfSnlzeUZ4Y1ZnS3p0c2JaOGkwaHpXVGR2OVlEQ0xXMnExeWoyY1d2WGwyenRrOFcyeURJdXFuamdvc29ZeHBxN1VTOXhLQnhjcEctTkxBS0JXVzlfcG9iaGgycW9qN0dzQ2xRMjRlOEhfQldzakxTQ1pxTWt2eVlfNFluZ25hQmpFVlo2Y3VOOFNXWWJDYU1XTEt6dXFBeEN5RUsyaDVBVW42RG11eXNENm10UldwNzhIWmpOaXhOUERKRXhjb2pwcU9FZXc?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 20:44:00 GMT",
-        "discovered": "2026-09-26T21:06:43.255877+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بعد الفوز المثير.. مدرب العراق: مباراة الكويت علمتنا الكثير من الدروس yallakora.com",
-        "player": "",
-        "content_hash": "39b3ad4991ce9d73f344bb7aa67d1100c1a5ea6336e19a073f1788fb430466fd",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5743,
-        "title": "أخبار و معلومات اللاعب محمد زريدة لاعب وسط النادي المكناسي winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQOEtadEsyYmM4bUlBcmg3SGFHTFBDYy1WclNaQWkwUWJ6Vmd3VmdlMW81M0JpVDlHcGd2OE1MdkxlT1F0ODZmTURtSkV4MlVSSDM2Ty1xMllBb1hjY28ta0NJR040eC1pcGZtYTRLLTh5MFNscFRvbFRDbkZydU5VZUNQd1hwT2F1b0hDdVRxZlAyUzNtWXFMX3ZSRUw0MXcwMVdaZmE3WDdscFpLeFl4UlI3aEVNeUJnZmp1V0wtNUYxdWZ0U05USHlycFR6Rm5iUmRTWi1WV0JUZUlJQ1NIbWZxeENHR3ZMbGd1R3B2MWpuTUVmQm4zag?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 20:37:49 GMT",
-        "discovered": "2026-09-26T20:45:28.865206+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب محمد زريدة لاعب وسط النادي المكناسي winwin winwin.com",
-        "player": "",
-        "content_hash": "e502266a529b774d81ccbb7917b72694e70c11a4ea6e08c7a3fc84728d413cf7",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1332,6 +1332,22 @@
         "summary": "بعد إراحة صلاح.. أسامة فيصل ينضم لمعسكر منتخب مصر يلاكورة",
         "player": "",
         "content_hash": "8a031b52c53d7c7f192dbd6989bafc1ca3934ea1327a082bf486f5889d7c7cb3",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 5876,
+        "title": "صفقة بـ327 مليون دولار.. \"تبارك\" المصرية تستحوذ على مشروع للبابطين الكويتية - العربية",
+        "url": "https://news.google.com/rss/articles/CBMi9gRBVV95cUxNY2RYNFN1eE8xZTFVcEl5Y3p4SXYzckpGcS1oVU11amlmMEE5ZVZoT3lkUTZOZElxUVM3b3pGdm56bWhzSUpsUmpnVEVOWnZzV2RSbmlHLUQxazJRaW5MczRQTGYzM25FaXE2TzMwSUlFaEh6SEcxYUlGMnFicF9vQVV1Z25RZUxtYzB2WHcyeWw3TzNQM2NjNDZ4WkotMTdOTTFfckNBVDJ4b0F4ZXlDNlYyWFN4MjNZUUFrUS1HT1NEZmVlVEF0a0hKMUtERVhYMUtqMlUzSWoxdFZvYnd5RlU5cTdVQ0s5WE5lZldxS3FsdTRNWjVTSmpQR0RKSGZXOFoxbXRrNWNGenlUYlc1Tkxmc3ByZ2V6ZllSRjJPUWFBeEt1LTdjYlUycG02LVZnY1NpaHctUDdyUmJwdlFTTDZaMWgteUpoOFAzT2o4SFJJcXVXd0gwRTFGZkpVSHczQ3R1VzFLWTJTbDVxR0tRVDU0VUItb015ZjZqWkw0TGxmMjBuR2FpcExCdnV4Z1VjejJtX2JTamhMX3FTVTl4cUZrV0h4UXZ4NzBwcktJOW5uUnMwTDhFZThINmdzY2poZVU3WEhJdHhLUmF5TlVQSWVETjNrSUhMMEkyem95cC0waXJLVHpFWGU3b0lTMWViOWd3Rm1XdENYXzlaZTBPVGFHaDR5ckwxVk0wQmV1QUpsOGROTm1SU2Q1eTU1NzFVY0ZSSkNjRk1IZUNqZ2dBX2hPRGhrSl9rQnBCaUM0WVFFdkpNNjZaYll5NDQ4anpDSFBHQnYteGZTQk1sQWhxSC1UWFk5cUhUakoyNkhZQmNvTVNEOHfSAfsEQVVfeXFMTUNWSGNtS21NdHUydjBxbEktTDcyMHFTVTlhM0cyMjZva2Z2MUhNTWg5Z2ZxOXI5dF91cnNzSm9PdkZ1MEFuYXBsU1ZlTzI1WnZWLWRYQVNUbFBkbUJNS0JtT1dfbHRVWDFIT2owbzZZNWNZT1ZDbV92eVJnQV9QOV9xSTd3THFPOUttWEZ3VmNEeS1hVWJNV1pBbWFueG0xbjdyUVc3dkdLd1hHVXh0MGMwU3FFN1UxM1FMcFdraE41N2xyWGNyNVd5ZjNTeFVyWlVveHlrWDcybjBtbkE4ZzlTcTBSSEhGcUJadUNYeExKbmlSeXRrbFJCY1ZRRlZzV3NnZ3gxanhKM0lEaURBNk1RODBINXR4eHBmTmd2LTFMaURKNTZydm5Vd2lKMlVTcXVEWHRqOFkxZGdudWliVVF6czhsN0lmeVY4ZFAzeFhTdjN4dElsOGI5MWdvdFRUSE5FTnhYN0x2QWRNeEduQTBQU3BpMDBqM1dqTUN4NmhDNmFnYnBMWW9qRm5fdmo4QlVhU3EyT1ZwbmtoSjBQNTdKMEpuY0R1c21QMHlmQTU5Vm95Mlk4T1Jpd1RUWW5uQ3hGRUM2VE5wdGoxSlZNSFoxX0tIRkpGd1R5RV9hRWtWbm1NRGkxMjVrd2pkTG1HTUExZ0RWRThIbnBwYXUyejFhSHJmZXJfT1lIM3ZhR2VhdURXaFBGalp3VU5HN0xWS2lrNEpWRjNDZkYxTFp1MW9fdnQzM2kzYzhPc0pnbDVCZ3pFbVI1YXB5a2dtVzF3Z3FDRFFQQ1k5NFZldGladEwxMnc4VnhaaDhtaE81U29YX0plelRJNlJhUU0?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Sun, 27 Sep 2026 04:47:00 GMT",
+        "discovered": "2026-09-27T09:26:57.780150+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "صفقة بـ327 مليون دولار.. \"تبارك\" المصرية تستحوذ على مشروع للبابطين الكويتية العربية",
+        "player": "",
+        "content_hash": "af8fe6f07bec20a8c46263bfcb3f4172cbd0ca9678bfbb275de9d987c594a476",
         "sent": 0,
         "section": "transfers"
       },
@@ -1476,6 +1492,22 @@
         "summary": "خبر في الجول - بعد مغادرة صلاح.. منتخب مصر يطلب جواز سفر أسامة فيصل للتواجد أمام جنوب السودان FilGoal",
         "player": "",
         "content_hash": "985866c5f4706d6e6b010c518affad1206d557829535000b0e64b3e95a6be4ea",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 5877,
+        "title": "من حرب العراق إلى حرب إيران.. مؤشرات قاتمة للجمهوريين قبل انتخابات التجديد النصفي - الشرق للأخبار",
+        "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxNWWRJQ0QzOTIxVmRwaDlZODdoX2pkTFNNZ3BmelJLMHV2SjlOekppN2xUcl9zb2dBaFlsQ0hCb3BnRWdxQlRKLUdJajhWNHFneU5tMld5TVVkVVp2STNnTGt0a2hnYzB6akFhTUxiMXpzb0VUdWhEcGE3WkRVTjVhUjdIbU01VGNFWlNhajlHUDcwWVpBb3VCSWRnanpFc1FPMFM2ZGNONGlyckViek1VbHJhcENITWhyTU5NR1NDNzJpVWpIa0RDdWhsejVFNmZzcWlIb0s4cFRSMG1XWFl3OW92QXRkRXJhSmVYWFd4TmZ5R3dzVTk1MVNrV0RjQVpNWS1LMEFab3pERjloOE1sTjhCQTJ6Szc4X0JvNW9VOVJpT19SN0FKMFN6XzdEQXR1RVo4c1ZmU0E4THE0Q0RwTkl1VjhPcFN4Rl90azNSb3VVU29PWTBmWWg1bHE4eXA5MFVScmROWFRKUHV2N1lFdERjbHpBQ1BrVGJRSEdYQTc4czNub2dhQ2c2RG9UakFHX2VBekwwblpxQTJTZ0hydGhjSjZfdEREdHBTczYyQXVqVzV5cDZhanFiRFJqcHc3UjcybFhPY25HZ2NpNm1uWmFUM2p2VW5zdmNkSDhqNmJXVm5CYWVibVpfYlp0QmlpVHIxaVIzTQ?oc=5",
+        "source": "الشرق للأخبار",
+        "trust": "B",
+        "published": "Sat, 26 Sep 2026 17:02:20 GMT",
+        "discovered": "2026-09-27T09:26:58.982009+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "تجديد",
+        "summary": "من حرب العراق إلى حرب إيران.. مؤشرات قاتمة للجمهوريين قبل انتخابات التجديد النصفي الشرق للأخبار",
+        "player": "",
+        "content_hash": "206ce8847b7b9fb15ec85363dc4ee0295c9927ea413926349327f18e516ce0b1",
         "sent": 0,
         "section": "transfers"
       },
@@ -1768,22 +1800,6 @@
         "section": "transfers"
       },
       {
-        "id": 5376,
-        "title": "تفاصيل الاتفاق المرحلي بين طهران وواشنطن.. وعقد قد تعرقله - العربية",
-        "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOWHdRUHNMS2ZzNFFOTkxJUktlTExYbDhlMnFpZ1BFandvekFoNVYwUjU4QURValM1WmJMVXBKSng0dEFXM09MMVN6M1RDeGFnQUk2dXFrMEwwR3RtX0N4RFFjVnlYMk1NSGljR3dfZlk0QmRxUXBTZ1g3T0RqbjJ4ZWNMQXg4NG5SblpJQnJNQld6MnF2TUk2VXhSNXRJWW80TFFFSVpKT0dKY3FKYS1tRnRqd0ZmdnZkSWd1TWFkWm1KTVJIX1A5Q3FYQlliVjd0ZGptaEtKRDhxX2RmOHlzNVd0SUVYUTVSU0d0TXpJczlUVUNqczdGa3EyYmpRdHA2Z1NsZjhpY2RfYVZYSm53UDlDc1JITFJ5TGxnVXB4b0pzcUV6OUlZNjM1R3E1a0NaMlFHTzV1UHA4TFR6Yi1NdGRaV1BucFVDdU5fRFlPRmhsSy1CcTFZWUEzeTlmZVQ2YjBKSFVZdmstNnJFVGl1eERkdVNiMUlCY18tUTh5bU5ycWtHdGY2d215Wm9JbUNvWGJ3eWM2aEs1Zi01WmtFeEllRUFWUVhWaG52LW5sR216Sk9hZjBjZUdWdmdUX1BuaXc0Vnl0SnB5U0xmc3VzWDNGUm5qdk3SAdwDQVVfeXFMTl9NcGxJd1dLdk0zNUd4ZXJVV0N0RWhjRi12Z3hzNzhoS20xNDl4RktzMmdWOEFlZTJadDFkcUdoeFY4RzRLY01VYTI2SmhRZjRNNFVxX0lCLTBUVXdaOHVVWXlSWlI5dUwxVGN6TW04U01TeFg3MjZ5enhRendCemtTeXhmOF9oanZ0VXJzWUkyMXNqMXk4UEZPWktTRHVNZkxjMnZ2aDNmY3RFNlF2VlljOHBqaExCaHV0Ul9OUVZFcmFGd0ZhVDJvdmNwTzcycjFoQ2hDc2J2dG9Jdk42Vkd5NjhGdm9PVU1pWXAwS2xVeDdCdGdORVBKMEtwU1RTeGpwbHcySFBlekdmYlpCTzJTaEZldF9wTjFYcWFOelZXZ2d1Zmx4cHJpblJFVVRsTWdWTTI5MFJQSkc4T2lHY1JndnZyWXEwbm1neW1Gb1R0bFowNVJjeW9adVZRV2JHeDZRM2tnaDNoUUxuTmR6VVhIbWkyN1RWblNPeEUzMTh4OTRYZXFhMER4SmlFOW5neGlFbVlVSFpSWmhZQjE5TzF4Mmc5QTlXanhhODJpVHNDVVN2RUtwSUc3dFhsa2l0enBBNUF3VFJ6UVhfMElBU0xEY3BPWVVpVWR3SmU?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Fri, 25 Sep 2026 04:55:00 GMT",
-        "discovered": "2026-09-25T21:38:03.646969+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "تفاصيل الاتفاق المرحلي بين طهران وواشنطن.. وعقد قد تعرقله العربية",
-        "player": "",
-        "content_hash": "118abfd027a07a807d4c826a04af240b1c0304bc529e6cd9e25f53ed2bd94b0e",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 5595,
         "title": "\"اتفاق مكة\".. السعودية وباكستان وتركيا تبحث ترتيبات عقد اجتماع عاجل لرؤساء الأركان - الشرق للأخبار",
         "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxNQUZxT2YtQXZqTWhNQmRUMVhsQWlkazdIamdrX1l2X2wxSm9VYVFaeGJsZXVvcWw5TGZ2aVZZQkZtM3Z2dmF2TklPd1dfaHI1NloxLWx1MXZNbGxmZzl3Wm1QNGlrdlk0MmFxS250M3prLWlCQkg1aG5zSHo4OWo4TDloY3R2OWQ4Q1dSbjV5RmxRSjA3bUloUmY1LTZQT2dBVW9rQ3o5amVNUVZvcWMwNlQzalkyZ2pJWEtUQk5sdnhuTWxXSURnbERwcHZwMDljZzJpX1RGREhrZEE0amRQRjBvbF9oVVQ2Z1NTM2lJZk5oeGJ0XzhMTUpILTBTSkRUeDVYV1dXTWE2TDl6aUZTblhCLUNCU3dUOW9JVnpxM0VWQmxpdEJnYTJYNF94TXlqbHc4Zkd3dlNVYTJlVzAwek5jNHJrM0xWLVFGalh5QmhfRWtsV1JVc0JaU0pXcTBjcTQyLUNOdXo4bkRuNUpEeXpmXzVGVFFRdmk3WE5vdmpqQUJHTmw2LTN4cUYzQ3R3WTVseXBQanUwUmo3N0hpRzlqeGZ0Ykc3RHVzNmlEYjd1Y0tBMDhXeGdYNGtEeEF1V3VNMmRyV3hMNG9HN3kxYjNIbmEwaWNkUUc0RzFRd3VsUm1FY19lZGZFYllRMC1wR3U4N25ibw?oc=5",
@@ -1830,6 +1846,22 @@
         "summary": "وول ستريت جورنال: وزارة الخزانة خيرت دولا بين العقوبات والتعامل مع طهران الجزيرة نت",
         "player": "",
         "content_hash": "ba1100b733acf980e4e3d08c1b01e1cd15f61252265770607d38ccebae3bfcd8",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 5878,
+        "title": "وزير الخزانة الأميركي يؤكد نجاح إجراءاته في عزل إيران اقتصادياً - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMitAVBVV95cUxQR0xwZFk5T3ZGTDYwUm1HZW9iT281ano5bGNBcGhXMGVRWTY0aVhDRzk3ZXNUVEtXeWFuY0xHSV8zTFgtSlhDeTNWWUJFYmV6d1NuMUd4WFhpX2VjcnhXVkhlNzhDRm1ib2w4UklVZWkybVdhWHhFcXdyZC1pU3BEaEpoZTdkcU9TSldMUHFWVWJkSU1EdWhtYlBtQ2QyUlpoakNQVVc0NDJuczA3M3VjaVpKR3I1WENXdzZ6Smc5S192Qnl1cHgxMzFSMGRKdldXVnZkZHpXN3lhcVQ5bXUyVVBIU2xyLVdQTnVESTVKaGk5c25YWkE0OFRGb0xYQ20zd0x4Q2xBMG5rSjl4QXhFbEVBZ1J0V1hoVjJxZUI3WkNCS3lkUlhwemlzc0F0amVYQ21LLVFqRW9nbWtVcjRwVE1BZV9IU0VsWlZGWUs2TzZCRWtSYXJXZjFQVm1mT3M4U3pNRmFRQVRUYlpUaVpBeGZzTnIyMG5WOHR3RXMxVFZZeTBCZEVCNDZRYlBOMVFBVE5xTW1wa29WM292WWxzcW8wdkplREdudlR2YzcwMUpRQXZPbURScHlJa1pOTGlBYmNSeUtTWlV4VEg4T01qeUNEN3JQdEc5c3dzOFR2MDA2ZkFSZW5udm5KSU03RnU5LWNNUGUyZ0tyaXUwRUUwQmlNR0NEWTdBc3VQOGM1cHREZnZNdl8yb0E4ZE9yb3RSQ2ZON2NweWd3MDRZbW5tcGQxZEN5Tk0tTDNZX1d2RDZpSkVpQjdva3hrdVFsd1RiYzltNXh0bGlIMF9wMGtMYS1Ga1Rtc0VselF0dklmSlVKY1dlU2JzVGlCRktscGNzX3lUVzVucFg3Q0U0djNRMjZXT0dPUEEtOUVBT0pwTlVrak93VFhrZUlOMXd3VGEtSWFHMA?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Sun, 27 Sep 2026 01:43:00 GMT",
+        "discovered": "2026-09-27T09:26:59.590136+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "وزير الخزانة الأميركي يؤكد نجاح إجراءاته في عزل إيران اقتصادياً الشرق الأوسط",
+        "player": "",
+        "content_hash": "ec600a0d2c7339798e6062f066e6af3d9925a899a07a36d360c0b86e2e7f522e",
         "sent": 0,
         "section": "middle_east"
       },
