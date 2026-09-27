@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T15:20:17.335574+00:00",
-  "total": 144,
+  "updated": "2026-09-27T15:33:49.530571+00:00",
+  "total": 143,
   "sections": {
     "morocco": [
       {
@@ -470,6 +470,22 @@
     ],
     "sports": [
       {
+        "id": 5961,
+        "title": "ألعاب القوى.. المغربي حمزة السهلي يفوز بنصف ماراطون بلد الوليد - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LWjVwc3NQMWhoTHRBVHEyYndHTkxEUXNHOTY2S3Y2QzBseUtsZjQtb3AzVFdJUkhZaFZ4cGVUUWtDakFzNmVKRHZEb3loYW1xNXRqSA?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 15:24:37 GMT",
+        "discovered": "2026-09-27T15:33:24.890736+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ألعاب القوى.. المغربي حمزة السهلي يفوز بنصف ماراطون بلد الوليد جريدة المنتخب",
+        "player": "",
+        "content_hash": "765af1731abebb300ee9a4d5d9024f6efa2f300c9ea712731d2f27080169b618",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5956,
         "title": "إحاطة طبية.. الرحولي يغيب عن الجيش - جريدة المنتخب",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fWTNGeGhWdkhNMTdUd29HR09VUVByTTlsamdfb3FMb3pVamtVUEZnSjdhNDhTN3pGeC0ycHM1aXNaUUg0cHhWSDRRUmFpQTFGQ3c3UQ?oc=5",
@@ -482,6 +498,22 @@
         "summary": "إحاطة طبية.. الرحولي يغيب عن الجيش جريدة المنتخب",
         "player": "",
         "content_hash": "45cf570a0524b9e82394848c53c5706a473b544c9a5739e520163b4a5f822da7",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5962,
+        "title": "دوري الأمم الأوروبية.. جاكبو يقود هجوم هولندا أمام صربيا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNWlVDSmwzZUZHM3VGcjJBeUdSQ0lzWkE5WGdVVjI2UjhjNlNBTzJxUVZqeEZNREVlaTlfa0stTUdWbEhxUkNhOTgwYjVpT0xsQll1TV9XNkthb0R1QWd0aklhV3dPMGZSamxBbUszUkwtaG1lUkE0WGJzZ0xzTkI4bmhkV0JsMGZHZTItQWc4OG95Q0hKaHRWQ21KRXJNY3FsS054bG42ai1FTGlnZHFlbUhSUnpZMkZkS0hybEpOdDZKNTk3R2Y4WlVpOHp0NF9zQ2doWHVWU1k0TGRlcXRORFZBUXBTcnlHcWlPa3p3dzBHd1kyVHI5WlVGTHNTTkREV2RHN2RIVjRqMjBKaGUwWERZcDdCZ21WODl3WDdINUVnTDNZTUxRWFpSbVZBY3cyNkFkbnR6RDFrdlNPdXpQUFE4YnE4ZHVPVGk0OVJqRVEyQ0p2NFU4aEtCU1hGdU9QMXVheUt6Z0Q0LU1SQkUzMXA0VzV0R3R2MWphU3FGbWdYLV9iNGxfN3AzY3h3Y3BKaVhaNEtyZFB4U2FEQ2E0OEw0dl9Kc1NhcGE0dEh3WnRjb0wtN1g3S1FlcXdLOGhPb2owcERjb2cwNDgtN1J5dTdRYi1LREtWYUZnb2pmaUpUTWxOY2RYeU43a9IB8ANBVV95cUxPZDR4ci1OTjdvVDB6ZGV5QzhNTFd0VHJ3UkUyMEljSmMweDY3dzNCdndZLVk4MU1EQTR2Snh1dkpLVEFvdXpmUVQxUkU2dnR5NXcxbE9PWXpKcHg1d25MT0FRMnE0Z1RuWWpPQVpiX2FwN3RyWVlXM1hXWU5BMnEyN3JobmdhOHRZQ3pxeFM1ZXFLN29ROW5US1hWeC10QncyQjlDSU9FRGsyRVQ0a3Z2dlpHOEttNGJOR0U1Q1VyMDVnWlA1RUlIQV9qODFVZjl6MmctX2s1Ry11VFhnWk1KN3Z4cDNKdkp2VUFVbnFWZllPbXpXVXFOLWdvc3lma3ZpVlJ3cDJTeWxjWDBrMFpuMExWS0M5M19fNVJRRG5DUk94OXEzUGxRQ01LdVRqYzFfWnBqaGJna1ROTmFMMGx4Tk1laHBXN253UUxWTlE5aExYSnlKSGE1eXNkRU5VZ2swSUg2OHN0NHJsbjBDRjZNNFE0TkNHWEdEYUNDS1djYWFfbjltSWlKUHpUbDFVUWhpSGNDV1poR0pPNlZQSzJ6Wm5JRDFwOEJlUHBpUGZhSkN4d1JvX0RRSHp1M244OEMyTk00UEl3TkRJdmpfUzViS1JCNE9WTExiNldHRGU5WG9yMHg2Q1U3YlBEbmxoOHJ5?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 15:14:00 GMT",
+        "discovered": "2026-09-27T15:33:31.477052+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "دوري الأمم الأوروبية.. جاكبو يقود هجوم هولندا أمام صربيا يلاكورة",
+        "player": "",
+        "content_hash": "da64b19ad2880a2ad639a8dbba74c9415e824719dd8d57621a5b47649caa164c",
         "sent": 0,
         "section": "sports"
       },
@@ -1236,38 +1268,6 @@
         "content_hash": "93bcbdca6b430b2545af1899d2ea64c0ae6dfb446f591a36f7dec14dfa309740",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 5875,
-        "title": "مران منتخب مصر قبل السفر لجنوب السودان (صور) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOQTlTSG5sTWdlcndYbHAzMVJ3bnZwZjJ6M20ybTYxaUJPVHJZNjBZR2J1bjZ6YW1vQnpBQ3dJU3FRd0l3aVE1QmFNdUZyUUM1bzlpTkEyYmFydWo1Qk92WHU1aS0xQmd1bE5LR3VKZ0t4QkZ5aXR4VU5UM0Y5R1F5VEZhb2FCZ0luNWJRaXRVX3c0SXRsV1FaMDNRaDlOMnBnaHNTcFVUR1Z5QTlmdlFpSktlOU9oMzZZVm5qQTdjV1BjeUp6NFVBdm5fdzNlR1IwazAzRk02WDZRSUh1dndIQkRjcTFDdmRlLUJnY0lLdElDYW1zR0xuUC1fa3o0dDM1M25iam1vUXFmSzlxM0ZfcUlIbHI0ZmcxTDhKMjFwalRTQ0FrbkgxNkJVVFhaS1g3TEc1TV9Pd0dTMTZsc3JkOGpyR0dGWXYzbTIyMWFXdjBybmtzTUdqUUhQMHF4Z25lWVVkeXJaV0VWVmFEaFV1cUtXZXk1Z2gyUUpMUmpKc3VTX3poa2kya0dKUVZENkk?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 09:17:00 GMT",
-        "discovered": "2026-09-27T09:26:49.868923+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مران منتخب مصر قبل السفر لجنوب السودان (صور) يلاكورة",
-        "player": "",
-        "content_hash": "6adeade4ad5328f07b52bd90d4c20cc171f9d1d6130d9d4f5c67c454b39a4e06",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5911,
-        "title": "23 لاعبا في مران منتخب مصر قبل السفر لجنوب السودان - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPSUFaTUtoZ25FTUdWaXRKR0JCc01tTEdpdEZGdHRUaVV2dERXMFVncC0xVkFmdndCdWJjcmxFR3I0VndZcWo2VmZDZ3RmRmtSSFptZldnMlM4bnByYnd3aDR2WVhWTHRPTlM4WElVN3F2MDRHODh5dFlwZjF0blBGXzAyNWNoOWd2S1lnLTVodlduVTVLY2hNVm1aMThQYVNFazNlcXoxYlhfOGEyTEt1Mko1dkx3TVRaOW05eFZFUmxKVGkySGdRQkZ4cDRNSXFSTndTWmVSWlN5a09WVFpVN05iMUlEWWRkOXd3ZEZCQ0ZPbzhaZU9YVXRaX0JFMkRUeEdRLWFNaEk0TnN3TkNFeVd2U2dERHZUUEVOQUtfRXdheXF1Y3ZnU283bF9ET05WRHh4Szlqa1VkQjU0TkR3b05MYld3X2J1X09SRnNmRHJOemxnRGtMT3k3ckxHb3E5QTdTdUlaUGgtNFJjYjVDUnJmYk41VUtPY19pVnRxOFVBdjBtU0VkaDZvTjJSNFlHTzAtOHh0WFfSAZ4DQVVfeXFMTlNfaExNS1dyT2VwVDhhblNsTjVoUjBwaXl2RHNaSlBzQi1lWTNwZ3BLdlEyVEhjYmN6Z1pSSzNtRm84azNWdHpFZTNYREZRdDEyRWppX0FHMjZEbzRyZnV5cnFKcTk4eU9Od21vdWRTRUtHNEhVZ3ZPMVI3dXVqQzJTTHpVenV6c2lrWHQzeE9VWEVvaEstNHAxa1pGTFY5Z24zZ0hRNUtRSDV5NlhiLTBuX05rLThuUVFTeTJ6eENBZEplN1pVOTZlSi1tVXo3YkNPTHBIZFJudlBVTkhCM1M3VV9keXp4S1dKUW9idk5lUXNiUllyYVpxYjZzZ0pkSnNmbWZ3WlZVVXZNYmZPcHZVMko3NnFwM3FsTUV5Q0tvTDdGWmppM21ldmRHOVotam5hZTg4VzVQZU1OV2tEajJ5VkQ5UUZsZExuaTJhS1dEY1BFaFc4TXlTcjFscWtLN25kX0VTQ1RBbXFqcEYxNG10Rm5ON1pqSDg5REJUckVpWmNsb2pKeUg4TkFRWmFMZzZsLVpoQ3htX3pxTnJ3?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 09:16:00 GMT",
-        "discovered": "2026-09-27T12:47:03.330908+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "23 لاعبا في مران منتخب مصر قبل السفر لجنوب السودان FilGoal",
-        "player": "",
-        "content_hash": "13f9357a5b36fcf382c52f4eef1ba27c0b05348ed94d4d4506e4ca08701d9296",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1732,22 +1732,6 @@
         "summary": "مصطفى سعد يتحدث عن.. أسباب تراجع الأهلي.. الأقرب للفوز بالدوري.. وحلم الانضمام للمنتخب يلاكورة",
         "player": "",
         "content_hash": "c30945a9707ededd1ddc0ff49abcec8b0bf442152a17de1a797634f5b3aeb56c",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 5462,
-        "title": "ندوة وهبي بعد الإطاحة بالغابون - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1DVzdzWU5uUzBRQjlvOGxGMjhjZUViQU1GUEl6aVJSelM4ZlAyUVp6eDJid3NOeF8wYTl1M0k1Q0pzZl9zQTBKaQ?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 03:06:15 GMT",
-        "discovered": "2026-09-26T03:12:08.758367+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "ندوة وهبي بعد الإطاحة بالغابون - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
-        "player": "",
-        "content_hash": "b33c964a26d60045abf2a04e0a476641afc9dcc8bedee658094c37437816972c",
         "sent": 0,
         "section": "transfers"
       },
