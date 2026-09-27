@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T19:24:17.332394+00:00",
+  "updated": "2026-09-27T19:36:06.699881+00:00",
   "total": 135,
   "sections": {
     "morocco": [
@@ -16,6 +16,22 @@
         "summary": "توقيف شرطي وشقيقته للاشتباه في حيازة وترويج المخدرات Febrayer",
         "player": "",
         "content_hash": "1188aea1650e7997398466243c33f2b4c5524a577e9a9ea5b34f2dd10271f34d",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 6041,
+        "title": "\"القدرة الشرائية\" تتقدم وعود الأحزاب المتصدرة نتائج الانتخابات التشريعية - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOQm92Y1ZwR0JtUHlyU1F4ejBPa3A2RHAtV1V3dDBQamNCXy1FbWc0anJWNnpCdkdiT2x1T19vWC0tclQ2ejNnODRhQUtvQ1pycFlxbzRRNHdka2I1ZjRaYjBuWk45elRHdXVicF9DQ2s5YmxyZHF4Q3NJcENmejVZUi0tQ1pGeTZjdkpYZ0R4aWowUDNKVUpTbzhSN0ViZGI0UFVLdUJJOEFoU0EwbzlkV1NjX00wUElUXzI3OW44T1F5dzYtZGVuUE9hcXltLUVHZi1rM1Fad3BJbXhDNlhLYVRoNXdPSkRnekhtalRSb18wRHlsa2Y5SVNDUy1yT2RmTGZ2bHBabWtubkowLW5neTBock1nRjQyR0xVa01JUjlYNGFUVlE2bmpFZGNRbFV4dlhxdFJSV0JiWU1Cc3BqeDd2NzZqZTZ5MEUxZVhB?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Sun, 27 Sep 2026 18:05:23 GMT",
+        "discovered": "2026-09-27T19:35:02.106545+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "\"القدرة الشرائية\" تتقدم وعود الأحزاب المتصدرة نتائج الانتخابات التشريعية Hespress",
+        "player": "",
+        "content_hash": "139e8f13e4a518df4aa45edd72f2d9f2f485d0c4d01cd9dd88270033f7ebb2e7",
         "sent": 0,
         "section": "morocco"
       },
@@ -502,6 +518,22 @@
     ],
     "sports": [
       {
+        "id": 6044,
+        "title": "في مباراة من \"لعصر الحجري\".. الزاكي يتعثر في ظهوره الأول مع الأردن - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxQTUpudnd2X0NpaF9RTEdreHNaQUVUUEZpWnJhWDdweURfQ3lvUmFsOFBySWVfb0RBV0RvVG9zRVNOZ0NKTEZYS0FGeWVpTGJTSVFWRU1ZZkY4eWFVbHI3cDk3Z1FxZjl2NEZtNzVEN2F1dGFPUTBUX3hGOEtlUmhuUm5BNTljdzVNYnhBT0w0NkdWcHNvcndIRW5JOGhrTDNKNEgydi1VczQ0S0hqNkw0N3NHYktRNnZpRk9GVTNkejJ1ZWNMUEJ4N05vMkwwWGhSS0FCYmc1OTZSMlBoX2tmZTViVmlQZlhWNkNvWDQ3VjZGZC1oOExjRmV1MFExSks1VE5fQkpUYkd4QnR3bG5tQktOZWhHSXZzNUdldzgya3Y1NE8tRDUyUWdvRXJzUDdueFJpRGI3eHgwUlVjLXhBcWhpaWFNYnI2Z3BCTFJKSFZNWDdnV2R2Qjg1OFA4d3dJVjI2ZENheUtCNlpNS1I3bmpOMXhjQktrRFhFUWpxSk5tSFZ5N3FGc3J0WldidWtOWktqd01SWmxwOFdlRUhGZGRjSDd3Zjdjb2pKTE8tVmhrMWl6NklhbFVFR0Zmem5xbEdHMVZCd1RSb1NBNXFwcXRra0J4eUVnM05IUGh3eE5hazhGN29PYlNIRW5kaENkcTJhcGpCbVBxV3hnWE5ISEpqT2gxWTd2Y2hDSjdPRnUyR3djaGNIN0c1bXc0ZlJfcnY2clZtaHNjWXktcFl4U21raElJSFhJOHN2QUI0SnJvVmZUR1JoMG00Tmtpay1KNXRMYUFnSThHeHhiSnhmZ0R5dHpOaC1GWVE?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 19:29:53 GMT",
+        "discovered": "2026-09-27T19:35:18.986682+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "في مباراة من \"لعصر الحجري\".. الزاكي يتعثر في ظهوره الأول مع الأردن Kooora",
+        "player": "",
+        "content_hash": "e5e573b9121661549bd13bd3f19448b6c92f87200e3ebff6890e441eb6cec9eb",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 6035,
         "title": "نادي خورفكان يعلن استعارة مهاجم من الوداد - جريدة المنتخب",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSRGVPNEVfdDJ4T2YteTFRY1NhWFJjVmx4WC1Wa0ZyTno0OGVxel9qbDZYR0ZUX1NYYVhwd2tPUTh5RkNKNVdNaC11UlB2bi1Mc0FNZw?oc=5",
@@ -626,6 +658,22 @@
         "summary": "Copy of ما القنوات الناقلة لمباراة النرويج والبرتغال في دوري الأمم الأوروبية 2026-2027؟ وكيف تشاهدها عبر الإنترنت؟",
         "player": "",
         "content_hash": "a77a01daf901513f7167d752c6292284437b7791aa20e13251cfa53b0c7ae27f",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6043,
+        "title": "البطولة الإحترافية 1.. المغرب التطواني يفرض التعادل على نهضة بركان - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jZmdkU3BsWncwckQxNlBKdzl2ZDZ6R2hOeE9ZT1FDRXBXeTZ1d1JEaWwwTzRkeDBtWF90Y3ZiVmVCcW9hZG5hdEh3bHIweEpSQXktWA?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 18:29:13 GMT",
+        "discovered": "2026-09-27T19:35:17.817535+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "البطولة الإحترافية 1.. المغرب التطواني يفرض التعادل على نهضة بركان جريدة المنتخب",
+        "player": "",
+        "content_hash": "e1b9d715ac11dc2f8f9fdc0ebfd321529ad65265a6e74cb894436180fc52966f",
         "sent": 0,
         "section": "sports"
       },
@@ -1268,38 +1316,6 @@
         "content_hash": "5651251f2b42bb5d3debd050daf02c1614a85eefcb4687f9e372e44a51fa84c6",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 6014,
-        "title": "إندريك: لا يمكن مقارنة ضغوط كرة القدم بمن يستيقظ 5 صباحا للعمل - filgoal.com",
-        "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOQ1p3WEF6bC04Wi1uWGttMlBKM1VRc0UyVkhLRTJKN2d0YVpGdmxBeGV0S19GUmtubURTekZ3UlNDLTJjMC1fUXNGRXlsdEhLX0Z1YXFoMnR3SktCd2lsaC12SUdmbE1MV2VhWU1rMGZtS2IzRndmNFJsWlZha0pSaTAtOTY4U2xrLTNzMHg4RGg2YWxVRkZqekdYazcwRjhfWVVHaXFNWGJqbHFVdGlpMHVEMzlwOGxXcVNfTWdxSjZqc3NZY1NzZzZLUkhaZmJmeG8xbXdUX3M4cTZmTU9RZTZvTUJ5cEw1SHlpcHF5b1VxV2ZCUnBuekxEWHFoZU1aaE5DemZWN1RRdzRvNTNjYWloQVJQRGFLSXZSd24zZWY0Unc4Tjc5TDJ2b25paDlxUHZBUlIxYzFCZTFyWmpwQnVUM1BqaG1fRzBwV0F1TXhxdFNuZTM3SnVUb1pPM2xzeWRBanA0UVR3dS1Lb2ttSUphNVM0aWhNN19ndkdaa2tHQnlWbkJFSDU0WTBDZFpQNElZa2JtZFEzWmRsQmtxbUpJUFlfM29YTlpPSFZiaDB4QkJSdjZON3UyYVdWdENwN1VhSXVZU1BaWTMtTGNxWGl3QjNHdm50RXBDS0x3cUxid1JwamIxZFFB0gHvA0FVX3lxTE1vc2tGcUY0dVNHVS02Y0d3bjlaRW9pbGp0YjJ5LUxkbnc3TzNmZktGbkh6VFZSR3JsTVZ4S01FX1Z3RXBFSXBqZVB0VDRfME1iQ0hsNmZyV0VOeTFPMDA1R1JqS2JzalIxU2ZFSzAwREVtUy1Sc0dBQmpXMjlYM2c5U2YyeGN2a0s2ODd5M0V2N1FNczY2cmNMM3hyc2ppX3R2aG1WZG5SYkh0MDF1UGhIMTM4N0tUT0RTZ0d6ZmZFeDVfSlJQV2tGbENZQWIzcGUzWHRROGZpYlRtZUlQdzlsc2xtQzBvdzZQbVpLcGo0UlNaOG5SQTVXRV9aQi1rY2dfTmM0czByYXRHcjlLSkhrZC1EdElEVHRVWTJUTUlxM1BjNFZCaHJYX0xtcFVUd3FUeTdCc1BzOURGWHplcTNFS3kxcy1ob0ltRmFKY2tTMFpZdGpjMHJheklvSnc0WlNVSTJBRXVIbkZ6V1BZRHdKTUJPd1pqMy1pemtUWE1kcFFFRW12dnNQS1ozT2dTMll4NVphOE93cENXT1BIVURDdm1QYWhfZE9EMTJEYXcxSUM4eTFnQUJucXVSVXZXa2paY1FUazY4LWx3aE1OMUNTNzZFeldsS01pU1A5Wmtra0RVcGxVNlhLTW5YbEFqQQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 14:24:00 GMT",
-        "discovered": "2026-09-27T18:13:25.828787+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "إندريك: لا يمكن مقارنة ضغوط كرة القدم بمن يستيقظ 5 صباحا للعمل filgoal.com",
-        "player": "",
-        "content_hash": "f1689be9bd550b78076cf3f67869f015f33cda0c42ad503f98ddf4da4056787b",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5944,
-        "title": "كرة يد – الزمالك يخسر من برشلونة بمشاركة الدرع في كأس العالم للأندية - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMimARBVV95cUxOWEtBRzhjMkJQVTkybERVMWJzQWtEWkVPcGQteTZDRlY4T2pOclVtb1ZwbnVhWHJZalZMUTRHTVhBbmt6aUtzOU1HQjZfYjdMeDBxWW14MDRZcUVodGg2bW1RNFBXeF91aDBZY2JxR0c4M2VWWEF3U3FXUjQ4U1NtTDZDd1ltckR5aWhwUWpQSE9hZzVlaW1sVFRoYW9RUG81TWtKTm94U3dYZm5tX0hQeC1Oc1ZBNVhDbkdvVk9xS2ZuNThtNnphMks5dVN4THk0bkFUc0NsUzZrdlJPWUJGR1pGZGc0UWo3UnhpZEVUMGRIa1pkUUhEZWN2UWNackhfT0tiOUxLMENYOEtQd1FMUXptY1RYbnl5bm8xQWhYblRvX0hFS1hwV2pkbUVKTS1DSW45MnpBc2tDdms5WGxhcHMyV0pqMGdCYU9OWnJfWnZUOGxaaDZ2dF9UeWUxV1lvMTd6bE9tV3AwMzF6YTBaS3JvYXJ0eTJreE1DSG9QWFI1eEFhSm9wMXYzMU9GQWp1R3AwMnFyc2xLNElVTVEtNEExd0xEQUJvN3A2NG9nUFQtWGh2ckhUX3dpUGpPbVVSUnJqSEZmYUxZOVF5aUFJMkdGZ1k4QVNwbW1ncHUya0R0c3hLNXkzVjRQNERWa0pINnlnelR0bkhqSi1OWk1jMzlrSWlkanpBQWswTDJzdkphSlRMWk85WNIBngRBVV95cUxNWlBYRS1pQUFVU0VycUFoaG92NUlpOHQ2T19ya3lPQkw1U290VXI5TWJ2UGV3bGhPS1I3UFdTRjBGbFZyR3FGcE5HWXhqcHRLTUNlbU81YVE4aElFczIzUER6dkloVlRXOHVocDVDc1IwUTVzOG1JejVGc3hyOEdXVGpDQ2cwd0YwUzh6WC1QX0JqWDJJQThhUGNwTlJWdjI4X2hXYXlUcWRWaUE1a2ppS2lNOG00bGJCdVk5cTlieDhwaXQ5Y2hZVDFORWt1UklnclZNWGNHZm9fS3dWdnNNa3JZMWpwNU1XcFpvSkJWQ28tZ2tWYjgyeVJKUGxxeDMwYUdxR05fb1NwU0YtdjhURmxSLXEtWjN1eEtaR2pvdzdEVGFpay1JdnFDeW1wank4Q1JDTGRlQkdGTTNoeWk5UlBpLWVzRC1CQ3pkTkYwcnQwczVtdXgwZWRrZFVNbUZrOTFmdnl5X08wTi0wQTdtbVZYYkNtZzZDOWZMUGdzV05JSy1JVGRiSTk3OGUzR191MEtjWXBHLW1PTHNHZjlFbUZMbUpyQXA4ZGxBYmFiYnJkWU9Eb1VieVlFTUZFaXZub3JmZ1c3bFFTeUtybGZtclZZZlpxaEhoSno5QWN0LUNCZ0pGM3BHcGpJQXRVb0dFdmFNMzFnTzdUOXIzd24xUFM5ZFZSc2ZwcU9xLXktYkRvT1RvQlVZWDBZMkREZw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 14:14:00 GMT",
-        "discovered": "2026-09-27T14:30:30.983711+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كرة يد – الزمالك يخسر من برشلونة بمشاركة الدرع في كأس العالم للأندية FilGoal",
-        "player": "",
-        "content_hash": "62212c61bd4ddcccf0c392fa9cb73f6e03b65fd54c0156bf1a462e76390e6a31",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1716,22 +1732,6 @@
         "summary": "أكثر من 50 ألف غواص.. السعودية تحول أعماق البحر إلى وجهة سياحية alarabiya.net",
         "player": "",
         "content_hash": "2c4e407f70102f338ab347e4396f6d6319ae2a3ff28e6a344ae771909c42cec7",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 5541,
-        "title": "مغادرة صلاح لا تتعلق بـ\"الترتان\" فقط.. كواليس غرفة ملابس منتخب مصر وانفعال حسام وغضب هيثم - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMitgVBVV95cUxObkRzMEJTQmtNTmd6bTdhMEE3SVNNdW9leEJOb29RZFFqTzZuSGhjNFBIOEpfdXNJaXVpcGZ5QUVLZU9mZTNST2NoVEZabHlVSGltcVp5ekFNT21XV2VnQjI4dk9NY25FVzZ2UTZVUzZjc2VrZ1huejkyajFNVmNZOXd1cnl1MFdDZER4TGFucFRhNjFKMXIxRWdHXy10YzhIY2l4YjRVQVdEUGFYNGhIRDFHUEJBNmktOWZKbzFEMVJYWE1naWRyVGNvRXRfalkxQUVfV0ZfYlEydFlNT1JsbVRaeHB3c0piYjdtUWNJOXFEdEo4MUNDQWQ2OXdwN1ZJakQ5TnVSSVJYZ0NUb2pFX3VqZ1o3ZW5IcnByNHNKT3dsQmRNYnFZSXA5aW1XcHdJNDdDV2djQWNVOW5JYnpZdnU2enA3M2JoQmwtSHoxTXlCSHJ4M0J1WEE0XzVNLUQ0TGM3b1k5RlVSbHVUblYtaE5UellnVlJzcEozeGhBcDNCUTY1YUJ4SlpMX1VlNE42WVJ5c2gyYmVOQTVMLWczd3lPMjhxd1pWMGRzY0pkaTJkQ0ZucjRfN0VoVUtJa1p3VG9CNGs3dzdrMlFvQ1lsMmltVVIwUnJGYWtOd21lelJlRDlYdjNKdEs1OUlrc0UtaXAtM3NOMnNZS1JaUTYzQml6RUQ3cmRVeG1hS2VuMFNDeVJqUlJYOUZBV2t6cVg5WHV0Tkhya19vX2VWMV9IczdGN1l4Y1c2aVNFUWY3Q3F0OEI0QVowVTVWRF9Jb0RiT1lJamVwNzFtM1VrdmlmVEdIUUMxLVViRGRvdHlNX0ltUGV4R2ZxVENBNVdDejhEREpnaWhVUXI4RWZQWVN2MUMxNlpBZmdCZGlvaXVvWHJKdW9DQkEyWEQ3Vks1M3NYUmROQjFR0gG7BUFVX3lxTE1NQjdnNVNEUmkweDlqTFFwTHNoTXdCbDRYN3NBQ3NkRXUtYUNONDU3Z0RJN2U4WDdXaDg4WWdTY2FWSk4xQUl4RXYyd1FIR2FtRmJTX29lN3pHMFZMVko0aEtnVUhseHdFaG4xWjdSTGE5S21nbVB2SHdFMi1MZW5qSGdWWnNvQS1KbVVTNlcxa2g2dXYzSkN6QkhVR1gzaVFhUWZrRk1XZmFLT083T252ZzdVNk1xWnktVlJ6YTRrZXNmNDdGcHdDNXR6QVI3M3d1eTAzVjNLaXBoQndNOGZKYWw1c2x6c1hhYmR6c0lDMkY1eXZHY0QzOHNtTEhDTm5CXzROdjVrTXFQUVhOR1ZidnlSTVJxNUFZWjN2N0phLW1QT3JFRG5Kd1pxSmw0S2RHeG9ZQjlVNUFQRDI4OFZKS3laeUJHM01lNmMyTWhEd09sV284d3BzVXRzY0puaFRlT1VZbzFwNFVnSWVrSVozR2hCUkNzSzVBVU5nWFhGcU1JVS1uWGRZVW0xRkdVc1JvNFItLUxGM0J4OU4xZ25hc0RKRWNQaGhzeEhaSVpVTHU5MnZGdWRpQmdrcmt1Q1U3QnRGTmYycVdHdGktWndlcnh5ckdfZDV5cjhwNF9MV0xIWVhVWmV4T0E0ajZhemdvcklVTlhLR2NKRG5RVkpZUXVBWUVRcEV6eDhmY0FGUHA4bGExcmxMYjRWWHlSajZpSVpoOUoyTW1VWUZ4QzN3NHVMRV8xMko0R0VEVmV5TmJFc0lITk9mOGtKclFHbWNWbzY3amFqbTRocG5KdWt1a0o3VnVrS3pJOUtWYjNwcVkyQTF2WERYVGdXY05iM2tRWlVHYlVRTTE4MkdnSHR3cFcweE9USXFkdnhncTBiU0xXYkYzSFZmTldCbGRlVFVicm13RDNaOHVtMA?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 10:16:00 GMT",
-        "discovered": "2026-09-26T10:33:37.830504+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "مغادرة صلاح لا تتعلق بـ\"الترتان\" فقط.. كواليس غرفة ملابس منتخب مصر وانفعال حسام وغضب هيثم يلاكورة",
-        "player": "",
-        "content_hash": "78b16839fc9299500308350346ca61a8bfbefd2b8c5b1695c3482c5d2491c6a8",
         "sent": 0,
         "section": "transfers"
       },
