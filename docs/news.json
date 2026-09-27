@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T22:35:44.813207+00:00",
-  "total": 133,
+  "updated": "2026-09-27T22:47:58.308249+00:00",
+  "total": 131,
   "sections": {
     "morocco": [
       {
@@ -356,22 +356,6 @@
         "section": "morocco"
       },
       {
-        "id": 5608,
-        "title": "أمن أكادير يوقف سويديا مبحوثا عنه دوليا للاشتباه في تورطه في محاولة قتل - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsR3NGaEFzOHVpRjFHOGdFVmdZbWFVVG0zNlFzTkZoNXl3YTAyYzY4MUdud2V1aS1DTGlKa2lYVnpTYmJ2enJWa2NKYU9HUEpBTG0wdV9FbXZGVkhabkJVdDgyTzZhUQ?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Sat, 26 Sep 2026 15:36:50 GMT",
-        "discovered": "2026-09-26T16:25:14.070429+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "أمن أكادير يوقف سويديا مبحوثا عنه دوليا للاشتباه في تورطه في محاولة قتل Le 360 Arabe",
-        "player": "",
-        "content_hash": "66e03f8317f7a40d0aec0e5b84157a729b1d2074bd46b51997f403ca0be36798",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 5610,
         "title": "جمال العسري لـ“كود”: تزوير تابت فـ“مجزرة” الانتخابات فطنجة وهادشي خطير.. كيفاش عمدة رئيس للمنظمة العالمية للمدن والحكومات المحلية يدخل فهاد الملف؟.. كنطالبو بتحقيق مع السلطة المحلية وإسقاط جوج كراسا ديال “البام” فالبرلمان تماك - كود: جريدة إلكترونية مغربية شاملة. - كود",
         "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNNzhNTHhZOGpHS0dvelNPTjJaYV80QWh1QkNocFA1OURVc2xVWXhuSzhEVWtfa2JOR3J1ejk2TFVQQWNFSW50bVl6WjY4SFBLNk5FSWdlWEhwY01BTHBDRDlhcWU2T3F2b3h4aU9rQVhRSEVacGtIUWhaanhWQ0Vtc1hlS2hJS1VPNklEamEtZXZJbUZmRzgyalQ3YktFNUNscmRTZDZFWnNjY3htQkVCa3A1MlJkXzJhUlFIelg2RF9MalNoY2pzTEZBWmlrTFlLb1hweE4tT0ZQbTZSV0d4VHNCZmF1SnBzT0p4eFM4WFk0TWdpOEtobVhJZHIxNVY1VlU4SExEX1loLXRrM2sxdng3SUJieElVN3hELWZ0cHNmQQ?oc=5",
@@ -469,6 +453,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 6107,
+        "title": "النادي المكناسي يتصدر ترتيب البطولة الاحترافية بعد الجولة الأولى - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JSVN4WE1EN200cjg4X1lKZlNjU01LMEFVdncybm9MaEEyRW04eG5lY0dRVllTTnRFd05qbmlRYnlrSkU0YWdHSw?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 22:44:26 GMT",
+        "discovered": "2026-09-27T22:47:31.841237+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "النادي المكناسي يتصدر ترتيب البطولة الاحترافية بعد الجولة الأولى Febrayer",
+        "player": "",
+        "content_hash": "1ec4e137fb6416c485b4f4f3c543b1ef58f7ba4b912fcdba59a0835a79822db0",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6106,
+        "title": "المنتخب المغربي للبلياردو يتوج بطلاً للعالم للمرة الثانية في تاريخه - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE00RkNRU3lXenhOYUxSZ21MRUJqMHJnMFdMSWg1Z19VRjJ3QWhBNl83UEFVdldUQjdGOHdzRVhuWnItQUxxNmRmRg?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 22:34:53 GMT",
+        "discovered": "2026-09-27T22:47:31.816860+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "المنتخب المغربي للبلياردو يتوج بطلاً للعالم للمرة الثانية في تاريخه Febrayer",
+        "player": "",
+        "content_hash": "319db84b9e61609b6b14111396ed570d102c85cd509be97ee27429f1b7240185",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 6105,
         "title": "اللقاء رقم 50.. فاخوري يصنع هدفا في تعادل الأردن مع سوريا وديا - filgoal.com",
@@ -1236,38 +1252,6 @@
         "content_hash": "48b745b2e9b514f3fab905a59d73251d8e1afc3c637fcd524592d80dd08fe871",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 6050,
-        "title": "طاقم تحكيم من موريشيوس لمباراة مصر وجنوب السودان - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxORUpmbFZGVWVKWkt0QlFycXVNRTQtZjZPU2I3ZnpCLV8xZjRiMm5FZE91S2kwNDRHSzlwbURMRlNEbWRpdjU4MTNwc0ZQQkphWGZnUnJpQmZuaHRaVTh0Ml9iRUQ2NFR5T3VKc3A5TUpCZHVPNVVqbFVHbU1MbGFUVGRXNUVaMm1RWW5mMXV5SHJGeWVBUkFCU2ltZEthWFI5TE9uNF9QakM2RmRCYkRxQ2REWW5xTlVtaHk1LWhNR054M21sbGNHMld2VXJZbnRUNDR0US1DYkdBS2JmaGdPalRfZ3FibFY2Ymp3Y0tYdjFDQUo2ck9XeUk4anBKZWtBYjZDSTNGenF4RWg3cllQcEJfYXBOcU95UGVuVkpxemZTVTVRUnpjbG9FMVpwTHRveDgtVHlKaUc5MzlMUk95b1pMQ3FYMmRYN3BnQTJ1WWJkaXdkTVc2VFdVNlNHcUpVWFRCcE82UkdzU2ViVjJGOGV4VU9iSENHYU8xNEF1VTI2alhPeVpBU0ZENmsxZ0htTElGMnhJNE9xQ182NFNKWUZycjNSZjBDS0tOQVR3ZlYtaDJvZFQyR1FfWdIBwANBVV95cUxPNERUTTJKUnY4bkRoT2tsMGlXcW56VUx1cUhWU2dja2JadHA5dnVWMVR2OUVXMlRUSmgwSEd1cm1MXzFQNzRmRXR6TXVQbGpJNDE3VmhlOVh3MU1KTHVMVC1Na1ppaW5LVkhuVXFmR05lQUtWU2Z0VURLYWFQdkJDSDEzLVVvYVk4ZjhZTlA3TUNtY1owaGJkTUNVNzdsczhfcXlJQUFPNERTb3FmNmE4Wlc2d2YyQW05c3poNURSekMzQXRZWEdzNGt4S0U1M1dtY3ptRjBlU1l2Z2dvbzFPOWF1TXBJTnFGQWZxODJIOXdrR2QzWWVHNW01bDZ4YVN3QktHd3J1bEk5d3hPU241SGFLZ1ZRUXV3U3hPazVydU80VVN1dzZCaElVUzlHV2xLZTV1cWRxYnIyZlF5ZlFlcE14OTJQMUl2T3ZLQzlGeVRtOFI5TU90dmNpdWlfODRUWjNBVWdwUHV0YXBKdEp5emkwMmRBS3Jpa3ZzaU1MMXVvQ2VUNFEzQVhNWkFMY0I4aTJLX2N0d0RIQ0RxREhJZkNySUpEVmN0LWsxSWJkaThzUVBZcXV5X1MwMkFlZ2pP?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 17:31:00 GMT",
-        "discovered": "2026-09-27T19:53:58.611769+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "طاقم تحكيم من موريشيوس لمباراة مصر وجنوب السودان يلاكورة",
-        "player": "",
-        "content_hash": "70ea8d0e35475e78d74d70b9fdf23aeb4a1897679288b84613e1bb621f4fe0d8",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6006,
-        "title": "الروائي الفلسطيني إبراهيم نصر الله يفوز بجائزة نيوستاد العالمية للآداب 2026 - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPdXZxMDRQU2FEcmFScVFodkhyLWNhNlAwMHVkZHQ2V3h5eGpmaWltTnVZdDBqVWJTT1VKOUkzeG1laFdrYWJmdU90QzJ0NjlLMnFtNlZFZzVDQ0xscDlFelJFTl9ZZGdnNnRJWWFhN0k1RUFJRWtvU1RfR0s1V3JBRmVFS2FaVGllZWItUkpDRmVkQVhfNzFRcE9fSWhnQ2tweEo1d2NEQWl4V2JWOGcxdHEwcnhQeTNTZXpTekU4NUtKcmF1SmNnamZuQ1FIaGd0OHZqcU1ERGJGbjR6YjlNem5ZclNhcmJlOHRSUG9jbDZtd1d4ckUxcnFubWdPRTRLVnpBNGx3RTJxVjJBWGJoQ0REMkZfT1VMb21SZlFOVzNxN1ctZ2M0UHpHVTZfWUduSEhRbkZFMHJWVlU2b2pKbVdmeFEyZw?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 17:24:37 GMT",
-        "discovered": "2026-09-27T17:48:25.060005+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الروائي الفلسطيني إبراهيم نصر الله يفوز بجائزة نيوستاد العالمية للآداب 2026 القدس العربي",
-        "player": "",
-        "content_hash": "f80ae78747220b953232bd1b2171f6b25c4ab217d0f87b01228679e22849d12e",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1684,22 +1668,6 @@
         "summary": "بعد مغادرة صلاح.. 8 لاعبون على أعتاب الخروج من قائمة منتخب مصر (صور) يلاكورة",
         "player": "",
         "content_hash": "91d0b605641eb58971d98f92add968aec3ceb442432e2a0dad88d745a78af7f1",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 5609,
-        "title": "صفقات الماكلة فزمن “كورونا”.. ولاية جهة فاس مكناس خاصها تحط أزيد من 847 مليون لتريتور - كود",
-        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOVUtyakFkQXlsTVpVOU5XLXlkVTl0UGd3OTlqdzdEVC1RRGpOX2FsMk9QbXlDU0xWSkZRdWE2OWh1YWF2MTF2TXh6d1dyUkRLZ3V0bVVocWtpZng0eU04bnE4aFVIelYtNTREYjJFSWNjeVI4NGFUSWFqdEstY3VxdjZveFQ4eUVjRlc0Uk9sRDU3bnJyX3RLYmJDX1lycXNWUkZNMHdHbWwycl9WNXBBc0dLS05hdFZQdXN0eWp3TXJiTXNHVzBnak5PYm9CYllRbXd5anh4eXkyY3lubjRDTXFIOElkczkxbEtQeldJVEtXQThMRkU1NUVGemZ0ZTJHTWxDR3prR0pKeGhxZ01GOExnd3AzMk92LUE3aThMRGIza1dYMWRyN1hMUmVTSUN1Y1lmVzNBSEItYmtYajFBMXlOTQ?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 14:20:44 GMT",
-        "discovered": "2026-09-26T16:25:18.286982+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "صفقات الماكلة فزمن “كورونا”.. ولاية جهة فاس مكناس خاصها تحط أزيد من 847 مليون لتريتور كود",
-        "player": "",
-        "content_hash": "27b3c62b4faa982b4b2187fa39a68576fa7a81281f0b09718f7ca1ebfeba0944",
         "sent": 0,
         "section": "transfers"
       },
