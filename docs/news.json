@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T11:55:33.802721+00:00",
-  "total": 148,
+  "updated": "2026-09-27T12:09:57.840615+00:00",
+  "total": 147,
   "sections": {
     "morocco": [
       {
@@ -482,25 +482,25 @@
         "content_hash": "abe1bac027c36b95f380fab9ea8517b37577d5afdacb8d63c1c529aa191b25c5",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 5467,
-        "title": "خريطة الانتخابات المغربية.. تحولات عددية وإعادة ترتيب - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNWW9xQUtPazR5S0t5bTBSU0xRYlpDY3dTV2dRZWtidFFlUmN2ME5qMGYtLWQ5WWRJbGFPd1ViM25hS0JNckw3UmVycnc1SzRKU2hldlBkcEdSTFdDazRXSW50TVhmekFuZWdsU2MwR0I5N1I1RURSRFpLN1JLbEx3WjRvUUZuM25uNnZZZWt1LTlvS3RJdU9aNDhaSVBndURBZVpMSVpuMkc2Zkd0TFFzZ0Nmc1B3bmZzVGd0dzJQU3NOMGRlNndNRXVlTEI3UlNKMTIwSVBMdy1HTjNrbzUzUFl3bmFaRVdYa3pVTVNoRXdNdWttUjVNTUgwa3pXencxdTZZN2l5Y2ZhdXd6R2dDbWhVYi1HcUhHcXF6WEZSd1ItTGhnaEFYU1o3RmlJcG1YazROQ3dEYUFGZDZaQzRPLXFpdkvSAcoCQVVfeXFMT2FyRXhyTDdYTkJQQnY0Ni13OFgtTUI3OXM1YzRjcVVmUFFIbG4tQV9vdDVlLVBMazBCeHlqZjAtMU8zY0ZHNndEbHk4VkoyVW13V1BCaXhlaDhaOW13RUplM1hqN1lwSmZuaTNTTV9KelIxWUJvMzJEdFlXTFJEa2VlSHNUNElZdll6R3hkT05saXlkTDVuc3MyWGZ4eEg2TjNDaWFoampYS3ZFUmdfMEtXd3cwSzk1RjFxQnpkNDZOQkhCbzZKTkNqTVd5b0lzVlY3LWdEbzdnV3VqUFppMThISmFCWXNSTWd6d2dNN1NfblU4WEhvRjJNWXM3S19IcXVxQ3duRmE5ZEdKM194MkFRT3dlXzhmeE1mWXA0WWlmSC11TExELTBYelowSUhfdEVNRk1CcDBfdFdQWWc1MmluSDdnUE5NVzh3?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Thu, 24 Sep 2026 11:57:55 GMT",
-        "discovered": "2026-09-26T03:12:23.165781+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "خريطة الانتخابات المغربية.. تحولات عددية وإعادة ترتيب الجزيرة نت",
-        "player": "",
-        "content_hash": "3adc884949cc535fdb618206419bc26bf475411b8f98ac3925e9671af0550800",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 5904,
+        "title": "سيرجيو باولو: ظهرنا بشكل سيئ.. ولم نتمركز بالشكل الصحيح - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53d2tRVzV5ZmYxWnpGZGEwLWNwVGM1RU9EWlJpcFNZbTk1X2kzUE9rbFZ1bWxHbGJVdGpGYXE2N21KT1E1VUVzbTdIS1BwdzhHMnVlUA?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 12:04:11 GMT",
+        "discovered": "2026-09-27T12:09:37.510324+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "سيرجيو باولو: ظهرنا بشكل سيئ.. ولم نتمركز بالشكل الصحيح جريدة المنتخب",
+        "player": "",
+        "content_hash": "292704c76231e31d4475a8d256d606e8533f41d9c6ca9cba3fa08297632099cb",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5897,
         "title": "مهاجم مونزا يقود هجوم منتخب مصر للناشئين أمام إنجلترا في دورة الصداقة - FilGoal",
@@ -1282,22 +1282,6 @@
         "summary": "ميساء باها تدخل تاريخ البطولة الإسبانية جريدة المنتخب",
         "player": "",
         "content_hash": "fe9c9cb1932729c8d46bc3753155ecfaa1aaa2cd39d366edddf5d1210cf02012",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5815,
-        "title": "44 يومًا حاسمة.. هل تنهي أزمة صلاح والشناوي سطوة حسام حسن في المنتخب؟ (صور) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxPekRiWEUyS1pJQ2ZYMDAyd1poOTNzV3M1QUZUXzVvbk5ONGFJTjV6NVViSDByQU5JRTFoZERhckVaTnFBc3dLX1Q3RFNxOHFQTlI0WnVUM1JyNHZEQUF4S2w5V2x5bHotWTJEajVCSkhPSDlEZEFnd0dJTmsydHczNGJPWnNtNUNVOFVmMnA4Nm05bk5Jenh2dXgtcjZxZkdpZDNGMjF6eDFycDM5UEhnT2drSWt5WTh2TzFVNWtGb0Fsejg1bDNfMExXa2xpdWZHMkU3dzhJcHBLaE9Rd3l1ZTJ0bVFFTjhmbWdmS3B3TElSQ09ZMXJhRnNqTTExUE9zWTBlOElJYjRtZEE5SDlfQjdhZlhQNGtXaUVKd0o0MExmdUlVMnpUY3pYSlZMZmxyT3U4WVlsZ05OdlQwN21uVnREM29Ec0RuLVVac0RQMVdKRjQ2YnlkX05oT2pTMnFTbnNIS3p1dHdldktxaFVYZlVXYUxGbllJZ1FzVUdxcnhKeFdRaGNFTDJBUlVkUEp1dTF4SjYtNGJUNTByMDVMOWdCdmZFSkh2RmpfQlVPWHh1Sy1ya3k4aTRBZnFzNDdaSWZHUi1KS1ZNSWNBWUNIV0pQNHlLUkM1MmkyMVdUbFg3VkpBa1FpLWNzVTFPTXA0cWtSYVdvTE04T2tuWWlrekxLM1dDZ3JBN21iR3FQeTZVV3pMcWhCdTI3TzN4TWw2YWxnMUVONkRnaUNPaUJsN9IBtgRBVV95cUxQYUdMeXB3WEtPSk5OWVhRNExxX2VIZTFlSk0wSDBuQnR5UEtYMGtqUkNWU0pJRlZUQUZPb2VJT0hEeVFfMnhmQjRuMTlPMF9hZl9DbTRLTWptZHU1Tm5ESnV1MHlDa3kta0JVczZVaFl0aUF3ZTZENjRpbjRxOGNOMHFoS0o4OTlSMFM1ZlhTRXBybW1fLV80Y0NnT3cwVE83MzNfSTdYLU16QUt0eDNIdlF3YUxRVTQ3T0dBdzV0OHRGZkQ3aWNEbnJHTDlJS25uREJUeUxNOHRNMDNMamRIQmFrajlpUFdFZnVsZWNDWXNKN0dGYmhTaWx6bnFyOF8tcmtsZ0FpRDRLUTgtbmRXZlJsV1NxX3ROd19RRjJPODNWY1hxeUhNNTNscHA0eVlHcUFrcmdkR3dIaWdUaGUwWlA0dGZ2WVdXNzI5UmdTS3ZSU2RSMnFlOTNidmtmN3BSOVJTd1FSRTVsSEsxaXk4MWthUlNXVm9wa2hsR0ZPbG9TMWNkdGRCZXJ0OE41bms1NTE3aG9UcF82dm5EcW9TY0ZZX25EUDUzQ3VFNUVPNUZVaFN5ZG92M3MtYTZBWWpIeTJUNlNGMHFMZ0ctWXduUXFfOTNTMnZRVGtwWnRwR3hETGVWOGQwMm9PbG4wQWJvNjRiQ05kNkdNOEJ4OGtfMlN1MkduUnpRbTZHd3c4UXRrWmNTOGxDVHlCWTY3YUYzaWwxTDVEVXEzRUZycHZ6S0FsbFBJdw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 21:19:00 GMT",
-        "discovered": "2026-09-27T00:27:22.253279+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "44 يومًا حاسمة.. هل تنهي أزمة صلاح والشناوي سطوة حسام حسن في المنتخب؟ (صور) يلاكورة",
-        "player": "",
-        "content_hash": "354de22455087daad56673e76e599433884fa315bb56b5ece088033f12807bea",
         "sent": 0,
         "section": "sports"
       }
