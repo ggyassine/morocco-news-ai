@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T20:55:52.753009+00:00",
-  "total": 137,
+  "updated": "2026-09-27T21:08:11.283239+00:00",
+  "total": 138,
   "sections": {
     "morocco": [
       {
@@ -502,6 +502,38 @@
     ],
     "sports": [
       {
+        "id": 6073,
+        "title": "خليجي 27: الإمارات تهزم البحرين بثلاثية وتتصدر - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YWGxyVFY2cV9ibjNaS1RpMFNMYm9KZGxESzQ3Z0tNTnJLZVRQZVFoRUtBaG9xbGs4dUpvemRGbVhLT0pKWjY3bkRON1YzVkpDOFhnbg?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 20:54:14 GMT",
+        "discovered": "2026-09-27T21:07:49.322169+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "خليجي 27: الإمارات تهزم البحرين بثلاثية وتتصدر جريدة المنتخب",
+        "player": "",
+        "content_hash": "6c5a7b6fa9ab25e112461e5bdb6ec488e23d5fa6f51099e8e825790920652f95",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6074,
+        "title": "الشعباني: لا خيار أمام تونس سوى الفوز على بوتسوانا - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxQUDR0UC1FN2h2ZXZIUThodGZwc25jcjhpSjVNU21LNlNXWUhweVRsNml1b0g1aDRXOHpDZnotYWVhUzMyc094OTgtajFabmxidVA3Y0tGQ204OTM1bnJCR01jS1pfeDE5SzVfSC15VHEwTnlLR0xsdWlnZnIyVzdTWi1pLTAzSnBWcS1zSWU2NHdXcE9NamkyX0dIdnQ4NE5YdFdVeFhnTG1QZUlXZXc2cUdpOFc4Rk9aU2xWMDNtV2I2cnpwUVBEblhXcUYxUEdSQjlmQXFxTjBQNmc4STFwQnMycHRuclhsTlVvTDBGQjBCb281VV9RS3Z1dDdlOXRrZGh3aEtMb0RLeEk1c3Q0VHRUQ0RQdWxVVHVfakxMaVFCUjFPZ3JTSGdBU0NqdjBfTjdDUVpRcm1TMFQ1V3pJekppMDdnMWl6THRobjVCNjRJeGFyWDVEY1JRcGtOQXZMSUs5Q3paSUlpOElmR3Qxb3VIQ2xMTUVnN0REQ21EVFhMREtfb1ltakZOOVQ4OWFqdVdRa1JCQWRZcUV0VlVEaTNUbzJLbW9CZzFweU05QWtjOERQOF9QZU9EX3ktNE80YmRQM09yNGNRZ25RcFl5Rmg3bmNVY0J4cXAxRm5QUTVpckZ2SFlvWVlOM000eHIyenkxUFE0WmttM3ZBSFVyd3NkOU8xbEdlUVVscktiLWJab1Q2WTZWblQ5OXVOcjQ?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 20:54:04 GMT",
+        "discovered": "2026-09-27T21:07:53.469577+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الشعباني: لا خيار أمام تونس سوى الفوز على بوتسوانا الشرق الأوسط",
+        "player": "",
+        "content_hash": "5a50277a1dc1eb704cd8b93d47f8f32f890eb930ac2323579b4f27a17cdfc555",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 6068,
         "title": "هزيمة صادمة.. اليونان تسقط ألمانيا في عقر دارها بدوري الأمم الأوروبية - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxNX3Npd1g2cnVqTXA4TDZmNTRHR2lGMXdoMWh1Z2dTTzVUcnEzdjczclVrZ2syVGplQlRER1UzaWwxMXNmSHhERnpJVmcxVXNIM2NnMzFwaE81UE0yelJuSDNJVURERV9QekhFbXMtanpMQ1c3clQ1Vm1qWnliNUZ0M2dmV3lVUG4yanRxVTRSa0phdzdEYzUxckZiNVpYTnl3SU1qcDlXeGVJMV9ZVzU3TGQzUGQ4OFpVVUp1ODNrTWxQV21WY29GdWdJTFV3dDM4Z2hCMEhDZUo5cXRmamZtbVhkVFY2MVBoaWU4OWtqel8tRWl4ejB2UTNaRmdRaDV1and5Z1AzRDRqQnQ1eUF3S2VGd2FzakNBOUt3RzRvbnBlQzloUlNWRXBuUXRsNzdqbUZpZ0Z5bzJfbFQtQWhPaHFPdUhabVRvd29NRFBWdENPMXkwZ093eW9Hak5OWHloRnRLUlJzRlJpNjJBc0R6NFRXYy1NOFJjNnRWSnF0VVFXSDhmYzI2bEQ4NHVRSWUtRUh3TF8yTjAzUkxGeTBOTlpraV9yTjFyVGdJclc1WEtRV091ekFXNGNROVJXZVVUSVJTbU16UVg3a25pMnJqd1EzWWE2ekVnVWN2amg4Tjd3cHR2ZmxnaFp2b0pka0lDT3BKelpBdWdIeXF5T3k1WHF1Snl1ZWtERWRUTWlyaE1vNHQ3NWV3RFM1LVdpZFBPR3pBVNIBqgRBVV95cUxObHFwQm1qeFgyYU84T19tZWJpLWdfTmNLSW1wOFJlbmhzYVY5ckFvbTNNaEZqV3AtdTEzUDlCcUpOOEFTV0dPWHRmN1lXbXlQQ1Mya3dYbzR6bzJLeGF5SFNfRm80c19KYjB1b1VkOTV6ZWo5LVcyaDZTemtwbHFwZE55dGtRZ3hwUzAyWURrd0hURmNzOFF0cUdCcXI4bUtneGNfOVhEZlZoSFExMkJWeWoxeVFLbkJ0d0dfcG5IS1hhSTBualh4Tk14ZzZsYTdjQXVHRnNzUzU5SXlPOW1hSlJXa3MxSi13M3V6TFl1NzJvU2pnb1FqM3hicFFtblRuNVZLMWFvZDk5cHFvdE9uRlJiMEhaOS1Hem1uTFkwZFFVY0docWhYTmpVYmNMTHFGU3gxdDBLZGxMSDFWNEpUVFV6VGRrNHc5ZnA1eW03WFpDZTVBZjdydVllazFyUVp1MXN3aGNOT21EeXh4aWlaeW1kSkRhLThaYmFYREtYZUVzSC1ZbEhYcl94SS1JVEVSRUNqM1hIVVpGSmcwMWQwc2lmUVFQV2N6aWpkMFJCcS1BMm5XajBlUHM5LTRqOFc4cGJIN0h2N0VCMGNqbjlTa25TWE1NTUN3MjZveVY5OTAyM2tNMXZnbnl2eGhqdkJ3NlhxZVU2YlZGOXBRbW4wUG5zeFRsTFZ1UnNJcnEtdGdVc3RJb1FON01NLXZOdTRleVhXMUt6RVJvUQ?oc=5",
@@ -546,6 +578,22 @@
         "summary": "منتخب السعودية يكشف تفاصيل إصابة حسن كادش 365Scores",
         "player": "",
         "content_hash": "15ff5e5e24b486cb492e4d03bf5ff0cc96c357f12e00be0a72d38871a26caa83",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6075,
+        "title": "شاشا تعلن إذاعة المباراة الوداعية لـ ميسي مع منتخب الأرجنتين - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxPeUtmWVREY1R4YmMxOHlBUTFyVktKMzJBcC1fWUxTcmljNkVJX3hzNnp4bHZvTG93VmR2VEZYQUNQdXpJRXRGdHJIOFI2ck9mamRScThMRWRMbGFoblRtb2R6SXpoMUtDb1owNHNBb0E0SlJsbVYyN3VjUEo4R1A3bXNodlQ0a3N1MWZ2UW45anBfUlZPQzdCelhpVVBQcnhYWE16RzhhTC10TUtrTlZUUkliTWVzWGhYQ1FmZlZrb2VsSE5YM1p2YW9kRHl6MGpLVFVlYlp1ZGMtTWl3UkFUeU9jOUpUdmpndGZkWXl4V2dtSTBXcnpqQXlKS0E4VmJmdFVKN2F0WGxkWmNxRGtPRkJLZnNSbmg5ZW5YbkdIQkxaLUhaU092MW1jYWlqU3pXNU5UaWFnYk1pdUpvMFFwblR2SVo5SS02ZGY3Nk03OHRrZ3ZPZGRMSjF6OUNLVDI5RGwxaTdCMUxtR1VSU055Y3J3R3hINENQNHYzQXd0NEVBaFVuUTlnd19aamtpeE5Uc1lncWJVWlBXZ1VnWnJjZHVmTFBiWTFJbFBLTzNIdVpLeF8ySnNDWTBZb1Rwek82TzJvcmhJMDNvTHdRWGs0TnlZOElQaC1OM21xZlNhVUdYc1ZKQ09pOEJaNnBSem4xQXRCMHNn0gH7A0FVX3lxTE5STVh6WlRyeEtBZjNYUllLa0h2cWxXWXdhLVRtVE0xY2VGVFZINUkyek5ESEpvQ0pySHhpS0NEOGRjeDRzSkxTWkMwREhYNWNBZGhuMzZQSFBjSWZmdWpQckdaSFF5WjZER0E2VU9XdkZ3Qmw1c1lhS3JUYk9WTTlrbzA5X2F3eWE0ek83VnBZekxXM3lueU93VDc4cktfTXg2bTlaa3Z3RkdkZjFYajNvRURjMXlPQlVSRzM0YjRCZ013V296R0xIRnV5UTBHaWx2WGxzUlV3c1JIUkFmQjc3dDFSMFNiaXIyTWRQSzJxU01sNWtONjI5cVpkRXl5dTNoaGdicDZmWmZOYmJKWlY3RWNJYjI0WjkwTnpXVmVWZG9GTnlraWVYWTEtTTVQU3V3RU8tVU9NUWdTNFJ4UmQ0Q3pVRXN5TlFQTzhEcXl3UTAtOWgzbDdKVmlsUGFRZzF4TG1wMnNIbDA3ZHpHak9XaHViSjNWLTE4S25UTnJpYmtpWkVPaU9FQjBkZlpfZUR5SlRsaDJ5QTVzQ2lUN3NnODNFblNoZ2RHeW9RcG9XNm0ybVBBbHNSOG4tRlBfUzNBYkxnT09pcHFGYW8tTDU4REw0OUYybE5VOE1HTzh6V2lYQmJjVEhCUTZoaEhqdXdJVVJKdUpZbUZ1bw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 20:21:22 GMT",
+        "discovered": "2026-09-27T21:07:56.205301+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "شاشا تعلن إذاعة المباراة الوداعية لـ ميسي مع منتخب الأرجنتين FilGoal",
+        "player": "",
+        "content_hash": "b9b60f4cfc2e03e84c3e670d886c8ae3dce294082bf63d8007badfe0e1da49f2",
         "sent": 0,
         "section": "sports"
       },
@@ -1250,54 +1298,6 @@
         "summary": "أخبار | في لقاء الـ 7 أهداف.. الزمالك ينتصر على مودرن سبورت وديا FilGoal",
         "player": "",
         "content_hash": "3b65d75865bef5a6ec1eb68e0617fbf5ee4b9f7f16bfbb5bd838ad29799fd835",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5983,
-        "title": "أخبار و معلومات اللاعب أوسكار غارسيا حارس مرمى كلوب ليون winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOeTZweUZiXzRHZXNzYWNLUWpZV21xbWpwRUVJNkVhSnZBODJ4bnVQeXM3bktVNlVBWVRWX2tBU2tUemRhRzZ5czFUdFoxRGNmX1ZGYkZnRTM0LUl2Y1lqakMzOFVVRlVabTBTS2ZHZEg0dW5pNzV3V3Y5cUwyYUdwWVpiWVZiQ0tKcEI1bXZHZDFQX3I4ejZxeXF5UFo3Q3lGb01jMFJPZmpvYTRzVF9BT2ktOXFSWFRoZ2t4aGk0WjhYTEQ5SEN0WXF0Q1FxSnhZdnNUQlg4dWxwSjNYSk1lb081OXJPSW1UR09ZeVZaT2tXYkhwZ012UFhKMTNycl9FNmFmamI1bzgzS0ZvV1BIMjFZbw?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 16:19:06 GMT",
-        "discovered": "2026-09-27T16:37:11.010509+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب أوسكار غارسيا حارس مرمى كلوب ليون winwin winwin.com",
-        "player": "",
-        "content_hash": "cd95c725147fb9165fdcaac2a25da6688b60529432331127b96a0266aac54ae1",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5985,
-        "title": "وصول بعثة منتخب مصر لجنوب السودان - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNWUpxZ2k5T2ttM3FSbUlGRi1Nb2NLTE40YjVrYXVqWU12b1VjbjZhbnF4eXVfa1ljMXdQcjRIYW9oeHM0YWoxMGwxYVV2RzExaFFlamlKa2FVc3BWNU94VkRqZ0drQVEwcnVxZjZWYTlHSkVvSzh4Z2pidF94UGpGUHk4Zm13aklpNmhSYXd4di1ta01tdVBab0FZZnl6bVVRWmM0S1dCWGVRMjdtQS04LUc1aU95TDU0X0RCV3hXS2R5cEVCeVhoc2VITW5EUTRkeGNQclEwdXBPT3k2cklIZnljTzRHRFRSWUw2cVkwVDJJd3ZDYTVXUUpjczR6dUlpcUtyZFJ2TEYyQWFFdzU0ZzhEUEF2UVNsT2FUR0hKdmRkMGp5SkhPRWNReEkxdGRJbFVnZzJ2VW3SAb4CQVVfeXFMUHlhNTdRdmJvVXdFSHZEYTM1ckVHYkl6bVJJTnhIbktVZTE5bzlyaE0wdkZtQnhNYzRMNmVaNU8xdnF5VUNUQ191YjdTUENWWWZhc0RkeWkyMHdHdksya2lzVkVhcVdFajZlUHU3UlFWS0pDZEdqcmdOSjNKNmN0ekk5cG5yYUxZcGhpRkVDTDFIa1gtYmxCRjlfcnJZR1YzTG05Wk5UQ0d2VjV2RGxZd25mVUFRVU4yMlRDbDFLTnpzbDBvdFc2SWR6SnFmdm5oWkk1TTJ2VjZ5RmR1TVF5ZHhCWS1ydkM1VUxPQ2tXa2hQbnpCdkRZYUNCMFBsV3llSGZadkVqdDR1eklPSUdwSllSUTBiN1I0eVF2QmhkR3ZLVXdxb1RDa1g1bGY3ZGNRNWYtWnJiYUNteGFrWC1R?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 16:18:00 GMT",
-        "discovered": "2026-09-27T16:37:12.436895+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "وصول بعثة منتخب مصر لجنوب السودان FilGoal",
-        "player": "",
-        "content_hash": "774792045723aa76656df2f18cda897112a824ffccdc4d771a6f74b656bbfab2",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5981,
-        "title": "\"شاهدته على التلفزيون فقط\".. لاعب كونيا سبور يكشف انطباعه الأول عن صلاح - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxPZ0E1Z2cxaDdUaGxDWHdoMWFldzdRWHJoZ2lyOWhWcUlKYVV1dDhycU54NjVSWkpOb1Y0YzhPNDFQWE1IckVraDF2VWRzN2ZnOFUxaWV5MnJhNzg4N0w4V01aVjJEaC01MV96ZnpzOGlIWHQwRUl3bHRBR2J4WVJ3cDlvX0poZ3dtbTNlLVZyby02VElva0Y3TzI1bmNRMko3UVF3SG00WGVxVmRUV0VxWHRodERKZXRtUi1BdnNPMlVxSUVJSndMOEJLNC1vUHZzVURIUXN5cU5LOUlHTUlNaTZtUi1mTUNpNVBZdzRDQVJBVDNYYjd1dll0NWVReW9YVjB6MnY3bHB3N25KNG9nSTk3NlZFNXlZSjdNaHN1N1hFNU4xVUwtZ0RVRXk3ZjMyY05LUFMtY1BXdkhoY2lqZU9MbTZLazVPTTZIaVpCdkR1cXJzZWpCS0NCQy1GT1BueUh3LTIxbGVGaVVfbC1UaFdrd3U0cGNyaEZqbmF1YWY2Q0QxVXNVakF6WHBldGZFU3ZzRzJWUFp6Qk1XdmVISU5IbHlzTzhkRG81M0RUSVdOd2NpQy1aYkpHV0laSGxjN0QxanFhTXZXT0lrYVlfcmpnbjNMZ1pHTi1BLTFTTnFlWDBwMjVleHdBOGQ0SFVta2FZWWlPYjVKejdpLVlfRHNCUEluTExFWUd1cmtsS3I5V2NnUHUySEFXYlZGOEQ3LU1uZzEyUzliY0tRWl9manBxUXNEWmJZVUtvdE530gHDBEFVX3lxTE4yTV9vTVVMZEdGZXdTSGdFa3VTVjh4elR0Y3R4Wk9ZVkNMQ1JrRWVDakVHLUhIU05fY2x2RjlZdWpDYTFhNklzaTE4OWdrc1FHbG90TjNJT0xWeF9DWFg3WVljQnBVVVFvbjE5MTMtWUVSMUpadmN4SHU4aTlic3RRRTNqYXF4aUNUcWptVVpsUUhXbTQxQzZLaTJMMW9oVDdZQkhTUC1XVmk1enU2cm8zd2VVWFBOMEcyaERqdHJJV3p3M0VweFU2M0M2ZnhWRFRrRXpBSlpMSzFMTWNTT3p2Mjc4WWp3d2FKZ002VkZYX3RjVGx6TmdnNDV6ejg1bUZid3p4ZnRRai1DNUlyUkF5TkVCUi1rWjBxOElxYXJENndxSWJ0WWxrNERlYlQ4TlptQ2FMN0ZEMktyU2ZkeDUyNjAySGpRaUtWX193R2VtcU1IZzB0a0p5blF4N0g5cFhtSDJkSzlhY3o5cTdvRC1HWWc3elBPdXdacHpSWG1PYXkyYWs4WThJWDM1ckxPeEZRUWxPdERNRmloZG53WGFVQlBqMU9DYzFEaGc1cWt4U1FETkNsbUsyQzBpNDVFR2RhSEMyejRnRy1tbE1vTDFieWY0S0FLMXlnajhsdTFTX1lsMzhrS3dZcEotOFB3V21kYVdHS3AzeTBKYVpCS2Z3MzFPQXVWQ2tobElPVExuMUJPNHFjUGRpUHd4WS1KSDkzREhqemV2SlFiMXlCRzZ5UkxLYmc0bnhHbHpfRkxNZkw4Zw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 16:15:00 GMT",
-        "discovered": "2026-09-27T16:23:28.972096+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "\"شاهدته على التلفزيون فقط\".. لاعب كونيا سبور يكشف انطباعه الأول عن صلاح يلاكورة",
-        "player": "",
-        "content_hash": "525bbb5121be1aae13ff6fa8b06e41c32d83dc2f1765262552db0c8ee61e1778",
         "sent": 0,
         "section": "sports"
       }
@@ -2056,6 +2056,22 @@
         "summary": "هل كنا نحتاج لبن زايد والوزير المصري لندرك أن نتنياهو هو المسؤول عن 7 أكتوبر؟ القدس العربي",
         "player": "",
         "content_hash": "b7282a6480ded8acec2d4e526dfe4b2ea458c8529166728032aef56b343b5cd0",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 6076,
+        "title": "هل يتقدم حوار الفصائل الفلسطينية على صندوق الانتخابات التشريعية؟ - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNbHI2cnBXUjJoYnA2T3FzZ3R1UHZkMTdsOFBLRGM5V1lJa2ZNRy03d3RXaXMtd0puaFltN0lWdmtHZGRZZ3dfcnVRU2k2bE01ZGhBZjBrNlZiY3l4aEVXZEMtenRiejdBZ3FwNGY3WEVacjdmZVFFX05FdFV5V0lnV2EyS3VMNktSakJYWXRFQTFUbVZqMEZxN2lUVkI2a25oZWh3WDlQOV9adkk2OEF6ZEVGd1ctaU42bEFoUmNBQ2hsczVxTlg0VnA1cE9Tb1FncndhLWxuMEkteG9VOFdkVThrOWtBQnByZU5RY3Z2QUJudXMyRGRZQ0t6T0tZZ3dQQTRod1h5N2NvQU5GODNhdlI0OWhIUzdvaHM5eS1YVHBwclBxb0FMSWNwcDdDMHRwVzZrVXY1QlV0OEw0ZnUtaEpBRThWWFU?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 12:06:24 GMT",
+        "discovered": "2026-09-27T21:08:06.133443+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "هل يتقدم حوار الفصائل الفلسطينية على صندوق الانتخابات التشريعية؟ القدس العربي",
+        "player": "",
+        "content_hash": "668ca160668612da9d506b995ab05fb20aa1bdb78ce92a5b38446b35dc2f2e4a",
         "sent": 0,
         "section": "world_arabic"
       },
