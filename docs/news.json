@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T23:46:26.099617+00:00",
+  "updated": "2026-09-27T23:55:07.952915+00:00",
   "total": 130,
   "sections": {
     "morocco": [
@@ -421,6 +421,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 6130,
+        "title": "ملف يلا كورة.. إصابة ثنائي الأهلي.. وصول بعثة منتخب مصر.. وتطور جاهزية الجفالي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi2gRBVV95cUxPOWhKNWIxMU1uaV82bmJDTW05SXU4WmtDdWZRRzBlZ3Zsa1NnaWV6Mmo0bVplenZ1Nm9xRFVlVFZJRmZmazdWVU4tNlNUeWs5dmJaTDJka0tvSEdXR1pzOF9XUENaUG9fTE1xZ0VlQ0FhaWNfdFdYTi1pSEJ4Z3BCSXU3WkktdmJKYkNkNmJwaXZWdll4azVqLXBvelowbHBGSWM0QUJTaTZndWhkOFVHQk1uV3VURjg2M0RBdk5Ob0dza21PdXc0OVZtU3Z2VDlPQ0I0M2hZR1FUYjV1b3FYLVh3XzZZTlloaDlrcTJOVlZyaVdIOU9kckpJYkJHSGU1aUhQbG1XSlM0Mkk4MFBES2xsVnpQVXpIU3kxVXdJYnhCeEljV20xS2RvdmloVGxxazNJYnRna2xqaEl5WDNuZUYyT1JGS2E3OVRRdWJfTmJ1VjBIRWhVcnFGLWFCaGVLSVFEUlZtclhpNlh1OGxySmdKMmg4YnRMbWpWb0xGLVhGakpRRlZJRE1ybWE2bDBfX3ZIMmVfN19Bc1dQaUhfVklkeHhLa2R3RVRmb3RUMXhXUURXaWxtN241ZE82ZE5tVmg0RTJnMXJtSTBNTDN3QXBoWm12MHA5SEpoTHF4bXY5em1Ub0Q4ZktCX1RVYmhiUjAtZnFCeVdVLXFmMDdCblBjay1TQVlOVlMwQW50YjVXZ0EwLTlPSHpXa3AzajItaTlCR3JvWjBFYWc1Z0RJVVJYRVpJTGlHVS1naUNXMHFpRUh3TGdOb0pmekZEUk9reENTWlZILWpfQQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 23:36:00 GMT",
+        "discovered": "2026-09-27T23:54:52.952135+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ملف يلا كورة.. إصابة ثنائي الأهلي.. وصول بعثة منتخب مصر.. وتطور جاهزية الجفالي يلاكورة",
+        "player": "",
+        "content_hash": "e8baa0787c5561020dc675464665107d85f5056c5a1d9786373a16457d64f1ed",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 6127,
         "title": "ملف يلا كورة.. إصابة ثنائي الأهلي.. وصول بعثة منتخب مصر.. وتطور جاهزية الجفالي - يلاكورة",
@@ -1202,22 +1218,6 @@
         "summary": "كرة يد – الأهلي يحقق فوزه الأول في مونديال الأندية على برقان الكويتي FilGoal",
         "player": "",
         "content_hash": "e507b8bebefd9ac60263c2afa65e37b8729a2e90f8f034b9a4d934a1d2e97c81",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6032,
-        "title": "Copy of ما القنوات الناقلة لمباراة النرويج والبرتغال في دوري الأمم الأوروبية 2026-2027؟ وكيف تشاهدها عبر الإنترنت؟ - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi8AZBVV95cUxPQlk5MHBLRGU1R04yQlN6allZQ2ZuOVctV3pUZU90b21HVEIwNlE1RnFIdWFBeXBpV3dPcG9XYTZCdXAzdGdJTkQ5SGp4dVJ5WlFqbGlPLXVGbk9VOWdWMFBFbUFRSS1hN2lvNGdpaTZ2ZnFmQ1NSTTBqTGpJZ2RqVWZqajN1QWFnNHV4YTVJS29iOE0zdExITnVoc0swaFBYTWdzbmVNdzVYczdUS0cybXZGa0Y0UjdGOXBSZDNHWXRoUzFQOWlxeE1pR0hZV2lOcFYwdkRhZFlGTk9lb1IyTVFUVjFlTVAxSVRBNmk0c3R0Y0w3eVJQVU5VX0djeFNNeUlCc3FpYkdEMTdJU0plMTVZREppMUZFcTEtRzZTamstOFlRUmk3V1hMWWozRGZrNzBVb1VUUXhkamZvTEotVk9ibUJoUENHTjhVeUdWV1gzVVBYVktvSXc1bkRzaUUxSVg2Qmt0T1hSNnlFSkFyQ1ZsdVlRWWdRMGJvRG41VS1QX1dybXZITEdZOV9XY3dQSGpEdlYzLXMxNkFPbWhINVN1NDVBdllQTnpEamM1eGUzRnVHYjBVak9XZXF0U3UzdERDaFN4c3I1R2NEQjJHblJSX2hLSkVEbHFkaVVyZWktUjBqdUtGS2Fnbm1QOWlwQnowdEJNRlJKYm5GTno4bUJ0dFhXMU9qZVBPQXhvSXdzMmc3eXgybU9nNkdpVjRQa1VmY1luaEhTdzdlbzR1X0pvM1FORlJVX0ljb2lkb280a2xfRFZnak1uTnpEUmZUYU43Q21MVVdGd1duLVdBdzJJUWVGcGZ6Mm4wZm9iRzRVX2UtbTl0R3EzVFl1VnFWMjV6S1V6akp1cFZ5Ym1qU1V0N0NxRTcyYnJpSjlOU292bXpNOEJSaW54S3MwbUdIdjgyS1FIVjQ1dy10SExRYUtHMjJKOV9hUjk5VEg5cTQwMzNEV21PdmNkdFM3X0tjaURoTnZkdVJTbTQzTGxsMmJsVW9Sa1Z5SVl0Y0ZJTHBIMzdYMlRScDR3NFJXMHBLckpXOUNyNnJYUzQ1cHNkYmQzdGZ4MVJ5dkJRbFEtWnVjTG11dEwxUXRBc181MHZNNXNCN3NlOEhmMmYzV29GMnpxR0tybF9RUTFIak1qaVNKRGlqMEQ0VlNkdFIyY2Fa?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 18:29:29 GMT",
-        "discovered": "2026-09-27T18:58:04.588641+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "Copy of ما القنوات الناقلة لمباراة النرويج والبرتغال في دوري الأمم الأوروبية 2026-2027؟ وكيف تشاهدها عبر الإنترنت؟",
-        "player": "",
-        "content_hash": "a77a01daf901513f7167d752c6292284437b7791aa20e13251cfa53b0c7ae27f",
         "sent": 0,
         "section": "sports"
       }
