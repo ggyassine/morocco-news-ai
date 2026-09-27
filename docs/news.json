@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T19:36:06.699881+00:00",
-  "total": 135,
+  "updated": "2026-09-27T19:45:25.670444+00:00",
+  "total": 134,
   "sections": {
     "morocco": [
       {
@@ -517,6 +517,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 6047,
+        "title": "ألعاب القوى.. المغربي حمزة السهلي يفوز بنصف ماراثون بلد الوليد - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JVGhnbU9kTzZUeUFHRlB2M1RxZjU5YUVuTGFqcDhid2ZSck9DblRfVi1Wd2NsRUZQaVFydTFLZDI5V1p4endqUA?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 19:34:24 GMT",
+        "discovered": "2026-09-27T19:45:04.265118+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ألعاب القوى.. المغربي حمزة السهلي يفوز بنصف ماراثون بلد الوليد Febrayer",
+        "player": "",
+        "content_hash": "a29f3f9b0a433a7458cf27de844c883ef2c2714d6d4ea5cd9dd02d74762fbe77",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 6044,
         "title": "في مباراة من \"لعصر الحجري\".. الزاكي يتعثر في ظهوره الأول مع الأردن - Kooora",
@@ -1298,22 +1314,6 @@
         "summary": "موعد مباراة الزمالك وبينيروس البرازيلي في كأس العالم للأندية لكرة اليد يلاكورة",
         "player": "",
         "content_hash": "d5673bd1bfecc73708c6ee1e1507c5ddd70c65ecd98a3a3a261b67c067f85510",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5947,
-        "title": "جماهير الرجاء تنفجر غضبا بسبب تألق خويدسي أمام الوداد - جريدة المنتخب",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54SVo1TGp2NEx1aFN3VUFPbjVSa3pzYnZHeHNURk0weS10OEE2ZzZvbEJKWUphTnFVbzBLWFZjMkpOXzloM3d3TTJtV0dpN3NmdGxVbA?oc=5",
-        "source": "المنتخب",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 14:39:04 GMT",
-        "discovered": "2026-09-27T14:43:29.359299+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جماهير الرجاء تنفجر غضبا بسبب تألق خويدسي أمام الوداد جريدة المنتخب",
-        "player": "",
-        "content_hash": "5651251f2b42bb5d3debd050daf02c1614a85eefcb4687f9e372e44a51fa84c6",
         "sent": 0,
         "section": "sports"
       }
@@ -2152,22 +2152,6 @@
         "summary": "ترمب يرفض مقترح إيران ومصادر: يميل لاستئناف العمليات بعد الانتخابات اندبندنت عربية",
         "player": "",
         "content_hash": "9521f41b34531433a6c693a530f821d1b577dab0c72b921700496f3621f37693",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 5607,
-        "title": "الرئيس الإيراني يعرض الوساطة بين الرياض وصنعاء - DW.com",
-        "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQbTFKQl9hOVZJdHFZMjhRblphTzdJZS1yVTRwZlY2R2p0U0lvbDAzYnM1bFpXQVRveENsZlVQRW01ejg3S1pCNmhOekMzd0ZBUVM3YzFQWFJ1TVJjQlNZdElfTEptT2JqdzlZRjNiV2c4NTB0Rkg4YnZhMlBRZ3I1RGRHTUthRUJlT0ZuUE9NaTUwVEpjR0psckM4ZWdmUVUxeTBZYlBiS3ZVQXFYQXpWZXIzQUNPWHQ1VVFTM2ZVMmJKMWZkU1l6MEZwRjlxSkQzOFR2LUxzdDJuNlQyeUNQb2JlWnBKVTZvd3RGQkEySmdiSEY2RUtTdWNwWnVfTFcwYncxblpoeHpGZVFsY1FYak9QYmxaUDFZLWk3T1ppWkNoLUNKeFJPeDE0QVR1OEUtRExHOHdfaWxTMmxqM1RubTdhcFpfX0ctcnliRVhva05qTV9RMTRyTldIV0FTWUdMMEtkMjVCRFJrejEtb09CLW9wRmF3ZmJndXJFNk5oWDVwbWFkd05LUDNXb2FnSE5WT3pkTQ?oc=5",
-        "source": "DW عربية",
-        "trust": "B",
-        "published": "Thu, 24 Sep 2026 19:38:02 GMT",
-        "discovered": "2026-09-26T16:10:24.238537+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "الرئيس الإيراني يعرض الوساطة بين الرياض وصنعاء DW.com",
-        "player": "رياض",
-        "content_hash": "6f0891cc23d0d89e338e15e2b792c4b0334d00614a20e09e437cbf924dea716e",
         "sent": 0,
         "section": "world_arabic"
       }
