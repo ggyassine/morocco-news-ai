@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T11:34:11.531244+00:00",
-  "total": 147,
+  "updated": "2026-09-27T11:45:32.708235+00:00",
+  "total": 148,
   "sections": {
     "morocco": [
       {
@@ -1878,6 +1878,22 @@
         "summary": "وزير الخزانة الأميركي يؤكد نجاح إجراءاته في عزل إيران اقتصادياً الشرق الأوسط",
         "player": "",
         "content_hash": "ec600a0d2c7339798e6062f066e6af3d9925a899a07a36d360c0b86e2e7f522e",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 5898,
+        "title": "تحقيق وتنكيس للأعلام في الكونغو الديمقراطية بعد تحطم طائرة تضم عسكريين - الشرق للأخبار",
+        "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxPZzdjTms5Qm9lUTFVYlJtMFhid2tFc1ZkZXVHX0RaSUljc3dPalJRc2pEU2JibkFMeG1ROHdEaGlPRmE0anB3VmI5eEJDQWFzUzRaTDIwajN2MndBYngydkRnNk9vYkNjR2lpY0FHUWNEQ3RidHdmUkFjSTlzVnJFWVBCRzhtUnlZUjJfLTlZZkJ3TmF3SkVZWmhFdjJwZGJudlJVMUZGWWNLNy1mYTNGZy1LUXdwdjFZVDA3ekJOcHpMM1NxaWFYMW45U3dJR2JkVkNlaWtzc2J6cGZpQzdSTU05NG9tSWdWbkNyam90RmxSZ2NiSnJ2VU1BRUV6dVFXRHcwcGFqYU1DZFFjd3VuZ3Qxb29QcWJtN1lHV19DNlNVTGtjbTVyQTI5Xy1VejlFcXdBeXZsZHJYWDl0UzMwdElUc0pQcU5USzBGQW1DUGJidi1sei14S3pKRlhQT3JjR3htcElsSm1zUEprOWZ0WWRBZzFEeHJXQTdNWjdHTVJjTWxDc2NRQjdKdXlXOUZTOUNyY2Y3NTRzS0YzOHF1aVpBaG5ZUUYtZFBubDdZamQwelREUVlLN2ZEVEx5NFIydDJRdkJmM0VNSjllWVJOZVJLNlh0cVZMaFhJNnZvT0U?oc=5",
+        "source": "الشرق للأخبار",
+        "trust": "B",
+        "published": "Sat, 26 Sep 2026 23:37:11 GMT",
+        "discovered": "2026-09-27T11:45:25.446086+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "تحقيق وتنكيس للأعلام في الكونغو الديمقراطية بعد تحطم طائرة تضم عسكريين الشرق للأخبار",
+        "player": "",
+        "content_hash": "42917b8687d95d388a26eda98f73df77a42e83fc2ac0ff88f9915ac5161bb53a",
         "sent": 0,
         "section": "middle_east"
       },
