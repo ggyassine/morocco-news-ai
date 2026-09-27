@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-27T15:55:28.571567+00:00",
-  "total": 140,
+  "updated": "2026-09-27T16:08:04.928551+00:00",
+  "total": 139,
   "sections": {
     "morocco": [
+      {
+        "id": 5970,
+        "title": "اختتام تمرين «ماروك مانتلت 2026» بتعزيز الجاهزية المغربية الأمريكية لمواجهة الكوارث - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2ME1ZYUN4RkZRZkVIS1J3MWF6c0lZMzdIRkNKdEtUV2JwZmc1Zy01N29aZWJlWUNGaHMyMW9tUVlfRDBpTHNQZg?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 16:02:21 GMT",
+        "discovered": "2026-09-27T16:07:36.650820+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "اختتام تمرين «ماروك مانتلت 2026» بتعزيز الجاهزية المغربية الأمريكية لمواجهة الكوارث Febrayer",
+        "player": "",
+        "content_hash": "91bd86f564eb290c3aeca0d44135151dc033be1bfee6948f8dbd9e364599a59d",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 5913,
         "title": "بنجلون: دورنا في المعارضة هو الدفاع عن المغاربة والتصدي للسياسات الجائرة - Febrayer",
@@ -48,6 +64,22 @@
         "summary": "مقاتلات F-16 المغربية وRafale الفرنسية تعزز التنسيق الجوي في تمرين ORYX 26 Febrayer",
         "player": "",
         "content_hash": "f9438a8bcfc99d03635d515533ca42fe5e98949decb438bb98b13c4a7a8485f0",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5969,
+        "title": "أزمة السردين المعلب بالمغرب: شباك ممتلئة ووحدات إنتاج تصارع شح المادة الخام - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vRlVVV0E1RXAyWlJsM0t3RjBBRmx3TGlwQWZZOHVZRzFTRFpPZG90LTJDQkJyNnd3SW1WdU5HOU5KckczY2tZY3BRcDI3QTU0SzVuZG5UdklhN0dHU3hPSWoyNGJnSlU?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Sun, 27 Sep 2026 10:02:20 GMT",
+        "discovered": "2026-09-27T16:07:30.920016+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "أزمة السردين المعلب بالمغرب: شباك ممتلئة ووحدات إنتاج تصارع شح المادة الخام Le 360 Arabe",
+        "player": "",
+        "content_hash": "6499c729a410a2c24d164dbf7d08362cfbff22164d5c3367fdd0182fbd0be0e4",
         "sent": 0,
         "section": "morocco"
       },
@@ -372,22 +404,6 @@
         "section": "morocco"
       },
       {
-        "id": 5469,
-        "title": "تطورات الحرارة في صيف المغرب.. وجدة والحسيمة وتطوان بالمقدمة - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNNGp1LThMWDVKTUJ3c0QtMG9FU2NxN0VYTDE4N044UUFkM0hhUTN3YWJydV9faWVRd01pbFBzbTBmYmVaLVpDZFB5XzUtcUtaaHgxMVQzOWhkVkFzZjZBZVBMc1RrT0Y2ajBJTGNlSy1KSkdRT0hlTzVGMV91czY3NFBDeWdkOEpiRURRS2hvUnVaU00xV1g3VjJlMzFXbjdZSjdteDluQWNYWS1vY1loaXJXV2lFTjdDWlp3Sm01YXVEWUdIZm1jSGtiOVQ1MVk5X0RpVEdzTDQ5Sng1by1MVDcxM29HM0NYczhGNGJfWXNiY2ZINVgwMFZCcUdRNTlqX1RTVmo4WlNKcW9PUE9BRWJ2TW0xY3ZDNEs3VURQUjRCOUpZeHlCRTRvSzhQMjR6U2FYRlQzTVlKY0Nya2ZFQUxHUVJLT0lYRlJUck52ckwtMWFMNEJF?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Sat, 26 Sep 2026 02:02:54 GMT",
-        "discovered": "2026-09-26T03:26:45.823831+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "تطورات الحرارة في صيف المغرب.. وجدة والحسيمة وتطوان بالمقدمة Hespress",
-        "player": "",
-        "content_hash": "d432d3050917faa26cb8d434732df5eb4711171c35c33e4c67dff127a9d6f3b0",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 5549,
         "title": "نتائج الانتخابات ومرشحو رئاسة الحكومة - Hespress",
         "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQWnZ0OTRQbVBFOGtLM0RyVy00dGhEc29VelUtUndSTjVXUWg2VmRFbFRIYmxzNlVDZVYyUzRxNFB5SGJfVVVLQW9PcHhodENCeUZSTFpvRDZqLVU1Q1JaQkJxZ3pLamNZWEs0V1FQemE4TUZXWUNBWXRyd0JQUDVhRmx4N1E5WGRZeV84RTZiNE1Bd2gwMmxHMEwzZ1EtTEtDNFlNeVA3VkFwSC1YNjNILVpCUFJ5b0JyMkdiSGtiMzgzWTFxMjIyc0ptampPZlQwVWdaNVR0QXQ1X2RIcTZpc2JXUU4teURZQWFKNDZkZ2VPSElWYlRfTGozRS1kNE8wZTRXMTdMZmZCZUE2TWtUWnpVZ2ZVcWVVU1ZHMjBlX2VNVjRBeVpMRUZOVnk2NmlEV3pfeVJzMTJSNjY3R2dnQlpTSnotN2V3RHhDU3JKVk1JMnlmMUE?oc=5",
@@ -453,6 +469,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 5975,
+        "title": "«هنوف عذبة» تحرز «كأس الفيصل» للخيل العربية الأصيلة - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxOU0dTYW1EQ05hY0tvYTVjUTM0SmtQNlR5UU11bHBxMHRERTVEQzN1eHo4NjdVS3NlUTFZNU1zM28tdzZjRGJlbDc2Tmxldy1wQ0dvWFZfREFtQ1BocVEycGZDc1o3cmtGdFRRWEk5WEZTbzhMdDZ2YnBRaEFKMDNBd0ludVhQWC00Ty1tbk1DU2dWLVUwUVdOQWF2OVNMN282MlBRYzFDNlRHZ2NVc2RsTi13d09MUm1SQjd3TElpeFdqNTBIalpxMjBDNHZEbmxEZFBqRlQ1U1BjM1dqNnQwMHdJZElHVnJKMFZQVGJFaWoxc1JtRlVEUFIxU2xnUGxJWUR2aWNPQ0RfSkdDVGNnTm5feWF0Yk90WEswZ2hyQUlJdXRKamV1WFltMWlaRmh0NDV1aFk4NkpBRDdXOVhxN01mVm5fTG1RUms3N2ZQWTZEbFc4N29ZcFdCTkV5OEdfLWVMaW5CZ2NGVGFUT2czeV9tbnJvT3ZkLTJMZGVhMnpBT1c0dXFyYnUzZXFnTDNTZEEwOUtkQWFaYjlyd3FDZTBXajM5a3BtSTdyQVF6bWZGVURRUDNoeTdTWHdSRVpLVlhWNnlPaUF2NVlla2VicWxqNVVRemprMmIzUnNieXpscEpaOU1KeU1hNVNqbjFJQXdmcHJad040X1ZPS0xfTk4tN0hVRkwzdlVrRzdLZV9aZzVKVk8zQk10OHREUQ?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 16:03:20 GMT",
+        "discovered": "2026-09-27T16:07:42.330698+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "«هنوف عذبة» تحرز «كأس الفيصل» للخيل العربية الأصيلة الشرق الأوسط",
+        "player": "",
+        "content_hash": "34e5db84f72f5d8766523a39dc030fdabc564843b65450154199160027b49037",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5976,
+        "title": "بث مباشر مجانًا.. مشاهدة مباراة قطر واليمن الآن في خليجي 27 - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcGZIeUdHWFhGZ2FOQnotb3B4QnRoTUtFSldieVNFbnRUT2Z3Slc4alNwT1hSdEthaTlfZkxhaWlhNUtjNVcySDRxanZPLVdnUTJHRUx1TC1OcUxWd0hJTFRkWFBlSWdDWXhwTnVGUHpYMVdISkV4SW96MlR1Uk1lOTN5SE5VbUVZeVNyeFMyNnNFZFZORTVWWWVVbWtwd0kzT3JMN3A5NTFoTDl6UU91RGUyTnJZS2E4MEFpMkZsU21MN0N2ejc5dkFVS0ZpN1pFZ01zSHpIUlBQTUE?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 15:52:24 GMT",
+        "discovered": "2026-09-27T16:07:46.183436+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بث مباشر مجانًا.. مشاهدة مباراة قطر واليمن الآن في خليجي 27 365Scores",
+        "player": "",
+        "content_hash": "fb075eeede7a0a0fc55dec5902594fc2129cc9dea1a27c2e36b5a5676f507830",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5965,
         "title": "رسميًا.. استبعاد لاعب منتخب السعودية قبل لقاء العراق - يلاكورة",
@@ -1218,38 +1266,6 @@
         "summary": "بنجلون بعد الإطاحة بالوداد: حققنا فوزاً لم نكن نحلم به Febrayer",
         "player": "",
         "content_hash": "15e84e17d24c08b4592b979c67fcee0f58a6b099f70fa555a61d9d52b84d49db",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5885,
-        "title": "الأهلي يعلن استدعاء رباعي الفريق للمنتخب الأولمبي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQblZVU3NBSjEtdmVObHQ5Z3B1akxBUWpwYmR4ZDdLVWNRMmhpNHI3QTJyUTBCckNsSC1iV2NjZzZ2TjBGM3BQWC16bGRYWVIzSUxUNThpY0tzRU84bEZBWUJCU2pwREdDNjNmU1BlZ3EyQ01PQmdGeEhDMDZBS0FvaDl1Uy1vZVNoT3dtRFBzMnJYRmVoN29keGtKT1R4RmRkNm12SlFVck5Hakc2MWVvU2FIUXh2SVNncDY1VGZ3aHphOXk5cnRYQ0JSVGttV3dyWTVyTGV2ZTlSNkJWVnpINEF6dTRFd21PMlpjZ2JMaXlXalRndm4wTmNCZTd5VkdQV0xDcGhUVWlwMEVvT3dNZlVITk1BaFAzc2ZSV2stYWI2bVg0Vm9FcDlrOWtYU1R1dFBMWGtzYU5wbDJleGcwUE9vLUd4QzIyZjhNNE1DSEZZNjBwV0NnNUxOMHJWVExVbkMzUUFQdUxBR1gxUGJfbjJFdjVtU0tVM2VoeE9HRVpsSUx5UjZONmxqdE15NFU0Z1NTa25Camlqd0JJb0QxVjkwZl9FUndQa3FveXFUSkN3QdIBtwNBVV95cUxQWG9VcTVnNVp1Q2swd2gtMEN5YndaMWl1bWRydGJZTF9BdGVWdndSYUx2N3YzQ3BGMlBPT2duUkVjV3BXcS15UVREVjR6QXBMYUJHdktwSlc5cFp5YkdpeTM3Q3JfR0tvcU5MdkJwZDF0Vko3OXhqRU5JSjlSMkhXMFpEWXl2N053SkRldGFGdVFxeUE5NVNnSVNxenY0bkVRa1FxWTFQZkdRX1JLMjBGamsxd0taUFpOcnFlYjE1UUtMUlN2SlpQNURfTzJXb1BjcHZlZUc0dkFIbFJOeEk2dlhnRTExMWw5S2pQU1VHek15OTlURWhXdE9iQS1rU0xYbHU0WUNRbG94LVQ1QmNacnhad09EMm5rQ0pPN3RtNlJnQW1TMU5GbU43NndvUWNsY3h3c1V1NDA3ZGNEajNGZl9pU3JEOXlmbDN5bHI5MFR3VzdwTGF1Ry1POUhmdUc3b3pnbFRtTDd0SEpUT2ZyeFl2aW90VlhNS2VGdzctUU05Z21lb09VQ21TZ0YwYWVyMUEtOGJJMlE5Q3otSjVuZ2lpWGZsSWw0Y0dVQ2tjbzdxR0x4SG9n?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 09:33:00 GMT",
-        "discovered": "2026-09-27T09:51:30.616673+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الأهلي يعلن استدعاء رباعي الفريق للمنتخب الأولمبي FilGoal",
-        "player": "",
-        "content_hash": "3eb39ffbb72f567cd488cc49a1e9abd4644416f44d642eaf171a5d2ccb97f0ac",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5883,
-        "title": "خبر في الجول - عبد المنعم مستمر مع منتخب مصر حتى لقاء جنوب إفريقيا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxQcks1OTVDaGRvX0tLNy1hdm5oN215VWU4NjZEYk5QSG82NUFMcWxxclVacWxEc0FzandpVUR6WS15Qlp0WXdOZDZ1X0M0cURTR0piS2RDOXpibU1mLWFBZ05KbnJjZTUwelBwdWQ2M29PNG9RdUVxTUVXQm9mcFkyT3JGbmpCOWNQTEc0elhScXhlX2ZQQmJEUXBoMUxidXlFQ3hGSkNQYnRUYlNzemhQUGdsdXhOQ1RrWGhQZDhtWnhibmR0VUtrc0VaeHlfc3FaN3NxdURhUTFTMGphN0p4UklsQWVuWm1qdXhiNTRfLXl6RENOczZtQUpfWmU3SG5IQy1sUFZBLWc3cFpiei1wMWFScDRNU0NfZ05LYXdXNVQyblc2UWFYaWp1YVNLelc5VmRxenJ2QkNKTnhUYkpHcDc1a2I4cHdSV3dfZUpKamNUdWZGV1duMlZDdFZmczNFazI1dFVNRUl2bXNmYmNuLXNsb196SkNtY1RpTzJSYTBwNnNrUkdVZXdvSTJaeF9jQktVMjhIWmQ1T0JFR0xJckZtaXNzUHE0TGZ6VG5uMDBud24tMDVjXzlfS3VGc3VjLWtnNFNxN0drTnNmZTlPVmtUWHRDcDIyMFdLZnE3bnlaLWFPTlBGaGJia21kT21QekZhSEJhY2s4U0ZjWVRBTEtR0gGHBEFVX3lxTE1LdEszM0pqTnI1MlhKVlF5MFlMQXo1RUlsa3BFRnJaTU95WnBRYkp2bEwxbU13Sk1VakU4LUt1Q0MtTWtkUWNTMi1xQVV5UTUzZlBMUkJ1NGRZM1gtYktXdW9CMndjS05iWGgxTTlxd3A2MmxUU0Q1UFR2UVRFTVRUdmh3WXJvRE9WM09XUlZpSVZZS05oY21iYmNMWEI3LVN0RFplSndmSFFKMmlLeHRRc3F4Y05lYUUybDlnYWdwRzE0Q2F2andESGdVcmpmczMwNDg4dkJmWTJtaWFGRDJ2ZXdLZ3JBREJYd3A3Ui1PdHhETVpzdGNZVllRZWtsV3ZiWFRNeFBuejc1SFdWeTFmMmJCQnNfMzB5bEpVQWNfNFh1aE1XdzBKTlhvMXYtN2VMemFSTkpkTVhreHU1dDl6cFdPT2l0ZGRCN2dCSEZkUlhyUkJGZlF3c1NNTmRhZ0VoRFMxQ05VNFlVYXotWnkydGl0Z2lhQ2tBdFJRZ1Fud3BhU2xkcU5VenJDa2dqcDhESmZVajRmVjNmdUhWWnFMbnNQYldGaC1fMTJaaTdXeEgzaXN5Zy1hZTZTYmlqX3JEMGtTMjdCOVZoWDZ1cU1mSWkwZkpMUzR6UlNfRzlyU2tVSEhSd1pRQ3hjejB3VXllRGZJRVBadWZxVlRNVzhpaTFNSTZIWQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 09:25:00 GMT",
-        "discovered": "2026-09-27T09:40:05.667613+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "خبر في الجول - عبد المنعم مستمر مع منتخب مصر حتى لقاء جنوب إفريقيا FilGoal",
-        "player": "",
-        "content_hash": "96ac42249a08f6aaef9cf934f02d94238d9732a8345b45ae3cad1f33f2fb3ec5",
         "sent": 0,
         "section": "sports"
       }
@@ -2188,22 +2204,6 @@
         "section": "world_arabic"
       },
       {
-        "id": 5476,
-        "title": "بعد ساعات من اجتماع \"اتفاقية مكة\".. \"التحالف\" يعلن \"اعتراض مسيرتين أطلقهما الحوثيون نحو الرياض\" - CNN Arabic",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQXlKQ3ZCdkQ4bUU3bnl2RVJiUml5dU9qZkJjNkVFelFfQ3JpZEpIQl9jUjRqRTk3MFdvWVA5Rlc5cE55SS1Mal80VzFiM25ObHNhV1BvazFwLW1vZ2p1ZnVNZFFxdnlJOENJbUhobXZISXlWN0FqZDlLb1VSNENnRm9DWGw2ckxuQ2o1TTFDc3JlWUs1TUxsUEkwUEsweDRsM3BUOVJzRjJCNkhram10a0NlVW5yU29Sc3dzSnM0bkJPY3RsV2I0?oc=5",
-        "source": "CNN بالعربية",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 01:29:22 GMT",
-        "discovered": "2026-09-26T04:33:15.163709+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "بعد ساعات من اجتماع \"اتفاقية مكة\".. \"التحالف\" يعلن \"اعتراض مسيرتين أطلقهما الحوثيون نحو الرياض\" CNN Arabic",
-        "player": "رياض",
-        "content_hash": "82f9b8634fd3eb73af42dc67e6e9ef8f652957ce834a8060e28079e3a028f3c9",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
         "id": 5684,
         "title": "ترمب يرفض مقترح إيران ومصادر: يميل لاستئناف العمليات بعد الانتخابات - اندبندنت عربية",
         "url": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxPZE9Vb0JNUUJGY2xjcFB3aE5UV3J6SDA3RDRFVUhzcldQTDA5WXlLX3A2bmVNZFkzT240MEVkVlRRSFJZTDVWNFlXM25Zenl5TnRRd1JNcGthZU1ZeVk0VEk1WVpEeUFqd05ZRTFOQW83aGVrMGdFN0RmenFzelFUYWg1UzNKVXVZOFBpeGZhSmJIVVE2RldqZlZvdVZ2NGxINlZzZ0d2TExqOFAzT1J4ZFU1WC01U19NVG5qcFZiWmlPVmVHMEI2QWZSU0E3b3pYUTQzVkVveTRHWWMyN2JsVzg3WGNZV21KOXU2MWhjYWV5RUhucVA3c09JVU9nUjNzY0NxcVJWVmZLNXY0U0J1enduZ2dEekd6UmFOVWRxVGllb3pqOHQ2QkVDVHFmWW5iTGNCVUZmRkNiLUFlaklJYWdqU2wxN2k5UnYxRnFMWnFJUThpM3dmLXFWTXhaZ2JVWjY3cFNNNTZybDdDbFh1bXFPeWpfYWVXYUhaMHZ5aDlEbXQxWlZFMXhmNy1HVzVjOGF1bk5wRjdTU0FTTnNQV09Zaks0aDJVdUh2QVB5eFVvLUhTZnpHS296VVdxUUZFNHBaa2tZdVZ2YVdrOC1LcmNFSDBSaUg3Q2dTbVpZZFpLdF9XNkdzRC1NMGQwQzBBUTZQeXZKc2tSaHdpd0xrb1R0Z1pkd3IyM0NJcGFrSl9SQ0VQNUpoQnJCaXRYZzZvejdrdlJpQ1V3anZENkp5dUhfTE9fVkxaVUh3RndwZk9wVU9iY1lDR01scWphdlFqRnhORlpFdmVyUHJrN0VNOTBPQkpLcnc?oc=5",
@@ -2216,22 +2216,6 @@
         "summary": "ترمب يرفض مقترح إيران ومصادر: يميل لاستئناف العمليات بعد الانتخابات اندبندنت عربية",
         "player": "",
         "content_hash": "9521f41b34531433a6c693a530f821d1b577dab0c72b921700496f3621f37693",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 5473,
-        "title": "تطوير الإعلام المصري أم تفجير النقابة؟ لماذا يظهر وزير الري مع المذيع الخليط؟ والسودان الذي قال لا! - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxObmtfS3ZFWXQ1RkFVNnQ3RE1hTk8zbXJmYW55dkpFOVdzYmJWYWpCUDVDbXl2Z2NieHQ3elIwNzV3YUZma2ZreGVKVWE5NW03ZEZBU0puZFp1Zk5JcFZIMkxER1ZYcV9aUXdITkM0X1ZjcTZvSXNDQ01aTTdUWFFYeUZrZTZFN2pYc0JESkZZeVVwX3k3bnZZX3ZtWGNnTlkyajlKZFc4LUpwaXJNeFpBZ2dtN1hiVDFqUE13cGJjMTExOHFtb2dtUTF2YndvcUQtZzBhV3FCa0QtMTBTOHBaSkQzTVBRVGp5Y1NMbFhXcE1kZHNjc1BtWXZOZ012cU5sZ1U5UFhrUzZTeVE5ZlpHTDg1WXpScVNLMUI3NkJkUmtvNVE2UlJXWnNXenBnTjkyTUVDR3BRWXdScEJfbmxyUHRmU0NxUQ?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 19:57:31 GMT",
-        "discovered": "2026-09-26T04:01:42.580046+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "تطوير الإعلام المصري أم تفجير النقابة؟ لماذا يظهر وزير الري مع المذيع الخليط؟ والسودان الذي قال لا! القدس العربي",
-        "player": "",
-        "content_hash": "846e5b0040b91692bfe7484d90ee9c1e5d0bc75408a728623653ca74d9efbc3c",
         "sent": 0,
         "section": "world_arabic"
       },
