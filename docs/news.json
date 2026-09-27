@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T07:28:57.570198+00:00",
+  "updated": "2026-09-27T07:42:18.565953+00:00",
   "total": 143,
   "sections": {
     "morocco": [
@@ -48,6 +48,22 @@
         "summary": "افتتاح فعاليات مهرجان طنجة العالمية للموسيقى الأندلسية Febrayer",
         "player": "",
         "content_hash": "c088f7b2052e492cbc4d42b07d0f4029254328221dc7c0cf5e4bd41f5d03328b",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5856,
+        "title": "محامون لـ”كود”: الاستحقاقات الدستورية والانتخابات المهنية غادي تأجل الحوار مع الحكومة الجديدة حتى لمارس 2027 - كود",
+        "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOSmVBbldJUXpNNEE4NDV4T0hSTjBlQXotT0dPV3Y2QlRVSlBSdTRGdXM1QS0wZXZvbDllTzhmenZxbEs2cHhfSTNGR3RWMWc5am9XdEhuaFFPNG5vbm1abG9IaENYZGJVbzZyazZzclRqZnNHcVJyLXFBamlBMXk4WjZaWTJvZ3dFaTBLVWRSUFZhSTF0S2lzalhhbmtpSTdSTTZ5cnBZZkNIN0N6cHdUOXlyejVfQUxxS2JTVU9aMHFsWlVqeUV3Ty1fRVlibzJHSzh5aXh5N21LVEpjcGpSNC1ybGtMbVBqRGxMeWhLZExRVUVYWXEtSEhuY19BVWJzZ0dfY29yaEl3SHVfU21FRjFBWnREeU9kQ0dSWGt3eWwyZWtzTGJqSWVFUHNPNUJLRjFaMXVXbkpwdTAtc1Nr?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 21:32:49 GMT",
+        "discovered": "2026-09-27T07:41:57.615875+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "محامون لـ”كود”: الاستحقاقات الدستورية والانتخابات المهنية غادي تأجل الحوار مع الحكومة الجديدة حتى لمارس 2027 كود",
+        "player": "",
+        "content_hash": "175f44c1291eed2dccf398a151f0a7beab5b51425f5ce41aca27f8c80f011a61",
         "sent": 0,
         "section": "morocco"
       },
@@ -482,41 +498,25 @@
         "content_hash": "3adc884949cc535fdb618206419bc26bf475411b8f98ac3925e9671af0550800",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 5495,
-        "title": "الانتخابات التشريعية في المغرب: \"ما زلت متمسكة بالأمل\"... أصوات تراهن على التغيير - France 24",
-        "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxPQUJBMndoNVVBU3l4RWgxMFVEaWR4RTVZWUY1T04zRG9lb3hXcWdMdDJNeGVUQm9vOHhxb2hpUU9PTXpSWlNZUnYzY3RlUEdMNUVlY2RBYmpKc29jb1RQWGtFalpxY09UWkRTNGFMRUJvN3F2MFlOc1NteDBIUURPUWlodWRPczBDMzRhRUY1VUFjQ2pWQjBSRkRwZFVKbTA3cXJGNXRJQUE1dUw1R1RtSTNZTDh4RERQU2xMbFBtWEtaVmNYb2VVQVdQb2xsWnE4YUlqT1BkNk01dE8waEJTTFE2NWtUSGxtaFd3QW5wQVpoSTR2SFBTMFNKa0tUWF81REZzQXZSajdrNk9zckNQOWxSLTJ6bW1zelRaa1V2S2xzNHJQNFBnMVFYT0x6eTNJZnk0TElDUlpRVlJGUnZUbE9WclBFZUIweVMyMkdlOFRwRHl2R3FpV2FGWW1kLTljZGZCUnRDbzJQZ1RlSXItZVI0TzBMRVNvYXFqa3JSeUlFZmlrYjR0MTJRMnFPUVZkMUFxRmd6T1pST2lJdGR6UVloSXNjRVJaSmRpS3FKWlZxWF9TZU1OVTlNMHMtLVdDbHR2dFN6MW1PNHhibkcyLWJnU1dhdG9Gd2pBc3k5WXhnQml4MmItUDVpc1VQRVYtVm1aa285V0w0SWhXLUo4V1BtaTNyWmdzcEp6YnFnYlZpajRrOVZXVDRTSVJiT1BZX2FSS2dTZVM3REpMdllBVjgwbG1TZ2M1ZEdabk9yMA?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Thu, 24 Sep 2026 07:40:43 GMT",
-        "discovered": "2026-09-26T07:39:53.609452+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الانتخابات التشريعية في المغرب: \"ما زلت متمسكة بالأمل\"... أصوات تراهن على التغيير France 24",
-        "player": "",
-        "content_hash": "6b8f8e718dbd3792c203df7f1ba849926cb582ee76dd7fb9976d12a3d2c61e9a",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 5432,
-        "title": "البي جي دي اكتسح فاس الشمالية والجنوبية.. شباط بقات فالبرلمان والعمراوي والوزاني طاحو فهاد الانتخابات وزينة طلعات بالزز وطعن انتخابي كيساين الطاشرون سليغوة - كود: جريدة إلكترونية مغربية شاملة. - كود",
-        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNSVBRM2xDTGFYc2hwb3JPX2ZQQ1VqNmFSSUFoUDBuZHVWNFJtTGxnc2tRWXZ6djZFYVRTaWRSWlVjTDB0T3dvNmhaeFBwRldSMVluVUZCY3pRaEcydlRhaUVVUmpQdTVFTFB2YWlWY3BtWFdoUU1yMk1GemZHSjR3Q0hwWDRJU3JlUi1tbk9HVkNZOUlsMENpM1Y1RUxrbGJKcy1ic2dYMVVFU1J3VlRteUU3MFp5cGt4ZWxtZF9vbXdBTXBKN2diMC0zdHpiRS1zMHIxalNEckJOa3RZVWc0OGJEYXZpWmsyXzJPajZFYUNrWnk2QmxEZ1RVTVFsRUZHck5RdGxPZk9URFdIYkFsMFh1VVRRRkJnNldNenIyS1NrZGtpeXVCcEkyb0R5YzFuTEJmYVFoR2xLRHRvYXNpQ0pUdmRFcmdYQmtz?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Thu, 24 Sep 2026 07:30:29 GMT",
-        "discovered": "2026-09-26T01:45:06.337378+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "البي جي دي اكتسح فاس الشمالية والجنوبية.. شباط بقات فالبرلمان والعمراوي والوزاني طاحو فهاد الانتخابات وزينة طلعات بالزز وطعن انتخابي كيساين الطاشرون سليغوة - كود: جريدة إلكترونية مغربية شاملة.",
-        "player": "",
-        "content_hash": "2046abb84a84e9d6597ed52a0b8538bf1a806c655e3346fcba44d0787087dc7c",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 5858,
+        "title": "مواعيد مباريات اليوم الأحد27/9/2026 والقنوات الناقلة - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxOcUNBanFOYnZpT1Baek9Zak4wblpJc1ZKSVRETDhuNE1lcUFWUkdfdVJEbVVnejNZVzJCUG1EVjhMRWpkUlJjaW9xVGdHOFVnbWFTWEVhbVFYSUhLb3dUSjFaVGd6TGczYjl2LWFmWVFRTUtURzZUT3k3a2dxNmFIbWRUSlVrLWE0ZHEzS2tJTjJwTlNfYVBFc180NVlYYjZ0WWNmcmpkMW1fdmpmbUlUV0p1alhDU2kxVURxeVpfVjRFVU5FTEZISGdWYW4yb3luR1EtWm9PeUJNTGxEXzZQdGxua0p6dWFsTHBXNEFZTzNBQ2E0Z3A0c1lLNF8wVE1xQTNQX1NaY1lEQkdIRDJkVkU4eUZucTFOUFZyOThuSlJQanFMREVZdWNQWl94MEVPZmJWZkt0YlZTcmFpSF84elZRSGdfYS1zWW5EeWJEQ3NldWd1STBiS0dsWmFJX01ldTkzSHp1MlZBdHh1YkFkZkoyMzc0TWxPQzh4UFlUYmFOUTFRdUNOczF4SlBYdjNKRWtKMjJEQnFvQ1VnZ2k5MWIycVh5TjBWY2tndS1EeTZMRVZmaDd0c0V2TGJGa2R5aTN0SXk4N1hiQWh5c1I4TURJM3RHYU5rRFFhOW5wM0w2WE40NDU5OTNsOEFDRS1Xckl1clAwZXg3b1k1VWRDVm5yeTJBcjFuNU1iQmNlblRNcFVFbXlHZ0FsUG05STA4MldqX1B4Skxmd04xUWxMZUhzTzkzNE1GejZtYXZ0RFluLVlmanVrTi1oMmp1Zll4SFZ3RmlIcm5ENXVtUDMzX0dKaGk4cGNz?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 07:27:00 GMT",
+        "discovered": "2026-09-27T07:42:04.854086+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مواعيد مباريات اليوم الأحد27/9/2026 والقنوات الناقلة يلاكورة",
+        "player": "",
+        "content_hash": "863aa5b71d9703d3f851535bd6e87b22ebcd19c86048fc20d37b856ebd2cb356",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5855,
         "title": "بسبب أرضية الملعب.. منتخب مصر يعلن غياب محمد عبد المنعم عن مباراة جنوب السودان - يلاكورة",
@@ -898,6 +898,22 @@
         "summary": "صدامات مستمرة.. هل تنهي أزمة صلاح والشناوي سطوة حسام حسن في المنتخب؟",
         "player": "",
         "content_hash": "529771601bf93b272dcc0e12676fa96b92af839f821450ad849d4d6aceacf160",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5857,
+        "title": "ميساء باها تدخل تاريخ البطولة الإسبانية - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yanp5ZWJXcUVORWRObzI1ekdmSFRKNlR1YTNHWDZCTmFSWkJGWVFzNFVhWHZuaDdSeDRSdDN5N05RcktIRU1SUkdiWnVyNGYyS3RzRQ?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 21:29:09 GMT",
+        "discovered": "2026-09-27T07:41:59.727235+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ميساء باها تدخل تاريخ البطولة الإسبانية جريدة المنتخب",
+        "player": "",
+        "content_hash": "fe9c9cb1932729c8d46bc3753155ecfaa1aaa2cd39d366edddf5d1210cf02012",
         "sent": 0,
         "section": "sports"
       },
@@ -1284,41 +1300,25 @@
         "content_hash": "c5bc3e2a02dc419a03f11794fb503c5ffe49db4a81b7ad562ccebc9554cacefb",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 5730,
-        "title": "بفوزها على عُمان.. السعودية تبلغ نصف نهائي \"خليجي 27\" - CNN Arabic",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNVhRa2NkUGNpTWcwT1VLbHNFRDV4RzJhMFREd1NYTXZOSmh4QXllTDg5T0NlZ2dSSG9ZSDlleFdGZnd5Z0xoc0h1QlRDbTBoRjJta2J3OVpMVHhFMG1qelV0Zm1TbGJFTUlGb1c4ZER4RVB6SlJUVjFUdS1wNDdsbTI0VTZCMUU?oc=5",
-        "source": "CNN بالعربية",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 20:04:55 GMT",
-        "discovered": "2026-09-26T20:21:02.548145+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بفوزها على عُمان.. السعودية تبلغ نصف نهائي \"خليجي 27\" CNN Arabic",
-        "player": "",
-        "content_hash": "5a5a928cb2e1e3162b04b3688be3209998598568298ed6b3bfc1aa0d583e93ca",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5801,
-        "title": "لمواجهة جنوب السودان.. منتخب مصر يتدرب على العشب الصناعي قبل السفر - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxNaDRsZjJLQ0hveTJUcm1CMjE1U0RlNXNxaTdoQk1WMzFYMFA1UjFGcTE5ck9CcWVRNTNyV2pYNTBKYldGMVJxSl9ENmdxRlpqdjJ5eHBITEN3SjBMX2ZWWXphWlk3dVYtZENXdS1KODhJTmtUeklUUXhHaUhLc1JCX0IxWGMzMnpraW5lSUJLc2dxM0p2MG9mYnVudXhiVDZvZU9Hd1V2d09kU0FkSUlOMGdraXpENGhxY0syN1E0ajh2aFhWVzZWc3VXTTYwTWxhV1Y2RVJKcVBxU0F6LTR2ZXdNRFJjX3FsQy1KaWt5M1hjaFJ0bGpZTjR0alphb0NzN0VEa0thWWNlVGg4Sk1mMnNwWVBnaHJtWVVFR1ViTkhGV1NPSHRNRDhuNHd6M3JRRGcyWTJVaUJvSGVwZ2MtWVFOTzJwNlB4eFQwZFNMTUt5NXQ5T0QwVXZGQnZhVnIzVWlUbjR6VVROaVh0TWZuT0lscjFYbk5qWGlQVHNpRW9GNzFKQzBYWUNVTkxuT1RsZ3NnQ2VWUnpwc3hXalEyanVpa29ONjFhemE3N3F0dGRzNW5Jb3piZmgxalo1N25obWllN0I2MzczLUM0bnhSREtCZXA5OUJlS1lxRzdrTDMtZWhFU0Q5WHpibG1tSU85SUlNbHJ1dkdrS2RIX095SXgtam5kTDZHS0R0bm1lQdIBlARBVV95cUxNVHduQVcxN1d0dVB4M2dNTk1ma042WVJoT1BIcldVUHg3MXpBR3VqSVhnazVkUUYzd1E3ejhpcDNnSm5wQk5ubXJWS0JlV0Q0RmItU1JpcHhJT0hwZF9xb284SzlLc2dmaU41d2FqdEJDZDRScUVzZlU4NkNmd3czNUViRjBibTBNWkRMTmRBMS04VXl5eGNsc3pYZndTUFZBLTc0SE5fWDE0WFhkTzNmTUxzLVlRNEhpWmlDem0wcG9Zci0xSEhjU3ZfVjBPUkNBV3lBVmlILURnWFgzWnpWMlRGaVQ2dWhLV2xCemhsNXNxSTZaVjdOWUdubUdILUl4WXN6YzJYWnFQUU9SdG1SOHNreEFDd1lqUXFDcWl6aVAwT1hxaFlSUXRxQ0FEZ3ZLRkJnaTJnRXFORnFRUUZxVGNITUdRZGhvTzZZb1d5Qk5OOE1DbE96TlNhYlJFaXdNdks2aGRyQTYzX091UGZtZ0xrZ1N2TVdIdkY0RENkVjlDb3dlVHhNTWJ0MXFwNFhBdmN2d1VVekJYb2dseHN5M29PeENsZ2lTUG1HNHRqWlRjNlRrTk0tZEt0SjVNUjdxZGJDRGVnczlHWFo4R0tzOW5PNGNCVjc1ZjVMQjhVYzYzVEw2VkNlUXBjaTVJeVhXMXl2T2ZpS1pkempzOFo0ODYzMUpqYW45REZvY0Y3SHQwM3hZ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 19:58:00 GMT",
-        "discovered": "2026-09-26T23:31:43.207044+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لمواجهة جنوب السودان.. منتخب مصر يتدرب على العشب الصناعي قبل السفر FilGoal",
-        "player": "",
-        "content_hash": "0abb295e96709ec317ed21c60fc02165ca1c35169dcdb9774c68b68ba335c65b",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 5859,
+        "title": "كما كشف في الجول.. أسامة فيصل ينضم لمعسكر منتخب مصر - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxOQ1FXVlk4NWVNRkE5cmdxR2puc1AxSlhXTUcyc3RWQnJteVFjMWNseGRvSTREb2xrNWZHYkdXcFZEeXJaX1B0SVl3SFg4VUNNaWpzaFMzMnRmUkY3cF8wbURNUVNEcXVWa3VZckZCTmhtNVBTOUd3aXhUbjV0Mk9YeTdFbFZnMUdzR2lDQjBCWmFsZW0yOWE5T2hzS1J3TTJCcFNXamg1UWpOTTlGUHdMalowemxYSDFCMjRFTUhwWDNkZVFUd2stbXRHY0lUY1oyQkNTZXVZYU1TcExrcWQ1UTlfQi1wVVVVSVNoOW1wUmdnS3ZMMldkVktJS1hSVThUNHZmdEUtakwySV90YmJsZUs5aHRhWTdwem1nbGhiTXRJVmxlRTFNalhmbm5laUd5ZWVoaWN3UnBQeHVmczQ5SUdiT29CM01SWFRnWmM3NjVITmpzY2ZERVRILTBKd0lRdU85WHRhSVFDaDY4cTEwTVhHOWNuTi1mSjdiVWNqaml6RjRtcWF5eWVXaTR6ME5EOVBlNURnUHd6R3QyM2fSAaMDQVVfeXFMUHF0RzFLdnRNUlR6d3o3Q1RkcW5LNmUxMFNjMjQwNlR6SVVvdmJCUGRvdmI0cUJ3MTZaWXF0VlVUb3dzMFFFcnFDQkk3SThpZ1FFRXlHQkprUFlTZHUxWEFSc3NZWWtyS0lOUGpVU2UxeW5NZ3FFY2U4S0p0LV9DMDMtdTBOUHBfTnN2ZEJwMUdyNzQ4SXdUbjYzeUR0NVFSSkhFTW1uTHJOMUJSdGpNazZHNlVjcUpySzhLYUItOEtLR3FtbElQSXktdjBleGl2V0YzZjM5Ry1ISXk4Q1lrT3RnbXJyblI4RUg1WUV6RWxHNHdsc0t2cnBWWmR1YlN0aGFSTWVvY0pYM0M2QmxreWZwa3NxSU1Zend3TnFoWEROSGpuLUU5Z0JZaDBMOVMtZjZTaDUza0NMUzRjajRDSFJOenVwU0VXdVN2SDYwNEt0a2dJUGlvSWJWU25SN2REOE1WLTU3akFOVXQ4dDlaeDI5WnVvOVVFc3BtdFFPRzhHaDhnWlBCODNwSXFVYktBOVlOeWJYTmhxb1ExeVFQZWs3Tlk?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 07:36:00 GMT",
+        "discovered": "2026-09-27T07:42:05.632206+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كما كشف في الجول.. أسامة فيصل ينضم لمعسكر منتخب مصر FilGoal",
+        "player": "",
+        "content_hash": "de55fcf8c446a9d09bd3220b8a77aff8cf5acfc33976ed478f8ff9c6ca3e95ed",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 5728,
         "title": "استعدادًا لجنوب السودان.. منتخب مصر يتدرب على ملعب \"ترتان\" قبل مغادرة القاهرة - يلاكورة",
