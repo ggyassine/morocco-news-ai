@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T19:45:25.670444+00:00",
-  "total": 134,
+  "updated": "2026-09-27T19:54:18.056923+00:00",
+  "total": 133,
   "sections": {
     "morocco": [
       {
@@ -484,22 +484,6 @@
         "section": "morocco"
       },
       {
-        "id": 5549,
-        "title": "نتائج الانتخابات ومرشحو رئاسة الحكومة - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQWnZ0OTRQbVBFOGtLM0RyVy00dGhEc29VelUtUndSTjVXUWg2VmRFbFRIYmxzNlVDZVYyUzRxNFB5SGJfVVVLQW9PcHhodENCeUZSTFpvRDZqLVU1Q1JaQkJxZ3pLamNZWEs0V1FQemE4TUZXWUNBWXRyd0JQUDVhRmx4N1E5WGRZeV84RTZiNE1Bd2gwMmxHMEwzZ1EtTEtDNFlNeVA3VkFwSC1YNjNILVpCUFJ5b0JyMkdiSGtiMzgzWTFxMjIyc0ptampPZlQwVWdaNVR0QXQ1X2RIcTZpc2JXUU4teURZQWFKNDZkZ2VPSElWYlRfTGozRS1kNE8wZTRXMTdMZmZCZUE2TWtUWnpVZ2ZVcWVVU1ZHMjBlX2VNVjRBeVpMRUZOVnk2NmlEV3pfeVJzMTJSNjY3R2dnQlpTSnotN2V3RHhDU3JKVk1JMnlmMUE?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Fri, 25 Sep 2026 19:18:51 GMT",
-        "discovered": "2026-09-26T11:32:18.651984+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "نتائج الانتخابات ومرشحو رئاسة الحكومة Hespress",
-        "player": "",
-        "content_hash": "763f3e2a251e6ee7e8c8a1d4400c0b155e7c57a93855b8a3d37e8b6f896071cb",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 5821,
         "title": "حضور وازن للمحامين في مجلس النواب – اليوم 24 - اليوم 24",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XalNfeUFIaEhIYVE0MWVYSC0tNi1mZTNWNk1Gc19tM2htZkxOZC1BSVM5bzFrS0RNWnRDUUN5ZC1pOWZ3QUstaW1R?oc=5",
@@ -726,6 +710,22 @@
         "section": "sports"
       },
       {
+        "id": 6051,
+        "title": "مباشر مباراة ألمانيا ضد اليونان في الجولة 2 من دوري الأمم الأوروبية - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQai1Wc1ViMWJXMGRfbVNXVlR3M1VaaWxnZFEwUTNpdlJKY3ltVVB0czRqSWEtd1ozbWR0ckVzWUV4ZDQtOWtaQkU4bEpKTi04eHdJOFJLSVluQnJQRnkwNDhMY0lBWF9oMWFpNkI5b2lxeEgyX29yLVlpQVhOb2tNVE82NTh0VDZYRnNhOVMxN0NMNU5wT2NJb2hmTmgyazhKNVpIM0hpNnVPdlk4OTBMQW5CajBJNUw2SVhmWHhFaXc0a0tYN2NIN3pWYlg5QXdpZ3M5ZlZpc2h6eW9CbjcxYm5ZTFRMVjlWbjRGRkFLTy1PVnRBRVhlRm94d0NFQjREMUJnRmlNel81dlktYXNZSFV4ZFBCOXBUZ3ZnY1BZbi1lNmJjemJ2b0w5T0RVakNVbDFIN2VrTmJyM18tTm5LcmQ3S2d3WUFCTTZFTGxCZkpfbk1SS3J2U1J2ZTk1cHc?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 18:10:44 GMT",
+        "discovered": "2026-09-27T19:54:00.031045+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباشر مباراة ألمانيا ضد اليونان في الجولة 2 من دوري الأمم الأوروبية 365Scores",
+        "player": "",
+        "content_hash": "3b3233b55af486233724d78a0f99e1403ba5701c79efd425f043bd6692cf46d8",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 6028,
         "title": "لقطات من مباراة صربيا وهولندا في دوري الأمم الأوروبية (صور) - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNUERfcHBRdk56NG9wLVhRUEtXUVZGQXQxYUhlZ04wOVpLZkJ3NEtqTWFhMEljaTFLUTJKczY5X2pNdWNRZEstMlZ0dUF1VGRhLTJPOUdWbkQyanppWlpPREI1TGtELXdIZWEzV015TlFxN25rR0JYSG9FSF9vZ285V25KNldHV3ZRRzRodU50SXN4VF91WmktalNhV0t5U0xJMWVmZU9sdVg3a1piTWt5SGdKN2x3ZzVxOXJiYUowYzYtQWRmd0c1Z01TWHc1djlBSnprWW5jbTJHbzdTdzlxUHNuTkt6NXpEYk1UYW5WSEZaZzZQaVVsWG1tLVY3ZENwN3BxOFhpWmgtLVZEZktsWmg0TTg3bnFfbXMwbTVSVHI4OG9NenVVMWtKRkRpb2c0Zmg4TFBocF96RFltWFFza3pRemFkTkhpWEpOZjZYbEg2TXAxcWVCNHdhVkZyX1BBdTh6TXF0YzA2R015YjVUcGthMkRGVVg3cEZPWEsxUnFIT08tS012TGhGTFcxLUludVdRamJteVNzN1F5XzNWdUEyekFqMUEtZXlCUjQ0RE9iT3pEQnhwZXZ0MFVlU0FaQ2stamlydjJoakYtUUNrWDlBZU05S1NwVUY0al9lMA?oc=5",
@@ -786,6 +786,22 @@
         "summary": "قطر تضع قدمًا في نصف نهائي \"خليجي 27\" بفوز جديد أمام اليمن يلاكورة",
         "player": "",
         "content_hash": "48b745b2e9b514f3fab905a59d73251d8e1afc3c637fcd524592d80dd08fe871",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6050,
+        "title": "طاقم تحكيم من موريشيوس لمباراة مصر وجنوب السودان - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxORUpmbFZGVWVKWkt0QlFycXVNRTQtZjZPU2I3ZnpCLV8xZjRiMm5FZE91S2kwNDRHSzlwbURMRlNEbWRpdjU4MTNwc0ZQQkphWGZnUnJpQmZuaHRaVTh0Ml9iRUQ2NFR5T3VKc3A5TUpCZHVPNVVqbFVHbU1MbGFUVGRXNUVaMm1RWW5mMXV5SHJGeWVBUkFCU2ltZEthWFI5TE9uNF9QakM2RmRCYkRxQ2REWW5xTlVtaHk1LWhNR054M21sbGNHMld2VXJZbnRUNDR0US1DYkdBS2JmaGdPalRfZ3FibFY2Ymp3Y0tYdjFDQUo2ck9XeUk4anBKZWtBYjZDSTNGenF4RWg3cllQcEJfYXBOcU95UGVuVkpxemZTVTVRUnpjbG9FMVpwTHRveDgtVHlKaUc5MzlMUk95b1pMQ3FYMmRYN3BnQTJ1WWJkaXdkTVc2VFdVNlNHcUpVWFRCcE82UkdzU2ViVjJGOGV4VU9iSENHYU8xNEF1VTI2alhPeVpBU0ZENmsxZ0htTElGMnhJNE9xQ182NFNKWUZycjNSZjBDS0tOQVR3ZlYtaDJvZFQyR1FfWdIBwANBVV95cUxPNERUTTJKUnY4bkRoT2tsMGlXcW56VUx1cUhWU2dja2JadHA5dnVWMVR2OUVXMlRUSmgwSEd1cm1MXzFQNzRmRXR6TXVQbGpJNDE3VmhlOVh3MU1KTHVMVC1Na1ppaW5LVkhuVXFmR05lQUtWU2Z0VURLYWFQdkJDSDEzLVVvYVk4ZjhZTlA3TUNtY1owaGJkTUNVNzdsczhfcXlJQUFPNERTb3FmNmE4Wlc2d2YyQW05c3poNURSekMzQXRZWEdzNGt4S0U1M1dtY3ptRjBlU1l2Z2dvbzFPOWF1TXBJTnFGQWZxODJIOXdrR2QzWWVHNW01bDZ4YVN3QktHd3J1bEk5d3hPU241SGFLZ1ZRUXV3U3hPazVydU80VVN1dzZCaElVUzlHV2xLZTV1cWRxYnIyZlF5ZlFlcE14OTJQMUl2T3ZLQzlGeVRtOFI5TU90dmNpdWlfODRUWjNBVWdwUHV0YXBKdEp5emkwMmRBS3Jpa3ZzaU1MMXVvQ2VUNFEzQVhNWkFMY0I4aTJLX2N0d0RIQ0RxREhJZkNySUpEVmN0LWsxSWJkaThzUVBZcXV5X1MwMkFlZ2pP?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 17:31:00 GMT",
+        "discovered": "2026-09-27T19:53:58.611769+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "طاقم تحكيم من موريشيوس لمباراة مصر وجنوب السودان يلاكورة",
+        "player": "",
+        "content_hash": "70ea8d0e35475e78d74d70b9fdf23aeb4a1897679288b84613e1bb621f4fe0d8",
         "sent": 0,
         "section": "sports"
       },
@@ -1282,38 +1298,6 @@
         "summary": "أشبال الأطلس يواجهون \"الكانغر\" الأسترالي في دوري \"كوبا إسبانيا\" جريدة المنتخب",
         "player": "",
         "content_hash": "28f1ed1d509a7a5a11b862455e831a8d1f1ac94d69c46112eeda5ca62bc607f4",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5950,
-        "title": "زيدان يغيّر دور ريان شرقي.. واللاعب يرد بطريقة مثالية - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxNMHAwM2JEdUpNU1NiR3AyUWg5a3hvT21LY2ZPTGdwejFMczJtN09SUXNwMVh4MUo1bGRtbnZWUW5mMXNpNHhhTnZHSWpCck1NWFNJM285c0hMdFNFUXI3dXNhdHd3Y0d6a0oxbVlYejlwZi1KN1FhRlJSLTYtckZQWllJYm41S29wcWxHVTZuZ1hqRzd4cWJBbWRNOGkyX082cEM3Nm85SmpaX3FrWnNEaWhfTXU1Y2V3NC1iRWY2UkJXZjNlTWw3M0JRalJGWFFOWU5WR1VId3JfVHdlUkdZbDduQldqX2tvalVyVUR6UklrTnJTM3lxV0N6djhVZmluWVItbVF3ZC1GY2VPWVdCLW5KSTBQMng5b0NBWDNkb3JaOEkzME9fRlF5ODN5LTN6SmZXNlViQlFWN2dvalVvUkJQYWxQNWtXdTF5V2V0VUdQV1dqNVJwTnBOZ3RKa21WTUIxMmhTekVaQjQ1WUlnMzlvRldwbU5ydmVqVXVwQTZ5V1VnQm9LX0ZfaUo2RlZyeTd2WHpEQmxlSkctVlR0LUdUVTY0SjI4RFBrRXlBN1J3X2Jtc1dpZVNpd1JPeldiX21RSGljNTZMN2xacThGWmUxSmd2RTlpbnU4TGZuSmJmc3U5Y1pkRnlKODd1bXpYUmtNRnlIbU5mTnV2MXZLT2hsOFJuODNZQkl1dnZBazdNaDRiY3c?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 15:00:00 GMT",
-        "discovered": "2026-09-27T15:03:42.445003+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "زيدان يغيّر دور ريان شرقي.. واللاعب يرد بطريقة مثالية Kooora",
-        "player": "",
-        "content_hash": "803879e23b60b77f770f09dd6f122f05fbf38523a2665d6914e2dfdeed4fe85f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5951,
-        "title": "موعد مباراة الزمالك وبينيروس البرازيلي في كأس العالم للأندية لكرة اليد - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxNTHBQajRySmg4anpLQXNHTTdCVWw2SlRrVTlEczNFYnhvazJqUE1ybnBERU1jeDYtMW82Q3JxcVotYTlqbVRHWG1LN1kwWG1Nd1NhVUp5aFBsYnFzQllFclpjX0R4SDk3SjlKNmdJdlRBNEJiLTlhRXdlT1RpMk9tOEZRRHRmNEVZUVBERVpsc3RDUmVKWll1Z2R3aEJkdnVKdHRmY3dIcGlpYjhNTG1vclVlVWh1RWlCdEhoemc0RmtNMnQxQ0JZOTNaNkozRVFxVDFMY2JrWVBNNU9kSDFnQU9ESFUxYUYwb2ZJcDl5WUxwek84UnJQLXNKdFFXX1R0cVhhcmh2eWgxY0VPa2tHYzBJYzBCR0o4ZExJQWYxUGlPS2VHSEl6NVZFTGllM0xOQUdDNUlNQmp5WUpJcnYtOXl1ZTdab3lPV0NJMGFUNkxVenVHbGg4eFgtVVA2UkpmbTlvWGo3VzdkUVg3dFNFTFVtU3gzSTZpdlcyMWRkSnVFRUpCWXhXRVd3eUduTW45UnYwbkhLTmpvOTZnejZHYnNFVGxrVVEwX3lIWWJ1d2JlOUZoLTBYYmNueHByNzF4WkJQTGlvMmYzMTFmRVdMbkFaSnhEckZuQWhId1VJX2hTUkRCLTBRdjRuLXRuVzFXdDFuZWZ4MmJlRUo1MzVPemRkMFlEbFhQa0Qtbkd0RDVONDRjZVhucmFQNXpGbWVsSjlUUVB1SWZhajVWVTRSWWI5eUlQdGstVHNZSTd2cDNNWWwyc0ZaNkZUM0g4eUVmX1hxT1FPTmxUemJObW1F0gHkBEFVX3lxTFBtN2Yzd2FIOUR0STRsR1R1WFNBV3NXMXAtQnctejdEUFdRMGUxNG1IeXZSLXZIVTU5LUFkbWI5TEl6YTlMQi1pLTRBZUNKVzJzcnBCYUtqekFhZ0MyZC1tY1RHa0RqMWlTZ3A4SHFFWXN0T2F6N09tQ2VZcDlybTZydVdqdFNwZUxhd2dRcXQ2eW1KTG41SmhaTWEzX3pkTUtNVVp6YjdwSG5vU1hxVWJ0SGVjaGVuWWx4aDdDckRzMTRwTmJDNVZOaVRLQkltMFhQM2laWEtyeHotMDZIYXBQUVd5ZE8tcVVqZ1VZS0VyZnJhazlCR0V6VFZGb0RFbDJ6TGZtYUh2ZUYtSjFnWFAtcHBkcjVkQVpZOGJzdjR6WDlKNTI0Q1V3cm9CRFQwd0FTR2l6bHkyU2o1d0RXa0J1VzUzVUJfYU1MWUtYWk1vX2h4elhLdFVEWHVkb3hsNi02cFlRZFN3eFBZWWV6bnN5dC1hUEp5NERZTmZWemZJVkZrd25ILWh6d0Y5RThxajhkcEd4bjhjYmJfMlhQaFh6cU54ejVfd3RKYXdtWDlQVHQ3V2wxSmdiN2p6d1Z5cmZmZzVBT284RWxpOUZRRDBiRnJJRjQ2T1hld0xwVHBVRVFuZlNMbnhqbjVVbzQyU2Nib3dtbXpxNUdHazdUbTNnX1VoOUl5UlVZaTJLU2NvOW1QeFk3UTZrVU42YWJkam1wLUhFaW5YaDViNkM3ajdHWlJNYmZDWkphYjFKeHk5QThGT1B0ZjFTa0s2VDh0V0IwZVpsaVdRSmdjdURETkYya1k2ZQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 14:41:00 GMT",
-        "discovered": "2026-09-27T15:03:47.413387+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "موعد مباراة الزمالك وبينيروس البرازيلي في كأس العالم للأندية لكرة اليد يلاكورة",
-        "player": "",
-        "content_hash": "d5673bd1bfecc73708c6ee1e1507c5ddd70c65ecd98a3a3a261b67c067f85510",
         "sent": 0,
         "section": "sports"
       }
