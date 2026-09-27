@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T17:38:22.303089+00:00",
-  "total": 137,
+  "updated": "2026-09-27T17:48:29.876471+00:00",
+  "total": 138,
   "sections": {
     "morocco": [
       {
@@ -16,6 +16,22 @@
         "summary": "من نيويورك.. غينيا بيساو تجدد دعمها الثابت للوحدة الترابية ومغربية الصحراء Febrayer",
         "player": "",
         "content_hash": "ca890bfcc5a123c521417460141efefdf4c449c1f451058574864905ea146f5e",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 6003,
+        "title": "الاشتباه في التورط في الوساطة القضائية يُحيل شخصا بمراكش على العدالة - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QUTNaUFZhdUVialRjSkx0ZzNfWVZ0R1J4SEthdEI0SU45S200VFJ4YWpmTkdaZEtNM2pMbzZCQ3oxemE3N3B1YmdTWnVISzBWc211Mk96eHpRbk9KQ1ZjR25zOTBHdw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Sun, 27 Sep 2026 16:16:09 GMT",
+        "discovered": "2026-09-27T17:48:04.649198+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الاشتباه في التورط في الوساطة القضائية يُحيل شخصا بمراكش على العدالة Le 360 Arabe",
+        "player": "",
+        "content_hash": "bc9b5f3cf4f890045f87bc71b4649bc145bd869942f59af3fdcbcbcf980c39d6",
         "sent": 0,
         "section": "morocco"
       },
@@ -485,6 +501,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 6006,
+        "title": "الروائي الفلسطيني إبراهيم نصر الله يفوز بجائزة نيوستاد العالمية للآداب 2026 - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPdXZxMDRQU2FEcmFScVFodkhyLWNhNlAwMHVkZHQ2V3h5eGpmaWltTnVZdDBqVWJTT1VKOUkzeG1laFdrYWJmdU90QzJ0NjlLMnFtNlZFZzVDQ0xscDlFelJFTl9ZZGdnNnRJWWFhN0k1RUFJRWtvU1RfR0s1V3JBRmVFS2FaVGllZWItUkpDRmVkQVhfNzFRcE9fSWhnQ2tweEo1d2NEQWl4V2JWOGcxdHEwcnhQeTNTZXpTekU4NUtKcmF1SmNnamZuQ1FIaGd0OHZqcU1ERGJGbjR6YjlNem5ZclNhcmJlOHRSUG9jbDZtd1d4ckUxcnFubWdPRTRLVnpBNGx3RTJxVjJBWGJoQ0REMkZfT1VMb21SZlFOVzNxN1ctZ2M0UHpHVTZfWUduSEhRbkZFMHJWVlU2b2pKbVdmeFEyZw?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 17:24:37 GMT",
+        "discovered": "2026-09-27T17:48:25.060005+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الروائي الفلسطيني إبراهيم نصر الله يفوز بجائزة نيوستاد العالمية للآداب 2026 القدس العربي",
+        "player": "",
+        "content_hash": "f80ae78747220b953232bd1b2171f6b25c4ab217d0f87b01228679e22849d12e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6005,
+        "title": "كأس العالم للأندية لكرة اليد.. الأهلي 15-8 برقان الكويتي.. نهاية الشوط الأول - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxOQW9mcWw3SXRXSmJNOWlHM2Rib1FUdm0tVzdJak5XMHNIX29BTDV2TlgycDBKRGU1QkpfbkRCUXA4a2ZWY1FGcWFKbVRaSV93UnktYk9ST2YwYS1NdFFYc0ZqaHJBeUJseDVJbDNtZUFWaWREWktJSHJSZzl3eVZTdEVyejNlalF0YUtMbmNNN0hxeXVBNXlEVms1ZFFHeWdXcjJnMEd2SlItaW9pdWhwbzBEUm12OUV4WUhmWDVhbXZYWWswRmJxSnh3QnZicFA0eHhPOHlMLURkclFIazBJbm1lc0JhcmpxV2M0OHJIbnFVdGNXNEFydnNMSUQ5Y1JNSVFSTkoyOGtON3NHVVBkTEd6MEw0SlRCWjZuVnVCVHZHR2U0eWdZLWthcXo4U0dyYTNHZnFNWV9Hb2NaLUFQeFFZbDRjSGZxdXg3UzU5SktfcWhLZ3k3cGtiTmc5VnZ0cm9YcHdBTDF6MHRxSHNIbGRxNjVmNlJqcUNLaS0zTGNKTjJsRkJ3SXNudEl0aU1RY2FKV3VzSlhaajNPWEl3b3F5dXZ3eUsxNHloZVVwT21VaHAyZU54VmQ1TTJ5Ymt5VTJRckR5OHNudFZJM0hJSVNCaEsxUUdMazVGcXdPSy01azVVWU11NGtiem14Rmt0WVRmazNtcGpvVVZoWnk4WHdhamVsVE9zRVZYVmdRTnJIWGlWNTVLMWxOYjBCb0VyZTBnYzg1V0tvVk1qUndpTkRBM2w3Y1B3NXpjSzZwSlJrOU9xVlJERXVwY2JMUdIB0wRBVV95cUxNX2o2Ym9kOXlKUkdKX00zZkV0ekNNN0RlWjR3cTJVeDl5Y05CTk16dWlZbnJKMGJSclBIVmtFOEVTVm1EUzA1RW8zM3A2U3BBUUo4NE0zZEdJSTQ5TXBaYURsaWlGWlg3dGtfU3dFTGNnVXlmSEtlb2pscVVkN2NPc0pMdUVDMWktd25PRUwyX1VJcy11WnRMTHI5UDlqMzFBdnBLdmljd0c2WmNjZy1hbUJzVzZvbm04M2U3VHNKVnNPaUppZUlLUE9wdXgtenFQMEdkVDNGRFNobzVkSXpEWlZabzI4clB5UGJhMW5maTdlc2thang5YlNzQmMxWlhleFJMWi12cEdmNzZSZ0xKaW1pNnZadVdPSFR4eDZJYzNjdGdxdW54NUpMR0xSbDRFM19jdi0tX2FGQUx3RE1IcTdXcE8xZEZIYXFvMER3emFUZnJjejR3VzgxQXBNTFRiZnJZd3NoUzlGTzA1bVE5OFdkbzdUVjdiZmd1NFBXUldVSnp3ckZpTXNnbWdRQmVzdXhPUEwzZVdLM0xXMjFaNm1leWV4ZlVzclRZUll0OTktZHZVQ1V1dUVKV3JxbWdfc0tHV1BfTUdvalI0MWxPMXNwVXFFSGRvcmVuYmhoZ3dSTmFPS3R3TnhtV1ppSjJ2M2ViM3QyVnpheHljVTZjVWdwdTAyS2htTC1fLUVmczFGTVRrXzZVMDJTbzNzMHJ6ZVdNOWlncG1fLU1yb251THhuMmhEU3l4VUFQRmNGTVU3U0JxRDJLNzY2WWxKMXFfdjZv?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 16:59:00 GMT",
+        "discovered": "2026-09-27T17:48:15.237360+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كأس العالم للأندية لكرة اليد.. الأهلي 15-8 برقان الكويتي.. نهاية الشوط الأول يلاكورة",
+        "player": "",
+        "content_hash": "ceb902d70167f18d5d7f472dfbf09020ebc6ff9c94895ae77286d2ab725e33b9",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5999,
         "title": "كأس العالم للأندية لكرة اليد.. الأهلي 7-4 برقان الكويتي.. تقدم أحمر - يلاكورة",
@@ -1250,38 +1298,6 @@
         "summary": "فرنانديز تفوز على غيبسون وتحرز لقب «دورة سنغافورة» في التنس الشرق الأوسط",
         "player": "",
         "content_hash": "d30bfe4ff68404360f30a16ca533fafef8913b6534a173f20053dc49d85d92b4",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6002,
-        "title": "الهزيمة الأولى.. الزمالك يخسر أمام برشلونة في بطولة العالم للأندية لكرة اليد - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxNTE95V2kza2RXazVPdUxwQmUyeXRWZmd0cnpFT1ZsNDIyZVVseUh3Y19xX0t1NWNybW1QQ0FXMzZFYzk1U0RZOHA3bmplRURqNmVpcFBlMDFaanFhcWU1WjFpUzJScU5UZ2RiYThGNUVweTdBVXVHQUx6Mml0TUZnMGFyYjRQZGlhT19SVjdfZ28tTU01N2Q0NEZkdHlMR2JibnJBV2pOZnJWUWVLQlRoUlBlZlBGRlk5d013ZWNOVnhsUG0xS0gzWG5ISFFYcHkxZ3hxMnNQeHRHWUNQdGJwaE9sRTlQY0hsQ1A3THJIS1k4OEVDaklMcHpwMnBfQ0tmOFBhdV9LT0hOakNfdHJhQU1sdm14MEpvZnNDc1E2RGk3NTVJQkVCTWhwT0czamJxS1BNT0VvM2Q5a3NVZ250b2FGdDNKS2l1YmY0cktLSHRmZGxkU0lkNVNUblRlWVE5NnZpamNrYnZlVHNkajlialVWOWZCV3NCQk0xakprZGROVlB1dGZTUGJHbVVKSUNCV3BFTnBMcGU1Z0toUndQQUVFeDFaYkxCTkRCUDkyc3NFSVhWdUVncktnNjlHckpocjB6cFB1NTFjTVNmQ2V3MkxlYlhTMHhIS083ODR6eWRrWndUczl3WEQxUnRQWUtMS1RsNndET0ZJdDRNOXpteGN6MDJ0NGw2ZkRPTTlidGN3ME0zRk9MZVctTUlVb1ZtVFE1TFRpRmVZd2RFNFhnaWt2QTZoRXcxYkhVRGhfdmtoaTJNNm5OcHJnMFpSc1FmWVVyU1dsV0ptdnNpT0RiaHFobUJtT29wYjVFV1lrRDhwcXVmT1JxV9IB_gRBVV95cUxPSmJaSmFmUEFUUzRTazFJcUpTSVFtNEZHQzdSVTc3b254Ym9EVmVkLVpUWWY2LUhRcUdSMUNFMFlVU1N6R2EwelZJMXhtb3JaWmY1RWx0bUljc2thWDVldTdDVV9iYklVLXB1ZXY4QmRUUFhNSmdENTJ6MTIxQmxqWUQ2ZVAtQTFfdXpEa1dzUlE4WEtJVFBFWFpMNVA0emtOUG0yUHNfeFJmd0x6TDRJVzhSN09WUm95cjRUb3c5dm51RVFETkV3aXY0dDVMV2hNd0g1a3hScDJTb2x5VHVPWXZaTGVVOWx3NGt1bWdVbDFQN2tTUTJxM28tVlQ3NUw2NGRxVHJZSzVMQUstOFBGX0UtcmRpZkZMX2pvd2xkanRmc1gwbWk1UjRoa0FwWC10cjRhLTItWUQyM0lCUlNUazl6NFgwdUR1Y3NEU1ZYQnBCTjkzQ0Z4OHFESUFaOTdkbXkyOWNjV3ZyOEV1ZVZDcXFKYVpVbkpFY3JRN1drSzBrZXVCcFhuckpuQUZpdFNiV1pxX0ZNX2JtSW5lVHJ2VHBvMzUxRDh1Tm5QM2lFQndUSC16SlVGNVhRaXdiamM0Y3k1NlhzQmp1SkdIUXhjUmhzQUNZNVdXMmRVdEhhemFZQ1hYYU9sdERPdENtckxyMlNQbHhTd2ZVbWNiVUY5Z3A4UVVFZVVqZkwyb0FmSFd5c19Sbml5cmx1c0pSdU9adG9kMTJQajIxTkhtb2tWVEdMbkNaRXdxeHl0aXB1enYwSVdiRVFTY21LRnFOaWVhWTFBY2J6WlI1U01KV0V3U3hkcEZ5VDU5bUI2bG5WeWtvNGNjb3FoQXRvRDFiUQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 12:33:00 GMT",
-        "discovered": "2026-09-27T17:38:05.711257+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الهزيمة الأولى.. الزمالك يخسر أمام برشلونة في بطولة العالم للأندية لكرة اليد يلاكورة",
-        "player": "",
-        "content_hash": "90e2a65884c3d53c714afb3e248760676343dff8d1c7a256826553a7488a3a25",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5925,
-        "title": "بطولة العالم للأندية لكرة اليد.. برشلونة 27-18 الزمالك.. الشوط الثاني - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxQRnpsOUVDRGk1WGJqOEJmQ0lXY2FPOXRTV1A1RVVfN0hDYjlhbGg2WkF3aHdtSGdBa1c4RWpMVG1LMm5pbF85bUhjcHJKR0EwcHA1MFEtb1U2ay1oQWdqTjFiRjJ3XzRSaXZ4Yk9TUUZEVjZoZ0Q0WV9HUlNQLUJtampsU1JTS084M0ZnSWFwYnlsbWxLdFIxWVpLc3R4SnhUbW1BWWxBVUwxRk9iUUxoajZlZEtQalg0NkRqTWtxRzBDd3RudV9Ta28zTjJfblpGVWpnUGczVzNPSVE1bjBqa1NjX1J4Ry04dHNGaV9JUXNpVlpKRVhBellXcGlWOXFPU09XTEljZ2EzdmVxMVdVbjVPajZOVXVncjlNbDMwVmpKYWVCazRsNlB4a05vTDhCUDkzUTZiZ3hudUlzR29JZjNaTWxhTEM2a1ZJX3lkM2FPbUxSVm5LQnZjNU4zcDNNQVNycGttUTlpd3RidkRCd2pBNVpTUDJJdWpWaFBLd1YwMVFnTWs2YTNqM1pPTXMtTGVJVUVxXy1jeEJsWmNKRkdwWEdEY3NBb2VyMFJBa1JzakhIakJPNjFDd1dHSjRvNE5PUzhIS2h5WFBjckZkaGNvaGRTZjQxY0RiN0IySHg2NWV5Y2JPTmxCRFZmcnV5dm5uMm50YmFZSkJoSG5FcDNXLTJfZ0g5cXJTeXJsTdIBogRBVV95cUxPWlI2VVlVclpnQzV3NTJ4YVloeUdzZF9uazNwVlRMX3BOTWo1TF9LRjYtbFRwa19wMjNPekJzR2lETFlxYzNlcUVJaVRZVDVpVExwX1FTS0VmMmVxbmVvZXJZenJVMTFqcXU4Um83VE1qNmdKSFRIdnRjaVcwTWY4ak00ekN5Z05wNUV6clN6d2o2a2lSUkV2Zk1JRDRVZTBYZFgyMjFSN0x0Y21oZlFQSEpjMUN2dC11RElBRlZ3blZaS2s1Z3BpVFJyLVpsb2QyeDN5U1JkdVFzTDdTUXJHT1NPQ2NEb2VhM0JYODBQaGFoLUU0OEdQTGhvcExtUGp6Vldib1VRX1c3MGpOU2R6enFlZFg5b0ZVNkVwWE52ZkU3UTU5akpKM0lSRlkyb2VOeDQwNzNlSWRBam44Rm1HeVZWdzBPejYyWVFGcWh5OGR3d25nTkVIdE10dlBPVzJFOTVLYmpLYld5N2RuTGZZSTU4MXRRSUdjNXROeF9pMlVMWHZRajdxN0ZZMF8tc3Fkcl9tal9mZW9feENpOHRZUjlDYzhuY2p0cno0bk1qSGJ5Q0NaSkk4UU04azIyLWFtb0dOZk5xOUk0Z1Ztd1pXTk9yYWtVSFlfZmp0S3Y5ZTNTQVZkODQ4ZmgtZGpmYlBSNndWLWRXdXU4SUdVZ0x1bU9nUTE1emNpTGk4Z3pYdms0eDFHS3RRREI4TDI2V0tiWmc?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 12:33:00 GMT",
-        "discovered": "2026-09-27T13:40:49.135989+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بطولة العالم للأندية لكرة اليد.. برشلونة 27-18 الزمالك.. الشوط الثاني يلاكورة",
-        "player": "",
-        "content_hash": "5bbe5a079fa8ffefb145746979e4d4fed7c5090f717eb40ce4757b01dbf61843",
         "sent": 0,
         "section": "sports"
       }
