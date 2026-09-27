@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T21:45:33.868835+00:00",
+  "updated": "2026-09-27T21:54:46.143897+00:00",
   "total": 135,
   "sections": {
     "morocco": [
@@ -469,6 +469,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 6091,
+        "title": "فيديوهات | ملخص فوز قطر على اليمن 1-0 (خليجي 27) - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxObVZ1V1RnWHp6ZlFpX19tY091WWhrUXJZblkwaDVycEdqbkQ4cG1ocEV0VHhkUXZqanJKZHFGaDJuN0ZKTTY5X19hSm5qQVRSM2pTOEg1Q2FsME9jYjI3ajFlNDZyUmt2WE95eTYwQWlXVzFFcV83eTFEenYwNkp2MHlXdEdFODE0QWtTRXROY0lWYTZ2RkI1Z0R4cDVta3J1QU1mWVZGQjNzdWo2ZF9OdG85MzBWMEVCUzRnMEZwYWVXbzFfOWFkYWEtcWNQYldIdzVMUHVjb29Selo1QmxlNDB3VXJWbGRJdEdBNW9YSjVVN204Y1RpRGhwT3FhcnpvbW9IMXdLZ015SFZIalppRFJ6NVdYQQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 21:44:00 GMT",
+        "discovered": "2026-09-27T21:54:30.270599+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديوهات | ملخص فوز قطر على اليمن 1-0 (خليجي 27) FilGoal",
+        "player": "",
+        "content_hash": "2a2df9416a67da38508e40300f69e243dd1aa791923050810a64d64c77e2277a",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 6086,
         "title": "مدرب البحرين: أنا حزين لأنني لن أكون في النهائي - الشرق الأوسط",
@@ -950,6 +966,22 @@
         "section": "sports"
       },
       {
+        "id": 6092,
+        "title": "لاعب | ميكس ميردينك - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JQ2stYXBFcnQ4ZGxaV2NyNXlJNkVpSVIzNXdkX2RmOTZETEVXMDNyQUZoU3FaNG1BWlNDU3FmX0RUMHctUkVYWFV1OHBVQU94?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 18:28:07 GMT",
+        "discovered": "2026-09-27T21:54:30.294489+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "b08d85e3d2929c1f8b36c6d4cf627d2c75b4ad86388755515d72344655d92d86",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 6029,
         "title": "هالاند أساسيًا ورونالدو بديلاً.. تشكيل النرويج والبرتغال في دوري الأمم الأوروبية - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMijwVBVV95cUxNaFpHTEEwRjZreDFRTUpjSUNEVU1zZWoxa2lXVmxqbzlUdXpyRnlKaTZYUUFQNkt5UEM3WDNFSWl6a283M0NhMGxDYWVmcGMzeXFPRlQ0YVV4OWVCX3lyLWtjLUZKX1JaY050c2R5QWQ4Rlg5YjJWNUtpZUNnakNLaFA2M1B0ckZqZnlPcVY0UzdUeFBGcktDSGlNVWVRaTN0T0YtME1HZDN0QXp1RGZoYjhsUjFsRUVnSFZFZ1daSlg5NWtNMVNHZnlZS2FvbUpWMGlLTG5lWU1lM1ZqVXZhNzkwenRXVG9jZlJJWFJnRWx3LUUycFJCRnJYSUhCdjNqVkNXbjlDWl9TM1FzaEoxME4zRTlYMDlUSExJbThxTVhiTTRrenVqYlhacy1lZ3htU3dJeEExRnktclJuSlI5VnJ5WWJCUGxIdkdRWjg0Tks4S2pIeVFjUmM3QmVzbVlIREM3b3hFNnVpOTJFVVlHMDBWR1dHc2tEVm1laXA4cklKZWxNZmZhMzI3dk1seXZITGFzRElmd3hOY05EQ3VWeHotV29GempPdDZHUS1KOHlkaWl5SE9hbWJXTFlBNkF5QzRGVS05QkgxMkU4UE9JaEpnN0lLUkRYZHh1UXIxMk9zLVh4cHdhMWZyY0duNzNWbnpRc0lhdlJmalJDbVJfbndZa0ZJWnhQUkNLRHRjNVVjUDJfdTVWakFsZ1VFbWhUNTlxZ0YzcGJOUjBpdEFONEhQYTlsLUMxdlJsUENqMVc5Rl9YUkd6WXJ0Y050eXRISnhPek5jbGY5NFhQV3hVZEtTbDlmbnQ2d0tBZmFwUEYwZVViSmVBWmt6Q3dSNkNfd2NQU3lpcWhBSnlDVDJz0gGUBUFVX3lxTE80LTVORVZtTFlmVkg5djlUc2dFQ2FYNTlDNGFrV0dQRVM1Y1JpbDJ6MXNtMDJMc0J0bWZ0U2JyeVVXMTM4dVJSMlluMW9EQ1l5OXplcVNDUlgyV2tLLU1IdzE3NVhlcjBCT1BIZ3pkZlczSDFTamJRaU82ZjZlUEVDLUcweGpSLUhZbHJldDJGOGxERS1pZGIzai1XZjlXQWtLeFdyU1hvMy03UGp3N0c0eURtYVZ6ZVNNRGJZWUtFbnNKcm9EZ2hlZGlTQjVxUDJILXlISFI3bXM3RjI5MHJfeExJNk1mdHYtX1VxWU5LNUx6OVpBMTdDZnpkRW1zbjJfQ3JScWZVZnVlUlFrd01XODRkR0FUZnlnTVF2ODZzRURFVmZmbW5KOENmMzJkUjA0VGJHS0FYSkFHRlppWUswR0ZLMzBleFhsN01Xb0xlZW5KWUlLbU14VTIzcmtvN09kMktBaDhEb0wwV1ZlMEZwWlI4U05NRkpmS2hwOU9ScGRYVUctZjFKbVJZMXRzOUtELXgxQXg4ZzRwVTFZYVlkRnIzVTFSSFdzUmdUeG1RYV9SbGVJdTFMVnhIQmdIUjFoUl9Rc1hVZHRiTkpXeTF2cjhVWjRDM3Z5eUlfdGdtWktuNTJ0MDN6U0wwdUZpaDN1TjVscnRKRS1YOXZOVnpjUXJQaFNmLVNwOFZTTTRKSWdZN3lBUFVyYzFxNm16bUp0ZmRuMkhtdEhkOEtKYkEzLXlGMW5yQ3ZSS1pSd1lEeUxjdFNUQjlsZ01jYjBWM3NWa1BpMXd0MDh3NFh4VkpvN3ZoUkZwV3lNVlZqYlJ3MUFkcTR0bHdBd05tNkR6YVgwN2FnZW5pZVU1WGVMVkNzMFdQRA?oc=5",
@@ -1234,38 +1266,6 @@
         "summary": "مباشر كأس العالم لكرة اليد – الأهلي (10)-(5) برقان الكويتي.. تقدم أحمر filgoal.com",
         "player": "",
         "content_hash": "514e2bae2f02b77df380ad4fdc342333b8f206737f6062a97e3c05f8c7d47e0e",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6000,
-        "title": "مباشر كأس العالم لكرة اليد – الأهلي (10)-(5) برقان الكويتي.. تقدم أحمر - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPendnemo3YWtfU2tYNVVfVzhEdTZQYmwxMG1lS1ZOWFVHRm5UbEtLbF9fWW5RUUpaSTRFbkxrS3lNaXR6RGJCTkhkbjk5cHIyTVZuUUx4LTBFc1RQbUxVUkJfMW9fQkFUOHdKWk84bjdKaHJpTnVQNS03QXk1Qm9Jd1NVdUdFMzdCVnh6bjU5dkZPVmhSaEthLWJWRnh5dE8xZW5JelQyeTFYeWxWNVNpXzVZMEF5VXk2Qnc0Q3MweGZNbGR5WlNqYXRPUUlpUEJRZkVhRC1qN1ZtN2dKcXhjMmJlLW5jLVJnS0lMWFhYNUJNbkkyWDhsME8wWmx6RU5UblBsV3dva3I0bHhaeDMtM2NrTlBIa21DcFFSOXJudDl6d1BIVTdNYk1Zd2oyRHYxUldQN1hiWWszN3MxWmdreVJhZ3lSY002cFV1RGJPcl9Da2dWSHRBN2k2VW5SR2xTRXFGUzN6UU1BbjU0d0p0aTZLVnY5dl85YXJYRXlsWWJ3SVVvemhuLWZoSmlvLTZhZENCM19ub0I1SXBmdUtsdnBhTGNCX3NNX2xQNE45ZFh3X255OUdaR3E2RUNxbFdxR19IbzZ5SEpTY3lORnBCbEhaR1Z1dVdtVU81NDVxY1RPNFhU0gHqA0FVX3lxTFB2dl9pNG9ZUV9yNUZWTnRIZ2NGeWVsR0tnbkRUbVowcF93ZzRWUlZidnpIc2JtUndqU0ZJQWRZU0FSSVNtT1hmdkhKRWREa0tlRWZKVkdxTVBSbTQ2eVYwdUR4NURjLUZMQkZzU0EzRmNISmdYUTZkaFF2LUd0Yi1ULXpqVEJEcmpCcHRBWGlOUXFJWFVFYmxFRzBLdWNRbnJoRHFNUENZMzZZcGNBVG1VbjAtN2ZpWFZyYkdqWm92dzhLTUJBRnVnbjRtOS1JRnFkNVotX2h2RnUwSjkxTzFTNUFRN1c4eGN4Y2VvYnVlelgtMm83LW1MY3ZoWjk5NGY5VmViYzg3SUg1SjduMHRuNkhZUjByR0J6M1hCTDRMMkNUV2pyVm9zUDB0ODU4R1o5Q2RYclRHWGtkT0tyWGYtYVhKZ1ZmTGRrelY4QWo2UDJINUk3MWp2WFpVTWoyQjhaM0plQXVwVlBjT2J0US1YUmk5UDBodUhxSGpUdEpQRldrYUN4VmFneXB4UTVLYlJCMjdQMkZKRkdHWHBwd01CWjJFUnFRVmZzSzNyQ0hkTEV3Z0F3ZUFmd3F3d3ZEUGRVUXpEWEhJZ3RxeDdONTFGVU50d0lVV0xZWTEyYXdhaDhUUmJkSnU2Smc?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 16:52:00 GMT",
-        "discovered": "2026-09-27T17:25:42.584830+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباشر كأس العالم لكرة اليد – الأهلي (10)-(5) برقان الكويتي.. تقدم أحمر FilGoal",
-        "player": "",
-        "content_hash": "bdc013ae34eb28bcbf284299507ce911cb8eeae2fc5b8bd91dbe15ab42403cea",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6059,
-        "title": "خبر في الجول – عموتة يجهز بدلاء الأهلي أمام بترول أسيوط في كأس العاصمة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxNblFnLW9JZ3NQSlgyV3FwZVFaMGpjZ2hxWHQzZm10WlJCMDVUbXZ4T0Z0RkxLWjFXOFIyTzdmUHVPTTdLYXpadUM5cGFyd0dfNVgyMl9HdEZTY081Q2x2ekhORkpKX0JDRHJSZWtVSFQwcGxUOUE5RFhTeTlENHJpS1NHTUIxUEd3YXZvd0pCcXNrVGJ3MUVsbVZ6U256M1VmOWZ5bGIwNWwtbXRZNGtLSFFXYUp5X1YtZHBsaFZ6SzNhZ0lNU3FuSDVUZ2JKWUIzaG5vZjZva1VyUVZOS2tNTEhIVF9wVUVrRFN4cFZndVJWczVKRG0xemFQWUUyZi04YVFRQ2owbWQ4aW0zbW9CQXF0VmZ5SEFCRVp0Rk5TYnZaLW9yYWtxUXdlNUliNldIQmQ4SkNSLTNXTVhqQzh2VDQzblFvTXJITzg1ZDJSNFN1WElJN29udmFIdm43anZhZzkyYldzakM5WXpPSWEyMkM4b2JRXzE1WW1jWTFndTNRd2hNeW1mVWE3cmd0cVlZaWVCMnRCZXhDcnd2TUUtWXVOYzJXU0ZzQ2EzYTNDdmwwTTB5ZDFrVGtkSUdKVVluMzVqcURaSnNBSUtzZG9FY3RjZmx6TV9HOG9mVjZ0ckhZV0k0Tkc1SG04S25URUkxaDdUMjhwbG5hYnoxYVVJYkpQTVlhRGpvY3pzdTdhMzlGTWMyWm9Xcy1HaVZXVzNBV0HSAacEQVVfeXFMTVdPcEVmMFJlVHFGZkN6MExrUWE2S2NoRVg2aXlia1J4Q0RiSkJZa0x2M3RCSWlkY0ZybGMzQjB4TGpFSV81V0pmZFZZaTB0ZEhaRGNJTmtDYWpKY2pRSkZ4WlU1SktvWExVSGR3bmRwRkhMS1kxLUx2bTRScVctTkdQTE1IN3Y2TW9tNm9oZ1NISWc2YTlva1NjQ19nTUkzQXlnZWNmTjY0OFI4UkdYUm9rcmM1eXhMWF84YWtDQnd5V0M4OUM1VG5hR3Jjell5U085eDNoNEI3WVJtVnFQSk05YjhPNEZDcEp3b24tenRoNjlCQ3luZU1MbEkxVGFYUlZsVk56emRsRzBjWDJXOXdqRTJibHZRMHRkOTBIRnMyOXB3UGZid3M4UGhuaDI5NlpFUzEyNXRKVHVGQkhaQUx4WEN1VWJtTWtOZEZMaEFKN3h4NUlLVUxMUmJDNzNSWjN2dzZleWpfRWJ4TjJ6YlEzSDQyakpOR0o3M1pnaEplY2Z2NFp2bjllWGx1QVJCMUxLeTZUWXBrLWdvV2JVZ0JtakdHNy1rV1gxMG54N21POW9RRDhqY2Z4TEh2UDFLYXJLNXN6TTdvT0RLS0hqXzhVN2FKcVA2ODUyNEdJSUpDZUpLQVVDT0t1SG91OEhHSmpSUF9Bd0ttN0tyZ09LcWpvMUd1R0sySG9DZWx2R2JBYTgyQ1VEdzJ5aU5WTGI1UmdtWGdDeWc?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 16:45:00 GMT",
-        "discovered": "2026-09-27T20:21:10.604494+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "خبر في الجول – عموتة يجهز بدلاء الأهلي أمام بترول أسيوط في كأس العاصمة FilGoal",
-        "player": "",
-        "content_hash": "cbe3b8990e45a4e9460e58864a2daf1aca53fd44221f298ef2154c1611129700",
         "sent": 0,
         "section": "sports"
       }
