@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T05:54:32.162604+00:00",
-  "total": 147,
+  "updated": "2026-09-27T06:07:26.699157+00:00",
+  "total": 148,
   "sections": {
     "morocco": [
       {
@@ -2059,6 +2059,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 5851,
+        "title": "الحية: حماس عرضت الوساطة بين المتنازعين في اليمن ونأمل قبول المبادرة - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPejIwUm9IeDltNGN6OUV5TW5uc19MR3k0LTVteUlJTmNPQ3hYbFNkZTc5NlVfV0VFQmpTelZCVnB3bUdDZnNza3E3NmdNckktUFZrbkF0LTFyVWpDSUJnWlE5d2hMZGFObU9EYUJSR1d2cUktRHpyd2RCcVFYY0RJQ0xmUEIzLVNNVGhuYmphYUJGQWFUbnVtaWRZb1p2bEZJb3RyaTdaVGt1aXpNcThCenNfcXBNRWo3UWVrcXU0ZVg2cWZmT1dSamlKajZBcl9lcXZnOHN1b1RkVDRwLUdJRlZKVmdGUHQ4Tms1RDlORWx3dlRpVGVmVGVyWDg2SUJ6SVVCWnUtNVdmWU9iQTZJZHAyWEhtV2tTTGVFdURfY1YycFU4ZVlpYXMtcXNteGhnMFRZbk95R21ETE01aTJPUVhpQ0pHUQ?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 05:42:59 GMT",
+        "discovered": "2026-09-27T06:07:20.238153+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "الحية: حماس عرضت الوساطة بين المتنازعين في اليمن ونأمل قبول المبادرة القدس العربي",
+        "player": "",
+        "content_hash": "8b75c9403b896d5672bb5de7916c79013718f06c7bbf333e26206cfaf2ac2ad9",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 5843,
         "title": "وزير الخارجية العماني: منطقتنا شهدت حربا كان يمكن تجنبها - القدس العربي",
