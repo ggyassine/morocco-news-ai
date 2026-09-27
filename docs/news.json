@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T08:34:36.123162+00:00",
-  "total": 143,
+  "updated": "2026-09-27T08:47:40.195901+00:00",
+  "total": 142,
   "sections": {
     "morocco": [
       {
@@ -501,6 +501,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 5866,
+        "title": "دي لا فوينتي يكشف سر سلسلة اللاهزيمة لمنتخب إسبانيا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQeDBWSk84WVkwM1pHY2JQZk5YYmVVdTl5dUdDTlVvSVZRVkJRUlFLd2ZVcEw0Yi1icXRsaUxTdklTRm1GWWR3ZDhubVVDUkoxZm0wWF96VmxXT3NaelhwRW1IVlpoLThTZEJEZ3JDMEJLZW5GRUNhaXJzNGhXUnR3WEdkRkRDZl9NZlZOOVlaOExhR1hOZERMREZfLVdMbldWNTBzLXM0aHN4RkRYTVJkREdEeF8zMUM3UFNHRE5ieG5CVjRhRXVvLTJaZHBYVEF4NUdYVlFfZHBieGxxcVQwWS00Zjl2YVB5VlZ0b0RQenhUckpEclVvV09xLVJLNFppQkJGNHNWX25sTzdEckNiQlVPQ3hxdmgwT3pSUzdBcjk4Wkc3dWRvRE9ZMGpseFRDcFNFS2ZjSTZMNmRKeC1SLXNxMFZGdlN4RE92YnlsTjlpMUUzU3ZqQ1pUWnc1SzJHdW1DZFBLMU03QzZvWHA5WFZUaFVLM2MyZW1JVjVwX3ZIdnFwNHVORG9SNnhRUDNMQ0pzWFlQa0R3V2hWbGZOMG5LaVg3SmU5NExmMWZzcG10b3lM0gG6A0FVX3lxTE9xeWsxb21kWC1Ec2VlZHVVNEE4ZjktMzNidHA2blBnbUY3RDdiTS1oMUR3UHR4aUJGTno1OHhrRUFKblBSZmM4N3lsX2RaYW1kTjlXdEd1Q0hJb1BCYUtlZFJndGk1SVE3blJBaVRNNWNKVjlqbWFhY0Q4ejNGSWRXMEF2RFUteEctQjMyOFhpbEZjc3duSlFWY0lnaktURUVVNmFUTmpSdURpOERFMko5YnZ1TmlrXzZPX3dBaGFsbzBBNkZkQ0N6NjlIYkw2OGdiM1RIaTVNbEFYdW83NVRPZnRwQWNQSktCd1RBVjJlYmljSkFCSDlQaDFoU0Z5ZG1mMVQxc0J6YkJlWndQY3BNdFYydmdVcWJIb3FvR3JYR0JOeldjZDVyTmN2MWJnYXB4VDJsWjFTY0JVdllTUmYwWGthVDRJZkF0U3FLUmhmblBBSVdwVjZYY0FvMVFNaG0wbVNkTXB5LWFKVWZ2ZzlvUG1DdWpLVDhma2JBS05YM0dhaU1xb3FOelpHOXd4SGkySGxkLUxkRTJVUG9rOFNtb2p1eWZMVVJha0pfU3dyNHRySlFyWVY3RXc?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 08:40:00 GMT",
+        "discovered": "2026-09-27T08:47:25.847167+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "دي لا فوينتي يكشف سر سلسلة اللاهزيمة لمنتخب إسبانيا FilGoal",
+        "player": "",
+        "content_hash": "b4a2aa148d046c8b9f9c748a8d96b1ca111eddb51cdd2743da4f1ffc1a224ce8",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5864,
         "title": "سبورت: برشلونة يشعر بالقلق من مشاركة حمزة عبد الكريم في مباراة جنوب السودان - يلاكورة",
@@ -1284,22 +1300,6 @@
         "content_hash": "01b6335c8291815eaeb78c09598ff35e55dd7077baa3ebae2f419dfada9193d1",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 5817,
-        "title": "كأس الخليج - السعودية أول المتأهلين لنصف النهائي بثلاثية في عمان - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQLWRsSmxnRF9yUl9TZmZ4dW1aTnVzZ010T0RRZFRCMjZ4TDM2VklGTGhfNVZOeDhfWU8yb3E3cEw2VTBIaG1kdjlaU0cxN1d5aUExLTRrYVhSblBoMVRlbzhiMnFyeFc2Z1VMUkFjRXRlUFJZR21NVEtTR3kweG9pU0EwUExnZ0hyeklrcWJNaWhRdlJlZnV6TTFSc2hIalR0MmVDLS00WmdYdkJUM2tndXFBcDZ2Y1FtVHdMWlZEYmFFNFJFcnp2Y2FMTW5IdUVveTlnSWdzN0dtakhoOERyRnBtZ1NBQTBVdkVEVlo4b2ZIaHU3Rl84dG1fRWctSEdpSDR6Wmp3eG5vcnVuU0JtS2ljOEt5aE9SZndpaFRzQ1c2WTZqOFJraXJLcEsxNnItbnBEMmRucjgyMEI5YWo3ZXQ2S3I4YkZiSkh0QThmWlM2b2hBbHRfdUxpN0JXOGZ3TEp3eTJ1YmU5RHpVUkVENXBUVXp6amphM2JicjdHTl9WLUsxWm1NcTJHSHRnRUN2R2UzQmQ1eXZmSzdOTXJNYTZlb2xMakZmM1NEdHdFbGpSTnZSbTd3OEU4M2lmcGxQb0JiMGRHRW5BdWVFdVByYjBpR1VaOEtLMWZZRXNJS3psbFczMjhsdWNSV3VDdTM5Sm8wMDBZclZhNHRYdGprQnlMemt5QdIBiwRBVV95cUxQbGhIcUpOMENPSHdIZkF6NnJZb0o1MTVwT3Y3RDlNMzNMQ1VqeXFraTZVdzFJT0k3VG1BU253Z3FVOTV0UzdNSG5sQmV5RGxyUEJiRVY3RElvaTlDU1lSQ2h4RVJseTg2cmtnc2M0bENnTkw3S09iS2xLOXpRSVBpWGx4cXRZcmdRRml6cUE2MzdDQlNzeTlRVjBweWdicVFtaWRZbTFhWFl1ZFhzZXQtaEc1NFhhSGZaSnN5UzV3b1YyaWtQUnlPZmlRNnpINks5QnVNb3lyN0dJb21xRjh1YzhYa25YS2w4OGNNWGZYcWtsdWRpZ0k2WFdiVXVLVkdIY3MtMThCb2wwV1UwTHFzUVRwRjlyTkpLalJqRXFfcmV2czN3by0xSmVOYnF1cmIyaDAzdWFUR2FGQ19tQzdyZjVLdDV2VDNZMG1yeEFuWVdzdE5fT2RZTnVCQ2VickFlR0QwbnduMVRoSUt6LTNWWklSNmpqZHl6QTNDSkczR21IdW9LdkN2Zm9iVF9HdndjQ0pzVXZjUUpJWWdBODZ2ZHV1WVdMZVJRX1VpTUhTdm9mdy1sbDgyWHg5U2Etd3RqcFdjS05lejdiRUNKWkw5WDFpNGt3OU9TUXMxd2doMEFiSzJOTlhZQ1B5X01WRVNNMzJaTXFHaFJvMEdsR2FGR3Rvdm90dmt2dTNV?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 20:27:00 GMT",
-        "discovered": "2026-09-27T00:27:22.923045+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كأس الخليج - السعودية أول المتأهلين لنصف النهائي بثلاثية في عمان FilGoal",
-        "player": "",
-        "content_hash": "c3c51d1c265f4d0cf20b89b7b6ee236d271afb866c3d4796366661091527a564",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1732,22 +1732,6 @@
         "summary": "الرئيس الصيني يتوقع لقاء ترامب مرتين إضافيتين هذا العام سكاي نيوز عربية",
         "player": "",
         "content_hash": "fa8b10b751fd5948487d172427d8db0cf14bb92c8010062d4a034ea1a056b9e4",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 5366,
-        "title": "خلال حفل شاي.. شي وترامب يتوقعان مستقبلاً عظيماً للعلاقات - العربية",
-        "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxOTFJDNFcyMzBTUEhCNktFdHVSWkNQdHdRM1hNR09SSWxXMWVtMUo0NXdnQU1XRXB2YTM3a0pjc3lOWDUwZEd5S3NtNTBxVE1NSzZvSDEtRE05SlFuOU5EZV9SaHQyN1N1dWp2SG1IS0l1UTFUS0pSVF9TaVo5Mm4zUFVBUldkQWY5ZjRnZDZBdE9yUjhVSEFpU2NabTVxTnZwbC1sWUo0ZnVPMHNZYW1FUEV6QVU2cnZPQk9NTTF1Y0NZZFpOMFVlLXBlMExCQkhrZjUyY0hqaDloRmQzV094SkNrSUNYTlltX00tY2JoMGRoWDM1WTVRUVVWRTkwOGxTeS1SUHBrbTdhdmtwMGZjU0VCMFItckd5ekp6SElaUEhaY2FVR2ZjM1lPMHZCWGFhczk5bUMyVmNyWXZmb3pWMTZaMm5CV2lLQlFkRkFBM2VzNHE4UzJfRFJlOEQ5UTJ2b09JcDRaQ19tR2NRSjBDYlgxWFh6V1JfS3VZdE82S2pCeEZyaFYtZVFrY2lLUGptQllMTnBlZk9pemF1aHh2ZzlLQW0xSHhMeUlLU0NGWUNmOUIxTzZ3UE1xNHBhLU1nUGF2NEg1dzhPcXhPaThXaDVXRFVZQzM4ajYzLWVBVnA5WlZ4X0E0Q2FRSWs0REloeWVhYdIB-gNBVV95cUxNMHdIXzhWd0dYVm1VMkJpWXVDa2VPZmRIZ1J1QUhVOXdPQjVYeFFEcmlXOWdXVVBEV1NtZk1xNVJoYUZaSXJGNTNjWmtDVkNYbWhaNWlfTmxsM3lNQmVNTDd4a1RaQjAzbEhFOEpQM0ZDZ1BGcVBWZzZEaUN0Q0lVU0hsM2cxakdqUlRJSDFSWGNzVE9Sc2cwNnZNbjlNMmloV0lqRXd0d1o0c2NMcWZBNGxpY0J5WkhRSTdicm8yazVSSjF1YmxndXY2TU9PeVBhYVd4X1pMNXJwRjJBTmtWVjJSNzRXdUc1Y1I3ZElyMVA3MDdfT08tZWhObXJnZG9oNm1qQkxkR1lLVDFUSnpCQ3Vyd2VYS0FNSWpVQTViOGhWUlhyd25iWW12R24ybmduV1RVNFF1eGVKemNMXzFEUHdrZm1tV19adldNNjEwWmVKNnBRNVF6cmxDTjdEZFZqbDFqVDI2MFB3bHZwZWJKOFQ3aTJZQzlwd1poMC1YcmliVm5GcDFVNWFXRHJGdHIxX1hYSzJXZEdtVmxoc2EwdlJmNklha3pZQ3FsdHVMWEl5Q2JfOUNiMldRQUJpMXoxdFROUkNvWjVwNDk0QTg0V1RlMXdXaFhEeVctWnVMQjZvODZ3M010aWxpZS0tOEFXdk1UcGN1djlwdw?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Fri, 25 Sep 2026 15:27:00 GMT",
-        "discovered": "2026-09-25T21:24:22.221278+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "خلال حفل شاي.. شي وترامب يتوقعان مستقبلاً عظيماً للعلاقات العربية",
-        "player": "",
-        "content_hash": "773d809fccbdb1da7a483f4dab7c27bf83fb9c5475158da755416d7dd7d6ac0b",
         "sent": 0,
         "section": "transfers"
       },
