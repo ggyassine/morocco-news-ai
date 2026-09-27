@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T15:46:00.401247+00:00",
-  "total": 142,
+  "updated": "2026-09-27T15:55:28.571567+00:00",
+  "total": 140,
   "sections": {
     "morocco": [
       {
@@ -450,22 +450,6 @@
         "content_hash": "988c31dac87be79f1838bb178e3f23a27cc267b7cabbb6bbc24f7b35c24ec448",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 5625,
-        "title": "المغرب يحذر بجنيف من العنف الرقمي - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPRjdsLVZlZ2FkU2NFUjVVMmFNLWlyeG54aV9pSlJibV9YcFpwZVltVjFGWGJnVTBmdUtHdzk2Q1l6YUJpS2VEdU1HUXFNYmZPUXowOU5EQU81MkhuV3V2a1VPd3lpNFlIVVoyQzRWQUtZRVFuWEduOTRvMVBMbC1DWmEtZ1g3MXFIa1d3R0RpNzBLeHBWQ0d5aGdoT2ViakpQazNZd0h5aFNxQmF3ZXp6R3hwRjJoX3VVX3FzN1pLSnlWM25uXzNCZEFacFN2bEpEM3RJMk5PRlEtVGlHeXFtRU9walQ5M2tveXlNZGVtSnVISDkwcWYzYVpMNnZtWFUwdlNaTGppQm9QTUxCSGEyRzRMQ0RtY1NKMTRzdVhYYl9TTnN0N281NG9qRkd5aUh0cW5kNEJ3?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Thu, 24 Sep 2026 15:51:05 GMT",
-        "discovered": "2026-09-26T17:14:31.963634+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "المغرب يحذر بجنيف من العنف الرقمي Hespress",
-        "player": "",
-        "content_hash": "abe1bac027c36b95f380fab9ea8517b37577d5afdacb8d63c1c529aa191b25c5",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -722,6 +706,22 @@
         "summary": "أخبار | بعد رفض الحارس للمشاركة.. منتخب أيرلندا يسجل مدافعه كحارس مرمى أمام إسرائيل filgoal.com",
         "player": "",
         "content_hash": "4a2ec4c2e968e2e10a5cfa8dfc632c53c9244127665e1440e51a30a2bac3f6da",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5968,
+        "title": "بث مباشر لمباراة برشلونة والزمالك في سوبر جلوب - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxQVmxWZFY1RTR5bVZWcUxGRlJya1dmc3J3SEFxd1FVWWtTVDZIamcwd3RuVUUyWVpDMC1BYTlPWHpfMlREcWZCZlc0OEJMWEJ2ZzgtdnBmdlJUX3ItVjZDZy1FZTU5OG8tOEUzUkR6S3hMd0hGUENXX2U1TThGajJ2Z01QZ290VUNaLUIzVFZIazFZZ280Mi1ibHJ5WXZtcE9iZ2U1cHNTV1E0elVEdDlLODhGb2pKZU53V0p0MjNIWFNkUFc5TThhRkpNbElWalZpTnA0QnAxaGxWZ08xMjJNQnJ5U0tDM2RqTUVGck12V20xSHVLTU9HUE5tMEh5TlhQZG5nMUJmRURkd1dNSElfSlZlQ3hqMzd1ODNwbTloS3ViNE5KaGpfdmlRSXNJRHU2cWJBYnFQUTF2OE1HSTh5V3ZFV3hfbUFzdlpvZjV4TDNjSFlobzdjOHdLNDg3T21RMUtFVnFKUHV1S1VNNXNLSjFERXhCUTF6amNQenJmZmVUUENhZld5MmlNNUllZy1EZDhUbTVZcEJhQmVCTGsyWFBTNTVCMmxFcGNpYmNWMGNOb25xbi1vNzVuVmxHbDlRTXVmVndTX3huZGg4VVZLRnZxMUI0VGV6QkY5R1F1bnRCa1lJY3NJcktuOXhFMUFHZ0ZvYkhWTjdGbVRsQnlkVGJHRzJkdEg0ODdsdU53TVFGSlpReW9GNHFCbE8?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 13:53:53 GMT",
+        "discovered": "2026-09-27T15:55:12.851775+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بث مباشر لمباراة برشلونة والزمالك في سوبر جلوب يلاكورة",
+        "player": "",
+        "content_hash": "3dc7c7f069ec506d5066d4c7f63bae41d4f5d04079a71a51605ec1b8baf9842c",
         "sent": 0,
         "section": "sports"
       },
@@ -1250,22 +1250,6 @@
         "summary": "خبر في الجول - عبد المنعم مستمر مع منتخب مصر حتى لقاء جنوب إفريقيا FilGoal",
         "player": "",
         "content_hash": "96ac42249a08f6aaef9cf934f02d94238d9732a8345b45ae3cad1f33f2fb3ec5",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5908,
-        "title": "بمشاركة 23 لاعبًا.. منتخب مصر يخوض تدريبه قبل السفر إلى جنوب السودان (صور) - yallakora.com",
-        "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxPZjJpOUdpdmp1ZHZyZ29aSHhDdW5nWDdxa2E4eHRKVE9KYS1rbXRkRTg3VWZNWTdOQXdrRnVnOEg1SFZGUTQwZktsR2ZUWVhvWnZ5bTJuUldweGFndE5BVDF0TFMwZ3E1ZzhUZkNaU3hEbW9nQUpidnY4QjJVT3pObU9FRldvZnNPSmlpOHNJbEVJa0tObE1LdGI1Tng3SGNtU2Mwb0ZFYy1TNjg1ZTcwWHBrMkFQOUNUanBYQnIySXF0V1QtQVpvY0dqaW5hT3hCTzVlR24wU3Y5Q2RDcDBQY19jODZmZFR6TXo4ODg4cmlvWTh2ZUNhOGtDdk9qaFRpdmplVmVNM1RGRTNmYnVVUnVlZ3JPNlFWM3c5Wl92SUhMNUVNMGFPaml0TXdjZGFnem1nSjhZX3c3cjl1ZWZpdEJGVkN4M2ljY1lhNXd0Q0RVal9zSHI0aFMwQTh2UzdWSkdJMHJKV3JuQlpwNjFKbFctVEIycFN5T2U1a1JCenducGFsTUhhTW5VbWpLSExGVjVKZFBUeHFjSmlTaWh1dExmTHlxWTkwZ09TRHh0Y1VyX3lQbUt6akpfMlVvUkJ0bFpiSWFZYXBJeGFKMGt0X2huVU1YVTFzeVVzbEN2R0VsbkM0dFBDT2RCaHZjVzhqNTJpcHBqbmN3UjRiY2lzUlNHV0tGd2hIYWlHSlFvVFE3Z2hlLXJyYjRTTXR4VE5rQ2RHczM3V2FsR0RZSXdPYi1HOWEwMVXSAbwEQVVfeXFMUGE3aFZIYTFMQ01aOXZKaXdMbHlCSTQtdV9tcHFMRzgzbUlacmVLaWJTZndQTFo5VjAwQlZUV0h2UlUzOG1zMkF1WVNVejJFZWVORVFpaTNQZlY2WklSaXRnMllxZHF6NS1pM21ZQnEzUlBJMUxuenVkR0hkWVl1X3B5ai1wOUtOUlhxWjNraDRLdm1kX3RuQVI1M1dSMk1USmNyMkJIdmZfWVNuRy03bjVLczdpVVNjcjRZeHdFYkUyLTYxS1ktWG5NR0ZtZXJIOEJWOEdDb29zLVA2d2Nxb3FZNlJCMnRtRU5Ram9aQmZnaXRYbkNwTklja2cwZkVOS3RXci0xQTFHTjBkT0trVXAycHZETlIyMlB3WlJoMkRkbm81TGh4UlhSSnY1UHYyQUQzd3JUMi1XeDVET0lGLTd5QV9kTTZXWEUxMVRmMUFoWW82QzQyeDhFcVNBMkpPT1owQVpHNWRyd1V4eEFjV1NuQm5KSHpaeWExdmFxMjRUT0NuVnV3VWREQkt0OEdXdW1GME9na2RVT0VsN295TnZMT2FudHZBVmhMZng1T2pvTGdKUW15cExzLVdzV0tUYXczZVNRRWgxRUc2TndxMElvdnNYa2QxZ05ld3FXbWdrZHNPb1haSXlkLUZocmlYd2kzTEROQXIzcUdaQ2g3NlRfRHhNLVhvcHpuTkY5RnZUZmJHcGpLQXFKX1dkRTdmT2dIeFVCNmItaHQwUFhfSWVRUjFKcU9TN3RhNkk?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 09:23:00 GMT",
-        "discovered": "2026-09-27T12:47:02.553831+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بمشاركة 23 لاعبًا.. منتخب مصر يخوض تدريبه قبل السفر إلى جنوب السودان (صور) yallakora.com",
-        "player": "",
-        "content_hash": "1d2f56ebcd8f567ef5543f76a10a15cfbac20d46baec0914fbc5d516c2996a3b",
         "sent": 0,
         "section": "sports"
       }
@@ -1958,22 +1942,6 @@
         "summary": "من حديث التاريخ بين صنعاء والرياض الشرق الأوسط",
         "player": "رياض",
         "content_hash": "bb8f5e84e030682d6660b28cf7fa6bb3b09fa22732d2cd31bf9dbb834237fe06",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 5468,
-        "title": "رؤساء أركان دول «اتفاقية مكة» يستعرضون الوضع الأمني والتهديدات - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxNN09ZblVib1NYRjJueHlodUtJd25oQnJaR3R3Q1ZBV3VBYVhkd0R5eWhtZnM1VEkwRnVEcmtYYy1FcjljNW9SRTNYb0dZbklQaDdzVHVxSGtVOFc2TVZPb1pyckh5N2d5SVFEbTRZRUstLUdXd1BKUEpORVg3Z28welJyOHE1eHNxS2FRZ3NaOXcyb0ttR3NoaDZtZ0JXZk1EbUNHRHBSQ1owOFlJZUlPaHZjLW5TUkJSQjRnNVdrb0x0S3VQSW5FQnpFeGdyRkhjX3huQjRlV2pVX0RnaTVzRTIwQmN6NmR6Yk5pU0NMUkZZcXQtWWpKMFVydVR0bWdybVlkYUJPTDJ1RjV0X29UaXVrSkdkaDVjYkVnN05odEJQRkU2c0RqS3N3eXdvaFlBLURNcGtWMDk2OHdCYXEyQkdJUElDMG5kUlhaWVBrR1pRcEhwVVNkYWRVektnNFI0ZVpZME14RWdVX09fSW5SQ205bU1MRzNZSUhGZU5QTTJhanFSVnlLcGpDYXAxQWFfNm1jT2lZN3lwbGRKd3RKaHJiUm9vRkZhQzA4bGZ4amdPU25GcXZrQkdsWHhreFRRSFdwbWtYT2VZR2pPY3VIZTV1MmYxcUpFcHpiNE5tX29IdmM2NFBlamc1OXlzOGJ3S0tXaG9DUjBTWlVhRHg1WXIxalFvdnBPQTBQemVWajJtdC1nYzQ4eGl1WkRqMndXUV9XS0FUSmdUREhDRGh3WWZPQ19QV2R3bm05TFRnTE5yRjZnQzFWYUNCbUc4TG1RV1J5dTdiNTBZeWIxZGh2bGVaLTB2bTBZMkRPRFFRejgtVXhHeXA2Ul91azhBV28?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Fri, 25 Sep 2026 19:53:10 GMT",
-        "discovered": "2026-09-26T03:12:25.777665+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "رؤساء أركان دول «اتفاقية مكة» يستعرضون الوضع الأمني والتهديدات الشرق الأوسط",
-        "player": "",
-        "content_hash": "2384eccaec04aefa26d2e86eb2e80d43bce8d4fe48fd928f4ac38f22fafe48d3",
         "sent": 0,
         "section": "middle_east"
       },
