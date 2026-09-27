@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T12:09:57.840615+00:00",
+  "updated": "2026-09-27T12:29:37.557496+00:00",
   "total": 147,
   "sections": {
     "morocco": [
@@ -486,6 +486,22 @@
     ],
     "sports": [
       {
+        "id": 5905,
+        "title": "أخبار و معلومات اللاعب Jari Kruijff لاعب دن بوش winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM1c3WXFfbmhpVGhBNlJVVzRERnEtcWRXYmFTeEx4Tjk2bHhtYUVXai1NX2hBYVZIaWVoVWVseVR6S2w2TEZOSTAxOEpueVBhWmtTbFlzY3R2amptSVRfZmY3Z0JKNlpTb2NWSllLa3Z0Yzc3VmxObS1yUWp5enYxejBUN2tZRzZJMkkxTHMxbFUwMmUxTVhXTHc5M09YQzRNVlJ1cnRhTjhNZ19qbGxxd1Q3VGJXdkdFVUNKS1hsSQ?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 12:15:15 GMT",
+        "discovered": "2026-09-27T12:29:17.857264+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب Jari Kruijff لاعب دن بوش winwin winwin.com",
+        "player": "",
+        "content_hash": "1a70c027ca3fede810ca6e06d9d2bc86702d02b42dac664e931967754835ac9a",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5904,
         "title": "سيرجيو باولو: ظهرنا بشكل سيئ.. ولم نتمركز بالشكل الصحيح - جريدة المنتخب",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53d2tRVzV5ZmYxWnpGZGEwLWNwVGM1RU9EWlJpcFNZbTk1X2kzUE9rbFZ1bWxHbGJVdGpGYXE2N21KT1E1VUVzbTdIS1BwdzhHMnVlUA?oc=5",
@@ -870,6 +886,22 @@
         "section": "sports"
       },
       {
+        "id": 5906,
+        "title": "الجيش الإسرائيلي يقصف أهدافا لحزب الله ردا على \"مسيرة مفخخة\" - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxQbVNCVHNOZUpvY3N0azdFNFBxaEVnOVk0MTBiRHFUU3hLR3FVTzRYVmNHeGstRU0yMXpJSkx0dmxKS2JZVzk1T1hITFk1S1p4QXFzdzFoSGNfY2E2VGNRX3BUcmhibFdCMWxoVnZ5aU5PZmxmQXFFT0x6MGpVVnhNNE8yR0tfS3d5WHVpaXA5blVKclY2empqSUJUR25qS25iU1JKZTFlSHNEUTc0ZlFIXzl5aWhvbVRkQUhaYTEzMTdlUmRURnQxNENHS3NPYnZtai10MmtLRzU2aWp3ZTJXNVFYWENlOUNqeF9pWGNpZlhyY2ZLUnppM0d1TDNSMDJYOG1Ka1VEbWwzMlFfQjlVOV9OY0pIeHMzUGN2WTlEWWx0LXhiVjhMeFNlTEYzT3liNkJ3XzdmWVZxczlSSG85aXQ4eTdXYUlpMDluZEc0VTVlQWxmYkpqV2ZHVEdvb2cxNlBqMmFHSFZPdGVVNzV2akNadTBuM29XY2RvWW5iQXJ5d2R5b1JlelktZ0NLWUdaREYyLU43bHFWN3JNLUhTdWJJTnhRRXc4WEpUVjk5VUpTSGJJNUUyelVnQUtrdkdpbXpUQzFpd0xnM0R6OFEtUWVMNWJGOWVQU0HSAd8DQVVfeXFMUGx2eUFsTS1SNUo1TVBkZ1JiZkJpejF1X0lNVmR1N3RmZGxHdm92djFKbm96UDZISHFLbk1yMG1FTVBSSkNOYVdBb21FTW94SVk3VG5QbDdlYVFUQkMwbktpalZKZDRsZy1jdks0Ul9PZEVzOWhDSGZRV1F6dWlXemlnMlNuQVlqYWRKZWRhR1pncG1XQTdaYUpZMEo1aXdCT0Y0OE5RdlhtXzV0a29BNjdfV0JYTjF3UHlHTExwYnZsNGx1bHJ1enNmMjkyMHNYVzc3NU1tRUFyNDZCMkk4VU5na0hFZVNaUWNkZGlHWm1IdWZVTExuTGoyZ0dxYThZZDZ3UlppeEF4ZmNhcDE3N1RrMDNTeUpFNG9nZVh0YWpobVBnWmR4OGVNQ3hfVUFEd1A3eEFCUjhqM2F4RVpyd1o3cXp3QzNDZ2FORTc5a2pQQUo5THZJU19mZnVURHd2aHd5b1h2VFdpRDZiYUlxVlRSSWRaNml0amtFN2pHaUFfc1pwSXdyZ29kRXNFSW8tb21aVHN3ZElIb0ZMUS1JdmVlbUZ3cjJxYTRpUTFYWEQ1bEI5VjZoQ3g1TWhUY0x4UDdKZjhuaEJ4OHVKd1FHallFMmxnZFBUVGJrQmhQUjQ?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Sun, 27 Sep 2026 06:52:10 GMT",
+        "discovered": "2026-09-27T12:29:28.339657+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الجيش الإسرائيلي يقصف أهدافا لحزب الله ردا على \"مسيرة مفخخة\" سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "b2ee46134d9b979a5c0d309c2b633aa1ef23b9f7f9015f440f40b4fee27109e9",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 5874,
         "title": "«دوري الأمم»: إسبانيا تقهر إنجلترا بثلاثية على ملعب ويمبلي - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxQd3hrbk8xUWo5WFJOMkR2N09aWE1ZeFRGWHp6WXJhTzcySzhJX0JWX3AyOGtfYTBaMEY2WFZRR28yV29JeWhyN2V2ei1vMWx6YzVMN3dqTVpuRHVwN044RldQUlhaWUhZNUUxVGNVcFBOeUg1MUhQSXhoamFyT3NNODl1VU1zUXZPOWVhQzJwT2tPVHFxNkRUNjhMeEtsTEJ4dDRFM1lKQ0pXWmUtVE9ZRWo0S0UyQkMyd29pLS1hWmxtVXJFam1rYmVpMldNS0VBOUhOYkhzbDhhLVY4TFgzcXp2ODFETkpZTHFMc0trcHVxZUFJMFZPcGx6eDNEcnBpQnNPWWJWX1Q3RHFCZUJQUnBPNVc4QmtUZlhkb0REWGJVTHAzbFpzbW5XWjNhYWVFd2dINGgzakc1cnh0UnRtSEpfTHZkVTRJS0RfS2tzbUV0Z1YtSDdXR1RmVDh1YWhiOTVXamNQMm5acXg4R0xLbnBBZXBTZEVWRWFsWXl1cVBnbXFwZVJTNnhLM1JmaDQ3OERpdnhtOW9qXzBQNHdOWTNvUUx6dWQxQm5ENHFHbndXcjIxOG51dXNiR1kwc2pNT24zWHZuWkVtRTBIODFOR3ZDRDY1ZVVKN3dqSDZSdnp4NFV6eEJEb2lJaWJiaUtRZXdvRjQ2Q0ZvQ0hhT0x0N1ZrVUZkc0E3aURQT3BaRFNScVNVLXU3SU9vZTRBQy1mejY5aWFkX2IyaFl5Vk83YjM1a1k2LXBYSW9zandVbWJvelBIM05IRWRaNy1jSFNMeTJ5d3V3SQ?oc=5",
@@ -1250,38 +1282,6 @@
         "summary": "«دوري الأمم»: سويسرا تهزم مقدونيا الشمالية بثلاثية الشرق الأوسط",
         "player": "",
         "content_hash": "aa9910f5a1f15b5cbb8077730585c0f62f30c50343d75ac4cb7d58f9ee7de2d2",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5837,
-        "title": "صدامات مستمرة.. هل تنهي أزمة صلاح والشناوي سطوة حسام حسن في المنتخب؟ - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxOTjlWenlrY3Ffa3c5UGdUQ1pWVEJWY3RGUl9nOEduOThoSUNVemFzNmNpWENpcmJJSzV6cU11M3g5RnFMb0JkMFRpMERvY1lFdXJDaWstQlJnY2JZUHJoLWNMRnhSR1FiSzl1MTV0R0cyX3Y2aHFtT2g2cXV2QjVKRk42UUs3R0k1LXdWbXFrT3Y4T080MFYyckJFcDFFSXBVUTdfR21vekJDV0hoalV1VHdHdEVYbUY3dFZaWHd0ckx4Y2NoaUFyMDRyUFcxMXFFWDhQM0VHSlRmQnVaempjQmNIT0l0TDkyMldUN1ZrT2ktcWNpUkVPQTIwMEw5MmRzSU9jRUZtMllHdUVuemhfQ0FSbVBkZjJpNXlpamFrQlF0aGNJdkRUNFRLSUlPaVRmMFJHZ1pmMzcxbElscDc3TjNHU1JpbTlwX0VGbGNSSWg5VFNmcjVmVTJXX2dmVDVzbUlsdDUzcGlCOG9NQnZzek41NTlEZUZVaHlERW5JRzBjWVNzVjY4dHV5OURhWHVVRVVMdEtreFJILTVoYXJpdHh5QzRoTE81aXYxRjY2ZU9RY2hPSnpoT0g2VzBQdXNmTHJMUVprTW44M3dpZkduTWxSVzdIVW43dXRUdWNoVEd5cGtpMy1pQTRCcGJWMXRfbDh5N1lXQ0tIVW51VXJrV3dxZGZHM0JuVFQtTGQtdG9Tdw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 21:31:00 GMT",
-        "discovered": "2026-09-27T02:20:17.209879+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "صدامات مستمرة.. هل تنهي أزمة صلاح والشناوي سطوة حسام حسن في المنتخب؟",
-        "player": "",
-        "content_hash": "529771601bf93b272dcc0e12676fa96b92af839f821450ad849d4d6aceacf160",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5857,
-        "title": "ميساء باها تدخل تاريخ البطولة الإسبانية - جريدة المنتخب",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yanp5ZWJXcUVORWRObzI1ekdmSFRKNlR1YTNHWDZCTmFSWkJGWVFzNFVhWHZuaDdSeDRSdDN5N05RcktIRU1SUkdiWnVyNGYyS3RzRQ?oc=5",
-        "source": "المنتخب",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 21:29:09 GMT",
-        "discovered": "2026-09-27T07:41:59.727235+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ميساء باها تدخل تاريخ البطولة الإسبانية جريدة المنتخب",
-        "player": "",
-        "content_hash": "fe9c9cb1932729c8d46bc3753155ecfaa1aaa2cd39d366edddf5d1210cf02012",
         "sent": 0,
         "section": "sports"
       }
