@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T05:17:27.783746+00:00",
+  "updated": "2026-09-27T05:31:37.372611+00:00",
   "total": 147,
   "sections": {
     "morocco": [
@@ -546,6 +546,22 @@
         "summary": "القنوات الناقلة لمباراة ألمانيا ضد اليونان بالجولة الثانية في دوري الأمم الأوروبية 2026 365Scores",
         "player": "",
         "content_hash": "e2a77e038345e26c28be40ffcd0260d59d11ab5757595807996dc42c30372b63",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 5848,
+        "title": "القنوات الناقلة لمباراة قطر ضد اليمن بالجولة الثانية في خليجي 27 - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOSTlBOGFTRlpIY0RDRlJtU1ZmazJnWG9UbVJqRjhjb1N4ZlFyMXFVNTBydDMtUEIyUjVpV3pvZkdyMkF4TE9NNDV2REpCMHZMUHdkZldJeFV5ZW1UclVBU1FmejdxelJuSXI2cVlSRjlJTU9HV3N0MU4xNVF1WjVZa1pvZEVqaTg1Vm9CSHNmbFA4QVZUeF8yV2dmN3VBU2V6NVp4bk1OUUw2Z3JfT01aTUx0WFdkSUlZYWJqNFNUWkp4TXUzYUdYLUNYR05sYjhtbmpsWXdYYTlmOU5uOXpReEtNcS1Lc29aeHNhRHJWdm9URkNVV3NkUlVjc3l5SXRpTVZNNjBLY240dUtxZ2JLaWV3andTYU9tOXFHRw?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 02:52:49 GMT",
+        "discovered": "2026-09-27T05:31:23.517903+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "القنوات الناقلة لمباراة قطر ضد اليمن بالجولة الثانية في خليجي 27 365Scores",
+        "player": "",
+        "content_hash": "92a423d6126b195776e856a96604e6303649f35724852573cc1707daacd0d1ad",
         "sent": 0,
         "section": "sports"
       },
@@ -1314,22 +1330,6 @@
         "summary": "كأس الخليج - مدرب الكويت: فخور بما قدمناه أمام العراق.. وشعور الخروج من البطولة صعب FilGoal",
         "player": "",
         "content_hash": "6e9b3cdf6e5d69de624abdec9bd9116b91deaa8d5f7b47ffbbd275aa1e2e13cb",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5751,
-        "title": "مدرب الكويت: حزين... وضعف التركيز سبب خسارتنا - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNTGJQVlVVU3FWTWFfMFM3RjE3T19XTUwydm9aRTVBcGUyN29DQ3lEVlFiTVZtajUyS1M4cVhzRlJjMEFZd0hoTjg2ZlZrQVpEQjY3djdEVFFmQTJTNVFFWk1rQlVzQUJqTnpWVnlBXzlERGNmOFZCVEVldTVFT2VneGdLTDBUWEVlVFVoLWpHRkxCQUJEbDlWN2hTbTI3NDZJQVd1Z1UzYjR5MUJfV2dhaGpEbTl3TTRFbVF6Ym04MHFmbWEtcUZHSmFqdk1zVS00XzNGNUNGbFhPUUtSb0FqUVNNZHM4Z0tWbVF1LWxGdGN6dFppMzJDTFRBT3ROVDB0WkIyUEdWU29HeV8xWlFia2xQMkNpWG9aUjRsalQ2eXM1SElXTVZFcHYxZ3Z6Z1ZPNlA1cFd4ek1hQnoyVUpWZE80UV9fQlBzRkIxbUtQX3FaUnFXSkFoNkFfSWtreDhhcFRuaHFDeWppcExBODBXY1J5bjhoZmJFcW9MWFlRNURkVEFhOWFPck9qV083UHlmVFZpOFN4N2tOTWwxZGxjeXBvckVpNHZ1ek92dHNNZ3ctd29LLW16dEwtZ0FaTzdvdWZudzlSZWpFQWgyWE5WUGQ1LXVEYnU2SXgwTmZoTDFqY0ZQeVNNbTZSY2I?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 19:28:43 GMT",
-        "discovered": "2026-09-26T21:06:41.333341+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مدرب الكويت: حزين... وضعف التركيز سبب خسارتنا الشرق الأوسط",
-        "player": "",
-        "content_hash": "36221bfa326077d6731b9d7d28e90f14d64daf36980867a442217f1792809512",
         "sent": 0,
         "section": "sports"
       }
