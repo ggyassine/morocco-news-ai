@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T11:45:32.708235+00:00",
+  "updated": "2026-09-27T11:55:33.802721+00:00",
   "total": 148,
   "sections": {
     "morocco": [
@@ -336,22 +336,6 @@
         "summary": "تطورات الحرارة في صيف المغرب.. وجدة والحسيمة وتطوان بالمقدمة Hespress",
         "player": "",
         "content_hash": "d432d3050917faa26cb8d434732df5eb4711171c35c33e4c67dff127a9d6f3b0",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 5403,
-        "title": "وهبي: مزيان التنقل لإفريقيا باش منولفوش رفاهية المغرب.. واللعب بالشباب ليس مجازفة - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrSlRNeXk1Sm9KcS10T285VmdXUXhBRGs4bkxzNmdQVDR0aUl2X0FqY05pSGl6NlZSdTdMaGpLZll2MjhzczZpZA?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 23:05:34 GMT",
-        "discovered": "2026-09-25T23:17:17.404203+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "وهبي: مزيان التنقل لإفريقيا باش منولفوش رفاهية المغرب.. واللعب بالشباب ليس مجازفة Febrayer",
-        "player": "",
-        "content_hash": "894b2397b1239c69ec73e28553662f219c833d2bc506f3a57e6ea942e2acd423",
         "sent": 0,
         "section": "morocco"
       },
@@ -1319,6 +1303,22 @@
       }
     ],
     "transfers": [
+      {
+        "id": 5899,
+        "title": "طرح تذاكر ودية المغرب وغانا - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA0eXZPNjZESkhXNS03UW5Pbm9YUkhWaDNvcDJWZlJUelVuT0J1VXRjOVlSV2hVR1FWaHh4aUVMY1gxZjctVjJFMw?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 11:34:04 GMT",
+        "discovered": "2026-09-27T11:55:12.211858+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "طرح تذاكر ودية المغرب وغانا - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
+        "player": "",
+        "content_hash": "fa0efed9621a70662884d25c7542cf5201ccffd728d7c82542997a19b9e4e162",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 5859,
         "title": "كما كشف في الجول.. أسامة فيصل ينضم لمعسكر منتخب مصر - FilGoal",
