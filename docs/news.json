@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T16:58:31.278831+00:00",
-  "total": 136,
+  "updated": "2026-09-27T17:12:36.596805+00:00",
+  "total": 137,
   "sections": {
     "morocco": [
       {
@@ -112,6 +112,22 @@
         "summary": "مؤسسة وسيط المملكة بالرباط ترصد تحولات العلاقة بين الإدارة والمرتفق ar.le360.ma",
         "player": "",
         "content_hash": "0377cd19ffe6326dab7f4600fdbc719701e8cd4d61b7f0f32c62f95ca1a81c2e",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 5996,
+        "title": "زوجة الريسوني: كان ضحية حملة تشهير ويعيش في زنزانة منفردة (فيديو) - العمق المغربي",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SeUxuVXJiSFUxUi1DeHJ1Sm1HZUR1eWxTbEYzNUs5UEpaRFFxUWJwU1p3cy1ZOVVXSTNsRDY4RVRxZGFGYjZTZEhtMTlnVHQ1V2xubXVhbjk3S1k1elBoN0tZQV8?oc=5",
+        "source": "العمق المغربي",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 06:17:40 GMT",
+        "discovered": "2026-09-27T17:12:09.757048+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "زوجة الريسوني: كان ضحية حملة تشهير ويعيش في زنزانة منفردة (فيديو) العمق المغربي",
+        "player": "",
+        "content_hash": "47987f7cab66bc65e9a991818cf680919a3f5937352ec9c17c4122ba83f771f8",
         "sent": 0,
         "section": "morocco"
       },
