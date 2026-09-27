@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T04:25:09.373946+00:00",
-  "total": 149,
+  "updated": "2026-09-27T04:39:55.060202+00:00",
+  "total": 148,
   "sections": {
     "morocco": [
       {
@@ -549,6 +549,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 5846,
+        "title": "القنوات الناقلة لمباراة ألمانيا ضد اليونان بالجولة الثانية في دوري الأمم الأوروبية 2026 - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQSTY5UGZGRTBUQ1NxX3VvQ3NkZXRuRWV0djMtWk9nYVVKeFJ2VEZ1MzJJRVZFdXNuR29kR2tZREhCemluc3FpbTZVTkxCc1hGWGVSbk51WVF1OHFsZjY5ZlhMeU1Jdk1tOFZ4aXFodGNoSld4WjB6Nnk5QXFlQXpIWHdjZVp6ZXlwbVQtdlVTODZfRVV0WEQ4OFBpcWQtYnFFTTg4WElRa2RmZGNqTUhNX3ZDRU5fWXBqUGNCdFp4U0FEM3pqQkd3bG04THVFVVA5M2J0NkVkR1hXZUw4NHQ3Q3dTUW1tcmVSa2lYOEV0X2czejFtSWtSOHdfaUpIWGZKZENLbVU2WmJhTWx5TGpVb1RORTFXT2Zta1ZNZG9IM0RmMEt0bWZMckdpTTFvc3ZPcktTWXZ6U25FTlk?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 03:46:05 GMT",
+        "discovered": "2026-09-27T04:39:38.229283+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "القنوات الناقلة لمباراة ألمانيا ضد اليونان بالجولة الثانية في دوري الأمم الأوروبية 2026 365Scores",
+        "player": "",
+        "content_hash": "e2a77e038345e26c28be40ffcd0260d59d11ab5757595807996dc42c30372b63",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 5816,
         "title": "جدول مباريات اليوم - 27 سبتمبر 2026 - FilGoal",
@@ -1330,22 +1346,6 @@
         "summary": "مدرب الكويت: حزين... وضعف التركيز سبب خسارتنا الشرق الأوسط",
         "player": "",
         "content_hash": "36221bfa326077d6731b9d7d28e90f14d64daf36980867a442217f1792809512",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 5718,
-        "title": "غويري يلحق بآيت نوري خارج صفوف منتخب الجزائر - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxOZi1OU0hYQ1pzME80ajE2VUZvR0RqSTRscmVDTzFBNkYzUWVrRHpqRDl3T3F0M1FvZi1iNl9TMzV2eWoxVWY1S2JwWkkwdnIzSXpIei01Ulgzc1dBRTVkMzQ3MTJ1YnlEaF81OUhUQ0pDX0tlQWdnYkdqYml6dU40ZmVXV2FJX2s4TWt6WHQtRTBVcVIwLTNrQ1o4UXNWaVNiZVVCbTBqMkZnYzM1YWZPbDhBX2JWb2JSbnVydUd5T0hUUG1EOW5vY2dRbWxKYkR5cWJXS3hfeURHQTlEY2l2NkZjOVlQZ3Y0eWNLV051Y1Fzc0dKRkxRd25kTFpQR210N2cxX2dOZE80bXpPNkpQaWxqbjRqRDl5T2ZJYWQ4c3FvWjBrSkltSXZMVzdmT2ZsNEFIbVdXc2JsZVY5SDVpMlRjVDYwUGRxaTVzY0Y3MTB4T19LNjhST1VWZ1Y4azlxdWRxQXBkUTRXYkpXcmo3bWJKU2JaSVdIZHJYUWxULUhNUjdhR1JIX1huZXFTempUaDh4VnZjUDFGLXpKcmlDNVdBWHZMamJpbWNDTWJKRnpMa2hEOVp4cFJnMjNqYmMwVjZPZmVUUkRzamxPeXlPalBGVUhXOE9lNjFzYVVvUlcyR1FUNk1uQUp1OW85RGI2ZEMzNzh2bTZMWUJwSXc?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 19:28:32 GMT",
-        "discovered": "2026-09-26T20:05:42.438704+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "غويري يلحق بآيت نوري خارج صفوف منتخب الجزائر الشرق الأوسط",
-        "player": "",
-        "content_hash": "303df04f6f552587ab54b56a0870addd9e4ea485e3ccc634cf743d1776a0f581",
         "sent": 0,
         "section": "sports"
       }
@@ -2296,22 +2296,6 @@
         "summary": "ترمب يرفض مقترح إيران ومصادر: يميل لاستئناف العمليات بعد الانتخابات اندبندنت عربية",
         "player": "",
         "content_hash": "9521f41b34531433a6c693a530f821d1b577dab0c72b921700496f3621f37693",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 5346,
-        "title": "السعودية تعلن ما توصل إليه قادة جيوش دول \"اتفاقية مكة\" خلال اجتماع الرياض - arabic.cnn.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcEk3SmlXZEpNWkkxYkd0eUQ2amNVdHczMUtOM3JCQzk5WWlyMUI3NWlRcVg5LVo2bG9OUVUtVGQwSndnb3VvRXhYTkluQUg5VHhHTTBQXzR4ZG1vNS11ZUJFT0lWelVnS0R2dEI1d2F1Zm9MRUdmLWU1Zm9pNmF0TlRpS1hXWFctWExBN3A2LXhpbmdUbzVicC1ZbkJuaUZ2bUpEcnpBZEFuTDhHSTFReTVBSQ?oc=5",
-        "source": "CNN بالعربية",
-        "trust": "C",
-        "published": "Fri, 25 Sep 2026 20:37:32 GMT",
-        "discovered": "2026-09-25T20:45:33.409517+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "السعودية تعلن ما توصل إليه قادة جيوش دول \"اتفاقية مكة\" خلال اجتماع الرياض arabic.cnn.com",
-        "player": "رياض",
-        "content_hash": "138d233da6ea204977e35653cdd9169e16a85cbf8496a0a26e0e982bb6adf5a6",
         "sent": 0,
         "section": "world_arabic"
       },
