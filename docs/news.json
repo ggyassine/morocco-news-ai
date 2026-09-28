@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T18:39:30.849324+00:00",
+  "updated": "2026-09-28T18:55:31.617524+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -596,22 +596,6 @@
         "section": "morocco"
       },
       {
-        "id": 5892,
-        "title": "مقاتلات F-16 المغربية وRafale الفرنسية تعزز التنسيق الجوي في تمرين ORYX 26 - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBqekdnOWVjclJaREk2Z0Y5MTdmWEswYkdrRVJseHQ2QW9oTHB5dnpTaHI0cURsRTdlNWtrbEsxZ0syU21xVEhwNg?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 10:34:04 GMT",
-        "discovered": "2026-09-27T10:43:48.167912+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "مقاتلات F-16 المغربية وRafale الفرنسية تعزز التنسيق الجوي في تمرين ORYX 26 Febrayer",
-        "player": "",
-        "content_hash": "f9438a8bcfc99d03635d515533ca42fe5e98949decb438bb98b13c4a7a8485f0",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 5969,
         "title": "أزمة السردين المعلب بالمغرب: شباك ممتلئة ووحدات إنتاج تصارع شح المادة الخام - Le 360 Arabe",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vRlVVV0E1RXAyWlJsM0t3RjBBRmx3TGlwQWZZOHVZRzFTRFpPZG90LTJDQkJyNnd3SW1WdU5HOU5KckczY2tZY3BRcDI3QTU0SzVuZG5UdklhN0dHU3hPSWoyNGJnSlU?oc=5",
@@ -741,6 +725,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 6389,
+        "title": "الألعاب الآسيوية: الخزعل يختتم مشاركة الأثقال… و12 لاعباً في منافسات الرياضات الإلكترونية - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMipwVBVV95cUxNSF9acFg0a0dWa3J1cFNMX1RFOVFwcHN1eEFHbGViaWlmRkhmRERrNk9LTG51ZXplUkgtcEh1cmEzVEpXTGZubmpIRDNUUWdhSnhTVFl5Q3BBUnctY1ZoSjBCZ0luSHVPbEg5SU5aQkppNnA3cm5ETDMwRElNZEVTWEYySUFiU3FOSGQyWThvSkFPdDlSdkNmVVg0blY1V0hlc240WmtPdEtHV0MxUk1yd0lxN1YxUnY1d0x2NEI4alFxbzJYSVB3QlJQcUtsc2lIMS1SSDRWWGJLVmRrOGItMUFBRlRxZ3dPN0plcVoyQXpGclBsM2sxVEVoRWN6RHFmbmhPUk1uOTBYdjlyRVVrcDZiejB3UUttbm10d1dmSHpnLXBrdTJRWE85d3VlQzJSVXdFY0JVMngwY0JnLUxFbEhZS2dMa3BwZGxNQTdWbjFfWkM2dFZtblRjX0FRdU5tclF6dk9YWk5HNUo5WFZlcDFvS1pUOFg2amh5WFNYMF9JTFRfZ1NZUlAxS0hLNTdZenFJVEZMZzFiUzhoc1M2Z1N5RHVKSDcwR1NkdVF5WHFocENIeDZuLWxtWVNXUS00M1g1OGt5X25Wd2s5ZEI0cWV1NUVvSTQtT2NVR3lhM3E3cV81NnpnODZOM0dVeVhCSDlNSmctWFgtNnQ1Q3ZXMTdmUzdaRS1NandGd1hXUU10Z3dGdXlWb2RmdENvd2lCZzF4V1Z1b3U0ODg5THE3TnpYbGUzVkNYSW9CLUp6WE82TDJ6ZnhxOUdaaFk5UTlaWmd6ZGdsc3pndE4zZ043RU9mMzRzOG5qa0ZDVENHbzc0emtEMTliNnFrRFdFQTZGSDBPSUhQVUZYQldnVXc1NmlKTlU0SDV2UUhqX012bjkyZFhNMGxZ?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 18:52:19 GMT",
+        "discovered": "2026-09-28T18:55:10.551958+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الألعاب الآسيوية: الخزعل يختتم مشاركة الأثقال… و12 لاعباً في منافسات الرياضات الإلكترونية الشرق الأوسط",
+        "player": "رياض",
+        "content_hash": "f84e082ae4e15e6b62b9881a7ad26564300d6975b8cbf6fc64ba680ead26fdd9",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 6386,
         "title": "بث مباشر.. مشاهدة مباراة فرنسا وبلجيكا الآن في دوري الأمم الأوروبية - 365Scores",
@@ -1524,22 +1524,6 @@
         "content_hash": "2af877fb9ae9250d5acba54c60ec4850df383638123f5ff24c2c56d8f2058739",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 6272,
-        "title": "ديوب: متحمس لخوض أول لقاء بإفريقيا خارج المغرب - جريدة المنتخب",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOUjE0MXdORVdJeGprUWVxQk1QMGE0dHVVS3lQbmFQVmlzRjRhc0VqamNtcnJPQ2ZWMldyWEJtSk5PTmpSbFYxUmU0a2YzWDdSUnFhLQ?oc=5",
-        "source": "المنتخب",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 13:30:27 GMT",
-        "discovered": "2026-09-28T13:55:51.733049+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ديوب: متحمس لخوض أول لقاء بإفريقيا خارج المغرب جريدة المنتخب",
-        "player": "",
-        "content_hash": "dc3778c045f618ad4b5e752c613c0aefc6b7927a670609251c4e369e2e0a12bb",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1556,6 +1540,22 @@
         "summary": "كرة القدم.. الإصابات تضرب نجوم أوروبا خلال فترة التوقف الدولي - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
         "player": "",
         "content_hash": "0b4a4526eb8ff8a16c7b1d4e02bb0aa73ca344b1c04bdaa596c43f2dcdc36091",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 6391,
+        "title": "وسطاء يعيدون فتح قنوات الاتصال بين واشنطن وطهران.. هل تمهّد لقاءات نيويورك لاستئناف المفاوضات؟ - Euronews",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZlJObjVkeG9uQk5PWW1GN0pxd0EzeExOZzRIcVVISFRSZFNDN1lsaUM5ejV6SC00S1FENE4welQ3X2JfZDFvMWhwaXE1b3dFWXJxem54MXl4MFBzLUtEZ2I3QmRJbHVrb01tNXc5WlJRSTg4b0hQZUpIY24xUnhVVWZ1OEJOZ3NybTNESUFWQW1rcGRRMEl4Rk05b3hXM0FTU3o1c0JqRjhpcGVUc1lYdU1jZUZvLThXcVZ6dk8zTS1VQQ?oc=5",
+        "source": "يورونيوز عربي",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 17:00:58 GMT",
+        "discovered": "2026-09-28T18:55:29.521789+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "مفاوضات",
+        "summary": "وسطاء يعيدون فتح قنوات الاتصال بين واشنطن وطهران.. هل تمهّد لقاءات نيويورك لاستئناف المفاوضات؟",
+        "player": "",
+        "content_hash": "1f7f360eb98392134846c1e7074169437b212d8a56357913962212d677a7b735",
         "sent": 0,
         "section": "transfers"
       },
