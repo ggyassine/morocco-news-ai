@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T01:21:55.046513+00:00",
-  "total": 132,
+  "updated": "2026-09-28T01:35:13.006109+00:00",
+  "total": 134,
   "sections": {
     "morocco": [
       {
@@ -1256,6 +1256,22 @@
     ],
     "transfers": [
       {
+        "id": 6142,
+        "title": "برشلونة يبحث عن \"أظهرة مجانية\" في الميركاتو الشتوي - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxPcGdoLWRYQTZ4YW11UHBIMEpxWmloUlRQZWVDNXVvemN6cDBubEZtY2ZuM3ZEQ2tqWUR6VGJXWXpncEp4dzNPQU1OZlkwdFk1LWU0cTB1X2dCTEhNSDdWd1Z1RzZyRjNoUUpyRFBYWFpnVkk0ZFRyaUU5RHFjSWt5c3V5S1ZQT2JWT3MxcWxMd05HamYzN0hSdXdyNUZ3bHdJeWpORUlIc1BPd2ZPeXJyemVzQk1ERGtxOWtuOUw1MlFiY2tlVHdLb3k2NHhDNnJoR2ZmdzZxZ3drSGwxWldIVUp0aDRzUFRkT29XYS1NMjZJWl9TZks4LUxvVXBDaXVTQkZBNF9MYnFzWWJyYkNjWFBvcWp2Y2dsUmlxSXJ0bXRNekxTNVJZd0FqNmRqb1dsa08wX0UtR1RWaG1fWUYzcUliRm41WVBXZldlWkpiTEFNZTEzeUNhUTlUUDhQQmE0aDA3YWRRUHlSejlHTkxJbzdHWS15Qm0tZ1FSM3JFTDFVcEJVMVNGQ21NTThrUEtVcy1FUjljLXRnMmw1NXlTRWFTbTJLcnVrWmpNVg?oc=5",
+        "source": "الشرق رياضة انتقالات",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 23:13:48 GMT",
+        "discovered": "2026-09-28T01:35:05.184416+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "برشلونة يبحث عن \"أظهرة مجانية\" في الميركاتو الشتوي الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "4d19cdda691300e941839ba6842f0c5af2c91fd52f98bd9198b23936a8dc7ba3",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 6096,
         "title": "مدرب تونس لأقل من 20 سنة لـ\"البطولة\": المغرب يضم لاعبين بجودة عالية وأعرف جيداً الكرة المغربية🎙️ - Elbotola",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WQVljQkp4ek1US0N3amdvTmlJVVJoQ0hzRWlTcEFjcjNSNFZ6Znl5RV8yZHh6SU5yZ0JKUVY2elhEbEE2WldVb000Vy1udk56YWphdGVWNmt1VV9RUk1MS3ZrZC1yRWZ2QllzemxDTlI?oc=5",
@@ -1878,6 +1894,22 @@
         "summary": "السعودية تؤكد أمام الأمم المتحدة أهمية ضمان حماية حرية الملاحة الشرق الأوسط",
         "player": "",
         "content_hash": "da7a055f429571cc0cb460a9f8eb3a85323e2d3c0ab1bf57a45fecd5aa36c8f9",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 6143,
+        "title": "الرياض لـ المجتمع الدولي: ندعوكم إلى رفض ممارسات الحوثيين .. وملتزمون بأمن الطاقة - العربية",
+        "url": "https://news.google.com/rss/articles/CBMi_gRBVV95cUxOeUdxdG9rWERhUF9fUHI0SVdjMnRzOFhkQnBNcXpxNllTN2NhYU02X3BuUklRWDBjVTlYbUxvMl9nNWdXc0pkWVJuUVpIeFExZkNXN0FrdkJlaVVjZF9sa1ZGNl9kZnNnR2dkS21GeUtubEtITWdPZVZXVkFRLUNvQW9ac3dMQWZKQl9KMWlJQ3NPbVRnVVVUR2ZCNmFzR1J4bEljZjJVSEJmN1lzbTI4Y2NiQkxaNThxSjVvSkRKX05oSW1zQ2piRlMxNjVGRjNxY08ydU03NVd1NWxVZ3lYMS1VUVZOeVplVFQ0QXhLa1JuZUxuUWFQZnd4RFE4QlFnUGlCMG1UaTFZbzZfb1NCTGZrQl83SUwzZzVfQTJKVzR2eWQwWjNGalBneVVJcmJsdV9hNlJpMzFJc0dNTXpfZFljdHdSd1N6anBjWWhvaENIQ1FaWW8tVGowUXJ0UFU3aGZBWFpZUUl3U28xMUVhM2Z3STc3dmZLVFQzX3RhUXpYNEV4TlQybklVUnNwNEttOVNVRHpqdlF3R0NWTVdWSXFkZFRyMTJKRnhkSHk5RzhKejMzV1BobkJwZk5wSW1DYXU0Ul9tTWozRlRzTGd6Ym85RFMxMEpOcjR0UEtIWmU2OGx6bWN5WU1iaHlrVEUxSlY5MGlfampVZVRqaWduWmxCN3J0LXdGTy1UOUlQWThoZFMzMnkyS3pmQ2NYaWtaTW1GSTBhZXBEMU9pWG5namppOWlHZXlCR3FGeTBUUnVUMVFUSmxJS2FOcGZxdmI3dl9ObG16eTRLalRXcjU1bEFTdGNmSGpmV3lGY3kzTkpLOWUzZTN0dkYyd3NnUdIBgwVBVV95cUxPLVRGZ3kzaEJ4UERXV3k4VGJBTjVhV1h0dkJma0hOendzTE1FUXpnaXkycDFiTEVTbDVMTUtJcTNmUGRFdEE1RGpJQTd4YlBvTlZMYU1CVnRZcGJqazYwV1NRaHY5eUg5R2d1bE9MR0I5eGhlcnpiYnE1NmJ3Qjd5TG1XOE9fLW1DTmt3UmhocEt4OW9XblJSRFNRYVNvM3RKR3k4Z0RvWWpVbjZjcHItNk1qS1dEc3hPU1UxbThXcmtJOWF6d3h0UHJDS3otQktHQ2ZpWS0zZ1NNTnRZLVBrN2tLVDA3ZUdvUzFMLTJ6REthdnRLNlA0VXZpZzV6TExXb01UbGo2Z3huQ1d4LTJlYXFmdDAwbkhGMFhwWE9tWnk2V28wZ2dJcmJsZTBGUU1hUFRuM0d1M3pYVGV5VW5WM1JBV29RYXRtcTdqZ0dBWlNaRnVrRE94MTM3SF8wQlhRNDhrRmF4Q1hkd0RQOERsSmozekhYZy1QYW9RTXdhVUZ0bkY2SFR5R0JHcWttZ082OVJnZHNhMkNzWnpqOFFST2lDenVFd1JpRUdBLWNMTUtEeHBkME1NY3VkaW91V3NIMFhpcHdtazRVRmZEcjB6VkJzSktOaGxTeWJNY2tXaE5LQjVKa1VfdzlGR25aSHpHaW50b2xraEpYVjdEOGtKbUthUUt2ZG51dFpTOE9hMDRwazBxYzkwR1FxVTl1V25DNTViTFZlVHZ1em05NndVbGFoNThScHA1eUxGQWVpVGJOT0FqNy1WY0hTdFpvbk1DcGNPQmNiYm9EUUhaSVJvVjIydEExNzkxdEpOam5za3RZcnZ0b0gxNF9NcW5fS2pPR0Nr?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Sat, 26 Sep 2026 17:16:00 GMT",
+        "discovered": "2026-09-28T01:35:06.164314+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "الرياض لـ المجتمع الدولي: ندعوكم إلى رفض ممارسات الحوثيين .. وملتزمون بأمن الطاقة العربية",
+        "player": "رياض",
+        "content_hash": "8cca1cda6d922c8112a927d6624082471baaee0deadf3ad2482fbc6dded8ae20",
         "sent": 0,
         "section": "middle_east"
       },
