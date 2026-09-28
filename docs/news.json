@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T12:51:45.161659+00:00",
+  "updated": "2026-09-28T13:03:39.689194+00:00",
   "total": 146,
   "sections": {
     "morocco": [
@@ -645,6 +645,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 6258,
+        "title": "محمد الشاذلي: وزير الرياضة سيتواصل مع محمد صلاح لحل أزمته مع جهاز المنتخب - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxPSVl6a3JGUG1XWU5pSFZLWDFlY1N4cGkzUDlHcEZSQVJmd1owUmx5WlRRUWlJS0lwWVVXTlpDVmhMX2VYVnNDenYzLW5jZ2YxLUZxWlVNOUZnenJjaUpzWWV6VGZVcTl3aHRiZEtnVlZab3BrZG9GbGg5NElKWUczRmpkUXNvVU9MWXlhMzBHOXcwNlFOZTZXU1RhSTVkVldvQUdWNnlvUmw5blRHNDJ6ZHduQ1RyVlJ1bGZOa2RiZUtTc0JVQzJ1WE95OElzQnR3SmN5MndJTVRMNDdrdjdZQ3lodnAxa2N3NWNaTDB6N25sZUJUZnZXUlFkcGtWV0ZCQW5SSnctZ0xaQ2dZaXNRdzJZdVlqek8xaW1nc2NIUUR1S1JISlNhRzN4dDJtTUhYZEgyaTMzQUNTWkdSei1xU3RJTFh4Z3lvVXdrYVdEbUFBWG5pc05EamRwWWRKQVp3ZTB5TU15czUzN0tGYl8wUUd6cGZwWmZ0aXJwbmk5b1pMOFhnNDJyNUxLTnY0bGd3WHFFbll4SVJXMERQZHM5eVhsV3NDbVk3MVFYZFV6cHFGb0tRaVZXTGdPOEEwNjJCb1Bpc3Q4UldsSFltUG4yUTd2WEZabXlzeEkxblJ1M2xvb04yejlSNHJJUU5ncndvVFVaRjNlS2ZjM3VvX01pcHIybWJ6MnNSa3Uyd2RQZUp3WkNVSlpWd18wVGNUYUtla0I3bUliZkhWbkJOS2NpZVZYUFI2b2JDUFpDYjZlb9IBxARBVV95cUxNcVVjLW1yTVhvR3lpVUk0SXBoLWRIME1BZmZLOE1RRVlyREc1Z1hzSmZncEtPZnBUdzR3eE9jS3pzU2ZaVlMxQ1JqUFNCbHBVQXpJZU56QU9Rd2czVEVJa1ZwY1hZWmF3djY4RTNhZnRvZ1A1eGJUZ2VWUUNaV1UxOUNVQzY2dmpNcWpKMFVZRlhaQzdObXBmWWkyMzZZQlNObzloNC00UVUybjIyU1pRTm5xZENYTEhQczVWdm4zdDlSci1ncmJvR293OW42Mnc4SEFWbE1jMGE3djgzTElfRHdCQjY0cTJQTWY0ZmFRRi1rX1hBeFdNMWVpaTIya2hidnNiN1VVSmREVV9yeWlNRjlQYnhCNjFYRVd0OU9ndXNFVDlDbVRWVzR2UUpCMHRyU0JpYXE5c1NCNFlYVTBCWWZOcFRULUdsWUhYbVU0b19pYXllLThOOTNGSGRyX2x0N2V5TnhnbS1ORlBZV0I4cjh5VUFUbUNrWnNhNUlJaWpiV1NrM2lqLXMycE5DYVZaRDA0OW5HSXFiYU1DWFRHT2hkeHZqRjJvLUwyNjNSc3VTNEpXTDV4cGM1SEZGNmZ4bXRRSGppQ0VvYlo2M1VlTHp3ak1KTVdlN0VnVkROQ3VqZ2xiUVJLTW9GU3dvUUwtVHNTb0RSR3FDZ3FELXZpMzRwUGFNaFhLMjJMZE9QTS1GT01iNGgyX1k2SHpHRUdrZFBDT09tM1ktdkM2UmQwcWk5b3ZyNHdIS1psUnFTdm5nTkRh?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 12:46:00 GMT",
+        "discovered": "2026-09-28T13:03:22.949965+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "محمد الشاذلي: وزير الرياضة سيتواصل مع محمد صلاح لحل أزمته مع جهاز المنتخب يلاكورة",
+        "player": "رياض",
+        "content_hash": "7bc284715870348d7959b391ce5f8aa6593f66b557aa6a02b0d0ba392901fd6d",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 6250,
         "title": "مباراة الأردن وسوريا.. ما قصة البث المشوّش؟ - bbc.com",
@@ -1426,22 +1442,6 @@
         "summary": "كردغلي عبر winwin: اشتقت للوحدات.. ومنتخب الأردن أصبح عالميا winwin.com",
         "player": "",
         "content_hash": "473225363fc28be45aeef0b7ce6d88881bfa17932e2ef27ed6647c234f0f45ec",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6172,
-        "title": "كأس الخليج - الإمارات تتأهل لنصف النهائي بثلاثية في شباك البحرين - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxPbFIzbWNQNEpFZEE1a0pQdXhUSi0zdW5lcU9VZi1EUWJhR0ViVkhUREVsNEdpMEJHOHNlbDEtNGpRX0ZFTTFZS1BCeWUyUEZlOUtJNlpBTy01WFNqM3RNekt1RVVFbGJxUjJjNjVVN3U4dGRQS3Ixa3BsMW5zTVhBMnNVMUZUR0JKWHVsSmM2WGxGRDFRNllIdDdyMmtGd3ZZckhkUE1welBONjNxNzE0OGl5MEh0aFpwanNzWkdXMjhWd2x0SmJhZ0JBV0tjZ2R4UXhiUURHVS1nTm00SEFVZWdoWkhiUUpsanFuNFBGQmV4YjRSaTZCNHFjdjVCV1pVeDFvWUt2M0dyc1ZOWVdaQ0ZyY2ZtS1VRMURPb3V4YnNtUU9rcDI5dkI3TmxSSWtqd3A1V2JBb2xUVWl3ZnlMcVd3WHlDWjlGd1RYNV9qalhvanFUNUlicHRUOXpMb0U5ajJrZzlBVWRtSzlsOEMxWlgxVG01WExZY29zRm9JdGVKajFma29YU01aTldkaDRrWWpLR2hhLVZoZW53czQ4NXBPTm5aOFdHTDJobktUV0F6VFJMRjhLc1poQXUxS0I0a01GV1U4LXhSZzlmOWo4aGVTWTB1Y2ZWZTNsSHUwQUtuQjN2R1Z5d3JSbmUta21HSnM2a293V0pxQUZMaEFjS3JrLVktZ9IBiwRBVV95cUxOeGphN3ZsTjNMcmR0SklzSXVNbzJacUZMZFR6Ym9Wa2taRnlYXzM2ck1vSGl2Yl8zclBtRjhCcFVkY0Y3LWhzbHU0Vm1RVzRhSHFOVjFXTUdBY2ZkdzNrRkZwbmFZcDJXVmdCcF9qa3RoWm04SXk5YnBFUUNvNF9pbEhQTGs1UWMwU2xFNEtteGF4MTcwSFVPNkk3SmpmWTktOGJ5cUVPUzZ0dEh1blZVYXQzOU40T2RvX3F5TUxJNngtaDlURTBHT1gyRjlYSl9sS05YX2E2SldyN3ctLUEyWUQ3bXN5V3g3Tll4UERYeG1WZ3FUenROb2cyTUZCSDZVdzlkN2JxSmFjRGFMQWY4VDVyNXFYRTVGRmljSWZ1U3RTTmRiRTVxV1BodVYtTEpQVDFsdUZPSmVvNjd1ZEVQeGdXeDZYT0NDMEhkUzNsT2dTUTBTd1JqRUk3UGpNbXlyU1k0X1pBU000NzMyOGtJcHpTWEY5S3FYMy1RYVNhQ3dra1FKcEluMk0zQTcwYm1wbW9ZN1RDQlNEV0V6QlVENU5jck1ZNE1lU3hyRmUxRk9Tcm9VZDRsdjFySzJoZi02bUhPTXVBWnFWaHR1Z0c4bmZWRUV4TW1uMGdBbnB2OU9fVmx5SkRNVnRoSnRwaVFISHJ2WGtrRkFhYVZLeDFXWl9pNmhWSlpwaDJF?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 23:05:00 GMT",
-        "discovered": "2026-09-28T05:02:41.618474+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كأس الخليج - الإمارات تتأهل لنصف النهائي بثلاثية في شباك البحرين FilGoal",
-        "player": "",
-        "content_hash": "ff7cd413d00b5fc6de1f6b8292ca987d9d63a9c41b3014ff2c43848cdc6fbc03",
         "sent": 0,
         "section": "sports"
       }
