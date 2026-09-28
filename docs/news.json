@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T02:58:27.263575+00:00",
+  "updated": "2026-09-28T03:14:54.483764+00:00",
   "total": 133,
   "sections": {
     "morocco": [
@@ -514,6 +514,38 @@
         "summary": "جدول مباريات اليوم - 28 سبتمبر 2026 - بطولة كأس الأمم الإفريقية FilGoal",
         "player": "",
         "content_hash": "5f9179e0f97a6674a4744296d9043731c53cee5c7839e56f94e0773103439e23",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6159,
+        "title": "جدول مباريات اليوم - 28 سبتمبر 2026 - بطولة كأس الكونفدرالية - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWVVybFh5YXRBWnJEeWx5NXlHSV85TjNST01feEdoYnFJYXE3U0xLVXF3amZrNTd6WURfYnpNZWVYMWRJMEs3TWRVMnBHcjJTWUJBWklGN2E5VE9TZXdQdXVIQUt1bWVld0xfY3poUzg0NUNJLUQ3TnZLNFZ6UFNXTGJaWVlHcEtkelBOVC1KRnl2bmYyU1lTb21haWNjcjdVTkNkSy02RjNtYTJyS3IyT183MnRXeGE5OVZwVWN1Z240UjRuQnFUT18wUmxEdXVVN3VsLTQ2eXJVYUVqMm1sb2VrTEtwOEtWVGh1QmRqOVd0RDVlTjdIUndSbEo4ck5XNlVoSGNERnlRalU?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 00:00:20 GMT",
+        "discovered": "2026-09-28T03:14:39.852357+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 28 سبتمبر 2026 - بطولة كأس الكونفدرالية FilGoal",
+        "player": "",
+        "content_hash": "f38deb7a06bf01a6a82d436d96814987360ef094137c43f471832009dbfaa833",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6158,
+        "title": "جدول مباريات اليوم - 28 سبتمبر 2026 - بطولة كأس السوبر الإفريقي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxON0paOFlDOHVvQjlOVElielYwd1AtUV9vcktHYUlYWVhBeDBNUEdLRjlqQkdUWW10QVBfSjlyVWp0YmI3UTdsZVlrNkVlZEFZVllJcEFOeFZLWE1QVlV6endnRTVmTHNraXZzUVBvSkpTa0FOdjNtWFZNWjloR3ZQdGlYbTBILW1OUVlUclNlcFF3YUFSRTRoQzk0SFVTS0d0b0hsUGFzNloxZWh2bURXMUVkTU9WTHRsOW92Q3RtVy1WMk9KcG1NMGJ5eWhqMWVnZ1JBd2lCeldJNWxSUFh6WThrWHdQcVI3N2F1MG9iV1luYXFBZFNfY1dkVVFkSHNkOG12cDBaLWxaUS00X2pHTFZjMmJ3Mll6TDRrVA?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 00:00:13 GMT",
+        "discovered": "2026-09-28T03:14:39.848936+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 28 سبتمبر 2026 - بطولة كأس السوبر الإفريقي FilGoal",
+        "player": "",
+        "content_hash": "8ebb3085813f3b19f3900450808e6d8de5956ffd1a45c73af3733ea7f15b51d1",
         "sent": 0,
         "section": "sports"
       },
@@ -1234,38 +1266,6 @@
         "summary": "مونتيلا يتعهد بالفوز على بلاده! الشرق الأوسط",
         "player": "",
         "content_hash": "167aa694f5784e43556abeafa8a9a95ee5560c9dbe4cf2783b9dae88156e5cc0",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6117,
-        "title": "كابوس كأس العالم يطارد فوزينها مع كولو ومنتخب كاب فيردي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxOc2ROdDRNWTgwUld4ZDRiYVh2eEtBM2R2ZUR3Z0FzYnBHRTlKdnZaSnpLUkV4TmJsTE1jRFNyUDBPSTdjNjl2bTE0X0E0MnQ2a0RLQnR2S2pNemZ2NmRRRlVyMlVXMzRUSWllMEJ4bkg5WTVYbnpqWGZZcTVJU2g3anp3SktfenhYcWdxY2VmX0QtNi1MRmVnUDd5dlJJU1B0cHhKS2xFMVVBVGplSFEwQ2pvdlg0UENZZTM4NFYtblJwSndJamFkSFN1YVlSd2lLS3Zpakp2WFJ6TDVwQ25JSEpZRUFoWUdaaVR6RzBWd3JSNktMQkZ1MTlUZkRacUxPOVJicGx3bmE1WFIySFNLcmExT21uQ0dKYzZCYm9WVnVKU3pOR2RNQTRtNUw4VlozZUlmSXd4eEptLXpJNVlNWkEyaDYxVk9FX3hJZkh4UmRNb29xbG5TNGNhdHhHbENublRVZjVHdU5HVHNQUG12S0pnM2p5YU1DNW9oUHNtNTVoMFNnTXVRWmY2M0ZqMG93dFg5VnVvcUdiclREcmNFZFdGX3RaVG1rMHFzT0lONzNsY0V1V19Rd2VneWVQNXJlZHF6YU9xWG1haEpJOC1xd3ViNm1PUDBrbWNuNlZ4NHVZTjhfZHfSAesDQVVfeXFMTkVuUVhQMkRmbFZkTFBKQmlwTGk3TVhCZTRlb2wxMGpiV0M3VEFEcElxdTJOWjhsaWJHNjBCQmo5LS1HaFhCT0lOdEwwWFVBMGFHY05VU2JHcW92VVV4T2JLVDRmVmRBNlNxNE1kcVJZQlF0ZWc3ZWZBU29jY0RUUVJ2c2pOQmxjVkVjUmlxcG1qSGF6MmNBUGFxN1FQbGk1TmpTaFExNmZEd25lR2dzMTFralA0OGktckQ2LVJqN1Vhak0tLUpoRHhfZWFFMWdxZkxxd25nVUlPWmJia3c0VnJNVk9vYlNvcUZMVEtQazZ0MTIxSFFIYUU4TjBESm9aTVlQdVpXQ0NLTVRSWGp4Snd0eFc3NWVIajVibVpwWXVRa0lpOEpHYjlnaVJ6cWN0b0xnbE5MRkc4VVV5bk9ZbHNhLXlERmN6ME44UGpIcUZRZlg1MWpMRTZKMC05MjlPbjFXUEVuUkI4aGxrUFBfaWc4QkhYOUlxYjd3eUFMc2F0ejgzd1Rwc041aWFqVDRvcXN4ckszZS14Zk1xYWlYUGhULUdIXzJkOEh1S3dLT2pKX2xYUzdKSVBBa3huTm5WaXJjOTgxdkc0c0RyVkVrOEtDdGtNNmRDZ1ExbmhKLU1TZlBBRnk3a1hVdUU?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 19:02:00 GMT",
-        "discovered": "2026-09-27T23:10:44.359005+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كابوس كأس العالم يطارد فوزينها مع كولو ومنتخب كاب فيردي يلاكورة",
-        "player": "",
-        "content_hash": "8e57803eb9add88b02d357dfe47603eaaa70f344706d0b23cdce25f44944fdaa",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6034,
-        "title": "بث مباشر.. مشاهدة مباراة البرتغال والنرويج الآن في دوري الأمم الأوروبية - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQeGd0ME83OTFGazV2Yk9tTDljVHFmVmVNTFhzMDg5SlRQSzFuQ1VrZ0NlUi1mN3puNDJIMTBiSnJGQUREUGtVZm1FLTBVTTkxV2FiSjkwTG1VUm42YnFfUU9GM1lOdFUwUHV0U3p1TVhTVmhXV1EwUlZzenJTZThxZjJVVl85R0RMS3QtWHZXcU03cEdlWml0amdiQ2VXZHR0VWppWGQ2N3RXRThqUHE4aG9Ea0REMTd5bjBWNGp3a3hBS25xaTU2MVlWaDlSaGVycklvR18xTVJpOWlCNGdDU1RheVZCTk1aN3B5Yk8zVG9OZ2lhejhwV0NWM2V6OFVENXl2NEpRdEk0OWhNSFAxQlBQbw?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 18:55:01 GMT",
-        "discovered": "2026-09-27T18:58:12.151772+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بث مباشر.. مشاهدة مباراة البرتغال والنرويج الآن في دوري الأمم الأوروبية 365Scores",
-        "player": "",
-        "content_hash": "3a9088237fe41803771f0e192227a2d35da831fe5deac94f4ccaf415ff45a02b",
         "sent": 0,
         "section": "sports"
       }
