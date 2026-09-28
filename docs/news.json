@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T13:56:15.934230+00:00",
+  "updated": "2026-09-28T14:12:24.414320+00:00",
   "total": 147,
   "sections": {
     "morocco": [
@@ -496,22 +496,6 @@
         "summary": "بوتسوانا تنسحب من ملف \"كان 2028\" Hespress",
         "player": "",
         "content_hash": "4a66584df3911650f4c642d48075963d0ec7d15a5699254ef56e717a3257f152",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 5780,
-        "title": "وكيل طنجة كيلتمس من قاضي التحقيق يهبطو للحبس المتورطين فقضية “تزوير الأوراق الانتخابية” وها التفاصيل - كود",
-        "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNRkt1eTZwYm1MRTM1TTJHU2pfX1gzdGM5alM2WVBfLXYxVmxTZjJsZ3RsWWhUNXp6NUs3cTNfRWR6dUJuQTY3QkpyZUszWDVCMTZacVhTY2twMW1wbXFZNnVHQ3QyMkZHLVNXM2hCS2Z1QUYyRm9ZTHhRN0I2eUxvZ2l3UXlGVHdNZTdBbDlmejdtczI1YmlpRDF3aGozRnV4aERHX2hsbHNZbUViUGU1bmtnOExKanEwMUpHVkxLang4dzJqRHVDeFdGbjhIeXlYd2hBT1ItRURPV2hta3dVcDhad3J4V0UyYUFYZWFLNFVHR2NtaEt5S1JSQ01GZURqM1FXT01YYmljTEhuU08zTk5ON3FKaXoydk5iT3Z5ZFFGa0Z3U1owLVlIWTVYS0x6c2l0NWFHci15S3M?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 21:46:20 GMT",
-        "discovered": "2026-09-26T22:18:54.849270+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "وكيل طنجة كيلتمس من قاضي التحقيق يهبطو للحبس المتورطين فقضية “تزوير الأوراق الانتخابية” وها التفاصيل كود",
-        "player": "",
-        "content_hash": "bec455c2c4558b640adef7b181a7fa80dcf5ad07dcecef49acacaee426eaa27c",
         "sent": 0,
         "section": "morocco"
       },
@@ -1448,6 +1432,38 @@
     ],
     "transfers": [
       {
+        "id": 6285,
+        "title": "لدعم مركز الظهير الأيسر.. برشلونة يستهدف صفقة مجانية - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxOd0JDRWJLZmVWUG1lbHZPN0NyNk9FX19WNHEwdHVaTHphaFByZGtVdVFVVTZhSWJ1LWg1YW00NVhqY2NRUmtYNDFsdTEtR3pLdElndmFIZG9sdHlSNmtKMURZTTM5S1ZXYkhEWlJrNnlGbVc4N0t6MzRZUVcxc3BfRS1tczhlNnY2M2Rrc3JfTHpqRm9OTDRWQllOMW5oZFRIVXNuTXhYYjJyTHFPLUJYbzBEVGhVb1g1czRmUzlyanBsbDhTR3RYRkRVSFFyYkgwUjFLNFZQRXVBM2R0cUNCQ0FBdnJrblplaU1SSDUzYU5Ca09kM3g1Rkp0a01ydE1CNE1namp6TlRhZnhoRVNTUUlaTnJqbzRfbndmSjEyMUFONUdDbVd2TXNweGxuQkFJSGdjNEc2bEowRHhNWnp1TWtXLVdSQTVZZUFEbkFnMVBVQ0NVMVZqLXFlRmlORV9BSDFkbmxCVDAtNk5ESWdfS3NmNHFwdk5fbFRaaEpueDVpUWw5NXUtZWJGbUNZejg4Y0xSUThXaWUyWThWbHdnTDREczVNY0FyWHAtdHlEVFVSYmJyZGpzaXhWZFUzbW5MZFHSAccDQVVfeXFMT2VIT1JNYlk3WVVaZC1ONE40dlBUVWFBVFYwbEdtQ2Z3WlNoUlc4SmhSWW01X2VGdldqWjJJQ3BsLWp4SzZzZEg0bWpneE9xQ3ZmMkdlQUY2Mm1GT3BGVjJPZE9HLUU4QXVEWjJRbkRWQlVrbEM3aWFzbm1rLUFIR09wc1l4YTE0WjBIOGVydFNiREg2a0VBVnlrMmk1MjR0dUxGX084VlBYX1V3Q1JfS3RUNHNRR0UwX3lxdE5tZEdXbkItQmp4dzdBemJGZFYzZnhBb3BCWkRyRkVaaktKVkJxRjVjeUJrSlpTeXZ2c1QwaktWdWsyVnYwblNodWVKY3ZvUG1hTTZwVGVrci1tRVNHZms0ajhLdjJVdkZranF2bDJ5TG5RMnZ1RU5FSS1vbEVoQkdOS0I0cGVJZEJmamdqR25rTU9PVndrUVZ5Mzc0b3B4dTl4M3Q0M3dIM0pZTGRyeTFUTmtOWk9kVV9RTEdOdW9PLW5HUWw1ZmszeTJvOENwb0lGMmpKNTJ1bkR1Q2tGT3VaOExHTFd1aUd1bEJWT1R3NjA1bDBoNkpRcWlER2VHQnhBdkR0RnhRb0dQblptS3F1Y00?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 14:00:00 GMT",
+        "discovered": "2026-09-28T14:12:04.548263+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "اهتمام",
+        "summary": "لدعم مركز الظهير الأيسر.. برشلونة يستهدف صفقة مجانية يلاكورة",
+        "player": "",
+        "content_hash": "eae3399fa78edfbb251fd388abe421aefb6281764b04cbe6de586ef78baf98f7",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 6286,
+        "title": "أنباء متضاربة حول عقد محادثات بين واشنطن وطهران، وإصابة 8 من المارينز في هجوم إيراني - bbc.com",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xVW5FMzZyUEIyejBHSGJQZ1lVUXAyT3U0SHVKdi11QTZnTFQxMDlnWkJRdlpvUmwtbWk4TmxGZjRyNk5GUExMVkNiekNfWGV5ZVgySGYxdjFUOEFiblHSAWNBVV95cUxOdzdYSnIta1hyN25ubUVyam05dERWS19yamtfalkzdmJQWUNQVDRnYTBGZWhDa0VOTG5sNFBmZEVXWmZXVXZBazhNMkptcWtRLWlJSWFhTEVzSzFfX0JvQmZwc0U?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Mon, 28 Sep 2026 13:57:21 GMT",
+        "discovered": "2026-09-28T14:12:20.555674+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "مفاوضات",
+        "summary": "أنباء متضاربة حول عقد محادثات بين واشنطن وطهران، وإصابة 8 من المارينز في هجوم إيراني bbc.com",
+        "player": "",
+        "content_hash": "8fe1f788d36e60f245f0ab578903611050e3e8ca24f604f9d309a63dda031dc3",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 6262,
         "title": "الوداد يفقد وليد ناسي لـ3 أشهر بعد خضوعه لعملية جراحية - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - febrayer.com",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yMXRPM3dwaHhBZkwzV043LWprSlY3X0d5bFpUbGFnNG9iaTZDTk9Pb0Y5UU9zcS03Y3RJd3FWeHppdUJtMEE1Qg?oc=5",
@@ -1864,22 +1880,6 @@
         "section": "transfers"
       },
       {
-        "id": 5782,
-        "title": "انتكاسة حقيقية.. نجم برشلونة يتعرض لإصابة مفاجئة - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxQTFlkS1JleTZBWWxNOThDRWNGbWtZXzlieTJaeThlWWJmQXAtLVZ0Mmd4d1I5ZkszSFhOdGtvN0lfM1JjZFY2X3FRZGFaV3FZNHhHdVJZZDNocS02dUZkNHZmS3F4bE5LNnJFOUFCYlY5S0lFdDB2YjA3SzlUdS1tRUhzOUZMdzFibGlxYUxySmpqeHhQdXZSYjVwQ3hGQmdvSzh2YkhoLXpLQ1M4bkNodUw0M29rTE9oMzdQb09FN1pGaHpYakp6UDVzT2RCLUdkR0oxLVlPN1VKNGc1WkxIc0N0MlowZnlvUDdjTlc1VWdzR21SOXh0bmhBYjhadjFnNjlBOURmRkZOdnYxM2hueGY3aUdBY2oyTEs5N3lwR1pneXNPMWt5TGF0czJ3QlM4YTdpVVBHLW1JeWx0eHdBSzJtM24wT3VtVFRzM2JuZ3VNN3ZHS0RjV1YycWtIbjVyT1R3eXllN09Zcm93WFBLUTVMYzhtWXdNZEEzc3FabWMtUVhaUFBWTmJ6T2NiLUpxV2pSLUxkU24xN0Z1UkI5NTlrTkVHRS1QNVJmQXNEOUt4VTgtQkh1NUgwN2tjRUFWeDVyendwb2Q4LWtBRTFxTDNlcVJ3LXRVRno3TkNKNDFlMklLUU1fS0p1eEdKTDVVSEE?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 18:56:30 GMT",
-        "discovered": "2026-09-26T22:18:57.588463+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "انتكاسة حقيقية.. نجم برشلونة يتعرض لإصابة مفاجئة Kooora",
-        "player": "",
-        "content_hash": "4b7f476eb40df8b37652c807ec1ac6db429c672842bc3f5d923eb75f15dd5959",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 5877,
         "title": "من حرب العراق إلى حرب إيران.. مؤشرات قاتمة للجمهوريين قبل انتخابات التجديد النصفي - الشرق للأخبار",
         "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxNWWRJQ0QzOTIxVmRwaDlZODdoX2pkTFNNZ3BmelJLMHV2SjlOekppN2xUcl9zb2dBaFlsQ0hCb3BnRWdxQlRKLUdJajhWNHFneU5tMld5TVVkVVp2STNnTGt0a2hnYzB6akFhTUxiMXpzb0VUdWhEcGE3WkRVTjVhUjdIbU01VGNFWlNhajlHUDcwWVpBb3VCSWRnanpFc1FPMFM2ZGNONGlyckViek1VbHJhcENITWhyTU5NR1NDNzJpVWpIa0RDdWhsejVFNmZzcWlIb0s4cFRSMG1XWFl3OW92QXRkRXJhSmVYWFd4TmZ5R3dzVTk1MVNrV0RjQVpNWS1LMEFab3pERjloOE1sTjhCQTJ6Szc4X0JvNW9VOVJpT19SN0FKMFN6XzdEQXR1RVo4c1ZmU0E4THE0Q0RwTkl1VjhPcFN4Rl90azNSb3VVU29PWTBmWWg1bHE4eXA5MFVScmROWFRKUHV2N1lFdERjbHpBQ1BrVGJRSEdYQTc4czNub2dhQ2c2RG9UakFHX2VBekwwblpxQTJTZ0hydGhjSjZfdEREdHBTczYyQXVqVzV5cDZhanFiRFJqcHc3UjcybFhPY25HZ2NpNm1uWmFUM2p2VW5zdmNkSDhqNmJXVm5CYWVibVpfYlp0QmlpVHIxaVIzTQ?oc=5",
@@ -1908,22 +1908,6 @@
         "summary": "حميد برادة... رحيل الصحافي المغربي المحكوم بالإعدام قبل العفو العربي الجديد",
         "player": "",
         "content_hash": "df0e6828120f3c207f0ca83bfcbef7ce3f8ab3e8014de9b275ee9bc66040fa2a",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 5785,
-        "title": "أذربيجان توقع اتفاقيات استثمار بأكثر من 10 مليارات دولار - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxPVVRtc0pQSmhRX2o5Ylkyc3JLQUNFdEZZNnBJTlB0dExPckVCWkVlSFZveHRwY1RBLUUwRUZXMENuNEFRdDg0VmZuMFlhWU1waWY3U09wSEFoNmpnMGNhNjFSSk5hZHZXNjY3TUVELUVqNDVlNlVjWHhVTzIwSW1KRXRMRE9DUzVTdUVlajI5YWdkNDktcVhGc2Z3T3kzcElLSVJvR0JiZUtNci1Jdk5wZVA3cU5Rbk9wUy1PSVRBdzFscUFpdE5ieXNfOUxUZ0hPT0ViaHhOUEZzWFB1enpQTVpfaGRKVzdobGdZRFhNcnZHc0VtMGpzTktZTGNpdWV5dU5lWE9iV1dHc0JObFdRYVBXZDAxeVo1ZGczNFZMY1ZjSHJqbDJCNFVhWFlRbDhFQ3IwZlZ6WEZFdzl3YXJLSWlndlE4WTZ1bFN2RnhWeGZfRFpDakM0NWJ3d2pGaUpuX3NrTDFSZ2EzbXgzQURSZWpSYzc2dV8zb0FHOEV3WC1kWjRRbFZ3QlB4XzJrWkg3RGZkd3ZhaEpvTDNDT3R0RVRYYzBlSnI3ZlNoOThEUFpOS1VTa0xSWVdGZ1BRVzgyWF9LS3o4V0kwSC1SRjRaYW1VSFNDeVUwdXIwVEI2UkpCNGw1aDJYclFCbVdZRlVHMmEzLWpVbjVXM2lBbGxN?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Sat, 26 Sep 2026 12:12:44 GMT",
-        "discovered": "2026-09-26T22:19:11.115880+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "أذربيجان توقع اتفاقيات استثمار بأكثر من 10 مليارات دولار الشرق الأوسط",
-        "player": "",
-        "content_hash": "0b9ca84d09870b8174d199f5c680ff703d06d49f56bc8025dd6e0c4884d00fd4",
         "sent": 0,
         "section": "transfers"
       },
@@ -2248,6 +2232,22 @@
         "summary": "مدارس الرياض تعود حضوريا بعد ساعات من إعلان التعليم عن بُعد القدس العربي",
         "player": "رياض",
         "content_hash": "f21890b22e645a95ebf57fd390e05910729fff629375c3fa2b29e46dd4374de2",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 6287,
+        "title": "أسلحة أميركية للصين؟.. سفير يتحدث عن عرض قدّمه ترامب لشي وواشنطن تنفي - Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQmlka0lVNk1uQ2R2RjJwZ3gweWRKOTVKU3pnWHV3WHdsTE5ZRGJFMnJQcS1EN0hPNXUzdWV6QVRJYk42QUFwN3VJcUh3R01yZDlVa3JPbl9VTXdFMkhMUnNnWGRUZ0FjLVdyMjhkVmlBY1BYTmQ0QWdXLVdYam9RWWRZQVdld2VFUExKaV9DS1lUYkpfd2NhbzNkaGdqOWkt?oc=5",
+        "source": "يورونيوز عربي",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 08:08:42 GMT",
+        "discovered": "2026-09-28T14:12:21.262845+00:00",
+        "category": "العالم",
+        "status": "منفي",
+        "summary": "أسلحة أميركية للصين؟.. سفير يتحدث عن عرض قدّمه ترامب لشي وواشنطن تنفي Euronews.com",
+        "player": "",
+        "content_hash": "a38a24f303c085f104920701e84bcbcf873c7abd5cc2361a21b7d8dd33090d4d",
         "sent": 0,
         "section": "world_arabic"
       },
