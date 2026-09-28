@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T04:01:05.570056+00:00",
+  "updated": "2026-09-28T04:20:33.614656+00:00",
   "total": 132,
   "sections": {
     "morocco": [
@@ -469,6 +469,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 6166,
+        "title": "بفوز تاريخي.. اليونان تكبد كلوب خسارته الأولى على أرضه - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNRTdSTmZrM0hYMmdJRnlkUm5FNTBNTXNYdTZ6cTFDRElLcGtLbjJNNE9hSi01VlljZzJMMHdHUXk1Wm1vMDhBRVBEUTc2VXhZTHVTaXZ0SU41YlplOTBfMVE1X014cVRVWk1DMVZYRjQ0RFo0TDREbzVPS3VNYXdWam5aaU93M0d6elo1X3ZuMUdqaUlGcmRKcjRuVGVNemp0UzdaQktwU2loSUhKbmVUcWdtT2lzRDBiVWpsTDYzek9HWjVFYzBfVUNiNnVJYXl3R1pVbm9lQkw4SEE3MUlDSTRlWjZTbXFxRm5qZTNpdmdGLVg0WVRZYXF6VEF6ZTFvd1NlVWNlRV9mVGhMam43VElOc2g1ZlFST3JWdHVUYmRVTVJ2SzI2dGc4MEJNaWwzMXNfc2RzdTV1MlZnV2ZZemFFSFNFQlViX3BiUm45SWRDT084aUFfcjF5OHRGTmJyekpILXpmSU83OGRCLTUwakZpRjRpV3p2d0ZId1Z5V1h0WDNOT1dpNjBPY1RhV2JWY2d0V0RiQmdaMmVXS0E0aEthaG9HVDFY0gGuA0FVX3lxTE16QzlqWGhROFdrMFo3QWhsMzNUSVJfU3M3THpxQ290Q3A5WmpNNzUzRW1qcTJGY0xJbFhsRGY2REZPWVloTlNWWC1aY3lHTTJaOEZ5b1I2Q25zbEEzYXloQkdfSzhGTm5sZGdHZnBydy1qOTJZQTJIcWd4X1Y4bUxfWGJBZmpJX3ZzaEV2S25haTVfdU9GNVhQdWdZRzQ3RHZuZGFlS29vUTF6ZmVyM29nOG5FcHdnMWgxVlotUTBCR283alBDVFhJN1N6QlowN0ZUYUZFYy1fa2I1UDVTbmRyUDZ6bklHWjNDU0ZwRjh5TU9mMmpwMTRyRHZuOFg5TmwweVZ4SENSVkRCWkxxTWZnOE9SSi1xTE5Nbk8xSkQ5Qnk5U1NrVjBCbjdIdnA4N2thRUpLdmR3MkhJeWxTR3FuMmZBcm5JMWprdGdMRXM4TFhXbER1Ynp4WUUxcEJSbDA2V0FKX0E1VjE1MVVxaGRjdVdaMU03RV9SYVNNT1lqVmM1RXlaNGs3WGwtQjNXQUNtb2tnRHFDOWZGYkdOaFdzN3hjbW9xb3RLMWU0b1E?oc=5",
+        "source": "سكاي نيوز عربية رياضة",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 00:12:21 GMT",
+        "discovered": "2026-09-28T04:20:15.924097+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بفوز تاريخي.. اليونان تكبد كلوب خسارته الأولى على أرضه سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "3c17131c6d1a94498720a98d64964a3fcc0591d6a4b3614f5636ccf302cb9e3b",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 6135,
         "title": "جدول مباريات اليوم - 28 سبتمبر 2026 - بطولة قطر 2022 - FilGoal",
@@ -1250,22 +1266,6 @@
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
         "player": "",
         "content_hash": "c64a308fcab159b9a7cec983ae758a7ec00ab32d4cd60fd3594832e153563c53",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6047,
-        "title": "ألعاب القوى.. المغربي حمزة السهلي يفوز بنصف ماراثون بلد الوليد - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JVGhnbU9kTzZUeUFHRlB2M1RxZjU5YUVuTGFqcDhid2ZSck9DblRfVi1Wd2NsRUZQaVFydTFLZDI5V1p4endqUA?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 19:34:24 GMT",
-        "discovered": "2026-09-27T19:45:04.265118+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ألعاب القوى.. المغربي حمزة السهلي يفوز بنصف ماراثون بلد الوليد Febrayer",
-        "player": "",
-        "content_hash": "a29f3f9b0a433a7458cf27de844c883ef2c2714d6d4ea5cd9dd02d74762fbe77",
         "sent": 0,
         "section": "sports"
       }
