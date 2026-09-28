@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T19:24:55.077341+00:00",
+  "updated": "2026-09-28T19:40:03.939890+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -16,6 +16,38 @@
         "summary": "تقرير رسمي يرصد خريطة الاتصالات بالمغرب: 58.8 مليون هاتف نقال و42 مليون مرتبط بالإنترنيت Le 360 Arabe",
         "player": "",
         "content_hash": "0b23905755b8dc5793a9c488061f8a75116336cf882e57d216530e74185fb7fb",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 6403,
+        "title": "لا لشيطنة حزب الأصالة والمعاصرة! حزب شجاع لا يخشى القانون. ولا يخشى الدولة. ولا يخشى القضاء. ولا يخشى السجن. ولا يخشى الرأي العام. ولا يخشى الإعلام. ولا يخشى أحدا - كود: جريدة إلكترونية مغربية شاملة. - goud.ma",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNdmFoeTFJMjdJUzFNSjhvZjY1Zk9PcjZReFV3ZWhZd2dTNnZLQzFCeVZMcDF1RTdubTBHQnRXc0V1WUk3aG4tdTNtZXhZUHZSLUVnXzdtOXozQWVWcXIzU19WV0VjRzk2S3oxSWE5S1dNUHoyQ1B1MzFBandtMUlobnhqcTkzLTNJX1ZOdkF2ejJCQlNKR2tWT0ppcFp0aFVhWFNJTkRlTjNQcHBFVWtXMlVxVFozMXlOaTFwaTlZWW5uUGo5OXh4eWVYaUZxb2k5WGZIRTFaNi1LTDdPS0pGMWVDTTk1X1hIUjNWa2NiMXdfeXdKQ0Q1SzBvdkd1V2JaUXdXeENJb2RsX1NjYmQ3ZWhJUjJCOVRELXNqd3hVMWIxc2dydVZKWDZFZ2VUVmRpR3FiOWRULVRfZW1BWjllTk51MUZSbi11Q1Zv?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 19:00:35 GMT",
+        "discovered": "2026-09-28T19:39:39.474961+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "لا لشيطنة حزب الأصالة والمعاصرة! حزب شجاع لا يخشى القانون. ولا يخشى الدولة. ولا يخشى القضاء. ولا يخشى السجن. ولا يخشى الرأي العام. ولا يخشى الإعلام. ولا يخشى أحدا - كود: جريدة إلكترونية مغربية شاملة.",
+        "player": "",
+        "content_hash": "be11b3c96145944270a12aeec9c99f1bd1b94c16e4261a94e0028bbd82bdd11f",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 6401,
+        "title": "أوّل الغيث يبثّ الأمل بين فلّاحِي المغرب مع الاستعدادات لعمليات الحرث - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPRWJ6QUpqSEQ4dUEybkljbUh4RkY5TTlMZ3hmVGwtd0tGMi01TE1BZ3VoNmdEV3Z3N2RVWVgxd1ZrSmVNcmdsMGhSUDhYN1B4cVI1X2VsQ2JLOFRUNjBWV2ZRTmZBaG1yOFJhM1VaVnVBRjdPaUFiNm1xUnVqS2cteHN2d1pPS3RRQ0F2NE9uRU1kb0dFVVVOQmVQLXdtTmo2eDJVTEdkZjRXQ3A3OERSRzc4YTF6S1Y0blVJN1BpYTVDek9oZnV5UE5uLWluX0RhQW91YXd3UmFyNHZIb0FvOUNEaE5nZjQ2VnB3R0o1d0NIZlVmWS1WM2ZtODhhMUdfMWJjazdMXzJhSXNhMXBDMlYxbDlZbFJ2eUd0LXVJa1Zyd3V5VW5UV05aXzVEVkhEY05vbU8wTkN3dWxteW05Y1p0X0Y0RTZ3Z0VZOVFGa19LQ28yLXZZ?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Mon, 28 Sep 2026 18:02:47 GMT",
+        "discovered": "2026-09-28T19:39:35.480161+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "أوّل الغيث يبثّ الأمل بين فلّاحِي المغرب مع الاستعدادات لعمليات الحرث Hespress",
+        "player": "",
+        "content_hash": "a333acf309e028a58ea16ee0a3e4a8da5e688ec5590c3a23f518d819979a590f",
         "sent": 0,
         "section": "morocco"
       },
@@ -564,6 +596,22 @@
         "section": "morocco"
       },
       {
+        "id": 6402,
+        "title": "ابتكار من قلب قرى ورزازات.. يافع مغربي يبتكر جهازا غير مسبوق لرصد حرائق الغابات - Akhbarona",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XWTlwWXlIUnN6eWE2MTB3YmltYWY2bnEtcm8wbzc5UkIzdnhnQ0pjR296eXpzNXpROTNMZlRTUnN3eWY2WkZRTW5BYTNoWXhESmp6WTFKZmJvZmJC?oc=5",
+        "source": "أخبارنا المغربية",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 13:52:00 GMT",
+        "discovered": "2026-09-28T19:39:37.750450+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "ابتكار من قلب قرى ورزازات.. يافع مغربي يبتكر جهازا غير مسبوق لرصد حرائق الغابات Akhbarona",
+        "player": "",
+        "content_hash": "2f7fd6d4f4edc34c1abcf8760ace90587d6b769b47e764a2a39544d74338e310",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
         "id": 6256,
         "title": "البامي عمدة طنجة اللي هارب خاص اقالتو لهاد السبب. الليموري راه عندو اقامة فالصبليون والقانون واضح: الإقالة فورا - كود",
         "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNdkQyazdMWXJVMVFILWI3MG4zdkRqdTk4RnMwR1lfbVAzQkNCU0J5amcxN2VfMEJjdGlCMV9OQXdsdTdJQXVrQ0l1amY1ODJfN3phR3BabUdiUG5RZWlfNlAyeWJzQWY4YWRvUkY4MjJQVXZMS1NfWGg4cDJWSVpmWHpMbC1IZWx1UUdZN3BHZGxTeGJpbnNWVVRmWVRCcmFuMDJ0eGJYVUhhakhzYmZ5QlJqazlvSTRLUUFWQWZmdURHcVFHTXFNMTFqM0d2RW5Db1E1anpGVUZ0U09mTk9BRWdWWS1SeG1tLXRiVGM2dUF6cTE1dVJtQ3JIZS15VE9MYXJ2TXZ3U01BYU9mcU94SzNMQnpUOFdhNzh0QjlVX1hzcmFIR3lzMzVzdTViSUI0M3l3VGtmbF9meWFrVG5PMUhoY0RVRmY4LTQ3SQ?oc=5",
@@ -720,22 +768,6 @@
         "summary": "افتتاح فعاليات مهرجان طنجة العالمية للموسيقى الأندلسية المغربية بطنجة | MapNews",
         "player": "",
         "content_hash": "f8a9f4424317babfcd8513ff08eb8c66592dbb33c52a70dc1ec5a5bddfd05f60",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 6371,
-        "title": "ترشح المغرب لمجلس الأمن يعكس وزن المملكة كفاعل دولي نشط (السيد بوريطة) - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxONnFLY0JDUElKbjhLT21kNzhQQUlSWk85c01NLVZ6TXdWeXUyYlRETktuOWEzWFZzUzVrb3p4c3lpbGp0c3dWcUl4S19rNjlHU0xlaGpOa2F1b2ZZYVRIc3Y3SmdFa01RMXpSaGkyNnlhMUZkT2V6WGxQVjFGUlVJNzhSSkZ0V2kyWWR5dXJpNTZBcXZNYlRjWGdvdWxfRVJDZG43eEFxN0o0STYtY1JvaWVjQjN2YnJXZ2dKLWZIV1ZCSkxDMW5FeFhuMDhvRFFTM1pJdUdlWWZ2U083cF9HMnFRSGlZcWtWQk5zU0N2NGhWXzdkdHZBakllU2VWeTNrdm9GME9ud2RKajZ5am1SWnI4dFBPTmxSbGhIb09ObUJ0X2t1a1BzRnpmazNtOG1CYUk1M3c4eUVwMHlpdGFOa3pVcXpLbnBQMjNJb21rZkhVLUhHU0NyN3pJcGVsTjdhRHJTQllEc2IyYzh3QVRGN2tuQXhBcFVaUmZqS196Nm9leGU3OTZMZ3VJbEpwbGh4ZDE0NGZwM1lyS0lDTHAzTnkwUERhS0hPSUw1cTZHMHNVUzZlMTh2TlJrSFBpcGJrNFhXSm9iWHVaazlFUzNpV0YzNE82WmxQMEZJRWN1dEdOLWs3d2xSbGVHNDA2LW9SLU1YUWwzVFlXc1Blc0tyXzZJeV9nY3B4Qy13OG9YNXAwTkJKdGYtd0hzdHZ4Qlc4RDBxMkFSSy1GY1g1M3RvTmNHb2RyZ1U3cGdZRFF3QkJSWlJydVg3UzFVVFV1dw?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Sat, 26 Sep 2026 11:46:20 GMT",
-        "discovered": "2026-09-28T18:19:07.555560+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "ترشح المغرب لمجلس الأمن يعكس وزن المملكة كفاعل دولي نشط (السيد بوريطة) | MapNews",
-        "player": "",
-        "content_hash": "b99e9aaba52480e5e8002e2abbb7cfeefa8e1070d282566b131bb9c2bd2b382f",
         "sent": 0,
         "section": "morocco"
       }
@@ -2036,38 +2068,6 @@
         "summary": "ترمب يتوقع إجراء محادثات مع إيران هذا الأسبوع: يرغبون في اتفاق اندبندنت عربية",
         "player": "",
         "content_hash": "127889274c8e4ad35abfecb8911292654f03832101f6c6f72e51dca8e2dd5c6a",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 6398,
-        "title": "عبد الله علي إبراهيم | التيجاني عبدالقادر (1951-2026): رحيل المثقفاتي - اندبندنت عربية",
-        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOYzJ3S0dha21BXzBhRWNjY19HQ3lJNkdwMTY3NVFaRHFmQVBHam1FbFRTeHUwYTVVTVF4NUU1eWl4bTlCblpFNm5qUVJmV0RKZjlHZzdmVkIwSjZ5WUthTFAtY2Q3ZUxuZDcyeXNqRXBqaF9lRUNKZ2dHRlNiaUdsTnJOWnlpaEhNcDN0VjZNNk5JWlVzT0FWd1ZCQ2F2MTBpZUFlMDc0eGVNcFFUeG03NTNkTDRIUkJKRXM4UUdyTXc1MVZUcnFycDNGaTNMSTB0dm1KMmN4VV9qSHNjQ2Q0R0pZc3QtNEJPMThyeXBEbGN6WVkyNUhzT0thSi1wM3JYSlB4UTRGVXZVZlBYa3huWGJnX1BUSS1fRjhGY3lXT1FLWlVzdkJqNVBLdXFEdzdJaUJqdTN2d2lSTk5VNVVmQWxUQ3RtSWJPbHF5M1BIMEF6WkttWm9ELVFmTlE0cXpqU2Y5LWVDeWFOcmZOVFYw?oc=5",
-        "source": "إندبندنت عربية",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 12:34:03 GMT",
-        "discovered": "2026-09-28T19:08:38.825742+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "عبد الله علي إبراهيم | التيجاني عبدالقادر (1951-2026): رحيل المثقفاتي اندبندنت عربية",
-        "player": "",
-        "content_hash": "128c49ab4effd14a897c0da6cc5e78b2c3e34f7e576838c88c774b0119ec5caa",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 5932,
-        "title": "الشرق رياضة / بعد صفقة الهلال.. ليفربول يختار المدير الرياضي الجديد \"القديم\". التفاصيل: - تطبيق نبض",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NWjgxa2o2aFRhUWNOSjJXa29LLUNUWWZpaWFISGt6eEhMUndMcHJST0NDOW1vWWExdVplNmVJMGhVT2tSOUhzSWdvbnN2NDQ?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 10:09:40 GMT",
-        "discovered": "2026-09-27T14:00:15.207844+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "الشرق رياضة / بعد صفقة الهلال.. ليفربول يختار المدير الرياضي الجديد \"القديم\". التفاصيل: تطبيق نبض",
-        "player": "رياض",
-        "content_hash": "617a5e297bddb3be0c8dd837a028bc84f8ee073de56e8d48da8e99835fe4cb7f",
         "sent": 0,
         "section": "transfers"
       }
