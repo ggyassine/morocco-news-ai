@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T09:52:15.220860+00:00",
+  "updated": "2026-09-28T10:03:27.266788+00:00",
   "total": 134,
   "sections": {
     "morocco": [
@@ -469,6 +469,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 6204,
+        "title": "رسميا.. هاني رمزي مديرا رياضيا لنادي زد - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPTC1iQXJxeFp3U1lDVU4wb2RLSXNLQUQ5V1NUNHFmUFlKc0h0UWwtSlVUUlUzSHY3ZXNPWFNxZmZWLWFydTJGZl9SdUR6QU5ac3Z0enB5V29kYXpYSDEtRzlGY0J5d0JZdlY4Y2dMVmFTR0R1WWtPODd1Y21CRVNJallBQmJFcWFnMFpBVWRTbFBmRGttdWhCWDFMbW9jaFctWm1PU3lfUWM5U180R2VUSWlUNFRrOVBrTFlUMXFNaVhfY3hoV0tVOWRPRHo5ZXdDa19BWlJ4OWFqTWpOalBzc2VpOWt4Nkdwc281YUJmMGVRdmRaWVA0QktVeENDa19FQmVLZEJHTGx2ZlBLVDliUjFNOWp3UnNtX1RRMGJTT3dMUDk4a2p2dURBb25iUFJsclM1cmpqa2k1eXNlNUFVanlmYUNhc0VyYUJZUFJnTERyNkU0bUl2bFJvWGw0YjhxUE4xSFlQeTkzWU3SAfACQVVfeXFMUDd5clk0RVNEY0xNcV9DVlpEUzRhYkNoR2lnOE9ZSGlNellzWjczeHVVejR0LWVGOVVWSy1kdjNHS0F0QW9vY0FZQjQ1Z1pPN2Iwa01UeFozYTNtckYwQ0hEbzJxck1lZUN2RWVhWDFkaU5yNm9Mak40aDdBNGNjd0YyTXd5TTItZF9iUDVYeVc3THo2TlZ3bDVLclNpTUs3b1Nzb1hrSVF5SWluZTZweUR5QWFZdnJLNjNNeFBxSkt0Y1BwN0phdFIxYkdXY3F0R01ieE1wZVdJeWk1WWVncW9oRTRucXozZFRhN0R3enpTbWxYRTRscmF4d2htWFpjT0t3WHFFa3F3dDRKVXF5ejQ0amN2dWZYYk53aDM1ZmdISzF5NjdvNVFScFhvQ1c1VFZnZmE4QUxCTnhyUWY4ZzI1TzdUbjljTkd4OFhOV250ampmMXJUVktSdnhqcUtXS1BqQjZYZldOZ2hXV3lDQzc?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 09:51:00 GMT",
+        "discovered": "2026-09-28T10:03:08.650199+00:00",
+        "category": "الرياضة",
+        "status": "رسمي",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "رياض",
+        "content_hash": "65198b570148909163ec0f9ae576ac07d79cb38dc92cfb4615ca423b00c8613b",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 6201,
         "title": "جيسوس: مجريات مباراة النرويج فرضت عدم الدفع بـ رونالدو.. وأستحدث معه عن عدم تحية الجماهير - filgoal.com",
@@ -1222,6 +1238,22 @@
         "section": "sports"
       },
       {
+        "id": 6205,
+        "title": "دوري الأمم الأوروبية - الخسارة الأولى مع كلوب.. اليونان تهزم ألمانيا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxONGV2VFRqa3pwbUtwbkFFbmlLZWk5WDBieXVxQ2VrMjdyTUp2TEE3UllraVVJbTZkUHRDZU14eG1qdjVhWVJKMHVjXy1ySTdjeGdjR01zMFFKX1RtY2gxYnJLb0M5Y2puNWE3SEFLYzVVOHFrS1M1QWJPNDVvSXFjZDQ0T2VsLVZGR3dtODhFMlpoXzlNNjBuTm5INHNPTC1mQzlkUmNGczBJbXRIYWNpelNfTHZwN0d1QXNDV3pNTGg1UXJFSF9iQklNMVp4RzRBV3hta2J2SUpLZVpzSDJXazMzS2FoeFI3T3BjWFVsazlsR0VzTHBZMXhjeTR2WjkzNzhtMWNwMnZMY0xVZkpIZXdFekRTcWVSb0JiVHFyMExPcFA0c3g4MS1XVG5uS3p5SFJndXd6VVBKVGhpQ2Fta1hDSGF1ZkRYakF1TEtaWHl4OE5pWXlKT2ZPY3h6TU9iTjM4QlRrdXB4N3ZSajN4YVlfRkZJVFhEemhLcF9IM0U4TFkyeWhXM3hvUDY5ZkhwTWhCeHpObEszZzcta0FmQm40cXBHU20zb0dvYk40Z0ZYcFhETnhUYUs1YU5XWFBPdTRmVXRNRHlzRmNIZ3RhMUFxTkRsZ1BDbjFIMVBxYUVsOGpUcHZPY0tHZ25aUDhNV0owaXFwemRHYUo1cUVsUlhmRGl6SzRaaUc4eEEzLUphR3NuNkHSAZsEQVVfeXFMUGJYeDJYUFBSYU5FZDZVUU11UXlqNUFfcm5CZ0RpYVBYSGFXanlQYkpSV2lfY2prS083b293NW1tVnhpZ1g5V0VTQ0V2ejAzTS1JdXNNUU9ObkJHZnZhTnF3RkJESzhpcU5FQmZkN1U1UFpXcTZmVjJHZUNjQWRRR3g2eTZkZEI3N21sNGJyWURVcFc2ZXNLSWNkWVBVS19rclZkU3RzWnpleC1yWU13WmZJZGJjb2FLbHZVYW1OQWlaay02R2x0OG5OQm1iZ2M5a1BhQWJQOW1iZnZmN3JxTEcyQjNZWDlQQWFiWldsQjRnLUJhcC1oVXFyX3FLRE5obkZVWVhuMXo1MFp3WkwyR1FnMDhFQ3RSOVg2Z1ZxYzM0MUZpRzB4a29NY19ITEZMTTV5RklxMVFaamVUamRQd1hsby1hSG1PYnNtcVhaUDdaY29TazdOZEZaUG1KTDZjd0ZyYXdVZ3AzcWp0a3BvYlBxUFJScEVkbDBpZzlTOU51NzdKNTR2MXd4c0Z5TzJpazRrVXhvXzN6ZU56LUk0T1Z4M2xIdk5TekU3OW42elBkZFJDNzlOZG9YNkV1czlDSzctMWU1TkR5V2o4TGlvOXE0ODlHeVZHYjJtYmp5OGx1ZEdSY1pCaXdOOEo1akVoZWY5WlMwLVppTjRoTHVLLVRJRnpzamRzRzgySm4zcldHLVdVWFVJaDdmeHc?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 21:25:00 GMT",
+        "discovered": "2026-09-28T10:03:09.508080+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "دوري الأمم الأوروبية - الخسارة الأولى مع كلوب.. اليونان تهزم ألمانيا FilGoal",
+        "player": "",
+        "content_hash": "a67dc6601086f485dad2b0c3fd5252e3b8574ef6d3122e990c6dc63b57d968cd",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 6089,
         "title": "دوري الأمم الأوروبية - الخسارة الأولى مع كلوب.. اليونان تهزم ألمانيا - filgoal.com",
         "url": "https://news.google.com/rss/articles/CBMisgRBVV95cUxQakFGaTBjNVBlajRDbHMxZmZYeGpEdmI0aFVHUGlNWmNqUGNLTXctOFJVakNhekNaMTBvdmRBclFQZ1N4R19HaFFPeHFoZjVKWDdncWtlMkpPeVJoSzlObFUyU3pQV2FobDNSellhbVJ1bnZPYjRtZlFvUmlwWm1Nc3VQYzIwVXc0anNJcElPSHkyV25XQkFCUlFXVWtHaHJvWnJ2VDh3Uy02OXFHM05lTXlaYUxtaWdiN1VFQ1NrTEU3bElkMXFYNUN2SjM1SFlPckt2Y0lPQjlyTnNxZFp6YU9RcHN1c2VuVzM1aHRTWGlkZHgtaFl0SzNLU09MdXM2UWpJX0ZOeWhDM0oxek1oYmpTbklwRGZBX3Ntc2NxeUxJY3JXZFdXRExGOWtDVnh2RjNyNllPSFZhNWJSd2I4bERJcWc3cmdBZ1hKWlhSekZXdGJZN3M0MGNPckhyY3JndDdickRqT0NBYkEyRzJLYm5nYWNnNVZMLUdQVWt6VHU4RXhDMHNhSWpYYk5qSGF0ZHlhQzNMT3NBUGVYckFLYzVtSUZaOFA3SnlZdV9KNG44VWlDVWI1RkU2TWNmclVPTHh6TEc0WFFaMlhHcFl0U0NZUFlXSHhXSkRuQ2Yza1AwMFVfYURjUUdDcmF4SzFJWHo0TVZteFlOWjk2U2FMN1pwdXh4TmtoblY3OVpQOGlyT3M0ZEZ5S3B5b25ySk1LS3Awb3k4b3l0VmlPQzdpMEtR0gGbBEFVX3lxTFBiWHgyWFBQUmFORWQ2VVFNdVF5ajVBX3JuQmdEaWFQWEhhV2p5UGJKUldpX2Nqa0tPN29vdzVtbVZ4aWdYOVdFU0NFdnowM00tSXVzTVFPTm5CR2Z2YU5xd0ZCREs4aXFORUJmZDdVNVBaV3E2ZlYyR2VDY0FkUUd4Nnk2ZGRCNzdtbDRicllEVXBXNmVzS0ljZFlQVUtfa3JWZFN0c1p6ZXgtcllNd1pmSWRiY29hS2x2VWFtTkFpWmstNkdsdDhuTkJtYmdjOWtQYUFiUDltYmZ2ZjdycUxHMkIzWVg5UEFhYlpXbEI0Zy1CYXAtaFVxcl9xS0ROaG5GVVlYbjF6NTBad1pMMkdRZzA4RUN0UjlYNmdWcWMzNDFGaUcweGtvTWNfSExGTE01eUZJcTFRWmplVGpkUHdYbG8tYUhtT2JzbXFYWlA3WmNvU2s3TmRGWlBtSkw2Y3dGcmF3VWdwM3FqdGtwb2JQcVBSUnBFZGwwaWc5UzlOdTc3SjU0djF3eHNGeU8yaWs0a1V4b18zemVOei1JNE9WeDNsSHZOU3pFNzluNnpQZGRSQzc5TmRvWDZFdXM5Q0s3LTFlNU5EeVdqOExpbzlxNDg5R3lWR2IybWJqeThsdWRHUmNaQml3TjhKNWpFaGVmOVpTMC1aaU40aEx1Sy1USUZ6c2pkc0c4MkpuM3JXRy1XVVhVSWg3Znh3?oc=5",
@@ -1234,38 +1266,6 @@
         "summary": "دوري الأمم الأوروبية - الخسارة الأولى مع كلوب.. اليونان تهزم ألمانيا filgoal.com",
         "player": "",
         "content_hash": "c602cb323311117bb6300466142169b25b1639622c931f3b18d6e309dc435298",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6082,
-        "title": "دوري الأمم الأوروبية - بدون رونالدو.. راموس يقود البرتغال للفوز على النرويج - filgoal.com",
-        "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxOZ0txX3A0VUNXMjRlM01KVkdrbVVZR09qUmpKSGxaekQ3c2NsM2wzLV9SeGFQOHdDb2pIMHJQaXE3MUJCUXp4M1JSbC1Xc1Nta2hTSmMtenpUczFJalJONktteFlrblMzbmdNSC1BNW5nZ0E5NXJMcjVMNE9JR204dE1PYkpwZy13RHZBOElLeG1jSG1EOVJNWG5SS0RMUTNYRlBkOUFhVUZZb1NFZVVjcDU1N1JDMHZvZWIzVDZWa1NZNXU1T3paR1BfM29TTUkzazJURkR6WENCTkJsU3UtWGFENjU5SUJfUWtJS3dHR3hXR0IxMVc5OGpoMTh6T2NJUjNFczhEREt2enk2SXlSV0xYOEhPVVl5VHB0UXM2d19BaEpBT1BRM0NOb0pTeHJNMFpfa0VhQ3Q0VV8wbmp6X0R2Vy1nTGtGUXFvVmVjVWpFdjdHVmx4a1RLd3NnZ2VGWWV2QVhLUkFIRUZ3QmZvM1ZrejU2YlZqLUduN05ITTNLeTVLVF80ZXNBWGZnMHI2V0JYWENhdlNhOTloZFZ1TzBzc1k2aEQwdUxvSzV3R1dkT1FxM2pDSkNOaGUwU1gtdlN2SXBGQVdVWXhnc2Z0N0tFSzJLSDdpUmlHUDQ5QldGcy1BOWRKZ3ZtLU9Yb2dTa1RnaDRXR1c5TnJWQ0xpMWRkamNaamU4aVFwd3VvbE5aa0dibnZsNkNvUTRRRTR0MmlxaTRrZlEySWZUTWdJbUF0LW51dnhJUFFDRVFnLW9MUi1ITkhJS3lBZTN3R3p6Z29oM3Y4ZUJhTUUyX1RfbG9JZ9IBzARBVV95cUxOS2Ruc05zQ1RvRk4yVktFNDcwVnNWWVdoMlAwcU56ZHdrWXQyYy16dTNMQjhvX1lldFJlWUZrRWtjc3N2X0tIQVAtVVJTSkxsT0VlVU14WlNSSDJLZlVkVTVSVnhOUWhpSDVPNzEyX1ZvVlU0ZzlSX29vdHp1a2hWaHNCT3dGWjRtTm9UQXRCZmFyd3E5cWVJaF83VlFoczI3NmtDM2VmYjBLOGtHd05vSWVwN29DRDR5ajJaLS1faTlDNjQxNHJRbi1wQkY2YUl5X3ZoV01FXzRRcTc4LUxZbzJSR25PLWVzcV84dFRwVWVnWGJhZ2FwUnN6dTctblRlUEdYSDU2YUR6NnoyVHJLd2RJbG54amtTc2V0cF9MNjYwRUlFTzN4ZVpucnR2LVlZTmVfajd2RGRGcXBUTUF3OUJMd0RqY19FczIwY3huZGp0djRFR1JFMmR1RlJSeGQ5NEREcVdpeHBsTVNaNWFKQ3ZYQ19ienU0S3BoaVg5OXN0UWxIYmN1ZFdodTVnM0JOYnlpRF9fLWxqYklOZExmazNCRTZwd2VmSmFSVEh3YkJ0WTZEemlYY2dLbFFudVhFcTAtRHVMZ3U5YW9yb1Bva2lmSmpxeWF6TDVHNkZtRHU3OTB0RXNjR19XcHpVWXk0X3A1S3k1a28wdERRRUFWRG9VaTBrdFcySGxUWHphUEYzTXFpZXVFRzNDRVVETGFvWHMwdTJKWVVKZHBaYlVKMldPdmUxRFlGSFZseWVaSU9YWEw0WDlfX05kWDU?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 21:18:00 GMT",
-        "discovered": "2026-09-27T21:34:20.268739+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "دوري الأمم الأوروبية - بدون رونالدو.. راموس يقود البرتغال للفوز على النرويج filgoal.com",
-        "player": "",
-        "content_hash": "abf2cb2d3e58aebd5c0289f8973b4eb8a53cef256b47a55769ac7e1e153ae7ce",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6103,
-        "title": "\"تحت أنظار رونالدو\" .. البرتغال \"تكبد\" النرويج هزيمة استثنائية - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi_gRBVV95cUxOSDZ4UlBDeFkwajRxY3loaHpGVUlGVUlzRFU0ZVAwc0dIazlERXJvOExPby1EYTd0OWx3aVNlMHV5dTAwMWxWMDZzeTBySHhTZVpUcHZnZHhOdkpXUkFaZzNvYjc2VXFQZ1FHMC04eURmbjZjak5nVVd4SWVQQVJLbHpFRS1rb3ZYN0tSY28yVnlsVzBBWDFhVFB2Q2FNbmN1WTV1bUc3allGTUhoQ2NTcUY3eTVWOWFvSEt0OGNZNjBEYmlNYmtIcko2ZFVBaXpuay1WNi0xQjJwcXZTQXFOSEtCWnJYSWhDWVdTci1qQ3VzTHZfWDNwRTJudkpfOGdMVTVkNHpQeGtHNHd1X1lvVWRLb0RVZGFXR01SU2F1aElQM1IxU3ZNbngtYWR4azRYR0lIWWN1QjFreHdvbGZPaVlNRTRFeWswSG9aay1JSTVXSFBZTFJ4TllhMDBfUkdhaEtyR2UxZFBwY3N0VTBPdXN6MGEzUktGS3NVLUxRN0E4bk9ISUVOM21DUXIydWpSMmtLZ2dMbFdWajU2d3JmS05mVmFPdjhUWXgxUVhiYWNTaUF0QTBVazgtTURYVnJfSnlpb2QzS2hoQUJWWlRSOVpwNjBQaDZ2bzJfelJGTDhpQWFfY1UyYWs1cERHNnQ5Q1BPSGhOOXF3dlhXZ1RHdnhzSmNFdTdKSE9Qc3RUMl94ME9yRUJpYVF2bW9MNE5jOXpGWERrVzBWbW9CTmhmbENnV01nR2V3WVlDbUdPSG1QNWlXOXY4ZjUxaW1lbVF6OXlYV3BQdzVfZ0JhYUZCaExHVFZWR3BPSVptTDVtRW9hdWVXcVhpWkJENndydw?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 21:08:21 GMT",
-        "discovered": "2026-09-27T22:35:25.433429+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "\"تحت أنظار رونالدو\" .. البرتغال \"تكبد\" النرويج هزيمة استثنائية Kooora",
-        "player": "",
-        "content_hash": "00ed0536b02a568cbb1b70e71a83fc09daa792afeff5bea9df0d19f8bc9efda0",
         "sent": 0,
         "section": "sports"
       }
