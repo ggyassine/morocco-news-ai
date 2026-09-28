@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T11:23:05.129893+00:00",
+  "updated": "2026-09-28T11:39:25.134576+00:00",
   "total": 136,
   "sections": {
     "morocco": [
@@ -517,6 +517,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 6227,
+        "title": "الكرمة بعد التعادل أمام بركان: \"برافو للأولاد.. وما زال ينتظرنا الكثير\" - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXak1PcHRJdElLVEJLb0lIZ1daMVJlQUFJSjFnRkM3aVY2V3J1WE1oVnhHZEdsOFhMeHhicTFOWERXMnNnT0t5VA?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 11:35:13 GMT",
+        "discovered": "2026-09-28T11:38:57.714501+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الكرمة بعد التعادل أمام بركان: \"برافو للأولاد.. وما زال ينتظرنا الكثير\" Febrayer",
+        "player": "",
+        "content_hash": "e3c5363f1f80407a8f3a0214ce3499e8f298fc2a9ffd0790072f27be837bd33d",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6228,
+        "title": "البطلة الأولمبية مارشانت تعتزل رياضة الدراجات - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMimwRBVV95cUxNUmhRRVBxVjZtYzNpb1ZtSldsTXF6TDh4MkxzU05UcHRBdnUtbXJyMXd5bE1HekR3RDFudzN0Q1NQdzFITFhGLWVqeWNlb2dacDYxT20ycjRycUhvOGRRT2VlNDA2NWh3c3h1VEdlOTNGRVBIUlV3WkZaUzc0dHJocHFBYnc3bGhDaURWZzBaSFNOaTE0ZVpEdnNvakVIM2RxNkFxdGdOaFhtSXV3Zl9yazZsdnd6TDdOSlRCSE9aVDEyS21IdUZESUJ4aUdLanBFS2dCTjFGd1lEVEhyQlNrallzbzNBeFZWekxFU0oxRFd4SlBDZnJ0dlc3RXItUnNsVG1ObkdJMEwyZUhQQkplNUtlcjJDcDh6Z2tKTFhVa3VsdlhqdjNtZkItekxmLVJ3U1dlcHFYMVJibHFXNERXMXZvZUJZQ1NnT2tSaVM5a1NWVXdobHd3STNSYWJfc0gyQWd5Yk9oeHZaaFVUU2dVdjlVclA2TjJOY2lBVlVGYS1ZMnRTZ2o1ZmhrLUg2am5aNnBVamxIa2dJSGJYdDdRQ2Yyc3gwWkIxNkVxZGU2dGUtWTFpbEtac215WDAyVXhVNlRTYmQ1V1RKUjdwNGxtMmg5WE5XZmJ0NHFYQ1Q2Nk1PNjMxX0JkR0ZnZXBDWlZrWDZEWVMtNU5KWTFDTjJQekd0Rklwc3BMbmpqaXFfMGRIYVFGTENJWi1rQQ?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 11:24:49 GMT",
+        "discovered": "2026-09-28T11:39:03.997928+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "البطلة الأولمبية مارشانت تعتزل رياضة الدراجات الشرق الأوسط",
+        "player": "رياض",
+        "content_hash": "a594edd644660ede148b8a4ebe21ffb9c288b99e1ca4bc9459b39a04babad9b3",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 6222,
         "title": "تصفيات كأس إفريقيا 2027 - جريدة المنتخب",
@@ -1284,38 +1316,6 @@
         "content_hash": "b3ebdc3008c36d7f143d8c33011f302d50949655fdfa52b21c77bfb1ad979e08",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 6102,
-        "title": "وليد ناسي يغيب عن الوداد - جريدة المنتخب",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzVnlGVHpsdVZOZUlxNmtCVkx0TU40ZE5tbm1XR3p4V3BaRDZiOTZNY0tzS182VzIxc3VWejJWazBzRG15S1o1dTV2OXZRQ3hSOUxSMw?oc=5",
-        "source": "المنتخب",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 22:29:44 GMT",
-        "discovered": "2026-09-27T22:35:24.803120+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "4842ab205ca86cf6d14e8180c0d0333079154dd4e2840c163377082549e73faf",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6097,
-        "title": "إسبانيا تتوج بلقب كأس العالم لكرة القدم للسيدات تحت 20 عاما - جريدة الشرق",
-        "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxQVFFoY0xYVjZvRTNoWkNVYWREWk56eVR2VW1YY2hIdkJXTmZmZnQ3Y2pUSUpqa09UMnFybDdlZkVEZkQ4eUlSUnY3MG5BZHFtTVBpNkRYTE1TQTVKZG1FdnRscklOaXU1emhsc1d0Q2FrN3ZBYy1JWE1EV0x5cVpCeG9JQmw5QlZHbE15WUNzWkZlaTVucnVmZHFsUWk0Y25panZERmJPZjZfa0JuVG5MZDg1YWNmaHpmNEVMNVdhTG9QYk1SWEVXTzJTS2lxU1RCSWZwazhOSGFOSWtDeWVzNHFfSDhoMmU3Mnd5SS02bFBXZ2lMUkNNZllRWTM3ZWJzQ2NYeHFMLU5JYXVyeXQxTEhJNXF5dzdPTERrTlBvNHd6QXVMSUlSX0Q1NzBYV3BrVlBsVE1VNi1RVF90RzEwZ29NbWd0bGZxT0E5djA5cnR1dDdDUlFiVlZrUzVPWXZRX0EtTm5YZG5wdVpXU2hMVnExMzcza1hRYzlBUTRyMThmTkdEY3kzMHdwcEVpOHRlel9FSzhXa2tJYWEyV0RqWmo0TUs3alBVMG1uQ0RpSVB6U1VQTVlFZUl0TVJxNGVUT1NVcjdfWG0tQ1RoYWwxYXlEVnRJUjVkaEE?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 21:45:00 GMT",
-        "discovered": "2026-09-27T22:21:50.762883+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "إسبانيا تتوج بلقب كأس العالم لكرة القدم للسيدات تحت 20 عاما جريدة الشرق",
-        "player": "",
-        "content_hash": "4a787a8edb998b6ba2e86115c966a9360ea84b10fb7c8dc36cef064a4cdbf385",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1652,22 +1652,6 @@
         "summary": "ترمب يتوقع إجراء محادثات مع إيران هذا الأسبوع: يرغبون في اتفاق اندبندنت عربية",
         "player": "",
         "content_hash": "127889274c8e4ad35abfecb8911292654f03832101f6c6f72e51dca8e2dd5c6a",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 5728,
-        "title": "استعدادًا لجنوب السودان.. منتخب مصر يتدرب على ملعب \"ترتان\" قبل مغادرة القاهرة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxNVkRmcDRzMHN2cERqTHdmTDZrdkNyNzBfb1Z5cndCdnFCblRFc0NPT0liWmZ4Ti1hUy1HZ0xTLVBaU2NMaURZWlRZNllSLW8zZDhjaTBHUnFiNWRuQU95bXdWa0xqRS1TTGNaUnE5SmQ1V0dZbFVEX2h5Y0ZIUDNvM0x4RHJxNTBpSWlsX01pUEVLNk1VSE03Z2R4SlpzdkRpLWhFQTV5Tk5aWkxRZnB4Z2pobGhWTU93S3phcnZabGRYNVhseGlZVHI2RGRad2paNGU4TV9mZm4wWGdUck9uai1rdVNmb0wxMTlkOXhvLXQ4R0NzNWtqZGpjNW1zMWhIeWxqRDNURElqYlhZcVNsMjh1VjFtb291MktVTEFaZlFkNnlwMHg1bWhKa2RkS0VRUG9pX1d3U09SS0c4TEUzMWg4dGFudzY5a21QZHM1Wm5MVXpMSDV4SVZjbG9SRXNYektiQUM5SkV4cWpzZWItX1RFcXhMQndHWWxvMmhmNjMzVXh3WE1PUmRnbnlodUFKSlZNNFhxdHAzeFBFOHFRNy1yaGszRWNqVHdTaHM2b0poeTlOUmVWajJueG9ZTkdUMW9jYnJPWGwyakJ1MlNrWldGanFGWEZaQmY4a3lfOGFFRjRNWVpmc0tKa2JPalRUWXoxYWVvcXFpRmc3M3JvOVdfaHdhTFIwcnNrem5DTk91dHM0VDlOZFBxbkJjdEJnSE5lYXJwclZQTWFTbDNOMHJlUmxvY2lXTjI0emhOT3FHeTU5QjNwdElKd3FkeWRHcXZMQzVxNGdnVWE3VFpsekh30gHnBEFVX3lxTE5JeFE1NzFpQTdaRGNJRkNKek5yM19abHBQZ1BSTUNaV2hFaDl3U0JPZnpNZzBhSUZRemsyZkVwODlGOUdYVWdIaU8wcXFreFAtVXlsNFdpbFJGUG1oTTZNMVdlSGRBd1NDenppOXhMYjYtOGtvT3hzREF1WUltRTJiTjZtbUpYa1NyUnFEWnZNUDl0WnpGbW9MQjg0N2FWMVpPRlhob0ltNnFTcnBSRkJxUml4MUJ0OFBpM25SNG5IYWVqQXlGdmtCY1pTa3g0ZnhEUVlsVE90aU1qQXJKdXZNOWRaWTZnalEyV1VRckEwbEV6ZkQ4eWF0SlhSS3NZSjEzYzhpS0h4SldQOWZqZXBBU1duR3V5aDJ3d1laNmR3eWJRZGZGVlpBSU1FWkVJM2M2MElFMkpCaE1yQzBfNVM4N3VaaFY3Ukh5b1JVRkN0MjliUERSRHY5Q3VsdWJBMmpJdVFVMUt2QUlKaEdfSk9iSUlBSjhCOHVCVmJqNnRjSVZDbHRVNTdGRUZpMTVMY1JkUENQNjk4T19MRGVmTXZ1QnJKYUJBTkdIdFJWNGJ0Vms1UU44bGxUc2lrNGlsckNUcDdkTzdmaENkbnd0ZzQ4a1REWkVmTWdJbWxaazN2b1NEd1BqWGx2cVQtYnlPSHljakJIeGVmTVI2Ulhyd3EzZHZVZ3ZUdGlUTWF3QzhleFBHcElRSUhMSjhaNE1VOVloUEhLb1QwLS1jNmJFTnRzb3BNNm5sQURYaEhTMEQ5WV9HOFN3bkNMQWxZYnJfYXduVkRTbC1sRV9fR3ZweU5wS1oxZ2VJWQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 20:11:00 GMT",
-        "discovered": "2026-09-26T20:20:47.983364+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "استعدادًا لجنوب السودان.. منتخب مصر يتدرب على ملعب \"ترتان\" قبل مغادرة القاهرة يلاكورة",
-        "player": "",
-        "content_hash": "f81c7711afad6f6765c85f786476c93431d8e3036e8b2207f7b1ccb49ad231c7",
         "sent": 0,
         "section": "transfers"
       },
@@ -2075,6 +2059,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 6229,
+        "title": "وزير الخارجية السعودي يصل إلى واشنطن لإجراء محادثات مع نظيره الأمريكي - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPckpKX0pTWUdhUnJWQy0tR2tZSjRUSy11SXk5OF9xakIyQnpuY3ZGUEJ2REZxOEw3ZmM3V29BS2YzTHdRS1JXWEx3eVB3b05RZEZIUnNIZjEyeVR4NURwZXRpWWx2R0c3SE1TLXpMTVZtY3Y2VVNuUDI5V1BldUNTUm52NmFUSndabGN0ZnFVTk1kY0l5TE9CNFp3Z2Q2bl9GYzdxNm93Z2NtNnFhVWp2cGlQdWw5OHRhUUlYWUl1cTEwOEFjZVo5dk9yOGY5ZHVEWXVvR0NBR3hPRHZSMGFNcTJrZkZ6R2sxUHNGUTJMQUpxZ09EUkZUbVdkRERVQUllazZTZ2NNVjA0dERlSUlFZGdRUlIzRnk3OVQwOXNhNlRnVG9JNDBMSW5JcGhpd3dMS2F0V01ndGR3Z2xCY1FxcEVlODZwZlE?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 05:30:06 GMT",
+        "discovered": "2026-09-28T11:39:19.698409+00:00",
+        "category": "العالم",
+        "status": "مفاوضات",
+        "summary": "وزير الخارجية السعودي يصل إلى واشنطن لإجراء محادثات مع نظيره الأمريكي القدس العربي",
+        "player": "",
+        "content_hash": "bdf0871868bf132a0556f000153724da2640a34d5e4445f6f2cdc057dce9d77f",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 5935,
         "title": "الاحتلال يقرر تأجيل عطاء استيطاني في \"إي 1\" إلى ما بعد الانتخابات الإسرائيلية - القدس العربي",
