@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-28T10:03:27.266788+00:00",
-  "total": 134,
+  "updated": "2026-09-28T10:23:39.489285+00:00",
+  "total": 136,
   "sections": {
     "morocco": [
+      {
+        "id": 6209,
+        "title": "عاجل.. شرطة الحدود شدات البامي عمدة طنجة اللي كان هرب من لبلاد - كود",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPajJ4U0dDdXY3akdFZVZwQk9KbmdVYlpwUVBuVEY2TjFaZE41ZE1Bc0FGWE1JNDIzNzh1RG9YdEFIWWUyYkM3elY2dzFBNk9HREpCNEJWUm4tMzZuR2hNaGMtOFBUQ2VmQzRwV05oRUp1cUdkYjNTekFsVzFEWVVWMUpOVm16MWlUSXM5b0pUUXVsb2xFTXZoY28tRGdXY2lVTDNBMUFTMkRVU2xsS09CdWlscVRKX3RlY19kVVNCYllTTmdCaEtBZndNMVFoV3pxRVY1eEFzUU01cXJyWmRFbUtjdTljN2pCbWxyMGRQR2F1RGkzMUxORnFNOTA2NjcxczU4SEtxSkpGTGdZNV81RWtGeGtxYTNhM3kzZGp4MGI3alhSd1FMRlQtOXdrWi1tTzBRMjYwRExGU1kycE1WTXdXbi10cmdmUWFZ?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 09:30:20 GMT",
+        "discovered": "2026-09-28T10:23:15.482669+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "شرطة الحدود شدات البامي عمدة طنجة اللي كان هرب من لبلاد كود",
+        "player": "",
+        "content_hash": "f30d76284c5089ec48c03977fb135e0f51915e2be26f441c2d13348bec769c57",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 6141,
         "title": "درك سيدي سليمان يحبط عملية لتهريب كمية مهمة من المخدرات نحو الرباط - Le 360 Arabe",
@@ -372,22 +388,6 @@
         "section": "morocco"
       },
       {
-        "id": 5709,
-        "title": "توقيف مواطن سويدي مبحوث عنه دولياً بأكادير - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ETG9rQXVNVTgxUXFieEs0bExNalQ5Mm5iWDdqMWQzekZESjR2ekQyN3l1d2wxRnhzYWdXT2trV0VJWEstem5UVw?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 19:33:10 GMT",
-        "discovered": "2026-09-26T19:36:21.946970+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "توقيف مواطن سويدي مبحوث عنه دولياً بأكادير Febrayer",
-        "player": "",
-        "content_hash": "125af4b7e914b66aaa6d640049629068290415d755b407e9b3487ad6690811e7",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 5726,
         "title": "تحالف اليسار للمعارضة.. علاش رفض يتحالف مع التقدم والاشتراكية؟ العسري لـ“كود”: ما كنقلبوش على تحالف برلماني.. بغينا مشروع سياسي كيوصل للملكية البرلمانية والسيادة الشعبية والوطنية - كود: جريدة إلكترونية مغربية شاملة. - كود",
         "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQM1JWMW9PS3VjOHZxcGdWSmI3dUdVX1FyOEZxNWtqeFBkUGVhMEZUUlpEVXgtaDFVWkUyMGdENjJfVzYxVlhFVHdVakI3M1RtakwyWWozYmN0WThrS3R6NWhFdkxoT0hiWDR0VXNqLUVWTTdvZ1ptNFNreE1hRkZfdm8tVGJiYVRjSnR5RFVCSVJwcXVSMEZlNE9PUEtfMUNkWlVlSDI3XzZTd0JoMm1xTkllTkpfM0NCZXZ2M0M1UXk0SVdoTWtfbUJSN2ZOMnd1SVpkVXBRVnB3VXNHUFV5V1JkOVhDWFVkU29qUHNCNV8yS1IwQXo2aEFfbTJWNElrWno1SjlFY3Z2d2RyVVRYS0pOZU5UdjRIanhJT3R2SHo3QnJLVFVySXkzbmN4b0w2NEJxTHdwTzRoTkxlQXJOXzRGc3VseE1PU2c?oc=5",
@@ -464,6 +464,38 @@
         "summary": "هل يعين محمد السادس فاطمة الزهراء المنصوري أول رئيسة حكومة في المغرب؟",
         "player": "",
         "content_hash": "a1b0309fa6498638a9743f8bd9f64f0d7d30e0ca4ec4fb03a08129a0c8da59db",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 6207,
+        "title": "تمديد أجل إيداع الترشيحات للدورة الثالثة من جائزة البحث الاقتصادي والمالي إلى غاية 8 أكتوبر المقبل (بنك المغرب) - | MapNews",
+        "url": "https://news.google.com/rss/articles/CBMivwVBVV95cUxQMk52RGJBZmxyd0JBSVp1cU5hQy1nWEtLY3R3Qjk3dktuNUExYVhBand4aUtzeWdNYVhrQVY5ME84dUdiaTg1SmdDZDY5X3oxeDN6RkR2Zk1BNzF0VWNseE9WbUt1UFl1aEZZOE45TXdIMjlSQjFtYzM4NHFlU1lGQUFUaEc1UzdRdlg4THNWUGNfT1VmNWgtbkdaaXQxUHlVLWM1aHVISDhCOHcwYmZST2xvejVIbTE1dlJFd3VJelcwVzRzejViOGx1eU9Ic1dSMjhRcGtyekx0ZC1sVVk5LWc0VFg0ZDdzTzQzczBYZWlBeGRpaS1BWjJkYWpzQWU0VExtSm9lTlc2LU1mS1l2dkhzRW4wbHJmUFhUUUV0X1k0Um43WVNKdmh2d19YZTk2Zm9GUkduVkdvd09wZnc0V0VyMDlnWWZLbUw2VkhiTjQzOTBiV0pMOXhtX05PQkJhUkFNaG9hUkRNU2lDenJmVXAzalNzQ1l4RUptWXhhX0tEcE5ONVZHVmdWb2lRVWNBMlFKdEJjVzgwd0h6SldmalZxOTdQSUVFa1pLWHc2RXE4WU1fQ1NmbV96S3IxVl96NUdJSGtXX1V0QXp3MVpHQkpwcDhPSnRYV2phbVNrLWs3ZXdEWjZqNWJ0QlZNa3I1ZmVVaGJZVGRMTUprdnRtMC0yVFNrV0p1dTNuYm1mMC10c0l5U3FfQ2w2bWUtU3NuV3RIeUhXYVdHRXFVUDlmd3J1LVE5VXlPYVA5MVozYks4LUZtbXpZc0ZsQ2o4eEdRQ0VTeG1aY2c1YXBsMlpncHRGa285eVVPdXNHa2hBQk0yY0l5cTUydG1CTXhPeFVBQzZXak10YkNjNVdHM2hrZ1JJUUFYVGtTNWN4UGtuZUVYaURrdVF3Y2daanp2cXcyTUpaZHk5QkRsVEg4WThJ?oc=5",
+        "source": "MAP عربي",
+        "trust": "A",
+        "published": "Fri, 25 Sep 2026 16:00:07 GMT",
+        "discovered": "2026-09-28T10:23:10.116008+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "تمديد أجل إيداع الترشيحات للدورة الثالثة من جائزة البحث الاقتصادي والمالي إلى غاية 8 أكتوبر المقبل (بنك المغرب) | MapNews",
+        "player": "",
+        "content_hash": "1f6cf80a395b0c9ba68d0cd8ffd19cd3dadf2a4ba5d79b744675dce77bb4dcb3",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 6206,
+        "title": "حزب العدالة والتنمية يعبر عن اعتزازه بالنتائج الإيجابية المحققة في الانتخابات التشريعية - | MapNews",
+        "url": "https://news.google.com/rss/articles/CBMinAVBVV95cUxQT3pON0p1dXpmaXRGNGNOZUFnZHNNVzlsYy0yQThSNUdIekttZWoxUGRYbzlXNTFzNkphNzZZakZfSUJrdDRKZ0s2QmhDbm9qQ293ZERaVks5SGhmUUNPSk11ckVuRFVDY0hEQjR5dmM1SEpOUDhFLXZsR1RDbTNyeDdPeEI4TnMtWVJPQ1VKVzNDa0Rsal9Jc3pUVlhLUjBxaDRQdThIZzBRWkxPS2I5cmsxOUg4dUVXTEtqbWdBS1o5dDE0Umo1VHpRMVpCc1pTZ1QtV28yaFlxNVp0al9IemZRZXFnY20yYzYxNGo2eGpkTlhWQ2I5U2Fjck9fZGE1Q2NkV21oX1E2LWVtRnpOcFVTcnVLWFN5STJuTVhRLUJJVEZEVEtXWGoxYVdyWTJET2NLazhpaEs1aXk3RXdyRU5FRGxscTFUSy1qd1JyXzhoWjVMU2JBRktGanNSa092ZlY5SFJ1UDRVYTBKWjZnVXpCVExTTTBLY0RybWhGdlp0TlFBYUwwMmQxQUNQQ2szVXRrZUlmU3NtcXJlTnR0ZXNiVEZZRVA5Ti1oWlZscURiVWNVSUZQWGR4LXlaeC1uZW1nOGJ6R0NJalRoZGVFYXJWdlRmSllKWVlsbEZodW4zQ0w5Z2d3OXdacHk5aE1kaTJ4VktXODNxQ2VDWXFFaF9PNUVDTG1ScllVd1dfRnZVcS1Ca0wzUmpEXzVGTnIxRlpfS21aaVZCWllYek8tVzRuNHQtdmgyRmQ5N2pCeXhYMng4NFRYMGVKd1VLbW5ZWXFLeVEyZEV3ZkJzcXRnMkFsN3o1SDJZWjhEMF9tUGs1ckxFaVluSnlfTFFKXzFrQ2xKQXFNMHF6b1VjU3BwTVktdnpwOXBSQXFqcg?oc=5",
+        "source": "MAP عربي",
+        "trust": "A",
+        "published": "Fri, 25 Sep 2026 15:23:55 GMT",
+        "discovered": "2026-09-28T10:23:10.100645+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "حزب العدالة والتنمية يعبر عن اعتزازه بالنتائج الإيجابية المحققة في الانتخابات التشريعية | MapNews",
+        "player": "",
+        "content_hash": "68c82bd25b002cca0034c254764c42320d8394dafbe5adade562140bed1e5846",
         "sent": 0,
         "section": "morocco"
       }
