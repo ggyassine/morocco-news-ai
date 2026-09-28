@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T04:52:41.334853+00:00",
+  "updated": "2026-09-28T05:02:57.773657+00:00",
   "total": 132,
   "sections": {
     "morocco": [
@@ -470,6 +470,22 @@
     ],
     "sports": [
       {
+        "id": 6170,
+        "title": "خليجي 27.. فوز مثير لمنتخب العراق على الكويت.. والسعودية تحسم بطاقة التأهل لنصف النهائي - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNOEFpWWNtU0FHWTl3T1doTXRxWWhLMGl3ZVAtYVF6N2lFd2lETW1rdVhmblhVdTZyMFhkNUtheWNOMnVLZkNaaWh4SU5URE1yZ0lQX3ZqeWZuOFJFalhjc1RQMzl5SGlNb2pVbkwyWXJVU0tIWW83MENFcGl1OHlVYkNnMkpUbVU3N01BcGFKNFN1NlVDdmk3Zk5tQmY2cHJQVWZGWUFkaGtzc01KSFdSM29BX3dvQ3RHQ3JsYTRXaG90MzBQVDRJVjBCOTdyT0NMMVVuZGd5Nk1LbHdmeWVzTkhGYXVkX3NNV3k3bHFqNmR6ZTd5ZjN5Sk4ydjdFdk5Hd0NSYTlNeXlHQU9uS21ta1FFYTR5SFdkcTltdXhpZEFEcVoyUFdCS25KTlZWeG8wRWlqbGZ0TDI2WE11Rjlua3R3WlRuNlp0OUQtODNfaGN6X1d6TWtsVFRsVm9TWnQ5UFRkV050aDdYSTJFTGlMMzl1b3A0YTVTZm01Nk9ZdU5aOUVNOUtQVWtwbkFUOWs?oc=5",
+        "source": "سكاي نيوز عربية رياضة",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 04:52:30 GMT",
+        "discovered": "2026-09-28T05:02:36.872384+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "خليجي 27.. فوز مثير لمنتخب العراق على الكويت.. والسعودية تحسم بطاقة التأهل لنصف النهائي سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "0c660e1a3d08cacffa44a26aae094cb359771f878177a8530be976aa56592f67",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 6166,
         "title": "بفوز تاريخي.. اليونان تكبد كلوب خسارته الأولى على أرضه - سكاي نيوز عربية",
         "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNRTdSTmZrM0hYMmdJRnlkUm5FNTBNTXNYdTZ6cTFDRElLcGtLbjJNNE9hSi01VlljZzJMMHdHUXk1Wm1vMDhBRVBEUTc2VXhZTHVTaXZ0SU41YlplOTBfMVE1X014cVRVWk1DMVZYRjQ0RFo0TDREbzVPS3VNYXdWam5aaU93M0d6elo1X3ZuMUdqaUlGcmRKcjRuVGVNemp0UzdaQktwU2loSUhKbmVUcWdtT2lzRDBiVWpsTDYzek9HWjVFYzBfVUNiNnVJYXl3R1pVbm9lQkw4SEE3MUlDSTRlWjZTbXFxRm5qZTNpdmdGLVg0WVRZYXF6VEF6ZTFvd1NlVWNlRV9mVGhMam43VElOc2g1ZlFST3JWdHVUYmRVTVJ2SzI2dGc4MEJNaWwzMXNfc2RzdTV1MlZnV2ZZemFFSFNFQlViX3BiUm45SWRDT084aUFfcjF5OHRGTmJyekpILXpmSU83OGRCLTUwakZpRjRpV3p2d0ZId1Z5V1h0WDNOT1dpNjBPY1RhV2JWY2d0V0RiQmdaMmVXS0E0aEthaG9HVDFY0gGuA0FVX3lxTE16QzlqWGhROFdrMFo3QWhsMzNUSVJfU3M3THpxQ290Q3A5WmpNNzUzRW1qcTJGY0xJbFhsRGY2REZPWVloTlNWWC1aY3lHTTJaOEZ5b1I2Q25zbEEzYXloQkdfSzhGTm5sZGdHZnBydy1qOTJZQTJIcWd4X1Y4bUxfWGJBZmpJX3ZzaEV2S25haTVfdU9GNVhQdWdZRzQ3RHZuZGFlS29vUTF6ZmVyM29nOG5FcHdnMWgxVlotUTBCR283alBDVFhJN1N6QlowN0ZUYUZFYy1fa2I1UDVTbmRyUDZ6bklHWjNDU0ZwRjh5TU9mMmpwMTRyRHZuOFg5TmwweVZ4SENSVkRCWkxxTWZnOE9SSi1xTE5Nbk8xSkQ5Qnk5U1NrVjBCbjdIdnA4N2thRUpLdmR3MkhJeWxTR3FuMmZBcm5JMWprdGdMRXM4TFhXbER1Ynp4WUUxcEJSbDA2V0FKX0E1VjE1MVVxaGRjdVdaMU03RV9SYVNNT1lqVmM1RXlaNGs3WGwtQjNXQUNtb2tnRHFDOWZGYkdOaFdzN3hjbW9xb3RLMWU0b1E?oc=5",
@@ -658,6 +674,22 @@
         "summary": "كردغلي عبر winwin: اشتقت للوحدات.. ومنتخب الأردن أصبح عالميا winwin.com",
         "player": "",
         "content_hash": "473225363fc28be45aeef0b7ce6d88881bfa17932e2ef27ed6647c234f0f45ec",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6172,
+        "title": "كأس الخليج - الإمارات تتأهل لنصف النهائي بثلاثية في شباك البحرين - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxPbFIzbWNQNEpFZEE1a0pQdXhUSi0zdW5lcU9VZi1EUWJhR0ViVkhUREVsNEdpMEJHOHNlbDEtNGpRX0ZFTTFZS1BCeWUyUEZlOUtJNlpBTy01WFNqM3RNekt1RVVFbGJxUjJjNjVVN3U4dGRQS3Ixa3BsMW5zTVhBMnNVMUZUR0JKWHVsSmM2WGxGRDFRNllIdDdyMmtGd3ZZckhkUE1welBONjNxNzE0OGl5MEh0aFpwanNzWkdXMjhWd2x0SmJhZ0JBV0tjZ2R4UXhiUURHVS1nTm00SEFVZWdoWkhiUUpsanFuNFBGQmV4YjRSaTZCNHFjdjVCV1pVeDFvWUt2M0dyc1ZOWVdaQ0ZyY2ZtS1VRMURPb3V4YnNtUU9rcDI5dkI3TmxSSWtqd3A1V2JBb2xUVWl3ZnlMcVd3WHlDWjlGd1RYNV9qalhvanFUNUlicHRUOXpMb0U5ajJrZzlBVWRtSzlsOEMxWlgxVG01WExZY29zRm9JdGVKajFma29YU01aTldkaDRrWWpLR2hhLVZoZW53czQ4NXBPTm5aOFdHTDJobktUV0F6VFJMRjhLc1poQXUxS0I0a01GV1U4LXhSZzlmOWo4aGVTWTB1Y2ZWZTNsSHUwQUtuQjN2R1Z5d3JSbmUta21HSnM2a293V0pxQUZMaEFjS3JrLVktZ9IBiwRBVV95cUxOeGphN3ZsTjNMcmR0SklzSXVNbzJacUZMZFR6Ym9Wa2taRnlYXzM2ck1vSGl2Yl8zclBtRjhCcFVkY0Y3LWhzbHU0Vm1RVzRhSHFOVjFXTUdBY2ZkdzNrRkZwbmFZcDJXVmdCcF9qa3RoWm04SXk5YnBFUUNvNF9pbEhQTGs1UWMwU2xFNEtteGF4MTcwSFVPNkk3SmpmWTktOGJ5cUVPUzZ0dEh1blZVYXQzOU40T2RvX3F5TUxJNngtaDlURTBHT1gyRjlYSl9sS05YX2E2SldyN3ctLUEyWUQ3bXN5V3g3Tll4UERYeG1WZ3FUenROb2cyTUZCSDZVdzlkN2JxSmFjRGFMQWY4VDVyNXFYRTVGRmljSWZ1U3RTTmRiRTVxV1BodVYtTEpQVDFsdUZPSmVvNjd1ZEVQeGdXeDZYT0NDMEhkUzNsT2dTUTBTd1JqRUk3UGpNbXlyU1k0X1pBU000NzMyOGtJcHpTWEY5S3FYMy1RYVNhQ3dra1FKcEluMk0zQTcwYm1wbW9ZN1RDQlNEV0V6QlVENU5jck1ZNE1lU3hyRmUxRk9Tcm9VZDRsdjFySzJoZi02bUhPTXVBWnFWaHR1Z0c4bmZWRUV4TW1uMGdBbnB2OU9fVmx5SkRNVnRoSnRwaVFISHJ2WGtrRkFhYVZLeDFXWl9pNmhWSlpwaDJF?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 23:05:00 GMT",
+        "discovered": "2026-09-28T05:02:41.618474+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كأس الخليج - الإمارات تتأهل لنصف النهائي بثلاثية في شباك البحرين FilGoal",
+        "player": "",
+        "content_hash": "ff7cd413d00b5fc6de1f6b8292ca987d9d63a9c41b3014ff2c43848cdc6fbc03",
         "sent": 0,
         "section": "sports"
       },
@@ -1234,38 +1266,6 @@
         "summary": "شمال إفريقيا للشباب – الجزائر تنفرد بالصدارة بعد ثلاثية ضد ليبيا.. وتعادل تونس مع المغرب FilGoal",
         "player": "",
         "content_hash": "90174d9e60c6f08e083d9eb128f59d1d4ce4a77fb4e8eb107180fa92e631d9d6",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6080,
-        "title": "مدرب اليمن: كيف أنافس قطر ودورينا متوقف منذ عامين؟ - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxQRzAxUHNCbzAzbG03SC1rcUQtNm1rZF9QNTZPbzRrSkxmbm1tSXdFbl9sSE9XLWdwMjN1Y01aTWs5SjljLWdsbWtvVTdsSkRGZ1E5V1ZYZ1kwWmJJQWdRZmNKLTFncnF2WmhHOG5UVzkyUVhUMzlEaXVPVGJmWEt4dzdRYzI5RXNpZWZIcW40LVZCUEVYVGtzZkRXS3V6bHJPajhvcUUxNzRwSjJVcl9TY3ZXR00zaW1QTXI4bUtyTWJiOUlnNHhQd2VGaGhGRm5UTVNxNlk4b1BGU19lQzItdGJzR0JuS3JrM2pJQ1AzYkpuQ0k1Ry04TU55RDhmemRCcHptWHlkU0VES3FQV2o4eUdabzZ0S1IzUXMxTTN6WDNVOGJtWDV0XzZpTmdUZ1VpYnE2V1hPcnJ5V3BqdnBZYmljZ0FnNUVhc3RyWnlUUDhfRGpDdy1qMFhlN0ZTVTBqSlktMk1aZm5ZTmhDdlU5T2ZIaFlGYTF5NUNyMnJtQ1A0QjJwUHN5VEdxSDRrXzRVa2R4QTBfd0IxQTFUNzNnMV9BZV8wNUREVC0xUnYtcy11OExiOW5GLXNzWkZkV1JCSXU5dmRyckZNbUtybEFWckRJdXhSZTQ0cU5sRk9TV0Z4eDJlZ1BuVUVOU2ZONk11c2hRcmNFelFuV0ktRjA0SC03cDBHOXpuanZfRFdhQXI1S3o5NUI1SHlyVnFOeE0?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 19:52:24 GMT",
-        "discovered": "2026-09-27T21:34:17.258243+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مدرب اليمن: كيف أنافس قطر ودورينا متوقف منذ عامين؟ الشرق الأوسط",
-        "player": "",
-        "content_hash": "2253a121b0fcd0952b7e697091191991bee5cdbd25d7af7c888fc3828c7aa3fe",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6110,
-        "title": "مدرب قطر: فريقي مجهد ومرهق - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOOWNjRVdhdTlXZTQ5TEF6MUY5Z204WW8tYndHcktLTm95aXVRQ0pKaVVPc3ZyQVVEVDJELS1VWjhnLU1KSlVJQThUc0phUmFvMHZUeENtY2tCb2MwT1BLUDJ5QmVoS2JaWWc5ZGFBV0xQZWRFZXJqYmxMRmxReW9xTXlKbzV1OHp1LUx0Q3dkR1hiT09MVnVtME1DMGx6SWlRd2dIMk5CN3hWUk1IS3hpY1F4dlQwUFFwOUJQck9JdTNfSzFTUG9tZ2JNQTMzbU5QaG9zUUU5eVVEU3Z1U2RYb0dhX2ZseVpUWHYyS0J6YlVkMVVDTWhxRUxkRGduNUtseXhkajNUcE5KeGtlVzl0UGxrbFcyeXJZdkNGa3Rad0VpcUU1Wk5yX3Y1UnhFa3h1Qk82M2xXMDcxamRTTV9tckdUdGtfQWFBWjcyQ1hZVXpIU3VELUp3bjk0ai03bXZPWlhfVHBSVkdRcU9QWGV1MTdKZnk2MHZDVXc?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 19:52:13 GMT",
-        "discovered": "2026-09-27T22:57:04.289094+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "c64a308fcab159b9a7cec983ae758a7ec00ab32d4cd60fd3594832e153563c53",
         "sent": 0,
         "section": "sports"
       }
