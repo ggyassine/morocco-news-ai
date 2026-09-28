@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-28T18:55:31.617524+00:00",
+  "updated": "2026-09-28T19:08:40.079176+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 6394,
+        "title": "تقرير رسمي يرصد خريطة الاتصالات بالمغرب: 58.8 مليون هاتف نقال و42 مليون مرتبط بالإنترنيت - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ERmJUbEJKRTVJVXEzYkRfTmVhOGRiNEhnOFpRYVJic2ZBcU1mVjd0RFN0Ymd6N3R2V0JNMTFrbHFTUGI5WFIxaDJudEpfa29Oei1uSGpSVDZDZW9WZURaVXFTbEhvT1E?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Mon, 28 Sep 2026 19:02:36 GMT",
+        "discovered": "2026-09-28T19:08:11.764235+00:00",
+        "category": "أخبار المغرب",
+        "status": "رسمي",
+        "summary": "تقرير رسمي يرصد خريطة الاتصالات بالمغرب: 58.8 مليون هاتف نقال و42 مليون مرتبط بالإنترنيت Le 360 Arabe",
+        "player": "",
+        "content_hash": "0b23905755b8dc5793a9c488061f8a75116336cf882e57d216530e74185fb7fb",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 6374,
         "title": "الدار البيضاء الكبرى.. بعد سنة على إعطاء جلالة الملك انطلاقة المشاريع السككية المهيكلة، التحول السككي يتجسد على أرض الواقع - | MapNews",
@@ -80,6 +96,22 @@
         "summary": "بعدما دازت الانتخابات.. ملفات الفساد المالي رجعات للواجهة وغادي تطيّح قريب رؤوس سياسية ورؤساء جماعات كود",
         "player": "",
         "content_hash": "841a31ad5e0ae3b3ef718aad175410cdf996602a842585d65bbea03d33d0adf5",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 6393,
+        "title": "شرطي وشقيقته في قبضة أمن الرباط لضلوعها في حيازة ونقل وترويج المخدرات - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2UkRkVjNucTFudzNGNW1HYWlwWE92UHN2YWxLcTZtelBwaDNQQ1J5OW9lTkZJRm9MRzZFXzNfNmZZNkRnNUtHTHFwZ3FXd2ctN3RQVFhFRWdELWd0S2Q4dDJfMjNqdw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Mon, 28 Sep 2026 13:02:27 GMT",
+        "discovered": "2026-09-28T19:08:11.736502+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "شرطي وشقيقته في قبضة أمن الرباط لضلوعها في حيازة ونقل وترويج المخدرات Le 360 Arabe",
+        "player": "",
+        "content_hash": "672edfdfbe038e981a95e0b3a93c51b28aa3ddcc91297c7f827930832950e541",
         "sent": 0,
         "section": "morocco"
       },
@@ -692,22 +724,6 @@
         "section": "morocco"
       },
       {
-        "id": 5893,
-        "title": "فرنسا: السجن عشر سنوات للمغني المغربي سعد لمجرد أمام الاستئناف بتهمة الاغتصاب - France 24",
-        "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxOTE5YOGtCX09FZUhnNnlPcWhMa0lWTlFHWjVCM3FkUXdMaTFLbHZxWFJLNTRlVml5MWUxeE1fdWQ0ckctazZOR0tyUW1BeG4zU2RNOThDekRIVlBLUlFBUkhLZy1uaUdqVWZENnFVZ1J4cGhEV2JHMkRkdUxfYVRLTV82Y3BmbmJ1UmN6VzNnRVNpZDF6ZjNpTXdPZEt1S3AwcFFoaWx1UG56ZGNIQW5XT3p2MVgxdG9FMUtjWDRqZkRlcVRLSm5wdE43ZVRiZEV0ZDg1YW1sQkh4aFFXbVdBdmI2SVJLTjBSVXpmQ2JHQTc5NW9RSFNRYzhoR1U0V1ZQTVBiVGJvbkkxY09aRFZvMEZ5cVVZaTVDTW9WbERDeWtsUTU2RXRrV0F3YzVCaXh5MzFMSWFSaldlaEZXLVFnVjJNcExWX3l4TGNnUk9Ed25WLU1fUEJhc3NFclEydUc2MXplR2RuM01rbm1KWGlCUVAxVWxwaDlXRGxiN1JyTU05Tm95TFFCemsxbW5UYkRQN01zcmVSVVgzOWlPaUhjSjI1WTVkMS1ra0xwc0NOd3g0VjhlYlI5a1g2UUs5UFVjcFpTcnk5SExlbWRqVENjZVlzR2JoT2dHb2JxTGxkSXBNN2RKSWRaUHRnazJfOUVYRGc?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Sat, 26 Sep 2026 14:44:57 GMT",
-        "discovered": "2026-09-27T10:44:08.005699+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "فرنسا: السجن عشر سنوات للمغني المغربي سعد لمجرد أمام الاستئناف بتهمة الاغتصاب France 24",
-        "player": "",
-        "content_hash": "2d8ac24b8e75ad36f9ec24958bf52f108ac96cce76c936c1c13495c5f833bf17",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 6371,
         "title": "ترشح المغرب لمجلس الأمن يعكس وزن المملكة كفاعل دولي نشط (السيد بوريطة) - | MapNews",
         "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxONnFLY0JDUElKbjhLT21kNzhQQUlSWk85c01NLVZ6TXdWeXUyYlRETktuOWEzWFZzUzVrb3p4c3lpbGp0c3dWcUl4S19rNjlHU0xlaGpOa2F1b2ZZYVRIc3Y3SmdFa01RMXpSaGkyNnlhMUZkT2V6WGxQVjFGUlVJNzhSSkZ0V2kyWWR5dXJpNTZBcXZNYlRjWGdvdWxfRVJDZG43eEFxN0o0STYtY1JvaWVjQjN2YnJXZ2dKLWZIV1ZCSkxDMW5FeFhuMDhvRFFTM1pJdUdlWWZ2U083cF9HMnFRSGlZcWtWQk5zU0N2NGhWXzdkdHZBakllU2VWeTNrdm9GME9ud2RKajZ5am1SWnI4dFBPTmxSbGhIb09ObUJ0X2t1a1BzRnpmazNtOG1CYUk1M3c4eUVwMHlpdGFOa3pVcXpLbnBQMjNJb21rZkhVLUhHU0NyN3pJcGVsTjdhRHJTQllEc2IyYzh3QVRGN2tuQXhBcFVaUmZqS196Nm9leGU3OTZMZ3VJbEpwbGh4ZDE0NGZwM1lyS0lDTHAzTnkwUERhS0hPSUw1cTZHMHNVUzZlMTh2TlJrSFBpcGJrNFhXSm9iWHVaazlFUzNpV0YzNE82WmxQMEZJRWN1dEdOLWs3d2xSbGVHNDA2LW9SLU1YUWwzVFlXc1Blc0tyXzZJeV9nY3B4Qy13OG9YNXAwTkJKdGYtd0hzdHZ4Qlc4RDBxMkFSSy1GY1g1M3RvTmNHb2RyZ1U3cGdZRFF3QkJSWlJydVg3UzFVVFV1dw?oc=5",
@@ -725,6 +741,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 6397,
+        "title": "مشاهدة بث مباشر مباراة تونس وبوتسوانا الآن في تصفيات أمم إفريقيا 2027 - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZVdDWE9fcnhLRU9KVlJZRDNCdkVkLWFXWVdvQ2lLa2IwZThDX1V5QVBvOG9CRWtIcWMxS0daYkw4b0YtdFZ3V2ZXa2N4MEh2azFBcXVPd2JMckpwcGVkWDg4M2NKN1E5cGhtdkJLQ3VpcExnNjBjejlLRFFRbHl3OTdaMldKMEExWnBCN1RsUDlUVEViX0dFVmFRX0JmRDlXUVFveUdObmFaaEY1TnN1WHpyRXJzWU5qQTdjT2pxX29OMXJJSmZZT3BneGd1b3BhWmw5bFVIV25ycDE3aVpTcHpwR3Z5V1pMemF4dVE3bDVRZFlFam03R0FMUQ?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 18:59:57 GMT",
+        "discovered": "2026-09-28T19:08:24.858440+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مشاهدة بث مباشر مباراة تونس وبوتسوانا الآن في تصفيات أمم إفريقيا 2027 365Scores",
+        "player": "",
+        "content_hash": "1c91d3186055f1228476af42936e4a5b05cced996aa080418babbfbab7f8462f",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 6389,
         "title": "الألعاب الآسيوية: الخزعل يختتم مشاركة الأثقال… و12 لاعباً في منافسات الرياضات الإلكترونية - الشرق الأوسط",
@@ -930,6 +962,22 @@
         "summary": "خطة دفاع متكاملة في ملف المغرب ضد السينغال أمام الطاس جريدة المنتخب",
         "player": "",
         "content_hash": "c5c990d3d3f0a83746778d01cf5419f505251b78a47a218b64028e41b2122dee",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6396,
+        "title": "رئيس الاتحاد الآيرلندي يدافع عن تعامله مع مباراة إسرائيل - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxQU3didFRQTFE4VzYtVVM1ZmJOeURIczluX3pjQU5haFNLSjctZjVLR3V3d0d0eVlXazktREJMbFJ4YkNfZ2ZvTE4yS3pSd1ROY09CRWhZSEFaWkZScDlrNkJnc0ljRXVNQkdHUWxuTXdaM1FtODJFNFZtQU9xVUFocmFwTUEzU25hY3EyNndvRllpSjNXM2JGd0lpd050eHVVd1M2V2poREVxSGpaUk8wMTRfcDVXUURVRmZPUXpRQUl6NlJzaUZuV3dJSmpRSGNRaTA5Yi15eTBhZXRQalJPWjFhZGc2a0RWcEw0YlkyMFp1cmc3N0N6U2hEblBjenBOc21XcHBjeHFTbDYwV1RZZUNhSVNvQzMtN0MtbUhrcFFvMEJBOFVaQ1FhWmJ4S01EX3F5V0tOX1liYXlGajQ3STlycWdYaEtNTnlzSjFCdEQ2d0Nsa0FsRVE3bWFqRnZmYmNwamQ2MWtlbmpPWjM2cWNCYmd4M09LakhGWFQ5Z2ZnMXkxWHM1SV91VGpaN01EUjZ5Z2l0NndteGZJc3RIbTN0d1hPWjNtVndWeXQzc1lnMGpGOE9zVUxzQXQ3ZWMycjV0d0NfVzUtamxaWk9LZ2t4Nk9pUmFQY2IxR1czS0NQVWU4bS1VeDdKQW95WE1PSHltZzRUUnhkQUJCMy1Wb00wZldORGhSaGhYZW8xVklYN2pmMWxLWkxkRHh2T2hiV1JyWjlfUDdNNC1Palg4ekFGMXdhQ1VTeEhDVGdxb1NRRDVyWk9UZWk3SGJ4bFRaYS1WVTN3LW5hMmhsUGZr?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 16:57:46 GMT",
+        "discovered": "2026-09-28T19:08:21.661076+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "رئيس الاتحاد الآيرلندي يدافع عن تعامله مع مباراة إسرائيل الشرق الأوسط",
+        "player": "",
+        "content_hash": "292f1d6499785397d5784960b3107361a6e1b3bfd768abc544f8e3f0377a866a",
         "sent": 0,
         "section": "sports"
       },
@@ -1254,6 +1302,22 @@
         "section": "sports"
       },
       {
+        "id": 6395,
+        "title": "موعد مباراة مصر وجنوب السودان في تصفيات أمم أفريقيا 2027 لكرة القدم والقنوات الناقلة - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNZHk3OTd3bUJTMl9QNFZycWlEc3FrSlY0cjhuZkpoYnVqb1J3ZW1hOFJVeTVyeWZ1bzdKRDRldG9USUlBZ0Y4OHpzLXpSWkdic19WMGdRd2dPUC1CZGlhWDZ0QTR6OFFaTG1jbVVlTHlSeDczdW9kZjBGd3Y3dnVKWHJ4UUtaZ0JoTERNUFFIblNVRkthYUxWOGFEY3ZzbE1KUU1HTUljU0lud24xM3NfWm4tdU93aDR3NmcwbjRtZ0dqVFYweHZXYVpwOUhLanpEWGhWTVdOOUFQQ1NEMzRzMlk1M3pCdkZOV3g5bnRqVEZXWlRFLWNUMk1UQm42ME9ydHd4aVlVdlRqb0k1WUpiVWFvNHpZc0NDOVR6ODNxQUZHanhkejVoZjhPSUpvYlNob01N0gG4AkFVX3lxTE5oQmIzRG8zbkQ5a2YwWEVXdHY5Z2RGaWRYV0M5TlBYZE5LSk9jX3NQZ2QtUDl0MVJjQnhseHpmaEVVZXIzaW00VlNKQ0xWelFsTXp6SzFwYUVoZXNLZG5CS2xPWTFCQ3RUeVd4UEtuTzRPbzh0MGptVkxKQU8tNHMyRGt1NkVFdnVtUlUwRTRZanJhc0h3b2h4SDdDYUtTNWJXMS1PbWJ0dHlRYU1rd0I5eTVFRlJ0MDExTGJpTEcwaTRkUXZYZjFsTktxb0F0enV5SmFCUWd6X3pVWU5UV0w1Q3lqbTNCay1wZUpNUGd4UjlhQTMtdGFMcjViWVQ4SklKUEQwZFE5elZLbkNzMlBOOXRzekR1bVdOeWk5d3g3Y1A5aVlsNDduTU5BWFVOam0yRXA1cGlIVw?oc=5",
+        "source": "الجزيرة الرياضية",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 15:27:27 GMT",
+        "discovered": "2026-09-28T19:08:19.729739+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "موعد مباراة مصر وجنوب السودان في تصفيات أمم أفريقيا 2027 لكرة القدم والقنوات الناقلة الجزيرة نت",
+        "player": "",
+        "content_hash": "db99519af38b7430268a8401500a49772f52699faae61d64b50bc86b77fb456f",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 6384,
         "title": "موعد مباراة مصر وجنوب السودان في تصفيات كأس أفريقيا 2027 والقنوات الناقلة - الجزيرة نت",
         "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNZHk3OTd3bUJTMl9QNFZycWlEc3FrSlY0cjhuZkpoYnVqb1J3ZW1hOFJVeTVyeWZ1bzdKRDRldG9USUlBZ0Y4OHpzLXpSWkdic19WMGdRd2dPUC1CZGlhWDZ0QTR6OFFaTG1jbVVlTHlSeDczdW9kZjBGd3Y3dnVKWHJ4UUtaZ0JoTERNUFFIblNVRkthYUxWOGFEY3ZzbE1KUU1HTUljU0lud24xM3NfWm4tdU93aDR3NmcwbjRtZ0dqVFYweHZXYVpwOUhLanpEWGhWTVdOOUFQQ1NEMzRzMlk1M3pCdkZOV3g5bnRqVEZXWlRFLWNUMk1UQm42ME9ydHd4aVlVdlRqb0k1WUpiVWFvNHpZc0NDOVR6ODNxQUZHanhkejVoZjhPSUpvYlNob01N?oc=5",
@@ -1474,54 +1538,6 @@
         "summary": "محمد هاني: لا أرى مشكلة في تعادلنا أمام أنجولا.. والناس نسيت ما حققناه يلاكورة",
         "player": "",
         "content_hash": "8a36afe8cd90d2b8db752d002fcd4c585ed6008aa059195be8b92f1bc4a0fa1c",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6271,
-        "title": "الكاف يثني على انطلاقة الأسود المثالية في تصفيات «كان 2027» - جريدة المنتخب",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mei1wRDRYbTJVRHQwdlNxTV85S3Nib1VDR2s5TTE5Q2RzTmpVWnNBLUR2S0t0YzZEbGlmak14T0NxRVpZcjh5c3JIc1BwcWNZUjAxbQ?oc=5",
-        "source": "المنتخب",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 13:39:26 GMT",
-        "discovered": "2026-09-28T13:55:51.640084+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الكاف يثني على انطلاقة الأسود المثالية في تصفيات «كان 2027» جريدة المنتخب",
-        "player": "",
-        "content_hash": "efe3eca6aa5fd0107e025d3adef7e19f57ae0c2692ee4d2f9db48a1ad9c7b896",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6264,
-        "title": "هل يكون الأول للأسود في جنوب أفريقيا؟ - جريدة المنتخب",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TemZtVFFYVWJTbU1BdG5YV2lJUEVnOVpMV1dwRG5KS0xFd0ZmRmY3UUtoeWJQTGZwbWcyY05SaFV4dXdLVXRlUUNCc1dLZlM4Nmljdw?oc=5",
-        "source": "المنتخب",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 13:34:26 GMT",
-        "discovered": "2026-09-28T13:39:52.169563+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "هل يكون الأول للأسود في جنوب أفريقيا؟ جريدة المنتخب",
-        "player": "",
-        "content_hash": "2ea9445ef541f539f02c9af84a48b035904c393e738c30c5088acc96ea1e9ed4",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6334,
-        "title": "حسام حسن: محمد صلاح سيتواجد في مباراة جنوب أفريقيا الودية - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxQZ0Jrd0Z3bDloRVRLYlNaYjRTbEY4VGl0VUItSm5hdjIwNG9JQ0tMZGVoSFJvRk94NVE1OFNoLUw2Q3lOY3ItM19mYklwd1NXekRpUDhBeFhMS1N3Q0tWYjVCTWpsNjd5aEZzamp0YWtpYmJCcGlCajBaSjhGeXRrQmFaRENIUUZXZnR5b0NFay04YUNjNG1TRnhsM2p2LXZBbzZKTWlRSUR6YzNfOTJZZUlaY2FsWkMxSzZOYVdPcnlTa2JVc2lDSGZuWnNja3NkWllpMkdrb25BY01GSU0yQnRRRlZMTi1sdkhZeG9ncHA2WFVSazdOT3E4Q3MySEgyczJfZkI4MjhzM3FNbFdLSGNNNjkwMVdnV1M1U09iNlNnODlFc3ZYNkE0cXlNeGw0RS1RaVBJWm0yNTFDck1jZWt0SUpCcHV2WDRkdU5MT3M4cGFvQkNZNGtFZU05akVfbGpaUjVBNVdLbVRaaWZ2N0UyZm1IVWNGbmRhUUFnT2RDVGRycHU1Vl9zbkhDanEwdFNyWWFiRnFkVjlYeGttSnRKcGhPRUtVOGtKUlNxRGprU1FlaDFnUGRaVm5JLUQ0YVdyUUFqOUc4TjNERElfTmRGSVF1RzZuZktpMDVEQXNuTnI5cmJobEtJTlo4d9IB8wNBVV95cUxPLUgzNDkxcVhRU21iUm8wQkxvYXlLaXdoaEV6ZVRLaWY4YzBfV24wcW4xT2RSdmtMTnBTbkUtbmtEaE9CS1BFS3JoQ3o4SDRXb2tnVWdjeGZBb3pDY25rT05YWEU2QWJFLUpEWUhPTF9pSUJTSkt3Wi1jMEZaYXBkLWVMNm1Oa1c1ZHZCNzVYd1BwYjVobkRURXM0VGJheEl6YmxPYnRMbGF4VVlGcmprVFdmUUlXZ19yRWhkbnlsNUJHc0NOOTJUSmFpMkYyM3F1MW5MY0tDZWpNUzBiblJnY3plUGsycXlOaXN1c0lHWkh1bXBpYnROVnUwZ0t6WkJvamFVZmotNUs4d1Q5Rk5sS2E1dXFnaGRBaUROdmpEbk1Udng0VE83WU9HSHl0WFBycko3S0V5NnhQNVRidGtadWxSVVNkd1lNcVFrUm9ZN2sxamJFY3ctc29FZEpSSjdBbkZyNHMxb1EtaEVoM0JMSHlrY1l6OWhMNFc5dlN6QXJKU0VveUxQTDZ4UE8tMUhLaEFENGJMcXFZeVNxcmZrY1RkVUZ4cmpOR21ERF96V0pHT3FLMklTSTVlWFhPblAwTXc3eFo3QndzQnNvRVJ0TjJxLWo4elkwUmZVZ3VjUEhHZ3hJY1RNc2tSWmxPMkxGNmFR?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 13:34:00 GMT",
-        "discovered": "2026-09-28T17:00:25.374203+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "حسام حسن: محمد صلاح سيتواجد في مباراة جنوب أفريقيا الودية يلاكورة",
-        "player": "",
-        "content_hash": "2af877fb9ae9250d5acba54c60ec4850df383638123f5ff24c2c56d8f2058739",
         "sent": 0,
         "section": "sports"
       }
@@ -2008,22 +2024,6 @@
         "section": "transfers"
       },
       {
-        "id": 5896,
-        "title": "بعد انضمامه لقائمة منتخب مصر.. ماذا قدم أسامة فيصل مع الفراعنة؟ - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxNU2owVDduTEktcjB4VmFDbnNPYWRGMkNoUHlUOVA0TF84Yml2NGJXNl9JU21IbjRoODBuNXJHT3pmLW1pRm9fVmVIaUlBRmNoT2lWTGI5U0l3N3MzNmdaNGVWR252REpsb1pGSThHVUNVaXpzclpOZUQ5N2JZY2s0UjdrcHhNYTRfYy1LV2RzV3JrdVY4QmFjRjhmTFBINElqaVh5UnRGSGh6dUxKWGVjRy1UalhiRmdvbUlpRVlXbmd3QlpQOVRleXFOa21jZVFKQVhGMzZCNzB4eDFZRW1fNGMxN3BYRks1YzJvblhRMm1scW9xUi1Ebk1OUzVLUG8zaDBtSlMwRlJBRnRSSkFfSGhrc3FNVnJibkdZOEl2Q25PbDZfakVTMlNMa2lsSlZBSEVrZXlsb3RCa1kyd1ZHQ0JBeERwZC1yc0U1dUQxRHNabm11ZlIyQnhWaTBWMVhVenFUcXVrTVRnNEt1MXJQd2xfVVJjSUJ4RE5fNHRsUjVJZVowUVdHVUVzRlptb0dMa1RRN1VYMFQyUWNrYnhLNVJwMkM4MFREVXhkSDduMVRrZXhMSk9NRFhyUjNJN3ZKZlJET1o2TklYQ3hZWUY5ZUhWa09IdVVuWm9vcHhZWUVBRDg5TldkZV9McU1ieU1lUkhPMUU0eVRuUHlnQ29zbldveHc0Vk9K0gGOBEFVX3lxTFAyQW1xMVU3dUYwanJSeHdpVTN0WDdqTzhTcHo1ZVQyNHJZQVQ4ZEtXLXpJNmd5czBjd2FWczJSX3NLZ0drMHZJM21kZTNBSXdCQ2I5V05aQ3FTQUkxTkpEMkpwQ0lHbGI2NkZXN0p5RnpMQVA1UmN4YjViYzRQY1lxZHg4UUNYdzRqVE9idEhSNmdIeFRtcVl1bVRraUM3M25IdlVlc21EX3pldXE4Yy1CNmJ5V0JTS212eFB1SDBMRUJKUHlZYlFQZkVkU055NWRsQjZESnFWNU4wUGVmZkFDTFhLN0RNMDNxNXZyc1JjVmpVcnRqUVN6ZF9raUdjUUw3OC1DNDYxYUE3RmJaOGh3ZFpoUWREU0Y0N0NLa0E5R2x0N25RbEJWbU5Dd3N2OUJXZkpsVlNIc201VkJTNWF4eFU3a1dzT3J1NElpVWtIdWhMR1YzVGZ2X1ZyTWp0LTJzRHB4ZHRrbW5PM3NIR2dYMHhHZkNLaWRXSHBtQWRvTndNaVhrRDlXUkhkUEl4QlJPMVVuOVJYUUdJMDQtdnd1WHZrcVpmcnZ0SUlSdUkxbEpHUGhYNGdwbEpfcUJtaDQwZ2oxamVlbTBCMzNINU5US3JpcDkwMVkxM1dyRjJsQXl2dGlUNDNieU5qVW5PR3VMeDFlaGpjaXlsVmlZZlB3YjE5Q0FfeFNGbDBtbWc?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 07:34:00 GMT",
-        "discovered": "2026-09-27T11:20:22.195794+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بعد انضمامه لقائمة منتخب مصر.. ماذا قدم أسامة فيصل مع الفراعنة؟",
-        "player": "",
-        "content_hash": "ee2b28e5f107f390f227314b7c7928d9376e2ec72ad9eb31b55563313671311c",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 6357,
         "title": "سلام بحث «اتفاق الإطار» مع روبيو على وقع التفجيرات الإسرائيلية العنيفة جنوب لبنان - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPeWwtZG9lRjdEZ3VSOXdvMmZQaUJObVpyUjlkUll4T3VNVVdPMjN6ekdIbmRyal9PT3hraVlJeGhRWDRHZ3hNUlBBUlIwNmMxdWEyOVJlRjg0Y1I0bFE5SWdhY1RoSThEWGFkZXo1dlZucWV0YjRsdzVraVFidWxwd2R3aHd2R2pacW56cTAwSzdnMEFERkJaVE11X09wSUZTcElNS19kVlZ3TWhMN1JPMFgwMXI1eVBDWGdxRFAzSE1Dblp6RFN1QWx2S042U0wtQmlPa3l3VS0wbnBSdmNlYUh4TzFicVJiX3dQZWt6azd3X0c2QVNtOVdRRTJXSFBHNXpIU3JxQXpiRzlSQVI4TUhOLUE2bEpvZTNRUWZlVEtNVFJHMVVNUkRSSmxHZUJhUndNMTJfRGQ?oc=5",
@@ -2052,6 +2052,22 @@
         "summary": "ترمب يتوقع إجراء محادثات مع إيران هذا الأسبوع: يرغبون في اتفاق اندبندنت عربية",
         "player": "",
         "content_hash": "127889274c8e4ad35abfecb8911292654f03832101f6c6f72e51dca8e2dd5c6a",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 6398,
+        "title": "عبد الله علي إبراهيم | التيجاني عبدالقادر (1951-2026): رحيل المثقفاتي - اندبندنت عربية",
+        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOYzJ3S0dha21BXzBhRWNjY19HQ3lJNkdwMTY3NVFaRHFmQVBHam1FbFRTeHUwYTVVTVF4NUU1eWl4bTlCblpFNm5qUVJmV0RKZjlHZzdmVkIwSjZ5WUthTFAtY2Q3ZUxuZDcyeXNqRXBqaF9lRUNKZ2dHRlNiaUdsTnJOWnlpaEhNcDN0VjZNNk5JWlVzT0FWd1ZCQ2F2MTBpZUFlMDc0eGVNcFFUeG03NTNkTDRIUkJKRXM4UUdyTXc1MVZUcnFycDNGaTNMSTB0dm1KMmN4VV9qSHNjQ2Q0R0pZc3QtNEJPMThyeXBEbGN6WVkyNUhzT0thSi1wM3JYSlB4UTRGVXZVZlBYa3huWGJnX1BUSS1fRjhGY3lXT1FLWlVzdkJqNVBLdXFEdzdJaUJqdTN2d2lSTk5VNVVmQWxUQ3RtSWJPbHF5M1BIMEF6WkttWm9ELVFmTlE0cXpqU2Y5LWVDeWFOcmZOVFYw?oc=5",
+        "source": "إندبندنت عربية",
+        "trust": "C",
+        "published": "Sat, 26 Sep 2026 12:34:03 GMT",
+        "discovered": "2026-09-28T19:08:38.825742+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "عبد الله علي إبراهيم | التيجاني عبدالقادر (1951-2026): رحيل المثقفاتي اندبندنت عربية",
+        "player": "",
+        "content_hash": "128c49ab4effd14a897c0da6cc5e78b2c3e34f7e576838c88c774b0119ec5caa",
         "sent": 0,
         "section": "transfers"
       }
@@ -2182,22 +2198,6 @@
         "summary": "وول ستريت جورنال: وزارة الخزانة خيرت دولا بين العقوبات والتعامل مع طهران الجزيرة نت",
         "player": "",
         "content_hash": "ba1100b733acf980e4e3d08c1b01e1cd15f61252265770607d38ccebae3bfcd8",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 5898,
-        "title": "تحقيق وتنكيس للأعلام في الكونغو الديمقراطية بعد تحطم طائرة تضم عسكريين - الشرق للأخبار",
-        "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxPZzdjTms5Qm9lUTFVYlJtMFhid2tFc1ZkZXVHX0RaSUljc3dPalJRc2pEU2JibkFMeG1ROHdEaGlPRmE0anB3VmI5eEJDQWFzUzRaTDIwajN2MndBYngydkRnNk9vYkNjR2lpY0FHUWNEQ3RidHdmUkFjSTlzVnJFWVBCRzhtUnlZUjJfLTlZZkJ3TmF3SkVZWmhFdjJwZGJudlJVMUZGWWNLNy1mYTNGZy1LUXdwdjFZVDA3ekJOcHpMM1NxaWFYMW45U3dJR2JkVkNlaWtzc2J6cGZpQzdSTU05NG9tSWdWbkNyam90RmxSZ2NiSnJ2VU1BRUV6dVFXRHcwcGFqYU1DZFFjd3VuZ3Qxb29QcWJtN1lHV19DNlNVTGtjbTVyQTI5Xy1VejlFcXdBeXZsZHJYWDl0UzMwdElUc0pQcU5USzBGQW1DUGJidi1sei14S3pKRlhQT3JjR3htcElsSm1zUEprOWZ0WWRBZzFEeHJXQTdNWjdHTVJjTWxDc2NRQjdKdXlXOUZTOUNyY2Y3NTRzS0YzOHF1aVpBaG5ZUUYtZFBubDdZamQwelREUVlLN2ZEVEx5NFIydDJRdkJmM0VNSjllWVJOZVJLNlh0cVZMaFhJNnZvT0U?oc=5",
-        "source": "الشرق للأخبار",
-        "trust": "B",
-        "published": "Sat, 26 Sep 2026 23:37:11 GMT",
-        "discovered": "2026-09-27T11:45:25.446086+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "تحقيق وتنكيس للأعلام في الكونغو الديمقراطية بعد تحطم طائرة تضم عسكريين الشرق للأخبار",
-        "player": "",
-        "content_hash": "42917b8687d95d388a26eda98f73df77a42e83fc2ac0ff88f9915ac5161bb53a",
         "sent": 0,
         "section": "middle_east"
       },
