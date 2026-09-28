@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T00:35:00.382416+00:00",
-  "total": 130,
+  "updated": "2026-09-28T00:53:43.440762+00:00",
+  "total": 131,
   "sections": {
     "morocco": [
       {
@@ -208,6 +208,22 @@
         "summary": "مؤسسة وسيط المملكة بالرباط ترصد تحولات العلاقة بين الإدارة والمرتفق ar.le360.ma",
         "player": "",
         "content_hash": "0377cd19ffe6326dab7f4600fdbc719701e8cd4d61b7f0f32c62f95ca1a81c2e",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 6138,
+        "title": "مشروع حزب \"اليمين المغربي\" يأمل ترسيخ نموذج \"محافظ وليبرالي\" - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQcVhsaDNXeVpPTElwNkxtNm44dHpxaFdGazZudGM2Ylp6d3ZRclQ1alR1SUJRODNEOEF3U3hiWWFVREN4dWpFaEtDUkZ0eXNCMmtJUnNMRWhMUWhmQVZwUVNvVDlhMHhaNXFRakJ0cl90THNBT0l5Mk5qQmk5dUdjZHdVemZzSVp0OTRlcFQ1b3N6UHdfNTB1bnducDE4U2MyTTdCNUliVG1pWVlRdWJDWlQ3c2w3SFZYbmZ2TF9vUmdkLThYXzd5alduZ1hnNjRtVzZiVnRoY0llbmNhRG80WVN2OXRzempvYVJQb20zelNiS19yN1BYWW1UZzE4c0FjWHRud1NDa0NjTzlwU2V3SGZuMmc3X0oxTW14aGZfaTRRRVdwdkZRdy1mMEI3YXFlZnM3RDBySGNRSTBSczZnbEtHSFFWTjBaM2p0a3FZWQ?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Sun, 27 Sep 2026 08:02:48 GMT",
+        "discovered": "2026-09-28T00:53:15.212994+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "مشروع حزب \"اليمين المغربي\" يأمل ترسيخ نموذج \"محافظ وليبرالي\" Hespress",
+        "player": "",
+        "content_hash": "f149241cbecb99e0611a61e1a6a4b05f883aa7f326cfea0b47fb9a0b8cec608d",
         "sent": 0,
         "section": "morocco"
       },
