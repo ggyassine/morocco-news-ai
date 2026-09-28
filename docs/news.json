@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-28T14:32:30.833632+00:00",
-  "total": 147,
+  "updated": "2026-09-28T14:51:54.455572+00:00",
+  "total": 149,
   "sections": {
     "morocco": [
+      {
+        "id": 6289,
+        "title": "إحالة البقالي عمدة فاس على غرفة الجنايات بعدما رجعات حريرتو من النقض: كيواجه جريمة عدم التبليغ عن وقوع جناية - كود",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNYmMxODEzUHVzekNBdEo4c2gydjFLb2Y4LW9ENmdpUVRUUU1OZnRBTHAwMl9MTDh0VHQ4ZUNuQlBKVkU3THJjWjBKNGxVaHJRMlQxZ3JNX1F6dXg4TTlZSnNWVmNOdGJwaGtTVEFHRzZ2emx4TFFXamxKREFXMU9pT2hXSE02cEF0LWh0d2k0RXZxMzZXMWNwRllIVGNUWFJ1RDdYR0pLQWNrbm8tMzQ1NFE3dW93c1hWTlhUVWdRc1ZlMlNPRDNZY3NjX2trZ2EwcENCZW0wNUFEMmliWWIteWg2X2c3ZGlLVG5yQWpzU051U2ZkaktGTHg3R2NEQUpObXI1MXI5Ym1zeS1MVFFmUV8zMDdMbnJDbEFJcWUwN1oxVzF4MFoyUXdZUXJvM2tjaGI1SVljbkxNZGhTT1FyNmNyOWpyUXVJT2pN?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 14:46:38 GMT",
+        "discovered": "2026-09-28T14:51:30.135850+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "إحالة البقالي عمدة فاس على غرفة الجنايات بعدما رجعات حريرتو من النقض: كيواجه جريمة عدم التبليغ عن وقوع جناية كود",
+        "player": "",
+        "content_hash": "6abc96e905eb062da6110043045dd4d9c665d139f6a49a8aa24e97af9aeecf8c",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 6243,
         "title": "انطلاقة الدورة الأولى لمنصة “أمانار” بمراكش لدعم السينما القصيرة - العمق المغربي",
@@ -64,6 +80,22 @@
         "summary": "فضيحة الخروقات الانتخابية.. “الداخلية” رسلات لجنة تفتيش لطنجة كود",
         "player": "",
         "content_hash": "f79b44178fcab1807fd8ace70de98797334f8b8e1061e82e8508c42e984aa564",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 6290,
+        "title": "توقيف عمدة طنجة بمطار ابن بطوطة و\"البام\" يتوعد بترتيب المسؤوليات - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mb3NsY3VIY3NlLXgzVWR2RGd3MlBDNDl0UTlhbVk2Y3NZcmNEWUF6LTZnZDcxZmphOERlZU1PQTRKWVJNSXlHVw?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 09:50:10 GMT",
+        "discovered": "2026-09-28T14:51:31.306197+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "توقيف عمدة طنجة بمطار ابن بطوطة و\"البام\" يتوعد بترتيب المسؤوليات Febrayer",
+        "player": "",
+        "content_hash": "8fb68fd9d2b16914a29e33d87db0f789c38ec4de0d8733120a93efc86585b11f",
         "sent": 0,
         "section": "morocco"
       },
@@ -630,6 +662,22 @@
     ],
     "sports": [
       {
+        "id": 6291,
+        "title": "أرقام استثنائية تضع بوعدي تحت أنظار مانشستر سيتي - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80ejZUZ2NHTVdrUDQ2T09odkNkczlFRF9nRlkyTE9aU1BYZzRtN2RSbGpuTTQxeUpJMG56RGRUZkVmaUhDXzlGV2ZYWFNTejFNWkUtVg?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 14:40:09 GMT",
+        "discovered": "2026-09-28T14:51:32.390497+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أرقام استثنائية تضع بوعدي تحت أنظار مانشستر سيتي جريدة المنتخب",
+        "player": "",
+        "content_hash": "c46c408a4a3cc08993ae59a20ff115ae8c728b4ca9c74af3f71bbb46e4d7a886",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 6288,
         "title": "بي بي سي: الاتحاد الأيرلندي يحقق في واقعة عنصرية ضد لاعبه خلال مواجهة إسرائيل - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxOdHpJX1hRX0IxUVdTaHdIajFhNWpRTDBRbFJqRDd4S2s4QWpYaUxwY3htVzQyQkVLTDRaVFNmbVRRVm1hVHk2MEltcnFoVURqQk5WVVpOenF6RVBzZkRpeWZQWHhsamRQbFdGQlR2bUxjeU5OZTJER2E5VXQ2akszdkUwTnRYUlJjR1dhTDBpNHN2T2lERzJ5NkRPajdxcTBrME8zbk9FcjNFaEN3YlZvb0pjZWxZaUNLSEtiQVBSaUotNE5PTndSVHVJeXhlRWI4NnVIVkZyVEJFMkdzOWc5M3NxM2RmUnZqWjFkQlRPR19yTk1PVDB4d3BqZXQzeFdwOU1UYlh5aFVLY2lQZTNOVFdmckJaeHVRY2tuRlYzMEhtMXN3elJOLWFTRVVGaEZLeVFDdVVpc25QejdvbTh3WS1iS2RFVU9rQXVQZjhWQV9XaFVTTWZIaG1hM04xZDN5TFcybmZTRnVXa29CTGZiSHFia2hEQ1NSNHZiUmVLRVlIaExDcnZnRWhRRTJ3bjVBcElJbkF2SldyWkpENnBCQTVhMzNZWmNfWFFnSUR2VkdvRFRmSjBFSjRrVXhHNVFTa0p3NlBBNEtTWTRaRVU2NTZWN3JMcV9zOWg2a09VUVJRR0tucGZLaGU2NFc2WjBNU19KNGNEVlVEa2VTSkJqSVpCQVBvcjZndS1XYnlDb1BESk93aVZ3WmR3cFROZWlHT21FSTBHUUpmTjV5cjNoaUJ3c3pYUlpPYjhxZFI4R2x4TDh5VjlEVGYwTFhUWmZjckxvb2NHZGxVUWppZzBodGg0UUhNRlFaTGdNZkVFWXVCZVFUQXdB0gHgBEFVX3lxTE0taXdYcGNLdnA1WG1PNnhiWnNXMU1peFhQWVAwWm9VMlFmMG10M1hHRnU2UXEyVVJpRU52RG5YTHNNNjc5Y0phM2l1Z2o1MENGZmhUNVpaUDNRQ3pXdi10MFlxQTBndWlzbGtjTTZKVEJxMkxOektDQmUtTjB2YnNVVXh2R2VCWFVHdU5Eb094Y1ZieDBoc281dlp3eXVBemZJOVU2LUI0X0JsVTRRNUd4WHA2dzZLWHBmZjBlTE1EUVplcW52b1BBeHVkcXVvcE1HWjBya3JaZHRwUm5LQXRqQlpKZ21CcnlTaVM4SS1fSlVITlFTMWpoTG5NX1BwOGpSbG1JVXl4ZUhBUUFkODNfN3doWUNvWHNMTEhNdU5kdVFpTjV2dVZWbXc2bmVaLS1odW5Jc1J6NDVicUEzQWY4N1dEQXBSOWpxaG5lR2JrVUtjOXVsVkNHTURlRFQwN2dIYzMxa2dFelhSdTNGQllRdHpZb25XSWEwd09KUVZicVNxZzktU25QOGxTN0kxQ3oxemVfLWFiZGRWUWE1QWtJUjBvSDE3Z0xEYkhQVU5yb0JHUWRlQTNEUVpTN1RQVFkySmhkU2dSQjZvM2ptMHZBY01yQS1XUVlNaDhOMFNqZzR1YzdVbjhDZzdvQWpZVF9TYWhmQXJVbG1ybERWR2dhdDZ1VjFJbUdYUzBKcmd2TnVORnhoUnRlUFNBSzNrR1N0eTBqUXhoTkxzcXNBcFhvTW1UVWtNVHpHUk9UamNGMWFNUTJUUkVpNmdfeE5jVXYzMW1lZFlpeWlfY3JqUnUy?oc=5",
@@ -642,6 +690,22 @@
         "summary": "بي بي سي: الاتحاد الأيرلندي يحقق في واقعة عنصرية ضد لاعبه خلال مواجهة إسرائيل FilGoal",
         "player": "",
         "content_hash": "dd0f8704fd88cc6050242fa6f27a8c166261b6b96b87596c85ddd9a1f9872e34",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6292,
+        "title": "الإمارات تحقق أرقامًا استثنائية في دور المجموعات من كأس الخليج العربي - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNNXMta3BiRW1tbTd2bFdjM3Jva0xnQVJWWm9UY09iMk80Y1l3dWMtOGN2OGpYNEJEbUtjM054VXBqYkpMdlNmLVNPdnd3ZEJqdEVYb3N5SXlIWUJCblE5eUsyQW5SZTlnS0JlRG5nc29OTGg3ZUNFNHZtUUdWQzhYNVJYSHppdmxCS3Aza3lCbmQ2MEtPSUc0QUNqem5GbW5OR3VFTWJ5MUJmRWdGTVh3dWZPZUpjby1ubHJJNUdMRnV0eFRMZW1DSXFNb1dWTWZmc0kwNy1lS251WlVPajZRZG50VG5SdlNzNnA3NERKSU51NWVtMXA3RlBVYnVxT0RsdTRaRXQ4QVVUd2ZjOWxJanFqOUQwb1IxS0Q4bW51WldoY0JzelVZaXZDZF9fX1Zrby1zV1c1dEswdkZHZkdUR1JyT3hRNHRpRjhmRkYwOEpYNzJNZ0k0djE2ZmRPQQ?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 14:09:27 GMT",
+        "discovered": "2026-09-28T14:51:39.535622+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الإمارات تحقق أرقامًا استثنائية في دور المجموعات من كأس الخليج العربي 365Scores",
+        "player": "",
+        "content_hash": "4ebdc7412ca3d0f86b99430be1afe9ca14e6aa65d614034dc20539c9ed41b7bd",
         "sent": 0,
         "section": "sports"
       },
@@ -1396,38 +1460,6 @@
         "content_hash": "0c660e1a3d08cacffa44a26aae094cb359771f878177a8530be976aa56592f67",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 6185,
-        "title": "تايلور سويفت تصبح الأكثر فوزاً بجوائز \"إم تي في\" للأغاني المصورة - العربية",
-        "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQSDIyejBES1lLOExONjAxcUtJWGdCMkloNnFiRGkyOEp1Tm5TdndJSm9TUmxTY1hSVUxKWEI0c2tYVWVBQ0ZBdlQyN1M1eVYyZGtMZ2ZrbDUxaFZVRF9OYXRLSVRfRFhZV0s1SmlpaDR4NktXZkZXS2FEb19RcUYtbHdKZzZEcmFjQlFxSF9FbXBfbzJmMWVYZHZNV2xSZlk2MXZNdmRHU2lucHozOGFERndGS3NNcjdzOVZRVzNiZXZxTndNODExUTNkMGxXenQwM1JpdGliak01Z2M5aW96eWdRQmRJTW1CUXZUOHZ3MEdwbHhnR2hnNVpqUmFfQ3FzTS1OT2ZEbW1rWTNyREZhZkZSQmd5eElWVWMxSmx1a00xcTNvTmFGdU1wRmI1LW9qcXRjRDFGeU5vOExEc04xbGhBdlpIS3Z6RF9rckxJb2pIOHM3TkkwNEZURXFIbzBkX3FmUjZSMXlXMkgyc0NqQldydUZ3N0tBeS05SHhyTXpQVHB2d3hFamNCTnNIcUNINEdTT1BZbUxUeVV1UnZlSWZEZkM1MFQwYnp5ZU9ELWk2N2lKdFB5Z0pDRU9YNFF1ajNiVDJKUUh3cnNUMDNYRkU3ZDVrZUNZaFpPV1o3NjNhM2ZMM3VtMzRzSVNZa2JmZGM1Vm5DVXpWQWY1UjZ1YnBWVXp0NW040gGOBEFVX3lxTE8tN2QzMkN2MUUycDgwaGZSM2UtNUp1VzdTaHV1Q1RMWVhwajZBMWJvUEVPNHBKY19NTEpycklxNGg5N2NNeEtkckxCdGVuT2ZFREZaTmtqb291ZENDRjJ0Q1pCblJlLVB6YS1CT0gtRXNPc2hCRmItdEZEdk9VNzJEUWt0akdXcGVDQ09YRWhlWVE4OUFkOGJCbnNPLUthRDBpVmVvbkFEVEV0M2ttSlN4aGpaeFU5UTdyTUVyblRrZHVsQnRuVEdIQzRfbjJ0RXMwMlh3ZGw5VjNNVWplNG5ZOVJtRkg5TGo5WS1Sa2J5NlJNSjgtaDFFNW1SNC05WjNYYWg1dWpSTTFVRVhGMUJfZUVLUktLMThBQi1EV2pUbTR2SmltS3Q3aDNXX1VLaUVsRTN2TUJkLTlYek5rQmFHX2I0b0syRFNnY1dnUjlWRExGVUoxck9fOU1tS3JXVG9DbG96a0JlWTBTcHFmYUpMVVdBZDZzUkJmbDNWZHFyMzR4YkVJSWltdW9WTEY2ZkRxSUVwWnRYSkpJei1EWU13R2M5ckp5ZVBkQXpMY1hoNFNKV3dGU0daRHdyWmZRMFFLeF9UX01KMVgweDdyLXhmN0JzSHZJZlV2VDM4bG1xcTltaUtic0xSbkpTSWJlX0lXZWNhLWdQVWRaMDFMTzZ1dWlvVkZKTTVmdU84TEE?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Mon, 28 Sep 2026 03:27:00 GMT",
-        "discovered": "2026-09-28T07:54:03.603438+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تايلور سويفت تصبح الأكثر فوزاً بجوائز \"إم تي في\" للأغاني المصورة العربية",
-        "player": "",
-        "content_hash": "77de35366a402d1df91aca2dc40be9433fb85be37fcc5b72be4be8c558a65321",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6254,
-        "title": "معهد العالم العربي.. المهندسة المعمارية سليمة الناجي تفوز بالجائزة الكبرى للتصميم لسنة 2026 - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMiwAVBVV95cUxQTzE2b21PWHRDQ3c5clNWZHk5Q3BneTg5cjBEcVFwR0lnN0gyN3d5UDlGbVZtZzIzSm0xblF1QlFrejJFNW8tcXZhLU1rM2RGUmg4LVQyZm8td19pMTMzVUxKSGYxMkFYZzhGVHB2N3MwWTFVcUxIOG5FcG94Qzk5ejN5RVU4WjRYVzVmSHJ5ZTVnSUgya0lRZ3VoQXZKTUZPYXB5SV9ZRXc3VEFPSHR0ZW5meDZ5eFNkTndTVnE1bWdvSlAzMnBkRjdmblRLTkFsOGQ4MHdWcm1hdE04MUgxbDRiQmZkTHZ3TVFQZkdNSENrbzZjZ3BmMVpQSlFUWEx6cVY3UGl5VmtLaTRfQldtQ1JtS01zSENPSjhZZXdGUmxPbVhYS29CbUFQTGdILUtEcXJiYUpJVTRmX1dqOTJvUy1PLXhQcng0YzV5T0dDdXNuODhqelMybVk1Y0RkaXRWOHE5akFtR0FaSi1ZN2M1YzR6a01qUlVvdzBDb2piUmV6ZXY2bGdkek5CcmpNQk1iNnZQMFVrNXplVHgyb2RmNWlLVkZqOU43VmIwSEdJcm0tbGZrd3BwTFk3N29EYUVYbUUzNlpJSUExbnRmM2V3NjJZWEJjODhidTNhOHA5dG4wZ3VDUmJuZ2tmOXY3ZFB1MWE5eEFPWjctTy0tVExseGxSZjVWN1FMSVE1WTh4eEtBSWdTcHJXbXZ4MzVuNGVKeHJpanY5MUlMUVBKZjVxdXhVU3ktZnp1YWNjenF6WXQ5dDNuSUx2WE5NUGlJWVNsSG4yTkZKeHNwMnhLaFVBU0M3UlRod2FsLUkzMDhqWkZuaXVSZ1Mtc3VQXzhTN0tDRjdGYl9URnZpUVVpVHlpRDVrM3I0ck9WeWp6YjFNT09CdW9CakJIZ3pocWxGYTlfS1dKT3ktZGhrUG8yQ3JmSA?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Mon, 28 Sep 2026 01:45:29 GMT",
-        "discovered": "2026-09-28T12:51:13.088264+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "معهد العالم العربي.. المهندسة المعمارية سليمة الناجي تفوز بالجائزة الكبرى للتصميم لسنة 2026 | MapNews",
-        "player": "",
-        "content_hash": "56667dfd741a605e849fcdb8c399c7534a945d1709a05757ed033fc9f7af2546",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2154,22 +2186,6 @@
         "section": "middle_east"
       },
       {
-        "id": 5790,
-        "title": "رئيس إيران: مقترح فتح هرمز وضع بالتنسيق مع المرشد - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPaS1OSjE0bXhfRmtzX0piMWpjU1Rmc3JWcnd5cnlOd3BCRDZ0NU1ZMzdsTG9USXNLejJ1bjVXM3AxcDg4emk4b0hoN0FQQzR0NEV4U2IyQXJmakFPWTN4VnBhaURLV1lKTjJXMDdYaGhsYWMxV3ZTY2ZrZmQxeHVObnlrMHdaZkt6U3dMWmFaNTAtQkJkNDFsOXh5YnNGbGVSRDBlN3RSWHNfdTVDQnZkRXRzT3JHYlFDbV9XamQwLU9SMDBtNDVmenVqYmtPWWItbmRuTEVrejFhSm1IZVgyVl9WbF9yS3dPM1FzSEhqV2NNYkdPUlpENEsya0hGS25PTWNmeWtRV1ZXTjJ1eFE1aGl2MEM1TjhrUV9uSVFCSU9RRVU5WVl6VFRaS3RRT3FtT1RLdkI5MkE2OXRJQWh1YzVJYUxQSjFNc1JiclZyRE5ITDVONWEyNzE4Q1ZaT295c2VCZ20xWFdoVEZMZ3ZnLXdrR0NPWHBpUXV4X1ZjNUJZWjZaLW14RmhVaXpjVkk20gGWA0FVX3lxTE9jS2ZrSXJVcjlXY1RTTllqOG4wN3V1VkJHRlNlN3VvaWtTWUZCWm1kbUtZVXpkcFlOUENNcV91Ym5OQ2dBOGFsblNtRmFaUktCSUI3ZTd4ZmtSZ19Iblp6VnFQUm8zODZvc3EzYXpKVHBvZER0Z2ZWZk5vRGVEOG1lX0hIT2psaXRuaVZ6TGJyYTcwdFdZM1BTVnNHdk9nOXB4V2xMX1NkRDhYaU1QZmZ5TUtjQmFjNDlWT0ZkZjBXTkFpaUpZamlpa2pxUnRjUlJTNFVvU05SS1V1QzdTaEpBTGNyV002RThOY28tdkxEUHdVMFNDUEw0aVFTRHItdVdZTDJKcVlVd2FlTXFialpyYWduUk5ZbXJUM0liX2kwN3owU05mZWdVYzNiSUdtQXV0VFc0ak5oMUVqV0djQmRkdTJfYkdTSkhxN0xzU1cxMEFybC1oMXNWSTFMTTg4SE4yemFxakxKNjlMQ2dJTDVzNF9QWFpQcUF1MjZxVnJ5WndKQzhLVjByOEJpUF9IWUYwVFlUbkE?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Sat, 26 Sep 2026 11:11:45 GMT",
-        "discovered": "2026-09-26T22:45:08.188853+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "رئيس إيران: مقترح فتح هرمز وضع بالتنسيق مع المرشد سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "adf131fd1514d5e6a97e024971a753b61d08685ec073f5ae0b7a76bb8d343b71",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
         "id": 5802,
         "title": "بعد عرض طهران.. ترامب ينشر صورة لمضيق هرمز باسمه - العربية",
         "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQZ3h4VkNrbjY3SHF1QjBtR0p0elpzYnlKNXgxYXVKQWRuZGtNSjhBdGt0Q3FwRzlUMmpaRDNENkkzRS1GOFkycWEzYlBvTm01UGtkTVd5RHhnV0hiUFJ0Yy05LXFfMzBRUU1TbjBXRW51ODdaX180ZTVPM2Ztak1tZ1hEcUFEa19IQkExSF9zV3B1UFdjV1JLcm42Mm9STnhwS0ZVY21yd2lCRnlrUXdONlFnRXF3aTNEYWtsZGIzT0dtckl2SDZTOGpzTWduc3gxc3dkSnR1ajFGaWlNVW9aSTJGOXRlNFdFU3hSbkdiWFQwTVhDMGxJY0QtaUtKd0w5Yl9aSEJxd3Z6TW5NNjJhQ0dCWEM1V1RLX3BXbmtDLXdwY1l0RVVXcDFPLXpsRlpTQTE0SnJYNlpKTXZLNTRWejNQZl83R2hEZDJIOFJhS3JLSFZUWGFYQW9Bcy1VamNFOWVjQVN6WHVYOHNqSkYyT1dUX1JhaW10UGJiUUg1RlVNVnZTQmRrUVZfaUVCOVRpTjJMZzJWcGF5N3BLSVFwdUtSSW1BakRiTm1zT2Y4M0tucnQzVkhJSHJneDLSAcIDQVVfeXFMTmwxSFJILWZkdEFYcUdBVnRhLXpjejVNNjFCSl9LTGxKV0pCalMya0w2YmN2VFpqZXE4NkJPVHdHeEpBSURhajh6Z1NCTk1ySVllcUtzbktMaHdNMHNEeDJqN0owUFJFbHFYMmVHUUVTS3N3dWFpakdBWFNORDJvNU9CQWxELTRONkFZUUlNdzF6dVNaVjBxVWlkd1BHODB4QkxXU245d09uUS1lRGlUcVNCUUczSzZUVklrTHhpN2hxS2JwTFJhX3hnTnRZRzdNdDJwRVFpV0pXcDA5SEgzMkk1S1hjdWlJWW01VlU2LVEzRTNUVUNjX3hKaEoxNmJaUDBZN3JWaVJBUURISnEwMFpwN2hnNF9aSDVDYzlVNlJPTlNkcWFQUW4xcVBKR0dCNjZGMzk4YWRfekRJTjIxOXVrT3hUS194R1pkUmVYMWxwVGpWTzNLcXVsbER5UC1LeVhSTzhOazFkRWlmSm1oQ3dVTUI2cEFHVkFPVWRIY2RHbEZCWVpFQmRMd010VFZaTUg5YXpFVVJWZnAybjMyNVhiYjJZYXIwekkzcVR6dVVkMXB5OE1KLWtvd1JPUlduRUZB?oc=5",
@@ -2198,6 +2214,22 @@
         "summary": "التحالف يعترض صواريخ ومسيّرات حوثية على الرياض وجنوب السعودية الجزيرة نت",
         "player": "رياض",
         "content_hash": "735deb250cb8788ab4ee7681e4d9d17208df6c38b58ab4fa8e5208452445b7a2",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 6293,
+        "title": "طهران تنتظر رد واشنطن على عرضها.. وبزشكيان يؤكد \"سنلتزم\" - العربية",
+        "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxORDhSQVBfaEhENG55TFZUckdwTnZHOWVfamI4bnlCc1o0Yy1lUFRUMERfQ0JCZHh2N1hULWxxenVQWUpPNmcwakZiQ3NveVFJNnp2WWxKUG1OU09hT2J6cVhMSzR3YTd4WWJpamVXTFJuT3JMaVFYUDRyZHVGWG9tRkR1QjdBTUM2NllmZDhTWUt6Tm9HWEpvMnFJOXJhbVptZ2lQeWNkN3BnT3pJRWUyMXN3elR0WHNkSTFxcHloZU5iUmhGRDduQXZqWWc2SmkxUHhwdmN3V18tQ0RWNzRsQ1I4WnFqaFA0OFlMZ25qQW16RW1zRnRITWN4Y09Odm9CNUlUQ3NmeEFRZDZ0a2RSakZxRUpvNUhMbUZybmRtUUR1NzFWSTZDNXNrazdlYURVLXRIZlVET0tfc2l5VkcwQnVBbzhETG5MOEdQVFYtcTBTbXNnTU54S0t1aERlLUduM183WjI2MkJQa2hTZ0RWOWJGTTBBMjUxSVlWR2pEZWdObkF6MzVhcUJEV25LRkJ0ZWUzRU9EMTBHOVU4TVl6UWw4cVlqejdzTlBqQkQxd0t4NVdQR0U2cEMzUWZMLUk?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Sat, 26 Sep 2026 04:16:00 GMT",
+        "discovered": "2026-09-28T14:51:46.181690+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "طهران تنتظر رد واشنطن على عرضها.. وبزشكيان يؤكد \"سنلتزم\" العربية",
+        "player": "",
+        "content_hash": "44c695a781826885c3ac0c8805687c9ab56f21034c02e796470fff828880d6d5",
         "sent": 0,
         "section": "middle_east"
       },
