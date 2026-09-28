@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T08:58:23.602355+00:00",
+  "updated": "2026-09-28T09:16:50.215360+00:00",
   "total": 134,
   "sections": {
     "morocco": [
@@ -469,6 +469,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 6195,
+        "title": "منتخب السعودية يستعيد جناحه قبل مواجهة العراق - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPSFBKNjhvck9fdGNsN1VrcG16cWZKLVFfanNiUDlWNWoxVk1zRjNLRHVzX0l0UTY1Ti1JZktySlJTVjJXX2FHRFduUjMzODRtRUZLRkFHSGlWSlJfWTB5dkpYenlReTdkcFYtU0pjQWh5VnNzRHdFc2JrRTg0NVVpM25ZS0V2eFRkb2VqSjh3T1RSXzNEazhxWWE5U05fSlNXY0t2anRRS3RnTDdMbEV3eHBITFdQblVlWTIxMWRtdHNQQlhyRlp1em1LMTkxbUt0MkFoaVdPNUNZZ0ljWEZ2b0NfMERqeXE0eE5ReTcwQkM3cTZ5OENWZmU1aHhlc1hpX3pqR0pyd2N5NVNISmF1V05sRVBxTFZMWDBsWUZwZTU1VWRRRHNrV2JQS1NHLU91cl93SmkwU3NobkJfLXUzWUxGUUJra2hzamhocWRRMG5SMzhVTjVXbFdwQ3dUaEFpbHo1OWNBdEs5TUlvS2tKNkRuQVNJQ2VOdVl5d2VmQWFfRk85a29MeUtyNDhKS1dZT0HSAZcDQVVfeXFMTUV5a0RiQmQ1enRyT2pZQm9GWDEtRHdfUWFseXp1OU1qVmtkYWx5T0gwdWtZVjN3a3lNaURCU21ld005d1otNl8taFAyQ2VPUTVoOFlGZjJ2c1k4b3hfYl9rSHQxNXB2V1VmZHdGSzNkaVZUVWZtSnpDNVdpZUhuSUM0c1BzRkpZWHQ3b2RjZkNPenVVdnFILXVyU0FPM2p2dVJncDM3OVhheWdiV2hzaTFXeUJSYTFtV3IyQ0NxaEt0OTcxMl9LQ1JYOHNmcUVPeDBYQ0FOS1E2R0dIWXJCWXpzNUFoS1F2N2RZeGFJRHRrakJzNzhrQ01HTGk2QnZFeWRENUlqaVJJcmxPMV8yRTdxei1yWkpPcG12akRyX1RzTXBfeEtaZ0dXS3RiZE5OdnAzYzQzWWRmakpEZkdtMWs4Z2lneXJVRnE0eXgzNFY3T3RaeEJtd3ZBeFU2N3ZmQW5DTG9kYm53cUNIS2dxck5iYzNqbVE4OENJUlNKMXlWVjdNQWd5eU43QllMR2JxSy1rblU0cW8?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 08:59:00 GMT",
+        "discovered": "2026-09-28T09:16:33.092612+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "منتخب السعودية يستعيد جناحه قبل مواجهة العراق FilGoal",
+        "player": "",
+        "content_hash": "53c1f3584a2b83e7ee12239813e6cdea99d9ce16790f99c0acc5e69877fd5819",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 6189,
         "title": "واقعة لن تراها كثيرًا.. مهاجم هاوٍ يتسبب في طرد لاعبين بسبب شعره (صور) - يلاكورة",
@@ -1250,22 +1266,6 @@
         "summary": "منتخب السعودية يكشف تفاصيل إصابة حسن كادش 365Scores",
         "player": "",
         "content_hash": "15ff5e5e24b486cb492e4d03bf5ff0cc96c357f12e00be0a72d38871a26caa83",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6075,
-        "title": "شاشا تعلن إذاعة المباراة الوداعية لـ ميسي مع منتخب الأرجنتين - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxPeUtmWVREY1R4YmMxOHlBUTFyVktKMzJBcC1fWUxTcmljNkVJX3hzNnp4bHZvTG93VmR2VEZYQUNQdXpJRXRGdHJIOFI2ck9mamRScThMRWRMbGFoblRtb2R6SXpoMUtDb1owNHNBb0E0SlJsbVYyN3VjUEo4R1A3bXNodlQ0a3N1MWZ2UW45anBfUlZPQzdCelhpVVBQcnhYWE16RzhhTC10TUtrTlZUUkliTWVzWGhYQ1FmZlZrb2VsSE5YM1p2YW9kRHl6MGpLVFVlYlp1ZGMtTWl3UkFUeU9jOUpUdmpndGZkWXl4V2dtSTBXcnpqQXlKS0E4VmJmdFVKN2F0WGxkWmNxRGtPRkJLZnNSbmg5ZW5YbkdIQkxaLUhaU092MW1jYWlqU3pXNU5UaWFnYk1pdUpvMFFwblR2SVo5SS02ZGY3Nk03OHRrZ3ZPZGRMSjF6OUNLVDI5RGwxaTdCMUxtR1VSU055Y3J3R3hINENQNHYzQXd0NEVBaFVuUTlnd19aamtpeE5Uc1lncWJVWlBXZ1VnWnJjZHVmTFBiWTFJbFBLTzNIdVpLeF8ySnNDWTBZb1Rwek82TzJvcmhJMDNvTHdRWGs0TnlZOElQaC1OM21xZlNhVUdYc1ZKQ09pOEJaNnBSem4xQXRCMHNn0gH7A0FVX3lxTE5STVh6WlRyeEtBZjNYUllLa0h2cWxXWXdhLVRtVE0xY2VGVFZINUkyek5ESEpvQ0pySHhpS0NEOGRjeDRzSkxTWkMwREhYNWNBZGhuMzZQSFBjSWZmdWpQckdaSFF5WjZER0E2VU9XdkZ3Qmw1c1lhS3JUYk9WTTlrbzA5X2F3eWE0ek83VnBZekxXM3lueU93VDc4cktfTXg2bTlaa3Z3RkdkZjFYajNvRURjMXlPQlVSRzM0YjRCZ013V296R0xIRnV5UTBHaWx2WGxzUlV3c1JIUkFmQjc3dDFSMFNiaXIyTWRQSzJxU01sNWtONjI5cVpkRXl5dTNoaGdicDZmWmZOYmJKWlY3RWNJYjI0WjkwTnpXVmVWZG9GTnlraWVYWTEtTTVQU3V3RU8tVU9NUWdTNFJ4UmQ0Q3pVRXN5TlFQTzhEcXl3UTAtOWgzbDdKVmlsUGFRZzF4TG1wMnNIbDA3ZHpHak9XaHViSjNWLTE4S25UTnJpYmtpWkVPaU9FQjBkZlpfZUR5SlRsaDJ5QTVzQ2lUN3NnODNFblNoZ2RHeW9RcG9XNm0ybVBBbHNSOG4tRlBfUzNBYkxnT09pcHFGYW8tTDU4REw0OUYybE5VOE1HTzh6V2lYQmJjVEhCUTZoaEhqdXdJVVJKdUpZbUZ1bw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 20:21:22 GMT",
-        "discovered": "2026-09-27T21:07:56.205301+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "شاشا تعلن إذاعة المباراة الوداعية لـ ميسي مع منتخب الأرجنتين FilGoal",
-        "player": "",
-        "content_hash": "b9b60f4cfc2e03e84c3e670d886c8ae3dce294082bf63d8007badfe0e1da49f2",
         "sent": 0,
         "section": "sports"
       }
