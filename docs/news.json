@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T17:33:46.683680+00:00",
+  "updated": "2026-09-28T17:48:38.927969+00:00",
   "total": 145,
   "sections": {
     "morocco": [
@@ -612,22 +612,6 @@
         "section": "morocco"
       },
       {
-        "id": 5856,
-        "title": "محامون لـ”كود”: الاستحقاقات الدستورية والانتخابات المهنية غادي تأجل الحوار مع الحكومة الجديدة حتى لمارس 2027 - كود",
-        "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOSmVBbldJUXpNNEE4NDV4T0hSTjBlQXotT0dPV3Y2QlRVSlBSdTRGdXM1QS0wZXZvbDllTzhmenZxbEs2cHhfSTNGR3RWMWc5am9XdEhuaFFPNG5vbm1abG9IaENYZGJVbzZyazZzclRqZnNHcVJyLXFBamlBMXk4WjZaWTJvZ3dFaTBLVWRSUFZhSTF0S2lzalhhbmtpSTdSTTZ5cnBZZkNIN0N6cHdUOXlyejVfQUxxS2JTVU9aMHFsWlVqeUV3Ty1fRVlibzJHSzh5aXh5N21LVEpjcGpSNC1ybGtMbVBqRGxMeWhLZExRVUVYWXEtSEhuY19BVWJzZ0dfY29yaEl3SHVfU21FRjFBWnREeU9kQ0dSWGt3eWwyZWtzTGJqSWVFUHNPNUJLRjFaMXVXbkpwdTAtc1Nr?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 21:32:49 GMT",
-        "discovered": "2026-09-27T07:41:57.615875+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "محامون لـ”كود”: الاستحقاقات الدستورية والانتخابات المهنية غادي تأجل الحوار مع الحكومة الجديدة حتى لمارس 2027 كود",
-        "player": "",
-        "content_hash": "175f44c1291eed2dccf398a151f0a7beab5b51425f5ce41aca27f8c80f011a61",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 5893,
         "title": "فرنسا: السجن عشر سنوات للمغني المغربي سعد لمجرد أمام الاستئناف بتهمة الاغتصاب - France 24",
         "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxOTE5YOGtCX09FZUhnNnlPcWhMa0lWTlFHWjVCM3FkUXdMaTFLbHZxWFJLNTRlVml5MWUxeE1fdWQ0ckctazZOR0tyUW1BeG4zU2RNOThDekRIVlBLUlFBUkhLZy1uaUdqVWZENnFVZ1J4cGhEV2JHMkRkdUxfYVRLTV82Y3BmbmJ1UmN6VzNnRVNpZDF6ZjNpTXdPZEt1S3AwcFFoaWx1UG56ZGNIQW5XT3p2MVgxdG9FMUtjWDRqZkRlcVRLSm5wdE43ZVRiZEV0ZDg1YW1sQkh4aFFXbVdBdmI2SVJLTjBSVXpmQ2JHQTc5NW9RSFNRYzhoR1U0V1ZQTVBiVGJvbkkxY09aRFZvMEZ5cVVZaTVDTW9WbERDeWtsUTU2RXRrV0F3YzVCaXh5MzFMSWFSaldlaEZXLVFnVjJNcExWX3l4TGNnUk9Ed25WLU1fUEJhc3NFclEydUc2MXplR2RuM01rbm1KWGlCUVAxVWxwaDlXRGxiN1JyTU05Tm95TFFCemsxbW5UYkRQN01zcmVSVVgzOWlPaUhjSjI1WTVkMS1ra0xwc0NOd3g0VjhlYlI5a1g2UUs5UFVjcFpTcnk5SExlbWRqVENjZVlzR2JoT2dHb2JxTGxkSXBNN2RKSWRaUHRnazJfOUVYRGc?oc=5",
@@ -754,6 +738,22 @@
         "summary": "بحثًا عن أول 3 نقاط.. منتخب مصر يختتم استعداداته لمباراة جنوب السودان (صور) يلاكورة",
         "player": "",
         "content_hash": "610794f403789ee96854f4218ac3ba1dc60dc72ad66e4507d63746e722f70de2",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6356,
+        "title": "أخبار | الزمالك يحدد موعد سفره لمواجهة الجيش الرواندي في دوري أبطال إفريقيا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxPWktSRk9JMkJBakdTTjc4dlRHR2E1Z0xNOVBPeU90aVN3VTgtemQ1WnNfUExfUVJqOGdKZUthd20ycS14NTFTZ3RPYUx5RExwNVlSUmZLSUhZby1ZVDRiSEpCMjRiS2N3VExmdVV3QnBhR3g2dUlTRHA0VnktOFAwei1MOXpzdkNDLXJyZzNIM0Y4Z2JnX1ZLa3RIQlByQklwY1RDT3NJbWdhMWtRZE9yRk9pbEE4TkhJUWkzM0s5VkhQTm4tVVVQUkFGZF8zOFBsanNWVnAzaG9GMWNZbFZwS3I4NjJQOVpBcTBZU2FTSzZNMS1CSE4xdkZiUXJGRUN5ZFhjTW1rSlBvSDFoVDdSZzlkTnZsQTBYbURta1BBMV9TLVMyV19wdVVTS0dIaW53UHdCZjBLMzdkWnI0N2VFNExfS2lBOU12dG9LZ0tPUzBpU0h4cVVmLThzbnc3SEoyYjkzZ0Y4XzJERUFZSm8yeTFOOTFMbWFXNUpJWExHcmNnQnNOZWNLaHBDVkNHUWtOTUpaNkhfZTRJN2lHMHo3cWgwcjV1cU53dDAyVHF0X0dWWXQ1REdsMEZtQWxzR1RkbWQ5ZWFfREFqY0RvVlpOUUttbmx6Z0Y2S3ZJa1BlVXdpN2psUXE5bW5abWR6ek9RTGkwXzBweWZ1ZHRfWVVYWS1LeUFHMUxtelBDU1NoNTE4U0hLLVZGZlF4V0ZtbmlLbmo2ZzZXMA?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 16:54:00 GMT",
+        "discovered": "2026-09-28T17:48:22.862916+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار | الزمالك يحدد موعد سفره لمواجهة الجيش الرواندي في دوري أبطال إفريقيا FilGoal",
+        "player": "",
+        "content_hash": "12117c48cf0f2d4650b02586e4213ecbabb95661c70e32b95b66013699635469",
         "sent": 0,
         "section": "sports"
       },
@@ -1428,22 +1428,6 @@
         "content_hash": "7bc284715870348d7959b391ce5f8aa6593f66b557aa6a02b0d0ba392901fd6d",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 6269,
-        "title": "إنجليناس قبل مواجهة العراق: نبحث عن الفوز وصدارة المجموعة في خليجي 27 - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOVWlKNGk5NUFxU3BzcmxLdVJvQlNaSGk5Zi1Ld205dzRpZjJjcWFEb20tZnJvQ0xmN2I3bTNjbUZxMUFSSFVqaVRtRTBndkRTWG9GVDZfMnJrY19GTWx4TUVyb0ZEc21EMWFoMmlmYml1ZWlyOF95UGs3eXpVZWNMSXB0YUF0Z3pZaEFFWDcxNlFaUXBNT2ppUmQwa2xHY1A0QkZMNVJyeUl3eTloTzFCRjFvSmNYUkRuazRpZ2RuTVUzZFJ4UnZSa2FOcUVYMTljZWJKeE43d01fSkUxTkRHQjRBWllxb0FlQVlZUUg0SDFhU1UyRW40ejE0eHExOHpYaEl1WktCVVBnYXZsVlBvNDA3ZGFiTzRnS2FGdE5TNkFzSm5iWnVfem9LaU95d05OdFVJY2xvNEFBSnBYa2Y2bWQ0ZHhMaXViWEZYa25YRDYtR1hKT3o5cmhSekNHS1k?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 12:27:51 GMT",
-        "discovered": "2026-09-28T13:40:00.895191+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "إنجليناس قبل مواجهة العراق: نبحث عن الفوز وصدارة المجموعة في خليجي 27 365Scores",
-        "player": "",
-        "content_hash": "c773efa05fbcd14d4d8bcfea49df502c7e1ce1d14dbd486824c2dcbc227809cc",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1844,6 +1828,22 @@
         "summary": "بعد انضمامه لقائمة منتخب مصر.. ماذا قدم أسامة فيصل مع الفراعنة؟",
         "player": "",
         "content_hash": "ee2b28e5f107f390f227314b7c7928d9376e2ec72ad9eb31b55563313671311c",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 6357,
+        "title": "سلام بحث «اتفاق الإطار» مع روبيو على وقع التفجيرات الإسرائيلية العنيفة جنوب لبنان - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPeWwtZG9lRjdEZ3VSOXdvMmZQaUJObVpyUjlkUll4T3VNVVdPMjN6ekdIbmRyal9PT3hraVlJeGhRWDRHZ3hNUlBBUlIwNmMxdWEyOVJlRjg0Y1I0bFE5SWdhY1RoSThEWGFkZXo1dlZucWV0YjRsdzVraVFidWxwd2R3aHd2R2pacW56cTAwSzdnMEFERkJaVE11X09wSUZTcElNS19kVlZ3TWhMN1JPMFgwMXI1eVBDWGdxRFAzSE1Dblp6RFN1QWx2S042U0wtQmlPa3l3VS0wbnBSdmNlYUh4TzFicVJiX3dQZWt6azd3X0c2QVNtOVdRRTJXSFBHNXpIU3JxQXpiRzlSQVI4TUhOLUE2bEpvZTNRUWZlVEtNVFJHMVVNUkRSSmxHZUJhUndNMTJfRGQ?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 07:00:00 GMT",
+        "discovered": "2026-09-28T17:48:33.465524+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "سلام بحث «اتفاق الإطار» مع روبيو على وقع التفجيرات الإسرائيلية العنيفة جنوب لبنان القدس العربي",
+        "player": "",
+        "content_hash": "8559d021b04cd79fb03d8b09c79d4d7df40e96eb1e563691ccd5a223d3023966",
         "sent": 0,
         "section": "transfers"
       },
