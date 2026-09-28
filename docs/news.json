@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T07:39:37.219695+00:00",
-  "total": 132,
+  "updated": "2026-09-28T07:54:11.401089+00:00",
+  "total": 133,
   "sections": {
     "morocco": [
       {
@@ -530,6 +530,22 @@
         "summary": "خليجي 27.. فوز مثير لمنتخب العراق على الكويت.. والسعودية تحسم بطاقة التأهل لنصف النهائي سكاي نيوز عربية",
         "player": "",
         "content_hash": "0c660e1a3d08cacffa44a26aae094cb359771f878177a8530be976aa56592f67",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6185,
+        "title": "تايلور سويفت تصبح الأكثر فوزاً بجوائز \"إم تي في\" للأغاني المصورة - العربية",
+        "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQSDIyejBES1lLOExONjAxcUtJWGdCMkloNnFiRGkyOEp1Tm5TdndJSm9TUmxTY1hSVUxKWEI0c2tYVWVBQ0ZBdlQyN1M1eVYyZGtMZ2ZrbDUxaFZVRF9OYXRLSVRfRFhZV0s1SmlpaDR4NktXZkZXS2FEb19RcUYtbHdKZzZEcmFjQlFxSF9FbXBfbzJmMWVYZHZNV2xSZlk2MXZNdmRHU2lucHozOGFERndGS3NNcjdzOVZRVzNiZXZxTndNODExUTNkMGxXenQwM1JpdGliak01Z2M5aW96eWdRQmRJTW1CUXZUOHZ3MEdwbHhnR2hnNVpqUmFfQ3FzTS1OT2ZEbW1rWTNyREZhZkZSQmd5eElWVWMxSmx1a00xcTNvTmFGdU1wRmI1LW9qcXRjRDFGeU5vOExEc04xbGhBdlpIS3Z6RF9rckxJb2pIOHM3TkkwNEZURXFIbzBkX3FmUjZSMXlXMkgyc0NqQldydUZ3N0tBeS05SHhyTXpQVHB2d3hFamNCTnNIcUNINEdTT1BZbUxUeVV1UnZlSWZEZkM1MFQwYnp5ZU9ELWk2N2lKdFB5Z0pDRU9YNFF1ajNiVDJKUUh3cnNUMDNYRkU3ZDVrZUNZaFpPV1o3NjNhM2ZMM3VtMzRzSVNZa2JmZGM1Vm5DVXpWQWY1UjZ1YnBWVXp0NW040gGOBEFVX3lxTE8tN2QzMkN2MUUycDgwaGZSM2UtNUp1VzdTaHV1Q1RMWVhwajZBMWJvUEVPNHBKY19NTEpycklxNGg5N2NNeEtkckxCdGVuT2ZFREZaTmtqb291ZENDRjJ0Q1pCblJlLVB6YS1CT0gtRXNPc2hCRmItdEZEdk9VNzJEUWt0akdXcGVDQ09YRWhlWVE4OUFkOGJCbnNPLUthRDBpVmVvbkFEVEV0M2ttSlN4aGpaeFU5UTdyTUVyblRrZHVsQnRuVEdIQzRfbjJ0RXMwMlh3ZGw5VjNNVWplNG5ZOVJtRkg5TGo5WS1Sa2J5NlJNSjgtaDFFNW1SNC05WjNYYWg1dWpSTTFVRVhGMUJfZUVLUktLMThBQi1EV2pUbTR2SmltS3Q3aDNXX1VLaUVsRTN2TUJkLTlYek5rQmFHX2I0b0syRFNnY1dnUjlWRExGVUoxck9fOU1tS3JXVG9DbG96a0JlWTBTcHFmYUpMVVdBZDZzUkJmbDNWZHFyMzR4YkVJSWltdW9WTEY2ZkRxSUVwWnRYSkpJei1EWU13R2M5ckp5ZVBkQXpMY1hoNFNKV3dGU0daRHdyWmZRMFFLeF9UX01KMVgweDdyLXhmN0JzSHZJZlV2VDM4bG1xcTltaUtic0xSbkpTSWJlX0lXZWNhLWdQVWRaMDFMTzZ1dWlvVkZKTTVmdU84TEE?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Mon, 28 Sep 2026 03:27:00 GMT",
+        "discovered": "2026-09-28T07:54:03.603438+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تايلور سويفت تصبح الأكثر فوزاً بجوائز \"إم تي في\" للأغاني المصورة العربية",
+        "player": "",
+        "content_hash": "77de35366a402d1df91aca2dc40be9433fb85be37fcc5b72be4be8c558a65321",
         "sent": 0,
         "section": "sports"
       },
@@ -1252,22 +1268,6 @@
         "content_hash": "066dd7e98b97146b71790d84cf94c4af05f6e588718a32ac7eaa7c29efdf5d79",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 6056,
-        "title": "طارق سلمان لاعب قطر: صعبناها على أنفسنا - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxOV0lzbElqbldhSm50MkY3VldmN3dxTDFGdGxobG5BOHd1ZVdiUVFpSmQyS2piN1lTUU5mV0ptV3k0LTE2T3VhMmlCZUpHLWdZeVNVQ25kVkp2SGtNdTRiSVV6VVhrSXJGYVU1VEF5dS1IUXlJYzlpblFxWFNuOXM1ZXFxQkl6NklXYlIxNUIyODBWbWMydVo1ZU9mYmNIOXExaEg1SU9VNXY0WU02ZkZodHpndFdFeG1JWjVXdG9BNDB1UzAxbEhpc3FrR3hqQnBJZV9uS0Y3c0RVVUlTSWE4eXR6T0s3UmZSb2ZBU2ZrMTlnVndHSjhxbktWdWt0Zi1leXZjRHZmR0toQXVsVUNidjZfMXdsaXA4b3lWWFlmZFZrYkJfTVFGc2NsVzNIZEdmY1p1S3VoT2V6Yk5sTTJxeGI2UnlnbXNtajZIQmtEb0FjMU5pdDYyX0syUmNETXMxQnZJSXNMeUc5TFRoaW9TdDBXZUo2eU1pZ3dEbVhZQTdRUUVrVUJQaC0wdWRsN29CazZwMXhKOW43WUpzTnVmU3Vja3FkaGFwX04wYXRsZ2RKeC1IZGNuX3BVQVBiMTctbkF1aHVyeVdNMno4LTlvLXNrQnY?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 20:10:00 GMT",
-        "discovered": "2026-09-27T20:21:08.087179+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "طارق سلمان لاعب قطر: صعبناها على أنفسنا الشرق الأوسط",
-        "player": "",
-        "content_hash": "0bb080a14564b14acc1b0fa35d26c79bb8fd287de04d2b0c67703474b337f4a3",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1782,6 +1782,22 @@
         "summary": "غيتس وقادة التقنية يعارضون ترامب بشأن ضمانات الذكاء الاصطناعي والصين alaraby.co.uk",
         "player": "",
         "content_hash": "db66f3a8b988c44d934ad490de1429fd8d450afd1c7fddc1a713badc6d981405",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 6186,
+        "title": "لتأمين الملاحة... تصاعد التنسيق العسكري الدولي مع الرياض - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxOa1FNR3FlOUhSbzIzc2ZDaHh5QlhhX2pFcHlnbERuNlZxM3BXWTZDOXU1STJ3UU1rRC02ekpvdTdBZGkyVENwejdqQ054WXJ0cXFPWXZPd25wemhwQ05iZ3VWM2tCUkt6Z1hTMVZsMzJ5SF9PaFN3bW8tck1LM19ySFhMWmlkWDE4SE9iQjJrS01JdXVTdGxONTZXekVsZ3luczBWVHlNdkJuV1R5U3V4X2ZxTWZLWkRGT3JmNkVjTDRYbzhYalFKOW1uZHdRQWoycVRVTE4xUEFZQ3dTS0FXanZNNWtaaXRtZDZaNTA1cjB2NXhjMW1OZm5tUXFzVTl3b29tRjI4WmlDNTdhVUd2alVpR21zYTZSaFNIcklZRmQ2TkdsT0VIRTREMlMtQ3JqVTBncTZCckI4RFdSd3FKMXBoNDM0Y0JFM0NBTmliLWR6SVFkMGhfQ3hZRU5zNHc0ZkhUcDM1SWdWLW5kYW1oRTZrS3F0blJnX1B6T0phWno1RnBkT3V0WG9oNGIyUUlPbFFMX0F6WXpia0lDa2dsdzNCaWNldlgxZVg0Y2dLZEh5TnNMQXlkZXB4TUJRNC1sbF9tU0NNdGtSN1FDWklfQzBLekJwckRtcGVNcHdROWludzd1SWpNYUFtOGdFV3JxZ0pUWi1GSVNhakg2cEJQWlNhNzY2S3lhc0xrczdXUThuMHRLX1dmaU1nV3RIaUZjNlM2U1NzQW9ZVG16b0RyeFIyNTE3Z2VxUGQybEtxeGRBVGFzZnpGcE9BNFRaUQ?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Sun, 27 Sep 2026 13:42:19 GMT",
+        "discovered": "2026-09-28T07:54:05.428957+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "لتأمين الملاحة... تصاعد التنسيق العسكري الدولي مع الرياض الشرق الأوسط",
+        "player": "رياض",
+        "content_hash": "3dfeeb248b52fe66d0baf221be6c917c902082fc22fda95aaaefddad5cb98b68",
         "sent": 0,
         "section": "middle_east"
       },
