@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T13:03:39.689194+00:00",
-  "total": 146,
+  "updated": "2026-09-28T13:23:33.294038+00:00",
+  "total": 145,
   "sections": {
     "morocco": [
       {
@@ -645,6 +645,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 6260,
+        "title": "هل يحصل ابراهيم على الضوء الأخضر لقيادة الهجوم؟ - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEdDQxSWhQNExRS0tUaDZScTdoNU9JTXFBa0p4VFVlYXpad1ltMFZGeGd3WXpZSm9aTVFtN0psZVh2RjdnQTYxMTZJR0ZHV2VKQm9Hdg?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 13:14:58 GMT",
+        "discovered": "2026-09-28T13:23:03.717215+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "هل يحصل ابراهيم على الضوء الأخضر لقيادة الهجوم؟ جريدة المنتخب",
+        "player": "",
+        "content_hash": "94c69f177e4c42c58be6c02ec426f6cccb3141bd67ebbfb603edbba931c29230",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6259,
+        "title": "بن الطيب..هل يظهر أمام ليسوطو أم ينتظر مواجهة غانا؟ - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13SWFhb2F5Z192RkxVZVNOdTVpRmFIMUtyS1dXaHQ4Y2FtNWlxRnFkS2NwUkE5anl6cjRhdFJZT3ItVjhBVm5NM3lkNldEaDNLMEZEZA?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 13:09:26 GMT",
+        "discovered": "2026-09-28T13:23:03.705972+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بن الطيب..هل يظهر أمام ليسوطو أم ينتظر مواجهة غانا؟ جريدة المنتخب",
+        "player": "",
+        "content_hash": "1e513b2612de61604ffb73f6b6dbaf974f261ba642bc92583ac5a42625cd52c0",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 6258,
         "title": "محمد الشاذلي: وزير الرياضة سيتواصل مع محمد صلاح لحل أزمته مع جهاز المنتخب - يلاكورة",
@@ -1412,38 +1444,6 @@
         "content_hash": "e8baa0787c5561020dc675464665107d85f5056c5a1d9786373a16457d64f1ed",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 6134,
-        "title": "خبر في الجول – عموتة يجهز بدلاء الأهلي أمام بترول أسيوط في كأس العاصمة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96MEJwTDkwSEtnOE5lRng5d0FHeUR5anNnNjBnMTV5Tkh1WTZGOURnRDhlTFpXcEZGRjJkeVhRR0JEcTQyYnZhNnEzUTlPbldl0gGnBEFVX3lxTE1XT3BFZjBSZVRxRmZDejBMa1FhNktjaEVYNml5YmtSeENEYkpCWWtMdjN0QklpZGNGcmxjM0IweExqRUlfNVdKZmRWWWkwdGRIWkRjSU5rQ2FqSmNqUUpGeFpVNUpLb1hMVUhkd25kcEZITEtZMS1Mdm00UnFXLU5HUExNSDd2Nk1vbTZvaGdTSElnNmE5b2tTY0NfZ01JM0F5Z2VjZk42NDhSOFJHWFJva3JjNXl4TFhfOGFrQ0J3eVdDODlDNVRuYUdyY3pZeVNPOXgzaDRCN1lSbVZxUEpNOWI4TzRGQ3BKd29uLXp0aDY5QkN5bmVNTGxJMVRhWFJWbFZOenpkbEcwY1gyVzl3akUyYmx2UTB0ZDkwSEZzMjlwd1BmYndzOFBobmgyOTZaRVMxMjV0SlR1RkJIWkFMeFhDdVVibU1rTmRGTGhBSjd4eDVJS1VMTFJiQzczUlozdnc2ZXlqX0VieE4yemJRM0g0MmpKTkdKNzNaZ2hKZWNmdjRadm45ZVhsdUFSQjFMS3k2VFlway1nb1diVWdCbWpHRzcta1dYMTBueDdtTzlvUUQ4amNmeExIdlAxS2FySzVzek03b09ES0tIal84VTdhSnFQNjg1MjRHSUlKQ2VKS0FVQ09LdUhvdThIR0pqUlBfQXdLbTdLcmdPS3FqbzFHdUdLMkhvQ2VsdkdiQWE4MkNVRHcyeWlOVkxiNVJnbVhnQ3ln?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 23:21:03 GMT",
-        "discovered": "2026-09-28T00:09:47.153019+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "خبر في الجول – عموتة يجهز بدلاء الأهلي أمام بترول أسيوط في كأس العاصمة FilGoal",
-        "player": "",
-        "content_hash": "cbe3b8990e45a4e9460e58864a2daf1aca53fd44221f298ef2154c1611129700",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6150,
-        "title": "كردغلي عبر winwin: اشتقت للوحدات.. ومنتخب الأردن أصبح عالميا - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOX215MU9CZzdObUNTU0JRalUyejM2WXlDS19KRnpMYW1MMEowRkpPUTdwQ0huTjUyM0ZKUnhVSmNxWnVNRWZlT0tpaWhIQ1JmMHpxaFJwVU9HQTJaS3ROWjlfVWdEa1ZZczB5b20xejMwZFJtdUdudEJrUk44MUh4SzFSS1FILXJQanpvZkw4OFNkbEpEdEVXdFhhOENMY1ZkUlYyOEdmYVQ5MUNBYjY0a2NtSndrcXlPTE5TN29OeXFBYkRxcEdITnF0eVgzblViYURxNkFXWnBtZEhZTDJGOEN3VVlpODNKdDUxVkRyYlI5MmllTGNDaUJHUE5BekI3RENvWXItSS14a1BFS1lHUFdMcHZQNENPNDNrRFZlRGtZU1RUVVBKcU56U0F5QnIxZnN5dnpQSmZIbVhnUmRSYjlpQTlrUHA4Uy00U09oTHRIZlFfLV9YOGZQYXZxZmg0SndZYmcwMUhoZkIzNzNzbERRM214Ym8ya19ZMllMbGZhZ2VaaElvWHRHNVdSQjF5RE5WR1VNUjNsd1B0bnBsb0w2ZVZ0MWQ1MEhFZ1ZtUF9hSE9ZTDdzNmJCX1dSMkpDdWUwazBXT3JOWGdfZjg5YzdhV2dadFMzN3hHblhzZlhhMDhB?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 23:05:26 GMT",
-        "discovered": "2026-09-28T02:13:31.091928+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كردغلي عبر winwin: اشتقت للوحدات.. ومنتخب الأردن أصبح عالميا winwin.com",
-        "player": "",
-        "content_hash": "473225363fc28be45aeef0b7ce6d88881bfa17932e2ef27ed6647c234f0f45ec",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1896,22 +1896,6 @@
         "section": "transfers"
       },
       {
-        "id": 5760,
-        "title": "أكثر من 50 ألف غواص.. السعودية تحول أعماق البحر إلى وجهة سياحية - alarabiya.net",
-        "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxQaFhBaW5iaEV0dVU1SDRIaTN6ajBtMXZScDF0aWt6ZUh0bE1SMk9VQmU0aXY1OGxTbHNFVk9zelFGbWlmelRsZXNxYVlmYmpXZHlGZExjbncxekVUR1h1SFppbE9nXzBkeUltMzNta24ydUJOTlZxUUo2MWZxZXRaQVhDUjRvVTM0bjJ4eVNZMi1UMEtwZURrOXBxV0JLdXJhSFpQc2xnbGpndDhIcmR2T0xBY3VXUHVLekxiX3lkX2tSX3ZFckphY0ZNWm1IUzdpdEszamJZd2N1b29nQWxIUHhUa2Yzc2czS1ZVMUNVLVM1V1E3YkMxTURERHZza0w0RGlKbE0wMUlrVEJSSmtfVVJVeV9NSk1CVXJQbDBqMS1PZTJyTGY1NjJxMzFYdVJhcVY1bHJzbE1pU0s1TnN0NExRTjByaEJfbUgyeENac09CYXUtRGlpWlBnUUV3Vk83YS1Ubkp3NUstY21UVkVtT2tFU0FRS1NLWXgxUjlUcUI5U1UtanFmbFBCNGpmM1ZDUVYxbWN5VFZqZTcyaXRNYzI1TVVNYXZQY1A0TWFDR3F5aUVLb3RwZ0t5QURhZDJkVFZXblk1N1VXemZRY1lJVzlHYklVSFlKOHFHeHZPWUdPa1dlRDlJSzJtWkhqWk540gH2A0FVX3lxTE01N2gzUkZUdngwOFI3b19iQ01KUFYtYkswNU1rcjFlV2c3Tm5rR2VaMjdUdE50OWs4SlR0WkxWb0E0WWNxdkRidHpNN05xVC10eWtqbmdvUnByemxaQkRZbVJtNW1WNC05MmNiaEpDOUc2Z1BZN3gxRTdBUHYwRnY5elBkMEtHcnRiVUQwLVBSeTNUb083MFk5T2lJRmRKdTVZSmhVdFNlVnk3NEZCeThmQS0wd2htdHlCeDJpSjBQMElWVEVwYThHcENGRHoxMkxWQ2FkT3ZmZDl5ZmZPa09Ha1RmeHhPSDJqci16cDlHM1J2cllWQXdCdFVxR1M1ZW9IS3gwM0lXZWtndXFRTk1TdU9FOUxKRjc0a0pzMDNkbXhGUHNTRkVCdmJZMTRLZ2IyenRvYWVaNDBRaFFpUmNMZjVPM29uQjJ2NWMybm1KUWNqQmhEN3VaNThydkgtQzBBTWJNUEhvTnlBT2tGZ0pjZlVRY3RTcXExcWZjQmNOZktKNGRlbjA5bV84TFlzTkxsSUpiYWJjUGNkR3hhTEFhTnlqUmRJNkoyWGpuLUdIdmU1ZmpKeHlWR1NadTQ3MGJLQ3JLaVJEN3gxX0ZHZTFEOF9fNU05MW9rTmF1WnNBamx0TV9xNlh1b0h0UmItSnFGNFRNcEE?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Sat, 26 Sep 2026 10:19:00 GMT",
-        "discovered": "2026-09-26T21:21:38.641726+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "أكثر من 50 ألف غواص.. السعودية تحول أعماق البحر إلى وجهة سياحية alarabiya.net",
-        "player": "",
-        "content_hash": "2c4e407f70102f338ab347e4396f6d6319ae2a3ff28e6a344ae771909c42cec7",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 5932,
         "title": "الشرق رياضة / بعد صفقة الهلال.. ليفربول يختار المدير الرياضي الجديد \"القديم\". التفاصيل: - تطبيق نبض",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NWjgxa2o2aFRhUWNOSjJXa29LLUNUWWZpaWFISGt6eEhMUndMcHJST0NDOW1vWWExdVplNmVJMGhVT2tSOUhzSWdvbnN2NDQ?oc=5",
@@ -1924,6 +1908,22 @@
         "summary": "الشرق رياضة / بعد صفقة الهلال.. ليفربول يختار المدير الرياضي الجديد \"القديم\". التفاصيل: تطبيق نبض",
         "player": "رياض",
         "content_hash": "617a5e297bddb3be0c8dd837a028bc84f8ee073de56e8d48da8e99835fe4cb7f",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 6261,
+        "title": "الرئيس الصيني يتوقع لقاء ترامب مرتين إضافيتين هذا العام - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNcWM5QldqRTQ3UU16TEs0NzJiZnMzQXFnZm5tZi1WQXZqRlVueWVUd1oyZzZveGE5NmFUcjdxMUkxYnBwWGhZY2hSOWtlX3B1eUFKTmR6YTZFVFBhS2VwMUxMc2kyMldMa1U1YmFkODAwZldtWmVkNExYNXA3ejVCZVlUYUUwLXd2Tk9nM053ZF8tMHFDbDg5MEc1TXVCNjhSdE51SWgyQUFaSFRBMkFDREo3dV9rQTd4WmZTeWpLdWxQN1VTajFuR2FaWTVFMG1wVUw2cWVkNl8zLUFkOHhsRVNmMENLUU9rZWJTOUQ5Y1ozbEh0NlVkVnVWcWRpOVU2VUdpZTlrRVRxMXdQa1N2dFJlOHY1X3o4VmVyTmtQMkFzQVo0N0dFSHhkUUpiOE5PS3puZ1h2bk5NbzB0SE1IdzlFT0k1MjluNHA3b0E5cXFraDFRVUxWT0pzM3p2NzFiZWVXSGozM2lvdUtBc3dZX0VXNG9US1JHdjhRVzJhcWlxMzVPZzgxZHRvdEhnSHdtbm5FcHhnb0NKdWFRQ0xMeU9oNmsyd08wVlNCdGZNb3BJQ0k0VC0wTnlhcGJPVC1nTnc4OFJ3eGFtZHBRVnByaUttZG5Ybmh5Vmc?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Fri, 25 Sep 2026 15:56:00 GMT",
+        "discovered": "2026-09-28T13:23:22.702302+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "الرئيس الصيني يتوقع لقاء ترامب مرتين إضافيتين هذا العام سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "fa8b10b751fd5948487d172427d8db0cf14bb92c8010062d4a034ea1a056b9e4",
         "sent": 0,
         "section": "transfers"
       }
@@ -2118,22 +2118,6 @@
         "summary": "لماذا قال ترمب \"لا\" للعرض الإيراني بشأن هرمز؟ الجزيرة نت",
         "player": "",
         "content_hash": "b1035df00f4a4ab5d37eea2ca46d33e75eea6816ceb004edb2b017834a33d332",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 5761,
-        "title": "السعودية تؤكد أمام الأمم المتحدة أهمية ضمان حماية حرية الملاحة - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiiAVBVV95cUxNaHNfWl9QQlVteVRhcnRrVmQ1N2ZNM2JMbUVDLUdMM0Uzc19zR21JdVNDWERCYk1UUndsdjdTZTc3T0lVR2tObTFBc3lWV0NUUGpiRzdvUGotWm5zX1pEZ2gwUlVyUUZMdHZ2Tm5tT00xOFZmcGdJSm51QVNUbXdQWnQ0M29WR0dkdDZTaU1yZHJQWG5KWFYxVjRCRXJVdjJ0Z2hOZVY1S2syQWVWNXJ2ZjN6bmExaGFDQ1Bjc1AzeDU0blpPeFVnX3pJclZuNWdOQ3RnVlVNSDFVN0xlcTA3YU1JY0FIUXNKSGxjNUZxRkdCZWt3U3dCY2hNTE5qWC1KbklyZi1Nd190OVhQTU84TmozV2s0OGVhaDMtUUZPWjRJZG5ocklEQ3FIbGR0LWlOSlFEQThjNmpoZEhhQ29LQnZWYXRKUEdyRDQyY0hkUXZEdElEQ3Z0LUdRdnhUbDZRYzlCSlh4Y0t5ajFqallNSDBXckw3djNjNndyZG90ek1XMlhKSDh5TDhuOFhGRjZncmxpNEY0LWRJcXFtN0JiTkM1Z3J0YzZIUWdmT09TWF92RUFtZGdvODB6clREYWtyV3NsS3ZGSGZUbFBLclpkX3Bfa3BNdDlwZHdIMTQ0a2pJVWNyVjR0UWFzeEFNMU1qS0Z1bDRKUHJsM21RTUJMWGlROEN5Q0I3NmFfdHFHc2sxb1VWanBtRDNZOHpNOU0yN3VlamtSdE9QeWp4WnlJM2UyMDZoeDBPQWRsaVZYTVBQV2VaVFZBU0xDemIyRmZFOWIzOUE5bTRWZ2d1RDF5aE52U2NOVi1kV3hXVnZVX1ZWSVkwVUFhMlAxZmRRWU1LYV9MWkFrR2w?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Sat, 26 Sep 2026 18:42:02 GMT",
-        "discovered": "2026-09-26T21:21:40.227851+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "السعودية تؤكد أمام الأمم المتحدة أهمية ضمان حماية حرية الملاحة الشرق الأوسط",
-        "player": "",
-        "content_hash": "da7a055f429571cc0cb460a9f8eb3a85323e2d3c0ab1bf57a45fecd5aa36c8f9",
         "sent": 0,
         "section": "middle_east"
       },
