@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T06:27:06.560028+00:00",
-  "total": 132,
+  "updated": "2026-09-28T06:49:06.496166+00:00",
+  "total": 133,
   "sections": {
     "morocco": [
       {
@@ -469,6 +469,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 6179,
+        "title": "مدرب الإمارات: جاهزون للسعودية أو العراق - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxQeVByY1B5MElnRERycFRxa05YaE90THNVTWhFdUR4ZElheXBtMkR0NThLSV9iblRXUVdwZ1Y5QlNob0FWZDR6XzNJMEpmN1BvSTV0RTV1clQzZE1pRUxHOFJDZHlXYjByWEdhc3dzUWdOQmtnblFscExwWFJtWVpXUG1LZEhiWkpSQUdQMERLMU5ET203V2tFV0h3WGo5WXRKOGgyMWJtalVJNHg5REtrQnZieGNfQU1hQUNINUdVbG9KUmJYc0FSM2djNnQ2TFZZTWxQOXZ3Y2VUNTRyVkRkenR6U2pFVmZuVXdscnYzVlpLOWdMZU5CdS1WSnU0aEtINnZCZVh2M1JOYTFDVEI0ZTdMb0dWTzJ0QnRjbUdoUjhfTm1TSW05R041YlFsdFczYjZZQUZpZzh1QnFTdXNCT3d3MENGT0RETjUtNUZwZXM3SDVWQXVUSWZBeEhVYnZtLXdXWlIxQ3NnUDlYSHk5di0zQndmN1RtSkt3N2t5SE5EUnVpUWVSa1pvYWJGdklFSEM0d1MwbnlFd0UyX3Z0dFdPcV9uamRodXhmdnp5QkxoSUgxSll5cTJhcnpwNENlV1JzYlhsVGtpNThwcTl4Ul9uZG9qbTBrdzAyOFZNLWlXLVk?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 05:43:20 GMT",
+        "discovered": "2026-09-28T06:48:43.332072+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدرب الإمارات: جاهزون للسعودية أو العراق الشرق الأوسط",
+        "player": "",
+        "content_hash": "fea4dd179a5379681a6193e1c616e6d775f30865b93c6c0482ade434b14168bb",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 6170,
         "title": "خليجي 27.. فوز مثير لمنتخب العراق على الكويت.. والسعودية تحسم بطاقة التأهل لنصف النهائي - سكاي نيوز عربية",
@@ -1252,22 +1268,6 @@
         "content_hash": "90174d9e60c6f08e083d9eb128f59d1d4ce4a77fb4e8eb107180fa92e631d9d6",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 6053,
-        "title": "شمال إفريقيا للشباب – الجزائر تنفرد بالصدارة بعد ثلاثية ضد ليبيا.. وتعادل تونس مع المغرب - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMimwVBVV95cUxNSEpIdmVYb05CcHJFV3N5RkxVSFRDa2ZBRUdBNUE3RU1MWGRhelB1UjBsTnlrNFJhWENuY244QkpPZFpFV0lyQ1Y0NXlfX0R3M3FDNmZXV0JLMlZxOFZVQ1F3b2ViQmZkdUZIeWlublhDOU50bEZOZkRKdFVjLUs2T0ZKcGNjRjVNN1dGT1JHeWVqTkhYeXozdC1peWF3UG04clpkeDIyYk5OQWZQTk1mTVpyXzZQTzctNFBvdmNzbEZMN0pmNmRCZkJJZDgxdlZvaFd2UmhDeEg0TGc2Z29JMno1TF9udmVlT1BLSHVINy1JUHpSRVJCQjVyZ244UTdDVXR3RG42R01JSEdtT1BsZjJsNFR0NlNVWUlUYWphUWxuVmRDOWNvQ2FDb24zam9NSWIxSUlLWE1Xc2NDanpTZWhCbjBZbTkteEZHX2dvV1dTU29PeEZqbGFoZUpCTWJzV1BnUUdrbkxWVHRSRFZvVEJrbUU2RzlTd3ZDVHZONHdsNUZJQ0J4VFQ2SDkwenRTdDRPVDhuQlVXV2owS0hiU0dJVDh2VDRaU0paSm9LWVVZaEphQzBLelljWmhIcTNLVlVkanAtN3duNXRlZE5Cb1h5Rm5EbTN1SDU0V3B0NUJIeDh4NVBrV0t2VnRRa1VoNXpzT0ZVSFJCR2prSXk0a1UzX2NsMU04UFd4MFBBSVlUY1g2VFE5Nm5QSUFpbkdmMlVTVVpJTmZUREI2ZlhacTk5LVRVU1JrZmFodWRvdF9aX2dXaUo3MzZBaUF4U05mdzREVmlsaF9obk43dU9VaHh0cDFpcmFjVUpMN3dOTkMzSmhHS3dQWVVOcGNlWXlWd0lHbXo0b0RkUWh3OXFEREVqa0l6cE10cEVr0gGgBUFVX3lxTE5HZkZoNEtmTUZsZUZyQU9WSXNBb3AwMlBxd3dPRHRDTXlKQkJUUFBhSDAySmdCSkdtNmJ6cnJpa19qNmZSYU1HOWVHUkVUMk9RZ3B1UlQyYklnVDE2WTJUV1FqTGtuY0pFWnVTMlBmNjlZQmZNRVlxUC15ZExSdUpJTXl3R0J2SC1mU1NNSkNyaWkxZ1FqM0I3MjJEXzNsUjFJUzJrYXJCU25XaWsyeVhJVGdlWlU2cEtQckhKSy02NS1qbm5XLTVHdXo0SXpHazRoVi1lQnhLTVBabF83RUExYUFrdDVtX0tGZTVOOG5UMFFSNWo1dk1hOXlCb3FkeDdiS3VPMGpGOEptMERXNXM4Z2NpcUstV3N0S05EZmZrQWFQdFlEODhvbTV3NzRKYkhwSjZrTGxkN2xKZVVvdV95U25oeTk0U3hEU09GbnZ1Z0NPMUVXTmRpeFFCeHFUTHY1ZnBVWFliVGh2SlRLMHMzV3V0dmNXdi04eXhHclBKd1duM0hCdmp4S1JXQllNd1hDX1dDUFVUNjF5RVRfa2s1SFJFdFlGMjFxemtfS0hlMDNoNHkxWXVoUks5NDBUbDItdkFYMG4zRUxHdHptcHl2S2V0cW54bURxck1Ec3lXQzdodjQ0aldTaWZFYkl1VHlkTTQtWDFhRVlXUGt3ZEFuWW1RMXF1NFo1R2xvNmY5Sk1rSmJ3VUIzRVhFdDY1T3hPU3ZYX2lvYkNkNlRqT182U3ZpSVJxUmxkb3c3aHRTdUNIa3VMMFY5U2ZPbXp5RGtLaTIzYmtfZnNScnVmdV9OYU5jaEgydlVBU3BibG9GOXJyVHpLeW9RWlRjcWFJYndHRDlydzc3SkJ1NXlzSWZGZDF0MnliTGVIUm4yay10WQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 19:53:00 GMT",
-        "discovered": "2026-09-27T20:04:56.507338+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "شمال إفريقيا للشباب – الجزائر تنفرد بالصدارة بعد ثلاثية ضد ليبيا.. وتعادل تونس مع المغرب FilGoal",
-        "player": "",
-        "content_hash": "90174d9e60c6f08e083d9eb128f59d1d4ce4a77fb4e8eb107180fa92e631d9d6",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1753,6 +1753,22 @@
       }
     ],
     "middle_east": [
+      {
+        "id": 6180,
+        "title": "وزير خارجية لبنان: إيران لم تستوعب أن القرار للحكومة وحدها - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxQUXQ0SmVmSktib2pwZkJfMTNadHVOd2dhVUpha0xxblNTU2l0THVkUFhkX2pJYUNvV2kxZE4zVFM2VWZPSDJCZ2V4ZjNrdWk1M25saVFmNE5fYXRYZU53S2JXMWFPX2FyeXVLV3ZjempIQXlRRS16QTZOdWE3Y0hMMTg2bi16Z3I1OHhEMFFXbkhnb0NYbFA2TE1reHRXY3JDQzNjMkZ1Nm04aE9YMTZ5NVpnRFJvOVJBTlI5YUZfbEo2STZXLWdyRWFRZW1FT3VpalBNSi1JUFF2eWtWalZkRlBleE1KVi1VTkQtWnd6WnA3dmh3YWFmaGNQcDRCNDhQOGdKUEJWVUFhV1VaMEM2SV9fTzN3S3RBQW90Z2pqdngxbjc4SWFBeTc0WnV5TU9ZdWNZUU9zcDJHU3h5UUk4SDVkdzRsQkJlejdOTGdTZURqTUhScEoyelRiRFdHZG1yeXpkRVhBYUNKak5NckJxUXNjTXcxRVNQV3pVdVVWOWdQZlJtUmlUWGRYTUViS1RwUVNlRlpXY0RLeS04VFpvQzNjRnkzVkF0aFU1YzlVSHcydUdyYWlvZDk5WEtteVpv0gHGA0FVX3lxTE9NS3JKR25nSWhGdGFwZXhnNXZtQS04NWpfcEhjVlZWMHUySmFSa1FPWWRYM1RHeFNiQU8tbmJZU3FERUNwaVdvazdGeFRhUjg4Wk9jRDhDTHg3Z044Mm5EcFRnVFhCWWpiVFZ0aHpqZmFKYmRwYzgzUjZ3QmxkY1czNEtSby1ONkFVVWFWbHRFcWtIUVhSVEw3Wmo0UF9EbUxJVHdIYVUxVXBOUFkyMjNOdmdWd05qUi1TODk4TEk5b2xobWRNeDgzeU4yclpnWHlRaERhVjF5ZnBjWGNKN3YwZG54a2lTUllsN0I1Y3c2a3UzejNhLXhNdmYxczRVWGlHVVZkeGJoZmpwa0E1SjRzUjhNQjNIRVZxUkpKaTBrdVdrb0FyM1d6T0lHWEZBZFF5SVN4bmVMT21SeUJVMXhtX25oTEhyNlR3QTN1LVlORUQtc0pGX3lUTURZc1FBVk1mUlh0Y3E5NTV6dEpvbHpvYzRTeW1NQ1h6VmtXdmhwQlU0dDNhMFhwQ21TTE1Zd25uNUVQOFdCUWNNUkF4ZHJGcVFwYlVRcWtrLWp1b3hFMTJKMXBaREFUNlN1YnU4QThheUJ1U3c?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Sun, 27 Sep 2026 23:31:56 GMT",
+        "discovered": "2026-09-28T06:48:58.007430+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "وزير خارجية لبنان: إيران لم تستوعب أن القرار للحكومة وحدها سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "be32954c3562c13c026c1358ef08fc1a1b4a80797cd44b4f29f9ba2491cf03db",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 6016,
         "title": "غيتس وقادة التقنية يعارضون ترامب بشأن ضمانات الذكاء الاصطناعي والصين - alaraby.co.uk",
