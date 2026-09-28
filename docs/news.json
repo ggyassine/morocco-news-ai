@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T10:53:36.388887+00:00",
-  "total": 136,
+  "updated": "2026-09-28T11:04:54.751644+00:00",
+  "total": 137,
   "sections": {
     "morocco": [
       {
@@ -1319,6 +1319,22 @@
       }
     ],
     "transfers": [
+      {
+        "id": 6220,
+        "title": "برشلونة يفتح الباب أمام رحيل لاعبه - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPM0N3RmY5cU1MNkRsZDJlSVJIMmxYX04tUjdvWDB2RElCZUxvdDJhRW5tOHNzRFc2VGRZakFleEh3cDdTT19ZZ0xCQzZlNTM2NGljMUhLR0tROFV6Zm1iSmRCYWt6N2RBaWstZU1ZLVV5em1aSWdJdnlFTDdpcWZRaTIxdTUxTlRidHpxT1NYc19wOFB1emxjYjZnVjU5Wm8zNXhWSWUzRWowVHZld1pOZVJST0hvbmtlVjYwQ0QzMVAyVlRHdlRfellva0ROcDdIbldsMzVqeEIxOHVDVTdqMFRncDc2cC1sWHZQcXpTYjE2bXFVWWpkUVdXQ2RTWXU1aXB2Umd0VlpuNC1URTRBRWw5SkdtdjdwRERvWDJEMGtCXzh2LUJZbzFldlMtbk9Cc2tMM3JvLVdDNTBSTk9pM1JTLVdFQmtLcTQtbWV2NNIB1AJBVV95cUxOcXJndXZKSnBVMXFOVUFpZ2F6VEx6R3U5QmxQWTlkbmswQ0JwRlRYQjlfd2IyVWVWTmJsOVlhUWNXVWVSdVZOck0ySXktZU95VGZpdXczQVA2b1p2VjVocHFiRkQ2VTR5dGVEdktuZVNEMHpYZjdHdmlCOUUtaFh5NkdpaWpCSmxDYTVYNC04bk9xemJxSWY3d1p1alAwdjlmVlU3RlNxYUFKd0tQTHJ3SGd4ZmNBaEhwamxDaUFRUlprZWUwdktyX3YzUDVhdG0zV0FfQ0QzTGNid25BY0lKdGk3TjhpSUxsQkhFM0ZwNU9wdDRRa080UzIzeHJQMVMwbEFrQmI0ZDFBcUxwVHB5amRkWlc1QTZUTUZieGdNQlUySGxSUnR3MnZJdkdjano1dEl3QzB1clI2T3V1SDQzTTNJLW93NDdRdTh6cWZucXZtMU9S?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 10:53:00 GMT",
+        "discovered": "2026-09-28T11:04:38.355633+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "برشلونة يفتح الباب أمام رحيل لاعبه يلاكورة",
+        "player": "",
+        "content_hash": "ad6bf9c93a5d42fef76c9fdf1502fc6e7635bfe9af4016593769837f82f4b3bf",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 6218,
         "title": "عاجل. هجوم إيراني يصيب جنودًا أميركيين في هرمز.. ومفاوضات محتملة على وقع تهديدات بضربات جديدة - Euronews.com",
