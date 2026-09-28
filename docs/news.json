@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-28T01:05:03.188745+00:00",
-  "total": 131,
+  "updated": "2026-09-28T01:21:55.046513+00:00",
+  "total": 132,
   "sections": {
     "morocco": [
+      {
+        "id": 6141,
+        "title": "درك سيدي سليمان يحبط عملية لتهريب كمية مهمة من المخدرات نحو الرباط - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jQTBkUjFiakRQcExjNkE2cndnZDVRNHNyUkNIYnR2RW4wemgzZkMydk1zMG02LTg0Nnh4MTVaNExOVVRQcmQtU2NqTDVUcHA5MjRwdUdrZjFYSjlBTXdIV1dmN3ZKUQ?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Sun, 27 Sep 2026 22:03:13 GMT",
+        "discovered": "2026-09-28T01:21:22.779225+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "درك سيدي سليمان يحبط عملية لتهريب كمية مهمة من المخدرات نحو الرباط Le 360 Arabe",
+        "player": "",
+        "content_hash": "c40fdde081662ffff95f098b1bb3ec0a25acf2d0717cac6e57e80d764c964788",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 6067,
         "title": "إصابة 3 أشخاص بحروق في حريق ضخم شب بمحل للجزارة بأكادير – اليوم 24 - اليوم 24",
