@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T06:49:06.496166+00:00",
+  "updated": "2026-09-28T07:03:52.431795+00:00",
   "total": 133,
   "sections": {
     "morocco": [
@@ -469,6 +469,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 6181,
+        "title": "رونالدو على الدكة.. مدرب البرتغال يكشف السبب - skynewsarabia.com",
+        "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPNVlGeHctOF9aNWpwaElKQlV2cDFZb25yWmNTWW5uaFBKQTNIZmJfcjIwSzNiTmhOQmdxb1dHenZSb3JocXJlVzIwR2N6dlo4VHFRMmFMTFotYU15eU1XT1FCOGdKUGJTMzgzSGpoWXh0X0Q4RTBrVklHWnhaMlVfQm5ubzZSTFhvcDk1R2RCSmY3U0ZILWZmcW1zZEx5bnNIZC0zcGY1MVU4ODR1X2lOVnlPdFVCTW1IQ004YzFDYmpSdHhpTFBiRGhiOE9oMjdydUtQSUN4UzJzaE9kcUJUZENtN0Y3UXNfUFZHSWdDbHd6c2tLd1NHS2REZFJmV0NfR0xpSHpJMXVwR01ncE1veDRfRHUtejRpakF6OUxwTkpkN21HaDFqRW9vRGdvTGtJbjl4eWNwM3ZUaU44LXNXZFl5eGM2RHd2RW5XUFoydk01WDAtU0xETGMzTnk2SUg2bnVhU29B0gHrAkFVX3lxTFBVMk9DYlgzSFliejEyR2ZlTmNkMFBob29PVmN4QkZkYTkzSGdRVmhUYnU2aFEyUFoweDc5NGpWSFJTZWRUQVVncExMX1J2WHNlai1TcWhaV181SnNBaWYwelY1MkRGVlNJVjNEeWJWbFZUakFSUUN2TV9fMGdxNnpkbzFVd3lVdjFpblRyeVZZd0pZT1pOb2NnVnR6b2dTZnFqdWZPa1FkeG1VNGExclhGMkFIQkU1OHRxTDlGR3ltNVY0ZkQyUGZIX285dE1PV3hPQnVhLXdKM09UR2J6Z3lLOWdkX29ScHIyRmx2akpSMVpsdDBSaHR0c2t0NmNMd0k2blpNUW5tQXpIQ2JlMzB1M0ozTDFHcTQzekVqLVdPSlNIWVZzU0xQRFBqRWFmOV9ha19BTUJPSElzRjZNMmtIVjJxeFAwSC1HdnNLSXVsTXg3THpwdThqcDJUSEpJbzNUVDJIV3Exd2lmcw?oc=5",
+        "source": "سكاي نيوز عربية رياضة",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 05:48:22 GMT",
+        "discovered": "2026-09-28T07:03:29.627533+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "رونالدو على الدكة.. مدرب البرتغال يكشف السبب skynewsarabia.com",
+        "player": "",
+        "content_hash": "1ae97cb908e958423dc768e1510a98103af36da04d713eb4f594682134405e6f",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 6179,
         "title": "مدرب الإمارات: جاهزون للسعودية أو العراق - الشرق الأوسط",
@@ -1250,22 +1266,6 @@
         "summary": "سوريا تفرض التعادل 1-1 على الأردن وديّاً الشرق الأوسط",
         "player": "",
         "content_hash": "f183d31f67fb437436373073de782bcdbc22e293808ea54ca8f4852bf414ffcb",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6165,
-        "title": "شمال إفريقيا للشباب – الجزائر تنفرد بالصدارة بعد ثلاثية ضد ليبيا.. وتعادل تونس مع المغرب - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tQ3JKRVRqUHlnQjlYNUhGTnRrSFNYQS00d0h4b1BRSUpadVhQV2NlRC0xMFFCYkgzQWREZ01WUTRWakJZWXYxOVpqNXBndFhU0gGgBUFVX3lxTE5HZkZoNEtmTUZsZUZyQU9WSXNBb3AwMlBxd3dPRHRDTXlKQkJUUFBhSDAySmdCSkdtNmJ6cnJpa19qNmZSYU1HOWVHUkVUMk9RZ3B1UlQyYklnVDE2WTJUV1FqTGtuY0pFWnVTMlBmNjlZQmZNRVlxUC15ZExSdUpJTXl3R0J2SC1mU1NNSkNyaWkxZ1FqM0I3MjJEXzNsUjFJUzJrYXJCU25XaWsyeVhJVGdlWlU2cEtQckhKSy02NS1qbm5XLTVHdXo0SXpHazRoVi1lQnhLTVBabF83RUExYUFrdDVtX0tGZTVOOG5UMFFSNWo1dk1hOXlCb3FkeDdiS3VPMGpGOEptMERXNXM4Z2NpcUstV3N0S05EZmZrQWFQdFlEODhvbTV3NzRKYkhwSjZrTGxkN2xKZVVvdV95U25oeTk0U3hEU09GbnZ1Z0NPMUVXTmRpeFFCeHFUTHY1ZnBVWFliVGh2SlRLMHMzV3V0dmNXdi04eXhHclBKd1duM0hCdmp4S1JXQllNd1hDX1dDUFVUNjF5RVRfa2s1SFJFdFlGMjFxemtfS0hlMDNoNHkxWXVoUks5NDBUbDItdkFYMG4zRUxHdHptcHl2S2V0cW54bURxck1Ec3lXQzdodjQ0aldTaWZFYkl1VHlkTTQtWDFhRVlXUGt3ZEFuWW1RMXF1NFo1R2xvNmY5Sk1rSmJ3VUIzRVhFdDY1T3hPU3ZYX2lvYkNkNlRqT182U3ZpSVJxUmxkb3c3aHRTdUNIa3VMMFY5U2ZPbXp5RGtLaTIzYmtfZnNScnVmdV9OYU5jaEgydlVBU3BibG9GOXJyVHpLeW9RWlRjcWFJYndHRDlydzc3SkJ1NXlzSWZGZDF0MnliTGVIUm4yay10WQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 19:53:00 GMT",
-        "discovered": "2026-09-28T03:48:49.748430+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "شمال إفريقيا للشباب – الجزائر تنفرد بالصدارة بعد ثلاثية ضد ليبيا.. وتعادل تونس مع المغرب FilGoal",
-        "player": "",
-        "content_hash": "90174d9e60c6f08e083d9eb128f59d1d4ce4a77fb4e8eb107180fa92e631d9d6",
         "sent": 0,
         "section": "sports"
       }
