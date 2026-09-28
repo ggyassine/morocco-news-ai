@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T02:45:56.591514+00:00",
+  "updated": "2026-09-28T02:58:27.263575+00:00",
   "total": 133,
   "sections": {
     "morocco": [
@@ -498,6 +498,22 @@
         "summary": "جدول مباريات اليوم - 28 سبتمبر 2026 - بطولة كأس مصر 2022 FilGoal",
         "player": "",
         "content_hash": "cca0b47ab76b322031ef9a7167b3098fc196a6eb1a869f89643ad9d822cfba0a",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6155,
+        "title": "جدول مباريات اليوم - 28 سبتمبر 2026 - بطولة كأس الأمم الإفريقية - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPQk1oZEVsdG1EMHdIaXVHWTRhRGlRT2M4azE0dEpHT1R0djZhU0pkcFdTQXhlSHJ5LUh3LVdVX0xnY29Vd1VobEZBV0tsMGNyQmxXOHB5OTVrUmxsVGl3Zl9fSnZlRUNBSFdkWDVRaE5sYmpHOFA4MDFHd1h5TWQ0RUk3bUJwSDMxblFkMUtoS0RwSmljMXdrTkxZQW5YNEFERGJQaVUwdlRXaEJjQVlxNE5fMFI4M2FEN19xN0w1UXQzMXZ2X2dQbFNqX25zejRkZFMySVZsWGQwQkp5MS1uRUtkSTh1ZXhialdMVE9RdjNUNTh5dnExaUl0a3gzOFJ4d2x2X2hHTG80V0RLaWFQRjJjZkVSMFZDN1NTTA?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 00:00:34 GMT",
+        "discovered": "2026-09-28T02:58:08.923433+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 28 سبتمبر 2026 - بطولة كأس الأمم الإفريقية FilGoal",
+        "player": "",
+        "content_hash": "5f9179e0f97a6674a4744296d9043731c53cee5c7839e56f94e0773103439e23",
         "sent": 0,
         "section": "sports"
       },
@@ -1250,22 +1266,6 @@
         "summary": "بث مباشر.. مشاهدة مباراة البرتغال والنرويج الآن في دوري الأمم الأوروبية 365Scores",
         "player": "",
         "content_hash": "3a9088237fe41803771f0e192227a2d35da831fe5deac94f4ccaf415ff45a02b",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6122,
-        "title": "القسم الثاني ب – برئاسة شيكابالا.. طارق يحيى مدربا لنادي جي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wWFZLRDMyMHVCMkViZ2oyaHoxeTlKN21rX0YxZXNsUE1aUGJXTDJEOVc1VVItNmp2ZktkQWhEQ1FaVGhsOGFMTkZ3eURwSGFK0gHTA0FVX3lxTE45ampkYlBhSnJTV01JZzBrWFYzWk5PMzdxNU1NRUFMMTNBUWZ3NFU0ZTdIMkx3X0ItdHRPVmZxbTZpN3VLVDEyekhza2lXMGpvVjJ1bWxmUjZFUnZwMDRpbElVbHdOZ0ZuS2M2bVFpT3RGZXItVndvd3hVUjdDM0U4OEV2c2ZwVkZNRXRFM2V1a3BMUkJicmd0Q25DLWd5aGF2bGJJcjd1SWhCT3lBNGJOb3MyTTNUZTRsbDdKU2ZUWlZMQ1B1SHVEa0stZXhRWmxuZEd0T2I0emhxWmJyTlhyWWY1aG1WVW1jcEE3ZDhLeWIxU1J0bkRFNFg3Y3U5eURkT3d6OXFjWmVxTTdkYk1yMlJoUjBGVF90clBndFRqS1BXWGI2Q3hZOE05UGJPRm5vSnpxRnoycVBFeE16MHFZNG9NUmx3dGNmbG1GQlItUnAtYTBHSkZIWHpCRGI2Wm9DZDk2aFpNMmxTV0xTVnU1Sm4yckNKbldHb2c3eElNc3RMMFRMYy1rVlYwV2hhR3pHeE5jaDhpeElJcXdrWTdYSU9GTjJURlJGczZIVS1kVzVwQUpIUG1PTGhMU1Jiak56c1ZUMDhvbV9XdDJSWVZib3ow?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 18:51:00 GMT",
-        "discovered": "2026-09-27T23:24:36.625087+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "القسم الثاني ب – برئاسة شيكابالا.. طارق يحيى مدربا لنادي جي FilGoal",
-        "player": "",
-        "content_hash": "69c069449f415c12ba41ed73d708abdc175484abbab3170f3b0aa7ef07a1f516",
         "sent": 0,
         "section": "sports"
       }
