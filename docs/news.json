@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T17:48:38.927969+00:00",
+  "updated": "2026-09-28T17:59:49.391954+00:00",
   "total": 145,
   "sections": {
     "morocco": [
@@ -629,6 +629,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 6359,
+        "title": "مندش: هدفنا اللقب… وجماهير الأخضر «تصنع الفارق» - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxNRHM0MHJKRjJOTlRlSjdseG5YTm9GVnljalR4N1J1enhmUWNuamF1VzREWW1NYjNzXzc3czBhM3h0S3JtRkJreEhIaDR1aTFjOGZIRzA2T2xHT2tYQUdDd09mdDN3dWk5cFlDelVPbFJfUGFCS2RHZ0E4V1dZNzYyNWUwX19IYWEtTlJKS05PUVFJM3BlSWNJdjQ1X3VhYW5PbEdoS2hjVmZIZnc4SEs4bURaTnhXeDllbkxEbTFkbDVrMVFNN3hiTkhIR3p1aWV5LVZEY1o5V1dIeDhhZE1RMVV6Wm1lUEdKRzJnWGtpOExLeExuUjByZExYcTZ0ekdEcTZMbzJTbmxhQndpMk4xMDRZV0tqa0phNG1qd2JXOGt3SGlweWZvRkZDb1JnT19lRVJRMEJMUHRFTlJwSk9pZFlfT0hUZDNrOWlVel84Y1R1dlVGdVdmRGFIenBhVWVGeFhEaVVtWWF4QWJ2UW1xUjFYMHFiNXBheWYwUVl2LUJBMDNudUIwUDhtdVdnTm0tNFNzcmw1TldfVXBVQlh6bk1jME1MUVB0aS1CR01HQmpoOHlfblZ5MUNBc2MxX3VSaGhJRVRDX290U0txV3U3N2VocEgzQnBTMGwyNWZPcjZUSWFYVzlKM3lLcFRYeEE2b2JOUW1kaEtPUElEUXpBc3JzeGU1dURmQ2haNE9HOU0?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 17:47:46 GMT",
+        "discovered": "2026-09-28T17:59:30.119004+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مندش: هدفنا اللقب… وجماهير الأخضر «تصنع الفارق» الشرق الأوسط",
+        "player": "",
+        "content_hash": "919a25ecd3b91d773f4575c6bdfebb222f3d1f3e6830e0370ff9555df469ddcc",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6360,
+        "title": "آل سالم: لا عقلية سوى الفوز… ودونيس بصحة جيدة - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxNNXloN0ZyT3dNUWtXQWJkN1hqaGl4d2NyMUZCQlhkTUxjRTBYaHMxYnFRWkFEazlxdE9HZnk5Wno5THNxcTZLcDVTSl9SRHVKM0I1ZTlRQzM2bnNxX3AtVHFSYlpWYzJwWHZMM0JHcDZoTWNoWWN3VlVVb3ZEQVI4cFVJelJLcThRYkdwQ1ZIZzYtb05BLTBDZmVYSkZPMjNuRXBhUzRqX0lQTmFIaDZrbFZjNjU5cV9qRE1nb0kxSXRUMy13X1hETlNoTlZuRjJqUnktY1JFd08zTWxrVnBJMFNES3pKQ0dkLTRvQURVTkZObWdQcGZPOWpzbDZkMVBaRmpFWmdKNWhxXzcyOXl3dXNQTnFobGd4eml1Q3VTY3NJb0Y2T1Q2ZDhXSXpyeS1wVFlidUo2dW1Cd055cEplMEJUYWtLa055ZUNNaHAxeDVpZ3cwTTlBQmFGRjZYeTEtUUdxSEc4ZE43eTZiSU43d3psbm5rLWNVRVZSUFh0bmQ0enFBSjNyZmNPYXJ4UFFoZ1ZoM3ZYN0hQVVpNMk9MWGs4bnJneTlXbG93SGlQWjlxZEEzX0VSejRKTEpmYnc4R0lzdnJIek90Y0JiOUpkWnlTRGs1NkNRWENLS05va2hKd0hnTmUxQm91VTltR280TWlQQVhLWkV3eFlxUnBDczhISQ?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 17:44:03 GMT",
+        "discovered": "2026-09-28T17:59:30.149709+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "آل سالم: لا عقلية سوى الفوز… ودونيس بصحة جيدة الشرق الأوسط",
+        "player": "",
+        "content_hash": "90890e39164b7d9da209d356e226291d7a26e081dbd60c48a6e841b8718d02c8",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 6353,
         "title": "كريستيانو وبوفون وبوجبا.. 10 لاعبين فشل برشلونة في التعاقد معهم (صور) - يلاكورة",
@@ -1396,38 +1428,6 @@
         "content_hash": "1e513b2612de61604ffb73f6b6dbaf974f261ba642bc92583ac5a42625cd52c0",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 6310,
-        "title": "دافيدوفيتش فوكينا يبلغ نهائي دورة تشنغدو للتنس - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxQbmt0eTdtUmRRYkx3dTVVbkdjeERwLXk0bkE5TkR2Q0pDelAwSkRsVjZZbTVRNEhxU2RjaEhhOE80NzY1RDd1SXZXYWg5czc4VUdOU1JnQXJoT1ZockZ6TkhCdk5yUXZmYms1eGk5U0ZBdXlLcVRReF83Q3AteDM3SElWU0NQSmdIM2dUS3V1cjZkZUhTemYzZGFYOWR6RXkyWlVCTC1TRW55bndzbHJRQjBOZHo4V2VPbER6QzNsbDBBTG5uU2QtOWdKdW5rRGxMV19VXzRxb3NxQXV0bm1vaE02S1hfdGJPNDFIZElWWC1XOEFDdzVMUnNza3dIdHktUFpIcW5XdV9fMkxNZnM2NktzWTdOdjFIVFQxTm4yV0Z5MUt6QVBJWGRJMHN5QjBzUEVCYWdUdk9tQ2xVSENlYndrWS1aVThnYlBreVp5ZmV2c3BtS2ZfbHlqTnVZdXA2SjdMTGhDeWFha1FSS1BqN2lYSkIzNnNIdnZPdmRoMFNpeXBfRXJVVXN6VTZ1OGIwazlOcTlieTJUREk5bjBLbEItOE1PSFItbkFFalUwTEdtNzYzN2NrT3E4Tko0SkdWR19OZ0haYVNJR2s3elJzT0Fva3JJQ25LV3lhUklOWmF4VzI3UTdRWG9nVWd3VDFISENBSlJSVG1fX2RkNUI1eVRST1BaaFlreXlVX19laGpoS1R1eWtWbUVaTF8?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 12:59:19 GMT",
-        "discovered": "2026-09-28T16:11:08.321296+00:00",
-        "category": "أخبار",
-        "status": "غير واضح",
-        "summary": "دافيدوفيتش فوكينا يبلغ نهائي دورة تشنغدو للتنس الشرق الأوسط",
-        "player": "",
-        "content_hash": "256a0c83a70d8c92034db5c1f6a55acd437aa05a7fd36455d64151a51d59f5c1",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6258,
-        "title": "محمد الشاذلي: وزير الرياضة سيتواصل مع محمد صلاح لحل أزمته مع جهاز المنتخب - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxPSVl6a3JGUG1XWU5pSFZLWDFlY1N4cGkzUDlHcEZSQVJmd1owUmx5WlRRUWlJS0lwWVVXTlpDVmhMX2VYVnNDenYzLW5jZ2YxLUZxWlVNOUZnenJjaUpzWWV6VGZVcTl3aHRiZEtnVlZab3BrZG9GbGg5NElKWUczRmpkUXNvVU9MWXlhMzBHOXcwNlFOZTZXU1RhSTVkVldvQUdWNnlvUmw5blRHNDJ6ZHduQ1RyVlJ1bGZOa2RiZUtTc0JVQzJ1WE95OElzQnR3SmN5MndJTVRMNDdrdjdZQ3lodnAxa2N3NWNaTDB6N25sZUJUZnZXUlFkcGtWV0ZCQW5SSnctZ0xaQ2dZaXNRdzJZdVlqek8xaW1nc2NIUUR1S1JISlNhRzN4dDJtTUhYZEgyaTMzQUNTWkdSei1xU3RJTFh4Z3lvVXdrYVdEbUFBWG5pc05EamRwWWRKQVp3ZTB5TU15czUzN0tGYl8wUUd6cGZwWmZ0aXJwbmk5b1pMOFhnNDJyNUxLTnY0bGd3WHFFbll4SVJXMERQZHM5eVhsV3NDbVk3MVFYZFV6cHFGb0tRaVZXTGdPOEEwNjJCb1Bpc3Q4UldsSFltUG4yUTd2WEZabXlzeEkxblJ1M2xvb04yejlSNHJJUU5ncndvVFVaRjNlS2ZjM3VvX01pcHIybWJ6MnNSa3Uyd2RQZUp3WkNVSlpWd18wVGNUYUtla0I3bUliZkhWbkJOS2NpZVZYUFI2b2JDUFpDYjZlb9IBxARBVV95cUxNcVVjLW1yTVhvR3lpVUk0SXBoLWRIME1BZmZLOE1RRVlyREc1Z1hzSmZncEtPZnBUdzR3eE9jS3pzU2ZaVlMxQ1JqUFNCbHBVQXpJZU56QU9Rd2czVEVJa1ZwY1hZWmF3djY4RTNhZnRvZ1A1eGJUZ2VWUUNaV1UxOUNVQzY2dmpNcWpKMFVZRlhaQzdObXBmWWkyMzZZQlNObzloNC00UVUybjIyU1pRTm5xZENYTEhQczVWdm4zdDlSci1ncmJvR293OW42Mnc4SEFWbE1jMGE3djgzTElfRHdCQjY0cTJQTWY0ZmFRRi1rX1hBeFdNMWVpaTIya2hidnNiN1VVSmREVV9yeWlNRjlQYnhCNjFYRVd0OU9ndXNFVDlDbVRWVzR2UUpCMHRyU0JpYXE5c1NCNFlYVTBCWWZOcFRULUdsWUhYbVU0b19pYXllLThOOTNGSGRyX2x0N2V5TnhnbS1ORlBZV0I4cjh5VUFUbUNrWnNhNUlJaWpiV1NrM2lqLXMycE5DYVZaRDA0OW5HSXFiYU1DWFRHT2hkeHZqRjJvLUwyNjNSc3VTNEpXTDV4cGM1SEZGNmZ4bXRRSGppQ0VvYlo2M1VlTHp3ak1KTVdlN0VnVkROQ3VqZ2xiUVJLTW9GU3dvUUwtVHNTb0RSR3FDZ3FELXZpMzRwUGFNaFhLMjJMZE9QTS1GT01iNGgyX1k2SHpHRUdrZFBDT09tM1ktdkM2UmQwcWk5b3ZyNHdIS1psUnFTdm5nTkRh?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 12:46:00 GMT",
-        "discovered": "2026-09-28T13:03:22.949965+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "محمد الشاذلي: وزير الرياضة سيتواصل مع محمد صلاح لحل أزمته مع جهاز المنتخب يلاكورة",
-        "player": "رياض",
-        "content_hash": "7bc284715870348d7959b391ce5f8aa6593f66b557aa6a02b0d0ba392901fd6d",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1604,6 +1604,22 @@
         "summary": "برشلونة يبحث عن \"أظهرة مجانية\" في الميركاتو الشتوي الشرق رياضة",
         "player": "رياض",
         "content_hash": "4d19cdda691300e941839ba6842f0c5af2c91fd52f98bd9198b23936a8dc7ba3",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 6361,
+        "title": "ترمب يتوقع محادثات جديدة مع إيران.. ومصادر ترجح جولة \"غير مباشرة\" الاثنين - الشرق للأخبار",
+        "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQamYtVTJveHM3Mld5cE1qME8tOHZjTFFoeV9CZWp4RFVOVjBmUGZyUzk1aWxXLWFJRjVrQTJjV0ZucGtGd2JkMEpiRXdjOWZySEQ1UGJhMnA5aHkyOTZ4Q2FHNzRpVmVreHVCWHotMjlCc0NYU1RzMjdHMC1FbGhZdlM5b2k1YUROM290enhUSzJyaktNQnQzWk11U0JfWGF3ckNxbUlPYmJ1V0FNbTBmOFJ4aG9Lak5ubFlRQUZJSFpubkVlOXhCaTJlYk1GYjkxRm5SUnB2WVE5X0x0MXJRREVaTjRoamNhRDZqSnNxZFZTU1ZGV1NwOVkzTHNEZ1FzbjFZbUtlOW9QbEEyQ3AzWkRlSnFfOWJUc0dzbUhKN28yR09iNDVGU3VKdEh5NnJlMzlIRGJCSFVNU2FOeUo1TC1wd1Zmbnl1dEM0b2xpbVBnclFMNFRDM0ptamxiRDhCSnlOUmliOFp6NFpKZnVYTzlDUk5UTDdmUHgwczNJQ2VDcnRhenAwSmhlMFFtalZMaWxMUmFJSF96Z2dkay1Xc0tYRFJVUnZaUVdBRlY1T2VVTGdQZ01GYUJqbmlMdlpsMnBHaXNYcTRQNnhUS0s0NjF0eDRwWUJDVmNqd09FaHQ?oc=5",
+        "source": "الشرق للأخبار",
+        "trust": "B",
+        "published": "Sun, 27 Sep 2026 22:40:31 GMT",
+        "discovered": "2026-09-28T17:59:41.839439+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "مفاوضات",
+        "summary": "ترمب يتوقع محادثات جديدة مع إيران.. ومصادر ترجح جولة \"غير مباشرة\" الاثنين الشرق للأخبار",
+        "player": "",
+        "content_hash": "5037e329cfc01b6774d01094b85a217c61e913e5e18c2ca55ba18b94775395cb",
         "sent": 0,
         "section": "transfers"
       },
@@ -1796,22 +1812,6 @@
         "summary": "طرح تذاكر ودية المغرب وغانا - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
         "player": "",
         "content_hash": "fa0efed9621a70662884d25c7542cf5201ccffd728d7c82542997a19b9e4e162",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 5859,
-        "title": "كما كشف في الجول.. أسامة فيصل ينضم لمعسكر منتخب مصر - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxOQ1FXVlk4NWVNRkE5cmdxR2puc1AxSlhXTUcyc3RWQnJteVFjMWNseGRvSTREb2xrNWZHYkdXcFZEeXJaX1B0SVl3SFg4VUNNaWpzaFMzMnRmUkY3cF8wbURNUVNEcXVWa3VZckZCTmhtNVBTOUd3aXhUbjV0Mk9YeTdFbFZnMUdzR2lDQjBCWmFsZW0yOWE5T2hzS1J3TTJCcFNXamg1UWpOTTlGUHdMalowemxYSDFCMjRFTUhwWDNkZVFUd2stbXRHY0lUY1oyQkNTZXVZYU1TcExrcWQ1UTlfQi1wVVVVSVNoOW1wUmdnS3ZMMldkVktJS1hSVThUNHZmdEUtakwySV90YmJsZUs5aHRhWTdwem1nbGhiTXRJVmxlRTFNalhmbm5laUd5ZWVoaWN3UnBQeHVmczQ5SUdiT29CM01SWFRnWmM3NjVITmpzY2ZERVRILTBKd0lRdU85WHRhSVFDaDY4cTEwTVhHOWNuTi1mSjdiVWNqaml6RjRtcWF5eWVXaTR6ME5EOVBlNURnUHd6R3QyM2fSAaMDQVVfeXFMUHF0RzFLdnRNUlR6d3o3Q1RkcW5LNmUxMFNjMjQwNlR6SVVvdmJCUGRvdmI0cUJ3MTZaWXF0VlVUb3dzMFFFcnFDQkk3SThpZ1FFRXlHQkprUFlTZHUxWEFSc3NZWWtyS0lOUGpVU2UxeW5NZ3FFY2U4S0p0LV9DMDMtdTBOUHBfTnN2ZEJwMUdyNzQ4SXdUbjYzeUR0NVFSSkhFTW1uTHJOMUJSdGpNazZHNlVjcUpySzhLYUItOEtLR3FtbElQSXktdjBleGl2V0YzZjM5Ry1ISXk4Q1lrT3RnbXJyblI4RUg1WUV6RWxHNHdsc0t2cnBWWmR1YlN0aGFSTWVvY0pYM0M2QmxreWZwa3NxSU1Zend3TnFoWEROSGpuLUU5Z0JZaDBMOVMtZjZTaDUza0NMUzRjajRDSFJOenVwU0VXdVN2SDYwNEt0a2dJUGlvSWJWU25SN2REOE1WLTU3akFOVXQ4dDlaeDI5WnVvOVVFc3BtdFFPRzhHaDhnWlBCODNwSXFVYktBOVlOeWJYTmhxb1ExeVFQZWs3Tlk?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 07:36:00 GMT",
-        "discovered": "2026-09-27T07:42:05.632206+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كما كشف في الجول.. أسامة فيصل ينضم لمعسكر منتخب مصر FilGoal",
-        "player": "",
-        "content_hash": "de55fcf8c446a9d09bd3220b8a77aff8cf5acfc33976ed478f8ff9c6ca3e95ed",
         "sent": 0,
         "section": "transfers"
       },
