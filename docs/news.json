@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T00:10:01.067533+00:00",
+  "updated": "2026-09-28T00:35:00.382416+00:00",
   "total": 130,
   "sections": {
     "morocco": [
@@ -594,6 +594,22 @@
         "summary": "المنتخب المغربي للبلياردو يتوج بطلاً للعالم للمرة الثانية في تاريخه Febrayer",
         "player": "",
         "content_hash": "319db84b9e61609b6b14111396ed570d102c85cd509be97ee27429f1b7240185",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6137,
+        "title": "مذكرة تفاهم بين مؤسسة أسباير زون و اتحاد غويانا لكرة القدم - al-sharq.com",
+        "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxQbmhZa3ZyTUhTQ2xIelBQMktadVBpZV9QMmlpNEZ6UGVqVVVzVVdjTFI0VUc4QWQ3QlVST1Zpa0xZUFFaR25BN0xTc055TkVSTFBsWFA4VlRIcWFLeG9NSFZncXMxZWFlTWh2Mmt4RWV2MFgxZVJWMTg1Wi1ncHk1bzhvOThJeFhKSG55TEthRi14SXR1d3FKR2RXVnVKRTNEcmFjaHpxXzlFeFlTYWRDRkEzdzhyOW5fSWxscElGTkhOTXMyeEE0aUdoSTh1MGV3N2FIbFdpVXh6Sk5rT09yWmt0Q2pyUTJDVWVaN0FaLTNIREl0Tk80d3lHY3AxNktmRHRkMGpWVkExREtuZ3BVLUt5dGtYeGJFd1Q3Um4zQUpSMi1nUGxGdzJFeUNyRmwzOVg0QnFPeUdKcWNpdU03STFhazNtcGxpZWx2Qkw3ZFNDVGJjLU5maFRKd0NQdDRKeHVvRUk2Z1hibW5zY2toQXRrdGE1QWozX1lwRm5QVzlRUVlDSkVfa0pSSU5oQXVqdU52X1FiNFU3WnJvWjFQWnBqY3J2bEVQUDJ1cHhFVzRWeHpSZUIxczhrTFY5YVFBbXp5WHAySmFxVWFaOEtwdXJJZE5pUGpFSzNBZzVxWQ?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Sun, 27 Sep 2026 22:34:03 GMT",
+        "discovered": "2026-09-28T00:34:42.038136+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مذكرة تفاهم بين مؤسسة أسباير زون و اتحاد غويانا لكرة القدم al-sharq.com",
+        "player": "",
+        "content_hash": "63dead83b25d362f2b158d0f36940cd40a27f19322521a0a339703c616ac3d53",
         "sent": 0,
         "section": "sports"
       },
@@ -1202,22 +1218,6 @@
         "summary": "التعادل السلبي يحسم مباراة المغرب التطواني ونهضة بركان بالدوري Kooora",
         "player": "",
         "content_hash": "afa63eea010e087eaa2bb762ab76f26607831082f1c4c0d55736d69b08d5260f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6058,
-        "title": "اتحاد شمال أفريقيا يشيد بتنظيم مصر لتصفيات كأس الأمم للشباب - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMikwRBVV95cUxNZzhXX1E1NGczM25DVDNFc3daVUpDX2d6dDN2LXVxN0k4N0FFTFRsLWxSN2pnOUVxSTRsS3pIVy0xZmJVc2p3T1hNM2poZkVSU2tKb01KejVXdkhTMXlsT1Jzc2EzZkY5cE5vM0VOdG9GV2VpT284TmJEZ2ZQaGhwclhValYyU0pyN2ZpbldUMzAwY0pMUERRek90U0xfSTU3R2lxSFo5Wkd4SzNrM3ZlMWpHaTBnOE1tXzZvdWNGS3phQ1hBR2ZkNlJlcVZxLVlhMHFGNk1PcXE3ZWJGN1I1YlUzMXZ0MXlIbUwxZWw0Vzc1N2dMNXdOaDc5VEpheXJSVlVnZWxkdUc2OUVfS0Y3eTQ3V3NVUlJMalI2aVZNc1I4QV9pMEpmTnp4Qm5FcV9ya1lSeVJUOG5XUFhUN3dSZ29yOEVRTFM2dVROVnByTG9qYkRrNFVNaERQNEZRcWlZMjUySmZlZGhPaTUxa2p4VldOS2NZLTJfLWhxWnNxZHphUWhtUFNzVkZ5VXVwenloU0M4dnlZaXVnMlc4TjJZVHFyS1FNVm5TR0lVb3BQdm5KbHQyU08wOVZDSjgtYVdTVWNYakZiRFJ5NC1FTUpBY1g2bWNRVjU3cnRxQWZ1MEd1WkFrNDZaQVhqRXZlbE1tbEt3dVVUYVBfMDFiY1h5djkzODFkdEtQYVpjb0pLQ1Q5dEnSAZgEQVVfeXFMUFY5ZlpIU2QyUG5xYXE0VUQ1VTFsdFEtNlZTQUEwN05oZVVETHdEUldWMEJxV01KdFF6VEVyV1RDVlN4TmRDY3BCQ0otUEJnRjJhS09GSXFaOXNkRGRmN0VVZmQtRXRYbERVUWIzZDY1ZkYtdmdlQjJ5c0huZHY5LXdGbjFFd2RKOFF2VUN5UnZhclBhWmhHeTN3Z3VjMW8zb2RHbkx5ZVg2eE9iVXJ0T1JrTUVzMWpzWnhqZjQwdk1xYnhLWjhYUjQ1ZDJqUDZlbUpyYWtqN0l2M0lWSUQ2Q3lBMnFObzVnUTZsUnFoT1RHM1NTZTZRTzNkdW9QTDVNcVhXbENsd2V5Um90Z3hvX0V6Rm5aTWFnSzE3X1E5OHJDWWRsR296eTdWZU51SUNha25IVmpWUVVZVVZEdU9ycmNwT1BFMjJVVkw0T1JJRDFRVDMwZVJfQXJPN2FaZkxTNk9OaXc0RHd4NThEU1BvYm5ReTBvRk9kU2R6UFJLX0xNNEZzeV9ySmRyb3lCZHlRZXdySjVpMldSSkxPRDdDdElZTjlvVC1WdkI5SC1fTHZjTXhRcDYtVkQxM050bWxDcm04Y1JsTkJfQ0psTUFHMDU3ZFBXWjhCa2h0eHMyTGIwRi1jU2NpTlJ3QVF2VFIzNUFNN2dzX2ZNRGpGY19tZXdlMTgzYXlmbXRYajVyc1R3M0s4WnJnZDM?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 18:38:00 GMT",
-        "discovered": "2026-09-27T20:21:09.943775+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "اتحاد شمال أفريقيا يشيد بتنظيم مصر لتصفيات كأس الأمم للشباب يلاكورة",
-        "player": "",
-        "content_hash": "8764a570a29a8dfc2378d98b0cdf610835726d865a6586817b3dc31a1e5c2c53",
         "sent": 0,
         "section": "sports"
       }
