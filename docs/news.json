@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T21:33:28.605876+00:00",
+  "updated": "2026-09-28T21:46:30.151159+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -144,6 +144,22 @@
         "summary": "رصد بؤرتين عائليتين محدودتين لداء الدفتيريا بكل من عمالة أكادير إداوتنان وإقليم اشتوكة آيت باها (وزارة الصحة) | MapNews",
         "player": "",
         "content_hash": "a9cbacb96fab76a02ff2bbb8af99982575959897d5c2b905de1ddd2b15fde4be",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 6477,
+        "title": "وزارة الصحة تعلن رصد بؤرتين لداء الدفتيريا بسوس ماسة وتسجيل حالتي وفاة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBpNTN5V3ZsTmpTWkpwWEJaX3pZOXR3Z0tjV3ItNlBMWDNGWTZLbk5CRDQyUFpWRGFGZW8xYURVTXQ0VHNUNXExTA?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 15:35:28 GMT",
+        "discovered": "2026-09-28T21:46:07.762344+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "وزارة الصحة تعلن رصد بؤرتين لداء الدفتيريا بسوس ماسة وتسجيل حالتي وفاة Febrayer",
+        "player": "",
+        "content_hash": "538ad7c79107a341d7e3e5cea840e145753f8235d363f7e18b2ca0953fe9cb2b",
         "sent": 0,
         "section": "morocco"
       },
@@ -786,25 +802,41 @@
         "content_hash": "1188aea1650e7997398466243c33f2b4c5524a577e9a9ea5b34f2dd10271f34d",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 6041,
-        "title": "\"القدرة الشرائية\" تتقدم وعود الأحزاب المتصدرة نتائج الانتخابات التشريعية - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOQm92Y1ZwR0JtUHlyU1F4ejBPa3A2RHAtV1V3dDBQamNCXy1FbWc0anJWNnpCdkdiT2x1T19vWC0tclQ2ejNnODRhQUtvQ1pycFlxbzRRNHdka2I1ZjRaYjBuWk45elRHdXVicF9DQ2s5YmxyZHF4Q3NJcENmejVZUi0tQ1pGeTZjdkpYZ0R4aWowUDNKVUpTbzhSN0ViZGI0UFVLdUJJOEFoU0EwbzlkV1NjX00wUElUXzI3OW44T1F5dzYtZGVuUE9hcXltLUVHZi1rM1Fad3BJbXhDNlhLYVRoNXdPSkRnekhtalRSb18wRHlsa2Y5SVNDUy1yT2RmTGZ2bHBabWtubkowLW5neTBock1nRjQyR0xVa01JUjlYNGFUVlE2bmpFZGNRbFV4dlhxdFJSV0JiWU1Cc3BqeDd2NzZqZTZ5MEUxZVhB?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Sun, 27 Sep 2026 18:05:23 GMT",
-        "discovered": "2026-09-27T19:35:02.106545+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "\"القدرة الشرائية\" تتقدم وعود الأحزاب المتصدرة نتائج الانتخابات التشريعية Hespress",
-        "player": "",
-        "content_hash": "139e8f13e4a518df4aa45edd72f2d9f2f485d0c4d01cd9dd88270033f7ebb2e7",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 6478,
+        "title": "أحمد اليوسف لـ«الشرق الأوسط»: حديثي عن أعمار لاعبي الكويت فُهم خطأً - aawsat.com",
+        "url": "https://news.google.com/rss/articles/CBMiigVBVV95cUxQaG9ZMkZiOEloMDZ1a2JQbHZPZDV0TElDSE43My0td01KWFVEU0J6MUJ5NWJkQTFhbGphaTljX2dUYUREMk14bFRyWXd3Z2RhYjZucjRsTi10SmlQclF2UUlhU0JYQS1qSTUyRnowRGl1VWtGZ3RqNUZLbFpVcGRoQ0xDRi1vbWllWDVJUjdMUzR2TEN1eWNOcWF6eXJHS3VnMVN0VTltMTcyS21mc2U2Um1RSmhaYWotdW43XzlvMEVHcEk4OXVfQnNCMV81QUE5bHNhRTVLcDR3bW1TNmZNUFV6amJFNXNyS0p3UDE1dXI1STktT2ZBRGdYek1UTFdFRlAySUtSQ2JRRGI2SHhlVTEwdDF2cXpDVzVoU0xjUkp5OG9VYWZIRXpicEFGRXFFZTJMLV9xNV9SUWcxYXA4d2JkT2ZrRF85UDM3VXVfTkpBRDBuQ0ZYd1BsM09FUVNZVnFHbUN2bGktX0FRZkNUMlh1ZFlUWFpRY0VvMUo1UEV2a0dzWHh2Ui1ienFyYWc2TjhqSXNMQlBXS2hKQzRPaE81ZU1kME9BV1hJRVRpZFhydl9HWnUyQjdCcnQwOV83SzdqVzNvYnVyTU9PVGxBU1pOMnppcl9obS1TY2QzSDVhcXl3NEtfa25NU0Y3bVliLXV3MHlyNHZKRHZvUS1MY0MtWEY3dW1TVHc0N09ZSkgtV1RmbXBic1ktZUk4WGdlZTg3Wnp6NnNSSVRZQmwydW1lcGdHMmlmeDY4LW5iRHpnUUFacXlDUGZPVm9jQmhQdnpQWFozNXBVYlZ0U2d4R1JIS2hDWnRXcTl0Snc5d3NPMFliTVZjOWVUc0Q3UVVHX3VFbUp0SW03QQ?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 21:42:37 GMT",
+        "discovered": "2026-09-28T21:46:12.425090+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أحمد اليوسف لـ«الشرق الأوسط»: حديثي عن أعمار لاعبي الكويت فُهم خطأً aawsat.com",
+        "player": "",
+        "content_hash": "1e6a5a7c1fc779b0df5339de83b5c9875dcfd49404ff2994e4096dcc81ecdd6e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6479,
+        "title": "مانشيني: استحوذنا على الكرة ضد تركيا.. ونركز على مباراة فرنسا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNOFVNX056WGRfWm5wYkpMd0FoUV9BVWNPVVNVZkpKWjFQRTJ6emVndUZjZWNBTm1xVGMzV2xVT0UwYkdNdU1oZHNUdy1IdFdxTnRrT2duZ0hfLTE3bzZUQVhYZTNXS3ZyT3lEQXl6Q0xNZDJqcWNsTHBxYkx6dVFPQnlOZ0ZWWDVWdXV4dFJ3V2gxSjQ2cWFlVjNndnpsTkZYZktmak52NjNLTDRESldZWG13MzNQdDdBSDFKMV9tSVM0NzdFZ09yZk9DN1dvc0hDLTV2cG9ObnRnNzNtTTJpTVlFX1hvYW1odkZpRnhRSmUycG11VEFSanNmTGpscHBDZEN3OTh3bW0xaEE1cXQ2Q0N2ZVVVWWpEWlZHTmdETk9qclRVTGp4TklFQTRITndGc2pwMVpiQlNuc1lab1RMSE9DbFdrRFRKazdZOXJaZGpibXRGaktzMlhYZUpwZlQ3UU10eVcweGVFWFAtMXdJaUcxVEZUNlY2Xy14TGg2dk5Wa080N2xROU45dTBLWVkxaUFhOVktT0NlUkNiNzQyX0ZDNGJUeXI1MkItQURTTVppdGxFZGhJWFpWRXZsOUs0Vzh2VkZpTkp2NUtIZ0R6UHkybVRpU2dITm1OX1Y0RXJWMjBNb1HSAesDQVVfeXFMUGhLZlhscXdqcVhDZDVfVVU4ZnZWNnloaS13MFNJa3VCbjlpNWRaVEdLVDZ5RnIycXkwMGc1STAxZE1KR2hCOVB2ZHMtWjBibkkxcV9VMnh4N1N4bmMwbS1NU2ZmNjRqeDFJRkRhYXYxZHZfZzNkZllWQVpuamtrV0xWZFUxbnpCbEM0WWZ3cjJGdklJQ3d6OWVMeGFWNnQ2NTh4OE1OUVl3OFgtNktjYVBXVi03NmFfdmNTQ3FCZlU4Snh0cHVpTFNZMGQ3MW83VzdEM2NMSk9YMEVJVXhDSlZ5V0pfRGR5b0xiS21YVDNJdWxNWWM0elpkNXhCSmhDYVdwSjd4NkRVeTdaWlFsUTEyc0RiYU9JcDlKRzhhS2htcDdfVG84cW03TDZ1Qm9PcVBmTkticGRBRVdNWThMeXdURDlLMDdSeVU2bVBUMk8xQ2Q3S0xqSjIzQ0pNcWNWV3hvMzR6ejlNeU12UHZNMzNPX3NmZ0M2bjY0dE1MM2JLQ0VyVHhWWkV5ZzNMdGdZZ2NEZGpreHZuWUdRZU9ISm9qbk16SGRGZUl4T0k1VS11Y2VLSFR6NFdrN2x5M1N0cDFHY2VzejVnbVc3endRZ2VCMkFXUElrSmp0OTM1X3pTOE55WTlHY2lZdHc?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 21:36:00 GMT",
+        "discovered": "2026-09-28T21:46:14.846742+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مانشيني: استحوذنا على الكرة ضد تركيا.. ونركز على مباراة فرنسا FilGoal",
+        "player": "",
+        "content_hash": "dd5c668244641be8fc40f74e5b3ed5d8c6586b5aabf191d01a1a75eaf9db294b",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 6475,
         "title": "يونس محمود لـ365Scores: أتمنى فوز العراق على السعودية من أجل سبب واحد - 365Scores",
@@ -1572,41 +1604,25 @@
         "content_hash": "bfd82141f6df05e97975c6755d8f0b34efde8ef0d4a76b1a893cc2024c94c06b",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 6460,
-        "title": "مدرب جنوب السودان: إذا أردنا التأهل لأمم إفريقيا فعلينا مواجهة من فازوا باللقب 7 مرات - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hMVhhbG1sZ0RQM2hNd1pLZXJRYmFIaXBaWHBMN0tGZHVrQVdsWXplY3J4N0hYODhVNlBFb01sQVdHR29ielVLUFVvSl8xYmo10gGTBUFVX3lxTE5QQkNENmZ4WUNHbi1mQ2ZjQk1VbHBsb3N0cHUxOU1sQmhSVWgyZWppSzZFc3BKZDNGS1I4cm9BNkotS1EtcUpkd290RlZGZDRQaFgxYlRmeEw4TDI3T0trSnNQUVFMbEhsbldUVFoxb0IyVXhYTkNUZ2JpQXlHQ2VqUlRzUTVOcHYySmJRYUo4YzI4dzdOcm9iTHEyOEFDaHhTWTNuUVAzTjJvdWZGbHZSVzZIcENQeGRkUlg1YU15YUdmUnYwS1otblFWM1ZKR3R6SllJU2loV1dGR3VZMXdtZ1hLVV9zLWxrVzY4VTQxbG5sdWl1SlE2Zzh0MzFqN21JVEtSSTBNbEpwMzZocHhuWE84OGFodkh4RF9ydDUwRmxBV0Y4VWdIcm9lQ2d2NmdQcHY1YS1pUjZPbFhsQnA4UjBhZkxqcnQ1VkdVTkk3ZS1uM0pyODhWWFk0MTdWeWlZenVTdkJWRTE0akNvZWdLOENZNmcxczlsbWFWOWZITmdQT3d2NTRySjdkVXBPaUhyT0NDX2R2TERZUlJtZ2laOUQ2d2dhckZIX242Qk5BMk53Z01oR3RLNkREU0ZqMFNzN01Yc285YWFWUlI2SGx1LXkxZW9LdWZjaFh2VDlBSTgwMU41RDhPU0NBVng1UEZudGVRQTNQbm01UzRXN1dZb2ItRWxsT1dEaThxbnZUcHk5VUFUcmphSXlOQXMwTXp1LUlhUkdvc0RuNjNyZjc3dzhzZzFwdDVuN3FDQVdrekxDdnhvWUJYMnVsWmZlZGpXLWVWYWJaelloeno4UkZWckl0cXM0cmtGdmNtYVhKWlhNanJnQzE2S0Jvd0R1ZlhLX0tsNzFBUFdyRjUwUVc1MHZn?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 15:56:00 GMT",
-        "discovered": "2026-09-28T20:50:20.623774+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مدرب جنوب السودان: إذا أردنا التأهل لأمم إفريقيا فعلينا مواجهة من فازوا باللقب 7 مرات FilGoal",
-        "player": "",
-        "content_hash": "b2157e4bdc96a7ea2cecd33a3e27d75a513045bd45f8dad0456bf3f7e16c626f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6322,
-        "title": "مدرب جنوب السودان: إذا أردنا التأهل لأمم إفريقيا فعلينا مواجهة من فازوا باللقب 7 مرات - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMijgVBVV95cUxPWHFLaHdMYnJXV0lpVEc3QnVnWENQX3ZDTHlOM0xSbVRWcE9pTnk5bDdVVko2RTRiNnRKLXRoVUR2LXd2RzcyTVE4YlZfak5lUXlLbTVrRFlKWUFPT0E3UnpFSXVkUFlLb2RRQjJQSzBYZzR0T0xlOGt5aVd6UFIwRFJxcE40MU81YW90V0tZaGk3Y2x1aXc5RXUyVVBYT0sxTkE0ai1FeWtXakJnNGJTUHFEWmhIY3BLbEZJUWVNelpQdXhjcTRLcHlSbHFpSFgyNnVFcDJMRU50ZFEzX0NnYjNoNlJ4MjRiYm04aVBSMTNHX2xQcGtSaUNuWTdPLVpxa0I0QzQ4X1VlNUFKVlIzQ3B4UW9jcHFHRUhac2dpMm5ra01Edk9sYVQwNVdRZUxEOGU3OHd1WmRsQ2pseWxhSzNHQ3RFQVJiZzFFTGh2VmFLaWUyaUl3bkd0YWxyWmJHUnZkSExuM1JQZUE2OG54NmJpT3FqRFBzakpaZklHVGhBX2tUQkFBVzVmNUU4RUFvTXNVQnlhd0JndXlyTjg0NlEwaENkakZ6SDlLMjdwNWh4R3hBTEJES1J4UGNwcVNzZlRtMkxIY2xETjdxQWRHazZHQVliR3doYk1GM1F6M3VqcXQ4UmJOMlJxbHdKYjBrZkxOQ3pKVk5PQm1BNklRd29PNF9LT1pOMXYzQ1ozdlEybGhDSFh4dmRNQmpxMV85TmFfTEF1LWNSeEdkNEctU3RDLXllOHRBOU1FRjVDYnBJWk03dnlGaktNcEpDdzlaNmpIUWJkTVU5LURtc25PQWN6Tm9uU0RXZHNqdlF4Qm5HaVJ1emJZUFNlcEIwRGpYQmh0NWpUZHNNOHNPS2fSAZMFQVVfeXFMTlBCQ0Q2ZnhZQ0duLWZDZmNCTVVscGxvc3RwdTE5TWxCaFJVaDJlamlLNkVzcEpkM0ZLUjhyb0E2Si1LUS1xSmR3b3RGVkZkNFBoWDFiVGZ4TDhMMjdPS2tKc1BRUUxsSGxuV1RUWjFvQjJVeFhOQ1RnYmlBeUdDZWpSVHNRNU5wdjJKYlFhSjhjMjh3N05yb2JMcTI4QUNoeFNZM25RUDNOMm91ZkZsdlJXNkhwQ1B4ZGRSWDVhTXlhR2ZSdjBLWi1uUVYzVkpHdHpKWUlTaWhXV0ZHdVkxd21nWEtVX3MtbGtXNjhVNDFsbmx1aXVKUTZnOHQzMWo3bUlUS1JJME1sSnAzNmhweG5YTzg4YWh2SHhEX3J0NTBGbEFXRjhVZ0hyb2VDZ3Y2Z1BwdjVhLWlSNk9sWGxCcDhSMGFmTGpydDVWR1VOSTdlLW4zSnI4OFZYWTQxN1Z5aVl6dVN2QlZFMTRqQ29lZ0s4Q1k2ZzFzOWxtYVY5ZkhOZ1BPd3Y1NHJKN2RVcE9pSHJPQ0NfZHZMRFlSUm1naVo5RDZ3Z2FyRkhfbjZCTkEyTndnTWhHdEs2RERTRmowU3M3TVhzbzlhYVZSUjZIbHUteTFlb0t1ZmNoWHZUOUFJODAxTjVEOE9TQ0FWeDVQRm50ZVFBM1BubTVTNFc3V1lvYi1FbGxPV0RpOHFudlRweTlVQVRyamFJeU5BczBNenUtSWFSR29zRG42M3JmNzd3OHNnMXB0NW43cUNBV2t6TEN2eG9ZQlgydWxaZmVkalctZVZhYlp6WWh6ejhSRlZySXRxczRya0Z2Y21hWEpaWE1qcmdDMTZLQm93RHVmWEtfS2w3MUFQV3JGNTBRVzUwdmc?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 15:56:00 GMT",
-        "discovered": "2026-09-28T16:31:07.590706+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مدرب جنوب السودان: إذا أردنا التأهل لأمم إفريقيا فعلينا مواجهة من فازوا باللقب 7 مرات FilGoal",
-        "player": "",
-        "content_hash": "b2157e4bdc96a7ea2cecd33a3e27d75a513045bd45f8dad0456bf3f7e16c626f",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 6480,
+        "title": "دوري الأمم الأوروبية - إيطاليا تكرس العقدة برباعية ضد تركيا في فوز مانشيني الأول بعد 1198 يوما - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiswVBVV95cUxQWDhndmlsUzE0OTRXdjJEZFAzTXJvOFdVb3lhZUFheFBTSnVsMkNUWENubVJkTDV0NmVRaVRBWnBUd3NGbTlnQS1fbU9ZYlp3d05FRVI5cjg3eVFVajZXVXM5SVRUQkFUWVpCQnBaRnh6NW9aN1BhLVN3a3hBeF93NXZnN05ENmpBSGR6R1QwcVNPZU5YZkx0MWxaZFpVUEN6VjIwakxPcHJvZ1BlQndybXhZWUVZdnFIeHA1clpyVll0cUQ2UE4xOGRpS1ZlRWlqbVJTWl9CYjNHWFk0UmZ4d1BvSzVfRkF0Y2dRc1VEcHN6MUJ4ajlhczMzVXcyeTFMT0lrRHVrS3d5bThnVGxSUXlMYWlqbXh1UzJyZGRUTEhGWTlkSEM3amlVMU03ZXRrb0ptbXZwRmFzdE81ZFN2WVJ4U196V2JQcGFRYk9TQXpSdU1QdkRQaEphSmU3NXhGWXFReDhRbFhseGhMZ2FuUkRZWnQ3Y0o0NDF6M2k0eVdGbWJzVjlNemhMeXdOQnUxdjhrdnJPNmRIMmpDbW5PdnJXekgtS1VlTFB6S2pha3h2amp3R1N2RTdJdzk2R25laE1EMFZDUzczc1AwNTRqWktoN0xndlN4THNTTllodHBZOUR2UTVxTXNfQmJSNjJEZEVtUUVkYWNQNEdCV1I3T3R0dDBKODlqenE0aXA3bDlaU3VVSlVOWVNnd3QtUS13SWpIeVpHOWtzTzdFZjliWjlMejNiVTdnaVl2UlYyWmY4THJCUG1BQjdkMC1sSTRYcndVTHAxRDBXZmtTMEZ2by14Rk9JT0lSSDFTeXF5UE9vYlk4c1VIQjI4NFRyb0NkNi1ZbXlHcEZOLU9sTXN6X2NTMkxnRGFMVWkzZVV5Ul9ua0l2VXZmNVNzdERXOWdiLVpJ0gG4BUFVX3lxTE03SWVIY0JMOUNMbWFOMUJxc2E5SjZYaG52OHg5Q3RCN000Smk1anczU2tXaUJqckh6UWxPcmhIZmtGU2YtTmVCN0RsRTdSUi1wUUtpTFdMMWE4bm1vREVwaWx3OTRPaktlekJkSnoxaUx3RThheUJaT1kxS3k5R0ctelZmRVI5bFNaZ1VpWnR4RENaNGFVdExpbGl3OXdTcXA0MHRzenhfSzVZNGJRVkpoZnh4WUY3Qi1BSzhTeFpPWHA1TnFVaTgzekFCeWt2TXp6QlJsWXRoN1VLYVUxMldlTThLSnhpV2dDcGJJSW5CU2NsclRsYTBpTDVzT05OVXBCdURYcHl6Wjl6MmJXSE9SeXBWUW5oUGdBMHFjR09ncTh2bGozWVhpdGJhMlFWM2xhYkcyRlZLZDZqNDVITEdHNGZkZzZpZjFiTm1PMXZHWmt4UmJkYld4enNkcU14S2ZiZ2gzbFdIVmlBbml2dWxKRnVUX1UxTGZTUDU4QWNBLXhtbFJqdDlSd3FWSHo0cklreGd3RFcyd3ozWWt1dmZxbVE5ZGR6cTRUTjdYZ1lxVERKNVhTdFJtV3Z4QTF2TnBlbVJsRXV2QkgyRVowZGQzMG1PX2ZTNkxwWFlUSkNyRVk2emg3SWpfT3NSMWltMFhfeUFEZ3RDU1JET0FFSjI2OUM0ckJJMHhrZWRlNWdzelpLbVNmRTY5cTRVc3ZwdEMzNzY4Q3VLYk56ckJ4amRyRDluamF5MDFsMVJtT2VSU0JiNTVGazIxNS1SbVFYQ19ka1hUNVVicjlYNnFDMG5SNnpWdUZQUWEtbEY5aGUwWXNIdnNuYTVPX1FST3RqZi00UTBTZ0hZM2owQmNzYWc1VjVRSXoyaEdxQ2U2NFF6OThTNW5sdURxaHJaMGV5VkxNQjR2Uk5hcw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 21:29:00 GMT",
+        "discovered": "2026-09-28T21:46:14.850769+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "دوري الأمم الأوروبية - إيطاليا تكرس العقدة برباعية ضد تركيا في فوز مانشيني الأول بعد 1198 يوما FilGoal",
+        "player": "",
+        "content_hash": "d2fe7bb75734040011dcc8dd40bf2acc2e413a2a3d32efe411dcd3c997e2e320",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 6383,
         "title": "كرة القدم.. الإصابات تضرب نجوم أوروبا خلال فترة التوقف الدولي - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
@@ -2132,22 +2148,6 @@
         "summary": "سلام بحث «اتفاق الإطار» مع روبيو على وقع التفجيرات الإسرائيلية العنيفة جنوب لبنان القدس العربي",
         "player": "",
         "content_hash": "8559d021b04cd79fb03d8b09c79d4d7df40e96eb1e563691ccd5a223d3023966",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 6020,
-        "title": "ترمب يتوقع إجراء محادثات مع إيران هذا الأسبوع: يرغبون في اتفاق - اندبندنت عربية",
-        "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxNMjJncUFBdGU1M2N6Q2F2dklqMVJJdHJIcnJuNGdwVHhKOE1fMEtSUUFMNWFvZkowNlhDMFR3V2dFZ1J4a1FmS0xLeTR0VzdEa0x3aVE0Z3VWSnVDeFQ4Z280dmZhdFdTZGVjcUNIdmRXeFRFYXpDcGRIOUF1U3BHNnMyTFp4eDkxdzU2aG5kQ2RDMDFxMGlOWHdvSjljRFZKUUprWl9RQWg3dFhhdVNMbVhpS2V2S0ZCenlRcTlLeHJMdXFzeUJtRFpiQ20zZlh5VGVXUElEc0I4XzJBOHZBa3hCYmcwOHpnWXY1TU1TNVNqcUJ1Sk9DTkFQNlpheFpySVVSamJlQmwxYnVmN1RMWXo4RkdFTW1zb0QzRkltRDlWYWNtMThIRWxPYWw5TzNYaFdXblJjeFVNQ3VFOHh5WjMwT0N3c2hjVUpfNzc5RDRUaWk1b3lrR3R6WFp3Yk1KVkVLMzctZHJyTndYaGlsdDByVl8ycEdCM3I2Sktkd3lPMFhMbHNuTHlRdGdwLUp1UURaOWo0d1dHWjF1ZWxiWENhVk5oT2tIUFRXZEUwXzZvQUc3bE13RDRSS25IN0l1dzBVN2lKazAyNDliTk56TGYweW5IeEMwMDE0d3hDOWh5b1pLQ1prVzUxVUwzUnVQRG5NR0ExSlVuNjBRTUFVNGJwdVEtVnZ4eDh1dDYwaEVLbEd2cUxTYWF2czlOcGZUcFlmQ0E1VFhOWUFmS2dHMjNqMl9aZFFFVG5Ca3hJaHRNblAxREIzQlJZOFhXSkY5bmxJTzJYMHpLMmx3N0w3SU1R?oc=5",
-        "source": "إندبندنت عربية",
-        "trust": "C",
-        "published": "Sat, 26 Sep 2026 21:36:19 GMT",
-        "discovered": "2026-09-27T18:31:32.894544+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "مفاوضات",
-        "summary": "ترمب يتوقع إجراء محادثات مع إيران هذا الأسبوع: يرغبون في اتفاق اندبندنت عربية",
-        "player": "",
-        "content_hash": "127889274c8e4ad35abfecb8911292654f03832101f6c6f72e51dca8e2dd5c6a",
         "sent": 0,
         "section": "transfers"
       }
