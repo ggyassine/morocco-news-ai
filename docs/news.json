@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T15:41:19.558907+00:00",
+  "updated": "2026-09-28T15:56:19.276023+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -160,6 +160,22 @@
         "summary": "شرطة الحدود شدات البامي عمدة طنجة اللي كان هرب من لبلاد كود",
         "player": "",
         "content_hash": "f30d76284c5089ec48c03977fb135e0f51915e2be26f441c2d13348bec769c57",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 6305,
+        "title": "توقيف عمدة طنجة منير الليموري بمطار ابن بطوطة على خلفية قضية الأوراق الانتخابية - العمق المغربي",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1DU1o3RVFhN1ZKdklvcFhGLWR4VlE5YVQwZ2Z2NGdSRHQ1Q2hKRmpiMW9ja1piMkVBMDFVVEFNR1VkRWNEMkE?oc=5",
+        "source": "العمق المغربي",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 08:16:23 GMT",
+        "discovered": "2026-09-28T15:55:50.387959+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "توقيف عمدة طنجة منير الليموري بمطار ابن بطوطة على خلفية قضية الأوراق الانتخابية العمق المغربي",
+        "player": "",
+        "content_hash": "db4b720d0210bd520da12eed0c1de112d249fb0194d7479dca12a80ceebb7c5a",
         "sent": 0,
         "section": "morocco"
       },
@@ -642,25 +658,25 @@
         "content_hash": "a1b0309fa6498638a9743f8bd9f64f0d7d30e0ca4ec4fb03a08129a0c8da59db",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 6207,
-        "title": "تمديد أجل إيداع الترشيحات للدورة الثالثة من جائزة البحث الاقتصادي والمالي إلى غاية 8 أكتوبر المقبل (بنك المغرب) - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMivwVBVV95cUxQMk52RGJBZmxyd0JBSVp1cU5hQy1nWEtLY3R3Qjk3dktuNUExYVhBand4aUtzeWdNYVhrQVY5ME84dUdiaTg1SmdDZDY5X3oxeDN6RkR2Zk1BNzF0VWNseE9WbUt1UFl1aEZZOE45TXdIMjlSQjFtYzM4NHFlU1lGQUFUaEc1UzdRdlg4THNWUGNfT1VmNWgtbkdaaXQxUHlVLWM1aHVISDhCOHcwYmZST2xvejVIbTE1dlJFd3VJelcwVzRzejViOGx1eU9Ic1dSMjhRcGtyekx0ZC1sVVk5LWc0VFg0ZDdzTzQzczBYZWlBeGRpaS1BWjJkYWpzQWU0VExtSm9lTlc2LU1mS1l2dkhzRW4wbHJmUFhUUUV0X1k0Um43WVNKdmh2d19YZTk2Zm9GUkduVkdvd09wZnc0V0VyMDlnWWZLbUw2VkhiTjQzOTBiV0pMOXhtX05PQkJhUkFNaG9hUkRNU2lDenJmVXAzalNzQ1l4RUptWXhhX0tEcE5ONVZHVmdWb2lRVWNBMlFKdEJjVzgwd0h6SldmalZxOTdQSUVFa1pLWHc2RXE4WU1fQ1NmbV96S3IxVl96NUdJSGtXX1V0QXp3MVpHQkpwcDhPSnRYV2phbVNrLWs3ZXdEWjZqNWJ0QlZNa3I1ZmVVaGJZVGRMTUprdnRtMC0yVFNrV0p1dTNuYm1mMC10c0l5U3FfQ2w2bWUtU3NuV3RIeUhXYVdHRXFVUDlmd3J1LVE5VXlPYVA5MVozYks4LUZtbXpZc0ZsQ2o4eEdRQ0VTeG1aY2c1YXBsMlpncHRGa285eVVPdXNHa2hBQk0yY0l5cTUydG1CTXhPeFVBQzZXak10YkNjNVdHM2hrZ1JJUUFYVGtTNWN4UGtuZUVYaURrdVF3Y2daanp2cXcyTUpaZHk5QkRsVEg4WThJ?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Fri, 25 Sep 2026 16:00:07 GMT",
-        "discovered": "2026-09-28T10:23:10.116008+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "تمديد أجل إيداع الترشيحات للدورة الثالثة من جائزة البحث الاقتصادي والمالي إلى غاية 8 أكتوبر المقبل (بنك المغرب) | MapNews",
-        "player": "",
-        "content_hash": "1f6cf80a395b0c9ba68d0cd8ffd19cd3dadf2a4ba5d79b744675dce77bb4dcb3",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 6306,
+        "title": "بصمة الدباغ حاضرة.. منتخب فلسطين يتفوق على طاجيكستان وديا - yallakora.com",
+        "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxOM0t6dmdER0FXSVRwbDdZbC01VjkzRFJrdFdKWXdWaGhmem9KcXJiWU04REd1NW8wR0xfd0FtcnpKbTFDZVJIOW1tZUxaT2FUYklnZnBhSUY5Z2NDcDJRS2VEbk56WDhxRlExTktpaVFqZFdta3Zmd1lrb0ktNnRxLU9VZVNjemVQZ3JIdW9GUktIZ1FEWndXN3lZRHVneDR2Z1ZtanhKckx5T1NLbWgwSjBPNzBtdlhVUlZLdm4zX28yOG1sVk9fNkZZaHl0VV96VW9vcUNNX1V4YlZIclJhMFcwaTF3TmlXaDBRWnVyamZhQ0NLaXJOd25IRFRfUVJpV3FIQVhKNTI3V3VHM2g0RzhlTTlBajNzeHFVdDR3dGk3M2FZelUwd1YtOWxmTjVLYTNad2tXVGJBYXFxSVBfOVBmZHNmTmdUN3J6MmM5X0t5OVJOUlU2d0Jta3lnakozcmMzUEJzWExHUUVSUXg2eFdGdjJHdzBiV1NydENqZTVoOUh4RmEzVjVINE9SQktNMGFEY1dpaS14Y3hXUkMwVG04aXU3V2xDeU1LOTB1SWRNY3lhY19WVE9BMHNtdmxiY2IyWDBFQlROeldfbGs0WjM3V3ZIRmdrTHdvbzAzTkM3bUtyQld6aWxTVW41SGpZS2FadDdpTFprUdIB_wNBVV95cUxObVktcnl4Mlg1bkh3OFprT3hNcXlMOFZPNEtVMGZaQ3hMN0NXdEZJU2F2cmZ3U0pQeEhtVG1Ma1FSWFlGcW1kZkptUXEzLUNEd1J3SkJJNGZLZ3Bidm1tUVZuWDdzSUZVYWN4TklrVEZGRkNPMmpzRFo4NW9DSU5CNUxXeHNCQVlqTWFSVmJmam9ieDVialZCOVVqS3MtRTFwTWdVckQ0aVZDTjFDcV9COTFYTEVwNERubVZmU0Y0bkx6czFjdXJwck1wOUoyZWJJcHF3TFdFVkMzM20wNGYwdDNnQ1pTLUF0c3d0Q0pDcUg0UEIzLUFmSVpVcEtJSkRSeXlyYnl6dDY0T1FscWJZS3Q3dk5NMTFlcDNGd1hzV2xyREd5Y1NyNWFoM196b09kaEFmRXRRMEJLZ3lSN1daSG1mRkhvaERNaEthTEExak1Ob281R0Q2ZG0wTGsxLWRkTnhOTzMwN0NldFRmc3hHM1lPb3V0NmNOZ0g0SnVmMVh3dTVxQlRsQU5lM2hPd2tHMXFxZlV2WllEak1zdUVValNYTVZ4LWNPYWpPZTlFQjZka3pMTmtiYzh3LTA4dGY3Qnh4NzhmdTdCYmpLNFhUa2xfMXMwNFVIM0dlYVFURnFDQW44WmFzQmpvYTVhSWZ5RmJBY0R5QS1CTUNvZ0VJ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 15:36:00 GMT",
+        "discovered": "2026-09-28T15:56:02.711365+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بصمة الدباغ حاضرة.. منتخب فلسطين يتفوق على طاجيكستان وديا yallakora.com",
+        "player": "",
+        "content_hash": "0541a7a009d58dd510f2138ad042e10a9ce5abc8047dcb4b618470c5615fc422",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 6300,
         "title": "تشكيل فلسطين - رباعي الدوري المصري أساسيون أمام طاجيكستان.. والدباغ بديل - FilGoal",
@@ -1126,6 +1142,22 @@
         "section": "sports"
       },
       {
+        "id": 6308,
+        "title": "الجزائر تتطلع للفوز على بوروندي وتجاوز أزمة آيت نوري - alquds.co.uk",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxONENnbE9XVFJnSVVfZkRiS0VLZDlLSExvUF8tc1EtMTNjZURDME11OXQwcWRKbTFRaUh1eFZuUGFPQ3JNOUJLbzZGZ2RibXI5X3lnYlVjcWlfNDQtQ0JEalFhQVE4TEh0emNtYWJHWHQ1XzM1YkIzdHNzTEY1eXdROXpZNkZUc1I2ZFN5QVVqdjlVMVJFSTNJWEE2VVVPajZ6SDItNGF3djJhNGhueEVtd2lxVjkxMWU0WlZHT29mbTBQdmNCX1VSNVFoQ01aUk9UMlhvTkJucEhZSlZyZUoyX2VzMEZLYWZnRTU1ZFprc1o3dU4yTVllbjlxSWMzbDR4bnk0M3N3RnNtMm8zY2NpdFB1UjNaTnpneU56aFBLTElHdTlWR3YydG40dDFBUkdiUXRWODRiUTYzYlplQTUyMV9fdmpMQQ?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 10:51:44 GMT",
+        "discovered": "2026-09-28T15:56:14.610970+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الجزائر تتطلع للفوز على بوروندي وتجاوز أزمة آيت نوري alquds.co.uk",
+        "player": "",
+        "content_hash": "42cb274054fc87ec7a5d8ad74caad2e09733e55ddc034a569b1f6dfbe6f30eef",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 6215,
         "title": "موعد مباراة المغرب وليسوتو في تصفيات أمم أفريقيا 2027 لكرة القدم والقنوات الناقلة - الجزيرة نت",
         "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQd0ZRMzE1ZDdlM3AwN1prR3NCWUlORWs4ejR1aHNDem51Qjg1NllXV3Rubktpcno0YU4wNEtCQlNVSHl2bmJUcjN6b1MtZ2p0OEFIMTdRdVFwRnJSbjBrZnJEaFFIYW9SazIxbWpEUDllQ1R5cFdMTU1tekV3QlNBZzVoajUzU3NPSDVGQmdVdVJVY1Izd1pkM1Nub3FuTExyaXJmM0lLWlBJdFhZVUxob0ZZaGNTYTNDT2xaNEVqbF91b1pyaDNyRWhLS1A5M3ZucFYybmxROWY4cVR0cXNlaDU4ekJhQndNS1Ywa0FFMUh2d3NPSjV1LXM5U0xCWXJiY2ItY3NTUk9lMnoxQUgyS2FHX09Tai1pUFB3bVR1RHRWSGEwTVRQbHdDN1Rfdi1jakNjT3Mxc0hGT2thX2Q4MjlnSGh5ZDBwN3VvSXNTYThMNTDSAdgCQVVfeXFMUG1rUy1Cdm1nS1NQU3dnU3RsNFEtRDFjMnVVbFdKM09vbjBlb3RUR3RPQ3IzX29xZjE3T2ZLYTd5Y2ZKc1hmM05teTgyNGdzVUIwbWowTXFtcnNaUDVLUjRuS1VHc0JQR21lb1BxNkpqd1hfZXhDQUhMYkZKYndlc2FhaTZwZW1LR1lJRGloQUQ2X2l1TlVlWnZQM2g0VmZNdkJOTkJ0WTZQdUpSRU44cmdQT21NY0E4dktTT2ZzOUxUTzlmaHFhazkzbkhlZ3ZfWGdOSFlkcWF2MTZmUGNMemQ4Q3B5ZjB2VWxrRU92ckVNVjJqRi11UF9rNE9aS1poQk0zR2tnRTZfU0MzZC1HeGdIeE5UUWhJa1FPUTI4d2ZELU5HeFR5WjlQb0oyLWttWi1Ka0djLXBmZmRWT3VtWVdmSWxlckg2LVJMeE1faHpXd0VVTnFKNlM?oc=5",
@@ -1426,38 +1458,6 @@
         "summary": "شارات سوداء وعدم مصافحة وانسحاب لاعب.. القصة الكاملة لما حدث قبل وخلال مباراة أيرلندا وإسرائيل CNN Arabic",
         "player": "",
         "content_hash": "7b008bc2100c70b726d1548e8aa6e3da4b18ce23350e861b3a10395dfdaea5b3",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6190,
-        "title": "في مباراة البرتغال والنرويج.. رونالدو \"الحاضر الغائب\" ينهي سلسلة امتدت 18 عاما - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxNeTR2bmRXYjNSdVhYOVdLRlByem81cXBNaGlwY0UwR080aUpmdFh6d3BNVUl1REFNUDl3WFNVdDZTTFp0VWpLXy1ITWN2a3NEMlRkd2FBc2U2d3hrMGt0LWRrX1RaUFFNODdGU0o3b01jRS1UN1NicUloQUpNWWpYaHp4QUNmWm1LYmZsZ05jcEsyWjlkMVhZV1FOSzlaOWk0YkIzd1pzd1FMVUVsdXY2WDQyNmhLQlNRRUt1bDU2WHlmM3pQYURtclh2V3JOcEVxYmlhN1M0dVFDZ21OblY0UnVwZl9CWVhITDFDMXQ0ZThhT1IwVFZTWmxoT1lKWnc3MDlUVzdJakY0UmFEQklRYzR3RFJmdDcxWEtoMmJfaVFjZ3c2b3RMTi1zRWNqUVZJYWl1bFQwTUJ2dHY4SWFtUU5id3V0SGF5b01DdXIxYlNfQm1lLTl2S2N1MXY2aHc3ZUZkaVlXYzN4bTRkR1VtUHlmNE51Zm5xWUxuYVEtWVpJODFZUmlkYU9JcFN3X25IVWt0Sl9adVJnU1NFSW1XejYtdXJQeWt2aTV0YkxEb2gzcl9SeTcwdmNMVHpHdnRXM1I1elJDY3g4Z05iMjRGLTBpSk8xWjFHekdNdGYxMi1rLXBvQTdYQVZRWmxoaGJTay1Rd3h0Q2Q4OV9nam1Jakh0T0ZScEVyeml0TEoxVUY2Z1h4bDRRSWc5b1V1ckM0a0xwNXU2SkNaeUw4ZXVDR0VCNU4zbU5lNjVuNVdKeTd6bzRQaVVCSVJIUkh2NUlhWHB3ZjlZRThxV0R0N3pGU3RCa0Rtc3ZpZ2fSAe8EQVVfeXFMT1I3dGNqSVREcVRoeFpZbG1ScDJDYmJVMWpNZXVjcDZGMlJVanl6eDA5X1YweWJmMXAwNkNJalVIRHNUaG9qRS1JMS02SUYtYW5HYzFNWjZWYzdVM0JRN0ZxWUp2WUU3czZZT1FZdWVhSTRKSGo0NEROWmdEXzNUdmRrT0dpSW5CWWJFRDhyaEh0aTJfVnBWdG41dHNVM2xvRzdrSzdXcHFDV25HSWZ6RmNWV3k4cnh4Tk1SQlB5TVVBa1RsNldjUERBZDB1RTVySnJYNFJfRW1oWUgzVDhsVjZJYVpFX0VSR3BHOGloVTVpbjQxVEJhdzdIUm5MOVdWX3dBcFMyVW9yeXBWdV9qQzRrZHI5NlNNSl9RR0dwcF9YcDE5TlhHQ0ZJamRaZWdKVFpTS29DbGRGV0ZlLXk5S1hUdmx4WmJOM0JZTTBTSktuVWdoODJfc09QYVFXUzgzNjVaMmRlOFByTjJ4bmRFb0l0T0hHRUZYU0xIeWFnNjVTV09PRGVocGZfbDRhSG1YZHZoVW5mNVY1RWpoTlFBS3RfN0QyUG4wN0RYS1ZzaU5uOWZDYkVhZG80cUE4V1AzZm8xTkJZeG1VSENaMlRDTmlEVVZqSzAyRzROMHVjUmw1WUM3UGRIbFljSGtzMDRaNFdhb0VkbDRLWHNXamNVd1B2X1hRd29PZnoxa045TTlocHU4SUNWWS1xS05QWGcySG1Xdklod3I1elpfRmtoUXczclF4b19JMXA5S1Q3akVJVFZRalQxV0c2NEh5bi1sYTdPRV9uS3MzQ25VYWJQbFFKMTNrdERwdlY0c2k2VEk?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 08:06:00 GMT",
-        "discovered": "2026-09-28T08:27:48.689340+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "في مباراة البرتغال والنرويج.. رونالدو \"الحاضر الغائب\" ينهي سلسلة امتدت 18 عاما يلاكورة",
-        "player": "",
-        "content_hash": "4758d9bae1952cb06865bde2610ceaa2674937e2ee3b3e9ff92792f53178d240",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6202,
-        "title": "سعر الدولار في مصر يعود لتسجيل المكاسب - العربية",
-        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPZ0FEYjhLekM3bmJCOXJoUGFOUzJrZFB0X3BtQXhtS2tFUzY3Skw4U3B4c0VMR2t2TnVxWHRSZjlCVjQzZXJMY21uRzIwdFpaVzMyUGpncmQ3aEYwWXR2QVlCdGJwbGdKRk4xaEdxQXJIQk1rOFA0YWVyVzB4U0FEX19CWlg0QnBtT1BFVmlzeVQ4RGFrSVdaQ3NCZnJzYi10ekZaZW5XM3VjWE4yLWxnS1F0X1JETVl4b2hKM3ZYVjBsNDN6WHIydmNYZERwMTRjcnd4ZFBqOHVGd2l5ako2TFd5UDgtTEg0eDF1Mzk0TmZDZThzU3NNdWdCYW1wLTllcldfMHZudVRPVEt4dlRNQ21EU3JNdGJnc3hkdTByOXlvR1FRVlFIcTgza3p1eXBqVndCUlUwaDBRdGFkdmJPRjFyWTZPV1JEUWRGb0RTd3B3cGFteFZQeWk5NTd2MmU1eWNuTmJFVHUwRU5KbC1WckVqNNIB-AJBVV95cUxPOENELVJFbm1OWm5UQlNuTTF6dlQzVExjb2pBLUo2OC1DdkdtRURaVU5GemRzUUdyaHh2QWRwR2h4dVVZajZGZjlnelBIelpDMEhRRVZ3YWZ2eTVubENTZ0RQU3FmQnZ3ZFZSWmtncHgwa3NScF85YzZ6VGhvWHJReVdmTmtER2JxMnRRc3FoVGRwdlF6YTJibEZJdVY3aWJuSVpkclN4Vmw1U0d5VVFTbDlBcTRGVFJZdHRqem9fQmx2X3duMk9ySjYyZ21rR05lWENNbGRFNG9xRkhSdkpsR0tTQ24wT09WTkZvNzB5Uy1OdGZGeUpHM21sdXRsV1lzZHpueDVHaDN2UXpnd2p3UktOb1IxekFwM3NQME16UW5KeUc1VEtZTjZadEN5emtabzZxT25lUkw5VnJtMGR4WVFsV2Nfb1ZGQ2dRbzZWWVNOT0YxNDA3cElQUlIyVlNRR1ZMcnlRZ3pienBMZ0Fhc0IzS1l2MmFH?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Mon, 28 Sep 2026 08:01:00 GMT",
-        "discovered": "2026-09-28T09:52:07.531623+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "سعر الدولار في مصر يعود لتسجيل المكاسب العربية",
-        "player": "",
-        "content_hash": "7e99e162346f3fd896626f86df7624682337dc3f613757d0a5c2577fa3ff2a37",
         "sent": 0,
         "section": "sports"
       }
@@ -1958,25 +1958,25 @@
         "content_hash": "617a5e297bddb3be0c8dd837a028bc84f8ee073de56e8d48da8e99835fe4cb7f",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 6261,
-        "title": "الرئيس الصيني يتوقع لقاء ترامب مرتين إضافيتين هذا العام - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNcWM5QldqRTQ3UU16TEs0NzJiZnMzQXFnZm5tZi1WQXZqRlVueWVUd1oyZzZveGE5NmFUcjdxMUkxYnBwWGhZY2hSOWtlX3B1eUFKTmR6YTZFVFBhS2VwMUxMc2kyMldMa1U1YmFkODAwZldtWmVkNExYNXA3ejVCZVlUYUUwLXd2Tk9nM053ZF8tMHFDbDg5MEc1TXVCNjhSdE51SWgyQUFaSFRBMkFDREo3dV9rQTd4WmZTeWpLdWxQN1VTajFuR2FaWTVFMG1wVUw2cWVkNl8zLUFkOHhsRVNmMENLUU9rZWJTOUQ5Y1ozbEh0NlVkVnVWcWRpOVU2VUdpZTlrRVRxMXdQa1N2dFJlOHY1X3o4VmVyTmtQMkFzQVo0N0dFSHhkUUpiOE5PS3puZ1h2bk5NbzB0SE1IdzlFT0k1MjluNHA3b0E5cXFraDFRVUxWT0pzM3p2NzFiZWVXSGozM2lvdUtBc3dZX0VXNG9US1JHdjhRVzJhcWlxMzVPZzgxZHRvdEhnSHdtbm5FcHhnb0NKdWFRQ0xMeU9oNmsyd08wVlNCdGZNb3BJQ0k0VC0wTnlhcGJPVC1nTnc4OFJ3eGFtZHBRVnByaUttZG5Ybmh5Vmc?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Fri, 25 Sep 2026 15:56:00 GMT",
-        "discovered": "2026-09-28T13:23:22.702302+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "الرئيس الصيني يتوقع لقاء ترامب مرتين إضافيتين هذا العام سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "fa8b10b751fd5948487d172427d8db0cf14bb92c8010062d4a034ea1a056b9e4",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
+      {
+        "id": 6307,
+        "title": "وزير المالية البريطاني يعلن أولوياته: الوظائف وخفض الاقتراض - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNM2R2VUFlN2FueXFjSmszZ2w2dTNUdEVwSkpxbXVkalBocF8ycmMwNU44NDlyeUpJZm1pVGFVNWcwWVFacUphWTU0NGI2SjFFV1ZkeTJUcFVZUG43TDRRbmw5RzJJcjJpSXNxNlhsa2pTT20zUWtOdW00VlJsZHZTbE02a2cwMzVKNm5ia1I2NWo1RmE1SjZqRlV6c19pS1VOckNmd3dlaGt1Y2swelplTkFVanpxV254Q3lYRk9ET2xkU1NXczZaLS02MEVRV2Y1OVVubUpyZXJuWDVOendrUzlDOXNyeUFXSVJqYU1oWnVMbG00V3czM1dCVTZ5aDVHZm1aMm1QdVh4SmFCUXVzdnF6R25qMzAza0hUWF9sQ2tmQ3RQcy00WG90Y2VRTUxrSGNJT3ZNU0lnTzBsTDM2RjNDZ0dXQVVmc19RdzdRVGpmMXdKd1JqaDV5Y0l6UktXX1RPNm1iX3pabTJQaWg5eXQydG1kYTJ5Z01uUTBES1NuWTdMdTUzWjM3bk01VXFycFlPOXZoMXdsaGViakxsVGdWNkxrYl9iQk5iMEF1OUswTHA4Zy1RZnRfWUpON3pjTHpTMlJ5cl9FV3RWc0xyaWp0UEVna3NxeE43UWFCZ3Y3Z0djLTFvRk90WdIB8ANBVV95cUxNRklHMmxwZERlMDBid3VnSzl5MXRRVzNmUkRFVkNPT3JkakR3VnVEWkxTbHNOWll1YnJzXzdycXFPZHE2a21HNWVnV2ZzMDJJTFkzTWlXb3pIOTJGS21OWGwyeDNlMTBVUEpBNUZiWHliX1d3M0ZiQ3EwVVpDS1FncjUyRnYwYl82UlZiaWZRZ1lsMnQ4ZTVUcEQ4Q09ib3UzNVZGNC1lTDh2T2hvYnlNRGh6Z0ZxWnBpTzFBZWc0cy1LSnNtZlJETC1jczZ6bWswaEhQRlFpcE9LTk0yRFZYYWpaU0dRempBMk4zTElyRktEVGYxWmt3cWJJbkMtZ2NXTmh6RlRUamdPTEpldGZIenItV2hKV3M5X3FUY1ZjdGp4dXFYSUdOZzV0SmxkRzhhRUF0LV9yWWp1VG11RFliTURSNWF5RHFmd3piZVVDbGp2eHowRXdjWHd5dkUzNlBBNnRvVmlQS3UyRGFPSHNEVTZja0dOTVFQbFBtQjBjZUtDWTEyMmVkbWhFVzFkaDFMQW9BdmZzQnUyZUpVUTRTWkpHcFROcTFrZlhEdk5KY1cyalVzV2k3Wi12UnRzUVRnQVd0UVIxR2RNTUlWQUpGRVEycVRBaVhublY5VWw0dlNydnBEUUp4SmVpQmdNUzNz?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Mon, 28 Sep 2026 15:34:54 GMT",
+        "discovered": "2026-09-28T15:56:13.877647+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "وزير المالية البريطاني يعلن أولوياته: الوظائف وخفض الاقتراض العربي الجديد",
+        "player": "",
+        "content_hash": "532f880c24d61e15ebe8c31182159e0db14c2f757a2c0ab86c037e580db53a5b",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 6191,
         "title": "من الحفريات إلى الضمّ... كيف توظّف إسرائيل الآثار لإعادة تشكيل الضفّة الغربية؟ - العربي الجديد",
