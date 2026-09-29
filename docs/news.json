@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-29T23:46:20.481871+00:00",
+  "updated": "2026-09-29T23:57:02.089075+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 6971,
+        "title": "مجلس سبتة رفض مقترح معادي للمغرب قدمو “فوكس” باش يلزم المغرب باحترام “حتلال” الصبنيول لسبتة ومليلية - كود",
+        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOOHFubFExYV9UOXdtbVBuel90S3IxZ1o2LVhHT3ZBV3ppQ00zRzdraGFRekV1QkYyQlYzazVHN3BaZmI4enRoTjNSNzBEdUpoX2N0OVhVbWRjZnVrVUZVc19EM0RjVm10eGljd2phZkp6eU1yNlVQWWFMYjdWdzNNRFE0NlJsdVAwQnR6NXh6Z3FKbi05QU1GY01Cc0Zrak5YTEVISXdWOUI3U3FlLUNzS1E2bDNGZzVYd0kzdUZYS0JSeWdUTG1FUFB0WjNxelZnMkw5eU1kSnlqV3dQbzNGak5RZkRDRGlMeTBXSVJwQTRndnJLdHJ0eGs1TGdHb3h6MDJZZDI4S3N3anMwc1J5VE80ODFyMm4zYzZwcnpWTXJHbXhoS3Z3bzZxR0Q3ZDVJRUQxMDZ0c0RreVAzazBBRTJtRQ?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 22:01:09 GMT",
+        "discovered": "2026-09-29T23:56:34.185917+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "مجلس سبتة رفض مقترح معادي للمغرب قدمو “فوكس” باش يلزم المغرب باحترام “حتلال” الصبنيول لسبتة ومليلية كود",
+        "player": "",
+        "content_hash": "bb2f1899dad66aa7cd7edc814a312e43e42baf78b05f406faed7100115fe66dd",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 6963,
         "title": "“الصوكان الاستعراضي” طيح جوج فأكادير والنيابة العامة هبطاتهم للجيول - كود",
@@ -1972,22 +1988,6 @@
         "summary": "مستقبل الصحافة... من يمول المعلومة حين تختفي الزيارة إلى الموقع؟ العربي الجديد",
         "player": "",
         "content_hash": "283c0f9d84dd7ef0820aefaccf002db38b162c34994b8c2a6a43efbc5c1784db",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 6471,
-        "title": "كازا.. من بعد مشكل لون ومداق الما فبلوك 35 بسيدي عثمان .. الشركة الجهوية كتوضح: الما مطابق للمعايير الصحية المغربية وها اشنو وقع - goud.ma",
-        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNMUVEbTd2emNYTTFtSjRBSWNpLVJGTG9SdmtEVHJVQXVyQ29ycVdRWEJnc01DTU5nWkhpeklhaDRURkVVZTU2c2VLc1hGLUxhSXJKTGl0eGNSTWQzMEhKNE9tMjJZZjNZaUN1dVBzazd2RWlFN1llVm9rMmNaMW0wNkljV0oyMUhqMGsxRlpxN0FTZldVTy1aclZUdW9aem4tTjdsbk1DbXNXaTdjazFpM2EzcnZLczJybF9iaDhlZW5PUjlLV3NtTGJ0eXM4MGpvT01ZR25CZ2RUUXN0NVhpUkVDQjlwRTV6cVpJVnRSeGZnN281SzZFZUo3YUdROE0wZndXdjQ1RjJkVjFoMDRWcE5RVWZQTjdCTXZ5bTNPNlpIdDMxS2RzbzluNmtCUmpzQTBCR0Y0clNacHE2bERjaE1tbDJUdVZhT2c?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 17:30:24 GMT",
-        "discovered": "2026-09-28T21:33:00.001280+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "من بعد مشكل لون ومداق الما فبلوك 35 بسيدي عثمان .. الشركة الجهوية كتوضح: الما مطابق للمعايير الصحية المغربية وها اشنو وقع goud.ma",
-        "player": "",
-        "content_hash": "9b698c046f14f39a9ad11104fbc6e7596efbce5678aa486d785f7b0839b37acf",
         "sent": 0,
         "section": "transfers"
       },
