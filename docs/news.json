@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T01:51:13.959527+00:00",
+  "updated": "2026-09-29T02:01:27.232299+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -2280,25 +2280,25 @@
         "content_hash": "ba1100b733acf980e4e3d08c1b01e1cd15f61252265770607d38ccebae3bfcd8",
         "sent": 0,
         "section": "middle_east"
-      },
-      {
-        "id": 6071,
-        "title": "قائد القوات المشتركة يبحث مع طارق صالح رفع جاهزية القوات اليمنية وتنسيق الجهود - الشرق للأخبار",
-        "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxQLXBpY3J6bDItNjRwTVRRZ3lCYzJ1UzdHMm0wc0tPaXNlQm84Y1BMMHEzcWtvdnhxQllKNE5UMWRtZ2NCbXA0aG11OFgwWTJWR1lKVVFhMXZlMTlFV2RKWXJnQVU1d2JVTzFSeUxtUjc3NHNIRXg0M3pybXlndk12N1RFYTNISy1ObGlzV1UwVktKUmRZakxkSWJXb3B3aG94a3gyNDdLVXFtU1BOQkVWM0F4cnlBRUZ2NVJObkFRWlRVRGtjWXVZcjZDeV9hZFJ0ZWlfb3kwYWhRaGFjd3czZlVlNjYwZHUtQ1JXS0hJbnBpU1llZUxkY3FqbnRVRDF3NWE4U0hnMk5FUUotd0MwLXRnSi1RdnA3VGJjUVV3ODlISDVsVEhvZHVkTEEybWJQU2NsRUFJbkQ0eE9SSUIwRzA1UnFXRHppUVdRa0pKZFlPamsyZnNEOXJ4ZGFwNDQ1OVBxSVhIRXBWVE1VZU5vejdFenFRdTUzeTl4UUpjazRLR05lUnU0cVROWTdtaWZrdklEeFcwUjV5TkdZWGQzaTN2NHcxa0VVOXltMHdiSm4zdnV6aUk2a01yMFhPMjI3RGltT3QySDN2VEVwZjdHR2RvLTljdmV4NGxQb0s4S3RmeW5uSERaUE5n?oc=5",
-        "source": "الشرق للأخبار",
-        "trust": "B",
-        "published": "Sat, 26 Sep 2026 23:19:30 GMT",
-        "discovered": "2026-09-27T20:55:43.535411+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "قائد القوات المشتركة يبحث مع طارق صالح رفع جاهزية القوات اليمنية وتنسيق الجهود الشرق للأخبار",
-        "player": "",
-        "content_hash": "38c3cb319e08c83d7aff7abd684307156d0868ffc3bc016cefd26129ae876fcf",
-        "sent": 0,
-        "section": "middle_east"
       }
     ],
     "world_arabic": [
+      {
+        "id": 6548,
+        "title": "\"زيارة أخوية\" رفيعة المستوى بين الرياض وأبوظبي تختبر فرص تجاوز الخلافات - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iZEkzR3R6WlBWUXRRZzgtUDBLTm5lb3UxMmd2VklWamZmVXVFMnNpd0kySWFWNEtyWmNQdU8wSmg0R1h2cnhHNGVma282UUdBWEJ4TzdnWUlLdFZZb2c?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Tue, 29 Sep 2026 00:46:03 GMT",
+        "discovered": "2026-09-29T02:01:24.729859+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "\"زيارة أخوية\" رفيعة المستوى بين الرياض وأبوظبي تختبر فرص تجاوز الخلافات BBC",
+        "player": "رياض",
+        "content_hash": "e41b553add3e4f6fd060706298c62e122621b41b33ca9d85a91a7573ba65fc7c",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 6388,
         "title": "اليمن.. هل تستعد الرياض لسيناريوهات حرب شاملة؟ - DW.com",
