@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T13:43:51.706733+00:00",
+  "updated": "2026-09-29T13:59:35.072983+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -806,6 +806,38 @@
     ],
     "sports": [
       {
+        "id": 6736,
+        "title": "المغرب متقدم على لوسوطو بهدف ابراهيم - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9obXFZcGJqb3ZwZEhxTDBoZlpfSU5MenFldEk2SU4xaEQwcnA1NnJ1SFFaMlIzdWotZlRPUUkzcFNDa1RfNEZwazRVRWo3azh2bTM4VA?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 13:52:39 GMT",
+        "discovered": "2026-09-29T13:59:14.460127+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "المغرب متقدم على لوسوطو بهدف ابراهيم جريدة المنتخب",
+        "player": "",
+        "content_hash": "575c9c194c840814aeb3a30dfee47136b7663edbb4a099504a53752d1677a3ff",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6738,
+        "title": "مهاجم الإمارات: حلمت بتمثيل الأبيض.. وهدفي ضد البحرين لحظة استثنائية - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQZnJzZ3J4YUJpTG5hX1ZjOUlBSU5LdnJLRk9iVjZ3ZjdmeEJlall0LTRWblR3T0E0dFM0ck9yYjlPeEZkdDlpSk5KN0NGdmVCalNoYjRlb0xQeV8zaGxva1NmeG5JWk1WTmQtSVByaUpSME9ISmh1YzdZTEJqaTFGZFEtUHd2QkUtTmo5RkZRX28tODVLckMwa0pjZ3kyX1J5SWlodGpCRnNaaGZVazItb3BweXk3NmRsZ3R6OEpJQUJZZTQtR2hlaUEyMXpMNFUyYlU5T3pCWVYxSlA0YjZpQ3BvUWpSeWpUSHRwS045MENNZVpEdVFPRW9tVlhhMUxYU3ROcVNrTzhZR1JtNVAxSzZvVkFHY0dOdHV2TDVzd1Y1Q25EZGtxVDNsMm5uWW1scmo0TEV1ZkZPRm9WWFJHazRScXpJd1ROU0QwT2dITHNFYk5RVzJ3ZzhnU3JRdw?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 13:37:32 GMT",
+        "discovered": "2026-09-29T13:59:20.915729+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مهاجم الإمارات: حلمت بتمثيل الأبيض.. وهدفي ضد البحرين لحظة استثنائية 365Scores",
+        "player": "",
+        "content_hash": "4522a6a15fecae3163559e4399ad1a651cf15d0bde6a98c2a3b182b52583067c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 6735,
         "title": "جثة الماعز هي الكرة.. تعرف على هذه الرياضة العريقة في آسيا - CNN Arabic",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGtNQ19FUEZESVpVd2pldmhzSTRrNk1mcnFNTWlCWXVlRGozdFhrQlFnSWhybVRXVTRybU1QaXY5eDVSMnpfMDRFbjFyYklKMTZtbml5U3I3eDhSTFNBeElSLW5vN2RRMVZCWWt1bVFzMFRXVldaYjRFdEltTW0wQUp6Z25QZWFoZDVtWmxXRlNTZkd6VDByaEVFWQ?oc=5",
@@ -1302,6 +1334,22 @@
         "section": "sports"
       },
       {
+        "id": 6737,
+        "title": "بث مباشر نتيجة مباراة الجزائر وبوروندي في تصفيات كأس أفريقيا 2027 - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxPOHltdFFfTUlWd3EyNWJQbGx4Y3lTeDdOSUZjU256OWwxX3lOcWtjN0wtV0pvQUFhNW1jeE9hN3BjSkc1bVM3YTBuVHhrTHpWYTByS25fMW1ueXRmR0p4enN0Q1lEbEZnX3p1ZFZWUUIyV2V0Rl96NnBDejU3UmdkZEtvbk9sVE5ySlQtWkprRUFMV2VqZHYyU1lGWWVmbVVnQ3JQMldNdjZGaTZhMi0yZEE5ak5YUVlBM1BwZFZWLXp1Mm5ydFVUY0UzeDJWeU9MWkRRaE1BbkFwZ0NXZzVGcGJEMEdPZWVtREhxU2RWNjE3N25IUno2MG95aFd3MXBabUJ1d3JHT2Vwd2p0ZlByQnBqaVhYaFlsTG4zUm9BY1oxcjFTWDNSRkVveWVBZEE3bjQxMm1fOE4zcXNEZ1M2N3dlWEZjbUk3R0FOREZ6OUNvdENkRVYxQ2VUdVBseHpNTE8tM0E1UVVWS3RlVzNUZ044TktUcU43SFR4WU4wMFRjRldTeHdXZkpubXB3TGYwQ0NkWFNja3NCalU4enMxRXExMGFOSDdScEJiTl81WDZfVXJ4V3BPN0N0dXVral9EZTl3bGZOYUN6VnNSekNhQmRpWGxDb0hGcTM1Zk1XX3NQVkktT19yRDdMQkNHY0MyRm5SMjNSR2pDNFFEd0lvajJ5MTFrMGdRWDdNVE02bzlxVXVqRklWZjh1by1HWk5fNmU2Y0MyLTE0VGUxcVdhMy1GRnp6RzNXRUdXT01sc1liRm9mYVowZVZIcmhSWl9JSTZ3djVEQzhtOHBCa3IzVTJXM2tuVnhFMUdIYlAtd1FWQjJZeE5uTjdFUzRaSzVVNGhv?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 12:04:59 GMT",
+        "discovered": "2026-09-29T13:59:19.112957+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بث مباشر نتيجة مباراة الجزائر وبوروندي في تصفيات كأس أفريقيا 2027 winwin.com",
+        "player": "",
+        "content_hash": "8bb2be228b3617d975d5500aa4e35454615af580f9d3ba974ac64b50562d4e13",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 6681,
         "title": "بفوز صعب على بينيروس البرازيلي.. الزمالك يتأهل لمباراة برونزية مونديال اليد - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxNcmNKbzFIaDBXTE1jd0dDQnRuMDJSMzRvV2VUQUpXTkhaZFhDVV9nczZ6WFNFMGZtQmZ0bllHRTJtaExnRTJxZ2Y4dTBTbmJOV0VoVVQxMDZIMjREVllyX093RlgxQ243QWVFRGdtUWRrc3l6aHprbWhKendtOG5wc0xJenlFcDZ3dk1rSWJ4ZDRiN2h5Y0FmRXg1dlFmWmhIMVlsZXN6MTBLZENCOHBVMEpyWDNkbm1UdGN2cjIyTkZRUGktalJES3o0Q1pueElhb0M1eVB1MHYwejZJNVVMYUJCSUFxYVJCRWxFdkp4SVplQmlHRmZrSjhUcVhpY3B5aWZ5UklvVGJJeUJSRFU2TXpCSTZxNGh4dnlkR2d4a3V3WTF3TWxFdzg0ajRNdTQ1QmR3TTJiQ1JKNEk1OEhrb3lyV3kzeS1rWVYyb1Y5Mi1rLXFvZm5OVzRIb3ozZlZoU054d1JTanVmZzdZZ2V1MHg1RXZrdDVsZmlaM0swOXFzbXc5NlhQNFpjdUVVbENJdlZJLUR1M3Z5ZWFfcGxwSk5pUE8zU01uOEZLUEFxQjBCeWJCNHEzc3NLWEZyVXBfUjQ0bVNhb293azNRRzk5b1BaR25sVkNfZHRGdm9WRW9ENjhDaTJQS29vWUFtaWswSzZTYmlUbTVkZ1JCczVBbnJZZDZ5NE4zbHhoRU1pNEJ0RVJINHBEQm00NlF5VWhqbTBDa2F2RkFaa0Q3YlRDOThrLVROV2pRUzFLaFRqVlh3eG1zeHpNNzNUT0tpWFZzQ1VKSFExZW1PSHQ2ckk5QVFldUdGNFF0Mnh1cFROSFJEY08tMExr0gH8BEFVX3lxTFBzN2ZnMVBMRVF3Qzlkd2I3dkVCc3hUM3JWNnBtZ0RBZkl1R0twSEF1aDJEMF9UM1FGQWlXUi1aV1Uybnp3M1UxN0dJRFgzd09oT0VGUEF4REJ6SVVVNzgzcGRqZ0x4YWVzY1NJaW9NSHpaOWJCa1IxT0pBRjhOYkJwNGFTaF9CTkFkNTRZcENXMEwtZFRsaFpveEpWNW4zZHhKNloxV1BDSmZjR2s3XzBIN0FvX1dzeE1QX1RaNHBRVnRkOTRVS0taZ05zTlBJVUdNa2lYdjNHOHpzWkRyajdZMENvcXBoOWxZMFVlZTRuSDJRTHYwX3ZnYngxelJ2WVZoNzVCZEg5bnFqUE1Kazh4aWpsbjhSaG5yYzVOeHhYS1NEYjhDLWlZT3VpQUY1S3piclQ2VDV0V0JlekkwWTF6TGJYQ0tiM21zbkpfZF9IWHN3M1FucDhGT19nUWtlTHNwUkZhZUNHM2g1WnowX2RYZzBiajhBX01ReGFHZElRMFdaVEhlTlpQNEJ2M0VmXzI0QmpRX2Z5UmNEaXZMbjB6aDkzTEdHTnJTSjFVajFTNnNnVXFtbmUyX2RKajVzdzJ2QWx0bjRIT3ByRXBySm53a1U5NVpjOFNnVDB3QlAyc2VsdWN3em1FMjVBY1lkWi1LY0U5dGJfdkMzSGZ0R0lJRXNyeEZDLXdrTmxjNzcwQ2JvZE40WW1JMzYxYjRUdm9oQmp1RFFGOTFsTGtDemtTVVJ5ckFVazNKb3pEdXl2emhDUHBNdEpWTVV0dlZ0VlRDbndITVhLdWwzekRiZy1UUHN1VnF6dnBMemxBLUFOZENmZldYYldyT1ZLOA?oc=5",
@@ -1556,54 +1604,6 @@
         "content_hash": "2ccb7ea11b464dc74f78bdd8c790ffb25b783db3ff4c135d8a0016610fc1d95f",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 6636,
-        "title": "أورايلي يغيب عن منتخب إنجلترا أمام التشيك - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNNDRtVDJpazdLNGlOM21aMm9mNWh1aTViV0ZTN1pMY01QSG1jNHBzQWlhS1A2T2JId19uaXNrdXBXS2cwS1cxWDVJdVZXd3dhbHNwRlVPa0ZSTFVIcVJEbkZ4dlB5WmtCQ0dFMUY4VkRNQmtXR2pEcllzQnlXaEJhdl9WSC1FcThTVzU5WGREMWJteTdRQ2FseXlZdmFydldWLXE4UVljVHNJdk9pcWRSczZ1cHczSHJIRzdHN1dIZWREYmMyUDZLRGE5XzZnci1jSTRabm9lOHpvNUpHWjBWY1NTS2l2cmpYUGdzSkNEbTl3QW9nbWtBM0NtS19tZkNXSHIzM1pSQ0tqOTNJbDZybjIxbFoxMjNvQ0MxNEZrc3JQaUcwOEdWeElocE96YTJyMWNEOFJobE1BV05GY3hjNlU2N3JwcTIwaTcwRFZXRkxIMmhNdlIyS3hUWEFlYi11a1JyVWNPTjBCd0FzS2gySHd30gH3AkFVX3lxTE83Zjlucm1GVVFoalZoUVJUMG1hYVNoWHB4UWlYRDgwc0I0NDlDUTZVMHhzeUFvSjh5d0xJYzQtb1dsUkVGYVlzQUtkUU1CT04xdHNGZDQxTi1lNTMwbUs5aDJKcl83WExUYVlFNHl0SDQyYUo5TmVPU1FTZmNzajY3Z2JpNW9vdGpORDhNOEJkc181bEJjd3FKVTIteVRBV0RFTm1ZSTNIQW1BRkQ0NVlLNDB4bW9Id2Zzdkh0S1pudEV0R0FDY05wSjdTWGtsZWVPS1Y3LTkyVmVpZnRmazZRdGFJQl90dThkWXR2NDNnRFduQ08ySDlraHN6cDgzRUQzam9ZMld4WXBQX0pPUlJvdnc5LW15a25yQW13c0REYnQxTGJqVkV4SjdIMlJnSHl2cWhNOWZxejYtd05EX3A2ZlIzOHk1eFlCNGdHUUJQRGZaVWpwUF9TbG96UnlCNHVjTjdDN0d1X1JoQjFBME9JZjZXR09XWQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 09:31:00 GMT",
-        "discovered": "2026-09-29T09:47:25.485754+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أورايلي يغيب عن منتخب إنجلترا أمام التشيك FilGoal",
-        "player": "",
-        "content_hash": "917c27cd821c11642876ee543360b498658ea8dbe114a86bd66c2b27e1ad56ef",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6664,
-        "title": "بالتردد.. قناة مجانية تنقل مباراة جنوب السودان ضد مصر - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNZTFROG5NUW8yZllraDRxdDNXR29GVzNwR01QVTF2UzRHVjBsLXoxVnRNTDRlejNITElzVXhSQkZLa0tzZlg0Mzl2NjNRbXZpTU1xcG95YXpMUmZXVS0yVXhLZ0JaVkQ4WW1SODJDanBWeXNGQVJOaFF2R3kxYXNVS1R1UzhtbkM2NkZBSkNZR1JxYWh2R3FGaW4wOHVIcmJtNHVjWjAwbk9VM2RNZjB1WmZUeFQxakp2OV8zdENSdTN1bGw4M044OGZiYVFpLWxlQU1pcTh0Z3Y4cWtwRGR2TENKblREZlNoZ014c1lZUHR4dDQxSmQzM3pnUGR6RkJnNlJxYUF3aUYwazZlTDFhSEJYaHEtV0VGaWU0RHo2RzZnLUtIRWFwU0tSN3R3TkhWejd4NTRzZXBSQk5xWkJZX3lCOXhudU5LeFNwbWpWVEVqMnh5bGFGNUVTUThNQm9wZVFzempReGJ1UTZ4RFdneUZTcV9fSE15ZVN2aEZidXp5N19GVUlyYVRTN0FfV3M4RHlWYk1JMkVTTHFGaFZMV04yUC10ajBJWC1YXy1jTzdoRGhXaDczSFR6ODhNZ1RJMngwam1KUldJZWto0gHSA0FVX3lxTE1MNnVwU1lyQlMwLVV1QmRIc0UycnVyQy1pV1NFRjVlU3ZldTJpUXduMmdNRzkzSno4YWxrdHBwT2trclltQ0c0VTE3M2FxVS13a2p2c0p1NUU4SFFaMGQwUFVBSTN1LXRoaHlBclVRNHdaY2IwOGhvSkx4d0hhcWhWeTB6SXBmSlB0ZENSOGMya0dmTDF2ZVJnMnktcGFaZElOc1EwRGhneUt3eHlpb09mTlp6bmpaUko1c0kyY1Y3VGd3T0NtbGF2ZUIxeXltaDI1TlprbTAtTWdYU2k1eGk2eDFFUnFCZDgxMnJGVkVsb3VrQ2JmNkJnamxQdHZuSUNYMExfY1lSZGJjeDAtLWJSR1o5aEhoM1Q5azd1b2p4M1o4TDJJUjcyZ2FTVVdyUXIwRjhhVHlMelJzdUdaczRYSjAzNnVUeTJFcGdiaUVyRzNGZjlBTzNqRHhPS29MX1QzMzlocm9QcjdWNVFCb0p2Vk9QVTM4cWFaWm1LalBUaTJrazZDVWZvamVSWTEzQWRDazUwM3MxdXByc01JbFczT215bGUtd2dkMS1sRkktdjB1M0dGU1M0ZVcyV0h4cHZDZVFZR2Yxejk3SEY4VlBMb2c?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 09:18:00 GMT",
-        "discovered": "2026-09-29T11:01:47.923100+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "قناة مجانية تنقل مباراة جنوب السودان ضد مصر يلاكورة",
-        "player": "",
-        "content_hash": "11f849c0d7eb52b2e88364a0b15bf6995584a36c2e370f9d51535f565c6079d5",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6635,
-        "title": "تحمل اسم \"خُزامى\".. تعرّف على كرة كأس آسيا 2027 في السعودية - CNN Arabic",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoOHliS1gybFVycmE3M0hQbnRwVDNqRUlzQkdYR0w5aUlNRWtGcWNpWnd6SU5pcTNWRE01eTBBYm13QmN1OWZHb3VqaGVWRWJMdGd4TmhMYVQzT3d3bWNRSTluS1EwV2RobUk5Sld4Zw?oc=5",
-        "source": "CNN بالعربية",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 09:09:24 GMT",
-        "discovered": "2026-09-29T09:29:24.205634+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تحمل اسم \"خُزامى\".. تعرّف على كرة كأس آسيا 2027 في السعودية CNN Arabic",
-        "player": "",
-        "content_hash": "f46ccecc3d2119b44b459b8da70b1838a4ea48f7ab036ae74c7cb4d87a840ef0",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1652,6 +1652,22 @@
         "summary": "الألعاب مقابل الغذاء.. صفقة ترامب وشي العربية",
         "player": "",
         "content_hash": "89ff59650acb5d2ba80444b136a2b622a7402dd8cd5b59a5c928a0b005920a9c",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 6739,
+        "title": "ولي العهد السعودي يتلقى اتصالاً هاتفياً من رئيس مجلس السيادة الانتقالي السوداني - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMiwgVBVV95cUxOZmE1TG1RRFZhbVNJRDNQT29PcV80N1F1N050aEJxTVRMUFF2T3psNXg5SGpKTUJjNmVTM0ZpV3pjOVRDVWVVaWxSREx2bXRRR1V1N2NrVS1Ud3p3X1JkcHdDYmFKWWhWMXk3TFFMNXlrYzVkTzZZYk45b1ZvYXJXWkFfRTg3N2dlOTIwTG1CbFc4V2RibklxMFdzMHRxeGw1ZGRqeXJkakk1MUpkS2xncENRMGwxSmdoUkYtS2NNMnZmNU9jSGtDLXF6M1huaUNtbkpUUXZWcDVLTHhfNHV6dHU4Mnh3THF2MUhRbk51QnlkVV96TUFuUVFTcHU1SXlYMFFXTmxrYWJCWWwzY1ZxYWhsS2xOdWtGNDFLWTdFak5EVU1FTXRiRGJWRThNN0hDQm9MQTRpbFN1d0l3cHRoUXVtSXlGM2VYQm85Y1g1Y3BuaFQ3QUw1aEdIOENZeng1OHUzbWVGU1I5S1NhY0ZmMzY5bHp4QURnRzh5U2Fjc3pHcm9tNGNPQWl5SFFtcWotR3AybW9mSzhjSWNqenhUMzNaQWM2MG1qQlRrOTdGWjJQVHFHemh2c0ptdDl1bmlpRkRkeWRIN3FuWUVNRU1GWlotUUlsSmR0OWJfSUxVNXk0cGVUcy13cHEwN2xkczJoaGphM1V2ajU1T3pxWkdCSEtSZGVnTlN1a2hpam8waW82bDFMTnNrVUNTR2RwUzNsa2o0UGU2SE5Gb1Z1X09Wczh3WEhURGkwUUxWZm1kak9xNFE0aGhkcEVKMzVGcDBYOEN2V0RscVNlOG9ETVpjWnoyRkdhZUNsVVVmbklQbmMxTE9zOWFtZ0NmX0pENEVDOXBldWtIdVh6TzhQYXc4NllGS0phNDh5clM2eG9yc3JJMmxrVTk5QVZpVGpTNTRFWVFqRU8tOWN5ZHl5X0ttZWxR?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Tue, 29 Sep 2026 09:42:19 GMT",
+        "discovered": "2026-09-29T13:59:29.405446+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "ولي العهد السعودي يتلقى اتصالاً هاتفياً من رئيس مجلس السيادة الانتقالي السوداني الشرق الأوسط",
+        "player": "",
+        "content_hash": "3a4ee29b2e084cc961d1d29a9f3eaff4557d39cc9a315cf9c82618557880ae12",
         "sent": 0,
         "section": "transfers"
       },
@@ -2148,22 +2164,6 @@
         "summary": "عراقجي يقول إنه يتوقع ردا أميركيا الثلاثاء على المقترح الإيراني لفتح مضيق هرمز DW.com",
         "player": "",
         "content_hash": "8e8ac53d92b087137b6ed8f2d4a0116f306bda7480e86d2ef12bc5708e964e67",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 6318,
-        "title": "بورصة الدار البيضاء.. تداولات الافتتاح على وقع الأخضر - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQLXZtU0ZHSFNWTWNQMlZ4RHRzTGFia1Q5LWdMYlNPT3FsM0JVU0RuZTY5dWNDQ25BR2VkUlB3T1RsMzVPZER3bzI0Nml1UlhKN0R4clZVbHlaVko0M24zbzctazhNYUlueGI1QThXd01jWGhqZU1kcGdYT3VJRHJYZVd1N1R3RkV0NDFOQ2ZjX0ZENFQwRTFFZTZNeThTVGQ2UzNLYXh0b2swRlFuV1dtaGRTby1rRmtOZ1R1bjhFcmd5bERaZTBQRF9jMHhzSkJMWVYtRm0yTTN2dGFFMzk3b3YyLVM5NVJsLVZRQ0IzX3VjVE5Xb0hFT3JZTW1haU9uMVRxSXNiYUgtU1hkNjdWQVlYaUZyWk9EbElXRFExNGhpc3h5TGRvXzBpaFh2ZnBRYXl2c0QzenFGblB6Y0V1Q2xUck1JYk94OWtvdnFhWVV0YTJTLXNmTU04djFtWC1uV1V0LVdOTjhQQkV4Rldfbm9aYU1ITXRENVVld3l3TUF1MDRnVVE2UnNoZFdoeXU4QVFYdTR3RFRSU0djTFB2eDd2M3ZIVUpCTHhWRXNGRTFsdzl6RHN3bVlfWDFuUGdzNk5XblZTMzY4RjVBZ1pTcjgzLW16RmRWNzY2OWQyYnZ5a1dyMENn?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Mon, 28 Sep 2026 04:00:09 GMT",
-        "discovered": "2026-09-28T16:30:51.993220+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "بورصة الدار البيضاء.. تداولات الافتتاح على وقع الأخضر | MapNews",
-        "player": "",
-        "content_hash": "30b1080e9ee9f3aa98dc279d924c81fd0f3d5edd566b997972efda6e90817747",
         "sent": 0,
         "section": "transfers"
       }
