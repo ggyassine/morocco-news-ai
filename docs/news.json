@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T02:46:24.122105+00:00",
+  "updated": "2026-09-29T02:58:19.800271+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -870,6 +870,22 @@
         "section": "sports"
       },
       {
+        "id": 6564,
+        "title": "جدول مباريات اليوم - 29 سبتمبر 2026 - بطولة قطر 2022 - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVM5MjZHWTF3TjFhbXluZ3p2NzljRTFGaEVaV0NTN0hZZmhVX0RDRGM5U1J0V2lGU2xueG56dGtkTVQyQzFhTlR6Qm5HYXdHY3Vmb3A4TmxzOXEyd2VCeERiSFNvVUpLNU1CdHpHUk04SnVjRnJyUm1fQlZ4REtBdGhfalRpdHhnMF9uUEM5bTU3cWdJaWhrZU93OVlTdU1GTFFkNXB6SGE4aTJSQVBWQg?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 00:00:48 GMT",
+        "discovered": "2026-09-29T02:58:00.194411+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 29 سبتمبر 2026 - بطولة قطر 2022 FilGoal",
+        "player": "",
+        "content_hash": "4dbeb71bb347f2da070e51a4ba5a384207fb3e4348cbf19ea29608364de5666e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 6523,
         "title": "جدول مباريات اليوم - 29 سبتمبر 2026 - بطولة كأس السوبر الإفريقي - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQMjFwMkl4enQwREwwbUNUTDZRTGUxZVpDck45Zlhic1RZYXc0QmNpMGZMcGdHN3p1N3B3cjdJYXhQZllOR0VXdTV1NWFKaXlpakpRbHRIbVdPQzdVcS04TEdPYk1hdGJBa2VjODU0SDBhbWstNTZHdGl3cTJ0S2dmUUhjYTVvQnk0eDFYRElya2RUMlRSQmVkZHphQTF6c3lWZXN2YUh1RDJwd0stR05qc2c1bTdtSGdQY2FNaldCMzBLZDZTaXhaWHF1YUNNSXp6RkpNcWhVaUVpaWp0Rmp6WkhaUEtEbWsyVG9tU3czU3luMlRlTGlfQjhiTUpLaEpOYlNNaWJLV25xRTRmMzZwMmlqWm9VTVJTRGdpSQ?oc=5",
@@ -1586,22 +1602,6 @@
         "summary": "خاص | موقف حاسم من الجزائر بشأن تنظيم كأس أفريقيا 2027 winwin.com",
         "player": "",
         "content_hash": "c4b075987bfb7c4bd8e2f57004a9e0ce628ed7b25263c52420b338c069315d74",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6386,
-        "title": "بث مباشر.. مشاهدة مباراة فرنسا وبلجيكا الآن في دوري الأمم الأوروبية - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQUdEUEFjRHViTExnQ3FPRjAyOGg5VDc2bHU2RVpSb2RTVmlMVHpQeUcyVms4QVktN2k1T0RONlhwQ1JPbkdSNmtQN2lyUEotRGFDenpqay1FMHh4RW84djBLYTF4NXBzWVk5a2x3TTh4Y21Xckswbzd0bnhoME9pbkNDUmNKYnZKRkFNcTdsbXBld2lOYTUtU21QQ3k4TF9iTzZvRC11MnZ5WnIxNGZ1ZUdqTzdLRmM3NFVhRk9pVWE1TG5UNnpDWDBYZHBLRGw0Q2xzcUFDLVh5LTVIMUozX2wyZDVDSjE5YmUtZEVkZTY2ZkE?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 18:34:45 GMT",
-        "discovered": "2026-09-28T18:39:12.592905+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بث مباشر.. مشاهدة مباراة فرنسا وبلجيكا الآن في دوري الأمم الأوروبية 365Scores",
-        "player": "",
-        "content_hash": "e76a6254f89ddf48e9bf2e2445a94a27e4741eb6882fecb8d4bad2af0bbcff26",
         "sent": 0,
         "section": "sports"
       }
