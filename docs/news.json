@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T05:01:55.364839+00:00",
+  "updated": "2026-09-29T05:19:59.904201+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -2264,22 +2264,6 @@
         "content_hash": "3dfeeb248b52fe66d0baf221be6c917c902082fc22fda95aaaefddad5cb98b68",
         "sent": 0,
         "section": "middle_east"
-      },
-      {
-        "id": 6301,
-        "title": "وول ستريت جورنال: وزارة الخزانة خيرت دولا بين العقوبات والتعامل مع طهران - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQLW9uVlNwVjdvZFdLMlpTX2FCQXNiZFBMUmhXNkhSRDlPLUI1dWRINWl4Rl9rVnc2SDVYSVBZNTNBdGFvaEtjOFM5aUs1VWV0RmRNUjMyaEVjdGZYUkk3U2I0QjJka3Frb1V0UWtKWGxUVEgyMDhQVHRUMEZhTko5RDRtWkp5Z1o1Q2dfUGtONmVWbWl6NF9yNVctdTdYNXlBcUhDMndmbVRMemlFdEJjVmZZZFJQajlrZVp6ZkdUWlZEaGxkcGpsNHc1NTNfVDg4WC1YbklpMXNlTFBiYXRwVkJaWi16djR6cV9HY1hfRW5mZUt4aWVVN0lRMk1aU3htZU1QcEFkY3l4ZXF5MFY3X1pRaGlhdEp6UHVUanQzMFNtTkJqR2hEeVRzMmJGZm5WS3Y3LUp6ZFBHcE4wOUZDZmJ1RERlT0VZX1E?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Sun, 27 Sep 2026 01:52:29 GMT",
-        "discovered": "2026-09-28T15:24:47.645212+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "وول ستريت جورنال: وزارة الخزانة خيرت دولا بين العقوبات والتعامل مع طهران الجزيرة نت",
-        "player": "",
-        "content_hash": "ba1100b733acf980e4e3d08c1b01e1cd15f61252265770607d38ccebae3bfcd8",
-        "sent": 0,
-        "section": "middle_east"
       }
     ],
     "world_arabic": [
@@ -2312,6 +2296,22 @@
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
         "player": "رياض",
         "content_hash": "560292095bfdc3eb3c46a0bafa0504550d0a2dacf78b3b801a728706bbee2247",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 6567,
+        "title": "حوار وطني فلسطيني في مصر على رأس أجندته تأجيل الانتخابات - اندبندنت عربية",
+        "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOMWV0YlQwaF9kXzdxSnhUVWJoV0lCTnZwZGx1TlJ0UVRRbmIwWkpIV1Y1ZU5XeU5wNTZIVGJkYm0zQXRwc1NTNW11RHZsWko3N2x1RU9LY2t4QTRwRVVoaWVBdjNUSXNERWJMZGh4QkZRVkdpY2lJdFlPTW9yaGlMQlpzcHRSWGNQalpqVFpoRGJYS2pxYS1PRkVheDlfLWt0VW5Lb2hKdllQOVJxaDRkanhKQVg1TXJya3VRdlFTWTBEWmcxTUoxLTZBV2wtQmlXTVFBdTVsSzJNbjFHdENnSTZRRW1nVW9zeTVPZWVwWTJjc0NSQVlBb3VnNTlvVkMwRVVTcTNqUFBoTkNjeU1jUktSVy00Q25odENWR1JTODJYSG9wRVJFYURWSnNMeC1ZWXhuMktSeVRGSDA2VzdSMjFQTDFmYkVhVGJXaWJibHBabC1FNGVxakZRUkpBRFFhWXdSSUtSYkNhUUhKOVhLRGp5empTZ05tU29XTnBFXy1YaHhDajRXZ3BybUZveFBkVzJtczlVeWU2dUhaV3RkMHRuejhsREhMZjE0TkRYWmZVVmdULTIzbnE1SEtlbzc0M190dU1nem5QT0tvbWlTZ0hVN0pxVURhajQ2T0xqQ1JzcVBJVUJIek1kbm51WnZNblpVX0JMb0hXdE5WTzRocEk1SXJYSnptQVF2cFhIZXVHQmpYb1Y3YVEyeVcwTkZta295dFo3UVNVbFJyX3lCY2pleWlhdjhS?oc=5",
+        "source": "إندبندنت عربية",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 17:07:48 GMT",
+        "discovered": "2026-09-29T05:19:58.435273+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "حوار وطني فلسطيني في مصر على رأس أجندته تأجيل الانتخابات اندبندنت عربية",
+        "player": "",
+        "content_hash": "ac1f33f4251444900656ee1e3aac7e14cc488edea633b9c575b53d4089dc25a4",
         "sent": 0,
         "section": "world_arabic"
       },
