@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T09:29:25.340337+00:00",
+  "updated": "2026-09-29T09:47:38.987971+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -806,6 +806,22 @@
     ],
     "sports": [
       {
+        "id": 6636,
+        "title": "أورايلي يغيب عن منتخب إنجلترا أمام التشيك - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNNDRtVDJpazdLNGlOM21aMm9mNWh1aTViV0ZTN1pMY01QSG1jNHBzQWlhS1A2T2JId19uaXNrdXBXS2cwS1cxWDVJdVZXd3dhbHNwRlVPa0ZSTFVIcVJEbkZ4dlB5WmtCQ0dFMUY4VkRNQmtXR2pEcllzQnlXaEJhdl9WSC1FcThTVzU5WGREMWJteTdRQ2FseXlZdmFydldWLXE4UVljVHNJdk9pcWRSczZ1cHczSHJIRzdHN1dIZWREYmMyUDZLRGE5XzZnci1jSTRabm9lOHpvNUpHWjBWY1NTS2l2cmpYUGdzSkNEbTl3QW9nbWtBM0NtS19tZkNXSHIzM1pSQ0tqOTNJbDZybjIxbFoxMjNvQ0MxNEZrc3JQaUcwOEdWeElocE96YTJyMWNEOFJobE1BV05GY3hjNlU2N3JwcTIwaTcwRFZXRkxIMmhNdlIyS3hUWEFlYi11a1JyVWNPTjBCd0FzS2gySHd30gH3AkFVX3lxTE83Zjlucm1GVVFoalZoUVJUMG1hYVNoWHB4UWlYRDgwc0I0NDlDUTZVMHhzeUFvSjh5d0xJYzQtb1dsUkVGYVlzQUtkUU1CT04xdHNGZDQxTi1lNTMwbUs5aDJKcl83WExUYVlFNHl0SDQyYUo5TmVPU1FTZmNzajY3Z2JpNW9vdGpORDhNOEJkc181bEJjd3FKVTIteVRBV0RFTm1ZSTNIQW1BRkQ0NVlLNDB4bW9Id2Zzdkh0S1pudEV0R0FDY05wSjdTWGtsZWVPS1Y3LTkyVmVpZnRmazZRdGFJQl90dThkWXR2NDNnRFduQ08ySDlraHN6cDgzRUQzam9ZMld4WXBQX0pPUlJvdnc5LW15a25yQW13c0REYnQxTGJqVkV4SjdIMlJnSHl2cWhNOWZxejYtd05EX3A2ZlIzOHk1eFlCNGdHUUJQRGZaVWpwUF9TbG96UnlCNHVjTjdDN0d1X1JoQjFBME9JZjZXR09XWQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 09:31:00 GMT",
+        "discovered": "2026-09-29T09:47:25.485754+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أورايلي يغيب عن منتخب إنجلترا أمام التشيك FilGoal",
+        "player": "",
+        "content_hash": "917c27cd821c11642876ee543360b498658ea8dbe114a86bd66c2b27e1ad56ef",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 6635,
         "title": "تحمل اسم \"خُزامى\".. تعرّف على كرة كأس آسيا 2027 في السعودية - CNN Arabic",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoOHliS1gybFVycmE3M0hQbnRwVDNqRUlzQkdYR0w5aUlNRWtGcWNpWnd6SU5pcTNWRE01eTBBYm13QmN1OWZHb3VqaGVWRWJMdGd4TmhMYVQzT3d3bWNRSTluS1EwV2RobUk5Sld4Zw?oc=5",
@@ -1588,22 +1604,6 @@
         "content_hash": "e942af0b99ffd3285de2e2437cf13e353b0954b4ddcc148550166c3b62639938",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 6413,
-        "title": "بوعدي يكتشف لأول مرة أسرار الأدغال! - جريدة المنتخب",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zU01jT2V4R1JaWTk3LWo3TjNLMVcxenRpWlowZGRCempsWjV4YmNYUFNIbkxDSkRGWWFLT1hsRlYyVnFCaE1iQnI5dWhCSDFyaU96LQ?oc=5",
-        "source": "المنتخب",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 19:59:53 GMT",
-        "discovered": "2026-09-28T20:03:02.844321+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بوعدي يكتشف لأول مرة أسرار الأدغال! جريدة المنتخب",
-        "player": "",
-        "content_hash": "286d02c8ba691f27eba43c7aec920a2d3d71e991834226bf3c95292b6da57a87",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1668,6 +1668,22 @@
         "summary": "بديل صلاح والعائد من الإيقاف.. تشكيل منتخب مصر المتوقع أمام جنوب السودان يلاكورة",
         "player": "",
         "content_hash": "cb0919db6fbeacbfb2bb8c5a56dee0a7517287137ffb56dfedad0eaef508b1c8",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 6637,
+        "title": "\"موبي للصناعة\" تطلب الانتقال إلى السوق الرئيسية - العربية",
+        "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPaWNiUnVGNXZ5SVJWUE5xR01xZVZDTHRSNXgxWV91bzJUcnVZOVFFaWdzWGhqWlVEN3dqb1BmTTBYMDBETXZQSlcwUC16QmFzNVI4aERZQVdHQmZoekhybU5IQjVwZ09CZng3YllmOXVPM0t2TFFPVWFJZ0RoRWhjamVYODBBZE5Qd3cwQ0NDSjYxZHBhZm9EdkdTdFVUYWRVTmpLNV9fTVBjZjladTFFcnE0SzN4VXlUdWdKRHRmeWo3eEEyNWlrOExiTnotcEFRRFlxdWFIZDlubk15MzJORU5IX2NvSmZHN3Y4TlJLRVRqTzd2SVpLRUhPaG9sNXkwSUVqWGpIcjB4NDlkVzU1RVJ6SzREM3JKM21samlXaUd5UGlXODF1Z3VVWGJlX3Q2bnIwYTFta2Vlenp3Wlh0aktYZ1F2TjdwRzBnR29jUUZSNlZIR2JIVkVIVzNnTHBkUWh3d2I4V1M5OWlSZERCeG9MU3ZBb1pfSW1wSEpxS1RKb3JpSXlobnVGM0YzUkZpbkdjTFNEcEk2cUVLRVZrRE1yV2VKR2xqTFhfZmJB0gGzA0FVX3lxTFBtU29sOEFuTktqNHNQOFZxOUVyS1Q5SzNBdlNIX1lQTGJ5OV96M3AxRUZDVE01bDlxZElIcmd0bVQxYjBmU0NlTG1BcTBiNTZid1hTalp4NmxuRURCVlRRMk9DYnFweVZEdHdGME42ZUE4aTVfSnFreGQtZ2ljMVdRX29UN05kTjFjMmxLQVlJbEZyTzFuRDhTZGNoUWFJNlhVWkZudGNNQ2NJS05KelNJUkE1bnlFMG5PbnFaUXA0T0kxclFoNHM2S1AyOGFndVJKZ0lDS2l2NzdEQ1IwdUF5RFlXU2djTTI5ZV82YUdVX1J4X0tQODl0cF9NdTBvTGQ3SUtnUE04bzQyV1VRbUI3U1h0eF9EcXNQY1ZsR2V6SjAzSHY5Qng1bFVDQmlIRVRKSktMR1RqR25HM0FkMWgzRmZxQWppaElaNzZ0SDd1Mzd4Vkoyazl4a3JNZHJuNjdDNHRiV0pfdVl2eXBjZENJdm82dmVNbEZSVVkza19Ta05QSWVXYmdVLVpQNFJBYkFHSlAta2xpUkJlNnJrbUJra2lrX0dfQVdiel9EbWlsajhJdw?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Tue, 29 Sep 2026 06:27:00 GMT",
+        "discovered": "2026-09-29T09:47:31.596924+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "\"موبي للصناعة\" تطلب الانتقال إلى السوق الرئيسية العربية",
+        "player": "",
+        "content_hash": "78fdf7c7d626fbda9e04676c0aa7204b554f93b973fe93d8cc9efbbc69008183",
         "sent": 0,
         "section": "transfers"
       },
@@ -2246,22 +2262,6 @@
         "summary": "وزير الخارجية السعودي يصل إلى واشنطن في زيارة رسمية الشرق الأوسط",
         "player": "",
         "content_hash": "15b5b5c94ac800d0263a032f066a2f033d0700bf8116afee4bca7a8755d0be13",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 6180,
-        "title": "وزير خارجية لبنان: إيران لم تستوعب أن القرار للحكومة وحدها - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxQUXQ0SmVmSktib2pwZkJfMTNadHVOd2dhVUpha0xxblNTU2l0THVkUFhkX2pJYUNvV2kxZE4zVFM2VWZPSDJCZ2V4ZjNrdWk1M25saVFmNE5fYXRYZU53S2JXMWFPX2FyeXVLV3ZjempIQXlRRS16QTZOdWE3Y0hMMTg2bi16Z3I1OHhEMFFXbkhnb0NYbFA2TE1reHRXY3JDQzNjMkZ1Nm04aE9YMTZ5NVpnRFJvOVJBTlI5YUZfbEo2STZXLWdyRWFRZW1FT3VpalBNSi1JUFF2eWtWalZkRlBleE1KVi1VTkQtWnd6WnA3dmh3YWFmaGNQcDRCNDhQOGdKUEJWVUFhV1VaMEM2SV9fTzN3S3RBQW90Z2pqdngxbjc4SWFBeTc0WnV5TU9ZdWNZUU9zcDJHU3h5UUk4SDVkdzRsQkJlejdOTGdTZURqTUhScEoyelRiRFdHZG1yeXpkRVhBYUNKak5NckJxUXNjTXcxRVNQV3pVdVVWOWdQZlJtUmlUWGRYTUViS1RwUVNlRlpXY0RLeS04VFpvQzNjRnkzVkF0aFU1YzlVSHcydUdyYWlvZDk5WEtteVpv0gHGA0FVX3lxTE9NS3JKR25nSWhGdGFwZXhnNXZtQS04NWpfcEhjVlZWMHUySmFSa1FPWWRYM1RHeFNiQU8tbmJZU3FERUNwaVdvazdGeFRhUjg4Wk9jRDhDTHg3Z044Mm5EcFRnVFhCWWpiVFZ0aHpqZmFKYmRwYzgzUjZ3QmxkY1czNEtSby1ONkFVVWFWbHRFcWtIUVhSVEw3Wmo0UF9EbUxJVHdIYVUxVXBOUFkyMjNOdmdWd05qUi1TODk4TEk5b2xobWRNeDgzeU4yclpnWHlRaERhVjF5ZnBjWGNKN3YwZG54a2lTUllsN0I1Y3c2a3UzejNhLXhNdmYxczRVWGlHVVZkeGJoZmpwa0E1SjRzUjhNQjNIRVZxUkpKaTBrdVdrb0FyM1d6T0lHWEZBZFF5SVN4bmVMT21SeUJVMXhtX25oTEhyNlR3QTN1LVlORUQtc0pGX3lUTURZc1FBVk1mUlh0Y3E5NTV6dEpvbHpvYzRTeW1NQ1h6VmtXdmhwQlU0dDNhMFhwQ21TTE1Zd25uNUVQOFdCUWNNUkF4ZHJGcVFwYlVRcWtrLWp1b3hFMTJKMXBaREFUNlN1YnU4QThheUJ1U3c?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Sun, 27 Sep 2026 23:31:56 GMT",
-        "discovered": "2026-09-28T06:48:58.007430+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "وزير خارجية لبنان: إيران لم تستوعب أن القرار للحكومة وحدها سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "be32954c3562c13c026c1358ef08fc1a1b4a80797cd44b4f29f9ba2491cf03db",
         "sent": 0,
         "section": "middle_east"
       }
