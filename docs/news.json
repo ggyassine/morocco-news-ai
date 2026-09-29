@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T19:18:36.517267+00:00",
+  "updated": "2026-09-29T19:35:23.121854+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -806,6 +806,38 @@
     ],
     "sports": [
       {
+        "id": 6882,
+        "title": "مواعيد ونتائج مباريات الدوري المصري 2025/2026 - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPTjhsMHNQN29TWERlaUZoM2RlV3ZIdzZGN1RiVGlBR2w3X0ZfQ2hJbTg5dmhIOU9maEQ3dEw0aTl4emJPZUktbE1aVE93MWYyUFk3RVY0RDFCT29xWXJzam1ENG5oV1ZvalMzQk04Z0FDUkFnVWN1MnphNlUwQjg4TVRiMF85RzFKQUNTNlM5d2xJNEJsV05sVm9QVXRabEpHZ2Z6dE00bTFBTS1sVUxFNk51aG9xeXZxMHRHRURhb0JEZzB0Z2JKTjZIa2djTHRLQ0E0VmZvV0diM3hNU2ZYTzBNWm5Ba1lfTncwV2RlSy05bDZoVTNLb0pSSWJPdEppeG5kNXhlaEhlcDYyZU0wSlpaYkU5SWxOQjROb2owTFRkSElvX2taeXY0UFJHb0ppSjZiMEFhdGc5SlJNV3plMUtZX3EzNDBZRWh5LVdB?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 19:21:32 GMT",
+        "discovered": "2026-09-29T19:35:06.466152+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مواعيد ونتائج مباريات الدوري المصري 2025/2026 يلاكورة",
+        "player": "",
+        "content_hash": "e7eb8476a35739872ceee8604c25f62bc7f251e7a78c42d9051ea14f99be61cb",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6884,
+        "title": "من عبد الكريم إلى عبد الكريم.. من هو أصغر مصري يسجل في مباراة رسمية دولية؟ - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxNMUczZ3ZZOVBicHl0Nk52dHZ1ZnJsbm9fYnZiYkJGSjdvM0lzZkl4SlRwN1hsaXlaTjZSd09Rc1FQMlJ3RE54bkcydnlvb0M3LTZOcVM2WXpkb1dzZ0FjUFgxZFYyME54VGpjT1kwaS1RNGhVdExvZ3lNVndUR3E2WjEySkxlb0Z2bXdEVW0zQ2xLZ0VDUHpCNVBhZVNUYmZWeFV2dGRPX0ktN3pET1JKaDQ3enN0OW5IM0ZPakpwTDlyMUM3ZXBBbGpXVUNVQXN1NFpCalNZNEFycGt2SmZ6akRQVXFsRXVGWkl4YTEyRnowV3hTN2IyRzNUdTJxa1BzekwtZGFhSkpBeDlWdFdpWWFKM0tLZEt4VllLT3ljZ0ZOcFlzOEMxay1VT2lOQWRNSHBtWEFhRDBWOVpXaVVpSXQ5TUZzeXdxUjZ4X0lvRzZpSm1mVS14UHpoOG1mN29xdFpNYks5NmFtWnhsNVRHbXhlMWttc0dmZ3hmaTJoZkg5WC1wMFRLdU5uaWZOVnQ4RVV3WjUzZmdxY3U3Q2dGVlNtUlN1dlQzVk5sTWVYQXoxTFJuS3FFYk9QalROTEFPbFZtQ3dMNEVXQ3A5LU1TWm5FWXJrTXZJX0JsTUl2WlFiTHRNaWptOXJ0UnBnSWxRT0FpSEgtemUzUDAtVlRQSkhlNXhhNXQ1NGNNNHlkYmJkRDBBWGVFRHkyMWc4TWU5aTNIdVE4d2xGLTBiUDNxaGFiemZWYkFqSDlfV2JjUlZ5c3ZNMUHSAcsEQVVfeXFMUGgtUk5PNm0tc21EX0M4NmI3WWhBd0hTak5iOGFiQ191UXR4QzNkRlNBME1id0Q3QmJsUVJPS0JteHdqdjBSTElEOW93amdCejNIZU43ei1IU0o0MHNHVFZzUEdQazBYb0t2ZjQ1b2dzTTVkLThrX3ZnenF0eWZpMGZoM3J4S2wtUXlMMnV0bExjZHBlNE94Uk54c21WOTBDUTJ5dGEyVkFOMTVKS05XYktPRThFZkpIdG0tMkhuUUVqNFJwamR1QXJ4VjktcUdieG4xVWdQMkRhZkVPX0xnYjZvODB1OGJ4b19LUW1xSFdmdWhKMFFwOFh1aXVOQ040bjRwaHVNb1ZMNlJpMzE4SzVfUVZHaXhhcDhIRVhvR1pHVFI1OFFJcnhkOTgtbzdQUV9wSDZ1b213dmY0djV3ZTFUMlBBYkVhLU4wNld6RWQyem9sOF90cnlrN3poRWRKVzhNZ2xNSHh5a19NeThfbFVRR0wzQjJOUUFwUXptMWJjUHM5SXZya0c1UkpYQndLZzJqUDVJRl9fa0FHWXlzQThaT0NlbWhDeE0yWUpFajc1QlJYTWJSMXNlNDdTb3l4R0dpSldPRzRnYUkyS21QV3NvUWNyR3dJSmppcE5WN0w3a2M3SVNZVXVGOWozczBGTU5LMjFkMXM0RlZPTV9HZkNPSjNsdDBwVU02ZVpMQUk5cGQ5Ri1odzc2UDROUXMxS0UyYUVsQjZ1TFUzaXlDNzE1M29aaE5KYWV6NFBGcEV0MVd0T21USGl3REk?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 19:03:00 GMT",
+        "discovered": "2026-09-29T19:35:06.495552+00:00",
+        "category": "الرياضة",
+        "status": "رسمي",
+        "summary": "من عبد الكريم إلى عبد الكريم.. من هو أصغر مصري يسجل في مباراة رسمية دولية؟",
+        "player": "",
+        "content_hash": "c91417c5097e9b33103cf8a9dc79786d4b764b188d4f2b11f7ee4308badbc087",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 6879,
         "title": "مواعيد ونتائج مباريات الدوري الإسباني 2026/2027 - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPSi02aE1Kcm5jU0g3d1JDSEFPLXNINFc1cmtvTGdhMDRPZjcybUtGQWxkSlFyVnFZOXZPUWJWbU5rWHNoYnhKRnJNVkxfdzJlNThCQWQxWDl2cmNlN0RyTnoxQnhaZEswQW9XLVlIREFaaUNWRkpydkxIMmhlYXdQdWdqcmV5dmROcG9FYUZ6R0RmMTlyMzZsdDhlUFBQMkkyV0VHbHRxUGR0ZndYeURZa3NfajBiOXRpVjBhLWF4SVJ0bTNjTm8xcGczVmdKTWdNa0tDb3J5eGVhd1Y5cTdqN3ZBSzlzRy1uX2Q0cmtyWGNTMlRvQjctU1ZlV20wVktKS0FucG1rVktmX0Z0VDlIYWstUF83MTJPYnhzUVJzNG5EM2tYdTNjbGZHR0NXWGlyNERuRFpkRmFSLUNUZHMtTGpHWkxOeUM3LWUzdlJrOXJxRjA?oc=5",
@@ -946,6 +978,22 @@
         "summary": "مالاغو يشيد بفوز إيطاليا على تركيا الشرق الأوسط",
         "player": "",
         "content_hash": "394a11ee001873c7f109229dced9e33ef76d3826e555442db637a43490fc7d25",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6885,
+        "title": "تصفيات أمم إفريقيا - زميل صلاح يقود غينيا بيساو للفوز على نيجيريا بثلاثية - filgoal.com",
+        "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxQRDdlXzBGdUhoVDA0aTMzOC1zdXZXWDI3aXppbHlQdV9fZlc4WGpKamRrRkF6bFRzTm10bGJaR3NtcWJrWERKZnYxV3lrblpNZGRRbldwbV9YRVVlS0NrZlpXdWZKWnNrdS1wN2tVUXlkOWhGQ0hKell0UEZLMFFJak1sTTdkMS03eDFTX2ZHRDh6RUY4MWNlT0RPSmoycElWSmNHbmtRSGlITC1Rb2ItTUJGMlpKT09SZnN5aG5pb3p1RDBYc24tQm5YMUtRcjhWbDJZc0U5amxPQ1IxcE43TUJNY3o2by00WWpfcWJMSjZfQUhWc1A0TUZjZGxjZVg3YlgtZF9wX0lEWUJCejVlNUtNOU1EZmFzZ0Y3cnFBUTRabmp5UkVtUi1WdTRlTW5KX1pCa2pzeUlpQlhRMXFkTUlMVXBOTk9DTDJnc19mc3h5LVVjTWhLVXJaek81V0NNbnpydU50WURwRThISUNLa09qSjg3X0R5R2FLRTRWWnQwLUxDS2RqcVc4aDBFR1hvR0pvME1xRGdoZ2V4aXVXdUd2YXQ1ZmRvb05yUGRHTWVlb2pMV2V2VzJPc2premxMNWxZUTZJdnpTakl3OUZ2dW1uWWhzc2s5SVNYNnRnMHB1ZjJKbEFlZzFLbkZkU2dMYUswVVZtbkxoMmpNSzRTMEVuSDZwZjlFdVhHWmh2akNqaEptdFBuUEpwWmw4SEwzREc0X2Faek1Vc1BzNDhFdG11aFVCOGJZSFJ0ZHZhdVfSAcYEQVVfeXFMTWdiOE1ueXlkb2ZoZnBNNUNIR3dpT3dKaEp5V2N6eWJWNWZIN3haajdZRC10NENXMmhESDRKcjd3ZU1oS2FqV0xCYXpEenBWR2Z3NkZBcGpRNDdQdFlYcmlPakhGazhmcDQ5eXladXZJMTdwN2s4dTJkOXl6RERlNHd5WGZwYzFfWTROcG1xamJpX2swMFNOLUVkT3BuTGpUUUYxdzFOc1NsMWxGVl84NUxxU0FmY3ZJeS1WbVotcFZDdnpleXBBTHNmNWtrTm02WDBmbjBIOGNKeHpjVS1mWHFfRXpOcnFlMFk4dHJZOVAzekhHZ2dVNHp5WFF4dmJEd3JlVzZWTElYb1BKWkczQ0V3Q1gxa245dnZwaUk1dlY2ODA4VW9TS3UxdlNBZFVLZWZRNTVjMHVHNUlsSVV6X0I1TFVPeDdRb1JvYWNnYUQtTklEX0NqdWVUUllyMUxqOTdEcE9Odnc4aXRZcGFmR0pjNlVHaG9pcndBdHhKZGJGQzdlREVrUE1CajRmSlFHai1oOG9tQ0tIek8wMUdHdDR5dE9SM0FpWWJhVDdXRVFRaVl6QmtEbW44dlBzRkNtbHpSWFNsV0FkbFJFZVN6VVFMZ0tQZDRiYzlYdmRENVVJcHJNYnZ4WmhnSVhEU2pKak5lSTRBS3VvOGdKRF9uOVpic2lBeTVNSFJUWmhIOE5tb3hRRlRSSXVEckdqMU1XeTZzVS02eklNOUNNZ0hVUklLbU9TcFY1SGM1NjRDLTVZdmlMdjN3?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 18:18:00 GMT",
+        "discovered": "2026-09-29T19:35:07.143324+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تصفيات أمم إفريقيا - زميل صلاح يقود غينيا بيساو للفوز على نيجيريا بثلاثية filgoal.com",
+        "player": "",
+        "content_hash": "d614c462b9d1e75d91138377c0ec886e080d8d049ab6c474c02487d99c2989e3",
         "sent": 0,
         "section": "sports"
       },
@@ -1556,54 +1604,6 @@
         "content_hash": "7b4056f8042d56dadf858e7ac792f84ef06f4604afbe1bf11dcef6aabbc78577",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 6761,
-        "title": "فيديو: بأقل مجهود.. المغرب يعود بانتصار سهل أمام ليسوتو - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNQ1c2VmFBR1BNNjV6V1NvNG9XdzJXR2d5V3FldGZKWDhvLUllQjQ5MVB5TEdodC1fZGlyMFVrcm40S1R0VFFWM1Nsc2h5YUhRa2hOVE11d21BWkY2V1dXRzdFdkxGQ2ladHRZX1doQjBRT1FXSzlDOUwtdU55SlZzeHh1MXhaVlBZQ00weU1kUDBfUTNtQlRwZjNLMU1YMTFocExkb21sYVp5Sk4xT3dWOXEwSFhYZTdKZjNMNGdGMEE3bnRibnd1d1dsMGJSMUdaTE1wUlhLR3JxN25xZ3NRTkczWjFYdTFEUmtMM0k4RWJ1QXpMRENUS0VvSWJnVWZabzNyWlNyc2JBS0ZfdndnTV9VbzdyT2lrc0NJc3ltSVVsa2JCYzdjV2RHNTBPMHdma0IyVUg4aXVhbk1GbGMyZjRXX2lLcElkdDdvQllHbXlDLWRoWWpOVDQ5dWM5OWI1TzZqck1WRjdIdHdnU3hQa3FWTWc0cGpMcWlkVkQ1Q0hlRUlzTVNKUUd2VVhacC1PV1BpTTQxYzJFcncwXzJBWThtdjdfUEdMR0QxTmowRTZKcjRWcDVmSk95aXlyXzhTcFFXUU9MY0tzN2xZdlV6YW95MkViQkJaMWIzZG4yN0hianFoUGM5VW9Nc1ZEUUJxZHpFOFVyb2RHYXB1MHhEd0NvWDFXNExaVkdLcUNxM0pneFY0Z3hMUzBHanBLUmlPUWM5a0V5NUUzdWtoVUE?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 15:02:01 GMT",
-        "discovered": "2026-09-29T15:06:49.121548+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "فيديو: بأقل مجهود.. المغرب يعود بانتصار سهل أمام ليسوتو Kooora",
-        "player": "",
-        "content_hash": "5a850ab43c661248b15dda00389287b15772508e2fff4e0acca4ecdba5914986",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6867,
-        "title": "موعد مباراة مصر المقبلة أمام جنوب إفريقيا.. والقناة الناقلة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPREhDYXU1bWVpN0d4TVBJQ0VrVWtQazVaYU9XYzB0YlNKa0ExajRYZXNJZmc2SzBkRGgzWk9kblpJaGxpWWRvMlY5OG8wbVVNcWctMVB5bUl0Y2tHb1pmQng3dlBvMFRORGc2ZXhBaUswV0V3eEE4NGE4YzREZlJZTEZmbDE2UUktdDRXMkpseU9VQmNkS1MzTEQ1MmYwS0NjWW80TGhpdzZCUjhjZnVCM193b3JSYnV0bldlb0M0YlRXZDlkbUhHMElBMkVtc1VOQUJsS3pfbDcwdVlUWG56R1hmY3lVbG8zaUVnbWN0U1lOVDd6Y3FjaFpfYk82ZWdUSHVjRzNVMEdGbnBJQVVEWW5jMEpnRGZFd1J4UnIzNHNsamZpZm9kSUNCT0tpaXJOeEVlakNDSnZaa3hxRFZ3R2ZzdUVJVkZ5RE9PaFRZdHF0SWxib1REMjJNX0tEMVJKU1YwSzFSaDVVbkxLSW5QR2ZIS2k5Z0pDVVlnZG5wMEM4OUZZekVuSGxWSDFzTXFnLXdzbG11S0NkYjhsOWVKUUZIZ2M1WDd6Nng5ZHdJaFdyRi1GcDhPN29BZDNYblFXYUxsMUh0MVh2Y05HSDdvQmQ0OVJMYXFCZXgxSVlVaU03aWQ20gHqA0FVX3lxTE9naXhXcGRNWGIwb2J6dUxva052WWVMaEtHeXoxV2NGM3o4c0lkQXNueTlNTng4MUE1MnJyaDVGOXJTME9NX1QyRVR1cVRfTFZILVU0VlcyckU0UEVLZGVZX3E1bWctX2J3dl9JVlBuYm4zZFpsdEZnQVVKRWI2LXk2a19OOUhrV2tvUmlKZ2lUWGVtOHhZWmtoVWw2VEszdjluQnpYaHVZRjhkSXZlemhwTUZDczRZQmpOdl9IMndJYjdETTc5Z1dhbDFfUlJnejM0aWUzSl9WcGg2b2NXZ19ERVpIajBvUk1yR3dsMGRrM2g2RXdQaFFockt2alFhUWtxdDF1eWhvcDFHX01td1pUTzZQM0FMR3NtcVNPN3FtQUJ5eVUzTlNwdWpRS3pNWEhTeF9UMF9NYURfTE1YTC1VTnM2T3duc2ZVS3JqOHNXbmFlSHJEM2dzMjhtTUxJVUVWU3o5VzhVR1dNQVZoWW1WQkY0Y1YwNUFSRmxBM3FvSE15TUVkY3dJcTEzZ0tpcHRhS0JlWEdjT201NV9KTzF0SU03TUVjWU5adTZ0b1RiZDlQcGVxNXZaYWtEMVVVeERTZGx2STN1TFRVeld3cHEyV21iZ2JaaWUtSnE0N0ZsaEJlcC10U1lNanc?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 15:02:00 GMT",
-        "discovered": "2026-09-29T18:45:17.804288+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "موعد مباراة مصر المقبلة أمام جنوب إفريقيا.. والقناة الناقلة FilGoal",
-        "player": "",
-        "content_hash": "2530a36a500546e66f75c944b57231e1d772078a978990bc42ea3e6f00651086",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6859,
-        "title": "الأكبر مع حسام حسن.. منتخب مصر يفوز على جنوب السودان بخماسية في تصفيات أمم إفريقيا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi9ARBVV95cUxPTV9UMm5qQlRmTHdyMTFrdDBReUJnNWpiT3l6RzcwUndVQ3RXakp4dV9ZZ3QxaTdVRlRPOTVQb3d6Uk8ydFRWaThvbU51R0dwSDlWeFlwMkY3MXJVV0VyRWtQZkdSV2dsZE0zblJGcnNlakE4dDg4YWs0WG9sS2J1YjFMVWR0Y0UxTEF2Tk01MHJ0aXgyT0U0bXptbGdaNGRDLUpBSHR5RWNWODlETTJ5bThlR3JQbFRZeG02anV4b25QeHI1NXVCMHd6a1E5WUk3dmNKZXJQZ2IxNnlYZ0pqd0ZrTUJvOHdUM0x6SFdOeVEzV2ExWEwxd3ZvMTlxVUFRRWEtak1aanB6SHl5ZHBWQ3FEMDFBNVVmVWFiZUdhWE9KR0Z4MjYtR2kwQXF5NW5WR3pjSUJWUE9xRmd4c3BfSk10Q0kxNVE5YTlIcm9XTHFIQkhLa2FrM1B0eUk2NnlFVC11Q1Nsc05GTXVFNXpPUTA3ZTM3NExWYk13Zmg5aUpCOHk1UzBUSFk1OVV4M2NNY0dNQk5VNzVibkRmNHB4QUdhX2pCSDB4WWVrVEhKY1hhU2JSelcySHdnNW9WZEp2RHpWODlSVy1WQnFFTmV3SWxRZ3M4M21VQlllbXRjc2Y5aTQ1cUEtTnZjVUdJcHNCeFZ3VW1EdTVTLWNOdXI0emdIbVNfSVZHMU1IVUJ1ZGNCRzVLeVJXR3VSOTVVTzEzVFBhYkhpNDV6dVh3QnN3cmZGak1VWTlFb1Z4WUpzUkhKZFdZWHVFdTFTTTVJZVVQVjBjUUVnbHRIaE4weVpDRGVHS2xDR09HdlVpU2dEOU1XckM20gH6BEFVX3lxTFBaOWZIMV90bGh2bHRsTExLOGNuSWs3eEdPeVU0YmQ4SnBxN2RCT2xBT3U1MFlOalY1WEZTX0F5UG9nUktjemU3V2lzb3pHMmtSdnFRanQ3clZtTGxUNDhHNXpTUUVlTlZtRjh5Vm9RU2Jyd2ZzNFBId1BEX3pwZ0RFdTlHREllSkxCbzVPWkJEcmZaWlA3M1p3QU1SXzRpVlJXZlYzX1lKN24tZXVTOThHVG0tZUtYSGVrY3VuVFMtMWM1VkNOZmd6a3ZaVXFVYWlJSWI2VzVOemV5VjNVejN5bVIwRUFMYTlqMS1vN1hCTWZQdFRrTHdjN3NkUnlFUmZkNGM5WWdGVEVTTDZTTmtlSHBfYVJXdm5yOEwzY3BWRExQUXBIcjduNUlmTE5UUGFoNWpJMUE3Ql9weFgwR01DMmcwaVRqeV9Rb09NcE96MzlQa0RuNE80ZlRTdFlkbWo3OXJVeXBqVllNR29pWnNydGV2SnBXT29lSVotMkJSYndubEp5OGNxSjl0UF9IYjVTc1AybmItTmV0cVJkN1ZJZU9oLWVIaTJkdjhyak5ySE1XS0Fpc1BCM3lyTko0TTlQNjZiSW95ZTVFNWV6YTFleEZhVmxwSFA3M0d2VU8yRWU1T3hHU2JwYmIyMFJvTXhLaFEwNlFUTlRuczduM1J4aXlTY1JLMHpZTUx3S0pEQS1IcGxpLXpJUWdyRW52N3BKYmhTQ1Zlb09oc1RuQTF3YS15Q2xmTU9uWG03YjFOX1dpNmxiSi1ydV9JcFVHeW9MYXg4OUJxTWJ6bEZ2SzVDMlNKZFpicGpYNktXYXkyZ29ITjJ0MnNkVnc?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 15:01:00 GMT",
-        "discovered": "2026-09-29T18:26:40.293318+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الأكبر مع حسام حسن.. منتخب مصر يفوز على جنوب السودان بخماسية في تصفيات أمم إفريقيا FilGoal",
-        "player": "",
-        "content_hash": "2d47392903c1ed09e3ab91010be0e6408ba9541ed77aa58f4a10877c7a7b91ba",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1992,22 +1992,6 @@
         "section": "transfers"
       },
       {
-        "id": 6383,
-        "title": "كرة القدم.. الإصابات تضرب نجوم أوروبا خلال فترة التوقف الدولي - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9fRVZMeFlZQi1kamY5UVdCaGpLcGpwU1l5d1ZoenlJWXF6WktXSXZKRXNGdE9uNnZvSUFtdV9peTRrR2JRSDIzNA?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 18:31:32 GMT",
-        "discovered": "2026-09-28T18:39:02.316529+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "كرة القدم.. الإصابات تضرب نجوم أوروبا خلال فترة التوقف الدولي - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
-        "player": "",
-        "content_hash": "0b4a4526eb8ff8a16c7b1d4e02bb0aa73ca344b1c04bdaa596c43f2dcdc36091",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 6471,
         "title": "كازا.. من بعد مشكل لون ومداق الما فبلوك 35 بسيدي عثمان .. الشركة الجهوية كتوضح: الما مطابق للمعايير الصحية المغربية وها اشنو وقع - goud.ma",
         "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNMUVEbTd2emNYTTFtSjRBSWNpLVJGTG9SdmtEVHJVQXVyQ29ycVdRWEJnc01DTU5nWkhpeklhaDRURkVVZTU2c2VLc1hGLUxhSXJKTGl0eGNSTWQzMEhKNE9tMjJZZjNZaUN1dVBzazd2RWlFN1llVm9rMmNaMW0wNkljV0oyMUhqMGsxRlpxN0FTZldVTy1aclZUdW9aem4tTjdsbk1DbXNXaTdjazFpM2EzcnZLczJybF9iaDhlZW5PUjlLV3NtTGJ0eXM4MGpvT01ZR25CZ2RUUXN0NVhpUkVDQjlwRTV6cVpJVnRSeGZnN281SzZFZUo3YUdROE0wZndXdjQ1RjJkVjFoMDRWcE5RVWZQTjdCTXZ5bTNPNlpIdDMxS2RzbzluNmtCUmpzQTBCR0Y0clNacHE2bERjaE1tbDJUdVZhT2c?oc=5",
@@ -2214,6 +2198,22 @@
         "summary": "رئيس الحكومة اللبنانية يلتقي روبيو في واشنطن ويدعو لتفعيل الإطار الثلاثي الشرق الأوسط",
         "player": "",
         "content_hash": "eb36d36ad965ea8657084e711eed84b3c7f25b5298d1781efe1de74f11adafe1",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 6886,
+        "title": "بريطانيا.. رئيس الحكومة يدعو لاجتماع طارئ بشأن قاعدة فيرفورد - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxQUmVEOWZncXJzR3E3azNWLURmWi1IdENOMEQ5QXd2aUg5cWstQldONkdESThzSTBab3Blam5MemkwbjZmSWN1eW5qY2FrWkJsMkJoaEpxaGR1aEFIOXNWYkxvODBac05RNnRzZTVJdlJ6NllUQktWUGY1S3hPNEhXMjB4V3g5WXM2cjI2R05MLXJXSUktal9JRFdTRGx6SGZDMlotU0lGUVR0TUsySjlLRFN5ZGFNbF9xeUZYWllKVjRCcXZRSDRZR1g1QTNmUmFXTXBsb1haSEFJOVJnOHVVcV9EdjJqbGgtcDBKMEhPYUt5TXBDUWp0bl9vWDBEWVRqd0tKRllIVDVxNEpTVDBNR294VGZGUGwwUEhzZHJmNGw4clFUbHZmNU5kSE84SzZyTW1OekVibTFrcFRzbDJmNjZNTm5jQU1sakJTSTIyRklneHBjUklwRU1FVHRNeTNFQ25UZmU4X0dQN25WMTlPLVNjRUhad2ZkMlJHTklMSVBET2NkVGNGdWlLNk9iT2RoODFBSHUzUUFBb1hyZEtScDhKTU9RaDNJeWRnOEh2WUFpVFJHcjNBam53ZVlvMHdvQ2JtSFNpcV9WZlBvUDRfVHpWUlBYcjQxbmxscW1kd2hWbkFpaHNxbmx4b2hRT29mZ3fSAfcDQVVfeXFMUFA3OTY2ZkdDS1R0My1DSWctVEZkQV9xTUo2TDQydHF0aGNWbzRfanViYjBVYmVDZmZmQkdqWXUtR29CSXRvQTFZdERTSVZQQ01ibVpydlZmYzZPYUtqMV9OcDBXOFo1ZFdTWGhNZFV0Z0Q0Y3FYUF9GTjhtS3VjdWJKanVZU21qM1hmQ2dsbWdYc0pFa0NOTW94N1ZMWmZpd3BBTG1ieHdFclRCSnRVRUZITXhZRW1OUEdueXdCemhzYUZrUlpyUlRnekJIUi0zXzFlczBUQzVtTVNxc1NoTU15aU9Jb2FhU3h1eGozaDNxSGlVejgxUXZXSDh5XzZJZ0l0VWNyUHRXZ1FDTmNiSC1tMG1EdXZBaWNKdm4zanNJSjZ0MTdMQzZmbUxMc09CQVR6azBWQ3FkRElDb1RQX21MTVJsdk9mSncwNXJVa3hZbFE0ZHRaWnVxdVo3YkN3TWRPWm93Q0tEWUtMQXVIYzJ6eDNETnJ6NnFSUTZDcEltZ3pHWExQQnRIcmloMXZabXBBZFlWam1UalJfdVNJX3cyMThKYmphZnFBZVN3amUxNFlzVV9CNUt6Wm1kcU40V2ptMHZNZGZWOHJlaWx4VWkyMDhrbUxadHFKN2JaRnRPMnNjTkh1T25IZ2RGRXRJTGVBQUZsdFk?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Mon, 28 Sep 2026 15:21:46 GMT",
+        "discovered": "2026-09-29T19:35:15.472213+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "بريطانيا.. رئيس الحكومة يدعو لاجتماع طارئ بشأن قاعدة فيرفورد سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "cf54b072714c97c0ba8bac0a5682d42b59787e226914d65dcae47a42d3018f85",
         "sent": 0,
         "section": "middle_east"
       },
