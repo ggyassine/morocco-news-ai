@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T05:19:59.904201+00:00",
+  "updated": "2026-09-29T05:35:04.929808+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -2102,22 +2102,6 @@
         "content_hash": "3d96cb7a09353592270b2189b5d6d5941f1106467922f9045a383ddd739ba932",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 6357,
-        "title": "سلام بحث «اتفاق الإطار» مع روبيو على وقع التفجيرات الإسرائيلية العنيفة جنوب لبنان - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPeWwtZG9lRjdEZ3VSOXdvMmZQaUJObVpyUjlkUll4T3VNVVdPMjN6ekdIbmRyal9PT3hraVlJeGhRWDRHZ3hNUlBBUlIwNmMxdWEyOVJlRjg0Y1I0bFE5SWdhY1RoSThEWGFkZXo1dlZucWV0YjRsdzVraVFidWxwd2R3aHd2R2pacW56cTAwSzdnMEFERkJaVE11X09wSUZTcElNS19kVlZ3TWhMN1JPMFgwMXI1eVBDWGdxRFAzSE1Dblp6RFN1QWx2S042U0wtQmlPa3l3VS0wbnBSdmNlYUh4TzFicVJiX3dQZWt6azd3X0c2QVNtOVdRRTJXSFBHNXpIU3JxQXpiRzlSQVI4TUhOLUE2bEpvZTNRUWZlVEtNVFJHMVVNUkRSSmxHZUJhUndNMTJfRGQ?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 07:00:00 GMT",
-        "discovered": "2026-09-28T17:48:33.465524+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "سلام بحث «اتفاق الإطار» مع روبيو على وقع التفجيرات الإسرائيلية العنيفة جنوب لبنان القدس العربي",
-        "player": "",
-        "content_hash": "8559d021b04cd79fb03d8b09c79d4d7df40e96eb1e563691ccd5a223d3023966",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2392,6 +2376,22 @@
         "summary": "وزير الخارجية السعودي يصل إلى واشنطن لإجراء محادثات مع نظيره الأمريكي القدس العربي",
         "player": "",
         "content_hash": "bdf0871868bf132a0556f000153724da2640a34d5e4445f6f2cdc057dce9d77f",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 6568,
+        "title": "وزير الدفاع البريطاني: من السابق لأوانه الجزم بضلوع دولة أجنبية في حادث قاعدة \"راف فيرفورد\" العسكرية - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUY05GQ2lkQk9BbDdRNkZaR1pvS3BUc3BWWHdBSjBueFJMaVhmSTA0YmZtcEN3cmtXMUZpdmRkZUdjb0VfTjBWWjNfN0pUZ0xrdDkzeE1TVGx4c19UOEHSAWNBVV95cUxOR0RtSmxVWDJxNXlkQmJpSmxkTnd5anpJLThydlRwWVg4VC1Jc0RyVmdwc09veWdNRWxweThpQktYMDg4V0xSdURjWlFEblhtSlhJMUc4Ym1RcTVhLTdJZm1PR1E?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Sun, 27 Sep 2026 22:18:35 GMT",
+        "discovered": "2026-09-29T05:35:02.556434+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "وزير الدفاع البريطاني: من السابق لأوانه الجزم بضلوع دولة أجنبية في حادث قاعدة \"راف فيرفورد\" العسكرية BBC",
+        "player": "",
+        "content_hash": "0ff7140ab7e9693b84d35967d566fb56bd4ff6ec181c354f82469e45f06f7f17",
         "sent": 0,
         "section": "world_arabic"
       },
