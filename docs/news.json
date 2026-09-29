@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T01:37:35.590489+00:00",
+  "updated": "2026-09-29T01:51:13.959527+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -64,6 +64,22 @@
         "summary": "واش الصلاة تقدر تمنع مرا من رئاسة الحكومة؟ خبير فالعلاقات الدولية لـ“كود”: هادي مسألة بروتوكولية ماشي دينية.. الدستور ما حدد لا جنس لا دين رئيس الحكومة.. ولملك هو لي عندو صلاحية تنظيم هاد التفاصيل.. والمعركة الحقيقية دابا هي صورة “البام “ قدام المعارضة القوية - كود: جريدة كود",
         "player": "",
         "content_hash": "04fe139c91508c207d5d9786f0a4fa7392f014e33815681819f664823c02a608",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 6544,
+        "title": "مراكش.. فتح بحث قضائي مع موظف شرطة برتبة مقدم للاشتباه في تورطه في قضية اغتصاب - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pVEdIbmZWbVlRYlRtQmpUMzBDWk1oYWdwTDlOLVJrWjBmQ0twbzFyanhVTnJRODh1WDV1cmpvdVU1QV91UlhEdHNJUVJpV1AtYm1VZ0ZXb2lNUE1xbURDcHNTUThNUQ?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Mon, 28 Sep 2026 19:56:05 GMT",
+        "discovered": "2026-09-29T01:50:38.165590+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "فتح بحث قضائي مع موظف شرطة برتبة مقدم للاشتباه في تورطه في قضية اغتصاب Le 360 Arabe",
+        "player": "",
+        "content_hash": "ab042ed74a0d134f4136ff7027894b163b6ea60eff12ff275a1a0244ef7824e4",
         "sent": 0,
         "section": "morocco"
       },
@@ -784,22 +800,6 @@
         "summary": "بدء أعمال الدورة الـ166 لمجلس جامعة الدول العربية على المستوى الوزاري بمشاركة المغرب | Page 1336 | MAP | MapNews",
         "player": "",
         "content_hash": "9f6f9639b0f10355753566be66fee9f853aa23443605672b2f47043afed63998",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 6520,
-        "title": "المغرب-الأرجنتين.. نحو تحالف اقتصادي استراتيجي قائم على التكامل الإقليمي - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMi3gRBVV95cUxQcVNzWTNOUUpWaGJkOUlaVnNBWEVPVC1fNmVfSmxiaFllQzY0b2xpZ3YzV2RlVlliM1JJcFF4aTJ6aWJzLUJhTzhRZ1QtNUhkQ2x1a3gtbXA4Ujk0d0xzWWtQRnl2UkZIa0pqZnF0MEJHa19CRVg4SUFXTWc3cVBuWmNNOFYxZF9RQVJybjFqNldlamJfNHRoQXNQWG5qM0VKRXBoV0wxeVFGNy16MFZHS0xxS0s4WklicC1GVHo0WEF3MjlSUGRFVmVYRGMyNkVwbEt6QlFlQTk3dnlHMkpZNEpVeG5oRjBaM0tScXA4a2hpb2FEbTEyZ0xjcjNSUHF5dWVNblhQQlljbzA1dDBKRy1kdEhHVFIxbDhqdzA5eVJrNzFkSmZPd3FTdFd6THpaZjRDMEJtSVZJd20yV1A1V2VYbGROTEF1Yk9PQklJa0t5X3EzcEo0bEszUjg5Sk5admpUMndtV1MtaUtBa0NTM1hVeW5XdzlBdmx6c1RfNFF6QUpua3ZHal9HY2wzbWRIdlQ5RXU2M0Y2ZS1BNFdiM0JyZldReFZyNnl3WURneW52QTFBTlRtT21zdVNlVExiTTN3VUNjVGVmWWo4aEZaRzZ2dFMyaHNyRkFlYkphdWFUU1R0WHV3TGt2VzVtOGpKZkgxeUx0SHFDT1lHSkpMc2d3R29WX1BscDJtM0tMMUx4ZHBpQzNBXzVmUEVCSkNVSzdxWmQ2U2N0WWtJWGZOSjJEdG1fVkVhY1RKdkp1WkpOZXRPVmk1WVRMc0NUa1ZPVHJFaUVOX0VPYWJoY0E?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Mon, 28 Sep 2026 03:34:40 GMT",
-        "discovered": "2026-09-28T23:45:18.331548+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "المغرب-الأرجنتين.. نحو تحالف اقتصادي استراتيجي قائم على التكامل الإقليمي | MapNews",
-        "player": "",
-        "content_hash": "5e5bf1a48050319d0956729e772819699b40821eeef085f11127b39b5091fcac",
         "sent": 0,
         "section": "morocco"
       }
