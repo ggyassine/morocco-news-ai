@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T22:45:12.663644+00:00",
+  "updated": "2026-09-29T22:55:49.164874+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -32,6 +32,22 @@
         "summary": "إحالة أنسبكتور ممتاز على جنايات فاس.. وها التهمة لًي توجهات ليه كود",
         "player": "",
         "content_hash": "98b3a59830bdf81051953b8f75f045464b6f33acfa8239f85098b02ad2da5988",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 6961,
+        "title": "ملك المغرب يعيّن فاطمة الزهراء المنصوري أول رئيسة للحكومة في تاريخ البلاد.. ماذا نعرف عنها؟ - Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUTc4emloMkRZeDUxZ1JaWmJzZTlLdjRueXJaa3Zqc0dha0dVLXF4U0lQM3V5TVF3a2xDLXdDVWJ3VVF2QjI0eXh2TGF6X25IN2pUNHZMbEJxamJCWS14c2FKR1JURU1pcVBNYmEzNmllZ1ZEeThHVXB6bTBFQzZXeUl5WHEydUhMS3ZORWdzR3VlMGZ4bHRYSEhLdjVQNkpucjVuNFkzV3Q4WkF6T1lvS2xYQU1YY3pyRC1pR003endJc29RamJWUQ?oc=5",
+        "source": "يورونيوز عربي",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 16:06:41 GMT",
+        "discovered": "2026-09-29T22:55:47.053376+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "ملك المغرب يعيّن فاطمة الزهراء المنصوري أول رئيسة للحكومة في تاريخ البلاد.. ماذا نعرف عنها؟ Euronews.com",
+        "player": "",
+        "content_hash": "342fb52986d1a876f378ec1794834c961f256ed1a0dc3775de55e3a2bb79b5bb",
         "sent": 0,
         "section": "morocco"
       },
@@ -404,22 +420,6 @@
         "section": "morocco"
       },
       {
-        "id": 6461,
-        "title": "الهيري لـ\"كود\": المغرب ما خاصوش يبقى غير منصة صناعية تنافسية.. والتحدي اليوم هو خلق قيمة مضافة محلية ومناصب شغل مستدامة وتقوية السيادة الصناعية داخل سلاسل الإنتاج - كود: جريدة إلكترونية مغربية شاملة. - كود",
-        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxONEpiOUNxQlFFSmcxM0NPLWt1ejFia0szQWQ1TU9uNXNaVXlEWXBLS3NLVWdfNXhmWElwSUlNZk1oRjlPdFV6RXZ4MlRXeUFUcGMydDFabDZ6dkp4V1hYTzNBWEUzVkNLLVVnS1E3dFpRQ2YxS1ZrUnJudkZRcVgyczlUdUpjOHRUbHp5Mjl0cGo1bk5IOHo4UlNqRURzVS1hWXNxVUJWTGJmWGpYRHdYUjBfMm9Ramp4M2FJV2E3ZXZRMVI4VnF6XzZMUmh2cmQwdHZFLTd6ZnBoUm14WlQyM3FRV0lsRHQwRlVzWDZrMHYxTWFfUHAyZWFxMTE0N28wVW51QUZzYmRxTVBHeHhmWGNmT3JFOVpXaFRmUmFEVW1iLWIxZWFjVzNOdXRDV2tUUlVlaUVGRHZzeXlHdDVxZlAtOA?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 17:56:42 GMT",
-        "discovered": "2026-09-28T21:01:22.437392+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الهيري لـ\"كود\": المغرب ما خاصوش يبقى غير منصة صناعية تنافسية.. والتحدي اليوم هو خلق قيمة مضافة محلية ومناصب شغل مستدامة وتقوية السيادة الصناعية داخل سلاسل الإنتاج - كود: جريدة إلكترونية مغربية شاملة.",
-        "player": "",
-        "content_hash": "e8eed159625c3f8373fdbbf6e29dcff0f629ab7676353c84000c7ad050e643b7",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 6490,
         "title": "السعودية والمغرب تبحثان تعزيز التعاون الدفاعي - aawsat.com",
         "url": "https://news.google.com/rss/articles/CBMimwRBVV95cUxNUGZrUWJDakluVjRqVzFrUDRyOVFSdHhaYWdyenBSa2hESi1FTEdvZGlTeUtlWm5QOC1LVWN4NExpX01NZ01PU0wtcHdOS2VkS1RvQk9Vb1ZleWtfQl9fNU0wcm1INFNTSHJwSzVuNHB5NmQ5SDRoeWtteDA3TkhfQ0hveGFXaEU4MFUzSEwzMlcxR3JsNXZuc3BHWFExeXhhaEx0cmR0d2ZjNXNEVzZnWHdkVmlkY1ZVYVNJS19OeUdwS0RLcTdBUVRURldvMGtrU1NaMUwxZE5iSElYZ29RVTZrckQ0YjlMdTlhbXF5UkVRMjcxblU2VEJIY3BGcG45TWxOLWZwZUZ2SmhkeHdUWW84cVpST2lncmkyeF9mdzV1aTAxaXJOSTdjYkFXRlVKUFpZajFBZ1JuODgzeTVZWFdjZzdQM2JVWnFDdUNvWi1PT216amQ3aHhWa3dkZ2hMRHFOLXVzLWtvWmNrQ3pqUGZmbWZ6SDBYSms5MWs2cnZUMlJ5RTF1SXhuYkt3VXRiam5TRU5oZFdLamxWM2R2N1hNYWR4WTctT19veEJxODZ0UmIyeVlydTVyV0k2T3Bodm4zMmR0OUxBVkVrdWJWM1JqRXctYzkyQ1g1YU4wT1ZrN0VaeDltTGQ2TXprVVJibVF5czNJSU8ydHR4Tnlvdy1nUjZBdTNxN29OdlZkQnE5WEN1bzFOSmVGbw?oc=5",
@@ -576,22 +576,6 @@
         "summary": "وزارة الصحة تعلن رصد بؤرتين لداء الدفتيريا بسوس ماسة وتسجيل حالتي وفاة Febrayer",
         "player": "",
         "content_hash": "538ad7c79107a341d7e3e5cea840e145753f8235d363f7e18b2ca0953fe9cb2b",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 6462,
-        "title": "واخيرا وزارة الصحة خرجات توضح: كاينين جوج بؤر عائلية لمرض “الدفتيريا” فسوس وماتو جوج وخاص التلقيح - كود",
-        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNdUJnREF6eDlyNzJlNGxQT3ZTbGx1TWlHaFgtRGZrLWJTVjdDSFJNaU00NHp6N0VrbGtBWC1HdmE5eE01MUlVbURHZUdLazNlWHU5R1BPS3JZQ3cyNGlUMzV4NTg1T0xTQ2tpbW1Kdll6T2JiRk14YkJYRWpCdkhYN1BCVHpqMU1BOGZUaTViNWc5MUMtZ2FsRlVEZVFZcVZPakNZLWVmSHZwdUxYUVlqRlFQVU50dWcwRFNRRk9jMG5kVDNkWndEWlFZN2ZMakFzY25VV3R3dHpJQlNlOXVTQ1VmRE05c2dvcHBzNl9HTnh1VVVKYnhCR2JYdG5oQjIxbFlaX3ptYXlLQ2tmaUo2cmNFbmdpbmlyMnR0MFFEUnJjbFRPdGVwUzBVaV84SEJCLXF3V3NlcjJUYjZsYk1TOVpqNDktQ3VvQXlj?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 15:12:14 GMT",
-        "discovered": "2026-09-28T21:01:22.472344+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "واخيرا وزارة الصحة خرجات توضح: كاينين جوج بؤر عائلية لمرض “الدفتيريا” فسوس وماتو جوج وخاص التلقيح كود",
-        "player": "",
-        "content_hash": "1ec3c1b66bc0d4a7f811629e24e0e8ccf3b4c16d23464c9d526994a825b4042e",
         "sent": 0,
         "section": "morocco"
       },
@@ -768,22 +752,6 @@
         "summary": "رئيس مفوضية الاتحاد الإفريقي يشيد بالتزام المغرب لفائدة العمل الإفريقي المشترك | MapNews",
         "player": "",
         "content_hash": "3e1551dfbd74e086ebc11fddb1b903e82d636e2d7e8cbc696928ee508037b331",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 6795,
-        "title": "المغرب/الهند.. لقاء بالرباط لاستكشاف فرص الشراكة في مجال الأعمال - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxNTXNNX0FhWlhTSG55M1JJTWstZUZJYjN3VzJ3WXJZb3BQSlJ2a1FjdGh6bFpiN0JoZHJnbERfQ1g5ejhCMjJQcVhJVk44cEdtUHNCNVdBdlUwb0d3STBrLW5iTGdLUFJuOFhweTJEanI3QU1TM3p5b3RaVHVMOEwtQnR5VERXY2szbGpCeHRIdmRTNWtGd0dJUXAtSWp4eHQzaE5OdzlxdU5RVV8ybGlzLVBlUTZ6MkkzSlNuYlFuaUZYOG12NnBUYzlLN3gwd3NoT2YwNHZQUDA1MEVCeTFSUGRmejNzSXVSRDdjLWp2VHFlS08xaEt3RGxON0pHelJKLUo3dWJfZ0dueUlBS2lTb3FvaHFPOEQ4eC1YYlBqZ0JTMVA3WE9MQjJZYm82S3ZZcHROQmI5bTlVY2ZOa0ZmbDhPaTZVcWpWRVk3aXVxbUpxMGhDakNsTHNfSVV1c0xaeXZoUGJxSVg3ZjItMWQtaUtFUW40bzhtdTF3UGNHb3NyX3REZWdfQ081cEQ4Ykt0c0NreWNCclpOTjNxT1hUd2h3TGstdlpaMGt3NWZiUXRsQWkyRW5DN3YxNGU4Q284RFZOUWo5OXJ1cUk5MGs0WmNTQklKQkV2NVdYWTJ6cnM1NWJYd3FiRGo4SEh6MEhPd1pxNHluMGJfTlF1SmdrWFZTamQ5SFpwOUZ0aVhseVBMYjRiTmhMOTcxMy1NQV8wY2IwZzNGeV9BOS16?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Mon, 28 Sep 2026 12:26:46 GMT",
-        "discovered": "2026-09-29T16:37:11.013164+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "المغرب/الهند.. لقاء بالرباط لاستكشاف فرص الشراكة في مجال الأعمال | MapNews",
-        "player": "",
-        "content_hash": "d860cb2ba7a8bd6c34a861ae298b828a7f48f536a558ce9f3f5d7a71c4f7b7c0",
         "sent": 0,
         "section": "morocco"
       }
@@ -1138,6 +1106,22 @@
         "summary": "المنتخب السعودي بالعلامة الكاملة.. هزم العراق بثنائية وأقصاه من خليجي 27 | كووورة Kooora",
         "player": "",
         "content_hash": "724d8ea4d65ee8f66ff6da6448404aaee558193d5ef52519c3231e1759700258",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6959,
+        "title": "روما يرفض مشاركة لاعبيه في حفل تكريم ميسي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQNm1mTk1hc2FWWUFSeHd3TlY3Q3N0VFgwNUZjMmZhUC1DTzJ3YkpKUnAySFFhdF9QeWZ1bi1MR29KVEs4S0xBSE4zR3pZMDZFQ1NvUGhMcTkwaFVQckFucWV5dXM3SmU3U0N5dFNGMlJRdWRwOHFIV0ZlMndjYjZqR0hremVIOTU0bzU3UkhnMV9qam9uNkE1Yi1FVlRJOV9XRXR6NWpZS29NMDl4dlI4cHQ1c0pVeDBQWHZZSG5DZ1MzWXpMT0cxRC14cnA1bXhDMnRwd0lpMnd2bXpBRktjV3h4Wm9LdUxTdURkUzBCSE9ZTUZzbUoyVzlleDB6c1pMSW1XUkhvVXFrTm4zVEowd3hFMkxvSjlHZUdmTVpyb2FJU1VVbGF4cHRxYTZEbDkwRmhwMUNGWGpmSGNoY29LdmFsSjJtUjAxUUZoS3ktOEViOXBlbVI3YkowWktPbkhkeUFEb0ZIN2pfb0XSAfACQVVfeXFMUFR5WmM3R0RIZ1ZCa1hWNFJRbVdMTUFWVmNKRFVSeUR2SS03ZGlqMWluWDJBdHpuNlpIMVoyWlBycXh3YmJyOVNqZnk2OGVxR1dUZzlkeXdIMEhKS0N1M0dCcS02bUhIb1dsUWRTMHkxYktpZ1JQQ1pnQ0JlVldSd1V0LTQyWi1kc1pCRFFycFFTeElXdFBFaUZlMkZYUVlFVmp1NjRjNER6U21OcmctUmQwMWd2Ui1pcm82RFFOTEl3QjRVVTlMQkJ6SkdDbHQ3bDF5MFVSdlVsUFUzVHY2M3FjODExNTdaWHk2cVpaaF9xcmFBbno5M2kwSG00ZnpxbTFQRUhzY21ucFprWC1GTEMtOUlMMEs0cUtnaVVJS0FLSnBLTE1Gb2ZEejBORkFZd2F3ZnU1d0o5eXpaQm81eVd4WndwY1Q1RnhZdWtyWHVRbjJWNndYOEhrOXh5dHV3Mm9MZnBvcjdDSEhhekl5UHI?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 19:30:00 GMT",
+        "discovered": "2026-09-29T22:55:34.439740+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "روما يرفض مشاركة لاعبيه في حفل تكريم ميسي FilGoal",
+        "player": "",
+        "content_hash": "94bacf21a0cf7ea221767b1172e22f173dadc39f707895cc7d6409be57815988",
         "sent": 0,
         "section": "sports"
       },
@@ -1570,22 +1554,6 @@
         "summary": "حلفاء إيران في العراق: الانسحاب «هزيمة ساحقة لأمريكا» القدس العربي",
         "player": "",
         "content_hash": "8c3678187acba030ae72f3a09550e436bfbf73ce8fe1fee105317773f4ae1653",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6912,
-        "title": "حسام حسن: مصر بها 120 مليون.. والمنتخب \"لا يقف على أحد\" - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPVlZubmNKSjN0RjFWNUxKdHlZMWJjeEVzWDRQa2w0by1NV2U2b1JZQnM3Wk9qdVVCY2JWbEpiOWNfM0laUHZORVN3a081TlBlbGVEU2pGMVVCTVI2eDZ3eEE5OG1FWUZjOVJSV0tRLVF3ZUMxb2FxWlV3em14VXZfMUk1cVZTTE5RcnlPVTlBY01GTFZZeTI5aFBpNXdHbmdSU2ZWQWpHb3c2VjdrZ3JkdTZrUkctZVI0WTJMaDl5S0pxbm1VT0FnZHVoYnBUYTh2UkVoZTNBQzhCamJPUVppcGJDS1AwTnkzc0E2X3dBQXlVeXhHN0RFaGFLbHZGZjg5YzVCamQ2eUFqSWQ4MW9DcEtoNjhLcTlFbFA0VXlQRjNETno0bE9fd0hOSEJ0Qm1FVDhJZ1JMXzAzQ2dYVVVGOTZPakpGSVBIQ0psT0xnLTlEcGIzeWh2Yzh5bW82Z9IB4wJBVV95cUxQMTJaSFFRT0RacTFvS05OR2ktRjFub1d5Vm1OUXM2QkxsSTNCWU9aNHBWbURBQ1NVQWRZaGt0NHJRU2Utckw0WGdvTmhTNkcwVkhZQ21vaFJLeVRPQWVTM2JFVEN1WXVvZS1PNHd5WV9JX2xSelNYNHZQN0I0STE0NFg0Z1kyNm5US19sZzNjVUdjYkRDNFZ4aUFpRHIyS2c2aGZSSlNOd05wR0h4N09QY1pUX0ZPWFkya3ZlRWsycVNwdkV1T25xOFlmZjg1UnMwWmZWVWdpclZhbXhpQUhkZk14Z0RfM09TVmJPZ0tNRzlrbVV5WW1XRGl3Z0laYzMtam5hcm1DTjhNWU1lUF9xYjh5TWlpMHJUSHZrcTJ4Z3BJWENuV1c1R3oxeXVSUGx3NG13RWdwV0VOSTJoV08zZjh6NmtNenQzaUlGYjFPUDFHNmJXT01DcUVVRVhzdExaZS1Z?oc=5",
-        "source": "سكاي نيوز عربية رياضة",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 17:35:33 GMT",
-        "discovered": "2026-09-29T20:36:44.619888+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "حسام حسن: مصر بها 120 مليون.. والمنتخب \"لا يقف على أحد\" سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "22a1c82ac437917229bc316465fadf8fdacf259a7b5dab8a4e4723325bcef19e",
         "sent": 0,
         "section": "sports"
       }
@@ -2284,6 +2252,22 @@
         "section": "world_arabic"
       },
       {
+        "id": 6962,
+        "title": "عرض من إيران لمواطني الشرق الأوسط: مكافأة تصل إلى 40 ألف دولار مقابل أسر أو قتل جنود أميركيين - Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZFFJVHM5NzdDV1Z5SURXazZ1MVJEaXVPOTFGVVRVcnBFbF8tbFYzRmE4QnNOdUtncHZOb1VCSVA3ZEM4RDlidmxrZGo2d0NHOGZHUzcycDNKR1hjeWJyUFZlQVIxay1EQ0ZxdDQ3dGtNSVBXT1VjenhfU3pickpraWVlZUtCNVM3RDJlY0FIYTI4dVp4c3JJ?oc=5",
+        "source": "يورونيوز عربي",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 17:27:21 GMT",
+        "discovered": "2026-09-29T22:55:47.061651+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "عرض من إيران لمواطني الشرق الأوسط: مكافأة تصل إلى 40 ألف دولار مقابل أسر أو قتل جنود أميركيين Euronews.com",
+        "player": "",
+        "content_hash": "26679d1cf654603eef677784c017858800962cc65f281996fb86f0978f828ccb",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
         "id": 6822,
         "title": "نائب رئيس الإمارات يجري مباحثات مع ولي العهد السعودي في الرياض - CNN Arabic",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRGRXQkN0ZUU0c0VBaFVyeExlME11OElJZDdQMjhWMFpnaGdSTGlITmJxVzVIbWdoWDdwTXFYWEF1YkhvRmJUb3B5Y1hFSnhLZWhualR1Ukh3a2RRN0xBYVd4NXJha2piTC1BOExuNXNDcmlLa2FxM21ZNWVnUUx2Q1pQdTZ2YjBWaGxZalFkdVc5MXUtR3lrV1k1eWRxV19ucFFBNGFFNVRhU2xpamgwc2tnOTlTTXNUa0R3WkZpLU83bmRIRWgxbml4WXhUdw?oc=5",
@@ -2360,6 +2344,22 @@
         "summary": "سيلين ديون تختتم عرض أزياء لوريال باريس القدس العربي",
         "player": "",
         "content_hash": "2d8dbc2ff1096e17a93bf104ff4d2ea13bfc8d89f81f0f25a135be6a82ff8a83",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 6960,
+        "title": "الحرس الثوري الإيراني يدعو الأمريكيين إلى رفض سياسات ترامب ​في الانتخابات النصفية للكونغرس - France 24",
+        "url": "https://news.google.com/rss/articles/CBMiwgZBVV95cUxNSlFBWjl2a1ItUnNBQW9wNFRvc1daaGFUOFVVQXd2bUs3N2d0SnBWWkZpdnJmeUlmSWRXV2wwYjBFbGl6cWljNjRNRktDOHVGRUlvYmoxQWZvUFJja3FKaWlMWTZMWlhybTZWSnJENlczXzhkcWJWU1JubUxSOGZKTmNzY3Jrd3RZY0JPZlpfaFRSMFpZRlVyczdWQUNDZmxLQS1BcVczR3dwM0dEVXJuOF95eHliMU5SNG03U0FiQXJnd3c4U3ZFR190M05VT1RNT1pxMll6TkV1eUIxbG4ybFFJWVZaRm1BakY4THBjekNJVFN0OVNBOGVEMWEzZ1M1dlVBVkxWc1FSTnE5MW1IWWUzOEFnWW1rY0RfNlNwOVVEU2JGQm1VV1dQUGJNUzYyU2x3Mm44aFdLSDh0em84UnZ5NGl5R1ZyNFpJMUFYNUtxZmhBd0VIbjFYRjVsM1QzSElaY3lPdEFKeS1XcXZSV3VtaURuMmNzUWdzaEFIWFliZGl5T01yNWJHZTExT0NfZWpjUDFWUXdwODROeXk4ZnBibEt5bDNoZEstbWJXeGZibHotSnBEaDFXZElaQ2lBZkdSMm9yQmtSTWFGQWZPaTFEODNXclJkSHFGSUNxdmN4OHNDSnUyd1l0N011amxTNkVxR09pOFF0Rm9sc1pLVXhQQzlwZGN2V3d3Vnl0cXlZalF0QXBJXzVwT1N1WHlRR0lCZkpmM2hQeWFINThuUjRhVGIzcmdEN0Y1QzBnYzJuUlFOOExBcUpHaHViZGR0cTdMTlIwNkVPTTliOUlWUXNkLUhPNTlfLXBPOFpVcWM1MmxCZUZEdkFyVDV5VUNyemUxMUh4ZjJkQWZ4OTRYR2pWY1FQU0lKZjJVNnJWbnNQaF85S3JFd1NtY21yTGdFeS04SXNvYktldEZzdGhUQWZZcVk1RkJWRnBHUVNNWUp6MXRORHMyZkxMeklyTHpGZExvSTJyLXkwd1R5bWVRMXluMjVrVmx0em1tM0doNER2WGYwSWY0RDBHVWFodW1YaWkxVU9qNHBfTHdyV2lETEl4TmxZYWZUVTJTMHc5TU9QYjZKSVpSMGo3NUhPQmRyV2c?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Tue, 29 Sep 2026 04:51:03 GMT",
+        "discovered": "2026-09-29T22:55:45.064801+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "الحرس الثوري الإيراني يدعو الأمريكيين إلى رفض سياسات ترامب ​في الانتخابات النصفية للكونغرس France 24",
+        "player": "",
+        "content_hash": "71d3c141a05da2ecb0dd6af3d45984a8183d612e1328106458fdf61c6ffbcaef",
         "sent": 0,
         "section": "world_arabic"
       },
