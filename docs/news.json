@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T15:59:54.954169+00:00",
+  "updated": "2026-09-29T16:19:27.744116+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -612,22 +612,6 @@
         "section": "morocco"
       },
       {
-        "id": 6289,
-        "title": "إحالة البقالي عمدة فاس على غرفة الجنايات بعدما رجعات حريرتو من النقض: كيواجه جريمة عدم التبليغ عن وقوع جناية - كود",
-        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNYmMxODEzUHVzekNBdEo4c2gydjFLb2Y4LW9ENmdpUVRUUU1OZnRBTHAwMl9MTDh0VHQ4ZUNuQlBKVkU3THJjWjBKNGxVaHJRMlQxZ3JNX1F6dXg4TTlZSnNWVmNOdGJwaGtTVEFHRzZ2emx4TFFXamxKREFXMU9pT2hXSE02cEF0LWh0d2k0RXZxMzZXMWNwRllIVGNUWFJ1RDdYR0pLQWNrbm8tMzQ1NFE3dW93c1hWTlhUVWdRc1ZlMlNPRDNZY3NjX2trZ2EwcENCZW0wNUFEMmliWWIteWg2X2c3ZGlLVG5yQWpzU051U2ZkaktGTHg3R2NEQUpObXI1MXI5Ym1zeS1MVFFmUV8zMDdMbnJDbEFJcWUwN1oxVzF4MFoyUXdZUXJvM2tjaGI1SVljbkxNZGhTT1FyNmNyOWpyUXVJT2pN?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 14:46:38 GMT",
-        "discovered": "2026-09-28T14:51:30.135850+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "إحالة البقالي عمدة فاس على غرفة الجنايات بعدما رجعات حريرتو من النقض: كيواجه جريمة عدم التبليغ عن وقوع جناية كود",
-        "player": "",
-        "content_hash": "6abc96e905eb062da6110043045dd4d9c665d139f6a49a8aa24e97af9aeecf8c",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 6642,
         "title": "وهبي: أگرد بوحدو الغايب علينا ضد ليسوتو. خاصنا نتأضابطاو مع الظروف المختلفة على المغرب وجينا نربحوهم - كود",
         "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQaVdmSVl5M2xXU3Z1ZURIc2ZkNmE4dUJfUndQLTBVYTNoVXFMaFlyVjhwR0JvSms3NlpLdkpndlpVZUZrS0FnN0lMeUdLSi1idU9wYUtqUmxwdDVNdS03QWdfWWtObElvUTIzaXRPOVdNdzJGdFhBN2d6ZHJ1QkVteV9tc3lqZlFSbG93Zm9RcUJiLUFxNW0xVWp3WmEwbHgxeHo3OGFMNllqRTh2SnpZWlgzNWwzOXN5NlQzN29mUkZ1QUFmZGJFTi1Wb0ZWQzN1d0dNS1QxVE9sbG5UZTBZYlBpYk9lSVRUcTJZRFRzLUxVRHZESWd4TDBoWU1ycEF3UUU1OFJRazh4U0VJZUxJSGVwc2FlYTFEWVNsTWp6QVRkRkg3OFJua2NZbkgtVGlPS3pKclpZRDIxVGhHbDlGOXphU1dZTXZIRldJ?oc=5",
@@ -802,9 +786,41 @@
         "content_hash": "0046eeb7475e6fad3cef2f884bd9fe17a28f50927c6967be25e6f4ff7538f6de",
         "sent": 0,
         "section": "morocco"
+      },
+      {
+        "id": 6316,
+        "title": "الانتخابات التشريعية 2026 - | MapNews",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNelpablpjdWxtNndKSDRPd0luWml1N2ExSzNmRWI5d0J0eDVyTWplcnNDckxXUWhRVHUzZVptNlljc1ctZ251ZklJVHI1RDI1Y2ZIMVFSdGI0M09sNnNNWWF0RUpQWWNnX29JQWgybjhmY3BySmxlTkRQZTJPTnRyV0NQVWstSGJEX0RaSFRJR3pLZkpXZ2dqTlY4WXE3RFdJVGhPdDRZN0dQZkl3R0VmRXhSY0hzOTZ6THhKT2xzeFozMWs1MmRwa0FtU0oweG5mdWtHaGtWUi1vV1pzWFF4ZTJGeFRQckhOY0dv?oc=5",
+        "source": "MAP عربي",
+        "trust": "A",
+        "published": "Mon, 28 Sep 2026 08:47:33 GMT",
+        "discovered": "2026-09-28T16:30:51.985986+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "8718a77afa736b9f67a395e5c3c2d4f5fb45c216fed222b3ebbe72fd0f7b2664",
+        "sent": 0,
+        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 6788,
+        "title": "حسام حسن: محمد صلاح غاب لظروف شخصية.. ومنتخب مصر لا يقف على أحد - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxOekh3ODg3b3ZWSzdvd0xzLUNwMzMxZDRad1pjYXlyZm45cXYzLVAxTGY4MmhJNFJqRFVSYW03R3M2MDdabDZsTndxSVFsSDF2SGdESUEta1RSZWFRQkZQTm5hOV9RM0hFOVY1ZE1wWUdreG1FT1NDaHRYZTQ4OGw5aXNxYnM4bDdySmRlN0hjaktaRUdwX3IxRnVHQU52dUZBTVk5N2RrdDJrM3d3bjBBVUhnLWJ4ODlQX2UyUlZveGxRWkE1N0xOV25vS3JMNXBEZk9HX0hGMDZXZm9zT0Z5bzA3U3F5clRMczB3X1FidDl0OG5MZnF4QjRmRG1uM2VuZ3Q4RjdEUklsTzM1V2VxU0Ntb05oSllreHRFRzU0cE5MZk8zQnpYd29WTmJGZlZrN3F2c0hmS0ZrTmZMeXpndXVOTWNsSXZrODJpWllEazFXMU9BNnRsOGRqV3RPUFN2cEQ5QUtBcmxta3g1OTE3ZERHcGFvcDA4SkFvMG5UaHg0LVFTLU5GYWExejVGTENXLWtEdjMzS3JIdHBFN1Jmc3FtUWQ4NUlMVHAwMnZTRzBMVU52S2FQVzU2Z3N1alp4ckgtX19RdnJtMlVBVG5WOVRya3ZzM01oWWZSS0NFc0lDVUlpeHhmMUllZEV4cTZHTlVRclB4aTBTd9IB_wNBVV95cUxPekpmUjFJMU5HZDBOa2hQaXpYU05pZ202QmtxdzVYRm5lYnpRNnF5SDFucTR2eWVTYndZTkEzaTJJNlRVTS1USThoTEhxeWp4NkVrY3dGWlRFZTFRSi1IS0M0WmdkaW9yUHgwa0dBN3pad2lBbVZTd3Y4MlFUWVJWQ1NQdFd1RlRsUEN2alZRWmpxQ2lRSzJISXdOU0VpV3U3MDVQV2JWUTE1SVdseG5xSWNoU04xWC1wVDlpNmYtTjFDOGJHU0lXSWhadzFoSFRGTWdONVRFbjVPcjVnME03LXMxWmRaWDlsa2RjbTg2NnF4dnVsOWt6cWZiVHRjZE5ZSG4xb2tZZkFzSnFBLXBaeFhhMkxSVDlSNk1SRVI1NTZ4T0ZJby10UmtYNmhyWkpQdkRJZ1ZrVjZkTGJLR045M3FHdFNieVAzM1Q5dzYzc0F4QTkzejZFMFRjYnVadmpsb1JJaGdYa2Y5WHhHdGFyVFpZRXplREp4SUxpV0VCZGt2SjBuVUpYQlhGUk0wOHVVSFdKeWl1S3Z2cUtBQUtBM1l3ZDNNazdJcmd3Um9XQ3hGNGtsaXZrWjJRNDdzMWZLczFPM29MZ0M1a21OVnRjOTNFUGl6U05iV0owYWVpWWk5Rjk5cThqc0dJNDFGRmJCYUxLTWg4RUdPNFNhbkg4?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 16:05:00 GMT",
+        "discovered": "2026-09-29T16:19:08.171757+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "حسام حسن: محمد صلاح غاب لظروف شخصية.. ومنتخب مصر لا يقف على أحد يلاكورة",
+        "player": "",
+        "content_hash": "8dd2822b99e7901fa65ff33434966ce83a88426c6bbcaff7917dca5c6b806257",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 6781,
         "title": "«ألعاب آسيا»: أخضر «الرياضات الإلكترونية» يحجز مقعده في نصف النهائي - الشرق الأوسط",
@@ -1588,25 +1604,25 @@
         "content_hash": "f692b641cc9223e2342f5a4c976265d478b385faec54a79a14689f54102a978a",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 6716,
-        "title": "مواعيد ونتائج مباريات الدوري المصري 2026/2027 - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQOGpKYTZsRWpuLVUzbk9vYjdOcjN1NVFucjVXdXpoTDA2T1RfbU5NRXl4QjBKUU1fOUtFZVdKMHZGOEJfbW91Y0pGR190NktGODRnbUNEZ2NSMWVGRkF4WnpyMVpaSmhUOFpObDhMaThZNGZOR3JFY2lOcTFJUFJuZHVXX3hpTUZSTTZReExMTHpqb1Z4elFPZldGMUtXcEo3cWs5R28xS2FxbEMzYm9qMDc1MmJteFB0MG9xb2JQeXkxZGhnaHIwd2FuWWpiWUdHVDVySENoX28zMEFxSGRCOG80aXgzdnBQNnBoOEx6cmtTZm5aTmhSOV9aQlhGUE1jNHJ6RjFVU3JCX0VCRmRDNEZZR1BtaW9DZXFNRlVCaTgxUjFyaTR3b2tiOWpMZm9Kc1hQNzBZS3JjWWVfVlJYLWtOVmVGdEtuajdYTGN3?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 12:28:08 GMT",
-        "discovered": "2026-09-29T13:03:28.726470+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مواعيد ونتائج مباريات الدوري المصري 2026/2027 يلاكورة",
-        "player": "",
-        "content_hash": "6905a719a1b9aef3665e3369cd2dbb6d21739f7a9e66e83269c46005b6778f7f",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 6791,
+        "title": "غموض المفاوضات الأميركية الإيرانية يفاقم تقلبات أسواق الطاقة - العربية",
+        "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxQUnRVUkJlbG84SDN3WTBPeHlmeDhDVkNFZmpsdEJUb21YYzBJSkU1YjBJbXl2NzVRMWFmdW9KSDA2SHZCUUU3SV9rajhMUk5NYU5qdlZWZV9SMDV5QUNZRGhJaERrcmZGVWtlQXVnMWpBT2pQcW95cTM2X1BxWURfS2xGUDNzMy1yU3VfcVV5VWtOQ1pSaFlLUERjOGVrUGpsX29JRnVOMGJyVy04aV9aRlZTSmh2Mk1PMHRVbmc5NENWcVRtQlpQWXNIM1h3QkM3eUVvTlhQZGRnTU1IYm9SNTJMd05abjBLMUNsWXJqdV9pWjg0d2lEM3RtUUNGWGl6alBNRDloejhtcFRZaExnNnhZOE9ERlVmQkMtZW8wQzlBelFDVzRtV25GVjNEX3M4THhWRHZFa0ZZSXF6TTVKQnFMNEhiRlE4c3pGM25nTkM2M0prdXRjVXczU01NbkFlS3dMbUpEVUd5bmFHbksxa21BVEk3cHRBQy1iQVhseFVuRnNTTElJaDhkZ0ZvbG50RXdaNTFfQzdneWhxYi0tNjlubi1JZDl2V1huVEdncWxJUTJSQ2IxaGljZFJwM0dwQWdGTGRtSXU0c0thcno2eEpfXzBGRUtCWFJ5UklEWmgxU3Y3YjdyTlNPLUNBdlBzXzNVNHhlOWNXNFQ3SWxhREphRXJXUnpWR1RJaVVfNEQtNEZYNEVQV1Zxa2HSAaIEQVVfeXFMTlhBSjVsMnV6T3prV0Zfd2cwVTRPNXgzUEJkODJBdDNsdTJodEFwdk1OQ1dXVnRCaFFVM2pyU2pvNm1PRnRFeFdXLXYyNjA1ZW1uZHdzWG1PNjJPdVVzd2N2NmRGUWZZclpUbk1CdDVoTDhGVDVDQTdOeWF6ZGp3NW9aZVBlel9SZFJhVUMyNUR4LTBXSm1WZHZHUlZVTkE1Q1U0Z3pPaW1hc0ViWm9yWHBBSXdjUVdVT2pfUHcza0NETTV3S3FKVGNzTnFQU1NZaDJmT0FobGd3SW56bWJReXNUNzFBbVVjOEQ3Z2ROLXFsbEFTMFZaT2UxYVdzTk9NOVNSclNpcVNyS29UMkh5ZGFTZWhwVXhDSFU5UXkzV2UwcmF6djF3NS1jQlpIMngwRXVybE5QVHhoRE1KT09BZTNkRUpjNWVzUXhvUkpkZy1TOTh0MnRYNlVHUEgzcURxTHNJbHNyVEZBMWZGY3RoUk8tT3ppdjU4cWl6Tk9MbXN0NS1oR21ucVVLdzFUNEJpcUFGX1BIMFdMZjZuNkRGSlBCb1dRQmFIR2NQbWRkVl9yaGpfRHB3V0JXY29YVGlrWlpJY2xrejQ5YXA4OFl4Mjl4NXM5b0FaLUN6QUZBejFpM3ZycnBMbWhWYm9nLXdxbllzazZaXzJqRGJEc05CbFAzZTBqcldVMVFla0hBbFJmQlFXaVU4QS1oQmNtZm03MGxB?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Tue, 29 Sep 2026 14:53:00 GMT",
+        "discovered": "2026-09-29T16:19:17.428565+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "مفاوضات",
+        "summary": "غموض المفاوضات الأميركية الإيرانية يفاقم تقلبات أسواق الطاقة العربية",
+        "player": "",
+        "content_hash": "d2587d3ed39426be9fcedcb9e5ae86093b01ef8fe0567be2622f2a2e9bb64f6a",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 6745,
         "title": "\"تعرضنا لخدعة كبرى\".. بوتشيتينو يهاجم مانشستر سيتي ورابطة الدوري الإنجليزي - يلاكورة",
@@ -2072,22 +2088,6 @@
         "section": "transfers"
       },
       {
-        "id": 6286,
-        "title": "أنباء متضاربة حول عقد محادثات بين واشنطن وطهران، وإصابة 8 من المارينز في هجوم إيراني - bbc.com",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xVW5FMzZyUEIyejBHSGJQZ1lVUXAyT3U0SHVKdi11QTZnTFQxMDlnWkJRdlpvUmwtbWk4TmxGZjRyNk5GUExMVkNiekNfWGV5ZVgySGYxdjFUOEFiblHSAWNBVV95cUxOdzdYSnIta1hyN25ubUVyam05dERWS19yamtfalkzdmJQWUNQVDRnYTBGZWhDa0VOTG5sNFBmZEVXWmZXVXZBazhNMkptcWtRLWlJSWFhTEVzSzFfX0JvQmZwc0U?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Mon, 28 Sep 2026 13:57:21 GMT",
-        "discovered": "2026-09-28T14:12:20.555674+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "مفاوضات",
-        "summary": "أنباء متضاربة حول عقد محادثات بين واشنطن وطهران، وإصابة 8 من المارينز في هجوم إيراني bbc.com",
-        "player": "",
-        "content_hash": "8fe1f788d36e60f245f0ab578903611050e3e8ca24f604f9d309a63dda031dc3",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 6602,
         "title": "وسط جهود استئناف مفاوضات إيران.. واشنطن تراهن على الضغط الاقتصادي وتلوح بالتصعيد - الشرق للأخبار",
         "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxPNFMtNVhTa1VEbGNraUE3OU12a0VxTkRZZ0t4QW4xMnJudDc2eXRqNHVtUWg4VXRKa1ZGQ0J1WFNRUURoTHBQTVVnalFKa05IU3kzSEVKczFGSnJOMVNiT3pORnZVV000VHhfSWcyaHJINEdkZkRwdlFTRTFrQU5KMTZFRjlya3BEMWZ3ZVZZeUZBTUZCTjk2eW9ZVG1xLXR1VUlMWFJzRjFUYno1bmtYeEtrclVMeGVVQ090NmFhUUI3STRZZHVLa1pZT29VLU5aNXVkWnIxcGhHNVN1NERwLUdiU0tOM2NWN1JyOEdpVU55Zk1oZmFQSU5ZMjRIUTQzVlQ1dE5Zb1R1bjZJRy1uNk9vLVVDN2syRmJCQXB3X3RGTUN6eEpDY2lkUWlqV29qUGFRUktpNTVBNUVQOHVwTjI1ajFKQ2dTNTZSSUdGQjBMZmozOVBNNGxCcDJlWkdncWRyM1ZjcFFHUmpGdWtWSG5WYVJZTlVxUW5RZElYa2dJSVV6S2gzWG9yT19wZndVNjhFWmM2QkFOblZqWHYtVEtUSEdnUlZLekVJWnhYRjNWUmFQV0dsVXpRYWdoSUdsdUFlUlZNQWY3dlpnR2lQOENLeXNZekpUUFBnSEdrUU8zcW5GcmZOVHVhRnRSSE81Q3RuSlhhcw?oc=5",
@@ -2198,6 +2198,22 @@
         "summary": "إيطاليا تستعرض في تركيا برباعية... وفرنسا تصعق بلجيكا الشرق الأوسط",
         "player": "",
         "content_hash": "11a31a8fe0d0de26023345aee68142280f987f43cbf20521b75db5cd5246224b",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 6792,
+        "title": "تطوير مشروع بـ5.6 مليار دولار ضمن «بوابة الملك سلمان» بمكة المكرمة - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxPNktxa0QzcFRGNjlhTlFmQTF5V2haVGpZZkMzb3BmV05KcXJhaHhNcTU2TzZsUXBUdktYVUtiWG9lb3BpeE0zWHhoM2J4a1JrbzRJSGt5aXJIRGVnTWRPbkNHVTJvZUJsM21vd2wwWjkxanljV3NXZVZKN2JYNDFPWWg3WHdOaElXdzh3Q0ZsZjlnOVIwVkN2WWVKX3k5V1FWZ1NKeTJkVnpqaElvbVJRcWN6U2VESU9hWFJSczdaQ0huQ1E0aXdpS25xbzVMSW5QTzk5NGZ4RjExU2ZjZDB6Q1l1UlFGc21qem5UTlNUS0lzQjNmc0FKYkZFaTdLWTRIbXo2RFprSm1NbFFJeTFqVkNha2RnVm1sa2pfcWRYQk5YTXNyX3diNzRaWHRaMTVGYWdHUjVmcDJwQ01ZS1E1UWZweWp1eHRNTHM4WTI1QUNxdF9EZXQ5RWl4M0Q5NmZnUENENDJtRWJjQWd3bnM4dXE2M0MxMzM2aUh0WnJDaExheWNHcTVuVmtwaWJlUE0zdmZEVEw4dHV1bDIzVXFSSzZFZVFlVjQtQmhLN0g4WDZCQ0loV1Q1YWxGTndUc3llRmZ4ODYwOURlNm14VVBGMjVqb09FbHQ3QnNMcWtQcThtY3FmM1A1aTdBeHYxcnBmRjNIQWZsbjhCUk5jeVhCNXByM2FUUTFhUnBkMnlIbDA4Mi1TaDdzVWVfYXpVN2ZBZTAzc0VnX2FZdw?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Mon, 28 Sep 2026 19:27:00 GMT",
+        "discovered": "2026-09-29T16:19:19.590531+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "تطوير مشروع بـ5.6 مليار دولار ضمن «بوابة الملك سلمان» بمكة المكرمة الشرق الأوسط",
+        "player": "",
+        "content_hash": "c0b7c1e67813f178ff9a847968dfd82d51fa87af96cd1759b0fad09fa051edb6",
         "sent": 0,
         "section": "middle_east"
       },
@@ -2392,22 +2408,6 @@
         "summary": "الفيلم الوثائقي «سكوت السهل» في عرضه الأول في فلورنسا يحفظ ما رفضه التاريخ القدس العربي",
         "player": "",
         "content_hash": "b1a7fdae29666ff8c101a167727ab1804059fccb87ae50d6b70a1fa77f503933",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 6287,
-        "title": "أسلحة أميركية للصين؟.. سفير يتحدث عن عرض قدّمه ترامب لشي وواشنطن تنفي - Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQmlka0lVNk1uQ2R2RjJwZ3gweWRKOTVKU3pnWHV3WHdsTE5ZRGJFMnJQcS1EN0hPNXUzdWV6QVRJYk42QUFwN3VJcUh3R01yZDlVa3JPbl9VTXdFMkhMUnNnWGRUZ0FjLVdyMjhkVmlBY1BYTmQ0QWdXLVdYam9RWWRZQVdld2VFUExKaV9DS1lUYkpfd2NhbzNkaGdqOWkt?oc=5",
-        "source": "يورونيوز عربي",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 08:08:42 GMT",
-        "discovered": "2026-09-28T14:12:21.262845+00:00",
-        "category": "العالم",
-        "status": "منفي",
-        "summary": "أسلحة أميركية للصين؟.. سفير يتحدث عن عرض قدّمه ترامب لشي وواشنطن تنفي Euronews.com",
-        "player": "",
-        "content_hash": "a38a24f303c085f104920701e84bcbcf873c7abd5cc2361a21b7d8dd33090d4d",
         "sent": 0,
         "section": "world_arabic"
       }
