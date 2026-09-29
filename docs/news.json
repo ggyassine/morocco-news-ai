@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-29T14:36:32.862996+00:00",
+  "updated": "2026-09-29T14:53:38.867194+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 6758,
+        "title": "كيف تفاعل المغربيون مع عودة مرض الدفتيريا إلى بلادهم؟ - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiTlBRNVVaX3l1NHdYQ2RUN1U2QUhWZUMxZ2VaRUJrRE9qM09iSi16RDVfeTBLaEZ0Qm1Vb1gtZjdSWDZwMmJpVUJKczdpVEZZRXFuR3Q3Y0V3aXlOYVE?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Tue, 29 Sep 2026 14:40:09 GMT",
+        "discovered": "2026-09-29T14:53:34.734737+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "كيف تفاعل المغربيون مع عودة مرض الدفتيريا إلى بلادهم؟",
+        "player": "",
+        "content_hash": "78c99b0381a9674f2cab52a8fdfd2be4e0cf5cc26e407c4e53fc880c3ed86dd4",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 6680,
         "title": "بعد تدخلات نقابية: الروينة الاجتماعية داخل شركات سايس بوطان وزلاغ كاز وبن سودة كاز ففاس تسالات - كود",
@@ -786,22 +802,6 @@
         "content_hash": "0046eeb7475e6fad3cef2f884bd9fe17a28f50927c6967be25e6f4ff7538f6de",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 6290,
-        "title": "توقيف عمدة طنجة بمطار ابن بطوطة و\"البام\" يتوعد بترتيب المسؤوليات - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mb3NsY3VIY3NlLXgzVWR2RGd3MlBDNDl0UTlhbVk2Y3NZcmNEWUF6LTZnZDcxZmphOERlZU1PQTRKWVJNSXlHVw?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 09:50:10 GMT",
-        "discovered": "2026-09-28T14:51:31.306197+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "توقيف عمدة طنجة بمطار ابن بطوطة و\"البام\" يتوعد بترتيب المسؤوليات Febrayer",
-        "player": "",
-        "content_hash": "8fb68fd9d2b16914a29e33d87db0f789c38ec4de0d8733120a93efc86585b11f",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -1478,6 +1478,22 @@
         "section": "sports"
       },
       {
+        "id": 6757,
+        "title": "تغييران عن مباراة أنجولا.. تشكيل منتخب مصر لمواجهة جنوب السودان بتصفيات أمم أفريقيا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxQNGRST09EejlrdEh4Tm9aT3lFU0dYQ0l4Tm4xektRNHFyTjA2Mmk5V3R5YkxCWVJSdTdEQnM4ZDJvTjY5dmlzbE9fV0k2YUV6U2NKdnM1RHBKSHdDSng4Qm11UUNoMFRYZUFQRDRxWmtJN2VpYVFWMFJITFZJZlRzX01fZnVFbThqVWdrRDd1MjlJX2x4UUNiXy05OEExSGFVRVViRy1URjhHN0JxQWVybzBhYmZpVkpfZjNQa3hKRHByOGlNS1k0dGdIaXhxM2hiX1BjQ0JZaWpHcDRuWHpqRk4yUUZQMFI1T0dLaVFvMk1aZjZROTZpOEdCcU1XampyMVMtMWwxY1JFOGVLUlJXWGNQeDZqVFVPTURFeTVETlM1Z2o2WTJGbmVpZ3JqVHpNT1lSelBBWUFyRVdERnBpV3ZuTUVUZFBNeEk0Y1Q3dWYyRXNYRmduUkU2eVFPUVJPQlZJX25BYnJsUUxCZnNTTjRjSkF3dHFTUGwxLUh1NzhSalBOSTVsTmtzdHRPZTB1NS04OWRoWjE5U0FPdEh3NFBmbF92TGgyeUtYMnFfUEQ4MUpjeDFJaWotb294QzZZV2laQ0JRcHZxSGNxZURJYWdNSmFiSUxMb3V5VVFHWS05SEtRSkl2cndvUzRicjRxTHk0cXlwMUFzQ0pYbkNXdzVGb3doOXI1RnF0LTROcTc2M3lvSENsQUNQQ2psUXA1VFIyVDdPMHFmTV9NcV8zVlBza25UYjNCQjJpQnFRY3ZvdFJHcTVscC1XN3F0dkpqY0JYVUFtNXZpdFBYMERsbHV1UktSbUJpNDVYSUFsOG5vSWhxR19xRjRnNWYxWjdwTGZaZWdDb3duWjUxTGRnandZanBpQ3QzcUh2ZktneUR1d9IBpwVBVV95cUxNalRUX3dzWUQ2UnJad3EyUDBqUHMzR2RJUUJDYmR4SGdWcmUwWG1RM05KcXhoaHZPRDJHNXVkRlZwVWVxXzZGdThTdHFPNEdNNmNQa0VncktJM2RGT21tMVpTS1pqOXZFdHR6MUMxbmI0cVplcHJnU0diS3IyN1pyUkt2dWZEVkIyU2QyQzhlVjQ0TmFWNm5qOEpMV1UyLWUwejNmcmRMdVFVNV8zZWdiZFdjN0JtUnV1WDVoNEVwekQ4RXpBMUhmQkFCd2ZWZnBxSFh3bUZVYnRJanRyVHY4dGZoYVZadW43ei1fWFFuQ0Vlc2FGWHlFWGJWLWxjaWlrc2hvb1FSTHYta2hTcC1GancwODVJdjlOZm9TdERYbi1KSDhJWXdkVm9QTUhDSHJBYzQ0czNRcmlWcG5YdHpEMkUwblBGaXRRUGlibEhLanhmMFJPQXI0cjFycnlOSGFwS01QMC1zSkFhLVAzcmhnOUZ2Uko1NzAwbWZFYllOaXBiNEpKN01jTXhiRlE3ZW0zMElwRENsNEtUZDlYU05FaGk5VnJXY19kby0xU2VlemxkQmhXM0FlVHhNUXRFaW40dFZmRlNBTXRtSzVFUGxDclV5U003emZwSVNMRXNMOERjSjIwRHA2TjI2cHpRZE1TanVlNE5CaVdEdGpuQ0pfbkpnZGNlcl9hX1lsaWQxcEtGa3J6Z2xoNWJVaUQ2bTVROVhDMm5ESmpQeDBvSHZ0dHVlN05wd1E1X2JvS0V2Vm9FM0lZZnd0MlhWbk94YXpneC1td2RiTkFjZi1BdUZRanF0YXc3cER2SVN1OVRJSzRWMmVOOEMxZkNxWkt5REc3MGZWZ20yb0ZUd2NJRzVmdkdsM1duVVh0dkxNU3BsbHpUWjRLLTk4?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 11:37:00 GMT",
+        "discovered": "2026-09-29T14:53:17.526361+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تغييران عن مباراة أنجولا.. تشكيل منتخب مصر لمواجهة جنوب السودان بتصفيات أمم أفريقيا يلاكورة",
+        "player": "",
+        "content_hash": "5481c2d47fc30a248c2712e55378b581df332cab0f3da96944a74fed4885cf46",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 6678,
         "title": "تشكيل منتخب مصر - عودة مروان عطية.. وهيثم ومرموش في الهجوم - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxQLWl3TmRhVUVfTGZTSXJPbEIzczd1eWpkZjVmd2pxYkJZblU1ejhGSUtLN25uQUo0Z2NyZi00N3p0bWd2YnhfUnpqcjdSSGc1dlVNenBKYVNUeGVoaG5qVTZMeHZWQ0E4R0ladHBBVkh5MFQ2QUNRWGFSRmxrSUpERXhmOTZ3SmE1LXB5d1k5YXVkcTNhcHo1a0xQSnNEMmVvQURjUXVuQmFOaXZZSE9YNzg4NnhrYlluTGJ3Y1NFbms1bHlYcjhBcjdrSnVwVGhheWV1ZHhaR0N3RVNMNmRrTWRPdnFCZ2xpX2NOMmEwUVNJR056cjZKcnEzQ0lEbzAxZlRXOGVGM081UU1kMWwyNWpxNGNLR3hnNEV3aEdoNlZDUllPektCU1B4aWJjSWhHZDBlSWtYemtxd082Tk0zS0VxcVItaFo5RnNSQ2xoeWZxaDVCdExnWkdjSU5sd2h1ZTBub1dOTk1ka3RrUW83dllIbFFELXpVb3hYRWRGMjZYNXIyME5uN0ZkUkpWUVdKY2hYSlJlNzN4eVFuUGJ2VDkwSFBfeEZMT0d0cTdMUnBMc214VnBEd1p6cGNRUjRZLUM5S0RB0gHLA0FVX3lxTE42bUNHSFVPN1FnZUJJYVQyM2dKM1BkdkJHdGRqMVA4OGNjV0M5ZTVpZWxsbHV3MU90Q2h1SWUwbFl6ZnBqazlCNlNJX1plUnZWQ0RoaGdzMGFTYVBOVVl6dTJMSHhrQU53REdtMTlSVnN1Z0d4UUw3b1pPRGxnc2ZabmwzSUpfRzBxQUx0eHhqcnRjOXhVZThjMzBDa1VHazRIenJrREdCRlg0MXFrYzJYODJTWnN1WTJzZi1iOEVZRUxnUjVrME9QZUZRVFNIdHZCeHYxTUw3Wjh3Sy1BV0N5U092YVY0Sko0SXZhYU5tbDR5UjRQQlpZOWlscHQ3RG1OVDkzcnhRMmYxaDNOWDZ3WkNWUlpNUUpmdGY2RjJqZU5sZWpvSEZVdU4yNVlxb1F5dDlaa09Vc20tNFFXUVR5V2plMFg4MklSd2x1NkdmcV9mS2RZZm5iR2U3MnVDV0U2ODd6RTdoNU5MUEpZV1RFRlgwQ0tHVWZITW1sWXlBQkJmc3ZPb19zdmVPT2tEQVN4V05IR3g5ZTFycDI0bTJEcGE3REFIWWZmQ00tTEw0V25iYXM1NkVjVWNJb0FacTVtS2hxS1gzVXU4WQ?oc=5",
@@ -1586,22 +1602,6 @@
         "summary": "مباراة إسبانيا وكرواتيا في دوري الأمم الأوروبية.. الموعد والقناة الناقلة يلاكورة",
         "player": "",
         "content_hash": "d5b3c30fdc44fb77d1f485a2c9c08a76383699953c78ed431155b53421e0b3d8",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6652,
-        "title": "الفيفا يرخص لبنطيب بالمشاركة مع الأسود - جريدة المنتخب",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pNmFXWWh5UGZQZmNzZUpVc3RTSW5yZUxIazhNNER4M2lQNnp6Q0RfM0d5anN1Rk9CS2lzejQ1ZUhYX19nelB5dkNCMVBvQnYwR0dRSg?oc=5",
-        "source": "المنتخب",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 10:40:27 GMT",
-        "discovered": "2026-09-29T10:52:09.790908+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الفيفا يرخص لبنطيب بالمشاركة مع الأسود جريدة المنتخب",
-        "player": "",
-        "content_hash": "0384b3e582c44aedb56ebed8d3da53116be9ef90b67afdcc15222852f2105a4d",
         "sent": 0,
         "section": "sports"
       }
