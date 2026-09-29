@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T23:56:22.924116+00:00",
+  "updated": "2026-09-29T00:14:15.849368+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -806,6 +806,22 @@
     ],
     "sports": [
       {
+        "id": 6523,
+        "title": "جدول مباريات اليوم - 29 سبتمبر 2026 - بطولة كأس السوبر الإفريقي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQMjFwMkl4enQwREwwbUNUTDZRTGUxZVpDck45Zlhic1RZYXc0QmNpMGZMcGdHN3p1N3B3cjdJYXhQZllOR0VXdTV1NWFKaXlpakpRbHRIbVdPQzdVcS04TEdPYk1hdGJBa2VjODU0SDBhbWstNTZHdGl3cTJ0S2dmUUhjYTVvQnk0eDFYRElya2RUMlRSQmVkZHphQTF6c3lWZXN2YUh1RDJwd0stR05qc2c1bTdtSGdQY2FNaldCMzBLZDZTaXhaWHF1YUNNSXp6RkpNcWhVaUVpaWp0Rmp6WkhaUEtEbWsyVG9tU3czU3luMlRlTGlfQjhiTUpLaEpOYlNNaWJLV25xRTRmMzZwMmlqWm9VTVJTRGdpSQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 00:00:26 GMT",
+        "discovered": "2026-09-29T00:13:58.060514+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 29 سبتمبر 2026 - بطولة كأس السوبر الإفريقي FilGoal",
+        "player": "",
+        "content_hash": "4dfb81d92ee98516e869849ad6babd040855d9be704e1817374187b23b71d544",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 6507,
         "title": "الجماهير التونسية رمت نسورها بالقنينات بعد التعادل أمام بوتسوانا - جريدة المنتخب",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vc3VwdEpkR0ZHNndZS1JQR3pwbEpxZi0tSmwtN1Bzc2FwS3E4ancwd2hfU2szQTM4TDM3LThNLVprb3lqbmN0WmxtZGNuOWJtT3BnLQ?oc=5",
@@ -1586,22 +1602,6 @@
         "summary": "خطة دفاع متكاملة في ملف المغرب ضد السينغال أمام الطاس جريدة المنتخب",
         "player": "",
         "content_hash": "c5c990d3d3f0a83746778d01cf5419f505251b78a47a218b64028e41b2122dee",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6396,
-        "title": "رئيس الاتحاد الآيرلندي يدافع عن تعامله مع مباراة إسرائيل - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxQU3didFRQTFE4VzYtVVM1ZmJOeURIczluX3pjQU5haFNLSjctZjVLR3V3d0d0eVlXazktREJMbFJ4YkNfZ2ZvTE4yS3pSd1ROY09CRWhZSEFaWkZScDlrNkJnc0ljRXVNQkdHUWxuTXdaM1FtODJFNFZtQU9xVUFocmFwTUEzU25hY3EyNndvRllpSjNXM2JGd0lpd050eHVVd1M2V2poREVxSGpaUk8wMTRfcDVXUURVRmZPUXpRQUl6NlJzaUZuV3dJSmpRSGNRaTA5Yi15eTBhZXRQalJPWjFhZGc2a0RWcEw0YlkyMFp1cmc3N0N6U2hEblBjenBOc21XcHBjeHFTbDYwV1RZZUNhSVNvQzMtN0MtbUhrcFFvMEJBOFVaQ1FhWmJ4S01EX3F5V0tOX1liYXlGajQ3STlycWdYaEtNTnlzSjFCdEQ2d0Nsa0FsRVE3bWFqRnZmYmNwamQ2MWtlbmpPWjM2cWNCYmd4M09LakhGWFQ5Z2ZnMXkxWHM1SV91VGpaN01EUjZ5Z2l0NndteGZJc3RIbTN0d1hPWjNtVndWeXQzc1lnMGpGOE9zVUxzQXQ3ZWMycjV0d0NfVzUtamxaWk9LZ2t4Nk9pUmFQY2IxR1czS0NQVWU4bS1VeDdKQW95WE1PSHltZzRUUnhkQUJCMy1Wb00wZldORGhSaGhYZW8xVklYN2pmMWxLWkxkRHh2T2hiV1JyWjlfUDdNNC1Palg4ekFGMXdhQ1VTeEhDVGdxb1NRRDVyWk9UZWk3SGJ4bFRaYS1WVTN3LW5hMmhsUGZr?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 16:57:46 GMT",
-        "discovered": "2026-09-28T19:08:21.661076+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "رئيس الاتحاد الآيرلندي يدافع عن تعامله مع مباراة إسرائيل الشرق الأوسط",
-        "player": "",
-        "content_hash": "292f1d6499785397d5784960b3107361a6e1b3bfd768abc544f8e3f0377a866a",
         "sent": 0,
         "section": "sports"
       }
