@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T06:24:05.093186+00:00",
+  "updated": "2026-09-29T06:44:36.360746+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1608,6 +1608,22 @@
     ],
     "transfers": [
       {
+        "id": 6590,
+        "title": "بعد هجوم حسام حسن.. الأهلي يمدد عقد الشناوي حتى 2028 - aljazeera.net",
+        "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQbXIyUlpuMUdmNFB2Y21RWnVVU3ZaSkVCNWVZZmxGVUFBZGNENmxrYnBKREdfQlc2NXpnajh0cEJFVnk5Z2tHc01qR1E2UEZ2RHBRZnN2WVdoTnZkemw3Szd6enV3UFpHQkdwSlByT0lOV1I3Tkdkall6b3MyajFxWXNwTnZCVjZPeF85YzJuNldrNEwxNTRrLVVqUHdZSHQ4emNXTU0wR3FKYlh4aUQxVnhkc3ZhNFZDNXVZdl9hNWJTM0puZTVUMTV1RWNaNi1RRzAtTVU2Ylh6cUhncmRNSWZ0NFV0RzVCZXduR0N0TlRnOWJ5OG5uNnI4QTk3a0hQcFZWV1VVYkF5NDFDd1FrN0ZEQmtHUUJ4Q01QdV9CUmZrOEtTdzFjQWdoMzdRWW9iY0lR0gG4AkFVX3lxTFBxTmU2cVRjSjNvaklZcGkteDRTbjh1dDdwMWFZbnVUbllmczNWTGRET3VsUlM0bTY4R29PckdDbnpRcWxBMjJwTG1ROFRxQTJ3Q21WYk1YOEcxQ3ZYV0xxREFpd0JNZ3pqN3hDbmJoeGtQMzcyZDl2Nk9HVUoyTURPTTlyZV8xeVFzU2ZKSnR6WDdieDdVa2I4Ri1aZXlsXzFmSEhOVHdsVlFDaW9vbGI0X1g2YW9XcF9ETHk4NUhqejlvOGRGelVvdjFoMXlBc1FYMEF6TnZEN1JoaFhkX0lUYzkxUlpTdHZqX1Y1OG94T2dpdVZReXVfVk81TFN2Z1V5c19EeFVfZm44My03TjFwMURKLUtjN3ZMTFNIR2RNY2pxQldNakNYRUh6ZFJVcC1qcmh4RThBOA?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Mon, 28 Sep 2026 22:28:52 GMT",
+        "discovered": "2026-09-29T06:44:27.985239+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "بعد هجوم حسام حسن.. الأهلي يمدد عقد الشناوي حتى 2028 aljazeera.net",
+        "player": "",
+        "content_hash": "718d295418016a9a10320f9a52a05b1f380314795168ccb37d69e676b540c801",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 6484,
         "title": "اللاعب وافق.. ليفربول يقترب من أول صفقات الميركاتو الشتوي بـ70 مليون - 365Scores",
         "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOVldMSmhTMWlSV0dsYVNXbTZnMGk5aXREWXlnRjU4MXEzNldoYTJYQzJSZm9sQU5PQ0djNjJpdmFnQU1QYUI1TVBySWNpWVRReVg3ZjBiS3c2QWJ5TS14YVBrSFMzWVBYVlJMQmlUQUJQcVFqbG1zM29pS3RCQy05N3p2TE12cDNlTXdDWnFtUmVlTGV5RkNGRkR2VTBTTmxnODZETkNQV1pTX3Q5X01tdDMyZkdMdjVpX3I3a0tMWVBGVy0wWXkxa1JUdDRiNDdpY0tWa24zTnR6VkhVOTF3T0JmWF9HdjdTQzhIVTFNdkktWlBva1NyMTdZM0ZySjBPaTlRX2xzYk1fSEdYa3l1ejRGa3NXRUtic0NWUkVxRlZKamxWNXJQYWc3MGc0TS1nNDFzYnQyU0ZhUnJFaVZMeVFBYzVlVjRkajkyOHcxNHVvcGcyU2pXamZCa04xX2M?oc=5",
@@ -2100,22 +2116,6 @@
         "summary": "سلة – خبر في الجول.. الاستقرار على رحيل أوجستي من منتخب مصر وأحمد عمر الأقرب لخلافته FilGoal",
         "player": "",
         "content_hash": "3d96cb7a09353592270b2189b5d6d5941f1106467922f9045a383ddd739ba932",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 6357,
-        "title": "سلام بحث «اتفاق الإطار» مع روبيو على وقع التفجيرات الإسرائيلية العنيفة جنوب لبنان - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPeWwtZG9lRjdEZ3VSOXdvMmZQaUJObVpyUjlkUll4T3VNVVdPMjN6ekdIbmRyal9PT3hraVlJeGhRWDRHZ3hNUlBBUlIwNmMxdWEyOVJlRjg0Y1I0bFE5SWdhY1RoSThEWGFkZXo1dlZucWV0YjRsdzVraVFidWxwd2R3aHd2R2pacW56cTAwSzdnMEFERkJaVE11X09wSUZTcElNS19kVlZ3TWhMN1JPMFgwMXI1eVBDWGdxRFAzSE1Dblp6RFN1QWx2S042U0wtQmlPa3l3VS0wbnBSdmNlYUh4TzFicVJiX3dQZWt6azd3X0c2QVNtOVdRRTJXSFBHNXpIU3JxQXpiRzlSQVI4TUhOLUE2bEpvZTNRUWZlVEtNVFJHMVVNUkRSSmxHZUJhUndNMTJfRGQ?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 07:00:00 GMT",
-        "discovered": "2026-09-28T17:48:33.465524+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "سلام بحث «اتفاق الإطار» مع روبيو على وقع التفجيرات الإسرائيلية العنيفة جنوب لبنان القدس العربي",
-        "player": "",
-        "content_hash": "8559d021b04cd79fb03d8b09c79d4d7df40e96eb1e563691ccd5a223d3023966",
         "sent": 0,
         "section": "transfers"
       }
