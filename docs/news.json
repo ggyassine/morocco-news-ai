@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T09:10:19.335676+00:00",
+  "updated": "2026-09-29T09:29:25.340337+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -806,6 +806,22 @@
     ],
     "sports": [
       {
+        "id": 6635,
+        "title": "تحمل اسم \"خُزامى\".. تعرّف على كرة كأس آسيا 2027 في السعودية - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoOHliS1gybFVycmE3M0hQbnRwVDNqRUlzQkdYR0w5aUlNRWtGcWNpWnd6SU5pcTNWRE01eTBBYm13QmN1OWZHb3VqaGVWRWJMdGd4TmhMYVQzT3d3bWNRSTluS1EwV2RobUk5Sld4Zw?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 09:09:24 GMT",
+        "discovered": "2026-09-29T09:29:24.205634+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تحمل اسم \"خُزامى\".. تعرّف على كرة كأس آسيا 2027 في السعودية CNN Arabic",
+        "player": "",
+        "content_hash": "f46ccecc3d2119b44b459b8da70b1838a4ea48f7ab036ae74c7cb4d87a840ef0",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 6629,
         "title": "بعد التعادل في أول مباراتين بالتصفيات.. الشعباني يطالب جماهير تونس بالصبر - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMixwRBVV95cUxOT1dUaExaZmdoVU1qcF8zd2JhTVZaclJPVkMtWlRqZ3gtSTY5WUY4VlNVcUQ4dEpTZUFXTHp2OWlTaW9LVl9yTTdYU1JWcEt3MDE2anBiRVZIX2d5R0tMZmphbnpoOEYya2s5cVNPOEdEb0dEM09PX3lxcUNjb1RzUGNoVVdJaUZnTlh6NXY3WElud1FUNG9KdzBuS0FDMVJ2R1h5MjV2TFNtYThPeFM1ejhIMjk2dy1vNzFvNXd5cmNUT0RoT3pfU3NfYXVaeDY3bmpQMzNYQ2ZmSGpRQjRGQVBFZkJKcHRGaGhhcHlQVVR4TnVXVXZyTGxYUE43TWNpaUwwMjNWWFQxb0dVMGoxclpJc1N1NVQ2WG03ejJjem83eWtqcWhQeW4xVGZ6Qlh5U2ZBYnhNc0tzQ3hJdHR2SE40VnNNZGk3NFJGVWNxcm9PeEpPeWZEZkdzNUlMeG90TngzT0lYUTQ1LW1mc3JPMlFfV3c0c21XWGdIdC0wREN6WFhQbmtrTWpmaUxPdmt3RVg4UnRiMVhOZ3dzNk5Qdlg3cWNVdGZNMENfWE1DNTFGckt0bkx5SHBXZmE4Q3pocElQTGZJZmswN1lnSGJVeUVEREJrYWdzeVU5dVVtX1RwdXVuZFBOc3hnTzVpdEdUWThxRjJHdF9ZTTJPLXZRNm93bllvNkZqNXdZdFZIMmliNkZzV0w1b29KUy1Tb08tY1hHM2stR3plQjd4bTMyOHZLQnBWWXo5WXNmVnFsald1anpQS2lr0gHMBEFVX3lxTE5KRTdaLTFkNm1OQU9WcVlYZjFKVy1Db2k5c05GY1g1YjhVT0YzNlJ2Ym92UEVqQXJNQUtEbmEyVmpnT19fNUZRcXFoT19KVTRVNnozMGVzdGUyMmRiS0Zyb0RCTXFwVlRIR05BM3RraEU1ZVdOQzRpWXZzeWw4akJfdGMzZ3d4a0gycUJSSmpfV3VCUUNHeURMWWgyR1pDQ3dGbHQtbEpTQjdCZjNFWlltalNiT1dMSXRSNUZCazZNVG91ZU1CSEN5Mk80dlNzWjNna21JREg3R3ViRnFMRjJqd2luXy1zNWFPNHRDNkNJMG1Obk1BZk16bHJiZ1lsUnRaQXhNdnpzTVM3dGtCNDFLYjlTYk9lUGRJSEJLZTlQRkFVRTJaTkM1MVdrbDJZOTZhcTFHUE5salRqcFFxa3hvSzZfR1R0TjZrWFRZdUd3QzAyaGtrUGU2NTdDR2pTR3RhaVU3VmhzNDNLNlU4ekFhb1phQkJfb1pzeE1xaDJGRVNuX0ctR05hTEg4WG5tM29ZeE9SSGNHdHRZa2ttdEZnRnplam1SSHhtYUFSUVVpeldtY01xN05GSTlqY1g4NUJZZ2hsNEswVUE1ZkZROW0yT2g1NXJMZjJweno0UlE5WHo5bVhRR292SGcydVk1UTR4WnlxbU5wNE5BaHk2SDNhUERVSkJCZTEyTElVeVctcHVHWXR4VGQyOUVqVTFVdTNubHVkSUluWVY3M1NRaVFKQ0c5YmZxdGJ6STV2MXhWWm1zZTZZa19wY25iRQ?oc=5",
@@ -1588,25 +1604,25 @@
         "content_hash": "286d02c8ba691f27eba43c7aec920a2d3d71e991834226bf3c95292b6da57a87",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 6511,
-        "title": "وائل جمعة لـ في الجول: لم نطلب عودة لاعبي الأهلي من معسكر منتخب مصر - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNNDZ2V3FwZjFXRGtuSm1kbUE3UlJYN0NfVWRoTVYtLXk4cWdFdVlISXJBZnRxaDRxZDRHR25YcG85QXl5bkxBd1hheFlwUi1GcDVhaXo4YTlRcnJUZEtkMEV3aFhDM3o5V3dFRVZPODNqclBZMWQxNWlObjc0Ymt6ejlLVDFqUEd5SEZHYmZPSGJtZGpJbTJMOUNoTlZDaGVERWd1S0xYTkVkNzF3WHNjQkR3Mjg5bjBuOGdlZS1QWjhMQ01DeW1yVFFjbGMwd0FUUFpIY3dqVkNyVUdVaUN4NDJ2ZlJoaGxJekZ0QkJ4YlVUNi1wV3NpMG5uN3FpOERPS1RPSTFaMURqZ0gwQXV6UUVUMTBDeTVHZlA4TGNFSnJMZW41a05tdjkwS1V4eFlCZVd0LThDYlA3MFZfM1JLRmdEbmxmeHptVHRjSC1zUXlzYU11azBlV0hvQWE4X3BoTWtEVVJadUhfVkdvSm9DZHdHUlBzRkhrN2tsUkxDeU9fNXg4ODc3ODFTUF9HQlhIWTZIU2RNSUVpY0tDWEVhUmdiN2otbXdPMkg1WGp2NGFSVUJQbm5oczRIN2VXODDSAZAEQVVfeXFMTXBrMU1KS3RRQ0hiWGUyWVNUQnpLakt5MGhoNjRmNXI1QUJKQXlJQTdaMUNTZFlSR2c4ZjlKOHlpN3B1OVBfSWNrdTdqd0EydUx2cVp1ZDRKbF9EMGdFQWRhY1BhSU0xRjNvQ3RtRlFJOE85S0JvUVpZamRFVU1NQk9hX0phaXJYanpzaXg1cXlOa2tGTzliSXJ6UThiTmZ6cXN3REltV1ZQRU5sektXdnRueTh0LVUwM3Q3R19iUDM3VWNWYnEzVXNZbTdlY0I4VnFQbHlVeWZNMmFvWFRPQnRkX3FkX3NQR0xVdmxxQmpmQVFiRUd6eGxsUVVYN0xPeDJDUUlPTWZkREF3enBEWXVQMExvMTJsRlIzYzlUMGRBYjgxWlg0OGJvcmNPN3FfaFU0Q0IwWmJTYkFOLVBlR3lVTVdJTmUyWTRWd2NZemphRE16RjZUSGNWbGdnZDZSTURBZThwSFZrcUJGRkI5aHVVQkh6R2JRVU1nYWRvNE5yN3lkYkVLa1ZPMjlXTDhZUmhqS0x0Tm9jbVZHb0dzcC1ROGRyOGZJcGdtdm9aLXhkX183b0NEeGNxUjAxRVFlWC1pVl9ETmFNRTVOeWZ0anhGd2Q2ek5yR2tqV3dCUjY5OVRQcVYzQm9YVGJvVVVIMUY4MkdFSnlNMFRVUEtIZkZORU9WZ3FLMDVlU3dDd2g3?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 19:56:00 GMT",
-        "discovered": "2026-09-28T23:31:26.925937+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "وائل جمعة لـ في الجول: لم نطلب عودة لاعبي الأهلي من معسكر منتخب مصر FilGoal",
-        "player": "",
-        "content_hash": "dbfbe590ff512309c99b745a705970e456fced3283c0b616a719858ad8fc5e36",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 6633,
+        "title": "مباريات اليوم الثلاثاء.. منتخب مصر يتحدى جنوب السودان ضمن 17 تحدي إفريقي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQdzRseUIzWkI2eDBNNWw4S04yN2ZhSEEyQkRLZ2IzQXIzS0JkcXM5V0dTRmVmeUxZVUIzR2FyR2VDZENJRjRLQzFEb2JVSnlWcHVKa09TdHJzbzFQNlVUYXpUYkg1SmZWWk9EdWFuSG03c3dWaXNSell1M0VWVFVJQU9wZS1ZdjEzR1lBT3FDVlM1R0N1Z08zWVR6bXpyNzZfX28tQmVUbnpvSXRBVDQ5QVRyOGVMdVMyc29lbUVrMUhPYjB0Q3Y2MHV5Tkt5UUxqSmFUNExQRjRaVHM2YkI4TkVfLVRzM3NCVUxibHhvOExndHZfQVFzNExMYVdPNnhBajhPUEVXelg2a0ZzelMxaEZreXRuSEZjYW5MRGtHalcxY2NWcUlqdGg0NnZvY2Q1aXk5YzVhdVpPV0FpZjJTZUZCQ0hvVWFjaVctYnZpZDlORVU3ODktY3N2RmpIeEx2NVAxUFVuMEc2MWpTZ1R0QUVmVzFvU3pfa1dCQ29tWWo1QlNsU2Ztay1oX3VyZUl4ZERSbHM2UlNFUC1NUE02QXJ5d3BXcDJJRXJKMU1IYVBoZ9IBtwNBVV95cUxONHY0UGpZeUtEaVlFT2VMLWpqMzZMVjRaNFJmMmtaNm1HSUduX3VCakk0bEpHQk15WDZZUkZpSkhGcUQ4Z2RHZHgzR01iYnlxRG56SC1BQmNjdFBIdnpPejZpeFNRXzhhZmRHbmRYX2hvejRIeEFSWnlMOFF0ZDVfTVhIai1NWUhHUFplcXVrUWtoQmNsY0tHLWRtX1c1UHgwcDRuZHdqRWtNQmJoQkFfX3JhTXJ2QXcwMlZscHh4d2lmT3RuRUdiY0h1dWpodU1aU1JiNnFZd2F4cDNtR1p0U1N3amc4d0pLV3N1aWozRlk4X3prSHFFajNCMzg3WWRWaE5BYW1ISkdDazVWN0ZvdjAyTzROUkJLX2IzR1kzeHQxdTFzZXgxMldMZUVqaWZIRENLM184bVN5dEo4NTdlRVI2THJpN3BxOFBEOEJxeFlEWWhueTdfdE9MdS14am55a240MlNqb2VSLWtaRFNQSjdkazZ2eFYyWXkxNHI0bk8tYjFrZFJQay1FNzJKV3hPREQ5V3VTS3FSdF9WY016OXdWTTNnR01rcXgxWWZ1VGFJb3Z1WE84?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 09:06:15 GMT",
+        "discovered": "2026-09-29T09:29:10.406322+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباريات اليوم الثلاثاء.. منتخب مصر يتحدى جنوب السودان ضمن 17 تحدي إفريقي يلاكورة",
+        "player": "",
+        "content_hash": "11cf67838683b31e10be241071fae2daa49568233cf54bc8ba02d6ce7d00bcfc",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 6613,
         "title": "مفاجأة في عقد زيدان مع منتخب فرنسا - Kooora",
@@ -2132,22 +2148,6 @@
         "summary": "ترامب يتوقع استئناف المحادثات مع إيران هذا الأسبوع رغم رفضه مقترحها لفتح هرمز BBC",
         "player": "",
         "content_hash": "e0e1d12c51370ed0485331b4672565c12d204315ad1c9a69d455aa3fefcd7fdc",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 6142,
-        "title": "برشلونة يبحث عن \"أظهرة مجانية\" في الميركاتو الشتوي - الشرق رياضة",
-        "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxPcGdoLWRYQTZ4YW11UHBIMEpxWmloUlRQZWVDNXVvemN6cDBubEZtY2ZuM3ZEQ2tqWUR6VGJXWXpncEp4dzNPQU1OZlkwdFk1LWU0cTB1X2dCTEhNSDdWd1Z1RzZyRjNoUUpyRFBYWFpnVkk0ZFRyaUU5RHFjSWt5c3V5S1ZQT2JWT3MxcWxMd05HamYzN0hSdXdyNUZ3bHdJeWpORUlIc1BPd2ZPeXJyemVzQk1ERGtxOWtuOUw1MlFiY2tlVHdLb3k2NHhDNnJoR2ZmdzZxZ3drSGwxWldIVUp0aDRzUFRkT29XYS1NMjZJWl9TZks4LUxvVXBDaXVTQkZBNF9MYnFzWWJyYkNjWFBvcWp2Y2dsUmlxSXJ0bXRNekxTNVJZd0FqNmRqb1dsa08wX0UtR1RWaG1fWUYzcUliRm41WVBXZldlWkpiTEFNZTEzeUNhUTlUUDhQQmE0aDA3YWRRUHlSejlHTkxJbzdHWS15Qm0tZ1FSM3JFTDFVcEJVMVNGQ21NTThrUEtVcy1FUjljLXRnMmw1NXlTRWFTbTJLcnVrWmpNVg?oc=5",
-        "source": "الشرق رياضة انتقالات",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 23:13:48 GMT",
-        "discovered": "2026-09-28T01:35:05.184416+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "برشلونة يبحث عن \"أظهرة مجانية\" في الميركاتو الشتوي الشرق رياضة",
-        "player": "رياض",
-        "content_hash": "4d19cdda691300e941839ba6842f0c5af2c91fd52f98bd9198b23936a8dc7ba3",
         "sent": 0,
         "section": "transfers"
       }
