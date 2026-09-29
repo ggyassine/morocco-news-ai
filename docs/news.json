@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-29T01:24:31.033090+00:00",
+  "updated": "2026-09-29T01:37:35.590489+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 6540,
+        "title": "اتصال مغربي سعودي يبحث التعاون - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOZkRfd1FwdWRHQ1BYQTFCaG5qN1ZkV1IzcUZ1TjdlQ3RQY3BIVGRMNS1mR09DQVowWDQ4STdjVW8tZlpPeDVoVzE3OC1wNWthX3QyWWxhbHJKWm1WU3U0cnpHTHNTX1ludWRTdk5BYUdCUE1oRVJlTk1kRVpVeno3cEZ6NVZHaExRUEtxOWdoTS1qWk1aaldpRlJvOE5oUUEwbU5ReVlQOHhHaFhEdnNfaFVvMU9Yc3ZiVEFYbEpwRXEwTGhoQ0VvVDFWTjdoZG5xaHNHMWJXRENiM0VTdTlJQnk2VGNjbTdDZExvcmRaZHh6cDVldzJIRmV5VW84ZkpwYmVSZlZTU1JueTRYczRBQ04yaTR4N1NueW1kTFlSWFI3WlNv?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Tue, 29 Sep 2026 00:34:46 GMT",
+        "discovered": "2026-09-29T01:37:09.439444+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "f75949adc7e7aad64e6d4159350b1ac9e8bd77a4c947940889a9b9be6b96c6d5",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 6506,
         "title": "النيابة العامة فمراكش هبطات بوليسي للجيول بشبهة الاغتصاب - كود",
@@ -786,22 +802,6 @@
         "content_hash": "5e5bf1a48050319d0956729e772819699b40821eeef085f11127b39b5091fcac",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 6368,
-        "title": "الانتخابات التشريعية لـ 23 شتنبر بالجهة الشرقية.. الأسواق الأسبوعية بالوسط القروي فضاء لتواصل الأحزاب السياسية مع الناخبين - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMiuAVBVV95cUxQbUQ3UUJ1RFByZ29pNjJCdjRvWHVNaFBGMUxGXzNMb25zX1M4bF8yUXpsZnU4Ymxka0xsQm9CSWtLUlJKeWZOQ3pFcjdIdkd2Zmo1R2twejBRY1I2bl9zVFJCczJTMER0N2o2bDNUWmpjY2xwVDlHaktuSW5zQ3F5Tk4wLS05MXZRcUZVRXAwNVVXbmJESlRJNDY0SnJwS0ZkaUU4N1NsQzdCUV9kWXVDa09mZVBTYWpKTHBoLTFUd3pwXzRMdE1KdnpnMjkxVUEwVXZ6TEZZMFVYMjhjWl92R3VlQndEYUZ6OUlIYkpCTlZZaTFTTV9HQmlHdF9YR0h3RzBvRUlLZmhJUE1ObklISFBZb3VlaG9mclJJTEUwSEFqTEFQRl80MjE2Wkd5UHNlNWpwdWtTQ3FOUUdVQVRfMWZHRTZCWk1rSVBLVUx0b3dBSE94QVlxeDV4elJhb1Y1N3VmczF5SElwNUZDcU01dTFrTlprZ245Q0dlZkREUWFQeDVneFExak5PQW9ZYUxveG9jY3REX2sySG5GWUhyTlNnOVBvdkZpZFdGRHNvSkdrcFFWMld3aVVzOXVuYTdYdTVXQkYzZ0hvNVlBd0tTZVFqZE12T2VYYWJuclFLaU5fV2xQaWRXN2hQSEJMajAzRFBIb3Q4QUFnUnJ1TXlvTnNLc2JXejFjYTB5VWo5N184OW1YY2dJX295ODA1YTljTzZCYTFtdFhiTUFyclhLTkszX3cxS1J3eFpESVpCZG5pZEFBU2o0M3JJTHg4VnAwUlljTnlPdjQ0cWxsQUxVQzNJNWlzVUs4Mmg3RHBlc0IyMllHOFV5LWFiUzVNQmtVa2doSGtZbzJSSXJodXgycWZBTEtqb1J5ZDBsYU1ERllOM0M1aDVIR3Y0dUp5Um9ObUNncUFtN00?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Mon, 28 Sep 2026 03:00:22 GMT",
-        "discovered": "2026-09-28T18:19:07.543470+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الانتخابات التشريعية لـ 23 شتنبر بالجهة الشرقية.. الأسواق الأسبوعية بالوسط القروي فضاء لتواصل الأحزاب السياسية مع الناخبين | MapNews",
-        "player": "",
-        "content_hash": "6829f2445a3aa70c8dac0e6b94a940ae5abe6d43fff992391f7ca6c346be55e8",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -1154,6 +1154,22 @@
         "summary": "العميد اختار التهدئة.. هل أنهت رسائل حسام حسن أزمات منتخب مصر؟ (صور) yallakora.com",
         "player": "",
         "content_hash": "1cc2f583b09e90ccaf382b2c8a9cb263cc344057fdeeb852575627381228dcd4",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6541,
+        "title": "ما القنوات الناقلة لمباراة إسبانيا وكرواتيا في دوري الأمم الأوروبية 2026-2027؟ وكيف تشاهدها عبر الإنترنت؟ - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi8AZBVV95cUxNeUdwTTlTN3RuR0lBdURVVGw1UzQ3OS0wWEl2R0NRMFYtWlNuTUptLU00aUNxQk5SZFdJTWFzMGhGdi1RcWhvallpVmhYT29VaElMWDdEbGdVTTBBb2l2Wmh1eWx1VFpJeUdkN1Y4TE9wUjZFRVVwYkdiNy1ObjljV21oa0pJUlNtN0x5cVM3NWVJUXpFRDBhWmNKa1g4bnNMRlp6SXB2bXhXN3E2aEZLX1RNenJpYWJqSWVKWUhmUHFEbnJINzQycFVmT19uN19jZHJXMTNld1NFd1d3TVpYX2Q3MGhsUXpUeDNQbXhfeTl6WG8zNGtWajMtNVh1MFZVeWZUVVE3WUhDLUgxdUo2MmwwVzJpcWlZZlBGTTVYZkN6eldTOExRRWs5MG9aeHlKbTNNSVFVOXV4SjNONF96NjJGSjI0enZDdGxwNlNQQ3ZkZ2FqUDBvRzZwamJQY2FqTnhwWDFvU1hXbWNXb21UQkZWZzI2NkhBdXBlNHdDd0ZRMXBjV3BnaEVnLUN4bUR3ZTc1a1dXM0VFQjhtbDZFTk1UY2lieWJ3LXRZbWY4OFp0NWJGWVVYeVhwbFZ5aG1uaEUwZjNiNFVPcDRVUXRySnJQSVJXT1VRUUswQlJWTWlFTzY5bHBxeE9oR1hvSmMwWDJ3SVFQRDI3UjAtOTVRX0U2ajU1VEd3RXpFclE0cVRpUXM5LW5Bbl9pU0p6Y2dqY1kxTVd4NGNKQkJtRG1BemtJQ0FncmVBM3hTTVlXRDJ0RDdWaVBjNy1wcUZ4QmlpVktOMkszV1VQUnhhMVRSVnV5NmlxUGhzeUY2ZGlWV3hqMmhZbXgxTFNsa3N5bFQ5emFNdm1PR2RSQmZWYjFqR1Rpakh2Qk9SZFkzbFFldVhZNjBReTVYMXRwOGktY3o5TXlSa2hPVG1iN1pTeDRFZlhTT0JEbFNUY3k3ZGdwcF9EN3VJWjR5QzRCVUJtSm9VbWYwVm8tQXJ4TGRiS2ZZWDlxbW16ZHdxWFR5eEV6cC1DeXY3TG0zWEVHd08wNXZ5WmtfR19zdUd6XzNQTllHclBUZ3pjM3J3MWR2TkszTGdaY0tISnVrU0xwSGM0YjFYTzlNQTNkVHdVR3F1TlpUQVhxanVXRUh4QWFRRDRKR2dyX1AwNnlmWTg1LV9URThs?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Mon, 28 Sep 2026 20:57:12 GMT",
+        "discovered": "2026-09-29T01:37:16.035571+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ما القنوات الناقلة لمباراة إسبانيا وكرواتيا في دوري الأمم الأوروبية 2026-2027؟ وكيف تشاهدها عبر الإنترنت؟",
+        "player": "",
+        "content_hash": "4b9b25cdfccce096d725b41db0814ddf5ba1b91053cff33865d210f7ee732aa8",
         "sent": 0,
         "section": "sports"
       },
@@ -1586,22 +1602,6 @@
         "summary": "قميص منتخب إسبانيا \"الأقل قيمة\" بين عمالقة العالم الشرق رياضة",
         "player": "رياض",
         "content_hash": "92ff909caefb5f46636bd3ecf91aba068768a1c874d16bf871a458e5dba8f3ff",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6379,
-        "title": "باركولا ضد موريرا.. تشكيل مباراة فرنسا وبلجيكا في دوري الأمم الأوروبية - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxQbnZGVV9jY29OejVwQl80R2JtaGZSeHhDN3Ixb3otYlJGTEZ4NFdlODNoSTJDQVpXT1N1NTg1U0lYdVFCMEhfOUV0M2pMUEJoclR3dmUtYlhkMnJfN1EyMUwxQmlydU45b0FGS0tqR1VQaGJWNEY0TGRCM2dQZnpXZmp3V0xiUlVWTWJiaEVJeXRtTHVnMmE2dnJEODJ4Mm1COFJTV1Qxd25QUXVBSTkxaGZuem96TEQzemhnQ1d5Uk92NWxtalNvX0dwQ0VveGJrNE16SjZoNVdkaVVaMTZUbnNyZGpfOTRnQmFWUFBlcVhESHk3T2czLVhWdVRfdExjSUZrNEU3UVd1QnlDV2RoMS02dTlJOXRCSVVhVHdrRUoxUlhqNE1XYkZwRDV1WGZ2MFZZdHZiQmExR1REUk8xSFNQRXRPSzl2TzRWdTJnOU5adk0xMWhIa3d6cGY0X2w5LTNnQkVXeFh3dFc3d0VIYnJ3TnRzNlVfV0kxaENpaVMwT1o1bTk1dVVsRVB5a2FUZnRDWERQZGh5OHlzSjlXNFotQjRmTkliUlFuRGhlMm9IMEtZcHdqV1ZmR2RRY1V1NFNTREpReDUzbmh0bWg2Y3l5ZWtiTi1fUHMycjM2YjVWQmQzVGNPeFFmdFY0Tklld2tvU0JRcllPVEhOSUg4a29hT3VkUXVJa2dxYmlUS2xDdi1SazktNTVyQzFpeUgxc0FIazdMd0pOeHY5NlJnS25ZQnBMV0dmakdWXzFjekhRVzFPNl9MbDh0aHQ1Z9IB0wRBVV95cUxNMWVGTkhhRWhNZHBwZldYeWI5SS1aeHJ0TGgtNzFlMnVDbkhJdGIxU1Jidk1PRTdoRFliWXU1SlVlamVmbnJLcW5mdjk0TE5HTmtuak5lZ1RsZ3ZfWkN1RmhGcXFoM0FSTGdRdmJwTUYyVWdLNGN6NkVCc3B5NXcteE9uMXAwTjcwSV9ta2tRLTNWcFdHMDItZGJjdVZGZS1MMUxLdHE4VmVWa2F4bjQwWGFzSlBZZVVXdTktSXJ2WXZqMV85MVVRamNqZmVEWEFFX2NoRlZkX243Z1J5c2xrZ1hiaUhCSmRTWUI1ODNNY3EzRVkwQTJqMDhjeFpJcU1qZkM3Zi12VndWdmRQZUdkcFpZeWpvUld4MnhvV2tqbEJlbWNjZk5SQkJkMVJuemZMYnA4WkJCOVhjWEZQUG5VZTR5RFpoTTRSd1JhMkVzOHc1WFphZF8zaEdnNTJfQ0tQZ3JNX0hUNFh4UGhkQXIzUXdHNThEUkNDbFdvUmlzRmVVVEp2b0NkZ0owaXcydkdzams5QXJVQU91dnFpaUxnLTZHVG1tOHhscHE3LWpVdTA5SGg4SllqWGU2RjhEQ3NtRnc4VWxZb2F3ZUp6X3dDYTNPQmU2TWN1bzVrZ1NwRmR4ZXV1YTRpdEQ4d3VFZlBZVGdOTElMbkdQR3lQUU1FM2pGTGJqdGRZRkVqeEV3WGFuQUJMdTBBbTBHRVlfTFY5X1hVU2V5c29SRkdLTGVydmJfT0hnZ0lObE5OclZzTDY2eGt5eXBZUTZrVXZLal9lX2Nr?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 18:05:00 GMT",
-        "discovered": "2026-09-28T18:19:21.026262+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "باركولا ضد موريرا.. تشكيل مباراة فرنسا وبلجيكا في دوري الأمم الأوروبية يلاكورة",
-        "player": "",
-        "content_hash": "96610593da88a4ba3cf3fb230508722eeb16060960aabd689e0aed40ef4adde1",
         "sent": 0,
         "section": "sports"
       }
