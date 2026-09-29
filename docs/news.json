@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T08:03:29.425568+00:00",
+  "updated": "2026-09-29T08:24:25.891070+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1608,6 +1608,38 @@
     ],
     "transfers": [
       {
+        "id": 6613,
+        "title": "مفاجأة في عقد زيدان مع منتخب فرنسا - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOb2x0TnJEZGdIeHZ3bllhTVlJb3pTS1FQNjQ5b01ucmVpU0szNDZ4T3FFLTFBSnp4N1BKcUFuSjZrMEQtQkVWX0RUNFlkMEs3c2RwS0ZZNDNTbGR1NElpUnFNaFdXTDNEbzNjOTd3allPRF9Rcm1yRkZ4M0NIeXRQd2ZpQzJkeFhpcUJjNEdfcGNscmttaEZmTjBwUXk2WXdwdWF2elFfeFNtam9rYkNfU1VJNXAxWG96SkV1MDQ3ZF9MLVNlUFowOHdQZkpyald2Y2NpaTROZzhlVW5NT25WRHFqREd6aXB2RTk3Mno0QVRBSnFyOWdyT0pVRm9BWUNINGpiVlZDMGZHWmdYb3FIT3NsdEllcWNheFNaSjlSN1RNWmlDbHA2Y3BKQ3ZsdUtzcXZfT01tR3daWk9sanZNcVBVNHcwRXNmbU5sb2FSR0ZRc0ZUYTJxM1VHVmpUTWd0U0F6MkxldGQxTndoU1ByY1lqLWJoU1R4Sk1BNkdLblZaYXh4M0l1ZWhhNGJvMk1XZmxIUDNFUUpaSmg5TTJMd1Nn?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 08:06:59 GMT",
+        "discovered": "2026-09-29T08:24:06.101175+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "مفاجأة في عقد زيدان مع منتخب فرنسا Kooora",
+        "player": "",
+        "content_hash": "198ae8a08d91aff48d0a0945c1ff80e7751c8926c27b9b9f6d5fa53cf822511f",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 6614,
+        "title": "بعد أشهر من انضمامه.. ريال مدريد يستهدف لاعب مانشستر سيتي الجديد - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxPdHRDem1EWm5sVFhoZHZaQkFoeG14SGNja29DaWlsOWlmSGVZa05sNTlaN3ZnUjM2M2hSTktyR1FWbFBsWXpZdW13WUhwWl9TQUFFYnJTUk8yWDNrT0VOODJERzRxNmNOSVdzdU1hOUVBQW90WDlocmRKbzR0Wlk0RjBhZzRTZTNaZjBEdGxxbUVRakJSVWxFMWdJeWJoTTcxcUZQa2cxM2NhZHFfWWpNMUxnYzh5d094Ql9tMVJVUWZueWJRTWZCRXEzX01ESlZaanhaQWxDa3R1bC1BeFFERDNCZ2xWM19oTEF6XzAyNWlNZEhhckZGU3RmTXMwRUVpNzBpZnF4NGVfSURfci1TMlJZYkV1T1BlSUpPNnUtSXZBRllLc3lja1ZyQjNLS0dQZnotMTI5YzN3RHp1d2VNeEdlTEJYWHR3UzFLaG5KNm1EWTNHQzJ0QnhWa3F5U29FaXRXaWhNNXBqNEVfVlBXUFE2YXJzQnNydGQ0RU95WHhGOF94MEhiMUFCYmQzb2kzZ1o4V1JPTmFUWk54dzIzZEZlM0c5VE03alpKTXk2dU5sSlFIM2F3b0RFcjdnbFFQQWI2SXk3cGQ0TWROZUVtN2UxeXFlSU9LemU3ZjhYWVdsQWJLdEVqMmhtdFBDTlUyX2Ffd0pYMkxva3M0cEtYQXlmdzJwRmM00gGOBEFVX3lxTFAtN0xfTDM1a0hNdHhhbEgwMnVNMnlwNF9VcjlOcldjMGI2d1Y1WWR1WkZlZmVkaG40bFB3WVBrUmxuRWxBN1RZZzFFUzZVN3dFLWd0LVU5YWUwN3ZBR2N1OHpxTEhua3F3WUVfeEctb1AtZEhFVjY1T2IxQ1Y3aVlzRUxIYjRMNmRUOG9oSTZOa2NTRC1LcldFWkZNdk56cklUa2c3Yk5hTnprVEs1N3plb25xbE1RNXBwekRNX3RRN2ZiM2F3eU42LU0xaGFKV1BTNmVvZy1fenU1U1pydXk2cmZ3Z0Nfd1BDaTN2WTU4TTFmNF9SVG9rSUFza1VIZFRmV2dOUVZyWGNCc184TlZxdUE0MzNJbVRtcnBwMjdMUFpnMWNVVkdYN0dSSEtVbDBSeHlhTXBkR0JoQkNaU2ZIQ0J5dkpnY0ZKT3pkekJIaWtfNzVWd0QtOFY1ZGhlS3JSdXFIU0lMY3p3ajdHZVpUNHM0QkNBdXJISG9tVFNjaU5KcEg2eHNDSnFwbms5YnZGc2lOS2tjOGJzSDQxOWpOandUYndmM24wOHlFeDVYaWl2bm1QRms3VkxKQ19WMFFwUjdyTmpzbzBlUHR0TWJseUstMUZoNDM5dXpRUTFLelh2RjZLTmM0d3l1Nk04SnBUMkk5MDd6MVk3VjNOY2VmSjc0ek1GaVIyVjZrMWc?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 08:02:00 GMT",
+        "discovered": "2026-09-29T08:24:10.984998+00:00",
+        "category": "الرياضة",
+        "status": "اهتمام",
+        "summary": "بعد أشهر من انضمامه.. ريال مدريد يستهدف لاعب مانشستر سيتي الجديد يلاكورة",
+        "player": "",
+        "content_hash": "9afc8529d785c907ce6c1ef42b73884ad3f49ae6f3b319e1500bf5f3e8e23ec8",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 6600,
         "title": "بديل صلاح والعائد من الإيقاف.. تشكيل منتخب مصر المتوقع أمام جنوب السودان - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxONF9VT0RIYWNqV2ptRndDOWlySXBnWTVielFVRktSMWsySlA2UWhqdUJXSEZlUkw4Z1NmVXRzWllfNnRGdjJmNVo5Rm1UU0ZuRGZ5N1ZLMWRxQUtVNVlIVERkcFhkM3JjTkk4QXV4QXczNDRMUVZBQ3dJT3lGbFZkbTVNN3NwS1QtLWgybTZjejQ5SlBqazhTcUlKT1kxLWt4aHJXdGdhN1pJOW1ZNEV0cVdLWkFpazB2ZFBPUmNhZElubkdfNlRoSzdFUERWTmNLUTliT01uU2M3X3JXQVBJcjZNMVlqQVEyNnNJV21qcVZfdTJSaDVXVkZ0Sm13UjFweU01LThtUUNSdEFvZXhhREx5bF9mWWdzQlp6bDh3VVlyZmh2dXBuUEdFQk5KS2FSdExWbjkwRGtNV1Nxdk1JeDlmekl0M2tMM1k2ck5WM3lvTTd5a1ZRWFNUcnJlQ3RzdTJWSVE5eTFtZ2dSd0VydjdwbFZjckZjZ3NCTEt4RFlIQVpkSGg4TG9zaDVEajdSR1o4MkNLd2MzOE8tTTZYZUJSRlZONnZZa0pzTWxDdnpDQVRxTkRCQjM1RmpkaUtJbWRXN2J6UTdlOHJmcVgzOV9fOEd0T0pINTNVSE1RUGNHUHV2VWc4VmlRUW5adWt2OEI0aWloSUdwaGFHUWZpTmZhREF5WTlsYnhmNlE0RHExeHJna0FzSUM5ekx4NXRITGNrUF8tRVdFLXhPTGJuU24yNzkza0N0NGdTSlVDNS01M0VrZ09LZl85VUc5aXJTMkHSAdcEQVVfeXFMTTBtWnVneDNqa0VpU1NUUnU2ZXZPMmZza0o0RXdQRTFPVExQWHJCOFNGQXF3WmYyRHFJZl9Ya0d0dkFmVE4tMm15YWJWd0NQWUhBN3BTcGlfS3FCME81amxwVFh3SUtxTm8zMWVpSVRPMEd6SlBYcEQyNzlRdWlkOTU1TU5CZVFLV2p6QmkwY2dYSHQ3SU00Z3lTRlBxOXJQVm1aUHFWLVR5dFN5WVN5NkMtNDdZS0F4NzdIVktmNHpYUnM4TmtwTVVVajVPZnhibVhMeHJlNmJnWnJrS2xfb0JaNWtUN2o3Z2thMTBBVE1wbXkwTDNwTHdQNnRzcnlSVC1fZmU4QjljVGh2WDZlUVN2RU1ZbUI2Rl83MUxDTE5IRGNNT2g5V09VU2o4SGtJN0cyUGoyZEhIa1Y2eVdpRVZoWXlxVFFieGhwbFdlSGMxSlc1QkkwcXlMcFI1eXRnTUF0VVpWWEFQdWFqOVZUbkxGZjg3QXBvWlZvaXg4aHNZWk9YTzFaZ29zU1VJeUdCQWxITWRKeTlqY1RUR3A3UjJuMzdadmxEczQ5R2ZuY29qUTFzenF2UXk3eHpjU2s0dnhDNFpibzNPTURHUHFqa2I0c0JKOHVFTThsVm9LUEJPcnZVYzU4UTVwdnlqQ2FqalJQMG5yamRsWkl6M3d5ZEs3LTNEeGJMUTc0Wm1SbVZoOW84cVZPcjd3YTJISkY4X3hYVU8xUG80dFprblJJRFV2VEZEbm5MU2pPZ21tekRUREExdFgzd0NBMi13TTNMd3BIU0R4cGc?oc=5",
@@ -2100,38 +2132,6 @@
         "summary": "ترمب يتوقع محادثات جديدة مع إيران.. ومصادر ترجح جولة \"غير مباشرة\" الاثنين الشرق للأخبار",
         "player": "",
         "content_hash": "5037e329cfc01b6774d01094b85a217c61e913e5e18c2ca55ba18b94775395cb",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 6240,
-        "title": "المغرب-فرنسا.. فاعلون في قطاع السياحة يدعون إلى عرض مهيكل للسياحة الجبلية - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMi3gRBVV95cUxNUzhRM043NlZsTlVDWkRmcUk4eWlCTXNOSm02QUUtZHlXNmdkYmszajVRMTk5Y2ZkZ3F4Q2FHekE4NnM0OGJFVC1JWkE3ZVphZ18zNjVYOHN0eHVkRU5OWWxHQjhxUk1RdUhjZHdSRUdidFJXTnJRemhud3hqMmtDdl8tekFLV0dpSVlCSk9fenhGNkRWaldvY1NTVEpUTlpETFRkTWI2VW9TeWN3TUR0TDJrV2R0RVdZYW9GYUVoU1E5LVVtdDJFdkctMnppeWc1VFhIZk5VLW93dmJIRTF3eFVHUmdxTHF3czJ2ZEIyTHdlbDlhSW02T0tqdVAwT01CakhNVy0xWW5qaXFsdzhqSjlRVlBRVm5tSGZqcHNNWU5QUVdHN3dKS045Yk5paUdzSWNNX2swazBQOFE5RHFXNzdXdWpjQlBrV19yelBMRGxTT29ubHZHWjlJa0t6RWRCX1EwYkRWSXhLd01ZS3BrZDZ4VGExVjJHdS1wNmZOSDNCaUpsMlNMQTBFdVBKN2RkemJvUkw4OFhXSzVHclZzeEp3UlJRY3BMZ25fVHVpbjlVYi1zNmhRRDNsME52MHowNGRBMV91MF9tbEdIME5HS0VfUzhJYWt0UzcxV1U4R2toQzA1aHdtWUN4bEwycHM1clI0Uzg2dzZ6OWJKTDBGbExyeWJXSS0ydWRoU2JrV0VCcURVLXUxaDdPN0N6dVZKTFo5OURYTVA2YlRXTjgwWFRJZk56Y3JnTnpMRmhBbUwzQWRFOFFYS3RtcEhMYy0zVm1DM3pwUzlpcjY4SUE?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Sun, 27 Sep 2026 19:28:58 GMT",
-        "discovered": "2026-09-28T12:29:21.733308+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "المغرب-فرنسا.. فاعلون في قطاع السياحة يدعون إلى عرض مهيكل للسياحة الجبلية | MapNews",
-        "player": "",
-        "content_hash": "51dae9cdffb97c91a129592a11ef48a634f6bb6948a34ed19b8ade09f81ff118",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 6126,
-        "title": "استعدادًا لبطولة كأس الأمم.. انضمام ثلاثي الزمالك لمعسكر المنتخب الأولمبي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxPcl95b0dqd1BqZ09LZFM2QlpZZUszWW9JWFIyaUpUUjVsXzdJLWl6Q2JBYjNLWTEtWGlWcVBHMFc0aF9QclZRU0R4dWZ5R0NFUTFjMk5TcHlFLTJwbVExTWwya0VFSUFWUnJBNHdwUzZwbjE2TzU5b29ycXpfZ05Kb3F5ejBDRVBqUm5fQ3lZWjZRWmdFZmhldTJmUlMwUVBqa0R2NmVseWE0VWVfNHJVM3YyOXVGNndCZnZMWjlzZWxvd2s1VkZZenhrX0RzdjJJX01FY1JRWk1sUUxHWDVreUtraVNJUV8xT3hCeVN6aHpKcXpZOTgzMjV2TVpIdTVPU0RtLTZRcExzYVVlZjZTbmg2a0dCckpCZzc5b1JkS1RqTzYwSU10MkZ6eFR2LUZ2alJ1a0ZNNjBvZzUxaTBNQm16ODRKWnI1OFYyTS1QcGFDRFZtaXdFanJFZV83Q1B2SnZIUzFHMHBuMUVFN0NJZzhmQXp6VHZROFFiQnAxdGhKNWFTOC1KcGhPZ25OaVZ0TVdjdEFqem1NRGdFbEJ3N3Vlb0VQdlhxeU9pdUt2ZThCNnZldFdWaUE4Z1pqd3l1eTFzMTF2SHc5THN6eG0xajg0Tjg1Z2JDXzNpUlZCckdzLTNtTXhFejlNREpLLU9fa0pKazNOM21oQU5yN0h6aDUtNHgtTmtZUnhiM1RiSmdfT2JMSlhyclQ4dUM2MkNoUktFZGNwODd4SWxESEQzUEdDenRaaWVWZ3ZLQjVNTUZZU2V4ZWEwN293WEE2blFTcVUyRmQtcFdJTXpNdmNvZmVzOEV0ZTV5eUV4b9IB8gRBVV95cUxNVTVYcGZUVXB1QkxNMVM0YVhzZEtEVmk1d0Y0NVoyZG1oSkJSUFAtRUtQQUlibnhVN1BOYWNUV09rT1dyX2JOOHFCU3lROGpKRnltbHoyYW5GalRsdDdaUUhzQjhSNU1nbE1Ud0w0U2pOWVgwRVhvZ3QwcVduYk9YLWRObDJQaEdpS0JsdW9YVmRsbllBVGtGVFYwWnpPVzVCaUo5RTB4TjlHWFZuVHBqeTk5QTg2TFQ3Y01lMEdlLVNESnhlZ3lrNWN4YzJ1QmwyQmZpZEswSGd4LWF4bmtwVUp0eDIyWmt0aktiVGNNLVJnSW1PQWpWckpkUG13SlM3QkNRak43eVFkdWVvQWE1VE1YV3h1d1BQY0tGMkUxejVxdHFTX1ZKMW5qZzN5TFd3a3dYNjV2YXRacmdSeF9aX2ItemY4eHZ4WFRPS0pSYlNXUWdNZ212dkNyXzVIb2NFcnlYeDctNmx4UzM5MlFvaldCSUF0Nm5qVkhITnJIUUJFSE8wZHFjWXlMNV9hQUNHLWY4elgyZTU1d2gxRTRkcXY2cVp3aW1FYnFBdFd2TXRCSDNieHRZdTEwcHd3bDJzTUxnczc4WHR0eWRXYzNKdXRTdjR5SU9BdTdzd01PTVFZT0lJbUlSaTF4aWVXMktGa3NkQ0RmRk4tZ2xGbDlmVDlIOXYtRXdWcWhoZzBIOGJEWThNejNCZVhLcndKMm4yUEVkeWJpQ3p5MUVlc19LTUZZM3dON0plRXROVkNpQlJ4SmhRUlR2RnBJaUdjZWk1QjNxZ1ZZUzBfX0N1dm5Bd0FSUGw4UmpseHV4NS12alFuUQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 27 Sep 2026 18:59:00 GMT",
-        "discovered": "2026-09-27T23:36:07.475270+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "استعدادًا لبطولة كأس الأمم.. انضمام ثلاثي الزمالك لمعسكر المنتخب الأولمبي يلاكورة",
-        "player": "",
-        "content_hash": "bb2ef6c3f3e3539648c6364317e86df5c7bc11a7161dc1ea93db27a3b7f5109b",
         "sent": 0,
         "section": "transfers"
       }
