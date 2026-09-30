@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T15:52:33.629049+00:00",
+  "updated": "2026-09-30T16:04:27.324870+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -706,6 +706,22 @@
         "summary": "تشكيل منتخب الشباب - تبديل وحيد.. وحمد أساسي في مواجهة تونس FilGoal",
         "player": "",
         "content_hash": "448b9fc8be3e51b83ec5609cc52e6ccefae848af36dd9fe79ab87cfb33cf518d",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7207,
+        "title": "وصول بعثة منتخب مصر إلى القاهرة - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxObDlYX24walN2LUdROFotRG9TbmFEdmxjUEVsMnhNRWtfRVlmOHFQN2thX29iSlE4SlJ5WVpQN2RrV1dkQWhtY09kZXQ1cURUQlRlZ2pTcGlDRGVYSnhqbmU1QVhfZC1rWFhZckFVajluX3RjV0N2T0JBdGVlY3U2aDcwMlIxTVk5NFFhSkxIZG5BRTlBbEZBbF84VzVFMUlaWkRubWJ5Y196eUZPM0Y5c2J5NGlXT2VPNDE0TFRxRTRRRnJCN2FLNnFZSy1hb2MyQi1xTnp1VkY5RzVZcThHcnFkejBuV1EzTlpaaGZsYl9nZ21QeWM2b3BsLTJNeGJ5LWFjVXJqQVNTZVJ1R1lCZnhvdURBUjI0X0tVR09GVm9TYlVtY2dPWNIBrgJBVV95cUxNb1NqajFnTzFuNEJZZEZteFMtdG1wODgtemkxOEhHcEhXUkFTMHFZVHNJcmQ5Z19sUDZseEpyTHJqMEh4Q2tuLWFDN0NfYkxKcGNTRWhieEIwSlpXZjJHQzloUUdydHhmWTk5RWV1bVdtdHhRS0VwQUE4ZmJ1QzM2b2l5SVFLS2FsNDBDZlN0SHgyWXctdEFyS2tsTUdXakIwaHlrak1uVExFdWhZaTRZTGxNWnU5LTJrTjNqSlFzdGhRZEs2eDNJLUIzUnlqTXBzNDFEU29CWGZyNV9lSkhJNkJnbGI1eUpOblZ2Z0o3UFkxOVF2Q2ZLV1JLVHZYQzhQUlEzODhET01sbXpWQ2lNdmduRmo1YTBkZTE4Ynd0TlhKZDZ6bjE0aVZMYXhmZw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 15:31:00 GMT",
+        "discovered": "2026-09-30T16:04:12.920014+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "ada65c4ab1c3c2352d1519e9f83b82c9b9c745f80a869aca3d992c2bca33d814",
         "sent": 0,
         "section": "sports"
       },
@@ -1442,22 +1458,6 @@
         "summary": "باكتساح كرواتيا.. منتخب إسبانيا يعيد كتابة تاريخ كرة القدم يلاكورة",
         "player": "",
         "content_hash": "28c552fa788ba8eccda9048516e4c7d34e0445c3fe6416245329cd1c1ea33ab2",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7068,
-        "title": "تدخل عاجل من رئيس الاتحاد.. أزمة في منتخب البرتغال بسبب رونالدو - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxQeVJkaEhmTFFwX2xZUDdhb0VCSk1HOW9KQm5FNkxnRXlqTW9KMnBoMTFRdHoyNlVEUm9NLXhWVnU3U0daZ0ZMOHF2dFJ5Qm5JeUtyMHc2dTl6OU02NDN4UVhjUEtfeEdQUWg2eHBYRE91R3Q5R3A3MVdYVzRTRHJRYmdscTNsbFFYdW5LM0pFbllncjhKbWlwczRwTW5BcTZTV3c1ZGYyMjRtREl5THc4YnJOYkZrdmtHTVduQnVyMUVLbjVvREladkhrZ24ybHU4bUswN1B2X3VHcElDTjQ2VWJjdTJYeFlhWkRXT0lfMnlheWIzXzlKZnRhd2NKcXphZ25xSDZQMU9iM2ZnYmNlTlNOOG9tc1dvdmVNMTdIRUlFMzlMbUFDN0Y1OHZrMkx3NnB2bnlwdU40cFlwdnNnQ1ZrRjRiZjk1ZU0zVVhkS2JEOU1ZelkzNGhlaWxZcUN4cXZaQUdLcl9sNDhNRl9lbHREbHV1dnBXUkUyWkw5cVcyVmd2QXUtX19CaWpJZnJZTC1IVGhkdnVYcVZ4OWUtYTUtd0NFc0o4U0huUUVhWlpwWTJneXB3VU9LYjBHakN5U3FudkVXZ0MtcDFsTUtkcHMtSmQ0bkxBbXcta3J5YzVyZ1p2NXhQRkdTal9USWNRbFJzb3NQRkNuS1EyTk5LWllLdi1pVTl6YjV1d29UQzJrQkRRa2fSAZsEQVVfeXFMTXMydE1oVkdld3REeDB4RXRpdC03VjE4TEFkU0Jla2dnTUhKQ3k0SGVTQ3h6bXRQSllEQU83bWd3V1RrdkFXNUE5WjJVZkhwVkZKVWloR25nb2hVYzBYZXNJQ2dtZXczS0lTZXA3b1hNT3JLMkRCVUQ4cnFpd0hoZ1YzX05PdzF1QkxLdTF4MmhjUGp1N2lZMGVKdFFDTUlSOUk5QVVUdkNyNS1QT01NTjhtclZyV3dVZFhvUEpUSWJQQnhWaHhsZWxrNGVnZmdDWkNoR2hXdEJYeFhoVFBqT19TRW9MYnF0aEtuUnVKT0VVSWVUSVhHaVZORUJMaTA2WlNoZ2wxeUFWVHFaQ0hXR05XTThCQVowV1RZeEVDSFVXTmtZek9jSlVab3piMzZkdXo4U01BQXNTQXRqUzAyWm5XLVRsM1VOaEtyTHBWaUFvb2FuY09STXJRNkxNMGtrWWRoYmZ1bU16Ul9fYzJyR2dGMDZVNG1pNENQbDFCaFg2RlJLbG1BNTh6MlRjMHlhemxmVUd2M2txdjRrcHZKczJMQ1dlSnIyZFQ5RnJGLWNrSUpuXzdaT3ZIMVNuTmF1ZWEwTUNhOWVFcFpiSGVITHRIVG5pM21paWlFMWFpdW9wNHNMQndYT0gzZmtHcXBqRmNCbHYyTUV6SDVZVFA5MHZBUk5rcmc5THg1ZUw0RDN1TkhoQmxROG5NN00?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 07:07:00 GMT",
-        "discovered": "2026-09-30T07:25:37.687552+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تدخل عاجل من رئيس الاتحاد.. أزمة في منتخب البرتغال بسبب رونالدو يلاكورة",
-        "player": "",
-        "content_hash": "855bceff0d79ca9ebbf588c0d07ebabc58c874e449bc3300acd2f12bc6c78492",
         "sent": 0,
         "section": "sports"
       }
