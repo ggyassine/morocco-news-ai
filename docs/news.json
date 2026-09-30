@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T13:05:04.396131+00:00",
+  "updated": "2026-09-30T13:26:17.109160+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -645,6 +645,54 @@
       }
     ],
     "sports": [
+      {
+        "id": 7164,
+        "title": "إصابة شلوتربيك تباغت منتخب ألمانيا قبل مباراة صربيا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNTldaYTViRmpLb1hGelM3LU9uOG9mak9JNWU3WTZuRFVuZkxER29ZaG5fMC10RHZOVDMxdk0yVEFTUkpiZ2E0ZmdCSzFNQTRqemJjeFJPZ2gxaVEtWDdWRi1qckxzby1HYkEySlNfYlZNWGZaXzZBSmpjVGRSeWpUVHQ3MjRzdm5EbTJ2cVNsMFZKRERyWUpudVR1b1ktUXR1Y2NaYU5OeTFILWdZSUtfLURDcEFiZklLTlNDdkt1ek1DR043djFwd3pJWjY3NExuOWZlajF0TVlZMkpjeFBBUWpzQXdHbjh0Z1ViVk5pYUNTWGI1WUp4eHZlV0Q0MG5pSmwyeXgzNFdWUFhubUstRlZKUGk1cnRDUmxjUWJtTS1ON3Vlam1Jc2UzV21jMW5PNm8wVDhjcUF0dE5JZDBVclNmQjVtZkdrZl9GcHBSaXlMY3lCdGlBTTVmTGFYaDVzN2dWNTlVbWt6S21ObkRmcEtRYldiWnVtOUlwXzJreTFGR2ltcXhLb0ZKQWZKWlFaRkExWHl0bnVidU1XNjI4SUpHLTl0MGV4aUNBN3hwbTk4NHduVzVmcW9xRDZzN1VFd3FmV1N6eUkxX1NjR3dJdW9vczhoUmJEVmfSAd8DQVVfeXFMTVIxRWZVTDlaSi1qZ1RHeTFieS14QXh4RXdIcWNaMkZ4SEJtQnFSRzVRclZVQkVsNm4yeE9lcnpEWXVDem5GYTdkMnY2eXdmWERmc09nTDduUV9xb0hRSEFOZGFTY0tENWQzcGhCUjNXZy1EZnZXczBydUQ3bWFVVlAwOC1rbkY0TlFLbXVrazg1SHZSZ2NlX2VsUTMyMW5hYjFZWnhsclFMV3pLOU9HTkVmSnp3Umx0SnhubzJRMEl4SkRteVJycEpjd2pubTB2b1hIaGYyNXNpUUczaFhHMG5XMTdfVzBsVUFBZjNPbGRNOGVxcnliaDdMMEM3WThsRHM0cXZ5c0hNZDE2MHBBeFNNOVc3ZFp5d1A4QTZMdkc1QlBNWUFnM3VxUWFsMUdwN3Z6QnlQZjIwZ0ZRekd3Mk5YR0s2MkZfb0JVTlcyeERPU25hUTJUelNRN2d5YVZBa2tvLVJlSjFrblFLZmxjM1BqZlE5QWUwMW9HSHF4bTM4ZDlsYnBra0VHQWt3TTVvMmwtQVQ0Q3ZscG04b1d1bEVTdTBmbC1mZWJHNWpNUHBib1F4U25pdERLXzNIaktMTXBuNFdzYnQ1am4xX3R4ZHFPVlRjcS0takxtMVZsc3c?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 12:54:00 GMT",
+        "discovered": "2026-09-30T13:25:52.128995+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "إصابة شلوتربيك تباغت منتخب ألمانيا قبل مباراة صربيا يلاكورة",
+        "player": "",
+        "content_hash": "f6d2778b3dd516a209446df548c3b7dfe23d8eb52446457436c9aa115fd17ec9",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7162,
+        "title": "مالي تعوض غانا في مواجهة أسود الأطلس - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CeFhnU0NPMXh5S1RadnBod18tN25EaW5mcnkxUW4zRkR0anltTVRFOExFMkcwOGkzMjhwYlh6SGktMmxyUWJUTlF5VnhaR09RMHp4Sg?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 12:40:31 GMT",
+        "discovered": "2026-09-30T13:25:42.868146+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مالي تعوض غانا في مواجهة أسود الأطلس جريدة المنتخب",
+        "player": "",
+        "content_hash": "5466ffa499bb8a925122bbcfb1a7f48f4e07539258205c9a15230bd9ae5b0770",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7163,
+        "title": "فيديو: مباشر/كاس أفريقيا 2027 بالمغرب..!؟/الجامعة تستعجل في البحث عن بديل لغانا..شهر الطاس يبدأ - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iSnotZWkwZnhhYUIwREtzZXRYXzVpREJ5U0ZfMlVsX3NwUXg0NjRLekV4SG8tQlROTjhhajF6LThzaXhmSzR5NkJ3UzNVVkJxLTBheQ?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 12:04:03 GMT",
+        "discovered": "2026-09-30T13:25:42.981200+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديو: مباشر/كاس أفريقيا 2027 بالمغرب..!؟/الجامعة تستعجل في البحث عن بديل لغانا..شهر الطاس يبدأ جريدة المنتخب",
+        "player": "",
+        "content_hash": "9de008dec7f15dffa4996360eae4ebeafa5e1c6de1524a0da73b24477fdacff9",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7144,
         "title": "فيديوهات | أهداف خسارة منتخب مصر للناشئين أمام كولومبيا 1-2 (دورة الصداقة) - FilGoal",
@@ -1394,54 +1442,6 @@
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
         "player": "",
         "content_hash": "852d99284a4ed3d68bea21dbd4fe6703cb94d40d51d721dd2792f211424c5a98",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7051,
-        "title": "النسخة الورقية بصيغة PDF | الصفحة 33 - جريدة المنتخب",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0UUFOSml0RmdxSEVIVHZxaDlUdlN1SjhHeTctT2RNbnNPRlFOLTBVY2JVWElsSXpac2lyanNoN1dSYl9rYm0tZXBFX2RlTFYtaWJZcGMyR2s2UFhMVExwRm9QVmRuLWlx?oc=5",
-        "source": "المنتخب",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 21:26:39 GMT",
-        "discovered": "2026-09-30T05:24:12.365305+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "النسخة الورقية بصيغة PDF | الصفحة 33 جريدة المنتخب",
-        "player": "",
-        "content_hash": "521541176ba39c2082166f87789103da15e48f071f30cab994313536fc84ab3d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6936,
-        "title": "مباراة منتدى درب سلطان و برقان الرياضي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPc1REODdGX21nMzhCQnRfQzFzM0xPTV94TTRmbG45eUJNNEtoVVhCeXNWelowaWJ5Zm5IeWFpMDktSU8ybzdSTGliUVpyWTBPUXRrcGRkT0dyTmduVzk1YTBQZHUwbWVsYmd6aHNHMW9tSTN2elR0UFdpUjA4SW1pWk1Ocjlyd3ZEZFd2V0UxSWVmZFQtcElKTXN2YVBmX3FqRnFqbS1mMy13a3JFS041S1FwdFM2TWpxN1hBZ0VrVlNVYVlVb3UwdUEwVW9XcUJnc1NzZk82VjdscC1OWGgtbWFaOGI4cHpLaTIta0hFWVRUY29GYmoyZDNYZkV5bTRDNWdkclA2WG5qbUw1bTY2MllQeldLdGMtbTd1X2IwcHNwWE9pYTR1YUUyZjMtUmtEa2RUUXFYTU5aTkpMdWRGc2FJSGdkc3NMOU80YVdRYmk3ZDk0dHZUMlh5V25HUEhVaUxNYV9WSGxGcjBfYzdNUm00WUI0amNhb2pFNTRHN1ZQS1BEMmlZWjlJNFBUNG95Q1lhTEdfQm4wdWwzRkJveU1qcmNkd0tYVmhGRmJQVW96c0FfQXJIdHQxZ2NKVm43c1N1MG1RVDZ1aE9tUWFrYmNrSGFpbXdVdHRrSVc4czJ1RkhJaVk5eW5xb0J6MW9YWFp6TW1hZDlvUy1TdkZJb1FLNmJOdnI0QUx4LUs4T3pEUUs4c2tJ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 21:24:29 GMT",
-        "discovered": "2026-09-29T21:34:14.855619+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباراة منتدى درب سلطان و برقان الرياضي يلاكورة",
-        "player": "رياض",
-        "content_hash": "0df71a38dfe09f31cc88b370f78d3972c88fda423c7af748d28f417e761362b2",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7109,
-        "title": "«دوري الأمم الأوروبية»: انتصار عريض لسويسرا... وآخر مقنع لسلوفينيا - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxORHBwemVKTEVSOFZTY0ZHRkFjakUyb0wxNkE0VkVNVVpvYjE5ZTJoMno1eGFYQzAzd2dXZWRtTE5iZ2E0bmRsZUtuanhSMnVnU0ZwdXlFRmstcXpUU2daTnJPNHZSTnpFSzMtb3RTZlE1aE9xU3liTzhBT1FkR0MxNjZLWDItTUhjZG5Fb3RITG9tN200WjRKN3k4VWZXd1Q1dGxuWVlfWVQ2TTBmNWEzbm5oZHNhZHhHcWRWc1RZcF9Edm9Ockt5MGUyOVpaTFN6akpNajJXSWMxd0lvbzFYNUZ2V2hCbzFLaTFJTlE0c2VMYkJFVDVIVTUzaUMxOW1tZTdQN2FCWVlvb1ludHc1TFQ1ejFEcW14WVpCVDBzbDNWOG9JS292T2FXaVlqZ0I0enU0MlR0ams0eHp6MUU2UGFuNE1SSkxzeWFJX0dTSWJqeDJuWmpTNjdCV0F0RUR5dDl1dW5KWmdxSmRNSlU5MVJzNDMzMnItbEE3RHJSMHV2blhjUVRyWEtKQ1Uyd1otV1RMNjZhSFBZZTNwU0FpOWZVT3ljdm95SHFzSUN0ZVNranU5dUkwdVNDUk1sUDlWM1h1cFFSeWhRaGlZbGJrY1BhVkluMllJcUlBWlpPMG1vZm01MVFXYjFpc1pTb0Z2d1VvZEhuZ3BNOWZDYzZTSVhWWXQ3X0Nhd1FBVFh5T3lhMVhSU2wzdW1BR2ZRZERHcE9aSTFXYmdPejB3ZnU5RURpTjBxUW5jdFRzd052TVMwdDhrT2t6Y01TYi0zOEVNZEdwWnZDcjgxZW9CdU9uTFlpMjVZR2xzMTRDYTQwY3BIYzYtcG5mR2p1MXRtaVk?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 21:22:16 GMT",
-        "discovered": "2026-09-30T09:37:58.380844+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "«دوري الأمم الأوروبية»: انتصار عريض لسويسرا... وآخر مقنع لسلوفينيا الشرق الأوسط",
-        "player": "",
-        "content_hash": "c3ffb65dd4259e118ae03c9156ae7e16457c70d1ddc9b188bfcd2f9fccda6962",
         "sent": 0,
         "section": "sports"
       }
