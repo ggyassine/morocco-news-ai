@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T16:57:32.719610+00:00",
+  "updated": "2026-09-30T17:12:34.387584+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -661,6 +661,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 7232,
+        "title": "مباشر تصفيات شمال إفريقيا - مصر (0)-(0) تونس.. بداية المباراة - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNMXNJamNocEhrZVJZUlZlOWw0dk9nZjZSMWtUbFNLcHlTeldxLVlWUXpoMFVOOTI5QzZYVEZlU2dqVVZQaEJudWNyTEtKbmxTWXFPSG5saW9SWXk5RTc2MjNWeEhpSFR2aTFyaEtfRUJ4cU92VlNVa1l4QTZ0enJjbFVXZEhOLW56NmRIVHctN1FNcWFac2Q2RTdINkdlMWYwMFppc0s2akwzZElmV3A4b3B3MDBXSERuVThXLVpmTFBfTGZSdlUxTmF2SU5MeTN3MTlJX2JGNm5RM2wwX0RqblRPSjBvNjN0Z2pBS0JWTlczX0ZTZGRfdzRHV1NVT3N2ZXdYMGlia05qUjU1cm1tSGJtS3VCWTd1eVFCTDM1amRTcUpodmZJRlc1dmhYcFRRRWM0QnM1M0FwMUczak1vaTRPeEQtZkVTel9xUVF5MUM1YXZtc08xYnE4OUV5bEtveEM5Y3RDNmg1RDl5NWF3bzcwQ2JGVE96UTlvblh3U3ZEQVBDRkNjZzNXMzEzT0F3cnlPdGs3Y2JBWGZuU0UxM3JfY0VFcHRndnZ2ZlpzMFjSAbYDQVVfeXFMTmdRLVJEdGwxRE9wMWZHTlB0Qzg0X29QdldoZ29QV1JUbUQtNXBHUFFZaG4yT3lHcEpoU3NjM2kxbUVGbEk1TjY2RWo5b2xkWmQxN2ZvdGF4TFVCekhLNXpHS293ci1pVUY2N3llTUtOT1RVazU0LXROYnhOUXc5ajNFTGlrWkJsQ0pkNHpaS2wyeDhxcS1GeVl2anlyZ211cE9YQ3RneDc1Y0t5SFFPaHNLV3NyWWFqdlg4dzNvU3dha2RmYUVCcUNSeDhUU21KNkZZMWlWZzl5SXgyNmtMQTdMVVBlWk51R0ZGWnh6MFNSMUhfekVudlNkY0gxb1VmcDV5ekZWdlBIM0JkVVRhVFhOR1ZsaVRhakpqRUwtbTlkakpuZHFxRi1VZXYxcUNuX1dsd3Rwa0tIbmZ4eWdHV1NtcUIyNDZlZGVoOGdHSVdFNDNvNVdTTjFGM1AyMXRsRVpCcEFoX3A2RVpxenl4eDBoODNQa3dhR0lzSkVTZHptMEZUamVnNEN6bmlLd2docHB2bHdJNlNaTmYwZFNlSC1Pa3NaR2VZMjBkdjFtbkNkRkFsZ2F3?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 16:57:00 GMT",
+        "discovered": "2026-09-30T17:12:19.111414+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباشر تصفيات شمال إفريقيا - مصر (0)-(0) تونس.. بداية المباراة FilGoal",
+        "player": "",
+        "content_hash": "460d1f009a65149ec7dffff488ead3ddf3b464c30bbe69fa769347b831473033",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7230,
         "title": "مباشر مباراة قطر ضد الإمارات في الجولة الثالثة من كأس الخليج العربي - 365Scores",
@@ -1442,22 +1458,6 @@
         "summary": "لأول مرة منذ 111 عاما.. الشقيقان إسبوزيتو يكتبان التاريخ مع منتخب إيطاليا yallakora.com",
         "player": "",
         "content_hash": "42a55286462ff02b807ae941d74b781a88a477b02533a3beecfc7bbe0f2c3ce3",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7174,
-        "title": "تقرير: لاعبو غانا يرفضون السفر لمواجهة المغرب - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vVWFoaWtEMmJuZUJWaGk1bWFKZUxqSWN1dHRzaEFMZXhSTldKVFlGY0lMVVhPOWYySUpwa3k1VkFKSGhjNThwS3huY3VUOFM20gGPA0FVX3lxTE9mT1ZCaXhoWk5zNnROeVZjSGZuNUxNZ1p3bVBNT0xUYzEzWHNHaElJeEgteHN3NVJrUGczNE9tNUwydHRlQXF3SU85M1lkT0dHdDBIeExxb1VLblFtSUVlSEdBZllGSUJ5Nk9TZUZWLVgzOU5objVHcWdwUm5VbXg3UHRFbUN3bUVNbVNURVNOb1hfWjhBSE9fcnI2VlN2XzM1NE5FcHVCQlhTYnNFRnhDTG5yRTR6N2xTMFY1R2pNMFVtTkY5M28wY1Q0cFltWnVka2J0RXlVYmJkTUF0U2E2eV9rY1VHLS1wVEJaTXZyeEhKTG93clFZa2Q3Zl9sYktZdXdmc3phSVBEZ2w1Z3NuTkliRlNsNi1TT1ZHZmpkYkE0RWZoQzhKRVFxQUdCb0R0Q1BCUEE5TDlobm1EcFBwa2ZTVkk5LXh4RzM3dE1RMzdlV19LMTZROVJ4NVY3anBLdzNkS25KQUFMemp5OWVwYlFSalY2anQ4VzVuWEdPQkNEdE91cUtkMXNFYl9IVQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 09:28:00 GMT",
-        "discovered": "2026-09-30T13:57:24.924245+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تقرير: لاعبو غانا يرفضون السفر لمواجهة المغرب FilGoal",
-        "player": "",
-        "content_hash": "90b9affadac19db0c97d0076ed16626b359b0865b45e4294c06622fcc30a80dc",
         "sent": 0,
         "section": "sports"
       }
