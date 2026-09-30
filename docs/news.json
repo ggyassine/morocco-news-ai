@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T17:12:34.387584+00:00",
+  "updated": "2026-09-30T17:30:18.850843+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -662,6 +662,22 @@
     ],
     "sports": [
       {
+        "id": 7234,
+        "title": "بث مباشر.. مشاهدة مباراة الإمارات وقطر الآن في خليجي 27 - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQbm9vaEl3dFVfYXpoMm10SzBPU0J3aHpEOHBjMFBhdEZzc0JTTk5LTlViR1ZZTHdFLWtuaTJLME9xNXFFZ3RGQlpjMkNHTkt0b0lGc1ZESTZUakZlWmV2VzFtcnBDSnJkbkQyczkzd1NfYVIwSlZ3M3RKampLcnRRc1hEYkhQT1pEZjJzZ2w0NWtoM3BIMk42eE9uQ2J5bFhUMEt6dnc4VFRMdmczdXNTbHNjR041U3ZIY1RqOWF6eEtjQXVPS0VDcXZqSGZPdlJMcUJoUDJiWHg2a0ttOElWdVlrU21CYWw0b2V6QVRoTWRzTGZzWDV0a2poN3E3aWVpVDg2RGxRbDduMHdlTERyRnBxRGZ1MERpSVNmdQ?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 17:23:56 GMT",
+        "discovered": "2026-09-30T17:30:04.113284+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بث مباشر.. مشاهدة مباراة الإمارات وقطر الآن في خليجي 27 365Scores",
+        "player": "",
+        "content_hash": "900e9bdd6afeab5e2d85440cf2b7fb0f49177abbe169e8ff129a1872b3ff6564",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 7232,
         "title": "مباشر تصفيات شمال إفريقيا - مصر (0)-(0) تونس.. بداية المباراة - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNMXNJamNocEhrZVJZUlZlOWw0dk9nZjZSMWtUbFNLcHlTeldxLVlWUXpoMFVOOTI5QzZYVEZlU2dqVVZQaEJudWNyTEtKbmxTWXFPSG5saW9SWXk5RTc2MjNWeEhpSFR2aTFyaEtfRUJ4cU92VlNVa1l4QTZ0enJjbFVXZEhOLW56NmRIVHctN1FNcWFac2Q2RTdINkdlMWYwMFppc0s2akwzZElmV3A4b3B3MDBXSERuVThXLVpmTFBfTGZSdlUxTmF2SU5MeTN3MTlJX2JGNm5RM2wwX0RqblRPSjBvNjN0Z2pBS0JWTlczX0ZTZGRfdzRHV1NVT3N2ZXdYMGlia05qUjU1cm1tSGJtS3VCWTd1eVFCTDM1amRTcUpodmZJRlc1dmhYcFRRRWM0QnM1M0FwMUczak1vaTRPeEQtZkVTel9xUVF5MUM1YXZtc08xYnE4OUV5bEtveEM5Y3RDNmg1RDl5NWF3bzcwQ2JGVE96UTlvblh3U3ZEQVBDRkNjZzNXMzEzT0F3cnlPdGs3Y2JBWGZuU0UxM3JfY0VFcHRndnZ2ZlpzMFjSAbYDQVVfeXFMTmdRLVJEdGwxRE9wMWZHTlB0Qzg0X29QdldoZ29QV1JUbUQtNXBHUFFZaG4yT3lHcEpoU3NjM2kxbUVGbEk1TjY2RWo5b2xkWmQxN2ZvdGF4TFVCekhLNXpHS293ci1pVUY2N3llTUtOT1RVazU0LXROYnhOUXc5ajNFTGlrWkJsQ0pkNHpaS2wyeDhxcS1GeVl2anlyZ211cE9YQ3RneDc1Y0t5SFFPaHNLV3NyWWFqdlg4dzNvU3dha2RmYUVCcUNSeDhUU21KNkZZMWlWZzl5SXgyNmtMQTdMVVBlWk51R0ZGWnh6MFNSMUhfekVudlNkY0gxb1VmcDV5ekZWdlBIM0JkVVRhVFhOR1ZsaVRhakpqRUwtbTlkakpuZHFxRi1VZXYxcUNuX1dsd3Rwa0tIbmZ4eWdHV1NtcUIyNDZlZGVoOGdHSVdFNDNvNVdTTjFGM1AyMXRsRVpCcEFoX3A2RVpxenl4eDBoODNQa3dhR0lzSkVTZHptMEZUamVnNEN6bmlLd2docHB2bHdJNlNaTmYwZFNlSC1Pa3NaR2VZMjBkdjFtbkNkRkFsZ2F3?oc=5",
@@ -994,6 +1010,22 @@
         "summary": "الأولى هذا الموسم.. زابيري يحصد جائزة أفضل لاعب شاب بالدوري الإسباني لشهر سبتمبر يلاكورة",
         "player": "",
         "content_hash": "bd202b669845164d46c9faaadebec028f0327a22c0a0de0292baf9d005b4cacc",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7233,
+        "title": "تونس تلغي مواجهتها الودية أمام مالي بعد انطلاقة متعثرة بتصفيات كأس أمم أفريقيا - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMiswVBVV95cUxNXzh3ZkdMU0RtQ2drSmpJSjR1THNUYVhmTXBHSUVuVm95Y1dOa3FyMW42MWZkZ0lPSW90OGx3eHZtOTFaeTBKWWZXUzlUT2FUdGJKZ0xKNnZOVVhWVFcwTjF1R0tURTIwTU54amx6dm5mV1R1UzFGNUFKYXNwX2steTV5QkNQaEJUY2wyc1BUVlJfX3dPSElvLW9nV1ViUlpKdzBKNzZLRTNCTHFrZHFPek9WUDNkaURnUEY0Wi1rUkFDMlFhRXBfNTJDVGhKR0Y2X2JBSloxajJwS1BySllhYm9ITm5jcmRJelNEQzZPdDZQbTVnamN3dlYtWjdRQUQzQjl2a3U1OXRueVZabVRaQnZWWVc5ZzdQQVc4b29UdVJXWTR4aWQzMElQRktUVTROb2Y0eEs1Vmp6QWI2MF9kRjhGM1NaM0tRT21qZUpjX2I4ODY0UHA2OC1WUUttQnNMekNnNFdxZmNEV3FRN01pTkZtbnJkMzdSS0NkXzJNeXVsRkx4XzZET1FmYzF4cldNeHJkQWh5UU0xUGZXUGRwT3VwU00xbEJTS3NDWUw2bm5veGhhU1JGZjE2R2NFTkRQcEtIc2toRzdFM1cwT2tSdlpSa3hDeXhUdEFfZ09Fekl2NF9RX0YzMEVqYjFtLXdyN1RLU1pBN1Z0NnRkSERSNDBjazZ2b2Y4Z3lNMDJpVmJxdFg2dHNpMUdvZVExdnJuNmxudnJ2RVdXSWxrTkRzVHhib1pZdVpXNzZJTjM0WW5VX2tkSldQbzlBbUo4dWt0QkRvelVOSDFMTUdlLUg4QUdvNkdqZ01XNVN6eEZFZENRTGl3S0I0eXhvMUhBMDJ4SkV1N0xyZUtSV0lwSzNSalF2U3g3ZmhnaEVHSThXcFprVU82WkhSLWFfQkc4QlREdDVN?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 14:19:43 GMT",
+        "discovered": "2026-09-30T17:29:59.803456+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تونس تلغي مواجهتها الودية أمام مالي بعد انطلاقة متعثرة بتصفيات كأس أمم أفريقيا الشرق الأوسط",
+        "player": "",
+        "content_hash": "4d775a177349590d53040c8b1929c128b4365fb11c2dc5b3c78317c0e89cbff0",
         "sent": 0,
         "section": "sports"
       },
@@ -1426,38 +1458,6 @@
         "summary": "بعثة المنتخب المغربي تعود إلى أرض الوطن بعد رحلة جنوب إفريقيا Febrayer",
         "player": "",
         "content_hash": "909ccf45461100a2341c0fb2acce0416af43d73384319c0268b8ebbeae05a89c",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7114,
-        "title": "رغم الهزيمة.. مودريتش يوجه رسالة خاصة لجماهير إسبانيا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxQazE4VGcyb2xXb2JHQ3BRY0IzV0t1QUhZc2hPSUw3dW4xdjhRRzk2T2NXWktTbDJUU2Y2WlRlT29Vc1kzS003X3hVVHFJOWppbkQyejhmTVdQQ1VwSVNXQzkwYlJwU0dwZ1d3OXhVUTdBMTRVV0Z3Z0c2blZNcFVSOFk3ZjVfMk5TTU9OQzJ0cFQxLUM4X0oyX1k2NnhaSGEyVzBXWGN1a2dZdVRnSVVVUlp3UDNLVFFlT3FwTDE1V0h4anhDOF9SX1FzN0dOTDJiNVd5eVJXNlE4UHhqZzJMRXRCelhwSkdGZG9oemQ4czdvVlNseVhnbVpQeFN5LTF6OTd4TVNZcW9zbVIxRmp0TlhsXzBaVlhia3E2YjBXVDQyZDVOTnU4VVFVS2dvMzdyaHREMXhpbWQ4QkJjZGJpQ3JnT3Btd0dvQ05wQlB6YVZzRzZWbHFoQUpDeklQZGdQN1BXTHdXTnhLNml1R21ta2hFZlMtVlBIdkRqRk9SZkRSX3R6NWk0Q3daM2ROVVA0b3JHMURKTXhrZUNJdHVsWS1IZmhvVUxVcVhoWG41Wk9kSWxQdzV5Vkt3TlZoOUlmQ1R6TkVNazk4MjRqNTZaaHBKTl9HZENYamfSAd8DQVVfeXFMTVJyRTJxMGt6ZzdPWlBUc2xnSTJSOWJ5REZ4dGNEanVpbzBiU3dmRjdWM0trR1pJMjNrTVpUYk1uRlZQVkM2V0dIZzFmbEJqN0FwckxCZ1N6RkwySUtERlh5eUcwbTU1UUNOcXY0OG8zMzMwSWppZkdIZ21paFUyRmlQenFGZjZYR0p4UFFSM1dXcTdIT1BrT25nRGRMbm8wWEdiV3hCWTZubWJPMVMxem9ZOE16VHU4RkUyQWFFdmlBbWwwMUdkSG9za3hfOWM1WTFfVkl4YW5aMXFBUmZVLU5NLTMtbVZzZnlibTBfNmpJZm95ZDFHS1ZXVE5weE0ySHZfbjRtQXZ2aUhtY0hMZlNNdzQ0ekdHS192VXczNU5MTEUzZWZYTFdDZ1lDUXpBQ0dTaklkb1hodmFPVlk0SXlrZHREU29WQnhpeWJwUTh3YzFCRFI5MldkTzY5elc4Ylc2eDFhZU1iUzBTVThHM2Njc0gzWmY3d1c4X0xDdHBHMF9DbF9QQU1OU3FRbFhmbjg0eEpXMUU1Umt2WlhKNkxaNkJIeS1fVWVHb2pEckJxRW1HNmctbjNORF9NVnh0NGJQUmpwOUhPbTE4SW51UXpqTW1fdjI5Vjd4ZmhuN00?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 10:09:00 GMT",
-        "discovered": "2026-09-30T10:26:44.327008+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "رغم الهزيمة.. مودريتش يوجه رسالة خاصة لجماهير إسبانيا يلاكورة",
-        "player": "",
-        "content_hash": "116681ddd80aae105b7d36aca56f2bdce7486dae58fcec0793e0d888338128f1",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7111,
-        "title": "لأول مرة منذ 111 عاما.. الشقيقان إسبوزيتو يكتبان التاريخ مع منتخب إيطاليا - yallakora.com",
-        "url": "https://news.google.com/rss/articles/CBMiywRBVV95cUxQZmYzQjd3UXEzUU9yOGRXUDB5TmNkLUtpRzdndDZ1WGVTcWVLWjFVeVFscThqZjJSZDBfaXk3czFPU09vMEE0R013cWFjeWNDbW90VXNZRkF6UUFSUWZjODBHa25IVkwxOEpmMUJXandmMmhRMUtlYmVLUFZLSDg5TE9DYklNTUR5aWQ5ZUhYbjFkQVdMQTJ1U0xCSEM4S190Sjc5MmthWWZjclZ6RzlXczdKRzJBLVZnelBkZ3RJQnI5aXhhMGp5bjV2Y2NCYk1mQnNFcWNNcTN5NGU5NTZraVpZb2JzQXNBWFN4RFNYRlZjby0zWVBYUVBCbXRkRXhVNFl4RFVkekp0NldFYzEyRGU4eUJBcWVGcFNpZmZrTEZmeHQ5TXhoeW5zOVFwWkxyeGM4NDJqUHprbkNMbVJXLW5VM2ZvMWkyR1NxQ0hOXzJsSWJnUjFKTU5URHFXbTRJbmxBRFFLaW56dVBUWER5eHpISVpyVE1OeDVsdjhkeGVJd1AwS083WnRmVTlWaEpPd0l2Q1BYck9qU3U4OUdic2ZiZkxzSDRfeFJza3p2N3BEeFZzaFA5N0dlNndmdWF0eVJiaC1mU2RXQjFSWDBULXJqenltSGFQVHJENGkxWmVOVkZsSnZ5cE42c3pZTTRQcDNJTkUtd1ZUXzhEOUZpanFWTWZFSUVzOVlVOXE5d1JKNks2ZVo1MUE3Ui1GN2RWVFN1ZTllWm1TODVJSzZpbTVQT0dxMWpnTjdCOW1oQ1laQnhWMEFzVWY4a9IB0ARBVV95cUxNSkhsSHN6RXJtMWZZMTFkYXBmT0VHN1dVY3QzSmItS3dYM0dMMk1DY3NTS3R0YjY4NFNFd0NyU1p2R0UwNVcxRU1WWDl5V2xxY3Y2ZHo4ZklSQzd4ajVDMGdFRDZmdEZLbzk0ampkb1BnREtfRnFrd1FsMXJWdTJYOWVyMkZoR2R2eDU5VWw3WkpqTEJvYjdDTk1ZUEV3ZTJyU1FkYXRjMUtNOXJDUG5ETURtMi1aZGpIVUY5VGlzRTdLTlVNXzdiaGRkaG5RSlp5SmlXZENfY0Q0R2ppbWllX0tFbElUTkE2TWRybEw0MXZzblJHQ0FhRVlDblRwUDBkcWVXN1FDMHRpSWp2djJvNkRpQzJQVy1na19SNGQta3VZQmZJSDV0QjJwem1oSnBpdks2N2tFWmtIMHplUERQaFp4R1hjYWFnenB4cTlKdkxZN2UycWlkc2hPYVh3bUFqMVAzYkk2VUNwcFdBMENIcXpsa1AyWlhNSlVvRFQ3SFA3LXVjV3BycVpLc21VTVlLb0wwdWUwTi10cnpvUDkzenc3aUJrYUFmcnV4S3A2N19YRVhTQjNfZEZfOUFQOGpMdk9fQVk1cFdEc2JUVUtwSGpuWEh0TG9sSHRCVTlyWE9BNTNnRkN2aGhGNGt1a1M3ZDA2dDlwaGVoOHFxanZiQ25ETEo1RHVGTUpDaHczdDdnMEE5b3N5STJqN25KNXNPNkd0OEdJTmVUaGVJWGFPYUtISk9LelVEYmVNS19XY3JUWTNQOVFkVlhlNkJ6TGli?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 09:40:00 GMT",
-        "discovered": "2026-09-30T09:54:48.287905+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لأول مرة منذ 111 عاما.. الشقيقان إسبوزيتو يكتبان التاريخ مع منتخب إيطاليا yallakora.com",
-        "player": "",
-        "content_hash": "42a55286462ff02b807ae941d74b781a88a477b02533a3beecfc7bbe0f2c3ce3",
         "sent": 0,
         "section": "sports"
       }
