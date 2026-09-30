@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T14:16:02.719536+00:00",
+  "updated": "2026-09-30T14:37:37.220570+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -468,22 +468,6 @@
         "section": "morocco"
       },
       {
-        "id": 6680,
-        "title": "بعد تدخلات نقابية: الروينة الاجتماعية داخل شركات سايس بوطان وزلاغ كاز وبن سودة كاز ففاس تسالات - كود",
-        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNM1NGSTBPRkxqQ3k3T1ZYYUhHMnREYXJDbzZVY0hFcUR4Ym1nc2dxeklza2JZS0VMZ1dELXBzVkFZbGZxV0NYaGxYV0dEd2tKZUxpaEpUMUxIMG5oWWgwQVQ2MUVfMlRFX19ycGtLMEhjTjMtdzUweWtxYVFuT1NCVk5jY3RkaGVsMWNLV3N0YVFKY3d5cTJyLXBNaWY3MEJQUkVNejluTGZfajE5RWtSZmt2QzRaSmhRZ2NzSHFzaWgzUVF1bmtOS3I0QkRNQ0RkQ0EyaGdRNTVLTjhJVXlIc0EzZFVTNGNRU2Mwajg2cGhEZDM3S2ZRbS1JNzdfRktwT3JZeEdKc3h6NndMLUJYdzhENEU5RG5rLXl2OUJTOFA1N0U5VlM0ak5ycXVWbkNiNkJZSmZSX2czZmwtQVYyWHdkNE5hLW01?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 10:37:37 GMT",
-        "discovered": "2026-09-29T12:01:42.081996+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "بعد تدخلات نقابية: الروينة الاجتماعية داخل شركات سايس بوطان وزلاغ كاز وبن سودة كاز ففاس تسالات كود",
-        "player": "سايس",
-        "content_hash": "abd010846a1c18792023b1ee8236483e9edbbf95f17a71ef0c55a200a88d647f",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 7119,
         "title": "جنيف.. المغرب يدعو إلى ترجمة نداء كيغالي إلى سياسات دولية ملموسة - | MapNews",
         "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxQRkcyQTVnWktJSmFXZzJOVzl4aC1saXI1RTU0Y1BDNXdiZG81MHVfQk1rbmNYbTBmNjVkd2U4MHItbU1STTE5a0NTanJzNjNRVTFldnVfaFBENDdIWTZWZUo2elpMWHNIRnNVa1BYenhWQnhnd1lneEZWcDZNM19iUUxmWVJRYllDd3dYVHZMdUFMZWF5MWljMzZaZlNvRjlnLXNNU0Z3U0F2NnFZaW9iSmFpdERSdHp2RDRnZ2JKQzBEcVdsakgtTERJcVV3MHp2bDNmWUtxRHpnY0xzVnUtam1TZlFfY3pSYW9KMGRSM1VsMDJSTUpidEVkMGJMTHVJbVFMSUprMUtpVUpjV0wtaHdUakFFMENrbDh4aVZkVDNpbnNua3kzZzM0NHF2Tno5UnpJQWd3d0NBR0NPa0xmTDN1Vk5fdzN5T1NJRFpMOVZybjBjMWJoLXFZUzdQeF91YlVoNms1Qmk1RjZ2WG94WmMxQ3NUU3ZndVQxOXhxQ2lQaTFWYTVrdGVHSHJ2alN3WldSUHlJT3VUWnoxelNFTGVuZ1NIVVFkMEw1VFcwSi1lRDJ0aUtmclZhNTFsOTdfYjJ4Y2lpOS10Y1IycE9qQjRTcGlNUDlieDR2My1WbmtqMjViWmdnTWNaNWlsbTA2eVl6VjFfSjBYa3Y2UHI2UnlESGMwNzZVVkhJZXlzYmh3SVQtaFl5Zmo5MzU?oc=5",
@@ -642,9 +626,57 @@
         "content_hash": "d077bc2f9a70bbeb4aeac4c0151042a37a291c7a32bc11a2a2f1d2d6449dbeef",
         "sent": 0,
         "section": "morocco"
+      },
+      {
+        "id": 6796,
+        "title": "الانتخابات التشريعية 2026 : إقبال ملحوظ للناخبين على مكاتب التصويت بجهة الداخلة-وادي الذهب - | MapNews",
+        "url": "https://news.google.com/rss/articles/CBMilgVBVV95cUxNV2JyZ253NjROM1B4ZHdCcEs3YmF4ME1VQVBUZ1cxa295UENDdUp3NGJLU2llYkVGcWJ3UTc5RjdpdzVURW90R1JRZVJKMDZKTG9GZ0xpMHNqY2VfTmt0OWtvUFlfdkxoT3JCRDl2LUJzUkdIX3hyTG9OU0hHZERPRWNtWVdZbGNJdnZWLW5ZM0tYZ24xU0VOckNSOWJhUUVYVEZkUDRwTk92c0NyRXBtVm5RN3Z6ajl6akpuci10WW5tVC1PV192ZHlXbHBiNE80RUdsTmt6MWUzU1RJYWt2WWlXaDhIU1hLQ2xrbS00N2trbWREQW96eExpdGIyNk96Z2c2NG5IaUtodGVDS09XcDFBMUNmd045UUwxZDRLRjhyeUpNc1J6WFhhdkNaa0dHMFE2MnF3aVhtLV9xUFpFZTBtMmhZSVlHSkljWDltRV84Njd4RVZUZGFIeHNEbzJSMHh4RmFPQllmVzRRMnluSDZXTm8wdC10OWRpZjdlSUNwMlhCQUZIRkxiX1FmVC1lNkJ1b09NQlZzdkRaYnNRVWJjOXFnRUlYTHdYbG9XWGF4ckFJRTBaM0tOeElxdk5JNkE2dkttb2xuMTRzREFvTDNGbW1EUTJ4S28zYy1JVmpWWVpsRTd3TXFkdXZRNGt0Vm5jcGxmem9JY0ZVenNJSy1qSm04NjJlMi1UYUFTTkM1Q2V2ekZUWFhqZ0FDQWl0bERiQkZpM3NWU25CWmcxajUyY1FfOXRhMnBtd21ma2VHU3YzcGJzWVFla2N3ZmNQb1RBMFJFUjNKUGtRMEMxWkVwTTNiQ3BCZENmMWU1QmZGcm9fbXltYXZDSWxRMFE5VHFrNHgyY3ZvX2lFQ0ltM05sT2ppUQ?oc=5",
+        "source": "MAP عربي",
+        "trust": "A",
+        "published": "Mon, 28 Sep 2026 20:50:27 GMT",
+        "discovered": "2026-09-29T16:37:11.015978+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الانتخابات التشريعية 2026 : إقبال ملحوظ للناخبين على مكاتب التصويت بجهة الداخلة-وادي الذهب | MapNews",
+        "player": "",
+        "content_hash": "c0c06f64f7bdc5a2804d86262e7269537abddf01d5c175c227ef6362fa0e1273",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 6909,
+        "title": "صدور كتاب جماعي حول \"السينما المغربية.. بنيات الحاضر ورهانات المستقبل\" - | MapNews",
+        "url": "https://news.google.com/rss/articles/CBMiywRBVV95cUxNenBXNTZWdXdMU09hMXdnS3EwZXJNWjNzX3Y4cmEycFNmN19reDRDaWh3VUppTG5aV2lSaGVNaF9weDdwMUNmdEprQW9GdS14YU0wUWZQeDdrWVVWX3V1Z2VreEliRTVJNWFzeUtZbTZENDJyN2tsLTFWZFF2VTZhREx0RnVwbjgzdUo1LVJBalotSWlxYVBaTDh1QW1RTk9JdG5BRmdGV082ZnIwbUlfRTVWX09BVDVmckpzVzJQWXd2cy1uSDBFMC1TelB0QldyR19SYVlid1otb3hLSW5xUXpjNUN5eUl3VW9ibUFnVTVqUFM0NVV6b21XMXBKZXNwUjRBSzVTaWlKZGRDQm4yVzFjVGtPbVgxVXVWNlo3TGVpRm1KN1k1cHFyc3JxWlFUdEcydzlVWTNnSlp3MVBpLWxTZWxYNGFOcHo1QU9CRWxpX213WjRaa2Y4bGY2bVp3MUZPVW5DaHNLbGFIX1ZMTVhkb1NYbGNoc000a0c1Tk9tUEFlaldZbUNHUEptVXNDdmJIbnV3TXVGY2duallaZmxvMVpTcWZ2Z3dlZWU3QjlsOVhJUlRPQXhfU0hqeU0yamsxeENSUmlqMWhiTEU5NzRjUGEzd0NQN29Hc2xzcG56UGJ4cDZwUjRpWGZpaUs0TUlBZHRUaTVKZXhRdUNTRXdoTGNGTUdQaXhxdWh2cDZfcWgtdzJKd0RReV9HQ1drZVlqcXJTQ0l2WE82Tmo1X1hSZ2lXYkpkUF9vX3htaVI5VHN3Z3o5MHBYWQ?oc=5",
+        "source": "MAP عربي",
+        "trust": "A",
+        "published": "Mon, 28 Sep 2026 19:35:05 GMT",
+        "discovered": "2026-09-29T20:36:34.347375+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "صدور كتاب جماعي حول \"السينما المغربية.. بنيات الحاضر ورهانات المستقبل\" | MapNews",
+        "player": "",
+        "content_hash": "84d19371d97e29bc1b409b71613356ca85162d9afd5f4db212baae31e1af82fb",
+        "sent": 0,
+        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 7182,
+        "title": "لن يستمر في المعسكر.. منتخب هولندا يعلن إصابة يان بول فان هيكي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxNLUVuRHEzRFktbkF5U2Y2VHVRbXR6MGVCR3AzLU5YZEt4UzNNS25XWHZ5bmx3aVdRUElTcVNOV1hUV3BNWDV4YzhkVWREZktXdHZJRHBOUUdReDh4VWN5SS1VRUFmWndUZ0JVNFJ4VnF6Z0VveHlUQUs5eWlGRk5RYVlVbkM5cnFfQlU1cGI4MUNaaU4ta0VMMWJkdW1odzR3RUg4dnoteFI3TEtaZ2RUZjFubjlPOGlZVzZNMzExOGhsQjN1U3FKRWo4RjNhc3ZVTW5XdjNISHBYRGlISGtRUEtnQTJrbWZna1BaVW5tOTVOeEhCSm5WTU9Yazl3c3YyWGduRFozaW13U0hKY3BwMVNSaVZRRVlMRi15VEZHbDRwTk51SGQzV2NuSlR4T1FJcDF5ZFRPTk8yaHljVHZVYV9TQ0steU9hc3J4SzZyaFVpSW1UYklQNmQ2QjJ0bWtGcmNyNk9zRFA2Mk5xUklGRl9DZWpSOUkzSUpzYmtkTXpwVHV0SHlQME9pOUNfZzhtUGtwLU40WDNnQ0xObENGelBCSlNZaG1rMlJ4cm04TVpzcTFrYzZQVEgxbnlaeWxpcTJOQUZUeEdEdmpGR21EbVo0eWE1bHpyRFg3Njhjb2xSOW9CTHJjM0dIaEt0dTZYcHJ3MkFYaFVuVGR2MHJqR2tTa2VMRjTSAYwEQVVfeXFMTy1kNVdyUWJKV2tMSE9fM2JIRS1TWXRFSjY5N2ZHLWlQWXVfQmFvUlZqSy1lN003LUVqcktVNGg4ZkxiTGpjLTJPU09hNWJvU0FuWGV0cmhPVFhfYmJ2Q2thWl9KVTUteXUwWDZPcVRtZ0lmU2FlZXlidC1Wano3SHQ3TGZwU3J0TGtsOENtQUpIdlEzWE1scjE1cVotVDZJbGJIUGlFRjY5YzNaeXdLbC1RT1hvbDlwZENMV202S3hqVjR5eVNzXy05TUtmaWJFSkNtOUhRdk9HU0VTN1BsWjFCMTBsdURRMG5Pak1taERWZm4xNzJoNFo5Ynh3MWlGWWZaNmpzTUxuQTRicWRmTUtlWGZsZVQ2N2xfcTlIUXNldGFqTjVKWDhLa1hMbTBiZnRJdmNubEVTY3VIaEk1OHA4d0xIdXdqUTFPbV9YUVdRakNudG9MYno4clBtUnJJVGN1MFZlQVF2ZHJqSEVpc3h0QW5EMnQtcDc3cE9xSC1HZjMxT09oMkk0SEd1Uk1neV9WbWlMWjVlQzRjTUVnT3Q2WVRvV2VITS03NldzQURWNExXNFU4ZnFjU2VIZzJ2NnNYQ2JTbjBTQ0M3VkFtWEtfTkM5VFpwVkxzUjdyR1hWV2N5bGVmM0pGdGF6RzBTZjFoU1JYUVVMNUFpaU1vMlZrN0gwYTlWVDhtdEE?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 14:18:00 GMT",
+        "discovered": "2026-09-30T14:37:20.306157+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لن يستمر في المعسكر.. منتخب هولندا يعلن إصابة يان بول فان هيكي يلاكورة",
+        "player": "",
+        "content_hash": "df1e82ecdf66e1a7fbc8632c52adb90bf1cf895155cbc91964fe0b4c5767ae29",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7172,
         "title": "بوب مافوسو : واجهنا منتخبا بجودة عالية والمنطق احترم - جريدة المنتخب",
@@ -690,6 +722,22 @@
         "summary": "استبعاد مدافع توتنام من منتخب هولندا FilGoal",
         "player": "",
         "content_hash": "38d56d914ad90a94631eef99c69b0d211035950b8dfe3a68b06b02bef13e2a58",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7179,
+        "title": "غياب أكرد عن مواجهة ليسوطو يريح مارسيليا - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LaGl1WXBHdlVQNUpUT05WdVNfSzZiUlZHVWRjOEZPUUY5bXgzR0VxWXVfM0JFTDQzek9hdjBSSTBoR25xaWZqNUVxZWs4U1RETk5IdA?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 13:20:31 GMT",
+        "discovered": "2026-09-30T14:37:13.245103+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "غياب أكرد عن مواجهة ليسوطو يريح مارسيليا جريدة المنتخب",
+        "player": "أكرد",
+        "content_hash": "70ed6ad5a60e3e06560a1bbc6b5602eb89d84726051e93c0c32d43837be0ae6d",
         "sent": 0,
         "section": "sports"
       },
@@ -1412,41 +1460,25 @@
         "content_hash": "563c658c43a26f1547a0fc167f28cdd8b61c876f84ce0807dabd046f61c27549",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 7000,
-        "title": "جدول مباريات اليوم - 30 سبتمبر 2026 - بطولة كأس السوبر الإفريقي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPOFpIY2lqUjZEWDhOOFlFTTd5VktQenoxRHVGcXRmZzczd2JRcUFGZmhpLXhqeWFKM0c0QURzWGFnRzFCRW0yR2Jla3MzSjZnZTdSSDRnNVFDd0dPMXlQZzVaUjBQZFE2aUVsdVRhYkNjY2o2RlN3OTJnbGo2SW0yQXpLZzNRX3BMZldxRDNhSWxtbzI1NFZPSFhNRWd2UGNSYzE0S2NfSG91WDhvaS16ZEpmZ29XZEtFc1czVXE0aDFpaGg5YXhXN2VmSGw5RGR0U2hUb25kYkJ3NnlnTTluOHRyNEM1X2t1OWtob1NLdDJjQ3NYaFRVWFBmX2piYUdJRVM1MS1sNzFibWNSa21zdXNyeW5QUjJUeWt1eQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 00:00:29 GMT",
-        "discovered": "2026-09-30T01:32:34.654098+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم - 30 سبتمبر 2026 - بطولة كأس السوبر الإفريقي FilGoal",
-        "player": "",
-        "content_hash": "4b8da6919fc9c6e415df9124b7dc7b37a42ed556309b47423b3efc5d0ff6319c",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6977,
-        "title": "جدول مباريات اليوم - 30 سبتمبر 2026 - بطولة كأس مصر 2022 - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVTlTSzlxWFJSSVQ4R0FDR2JzazBlblJsUkM5dVJsdGFOcHlDdmU5bGt0S3AzX0pwUW5QX1RUbF9JS3RNanExaWkxWmR0RDh5NGQ5dDdCMHlHNjlYbW9TZGhUc21zQkJaWGd2Q2tJVkc5UUZ6WnZjNFozb0FKczFJTWFHdVpFcFdfbDNGTTVhVkpQbEdxVUJLSm9Tc2dPbXNsUDBqcWpKS0hBM2RQQnVOSWhfNDlxQnd3cGQxdFB0ZmE2cjhQTG96dURn?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 00:00:24 GMT",
-        "discovered": "2026-09-30T00:14:51.920641+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم - 30 سبتمبر 2026 - بطولة كأس مصر 2022 FilGoal",
-        "player": "",
-        "content_hash": "1e1a6bd0d84c4e67441c9abbea8f522311084f7b7bd9f44f1f09bb0f4a9a89cb",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 7181,
+        "title": "بعد صلاح.. الدوري التركي يستهدف ضم نجم جديد من البريميرليج - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPZ1pIaDEtcTJfTzBYbXdYd2R0ajl4ZmxRRGxXZ2FEeGZyS1N0Wi1pNWVyZ19OaTZTSnRwd1k4NTRKQU5UT0JCOUxFZDUxQkxSTkU5Tndwd2l6X0hWclVrb05YSjF3VFlScFZzWlJDdk1RbDltbVdHdTJEUnRXbHdOdjVsVEJyRjFQc3lRa1VvYnIxZVp6R1htbk9BTF9oWTN0eTA5Ui1PYmRLZ19wZkh3MEU4WF80akhKNFMyNktkU2c3Z1JxMk9fZEd1WlNqNURfRk1Va1Q0Y0U2MW93dmxkYmhhUXJvVDdta05oSzhXZXBoR283WEV6aE0tUlBnQS0zSmlGdHNZWThNWXZOYXZXYWtKNm4za19GYVU1aU1XYndDazRzaTZmTzlQRzFNMmtEekNjZFB1UlZkc3BGYUEtOFlTMEZJS0xLbXhxd25WdUdCWVpIVnRETk1OQ3ZkYUw1WW5DS3NTWkZlbzFWY2otVXlaei1BY09fMURsV1ZYUEJ0LVlZRXRSSE90NjR1YjJJckkzXzk4LTdfSlZTN0VEWkRSanJkQkMtcURDZ2dhRTQ5bVliU1o2QXRzNEI4d1ZwMFFEenRHTVpZVWZybUR4dzhfUnItWDZsa2d1aEVMd9IB9wNBVV95cUxOZ2dSRWpVZUdxRzB5QjNEUm1wMXBnX2djWW1LWU9rbHU1MVYtZklmcmR6SEd0X092aDBHQVI5UlpJbi1uTzQ4N0lOZ3lzRmNvUjJjV2xQVUlNeUt3T1BWTzBYVUtpZlh3SHJ6b25fVUlSRDJCdDBXNE4yU01LRS1MTU1LQTFBTVEzam9sQ3pJakpHd2VjRGVPTG50RWRVeDc5ekh2aEhFTF9ISW12blVnVkd2Ym5nelhuSW5TdVVsVFMyWFhjRkNYQ1RFYlFEOFA1OC1jVm14UWxSUm51Q2FvNS1TWnh2a29hYS1DVTN5ZEtfekg5aTF2dnBKSmM5VjJTTXlCcVo5U0dteWM2ZUVfeFBzTmtSNVFWSEdlTXdEZ1dQd0lDU2VmUDItTVl1NUs4VTJ4M19yNV9WSUk0TjhoVzNLUGNxS25GWGFiMHB2ZDFweFNuZ1RBRWhXNUxuYUkxdm01WnVUbm9QNXNJT1RCSlFNdEprajliNlRjUjhvOWhOUTlKQmhPSEs4WFM2NmhhN0FVc0FEN0p5czVxVFVaT2plWExSS2JBelJXTVBZb3FTX05HSWZyNllmdlBUeWJuY2tKdi0zVkR5X1hEQzJ0ZkJlRG9vdXI4d2FvM2QwaEk2WWtlX3RlUGdpLUticW9qd2dsMkJqSQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 14:26:00 GMT",
+        "discovered": "2026-09-30T14:37:20.297834+00:00",
+        "category": "الرياضة",
+        "status": "اهتمام",
+        "summary": "بعد صلاح.. الدوري التركي يستهدف ضم نجم جديد من البريميرليج يلاكورة",
+        "player": "",
+        "content_hash": "32de0b4ad0d8f07749ac4a05725dfab78d8f527062bdaffdf461ac541f4720d4",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 7160,
         "title": "رسميا.. مالي يعوض غانا في ودية المنتخب المغربي بطنجة - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
@@ -1492,6 +1524,22 @@
         "summary": "يزامل لاعب الأهلي السابق.. أبرز 5 معلومات عن فريق ليفادياكوس بعد انضمام محمد النني يلاكورة",
         "player": "",
         "content_hash": "e8659c940aab9b02341e1ca5e356bdac4e46b62c2c88188fee3e98a722298cd3",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 7180,
+        "title": "لابورتا: حاولنا ضم لاوتارو مارتينيز بأي ثمن.. وهذا مدرب برشلونة المستقبلي - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMiqAVBVV95cUxPejBnLWlWZUhIUVl0S3VUN2wtVlhYQXp1Vk4zdlIzd252SE9Tc3ZoSkM2MkhFMURWT21mVjhTbE91Q0sxcWlWRVRDRmI4cnhLYndSUG1fSFA0Y1ExZk1qS3VpNEVJUkJGTFR5Sk11R3FPa0JzZXc3aVh5aTdBdVMyS0IzUjg1Q3N2WFc2N2FWb2pLZWlDejBsdndicWdtVlgtbDVXVFFCR2wwaGRaekNLbGxtUXROX3BFV09ERGdMenhGYjR1SEU4NS1GUkpMN3F5RWlabG5PWmtlTW56SkZ1TXB4NXJnVktuTFVtc3R0UVA5UW5TdTBDSS01S3ZvRzJhNlhNdnZCNjlDWTZTOHBXRFRIWXdyMmo1am9YOGRRdWFKV0RXUENNZS1maW1xMXhheXVobGRnMnBWNUVicTF2X3hXTGlEX090S0NMajdSV05tYm9YSmNnNGZZMjRndjJLRlNqdkhuUGVPaEx3MmVmX01ZdWpnS1NVTThSQjJpTnB5b3Jxd3J3TzRCN0l2bjFxSXFFQkljeEZIWGRzSUxRRk1aNENTQmRoRkVoUExNaDZjSGpuZUd0bnVsRzFoY3NESnRKV0RWajFqRm05ajFnQVkxOHluMlNEaDlrUDRVY3VHVWZuemhFR0dmdEpfSFJoaHk4N2JuS3htWUVucWxpb1hPTkhINVJCaU1vdVp4TW55VHlPRHZZNXV5NkJTYmpmenRORGVXM1dKWTJ5bXl3VmRrZFZobEFFanUySy1nOE5fRUE1aG5TSTNiNm9yd3JqTW55NnlEdndZNTZMcE0xQ3Z2VDh4NWdiN3NTakJoOGwtUGFWZmtiOVVGZkRSbk8zdmwtS0ozM3d6MjNqb3BELTRpc1RESnA3S2Fxd3hxMGUzdmNJM1RVUA?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 10:37:19 GMT",
+        "discovered": "2026-09-30T14:37:13.910252+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لابورتا: حاولنا ضم لاوتارو مارتينيز بأي ثمن.. وهذا مدرب برشلونة المستقبلي Kooora",
+        "player": "",
+        "content_hash": "d571ae962f1d1dcb1b53b861217704bb753179245bd09899caa1a5728d703714",
         "sent": 0,
         "section": "transfers"
       },
@@ -1896,22 +1944,6 @@
         "section": "transfers"
       },
       {
-        "id": 6683,
-        "title": "برنامج \"مصالحة\".. المغرب يستعرض بأبوظبي نتائج تجربته في الوقاية من التطرف - برلمان.كوم",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPTzk4bVpHZXVWYlBmU1ZrWDRMX2RGcnB6VHhqTzJtZVBqeUZ4ZVAwaG51WXlkalpXQkZjVFVXeHJOWXJZUmlhZHlzUW1rRVQ0amVLLVBqLWN0bGs5ajAzTzJySlctOHd1M0MwUTItNTF5cUExdjctT0hmeWVfenhJSnlzMFVhQlQtNXZFM0JmWUJNVEJfSmxpcVVoSU9HRjZmbFJFSzdIelV0VVZETjhxbzVDZ2xFZ1VsZWVmUjRuam9DOXJZSTVpUXYtNUpHODMzVmdseEllT2IwWldXa21PR2lzeWdocjRSYlFWNndUc19oSTFPaHN2VGt3N2RJeUQwMDRQUmRLNHI0X3Q4TXhiUUg5eVZlUlZucFZTZWp2UWY4ekZWejJYU3ZndWh0eDkxekR1czZ4Vzc?oc=5",
-        "source": "برلمان",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 10:33:15 GMT",
-        "discovered": "2026-09-29T12:26:06.382732+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "برنامج \"مصالحة\".. المغرب يستعرض بأبوظبي نتائج تجربته في الوقاية من التطرف برلمان.كوم",
-        "player": "",
-        "content_hash": "0e5e46916cef9c223afbba302abb13c3dce4f48ce81cd984d74703e9419f766b",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 7079,
         "title": "الأونكتاد تبرز تموقع المغرب ضمن سلاسل القيمة العالمية لصناعة المركبات الكهربائية - | MapNews",
         "url": "https://news.google.com/rss/articles/CBMirAVBVV95cUxNSFhQNWRlVFZVQWdnVGhHNnREQ0g2OXVMbEYxNHo0ZmhPbXFiU09nTXFHM192eWhYeFdjRV93WndOVWhHNnR3SF9TRlVNQ2M3Y3Z3aEFBZWd0QWNhV0RTMjlLd0hEb2NudV95RTNuX1hYTGU0RUs4cmNTdi1MTFNIZHJyd3VmNGVxUnY2Z0gxenVmb3QzU2pjc1ZrZFd2dk9PaE54R21YRFFMUDZvNDVJZWthMDFDQ1hLTWlkeDNrWTFXWGFuUGRVbjdhMmlaZzdZdk5zQzdXc05iX1hnWTRtWmRjbDd5ZlE3NEctcERfQnlVSGxieXh5NG5LMV9vT0w3RllpeS1YSnR6VWpqRWtjX2tyMFZLMFEtckk5eXF5TGJFTGtRUHQyZExTNU1IS3p4ZTFsWFExVnBuRE5mV01NclplS0RWT3RaSVBTWGpGSWNlWlk1cktXMzREbE9QVThOcGpJeU13RHhmUUhmbXZOU0JITlFDaVR2ZUsyY2loTUtMcmFEQVZET2VCcmZiNXBieTdLTk45eGJvb01xQ3N6RHRsUS02RWpQblFiTkI1XzhnaDhid2JROGQ0eDlrOUFvTFJKbnhia0pidWNIZFRmemxXYzRjLTJqWjFUeXNDcVhMeHRKZGVYTEVxQlRwRUhadWlBYUZJVnVrYkJ6NHBqTmJReHNkcXc2bTBKbjFRS01oWFRHdVlFZmRQbENPZ0dVZ1ZlcmhMUUtqclRyLUEtM2NZZWI1bVE3a25EbXByVlVoZHhlWEZXWDRZbHFpOUs3WlVCWmpESDNnbVFla3hFQjkzbWhMcWhMNjhZVGY0R0NkWXNPR2JtR01Nc3hJX0xDTlExamZQbzhOWGxQQXoyaEd2TjI2Q1RKZDZuMzFic1V3TmxPZTAyY2tfNjg?oc=5",
@@ -1972,22 +2004,6 @@
         "summary": "مونتيلا: لم أتوقع غضب الجماهير.. واللاعبون لا يستحقون صافرات الاستهجان FilGoal",
         "player": "",
         "content_hash": "87fcbf35f4ef4de6ad74127453e75ad2aff880907149fcf220caa85b144fa6e1",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 6682,
-        "title": "مقتل قائد لواء الشمال في القسام بغزة.. قصف إسرائيلي يستهدف شقة سكنية ويوقع قتلى وجرحى - Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT3o5dUVRX3ZBMXhZaXVadXRxaWxlallBRXZ2bFVpY2ttUVU2UUNoWlhIX0txWWc5ZU9wcXFZZkttWGJabkRaRWFBRXJaWjNocXhzWHMwQVd1M1ZockRfdDQ2NVNSNHc4OF91enVpeW83SXQ1LUlTVHFqVXFaMmRySFNwQmlrRXVlcWItaDFWbDJUTmJQM1kySmtKVi1yYVZkUUZHOHd1UkJWMXRvTVp3T2hlR3ktUQ?oc=5",
-        "source": "يورونيوز عربي",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 06:00:13 GMT",
-        "discovered": "2026-09-29T12:02:02.584500+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "اهتمام",
-        "summary": "مقتل قائد لواء الشمال في القسام بغزة.. قصف إسرائيلي يستهدف شقة سكنية ويوقع قتلى وجرحى Euronews.com",
-        "player": "",
-        "content_hash": "075048db74118f785ab00175337e2ab3472018f7e6a19f2233ddb019aebea5a9",
         "sent": 0,
         "section": "transfers"
       },
@@ -2166,22 +2182,6 @@
         "summary": "واشنطن تنسحب.. هل تستطيع بغداد حماية سماء العراق؟ سكاي نيوز عربية",
         "player": "",
         "content_hash": "1f065abf1d49e80bf42fc775cc47633138dfe1edb99340048b0a77a61c1f045b",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 6679,
-        "title": "كيف يؤثر الفطام على صحة الجهاز الهضمي للرضع؟ - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQUUtfaHZNR2p5c1Fyanl5QWE3ZHd3TzBMUFFaV19rUFVNWTI4N3pHbWRpVGlXRFNBamJWZ25iTk02RmZXbEswalBEMTdCcElfSFgzLWxwbjhGYTlYbjhIcXdUSHFZWkZGOG1VZlhIRWhuNWw3VzZTd2lHNkkyQm8yUzJsX2lvSXJtN00wdkIzdlB3SjdEb1JwR1ZLWWI5aklENlRlR0o4MWlGdndCSHdxX1ZEX1hRSE9QUXhsMjlfOUZUMEpYRkdGMVhpS3RURlNkRUlwRVB1LVhoS09nTF9CNHZtcmZjb1BzamFLYlNkOTlqV0FnNVBHMENwTmNkR3VQaU9KUjRmR3FYUms5eFJ1bVEwM1FHVGNvOUtsOHBMb2lheDktZGhRVXU0S0FWd2VvNXVQQ3VGOE9wU2pyb2tFaVd1UVU5V29STTZUM3YwclBOOFZQTE5ucG9MSVpxMEw0Y2ZGaTdaejluSEFPeGVxQWFiblhDcGtsYURSUENpRHBHbjZBSU5OSFpzQUJaZ3dlbVpj?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Tue, 29 Sep 2026 07:51:02 GMT",
-        "discovered": "2026-09-29T11:50:21.898720+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "كيف يؤثر الفطام على صحة الجهاز الهضمي للرضع؟ الشرق الأوسط",
-        "player": "",
-        "content_hash": "01f05471cdcb9da75d0c09e20cf8a920961b5e2062a08a0a6f1ced1239f248a9",
         "sent": 0,
         "section": "middle_east"
       },
