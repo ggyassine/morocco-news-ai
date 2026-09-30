@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T20:45:12.485139+00:00",
+  "updated": "2026-09-30T20:56:45.219946+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -629,6 +629,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 7306,
+        "title": "أخبار و معلومات اللاعب أليكس فريمان مدافع فياريال winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcVZ0MTRZX0ZGRnh0TndycXliX2tnOTkwWVdSbzEtMFhoU1JxUkp4NnNrN0RPTFUzOEpObjlGd0F3UWR5Ym5pZW5nUHRKTXd6WThrbldXV3QyakRwSWRURGE4YmxBSXlhb0ZyQTdvdXZTcHVqLVh2VGhTb1FsRWI4bkE2dVdTek8zcjN4YWdITkdQZnhZdXp1OTJzNEtscE5pX0dFNm10dkNuMm1PT1lRZ1BYRVNGTm5vVTl3aDh5RTV1ZGIzcnVWY2k4cGpVZnlySlk5Tk9vR2V1bWR6SUlPWklhRVozZVJfRWppZ2NpUUp1a3ExSVE5YW1BN1lSeWRRVVZGU3BDM0g?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 20:42:32 GMT",
+        "discovered": "2026-09-30T20:56:27.595885+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب أليكس فريمان مدافع فياريال winwin winwin.com",
+        "player": "",
+        "content_hash": "abff80189b1bd3f80026bd7054a7d27b859e9fbe802c7593523b2f8b4dc68b96",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7303,
         "title": "خليجي 27\".. منتخب اليمن لكرة القدم يفوز على نظيره البحريني بنتيجة (5-2) - جريدة المنتخب",
@@ -1405,22 +1421,6 @@
         "trust": "C",
         "published": "Wed, 30 Sep 2026 15:31:00 GMT",
         "discovered": "2026-09-30T19:44:04.888810+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "ada65c4ab1c3c2352d1519e9f83b82c9b9c745f80a869aca3d992c2bca33d814",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7207,
-        "title": "وصول بعثة منتخب مصر إلى القاهرة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxObDlYX24walN2LUdROFotRG9TbmFEdmxjUEVsMnhNRWtfRVlmOHFQN2thX29iSlE4SlJ5WVpQN2RrV1dkQWhtY09kZXQ1cURUQlRlZ2pTcGlDRGVYSnhqbmU1QVhfZC1rWFhZckFVajluX3RjV0N2T0JBdGVlY3U2aDcwMlIxTVk5NFFhSkxIZG5BRTlBbEZBbF84VzVFMUlaWkRubWJ5Y196eUZPM0Y5c2J5NGlXT2VPNDE0TFRxRTRRRnJCN2FLNnFZSy1hb2MyQi1xTnp1VkY5RzVZcThHcnFkejBuV1EzTlpaaGZsYl9nZ21QeWM2b3BsLTJNeGJ5LWFjVXJqQVNTZVJ1R1lCZnhvdURBUjI0X0tVR09GVm9TYlVtY2dPWNIBrgJBVV95cUxNb1NqajFnTzFuNEJZZEZteFMtdG1wODgtemkxOEhHcEhXUkFTMHFZVHNJcmQ5Z19sUDZseEpyTHJqMEh4Q2tuLWFDN0NfYkxKcGNTRWhieEIwSlpXZjJHQzloUUdydHhmWTk5RWV1bVdtdHhRS0VwQUE4ZmJ1QzM2b2l5SVFLS2FsNDBDZlN0SHgyWXctdEFyS2tsTUdXakIwaHlrak1uVExFdWhZaTRZTGxNWnU5LTJrTjNqSlFzdGhRZEs2eDNJLUIzUnlqTXBzNDFEU29CWGZyNV9lSkhJNkJnbGI1eUpOblZ2Z0o3UFkxOVF2Q2ZLV1JLVHZYQzhQUlEzODhET01sbXpWQ2lNdmduRmo1YTBkZTE4Ynd0TlhKZDZ6bjE0aVZMYXhmZw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 15:31:00 GMT",
-        "discovered": "2026-09-30T16:04:12.920014+00:00",
         "category": "الرياضة",
         "status": "غير واضح",
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
