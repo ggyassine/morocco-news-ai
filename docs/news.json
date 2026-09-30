@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T05:39:58.956719+00:00",
+  "updated": "2026-09-30T05:54:33.086718+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -340,6 +340,22 @@
         "section": "morocco"
       },
       {
+        "id": 7056,
+        "title": "مجلس أوروبا.. المغرب يشارك في الدورة الخريفية للجمعية البرلمانية - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCeVpENklIYl9qcy1HSUpocktKa2ktaU83MEVSR0p2dW1qczd2YmU4SGQ2TEozMmFlN0ktSUxTbm1nd0libC05WHgzZTQ5MkZMajRWWXR1a3hsRU1Ic2FLa3NyQUN5Vnk4?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Tue, 29 Sep 2026 08:04:23 GMT",
+        "discovered": "2026-09-30T05:54:06.758927+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "مجلس أوروبا.. المغرب يشارك في الدورة الخريفية للجمعية البرلمانية Le 360 Arabe",
+        "player": "",
+        "content_hash": "85a5254cf2a6eda0082bac1caef154008b4b81622f1df8c7f708b0d557887ce5",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
         "id": 6837,
         "title": "ابراهيم معلوف يحيي حفلا موسيقيا في المسرح الملكي بالرباط يوم 22 شتنبر - | MapNews",
         "url": "https://news.google.com/rss/articles/CBMiwwRBVV95cUxPSmJsUkFEUHc1QXJmd2dZQXBab1pkVW94OWc5dk95SUQ0WEdPdWptMDV4TW1QaXRmdUt2YkYwc25CcHZuNzlyNVVpWFZ6ek50S0EwTk53Y09ubk50OTg4czdrTGxJS0JBcWNBdlJoYnJRa3dDaTc5ZDZCVXYyQkgzdndQazdrY2dIbXdOWF9ZZWJpRmRtMXI2LUFQZU5lT25hVDN0a2M1Z2xlR290X1JZbUtCZzg5STB5eHVRbFA5ZUpsbXp2RUpQa295ZDJhVG4zaGVnWm9IUnJOMVpfWURUMHVxclZvLTAwVTNXcGdEeDBVWkFUV1RNLWJNZ093RnQ1d3JBd19sVmFKcGNsRDBjaVppODgwZnBZRmxwc3Yza2ZmVnFfUlB2VnhYWXRmUHd0VmsxeEhPOC1nOC0wWUdqWTFfX2ZsZi11d2FZdUV1QVdzUEtpZkhZYlVibUxTRGRUemdyVE44bWZ0ZXhWM01UV1BvSFV3TmlXV0s0QW91LVpqeDZObEVTWU9Zd0RjRVRyVldMVnRyQUdOdWRhZ1M1V19rd2NCZElKdUtybmFpWmFSRGFjYzJWLVBHMU9ET0V6NjJDV1BnYjRxb1owMVBFUFpVd1V4OXhLSGpFeHpNVTRMaUxDa3NybFlWUnJDRDFtSEZrZUFkZFloYjlFSUZmTXk3SlIwWWcyWEVWc1hwdEl4QUFicUY3RHllaFpRT0UxdHczS2N0SmVybkRSd1hjeHkzRFBFQnluRl9SZm56Q0R2Ujg?oc=5",
@@ -475,22 +491,6 @@
         "trust": "A",
         "published": "Mon, 28 Sep 2026 19:35:05 GMT",
         "discovered": "2026-09-29T20:36:34.347375+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "صدور كتاب جماعي حول \"السينما المغربية.. بنيات الحاضر ورهانات المستقبل\" | MapNews",
-        "player": "",
-        "content_hash": "84d19371d97e29bc1b409b71613356ca85162d9afd5f4db212baae31e1af82fb",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 6556,
-        "title": "صدور كتاب جماعي حول \"السينما المغربية.. بنيات الحاضر ورهانات المستقبل\" - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxQZzBScGlabFR4eHotZXkzWHllLXFMWkFzZFFQaEZiRE5hLVhpV1VpSHhOU2t5ZGhScVhzak1OejdDMTJFUGVpT2xtTk95NzNaQVRMam4zbG1qLXdTVmlGVFk4eFVhTThUTWotNFE3djdDRXo3amxGMUZLeVZMcG1lVmNKeXBJcWZ5SktKanhNbjRBVmp3VFRDMzFHMUJMeXVQeUE4bVJJRGFFX1FNNXZJTHFvSkZXYVhpaEN2Ul8yWlpzZU9vdnNadGlHWlUxdUx3UmxZUlotNWJ4TzNiZGtzNXBjdW1vbmxJcWxaalA2ZXlqVEdSNURJVW52NXFhVGFxQzZfbVItUXAxVko2TVBrT0VDSVFVQU8yWjk4Vmt1VjE5bTlWdDZxV0xqbFpHelp2YjhNUlNCU1NwU0NQY2dhQ3Z1UFdsMnVReG9LZ2JoWDhrSkE2eGtNX0VjZ244V05MaHJPQXVfOXA5SmZxZTgxcGYyeWQyajd1N2RNWkRNMGNBUjRzY1RkWEhSUExDNGI2Nk5jYk84R0pGaHY0Wi1tanAtaWJWc19lWkppbVRkSWluV1ZYUkNiMTFEcTdMcHpHaV9GX05zM2NXc2dIM0xtX3dXNUJIb2M1TmkwTEhRS0lrcHhKLVQtbTEyODFkNkE0MjJ2WVB3Vmt6emp2dUo5RUdCcTdfM0RCRjBWSnZMajlOZEl0X3doLXUzdGdyb25lSXhIQ3FGZnY1bVI5WUVhQlg1QTc0WmN1TlRPZllQVko2cUxnOVE?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Mon, 28 Sep 2026 19:35:05 GMT",
-        "discovered": "2026-09-29T02:31:28.484046+00:00",
         "category": "أخبار المغرب",
         "status": "غير واضح",
         "summary": "صدور كتاب جماعي حول \"السينما المغربية.. بنيات الحاضر ورهانات المستقبل\" | MapNews",
@@ -1062,6 +1062,22 @@
         "section": "sports"
       },
       {
+        "id": 7057,
+        "title": "تصفيات شمال إفريقيا - حكم مغربي يدير مباراة مصر وتونس للشباب - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWXgzNFg3WWJwU2lHTWpJVnN4QjZFcGZXMW01M252SE9xYmNTc3phenhNM1FHNkVWS0l2d1V4ZEwxQkhvT0xtWXJLVGJNTDVx0gHrA0FVX3lxTFB2anpkVmRTdExyTnJqMkp4WmJuMl8wbE1wSDRkb3FNWjJCOXBqaWducUpua2ZoVjVCM21TQ2p6YUJ1YVZvYVpyTzdBeXNxVmVqb3ozSVdLRFlDclhTNXRyQ1lNM3E5ZXludmUyOHBndkszRUNQREZJLXdZajVicko5M3BWMU53ZDNqck9namtMWWw3UlRjdG9iMk1xcDBVTDBDWXBaRFYxdVBGMlhUX19MSjBfRVJ4eFdzcTRnd05wV3Q0VFFSOFpUWnNxSDMzcW9fc2hBc2xQczMzQmJRSmd6RkxlRndBWVJQUUJZUXVHaldRLW9kMmNreDJaanlzY3QtUDl3amFBcWxhbUt4QWRvYTVBeEoyeFZESjBlR2RZcVUxTWx1QjhBcnNzVUtVMXV6TEhPQ1h3RTBtY1ZUX0FNU3AxSUVjVXQ1b0pldENXM2RDc3RVQzBwWHRlQmV0NlEzQnNqV1IyTUQxV2VYN2VHSHBpUzhkeHl2SWJmRXNwQ2gydDBOazV6aC1QZWg2ejFMSWZIWDNJLTBhdlpaM2tVWEV4ZDh2UXNvRDJoODl0dEw4c2cyZjhFbkNkT1h1T09ESE9peXYtQWdCaGZnNnJvVklfempPMEJFelpQejN4MVE2WmU0SnZyU2V3?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 21:11:00 GMT",
+        "discovered": "2026-09-30T05:54:18.649957+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تصفيات شمال إفريقيا - حكم مغربي يدير مباراة مصر وتونس للشباب FilGoal",
+        "player": "",
+        "content_hash": "e2d5ebc59b8afecf1f16e772770f503928c7eb64bc79555221acd3a0ba613ce6",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 6990,
         "title": "تصفيات شمال إفريقيا - حكم مغربي يدير مباراة مصر وتونس للشباب - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNa3MtRkd2bjdNTjVONFZlOC1fdDJBNUFfRHZjODg2ZnRoZGpNcXBHZFRqclVLT283dmR2WXJ2Nmo5aGRZOHdTejNLZTZ1Mjl3RG9aa0RYbmVCQkV2cmZNWUlVay00SWdXNlZvSjF3RVZ5V1l6bFJfbFlVWjJjSWlGY1NXMnpsOFNrYjZaRzFrd3h3UlZtbkRyUFZJQm1DTVhLbFRORHZVdUNScFZSOUFpUDNTcU00SXV5TjVrN3ZUdkpnRG1fRVhJOUVzN3RZMGVmZjVuYWY5WF9wZTdlRHVnVmdBRTZneVVrbjc0QTRUcDVqeWNiU3JWcEpJcnExN1dRcVNxYncwaUotWVVYZXg4MmVYT1B2QW1zMEVBc2RBVXhmRXN3Y0xadW9hTmFBOXJsazhHR2pEUU01T3VnT3RYQlk4NDJCNjIxSWFtNUFLWW5ZeWdQU3RlSWVwbWZCVmIzRk9KZ21OWHRlWm0xU09tQUxPWG5UaTVZQ2ZhdmQ0N19IakhpUW53VnZscGt4dDRjY1BndURYeHdXSEVMeFRwRFdJQm5JTUNOUDl0RGVxV2FSV2JWRVI3T0NsXzJhUmZEZXlRa3BjdTVvUHNWQUt5VUhmUXVOZVhLUzBseEVHYlRkVnhUVlHSAesDQVVfeXFMUHZqemRWZFN0THJOcmoySnhaYm4yXzBsTXBINGRvcU1aMkI5cGppZ25xSm5rZmhWNUIzbVNDanphQnVhVm9hWnJPN0F5c3FWZWpvejNJV0tEWUNyWFM1dHJDWU0zcTlleW52ZTI4cGd2SzNFQ1BERkktd1lqNWJySjkzcFYxTndkM2pyT2dqa0xZbDdSVGN0b2IyTXFwMFVMMENZcFpEVjF1UEYyWFRfX0xKMF9FUnh4V3NxNGd3TnBXdDRUUVI4WlRac3FIMzNxb19zaEFzbFBzMzNCYlFKZ3pGTGVGd0FZUlBRQllRdUdqV1Etb2QyY2t4MlpqeXNjdC1QOXdqYUFxbGFtS3hBZG9hNUF4SjJ4VkRKMGVHZFlxVTFNbHVCOEFyc3NVS1UxdXpMSE9DWHdFMG1jVlRfQU1TcDFJRWNVdDVvSmV0Q1czZENzdFVDMHBYdGVCZXQ2UTNCc2pXUjJNRDFXZVg3ZUdIcGlTOGR4eXZJYmZFc3BDaDJ0ME5rNXpoLVBlaDZ6MUxJZkhYM0ktMGF2Wloza1VYRXhkOHZRc29EMmg4OXR0TDhzZzJmOEVuQ2RPWHVPT0RIT2l5di1BZ0JoZmc2cm9WSV96ak8wQkV6WlB6M3gxUTZaZTRKdnJTZXc?oc=5",
@@ -1506,22 +1522,6 @@
         "summary": "مواعيد ونتائج مباريات دوري القسم الثاني-أ 2026/2027 يلاكورة",
         "player": "",
         "content_hash": "1514e25d913c1fd64971bb02ef9ab7c78d4ae13dde4e709865c3dc2910911ecb",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6884,
-        "title": "من عبد الكريم إلى عبد الكريم.. من هو أصغر مصري يسجل في مباراة رسمية دولية؟ - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxNMUczZ3ZZOVBicHl0Nk52dHZ1ZnJsbm9fYnZiYkJGSjdvM0lzZkl4SlRwN1hsaXlaTjZSd09Rc1FQMlJ3RE54bkcydnlvb0M3LTZOcVM2WXpkb1dzZ0FjUFgxZFYyME54VGpjT1kwaS1RNGhVdExvZ3lNVndUR3E2WjEySkxlb0Z2bXdEVW0zQ2xLZ0VDUHpCNVBhZVNUYmZWeFV2dGRPX0ktN3pET1JKaDQ3enN0OW5IM0ZPakpwTDlyMUM3ZXBBbGpXVUNVQXN1NFpCalNZNEFycGt2SmZ6akRQVXFsRXVGWkl4YTEyRnowV3hTN2IyRzNUdTJxa1BzekwtZGFhSkpBeDlWdFdpWWFKM0tLZEt4VllLT3ljZ0ZOcFlzOEMxay1VT2lOQWRNSHBtWEFhRDBWOVpXaVVpSXQ5TUZzeXdxUjZ4X0lvRzZpSm1mVS14UHpoOG1mN29xdFpNYks5NmFtWnhsNVRHbXhlMWttc0dmZ3hmaTJoZkg5WC1wMFRLdU5uaWZOVnQ4RVV3WjUzZmdxY3U3Q2dGVlNtUlN1dlQzVk5sTWVYQXoxTFJuS3FFYk9QalROTEFPbFZtQ3dMNEVXQ3A5LU1TWm5FWXJrTXZJX0JsTUl2WlFiTHRNaWptOXJ0UnBnSWxRT0FpSEgtemUzUDAtVlRQSkhlNXhhNXQ1NGNNNHlkYmJkRDBBWGVFRHkyMWc4TWU5aTNIdVE4d2xGLTBiUDNxaGFiemZWYkFqSDlfV2JjUlZ5c3ZNMUHSAcsEQVVfeXFMUGgtUk5PNm0tc21EX0M4NmI3WWhBd0hTak5iOGFiQ191UXR4QzNkRlNBME1id0Q3QmJsUVJPS0JteHdqdjBSTElEOW93amdCejNIZU43ei1IU0o0MHNHVFZzUEdQazBYb0t2ZjQ1b2dzTTVkLThrX3ZnenF0eWZpMGZoM3J4S2wtUXlMMnV0bExjZHBlNE94Uk54c21WOTBDUTJ5dGEyVkFOMTVKS05XYktPRThFZkpIdG0tMkhuUUVqNFJwamR1QXJ4VjktcUdieG4xVWdQMkRhZkVPX0xnYjZvODB1OGJ4b19LUW1xSFdmdWhKMFFwOFh1aXVOQ040bjRwaHVNb1ZMNlJpMzE4SzVfUVZHaXhhcDhIRVhvR1pHVFI1OFFJcnhkOTgtbzdQUV9wSDZ1b213dmY0djV3ZTFUMlBBYkVhLU4wNld6RWQyem9sOF90cnlrN3poRWRKVzhNZ2xNSHh5a19NeThfbFVRR0wzQjJOUUFwUXptMWJjUHM5SXZya0c1UkpYQndLZzJqUDVJRl9fa0FHWXlzQThaT0NlbWhDeE0yWUpFajc1QlJYTWJSMXNlNDdTb3l4R0dpSldPRzRnYUkyS21QV3NvUWNyR3dJSmppcE5WN0w3a2M3SVNZVXVGOWozczBGTU5LMjFkMXM0RlZPTV9HZkNPSjNsdDBwVU02ZVpMQUk5cGQ5Ri1odzc2UDROUXMxS0UyYUVsQjZ1TFUzaXlDNzE1M29aaE5KYWV6NFBGcEV0MVd0T21USGl3REk?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 19:03:00 GMT",
-        "discovered": "2026-09-29T19:35:06.495552+00:00",
-        "category": "الرياضة",
-        "status": "رسمي",
-        "summary": "من عبد الكريم إلى عبد الكريم.. من هو أصغر مصري يسجل في مباراة رسمية دولية؟",
-        "player": "",
-        "content_hash": "c91417c5097e9b33103cf8a9dc79786d4b764b188d4f2b11f7ee4308badbc087",
         "sent": 0,
         "section": "sports"
       }
