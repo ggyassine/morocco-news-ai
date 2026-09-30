@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T16:43:07.614868+00:00",
+  "updated": "2026-09-30T16:57:32.719610+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -661,6 +661,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 7230,
+        "title": "مباشر مباراة قطر ضد الإمارات في الجولة الثالثة من كأس الخليج العربي - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOZTE3WHprSFpRQWdvRERpaWRmekQwY2tvSXM3UGJTTmpIb1pFc3pyNnFwRlhZWUlqUEtLN3NLTVUwT0pwTHRRdHJEdzBWdHBWazVGeHM4cnI2UUNtVlNNTXF0UVdqT3lnUnJtWTVfT1k4UURGVlpUTV96MEt1eFdkSFVXeDB4S2kyd1ZkenhZR3hTRVNrSnVWU3JsTDgtc0Vnck5mVXJ2UFltR1l1YUt6X0JzbDdJLWZCNzgzMmdSM3VSbkZDemtEVXhZRXpWdDYxMzV6dDJWZGVwbTdwYzgxYUcycWJ0cnZOam03d2RaNWRka1ZNY1laT1ZPcXRJTEU1dmFIWUxCMklkQmVIX3VabkhvZ1k4VWJtdXNIQW1PdF9qWkpEbWtscDVEcWZiOU1jQ2hFbkVHQ3VTTVRtNEdIS3Q0MEtNTWZEaTk5bzF2VUlib0VTaWFSamhkOEMtMFE?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 16:42:26 GMT",
+        "discovered": "2026-09-30T16:57:17.704966+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباشر مباراة قطر ضد الإمارات في الجولة الثالثة من كأس الخليج العربي 365Scores",
+        "player": "",
+        "content_hash": "a20410ff8f7d7e10f0f6d1d0a187588a88a47512426d82f0c2ccdbbe1553c9e7",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7223,
         "title": "المغرب يواجه مالي ودياً بدلاً من غانا - الشرق الأوسط",
@@ -1442,22 +1458,6 @@
         "summary": "تقرير: لاعبو غانا يرفضون السفر لمواجهة المغرب FilGoal",
         "player": "",
         "content_hash": "90b9affadac19db0c97d0076ed16626b359b0865b45e4294c06622fcc30a80dc",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7106,
-        "title": "من هاني رمزي إلى حسام حسن.. ماذا قدم صلاح تحت قيادة 10 مدربين في منتخب مصر؟ - yallakora.com",
-        "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxNaDBXNzMzNG16OWNkVkxmMlZwUnNQYzBCdDhQN2pKSEdGLWozVzFSYzlOOTBDWkVJS2ZDaGNmeXJKdWdhcXpMYXl0dVp5eVlEV3BBRUlqZm15SW5xb0dhOFRZVWhNbXhfcWprbmJHd01pc2hOMl94SmUzVTdIdjQ5R1Y2ZW55MFZPSTJTWDZUWEE4YnJXYi1pMzMyUGYxR29wakkxLURNQlQtMC11Q1F1UklOcjhtaEstc0RXQ3E4QW1Za21zSFVmVkJablFyMDVpcENTWlVhOWNWakROUldhdlhLczIyRHpiNUtVcC05TXBtMTZwT0J3Q3VGTUhPX3dqZXJFd2Q4bEV5MVVzZ19UdGhRMGZwdXZoTzJlU0JWSGw3OE03VU1NS0lseHRTUkNQTGl5UXc4clppQ3NHRlpUUVBIRUFCd3VSVmE2NjYtdDZ4YlhCMkhuRUItdkRST1NERlA2X0VUcXlZTVhJZ24zNkhUT2JMNV82TzEzSHBodnNHN0xPVnZfbWNNQ01NZHBSYjlSRFJlV2NCMGZJQVFNVWJiODl0WGRhRVQwdzJtekJqOGc0YUdCMVkwMEV6dHE0OGZ4WWhNR1I0TnhLTFNFZU81dmwtblotNENDeXpKenRnWF9TTEVvUjRJcWlJRWNYMXFQWnRUM0pMZHd3OWV3ZnNqRmdkbGgtUjJRTnVVWDltbVJLN3hUUFdrUnNFY2E4SkJlaDlqVHNpUmxmaUpLdW5LRlI3WTgtOEHSAb8EQVVfeXFMTzA0RUpvVlFGVTFyZ1RSUnBuUGMxOG0tcnF1aFhTaUtPellJb212RXlMLUZ5M2t1N242ZnlTa3Qwbi1DNExoYktJMUVMV1hRTzBiSXZMWVJPTDNXY1V6bFoxS1VNWlUwTjdwbFVJMlotU0xLVWFXZ0VPUEY5c1dYUFJjNFFMTVcyYTk3emJ0cUpzRjFDMTlPQWJHMXJhTkQyVDB6YUxJeXNSVEtPanVFZFRhNmg0ZGhmQzNvajZ4NWxpeXlrZ2I3dHNoZkZWOEF4R2dDY1A5QmU5b2ZXN3l5Z1ctdXp0cWVZQTZwNkd0cjhUZDRVa3ljdG9vVnp2QVljM0pHSVRqajd0WGs2eGdVdF9SZVBIaUVSNFFvVnAtS0wzX3g1NW5oaWdDODdHRTFjeUF0aXVZWFkwQTEzb0szTkxNcUtFQ1ppMjRvMWdiQzZHZTFqbHc4VjhONWhQME1qMFFLVzhfSlpRLVlIdUx2Z3Zud2s4WEtJMm1LMWpRbE9jOVlmQ0I0NmZJTmZiRWJjeUV6TEFfMi1XdWtJbW1KTG90N3ZfS3VRbDZMLXQ4RVlHZjFpNVFHNXAxdWxiZnNxY0R2X0RUdUVmeWp5VlFMOUQxMm1sOXVFdkxUNUtlSnBNZVZnMkluZXh2dGtYTDJSOXdGOFJpSDFOLWtYTkx2TDRReTdaTDFmOTh2WlVhNjNyQjhTeElPOGlhcVk1U0J4UVJmaG85Rmt5cW16UENPQTBHTjlwYXJKV011dE9jeVE?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 08:59:00 GMT",
-        "discovered": "2026-09-30T09:21:32.960926+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "من هاني رمزي إلى حسام حسن.. ماذا قدم صلاح تحت قيادة 10 مدربين في منتخب مصر؟ yallakora.com",
-        "player": "",
-        "content_hash": "2df8fd347cd14cfe26e2404e99036c1bb5c2dbf615015705e166da4f396cdbd6",
         "sent": 0,
         "section": "sports"
       }
