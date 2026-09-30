@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T20:29:40.259192+00:00",
+  "updated": "2026-09-30T20:45:12.485139+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -630,6 +630,22 @@
     ],
     "sports": [
       {
+        "id": 7303,
+        "title": "خليجي 27\".. منتخب اليمن لكرة القدم يفوز على نظيره البحريني بنتيجة (5-2) - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtS2JQLVVjS2prX3lBbXVjemNMM3JJVDU0aUVfczFqUkZLYy1oWGVJbUlHWlJ6WFljcTJ1SXRwQjgycUJQVW5Xc2RGcXBtM1E4akNVLQ?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 20:29:23 GMT",
+        "discovered": "2026-09-30T20:44:47.278421+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "خليجي 27\".. منتخب اليمن لكرة القدم يفوز على نظيره البحريني بنتيجة (5-2) جريدة المنتخب",
+        "player": "",
+        "content_hash": "93a53b5a1470783aeac61d1ba28eee20c3c67f0008de33a8cac8d5ee1ff6c1bd",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 7297,
         "title": "باعلال: الفوز على الجزائر منحنا ثقة كبيرة - جريدة المنتخب",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lcndBUFY2XzU3Z044bk9zNVFoUUk1TjQ5RVNlTzR0X3ZWMzZwWHJZLW1jUjJkMHFWV2MzVkd2Nks2d0ExdXhORjlFX0JfTE83VGxsVg?oc=5",
@@ -642,6 +658,22 @@
         "summary": "باعلال: الفوز على الجزائر منحنا ثقة كبيرة جريدة المنتخب",
         "player": "",
         "content_hash": "bcae67ff74dd0db66721c3092da21b599cd37459b7a57212f5490371b9dd6783",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7305,
+        "title": "حملة أيرلندية تدعو اللاعبين لمقاطعة مباراة الإياب أمام إسرائيل - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQTlNkRzlsV1ZBOEtDemNmeHF5RmRlTkRlcE5zZEdKU2hxNkxUQzBDakRkdVI0aDEwUk1HTGRrUm90NERjRnpJQVlEdnBHOUJJbFE3ZXB4b1R5eUdKMzNPbm4tQ19rdHMxdmRjcExGdlhUZzRPblRiNklVUGRCMGtIZ05BU2prMFBpSUtPYkpUSzItaFh5S0k4UTk1RXZjNG9vZTdieUlZRVAxaFVPak50TWpTTjBCOW1pV1d3bUpMRVUyeFVFYXB2MDEzRmZOUURQRzBjUFVvQnRIM0NqYkpoTm9BaFVvdlI4RXFmUU1pdDZXV2J2R3R5UkRxcXFHV1pIQzh0QlRYQUNhSWxNdzRfUnNQZXVOazZBVGgyWUdpM0JsWDZfQ0hETzhRYm1za051bHI0QUc1eWgtb0sxa3BTZWRXWUJDZw?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 20:25:16 GMT",
+        "discovered": "2026-09-30T20:45:06.428197+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "حملة أيرلندية تدعو اللاعبين لمقاطعة مباراة الإياب أمام إسرائيل القدس العربي",
+        "player": "",
+        "content_hash": "a74ba5b49b2f233431f0568bb797605537462f0ed43490f32028088094ae2da9",
         "sent": 0,
         "section": "sports"
       },
@@ -1396,41 +1428,25 @@
         "content_hash": "ada65c4ab1c3c2352d1519e9f83b82c9b9c745f80a869aca3d992c2bca33d814",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 7205,
-        "title": "أخبار | وصول بعثة منتخب مصر إلى القاهرة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxObDlYX24walN2LUdROFotRG9TbmFEdmxjUEVsMnhNRWtfRVlmOHFQN2thX29iSlE4SlJ5WVpQN2RrV1dkQWhtY09kZXQ1cURUQlRlZ2pTcGlDRGVYSnhqbmU1QVhfZC1rWFhZckFVajluX3RjV0N2T0JBdGVlY3U2aDcwMlIxTVk5NFFhSkxIZG5BRTlBbEZBbF84VzVFMUlaWkRubWJ5Y196eUZPM0Y5c2J5NGlXT2VPNDE0TFRxRTRRRnJCN2FLNnFZSy1hb2MyQi1xTnp1VkY5RzVZcThHcnFkejBuV1EzTlpaaGZsYl9nZ21QeWM2b3BsLTJNeGJ5LWFjVXJqQVNTZVJ1R1lCZnhvdURBUjI0X0tVR09GVm9TYlVtY2dPWA?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 15:31:00 GMT",
-        "discovered": "2026-09-30T15:52:17.797646+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار | وصول بعثة منتخب مصر إلى القاهرة FilGoal",
-        "player": "",
-        "content_hash": "8f41a904847530e569c44cde70b191586fc40e153ae1b72d14f857c9cc6b60aa",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7199,
-        "title": "الواحدي أفضل بديل لحكيمي - جريدة المنتخب",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42dEVrTWNkekV2U2NyRFJqLXU4MERQZEtrdnZYb3JBVGZVSURzSmx6dHQ5V20tMENaNzJCUGt2TlV0a2pSQVlGYmJNZ3lMclJ0RFF4QQ?oc=5",
-        "source": "المنتخب",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 15:23:39 GMT",
-        "discovered": "2026-09-30T15:34:20.520520+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "حكيمي",
-        "content_hash": "3297ee69da8976102794382afcc9bcfd08a15f1bc1185eaf16f5cf200cf3193a",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 7304,
+        "title": "تقرير: بعد رحيله عن معسكر المنتخب.. رونالدو اتخذ قراره بالاعتزال دوليا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxNTDJxUWtDSXc3c2Z2cGQ0NDFqaTRMZ0dCazB3S21FandQUTFrM3BmSGpSREREMXViRzZjbFVjNThlcEdGTEpaN29lUUtsZUdoNldEZ0gtRHd6M1RTVndwYjZsczlIUWxxUkptNDFjU2pPOXBndGJ5RXAtSWRXMm93U3d6SU8tdUZmR2VYZExBZ0pRRTlWeUZOal9jcDRkZzdJNTBUbXc2T1FiREdRRVFfWm5MbmctMjhUMEsxaWdRVURuQzNCMlNMcEZHVHRuZ0tOOV9XVHFGeGpSMDAzcWl4WEZJRS02cEZWMmFGUEdMOXpfYmN0MngyLVo5eXYtTmV1UGFWOC1KejdkVnB2TzFNdVJPdjNwWUtvWWVLcDZIN1AtZzAtd0lYNWpWdlFwNUZnbHpOa3czUDdGZTAyT3VZa2c0REgwODM2YUZ5LU5VakJ5SGF3bmY5VW9PVVg3cmtEYXlRRWFUb1pXSDZaUlJvdEF6WlpXY042YlRPM1lsSHU4MzZSNGJiQUZnb2w3ZXF1b1R4TC1kT0ZxdUFRYU9ySTVZd3FXa0NULW5SOHJFa2k0aVZVX2ZJZzdhZkhhVU92UC1pUm9QbHNLNDlBbE41VmJqYkdlTjcwS212alFHUTViVFRscUVoWG40ek1lRmliS1U3QTNHYmJnNnE3NGlfTXFzZXhyZVhYUEJtd3VFZy1Sb2JrUVZWQ29EeVl4Si15ZDBQR0lhd9IBrARBVV95cUxOckszbWtNRjdFT2dyQnFkYlRXWVo4ZlRHVFVNcGVBc0dTZ1VSR2xJWlBvRGlpeUhTOEJpekRQakdLTms2RU1wZzN6eUFLbnhUZWNWb19uazJjWjhFaU5tT3hoVHp4aDdFYm4xd2tCdGlZVlZGbzY1YWpyYkFYdndSSWhEbURpM0tWSW95Yms0a0x6Nl9IY2hBUUVjbDg5bFVFc0xpWnlJTTJrSjVOSlNaZmZBVUZQU0tuXzl5SW40ZzNnV3JsRm0xVi1KV1VCdEprQmlIR01SLTJlb1h6ZnpWaTVmbnBndFBJNWxDdlF3RjhqNDE0TlZESEd3MWtWVzVHZjZHcDhCMm1fY3pOcVNsVGVVQ2VyRHBuMTAyNEpVcy1PckhMT0EzZGtYa25nNjdtTUczODNFZnVNT0I0WEw1LXFmUXZqVkRnMFE2UGgxYVRxVGpab2hQcHJjOEo2Z1NaRFZBanR2U283ak9rVG1tMksyRU9XNWNpdlp2U182VTNUWjQ1SXl4a2ZPdUJueXAwd005c1NQV2kwMGZkaGg1QUJHOGo4eXc2b3liZUdlQUlDSERlQ2pNN0tsR09ZTHpNM2tPOHBfcU4tZ1hOeEk2YmNhSlRwaTdxSTFwZ0pha0lsSUtIbjRrUTM4cEdvMERIOW1xcTVlWlVKYzhJaG5sQ1ZkQnFISUw2b3p2RFlUa2JXNlVGTEt4OG9nancyMWlRSnBRcGxybWZOajhq?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 20:39:00 GMT",
+        "discovered": "2026-09-30T20:44:54.646301+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "تقرير: بعد رحيله عن معسكر المنتخب.. رونالدو اتخذ قراره بالاعتزال دوليا FilGoal",
+        "player": "",
+        "content_hash": "a86b7870cfcd6a49e29e7b9694b670df32adba3967e28253f19b6eabead1dff8",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 7302,
         "title": "قاضي هجرة يحكم بإمكانية ترحيل صلاح صرصور من الولايات المتحدة - العربي الجديد",
@@ -1908,22 +1924,6 @@
         "summary": "تقييم مذهل وفك العقدة.. مرموش يخطف الأنظار مع منتخب مصر أمام جنوب السودان يلاكورة",
         "player": "",
         "content_hash": "16e79fac3eea21bea5d4eb535669e6146dfda36bd1b0d4808e3ac7c29b153906",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 6805,
-        "title": "مصر ضمن البدائل.. لوموند: شكوك حول إقامة كأس الأمم في شرق أفريقيا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxQNWFGcXZZeDFSclpHWmNZWXlaSFoxUDNySDYzZzlFRkRDVWFRd0RBR1JjaXY4ZlhtYUJ3dUJFUHY1Wm8wRjFobnJ2QkYyYmJUb0ZvWk9uZ0RKeWE3VTdGbjZ6MVJNVG1MQUlwa05Qd1BTYnIzeWdEcEdTVGVkTGllSmhNYW5id1NCSjQ1ZWtSbVE2WWJ3RlUyOTRQX0FhTFFpT2JaZDFZSXZ5bEV4X3NESjUwZk5QTDZYdmVyQ0pwY1ZhLTdsLTN3S2FNaFZ2YnNIc0U5UndoRFdhZzVYRjJMVG9neUJMWF9zY3pLaFVIb21oWDZMcGtCX216Rk1SdjBEZGxIazN1aUVycDc2S19ON2k3dS1ES0dlNFpsWFc3dHV0NzFzQlhteW5KcHRMdVhaajk2YjB3dnRzXzltQ29mNjhydWl3ak5hSV9ZbzkyVS11NEhzOUhYaU9TWlZyMFFqaGsxQXFWb1JuYU5xVWQ5d1RXNnphQWJyanBtcEJCcjdTeWhYU0FBblpPZkx0bUp6UEZQdjhVbEduMEhBMkp1SVpUaUNvdWpRdnp4eDVmWGVINmhyR05tU3ZPV0NlTnZOX2hhaFdINUgyNnY1ZnNFczk1aWM5alpwZVktYV9DRWtEWWFBQlNNbHM0MG5obUZqdDFUTHZETm5nVHctTG9CZW9ManpBRzJiTXZGZGhnNWXSAZYEQVVfeXFMUGVydE05cnIzM3Q5T0RZNVllXzhjMnNUS1RJcVVUSFk3TVhDVGE3SUQzNTZXY1c1dzBXcGY0SjNHa2lBRnR4cjhOZzVYQTBFaXg5VVZKUmh3RUxQcTZWZ1UyWXdEY1FzOUc3enVZdGRfUFpXb2NuZnRST09RVVRTYmRzd1JMa2JOUEVpYlFNVzhNV0RqNkhwbFZWZ2NNOS11WkM2VGpOVUNqVTJNQWluNUxORURBZ1F0RmVUT2JFcXBpZW03RVF6ck5fMDRNQWJ2VUNQNGhtYmJLdV9YUHRrZlZNcHl0NU5mUGpwMzB3V0s1QXB6VUJGNkNwbEh5dEw0QnpFaWVZc1V4QjZlODFPNGtpMmFKLVFUeVZoXzgxVHV2dExZQy10clR5TnF0Wkh2S1hNUzJlY19fT2NwclhsSWQ2YVYxS3ZVLUhPTjcwNHloTUhVUE9uYk1wS2FUZjZraHFoNzU5VldzSW8xdUJLR2ZKb09BUEZNN1FCNC0tWUhacmpEZEJCaHJQZGIzVElyRzRZN2ZKSkc1YkVTbS1pcTBSSEhFQ2FjNC1QbnNReWVFdnV1cDdDNWlMLWpxSll4WUJTN1FUbUxmbmtFdWZ4ejRndmhPS1dSRkVTcWtnMFl2a1l5TE5tRnd0dTVnMkVSa1hPbHE0Sk5tc3pocEJoUmFncWczUHNQUVdhOG1DTTFYYUNuQjhn?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 16:11:00 GMT",
-        "discovered": "2026-09-29T16:37:26.831714+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مصر ضمن البدائل.. لوموند: شكوك حول إقامة كأس الأمم في شرق أفريقيا يلاكورة",
-        "player": "",
-        "content_hash": "8d50fcd910968c12b5718c5e0653154032cd428424037ff2c582b5f9984aab03",
         "sent": 0,
         "section": "transfers"
       },
