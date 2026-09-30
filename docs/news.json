@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-30T14:56:07.463274+00:00",
+  "updated": "2026-09-30T15:13:43.557583+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 7197,
+        "title": "من هي فاطمة الزهراء المنصوري، أول امرأة تترأس حكومة المغرب؟ - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByVTBzNlFPU0l5VndqU2xFMVo5eGNFUGwtNEdxRFJndFJ2NHE3X3YxZ2lEZEFJZVpLT0lpMUhjN3h3SENyOHQyTndhQXR3QTdSaFhWLUVFUklFbFJaWUHSAWNBVV95cUxQLXFoYWlpdWU4Q00xaUZ6aFFlYnFlNkxrLTJaNXlCd2dNX1dyNVhaZF9oUHRjbkFuMkgyYl9qSU1RMGJVSDExUjE2Vml6THJ0aTA0eUF1WE1zbHZxSU1rSEdqeFk?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Wed, 30 Sep 2026 13:38:58 GMT",
+        "discovered": "2026-09-30T15:13:40.563847+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "من هي فاطمة الزهراء المنصوري، أول امرأة تترأس حكومة المغرب؟",
+        "player": "",
+        "content_hash": "d65d755cc51616558961be151aafd7a117f6068a89fffaba18f67f5a89590bb7",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 7176,
         "title": "من هي فاطمة الزهراء المنصوري، أول امرأة تترأس حكومة المغرب؟ - BBC",
@@ -642,25 +658,41 @@
         "content_hash": "c0c06f64f7bdc5a2804d86262e7269537abddf01d5c175c227ef6362fa0e1273",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 6909,
-        "title": "صدور كتاب جماعي حول \"السينما المغربية.. بنيات الحاضر ورهانات المستقبل\" - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMiywRBVV95cUxNenBXNTZWdXdMU09hMXdnS3EwZXJNWjNzX3Y4cmEycFNmN19reDRDaWh3VUppTG5aV2lSaGVNaF9weDdwMUNmdEprQW9GdS14YU0wUWZQeDdrWVVWX3V1Z2VreEliRTVJNWFzeUtZbTZENDJyN2tsLTFWZFF2VTZhREx0RnVwbjgzdUo1LVJBalotSWlxYVBaTDh1QW1RTk9JdG5BRmdGV082ZnIwbUlfRTVWX09BVDVmckpzVzJQWXd2cy1uSDBFMC1TelB0QldyR19SYVlid1otb3hLSW5xUXpjNUN5eUl3VW9ibUFnVTVqUFM0NVV6b21XMXBKZXNwUjRBSzVTaWlKZGRDQm4yVzFjVGtPbVgxVXVWNlo3TGVpRm1KN1k1cHFyc3JxWlFUdEcydzlVWTNnSlp3MVBpLWxTZWxYNGFOcHo1QU9CRWxpX213WjRaa2Y4bGY2bVp3MUZPVW5DaHNLbGFIX1ZMTVhkb1NYbGNoc000a0c1Tk9tUEFlaldZbUNHUEptVXNDdmJIbnV3TXVGY2duallaZmxvMVpTcWZ2Z3dlZWU3QjlsOVhJUlRPQXhfU0hqeU0yamsxeENSUmlqMWhiTEU5NzRjUGEzd0NQN29Hc2xzcG56UGJ4cDZwUjRpWGZpaUs0TUlBZHRUaTVKZXhRdUNTRXdoTGNGTUdQaXhxdWh2cDZfcWgtdzJKd0RReV9HQ1drZVlqcXJTQ0l2WE82Tmo1X1hSZ2lXYkpkUF9vX3htaVI5VHN3Z3o5MHBYWQ?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Mon, 28 Sep 2026 19:35:05 GMT",
-        "discovered": "2026-09-29T20:36:34.347375+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "صدور كتاب جماعي حول \"السينما المغربية.. بنيات الحاضر ورهانات المستقبل\" | MapNews",
-        "player": "",
-        "content_hash": "84d19371d97e29bc1b409b71613356ca85162d9afd5f4db212baae31e1af82fb",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 7191,
+        "title": "الأسود يخوضون حصة لإزالة العياء بمركب محمد السادس بسلا - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHYXlCUndqNE9nM0NrODVyVjk4Qk5wSVNlN2RXX1lNcVRGYjlKbVk4dXE3U0JuYVhwcnJZMFhmY1ZUU3VHM2NDMlBtTWlwNXBBcEdUWA?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 15:04:07 GMT",
+        "discovered": "2026-09-30T15:13:23.212924+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الأسود يخوضون حصة لإزالة العياء بمركب محمد السادس بسلا جريدة المنتخب",
+        "player": "",
+        "content_hash": "984c207465996b3c881b3e8499c3f757de2127218b87c11bebb1e2fe0d875f20",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7192,
+        "title": "فيروس فيفا يضرب نجوم الدوري الإنجليزي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNLUpwYUJoZnhZZkxQZjJlX0NMOW9rbXJORi1PcXZySHpwNDVqM21sX0VCZjRRU185UHhqbVc5SG1wVVJDR2MtUVhFdC1XczB0MmRWWlJqQVZhR20tQUJjcDI1X1doRS1iMkZObjlwd25BWjJ6eF85SzRjLUxyTlNNRXJrTU83bHRhM1h3OURpSWUydVBnb0gxN1Q5VFR4U2tqOHc5TkN2dTBrTWdNdTJmNTZKdWtmSGhlV05tbU5UWjdmM052Z2dOODlGZzJWbWlheGNqUzRVM0NtbVMwanlaUDhBTDJ0ZnR4Sjk0RnNXNHRDaGVqQTJONWozeWo4Vks5ZlFIN3FabE9sWEp6WmJBeEtZTnhyQWRQV3ctU3BGd01wZmFIVDVaVFI0SjFlOERiQkpvSVlhdi0yMWR6VVdSOGpjeUkwUDUxUkFGY2dZQUpQNURSLUNVbmdYaGM4S0d5VGh1Zw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 15:03:45 GMT",
+        "discovered": "2026-09-30T15:13:28.841457+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيروس فيفا يضرب نجوم الدوري الإنجليزي يلاكورة",
+        "player": "",
+        "content_hash": "f3d705167fa01c631fe6992617ad6e838d75341edee9eb1b4947035f368f4ec2",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7185,
         "title": "زابيري ينال جائزة خاصة في البطولة الإسبانية - جريدة المنتخب",
@@ -1078,6 +1110,22 @@
         "section": "sports"
       },
       {
+        "id": 7193,
+        "title": "منتخب مصر راحة من التدريبات عقب العودة من جنوب السودان - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EVHpKbnFDVVlSaVdaeXNEeGZackdYMnJZV1ljSzZuZ2xzelpkMmFnTWFjQ2N2aVdPT1J0VjZMQlR2NmgxREduYXEydWlSUDN30gHLA0FVX3lxTE5NaURCWWRzSW5qaDN2cndNTkRtX0dmdEdMTUdZZ0tGNmQ5YzBvMkdPN0Z1MFhibkNJUmxheTBZRFlaZkpoN19uRmxrZTluYnFMOXcwS3ltUnJxRGdtUE9uRmJ0eGRwS2x1ak00MjhBWlpQM0dHSHhEMTlfOHducmhFQmhzTjBPRTRXX0NZQ2R4dHg1V0ppQUFaQWlSanRpaW92UVEwRy16LWdwQ0k1dzdvalk2MHp6TUVlaG05c0U3My14QVdxbHVUZ0I2WU5ZaGNvYlZKMzN3N01oWEt4aUVoRkV2RXp6ZWh6SUFNcGlPbTV1eTRTeFh6bFNfcUJyM3Y1SWV3TnBxd29pZkdYc3ZSN2hUM3pialdEazFKUWNEUExhWHI4QnhEWHNDUlFZeW1seWpCQWI4YndpQjU1UGpFYmtDYkg4NzZ2T1dRTFRHUE9zbVFNMmtNX1BKMDBLdkZzWThQbEhCZTc2ZU9rT2JyLU0zcDdOWXN5X1NUT2s5MFNjMG1seHZoTzhzN1BZaS1BTjI1bDlXa0Fib2p3Yi1mSnBqU2x5S2xzdXhZUzY2MVdlTDZobGdRMEZKTmMwNmRuY1pxMmc0MXFNOA?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 10:32:00 GMT",
+        "discovered": "2026-09-30T15:13:29.414512+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "منتخب مصر راحة من التدريبات عقب العودة من جنوب السودان FilGoal",
+        "player": "",
+        "content_hash": "a376db4cb8d3d8c062f73205bb02e2e19cc08793a6a0501c601eb4b6926738a7",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 7121,
         "title": "بعثة المنتخب المغربي تعود إلى أرض الوطن بعد رحلة جنوب إفريقيا - Febrayer",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zM2RRUGhqV1p1dGNTR0FZVk1XVTE2ZjdvX1NZQWpLYXB0TkFybHZVUWRFZk9IQVprbUU4YUh0MExOZ1JhdjJNZw?oc=5",
@@ -1410,54 +1458,6 @@
         "summary": "الاتحاد الخليجي لكرة القدم يؤكد دعمه المستمر لجياني إنفانتينو جريدة الشرق",
         "player": "",
         "content_hash": "206283d22ca7b84a50f27d6724d23739b1f2a0119e4855dece228d0d862625d0",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7012,
-        "title": "جدول مباريات اليوم - 30 سبتمبر 2026 - بطولة دوري الأمم الأوروبية - المستوى الثاني - filgoal.com",
-        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPSTJ1alpZemVvWWM5RXVHeUQyMWlZS3dnemRqZGpvWDRLa1ZzYlplZ2xmQW9XejVnNkN5aHVueE1nelBwSzRZUUNoOGdEWnliX01sNTRvSVYyUUdOeDB3eGtvNTNsSXZYNWJpV3hzN2dNaEl0YTRUZmtZdTNIeFZKeUJlbVp6U2dsQzQtVW5OYl9DSUppU2xibHgtWHBHTkFuM3F4ejFSME9IdmwtWVoyS3pOak5ackZBMWxJTEVobUx1eHkyamNLU3BUcFYxb2g2RmRPSmtMSGk2Z3NzODVfaS16NUl6YkRHaXVOYnpmYXRoRF9iNGRmRF83Wm1sdVdXdm9uN3JTcmFZeXRTYk5lZWNHLWhkd084MktVTVZ6b0xrQWdKcDBjX2pnQkZjRmVwSWtHU1Y0dzdRWHc1ajhEa0FWcXdCUDhCUnhoakdPSFRRWDhIaHZoOVNQYktiU0JLY3YxeEdJRFlPZHZkazJrNjNjR1M0d29KbGpCNTVQdkVGNS10NTMzNzROZG1BYzQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 00:12:34 GMT",
-        "discovered": "2026-09-30T02:33:49.847445+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم - 30 سبتمبر 2026 - بطولة دوري الأمم الأوروبية - المستوى الثاني filgoal.com",
-        "player": "",
-        "content_hash": "6ec2cb157b0b7fb177001776b48083e8454fcfc04a2233971021f4ded7f81672",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6981,
-        "title": "جدول مباريات اليوم - 1 أكتوبر 2026 - بطولة دوري الأمم الأوروبية - المستوى الثاني - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQM2hBOEFudURMQV93NHR3WFNNZjRHMnVnS2dqM3JKbUZNQk5TTEF5U3l5Y1JQTnpZSFBDN3hIMVQ4RFdFclk1Tk9kcEVGZFQtdERIcU1DUlA0c3A1RWk3cUQ2Zk4wZ3NKekEyT1dxbUFwUzFLYWF2WGNjVloxMTBMVjFEanVWUGRXdGRaSVNndEJEV1ZMdkxRdEFZeXdYdGtONkhSdDl0MWxmZFVqOGJWa0ZrZkVna19jbEVIUUc1czF4cDZHeVZzMHl6N202VmlUdUNvcjFsNy1UMzhTdDRQY0NUeGVjT1BMd21xbi0xS2FVanZBbzI1U1dUS3piM3NleEJ5aDBienYyU21FWlpDYVl2S2xDN1ljQUZZRUROWXlaemh1UUI3VFk1TDJ6RWZDOW5QODllVjRFUWJISVRXQnVPLWdicWNQcWlCSnRUUG5BbXhlMV95VnlMcDl0VlIyXzNCelRmMzl3S2ZHSFQ2THY2bnZpZXF5aXRpdjlOT29ucmdTVnJUVVo1LXdKUlE?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 00:12:34 GMT",
-        "discovered": "2026-09-30T00:40:29.957790+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم - 1 أكتوبر 2026 - بطولة دوري الأمم الأوروبية - المستوى الثاني FilGoal",
-        "player": "",
-        "content_hash": "643630ddfbb200b9a2d89900bd57d094381e40571df14d7f75bfd842a0ded1fe",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7124,
-        "title": "جدول مباريات اليوم - 30 سبتمبر 2026 - بطولة كأس الكونفدرالية - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTTdmcHNoS1QwUHFPRExTV2dabG56RFJmN3pMVG96WkU1YmZ4SDFLTU1rTTJ3dUprLXBFR2pjTnN6ZUZMTmdiRm5ITGVBU1VlaWxqVDF6M2lzaklpUkRiV3ZKS0FrenlCMkxSVlhfbHkzM05yODBwVmprbklacXhSemkteFd1STM1aFYwaDdNSUthY2pnaVRqa2Nsb2lfMllzZDlzUkUydTJXLXJkaVpJYXpuSC14RkY3NkFmZi1KTXZDUktwc0EwWUoxQjhkSnBuQnB6LWlBYjhPRDRDNDdYSm1sTGJxQXBqZGpYWnVWTzRDZm5LMU9JTUxJU0hjcHYwSFNKdVBTYmg5ajQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 00:04:10 GMT",
-        "discovered": "2026-09-30T10:43:36.254359+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم - 30 سبتمبر 2026 - بطولة كأس الكونفدرالية FilGoal",
-        "player": "",
-        "content_hash": "e155d3682d6e2a55015dfc84ca0ece0fc69b94bbbf12778334577b7af16c539b",
         "sent": 0,
         "section": "sports"
       }
@@ -1912,6 +1912,22 @@
         "section": "transfers"
       },
       {
+        "id": 7195,
+        "title": "أوكرانيا تدعو الفئات الأكثر عرضة للخطر لمغادرة المدن قبل الشتاء - العربية",
+        "url": "https://news.google.com/rss/articles/CBMi7gVBVV95cUxNN05CSlcwekxmWFl6Z1JWbXpTZFlmT2FwSEJJTFB1RTFVbW5mUm5mNmFYMUp3SG5mNktHTmRZSVRWczRveWs4dEdGWFphM1JFbGVld3FlbG5uajN4OHg2WkNCN1pyLVkxZV9qVkU1bHhYbFlmZzcyWm9Sbk14c285YV84TWRQcl91Q3ZRRXZjU3JuY0cyM0pwNkphUDJnb19FbWowVnlrdUF6akhXZVdxeGRWajFQN0NjXzBuTGo3U3I3ZUNXVkljM1ZXMzVpVlYydmNqNnpoY0lqRkNPekJYbS1aVDVvU2RoQ2FmM2M2aEtDRThydXpNcWhVbFpOb2YyV3lmOUxvOV9LOGROVGtMRVRkaHNlOTk1aXB2am9oOWxBRS1ra0o5azVpRDd3RjBOMHdVTjJXZmZraTJaY2hmUW5vdWVLQy01OEJqZmc5R3lsd3U3eTF1UFBqdmJNSE5uLUMyUDhNUEdFOWd0RXhmWnBhdUFjSE9wc0RNUnl5MjBUSzd1U1lkR242bUZRN0EzU1FMT0d2UndlUU50RXNTR3pyazk4MGdIYXBjN3lPY1FnRC1lczh4UUphczNuNjlMM1h0THBUM3VSWFJNZXM4WGMxeW1UY1lLTVRVOElnYWFMVHlYZkdYT1RRZmZEbDlnUkF2a1dZY2F1VlJXbW5hUFU2YmdxbFU5cjgyYWh0Nm9rclR3NVljYUlmeURNWVE4OTZKRkExUlBkLXNMYXdudFhfbGNpLW5pZlJjSkl0d3FfdUFqN1pUQ2pNVmw1QjV5cG83TENjblI5dVBZN2thNVdyYVpoLUxSTUZQNTA4QnlzVGNMQnRXQUhyaXhBWDloZEJkWFFWX2hKTnlrYUZOejVVM1pMNkdsOTRLc3hBS2p6b0FJNnlTeEJaVjFtOEJicmdtVzlOd2hMVU1nNkpueVF1OGNWU2YwUzVxR1ZDRHY3RENIa0tiaGVNWTRLMXZqZkt2azAycVlsMmdQNnfSAfMFQVVfeXFMTTB6dmVMaDZ4aWhkWGtXandYNVZPOW95X1Z4ZzZsd3hnbXVNVWNXbGF4SXEtckE5ZWdOYURjaWhJcFFiY0IzNFR3Zm5hSUtoSnhNNTczeThUbk1tRl8xMy1waU00Y3lCNjlrTk5hRExPdmlKRFB6WFdrSnhqTFNCNDRCVFlWT0txU3VBTGhjdWtkVEhBSnhtSjNZc0dVN051dHVMcGRsNmJJQVEyV3FUejFaQWlCQWU3RFpHb2diUmhCTFVOWlVUelR2R1R2NjNsYzBsNmlCc0FOSHhqQzZEcVV3LXpaNzNYU2R4TU9mODQ2ejU5SVZpdFlLcEZacWdRUS16elAxQldjUTVidnNiWXBRUXdRZ2pxZ0xjMFhkblNsUnFxQl8wVDBQZHhFMmRMb3lxb1U4UEx3cmhtMmdjclZrV19TdVk3X0NCVXptWW1MSi16RUVpMmN1RnZZUVFncU1hWmFUWTY2b1NQSVBRd3J1eF9KbWlXNmxVMTV6UTlZX2VBdkcwRDBDc3luVGx2S3pBcGRJd0lKWEtvNUljR0dUbzVtbVFKN2U3anRlYlp4TmlUdjlqX3VmRXluM2tsdzRPRWo5ZlVENXVEY0c2bl9iSGtBcFRuNTkyNHBOMWwyS2V1amNkd1ZTYjdSWU9pRFNURUFHU3ZSZkxxNkJjSkVQa21aWlJQcVcyLU1qX2N4ZlNULVRCb18zZERvRU1fYWVSUjlGWjVsdm9CWUZvSkVPYTB1T2V4VDNRX0ViempRUjNpakFFTHRvVkpsWDBkRl95b2hkUHN1ZkMtMXhnRHRXYy1wV3NHT2h6Nkc4Z2hKMFE1U0I1eHEzdk5RMUtQTWxrSGZ5blp5cmUxWkZaaHJZUHpHamQzNlp4bW1LZU1VZmNzSVVabjZ3T2tvOVJ5MEkxb0E4Y2hIOVpadFl6dlRtY1BTbVRUMVZzWjlyT2xDYjd1U0hEWE1GLXhCRXBXeFdkaHUwMjBNQnFVdGw3ZXVueFk?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Tue, 29 Sep 2026 12:39:00 GMT",
+        "discovered": "2026-09-30T15:13:35.775157+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "أوكرانيا تدعو الفئات الأكثر عرضة للخطر لمغادرة المدن قبل الشتاء العربية",
+        "player": "",
+        "content_hash": "6fb5bef62e4025509b8cde7134cd291f46766fe1024fd04d9b8a2288b7887f78",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 6714,
         "title": "راتب زيدان مع منتخب فرنسا.. مفاجأة في تفاصيل العقد - skynewsarabia.com",
         "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPelpNbG5kZDBIeHlJODdxTV81UHdiT3JTVWxQYjFkY0U0Rmp6N3NyZko1V0paYWV2WGhkeUYyUV9mUEF5U21rUnU4M1NhcUZySXg0Tm42aUFlQ3RqQXFYc1JrSGFmeEdNc0ctY3p6Q2doZlVaQ3FVT0FrREFlLXhaWHdfZHloWml5b3VsdmxqX2EwRzNwV19jZVZEcENPTmoySF80SkVyTG1ZSDVKNzVaUVkyQTYtakNldWNLaTdjLUhnMHJDdXdLQXd4MUtQTmItX05GMmxmR2N0Q1BOSHBXczRGYVlGZHRKR2hEalppVk9fSmNPWjN3WDNtNlhFWjZQaXdxOWFKRDZNYUw5YkNiWmVDVUprMFR0cXJ4cjY0eE9fRS1YY0liTDBfQTlYSnFvSzhtNGtEZ05ZeXluTXB5MUQzUUF0ZWZiYVNsU1RaWnRiYkFmZmpwVktxc2FXM2ZuV3B4dURFWGZmbm1jZXdoSk9OLWxnUngtVWpuOU9QRdIBhANBVV95cUxQWEpSQlVlbDJ6TjRnRmVWX2dNQzRkZElIYjFuV2xtbjNPTE0waGQ2SDN2d3dDeER6OF9OaTVlUWNudXdKYWRwb2NFWWJRVXdZZ1RyZnlvQ2RUcWNjN3p2RFFDeFkycy1KanpPOWhvWVhOamlXaEZJeW1YYWdpa2dTT1RaeHZaS3NOU1IxMFl4N2lFT2p4YlhyaENpU2VBc2JEbEJjV2piUE1OMFZPNXNYQzZyaHdIYk9XTEdaWFFuMzM1ZGdwNWRqR3c5b09VLV84RFN6T09JQUhOaEtSS3V5ZGlCTzhvOE5qc2lLajVwYjFvVDhmMXBFMWxPZmlDZUdGbWlXRjdhR1c3RmpnVHB3RXZYNzZkcUQzOGt1VU1OdnIxaHN2UE05UEV1NTc4bW5tSE52YkNXYVFCV2xjc2lGQzYxSXB5TkNxX2xPTDlYLWRuMk9nd0tzMmFnc1dKc1VMeHQ0RjZxd3JhemN5YTRFVDBTWW1tWlp5WG5kZWh4NVV3cEUz?oc=5",
@@ -2344,22 +2360,6 @@
         "summary": "- نتنياهو يحذّر من هجوم محتمل على إسرائيل قبل الانتخابات: \"لا تعبثوا معنا\" Euronews.com",
         "player": "",
         "content_hash": "0632a94412f57f0f82857dce82fe37593b8a2d3a23574697a77ec57f54e8abd3",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 6693,
-        "title": "في حال توليه وزارة الدفاع… بن غفير يتوعد بإحراق جثمان السنوار - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNZFBvNUk2VVU0NVpja2xzZTAtcWNKTXd0MktiTkVkYzg5MTNIQ1FwdENTSUo3MzVCWGhVZXMzTFIzU1JYRFRoRHdsZmhpQW1kT3hRN3JOTWg5ekNDS0Z5N3hoQ1otemk3aHNZX3dyTGU3OHNmNXhuMWZIdVI5S2lwSGRyZEZxenViSjhsYjE0WHctdnl5WHlVR2U1bGlJamc1ZzNtRDdKVlEzU2NEaVFkS2xrcVZXVk5nblJLbnJoNVlwbVIyaGcwTzRTMDNfd180TTl3dlhUSXE3blMwbUp0cWxLTTJ4WXVqVkVkakZTV0dDZGFPVm5qdXFUWjJHX0JOVWE3MnJrMlFkdmpUN2tJd0RDZ2EwQkdBbFp1MUpleGdpUk5nUy1aMWUtRnI2dFlaRnhxYlliZWsxcnZLQnV0Mg?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 10:01:27 GMT",
-        "discovered": "2026-09-29T12:26:27.448526+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "في حال توليه وزارة الدفاع… بن غفير يتوعد بإحراق جثمان السنوار القدس العربي",
-        "player": "",
-        "content_hash": "630f849417d45336604fd1e3bf891bbc1b9c7a41a00bcf59ce7f1c9c963a9d81",
         "sent": 0,
         "section": "world_arabic"
       },
