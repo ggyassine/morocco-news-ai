@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T17:30:18.850843+00:00",
+  "updated": "2026-09-30T17:46:23.356764+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -532,22 +532,6 @@
         "section": "morocco"
       },
       {
-        "id": 6740,
-        "title": "مراكش تحتضن الدورة السادسة لـ«لقاءات التصوير الفوتوغرافي» وتحتفي بالفن الفرنسي والإيطالي - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VaDh4QzNEX1g1MmdFSjZ6ZzdBZUozbC1nbVB3Z2wzQzVwVm1SWUc4ekhnWW5DY291M01CTjJVVTZjVlBzX3BRd1NkUkh1WFpqd2x2c1h4bXVOMzlqcXVuaFBTVllQdw?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Tue, 29 Sep 2026 09:18:35 GMT",
-        "discovered": "2026-09-29T14:17:28.008727+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "مراكش تحتضن الدورة السادسة لـ«لقاءات التصوير الفوتوغرافي» وتحتفي بالفن الفرنسي والإيطالي Le 360 Arabe",
-        "player": "",
-        "content_hash": "91a66cb5768e3d53f094e2920938f275390742e13cdb1c5f54f6f9605abd910e",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 7083,
         "title": "أطر المكتب الوطني المغربي للسياحة يساهمون في الصندوق الخاص بتدبير جائحة فيروس كورونا - | MapNews",
         "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxOLTYzZzJFR1JzSUllVmxuQVNuQjU2UERoWFhIN2gzWUx3bks3QmU3V0hESGJWSGs2NDBiVG5fT21kdFpoT3p6czFNNWhEMDEwSjhWRlRsZW54VmJCWkxQWEhxRENyQTF5bjVSX1FaZmJNTzVaeVI3dVYzWU5qQVRBWW9yUHFMaThVa1h6eDRWcy1XbHFKaVF6cm5WUTdRdlNQUnlkdjBPVVFma3RabTc0UHJzaTE0X25LMmpQUF84M3NRZGVOVkdsUTdNSzA3YUFmeUdCeGFRMlpZbE5JUHBCUFdwam1iVjcwSjVhZWl4Q2JGVzIxelV0ZjEtdkVhYThtTkhQVENaSE1Vb1E2SzhkRXFBamFiamxIN1EzZWJYdGFzNkNYNkRBcmxBMkZ3Ym1GWVNEb1U4WTFFMEE2ckg2RkhQVzRTc1NMQk1zXzRLTm9CbmM5WWJRVUduNlJ3U1JuVTBCcW5FWU95U3I2WDlTZGV0dFRxUERKQWFwcHFrZF9Ra0pRd09tSlRpQVhJdDE3cHJVczR0Q3ZUaVkwWW5mamVEUlpDTVJySXVybGFibzU2UmJLYTRJLTlxX3lGSVVlM0tqd2JBLVlqTkhlUUw3N1I4Ny1BOHpEUU8wby0xQ1lFd0YtZDhRS1RUZzFYNWMwbUZEUjFLblRWMFNOVkdDbVotMGFNZm1sek5zVGFoWmhvcjl1ZV9zOXBBSHBYeThRZklqT0V3Zk1rNTJvc0FILTZNLTRfTjRXNkNHWWhJRkRTbDlTT0dtRWdGLWpRRTh2a3poNHZkcFFEVmUtNmZDTnpIdEZFemVoV3YtSC1GT2NDcEVsbWVNREllQjVNMkVqMzJOY1piMm4xNnBrc1BVUQ?oc=5",
@@ -662,6 +646,22 @@
     ],
     "sports": [
       {
+        "id": 7236,
+        "title": "الكوكب المراكشي يتفاعل مع تعيين فاطمة الزهراء المنصوري رئيسة للحكومة - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12Rk8zN2dlZ0hqM1dkZUZoYWtfdFY5SlQxMm9VWjlkY29GZVYxTHpQSHpyWnRRTllVMFR0d3RzVzVIdDVaT25WdHFJSG8tTUwxWjROYw?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 17:34:30 GMT",
+        "discovered": "2026-09-30T17:46:01.714628+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الكوكب المراكشي يتفاعل مع تعيين فاطمة الزهراء المنصوري رئيسة للحكومة جريدة المنتخب",
+        "player": "",
+        "content_hash": "0e98c6c7b0bb6a25f3124f21b58176ff26fe24f9c21ab1c15a17cfb67a1ebdfe",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 7234,
         "title": "بث مباشر.. مشاهدة مباراة الإمارات وقطر الآن في خليجي 27 - 365Scores",
         "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQbm9vaEl3dFVfYXpoMm10SzBPU0J3aHpEOHBjMFBhdEZzc0JTTk5LTlViR1ZZTHdFLWtuaTJLME9xNXFFZ3RGQlpjMkNHTkt0b0lGc1ZESTZUakZlWmV2VzFtcnBDSnJkbkQyczkzd1NfYVIwSlZ3M3RKampLcnRRc1hEYkhQT1pEZjJzZ2w0NWtoM3BIMk42eE9uQ2J5bFhUMEt6dnc4VFRMdmczdXNTbHNjR041U3ZIY1RqOWF6eEtjQXVPS0VDcXZqSGZPdlJMcUJoUDJiWHg2a0ttOElWdVlrU21CYWw0b2V6QVRoTWRzTGZzWDV0a2poN3E3aWVpVDg2RGxRbDduMHdlTERyRnBxRGZ1MERpSVNmdQ?oc=5",
@@ -674,6 +674,22 @@
         "summary": "بث مباشر.. مشاهدة مباراة الإمارات وقطر الآن في خليجي 27 365Scores",
         "player": "",
         "content_hash": "900e9bdd6afeab5e2d85440cf2b7fb0f49177abbe169e8ff129a1872b3ff6564",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7237,
+        "title": "ماركا: كريستيانو رونالدو يغادر معسكر منتخب البرتغال - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxOaTQwV0ZKU0FZc3gzN2c0MDJRY3Rka18zQm1lUE0yajA4UDg0b1lzQ0duc19NRVRHYkYyVEhaUTVMT05RN3BabFp1RkRmTG0wYThDTkhoa09pc19fclpwSWxUbDlUajVaR2ZTRXZCNm5QY3BDUXFMVTdISHZmTkY5NEhaQ2tLQUNzRUVZaXBVT0RSQUJxbUNIV0JyUEc5a0JLVk1KQzdKT29TWVBwTXlvYW1UdFVreWVLb25DWkR3LXVYb2FuSC1mVjM0VTMtaWNtQnpXWEtWVFVTcFlZdXJ4Yi0zX0JidXNCVWlGTWZMN1VsTGZQLVV2NzY4SUlrTFppMlFpbWNWb2JfaDBNbFIwN3lLSzJqRGszMWJkUmZHdm1rS254QTB5eG51ZDE4RmNaMElLRjkzSUVOWjZ5b052R2pyaE16aDFvYlhPbHMzcmVNNmRfalVNQTJjbFhJU1FvWFJqMkNMQnl2U3ZocEVURzQ1c3BFb1BIZUZmbmxQRC1JbkQ1WURFd0s2S3Y5Y0lxNHl4YjRRakNlZzB5SGhtVnhlaDlDbTBfY3J3c1Bhd2FXRV9pYnV6d2hhQ0lfUlI2RVJZeDlLcXNhYWcyelJ4MGEyRElfUnhM0gHeA0FVX3lxTFBpOTlTUUN1VE9LSG1oRDdPMWJob2VRa2RmUWhPRjgyWmJ6RGhHOFp4R2NLU2R0S2RkVVVGTnlhRFZEbEdab2x5Q0djb185Z085MkFleDVVbG9RellhQVlQRkFLeVlQNndwZW5wS2FROHFtd29VWTlRX2Y4R1RNVVVURDJUUE5HVGJLSUQ3c0JXNkVXVU53STlPWndWNEJLV2JYaVBEVFVFNnNtdk5SQlRjcGFSejFtaWRPaEFRYUFyMlU5Qkw2a0V2X08zLVQxSWNGY2FQQTA3Si1xbVctX2NMWDJ6Mm8tb2xfRXBBcHRmY2YtaldOZUgxQTdjY1NuenJFYkhuRV9TWnlzSVVMWG1iS2VHMEJLWDF4ZFQ2Y0RzWEpUM0JYOHdhVk9BWldYOWIwZlhZMjJaNmtuTXl1dzNBTHlIZ09IcDNuSWowQmtOT0dBbldJOXNDdm5mbGZiSzcyenRjdlhoYnJ3LVZSdTNiV21hWTJWaWVZQUVlekVoUTEyanVQcURWNTVSR19QLXFJN1FDbFlkQkNSY29JRTBZMUp3a1dkSElneVVvWm14WnZncjVfZjU1VUhsc2h5akVhQ1QyTnZabTMyVmhwYklwSW13QUxpdGg2cGpNc1E?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 17:20:00 GMT",
+        "discovered": "2026-09-30T17:46:07.374898+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ماركا: كريستيانو رونالدو يغادر معسكر منتخب البرتغال يلاكورة",
+        "player": "",
+        "content_hash": "2eceeec524f267abaeae8b9b876b88299c52bed1b8b58d92b1162642fe5fe82a",
         "sent": 0,
         "section": "sports"
       },
@@ -1428,41 +1444,41 @@
         "content_hash": "3d7411df6faa1db39949870ecaf3ab31a7d21dc724067cc65dde6afb3a922174",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 7193,
-        "title": "منتخب مصر راحة من التدريبات عقب العودة من جنوب السودان - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EVHpKbnFDVVlSaVdaeXNEeGZackdYMnJZV1ljSzZuZ2xzelpkMmFnTWFjQ2N2aVdPT1J0VjZMQlR2NmgxREduYXEydWlSUDN30gHLA0FVX3lxTE5NaURCWWRzSW5qaDN2cndNTkRtX0dmdEdMTUdZZ0tGNmQ5YzBvMkdPN0Z1MFhibkNJUmxheTBZRFlaZkpoN19uRmxrZTluYnFMOXcwS3ltUnJxRGdtUE9uRmJ0eGRwS2x1ak00MjhBWlpQM0dHSHhEMTlfOHducmhFQmhzTjBPRTRXX0NZQ2R4dHg1V0ppQUFaQWlSanRpaW92UVEwRy16LWdwQ0k1dzdvalk2MHp6TUVlaG05c0U3My14QVdxbHVUZ0I2WU5ZaGNvYlZKMzN3N01oWEt4aUVoRkV2RXp6ZWh6SUFNcGlPbTV1eTRTeFh6bFNfcUJyM3Y1SWV3TnBxd29pZkdYc3ZSN2hUM3pialdEazFKUWNEUExhWHI4QnhEWHNDUlFZeW1seWpCQWI4YndpQjU1UGpFYmtDYkg4NzZ2T1dRTFRHUE9zbVFNMmtNX1BKMDBLdkZzWThQbEhCZTc2ZU9rT2JyLU0zcDdOWXN5X1NUT2s5MFNjMG1seHZoTzhzN1BZaS1BTjI1bDlXa0Fib2p3Yi1mSnBqU2x5S2xzdXhZUzY2MVdlTDZobGdRMEZKTmMwNmRuY1pxMmc0MXFNOA?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 10:32:00 GMT",
-        "discovered": "2026-09-30T15:13:29.414512+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "منتخب مصر راحة من التدريبات عقب العودة من جنوب السودان FilGoal",
-        "player": "",
-        "content_hash": "a376db4cb8d3d8c062f73205bb02e2e19cc08793a6a0501c601eb4b6926738a7",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7121,
-        "title": "بعثة المنتخب المغربي تعود إلى أرض الوطن بعد رحلة جنوب إفريقيا - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zM2RRUGhqV1p1dGNTR0FZVk1XVTE2ZjdvX1NZQWpLYXB0TkFybHZVUWRFZk9IQVprbUU4YUh0MExOZ1JhdjJNZw?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 10:30:43 GMT",
-        "discovered": "2026-09-30T10:43:28.909973+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بعثة المنتخب المغربي تعود إلى أرض الوطن بعد رحلة جنوب إفريقيا Febrayer",
-        "player": "",
-        "content_hash": "909ccf45461100a2341c0fb2acce0416af43d73384319c0268b8ebbeae05a89c",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 7235,
+        "title": "الجيش الملكي يواجه تنزانيا وديا - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - febrayer.com",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE11MTlpX1lRRjNlTkdhYi1nNXBWWmVhRTNERU9fUTJRcVdUb2hYMVlPMjJNNnFVY2ZTLTVPdWJvN01ra3JvX2dwdg?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 17:31:13 GMT",
+        "discovered": "2026-09-30T17:46:00.424218+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "الجيش الملكي يواجه تنزانيا وديا - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة febrayer.com",
+        "player": "",
+        "content_hash": "46280b5dafa613c936c2ff5fb7676fe1f42b21574fa51c936a5f1c0b7568e7d3",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 7239,
+        "title": "غزة: مجزرة إسرائيلية توقع شهداء بينهم امرأة … ومسؤول أممي: صعوبات في إدخال مواد الإيواء - alquds.co.uk",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQZ2xLM3d6SFFVd1N4ZjQySTlSRHFlenoxZXZKaHhIVFlWZWtuQ3pBVWF0M2RIdmplVzItc3c5ZjFGd3AzdlR2NFBCQUw5eDBSOHdQSUlPVkF4Qk5kMzBlMklmQUloQkZUOVpwSnNaank4ZmJpUXpsdFV3LTAtZWtKRjZrSU1LYmU5UDVTYXhXRERXTEg5N2h0UHlkUXp1bF9fbXgzQWRTMTNTVy1xZkxWLXdZLU5fQ0RsYk5IUGlnT2RLTlFIcjNKenJiVnd6dkdiT192Q3FqdjZKWUlkdTA0enYtRGdIbHNxMHZ1dnNOVXdOaXJibnhOX1dEQ0RFNnczX3owQ0tJX0FaeW8tdENGZ3FvenNDWjZVbW9wal9zSDdxNXVpMWxrdk1LcjRSSmcxQzNHWkVIVXZWeFYtTHdaVDFZbmd6b2M?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 17:14:03 GMT",
+        "discovered": "2026-09-30T17:46:17.994062+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "غزة: مجزرة إسرائيلية توقع شهداء بينهم امرأة … ومسؤول أممي: صعوبات في إدخال مواد الإيواء alquds.co.uk",
+        "player": "",
+        "content_hash": "b60e18ad780b3636b229f31529ad6a5c82565d84483d3b26ffe0dc08bf6f6e78",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 7221,
         "title": "المنتخب المغربي لأقل من 20 سنة يهزم الجزائر بثلاثية - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - febrayer.com",
@@ -2008,22 +2024,6 @@
         "section": "transfers"
       },
       {
-        "id": 6739,
-        "title": "ولي العهد السعودي يتلقى اتصالاً هاتفياً من رئيس مجلس السيادة الانتقالي السوداني - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiwgVBVV95cUxOZmE1TG1RRFZhbVNJRDNQT29PcV80N1F1N050aEJxTVRMUFF2T3psNXg5SGpKTUJjNmVTM0ZpV3pjOVRDVWVVaWxSREx2bXRRR1V1N2NrVS1Ud3p3X1JkcHdDYmFKWWhWMXk3TFFMNXlrYzVkTzZZYk45b1ZvYXJXWkFfRTg3N2dlOTIwTG1CbFc4V2RibklxMFdzMHRxeGw1ZGRqeXJkakk1MUpkS2xncENRMGwxSmdoUkYtS2NNMnZmNU9jSGtDLXF6M1huaUNtbkpUUXZWcDVLTHhfNHV6dHU4Mnh3THF2MUhRbk51QnlkVV96TUFuUVFTcHU1SXlYMFFXTmxrYWJCWWwzY1ZxYWhsS2xOdWtGNDFLWTdFak5EVU1FTXRiRGJWRThNN0hDQm9MQTRpbFN1d0l3cHRoUXVtSXlGM2VYQm85Y1g1Y3BuaFQ3QUw1aEdIOENZeng1OHUzbWVGU1I5S1NhY0ZmMzY5bHp4QURnRzh5U2Fjc3pHcm9tNGNPQWl5SFFtcWotR3AybW9mSzhjSWNqenhUMzNaQWM2MG1qQlRrOTdGWjJQVHFHemh2c0ptdDl1bmlpRkRkeWRIN3FuWUVNRU1GWlotUUlsSmR0OWJfSUxVNXk0cGVUcy13cHEwN2xkczJoaGphM1V2ajU1T3pxWkdCSEtSZGVnTlN1a2hpam8waW82bDFMTnNrVUNTR2RwUzNsa2o0UGU2SE5Gb1Z1X09Wczh3WEhURGkwUUxWZm1kak9xNFE0aGhkcEVKMzVGcDBYOEN2V0RscVNlOG9ETVpjWnoyRkdhZUNsVVVmbklQbmMxTE9zOWFtZ0NmX0pENEVDOXBldWtIdVh6TzhQYXc4NllGS0phNDh5clM2eG9yc3JJMmxrVTk5QVZpVGpTNTRFWVFqRU8tOWN5ZHl5X0ttZWxR?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Tue, 29 Sep 2026 09:42:19 GMT",
-        "discovered": "2026-09-29T13:59:29.405446+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "ولي العهد السعودي يتلقى اتصالاً هاتفياً من رئيس مجلس السيادة الانتقالي السوداني الشرق الأوسط",
-        "player": "",
-        "content_hash": "3a4ee29b2e084cc961d1d29a9f3eaff4557d39cc9a315cf9c82618557880ae12",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 6753,
         "title": "مباريات اليوم الثلاثاء.. منتخب مصر يتحدى جنوب السودان ضمن 17 تحديًا إفريقيًا - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxObnh5bUJBc09selhjai1VOGgwYW9uN3lLdWZzc2s3QW1kQ0E5X1pSQzc4Y1FYdXlYN05aaDVtTHJPR0tHc3BiT0trMTVvZExIZjZ6WFowR0NMYkhMblJwSXJ3V19LTUVydzFDYUxubzkySDY2ajNkYkpQd25tcmFFZXhRSVFkLTFPbFpCQnNMYUk1T3RVX3RSTkJoQzVjazMxQ3dkMG1yOVg0RTRGNjFiaTI1OWNKUUM3OXBaU0lQcmFSRHk1ZmRMTG9vTGd0Y2tXclNrY3RxSHB1SjB3d1pkZVA4NGNnWThueWFjNFdrWjRnN2l6RXM4MG8wSUxueVNUa1k3WjE4Sm5kOFlSaGQxbGxxQTFKREwtYkFpR3ozOXBmc1Y1bWZLSXhHWGtKU0ZsS29ibE9YQjVDUzd3T25EdFJWa0JLV2xKTVd2SEFIdmMyREhFblRwcVpvMmJfMXRrRmVnZUJNSFRDRUdoUkRLTmpzd01lM1VNSUQ2N0I0V2wxLUxJSzdSa3MxVGNHamNrQWNJYldNQkkxSXJ1akREcjc1a09PQjZVaGN5ZWN2V19oOXExLTM4Q1JpZ1FOVDNNeUJqaGxVaGpkRnNOczMyOUo0Y3BUcHpuRWs4VFlYcE1zRGswVjZoN3lQNGdDZjB5azFBZUZVT1JrUnh2S0JKNER4alpVTEtZOEExbGJiSWRJcGp6UldOVFpwYzMxaHFGSHk2d090OU13aExyMDJUdmNoN0h2QWVxR0Z6cF9MZDM2ZWxCS2lJY0hSWXpsRnJQekdJSHhn0gHbBEFVX3lxTE0yODUtZjRLZV9SQXhnSXV4TWF5dnBBdXpwN0FRcVE2MlZYWXhQTy1KeW5jYU9ZaG40WjZGbEdNSEowQ3VEMUFPelVYWmxtaTBTUzFBd1piMWVOREtCSEpNR2l6ZWZWLTZ3blNETVhnVDloYlZiUG5EeVV1RGlUQjBkRFhVVGxrX1VFMnhxTm1ONEdoVUdfZXctLXR0alZVWE5TckpIcXMtLWxmZnVPZENzYWYyaUl6RjRoTzVBeF9sWTBIM1dOaHFTbWRaa29mZUVGUS1KMXpqM3g4WXJXQTRjYUg3eWxKNUxJMU1IRnctRVlNUkxaTHFqeERaYzBLUnI3YUoxYjRENTUtTnNQaUJDa1pNYzh1ZFBsMUxPajhJcDZpUy0yZzBGNndqcjhoZVpFUW1mQmVIRFpLSE5lTHpBdUhxcjZrMVA5VTl1STA2ZDhldGNYbXlXcFdFY2JjVFBnV1ByV3dyQzVNQnI5TmJLMk15eVVHaEJFbE5kSkd2UTFqaWdnWGxKNG5Hc0VzSmtYMnhLT05RUWk1Vi1SRWlBOUdrLXdManZvY3hmSTkyS0VYQVVLUXF4c0c3YUx2MEJrcGJyWFktZWE3NVgwWEpDQ0lMTEpINmxoMDFycmR0UDNpNy1rTllGWXQ0ZWdZaEU3TXNIRnBDT0NHT2phT2pYU2Vlc2t2WmFqQU1FaGtjMktGMmNQUElqOWhoNUtOZi1WZndhcmlYcnVFMXZkbmxFcjdudVBFT0dmX1RRSjBkSGJSbko0N1VTXzJsRGRVMUF3N1pXVzBpNU1xYw?oc=5",
@@ -2216,25 +2216,25 @@
         "content_hash": "1f065abf1d49e80bf42fc775cc47633138dfe1edb99340048b0a77a61c1f045b",
         "sent": 0,
         "section": "middle_east"
-      },
-      {
-        "id": 7026,
-        "title": "ترامب: لم أعرض تخفيف العقوبات على إيران - العربية",
-        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPaEJmZzltd2ozdkRxYjBEY01Lc0lqLUNzTjgxTVhkQVhzNHFDVUZLbTQxSU85M25KcWFYTnpMUm5BN3lSM3R6azVldFZxSFQ5YXp3ZV9PajV6dG0tMFhORjlBRGJrUjlzeWlMSXROR1BSTzlwWlBWRmw2RUNIRV9UUGZLZlJNMEE4eS1VOEV5dk5ybUNFTGo1bjR1dmVyZ2ZKb1l3QVFmbE43U3MzR3l2SDE0TVBuY2g0UzV6MGFOR1RyRUEzdFBxcWlVWmRINnhZbHdleUFpQW84a3p0UDRjNVpxbWtGTDRUcUtDdjJfdkYtOTctV1RCMi13T09sa2JrYWJFZ2VHdm9fc2hsZ3lyLVZ3VzBCOXdDSThzaG5FcWN1dlZWdWJmNlFmX2tBR01uY2xUamQtWEtQSk1vR3Q2V0drV3RJcnVYdVdtRi1HaGpOOVdEYnZTOF82WUHSAeICQVVfeXFMTnJXY3FxbEViWDJmaXdWTWRSNU1Ub1R3dVRxYmdYRXdXWUd5dEUtbjBtY3dOOFdWNkFHM2pxUUJpeTlKM2k4LTFpcUZmdERWWE5ZSUhkMEFGanNOSHZtNGVqZ0hzLWJFbFNxWVRvd0JqTlVISm82a0NLaDdTSVRlbzNnWHZDSHlWZ2ZyMXVTb3pwMUN2MXVuc2pmaW55RE1FN2JoVU9iSnYycmd0RzVlRmxKY3dXaTZJenh6bHNwajhLSDd5Vkp4N2NHSC1GZl9GMHI0eTNpNUhURUdhbTFVR3BaSUJ6dHpzemZWZGNFMGt2Mm53QjlYT29IVFIyRlJjSVIxdXpSOGF4bUctQzdqLUVST0o5V255Mk54NGZZQ1c3bU5qNTVYWXk5cUtFaldqT3M4Z29xUGxKd1VrNFV3N3hnLTN3X3NRcnUwb21zMHU3RFM5dDUxdFo2YTF5QnRCS1JR?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Mon, 28 Sep 2026 21:44:00 GMT",
-        "discovered": "2026-09-30T03:36:41.524382+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "ترامب: لم أعرض تخفيف العقوبات على إيران العربية",
-        "player": "",
-        "content_hash": "0af73922e060fbc4fc4e55b8552e9851486709507dfb01da58764cb24c6bd0a5",
-        "sent": 0,
-        "section": "middle_east"
       }
     ],
     "world_arabic": [
+      {
+        "id": 7240,
+        "title": "متحف بلا تذاكر: لبناني يعرض 45 ألف سيارة مصغرة - alquds.co.uk",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOYWUzWjhFeldoVmtfV3lXUzd1TzVfNWFkZEVOMFJWMFlzbmxJQnVVTmx3cXdIeGRGT0hYbURmUjhTSHMwMjQxQlU2REEwRGNib2lNRnI5WnJCNnRUZHBkWUVhUUVmVlpBSUVlbExSSW00emtaUFJVSnhBTDlrTHN3RXlxSFFzMVJVa0pFcWFZRzB5Q3dBak94NEZTemJlc3dEbFA5NGc3bDhDV20wQUQydmVoTG5pOGpEVjRUZWU3Ni1ibFRhelJCRzVwNk1fcDZtY2kzYXVuZnM0anZrWjVHR2tIXzJEN0p2WFVPRXZJNXNXRVlvMWY4SDVQZC1wdGJtbTN6TG1FU1Z1YWFfbkJwZGJWWDhwQ29zWE1oTTNCRS1XeXJTNnExM1ctU3pTdm1hZ0ZIZndCdjFWdWNxNU9nanFKNlk?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 17:11:47 GMT",
+        "discovered": "2026-09-30T17:46:18.017924+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "متحف بلا تذاكر: لبناني يعرض 45 ألف سيارة مصغرة alquds.co.uk",
+        "player": "",
+        "content_hash": "2d03c3bddba036e02c10ee6502ffd51eaea1fef1b03b13197333e6ffd3d6c8b9",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 7169,
         "title": "وزير الداخلية الجزائري: عمري 60 سنة ولم أشهد في حياتي هكذا ارتفاعا في الأسعار...وهناك جهات تريد الإضرار بالسوق وسنتدخل - القدس العربي",
