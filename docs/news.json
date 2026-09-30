@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T23:29:02.215441+00:00",
+  "updated": "2026-09-30T23:43:17.828882+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -870,6 +870,22 @@
         "section": "sports"
       },
       {
+        "id": 7342,
+        "title": "من الملاعب إلى توصيل الأطفال.. شمايكل يكشف معاناته بعد الاعتزال - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPQm5rMnpyQWdUVFZqSVJOT1RpeV9BSTVqa0JDd1AyaFFIelZVU1RuNE8zbmR0LUJFOEFJamZDUmpvUGRiUnozc3I2Ny1Qb3JERlBCTk1mbjhwRmFnX3hlUXVvby11Z0RNNTczUWJFaFlZTVRFZUYtZ0o0Qk9VZ0tzdkpoN0NFbi0zXzVNSGpjRzJXNENlS3p1cXZRNXVwWlZwT0p5R2hGQzBtMzdCOGZidDhsb19VV0gtOEF0TC1OZmtoV2FpeUdhQmIyTzVpQWRpRmhhWGZfQ01qcEdhTDhoMVR1LVBCem51ZWZOdWRzb3JpSmRfamdiSnhHTFZhSU5IMXpTdnBONzZXYy02S3FNanB3MXJ6Umdtc0HSAZ8CQVVfeXFMTkxsYkhCbFhOanE4QThJTU9MMzY3OUdPYXVfVkxxdTkyeGxkWThkSTZvTk96d0Z4NkxmVjlYM3VnTUg2NXBhMlVlX2NHdk1EV291aTFYTzJUdVFndzdFaTVpYzhjR2plMjlxdklfaG9oVlpMemVRS2FHLXJVWUtWejJjbXQ2LXR1bWxaRzNjMjV4RV9fRTNCaGRiUEZiMnl5ZzBYWDBGQWY1Zk1QVkRiNlh2a0VxRFdmSGlWbFd3bXVTekl0NWt3MV8xRGZYWUxTTWxtYjJmVjM0YXRLZ1pNZ3llWWNNcGJmeVRrLXYtLWx4M2hSUTY0bFhFZnhud2RaUHJDeGVTTG5WNE9Ra1FRbU04MGdUY2EyYnJiTkFQZDQ?oc=5",
+        "source": "الجزيرة الرياضية",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 20:06:43 GMT",
+        "discovered": "2026-09-30T23:42:53.491095+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "من الملاعب إلى توصيل الأطفال.. شمايكل يكشف معاناته بعد الاعتزال الجزيرة نت",
+        "player": "",
+        "content_hash": "c047cf722343235f2460a4b41435be7211bc70fac1e86ffd49d7367154103729",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 7291,
         "title": "باطلي: قدمنا شوطا ثانيا رائعا - جريدة المنتخب",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11R1dQZkZTSzV3YTNaTEJ2Y1E2YVprR0x2NWtOTGQwbkxiSjUtX19PNXNaMEdNU244QW80WElDQ3ZMN2VPYWcxZEREZ0ZMelYxTzk2Wg?oc=5",
@@ -1394,22 +1410,6 @@
         "summary": "مباشر تصفيات شمال إفريقيا - مصر (0)-(0) تونس.. بداية المباراة FilGoal",
         "player": "",
         "content_hash": "460d1f009a65149ec7dffff488ead3ddf3b464c30bbe69fa769347b831473033",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7260,
-        "title": "بث مباشر .. شاهد مباراة البحرين واليمن في كأس الخليج العربي \"خليجي 27\" - kooora.com",
-        "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxQMVpfV051TXpJd21pSkw5R2dVNy1yUmZ0WW90TEdFWEwxYW5kZXhZUkJoa2JjWGFFeURnS1dCcm9CWEVIaHJ2clNPc1IybWgtWl9ZRHpOQlZDT0ptOFdEdkVmOXBuOW1Hd002NDVabDFITnhNVFkxSDZkREIxaUVrbmNLV0hVdWlONXpMeDY3bmExNVlZLWR5U1pUdmZwWUNrZ0tIV09mbFZPWmRLM29NTGRiQVdYb1E4V2cyT0ZvSVVPTjJwTUcxRGtLT3AwYTRXT1VCQVg2dFE2ZS1mSkxTdGM2REQwRF94Nm1BckdhLWFCVVJPaUJoX2k3OWZQZFhVdzFiek5HNDJka0h5cUxIOHV3MjlneXAzMmp0X2RScFlBT2FTS0N4dWk5NFQyNjlxZlpLQ2xkenlpWlUwTkZSc2tnRkI2LVgyTnZ4YUpJZVhBMnZXVTVmY2dmNjNsSF9FTFc1U21sVnF1QmRSdjVfNUFyNW13dlNPWUlNUldHVkNjQ3hhOTVpWUR1cVFsZVp0ZW5LdDctZmZLM09zSGNlTUlmNzZ2bVloQ1l4cWNlUHQ5M0M1Z0JBZy1wMzJ2ekg0b1k5eXpVdko5bWhEblJ2MGZnQ1YwMGUxVG9OTHFtN0RVWnZzY0tqNmRfMFBfU0d3UkRqeUlMRVVaajY0Y2tQRks2d0FjZmpXb29RR0RkRjNtWnJQMGFEZ0g0QkFGbENjN0swUklWZmczTmlXdkYyWjRDckhqVzN4RzdVdUJRRU1OMkZES0dGbUJBYlFrenJVSWpiQ21yRl81ZUlubnZiMG9EZUxQZlJTRWd1Rg?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 16:54:35 GMT",
-        "discovered": "2026-09-30T18:56:05.057325+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بث مباشر .. شاهد مباراة البحرين واليمن في كأس الخليج العربي \"خليجي 27\" kooora.com",
-        "player": "",
-        "content_hash": "4f7eedae9b4c7f784b166b738d8ff0ae2ad01c7e1df50deb0551977a340a7712",
         "sent": 0,
         "section": "sports"
       }
@@ -1960,22 +1960,6 @@
         "section": "transfers"
       },
       {
-        "id": 6841,
-        "title": "تقييم مذهل وفك العقدة.. مرموش يخطف الأنظار مع منتخب مصر أمام جنوب السودان - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxQSFYzbl94dHJwQVI0S19KV0tJRDUxVWhxZEZ0WmQxeXpTZnQzdk9aZ1N1MTN1VWl5UURYRmRId1FJekxVQi1OQXpzd0NPOTYwaTV0NlhScDloVjBkRXZPS1BiRlFiVWdRZVhQdE9ILUlfMkFsam1DZnZHeEw0ZEJ3d01MOHBlR2p4cERpMS1FTGlQdVpvZFlOTW80ZDE3SkRLQzhPYmtUS2l3UnBOVFk3WjFPZnFxM3ctcVQ0aDE2Zk14TmVDc2hiV1BqVXVnNHdNdVM1eDdyc3ZxSXo5T0VBcHUzaW8zNUptQnlpcEZqTElJRkoxd1hseFU2cGFMVnlfNmFKRlY2OGE4V21jbFdadE1GazJ0OXNxNzRCT0o0ZEo3VmFZQ2pSLThmV2gwekZkNlBTSl83UGtyM09DcWFtcUZ0N205enYyYmdmbFhtdWtKTUdkWHBRX1lhcjFBUE9xT1g1c0FzV0JmRUxVemZ5QlVtdWpSbVlVRFg5ZlAxVmJZM0hvaldiLVRmS1B1c05yY0VoQUw5dTZxcGtnenRrZmVaNW1Vcmc4MnFzWjlXNWRhN1JZY1ZPRmRxd2RuVFdJSDV4YnMzRGdSdklMV0lJVU4xQnpZcmxnZDdzZDVjZDA5bFI2a3d6LXk5WXBMSEJyai1seDI2R3lXMzdvalFaT0IxXzJKc1N6OGtuZ2stR1g0aHBCSnFsajBaVjNiRGV6V3NULTk5TnZZa2dTLVU4UDBEd21ra3JvdFNhLWJFWHo2U0dZNE41SkNSVEh6MWkxUWfSAdcEQVVfeXFMTnJRVGlRZkFHUUhjd1dHLXZNeTdsYVp5a0w0b3B6SEVVLWJOdzA2Mm1LTjlvX1ktVzdpZ1RjMExlTEZaNFFXbmYwbFVoVkVpcjN0Z0VQekxWVWZuN1VsWGZERkltOGNIT3pDUXNkcEgwRi1Razl3Zmk5OFlLazVfcUJMbUFGekhqakNrTEVPaU9JWUExWEtvcHEySGdhV0JvZ1Bua19jbXhnazdBUGZwUWcya2NGeW5mUFRhcGx0bnN5RHJZRi1vZ0VnRkFkVFUwWjFqR2syamE0T0dHT1VHSWRlYl9HLWRUeFlHbWxMZTlZTEhKckt2cXR3aURnZVV2ZEltR3hQS0RDU1VOVUtsSE92UksteVdVbGhaU1ByTEw0ZUpSbDJ5QkRCQ01GWTJrNzFEVjVQSDJiZXlnclNxWF9qSjllbUQyWU1GRkR5WG5kdkMxYS1fOTJGN1kxLTVJQXNRYW9vSWlEVk1qZ2xERUVRaUtRQTJEV1ZYdUg1MmFrMlVxQlZuVWxGVjNHM2YzaklCemg1bHZTc0sxNFcxVmdreW5wMkhtN2xUWnFsajIyNkZsSFhPckZsdndhTWhYaVNxcVhZdnJocnVOTDdxUlJrampLcEpUM1RUTTVwZGdqbXBQRldNa0c0cllqZkVUM0tBaFBQUXN1cjJLMnM5c0l0SkVOUUY5c0Z3Vjd4X1Q0b2JYWXM5cU5FRnlhb0hnQk5QSDhLREZ1bldIMFB2OHhDb3ZpUDlnX2pzblVHQ3lTakZfaHlpYzNtbENialZrdS1TT1hmQTA?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 17:26:00 GMT",
-        "discovered": "2026-09-29T17:52:23.042725+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "تقييم مذهل وفك العقدة.. مرموش يخطف الأنظار مع منتخب مصر أمام جنوب السودان يلاكورة",
-        "player": "",
-        "content_hash": "16e79fac3eea21bea5d4eb535669e6146dfda36bd1b0d4808e3ac7c29b153906",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 7130,
         "title": "التحضير لها امتد لعقد كامل.. غالانت يكشف عن كواليس تفجير البيجر - العربية",
         "url": "https://news.google.com/rss/articles/CBMipgVBVV95cUxOcExuc3FTQ2szY3dIaHFDQ3dLN0FQZjFLN1RMWGcwRWhVM2NLUWd0dFQydGw2eXBEa1NmMmhBOHNNLWZtR3o1Zm1oVk9EU2FFbkV3YV9RdEVWMWhDTmRuSllVaXFfRFBfSl90Y29XemFtNmMzY1IyM1dMUmhULUc1YzZRVld3QnJDTEpPbjFGY1dmbmdjSm5QdFl2Y2FGUHBqMW56T09zS1UzZmsxVHBKVlppa2xaclpOcXlaWU5NMTUxMUJFaGdCSEM2ekczWTdIWVFyVWFoUmVHTlBuLTFsOWZjOEhvQ1ZuWG1DNHR4dldWa0w3MDNXWFJnSEJ6RTA0ZnFiS21lZmhWWGVIdnV1cFBJVkttNFNxcWJpRU9wMzdYaXpqMTJ3a2JEWW1JSVVud3VhUVNlS2UxNUpsLVBsenBLWW81M3VXOUVucXNMZFRjQVhfX1B1WmF0aTFfUWpBM2hndkY5X3hmSGIwRFpDSzZKeHhqa01hNkVvcm1xN2ZTek9wTjNMVm1PZXFlUTQtVHBnSlBxQ3pZbGxPcXVIQjhCVzFfQ3loLWJ5OFlSM0dDeTAwM3RUNGtFTGRzRzZFNjhCak9CMFZrUkF5dkIzeDlaV2VwUHd2eHluTm9mdDc2dmRRekRUUkNfcm9DcExwUXdhTUVPVTBLbjFlYzQySGlOTXFiaUNUekxaLWMwYVI2TTBmeDExdkRNLUxHdW8xaXBiS0JOY2Q0N0llbG1QdmNtLTkwdzMwbFVBVE1IbUdBSHJqYk1tQmNiUjFGSVViYTFVWUx0OVZ1OXZjcTUzNy1GWkhEbFFteGRnT29ZQmVONUFncFhEdm8yeHJxVkdrWVl0WFg2RngxbHFfLWxoZ2o4aXd3NmdQaFRXZGxBREdFSU1UT2fSAasFQVVfeXFMTWJIaXZMQTE3UjF5NC1tUUNkYkxzbmtiX21qQ3hyd0xqUXh0enZSZExYTjE1WFVabXVsWjFZU0FXZHozSjFQeTE5M2loTmFnSVBCRTV4SFdJQVJEbThjOFVpaUY1c2pjcU9xQ0lHbWJId2tzMTVxd1U1Um9YZ0lFTFJKYk5ZRUotVmx5Z0UxS3VuZE1tQkQ0WkV2TDRFRlkzM3RuT2REY1AwUXVmdVpqLWtYdDUtT2haZHNBU3hfLXdvUG5wamtBUm1xOVdTSHRPUFpDcVg0TFhFZFZmc0lfOWxvRkE4S0taRG1Nd2ppelJ6MXhJT1NFYlZXNEE4MnE4NDFwODhPUk9NZXc1UzVRMzZmejd3VVVCSWhyUVJtcldpa0hEMWtFM2p2Zm00ckYxSERYTDl6c3A2VTIwRDlWTzFFMENyOXhHd1NENHh3QXlZcnVRMl9iajJTcS1BN0NuWDRqMHdyMnJ1dGR0OHphdjNMZ3huUFFTN1p3WVdqUkFmWGQzWnVjb0poOS1GY3ZuUUNYSGJkbVcwY0FMTjZrMTRNNTZXNFo3dHpISjdObHBGSmF6U1BhcUhZSlRkY3ctcmNfWGpNZ09xaks2dElUZG1JVGExV3JXNS1DR0FDeW1aZHpUc1RNWVA3Mktua3RiQjQwajNLNjItamNZSi1ObUJ3eTJ2c0UxU3YwcTZ6SVJ0RzUtQ0hRa0lRXzF3QW90cm5Mekp6TWxjX2F3X1d0Qko0OGxKcmYtRlZhWTBUbkw1TTljUTc0QjEyQU5ISS1BS3hNVzR0bVNSY284TnJKY2s2cHNISURISUJDLUtJUmNmMEs5Q20xYnoyOHdTSVg0TEJFNDZpWlBTa3B5QjZVd0E5Ny1wc00xOS1UanBBWG1WZWlGcWZtSTJHNFU?oc=5",
@@ -2068,6 +2052,22 @@
         "summary": "\"مطارات الدمام\" ترسي عقداً بـ21.33 مليون دولار على \"الخريف\" العربية",
         "player": "",
         "content_hash": "5a394337f3533de14ff03bb979f8623393554b8769b2836d27aefc7ed6655d66",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 7195,
+        "title": "أوكرانيا تدعو الفئات الأكثر عرضة للخطر لمغادرة المدن قبل الشتاء - العربية",
+        "url": "https://news.google.com/rss/articles/CBMi7gVBVV95cUxNN05CSlcwekxmWFl6Z1JWbXpTZFlmT2FwSEJJTFB1RTFVbW5mUm5mNmFYMUp3SG5mNktHTmRZSVRWczRveWs4dEdGWFphM1JFbGVld3FlbG5uajN4OHg2WkNCN1pyLVkxZV9qVkU1bHhYbFlmZzcyWm9Sbk14c285YV84TWRQcl91Q3ZRRXZjU3JuY0cyM0pwNkphUDJnb19FbWowVnlrdUF6akhXZVdxeGRWajFQN0NjXzBuTGo3U3I3ZUNXVkljM1ZXMzVpVlYydmNqNnpoY0lqRkNPekJYbS1aVDVvU2RoQ2FmM2M2aEtDRThydXpNcWhVbFpOb2YyV3lmOUxvOV9LOGROVGtMRVRkaHNlOTk1aXB2am9oOWxBRS1ra0o5azVpRDd3RjBOMHdVTjJXZmZraTJaY2hmUW5vdWVLQy01OEJqZmc5R3lsd3U3eTF1UFBqdmJNSE5uLUMyUDhNUEdFOWd0RXhmWnBhdUFjSE9wc0RNUnl5MjBUSzd1U1lkR242bUZRN0EzU1FMT0d2UndlUU50RXNTR3pyazk4MGdIYXBjN3lPY1FnRC1lczh4UUphczNuNjlMM1h0THBUM3VSWFJNZXM4WGMxeW1UY1lLTVRVOElnYWFMVHlYZkdYT1RRZmZEbDlnUkF2a1dZY2F1VlJXbW5hUFU2YmdxbFU5cjgyYWh0Nm9rclR3NVljYUlmeURNWVE4OTZKRkExUlBkLXNMYXdudFhfbGNpLW5pZlJjSkl0d3FfdUFqN1pUQ2pNVmw1QjV5cG83TENjblI5dVBZN2thNVdyYVpoLUxSTUZQNTA4QnlzVGNMQnRXQUhyaXhBWDloZEJkWFFWX2hKTnlrYUZOejVVM1pMNkdsOTRLc3hBS2p6b0FJNnlTeEJaVjFtOEJicmdtVzlOd2hMVU1nNkpueVF1OGNWU2YwUzVxR1ZDRHY3RENIa0tiaGVNWTRLMXZqZkt2azAycVlsMmdQNnfSAfMFQVVfeXFMTTB6dmVMaDZ4aWhkWGtXandYNVZPOW95X1Z4ZzZsd3hnbXVNVWNXbGF4SXEtckE5ZWdOYURjaWhJcFFiY0IzNFR3Zm5hSUtoSnhNNTczeThUbk1tRl8xMy1waU00Y3lCNjlrTk5hRExPdmlKRFB6WFdrSnhqTFNCNDRCVFlWT0txU3VBTGhjdWtkVEhBSnhtSjNZc0dVN051dHVMcGRsNmJJQVEyV3FUejFaQWlCQWU3RFpHb2diUmhCTFVOWlVUelR2R1R2NjNsYzBsNmlCc0FOSHhqQzZEcVV3LXpaNzNYU2R4TU9mODQ2ejU5SVZpdFlLcEZacWdRUS16elAxQldjUTVidnNiWXBRUXdRZ2pxZ0xjMFhkblNsUnFxQl8wVDBQZHhFMmRMb3lxb1U4UEx3cmhtMmdjclZrV19TdVk3X0NCVXptWW1MSi16RUVpMmN1RnZZUVFncU1hWmFUWTY2b1NQSVBRd3J1eF9KbWlXNmxVMTV6UTlZX2VBdkcwRDBDc3luVGx2S3pBcGRJd0lKWEtvNUljR0dUbzVtbVFKN2U3anRlYlp4TmlUdjlqX3VmRXluM2tsdzRPRWo5ZlVENXVEY0c2bl9iSGtBcFRuNTkyNHBOMWwyS2V1amNkd1ZTYjdSWU9pRFNURUFHU3ZSZkxxNkJjSkVQa21aWlJQcVcyLU1qX2N4ZlNULVRCb18zZERvRU1fYWVSUjlGWjVsdm9CWUZvSkVPYTB1T2V4VDNRX0ViempRUjNpakFFTHRvVkpsWDBkRl95b2hkUHN1ZkMtMXhnRHRXYy1wV3NHT2h6Nkc4Z2hKMFE1U0I1eHEzdk5RMUtQTWxrSGZ5blp5cmUxWkZaaHJZUHpHamQzNlp4bW1LZU1VZmNzSVVabjZ3T2tvOVJ5MEkxb0E4Y2hIOVpadFl6dlRtY1BTbVRUMVZzWjlyT2xDYjd1U0hEWE1GLXhCRXBXeFdkaHUwMjBNQnFVdGw3ZXVueFk?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Tue, 29 Sep 2026 12:39:00 GMT",
+        "discovered": "2026-09-30T15:13:35.775157+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "أوكرانيا تدعو الفئات الأكثر عرضة للخطر لمغادرة المدن قبل الشتاء العربية",
+        "player": "",
+        "content_hash": "6fb5bef62e4025509b8cde7134cd291f46766fe1024fd04d9b8a2288b7887f78",
         "sent": 0,
         "section": "transfers"
       }
