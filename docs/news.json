@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T11:12:27.676035+00:00",
+  "updated": "2026-09-30T11:28:43.310106+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -288,6 +288,22 @@
         "summary": "ملك المغرب يعيّن فاطمة الزهراء المنصوري أول رئيسة للحكومة في تاريخ البلاد.. ماذا نعرف عنها؟ Euronews.com",
         "player": "",
         "content_hash": "342fb52986d1a876f378ec1794834c961f256ed1a0dc3775de55e3a2bb79b5bb",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 7137,
+        "title": "أول امرأة تتولى المنصب... من هي فاطمة الزهراء المنصوري التي عينها الملك محمد السادس رئيسة للحكومة المغربية؟ - france24.com",
+        "url": "https://news.google.com/rss/articles/CBMipwZBVV95cUxQTkFzdzIxazlwWjQ0VE95SlRhZDVvRTlhVUtZQ0NUWU5YSG9nZjRTU3RXWUgyMWI4S2NKaVlPZ2RXY3ZXRThYR0FvYTZIZ3JhSXpDaG83S2k5bGtjazhkWHRUQktMY081NFVaSkFVZlRUUjBkbVZITXNGcy14UnloZ1JMVnU4OEdPWl82QVdmMjJQR3pkaDBvRGlYUWdNam11QlQ3aFc1SndyNlZkTTFOM0JRSXJnTWVhdjVPNnYyVDhPUklxam1IV1I2OUQzQUVOUmdLbWpZYVVjMi02by1ZQTdWRHV2WnlkSWlST3Jwc1VnVE1qcU1FMzlEZHpTMThicVBZN04tb0RKVnNibGNMbVZvWmUza1ZPTllQVTAycnBFZG9KSV9sVmhiMTM5VVVjX1V4X0phTkxHdjFIZ3FVUmh2dDVtYnd5enJZSldtS0tMbmdGZndzUE41Y0FpWFlPb0ZYRVFKZEc3NjY1X0VMMUszZ0ZzSkVMU3kzTUJWd1NQYnRrOG9kb2plUkExUk9iZmhhZjU0bUk2dXNDZTJZT0pOUTRlSDVhQW1FYUxZQ085c19Kc1BfaE5oY09lcXFSaDRUaVFlUVk0bHFmZUpxY1VYRm4zX3JmRHI1ZXJZQTR5UnJsZGtjOS1VUmluWm9KT0dYeEdiOWxFcHMtZC1zYndPX2RtYXNJcnN1OHRxT3dpM0x6anEtcDlZdkZIcGkwTjNVLWJ5UWhLbm9DWjE1X2ZhOTVhSjNDOHg0d1pOQkw3X0NheWR0UlI5d1A2S1A0WklzRDJSbnBoNGJGZ2IxVlZ4QTU3YlVkSUQ1TjAyYjFFU3ZQenk2NE9fZlpQQWd3VTJHR3M5alNYN1ExbEZMRmFPd3FENzJ3ME1KUThrUUU4N0NQTGViWXRBTk9OeDVFUnY3WmNNamNKcGk4RnFxUHJXNTUtSlI4VmhBeDU3WnQtOVJoOFBCekY2THNmUzVIcWxRUUxURVBreG5XWWhuVjcxd3FpVkpNdy03NnZ4VlhwWm9QcjJsTHZzQmtiVHBueFRSeGhsVXFXOE1qSi1OX3RVdWpNUDQ?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Tue, 29 Sep 2026 15:57:33 GMT",
+        "discovered": "2026-09-30T11:28:38.834414+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "أول امرأة تتولى المنصب... من هي فاطمة الزهراء المنصوري التي عينها الملك محمد السادس رئيسة للحكومة المغربية؟ france24.com",
+        "player": "",
+        "content_hash": "c66028d9b7981b146e5223b52ebbcc0689532ae1c8833391cda9795fed4e9468",
         "sent": 0,
         "section": "morocco"
       },
@@ -629,6 +645,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 7136,
+        "title": "السكتيوي: جئت لخدمة عمان من دون أنانية - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95YWJ4NFhZTWlmTGt6ekIwemFpYkFMbE5YM1JUWmhHTktfRGt4c2Z3YTIyVzVKQldsb2RqUXpjeHRURlNJMlN0b0twRnVpMEFjT0NzZA?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 11:25:02 GMT",
+        "discovered": "2026-09-30T11:28:20.504315+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "السكتيوي: جئت لخدمة عمان من دون أنانية جريدة المنتخب",
+        "player": "",
+        "content_hash": "9f87741a876ad81b84b44a0c2006872fb32d8023d7313d8a59c398396c6b244c",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7134,
         "title": "بينهم يامال وحمزة عبد الكريم.. 7 لاعبين سجلوا دوليا قبل أنديتهم (صور) - يلاكورة",
@@ -1412,22 +1444,6 @@
         "content_hash": "62f0dfc0a4d0b81ad233a9eaed18a0f27ea6a0b7bb5c6cf9c7d35c68055135c9",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 7018,
-        "title": "شاهد.. يامال يلتهم الأرقام ويقود إسبانيا للفوز برباعية على كرواتيا - الشرق رياضة",
-        "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxOVy1ZWUZlb3BDRkV1VEcySlNXNEhObkExQ2tXZDhOMW9WRl9FQ2ZiUVN1UkJDeTdsUnRXTWsxdHE1cnd3SnRJTDA1NzBReFdYZU05aGU1cTZlUVRBUWRfQWFveVk2ZXJsUVh3UXhFa1NnRDRhRVd2RmlrbHh6b3NaX250SWVhanNjNnRiMVVDU1p3TnVvRXIyd09GaXZYRmhIeWNNcHNkdnl0ZFRKejY5ODRPUi1PNHJsVHlzUnVaaHVnWTJZV1BxS3hzNWtjTG9KQTN6WmxvZWwwZGNxZmJyMFJLNTJ0cWpSd2ZVUDJ5RXdNMGFEa05GdmIxdFJTS2ZsWjktVkJ2bzFRTklWUVJuQ09sd0U2OEhoYlpzN0U4cDJPUE4ybWZ2Q2xyaG9PNXpRZG1JaGFEcURObzYzbzd5X3ozN0dMNWFUVklGU1hfdkRfOEZOQmU4NlZwcXpzdHozX0U5SDEyRE10VkQxdUcxWTZKZGFYU3JTTUZUMTM3UC1TRWphREZFS2lwQnRULVQzbUx1UU9lOWt3WE9Ld3d1NVl6WWVRZXNseHFvRmJlUTEzQl9lZWNBYlNlbmp1NzJPMThpQnB0WnNRdW9CNDR1NEczTXRzb01Yeno2MGVR?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 20:53:40 GMT",
-        "discovered": "2026-09-30T03:00:29.517921+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "يامال يلتهم الأرقام ويقود إسبانيا للفوز برباعية على كرواتيا الشرق رياضة",
-        "player": "رياض",
-        "content_hash": "c1aa251e0da94212b1b9774de36ff58dc09919068a762496e91c6bbc204a40ac",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1876,22 +1892,6 @@
         "summary": "مونتيلا: لم أتوقع غضب الجماهير.. واللاعبون لا يستحقون صافرات الاستهجان FilGoal",
         "player": "",
         "content_hash": "87fcbf35f4ef4de6ad74127453e75ad2aff880907149fcf220caa85b144fa6e1",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 6637,
-        "title": "\"موبي للصناعة\" تطلب الانتقال إلى السوق الرئيسية - العربية",
-        "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPaWNiUnVGNXZ5SVJWUE5xR01xZVZDTHRSNXgxWV91bzJUcnVZOVFFaWdzWGhqWlVEN3dqb1BmTTBYMDBETXZQSlcwUC16QmFzNVI4aERZQVdHQmZoekhybU5IQjVwZ09CZng3YllmOXVPM0t2TFFPVWFJZ0RoRWhjamVYODBBZE5Qd3cwQ0NDSjYxZHBhZm9EdkdTdFVUYWRVTmpLNV9fTVBjZjladTFFcnE0SzN4VXlUdWdKRHRmeWo3eEEyNWlrOExiTnotcEFRRFlxdWFIZDlubk15MzJORU5IX2NvSmZHN3Y4TlJLRVRqTzd2SVpLRUhPaG9sNXkwSUVqWGpIcjB4NDlkVzU1RVJ6SzREM3JKM21samlXaUd5UGlXODF1Z3VVWGJlX3Q2bnIwYTFta2Vlenp3Wlh0aktYZ1F2TjdwRzBnR29jUUZSNlZIR2JIVkVIVzNnTHBkUWh3d2I4V1M5OWlSZERCeG9MU3ZBb1pfSW1wSEpxS1RKb3JpSXlobnVGM0YzUkZpbkdjTFNEcEk2cUVLRVZrRE1yV2VKR2xqTFhfZmJB0gGzA0FVX3lxTFBtU29sOEFuTktqNHNQOFZxOUVyS1Q5SzNBdlNIX1lQTGJ5OV96M3AxRUZDVE01bDlxZElIcmd0bVQxYjBmU0NlTG1BcTBiNTZid1hTalp4NmxuRURCVlRRMk9DYnFweVZEdHdGME42ZUE4aTVfSnFreGQtZ2ljMVdRX29UN05kTjFjMmxLQVlJbEZyTzFuRDhTZGNoUWFJNlhVWkZudGNNQ2NJS05KelNJUkE1bnlFMG5PbnFaUXA0T0kxclFoNHM2S1AyOGFndVJKZ0lDS2l2NzdEQ1IwdUF5RFlXU2djTTI5ZV82YUdVX1J4X0tQODl0cF9NdTBvTGQ3SUtnUE04bzQyV1VRbUI3U1h0eF9EcXNQY1ZsR2V6SjAzSHY5Qng1bFVDQmlIRVRKSktMR1RqR25HM0FkMWgzRmZxQWppaElaNzZ0SDd1Mzd4Vkoyazl4a3JNZHJuNjdDNHRiV0pfdVl2eXBjZENJdm82dmVNbEZSVVkza19Ta05QSWVXYmdVLVpQNFJBYkFHSlAta2xpUkJlNnJrbUJra2lrX0dfQVdiel9EbWlsajhJdw?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Tue, 29 Sep 2026 06:27:00 GMT",
-        "discovered": "2026-09-29T09:47:31.596924+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "\"موبي للصناعة\" تطلب الانتقال إلى السوق الرئيسية العربية",
-        "player": "",
-        "content_hash": "78fdf7c7d626fbda9e04676c0aa7204b554f93b973fe93d8cc9efbbc69008183",
         "sent": 0,
         "section": "transfers"
       },
