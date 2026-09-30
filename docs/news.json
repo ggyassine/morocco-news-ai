@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-30T10:43:50.377973+00:00",
+  "updated": "2026-09-30T10:57:41.828636+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 7129,
+        "title": "الرئيس الإسرائيلي يهنئ المنصوري بتعيينها على رأس الحكومة المغربية - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vUS1TSlhmUkRRSnBSbExoM24wTE9BNmI5SmNqMVZhcmpZYml0Y0t2WkNpcWpMMmIwR3pvVExScGpmZ3NIaUlhQg?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 10:48:09 GMT",
+        "discovered": "2026-09-30T10:57:21.227580+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الرئيس الإسرائيلي يهنئ المنصوري بتعيينها على رأس الحكومة المغربية Febrayer",
+        "player": "",
+        "content_hash": "a7242d524775462680665ae4bce3da4e2f3147c6e71bf8bc4d7fea3d04951a5b",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 7100,
         "title": "العاهل المغربي يكلف فاطمة الزهراء المنصوري بتشكيل الحكومة - سكاي نيوز عربية",
@@ -610,38 +626,6 @@
         "content_hash": "5c3be257201b84bd4198dc0ab4e44e32273995d7b727cf082ca9b461ea12a49e",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 7049,
-        "title": "وزير الخارجية التشادي الجديد يجري مباحثات مع سفير المغرب في نجامينا | Page 5 | MAP - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMiyARBVV95cUxPZWd0TllHSUltdVJmMXNsS3FaQjFLa0VGZmd6ajVhQWpfNEFnRUx1UDlPSkVnRGFnZ09Jb2hiVHFDNVVJZmpwNjQ4RjhfQ3hiTkE1TXlCeEtDRktnR0tpdVhxNmFveFFmdUMxR3dYR2NpYVBOeFdyZzRKNkphd1JCTk9UZ2g5MFJmVTVuZVJxWVZ4R19aOVhfUTJEaTBrLXNjSU5Vb3NNaXVDdk1sdkdEcDNxbkxFTmlfVFJxZnEtdDlXZHdibUVkZGlxM0RvNC1fY0ZOWWp4Y3NrcEtSSWJuZnhnclZsOUlmOHp3MThJMkV4MktVZkVwTll1eUFRdnM1aEk4YzdCUTk0bV9aT3dRMl9UbXdUbW50enNFUGhuZ2x3eU5yVW51QVFDUkZHT2JKWndrUlFOOVpjN3VFZTdWalRNY1ViaXoza3lwNThuS2NsYlpDcGhBU1ZBbWhacEplZ0V5Znh0UFFPeGVoSzhSSmRfdzJSdWozeFM4VkpxeXVYLWxjOXA5OWY1bFZqNzIxQTVvWkRaWXFOSThuT3NxLUh5Mkt4WHh4LUlzZ1RSVnpGY2ZLbDM3cDA3bURxQ3ZrVGpqQXVhUUdieXFhV3pqUE9IZlRxc2otV2FFS21VX3Y1QmNvZFpBU0JaQml0S2RoMEh2eG1NTTVCRXZtblo4ckR6cFdhOEVVMGxqRzVnVVJVVVdpWC11VDM1QUVBTnk3QW9VQWt6S1VoamVyV19YV2RHMUVXTExiTWpxQ3huNGNLRE9qd3A0eA?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Mon, 28 Sep 2026 15:15:20 GMT",
-        "discovered": "2026-09-30T05:24:04.564872+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "وزير الخارجية التشادي الجديد يجري مباحثات مع سفير المغرب في نجامينا | Page 5 | MAP | MapNews",
-        "player": "",
-        "content_hash": "cbc290fd90c936e52168eb35bcacc894ce739106e0ede724a57c0241a0d9062d",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 6839,
-        "title": "المغرب يواجه وباء \"كورونا\" بشكل جيد ويواصل تضامنه مع الدول الإفريقية (صحيفة سلوفينية) - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxNYTQxSTQ1aDdxWjFvSVFUNWRxdzVqbFduTHVtb0dteGN2RmdTV0FhUm80NVg0R2lCdHdEWkg5Q3ZCVEtsZ09saFRvZWtBeDRfVHlIQmkxTU5pM3hsWHhvNkdoMndYNUV4M3RsVVhpc3kzbjZtZm9GcVl0UjhnMlZmMUdwRnVhbjdPZFZ3TURZU3h6d2hGOGlDVlZOLUw3aE1RRTZWY3laeW9vSnM5RE9iY2NnOVM0bGhhNFJQcnhtY2IyZFp1WmFTa18tTXVSZ01KOHhuZl9UX19tZEJ2dGtodWdYNzJkS3hSSG00bFVySm1OTkRlSHBVbl93Zy1oUGZMYXpRMHZzcG8yM0p4WDdwUFNod0ptSDJrdU5BQ2RPUmttWEJUNUFNTk5wTXVFd3hfaHE3VTV0Y20wNTJET0V0WjctN1FORVNjMlltUEk4TXM2aHhKTGF6RXgxNU1QeHBFekNESWFOS0l1RVF3SUZ6d2MwdjBxNnhiX0FtbndaUmhZVExzdTJLeVZXemlMNWhrb3prRUtQTlYtRFhyRWtuZURlMk12WktfQlkwTjRBWGU3NEhxc3M2Zjk1U3g0cS1fRmx6dzBmLXF1WkVycFN3dXFzX2hFaGFWSjAyMl92c1hKM3NxQVV2Y2QxMjF0OExLbHQ4SXo5S2pGY0FkZ2llSV9tTW5sUmhvVlBrRHRKc0JFd3dHd1RLN201THhJZHBMaXRDOUVKdy00NUYtdEZhd3ZNQXNBOGF6RE05cnJzSDctcUprLUd3SllsVmJMQ08tVnpLV2Vfd0hzVmlXTXVYR3RPc2lpRlRXcVJaX3Fpb3ZDNUtsNk1lWV9saWV3XzJzT0tZUzZlQngtMVRKWXhOenNoTUtrUHN0eVE2LU5VQmxqZVotZ3RhM2VR?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Mon, 28 Sep 2026 14:35:21 GMT",
-        "discovered": "2026-09-29T17:52:09.345572+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "المغرب يواجه وباء \"كورونا\" بشكل جيد ويواصل تضامنه مع الدول الإفريقية (صحيفة سلوفينية) | MapNews",
-        "player": "",
-        "content_hash": "2bbeedc91039046410447f67d7081e2026c3bead6803a3c8644dfe1a25fae169",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -658,6 +642,22 @@
         "summary": "بعثة الأسود تعود إلى المغرب بعد رحلة شاقة من جنوب إفريقيا جريدة المنتخب",
         "player": "",
         "content_hash": "74673e94b18399d782e0cab2641c0fb2e46284d6de29fa81bff2d12bb1f7e2c2",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7132,
+        "title": "الليثيوم والفحم يتلاعبان بأسواق الطاقة الصينية المضطربة - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOZ3pqdzlxTDJJZE1hTUVXZy01enRxTXk4V2wwcFRnTzhMRDl0MzNkTmxsX1huTHRtOTNVS2dXR1ZjX0ZIeThkNFpEb21lbmNxM0VXcDU1dmhMalZ1dDVJZEhVRHowT3hISF9KTEFkT3d3X3FkZEp1T1RMdWVuUjNyUnNsaUd6d0F6eUg0NnhXSGdjalhiR2NnTUx0TmZjLW1WYzRfdDIxNkpuWXdYOExFT0VBUG1GYnRPNXh3cUlqdG5LU2lVbE92UHhnSU1nbndYbUJOUTZEZHhTTmE2QzZOUm9MdkJ0aGtYaXhOS1IteEg0eDJwUUF2bDNCNi02WlprOEc2VTRqdTd1OW9ZelRRWU5rcnFtOXhoZFV4azdBWV9FUnB3RVZwaGhHXzlkRGpzMEdCS0Fodm1va2JCTjk1NnBJeHZNRjFSLTNiaGszcXRpMlNzNTZBczZxdHVaVmRqYXJCN3M4NmlzM21vckJ3cURuUDkzSkxsMWZiSUhXSkxabnVvVjlPM0QzWWZnU05IU011a0R5WXFMVlBEZ284azUtVTlTakVtSUpvUEREQkgwODhOMDUtV1RIZFgydm5nOUZFaV9BRGpRTXBGWmRfc2p6YjR4Z2pQZ3fSAd8DQVVfeXFMT2E0bmMwWDJ1MW5MTFhHMUdmZXY0eTdXeGduYWlzRUt3XzRET080eWlFamVEWS1XWVJSSmZydE9kbDBQX2FFeUxQdllGdWlJSWs5ejhuMXNJWUhrNGFsNWxlMWh3VnV5T2dIS0U2aGJaSGpFLVh2cnVHY3BidmdGQTlhOFV6bTRqUGxtd19SYUtBUWg5V0I1bk1zdmlHcGlhUEJud0pRMmhJUm1BcThXNzlLbHhUSV92WXo2X3VJZldadWd0RWpBN0oxSE90ZW1faExRN181SWtYYzRIN3ZZVzBXQVZyVXBackQ2WExDSHNaVGh6RVA1NDZfNlRZdVktUDVoTC1kMmhieG02d1NJcWM3ZVJpSXZLYlM3c3FJZ2lsejJiSUNKdVF0QWRrQTRfVzdzbkpvN2Y2bGpZeGNXRkJXb3ZzNTJubWdPQzlIZjVWb2xULS1GdHhWVXZOV3gtdHJseWRZSzBIRThGaHhKd2t0RmVxOXFtcUxDWTZ5b0tTUnpRN25acnV1c0JfUEZkT3ZoWTJNczZBNE1uSWhRY3YtbS02dlJjaXJpbGwySW5Od3BzQnhCZjdfOXRyZXBNUXhYSXluOHVmUGFXRzUyZUwtaGJXRFZYMEFYVUd0cTg?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Wed, 30 Sep 2026 10:34:35 GMT",
+        "discovered": "2026-09-30T10:57:37.110431+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الليثيوم والفحم يتلاعبان بأسواق الطاقة الصينية المضطربة العربي الجديد",
+        "player": "",
+        "content_hash": "b80dafd348faafcedfcf4b44a2b75d18061174bd476c8185cb0eb346ddca064f",
         "sent": 0,
         "section": "sports"
       },
@@ -1428,22 +1428,6 @@
         "content_hash": "6fad3bfe0651d57a07789b24da4346875f5f62f85d7128a28bc2a30dee108122",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 7023,
-        "title": "كرة يد - بينها لقاء الأهلي والزمالك.. تعديل مواعيد مباريات اليوم الختامي لـ سوبر جلوب - filgoal.com",
-        "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxQM1hpQnRHTGY4N1oxOUN2WHV3bVdyQWh4ODNnenlrQTEzOWpzUHZyNEpNaS0tekI2dllzRWdKMDdNZGpwanhHVmUwWDBLV0g4VEpuNnY5eXFUSG1xdTVwcXRRZ25ILWJQVEFOV3pERE91R3ctMmYzd3Y4X01CU1l5UVpMTjA5Q1hRNkN4UE9aLVpwcU5YZkFvSWFvczlydTFlQTFDNk5yNnpuU0IycTRXc2lTdjhRby1oSC1VaHN0TzlPcXJRckhYcm1GRVBmOU02dk1Tdld6RklyVkRlR25jT3JEQmFUd0thWFJ6MU0wVlU4NlQ1ekhwQVFuR2tVUHpKQlVnOXpOSHZRWkVvdl9seUlLdjJyQ0kzNlFnSV9IZVhlaXJRNlZpenpkc0RHRmFfNEpoc1YwLTlDdlcxWUR1QWpxNFl5UkxmWlRwZlo1T0FwcWpUX1BWRU5YU2Nxbl9FaVlPQW9WT05rRVJuMXdaX3FpQk9vclZFNWVfS1BrcXNmSUVXLU4xNzNacllWMGtIRTZfVG83SEdmT01VbG85Rzd0WVg2T0NZZzJKSkJTZ3pOZlp6ZXg5NV9vek9sNnoyOExubm96TnlVdWo1NXNJbzZXNjFMSlhDTlhUZENwVF9IZ2hzaWtsUHpkMWV2cW9BWlY5OGQ1aVJTdENWZWVpNzhva2JpQ28yZnlCLWpKR3lCQTFmQ2tiWWx6djdkbEVwUkFWLS1NN05xcHMxcVVhZjNRaFNfdlVUdkdkbDMtX0xfdU02NXdEaG9tWHUyUTlUOXlUVHN4cEN2NURTanNaVXR1YlQtUjdDN2RJeUdqVF91WjZOOG5DWElyR3ZZNVotVWtZ0gGIBUFVX3lxTE10WnVTZ0FTMmVYYWRqU1g3WlE1aENJbXRoeXRQRlJlQkUxY0hSTFVFdzY1MEs1OVluSWZ1MzZqaVVWN0VpRGNqUThUblNwYWhTd01vcDlXQUM4Y1pWNktFaDJ4dUx6ZFdDeDNJeVVKMDBKb0JmNHF1ZVJBSnJVb2kwcUUzMTg0SjF3VVhjaW1seG9fcENSaHpzSmNKX2NqN0hWdU80eDlqbGliRUNOUTVXM285aDYzOERBNDBXLUg5UnBXZWFxam9QYkgtcDk1cTdMQU9RaEtGSC0wOElpbi1pcDFYa2VxaVRwSG8xaDlTckpiRmdNVmFfd000RHN5ZkhvbzBGUDFNOWIxQllULXZpajBHZF9yMmhnRmRUZjZYVEtuLVlVRk9IaWl3ZkVnVG1Cc2lLMWN4QmFYRlUtR01KNE84amRCTlpObW5lcWJtUmQ2QTlJT1diejM0MmVYRkxHVS1fN3JFbzdaeDY1N3lDV21BY3VaTDlxVWF1NWM1VUhDcTY5eVRoRFM4amRTanNmS0pUUXM0cGdFNW9aQmU5alVvRzc4N2VuNV83YmtSWlhvTTVFLS1NWEVGeml1Uk9UX1NUTXdNcUpnZXIzekhONnM4Wnp1X3dHZlpKd25QWER5ckdOUXd1SXBTTlVqYXFRT1l4X0lfcjl0WE5KMk93MXJFSXdBM1RuMjBNU3lBVE5wVjF3SGczTU5GbEFwNGFvQjlIa080VDJOVVFiYTJ6V3Y2UXdQQlBfSzc2aEZEZlBkc0M2cldMc2J6c0pTMEdMdHA5WTFGejhIb0FBQ0I3S0NlTTBBcEhzM1VCRUs1bXF1NUI5bUhzOHFQWVpkbXNOWVRaYVJCSA?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 20:38:00 GMT",
-        "discovered": "2026-09-30T03:19:51.469699+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كرة يد - بينها لقاء الأهلي والزمالك.. تعديل مواعيد مباريات اليوم الختامي لـ سوبر جلوب filgoal.com",
-        "player": "",
-        "content_hash": "7d1ddfeb78c5edfe5cda4ce6d216eb2befc5127983473616797878171fb9baad",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1604,6 +1588,38 @@
         "summary": "مصر ضمن البدائل.. لوموند: شكوك حول إقامة كأس الأمم في شرق أفريقيا يلاكورة",
         "player": "",
         "content_hash": "8d50fcd910968c12b5718c5e0653154032cd428424037ff2c582b5f9984aab03",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 7130,
+        "title": "التحضير لها امتد لعقد كامل.. غالانت يكشف عن كواليس تفجير البيجر - العربية",
+        "url": "https://news.google.com/rss/articles/CBMipgVBVV95cUxOcExuc3FTQ2szY3dIaHFDQ3dLN0FQZjFLN1RMWGcwRWhVM2NLUWd0dFQydGw2eXBEa1NmMmhBOHNNLWZtR3o1Zm1oVk9EU2FFbkV3YV9RdEVWMWhDTmRuSllVaXFfRFBfSl90Y29XemFtNmMzY1IyM1dMUmhULUc1YzZRVld3QnJDTEpPbjFGY1dmbmdjSm5QdFl2Y2FGUHBqMW56T09zS1UzZmsxVHBKVlppa2xaclpOcXlaWU5NMTUxMUJFaGdCSEM2ekczWTdIWVFyVWFoUmVHTlBuLTFsOWZjOEhvQ1ZuWG1DNHR4dldWa0w3MDNXWFJnSEJ6RTA0ZnFiS21lZmhWWGVIdnV1cFBJVkttNFNxcWJpRU9wMzdYaXpqMTJ3a2JEWW1JSVVud3VhUVNlS2UxNUpsLVBsenBLWW81M3VXOUVucXNMZFRjQVhfX1B1WmF0aTFfUWpBM2hndkY5X3hmSGIwRFpDSzZKeHhqa01hNkVvcm1xN2ZTek9wTjNMVm1PZXFlUTQtVHBnSlBxQ3pZbGxPcXVIQjhCVzFfQ3loLWJ5OFlSM0dDeTAwM3RUNGtFTGRzRzZFNjhCak9CMFZrUkF5dkIzeDlaV2VwUHd2eHluTm9mdDc2dmRRekRUUkNfcm9DcExwUXdhTUVPVTBLbjFlYzQySGlOTXFiaUNUekxaLWMwYVI2TTBmeDExdkRNLUxHdW8xaXBiS0JOY2Q0N0llbG1QdmNtLTkwdzMwbFVBVE1IbUdBSHJqYk1tQmNiUjFGSVViYTFVWUx0OVZ1OXZjcTUzNy1GWkhEbFFteGRnT29ZQmVONUFncFhEdm8yeHJxVkdrWVl0WFg2RngxbHFfLWxoZ2o4aXd3NmdQaFRXZGxBREdFSU1UT2fSAasFQVVfeXFMTWJIaXZMQTE3UjF5NC1tUUNkYkxzbmtiX21qQ3hyd0xqUXh0enZSZExYTjE1WFVabXVsWjFZU0FXZHozSjFQeTE5M2loTmFnSVBCRTV4SFdJQVJEbThjOFVpaUY1c2pjcU9xQ0lHbWJId2tzMTVxd1U1Um9YZ0lFTFJKYk5ZRUotVmx5Z0UxS3VuZE1tQkQ0WkV2TDRFRlkzM3RuT2REY1AwUXVmdVpqLWtYdDUtT2haZHNBU3hfLXdvUG5wamtBUm1xOVdTSHRPUFpDcVg0TFhFZFZmc0lfOWxvRkE4S0taRG1Nd2ppelJ6MXhJT1NFYlZXNEE4MnE4NDFwODhPUk9NZXc1UzVRMzZmejd3VVVCSWhyUVJtcldpa0hEMWtFM2p2Zm00ckYxSERYTDl6c3A2VTIwRDlWTzFFMENyOXhHd1NENHh3QXlZcnVRMl9iajJTcS1BN0NuWDRqMHdyMnJ1dGR0OHphdjNMZ3huUFFTN1p3WVdqUkFmWGQzWnVjb0poOS1GY3ZuUUNYSGJkbVcwY0FMTjZrMTRNNTZXNFo3dHpISjdObHBGSmF6U1BhcUhZSlRkY3ctcmNfWGpNZ09xaks2dElUZG1JVGExV3JXNS1DR0FDeW1aZHpUc1RNWVA3Mktua3RiQjQwajNLNjItamNZSi1ObUJ3eTJ2c0UxU3YwcTZ6SVJ0RzUtQ0hRa0lRXzF3QW90cm5Mekp6TWxjX2F3X1d0Qko0OGxKcmYtRlZhWTBUbkw1TTljUTc0QjEyQU5ISS1BS3hNVzR0bVNSY284TnJKY2s2cHNISURISUJDLUtJUmNmMEs5Q20xYnoyOHdTSVg0TEJFNDZpWlBTa3B5QjZVd0E5Ny1wc00xOS1UanBBWG1WZWlGcWZtSTJHNFU?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Tue, 29 Sep 2026 15:42:00 GMT",
+        "discovered": "2026-09-30T10:57:34.757906+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "التحضير لها امتد لعقد كامل.. غالانت يكشف عن كواليس تفجير البيجر العربية",
+        "player": "",
+        "content_hash": "97607ba365ce028260c0a27660be2bc86b4404125a4bd8a2ab3b919360676718",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 7131,
+        "title": "البنتاغون تمنح رايثيون عقداً بـ20.7 مليار دولار لتسريع إنتاج صواريخ أمرام - العربية",
+        "url": "https://news.google.com/rss/articles/CBMiwAVBVV95cUxOTFMwZ25Fa3JqbEtiSFdQdktpbTYxUDkwM3cyZmo2VDhwcDRmNHMzUGU3MVBKOVctRjRtbWZlNElrSHlvaGtiRzE1RlU0NWxVTmhpMlY2ejJWZjlRZG9ZSUpCYlV6UXZNRF9Fb0ptSWZnQldjbVRJb250U252blI5N0twZHpEdWpsQWNyc2h2ZC1VRVl5aDVURlI0SG53aWpmQVJ4QjJOcm12WWtJLVVqLTNmNXZZSWpDT2c3dUZ3V20wMmNvMjdJcm0xZ0lCRmtPeGNDcWZsck9rTHZiYkp3YjdEaFZlY1phVXZ6RmpSakZGaVVFQURJQjBjYnJuVHpLQTk4VWFmUnZGMHBqczYyNnpwb2N3NnJfT3JBSEc4cmVCZEJyckdHUTFuM1FyakFqeW5TcXg3cHBNSnlNWm9EUDJlbG9vQWZoRUJJSGx6eWlJc3Q5dFhoYmZVQ0RSWnA5c0VtRUhjbkFJYTVpWjYyc2lTUHFXM0FpbG5Bc19GSlFMcFh3cEpaeFVrR0ZXSHFTYXFQZFN2ZFBtZGVxM1FNTHctREVjQVF4emc3dEQtSE43TTJlbXlmaHV3VVlSTFBQZkFVYzBZTmZ5YkhtbGNhejB3bm5KRHdhclpQNVM1TUFmcVJkWmlvTmpZV0VkcTRLYTJfVm1ZNmV3ZUJWSUNzRnY1WXh2R0cySFRtV3dWelc0ZmpwcTFWZlZMQ21rb19FSDRMSnp5NnJZdkgwb2d0RDNQVWJoR3VOVmtaay0xTm1SUnExVjBDaVV3ZU1CV3FMXzlBWTRRc1MtNVNoZTdYU1ZnaEV3TFJzSVYwU2FNWmIzUWtqeEw1SmsyenlYNTdkdm96aWxYbk9KRXVvQ282RTdCRzdUVVlvendBZTdCLUVwTWd5dTJqTkpaOV9FV3haLVlfb3V5SjgtbVJ2QnQzYtIBxgVBVV95cUxQMVF1Z3ZUTy0zTnBfNm5TTmxxbVlmb0d5a25CazlaSFZmZDliRG5VdXhKUDNaUV8yR1NrWnppa0tWcGdTOTJZb0F5NlZ1c3B3WktWUXVPcVJEU0FVanRzbHVkb0JCdnE1NFp3RG4zZElva1B6bWtvdVdMSHMtMUF6QlBBOENNM2FYekpqTlN5UEt2NmJ1RzdiUlZpSEhJY3VXUEYydFA3anV3R3dXeFVNSUFkQV9iVXF3NDBTdHZxUTEwV0VOZFlxSGxJZUJXR3Y4WEJTSFU3QzN6NlU3NnVHUUpEUG01LVc4Sl9GaEJUZDhoakYweHM5eWxrem03eFJqZ2RXWDRXcDczSFBsOEE1ZkNjQ2lMVngtV3J3RGtqMEN5a1dUU2dWd2FRMGx2SWtzLUc3QVp4bTlpM0I0dm9rM19SNnlzM0MxZkdTZ1R6ZFpsZmxGYjlFa1lETm02b1dBWXRIZzdacUVkVzliRWF2R0RCTVQ2Mk9pb0FjX1Y1dWpZRjA2cEhaTlNfSlNnZGlfN2pfYV9Mblg1Z0xfLVdBc1lOVTVTYVRlOUhoTUt2V1dQdmM1c0pxaDNBRlR1VHVyNlJvQ3VoNkRkWWU3SXpkTW5WSVRiSHpyRlRMb3dRYThDeDA2dV9xVFZNeEJHc1o2S3R6b2dNRlFLVXlwMGhOM3pReUx2ekFrMVByYWVhN2xkc2JuNDhkYnRDSHN0SHBTOEpzdW1fOWZ6Wk5IbWFQX20xQTNscFNMdXFnSU5xbEFHLUZlZ1IzbUt2OUxheWIwMUtWdW5DdEtQWmpkWTlQdENJdUpYY0JqWWJyVzVFQ2NXV0p1Y1VndWxWT2ktaFA3Qjd2M1h6d3ppcEctUmw2bDFCa19pdzZkVDBGdHYta2VCWl83ZWtRc1BDWVFWdkF6bnFsdzRMeHJ5cDBVV2JuYlNCSEdZUQ?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Tue, 29 Sep 2026 15:34:00 GMT",
+        "discovered": "2026-09-30T10:57:34.762154+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "البنتاغون تمنح رايثيون عقداً بـ20.7 مليار دولار لتسريع إنتاج صواريخ أمرام العربية",
+        "player": "",
+        "content_hash": "acf8ad6d132329a3af996231ee36f369ece967303c35057cd67cdaa575961949",
         "sent": 0,
         "section": "transfers"
       },
@@ -1908,22 +1924,6 @@
         "summary": "مع اقتراب رحيل اليونيفيل.. هل يدخل لبنان مرحلة أخطر؟ سكاي نيوز عربية",
         "player": "",
         "content_hash": "fe9ae00cb2bda9068927fc4247f6e412dfafc7e984d45c115a1d11af44769b61",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 6631,
-        "title": "سلام يبحث مع بيسنت دعم واشنطن لإصلاحات لبنان ومفاوضاته مع صندوق النقد - الشرق للأخبار",
-        "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNRUhjbFctSGtZbUhXNm10N3h3ZEx4YnFqUVc3NWlENlpGSlhnNHdIUVA3OHNFWjM4MkhHdDFaaUVuQmF3WDM1ZVI2NHVTZGVxTXZQN25Ia0drYTBkZU56YlBQamRVMldBRjYwbEg0UmZDWUZORlVoNkJPZEY3WUVwVk55OWRDQ3BtTmJ3bHEyQ1JnMV9pa1JTLVVQMGlVT1Zkam4xTl9Ua0lUMG5lcDlnR09UTEEtcVhLY0xFdG03M2ZBUHB0bkdSUzBJN01adWVjN0tGdDN2b3p2bktBMWdkZUxvaXJ0RHVrZkNlM0Z6ZEJ4cGtpWUVsTWVFR3RHdkpUQ205dDdWSWJlWEtnMnBXZmVKUGdHc1RtTVdTT0l6MzM3dXJTaU9EMi1IZGh2UXZYVlp1dHZ3TGh2c2YwbVhYV2JxdXRSdVVZQ1Z6MmktNk9taFJZRGlxVHBuQnFtSnFodTNKMlNYd25wS3laelluazd5YktGeGRKQ0ZxelA5NDlQRDdtQXVLX2tyQkJvOHBjbzFWRnZWVUdvdmw1U0doOWxNQ1QyY3FmRXFVSXlXT3JhOGNiQzQ5M1VvaDQtbnIzLVRaeHB0al9EZlh1WXNtaGF6WS00UWdUX21OdnJHVTF4VjhxTk9vNjFMWjBNcERh?oc=5",
-        "source": "الشرق للأخبار",
-        "trust": "B",
-        "published": "Tue, 29 Sep 2026 05:15:52 GMT",
-        "discovered": "2026-09-29T09:10:13.585110+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "مفاوضات",
-        "summary": "سلام يبحث مع بيسنت دعم واشنطن لإصلاحات لبنان ومفاوضاته مع صندوق النقد الشرق للأخبار",
-        "player": "",
-        "content_hash": "bc1b51542b3afbfd308d1d6deed6646e78ef64d19936eea8a9f21ec7955f0582",
         "sent": 0,
         "section": "transfers"
       },
