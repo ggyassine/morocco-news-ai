@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T18:38:37.600418+00:00",
+  "updated": "2026-09-30T18:56:32.751701+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -642,25 +642,41 @@
         "content_hash": "3f938f630eaab7de3fa4b7f2c26c60101614739e54805bc8bde4f0732312b87b",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 6794,
-        "title": "المعهد الفرنسي في المغرب يحتفي بالشاعر محمود درويش يومي 25 و26 شتنبر بأكادير ومراكش - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMimAVBVV95cUxPZWVpTk5nelljcW44UDlJV3NEa0lkdWdxazFFNFd2dy02bDdBTEpLN194bXNMV0hjRFpOaG1ZLVFlLTNRT2ZlRzBzNFY2Y3cza0JaMDA1TWFKVnhyWUJnTDg5Wm5BVmRGbm1FYnh5cEs1cGN2V1hlT0VFODN4ZGdrdERqNnRoaWxsLWtwbk56UWdIS2ttTWkxRFVPWk5pdTE0WjRzVk9GUUJfdk15R1dTaDNFdUJUZHRJU2s2YmtRRURrckdyOGFIdEs0NVEwNVNybmdYZlpsVnZYT2Z5bXQtZzB5X01wYVJHZG8yV216X1hnV0l1VHNrdXFPR2pBR1NMQ2ZlOE9pRW42RWxweExSbmVWNEN1RTBSYnNIcUxJNExnNm8zS3lkYTV6SjBTOWh2dzhObm1TYXBaSVRDV0hzR0RZQ3gzRzFEVlpGTmZRd2ZjcUpBOE1qUmFTd2JrVl9xRGx5TXlHY09wZDV6WEVPREVUcXNiQkw5Mm5Zc1pCVUFHLXhpc0ZoejJXM3BZX2NzaGN5cm56NkgyTlluTnNHRWZiRXRoR1RGdEtFUFZLWDRIRlZTV2t6bGFfZEplNUVhSXRpbmVVMl9ZSTNSR1FZUW1iU3J6QVB4ZDFnVUNlSi1xaTQteVhMVHg3em9CUU02aHFQN1BhcTlYVGNsMlA0eDFEM0xQLVFwakJyVjJyOFVVZ0tQZVFJdG52M3FxU1dkME1KbXVlWDJIZDRUNHBGV2ZCRmZELVJyVHhkU3NNUGZUZGk5UnpRRlRwVGNneFRqMDM3dHRFQUpLNUxFYjhlRl9vZ3NwckNYc0JERTZSSmEwb1ZRYllMVTdVUXhYZXpjd2dFZVoxaExuUDNBMUFzQm16WVkzeGhC?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Tue, 29 Sep 2026 03:25:03 GMT",
-        "discovered": "2026-09-29T16:37:10.904527+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "المعهد الفرنسي في المغرب يحتفي بالشاعر محمود درويش يومي 25 و26 شتنبر بأكادير ومراكش | MapNews",
-        "player": "شاعر",
-        "content_hash": "d077bc2f9a70bbeb4aeac4c0151042a37a291c7a32bc11a2a2f1d2d6449dbeef",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 7261,
+        "title": "مباراة بيراميدز و المريخ جوبا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPRDBVMFlPQXJQM0diTFpZODJVcUlfVGZQdnY4S3ljbHAyOXZ3UGNsTUxveHJRZ3JUTTZMd1ZJNEF3S0hxUW0wdHQ4TVQ4aDJwV1BIN29RZGh1emgwVTA3Vy1OZnpfdzcxSWV0ZG04dEktaTV6SVZFR3dPNjA0U21FaWFGVlYtMDllcm5vdDRCZGNOblA3UnhOZjhwcHI3YlVlc2NZcG9XRzVZQ2lEbzBzREo0TGRfQWxJd3BYTFBTSEt1Y0p1ZVFzbVV5X1AxZnRjb2NPUHpIc1lxTTl1aWRqSzlpbThqN1cxRG5VSDJJbFMyX1VOTUQteTJMaTdJWFdxejJrWnptc3VRNzZ1WlBiTkpnRG9lOTNvRHFpZ0drX1JMYUROODMzUl9PdGREbXE3bnVsdVVXb3lPSnlOeG5hbkI3VFI0RlVjRkNHZ0VhZTU5TjM1Z3dhVTNPS0J0OW9oZmdNQjVVU2ViQzNlcThwX2Ywb3hzZnljdkQ2eTdyem9qM1ptV2dzOHpCdVV5WGM?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 18:40:11 GMT",
+        "discovered": "2026-09-30T18:56:10.375546+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "75677f795ecf2914260f40ad692a0eed92e64e1c578cde12df2a130c34f4d605",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7262,
+        "title": "\"قد تكون نهاية مسيرته مع المنتخب\"... ماركا: رونالدو يستقل طائرته إلى مدريد - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxPMFJSU0l2NVZiVjM0LTRXZTBZR0V1V2xYbWs2eGctTjVZeFhOU182Wmp1QzF3MDBkazFXUW5sZVhwM0ZtbWFnVHN4TmEzb2ZGb2FteGZRS1BYSzdzRmsyUHgtWjVaOTFVZmNiMEpBa1lmUVJLWG9fV1NaaXFXcjNBei1jcGlsQ1ZUdTNsQjdhWXdzQTVpbWhLcjItX0RJNG5nMExoTFlRdW1pejVlcC1yRzlVX1dIUUpOSm5GX2x1Snc0NUJmam1kd3VZVGd5dnJuMERUQnJpSGhHdWFfeUJCQ3ZYSmVzSWtwYVVSdWdLSTloaDRWX3JmTTZMQjhyQm9uMC1aakp2eWJQaEtuR2V5LVI3Vng2WmJldlJiRUJfemtaOENJWkhaYjhJVkRkZDhpMGxoMjFlWlJaWFdaWVdka3RjUXE4M3J0X25lMEhTZHF0dEtFaDhJTHFlNUlIYW1ZWXQ0UEZSdXkzb241bG5HY1VheUFyU0JFMGhoTWI1cnlpN2NSOFg0Ymc0TjZ4azVEU2pvbHNmRUxtdW9JRVpJTnQyZ2pyMEJhd1VqYzd3MnNrRS15LWRBbjR3NmZfNy04Skp2LURwNGUweGc1NnB3ZEFmMU54ekRMQURVZDZFSGhYN05IcllhMXdON0dsTGJqZ2ZXbVVZUVJ6QlczbmFNVTBsMlh6bnd0SWdvaC1ldWo4eE5HZ0pXRUFhUzRGUjJUVTloaUlYNHPSAa4EQVVfeXFMTVV5TEV2c0dpRWY3Q0FQbmZIb1Qzakl2YXBmUGw1YTVkXzd2MUs1aFBJZXFRLS12RVFHSTZCT0ZLbTFZYXdJWDVKbnFrUnhvVGpJSHBWem9zaVVpOW1nWVJmSDN5R1lDQ1pSX292c2wtb2VmbWE4aElObFVVSEJ4bkl0bXd5TzIzNWdYTW52N19Rb0I1Ukozd1dobklfekxKNWJ3cGZZcV9fRGxKRFdvMVYwNkJJaWQ0TG5IY2t5by1mcGg1a0pmZVBlVHl5U1UzbXdzNEhpV1VPY2QwcTh0N2hjLURNV2RVSGt5S3djRHVVUm1PcGRhTTJvWG1qNS1BTTNTODcteEREbEFkclY0MzU4VXhpbXp3Y1BjY2lMRktpNHAzYWJMSkpXeGt1OWttUDI4UmxqV0x4b2pCSG4tTy11WmdqdTZZdzVsUlhwNzJ6ckJRa0d2anM4Rm85TDlhWFF2M0ZBaFI0aVQ5UkEtSHVtUTVZSkNibnp2ODNyaFJpcjVTbHduRTVaMV9NcHhsM0R2a2drX1o2bjMxcDZxdFpUb2ZTc250SEFnOWduZFNPZTZlTHZNTlc4WFNlYnFrMHNJOVVZdld6LWYxYUNTUE1TdlJtQktaUnBJc2YybF9PTEx3SGRsZ002Uy1IYmp2czNNVFpRbmJSOUZnRktNeUFYa2FUam02THhjVkc3X2QtUFRYazQyYXZmZG5lMGd2NEcwUkJaRGFySHpVZzZ3?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 18:40:00 GMT",
+        "discovered": "2026-09-30T18:56:11.149842+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "\"قد تكون نهاية مسيرته مع المنتخب\"... ماركا: رونالدو يستقل طائرته إلى مدريد FilGoal",
+        "player": "",
+        "content_hash": "ac62b1a1573e8d8f9d3288e8c21b97e34d859df81c090ee643b9699229c735c6",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7259,
         "title": "القرعة تحسم ما عجز عنه الملعب.. قصة تأهل عمان وخروج العراق من كأس خليجي 27 - BBC",
@@ -834,6 +850,22 @@
         "summary": "مباشر تصفيات شمال إفريقيا - مصر (0)-(0) تونس.. بداية المباراة FilGoal",
         "player": "",
         "content_hash": "460d1f009a65149ec7dffff488ead3ddf3b464c30bbe69fa769347b831473033",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7260,
+        "title": "بث مباشر .. شاهد مباراة البحرين واليمن في كأس الخليج العربي \"خليجي 27\" - kooora.com",
+        "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxQMVpfV051TXpJd21pSkw5R2dVNy1yUmZ0WW90TEdFWEwxYW5kZXhZUkJoa2JjWGFFeURnS1dCcm9CWEVIaHJ2clNPc1IybWgtWl9ZRHpOQlZDT0ptOFdEdkVmOXBuOW1Hd002NDVabDFITnhNVFkxSDZkREIxaUVrbmNLV0hVdWlONXpMeDY3bmExNVlZLWR5U1pUdmZwWUNrZ0tIV09mbFZPWmRLM29NTGRiQVdYb1E4V2cyT0ZvSVVPTjJwTUcxRGtLT3AwYTRXT1VCQVg2dFE2ZS1mSkxTdGM2REQwRF94Nm1BckdhLWFCVVJPaUJoX2k3OWZQZFhVdzFiek5HNDJka0h5cUxIOHV3MjlneXAzMmp0X2RScFlBT2FTS0N4dWk5NFQyNjlxZlpLQ2xkenlpWlUwTkZSc2tnRkI2LVgyTnZ4YUpJZVhBMnZXVTVmY2dmNjNsSF9FTFc1U21sVnF1QmRSdjVfNUFyNW13dlNPWUlNUldHVkNjQ3hhOTVpWUR1cVFsZVp0ZW5LdDctZmZLM09zSGNlTUlmNzZ2bVloQ1l4cWNlUHQ5M0M1Z0JBZy1wMzJ2ekg0b1k5eXpVdko5bWhEblJ2MGZnQ1YwMGUxVG9OTHFtN0RVWnZzY0tqNmRfMFBfU0d3UkRqeUlMRVVaajY0Y2tQRks2d0FjZmpXb29RR0RkRjNtWnJQMGFEZ0g0QkFGbENjN0swUklWZmczTmlXdkYyWjRDckhqVzN4RzdVdUJRRU1OMkZES0dGbUJBYlFrenJVSWpiQ21yRl81ZUlubnZiMG9EZUxQZlJTRWd1Rg?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 16:54:35 GMT",
+        "discovered": "2026-09-30T18:56:05.057325+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بث مباشر .. شاهد مباراة البحرين واليمن في كأس الخليج العربي \"خليجي 27\" kooora.com",
+        "player": "",
+        "content_hash": "4f7eedae9b4c7f784b166b738d8ff0ae2ad01c7e1df50deb0551977a340a7712",
         "sent": 0,
         "section": "sports"
       },
@@ -1412,54 +1444,6 @@
         "content_hash": "469add175988f34619fe881a6c5d423bc55a659fc185fe6365477583402622de",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 7143,
-        "title": "منتخب مصر للناشئين يخسر من كولومبيا بثنائية في دورة الصداقة الدولية - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxOd0t6ek5OcEJkQnZrX2IzZldRTXRhd1plXzlacVR2RWZkM1RMVjIzQ2F3Y2k3LW9nQmRGemVqXzRqUjlYeWtEdjV2Y3dhZGdjVmk1RE85N0xzT0ZuYVE3TWlJU09lYXNwenRKMHYtRUpHQi1yZVVybTNTNVpnR3AtRjAtVnREUFhOLW9lRjVLYUJaNnd6d1gxbzRrTW9YWFZyeG9YYnQ0NVMxaVdYcG91SVRJZnRKb3Zfd243RVM1VXZnT3Vfd0gxbVVOS3JwRC1uaVh2NDFLSGhGZHNWZVJGX3ZFWHNxOVc5a0wxVkRXaW13LU5jMFZ6OVJFdkJRVFRNM2RDWGNrcHdPbWNzaVlMZDlsbjRpbDI5Y3dzVDRyVGg2cXJhNl9oUllmV00wTEhjdTk3LXgwRVczMU1rcFR6RndDNWROLXV4dHVPUy1zbjZyeHFmb2tuU3ZrUzMwTG9pdjhLaEk5ZGg4S2p3S2tBLXlVNkk5Z0J5bzhPci1ISERvSmZoWEJQNEN1ZXR3M055WDZ0S0NkdWs1Qm5uYkw3Y185eUJjM0tmRm9CUUhkMGo5RTZKaHJTMUhpTEN1MXo2ZzJuYzU2SnhVRjlCZERYS0tyTHZESHdhVTRSUTQ0M09DMmpmc3pqdXdOMDNYTm1MZEVJcGpGcHJnM2x2NUpBSHVRQUNSTjlrdFFRRXRZcFkxRVNlUGJJSXBSU3NnYjB2QXZQdWMyd9IBrARBVV95cUxQcWl3SmQ2QmxIdFg0bFBRZFBsQTNXMVB3SFI5Tl9kV21FVTlFc3Ziem9FSE50bFRUcnY2cW0wWGt3ejZUTUVkMGt0TDNYY1E0TWdUQ0lWOFlkTmY3TG1oQ1pMazg0YzZpaWNkWG9uRlozQWZZckY5elZKbThXRC1WOUZGYlBscnlsanZBa2VRUlp6VDJwcTNQYXZudFZoYkM5ZzlFUnZISEtRYlJtR2djeG8wbUQ5N0JRbGNOYXNKWnplQkNwWUZ6dDdteDEwQTdabGsxVU1JZzRwVVpzUVVONnMybFdjdm1iTWFzeUJJT1d0aTc4bDFnNkEzdjFwREdZN3JDS0FwSkFjdFJsRWowLUp3VGRiZG5xV0NhYThBUFhmRFlvMEFzZHF2dXE2QmdhREFkdHhCeTEzX3BDUzhEVDdqSkd4XzBKUmtiMUw0RzVDUXgxVDRPcFpvcDlPTkcxZTNTZkxWWlROek9OZFFERllZSGhKNTR2aFF5QmNSQXFCWHdnU0ZKMEhSem4zcklBakhMa0dIQnZRVXRZWENuMHF1Zlk2ZHZha2ZHMmVJdlAyZXVJU1VOMWg3aHBoSTYzMzZhOGlMdWVKRXY3M1BRazVOa0w0RVItejYyTkFIdExqRF9sY3lreC1xRjlldndRSnN4TGladnhSeUZuMG9wQnl6WFBCOWd4dlhtai1oZjRXb1ZpMExUWWtYR3dTMmNGV2FUOUE4azh3NlVz?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 11:41:00 GMT",
-        "discovered": "2026-09-30T11:58:45.689094+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "منتخب مصر للناشئين يخسر من كولومبيا بثنائية في دورة الصداقة الدولية FilGoal",
-        "player": "",
-        "content_hash": "469add175988f34619fe881a6c5d423bc55a659fc185fe6365477583402622de",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7161,
-        "title": "طرد إلياس العاشوري من منتخب تونس لهذا السبب - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxObEh5U0xWbTFCNmxmQWxMSmlBMnJsZ2E2aWtoenh6c0JzRnp2dnBxV3ZTZ0c3VEdKTTFfWHUyeGlDQ05jb3lZdFRDTEZNbXdmVFRWN3c0TWEwZ3owUWc3Z1JOTndudDV6ckdKX19CRlFWdVJTalRiV1lUQlpFODZGeHJtdGJiWW90c2JDR1RJcy0zS2FSdnJLYUlyUzJBbGVpbnJna2tzU3hQRThHNE5DeHBpclFKY1MxMng5RzQ5THRFcnRSajFJdGlFcFhDV1pNYmZnYng5RmhReU9VTE5ZOFEzQ0JySmNSSUlJN05hWXUzdHhoMUN0SWZ3M1lleTlxU2VHclFnNmd2TFNCV1poQ0tLUkozeFBtNzd5aFNHZXJzU3R6QXZVYVNkdHhndkZDLXp5M1VRVFptYkV2ZVVrMjF0MldTSTNYRTZ2bjZEbHZaUTg4clI0c2NuOG9qckl6QWV2aXNXSW42NUhiaTVpOFlWNS1zUDRRcWxoZF9xOGlhazNuSkdwbWdvcGx2d2g3QnE2eVdNVkFOdGpIN2c?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 11:32:10 GMT",
-        "discovered": "2026-09-30T13:04:44.136146+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "طرد إلياس العاشوري من منتخب تونس لهذا السبب winwin.com",
-        "player": "",
-        "content_hash": "74fe999d45c2b67cc01406c044759b2a18bff5e894b97c71442bd91de8ffea6a",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7140,
-        "title": "هبوط سبتمبر يمحو مكاسب \"تاسي\" في 2026 - العربية",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOMEFJb1BDa1VzMlY4RDV3Zy1WTXZYWHhJazNqdXdDSjhPQzFVX2hicTlURzNpaC1YTVRrdVFJR25Tam0wakhOZHM3LTJmcm5rZmVGZHdNRk96UTRNbldvTXRPdk5LUy1LRGZ5djdudDhRcXA4WFlZRlNmdDZCV1Y1TTRNN1lCMDdSdnhnOWM1RnJrUXZvZEVZWWE1ekNvSDZpbVBLM2Y4YUFLdzdkOVVHUm43MFJpTXljUXFNdmtPZndObWlncG1HbDE3VmZXVGd5bkRLMXdhb3kyMmV2cHhfTktZVEdrczVoUUtFbDZlMVJLSU5fTTZkRHBXcDhzRGduZFNaX2hPWDlXeEpmVTB3MmdDbDFxYm5tVFBVX2ZiV3diOTdJdEM4Q1A3aGVySjZWVFV2bHFOZzI5eHVfY01qbTk4OC1FZ9IBywJBVV95cUxOck5lY0lkNlZPakViQl9zUjR0bWtZR3FGTVpyWTBuczFjZi1OcndyUzJ1OXI4ZUV4Y2Zld2poanJVMTEzb2F0aTBPRkVVcGZOQVVpTk1SQXMyRWc3RGhEMVBaOG9fWVZ0cmE4NzdzU044VFNZMkhQS0NkMXhzMDRqRWVFak9DTlRIRFpQQ25vTnRqZHk2eDF2eUd0aURtc1FPeEg2X0dZVU1zanltNXZKWlF0UTBRMjFnbE9nS2QtdmFqWml0Wm4xY3ZXazJTUG1TX2xxU1pJU2dHWGZCdUZHQTFpay13RmE0VE1LVi16dmZtYWpCVUhDcVRWT1owdFFtY1NCTExZc2xMMm1GeXM0WW9IOXFOM3lqSHJfV3ZsZWRiQl9ZSHlVcHl6dFhzOXc3MFFFYmtSbWQzdWFWLWdueTdFbm1ibkp6WjRz?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Wed, 30 Sep 2026 11:28:00 GMT",
-        "discovered": "2026-09-30T11:45:21.423601+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "هبوط سبتمبر يمحو مكاسب \"تاسي\" في 2026 العربية",
-        "player": "",
-        "content_hash": "1eeaf26ec2285f4af38a3181c3dcdbdcb65e3349dd6a6c166bb3e05677ad1cbc",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1476,6 +1460,22 @@
         "summary": "الاقتصاد غير النفطي يقود نمو السعودية في 2027.. وطفرة متوقعة في القطاع الخاص العربية",
         "player": "",
         "content_hash": "2498d691c6c28b6378c79248aa42d33e3197f4bf96bcbcd5ad9da296e447805c",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 7264,
+        "title": "إيرادات بـ1.19 تريليون ريال.. توقعات أرقام ميزانية السعودية بنهاية 2026 - العربية",
+        "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxNenNPcm1tdzV4ak01NGFOSHZ2V002R3hWcDlsM1I3V1ZQNUo5SV9vM1h2NWJVTGNmTUZ1MGo5MEJBcEQ1NldzUUdOb0pYX0dQX1ZKanVDTlBCOFNVYzlReGVZbEFzVkowN1ZPZmxUdXlkX0NOb1lZYW9wMVpmMjZBVGJHOHg2QVVnRFM2M0JselF1YlVxXzZMa21KT2ZQQy02MEs3U2FxN0EwNkNYaUxzdmlDeDlJanpLMUR0cjZUTWJvY2pQTndJWkFuM0QwaDNvZkctX296X0x3b0JCY0IxaGdWYkJWQ09Ja0kwdTFMXzFwWFFsWTlTaExwbW9hcHRpdXVtSU9idC1LeDJuSDdFV21ucXJrZlNXQXl2RWZQWnNuOUVfYldTQWlSVVV6Q0NuUWdPalJUM3BxTHJIWjZFLXRXRXF6VHBsSHV3bFFZTUJJQWNUOEtJVzIyYmJhc19vY0piZmI3aTJrU2lYbjVpT3dFT3F3ZG53SE5mbndzcEZPSGxzUzQ4TWY1Q0NZR3NBS0YwX0xzQjNid0JtZzhNVl9mbEJzejQyZ1pjdU1LcGNlVW40MXdEdktIeUJuUlp1d2JkcTFPc0VOUVR6RC1rS3RmQk5wSDV2VF9XeG0xUXRQNTRnQ1NPWFU4V1hIOG5tLTZTbk1PWVBMcW5VRW5CTzFPdVZuZXFOVDllWF84SDQ1cXZTM1hTUXIxRVJoUdIBowRBVV95cUxQNFdLRjRMc21aOEhVNE1PeF9aM3VDLS1PM05WWjU3VlFkQ250dGJSZGxnYWJLaXRsd2lDQjBrejlfcVBLUXBFQVE5THVTRFZXbDhzZ0t4aEhmWTRLdjRIeFR3RTd0TEhYaGh2S2NfbzlMSjhUdFFmZzF4cnJrT1BGT1FydlNMQ0k4RHZ3WFJLWnczaXI4SHpaRlp0U0FDbzFZU29fQ2hUZy1ZRVRIWnExQkdkeXFRbTMwWlVaU3g2d2wwSXRBSDhBT0VZVzctYlRQSTdQS25relVuMDVYLWxXRTNva0ZPSVNsZWpoWTdGNWtoSlFYUU9QazZEOFVUYzM0ZGQyVzV5WVNNWVVhWVBPdk9tSVdISEQ0V3FJSnhTQV9xSkFTU00tc2xZMVJWLWRpcFQ5VUJUd1BZWHQ4djRmQUVrQmFxTGRMV1djdklQeHdUVm1tU2JJcVRIalVENGZ5S3BMSnZtVTlxZXJOcGt2eWtHdnZZd2paOGJQaXFPRDJ4RGpNT19OS2NVcFhhaWNFWjRRQ0Rpc0hncXRocTI1Z1Y0R2tya2NSdURGMDJjY3ZWdjhDUGt6YVJYR2hKUVZDeHktb0pWVV9FVUNHZUZxajVPZXc1RUo5MDFpUktkejNNUGdSWl9QWWJDZFJTVE5jLXBJZE84V0Z2cWNOT0t5MUVzQTVobWtUTVdjdXVnbzNrcElFUjJXNUo5NGVBZm9zc3FJ?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Wed, 30 Sep 2026 17:34:00 GMT",
+        "discovered": "2026-09-30T18:56:20.346702+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "إيرادات بـ1.19 تريليون ريال.. توقعات أرقام ميزانية السعودية بنهاية 2026 العربية",
+        "player": "",
+        "content_hash": "2476614e985b54051dd38c1889dd77c016f7e616c8615afb801c6ecf2e2cca06",
         "sent": 0,
         "section": "transfers"
       },
@@ -1944,22 +1944,6 @@
         "section": "transfers"
       },
       {
-        "id": 6762,
-        "title": "الكرياتين دون رياضة.. دراسة تكشف نتائج غير متوقعة - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPblpFbFhxRHhzQkdxWlNwUVFTbjgzbm0zbGtQYmxINXY5aVNFSkVCdkFnTmxBLVRnVEQtVmk2OXlIVFhOM1dBSEpaOVVYclo5UGdETEFjWk5tRlNzT2VENGRoWmplYW1QQVh3dXVISHJPTDQ1QlkzR0xzeEJ5dnVLTkp2OFlkTWtFcWpkWnAxNkRIc080ZTNRYkNrTWRRZUk5TV9oV2lWRUhhbVhTSm1ldW15eW5oOWp0aHY5aWRqOXdsMHpZMkJUMmxsYVZSSENyZW14LVY1V2hvNXdRdDItTWJfMTJ6aDNXWmJSX0s1RlRnNV9CT0RMWXNQN29TSExteEQzUE5uV3h2N09YWEUtZ2tQWWlia1JMXzlmMnpxd1VRZjBuS2VCYUtOeV8xMDJIX1ZjRFBuWW5NV1VSRE5tZ3FITlpiNjl6VGd4ZUFtYWhFY29qRVNQWTRkN195RnU3bW1aanU1S3BKcDY3REV2Z1doaUTSAfoCQVVfeXFMTVMtdVFyZTAtVUlRTUl2RVJWV1ppbjluX3Rlc0JKTG90cmZmeGdQanpCcXk2WndRc2RiZi1fZlJUcDhGTGQzVDZ6Nmd6T1MyUnJubXZ1OG9wWTBWMjA1OS1JOGFsNml1ekZNaUtHQ3FPRHZjSXNjLUlvUG0wMGdTSHZOaGdlc1dmUWxyUldRbE0xM3NfbTBXZTUwZmg2dkVfaGo5RXpmT2d1M2M4QjB3QWxuNk9JS3BkWi1Pb09uTUVEZ2lWZVQwYW9ZVklBdXFfTElzeGdvb2NES2FGYzlNUmVzcWs0cXk0eGVNclhaS001SE5zV1o2UHJlX25JMVFCTlZIZmNka0xUN3Zhbl9nVFBtMGZ2UFc2aDZram9Nb2M1QjlXV1pNQ2Z2VlVGWUVwWkRkcGowOThlVlY0Qnc0MmdrbFdqT2xjcDBha0VBbFhPcWs0RjlfcWV3UmNWN0RZazR4b2pJVmk4WTUtN2xzejZWU1MxZzllYkZR?oc=5",
-        "source": "سكاي نيوز عربية رياضة",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 13:59:30 GMT",
-        "discovered": "2026-09-29T15:06:51.130202+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "الكرياتين دون رياضة.. دراسة تكشف نتائج غير متوقعة سكاي نيوز عربية",
-        "player": "رياض",
-        "content_hash": "c9c04c97ac3fa992bb884f1741e5529ce81bc94461b6d960e59caab9e201b00b",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 7155,
         "title": "عيد الفطر عطلة رسمية في ولاية كاليفورنيا.. بعد توقيع حاكم الولاية - العربية",
         "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxOWXpLY20xc3JqMURrUVJ5QVF1bTRYdlY0bVZTMG56MUUwSm5jdDZOdGpiS0pNeWtHaWp4UVV2LVY3ekRwOWNNNUxDMXN4LUYydTdXbWtXUXA3WHRBalVzY1A2UVMwbENtS0JxRW9QWFhuNWVYaUtHVVBfbm15cjA1LXo4TlZLMGJRNENQZUNXRjNOTERZNnhtNU9BcVZqVEhYOFlvNUNWRks5Z3lXcU82b2h2X19UbERQNmhWSEk3N3d6UHdUWUh3UHFtS0xMWTFrVHk1UjFoT0JxbzFnRGRZWWE3X3prbGExMENwQUMtemx5UmFKVHYzRXlPMGVzam1pUkc1cmI3aHpiaGxOc1ZaRmZTQVFvVDFWQklUSHRtdzlDQW5qNnZKOXM4MmJhRjdfVTNPS3o3b2RNUXJmWWJOcUd2TlZRMElabXdIQXFfZTVQNXUyLTctdkJDdkk2M3BSbzZkeVB5V3ozZUkzM2VaVXNfTlNvQVlMTnJZSFBXcG84QTduQXZSOGkyRzVhazRuTk5zVmdGQVV0Q1Q1VFYtb0ZvcXd6YlFVc21neGpHakE5SzJUUVlRbi1mZTBfQUh1ZTZRSkhXaGI2VDl0MnBFNTBTdEdSUmo3U1hLN2k5MGMxcUk3akZFNXlrOXBpT0pKTklGWGs4cEs4blVnUTk4OExTaHdaSzNLNE10VW5tc3RKWlNRNng0aGtmMWNQal9JQldZa2pSTWl1QUQwRldOZm9USGJKMDJkX2fSAb8EQVVfeXFMT1Y0YWI4Z1l0azc5V1hvX0RBbWRXanpzRGwybkRnT3ZsbnFjcFI1U2dWRUx3RHJjSVRGeWliT1h2cVQxWTZ1N3pvLVFZRG5yOUNPSUhTaG1SOXhLM25rMzdjQUI4NXZmYzV6bG9tZzlIU2JKYW14YUdEcThNRk1HeXMwQ2swQjhiNTJ1ZTFwb2w3RlZQdElYd21aS3dUWVB5MXhfdnBGUHlKaEVMbTZfenhKbFJ5QlAzZFdNWFVYVkdkYlA4UGRUdGdFVmppNHFHc0JxUmpWNHJ6eEwzSGNIY05ab1IzMnJPTnJoZVBKZl9BM1JqdTJGWmNHaU12Wl85aXN1U0NPb1RHUTRuaWRhQ2VyX3BISllFSmd1NWJYbi1uRGswRF9TT2VhclVrSUJiaDlHR051WV90Mnk5UmU2U2NFdWJUM3d5TWhCSDM2NWs3VGZCODVRZDRNZXBJemxtSW5YN0ZZRFJMMkJGeW0yVHNjeWtheWJlRjg1MGVlUnFZREZDWXhFUzc5U1hyTXdmQVoyWVo3QVBEakFoYllXdTNMWEd2OFhrdHoxMThtNy1JRUdJUHA1UVloekRLV0VYbzBMR1pJSlRaNlJIZGUxd3VNVmhDZTU4b1lJY1lNcFczSldBTTZVbFJscEhmc0w5OWRZLW5NVklOZFhsWVJ3WE1kSjZNa2xQejVQUGlZcXZVdUhHWkwxV28yN19RdkhpeFhxVTZaTF9GTXctY0FwTmRaNWFlSkE1STdUSlB1NVk?oc=5",
@@ -2251,6 +2235,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 7265,
+        "title": "أشعل قرار وزارة التربية بتقييد تدريس اللغة الكردية موجة احتجاجات بين أكراد سوريا ومخاوف من عودة التهميش. - dw.com",
+        "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxPWDUwN1AxWXhIdEdsemVkU05rbmdLOEthLWZvUVlGUVY0OTZmbHhlRFV6a045azFpZXl2YTA0UFU3Y0thOVZwbncxc0xHSDJLOUJ1Rk51eGF6UGNWS2Q3Ym56Tm1adVRiOTZMNTdMdGZQQUtZMEtGS2NaNzlHeGlxcTc0bmFlOUxubmdIT3BuY2dMMF9iU2JhTkF1NlZGLVptTGZ4VmFWWU83WHVQNEdqZFpPLUVZOXVKNjQxUS0wd1RMM1VxRlVlRUVWV1BMMkJWTVlIS0hDcnVCSGU0b0RLbnJWeU9zcHNSS0xHRFZsOXN4OFNQRzlxZUxvTTRlZ1NaOXctWTJFUi1qUGFmd2JiN3U3QzVxRG9ETzV1QnV4T2xhUnYtRGNZbFh1aWpZaVFJWU9zdFNQeDdGbFhBek5qal93ZzctTVBHanB3LXdYZndUTDR5UGZsS1l4ZEZMUzBEM3J6c3lHWG1KRnNPOEhFeUYtdUlEQVc3eGoyd0pLSWd4OXNOb1AxUWxVWl9BWlhMNDNCZTd5eVAyR2FVYWxjbmJscEx3cV82b3RDTl9saUxMaGY2bzN0SWNSZTBRM1VzeTV5RG90WHUzTlVXTm1BQmxRcTdLUHdfT3dXRTBiUk16NWRuN0dzRFFOZk10YXRJSE9FSHFZVzB4WldaRi1hQmVvenlMOWx2d1MwUGNfZGLSAZAEQVVfeXFMT0g0QjhaR1huMEJuOFZacnJqcGRlemljcTVCR2gzcnBab2xWd1RpZHdHTmROeWhRcVREckNtS2NCNjZlWFJjZDlIeGhnd1dVSUFLakxLbUxZcUVoSHR3SENxODFfb0o5LU1fWDY0WERIUVZvNlJOeEd2ek5KaC04ZWRMVWMtQ21zcUpicFVOYTBNX0d2bEZhV0ZXcFYtOG9vdWJxSzI2TGViQ3JNQ0c4MmNqcnZSQm1CeHZ3bUhfeVd1ZlFRX2FHQlU1aGpoMG1UOWVyRl9KUUF5V2RSclRFNlR1MHZmU0ticFhIOG5XU0VGSU84NmdDMkNUaTBXSl9vb2FMOTloZ1ZGMkI0SUZod256VVFBdzRWSzlSYUhaa0RSVHlxZXBTeXNvR1pLd085WXhKWlFmU3lacVp6NDIxTVZJU2ZLcC04YmMxMUZPZzhzNUh3VUlUa2NDZm9ITWE2ejZLbEtQSGVIWW53aHliRXI5cFBUZGNmTWI3eW0xOFY2Ml92MHBaNTllR0pvaHBGMllpVnpsdm1RSkJEYzdVdkI0djlaYk5wWkRCY2dYcWtOdHVFd1Y0R1ZqTi1DN2U4dDFLTlJpWUNfNVpyc2xYUXVsdU9KdS12VklLTUpiNVBka3cxVzBhZXU5T2d2M19JU1JaRGFzbGNDOVc3RXFkVzZISXMyYmNKWnlYMmdWUTkt?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Wed, 30 Sep 2026 18:49:22 GMT",
+        "discovered": "2026-09-30T18:56:27.040776+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "أشعل قرار وزارة التربية بتقييد تدريس اللغة الكردية موجة احتجاجات بين أكراد سوريا ومخاوف من عودة التهميش.",
+        "player": "",
+        "content_hash": "a5e23f3a9b351e9068f24d937f2a345e9cd081f91ed446fa443d9026738b4d15",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 7240,
         "title": "متحف بلا تذاكر: لبناني يعرض 45 ألف سيارة مصغرة - alquds.co.uk",
