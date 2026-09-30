@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T01:47:56.597894+00:00",
+  "updated": "2026-09-30T02:00:45.648936+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -722,22 +722,6 @@
         "content_hash": "4f5c83d2872cc558cd3683dd0b7803dd7cb14557580138c1156fedb22c9ed89f",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 6834,
-        "title": "المغرب/الهند.. لقاء بالرباط لاستكشاف فرص الشراكة في مجال الأعمال - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMisgRBVV95cUxOUlA5ajNqZGdNLWs5bzcxWHJ3Z1pZZ050NkRxenhWMDRPaWtNWHJMcC0tVC1Yd19tcm1jZ0dlMG1weXY5eWQ3S2NWNEZBLWI5aUZqRWdaZk8zajRHZFlBdjUwdWtOemR2OW1BRElXZklrSVRIRGJJaWJCdkdsY29GV3RIMVQ0elFoem9aN0VockxlaHNJMEJ6NkNITXNwaTNvaDF0NWtpZm1mM3NqcFcyYWlpRzN4MU5fTE4zRFFmdUR1TElteks2MENfSXAwZVJseUhoSUdrWEZ3MmhBMHZYakRfUGstQzNNOGJFazJqQndkNkNNcjlKQU12WUNDTlBLT3dDM1pYbEFyeXZZb1kyUERMbmJ3UTRxdkY4NjJiZFdITFAwa3kwYjZubnZyd3ljTlJIWmE3YVBNck1TeWhHcnItY1ZnTlplbDhRSFdBdUlGVmI3MmExb0liMmxYYl9hX0dNX2NteHp0SS1rd2h6Q2lIX08yR2k5bGJZc1NGVjFrNXdwUkc5VzJ5OEZwdmJBV2Flc2xvYXYzLVR5Y3ZyMnAtTzFqQmJodWVid2ZYaDBMNzN0UFhXZUtISkxTcGlEUDU1djZSQzR2MGVxdmxwYm4zVUxORXBZLXYzRFNHd2ctUTNLUURSWDRmcE9BMkhrWkx6RXBVT2lpZGRFazBDbUpZdWRtNUZHOHZOZGpRVmt1dHljczlVbUVvdGNGWEpmYmMySFBKZWtVRU9BTlFNYW9B?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Mon, 28 Sep 2026 11:08:43 GMT",
-        "discovered": "2026-09-29T17:52:09.211653+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "المغرب/الهند.. لقاء بالرباط لاستكشاف فرص الشراكة في مجال الأعمال | MapNews",
-        "player": "",
-        "content_hash": "d860cb2ba7a8bd6c34a861ae298b828a7f48f536a558ce9f3f5d7a71c4f7b7c0",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -1270,6 +1254,22 @@
         "section": "sports"
       },
       {
+        "id": 7002,
+        "title": "موعد مباراة منتخب تونس ضد مالي الودية - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQNEVqYkVxMGZ5UFdlbWYxTXFOMGtCR19OejNVZE5TNGZtakhRUVJtLWphZmFqbTdfMDdpQ2NUSFJVREJtdVNKb2c2bm01eVVwendoZWw3b0FQdDZrNU5BWUVXN1dDMENCVTY5RzZtd0J6RkxJWG9xdGQyaHhSZk4xdThjZE1aNGRWNFhpMXZFM3E1Z1BZVVFYVTFMeUZMV2hzRHdqWkNpVTFMc00yS2g0b0FhMTVmWjZUYnEwVmgwQjdnbjFqMWZiYTFmRG80ZXR4UDFDMi0tWnJTWklqeFJVT19QY1d1UzNlWEl3MXJqbzcyR2drRnpGcFFyUTMzYnFUblVfb2VuSEFpR2twQ3N6Zk5sY1duTU56MnJodjRqMjlVUWkxaFlQaW1zTWEyZ2w2MFBGbGpfa2pUTjIzblVsZlJzTGFab0FUYUViWFBJWnljMzZ6Ukd3MGtpS2pEWDd6c1RnTEQ3U3hkVjdrTlJqZHpVWXg?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 19:32:56 GMT",
+        "discovered": "2026-09-30T02:00:28.198368+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "موعد مباراة منتخب تونس ضد مالي الودية winwin.com",
+        "player": "",
+        "content_hash": "c61e4ea56c94e5468c760acd709d4d25c650c29b9935cf3cacf4bb0b4f53dd0d",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 6959,
         "title": "روما يرفض مشاركة لاعبيه في حفل تكريم ميسي - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQNm1mTk1hc2FWWUFSeHd3TlY3Q3N0VFgwNUZjMmZhUC1DTzJ3YkpKUnAySFFhdF9QeWZ1bi1MR29KVEs4S0xBSE4zR3pZMDZFQ1NvUGhMcTkwaFVQckFucWV5dXM3SmU3U0N5dFNGMlJRdWRwOHFIV0ZlMndjYjZqR0hremVIOTU0bzU3UkhnMV9qam9uNkE1Yi1FVlRJOV9XRXR6NWpZS29NMDl4dlI4cHQ1c0pVeDBQWHZZSG5DZ1MzWXpMT0cxRC14cnA1bXhDMnRwd0lpMnd2bXpBRktjV3h4Wm9LdUxTdURkUzBCSE9ZTUZzbUoyVzlleDB6c1pMSW1XUkhvVXFrTm4zVEowd3hFMkxvSjlHZUdmTVpyb2FJU1VVbGF4cHRxYTZEbDkwRmhwMUNGWGpmSGNoY29LdmFsSjJtUjAxUUZoS3ktOEViOXBlbVI3YkowWktPbkhkeUFEb0ZIN2pfb0XSAfACQVVfeXFMUFR5WmM3R0RIZ1ZCa1hWNFJRbVdMTUFWVmNKRFVSeUR2SS03ZGlqMWluWDJBdHpuNlpIMVoyWlBycXh3YmJyOVNqZnk2OGVxR1dUZzlkeXdIMEhKS0N1M0dCcS02bUhIb1dsUWRTMHkxYktpZ1JQQ1pnQ0JlVldSd1V0LTQyWi1kc1pCRFFycFFTeElXdFBFaUZlMkZYUVlFVmp1NjRjNER6U21OcmctUmQwMWd2Ui1pcm82RFFOTEl3QjRVVTlMQkJ6SkdDbHQ3bDF5MFVSdlVsUFUzVHY2M3FjODExNTdaWHk2cVpaaF9xcmFBbno5M2kwSG00ZnpxbTFQRUhzY21ucFprWC1GTEMtOUlMMEs0cUtnaVVJS0FLSnBLTE1Gb2ZEejBORkFZd2F3ZnU1d0o5eXpaQm81eVd4WndwY1Q1RnhZdWtyWHVRbjJWNndYOEhrOXh5dHV3Mm9MZnBvcjdDSEhhekl5UHI?oc=5",
@@ -1524,22 +1524,6 @@
         "content_hash": "6905a719a1b9aef3665e3369cd2dbb6d21739f7a9e66e83269c46005b6778f7f",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 6870,
-        "title": "شاهد مجانًا.. بث مباشر مباراة السعودية والعراق في كأس الخليج العربي - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQd051WkF4TV91eUpSd210eDVDeHlsTlMtNjNuaVQxOUp5Ul9xYktDX3FaUk5Oa2UzZzZNNWd6d1ZIRlQzd0tIS1BQTmdGYmJnWV9INU1PUDRwam1aWXcteU43WWJkUFB3Y3Z1eU1mdXRkS1FWQVNPcUtkVHhKT0VLTFM0T3lRTmZlNXNiaGowb2ZRZ0xBSXZkOTRVWEk4X3VIcGxLQWVtSkpyMUhLWkFERmRveXZTM0NNbWI1RFJscDBTVVJIYkRSbXB5bThYSDhIT2lJM1BpS2ZiVUhzRGJybDdRRWhLaUhCNlZwRjQ1THdBVEZpVDlMemdHdXFLYl92SVFlanpqOEhYZUE0UmpqRllwcjdHMjZLeENIR3c4aGZGdEVSbXJNTl9tQnlUVXpHY1lfXw?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 18:26:44 GMT",
-        "discovered": "2026-09-29T18:45:18.309131+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "شاهد مجانًا.. بث مباشر مباراة السعودية والعراق في كأس الخليج العربي 365Scores",
-        "player": "",
-        "content_hash": "966c505fb3c0a781082064a6381fe27ff26637814744709c14713a49975c1b2e",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1556,6 +1540,22 @@
         "summary": "التغيير هو الحل - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
         "player": "",
         "content_hash": "0b86b8f05fbce50e8f2d42d4d678c4ae04a16c8a6ca0fde5ba78c1d7aacf33b8",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 7005,
+        "title": "تعثر المفاوضات.. ترامب قد يعود لضرب إيران بقوة - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQX18zODFuYlh2RXVoMUVkNkMxdHlqcWNBUkZmXzVjTFdMbWplOFo5ajRYb1FsX1h3VkVOWEJlakZPSmlpODBXNTdBWjB6SVMtaWNIWmFUWDRFNWZtRnRETEstblpPNkI0WG8yVWYwT2VaeG03WFF3cFZENDEzb2R2UVdaRmdvN1QtcDBCVXZWRHNFSWxYQVBGN2VVNVNSM1lFOVlZYnVzU19DT3h3MHpVcVQ0Q0pjaWhrTTdmWUtiV3FWNWZ2cWlkbmZRMWpvcGN4UGtkbGZULVNQUTlpS25ZSzNod2JqM1VoenFnbWF4b3RJWWh0LVdXVmFNMk1CS040VEFwNHJMcUJGTXU1Q1NJczQ0YkVxRHUwMHFsZzFTQlI0Vm5BZ092N1JhWlBpYjJSczFDamkxQ2Q0SFdteHFTUEJzTENrUnptVHVBN2IzeVQtZHlzMC1PRV9GV3k2NndwRUlHeGFCMlhmenZwQ0szTzc2YjVseGfSAfwCQVVfeXFMT2F5a1AxUXdFLS1XYnUwRE5HbDllZXhPMWhoam16c0VKdlRUaWx4aXlpbFFFc0gzbE85ZWNXODczTWphWWNtWlR1Vy1wdEdNRTJBTjYtSG1ZNXhVeVA4SGphNXByLUQzOWE0ZnVMeDlfWWhZRXgyWjBRZXdNajNMSS0ydmRNaFM1cnYxTURBWjZvei03bzZCQm1Eb21lY1hvSHlINlAyZ1BvS3JyaE1hRWtEMzNrSWRjcDdidzdjb1phZzAwSjJVNDlJY1dLQUxrZ1NrNFNjdmotZW9LNVdMdVVtbW5qbDNnR3U1aHBmbWJzSXlTUm5OTi1KejdOVkE4RlI3QmxxUVREcGhLWWtEQjU0ckoxbHp1SGlzcVNLZUpPOVVkVXdSNHhDZmVsUUxkLUgxWWxQckVLWUpWZTRkUFZCcjc1LXlaRlNERzFGdjNyNDBaOTlmWjBtRWp2OVNTME5JSDFpcDl0ZmpRZDNpalM0VTQxM3haNkdFMXY?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Tue, 29 Sep 2026 22:59:01 GMT",
+        "discovered": "2026-09-30T02:00:38.338382+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "مفاوضات",
+        "summary": "تعثر المفاوضات.. ترامب قد يعود لضرب إيران بقوة سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "dac11bf7e68d43de2c2fe8265515e4a97befaf92a55b30c08742f9c0426300a3",
         "sent": 0,
         "section": "transfers"
       },
