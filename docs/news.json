@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T01:32:49.695123+00:00",
+  "updated": "2026-09-30T01:47:56.597894+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -741,6 +741,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 7001,
+        "title": "تقييم أداء هجوم الأسود أمام ليسوطو - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3LVhxRkMwU3FaOUNZZC1iakhZV1FvdkxRNkg0NUlTYWZ1c2xuMUFDRUV2amVHclNnLTVpVzNXVGY5eDFRdjZJMXpaajJianZJYnhaRA?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 01:35:29 GMT",
+        "discovered": "2026-09-30T01:47:34.684007+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تقييم أداء هجوم الأسود أمام ليسوطو جريدة المنتخب",
+        "player": "",
+        "content_hash": "454f3df5bc88c9e33920446b73051c1a2f51f782e15efd671274102c6b9d61db",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 6981,
         "title": "جدول مباريات اليوم - 1 أكتوبر 2026 - بطولة دوري الأمم الأوروبية - المستوى الثاني - FilGoal",
@@ -1522,22 +1538,6 @@
         "summary": "شاهد مجانًا.. بث مباشر مباراة السعودية والعراق في كأس الخليج العربي 365Scores",
         "player": "",
         "content_hash": "966c505fb3c0a781082064a6381fe27ff26637814744709c14713a49975c1b2e",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6853,
-        "title": "مالاغو يشيد بفوز إيطاليا على تركيا - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxPaXdXWXlMdm1rX084cW0xZFl3czZGQUNzazJxc3VyTG5fT3pDM2tmcjNxb2dXTjVvZll1MktueUJ3aWE4THNiYk10ZE9FRGExNUhONjNZdS04QkR0UFVkNkhydC0ySlNBOFhuMm9wYWNCSTIwdHpDVXV1bXh4RWQ4bWVNV3Z2cml1b3JuNmh5SXlEX0FYZ0tqUy0wYmVQcjRvQTJoaG5YSTcxTWxEWFB1akhSVG9mUm5sVU5ZN25lQ21rMnpUUl9vTGdCbVlwamEzU3hZRnhsMFpoai1RLW1DalhfMHlIRmJ6N09vMmpTU1YwQ2NTT0hxTTdGOWxMWEdaRUZFRkRKc0pQR2VMM3EteE0xdWx5ZHBCbVNoX0xHT2tIa01BMkhmTHpPdXZvWUZ2M3ZFNnNGSElxa0FZZmJmUTlPSERKVlpSSTByOVo1TkVQYXlodGF6SEJyeUdycUFnQ3FHMDFjbEQxNk9ISV91QkhUakEta3hydk5TVXRpVUYyY19iQnItaGRmTGp2V1JSU29faTFhemtCSVRmZ2pHSl9oVm16bi1BdVRHSm9KalZOc2FsNFlDa1ZaZmU5dTFiRmZF?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 18:18:33 GMT",
-        "discovered": "2026-09-29T18:26:37.567029+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مالاغو يشيد بفوز إيطاليا على تركيا الشرق الأوسط",
-        "player": "",
-        "content_hash": "394a11ee001873c7f109229dced9e33ef76d3826e555442db637a43490fc7d25",
         "sent": 0,
         "section": "sports"
       }
