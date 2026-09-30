@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T12:48:51.541511+00:00",
+  "updated": "2026-09-30T13:05:04.396131+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -642,22 +642,6 @@
         "content_hash": "8ba22c78f2f0e439e832c3c9eef8470744f87946a5a1b5d3f8969b72e7db94a4",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 6730,
-        "title": "إسرائيل غاضبة بعد تصريح وزيرة إسبانية بأن فلسطين من النهر إلى البحر – اليوم 24 - اليوم 24",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBKTmZ5c2ZWSmN0Z2xsRXVxM05TbEg5Tl9RS2NYLWVpYU5aRWROWjdHZzc5QkZzdVF2VC1jeUtkdzJTZ0RKWldFc0J3?oc=5",
-        "source": "اليوم24",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 18:03:55 GMT",
-        "discovered": "2026-09-29T13:43:26.353508+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "إسرائيل غاضبة بعد تصريح وزيرة إسبانية بأن فلسطين من النهر إلى البحر – اليوم 24 اليوم 24",
-        "player": "",
-        "content_hash": "01c50ca15ef0a12ae9f92a24deb7bb9c2e5dad7a95ced0ecdabff28e7be9aa29",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -690,6 +674,22 @@
         "summary": "منتخب مصر للناشئين يخسر من كولومبيا بثنائية في دورة الصداقة الدولية FilGoal",
         "player": "",
         "content_hash": "469add175988f34619fe881a6c5d423bc55a659fc185fe6365477583402622de",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7161,
+        "title": "طرد إلياس العاشوري من منتخب تونس لهذا السبب - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxObEh5U0xWbTFCNmxmQWxMSmlBMnJsZ2E2aWtoenh6c0JzRnp2dnBxV3ZTZ0c3VEdKTTFfWHUyeGlDQ05jb3lZdFRDTEZNbXdmVFRWN3c0TWEwZ3owUWc3Z1JOTndudDV6ckdKX19CRlFWdVJTalRiV1lUQlpFODZGeHJtdGJiWW90c2JDR1RJcy0zS2FSdnJLYUlyUzJBbGVpbnJna2tzU3hQRThHNE5DeHBpclFKY1MxMng5RzQ5THRFcnRSajFJdGlFcFhDV1pNYmZnYng5RmhReU9VTE5ZOFEzQ0JySmNSSUlJN05hWXUzdHhoMUN0SWZ3M1lleTlxU2VHclFnNmd2TFNCV1poQ0tLUkozeFBtNzd5aFNHZXJzU3R6QXZVYVNkdHhndkZDLXp5M1VRVFptYkV2ZVVrMjF0MldTSTNYRTZ2bjZEbHZaUTg4clI0c2NuOG9qckl6QWV2aXNXSW42NUhiaTVpOFlWNS1zUDRRcWxoZF9xOGlhazNuSkdwbWdvcGx2d2g3QnE2eVdNVkFOdGpIN2c?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 11:32:10 GMT",
+        "discovered": "2026-09-30T13:04:44.136146+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "طرد إلياس العاشوري من منتخب تونس لهذا السبب winwin.com",
+        "player": "",
+        "content_hash": "74fe999d45c2b67cc01406c044759b2a18bff5e894b97c71442bd91de8ffea6a",
         "sent": 0,
         "section": "sports"
       },
@@ -1444,25 +1444,25 @@
         "content_hash": "c3ffb65dd4259e118ae03c9156ae7e16457c70d1ddc9b188bfcd2f9fccda6962",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 6980,
-        "title": "إمام عاشور: أصابع قدمي احترقت في مباراة مصر وجنوب السودان - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxOQ21BT1BqRFV4QXZmWmNid2JXbDYwMVdzX2tlTW5kcGU1TVZrWEJMN1V1MElRMDdZaTVBZmhHZmJHc0V0WVF1eTZjalg5dS1iaEZCeUdWeldpTXpYc0x1V2R5UDJBeFZYVEZXOUY2S2ExUU5vcjVkRFMyaVNsdUxjdVZjN0Y1SzIxc1l2LUM2T3V2dDRHSU90d0o2Qk1LTnBtRTE0Y3Fxb0dSd0YxZEpnVG96S3lNSTBScHFNUWtXMk9vZXBKUG1oWkRRQVkxRVBwaHd1WmdHMUVUdmRnTzcxemJrT2l5TEtIb05kUTJVckFaSEpkLW8tZ2t2NWxiVmJqbEdJTWFsRWVHd2ZGYlMzc0x0ZVhxb1BrbGhOMDFWZ0pMemkyTXVDUE12ajhOUjMyTHBJVFhlWGFKVm8yS01VdFVxamZpZWNBakhwNlVCMkZwNGp1OU81dTZUczBrRGd4aWFrMzBVQldVU1lSZEV4SGkwbXdDRm5DZ0lkR2t3TTNMbjh1MTNnQWpyNHd1b2pBWFFRaVFVQWd0emN2dU9MUExZTVhOTWc5QWg5MFVWNjRUc3MwSnNLZ2dtRDJmWXptMFdkalJOaUJaOUR1WURpR3BBS0RtQ012VlRYekhpMlpEeUhqOXhyTk1ZeHZ6d9IB8wNBVV95cUxQaWRibWZjSzBvZElWNFktQ2xseVNnTkhkS0lUdVpzcEwxdTlQT2FDWGMtMGZucDVZZUJsbDUyR3h5a3QzZUQtSVNiekJQWHBlZ3F4NjNCZGl3a2lwSGVRRWRubFlHV0d1TTYzWXFFeUZTVFhHdjBfRkdLd3ZuUVFuNmdWbXdmcmJxb3NWR2RUTHc4UllJRnlGTnBDTTVGekZXNHl3VTJmdThnTXFLS091aXFaTHVfQ0R2aDBRQlpKbEs0U3FRVXVGc3k3aHBoNURkenZBb1cyTFc2eTRIZWRDeTRQd2JjYVpOREJwYU1tczZBYnB0RjJCalJyQS1Eelh5UmlOeEsybHBKZXEzU3o4UEk5VHJCRENCSHNBbk9TTVRXVzl0MDdvUHp6SjJXUlVZd01LN0lJQ1FSSkxKeFNLQ2k5OFJvMXJYbVAxeURwWHpFRXY2dlU3Z2V6WkF5NVBaY2FFak1xY1NkUjRoYkt3LXRhVXBOMVZaaDRGUmNSbVpUM0xTNkNZamVJLXFxejhURGIzZW51Z3ExcWxzcHY5bVMwX1NwbUhlZkxrVUVjWGJwczJJN2x4Nm8wbTBuc09BaHFrUEQ4Vms4ZGl3SVNzam5BQTN5YTZEaTJTSnU2UVhvZG13N0RVNjVJT3RQa2xZdTg4?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 21:21:00 GMT",
-        "discovered": "2026-09-30T00:40:29.084972+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "إمام عاشور: أصابع قدمي احترقت في مباراة مصر وجنوب السودان يلاكورة",
-        "player": "",
-        "content_hash": "75a478ededc88722b43941fa67ba8f872a7f58a0eae251f4b7ff139a2811e51b",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 7160,
+        "title": "رسميا.. مالي يعوض غانا في ودية المنتخب المغربي بطنجة - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fc2l4OWpSRmdNb3NJeU43NGR5cUR2Ynl5NWFfRHdkXzliemhUQkxNcEJOVHNqZG9EVkNZcVozT3RlT3EyVXlRSQ?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 12:53:53 GMT",
+        "discovered": "2026-09-30T13:04:36.532975+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "رسمي",
+        "summary": "مالي يعوض غانا في ودية المنتخب المغربي بطنجة - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
+        "player": "",
+        "content_hash": "d0b70fd33dfc26ec62efd1c84873323cb563a36e897d6bed8ec7d0f4465f297f",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 7157,
         "title": "سر الرحيل والمنتخب والهندسة.. فلفل يروي ليلا كورة كواليس 9 سنوات في الزمالك - يلاكورة",
