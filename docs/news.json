@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T22:59:20.511513+00:00",
+  "updated": "2026-09-30T23:14:15.884840+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -614,6 +614,22 @@
     ],
     "sports": [
       {
+        "id": 7337,
+        "title": "أخبار و معلومات اللاعب فيكتور منديز لاعب وسط كولو كولو winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQkFRR0lJNEJRZHpXSzB1a1RSV1hWaXR4dTBFTTdwMS04UkhiaDJfcXRpNXJ3MGp5UmctbzBvNWdoNnQxR1ZpR1BJN01PYkxKOUtLR1lYZXE3cUV6aFE4bmpzVWpUMWdQLVJDV3hYQkhsQnp3NWJIcXo5M1hiYTB0VWJyWXcxUDRlaEJsUldNeVctNmtpdVZuRlZLa0ZvSEpHN1FLWmtSLWpqWXZPa2lsb1k1bXZuZG1KRjYwRkpDdDZ2dWpDeS1Za3hDbTdCNUJrSTN5T3dBc3FDRmJzNmJuNmNPMlQxeUVNVkhzUm9SMklEYkx4ZWVaX1Y4N21FTU1MSVBhdEtFeUU?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 22:49:59 GMT",
+        "discovered": "2026-09-30T23:13:57.635601+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب فيكتور منديز لاعب وسط كولو كولو winwin winwin.com",
+        "player": "",
+        "content_hash": "60076ffee2094a8f822a816905958bab2d0b50291312f950b84f66fb4bddd026",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 7329,
         "title": "النجم المغربي زياش من البرازيل: \"أنا فخور بجذوري المغربية - جريدة المنتخب",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwbHBQQ1dNZXVSbWZNc0VaY3JXcnhsWDVCVVZUNUotTnZRb1l1Z2t4VjJoOC10QnMyVU1Md25NTWNtcEhhRkNPWm5DRjVGZUFTaGtaVg?oc=5",
@@ -886,6 +902,22 @@
         "section": "sports"
       },
       {
+        "id": 7335,
+        "title": "إعلان كبير من ناصر الخليفي.. شبكة عالمية تجمع أندية كرة القدم - sports.asharq.com",
+        "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxOa29xYWx0YUZiWWw2SlQ0WENkRW43ZXJJbW50YWlQQ1RudmNiUFA5ajNzekJBUXNxR1RjaW1rVnZOZVBkUUt0Vk9DTDNSRlUyTG40eEk3T05QcVpyZ2lIUDd6RktYY213cWl5OXo2dUdQaUJ2bTl3SW1wazM3ZEhpV2tOWExYNmI2dlZ5V3BPS09DN3Z2LXp2dTlGODUwQktaelgzRWlzeE5JVHlBMkZrUHl2MF96WDBDMWFJRnRZWWZzT3kxNmV5bUJKOVVOZUFid1FvT25ucjlKR0pLZlM0a2p1WUN4aUI4cE1zcDZIVERScnI0b3hRcnNkTmdCdWVQcFp1TlhoZ1p5a3l6cWY4bnVBbndOMWQzdk11dnZNRzBTZWV4eE9vY0ZsdXNmU0VLODhfNmVjcUdUbXg5NzRHMzhGQXBFamxfYkRQOWxieXZIWXJoalJPRTlTWW9vM185d0llbDkyNGdLa0JOYlNTTzd5MjM0UGwxcE1lRjB1YnlGVkh6Q0tXX2FjVUNTaENMbFRuUHZ3clJUT0dYWmd4M3dJZ0paMzV2XzVwQk0zSElZSEVwS2xxcDVhTGh5VjV2M2JSdVVudXVNQmVLWFBlTDhNNG11VllTTGVpUWdCTnhLMldzUGNGU1dPaw?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 19:52:58 GMT",
+        "discovered": "2026-09-30T23:13:55.565474+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "إعلان كبير من ناصر الخليفي.. شبكة عالمية تجمع أندية كرة القدم sports.asharq.com",
+        "player": "",
+        "content_hash": "54c8b54f258a8586b50ebf84942d400719f67b66e99593e90d6ab38b4d6fffd9",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 7321,
         "title": "مفاجأة.. السنغال تُعلن دعم المغرب قبل قرار المحكمة الرياضية! - winwin.com",
         "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxObjV6aXVDcExNQnU2aWVXUnBFRmlqWlVoWW1xS2ZJUUw0ZDFaV1lJenE1WTFqNy1WeWRBVlEyZU1uaU9KTnhRdlR5c1FwclA4UjFGTGlwRGQ4SDJSdEdFMEFMck9QM1NKdXdVX3pPekMtWm5aT0g1aXZwWHBaNm5OeDdIdnRGT2tEbTcyc2xwZk9RMGU0ZDVXQXVPUmFZMFF5bnoxZlJFUU5zUXJjYnhHX1hncUVSQXBzUzVaMXhDNVg5andJQWcxdVlwSUc5NTJYeE8wZXcyQTVaVDlJLVJ2S3JvY2ZOV0tMTlg0aUtJV2tqNFpMV19lVlgyMm85SFdjbHdpb293TFpEdGlaLVZfOUJ5VEhGd1U0Wk8zbkR3S3dIRlpJMXRKVERnOUpqeUJ4Y3BNcHBYZ2RzWENoN2ZyM3NJRmRFb1JxeHNWa0VPUFRnU1FOWlJtZ05lVWVtVHREV2VBOHVoT0tVb1ZpTEFMdmhkOGs0S0FRN2lYX1Zmd1hXV2hWSkZoVHhJclpzSDNWQlhCNjdjeFVpUWZ3bkxlOEdaRlpZalR1OHpKUnJJRzJSYTZBRnZVWndnRUgtSWZEQ3JVWngybVQ2UC1pQl9TQV8xTVRYM1RQWHRka3B5dGJ3ZEcwa2V2WGl1Y0pBdllWWjB2UzB2ejFtYi11N3dlcDUycnRhWjg?oc=5",
@@ -962,6 +994,22 @@
         "summary": "رونالدو يؤكد مغادرته معسكر منتخب البرتغال وسط تقارير عن خلاف مع المدرب جيسوس القدس العربي",
         "player": "",
         "content_hash": "2b064fafa5ae6fa0bf63deaae8052db80bc29859b01886886d5e7ba6788a70d4",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7339,
+        "title": "وائل رياض: تصفيات شمال إفريقيا تشبه صعوبة النهائيات.. ولم نتأهل رسميا بعد - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxQTm1MR1BXYVRlalNXNXFBSGFhdS04MDJtUUNmVmUxYlFqTWJBX1pIYkxQS1dMYldCbVZVOUEtaTZZV1plMnBMNURaTkIwNFJRYVRpeWRPMEkzZ2oyQ1VRMjJkb2Q1NkhtLTV0b0xYY0x2b3J3VlhqaFNKVS1JNjBadFZra2VYejNHekZpeE5qbTNIdmQ0dEF2Z1JWd0lON2JSczNnQVJkR05RbHRrb0E5dFF6cUhWTVZOY2xnSUZYWkZLX0hPdHp0ZGxyTzYxX3U4N0lIc1htb1czcFNuakhXWFdIcThQR1NEYnJJYmduaDVhaEtWQ1lFbVk2d1gwYmoyWWpFNlhXUGhzak4tRjJ6eDhwMXVHTjNQckdEd1lEVHY1N21sWVF5WG9Rb0NEeWpIZ01WOXl6NnhIb0dSZ09IY0c0aG9ubm5NdUpYN2V5S3NCeVhSVGE4MEFJNTdjQXBOYVhuOHBTNHF5VVhiV0xXTVFsa2RzMFFMNHk4TjZHRnktbWpXemlEMjBPeVpMcXFHMktTTkladzY1U1p1VS1YUk1oMHpDbU8yOTBDNE1STGVES1dNOV9JbDZXU3JrbnUtakUwUEk0MjJFRUZ0UnRsLWxxOHpzYkpRbnF6MUd1bTl3VXZZdU5RS2FBbnB3WXp3Z08wcmJ0aFFEcUZXdkJydXNPcjZ3THNGM2FYRDA2dG10cFpDckZINk42dTdaVHBXUDMtRS1EUHJnanFVNzFvaFRKNDFPZ2Nx0gG-BEFVX3lxTE9OQ1VtM2s1OE1ub1U0LWxENVc2R2VJdHBLd05MUUZWSl9SeE9MZTZUcjZVWDZ6ZVpsM3EwTGVJNU9kQWVPLXZEQTVzay0xNkFObEg4RlgxRnBZMnBkdjBnUmtab2M3a2tfNWI2S3Rxem0tLTg1dEJNSjcteFY5M2x4MVRLUFliT202c0kwZHJscFJDRmlWZEFsR2JhY1htbnp2cFQtWnllR3F4cmxLQmRmSG9fel9VNGtuZ0lxRzVnQXVyeFdPTjRBQXBHajZUdzJJM2pHcXJhcUh1cndwNVQ5MGJlckZHZ1FHQ0F1VDYxSGVZQ2NRTGplVEY2VnFMSC1CV2xtZkhVbmhPd1MyNlFYZFRBWC1lTjFDZnl4dHFDRTg5M0Z2b09OenRWZjBjTlg3WlVQOXFKTmw0NVhDNUhIb0YtNzZtd2taUjV6VElIZV9ZOVJlak11VS1OYkZ0ZERtZW91eVp6ellCZHJSZ1hTbnMyaDNtVkV5aXdYZWF2MVVtNDRfOFNQcWdjZE5nOGJLd2F4bEprYlVFa0xXeVpPaGFVZzNIRTNva3AwNzBFbFBsNG8yNlBNelB3b2xZZ3BtQ3owMUplWjJMMnlKMEV1bjFyQkEwM2VpNlZHYlltRWtBSWU4cmlGOFE2R0RTVXFuY2NXXzZ0VlRnUWVqXzFWd3NkRE1WbWtUbERSY29RSk1RQnY5aHFvZkU1RGdQUFlzNVdSTk93RFBDSEVjU3pDV29lZ0ZsSndCcU9Rb0E?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 19:18:00 GMT",
+        "discovered": "2026-09-30T23:13:59.260180+00:00",
+        "category": "أخبار",
+        "status": "رسمي",
+        "summary": "وائل رياض: تصفيات شمال إفريقيا تشبه صعوبة النهائيات.. ولم نتأهل رسميا بعد FilGoal",
+        "player": "رياض",
+        "content_hash": "c1ce4533218832849eb5a274b73e8f241169791e9fef78b3204da7242bc57dc6",
         "sent": 0,
         "section": "sports"
       },
@@ -1364,54 +1412,6 @@
         "content_hash": "4f7eedae9b4c7f784b166b738d8ff0ae2ad01c7e1df50deb0551977a340a7712",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 7230,
-        "title": "مباشر مباراة قطر ضد الإمارات في الجولة الثالثة من كأس الخليج العربي - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOZTE3WHprSFpRQWdvRERpaWRmekQwY2tvSXM3UGJTTmpIb1pFc3pyNnFwRlhZWUlqUEtLN3NLTVUwT0pwTHRRdHJEdzBWdHBWazVGeHM4cnI2UUNtVlNNTXF0UVdqT3lnUnJtWTVfT1k4UURGVlpUTV96MEt1eFdkSFVXeDB4S2kyd1ZkenhZR3hTRVNrSnVWU3JsTDgtc0Vnck5mVXJ2UFltR1l1YUt6X0JzbDdJLWZCNzgzMmdSM3VSbkZDemtEVXhZRXpWdDYxMzV6dDJWZGVwbTdwYzgxYUcycWJ0cnZOam03d2RaNWRka1ZNY1laT1ZPcXRJTEU1dmFIWUxCMklkQmVIX3VabkhvZ1k4VWJtdXNIQW1PdF9qWkpEbWtscDVEcWZiOU1jQ2hFbkVHQ3VTTVRtNEdIS3Q0MEtNTWZEaTk5bzF2VUlib0VTaWFSamhkOEMtMFE?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 16:42:26 GMT",
-        "discovered": "2026-09-30T16:57:17.704966+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباشر مباراة قطر ضد الإمارات في الجولة الثالثة من كأس الخليج العربي 365Scores",
-        "player": "",
-        "content_hash": "a20410ff8f7d7e10f0f6d1d0a187588a88a47512426d82f0c2ccdbbe1553c9e7",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7223,
-        "title": "المغرب يواجه مالي ودياً بدلاً من غانا - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxOak5zUmxzYjROSFMtbGY2VDNvck9CSTFxWVZSc3pmTTZpaHdncFVFaGVsd1JrUmljUXVJLU13c3hKRmZLa2VCdkJfWFVod05pbXJkWkJNVWl2am1fblBRczViaUFvMmFqeHdqLWh5WUQ2OGYtUDJERmJ5QWpPa0taQktVdHJFbS1CN21uSXRaRE9CcFhJaDh2S09LVDFwS3dIX0xrQlBaaXlkRnptRUNkNU9UQkxscXg0M3IwcmszWUE4RHRsM3p5TjhXaG5xUVFYTXdoY1g5WDBFMkYzSVZlQWtIQkYtbm9JQ3BrQUt1eWVaXzcyUFd1LTR3UWFRbjhOMm50WTJFd1FSRG5vLVliSVJrR0dIM2REb2w2MkM0aW1oNm5kVW9mSlgyTFAtZ1NuT0I2TnV5M25SeHh5NEd6eGhTM0h1TE16eGxqalp5NERETjdOeEV3VWdSaHNhNEM2TldHYVhpbVJnOTY4TGFwTnNHSGQ1Q2UyRGg2UTQwSXpYN1pqUk9xVlllamxVdHFHLTFVTmlJNFdSeldzU0lZUEdPX2pudEUtdF9fSHptRVlpZFhwbUNKOEhySXh4ckthRVlheEJ4d25kMmVM?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 16:36:52 GMT",
-        "discovered": "2026-09-30T16:42:49.208269+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "المغرب يواجه مالي ودياً بدلاً من غانا الشرق الأوسط",
-        "player": "",
-        "content_hash": "b65eb47e3382ae5dde760689bdb544734dc67db0aab4b860132c13be452e80a7",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7226,
-        "title": "شهاب الليلي لـ«العين الرياضية»: قرار بن فرحات رياضي بحت.. وبن عرفة أكبر خسارة لتونس - العين الإخبارية",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1naC16ZDFYZlY5YjMtNXlpRWpLSXZwSXdhOXBiNUM1V3RrS2hYZTNyeVZJcnc2YkJuR0JtWmZpb0phVEFvRXUtc2pvbzhNNDNycEZYOXk1SW9FZGEwTElFN01oLTJPYndTa1E?oc=5",
-        "source": "العين الرياضية",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 16:22:39 GMT",
-        "discovered": "2026-09-30T16:42:53.217424+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "شهاب الليلي لـ«العين الرياضية»: قرار بن فرحات رياضي بحت.. وبن عرفة أكبر خسارة لتونس العين الإخبارية",
-        "player": "رياض",
-        "content_hash": "d5d3d4259b19f73959c60ca89984ccf7df67a0a120c570a058c6a6fb27cd872c",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1428,6 +1428,22 @@
         "summary": "تقرير: بعد رحيله عن معسكر المنتخب.. رونالدو اتخذ قراره بالاعتزال دوليا FilGoal",
         "player": "",
         "content_hash": "a86b7870cfcd6a49e29e7b9694b670df32adba3967e28253f19b6eabead1dff8",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 7336,
+        "title": "رونالدو: سأكشف سبب مغادرة معسكر البرتغال في الوقت المناسب - sports.asharq.com",
+        "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxQLWh0Uk5GS21FenRDNFRrZVB4MzhIV2pqVnJPNEZWak9SS0RXSTU4UGxZV294WWxyNlZxbjU0ekJQR1hvdzhVYjBMREtycEJHcGx3TzdidGJXZi0xcVlIaTBFWVRGZFgtejVFWXppQTdHNExPQ182VlRhRTlWNWlSQkJPWElfTnE4NHdrTzNOS3RJakRSSzc0N3RPM3RQN2R1TWxfWE9lS3BNRjdpTkJ5MDNrU1lTazNrTGtFRmxndzA3Nlc3VmpTV3Q5QnJnMzJTR2dwVXhsUEp6X1BvQXl4d1lsZm5uOFZPWV9xSHppc3owMFdUMmFQVU9VQmVhN2ZQQWJCUXJHaHFxXzEzQV9teVY5OUlBd3czU0dPZmRPSWJ3X2Fsc0JHNXpWZmlCQWhlemd1d3NZanFJSEloNUVBekRPWERSTHVNSGhIc0pEd3JScFJyeWt6Zk9YUzVjWnFxelFmc2ZWOGd1N3F3NlJ0OFQzSktTZzJtWVBaUk1ueWNkbk02RFYtRWJ5Y2Z2LWVFdURyWEsxWkhpR3FxYmE1dHhZcUUyemFQdjdWcERNTnFRX0RuMVVtQlQ3ZFdFOFlxeGdvYTZybVo3SEdkcllfSVFIYkduazl6dW9YUmxoYlV2WFkwSVE?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 19:13:38 GMT",
+        "discovered": "2026-09-30T23:13:55.699536+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "رونالدو: سأكشف سبب مغادرة معسكر البرتغال في الوقت المناسب sports.asharq.com",
+        "player": "",
+        "content_hash": "dd3401eaae132bb35023f0b531a27ac245694e9f63b74651e5224cec10b4030c",
         "sent": 0,
         "section": "transfers"
       },
@@ -2052,22 +2068,6 @@
         "summary": "أوكرانيا تدعو الفئات الأكثر عرضة للخطر لمغادرة المدن قبل الشتاء العربية",
         "player": "",
         "content_hash": "6fb5bef62e4025509b8cde7134cd291f46766fe1024fd04d9b8a2288b7887f78",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 6895,
-        "title": "بورصة الدار البيضاء.. تداولات الافتتاح على وقع الأخضر - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNUjlkVmx0QndVZV9tRWlWMkJhV04xekdsdmpTcjNFM2xYaVpoZmU2WXBudTYweGt5QlBuaHQzOXNPTkJRNlV3RVI5WmVqZmVzOHFzR1R5R0ttME5mZHhXRUZxb2RoTGtGRnE1VkFHbWM4cmlRdGthczQ0R1dzcHdKVXR6LTNlWktqNWJEWVNVUjdBNklCbWo2bHRDRFNSWHFfdTBYdlViVHh5SU5CZk44d2pVa3c3cTU5bmtiY3F5ZS0xR29tZk5FXzBzbzJzaXhycDdNdWdpOWpIQ2RaOWJXd05iRVBUb2pEekRCcXY4dnhaTVdzbzROd3pEaDRkcU43cUVvcGs0Z2FvajR0MzFpZHhVYlVXNjJ1U0RzTVdvLXFjQk1WeWJmZFhkbENHR2c5Q0xOSUZhbXZseGhVUDF0X0U3NDV4dlYwS3JIaENib2V0dHFicnNRZy1YaFNhQ1g4ZWJHR2dYbExHTGlndTNBejBzVE5nWFd4UVMxdFdzeERlMUUwdWtReDlVS1pfYk9wRTRmWUlxTGRMMElHeHYybUZBckg4OHRvYWQxR2NETFVFWFpEUlJLRjhhLVdnbzlndjU0MVNNSmRuSWxZMzQ3dzVUaWFqc2ZKRjgwNnFIVkxRR2txbzlvSWk5Qkg?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Tue, 29 Sep 2026 11:29:55 GMT",
-        "discovered": "2026-09-29T20:00:34.570455+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "بورصة الدار البيضاء.. تداولات الافتتاح على وقع الأخضر | MapNews",
-        "player": "",
-        "content_hash": "30b1080e9ee9f3aa98dc279d924c81fd0f3d5edd566b997972efda6e90817747",
         "sent": 0,
         "section": "transfers"
       }
