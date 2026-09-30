@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T00:15:07.336516+00:00",
+  "updated": "2026-09-30T00:40:48.083414+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -758,6 +758,22 @@
     ],
     "sports": [
       {
+        "id": 6981,
+        "title": "جدول مباريات اليوم - 1 أكتوبر 2026 - بطولة دوري الأمم الأوروبية - المستوى الثاني - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQM2hBOEFudURMQV93NHR3WFNNZjRHMnVnS2dqM3JKbUZNQk5TTEF5U3l5Y1JQTnpZSFBDN3hIMVQ4RFdFclk1Tk9kcEVGZFQtdERIcU1DUlA0c3A1RWk3cUQ2Zk4wZ3NKekEyT1dxbUFwUzFLYWF2WGNjVloxMTBMVjFEanVWUGRXdGRaSVNndEJEV1ZMdkxRdEFZeXdYdGtONkhSdDl0MWxmZFVqOGJWa0ZrZkVna19jbEVIUUc1czF4cDZHeVZzMHl6N202VmlUdUNvcjFsNy1UMzhTdDRQY0NUeGVjT1BMd21xbi0xS2FVanZBbzI1U1dUS3piM3NleEJ5aDBienYyU21FWlpDYVl2S2xDN1ljQUZZRUROWXlaemh1UUI3VFk1TDJ6RWZDOW5QODllVjRFUWJISVRXQnVPLWdicWNQcWlCSnRUUG5BbXhlMV95VnlMcDl0VlIyXzNCelRmMzl3S2ZHSFQ2THY2bnZpZXF5aXRpdjlOT29ucmdTVnJUVVo1LXdKUlE?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 00:12:34 GMT",
+        "discovered": "2026-09-30T00:40:29.957790+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 1 أكتوبر 2026 - بطولة دوري الأمم الأوروبية - المستوى الثاني FilGoal",
+        "player": "",
+        "content_hash": "643630ddfbb200b9a2d89900bd57d094381e40571df14d7f75bfd842a0ded1fe",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 6975,
         "title": "جدول مباريات اليوم - 30 سبتمبر 2026 - بطولة قطر 2022 - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNktadlNCNS0xSl9EeUd4SFhaWlpKNTBfejNKbTE1STlGcGRacjNucDhMcENCMjJMbFpFVjFuMXN3VUlzNm5oLU40TC1CY2FiYmEzYk1GMVR6dHBCNEk4X1pVcUM2R0RGYVVWVnF1NnpnR3pWNmpiUkYtR29kZHV5a2xYQk16NWlJSmpOenM1OV9QLUxDTlBMbWVRU0VoeDNYd3BubEhweV9ZcWZRbU9OVQ?oc=5",
@@ -898,6 +914,22 @@
         "summary": "مباراة منتدى درب سلطان و برقان الرياضي يلاكورة",
         "player": "رياض",
         "content_hash": "0df71a38dfe09f31cc88b370f78d3972c88fda423c7af748d28f417e761362b2",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 6980,
+        "title": "إمام عاشور: أصابع قدمي احترقت في مباراة مصر وجنوب السودان - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxOQ21BT1BqRFV4QXZmWmNid2JXbDYwMVdzX2tlTW5kcGU1TVZrWEJMN1V1MElRMDdZaTVBZmhHZmJHc0V0WVF1eTZjalg5dS1iaEZCeUdWeldpTXpYc0x1V2R5UDJBeFZYVEZXOUY2S2ExUU5vcjVkRFMyaVNsdUxjdVZjN0Y1SzIxc1l2LUM2T3V2dDRHSU90d0o2Qk1LTnBtRTE0Y3Fxb0dSd0YxZEpnVG96S3lNSTBScHFNUWtXMk9vZXBKUG1oWkRRQVkxRVBwaHd1WmdHMUVUdmRnTzcxemJrT2l5TEtIb05kUTJVckFaSEpkLW8tZ2t2NWxiVmJqbEdJTWFsRWVHd2ZGYlMzc0x0ZVhxb1BrbGhOMDFWZ0pMemkyTXVDUE12ajhOUjMyTHBJVFhlWGFKVm8yS01VdFVxamZpZWNBakhwNlVCMkZwNGp1OU81dTZUczBrRGd4aWFrMzBVQldVU1lSZEV4SGkwbXdDRm5DZ0lkR2t3TTNMbjh1MTNnQWpyNHd1b2pBWFFRaVFVQWd0emN2dU9MUExZTVhOTWc5QWg5MFVWNjRUc3MwSnNLZ2dtRDJmWXptMFdkalJOaUJaOUR1WURpR3BBS0RtQ012VlRYekhpMlpEeUhqOXhyTk1ZeHZ6d9IB8wNBVV95cUxQaWRibWZjSzBvZElWNFktQ2xseVNnTkhkS0lUdVpzcEwxdTlQT2FDWGMtMGZucDVZZUJsbDUyR3h5a3QzZUQtSVNiekJQWHBlZ3F4NjNCZGl3a2lwSGVRRWRubFlHV0d1TTYzWXFFeUZTVFhHdjBfRkdLd3ZuUVFuNmdWbXdmcmJxb3NWR2RUTHc4UllJRnlGTnBDTTVGekZXNHl3VTJmdThnTXFLS091aXFaTHVfQ0R2aDBRQlpKbEs0U3FRVXVGc3k3aHBoNURkenZBb1cyTFc2eTRIZWRDeTRQd2JjYVpOREJwYU1tczZBYnB0RjJCalJyQS1Eelh5UmlOeEsybHBKZXEzU3o4UEk5VHJCRENCSHNBbk9TTVRXVzl0MDdvUHp6SjJXUlVZd01LN0lJQ1FSSkxKeFNLQ2k5OFJvMXJYbVAxeURwWHpFRXY2dlU3Z2V6WkF5NVBaY2FFak1xY1NkUjRoYkt3LXRhVXBOMVZaaDRGUmNSbVpUM0xTNkNZamVJLXFxejhURGIzZW51Z3ExcWxzcHY5bVMwX1NwbUhlZkxrVUVjWGJwczJJN2x4Nm8wbTBuc09BaHFrUEQ4Vms4ZGl3SVNzam5BQTN5YTZEaTJTSnU2UVhvZG13N0RVNjVJT3RQa2xZdTg4?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 21:21:00 GMT",
+        "discovered": "2026-09-30T00:40:29.084972+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "إمام عاشور: أصابع قدمي احترقت في مباراة مصر وجنوب السودان يلاكورة",
+        "player": "",
+        "content_hash": "75a478ededc88722b43941fa67ba8f872a7f58a0eae251f4b7ff139a2811e51b",
         "sent": 0,
         "section": "sports"
       },
@@ -1524,41 +1556,25 @@
         "content_hash": "a9dfd2623c9d6e6ce6aad3ac1036fbae128aebfedfadbbd94517c03dc9fb65a3",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 6857,
-        "title": "لامين يامال يقود إسبانيا.. ومودريتش على مقاعد بدلاء كرواتيا في دوري الأمم الأوروبية - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiqAVBVV95cUxNRlFyVHZaeVVIRjZoRzRidzBtdElSQTZlWGpzVWNqalJVUVQyRnJLLTcxZklkTVBVa08xTVdaYTl2b0M3UjdVbENleVpfNVZ5Mkc0MEF4eGlsUE1vdmtlNXBVcGM0Y2hNUGtPZDEzYUZXZVB6Si1iRUNWbEx1LTk4Z0NMNGJybFN1Qm9xRHZVT0pxT3JLOENSU3hoLTlUbUlYaDJmcDdMOU1qSjlEUWVTTEZjaTBzZnNpNWpTMVl1ZjNTczJCbWZOOXhhbXU0bGYtR1BDM3F6NWp0SGhVemI5VUxjMklFUVF5WWJ1bkY2YnpNemM3cTNkT0V5a0ljN3VkWFExdWdnaWZud2hKVGlmV19rb1ozN2pkNU1RTkRHbVBaUFRBWlk1dGNVaVA2WEhoaVB2UXRtNnZnZDhvbHAzZXFndkltRjNHbC1GTV9IVlZnSGxhWUpENGxRb2NLX1d2QzdJT1FiZjI5UUQzTmI1dGtxeld3TktRMWh3cG5GSFo3VEpxZ0RMb0tWRVdaNUFtRzhOMUdMdTdaSWJFVTF6LWFsV09kWk81a0NMS3k4c2t5S1lvck90Nm9EOFJzbFJSVVhmOF9FZkFpWENwZlRFVmx1RHFNVy1wOW13RzhVTV9sczBEaHJmQnl6RENSMmhJNTdmTGlUcXg4ZjBiX0xZd19feDJtTHZpbVBxS2NfNXlINm8yLW9nVV85OHVyb1RxRnNWQ3FTR0dvU3JtRkhpOVE0MHhpUWFlNDc0X05aMFJCbTBRTlpwek40Q1VZNWp1clZHOU9kTnFwTWZyUVc2TEFVczBFZ0N5Y3JJNUQyYVg4dHdmazlQMEpCUVVjY2xDOTJud3RITTN3UDlVS3Q2WFhZdElGTU5jRzh1U1gxVWNKUzdmNHNRMtIBrgVBVV95cUxPVUtvQTVBS18taHRhRVpDOUpJc0Y1TEVsRmxBNE5QeHdvSTNnWjZmekVMN0NSSkczS2hIVjM1UWpwZlhxaUxtSk1GU3dDYTVDV3ZwM3NBeHdRZGNyUWs0WEltS2Y1OWNHUWVJRS1lRzdKR0dTLVJMcGhiTTFQd0lrRlkzb1pBd0tTVXZkbEtqWGdjOG1hWlI3a1g5THdBSlMyUXlYUFAzUnRfSGUxaDV2N2I0RXozUmFMYXVtR3JyOHpPZjNSVlhibXdwREk5aUszbDREVDBUaHVmS21lNjBocVFDNW9uUUozY0ZobGNVbkltLWsyY1dMQ2hHRU5RRFJkZnZ2UHdRVDkwZ244anRaLV8xS21oa1Y5RGFDOE5zSDl5cEVxT2xNT2NEOGlHbC1SUFpiQlZ1bzlNVWMyMHlxenBVTVpfSzU2d2VteGtkcnF0RlZSMFlLVVIzQTNsR201cllLN1RPVEtyWkFwTVB1dkJyd0tVNTBuSFBwM1loV0s3SHBNcFkwemdUYzh3WHU1bzQ0LWFpVF9zdktMdnFwdUF2bW56b2tqZEl1N0c1TEloUWJtdmxyWVBYbTFHVWJhcmRncnZsTjBwLVZyeDNvUGEyb0dXNWVPX3pMV0hwelNXY1owQmF3VTJWcnhveFBjMFFtWVIwWVlJVjM5TGkxRGdydUVBLU9fTmYzbDBEWDZMa2VwbzB5aWVIZWlFUWoza1lmemxLWnNYa1hyRkFhQ0FsaTM2NmtqOHhGTTZjeFpnTzhTSHUxWURReWNOYXVkRWg5WWxVdFRXR3lqYVFaU01CWjdzNUdDazVfdHpHVDhOemdPaDZYaEJJT3VZaWNMZEh6SE9OcjVUVFdrdWNONzJvVjBXbTcwT2premN4OXgwWFA1WkVsLU55R1VZQQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 18:10:00 GMT",
-        "discovered": "2026-09-29T18:26:39.716791+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لامين يامال يقود إسبانيا.. ومودريتش على مقاعد بدلاء كرواتيا في دوري الأمم الأوروبية يلاكورة",
-        "player": "",
-        "content_hash": "44fb415db0756781b5a4f703288859850a41cfc21ea9994799293e872cdc9738",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6846,
-        "title": "أخبار و معلومات اللاعب امجد الغشيم مهاجم السويحلي winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMVJ5NWVmbDVnUWRTdTVQbzd0V3hMZzhiX3VkM0lIRnFNY0NBWnJvOEVIcUI5TXpJeXlzM1MzTENDcE9TazZxdWhoWWNzcW9PR29PRjJLYlpROHptOWI1MWUtUVFGc3hnYnRRYVFqQ1U5dEJLRGFOVUtMOWM1SnF6VkJUVkRqQjJoTllyYU9CQVBwZVJyOTVXeERPbFpmbWZkWXBsRktaNW9NZVZ6MklMX1pNR1JaZXJMU2w3TjRaRGNVZGZRSi1XTmJ3ZVczWG50YjQ0TDlqa0NkS2ZSWVpsa1NoaFFEakxZaW1UMjJMc1M2TjJfbkI0RldKNnVvTFNy?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 17:59:38 GMT",
-        "discovered": "2026-09-29T18:03:46.751503+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب امجد الغشيم مهاجم السويحلي winwin winwin.com",
-        "player": "",
-        "content_hash": "6be4722d29cc8c23f4aec222f5c5d1cd2337e156f30f0861fd67dbc45d14adcc",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 6982,
+        "title": "اكتمل عقد المربع الذهبي في تمهيدي كأس رئيس الدولة بدخول الفجيرة ودبا الحصن - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPMWJUVzVpaWx1ZWVaeU14OWc1TXpWbHlHMm1BaHdNandsWlhXNHIzcGlZZUxSSFFaaGc0WWFENWk4Tm4wWF9LeVVjYnNkaGZneWFLLVE2bThzclEtd3pVMG1VanpLeGZZc0pjRFp5ZlBXWHRud3p6VzIxNWJDTU8xekdIa0R1ODRDd0gyVXAwaGdvVjVlSUpaeHgyaHRKOGVFLUktR0RlWV9ydDNIZFpqYjhnRHQ2ZEJOdEd6dTVzNGtIa2h6UXJBWnFYeWRIZHRIbTJ6WmFfT3pBbnFNTTFZa1hCWmg1UGJITGtxSzVKNFN0SHdKN3VGVzB0WHNVdEFpa0dJakRwLWh1VXB4U2dKZ2pvUm5WLW95MXdnT25oQ2JKd3Yzb210YnFQaFlLU2RFM0VlM0dKLXZUTnRXRUxnSld3QnBrRTR0cWt5YkdvMW5BbVJHTGVhc0NnMHVNQjhX?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 18:18:42 GMT",
+        "discovered": "2026-09-30T00:40:30.610128+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "اكتمل عقد المربع الذهبي في تمهيدي كأس رئيس الدولة بدخول الفجيرة ودبا الحصن 365Scores",
+        "player": "",
+        "content_hash": "ffc36b445bbafc509012c18b079e3e4ceb1b767163c2003d9c74e3180b5b3cf8",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 6948,
         "title": "رغم إصابته.. كورينثيانز يعلن تجديد تعاقد المغربي زكريا لبيض - FilGoal",
@@ -1956,22 +1972,6 @@
         "summary": "اللاعب وافق.. ليفربول يقترب من أول صفقات الميركاتو الشتوي بـ70 مليون 365Scores",
         "player": "",
         "content_hash": "ab49a3ff1b1b5d139844cb45d786beb8fe3442642bfb18f5292d6055f0f2c533",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 6480,
-        "title": "دوري الأمم الأوروبية - إيطاليا تكرس العقدة برباعية ضد تركيا في فوز مانشيني الأول بعد 1198 يوما - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiswVBVV95cUxQWDhndmlsUzE0OTRXdjJEZFAzTXJvOFdVb3lhZUFheFBTSnVsMkNUWENubVJkTDV0NmVRaVRBWnBUd3NGbTlnQS1fbU9ZYlp3d05FRVI5cjg3eVFVajZXVXM5SVRUQkFUWVpCQnBaRnh6NW9aN1BhLVN3a3hBeF93NXZnN05ENmpBSGR6R1QwcVNPZU5YZkx0MWxaZFpVUEN6VjIwakxPcHJvZ1BlQndybXhZWUVZdnFIeHA1clpyVll0cUQ2UE4xOGRpS1ZlRWlqbVJTWl9CYjNHWFk0UmZ4d1BvSzVfRkF0Y2dRc1VEcHN6MUJ4ajlhczMzVXcyeTFMT0lrRHVrS3d5bThnVGxSUXlMYWlqbXh1UzJyZGRUTEhGWTlkSEM3amlVMU03ZXRrb0ptbXZwRmFzdE81ZFN2WVJ4U196V2JQcGFRYk9TQXpSdU1QdkRQaEphSmU3NXhGWXFReDhRbFhseGhMZ2FuUkRZWnQ3Y0o0NDF6M2k0eVdGbWJzVjlNemhMeXdOQnUxdjhrdnJPNmRIMmpDbW5PdnJXekgtS1VlTFB6S2pha3h2amp3R1N2RTdJdzk2R25laE1EMFZDUzczc1AwNTRqWktoN0xndlN4THNTTllodHBZOUR2UTVxTXNfQmJSNjJEZEVtUUVkYWNQNEdCV1I3T3R0dDBKODlqenE0aXA3bDlaU3VVSlVOWVNnd3QtUS13SWpIeVpHOWtzTzdFZjliWjlMejNiVTdnaVl2UlYyWmY4THJCUG1BQjdkMC1sSTRYcndVTHAxRDBXZmtTMEZ2by14Rk9JT0lSSDFTeXF5UE9vYlk4c1VIQjI4NFRyb0NkNi1ZbXlHcEZOLU9sTXN6X2NTMkxnRGFMVWkzZVV5Ul9ua0l2VXZmNVNzdERXOWdiLVpJ0gG4BUFVX3lxTE03SWVIY0JMOUNMbWFOMUJxc2E5SjZYaG52OHg5Q3RCN000Smk1anczU2tXaUJqckh6UWxPcmhIZmtGU2YtTmVCN0RsRTdSUi1wUUtpTFdMMWE4bm1vREVwaWx3OTRPaktlekJkSnoxaUx3RThheUJaT1kxS3k5R0ctelZmRVI5bFNaZ1VpWnR4RENaNGFVdExpbGl3OXdTcXA0MHRzenhfSzVZNGJRVkpoZnh4WUY3Qi1BSzhTeFpPWHA1TnFVaTgzekFCeWt2TXp6QlJsWXRoN1VLYVUxMldlTThLSnhpV2dDcGJJSW5CU2NsclRsYTBpTDVzT05OVXBCdURYcHl6Wjl6MmJXSE9SeXBWUW5oUGdBMHFjR09ncTh2bGozWVhpdGJhMlFWM2xhYkcyRlZLZDZqNDVITEdHNGZkZzZpZjFiTm1PMXZHWmt4UmJkYld4enNkcU14S2ZiZ2gzbFdIVmlBbml2dWxKRnVUX1UxTGZTUDU4QWNBLXhtbFJqdDlSd3FWSHo0cklreGd3RFcyd3ozWWt1dmZxbVE5ZGR6cTRUTjdYZ1lxVERKNVhTdFJtV3Z4QTF2TnBlbVJsRXV2QkgyRVowZGQzMG1PX2ZTNkxwWFlUSkNyRVk2emg3SWpfT3NSMWltMFhfeUFEZ3RDU1JET0FFSjI2OUM0ckJJMHhrZWRlNWdzelpLbVNmRTY5cTRVc3ZwdEMzNzY4Q3VLYk56ckJ4amRyRDluamF5MDFsMVJtT2VSU0JiNTVGazIxNS1SbVFYQ19ka1hUNVVicjlYNnFDMG5SNnpWdUZQUWEtbEY5aGUwWXNIdnNuYTVPX1FST3RqZi00UTBTZ0hZM2owQmNzYWc1VjVRSXoyaEdxQ2U2NFF6OThTNW5sdURxaHJaMGV5VkxNQjR2Uk5hcw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 21:29:00 GMT",
-        "discovered": "2026-09-28T21:46:14.850769+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "دوري الأمم الأوروبية - إيطاليا تكرس العقدة برباعية ضد تركيا في فوز مانشيني الأول بعد 1198 يوما FilGoal",
-        "player": "",
-        "content_hash": "d2fe7bb75734040011dcc8dd40bf2acc2e413a2a3d32efe411dcd3c997e2e320",
         "sent": 0,
         "section": "transfers"
       },
