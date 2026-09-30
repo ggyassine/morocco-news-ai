@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T22:14:47.622780+00:00",
+  "updated": "2026-09-30T22:32:03.678059+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -614,6 +614,22 @@
     ],
     "sports": [
       {
+        "id": 7329,
+        "title": "النجم المغربي زياش من البرازيل: \"أنا فخور بجذوري المغربية - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwbHBQQ1dNZXVSbWZNc0VaY3JXcnhsWDVCVVZUNUotTnZRb1l1Z2t4VjJoOC10QnMyVU1Md25NTWNtcEhhRkNPWm5DRjVGZUFTaGtaVg?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 22:29:50 GMT",
+        "discovered": "2026-09-30T22:31:38.352775+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "النجم المغربي زياش من البرازيل: \"أنا فخور بجذوري المغربية جريدة المنتخب",
+        "player": "زياش",
+        "content_hash": "c02c81e8cc2e4530735c4eb2cf402cab055b4e50da9d0512d4c7228237fa8940",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 7320,
         "title": "منتخب اليمن يتغلب بخماسية تاريخية على بطل كأس الخليج - سكاي نيوز عربية",
         "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQVnp6czBCeXktZVVvNTFmYktzWEJ2VGxuNWkybWw4TXMxYXlMclBpdTBZR1NLRUxST3RrTGlEdm9DNjBnVVZOM2o4NkZFZ20ta0U3MTlyMEpxa3dHdjdyWndIdGF2MmNmdk1rbDY3dzFoNkxrcFlTZTlFMGQ2TkVZekt6ZkxlMW5WSmtvSGd1RFdTV19BUG04aVc0bVJhdjc3ekJTTEU0b3hxTXJVMk1rRmZXeDhKSUwxVGU5enJnaEc3ajVqV01zMU5sSHFmSnhFWHZaYXhEb19VeHBoaURfTVFjY0M0UUF4Q05FX3E4VXF0a0FIQThkT0N6SzdrNUVQRXpTMkx3QkhVMk95bW05eWhYTEpiTU1wS3FsbWpJc0ZWMllaOG5sQlowcEJ6YThoOWlUQmlZcFNrYnJpa1ZJalFRd2s2bW9tZHZqN3FldDVFdDNRUTdabFdTRGw3YVg1dHE2dS1HZDJaRHoxWmhZMWdBeXZxNHFXRUpWdjVXaEt1bUl1dE5kRGs4UVFtRkhTbGxoTW9USUFROUJRMmlXWWhQc1hoWlh40gGuA0FVX3lxTE0wQ2pWaUVRMm5UbFdjR0N5VFVPYVZOUGF4YnFJT19LeUlfbEtsTUFjMDF6clNlZGZSbXhGV3FIbmxadUpYOFlwMXpYM3V5RWZ5MlBCSk9La1BXclN3NlBLWUtGbkJXWll5RWpJTTc4MGRKZ3QyOWlCMDRmNWh6ZDM3cGlKanA1Vzc2bDUySTNYQ3JJTGhRRV84WkpoNnI2b1MwcngyN2hmWVhQa2lrWHNjdW9zeWtxaThRYzYzbTFkSDFOcEhkR2xERVZtOXFMMjI4WmlsckhEQjFCRXVUbzJsc1M3VFloUF9wbExZNUExOEpYSG1QMmFhaVhLMlhvNkxPTTBJUllWRDh3cjdZVHFiS1NXVXRYeDNJYVNHcGVSdVFxV19KTUZZdm9nUll5cDZkUEo4dTJmLUJib2hjOTMzNVB0QWkwOUdOVnZhcmxBYi00UDJxTjBLOXJpLTVDYjJIQW1xU2NtU2c0TjJlSW01ZTZzbzhFMnFTa0wxWDR2ZkZuWjd0YmdNWEVoZ1c0YV9vejFuZVVrelNIdXNOUW5veU1rQXFEXzR1WTB5aXc?oc=5",
@@ -738,6 +754,22 @@
         "summary": "مواعيد ونتائج مباريات كأس العالم 2022/2022 يلاكورة",
         "player": "",
         "content_hash": "7d80f8d079ab559300b1a08575c4b07fe3a791e1ed8d2a5aa83f0cbc02db28b2",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7330,
+        "title": "مدرب البحرين: فوجئت بخماسية «اليمن» - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQVHRMT0wya21HZjA4VWlhOTVVcDFkZ3VBaHUzVk5DMGpvdlBBRjNjQkVoY0QwM3ZOQWJYcC1zN1F4a2hLLUVoODJfcVoyUThrMGY4bWF2dGY3YnB1V0d4Z29xeUhveVFyTDdxbFU4V21JblN2LXNscXVaWnI3WklhZHpUV2NPdmZXZWg1VTV1eGgtNTNSbXVPYldDcEJiWjFxODg0ek1DMXo4NGJxdzYwb09NbHhNM2gyenhJOTVOMi1kYnJJeWpHQ3JMQTF6dk1heThsN25EVlRlbThoc2JpVFJIazhPendlcjJVajhVQjVSNmlyTUl3MVFiVmFjWjI4ejlOaTJvTDlYREpiU0hUMGFUTHF0MnEwdWhEYzVwaEE2NWJoNlRhWVgyOUFqTDJBV3BUMGNWS0xKT0Z6ekhaM01UZ2M0aFNhZ2Y2WHlnSXNQNTU3M1R2V1U2QUtkWDNkOUlxTk51OHFYV1NSUGhEc2R0cTJrZTB2RlBLdW9qUFZtUjM3Ml91Y3RSbTlMbkZzbVBac1FrSUhNWExoemF2N3lIZUFOb1Y0bC01UHFzRTJhZw?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 20:54:17 GMT",
+        "discovered": "2026-09-30T22:31:42.681940+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدرب البحرين: فوجئت بخماسية «اليمن» الشرق الأوسط",
+        "player": "",
+        "content_hash": "1ec8bf9ac9ec4c3e0d7a80f8d6388dc9cec4327b26afaff505e0699236a07571",
         "sent": 0,
         "section": "sports"
       },
@@ -1378,38 +1410,6 @@
         "summary": "«كاس» تفتح ملف نهائي أفريقيا… جلسة حاسمة في 8 أكتوبر الشرق الأوسط",
         "player": "",
         "content_hash": "fe16a07baede78565754ad1512334f3ac211d5392c1bdde8856299657fa3caf1",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7217,
-        "title": "مباراة فريقي الأهلي | كرة يد و الزمالك | كرة يد في بطولة كأس العالم للأندية | كرة يد - المركز الثالث - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQLW1sYWVEcGtNYk1ndlQzSDZnX3FkWEY1ejFZMHBkN0E2U3NjaGZ1M18yNEEzS3NyV2xqcV84OGw2RHI4SXk2cl9mcDBDWlBNT0ljNmpQYVR2RnMtRjNzbnFVeUowd3pJNHMzYzloei15WUJwX091OE8xV1ZFb1hzYjFyTUxSODdLSXRpaDZCdG9LRk5RV1ZSODdJNkIwRnZndjk5TkM4dVBWS2JXZ1N2VEJwdkk2bERRYzJjQWdZdnA5WS15YjVzUEZva1A0bWJUV0ZIT0hoZk1GMktZU0Myc1pKNGZHUkwwTkhneW9LcmkzZlF6anZpWW1tUW41U0k1Y2RLcEpfOTRhT1M1T3lHOGVocnk5dUNjSER4NE81ZDdlTkhaM2EtVTVaY0t6T05QUkR3V2FhTjhYXzFPbDJxVVMwNTZWS3hkWWxwbHJhZzhXdmk0bXBpaG42cGxfbDBLMEpEb3hyaDhLdFVrNm1LZk1EU1YtZVJHM2JjcDlaVEhTY3ViRExudTNwNms3c2VvYW9FTWlHcWVpYXQ3eGhlUFZ2YmV2clVqNWh1QXpwbUlfNXRSNGFHZ0lJMmhTOW9RN0ZFSzlkUk5CZUZLalpFbUc3QXlRYV9xN2pEWl9YMXVicWx6Zm5mcnJKUDN1TVZxY1A0WTQ5OXZEaUJqTmczVA?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 16:09:55 GMT",
-        "discovered": "2026-09-30T16:26:40.162815+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباراة فريقي الأهلي | كرة يد و الزمالك | كرة يد في بطولة كأس العالم للأندية | كرة يد - المركز الثالث FilGoal",
-        "player": "",
-        "content_hash": "fe073163361868698fe461fc102e1dacd165da22b795ce4144c7eef2cb0be30e",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7216,
-        "title": "مباراة فريقي برشلونة | كرة يد و فيزبريم | كرة يد في بطولة كأس العالم للأندية | كرة يد - النهائي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQT2dOTzh0dmxXWFl6NXRja3ZfcTZ4cU9raUtNWkh5V2pjdTBtT0R2T2xuSEZUUUpJTWtNYkFSSHRlTi1XUWNQX1JsUVdKeHpQR01taDlCNkFUSEhWN1Zfc2p6cTk1dm0yWHg1YzEwWGozWGoxZld6cGQxbVB5cHVQVHUtZHJaSFEzMjd2QUxMaTlWXzA0QjFGcm9KdlRFN19UY3d5ME1zX0NHallKdExIWEFzS3Q3REJ0bjl4X2dkQm1Jd29UR2NOM1pvVV93dHUwVjd5Z1VDUlluQjZQMVdqWFR3ZHdERlpQZEhVWmhKNm5WVGFTeW5DMXZnWnlsOWpnS19DYkcwNmNjOW1leWJ6b2lROTJpNzEzRlhfNFBiOWpIb1UzUHFlak92akFBZGhPWGFSUUwtY3laZUJTZUgteXdDY0RYM1dWV2VCVW1STTIxbkZ4b2laMjRHWmowVVlXMU00QVJBRTNxVUJUVmFaNkpHU095NnZVd3JES1AtV0NSZkh5MFpUU2Y1c2hnNHNGWll4T1NvZ1RYRDl5RGdnZkRjWmlmSldOMVhZV3diX3VEQUdSYlkxQXdMVGNMLTh4QVZWMTV1eXQxZEd2QnNVeTRJR1h4eThXVk5hMXpJcGhWSnA1UnRleFVWQ0I3eFhFVkRGUm9OeW1HcVFKSzRySHYxV2hLNmh4?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 16:09:55 GMT",
-        "discovered": "2026-09-30T16:26:40.159042+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباراة فريقي برشلونة | كرة يد و فيزبريم | كرة يد في بطولة كأس العالم للأندية | كرة يد - النهائي FilGoal",
-        "player": "",
-        "content_hash": "538864aacf403a2ec8a68a8495467fd935d8c167d1229e165ab055384fa62de3",
         "sent": 0,
         "section": "sports"
       }
