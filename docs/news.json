@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T15:13:43.557583+00:00",
+  "updated": "2026-09-30T15:34:44.384043+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -64,6 +64,22 @@
         "summary": "الرئيس الإسرائيلي يهنئ المنصوري بتعيينها على رأس الحكومة المغربية Febrayer",
         "player": "",
         "content_hash": "a7242d524775462680665ae4bce3da4e2f3147c6e71bf8bc4d7fea3d04951a5b",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 7198,
+        "title": "شاشات تلتهم النوم وعطلات غارقة في «إنستغرام»: دراستان تفككان فخاخ الإدمان الرقمي لدى تلاميذ الدار البيضاء - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0QjZNV3R2NnVNbGhvNUMwYkx4OHY2V3J4b2xMWEpLOG5yNzZ1c1lvdVZGelZ2SzBQUEJfSHV1T29RMG9UTG1nbkJVTTd1RW4xeXdtU2lZdWZNQmdNNEliSzBFYlFVQQ?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Wed, 30 Sep 2026 09:15:54 GMT",
+        "discovered": "2026-09-30T15:34:13.677621+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "شاشات تلتهم النوم وعطلات غارقة في «إنستغرام»: دراستان تفككان فخاخ الإدمان الرقمي لدى تلاميذ الدار البيضاء Le 360 Arabe",
+        "player": "",
+        "content_hash": "71a42319aa461fe92b811f508c02b24f1661422bdd52f57c723d1007a884f74a",
         "sent": 0,
         "section": "morocco"
       },
@@ -642,25 +658,41 @@
         "content_hash": "d077bc2f9a70bbeb4aeac4c0151042a37a291c7a32bc11a2a2f1d2d6449dbeef",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 6796,
-        "title": "الانتخابات التشريعية 2026 : إقبال ملحوظ للناخبين على مكاتب التصويت بجهة الداخلة-وادي الذهب - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMilgVBVV95cUxNV2JyZ253NjROM1B4ZHdCcEs3YmF4ME1VQVBUZ1cxa295UENDdUp3NGJLU2llYkVGcWJ3UTc5RjdpdzVURW90R1JRZVJKMDZKTG9GZ0xpMHNqY2VfTmt0OWtvUFlfdkxoT3JCRDl2LUJzUkdIX3hyTG9OU0hHZERPRWNtWVdZbGNJdnZWLW5ZM0tYZ24xU0VOckNSOWJhUUVYVEZkUDRwTk92c0NyRXBtVm5RN3Z6ajl6akpuci10WW5tVC1PV192ZHlXbHBiNE80RUdsTmt6MWUzU1RJYWt2WWlXaDhIU1hLQ2xrbS00N2trbWREQW96eExpdGIyNk96Z2c2NG5IaUtodGVDS09XcDFBMUNmd045UUwxZDRLRjhyeUpNc1J6WFhhdkNaa0dHMFE2MnF3aVhtLV9xUFpFZTBtMmhZSVlHSkljWDltRV84Njd4RVZUZGFIeHNEbzJSMHh4RmFPQllmVzRRMnluSDZXTm8wdC10OWRpZjdlSUNwMlhCQUZIRkxiX1FmVC1lNkJ1b09NQlZzdkRaYnNRVWJjOXFnRUlYTHdYbG9XWGF4ckFJRTBaM0tOeElxdk5JNkE2dkttb2xuMTRzREFvTDNGbW1EUTJ4S28zYy1JVmpWWVpsRTd3TXFkdXZRNGt0Vm5jcGxmem9JY0ZVenNJSy1qSm04NjJlMi1UYUFTTkM1Q2V2ekZUWFhqZ0FDQWl0bERiQkZpM3NWU25CWmcxajUyY1FfOXRhMnBtd21ma2VHU3YzcGJzWVFla2N3ZmNQb1RBMFJFUjNKUGtRMEMxWkVwTTNiQ3BCZENmMWU1QmZGcm9fbXltYXZDSWxRMFE5VHFrNHgyY3ZvX2lFQ0ltM05sT2ppUQ?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Mon, 28 Sep 2026 20:50:27 GMT",
-        "discovered": "2026-09-29T16:37:11.015978+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الانتخابات التشريعية 2026 : إقبال ملحوظ للناخبين على مكاتب التصويت بجهة الداخلة-وادي الذهب | MapNews",
-        "player": "",
-        "content_hash": "c0c06f64f7bdc5a2804d86262e7269537abddf01d5c175c227ef6362fa0e1273",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 7199,
+        "title": "الواحدي أفضل بديل لحكيمي - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42dEVrTWNkekV2U2NyRFJqLXU4MERQZEtrdnZYb3JBVGZVSURzSmx6dHQ5V20tMENaNzJCUGt2TlV0a2pSQVlGYmJNZ3lMclJ0RFF4QQ?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 15:23:39 GMT",
+        "discovered": "2026-09-30T15:34:20.520520+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "حكيمي",
+        "content_hash": "3297ee69da8976102794382afcc9bcfd08a15f1bc1185eaf16f5cf200cf3193a",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7201,
+        "title": "خاص | الحقيقة الكاملة وراء تأجيل انطلاق الدوري الليبي - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxQNFBLb0JaMGc0TC1kdTJoZ0VlLXZXYW1fajBMRm5JemlDcl9pcFhjMGVSZHkzY0pYRWdfQWJ2ZTF4LW90TkZJbVB2dWVoRDFHYzdrMHprSEpmYVU0dFlGSlo5SDlwVWJNdERCNlVyR2I1T01nNkYxNzdNcGlBMVp2bE9LZTJyT3ZQVlRIQVZoOWEycEloenRpRVVkTWhKWjNMaUlFWVc2cnBuV3VpdlFGQzRSdjVLak5VOWdxMEdLbGFKVHhuRGRPcVA4R3lGUjJ3dWo2SHpqc2ZMRzdhWGppVVpmQmdSUEdnWmJQaVdGWk9ZeGUyUTdRNHhlbk9kM2FkVVd1NjBEZXc2czNWUmYwWE04OEtQak1zRXlGUFVJNVBGZGdIV0hUdG52LUdIc2F5T1NTSGdnSFhUX2ViRml6N3VFUmg2aGdUWGR1b0VrN3JLZkRsOVBqVnJEek8tLXppcXhKbmlVazY2bUY1SEk3Zm1TelZ4Tzl0M1Q4d2pkeUl4dld0REdhTVRZZ3AyQWlpaGdpYUtrNmlQYnhPVllEMWJWUklDaU5vZzdlaXNMcUFaaVQ4cGRiNGJwR1djUlB4c1J1eVZyY3pqcGwyRWwwcGxHaFRjb3ZOcGVab2xB?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 15:11:56 GMT",
+        "discovered": "2026-09-30T15:34:26.219688+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "خاص | الحقيقة الكاملة وراء تأجيل انطلاق الدوري الليبي winwin.com",
+        "player": "",
+        "content_hash": "c131ca61c6ea8e6718c6055e323d2b9c14f2c7e9904cca0945562989efc273b1",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7191,
         "title": "الأسود يخوضون حصة لإزالة العياء بمركب محمد السادس بسلا - جريدة المنتخب",
@@ -1238,6 +1270,22 @@
         "section": "sports"
       },
       {
+        "id": 7200,
+        "title": "تفاصيل جديدة وخطيرة في أزمة آيت نوري مع منتخب الجزائر تورط عنتر يحيى - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxOR3pZd3Q1bFl4U2tlNjIyMjMxRzN3cnFUY0tsYVYyaWVlV2RFRjZQQWZlMmdqbERFbGYxM3RJTlR0VWc0MDFrc2dxWTUzLXdWcEVUUTFjVzVIZU9ZY0FMNkZDMEtiQlFadXN5TFhTcnpsYVRCM3BJZG5ySGlHbU4zRGZINDBBTjctYTIyUHo5c3FZSlZOS0hsejV1YTNsOURrNGhHd1BmZG81U2ZpYlpRRGxOM3h2QWt5d05EcG5rQ29GVGlMTUt1ZU8zTGs5UUtHdEUydkxlcEo0VFRjTjZXUW1pLXpkVFFKaEVoV2JQUFl3cktoSExUTEJsR19CLVZFTUJlZEl1U2hPRFRyMUNyQXpOZW1sb25RUmhuWkJfcXhvTWVJdk9UYVBFNEZKa3NxRlNwTWdrVzBJdEV6aEN2a2h3RzRNZko2cjJfQkVnc0VGX3FUTDJiNlNuTjF0b3ZJcmxRcF9qaVp3Z011emx3Tk5DNDZMRFRSN2pJSlRYV0RUWlFQTFZzbzcxcWVnSXliNTNtZ01jU0ZXd004S2tDcTRFUm50cjNpbURPekR5S2pWU2JtS0pOVFdheGhJdWx0b29jdUh5TWswY0FqOUk4UWFIdkQwcXVaTlpnNERlZk8?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 08:34:42 GMT",
+        "discovered": "2026-09-30T15:34:26.196050+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تفاصيل جديدة وخطيرة في أزمة آيت نوري مع منتخب الجزائر تورط عنتر يحيى winwin.com",
+        "player": "",
+        "content_hash": "95508649a7a7f5ddd46b34d518526393d0fdc455a67ba0129fa1234309cd8e28",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 7093,
         "title": "دونيس: لاعبو السعودية كانوا مثل الوحوش أمام العراق - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOYlpiWlhESk90MXZNYXBtcFpfaVNSdHkyamQ0aFRDZDBHeE1rYjZPY3I3Vkk0Q2NqOVFKbzFCczlFNnd2ZG1ldHBiQTEydGtabjJkZjU1eE9TNkNvVXU0UmNFMXoxOVpjd2VNUW5HNmx4QjhETW1jbDdDX1FnOVFsWC1YMVBZT2kxR0dtN3BBdlNieEYtbEdLUVdaMWtJbWp5VFBJUkliQVM4VHhXdEZPVjlEQ29JRUQyOElGYWtCcGgwMWVncGlMcGtXaEROSlNUVWdOV1ZNSlI5aXdHdUdXeW9oX0V0M2szVEZzQ1pldXZjd3pjQTlqcHdwZmZfc1Y5ZGhWNzhtQ1hRa0RPdkNYSTJNVDZLZkotdEczbTBIUEF3cWVCUUliLUsyRWVSdE96dDRKd3V4eWxudVVVT3lTZDVfb1RuSmhEbm1kekFzMDNSbGNtWWFWcWJzZEcyeXRpdU4xaGplT2pyR1dIeG9LYVFYT0NNSnBnVVgtX1ZQNkNLcDBYZkdqaWxON0hDdGZSWDNET2JvZ0t4LUZTTm5PVHYtYmlMdDdzYmlj0gGwA0FVX3lxTE04OG01clZUdEQ2dTVlMHFiMzNGU3VaaWE1Vl84eF80MVdadTVyRkJORldZZHRtdTN6VEd3RWxxM0FQU2VGWlBkYzNNMDRqT2dMbUZ2U2ctbXJiWE1zeGgwR1Ytbl9xMGNpS2NEeGtaajg5cWltNExtLVN5VFlHMk4xczlMVWZSMUJjSXFqUXdvYWZvVW5uSC1SWEdkSnZUVEM5TVNjeVBzX0dVNW5Xcm1neUZ0bVVMakZnV3RYYTRSN3MtZzM2alNCeTRHRkVJQVIyLVF1Y3hveEsxTG53b0FZU0NCNDFwQTNDcnUtUGdYcldnWTE4Ql9obVptTFJoZnZSdzl1OFRtQUM5WWE5UHlFWVpaZEs2cExwOTZLUFJJd1M2aUR3WFE3cDBSdHd4VDlWQ1lqV0k2eUtSTFhtXzdCNmVWSVhCMndzUUsyUWRuWm9Ga3JpTTdseUVkZmtoQTJFVnoyYVZfcEI2YVRDdzAzTWdmb1c5SVRZeG5VYXBTRlJDV1JKRHkzWEo1QUFZcXdSd3pXaERRYXdyLXBmVmxMSlpWMzNpOUw1eUFEWGRYVQ?oc=5",
@@ -1410,54 +1458,6 @@
         "summary": "تقييم أداء هجوم الأسود أمام ليسوطو جريدة المنتخب",
         "player": "",
         "content_hash": "454f3df5bc88c9e33920446b73051c1a2f51f782e15efd671274102c6b9d61db",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7175,
-        "title": "مانشستر سيتي: دعوات لاستبعاد النادي من الدوري الإنجليزي بعد إدانته بإبرام عقود \"صورية\" وحسابات مضللة - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lWHZPZXdHLTNGY25BaHd4UFhyakZYa1Z5ZFJnZzVpdWZ2ckxJbnRRdUYyOHZ5VW1SSFpQT2h4bUpaMDhkU19pMVJ3dWpVQVFtX3JoR2NDLWRMTWVjRHfSAWNBVV95cUxNVXRpMTdnOVBlT25kVExZcVEyc2V2dkFDMGdOYjNHQ25mUHpvZWt1SWkyemFHcGVHZkZ1MV8xNU5RQVJaUjdLR19UbWhvcDB3ZWZSa2psRlBkbkFMb2VtLU9PZTg?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Wed, 30 Sep 2026 00:44:36 GMT",
-        "discovered": "2026-09-30T13:57:37.807383+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مانشستر سيتي: دعوات لاستبعاد النادي من الدوري الإنجليزي بعد إدانته بإبرام عقود \"صورية\" وحسابات مضللة BBC",
-        "player": "",
-        "content_hash": "4da5da5f88271514aad3bee83e85d0f1e60e9b377314f8420c758569b9667f1c",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7033,
-        "title": "دعوات لاستبعاد مانشستر سيتي من الدوري الإنجليزي الممتاز بعد إدانته بإبرام عقود \"صورية\" ومخالفات مالية واسعة - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lWHZPZXdHLTNGY25BaHd4UFhyakZYa1Z5ZFJnZzVpdWZ2ckxJbnRRdUYyOHZ5VW1SSFpQT2h4bUpaMDhkU19pMVJ3dWpVQVFtX3JoR2NDLWRMTWVjRHc?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Wed, 30 Sep 2026 00:44:36 GMT",
-        "discovered": "2026-09-30T04:23:37.923675+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "دعوات لاستبعاد مانشستر سيتي من الدوري الإنجليزي الممتاز بعد إدانته بإبرام عقود \"صورية\" ومخالفات مالية واسعة BBC",
-        "player": "",
-        "content_hash": "4c2b25f5f83cfd447fe8dc14b04cab50eaedc635cd8f75299f900c08bd05422a",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7053,
-        "title": "الاتحاد الخليجي لكرة القدم يؤكد دعمه المستمر لجياني إنفانتينو - جريدة الشرق",
-        "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxQRmdLUG9CX0VJaWFYWnpURG9CLU1ZTmVMOFJmb3FTSUhCQnNCVGNPak5obGs3emZReWhGRGlHQkI4bzc0WjM1NS0wMXR3X1dNQklNNmV6V1JkaVFnTXc0dlRSbjc2YlExaG1ENlhFV19DRUtQMUFMdktxdGxyWE5jOExoZm9CNkI4Ym9LbXFwVlRrc3pHMDJRUEI5ODNmRUd4T2tWNTBRTGRoTGNDWDBkZkE2Nk1CLWl0dmVrYnZYengzeDFsa0l4V0VYWE9ONnNhV0pGU0wwZk0yWGNyb1lseExMYi1MczRjdDhMRG5aUDM2S1JsQlZoOUN6NkMzMzBsLUttMW4ySktvaGt6TTBsajloNkd6WURPWmdoclVxc01mQXZDeFRxU2MwMnY5UTVxNVZGTjlRNXpGN1lGODhfME9mVU1POUdDVFdLV3FEUTFBVlZZajl1UTNObGptVUxHRXZLNGtNYThTb0ZmbC1peUhRcEdFVEIwaG83MnhpRmFDMEVIdjN1OFlyOXJISjJEMkFuUkV0M3ZlTFZ0aUtDMkp5LWpDb3VaRHRXRHdZM3hhTlRXMVlYVURxRmM3ZVBSa28zT25yRGxIWklqLU4zWUFzYVAtbmRnMW0zdlVOZEwzMmJSMkFacFR5U2JxaVFfdGFxZjJhWmNiTENPbjViY3BuUEE?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 00:26:36 GMT",
-        "discovered": "2026-09-30T05:24:16.109821+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الاتحاد الخليجي لكرة القدم يؤكد دعمه المستمر لجياني إنفانتينو جريدة الشرق",
-        "player": "",
-        "content_hash": "206283d22ca7b84a50f27d6724d23739b1f2a0119e4855dece228d0d862625d0",
         "sent": 0,
         "section": "sports"
       }
