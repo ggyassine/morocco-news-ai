@@ -1,8 +1,40 @@
 {
-  "updated": "2026-09-30T17:46:23.356764+00:00",
+  "updated": "2026-09-30T17:58:59.137002+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 7246,
+        "title": "امرأة على رأس حكومة المغرب.. تغيير الوجوه أم تغيير السياسات؟ - dw.com",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92TmE2MkdERkN1M2FIR2dtelFMcGtvM1dXSUJtbGZ3NWUwUDRWc3c3Q3NFN2JkaGpld3dXeFFjc0JjbnRQRG5RRDY5b0kzUnVTSDlSYnpXbGh2aWtnNHQ2TlZnRmZ4SDNpTGUwekNJUmo4cVY1aU9EdnRQQURJdw?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Wed, 30 Sep 2026 17:48:45 GMT",
+        "discovered": "2026-09-30T17:58:55.316296+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "امرأة على رأس حكومة المغرب.. تغيير الوجوه أم تغيير السياسات؟",
+        "player": "",
+        "content_hash": "13a8be36d69684aee8b45603cc828024a28df1a274b5439d82a19b44409b2e32",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 7242,
+        "title": "بعد تقرير أمنيستي.. وزارة الدفاع الإسبانية طلبات من النيابة العامة ومحكمة سبتة تفتح تحقيق فانتهاكات الجيش الإسباني فحق الحراگة - كود",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOOHk2WkUydnpJOW5jUHRLUnZYVW1ET0RVTGxZNWVKUzNXVUNGZjRtdDVYaE1MZnFNWWVFMEpsRGF3VEVfNmJVd0FScnF0V0lhX1I5T1c5MExzRW1qQTNObXctNE5zSDV3RVdwcWprbHRNTWE2UWpnRW0zVDNCVThwcnR1eHViLXVUOE9CTTBMRFFCTXZRQXlkUHNnS1JXaVpBd3F5dC1hM0tJTVd6bElCSnh0UkdfV01FTkpqemFRV2tZeldUNTJsWE00LWFhNWhSSHFWeHh3clk0QllnWERianVOVnNrOFBaVzBsMjdsQjkyVWtYNllZeHFSdUpKZ05MN0NKdi1aSVdRZ000M05sUHNlbWFXUG9DUVpXMFVQbDM4b1FKS0Q0NnNCWE0tb0Vkb0lvVW5JS2x6Q3Q5cm1SNldMTHR4NUtCOWc?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 13:55:33 GMT",
+        "discovered": "2026-09-30T17:58:28.885956+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "بعد تقرير أمنيستي.. وزارة الدفاع الإسبانية طلبات من النيابة العامة ومحكمة سبتة تفتح تحقيق فانتهاكات الجيش الإسباني فحق الحراگة كود",
+        "player": "",
+        "content_hash": "a7dd1a148c7084506e3ff2dd981d27e9efc3ab0378156b50ef342f6c1daee8f7",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 7197,
         "title": "من هي فاطمة الزهراء المنصوري، أول امرأة تترأس حكومة المغرب؟ - BBC",
@@ -646,6 +678,22 @@
     ],
     "sports": [
       {
+        "id": 7245,
+        "title": "برونزية غائبة وإنجاز فردي.. سجل مشاركات الزمالك في كأس العالم للأندية لكرة اليد - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiigVBVV95cUxOSXhUZm9MRWpVVTZGWGwxbEoxR3dTT2pXWkg3aU5aS2EwellDVlEtS2lJUkY4VUJwdXVQcmFwNGxqdmNtNmRreDBSMURyUmRTX2VYSXlkX3NHTktaMWRULTZ1QWpKSGIxTFpnVWxjeXdpZGdIcWdQNm9pUWR2SXZ4X0sySnBxOEtGdDJfVVQ3TWM5bEFyZ0ZaLWdmWFlrODk4eGctV2poRHU1R01qX1NBMThhcFhiTDQ3U1Z4MjBCaEwtOFZ5RDVmaTdpY1ZaZ0NBbUdySmYwWkRvRWJPZVF0VTVPOE5hT21FbGk3c0Z5Z1hpRDd3SVBQZ3BVMDlDbXJ5SDM4ZGtjS2dRRFZSQTFPRkRXc0RhU0RnVDRnMVBhbWRIUV9wcDZLMEdCZnhFSWwxTDVnZ19uVk9VSmljZnVPLW1HakFZMjlvaEZ2VHhtbm5LVjBfcnJWMzg2TlV4Q0ZGRFQ4ZUpTT2daeEpXVFZZZnpwR2VDNGpVM08yMXNsa3V1TGpTV0h3cUhTeVBheUZvYTR2M1FlVUlRUkJ1dEJNbHRpcUs0cmM5MDlsZzZEaXN2a25IYnhTMDVFTi1USDJFSmFfN0xyYk1CU0NzX2xPbmNBUG02TkZaRlZkTGFQSWlHcGxaaXFHRzhZZkNBRU5yUFk5WGI0YnhRcGdROWJZbnRtS1RJZFJObmJaaVBtelZaeTQ5M3hEaFYwNXl1X0Q0TklTb0kyM0VOV2ZfYTZRcVNnZ3FjNjlkYnR4YktGZEhXSjMyMnNPRy1vMFRvRFRNY20yOG1LZEllNlBneWFCREtmcWVXZW53dE5LcWl2N2lWeUE5eEluQWJaV3l6c1hnTVE2N3o4eHpiQdIBjwVBVV95cUxNa3BUaENtbjd1aVRaZjZEOWRGdDEzVVhFZDZLNHB1UUoyelk1Y2VSOGpQUlh6RkQ5TkJwSTFfWUZ0eTM3eDlxakxCb3JBV1FJcFdSdGtVZGFYOE9DSjRhLTNSZ1lPdmtUNkVVWW9HcDhNc1lVYjVSeEptTjdEdVpnZkJtcDhyaklmYlBUS2NSa0ZucGpuZEhWb3FjUnl3c2E5eVlESmw3Z18tWnNMazdBRXNzdHlvaDh5bk5ZRThOSnZ3UlNzUHgydUJMQXZvdFQ3V3hvcnZYeWpFbEt5OVNfb041am1PQXdCSlJ2d2NzVTA4MUxiWFZBRDdGa0NOem1IaC0xNU50Z3dfQ1JSUUNXd1FDY055Y09YMHkyUnpyTVFoTnZYQnpuM1ZzSUdHTzQ3NjlVekN2UU5sSnFvYTdsN1NrVXlGTFByUmEtUkVXNG9BRGpkWUduNDJaNllYZlRFbmFtc0hpRnppaUx1Qnl2anhBdVFRYXNWS1A1ZWVDVnhOT09od3MzdXdDQmJLZndJblU1LTgyTDBuZEFVRjBWbm90bFJZMHN2emc2Z0NwSHY2NTlTcm9KMzhtdElNRlJBbkZBSENEMHV3WXlzM21ZZ0tkYUEzVzlXdHJuRmkwcGpmS1RtVWZNeUZyalhCU2tFOUEyV1JyODFuVEpqbVd2ZnM2Q1BZc01mSXEyNzZKVUUtZ1pDSjN3NGJPWGIzZ0dVeEdnSEtGLVcxM1RORWVINHNIeUp6NFBFYThhUzZDMk10eGIzQTFFMS1IcVdWc0prZ19LNkJ1VjdJTjRWbXZqNUloeHR3ekV5WW9SNm55N3BXdTNsUjVfY2JiRTNjbi01SXpxY0c4NU5wQWtZdVU4?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 17:44:00 GMT",
+        "discovered": "2026-09-30T17:58:39.713837+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "برونزية غائبة وإنجاز فردي.. سجل مشاركات الزمالك في كأس العالم للأندية لكرة اليد يلاكورة",
+        "player": "",
+        "content_hash": "ff65ce54f08727519de27aaf758f32cc1438c5064225cf8d8066d1135dee9bf5",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 7236,
         "title": "الكوكب المراكشي يتفاعل مع تعيين فاطمة الزهراء المنصوري رئيسة للحكومة - جريدة المنتخب",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12Rk8zN2dlZ0hqM1dkZUZoYWtfdFY5SlQxMm9VWjlkY29GZVYxTHpQSHpyWnRRTllVMFR0d3RzVzVIdDVaT25WdHFJSG8tTUwxWjROYw?oc=5",
@@ -754,6 +802,22 @@
         "summary": "شهاب الليلي لـ«العين الرياضية»: قرار بن فرحات رياضي بحت.. وبن عرفة أكبر خسارة لتونس العين الإخبارية",
         "player": "رياض",
         "content_hash": "d5d3d4259b19f73959c60ca89984ccf7df67a0a120c570a058c6a6fb27cd872c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7244,
+        "title": "الاتحاد السويسري لكرة القدم يسحب دعمه لإنفانتينو لرئاسة «فيفا» - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxQajg5SXpGMkJUODlac3N6YVVnOEdOYnB2a2RBRnFpcUR2Y0JHRnNHZkdvc1U4eHRXQkRQWUM3RmJYNjFkckFjTGJvdE4tOGtfWEVSUUloRWhVa0hNVDlubzRmTzRRNWZxLVBGbGFXTmllMTZCRl82TGlOdWptcC1RSzRvWnMyRmlNaGdES1VRdFdTZks1TzAtVTFsSVdSYnJxVW5hNlV0MUo1OEU0NEljcUxacjQzR2JPV2VHQjZrYkRTaVZwZGdwMUtHMksxcWRnaUFvanYtM0tTRWZfQzN0bVp2eFEtWVFqWlE5aFhVWHFwWlJZVnNfOFF3Mjlqc0lYQjVoN3d5ZjVobnlTMnpxWU44bnFtXzVBR1Y2S2tEbjBZZjZOYWtiSkxNLWNQa3I3Z01uTnZBNEZoQ3RaZ3VTS180RWFkeFF6UURaZkdwS25QRlpGTWxHSU9BT3pBRnNFRkN2M1hLcTJJTDgtbF9JZUxVWjczel9iVm9UZWlZanhpTkRTb2QyR1pXY0JSRmtzX0Jqd2s3WEVXMjJkX182Z3AwQlR2elZ6dURxXzRIUm5jYXlxb2NJUkJiNDg5Qjl4Mm5abUpGb0FqSXI1S2NucFVveE1CY29IVWFyRVRVZFp6VWUtbUQyaFZkT1RSVzA5cmlzb1hvenM4ZWV5Q3ptNGpoWkNoNlpIRjB6bUtlRXpkcHhyakwwcmVPOF9lMS1scldJR3o5VUtXS21Sc3ktUVB0X2d6VnpnLVQwX3R0VlZ2YTdidlJGNUdpV2tobnl5cUlDSmxKVC05V2xkWWN3YXBZX2xfdWtTbVVuWnktZnN0Mmdwc3E5SV9kMUJuUEE?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 16:17:33 GMT",
+        "discovered": "2026-09-30T17:58:37.384361+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الاتحاد السويسري لكرة القدم يسحب دعمه لإنفانتينو لرئاسة «فيفا» الشرق الأوسط",
+        "player": "",
+        "content_hash": "8ad9d7bf1e3a8217d59966d1d1fb73d607b611b6469e35df4cc49533fb19d0b3",
         "sent": 0,
         "section": "sports"
       },
@@ -1412,38 +1476,6 @@
         "content_hash": "74673e94b18399d782e0cab2641c0fb2e46284d6de29fa81bff2d12bb1f7e2c2",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 7132,
-        "title": "الليثيوم والفحم يتلاعبان بأسواق الطاقة الصينية المضطربة - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOZ3pqdzlxTDJJZE1hTUVXZy01enRxTXk4V2wwcFRnTzhMRDl0MzNkTmxsX1huTHRtOTNVS2dXR1ZjX0ZIeThkNFpEb21lbmNxM0VXcDU1dmhMalZ1dDVJZEhVRHowT3hISF9KTEFkT3d3X3FkZEp1T1RMdWVuUjNyUnNsaUd6d0F6eUg0NnhXSGdjalhiR2NnTUx0TmZjLW1WYzRfdDIxNkpuWXdYOExFT0VBUG1GYnRPNXh3cUlqdG5LU2lVbE92UHhnSU1nbndYbUJOUTZEZHhTTmE2QzZOUm9MdkJ0aGtYaXhOS1IteEg0eDJwUUF2bDNCNi02WlprOEc2VTRqdTd1OW9ZelRRWU5rcnFtOXhoZFV4azdBWV9FUnB3RVZwaGhHXzlkRGpzMEdCS0Fodm1va2JCTjk1NnBJeHZNRjFSLTNiaGszcXRpMlNzNTZBczZxdHVaVmRqYXJCN3M4NmlzM21vckJ3cURuUDkzSkxsMWZiSUhXSkxabnVvVjlPM0QzWWZnU05IU011a0R5WXFMVlBEZ284azUtVTlTakVtSUpvUEREQkgwODhOMDUtV1RIZFgydm5nOUZFaV9BRGpRTXBGWmRfc2p6YjR4Z2pQZ3fSAd8DQVVfeXFMT2E0bmMwWDJ1MW5MTFhHMUdmZXY0eTdXeGduYWlzRUt3XzRET080eWlFamVEWS1XWVJSSmZydE9kbDBQX2FFeUxQdllGdWlJSWs5ejhuMXNJWUhrNGFsNWxlMWh3VnV5T2dIS0U2aGJaSGpFLVh2cnVHY3BidmdGQTlhOFV6bTRqUGxtd19SYUtBUWg5V0I1bk1zdmlHcGlhUEJud0pRMmhJUm1BcThXNzlLbHhUSV92WXo2X3VJZldadWd0RWpBN0oxSE90ZW1faExRN181SWtYYzRIN3ZZVzBXQVZyVXBackQ2WExDSHNaVGh6RVA1NDZfNlRZdVktUDVoTC1kMmhieG02d1NJcWM3ZVJpSXZLYlM3c3FJZ2lsejJiSUNKdVF0QWRrQTRfVzdzbkpvN2Y2bGpZeGNXRkJXb3ZzNTJubWdPQzlIZjVWb2xULS1GdHhWVXZOV3gtdHJseWRZSzBIRThGaHhKd2t0RmVxOXFtcUxDWTZ5b0tTUnpRN25acnV1c0JfUEZkT3ZoWTJNczZBNE1uSWhRY3YtbS02dlJjaXJpbGwySW5Od3BzQnhCZjdfOXRyZXBNUXhYSXluOHVmUGFXRzUyZUwtaGJXRFZYMEFYVUd0cTg?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Wed, 30 Sep 2026 10:34:35 GMT",
-        "discovered": "2026-09-30T10:57:37.110431+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الليثيوم والفحم يتلاعبان بأسواق الطاقة الصينية المضطربة العربي الجديد",
-        "player": "",
-        "content_hash": "b80dafd348faafcedfcf4b44a2b75d18061174bd476c8185cb0eb346ddca064f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7123,
-        "title": "تبدأ من 20 جنيهًا.. فتح حجز تذاكر مباراة مصر وجنوب أفريقيا الودية - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxNa1RNMV8xTzRaTk9BWDktUUdGcmlfcW1PRUM0S3BDX3VTMG1ZbmxFVkJmbjh6bHN5bkJaTUNvRVk4NEM2LTYwOC1xN3pHMTQzTmJub09UOEQ1dU1nNl9Ra213U25YVzh1M0syclcxVVRPS2hTSW9mYWZfN0pHUFdqQ0NNMzZjU0ZRVEk1U2o4RmRUOUVLRC1TeTExVTBfYkFRMl9NOVh3dmRpeTdGT3d4Q1gzYnh3YTQzeTN5N0c0elA5S05EU0Y3Z0VGd29qd3BCbUs2dFJ1T0oxeFloekxoLVdlVm9fZzdSSDk0U1R0SkhFTnREbHJ4MTRKN0pQUU83cVE3VTRMamZ0d3ZhdGdpMzVrLXZOLW83OFRRR2h5OTNGTFNwbUtyTWRsYWZhWlBTMUhFZEhHeG9xbmFRZDJ5c1BtU2owZWdSR2FpVkZwVkk0UUdjYUpHSjRWTFR1TlRJNmQ3Y055QVpBOGt2WHpjTTZ2R1d5WTZvXzEtcHR1VTktOWhBR0lxQzgxNFR0aWRUcXI3VWlOQUVMM2hHcTVTT2pWeVhzSGktUDVhQmxBektGclZlWVVYM0tPdVZNSV92c2V1b1lpeFgtVlZjWUVnQ0drWEtJRzlTWGZUYXJzWS1iYktzY2JXTUdrM2dLMk03TXBISWFxWjJ3enJhQXBfTUs4VFTSAYoEQVVfeXFMT19yb3Vqdi1nNm5MUWxiTmdoZzR2UzJYVGZMYjVBU3JmZHYyVThzazBmdUgyZlZhSHdYNTd3YjRXUWtCcVhrTHE5TUY5dW8tSkx2R0lMZ3lWOVlXSmdJREc1UnQzN1FxMFFZbVlDRkdaZUpYOEpLOXY4dWZsQzlOVnpPRGZyMkJjYXk0Z0YtdndLQWhVYk5ETzBHanVxWUthNlhYMkhtVnRZcHlNWkVqZmJlanhQdVhtRi1sYlFYZHI5QnljXzctNGlkblBGd2F2VEo3b2hPN29tM05ua1hQZW1ld2l6dTNPcDBIV3ZXWFpjV0VmRFRMekNQWjFFaC1HZkJ1OGtPMGNFLS1tak90Qk82OHBxM2lzWEJ0cW5mQzIycE8wWjBEMk5KOTdta2RiQ2lYeWdTOWIza2tINEplWGFrUDllRFRJcjA1YS02ZjdwS1hBY1E3RGs0OHVFSGFtTWVIYUJPdVlDZVhIYnJMdjM4dnBOYy1BT2hVTnJXS3FVRlZJbU5NNTByUzFYLXpQRmhjUTIyQ25iZzNyVlRaTE9STnY2LWEzMC1nZ1o5Sm1NUEJ3UnBsRTZCQk84UEVMelFzQkhGN0Q5d25YNkwwS2JkX1NGUHJkekkzaVhvVTFJWU5pdWh4cVk0UlZlY1ZrOU5jVlVDSUhXMEp0Um01ejYxb01mcU1XdzF3?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 10:34:00 GMT",
-        "discovered": "2026-09-30T10:43:35.612925+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تبدأ من 20 جنيهًا.. فتح حجز تذاكر مباراة مصر وجنوب أفريقيا الودية يلاكورة",
-        "player": "",
-        "content_hash": "3d7411df6faa1db39949870ecaf3ab31a7d21dc724067cc65dde6afb3a922174",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1876,22 +1908,6 @@
         "summary": "الكرياتين دون رياضة.. دراسة تكشف نتائج غير متوقعة سكاي نيوز عربية",
         "player": "رياض",
         "content_hash": "c9c04c97ac3fa992bb884f1741e5529ce81bc94461b6d960e59caab9e201b00b",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 6745,
-        "title": "\"تعرضنا لخدعة كبرى\".. بوتشيتينو يهاجم مانشستر سيتي ورابطة الدوري الإنجليزي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxNVUF5ZnIwU2t5Vks1YVRKd3BXZ0J3bV9sUW1sYzZkX1Z5QWJtdkROQTBMYjY0YzRrV1NldmJaTUFJOUpDSjRCVlljQldpU0haN3FSVl9lNzNQdjU1TXQwcU9OVkU0ZUFEd3BQTHFhZG1LRUx1UXliRjM4a1Z4S1BNclFRR25WTl9QWGhqdnprb1FOZmVHTW1NNG5zaXVVd1NIMVg5bmlGNEFyRkdzalk2Q0pvcFNjWGlnMXJXQ2tvWl91Qlk4VzlMcG52TFFWalVWLXhNazNJM1hMVi1VN01UdlJfQmlYVEJXVEpZb0NJbi1PcUJseHVmOEREZ3JNcHM1NkNtNkhmVk4zd2hMMHVHRUNDZEVaVE9KOG05TDdwMmJtMjFUOWFYeVZaRVhWZU1uVTRRNVdxMk1vNGlSOE1DVndTVUVWYUIweUc1RjFlVjNHSGZLV2hraVY0V284dmVhTXRySGw4d1Q5ZmRKekZHS0h0d3ZCLTFNOVlVVTVzVE5qMmQ3MzN6OGtZVHl0Y29aTURuV1l4eW9hazMzaDFIUlhZM1BKY3VDWE03TmV1WjJSRWQ4bnFfejZKOG0teDlVOThzcU10V0ZOOUVNV2EzRnh3eEllUEhicDRjeE5XcHpTelRqendZTWlwbFVIXzdrcmZqQVJXUEg3OFNkcHFFRUlRcVl3akZYZ0F1eVoyN05ZMjVVQlNWNS1mb29vXzZqVEd4ekVORVVBQ3pJamZNaldjSjgzTHZFbnU3VU9YVUVnaTAzOVNkT1lZS1I3SURo0gHWBEFVX3lxTE5LcGk5b0ViZGpZUjBvZDk5TGYzYWlZRnEwZGtPbXRkZ05HajhFYXEtRFIzSlR5cFRFMEJ3b0Y0SVFha3pLNnAzOU1qTVZsRnhNMk1XejNmaXdBay1IRW00WVpJMnNxRDNKQjFlN2Y3WFVZMlpFY1pzRGVna1haemRoMXNjV0VTaldzTGY3SlNYOXBhTGN5dEdDTTd2eG52RWFCYjNPbEdMYVpJMURNV2kySllqNlFRQVVPdTlNNmV4eXRxUDdjSmZaTEtsb0ktdUdyTGNpU2w4VXFBeHdqYTJ0RWVzeXBFMWE0UlBOYUVlTGdreUwycUZLQTdVVEhTR2UwajJyNWgxNWJGbS04N1BDSExhaVROY1E0UHZjaFJ1dkt1THFSZXY4NkxqVEhjdTVVRVpOY1NNWTl4dTRsRnpKNVJJUmpMTW4tci1xRnJOYmNFblIzTTJNV0ltaTFVaWtrVlJ4UnFyd3JiTEJqbDFhZWJDbTFWNnAwOHpmUGRnb05yV2VmNHYwTU1lUXZSWkRpdzZHdEtzSV90V2JCQ0xQb2YwSnFmR3MyQzJVbVhQWldsaFZNRVdXTTRzZ2xvX0ZhQXNvMDJHbXUzQTBZNzgwdWFpV2dZc3p1S2ZycFRyQnhROW5HcW94RjZnVnNTUWZsVHNWRmw0ZktKNWVyOXoyUFFuRzZBY1R6YjVJUzJUdHJ5Y3JKY1k4SFdPanppc2dPa1IwRWh4MHRxMEhwTDdNeWotcnMxSHU1TkVqUmR3QTRIWEoxaDZXWTZXVmlvWVliS1hvNnc?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 14:12:00 GMT",
-        "discovered": "2026-09-29T14:17:39.911632+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "\"تعرضنا لخدعة كبرى\".. بوتشيتينو يهاجم مانشستر سيتي ورابطة الدوري الإنجليزي يلاكورة",
-        "player": "",
-        "content_hash": "cccd754635352968cfdacdf449f6543b3b5a994b9ff8cb25b40b8749792ea3bb",
         "sent": 0,
         "section": "transfers"
       },
@@ -2392,22 +2408,6 @@
         "summary": "السعودية والإمارات: \"زيارة أخوية\" رفيعة المستوى بين الرياض وأبوظبي تختبر فرص تجاوز الخلافات BBC",
         "player": "رياض",
         "content_hash": "674e3b91da83b91545a97e1a10fba08698abe8d721483e324df3311d1f832b9d",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 7072,
-        "title": "وزيرا خارجية السعودية وأميركا يناقشان أمن الملاحة - اندبندنت عربية",
-        "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNaVoyRm9oXzk4cUh5cmhEelY5MDFmajhMU2tBaHh0dlNpWmMxWGZLeE41eXVNWElmbmdWa1N6TEsySkxnOEdNbjk4VHZiUUZoWldhSjBRYlpqS2cxZVBRV1c1dmgxT1BOT1plMEJKb1RSelRzNERQamhtY3ZwVk1VNUw5Q21BaGhac3RIblVrbV92cm02amd2d0p6ak9TaFVUZ1VPU1NYdzcwMDhja0pRYVZQWERlVXIyMXJwNjNmOFZqeDMySlhETjQ0OFdEcjIwZm9jTFVveHJhbk1SR2w0clk5dlZIVl8xeG1GdGstNUdZNHlhVm5YajVMUnh2blBzNWJoaDdjcnRRdGxLMmoyUjY1ckRjcFBfeXJ6b0szckh2emxHTzVQUXUyM1FQR24taHR0V25XT3lneVgwblNyaXB1UExYOXB3XzBhN200RVFYRUhja09mLXhiYUpSeVJlTGRHN18wU3ZTQzBWQWxSelRIWlVDeTdEcF8zY0F3RWdnWnZXS2hTbGJ5NUdSMUJTV3hpMndQcGkyc09DUjdMdXpvN1E1d1l6UUI5bHZ6X184dFlGeUprSTVmUzB0OHpJUExFZGJaLS1CWElCRWZPOFRpUEl0QzNMUlF1b2xjcWRuMEhfNVpORDdVOENlVnI5R1pn?oc=5",
-        "source": "إندبندنت عربية",
-        "trust": "C",
-        "published": "Mon, 28 Sep 2026 22:55:58 GMT",
-        "discovered": "2026-09-30T07:25:53.351438+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "وزيرا خارجية السعودية وأميركا يناقشان أمن الملاحة اندبندنت عربية",
-        "player": "",
-        "content_hash": "d5ea06ecfa05c322af2331b2bc7ad6bf1503a049c88bda69196c663baa1d2f01",
         "sent": 0,
         "section": "world_arabic"
       }
