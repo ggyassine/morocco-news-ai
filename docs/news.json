@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T04:02:18.129585+00:00",
+  "updated": "2026-09-30T04:23:47.529592+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -48,6 +48,22 @@
         "summary": "خماسية مصر وصدارة المغرب وعودة الجزائر.. حصاد العرب في تصفيات أمم أفريقيا الجزيرة نت",
         "player": "",
         "content_hash": "9c3422131eb71a87240658965eb3643f6b058c767604ef1bc18e7f9eb7694bb8",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 7034,
+        "title": "أول امرأة تشغل المنصب.. ملك المغرب يكلف فاطمة الزهراء المنصوري بتشكيل الحكومة - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb0ZqejhhczJzUHp4RnAwSmRBVVoySkFOVXB5eXB6aXJwM2lzd3Z4VGNFM3JUb0F2ZUZKZ05RWXJzNVdjeEJNV0d1YXU5WEFDd2ZEUVFhZi1RWngxdzYtZG1VNVQ5YWRKVTA5TmJWY1ZDaHF6WW4yS2ktVnFzMzlYSG1ISWcwcUFSMmg0dFNwUnNRbk9LV3dQQkYtUkpKUUpZeGZvWTA0d0RVSTQ3d1JnRmpDQmpycFJuZzY5Q3lpSWJTMTVGd3VKM3Z3?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Tue, 29 Sep 2026 17:25:41 GMT",
+        "discovered": "2026-09-30T04:23:44.417939+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "أول امرأة تشغل المنصب.. ملك المغرب يكلف فاطمة الزهراء المنصوري بتشكيل الحكومة CNN Arabic",
+        "player": "",
+        "content_hash": "3ae9b3585c2a456a4ed761265272fa06935e7664c35dc049445d2e9997254b78",
         "sent": 0,
         "section": "morocco"
       },
@@ -674,22 +690,6 @@
         "content_hash": "3e1551dfbd74e086ebc11fddb1b903e82d636e2d7e8cbc696928ee508037b331",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 6795,
-        "title": "المغرب/الهند.. لقاء بالرباط لاستكشاف فرص الشراكة في مجال الأعمال - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxNTXNNX0FhWlhTSG55M1JJTWstZUZJYjN3VzJ3WXJZb3BQSlJ2a1FjdGh6bFpiN0JoZHJnbERfQ1g5ejhCMjJQcVhJVk44cEdtUHNCNVdBdlUwb0d3STBrLW5iTGdLUFJuOFhweTJEanI3QU1TM3p5b3RaVHVMOEwtQnR5VERXY2szbGpCeHRIdmRTNWtGd0dJUXAtSWp4eHQzaE5OdzlxdU5RVV8ybGlzLVBlUTZ6MkkzSlNuYlFuaUZYOG12NnBUYzlLN3gwd3NoT2YwNHZQUDA1MEVCeTFSUGRmejNzSXVSRDdjLWp2VHFlS08xaEt3RGxON0pHelJKLUo3dWJfZ0dueUlBS2lTb3FvaHFPOEQ4eC1YYlBqZ0JTMVA3WE9MQjJZYm82S3ZZcHROQmI5bTlVY2ZOa0ZmbDhPaTZVcWpWRVk3aXVxbUpxMGhDakNsTHNfSVV1c0xaeXZoUGJxSVg3ZjItMWQtaUtFUW40bzhtdTF3UGNHb3NyX3REZWdfQ081cEQ4Ykt0c0NreWNCclpOTjNxT1hUd2h3TGstdlpaMGt3NWZiUXRsQWkyRW5DN3YxNGU4Q284RFZOUWo5OXJ1cUk5MGs0WmNTQklKQkV2NVdYWTJ6cnM1NWJYd3FiRGo4SEh6MEhPd1pxNHluMGJfTlF1SmdrWFZTamQ5SFpwOUZ0aVhseVBMYjRiTmhMOTcxMy1NQV8wY2IwZzNGeV9BOS16?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Mon, 28 Sep 2026 12:26:46 GMT",
-        "discovered": "2026-09-29T16:37:11.013164+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "المغرب/الهند.. لقاء بالرباط لاستكشاف فرص الشراكة في مجال الأعمال | MapNews",
-        "player": "",
-        "content_hash": "d860cb2ba7a8bd6c34a861ae298b828a7f48f536a558ce9f3f5d7a71c4f7b7c0",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -706,6 +706,22 @@
         "summary": "تقييم أداء هجوم الأسود أمام ليسوطو جريدة المنتخب",
         "player": "",
         "content_hash": "454f3df5bc88c9e33920446b73051c1a2f51f782e15efd671274102c6b9d61db",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7033,
+        "title": "دعوات لاستبعاد مانشستر سيتي من الدوري الإنجليزي الممتاز بعد إدانته بإبرام عقود \"صورية\" ومخالفات مالية واسعة - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lWHZPZXdHLTNGY25BaHd4UFhyakZYa1Z5ZFJnZzVpdWZ2ckxJbnRRdUYyOHZ5VW1SSFpQT2h4bUpaMDhkU19pMVJ3dWpVQVFtX3JoR2NDLWRMTWVjRHc?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Wed, 30 Sep 2026 00:44:36 GMT",
+        "discovered": "2026-09-30T04:23:37.923675+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "دعوات لاستبعاد مانشستر سيتي من الدوري الإنجليزي الممتاز بعد إدانته بإبرام عقود \"صورية\" ومخالفات مالية واسعة BBC",
+        "player": "",
+        "content_hash": "4c2b25f5f83cfd447fe8dc14b04cab50eaedc635cd8f75299f900c08bd05422a",
         "sent": 0,
         "section": "sports"
       },
@@ -1474,22 +1490,6 @@
         "summary": "بقيادة كومان.. النصر يستعيد 3 لاعبين قبل ديربي الرياض Kooora",
         "player": "رياض",
         "content_hash": "49eb5cd17893a9ab5ebe9970d95ba179a13b3558b346e629a5dee78980d42bd0",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 6874,
-        "title": "مواعيد ونتائج مباريات الدوري الإسباني 2026/2027 - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQNGlneVI5LVZuVnNLWFFyUXRUeHRwdWhNdFU3TzdxTzREMDJuVVRpMC02eW1aR1VKd3YyVVR6MlgxU2ozR3BOalllTGZFSXpNX081dmd5dTZKSlNqZi05Q19RNklYeWp6LUNCNHNxZ2tsZW9PU096UmhRRS1qOTVTZ0J4ZVBSU0IxZlBiQWRUblVIcEJCYjcyUm5TNl85b0hYNHFMUWloTWVSM1FWa3ZRaTJsOWx1N284dTJWMzh3TXd2QnpmaWJBcFVmemNpNU1kQmYzQ29rRXR3ZG5fUzEyaHl6dG1Hc1IzejFFMFBrYWJMUmpIWUJiM0JfUGZPTHE2ZUo0TEUyU1MyZE1VS0FFNEFVSmZPYUJNcWFjSWNFS3pHeFk5Qlp4S2RIUDlja1lOYUY4MFJxeUtEcmZNNDVDMUVfQUZ1V2VtYkZDTEtCWE1wXzA?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 18:50:58 GMT",
-        "discovered": "2026-09-29T19:00:32.057778+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مواعيد ونتائج مباريات الدوري الإسباني 2026/2027 يلاكورة",
-        "player": "",
-        "content_hash": "a76377626277bde9a45f27c724de1732a7ec66a2c68301c3eec53b0749e5bbd7",
         "sent": 0,
         "section": "sports"
       }
