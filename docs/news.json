@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T19:44:22.573675+00:00",
+  "updated": "2026-09-30T19:56:49.743316+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -646,6 +646,22 @@
     ],
     "sports": [
       {
+        "id": 7289,
+        "title": "مباراة السويحلي الرياضي و الترجى الرياضي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxNeFJjYjdxeWhZZEhsdGE3TkpWNzQxZTcxd0x5WlVFWjMzUTg1UGF1WmlzWDZmckxjRDkzaF9PenJGNWN6cGtQdzItdHA5NWlwWDBnTkVMWWpsNTBIZjRrXzRPcWtJSHVkckMxTzIyN0c0ZGRlQXFBSUk3a2x1UkVfNGp6UEJiMGlNSWxUVVJlVzVLRTVScS1jU05maWFlbnZDZ1RLZlRLUE5IZVVPRGE1eklST1hOejdzWHNmU0lRa3lMSlRreFoyeVR3Y0pyUmN1a1RYRlA0VUQyQWhNbHVsa0ZZZENlOF9MQ1k4eGJpRWVDek9ZeGx0czVEWHB1UlRIc2RqWldMRkh5aVFmWkVwalFfMWZmQ2RsYl96U25lT29iLUVVaDZRTTE3VGtBV09QV2YxYXNrcEJWdjN3VURRNGNTLWlVeWh2ak9JZGs0ZWRqTExTT2oxckYzaTJ0ZUR4ZmtQOFpaU3NEUW96VTI2X3ZhdFA2eHljenl1eGxGc29Wc0w5LXRxOU1yamdsdk40QXRMMmpYTzAybndKeXFFclFYb3pVTThuOVZTcTlpcVVDSU5KVWQ2bHc5ZmVEbkgtSmFZREdET3RvWXp5OW1qWXF5bzdMaUFlXzlzZS1Edmc?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 19:45:56 GMT",
+        "discovered": "2026-09-30T19:56:32.519879+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباراة السويحلي الرياضي و الترجى الرياضي يلاكورة",
+        "player": "رياض",
+        "content_hash": "455421ebb78617b30c1e93c456ac5f5469d5549b473a81bc91d6974bd226b439",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 7282,
         "title": "الأهلي يستعيد خدمات محمد عبد الله وثلاثي المنتخب الأولمبي - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxNMGxQcWFTWmtyQWRvTnYwNUlKVzNkQ1hKbU1QN204aER4UFdpbzhnMy1CNTBlSUNPOWhObGhJREMwYnRIRkNEaEUtMGFhUVE5Wm5WcW9Cay1HVjdsZFhwRnZiVFR2MDFzYjZ1YkltazBtMjZJRUdReEpRemktLTRucWxzcEk0cHpGbEJGclNrbldBYUdpblFGNU94cVBybkRiTFhLa1hSbG12MkdXN01SZkxvZElVYW4zUldMbjViMHRpUGZkN3BIWDEyYk1DUFF1eGxpaFp4Z21WZXFsVW55MUhsYmgxOV9qTkduNUoxcjJjdDNQdW9fY0w4Skt5Qzg2UTQtblBSYXkyc25fUnNvanJuVXVhNXFFUXJHOUJONzgzSFNxWllZYUIteW1KMXNFYzJiR1c2aU84OGtWalI1c2ZMZVRGSGxWamZhNFN4c2FFWXczSTZVemt6SVJHVDA3WjZqdEdoZmZTNHk4bkFPS01OWGRqQzhmSF9SelgzTk5aQ21HRXpPU2s5SWJoRnNkTFNJczRqUldlX296TUdobXA1TWpiYm55bzNkdmY2cDYzdElvc1A3ZUYwMzFpRHFnei1NcEJITGpVSmEyZF9hY1ZmSFVoVXFrTWNuemFPZmVkYmx1dnpDY1I3R2NqT1NpZnMzT3QwaV8tOXVXLUHSAYMEQVVfeXFMTnNRWl9MMFFFMzJuNFFNckRBdS10OU10d2U3cmtKMDVBb0IwSVlucFZDM3BUbU0xUmVXbFVreVNBVTROT3NIeThzV2k4TFBWVUxxUkFGTXVGcHFPNjQ1UmFNWkt6TE1rVmJFTnlyVXNfd1VlQ1U2MHB4Vl9RNE9CalBGR3RDZHhRalRqaW5xMjdhQUprWmZ3MkdiaG1aUW9EZ1VHQmxRVXJkMm9UYU1WNnpXeHBsTXo1Qk5pWmNhaEJXM1hUQ0t2UE1OZ21Lb1hNb0dic2NGb1IxMFRvcEFINXJKNUZueEwwTU9kMGdzUXBUVGxKTUlEMURVNkFUUVF5Zkp3aUZGSmZ6Uk1oMmpVUUUxN3NlOGFLcG9MVmh2UFk2RzA0SUhnX1M2R0VJMnIyVTN4cjdFbWVwTkNNOEV3bVJWa3AyMHJjZTNGd2xrWno4VGQxZ3JwMTB2SDZUWjFtR2Nvc3l0dTBVYnJTWExrSGstRG9CV1J2a1dBelNSVDFnV3dxdUw1Q2Y5dUh5eHk3S2dsS3J5aXJMNElLTWw4VUZiRlVwcXlvRFRqUDlsMnBKbG5WWUFkNVdJSmZ2NHFKSkJacmVSZFdMXzVOZ2c1OTUzbFpfQ2hVMFpzaWoyYk1wc0FYWVpfZXJybTJrYlE4eWMxNWVfejltYmJRZW9NZHZtTWM?oc=5",
@@ -802,6 +818,22 @@
         "summary": "القرعة تحسم ما عجز عنه الملعب.. قصة تأهل عمان وخروج العراق من كأس خليجي 27 BBC",
         "player": "",
         "content_hash": "27849e93b8ba189b4bb49c3263ea2503f1b256d7109536cd451be7f0a4b6bf05",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7288,
+        "title": "مدرب آيرلندا ينفي وجود انقسامات بسبب مواجهتي إسرائيل - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxPaWJHMGdQc19oT2Y4LTFwelhEZEhtVkhaZkJaLVVWTVAxanFkWE9OTkRZeDU4SS1TaUtWbFZPTkIxcVFLeURaZHQ2d1Y5aHpkaEVnQ1hqWVYwR3hpYjVFbHhCbU81NmpuZ3AxOFQ2RmUwRV80RFE4eVpSeC1hMldJcHVfVWJteU1sQ0N6RktkVFRHOFVnVVludDlsTjZLT3FJNFo5c0FkSTVxSjdiSzBFR1dMNXZwRkE0OFd2TmQ0a1NwUzZUb1lvUmZURy1jbmVTWlVOZWtLMDdNYngwTFFkc09hZC03clJIWXY2TmxKZk9nNWs5ejRtU1BUQVJ0WnRrRDMwVmZkb3ZGLXpqaExQRTd0bFJlMGZJTE1qUXVIRXozUWROaUtOTHBBMC04eFNJMnBUcVhZbkVLRHlfNUxZNVpTWTJ6RE9LWDJQZ0Jzbk1ub2xpemVTZEN6S0lBVzRtZnpiaXFBd1lTXzVqd0pzWUN0cXA2Q3ZJMlNrUnprT1k5X1ZNcUpEQmZMd05fY3pmNlN6RVl0dHRFR1BzYzZfV29SM20xOGd0TmVPSzE0dFNnQ3hFc1EzSEt1bVYzQnd0eFJRMmtFVUpwSnRaS1ZFQzA2S1ZUX3ZzN0Q3QkNOYWtiakRsb3lUWVlPbWdsX1podzJWaUNTWEpCXzNUNnNralBTTHJtcF9iOVJhZkdvLWdHNTNlVEJsODVjUUxwUXd5RUJITTB3WU5KdUEyRVY4eE9tR2NBUGc1UXl6MGVCV0NabEd6NkE?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 18:18:24 GMT",
+        "discovered": "2026-09-30T19:56:30.334005+00:00",
+        "category": "الرياضة",
+        "status": "منفي",
+        "summary": "مدرب آيرلندا ينفي وجود انقسامات بسبب مواجهتي إسرائيل الشرق الأوسط",
+        "player": "",
+        "content_hash": "66b9754c35ddf6bf223d6548fa8f8f5581e710e357205fde66a766be98985b4e",
         "sent": 0,
         "section": "sports"
       },
@@ -1410,38 +1442,6 @@
         "summary": "خاص | حقيقة تمرد رامي بن سبعيني ومغادرته معسكر منتخب الجزائر winwin.com",
         "player": "",
         "content_hash": "c6139f389d96551230e4db0d01f133ed12aa74b20139949b0f0fa6ddefccb1a5",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7185,
-        "title": "زابيري ينال جائزة خاصة في البطولة الإسبانية - جريدة المنتخب",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2Y1JDcDl4UVdTVkpjUEFTUkVaMWxCWElfeDkzQzFhUEdTYTJnZ3BZdjMtZzhObVd6UXgtdmIxUHRvUC1GWDhaamN1TzFWRFoxWXY4Mw?oc=5",
-        "source": "المنتخب",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 14:53:35 GMT",
-        "discovered": "2026-09-30T14:55:43.563804+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "زابيري ينال جائزة خاصة في البطولة الإسبانية جريدة المنتخب",
-        "player": "",
-        "content_hash": "81001ff45e434cd07b850eee82a9b7dfb2e99a8f80d1ce8c95a402d4a797b3b7",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7184,
-        "title": "قلق في برشلونة بعد إصابة رافينيا ومغادرته تربص البرازيل - جريدة المنتخب",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxa0p5bS1FTDZhU05rLXBSNE43ckd0VHNvbEZlRjVobjlDdlJHMEFEMUtyX3ZYSTNGa0lDRmlKcnZ1NGFtVXZxMWFvUWw0NmlMMHgtcA?oc=5",
-        "source": "المنتخب",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 14:50:26 GMT",
-        "discovered": "2026-09-30T14:55:43.551735+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "قلق في برشلونة بعد إصابة رافينيا ومغادرته تربص البرازيل جريدة المنتخب",
-        "player": "",
-        "content_hash": "9a449dfe35403987dbfb179e829eac9771ddc557483dfdfd04debe4dc9254007",
         "sent": 0,
         "section": "sports"
       }
