@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T20:56:45.219946+00:00",
+  "updated": "2026-09-30T21:10:30.159635+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -629,6 +629,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 7307,
+        "title": "مواعيد ونتائج مباريات كأس العالم 2022/2022 - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPbHNEVzA3SnRWSGxuSlhkaWlLR2lfeFNwSy1BYk9uc294bHJxUVkwOWhFbjRjQUVUR1Z6YmNDZTRSRW5Cc0VUN09Fd0xZTEU2TE1lSzYyVGFwbjJPd1hPU2dqbXpTWDdTMmcwVkM5dkJ5T29KLTlCMVNVekpjT3diWFppOVhMbG5JRkMyRzNtNUtrLXVTSDVMX0tqTy1aR19UZHJUdWxRUVhGRGFaUndVRTdCUlhlQUFUQWFPczdrUkF3aFlqQWl2YU9wYkY4cDdLNXdqaUNyZ0dnNGJjQUU0RUlLUkVMaHUxNlZnWFNnTU5jTGlGcGc3cGFjb2d2anFnbjVqUll5WDRzTkNZS1IyMXZfbnA5eXpJSkk3X1p3SXllaUdhRGZld1ozRlhxWFU?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 21:01:12 GMT",
+        "discovered": "2026-09-30T21:10:10.130117+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مواعيد ونتائج مباريات كأس العالم 2022/2022 يلاكورة",
+        "player": "",
+        "content_hash": "7d80f8d079ab559300b1a08575c4b07fe3a791e1ed8d2a5aa83f0cbc02db28b2",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7306,
         "title": "أخبار و معلومات اللاعب أليكس فريمان مدافع فياريال winwin - winwin.com",
@@ -1410,22 +1426,6 @@
         "summary": "تشكيل منتخب الشباب - تبديل وحيد.. وحمد أساسي في مواجهة تونس FilGoal",
         "player": "",
         "content_hash": "448b9fc8be3e51b83ec5609cc52e6ccefae848af36dd9fe79ab87cfb33cf518d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7284,
-        "title": "وصول بعثة منتخب مصر إلى القاهرة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Eb0V4eGdwdGlQYkxXUlZpc1owZmxiNXJwbTFNZFVob0RsSVRSdDVrQ0VKWW1YLVBSdi1kRXV4Q0t5Zk9vazVJOHVuUkZYUkRC0gGuAkFVX3lxTE1vU2pqMWdPMW40QllkRm14Uy10bXA4OC16aTE4SEdwSFdSQVMwcVlUc0lyZDlnX2xQNmx4SnJMcmowSHhDa24tYUM3Q19iTEpwY1NFaGJ4QjBKWldmMkdDOWhRR3J0eGZZOTlFZXVtV210eFFLRXBBQThmYnVDMzZvaXlJUUtLYWw0MENmU3RIeDJZdy10QXJLa2xNR1dqQjBoeWtqTW5UTEV1aFlpNFlMbE1adTktMmtOM2pKUXN0aFFkSzZ4M0ktQjNSeWpNcHM0MURTb0JYZnI1X2VKSEk2QmdsYjV5Sk5uVnZnSjdQWTE5UXZDZktXUktUdlhDOFBSUTM4OERPTWxtelZDaU12Z25GajVhMGRlMThid3ROWEpkNnpuMTRpVkxheGZn?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 15:31:00 GMT",
-        "discovered": "2026-09-30T19:44:04.888810+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "ada65c4ab1c3c2352d1519e9f83b82c9b9c745f80a869aca3d992c2bca33d814",
         "sent": 0,
         "section": "sports"
       }
