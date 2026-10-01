@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T12:04:40.010045+00:00",
+  "updated": "2026-10-01T12:30:38.056977+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -469,6 +469,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 7499,
+        "title": "أبرزهم رومانو.. مانشيني يستبعد 9 لاعبين من إيطاليا أمام فرنسا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxPdjQta3NaSS1FZGpDRjJ5QjlpRlNIaGhVOHNnQ2l6c0ZxU1ROcUNDVW1VU240dVFza1NuX2hIQS1OQ3FDanJaTmduZHE2cFkxVWJBWUdwdTBFSG5VQm9mYUpFMjV3REp6STIwRi1udWg3OEZOdXdFY0dkRlRzanBSQU9IZkw3cjhBZHI5WVR1bVlWeDlQX0J2Snc3dVh2b0YzMTc2UGo4QlVXcmhpNFZIWm1Fb1A2ZUdmMFFTTGZOLW1GN1R1X1RSSGh1NEZ1SVFJMWlTOUVQT0FsMUwzT0JxNnViRXdVVEp2My1wS2xDeG9hSzlWX3JtVlJQTEpoTkNfX1YzZVlscmZ1ejkyZkEwZy1TNnUwZkVKUjlNd0lmRzFWM080c3dDWURyMGd3WWRWZUNzUjNULUhrYTVjMnFkSlF0YWZ1UFBETzlBRnFPVklQNWJrZzRQRkZWcU54YUxFbVp0clBOY05waWMyeVhERlQtdTVmZ0liOEZrSEQ2RnFyVjNXS3ZsSjM0dGxnR1k4LXdZQmNmZ3RSSEtncjJsSXktTkZnc29lcFpEZlY1MEI0QlVsdWVjYWN1VEwxdExGOTJQTnBuVGRoeGl2Q1dLYmpmT1pIQ3ZHNHVXM3Nja2h3cHhPblZ0TTlDb2xlOHZOV1JodUR0eTJFNTRaUTVFa0ZLVDFoZ9IBiwRBVV95cUxQSVZEQ05JOGM1TzlWNHUyUlFlZUdHczhzLU9sQ1Njd0d5a1pxVGtnSDQ3SWRmLU4wQ21rY0F1dllrcDl2OFVONGFXYVp6djl1YnBYTWIySGNNQmNiX2ZxWV9HdjJzRTZWc3E3S3pOVWpSY2hCT0l1eGQ3WHZGSXVFWlVFaHhhcHNIc19sYVYzdEJhOXkyeExaN19IelRmREFBUThjb0l3cXZWd2N3ZURwb1o5ekluZnF6RzFINkVhRHVBeTB1a2NBem5JNFQ0cFNGMEdLcFVmajhKVjk3Z19TdFd4SHNNVUNISmVyXzlia2lQTGRia1ZlRkNhT2Y2SjlzVWxPbGpjUWNhdWJWenhJX1dzajJtdFJrX1JPdmFrYmYyM3RUeDdPcWlWZVVXWTl6S0JpWjBRbC1kV2JYS3JGZkhONnc4ajRKNVl3NVNDV2hreHFIaFAxNGlUTVotMkVMeTlSd0xBV0t2TEZyQ2prV09ybHhMZ2Y4WjlrUUl4TnF5Y212bWtBSzF1cTR6b2VHMzlUcHNsaEpTaDJHSTZDUEdNdHAzT1lVUGN3QzNIQ3lkYTRGLU00eUlORVN6ZDhpcEI5bEpnT3dLZE5na1hNOVg0eXVKVnhWM2RZblVXWGZZNWZ1dndKWnJWdUo2NnAzdTNCR1U4cUVVVHJPaGs2MlJ2R0xHUlk0aU1Z?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 01 Oct 2026 12:23:00 GMT",
+        "discovered": "2026-10-01T12:30:18.903228+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أبرزهم رومانو.. مانشيني يستبعد 9 لاعبين من إيطاليا أمام فرنسا يلاكورة",
+        "player": "",
+        "content_hash": "6a3b81579e274de54473ac504e44fa5c81ee5738d438d817766cb08314e115f1",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7495,
         "title": "بينهم حمزة عبد الكريم.. برشلونة يخشى تأثير التوقف الدولي على لاعبيه - يلاكورة",
@@ -1252,22 +1268,6 @@
         "content_hash": "a947727be31365231ba64052f14335723edac4f8749cdcc3d1503695d7f7566e",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 7407,
-        "title": "بعد أزمة رونالدو ومحمد صلاح.. هل يستحق النجوم معاملة خاصة؟ - الشرق رياضة",
-        "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxPb2Y4YnZQeGNXU0VTNWxGejZ2WDlKRC1NTU9kc055MUk3QVBPNWVDLXdabnNVV0ZLWDdtUER1cEJnRDMwak5VZ2dtaTVsQ0VGby0xU2xWeTE4QTJTQmt3U1I0M0Zpc1FUcU9LNU5rUGxUYzBFc1ZzN0dIMXRLMTV0OGhvb1lCUUJMczdET24yaWJ1UEcwOTdrbjZmUkJIQnJfM1ZnSDNyZ2ZNYnRFbDl2M3RBR2QwLUZSZE1mc1EtS2lPQ0FPQU9DWlVaMWFFUGF6SHJEdHdJYjJLRWxiZjFZeFpYZHl6Sk9lSWxLU2tHUThlc3JNTGs2UjBvTmtmRTkwai15OUpHX2ZwY1hQVS1PbG1iaGtVR0o2N1ZVNFkwd3pQZFlMSDlDUmZjY3ZhUWJRRlB0T2NtMEkxTUxfRGZpWHkxclpnWUdjUGl0a0dBeHNrWlpieHgwUW9sMlVSajVOWWtYdTBFTUJYVFNUVDVyS19TMndQZ0RKa2s1cm5sMXdoTUt5SW5vUVZBS253UFZPZDdERUpaSEN3UU0zYm56c2tYX3NuemJYNmd5Z1dReEpWTEVXYS0yUFBtaTE2bENqMW5WUnJLSWhMZkZrR1M4MVdIV21RQVE?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 23:10:40 GMT",
-        "discovered": "2026-10-01T03:52:58.140346+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بعد أزمة رونالدو ومحمد صلاح.. هل يستحق النجوم معاملة خاصة؟ الشرق رياضة",
-        "player": "رياض",
-        "content_hash": "c0995bba0a4a4b197839523ad63e7811f63d5f0fe1811016a841bd8d16f75dbb",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1416,6 +1416,22 @@
         "section": "transfers"
       },
       {
+        "id": 7500,
+        "title": "حكم أمريكي بإمكانية ترحيل رئيس أكبر مساجد ولاية ويسكونسن - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNYXdtb3dndXAxOUliQThMaEU5SFFib19lRWxaRnlhclBYRklYOWlUc21BQTR0OTV4S0ZIOXFEM0NXU21aTFllYTJCQWJTS2V3WnE1cmJibThIcWJlRURvdVV4eFVIclJwcUFEcU0wQVAwQ0dQY1NXcHJqZU1LaE91Y3NRblJtQm1VTzYxWkJZT0h3RkIyQjlmT0didUwxRnVOMDJ6MEhHUlFUZWxKbmoybjRiMGs5TUtRN09BdXVHU25vWHBNUlYwWWR3cHVza09FVENpSU8wTFpGbDRTWmZFV3FGYl9HcGhmUFdUQXVwZFo2M3oxRzN0X0pDTk83aXF1TzRQSDRnM1VyTkdscl9kNDZLTEFIdGJyUzF6eWsyQ0owYW5ydHpFUE5vclF5cnN0NWpOaUJiTE5mbWpHM1pVR1p5ejk3UlhkX0HSAc8CQVVfeXFMUExJXzVYbE5vZWVrbEtxZy1rcTZsTHlLWU83SG5FLXBnSTFpd3Y3dDY3RndlNHRLNjViNnJfX0ozbWF2TENwNFdmQzUwc3J3Rkc3VURueDczSlp5dFNjWVo2U1JQSGQ3VlFVUzRUUUllNFRmRzlpYnFiXzJXZ2FMcXBOZmdRZ0xrZGwtWk5HVWI1QXZBZGQtMHd4Y3pPeVA3NkVhc1NSb1V5cWk3WTI0UkJDU2lwT0xLTnZPaGtCUXhHc0Z5WEJwc29vRVNrLUxtaVFYRGdMeTlIMFkyS0VKb290c1Q5c3pURXVuMEcyczJIRVhuSG9oV1YzNDc3MlRPT2xTd0dWMnA5c0Y3emV5Q1ZhbW84TGRKaFlSNmZOOVVGSXlUN0pHeTZ6ampscnItRXU2NlVCaGYwaV92dlZ5WmlNTmZBMFgyMklJS0NCMzg?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Thu, 01 Oct 2026 06:28:51 GMT",
+        "discovered": "2026-10-01T12:30:27.229914+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "حكم أمريكي بإمكانية ترحيل رئيس أكبر مساجد ولاية ويسكونسن الجزيرة نت",
+        "player": "",
+        "content_hash": "396c30fc6120438c7ea90901a87f069f31a647e74960c9bda9d3fca96777d02f",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 7385,
         "title": "تحالف اليسار يشيد بتعيين المنصوري - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9YUGFsUkhGV3hrcDIzWnJQY3c0OGZWYlVRYkM2ejlFTmhlZ0ZWTDB2bXpYNFg2SVZxclpvQk1EenViOGl6QkVpeg?oc=5",
@@ -1444,6 +1460,22 @@
         "summary": "أكسيوس: روبيو يأمر الوفد الإيراني بمغادرة الولايات المتحدة بعد تعثر المفاوضات القدس العربي",
         "player": "",
         "content_hash": "7aaefb59ba5ca606207d1f87fcfb21defbb6ecebb4455daf6f4345ae99dbfa37",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 7501,
+        "title": "روبيو طالب وفد إيران بمغادرة أميركا بعد عدم نجاح المفاوضات - اندبندنت عربية",
+        "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxPdk9JRUVCMzRvWllqenZ1eWVCUkpybUptdnFOTjJSQjRvU0FRZ1VaNllOMjA3U3g4WUNFcF9MRHB2aWc3VEl2MmpUakJuUUNtWl9lblJhUkgyTUNZNE41WTFyLW9oNXBmclRtMUEzX3BsVjdzM0lVeTE5MmJvOUNwN3FfYWw5MDJ6UUZ0SjNnMEdIQnlZck5OaC10ZVdJTmF6bkdfZ0VsU0R6VFcyVFNJb0ZDaHVvSUxndml2WXhyMG5DWGhwZDUtYWtScGNzZ0lzMHdEZG9GMVpCaDlvQ1pGc1ZfXy1nSFgzNXdXeDBmQmN6VjVaS3I3bkpLQ0JSN0RiWlgyN1hlSkpvWjQxZi0wQ0NzcE4zRnE5WmRYUWxEc0VFRWRvdVkyM2hLNERiamMzZ1JRdlBUamhCc1ZoYjhzVmI5Z2RFV2YzS2x5ZlB4RW4ySGpMZTQ1SndPN0hFcnlZaHJUd3hSa2xHaHlGWmNQWEl2TXB2T3RodUhsdURsYWpETkpYUkt4MHFnbGlxSDRCbmd2LU9uTGxvODNpOGJIOUxxU2NwSU1OZlB5VGc0VEZnd2dmSjh4QjMzemJ5ZWh2Z0tIWEpSQmhrNzBSeVVvbUdGeVllUjlvWjBNa2dHS2NmeEt4V0JDaHVORjh4U0VabmhhalNnWGo5Zm9QWjdBNF9wY2Nyam9jMG5YeGFJSDFkYnpfOEFHZGF1Um5Sdnh2bGpFZ05TMVJ5VzB3cWpmLXNLUmt0Z0lWLVZsR1p6ZlA5NTllbGljQjRPbWJoeGtC?oc=5",
+        "source": "إندبندنت عربية",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 23:06:50 GMT",
+        "discovered": "2026-10-01T12:30:35.741244+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "مفاوضات",
+        "summary": "روبيو طالب وفد إيران بمغادرة أميركا بعد عدم نجاح المفاوضات اندبندنت عربية",
+        "player": "",
+        "content_hash": "3b1f20f19e018f8cfb2c2396426f22bdabd32494bf798bf82684bf1c871c638b",
         "sent": 0,
         "section": "transfers"
       },
@@ -2036,38 +2068,6 @@
         "summary": "طهران تتلقى الرد الأميركي.. قطر تطرح مقترحًا جديدًا ومفاوضات الأيام السبعة تدخل مرحلة حاسمة Euronews.com",
         "player": "",
         "content_hash": "56ccd926a44ed8be9dcb57b4fb708f60e1fbc3ee317946218e165d69203f2244",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 7371,
-        "title": "\"أم القرى للتنمية\" تبيع أرضاً بـ49 مليون دولار في \"وجهة مسار\" - العربية",
-        "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxOUjR3WXNZVksya1VxOWRsc1JWWVVDc21adnZkRXhpZWZqNTJyb1FoY3ZSN21UR3JlQy1EWGpIaWR6bzN2aTJqV0puekNIQXdIWUlLRnFyY2NSZnZVZTg2ZVZaMkJIeTNtQ0ZPemtYY0dSanBZNGtELUk0S0luNEdONVhUWWRBSjNibVdITnRxeGp6X3VkSXdwZzZuN3I3b0EzNENpUUxxRWh3M1J2Q2lJT09jSDBkZzJuSkZPZlVvUy1QYTJsQnZXWi01SGtHTGs5V3hRS0o0Y1JVMTBqZ1N6bUxpektRRlhKV1I0bWRPV2xkeFFfYzlJcmNsdDMzTHMtNHNxS3JLZ3MwWGwyM2VlcVl3Z3ZZLTFEaDFGanllS2RxVzg1OHUxU19RVWpUdkVoX3cySnZ5cEhLTmxnZmIxbHgzaTRKWld6Z0ViZTc1MUZoTHJoN0c3VVVYNDFpR1lqMWVSNS1uU3JQd3E3eUhuVG5UQjgwVC1pbXBDYnNLemsydFJWeDJyUUdTLWJFVkczZ0FVV3BsbmlJd1U1QWZrV01lUHFocDQ0X0V4R3hYUnVGYkN2QVpKcnptc1RBNDFkV0oxTzhLWTQzNk1kWTQ3b1NTRdIB2ANBVV95cUxPVk5kOWRPaHotNVJEcFZGd1JFNUtBVFdZR1FSR1M4SE5obTRGekFpQXBLRGNjdUdoZ2Rpb0tCUmFoU0ZvNkhia3ZzSWt0MFdhWEdtS2tIbUFnak1OTFJUMGNYZndhWmJMV1ptaUxON0JXZWZydXdld0EteFg2MFRzNWJMUDhVU292SjhpSUtjalhSTTRPNUQ2SDBCaTNfa2JKNXkyanlUakJoTm5YQVBTSnFpS2lHalV3akwzamI2b0dNQVY5bUJkaXFTQWhRMVlIcTBGX0JIQTNrOXVDWkFITTkwa25ZbWk3a25sTGFxMnhjek1TNFlfekk5c25TZjBraEZ2REdaaWkxMFFIVm5YZTFWUDBDejVVbmFORVVLTTItTmJRenFhbEt0ZGxmUnZEN3BacnpwZ1JMYzFId0M5bHkxN3AyeXBiNHQ5RDVLYWlHV0dpb3dLckludUcwOUZFVU8tRjVzUy0xV3JJQlRJZXhqcGZ5T3BFNGFta0d3X2RZOWpOa1d5QUQyWWVqVjkwbFo2bXBiY2VEeUpkQlNwdm05ZWE0NEJlLTFXdEExTkpIY2xmX1pERTBuMlo4RV9XSTFoNWVkZC10NkhPS3FIS3ZyMEV0OUsw?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Wed, 30 Sep 2026 06:14:00 GMT",
-        "discovered": "2026-10-01T01:44:01.176747+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "\"أم القرى للتنمية\" تبيع أرضاً بـ49 مليون دولار في \"وجهة مسار\" العربية",
-        "player": "",
-        "content_hash": "af54ea6dbc827ad292e32a089d70e895f5b198b2d10141b09f398deee45e79e6",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 7065,
-        "title": "ترامب يوقع مرسوما لاستبدال مصطلح الذكاء الاصطناعي بـ\"الذكاء الفائق\" - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPSUVzenNtR2JnZEgyVS1DVHJ3ZGs3dS1pR3U2YzZuemdoYUM2elNKeHN6ZmxlZGRLZG1LaGQzRGhpeFRWcFdZWFI3S1I5OGsyaWdrbm84dEUwUjJSS0FqTzFuYlQ0OVdxbHNaUG0wTEcwdjZFTWVJRk5uRVZEUGViYXFkdHNfTDZwNkpSbmwzQUhVU2wtVzVUU0lfcV9RcjYzRXpzSXk2SjZ6d0p5d051SG9kQkVNdnp0WDBfTjBGZUhPTW1WNTU5X0Nmb2xPTlc2dGRtQTVFeTBTWFdmRHl6M1BGRWxmVTBZQ09OMk9MekJMMjEtbzFDQ2ktYmlzbnBUWEVQb0ZpSngwS2xscWZIT1lkbk1PeFRUOExSX3EzRkVyMzk3SktqbnlqSkgyZEVTTk55YnBwbTd3NnpfZ0Zjc055T1lBUQ?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 06:02:46 GMT",
-        "discovered": "2026-09-30T06:30:22.275260+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "ترامب يوقع مرسوما لاستبدال مصطلح الذكاء الاصطناعي بـ\"الذكاء الفائق\" القدس العربي",
-        "player": "",
-        "content_hash": "d9b88c719cabd88e994f5145dcf0ca89c44876878366e19e387a442d078059fa",
         "sent": 0,
         "section": "transfers"
       }
