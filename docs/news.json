@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T11:20:52.097637+00:00",
+  "updated": "2026-10-01T11:36:46.828273+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -485,6 +485,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 7489,
+        "title": "\"سأكشف الحقيقة في الوقت المناسب\"، كيف تفاعل الجمهور العربي مع خلاف رونالدو ومدرب منتخب البرتغال؟ - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aV0hZSlhNdEdwUVB6Tk9MbEtLdWhRUHBtTDR0TFo1QXlDdzRDTnk4NkN5SmxhVE1YVE5wanNjdDhXSUQ0bVRuMGJsdUlMZkZSSWpWdDhwNDZNS18xSWfSAWNBVV95cUxOTXgzZGh1bXZlc3lFeF9qVlFIQlViNDd6bzlaalJfNDFENGZETmc1TFhaeVk5Y0QtSjFkcWJjaDhsT3VvM3ppR3ZnTzhqOFNuWnpkV2M0SnB4dzk4VU1HbWd3STg?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Thu, 01 Oct 2026 10:46:50 GMT",
+        "discovered": "2026-10-01T11:36:43.708168+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "\"سأكشف الحقيقة في الوقت المناسب\"، كيف تفاعل الجمهور العربي مع خلاف رونالدو ومدرب منتخب البرتغال؟",
+        "player": "",
+        "content_hash": "af2ce017fa4c5a4b3f0a24b102ab0bc628433cf9bbd34db32aadc896f1b256a7",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7479,
         "title": "رسميًا.. كيروش يرحل عن تدريب منتخب غانا - يلاكورة",
@@ -1268,22 +1284,6 @@
         "content_hash": "60076ffee2094a8f822a816905958bab2d0b50291312f950b84f66fb4bddd026",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 7329,
-        "title": "النجم المغربي زياش من البرازيل: \"أنا فخور بجذوري المغربية - جريدة المنتخب",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwbHBQQ1dNZXVSbWZNc0VaY3JXcnhsWDVCVVZUNUotTnZRb1l1Z2t4VjJoOC10QnMyVU1Md25NTWNtcEhhRkNPWm5DRjVGZUFTaGtaVg?oc=5",
-        "source": "المنتخب",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 22:29:50 GMT",
-        "discovered": "2026-09-30T22:31:38.352775+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "النجم المغربي زياش من البرازيل: \"أنا فخور بجذوري المغربية جريدة المنتخب",
-        "player": "زياش",
-        "content_hash": "c02c81e8cc2e4530735c4eb2cf402cab055b4e50da9d0512d4c7228237fa8940",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1396,6 +1396,22 @@
         "summary": "“سد النهضة”… 3 عقبات تعرقل إحياء المفاوضات بين مصر وإثيوبيا القدس العربي",
         "player": "",
         "content_hash": "79e24ad82dc5b356183c3763ba119fd485830cb11bc5e153939e79ce913f15bf",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 7488,
+        "title": "ليفادياكوس اليوناني: النني مهم لمشروع النادي.. واللاعبون المصريون محل اهتمام - filgoal.com",
+        "url": "https://news.google.com/rss/articles/CBMi3gRBVV95cUxNOTExNmMySmdUdVBQcW5vdnVVazlvT05RVXAyZHRKbGJnUUtsX21CV3h6YWdHd3ViS1hkdlB3cUc2cEpXbUxCQkxyOTlwemdWZHV1RlFiV0VUb1Y0WXh5UVVfa1d6X2RFRnVPVjhXbHRTMkNLcktfbE55YmR2Vjd1SnVQakpCSVIwNFFFNHNqTXpYcTZsNk5oU0FpYV9OZHFGTVZjT0pPMmwzdVVITllkUU9fSWtSNHYyWWxHMlBnXzNhUXRJMjNpR2RNV3MxYXV3dGxieFZYcVdpSW5xTWV6NUpjSXFoQVJpaEZZZ053dzg1N3BTRUpFVGFGRzRWdzBHZl85aTh6bUJQUVZ3V2c0R01PMHBmeGdCX0V2QVE5Vm56ZG5lNVdtSGh5emRsc2lleFNSNFRaUXBuZk5mNlVhenZoU2dpeFBhRllqRU4zbmFJSmE5OEIzUGxOSGFoVm5LdmJ6UDlabERHUUp6MVBiejZxNlFNYmN4Yjg1Ri1YQUNYV3BnTG5TRVE2bGFpYkxiNUNSWDFoWUV3ZXRqdzVjbkFFN2lIYjA2T1VGOHFacHRZOTdWNjhEQVJEV3BBNlZuSmdoS0tYbnVrdE11X1owVWdQRmRoWGJRZmRwSlRLRndaRU9pSXFTX1Y2aWRtZTk5aWNLd1ZDZ2VRMFRXNjB6NXFTLVFkaWxCWTU0WHd5bGtjNGlpVTRmWncwQU5XMkN6MVVOT2xLd2pYcHcwRlN6djJBbzM4ZEt2djNMajF2ek5BaWE4dnEwZS1Kc2U5el8tMy15RmhSRzJqQmRkQ3fSAeMEQVVfeXFMT2JoVF9FQ1pkYWZuTW9qM2diZ2pVbEFQUW8xbnVqZllqc0NURlRfWm9zeVh4MGhtNE1nSFNIWkg5TmdvZkRMQUd4THlIVk95WDcyNHRvbnBpZXdoRGxZZllYaFZFZk1DdWRRY3RxX0h4ZWlRNnVEY3RwSHZIVlNyVDNJWG83amRFa2VXdEJoZEktUjBsOFZ6MG9odElQclpNcGZUSjdJWnBwR3ZObTNhcU51SUxxWVR0Y21JN2FfdWZ5N1VpcG9hSVM5WlVLc2Z4MEVFcEwwT0RKODVleDA5ZlRDQnJMdDdHYm11bDcwb3ZRemhjc2V0ODYxdWJVdHJyaXhQQkpVX3JXTWhINmVyalFETXNkcjlVbjFGMUZWSlhuSUlZTnJTSEtUczNLMnJKeHN3YzQ4VE5aMVJfV0VWQXNDN0NyQjMyOW9LNXVDaThwMmZ5RU5xc2o1UnFRTmExQzlhLTdVZ285N3dRbFo5dTcwMUlNeHN2VUwyWktoZ0dkOVBJUHZ1VXBsS244UnBvaXhWVmxMQ3A3eXZOOUxVNS1pNEE1eXY4NlJsX3dpOUdWTHVCWGI0dHBFR3V1bnkxalJIVkl6WFBBakgxekRSbjktb2c3OEkwWTB6V2NiRXo0MWoyLTZneE52UldCV09Mb3V0eURxb2pMSVlzZmFYYXREWC1rSjdZbFpXQ2d6dlNlU1E2RlFKWEd3akxYemtOSnhNRnB2UTJqamFDczV4a3pwbFV2MmNaNkFmdjR1d09CUFBuelBXVXZBRXVOcGM3RU15Q3JsQW52TG9sQXhQRlJ5MUk?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 01 Oct 2026 07:53:00 GMT",
+        "discovered": "2026-10-01T11:36:31.339495+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "اهتمام",
+        "summary": "ليفادياكوس اليوناني: النني مهم لمشروع النادي.. واللاعبون المصريون محل اهتمام filgoal.com",
+        "player": "",
+        "content_hash": "4ec8cc51b27f7d74772314c2797a38c723a8280254bd89fca5d6cf743b396f67",
         "sent": 0,
         "section": "transfers"
       },
@@ -2068,22 +2084,6 @@
         "summary": "ترامب يوقع مرسوما لاستبدال مصطلح الذكاء الاصطناعي بـ\"الذكاء الفائق\" القدس العربي",
         "player": "",
         "content_hash": "d9b88c719cabd88e994f5145dcf0ca89c44876878366e19e387a442d078059fa",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 7135,
-        "title": "نهاية مهمة التحالف في العراق بعد أكثر من عقدين.. انسحاب أميركي ودعم استخباراتي مستمر - arabic.euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLU9pTGpGZUJaZmNDcDJiTDVUQVl6OTAxSUdBNXNrMVA5X1o2QndvVGI2RUlnN2JLdHVFS0FvVHUzanN4Q3h3WmVXdUpIZnBGS051dlkzNVRHQUtORG92Y0FtTGxkam4xdWJsZGgyLWhmWTBfZ1R3cFBsQ2s2d3pLRXRHM1JTbFBBeURJMlVEYkVZMm5JT2E3Zi11NUxJLUNfZ1lSQldoa0Y1Unc2WlNla3gzazJnbkZMeldlSlkydGhzUnRoZmc?oc=5",
-        "source": "يورونيوز عربي",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 05:02:23 GMT",
-        "discovered": "2026-09-30T11:12:25.940485+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "نهاية مهمة التحالف في العراق بعد أكثر من عقدين.. انسحاب أميركي ودعم استخباراتي مستمر arabic.euronews.com",
-        "player": "",
-        "content_hash": "deb2d32f2bcf7f4cb5ee3160e568ba39859bdc0721591eb611d81cf8aa6aed99",
         "sent": 0,
         "section": "transfers"
       }
