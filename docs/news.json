@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T20:37:32.845168+00:00",
+  "updated": "2026-10-01T20:52:20.869747+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -501,6 +501,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 7637,
+        "title": "ثلاثي مصري يُزين التشكيل المثالي لبطولة العالم للأندية لليد - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxNak5BVEc2Y24xYUFsSjFNQTlEaVpwdEVIa1pjNGpjcmdWU2FJZ2RFR3J2N2doRENzQ0xNYkdyS3d5TXZERUdLc1JZVzJkQmg0TFQ2bUlYbjFfMGRadTdJbWJfaXhkVGlVUEl1VEl1dzlZOU5VUXhXdkpzWHMzdFpRbGw3RGlrYy1BcUZFVjJ2bVRHc2NPYmNPTWQzWWM0NlJqblZ0TTN3R0l2M3ZYb0pNQUNXUjZ0d0hSbWRpbHRuMjF1bVlLMmNEdkpuMXVjdm1IZTFnYWVOQmdfNnhtUmdrNEVLQXJRUVRjX2ZvMlhVMm1zTVVoQmJmUFNsVjBxdDdDM1lZSzJlbkk5bnhjVmRUbFlybTE0c19RQlp1NnBlWWxUSDd3b01CaURmcFR4Z1dfZlNEQi03V3NPZWpoc0kycG9ZeThxeG0yakxrS2ZRb2UtT1JMZ1RMLUVQSXlKMmhBSEtfblZnTkM3ZUVoWXpoQWI1Tm1YRGlzOElFVVdsdlRJbDBMNGNKaTZPY013RF8yaTlZT0I1MDRpR2JGb2xSSXUxNHlmaHdtTW5DRmlKd3hwSkM4S2NzWEVpZ3dKc2JjeDlfa2ZRWnVjWnc2amV2NmZERVkwNHpjQXZHR2VoaFViazRMLWhxVDZub3VrSUl4cVdEREx2TkxBU0I4X0c1a3U0S2c5Wm9NYjhZaTh30gGTBEFVX3lxTE5vdXhjNjhLODdTZUkyczNxU3VXSzhIME45ZGNVM0ZzRk1rTVVzODNvUGJzMS1jNTJYdHVtVHpQSEtveFpXNUNsQzlBOWpFVGxKUE1BUF83aVVSSjQ1NWt3LUwzSmF5c0RyNlZwSDJWWS1TenAyOG9ZTnFxNmRRV0poaVlzOENXZlgydU01X2kwaXhHTGphcjlVbFBzSkd1ejlnUkl0Vi1wQmV6Nk9nYW44OVRqSVFtay1uQ1pNYkFfaERENWpFMGRmQ011aXJvdnlSVnMwTU1lVnJ5aUk4dWtCZEYxNGJTLWlUZGllQmk4RHdlRm45SnB0b05TelBlWUdsRzB0a2NBbUlYMHpxbjV1WFJ6ejNicEtHR2JvbldtbllWSlBtNFhQOFlQeUg5TXpHWkI5TWI5MFVGeVRXOFQ0THExZ3VBVU9zQVNVSmVMSmJxUzdKdUQ4UjNBSlJwOUdabWgyTzZ4aV8wYm5pMGF5VUowV3BGTjJ0SExsTy05MG1LWXJiSUQtYjA5bG05d3k2cG5ubVlnR0JrX2w2RGxlSGhBWERxSERJY3R0QzVCbGRENVUzalhtbTFDYmRScG12eXRpRno2a3dISkJXXzN4bXE4Y0d4ektOS0RuQ1BPc0puNE94Wlo2Q2pablFJMmZrMzhVcEhYTDA2ZzhTSjNrWWphN1cwTlQzVkhzQjRjT2NPQQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 01 Oct 2026 20:34:00 GMT",
+        "discovered": "2026-10-01T20:52:04.750329+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ثلاثي مصري يُزين التشكيل المثالي لبطولة العالم للأندية لليد يلاكورة",
+        "player": "",
+        "content_hash": "9c81366413313c2c81bfdf72f28c9612d2cf3326ffab69ec631aa74c4627ddf1",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7633,
         "title": "احتجاجا على الكيان الصهيوني.. كرات التنس وعلم فلسطين يوقفان مواجهة أيرلندا والنمسا - yallakora.com",
@@ -1282,22 +1298,6 @@
         "summary": "\"خسرنا لهذا السبب\".. كورتوا يوضح أسباب هزيمة ريال مدريد في الديربي أمام أتلتيكو yallakora.com",
         "player": "",
         "content_hash": "9257ab3d5a8bb967a7a7d9145cb678660e4e3da68bcb6573ecdcf6aacdfb1117",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7528,
-        "title": "تشيلسي ينافس ريال مدريد على لاعب ليفركوزن - yallakora.com",
-        "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPVW5lSHpaWGQxWFk5WjhyMmVaUWowcmdaVGFEZlVISWZ3VURvcTZjRWI5aEJIWDdxMmNpOWtRTC1yTmJXM3RWdklHMmJnQmlxOHVzQ2J5d2pSM1ZWMnFrWTc5Xy1lSFBIR3pNTXNzZkxjOHY0dUJhcC1DMzVtVjg1NTg1WDBFdlVOeFY4U3Yxd1BmVmRWaFNVbFBZR2xYN2RIalVaS0hBNzBvVmwxMV9TaHZxWjBOQ1BWdEZpbzdrRWNBZVU3TUFUMXFpQjZKNWNlM0FfRUs3QnBQWTZnY09qS24xTm9jT2tPOXFQSjRPaVRqS19yRmlReEdqOTFrZnpDV2hocWhnQUZkdFRzbkVZWlh1MUhQcmNCMDBTalZ5MXdOLUpvR2dYT1JHNGlmYVc3QTVHNHhLUmF1TlNtcWtuVHBEX1pBcF9tV0ZJMEkteHg5Zmg2YXFBU3BRWXJta0F6Vm9pRGloeU1QVG5PYmFNbDVncmlncVh0aVRV0gGAA0FVX3lxTFBBQ3FYVjlCbl85NmEzTnRfN3ZodFFfeEg3eUpEOVp3R0ZoU09oWkoxTW42VkZhRnlWd0MxMGVwMXFmWTF0a051a284bjhueUpCQWJsdkl1NUtRYjZiSl9yQTBDeF8zWk04RkVoay1kZHB6ZktVZmRCZ2d3eUh6ZFgwTE16WWY2bTBJaUI4ZlJMd3NaTTF2enNWUlcxMkFpNTM4eXdES1J5MlVTcVc3SHpGejdORjRxX3BFbFFzdTktQU9aTnRyMkVjSmJ5VS1ScW1sa2RqR2FpWHB5MlZRQVMwSmJyYVgyNDN0VW5IQloxQlRoRE85aU5iVWNwZ0txdDE0Z3VQVm55bVNlMHJYNzNoUk1RU29tZ0lzZXNYZE5VUTV4RDlwWHZuTk1qbklsdWFGdWhkNkNJTnJURFEyclFmQ2VDVWhBYVdBU0VFdkhxbndsV0dXVWdOQVg2T1RLUFFSZVhoSm13Q1NHWVZEYUpaZlVoQ0Q4RTVoTWRVMlp1ag?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 14:00:00 GMT",
-        "discovered": "2026-10-01T14:25:05.041560+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تشيلسي ينافس ريال مدريد على لاعب ليفركوزن yallakora.com",
-        "player": "",
-        "content_hash": "9bc2310ca5a561eb3381935fd7b0469fb039a40ed3dda0410a2030a80a6c2914",
         "sent": 0,
         "section": "sports"
       }
