@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T23:27:21.305714+00:00",
+  "updated": "2026-10-01T23:41:34.548281+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -546,6 +546,22 @@
         "summary": "أخبار و معلومات اللاعب ألكسيس ماك أليستير لاعب وسط ليفربول winwin winwin.com",
         "player": "",
         "content_hash": "4e0ddc4fdcd17869ff1885aafbd865f3bb3415d5112445d69cfe8f6b8cc4b7df",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7693,
+        "title": "قوات التحالف: الحوثيون استهدفوا محطة كهرباء بالمدينة المنورة - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNYk1IWWY3T2VQVjE4cGNXNGtIUDlqOW1fS053Mmd4TGVDUmxzZnEzMUxsR0pZOVdmUjdabnZEODRBajNYcUNxR29JT2JtbDIwcFJsb1o1bXV6VDhqLVNlNVM2NVBSd2RVNW1EbkktbGJKQldtX2dRWHRUY01ua2hQZldORGFWQnlNS1dxcTJpclJFaEowT2pXa1ExOEdsV1FOeVpHaGlyWThqM2NwS2VhT2dIQjJIR29uazBSRlUwekg0U0V3aXBJNUs2YkVRa3BwTWZLUzdXMTFsTWp2c1N4eXd1SU94VVJPcWk2blpZOWs2TzlZd3B3UXV1OU93YVljb2lCM05TMEVPeFoyVTFjWmd0NmxnWjhkOW9OOG5ldWtKZ0xReG0wSU5aTdIBsAJBVV95cUxNcDlfVlc0Y2ZzWHBHRWRYUFNvd2lJal9XLWVRb3BGcVpoRUlGQW1SMzhaSzVHeGJjQnZ0N1dNXzh6Z2UyWlc2WV9UWFVoZVpfNTlQY2FqZU9ibnJqcEx2N0J6bDd2Y1htamhZdjA4WDJnV0dsc09DYmxUZ3lra3BpY0tDYmcxRDlURV9hWnpvX2RnMWpkUTVobV9HaW9TQnl0aEN1TTZCYzNYMkF1WHpLcGdjU0N4SkpNVk10d1MzQVd1cFRSZlNZVkpjd3NYcXVQOTFYSjAzVTBBUzM1bWpTaHBraDJwaXJEdHpfcFYyYVRvdExLUi0za280RjM4OXkwaWhQMUdISC1sbUV5T2hpeXRmWU9mVFU0RDc1NGpjVkhOZnZKSFZ2T29PQlVzOG9x?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Thu, 01 Oct 2026 22:26:25 GMT",
+        "discovered": "2026-10-01T23:41:26.914687+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "قوات التحالف: الحوثيون استهدفوا محطة كهرباء بالمدينة المنورة الجزيرة نت",
+        "player": "",
+        "content_hash": "ee33ddfe7951ae7c887832854e31f969a93138582e927dec9f5df338425bf5ab",
         "sent": 0,
         "section": "sports"
       },
@@ -1282,22 +1298,6 @@
         "summary": "منتخب مالي وصل هذا الصباح الى مدينة طنجة جريدة المنتخب",
         "player": "",
         "content_hash": "30235569efe2932097f63f3513610b0ea4721e61e5af78b80b11a2bf36d23a57",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7613,
-        "title": "كرة يد – الأهلي يفوز على الزمالك ويحصد برونزية كأس العالم للأندية للمرة الثانية - filgoal.com",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93ZUh3RlR0RE1BSExOT1c4QmtjZVNTOC00RnFUX3NHY1ZOWTQ2YjMwYmtWRXhCQ3VNRS1NOWVVS3g2MmU5Q1d1NGRqbkRUVldL0gHvBEFVX3lxTE5JTjMyaW5UcWpna2pqVUloblRDLWVGOF9HbGk1MVRZRDA0T2Z0RktkLTgxUU5SYmJtNVZ1X0xtdHF5R1FPa0o1LUtubklKWG5OWHdNcHN2TkFURlZkaXBvUmJ5Y2FuOXpnMXFFV3QxOVAzWDA5ZUJxdTRHcUtIYk5yMXRXVmhyTEJJWkdEYkozQ056UThhU2pkZmJ0LVhvaWFqVTZYTDlwWmpoSFVCa3FNcGMwUjNGUk12cHRyZlQ1SzYwMDJjVk03Q3R2a00wYnA4VjBBWHRBLUhGZHozYW9KQnptd29PZkFxSVdVdlhuTFpnOUJkX0VvYkVpMDBWd0gwNUxzUXRwWEJZRHU3UTMySEZaR1RoZnhhekdHUk5YUmVIU1JhN0tFR1ltVFd0NUpZZ2VkN1FCZjVJSmFZRTNHMW1BSnhUZEkwY01jUlItUG1jT3lzdjhHY1JPZTNFdVhma2JUc2dlb3BYYXBYTlQ3bnh0ZlRPcjJRbUF5UnNHM1hDT3FoT1NidWktd0hSR3VydDV3c1ppVk1BUGNta2FicUk2SzkyLURoRC05UEdaOHNQdWo5bjZHczZfcFdqdDdqMktqNlQ5aHdsbV9xUWZBWDQtNHRTWC0xX2pQaU1LNmNQN2ZKaHNpR1RQUVBpVkRkbm9yS0l4N2ItOGxCTVc5UTlfcEZ3TERBNF92dlVhRElwWnNJZHFJUkNleThKLVNTMVh0SEJ2NWY3YnVBVkVVb0IwRlMzWnNNdlUxVC1XSUZ2N2drakwxbFd6OGYzVzBRenpqVmhRSWZGdHMwRUY5Y2J2S2tWLXJrTWdFd0Jz?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 17:11:00 GMT",
-        "discovered": "2026-10-01T19:36:19.133683+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كرة يد – الأهلي يفوز على الزمالك ويحصد برونزية كأس العالم للأندية للمرة الثانية filgoal.com",
-        "player": "",
-        "content_hash": "e89804a45d9656162417e549a8fca690a077b594d3be694b9d2a808a5a14e513",
         "sent": 0,
         "section": "sports"
       }
