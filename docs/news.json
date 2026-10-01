@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T06:01:09.227308+00:00",
+  "updated": "2026-10-01T06:27:19.415511+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -578,22 +578,6 @@
         "content_hash": "53f503ff7f3f298ab8d153cf37bfb7b868692b5ad21555f5c407ac3467bb75b4",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 7411,
-        "title": "أول رئيسة حكومة في تاريخ المغرب.. فاطمة الزهراء المنصوري وسر الصعود إلى واجهة السلطة - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yUnBRQ1RRRFBFR3F3akU5R3liUlByeG9nQ2dzbUx1WXgtWDFXUmJDVGZ2dDN6X291T05zdXU2YjF6YWtaSG8ybXJhLWd2WnhDOTJNLUw0ZFFfZ1doOHV4WHR5WU1DT2g4?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Tue, 29 Sep 2026 16:45:35 GMT",
-        "discovered": "2026-10-01T04:41:05.358344+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "أول رئيسة حكومة في تاريخ المغرب.. فاطمة الزهراء المنصوري وسر الصعود إلى واجهة السلطة Le 360 Arabe",
-        "player": "",
-        "content_hash": "96c7663733da92a93e62130f59fe3d125653b1410ccd54246cdabaa9a8124edc",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -610,6 +594,22 @@
         "summary": "مباراة الوحدات ضد دوقرة : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin winwin.com",
         "player": "",
         "content_hash": "9a1f8dee71eede1bc0d7e62c3d5053b247d20bd7b7dc5cec818d7ea5ac579b55",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7422,
+        "title": "خليجي 27.. الإمارات تحسم صدارة المجموعة الثانية بالتعادل مع قطر 1-1.. والبحرين تخسر 2-5 أمام اليمن - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQU3huVVhsTjFKazJ0WGNIRDNSRzdmdENuR2cwUEFtdHhudWdWVENCdkZrX1d4Y2RpUU1GNTBHal9QMmlkOXZtcXBSSUxsdzRQQlZGU1FSbHFKMHlqaDdCQmZxcXlEMlZWT2RwQmg5SzQzcWxYcVA5aFJ4QmdwRTh1UHVaa2RxOEhiYnRKbENZUXN0dllpYW1TV0Z4N1NTYlZUdldNYTlxem16RDRXSGR4NFhwTjVEekdlcUMyUTdTaHQ4dzdLQ3JVMjZPbDIxNUwtTzFFelFuV1JEd0JVcFNodXpGaGRWcTZDYjR4SGxzaVktdVkxMGpmcGFiazlrSXBIYjluWkdvVldsel9rM25Ja1BCUEl4RTZJNHBENnQzTmt0M24wLUpFRDVNNWJ6MjY2STBHRmFXTmhOTzUwQ1pMV2FXSFBEc1hCLTZzVGhZR21HYTBVdjdOMTE5TDBsM1RLOWc4UmlORS1PcE90ekhSQUdwNnEyNWFDTmtwTzdPWlpaOFJmbjFza09qZmMyRkRRRHJ6NjVSRDRuTUo5ck5z?oc=5",
+        "source": "سكاي نيوز عربية رياضة",
+        "trust": "C",
+        "published": "Thu, 01 Oct 2026 02:15:08 GMT",
+        "discovered": "2026-10-01T06:27:01.276733+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "خليجي 27.. الإمارات تحسم صدارة المجموعة الثانية بالتعادل مع قطر 1-1.. والبحرين تخسر 2-5 أمام اليمن سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "3ca48eb4a776ad2572f8980750b709da6a2f18b4f2fc1125baa05a49ad8f7f2e",
         "sent": 0,
         "section": "sports"
       },
@@ -950,6 +950,22 @@
         "section": "sports"
       },
       {
+        "id": 7424,
+        "title": "مصطفى محمد سجل هدفا.. تعادل كونيا سبور ورديف فلسطين وديا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EOXNwRFVGcWdjY0x3NVVONXNKdkx0UzIyRDgwYWxHQXNWQ25uTE5ONjZfSWo4SGJyeEQ0cnA2TnMxaVBBZEd1a3lTT2tXLW1D0gHLA0FVX3lxTE54OEtFTHAwRUVPRnpGNzZtUi1ZeFNRbnRiU1FVUGtyeE1BNGVpX0J2YU5EU1NxMU9UVG1VNHk5dmhEY3NoenRHOUVsUUFra3pPa0h4OVdsMUs2Z1F1cjhoT25ZekZTYUVjdWdBZWYtSVE3RlVUX2hDZFkwS3NXMXVrVmlMNURIcVozR2JMXy1zQXRTbmRaaWtNVFlkR19kUUhhdW94OTF1b0ZFTDNlekVGYUtMdWRxRHV3SFVYbjJaM1JrcHItcXFuM1lXUDRPb0R5dmpFVUxIVkdZVkMzMGdPdzVKWmtuOG05NXV1WVlIdDQ5VHIzVDhOMUU4STdKZjRGYkFXVHJQSG9jOUtKUzRaemdxNFpRN1NvZ3FQOWpKQ3o4alEtbkE3cWM0RS10Z0hHcjFjeVpLbTFXeXdJejBtT1RkenVyX1prV2pfV3RlbWI2YnMyWVNnQWZVMTByQ1Z6ODZkd0VJelpZRXVNVWdMQWE1UURuaG8zUjd6UE9Sd3hiSjZ0MEEyMEUxSGU1R21uQjVvUFBwazJ1a2JHMWlOSk53ZFhmOHdpYjlYWjNBMXMxQ1FDNTZSeGVmVmhwYzhTcVFKb3NhT0luOA?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 21:33:00 GMT",
+        "discovered": "2026-10-01T06:27:04.858245+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مصطفى محمد سجل هدفا.. تعادل كونيا سبور ورديف فلسطين وديا FilGoal",
+        "player": "",
+        "content_hash": "c258fd21c70833a1c3c56ab8fced6eef77c79d781404c28f6fd7c0d3c89c765d",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 7388,
         "title": "مصطفى محمد سجل هدفا.. تعادل كونيا سبور ورديف فلسطين وديا - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxNU3pFaFJqcnpESFQxU09KazAtN1VQX3lodWVjb2RfdEp5ZEJCWDVkTXhFUks1ZlVNeE9XSEpWdjVrOW05X05XUkxxb2tudnJXMGN2TFNCZUk5UWNxbHo5V002UDlURmY4dktKTVN5MFFqTzcxUTV1OFlmMThyUVk2X0pfWl9HLVRZODU2OXRfWHNJMWRMMUk3UjN3OTF3NVhVd1JoUUNYQWNkc3U1bGkzc2x6bjFpN09RZmIzakxvMzMxRXp0OFcxZzc3VWJrYTk0Y2l6U0NETXRXWWtTUnBYOWt5U0hmcDNCNTBTVlRlYkJqeFFoMDVLdkQ3RXJ1b1FFbFRFVk9GQXE0dXVsVVk1Ymt5bmRSamJ3LTB6NnBUU19TLWNSN0ZSZktUN0RRT3RxTHRWQzMyaTFJbTd1c1BWSnNOaVF6RHpLaDNSbzBYdDNzRjg5dGtGVzIzdWZDNE5GSWdGeDNfazRCYWR4RjBwTEV6cGp4UXVOSzhRMFBIbEVhVjhRVVpNZnZlbXdCMHRjU1hBWm41dnVpYUtIUUhxaTJENWJhc3IwX1hpMVhpczM0TUNnWjd1NTNhY1ppd2JOV1c2QU5R0gHLA0FVX3lxTE54OEtFTHAwRUVPRnpGNzZtUi1ZeFNRbnRiU1FVUGtyeE1BNGVpX0J2YU5EU1NxMU9UVG1VNHk5dmhEY3NoenRHOUVsUUFra3pPa0h4OVdsMUs2Z1F1cjhoT25ZekZTYUVjdWdBZWYtSVE3RlVUX2hDZFkwS3NXMXVrVmlMNURIcVozR2JMXy1zQXRTbmRaaWtNVFlkR19kUUhhdW94OTF1b0ZFTDNlekVGYUtMdWRxRHV3SFVYbjJaM1JrcHItcXFuM1lXUDRPb0R5dmpFVUxIVkdZVkMzMGdPdzVKWmtuOG05NXV1WVlIdDQ5VHIzVDhOMUU4STdKZjRGYkFXVHJQSG9jOUtKUzRaemdxNFpRN1NvZ3FQOWpKQ3o4alEtbkE3cWM0RS10Z0hHcjFjeVpLbTFXeXdJejBtT1RkenVyX1prV2pfV3RlbWI2YnMyWVNnQWZVMTByQ1Z6ODZkd0VJelpZRXVNVWdMQWE1UURuaG8zUjd6UE9Sd3hiSjZ0MEEyMEUxSGU1R21uQjVvUFBwazJ1a2JHMWlOSk53ZFhmOHdpYjlYWjNBMXMxQ1FDNTZSeGVmVmhwYzhTcVFKb3NhT0luOA?oc=5",
@@ -1174,6 +1190,22 @@
         "section": "sports"
       },
       {
+        "id": 7421,
+        "title": "جمال عبد الحميد: صلاح يستحق معاملة خاصة.. وحسام أخطأ 70 مرة والحظ أنقذه - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMijgVBVV95cUxOaUNLOVZJV0tCaVFFc1BMQnFEQnBMZDBLbC1BbWxWMDhmVHpoVGg0RXdnZnZTQkNhUGlMUGVIOVBuVzFTNzJ6UHQtX0R3eVNxUm1uSXVtWWl1ak5MSkVBME1vYnA2NnM4NkZSSHVGMFoxQy1vekt1OE9qdW9PZnhyampDVXVpVWcyaFNQUEUyLS16YzR6bEdZbjFYR1VkeWh3YkE5Q095aEtGNFlmVURtM2l0VEd1aExtN1FHSllmOGY0VG1HVFJpUV84SFhIQXQxNklKb3p1cTRVNzRlaHVDWlFLOXpRaHlfZ21ScFUtSjc4T1gyMC1vZUIwa0VsUzFxNUg1ZXIyOEV5ZG9PTXM4VExxb2thamFaTjZGWE14Sk5rYXBaaTRmanp4ZFFoazJhTV85RElvZk9uZnBxbUhTVmlzRTJyQnkwOGdiTHBIWlNFdlNIaGFpcmxobkc1YXlqdlFnYlprZ3Noa0NOOEFlR1NYaVpqS2N3SGM5NFY0RlJxS3FTU2hsWVdGeUI5cC0wQXZpZTZ2NEh2aklucGVZc0dQZnA0eExqRE5DeXFFbFh1Tm9fWExkNjVmTEZzTzlPOWFhS0otbWJiVVVhd0x0aHUzUjFkZnhZOUJ0cUZSbkNhbWFlaWVmT1VYcXY4NG1IRC1EOFdpY2JxZXJwS1cyQ1NWTnJ6SlE3RGpaM2U1RHVVM2IwQ0xHVGR5eUpZRV92NjR3REtvdnRpQXR4OFgwY2hmelhBNDNQemtJVG5mZGJkQnFsR0drNDBPbWZHdHliOXFabzR2a3J3d0lseDhpV0huem0zeEdSbGhjbjZDRU43SDdhUkQ0TFY2YXE3Z2RVb29ZVU9DVE1KaUE4MlE?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 20:45:12 GMT",
+        "discovered": "2026-10-01T06:26:59.537015+00:00",
+        "category": "أخبار",
+        "status": "غير واضح",
+        "summary": "جمال عبد الحميد: صلاح يستحق معاملة خاصة.. وحسام أخطأ 70 مرة والحظ أنقذه Kooora",
+        "player": "عبد الحميد",
+        "content_hash": "165f22320251ed4c49e0a94c8b86229bed6ff855230a657a4cfe61468401fe59",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 7306,
         "title": "أخبار و معلومات اللاعب أليكس فريمان مدافع فياريال winwin - winwin.com",
         "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcVZ0MTRZX0ZGRnh0TndycXliX2tnOTkwWVdSbzEtMFhoU1JxUkp4NnNrN0RPTFUzOEpObjlGd0F3UWR5Ym5pZW5nUHRKTXd6WThrbldXV3QyakRwSWRURGE4YmxBSXlhb0ZyQTdvdXZTcHVqLVh2VGhTb1FsRWI4bkE2dVdTek8zcjN4YWdITkdQZnhZdXp1OTJzNEtscE5pX0dFNm10dkNuMm1PT1lRZ1BYRVNGTm5vVTl3aDh5RTV1ZGIzcnVWY2k4cGpVZnlySlk5Tk9vR2V1bWR6SUlPWklhRVozZVJfRWppZ2NpUUp1a3ExSVE5YW1BN1lSeWRRVVZGU3BDM0g?oc=5",
@@ -1348,54 +1380,6 @@
         "content_hash": "54c8b54f258a8586b50ebf84942d400719f67b66e99593e90d6ab38b4d6fffd9",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 7321,
-        "title": "مفاجأة.. السنغال تُعلن دعم المغرب قبل قرار المحكمة الرياضية! - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxObjV6aXVDcExNQnU2aWVXUnBFRmlqWlVoWW1xS2ZJUUw0ZDFaV1lJenE1WTFqNy1WeWRBVlEyZU1uaU9KTnhRdlR5c1FwclA4UjFGTGlwRGQ4SDJSdEdFMEFMck9QM1NKdXdVX3pPekMtWm5aT0g1aXZwWHBaNm5OeDdIdnRGT2tEbTcyc2xwZk9RMGU0ZDVXQXVPUmFZMFF5bnoxZlJFUU5zUXJjYnhHX1hncUVSQXBzUzVaMXhDNVg5andJQWcxdVlwSUc5NTJYeE8wZXcyQTVaVDlJLVJ2S3JvY2ZOV0tMTlg0aUtJV2tqNFpMV19lVlgyMm85SFdjbHdpb293TFpEdGlaLVZfOUJ5VEhGd1U0Wk8zbkR3S3dIRlpJMXRKVERnOUpqeUJ4Y3BNcHBYZ2RzWENoN2ZyM3NJRmRFb1JxeHNWa0VPUFRnU1FOWlJtZ05lVWVtVHREV2VBOHVoT0tVb1ZpTEFMdmhkOGs0S0FRN2lYX1Zmd1hXV2hWSkZoVHhJclpzSDNWQlhCNjdjeFVpUWZ3bkxlOEdaRlpZalR1OHpKUnJJRzJSYTZBRnZVWndnRUgtSWZEQ3JVWngybVQ2UC1pQl9TQV8xTVRYM1RQWHRka3B5dGJ3ZEcwa2V2WGl1Y0pBdllWWjB2UzB2ejFtYi11N3dlcDUycnRhWjg?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 19:49:12 GMT",
-        "discovered": "2026-09-30T21:58:17.169541+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "السنغال تُعلن دعم المغرب قبل قرار المحكمة الرياضية! winwin.com",
-        "player": "رياض",
-        "content_hash": "1f1fdae40f8b4fcc8deacd0c8fed18d08baaf4cc0df8d7ac3740347a94751fb1",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7289,
-        "title": "مباراة السويحلي الرياضي و الترجى الرياضي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxNeFJjYjdxeWhZZEhsdGE3TkpWNzQxZTcxd0x5WlVFWjMzUTg1UGF1WmlzWDZmckxjRDkzaF9PenJGNWN6cGtQdzItdHA5NWlwWDBnTkVMWWpsNTBIZjRrXzRPcWtJSHVkckMxTzIyN0c0ZGRlQXFBSUk3a2x1UkVfNGp6UEJiMGlNSWxUVVJlVzVLRTVScS1jU05maWFlbnZDZ1RLZlRLUE5IZVVPRGE1eklST1hOejdzWHNmU0lRa3lMSlRreFoyeVR3Y0pyUmN1a1RYRlA0VUQyQWhNbHVsa0ZZZENlOF9MQ1k4eGJpRWVDek9ZeGx0czVEWHB1UlRIc2RqWldMRkh5aVFmWkVwalFfMWZmQ2RsYl96U25lT29iLUVVaDZRTTE3VGtBV09QV2YxYXNrcEJWdjN3VURRNGNTLWlVeWh2ak9JZGs0ZWRqTExTT2oxckYzaTJ0ZUR4ZmtQOFpaU3NEUW96VTI2X3ZhdFA2eHljenl1eGxGc29Wc0w5LXRxOU1yamdsdk40QXRMMmpYTzAybndKeXFFclFYb3pVTThuOVZTcTlpcVVDSU5KVWQ2bHc5ZmVEbkgtSmFZREdET3RvWXp5OW1qWXF5bzdMaUFlXzlzZS1Edmc?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 19:45:56 GMT",
-        "discovered": "2026-09-30T19:56:32.519879+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباراة السويحلي الرياضي و الترجى الرياضي يلاكورة",
-        "player": "رياض",
-        "content_hash": "455421ebb78617b30c1e93c456ac5f5469d5549b473a81bc91d6974bd226b439",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7361,
-        "title": "استهدفته في محيط مسجد.. استشهاد إعلامي بقصف مسيّرة إسرائيلية في خان يونس - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOdzE2Ny04YzFEOXhGeTVzWXA2Z21jYTQ1RS14cjRLZ0ZPbmRUdnpSdnItY0xxanVZTjlvb0JYQzBKc0phTllXUExXTUdieDBBWVVZOC1kVVhDYkd4SjJiRGNSU3VBNHZqenBLT3FpUmM4RGRNZHlMMWdhaHpEeVhYTi1tU3lORlRweWJyRU1kaW0zUjNuX28wc1NmR0ZPNVdiZXhvZFYyN3BSaW1WMEhDdjhydEhZMHRyVjZpUUQ0THg2ZjNDNWpMbnRHZzlDR2xYbi01aElhZkFYUmtoRVBVMGc5REkwQXdxc0t1SWpfU0FXNnIyUmpjZ1c3MzlrdzZONGpueFJLaXFYNzI1cDFfbURRdEVBQ1FHRDRfSVBGM0NRTy1MZ2djM2pRWU5jRFRaMVhtYTRiNllSUdIBvwJBVV95cUxQX2JMVmpqQU5fcDRoeTFWM2U1XzFweXZ3aEt4Z2FncWl2LWxzNkRaajdJeUoyYkdQWjdELXZlLV9ZSUJ6RjlVNkJySm92N2xiSGx3azRiY3NGdWlwM2VyZG1hNEdMYTg3cWFNMjA4VmU4TEgxanp2bWZOWG9ZSU0zV0lVX2k0TlV0eEduTnc2ejlIb3VtSmZ2eHVUM2Q5QnBPNERxMVFTbXFrT1hPeGpNV19EMlE3WUNBTHkwSlFtOEtEWkJCZ1BLaF9iVEZkTW8yXzZHX3lkbUYzQ21XdzFIa2hRMTZieTBybDNqY3hWRFB2OG5PZFJXdTF2Ym1YcEhoX205bnpqRkdQNDBUdm9IVC02OThqdkNtbTJjRUVZSjBDVi1ULV9tVEtqcGZKM0hDSXZRbG14SFg0OVJTVUhn?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Wed, 30 Sep 2026 19:34:22 GMT",
-        "discovered": "2026-10-01T00:34:28.145129+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "استهدفته في محيط مسجد.. استشهاد إعلامي بقصف مسيّرة إسرائيلية في خان يونس الجزيرة نت",
-        "player": "",
-        "content_hash": "d2aa71bc0d924de70ad4edbbc9d6da8df435b7b0a58e8e6b18b1fa647e2bc90e",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1444,6 +1428,22 @@
         "summary": "السعودية تتوقع إنفاق 371 مليار دولار عام 2027 الجزيرة نت",
         "player": "",
         "content_hash": "a7ac6a2cba522bc28b4630818d1878569e2aef4d6cf94d20c00add06075e5710",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 7425,
+        "title": "تقرير: بعد رحيله عن معسكر المنتخب.. رونالدو اتخذ قراره بالاعتزال دوليا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sOGNDeEhDZUJ4QzlHVmJmS1p6TkFiQlVGSk90NDJfa3pMclEtZXJkcnpWUGpEM3NMNHdoazUtVWtUSmNHY1VkMUN5V1BmZWZv0gGsBEFVX3lxTE5ySzNta01GN0VPZ3JCcWRiVFdZWjhmVEdUVU1wZUFzR1NnVVJHbElaUG9EaWl5SFM4Qml6RFBqR0tOazZFTXBnM3p5QUtueFRlY1ZvX25rMmNaOEVpTm1PeGhUenhoN0VibjF3a0J0aVlWVkZvNjVhanJiQVh2d1JJaERtRGkzS1ZJb3liazRrTHo2X0hjaEFRRWNsODlsVUVzTGlaeUlNMmtKNU5KU1pmZkFVRlBTS25fOXlJbjRnM2dXcmxGbTFWLUpXVUJ0SmtCaUhHTVItMmVvWHpmelZpNWZucGd0UEk1bEN2UXdGOGo0MTROVkRIR3cxa1ZXNUdmNkdwOEIybV9jek5xU2xUZVVDZXJEcG4xMDI0SlVzLU9ySExPQTNka1hrbmc2N21NRzM4M0VmdU1PQjRYTDUtcWZRdmpWRGcwUTZQaDFhVHFUalpvaFBwcmM4SjZnU1pEVkFqdHZTbzdqT2tUbW0ySzJFT1c1Y2l2WnZTXzZVM1RaNDVJeXhrZk91Qm55cDB3TTlzU1BXaTAwZmRoaDVBQkc4ajh5dzZveWJlR2VBSUNIRGVDak03S2xHT1lMek0za084cF9xTi1nWE54STZiY2FKVHBpN3FJMXBnSmFrSWxJS0huNGtRMzhwR28wREg5bXFxNWVaVUpjOElobmxDVmRCcUhJTDZvenZEWVRrYlc2VUZMS3g4b2dqdzIxaVFKcFFwbHJtZk5qOGo?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 20:39:00 GMT",
+        "discovered": "2026-10-01T06:27:04.863541+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "تقرير: بعد رحيله عن معسكر المنتخب.. رونالدو اتخذ قراره بالاعتزال دوليا FilGoal",
+        "player": "",
+        "content_hash": "a86b7870cfcd6a49e29e7b9694b670df32adba3967e28253f19b6eabead1dff8",
         "sent": 0,
         "section": "transfers"
       },
