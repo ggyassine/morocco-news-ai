@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T16:51:54.796725+00:00",
+  "updated": "2026-10-01T17:04:07.496169+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -64,6 +64,22 @@
         "summary": "مدير مدرسة ففاس تضرب الحبس ولخطية بعدما وصف المجلس التأديبي بـ”العصابة” وشهّر بعدد من المفتشين goud.ma",
         "player": "",
         "content_hash": "b2d63aed49b707b0bcde0cfbaa38744d5e7af4cc9f9c4833fda29f4b3655e020",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 7576,
+        "title": "الباحث لحسن العسبي يرصد معالم العلاقات المغربية الأمريكية - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMWGFzSUNXcGJPenJLOG5iRGNaWXkwVkJvMGszcEpLM002QTRpSHNNYjh6N2tqZ0dxTExnZ2s2aWtCZS00b0pPODNWSmdmQUQ1dGRUclEtRzZjMEN4Z1V1YlV5MkFYdw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Thu, 01 Oct 2026 10:53:09 GMT",
+        "discovered": "2026-10-01T17:03:39.588203+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الباحث لحسن العسبي يرصد معالم العلاقات المغربية الأمريكية Le 360 Arabe",
+        "player": "",
+        "content_hash": "f25ecfeb2aa9bc26b186ff672937abf8b80a9b049ac13c400c0ea56d88bdf106",
         "sent": 0,
         "section": "morocco"
       },
@@ -400,22 +416,6 @@
         "summary": "إسرائيل تحذر الإمارات من تحركات نووية إيرانية في \"جبل الفأس\".. ماذا ناقش نتنياهو في أبوظبي؟ Euronews.com",
         "player": "",
         "content_hash": "85d2c3c14d2f473faea3ccde6e4103d26d4d5e6bf30b04c8c7e4cfac501571d8",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 7378,
-        "title": "الكفاءة العلمية والوعي المهني شرطان أساسيان لتميز أطباء الأسنان المستقبليين (عميدة كلية طب الأسنان بالرباط) - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMitwVBVV95cUxQcVljZmZhNkJuc1BLNkZFaW9YQ2E1SEwwTGQtTGFPbmR2dGNDUmpkYTJZeVB6eEpNMjFKaTFuVTZqcnFZVTM0MGYxVml5aEw2N3Rpb2ZuOEtIdmw5Xzd4QUpqSWtnV1ZVMllqQzBYenNCajRPekFUZ1gzbnEwZjVPN1paSDFOOWNwTkpIdWRfTFR4UWdMcmN4LWhSSm5GZTdXdFZLeTdTNFFCcDBkWFlBSjQ0c0E3UkZyZ25aak9FQjBBU2wzNFRYSU9mNVlWZ1ItcGRMTlpxVWdsbEtFSzlrdEd0RTA2WXE0cHQxd0dLdmhSbE9acUUyYS1OR3dhLXZLSlBWcjFWbm9VN19NZnFuN1BPbkhCRW5XX2NySDI5ZGwyZkpEV0kwY3NMVFpYVXZkbGpnaDJYS213ZUJSSjlFS1JXU0RlNVRqWWtOcHNTVzFNanhVVXBsamh2Uk1LVEQ3X0c1VzRfaktNbWhFT3NOcWt4YTdVQlRyc2JoZUtjQnh2R25RbS1JSUp5NUdrZEtoM2x0R3llVFZwOHM2dU9wNGgteGltazRxVXVwNzJNcWJVNkU1MktaZEhob2pfblllakZlbUZYY2xxdTNXYXlvbVJ1eTczSFNycjR3Z0E4QmgwUEtxdjNOTGFrbmFkb3l1S2JPRGI5eUlOU1hkVzE4VWZtTENlRlEtOVk1M2s1LUhrV0V0Q0d3QXZQWXhYUzFfYlBYbnVudTJCOE9GMmFDSV85Q2ZaNnpHUEEzUGl4ME9OUHIxV19NNFJHT3YyYlNrTmFDcHZXWXM5cWtEUnllUU9uNVQ3QXIyNndCSE1qZ2I0MkpPU19nUnNQU0FXVTdQN1dlVkp1NThweW1DU2pUWmNCZjlKS2Y4eEVlay1pNjhnNmdvT1ZaSFlrNmVZeTk0RTlVbXZZNA?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Tue, 29 Sep 2026 23:19:21 GMT",
-        "discovered": "2026-10-01T02:11:37.529852+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الكفاءة العلمية والوعي المهني شرطان أساسيان لتميز أطباء الأسنان المستقبليين (عميدة كلية طب الأسنان بالرباط) | MapNews",
-        "player": "",
-        "content_hash": "9ef5ddf081d8ee56845b36cbed33b5bb7d05ef2bcab306af4d7dd806c465c5cf",
         "sent": 0,
         "section": "morocco"
       }
