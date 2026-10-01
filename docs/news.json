@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T22:18:53.482487+00:00",
+  "updated": "2026-10-01T22:33:43.395080+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -16,6 +16,22 @@
         "summary": "الوكيل العام فطنجة كيكشف معطيات جديدة ف فضيحة “اختلاس أوراق التصويت”.. وها التفاصيل كود",
         "player": "",
         "content_hash": "323b96e7893050eaeddf41466593fe449345a391927ea194f4f2913ef9cd4c65",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 7664,
+        "title": "من بعد انتخابات 23 شتنبر.. الكونفدرالية الديمقراطية للشغل : كنطالبو بفتح تحقيق فخروقات العملية الانتخابية وترتيب المسؤوليات.. وخاص الحكومة الجديدة توفي بالتزاماتها وما توقفش غير فالحملة - كود: جريدة إلكترونية مغربية شاملة. - كود",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPMkRMNmRkc0VWZ2ZGM3JlZlJTWDUwbFk1TkRMbnpSTVN2V29uSFNveHNVYUVuOGp0dTV4WjJvbFBmV1RtYmZxbWlqZHdyYXZmeFM3dzc5Zks0TXlob2dMOWoyX3FuME1jUXpNaV82b1RwNUpudE42LTZ2NV9QQnZRb2d5U1BtaHZJZTlwV0gxRjloRm9yWlBFdHpod2hGM1FYZGFsUGtDbUZCLTRmR2QtOHdjSmVma0xHaUV4YzJOY3FKSE9ZbjBDbm1TUnA1c1RmUVB1bF93cGNHSl8zMVBKb19sY0ZTX2hMOS1LNlZLbHN1WGJrZlk2WDkxY0xpZkRIY1lmTHEtMHk0TVROY1F0VFN3N1ZaV083ei1qNnROQl9XUnd0STIyN0pDM1o1SC1SXzMwN3VUY3J2Q2x0UC1TR3kzWE04UQ?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Thu, 01 Oct 2026 20:18:30 GMT",
+        "discovered": "2026-10-01T22:33:18.318321+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "من بعد انتخابات 23 شتنبر.. الكونفدرالية الديمقراطية للشغل : كنطالبو بفتح تحقيق فخروقات العملية الانتخابية وترتيب المسؤوليات.. وخاص الحكومة الجديدة توفي بالتزاماتها وما توقفش غير فالحملة - كود: جريدة إلكترونية مغربية شاملة.",
+        "player": "",
+        "content_hash": "7d079e961c78e88ed0000c7cecf93ded7c9aa0eb2c90c1e7c5ef0b89b384ed67",
         "sent": 0,
         "section": "morocco"
       },
@@ -482,22 +498,6 @@
         "content_hash": "0a789156f8f8ffb538703e50ebe9e0e9be7a06db557b13c6e82b952a2356732e",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 7344,
-        "title": "الولايات المتحدة.. اكتشاف لبروفيسور مغربي مرموق يعد بطفرة في التشخيص المبكر لمرض الزهايمر - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMingVBVV95cUxQWGtTWVBqNWlFMmhQYUo0QjkxVWdVdm5veDFVVDNpYjNwUzdqNHMtS2xMNzBKWjZRSUpzMlowdGlVVE5wcklyWFhqSzU0eUxrLVFwSzFYSTFlX2tFQS1zMG5xNXRyVm1qWldHN0hkOXkwalgtWHVPdmZwbGMyTHhVMXBBSDNxT3dJOHdVSnJBOEJyZ0tLZTFWMWlWWm1udGN2UWp3VmJkcm1halEzVmhpeUg3YW9wVVdKUC0tMzU0UWJFVmVZVFlVX1Q1NThNYlR3U0pHMFZ0WXlLeDdqUzZQcEFpdGZ1ZklKSzF1RXhwOC1oQWVRVGxfNEN3Z1FWZEtEQnNlVWJWTVZxeUdKSkw5Y2tRUWNsMGdlOWc1X3gtdFhzZXBXT3pERGdURDdCREs5aDVYazdYNzdIM3pLYWhqY2dzU1Z0dTV4SDhibW5paWc1Y2NSeWZHWUNCa1JEX3pnVG9hZmtERU5uZlNOcGd0ZC0wd1h0WjFfX0ljV1pSbFZpU05fSl9WdGNYXzA5aVR2RmowMTV6TzViZVpIcS02MXBmeW5mRFB3ZURNNE9taVBCTE5JTXktS1l5ZEVvUzdrdThhdG1HZzRBUE1XVEwyV1hwalVKUXd6eUktV0dBMTJGaXE0eVFBRmJTUUlEQ0NmcWJzOC1SYk5sQWxYNHEzMTNjVWhqVVJaZFhFNVRwbUs4dmJmZWhQWV81cHFhb1V0dm9kb04zcUR4Z1FwQXg2RzdEUkZ3NTZiUzlEelkzS0wzbXFqbjFMdkZPZGphS1daOHRjME80aG9aa3Y0NVpMckxmTEpHMTJGNnhyT0RyTnhvU3NrUG5Od3A1ckc1YkgyQjZxUTNmaUhCU09PZ3V5NTVLOHhWdDU2d0FCRUdR?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Tue, 29 Sep 2026 20:17:33 GMT",
-        "discovered": "2026-10-01T00:08:18.371213+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الولايات المتحدة.. اكتشاف لبروفيسور مغربي مرموق يعد بطفرة في التشخيص المبكر لمرض الزهايمر | MapNews",
-        "player": "",
-        "content_hash": "0262f23490e3a1581403d5858d77285c8be8d1842b8abb115499a546129fb1f7",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -642,6 +642,22 @@
         "summary": "من كتب التاريخ.. العلامة الكاملة تمنح المنتخب السعودي مفتاح الفوز على قطر Kooora",
         "player": "",
         "content_hash": "8a1f78ea616e4be106d3f23b64ca180a9b90575b61c82588a554c123d511e40d",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7665,
+        "title": "جدول مباريات اليوم الجمعة 2 أكتوبر 2026 .. القنوات الناقلة والمعلقين - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxPcjNvcS1XWVM4OE90bDlNeWQ0Wk9leG9QYlZRc2daUlpjWWNiQmM0bS1lZ1lBNEhxVjdBSWtpUDhIR2NZNncyR3FhNVVLXzhsTW84UzRxY2RuOF9UVU1GQVhnRTNDVF9VNjdEeEk0d0ZtUDRKakJDcC1CT2ttdzFubTBZS0pCemZUbk9HbFMwWmJILXZmQlJJME1Ua013MGVicGQ0V3psRm1Ib1huSTBJZGxYSEMwdFE1QUQ3bEU2Y1lzcWc0aDc3U1d1bl9mU2dFd242bU9Jc2dnX3cwQ3psc0xFTTZjREcyRUF4bTZyRThSUkQ3Uzg0TFpHdjdnMy0wb1lwTUFPM3o3dG01TkpUeHBxcEpCeEZUN0VJUlQtbDg1cllURldBczdCZFNGZDIya2hyVEhNVTFGbG5Wa1Z5ZzhSeHViRFMyS2g5Vl8zOXdab0hZTE1VbWVKMGQ3ZzAycXBpSFN0Rkg5R2ZRbkRIdTVjMWdKVm96dEk0SmtaUGlrTURsX3Y5NWtENldIanozcHBaMVd3eGJfZVQxUEZPZFd3bXFUVzQ3aEIwdWdxWUdVRkg2S3UtM3VlY2Z0VzBpS1BzZnNkVURnYlBpTE1uTVB1TVg4c0ZHdFZTTC1JRWNYamJ3SWxDbVhLZTRyM3J2OFU4Sk95ZkdzdWlkRXFXUm45cnI5bDJ0RENpR3B2ME1XeFh1bjJvZUNmUTREMXZ2Y042SWNCaEFxWE00NUJfQUI1ajNGSHZuSEtTUU9pV19DTlFrRGZNdXJuSjA5S3ZQck1kZG1kNzhsQUFkamlWSExqWTM?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Thu, 01 Oct 2026 20:57:10 GMT",
+        "discovered": "2026-10-01T22:33:21.541097+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم الجمعة 2 أكتوبر 2026 .. القنوات الناقلة والمعلقين Kooora",
+        "player": "",
+        "content_hash": "3aa9f0f5d1b26beb99428e6894d3e167342546304553611db78a4127b70aa95d",
         "sent": 0,
         "section": "sports"
       },
@@ -850,6 +866,22 @@
         "summary": "بقيادة المصريين.. فيزبريم يثأر من برشلونة ويتوج ببطولة العالم للأندية لكرة اليد يلاكورة",
         "player": "",
         "content_hash": "d79d1db74b9d3880e1e4a9488319f82f376bd497b36475152ea6831c60a41935",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7666,
+        "title": "رابطة دوري السلة الأميركي تغلق أكاديميتها الوحيدة في أفريقيا - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxNWEtSSl9JVWwxLV9tNzc3M2Q3MHFHOUhXd3dGRmhhOVk2VzFPSlREYmQ3alhDM3VSV1g4M2R4WFBlVXRMTXJ0SmZUOW5Fa1BhVlVhRHhxNzdEdkkybVdsWmF0WkppZ1FjT1ZhanpjcUlteUUxSzVqOFRZLTY5aFJGVlBrcEM2UXJGcDduRUZBU01MMkZPTEROclVOZ3RwWjl3NFN2V0hraUNXTmw1endrb09aQndsV2ZWaDJFQ1duYV8zbk12bC1EYVpyT1ZEVTdZdzB2MGdFM0EyN2JaSWRkdEtPMW1JWTR6cjRYRTY2MzF2WUJwNlpuQWMxVW4tRlJCaEJsOTR0Wm4yN0xoR2FHa2UwaGZQZDdkX2F3TFpUdGUxRjMxamNpcGloNkVFelNZUUpKTTJuUUhlR1pRbEZITWxXNkFGNG9Pc3dXblpEUmNkTkZJbkMtdkt1TF9ENVMzZjZwOWRDdVJaWVZpWkZsLTU4cmI4azZZbHZVeVZiYXFJR1RDbDh2SFM0M3VjaWRqZ1JSbHE3WE5ma2NCT3hwMmlrUmg3RWF6Y1FxeFBFOTlQX1VJOVdHcjVLODZ6cTJjTXBrMHdPR1NmYmgzYk1fcS1vRE4ybkdTQ1laYkc1MFJmdHhDN1haSy03blNjcVdBR2QwbXBUamE2ZnhPSHBldUFNTnZNeWdCN1IxZ2hkUlNIV2doOTJsYXBGeGFvTlU1d3dCM3pseV92RFZLQ1VDNTNsdjB5WlNILW80N0hubjRDRWQ1cUxuUDhoTlVXckdRd1FFc1JhaU5GcTFRV3RpSVQ4N09tbW9yUEV1SndqNFFQanQzb2owbXlmSDQwMXc?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Thu, 01 Oct 2026 19:27:08 GMT",
+        "discovered": "2026-10-01T22:33:24.888070+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "رابطة دوري السلة الأميركي تغلق أكاديميتها الوحيدة في أفريقيا الشرق الأوسط",
+        "player": "",
+        "content_hash": "29dd4c02649fb067dce7f72ba590a7c0c198b88bfaa683042297fe02542741f4",
         "sent": 0,
         "section": "sports"
       },
@@ -1266,38 +1298,6 @@
         "summary": "كواليس قرار منتخب أيرلندا حول مواجهة الكيان الصهيوني يلاكورة",
         "player": "",
         "content_hash": "2cf87dba83dadce3287464ae16a62dda754da56c0e483e0fedd09fcba26ac322",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7562,
-        "title": "الاتحاد العربي لكرة القدم يجدد دعمه لإنفانتينو بالإجماع - aawsat.com",
-        "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxNbWstZWZFbFNjT0cwUGxIT1VvaTJ2WnB3dDZDRHRIQ2lkWGtER1pFUjZfWGhqTi1kTmZXX1VfZndYSXZBZ3BXU1R0aTRlUHZVQTV0c1A0MXhsNU9BeTZWMldaYVNPYkVYT3JFeDQ4S1lxbTFndlRWaW8wNDBiazZqZkJCOU5vMmVOZmNnVHc0Y2pPRklFemdaRlJubkdNTTUyUldXa3VqVllEY2VJOTBVckJXSUI1ZnEtS2lGeHQ5eGpWSThvVDhuVXUwQkl6X05UTkswaF9DZ1k1S3QxbDhUV25tclV6RDRvcy1QQnFzMjlDcjNHSWhKdTUtbzFSQWdqY05EMnN3NlZSZWJqLU5VTENTX2EzZWtpbmFQWERqUmxhNTRVNlI0dHZqbmZ0b0hTM29SVTBHYkUwVUFjek1veEhpZ3E1TG51bzhEc2lvbGNsaTBVa01JNEdtVUJzaUVxSGxYWlFCbE84NUtSRDZvYU1QSkhEd0x6VzJ2X2s2bnJua3F2TkVlRHJhVWRvWFVoRm9FOVZ4cEpBakR0MkJGRXlIdHY5VVZwak9rbkJ4empkVVI3dHZMaV8yZElSUmhOa0tyRk52MzYtUWpjcGFxZWJHRlZ0TmJhWHpGcVJZb2NVZzM0cVVINWtsQjJlS0QyR0tVLVRmcG81dHc2QmpyODh0OURBbHp4Z0FXSDFCM2pvNFB0ci03ajVDRjd5MThRWEpiejFRZWVBMU9GbVhlcHRMQmJqSXpYSWhlS25jS0J2VTBBaEhvTXFhbmFOX3hLM3NKZEpR?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 16:17:00 GMT",
-        "discovered": "2026-10-01T16:21:53.741703+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الاتحاد العربي لكرة القدم يجدد دعمه لإنفانتينو بالإجماع aawsat.com",
-        "player": "",
-        "content_hash": "336cd4dc7f33e655cbb77d45dccbc1e9036bcacf190ae88b4296c0b505a01260",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7570,
-        "title": "موريتانيا: حملة أمنية تستهدف مدوني الخارج والشرطة تحقق مع سبعة أشخاص والحكومة تتحدث عن شبكة ابتزاز وأموال مشبوهة - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNTWFsY3YzaGxPNUxiVDdIU1EtcmJ5RkVnc3VKVUp0blBlWC05bHF4QXZld1EybDRBUVppTVRUb05zYnpzWE5OVGF1VUFXaXBUUlZteG02T1RtWmZ3TVlDdnAwbmQzX0Z0ZTVrZ2VlYXlvbjJpelI0c3BHYnJBRmxlQndZaTJIbWZrM1ZQTTRtaUtYTjNZbjZ4QWdJX1R5RkZaOXN2U3hzSFJldkp0RVQ5UnprQzJpdHp1R0s2R3ctdzJpR0JobERReXVGTmcwc3dIc0hUeWlaQnJCOXhtLUp6Z0p4MktfaTRmWUEwb3pqa1FfU3dSYWR6MW1wVWYzbmNRX1MxZlFiMjVsTTR3d0pLbEpnemVuSkxSVW9Qd1R4blpfeGtwbm5DM1NCNFFJTUlkbUs3eHVPQ3lfNThkeG1zb3VTWkZ3QQ?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 16:16:34 GMT",
-        "discovered": "2026-10-01T16:36:59.417602+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "موريتانيا: حملة أمنية تستهدف مدوني الخارج والشرطة تحقق مع سبعة أشخاص والحكومة تتحدث عن شبكة ابتزاز وأموال مشبوهة القدس العربي",
-        "player": "",
-        "content_hash": "a2ad7568100ca510d467f0e8e7679c2ea5e911d5a828e6623858d177dc4169d0",
         "sent": 0,
         "section": "sports"
       }
