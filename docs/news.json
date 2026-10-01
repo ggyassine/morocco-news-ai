@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T17:38:52.377271+00:00",
+  "updated": "2026-10-01T17:54:33.193927+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -421,6 +421,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 7584,
+        "title": "رجاء الله السلمي لـ«الشرق الأوسط»: بطولة الأندية العربية ستعود الصيف المقبل - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMioAVBVV95cUxOVGNtN085WEt4MFdlaGVpMTBYbnROM1lDY1JUQk5GOFBEM1U5VjdHeU15UWhlblduSkxRcXNtLUR4M0Y2YXN1SThkOWtNVkhwX3NGZjNZLWVORnNaWkpBVlNMXzRWeTRhcW1sSld3QmNoVm5TeDBfZmJXS09xM1psYmx1WnpZRzZIV0pjb2VDU3c0WHgtZ0wzSU5ESVFXUU9TVlY4WTNtdmZPWnptMzFCWEVrUFlLMjlkOFMyWi1HbHVwUkpoNl9EQU52MFZaUDlNOGJYSW81ZTVZOE9WTExSS1hRRmFiMFBqVzR6RFlWYTlFUnpET0tKQU1zSnlXcVM5bURvdHhUcjh0RXJ4VTF4Y1VBSjNYQW10NEVHWXhLaVo2ZVYyZUQ2U1RNeEZ6bzNPMVFyVEpjYUZWdWRRUHFldGEzWXV2amMyX0NDcEc4OVllYXMtWG9tSjZNZGYzS2FhbEtPT1hUaVhmZmVRQklqNEc4UVFlU21tVnRIcXh6M3YzZldFbGcxaHRHT2hBX0F6MWc3a2dJaEVIRWhJaUNqMmFNa2h0dFJ3VzlpQXZwYlRsWjNKa1dIeTQ3d0xxQUZ5eWdxX3FBY0FUMGh3aUFKWHlQYjJPOUNwclZnMlM4b3dVZWY3R3UxOUtzS2Y1SmxIMWgxX0ZTYm1lQl9vQmxkd0oyT1JZdklEUDFtSVhaVzFXdTVYWlNGT1djLUc3c2tuVlFrZW4zcU5LdzVWOGxNbmhpLUdRZlV0c28ycjhHR2xvQmp1UFNQZ1doR0hBOTBWSkl2NDJkVVRqSW8wSS1rZU5jTTVWZ2VyQzFXNTBzcjNQSjJVN2JLay1CS1Nmb3FIbmwycmd2eEZDcnhVazJzaWdjTmRuel9UaWlsWlVFUmc?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Thu, 01 Oct 2026 17:38:23 GMT",
+        "discovered": "2026-10-01T17:54:14.130163+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "رجاء الله السلمي لـ«الشرق الأوسط»: بطولة الأندية العربية ستعود الصيف المقبل الشرق الأوسط",
+        "player": "",
+        "content_hash": "2604be2ce6741dda20270b405e75cdab2f4a614811b850b8d06e2d03bba87e65",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7580,
         "title": "كرة يد – الأهلي يفوز على الزمالك ويحصد برونزية كأس العالم للأندية للمرة الثانية - FilGoal",
@@ -1202,22 +1218,6 @@
         "summary": "هدف حمزة عبد الكريم الأول مع مصر يلفت أنظار صحافة إسبانيا سكاي نيوز عربية",
         "player": "",
         "content_hash": "feaf29c7fa8c1ee805c6d4e0d46fba997401e2ce2f06dc97ff3ca2d83869871c",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7469,
-        "title": "منتخب مصر يستأنف تدريباته على استاد القاهرة استعدادا لجنوب إفريقيا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxNYVU5WVBvYWF4eEFVUVdyRXJDUkNxSzRTMFVkaW5oTkJuWmRITmVxWXpSeVNuMGQwVjk5QWtXWW96d1dhajN1NWxmNzRTSFk4R0ZDaUZ5TGpmRkNudjdFN1hVWnliWVF5QkNJaEVwcVAxVVc0MFk3VDF5LVJSVkpEWml6SUdSSWlOMkg4ekg5eF9PS3pLaWpIcXhYWmV2TFJyQnRTTTNFWVBsVmRUeGdoRGtmRlFHaE5odjZiOUhfRzcxWHVBSzdHZXVKRUMwcFk2MWJidzJMVzRxSEFlcG5fOUJ6Q2RKUEZZV2dJazNYeVphRVMwaEhuY1pLNHoyajZVbDdFQU85UmlJRzUxV29tbURpa2FBd1UzazNxTDluSjNWRmRoZXgxVkRjbmlyMllIQkNOcDYyWnMyVG82UWdqelV3aUNzQ1hCMVBGbWtVd19KSGJYVDU0VzlhUzhJUGwxSlg1QzlDazQ1S2ZFNnVsNW5uQ2VMYk1NaExtRGpIcHNQOHJjbElHRmxXOXhXUjBfNUIweFJQZXlSMGl3azN4OUNLeUJXTTd2bDVCQ0NlbjhnTVE4NkFOYld2NDcwOWE0ZHE1eGZhQUI4VmRpUVhqRGtEU3JYRFZvVnpCNElFVlJxRGJEeVY0a1NnQUxUanByZ3N6TUtwOHZHMFE5Y3hJS0pwamItQ25MZ3lxNTJPMEd6QUptMERpdkpySWJKRTZnNHAwOGt30gGrBEFVX3lxTFBNMl83ejlyWDZiS0p1TkxCaEI5MkR0bmhUR0hEMWFkMWFSbDF0NTN0NVZFWDRLSGM1Z0pScFhJZVhFX09nS2FTVzlFWFlMX1dzU2dBcDd2Vk5oTFVjNDlKSzY4b1k5MU14T0x2dmhKemdMdVBiSVUtV2tVQml6U0Rmd083cFc4Q2tEeUZZUTItY05IOGhISEZNS1F2Wk9NTmtLYUxPYUpOWEVtNXN2QjZCTnJtRjVCbjQzXzlSd05qVkxKT1NQRVJKamRXc2tpaTczVnJNSHBVNkp4cVY5SXo0YjFVaWZVcVFrSGRYUDFtRWRSNXE0NzZMeE9NWnJKQ0JuYUd6MnZtLVpEV045emtsTm5kVDR6azdBamNKZmwyQTVOenluaVplbkJPMFZ5N1ZwQkY1ajc4MjdMblpHdmo5TVRsbFBwNFhuSTBHSU5mYnRXTjNSLWVOcFdGdndpb1ZsUnJHS29FbFl6X2lTQUNRN2VzSTJqSV9BR3Yxa0tFNkZGYnFVbUlvczgyR2pfQjdSYmVvWFJmQ18wVWE3eHRneHVhQmJqXzlvM0RHMlloZDBxeWJDc3R6LUZGVGN6QUhKaVpuWGw5SFhQLXBHU0gzNzZXRDNoWE81NV9uMW45b2Z5ZUdhdDlvbDE0NHpsVml0ZVNjUFdicXNnMkFibVpqbmN5bGpoMVZWajJ5a2FNQzhBbWIteEVnU2dzOU1CMnh3Z1lrX2pOQXR1MA?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 09:32:00 GMT",
-        "discovered": "2026-10-01T10:12:47.610443+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "منتخب مصر يستأنف تدريباته على استاد القاهرة استعدادا لجنوب إفريقيا FilGoal",
-        "player": "",
-        "content_hash": "3d72d6b1f842738bab6efc7b7d39cd71dc6d39d08650d53697640ca1cea24dac",
         "sent": 0,
         "section": "sports"
       }
