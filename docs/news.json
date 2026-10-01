@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T07:42:36.946316+00:00",
+  "updated": "2026-10-01T07:56:56.296397+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1480,6 +1480,22 @@
         "section": "transfers"
       },
       {
+        "id": 7440,
+        "title": "أخبار | كرة سلة - انتصار الاتحاد وسبورتنج ضمن منافسات دوري المرتبط - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyMDE0OVJzRzY1V3diUDBVUk1tU0daQ1YxWnJ2cS1TU0cybFBJWkNnbXBJYzNfcHdseURJd2MwV2wxUUxObDh1NUxYZjlwZjZo?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 18:57:00 GMT",
+        "discovered": "2026-10-01T07:56:40.779337+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار | كرة سلة - انتصار الاتحاد وسبورتنج ضمن منافسات دوري المرتبط FilGoal",
+        "player": "",
+        "content_hash": "33de765791817a86aa07ca8937fc9e39413695dffe4405b12616410105e8c9b8",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 7377,
         "title": "كرة سلة - انتصار الاتحاد وسبورتنج ضمن منافسات دوري المرتبط - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyMDE0OVJzRzY1V3diUDBVUk1tU0daQ1YxWnJ2cS1TU0cybFBJWkNnbXBJYzNfcHdseURJd2MwV2wxUUxObDh1NUxYZjlwZjZo0gHiA0FVX3lxTE5wSEFvMDlac2dMOUtndlZQMXZuZmZtRGRXcGM2V2RUVzFKLTNJR21SS3A3QWtOYm9wMTZkTHAybG53d2hNZ0k3NlI4Qll0dnZGWWZNdGNYdzdiUXJORHI5R3JRaVZDRzdrQ05CT3BCazJwbl9sZHMxQnRYQnFQOE81Zmcxb3ZHb3c2X1VMLS1fRFl2YjNUYkFZQ0ZXdF82elJCcGtjZGVPemlQY0tER1RJNWhkdEh6akN4MkdLVENWZlZvQUVfMlFnVGx4SUpzbk9KekEyUFgtclZtSGdTVXM1c1d1Z0ZaaHJEMEpTQlpqZ3NCdFNvcEt0R0NJSzFfUHRScXFQclpqMnctSWNJTl9MRmFpZlBZQ1owMldKeTFfMDZQTGhUZ1JhYURDN0pKSk9jZERnVzhtUFBSaHp4OHE0LXY0MUFsSGZ1eWdvQUF4MlB3YXlBc1RwaUhndlR3bVVzTDBreHF0YXFmU0M0WTRPNjZuQlJ1cElGRjFPcmduUHBIVk9VMklJUFN6Uk91SXI1dWtzVzNQd3F1QUhOeEd2QkZ3TG1FR21VQU85bnhGTDYybjEtdXVpVlRhLXN2VHdfX0d1eTAzRlUzM2t3X0p4ZjlJcnhGcUFNaThDSVNPUnNR?oc=5",
@@ -2230,22 +2246,6 @@
         "summary": "إدارة ترمب تنسحب من هيئة أوروبية لمكافحة الفساد الشرق الأوسط",
         "player": "",
         "content_hash": "feb584c861694085b02cc532953b961862862f0b219ba8d9f9c712d32e271a6a",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 6940,
-        "title": "الرياض تستضيف أسبوعاً عالمياً للطاقة في أكتوبر.. 70 وزيراً و300 رئيس شركة - العربية",
-        "url": "https://news.google.com/rss/articles/CBMimwRBVV95cUxPeGo5aTVzS0tNNEkzdEhrdXFsYnQyY1Z1NWk3ZWpCTGxXeTVPdzYxMlZCY3kzRndfOTdIZHM0LXE0cmxjRW15RmxjaTVubnNrNEVtMjduSnZIa0RDdVpIbjk3bGZidEJRR1dWYzJXbUhaVXFNdmppRVB0NzZmTzdnUGFqZTZSWGlaakF2eHl3LVQ2M3V1bzZ4aWZpUksxcXJxT3RNalU5d3lnbXpfbllYVTJXbXpLTnE2cm5aQWNYNElJdGFvS2I1cWtXMjFabjBaRmlPVy1NaXNxRXF1YXgyaExXbTZqaFZZXzlPeWtFeWVKT2V5NFV0X0pQaFRFa3otMHRneDg4YkNIb24xbGZYcEh4enFwQkFFYnh1Q29zaFVRZ05fMGk5ZFhEa2czQ2VXN3Yya2tpVnBHX2lrWnk4TURhTS1NQ2ljcHRuaHlXQ3pfMER5U3hYYWRPRHF4ZWhxSG1HVmVVcGRocnlKM3Z2bEdHVlJKNmlWLXI0OTMtRkdkWDcwTXgtYVY4eFN4d3ZNc3l2b0tMQmVHOXZjc1BsbC1YRkt0bHMxX1pwdXk1LXo2emxxVGJoR0Y3MFVlMG5mZUdqMHZ3NWVYSHRxV1poYW5qZk94ZHRCMVJXYmFvbkhuN3BoUDFTeUdhUHRjS3RYbWpjNmRseTJvLXhidWNtNGhmYi1mRjZ6b2tLT2JjV2l3dVhoM3dzOUVhQdIBoARBVV95cUxOUy1BN191REFCNTExWHBLVUQ2V18tU2lqRkZ4ZThDOC01Yk16YlMwVlRuYlV0d2dzd2tpcUFZNlQtQWVrbUhZbVFMWUxwZHhhSmN0blVBbGpneFp6RnFSdUs4N0ctZWM0NVR6YXNnUHJPcU1UWXVrRWMyX20xcmJQQXJxa0RtMEZHVFNReUF3b3hvRmR4SlhVVlQ5cEpheUpGS21KSWdoMTY3Z1I2RnduQ1dDN3NfTkl2b1pZU2hXT2dTdV9SVjJGcFhXV29tTDN5UV83V1JHeEw4aWNPbzFTaEl1T2hYekgxb1ZHVGJrRDE2Z3RPV2JIWUotNzR4aGZBQmo0ZW40eDF2eWZiQVZmTFVhNnQ2VEpwWFJFZWc5TEhjeVRJM1BYUmJWMWp1VVBBOWRWT09neTdaUmcwaUJzMmFmYUNBQnB1bldmSzEtUl9PcU41NG1GaHpMa0dfUkZpS1Bnb0lqT1ZqYU9pc1YwR1EySTFZNl9vWXJLd1ZOSm9na2dDUlR5WXpoYzFtQ1ZPaTZmdGJvWWhQNFVHUG9PSzdxd3hIUTdaZVBUNkJraUlINzVNR3RaQUxIZmp2TC1IWHBadWxMbF9sSGtwTzBoNkh6VFJaQUZ4bkxPNkZ5YkpOR3g4aXliRUpBOXRKbnlEQXdadml0cjlfMEtuVWMwbl9NbHpLNl91ejdTbE5xTFNPQ1hCcHZPdEhDb2ZhWWxn?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Tue, 29 Sep 2026 20:26:00 GMT",
-        "discovered": "2026-09-29T21:34:22.412468+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "الرياض تستضيف أسبوعاً عالمياً للطاقة في أكتوبر.. 70 وزيراً و300 رئيس شركة العربية",
-        "player": "رياض",
-        "content_hash": "59e493ac60ea983b4113a9ed0f12874842004362b5fe38db183be9f100e461c7",
         "sent": 0,
         "section": "middle_east"
       }
