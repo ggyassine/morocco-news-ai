@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T20:00:27.362741+00:00",
+  "updated": "2026-10-01T20:18:47.010125+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -64,6 +64,22 @@
         "summary": "تأكيدا لما نشرات «كود».. قاضي التحقيق هبط البامي عمدة طنجة الليموري للحبس كود",
         "player": "",
         "content_hash": "fbf257102b15e5e3082fb87dc12ca2108e8e8df9182312d9f564988c2da83d4c",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 7628,
+        "title": "المحرشي في بلا قيود: تعيين فاطمة المنصوري في رئاسة الحكومة تُبين مكانة المرأة في المغرب. - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ac2N6RVY4TlY4QW1pQlZld21BSkNmWHBlaU56N241b2o0eGdLVkwxMG44S1pBa0VDS3BGdDM3NEFMMWVVMW5NRzM5QnpTX0hMX3BoeFVNTVh1aktWNVHSAWNBVV95cUxOdzZGSHhPYVJFbmhXck4yVC1rS1ZPQ1k0T3dBU1pUc1Bwb3NIZTdWcE1hTWFNOUNQNDJpUHpsQ2U3a0F3LU9jN3FfNmw0ZThBSG83REhXRGViQU1PMU95QTExbTg?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Thu, 01 Oct 2026 15:33:23 GMT",
+        "discovered": "2026-10-01T20:18:44.472111+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "المحرشي في بلا قيود: تعيين فاطمة المنصوري في رئاسة الحكومة تُبين مكانة المرأة في المغرب.",
+        "player": "",
+        "content_hash": "1e85e00a808ebacbd50d4e6d3168c7df33642576f7c14eaaf6e6d2bf0d256250",
         "sent": 0,
         "section": "morocco"
       },
@@ -356,22 +372,6 @@
         "section": "morocco"
       },
       {
-        "id": 7129,
-        "title": "الرئيس الإسرائيلي يهنئ المنصوري بتعيينها على رأس الحكومة المغربية - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vUS1TSlhmUkRRSnBSbExoM24wTE9BNmI5SmNqMVZhcmpZYml0Y0t2WkNpcWpMMmIwR3pvVExScGpmZ3NIaUlhQg?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 10:48:09 GMT",
-        "discovered": "2026-09-30T10:57:21.227580+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الرئيس الإسرائيلي يهنئ المنصوري بتعيينها على رأس الحكومة المغربية Febrayer",
-        "player": "",
-        "content_hash": "a7242d524775462680665ae4bce3da4e2f3147c6e71bf8bc4d7fea3d04951a5b",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 7198,
         "title": "شاشات تلتهم النوم وعطلات غارقة في «إنستغرام»: دراستان تفككان فخاخ الإدمان الرقمي لدى تلاميذ الدار البيضاء - Le 360 Arabe",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0QjZNV3R2NnVNbGhvNUMwYkx4OHY2V3J4b2xMWEpLOG5yNzZ1c1lvdVZGelZ2SzBQUEJfSHV1T29RMG9UTG1nbkJVTTd1RW4xeXdtU2lZdWZNQmdNNEliSzBFYlFVQQ?oc=5",
@@ -482,9 +482,41 @@
         "content_hash": "0262f23490e3a1581403d5858d77285c8be8d1842b8abb115499a546129fb1f7",
         "sent": 0,
         "section": "morocco"
+      },
+      {
+        "id": 7148,
+        "title": "انتخاب أعضاء مجلس النواب .. النتائج التي حصل عليها حزب التقدم والاشتراكية جاءت دون التطلعات والانتظارات (السيد بنعبد الله) | Page 4 | MAP - | MapNews",
+        "url": "https://news.google.com/rss/articles/CBMiowVBVV95cUxOMW5nWjZIWS1tRmV2U1ZNaVpvQ3J4cld0YTFnSDZ2eWdFdV9DZ3FkOWl2cnB6TW5EcFVFY0dyRXNVamJnemdGMWcybFJ3TE04OG4zdU03MkxLcVhLTWxvME1CTXlqSGRVb2U3MVBMNlY4NDloMXBoMHd6N0x0MEFFZl9vMkI5REgyMS13QUFmU0JnQWVpZlNYX3hPQmhBdEREblhSdUN3SlBXU1lxNkttQzlQcldCbXRFSzk0QlNhNEdoN2hWb2QxX1U5SFJEbHhzZHFRaUdiWTJ4VXJQWXJaeFpTaUdrQ2JoVC0yV3lBVjUyZDdwT2ZHd1JkQXRVYS1FYkRlek00LWJtRFI5RHNFcksxM0VjZEpLWTIyTFhQd3gtOWZOWU1TWmFBRlNjNGpsUGhCQWdEazVQX1RkTHhDMUx4dWhfeU5kZDRvMzVqX0dFb3Nac1Y0cWNwUjhFMDZXX0VDR2VhSUFTc0N4NVFlV2tzS1NQODRVNmdUUExGc0NOb1Vpb1BnU3I4M0RzcmJiRFRJNjNnTzhEclN3U2VzUnNuZGRqcXJILTFfYVQ4amVYUDFPQWhrTkYxSDRMdkVOV2RQNjl0SmVBazBEcTNXal93bEE1YmRUNFpzZXk2aF9wckJtMDFxVTRiQkVNalhZb0tFaEtydXBnRU8ybURBTENGbjNCanBDY09zMTdFY1B2dlhPdEctdWU5bm9CdzNxRDhvNXd0bExKdEEzcG1BS2tqWHkxc1ptc2NyLUJXeTJaenhfcHJPNHoxX3NSd2lQdzB0ZXA5UV95SWlBRDJ0RzVVZUxVd2hrYWFndjVYYklnYVNhdG9MczFzOWFfQWJrNnRaczM0SVNNbEFva2pjVUpRaUhWN3k2ZkRXaV9WNjJ2RGc?oc=5",
+        "source": "MAP عربي",
+        "trust": "A",
+        "published": "Tue, 29 Sep 2026 19:57:39 GMT",
+        "discovered": "2026-09-30T12:22:41.526549+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "انتخاب أعضاء مجلس النواب .. النتائج التي حصل عليها حزب التقدم والاشتراكية جاءت دون التطلعات والانتظارات (السيد بنعبد الله) | Page 4 | MAP | MapNews",
+        "player": "",
+        "content_hash": "c4882330b4f1bb01e681db811cec2d171f4c43c2758d41a558d44d86eda5a28e",
+        "sent": 0,
+        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 7626,
+        "title": "«دوري المقاتلين»: ندا والصعيدي لحسم صراع الأفضلية... ونزال مرتقب بين فاطمة العماري والجزائرية لونيس - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMisgVBVV95cUxNNWdpUnhXdkdvMldFZ1VmNVJncnNyNHMtVWRJZ0tOWWE2OXh1UkgyclpvcVRRMVlaRjlUYWhjTDZmaTkxQWFuWm5MbERLYTlQOS03ZmcwckQ3cU4wVk1GY09FTmJSWkxKUmJnX2Jvbi1GMlpjMkljbnNGM3h1N3llbUtuMDJBWG9SZHowV25XUW1WNEM1c0ZXdnBzZmx3WVdBVWo0N3FwakhjRW0wNUFVb0ZHSGJteHJuSU9sX1lISjV1ZC1paTBhN2JfeTdXc3hJalNXbnF2UVJYSnBZNGZ5bXhBSUJ3bXhRc01XMzFPX2pDYm9rRWZqS3NVUmh0LTVtMDJRMTRYXzVHbnpHMF9mdjdjeHFrSGNMSngzTVUxVkgyTGZldklfUHFYTFkwbjlhamp3ZWNoWmhSQ3NTc2hGcEs3bWVWN0Q4b0xNT0ZvZFY2b3BUZFhacnJ2Q0NXTVVEaXJ3UXB5RUZ4ZjJzdW9yOHhnMkN0d01tbUJ5WjFpZURMSHJxMVN6RVJJb1FvMldOdHo1a3VmNy13aHVmclRHdlVRZUdhYlA1OUsySFZMM2VUQmFZQVpnLWdnczRPMmRHd0tZOWFhN2JVVnA4WDNYbzh0Z3JfbTEwMFpfS3A3OUpIcEVGcGh4UnpGOXlJVm5rM2x5LW9KcmMyV0t0SUxmeFI2dnNYU0NpbjFPc3pwMHE3b1k3VFg3UWRtV2VUZE53Y0ZEMkdmcDZXaVBkNmxaY2liY1d6Tnp5al93dzNpQlRzZ2RiSTJMVUhzUFZ6S3JUVm1PdHdnMjdZVVU0ZzExRnYxVGNWQ2hCMTNfWmNTRVpobUpMWDljNkRuTmU0aHpPb1JwMVEtNVNtdGFXQURZWDluel9MUHgtYVNsSnh4SXczdTNiVzlsSUZ5ZjdZNEtJX0E?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Thu, 01 Oct 2026 19:58:20 GMT",
+        "discovered": "2026-10-01T20:18:31.379271+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "«دوري المقاتلين»: ندا والصعيدي لحسم صراع الأفضلية... ونزال مرتقب بين فاطمة العماري والجزائرية لونيس الشرق الأوسط",
+        "player": "",
+        "content_hash": "1126ec25ab6730ce6e5c384d2421c5fdee357c7b4b9eb5789c58ae8be1b7596f",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7624,
         "title": "دوري الأمم الأوروبية.. البرتغال 2-1 الدنمارك.. تسديدة صاروخية - يلاكورة",
@@ -1158,6 +1190,22 @@
         "section": "sports"
       },
       {
+        "id": 7627,
+        "title": "نيشيكوري يودّع الملاعب بالدموع بعد خسارته في الدور الأول - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxPWmFSSkZ5VWZVSzJyMV9SUlI4aDA3dmp3cUs3OWtJZEd0Z2xaX0h4VG1HQmQtVERUcnA0aU5zVXBLbDU4QVVGa2ZBeG55SXg2ZW43ZlljLWI1ZmczVW1ET3NaYmZaN0k1bDRmN1ZCUzhxMFdDZlJWUWJlSHhPdFVXT3hyOU52bk1VQm5XN3kwZi1rblRha2FFQ3pRRGRPd01Wc0pmOGNWdnJqTnI1NlVXLTR1ZVBQSmRPWENBQVg4RDI3M3VFaGJqdWRYZ21LLW5FNUNBQVFiSTNSdUJSTWM1dVVsTTFuTk4yNlBta0JfV0c0QUFCVzhNTld0Z0gzUjJiOEpMU2tVLTBCclU0SU5RaU9nNy05cklKQ2duSFg5N1ZYN2ZMNkFYWnZ6aUNSdWdXVmtsNEp5aGpRUm9IaHNGRzVLZWdTTUpSNzIyZGJjekg4UU55VWVVWkpVN0RmcVlYcFBNNUlyVlRWRWJ1d2F0WlM1bUN0cGc3aG9sY0NMaFdxVkpWVnlxdFEyUkVZMEkxa1ZJVlpaNmRPU0NSU1ByYnNxcmV0MmZ5Uk5aRGlZSUt5YlZWMkZKNjI4d0NqUFJ3YnY1RUlOSElNd19TRGF4bnUyVVAtSFFTUk5SUURwczZCZ01MQVdwZGh0SkhrV0hVMWJKVEpjX01nRHM3bG5hSm9rMFR1d042X2huNkZOZ3cxamFqODl4N3FxQkRzd0N6TmRFMjdEWjhrclZLdkFmbFZhMmVkRTBmYW04bE15eXdyNXNiX1VjR21iblFiRHlfX2theEFPckN2RVBwam5J?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Thu, 01 Oct 2026 14:04:07 GMT",
+        "discovered": "2026-10-01T20:18:31.459875+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "نيشيكوري يودّع الملاعب بالدموع بعد خسارته في الدور الأول الشرق الأوسط",
+        "player": "",
+        "content_hash": "80954fb090025e271675fedbf704e1dfeef91299ea696e98797fc37b2e4753b1",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 7526,
         "title": "فايكرت يعلن عدم ترشحه لرئاسة «الاتحاد الألماني للرياضات الأولمبية» - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMinwVBVV95cUxQblpiUzJpLS1VNldDR25GMV80ekctd1laTTdfdTdaOVBnUkVGYUVMTjlKTWdoVmdrczR2VzJsd2JWd0RKdnZ0cnpVVmVaLS0wdG1BbzdKNDBZam1qYW1kOVNmWGtuMmlkZk5Ka0ZZMHc5TnNORldibXFNRjViSTA5VFB5Mmd4UkE1c3FQSnlFb1kyT3lYTGZmV2d2elFtZTE4LTJqb0dRaFhpZ2U3VkZjSG56VmxKbzRhLWRCbFZlVGFQdm9HUUJVczFGbjN0TTN1UVVYQ1YybllZNXNpcXNpbFdWeHhRenphakVBTC1QajRvVjJWMGxSWXVCZDdZTnJrTWh6dXJzVFNCMGQ1Um5jY0ZyNjVHcUZHbjAxcE9KNXRxbTZMNHBUbGNZTC1VVjdaY2dfTk50X1ZaX01UdDVKRnlsektrcXp2SUF0aHcwY25UQko5QjRSVUZXWHhWaFdLT1hXcUVXdVBsQVhISERPb0k0TWRhb05yaFdpX2NOQnRUblVYcU9ZX3gtVkFmTWhvZ2VLeHNieDg3Mldyd2FwWTFlbmZrYldEY3N0R1JnWjlqX2FJOGtYaTVUNTBVQnVHOGlEeGhTWHZrTlE0aDFWblU0aC1NY0VwVDNQb2djY0RScWg3dUhTTzBLRmZ0TjFUdjBNNi0wVHVTRGIzSTVQWGRFeFhVU3hLSVBKamoxNEl2SjE3dlRYd2RnbjRqYzZnRjhfQW92MFI4T0YxanBNd2gwTXltd2stam9mWU1RQkVPUHlfWks1R3NsanJfRUVlWm42QzNfOUJSUEtyRVplcUZjbUZnRVpJeGFJQkxjVUdHMGRaeThLRFpnUGN4M3ZFMU1xZng5RGh0c01YMTl0Ui03R1FHd0NEXzA3dWtJQQ?oc=5",
@@ -1252,38 +1300,6 @@
         "content_hash": "24729bc4f284a9c7f1ce9e90d97b2666ef9c9026665d1765aa103180b2a831a3",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 7612,
-        "title": "الهلال يقترب من استعادة نجمه قبل كلاسيكو الاتحاد في الدوري السعودي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMisgRBVV95cUxNR1dmM21UbkR2Z19uTjNzd3RRMWJaR1VJQ2dhVlU5LUNtc1B6VDc4dWVadFdQWVZNY01GNy1saW1NNUtoa3NSeEdiNmx3eE84dmxuVXk3SFJUbkVRUGNTenZmQm1kYzVyUjNiRVZ2QVB4eERGckpkWUhHRHJ2dXVwSTRLS2VYSjZGWkJTZWR5VmFlTjBxcXU2eVFQUmF0MUJGV1NqQS1wRkRMaTlHRzA4Vjl4RmJObURqRWZZY2JyMTNkUWlXSS1kaExqMXU5UXRQQkxQMWVxM1hnbkFkbzFIU2hEb3dTQkdKa2V4eVRGT3VJSFBKSFZwaFI3dHQ1X3hzd2ZTYVZKZWJQRnJHa2I5T2FyNlpET3loS3FxN2xxWWtxYmZsaGxQdFpvOVJ1LVRXNFQzVjBkUTNFTDBlSnJLT09rbDQ1MzBNdVdGb3BKd1dLUEx5OEMtUzlqZVQxUXJ5TXRUUnJNd0FxbXg0eUhrVDloVEtvUUh1NmZpcURJZmNtdUM4eDZxckNhZGx5SVNCelR1WDZXOWxyOVhtMzJSTHJoSlNZVkpreHA5cE9xYlJ4VjEzVkt2THlLWWlIQXB0UDVvVkpwenJWbHdULTJCdUNMczZKb1lhdG4xWV9QQ0JMXzdEMXJldEdIVllEb1RHNDM3Zm9NOGlDeXJGN2picnpUVXFCOW9GVzI5a2VIQ1FQYm8wSWVkMHoxREt5a1VZNTdKeXpzMUFwcHhjazEwRmpR0gG3BEFVX3lxTE9CSmdKMERsU1FVS1dtcDk0eTJ3NjR2NGhjTzZITE52T19WLVBqdUFLNEZnUW1JbnZFYVV5Vm8xbzFOOTFxQkhFYlNmRXZxd2d3S3lkUV9Pd1NqV3FSc3g2Skg5SWFUVldYXy1zQXNIcFdRamx6eHoyMWZGMlpiMFZxUWZMRWI2c0QxQ2ZCU1pPN2ZoYmY5ZG5lU3RlNXlBbmcxSVVqNU1WMDZDR1FHVC1ETVVwbjZ1ZnplQkhqT2dTcHpwSUlfQkJ2Y2hCQmRhZkNCZ2hoenJRYTFuTHd2eUhrelowME1MZnZXUi02S0RSYkgzcndKM0NRMGk2dkZHc19NWDdlX29sY1M2Yi02RnloRTJjRWtOaklKMWk1ekhqR3h5dUlobnFjLUs1YzBwMl8ta3dsTk84M2xNSnBrZlE4QlhDMWNlWUlwRGRISmp3aFVTR0s1bWNMOXZydGtfck1XdDR5VTVMZDA5OEVoR2VHVEpUbi1ibnlOWVdQZzRNRTdFaVdZVTBhYThpZG9WcnczdU5KU19RSmtSdjFWR0FDUG9PS2xWbVlfaFBQRUh0cUMwbTdQWVlFSkppT2pLN0l0X1ptLS1ldmJEREtCNGN4NTFxVlhWNkc2T3BzWEpHbkRaeG9zUWVvUjEyUTc0dV9wVm9CNHA3RDFHUFp6OHlpRmdhZHQyUTVQM3JDdEwxZ2hCeHVwbS1MV3lfRkM5V2Q2YXBqZXF2WFQyZXBOMUhKbzRUYlhBNA?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 13:48:00 GMT",
-        "discovered": "2026-10-01T19:36:18.566850+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الهلال يقترب من استعادة نجمه قبل كلاسيكو الاتحاد في الدوري السعودي يلاكورة",
-        "player": "",
-        "content_hash": "505024876f9034d00999486770afbc177d3cfc303df56c39f5f3141a766997b1",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7521,
-        "title": "الهلال يقترب من استعادة نجمه قبل كلاسيكو الاتحاد في الدوري السعودي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxPOU03TDZWbk1kME42dERsUXZoSE5Wbno1Q0g2TlRQTl9tNzhKYmdJQnBGNUdXTHozOWQteWNjTkJSTVhaYTFGRUtURmE1SUY0ZkRwWjZkM2F0Q3FMcG9SNEt6M19TYVZSMG9IZF9TVmpQSTduWkxkVm5rWmVSYmYxQkNESFh3N0Rsam5aamRYU1Frc195RC16M0lIVk1aZDZxWmJmLUhNRF9FYzRqUlRmeEdwMmJ0SVlsX2hzSEpRQVQtWGxKQUIxYUpBLW5Td2R2OWFfZjE4MlJ4RFNlWG1ETUlkTWhZbFpwWk5nZC1MRUJVNnFqOFlRSmZjbG9JTmZvdUg2S1VweUJLRUt0emhvUGpIeUswbDdUR2daRjdPd1ZhWXJhMndWdGRWckN0Wk1GLWRrX2EtMFhRNWFfLVVTRFhuOVpvNzJBbUxwRXRrRzZ1OE5IUEljREhKamZTLU9GajJ1RVA5U1I0aXoxLUJHb2lQMWprMXhkMnBHTldzQ2pzTC1Kd0F0X19CX191Z2gxcV9uR1oyYUhhbXJpcnZIN3JWWkxuVGhjY3o1aC13blFiTXlVRE9teFBMSGNfcl9kUXJpdXFLX0ljalJEblJjd1ZabWxWVzhmNmJDT1ZCalZCS2w1Q01kTG1qbVM0SkozMnJlUEpNamM4LW90Rno5b3otLVhNVHVUamFJN2FiY2t2NHNMRXZYN3lzdEzSAbcEQVVfeXFMT0JKZ0owRGxTUVVLV21wOTR5Mnc2NHY0aGNPNkhMTnZPX1YtUGp1QUs0RmdRbUludkVhVXlWbzFvMU45MXFCSEViU2ZFdnF3Z3dLeWRRX093U2pXcVJzeDZKSDlJYVRWV1hfLXNBc0hwV1FqbHp4ejIxZkYyWmIwVnFRZkxFYjZzRDFDZkJTWk83ZmhiZjlkbmVTdGU1eUFuZzFJVWo1TVYwNkNHUUdULURNVXBuNnVmemVCSGpPZ1NwenBJSV9CQnZjaEJCZGFmQ0JnaGh6clFhMW5Md3Z5SGt6WjAwTUxmdldSLTZLRFJiSDNyd0ozQ1EwaTZ2RkdzX01YN2Vfb2xjUzZiLTZGeWhFMmNFa05qSUoxaTV6SGpHeHl1SWhucWMtSzVjMHAyXy1rd2xOTzgzbE1KcGtmUThCWEMxY2VZSXBEZEhKandoVVNHSzVtY0w5dnJ0a19yTVd0NHlVNUxkMDk4RWhHZUdUSlRuLWJueU5ZV1BnNE1FN0VpV1lVMGFhOGlkb1ZydzN1TkpTX1FKa1J2MVZHQUNQb09LbFZtWV9oUFBFSHRxQzBtN1BZWUVKSmlPaks3SXRfWm0tLWV2YkRES0I0Y3g1MXFWWFY2RzZPcHNYSkduRFp4b3NRZW9SMTJRNzR1X3BWb0I0cDdEMUdQWno4eWlGZ2FkdDJRNVAzckN0TDFnaEJ4dXBtLUxXeV9GQzlXZDZhcGplcXZYVDJlcE4xSEpvNFRiWEE0?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 13:48:00 GMT",
-        "discovered": "2026-10-01T14:02:46.262994+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الهلال يقترب من استعادة نجمه قبل كلاسيكو الاتحاد في الدوري السعودي يلاكورة",
-        "player": "",
-        "content_hash": "505024876f9034d00999486770afbc177d3cfc303df56c39f5f3141a766997b1",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1348,6 +1364,22 @@
         "summary": "إعلامي سعودي يصدم الأخضر ويتوقع تتويج الإمارات بكأس الخليج Kooora",
         "player": "",
         "content_hash": "ce578d900d53d49469c852cd1fa6216c44bd752d4746c71d1b694af780333e7e",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 7629,
+        "title": "القصة الكاملة لأزمة رونالدو مع مدربه جيسوس ورحيله عن منتخب البرتغال - اندبندنت عربية",
+        "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxOdWJXdWU0azdIaEE5T1FsaS1GbUxGY3FXdzY3dWpHWVdqOXFHUW1MWExaX2RCTGNDcVp2Xy1feXEzMWU5REpqRi1DZFJNUU5iNnJIX29paUlCSVZ2bVZ4Z3lUN3VQMlhtTHJpekdvOWI3Ujk1cmhsdTN5NE5lZGdpUzRYVEp5Z3VnMzhlTXVub0oxNWtOWGZHaVBObTJ1ZkJNSUVvQTdtblJHb09rM3RvMkpyM3hrbDMwWndRNUMwR3lIMUxzaFdVdVJ3aGFDdTZ3dURGX19WQmxsdGNYR3NOeXRpTU8yNnV5aDN0amltaXh0TURtcTdfVUc1UjVrQTg4aG9LUUdkMWNlX2otY0UxVGtyVDd6R2JFdnNMWU1EZDFfTUp3aUxIZ1V1VnFsSk9VU3ctaHZyUVdPeXhwdzhGRERGd3NqcE9nZC14RU5mWHduWWdXRGhMTjBEdFlsRWdLTzZYQ2xSMWdDTHlEX05CRS1ES2x0RHBaaW9lZU5NWk1uY3lQMHRVaG92aU1leVhTeld6bDd1X0EtODVtRFEtbzdrckhnZS1tbHRTTmt6WjAxUnljNTJENzJpU3hrSzFrMU1rS1FZMzh0Q0ttUjJzaVJaZWwyWTdIWGxjZzNBVDhxRTZKU1dFQVFFRlZ5QUM4dDVoeGdMU2dBT3FQQkdJTDNMRDhFVVpMRld5eEhPSXhES1Rocl9iakFZc2Z1QVE?oc=5",
+        "source": "إندبندنت عربية",
+        "trust": "C",
+        "published": "Thu, 01 Oct 2026 13:59:04 GMT",
+        "discovered": "2026-10-01T20:18:45.579357+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "القصة الكاملة لأزمة رونالدو مع مدربه جيسوس ورحيله عن منتخب البرتغال اندبندنت عربية",
+        "player": "",
+        "content_hash": "7bec4a46037fa003b179821bd0ea66f8a3dc80fc11bbe684ecfd512e2b775f5a",
         "sent": 0,
         "section": "transfers"
       },
@@ -2070,22 +2102,6 @@
         "content_hash": "32de0b4ad0d8f07749ac4a05725dfab78d8f527062bdaffdf461ac541f4720d4",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 7343,
-        "title": "\"فلاي دبي\": شجار وقع داخل قمرة القيادة.. وطاقم مناوب تولى قيادة الطائرة والهبوط بها - الشرق للأخبار",
-        "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQY0tDOTBCcjFlXzNubzlNMWFlZDNHQnAtcTRBLXBnQ2NUV21sV0V6cWsxNjl6dkJEemhIeHNmLXd6NTJQa211SkxNeE8xOTZhWjBoSHZwbHBodjN2MEpqNHlyZEk5b0Nic3p3RW1zWjA4NHg4OV9sa0hpbGVmSUZoUGJ4UDRzZXduSS1xN1FmNWdqYnR4TXpqTm1PWTJ6TS1SWmZzWWVXOEhWZVhvUDEyLUU4VXBaa3I3YW5HQWFfS1RqbGFBalZmYmZ5SjNHUE5qYU1ndWtXR0tiYnRJdDlYdTNPVTJfc2UwQXFVcFpmUWhJUldpcnZMZlgyVTZ2djR4RnItZkkwSUFjXzhrWTg3aTlaeWVBU2tyeGcyTFZ2RFRVRWVqX25nekFKaUVUaW1lMnZ6YXdxQm1vQzBYMkV4TWZuUzh5czNNRW1JQTBzS3VCaW1DVnZfejBkQW5VandBV1VpQi1iWkJ5ZmcwMlNzZWR5bEc4NmVSb1JlQUlsaVZtWXUwYnR6LWVDVGcyVGlhYW1kQ2FockpZYkNFd2diY2xiQmhyYkNTYlRQajJhZWV0VjZEbGNxU3BMSnZvSzNIVlVjLTRJeVlNTUlvb3lmNQ?oc=5",
-        "source": "الشرق للأخبار",
-        "trust": "B",
-        "published": "Wed, 30 Sep 2026 14:01:07 GMT",
-        "discovered": "2026-09-30T23:54:32.476808+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "\"فلاي دبي\": شجار وقع داخل قمرة القيادة.. وطاقم مناوب تولى قيادة الطائرة والهبوط بها الشرق للأخبار",
-        "player": "",
-        "content_hash": "783cb6f5bd95eaef532386cd6305b45843c65de54e13d1fe4146c712a000d118",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2198,22 +2214,6 @@
         "summary": "وزارة حقوق الإنسان اليمنية: مقتل 100 طفل جندهم الحوثيون خلال سبتمبر العربي الجديد",
         "player": "",
         "content_hash": "e77da2bb410015251288d02f01d0dbb561f5df4f7b63f8be7081d67025ebf6c4",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 7126,
-        "title": "الصندوق السيادي السنغافوري يعتزم فتح مكتبين له في الرياض وأبوظبي - العربية",
-        "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxOTTVBWFNJMXd4aFVIRDZpdmJFaW51X3VreENadFdiZUsxOGtYZTE2cDZNX25hRzI1YTRLNy1NNjVjckNBMW9OcjRlOTE2OG52UUFJc2g0OThRN2RBNDhqMjNfZXg3dUFUUndDMG5fa1E4anliVHhpOTJRRmhyOTNVX1dPUHlIN1ZQRmQxTXlsRkNBYnA5U1BFTGgwWTdmUmFJcFNGd25yeXcxTnh5bnVBZWNaQkhLN3lUYm16VzExQkMwZ0llVk5oZGFNUmFuSEdtNG4yVVJIOXpTU1lOSmZtajhaZ1VYRmFTLWZ6SXFwV3BIV3E2NnpXUGN3SDB4UFBJelVLVUd1ckV1VjNtQjZsRHQxQmJXOHVRb0NqMDJ2MmhBMU9kRndHSi1Fc0hQUXFoOWw5Qm82LTBsWkR0NVVuWWw2UzZBMTRWWkxSbXNWc1N6eHB3aWFSa0tqWFdoRU1FNTVDaW9lUElsNmVKM0NDLWlYS1M2c2VaYjhmaEstanJUeXFLajRVcXhUSnFxU3JEQ3ozRXRjZTZPSGRUOHRabm16UWJhMmVBdWJvalo1YVhyVjRXSzE4NW12ZlQ0ckdydG9VLTc4Y2t1ZGFpNndodlJjX1g0X3hMZ0VRQV9lUTNCSVY0QU84M3MwSi00dWlpOHdpYzlqN25DcVY5ckNMb3lYSFhSbGNzSklNcUxfNE1tOGZDSXNXX1A0bkRMZ29Mc3FsWkpVWdIBrARBVV95cUxON2stS19zRWJxZlZNNUNRR2dXa0xfZWFCZnRYcTAzSElXaDhLS3piUTQzbTVQT05PREtER0VKY3RPdGRYX2ltaGhxTGZvWjNwaU8yNHpvQ29UVDNWT09jMDMyLWllaVRQQmZKZDAySFdBSEJ4Z1hiVklfYWlYN2lEWW1NT0otUzFKWjVkTWlnb1hCYXhKNDQ1UUVPZEpBOXYtdzU0WkJjVUdtajZJVjd4U2cxbzBmMEJfMjY0N1QwTDZnTUxydTFEOWZWSVkzbHpNRWtDWGtoc0J0dUctUEdYX1RtNXFxUWxmUGVOdVFuUXd2LXVMVXNOTk15dXFWTVlxS2JPWHZSaTRTQXRNLWtXRE1oMjdyODc5cVRwam9BVHpSdjlEVVgzdlF1RHg3cm5Bdy1TOFE2OURKWS1FVUpMUTdCcC1oaGxVWVFaOXQ1SFVMbFg0dnJtaGtpSzlVUm12SkRfcU1na3N0d3pXOF9pWjJMVUY3cEFsaHJKQWVIbzdKOHRMMUN2aUV0Q3RsSmdBMjN6OUNuMnAxc1REMDVrVHhrMFd5NEZkSkRFQ0RSeEFtNlRpOExTWnpxZU5PTVJENlNZVjd3VWFwaFRoRkN0OWh4a3FpbkVMdE1fUG9pRXFhWjlNc2pnSGt4Q0FjZkxpQ000ajV0NjlaZmFEU0Y1V2hyM2haLVJGVnMzUjlRWXFwQ2tHbWtMTGdBZWE5a2R1UHZjOU5abEFhVkVD?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Wed, 30 Sep 2026 08:13:00 GMT",
-        "discovered": "2026-09-30T10:43:42.972616+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "الصندوق السيادي السنغافوري يعتزم فتح مكتبين له في الرياض وأبوظبي العربية",
-        "player": "رياض",
-        "content_hash": "ae4f9b515d1e2667de5b453f8001a0cc5da5d913c28346c0da1a0b93a0fc2554",
         "sent": 0,
         "section": "middle_east"
       }
