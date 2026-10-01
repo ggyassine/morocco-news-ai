@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T10:32:08.339058+00:00",
+  "updated": "2026-10-01T10:49:22.765714+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -485,6 +485,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 7479,
+        "title": "رسميًا.. كيروش يرحل عن تدريب منتخب غانا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQUnZ2THd2UktkcmtLTElnZE1WcS1UeUhvNUt1ZHpCbTJsNVc5bzdTM3dQYW03VGgteUZxVGhSR0RiWjZsN1FRWkhkRzJoWW52YmtGclBKeFU1NFE0Zll2bW4xa1NyRDUwNnBLQVJHbTFHUDVkcGt5OG1TZHVEMmczNnUwdXg2aFFjVDBnNnRXSklOQ0Rqa2pMRXhDVDVjLXB4TFBOR2lNaUJvcEtmNlZBVTRKTmNiaHVPQ3Vvc0UwTFFoc3NXMFl3aFpyZUJDVG0yRzJ0MndOemJUTVlMZGxHNk14Sk5SdXVBQmw4MlhNOFJuV3MxS1AzcmpvQlc1RFNQTUpzTEFDNVBieUwwaEJ2RExuSUV2dWdBX0xjSTVqT21VUEE0WlRMLTlzOUM2cm15bXctenUzSlJfbFFUWmxFSVdzVWtTRXg2cmpHd1UyaWZjNE5JNDVtVkR0a1RyTUE0bTFN0gHoAkFVX3lxTE9HLUJVMlRYQXptdnV4Zm8yZUtlRXFDR0FqbnhPVFRtcmRJOEMtWF9WdGhiU2hia0IyWU9lS2QwZTFrRGg2T3lTZ3dOTFBJcEZYTTdoVHZhVVljWktkd2VoV3QtNkhQUkl1Q1d5Y1BQd2FqbmpzSUltdF9TaXpaWVZJR3RsT2RYMWVVb3JEOTFUcGViR0hkRWs3dFhJNkpwaWluUFZ2X0RzRGtJcmdMbGxCRkhyMmtfdUVhZnlxc29DVXdOeTRjRk5jaVBDM0FxbExXUF9sQjBvVGhpRUlabHkyMzd1dVVfZ3RRYUhwMHByOTQ4cHdld1ZQZUJlb0VhSVc5bzNIVEpFdzN1TXliYmROQnV6QlhZQm1haTZoTVZnN25ib2FveDlGZ1ZTN05KSlV6cEpVU09VOGVkQzVCZWgzc3NEZUV3Qkk3OWlzTUoyM3RmMHhTZjk0b3VhcG5kTHUtbmx2UXpIRA?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 01 Oct 2026 10:32:00 GMT",
+        "discovered": "2026-10-01T10:49:08.850473+00:00",
+        "category": "الرياضة",
+        "status": "رسمي",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "4e44e381e49d039358bef0d361600ee235a437cce3b8affdebfa3018d0009ea2",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7468,
         "title": "\"الجهاز الفني غاضب\".. في الجول يكشف كواليس خروج عبد المنعم من معسكر المنتخب - FilGoal",
@@ -1268,22 +1284,6 @@
         "content_hash": "479632e47633d8899ef5811bd7837b455ee9546e07a3e604b73dd3d9d4aaec3b",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 7310,
-        "title": "القطري طارق سلمان: مواجهة الإمارات «بروفة»… والسعودية المباراة الأصعب - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiqwVBVV95cUxOY2E1ZHFjRFNmZmo5Q3pVd3NMTUJ2UEswalkzaGJ2U1NVNTJsbW14MWpTcl9LZVQyRlBpdV9HQVRMQ1JmZTFpVm45elJCZkFFR09YeEx5RVBqVE5uQkFtTmpqWEt0X1gwZ3I4MWtYY3Y3U1FackhEUzlZeXd1cVprNDdEaXhrWjgzeGJHRWJ2VmYzUFlpQl9uQWJyelJGYnRRVjRLUHNPMTBFbkdwWlRVcW9JVE12bFRiSjNBN1dkcTFfbnlzREEwVkh1dzJxeUVrS1hzcEtJbUtEdU5vdWtUbkpWNXQybmEtallTM2pMbUtWVnR3RFMyZnIzSy1SMWxQMl9jLTIyNnZfVjRhWjBnRGhZUy1yMkJwb2k3SUVGRk9SQlRmTklpbTJSa1I5bE5Sdzg2YXM2UURfRTJwZVp5S2lKQXJBSDM5V2g3TWRYVGdyRWpoenVKLUtYT3JlN0dWX2UzdTlvT1J3SVAtTTB3ME5nR2hEMmNrNkVRWDNFNVZrSEk2M1NwVVlyT3VMN3hWcERUVll5WXV3OWI1R1ZfZ05JWGZSWWNmSThXUVNlUUszSUFaWnZRQzdHNHJrMjR1cjN3bXhyOHJMYXc3QzI3eVppTGVHM0c2bkpaaWdfU21RajYwRERiNXlOWDJ1WlEwaWhuaDJYREQ4Z3V3MGRLdk9GMEJWX1dyb1hrV014dWhsYmtvU2JFSEVyUHRLSy1HZDdjeWhrcUVJTFBHOUZ1QzUtc3B0TEp3X2FXVVRvcDRuNHdHZ1UzT1g0Q2E3UXI5TVlOOGpUNGhiQmE0LWcwamF0Q3VwcnFQSjlGbUFfMXQ1THRIWDFaTm00bEJDM1JBTGI3R21TRG9rVEVReURTem14UVAtTTdYd1dwa3dQOERZRDdWcHpWREJLaw?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 21:20:32 GMT",
-        "discovered": "2026-09-30T21:28:15.312848+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "القطري طارق سلمان: مواجهة الإمارات «بروفة»… والسعودية المباراة الأصعب الشرق الأوسط",
-        "player": "",
-        "content_hash": "cf7f088ef7ca53266ef2d19feb3537e3c69c9401a5e26b23bbad770811fe40b9",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1316,6 +1316,22 @@
         "summary": "يزامل بن رمضان.. رياض محرز يقترب من الانتقال إلى الشمال القطري يلاكورة",
         "player": "رياض",
         "content_hash": "54db7de5c9ff51935fb4c614e7aec31525b8230aad0678364f2a67e6c51dffed",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 7480,
+        "title": "نيس الفرنسي يكشف أسباب مغادرة محمد عبد المنعم معسكر منتخب مصر - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNYjdrTFhvWEtkU3hXaml2Zy02WnlZeWdXNktoR0g5YU1MVFNuU01hRW1UUEhkMVAxQU9pRjAxdFBlRXZxdmZBZFZYbkNSbGpxRWd0WEJCYTkwME9PUTkySEJQTldkZ2Y0c2ZrOGRmM1BRYzlQN0dKMUpqM2JUTUxNNERmRzZRMlYtbTlkVmZsMmFsZkpjd3l5UTFSNVVUd0ZYWFhnU2wtamR6b0tXdFVlMTdkWmduVTdsdGY2U2xPbnVpWFB3YWRCUURtTjRUbkZSZkpPWko3Ukc3UjFuQi1zSmtkVFFoS3Q5Q0NZeGtSV1d5VjkyVG9vNVBRRks1YVpwR21ITVNwNXloYlc2bUhfY2JOcnpEOGlpQjVwRG1CVkwyZlZiWTV0N0NuSFhlbHd6eHRITVZRV1g4MWRPclRPVXRNWWVySmc?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Thu, 01 Oct 2026 09:33:33 GMT",
+        "discovered": "2026-10-01T10:49:18.694167+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "نيس الفرنسي يكشف أسباب مغادرة محمد عبد المنعم معسكر منتخب مصر القدس العربي",
+        "player": "",
+        "content_hash": "4f44c24511978bab9215bf5416b7709e4af2518db5935cf2206e59979ec17604",
         "sent": 0,
         "section": "transfers"
       },
@@ -2068,22 +2084,6 @@
         "summary": "البيت الأبيض يطرح اتفاقاً لمراقبة الذكاء الفائق يحمل توقيع ماسك وزوكربيرغ العربية",
         "player": "",
         "content_hash": "dafbb7d49538110cc1b00d79f67c85cdd87921c5b9f5576d70df5200221fe69b",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 6988,
-        "title": "البيضاء.. التغيير هو الحل - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kNGtFQkxtb3pRcy05NDBLNkRJSHFzUG1iRzVnck5BUXpmRnYwc0ktU1VCcC1QT29relVQdkNObzhGZzE1R2hHcw?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 01:03:31 GMT",
-        "discovered": "2026-09-30T01:16:28.739312+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "التغيير هو الحل - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
-        "player": "",
-        "content_hash": "0b86b8f05fbce50e8f2d42d4d678c4ae04a16c8a6ca0fde5ba78c1d7aacf33b8",
         "sent": 0,
         "section": "transfers"
       }
