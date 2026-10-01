@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T04:57:10.274417+00:00",
+  "updated": "2026-10-01T05:12:01.670709+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -624,22 +624,6 @@
         "summary": "الانتخابات التشريعية.. منح التسهيلات للأطر والموظفين والأعوان من أجل ممارسة حقهم في التصويت (بلاغ) | MapNews",
         "player": "",
         "content_hash": "97c6c0453e8fec7133604fb81b7b9ec6302f87335fd2abb4f93fc54e17cc899b",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 7301,
-        "title": "ملك المغرب يعين فاطمة الزهراء المنصوري رئيسة للحكومة.. أول امرأة تتولى المنصب - الشرق للأخبار",
-        "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQSE1wLWxZNDZJSWFZLV9IenU3OVhaU3hjejB0aEM3R3l0TC13bjg2YW5KZDZDeXJHOUhad3k5OHRsaXN3enBNc01xcGwzUFF5X2wtXzRCYUotUG1vSUVuS1ltZjNOcHFySFFmbHhUZTB3MV9iMFBTWElOZVRhcnRLNURibzFkdG11b2t1TkpIeTBaNGRGWURDeFVLd1ljZVdEWnMtU2IxLTdGdlQ1bE1mWWNjNDQ5TmxFekN4cFdPa3Brd29PR1R2M0VfeXN5YXhRN09EVnkxS0tOOGhvc2NYV0RWZXhsLU9ENnhzQ05UbmtYay15VTE1ajM2OGR2aWp1SUFCRmNFQXNCY2ZuWkF3VzROQkJOVGRtSGR0Q1Btb3NManpIRTEzclB0bjBNaEEwSjk0OGlha0tfbkM2bUJfWm1xQURqd0JMWG5QVTdxdGRwLVFUa1B2cWtxdF9hUUVEWWs1TGNfeHlVS1Z0VzNCWEZvVFRucWstY25QVkxYejU4QUVuYlJrWGt0b3JJMHV0d1E3QmlKdUw5ZFJqbnZsMVJ3ZXFXVFphLU9XSTBYNV8xYmdnZW9GQWJEUVRJdw?oc=5",
-        "source": "الشرق للأخبار",
-        "trust": "B",
-        "published": "Tue, 29 Sep 2026 16:12:51 GMT",
-        "discovered": "2026-09-30T20:29:31.418970+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "ملك المغرب يعين فاطمة الزهراء المنصوري رئيسة للحكومة.. أول امرأة تتولى المنصب الشرق للأخبار",
-        "player": "",
-        "content_hash": "9d323362e320addc28a55d27e1851df1a1fb31994f735d25b0aea0e5419619fd",
         "sent": 0,
         "section": "morocco"
       }
@@ -2169,6 +2153,22 @@
       }
     ],
     "middle_east": [
+      {
+        "id": 7414,
+        "title": "وزير الدفاع الأميركي يعلن تقليص عدد الجنرالات في الجيش بنسبة 20 % - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMioAVBVV95cUxQVUpHT3VFQk5DV25DVGl1RWtHVEUyam5SNTlBRE1aYUE2YUlzdXNzTnp0WVQ3c3NPRjh6TlQxaklZVEpjOTlsdWxGamV0djRURTZfeHI3NzFSSlhsTUxLeHRYTllOcTJvdGptN3BlVnE1MFZGOTRfbVRxTkkxWVFESXEwbWp4X2NiQVg1OFUxNTNOVmZJNE9xMnNzQ3BzQTNzMDBScm5FR3dGazRmSUIzMWVPNXMzbGRBQ1BTenZRMHpVXzJhLWpvUkhOWXRXVXF2U1lRcDR5Qm1tdi1KU195d1pDMTJHbVlRM2pSOGJudmduSTFxbjlYS19pTlpkWnZkQTdwVG92ck9qRmRZVnVidkNrUkEybjE0RmNZR204Wmh4TUNjMmtGTnZGcTdVZHFIUkpaWElQTDE5TGZiZEt5RXNfeVZIRU12c05iM3RwWnB1Vm5aYkcyZ2NjLTJqTTF2Mk5kZ1JuVDVPZElaaFJKdzV0MDY0TU5NN3FQbjNMbFJyanpxUVNmM25TVDBIZ2piUEZ3WEdXYWVfXzl1QmZyWlhnYzdROC14REJSMUZjZFJJVG0zVmxwdXdLR0sxdVpZT0tpOUo2M0lyZzBXZ1Q2X3Y0LUxmUWpNeENyQkJYZ1BZeXV2SmNwLVV0Z1c1b1ItWmxxM2djWExuY1RZRklEWlI3RHhjeEx6blEwdHJnMVd4YjN4OXMya0R0d3QtRlRnbl8wZGJLX1p3YWlydGY2SVlFeFkzeDVZUVBoM0RpU3dLR1VwOEpKQUdsRUwxWVJvSmEyZHJMYU9HT2tQNDk3cmRtZUdxUmVQTGNfd2w3X1EzamVISWc3ZC1heWhVYW4yNjdGWTctRV9SQ1hISW1tbXg1ZmhVTjlxMlpBV29HX2k?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Wed, 30 Sep 2026 20:33:01 GMT",
+        "discovered": "2026-10-01T05:11:56.296896+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "وزير الدفاع الأميركي يعلن تقليص عدد الجنرالات في الجيش بنسبة 20 % الشرق الأوسط",
+        "player": "",
+        "content_hash": "af690ac9a3d5c559811ba0aecd4d5f3a033e65cf0cc76a139d4ab425e7ea38d1",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 7258,
         "title": "وزارة حقوق الإنسان اليمنية: مقتل 100 طفل جندهم الحوثيون خلال سبتمبر - العربي الجديد",
