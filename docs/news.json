@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T22:48:44.845854+00:00",
+  "updated": "2026-10-01T22:59:22.032706+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -356,22 +356,6 @@
         "section": "morocco"
       },
       {
-        "id": 7176,
-        "title": "من هي فاطمة الزهراء المنصوري، أول امرأة تترأس حكومة المغرب؟ - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByVTBzNlFPU0l5VndqU2xFMVo5eGNFUGwtNEdxRFJndFJ2NHE3X3YxZ2lEZEFJZVpLT0lpMUhjN3h3SENyOHQyTndhQXR3QTdSaFhWLUVFUklFbFJaWUE?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Wed, 30 Sep 2026 13:38:58 GMT",
-        "discovered": "2026-09-30T13:57:37.822734+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "من هي فاطمة الزهراء المنصوري، أول امرأة تترأس حكومة المغرب؟",
-        "player": "",
-        "content_hash": "d65d755cc51616558961be151aafd7a117f6068a89fffaba18f67f5a89590bb7",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 7542,
         "title": "النيابة العامة تأمر بتعميق البحث مع عمدة طنجة وتمدد الحراسة النظرية - Hespress",
         "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPVHZ1azY1Mjlyc2dLLWVnQU5OZmdydll1SVV1RlBZWk9TT2d0bkZYd2hwWE1lQmp6UThVREp4UWsteGg3eE4xRUNDaEJvcEpkYXF5X0pjaTgxTlV0LUt3bXdXVDBSQnBQSnN6VUw4RGhGckxDXzZjUVRSZkNCSk5fQ2k2VzBmbko2N0FVVjJrOTRTX1VBbmVNQlN1ZUUyRHpCOVZsYmdDN1pMVUt5U21BLUZzVEZXNFdTZG5sNVRPWEFJcHBYSkRUNFJiMDNPUmVYS0UxSURoWm9MSklqeE9xOG1iSUl0VzQtOFZLeUV5NjhKMWJycEF6cjVoZnpXeVlWd3lobHZGR2pIZlRMaEZEYzZoR2JOVnRmSWoyYV9UU3J1ZkwyLW5aUzBYWkRTa1JaZjNwV3A2R1VkY0tpTDAydVIwQkMxbTJCZHBiUWg1ZXpRc2Z2SVpJ?oc=5",
@@ -500,18 +484,18 @@
         "section": "morocco"
       },
       {
-        "id": 7323,
-        "title": "أول امرأة ترأس حكومة المغرب.. من هي فاطمة الزهراء المنصوري؟ - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQN0dVRXVCSEtzVkpyNm9iZV9TU054dTVFY2JxZ2F0bGxPRzRFTEVONVNGMHA0SW1aUk1fdWJPdlNLQlVrNlExZkZiYWRiS0lUalNLM3hjUVRvV2JTSG9BMi1XT3RBQUZyUTFHV0ZZNDdNVFhVaW9UelRpUGdDbEE4WU0zbFVVVXMtOEtnZXQ4MWU3eS1qcVgwdVc0aEpRNnNSZV9qX2hNMDVXRmFQRGxEUEplRjNzbEptWVlNV2VXNl9GQVpyakIxNUZmXzBTSUtwMGJlZ0gzeXRYLWRQcU1iQXZ3Rk9GVGd3OWU4MmFYeVFHdEZKemxydmRRai1vWm5ONXhILTdRZ0hlSGFfNUxDVHUzVkxmMzFxazAwWG9JYkVEUDRKdVdkQ3NNUXRGVWRPVEZVRGtuZFBkV3JGcDB6aUt6U0laNzlZTlBjNmRvMmJwUVdPNldmWThhVG5XaEdLZlppN3FZQTMyNzg3NnBjVXhKX2FhQlcwR2NYZzRfNUZNdjJvYlpfVWNvUzVvUzR0TmVpUGhmNWJVZEQxN0tYc2pyTjl3alFuVWdRZkVzMldJWXFHWkpnStIBvgNBVV95cUxPbjVNYlBZaXVBYlp6VTBYZHJnMG5sNXV0V2Y5Ui0yc1VVc21ENXJHRnRGbGFhMGVqN0pFLVBmaU5SNW5ObHcyLUhDeVNzMVo4dXRxUElDbE5LMDJwRVFkc2h6aGdMS1NQVVdHT05rWENZY2VlcWtBVXJ5TUM3OTlSV3VRb0lmNVJmb1MwYy01dkVuS0dTUDdDT25GdDBfODFRMExJaHlRZkZXZklQZmJNMmVBSWpsX1dxbnMwOEpUREJFNVVoZ0RhM2lfVE9hd3FERVVuUWpMMVhKc19adnBKUGFNSXM4OUhfV3I4eVIxTXdMUzVmdmVfblh4VG16Y08tQWp2b2tmOWNUQnRla3NJRm9wQmtOT0QwczJXRkhEbU5jQjVoZnpyVXpmdzJvdkdkVG01R2t3endxTVpLVndFa0Q5Tjl4RXJMb2VxUWRkdGJMRUZHZWtLLW5QejU5SGRJSFA4WVJMOFMxbHY5cmlkNkRudWhkYVlSUkJEMWxkYlFwSmFjTjQ0Nl9PTFBXSTB0NHJIaDBKZ19ZVzhudUhOeWtzMHU2NmRiU1JRYzRpbUNsdHl3SllZN1dGai05QQ?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Tue, 29 Sep 2026 17:44:00 GMT",
-        "discovered": "2026-09-30T21:58:26.116339+00:00",
+        "id": 7679,
+        "title": "الرباط .. انعقاد الاجتماع السنوي لمجموعة عمل المنظمة الدولية للأجهزة العليا للرقابة المالية والمحاسبة \"الإنتوساي\" - | MapNews",
+        "url": "https://news.google.com/rss/articles/CBMivAVBVV95cUxQQUVzRjh5SV94Y0JmeWo4VEdBY3dFWmZkZWRnNklpU3lZeWhkT0dwVEFVUFlWUlByOFAtVU5YbnhMd3NpLXhWckJSMHc5YlRIOWF4dXktRndpc25qR3hqUXNkb2MtLW1wUXVhNFRJb0NFY1p2dnBKa1F3NUNLUEVJR1NIUWlSTG1iZGp2Q3haanhTQ1IzU0dTWDctb3lPZU9Jd3gxUURzOU93dHpNM3B3QzJmckxmR29FNm5nOEt1X2xZZFdyQTdlQnFnT3otMjdfVzl6U3F6WEdtSld1YW9pcnk2WmpQMmpzVlVpQ3JlcnBVc3Y5OUN0TEpvQWFBeUlOeDRFaTR6aWhaT1R4cTZnWUNxS3dQdnZWM2l0UEFNc2VScVk4OXBOU3FMUEdfQWtEZVhEaFZIV1hzUUM5ZV9Od0pKT2EwYkdXd2JNTnFTYVg5ODc5NlNfUVpvbWdWbEpYdlpKNXZ4bDRDY3E4Mno5elJIdnhhSl9nenZyT3FKclBrNWNuVW1sRllVdC1lSmt2VVQwZnN4WW5wT0UzeVdvbW1BdERKYmtyM0wxclk0SkgtdkxXTUZYVGZOWG1pR0pCVjRya2hjMXlqempGR19EZ0wzYUtlNm1CWWhsV0wtQlkweXlxZmVleFpkNFhRd2J1VU1RRDh4b2NfUjRsUmdfX2hoamZHUlBHV2hRVzFDWUNmenNzRkNMaDJIZGNaWUJQbm9BaWZES0FreFdHOFh6ZFM1VXhCSEFWamlWQXFjSmVIMGlJYklCVFc2anVVam9MOGJqREhhNW45c24yT0FnM25ZcjZoQWF4c3hqNTcxVkRUMlRJUDFzem1CUnBGVUh4dTNiWENBNkV2NzRuaC1NOGt6RUptdTY3TFBqaGhnYWNDRnlVbDBDeEZKbmtBU1lxOW1yZW85MVh1T3VH?oc=5",
+        "source": "MAP عربي",
+        "trust": "A",
+        "published": "Tue, 29 Sep 2026 19:51:49 GMT",
+        "discovered": "2026-10-01T22:58:45.673106+00:00",
         "category": "أخبار المغرب",
         "status": "غير واضح",
-        "summary": "أول امرأة ترأس حكومة المغرب.. من هي فاطمة الزهراء المنصوري؟ سكاي نيوز عربية",
+        "summary": "انعقاد الاجتماع السنوي لمجموعة عمل المنظمة الدولية للأجهزة العليا للرقابة المالية والمحاسبة \"الإنتوساي\" | MapNews",
         "player": "",
-        "content_hash": "70b2a0788fd139a40033edf7be6794bc655579b970dbecdb30ba933428bef919",
+        "content_hash": "9a197be9d7e491f2041af71976f82675d10f9c0ad30e9fe12701b5daee8677c6",
         "sent": 0,
         "section": "morocco"
       }
@@ -870,6 +854,22 @@
         "section": "sports"
       },
       {
+        "id": 7683,
+        "title": "كرة يد – رباعي مصري يقود فيزبريم للتتويج بـ كأس العالم للأندية بالفوز على برشلونة - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxNeGR3cHZjOElqRlp1RjBxVDdsSFpXem9pa09LcGlhMV9BWGw2eGpKOF8xSS1uSzBLay1yMXFRZjlnR0RVdER0dlA4MGtwY0FYS2lwRDFlay0yaVRnMjIyS2FSeDJmbVB1bXZTamFwUXVkNDRydGJweS1SSVF3TngzdTY2RHY3dVRUaFJodnFDeTlTOG1GdzRmNVViTm12MnRpSnFwMUFFeWFwZG1GcW9KYW5xY2JMVlktUGd0YWROSWZVQUlxTTN4UFUxNms3SU9TWkVoaExYbGNGY3hWM0RwOFJ5bERpNzdISWd5ZkhLeXRhemJ3TDVQbWJEWkU2d3AybU96ckZpTTR2bGtPM3RaQ2c2dEYxbmp3MDkyZkVabE5TSTJSYXNnSFZfcWtSS1RucDVhRGNDTl9tV1hlLU5GcFFIWF85Sm5ERkZpZWkxMGNPc0FjeGFFcTBvSFE5S0NpanRacXU5NTBac0xLSWJKWFpvdm9xQjZaNldsYWR5WUFxV1gwNUtWSGlDeXBRajE4NDBFS0tMTTgzNUNDZGIwYm1zOFZmWkJTS0MwaWliUjQ1S1FuWnFaTE45TEY0RzVHNUhPdnVuMnFWam1SRTJfRk5McUotNHhYRlRBbGdKbkplSTRKTGlrM0lCTjNEaER3ZWlwekxwNDZMUy1NQXlNcGZzZ0l4elkyQ1FWV3JDbUp3eWVibzdTMDdxQ1FaaDRURGlJdlB3alA5TjZfRjIwRVpYZlNyRzdzbTJpTzJBbkJzd2M3cE84QVFfaFpzRlllV0h6LXA4eVhsRlJDZnlJYk83MEE0UzJJdU5WLWZrN1F5MUnSAfgEQVVfeXFMTlE4UVFnZmhaZnVWV21rRXFsMVEybkNTUGFTS2k4Tm9WckJRRUlURFRXRUpoYldzMlNMOG1QNFJIMmxiTWxidTVtaVFtNUpIZVFocHNDX21MLXZkdW13MnNPcDR0Z05WWjRwSVlDdHBpQzZaZ3dBaDNHVXV5Smdtall6ZjlFWXpsSm0waGo2Q3FkM25sSXRNRWNLbDdVZDBrdGstSGc3T0VxVEthSW9NR05yWG1jQVE5VWlCUXFaVHJSRzgxZnk1eXhCblFfSnB0OTFJZUtidmtGcWFuUmN5Mndwdl95SmVvOHNYRXZZVkZ3WkdhdkNuRVJLN04tWkM2NEVGcjgtTGFYVEFwWGR5T0lJN3lBdWN2Zkw5T0cwaFZPZ2FsQ1JndkJmN2o4SlIwbWJnOGFXcGhsTmR3blBKLVFTbmxsMzFRRUVYQmpkUG4wNHFleHNnTnNIX2JRVzM0M2xVc2tlS2NvSFZUdXlfVHQyU3lSRVZYcm9vNUZxNkh5UlhCWHBLME9YYTBKZjVOVjZ3RmRJVFJNeFhfMHpjaG0zVkpnbzRkVDByaVQ5TFp6WHlQTGFxd0RQeVpvSVNKR0JjcHVYNmFuVmlLM2dYX0U0ckRvazdaRkVhVG1QMHRpeGtZMHVHZW5IR0RiSC0wQThzU2JsVHJNSVdnRE0wNm82YWd4aWVWM0xiSzEzQ2d4TGItRXhrVVBiaUY4TGYta0RuWnItQVZ2eEpwb3NydGJEM3VzejNhVzYxbFFFX2cyZ3N2V0hxbW9CZExrNURhN1NZVDRNTmFySDBpb3dyNFZWSUxNZzZzMHNVZUdjQ3BCQUdRckZMNUI?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 01 Oct 2026 19:59:00 GMT",
+        "discovered": "2026-10-01T22:59:02.535424+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كرة يد – رباعي مصري يقود فيزبريم للتتويج بـ كأس العالم للأندية بالفوز على برشلونة FilGoal",
+        "player": "",
+        "content_hash": "024d79ec151399a90f3d3634e423ce93631b58951d2f27d2f2f7552f6b65e3f5",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 7626,
         "title": "«دوري المقاتلين»: ندا والصعيدي لحسم صراع الأفضلية... ونزال مرتقب بين فاطمة العماري والجزائرية لونيس - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMisgVBVV95cUxNNWdpUnhXdkdvMldFZ1VmNVJncnNyNHMtVWRJZ0tOWWE2OXh1UkgyclpvcVRRMVlaRjlUYWhjTDZmaTkxQWFuWm5MbERLYTlQOS03ZmcwckQ3cU4wVk1GY09FTmJSWkxKUmJnX2Jvbi1GMlpjMkljbnNGM3h1N3llbUtuMDJBWG9SZHowV25XUW1WNEM1c0ZXdnBzZmx3WVdBVWo0N3FwakhjRW0wNUFVb0ZHSGJteHJuSU9sX1lISjV1ZC1paTBhN2JfeTdXc3hJalNXbnF2UVJYSnBZNGZ5bXhBSUJ3bXhRc01XMzFPX2pDYm9rRWZqS3NVUmh0LTVtMDJRMTRYXzVHbnpHMF9mdjdjeHFrSGNMSngzTVUxVkgyTGZldklfUHFYTFkwbjlhamp3ZWNoWmhSQ3NTc2hGcEs3bWVWN0Q4b0xNT0ZvZFY2b3BUZFhacnJ2Q0NXTVVEaXJ3UXB5RUZ4ZjJzdW9yOHhnMkN0d01tbUJ5WjFpZURMSHJxMVN6RVJJb1FvMldOdHo1a3VmNy13aHVmclRHdlVRZUdhYlA1OUsySFZMM2VUQmFZQVpnLWdnczRPMmRHd0tZOWFhN2JVVnA4WDNYbzh0Z3JfbTEwMFpfS3A3OUpIcEVGcGh4UnpGOXlJVm5rM2x5LW9KcmMyV0t0SUxmeFI2dnNYU0NpbjFPc3pwMHE3b1k3VFg3UWRtV2VUZE53Y0ZEMkdmcDZXaVBkNmxaY2liY1d6Tnp5al93dzNpQlRzZ2RiSTJMVUhzUFZ6S3JUVm1PdHdnMjdZVVU0ZzExRnYxVGNWQ2hCMTNfWmNTRVpobUpMWDljNkRuTmU0aHpPb1JwMVEtNVNtdGFXQURZWDluel9MUHgtYVNsSnh4SXczdTNiVzlsSUZ5ZjdZNEtJX0E?oc=5",
@@ -898,6 +898,22 @@
         "summary": "دوري الأمم الأوروبية.. البرتغال 2-1 الدنمارك.. تسديدة صاروخية يلاكورة",
         "player": "",
         "content_hash": "737690f5aa61d9049429f279e97c054230cb989ab1a8bdcee9eff027ff1b69c9",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7681,
+        "title": "\"لن أهرب\".. جيسوس مدرب البرتغال يحدد موعد المواجهة مع كريستيانو رونالدو - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOYllMejhGZVhMNzF4RXZYWjZCSno0T0xNbHd0dFhJM3JId09mbjUxcHNuTGY0TGdpdVg2Y3lXUFc4T09WdDBxeXN5YjgzUXA0T2ZvOUgtdFBibWUtSUJScTBFOU5SMVRiT3RDakxIb3VjWnc3b0JMNW5KQWxfZnk0cjBJaU1malcxODFWZ1AwLWdsRjJleFhvWUNiamNjRDl4VFgzWHZjS3Q2THpBdDI4R0lIZVkzQ1hVSTk5dUkxeU5lenRJZTV2b0VTMXMwNWpaOWxjejFvQldZdGY3TnRCeDVnNUszcFNCY0tFQ0RwdmhlWXB1d25DazZ1UWRQNlA0dU5TSURoOTJNNGN0RnhvSjFScjk1M2M0WXZzd050ZkxvaE05OGotb3ZrQmVNRHJYc1lMZExlOHpEajcwSnNDU1BaZTFMTmhBOUlFNzNoQlN0eFZWam1SOHplTlg0QkEtUlNlODgxQkFaajVwU2cxSTlCR3hudEp2eVcxYzljZnFjdm1kUnlwM2lLNF9iWmtZYU1oV2ZxRHNacGxnT291UWNUeTBWV0h4RnRQX01HLVFWLU9xZ05jV3FZSWxnOVc0dWVWSXllS01uVDN4UGFwZGIxMlZvYTBTd09pT3VJQlp2RWt4b1E0?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Thu, 01 Oct 2026 19:49:05 GMT",
+        "discovered": "2026-10-01T22:58:58.357148+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "\"لن أهرب\".. جيسوس مدرب البرتغال يحدد موعد المواجهة مع كريستيانو رونالدو الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "62f5f0b1880032732a347e06d4fdaedeaecaf5039c70e6680f31e28ac402ab39",
         "sent": 0,
         "section": "sports"
       },
@@ -1142,6 +1158,22 @@
         "section": "sports"
       },
       {
+        "id": 7682,
+        "title": "\"فخذ نيكو\" يبعده عن منتخب إسبانيا - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxPdHNMN3pzNnNFc3pkcTBWNVNvbF80V3J3a25pcG1QSkd4Sk1PVmVlNWZQeGdGWnZmbTZ1clVxSm5CeHU4UjRUdTItVmVUcG8xR3d6R0FmOVA3dXR1a29kUzNtTUJsaGt2MXJ2NGxmWHZENjJjRmZ6c1FBbmo0S25SVi1nYmlDTHpraU52RnNQbDZNQnRkQkFId25Ua0FsdzR2R0ptWG1yTTQ3azAxWFp2aXdGbVZBcl84aHo1c3E1V0RlaGJRTmM5NzV1WFhHYmNXY0h6anhSZmF0UDloMGVuaVpOeFVMQkRrRTdXWHpDcnZJbUJKZkhaYl83Y3E2cjZLZjRRT3dYaVpRSloyc2NoTGhNRHlmMlNEaFV5RlNrZVRjVVY1Q3J5WTBjT2JXYkhWeFNmVFZjZ0RBbmdPd09wUWMzTGJHQ3dfemJkNDc1bXhLanNkcTVkTUVDcDJNWjNhc0hiZHRvUFFlbUpwcTdnOThmZTFlbzZURUF0V1lDVWlGZ1hLQms0aTM4dS0wN1NGQ2ZHeG55SFpuQ3NPLWl6QmhKRXE2M1FrX3RBNA?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Thu, 01 Oct 2026 17:51:24 GMT",
+        "discovered": "2026-10-01T22:58:58.360698+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "\"فخذ نيكو\" يبعده عن منتخب إسبانيا الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "f5a49d31a51a8c35b39f1a65df2eadc2ec7720344285ec275fa771fef6f72975",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 7648,
         "title": "تقرير: مصر تستضيف كأس العرب للأندية - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxORjZuTmt5UkcyaHFDVTZfZmVSU05IX1pCYlRjblNGeV9TWU0zNVdqTlE2V2xXU295TFBPZU9QTVhYMVlTZWhIZmNJTENQVWNGX0VJT09nd2RSMkQ4c3puc3U5aFFxNDA4RjJzaDcxN3ZPbjN1SnlvUGNEX0UxbjkyeHRtYWwyWmxrM1E2OUNPOGprNGNzd1Ffd3FlRUVGTkRmNnJrN1B6OGFkcVVKejZHdldibm14NWZCWlF5cDhvTEl3ZTZBWE9QcVNLa0RBS1pLNEFiVERaSkNoMThWZUozcmMzOUNicUYyOWhMVlozcWdNdVhxVEh2eW1BaDd3dXViNnVNWEh4Tkk2aXpkQzdlTks2WmZvaXlHQl9CYlFubl9mTzBoQklaMVo1VE41THNaeUlhUmNSb21xb2R4aW00aNIBxgJBVV95cUxQaHdub2dGNFlnNDZiR3JPbnlfeXJkd2NDOHl2ZEtaMVEzWkNNcm9zTXZsUXRLQ0JIYW5pd3ZPTTQ0M2N5QVV2Q3p6dWMyQ0I0bGtIOWNrazJwZ2hfeERXeHNWN2xWbGIzZERteVJlVE5RTG1nMkFxZ2xSMW51LVJkdlI1NEU0ZHRUNU1aenc2Y1RKTU5xbzZFZ2d5UW5qZmJKMVhiT2NlQWxQSFo4T0xvZzlXb0g4d2dHWF9oaFAtS3ZLd2oteFQzXzlFVlpRbkZzVGtVS1Y1MTk0VkNQZEphdGRMMUJLWTZFSXQyTy00VkgzbEpnWEx0X2hJeC16emphV0V1a1IyTUdselFEblNlaXhXd0xfc29HWFRxckpneXJBY2MxZTBpeVBjLXNNWExWa3d2d0NrYndrRWZicUpsRlBxbGdfZw?oc=5",
@@ -1266,54 +1298,6 @@
         "summary": "كرة يد – الأهلي يفوز على الزمالك ويحصد برونزية كأس العالم للأندية للمرة الثانية FilGoal",
         "player": "",
         "content_hash": "004054cb889469016cd4766f3396f17b0dd3110dccd5aad0b0c576f2cae62938",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7579,
-        "title": "بطل الدوري الفرنسي 6 مرات بـ \"يورو واحد\"؟ - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPRlZLNkVXZlE0ZDJONlc0MHZWazQ2aG1Cenl4TFA2YWF1Yy1iMVc3Y1ROTHdjMVFWOTJXc1NZUVluQXVEaVY4MHVlT3JXMU10YUJIZnVyTFRGX0RYR0xaQS1lYTNFTlJvVUl5UHBVZy11dFpXZEViTldHWVN0WTdhZEVIaHYyd1NjRHE3d0pESmpQREM1TTR4bkVyckpoV20zaUtadzZmSHBkRWZZOUJjXzZJOHpUVzhuVnoxT2JJTVp2M01hNnZ6b1R5ZkpNOGI3cHpTVHRSMzZWUEIzWW90ZDNXdWszUWxoaVQ5X01jTUYzMnowTlU0N05ua0RfLU5laURPcXYybzFrMUtPcEFKMVdiY0ZLd3NhWDRicUo1aGJ4M1kycGpfWC1JQjNDcDgxLU9rZG9wV2FQWWlhbTFSVS1mR2FreGplUUhkYTlvQ0dkQ2kyS2dxVGRMQ00?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 17:03:45 GMT",
-        "discovered": "2026-10-01T17:23:01.955479+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بطل الدوري الفرنسي 6 مرات بـ \"يورو واحد\"؟",
-        "player": "",
-        "content_hash": "09ed070a28019475b7c9a6e25cdadb7873cff1716128a511fc455d94ec470e93",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7599,
-        "title": "كأس السوبر الإيطالية تحط الرحال بميلانو - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQa1pxWklrc3E5cU44bE92TzJIRkgyak13OUhsVVZfTWFrcUkwNm5mZ2dkUDBnXzNlakk4em1hT0g1ckNXbVljRlNGdEZhWmJWQlo1NHpZSkRxV2RGRy03T1FqcWMtdHhzV3dLQ0lGSnM1YzhIU3NKUWdoZDBHWXlOMDhMaTNON2F4aFN6QWVsR1d6Q2tDcXJIS1ExdUFJUEhkVEpuNU1yNzFVb2VTT2JoN2JtbnYwRGVZa2pQXzdaelRobkZXYU9jMGtMTEw2ckk3d3U4RG9iSDBRMkVrMExBTzhXMU9CVFd0UDVROEIwdlhBMEZ1QTZCWno3QnRPVFlxNW40eGlLT0RfcDNEb1R2T21UTHlTdUgzUkt1bGRWVUE2bVlyU2d2YzNkbUNQVXdlZHktRXY3R3Fxa0U1dFR0Zld4eGhSSU5EZVduQXIwVG9hWFA0Z01wd1B3YlpJWVdrYmlQdVgzM3J1LUhpOXNrbTNnVDZpWmpJMEZSdk1wQUlzWjFWeGp1UjRxNEdNbXlscWlucUowZXdyUk1kbmVJdGpkaG9rN0k3ZE1Rd3k0Z0NrOFVJQU9JbTBXT0Vydm1xalNlLVFIc1dDUUZpQnAzanRFRlRabkJJdkFySHZZMDhWdnpoSGNTQW8tcw?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 17:01:41 GMT",
-        "discovered": "2026-10-01T18:51:13.890904+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كأس السوبر الإيطالية تحط الرحال بميلانو الشرق الأوسط",
-        "player": "",
-        "content_hash": "605e59870667843be1f0c1b10f0918b35371849e98eae3bcd6cf3c421d6946d3",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7597,
-        "title": "الحوثيون يستهدفون محطة لتقديم الكهرباء للمسجد النبوي - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMizARBVV95cUxQQk5sbnEtZnFTX2JLV0g3bFE0WkR0bFYyM2JsOTF5b084bUpMQ1A1NnVUb2doNmFoRFo1dFB2aG1teXFyTm1nRzJMVzdoRUhYbGh4QXRjS1dvZDhWeVFlSC1QSG1rUXloVm1XekZMNzNJYm5WTG1hUVV3MkNvenBzcVp3aU1lMDJHVWlOdHV2blhieXpmdW80Uk9lZ1dLU2FkQlZCdHdZVWdsYmRSV01wcXhQRDFDQjBBODdhSUxVZEtvZWZURjNrVzYzakFpbU9STnhyMVN5NXN0SlZzT3YwVzhqUk5PQk1nWk5reDVWbzV1TXNtUjZIVGNxOGp5dEs2VzYteDVYSmFkajFtSk81ZnBReGExNVlRZVRkdjRYV1k3SG4tZElNTkNDMnY0NUJSeFFzUlM3MW44elZEcmRHN0otbHk3bEhGdXZzMTF1RlZvbEs4amt1NHZ3UTlDR19BUUc0WXFHcjI0bHNfWTY2bkQtQ3c1bjdXelJfcFBRZWN4amtBeUk0cFF5ZnVMRUs4Q1V4aGo1a0lpVG50ZU1Ndk5fVVhjd2pfLVRrcmctWjZzNzFRazFfRjJQd2ZrRDY0UkRnd2laVW51X3picVRYVzlnZUtHVXFILTFtUElCSUc1SHZRTkJoNFNSSkxMa2dZSnZSMXZ5Zll4NUNjam1yZlYxRGZfcHNLcEtjb2tlMkstdk13dHJPb2t4WnU3NlM2d3VOYnFDdC1za3BJNEk0d2kwaENUQ09iSnRMc1A0TkxENEhPeWp4ZGVmekc?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Thu, 01 Oct 2026 16:50:51 GMT",
-        "discovered": "2026-10-01T18:31:47.882177+00:00",
-        "category": "الرياضة",
-        "status": "اهتمام",
-        "summary": "الحوثيون يستهدفون محطة لتقديم الكهرباء للمسجد النبوي الشرق الأوسط",
-        "player": "",
-        "content_hash": "a179527cb4dca6563912045e5fd82bfebed17e4e2098956046da45f06d8396e9",
         "sent": 0,
         "section": "sports"
       }
@@ -2235,6 +2219,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 7684,
+        "title": "ماذا دها اليونان وكيف انتهى بها الأمر في «أحضان إسرائيل»؟ | عبد الحميد صيام - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPemVKVVZWZDdJRC1RN255cU9uT0hCaHp4NGlFcllaeWpTZ3Qtand2RWhvTkZuUjdmZ3dvalM1dk9sSnFrZlNlUG1FQkJVY1dKbUpMWW1IeFJtR01lMDZCREdSYzFSSXhoMmdkUS1zS0ZPVHZueG9GRm9Eamd2QjBfY3NEUi16Rmc5ejAxR2k2YTVMcnFhUU9wS3E2eVRheEZtQ0RXeUhOMzFyMFhWUUtENE5IWmM0STZ2cTZYSVpnNUs1Ui1YUTNZeFhSQlJKTV9US2RYOVM3TzBBX0ZIMkVkYVFLMHpMQksyMjZ1N281bDJ4OHNnZDNGYU1EblZyV2MtWUt3WkQxQ2lTU3YycXpZM19KNFZkX0Q5Q183bnFuLXlTOGZQQjJwcU9reEM5d3lSNEdZWGV2RXVXZ19TWWdDa2N5OWxMajVB?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Thu, 01 Oct 2026 20:15:01 GMT",
+        "discovered": "2026-10-01T22:59:15.780091+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "ماذا دها اليونان وكيف انتهى بها الأمر في «أحضان إسرائيل»؟ | عبد الحميد صيام القدس العربي",
+        "player": "عبد الحميد",
+        "content_hash": "cc1d9310c7ae82e6de3190ab3ca87b34350c06acf89d8e724d54929d6a63b6af",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 7598,
         "title": "وزير الدفاع البلجيكي: أوروبا راهنت طويلا على القوة الناعمة - Euronews.com",
