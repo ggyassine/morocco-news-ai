@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T02:12:06.869783+00:00",
+  "updated": "2026-10-01T02:29:05.241603+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -645,6 +645,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 7393,
+        "title": "مباراة السلط ضد الفيصلي : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQU3dkZEZWeG5NOElnNXFlSVp3elQ5TUVQWFEzd3RUOE04WTNucW5DdG1lY3BULUlLTDVHZG1ycmE5c0h0Q2stb0FEN1BRYml4LUs0R2Z1N0ZET1J3aElUdnlEU2NiNmgzdVZQR2N2V01LQmJWZ0VRYkRSaVVxSENxeTF6QTlZNEZjVDNxXzRtSC16MUlSUUdHcGFFYXM5bUJIdE8tM0tQX3BzWXJSTzJMWk9BMWtvcTZIb1dsalV4bEgtMm1xWWgtU3RreE1XVUowSGs3cXB5aFJHNURuTGstZkxhTXV1T0I5LU1ZV2ZzbWVmTmg4NXctemJKdVdqczRfd0xTc1hkNWR0b1BtRVpaWmQ1ZmNkekp1cDUzSjJRUmM?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Thu, 01 Oct 2026 02:12:02 GMT",
+        "discovered": "2026-10-01T02:28:44.087657+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباراة السلط ضد الفيصلي : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin winwin.com",
+        "player": "",
+        "content_hash": "f706d15f44e6af0b490ee45993bcc731dd5c742926f37e0819534dfc3c117d25",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7387,
         "title": "مباراة الحسين ضد العربي الأردني : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin - winwin.com",
@@ -1426,22 +1442,6 @@
         "summary": "قاهر أوروبا ووصيف المونديال.. سجل مشاركات الأهلي في كأس العالم للأندية لكرة اليد يلاكورة",
         "player": "",
         "content_hash": "a1745f05201e2d1e24aae83b2a884f217524113d4aad76becb90ef986ce43284",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7273,
-        "title": "سلسلة اللاهزيمة | winwin يكشف تخبط الفيفا بشأن رقم منتخب الجزائر القياسي - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxNX3Y3RUphdkVaQnRWZFBJZ1FzdUhSUEgtMDh5SjR5OFB5Z2hHa2pmQ2FWdzM0b00xTlZIMVdNTFN4RDkzYVFwOVBaWGFJWHZpTmZjVnR4QkJFNzRZRzItRjJ5eGtmcnJ2OG1rbVRuYk9JaG05SGRGRm1rTmRZTUtpeHNBT0pfSF85MXl0bGpicFV2dWx5QUZaVkZmOHJkNkotXzJJM29YR1ZUc1JMdHg2T3FaWFpINkdpQWtKVEtZRVlNZ0JsR1ZtN0o4SVdmZmRaTFVzV3M5SFJQVmc2Z0J6TGdSeFdBVy1sdWI2dHYtOVpBVDQ4WTZ0em9TcUhNQk9QY1dVTVBNblNlVHFSM0hFakFMaVVlSXRJUUI3SU1Bb0VyNmJVZGRhdTJtZ1N4YnY5c2RFWjFPZ2lmQ2pwRFpyUGNpV1ZGLUJWVF9GaFJVaW5VMWl4Y1ZVc1hGQXNsTzMtalUzNUVVY2gwU24xTVZyRHItbVItbVFNRG5RQTJKOEV2TWFjS0Rnb3EtdndXWTdSeFRMekpSLUJaMmZQUC1ndm1iZmNybk45djBmdnE5RjBCUFJuWEpYNVpJQk5YUWRFMjhhN09BOA?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 19:01:30 GMT",
-        "discovered": "2026-09-30T19:29:06.510229+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "سلسلة اللاهزيمة | winwin يكشف تخبط الفيفا بشأن رقم منتخب الجزائر القياسي winwin.com",
-        "player": "",
-        "content_hash": "196b1a79763b3a60bb4dc059911439623b185f38ce05403160090054fc7cd9f4",
         "sent": 0,
         "section": "sports"
       }
@@ -2268,6 +2268,22 @@
     ],
     "world_arabic": [
       {
+        "id": 7394,
+        "title": "أمضيت طفولتي ضمن عائلة مُطاردة من مكتب التحقيقات الفيدرالي - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14ejhfcGNCMXhwUDBVajJHT09YM2J1VDJwVjVnakhHSUYwMnd1UWM3T3lJaTZjamJ4ejZBLWZXVDVpX2RXR2MwS1RTRjYyOHYtekRjdFFjYTdLWHo0eUHSAWNBVV95cUxPLTNwWXQ1NWkya0tXQlNFYjcxeGJjMGRGb01LbDZacTYwa0wyRmJIUHpCdjhvLWdMNE9pbmUzU0VVc1g5Y0lod2lmZzVBZ0J1OEl4TWJuWG15dTI1SDY3Zmg4Unc?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Thu, 01 Oct 2026 02:15:30 GMT",
+        "discovered": "2026-10-01T02:29:01.120860+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "أمضيت طفولتي ضمن عائلة مُطاردة من مكتب التحقيقات الفيدرالي BBC",
+        "player": "",
+        "content_hash": "5853cc8a3d872fb30de964f3d2191bd0410d173d28aeefd708462c08d7229ff5",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
         "id": 7317,
         "title": "وزير الدفاع الأمريكي يعلن تقليص عدد الجنرالات في القوات المسلّحة بنسبة 20% - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQcWlVa2c1SzQ3QTVzX3I1cE9pbnROajl3Y1EzeUJzSTlIVUhCcS12VUxGdzgzUndkTC1JVmd4SDBudUdHLWI5VzBTQUtGOW5fYUdnT0Jrc2pDNlZwMXJTZEhsc2h0WFplNkdHVS1NZUZxQ2poQk5WRmJlbGlVbEx6eHk5bTlGd3lVX3hmUDl4Q2lLT0NiODcwMWlLYTJvUzlDekF4cFV2MG1QZmpMSkNUVzBEVEJ2b1JmQXo2XzVDYmd1OEtmV2RPRVFSRDB2X3ZyNHhNbnhEZkJSZnR6dFdsTm0xZ0JuNTdaNGJSakVfNk9NblkybnJjY0w3WDNwbi04LVRVOVN1NmxQWEs4M25QSWJkcldDWlRIS0JJVUw0TU5tQUZaeHZyb3pYdklnMTVhWXA2OGRfOVZQU25YSFQtSktKdTlrbEU?oc=5",
@@ -2392,22 +2408,6 @@
         "summary": "عرض من إيران لمواطني الشرق الأوسط: مكافأة تصل إلى 40 ألف دولار مقابل أسر أو قتل جنود أميركيين Euronews.com",
         "player": "",
         "content_hash": "26679d1cf654603eef677784c017858800962cc65f281996fb86f0978f828ccb",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 6968,
-        "title": "\"يجب ألا يموتوا بسلام في أسرّتهم\".. وزير الدفاع الإسرائيلي يهدد باستهداف قادة حماس في الخارج - Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX0FFNFZsaUwxckpFazdtZUp1LUM2S3ZldW56Ui1CeWxPR1l2RDVDcUcxTmxoTDRyOEVIVkNZd09QU3lVN1YyRlNpV1VORmc1eVhPeDJ2bkxheEZTRGlQQTBUSzJfRkpYTVlZZUc5QnBJQUlJb2NGQ3FwMHJyMDlYSTdoNkM4aFhQdE1rT1NzdS1pSkVaUllOcWFCVFVwZw?oc=5",
-        "source": "يورونيوز عربي",
-        "trust": "C",
-        "published": "Tue, 29 Sep 2026 15:50:32 GMT",
-        "discovered": "2026-09-29T23:08:05.741501+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "\"يجب ألا يموتوا بسلام في أسرّتهم\".. وزير الدفاع الإسرائيلي يهدد باستهداف قادة حماس في الخارج Euronews.com",
-        "player": "",
-        "content_hash": "6bf5fc1f1a93e2e920db7b350ea7afb5493bf04a97f7ed85a2e93d81b0b42781",
         "sent": 0,
         "section": "world_arabic"
       }
