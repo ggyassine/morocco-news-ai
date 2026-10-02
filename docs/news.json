@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-02T13:23:56.161011+00:00",
+  "updated": "2026-10-02T13:41:12.688894+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 7854,
+        "title": "موجة حر وزخات رعدية مرتقبة بعدد من مناطق المغرب - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hVzZzbVBXbEVyNFpxakUwc3ZZTWVSNnZac1ZOWEZUTnpKZ0xsbTN0TzF0Rm9lTzZISDhwc01qTDNwWnBVMG5tQQ?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 13:31:44 GMT",
+        "discovered": "2026-10-02T13:40:48.675521+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "موجة حر وزخات رعدية مرتقبة بعدد من مناطق المغرب Febrayer",
+        "player": "",
+        "content_hash": "47e27f38612e9b360167be39b3eb89d48b29f9e5b6be2a931f82be7d32dba54d",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 7841,
         "title": "العجز التجاري المغربي يتسع بأكثر من 25% خلال الأشهر الثمانية الأولى من السنة - Febrayer",
@@ -482,22 +498,6 @@
         "content_hash": "85903c88978cefb788ed29ca3dd11fb4dee1bb3d9b7e1b93404357fb2e31153b",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 7542,
-        "title": "النيابة العامة تأمر بتعميق البحث مع عمدة طنجة وتمدد الحراسة النظرية - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPVHZ1azY1Mjlyc2dLLWVnQU5OZmdydll1SVV1RlBZWk9TT2d0bkZYd2hwWE1lQmp6UThVREp4UWsteGg3eE4xRUNDaEJvcEpkYXF5X0pjaTgxTlV0LUt3bXdXVDBSQnBQSnN6VUw4RGhGckxDXzZjUVRSZkNCSk5fQ2k2VzBmbko2N0FVVjJrOTRTX1VBbmVNQlN1ZUUyRHpCOVZsYmdDN1pMVUt5U21BLUZzVEZXNFdTZG5sNVRPWEFJcHBYSkRUNFJiMDNPUmVYS0UxSURoWm9MSklqeE9xOG1iSUl0VzQtOFZLeUV5NjhKMWJycEF6cjVoZnpXeVlWd3lobHZGR2pIZlRMaEZEYzZoR2JOVnRmSWoyYV9UU3J1ZkwyLW5aUzBYWkRTa1JaZjNwV3A2R1VkY0tpTDAydVIwQkMxbTJCZHBiUWg1ZXpRc2Z2SVpJ?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Wed, 30 Sep 2026 12:21:46 GMT",
-        "discovered": "2026-10-01T15:14:40.834206+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "النيابة العامة تأمر بتعميق البحث مع عمدة طنجة وتمدد الحراسة النظرية Hespress",
-        "player": "",
-        "content_hash": "89f12e6e4bb676215a01f3611b8c7e7a927380319769c2a363d8ea9956b60810",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -802,6 +802,22 @@
         "summary": "أزمة الأجندة والتنسيق مع فيفا.. أبو ريدة يكشف حقيقة عودة \"البطولة العربية للأندية\" يلاكورة",
         "player": "",
         "content_hash": "286473ea082904ab22743eca88a4749920c8b8675445938abfd5bf49a72d76d8",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7855,
+        "title": "مواعيد مباريات الجمعة 2 أكتوبر 2026.. فرنسا ضد إيطاليا ودوري المحترفين وودية الأهلي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxNaTRXVEplZkNXeU1wSTF1cC1EOUNieTg3YlVBR2hIbVA3RjE2cERPT1dRSVFNVHdTdHVJaGpmTE9TWWhjZzd3VlgzaGxsNjhkYmtQbzcwZnMtdmN6UUstYlZlcU1uNlN5RXdyM2VUWUpzbjFQZllfX05WUDlsV1Rsc2dQWno4bk5IN1IzVVZjaWpzbVlmV1lkdUk2eXlkUzBUeGxsbzVhckRpZmxwUHRaVjRaU2VFTlRPZUNZYjFfSEI1b0tHV1JkMVRCdDZxS1AtdWozV3F6S001YVV3OFcyRnpoTlJHMkhoeGpXQ1NZdWhjLVAtdWFKUzRhbWdZeWlHdUZEUUdKc0oyck1aY0tydGNGeFBERmRkcHowWG5qTUUtenhBWk1Hd0x5NG5sSkF6R0lEd3pWYmxqcFh3SDRJR3FZTThTS1VwamF1N2E0bWVLaFJBYnVGRmtONTJIUURybGE0ZHpfM0puZUNkOXpLUkxXU04yRGUwc3NLblB5b0htMGtUWmtQWFpsM0RoWExuVWJsVGZUZ2Y4RnNUSWhMN2w5SDQzUDNWUC1zdFl1QnlSLVpZeFEtUFFuR2ZsYkgxeHQwVzkxNFMzWE4yU1QzMld0X2xlTDNsT3VkX3JrZVFZeGVrandYN0dkaExrOXFjTDFQaHVhbDhWd3FnRlJ0b1lzYUtPUG5KSkpUbUpR0gHuBEFVX3lxTE82RFFDSlBUNXBqZkhpSHN3b1Znb3VQM2dXQjk3TFRhSTM0U0pZWXI1YVNHR1ZtRVVlZm9jRWN4R2hWd0ViOFJONlRwWWpQbWIwRl8xSG5hMG1kZ0xyT3dMb2tvMGZVdi1XT1BwVGg3bW1hNW04alQ5N3ZuZDRfUmhkT2xTYUJOeUdhd3F5dG5FSTEtdFlUV0hGbk0yTldnQWJJaTI5QjJ3dGR6dS1TeXNud25vRFUtckRaV2JMWmlRVkxwSE9GbnR0SVhpM3JDdi1SSkRSZGktQlBVaFJHa3Z0TjlSMjlMd1lhQnZndW5TZ2NsS0wwOEFXMWxyek9VVVppRVZnMVUxdG1CelJGRlkxRWpkem1PZDNwREZnT0xneW9iS2FWSndmakxoMUo4Q05JbkktTDFnbFhJeHFjVF80UlBoY2tNUzk2dlZZOVZDVUxnWlB4eXpmQ1k3MkxnQ3d2dFp3R3d2Ny1LVlBfZ0o5MU41cHBPcS1UZEZsZ19TNnA2a3d1YmluR2FHbmYyRDN0Uzl1WmtqTW1VcXVWek52MTFnMjNuMnd2dXJPUmpDdHRjQWJhTDNuT2RRYnVPclFVam93YTZ4eWVFOUEzZElFRzhXWkpJVHIxbjNPb3VpMEVzYWRxNXJDdnhGOEVQRG1LSDRMN0pScmEzaU9iYnplYkN0XzFpdUFHQWJhQkh5LUVMWWxnczNINk9SUlB0RG5mT184VUpHT0ZacjR2aTNpNjllcWgtRzJCSlhUTFJOc1VHbjd2alJRVXQ4TVFzaFplUVdNRm5GV21wY0ozZVFZaExRRHdOS3FUQVdxYkE?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 07:45:00 GMT",
+        "discovered": "2026-10-02T13:40:56.302779+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مواعيد مباريات الجمعة 2 أكتوبر 2026.. فرنسا ضد إيطاليا ودوري المحترفين وودية الأهلي FilGoal",
+        "player": "",
+        "content_hash": "0dcf71ac9dcec8f075777fee994150d35f77d71b6ec5625399aca1e8e679c333",
         "sent": 0,
         "section": "sports"
       },
@@ -1282,22 +1298,6 @@
         "summary": "فرحة لاعبي الأهلي بعد الفوز على الزمالك في بطولة العالم للأندية لليد يلاكورة",
         "player": "",
         "content_hash": "bc81004b63b4c492666456b5006bf4e0d63519a740bf5f758977cca57b91fc75",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7645,
-        "title": "أبرز لقطات من مباراة الأهلي والزمالك في بطولة العالم لليد - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxPTzYtOGdKTGJmNVFta0NJYl9jYy1KYm9hY0p6dnFvSTU1c2VMb1BVYzdUcVpONTZNamQxTHNrLUhxeFQxcndaendCRTVVWFBIMmRmdW56OWpmckhzaXlZRDJtWTFUdW82ajFBN3FEcV9kNDI5RFhfOTZPSy0zTGdpMWNWaHVtSlFMS1NiWVphS1ZGcEdQblJyQ050clprRWpUdnNHZ0x3WlgzYWJocW1iZTNmZU8temVIM2FkT05UTUFaeHpJYlNRMGpVdWNFajhtWmp2cDR4Yjkwc3kzeTdWUkZtczJwR2stOTNJOWVwMkNLY0dsUWNZNXJkWVhabVhyZERUVWJCNFV1Wk12a2s2d0w1NG9ZeE0yWnZ2QXRGWndwemZ4WTNraVN3ZW9fSkZ4cGNCTkdmZkJ0Uy03V1VSZ2VkTFF3Ml9HY2NXTE5aX0dwSVZUWkpGdGJ5Z05idHdELWtqVGtFOHlQV3h0Z3NpNzdHUDlmVXBkOEkycG14Rml2eDA4bElxUmlrSmtBZk1PaThyN25CRmJ0ektTeUpnU0RUczNuYWhLOXRsODZzMlB0SS1zWENQRDlEMkE5QXExcmU1Mm1QVTBITzVyNDhyNHVtdTh6MGU4MVBZdWpybHRoLWZENG1SZGxzY3Q1YjIwVmlUbThpS0ZQbXU5dHp4Rw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 21:01:00 GMT",
-        "discovered": "2026-10-01T21:19:53.329624+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أبرز لقطات من مباراة الأهلي والزمالك في بطولة العالم لليد يلاكورة",
-        "player": "",
-        "content_hash": "618314d8bcd54b87d5e0412f353c937e737d0dd9f5d521452129c5561f0fdd23",
         "sent": 0,
         "section": "sports"
       }
@@ -2086,25 +2086,25 @@
         "content_hash": "201079d6b67f728b2fc42eda38b57dba6710cce49c6766d5f23fb16c12b1b59d",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 7625,
-        "title": "البنك الإفريقي للتنمية والمغرب وقعوا اليوم اتفاقية تمويل بـ270 مليون يورو.. توسيع وتحديث البنية التحتية يدال المطارات المغربية - goud.ma",
-        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOdmt3eTdNOFRTVWhuVTJkOUd4NjJ2QWhIbzVkbHR5eVNKYWdfa283VFM2b2dlOG5PSHY4bHBhWW1WbDViN2NlY0NkWE9IRGpZQU9EbURaYWpQYkJLTWRVSDdnWWJQRDdkTC1DNlFnV0pTckNwLWRmUENhdlhoRGlNdzlNa3FzSUt6M0R1OFRqNDlZUWk2c2xKOFJneUV5Q09mXzRjR3cwN3I0bUlBcm1KbVRaaG44bURJVFozN29wWnlnc1lPWVZjdUVQcXFqUDFwWTVQd3hFTFcxNUNLTUhrMWtBWnE1U2pXdlZQUjZWM3pZWGlBX2pkamtnVUFwWmMzTEFkby1UNHVxMHRDN1RxZUlBZ3J2dGJhX2xsRENsQzBsaTh4ZER2NUxDQ09iVE9lb2xCRTRvdkFTQ2NPUDZ6ag?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 12:49:26 GMT",
-        "discovered": "2026-10-01T20:18:26.116103+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "البنك الإفريقي للتنمية والمغرب وقعوا اليوم اتفاقية تمويل بـ270 مليون يورو.. توسيع وتحديث البنية التحتية يدال المطارات المغربية goud.ma",
-        "player": "",
-        "content_hash": "61d75559c181da8ad998783ae848b4a8f8427d0f4d835e0f7dde412d23ef7d94",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
+      {
+        "id": 7858,
+        "title": "أمينة حسين تكشف: تعرضت للتنمر في مراحل من حياتي - skynewsarabia.com",
+        "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQOUFJelc0ZWZRaGhhZTRxeVVwbWlrOGlFeFNQVF9TQ3lWMG82dmJWRUJ2LXB2cWluMUhuUTB1bUJUdHVrc0tpaDhFUm5acXBIUlZ3NVNVeEJqN2dVcjRTSHVjLTlSenFFeE9ZOHREX1lHNWpEQUtvNHhNcmlWVzFkT1R0UzNPT3pGR3RBcUNoSThwNEZqdHR3b0hmd3FUVG9nSXd0Y3YyZnlOM1ZTam92MUpxcjZ3MHc2OElmZnpTYmxsc0pTWXU0ZFMxUzhaVkp5bldLcFFkS1pQVFpWYTMyb2pLOWk4UVdIM0Y3RUpDaU5HU2ZrY1ZZWEdhWmp6dlB2WklnQnpFREVTTUpqdWZlOTFjWWc1RURyUHdFVG5YNmJXZ3ZocjZabXhDWnlBMHNyMXdjbnh0OEF6czFucHZlUWRuM2J5Qm8yUGhPTmtOYWFEOUliWEtlaHJfZEkyMXVxRkxEUl9jNGxFTVFkMlBfTlFORng5NUFXU0U5aUN4UmJxeEs5VzQxSU9OeHFHRGRjV2pwVkJlSmhtT1l2TWpQRWQ0QWNMNWJELWVrQ21SdEFZU2FaYlp0aUYwUGx3endiWmt2aGNqeEEzX181VXo0VzBuR25GX2pwVHZNWWdCZFdvcWJBcmEzeTlHTk12clB0bmFlZHgwMmk?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Fri, 02 Oct 2026 05:27:34 GMT",
+        "discovered": "2026-10-02T13:41:04.949660+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "أمينة حسين تكشف: تعرضت للتنمر في مراحل من حياتي skynewsarabia.com",
+        "player": "",
+        "content_hash": "d7116dfe795f41e4af5844beaeea0ff47f7143ccdd0b26124250c97245200ed3",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 7741,
         "title": "الرياض وواشنطن تبحثان تعزيز الشراكة الدفاعية والأمن الإقليمي - aljazeera.net",
