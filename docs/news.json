@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T23:25:51.733873+00:00",
+  "updated": "2026-10-02T23:39:08.041232+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -642,25 +642,41 @@
         "content_hash": "48660bdafa9b717df4d485eb1ce0caca51ab492a0f478ee295cc151e36e42375",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 7542,
-        "title": "النيابة العامة تأمر بتعميق البحث مع عمدة طنجة وتمدد الحراسة النظرية - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPVHZ1azY1Mjlyc2dLLWVnQU5OZmdydll1SVV1RlBZWk9TT2d0bkZYd2hwWE1lQmp6UThVREp4UWsteGg3eE4xRUNDaEJvcEpkYXF5X0pjaTgxTlV0LUt3bXdXVDBSQnBQSnN6VUw4RGhGckxDXzZjUVRSZkNCSk5fQ2k2VzBmbko2N0FVVjJrOTRTX1VBbmVNQlN1ZUUyRHpCOVZsYmdDN1pMVUt5U21BLUZzVEZXNFdTZG5sNVRPWEFJcHBYSkRUNFJiMDNPUmVYS0UxSURoWm9MSklqeE9xOG1iSUl0VzQtOFZLeUV5NjhKMWJycEF6cjVoZnpXeVlWd3lobHZGR2pIZlRMaEZEYzZoR2JOVnRmSWoyYV9UU3J1ZkwyLW5aUzBYWkRTa1JaZjNwV3A2R1VkY0tpTDAydVIwQkMxbTJCZHBiUWg1ZXpRc2Z2SVpJ?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Wed, 30 Sep 2026 12:21:46 GMT",
-        "discovered": "2026-10-01T15:14:40.834206+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "النيابة العامة تأمر بتعميق البحث مع عمدة طنجة وتمدد الحراسة النظرية Hespress",
-        "player": "",
-        "content_hash": "89f12e6e4bb676215a01f3611b8c7e7a927380319769c2a363d8ea9956b60810",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 8042,
+        "title": "عقوبة تحرم دي بروين من المشاركة في مباراة بلجيكا وفرنسا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxPcW5WVzF3ZzJWeW10c1VxNHl1NmQ1MGNYNVJTWVROTHJzaG5GM29iWEZaeGhWLUQ0Y0JtUVJCNF8xdTZKblREbWMxX21FUDNjMnB5SWlNV0c1UzR4NUIyd0dYbnQ0UmFwRkdFeTBxNmlsTTlDMHNVdUZHXzdKVkRRZmozeHQxc2xuUkJtdDJqeTkxdTljeEhuaTZWamJFNjUwMjNqSXJYdExBTUFoYW85am5aYlhiZjFlY3VEYlYwcTNHLVM4TWRjWWN4UGxMSXVSamltUzV2bWljcHRiODZfQ2xUd3hhQkhIU2Z5eVU2bTNOYVJXZ0hPSl9QblJPUTAzTVhnQXlCc2NFNVNVeTBOZnBfVEVkNWtkN1NybVE1Tmg2cWUzNnRRcVluYTZaandSTm1TRXFqb0ozbUJ6UXRHNmFOSnFBZkZSZnNuZ2Z3SEJZaUdNV3lZSzlsZFY3WHZ1SGxJdmpMTkQzaHlrQW5KSkY1NWhINGgwblM1Rzc2c0tlX0xDYXNYSW5Fc3FXRzFTcnY0dGVwb0JmaDZDZUo4RlNQeE1vZjJRbFgyRXBxNG5KTDNpa2FsYnRFN0JfcGZpZG9kMDY3SU9PUTRaRlVxTGVJaUNFMXk1Wm5nOFNnQlJzMWc1Z0JiX29reEzSAfIDQVVfeXFMTzlheVdtcHVMblJhZ05RVjBYS2dHWXVYVzVWUUItQTNUVFI0RnlhNFBCWHRmdTRrYl9iNU5BY0hwTDRzdlZYMUtULVFjRUI1bzZmUzFUMEFtQ3ByaHY3Z2dHS1JoaE1GRkdGM3pLYTNwSVg1V0x2ZDNQQzVTLUpDcU1jRkVjM0xNanNIZ2t0RWItbVBqcFRSWEpmQ24zSlBURkVramNxMVdPVGNzYWs1WG9xaHlpbmtZVGRfaTNDWHlHNzZSa0N4SWVlUS1PZzF3R1FxRmFta29hU0NPbExfc3E0RHIzWl9adXdBVjA2VURoMWw4c01aRHZWR2ZUQWVQZDBITWFNWHZqaDVSZGI4RVVDdkRPdDB0Nm9yUnlXaEpRejJ0MXgyeEI4UjJaTXFTOU0zOXNTeXZNVnhsVjJBMkNvaGdDSjFPY28yZ1cxQXNCLXNhM2pkb2p2WG5YWXBzV2NHNEwzRy1TdGhWWkhGa2pabUJkdVBjX1NMREU2eEtESjJBWUJiVVo2aXNUVTNqV3I3QzhMQWdRdktQQ0lYRVFBZ3phLWFnMDhNV2FiNTJJdFdPMkVHWDZjeFRWZjE0WW1hQmRxQTRhcVRfOTFzM3phLTV5OXFMV0pENnJzSWtFaUlRcG5PRTl1bi1zZGtZSTJn?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 23:21:00 GMT",
+        "discovered": "2026-10-02T23:38:51.184857+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "عقوبة تحرم دي بروين من المشاركة في مباراة بلجيكا وفرنسا يلاكورة",
+        "player": "",
+        "content_hash": "286e58c09c616e622b70cca4fc436101672103b7c90be00bf1cd28e1fbdde3b3",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8041,
+        "title": "أرينا (مدرب إ.تواركة): \"كنا نعرف بالضبط ما ينتظرنا أمام وداد تمارة ولاعبونا قدموا مباراة قوية بدنيا وذهنيا\" - Elbotola",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oM3NRM20wbmUyblBQejlmZVNhVGJIQW5aOWtPRW44eUZRRUJtOG1NSHNhZHBVT2FnaVZLMjBDU1pmVzBhamhVb0l4SElWZzhPaWxYTmJTQjhPNmFSbW8wQ0xEQXhROFJkSFE?oc=5",
+        "source": "البطولة",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 23:15:00 GMT",
+        "discovered": "2026-10-02T23:38:44.831529+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أرينا (مدرب إ.تواركة): \"كنا نعرف بالضبط ما ينتظرنا أمام وداد تمارة ولاعبونا قدموا مباراة قوية بدنيا وذهنيا\" Elbotola",
+        "player": "",
+        "content_hash": "1e3e17ad94ae44d57620213f0990d29270eba670f773120bce4c5cade31b824f",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 8030,
         "title": "فريد: \"تين هاغ كان لا يشرك سوى لاعبيه الهولنديين\" - Elbotola",
@@ -1428,41 +1444,25 @@
         "content_hash": "ce514042c21428ed0bcd5690584a27623c16aac4551dc811f83136fc5fa27b27",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 7937,
-        "title": "ساهم في ظهوره الأول.. بيزيرا ينقذ شباب الأهلي دبي من الهزيمة أمام النصر - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxPMUx6V3JwR29WeVNtQkNSdk1ZSWd5M1hvTVc5Wm1pbGVsZzVkNUVFUkZsaDFIam9EeTBqYkZMaWFJVFhpZExZemU0eFAxYTR4NGhtMUpIdEpsRU5HclNFY0FLbDJQcjZaTUx6TDZUbEp5WXZDWE5XZkZNcUxaSEtENm5VZnJ3RXlfVEJGd1N4Y1hZOGtNbVVHX1Q4a05lb1lCUzZhelZxclBQbXkyNFh1Q1lES3QtZkxxSW5ER0J0TUJoaXhuYmhCY1EzLUZpOHlzWU1nSXU0S25Td1BrUEQtZVkwaTRjanI4bklQNFBXekpNdkxxREtHQ1NFMjgzekJxTTFnRXZBdWEtT29zZXlhUk9LMVFfSlF0TWtjT29YS3d5ODdVdi1UclpxMk13TWl5dHB3WlpkZWVBTFl5YzNRWmFfbl9BdnlXeXk3M1RZQWZTMXh5ejNDczRLbHJFRndyZkd2NTVILVpVd21DcUhzOWkxdFgzYU9CaHRPUDdCcU1NcDZVXzBKdnhFSHp6YXJkYU95U0JTNm9odGhmZ2NwRktWQXR5c29DVGR4ZDlpRjd2Uk1VTjI1ODZoMWZ2RmpYSVV2Q0VLVlcxM1J5WDkyYmF2S1VQN1ktd2J5TzhMdU1kTVRFbDJKNXBHSFFiN3U1Y3BLWEJXVk1ZcHV6bEhITkVkRkgtVl80b0xvYWM0M3c5YzhSbjh3dHZsNEtpVTdjLUxFYTJBNGlFYkhBVngyREx1S2tFMElFcGpibEVvNNIBxARBVV95cUxQUkIyODA5S0xkdVEwclVoVlpVSV9VWGkwS3oyQ1VOZXdvcy1TTzRPN0N3WTdOTS1zQ0tZRnl6enBBUHl6dmZGaFFaR2E1M3lDOWR2VmR3Y2ZHZEx3dUFBbXJCekhxNUlzdkNJQ2llZEZVMl9QSjZFelpfNGw0RFlyb3BHMGlnTF80LTIwTlB5dXZTNDNtZmlhdmNqTDh6ZEM1dEJ4aWhtcHBxWVloVnp1R28wdldxUFVwRFh1NWVTOXJJVWFaU2pHQ0s5Mmo2RnRxX0w2MEpzSGJVaFVWeGR4MWdJeTBJdGxBeWw3RXFQQkNvMWNRTVRVazlaTEN4eG44X2pVSjF4dmZKMzdOUXJWX2FaRjBTNkFTMEllTTlTMDA5Vm1qUENLRzZJVDVHOFRBYzVSbVQ4Y01id09TbG9tWmMtSlJHTm1xQVY4R3I3MGdCc0ZvcHl1c01fS1pkQjFUMHZZemdTRUlPb2IwV1NRNlJLaHR6VlVKU21xN0JxUnRjMlluaC1PeEdkZjBMRmxNTlF0cTd5MXB6dzBDXzNmRVktYlZJNURucXRVaTBGaFdTOEowYjBFLXJOS055ZlpsblJ6UGlMVHpVTWNTYnpHR2FtVXQ0WHl6bC03OHBMVmJEa3lkbkgtNzJqM2N2cDEtS2tLUmRjVHhsc2M5WmJBMWtMNk5fRE5tRnlNWlpPR0hPX3RxQzlzeTFHODRPUzc4OHdjREMxMGZ5enF0YmVfT1M2bGRzMWV2dTZ6b081Rkp2REo4?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 17:48:00 GMT",
-        "discovered": "2026-10-02T18:01:21.293187+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ساهم في ظهوره الأول.. بيزيرا ينقذ شباب الأهلي دبي من الهزيمة أمام النصر يلاكورة",
-        "player": "",
-        "content_hash": "f527f54ac0f3484927335278904e7711a07498455123891a441471e3490546cb",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7930,
-        "title": "منتخب مصر للناشئين يختتم استعداداته لمواجهة كندا في ختام دورة الصداقة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxOcXMzbW5xRERkV01odTZNSVY3bnpfbVdrWmRjcXFuaHBLS0kwUTM5MDNBZko1eUtuSk10NGdOcEJRODN4TDcxT3Vxb1kwV1hrc2xkdGJGTUN6NTRNZUFMNkcxV04xbkxMM0JVekR2ajYtSm5XTmR6OHZ5eTNFM2RfV1ZIY2N6UDQ1Y1ByQUY4UXN2ZGQyLW5NMENJdWpNbWhVLXhQVVBKcWNPdWZsUGFKTVFNNDl1RHlZaElGMWRXQ3JXeFdoV2l2elUzbVNyVDdQTGxNT3g2dUUtUEl6MFpxcUVfTFBKZkNRNkxqeHZ4QWxjaUVLZUVIcVVMdURvVUVfeWdyRE95YnlJb0dWRlN0d0JGUFBBcWFtNjVEQUxHYUJQaHk1bnk0MjFmdkV1Z09hb2hiYUU0WTY4WjhmeG5feDhnTlBnWmMyR3JiaWVzaXYxdmdCWmhwZEQwcFZpcFFjUmcwTHRPSUx3bkZqZm9vbjhUVVhRYWVMMUdMazl3eVJEOGRzWFhHQ29xZUFYbGh5Tm9XVFVVT3o2YS04THljejVpX2g3T0d4SE9PM3Z2MUlFMWJOLXRBLThyb1E0UjRUSXpMQ0hGSGhSejNxZ01Qel9PYjM3bENnd1I4Yy1hUE1XdWJib3R1RkJTR2YyWWVTLW13YXlCcG16dVVua3U4aW85MWV5bDZWaFBMRVAwcEdZRkl1b29iMDEzaHdSSDdIbklQX2R3Mno4d1BianZHRVVuUU8zQknSAbwEQVVfeXFMTk51Qkw0NGU5bk1BWWJ0dWVpN2ZSb2lDeEhGRWwxMHZVeWNCRFo0T3J6ZFRnSDRDU1JOTE9PeWYtam5ZZmx5OGEwYXRVTEgxb3dmS0JXaHlIeUdVZHl5Y3JQa2lEYTgzdUpqcFYwdWRWeW9VVjM5Wm10blBDdHV1RWVyMXF2REdjRnJabHhUMnJXQ1lueHBkX21mRE5UY2VlUE1FTU5rODlSRXVrakhvcUVBanl1QmxtdjllYnFlOFJkdWE5SmQtLURrU2lYa1FjWGRGXzBMdHZnOXdzT0ItSDlTM2Z6VFR3enRYb1pMUzRZakNiUkZpYWlWZHVNM2R1ZXFULWtjQ2NmSmRNX1Nnb3pfcWpBNGY0SkpFR3NFR2Vhb0dLUjM1ZjVKM2NRUldSTGFocWktRDB2MmE5ZkVjallYTEZFMnN1MUsydkZpTjRPRndDQ19tSjhWemZvU0NUZlhxaER4cWdBU2FlM1NGOEluTnlnMGh2R0M2SmpBLUx2QUZpVVJWd09KRWh4ZXNmbzllUGxhcUpEVm9MU1U3Nlp0S1V2X2lFbmlNVThSV09uRXpZY3hhemRudnpHMUVjVlZ4MjRvYmUzazFZR1V4ODZqekdkaGtSNjcwZXhkMUJhb3ZxWWVPNEktQU9JSVVhdE9mYlN3VU41bFF0QVdNaHFjWHZrVHZlM1VqT2FDeGJ0MVA0bjJGQnBrM0NMZERNbWJRcFo4U2xadGFiUHhieEtjb2dBLWpzMlMwUXc?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 17:29:00 GMT",
-        "discovered": "2026-10-02T17:35:42.731062+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "منتخب مصر للناشئين يختتم استعداداته لمواجهة كندا في ختام دورة الصداقة FilGoal",
-        "player": "",
-        "content_hash": "288ef2f6802a2a4b4feea1134ce101a6baa6821f6514a48b302959a20af4e877",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 8040,
+        "title": "مدرب السويد ساخرا: \"لدينا عدد من الغيابات مشابه لعدد التهم الموجهة إلى مانشستر سيتي\" - Elbotola",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKeTVTZ2NhTzk0MEtrUTRtNFByUGU4OUt3VUNtcVoxanc3Ym5MeU41dThMNnFPdW1Sbkw4UjNlUXNuSXEwVHBERkh5eTIxZUJqd25Ha1E2dTlOMl9pcHBfNXN5Y0FQaXp4cFE?oc=5",
+        "source": "البطولة",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 21:00:00 GMT",
+        "discovered": "2026-10-02T23:38:44.815006+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "مدرب السويد ساخرا: \"لدينا عدد من الغيابات مشابه لعدد التهم الموجهة إلى مانشستر سيتي\" Elbotola",
+        "player": "",
+        "content_hash": "c28fce1c5742006522f392702c5f13949a9633f37456351503eefff98af5ab12",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 8018,
         "title": "مدرب الفتح بعد الهزيمة أمام أمل تزنيت: \"كانت مباراة معقدة.. سنعمل على تحسين بعض الأمور وتغيير عقلية بعض اللاعبين\" - Elbotola",
@@ -2252,6 +2252,22 @@
     ],
     "world_arabic": [
       {
+        "id": 8044,
+        "title": "وزير فرنسي: أكثر من 5000 معتقل خلال احتجاجات المدارس هذا الأسبوع - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQdzNkWGVjNGZlNHFaNG5wcmUwaF8zV01ncTF1bHlmbTR3Q3FjX3ZmN1cwaUc4SUM4UHgwTDE0UVdBSTdHbGV1QUxUbWs4N0NNUDlSRk1NZFE0UXhWX0JnQURodFpDd09uVWxuVGNGUUxCVml3dDR0MGNLM3FyQk5fNWJqTDNPS1pMUTNXTUtRUjhMTnVjZEJCazNHUG5aYjZPOWtZV3lfQ0s2bm1zQlJtbGVmek9SdlA1WTlVMnpicUt3VFNLeWdoalowUXlETGQ2aUVrVzV1Zl9WVWJsTEU1cnY3YkdmbWRwNFNkQUx6X2JkZGJMazBiS0R1LU0wdHg0SEpvMzJ6N3owN3o5bEhzU2lnYXI3NkFqNWg2a3daVzY3Sk5tanBQcGNYTFBPenFBTGtRRl92XzJsbzdCVHUwSWtkcHdBQQ?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 21:21:21 GMT",
+        "discovered": "2026-10-02T23:39:02.657965+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "وزير فرنسي: أكثر من 5000 معتقل خلال احتجاجات المدارس هذا الأسبوع القدس العربي",
+        "player": "",
+        "content_hash": "6b93dec0f48ecdeb311a6b5e42db984ccec2ecb0379d069899a3672a984b27d3",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
         "id": 7929,
         "title": "أعضاء في البرلمان الأوروبي يطالبون بضمانات قانونية لصحافيي «متصدقش» - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNU29Nd1UtYm96VEFVMjB5RWZReUNZd1J0UGI5QzBaNGE5eGpzWlUxVnljd2t3UkhWcEtOcnJ0LTJFVVlvS2lZR3lYZjhwZFJnTUVoLVZ1enB6ajFaV3RMb21QNy1xVUlBcDh5c1dfcmloLVRaRk1tazhOd1hsemtHZWx2d05KV3BjeFdFQW9UblJILTh0QkdMd25IRWRLUkYxTnFybTVFUlNJaTlfTzhiVGE0TS0yVEVPXzhiRS15RGtUWklxTWxESnQ4N2xqRGF3SkpwT0pwcWxtWk51Rlc1Q0NxR0Z5UWRfVTA3bmxKM0hCbU9yNjB2Z2k5ZERVQTdCMm8wT09mblplUWFITDA4QzhKdTBGenBTYW5qdlM1dnZuLVZYN29pV1hwdVVrNllyVjdPNDR0UU1yMXo3b3BaSGRBb3k?oc=5",
@@ -2376,22 +2392,6 @@
         "summary": "وزير الدفاع البلجيكي: أوروبا راهنت طويلا على القوة الناعمة Euronews.com",
         "player": "",
         "content_hash": "dec3b7813e26a507b669a0cd1e1e2361948a8c1cde63e664902576746f24a587",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 7541,
-        "title": "قبيل الانتخابات… كيف استغلت أبواق نتنياهو “النهاية السعيدة” لحادثة “فلاي دبي”؟ - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPd3pGRzBvNU5EaXM5VWE3OUtLSVl3Mk5SNjFxcmdSZnVHNGpKUHdXS1J2SGUyQUcyTm4zZUkzSTFLMHlwSkNSZ2dtYjhyVkdyU3FsaXR2MmlQanFTdjRha29BRU5pNnd1TExHRjBvdGkwZ1FzZ1FETXlsbnhIdlZ0UVhTZ0hhV1ExUHNwUFpGOFRUelJHRmdkY2NHTXNSUFYtcWtqb0JqNmZGV3RyMTBlLTJfR1dsMmlPamMtNVNpY0c2TU90RWlBREdQU2VqQlpYN0l4aUlXU1VtNkl4UEtCVHFMTDZ2MXVfMUtxeWg4WEJWbWlFOTcwdjNRUmowQnJ0ZzFTN3U4aVkxc3MyNm9oejg3T0NQQXU3bzg5cGN0VTc5aHEyU09Vcm9TLU5udEE4VlU2RG93bko5QTRzUnJvVGVjYkFhdw?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 14:20:35 GMT",
-        "discovered": "2026-10-01T14:58:27.602184+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "قبيل الانتخابات… كيف استغلت أبواق نتنياهو “النهاية السعيدة” لحادثة “فلاي دبي”؟ القدس العربي",
-        "player": "",
-        "content_hash": "811011dc157a0522dd118d16518b01cae1dcbb17cb8d0c79933e98026b22e823",
         "sent": 0,
         "section": "world_arabic"
       },
