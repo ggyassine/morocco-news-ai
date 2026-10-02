@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T02:35:43.455334+00:00",
+  "updated": "2026-10-02T02:50:00.230942+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -530,6 +530,22 @@
         "summary": "جدول مباريات اليوم - 2 أكتوبر 2026 FilGoal",
         "player": "",
         "content_hash": "a6ca6d06706016c03f356cd7e29255240d5b2dedd027cdd86ccc8e03eb3afe76",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7730,
+        "title": "السبّاك الإسرائيلي... أو البطولة والخوف معاً - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNeVlSeERLTjRQNXVxZmJSTnNtRjQ2WjhlWFRRc2VRaEJPdkJOaEcwZFJ0UHJxU1drU09EbG5Tc1gwWWtMM0hvQUdWMkpnM19Hb0w0Q0o2eHdZQ1pmUWE1M1kxRlJ1QW9nWHR0aldSX1lCSHJHYVcwV2NKRTFibzMyMXhnWVduazhmNG1LWFhoYjhvN3gtNmJySnJjd3UxZDJFUzhncVhCNXpwN3RtMXJyVEdLcElOMW9UQnVVeWRqQ1d5R3hxWUpEMVRTU1ZQWThaN01fQmlGQWZEcWpNcUhDZVU0MFptY1FiY2I2eV9jNWF1QU85dmxCWWVyMlNjZzlrR3J1SWtKUGl3anBFWGx0TFpBVE93czktVkpMZy1ZaUxwMTROR1ZVYXFITk9PYVZreG04MHFQb2pqRXhYNWVFdGxpNm5xeHZGam9YcWxXWHRfRDJzd0xpTkI1LTVmbUJzN1ZQRE1iUWVGMVZqbHVMVNIB9gJBVV95cUxQSjlCVzhrLTVSOVlsd21nNkVVY0xTX0l5NTFsWUs3cEVOTW1KYmpseFAxNGVjOXgyVTBfZnZWOWJSbElVYjhfY3pZcGV6bkhGaHpZRTRucGR5MjMwREZrYXFlaEZKTWg0X1NWQTFuQnIya1RFYXBlWXhJTGxJZ0hCaWFzWXN3LWdGZGIwWks3Ung0Sm1OYkZnTWEyRnJDMjBDVm5FMHVuUmJNLUEzaGNlRzBRdFZZYmlTanN5T1o2clgzQkk5dHo0a2lzejR0elVSeUNtZXB3ZFUwbGVZRnRpcmR5VXNGUFBjdEJYQjlhUmdULVN2RFlJYkkwZW9HRHFyX2dxWjhuR3c3QlhGajVVMldydTY0NkVLVEdwUHBkeVdOWWtQdENKVl8tbG1rcUVndU9NWlF4VDJZLThPLVdVU3VVX1c5ZHZhc1FZb3NWLWtxRktfLTEwTzR4a3BLUGIzaTJyM3FnTnRHcHF4X2c4QkVVemFxUQ?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Fri, 02 Oct 2026 00:08:10 GMT",
+        "discovered": "2026-10-02T02:49:55.260036+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "السبّاك الإسرائيلي... أو البطولة والخوف معاً العربي الجديد",
+        "player": "",
+        "content_hash": "e12ef673dbac90998cd6b561f87e5d10cc8865fbc884140c642280ce4bbea20c",
         "sent": 0,
         "section": "sports"
       },
@@ -1266,22 +1282,6 @@
         "summary": "دوري الأمم الأوروبية.. البرتغال 0-0 الدنمارك.. تشكيل المنتخبين يلاكورة",
         "player": "",
         "content_hash": "04ed5961a0a2a0a6fa7d26188211fa226838de8683add964f086e37cfe4aa42d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7603,
-        "title": "أثبت سر إعجاب دي زيربي.. تقارير تبرز تألق مرموش مع منتخب مصر - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxNbVZQdTJDTHNOS1dxQkFyT1JJNTc0UkRzeGdPNDJHMkJmaEJuSmc0aWdoVlV2WVR0Uk5ZM1A0ZjUzamdyRUs3dlJrdFhvWUZnRkVYSzg0MVp2OTQ4cldmcHYtd1BoSDJ6cW5Gamd2TUJuWHNNdWNIemJUemlyMnhXMmstT0J1ZjVlWEZYZm9yR3BRYkt5aG5oQkNyUHhiNDQ3aDVZSm9XeUk0OXFkTGVRLS1hc3BsdnlFZHFXa2VUTlcwZzg2QUhxVVhfd3RsR2ZSUHdIQklnN2lFZVNLUl8yV3A4bnJIS3E1TXN5SFZaS2VRUlNqc19ZVktXdlQ5Yzkwa1E3cEU1NXdMdl91V1psai1scURfWGhhb1MybjBYdU9IdFVPQlU1cjdXXzBBQ2JxVDN2c21DbUhKNDhDUW9WQThsa0M0V2ZPek5pbzEweG81MVI1allCb245Y1hfcGhDMFBXNGhVWUZhaldTRVp0dXZPMVBBTi1rMjRkV3hxRjliaVloelhiM1RhaG1IY0I4aGViWU5MMjk0RnE4QXRNSllCaWtDcVNuVWxSSzJBN2N6bTQtSVJCazFqY1FfMzl6UF8ta3VMdGJKNzJ3eE1XaFZaVm9yckpQN28wRzFZUGZ0d9IB5wNBVV95cUxPbVVjQ295bmJ5OEExYzJDTC1sRFRDMFU5SlpySVZCUEpHODBpT3JLR19VQlVrcDI2QzFmbzVsTjZWaG05MldpQU1Xd1ZGWHdvNkhleWFCUWY0dVZpN0t0ZUpLQmFiaHhDa3poN0d2VXIzVjJNWEt5aXdTeWFpVUN2UUEtMWVubnBxUEpLRGFzY2Iwa1UtS0xNRDF4UG9qM1VUVVZ4azI2UGRIa2Q0RjVqV2JxYmFjWVE3dk9TSFN6YnNjWTY2SkRjelpDTm5sOWhpRzJaOWNLVVZSejllcEZZNDRObG9ZU21reVoxTllGN2NDc2g0c2tvTXJpeEhRLXhJQUljU3dYa0s0MkZERlVmVjI3V0pETU1tNjJxOWNhQTZjdm1rcnRwM3BTVWtsY1NEcV9jemFDeTdOZzN1UDhQdUN1LXZTXzA1Y094RWZIUnhGQkdPaFhZZmgzS2kxX28zVmhMQlVFVi1jdGlnLTRoXzkyUV9YdTVFZlRjV05KZktnNFJEeGxWOUJmWkxnOHNrOWhoTUVkWlhkaW10RmNyQ29ERmNUVGhNcEd3TTlMcE5OdkZTRU9uT1hLYTJaaFZsSTVHY3A3RENqSVQ5RERXemJ0WGNHRW0zVjg0WkdrSE9fYWstSXlR?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 18:32:00 GMT",
-        "discovered": "2026-10-01T18:51:16.073041+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أثبت سر إعجاب دي زيربي.. تقارير تبرز تألق مرموش مع منتخب مصر يلاكورة",
-        "player": "",
-        "content_hash": "e8f34152f7f5aca5dd0fdf06dda0bc39caac50c60cf40594268d0618d48cc9e5",
         "sent": 0,
         "section": "sports"
       }
