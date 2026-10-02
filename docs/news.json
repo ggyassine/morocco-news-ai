@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T18:01:37.804437+00:00",
+  "updated": "2026-10-02T18:24:30.745169+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -549,6 +549,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 7941,
+        "title": "تشكيل مباراة فرنسا ضد إيطاليا في دوري الأمم الأوروبية - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOaWlrZnRueHhNSHQwRUl6Y0l5eGdseHBST205VDVyU00tdzRfT2tqUElha3kxMzlYZm95S1BTeHdFU2d2UVRBdHBaRm9FWE9JbmJiVEdVX3Jfc28xNWxFOWIteWtuLWhWQVRYSWFLMWFIbHV4VFhwSDc2UjZLTi1aZmo5QTVWWnNGNkstWHpLSWk5R3BBbXNVb05nZURhaHYyS1lCS2xNWFhBUHlDSHZveVZEVncwbjVDZGl5dUZuMnVuS2lEVlRfT0xUc1ZJR1RUT09QdWtsUEwteWEzNkcwNy1abVFmRDJ5Y01nNVlObEg1UXBSR0hxQ2p2N1ZjdklLZnJEeUdqV1JGUWpKem81Q0FCaG1IR0czV3dJZzVmcnZEcWRhY1JVWk5LcGpNaTJWUVp2OEs5aGNZdm8zTGF6STJScFN5dGlDa0NlSWx0eGxXOVM1U3dBeVRQS1plN0htdzFEcmFIUUhHWWp5Y05rMENOdnB3c3d3TTNhbkE2ODU2d1FvYzZyMGlWZkYwWUNjbWp2WVZ3dW54dFlGTFFwY2xHc045MnJPVUpfVE0tdmFUd2R1bGFIb0VxT29XUlpCNlhXNTB4SlNnYkdnTW5tM1FsR1hGd0Z1b3J6ODZkMmdQRHPSAegDQVVfeXFMUHR6eVk5STlpMUZwU2R1ajdPZlp3VVIzWXdfTEwwdmxKWUZQSU5PNEQ2WktRSGxWS3VlWG9PdmhfOG9ocGcwQUVHWlgxRXFQaEwtN1lSYkdnZWZwV00wNnJBSmlET0RheUNoazZrOGMyc1FzeUpvUzIzcHJnQkg3ZHMyQkFrX29TYnNBb0pLa2dQS1R5bWVrNGxuWnVqcFEzUzlmTmswSUFteWZFQzc4UDdvTUVvdmVNa09PY3NOckhWUW5COF9lUGJ2eFFpbGVXbnV6QzNxWVB6azd6WGNqTnZ6X20wV1BjcmEzNXJIcVZKcXFYYk5ITGpvUXRZZHJrVVNBa2VfbkxMMG0yamtUcWpLaU5FVDVWUjFaR01zOWJmN0xtRWxsaDRkT3gzQ3NfNktUbDExT2M3WlFncE02Y29hOFlROUJsYkpnQUxacHIyY1J5YWtSSDdOazJDdkFHbFAyZGw1WE9jNlQtRTRVQnZTdThGdXpCYmxMV2ZycW5SY0k4YUE5QkRkSU9Ta3ZzQnhGMzgxUzk5Rm1fbWVsRWdPY2pxSVRXTkN5b1dUZklzTm1wcHRsQkhYMG9yS2ZOV3pkZ2JNQzRiSzRoMmM0VEtIQkh1WEJYSGpIN1RZOFVpdU5OUEVHalg?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 18:07:00 GMT",
+        "discovered": "2026-10-02T18:24:10.215538+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تشكيل مباراة فرنسا ضد إيطاليا في دوري الأمم الأوروبية يلاكورة",
+        "player": "",
+        "content_hash": "34961159441f1be413c8864dd70694cad4496dd3b107832f96ea6729ceb2b4b5",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7938,
         "title": "فيديوهات | أهداف فوز فلسطين على الصين 5-0 (ودية) - FilGoal",
@@ -1330,22 +1346,6 @@
         "summary": "بلا هزيمة.. فابيان هورتسلر يتوج بجائزة أفضل مدرب في الدوري الإنجليزي لشهر سبتمبر FilGoal",
         "player": "",
         "content_hash": "7a48d439249e0e3c5ce6d59242ea03cb71d3edd2782925cfef708db67ed39af2",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7895,
-        "title": "الفيفا ينشر تقريرا شاملا عن كأس العالم 2026 - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPUnhEN1ZEQTdQVnlrZzFUd0FLQWhFM3JfOEJTdHRGXzBzMVoxNF94X0w4c2FadEhyMzBXcGpFR2twNzFaYmN1ODFVYnEyUXRoLXFmaEFxYzZKQlhtNmNNYVAwWEZ4N29XRnNEUlpkU2o5WTNncXE5OVZxQ25EbHN3ZzJZVEtwaElCczdSZWdfSXNhX08xanRIMXR0emM5M1dHVnA3TjVxSkR1YTNnMUdvNjFGUkwzbUp3NDZfTHN1YVlBenFPZ3RTOWo4QjhVZm9tRjQySHRBR3hGd2lkNFBxOGZHUEE0dVprVkdGYlBRZkVlMGJFRVBjZjdCdnU4WTlLVXlkbjdEVzdic3RNVlZkakZhTGhpaUROYS1PaTFLTnZNM2xJcXpzbGE5THVrTGE0ZlBlOUFFN0d0a1BLR2RTR1JKcUtuVGVRdFE?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 11:24:00 GMT",
-        "discovered": "2026-10-02T15:24:55.111308+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الفيفا ينشر تقريرا شاملا عن كأس العالم 2026 القدس العربي",
-        "player": "",
-        "content_hash": "c2c8e3bf0c26a74429f64335d69f51e7e228b476a1d5e442f7287b72b9a08b00",
         "sent": 0,
         "section": "sports"
       }
