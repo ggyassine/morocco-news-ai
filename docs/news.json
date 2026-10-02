@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T13:56:51.483276+00:00",
+  "updated": "2026-10-02T14:12:55.884455+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -32,6 +32,22 @@
         "summary": "العجز التجاري المغربي يتسع بأكثر من 25% خلال الأشهر الثمانية الأولى من السنة Febrayer",
         "player": "",
         "content_hash": "1e8069875e2248de9a65ce620a8d963b2be9a89c458b4bd394f1d0b67696ea7f",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 7864,
+        "title": "إنذار جوي بالمغرب .. حر وزخات رعدية - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPNmNZdEVEMW1jNkhBU3ZQU2pRenFZOVJ3VlBSc2dpOEw1Q1d0SFVhclVwZC11Mk5HOVVja3VncmstRGhXUjdLbXB6LVMzbXZKRDdzVUhBMHMySWd4cnRWNkNqM3JtNlJEWHRQblVFdlJBaFFjOXdQMTBrRk94SERUT2wyOW4zZ2RBZDBLMm9QZXhJc0dlQXk1VGFlT1NlVTdJX19qcGdhNzM4Zi0zT0kzSUN2STJ5VklLa3pkSE53LXJGb0FteUNqNGVIdVE2bXFQTXNOVGc2d20tUF9WUHJlTXJTQkRtRkhlVW1QSXVnTWREMHBHNU5TR1dIcG5oSGp3dEdqS05kMzEyekxYRExSVmhkS3QwdmFWYVYzOWRPeEVEWVFReURYX3oxRFMzMU1UZnhBQm9qanhudVFjSkJOZy12bzl5WGZqS2otRTNuNA?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Fri, 02 Oct 2026 12:11:24 GMT",
+        "discovered": "2026-10-02T14:12:26.748621+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "إنذار جوي بالمغرب .. حر وزخات رعدية Hespress",
+        "player": "",
+        "content_hash": "356d63860ef76b16c7902becd622fa9e6afa8768433b1949a83b5df3bf9d027f",
         "sent": 0,
         "section": "morocco"
       },
@@ -372,22 +388,6 @@
         "section": "morocco"
       },
       {
-        "id": 7367,
-        "title": "المتحدث باسم الأمم المتحدة لـ\"القدس العربي\": يجب ألا تستخدم القوة ضد المحتجين الشباب سواء في فرنسا أو المغرب أو أي مكان - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPZmtJQnVkSmtjYkhyZ09oUmxDN3g2R29qRkdhVmVaSFZ4RDlHdktfSlNJa3h1YnFqUjR6VGRiSVNGenN0eVRWVFJUU0dPdGZPdC1EbHlfQUJUc1ZtMWQtVjVjOHBLb29tUTZNWnFQWEs2OVVYclQydXBLNjJHb0tWTDIwSGlJSnRqVnFhUUhabFdHSkFPUXc5dml2amliWVpVSjdGREJtOW5FeFg4VmdHZjRhLWhZUXMzQXlha0Q3ME5JQWpPc0JreXJYczU1X1hiMTY4S3lyNVM5azYwZ1gzbS1JbjJ0WVhJdThqTmRBUldXc0VqR3Z3UTlXYXlMN2pQSHZ1Um9OYTcya3FQVXB3MkhuUEh2VEpRZUZVa296YkNaaDhlM1VJc3VfenFuMWkzMEgwdW5zRDhnYTlWclZScGJBYjZjUi1F?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 00:45:27 GMT",
-        "discovered": "2026-10-01T00:55:55.722260+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "المتحدث باسم الأمم المتحدة لـ\"القدس العربي\": يجب ألا تستخدم القوة ضد المحتجين الشباب سواء في فرنسا أو المغرب أو أي مكان القدس العربي",
-        "player": "",
-        "content_hash": "e1f72c2c5e59c27f5866e49b65c5bdf60106a6d6d9104d03043d2647db09ed9c",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 7759,
         "title": "أكتوبر يستقبل المغاربة بزيادة جديدة في أسعار المحروقات بمحطات الوقود - Hespress",
         "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNZmt1enFUc202SkphR1pWOWVFVF9VbVVYZ2xoU3dKZjlfYUVwbzZvaVZZMzQtRUhDSDFKbVJ3S0EyWHVPVGwxcGRMVUF4UkQxQ0dDQzVENkdrWUNIdjhTcmFEc0JaNHo5R2U0QWNITnZBTHpOR0QzNVRkOWdQZTdQNXRmbDNGaUxGUXRXN1hEZW1lTmIwaGhjUDM3SE9GRlBIWVhzZ3NYck5EUDFWZk1lamgtQ0hodHRhMVFYb1dBZlNKbXA0NnpHQkJoMC1uc3kxa3ZoM0ZXMXR2UlVyS3NjR2taNmZhX2xQb1BEREI2UkpZakdBNVdScmR6SW1TanVKeV91RkhERUpSNUxMTEdwNy12eTVYdXoyYV9LWUJ0MHhxdWx4ZzA2WllMS3B5X0hTbFVDcFAwWU1pNEpTWFpCME5OX2MzWjBqdkpfRnVtb3pwQ3NGWWc?oc=5",
@@ -498,9 +498,41 @@
         "content_hash": "85903c88978cefb788ed29ca3dd11fb4dee1bb3d9b7e1b93404357fb2e31153b",
         "sent": 0,
         "section": "morocco"
+      },
+      {
+        "id": 7542,
+        "title": "النيابة العامة تأمر بتعميق البحث مع عمدة طنجة وتمدد الحراسة النظرية - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPVHZ1azY1Mjlyc2dLLWVnQU5OZmdydll1SVV1RlBZWk9TT2d0bkZYd2hwWE1lQmp6UThVREp4UWsteGg3eE4xRUNDaEJvcEpkYXF5X0pjaTgxTlV0LUt3bXdXVDBSQnBQSnN6VUw4RGhGckxDXzZjUVRSZkNCSk5fQ2k2VzBmbko2N0FVVjJrOTRTX1VBbmVNQlN1ZUUyRHpCOVZsYmdDN1pMVUt5U21BLUZzVEZXNFdTZG5sNVRPWEFJcHBYSkRUNFJiMDNPUmVYS0UxSURoWm9MSklqeE9xOG1iSUl0VzQtOFZLeUV5NjhKMWJycEF6cjVoZnpXeVlWd3lobHZGR2pIZlRMaEZEYzZoR2JOVnRmSWoyYV9UU3J1ZkwyLW5aUzBYWkRTa1JaZjNwV3A2R1VkY0tpTDAydVIwQkMxbTJCZHBiUWg1ZXpRc2Z2SVpJ?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Wed, 30 Sep 2026 12:21:46 GMT",
+        "discovered": "2026-10-01T15:14:40.834206+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "النيابة العامة تأمر بتعميق البحث مع عمدة طنجة وتمدد الحراسة النظرية Hespress",
+        "player": "",
+        "content_hash": "89f12e6e4bb676215a01f3611b8c7e7a927380319769c2a363d8ea9956b60810",
+        "sent": 0,
+        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 7866,
+        "title": "كيف تعير تكتيك كرة القدم بعد مونديال 2026؟ - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPNjZlQ1N5dzE2WmI2S1Jva3M4S082ZmJ2MGpCcGpLeXFoMXR6MGtSc25MenBpYks1Q09wY05YOFJUM0JyMFE0VVNJSXU1ZndpR2Q5cGd6TDg1Y25nSGpuUXNhOW8yOHdFcGpwZFVwaXNGTVRHR1BraXVUVVp2UVVqSDlLbHl5N3NmSzlMcGtuamFDcFhmRERsc1pvd01mZzBIY0ZhSWtxOXEyTHQ2OWNsNldIZHZ6a1c4dV9kaFJVMjYwVFpsYk1DUzJFNUE1dG9oNDV4V2puc2M2YTl6SGRQVkNZMUJZQUNvSWpiMkFLNnBUM0plV05waC1UUzg0QnlUVVJ6NS1aSDlRMEJ2ZWpXTmlzeVA3X1lqUURRYV82N05lNU41a3V5WHJjTkZZWUZ4S2FzVk44T2xldDF3ZG9NQWdaMDhtN2dxeGdfd244aWlJc2c?oc=5",
+        "source": "الجزيرة الرياضية",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 14:00:43 GMT",
+        "discovered": "2026-10-02T14:12:35.599576+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كيف تعير تكتيك كرة القدم بعد مونديال 2026؟ الجزيرة نت",
+        "player": "",
+        "content_hash": "358c2bcc9ef92dd110cf5dbf609fa0301fdd34c40cc9db2f552e16905e6fefb4",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7860,
         "title": "مباراة الكونغو الديمقراطية و أوغندا - يلاكورة",
@@ -758,6 +790,22 @@
         "section": "sports"
       },
       {
+        "id": 7867,
+        "title": "لوبيتيغي: جئنا للفوز بالكأس... وعفيف قد يغيب - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOczFpUkZtQzdqS3lYNFVJTlhGa2RxQW1mT0FWdmVoejJheFZUNzVHdW9VaDhwa3RMOG1kSWpyUmwzYzgxRFJTam1nQkMtdG9nQWZ3bC1JcHZlX2lpa0dpRDRnZDI3S0pSZVYzZWVNVU1mRHRCU0MtNUdlVGtRbUF1NV9IRFNwVDZ0eDZNRkg5dmRGdVFhc0VqVnd0X0h1MkJTcmtHTVl0S2UydjRmMkZISWVVbHVLbjJNTGx3dVBEUS1aeUtnVWtjTWdzLWJkZlVhMWFNbEZpVG9rYmJTWTV3cllzVkdRZTU5ZEJ2MmRaMlJJajdNZXgwc3pnQ3dxbVZ0S0VHSGJ5XzMtd2MxUTl2UWJhWHBxVmt0YmdnMFdzblBYbklmdEJaQ1loOFF0WlZLRGVTcUxEcld4M1U2cThRMWRtUnNYT3o0V2dzYTlLVElLVmtvOUNnU0tCTDZtdlJQTjZnWWd3RklUeDhjT01SbjN4REJpVENrSVZrZjh3NkNQSWVqVFZUNVhvS2x3RzVKTFFrYmxwOURnN21kLVowejgydEdDSWlOM1JvY1RkNVhDQUFiR2dPQmdMaFFzOExsYnZ4VENFOGtWZlkyVkkxa0U5QUVIMDZzZnphLUxRT3pNQ2JW?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 09:32:32 GMT",
+        "discovered": "2026-10-02T14:12:37.568826+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لوبيتيغي: جئنا للفوز بالكأس... وعفيف قد يغيب الشرق الأوسط",
+        "player": "",
+        "content_hash": "1ff3d8dc55b8a8b78a2b0ead3239bdaedc72f917bd799152d9b65f77141ea3d6",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 7853,
         "title": "كأس الخليج - لوبيتجي: ننتظر معرفة موقف المعز علي وأكرم عفيف قبل لقاء السعودية - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxOcERuUG9MQ0FnTlJpeW5Sc09PQm5palMzQk1JODdxbkZLUWVKYTAwcDB6c25zOUFsaGg3eGlVSV9keWUxY20yNUR5bm9nN2swWXhtRTZWWUR5RTFyZXFJcGpZbEdsNUotbzRRU2Y0UlVVQjNpTUxmUXVpSldUT2Q3Vjc5M0xRcDgzb1R0azN0c3U0ZjVaVDVnS2ZaQ3NSNFVhR3dqNnRCRnViUjJXTG5VV0RHdTQ2eEdrUHl6TUwxYUpFenE5OU5jQlM3dnppMlE3MVVTYko0VERSQVdWc3BhODdabE5MOGxvcEpMelFqNk9iamhrSHVIRFVtU2VVVi1ObGUyall1emF1endYUVlsbEkySjBlYUZUbjVmR3o5NVF4Skt2MnJ0SVJtWjh0ejB4WHBFa2pPZElSMjhSRHpCbDU4azJhdm9xa0pHWE5UclFGdmgyTGQ4STJ0c0dQYkxTbVZDLVo1SHdad09SRFFMZnhBNXV2Smx6LVlCYlFzblJZQ1VEcl90VzFoSU4yd0Jqcm8yNG5ULS1RS2xfS1BjbzFzM2NuUXEyS1hNdE5iTEtrOTd5cHBhVU9uSkZnaWJvTEJPOHV3ampoaTkyMVNUMVU3NXNRWWRFZGx6MGFWR0ZGSm9laHBjTDZjdWdTYUtybUpTUG5pYmR3SDVNcUM0cnV6T1dfR2Z0bjlBRXFZYkJCRmZPamJxdDhiUEE2VldLMU5mbVd4cWlfLU5tcC1fbWZ5SHRHeWgwZ2h5N1NJZnNNbDZCSjRTUGZpN3NYQVFaLUHSAdcEQVVfeXFMT1RHM3VwanpMNEFpbUtRQnhRSVJfOWxQSkw4YTlTLVI2WU5LZmVnTl9jLWJ2RTVYZzg3NVJFN3Z5RmpaejB1bW5BeVdGTXV4MjhBZGtlb2ppMXUzcmxScm5PRFdDSjN5Z19yMHNjZzJtcXBpWWpWRnI2QUZ4c0RlbnJOaXdHS2h6STQ2MFk5UW5Md3UxLXk1X3p2OWVfT3UwbzR5LWpCQ1dDTXFSMnhkdkRCSVdjUmZ0bXNOMjB1YUc2QjFKRVN2UWFrMERQMExTY2p1eEZ0MWZiYUtzUEFncmxRanlCWnAyXzNXOGdWdzk3WVd3NDZ4NzhRQnhwOUdNNTFIOS1SWWdrMVAwejRxRWFodjJzN2RWQV9qazFWN20xZk9WSUs5blFnbUxRWGRSZlBJSWs3eEYtWDRLS2xESGtjMnF1cEJDMHVhZER5ZjZFWmFPUWVQT1hoc1pzWmhXdHZ2NWwtc0FDRTMtV2czV1lNQ2doVU1EZUN3d2JJYWNHbmlFc1BONmhDWHN5c25maHBiUUF0VzA2V05oa2NxYklLMkR5V3VZNWZuN0ZyaHRCZ3o2bXkwVlJjZi1XVGcxVGN5UFhWQklUZzQ0OW41eWdrZEFlSGdQNkZVNWxPZWVjNjlOVGtqV2VLTkY5TGNHWmtlRElxU0l3M0ZyR21tcHM1N1FHUFV5bV95TV90czhpN2RQN3dBS2pxblluVHRBVWNfdThvZDV0b2FaRWRTT3JHOEtzVThoa1pzVlVnOFNVTXByRkxxMzd3YTN5UUl3QWhoTGRwZ00?oc=5",
@@ -914,6 +962,22 @@
         "summary": "في الدوريات:\"هل سينسحب ترامب كليا من الشرق الأوسط؟\" France 24",
         "player": "",
         "content_hash": "9fafa321e922a140b72d8d4c286794b13b1e485710e8d5ae628efdcb2c3c37c7",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7868,
+        "title": "قصف إسرائيلي يستهدف مناطق في جنوب لبنان - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxNaHRxN0JVTl9SdkxvUkV5Q1J1bVk1MlBUNy12R0ltMFdrdWFQNXQ1enU5eTlldUdISjZUOUNEcmJBTTlFUy1OalNyQjZXclVrMmZwaFd3ZUF0UWRUX3IxeG13U1RNZ3FfdnRobU9laVV6aTA4LWx6VjkwNUkwWHdYVGFqUVNwQ2xERU5VSENEXzVWN3lnbGR3aHNZSFFMWjVXRm5iSmV4ajNlTlVvV0FfeWdhWk05RG5GYUltTkdkU29JdXZCQlNZb3RORmVnUzE2cy1fZWlxVld0MVQxRmlFazZkSUh4a2F0WXc4cld6QWYxaEs0eXJ3V1U3aUNNeWpoNWFHYWV1U1d1UE1OdUdzOWs1d2JQUWpJZXQ1UmZZTGs0X2lwUzAzMTBkY01MNkxVcG1rVEVKTnVhNm51R2NSVkt4LXlBSUFfNWNiODNWYlh3QWVyWXhtTFBTbzlxaDN4cUtjVnVxUGhtUV9HSlNZQmZxWG9yQ2llOXVwVFpReUYxazBVN0UzMnNyNmJiM2RBMmdSeEVzTlJtUm1YaGJ1VkJIeU1KOVRpcHEyb1pONUQwd2w4RTVwcGwwNVJDS1BONEI3d0ZIS2RDbnN6cUR4TnRRZkJLdjZScks3NENXUjE4VEJTM05ySXUtellfaUg2TUNLZ085RFRqbGdPNUNvSDBXUnJEcURyeGlDS2VfZlRSdzR4NkE?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Fri, 02 Oct 2026 07:14:51 GMT",
+        "discovered": "2026-10-02T14:12:49.367405+00:00",
+        "category": "الرياضة",
+        "status": "اهتمام",
+        "summary": "قصف إسرائيلي يستهدف مناطق في جنوب لبنان الشرق الأوسط",
+        "player": "",
+        "content_hash": "698683a7bd88b7130a1b880de631bbced68f30c59cd7d7c3fd240763b3b256db",
         "sent": 0,
         "section": "sports"
       },
@@ -1250,54 +1314,6 @@
         "summary": "ضربات جوية في اليمن وهجمات مسيّرة تستهدف السعودية Febrayer",
         "player": "",
         "content_hash": "a302724294dcfe3ce52bdc1da56dc2ec010322bb48438ee27e3cf4013f9cfb43",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7746,
-        "title": "دوري الأمم الأوروبية - تشافي ينجو من الهزيمة أمام اليونان.. والفوز الأول لـ كلوب مع ألمانيا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8weTRVRlhDaWk4Y0VVZVE1OG5sTWFGYW02OW9YelRnVWd3UFR2TG53cUlOQlJEU1NIOXo5d0JJYUU5M21TNURmQUg2cFIwWDRQ0gGyBUFVX3lxTE4zS0dzdnllQ01VVkNYZmFjX0I1RFNvQnptdm1NajlRZ2I4S2cyTDVEbUp4Y1VuSFJULV9zYjZuVWw5Rm1FNXpXTzlqSHVxcllYbEc1N0hVTGJyUlZINTBIQmlUdlo2enBQdExJOS04QjRtSGVLZWQ1T2FNWUxqRG9nUG1kcmVJaG9tVHdJODhLUHRZQVZ6NExNU2NFMXQ1NDJIbHFtUFM2aWdwWWhGcnVQdmJsY016cUZZNURJdldBdGZiX1BMRERuNjJRbFRIdU5kZmQ4NmotVXdvclNxSlk5Um9yQ3hramVDbTk1Wm5IOUtNYVlwMXdWUVo5VTNNUnhzOE5vVS1kUzliMlAxeG80RlF0RjBMLXhSVWZzQ3ZhWHhRYmRueUpSU2F1QW5zUWdvQUR6eXVSempKQWRzWWVTZnFESUt3RVB4TzduMzNBUmVHTk96bVo2NFRQSFpra3luS3Q2QTFDb3pxYVhvWVduSmotYU5vWlptTGpRMG52eXpSWllGb21DMkROTDlRN0VtbmdIaVR3QnBqaGs4QWp2MTVLNFVBZTRWSnBQZjNGOXZ1NzZHb0N5MkVuak1mZkR3WjNwOTVpeFVGa1ZSdHRhSFRjVk10b0Y0dVE5dWh6RzUyUHZXZXRCMnFrSkd3eXBRdEFuTHRDTmZJLURxQ3BsWEJ3cG5YZXN0Z0Y4aWRCQUJienRPMlQ3bjNUY0cycUJ5b2tzUmFpT05KcS1PdEhZUFBQcFQ4bmtDbkhpZEFNVjNmNVIyS2wyUUtDTURoOTdZSVhEVUZMSzVHV3hNdHE5RXFDOXNxWlJid0Y3YXlvWjlrWVZxQlZlSmhaamRnenVoVHZsZEk4RHkwWGV6MHRqR2NqcjYxVFlER2VEQXNJN3JYSjRMUjJHTV9rR2oyUnRndw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 21:41:00 GMT",
-        "discovered": "2026-10-02T03:37:28.755846+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "دوري الأمم الأوروبية - تشافي ينجو من الهزيمة أمام اليونان.. والفوز الأول لـ كلوب مع ألمانيا FilGoal",
-        "player": "",
-        "content_hash": "ca0f5825a51fd4304f7fb66a4d7d3799831057fc16ba1584b815c7a1e0109ff6",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7663,
-        "title": "دوري الأمم الأوروبية - تشافي ينجو من الهزيمة أمام اليونان.. والفوز الأول لـ كلوب مع ألمانيا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMirAVBVV95cUxNNEhtbUtXOURDMjJOVlBIYjZmNkEyZzVKUmlONzRzWEJjNkM1VE9wRlh0QU9FQ2NvR1ZwRmJmVURMbU9EczA1UFMzUnNGYjh3eTZPMWZPdEtGNUNlNnZRQ0RLR1ZSbVBPU3VBRUZXT21zTnA2QUhLUnZqdTJsdTBac1dkbDltN21RZEo3Z0VLckZYWkNibUtRTVUtVUlxZW9HMzZnTWFGbG52ZG5XRUJUa0RWRDlZQUZwWWNoUGhnTHltNWhNakJmNnBhMXlhX1dQcmZkYVdYZ0NNVGlzWTdBLWRiTEVQWnIyNDFCN01ZUzlOZUo1ZVQ2VUlTVUtxYnhKTWFTdExBZFlPSjZXX016V0k3QlltSXJ4U0JwUmVTVjlYWVhDclpLRDVDeWlhNGJQWk8xRk1nZnBXdmhBS0pMaDdsUUZuWTFDZWlEU1M5eDFSLTMtNjAtbktNTDFPWE5CRTZNdVQtZGc1WUYtek1xSlRBM3dYck5SMVRCSkVCUHBiSTltQkdOYzE4RklhMDRpbU9TVmxqcUlEcEUtellVemRLZWlLelVmTzNReGxPREVLdjFlVmhOaHhPc1p0WE1EZzZMa005ejNzeXlSRlVmNTJHcFpwNWttZHl1b1Bwbzk3emREc2R1Q040UkhKR2tsMzlqSEdLd1U1eHZUdE9LUjdVUEhoWVZudEMyR2RWRFEwTkxVcmw0aU1icm9BV1Z4UmtsWEJBX1FqOENrVUMzb0FmbWZQVFplU0JWWGZYOGItbHhjUjVsVFZ3Y05QcnBGUnlyclhma3RPY3dRc3ptQmZESjJIMk1GRHFaRXdRalpjYWFVVnBFZVRkbDVuT2lOQWlKTlk5T2UxdzJ1ZmxMRXp5MEtXSXh3THdpSWpxbjlVcHQ2MUJIR3p6TE3SAbIFQVVfeXFMTjNLR3N2eWVDTVVWQ1hmYWNfQjVEU29Cem12bU1qOVFnYjhLZzJMNURtSnhjVW5IUlQtX3NiNm5VbDlGbUU1eldPOWpIdXFyWVhsRzU3SFVMYnJSVkg1MEhCaVR2WjZ6cFB0TEk5LThCNG1IZUtlZDVPYU1ZTGpEb2dQbWRyZUlob21Ud0k4OEtQdFlBVno0TE1TY0UxdDU0MkhscW1QUzZpZ3BZaEZydVB2YmxjTXpxRlk1REl2V0F0ZmJfUExERG42MlFsVEh1TmRmZDg2ai1Vd29yU3FKWTlSb3JDeGtqZUNtOTVabkg5S01hWXAxd1ZRWjlVM01SeHM4Tm9VLWRTOWIyUDF4bzRGUXRGMEwteFJVZnNDdmFYeFFiZG55SlJTYXVBbnNRZ29BRHp5dVJ6akpBZHNZZVNmcURJS3dFUHhPN24zM0FSZUdOT3ptWjY0VFBIWmtreW5LdDZBMUNvenFhWG9ZV25Kai1hTm9aWm1MalEwbnZ5elJaWUZvbUMyRE5MOVE3RW1uZ0hpVHdCcGpoazhBanYxNUs0VUFlNFZKcFBmM0Y5dnU3NkdvQ3kyRW5qTWZmRHdaM3A5NWl4VUZrVlJ0dGFIVGNWTXRvRjR1UTl1aHpHNTJQdldldEIycWtKR3d5cFF0QW5MdENOZkktRHFDcGxYQndwblhlc3RnRjhpZEJBQmJ6dE8yVDduM1RjRzJxQnlva3NSYWlPTkpxLU90SFlQUFBwVDhua0NuSGlkQU1WM2Y1UjJLbDJRS0NNRGg5N1lJWERVRkxLNUdXeE10cTlFcUM5c3FaUmJ3RjdheW9aOWtZVnFCVmVKaFpqZGd6dWhUdmxkSThEeTBYZXowdGpHY2pyNjFUWURHZURBc0k3clhKNExSMkdNX2tHajJSdGd3?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 21:41:00 GMT",
-        "discovered": "2026-10-01T22:18:36.760247+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "دوري الأمم الأوروبية - تشافي ينجو من الهزيمة أمام اليونان.. والفوز الأول لـ كلوب مع ألمانيا FilGoal",
-        "player": "",
-        "content_hash": "ca0f5825a51fd4304f7fb66a4d7d3799831057fc16ba1584b815c7a1e0109ff6",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7657,
-        "title": "بمشاركة 22 لاعبًا.. منتخب مصر يواصل تدريباته استعدادًا لودية جنوب أفريقيا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxPUVpwcHlhM2lBU05DakJqdG9xNWxuV19hT1VzNzdCWWUySlJyTVR0bUdWdEVLeVNmcHZkSkU4MkNic1ZWVUR4ZGRRd0lnbWdaWmo1QmIzbG10RmJmWnZ0ZHEyb1pYeFdsU0dmUF90NldXQ0dqM3BlbkdtUl9pMlRSa0hYVXllZzdDUnNKcmFsWmVtaEgyd2NHb0ZZTTl2U2pYdTlpcXNBeE1BdzVoY0hEX0lxVWFoVEY4OE5iLVlUZXpXa2tTaHo3akdqdHJucUhDZzhULWg0MEJ2d21SWGhWQnh2c3ByQVpaY0p3NTJkaUdHSm1Ccl92cUJhekJWdThETzB6ZXBzRi1TajZIQS02b1BiMFZ6SDJybDRmcXVhRWR2anNXT1hLRkxoSXVoc0xiLW5XRnhkeVVyN0h5RFBnY2lqaFpZLV85MVBqUXhoSmhMcW9kQkVWd3NEN0xsQzZubDYzOEtxTThsdmdPam1FOXJROTgzQmwtXzBUY1huTXhuWHF2NzJQTmhDZ2o2QkxuTklDc3ZoZExYSEJYUWhzaWRkUEVjSlQ0U19uZldlTVlOSThMN0RKUkEwbkFLbXpLb1NOM3NRMGhERlBTYzZpUldHck94WGVBVVlxRkV0TFREUTZIU29yaXlDMVA3TEJMdjROV3gwU1lYbTA0YXAwNTZIRW5kdzZoenYyTHRBM1Y0SmhhM2ZYcTd0VHZDWVhuU29rZDVtOEs0LWU3bGhOY3VnRFdnSFNUaTk1Qm9oTEl3eE1xNU5LYWw4N0NpMW83Q0HSAdcEQVVfeXFMT195U0JuelMtdk4zRk13TWh6UTZsUGJFNGo4WXVhcHNvY3V6YTA3YWRoZzMzNG9JbGFfZWJnNXVhbExIaHFMdGp3U0ZYTngxR2pfbXY0MmY4bE1HekVzNDN1RjQ0YW1lN2tiSnRKaE9hS1ZYaDZqRzZVeUUyclJ2VTdkT0N1WmxkMGxrdG9KdGhsUnJ3UVdBRkhWdjVTSDJQQzlWLWt2alhubzJfS3V3b0xpWGpWU1pUM2NDZlFGY0tVWTE1UmZDQTJKRkF1Q0V4R2JMV2tZVkZMVG1ocUw4X2dLakVIYlNKSUVIc3JwYjVZR1FlYnEtTW5VSFhxcWlmdlNKcGttU2pERlhLOFltbzBjWjRESTNaWnBZalFmRENGTEQyUVdpOXE1Y1NyaFNLbjVYaGFLU2xlREJMSHJXTmVfMy1yaFVOTjNHdFdSZk5TYl9ERU90NVhZMUZFcW9BYk5PQ0JfMDlTYTI3SjNuZkhlV0NHMC1zU3lwRVc0V3FiN1R4MGZpeWhuNGRmRDk4WnQtVnlyWEtGYWVPaFVvMEQyRjhGUHRTd3JVZTFYbFh2bC1xcFJUeFQ2RjVkQ3JqNng1Wk5LNFJTcGRJQmJlTHhDbTJUbzNMUDk0bm5kYWYxeW81Q2JYaHVkdUM1NUVPNHBaTDdBY3dJUEM2NUpGMGx4QjY4UlBRdkVGTXZxZ0dGSXUwdThtVlhjckd0ODIxNXh6c1JGdm8zSnk0bkk1RUxDSl8zX0dGUi1MUGNCUzlQWl9wTHZNcWljb1F0TlJzbEZWMVF1RHM?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 21:41:00 GMT",
-        "discovered": "2026-10-01T21:51:43.151318+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بمشاركة 22 لاعبًا.. منتخب مصر يواصل تدريباته استعدادًا لودية جنوب أفريقيا يلاكورة",
-        "player": "",
-        "content_hash": "7891df71d5dfb64d440561e3b69001ad4d4acb9c767d70eee1ff14e908ba4683",
         "sent": 0,
         "section": "sports"
       }
@@ -1912,22 +1928,6 @@
         "section": "transfers"
       },
       {
-        "id": 7368,
-        "title": "أكسيوس: روبيو يأمر الوفد الإيراني بمغادرة الولايات المتحدة بعد تعثر المفاوضات - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOemtfMG5SR1JKSXFsQnBsZXpBQjl0SzBXNFpMSXBuREpySzU2Y0Vxa1Q4LU5jNm5uNHQ4TVA5RE0zdVVPUDN3OGxrZHRBUTFiRUY0WGN0TWxSVUdWZ3NOZFpUUEMxMzRFRjhoSVFMNDZERXdsbHRPYWt4V3p4R2NSQUNEX2pwSzFNcnJSa0RHSWFqdXhjdUduWHBhdjBmOHJMakZaVjhHQlhBcWNwMy1tQXJ2RktyTXF0SVM3Q01EWGFRNUEzVjR6SDEteFBIY2FpajhabXhnSmtiOXVhakVicVhVRUFGOFZmTUY5MkpvZGdWVGlmUnZhUkcwMWF1Y25DemF5cVdMY2w4ZmJpVUFxTE9SV014WmFfX3l6RnJYT2YyWjB0Qk15NE1mcm5MNHVqbmZ5Rzk2RFpuVEl1X2hTaVFMQS1Zdw?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 00:49:11 GMT",
-        "discovered": "2026-10-01T00:55:55.733935+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "مفاوضات",
-        "summary": "أكسيوس: روبيو يأمر الوفد الإيراني بمغادرة الولايات المتحدة بعد تعثر المفاوضات القدس العربي",
-        "player": "",
-        "content_hash": "7aaefb59ba5ca606207d1f87fcfb21defbb6ecebb4455daf6f4345ae99dbfa37",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 7501,
         "title": "روبيو طالب وفد إيران بمغادرة أميركا بعد عدم نجاح المفاوضات - اندبندنت عربية",
         "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxPdk9JRUVCMzRvWllqenZ1eWVCUkpybUptdnFOTjJSQjRvU0FRZ1VaNllOMjA3U3g4WUNFcF9MRHB2aWc3VEl2MmpUakJuUUNtWl9lblJhUkgyTUNZNE41WTFyLW9oNXBmclRtMUEzX3BsVjdzM0lVeTE5MmJvOUNwN3FfYWw5MDJ6UUZ0SjNnMEdIQnlZck5OaC10ZVdJTmF6bkdfZ0VsU0R6VFcyVFNJb0ZDaHVvSUxndml2WXhyMG5DWGhwZDUtYWtScGNzZ0lzMHdEZG9GMVpCaDlvQ1pGc1ZfXy1nSFgzNXdXeDBmQmN6VjVaS3I3bkpLQ0JSN0RiWlgyN1hlSkpvWjQxZi0wQ0NzcE4zRnE5WmRYUWxEc0VFRWRvdVkyM2hLNERiamMzZ1JRdlBUamhCc1ZoYjhzVmI5Z2RFV2YzS2x5ZlB4RW4ySGpMZTQ1SndPN0hFcnlZaHJUd3hSa2xHaHlGWmNQWEl2TXB2T3RodUhsdURsYWpETkpYUkt4MHFnbGlxSDRCbmd2LU9uTGxvODNpOGJIOUxxU2NwSU1OZlB5VGc0VEZnd2dmSjh4QjMzemJ5ZWh2Z0tIWEpSQmhrNzBSeVVvbUdGeVllUjlvWjBNa2dHS2NmeEt4V0JDaHVORjh4U0VabmhhalNnWGo5Zm9QWjdBNF9wY2Nyam9jMG5YeGFJSDFkYnpfOEFHZGF1Um5Sdnh2bGpFZ05TMVJ5VzB3cWpmLXNLUmt0Z0lWLVZsR1p6ZlA5NTllbGljQjRPbWJoeGtC?oc=5",
@@ -1940,22 +1940,6 @@
         "summary": "روبيو طالب وفد إيران بمغادرة أميركا بعد عدم نجاح المفاوضات اندبندنت عربية",
         "player": "",
         "content_hash": "3b1f20f19e018f8cfb2c2396426f22bdabd32494bf798bf82684bf1c871c638b",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 7366,
-        "title": "السعودية تتوقع إنفاق 371 مليار دولار عام 2027 - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQOEc0SmY0ZWZLWG1nenZ2cVFRUS01N2FXVkgzVTZjd1VyeEZ1XzdWOW1XdlJrM00xZXNXaXBnSUZneU5TQVZfMjJKbkZudGhPVXo2VUo4UGl5SnBPRzg0bFVpcWZsNGpHQjFrRnN2eHN2X1Z6Z1pHeFlnZUZ0OTh0UTNNZmtGc01MWlRwbDZ1MEd5Ny1Yb1Q4V3M4d3drMHRWdzBIUG9qakVTNWRRVGVieTBPOWxDeWF5N1FfazdRN3U1TEI2ckJ2REctZEFtdnZ0eG0yanZaRDZGdnd4NlozSDZEc2xSTTZ2NFZMV0VEMENCUTJlMHZQa0hhM1cwMzlEZU1tV2dCVjVjV2hnRUpzT3lKb3lobDBJY1NqT2JtN3gtMlRzd0prZ196NjhEMlhGR3hidmZfOFlzNDZ2cDlqd29rbUt4WWtlX2dZVjVVUVpwQnd1bHNPU21LNTnSAeICQVVfeXFMT0trLVZRZW9hV1FRQmlFdVF1TXJySEMxT3A0MVFKdkJ2TzY3aUlXSFFjNExLQkhiMGlzOTdwWUUyeWl1cVNycU80azZzMkRqTldKSFUtNG5EcTFBV0dFNXdFZWRLZ2FCUzJKTklvYkZRNVBDUEZxdnVRWTNPdl8tdHNrRHllYTJMYlhXNk1KcEloeFZrQmpJTHRLZkdYSlpnaU1ZTG5FMThvcFR1ZlRILVREUTBnblZWYXp4Y3FsNmM5bF9tVkFtWDZTTHlfcThfSVUwZzZsYTJSeXo5R3Jsd0h6cmlDaEJFZ3JqVS01RUh6aGN1QktEOVhuUUp0QnQ0My1QaTRCdE1YUk92MVd4WnBfWXVoWi1keVlKSXF0WGdDbXlhU0lRbUpzNjhzdmpXcENjMWtOdmZrRjI4WlhKcjFsWWkzRk9VTVZKQ0YxOUVEODFBU0VVQ0FUWlBWaDJ1a1h3?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Wed, 30 Sep 2026 22:10:24 GMT",
-        "discovered": "2026-10-01T00:55:51.484369+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "السعودية تتوقع إنفاق 371 مليار دولار عام 2027 الجزيرة نت",
-        "player": "",
-        "content_hash": "a7ac6a2cba522bc28b4630818d1878569e2aef4d6cf94d20c00add06075e5710",
         "sent": 0,
         "section": "transfers"
       },
@@ -2283,6 +2267,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 7869,
+        "title": "وزير العدل الفرنسي يتهم بارديلا بالكذب بشأن اتهامات معاداة السامية التي تطاله ـ (فيديو) - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNZGRicy0yNkFjVDcxOHZja2paVlpteVMybnotOVI3UzBNTmNsQUVfRWVwdkRXOFZHVkpTaUNGQWcxY1I2RUlCVllINEJqblI0X0VVMVphdUFtejE5S0RnYlEyV2RycW9Ea0xESFJ3QVJfSTJUZklMdm5GUjZmaWp0Tll2YWxScnR3WVVPLVJIVWFQRWx5R2NtOTdvbHBFNkNReFZQV2JfUEtHRkgyb0RUcS0yZFc0UW81T0VRbTVHTGlmYzZ0aTg0NndNNU5hTGRtbnBkRkd2OTlRNExIa05RSjdRS213MVU2QXhFRVAxWk9sbkNrMzdqdHpVVm42dFBCUUhXWVpDcXhUN1pIQ0piNEJWREFDMVpvTWFjaEI0Mll3NWVMYmdieHFNOTlkY3NUbTQ2WVVjUUVteXlrbWhGUjVhZDJsZw?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 13:46:48 GMT",
+        "discovered": "2026-10-02T14:12:50.609472+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "وزير العدل الفرنسي يتهم بارديلا بالكذب بشأن اتهامات معاداة السامية التي تطاله ـ (فيديو) القدس العربي",
+        "player": "",
+        "content_hash": "835a2b6fcc459b4b518959e1365ad08f915493837a4268f6cd06bf6b85537160",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 7826,
         "title": "العليا الإسرائيلية تلغي قرارا يمنع قائمتين عربيتين من خوض الانتخابات - القدس العربي",
