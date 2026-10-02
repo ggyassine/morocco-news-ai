@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-02T12:26:24.335570+00:00",
+  "updated": "2026-10-02T12:47:59.092802+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 7841,
+        "title": "العجز التجاري المغربي يتسع بأكثر من 25% خلال الأشهر الثمانية الأولى من السنة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE82T1hYQlpTSUNvT25PZXpIRWVVenhiRkdGblVMZzF4RUowa2czTHhIRXhobHRLRnhEMVNvMlg3TXlURWp1Y1kyRA?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 12:31:46 GMT",
+        "discovered": "2026-10-02T12:47:28.516772+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "العجز التجاري المغربي يتسع بأكثر من 25% خلال الأشهر الثمانية الأولى من السنة Febrayer",
+        "player": "",
+        "content_hash": "1e8069875e2248de9a65ce620a8d963b2be9a89c458b4bd394f1d0b67696ea7f",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 7817,
         "title": "المنظمة العلوية لرعاية المكفوفين بالمغرب تشارك في مؤتمر بجوهانسبورغ - Le 360 Arabe",
@@ -485,6 +501,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 7842,
+        "title": "زلاتكو مدرب الإمارات: درست عُمان جيداً… نسعى للسيطرة والتأهل لنهائي الخليج - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMipAVBVV95cUxQQWNHb0VaTVE3SS1ScENDVVpYbVozazhjdUVna2hpcmo0TlBVOWR5QzNZVEdnZ3loZEJGN3JKWGNSSER5UHhyYXJXQmpnM3Q4TWtRU1dvUVVER2p4RUctSG5fNzZ3UjdXenJNMXVvSDVEYjhjdXhOTzhKR2tZNWI5U2I1a01YSEVYSzhEMGZUTFZ0Vk5nOGY1Si1DSWFUV2w3Ym5SVWlkUFB2SEF5Nll5SDhQaDBPNlZOUUdDQnZSeDEta1FnTUduWWVJdkxHeFBKdVB2NEoyOVlTd3M2NnpVR1g3SHh0MS1IbXphaTg2cmZCZ2FMNDFFZzlfVGF0LTNaTnk0RXpzbGp1UXlpUUMzek5zRTloVHlpOHlPSWtIQktEc0VCY0I0UndHY3p3NGc5Tl9tV1hMU0lFMnZzSmlOU01ieGNqM0NXV1RUT2V1dVI3SjJ1ckJTZGJkLVJFdzAzaUh6ZTBUWVU2NFZYalh6ZTVpR2FZSW1FMjVuelRoN09LeS1pRnZrMTNlOWluMGs4eW9vblpMWDU4NzNrNDdFMVh4Yy1tLVJBNVBoSW1pbHB5b1cwMUpPZXVxWnpEdEFzTjV3dTZTc1RhZXFKOU5faUwwenR2SERNZDg4THQwbF9sWWJ3RDI2SnpCSGx5ejhCS2hFQ2Ztdk9qOHBGdnNRODBpTzIzQm95c0lMNGwwMnJialpjNTRQY2RVZ3VZVThkX1dySTRBa2hDTzZ3dHRCS0o1cVpHT2FJLTI2c0RXQ2ZjMGRCa3lUWnJmNFZTM21vTVMyZUZzMy1Gbms5YkJtRUFqMUxZSnhCcXNwUWc2WTByUXp2WlNYM3NYME1TTGVnSHM3WVR3WVlkdW8zRUw0R1pwQzZ6YnVHbjd6VkotcGpKYTg4?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 12:37:27 GMT",
+        "discovered": "2026-10-02T12:47:34.998408+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "زلاتكو مدرب الإمارات: درست عُمان جيداً… نسعى للسيطرة والتأهل لنهائي الخليج الشرق الأوسط",
+        "player": "",
+        "content_hash": "5edc882757245d03c57e23f06c1ae80e5318d6a5fbf78d4bd07fbdb0258a22bc",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7844,
+        "title": "أخبار | مدرب عمر فايد.. ألفيني أفضل مدير فني لشهر سبتمبر في الدوري الإيطالي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxQaU0xM3RtaEl0RDRBbUpSZDNNTDZiZlEzZXhLQTRwYWJFel9teGpBT0ltUl9iOWUwelNPOHZYZFAyRk14aGVsbVMxVGJ4MV9KWFhGWmlWSl91blBNbUhDeWxiWDNfVXlCRW1pa3hCTll5YVlxZ2p3clR5LWlVNkx0bmJILTdzRGpHMlR3SnBJVTlSN2UxNEJXbEVwUTB3YTB1SGk4QUYyWTdXZXo0OFo0bnk2bTJNLTZLY2FhdzdlMC14Y0x5ck96b3VPaUdYQndEckZlR1RrSFlzRzFIOE44NmgybWlCTTBnMnlldXBqWjNZZXJKMFBWbFhtakJqX0R5VkI4Mmc1cFF5bnlKa25YdGFZLVQzUUJHZHl4ZTJNVGdKWlAzR0poSVg2VDFfWHZBUm5oTFROcENDMmo1Sm9kNmxNcldXZ0JvR05pVDd5Y1F3WHZsbFdHbXh6WkJHRmJLbllLZG5Edkp4VVl2d1h4ZkNtZTlXWlY2ZE1QUDNmUFl6YWRSSUxGZDNYSkNBbUNDdmQyNlhraS1LdURzb2ZBSlpJcVVWMWtPbGswc1cyTURoX3ZVRVdrdGFWY0VUOXlwX3k2cVJFT1R4dXc4WG8xWVZ6VVJYVmhOUnFUUDVOdm84RWxLMlg2WUNhMW04RlZRNmNTTlVhNWp5MjRrdTBIODBLSFhtclB6aGxNU1BxWDdCQk9lbXloSUtJTExPZmhiNTNVWkhIbDVZa1JN?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 12:34:00 GMT",
+        "discovered": "2026-10-02T12:47:38.209520+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار | مدرب عمر فايد.. ألفيني أفضل مدير فني لشهر سبتمبر في الدوري الإيطالي FilGoal",
+        "player": "",
+        "content_hash": "091c5b63cc30160614a679d5c100385d83d04a675d2c1e9cf14982ac47948769",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7832,
         "title": "الاتحاد المصري يكشف حقيقة عودة البطولة العربية للأندية وحقيقة إقامتها في مصر - 365Scores",
@@ -1252,41 +1300,25 @@
         "content_hash": "109b3fcbbe2480ffd05bfa69c0a79f9cc2d0cca928937e9c78c08ffa6200911d",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 7654,
-        "title": "الحوثيون يستهدفون محطة تزوّد المسجد النبوي بالكهرباء - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMizARBVV95cUxPcXhEZ1dVZElaVUN5R2RwTF9DcWt2Sl9NdU91OV9sbXIzQlF4T2FyRWhxSmV4R1NPdFhVT1lWM21hODZWSS12OXBscUphNmw4WEZsNVNEY3hIcS1YUUgyang3Z3Q3bU5VYmE5SzVvZUd4WDJLaXR4ZEtwMkJIS0U1SVk0ZEdIOWNsdlIxMi1Dd2tqTGxEVlluZXpuUDZnMUQ3cnVnWXJTTmFvUF9UUy01QjAzYUQ3S3ZialNjcXlnWDRLa2c0LVBzcW15RkhoSTdtM1UwVkFzcFZLeE14Z2RmcVpZVFV0cWtTb0tpWXAyN294REpDVlRYcWxiWWNFUlQ0T1RDOVlGOUpuSm5mZ0kxSEFnTGgzRXZ6ZWYteUdWZnFCeTdKMWFxbzZtWXJqV0tvSzZRN3BIdFBNU2VUQzVQVXBrSVViSnZDWnNLNmUyVVBkUXBpUVBQV2UxZGJ4TFpON0V5cmMtU05VeVowM21tSkpsdDR5dWFEVG9TUHVZZkNfSFBTc0N6UW1FOFo5bFlySXB5djVlNGxoc2QzRGlUaF9VbjdsU3hKcUgwdnByMU0yZE96enc0ZDhsVHZaYkZaZ0ZQVDFoQmZQUElvcXRKbENjbUlHS1NnZ2JtTGJFeG5GVG9DV1VPT1pfN250RV8wcnlLVy1xNWphWXZhX3REWlRiT2VwQmozVWxNZE1ZSFptUllsYnljQWlOX0haMGZ6dVFPeFRUZzF4N3c4NFlhTTI0c0lScHIzTGR2RGlRZklJMktORFZ4WWs4OVo?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Thu, 01 Oct 2026 20:44:00 GMT",
-        "discovered": "2026-10-01T21:36:19.593332+00:00",
-        "category": "الرياضة",
-        "status": "اهتمام",
-        "summary": "الحوثيون يستهدفون محطة تزوّد المسجد النبوي بالكهرباء الشرق الأوسط",
-        "player": "",
-        "content_hash": "0109259f6cea1026b591424b97103951f2f4fb95636889548352da28c2092b1c",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7718,
-        "title": "ثلاثي مصري يزين التشكيل المثالي لبطولة العالم للأندية لليد - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxQQU93ZEREc2ZUdHdOM1RUU0E0UjFmXzhOdm1nUXI2aFcwNE5QX0hnRjVDcXJyeVZXWllfY3V4TXY1YU1id3NEN2xlaXd2d0kzaG5UdmhjaFBIcXdTQmEwdU5NYzZ0SVVNU2NxYXlxY1dBbU82b0k0dGJfTFNOYi1iVERSenhnLV9zbXpEaEpuWDZaS1hsUzNhUUR5NS1TajNOSVR0ZHdXeHJSbW1PLU83NXNhVXVYVVZLYU5iSzVyR0NSOWdINUl0Szg2QkIwVk9Jd245aWR2SE1UNEZVN0lYOWNtMVZFa1hYblB0TWxmcXhlMGlGSlN2a19aWHNGQ0NpOUxlVW1wQUdva0tMWHFvOW5LQW1ra214aXdBZmNoN3pHb2pRVEpRUS1Sc3JVZjcxR3VBaHVwSDJoU3l3UGZ1Mmk2dlctZmF1ZVJjOHlQc1dtVVdxTkhRT0xKUlhKYnJIV0VLODR6Y1VuV3ZWYUhvX05JNjBYZFZWNGR3LUp5X0xkTUlBaUw4Q3RTWklUblNOdTFXZ1RlTDhZLU5zNFQxM0ZJZmlaMjZ1ZUJSMkNPTFRUcVJRMDROeU5XbGhFcmFlSHJRUW5sUG1xblp0c2JSQVBnNXBNdms2UVNYY19jck5yc2xLcV84S0ZBSWZOU015ZGhTdFotNjJCandSSHprUjlSQmhGbjBOZWhfR9IBkgRBVV95cUxNa1lPclVIbHpiNUpkRVFsVHFnalpKY1RpenRLSjJUMEQwNVRyWDNhTlF5Q2NFSzFlcGo5NHZxY2t1eWViTFBGS29LMHVaQk9vSndGSGxQeTlSZVROQ2NlWWRCTmJ4c21XTnhjMkpmeFZuWGJUNTZMMVVSVHROOFZrMXcycjYxdEVydmxZWThidHZ3VTNGSmNRTnpNY0otMVhkbnFlYXl3TkdvSlZkZUg4cWpwODR0bGxFUWtRWmZ1Yldlcm1aMW84X0JmX3RVdW1VTUlJUXZjNjAwWEtWY3F3aWdFODNfVllxUEotSERsTlZraTZ6c3J3SjhfTlJCR19NTTY2ZHJSWm15NTBkaWp1QXNURW9DX2ZVYng2TXA3TG5fQ1hRb2ZRNzRHSjZCd1dpNnhTN1VyUUttMHlhWE84UVZfV1BwNGt0WEdhV2dhLVlaOWNlNDdiWVk0OGQyY3dkMkVaWGt4S1ZjSWZPRGdaeFd5SGxrYjlPb2lDYzhqNUhKeklzMUh2b2hqblk3eGYwUkxQOWUtXzJYdVhHVTJYV1JoRE4tY3JEaFlmNzM3LUJqREg4c25CMDNCTjlpdkFkaXN5ejF4Zm1GMkUwMUdRYWJmMzhQbE91MTRjZGs1aS1GSTdLRkVhVVdJQktyMlZfZkZaeWNiYzVIWGJuV3gzU081aXlZZVV3QXNrSVdXN2JoQQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 20:34:00 GMT",
-        "discovered": "2026-10-02T01:38:01.339594+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ثلاثي مصري يزين التشكيل المثالي لبطولة العالم للأندية لليد يلاكورة",
-        "player": "",
-        "content_hash": "b776f3aec86432fb3524ad5cc6d896f987cd757951ecdaeb0a1e6b9151f46a32",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 7845,
+        "title": "جيسوس: اللاعبون في صفي بعد رحيل رونالدو.. وما حدث لن يفرقنا أبدا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPOFZaZ2FUaHlQcWhaQzBJWmV5M3J5WTFwQy1XTXdwc3hxOGkyTm9XSEFkWXVFQVF4YkFRRzJ2MFpRYXdzNWFsWllFRzNnRDZYR1R5SHZ2SHBhanpQRVBmQkVhMmRqTnQ1d0I3WWFyS0hmTUprU3gwdkpyLXdUd1lqcWtuelM5eTQ4ZXFBbkxFZFo2ckFWazczYm4xdzN6dFhhNzVUSTRtOC1MUTFWRXpTcWJqVElGblE4ZEJqa25ia3h6Q2dyRHFBMHo2Q05SdWJ4allVRUZLNjVSZjZJMnlNSTBtY0s1Ml9mRmFfZ3VZSWJiaDVpUlc4cmhJSEd4M0tfWlVpdkFaWVM2MDZrLTF4bTIwSVB4N1BMRVZVbTFNcE9nT3FEUk5CQ1d6alpycTZJd2d6M256bXNiTkU2TXNuZHdGeFlhNXhDOUU5Z3NNdlY0cV83bktSTmtCT01fM19RUmgxbWtmR1RoeVdPVnZVQUoxUVpTQmozWEw5Uk52M0JZbE9FRlcxQTFSTkJFendTcjV5bERCRGdobVlpY292V2gtOGlza056cTdJb0hjdXZPMDBNdFljSF9UZFBfM09GU2VGV3hJUktlWWU0d0tsVjAzc3BlYUJGcW1LR29uc2x4Mm1vbExmQ0M3dndHVXd30gH2A0FVX3lxTE9HREJXTTVtdVQ1WWVWUDNlaVE0Ul9Db1F6Um9kSFRhTTRmTTB6SjNuenBURlNpLVhmLVo2Nm5SUmpyeWx2eUhyTDdrN3BsVHlRMVhhdTBZVGV5b2J1WXYxVWt2bUFYVFExSGRvLXFTVWV6YVZRdEozSGtkZU02R05lM0lsZ05NRTh5ZUNaNUgwZ1k2b3NwTlBQRllOMHRYd0F1al9vbXdPY2l6bk9ucnE1UmoyRVd1M0lZdW9lcVgzajBPeTYzajVIa3hDa2hSLXE3b2VOVHRickhNaEhVRUxFb250TGVURGtPVkQyM0RUYVY5VklaSkFFT0ZUWDJ0ZjRxdVRUaTYzNTZ6TDM5ZE1tQzRLUEFsWXpfOWlGTXZ3TGxPMDFvWTF4cGQwczAtYzJYNmJrbjh0SE9PTDNJNTBqZU54UjlrVlVzMDZadjZBRWxmUnY2SDE4czZReVRFOWd4aWpxQmhlS3J3N2Z6LU1RbnpnVklpSFFxRW9LM2xIR1RfRWR6cDBMcjRIMTVBRlIzZ0RBVFYySjBmZXF6UHRyVHBmRFN2ZVJ6NkN4dDBNOTZ3MFRBMldiUzg4Q2NUVWhOSk9BeHNzLVJYeGZEU0xUVnM1SzNiMUhqcWpfSk9RdUhNVDdfSnN3QzgwTXNES3Juc2liV3c?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 12:04:38 GMT",
+        "discovered": "2026-10-02T12:47:38.215100+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "جيسوس: اللاعبون في صفي بعد رحيل رونالدو.. وما حدث لن يفرقنا أبدا FilGoal",
+        "player": "",
+        "content_hash": "0ba3bb50eb52254a24c203be3e68dd3772ef139bb8d3ea501e3108a51ddc9050",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 7831,
         "title": "رفقة حسام حسن.. أرسين فينجر ينضم لمدربي إفريقيا في مؤتمر كاب فيردي - filgoal.com",
@@ -2040,22 +2072,6 @@
         "section": "transfers"
       },
       {
-        "id": 7343,
-        "title": "\"فلاي دبي\": شجار وقع داخل قمرة القيادة.. وطاقم مناوب تولى قيادة الطائرة والهبوط بها - الشرق للأخبار",
-        "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQY0tDOTBCcjFlXzNubzlNMWFlZDNHQnAtcTRBLXBnQ2NUV21sV0V6cWsxNjl6dkJEemhIeHNmLXd6NTJQa211SkxNeE8xOTZhWjBoSHZwbHBodjN2MEpqNHlyZEk5b0Nic3p3RW1zWjA4NHg4OV9sa0hpbGVmSUZoUGJ4UDRzZXduSS1xN1FmNWdqYnR4TXpqTm1PWTJ6TS1SWmZzWWVXOEhWZVhvUDEyLUU4VXBaa3I3YW5HQWFfS1RqbGFBalZmYmZ5SjNHUE5qYU1ndWtXR0tiYnRJdDlYdTNPVTJfc2UwQXFVcFpmUWhJUldpcnZMZlgyVTZ2djR4RnItZkkwSUFjXzhrWTg3aTlaeWVBU2tyeGcyTFZ2RFRVRWVqX25nekFKaUVUaW1lMnZ6YXdxQm1vQzBYMkV4TWZuUzh5czNNRW1JQTBzS3VCaW1DVnZfejBkQW5VandBV1VpQi1iWkJ5ZmcwMlNzZWR5bEc4NmVSb1JlQUlsaVZtWXUwYnR6LWVDVGcyVGlhYW1kQ2FockpZYkNFd2diY2xiQmhyYkNTYlRQajJhZWV0VjZEbGNxU3BMSnZvSzNIVlVjLTRJeVlNTUlvb3lmNQ?oc=5",
-        "source": "الشرق للأخبار",
-        "trust": "B",
-        "published": "Wed, 30 Sep 2026 14:01:07 GMT",
-        "discovered": "2026-09-30T23:54:32.476808+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "\"فلاي دبي\": شجار وقع داخل قمرة القيادة.. وطاقم مناوب تولى قيادة الطائرة والهبوط بها الشرق للأخبار",
-        "player": "",
-        "content_hash": "783cb6f5bd95eaef532386cd6305b45843c65de54e13d1fe4146c712a000d118",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 7625,
         "title": "البنك الإفريقي للتنمية والمغرب وقعوا اليوم اتفاقية تمويل بـ270 مليون يورو.. توسيع وتحديث البنية التحتية يدال المطارات المغربية - goud.ma",
         "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOdmt3eTdNOFRTVWhuVTJkOUd4NjJ2QWhIbzVkbHR5eVNKYWdfa283VFM2b2dlOG5PSHY4bHBhWW1WbDViN2NlY0NkWE9IRGpZQU9EbURaYWpQYkJLTWRVSDdnWWJQRDdkTC1DNlFnV0pTckNwLWRmUENhdlhoRGlNdzlNa3FzSUt6M0R1OFRqNDlZUWk2c2xKOFJneUV5Q09mXzRjR3cwN3I0bUlBcm1KbVRaaG44bURJVFozN29wWnlnc1lPWVZjdUVQcXFqUDFwWTVQd3hFTFcxNUNLTUhrMWtBWnE1U2pXdlZQUjZWM3pZWGlBX2pkamtnVUFwWmMzTEFkby1UNHVxMHRDN1RxZUlBZ3J2dGJhX2xsRENsQzBsaTh4ZER2NUxDQ09iVE9lb2xCRTRvdkFTQ2NPUDZ6ag?oc=5",
@@ -2068,22 +2084,6 @@
         "summary": "البنك الإفريقي للتنمية والمغرب وقعوا اليوم اتفاقية تمويل بـ270 مليون يورو.. توسيع وتحديث البنية التحتية يدال المطارات المغربية goud.ma",
         "player": "",
         "content_hash": "61d75559c181da8ad998783ae848b4a8f8427d0f4d835e0f7dde412d23ef7d94",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 7799,
-        "title": "بورصة الدار البيضاء.. تداولات الافتتاح على وقع الارتفاع - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxOWllnSmpnWl9acmlRZWY4R0pabG9LZXVhdmJhdUZORG1ZOXR5eWhiR2p4ZjljYTNINkFpVEk2MlFWR1hmRGY0dmE5RlJScFFvVGxjNTVUdXN3cUFMU0YwelZteHBjVEEzYXJPRDZBbk5obVZRWEwzQVVEb0Zvemx2MlhKeFVOb3Q1RGdSY05xMFNaZ3R3T293aWhoXzN1MlIzc1NUWXVFSE1UV2swaE5hbVBDWkw5VHQxSzRfbC0yRUhfY0tfY2dGNXJfTUE4VDRyLWhrU3ZiNjlMNUx6Ri14c2FkRkxkbEVZTnBjTDAtWjV2OXA1TGV1dS1jdVBOTXVQVmdLR3N4VjNieVZjYm9JQkM1aWl5ZHpLZmcwd3FVTzBadXZLUHpDUWdMRTRGU0QwNGJiY1FoRS1QdHp5MFdCdHhFQUVmTVFZNzdaQXJRQTVsZV9UNHhmM016M3JKQ1BZUmhtLWhXTjY3NVZPNmg4Z3ZxSTdBS3RFLWlKdjRIcmVxOW9GQXNwTzZVSGxtQkRDY1hLUURJU05vd0pKUm5MQWhSa0NxTTRIZjQ3SG5WeThtUld5Q3FxNkhPamhZV3V5S2ZxdmEtZU1ZRnBKTlh6LWYzUVdCZFZXT3hxZnkxV2tsWTRiRmZva0E0NEUxZEVjTDNWVWM3OWtsSllQdXc?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Wed, 30 Sep 2026 11:35:54 GMT",
-        "discovered": "2026-10-02T09:20:18.623655+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "بورصة الدار البيضاء.. تداولات الافتتاح على وقع الارتفاع | MapNews",
-        "player": "",
-        "content_hash": "3e3deee17e656d3fa845cccbd3c5856e6839184893866ec9e296a9b0a8f44396",
         "sent": 0,
         "section": "transfers"
       }
