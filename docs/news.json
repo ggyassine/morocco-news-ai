@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T03:01:50.542261+00:00",
+  "updated": "2026-10-02T03:20:35.324010+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -404,22 +404,6 @@
         "section": "morocco"
       },
       {
-        "id": 7242,
-        "title": "بعد تقرير أمنيستي.. وزارة الدفاع الإسبانية طلبات من النيابة العامة ومحكمة سبتة تفتح تحقيق فانتهاكات الجيش الإسباني فحق الحراگة - كود",
-        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOOHk2WkUydnpJOW5jUHRLUnZYVW1ET0RVTGxZNWVKUzNXVUNGZjRtdDVYaE1MZnFNWWVFMEpsRGF3VEVfNmJVd0FScnF0V0lhX1I5T1c5MExzRW1qQTNObXctNE5zSDV3RVdwcWprbHRNTWE2UWpnRW0zVDNCVThwcnR1eHViLXVUOE9CTTBMRFFCTXZRQXlkUHNnS1JXaVpBd3F5dC1hM0tJTVd6bElCSnh0UkdfV01FTkpqemFRV2tZeldUNTJsWE00LWFhNWhSSHFWeHh3clk0QllnWERianVOVnNrOFBaVzBsMjdsQjkyVWtYNllZeHFSdUpKZ05MN0NKdi1aSVdRZ000M05sUHNlbWFXUG9DUVpXMFVQbDM4b1FKS0Q0NnNCWE0tb0Vkb0lvVW5JS2x6Q3Q5cm1SNldMTHR4NUtCOWc?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 13:55:33 GMT",
-        "discovered": "2026-09-30T17:58:28.885956+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "بعد تقرير أمنيستي.. وزارة الدفاع الإسبانية طلبات من النيابة العامة ومحكمة سبتة تفتح تحقيق فانتهاكات الجيش الإسباني فحق الحراگة كود",
-        "player": "",
-        "content_hash": "a7dd1a148c7084506e3ff2dd981d27e9efc3ab0378156b50ef342f6c1daee8f7",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 7542,
         "title": "النيابة العامة تأمر بتعميق البحث مع عمدة طنجة وتمدد الحراسة النظرية - Hespress",
         "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPVHZ1azY1Mjlyc2dLLWVnQU5OZmdydll1SVV1RlBZWk9TT2d0bkZYd2hwWE1lQmp6UThVREp4UWsteGg3eE4xRUNDaEJvcEpkYXF5X0pjaTgxTlV0LUt3bXdXVDBSQnBQSnN6VUw4RGhGckxDXzZjUVRSZkNCSk5fQ2k2VzBmbko2N0FVVjJrOTRTX1VBbmVNQlN1ZUUyRHpCOVZsYmdDN1pMVUt5U21BLUZzVEZXNFdTZG5sNVRPWEFJcHBYSkRUNFJiMDNPUmVYS0UxSURoWm9MSklqeE9xOG1iSUl0VzQtOFZLeUV5NjhKMWJycEF6cjVoZnpXeVlWd3lobHZGR2pIZlRMaEZEYzZoR2JOVnRmSWoyYV9UU3J1ZkwyLW5aUzBYWkRTa1JaZjNwV3A2R1VkY0tpTDAydVIwQkMxbTJCZHBiUWg1ZXpRc2Z2SVpJ?oc=5",
@@ -480,6 +464,22 @@
         "summary": "الكفاءة العلمية والوعي المهني شرطان أساسيان لتميز أطباء الأسنان المستقبليين (عميدة كلية طب الأسنان بالرباط) | MapNews",
         "player": "",
         "content_hash": "9ef5ddf081d8ee56845b36cbed33b5bb7d05ef2bcab306af4d7dd806c465c5cf",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 7402,
+        "title": "مهرجان الدار البيضاء للمسرح الأمازيغي يطفئ شمعته الثامنة ببرمجة دولية ووفاء لخطاب أجدير - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EMUt2RGpVZXZVVlluR1FXUEp4YlRRUkh1bm5JeW9Nc1k5dUxYZEk3czBGNlNRTFVxU3lKckNxZ2NPdUxZa0VWdFhvSHhBOEtJWnBIVldKSnQtbWY0a0RYQ3I3RkN2Zw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Tue, 29 Sep 2026 23:04:52 GMT",
+        "discovered": "2026-10-01T03:52:49.060775+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "مهرجان الدار البيضاء للمسرح الأمازيغي يطفئ شمعته الثامنة ببرمجة دولية ووفاء لخطاب أجدير Le 360 Arabe",
+        "player": "",
+        "content_hash": "0a789156f8f8ffb538703e50ebe9e0e9be7a06db557b13c6e82b952a2356732e",
         "sent": 0,
         "section": "morocco"
       }
@@ -646,6 +646,22 @@
         "section": "sports"
       },
       {
+        "id": 7745,
+        "title": "جدول مباريات اليوم - 2 أكتوبر 2026 - بطولة كأس مصر 2022 - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ04xeXRkbWZyME5jVXYzNEpySmN1ajFNR1pHcEFyU0FIRWo0bGhCbUF3WWdmZ0E5S3gxNW5jajNTWDBmbWNwNFVibUQzT0VhM3d1VE44NGxWUENZSW1uUVgxbUw3c21TMGJhQTViOGdOUzY1YzVCQVo3SmJZMDctaXgtQUJlbGZQU3JIcmRvdjNHYk1TWG1PTGk5Z09nelhKcnh4NlNPSllWY2p0YWVwMVEtMDBBMTBVem1DMmQ3UHR6VV8yM1FQUUVB?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 00:00:05 GMT",
+        "discovered": "2026-10-02T03:20:19.938735+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 2 أكتوبر 2026 - بطولة كأس مصر 2022 FilGoal",
+        "player": "",
+        "content_hash": "f09e6d4662ed87ebc14b952812b3192726f02efdb661769377bb70c70754a277",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 7673,
         "title": "أخبار و معلومات اللاعب جيانلوكا بريستاني مهاجم بنفيكا winwin - winwin.com",
         "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPeUpDM2tHN2xjRnV6aVRrWlAtejFEODRHRU1pNWVIM3VYUVBhR0w2bVBpeVlYTUJWc0RRcnY5cFpGTWpxY2RLODNQbnAxSzJBNlIxVENWbXhjOUdhejRzeHluckVCb3lqemJFMzNYSm03ZXM2UTlxeHExeWZnYzRETHhrdW5qQ2hiYU5WZlZBalVUbENXMHZKc1FJeThrZlVCRVBYUmJiUmtaVDh5bENqaGU5M0J3SUg4cnVmMXZoLVdYOU1RZ2NqSnE5cUdJWjBnMjNiNEJrU1l5d1dld3pjYk5RLXcyeHBxZzZYV3VmZVg3blZTcUY0ZXU5VzJTcE8zVzJPZjJlaUpBU2ZpbTZ0ZzgycF9rN2pKWE9YR0ZpR0oyUnZ5endzWDdOaTh3eUEx?oc=5",
@@ -786,6 +802,22 @@
         "summary": "تتويج الأهلي ببرونزية بطولة العالم للأندية لليد يلاكورة",
         "player": "",
         "content_hash": "cc22414235ebd6f85366a6c98834e4c3b329e4dd3be3cc89331093c7532e3155",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7744,
+        "title": "كرة يد - أحمد عادل: \"أخدنا حقنا\" بالفوز على برشلونة في نهائي كأس العالم للأندية - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xSGQxdUhITHNGNjBlREtybXIzSW00dFlGaS1Zbm52UF9jTkpMVzFfQm42SlViSmZsU3o4OGhTTVZkRVVUcWwzZmdPdTlyZTNj0gHQBEFVX3lxTE1oVnR6QXNxS0p3d3RxMmhiVTBibmgxTE9MOVFveHY1M3hSRHRLLUV6MUpqV1ZMd0Q1dkQySkhnVzhBN2ZjYzU0YjN2X2Q4Z1lPdW8wYmtYa3ktZENZVGltM0ZQUHB4dHRKSWtDajh6UWptTFBRUmxpTmFTQk9JTlJOVlNRRlhkMmRLNkk2OVhlVW1JamcyMlRUVTdEcmVZeHhtbTJlekEwOEpHXzJycGNWMkhvNFNOT0dERG9USXhHT3FWNEEzeDJ0YlNVcjhTWWVQV1QtaWNmRVcxMUkxRTMtVVBzeEpHdGtYcWZHTXVvZjJrQk1lZ1ZZdU9JZUVUVEVqZjRUWW1DTXRqOE5xeEotUEVFVzY1R2Mxb3c3dkJqMVJlUjRFRm5ySXA2eWVhZHE5anRkVG5Ra09nMjBjbmtKRzQxUmZVcFU2aTBEdVlETmVJQ0RlS1N1Q1BRVGJWZV9OdnVzN3lEQi1udHp3aV9sTmJpcFdwa3V0YXh1cHM4OXdmRW42TDJEU2FBWURBZ3NZZndNeHlRZ2M1SzZtNV9BLVNDVVpCUW9NaHJ4WlZYVFRMajBrMk40RXdBN0FTTHFjWHYwbzJpY3kyM1FWY0pVd3VYTWtOMUw3OXVaYW9FcFVMc3MyM1g1Z3lEZVlSaXBQLUtXSnNTeF91Mm90dkItNXFkay1kZ0FteTlsMXJNbTRiM3dZekJuajE1UlM0T3R6R2lPZlU4TWpublluRXIyOGxHU1pWdkVuZWdoeW9wRlJOaG10dTktTWZCR1pSYjg?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 01 Oct 2026 21:20:00 GMT",
+        "discovered": "2026-10-02T03:20:19.913843+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كرة يد - أحمد عادل: \"أخدنا حقنا\" بالفوز على برشلونة في نهائي كأس العالم للأندية FilGoal",
+        "player": "",
+        "content_hash": "498217292a10d096629e35d6ee05897c5299b6c07b438368371b29b4f3b64f08",
         "sent": 0,
         "section": "sports"
       },
@@ -1250,38 +1282,6 @@
         "summary": "دوري الأمم الأوروبية.. البرتغال 2-1 الدنمارك.. راموس يرد سريعا يلاكورة",
         "player": "",
         "content_hash": "4da01e9b0790ac9a1e7faffa7c5ca053117798d5623f6e72aeb9107d406fd1d8",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7606,
-        "title": "دوري الأمم الأوروبية.. البرتغال 0-0 الدنمارك.. فرصة خطيرة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxQNGZuQTg4aDB4cHBqX1FvanZ5QWlfbDAxS3otWlNLOW4tTDVaQXBHajg4NkZfbERyT0szXzNNVWpCbF9BWEllOVRNWlA4bkpsdDU3clhsbklDNUZZYmNmX1NwUm5yZzJ3dDdoRkRQTlRMWlNpaEtJUmxSeDlkb01uSUVWeUlJV25iMnRqVnJ2SEI5Zk1wMlZjdXlYZ2g5aDkxMEgzMzRsZmhSUXY5SGljc0xjRGE0elRISUplWFBqY2I1MHpPbUJfeTkwQUphRzNqNF9xSVFDWmxCbjlJV29PdG1xdkE1MGtoWnpZTlVGSXFSZXp5VHNrRWFYTkhRRmNNUVFpNTAxMmVaQ282R0R2VE5abjJvQWJLLW0zU0tYWEoyTjNuZU4yZGMxaHU1Y1kxY2dwZ3NPdG5zUFp1ZFRvU0JKWjJISm1KbE1NMF9pTm5hM1VpR0RCeHhycGVEQ3VydkxHRVpwQjIwXzNnZGVBRkVjX1p6Uk1jRUdZYWdDcTdvanFLeGZ3NVRzZXF2SGJuZm1VYnRhUFExcE1UODlfaFFmMVlTRkRtbkk2M1hhMFBidUVfUzNaQU9mcF9mSFdUbW1pOGpRV1Q2YjVnMDdsbUhTMEE1d9IB2wNBVV95cUxNa1RNUTNtV3BVS3JGR3BheGVrRHhsMWI0M2tVaTFBcjVHQndkREktNnZ3MUNXUnVwc0hvYUYzVDBOZFR2OU5zY045UkhfdmJwbEtHZ2FOd1BacTQ1MDJqMlNEUTNLVlR1QWZVU3o0X2hRb0V5Z1FSdlM2T0FQTy1vdjFYanYycmo1dzNCNTA5cy1qTDQyZTRnUXRUZVN0VEpTQjA4RXhzcnk5Yk51aVVPRVk2bjFCRTI3S2dzdTNyS0VuVTdUaHBqSTFyeUxJUm04dlJ3Q21HdlFDVC1qZ3gwOGp1NkNsXzBnSmFzNkVTZUZldkVGWGxzdW5oQkZBeXlJYmIwcndMcV9Gc09JVnVvc181WEc4b1JGOWlFRGhZbEt3bUNpQWZrY0Y3bzVreFFFZGltSnRyRW1Oc2VlRm1xTzlrRlZVMTB6cGpWTWhvTENLMklNRURtVUNlM3lJWkhuX3NrRnozMm8tMG5XaEtuRU1rbGRUYTA3YXRTXzhlNFJRdWZndDh6TzJiZ1hDaURXSmlXTHM4RmZybGV3d3BBRkJEeXZaM1pqV0NwdjgtbmRxbnN6UWx0LUpsRC02MmMwVUduMFUzV1BOY1dMcmRuSjhMdkNqX0Fsa1Z3?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 18:38:00 GMT",
-        "discovered": "2026-10-01T19:21:26.236500+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "دوري الأمم الأوروبية.. البرتغال 0-0 الدنمارك.. فرصة خطيرة يلاكورة",
-        "player": "",
-        "content_hash": "2dc0a1e8d55abfa9c5392547e2ca01781c2a6e7c13f7febbc64d4d5583f07957",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7601,
-        "title": "دوري الأمم الأوروبية.. البرتغال 0-0 الدنمارك.. تشكيل المنتخبين - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxOWUtKOVBXOFNtZFBNS21WSlM3NlVSV2YtZ3BKUFFMLXNnTVZCeHhncF8yME5tc2dHOTYzNU5zcndjNzhnY1YwRnpob1ZScFVYS2pGSm5GeDNhZGQwM0dwVS1RLUNKamxIOGdsVHJEYmlrVE04YkJ6WDQ2N3JmbGlPYUE1NFVIUW5vTlNQNmxHN1l4Q1A2S3ZRbUZrbWNjYjBvbElDSmhEbEFlTlp6V0dCdEN3ODFPb3p0LUVfYlJYUjR6dkVtcVRqQmJ5N0xZeFFNZDdDZTlKZXFkVEd1Q0tVYmlLYlptcHpWSDhneEhoVUdRUkFGTTZpNTJUSWtOWVo5WEZQLXFEc1hWNmVZRGFZV3NQSmRMcUxONmpzTDlZcHZKbUlINkl4WTBmcVR5OXIyaEEwNE1PRGVYaVA5RFhFeml3YUpHcUF1ZDNib2UzOVRBenVZZkNGeTdLT1lrQUM5RlgxMFhLbEt4Q0JYV09UaUlWN3poWmJGQUI4Q05Md0pOSmszbW5PenVFTVF6QmJsZU5pbWpRMzZuMkUxYkxweV8wY1N5WTYyd2ZMRmlFZHdOU3BNcFFVRkFkNWZ0Y2QyVnNYRHl0YnZJbVROTExYZXVNc3FKUUw5SmV5OWQ3d29LQldCM0VLbjdWSDh1THE4SUZ2Z3c2aVE3dkVRN0HSAYMEQVVfeXFMTzNyekttZl8tQnNoNEIxZWY3RHhUc0o0Y0lJaTB1dS1XaS1nclpYQzRpSXprblJRQzg2clExV1NvZFRSY2pLM1JoOE9nWXNoN3RBSzVOM0luUVNQOVN4TF9YRHUxYTQ0OVJaeEtZeGhWZzVFOGdKclp6Y1BYdEQyS0t4V1padlg5UE1lbU13amR1dnVWNk9hTGxnb0lMZkpILS00c2tjUUYwRl9uUElfZEhVOVZmWWhuOTFvUUJIVnZYRlFpVnZmRkx2aXlSNzJicS1FVVFvWlhad1VLSEZGNmstZUZQaHZoUG1TSzBjRlpVWDZtdGxJejlaOUJPM1p0OTY1Nm4ydlJmN3N5cVczN3Uwd1c5QzJQNlQ3SEhLVlBRRFRCSzRtM1AzLXJwazFqZ3Z4azBuVzQ3TGNWR0NWV3pqUmszU1JMYzF2dWJXWWxORDd6VjEyZzM0eDBBc2VBSmxlbnMxMGZrSzd6dVY1WWh2NE9RbmNYYlNvUzBkRTJSNDl3LTJ6UGxJVUdScmlOcVhtanhobjhsRnBrS2R6Q2N1TURGNlV0eHBCcXVIb2pydTNWVll2RmxGOXItVjdhR1lwaDVKd1NhUTFiUVhwZ2pvQXJJbVFPcGpBTERuaUo0ektJRHpkMkNUVEZiaGdmbG4xR044Znp5YjR4d0ZVMHp1RmM?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 18:38:00 GMT",
-        "discovered": "2026-10-01T18:51:16.061316+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "دوري الأمم الأوروبية.. البرتغال 0-0 الدنمارك.. تشكيل المنتخبين يلاكورة",
-        "player": "",
-        "content_hash": "04ed5961a0a2a0a6fa7d26188211fa226838de8683add964f086e37cfe4aa42d",
         "sent": 0,
         "section": "sports"
       }
