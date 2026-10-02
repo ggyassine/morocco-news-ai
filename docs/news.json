@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T02:20:54.966355+00:00",
+  "updated": "2026-10-02T02:35:43.455334+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -32,6 +32,22 @@
         "summary": "الوكيل العام فطنجة كيكشف معطيات جديدة ف فضيحة “اختلاس أوراق التصويت”.. وها التفاصيل كود",
         "player": "",
         "content_hash": "323b96e7893050eaeddf41466593fe449345a391927ea194f4f2913ef9cd4c65",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 7724,
+        "title": "مركب محمد الخامس بالدار البيضاء يحتضن حفلا ضخما لمنال بنشليخة يوم 21 نونبر - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qMXFveDRqQS1FbUZrSkRyNWZ3S3RRZXNNeWUyTVRpZVYzNlFlSjJpNUh4M29JcXRmOFIwVnJsN1Uzb3d5bUR3Q0tqTnVZRFE0LWI4RGtJWW5QNUxSWWFuZTR5LVJCZw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Thu, 01 Oct 2026 20:33:55 GMT",
+        "discovered": "2026-10-02T02:35:16.642671+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "مركب محمد الخامس بالدار البيضاء يحتضن حفلا ضخما لمنال بنشليخة يوم 21 نونبر Le 360 Arabe",
+        "player": "",
+        "content_hash": "2ef5eeff2d3c5fdac8868788f2695b139916cb190372b570146e353fba6f76ec",
         "sent": 0,
         "section": "morocco"
       },
@@ -464,22 +480,6 @@
         "summary": "الكفاءة العلمية والوعي المهني شرطان أساسيان لتميز أطباء الأسنان المستقبليين (عميدة كلية طب الأسنان بالرباط) | MapNews",
         "player": "",
         "content_hash": "9ef5ddf081d8ee56845b36cbed33b5bb7d05ef2bcab306af4d7dd806c465c5cf",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 7402,
-        "title": "مهرجان الدار البيضاء للمسرح الأمازيغي يطفئ شمعته الثامنة ببرمجة دولية ووفاء لخطاب أجدير - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EMUt2RGpVZXZVVlluR1FXUEp4YlRRUkh1bm5JeW9Nc1k5dUxYZEk3czBGNlNRTFVxU3lKckNxZ2NPdUxZa0VWdFhvSHhBOEtJWnBIVldKSnQtbWY0a0RYQ3I3RkN2Zw?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Tue, 29 Sep 2026 23:04:52 GMT",
-        "discovered": "2026-10-01T03:52:49.060775+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "مهرجان الدار البيضاء للمسرح الأمازيغي يطفئ شمعته الثامنة ببرمجة دولية ووفاء لخطاب أجدير Le 360 Arabe",
-        "player": "",
-        "content_hash": "0a789156f8f8ffb538703e50ebe9e0e9be7a06db557b13c6e82b952a2356732e",
         "sent": 0,
         "section": "morocco"
       }
@@ -1560,6 +1560,22 @@
         "section": "transfers"
       },
       {
+        "id": 7727,
+        "title": "توقعات ببيع 6 ملايين وحدة من آيفون ديو القابل للطي قبل نهاية 2026 - العربية",
+        "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxOUEF2dkpGZUlMRmFOSmNxVlduVDZMeUNlVzRhTXlmV1U3cWUwQjZyR245SjQtVXZUbTd4NGwzd1djV1NUQjdKcWVOR0UtRDJsd3puUXA2SXRobVEtNVliSW1XRTY2ZXkyUnpybGFmUGN4NXVsb3ZXQ3FQTG1kNEM2bUVQa3lnUlE3bDdhYmxZRk16ak12SmZzQ0FjaTJLejdNeS1FLU1QLUVOLXBsYWVDSWgwdlBuMTNfZFhrdVdzS193N3hWY2hSazFlUzdzZmhsVG5wNUxrY05TVUxZRjcweERFdnZtSUdiaExodmdEVkc5TTBYRXdITGtrd3BvYktWS3BCTk52X3FBRjVNT0N0dlJjVk51SGhPNDlxQnJ0T2FQZDY0ZGZocTY2c3ZoMDhQRWhYQzFRZGk4N0dUTzA3d1hZdGlUN2JJdkQzRWUtbXdoVjREQnpYd1lFOFBXeE9WRTR2LUFwemFZclhQWkFCU1NGN3UyZV82Q3pSRmpUMnNzbExOYTZFWUpBcml5cXQ3TkhwUDdfSkVvWUFUWUdTcEw2ZjNmR1hPVXc1NFZZRnpWZVNNM2tPdUlVakdpLUxCQklZcGp2UF9Gb3JPOHlXazk0WlZCTVFrd0swbUpfUE42TXE1QUw0aWE1MGVRSVNLdDBTajhvSU1MUGw3a3dEZ0Z3TDXSAYoEQVVfeXFMTlBiSjUyTUtHR3lNdmYtRDVjb0F4eVktVjlOdlV4OENyUmxnaXd5b1Awdk1tM0xHdDZocVpGcm5wWkpxYkp0THRmTHZnVmwtUUltTXdRWFlLeWxLdUhGbHdsMGZtTUE5RzE3bUJiR0pxcHZBM0YzVnBzOFJTRVJUTE90d0VHbFhiRUpCa0ZUdTlHXzFyazhmd09sTE1JbXFPUWRwLXRMa1FwVlVoSy1jSW95YjJaZ1NIWFlWdk1weVRlWWs3Z0dVQUp1aUFqc3otbW82MkdSQVp5Q0J4RkpDckNSQWIzcXhXeDlxMmVIOVZwLUY5M2RPN19BdXpWTWFaTmhzSWNkWlN1dzFESmZ0a3JSbDNwQ1lyOExZTHFzRmtPZ0tCMmFvei1fRkRFZm5pbmNsTXFiX1JiUnZqVHRkR0NhbXh5Q2hnODg1eGFaM0V0c2EwZkxIMzA2ekM1U0syN1NSUDN2b2lyUS1mNG9nd1pmTjg2ZllORVFkSHQxM2UyVWVJVFYzRGlldG9oWmpRSFJaYUNXeExYNUtVYmg2ZjYzUGFQZFdDczlmMWdVa08tZk1yd0pkTzRFMzFjZ1hESFdwUGc4QUgwNGppcXp0dk1HUUpYMEp4cGo0MWdEQ0djdXEzOE1SMndqckpSdjBjNmRmaXZseGRlSXNPYjZ3LTBsQ280NVc1N0RB?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Thu, 01 Oct 2026 10:38:00 GMT",
+        "discovered": "2026-10-02T02:35:34.844952+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "توقعات ببيع 6 ملايين وحدة من آيفون ديو القابل للطي قبل نهاية 2026 العربية",
+        "player": "",
+        "content_hash": "e0b3f0e8cdb4ebad43e09bd8f9b2f9b8937fac477afca493c4839a5f73ddf665",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 7476,
         "title": "روبوت الدردشة في موقع أميركا الحكومي يردّ بقصيدة من \"ماينكرافت\" - العربي الجديد",
         "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxPNk42QTdlTExYZ2ttNjB1ZC04R0h5ZjVmNWhzcWcxdDg4eVBVLVdnQTl0bmFPQXVfajRCS0haV2ttcjZiaFFBNlJxU0tGMDBIc3FNR0R3RFQ5U0FYZ1J5cXRnRkdDRTJwVFBrMm1LdTRJWEFESnJBaWQyOHZJUnZTM25lTXhhUmstVzh0OUktc3RVWWJ0MGtnM3RzTVRKNkhjS1U3Wml0NDBwamc1WHIzTG1kNHQ3Y1hJd2F2NEZic1RiRmppN2luOXdZN3VHUVBqckFIQ3R5cVVLcTV4aTBUX1hMQlhnamUwRmlRWE5vekdmTUdOaTc2U2FuWENlTjl4X3NhUEhKNFRNcEI1emZBQ0d3blA5YzJtSEJjaC1TV2lUd01rU0dERkx0TTRpVW44b3JzUU82TDI3VkVuNER6MlVNaGhNNlV4c3ViWWlOUUoyNkdIMEZUWEJXT1hJS0FjZzViMW9HRG9RY3NtcU55eDUyS0h6ZFhmSU51cHVPQkdGN3FuaHN1eUl1MEhJSzVNTUxBOUlId01FdTBjQ1M1YXB3SHpQWGVrTnJSMlZkWkMzX2h6MEtYY3JwZ0xVN2t0blNJTkdlNWRsbFdkWGFzS1Nadm1sNS1aY0MzUW80RXhtMTZyMHZVRlR4RC13ekpUMUxkQXRYLVFlM1JQZlYtbXVYaDZ4QdIBiwRBVV95cUxQUkpJaHlDNUJJU3hnRmhGaUZ4LXJma1E0MHFUNUgxN1o2NlNpSW5OZExPc084YmI2dWVKdnByWG1Kc2hWU01PQlpvbTdKOGs1djdQVmRxanZjS25XdFdLVzZHVmFNZmRRdzdZcTF4SnJFQ1lDcmFCSndIa21aVUJnMzQ4bmt6Tl9vMnpLcU5saWFOdFJhdl9Uc2NEOUQxRElwcGlCOVZiMUMySDI0Y3NDWEg0WTMzOF9XMTdkNTRITzJtdzhWd2dtRTVUdFk0ckt1cktuOV9kcl9LMFVhaF9ZY1R6dlZIYnYtbDF1cy1wNU1yam82THlPR1lHMU0zTW8yLUpWSjlmcHFvWkVuUWotcm1HSG1MTXM2VmdtVGJ1c240ZkpSelRlelp0Z2JZalZmMDdpVDJXUFB0d2xMd0ktZ2MxVU1rVUhiZEFLLWtWZlZTc3RhQm9KRGJUWUhNZHdsdTl2dzVYVU13VHZlUDczMUhsR3B4WnNTTXR1VnNpYmVxaDZYMzJKNEFCMTE3MFlCTmpyNmtwazdOVmtBT0tOc2pOM2N1OU1ZNkwtVjB5YWhoY2tTd2txeHhURDJxTXpCc3R3V0lHOTQ3ZUs0VG8wMlNZWUNlUHN6Z3ctRWpVYjZreEF4QVM2N3U1Q2MyMXJMenVhTXVFVTItR3pqZVVaZ2FVRGFNc2JMOFB3?oc=5",
@@ -2068,22 +2084,6 @@
         "summary": "الاتحاد العربي لكرة القدم يعقد اجتماعه برئاسة عبدالعزيز الفيصل عكاظ",
         "player": "",
         "content_hash": "a7fa505638e77b92fc14998235a942fbe53a15fcd69e92b0832d3f890a18e0ee",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 7534,
-        "title": "ترامب يوقع اتفاقا طوعيا مع قادة الذكاء الاصطناعي ويفتح الباب أمام تنظيم مستقبلي - العربية",
-        "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxNUUItQU5TOGV2dnRhcUZoYVI2c0lDdmtpcWZ0WV9qQkJSZW9INXNfX0JkTGZvYk9CSVNMZlZkOXZSRWc5V1dKeG9QYWpCNmNRdG5iaUFwNS1hUWdwM282eEJDYVlxd0JWZ25fWmRLbUdQWW5ZT29VZUlwbUhkMFlRTGt5RE5GejNIU3h4bjNYVDE0RGxtTjk5YlNDRWlKRVdUclBRMG1LMGM0UGJtcmJkUExWMDc2bWRqaTVkYXpmeGhMazlidUJCSmJITGpYN2IxS2RTSzBGY0kyYzBEQ3Nxd0x2Z0JIVnBoWW5fVndjS3B4SXM0Y2FqQ25rUi1IdHVHR3Z5OXMwcnhTd190SXFMQjRJcm5fYnotRTNUOEhMbHBEcUZiblZnWGwzR0tFTFdqR21pb0I5UkJ2ZmhGQTRfNGhaTTFLZzAteFFmX1BKdXM4ekR4dEMxZm13ZlhaU3JDMGtjLWx2Wlp3U0hGTVZCam5hS1NkQ2pDOVY2T0dhUTVUa1djek9kclRuN3BDc0JKSlNKaTZrcUNYS1kyY0ZRT2pwaW5CNkZWb3IySTdMWFFFX2Y0Qkk2Z1g2RmpWRHNDdkFrMmxLOHBOX0U5WXF5eWVacURZRE9SQnNkbVg5Q2dSdWJLZlVGSWxDck5pZHEtQk5DVERjR3pKclBocFBPQzN3LWRSOHdXM2d6bWpKTlg0cW1wUXJRRXc3d3dvVjcxS0daSV82eTNYMWNjS0htb2s5Rm5IX0dfSDZaZG8yelZoZDVnLWhJY1hmNmdJdEFhVmVMMHFpc093aXBwY2dIczQ4V0JlNHhkWEhUSFA4TkRiMU80X3lweTFueFY3MDZvRHJj0gGIBUFVX3lxTFBPbWJwdUw2dFBzcXJpeEVsb29NNWhUaWM2X1ZnMm1nX0s5a0k3LU5zNWU5U2I1TUx3eFFCcnhWOVdHdjJqUUVRRXBFYmF2NDNDMmtMVmRJbG9sVE5SUlU0bTVTeDlLNkJBM2RoYU5VU1lUeXRFR3hxTFJSbEdLQ0pVc29reVdJNGYwV1RfdWJWOU45NWxTN1paanVxdVpHcGVhSEpWMW5EUnlURG1kTS14cTMwN0JBRlh3TUE1TlVQNG1IS0ZRR1RpSFBJVVhaSDE4WW5OVHVUbHBXXzNQYllsbFhjVmZEWTVOUC1XMTUxdDBLWG1FZXpYMWo5SnN3clFfMk9kVDhGc2NjeFpLODk5MzlnRzdQakhaal96UXJMS2MyTWluM2x4Wl9aZVdOS2lnZmd1dDVJMXVmRVdMR2cwWVl5cHpuZkJQUUVmamRwVk5PNmxXRkJ3U1hrUU5NMGNyYVNVdEk0X2x6NmhWVzdhNXpjNmFzME0xOFlGVmZkRl9sZTRYbkxvWDJ2UmpHTVZSUVRwZmNzVGN5UnFsZmlUX1RjcnZZSnZ6MXdUR3JKVTVhYXRWVUNrckg1SHVFNjhoTzg3dkN0ZEdqaGtjdXFnUHNNYTNJR3A3SVlneUd6WDFVaEJjd0l3bnItZjVELWt5WFl3c1lINGtuVzlYYjFkaDFhamc5c081WDg3aExBcEk0Y2xiSzdqUk5hMzFkVHNmeXd1QldYUDQ5RUhDaW5fLTdHeW1JUUl1NU96SHN6UWlscnZ2Ukd3WHlEeEJvWkFMYndOQTlCb2NwdlYzdWJZNmtWdzR3VWpGOTBiXzEwaVpTQ284ZVJqM3RDMGNNOTY4UDY0cjB3Xw?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Wed, 30 Sep 2026 16:06:00 GMT",
-        "discovered": "2026-10-01T14:42:50.517349+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "ترامب يوقع اتفاقا طوعيا مع قادة الذكاء الاصطناعي ويفتح الباب أمام تنظيم مستقبلي العربية",
-        "player": "",
-        "content_hash": "ad149c9d00eed95b9d0a004abb62a6e9fdf4279734867b0b10518472a6a7e8ed",
         "sent": 0,
         "section": "transfers"
       }
