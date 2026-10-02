@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T22:48:03.613709+00:00",
+  "updated": "2026-10-02T22:59:01.027653+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -646,6 +646,22 @@
     ],
     "sports": [
       {
+        "id": 8026,
+        "title": "لا صوت يعلو على «القفاز السعودي» في نزالات الرياض - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxNam1GVC14UkcxVFdNZmdKZzAtVGpXM21BeXM0WTRKaDJzUW1obTVQam8yR2pSanE3LWVLMzlNeGdSZ2xGdEdYSzg2bEk4b2xCWXBfMjRCb1N0b0hDMVM3SWVueGI0X0h1V2x6TXl0NXQtMkppWXdOVVNvOUZIeVE3akZCQVA3amhRaHFLWTZ3RExwWlJTdjRLUkFRTzNrSi1zUGFLR1Jiam1FbVBCNmxTQ0lYeUhrVTJlZlhaZXhSQVZvbm0zTEFqM3V4Y19ESkdFWnlSbFBOMWpYMFYwaDlURXNWOV84ZEdWSmVETzltWHNGTm90YkQ4YW5TblFnWWpWVXJpeHlqMHFuMTVBcHBqVk9ZVndEY2xWYWZnUDdmbGt1OFJ0dmZITF9ydVpCdmk1eEhLcUMzVWE1TDVWUXMzdHNOVTNZaG1GbVhqdzA5bTBCTjQwTnVmWWEyaDEtLXByWTdTYlVKTWktTFFBWmIyUUdjSjFrWnhhUC1nSUxYU012TUpwUXVrTmV6UDk5Sm1ZZGJpOXJ0eXd4SHFYU1dMY1FZOVcyWDZXbURZdjJTaHFHeXNxZG91VklJNG9hOTdfNzl4WUVzQ3VGc0Y2ZkExbWx0cDNNdWJ6R2pnenkzYmVndURqVmlZUjJISkI3a1RHc2FSS0pNSEhCYXNoMVdVb3Fna1FfeVB4M1h3SmFUWQ?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 22:46:55 GMT",
+        "discovered": "2026-10-02T22:58:44.157472+00:00",
+        "category": "أخبار",
+        "status": "غير واضح",
+        "summary": "لا صوت يعلو على «القفاز السعودي» في نزالات الرياض الشرق الأوسط",
+        "player": "رياض",
+        "content_hash": "ad21e65b17c4b151d23d3a66ce3b379b3e2f1f265381f24a44ea71ae2c9c1a61",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 8024,
         "title": "مانشيني: لعبنا مباراة مثالية أمام فرنسا - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNYTk5dlk2d1p2RnNKSzM3NjlhT3pwY3pDZWZzTGMtZzVNRFZxUzRCNHFoZmhCa1JTcHhGeW9pcklSS2tWMnZveUdYeVNwMFhLbEpnVC11aHkyaEhnLWxIQXBoR3c3amUtRFJQUkJ0R3dCRDVmNlJxN0VxUHA4enJZam84ZWpVWHNZa0txUkVvc0R5NXZ5ZmY3UVd5c2VpME5vems0SFcxY09IbUI1bUpzREJYaF9NbHZXY0ZaOVBpbG9aZ19RWEJONnVHT09rN0RHcUM3bF9yOV9tcDdLTTRpaTNOM0F2S2JEXzVuVDVNUTREX2hmTGlZS3EwZDUwN2pwb1lqaVNDUzFOeGxUXzg0bkg5YVlqbU9uYWFoZDJXdU9oT0k5WkliaEZsYTl1QjNIdllCWFpEQV9GVmh3V1NBZVgxOEMzOTFtUmNfd3JoUTMybmpkTkI4dUZ5Y1RYMm1KVmFfZTg0Z2hqY1I1dV81VkF6VUppYk9zT01YRzJEWdIBhANBVV95cUxOVEJHYk81ZnZRRDNSSVhJSVdCM1E1dHNLbEdEa0t4R29DMDE2WG9TMDlWeFM2bTVLc2F0Qjh6RmVXeFRUN3I2MUVvM05DbWo0SnNvZERkTkV4R1lwdWJkdDQ1U3hLaGVRQjZyN2tMOXBPd0FuSGRuRE1CWlNCRHgtalNnOUd3aXA2SjBzdnFkT2ljMndNODZvYksxSFdRZ29XSlQ4X2VhZnJ4d2JJYUtxX2xZZF9vQzlnZUJ0bzd1ckE2VFg3UmNEOVNFUGxIZUVsT1J5NVdhU3BKYmVPdm83OTI0OEM0NHJxTVF5M052T2VSUmRXSXlTb3c4ZHZYc1Z6Qmx2U253VjNDVVZRaVBKcEhxLTBTMmZGbzNneWc2NFJKdVo2aWRQTFhmVjBWa1lnWU53VUtUMjFmdUJiRUptNFBncVcxOC1kdVZvcVczTjRncDBaamROUHFRVGVpcVF4bGFteDNENkpiaE9fQV9LWDdRZm5welJYNzJOOWtKNnlJdGlX?oc=5",
@@ -754,6 +770,22 @@
         "summary": "خاص winwin.. الكاف يحرج تونس بشأن أزمة نقاط مباراة أوغندا winwin.com",
         "player": "",
         "content_hash": "4800d1ec78f704cce17cef75e0818232dc567f43971b5fe4a6cdcfc6d1980f9f",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8025,
+        "title": "كوكوريا: سأعطي الكرة الذهبية لنفسي وأنا مدين لريال مدريد - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxQVE8wOEJad3BCWWliU0RQSm9FbFdZMWZRVUp1WkRjNkJNZjdkZFlqeVN2ck92LUhMcE1HTEpzSDhYaTZoOGlpaGRWcWpMb1BNMTB5SFd5akRtcjZ3OVJNVTE4NUF6WldqeWpkbDlDUkc2RUlGN3h3OVRMUEN2NEhUNkJON0FybGVkYXl2bmFwNmdDMVdBTGNhcnZkN2JfbHMtNXZIS3U1Y1Y2VVF3WExUa0E1RElUa3kzcTY5VXg3UmVENUZzVXpyOVR1dzRWTDZ5NF9MMDh5aUdKOEdrSkhTNXdDLUtzbXJwckFTdmhBZWhNS3BRRXctTW15c3l1NHhqOEZjaEp5YXNhSWxoV3E2M25sdXhoYTFYSHdvYm40YTZ3VHBjTGx1bkVSSVRHQ0pjUEJYamp3M1MzVnlCV0NTcFljN3lsU19lZ19LQnJfRkVoTG9YaWZYUVFQREswY0RNN3ByeXNtbUN6a1lzbXRUbkJheWd5MUc0WHNmUk14d1otcFBNQ2Fmd3JSQ1hoTGlzYXlFLXpaVl9oS2NZMUd4WXpzQjFCd0I5bnhXeGc2aGF5bWNHNEN5SW9XY0QyTTdHN1JQOVVENHEtckR6bXZwMWhZVFZ2XzFYUUdPVEdn?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 20:27:38 GMT",
+        "discovered": "2026-10-02T22:58:43.412317+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كوكوريا: سأعطي الكرة الذهبية لنفسي وأنا مدين لريال مدريد الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "c0a285bc2045427a1462b56bd6bcab1a4678f64729692e6b0f201d6a82fdabff",
         "sent": 0,
         "section": "sports"
       },
@@ -1382,6 +1414,22 @@
         "section": "sports"
       },
       {
+        "id": 8027,
+        "title": "كرة نسائية - الأهلي يفوز على إنبي بسباعية.. ومسار ينتصر على الزهور - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DTFRKS3BPUXg2RXVHUXNWOUNtSWxxN3VLRVJrbWNTQlU3SWhpYWNjbVNLSHRKTTNQNEJZdnVLUzVzQTFQeWwxOFJDYWVOSE1H0gGEBEFVX3lxTFA5UGZZRDFELVVXeVpZbk9PMWVLeFVQMkhsTDVLVHVkSlYxek9MZkgzWkJJR3hIbHBiSW5Xb1FkNWx6bEI2QzYtQTNIa1RBRTNzME9qYXdBSHJuVDFwWDdreUtXZnhQUE9GeXdXR3QtV003LXJDQVo4NjFmNGNjb1ZaVGQ0NlN5SGs4cGRCRTdiNndkQUdOVGFWbUVsWFpGZnd5UmRYRExDSG9sX204ZnhJcVZybmlYYVZEMmNidEhidnJwUzlmNktMM3hZclZWb01ZRDFfdldBaVE0ZXpuSnFERTFISjNFcmV0QXpEakZJVmdZbU5hMTBOZlcxMi1yejJJOFF0WVF6ZGVZZ0RkcDVSZ3hoYWxRVHJGTDhnZ2dGLVk4NUhKR1VkckJkVVZLNDlDYjh3QTZsODl2OEVXcDg1NExvM0V6VTlvUW80TkdRcUotcDQtVkxOMkVXaGZSVWF5ak1FVk5HTnNVTEkwLUtpamNhSnR6TnNfVmM2Z0hHYUhKaVVMMzdWSTUxZngta2JlNEU2UE5wOWJQUlpaSzUxU2pzaFJRQ3RpTW95M0x6aGR2WDZxdmdUeldnSGxoYzkxaDlxUHdETW9ZYTluNzNZOGo2bHRzeHBSNS1TbEpsbU41enhZOWNXajc2bkxMRE5MNkM2OHhVWFdUM0xEa2RHUnhlNg?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 17:14:00 GMT",
+        "discovered": "2026-10-02T22:58:46.446580+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كرة نسائية - الأهلي يفوز على إنبي بسباعية.. ومسار ينتصر على الزهور FilGoal",
+        "player": "",
+        "content_hash": "aceb315917302862f4cf24cc026ae2d227d0aa5c6736e33708ece95a4ce6ad8b",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 7924,
         "title": "توخيل: قضية السيتي تهمين على المناقشات في منتخب إنجلترا - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxQVzIzc1BmcHZPdU5KTXFFbWpwQ1dVeHRaMWtsel9MVHFjU1VIVDNlRW9jVVd2Y3BYaW9IbkR5aTRuRjI4VWV0Q2NvX0JQUjJua0Jld3RQcnRzZkFadmhoNDlvZENjeGV1MVlmLUpHLVlEVEJlQlh0VUZ4aGVfNDNjVWx1bk0tdWpnUG95Qjl1R1dmRkp2dF9MQXBhZENRb0prSE93NnI2Tlk4WlQ0YUdkNTB2RHZ0ZTRjRFhLQW5pd1hvOXd4bndia0F6R3hyUFU0Nl9XdmZrU3JxazFpXzRLMDBDdDNKM0pvN1NYWU9wakF0eUNhTWkwbWFXcEpiUUNublg5Z1p2ZXdacEk3TmRwek94a1RlWlJ6ZjhmOGV4WU1PV2MyUExJSkEzTURuMm92ZkVjVTFtODR0aDZPV2FTeVdpTDF2LW9aWXBIc0pQWm5LWWZUTGI0TDMwWUJiM3NSVUszVkZ1LWdlcDY3anhQVDctWU1iMnY3ZHdIWTBUV1ZzZS1iR2daMWEwbXlYeVpJTV9DTFQteDdGTDRoTTdabFYyQVZLNmRuMDc3TllSV2JRVzJLdlhhY1lZWnNRX0gtUVJjMHFZTEY5YVdNY1lOU1pJUThOZ9IB2wNBVV95cUxOR2w5VGZPU3lwMmJQSFVFUXFMdEdESVdFdllMQVB5SFRsY2VzLUJZZTZ1VjhOaU4zY1ZtSE1HUmRna0Ewb2tqTE1pMFVsSHdwUmc5YmduNlBCYlFIZW5tcUEza1U4U1hhR3pKb0RXUEpucDM2cF9VY1hhU0FJNy1vcGVYZUY1V0VOQjFuT3RKcHlfSk5uc1BGUzRFYm1aV3NHTDBVaEx1ZE13Y1BJdkpBbzhMRTBVS2duNnJxcHk3Y3BCYVBMWDJBN2xaMFEzQkhNeWd4c2FDLXhrN2xUYVNPbUphU1RsZ3dfUGdwb2F4WTRlNFp5YU1yc3h1OV9JUmhkNThWb25odWtaN1NLUkpwNlFLVTBvOElJNGtxVDBGRWgtYVU2ZWxuSkJyek9TZjl1eUstT210TFZuaHZjUWZOT0lqZjlsSnVKMVV2cVdHXzRObFEtTFlFQlZBMDRVRm1HNTRFdmdPM19mZmJDV3VEVGtoelZVOHQ2eVFrTE13SzF5cV81SHpWeDlrUW9qeGI5bk1LU3VQNVpSR3QwRFVRd0pPUU40d0FxUXZOWDB0TUg2TTJnSU96QmRXdzFreldXYjd6WlFyZEItVjJ1MjRlOVFNazhqQ1lOU1hB?oc=5",
@@ -1394,54 +1442,6 @@
         "summary": "توخيل: قضية السيتي تهمين على المناقشات في منتخب إنجلترا يلاكورة",
         "player": "",
         "content_hash": "536a9357631dff77f6acd9550694e68e976084cbaaf0ebb73391474ef2eb8cde",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7927,
-        "title": "قبل مباراة قطر.. جماهير السعودية توجه تحذيرًا هامًا لدونيس - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQcE0wVjhiS3V2Y2xxR1ZQSmRqbmNoZDlNdkRDOFR4VG9uUWlXd2lvcWt1S0dZRHpWVVM5Z1hSM3VoYTlWZUE1bnltS1EySEFJNzdRMFhkVjV0MlVGSTlDc2h4OHJpRnFnakJsaV9pcTAtWXZSUDlJNklxdms1WlVxTnlpWUZLTTBXX1g3eXBsdTJyOGZ3WTRyd055UVZsNXVsY09Ubmo5MWdkbkdUdU5PM25uc0lQR2daMkJHcmxERkZheFYteVM4WFlBaHVyRkt1MGZlTzNjUUtFQnFWLVF4VE02cE1CSlZNWWxPN3BkdVFROEREa0dhQmVTdTgwVjlRV2t4VmI3NF9JZzFTdUJtZ016MUdKcjRLelpOVktMWHRNUW56N0NtS3pxb2VnNnRxcjFwZFg3LWRZdEh6bnl4cXRXaVItTU5yNUdueFZ4ei1DUGd5Z0h5cVdidEljVXc?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 17:08:32 GMT",
-        "discovered": "2026-10-02T17:20:06.205833+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "قبل مباراة قطر.. جماهير السعودية توجه تحذيرًا هامًا لدونيس 365Scores",
-        "player": "",
-        "content_hash": "49a7aa81c153d9704542cde9bc5e1c00ec73101f9bffe1eb1e5842f1f71b2a1f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7923,
-        "title": "موعد مباراة الأهلي المقبلة بعد الفوز على مصر المقاصة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxObnpoS3R4QWplSVg3RFpWX0JNX3RZZnpuOGN3NlMxMURlQVBJT2Q1WWo1S0FRVlpiZ080MjZtTkE2amhNeXlybzVhUk5XYmprd0NSVVVvOVY0MWZOT0dQOTFObmRVdnVzbVZ0TS10RlR4RmdnUXdUazdSQTRVLWxqZEZ6dTNOclhSUVV1T1hCeTZKakljRUx0bmZMM3F0Q1IwbFlyWHFkcGgtU2ZObU0tUFJlZmEzVkRMaERHdkszdllRbDhrd09ETEZZRHlTblRlbDlkd0JYUnk0djdEVDZacVBWMlVla001NlRfQnJWUDQ5bExaRl9DUHl2dHdSQ0NzWnBEdUhfVjM0bGMyLTlEbEF4TnFoOTJEMldhRkZXdV9vRnFFZWZ4M0RBNWtEeGp1RFZEUUQtMmtxMkhQZTMxNjRSdUZhOTJiYVRVbEFuYjJXSjVNUzJDOWwwcjh6MzRib3hIbkZZS3Z3aEllRDd2U05CT3dpZnlUdnM2Q3JJT1J3bnJxQ0IyTUI1OEVhem5oWnliYmNkVXZsdTBMN3NzaHFxelhxM2gweUVhNVhIMGpOaHlfemtGNE1iU0hoM09HVHRHTFpXY1VyRmVlTjZtb3ZUV1NNaUQtaFYw0gHgA0FVX3lxTE9fY1p4bVJfbUx0MHFTQ2VIdmdsUWZyaHhjU2xJTzhkdTB5d0R0M3lDODd4Z1Jfa0EtWTJKaFNEUUlsdU50YWRMLU1IcmpyNVlua1hVM1c2R25vVVNINTJpOU9VMG1ORWx0RWxzbVZVMjRYcktzOUJjY0hLSWZ3M3dRenZ3T2sxblRIaTFkdm9UOXY3UmJnWUFGaFk2cjAyNjYxbnF5V2Y4ZkhuaC0wdzlta2lrZkZ1b3ZaN2tBMmFOMEdFcUNTbndrTVBoUGhKV1BYT092MUlNS1VMNmcwQ0tUTW9iNXVHaFkwektnX3pkOXE5X25ndi1BX2JKWnYwYW15UlRlek95UDJhSjRnLTB2LU4xeTdUN1pSYWpQdktNVzdkYWlydG5DcHc0cXBmUkFwVVpjTkJEWGFsRHN3QlV0X2huNnFVZWVCNVZmNmh6YzUwVENTY1o2QkM2ODR1YTVRQVB6Qjl2akpmOV9pRG5BQW8tVk91ZUtoeUQ1LVpDTmNVREhTSGd6RjlzSzVKZkpYaGxBNXhrNmlDMHdVenZoSDh2YVY5Y1NVdFJfbWc1VlV0dV9IQ3hLeXhrejJxdkxrSmhiLTY5Y3dhQkJNLWJBNkRTMExrendvLTZxcVpWTw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 17:08:00 GMT",
-        "discovered": "2026-10-02T17:20:03.218240+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "موعد مباراة الأهلي المقبلة بعد الفوز على مصر المقاصة يلاكورة",
-        "player": "",
-        "content_hash": "4652c9a3c15a5bcbd7833debf8a5470e065a1a588f4ae23e8bcaae8191dc112e",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7931,
-        "title": "الأهلي يفوز على المقاصة وديا بثلاثية.. وتوفيق يغيب بسبب نزلة برد - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxPUDlpbDZPUnZNQmlfZmNzWUFoV1N5WHQ4Y1E4ZFpYZGZ5bkUzbjZPdjZMVVZEMGdFYkNFVUl3VHJ2eWdhLTZCaWc3OGRmcjJzS2NaYVRUd3lxbTdCNEZGRGVpR3l2TVIwT2kydjl6WVk5SkxXRHZUS1h6MXlCUWdyTW93OTJOczl6ZVhuR1loLWZoZzQ2QkxVcWQ1S0tCNUxrN01zMllHSGFFOE9DTE44N2VBZFRFeWRsZjlmRlU5RlZGMlZtbERkUm1RXzJUQWtKWEFLaVhoT19aQ09UNVhTWFpFWHNXa1VnZlA1VmppS1d0US1SdlM0NGJUVTVlNDNCdFpvYWVYQ1FaM1FZa2Qyc3lZZkxKdE5aTVZFelQwNVgyV2N3VzJHZmY2a0lSUzQyZE02V3NENF9ZemxPOERUUzBEaTVlY3BBem1lV29iVXNwSlFkdDRpTzViVm8tQkZ4LURFblFlRE80OHRNSmMzY1c4SUJWNVpQZkl5S2hzTWFiQzhJVHJuRTc4dzM0blVtenFyT25ycE1UZllQTEMwYlp0Y3ZkSXM2QU5ycEVzWXZOenBwWi1XMGZkWXdYNXhyeEN2eVJkT3NPRzhQbGkxQXcydlNvS0IwNHZTNGc0RXhRSm1vZGpHMGFLbTdKelprQmhhRzVTN0dEWF9xU19N0gGEBEFVX3lxTE1IakJRVU16OG1lQjdGd2FSVXdwZkx5RmxtRzdoUnBzZGRhOUhqYzFQeVhmMEJfZ0J0RkE5X1VzNkRqbjlreS1FM0hyN1JrS2xFSDFkM0FlbzQwVEYzY1YyRl95SG1BYUVaZ0NfbFFCNkQtTndwb0RQcVRadmJ6RXRkZFdZN1JrNXZCMUZMSlZUemdNYVZyNFdySGo1SzdoNGdGdUlkWW55MzJwN2xNbmxCOFM0WTRpNkF2UTZFM19OcE1YaENLUkxRNVVDbjVrR2Z5S0JubFJPczBiRV9NTkFMMkdzVzBxX3BvdWtWNmpVa21tald1NVF5dGpKc0ZmVVFIWDlEQmRjbmFTSE91MlR3dXI2VXJvY2ZPVmVQeGFOTGVxdnlGOXN1NDdsa25xbTd2T21SYVRPeTVkNjA2MG9ScnhIdnNjM1FMX0xWWFpiTEh5eENhLVc0TGc4X0N6aEtBQ3BoSmpXYmF1NThkT01NRWlBM0xKMXR2SGd0dHY2TnR2WFpLV1FVYy1sUG5Xb1ZuWWE4cGplNThIVlpQTVkzaVE4VTVPT2ZLZU5yZHBXXzh3WTA3cTNtendLWk9sR2sxbWxndHp4QlJLWkJ1a3pueWlxTFJ4eXlsWm1YcUZ1THNlRFRCX2JFVmx1cE5Qb3lDYVV1N1pSV05wNHljbzV2Vi1RQw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 16:58:00 GMT",
-        "discovered": "2026-10-02T17:35:42.879817+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الأهلي يفوز على المقاصة وديا بثلاثية.. وتوفيق يغيب بسبب نزلة برد FilGoal",
-        "player": "",
-        "content_hash": "3b92884c08e52f66a632738a669d660847f3fe4e07235ab0227fb35f82c55004",
         "sent": 0,
         "section": "sports"
       }
@@ -1928,22 +1928,6 @@
         "section": "transfers"
       },
       {
-        "id": 7525,
-        "title": "إعلامي سعودي يصدم الأخضر ويتوقع تتويج الإمارات بكأس الخليج - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxPQ3JWUjBJd1dvRkpEbE1qYV92V3c0OHZkVE1lRmZBNlBjODdETzRPdDFyajVlYVhadkRnM2F1RlZzZVllVnowT3NaRDBxaEpKbm51UHBQdTl3bXM0UjBMdm9EUlliZmhvaU5DT0hhc2JubnJ3elZvazVxWU9FbFRIRDVqWndEVEVjaVZ4QzJNOHhVMU5VVS13bG1TeU5GTng4ci1iRjg4Yy1fd1AzblE0aGFlZ2p6R05XWENfRVpueURCRFBoRWZKbktyV2VSOTRvODg1clBPUjFmeGw2NWxGeU1PemxzeG81eTBCMnZja3F6S0wwVWJEdS1fOWJhM1NnNFNGWE1mcExncG9NREFQeG9wX3ZDaVhhLVluRmRCMDVCTndUQS1kVjMwMFp2c2E1SUpUNDJvX05wdVg2T2M0Q3Z1RXZMYnhxSUZ4NlFMUDZNeUtFSVgydU1YOW5VTEV2dWpmejF3RDNkMDN6TnpUb013SHlKeElFQzdnaENHSXJIWkI5SFRxWFpxb2FBM1lZdVIwbnJJQ1hWaDFKS1V6LUxCd0U3ZXQ2VFVQcFJubFVlT1JrbldWVExUQkg3ODJibEprdi1SYWdaZEpyMkJxaFpXQzNRdjFPVjdHNjdSajN6b2dheWFsOUdTa19aNzREeEFUX2lHRUFsWHFsNk1ub2VmeEo4dHl0RndkV0ZJcEJ2SzFIMmRVOVc2dDk2UUxRb01Bd2NadE5YdVIxQ0NBYUx0NmFBdUx6MlNHd3huWDRMOC1iYjRCWWdoNXpHYk1ETVFyUndCWnJmUXVnMWg3Q0JDQjkxTFp1c2Z2Yg?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 14:03:23 GMT",
-        "discovered": "2026-10-01T14:24:58.619734+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "إعلامي سعودي يصدم الأخضر ويتوقع تتويج الإمارات بكأس الخليج Kooora",
-        "player": "",
-        "content_hash": "ce578d900d53d49469c852cd1fa6216c44bd752d4746c71d1b694af780333e7e",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 7629,
         "title": "القصة الكاملة لأزمة رونالدو مع مدربه جيسوس ورحيله عن منتخب البرتغال - اندبندنت عربية",
         "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxOdWJXdWU0azdIaEE5T1FsaS1GbUxGY3FXdzY3dWpHWVdqOXFHUW1MWExaX2RCTGNDcVp2Xy1feXEzMWU5REpqRi1DZFJNUU5iNnJIX29paUlCSVZ2bVZ4Z3lUN3VQMlhtTHJpekdvOWI3Ujk1cmhsdTN5NE5lZGdpUzRYVEp5Z3VnMzhlTXVub0oxNWtOWGZHaVBObTJ1ZkJNSUVvQTdtblJHb09rM3RvMkpyM3hrbDMwWndRNUMwR3lIMUxzaFdVdVJ3aGFDdTZ3dURGX19WQmxsdGNYR3NOeXRpTU8yNnV5aDN0amltaXh0TURtcTdfVUc1UjVrQTg4aG9LUUdkMWNlX2otY0UxVGtyVDd6R2JFdnNMWU1EZDFfTUp3aUxIZ1V1VnFsSk9VU3ctaHZyUVdPeXhwdzhGRERGd3NqcE9nZC14RU5mWHduWWdXRGhMTjBEdFlsRWdLTzZYQ2xSMWdDTHlEX05CRS1ES2x0RHBaaW9lZU5NWk1uY3lQMHRVaG92aU1leVhTeld6bDd1X0EtODVtRFEtbzdrckhnZS1tbHRTTmt6WjAxUnljNTJENzJpU3hrSzFrMU1rS1FZMzh0Q0ttUjJzaVJaZWwyWTdIWGxjZzNBVDhxRTZKU1dFQVFFRlZ5QUM4dDVoeGdMU2dBT3FQQkdJTDNMRDhFVVpMRld5eEhPSXhES1Rocl9iakFZc2Z1QVE?oc=5",
@@ -2084,6 +2068,22 @@
         "summary": "صفقة بـ20 مليار دولار.. \"بوينغ\" تطور مقاتلات البحرية الأميركية العربية",
         "player": "",
         "content_hash": "3ab71768b4e385a3a0b91868f1ab4fe8462f50f0dd1b0c60e2271a5afcfaa6bf",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 7534,
+        "title": "ترامب يوقع اتفاقا طوعيا مع قادة الذكاء الاصطناعي ويفتح الباب أمام تنظيم مستقبلي - العربية",
+        "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxNUUItQU5TOGV2dnRhcUZoYVI2c0lDdmtpcWZ0WV9qQkJSZW9INXNfX0JkTGZvYk9CSVNMZlZkOXZSRWc5V1dKeG9QYWpCNmNRdG5iaUFwNS1hUWdwM282eEJDYVlxd0JWZ25fWmRLbUdQWW5ZT29VZUlwbUhkMFlRTGt5RE5GejNIU3h4bjNYVDE0RGxtTjk5YlNDRWlKRVdUclBRMG1LMGM0UGJtcmJkUExWMDc2bWRqaTVkYXpmeGhMazlidUJCSmJITGpYN2IxS2RTSzBGY0kyYzBEQ3Nxd0x2Z0JIVnBoWW5fVndjS3B4SXM0Y2FqQ25rUi1IdHVHR3Z5OXMwcnhTd190SXFMQjRJcm5fYnotRTNUOEhMbHBEcUZiblZnWGwzR0tFTFdqR21pb0I5UkJ2ZmhGQTRfNGhaTTFLZzAteFFmX1BKdXM4ekR4dEMxZm13ZlhaU3JDMGtjLWx2Wlp3U0hGTVZCam5hS1NkQ2pDOVY2T0dhUTVUa1djek9kclRuN3BDc0JKSlNKaTZrcUNYS1kyY0ZRT2pwaW5CNkZWb3IySTdMWFFFX2Y0Qkk2Z1g2RmpWRHNDdkFrMmxLOHBOX0U5WXF5eWVacURZRE9SQnNkbVg5Q2dSdWJLZlVGSWxDck5pZHEtQk5DVERjR3pKclBocFBPQzN3LWRSOHdXM2d6bWpKTlg0cW1wUXJRRXc3d3dvVjcxS0daSV82eTNYMWNjS0htb2s5Rm5IX0dfSDZaZG8yelZoZDVnLWhJY1hmNmdJdEFhVmVMMHFpc093aXBwY2dIczQ4V0JlNHhkWEhUSFA4TkRiMU80X3lweTFueFY3MDZvRHJj0gGIBUFVX3lxTFBPbWJwdUw2dFBzcXJpeEVsb29NNWhUaWM2X1ZnMm1nX0s5a0k3LU5zNWU5U2I1TUx3eFFCcnhWOVdHdjJqUUVRRXBFYmF2NDNDMmtMVmRJbG9sVE5SUlU0bTVTeDlLNkJBM2RoYU5VU1lUeXRFR3hxTFJSbEdLQ0pVc29reVdJNGYwV1RfdWJWOU45NWxTN1paanVxdVpHcGVhSEpWMW5EUnlURG1kTS14cTMwN0JBRlh3TUE1TlVQNG1IS0ZRR1RpSFBJVVhaSDE4WW5OVHVUbHBXXzNQYllsbFhjVmZEWTVOUC1XMTUxdDBLWG1FZXpYMWo5SnN3clFfMk9kVDhGc2NjeFpLODk5MzlnRzdQakhaal96UXJMS2MyTWluM2x4Wl9aZVdOS2lnZmd1dDVJMXVmRVdMR2cwWVl5cHpuZkJQUUVmamRwVk5PNmxXRkJ3U1hrUU5NMGNyYVNVdEk0X2x6NmhWVzdhNXpjNmFzME0xOFlGVmZkRl9sZTRYbkxvWDJ2UmpHTVZSUVRwZmNzVGN5UnFsZmlUX1RjcnZZSnZ6MXdUR3JKVTVhYXRWVUNrckg1SHVFNjhoTzg3dkN0ZEdqaGtjdXFnUHNNYTNJR3A3SVlneUd6WDFVaEJjd0l3bnItZjVELWt5WFl3c1lINGtuVzlYYjFkaDFhamc5c081WDg3aExBcEk0Y2xiSzdqUk5hMzFkVHNmeXd1QldYUDQ5RUhDaW5fLTdHeW1JUUl1NU96SHN6UWlscnZ2Ukd3WHlEeEJvWkFMYndOQTlCb2NwdlYzdWJZNmtWdzR3VWpGOTBiXzEwaVpTQ284ZVJqM3RDMGNNOTY4UDY0cjB3Xw?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Wed, 30 Sep 2026 16:06:00 GMT",
+        "discovered": "2026-10-01T14:42:50.517349+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "ترامب يوقع اتفاقا طوعيا مع قادة الذكاء الاصطناعي ويفتح الباب أمام تنظيم مستقبلي العربية",
+        "player": "",
+        "content_hash": "ad149c9d00eed95b9d0a004abb62a6e9fdf4279734867b0b10518472a6a7e8ed",
         "sent": 0,
         "section": "transfers"
       }
