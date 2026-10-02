@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T11:37:14.145069+00:00",
+  "updated": "2026-10-02T11:52:21.584410+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -485,6 +485,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 7832,
+        "title": "الاتحاد المصري يكشف حقيقة عودة البطولة العربية للأندية وحقيقة إقامتها في مصر - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNOHJwTDVzMTdSWnA3bF8weHFUbFBTLVgzOTU1VHlyLUVBQWNsTzhCOERlS2Rtc2cyblN0WGpVVnJwRGx3U2xGazZiWVlfMkpmRnplSDlFSFE2UGNNSEdpMnBfZFZ5anQ0N3Rwei1Bb1pZR2Z1d2I3ZmRFdTA0WlJlcC1TVlNjdmhXSVpuODE0MG9GYWxHcEJGTVgyX3VCc0xrVE15cGswSU1TNm43cm5qcklQRnpobzAzTmlzTWJzNlBIUUYtaldiUmtjUGQ4OGtiYWhJWTVXNF9WYVZUZVlPeG54RERLZk9qemFrNVFkNWxIR1l0QXc2RDVWX0VLV0dnZzA3WHRERFBWWFBTN2RUbW5HclZrLURqMHRkbWlmVV80MWcwRHgyVVVRVkZDMUd2RURDS3hHVnlJS1NhczEyZlI5aGduSlhVc3N4NHI1SzY3TW9pNGl4aEw3bXF0Zw?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 11:44:18 GMT",
+        "discovered": "2026-10-02T11:52:04.263535+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الاتحاد المصري يكشف حقيقة عودة البطولة العربية للأندية وحقيقة إقامتها في مصر 365Scores",
+        "player": "",
+        "content_hash": "bd2e168b607c0825fb4ce8693106ab0f2cb13f2ed34e24b84b9ff1cb2ab4d7c1",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7818,
         "title": "من 10 لـ15 مباراة.. ماذا ينتظر حمزة عبد الكريم مع برشلونة؟ - يلاكورة",
@@ -1268,25 +1284,25 @@
         "content_hash": "b776f3aec86432fb3524ad5cc6d896f987cd757951ecdaeb0a1e6b9151f46a32",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 7637,
-        "title": "ثلاثي مصري يُزين التشكيل المثالي لبطولة العالم للأندية لليد - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxNak5BVEc2Y24xYUFsSjFNQTlEaVpwdEVIa1pjNGpjcmdWU2FJZ2RFR3J2N2doRENzQ0xNYkdyS3d5TXZERUdLc1JZVzJkQmg0TFQ2bUlYbjFfMGRadTdJbWJfaXhkVGlVUEl1VEl1dzlZOU5VUXhXdkpzWHMzdFpRbGw3RGlrYy1BcUZFVjJ2bVRHc2NPYmNPTWQzWWM0NlJqblZ0TTN3R0l2M3ZYb0pNQUNXUjZ0d0hSbWRpbHRuMjF1bVlLMmNEdkpuMXVjdm1IZTFnYWVOQmdfNnhtUmdrNEVLQXJRUVRjX2ZvMlhVMm1zTVVoQmJmUFNsVjBxdDdDM1lZSzJlbkk5bnhjVmRUbFlybTE0c19RQlp1NnBlWWxUSDd3b01CaURmcFR4Z1dfZlNEQi03V3NPZWpoc0kycG9ZeThxeG0yakxrS2ZRb2UtT1JMZ1RMLUVQSXlKMmhBSEtfblZnTkM3ZUVoWXpoQWI1Tm1YRGlzOElFVVdsdlRJbDBMNGNKaTZPY013RF8yaTlZT0I1MDRpR2JGb2xSSXUxNHlmaHdtTW5DRmlKd3hwSkM4S2NzWEVpZ3dKc2JjeDlfa2ZRWnVjWnc2amV2NmZERVkwNHpjQXZHR2VoaFViazRMLWhxVDZub3VrSUl4cVdEREx2TkxBU0I4X0c1a3U0S2c5Wm9NYjhZaTh30gGTBEFVX3lxTE5vdXhjNjhLODdTZUkyczNxU3VXSzhIME45ZGNVM0ZzRk1rTVVzODNvUGJzMS1jNTJYdHVtVHpQSEtveFpXNUNsQzlBOWpFVGxKUE1BUF83aVVSSjQ1NWt3LUwzSmF5c0RyNlZwSDJWWS1TenAyOG9ZTnFxNmRRV0poaVlzOENXZlgydU01X2kwaXhHTGphcjlVbFBzSkd1ejlnUkl0Vi1wQmV6Nk9nYW44OVRqSVFtay1uQ1pNYkFfaERENWpFMGRmQ011aXJvdnlSVnMwTU1lVnJ5aUk4dWtCZEYxNGJTLWlUZGllQmk4RHdlRm45SnB0b05TelBlWUdsRzB0a2NBbUlYMHpxbjV1WFJ6ejNicEtHR2JvbldtbllWSlBtNFhQOFlQeUg5TXpHWkI5TWI5MFVGeVRXOFQ0THExZ3VBVU9zQVNVSmVMSmJxUzdKdUQ4UjNBSlJwOUdabWgyTzZ4aV8wYm5pMGF5VUowV3BGTjJ0SExsTy05MG1LWXJiSUQtYjA5bG05d3k2cG5ubVlnR0JrX2w2RGxlSGhBWERxSERJY3R0QzVCbGRENVUzalhtbTFDYmRScG12eXRpRno2a3dISkJXXzN4bXE4Y0d4ektOS0RuQ1BPc0puNE94Wlo2Q2pablFJMmZrMzhVcEhYTDA2ZzhTSjNrWWphN1cwTlQzVkhzQjRjT2NPQQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 20:34:00 GMT",
-        "discovered": "2026-10-01T20:52:04.750329+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ثلاثي مصري يُزين التشكيل المثالي لبطولة العالم للأندية لليد يلاكورة",
-        "player": "",
-        "content_hash": "9c81366413313c2c81bfdf72f28c9612d2cf3326ffab69ec631aa74c4627ddf1",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 7831,
+        "title": "رفقة حسام حسن.. أرسين فينجر ينضم لمدربي إفريقيا في مؤتمر كاب فيردي - filgoal.com",
+        "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxPNm1rNHVUTUJQT3dka2NXMm1qNDJFYWZhTzZoU29NQVFYcHdfM3psYkdTcEYtZ3kxM0IyOFJNM0hXVkxPMDVoWVdnX0VWaFh6Z2xqSU9qdVN6ZGhKdklaUjFObmh3VUxZVEd6UDZEZmtSbjVUYllJU0k3NTFtekctMTY3Y29BVlVBbFJObXlHYWZSRnQydFozRndJejlrWEo5QVFTQVg3Y1BGNHp6TUdHWEFGYzdNNERTbDlzUWhRWmVCVEdGUlNqZ3llRGhpRjh2d2Jndi1adjJuc3J6bVdOb3JYZ0ZUZ29aMjg0SWt3WG5xMjJnWmwzcmpSbm1VVmdzX1pQY2NPZ0FsMFJtU0ZwNURXam1xWjBabmoyRGVQVXI1dGNLR21qY3BwQ0stYnJjQUY0bWx2eExWWm1Jc2lKZTJLUjNjTWFWb1RhOFIzd1F2VmFsd0EzUURDVFRQNHZDNGljWUZNZ1hoNnRIVVRwbmhTNHowZC1UM1NHbl9qY3gtWUNkMXdMaHlvaHByclp6WVNBUVlXYkZZSk42SEFHSXl3ZkhFRThSTnloUU5mcEU5VmM3N3dqZW5EbVVUZncyUGg2cFRVM2llV1BydVJIYXdJa1dqQ2FpWE94RzBqN2FGVmZKQlhIYVczT1NIVmRiRmhhQW1WSS1SMXVvTXd3M3A1SGFkemtt0gGOBEFVX3lxTE1mOEdGRGpVNXZjajNKNFVyWUFvOGVIbXBkeE9ZRU9tbVk4di1xLXpjZzB6WVQ2YzNSVk5hUktYNEZuLXRuTU1yeUpUU2VhYTVNZVhhT0ZQMXRTOFR5MjFLNVdjQndGaW5Hbmt6RVJCdVJWTFd1a3ZGNlkyZlpCaGlJeFMzV2VTUk00UGhoVFNzWDNYWmNYY3RpY0x1V2RKc0lWeE1paW4yLWVoSExrZGpLRmFvQVhqQlExWjdKcTlOS1owTjhLQ3lRbTRDdlNYWUlzYU5LUjI0MXgxOHZwdjFlVXVLdkFXQWU0NDRNcGJBNFEzdl9Lek0xcF96eHpLZy1nODZjdlBaMDBUUzFucXRRSEI1dWROM3Z4cTQ3cVhzOW5MWm9ta0paNkJreFpSbTJITWtCc0NqRDNBWk1mVERKX09fTndsR0ZONjJ0WW53SUtmdGdoTXRJYUxGdWFHc2w4VXZwTVJiZGRoa1NrOE54dGtCT0JOVl9tSGZQWGdvanlIc3ptMk96cXNkSktkMThiRnRFU0hwSVhqUnVQYVVYTHlNc0pVbDBFVTZ1UTFyWkR0UWQ3dlc5TWp4eWJOWlduWmg5blpuQVl5c0hEN0I0NjRnWVhadFd0dmoyU1NCN2E5VWVjN1FFa2U3WXpOMUs1VGlHdXFPdFE3RVFOZEJKeks0am9RRGVKVmFPWnc?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 11:43:00 GMT",
+        "discovered": "2026-10-02T11:52:03.619391+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "رفقة حسام حسن.. أرسين فينجر ينضم لمدربي إفريقيا في مؤتمر كاب فيردي filgoal.com",
+        "player": "",
+        "content_hash": "43aaec2dd272bd77a42892a53279dbe037441c7d33b89f13b79cfbcf93c602fa",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 7779,
         "title": "5 دول توقع في الجزائر اتفاقاً لنقل الهيدروجين من أفريقيا إلى أوروبا - العربي الجديد",
@@ -2068,22 +2084,6 @@
         "summary": "\"فلاي دبي\": شجار وقع داخل قمرة القيادة.. وطاقم مناوب تولى قيادة الطائرة والهبوط بها الشرق للأخبار",
         "player": "",
         "content_hash": "783cb6f5bd95eaef532386cd6305b45843c65de54e13d1fe4146c712a000d118",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 7625,
-        "title": "البنك الإفريقي للتنمية والمغرب وقعوا اليوم اتفاقية تمويل بـ270 مليون يورو.. توسيع وتحديث البنية التحتية يدال المطارات المغربية - goud.ma",
-        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOdmt3eTdNOFRTVWhuVTJkOUd4NjJ2QWhIbzVkbHR5eVNKYWdfa283VFM2b2dlOG5PSHY4bHBhWW1WbDViN2NlY0NkWE9IRGpZQU9EbURaYWpQYkJLTWRVSDdnWWJQRDdkTC1DNlFnV0pTckNwLWRmUENhdlhoRGlNdzlNa3FzSUt6M0R1OFRqNDlZUWk2c2xKOFJneUV5Q09mXzRjR3cwN3I0bUlBcm1KbVRaaG44bURJVFozN29wWnlnc1lPWVZjdUVQcXFqUDFwWTVQd3hFTFcxNUNLTUhrMWtBWnE1U2pXdlZQUjZWM3pZWGlBX2pkamtnVUFwWmMzTEFkby1UNHVxMHRDN1RxZUlBZ3J2dGJhX2xsRENsQzBsaTh4ZER2NUxDQ09iVE9lb2xCRTRvdkFTQ2NPUDZ6ag?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 12:49:26 GMT",
-        "discovered": "2026-10-01T20:18:26.116103+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "البنك الإفريقي للتنمية والمغرب وقعوا اليوم اتفاقية تمويل بـ270 مليون يورو.. توسيع وتحديث البنية التحتية يدال المطارات المغربية goud.ma",
-        "player": "",
-        "content_hash": "61d75559c181da8ad998783ae848b4a8f8427d0f4d835e0f7dde412d23ef7d94",
         "sent": 0,
         "section": "transfers"
       }
