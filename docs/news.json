@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T23:50:49.681276+00:00",
+  "updated": "2026-10-02T23:59:40.780269+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -176,6 +176,22 @@
         "summary": "موجة حر وزخات رعدية مرتقبة بعدد من مناطق المغرب Febrayer",
         "player": "",
         "content_hash": "47e27f38612e9b360167be39b3eb89d48b29f9e5b6be2a931f82be7d32dba54d",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 8047,
+        "title": "ديابو: حريق سوق طنجة بوجدة - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jTF81bWtNNlY5Y2kxdHAxTS1heGxHaUxOZmZLLXdhUDhWdTcxM2ZzTURXSldRYzZteHl3Y05zLWxjWXRHbEFLNlRRX24tMi1UbEF1OERBOFRzX2RuRkNEdEcxT3dJZw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Fri, 02 Oct 2026 13:04:58 GMT",
+        "discovered": "2026-10-02T23:59:15.844474+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "e74433be60ff7ba1b887cca3af3f043128ba47e5118fc579c3b28aa13ee34fc9",
         "sent": 0,
         "section": "morocco"
       },
@@ -2052,22 +2068,6 @@
         "summary": "البنك الإفريقي للتنمية والمغرب وقعوا اليوم اتفاقية تمويل بـ270 مليون يورو.. توسيع وتحديث البنية التحتية يدال المطارات المغربية goud.ma",
         "player": "",
         "content_hash": "61d75559c181da8ad998783ae848b4a8f8427d0f4d835e0f7dde412d23ef7d94",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 7799,
-        "title": "بورصة الدار البيضاء.. تداولات الافتتاح على وقع الارتفاع - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxOWllnSmpnWl9acmlRZWY4R0pabG9LZXVhdmJhdUZORG1ZOXR5eWhiR2p4ZjljYTNINkFpVEk2MlFWR1hmRGY0dmE5RlJScFFvVGxjNTVUdXN3cUFMU0YwelZteHBjVEEzYXJPRDZBbk5obVZRWEwzQVVEb0Zvemx2MlhKeFVOb3Q1RGdSY05xMFNaZ3R3T293aWhoXzN1MlIzc1NUWXVFSE1UV2swaE5hbVBDWkw5VHQxSzRfbC0yRUhfY0tfY2dGNXJfTUE4VDRyLWhrU3ZiNjlMNUx6Ri14c2FkRkxkbEVZTnBjTDAtWjV2OXA1TGV1dS1jdVBOTXVQVmdLR3N4VjNieVZjYm9JQkM1aWl5ZHpLZmcwd3FVTzBadXZLUHpDUWdMRTRGU0QwNGJiY1FoRS1QdHp5MFdCdHhFQUVmTVFZNzdaQXJRQTVsZV9UNHhmM016M3JKQ1BZUmhtLWhXTjY3NVZPNmg4Z3ZxSTdBS3RFLWlKdjRIcmVxOW9GQXNwTzZVSGxtQkRDY1hLUURJU05vd0pKUm5MQWhSa0NxTTRIZjQ3SG5WeThtUld5Q3FxNkhPamhZV3V5S2ZxdmEtZU1ZRnBKTlh6LWYzUVdCZFZXT3hxZnkxV2tsWTRiRmZva0E0NEUxZEVjTDNWVWM3OWtsSllQdXc?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Wed, 30 Sep 2026 11:35:54 GMT",
-        "discovered": "2026-10-02T09:20:18.623655+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "بورصة الدار البيضاء.. تداولات الافتتاح على وقع الارتفاع | MapNews",
-        "player": "",
-        "content_hash": "3e3deee17e656d3fa845cccbd3c5856e6839184893866ec9e296a9b0a8f44396",
         "sent": 0,
         "section": "transfers"
       }
