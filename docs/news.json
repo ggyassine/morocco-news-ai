@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-02T10:04:05.598094+00:00",
+  "updated": "2026-10-02T10:22:54.752663+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 7817,
+        "title": "المنظمة العلوية لرعاية المكفوفين بالمغرب تشارك في مؤتمر بجوهانسبورغ - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmZG12SEJLZXpqd1R6cUxkbllKVmF1RjV6LUt2am5ic2RhVGhKWE91US1RdTBUZGgxVXN3bUdwRHg1SDlBeEg3VkRDbEpadUt1bE1jaVl1dndQYlJWek1XbDlqanRuZw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Fri, 02 Oct 2026 08:34:48 GMT",
+        "discovered": "2026-10-02T10:22:30.156457+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "المنظمة العلوية لرعاية المكفوفين بالمغرب تشارك في مؤتمر بجوهانسبورغ Le 360 Arabe",
+        "player": "",
+        "content_hash": "f1f11dc5b7b31e3b0ab0962df2287a0e4d0bac31d66174b1fe78bef03114cd7b",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 7783,
         "title": "النتائج النهائية للانتخابات التشريعية تطابق تماما النتائج العامة المؤقتة التي تم الإعلان عنها سابقا (بلاغ لوزير الداخلية) - | MapNews",
@@ -482,9 +498,41 @@
         "content_hash": "0a789156f8f8ffb538703e50ebe9e0e9be7a06db557b13c6e82b952a2356732e",
         "sent": 0,
         "section": "morocco"
+      },
+      {
+        "id": 7794,
+        "title": "تفاصيل محاصرة عمدة طنجة في فضيحة الأوراق الانتخابية - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBNzFUc3c0THdXYmtTbjFuRnUzUU1yMkVMNFdIdXFjZk9mTmlhNDBZUnBnVURjUHQxd2tIQzhUeGFDcnJRbFBCMXFRcm9VU19fMGk5X3dTM3BKM3E1eVNQVDlzLUhUQUFY?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Tue, 29 Sep 2026 22:19:47 GMT",
+        "discovered": "2026-10-02T09:00:27.197757+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "تفاصيل محاصرة عمدة طنجة في فضيحة الأوراق الانتخابية Le 360 Arabe",
+        "player": "",
+        "content_hash": "eae84b1e46a54df2db6ab0a84730e0d6ba6945bca116cf35fae1aff2217d7e85",
+        "sent": 0,
+        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 7818,
+        "title": "من 10 لـ15 مباراة.. ماذا ينتظر حمزة عبد الكريم مع برشلونة؟ - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNdnRhOFB6aDlVZVNuc1Y3QUZjNjBfYlkwVjBIVzFPa0U5dDBGWW0zeXo5cDBJWTVEd1BjdmE4OC1HTW5kc2VVMVY1VlAtek9tRDVTMWlaUHZ2eEtMTGVZNXBYejF4akpSalNaR19WSExxTThtV3VXTFF4aDV6QWsxUmtJUlhqXzZFV05rUUZyUGx5U01qYWppRTl3SWM3UDhGZ0U2MzZsMFlHcmJjcEc1RHE4NDV3aXBkOWlDWjdIM2RVcV9tQnVpQXJGLW1mQnl1VkxpYThXS3lOY0pOb0dKaTd0dkRqTzZjSVo4bEppZEd4Rl96ZjhDWkxHRkNPMlhXdTRobWNZOUJleGI5MjdLR0NpajJsTkhGa1lFTW14WnQteTJJQnk4QVhsYUd2b0xEbUFKMktiNVFwNWNBT2dvR1pRcmpsVG1LQmhhazNFVE1HdlZMQk5YRFNJY3JIejVfeWtUYnpJbWNERHNkTlFKMUZCX2d5Vk9XZkVQdi1xUE9zRnl6aElUM010d1RLZ0o5Ny1aMjVic0pCbC02dHlRMUxhYVRRZjlyM05GeUlPS05TbnUxdENKbXlxUmbSAcIDQVVfeXFMTS1YeG0wSl83ZE1LUDJYSWQ2WTVxaXYtYWxkY0Zqa1huZTdvd3FoQUlzV0JPWnR0dFlCdFhxcHNMb0Y5TloxNW1UdW9HVjdpN0RIT29QNmZvNlhuN2lpVVpaMVRMV1Bob1l0U1FvTjJXVlBRRzVFMkc4UGFkLV9MNWxxN2R2NnpRaG1fdVAwQmxFTGhYakgwb1RaV3VUODI3akhudFRtZ0d5Mm8zSWxRa2pRZVpSRTBiWEpRbzRpN2x0U2o5UGt0SEowcEpDVDNLSFZVak00MFVITTJRSmNiWGRSSEtBSzh1LVIzRFdJUHpWR0ZlNmFqTHBSWk1COURZQUxvMFlTY3lfRHc3eFR5SW94QkdFbE9pVG1LdFYwejVzejBsVndDME4zUFpBcUJib3NIZkJtNVJWbFRnRGZnWU0yS19qRlFFbThrQ3dkU0RFaHlnQUNBQklSdEF3R3lFak4yQjNkZzZQaTRtejN6V0t4REpHaFhBUThodk1lajlIRjJ2REpuQXVqWVVTRWlOalJlWWZuX3Z3V2JmcUdIazhLc1RpM0FVdUNtUndZc05HT085ckZVYnBFeXliU1NlSUlR?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 10:09:00 GMT",
+        "discovered": "2026-10-02T10:22:40.442315+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "من 10 لـ15 مباراة.. ماذا ينتظر حمزة عبد الكريم مع برشلونة؟",
+        "player": "",
+        "content_hash": "9c409171e20ed79bd72e61a78a7d2c1da88297db640f5d603f686a81c3ddf0ec",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7815,
         "title": "مباراة فريقي السعودية و قطر في بطولة خليجي 27 - نصف النهائي - FilGoal",
@@ -1266,22 +1314,6 @@
         "summary": "عودة الواعد زكري تنعش تدريبات سبورتينغ لشبونة جريدة المنتخب",
         "player": "",
         "content_hash": "9627e747f61501bafa2de6a6c97fea5090f6587e2f1685a4501d30244111cd0b",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7633,
-        "title": "احتجاجا على الكيان الصهيوني.. كرات التنس وعلم فلسطين يوقفان مواجهة أيرلندا والنمسا - yallakora.com",
-        "url": "https://news.google.com/rss/articles/CBMipwVBVV95cUxQV0VfbXlpZXdlckRqN2JscnI3OWhUOWw4a1QxYjBTMURuaHp6dmxnd05HOHhXVGN5TkZWVldubjJROXJkS1JjVjd3WWtrTGdKQTNnVXlMUmV1bmxET1ZfU093eF9IbTVvakxHbHJIZGlkMFhIWDY4bzZUa2hxYXRicVNfSllTR1g5bGtYcW9NZS15eG45amNzSFkyQ3o4ekx4UWVkclpoQ180X2l1S29BejQ4aFJFclRVUGZvelRxcGxuaWx4NWNKZ3I4bkhpWnpYS2lzNmlWVjFkWUU5OUEtRUQ0dWNfXzdOWFY4RldiU3dEa2hETG43bXdzZkRTTGRvVkZrRXRkQlY0YU1WY0lZaE43WF8tNkphOThWTDJhZVdhUkt0cjM1aVFGOWR1aFJRSExyUk02c2FVYUZpQ2FuaHpkYkRZZjM2eGZ4U2NiWUl3dTJfc2trbFlGNlhTRTVQblk3dVhFMWRXTTlsOGdfQ0hoMG1vVHh1SEx6eGxqQlJvaUVMWHdaU283cFVCVy1YVDdoR3EybWNtYk9SWkR5MGd3QWZhVkppMWJULUhXbEJ6UzdCM3ZxUnRVUDMtSWFIbFBKS2UzTWVETlp2QnhqcVhNSWNCM0RPTTlWaG5rRkRZdFIwSU40eHdWX0lNbmNQMFMtS1NIYjBzNzdOcWNsdkJxOFBaaDFsUVBSWDFNU0FpWWhjUzZCSkN1MTVleXFwVjVxSFVlVU0zamN6NUNWRWtZeUhwMGdOLUhEX2wxa0RxWEs0THFIM3M1RE56cENzWWI1SG5zM21XVTM3ZklJUk9UNENHSXk3Wk84eUdDV2RZZWltdDl1SDBCcVVLZkZMc2JVOWxXcnZlVW1XT1Q3aXFhNmRDYnNvUXZpUXdXZ0ZkaHNRcm130gGsBUFVX3lxTE5YMXhqcDBhMVpSRVRoR3JKTzR3YnRiQ3hBelFwMUxpQ3Mya1lfZmF1MHhlYmU4XzI4RTVzSXlacVk5b1AwNC1Va0hCb2dPSmp6amwyRzdDTHpGZjhFWnRmNFNVcWdjM3BmZ3Z3UHhCbTZpZU44S0xoTkFFM0Y2c2xfR2FYRFRuZVdRd0ZiQ0Yxb1lxNExNLTd0N2l0Z0JHQ01DTnFrenlOdVJwWnBRb0ViSk02a1A2UzhpZGdqbFd4YVc1d2xSdHVqWkItYVRTTW8wN0Jxby1CckJ1ZWRybl83LXQ2TnNkYkxfd2dObnByUC16SkVxYTYyMDRmWjVWdFhSOGZWRDcyVlg5cnF2WGZ1bnZRQjc4MEdFaVl5MTZQaUx2c0RtQ01vM0ZOMkpYTm5PLXZ0QXNUY21XUXhna0p4dXlua3lFWjh1aElBc1dpQXVHaERmWndabzZ4eXAzQzZVcVBtQ0Q5N3RhNm9QSl9HbXQxb0NjTnJnemJQZ2V0UE5WMVU1QlctX3Bza05rQ1ZqSTNWaVpKSVN1TEhDYk84SzdzZHRVQ05EOGdraVBOb3laSFZmYkxBN3dRWjlnNkYzWWNzaEVGblhHY043NHM5MHF2WHpFaVhudjVSSS1vUDZSS2VZQTBraGJibHI4MVZWaU1NYUROSnByNFQ2bU5vek1Db2ZOa3gxNUV4cE5nMWZNamJfa2dIQzV4NENFQmFTTVhhWHBCRkx0NklqRnhiMjdTWHpYa29Pa053MkJvajZMMlkwbEh1b1Y2dEZiNzJWQW92NW9vR0QyMmlMNkQyWW9hSkxELTZTbUU2YXhZYVFtRExaLVhOcWJpUGFaWVRsUUc2WnhIU08wTmVHNDJyZnB0VHFXZ0V2T3JzMjlyQUx3R1FlZkdGZnZWUw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 20:24:00 GMT",
-        "discovered": "2026-10-01T20:37:16.508115+00:00",
-        "category": "أخبار",
-        "status": "غير واضح",
-        "summary": "احتجاجا على الكيان الصهيوني.. كرات التنس وعلم فلسطين يوقفان مواجهة أيرلندا والنمسا yallakora.com",
-        "player": "",
-        "content_hash": "d2d92c31602b85ac8eea9cddc600f711a313471f40f94794e35ecb015b63a983",
         "sent": 0,
         "section": "sports"
       }
@@ -2360,38 +2392,6 @@
         "summary": "أمضيت طفولتي ضمن عائلة مُطاردة من مكتب التحقيقات الفيدرالي BBC",
         "player": "",
         "content_hash": "5853cc8a3d872fb30de964f3d2191bd0410d173d28aeefd708462c08d7229ff5",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 7317,
-        "title": "وزير الدفاع الأمريكي يعلن تقليص عدد الجنرالات في القوات المسلّحة بنسبة 20% - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQcWlVa2c1SzQ3QTVzX3I1cE9pbnROajl3Y1EzeUJzSTlIVUhCcS12VUxGdzgzUndkTC1JVmd4SDBudUdHLWI5VzBTQUtGOW5fYUdnT0Jrc2pDNlZwMXJTZEhsc2h0WFplNkdHVS1NZUZxQ2poQk5WRmJlbGlVbEx6eHk5bTlGd3lVX3hmUDl4Q2lLT0NiODcwMWlLYTJvUzlDekF4cFV2MG1QZmpMSkNUVzBEVEJ2b1JmQXo2XzVDYmd1OEtmV2RPRVFSRDB2X3ZyNHhNbnhEZkJSZnR6dFdsTm0xZ0JuNTdaNGJSakVfNk9NblkybnJjY0w3WDNwbi04LVRVOVN1NmxQWEs4M25QSWJkcldDWlRIS0JJVUw0TU5tQUZaeHZyb3pYdklnMTVhWXA2OGRfOVZQU25YSFQtSktKdTlrbEU?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 21:00:30 GMT",
-        "discovered": "2026-09-30T21:45:17.073746+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "وزير الدفاع الأمريكي يعلن تقليص عدد الجنرالات في القوات المسلّحة بنسبة 20% القدس العربي",
-        "player": "",
-        "content_hash": "d723b73dadba48e483651aae949af08cb4e3e937e2a62d495ab2de6a73c06c7c",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 7318,
-        "title": "الحرب والانتخابات… حسابات ترامب على جبهتين - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNQ0xLYWJCb1E5cVJLeTJTQkxfSjVPVTNJOUdZdm5DZGdtMUtSN2JHY3J4dktEQk9JNUFkMVlEa3B5U0JKQU4zUDM3WDVLWkxZeVVxREhIZ0JyOFNIZDRHMjZNZ25HZ3U5RzBKV0NYUnBseWhEa29ySU00LU1XNFNQdUdMQjc0bTJsZXRWc1ZnVDc1MEhaYmFMVlptUVdnQmpYekt6bEFZWUdpdEZKYUpsSWFkclBNRUtTbkg0LXBFTXBfZGFRY25oZWwyZ09hUXJHem1KcHYtZkFLWmRtQzVIVXB6REphbU9JRVZDU2UwYWotcGlMTmI4TWp0Q0NldWlKRHpiMTd1LWNQZzI3bjFjU2ZLUno2RkF4b3VaNHAzbG5UR1FWanBUNnRyYmRKM084SDAyNWV0enVIdGJDVG1KSUhPYmNoQQ?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 20:07:48 GMT",
-        "discovered": "2026-09-30T21:45:17.078297+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "الحرب والانتخابات… حسابات ترامب على جبهتين القدس العربي",
-        "player": "",
-        "content_hash": "fb56d13bd4e797554981f6b3a9424707fed958e67f7c95476563c0c66662b134",
         "sent": 0,
         "section": "world_arabic"
       },
