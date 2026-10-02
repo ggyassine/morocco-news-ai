@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T21:20:07.030165+00:00",
+  "updated": "2026-10-02T21:35:46.187688+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -646,6 +646,22 @@
     ],
     "sports": [
       {
+        "id": 8011,
+        "title": "لقطات من مباراة فرنسا وإيطاليا في دوري الأمم الأوروبية - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNaUtPTnhQaTRObGRGQkk4UUZLYThhRTRReXdUOXl2emtZVXAtQldTNGJfeG5wU2ZKVEFWTGlQeV9BazVydktxR2VORXhnSkd2UEdza2tVelZvZG55ZDNJaHFFMVZQTjlXeVJkUTJ6VVoyOGRzMDJFZlphS2FVR2NyN3k0QWVnUDltNjZTREQyc3hKQ01DQnA0ZENMS1Zqa2d5SGxwY1kxZmxRY0M1b3A2cVBibUlzdG1aZjNOcDd0NVl5ejFtTEI0b25iQlk5elNJWGMzWW9aVFFRQlhSRkxQMC04Y1JSQzhteGI4OWxSdy1CeTdIcThlaUJ2MEY2czNaT2pCalhjSUJCbmdXQ2hIekQ2RjBqdEtXeFBsMk0wRGM4dGdxMVRsc1puQnhESzJ2SkZTejMxUF83TmJsQmpEVFAwYkFnZTVhejNGWU1WNmkzanBLWV9qMy1aWkdWLXM2cUdqWWFqRXljNmc1dEpIM1FvQk9mNDZlWDVCdkVWQ29DV3VSSEhRZWVwbGh5dTZZTHdJSVp2Q01jWWhhZHJXSHN5VFhPb3IzaDhZazYzV1FFTG9hcklqM19nbE1GcldvX3VUYTNoU1JQRlRu?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 21:26:00 GMT",
+        "discovered": "2026-10-02T21:35:30.133328+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لقطات من مباراة فرنسا وإيطاليا في دوري الأمم الأوروبية يلاكورة",
+        "player": "",
+        "content_hash": "494660daae5371504991eba5387f07f00771cd4cd89e2f4853eed93cff796621",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 8004,
         "title": "اللاعب Ismail Essabah - الإحصائيات والسيرة الذاتية - Kooora",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM0k1b3h5djV0Uko0emMwZUwwRjlya3ZVYWFydTJDdEY1S1djc0c0T2tqczRJV1M2VXFfZlZ1Z3pZNEppcGdDTkxGOFVHTzV1c1NmUXZPcGdXTUY3RFA1b1dnZnQ0SmNOUE5JVGtUbkFteGlfNlRBSm9saDBmVzhtM1M2Mm16QnBMbmxwd1pjS1JqZWFORlpDUWhlREhEYzNfY1c1X1RCdTJFdzY4VU5uOW5NRVE4cGN5S1FTSUhhOVg1b0ZoN3djOA?oc=5",
@@ -674,6 +690,22 @@
         "summary": "أخبار و معلومات اللاعب ناهويل فيراريسي مدافع بوتافوغو winwin winwin.com",
         "player": "",
         "content_hash": "ce9543348f0ba1550a1de25b1ddd829257ab93b6bc2d2453157441af2bc4c697",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8009,
+        "title": "فيديو: أوليسي يكافئ زيدان بهدف تاريخي بعد 558 يومًا - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxNa3lKRGE5eUFycFhJOG5Nal9xWUVOQWtsMmpiWm5fRmxOUktwbXFVUzRXUGlXSm9MMklBMklDUWc3SkJrN3VCUUl6cWJ1bXlMVzJ1Zm9nbkFCZWkzZEIwRlphMmRKZ0lRMS1nbW5RQWtkM1FjZ1pDb2xrOVJEZEcyT2h4ZWtTS0xaNzljNnRDU3dhZUE5dENETW4tek8wLUlGRmZyT05QbGZHTnQwNENKUWgtR18wRFR3b3JiR09vRjJINTE2SDRRb0NwNHAwalRwUFVZdEZEaEQxZVlhQTlLQ05wUlpqVl8wMWE3V2ZMMDY0bC1FbEMwVGYwSzgwMjcxbVJIR1BfUGN0dl9WMVM1WVhEanltMDZiTVRhdGRYdzdweEg0WVJsTnhuQXJQejhGQzdtNHk4LXFOdXZSSGVPM1hjcndBLURvWU1Nd21Remo2OXJkbmVkdEItMGVpT1lxYllZclhyb1lVbGxuQ213aEt2OEFiMFlDanNTaUNQNkhZQ2F1UXQ3cTNYbzR1dG1NWDNfVHVoUlNYZ0N6RkxjekFGbk5Pa2doMy0ycUJvNG5OQ1pWOF91QWRIZEExc2gtUlpOOXRhX3VmMEUtU0xNT2NMcDJDaVhmd2ZtRFRwcl9aQy03dVJfZnpWNkNDU1UwZEdaalZkUE5YS3ZZLVRvaVFFS05fMDFV?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 20:33:32 GMT",
+        "discovered": "2026-10-02T21:35:24.747590+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديو: أوليسي يكافئ زيدان بهدف تاريخي بعد 558 يومًا Kooora",
+        "player": "",
+        "content_hash": "709f3621fac630cecb182fd1142eb7d68c561b04f345d0da3a38d710dcd796d8",
         "sent": 0,
         "section": "sports"
       },
@@ -850,6 +882,22 @@
         "summary": "مؤتمر دي لا فوينتي: لن أعلق على أزمة رونالدو.. ونجاحنا بسبب المدربين الإسبان FilGoal",
         "player": "",
         "content_hash": "615c2907003f3588ffdc22f137cf72c54ee6175a804202d879a040258da0c1af",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8008,
+        "title": "كوكوريلا عن تفاوت مستواه: وضع المنتخب مغاير لريال مدريد - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxPMDlPdzdsVkJoRWZpdXVtZDltalE4N0NTUzBqamVpc2FaOU03MGlFdEhpZ20zTzZfNG14d0t6U0p0NlNaNFVLV09BZlc5aVBFcXNfaWk0TkZaMVZBVHFvQ1JPQWVwLUVhSERNOERJUldPMG9KbGpNbUc2UEh0Y25UX1ZpSzUwZ3VoQWcwaU1QME02SlJ2ckpWRGJhalpKNnZ6ZTl4cGFURElLVTNMSzJTMW9wN1FVdUJ2QzMzNjdiZFZDYllHT0EySUdFTncyTDZISFhNNnYtYktqRElqTEpDMGhELVZJRXRqZkJqX29lSGstVjNnTG4wQ2xmdzhzMEtrcGVJUFFlczV6N3E3N2pnM3NoR2piNmFENzVYU2ZiZy1kQWtPR0wtdmx0NnhOZkMxSXllNU9XczhuZWNZX0o5VGNCNmY1aUtBakJOX1pOZEVWOGkyZERuOE80WVNac3U4Y1pZTk90cl9FSHBJZG1SUTFFeldjVlZXekEybVpGbWpNblZyWTVJdmtEQkxOQllXTkdTTVlyblAtRTlHTlI2T1NuTGtuaUl5a1hjNDlPNFQ4Mm9fTURUeTN1YlZjR1hlLUpTd2ZZcEdUR1VvNkMwWVRTZ09hVmlZN1BMRHV3V29OU0VqdVRMYTRqNnhkN0QyTC1PcmZXM0ZFWlhlRjdMY3FaTFBVckJvOWZlcGl6eTBKaHMwSlB1YU4zcHNabnNobnBkYUtXdGlNQU4z?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 19:35:34 GMT",
+        "discovered": "2026-10-02T21:35:24.738829+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كوكوريلا عن تفاوت مستواه: وضع المنتخب مغاير لريال مدريد Kooora",
+        "player": "",
+        "content_hash": "86c907dbfd42b70f9630b57c3f4660d42af547fadd10b5ab503b203491f3cf35",
         "sent": 0,
         "section": "sports"
       },
@@ -1366,6 +1414,22 @@
         "section": "sports"
       },
       {
+        "id": 8012,
+        "title": "مصدر من الاتحاد العربي يكشف لـ في الجول حقيقة إقامة كأس العرب للأندية في مصر - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xaGR4aG8zc0h2MHRNa3N4T203VGxqMVRYMUJLdnU4RFoyZDF4bWZGZ3RvaE1IbkpnZFZSbWNBOGZjb2Z1TGZ0aDV4aXcyWmU30gHaBEFVX3lxTE1FYUx6bm5aa28zVV9sbUcza0tzcjl0cVpNRWozOE9Ra3NLY0IzZFJiN0lPQ1kxWDJPWV9LZHNqN0JQa2JQZnlUZHVnTURXcjhWenNtQkdqRlJfTEZIWVI0VUZFbnpUVXZsUTNvYWFCcDVNMzFKVXBYdlpCdzZQMmNXc3pLdjVRTmpKTmFyUm1LQzF0M1BKcFgzVG53TXh2ZDBNcTBZbGhaRFBzRjRWYUZaZ0JOS01DX1RtSXV3emx4X29mZmZWbjJUR3h6YlZJbzVtTklmNGtoT1pDOHBZckFla2VsUl80dVQzNWx4LVdaVG1oS1BiM05sUkRoalZYb3JqUTk2ajh5MEp0RllHVjFwcHd1TTR4Zk5XWWtwbUh1eGNBZmVaRVkzakJSYktob3E3WVo3OGxCUjRWb0JYUU9qaGNSZXhZaGNwenpheWR5UWFKWEVnWHI0cnFtczBydlNaWExCRlJCLU9MY3JZSXhYTjQ5dHVlREtPel90MFNKYkpoMUdsV3dFOTBsM0V2Q1RPbWZJdXR6ZG1JTVNTdk1MTVVEalZnZmNCTHpYS3lFMlk1S0ZDTVFELS1pMHlzakhNZTBHaHlLUkV1eTdESGdXTzRZdUpiYmpnQWlSZFNKTENMVVlhNVlQTGlZR0tvYS0tYUQ0N0FmbUZJdUpPMEtWM0ZPVDU2ZldyNlF4Y0Itc0xLbWFNU3p3eEt2ZmVLVTJOb01hTnZocjRrZmcwbzAtb1FLQm8ySTQyVGFBSmtvOUJNSE5nWkdJZW5wT1R5VkhVN1pWRGw0WTFn?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 16:38:00 GMT",
+        "discovered": "2026-10-02T21:35:30.862249+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مصدر من الاتحاد العربي يكشف لـ في الجول حقيقة إقامة كأس العرب للأندية في مصر FilGoal",
+        "player": "",
+        "content_hash": "a41e6a6929b238ef8548033d04ab8badfadc8d6326b1ed6e5d26ee75d4389506",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 7981,
         "title": "مصدر من الاتحاد العربي يكشف لـ في الجول حقيقة إقامة كأس العرب للأندية في مصر - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxQTnJSV3k3amc4WjgzWktWZ1RRMXFWV19sU3NNMkxxMzI3d3RSamRGNEI3aU1tLXEtbFNRamJXTnZWaXNBY3hadmU5ZUdBU3lITWg1WXNVei1rN3dPSVZTbEZHd0J6Qk1qQ3ljTGZsclNjd2d3VFowZzlvWEVGbjJweXJOd0dJODlocUdEQk9tQVZtQkZMRVY2TDluSk54VkNTVHN1T050TXVJQ1dPcUpyVENfSUktSnFpQ21JSFNxclVsSTNLS1N5UDAzVTVrNmU1ZlBqWjJmQms2RGUyWHIzT0tlT3Y0c1JTOVZOU0ZvZHdwRi0yOEJ6MnFlMm5HX2k1Z1ZqVjVkNlgzSUVXRENDNGt6Q3kxd0NsWjhXVzRLM0F6VXljQVZkLWthRVp2MDFncElGRmVSRTBxR0hUZjkxWU5OaW9SNXBFOEc5bEVmS2JmcXB0dUlZR0p1ODVPVWdLOUhpQkVkZzhNcTBvTWQ5TndzNEZFYXVtTEx6WEFNXy05d0wydEwxcWw3RlBQSjdwQ05fZllCQU9DY21hRnczNGREd1dCaVNIcnIzMWVjOHNCTEw4MkpvVlIzWTN4blNwWF96MTN2RGdNUUFDb0VmSWdrMGN2UjViSXVTWTNpZE95Z0NtNTk4VnNmSWUtaTNXMFdmTG1nQjBJSGZ4X2pPMERzRWdRSW9zbkp5cEFfZS1yT1o0OHhrQ3dzaWxRZVpwWlJyS1VNX2IxYllfUm5wYzc5YkVCZW1XZGpaM19LdDd3Z1ZvLUJmU2c0SUg0UE9yQS1TZtIB2gRBVV95cUxNRWFMem5uWmtvM1VfbG1HM2tLc3I5dHFaTUVqMzhPUWtzS2NCM2RSYjdJT0NZMVgyT1lfS2RzajdCUGtiUGZ5VGR1Z01EV3I4VnpzbUJHakZSX0xGSFlSNFVGRW56VFV2bFEzb2FhQnA1TTMxSlVwWHZaQnc2UDJjV3N6S3Y1UU5qSk5hclJtS0MxdDNQSnBYM1Rud014dmQwTXEwWWxoWkRQc0Y0VmFGWmdCTktNQ19UbUl1d3pseF9vZmZmVm4yVEd4emJWSW81bU5JZjRraE9aQzhwWXJBZWtlbFJfNHVUMzVseC1XWlRtaEtQYjNObFJEaGpWWG9yalE5Nmo4eTBKdEZZR1YxcHB3dU00eGZOV1lrcG1IdXhjQWZlWkVZM2pCUmJLaG9xN1laNzhsQlI0Vm9CWFFPamhjUmV4WWhjcHp6YXlkeVFhSlhFZ1hyNHJxbXMwcnZTWlhMQkZSQi1PTGNyWUl4WE40OXR1ZURLT3pfdDBTSmJKaDFHbFd3RTkwbDNFdkNUT21mSXV0emRtSU1TU3ZNTE1VRGpWZ2ZjQkx6WEt5RTJZNUtGQ01RRC0taTB5c2pITWUwR2h5S1JFdXk3REhnV080WXVKYmJqZ0FpUmRTSkxDTFVZYTVZUExpWUdLb2EtLWFENDdBZm1GSXVKTzBLVjNGT1Q1NmZXcjZReGNCLXNMS21hTVN6d3hLdmZlS1UyTm9NYU52aHI0a2ZnMG8wLW9RS0JvMkk0MlRhQUprbzlCTUhOZ1pHSWVucE9UeVZIVTdaVkRsNFkxZw?oc=5",
@@ -1378,70 +1442,6 @@
         "summary": "مصدر من الاتحاد العربي يكشف لـ في الجول حقيقة إقامة كأس العرب للأندية في مصر FilGoal",
         "player": "",
         "content_hash": "a41e6a6929b238ef8548033d04ab8badfadc8d6326b1ed6e5d26ee75d4389506",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7960,
-        "title": "مدرب الإمارات: درسنا منتخب عمان جيدا وجاهزون له - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPS0RlWE00b1BtcTVLNHl2aXdPak80MFd1eGRUWEp0REZ2ZE84UnI0WUNJclBUMU5XLXViY1VDdzhobTlZRFFQbGdIeUhjeUd1SDkycTY4eTJYTExuNFpQVmNvTndBSTB5c2RSY2U2YlZoY25CZ19wbVlUSm52YllJMl9LTmVPeEw1MDlNNkM0c2I3Ty1hMDhTbEMyOXdQd0NGczFnaW1kTXVfR01zMzN0Mm1BN0EtbXpOdEZjd1RRMUFWWkNuT3JQaE1pajU1c3huZHdjZjRtSGoyVVdMck1VQlUwNkFaUUFpR1puSWhybHRDRGl6SW5rM2s4SGU4STR1eE5ST1J6ZnRqWnhac3NuWUpTRlFmVzJsR2hOYzdPY0xzallhNnRPelppVnFITTdmTGlzcmJDMUNWY08tSTVMTjVZMGhjeVlwY0dXQ2dUam15OU0teWtzLTNKVllCVHBNenA4Q0p3LVJCM2xvU3E1YUktUmNYR0VGVVBpOTVFZVUyN3k3aHdobDNVNkvSAYwDQVVfeXFMT0tEZVhNNG9QbXE1SzR5dml3T2pPNDBXdXhkVFhKdERGdmRPOFJyNFlDSXJQVDFOVy11YmNVQ3c4aG05WURRUGxnSHlIY3lHdUg5MnE2OHkyWExMbjRaUFZjb053QUkweXNkUmNlNmJWaGNuQmdfcG1ZVEpudmJZSTJfS05lT3hMNTA5TTZDNHNiN08tYTA4U2xDMjl3UHdDRnMxZ2ltZE11X0dNczMzdDJtQTdBLW16TnRGY3dUUTFBVlpDbk9yUGhNaWo1NXN4bmR3Y2Y0bUhqMlVXTHJNVUJVMDZBWlFBaUdabklocmx0Q0RpekluazNrOEhlOEk0dXhOUk9SemZ0alp4WnNzbllKU0ZRZlcybEdoTmM3T2NMc2pZYTZ0T3paaVZxSE03Zkxpc3JiQzFDVmNPLUk1TE41WTBoY3lZcGNHV0NnVGpteTlNLXlrcy0zSlZZQlRwTXpwOENKdy1SQjNsb1NxNWFJLVJjWEdFRlVQaTk1RWVVMjd5N2h3aGwzVTZL?oc=5",
-        "source": "سكاي نيوز عربية رياضة",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 16:37:57 GMT",
-        "discovered": "2026-10-02T19:15:47.571117+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مدرب الإمارات: درسنا منتخب عمان جيدا وجاهزون له سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "59f0088f2707996f880b7d1df149839f6297cf5f701879ed2900cfaa6b88232a",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7978,
-        "title": "استعدادًا لكأس الرابطة.. الأهلي يمطر شباك مصر المقاصة بثلاثية وديًا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxOeGVkelVwRlJxUnVpTnIxS09ySVR6SVh1QzY4WWpUSEdVVU01N3BtamNCWm1WVEJybUFhaU96bnp6TkxJa0hRQWc2bUhjOU9sVjdDMzRIYWExblh0UnlESFlveVB3SS1uQ2o0b1k5SFRmQnpkdzVGMVNEX0hhM3RYaFloQlZmZlR1RGF3UnVWMUsyMmxob0g3OWtITjZ5NkllQk5XY2UyZkVxV2tHekRhZUEyRnhlbzlsQ1VOUEJqR1N1eHpZR1FxX1gzYXk4SU5aLUJDbGt6NkVBczBjVEM1UFpGMWFGc09FS1Jab3BXczNRcUVvcWVfZUdLTnRXY2JMNmdvTlhtRi0wWnhiRUktVllpYUN4T2RmbmJxODdQQ1dDSmUtbUxjZkR5RFV4SmJmT29LeWxTS0htR01DcF9lVWJ5blMtdE43MFhtNzZ1TVlBVWtDTm81RnlQdDA5eXAxSjlKYUU2d0hYOUU2SGd0YVZFRk5ZbngzWWNXMDBIQjNFT1FZZWw2OVktdjVzc2lyNVVwWF9HbjFDTzZ6emEtT3ZnT09DT0RaSW5jbndHb0NZS29veVFSRk1DLXNYUFplZEV1RmJiMzBVMkRudU51MFA0d3B0cmlJQU1UNHkycmRTZmVlWC1TV0FBY3pab1Y1VHV4TkVFTHZPdHdxZHNxWS16ZTZ6djROVE5TVk5FaDBqODBxYWV4TW9mYjM4VWpvNjNjUlVLREFLd9IBrwRBVV95cUxPeFFSX19DOE9YWFNFcDlvM1I1Q2lrNXM1TXJDXzdTcjUtU3Y5Rm8xN0puU19sVEdDdi1KQ0ZMaWhxaU1YMmFPQTlBN3pvdjd3ZWd4b3FLRk9DMjFRaTEyUjM5dlFpYnRRN0RJamVxOUF5T09pVWY0NnVwSElNOEZhNVpBM1V4SzZ6MG1aR1dPZG9nLWNJLXVKbExuQm5oNGlhanFLYnlCYnVlckhTa2Y4alBFUldiYW5qTnhoMkk4Wk80OVppUFRqQVpXRkltTmRGdEVzTk1CZnJkSE1icVNFWVFkZndpSVdFMWhsTWxjWGExUGZXZ1NtX2gzWWRsZGJPY0RPWXNMcGlrcm5TMGtMc05LcERsUU8xXy1mRUtkd2RBWjBmYUNPOUtFbUhtODRCZmYzb2prMElZaWpvZnVrSWVNVUR5UDNkS1lGanpLVV8zU2tiQU8yeW5tZ1RJaGJqdWUwc0M4RlhtYV9EdDJlaHpPNmYtWnlHenVBSWZlVEpIalZwTFRpeG51S0ozZUxYM3BfOVdfQ1dka2hnVlhsbmNNcWdmM25uVmFLUmwxLUFONWhJNkhDT3l0S3NtZk1wTFNtRGpwMzd6SFFwRjJkekN5OVEwdG9KVi1vOE1oZGcxRWxHSWZwek5mZUczYjN3dVY0b1cyUzItRWkwRFBxUi1iVWZUVGx1RWc3Yk83RUh5UVVUb2p6aTZQanBuY0RBMkt4bkFfQWRhMWZqU1Zz?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 16:34:00 GMT",
-        "discovered": "2026-10-02T20:00:32.494666+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "استعدادًا لكأس الرابطة.. الأهلي يمطر شباك مصر المقاصة بثلاثية وديًا يلاكورة",
-        "player": "",
-        "content_hash": "b22759cc0d654ee51adae55ed7af9f3096279451aa6b8f37ff6daffea2c15ac2",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7918,
-        "title": "استعدادًا لكأس الرابطة.. الأهلي يمطر شباك مصر المقاصة بثلاثية وديًا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQeGkzRU4zZHhzamVmaENoS2YxYXVkcFBfV01XMG1HV0Zya1dVWWltcWF1aXlCRm1tUEJMUDNCYTB3dTZRcGVaVEhTRHVoTEJEVFlxSVctRXItcWdnZzdHdVdfcGJScVROV3ZuYmc5dkhBZHdqY0l4cDNFVkJUczkya3ZPMG83S2pEMmNvazJfZDhldFVvcXhlcmNfcWt6UEpvbGVyUkh2RDBBbnJlbUxQTXZWRFpRVmJzME5mWnRSVWFfWXRwR0xtRVdTVENFVkR0Zi04NFFzZ2lBLVNJRmxldU5oQ1RsbHQtVFRycnZFdGJySDYtLUVzUWRMX0RHRVBHcjFBNVpwVW80T0szeDAxVHV2NEtWMk1KVzNRaXZMay1TdlZLWngzZ1Voek5BMXhqZExIX3pSWFZzZkxmbmFGd2FfTFlwd3FiOWdOLWE0TzlQM1F5X3h2VXZzVVI1bjVoaUtZbmJDbVVYRHRKUlhES29zQlVlTDZnU2tsU1VfelZ0TTc4STZ0Ql9PdmdmaEFrWGNFMGVENkdySGpBeTBSeDM5ajg5SXBaaUhTTzA1bmZHWGktMHFtOW02UmdiaHNtWUg1Qzc3cExjZ3VlRHVEaUFHQndaemF6Q3RSWFNLZFVOVkxWMGktNUxSMjZObWJ4ZHl1dFZxM3RSUl9Za0FpR2Y2QmRJY2ZDcjJqYkxR0gGTBEFVX3lxTE5TNlV2UzFWTjNFZ1FLX19SMTNMRjRuemhxNFZNdDNjbnNmR1hQMUtuWGNpUDR0UFc4UXY2ell1Q204eHJVYzhRZVVRMmRTVUJDMjhnd2NzYnNRUXAwdlZEUW1rSGp3a2s5MkRLWDNNc2pmSnRBTm01UG1DTHA5Qjl3Zkd2VmdSZ1B6UHVMRW1aUVR6TGItN2swTzVlZGRFbEp3ZVVSdDQ4RzFadUdPaU1tVmU2OEg1Z3FYWHlNTzhWcXc3aVdfbmZQcXpJVFJhMHUtYURSZFZsYkRfdml3MWd3ZjZYZ05tbnQ2WjZ2Uk93Qm1NeWdyLXVvRVhxU2J1b29mNmY5endNV2tYSFhvNVFMNVBfbC1MUHR5ekphQnBhbUJLMVRPUTZIV1VtTnF4ZkVfSTJ2aXBnRE9aT2xpRXp6ZE5yaWVUdnRjUHdzN2FjZXoxSGpLZzNEZ25mVURmelNsWW1RZ3NOYkstODVHM2stRmYtTHZDa0Y4VzFnSWhqQWR1QXV6aGQ2NjNITi05UmpoY1FFRVYwYnJsaTJFdDZSQkxJUEVFRjhSVnZkT1NXdXB6SnFuTkRQcG1STXE4aTFaelB1cFd0ZlRBU0FYM3psQVhUUGxGanA1VFFuSkprV3VGQ0llbVI2dS01X29fMHVpZzZsaW03b19BNDNVZHFzbVRDYk9XeHRKcUVLNWlidkRHaw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 16:34:00 GMT",
-        "discovered": "2026-10-02T16:49:19.376367+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "استعدادًا لكأس الرابطة.. الأهلي يمطر شباك مصر المقاصة بثلاثية وديًا يلاكورة",
-        "player": "",
-        "content_hash": "b22759cc0d654ee51adae55ed7af9f3096279451aa6b8f37ff6daffea2c15ac2",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7936,
-        "title": "دورة بكين: ديوكوفيتش يحقق فوزاً ماراثونياً على يونتشاوكيتي - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxOdUFHYWFhdTd1Ny1mMk1kSW8zUllJZ1BJc0RZMlBJTW5xdzN4QVdxcVFWdlphbFJzRG1EZUwwcEhrTE1QNXYxaktuekNlaFpHeklYV3JtRWdtUGU1cG5vdWNnbzdkRkIxTUdDMktpVmJvZy1ycXhGZkxWMDF6ekJNRXg5SU4xRmtSN3FpdU1EZWZtSExDcXd6YjludjBYbHNVSU1JLWdlTW4wT0U5bUEyS2xLOTQtY3Nub1NCYjRGWXg1OUtFUWlRZE5EZUNhOUplQUQ3NlhkMWZzb1ZIV3hqRUdQLXpnd3gtUjI0MFROWkNpLWttNlpkRFVOSUlTMWIydWRIdlNhdjBwZWx5T3FzRE84S0JIeWRZOEdsdkdGN1dLUzNGYnE4bGVOR0pMVmg5VFEtUHB3SmZqSzVXV1Z3WGd4aUNwRnFCUkN1QVVIRnFZR3pCNHlGLTVmVl9zU2l0ZVh3cnp1Z1MzdUQ5Vm82YWJERW9RcVc1c3B4bEU0TEtzMFQ4d3lGOEpKeFNLWFVUc0lmZ0NLVWRpRWNNVGtCMEJKOWMyeFpqZGdMTGswb0NDX2M4MzBWUEJGX2VfOE4zTlc0ZDBOejNFcVlEOXV3ckxMSlEyXzd4eEMzbFgxTnlXN0otZm5GclZRd3BHZWVadDhqZ2szMEhyQnR6UTZOd1l0eUI0alVtVHNMT1JvZmFLMUF0ZkE2Qm9reTN1czRybDFDSG14cXdZblplbXdTNlc3djAzemg4d21MdndmLWZHZ01lVDRoa0JjdVZCODNaU3pJV3o4QVVRVXNNdDh6UGhHVG1MLXkxX2VuWkNR?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 16:24:46 GMT",
-        "discovered": "2026-10-02T18:01:19.123295+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "دورة بكين: ديوكوفيتش يحقق فوزاً ماراثونياً على يونتشاوكيتي الشرق الأوسط",
-        "player": "",
-        "content_hash": "ce39e07cf536e77daca8f97366ea407ca88840892232348b45098a8fb4d78fe7",
         "sent": 0,
         "section": "sports"
       }
@@ -2102,6 +2102,22 @@
         "content_hash": "3ab71768b4e385a3a0b91868f1ab4fe8462f50f0dd1b0c60e2271a5afcfaa6bf",
         "sent": 0,
         "section": "transfers"
+      },
+      {
+        "id": 7534,
+        "title": "ترامب يوقع اتفاقا طوعيا مع قادة الذكاء الاصطناعي ويفتح الباب أمام تنظيم مستقبلي - العربية",
+        "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxNUUItQU5TOGV2dnRhcUZoYVI2c0lDdmtpcWZ0WV9qQkJSZW9INXNfX0JkTGZvYk9CSVNMZlZkOXZSRWc5V1dKeG9QYWpCNmNRdG5iaUFwNS1hUWdwM282eEJDYVlxd0JWZ25fWmRLbUdQWW5ZT29VZUlwbUhkMFlRTGt5RE5GejNIU3h4bjNYVDE0RGxtTjk5YlNDRWlKRVdUclBRMG1LMGM0UGJtcmJkUExWMDc2bWRqaTVkYXpmeGhMazlidUJCSmJITGpYN2IxS2RTSzBGY0kyYzBEQ3Nxd0x2Z0JIVnBoWW5fVndjS3B4SXM0Y2FqQ25rUi1IdHVHR3Z5OXMwcnhTd190SXFMQjRJcm5fYnotRTNUOEhMbHBEcUZiblZnWGwzR0tFTFdqR21pb0I5UkJ2ZmhGQTRfNGhaTTFLZzAteFFmX1BKdXM4ekR4dEMxZm13ZlhaU3JDMGtjLWx2Wlp3U0hGTVZCam5hS1NkQ2pDOVY2T0dhUTVUa1djek9kclRuN3BDc0JKSlNKaTZrcUNYS1kyY0ZRT2pwaW5CNkZWb3IySTdMWFFFX2Y0Qkk2Z1g2RmpWRHNDdkFrMmxLOHBOX0U5WXF5eWVacURZRE9SQnNkbVg5Q2dSdWJLZlVGSWxDck5pZHEtQk5DVERjR3pKclBocFBPQzN3LWRSOHdXM2d6bWpKTlg0cW1wUXJRRXc3d3dvVjcxS0daSV82eTNYMWNjS0htb2s5Rm5IX0dfSDZaZG8yelZoZDVnLWhJY1hmNmdJdEFhVmVMMHFpc093aXBwY2dIczQ4V0JlNHhkWEhUSFA4TkRiMU80X3lweTFueFY3MDZvRHJj0gGIBUFVX3lxTFBPbWJwdUw2dFBzcXJpeEVsb29NNWhUaWM2X1ZnMm1nX0s5a0k3LU5zNWU5U2I1TUx3eFFCcnhWOVdHdjJqUUVRRXBFYmF2NDNDMmtMVmRJbG9sVE5SUlU0bTVTeDlLNkJBM2RoYU5VU1lUeXRFR3hxTFJSbEdLQ0pVc29reVdJNGYwV1RfdWJWOU45NWxTN1paanVxdVpHcGVhSEpWMW5EUnlURG1kTS14cTMwN0JBRlh3TUE1TlVQNG1IS0ZRR1RpSFBJVVhaSDE4WW5OVHVUbHBXXzNQYllsbFhjVmZEWTVOUC1XMTUxdDBLWG1FZXpYMWo5SnN3clFfMk9kVDhGc2NjeFpLODk5MzlnRzdQakhaal96UXJMS2MyTWluM2x4Wl9aZVdOS2lnZmd1dDVJMXVmRVdMR2cwWVl5cHpuZkJQUUVmamRwVk5PNmxXRkJ3U1hrUU5NMGNyYVNVdEk0X2x6NmhWVzdhNXpjNmFzME0xOFlGVmZkRl9sZTRYbkxvWDJ2UmpHTVZSUVRwZmNzVGN5UnFsZmlUX1RjcnZZSnZ6MXdUR3JKVTVhYXRWVUNrckg1SHVFNjhoTzg3dkN0ZEdqaGtjdXFnUHNNYTNJR3A3SVlneUd6WDFVaEJjd0l3bnItZjVELWt5WFl3c1lINGtuVzlYYjFkaDFhamc5c081WDg3aExBcEk0Y2xiSzdqUk5hMzFkVHNmeXd1QldYUDQ5RUhDaW5fLTdHeW1JUUl1NU96SHN6UWlscnZ2Ukd3WHlEeEJvWkFMYndOQTlCb2NwdlYzdWJZNmtWdzR3VWpGOTBiXzEwaVpTQ284ZVJqM3RDMGNNOTY4UDY0cjB3Xw?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Wed, 30 Sep 2026 16:06:00 GMT",
+        "discovered": "2026-10-01T14:42:50.517349+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "ترامب يوقع اتفاقا طوعيا مع قادة الذكاء الاصطناعي ويفتح الباب أمام تنظيم مستقبلي العربية",
+        "player": "",
+        "content_hash": "ad149c9d00eed95b9d0a004abb62a6e9fdf4279734867b0b10518472a6a7e8ed",
+        "sent": 0,
+        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2214,22 +2230,6 @@
         "summary": "مخاطر الذكاء الاصطناعي.. من يضمن بقاء التقنية تحت السيطرة؟ سكاي نيوز عربية",
         "player": "",
         "content_hash": "e134d423cfc8b87348dacf8693dbadb9b60340bf379f0d1398441bdcd212be47",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 7511,
-        "title": "المحكمة العليا الإسرائيلية تنظر في طعون مرشحين عرب استُبعدوا من الانتخابات - aljazeera.net",
-        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOTUk2UGVTN3pObkhhX3Nqa3NvYVk1OHp0TEpBN0VjOWNfbkVMWk5DWlZXWm1iNHlOeGRuWFdzaEJwekhDRjdOSkEyVW5nVHRlbmR6Z0FoY19hM1ZsOHZnMGc3ck8zam9vZkpvZ2NQbVVlM0FBV0FQX2oweWRxM0NzYzNOS3hLX0s4X3dQVE50ZG1nR0dUeWNtbm1BODNGdVdaTmd5dmlUc1FOR3lOMHluTUl2aTFxVFNNbVp3UkV3cnBNYnI0XzZnMXJ0UGdLcndid1lXUUdvYVRFWGktWlR5RVhJREVMRlVrdUpPazVXNHI4SzZFaFhFeGpwMGVnNV8xekdxTm1Zam5hRlQ3c3FKMTV3blJOaWNIQkpNT0FZblpGX1U1RFQ0OGNLSURFdThZQXRWblNfTTFiLWR4SlFVejExSVhPMEJ0cUgw0gHQAkFVX3lxTE5VM3VxUXVSZUhzSUVMN19KVjBMMzZmX1lNS1p0ODJtRi1EYmk1ZzBtLVlmbWZ5M1hPVjd5ZUlqVkhkd3d6Wkl6cS1PLVNOUVFBS2NOa1JrUjJoeUtGOUJhMEhPaXNibFpvQnZfYnllR0Y3TnZoZUFlRlJpWU1CeDFnUFZyaVhqUm5QekEtOUdGZUcyU1Vfc2xFcnd1aU1vR2xrYWVBOUd4TlBzTVJaRGJXYTJ6cTNlQzlBTGxkZ1VhU1I3TzQzdGpUOG5SeHNXTlJzSlIwMDR2cy1MT3g5WlFSUmlvamRUUG1aa05yRnoxY1l1c3dTcHFmck1TeU4zUlQ1MjR3RmU1Wk5Kbl9neElYclNqUGhOcnFjM3RyU3BCUUEydjdTeFRkbG9XYTJ1TE81VlFvaFZ2cGJrc2xxQTBwMUpUWXJWa200RmpwWk9GSw?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Thu, 01 Oct 2026 11:55:00 GMT",
-        "discovered": "2026-10-01T13:30:22.585571+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "المحكمة العليا الإسرائيلية تنظر في طعون مرشحين عرب استُبعدوا من الانتخابات aljazeera.net",
-        "player": "",
-        "content_hash": "1e4491f21caafbf1831bf9e702bbef0bb7278386c46b20ab5dbfea261fcd2cba",
         "sent": 0,
         "section": "middle_east"
       },
