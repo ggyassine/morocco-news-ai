@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T15:24:59.494083+00:00",
+  "updated": "2026-10-02T15:42:31.669047+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -468,22 +468,6 @@
         "section": "morocco"
       },
       {
-        "id": 7399,
-        "title": "ديابوراما: كواليس تجميد الخصوبة بالمغرب - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wbk5zZGFWaG9zNTVDWWd6U04tYkxOQVpXSk42eV9VdXVnVVRELTlXS19pZ1JxOGhCa0dFR01OTWJSZE5YYXloUUJveVp4ejdVSzhEdXhBc2lYMVFUM0NfOElfTVIwZw?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Wed, 30 Sep 2026 21:27:48 GMT",
-        "discovered": "2026-10-01T03:35:46.675759+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "ديابوراما: كواليس تجميد الخصوبة بالمغرب Le 360 Arabe",
-        "player": "",
-        "content_hash": "b13e6a51002b6f056ae8ce875e6edf1947cd5e28a83bcc5ee8ae2f1d548a6d48",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 7716,
         "title": "مجلس النواب يترأس بجنوب إفريقيا الدورة السابعة للاجتماع السنوي لجمعية الأمناء العامين للبرلمانات الإفريقية - Le 360 Arabe",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLYVdmVXJfVmNDekZvMWNiSkxXeW1SQUVvV1MzUjU2aDRsdzZUV2sxVGtwaFZxaVNmbjN6YnJ5ckNNMm1qM2RtcXJqbWJZMUVVZG1xWXpmUW5aOW8xUVRUQlJFMnB1d2Mz?oc=5",
@@ -517,6 +501,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 7898,
+        "title": "فيديوهات | ملخص تعادل الإسماعيلي وديروط 2-2 (دوري المحترفين) - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQd1cxZlNaWWFaY2lFcHluZE9uaEZVbm1KLUJZRTZ5cERyUkpGMHRIWFhlMWFrVjRqbnRKTDR5WVZBOEhPQ3dKREE3QWRmUlNqWWIxVUtNMWZHaVRISkJSTk1IYlhlUlNPbUFFS29ISHozNzBMczBWSXo2VUx0QUtzNkk0bUZMeGNpbXFiS0hqcVl2TFlVT3diTVlPVE8zMnZmM25ZZzRvaGhLQ0gtZlVYdzd2SlVUUThxeDVfaGlGSDlzWkZueEZWaDMyU1Z2Q2FRZ1dfWXc0bk9BdWdJT1pDbEczV25Fa1ljcVN2VGxJQVkzZUFCNVJVTVdGcFhBSWtUaXNBa3BLWTJjNG5IcUNDQmZKMXFMVHpVUzhlaDFfUWZHWTNlUDh6OXJaWXg0cjMxcFVEcGpDNkJsSGFpSzdtNlJmR3VrRjQxQVZ2NkkyVV80QWRGVGI1VkJWN2FsLXdyMHhPcXEtLU9qUzBoOXR0Y0VibnN6WWxpQS1KQnVqYlBZNjhjZGhSQnln?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 15:32:00 GMT",
+        "discovered": "2026-10-02T15:42:16.029861+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديوهات | ملخص تعادل الإسماعيلي وديروط 2-2 (دوري المحترفين) FilGoal",
+        "player": "",
+        "content_hash": "f745166ef53327ba5d98dffd5b915d499206aa1c4b0bb922582689e90e2fe57e",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7890,
         "title": "أخبار و معلومات اللاعب Mohamed Diao Diallo لاعب وسط الجزيرة الإماراتي winwin - winwin.com",
@@ -866,6 +866,22 @@
         "summary": "مانشستر سيتي يؤكد استئنافه ضد قرار إدانته بانتهاك قواعد الدوري الإنجليزي الشرق الأوسط",
         "player": "",
         "content_hash": "72e3bef68581f87fe71a98aa18aa76caaeb5d27afe96e0a46de8369ccd8d1365",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7897,
+        "title": "منتخب البرتغال مُهدد بـ\"خسارة هائلة في القيمة\" بعد \"زلزال\" رونالدو - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxNOHVzSDJnZktnYkdOWnhxRXBnY0tEVnh2NkJSdzlNNmlOVHZiUU5xT2hpekUxaFBXSDN5RkNCTWZuZ0pqYm1yMGZpWFNDSFFyT1hIWHFCbmpPUkk1aHdBaU9DTEUtQ2otTmhwbURESDhKenhkZDRnM3BlUmhnTTVYZ25TUzR5MUVPNUdFcFNoRDJyYXV1ZlhWNks5MmVTRjdER01TWFFobG84U0FQUlNacjJOV2R4dkxPUm9lYXBjakMxekNuSlhSZkMxVHpLWU00OXo5RjJ5R1lmSXdOVkw4UE81YXRrcFRybGRJYWEzQTg0NThKR0NqS2xscWlLLTA3RTFWNUV6ekJ6R1owZkxnX012MWtnVnFHMklCdUthbU01ckUtYlJxMDFXd09SblZBLUp1Mi01Sm45ZUY3R25yTk9iYkpEYzU3VG9KLW1TRnBuTTg1cmF5UzVfaUVQaWhzYlEySXcwVXdvTi12U0dDVVhzeFFIdUowLUQ1azRkUWVrNWpibXY1T3U0RlBTQml6bjZBVFA4MWZMWDZ4dERUX1JaRjhGZVVOZFVrVDE0VVM1VmhQMzBxb2pSeUd0Q0VqUnd2NjhkeTIzMGJsNl84aktnSjhGWFRRTGE1NDQ5NUJoSXljOC10WUFRVDVHM3gzWHRSck5kSGFXdzdqTTNZ?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 12:16:59 GMT",
+        "discovered": "2026-10-02T15:42:12.695646+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "منتخب البرتغال مُهدد بـ\"خسارة هائلة في القيمة\" بعد \"زلزال\" رونالدو الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "bdd187612362c517d08ce97f8cf38d61b96e514a5e68fbf111ea7a4720dfb8fa",
         "sent": 0,
         "section": "sports"
       },
@@ -1282,38 +1298,6 @@
         "summary": "الاتحاد العربي لكرة القدم يدعم إنفانتينو قبل انتخابات رئاسة الفيفا القدس العربي",
         "player": "",
         "content_hash": "e806033c116a7d247db8ef6aea5e6cfd9e18eb737358ddb3b17a5f6bc0ca5019",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7807,
-        "title": "قصف إسرائيلي يستهدف عددا من المناطق في جنوب لبنان - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQSzRld2szMDN5YThMWHBubmlpT051aVZUejZpc2RPcEZCYlg2OXM3N2FhenR1WXhleGtQTEU0QjhNX254THI0NHgwVVFsZ3ZZZjJGVXdQRV8xZ0x0Nk45UEstemJueV9aT0xVbFRmbTRJdGRBeEZpRnZ6Qk9vZUNpNDZnSEVRZllreE9LM1FzYU56RVBXWFVfYVpOcTRnbFBSNC16VzlzckN2emZzSUdLMGsyM1BDQV9YN0pBUVdTajQ1elFZRnR6UDA5MTVab1hoXzlNYWRiUENrTDQ5Zlp1ZmtzTEo2ZHJTTGFFMFZIRU9xVlJHR0ZYNUhOZWhwOGVxLTBVOHA3M0ZsVHpuNHBtYUxoUnh2OVdqdTk4MkYwc3c4Z0t0RHNkYThlQzRROWlCX3NYREp0VENCTmdIeW55MFRlS2N3WXZzOFE?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 06:44:42 GMT",
-        "discovered": "2026-10-02T09:20:39.246729+00:00",
-        "category": "الرياضة",
-        "status": "اهتمام",
-        "summary": "قصف إسرائيلي يستهدف عددا من المناطق في جنوب لبنان القدس العربي",
-        "player": "",
-        "content_hash": "d1dea4016719dce181ab30467507329ee7e2b7c0a5b18f5e653c48019b844d2d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7827,
-        "title": "تغطية خاصة | بعد مكة.. الحوثي يستهدف المدينة المنورة.. ماذا يريد؟ - العربية",
-        "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxOYjJmU0lUNkJtUFRXeGd4WUh4YlVIU0xfbk9id2ktZDIxeDM1NnJXSzJCblJQUDRXSVU5ajFRT0F0eVkxcnVRRzlIVzNoT28zWE5qU2t6b3MxTXpNSnA5dk1pME5sQl93ZnVjNnpkYUY5a0l1eDZNWTNveVJTcG92MVd2d0Z6b1JkdDVILVlyLWRfQW9jQlVUd2lwWlBQVWhVWFhLUXl0Sk1Rdmt2UTJIZmRsM2J3U0lmcXRkTTNBUUpTbkRQc3BYRkpKQVBta05MZGU1M3dFci10cWtYV1kxMGVnTjV2dHdKcDhoMFA0RmE5UG1Cd0RESm1QWnpOR2lOcUhCUjduamRzc09wLU1ld3psb3FEMGc1ZERncFRzeVZBODB2amRQWVZGRjNndUJUMVdZYTBEZkxMa2t2a0xLYm1QWV9Va1pzdzBYNnFSZmhmWmh0aFJ4ZGdwZVlmUnVoNFdDc2V2X2lVRFJEb2FZWVFjaVFHUmFpb3g2TGFTV3U5QlJneXRBekpSc2hjc1NISjk1VV9BdmVrSE1iRVVfdDZCZ2lBUUEtelAyay1MXzkxM2VXMmgwbVNpVzZDV0IyOHVXek1LNXFPNVVPNlloTTBsUW51Q2lmZEc3eWxCcjBBcXJpM0dBUnhXV1JBUWtaUktheVdWRS1WdEptUWhUYTRmam5uWUXSAYwEQVVfeXFMTWJEcUliYlplbGJuUk5Fd0laLTZJaHFudlREcmZJQjZDd3l6N0tsS1JyNEdUUnQtWkZ1SFB3NnNKdmF2c0VVSktweFExcFJtcGtpYnFocGlYUWZXRmdiT0xLQVBzckF3a2dLQzBLUFpGb1dVV3YxU0VqV1MtOGNKRGJKYUh6cmZ5aEowMkduYmRjN1BHVFRmYnhfakxNcS1Ub2p2U09NM2JMTF94NFIzSkZJQjBpMWRQVXAtbVFxSzJlZ0Fuci1FNHBNY0RvMEx3am1OM3pGa2dGbWNESGFTWXkxeGRydDhHcDFTWXN3WFRINjdOb3dReFFCZTBoMXM0ZFZ1ZjFUZllWcG1YMjRNbjR3cHhaVHg0YnRCYjdGT3dWb191ZWI5MmpLSTl5U3h4ZlgwMDY3bElpMkl4T3hBMlEzWHh4SkgtYTZiNGxlaHk2X0ZQbHBrN1FwaG1sM2VEaFh3S0VuN1IwY3hocUs5Vy1kT2Vqbld4S0wzbFAwcXJZZVZ6Vm1QSDQxeVMyUDZOWlQxTVQyT2hrMDNGM1hLVDdJa0hkV2RLZVVRNjJfTl83UDFncVJheWlLYUlnZjUtQ3czdFQwYzdmcFpnS2RBQjRVRU5tU3NSWmRNUzRWUzBkdnI5dmgzTEVSUDQyWWw1S0laMzlPanlXTFA5c2pGT3NSZEkwd09JXzNtSFI?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Fri, 02 Oct 2026 02:55:00 GMT",
-        "discovered": "2026-10-02T11:37:07.424223+00:00",
-        "category": "الرياضة",
-        "status": "اهتمام",
-        "summary": "تغطية خاصة | بعد مكة.. الحوثي يستهدف المدينة المنورة.. ماذا يريد؟",
-        "player": "",
-        "content_hash": "6e86fdcce8a92495e2e9a6be8aa18fb88d19dde63f38f900d32867dea400d72c",
         "sent": 0,
         "section": "sports"
       }
@@ -2267,6 +2251,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 7899,
+        "title": "الزيدي يعلن التحرك لدمج الفصائل ضمن مؤسسات الدولة - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOY3ZlR2ViNm1IaHBkTmdFYUpLeTk5bFBVSXQwWWJDbTVDVXVPR3RnZTEtUTFMUnVyRTcxT3VaTDJUaXFHYm9EWXBJY1pPQjBOM0hVWDMySjJSQ1dpNXBiWFlUTG8wWlN2Z0JWVVBQbDQwaUoyWWZWZldxWjU1Zk91bGRRNHpGYTEwcGU2U0ZIYVljU1F1Nl9oU0NDRWUtdEdVX2J1cGVBSVBHTlh0VEkzdFMzTUt4SHFzWGtyRHpmQk40N2psakszMHQzaUdMcWVkX2tBYkhfN3RMN3VIcDhieklyaXJhV3lKX2VvT3l4RE5pNnZpajdVc3I1WlA0ZFhJYkFZMlE5MS1hU0o1QTcwSy1Kc1lwZmlQdGFEQUducEVIZVdYeEU3V3JyYlNHSm5SMkZ4UmswbnRNc2xMS0ZHdXNxSnduR28?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 15:02:04 GMT",
+        "discovered": "2026-10-02T15:42:26.449598+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "الزيدي يعلن التحرك لدمج الفصائل ضمن مؤسسات الدولة القدس العربي",
+        "player": "",
+        "content_hash": "a614cc5b8b5e24616eecb3ffec92b0d23add60b643889c5db78fc6dffa781d6c",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 7869,
         "title": "وزير العدل الفرنسي يتهم بارديلا بالكذب بشأن اتهامات معاداة السامية التي تطاله ـ (فيديو) - القدس العربي",
