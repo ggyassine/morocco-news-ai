@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T20:50:37.435873+00:00",
+  "updated": "2026-10-02T21:02:10.016058+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -80,6 +80,22 @@
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
         "player": "",
         "content_hash": "75baf1b3ae9b63401615238c7abefa2a453b13e849bc8d659bbf890e9fa59989",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 7997,
+        "title": "بنجامين زيف: مريكان كتفتاخر بالشراكة مع المغرب فتعزيز التعايش الديني ومواجهة الكراهية والتطرف.. والملك محمد الخامس حمى اليهود المغاربة فالهولوكوست - كود",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPMDdyYkx1cjlCUjcwVWY1X0RVdHJCR2FOZ1J6dVRpMnBWRGc4TkN6QjAxMVVNTjBCYnhjQjZkc1VodThkakRNLXpIMjdEVTE5X0VIdVpYUkZlS1J3ZGdpRUJhaGU3ckxic0lmdnNGeFZWSVE1MGdicnFHbDRZa3BQMXdadmh0N3R2dm9fQ1dHdllaR1Z3bmFOampzcE43VFNvVmpYRngteFFoenFxcGtqRkpER1hLSFRXVmIwRnhpdlh1eV91S3ZjZFV0RzZiV3ZncHM2OHRRUzZvWVhjOGJpekhMZlhpaDJCUVYyMTI5T21QcXUyZkkzSWFoZHl3NFlUQzVQTjZodTgxQkJlNGs1a0R1UWgzZmRYWFdZZF9IMTVoYlBYa1BzRkJRUkxVdlZVR25NOHE0QTJwX3ZSVFd5Z2tFVzFUYlVDX2c?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 15:01:04 GMT",
+        "discovered": "2026-10-02T21:01:42.059780+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "بنجامين زيف: مريكان كتفتاخر بالشراكة مع المغرب فتعزيز التعايش الديني ومواجهة الكراهية والتطرف.. والملك محمد الخامس حمى اليهود المغاربة فالهولوكوست كود",
+        "player": "",
+        "content_hash": "b3ac671c30abd3f988eb0ac0e11f6adb34c5d5c18c3d28c34be808987a5242d3",
         "sent": 0,
         "section": "morocco"
       },
@@ -614,6 +630,22 @@
     ],
     "sports": [
       {
+        "id": 7999,
+        "title": "أخبار و معلومات اللاعب ناهويل فيراريسي مدافع بوتافوغو winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPM3BzbEFxdFJzVUJWbVd2Znp5RzE5bnBRZEVvMXAwMUFJZFZBSDlZdTBjNW1yeVVhOEtxSXBSSjlJUXphaTBwNXZIX1BrR0V4UFpNRWhEYUkxWEkxOXNPVmVvRDRtVmhlSV85Y3hTcDJndHBRSWJNTE9WNmlxOW1zMmJsVEpGUnhSeTV2VDByQ1I1YTh4eUNuVlMySC1ZX3h4T2xaT1hrc2RTZXZUeVFpV25GS1FDZmpsNWRwdHFEN2RWZEduM2o0eE1sbmlYZENDSkJwWFZPcC03dEZOdk5sZER5U3ZCdVZ6cVJjZy1PbkNLZGY4NmJ4QjNMNWM4RE8xZXdVVzVESlNOODliZVMyN1RGRDFQNEVHcEhGd1ZlQTQ?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 21:00:09 GMT",
+        "discovered": "2026-10-02T21:01:50.703502+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب ناهويل فيراريسي مدافع بوتافوغو winwin winwin.com",
+        "player": "",
+        "content_hash": "ce9543348f0ba1550a1de25b1ddd829257ab93b6bc2d2453157441af2bc4c697",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 7994,
         "title": "بعد منافسة مع مبابي.. رافينيا أفضل لاعب في الدوري الإسباني لشهر سبتمبر - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxPYTljMGtkQzRQc2xjZWZPOGtIRHRNRF9Iems5ZTEzaGNXZEpXSXNvNUMyY084Mm1HZ2J2cHJVVER1b0ZVMXVjM1l1NlVGVjZvRS1GSmRFc1k0bHJJTjlrMHhiQXZWaFctb1hOWmVuTEpZZGt3Y3JxcjNXTFN4Zmc3ZjJ5Y3JsajA4dmJEZDJIdHBwaEFXWjYxV3BKZHA4TlFMTExNTVIzTUxneE95SXd5TUVCQ09CWnhFYzZXUmFKZUhWYXVqNGpYemtNZUNrUFIwTkZfUzVEc3ZyVjloWEFUWDlMZGgzLUYtcTk2VHI5YnYxRWxVUXo3UnRUMEZKM2dVa3Y4VkptSG5UWVBJb2V1RHg3Q1ZZSHFqamQ0TEYyMllpX3poQTNnZV9NRngtazhLaGJWa0ZBb3Y3ZVFUTmdoeVB2ZF91TkstTUMtVGdLaFhEWUN4am95M0FmTEI0eXY4bVl0cU5pbW4wYnNlalpDQmZNWlJVVGY4NEZ3V3V0dE9iR2Q4YmU5QlpzSEpxQTNzTlhEWDN5Yi0wbURycWFJWm85TTNldVR4aHEyVDVraGZwaFplV29RU0hRTUtDNWl0TFUySExha2pkSTliMllGbVh3T2RiWTFrY3dWdkZJTEIzSHJ5QkwxUkxnNmFDRmFiQmxqZnNMbUw4OVY1cTFCVmlNYzh3VV9mZkVJTDFQOFBIZ0Y1bUR4RXptSzd2eW02X2ppbmhuT0NBUHE5TFVLYW1QUXN5UTVFMWxwSXd1QjdEd05p0gGuBEFVX3lxTFBJcXRWaUI5ZGpxRmtYVUxHd2VKcGdyaHoyVGxSLUZreEVsMTBuZXk4MGd3MzNReXBoWlFBSm9lSDVpdjMtNmZ2WF9jZU1YUFV5VlF5WmtzcDU0UlJWTFRRSi1uQk1MM2lmZkNsdTljdnBzalh2SDJGZTNVRzNiTDZ3amNqTXpMWDR4YXpYWWNSQjFIaVhVN1RxQ1BFdlJzVERFOFAtR2NqTk14QlJRNS1nZkVLVWlyVkl4Ukc0QzFwX3BfYi0xNGFjZHNnS05vX2M1aUY2X3R4X2hQeW1nZ2s4R0RmM05hVkVjWEwwSE9NRVktOXd3VGFUY1lvTGctVENIY2IyUk9vaVAxVnYyX1VXMkcxbE9VVzYwZVV1ekZkSktOX2ZmOUhUQ1BKM0RDeDN2YVJYZ0V5Y1QtMlozV0dpMGVUaXJzYi1vckN2eXdyLVdjZkFJLUFjbXdraWFuQUhtQlhhRFB3ZnFkZl9USnh1alFEM1loNEhydHJPc2VsZVRWUy1FX3NXTnc3ZVIwTzlBTUVjNlVmR2gtNTlhNUx5QUlQS09KVEljZ0lPSW5PeEh6Y1VNZHd2ZnY1bGQ2bUJJUnN6dUhqRlpwUmk2WUxRSlBQbHpySHZIOHFHdlh0T2RmMGN4VkFiQy1kTG00M2FhcklaNzlIcTc4WnRuOGJ0OWdPUE5ucVJtLUhBcktPODBrR29NYk1uOXhQZnJtdGh5ZlFLVDBBZE5OblNtdw?oc=5",
@@ -866,6 +898,22 @@
         "summary": "الأهلي يعلن قائمته لبطولة أفريقيا لكرة اليد في أنجولا يلاكورة",
         "player": "",
         "content_hash": "145a17f8c440547abea93b49a9d5509121fca2ba0705aaebc07013d12fc7b2de",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7998,
+        "title": "الموعد والمكان.. كل تفاصيل البطولة العربية للأندية 2027 - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQX3hJMVBBdnNiRDZIejA2cm92VlNkOUpTTklQWGNwTW03ODBiREp2eFZ0ZXNoTnFacy1ZX3hYN0ptNWNHd1hxdHlYYU1ncTFMRlVaUlRSNXVKX0NHcTVzeGFYem5yUXF6YjJZajVqVEpwX1ZqYmlXVVZLN1FjekVrQmtpTDAybWFKSkZDUjZaeXRnaE5BdkdnTHJXcC15aW82S1ZqNUlKWERzdTVSS1hXemQ2ejZ2a3lXWnBLeVBOeVl5Tnp1dmhnU3F3Y1RBc0p6aDFaR016WFNFaFZHdjJDdjBjcmxTelZLZkhFLUdXY09Zc054dVRlN2pLU19LWVY1M0s4VVVncEhZdm9JVTU2S3JBWXY0b01yQUIxMTNBZVVhdUl0NTZuSHJUaFlZUG9VR0ZoTGpCeVFLcmtXNkxlMDBYcUJWdkxVSGxMOU1IekE0TlMyMVlfbUdXeHFXcmMtZ2xSNldLdTduZUdpbVlMWVBqZWF0QTl6TC13ZEhpRDRGS2JadWtxMWxqVXQzcjRZNWhROTc2RkM0a2c3bFVKdlN1Y3Rpa0RFbVRrTVU4VkhFUlNDNHQyczJrSFBVOFdyV2hZakNtLXJXSFAxdW9vc1M1QQ?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 19:10:53 GMT",
+        "discovered": "2026-10-02T21:01:50.693708+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الموعد والمكان.. كل تفاصيل البطولة العربية للأندية 2027 winwin.com",
+        "player": "",
+        "content_hash": "c056dde1c91df091b406fcd30d25d573b5763b140386942424c8ef80314ca433",
         "sent": 0,
         "section": "sports"
       },
@@ -1378,38 +1426,6 @@
         "summary": "مدافع الوداد السابق أمين فرحان يتابع مباراة الفتح وأمل تزنيت من المدرجات 📽️ elbotola.com",
         "player": "",
         "content_hash": "72e84359053346b8a43604bd263aa644e429ba1bbcc4e7f461fd1179aa0ab795",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7917,
-        "title": "تغييرات في القيمة التسويقية للاعبي الزمالك (صور) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQaWtNUUtrY1AxVFE5T3dfSnNPYlloR1pMQ1VwMUFpUHZUUEJRT202aC1mSi15WTZDalBxT1YwVnZRa29JeS1YcnpVd1o0WnlGMHVMT2hWOUhMUzdNVjdXbFRUZXRMTDNyNHpqVW8zWWxjUktuUXZHaGhPX0RDOF85dG1STElqeUJlN3EwdnFsSzBQb0RqS1ozTGFoM3A0U3NfUGpGWTRxX3JvTWRXOUZ5dXBsTVJqaW5UUnhxTHlod3ljdzlFQURxUWQ1b19qQ1E1MnN4THJsSEpldHFfUlBVTXk5QlA3U1loeEQzYjVKc2dMSTB3cnpoZlVMbEczRWtMLUFWVVNQampVdDdreld1elROOS1mUERNdFc2aWZicW5ldmY3Zl9KQV9qZUNaLVk0aGN3Ty1ubWtaQjBrNC1RbXd6LTBNaXM0UG8wNkJzX20yelZWbkZMYzJqWWowNVpUOXJQS25jQ3BNRU1wMlczZDc5bXRDY0NwLURmZHZHMUdNRE9CZE1YY0VDZGtwUUZoZnl5V2F3cG51ZEk?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 16:14:00 GMT",
-        "discovered": "2026-10-02T16:49:19.372907+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تغييرات في القيمة التسويقية للاعبي الزمالك (صور) يلاكورة",
-        "player": "",
-        "content_hash": "0235011ee31f30e543ff27daf7bd6352874c697f4e0056d4adb886a07d11b617",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7912,
-        "title": "تغييرات في القيمة التسويقية للاعبي الزمالك (صور) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOYkhTcjYxazhteGwyWHJDelFZT2lBcEVLQjNZYUR5bHJfNjYyZHFNY2F4YXBIRVgzTE1zNE91MUU0RDlMend5M0plaGlQV3lYaHU5cUhvdFFudTFOSkY3aXlCc3BWdTBzY1YtZ1IxR1N3TnRQM2I5M0tXb25fZlRRRFQ3Q3hKVmFoelR1Mi1fRVVIZXd5TU01TC1RTW5qUFN1T2pfNk1LVVBmNnhLRmhrS1Q0bTh5N3lZQ3lKeWxiZnlBR3dsTWFkTnBjcWh3dVctRXExMFVIdWR2NlRDbm5HR2RUanZNel85M3BRYWhaNHlIMnNsbXk2NWVIMmVQUzZtOGlBazZXVURBa04tRHFlVVFkeGRadGp5dXozd0xhMTlsYUZtQktTdVZvNVJ6UTBMRk1rS3hJOHUzNTlHUndfVE82eHNFOGx5NU52d1ZKR1djblN6NVlXODAzak9FbWliWmMxUGhIT3FRNFJ4RTFwWmhvRWQ2VkNmbktaRDdnN2hOMDlYT2VYcnFIYVJ0NFlQWDRBNy02LWgxZzhsTkdDdnlJNEJfRkdyanZhNTVrLVdEQUl3emww?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 16:14:00 GMT",
-        "discovered": "2026-10-02T16:30:41.896598+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تغييرات في القيمة التسويقية للاعبي الزمالك (صور) يلاكورة",
-        "player": "",
-        "content_hash": "0235011ee31f30e543ff27daf7bd6352874c697f4e0056d4adb886a07d11b617",
         "sent": 0,
         "section": "sports"
       }
@@ -2056,22 +2072,6 @@
         "section": "transfers"
       },
       {
-        "id": 7500,
-        "title": "حكم أمريكي بإمكانية ترحيل رئيس أكبر مساجد ولاية ويسكونسن - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNYXdtb3dndXAxOUliQThMaEU5SFFib19lRWxaRnlhclBYRklYOWlUc21BQTR0OTV4S0ZIOXFEM0NXU21aTFllYTJCQWJTS2V3WnE1cmJibThIcWJlRURvdVV4eFVIclJwcUFEcU0wQVAwQ0dQY1NXcHJqZU1LaE91Y3NRblJtQm1VTzYxWkJZT0h3RkIyQjlmT0didUwxRnVOMDJ6MEhHUlFUZWxKbmoybjRiMGs5TUtRN09BdXVHU25vWHBNUlYwWWR3cHVza09FVENpSU8wTFpGbDRTWmZFV3FGYl9HcGhmUFdUQXVwZFo2M3oxRzN0X0pDTk83aXF1TzRQSDRnM1VyTkdscl9kNDZLTEFIdGJyUzF6eWsyQ0owYW5ydHpFUE5vclF5cnN0NWpOaUJiTE5mbWpHM1pVR1p5ejk3UlhkX0HSAc8CQVVfeXFMUExJXzVYbE5vZWVrbEtxZy1rcTZsTHlLWU83SG5FLXBnSTFpd3Y3dDY3RndlNHRLNjViNnJfX0ozbWF2TENwNFdmQzUwc3J3Rkc3VURueDczSlp5dFNjWVo2U1JQSGQ3VlFVUzRUUUllNFRmRzlpYnFiXzJXZ2FMcXBOZmdRZ0xrZGwtWk5HVWI1QXZBZGQtMHd4Y3pPeVA3NkVhc1NSb1V5cWk3WTI0UkJDU2lwT0xLTnZPaGtCUXhHc0Z5WEJwc29vRVNrLUxtaVFYRGdMeTlIMFkyS0VKb290c1Q5c3pURXVuMEcyczJIRVhuSG9oV1YzNDc3MlRPT2xTd0dWMnA5c0Y3emV5Q1ZhbW84TGRKaFlSNmZOOVVGSXlUN0pHeTZ6ampscnItRXU2NlVCaGYwaV92dlZ5WmlNTmZBMFgyMklJS0NCMzg?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Thu, 01 Oct 2026 06:28:51 GMT",
-        "discovered": "2026-10-01T12:30:27.229914+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "حكم أمريكي بإمكانية ترحيل رئيس أكبر مساجد ولاية ويسكونسن الجزيرة نت",
-        "player": "",
-        "content_hash": "396c30fc6120438c7ea90901a87f069f31a647e74960c9bda9d3fca96777d02f",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 7569,
         "title": "\"أكسيوس\": روبيو أمر الوفد الإيراني بمغادرة البلاد بعد مفاوضات صعبة - alaraby.co.uk",
         "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxQdUNKbXZpXzQ4YnA5Q05xZ2pRamtnbEZoek5TSW5TZUNVTmhWZ0ZRUnFBakx1cm11MXJMQktpM1Foa2d2SUNJbUJ5Y0RTU28wODJVcW5mV3QwVFowc0dOQk9pYldWaXYzS3hpZm55SkVBc1AzMlhNdGFqZ2dJa3I3aVhGMUpBWm54ZkR1QUc0ZXJYbUl2Z3ZwdmxLcXJZaGV4SF9ldmwyREVzbDNMOUZkVmVZYmhWaTlzck1kZTRERWpiZFNEMjBoOWd6Qk4yWHh6Y1k1WGQ1YXlvcWdLZ3dCYTl3cnJOZTRmMG5paXktVDZWYVJ4OExWVDk3SVA0RW5MS3pJVDRPbkIwOWlyQldEc3o5eDhGNnlMSXhoN1RPd1V6MVNvVVRrUEdBeUY2UUZHLXNpRm83U2FVTmV5b3FESy1QWEdBU3d5YzV6NHZDZG1Ub0ZmdFYtM3V4Uks4ZlgzNGFqNlNlT1JRdlFZMTBsVERZRVBBWm1RSVVrazBUMUhBQ1o1VENhSDNyTWQ1VTI1aG5vTUkzdXN0TGdfeDB0OU1HRlo0cXFybF9fOE4zSUVQclRpZG5TWjZ0NVJqWTgwaTZrM2xyaV93dVdjbEY1Vl9CeTZXMDFxOTVhblNiSTVyYld3MjluWUNoQWY3LUZmZzRoMWo2NVdCVWV2bGlySTdna3RGd1nSAYwEQVVfeXFMTWZUWklZZnU3dTZVaHpNVFdkalN4WUNjT2NwTndrSkQ3NTJmbW0ySHFzQXFWVXlUY0JhX1lPODRucTdIMWV6ZXM2UzlGbkQ1bk1XMmVyUDUtbnRIcWdHbmVRS2s1cDQ3SFNQVUN6ZmVMN1ZTdkVRQVVSeUtEaWxOVmhmd01uUHVEMWV4cXhGTWxIelhQSFFYMkdBbGlXRjBuS2lsbkpMaVpSNHdDUlJiaFlHYmNwSHVvcjBUMmRQd1daMk9jVUZDRHBYOGU2dEhfWmN3VHB6LTRpRjJTRTh6ZkFTWGk0MGQ4V2FrakdZLW5heENuOXVaaDlGZ3pXLTdwWFRYSUNlQjR1bndpT3g0ZHhOQ0hPdm96bWJ6V0N3YnVpU0F4UEU5eHpWTXBobzBTX094QjRMNHEtcUlyZ3ZHeTBaTnNrdGo0cldOMmlWSTY5RWxscGI3MllQSHdnNlotZl9CblJlWDc0cENlWTNxNDVqYmM3U2NsZWcyZXZPTU5YSnZoTUhhZEJFU0JDVG13WkZyWGxGdDBMUFN2RTU0dDNXX2tjOEM0NTkzRFFCaUhOVW5FTlltMmVDVTNwLUFqV2EyazV3RTBSSmtHcW9TRVd1RVdyTml5NG9icnZEVGptVjFDdW9wS1BXZFFicUwwaWFKVFk4WFR3WWtrM01YX2g1TzNzT19penBJZHQ?oc=5",
@@ -2084,22 +2084,6 @@
         "summary": "\"أكسيوس\": روبيو أمر الوفد الإيراني بمغادرة البلاد بعد مفاوضات صعبة alaraby.co.uk",
         "player": "",
         "content_hash": "0e9f3b703ab839dcabb14074327ca435be2b55ab6bb01a64730ca9faf317ca06",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 7501,
-        "title": "روبيو طالب وفد إيران بمغادرة أميركا بعد عدم نجاح المفاوضات - اندبندنت عربية",
-        "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxPdk9JRUVCMzRvWllqenZ1eWVCUkpybUptdnFOTjJSQjRvU0FRZ1VaNllOMjA3U3g4WUNFcF9MRHB2aWc3VEl2MmpUakJuUUNtWl9lblJhUkgyTUNZNE41WTFyLW9oNXBmclRtMUEzX3BsVjdzM0lVeTE5MmJvOUNwN3FfYWw5MDJ6UUZ0SjNnMEdIQnlZck5OaC10ZVdJTmF6bkdfZ0VsU0R6VFcyVFNJb0ZDaHVvSUxndml2WXhyMG5DWGhwZDUtYWtScGNzZ0lzMHdEZG9GMVpCaDlvQ1pGc1ZfXy1nSFgzNXdXeDBmQmN6VjVaS3I3bkpLQ0JSN0RiWlgyN1hlSkpvWjQxZi0wQ0NzcE4zRnE5WmRYUWxEc0VFRWRvdVkyM2hLNERiamMzZ1JRdlBUamhCc1ZoYjhzVmI5Z2RFV2YzS2x5ZlB4RW4ySGpMZTQ1SndPN0hFcnlZaHJUd3hSa2xHaHlGWmNQWEl2TXB2T3RodUhsdURsYWpETkpYUkt4MHFnbGlxSDRCbmd2LU9uTGxvODNpOGJIOUxxU2NwSU1OZlB5VGc0VEZnd2dmSjh4QjMzemJ5ZWh2Z0tIWEpSQmhrNzBSeVVvbUdGeVllUjlvWjBNa2dHS2NmeEt4V0JDaHVORjh4U0VabmhhalNnWGo5Zm9QWjdBNF9wY2Nyam9jMG5YeGFJSDFkYnpfOEFHZGF1Um5Sdnh2bGpFZ05TMVJ5VzB3cWpmLXNLUmt0Z0lWLVZsR1p6ZlA5NTllbGljQjRPbWJoeGtC?oc=5",
-        "source": "إندبندنت عربية",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 23:06:50 GMT",
-        "discovered": "2026-10-01T12:30:35.741244+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "مفاوضات",
-        "summary": "روبيو طالب وفد إيران بمغادرة أميركا بعد عدم نجاح المفاوضات اندبندنت عربية",
-        "player": "",
-        "content_hash": "3b1f20f19e018f8cfb2c2396426f22bdabd32494bf798bf82684bf1c871c638b",
         "sent": 0,
         "section": "transfers"
       },
@@ -2360,6 +2344,22 @@
         "summary": "العليا الإسرائيلية تلغي قرارا يمنع قائمتين عربيتين من خوض الانتخابات القدس العربي",
         "player": "",
         "content_hash": "739a91a72d70cbf39ca4948b5edefd7761b7e76741e18874cada5964da0f6d48",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 8001,
+        "title": "السعودية تعلن تدمير صواريخ حوثية وأنباء عن استعداد الرياض لشن هجوم كبير على الجماعة اليمنية - DW.com",
+        "url": "https://news.google.com/rss/articles/CBMixwVBVV95cUxNOEhOdGp3MW02RWI5YWNxQ01WUWg0bjNUbER6UkdlVEQtZUQ4RGI2YTBRNE9YLXFveGpGa19VZXJSelh1RzJ0d1V2bGljWEMtWnBqRkhwd1lPMWdIeHFqT3VxOTNwbHNGUHF1UkpJZEsxZVBjdlo0c3FwQ1ZYdHRacC0zNGdtTEdqVDZSM2lhQW01WUN0Y1ljR0JoY1lnS3cyQUxkQkNiVW0tRlYyR2FXTmtQQTJxV0ZiTWdRSGhOTkpyY0VwSU5UbFliX09IcEN0MDVPcGdRTkJ4UW5jajVoRV9JM1NWejNfUkI1N2JfMDE4QlpKcnk0blJSVnVWVXIyWmRHSFVPRXFrSE1VemJ5cTJJZjh4b1lDa2IyWHFCNnlVRzFGamFvZnp2eDVWY193Y0V0VFVBMVVHQjVvOXd3dXdHVnp0STVtTWtSakFmaDdhTnFELXZDbWNLakR5SERmcG9CZDB2RjVHWTdRcmhiMVZLQXpSU1ZsMWZTMmRRUk03WEppTHFVOEFRRk1lSEd0U3dBcDN1R1JEanU1REYwZHBVNlBhcjJqXzF3ZkJSb25PYXRrcmFISndCTE9CM0dxdWRSYVhjMUlqNi1KMnhoUl84QW5NTjdFYlNSQkhRY3AxRWExYUtGS09JcnBlU1JUbnRqLTA0cXAyRlg5Yk9vcENYaVRwYV9tZ0ctOEo4aDhXSW0zTGZqSnNwVlo3SllnZ3VEc2h5YlpJZWJiLU5JTl9Tc1FSc3VOMWVVbU1WemRrWFQzSDZDMlV5RUV1d0U0OHA2aEtFZVlSdVRGY1pxQ3NKTlFKYmRfa1FzTFVjb2NjaTc5bmJTZnlicHZ4SmdMUXF2T09uck5vcUVxalRuc1hwSVdRVkN6UVk0NTdBSDBxRFRjazZONHBvOHBVa3JPaDVKNnZBc19YSmRDdEswMHF3cGZKeGs?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Fri, 02 Oct 2026 03:58:46 GMT",
+        "discovered": "2026-10-02T21:02:05.754230+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "السعودية تعلن تدمير صواريخ حوثية وأنباء عن استعداد الرياض لشن هجوم كبير على الجماعة اليمنية DW.com",
+        "player": "رياض",
+        "content_hash": "f2494bae26dddbbfed2e7135584c5a65ee056506200c40c555b0248602f0112a",
         "sent": 0,
         "section": "world_arabic"
       },
