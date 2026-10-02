@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-02T15:57:38.239072+00:00",
+  "updated": "2026-10-02T16:11:50.395196+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 7907,
+        "title": "اتهامات ثقيلة تلاحق عمدة طنجة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GN1htZ3I3cV9DR2o5RHVlZlJiZUJPbmY5bEhmZjhGdkpVVER5dl9yNW1VQXhTMUhvQWpUWC1Hb1BwT2xvaFBocg?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 16:01:27 GMT",
+        "discovered": "2026-10-02T16:11:28.622930+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "75baf1b3ae9b63401615238c7abefa2a453b13e849bc8d659bbf890e9fa59989",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 7883,
         "title": "ماذا ينتظر المغاربة من رئيسة الحكومة؟.. مواطنون يهنئون المنصوري ويطرحون مطالبهم - Febrayer",
@@ -64,6 +80,22 @@
         "summary": "إنذار جوي بالمغرب .. حر وزخات رعدية Hespress",
         "player": "",
         "content_hash": "356d63860ef76b16c7902becd622fa9e6afa8768433b1949a83b5df3bf9d027f",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 7905,
+        "title": "حملة أمنية بشمال أكادير لتوقيف المشتبه فيهم في الاتجار في المخدرات والشيشة - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14elJfbkRjUFhRSEs3MThVLWZQRlcwU3ZhcGNIcjdveE1tbUR2Q2tubDFNaHNicUlxdERGQVdmd1dYYzFpMENNMmR6V2k2Qk5kNjJUaW44d1NZZWs3Y3JBWnd6SE9DZw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Fri, 02 Oct 2026 10:02:22 GMT",
+        "discovered": "2026-10-02T16:11:23.755221+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "حملة أمنية بشمال أكادير لتوقيف المشتبه فيهم في الاتجار في المخدرات والشيشة Le 360 Arabe",
+        "player": "",
+        "content_hash": "a64e1dc1759c1f09c4dc183b7f6432ba6046a2122aae0281157e1e5fdb683939",
         "sent": 0,
         "section": "morocco"
       },
@@ -480,22 +512,6 @@
         "summary": "مجلس النواب يترأس بجنوب إفريقيا الدورة السابعة للاجتماع السنوي لجمعية الأمناء العامين للبرلمانات الإفريقية Le 360 Arabe",
         "player": "",
         "content_hash": "b1d7e5010c75cc0ed839547a63c8ef606a23f2a23afe381680aa552ae5ab65f2",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 7820,
-        "title": "أسعار المحروقات تشتعل مجددا في المغرب.. الغازوال يتخطى 16 درهما للتر - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15LXNMdmlPYzRMMWFlMjB5Wkxnb3FCQ2dsdEgyMHBLZDNCdDdyTUtDQWw2OFB5VEktdGZTclJfQUpvTXFyeWxyVEJXRV9WU3hReC13VDZyUXRrTmJZSkVFQS1hVDZfcWs?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Wed, 30 Sep 2026 17:02:29 GMT",
-        "discovered": "2026-10-02T11:02:45.666183+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "أسعار المحروقات تشتعل مجددا في المغرب.. الغازوال يتخطى 16 درهما للتر Le 360 Arabe",
-        "player": "",
-        "content_hash": "48660bdafa9b717df4d485eb1ce0caca51ab492a0f478ee295cc151e36e42375",
         "sent": 0,
         "section": "morocco"
       }
@@ -1384,6 +1400,22 @@
         "section": "transfers"
       },
       {
+        "id": 7906,
+        "title": "وهبي يحدد موعد سفر الأسود إلى طنجة ويتخذ قرارا خاصا للزلزولي - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03S0VzZkFySExkNDZJLV9mS19iMWlDV0EwXzlVc3pCU2NaQ2w5YXBWZ3VyeWhnSUkxQzlKRWtFNlVPYzVXbExSMA?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 10:02:05 GMT",
+        "discovered": "2026-10-02T16:11:28.609325+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "وهبي يحدد موعد سفر الأسود إلى طنجة ويتخذ قرارا خاصا للزلزولي - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
+        "player": "",
+        "content_hash": "e153ac4cfe569fef69a7147c5a13fc5ef74e3252ef54ddd8c718aea13ea13989",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 7779,
         "title": "5 دول توقع في الجزائر اتفاقاً لنقل الهيدروجين من أفريقيا إلى أوروبا - العربي الجديد",
         "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxNNnVNdDRvSzZIVkIzOFhwZnpScFZSTl9XLVJ0VVhock5maG5xWllsT0ZZOV85bnRkTUZueVZxSl95TDJ4N21qVm55TjhIYi13dXMwWE5CSzBGdWFnbExrTWZUb3RHOFJENUtIdnU4NzlfLUxYeS1ScENGdFNoVEhVZHIxd0gySXJQa3pOdmxPcmxlWVd1TFBFX0FvZjFLRWZ3eVJFZFVvcFN4dW1SQklSNXEtS21CZWdjZ096VmFhTkJWUGp5YlhLWFcyZEZCY2dkMmNhbnozVkVOTkItTm56VzVXbU50bnRpOEQ3dV9samlvMEJpd2Z0dWQwSjY3MFBvNUx6b01WSUo5UHlYYTV3YzRVaGgxc1lEb3gxeVFfV0lQUVlrT3BpekdMdDc5ZnRVN1JEaTNMQmxKbnc4NExtdWpnZ2VobXVXV3poUkwwVl9LaS1VN216REtfdThaYWRPTXhKOVhJY2RyX0EtRGp0Y2RSRlR6dHNyVXdTcnZwTmE3X01JOThUYzRzRlRiU2hYUFhvRWVwZkgxTnR3TmVKelFoM1RGREh0eHYzWklvT2FiMmFOSGN3S2RBQThZTUhKVjNfcGMxMEU3c1NpSFA5RUxrcUdMRUVfSUN1R0tMNmpJcUdjR2ZDckE5NEpvOHpSZ1RqRWl3QkhGaTRQcDFRS1BaVzNpSmFfTDVrUW5VRkhxd9IBlwRBVV95cUxOT1U2THVOeTFuc2lZTGo1TWJsemloYmpEMlE5R1BNOEU1VS1wMFVTd2Q4bGN0eXZ3NVVZVUd6bUdtRmVyZGhRVnRUMjBMWUxQdkFQZ2dLQy0xV1ZfejE2c01kZUtObzl1WGVLZVhnTExZY2VIVlFneHN2UFFkeXhNWkx4MEFTTGZ0VmphdU43VlVtNXRxN0RldVZ1NTFlaUVOOWJZbGpRUmpiVDEzZmxTVkU5R2lGcFdoNFlrNU9qd1hNX2pUVmVObDhoWEJCNEhHTmlrSXJsc2k0bW5OVXdseWUtYTctUV9WaTNLcnhxWmlhX1ppd1hJcjVqSE9PdWhmRFpSX3p3S2tCNkxTc2FzTmlDRWdPamRPaWRlSm9aaFNSbWx5ckh1NGZULXpldFBFZXhGUjdqVXpXNXVLeTBvNGJFRFpVT2JBNkxBVFZKOFJpRU1sVi0zUkJiQTFCUHhBaGFTUGhEZTZqZ3NrSDhBa0dNV1g1Y0E0X3gxSVpTRi00a2lTVVAxT3haOW9vdnZ0cl9HdlByY19WWWw0d1MzTEdhaE85TTBxQkNMSzVxc1p5dWN5N2ZIZ3RoNWh3X3lUaXZnMzJST2taekxDd0pBVkhIcTJIZUdheS1mMGhyd25OT3VDQ1BBY1ljU3BQME5MbTJYbTU3c0g5ZGNPaC1FaTVjV2VYM0s1WXFzUlFkbFFaNUtFSUk4?oc=5",
@@ -2006,41 +2038,25 @@
         "content_hash": "33de765791817a86aa07ca8937fc9e39413695dffe4405b12616410105e8c9b8",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 7417,
-        "title": "ترمب يعلن مغادرة آخر القوات الأميركية العراق وانتهاء مهمة «التحالف الدولي» - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMixAVBVV95cUxOejRrUnJuYXJGOVBJM3hMdk9NY3BWeUZYN0ZOVXBGdFZGLVNFYXJLMnJVX2ViNFlMMzVhN3J3ZnNMV1AxVU9vT2dfNE00Tk9NZVdrNW1YcjdkOHh0TEQwS25rckVJX1pjd2x4b19BRExwQzRXT21IS1FkQVVTMHZxT09qek9SczhBQUNMR0t6OENGRUVWMkRyQndLa3Nyc2p4NlBPT25ST05qenBGbDJIQjJTRU9XX0dnZy1GUEQ1U0JGbG5fUU42VnFLdkNXSS1iVzI4R2ZuQ0syN3ZwVERCYzlOZFU0anBzNFpTNW9wMEpObUE0RTJ2Vzk0WXg5eldUVTRLUk90SU4xdGp5UExrdDBmRV83cFN3aFl2TkhXcFJfZDFHTFV0clVmWkVYRjVfWHFuQWt4ZmNkRS12N243dXFlMDUybDdZT1F6eV80LTR2d05fUmhpNXlBTDgydThDaEF6RmpfTmZsSXE1Qmp0dGI5ZUdLcW53MVNjaHFCWko0cGcwOU55RFU1TTNTN1lYVURLZ0xTUFA2cDFrNHpmMEp1d1huY2dDQ2o5ZEZpWnJVRjJQUDNwVDFZd29fci1SMWd0b3lPMU9QeFI0S0NMcFU4a2lpVjA5cEE5NWRjNl9mbkxyc1VJNXhjdjNCaFpSZU10azlWN2hDbVNMcDBjdl96M3VaR28yMkUxTFJQZ0NiRnBpREUtQUhnNDlEXzdnSENQa1l6c1kzdnpQVTktOXpYeGpjVzN5QmljRFZpOTh1M3U4NFRQaUl4Rm8tSlN5UkZnZkQ5LUJGUjctNWE2TGRZZmpyRnNRcUJBSi1VdXA2Mm10NXN0LXcxNFBVTEdUZ0Z5aXg5T0gxeUZxWWFCNDNBUENXSzBvZGwxQkJFS2lpVTQteTA0UVdHdEFvNWtMbEdOUUN1cHFoUy1kRmhzSk0tdV8?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Wed, 30 Sep 2026 17:58:08 GMT",
-        "discovered": "2026-10-01T05:46:33.514837+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "ترمب يعلن مغادرة آخر القوات الأميركية العراق وانتهاء مهمة «التحالف الدولي» الشرق الأوسط",
-        "player": "",
-        "content_hash": "b9aca978ef36717db3cf92607b450484c26076ff2349ead06735ce11c70de831",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 7614,
-        "title": "صفقة بـ20 مليار دولار.. \"بوينغ\" تطور مقاتلات البحرية الأميركية - العربية",
-        "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxONWtmTkVlSEQ3UGU5eDljLTItNU91MzJOOGNSTlBBSEc1X2dtSTRUaFlSaXB1RmktN0g0WXdYVlV3UEFkSWN4WkNvbENuNld4MHdEMHZ6eUpYekkwdWhVa2lMT0VNZWQxWm04TUctMExKbkhYZ0Vxa1VDamF4aHU2bTVNMHhMNWttdnpXa0FiLWlDQVdvcG85UmN5OGRYQ0lZVEtPMUhKQmk1a2ljSkd3U2JjVk5yREtLRkxoNEdYazJUV25HZXhxSFpPV1M3d2RWUGxISWNWOXVyX1UwamViU0FuTURkT0ItV3dRMDB6WG9ad2VHMGc4cEwxbXE1MDFTNXNDRm1hN1ZrUldfTFNvQXlJSFdqeWlRZnNjZlc1SWZrcUYtTlBiM3VHd1haVWYzMWxoRnl2ckw0ZW5OckRSaGhpeE44UzlHVk1iUTVMenVxeVA5cjJaQ2R6VENUUTluUmFURVQyVFR2amxTSmpXRkJHT3JxUXZCX2JZSUZLd0dIaDloTFpLbDUyeUNyM3JPOXJ1SEdyZVFjT2QtdDQtTWxSMy1zbHZGY1BHZ3ZRYi1kOGd5MG0tU0RiSXhPMlFlRk1TeEE5RnZVUnJxR3RjS0d1WmRfQzZfNmV4VHZ1NVp3N2s0Q1BkQtIB7gNBVV95cUxPSXJYazBmT3VtcHJnZzBNdTlJT29NS0QyeW5HYXBRNDJ6bDF1N2tWa1dENlVYMzlHbnRsczFBQW1qU3ZvS0pPY2JvbFJHNUhLWHlUd3ZIc3hrbjB2V0gzeTJ3eE4ySEhiMWZ0Q1hJMVFIVGpZU05VZWJXSm5udndkbXg0RnYyZXJXR0hhYTdQcGstVnRDenNWb2ZsMU8wUWxVZTBiUXlxLThJWW5zWEtYWWlSbDlOTU5vNmJtdE9SbVU3UkpvY1hzakNPZllBdGVQZE9JRVpXNml5bkltZU8zdm4wMV83b3NiZkpNMVg4V01Nc2hTbHRYcFFwQXZrSVVwLWpMTkZvZllpZTFCVDc1a05MeEhYR1BSWmN2THZrZDMxRUZtRkNmYU5uZ3hON3FBNG83TFZ4VFYzMEpmLVBjYnBCU3d2RGdua0JwS3V0aTBReFk5VGpIVHd6blVhUkJfVC1ycVJVTndNREQ1c0dnSkctRU52YmhOcFkxTlZmRFlvRTdpOTMwOHEtWTFOVlpzYWhNRUw5OWtldGQtWTFVQjhTbi14UlR3YkItUllPZVV2U3ZzM3dqVGZUMkFKelRBNnNfQV9RVUdLMFlTSE0wdUdSeHVySVlGMDNxWDA1V2Vfb3hid3ozeGx0MjF4dw?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Wed, 30 Sep 2026 16:19:00 GMT",
-        "discovered": "2026-10-01T19:36:25.812961+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "صفقة بـ20 مليار دولار.. \"بوينغ\" تطور مقاتلات البحرية الأميركية العربية",
-        "player": "",
-        "content_hash": "3ab71768b4e385a3a0b91868f1ab4fe8462f50f0dd1b0c60e2271a5afcfaa6bf",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
+      {
+        "id": 7909,
+        "title": "اليمين الإسباني يسقط في مجلس النواب مرسومين حكوميين بشأن السكن - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxQUWQ4eExOb0J6RnloS3B2SE9xck80QmM2eTFoVlRmNEZPVnpfYUU1M3g1ejZTWGxua0VYNHpMdWpUWkZNWW5ibFdRTTdxcmp3TFVfZndyUW5FZGo3X0pzRnNRZ2MwNWZzUkZDQ3ZsVUZGbDhBZXNNWUdaQkozbnZBZmtPMk9CdGZfRHUzc1ZQZV9pSUVRdXhfM2QwbjJycm9NUWZTbEh0cURTUUxHRG0yYTJZU2Y0Tm1talh6SVZneHktV3RIRzEzaDFJR19GQ05zQXBBZEw1V3pfVGs1Y2tXS0ZUSnVod1hIcWFmZjRNcGtlS3k3c1ZZakdJWEFDOWlrRnBHSnJ6S0tsQkpqaGFXQzRJV0RxZGhiYnVqenktbEFyMEI1d1U3R3Q3bzFZb0ljQk1Zc0VPMUk1OXVmQzdDb2NjWXJtZlRXY2JrbXRaM2pLZlBYNnVLVFdrUTdtOXc4X19hVV9uaVNyWlRwSmRnQnRKYUo2c0c4LXRmdXlISTRTVXFFbkpOcy1mdEZ1Mnk2SkIxYnlmNmZ5MmV3cEQwN2NrUEFEYWh2dUhwVUVfdG50WHlwWWIzM1hmVzRoN2xSSG40TDRXS0NDMGZvRmZvU3ZoN2FQNjc1UW5LQlJDaU9XZVFWZ3ViZ0Y3NTdvOG12YlNRYm5fd2gtcHRNWmfSAYMEQVVfeXFMTWNuZkE0dkxjYWRqQ2kyVWNkZnZiX3RCUDcwdXRQUU80OTQ3UlgxQlFFbFBTXzB1bXJsdWVvLV92QlpGZ2hSNFhoYlpOaUlIWE5RMTFzRDNSdU15akh2eW5nRTZvX2owd0JERFJVSnpsMjhqV0IzLXktejNhUGo2WkE4bzhndkVwaGhvMkxoS05DVEFCQmw2cG92cUgxYXAxSUtoemFQQnV0SFZFQ2x5RFktQ0lnR0FBNEtENzRWeHJMcE1zTTE2N1JKaFd2aTFDSXFNdWloMkQxZXpsTThRQ1hTQVN1dFFUbWExZ1BCTGVoOURZank0SUtsZjg4c2ZIdm5uS1VlZ3JrSzRCbXRzUjdjRWNfSjR6M0lxUmZON1hRS0RLYUw5V19pZjFuNVBvRzJBZGVGYnhjQk1ualREcVEyd2NhRW9xRjJWaFhLeGdPTlp5b09wOUVPSGFLNmdyUTl0YXVzNEtudDVEQzBxNndoNFlyME9Ud3ZOSDF3ZndkREdYamY4R0ZOa2tTbVhXdXptSnNkT3lNYmZVWEd3RUZia3NGRnBCNXhtVy1TbjZuUHlxSTQ4MlFuMU1SU3JlWGFoVFhNUWNYN0RhaXlVXzY3NWdRNUhIWTV0ODBkM1RTanNiY1p3V3ZvdE5TN2U3UU81VHVnVHVndHJYWVFuR2RWN0U?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Fri, 02 Oct 2026 15:30:09 GMT",
+        "discovered": "2026-10-02T16:11:45.383957+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "اليمين الإسباني يسقط في مجلس النواب مرسومين حكوميين بشأن السكن العربي الجديد",
+        "player": "",
+        "content_hash": "384d2e33aa7190f1131a4f70b28e9629253ce004e919b186996bcf92b8fd5af5",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 7880,
         "title": "ترمب: إيران ستتعرض لضربة \"قاسية\" إذا ثبت تورطها في حادث طائرة \"فلاي دبي\" - الشرق للأخبار",
@@ -2230,22 +2246,6 @@
         "summary": "مئات الإسرائيليين «يستعرضون» عودتهم إلى مستوطنتين أعيد افتتاحهما شمال الضفة aawsat.com",
         "player": "",
         "content_hash": "867612c028ac50c303b6d997e1cdce7233f94febab60ed56a44cd096314fa8de",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 7494,
-        "title": "مئات الإسرائيليين «يستعرضون» عودتهم إلى مستوطنتين أعيد افتتاحهما شمال الضفة - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMirwVBVV95cUxPVVZIYWRqa25DUHFqNXFEQm5PNV96cWMzSmdtUFBkdXlwNmdSQXRlM05zTUVRU0ZWNzZQWHRhTWpqMVlpU1BBWHd0aXdobWowTDJWSlFRbXhneFlqNl9XTGw4SUNfbVgxVnNEd1hXd2xFYUJUb3hXdE5XTUFrYlBnT0NpTWM0a2hsYVFqSGduT1B5bTE2YzlKUU9OUnZaNHBnUERVOFpYVy1rYk9NQjEybHAwM2M2YjY0M0VqMExCd21od3BNRE13MC1obl9NR2lXMjdkRTlOaGxxT1ZuVUd6VlNjY21CZGVHTVpsUklkcHFXSGN3RHlhWi1KSFpheFM4ZUVJU1ZzNHFSUm40NDVxdG56RUVqSlg0czJ2V3dmQ0V2V01lbnMxZm1zLVpOYlZ1ajdBOFBmOUpzUzhiMEtaWW4zS0VmR19zQ25SMzlMYVN2ekRJaE9VV1NmZ0FRcjgyMlJwOTNLR0hRQzVNUWNya3BsbFZEdjRkMkt3VzJWSllUWjc2R3d4RW50ODhzZlFfNThWVUNjQkx1dWQ3aXBMY2xua1FGSDRKODVxNW5lNndZYW50ZFNsNkM5bnQ1cmt4MjdyN3ZBZ09CR3UwbkI5RjF5MUVVSFYwVFRZUkcxdloxdjNZNXFnZFB0ano1RHJwYlBZM2dFdTlLWW9YejF6UUJtXzNxdURleXN5S1Y2TlFQcWktUWdKYjY0QUtXMWUtVEc5Y2N0RktsYU1sMGF0ZVVfeVNDNGtNRmh2UE5pcGNCb1NvY3VQdzFCc3I1MlpyZFdMaDBpcmxmUTFCaUVJVV9QaEZFZkZTTkZ4a0NNSVNOVk0tRXEySXU4RU1WN1YyZEs1SDhyaEVpNjJTblhtSkV2RVVQbGZVVzZKUm4xd2tBQk52TGJCUm5QQlQxZVE?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Wed, 30 Sep 2026 18:07:14 GMT",
-        "discovered": "2026-10-01T11:52:34.099020+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "مئات الإسرائيليين «يستعرضون» عودتهم إلى مستوطنتين أعيد افتتاحهما شمال الضفة الشرق الأوسط",
-        "player": "",
-        "content_hash": "28c38c7366cfc35c83143721fa3c5216dd16fba6f3e4bd38c523f0ef21bc26ad",
         "sent": 0,
         "section": "middle_east"
       }
