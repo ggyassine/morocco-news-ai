@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T09:38:20.525574+00:00",
+  "updated": "2026-10-02T09:53:42.880389+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -485,6 +485,54 @@
       }
     ],
     "sports": [
+      {
+        "id": 7815,
+        "title": "مباراة فريقي السعودية و قطر في بطولة خليجي 27 - نصف النهائي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQb29DVTY0S3RVMVd4RWthUXl4bmtkR1JmMi0xVjBaa0NPWFpNRDF4VHdUQ2VMdkgxRUpob0N1ZUJPQ0pxSkhRUWIySEVIMWlfZGp4Qk1xQjlTZHN6VHlVRk14SWdHSTBwSjNrNnFUS2h4TG4tUkg3aW1wdC1YM3MtUXNheFREbHZKZDVlWnB6Z1RFektINWQ3eVNkUkpoM0NEOTltTmNFcWRJUk1ic2hSeGhvRmxVNDdscE9sbU1VU3g1RXQ0Q0JhYVdQWDI2NlVWX2o4c1BWUDZwOGd2ejZMV1g5SHFoU0luV0ltVUNqdS1GbTNnaVI5eHh1OXVFYk54QjlYSkVLczhzS09VY1plSGh2c1hfSG5acFE?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 09:43:17 GMT",
+        "discovered": "2026-10-02T09:53:29.066022+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباراة فريقي السعودية و قطر في بطولة خليجي 27 - نصف النهائي FilGoal",
+        "player": "",
+        "content_hash": "41a36d0d82e368aceec355b73c00121be7c8a5027f0efbd8a3fab1a088e3b632",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7812,
+        "title": "مباراة فريقي الإمارات و عمان في بطولة خليجي 27 - نصف النهائي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOSU85YmtFTVZoN2FITkVIQnhDZzJLR3NtbUlSVTRDTkFvY21TZ2t4WTd6emRpQ2hXVkdZamxOa01XWmdSeEstVHZzcXloVjFXMkpUc3pvMk5SQ1NPbmJ6aVpZZ0RVNjFzbkVidDRRT2EwVEpaTENSMkZlNVh2VEFoMmczYjMyTFkwLVZ3ZkFwNnQtdVBPR3lVY3lvR05zYl93Zzg5bDR3NG5DRjAxcXpQN2lCMWd3YjNBNjNVQVV4RXFFWmotX0p2dTFuTzZuRFNVWmc1emRsZkJncDZWS082TGUyUDlpV25leVhfTTZjSmJ4dklaVUIyYUNYM19QVUZvYXFFUVdwdDdmb1RDS0hjQnJWdHM0VVZwSFZzeU81VzFXZw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 09:40:23 GMT",
+        "discovered": "2026-10-02T09:53:29.033915+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباراة فريقي الإمارات و عمان في بطولة خليجي 27 - نصف النهائي FilGoal",
+        "player": "",
+        "content_hash": "639be73b970a0aebe9f9418a1269178e4d6400d61b57d5e3e0eaa6115043a6e6",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 7811,
+        "title": "مصر تقترب من استضافة البطولة العربية للأندية - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxPc2F1YkpUZ2l5RzNVNHgwMnpDRFpnb2R3SElTWUgzaVI0Ym9BdmcwZmdKUTg3U3RXbGRic1JVZF9wXzFlYk02ME5hVVFlaU1kVTN4SDMwNHNZV0JjWkpnbWpPSXdrbzNMS2QtOGFiVGdzVVEydmRZZWdFNXBMbjhkUk9uMzFZc05mdVZZSTh5Sy11Q195aUdrUjdUWG03a2JBMFFZV2ozQTlXem1icFRRVjRuUmVPSkdzMHd1b3Z0czFmSHU3NmlrOXJmdlVqLU8yZVpRdzdnd2NFRHZHX2xSVC15QVZFdXNSdjBjWjhvbWhKTHhDOEYzanp1MnY1a0hjc0w0SW5zdDdpOXFjazF6MkJDdXh4ZDFHYjROclZKcExaaGlmemIxaGFMeW5LeEtKMjNtMVpDbFVmSzI2d1VhQktXNndSckZiLTluSG5aZHBVTFQ0SGdIY3NHeTlOcnhydTc2TXZnamxxdHY4bmhqTVJMNEwtXzFkalRxMlgzSkpfdlFMV3NSbm5yR2tzNkJOQVEwSDFjYmlSQndvRS1OMzh5d1NROG9mNUNxN29XWXRwZkFpQ1pERFcxVXUzUHpubTBvVnItNmk4aGdDRVJOYjVIT0p0VW80bTE0aGlDUUxVQUNDQldGdG1RLURBdw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 09:30:00 GMT",
+        "discovered": "2026-10-02T09:53:28.444969+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مصر تقترب من استضافة البطولة العربية للأندية يلاكورة",
+        "player": "",
+        "content_hash": "330f40cf7e38cc752cb6fd7c9c8c39a4d16d7c5afdfef4fe3ab116b1875683f9",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7810,
         "title": "اتحاد الكرة العربي: نتفاوض مع مصر لاستضافة بطولة الأندية - يلاكورة",
@@ -1236,54 +1284,6 @@
         "content_hash": "d2d92c31602b85ac8eea9cddc600f711a313471f40f94794e35ecb015b63a983",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 7631,
-        "title": "الاتحاد يستعد لكلاسيكو الهلال بمباراة \"درجة أولى\" - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxQYXJISmtFQUVwSHZ4SzFIRFF0S1hwZTNZNVdqWUthLXVjdC1TR1ljN19hcUxKZXNiYkZKLU1uYkdkYzE1YWNPU0IxT3VZeTF3dC1aQlpMUTRCRFViTUotZVRrR0dpQ0x6NzVkWERmVHlVSjZZcDg1SGJvRTVGRTBFakZ3bmdwcmpMbk5SOTIzSkQyTHpmVEJvd01faGxXTGFtcXNrZ3RuR0VoTzJZbjdTWlEzQTYxbThjMGFqalo5NFYxdC1fYWVUUTNDQXlvNUFtd1llZW1ONkFBWm9FMVBfNVAzd0p1YVlla2xncktCMUtsM1NNMkdsdnFMVUJvaVJTajF4aThNUVhSUDl5NkRiV1B1V3h0U1lCT2JvSDFSWXhnUFlnMV9LeU1qelRJc1pTSk5lQXZqY1VBUVUzN3dpUHl3UXdsODQtNTVxNlZmM1pUanRwUmlmc0NmVGZ3YnF5X1d5b2JXcU5nWm5semd1Tkp2eEZLN2g0S2tQZl9acDVfb3VCLXlhUTE3Uy02VDF5YVVBVkJKX3o0dUNKNmdzVXlkRGphc0RxcXVDQ2Z6eVFvNmZGSkNTa3dMNXhzeWdBVlFrUk9EVzg4bHBkTmhVMjJLdDdQTnpHcTB0S2EyM2xmQXhyZE41MEQ1Q3NJTnItRWhVeDRING5TWTc5enY2MTljMFFfbnB4NlE?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 20:16:42 GMT",
-        "discovered": "2026-10-01T20:37:10.765907+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الاتحاد يستعد لكلاسيكو الهلال بمباراة \"درجة أولى\" Kooora",
-        "player": "",
-        "content_hash": "c612a40ace9459a08133d5b58c4902eeb9d784c494cc4158213c08e46ecab105",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7634,
-        "title": "ضربة قوية لأرسنال.. إصابة كريستوس تزوليس في مباراة هولندا واليونان - yallakora.com",
-        "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxObE85V05oeE5DaVQ4MGdUTE1WN3lrOFNZbXdYU09QUzJUU19vYWdxUGxSMDlpVzhka0ZCeEtiRjZLNDdrUDJXYlFtZ0ttdUd0Nm5HRjVsclprWW8zeWRWdlRMSEloMUlZRXpIUUE1S2loSEFPTVdBQUpYNGE5dmtGbWc4V3Q3LVdDZC1Lc3ZUVnBYWkNrcTBzTHBPX1FoYUw2Tm1kOHlQQThqOTNaQVJpYkpaU2ZlZVNyTkpVcnZJWE52blVKMVpTU25jNHFjWkYtMXFVWnkwWU83bzQ1SEt4TWRKb2JHRDZtc2M4eHRmeXVvc0Rod2VHNHRvTi1kQTBEQXBvZTFEYVE4UFQtR2xQV2tDUmpTMTE1V1hLd0FhX2lNcEp5NWRqM2cxT1dpOVI3RXNuRXRCMmNYQlFyNHdOSXF1dU1EdFktZlQ3T1R1d1o2a3BBME1Yem5OejI1T3dpVjVrR3hHYTYzMEJqWFFLVjVEdElxNFFlY0V2bl9UZnJ3SXlReG95VWd0THhuVUs1VHAxd1BGWGg5YThGOXh3VTZFeTJOYmVnVXZvN2J2bjFRT3RWUFdFdFRBQ0l2RTNjaXJwVVBROE9zTVJxdWxtVGhxeGpZV3FKX29iaXFqMFZxb1pQMWtncVlaY3FGemp6Y29BZkctMkJrRTRzU05vNk9ucmtoTTZxSTJDX3BZT0JIb2VOdHlnTEFQN2dnSzV4bUp2VmJzYTBUbHpzR3AwVDI4VGjSAboEQVVfeXFMTm1CZVlCbXhlU0t5QUFJWVoxSDAtYjJ1LWpzN05KOXRSLUlxcXlOY0FqNThmNnF0LTVseDVQSmJTcTN6R29zUnRsSzhxMW9ucHozcncwcGtHQzFIOE9WcEViaE02UWl6LVRhdmhmZ3Rtd2FPZGtGR3VkOVhWRlBfc2djdEItQlRMcFN5dVFJcUJhcF94eVBndUdJLTdZSzFGWXJKX2lzS3FkOXFKaGlZb2d4V0paNVVjR2NzTkNoSTMyZFZfX2hCcjFDdDlFdjF0cHNlZnZBSWIyVVc4TEktclhXdlBUY09xT1I0RUNFVzFjV1NSS1dDWVpBN3RLdlg0RW9lSF9wQVBxdzJpc3pwNmFpMkxiN1g0S1hmcGVMMi1GMUhFS3ZwNVJOclNJeC12OVptdHY5aVdCcVljMWlBbkRLOTRmbE9rWVNqM1p6cDZoZFViSTJxRGtldlJObjBQMlVxU1ZqWm1MWmlxcS1Eb1VXRXBwaVJUcmZyYmlXMVJjcE1ZMVFvTzdwcVY2UEN5WFFSQzk1N3lmQXQ4ZnNLaHl0a3JSQmZUdkRZXzA0S1RpQk00b1VGZmFmMHNwYmhnOEhxSUZJNENkWThueVJoSHoydUZrQkhfMDZCRUU0WEJSMHFaX1dKOVlGVjNXYmx5WTNCX0VmTlJTS09pLWpiUDNFemktNmZxV0tVTGVCUjdKZUdyTFRlNGxmSWxIUzRJUlgySGswQlRJZ1ZySFZuSFB6M3VqT2U0QTFn?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 20:09:00 GMT",
-        "discovered": "2026-10-01T20:37:16.514978+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ضربة قوية لأرسنال.. إصابة كريستوس تزوليس في مباراة هولندا واليونان yallakora.com",
-        "player": "",
-        "content_hash": "2194dbe598c46be17ecccae449c3b0b65bbf941099b9dc20a0bfb34bf7dafa18",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7701,
-        "title": "فوز عريض لمنتخب لبنان على المالديف - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQLUpUY1MxWHV0ekF2bFVmRHViN040VHVqNW9aYUZsa1ZlQ256X01uMzNGSmhNVHdvX09LbWJWbG1ES0hibENLM0d5UTl4YzBEdjJwRUFlcU1QZFJ4MjNHTEJWUlhxZk5sc3AyY2lPQTZYRDZiTnQ1R3FlVzNCMDRiZmtwT2ZFMkVORlRSeGhWc1BiR2lLY19WZ2ZwN2t2NUNHcm81RzBSMmN0WVZrYXg2R0QxQzFkRDZTd1pxeG9vZWxfNTJqQnFpaDZRU0Z4akxQSm11Z0dqajJ5ekhxMy1BZ1M3WWstZzJGMFYyQ3FJdGV3NUZIV29zTTRHQm5rdlR6aDhRUllkSUJyZ25YZFRabGN3SWZXTHBRbkVXZkszaEQ5OUVQMlE0WUktWlZoODRQVXVkUGl5MV8xd1d4WWNKejM3Q1R1VFJxeWd3SzM4RlBqak5sbFJZNk5YTE1wQjNGRTNscVVlNzd2MERzWlRpUTh0T1hRNHpiUVVfMWwyRE4zZGNmbmJEZHREdFBnSkppYkR0b1JCRURXbTM5MmVnaE5TVVFiZ09aLVVGRUtVdFNsS1RUSXhHUk9jQQ?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 19:59:15 GMT",
-        "discovered": "2026-10-02T00:06:32.436075+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فوز عريض لمنتخب لبنان على المالديف الشرق الأوسط",
-        "player": "",
-        "content_hash": "b1ec689e6fef0249d7d7a783d61651e3b732d18727894466a5066d5b7a2e7fc1",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1364,6 +1364,22 @@
         "summary": "الدرع: تخلصنا من \"عقدة الخواجة\" في المنتخب.. ونحلم بميدالية في كأس العالم FilGoal",
         "player": "",
         "content_hash": "452dc4743ece9bbebd829b30ca1c99956c68a138ec0c7a9fb9b855ff3172b2c6",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 7813,
+        "title": "كرة يد – ثلاثي مصري ضمن الفريق الأفضل في كأس العالم للأندية - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wd29UYkU3OVJSb3BrTFk5QzJNZG4wUk5kZndiS05kTF9qU01YMF9Ddm4zR3BwZHpvQ2F2MjJnbmVMdjF5eHIyTHNxOUh0Qjcy0gHcA0FVX3lxTFBlSDBpc3FCZW5NNEJaWjA5SWxqZFdhcDBZRXhFVW1UWGdLenM5OVpjUDBUUHlqd3QyVEFXT2FCdC1SSldNeU15YV9XTk5kaVZpQnZEbU9ZU2FKdm54cFV2VDlPbEdrMnlPNmxfamVVVHJVSUppOEg4azF6ZE10dC1YQ0ZEeU5tMnE5ZmNUeVE4VURYNlFuNFBNUG1HVnJOdEhZQUxTMkVLblZlN2xLZmowLVlSVnVMT0g3OE9mMGVuMHN4cWMtRkdSbTNyQlZIeHZTczM4U1Z0d3ZZYUlQUDhpUm5HaHlmeVRSZnVIOWpHbHZ5TjBMYmJLV29JZmZzRmtLQWVHWWZZWTVNVEIwSE5JRVByb0ROa3E1QTJ0RTlQd3ZTeG9FZGM0QW5IcXZYTDZmQjdHZkg1dnM1R3ZLTF9abllOUloxN2N4TGQ0Q1hLSmpTN01KVmtGRi16dVlMc2dkV1BpNVFUeXBVYmVsRzRCUHZUUThjX2JHVVhmeGdkb3NSckVXMlNmNkE3ai0xR25YaFkzazNiWW5wVEd4RFpyS0wzQUFwWXNNb2U0dklKTV92WENCU1BnTzdKU25tdDZhaWszQS04UWVwWjNpNl95cC1idS1rUXN4bWsy?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 01 Oct 2026 20:38:00 GMT",
+        "discovered": "2026-10-02T09:53:29.041550+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كرة يد – ثلاثي مصري ضمن الفريق الأفضل في كأس العالم للأندية FilGoal",
+        "player": "",
+        "content_hash": "d3019461750aac140443eba22f6f2c24f200f1aeaa2cf8db0dbdd1c462f55e34",
         "sent": 0,
         "section": "transfers"
       },
@@ -2068,22 +2084,6 @@
         "summary": "\"فلاي دبي\": شجار وقع داخل قمرة القيادة.. وطاقم مناوب تولى قيادة الطائرة والهبوط بها الشرق للأخبار",
         "player": "",
         "content_hash": "783cb6f5bd95eaef532386cd6305b45843c65de54e13d1fe4146c712a000d118",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 7625,
-        "title": "البنك الإفريقي للتنمية والمغرب وقعوا اليوم اتفاقية تمويل بـ270 مليون يورو.. توسيع وتحديث البنية التحتية يدال المطارات المغربية - goud.ma",
-        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOdmt3eTdNOFRTVWhuVTJkOUd4NjJ2QWhIbzVkbHR5eVNKYWdfa283VFM2b2dlOG5PSHY4bHBhWW1WbDViN2NlY0NkWE9IRGpZQU9EbURaYWpQYkJLTWRVSDdnWWJQRDdkTC1DNlFnV0pTckNwLWRmUENhdlhoRGlNdzlNa3FzSUt6M0R1OFRqNDlZUWk2c2xKOFJneUV5Q09mXzRjR3cwN3I0bUlBcm1KbVRaaG44bURJVFozN29wWnlnc1lPWVZjdUVQcXFqUDFwWTVQd3hFTFcxNUNLTUhrMWtBWnE1U2pXdlZQUjZWM3pZWGlBX2pkamtnVUFwWmMzTEFkby1UNHVxMHRDN1RxZUlBZ3J2dGJhX2xsRENsQzBsaTh4ZER2NUxDQ09iVE9lb2xCRTRvdkFTQ2NPUDZ6ag?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 12:49:26 GMT",
-        "discovered": "2026-10-01T20:18:26.116103+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "البنك الإفريقي للتنمية والمغرب وقعوا اليوم اتفاقية تمويل بـ270 مليون يورو.. توسيع وتحديث البنية التحتية يدال المطارات المغربية goud.ma",
-        "player": "",
-        "content_hash": "61d75559c181da8ad998783ae848b4a8f8427d0f4d835e0f7dde412d23ef7d94",
         "sent": 0,
         "section": "transfers"
       }
