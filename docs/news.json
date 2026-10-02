@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T07:56:23.673771+00:00",
+  "updated": "2026-10-02T08:11:29.355231+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -501,6 +501,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 7782,
+        "title": "الاتحاد العربي لكرة القدم يدعم إنفانتينو قبل انتخابات رئاسة الفيفا - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQTk9ZX25xcGlaZHBkXy1aTFFMX3JoWUx1cWlHcHRIMXhyZTJndEpPTDJrMUVzLWJLQ25Yd0puSGcxTGVEV0Y5TEZBZ2N0M2UtVTFwRGN5cGhYUFlLMGxZNUpuZnBGR1Ntalo0OHM5QkJZSDdhcjZ4c3NYbGNSNjJpbmtBSjlkdGJlR2c5a2F2Z2h4VTBYdDNCVlJWRWxETmtOMDB1d3ZJX05NTzhycWxKSWpIR1BkaWVQdXpkN2lnaGdLTndqZlVUc3U4V0JXOXB3cTJpRG5DYTN2SWlfVHV1ZlJOM0NyNU95UVk5Q0FsSzZpeXkyZkZqSVM3ZU00NFlBNmlmdVZoOHlVcjNjX2FIM0Y2VFREamdFanNIN3dpVl9QNG9ITzl5YlNJRWJWQTJEd2R1X01qdmFsS2RpMVJsM3BoS1BOdw?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 06:50:38 GMT",
+        "discovered": "2026-10-02T08:11:25.316827+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الاتحاد العربي لكرة القدم يدعم إنفانتينو قبل انتخابات رئاسة الفيفا القدس العربي",
+        "player": "",
+        "content_hash": "e806033c116a7d247db8ef6aea5e6cfd9e18eb737358ddb3b17a5f6bc0ca5019",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7717,
         "title": "قبل عمر الـ45.. غذاء ورياضة يخفضان السكر بلا أدوية - سكاي نيوز عربية",
@@ -1282,22 +1298,6 @@
         "summary": "بقيادة المصريين.. فيزبريم يثأر من برشلونة ويتوج ببطولة العالم للأندية لكرة اليد يلاكورة",
         "player": "",
         "content_hash": "d79d1db74b9d3880e1e4a9488319f82f376bd497b36475152ea6831c60a41935",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7666,
-        "title": "رابطة دوري السلة الأميركي تغلق أكاديميتها الوحيدة في أفريقيا - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxNWEtSSl9JVWwxLV9tNzc3M2Q3MHFHOUhXd3dGRmhhOVk2VzFPSlREYmQ3alhDM3VSV1g4M2R4WFBlVXRMTXJ0SmZUOW5Fa1BhVlVhRHhxNzdEdkkybVdsWmF0WkppZ1FjT1ZhanpjcUlteUUxSzVqOFRZLTY5aFJGVlBrcEM2UXJGcDduRUZBU01MMkZPTEROclVOZ3RwWjl3NFN2V0hraUNXTmw1endrb09aQndsV2ZWaDJFQ1duYV8zbk12bC1EYVpyT1ZEVTdZdzB2MGdFM0EyN2JaSWRkdEtPMW1JWTR6cjRYRTY2MzF2WUJwNlpuQWMxVW4tRlJCaEJsOTR0Wm4yN0xoR2FHa2UwaGZQZDdkX2F3TFpUdGUxRjMxamNpcGloNkVFelNZUUpKTTJuUUhlR1pRbEZITWxXNkFGNG9Pc3dXblpEUmNkTkZJbkMtdkt1TF9ENVMzZjZwOWRDdVJaWVZpWkZsLTU4cmI4azZZbHZVeVZiYXFJR1RDbDh2SFM0M3VjaWRqZ1JSbHE3WE5ma2NCT3hwMmlrUmg3RWF6Y1FxeFBFOTlQX1VJOVdHcjVLODZ6cTJjTXBrMHdPR1NmYmgzYk1fcS1vRE4ybkdTQ1laYkc1MFJmdHhDN1haSy03blNjcVdBR2QwbXBUamE2ZnhPSHBldUFNTnZNeWdCN1IxZ2hkUlNIV2doOTJsYXBGeGFvTlU1d3dCM3pseV92RFZLQ1VDNTNsdjB5WlNILW80N0hubjRDRWQ1cUxuUDhoTlVXckdRd1FFc1JhaU5GcTFRV3RpSVQ4N09tbW9yUEV1SndqNFFQanQzb2owbXlmSDQwMXc?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 19:27:08 GMT",
-        "discovered": "2026-10-01T22:33:24.888070+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "رابطة دوري السلة الأميركي تغلق أكاديميتها الوحيدة في أفريقيا الشرق الأوسط",
-        "player": "",
-        "content_hash": "29dd4c02649fb067dce7f72ba590a7c0c198b88bfaa683042297fe02542741f4",
         "sent": 0,
         "section": "sports"
       }
