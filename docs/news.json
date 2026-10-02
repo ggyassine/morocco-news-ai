@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T09:20:43.134381+00:00",
+  "updated": "2026-10-02T09:38:20.525574+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -485,6 +485,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 7810,
+        "title": "اتحاد الكرة العربي: نتفاوض مع مصر لاستضافة بطولة الأندية - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxPc2F1YkpUZ2l5RzNVNHgwMnpDRFpnb2R3SElTWUgzaVI0Ym9BdmcwZmdKUTg3U3RXbGRic1JVZF9wXzFlYk02ME5hVVFlaU1kVTN4SDMwNHNZV0JjWkpnbWpPSXdrbzNMS2QtOGFiVGdzVVEydmRZZWdFNXBMbjhkUk9uMzFZc05mdVZZSTh5Sy11Q195aUdrUjdUWG03a2JBMFFZV2ozQTlXem1icFRRVjRuUmVPSkdzMHd1b3Z0czFmSHU3NmlrOXJmdlVqLU8yZVpRdzdnd2NFRHZHX2xSVC15QVZFdXNSdjBjWjhvbWhKTHhDOEYzanp1MnY1a0hjc0w0SW5zdDdpOXFjazF6MkJDdXh4ZDFHYjROclZKcExaaGlmemIxaGFMeW5LeEtKMjNtMVpDbFVmSzI2d1VhQktXNndSckZiLTluSG5aZHBVTFQ0SGdIY3NHeTlOcnhydTc2TXZnamxxdHY4bmhqTVJMNEwtXzFkalRxMlgzSkpfdlFMV3NSbm5yR2tzNkJOQVEwSDFjYmlSQndvRS1OMzh5d1NROG9mNUNxN29XWXRwZkFpQ1pERFcxVXUzUHpubTBvVnItNmk4aGdDRVJOYjVIT0p0VW80bTE0aGlDUUxVQUNDQldGdG1RLURBd9IB8wNBVV95cUxPQ1hRSGsycVVwa3lEN1Rkb2VRZ2FNbmhnb3lCaHp1dmNONm5aWVkwM3RZQTM1Rm5QLVY0ek8xc2VuWjZuY1R5bjhIWXUzMmNVMFYzZUg2TzFFYzJSd0l0SXhBcjRTbEZuQ3oxeVE5dU5IUDM5bmltc0Q1c2Z4Q0YxWkJsd1l1NUNJc2w5OHEtN0RjM0NSbzZKZndjemExejVWU1NDcDBJa1cyM25TR2s4cjIyRlNQeTA5bUZaRjZXdzZLZkdyYVZmbWZQSjMxQzUzNFBJTlR5ZnZtNEZkbzZ2ck1aQlltcXRvenV5TjFmXzZYdExTT251MzlOQ0R4UWR5dVNXc2FPOGs4RFE3dTBWel9zbS1mOGtCNVhnQ3Q0M2hhcE9JTUlHWGtrcHRaM3FoaFc5cndCbzA5UWdtdENuOUVJc2pYMmZjeERmd2pmUlowT290a3JhckVEUnM5dHpfWnh1V3FyYXhUN3p4VEJxNkZ5UGNmclpad1VHQ0tqcHkzS0VBSk5uRWN6U083Wl9DTHdwNnRUVFQwR21BUFIyQzg3VkpYbzFpMjM0MjhQSUpmcVlVR3JVRjhvU0dUYWF2MzJvaXhaYWlmY1hmNjRBeWVYeHNaNnlXbHRUOXZIdFQ0VXVERG1vQUhHeDZyZXc0VjJn?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 09:30:00 GMT",
+        "discovered": "2026-10-02T09:38:05.983312+00:00",
+        "category": "الرياضة",
+        "status": "مفاوضات",
+        "summary": "اتحاد الكرة العربي: نتفاوض مع مصر لاستضافة بطولة الأندية يلاكورة",
+        "player": "",
+        "content_hash": "521cd52a1e20f2e0e639a89ff393adad9428b2a4a2c3c6e4ec8fa5ac8f7569c2",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 7803,
         "title": "مباراة فريقي الأهلي و مصر للمقاصة في بطولة مباريات ودية - أندية - مباريات ودية - FilGoal",
@@ -1266,22 +1282,6 @@
         "summary": "فوز عريض لمنتخب لبنان على المالديف الشرق الأوسط",
         "player": "",
         "content_hash": "b1ec689e6fef0249d7d7a783d61651e3b732d18727894466a5066d5b7a2e7fc1",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7762,
-        "title": "كرة يد – رباعي مصري يقود فيزبريم للتتويج بـ كأس العالم للأندية بالفوز على برشلونة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QanZyaFNNOGI0cWJGY2pfUXR4Z3hqWnF3akE2UzBJSHV5NVVRYTVtOHVfUlFQSHRzSFNRaU1EVlFLX0lLcy1oTTZrM0ppdkxr0gH4BEFVX3lxTFA1S250X0R6MmVPaHp1c3JyVElOMjRSUGFtRmt5dmNQb3dzUTBLOW96OXFnX2E1NHA1RXlucThGVmtKajlPRW1EbDNtV2FkVGgyWG1pQ1JpSm9TX3QyMFk1NUcwb1N2RG1xeHlQeS1RTGRuZkROQ0lIRVlhTC1xNHpESDBzRlNVYzJabjdvRUZQNU4yQ1BtVWZRUzhqWTNJRXAzS2Jya25odGtKdUoxeWpLc29aRXJ3dmViNFJHZm1QTmdqS1dkLVhpbDdmMXFnY1lBekJ4SHk2OGdERkxpeUd6bWkyb3lPU0MzZkt3UDI1QlFmUkk1cDNHOHpyX1BTaU5weUEyd3JNbXJFeGdmRU1OY3lHdEpiVHpDdnlXcENTaHFOd2NFd1dudkF3N3B5WlZCREJkbXl6MXB0YkJqcEZMX1c4ZUJNNWF2bEFtaVFTTzN0S1Q2WXhmdlhKd3JSc3Vrb21IVmNXS0dGaUNGSnZMbWx0TjF1QlhhTlQ3bUdLYS1kblZOb3JNeGhhX1NEb2NMX3dxbzhqMUZxeGI4b0VMS1FrN3Z0QUZ5Qk5meFF6anl2alA3cXVFdFpUU20xUDBFcEd4c2lycEs1anM1YnhIY25wRTRTUy1MTG5EMVJPWkNieDh5cXFuZ2ZvODc2Q0wwQUZkWVNUTWRTdzluNkZlME92alF6aVo3bGE2c0NJVk1zZlpqbEpYalk1aW13eDFCd2FLTTdzc2txVDd0V3lGWG5GbkdUamhqYmJsMDVCbGo3YWFpbmFGb0xmTXZZM1N5NW5Zd2JrMUY1OW9HRXF4SktzOW1uaVhvNnQ4ZmdsaV9Nb2FBUkdQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 19:59:00 GMT",
-        "discovered": "2026-10-02T06:06:28.918584+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كرة يد – رباعي مصري يقود فيزبريم للتتويج بـ كأس العالم للأندية بالفوز على برشلونة FilGoal",
-        "player": "",
-        "content_hash": "024d79ec151399a90f3d3634e423ce93631b58951d2f27d2f2f7552f6b65e3f5",
         "sent": 0,
         "section": "sports"
       }
