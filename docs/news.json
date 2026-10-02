@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T21:50:27.222765+00:00",
+  "updated": "2026-10-02T22:00:18.538646+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1448,6 +1448,22 @@
     ],
     "transfers": [
       {
+        "id": 8018,
+        "title": "مدرب الفتح بعد الهزيمة أمام أمل تزنيت: \"كانت مباراة معقدة.. سنعمل على تحسين بعض الأمور وتغيير عقلية بعض اللاعبين\" - Elbotola",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qUk5CZXZ4dUxQWXpvMHFFeXZiWDdQcGstNExUcjVhejRPMl9UZWZaRjNCR2wyc3lKeTNMUThzdkZXcEthOHRuUW5YbG5hRFRuZHlxZUg3U1FMVV9mMWlsWWp2dXFmeC1ndVE?oc=5",
+        "source": "البطولة",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 20:22:00 GMT",
+        "discovered": "2026-10-02T21:59:56.862910+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "مدرب الفتح بعد الهزيمة أمام أمل تزنيت: \"كانت مباراة معقدة.. سنعمل على تحسين بعض الأمور وتغيير عقلية بعض اللاعبين\" Elbotola",
+        "player": "",
+        "content_hash": "1a1eec01689fa0508b81c489223337d60284d20cc66c22361654c8d07f9dc4e0",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 7986,
         "title": "الذكاء الاصطناعي يتوقع نتيجة مباراة السعودية ضد قطر - 365Scores",
         "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQcnpKME5FSVBSSnQ3RkpOb0xvT1JzVDlfWkM4UnR2a01sWGNWTmdId3hHVVBseWoxeXBSdEZadTJkWWh1ZHhtQmV0cW9HSzJtdFNfWUhycVNvdFAycHk5VjYzenk1Snh0cVlCd3dCWTY1SGlzXzYtNHJJRWdDZW9uc3BnVUh3d2JMTTcxWkF6WFVteWtVT2xHazlXVUpNcXVuSUVYakN2SXdYZ1hhTjBxSS15MERDaTBOZVlMNXM2WWlldnpBQjBXdkFLWnBEZGNtTmZkSk1XVE94QWRoc041MV80UXJ0SUNSNEdraDdQQ1ZDVVNZZDUtcGdJVDNRMUlLcy13Y1VQbEVYZEh6VUppRV81OWVMTDdqcURoOUlRYVVkcF9YQ04zREdCZ0RMa3I1em5lVWNSWnoydnF6VGlhRXN5VjYtb1Bfck9MTWFMc05WUmp0S252bUNoRENzMkNEUGc?oc=5",
@@ -2100,22 +2116,6 @@
         "summary": "ترامب يوقع اتفاقا طوعيا مع قادة الذكاء الاصطناعي ويفتح الباب أمام تنظيم مستقبلي العربية",
         "player": "",
         "content_hash": "ad149c9d00eed95b9d0a004abb62a6e9fdf4279734867b0b10518472a6a7e8ed",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 7625,
-        "title": "البنك الإفريقي للتنمية والمغرب وقعوا اليوم اتفاقية تمويل بـ270 مليون يورو.. توسيع وتحديث البنية التحتية يدال المطارات المغربية - goud.ma",
-        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOdmt3eTdNOFRTVWhuVTJkOUd4NjJ2QWhIbzVkbHR5eVNKYWdfa283VFM2b2dlOG5PSHY4bHBhWW1WbDViN2NlY0NkWE9IRGpZQU9EbURaYWpQYkJLTWRVSDdnWWJQRDdkTC1DNlFnV0pTckNwLWRmUENhdlhoRGlNdzlNa3FzSUt6M0R1OFRqNDlZUWk2c2xKOFJneUV5Q09mXzRjR3cwN3I0bUlBcm1KbVRaaG44bURJVFozN29wWnlnc1lPWVZjdUVQcXFqUDFwWTVQd3hFTFcxNUNLTUhrMWtBWnE1U2pXdlZQUjZWM3pZWGlBX2pkamtnVUFwWmMzTEFkby1UNHVxMHRDN1RxZUlBZ3J2dGJhX2xsRENsQzBsaTh4ZER2NUxDQ09iVE9lb2xCRTRvdkFTQ2NPUDZ6ag?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 12:49:26 GMT",
-        "discovered": "2026-10-01T20:18:26.116103+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "البنك الإفريقي للتنمية والمغرب وقعوا اليوم اتفاقية تمويل بـ270 مليون يورو.. توسيع وتحديث البنية التحتية يدال المطارات المغربية goud.ma",
-        "player": "",
-        "content_hash": "61d75559c181da8ad998783ae848b4a8f8427d0f4d835e0f7dde412d23ef7d94",
         "sent": 0,
         "section": "transfers"
       }
