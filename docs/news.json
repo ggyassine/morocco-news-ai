@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T21:35:46.187688+00:00",
+  "updated": "2026-10-02T21:50:27.222765+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -112,6 +112,22 @@
         "summary": "يوعابد كيكشف لـ”كود” تفاصيل تقلبات الجو فالمغرب: شتا ورعد وتبروري فشي مناطق والسخونية باقية فالجنوب والحرارة غادي تبدا تهبط كود",
         "player": "",
         "content_hash": "aa062572bd6bd552b723d01e5e73f1aa6ee20db90e752797a6e4788025aa1993",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 8013,
+        "title": "تحويلات المغاربة المقيمين بالخارج فاقت 89 مليار درهم عند نهاية غشت الماضي – اليوم 24 - اليوم 24",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhZWl3VHlwVlFqOTBiNDZKM2hOXzduZ3BXdWNUWkJ4dHlTWUdZMGVpdzVScG1HUDhQSnlpWHpVM0dETGg0QUhjQzZn?oc=5",
+        "source": "اليوم24",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 15:32:35 GMT",
+        "discovered": "2026-10-02T21:49:57.992700+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "تحويلات المغاربة المقيمين بالخارج فاقت 89 مليار درهم عند نهاية غشت الماضي – اليوم 24 اليوم 24",
+        "player": "",
+        "content_hash": "697aab5d061f83fd76e164b59e12fd53a6d015d05f4c93797293fddd8c6c3913",
         "sent": 0,
         "section": "morocco"
       },
@@ -500,22 +516,6 @@
         "section": "morocco"
       },
       {
-        "id": 7514,
-        "title": "مدير مدرسة ففاس تضرب الحبس ولخطية بعدما وصف المجلس التأديبي بـ”العصابة” وشهّر بعدد من المفتشين - goud.ma",
-        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQdFpmZEdPUEhnTGdFYVZBYUZERGEzVHM5dnVMeVJEX1g1MmhORm51dVdCRTZtTjY3dXh1Smt1R2lMYjZvVnZDS3AwMUMwTDhKRU4tdGQzUHE4UWJyTDNtempsaXNzZ1ZzVzdoVEdpUHlZSmpoSWxIbVhxSi0yZXdHbjFrSkRXc3FlMFZnRGlTNUo1LUM5b09SUmdlSmNiMmZ5a0NlYnZxQVFPN3loT2dMNmd4anNtUDJ6eEdqUVQ5YS1QamQyc0plYzltOTRSbVJjVGQ3c1otMjhlbDlSV0d1dEdvMlFFZkw2ZnpCZzdEYmJMSk1rZ2cxa0dVVmtYSUx1YkgxZzNkVlZEakVtTlYwODJ4bzRKWHdhQW9nNmFuQzFKN042Wk9uaGFUNlJmUG1wa1FkLXBRYTNvbFlsd09NT2x3WF9VdmNYTEdj?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 13:25:50 GMT",
-        "discovered": "2026-10-01T13:49:41.955745+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "مدير مدرسة ففاس تضرب الحبس ولخطية بعدما وصف المجلس التأديبي بـ”العصابة” وشهّر بعدد من المفتشين goud.ma",
-        "player": "",
-        "content_hash": "b2d63aed49b707b0bcde0cfbaa38744d5e7af4cc9f9c4833fda29f4b3655e020",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 7988,
         "title": "الإعاقة الذهنية والممارسات الإعلامية الدامجة محور دورة تكوينية في الرباط - | MapNews",
         "url": "https://news.google.com/rss/articles/CBMi9gRBVV95cUxOTVRZZzE0aDVfemV1dFNjR2R2ZHhTNHkwV3ZxOHdkTThzRkxJYXhWX0RyN28yUXBGSTJfTkxXdFNUT2lQR0FETEU5RXpoRGU1TU9DVjNudWJPclByMmVwZTRQSlFfelZQSzhnb3ZVV3BjbTRMMVV2YTFNczZPT2pTbmp6Q0FPTll0TG5kQV9qMWR0bzhDWTZ1czAtSTVVdUdfQjdEaE5JVHhpUHFxRFhiUks3WHFhMjc2VEs0RzJNUnNxODZoTmNKSnBzem1LNklESnl0a1pFWjVUaEpfX1BFNWhVSFpxWVA0WVpNbGpibGM4RmVVaTd4WU5PZGNKc3MyU3VlZ2x0ZnFNYnlFZWRqVzhBSWVLUjlLbjIxNmJELXRhdlhJd3oyLWtNUzJCN0xybld0RUtVVkZfc0lrZXBaVnh1VktKd0lkYm90d3VmWnRTb01xX0Z5bzh0RU5aRkxPZmpjWXVCakNxN2FYT3NNNUwtZ0F3dkx1VTZoT1FuQ1g4MmxreFlqNEdDU3hmdEtGeklQLUw1aXJvVnRuNGRrMFBZclVQSV9xMXNfOXVDbHowWnpjeVlEMldYMlp4TEFqTVRMcHkwSjJlMklrMUFKYjBNUS1fNjU3YW4tWFVrMmlLcEdCUU00Z20taWNXZDY4NDlPbllNUXhYVFQ3WHJld1JkZFdSZVBHRTdhRXVDN3AxTmNIMjQ0S1ZiOVl1UktVZ2VGanpIeFpNWkpJeTVZWEt6VFY3OHprYWZWRTdkU0JQdHVWc3ZKcHdsSy1lSl96X0tSQlJDcUFtelJVTEp4R1NQSTBhd0I1ZTNiLUVnVVo5UFlpY0E?oc=5",
@@ -645,6 +645,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 8014,
+        "title": "فرحة عارمة لمكونات اتحاد تواركة بعد الفوز على وداد تمارة ⚽ - Elbotola",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iZVVyR0pwUzBUejNtSTV0c0xmWjFwSHZUdE4zTGpjckdUQUVIa0JUeWQ3eTVEMUNwdWZiREdUUDU4aWt4WTFORjFoLXZCRFNwNDVVNHlORFpIeXZteVJ6dzN3bVUzbFVkRFJxclRRWDg?oc=5",
+        "source": "البطولة",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 21:29:55 GMT",
+        "discovered": "2026-10-02T21:50:02.568137+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فرحة عارمة لمكونات اتحاد تواركة بعد الفوز على وداد تمارة ⚽ Elbotola",
+        "player": "",
+        "content_hash": "aa814c2f18a0f102bb6d07153cc18f0db454846c4da9121e0b095090ae2c59ad",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 8011,
         "title": "لقطات من مباراة فرنسا وإيطاليا في دوري الأمم الأوروبية - يلاكورة",
@@ -1030,6 +1046,22 @@
         "section": "sports"
       },
       {
+        "id": 8015,
+        "title": "خاص.. موتسيبي يستعد لقرار مصيري بشأن كأس أفريقيا 2027 - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNbUpnNEM4ZnFMWXJpTHJDNklXUlF1bTFHbTNNcm1oem5UMW1pYnBNMWpzbk5rNEllc2tJN0Q3cUppQTZZTHMzaV9Id0FVMnhwUkoyaTYyTUFGUGFob1dnN1JCeEFlYmtEVHZIS3kxNWhDYmphR3VlWnExblRSMDZ3R2tFR3FZczhYQnJPT3RhX29kVkVjZ0tIYm1wSTJYdUx6WWNhdEtyWEtiX1hEeUJJVTlkT1pGUThWSmZ1Ynh4Tms4ME5YN1htcWlzX1Y2VFNMa2FjeXBRTmh6bTIybVRIM2JETHBjV2JoWkRyN2pKMHM5cGV3SzdEZEgwZkdKMWhTUnJKLVk5XzFfSTFWQTFBRy10Z3JISjk3cXlrSTdZUThQWjNFb1U3SnlpSURhQzVmTUFGSUQzWDJkOWlGQ2RKOVZuQ0p6RTlJWXcxMXpPdjdVSEtWdGtnVDBHcFBHUEQxTUJNSkdfQ0NyMkprbjZ2UVZnNDdrM0lrbmQ1NmFvM2NUTWxMMHVsZ0ticEpJZjU1QzY3bXExTEtabjNMQ0pFYW83Q3ZBY3p3VGhjSFpzR181eWNqT1EwTk43djc?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 18:59:25 GMT",
+        "discovered": "2026-10-02T21:50:08.799852+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "موتسيبي يستعد لقرار مصيري بشأن كأس أفريقيا 2027 winwin.com",
+        "player": "",
+        "content_hash": "90bd5410e02dca18f51b2beae0482f1269879d8eda12059452cb273fe5138a20",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 7958,
         "title": "اتحاد طنجة يؤكد منع جماهير المغرب التطواني من دخول الملعب حتى في حال تنقلها وحضورها إلى محيطهذ - Elbotola",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xX0VRWjk0QmhKUDNqQnhVVEV4cHVsbTRnaF94djR5SGlsYnVHcVBEdkVyVFpTRGVSTmtvSGVqZ1I4bzFocmhieERqLV9MY1hGbDdQMHBWS0hCVEQ3R0wxei1vZzhSTUFaUEE?oc=5",
@@ -1410,38 +1442,6 @@
         "summary": "أخبار | الأهلي يفوز على المقاصة وديا بثلاثية.. وتوفيق يغيب بسبب نزلة برد filgoal.com",
         "player": "",
         "content_hash": "d3ca793fe1bbe791e1638fa3d8c5e3d005549941aeb5904ab8f7f7a0f3c3d685",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8012,
-        "title": "مصدر من الاتحاد العربي يكشف لـ في الجول حقيقة إقامة كأس العرب للأندية في مصر - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xaGR4aG8zc0h2MHRNa3N4T203VGxqMVRYMUJLdnU4RFoyZDF4bWZGZ3RvaE1IbkpnZFZSbWNBOGZjb2Z1TGZ0aDV4aXcyWmU30gHaBEFVX3lxTE1FYUx6bm5aa28zVV9sbUcza0tzcjl0cVpNRWozOE9Ra3NLY0IzZFJiN0lPQ1kxWDJPWV9LZHNqN0JQa2JQZnlUZHVnTURXcjhWenNtQkdqRlJfTEZIWVI0VUZFbnpUVXZsUTNvYWFCcDVNMzFKVXBYdlpCdzZQMmNXc3pLdjVRTmpKTmFyUm1LQzF0M1BKcFgzVG53TXh2ZDBNcTBZbGhaRFBzRjRWYUZaZ0JOS01DX1RtSXV3emx4X29mZmZWbjJUR3h6YlZJbzVtTklmNGtoT1pDOHBZckFla2VsUl80dVQzNWx4LVdaVG1oS1BiM05sUkRoalZYb3JqUTk2ajh5MEp0RllHVjFwcHd1TTR4Zk5XWWtwbUh1eGNBZmVaRVkzakJSYktob3E3WVo3OGxCUjRWb0JYUU9qaGNSZXhZaGNwenpheWR5UWFKWEVnWHI0cnFtczBydlNaWExCRlJCLU9MY3JZSXhYTjQ5dHVlREtPel90MFNKYkpoMUdsV3dFOTBsM0V2Q1RPbWZJdXR6ZG1JTVNTdk1MTVVEalZnZmNCTHpYS3lFMlk1S0ZDTVFELS1pMHlzakhNZTBHaHlLUkV1eTdESGdXTzRZdUpiYmpnQWlSZFNKTENMVVlhNVlQTGlZR0tvYS0tYUQ0N0FmbUZJdUpPMEtWM0ZPVDU2ZldyNlF4Y0Itc0xLbWFNU3p3eEt2ZmVLVTJOb01hTnZocjRrZmcwbzAtb1FLQm8ySTQyVGFBSmtvOUJNSE5nWkdJZW5wT1R5VkhVN1pWRGw0WTFn?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 16:38:00 GMT",
-        "discovered": "2026-10-02T21:35:30.862249+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مصدر من الاتحاد العربي يكشف لـ في الجول حقيقة إقامة كأس العرب للأندية في مصر FilGoal",
-        "player": "",
-        "content_hash": "a41e6a6929b238ef8548033d04ab8badfadc8d6326b1ed6e5d26ee75d4389506",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7981,
-        "title": "مصدر من الاتحاد العربي يكشف لـ في الجول حقيقة إقامة كأس العرب للأندية في مصر - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxQTnJSV3k3amc4WjgzWktWZ1RRMXFWV19sU3NNMkxxMzI3d3RSamRGNEI3aU1tLXEtbFNRamJXTnZWaXNBY3hadmU5ZUdBU3lITWg1WXNVei1rN3dPSVZTbEZHd0J6Qk1qQ3ljTGZsclNjd2d3VFowZzlvWEVGbjJweXJOd0dJODlocUdEQk9tQVZtQkZMRVY2TDluSk54VkNTVHN1T050TXVJQ1dPcUpyVENfSUktSnFpQ21JSFNxclVsSTNLS1N5UDAzVTVrNmU1ZlBqWjJmQms2RGUyWHIzT0tlT3Y0c1JTOVZOU0ZvZHdwRi0yOEJ6MnFlMm5HX2k1Z1ZqVjVkNlgzSUVXRENDNGt6Q3kxd0NsWjhXVzRLM0F6VXljQVZkLWthRVp2MDFncElGRmVSRTBxR0hUZjkxWU5OaW9SNXBFOEc5bEVmS2JmcXB0dUlZR0p1ODVPVWdLOUhpQkVkZzhNcTBvTWQ5TndzNEZFYXVtTEx6WEFNXy05d0wydEwxcWw3RlBQSjdwQ05fZllCQU9DY21hRnczNGREd1dCaVNIcnIzMWVjOHNCTEw4MkpvVlIzWTN4blNwWF96MTN2RGdNUUFDb0VmSWdrMGN2UjViSXVTWTNpZE95Z0NtNTk4VnNmSWUtaTNXMFdmTG1nQjBJSGZ4X2pPMERzRWdRSW9zbkp5cEFfZS1yT1o0OHhrQ3dzaWxRZVpwWlJyS1VNX2IxYllfUm5wYzc5YkVCZW1XZGpaM19LdDd3Z1ZvLUJmU2c0SUg0UE9yQS1TZtIB2gRBVV95cUxNRWFMem5uWmtvM1VfbG1HM2tLc3I5dHFaTUVqMzhPUWtzS2NCM2RSYjdJT0NZMVgyT1lfS2RzajdCUGtiUGZ5VGR1Z01EV3I4VnpzbUJHakZSX0xGSFlSNFVGRW56VFV2bFEzb2FhQnA1TTMxSlVwWHZaQnc2UDJjV3N6S3Y1UU5qSk5hclJtS0MxdDNQSnBYM1Rud014dmQwTXEwWWxoWkRQc0Y0VmFGWmdCTktNQ19UbUl1d3pseF9vZmZmVm4yVEd4emJWSW81bU5JZjRraE9aQzhwWXJBZWtlbFJfNHVUMzVseC1XWlRtaEtQYjNObFJEaGpWWG9yalE5Nmo4eTBKdEZZR1YxcHB3dU00eGZOV1lrcG1IdXhjQWZlWkVZM2pCUmJLaG9xN1laNzhsQlI0Vm9CWFFPamhjUmV4WWhjcHp6YXlkeVFhSlhFZ1hyNHJxbXMwcnZTWlhMQkZSQi1PTGNyWUl4WE40OXR1ZURLT3pfdDBTSmJKaDFHbFd3RTkwbDNFdkNUT21mSXV0emRtSU1TU3ZNTE1VRGpWZ2ZjQkx6WEt5RTJZNUtGQ01RRC0taTB5c2pITWUwR2h5S1JFdXk3REhnV080WXVKYmJqZ0FpUmRTSkxDTFVZYTVZUExpWUdLb2EtLWFENDdBZm1GSXVKTzBLVjNGT1Q1NmZXcjZReGNCLXNMS21hTVN6d3hLdmZlS1UyTm9NYU52aHI0a2ZnMG8wLW9RS0JvMkk0MlRhQUprbzlCTUhOZ1pHSWVucE9UeVZIVTdaVkRsNFkxZw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 16:38:00 GMT",
-        "discovered": "2026-10-02T20:00:33.173594+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مصدر من الاتحاد العربي يكشف لـ في الجول حقيقة إقامة كأس العرب للأندية في مصر FilGoal",
-        "player": "",
-        "content_hash": "a41e6a6929b238ef8548033d04ab8badfadc8d6326b1ed6e5d26ee75d4389506",
         "sent": 0,
         "section": "sports"
       }
@@ -1960,22 +1960,6 @@
         "section": "transfers"
       },
       {
-        "id": 7515,
-        "title": "العقد قريب من النهاية.. عملاق أوروبي يعود لمطاردة إبراهيم دياز - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxNamF6cnY3VktvaXo5TnB3WkpUTlc5TVdSSktvUG5iWGU4Y09qdWhPMUFBaDRqV1BGR0NpMDZzV0Y0VnNERUR2eE8ydmhjSnQtSk9sdVRsLTVJaUpHM09id29oSEQ5QXlfT20wRjZ4XzdKWDRySW93b0g4Q2dtU0JCZ2RRSlVEZXNVWXlSb2w5NHJsTml4VUYxT0REbVBzQWdNZ01kREdJemdyQUpiS3lDcUttS2EzVjRlU0dkNjg5VnhmQmt1RmlDOFp3NW5RV3NwQ3RIRi1zRy1xTWRWbU9oQXlkYkVDeWRlWUV0SHVyVW9rdlI5MmFSVjkxdzhlUVZuX2h3aG5ubWE2NUU0b0hIVGhPakpXcWlybHZWVWJORDliczVyUFBEc3pPYmdxdERPakNXekRNQUd3OGNqMkRTQUZjekZDNWotLVlha3RxUGFDOVFJZXJKZXY3Q3JRQ3lwNFBicUNQUUxyUnM2UmxreDZWalhSNlJfTksybm9yNUZYbU9zZVhqdm1wSDFSdzAtcDY4N2R4Qjh4YjVXSDhJVDBmTm93S2JRVm5wajFqc1otOWdyRE1kZkY5dVNWc1ByVGhTSVNvZGRfM0ZscnJCOHBQREVpVWtsRFIxSFRiNjFQRTR5MGI1TUpvZGZFdGtqcUE1ZEIyWHJoX1FzS0Q2M01vNGJtRFo3SmwzdXFjdWdzeHFuR0pUQWlsZlVtVnlzb2didFFMQl9lOGJUZEFBTEpzSGFDdmM3N0puck1xTmhjeGlnTnZMamVvaVJHWXNlU3I0VHB6dkVkRHFWZzUxc1gxVkRUdW8?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 13:41:57 GMT",
-        "discovered": "2026-10-01T13:49:44.789817+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "العقد قريب من النهاية.. عملاق أوروبي يعود لمطاردة إبراهيم دياز Kooora",
-        "player": "براهيم دياز",
-        "content_hash": "4a4918dd20faeec1f73b16670489db25cf492c51ab134d08aaeb75aae973bf03",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 7535,
         "title": "تقرير: روبيو أمر وفد عراقجي بمغادرة نيويورك بعد تعثر المحادثات - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMixwRBVV95cUxPSXN5QWlUYUo2T25NcDN5TDhKZFo2YlFuY1c5OUJRQlV3UHdVYWM1WXZ1Y081QnV0Ni1xeENJUU03MGxDalpuWHJ3b2JiYllPMXFabXlUem9ibHJYbUxpaE10ZnhvNXNRMHF6YzN1RTVvTE83YW81eFdybGNPaUtNai1EUnI3d2c1Qm9vMGVRZGRYVmJqUVhfVVktaXNRNEloYWY0Tlp1ci1Fd0NZM2MwMkJId2Nubk1LQUUzYlV1b3F1Y3ZjSGdTQW1NWmptVEpScXNDZmhzTjV2bWY0TmxCYVFMdkNMc1ZPSGxhVENOalloSU1zNHpsdldJT0hSZWxHLW5UYWZHOXZ4Y0JuX1djczJsVWluUnlSZTdaa2pDeVhaUWFXM0JyR2RYcEJZSDhMSHNhOTdqb0NidEhvdFdQZkU4Q3JGcFdxZ3JTZE83SGFsX3VrVFRUcTV0NjZhaW1UYVUwM2FVZmVCc21aSDl3Szd5OFZlMWxNUVFja3RWWExZUllleThzZDBKNGo4RmpQMlp6RFZuSUxnS2Y5dVNncE1WS3F3c3hhWmdrMjVWR19lUDlUWXRQSVZ2eHBDWWRYWWQtYXhqMFRKRHVRcVl5d3hGaUFkM0FtZExZcEM5b3loVWFTSU5YeXBjQXBvR0N3QnByMHlWUlliQXI5UlF2UDQxcHEtMllIU2Q2eHZXQ3FSX0oyTVB3Qkp1cE1iQ0JYTVIzVGFKZnFtM0w0M2FSTmhodWp2cS1TVjI1TU9TR1VqR1ZUTDA4?oc=5",
@@ -2116,6 +2100,22 @@
         "summary": "ترامب يوقع اتفاقا طوعيا مع قادة الذكاء الاصطناعي ويفتح الباب أمام تنظيم مستقبلي العربية",
         "player": "",
         "content_hash": "ad149c9d00eed95b9d0a004abb62a6e9fdf4279734867b0b10518472a6a7e8ed",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 7625,
+        "title": "البنك الإفريقي للتنمية والمغرب وقعوا اليوم اتفاقية تمويل بـ270 مليون يورو.. توسيع وتحديث البنية التحتية يدال المطارات المغربية - goud.ma",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOdmt3eTdNOFRTVWhuVTJkOUd4NjJ2QWhIbzVkbHR5eVNKYWdfa283VFM2b2dlOG5PSHY4bHBhWW1WbDViN2NlY0NkWE9IRGpZQU9EbURaYWpQYkJLTWRVSDdnWWJQRDdkTC1DNlFnV0pTckNwLWRmUENhdlhoRGlNdzlNa3FzSUt6M0R1OFRqNDlZUWk2c2xKOFJneUV5Q09mXzRjR3cwN3I0bUlBcm1KbVRaaG44bURJVFozN29wWnlnc1lPWVZjdUVQcXFqUDFwWTVQd3hFTFcxNUNLTUhrMWtBWnE1U2pXdlZQUjZWM3pZWGlBX2pkamtnVUFwWmMzTEFkby1UNHVxMHRDN1RxZUlBZ3J2dGJhX2xsRENsQzBsaTh4ZER2NUxDQ09iVE9lb2xCRTRvdkFTQ2NPUDZ6ag?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 12:49:26 GMT",
+        "discovered": "2026-10-01T20:18:26.116103+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "البنك الإفريقي للتنمية والمغرب وقعوا اليوم اتفاقية تمويل بـ270 مليون يورو.. توسيع وتحديث البنية التحتية يدال المطارات المغربية goud.ma",
+        "player": "",
+        "content_hash": "61d75559c181da8ad998783ae848b4a8f8427d0f4d835e0f7dde412d23ef7d94",
         "sent": 0,
         "section": "transfers"
       }
