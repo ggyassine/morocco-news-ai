@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T22:33:05.209585+00:00",
+  "updated": "2026-10-02T22:48:03.613709+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -645,6 +645,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 8024,
+        "title": "مانشيني: لعبنا مباراة مثالية أمام فرنسا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNYTk5dlk2d1p2RnNKSzM3NjlhT3pwY3pDZWZzTGMtZzVNRFZxUzRCNHFoZmhCa1JTcHhGeW9pcklSS2tWMnZveUdYeVNwMFhLbEpnVC11aHkyaEhnLWxIQXBoR3c3amUtRFJQUkJ0R3dCRDVmNlJxN0VxUHA4enJZam84ZWpVWHNZa0txUkVvc0R5NXZ5ZmY3UVd5c2VpME5vems0SFcxY09IbUI1bUpzREJYaF9NbHZXY0ZaOVBpbG9aZ19RWEJONnVHT09rN0RHcUM3bF9yOV9tcDdLTTRpaTNOM0F2S2JEXzVuVDVNUTREX2hmTGlZS3EwZDUwN2pwb1lqaVNDUzFOeGxUXzg0bkg5YVlqbU9uYWFoZDJXdU9oT0k5WkliaEZsYTl1QjNIdllCWFpEQV9GVmh3V1NBZVgxOEMzOTFtUmNfd3JoUTMybmpkTkI4dUZ5Y1RYMm1KVmFfZTg0Z2hqY1I1dV81VkF6VUppYk9zT01YRzJEWdIBhANBVV95cUxOVEJHYk81ZnZRRDNSSVhJSVdCM1E1dHNLbEdEa0t4R29DMDE2WG9TMDlWeFM2bTVLc2F0Qjh6RmVXeFRUN3I2MUVvM05DbWo0SnNvZERkTkV4R1lwdWJkdDQ1U3hLaGVRQjZyN2tMOXBPd0FuSGRuRE1CWlNCRHgtalNnOUd3aXA2SjBzdnFkT2ljMndNODZvYksxSFdRZ29XSlQ4X2VhZnJ4d2JJYUtxX2xZZF9vQzlnZUJ0bzd1ckE2VFg3UmNEOVNFUGxIZUVsT1J5NVdhU3BKYmVPdm83OTI0OEM0NHJxTVF5M052T2VSUmRXSXlTb3c4ZHZYc1Z6Qmx2U253VjNDVVZRaVBKcEhxLTBTMmZGbzNneWc2NFJKdVo2aWRQTFhmVjBWa1lnWU53VUtUMjFmdUJiRUptNFBncVcxOC1kdVZvcVczTjRncDBaamROUHFRVGVpcVF4bGFteDNENkpiaE9fQV9LWDdRZm5welJYNzJOOWtKNnlJdGlX?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 22:32:00 GMT",
+        "discovered": "2026-10-02T22:47:46.493890+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مانشيني: لعبنا مباراة مثالية أمام فرنسا يلاكورة",
+        "player": "",
+        "content_hash": "3139783d32707e53813a4628242c6a102dd7a70ac23b553c47afc3b2c0ab073a",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 8014,
         "title": "فرحة عارمة لمكونات اتحاد تواركة بعد الفوز على وداد تمارة ⚽ - Elbotola",
@@ -1426,22 +1442,6 @@
         "summary": "الأهلي يفوز على المقاصة وديا بثلاثية.. وتوفيق يغيب بسبب نزلة برد FilGoal",
         "player": "",
         "content_hash": "3b92884c08e52f66a632738a669d660847f3fe4e07235ab0227fb35f82c55004",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7926,
-        "title": "أخبار | الأهلي يفوز على المقاصة وديا بثلاثية.. وتوفيق يغيب بسبب نزلة برد - filgoal.com",
-        "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxPUDlpbDZPUnZNQmlfZmNzWUFoV1N5WHQ4Y1E4ZFpYZGZ5bkUzbjZPdjZMVVZEMGdFYkNFVUl3VHJ2eWdhLTZCaWc3OGRmcjJzS2NaYVRUd3lxbTdCNEZGRGVpR3l2TVIwT2kydjl6WVk5SkxXRHZUS1h6MXlCUWdyTW93OTJOczl6ZVhuR1loLWZoZzQ2QkxVcWQ1S0tCNUxrN01zMllHSGFFOE9DTE44N2VBZFRFeWRsZjlmRlU5RlZGMlZtbERkUm1RXzJUQWtKWEFLaVhoT19aQ09UNVhTWFpFWHNXa1VnZlA1VmppS1d0US1SdlM0NGJUVTVlNDNCdFpvYWVYQ1FaM1FZa2Qyc3lZZkxKdE5aTVZFelQwNVgyV2N3VzJHZmY2a0lSUzQyZE02V3NENF9ZemxPOERUUzBEaTVlY3BBem1lV29iVXNwSlFkdDRpTzViVm8tQkZ4LURFblFlRE80OHRNSmMzY1c4SUJWNVpQZkl5S2hzTWFiQzhJVHJuRTc4dzM0blVtenFyT25ycE1UZllQTEMwYlp0Y3ZkSXM2QU5ycEVzWXZOenBwWi1XMGZkWXdYNXhyeEN2eVJkT3NPRzhQbGkxQXcydlNvS0IwNHZTNGc0RXhRSm1vZGpHMGFLbTdKelprQmhhRzVTN0dEWF9xU19N?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 16:58:00 GMT",
-        "discovered": "2026-10-02T17:20:04.726749+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار | الأهلي يفوز على المقاصة وديا بثلاثية.. وتوفيق يغيب بسبب نزلة برد filgoal.com",
-        "player": "",
-        "content_hash": "d3ca793fe1bbe791e1638fa3d8c5e3d005549941aeb5904ab8f7f7a0f3c3d685",
         "sent": 0,
         "section": "sports"
       }
