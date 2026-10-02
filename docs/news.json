@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T23:12:19.454632+00:00",
+  "updated": "2026-10-02T23:25:51.733873+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -640,6 +640,22 @@
         "summary": "أسعار المحروقات تشتعل مجددا في المغرب.. الغازوال يتخطى 16 درهما للتر Le 360 Arabe",
         "player": "",
         "content_hash": "48660bdafa9b717df4d485eb1ce0caca51ab492a0f478ee295cc151e36e42375",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 7542,
+        "title": "النيابة العامة تأمر بتعميق البحث مع عمدة طنجة وتمدد الحراسة النظرية - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPVHZ1azY1Mjlyc2dLLWVnQU5OZmdydll1SVV1RlBZWk9TT2d0bkZYd2hwWE1lQmp6UThVREp4UWsteGg3eE4xRUNDaEJvcEpkYXF5X0pjaTgxTlV0LUt3bXdXVDBSQnBQSnN6VUw4RGhGckxDXzZjUVRSZkNCSk5fQ2k2VzBmbko2N0FVVjJrOTRTX1VBbmVNQlN1ZUUyRHpCOVZsYmdDN1pMVUt5U21BLUZzVEZXNFdTZG5sNVRPWEFJcHBYSkRUNFJiMDNPUmVYS0UxSURoWm9MSklqeE9xOG1iSUl0VzQtOFZLeUV5NjhKMWJycEF6cjVoZnpXeVlWd3lobHZGR2pIZlRMaEZEYzZoR2JOVnRmSWoyYV9UU3J1ZkwyLW5aUzBYWkRTa1JaZjNwV3A2R1VkY0tpTDAydVIwQkMxbTJCZHBiUWg1ZXpRc2Z2SVpJ?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Wed, 30 Sep 2026 12:21:46 GMT",
+        "discovered": "2026-10-01T15:14:40.834206+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "النيابة العامة تأمر بتعميق البحث مع عمدة طنجة وتمدد الحراسة النظرية Hespress",
+        "player": "",
+        "content_hash": "89f12e6e4bb676215a01f3611b8c7e7a927380319769c2a363d8ea9956b60810",
         "sent": 0,
         "section": "morocco"
       }
@@ -1944,38 +1960,6 @@
         "section": "transfers"
       },
       {
-        "id": 7535,
-        "title": "تقرير: روبيو أمر وفد عراقجي بمغادرة نيويورك بعد تعثر المحادثات - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMixwRBVV95cUxPSXN5QWlUYUo2T25NcDN5TDhKZFo2YlFuY1c5OUJRQlV3UHdVYWM1WXZ1Y081QnV0Ni1xeENJUU03MGxDalpuWHJ3b2JiYllPMXFabXlUem9ibHJYbUxpaE10ZnhvNXNRMHF6YzN1RTVvTE83YW81eFdybGNPaUtNai1EUnI3d2c1Qm9vMGVRZGRYVmJqUVhfVVktaXNRNEloYWY0Tlp1ci1Fd0NZM2MwMkJId2Nubk1LQUUzYlV1b3F1Y3ZjSGdTQW1NWmptVEpScXNDZmhzTjV2bWY0TmxCYVFMdkNMc1ZPSGxhVENOalloSU1zNHpsdldJT0hSZWxHLW5UYWZHOXZ4Y0JuX1djczJsVWluUnlSZTdaa2pDeVhaUWFXM0JyR2RYcEJZSDhMSHNhOTdqb0NidEhvdFdQZkU4Q3JGcFdxZ3JTZE83SGFsX3VrVFRUcTV0NjZhaW1UYVUwM2FVZmVCc21aSDl3Szd5OFZlMWxNUVFja3RWWExZUllleThzZDBKNGo4RmpQMlp6RFZuSUxnS2Y5dVNncE1WS3F3c3hhWmdrMjVWR19lUDlUWXRQSVZ2eHBDWWRYWWQtYXhqMFRKRHVRcVl5d3hGaUFkM0FtZExZcEM5b3loVWFTSU5YeXBjQXBvR0N3QnByMHlWUlliQXI5UlF2UDQxcHEtMllIU2Q2eHZXQ3FSX0oyTVB3Qkp1cE1iQ0JYTVIzVGFKZnFtM0w0M2FSTmhodWp2cS1TVjI1TU9TR1VqR1ZUTDA4?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Thu, 01 Oct 2026 13:32:53 GMT",
-        "discovered": "2026-10-01T14:42:52.386520+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "مفاوضات",
-        "summary": "تقرير: روبيو أمر وفد عراقجي بمغادرة نيويورك بعد تعثر المحادثات الشرق الأوسط",
-        "player": "",
-        "content_hash": "a49bc21328ed936014e6888a957542602bb3e35a3b4c09d3bbb9965dc98f89c2",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 7536,
-        "title": "5 دول توقع على إعلان الجزائر لنقل 4 ملايين طن من الهيدروجين الأخضر سنويا إلى أوروبا - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOMk9xdF9BUWtQOGQ2d3FCTndFbWU2QWk2UDR6MklrblhUMDRsdExPTlFpc2hHamZLZDRZc1Azb2JSVUVFQzBfeVNhOFlFZTV5ekhrSlRuUkh0LVNNSUhyX2VyT2xFb1QtS211bUIxSVpTQVQ2RVVOQUdhQ2RKSVZvRFZIeWtXV2NQMV9CS3RsZXdfUkNEdW9BSjlkeVpsUzlCX1kwOUZUZmR3MDhPUFpDMFRrVzByMU9aaEFBYWRyaDNOSVZIT21yM2psS2FPOXNoX2xIdEY2NGNod0QyZ3JYNzdfMVdmSnBESmUxbDJuQUxjV2hnNDdrcFp3eEdLaGUxZkgxWGZTZ3FvSWlpT2cwanhsVkp1TGlBUkl5VEpyS01tWmM5dGhqdzRlYlJfRjZyLUNGV1d5MFVoYXl0aVZLdFpFU2U?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 12:50:08 GMT",
-        "discovered": "2026-10-01T14:42:53.556834+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "5 دول توقع على إعلان الجزائر لنقل 4 ملايين طن من الهيدروجين الأخضر سنويا إلى أوروبا القدس العربي",
-        "player": "",
-        "content_hash": "a37f3f926b823b9e2ed6c53e902981d7b7aeb1fa93bac2038eded4030ddae0d6",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 7882,
         "title": "«خيانة خيسوس» وراء رحيل رونالدو… وعقوبة الـ6 أشهر تنتظره - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMizARBVV95cUxNbkg0cWRtRFhYS2Y2bHUyQUlmbHRRN3R5OGJoc0hkOEpnYUhLNjNVdUZSSFhtWDByQnd6clMxaVFmVDZMSExyYTR4empYNmNPTG1IMFo5NG4tMmw5Rk9hdWpCXy1jamFERWhwcGpZTWYyUEdHbWNXMnhpMDVWU0VBTFZYTnlHWENZTXZlb1JKdTlpdm80Y3g2SnRIZ1JKMkk1YmZhczREbG1OcFFjYlh1eXpvUDhOaGFWdExVdGo1bnR4by01dDhGa0d5ZkRUWFNfVkg0YzRabWJCUjFBSEYtYnU2OTdSbmFGdFcwdUZIYVI1M0ZmVlRaRVp6cWJia3BMY3JyYWNNeXlHX2RlVzhCSGtmSnJuRXNHVGFBS3RoNUc1ZkF2WXp2WHZpTmgxUjFra3VrS1dzRFRicDN5UkVPbmROYjh5R0ZEaHRVT1k0WFc5Sjl2SGZaZ2h4UzRtYjZQT3l3U3VxQXZvdmlkWENYaUNLQmFja3FxdEpjaUtOcFdlekNoSm1LMUx3LVg0NEVZMWxOOW9udnZ3TXh5amJEZDBBTHAzMlVPQm15WmJoYnBqQ0doeHg1ZWw3b2YzZGlCZW14bkUzN3BibTFCNmFTTXJVeG91b2hHN29IUzM0Y0MydzNBb3ZUM2dDdUtKSWNXaU5IVTRGNkZBVzlYNVFUQ3RybWVaZlZuRk1zUGdnandnZUdIQmpPZE04NVU2dWZpcTRwQUNSVGV0N29WaDBQRV9DZThWR3h2dTBhSXg1bDJ6YkwyWXBKMmZTRVM?oc=5",
@@ -2056,22 +2040,6 @@
         "section": "transfers"
       },
       {
-        "id": 7534,
-        "title": "ترامب يوقع اتفاقا طوعيا مع قادة الذكاء الاصطناعي ويفتح الباب أمام تنظيم مستقبلي - العربية",
-        "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxNUUItQU5TOGV2dnRhcUZoYVI2c0lDdmtpcWZ0WV9qQkJSZW9INXNfX0JkTGZvYk9CSVNMZlZkOXZSRWc5V1dKeG9QYWpCNmNRdG5iaUFwNS1hUWdwM282eEJDYVlxd0JWZ25fWmRLbUdQWW5ZT29VZUlwbUhkMFlRTGt5RE5GejNIU3h4bjNYVDE0RGxtTjk5YlNDRWlKRVdUclBRMG1LMGM0UGJtcmJkUExWMDc2bWRqaTVkYXpmeGhMazlidUJCSmJITGpYN2IxS2RTSzBGY0kyYzBEQ3Nxd0x2Z0JIVnBoWW5fVndjS3B4SXM0Y2FqQ25rUi1IdHVHR3Z5OXMwcnhTd190SXFMQjRJcm5fYnotRTNUOEhMbHBEcUZiblZnWGwzR0tFTFdqR21pb0I5UkJ2ZmhGQTRfNGhaTTFLZzAteFFmX1BKdXM4ekR4dEMxZm13ZlhaU3JDMGtjLWx2Wlp3U0hGTVZCam5hS1NkQ2pDOVY2T0dhUTVUa1djek9kclRuN3BDc0JKSlNKaTZrcUNYS1kyY0ZRT2pwaW5CNkZWb3IySTdMWFFFX2Y0Qkk2Z1g2RmpWRHNDdkFrMmxLOHBOX0U5WXF5eWVacURZRE9SQnNkbVg5Q2dSdWJLZlVGSWxDck5pZHEtQk5DVERjR3pKclBocFBPQzN3LWRSOHdXM2d6bWpKTlg0cW1wUXJRRXc3d3dvVjcxS0daSV82eTNYMWNjS0htb2s5Rm5IX0dfSDZaZG8yelZoZDVnLWhJY1hmNmdJdEFhVmVMMHFpc093aXBwY2dIczQ4V0JlNHhkWEhUSFA4TkRiMU80X3lweTFueFY3MDZvRHJj0gGIBUFVX3lxTFBPbWJwdUw2dFBzcXJpeEVsb29NNWhUaWM2X1ZnMm1nX0s5a0k3LU5zNWU5U2I1TUx3eFFCcnhWOVdHdjJqUUVRRXBFYmF2NDNDMmtMVmRJbG9sVE5SUlU0bTVTeDlLNkJBM2RoYU5VU1lUeXRFR3hxTFJSbEdLQ0pVc29reVdJNGYwV1RfdWJWOU45NWxTN1paanVxdVpHcGVhSEpWMW5EUnlURG1kTS14cTMwN0JBRlh3TUE1TlVQNG1IS0ZRR1RpSFBJVVhaSDE4WW5OVHVUbHBXXzNQYllsbFhjVmZEWTVOUC1XMTUxdDBLWG1FZXpYMWo5SnN3clFfMk9kVDhGc2NjeFpLODk5MzlnRzdQakhaal96UXJMS2MyTWluM2x4Wl9aZVdOS2lnZmd1dDVJMXVmRVdMR2cwWVl5cHpuZkJQUUVmamRwVk5PNmxXRkJ3U1hrUU5NMGNyYVNVdEk0X2x6NmhWVzdhNXpjNmFzME0xOFlGVmZkRl9sZTRYbkxvWDJ2UmpHTVZSUVRwZmNzVGN5UnFsZmlUX1RjcnZZSnZ6MXdUR3JKVTVhYXRWVUNrckg1SHVFNjhoTzg3dkN0ZEdqaGtjdXFnUHNNYTNJR3A3SVlneUd6WDFVaEJjd0l3bnItZjVELWt5WFl3c1lINGtuVzlYYjFkaDFhamc5c081WDg3aExBcEk0Y2xiSzdqUk5hMzFkVHNmeXd1QldYUDQ5RUhDaW5fLTdHeW1JUUl1NU96SHN6UWlscnZ2Ukd3WHlEeEJvWkFMYndOQTlCb2NwdlYzdWJZNmtWdzR3VWpGOTBiXzEwaVpTQ284ZVJqM3RDMGNNOTY4UDY0cjB3Xw?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Wed, 30 Sep 2026 16:06:00 GMT",
-        "discovered": "2026-10-01T14:42:50.517349+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "ترامب يوقع اتفاقا طوعيا مع قادة الذكاء الاصطناعي ويفتح الباب أمام تنظيم مستقبلي العربية",
-        "player": "",
-        "content_hash": "ad149c9d00eed95b9d0a004abb62a6e9fdf4279734867b0b10518472a6a7e8ed",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 7625,
         "title": "البنك الإفريقي للتنمية والمغرب وقعوا اليوم اتفاقية تمويل بـ270 مليون يورو.. توسيع وتحديث البنية التحتية يدال المطارات المغربية - goud.ma",
         "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOdmt3eTdNOFRTVWhuVTJkOUd4NjJ2QWhIbzVkbHR5eVNKYWdfa283VFM2b2dlOG5PSHY4bHBhWW1WbDViN2NlY0NkWE9IRGpZQU9EbURaYWpQYkJLTWRVSDdnWWJQRDdkTC1DNlFnV0pTckNwLWRmUENhdlhoRGlNdzlNa3FzSUt6M0R1OFRqNDlZUWk2c2xKOFJneUV5Q09mXzRjR3cwN3I0bUlBcm1KbVRaaG44bURJVFozN29wWnlnc1lPWVZjdUVQcXFqUDFwWTVQd3hFTFcxNUNLTUhrMWtBWnE1U2pXdlZQUjZWM3pZWGlBX2pkamtnVUFwWmMzTEFkby1UNHVxMHRDN1RxZUlBZ3J2dGJhX2xsRENsQzBsaTh4ZER2NUxDQ09iVE9lb2xCRTRvdkFTQ2NPUDZ6ag?oc=5",
@@ -2084,6 +2052,22 @@
         "summary": "البنك الإفريقي للتنمية والمغرب وقعوا اليوم اتفاقية تمويل بـ270 مليون يورو.. توسيع وتحديث البنية التحتية يدال المطارات المغربية goud.ma",
         "player": "",
         "content_hash": "61d75559c181da8ad998783ae848b4a8f8427d0f4d835e0f7dde412d23ef7d94",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 7799,
+        "title": "بورصة الدار البيضاء.. تداولات الافتتاح على وقع الارتفاع - | MapNews",
+        "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxOWllnSmpnWl9acmlRZWY4R0pabG9LZXVhdmJhdUZORG1ZOXR5eWhiR2p4ZjljYTNINkFpVEk2MlFWR1hmRGY0dmE5RlJScFFvVGxjNTVUdXN3cUFMU0YwelZteHBjVEEzYXJPRDZBbk5obVZRWEwzQVVEb0Zvemx2MlhKeFVOb3Q1RGdSY05xMFNaZ3R3T293aWhoXzN1MlIzc1NUWXVFSE1UV2swaE5hbVBDWkw5VHQxSzRfbC0yRUhfY0tfY2dGNXJfTUE4VDRyLWhrU3ZiNjlMNUx6Ri14c2FkRkxkbEVZTnBjTDAtWjV2OXA1TGV1dS1jdVBOTXVQVmdLR3N4VjNieVZjYm9JQkM1aWl5ZHpLZmcwd3FVTzBadXZLUHpDUWdMRTRGU0QwNGJiY1FoRS1QdHp5MFdCdHhFQUVmTVFZNzdaQXJRQTVsZV9UNHhmM016M3JKQ1BZUmhtLWhXTjY3NVZPNmg4Z3ZxSTdBS3RFLWlKdjRIcmVxOW9GQXNwTzZVSGxtQkRDY1hLUURJU05vd0pKUm5MQWhSa0NxTTRIZjQ3SG5WeThtUld5Q3FxNkhPamhZV3V5S2ZxdmEtZU1ZRnBKTlh6LWYzUVdCZFZXT3hxZnkxV2tsWTRiRmZva0E0NEUxZEVjTDNWVWM3OWtsSllQdXc?oc=5",
+        "source": "MAP عربي",
+        "trust": "A",
+        "published": "Wed, 30 Sep 2026 11:35:54 GMT",
+        "discovered": "2026-10-02T09:20:18.623655+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "بورصة الدار البيضاء.. تداولات الافتتاح على وقع الارتفاع | MapNews",
+        "player": "",
+        "content_hash": "3e3deee17e656d3fa845cccbd3c5856e6839184893866ec9e296a9b0a8f44396",
         "sent": 0,
         "section": "transfers"
       }
@@ -2408,6 +2392,22 @@
         "summary": "قبيل الانتخابات… كيف استغلت أبواق نتنياهو “النهاية السعيدة” لحادثة “فلاي دبي”؟ القدس العربي",
         "player": "",
         "content_hash": "811011dc157a0522dd118d16518b01cae1dcbb17cb8d0c79933e98026b22e823",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 7556,
+        "title": "\"الضمير\" تقدم بلاغًا لمقررين أمميين حول حالة أسرى \"راكيفت\" تحت الأرض - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxObXkxZGx6aXk2RkZJalRFZ1dmSFNjaDNzd3Z4bXVGM0gwM1VPal9RWUE0RmJjTFhMR1FqRDVTMUVYZ2RhTWNVZkVrU2ZqbF9OUE9zbU1pWjZVdDRpR3NldkF5NFBuaUdWXzMtdnNJZmo5SkRibXFNY245NGdOY2lpNUVMQ2tnOUNRQ01ieEhSamdUUEE2dkFNZ1ctQTNselE0OF81UVYxNFVWc2daYjlCTUtlN1dvWmVEVmtIM1I2Nms2YmZKa3JrMm1fOHFmZWJITzFGTmh6bzl5a3JXd3JaVXFqaDhtTW9MS29nXzlSLXVhWmJWTUtNaVo2N3k5MnE5azdYcnRIZGtTandkRUFaUUVWM1FCSEFuTzZ2Y0NtSTByQjRuOVVjZFVvUTJtUWhHb2RmSFhhRGNLQVVkYXc?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Wed, 30 Sep 2026 12:18:17 GMT",
+        "discovered": "2026-10-01T16:02:47.051214+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "\"الضمير\" تقدم بلاغًا لمقررين أمميين حول حالة أسرى \"راكيفت\" تحت الأرض القدس العربي",
+        "player": "",
+        "content_hash": "847445152090e53151dfed84fd90ee92ad52bddbafab95ce799bade770f88aeb",
         "sent": 0,
         "section": "world_arabic"
       }
