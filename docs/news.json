@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T02:03:24.361084+00:00",
+  "updated": "2026-10-02T02:20:54.966355+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1288,6 +1288,22 @@
     ],
     "transfers": [
       {
+        "id": 7723,
+        "title": "من تعانق ميتسوتاكيس مع نتنياهو إلى صفقة الأسلحة... \"القدس العربي\" تواجه سفيرة اليونان في الأمم المتحدة - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPNFkzQjVuZnVaQ3FpcDNCbkxEeUwtSXduVnFsVWNOcFkzWi1EbHJ1dXg3R3hxdDRLWTZmNEpkOXF1QXVyb2RxM3hmb2ZjZnhUU0hOUmZXb1RBRjRiQkNyWkdWNDBrUlZWSkJhSmFsREl2dldwM1pJMEI5bU1BeUhkZnVhbnBERkVMMlFZaTJUVGtfZDBlOVA2bnFmY2lyMFRXbWhxcmVFVTZ0NFVVcmdfNFhMMjMyQnpGRk8yQzdxbmN6YU9oZ0c1a09OY0Fyblhteld6SUI3c1FnTWRBalJoaDNFVkJGSVFBYV95eTFPVEZtbndLYndoZU01T0cxaXpvNE9vSzZpVE9JcGs3OEJXdFFWSHhrb0k1Y3BvVHQ1NzRPbTd4YVYtbzFGUzk0X3lfRkhtaHhlSkVaQ2N1MkxJN0lycWN1enc?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Thu, 01 Oct 2026 22:37:23 GMT",
+        "discovered": "2026-10-02T02:20:50.596301+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "من تعانق ميتسوتاكيس مع نتنياهو إلى صفقة الأسلحة... \"القدس العربي\" تواجه سفيرة اليونان في الأمم المتحدة القدس العربي",
+        "player": "",
+        "content_hash": "4a7eff234b1e70d5a3ece789bd7f640f8e88bbec5a8b3072120998a9e46f9ff8",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 7646,
         "title": "الدرع: تخلصنا من \"عقدة الخواجة\" في المنتخب.. ونحلم بميدالية في كأس العالم - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxNenc1d0dkcWN6WTZPVVBHZUhBNTFaVXhZYU1MbjZiRkJOaWRSZjBMTmxhNGFrVFM1S0t2Q1dKSk9IeVZLT095MVd6UG9UaEJweDZnMVNtUVJrY3VROEhlZWs4MGJ2d3ZfUGNLNEJQQTNHZy1yMHlkdDB2NlYyWjlnR2NfdkNlTE5ERTRscEFNdVkyZS1iNHpXd3Y0aU11ZzZWdnlkNFAxM1Jhc0dDWjR5S2FNTy10emFrWUo2ckl3NFpNbHIxRXNWUWxEejJGLXg2ODFvUkExdkR1bjZXc3RQT0Q3V2pYbTVxZ09KMnEzaW43VVdQMEhRQW52YlJwRmpKc2FXUVlFVkhybWZEZHJYSENLSko5elhNalZGQzU3MEF1VDl0ZHBKdkZ4d2NmT1VDTTFEYTZWNVk2RkI2WW9KSlNnZDFEc3ktWjdCQmRoX2ZFWTYxQ05PSDBwM24tNG0yZ1dwT3JZTkFhdC1VSFdmVUNLY292c0xkaDVBUlpGSUF1WWVEWl8tRndQOEg0WmxOUHBvM19BeVFueklrQjVXZlNwSERKb0YyZGsxZnprNDYxektaSHE2ZmFxNEJGRFoxNk8tT1k1NVRjNHVNN1I3LW5NV2N2VGZwaGk3cHM1TGRmUU55Yi1rZDlMMkQyeGNVRUluaFZFRGU4cVVsWjhDd2RJWFRYY3BKWHRZdGdjSWk1a0dud29CZnc2ajJ0WGNrOW9jRl9XZHbSAa4EQVVfeXFMTXpVVVAxckxwN2h5cXNpcEZ6WUtMQXdPNzBvYUVQTGZUMDRJUWR3R2VpVDhRcVZoV1RBWEoxSk91cElUZEs3VGZCZVlsdnhfTFE4Ym9TR2MwZWxmVEpiakJoR2ViZjhGc01qZ3BuTXRLSGdVYWNRY1FJNFFXYXJ2dHpTMmtINTdYWWVoT0VPbVA0TE1DaUJLR3lFeHZZbm9nVmM1UHlZdkVHV0xGZXh6WTI0YW0wVlZQVmNMWTdFRFJlQ3FXbWx2UktaUGV5SkRtNjRnNVhPOUQyYllyUTFiWDlKOGdpWXlpNFUzQW9XNHpWdlZkRUJJTGNLSzR0MW53ZWFZdXdkQ0hPckpGTzNvV1ByMGFReXpZRE5uaEtmZG51NXp3NDN2bmtuZ2N3eGxqLWNkNG9FUEthZGkwblRQcWdqc0luRS02RkhEWVRwb1VWZklkQjY5SmVYSk45ZTB2MlJWRzlDbGpWXzZhUng4SmNZSUV1T21IQkEySjJ2ak9qTEhkRjhFS1plVEdIT1R6ck9EazJiZlFpSFVXNkhtMExZcHQ5cHNzNy1DYzdoSExidXFiNk9OYmZ0all4VExiNmZPMlB3TTFWaWxxLWVTdUFQR1h5cmdISmwzZm1YemRSakwtdFU3WEFkLWYwUlRpR3VrT1pBZEowRWlxVDRkVkVxcjhGV05NdkJDWVdyMmhaclZEenJCRUM3V1JJMnhWaTU0MzF0VnB2WFBqUUtn?oc=5",
@@ -2068,22 +2084,6 @@
         "summary": "ترامب يوقع اتفاقا طوعيا مع قادة الذكاء الاصطناعي ويفتح الباب أمام تنظيم مستقبلي العربية",
         "player": "",
         "content_hash": "ad149c9d00eed95b9d0a004abb62a6e9fdf4279734867b0b10518472a6a7e8ed",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 7360,
-        "title": "سكالفيني يفتح الباب أمام الرحيل عن أتالانتا.. ونيوكاسل وتشيلسي يترقبان - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QNFFmLUNXcDJDVDcyaXRPZUJmN2ttSzRZMEN0X2pEcExiMURCX24wbEpJUDEybWpnbFZheGc3dzctY09YUjlLdGd4Rjc2VW9L0gG7BEFVX3lxTFBTdHdnZFNBNXBCZlRFc1ZGVUxaUTNXSFdMamVNOHRjVVZEMmlzVjZfQnRuM3hOQU0tZFotSW5JYk9fSnF3dm8xamV2MjA5YlVHd0p2Tkxfa2RwWTdTY3hOcGdKMWVYVXA5T04zbWZoZGZsZjNpWlI0LXRHSnF4MG9mZGE2NVcyaHA2YWlva01scXBhSmZjV1U1M3VSX2lTVVRENVhJeGZCX3ZRcDBRcnc5dnJjbmlHeGJrWWs2RWxjbDc3RmY5TkpkWU0tVm5GTTVFWWtIVFlla3Q0NzZNUE5rLTIxck8wdkFOTVpmZHhodWpPbEFkWFhZbEl0YTcwLVg1TlVhQkVPNGUyU0Z4bjQ1RFFteVFuTXBGS3FocVVqUHRWU2NRWDRzVFdaRGVCRkNRaTZjclNJMHY4cUM0UzBWZExPZDRIWk4xVnd2MEhsVTV5amZ1Wm1HTDdobHg0c3JOUnBia3dBSWdpLXI2WnhNdmtJMmk1YjJVS3pNMHNZYjlhSkF2dmpUcFFQQ0hlNzhzRDVYaGg0UXhNRThuclBCcjY0LUdQcFZVdk92MEh5QUFQZW9HbmRaQ1habU0xWnQxNDMteFdPS1cyTWtsM1dmSXZ1bzVld3J2Zi00em00NFYyQ252WWtKOHVPejVBTzdNSnBnMko3YnlNTUJVTk5hUnVIR0VMeHE3T0VQN3MzN3lWVGJJRi1wVUxNWjZ2ZG9VN25XOXQ5SHJ5Ti1XNkNOMFJKd3FfTmN1MjA?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 15:47:00 GMT",
-        "discovered": "2026-10-01T00:34:21.025085+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "سكالفيني يفتح الباب أمام الرحيل عن أتالانتا.. ونيوكاسل وتشيلسي يترقبان FilGoal",
-        "player": "",
-        "content_hash": "201079d6b67f728b2fc42eda38b57dba6710cce49c6766d5f23fb16c12b1b59d",
         "sent": 0,
         "section": "transfers"
       }
