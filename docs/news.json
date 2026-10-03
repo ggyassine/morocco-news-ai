@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-03T03:23:05.556664+00:00",
-  "total": 149,
+  "updated": "2026-10-03T03:44:32.588631+00:00",
+  "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 8082,
+        "title": "النيابة العامة: انخفاض الشكايات المرتبطة بالانتخابات بأكثر من 60 بالمئة - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNSlhQdzNZRWZMeG15eERXd2VRZDdLZThjYkYxYmcxSGlPaUZoUFpwd2wwZUl5MktjdFFPaUkyWE5JZk9CLTNBM01qV2xMZEZnN0F2VjRSRnFQSjJoSXNYaUVjbWFaRkN4?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Fri, 02 Oct 2026 21:23:11 GMT",
+        "discovered": "2026-10-03T03:44:07.620318+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "النيابة العامة: انخفاض الشكايات المرتبطة بالانتخابات بأكثر من 60 بالمئة Le 360 Arabe",
+        "player": "",
+        "content_hash": "3c06b572562f3c549c1d1515d1155cb2ff0278d31755dccb4d998d2736e50f27",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 7995,
         "title": "أمن أكادير يوقف متشردا للاشتباه في تورطه بالتخدير والإيذاء العمدي باستعمال مادة حارقة – اليوم 24 - اليوم 24",
@@ -640,22 +656,6 @@
         "summary": "أسعار المحروقات تشتعل مجددا في المغرب.. الغازوال يتخطى 16 درهما للتر Le 360 Arabe",
         "player": "",
         "content_hash": "48660bdafa9b717df4d485eb1ce0caca51ab492a0f478ee295cc151e36e42375",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 7630,
-        "title": "تارانتو.. إعادة انتخاب الكاتب العام للجنة الوطنية الأولمبية المغربية، عبد اللطيف إدماحمة عضوا في المكتب التنفيذي للجنة الدولية لألعاب البحر الأبيض المتوسط - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMipAVBVV95cUxPNXIxeDMzbTRLanVfYkZJeXpjN3dmalRYcUxtUjZ6RkxBOGM0b3lfdk1PNVVvUDhQN203REtqQWRDYk51a1FYVVdoU2VRcjhCazZONzI3Z00yNFVVTWlVcGtYZjR6RE9LZW5XbmYyd1ZYOUhCRGxoNVJYR3NQTUJUUzUzdEg0cTVmOU9mMDFEeDFPcU5helI0MW1XYkVjRldYVi1Zd1N2TkZpNVo2dFp3M21Cal9yT2p3M2lzVTFrSWYwbDZucHhXTHl0WWlhVGI2T01nWnp0dG5PVGdnTmRwS1dZZmEyYktQN2hGWWVUN25BcFBwdDNsYXRKLW1GTTFtWXluamxHX2N2cm1HdE0ydnY5LWJHeWoxZUpLdXJZYVJaNGg1dFhqSnk5eVNlOURMQU5yTy1QOHEwSUk5UXVaNGdCVUQ0SC1LSncwRFpGcW01SElONVVqaXZkeWNyOEhPbkNEUlpwZ3ZSMXZES3ZPVFh6R1U2X3pOZlZnaFE1WlpIb1dxM05qcDZyNnpzRUFDWWVwUkV6S0V4aTZQRGFUcnk2R3ZoYlpBSW04bjhxcEhuVC05NEJTWG1lLTFuVVIxTlpqZm4xYVMzcnl4enZmUUFpdndMem1ad1RJczlnd2RiZVV6WTdVd0kwU0pHZmtjYnJOOTRCU0U3YWdLSExZVUhLMzNPblA0b1hnY09YOFZpQ3BocHlON2J3d2ZZRVhrbWY2anozZGtxbU9jR0o4OXg4VUs1VnVjZnQ1eTAtTVdmc08tUXZMeFRjenhJZjBhYTV2aWlxUG82dmNNU25PMUV0cl90dU5MNEpXYmdMQjFUZGo3UDVMWFVyZ0pHcjN4WnlzZEJ0dzBuUGpfODZ4NDRjeU16MU5PSUQzcXBVR3NUWjVo?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Wed, 30 Sep 2026 04:17:32 GMT",
-        "discovered": "2026-10-01T20:37:01.783982+00:00",
-        "category": "أخبار المغرب",
-        "status": "منفي",
-        "summary": "إعادة انتخاب الكاتب العام للجنة الوطنية الأولمبية المغربية، عبد اللطيف إدماحمة عضوا في المكتب التنفيذي للجنة الدولية لألعاب البحر الأبيض المتوسط | MapNews",
-        "player": "",
-        "content_hash": "278c39fb03b20c925111e4d8ff3cfb9a31409aecd242271b5717cc0e200db8ac",
         "sent": 0,
         "section": "morocco"
       }
@@ -1464,6 +1464,22 @@
     ],
     "transfers": [
       {
+        "id": 8086,
+        "title": "خاص.. الشمال القطري يتفق مع رياض محرز وهذه تفاصيل العقد - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxOV09IUFVHMXUyR1M2bGl3MkJXMmZPdENMbXhUaHVxZU5iVEZnOTlYdXlxbU5NRTNUc1FBUmdkY2JnbExBTzV6bWoxTzFRUVVlRkNhMzBna0ozZDhWNV9yeEpzX1Fvaml5Sld2X2V0cXZnTkktWjNsdHVUcnNLdFZrb0p5QlZIZDloNXpZcnF1YnMtRXBYMi11Z01UWDNtX3AwcmZ1QUtJZnlBZGQ3d1BmVVZ0N1NmT1g3OW80akJ4Vm45TUZFYnhCUTNKNjBuVU1MTW8zaWRrRG9UdHFCckJMcGtJZ3dta2JMY0RRZHNIM3pSSUFvWW56cmVSU2hDcWR1X3NiNUkyY2RETlNYR0ViVlBTLVhzblNzbGM2LU5uSXVxN1F2Nkd4LXdTbl9qanZSTnZUc2MxZF9mUS1jQkhOZFZTM2lidXRrQXM1Nm8wTEw4S0ZiRkJPM1JtY1BYUUw1N0Y1TTQyZXF5Q1hvWVlUSW9ZRmMyelBHdU5FMGFsTzIyRkZqc0xWXzcyeG9JcXJ3UVh1Q0IyYVNyYkNGLXV5VHFxZlpJb0U0LVREdk5QaGRJbFUyY0NkQUl6LU54QnhRd2d1eWd1Si1hLWxUbU1MVGVEazV1NmRiVThVZGllcXE?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 21:03:33 GMT",
+        "discovered": "2026-10-03T03:44:17.804428+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "الشمال القطري يتفق مع رياض محرز وهذه تفاصيل العقد winwin.com",
+        "player": "رياض",
+        "content_hash": "2cf8b6b19ef6897eed982b7faca8bc8c95205417e5c53d508fec4d5d547b6fee",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 8040,
         "title": "مدرب السويد ساخرا: \"لدينا عدد من الغيابات مشابه لعدد التهم الموجهة إلى مانشستر سيتي\" - Elbotola",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKeTVTZ2NhTzk0MEtrUTRtNFByUGU4OUt3VUNtcVoxanc3Ym5MeU41dThMNnFPdW1Sbkw4UjNlUXNuSXEwVHBERkh5eTIxZUJqd25Ha1E2dTlOMl9pcHBfNXN5Y0FQaXp4cFE?oc=5",
@@ -1912,22 +1928,6 @@
         "section": "transfers"
       },
       {
-        "id": 7582,
-        "title": "أوروبا تحكم أبوابها: مراكز ترحيل خارجية وقواعد أكثر صرامة بعد صدمة سبتة - dw.com",
-        "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxQeEpod2VzUFpBTjRuM0JNWGpZZWZqZGtHVGJaYXBwR21fNGZLc2FoeVFzVzhYaTVCTWNfMzAwV2tsYmZodVBWOWtSeTlFNXpsc2p2ZENsVldrUGIyZWtzdlA0R0g0MFRnWlRBZ19xNjNra05peUE3cm5YSWFBUkZJd3JqdkV0SWJZdDg1aU9aS2tXWDF5bzR6OHpBTTl3dTFlbW00bjREQUE5Nm55VGRpQXI4ek5fX0xfeDZYM0VuNnNGV3RwS19HLWs0b3pkUTltYUI4N3VIdG5XZ2dBU2wtaWl5WVZzdGh6X0REUV9hUEpDeFVZdDZPTHVPQ2MyRWJCdnFwTFJQZkZoWDJrQm9iWVdEMjd6VDFucENWb1NpbzIzVW1NTUpnajFmWVY3VlJ4LUphNC1XNUJPSmZCOHB2UFNmU3lTcUNLbThZTE5EQmNrd3VIeFQ1djNlMzJYVEVCbDExcUFZa3R2QWpIamVrWjFDbVNBblRVZWtyNXdoSlRPVEJMZnowV3Zlbm5nZDhOVnFIbGI2X3oxM0dkVGg0SlFTZ2lqQ2l6TE9lM19uU3p4SnhhYUV1NU5yRzdqSlRscE5GaU1CNzBwNUtmVUxfQk5QQ3UtYVlsUHVJWkowN3JaV2hmQ1FpR21WVU5Xdmc4OGItOWdla2pwa3ZYUGhhNTlhdTFyTmhQUmxkc2o2VW0xSUVMbTVfdHFDRlNxVlFaOXQtSEhJTG9XRExKYkhR0gGvBEFVX3lxTFB4Smh3ZXNQWkFONG4zQk1YalllZmpka0dUYlphcHBHbV80ZktzYWh5UXNXOFhpNUJNY18zMDBXa2xiZmh1UFY5a1J5OUU1emxzanZkQ2xWV2tQYjJla3N2UDRHSDQwVGdaVEFnX3E2M2trTml5QTdyblhJYUFSRkl3cmp2RXRJYll0ODVpT1pLa1dYMXlvNHo4ekFNOXd1MWVtbTRuNERBQTk2bnlUZGlBcjh6Tl9fTF94NlgzRW42c0ZXdHBLX0ctazRvemRROW1hQjg3dUh0bldnZ0FTbC1paXlZVnN0aHpfRERRX2FQSkN4VVl0Nk9MdU9DYzJFYkJ2cXBMUlBmRmhYMmtCb2JZV0QyN3pUMW5wQ1ZvU2lvMjNVbU1NSmdqMWZZVjdWUngtSmE0LVc1Qk9KZkI4cHZQU2ZTeVNxQ0ttOFlMTkRCY2t3dUh4VDV2M2UzMlhURUJsMTFxQVlrdHZBakhqZWtaMUNtU0FuVFVla3I1d2hKVE9UQkxmejBXdmVubmdkOE5WcUhsYjZfejEzR2RUaDRKUVNnaWpDaXpMT2UzX25TenhKeGFhRXU1TnJHN2pKVGxwTkZpTUI3MHA1S2ZVTF9CTlBDdS1hWWxQdUlaSjA3clpXaGZDUWlHbVZVTld2Zzg4Yi05Z2VranBrdlhQaGE1OWF1MXJOaFBSbGRzajZVbTFJRUxtNV90cUNGU3FWUVo5dC1ISElMb1dETEpiSFE?oc=5",
-        "source": "DW عربية",
-        "trust": "B",
-        "published": "Thu, 01 Oct 2026 17:03:38 GMT",
-        "discovered": "2026-10-01T17:23:13.577715+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "أوروبا تحكم أبوابها: مراكز ترحيل خارجية وقواعد أكثر صرامة بعد صدمة سبتة dw.com",
-        "player": "",
-        "content_hash": "ca3c6a209c1b74a09614f5a8684c630f9a1ceb6f9b3fd9d8247820eb95254488",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 7660,
         "title": "بعد مغادرة رونالدو.. من هو نجم الدوري التركي الذي سيحمل الرقم 7 مع البرتغال؟ - الجزيرة نت",
         "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNbFR1MG1vMm90ZnR1ZW55ZjFrc0E0WEMxbWtlVW90Nk5FMmFUd3dtQTdQaXo4Z2U2aThUbGI0ZkRmT0trZUs3UEM3T19lN2gwRHVMY2Zzb0FmUnlTUVdzZmJzTGlNWHlrczZvd290Zk9WWE9kS2hHVDMzbVc1MUVqWkdQYWJrcm4xMy1hZ1pnVEh3YW9aT3FmZjlyLUY3eVV3QTNOWHVzT1Y2cTk4MjJVNUxEckNYeDI3TldTOXhNQ183dkttdURROGVYNjl2bEs2RU5WcFhUcElMUzdvMHRscjBPMUpXQ0ZMWGwxVi1HNXhDRHNVbS1US0tfSnpwOEM3Z0FjcjJhN2dXQ1lia1BmUXdFYnI5VUNkTlHSAZ8CQVVfeXFMUDZiamRxdFBJNXhITm1QYmlkMXdpWVR2YWMwNElWQnFIZ19RNjBidzM1ZHlTYmlYTHBRTnU4b2tva2pEa3dHM2l0dGgyWnVWLVBzdkE4ZFFGQlRoRkV0VnRwZmVqTlZxWEdmN0gxa0txVHI5NlBmYjFGNTNfOElsdnY5ODE3azVhdlE1Y0NiTEkySmR6OTZIdUhsMmwyOHcwREZ2aFNsRk9ra1B0Zmw0T1dLTlhZYUY2RnZDNEN0bDVjNzVLdm1qU2dtdTlGemNQRUQtM00wajY3VGszWkNMLVgyVlJmeTVCeWxYN0ZzM1lRcGtTaEtUWlNOYnZTRllIOVZ4NDhxY0pZdHhsLUxNMVZVMjdaSXQ3bkJFQ0NIZWc?oc=5",
@@ -2166,6 +2166,22 @@
         "summary": "أمينة حسين تكشف: تعرضت للتنمر في مراحل من حياتي skynewsarabia.com",
         "player": "",
         "content_hash": "d7116dfe795f41e4af5844beaeea0ff47f7143ccdd0b26124250c97245200ed3",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 8087,
+        "title": "أفضل درجة حرارة لشرب الماء.. ماذا يقول العلم عن الترطيب والهضم والشهية؟ - العربية",
+        "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxOWVhRS1dvZVZrWTcyQTFzRmdreFNOUEVjcVhYVWpfOHpYaVE0cnczWUphNzVmcVJwQUlta1pnNVJJN3JHcWVWem11YXJKcDFPQXdBOC0yamhrdTBadWdwVUpTVVdDa0NNSVVqdjRleE9id0dWdW42VGdTRU56bXBwT3BZWU96WTlkOHdSQmJEWDVxWVZzMnFPa2lRUmRsWnlxNWdQWENqWnllUS1ZRldndkpuMV91UVFrS05LeUJHM2p0X1RzWXBjaEY2NFlIZE1PaXVkcW9SdS1jNERHLUJ0V004bnA3NG9zTFJMMEpTN0FwckZKcmNkRXB5MnNRUDJMeklqcnoyRmNFbG00dWExcGxlWFZkeHRmLWdvYXZhZFhhcHhJWDVaYUNZRWFnS21xZi11anZWZnlucTJuTHkxQ3lNU3d4VzYtdDlfaWxmYkxzWUFFMG5Ba2VxaHAwVU9PSkZhNmZaS1ZvZlFVcGd2Z3pYbl9YelFTem1MYkxGaTI1STRMOU9mbGl3T3p6ZTA0NGhxQlZ0alFQTzRjbi16VVRVQ2NQbEVnQnNTWnJoOGxvVjNwc1BzM01KUGJSeEEyZ3E3QWlzcC16bnVjNUItRDBhUWhlS3ZIb0l3UUxuYy1QX2ZWX1hST1pIVnFPMjTSAfQDQVVfeXFMUDNHdmx3bnd5eXBCc1B6UkktWUM2NEZMZGdvaXB4Ui1ScUpCdTJiZ1RSem9HbjZUVU1DeGZUcTVsV3BDd3c4UzF6QjlpZ1hjekh5dGJqRjRJWnVEdXdIUVBjaUVnWEoxdHZlVXdXTVd3QXBwTkhyVi16NVFxdEpOdDExTWJZaTREN3dRWG5ubHhFLVlfYlIwV3hYNVZ5Y1RKT2R4eVFHdUk0YnV3UldsZjJDMGhMZDFVQmRKRDVrZTlWc1J0ZjlUN3VmS1dEaEhndm8zeXI3R05rNHlNSjE1d2xwTkduZEtabTA3NncyejlyaVRrR054UVhWUENqd21uR1AwbUoxS3ExbGdJMFhpVGNBbDRqbTFYWXJEOEdtZnZDNU9OYTB0QmI4a1NDVGdia2lnUWhKTEF5QU55dTZxRHB1NGF4dmxDR0hBQ2lsbXphdTFXR2RLQ0xNQTg1V3BVanFxeHQxd1ljaGU5My10amFoR193RXBGUWticWpLOVZNRXN2OEdUc3F0ck80R3JjVzRNMDBFN3VaTGhiYV91Q1l0Wm40ZDZtcEp6OHZXX0ZXVDBJaUc2aC11TE1OVlM3Vjh0Y1B1V3dIWTZKNnF1RnlGbVJfcUx3QzRZT29aTGM5VVJpdDBKaEROdnBTYkJnOUZPVFI?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Fri, 02 Oct 2026 05:11:00 GMT",
+        "discovered": "2026-10-03T03:44:24.940863+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "أفضل درجة حرارة لشرب الماء.. ماذا يقول العلم عن الترطيب والهضم والشهية؟",
+        "player": "",
+        "content_hash": "9a75ef990dc9c373b750af57ac0f9600939fb363bc3766b9b6c955c8841c81c3",
         "sent": 0,
         "section": "middle_east"
       },
