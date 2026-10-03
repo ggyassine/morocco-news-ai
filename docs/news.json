@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T09:13:10.800941+00:00",
+  "updated": "2026-10-03T09:30:48.671214+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -16,6 +16,22 @@
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
         "player": "",
         "content_hash": "5607fcf4e9a277d3354922d2840e589fbb28ebf26e7d94634a582248dc476cc3",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 8135,
+        "title": "الإمارات تكشف نتائج التحقيقات: مساعد طيار فلاي دبي حاول تنفيذ هجوم \"إرهابي\" وضرب قائد الطائرة بفأس - Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeFdwMndWdEU0RkZ5U2FTajg3aC1xSC1UUFF5MVhzSmdaMDBvWTJnRVZ1SzZwTnFENV9rdEFzY05ROUNJTUxmbk1nanFnVGxFVzYwMDhSMHItV09wNzVEV1lfQjlSR3NjcmltQllLRFdyNVlnYjh1M0d4Um9rM0tsU0RjSi00TzlITDZzQkxJT1diRmE3WGlFQl9tYTBwQWw1NWtyTXNYelVUMmR1SnRkcnVYX0lpRGNHcDJ1ZQ?oc=5",
+        "source": "يورونيوز عربي",
+        "trust": "C",
+        "published": "Sat, 03 Oct 2026 08:25:47 GMT",
+        "discovered": "2026-10-03T09:30:46.087284+00:00",
+        "category": "أخبار المغرب",
+        "status": "منفي",
+        "summary": "الإمارات تكشف نتائج التحقيقات: مساعد طيار فلاي دبي حاول تنفيذ هجوم \"إرهابي\" وضرب قائد الطائرة بفأس Euronews.com",
+        "player": "",
+        "content_hash": "84b0eb9a20b0fea8c8a55f715946cab35e49a6a99d9cf64bfd63ae3a84deb6d0",
         "sent": 0,
         "section": "morocco"
       },
@@ -656,22 +672,6 @@
         "summary": "مجلس النواب يترأس بجنوب إفريقيا الدورة السابعة للاجتماع السنوي لجمعية الأمناء العامين للبرلمانات الإفريقية Le 360 Arabe",
         "player": "",
         "content_hash": "b1d7e5010c75cc0ed839547a63c8ef606a23f2a23afe381680aa552ae5ab65f2",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 7820,
-        "title": "أسعار المحروقات تشتعل مجددا في المغرب.. الغازوال يتخطى 16 درهما للتر - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15LXNMdmlPYzRMMWFlMjB5Wkxnb3FCQ2dsdEgyMHBLZDNCdDdyTUtDQWw2OFB5VEktdGZTclJfQUpvTXFyeWxyVEJXRV9WU3hReC13VDZyUXRrTmJZSkVFQS1hVDZfcWs?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Wed, 30 Sep 2026 17:02:29 GMT",
-        "discovered": "2026-10-02T11:02:45.666183+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "أسعار المحروقات تشتعل مجددا في المغرب.. الغازوال يتخطى 16 درهما للتر Le 360 Arabe",
-        "player": "",
-        "content_hash": "48660bdafa9b717df4d485eb1ce0caca51ab492a0f478ee295cc151e36e42375",
         "sent": 0,
         "section": "morocco"
       }
@@ -1864,6 +1864,22 @@
         "section": "transfers"
       },
       {
+        "id": 8134,
+        "title": "البنتاغون يعلن عن عقد مع رايثيون لتسريع وتيرة إنتاج الصواريخ الاعتراضية - العربية",
+        "url": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxPMkRrUEx5OEp4STZvR055SVAzdGtaRlRkcXFkOGNlN2ozaXVicW9JRTAwNXA3SXhTRkNhM1BvRGROdWtiWXYzWUwzTWszV2hQUnpVWk5Mem5GUkhlc014MUJVMUhEY1R4VVFtbV9uUVZWeW1NZWVKOENhNlMwWGNMdlMwaTV1VEF6T0Ffekttd2VMcWFMWnE0YXpFbV82ZGs5ZnhtV1laT0laWjBzTEtNV21CUEphbXpXTlUxODNPUE02LW5RbVR6VmdhWEVVQXJoLW52ckQwSnljczFMT1doMFlRQ1pabTBrRS1WbUFSbmpWQ2t1bG1uMHJORFhLSGhPN1puX1RQMGcxekxaV1JScUhUckxjLVNqbjNKTnl3ZGt4T2VvZXM4Tll2RG03VkUteXNINXB3MTI4U1BxVkQ3NHRlQkhNeWdxd3dKS3o4SmZnZERqTzhNVTNTRlJUeE9uWTNqN0ZtLThrS1hQaGV6ZmJuYWlMZWlka1lZdFE5YV94ZTRTMXpUT0hoTkpnU1VyV0doXzhCN0hHV0YzVEl5dlpIdi1Dd01pdG41MjZPWFdDdDRTMWJVRUd2cW0zV1NYcms2b3hIa1YwdnQ0UExoVjRURWNvZVhQdzFGV3BuM2hwc21fX0dfUFhyS3ZsNWFVRjk0ZnprZlktdjR3OGpLMWhHa2UyZnc3UXRaX2ZveTFwRzZQQS1JNXZnMUFDODFJRFZOY2pVZkRYTTRqWW9XeU0zSndhanh2Vk5CLUt6ck84d2Z0ZXRGSUdING56NnlPRWwwX1ozODdPYmwyMWJGWUpPVHBsa0M2b2RwMnB1WUFGZV95b1dj0gH8BEFVX3lxTE8zUGtNT2E5T2hzSmpVaFBvQjRVUEhnV29pOWdDNUM1OGd4aWIzN093VXd1ZEY3ME5SbTBremd4Y3ZyQnFaY0pHOXo2eXY1aTl0ekdEMVVlSUFENU85SFZlcWNxbXAxWjczcTR6QzRyWDdmR1hFSHhxYXZoTDJwTkx5SlZZS2NUTkpWbkdmUVgwTWlBdnhkaEtYWFpoVks0clBNdlIwbW44UFhRcmNGRHdsWEZGdC1BSzRrMEJPb0wtUzh2TGVGZjEzUVJZZWFFejdsX2NnRlQyb3lYZ1FTdWxLOElsWnB4NGswWnZhUmxLcXdKQ2hPV1hPV3luNGc0SHlJUGN2LUZhUnhZb2tudWFjSFFzMm16ckY3Nk9oNE40Z1NkdGNKRFgyZDBhN0tvOHFjblJQWEE0UDlKOG5KQ1AxcmRkQWlMZXFqTnlIQXM4LXJhbzRrck56Q21ycGJuQUJ5cGJJdzZnV3c3ejZjMWJUbi1FS1ptNTJicXVScGRvb0ZlWnBBNjZQdG9qTkl1LWFPaDBWOC1jZWlmZlo5SmZQTnRWTWczeHN4elZmeERvQnhFTDFkZ2RDWlZzV1RtbDI1ZE1fd1FuSzZPUGJpZDVVY215dThsWlFjdE53RkczRWtvZk9iM25XdHBweFluZzB0QmF5OHN2RjlKMDR1Z0oybEZnYzV4a25qb0NIRkFkYTZIdVhiQlBkSDZ6SFJsUHJQOTdsaHo5M3FFOTkwd1h6OVoxd2hTb1J0cHI5eW54YWxZcDhOTlRDV19aMGJ2eVk1ZUVfck0ydWprRWdqWWhlNFY0bVNBVktvTUQ2bDlZbnZEYVFKQnRhVE1FZw?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Thu, 01 Oct 2026 23:31:00 GMT",
+        "discovered": "2026-10-03T09:30:39.630426+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "البنتاغون يعلن عن عقد مع رايثيون لتسريع وتيرة إنتاج الصواريخ الاعتراضية العربية",
+        "player": "",
+        "content_hash": "fd375e14d86ab1812480b08c813ae1dbdd1a9f266a2e8841f8dbd45c337c9de9",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 7723,
         "title": "من تعانق ميتسوتاكيس مع نتنياهو إلى صفقة الأسلحة... \"القدس العربي\" تواجه سفيرة اليونان في الأمم المتحدة - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPNFkzQjVuZnVaQ3FpcDNCbkxEeUwtSXduVnFsVWNOcFkzWi1EbHJ1dXg3R3hxdDRLWTZmNEpkOXF1QXVyb2RxM3hmb2ZjZnhUU0hOUmZXb1RBRjRiQkNyWkdWNDBrUlZWSkJhSmFsREl2dldwM1pJMEI5bU1BeUhkZnVhbnBERkVMMlFZaTJUVGtfZDBlOVA2bnFmY2lyMFRXbWhxcmVFVTZ0NFVVcmdfNFhMMjMyQnpGRk8yQzdxbmN6YU9oZ0c1a09OY0Fyblhteld6SUI3c1FnTWRBalJoaDNFVkJGSVFBYV95eTFPVEZtbndLYndoZU01T0cxaXpvNE9vSzZpVE9JcGs3OEJXdFFWSHhrb0k1Y3BvVHQ1NzRPbTd4YVYtbzFGUzk0X3lfRkhtaHhlSkVaQ2N1MkxJN0lycWN1enc?oc=5",
@@ -2214,22 +2230,6 @@
         "summary": "انفجار خط غاز يوقف 3 محطات كهرباء بسوريا.. ووزارة الطاقة لـ\"الشرق\": الأسباب غير معروفة الشرق للأخبار",
         "player": "",
         "content_hash": "8630ae3bdf99ebeeaee6a4904ed547850dc8bddec8622d75467b0ddbc283ab51",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 7711,
-        "title": "مئات الإسرائيليين «يستعرضون» عودتهم إلى مستوطنتين أعيد افتتاحهما شمال الضفة - aawsat.com",
-        "url": "https://news.google.com/rss/articles/CBMixwVBVV95cUxNT21RWkZhUWNyZERNV0Y4OWxpZExZeGlSR1BZR29FeFh3bl83ZjR1cXVmLVdHQU9Qc0hvUVRWcnh5Q05SNFJmbjdwSzVOSGdLNFdtRUF1SHpnYTVBRWZISFotYWd6SG5PWkcwd2gxVllBU1N1SUdMY2M0ZW9TTnRsT0NYYmVWS3NIeGRoN2RfOTJubUJaV0ZwWWhkYllVV21ERWRyQVhlNHdIUVkxRGJla09TLU9XS1VkUUFFcHVrM2hQWi1UbDd2WURORnl1czZuQURZbXRscjVUVkFKMVp1Y01MWXZOQ1hYcm54dUtINHZVbXJ6TEM2aVZVcm9mdUVGQlgtcFJKTFVmSjRJSGpmT0VwbU14dnVmQ2pxeFpubDljOU5yRDMtMmJob1Rna1lTdXlhLXppVUJzWkM5bWwzbU1sdVdUSTlPR2x6bVhxWGRsQXVDWkRyUW9NNmI4c3d6VEhjSjdxUzNmV09wMktaTGFXS1h2Um1nWGxRQXhpaDZJeDlGbkNGVU5WWG1WUXlZdnc3bTlwUEt1SWxjZVlyc1F5SVBKeF8wdkI2bS1TVmdXYldyS0pfSXpEOWRGQUxyOWFzSWFkWjZodHIxc1JxR3VkdWhBZFJLczc3V19kRWVvVVd4YXNjMFdFTlRJSDRrTlMteG5LQ0tfd25ycV80Nk1ySTZ2S0J2ZU1jd1J2dXhBUVl4eVZkZWhxeDdzR0hZanZjZGNvbE1FNXZST2EyX00yVFFCUEJuRkVKaXlvNldRMV9BMF9PdWFWVHBRcDR0ZGtVUG0wcGlFbVY3eXZ0MFktd0QzMU0zLTA3WkVGUFVrUWwtMWgxZ3EtNV93T0w1MDFlTmN5ZUVySVRHaVpCRVAxaXN2QzdBYXc4RzVBMjhMX2p4NTJacGJkY0ZJTEpnLWtpeGw1eVl2OHRYY0hRT3lUbkpkRlU?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Wed, 30 Sep 2026 18:07:14 GMT",
-        "discovered": "2026-10-02T00:32:11.311673+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "مئات الإسرائيليين «يستعرضون» عودتهم إلى مستوطنتين أعيد افتتاحهما شمال الضفة aawsat.com",
-        "player": "",
-        "content_hash": "867612c028ac50c303b6d997e1cdce7233f94febab60ed56a44cd096314fa8de",
         "sent": 0,
         "section": "middle_east"
       }
