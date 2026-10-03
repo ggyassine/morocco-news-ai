@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T00:43:29.556174+00:00",
+  "updated": "2026-10-03T00:59:42.981883+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -32,6 +32,22 @@
         "summary": "فيضانات المغرب العربي.. هل تصل الإنذارات المبكرة قبل المياه الهادرة؟ الجزيرة نت",
         "player": "",
         "content_hash": "ab4dec39100d16e9e03576214e07b2a4bf601d3b938bbef00311d8d6cc8cae45",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 8059,
+        "title": "كيف نَسفت «أمنستي» مزاعمها بنفسها في تقرير «بيغاسوس» الأخير ضد المغرب - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiN1ZGSTBieVRQeThyNWdQd25oYnJ2UkxWSGR1b3Y1TU5xRzVLSV90VUlfVUdxWE9hZ0RqNkFSQ2xEQ2FCYkY2ajduSzVkVVdWUE91R2xNeERld0JPeXpndm93eEh4TUM3?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Fri, 02 Oct 2026 18:46:54 GMT",
+        "discovered": "2026-10-03T00:59:15.843088+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "كيف نَسفت «أمنستي» مزاعمها بنفسها في تقرير «بيغاسوس» الأخير ضد المغرب Le 360 Arabe",
+        "player": "",
+        "content_hash": "032ada5c44de0364462f8565b3942464e29e42b40ba92492a616767c592c5ceb",
         "sent": 0,
         "section": "morocco"
       },
@@ -661,6 +677,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 8061,
+        "title": "جدول مباريات اليوم - 3 أكتوبر 2026 - بطولة دوري الأمم الأوروبية - المستوى الثاني - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQRGwzcEVtRlZzNDBHZ2djLXdkcHlucnZkSTA2UDNpcTZ6eFBoWFFja2NQcXBGamF0QUkybFJUcUllSGNxdlVlM0FJUm9DeDNaQkxhU0hFNUxBdGZJYVFvdnhTTjJIQ1c1Wl84Z25ZSXpVQWdoM2dhYk5UNEdlQ243V2VsUXlqXzNhLVlicEw0anFRbHVMVVpDVnRCQ24wZ0VuXy1PeWZGaVFGVDB1U0doZTM0ek15M2ZVYkNwWjdFTWsyUHhJbHBLZTRxR3ZZdEllTG1nT0RYaHdqS3BMOHRXUnZlUHktS2hwZl80UjJqUVplbEFuT1ZnR19PUG9DYlFSZ0tTVldtWXNwTmRnZlVDSjFsX1FzYnBwYkJsUmk2LTdrMS00emhnYUF1OTN5MnBGVGNadDFWWnJXUGJsNVJjZG02WDQ1X0t6QjZoQXhfOXpEQ2hqbUtQU3ZQaWF4cnNDeWlGYXhCZjVBQTYyb21ZM1p4X24zRFFyNWZmVFZNano4Zm8tSWNNTUpnZjVFeTQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 03 Oct 2026 00:47:33 GMT",
+        "discovered": "2026-10-03T00:59:28.225946+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 3 أكتوبر 2026 - بطولة دوري الأمم الأوروبية - المستوى الثاني FilGoal",
+        "player": "",
+        "content_hash": "571142d491ca5925153f4209c5862859d7d28a0c820f2070dae673c66b573f8a",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 8053,
         "title": "جدول مباريات اليوم - 3 أكتوبر 2026 - بطولة قطر 2022 - FilGoal",
@@ -1444,22 +1476,6 @@
         "content_hash": "dec0d485a92a8ca511a3e1fd255af942c444b0dc2516594b921fd1bdb90b9374",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 7941,
-        "title": "تشكيل مباراة فرنسا ضد إيطاليا في دوري الأمم الأوروبية - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOaWlrZnRueHhNSHQwRUl6Y0l5eGdseHBST205VDVyU00tdzRfT2tqUElha3kxMzlYZm95S1BTeHdFU2d2UVRBdHBaRm9FWE9JbmJiVEdVX3Jfc28xNWxFOWIteWtuLWhWQVRYSWFLMWFIbHV4VFhwSDc2UjZLTi1aZmo5QTVWWnNGNkstWHpLSWk5R3BBbXNVb05nZURhaHYyS1lCS2xNWFhBUHlDSHZveVZEVncwbjVDZGl5dUZuMnVuS2lEVlRfT0xUc1ZJR1RUT09QdWtsUEwteWEzNkcwNy1abVFmRDJ5Y01nNVlObEg1UXBSR0hxQ2p2N1ZjdklLZnJEeUdqV1JGUWpKem81Q0FCaG1IR0czV3dJZzVmcnZEcWRhY1JVWk5LcGpNaTJWUVp2OEs5aGNZdm8zTGF6STJScFN5dGlDa0NlSWx0eGxXOVM1U3dBeVRQS1plN0htdzFEcmFIUUhHWWp5Y05rMENOdnB3c3d3TTNhbkE2ODU2d1FvYzZyMGlWZkYwWUNjbWp2WVZ3dW54dFlGTFFwY2xHc045MnJPVUpfVE0tdmFUd2R1bGFIb0VxT29XUlpCNlhXNTB4SlNnYkdnTW5tM1FsR1hGd0Z1b3J6ODZkMmdQRHPSAegDQVVfeXFMUHR6eVk5STlpMUZwU2R1ajdPZlp3VVIzWXdfTEwwdmxKWUZQSU5PNEQ2WktRSGxWS3VlWG9PdmhfOG9ocGcwQUVHWlgxRXFQaEwtN1lSYkdnZWZwV00wNnJBSmlET0RheUNoazZrOGMyc1FzeUpvUzIzcHJnQkg3ZHMyQkFrX29TYnNBb0pLa2dQS1R5bWVrNGxuWnVqcFEzUzlmTmswSUFteWZFQzc4UDdvTUVvdmVNa09PY3NOckhWUW5COF9lUGJ2eFFpbGVXbnV6QzNxWVB6azd6WGNqTnZ6X20wV1BjcmEzNXJIcVZKcXFYYk5ITGpvUXRZZHJrVVNBa2VfbkxMMG0yamtUcWpLaU5FVDVWUjFaR01zOWJmN0xtRWxsaDRkT3gzQ3NfNktUbDExT2M3WlFncE02Y29hOFlROUJsYkpnQUxacHIyY1J5YWtSSDdOazJDdkFHbFAyZGw1WE9jNlQtRTRVQnZTdThGdXpCYmxMV2ZycW5SY0k4YUE5QkRkSU9Ta3ZzQnhGMzgxUzk5Rm1fbWVsRWdPY2pxSVRXTkN5b1dUZklzTm1wcHRsQkhYMG9yS2ZOV3pkZ2JNQzRiSzRoMmM0VEtIQkh1WEJYSGpIN1RZOFVpdU5OUEVHalg?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 18:07:00 GMT",
-        "discovered": "2026-10-02T18:24:10.215538+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تشكيل مباراة فرنسا ضد إيطاليا في دوري الأمم الأوروبية يلاكورة",
-        "player": "",
-        "content_hash": "34961159441f1be413c8864dd70694cad4496dd3b107832f96ea6729ceb2b4b5",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2068,22 +2084,6 @@
         "summary": "البنك الإفريقي للتنمية والمغرب وقعوا اليوم اتفاقية تمويل بـ270 مليون يورو.. توسيع وتحديث البنية التحتية يدال المطارات المغربية goud.ma",
         "player": "",
         "content_hash": "61d75559c181da8ad998783ae848b4a8f8427d0f4d835e0f7dde412d23ef7d94",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 7799,
-        "title": "بورصة الدار البيضاء.. تداولات الافتتاح على وقع الارتفاع - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxOWllnSmpnWl9acmlRZWY4R0pabG9LZXVhdmJhdUZORG1ZOXR5eWhiR2p4ZjljYTNINkFpVEk2MlFWR1hmRGY0dmE5RlJScFFvVGxjNTVUdXN3cUFMU0YwelZteHBjVEEzYXJPRDZBbk5obVZRWEwzQVVEb0Zvemx2MlhKeFVOb3Q1RGdSY05xMFNaZ3R3T293aWhoXzN1MlIzc1NUWXVFSE1UV2swaE5hbVBDWkw5VHQxSzRfbC0yRUhfY0tfY2dGNXJfTUE4VDRyLWhrU3ZiNjlMNUx6Ri14c2FkRkxkbEVZTnBjTDAtWjV2OXA1TGV1dS1jdVBOTXVQVmdLR3N4VjNieVZjYm9JQkM1aWl5ZHpLZmcwd3FVTzBadXZLUHpDUWdMRTRGU0QwNGJiY1FoRS1QdHp5MFdCdHhFQUVmTVFZNzdaQXJRQTVsZV9UNHhmM016M3JKQ1BZUmhtLWhXTjY3NVZPNmg4Z3ZxSTdBS3RFLWlKdjRIcmVxOW9GQXNwTzZVSGxtQkRDY1hLUURJU05vd0pKUm5MQWhSa0NxTTRIZjQ3SG5WeThtUld5Q3FxNkhPamhZV3V5S2ZxdmEtZU1ZRnBKTlh6LWYzUVdCZFZXT3hxZnkxV2tsWTRiRmZva0E0NEUxZEVjTDNWVWM3OWtsSllQdXc?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Wed, 30 Sep 2026 11:35:54 GMT",
-        "discovered": "2026-10-02T09:20:18.623655+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "بورصة الدار البيضاء.. تداولات الافتتاح على وقع الارتفاع | MapNews",
-        "player": "",
-        "content_hash": "3e3deee17e656d3fa845cccbd3c5856e6839184893866ec9e296a9b0a8f44396",
         "sent": 0,
         "section": "transfers"
       }
