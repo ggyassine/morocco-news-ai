@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T01:32:28.787163+00:00",
+  "updated": "2026-10-03T01:47:38.947667+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -32,6 +32,22 @@
         "summary": "فيضانات المغرب العربي.. هل تصل الإنذارات المبكرة قبل المياه الهادرة؟ الجزيرة نت",
         "player": "",
         "content_hash": "ab4dec39100d16e9e03576214e07b2a4bf601d3b938bbef00311d8d6cc8cae45",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 8065,
+        "title": "خطة وطنية لمحاصرة الدفتيريا بالمغرب.. تفاصيل دليل وزارة الصحة لليقظة والاستجابة الوبائية - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zVlk3aEpveHhXYnprdndUZWpHMjZVV3M0N1N1cWxwcEgxd3hqd184clFYYV9kalpwMEdLZkk0cm8zU29fd2xleXUwd0xpczlGMTdReHo2Z0RmNFMxdUlINGw5dC1FQQ?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Fri, 02 Oct 2026 19:32:05 GMT",
+        "discovered": "2026-10-03T01:47:10.177731+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "خطة وطنية لمحاصرة الدفتيريا بالمغرب.. تفاصيل دليل وزارة الصحة لليقظة والاستجابة الوبائية Le 360 Arabe",
+        "player": "",
+        "content_hash": "2223e31a26fbb9cd1a9ecb0cd52fbdbf51b27e5026ab93ee3921ce081a5ad5e2",
         "sent": 0,
         "section": "morocco"
       },
@@ -706,6 +722,22 @@
         "summary": "جدول مباريات اليوم - 3 أكتوبر 2026 - بطولة قطر 2022 FilGoal",
         "player": "",
         "content_hash": "5b0e5fe8d0cf0b177d14802706d56d05272a0c568200289a80ec688f9cb8273e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8066,
+        "title": "جدول مباريات اليوم - 3 أكتوبر 2026 - بطولة الدوري المصري - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdUtKclpjeG5jVGllaHhUUC1aQW95WHNQVnc0OTU2TnB0M1ZmYlFManZRQ0ZFbXNrdUd5UTZhcF9qVVNBVmFDVXdZZk1FdUVOMkVfTlJRWVJwck1jMkx5bV9RcG9TZHdlRkp2ZFVJUzljYlZ1akI3T3lJaG1KcjdkYkZOTWMyU0ZleTBVTmEwelNHc21FSFNoWDFsR2RNWVlkTWVCTGFZMFdwNlJsd2FtUHY3M3A3Mk1jZmlUUW96TmpQX3lQUU9ZSlMtLU5QdldGN2FlZ0tjNTJRbTllcnVmSmVOaVI4N2dITTV2clNGZE1rMm8?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 03 Oct 2026 00:00:30 GMT",
+        "discovered": "2026-10-03T01:47:22.669252+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 3 أكتوبر 2026 - بطولة الدوري المصري FilGoal",
+        "player": "",
+        "content_hash": "7d193a9a6851b5ec5d754a3be78d9a4bfb09497f66b73c67e10498c1547d6cdf",
         "sent": 0,
         "section": "sports"
       },
@@ -1460,22 +1492,6 @@
         "content_hash": "a304400b7bb6e9bc5523ad0692a507c823ed6149370bf8387e5677dc8fdb096f",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 7949,
-        "title": "شكيليط (مدرب أمل تزنيت) : \"الهدف ديالنا بكل صراحة نبقاو فالقسم الأول\" 🔵 - Elbotola",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBodjlUYU5aNGItN08zVkRxUXpqSkNCRHFnb1lLTGVJcnZoMURzWXZwWXIzbURkclcxdng2c01wM0xGV05NTnJhVWZESGpHa2hKdEZMRy01TDh5MkRXNS1OM2RBQURLS2pzZE9OTUhCNWw?oc=5",
-        "source": "البطولة",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 18:40:14 GMT",
-        "discovered": "2026-10-02T18:58:37.905757+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "شكيليط (مدرب أمل تزنيت) : \"الهدف ديالنا بكل صراحة نبقاو فالقسم الأول\" 🔵 Elbotola",
-        "player": "",
-        "content_hash": "2c9ee4be5cdc872d8709fd9e49f26cdb25794262eb496721e413bf528dfc30ee",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2068,22 +2084,6 @@
         "summary": "صفقة بـ20 مليار دولار.. \"بوينغ\" تطور مقاتلات البحرية الأميركية العربية",
         "player": "",
         "content_hash": "3ab71768b4e385a3a0b91868f1ab4fe8462f50f0dd1b0c60e2271a5afcfaa6bf",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 7625,
-        "title": "البنك الإفريقي للتنمية والمغرب وقعوا اليوم اتفاقية تمويل بـ270 مليون يورو.. توسيع وتحديث البنية التحتية يدال المطارات المغربية - goud.ma",
-        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOdmt3eTdNOFRTVWhuVTJkOUd4NjJ2QWhIbzVkbHR5eVNKYWdfa283VFM2b2dlOG5PSHY4bHBhWW1WbDViN2NlY0NkWE9IRGpZQU9EbURaYWpQYkJLTWRVSDdnWWJQRDdkTC1DNlFnV0pTckNwLWRmUENhdlhoRGlNdzlNa3FzSUt6M0R1OFRqNDlZUWk2c2xKOFJneUV5Q09mXzRjR3cwN3I0bUlBcm1KbVRaaG44bURJVFozN29wWnlnc1lPWVZjdUVQcXFqUDFwWTVQd3hFTFcxNUNLTUhrMWtBWnE1U2pXdlZQUjZWM3pZWGlBX2pkamtnVUFwWmMzTEFkby1UNHVxMHRDN1RxZUlBZ3J2dGJhX2xsRENsQzBsaTh4ZER2NUxDQ09iVE9lb2xCRTRvdkFTQ2NPUDZ6ag?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 12:49:26 GMT",
-        "discovered": "2026-10-01T20:18:26.116103+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "البنك الإفريقي للتنمية والمغرب وقعوا اليوم اتفاقية تمويل بـ270 مليون يورو.. توسيع وتحديث البنية التحتية يدال المطارات المغربية goud.ma",
-        "player": "",
-        "content_hash": "61d75559c181da8ad998783ae848b4a8f8427d0f4d835e0f7dde412d23ef7d94",
         "sent": 0,
         "section": "transfers"
       }
