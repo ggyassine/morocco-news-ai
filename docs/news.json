@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T02:59:40.424284+00:00",
+  "updated": "2026-10-03T03:23:05.556664+00:00",
   "total": 149,
   "sections": {
     "morocco": [
@@ -706,6 +706,22 @@
         "summary": "جدول مباريات اليوم - 3 أكتوبر 2026 - بطولة قطر 2022 FilGoal",
         "player": "",
         "content_hash": "5b0e5fe8d0cf0b177d14802706d56d05272a0c568200289a80ec688f9cb8273e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8081,
+        "title": "جدول مباريات اليوم - 3 أكتوبر 2026 - بطولة دوري أبطال إفريقيا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOamlJQnZqUEtnM3UxNllacEhWTE0zVjE2cUlBaGRqMmZ3X0E5dG5YRUl6YnFJc1FMZ3RDOHZNY3JVNTMyeUFmUmdEbHZ4OGYxNVlvenRUb2lobzRSVWNqQkhrQ0htcFVpY3B5OVU5WXF0X1Zka1VxaTFBZWxKcUloSVp2dmxmeC1tcjlOdUo0d1hTU2ZVR2F2ZDdnX2RCTFJ5TG1lR19ONUUwZUtGNTlWTUtLNmg5ZEtGNzJmOG9oZVVPWkhQQkZCdnhvUjY4OFN2NF9IX3ZIc0VncFZXSFNKT2RFR3o1azVaQ3BUWFhWOUtWNkpOeHRHTmM0cU1BRXA5S3lIdkNNVlloQVFzTE9kX0ZZVGY?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 03 Oct 2026 00:04:54 GMT",
+        "discovered": "2026-10-03T03:22:48.304221+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 3 أكتوبر 2026 - بطولة دوري أبطال إفريقيا FilGoal",
+        "player": "",
+        "content_hash": "991a8bbdad1974098d9bcf33444a6d1b24840e53b8cb7f011869fcb9f2984d31",
         "sent": 0,
         "section": "sports"
       },
@@ -1437,22 +1453,6 @@
         "trust": "C",
         "published": "Fri, 02 Oct 2026 18:59:25 GMT",
         "discovered": "2026-10-03T01:32:13.837529+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "موتسيبي يستعد لقرار مصيري بشأن كأس أفريقيا 2027 winwin.com",
-        "player": "",
-        "content_hash": "90bd5410e02dca18f51b2beae0482f1269879d8eda12059452cb273fe5138a20",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8015,
-        "title": "خاص.. موتسيبي يستعد لقرار مصيري بشأن كأس أفريقيا 2027 - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNbUpnNEM4ZnFMWXJpTHJDNklXUlF1bTFHbTNNcm1oem5UMW1pYnBNMWpzbk5rNEllc2tJN0Q3cUppQTZZTHMzaV9Id0FVMnhwUkoyaTYyTUFGUGFob1dnN1JCeEFlYmtEVHZIS3kxNWhDYmphR3VlWnExblRSMDZ3R2tFR3FZczhYQnJPT3RhX29kVkVjZ0tIYm1wSTJYdUx6WWNhdEtyWEtiX1hEeUJJVTlkT1pGUThWSmZ1Ynh4Tms4ME5YN1htcWlzX1Y2VFNMa2FjeXBRTmh6bTIybVRIM2JETHBjV2JoWkRyN2pKMHM5cGV3SzdEZEgwZkdKMWhTUnJKLVk5XzFfSTFWQTFBRy10Z3JISjk3cXlrSTdZUThQWjNFb1U3SnlpSURhQzVmTUFGSUQzWDJkOWlGQ2RKOVZuQ0p6RTlJWXcxMXpPdjdVSEtWdGtnVDBHcFBHUEQxTUJNSkdfQ0NyMkprbjZ2UVZnNDdrM0lrbmQ1NmFvM2NUTWxMMHVsZ0ticEpJZjU1QzY3bXExTEtabjNMQ0pFYW83Q3ZBY3p3VGhjSFpzR181eWNqT1EwTk43djc?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 18:59:25 GMT",
-        "discovered": "2026-10-02T21:50:08.799852+00:00",
         "category": "الرياضة",
         "status": "غير واضح",
         "summary": "موتسيبي يستعد لقرار مصيري بشأن كأس أفريقيا 2027 winwin.com",
