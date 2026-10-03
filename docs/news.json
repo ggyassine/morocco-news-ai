@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T09:30:48.671214+00:00",
+  "updated": "2026-10-03T09:47:08.763754+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -658,22 +658,6 @@
         "content_hash": "a77563b568134e6c9541af0668004a4ddd62cd876fdb66ef70ac857e1378db4b",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 7716,
-        "title": "مجلس النواب يترأس بجنوب إفريقيا الدورة السابعة للاجتماع السنوي لجمعية الأمناء العامين للبرلمانات الإفريقية - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLYVdmVXJfVmNDekZvMWNiSkxXeW1SQUVvV1MzUjU2aDRsdzZUV2sxVGtwaFZxaVNmbjN6YnJ5ckNNMm1qM2RtcXJqbWJZMUVVZG1xWXpmUW5aOW8xUVRUQlJFMnB1d2Mz?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Wed, 30 Sep 2026 21:08:59 GMT",
-        "discovered": "2026-10-02T01:37:49.993868+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "مجلس النواب يترأس بجنوب إفريقيا الدورة السابعة للاجتماع السنوي لجمعية الأمناء العامين للبرلمانات الإفريقية Le 360 Arabe",
-        "player": "",
-        "content_hash": "b1d7e5010c75cc0ed839547a63c8ef606a23f2a23afe381680aa552ae5ab65f2",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -1254,6 +1238,22 @@
         "section": "sports"
       },
       {
+        "id": 8137,
+        "title": "«دوري الأمم»: دي بروين يقود بلجيكا للفوز بثلاثية على تركيا - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxPN2x6c3QzOE5ZYi0xSWlicnFCZ3NNOXFwLVlQZUlxVFBycnJCa0xheHFpNHpsajRRZmlvNy0wWkJnTGlJb3RFZmFaREdYY1J3SmlMdG5BM2FoYjRiME5lYnZfaE9xM1dCc09fcmhJNkQ5ZUloWUZfcy0xTHI0TVNVRnlLLWJtYWJXOHlHdVltWUhZdkt6VHJ6enVOS1g2cVVnM1hoNTI4QXlJLUpOeFBCMkxqN1V3ZUI1YTJxX0F1Ukx3UmVwVDFfdTdzQm5jX0JkNHNWSy1OT0RZb1FjVDZwRUR4enZOcHJYTDZrMnJmd0pzOFNENUdlZC02c1NwVm9BUU5fZXlwRHpRVWtZb1pSRnR3a3BCTVVNdXVsa2FqZ2xLY1cwQWVTdlU4ZzJLRGFwREhYcl9NUklJWUttNWx4WEFnQnJ2c0VhTFRGY0plNGtwTEtDTjQ2VkJnVXp6dHV1RWM2VExMcy1mY0dSb0Zzcy02OVhSWFJlb3RDamNUWWM3VEZ5ZWxnb1hqN3JDendyendoYkR3QVpyUG1MQTZtYlJqX1JxN19QN0g1R1pETllyMl92TDNaZUZEcHdVWnNMM2JjQ2trSEtuLTdBX1h2eUlaNVpBa2J1ZHBwelllakR3S0tad2lrSkxfM0Z5aEtuOXN5ZWlQQjVnZ2RGdFJBVkU2ZWVzX0EySlVMcGNuZEtXSzJ6TTNhdVFpZ3hnOTdXU01tVnFad3hyX1Z1VVJMaGgtSXAzRnJSeGsyb0VqWGhwaUUxWk9IdlQxYTFOcmN0?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Fri, 02 Oct 2026 21:09:41 GMT",
+        "discovered": "2026-10-03T09:47:02.952917+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "«دوري الأمم»: دي بروين يقود بلجيكا للفوز بثلاثية على تركيا الشرق الأوسط",
+        "player": "",
+        "content_hash": "5c71a2d72e2b6fa1944d475ae5f48d6bf5b871705fd1918ebd158a888f848c5d",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 8004,
         "title": "اللاعب Ismail Essabah - الإحصائيات والسيرة الذاتية - Kooora",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM0k1b3h5djV0Uko0emMwZUwwRjlya3ZVYWFydTJDdEY1S1djc0c0T2tqczRJV1M2VXFfZlZ1Z3pZNEppcGdDTkxGOFVHTzV1c1NmUXZPcGdXTUY3RFA1b1dnZnQ0SmNOUE5JVGtUbkFteGlfNlRBSm9saDBmVzhtM1M2Mm16QnBMbmxwd1pjS1JqZWFORlpDUWhlREhEYzNfY1c1X1RCdTJFdzY4VU5uOW5NRVE4cGN5S1FTSUhhOVg1b0ZoN3djOA?oc=5",
@@ -1460,25 +1460,25 @@
         "content_hash": "4b3e3840de9f64ea904f878a27d1d4741dd1cbc810bd25ffe18dd18378408ec3",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 7983,
-        "title": "حائط الهلال يدعم المنتخب السعودي في قمة قطر - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPRHBPbXlscmtkRWVpdlhvbmNNNXVFQ1RxWm5SV1ZDOHZTWUVEc19tRy1FeXlyRWtmRXlQbGY1cXUwQzZmRUVkQjJ1cXdoOGtBS0ZmQ052ODBIdjdqUzUxVm1ubUJLMTNDcnk0VWtrRHVYWmZ6cG13RmJfcUlLekRKUS14T1c0S2VvdG5qTWs1czd1WDRMN3JwSS1nOHlUdnlVNi1BcGdhY2d6UjVqRWlOVkNEQWt6ZThRQmp1eXExUEhFVnQ1VkxqUTVtTEw0c2JCUklMLXZfdTZoWnFOcWhuZy04MzdSd2ZjeXlZOThvMHFBbUplVWRXZExVRGRxRmc0Qkttc2Z6VjBtdGw2VkFadGVENHdiT1ZLZ21CSmdUb0Y0cmF0d1VCLXIwNzJyMjBPUF8xWk82N0pJYWRueVZuU2cxdGUzZ1h6TlF3VzF6aEVWWEtrNHF0MUpiRzJzeWJxRUd4WndNUnA5ZmpDcEo5RlN6amZjWUUxMU1KTzlkYUtrMEliZ0J6clVnRHAxRTFjekU3eGg1M20wdC1yd2FyUzhjeWQ2ZTQzdFoxdFlmRTNhY1ItbGE0UDc1U254YWEwakJfRlZMOG1HQVduV3Zwbk0wN2FBUW8xbGFCWTJhQmZlYVE?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 20:10:00 GMT",
-        "discovered": "2026-10-02T20:18:20.190236+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "حائط الهلال يدعم المنتخب السعودي في قمة قطر Kooora",
-        "player": "",
-        "content_hash": "97a8fa2d0b6a18366492f183392576918007a6d945fbd2162338a0825e250f44",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 8138,
+        "title": "يتقدمهم المرشح المسلم عبدول السيد... استطلاعات سارة للديمقراطيين في انتخابات التجديد النصفي في أمريكا - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQV1NrckdHN25ERWw0ZXFyQjVfRDVmNjNsc2JDRE1zbUhIbTJHYW9JTkxoaUlVWXlHNm1ka010ZDc4SzB1QUNCOXRBcUlmNUxLRTRvUnpqbUYwY25ITUs4ZXQ0MUhWUlpVOGFULXdNNHNMaDR5V29GbzM2OGlhSzhncV9QM3RKN1NiTkVjVXlqakw5SmI3SW9PNER5R00wWnhvemJQUWV0eUJhMGYyVXFFYnA0cDlPVlhicFhCaTlHak1qbjZHaG53NEVZZ0EzTWFfTURSMmQweXJaazVRVFpfdmd3NGtsUGdrUmpmaGpLeEF1SEI5bDBsWFJBa3dwZ2JZNGZlN1JhSkRPRkdJYzFSOE1oX1h6ZmUzdDZuVmg3TmxoVnpKZGphaEJKRnFtWG5EVzlnbDVSeFhHTnlqMXo1RFNWS0lQdw?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sat, 03 Oct 2026 09:10:46 GMT",
+        "discovered": "2026-10-03T09:47:04.103140+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "تجديد",
+        "summary": "يتقدمهم المرشح المسلم عبدول السيد... استطلاعات سارة للديمقراطيين في انتخابات التجديد النصفي في أمريكا القدس العربي",
+        "player": "",
+        "content_hash": "cced75bb7beab3700470c9d22ed80e5d7471e3392d72a98f6aec768779e94b23",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 8123,
         "title": "توقعات بتعيين مسؤول أعلى عن الذكاء الاصطناعي بالإدارة الأميركية قريبًا - العربية",
