@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-03T08:57:59.580718+00:00",
+  "updated": "2026-10-03T09:13:10.800941+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 8133,
+        "title": "أجواء حارة وزخات رعدية بالمغرب - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBqYjFPSzJYTnhIcEJmM25yYWs1YnF1MGhmVERwT3dJc3RpNThvbnFxRXBPWGtzaDdVS1JZWm1JaEpFdGduazY0SA?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Sat, 03 Oct 2026 09:01:25 GMT",
+        "discovered": "2026-10-03T09:12:46.616363+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "5607fcf4e9a277d3354922d2840e589fbb28ebf26e7d94634a582248dc476cc3",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 8119,
         "title": "الإمارات: مساعد قائد طائرة فلاي دبي هاجم قائدها بفأس الطوارئ - alquds.co.uk",
@@ -2020,22 +2036,6 @@
         "summary": "توقعات ببيع 6 ملايين وحدة من آيفون ديو القابل للطي قبل نهاية 2026 العربية",
         "player": "",
         "content_hash": "e0b3f0e8cdb4ebad43e09bd8f9b2f9b8937fac477afca493c4839a5f73ddf665",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 7799,
-        "title": "بورصة الدار البيضاء.. تداولات الافتتاح على وقع الارتفاع - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxOWllnSmpnWl9acmlRZWY4R0pabG9LZXVhdmJhdUZORG1ZOXR5eWhiR2p4ZjljYTNINkFpVEk2MlFWR1hmRGY0dmE5RlJScFFvVGxjNTVUdXN3cUFMU0YwelZteHBjVEEzYXJPRDZBbk5obVZRWEwzQVVEb0Zvemx2MlhKeFVOb3Q1RGdSY05xMFNaZ3R3T293aWhoXzN1MlIzc1NUWXVFSE1UV2swaE5hbVBDWkw5VHQxSzRfbC0yRUhfY0tfY2dGNXJfTUE4VDRyLWhrU3ZiNjlMNUx6Ri14c2FkRkxkbEVZTnBjTDAtWjV2OXA1TGV1dS1jdVBOTXVQVmdLR3N4VjNieVZjYm9JQkM1aWl5ZHpLZmcwd3FVTzBadXZLUHpDUWdMRTRGU0QwNGJiY1FoRS1QdHp5MFdCdHhFQUVmTVFZNzdaQXJRQTVsZV9UNHhmM016M3JKQ1BZUmhtLWhXTjY3NVZPNmg4Z3ZxSTdBS3RFLWlKdjRIcmVxOW9GQXNwTzZVSGxtQkRDY1hLUURJU05vd0pKUm5MQWhSa0NxTTRIZjQ3SG5WeThtUld5Q3FxNkhPamhZV3V5S2ZxdmEtZU1ZRnBKTlh6LWYzUVdCZFZXT3hxZnkxV2tsWTRiRmZva0E0NEUxZEVjTDNWVWM3OWtsSllQdXc?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Wed, 30 Sep 2026 11:35:54 GMT",
-        "discovered": "2026-10-02T09:20:18.623655+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "بورصة الدار البيضاء.. تداولات الافتتاح على وقع الارتفاع | MapNews",
-        "player": "",
-        "content_hash": "3e3deee17e656d3fa845cccbd3c5856e6839184893866ec9e296a9b0a8f44396",
         "sent": 0,
         "section": "transfers"
       }
