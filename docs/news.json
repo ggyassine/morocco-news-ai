@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T02:35:29.713732+00:00",
+  "updated": "2026-10-03T02:59:40.424284+00:00",
   "total": 149,
   "sections": {
     "morocco": [
@@ -662,6 +662,22 @@
     ],
     "sports": [
       {
+        "id": 8079,
+        "title": "توران توفوز ضد فناربخشة - Elbotola",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GbVVVaUdhNnh3NUxxOGU4UmdWUjhJS0M2Q3ptZWt3enBYTmVtaEg0a2FQTHZfbF9WOHNjQ0ptcWtoTlM2LWstVEc3V20zdUlrV096ZXRkN25OQ0d4MUFiMEk2Qk85SEZQ?oc=5",
+        "source": "البطولة",
+        "trust": "C",
+        "published": "Sat, 03 Oct 2026 02:54:09 GMT",
+        "discovered": "2026-10-03T02:59:17.973410+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "e706c2a70985353a4952a652ba2dcfc6040adb94b7f2002a63a49600086576ac",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 8061,
         "title": "جدول مباريات اليوم - 3 أكتوبر 2026 - بطولة دوري الأمم الأوروبية - المستوى الثاني - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQRGwzcEVtRlZzNDBHZ2djLXdkcHlucnZkSTA2UDNpcTZ6eFBoWFFja2NQcXBGamF0QUkybFJUcUllSGNxdlVlM0FJUm9DeDNaQkxhU0hFNUxBdGZJYVFvdnhTTjJIQ1c1Wl84Z25ZSXpVQWdoM2dhYk5UNEdlQ243V2VsUXlqXzNhLVlicEw0anFRbHVMVVpDVnRCQ24wZ0VuXy1PeWZGaVFGVDB1U0doZTM0ek15M2ZVYkNwWjdFTWsyUHhJbHBLZTRxR3ZZdEllTG1nT0RYaHdqS3BMOHRXUnZlUHktS2hwZl80UjJqUVplbEFuT1ZnR19PUG9DYlFSZ0tTVldtWXNwTmRnZlVDSjFsX1FzYnBwYkJsUmk2LTdrMS00emhnYUF1OTN5MnBGVGNadDFWWnJXUGJsNVJjZG02WDQ1X0t6QjZoQXhfOXpEQ2hqbUtQU3ZQaWF4cnNDeWlGYXhCZjVBQTYyb21ZM1p4X24zRFFyNWZmVFZNano4Zm8tSWNNTUpnZjVFeTQ?oc=5",
@@ -1026,6 +1042,22 @@
         "summary": "شكيليط: (مدرب أمل تزنيت): \"عرفنا كيف نسجل أمام الفتح وهذه النقاط ستمنحنا حافزاً لمواصلة العمل\" Elbotola",
         "player": "",
         "content_hash": "8d24cf37dcf660a4ddf7f16fd1fa49bf96943af2c782d2af43e9adeb82324de6",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8080,
+        "title": "فرنسا تتعادل مع إيطاليا في قمة مثيرة بدوري الأمم الأوروبية - Elbotola",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41MGtvRm1LakVfVzdnWm9DY2RKUDRzcDU3Z3h3a3lPcE9IZ1FFREgyNmNNVV9pRlllZ2pqTTJFMmhSeTJIdEU1VW5Pb1c0RGZUVWJIRXdHS1YtcUxfem5xSFc3WllEYm85bHc?oc=5",
+        "source": "البطولة",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 20:44:00 GMT",
+        "discovered": "2026-10-03T02:59:18.125569+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فرنسا تتعادل مع إيطاليا في قمة مثيرة بدوري الأمم الأوروبية Elbotola",
+        "player": "",
+        "content_hash": "6b8c85d7adca160a9fd40ecad24d3a7bd3ab7fcc25c29a5a640d589f9765f653",
         "sent": 0,
         "section": "sports"
       },
@@ -1426,38 +1458,6 @@
         "summary": "موتسيبي يستعد لقرار مصيري بشأن كأس أفريقيا 2027 winwin.com",
         "player": "",
         "content_hash": "90bd5410e02dca18f51b2beae0482f1269879d8eda12059452cb273fe5138a20",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7958,
-        "title": "اتحاد طنجة يؤكد منع جماهير المغرب التطواني من دخول الملعب حتى في حال تنقلها وحضورها إلى محيطهذ - Elbotola",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xX0VRWjk0QmhKUDNqQnhVVEV4cHVsbTRnaF94djR5SGlsYnVHcVBEdkVyVFpTRGVSTmtvSGVqZ1I4bzFocmhieERqLV9MY1hGbDdQMHBWS0hCVEQ3R0wxei1vZzhSTUFaUEE?oc=5",
-        "source": "البطولة",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 18:55:35 GMT",
-        "discovered": "2026-10-02T19:15:44.470588+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "اتحاد طنجة يؤكد منع جماهير المغرب التطواني من دخول الملعب حتى في حال تنقلها وحضورها إلى محيطهذ Elbotola",
-        "player": "",
-        "content_hash": "73e14edff6827eec5beb98184200412612eed89dfc46894741b72404e600a720",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7962,
-        "title": "منتخب مصر للشباب يختتم استعداداته لمواجهة المغرب بتصفيات أمم أفريقيا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi2wRBVV95cUxNak9WQlRtS21YUFY1RGVVVUJuRlMxQ3JGUndqWkoxb2tmZ2ZpamlhRjZ5b1ktTXFEelF1cnh5aW1jRGU1cmxCNmNKVHFFV1FyREJBRm04ZlNOZDdGN2ZGb014SlFEVEVKbkVkb0FZMHFxN0o1ZE5QNUN4TFpfeDFPb29QWktQR25rcVFvdFF4a3NtNklwWEdKTlJWVkdoWmVVWVNudGhhWno5akFYYTc0OGhvaFBfUW0yNGEyYlVVbDJxRkl3blI1R1J2YW5OWXN1OHRBMlR6MWRwRWFGakplWWpjcjlpYURmS3ZjMEZEWGdTSW42aU9GcjIyRm5MSEdfYy1OS0U4Q3ZzRFpZWVdiTnBoWnloV1dXTGZqYkVmRERVcThlanBVNmVlQXY2RkZOU2dfZ0x3VGt5Qy1IVzZlV1RYRDdZR1ZNYjdmSm14dk9VRUJlN3p5dzFpWGhuQTFPUm8xUFlMcUpKR1c2TjVPd3FlWWJaMU5iX1ZmUTQ5VTk0aXBFOUlWUm5kbDRUc0dpS3dyWlFuM1R6cWZDZ3N5QlhjWXExdktjb2I4YTk5ZEw5SUUzVld4cVdFMU1reG1SM0djLVdsVzR6bVpmd2EycXVNaWE0UHhlNTRRME14ZlE5LUFCNEc0QS1UZWRnRm9nTXFYc3JQdlR4ZWxWbEhUSmdQX21MTFFsQ0tyYXVNN3VNamcxUjBqdXVaaTNBUG5iUExWNHBkUHNlTWF4U1JqZVlxcDNKcHlTMXZDSGljQmZ5NTIzdFN4S2xSdENmZjJGaDkycTVQQTExZ0nSAeAEQVVfeXFMUFVpR1lNd1ZKbGc2WkRDc2IxUldZTU5vYkRFUTJsZG1sTUlYaHZQVXdmWnJneFAxUUpndzVsWW0tZ1ZTcFpkMWY1X3N0eUJ4bFYzZS1DbGJUaWtQekxwV05HSEF1TU9tMU9HTkFuN1dDcDVJR0hwRmRQMDJLSXpsRGdRYWlIbDI0UTB5dndSeVNBbVdaMldnUW1reFp6RU1NUEgzdVhTNHVPNWdHSmpacFFHU05heGRTRlNiQ0MxZExXaEhadzdJSm1BT2YyU2lVNk1oTFc2T1B6aVlrSWZCRDhIcjdQU3NndkJlaDRGdHE0S2xyclRWbkxqX2Jlend3WGQ2cktJTVpTSkFsdEs2ZFhsaE9jZkNoOGx0SndOMlN3SHh4LUpvdUFyX25vSENHX3IxRnBSM0pLYS02TDZHb1lTUk5rbjRGaDhWV2pSb21WSVpGUUxMakJOcWpSd0p6WVZ3ekt4RzFsUk9FUXFQa2JZR3lWRF9WZUs5WXFROTM2dHc3eXJaODd1Ml8yTTVBQUlkZmNhRFMzbldmbldlajhmSTBxaHNHTGZBVzhoN3F2MmlubFNLU0JPNEZpc2pnRkJ0Vi0wWjhSMmMxYzNUVENvSURORmMzSU4xYnc5OFVnY2ZGNzdBWHF0OThlMVRqaU1KV3BLQWo2akNoclRFY2R0S3RjM0I5N2VlcV9CVEdQSy1xYndzRVN0S0hNMmRDMU1OblRxeFRlZG9WUjJncGN0SlY2Zno5ejBCcVRISnl1dTloLWs3VUttYi1uR1RQVUx1ek4yM3k3V2dWcy1IbG0?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 18:53:00 GMT",
-        "discovered": "2026-10-02T19:15:50.779944+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "منتخب مصر للشباب يختتم استعداداته لمواجهة المغرب بتصفيات أمم أفريقيا يلاكورة",
-        "player": "",
-        "content_hash": "7ce6ebeb68bf4d89cb860d1399f17fdb72cf9192d1ea415bbdab6f3c2ac7e918",
         "sent": 0,
         "section": "sports"
       }
