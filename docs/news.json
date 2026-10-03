@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T03:44:32.588631+00:00",
+  "updated": "2026-10-03T04:06:13.126845+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -662,6 +662,22 @@
     ],
     "sports": [
       {
+        "id": 8089,
+        "title": "ترامب يجدد تعهده: 5 آلاف دولار للأمريكيين حال فوز الجمهوريين بالكونغرس - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPaEdhLVljWjZDX1JRdTdSeUlod0Nxc1BETjU0UWZhei1BUmpSMlFWUmo0eW80bnpCLXNSamJEVUVwN0tQdGMtZkJfWFo0VHE1cXc4SXNJcTVkNDdZc21MYWhhN253aFVzM0dPMG05NWI1OWdrY2VPOU96ZDIxbXVrTGczUDNGVXRTU3FYQ3UwX3k3SURmOHJxMTVYM1I4aHMxS0k3d1RjZDZSMmxLQlQxaUJfd05jR19yM3NseHlrb1k5VFlYOEdiOFdESjQ5S1hPR0o5SnN2aWc0czQ1WW5sWmQzT2NkaTZ4RGpEME0xZjlhTkpxOG1xalF6eGRDVXR4TWlRSXhpTlZNbkdJelBQb0gycWJZdEltamRTZW5jWXVPOUtncEZmVFhnWEo3ZGZ2UVRKVnV2bU9TQjBITHllSk9yUndwSjZY?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sat, 03 Oct 2026 03:44:07 GMT",
+        "discovered": "2026-10-03T04:06:07.085775+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ترامب يجدد تعهده: 5 آلاف دولار للأمريكيين حال فوز الجمهوريين بالكونغرس القدس العربي",
+        "player": "",
+        "content_hash": "7d06813f9ab358c6bdec3ca8b27438dc326fa56a4668d8cefd2be42944df5746",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 8079,
         "title": "توران توفوز ضد فناربخشة - Elbotola",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GbVVVaUdhNnh3NUxxOGU4UmdWUjhJS0M2Q3ptZWt3enBYTmVtaEg0a2FQTHZfbF9WOHNjQ0ptcWtoTlM2LWstVEc3V20zdUlrV096ZXRkN25OQ0d4MUFiMEk2Qk85SEZQ?oc=5",
@@ -962,6 +978,22 @@
         "summary": "لقطات من مباراة فرنسا وإيطاليا في دوري الأمم الأوروبية يلاكورة",
         "player": "",
         "content_hash": "494660daae5371504991eba5387f07f00771cd4cd89e2f4853eed93cff796621",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8088,
+        "title": "منتخب بوركينا فاسو عالق في المغرب.. الغموض يلف ودية الأرجنتين - aljazeera.net",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPbEM1U3I3YnBIUWY0VjBFZjRQc0pMUEx1elpNRXlBb2o1Y2s4cGptTEIxRlBsbzBHSjNsenZPR1NvU1ZfZlFaM3gwWXVncXk1akpLczBRVUYtdWU3cWhjSkdySU9kd3RmQzBMblZtYl9NdUswUTBIdmZGcm9JSUpzenYtYi12Qm10MkE2c2VQRWZsV1VNTmlVMTlKd3BvTEptbHZUdmVSbXZMV1BNVVJtMXg2WmdDVkxRelBfLXVEaS0tcEFzOEl0cDFGa1RmbjM5TVN0RG13YkVMd1pkbVduckFxel85VUdNNzlJcXAzamM0YkxhN0VPdVdkaTQtV2E4QU9FVENSMDNZOHctTC1MX1lxMHk5aG1DMllGRG9EdlHSAaYCQVVfeXFMUEZFTk5TY3Vvd0xFMXl6allZRUM2TGRiMm5zQjBKN01veDlkcXpqdHJ4UTExLUpFa0RzTHNxZEFKMEhYNkgtSHpqVjdOOVJFRnl0aDhKUUgyWm9yYkZkSDRfOG84TjcyUTNOMXVOT3JIUU44enRzZGxpUUZoanp3TFlneEcyVjJZNk1WZUdPRnc0UE8zOGVLdnE4NW43UjQ0djBEV0owU3NTN2c3ZDdRenp1QzlrV2NEVHItQTJwQlh2Z2txUmVNSF8tTW1LVDh1RFNaWWM2Skc4U0h2clVpVUdKYzdhUV9tTG5FWjJPOHc2MzROWVZyUGo1MG0yTTM5dFdndzRWdHlSX1hsYVNTRDd1bHpjTWlHWWszTnpNMXdQdkI2c05n?oc=5",
+        "source": "الجزيرة الرياضية",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 21:15:27 GMT",
+        "discovered": "2026-10-03T04:05:49.257095+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "منتخب بوركينا فاسو عالق في المغرب.. الغموض يلف ودية الأرجنتين aljazeera.net",
+        "player": "",
+        "content_hash": "84137f225bd435386dd44e6c780494ee4eece211d140eaede23619611032938f",
         "sent": 0,
         "section": "sports"
       },
@@ -1426,38 +1458,6 @@
         "summary": "«دورة بكين»: ديوكوفيتش يحقق فوزاً ماراثونياً على يونتشاوكيتي الشرق الأوسط",
         "player": "",
         "content_hash": "d9341f80fb530f46fe18d6447188456835677ce3494d5356ce5abc37e49da931",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8062,
-        "title": "ميسي يعود للأرجنتين استعدادا لخوض مباراته الوداعية مع المنتخب الأول - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQanFqc2VjQjZmZEVQZDQ0Q0F1dzJiRmhTeGZmdHBYYm9MampGUWs4OUQ2QlRIM2hkdVFKSHNEN0pKQnRqcnhIMmJIV3RiQkxISGJ4b2VFN0docjFmcmVJT0kzWmw5NnotTWwxcWF1dzdHQXQwaC1adnR4ODdYbkxwdThQM3dMbHN3YnFXQXhOVkVMcFFGd0JiSDFYTHRZb0hsV0tlWmExbDhHQ2dXdmdqeXlEQnNhXzJBdVFHMjE2M1g2T2dONEw4d0o2ZURUbnlVTnhQNVppbGk0czE3LVRqZFBEcmlNZGliZjRZZmVBY2NqcEkxOWZ6akl1VlFtWnFfR0xuNThxVEZ0UW9TeGJDM2ZsYVYxM3FqZ21VeDllRTFUcG9HSG5DNUZPM29UZmo3aEx4TGJpcVBTaHZSYnk4NGczdk9EUQ?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 19:07:57 GMT",
-        "discovered": "2026-10-03T01:16:18.636793+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ميسي يعود للأرجنتين استعدادا لخوض مباراته الوداعية مع المنتخب الأول القدس العربي",
-        "player": "",
-        "content_hash": "95fa7eca59f8feabb15950e1580230e82a8aa27b720eaf15f99f865eff865a06",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8063,
-        "title": "خاص.. موتسيبي يستعد لقرار مصيري بشأن كأس أفريقيا 2027 - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOTmkxQmZxaHNabWxOSE9DZlVtRXhXd3BXaGp1TzlESWpOcU5WajhLZTVEdFNLLW55Sy1Ma0MzZmJXdzB0X0dXTTdIVUVxV1l6ZHpNcWZkeHItalJoRlgxQWR4R3dsWnR1OVc1OF9zVHN2QmJXX1c3Sk8ySkxwME9oNElLdmF5VTBWaFkwMDVDQUotTVJpTlFubU5BSEYxY05mX2NqeGsyanpNNHp2UUlBVDZhNUt0Nm5leDBWcUFHdTRLLWE5eVFSUWFPcV8tTVp1NTBtcUkxbTBYdkZzSnVTWFlrS1dvcWEwYjdqcHE0OGxOWUIzU05qXzhTeldNMFlDdWE2NnNhdThEc2VJQzdPR185WTk1RjUxdi1uUF9KOEtRT18xcExxVXR5T1dRWUFiOTlpX0g5c3o0R0lyTWZ2akNtbEZZZUxUcEFueHVMYVgtVWwwWW1iTlZJNXppVzQtdDV5ZVhmazJRczR1VEc3T2w3MXBZdWQycFRvV1JBOF9TYnc?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 18:59:25 GMT",
-        "discovered": "2026-10-03T01:32:13.837529+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "موتسيبي يستعد لقرار مصيري بشأن كأس أفريقيا 2027 winwin.com",
-        "player": "",
-        "content_hash": "90bd5410e02dca18f51b2beae0482f1269879d8eda12059452cb273fe5138a20",
         "sent": 0,
         "section": "sports"
       }
