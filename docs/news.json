@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T23:59:40.780269+00:00",
+  "updated": "2026-10-03T00:22:06.189502+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -16,6 +16,22 @@
         "summary": "أمن أكادير يوقف متشردا للاشتباه في تورطه بالتخدير والإيذاء العمدي باستعمال مادة حارقة – اليوم 24 اليوم 24",
         "player": "",
         "content_hash": "8f5fee852faadf9fcb63e6f5534bae6e0b651556cfa8cdc30bb670664810d3d5",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 8054,
+        "title": "فيضانات المغرب العربي.. هل تصل الإنذارات المبكرة قبل المياه الهادرة؟ - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPVlZURlJQZ1dvSkdxcnRZb0NKVGIyUURYZHRGYWNGeFMtTFRBQnhNTktmZF9CanpyVFRZdVZRaGNVQ1UwenVQdHlpd3NOOEwxWGxrR21SR0k2T2hvOHNRSl93Nklwd3RIbURVT09GTGJKaThtN3I1OG5mMm1qSFVPdUNYLVgtQjdJbUpjNjF0bFQ2TWFFUVRHLVJzZ3k0UWVJNVU4SkdFdUNXOUZlTXVuOWZsN1k1WTgyTW5hTWxvaHotSGllR09vSlNUeUM1SExZUUpYdVVScjZ2eWZ3VEplTGp1eHBWYzFkeWFUTEMyY3hKWW5FQUg5VURXeTdISDRKOVNYWjYxZlpRWHpBZU83bERVRHdGZXljZklFMtIBogJBVV95cUxPUHNBU0F6bE9KdHdSbDdtTUtaOTVpYXUxbUNqWkhGa3ptWlRidm03MVcyYjhlaGtPbFRRSFlRNW1idkpEN084TGs4ZkVKZHM0aWg5ODc2Nmdrc1haRk1TblRLTEdfQ0VTZWJqb2dFUEFqcTJPVGpmQlNxcmEzT0pFVmRJa1NvaVlVeUN3M3ZpSkZwYnFESEtuM3NrNXhKWjN4dkZUaW1pZ3ZBbDJLNVpkLS1ZUUdpYTZST2IwcTEyTVZ5MTlUbW1FS0R0Y0NBVUdJd25IcXZWbkVJc1FhWTVFN250bHZNaUQxSUJfejR3UGFNT2dueERZSkhuUnRmWEVJUjdLOU5MRnpNSWFqTFBOYjdWaDBhNnJXV0FRdmxTb21aZw?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Fri, 02 Oct 2026 19:59:47 GMT",
+        "discovered": "2026-10-03T00:21:57.031385+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "فيضانات المغرب العربي.. هل تصل الإنذارات المبكرة قبل المياه الهادرة؟ الجزيرة نت",
+        "player": "",
+        "content_hash": "ab4dec39100d16e9e03576214e07b2a4bf601d3b938bbef00311d8d6cc8cae45",
         "sent": 0,
         "section": "morocco"
       },
@@ -662,6 +678,22 @@
     ],
     "sports": [
       {
+        "id": 8053,
+        "title": "جدول مباريات اليوم - 3 أكتوبر 2026 - بطولة قطر 2022 - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS2M5UFFqQk9xOXJXSWdBbjQ2QjZyQnlFQ3RIZDFiTUx3S3lOVDZqYkJmOVpYQldXQnJjeGRPTjh2MmNKMXEyQW8zcFRRc0hwWVhaOWV5ekVXQnYyZml4a3FCOEtUd2k0WVVzTS1XUVJHR2IyOWxWaVIxWVZ4aWExbDQzQ01XdWNUZERiR1F4cGhra1VlM2JpVjhPdzM2eVF0M1p2TkFtc3pSNFBhRC1xdQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 03 Oct 2026 00:05:29 GMT",
+        "discovered": "2026-10-03T00:21:50.697197+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 3 أكتوبر 2026 - بطولة قطر 2022 FilGoal",
+        "player": "",
+        "content_hash": "5b0e5fe8d0cf0b177d14802706d56d05272a0c568200289a80ec688f9cb8273e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 8042,
         "title": "عقوبة تحرم دي بروين من المشاركة في مباراة بلجيكا وفرنسا - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxPcW5WVzF3ZzJWeW10c1VxNHl1NmQ1MGNYNVJTWVROTHJzaG5GM29iWEZaeGhWLUQ0Y0JtUVJCNF8xdTZKblREbWMxX21FUDNjMnB5SWlNV0c1UzR4NUIyd0dYbnQ0UmFwRkdFeTBxNmlsTTlDMHNVdUZHXzdKVkRRZmozeHQxc2xuUkJtdDJqeTkxdTljeEhuaTZWamJFNjUwMjNqSXJYdExBTUFoYW85am5aYlhiZjFlY3VEYlYwcTNHLVM4TWRjWWN4UGxMSXVSamltUzV2bWljcHRiODZfQ2xUd3hhQkhIU2Z5eVU2bTNOYVJXZ0hPSl9QblJPUTAzTVhnQXlCc2NFNVNVeTBOZnBfVEVkNWtkN1NybVE1Tmg2cWUzNnRRcVluYTZaandSTm1TRXFqb0ozbUJ6UXRHNmFOSnFBZkZSZnNuZ2Z3SEJZaUdNV3lZSzlsZFY3WHZ1SGxJdmpMTkQzaHlrQW5KSkY1NWhINGgwblM1Rzc2c0tlX0xDYXNYSW5Fc3FXRzFTcnY0dGVwb0JmaDZDZUo4RlNQeE1vZjJRbFgyRXBxNG5KTDNpa2FsYnRFN0JfcGZpZG9kMDY3SU9PUTRaRlVxTGVJaUNFMXk1Wm5nOFNnQlJzMWc1Z0JiX29reEzSAfIDQVVfeXFMTzlheVdtcHVMblJhZ05RVjBYS2dHWXVYVzVWUUItQTNUVFI0RnlhNFBCWHRmdTRrYl9iNU5BY0hwTDRzdlZYMUtULVFjRUI1bzZmUzFUMEFtQ3ByaHY3Z2dHS1JoaE1GRkdGM3pLYTNwSVg1V0x2ZDNQQzVTLUpDcU1jRkVjM0xNanNIZ2t0RWItbVBqcFRSWEpmQ24zSlBURkVramNxMVdPVGNzYWs1WG9xaHlpbmtZVGRfaTNDWHlHNzZSa0N4SWVlUS1PZzF3R1FxRmFta29hU0NPbExfc3E0RHIzWl9adXdBVjA2VURoMWw4c01aRHZWR2ZUQWVQZDBITWFNWHZqaDVSZGI4RVVDdkRPdDB0Nm9yUnlXaEpRejJ0MXgyeEI4UjJaTXFTOU0zOXNTeXZNVnhsVjJBMkNvaGdDSjFPY28yZ1cxQXNCLXNhM2pkb2p2WG5YWXBzV2NHNEwzRy1TdGhWWkhGa2pabUJkdVBjX1NMREU2eEtESjJBWUJiVVo2aXNUVTNqV3I3QzhMQWdRdktQQ0lYRVFBZ3phLWFnMDhNV2FiNTJJdFdPMkVHWDZjeFRWZjE0WW1hQmRxQTRhcVRfOTFzM3phLTV5OXFMV0pENnJzSWtFaUlRcG5PRTl1bi1zZGtZSTJn?oc=5",
@@ -818,6 +850,22 @@
         "summary": "اللاعب Ismail Essabah - الإحصائيات والسيرة الذاتية Kooora",
         "player": "",
         "content_hash": "b864df22e8026094374632753dd8e0dfb67fc791d9fc6ad0614fa4a76be4e237",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8052,
+        "title": "دوري الأمم الأوروبية - المواجهة الأولى بعد 20 عاما.. فرنسا بقيادة زيدان تتعادل مع إيطاليا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMilgVBVV95cUxOdk1zSWM4YW1mcWJPeS04RUxJd0tuVVJVaWtwR2NCTFhycUQzRTdsRjhtNWFWWGxmbnh0NkRweUxSR3VkZjM1Q3k2MzBsU2ZlVHJxMXR2ZGpwZy1pNkpXU040VzdVYjItcXJWOEdseGpjSWFzVC1ROE9lZm50emFxck1adzlBQUViS3I0Q3dVWXhPckdfWTY3anJmX0lEalE1YnZDWEhwTXd3NGE0Y19MVnd3YjBUN3ZTZjVPelR5Q2VwMUxqS1NqcjRPamlxWVN3d2dtRy1ITFEzNVM4c09mYXpaUDBRZklkZ3RBdEVnY2JrcHBEdWxlcnZsQ3N6ZTBjOGNDYUZ2dEtDTHNXb0x4ZVRVMnB4SnpFM21jMjFFNDJuQ0N2Wl84ZkdobWtUcTV2MWJMMUJDQnpiaHprMHg5TjlwR1dIZlhMSHZIWGdLeXdKTUNSQ1lfcGRGMUVabDdiTE9RSEtMeGtmT1BHeEFCOExGZEZYRzh2TDJjT0ZOSlFiQm4tb1ZwSmotNVdZUzhRV2hLMDk2d1B4cUt3LWdIbzJhSVRzMWhsUUhOYmNhOHVlekdkXzluelJoYkhZLW9nSm1WTGVjVU1fZEZiaS1VRWotNEtrMHlzbU4zMGowaHI3ekxaaVo3OUR3bjlnRVpYTG52ZlFUeEhpZTdfQVA0R0h5WmNZdDc0TkJWdnJvUDZ3bFJDUUx5UkwwaThBMWR5M1VpZ1J3R1hld2ZUQUxwaXdnVXU2czlKTzAtN3A4b2ZjdjdSVHpUQnVhM0NnOHE1eXV4aFBCdU1uMjJuS0ZTMDk4djdnRlRZaHdMdW5PdG5HWFpxTDdva0xSdkMzcngxQWhKZXpoaW1XOWZnRS1QWEV0RDRfd9IBmwVBVV95cUxQYzdPSHBwYXNOOXRaNVdhWVAwMDR0bkpPWEdJVXZIa3pHcF9lUnFHeTJVZ3htNUFXcnU0RGMyMFB4TGRXdVhYYU5pV2tpLVJlc1BsZ0tKT1JwOEkwelJ6WTA3cUxQMTBFN0hERHNBVjMwUTlON1h1d2o4WjhjWkhfbnl3UExoaVpuNUFMVjdVZ1NRTXVYcGJtX0hEcnBPQXNSR0k1Y0gwZTUyWk01Q2VRUldOUGhaNFFxYjFfOC1zcEltQVE1V2NfaURPWVBLbVdlQXV6aFo5OEFPb3JIVkZSbXVNbjV2Q1NjZGYxNTVsTTlzczRDTGh1TlVRdlVTU1R6N01UUzJpcHptaHF3UUF4LUd0RVRQd2hiWFZDaHJHbi1NWUJIbTdvZ05NZVBkWFYyeEpLX3RncjQzdllKQ3F5aUdLVWoyaWUzN1I0eFBKR2pyb05rVURDR2NoUXV4NFdkeEM1UWN4dlVjeHBkQ2k1aWNxOHlkNkJDR3E5RFdtRGdBYms5ZU01SXBTZDQzZTFObWxJOXRGMGJlWVNtOE9vQ190end3NGtvaU1EZldscGVRS2JtbUt3MzZUU1dNdUszTU9zczVsRlUwRy1JTUFaX2JPTG95YzVSLVJwMVZpX1B1dlZpcUZtdHlJeEJzc3E0eXlOalY2cEN6YnVkcVd1Z0ZzbU1Ub0ExVWFZWGhBUDFJSUluRUJCUmN0cWFmTjAtcTEwTnFlUldzeE9HY2R3TlExMXByY3hJc3JPRHY5ZWd5VFg5clowSDRGMEdVV1Vab3hQSzI3enBDQVdhdUl4OFRiLTVZQlhsVXZMaHZxcmxFNzNsOS1FM19kYUdvaFJuUTVlUFFKbjB5LTJ6cVh0MXhaZ2tMOFlkWXNB?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 02 Oct 2026 21:01:00 GMT",
+        "discovered": "2026-10-03T00:21:50.681586+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "دوري الأمم الأوروبية - المواجهة الأولى بعد 20 عاما.. فرنسا بقيادة زيدان تتعادل مع إيطاليا FilGoal",
+        "player": "",
+        "content_hash": "c062cd8d66d2b6c0bd6aec66a519fc9c22f7e8cd516f0e126971b95fd31bb0a8",
         "sent": 0,
         "section": "sports"
       },
@@ -1426,38 +1474,6 @@
         "summary": "منتخب فرنسا تحت 15 سنة يستدعي نجل بنعطية للمشاركة في كأس العالم ومهرجان \"فيفا\" Elbotola",
         "player": "",
         "content_hash": "827f18cff244a2762c6196990f98209efc749cf20a607a6a852274a25668f591",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7954,
-        "title": "مباشر مباراة فرنسا ضد إيطاليا في الجولة 3 من دوري الأمم الأوروبية - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxObzlCWHByV2otUG1zWUpCNWx1ZUZhZGxUaUl1MnUtS1VxaEowQXVlUlUtMXlSVF9MY0podjVYdW5rSkNKbXNUb2dzeXNZQlk2c0tDbUpOaXpkZ21ocEE4VzZoTG9DUVA3VHFnN0V6LUJrbVFubmRmSm9zcUl0bzY3NElra3ZDRU0wT2xjaWVMc1lHSk1XdV9NRmVzT0xaVjJTczdYQ0o2ZExER0JTUXg3OUYya2c1aS1nQWRRMlVwM05FaVFtOW1aTzBOSFpIWnVTUGJqZzZvcjZ5V1c0bnBvRWtib3lza1VpMGFZamVjZTU4YUVlRmpwWXNRMHNNM3g2TnBsUHhZQU1CLTFuVUJJYUN0Rlg1WFExX3lQdThSNGFBV0h0Zkg5dE9mZlFwUmFaOVZ0RFprWU1IekFJTDlJYm5DVmRKNTdSSEhXUmo0bWpWWWVWeS1xZEd6TFRBdFk?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 18:02:30 GMT",
-        "discovered": "2026-10-02T18:58:46.044615+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباشر مباراة فرنسا ضد إيطاليا في الجولة 3 من دوري الأمم الأوروبية 365Scores",
-        "player": "",
-        "content_hash": "3caef372b737c12e4f4c97c2564eedf23ced765142b79d6c85afa49ccdd3c9f2",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 7976,
-        "title": "البطولة: الوافد الجديد أمل تزنيت يحقق أول انتصار له في القسم الأول على الفتح الرياضي – اليوم 24 - اليوم 24",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9uemJDZ3lDdnJ5RjNLdXJRdmV6Q1hhQjROOEhUSzdiSGxPcnJENXlFT0JkbldPQlVDRUhSTHJwNEs1YTlXb2xIMFh3?oc=5",
-        "source": "اليوم24",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 17:56:21 GMT",
-        "discovered": "2026-10-02T20:00:20.937167+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "البطولة: الوافد الجديد أمل تزنيت يحقق أول انتصار له في القسم الأول على الفتح الرياضي – اليوم 24 اليوم 24",
-        "player": "رياض",
-        "content_hash": "eb52c3bd138bbd16d10af4d14b79a05497a756b64e11139cfa257fdf32eaebf3",
         "sent": 0,
         "section": "sports"
       }
@@ -2392,22 +2408,6 @@
         "summary": "وزير الدفاع البلجيكي: أوروبا راهنت طويلا على القوة الناعمة Euronews.com",
         "player": "",
         "content_hash": "dec3b7813e26a507b669a0cd1e1e2361948a8c1cde63e664902576746f24a587",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 7556,
-        "title": "\"الضمير\" تقدم بلاغًا لمقررين أمميين حول حالة أسرى \"راكيفت\" تحت الأرض - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxObXkxZGx6aXk2RkZJalRFZ1dmSFNjaDNzd3Z4bXVGM0gwM1VPal9RWUE0RmJjTFhMR1FqRDVTMUVYZ2RhTWNVZkVrU2ZqbF9OUE9zbU1pWjZVdDRpR3NldkF5NFBuaUdWXzMtdnNJZmo5SkRibXFNY245NGdOY2lpNUVMQ2tnOUNRQ01ieEhSamdUUEE2dkFNZ1ctQTNselE0OF81UVYxNFVWc2daYjlCTUtlN1dvWmVEVmtIM1I2Nms2YmZKa3JrMm1fOHFmZWJITzFGTmh6bzl5a3JXd3JaVXFqaDhtTW9MS29nXzlSLXVhWmJWTUtNaVo2N3k5MnE5azdYcnRIZGtTandkRUFaUUVWM1FCSEFuTzZ2Y0NtSTByQjRuOVVjZFVvUTJtUWhHb2RmSFhhRGNLQVVkYXc?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Wed, 30 Sep 2026 12:18:17 GMT",
-        "discovered": "2026-10-01T16:02:47.051214+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "\"الضمير\" تقدم بلاغًا لمقررين أمميين حول حالة أسرى \"راكيفت\" تحت الأرض القدس العربي",
-        "player": "",
-        "content_hash": "847445152090e53151dfed84fd90ee92ad52bddbafab95ce799bade770f88aeb",
         "sent": 0,
         "section": "world_arabic"
       }
