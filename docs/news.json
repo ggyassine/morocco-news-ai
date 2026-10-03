@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T10:12:32.067376+00:00",
+  "updated": "2026-10-03T10:27:59.927357+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -677,6 +677,54 @@
       }
     ],
     "sports": [
+      {
+        "id": 8147,
+        "title": "بعد مبابي وكوناتي.. لاعب جديد يغادر معسكر فرنسا - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQRFE5WEpYN0VDYVJpVGFwS2s2Unk4NUIweF9xWGd2c2I1SnRZVXo4VWQ1di1tanpfNUdWREFiRm82c2ZNZnUzLXVCQkRNNjVqNFJYdnpsYTVINEZIaUgtTkRUTU1vWGdlcDdxTy1EbHRUNlVrS3FUdnhjeVlPZUFmRVQ1XzNRRTgwZnRPcG5XcUEwV2UzUjJwcG9JZW9sX0FnSVY1MmJCcXpFTmZ4Yy1sTHJOaFgwaVJJZTBObkxVVTV5bGNJUE4yVW93aFowUUQzS1k4R0pQQk0wVFdrTGZVN241MzRNdGZsMFFaVVdzakpTRG1qb0RreGw1bnpfRFpTX0tDWDZSMEF0VFJENmZoVm8ydkl2eG1pQjRtZlhhaTVKb0RJd2RSdUdRdGJCOGxVeWtWTms2NktmWnVKUHBLekljT1N1NU93X21scmVpY0c3YTg1TlJyc3BnSURyTThhb3dSWVNJZW51R1FobkE5Z2QxVmh2cktURzFUZlU1clFlTHlXOHA5Yk94bWhKOXBEamVrMmRqdDRWbS1vcTBrai1MZlNqSDZKNHA5RkZrLWpya2dEMkVmQlhRMkRjYWRSZ3R1MWxFWlBJQnU1MndhaFM2SThiY2pUTEp2YXR5UEh4QnU4Z243bnpvaVQ?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sat, 03 Oct 2026 10:18:03 GMT",
+        "discovered": "2026-10-03T10:27:36.868461+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بعد مبابي وكوناتي.. لاعب جديد يغادر معسكر فرنسا Kooora",
+        "player": "",
+        "content_hash": "2a0c137e48ad91f93c8dcd24afef43c9c0525b233339e0b5aceaf1ecba81f1f2",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8149,
+        "title": "في الجول يكشف أسماء شباب الزمالك المنتظر مشاركتهم ضد زد في كأس عاصمة مصر - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxPWlNxOHdzRXVGSzgxM3lZVnI1a2FPY2t2Y3RXSFFGMlpTQWp1ZmQyTnJScU1iRjN3V2YyZEZSNXI1Z0E5QUNaeTdJeV9zSHd3cklVZk5sXzNBcndUUXBvUTNFbTFCc1BXRFBGNGwwUV9XTllsYUdsU3R2MmdXTkFOS3ZBOXFpcUM4SHRHaUk3ZmFxaXRGaGxLR0JNTW1Ibk1WOHI3UWlMMy11Q2llWEcwZGp0QlY0ZWZoWE53UWNrUlJFOGhTcUQ2Zlk0QnpLcFlXSklKUDlFeEFlV3dRQTRFdDdXSGFISkhyY3JIbXo5VmQxalctYllOTU42bko1di1CaTVFT3BxLWs2TlVGeEdxeUZyUEI0a1UwZ0l6RDZWSW1wUzlRZkQ0T19TSnVEWVFWQ0p2MkRPeVV5Q1A2TW8tVnE1V0dPY2NibU9wMi1HcnV1bGNXT3pxbGt6d1B2YTFhM3JZc0ZsRHBXRG5vT2FUczBWUGVqRmxoV2VGLW5YQjhKaWhvQy1nSzhaS2dZU2p1VUNzMzFfMV8wbUZnanpzdXYwX2RUdHlWcl82eWkxeHpJbFBKU3FaZ185Z1BUc0liYWRuUGk5OFNKX1kwdkRpYVNBYmItbTdicVhqdnhKb0JkZ1FFeE1lcEdyNjZhMkFyOTJaajZDcnNialhfX1oxbncycWRvR2NESXdibWtFdzVONFNfaHBZN3VWem1EdkR6M2VQWTFzYng4TzhrVnN4QUZBM1dnNGNEc0dF0gHABEFVX3lxTE5Bal85N3l2aW1lWDBOaWw0QzFzSjdIcXhGQ2JaWWRLRGc1X0g3ZjFyTUNyTHlNVVc3NzdLbGdPWjdJdDJfLW1OcVpRYUlNcUVHdV9GSVE5clQ5MWVUbEczNlh3NFI5REs1eTBwamFiWFdlT2xaWGhiNlowbHF5dkpxdnNxQWVYN2VSSmR5WnlRU2pLRTBYWU1aR0JQakp4WFV2dVF3SE5tMndfb0RtR0pzVGJ6bGN1aS1wWmhUZW1DQWItSGtnNHNTNnRIMUZDa1hEVkdpak1GVTFGVVNyMkpPUVY3REllaUE0ZzM0Z19DSXNqVkF6V1dWVmp1UEZjdTN4RGVFZVcxOXRwMGQ3elZNbU1pbFgyRWZiVXdXRlZXUXlUcmVnYVBsZlcwLXRaSWFjLTFmbkxEN0x0Zi1fNTBPbnM1R0V4NXZKcGRTT3RoRGNtb3RxVGR0R0Q3VFRtZVdjeElGbmt3VF9taFdSY0FZV1dHNzdQYVJadEROdWhudFNkN1VIMmNvWkFhcXROZTdibXNjZ3ZJMlhxM2x4NmNHeEhoTmF2MExoczdKVEZHVGVwMHFqd3RRV011Skt3RDZpVDc3Wm9KZEc5eEhLMGg5MVAxdlcxLXVHZ3pRYXR5cVY3eGQyUFYtQXlhZjJpdW1kcERNdjVYYVREY0I5UURKZnJaN3kxZ3FYbHEyNWlTcHYtRTJIY3BReDJlcXNxU1pVb2V0OS1LOXZ5aGNPbjY3RFFwTm1KbnRHdTQ5OXFaRA?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 03 Oct 2026 10:13:00 GMT",
+        "discovered": "2026-10-03T10:27:43.119626+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "في الجول يكشف أسماء شباب الزمالك المنتظر مشاركتهم ضد زد في كأس عاصمة مصر FilGoal",
+        "player": "",
+        "content_hash": "869bf35bd7d6f6e6928f75137a012c2624ddc428f9b2d1892e8e36c76d38df77",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8148,
+        "title": "تحت أنظار صلاح.. طرابزون سبور يستهدف نجم الأهلي السعودي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQcEg1elU0LU1Tc2dOSm9mcm0zSHJXbFRDSE0xajY5bDZOOTk5T01ZOEs4SE56N002YjFBbkJZbENDYWJHUG9GZC1UXzlscjU2c0ZEWWJvMks4aURhbnRaMUU4VWZWY2E5RnRtb1JOSS1QN2ZkR0V6M096THZDNXdmYlNlT1NaYmdxSVl3aWJKckZpWUJ5WUYwaE5Jc29KdDMza0ZfcUZCRmNpWlVrYk9uOFNiTEFlQjBzS2J4T1MwSlpuSmhnV1k1dHJEZkNXak0wbUJJYjFCdzVoX09HOXFETUY3eUlRang5QldiMnZIc3ZMMnY2SzlfbDk3MEVnSWNjaWJYN2FIOG9TSFNlN2J0a0JQdGlCRm1TRDg0UmR6VnFFa0tIT1UtZ1BkNUs3azdGbldnMEZGZVJ5SWlNS1BGVE5XQVZ1My1WX2VUamx1V2owQTAtMFBSenNpYVFYTkhKUWh1akF2bXB1bGJXU1luYndmRlJ6OGh5YlM1MFZBX2J3WmptVWJybHl5M3JpcEx0Y19UeUxDRkxqeFpSODRpYXZtUk4xM3pWVTlMV3g1c2d0VVJ3SExWZlJyRkRXcjdvejA1MjRsUFpHcW1PaGVNbzNJWkVBUENXY1E3UXo4Rk7SAeYDQVVfeXFMTUoyenpIcnRmSmVOai1qQVR4dEtuLVVoNnA0blRTRTdqX3BvTl9SM2dYWGI3WFhTT2FobFhHLS1QbFdPQmdXcGZZYjNjbFlKV3NsREZFc2VidlVHSDlkVnp6dnNHX202VEFHWENnTHF0N3psNXZqNlJzcXR5MzhXcVlUYzF3V1NqQXlIQ1JoZ1FMVkhBcUFzczgxZDJJZ3FzRF9uUEo2M3BxSW9ka211a3RRbG50UnBBY0plZlZTaG5BU2ZHRENaU0J1REloRGxBdHJpM3J5R1loMXg4cGs5YU13T1ZfMU56OWVuVWY1emdQc3BSY3lvV1FTMEEzYTFiLU85eDdlaElrUnhTY0x5QlhlSl9Nc3hycUpXUWdTdmN1ZHdzNm9KQl9UM243NFJFdWM1Wlp2U3JvQTZQd3J6T3BGb2VCVlRPMU5USmtUOG9EWGhBS2t4cDgwQ1JhNE1ncFBobmNhd1ZtMV94Y09FY21ZRHB5aVVuV0xQQjlaS3M0MmxESng1TzJIUkN1SXlka3FtQkxxTV9VU3BtNldMS0dXbDByOGtDVEZ3WTRKeFg2eDlVSmpuc0U3eUlLRTgwUkJLN1pjVEhZdTRndmU0V01QRFY1SEVvWktnSVd2TFl0MlE0bHdB?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 03 Oct 2026 10:11:00 GMT",
+        "discovered": "2026-10-03T10:27:42.348260+00:00",
+        "category": "الرياضة",
+        "status": "اهتمام",
+        "summary": "تحت أنظار صلاح.. طرابزون سبور يستهدف نجم الأهلي السعودي يلاكورة",
+        "player": "",
+        "content_hash": "6fc12dc5dc8cd9ce94476bea33d1e50762fea14666676a8f3bb25954dbb83898",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 8141,
         "title": "تقارير: استبعاد ثنائي منتخب إسبانيا من مواجهة التشيك - يلاكورة",
@@ -1426,54 +1474,6 @@
         "summary": "خاص winwin.. الكاف يحرج تونس بشأن أزمة نقاط مباراة أوغندا winwin.com",
         "player": "",
         "content_hash": "4800d1ec78f704cce17cef75e0818232dc567f43971b5fe4a6cdcfc6d1980f9f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8077,
-        "title": "شكيليط: (مدرب أمل تزنيت): \"عرفنا كيف نسجل أمام الفتح وهذه النقاط ستمنحنا حافزاً لمواصلة العمل\" - Elbotola",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BckRhaG9pVTRNdl9tdmhydHd4QmpNaTlNc09YTlNOcFlVQ3dSYWRNTk5Ib1huT1lOdlpJa085MkoySUxDY01pZGV6RlJQaTdqc0ZLSDZQby1nMDBzUUdIRVRTelpneDJq?oc=5",
-        "source": "البطولة",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 20:50:00 GMT",
-        "discovered": "2026-10-03T02:35:08.677574+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "شكيليط: (مدرب أمل تزنيت): \"عرفنا كيف نسجل أمام الفتح وهذه النقاط ستمنحنا حافزاً لمواصلة العمل\" Elbotola",
-        "player": "",
-        "content_hash": "8d24cf37dcf660a4ddf7f16fd1fa49bf96943af2c782d2af43e9adeb82324de6",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8080,
-        "title": "فرنسا تتعادل مع إيطاليا في قمة مثيرة بدوري الأمم الأوروبية - Elbotola",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41MGtvRm1LakVfVzdnWm9DY2RKUDRzcDU3Z3h3a3lPcE9IZ1FFREgyNmNNVV9pRlllZ2pqTTJFMmhSeTJIdEU1VW5Pb1c0RGZUVWJIRXdHS1YtcUxfem5xSFc3WllEYm85bHc?oc=5",
-        "source": "البطولة",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 20:44:00 GMT",
-        "discovered": "2026-10-03T02:59:18.125569+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فرنسا تتعادل مع إيطاليا في قمة مثيرة بدوري الأمم الأوروبية Elbotola",
-        "player": "",
-        "content_hash": "6b8c85d7adca160a9fd40ecad24d3a7bd3ab7fcc25c29a5a640d589f9765f653",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8009,
-        "title": "فيديو: أوليسي يكافئ زيدان بهدف تاريخي بعد 558 يومًا - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxNa3lKRGE5eUFycFhJOG5Nal9xWUVOQWtsMmpiWm5fRmxOUktwbXFVUzRXUGlXSm9MMklBMklDUWc3SkJrN3VCUUl6cWJ1bXlMVzJ1Zm9nbkFCZWkzZEIwRlphMmRKZ0lRMS1nbW5RQWtkM1FjZ1pDb2xrOVJEZEcyT2h4ZWtTS0xaNzljNnRDU3dhZUE5dENETW4tek8wLUlGRmZyT05QbGZHTnQwNENKUWgtR18wRFR3b3JiR09vRjJINTE2SDRRb0NwNHAwalRwUFVZdEZEaEQxZVlhQTlLQ05wUlpqVl8wMWE3V2ZMMDY0bC1FbEMwVGYwSzgwMjcxbVJIR1BfUGN0dl9WMVM1WVhEanltMDZiTVRhdGRYdzdweEg0WVJsTnhuQXJQejhGQzdtNHk4LXFOdXZSSGVPM1hjcndBLURvWU1Nd21Remo2OXJkbmVkdEItMGVpT1lxYllZclhyb1lVbGxuQ213aEt2OEFiMFlDanNTaUNQNkhZQ2F1UXQ3cTNYbzR1dG1NWDNfVHVoUlNYZ0N6RkxjekFGbk5Pa2doMy0ycUJvNG5OQ1pWOF91QWRIZEExc2gtUlpOOXRhX3VmMEUtU0xNT2NMcDJDaVhmd2ZtRFRwcl9aQy03dVJfZnpWNkNDU1UwZEdaalZkUE5YS3ZZLVRvaVFFS05fMDFV?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 20:33:32 GMT",
-        "discovered": "2026-10-02T21:35:24.747590+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديو: أوليسي يكافئ زيدان بهدف تاريخي بعد 558 يومًا Kooora",
-        "player": "",
-        "content_hash": "709f3621fac630cecb182fd1142eb7d68c561b04f345d0da3a38d710dcd796d8",
         "sent": 0,
         "section": "sports"
       }
