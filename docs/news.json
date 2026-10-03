@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T08:39:50.082437+00:00",
+  "updated": "2026-10-03T08:57:59.580718+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -674,6 +674,22 @@
         "summary": "بعد اعتقاله بتهمة القيادة مخموراً.. معلق CBS Sports توني رومو يغادر الشبكة بعد 9 سنوات CNN Arabic",
         "player": "",
         "content_hash": "a862be6d36fb1d8b4a2ce124f270b0c1465fb91d7f58490a4a91b96f19eece69",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8132,
+        "title": "من إرث الأب إلى اختبار الصندوق.. حظوظ فلافيو بولسونارو للفوز برئاسة البرازيل - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOUVVfU3R6QnlweWhDUUFNTkVPWnpJeUVOeW40SlotRWgwdUZ6ODR5NTJ5blRhSWlhZUp1MG9qNHJRUkJ1eTNtUVRLMFpjX2ZKTDl1c0tWTV92RzY0QzNSU1hxN05QaGlJbGJzNU5SWXo5MWx6ZnhSUjdzR3JES3AtVUJWUlRkRjJLVFJHV0VNY1FYLW1SUkttdjVxb1pxbjNrNEdWQXhsbTJRbjI0NWh2Rk1PSnNXNzZyUFRCd01iS0xIR3ZKbms0VXBrdFQxd015eVJCeng2b1BKeURvZ3JtTEE0S1AyUWdqT1JxSk5TcTg0bHREUnlCRFU1LWllVWRySm1zbHNudC1aM1dzTFFpRUhIamVyVGc5VjRjbUFva3d0YnV2TkZFMWt5c0xpTm4tdGVLUVNEV1pDbFNHeGhkazZfazdETmY10gHOAkFVX3lxTE5jUXhuck42T3lnYU8xRktkU3dDM0pPMVg0YlhUemxjaXFUVE9iZXRIN2F5X1dNOW4tSDlGWkw0NGlMZmFGbzZ4dC0wVl9Ka2xhcWxSNzZvNVp2cTNwTzFwczNxdkFiUldheGpzTTdsNXI2RWpIWUs2alJsOFFjN1g4TnoxdHh3WWdaTGIxV2Z5djNxclpFZUpQNURHQ1RQRGhmMGlobG93cWg3TUtma2w3c1N2T3NMQmFtc21QY1NVRnIzZ0Nzd2h0QVM0UkFYRV9YQUhPLUJyNjMyYU4wNVFsaHRlc3hPRUZ0RE9yS1FxZmZhZFNkdEY2a2sxdER0enR6RGdfR2pxZWJPc1pHRFhSa2ZobXZqRG5KbzdFRU1MRnBMSGFVWWpCQmtHYnFycGxob014Skl0aWdqZk1mRnEtUTNWSTdyOGlTNzc4UGc?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Sat, 03 Oct 2026 07:57:53 GMT",
+        "discovered": "2026-10-03T08:57:51.703301+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "من إرث الأب إلى اختبار الصندوق.. حظوظ فلافيو بولسونارو للفوز برئاسة البرازيل الجزيرة نت",
+        "player": "",
+        "content_hash": "c42dbf9be1fd44e4c3b7064bbbc1be71ef49795334a70004ddeb34583b894ceb",
         "sent": 0,
         "section": "sports"
       },
@@ -1444,22 +1460,6 @@
         "content_hash": "97a8fa2d0b6a18366492f183392576918007a6d945fbd2162338a0825e250f44",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 7985,
-        "title": "دوري الأمم الأوروبية.. بلجيكا 2-0 تركيا.. دي بروين يسجل الثاني - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQR3ZZVHByQlhvMWFQbC1rRTJSd29GM1BHQkdxUWFxQTNSZjVCeE9SNmRWRFN1SXJmNW9BU3I2Zl8taXBvaW5EZlI2RkJQTk5OT3B6cl8wSzBCY1ZwWWw4bnZkbkRNa2hOZl9Dc3AxRVRmYmtvZnRKaDFKeG9rZVlEMmNwNmVNLU9rcTBkdzdOSHQ3T3BqX2RBTlhMS0VrM0RiUXFJekxOUnRCTVVLb3VfaVhvMEhUN256X3NwV0RJZzJXR01GT2tSMkJXS2gtcEhKRXlNa1k1VXh1UGo2X3hNT3N4Y0lqVndYaDlUZENDUWUyUmNuWWJMRFVYM1UyMnlpcUpsWUw1X0p2VnhXVzBBY1NZbThxZl9jVFdzRnFjRG44bmJGMjhWMUxic3NrdUhjS1NBbjJONnFQTjVDV0NWakNONjkwTXJlT3Vab1l6SjVMcnhMTmYxNXZyU3BXMnFhZ2ZmZ3czbXZmUkhaT2hYZWxTYlNCeVBGeE00Q3hiZkM4MGVNVGllQjNkNVNYZVRwOFF1SVA0M3h1T3Btel8zTFpYdTJ5RUJJSGM2RDE0TzRCUno1UXZXN1NfV1hRWWtESjJFc2VaZ2liRlM3MkZV0gHUA0FVX3lxTE5fYXhxeUtrSVZ5eENxM3d3YVBiWWxiakJ3SHBMNzNVaDJwazdFUDlDcEM4X2gxcW9ydGFNeVNNd3FqQnZ0ak1oWG5ERlF2ZnhkMUYtb3NhSDNnMW9FMEd4Ulk3WTFPYmNQRHBBbkxSMGc4VXlEUXVQd0JIUVpTMDQ4dVZIVzNtZ2RwRHBZZV9tUVI1SHc4b0NLcnU4MHJ1YmNPbjVFSzc3Qm1ESjZINllwTWExNjNCMXpCcW5mOTF1OENFYnhkT09ZeW9YLWc0ckJGb0RWVWIwLWFHTVBPRDktSjJnbzFqcEZCQ3JqM2I0SzVOQXd0eXR1Z2dsaVlyc0tqdTIyVnZNbmlUeGpXRlJzOEJpT21hR2ttZ2lmUGFfQ0ItS2lvb3MyR2lTMlVfbXM3cjZLR2RoS1JHNUM4UWR0ekFmYXA3aDdwZXE1SlJDRTNZX0FoTFk0UjZGS2hOUzFhVlk0S283RUdNRVlzRWRCRDlBSFFHWWcxRXBuNjNPRFVOV21LV1dKd3BySTRrbnN2YUhnVGctUTJSeFRWNEM1N2V1R21ocE5sN19oVHppbTlzanVnYy1XRzV5N3BVaHdYVHUxay1oRW02cnkzQmYzRWw0bA?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 20:09:48 GMT",
-        "discovered": "2026-10-02T20:18:25.379127+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "دوري الأمم الأوروبية.. بلجيكا 2-0 تركيا.. دي بروين يسجل الثاني يلاكورة",
-        "player": "",
-        "content_hash": "88296234caef6711f2dbae71747be2ec21dd5311afb37593c8fbd89b4eaa3719",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1912,22 +1912,6 @@
         "section": "transfers"
       },
       {
-        "id": 7632,
-        "title": "الاتحاد الغاني لكرة القدم يعلن رحيل المدرب كارلوس كيروش عن المنتخب - جريدة الشرق",
-        "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxPdU1zV09rUDF4b3ZDaTh3YThWTWNkZC1rMjBWSEpkZXZYUHc2cGYtSURjelMxOXFPd3BDenMtYUVvNXFteTRKT2FjS0VzVFJ3a20xa2Q1N1hFTmJTbXh6ZDlLSU5OUndSZS0yQVBYVVBHb0w0MFprREhUZnBtaFJwN1BGX2hkbmM3cDJHenpOc3ZHN1d1dHNOT3NUT2M2cG15VlIxQ0d0X21BQVJnRW5ld3dEel9oVWl6MXlLRjA2bWFPdnB0SEp4T1BCUWk1aldTMmM1c1FMc3N3ai0wVXo3RUhmZmtjdVpFSE55YmlXV25PUkdaMUlvVWxLUTZrUkNhSlR5NW8ydUxrcnpLd3JOeDNmOThUMnZ1b1ZZOHpOb2hJNjVnc1dLZjdPbjBQaUplaWFGcHpzZVoxUDA2cXNPZWZmNlBPbkhwYzlEaUlTVm5zMVBfNWlEU25uM3FTWDFHUUFDVTFBQXprS0VIWWExUGZEZE9EdnRFVW1JbEsxTFRmaFRweDMwcU1EOENaRnRrRURTaWZJdnN2M29UNXd2eUNsWlhIN2o4RmVxMHlIazRWaUNvQkhEWE5VY3hrQjFINWJvWi12eFdLNWJ2emNtNUMxanNVTkE5NTVIaF9UY1FTTDAtVFE2N1hlUlUyZTRPSkgtTDE4cURFVktPdEJNSlE1YzhSd3J5Nzc1MnZaU2ttMndYakJSSzk5LVY4Z1E?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Thu, 01 Oct 2026 19:13:52 GMT",
-        "discovered": "2026-10-01T20:37:13.436168+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "الاتحاد الغاني لكرة القدم يعلن رحيل المدرب كارلوس كيروش عن المنتخب جريدة الشرق",
-        "player": "",
-        "content_hash": "0b83b1b69522b2db6fec4e9a5efea597e349e72b9dabec599f63dfb04e29e681",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 7808,
         "title": "أوروبا تحكم أبوابها: مراكز ترحيل خارجية وقواعد أكثر صرامة بعد صدمة سبتة - DW.com",
         "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxQOE0ySHNvQWcwamt1a0VXaTZoTHdORU9IWFRWdlY1NXFHdFVsUVphbDk3Z01ZbUNtaE5rTTdDaUhtNWtvSTZjZWhSSHlSdGxBWVBQRWc5U1VhNXE5aGEzZVZSOTg1VWF3LXJuQ25nZm9UQ2ZCMnZqdGFmbFFrU2YyTURDM2NxTndxNDBPWlV1T19vMXRiNENJQk1rOXJFLVpodFFFLV9xRW1TalBmQVVoS0FNRHJBX2p3WGxDRGllWjVodUtaVXpLS1pOZi1ERDQzOVpzYWFNQWQtTTE1VG51TkpkS0Nkam4yMmZ4WHFBTTF2WFFQWEF4cXljYTRvS3V0UEhRVW5WdWpZckhjejExX3FIVkdlX1hVQXctVVROcEZJZ2cxNXZtSFJXMTdvXzcyOWVBcW5PNndRTjJtb2NuaGd6SFJCWURSWlplZ2gzSkszS2psVFJmUnhUai1lNlVWN0M3Um9kYnRqVUdrRzlvSmhHaXQ4YVBMZ2pzaVBkS0dzWm05OHhyRWs2eWE3VzFCNTQ2NXJ2VnlUSDVnQ0RLUUprOUE2WnpNeGFTVExibTUxUUlUN2xUdi1WVVdTcTVGa0ZibGhZNFhXSEhjRFFacGx3UVFLMm9BZktEQS03dnpMVWZLV2JkM1d2X2Fqd2VYS1B0WGs2VThUd2kxa0E4UnMweHo0bW81X1NaakhJX1RjY1UxME5aZGFaTTlLSEk2ZS1OLXM5NkE0c3Qzb2xV0gGvBEFVX3lxTFB4Smh3ZXNQWkFONG4zQk1YalllZmpka0dUYlphcHBHbV80ZktzYWh5UXNXOFhpNUJNY18zMDBXa2xiZmh1UFY5a1J5OUU1emxzanZkQ2xWV2tQYjJla3N2UDRHSDQwVGdaVEFnX3E2M2trTml5QTdyblhJYUFSRkl3cmp2RXRJYll0ODVpT1pLa1dYMXlvNHo4ekFNOXd1MWVtbTRuNERBQTk2bnlUZGlBcjh6Tl9fTF94NlgzRW42c0ZXdHBLX0ctazRvemRROW1hQjg3dUh0bldnZ0FTbC1paXlZVnN0aHpfRERRX2FQSkN4VVl0Nk9MdU9DYzJFYkJ2cXBMUlBmRmhYMmtCb2JZV0QyN3pUMW5wQ1ZvU2lvMjNVbU1NSmdqMWZZVjdWUngtSmE0LVc1Qk9KZkI4cHZQU2ZTeVNxQ0ttOFlMTkRCY2t3dUh4VDV2M2UzMlhURUJsMTFxQVlrdHZBakhqZWtaMUNtU0FuVFVla3I1d2hKVE9UQkxmejBXdmVubmdkOE5WcUhsYjZfejEzR2RUaDRKUVNnaWpDaXpMT2UzX25TenhKeGFhRXU1TnJHN2pKVGxwTkZpTUI3MHA1S2ZVTF9CTlBDdS1hWWxQdUlaSjA3clpXaGZDUWlHbVZVTld2Zzg4Yi05Z2VranBrdlhQaGE1OWF1MXJOaFBSbGRzajZVbTFJRUxtNV90cUNGU3FWUVo5dC1ISElMb1dETEpiSFE?oc=5",
@@ -2036,6 +2020,22 @@
         "summary": "توقعات ببيع 6 ملايين وحدة من آيفون ديو القابل للطي قبل نهاية 2026 العربية",
         "player": "",
         "content_hash": "e0b3f0e8cdb4ebad43e09bd8f9b2f9b8937fac477afca493c4839a5f73ddf665",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 7799,
+        "title": "بورصة الدار البيضاء.. تداولات الافتتاح على وقع الارتفاع - | MapNews",
+        "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxOWllnSmpnWl9acmlRZWY4R0pabG9LZXVhdmJhdUZORG1ZOXR5eWhiR2p4ZjljYTNINkFpVEk2MlFWR1hmRGY0dmE5RlJScFFvVGxjNTVUdXN3cUFMU0YwelZteHBjVEEzYXJPRDZBbk5obVZRWEwzQVVEb0Zvemx2MlhKeFVOb3Q1RGdSY05xMFNaZ3R3T293aWhoXzN1MlIzc1NUWXVFSE1UV2swaE5hbVBDWkw5VHQxSzRfbC0yRUhfY0tfY2dGNXJfTUE4VDRyLWhrU3ZiNjlMNUx6Ri14c2FkRkxkbEVZTnBjTDAtWjV2OXA1TGV1dS1jdVBOTXVQVmdLR3N4VjNieVZjYm9JQkM1aWl5ZHpLZmcwd3FVTzBadXZLUHpDUWdMRTRGU0QwNGJiY1FoRS1QdHp5MFdCdHhFQUVmTVFZNzdaQXJRQTVsZV9UNHhmM016M3JKQ1BZUmhtLWhXTjY3NVZPNmg4Z3ZxSTdBS3RFLWlKdjRIcmVxOW9GQXNwTzZVSGxtQkRDY1hLUURJU05vd0pKUm5MQWhSa0NxTTRIZjQ3SG5WeThtUld5Q3FxNkhPamhZV3V5S2ZxdmEtZU1ZRnBKTlh6LWYzUVdCZFZXT3hxZnkxV2tsWTRiRmZva0E0NEUxZEVjTDNWVWM3OWtsSllQdXc?oc=5",
+        "source": "MAP عربي",
+        "trust": "A",
+        "published": "Wed, 30 Sep 2026 11:35:54 GMT",
+        "discovered": "2026-10-02T09:20:18.623655+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "بورصة الدار البيضاء.. تداولات الافتتاح على وقع الارتفاع | MapNews",
+        "player": "",
+        "content_hash": "3e3deee17e656d3fa845cccbd3c5856e6839184893866ec9e296a9b0a8f44396",
         "sent": 0,
         "section": "transfers"
       }
