@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T23:32:45.394946+00:00",
+  "updated": "2026-10-04T23:47:14.456274+00:00",
   "total": 136,
   "sections": {
     "morocco": [
@@ -530,6 +530,22 @@
         "summary": "موعد مباراة السعودية ضد الإمارات في نهائي خليجي 27 365Scores",
         "player": "",
         "content_hash": "aba847cc62b6ab6f99b828d4088907d10f6bfad0821c2e317057ac715d534893",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8610,
+        "title": "winwin يكشف أسباب غياب بوداش عن منتخب الجزائر الأولمبي - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxPcHprTTlKYmROUkdoUzNHcU0xR3dMeERtQjBYcEtoaWZxWF83Z1RqUUhqald6V2laaGlJMUh0ZnBPNmNwVUprMU5UeW82TDR5UzRuRHRGeHFuS0J0UmtsRFBxR2FBQ2RPSTJQSHhlVXpld1lRdnR1RE1SM2hQMngzOUpZeEI1NENhbjdZZXJXOHNDd2w4TXhWYmJ4STZuOVVqX1pTOFRJenRoYzdDNkplQS1TRTVvb1huZHJna25DZW1TNWd3NnJSd2tubDNFb0YtbXVNazRUUkNkcWEtTkFJTHlMS3h6RFUteDZtdnV1Y1gtSmd4VmRKNFRMYlhyUTZsQk5wVHNfV0l4RDM3a3V4dDh2OGhOU24yLXNuaVhoRVQxTGZqaUZvSmlZMDhsSjRTbVlRMTVRMXdneG5veU5oMkFGM0RWLWFvM2g5ZkFSNHhTY1liZkxHbGRROGFHMWFwNGF1ZnJJbkpiYkFDdV9DSVZrMlpkM3otLXhmTENuWEdnZ3lpYXlTdjVNdl9DUnNDWmdTRDczT2hvRDN0T2FqdjJ1d2NCNVFoaFVtdTlaUkVjOExfa2dya05QZmpVSlVIWWZ6TlpYeXN2aFdO?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Sun, 04 Oct 2026 22:22:37 GMT",
+        "discovered": "2026-10-04T23:46:57.913040+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "winwin يكشف أسباب غياب بوداش عن منتخب الجزائر الأولمبي winwin.com",
+        "player": "",
+        "content_hash": "ab085152f6b27caae289a92691983e13bc6d7f5434889eee431815c448741a75",
         "sent": 0,
         "section": "sports"
       },
@@ -1298,22 +1314,6 @@
         "summary": "بعد الخسارة أمام الشرقية إنبي وديًا.. موعد مباراة الزمالك المقبلة يلاكورة",
         "player": "",
         "content_hash": "c075aad4ec9fa1cf497d60140e9c5a8a590613d2b3350184db4833eb16a35725",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8573,
-        "title": "3 أهداف في الشوط الأول.. الشرقية إنبي ينتصر على الزمالك وديا بحضور الزناتي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93OTFUTnNmRzZmQVdFazRBTjFHczBySjlRd2VuTEJBdUhNSU9ScENIenh3SjhMYnhtZ0otT0VFVTd4T0k0VElzQm9XRWJvbDVk0gHABEFVX3lxTE5IaE1kTmhrQUI2V1k2cDlUNGJCU1NwQVZfS2pKY1RkMkxqOTV4b3lxRldaWVBsYUJ2VThzNFVGZHlsaGtsNXJ5eGExVkp1NjJyVnJHZ0NOTDBjRWNWczJBa2doQ1otYlpVU0pNOU1VSjBOdk9LS0xZZjlZNkk2eTBQYVJzcFRoWTk4SUt0X0NPY0lnWDVtXzZ5elZ6S2tvUkpWWlpONWF1Y3Mxa29IeEszZkE3SHM2Y3NZbkctY2ljVWx1VGdyZ0JfRmRGWWpHQS12R2JKRkZVc3dkXzZ0dm9LM3VmUlN6by14cng2M1MtQ0w3UERob0RrVURwZ3NnV2k5UUs1V1VaeWIxd0x3V0w2VTdpX2REZ0NmTk9iNEJSVkxtRGowMU0ybzBPelRYd1NzTVpxaDZwOGZhbDZKSURmZDVIOXF6bW5WM05fZWxnTjdQWjRkd2lyREhMdEY1ZGM4NFBpSUpucFRxWGJqMERvQlNhSndDVUFxaE9zNmFJc1VVRFBGWUsxbmJPMHVDQTNveWVSbkotcC04UmFVVnI1UlJtQnBQY1ZsbFE3em51TVRGRHlVNzhLMEVETWNjMzVZb1JXQzV5WmVuaTh2YjRpak9ma3RSM0poX1dHNzI5SVdGQ2ZHODBzeUxmU3ZHdThtcDdOSFJJUTFfREgtaVpzSGlRa1FOS25kV3RLcnZkVTJKOTA3TkpHMi1IbDhqSUdGN1ZtUDRidEFMd0pzbFB4dC1sa09Lb05pSmEzVFVCQQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 16:23:00 GMT",
-        "discovered": "2026-10-04T21:55:43.776164+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "3 أهداف في الشوط الأول.. الشرقية إنبي ينتصر على الزمالك وديا بحضور الزناتي FilGoal",
-        "player": "",
-        "content_hash": "6f126968f29414fb445978471416fdbeb52202034f459ee6b1e44809d21cf19c",
         "sent": 0,
         "section": "sports"
       }
