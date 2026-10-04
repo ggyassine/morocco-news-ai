@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-04T22:39:49.369326+00:00",
-  "total": 138,
+  "updated": "2026-10-04T22:53:22.193682+00:00",
+  "total": 137,
   "sections": {
     "morocco": [
       {
@@ -517,6 +517,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 8586,
+        "title": "الرئيس الصومالي يكشف للجزيرة أهداف إسرائيل في بربرة وتداعيات تصعيد الحوثيين - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQd01oTVNELVd1dU5RTndyV29oek5XUzFfSGtQdWljTWR3RGJ6dGM5WllEZHBYOVliT2dHakYxM2JWbVdOeVBEaFZHam9HRl9RS2RNZFF2emZ6NEYzdEZWVHM2bU1fUURQZUdXa0JOSWdqV2pjM1hkZFl1VkpfSG9CVnhyN0JyUTRpYkx6alBvb0c0ellqeE53d3B2TDRYQU1meHlxc2xjUFllMTYtU21jb3pVb0NqdEVFWUQ1ZDRGcmhSQ2dWOURmSlZLVXYtRGIzOFF0TmhUSF9IS2lMQkZXY3Y5b3ZaUmpiZ01VTzVpMUpNT2JuMTZiLTRLODlqVEZYVkh0ejRaU0VpcUViNVhNQ2RhX04weVpoY2tUWS1rLUg3SE40N29DOS0xSzVuRGd2R2xma2Zhb0RMLVZiRzI0N2dfcTZaeS1ydmVwVUlMUUJlM1BCTl9oOHVTUi3SAeICQVVfeXFMUGMtRDI0bGhMWjMzUVc2Q2djYWxmeGd2V0t2RDN0NXVsdFp1ODh5TTJIQWhsZVdpbHBvSGF3LXdENkE3NWlfVlduUlJZMFRxdmJ1RVJSVTlSYWhtZUdwTXE4eFhBNlZRZWV6RUNvcDl5Tng0MUlBWm81ZUwzUlJCNUZuYnhFcTViR2piTEx2cWxKSUxmZ2xYVkJFM3d6UEVCV2Q5alBPOXEtc2VVcUpQSUthNExNQTVDMU45cDdmdjVaT1RkdXZnRzdCdFNoY0JaX3NQWTJpTEpJTDZRdGVKT2RoSUUyRnR6V2RNZFNPb0p3WWxWZVlhR2EtaHhsZlkxcVNQRnVCY1I5ZzVHMGZmanlRRjFfUWtIMzRzRE9IcmEwbm5pbl9sWEtLNHNCbVlSc1liUjRxUldFVERka3NzQnQ0N3FBU21rSFNqTEx4ZFhETVJ6ejFfNzlRelNNWXA0dDN3?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Sun, 04 Oct 2026 22:19:29 GMT",
+        "discovered": "2026-10-04T22:53:13.154512+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الرئيس الصومالي يكشف للجزيرة أهداف إسرائيل في بربرة وتداعيات تصعيد الحوثيين الجزيرة نت",
+        "player": "",
+        "content_hash": "b9c63a9f7754e73c4da164edb7366966729dccd649102c978387c5ac053d8beb",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 8578,
         "title": "winwin يكشف أسباب غياب بوداش عن منتخب الجزائر الأولمبي - winwin.com",
@@ -1300,22 +1316,6 @@
         "content_hash": "ee843e9537f2a3f92e1f93c38c5b5981fb4df78a32551a64cb207ed2e68fcd20",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 8461,
-        "title": "الكشف عن خطة الاتحاد الآسيوي لإطلاق \"دوري الأمم\" وتغيير نظام تصفيات المونديال - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMihgVBVV95cUxQS2w2ZmlleE9QcEJsQThHVmluZFJqVW9rZlJxUVhmUGE2VkU1T25tXy00U1lfZGgyeUk3anhlS2pvTl9FTkdaX3AzbWJNbkFuY3ZLcHNPWGFIZHo0SGoxMHp1MVgtXzhFSUNtUHZhaElGUnRFanRuSk5YVW5Jei15SlctdHg0Wm43SVlMSHpxNUtyTGY1NjczbTRtQVI2LTExd2ZvWmt5WHZRN3JyMVUxTzBVSUNPYmkyV0ZyR3dpdzcxbUE2R0tkYWc3QmtfZ0QxdlJVcHNTTWpZTHNNMUQzNmdfbzhDVHpuTWoyT0ZkREVEUWpScm85ZFpxbk12Yy15NjJheVJmUV81V0hTbjJaSkpXd1VLWFB2LTVoVHZFWnFaY3JnNlk3NDlBMlRTVTZYZzhYU0piVnI1RVhaZXgzUzZPYWFQUGt1bktVdVNiQXpWalJoV2VXaWZIRkV4bEJRai03TnYyc04zTWZRUkI3VVJIWTdzeEhFd1AtTlZpQk5TbGpua1NMV1FYWE5YUmhmcHUtUUNtUVRaOGh3Z3dWSHVKVnY1NGtJT1pjdkRyejlZTkdFZkxZSEZwY2V5WGRXZ3cySkJaYVBLWkZQYml3TV94WmMxemtOQnJkcjVNREdvTzBHWUhVSXpLbmFJNDJ3SVg2b0hqNlJUTERoWC1Nd2hjWDBWZ2JtWXpVNHBrai1IWFcxSnlCV0FNRFdMNk1qSkRCSmxWaUZodTZhamtMR3RIVl9md21OSzBrREMteE5Wb2dVWGdJc25xMnpXdy0zY1pqd20zRXpQdjdJUlBQOUNxUktxcFVDM2tnTFlWN01uTkRuc1pxOW0xTW5RSWpsM19jbnJR0gGLBUFVX3lxTE9WZjZsQjF1NDVZWTllT0laVjJfcl80QzJmcVBSRGg5aEdlaXlFY2FDTHJaeTlsZVZVMnhidlFVckVTU0Q3XzlzSWZZc2k5cjAzSnE1U19qWS1naUNuam8teUV6emNRb3ZSbTVQY1d2Wk96c1B6M2VuX1Ixc20tOFRZdHAtTTQyQVEyZmhHbWJDWHVjcTROcUZyLTh2TFl1YW92dlYtbUdTV2NzazBEY1ZsQlN0YkVkeUtLYzJHSHNpWGowU2tCR2tPZnBYUVFqelZoTEU0MTRTQzQ1UHNtLUxmclZwX21PTE5qbEhaRnVXeUlqRm1KSnd2bEZUenlFZ0E3YnBEYzg0NHVxdGdqVTY4NkJTRDdoNTg4TUVNOWpxandtMEZRYmd5TVBrWHFVWmd3b0hUQ1NwZ2JfUHEtNUF4SHpqMWlsZUdZSnFaa295VW5SaDV4eXRISFVhN1l2VmNLTFc3Ui1xZFFyYmVFSFkyaEF2NEpCV0tNYVVYN0NDMkJXcjBjRmlYU2VPZ0VCNEw1X2ozVW1pOENlNjJySDhPakF3NnNfVC1LNkdtWWtvVmQtMXpuY2QzUDNCN1JZcGhYNUltdFQ1N0JSMEFsbW1ta3YtNjlTM1FrNUxrV1luenBGMUc1UmRaWWtHVGZ5Q1FzMmQ0aDRvNEJkWm9ybk85QzQ4YWNuNW8wZGF3TVNtQXg1RFRzTnRBelpZeDZkM21vdHZqOVA4d1MwNW5KTnl3SHVfYnpONHJkclE3NmJQZERZdi01bGR4UVZrNjRpQVMtSEl1M2hCTDdJbnZkaklycGlRM1Jsb203WTlHRVNDUXlXTUtoOXZnYlJhdElsdmdwT0lyWTV6emNhVQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 16:16:00 GMT",
-        "discovered": "2026-10-04T17:59:44.136650+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الكشف عن خطة الاتحاد الآسيوي لإطلاق \"دوري الأمم\" وتغيير نظام تصفيات المونديال يلاكورة",
-        "player": "",
-        "content_hash": "556559978a213e477c5318d55873344c95d9b8a1cbbe8fa0f75a8c515d33785c",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1700,22 +1700,6 @@
         "summary": "هل تنجح إثيوبيا في فك عقدة «المنفذ البحري»؟ الشرق الأوسط",
         "player": "",
         "content_hash": "78d13678af0dce34082ae851fcf4aab69d1efe79bf86d6181985451da87a970d",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 8086,
-        "title": "خاص.. الشمال القطري يتفق مع رياض محرز وهذه تفاصيل العقد - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxOV09IUFVHMXUyR1M2bGl3MkJXMmZPdENMbXhUaHVxZU5iVEZnOTlYdXlxbU5NRTNUc1FBUmdkY2JnbExBTzV6bWoxTzFRUVVlRkNhMzBna0ozZDhWNV9yeEpzX1Fvaml5Sld2X2V0cXZnTkktWjNsdHVUcnNLdFZrb0p5QlZIZDloNXpZcnF1YnMtRXBYMi11Z01UWDNtX3AwcmZ1QUtJZnlBZGQ3d1BmVVZ0N1NmT1g3OW80akJ4Vm45TUZFYnhCUTNKNjBuVU1MTW8zaWRrRG9UdHFCckJMcGtJZ3dta2JMY0RRZHNIM3pSSUFvWW56cmVSU2hDcWR1X3NiNUkyY2RETlNYR0ViVlBTLVhzblNzbGM2LU5uSXVxN1F2Nkd4LXdTbl9qanZSTnZUc2MxZF9mUS1jQkhOZFZTM2lidXRrQXM1Nm8wTEw4S0ZiRkJPM1JtY1BYUUw1N0Y1TTQyZXF5Q1hvWVlUSW9ZRmMyelBHdU5FMGFsTzIyRkZqc0xWXzcyeG9JcXJ3UVh1Q0IyYVNyYkNGLXV5VHFxZlpJb0U0LVREdk5QaGRJbFUyY0NkQUl6LU54QnhRd2d1eWd1Si1hLWxUbU1MVGVEazV1NmRiVThVZGllcXE?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Fri, 02 Oct 2026 21:03:33 GMT",
-        "discovered": "2026-10-03T03:44:17.804428+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "الشمال القطري يتفق مع رياض محرز وهذه تفاصيل العقد winwin.com",
-        "player": "رياض",
-        "content_hash": "2cf8b6b19ef6897eed982b7faca8bc8c95205417e5c53d508fec4d5d547b6fee",
         "sent": 0,
         "section": "transfers"
       },
