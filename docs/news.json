@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T23:47:14.456274+00:00",
+  "updated": "2026-10-04T23:57:57.277630+00:00",
   "total": 136,
   "sections": {
     "morocco": [
@@ -518,6 +518,22 @@
     ],
     "sports": [
       {
+        "id": 8612,
+        "title": "فيفا يزيد العبء.. 4 مباريات في نافذة واحدة تُغضب المدربين واللاعبين - aljazeera.net",
+        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQU3JxWlBwU0d3aWdtUDFUUzNLczVMNzBvN3pKWWNkSndpQ29BZG41SGRNNDNORjZxZy1RcFBCZDdLa2prV3N4SWREd2hpdlB3WjhjWDFsX0tCYmFCMzNlRUlSZ0xxaUd0bzNicDRsNGJzeHZYVkhUWFV4dHRGX3NBZXg0T1RpTjhGN3Zwd1F2SndETzdSc0pCMXZ2YlZKakdzcG40VUYwWjZBelE4YzFOVUdkYVA1Ti0zOGJkb2I2RlVaSWlTUlZueDM3bDNvcV9jdDhmQzl2ai0zTDU2S2pNWkpRaWxRY1VlS0cwOFFoYWI0Y0JFeEtjb3BQSDdobWJ3aEFEeHREMkpGdVJ5Z3NTTmhlTm5vb1Mwc1FqSUpXeUdOVW1ieDBHZGtfX2hjVUpQdElZYlVCc0dYUnZrZVM0SFRn0gHHAkFVX3lxTE1PNWNzalhwQzlxaG1vY2lDMjJ0N1g0TU5xVGFhUHJUU3pNRzlVbFhMaENvNE5YSWZDMGNkVXcxY0UyYUhQVWhiU3JNemdLZzQ1TXdxY2gzcUE0Vk1pVEZpcVE2alRtc0N6N24xLVBpWkJsbnZLVF8zT2gzZTRCbzU0dGhjVW9wTU0tX2lrYzZuQjk2blpTNFZMVGY2TFFocm1RTkZfU1RuSHd6NHBFX1FXc3psd2FDNFZ5UktZMTY2Nkhyb0RveWhiY0cxSDZrQUN3QlBQdmwtZVNwaXlkOE44RGhvM1NWSURLbk0xU3hPNG5pd0pxZERGeGQyb28yemRVVDFtVzlvZFlCUmQtbU1YemZDNFBzSGNWTWFCX0lUa0hMOG9xSEFqcnFaNHhONzlQXzJvU2oya2FubnlQbE04TXFvRFNoaw?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Sun, 04 Oct 2026 23:39:31 GMT",
+        "discovered": "2026-10-04T23:57:46.581201+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيفا يزيد العبء.. 4 مباريات في نافذة واحدة تُغضب المدربين واللاعبين aljazeera.net",
+        "player": "",
+        "content_hash": "243c95dd73455dbbf37605ddcac141312161160639eeea43b3200fd7e7db1e81",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 8597,
         "title": "موعد مباراة السعودية ضد الإمارات في نهائي خليجي 27 - 365Scores",
         "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNemtIZkxhRkM4WjRobzVya1hiTTA4MXVnSXBUVmY1aUdSQ2syUktRc085WUpjVzQ4Rmd5MWhlcTZKcjgyQ2dWaGRPR2NLNEwxel9rX29nV29WRnNzRU9adVNBQTJJdDNUalBfUi1DQ2NYSEcwUGJSWGxXOFhweEhIWkdfeDZJeC0yYnhmMWF6enQ2VzNPMURadFNqWGd1Mm9DQVhlMGpycWVaaUN3eDJpYXpMRUdjbHRhWWpqZnpNZS1VUHpQYi1MVVJYS0lmdTkzamN5WmUtQlUybzc4RWUySGhfMWt1Q0ZNTVd0S3Y3c0kxZWJOOWY4R2VuQmllVTJjLVVZWXFEYy1RSU8wUzIyX3MyZDRGWnNhQzZGa1FKUkFIT3p0?oc=5",
@@ -770,6 +786,22 @@
         "summary": "مشادة قوية بين لاعبي مصر وجنوب إفريقيا يلاكورة",
         "player": "",
         "content_hash": "57573d6b6a632b31b6f7a44c726447ae7963273f6e53322a794f7628d7123164",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8611,
+        "title": "كرة سلة - الأهلي والزمالك ينتصران في دوري المرتبط - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPTUVFUlJhTXllRTVzUXNNMjctYkFDZjRuUGF4amtqXy1CX05aempUZDJtUUZqV0c4X21lZHZvLTA0clJvM29XYlloaTNXQzFrRXI4VkNhaTBSM29XcEJ3RUpyOEhkRlVzMk1YM011UGJNaUY0RTRyTFZGemttcGlZUFg5RDVpQ25fTTFJVFFObUQ4amVMNnZXWHZ6V1JTRDlEQkN0ZTVyMkQ4QkJiVC1Cc0t4REJTejRwRmk2dmdzQnZ4SGRxcXpONHd2MkEyOTdDUEhtQXhSQ29nZTZXUFl4d0ZVck1kNGZlYUJwdzI5RjMxX1VkX21JbUE4ajZ2UTJUZUJrNUljY2FaMGxzREV6TzZyVlA1dmM4RGYtbm9ZR3RWWHhKbmFzSHFtczVYdGhjZUJNcDVoZm44MTVtVTdCVHVrZGh2aE9JN0JyT1VUaGN2QUxwWXU3QVVmRU9Kem1WdDBORzMtd0V0MG5jVzZCSGQ2Wkw2NG03SlgzNjhBbnhzdEtCX1E3T2JJN0JNblBSNW9vS19OQl9kTm_SAaADQVVfeXFMTjdocWtWTlEwWGlkMlg1eHkzMFRMREl0d2ljaDlnWDlzQmpzWmRYRno1ZjllMHBHLXk2Q1NURUxWbjFzYkdJOWR5ZnM5UmZoMzkzamtLUG5fUmUyckFzdW1OMW84X0xBMlVlY3IwYjUtaFJvVTQtOWg5czNuU2xDVkZ3SXZHMFdzSDhEbURXT2lLcGY3WmZWSy1DMDYwclA5amhlWjNkT0ZlazB6SnRjSXpxS28ta1dTVzEyQzZzQmM0Z3BEd1JQcWRiS0tpZHBwMnZQNDlPUk5YdVRlR1NXYnc2UFVnSkZEWXpPSk1wOTM2ZzNrMWJveVBNRC11bFVGeDhwNmNaMlZENXF0bWtqSjgycjN0el9HTTQ0OHRORG5TY2NwMEZ4T2FlOVVJZWV2ektPQTBTakFoMEdfN2h1VGY1Y1BHSlk3RVZRR21PSEhhRVM5RlNKaGR5OTF6ZVk0MklOS1Vaa3diMDVlUWNWLWFCcFZyN3lLMjNJRFplLW5DbmhEZ1hJb1BKOGlxVU1lalc0dXFEbE5sdDJCbFIxa0c?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 04 Oct 2026 20:01:00 GMT",
+        "discovered": "2026-10-04T23:57:39.162262+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كرة سلة - الأهلي والزمالك ينتصران في دوري المرتبط FilGoal",
+        "player": "",
+        "content_hash": "b06f21d729b6f1afbd7731fdc476d6a84fb2194a07ea22a5cc2a19c91543a47b",
         "sent": 0,
         "section": "sports"
       },
@@ -1282,38 +1314,6 @@
         "summary": "تشكيل منتخب مصر - تغييران أمام جنوب إفريقيا.. ومرموش يقود الهجوم FilGoal",
         "player": "",
         "content_hash": "f2fb45b0558587ef77aa336f2e77f4f33c11d6b50a0e55307470b1cdda89cfb7",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8466,
-        "title": "لقطات من مباراة الزمالك والشرقية إنبي الودية (صور) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQQjJpUlpLWllkaWpUSnRhTnE4ZnNHcUI0WGdENG1UWEVZd082OGhJcGpMZnFBQ0hIYXhvRUZWb25VNzRLT1ZudUI4Zi1Qd1pTQ0FvYXNxcGJFN3NyUHBfdVotVHhiX0QyR25qR1lsTTk1TTNHN1NlQjlNSEJPWFh3aVNwNkliNU9sX1VMcEY4Zk1YMEdQVHpSUk9YaGZjNHktcjl0VjZXT0pqanNnWHJmUTBzVnRIQ1M5aHJRc3ZsaEVMQ2RDVUlWcW9mS3BBMWtqVFQ0V2NOajQ5Y2ZwWC0tYUNtWkg4QXdfUG1lZnM2MXVGTUlzTXdJQkRQSm9aWHpTNkhjcFdLSktOcDhtb0toWTZfUzlCRWdtM0pxYzF0UGo4cmpUTlM4Z1h1NDhHLUxKd0hyXzh0QjNDZkwzLXpmanpxSUtEQzNrZzlDbi1wNGxpUVVQOW1hUW5IZk1PejhYZFJSNDFBN0Z5V1BsNEwyMHhMU1ZXRlAwZGFiendpZlgyM3dLNXNiVV9CVXkxYWFaNk1uWTFBOVlUZHBWV3dWZVluazU?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 16:48:00 GMT",
-        "discovered": "2026-10-04T17:59:44.151979+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لقطات من مباراة الزمالك والشرقية إنبي الودية (صور) يلاكورة",
-        "player": "",
-        "content_hash": "411c5a5bf22c1e7630e27e8ee7dc75471e9cb912c9cfa6e92d8a38234e362781",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8463,
-        "title": "بعد الخسارة أمام الشرقية إنبي وديًا.. موعد مباراة الزمالك المقبلة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxPMGdXbTBCZnI4V210dXJuakg5UkdTX2NXeUw3VDlmd0hFWFdQOHhXWWhIZUJtSHhpdFVJdlhEY0QyVkZ3OXFQZEIyUkR6dTdQam12VEZzVHdGYmhYYUtyelNfYVdvVHZpM1BLQzI3SHc5VXktajZxVE9tZ2ZHcjkxXzROd3hlOVJkTjFnOHVWV2NhQzRFdHhhc3pGeHRXX0JjUkVzTkxZSXNHQjdxWE55czdhM3VEcElEYV9nQWc2eHF3Sk5na25DaXRhdmF6VjBZX1lfMnNhaS1HZ2hScFg4b2hDOENsYmpmSGc4Qm0zQTIwdUlyZFFsV3l3TE01a1phcU5odXJ4bFNZanVOLWJQbVFWMlBiT2paSHlSb2oxVEZ5ejNQZmtUVkxQQWc4YnNfQ2s0YV9ka3lfamJyZTI0Q2lHSXpKZ1pQbFdBd2s3ZGZaQlBDQVNaSnVUdHBMYS1hRWhocDBtY0NUME1UVEdOelFIRTFvTE9CSVJXTzFqVGpTNnU5emtZblRLVHhEdmFrVXphZ1VjbHU4Q3IxRHFkMWdhRndPNThyZmJidW5ILTdhSjZYTEIwMmk4UGlhRnpMT0xqcTVGRzExcnlmOVUzRVlIelBGZ2Nhc3VoeG5xRXcyX0VDRmt4Y2dwSC1hZTFBQkdnZ0FTbFRKdXZNamVYeDlpQTF1eEprMnVrR2RsVkR2ejdnU1RzdmdNVnl5TlVrdmhMbjd30gGrBEFVX3lxTE1IQkFOQnNQZjlobHltSFZ1RG8yOFRHdkIxN29GVmpyREQ3aWdBMzFTOTBOSmhwQ3dyMkhFOGxjTGtueHRBVGFfbFV3OXB4cnBiUHFmTTZhc1p4SHhJQ1BIenh4ZlMwNmFocUJTcG1ZYnhfWTVYVlFobzI0blJWVFFmeXp4aEVOdE8tYTNHbFcxNklhYzk5d2ZpS3BabktmZ1B6UlY2NC1tLWQ5dm9zN0lFQVhTRnVOUkNIV1dzcGFCMFNZZHRWRjlBeXdadzR2cDNtSzlmSjFweTd1QzBVOWNxUGl3U1NiaVhITWloZVJvYk9IZ0cwZllpSUc1ZTRTTDl6V1JLTnZ5MXE0NkpGNm1uN0lkcVRSWTNhUllQMjVuLUFJM25fWmRaS2F2MUU3NHJfNjRTeHQ2cEwyQmdlUFZTMWs4dWY3Q1MwUllUcWw0eER0MXQ1c0VfSXVYSVpBQ1p2d1Q4YTN5MHUybHRfUWNENlNNMnJzLV9XcVIyUkctVTVMTDN1U0lTVWJGdy14YVBmZWRJVzhHd0xDS2o0WDZtUXJEUTh5T2ZFblF0TmtxSE1USC02SWp6U1BHRGlxTUNsb3FKMjB1Mkg5RlFGb0xHempLNWFHNlFHek9vQWJHUFlxMjdqNWRwVDFyZFMzTzFfNDR5MGZidjg3NjhkYWdyOUZGZ2lVek01bE8weGhwd2xIemVoa3NKOGZRRWx3d3ZjOThJMWc1VDZ3Yw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 16:37:00 GMT",
-        "discovered": "2026-10-04T17:59:44.143011+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بعد الخسارة أمام الشرقية إنبي وديًا.. موعد مباراة الزمالك المقبلة يلاكورة",
-        "player": "",
-        "content_hash": "c075aad4ec9fa1cf497d60140e9c5a8a590613d2b3350184db4833eb16a35725",
         "sent": 0,
         "section": "sports"
       }
