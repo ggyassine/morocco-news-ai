@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T01:04:57.906546+00:00",
+  "updated": "2026-10-05T01:23:05.445522+00:00",
   "total": 135,
   "sections": {
     "morocco": [
@@ -388,22 +388,6 @@
         "section": "morocco"
       },
       {
-        "id": 8133,
-        "title": "أجواء حارة وزخات رعدية بالمغرب - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBqYjFPSzJYTnhIcEJmM25yYWs1YnF1MGhmVERwT3dJc3RpNThvbnFxRXBPWGtzaDdVS1JZWm1JaEpFdGduazY0SA?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Sat, 03 Oct 2026 09:01:25 GMT",
-        "discovered": "2026-10-03T09:12:46.616363+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "5607fcf4e9a277d3354922d2840e589fbb28ebf26e7d94634a582248dc476cc3",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 8135,
         "title": "الإمارات تكشف نتائج التحقيقات: مساعد طيار فلاي دبي حاول تنفيذ هجوم \"إرهابي\" وضرب قائد الطائرة بفأس - Euronews.com",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeFdwMndWdEU0RkZ5U2FTajg3aC1xSC1UUFF5MVhzSmdaMDBvWTJnRVZ1SzZwTnFENV9rdEFzY05ROUNJTUxmbk1nanFnVGxFVzYwMDhSMHItV09wNzVEV1lfQjlSR3NjcmltQllLRFdyNVlnYjh1M0d4Um9rM0tsU0RjSi00TzlITDZzQkxJT1diRmE3WGlFQl9tYTBwQWw1NWtyTXNYelVUMmR1SnRkcnVYX0lpRGNHcDJ1ZQ?oc=5",
@@ -517,6 +501,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 8630,
+        "title": "الاتحاد الخليجي لكرة القدم يجدد التزامه بالعدالة والشفافية - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPel8ta2ZqUWR4TTNHd1lBRWRwZU8zS2pnSDJDRzFKOGVDc0oxZFRFeENRS0lXQ19IWlZLaFpVcEtjTFYzdnZwU2ZhYlllX0toT0phWFY5ajVIMTZzdVpMM2UyNDRGeTZnUVUtVk9YOUlSU3Q4ZW0tX29sLWpXWmRUUksxc1l6VUFWNjZLOU8tMklwRzZQX0JHcHBELUtKUUlLZHk0YWZQckZPaFFMZUNLRkNVWnhYaEx0ZkRBUWloZE02N2FrWXptR242N2RsakVXZDdMU0ZjSG9jaHZJaXNseXJVS01SalExTzBjWGxWNjVqcXJmLVBlTFVaVzJKbloyMVY3am9NQzNUOXBGdVRBcnNrQXh6bVF2VjZLZ09pUngwM2RZZmdZdVd1YlFOU09UZHNaRmNpSGF6eFk1T3diWmJITWRvZVc3M1lWd2l0cThOMldISEhNX1YzNGRPYjdkbUdfU000WVRSTU9YdDVlYzFiTjdiUklQTGlFMk90dFdpVHdqeVNEZFlnWlZBOXRJMFE5MnlseVlNQmpZVC0tTVViRk50ZlJFN01UNWhaQlBwQk5YLVhfcjFQY2NyUjJyYk9sSG1FODVOQk1ocFdYbEZ5bk5wUWNkM0owR3lfRnRvMS1rMEpXSHZtTUVUc0ZoMURVOXFMOEfSAf4DQVVfeXFMUGlxQW9HNTAwZTUzbk9RQXAtUnFaZXZDOG9jNmdnMF9wR2JtR2tXcFc3bXRpSHl0d0lsRXg1R0lxVkJNUlJsNTVBSklzeXJxSEJDX0wyR3pWZ2d6TEducnM1SndTNy1LYklCRHpRSnlhaUtBbkI4a1gtaXZ6WXdBRHc3MjBWbHB2NW5QcHVXYXBBS282OFBQaWZTOVNsQjFJdUJJOVRxamt0YWlJMUlNSi15QThYdk4yb3lidHhGekNET1ZRcjRuX3Jnb3Y3UHViZmdMb3hEdkVyTnpkRk9MZXZiUUJrWEdxSkw3X0Y4RkpHMHRKQndURFZVdW9UbXJBdHlUMmhVdE5PcW41bE5qUnVPSVYyTmxRdWJwV1NkR3RoRXRva2drdndqUkRhWEFHYjdRN0lESzdNTlJfR21iWjkwVHFZaktZdkNOTW5zdGNoSnJ1MXY3aXBNeFRqSDh1dVpxd215WUY2U0hteGlpZy1MRlBqdjh0dk85LTRHN0R6RHpQS2RhY1JfRkNvcmo2WUI2cXJmM2lJYUJsVnBvMGV3MjBlRDhZLXctNFd2d1FXZ3k4R0hWLXl2YjVZaUN4MWZfMkRvTlhwR0VKTThWeWd0WEVwVVJlTGUwNjlxMGROSERJdzlWeEs4aG4wX1BYSzFpNU5QQ1hBY0N6dmxn?oc=5",
+        "source": "سكاي نيوز عربية رياضة",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 01:06:03 GMT",
+        "discovered": "2026-10-05T01:22:44.049511+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الاتحاد الخليجي لكرة القدم يجدد التزامه بالعدالة والشفافية سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "4f8ee2b59a8dc3de10c74ffb27614df12b645963f0e1256b842ff2679d665448",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 8618,
         "title": "جدول مباريات اليوم - 5 أكتوبر 2026 - FilGoal",
@@ -838,6 +838,22 @@
         "section": "sports"
       },
       {
+        "id": 8633,
+        "title": "لقطات من مباراة منتخب مصر وجنوب أفريقيا الودية - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQejJsNzlCREtvNFRQVDdSa3lYaWcxN1NsN1B1aHBZNllWN3hPRkUtZkdLaWRvNXRVQUVweTQwRUNSZXlJbnh2QjRObkQzSWtYRERYRDVVWnk0NVZEelprMGgzbWQ0ZmVPanBNdzlFeFF3Z1I1VXduVXVqd0FGUmZ5UG56T1FCeWNZeHY0bldUSzFuSVRmUEdTWDM3bjBhNVM1VVE0OENQRERmV0hVR192cEo4M2NDVXpQTTVJdmxwN3VyclFtOWw0bnp2Z2kyZDlYcEhPV3BrTzlSRm53REh3dmZGUFM5VXhSV2tDZWlMWnF5Slp0N1VzN2dGSzNUZFI0ODJNSHdLb200V3dKRHlQQUZwRFVfWDBHaC03NEdObkRjTmNIT0wwbFVyLVpzV3E2Ry1rdGIySHZvMmNTcGExVzZmZ3ZWVUpFcnpVT1N2RDQwYUVQVVBkYV80ZXNIUWZYdHZ2M0ttSmotUVVqeXV3bEtpWHJ2U2RuWUVLaDI2N1dBamh1T0FBOWs1LXFkTE5nRXEzaXBnZUswM2E1VmM0eUJLVXRKVTBiU1pNUnFMU3hjb1lUQ0dTenhxQQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 04 Oct 2026 20:27:00 GMT",
+        "discovered": "2026-10-05T01:22:47.838982+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لقطات من مباراة منتخب مصر وجنوب أفريقيا الودية يلاكورة",
+        "player": "",
+        "content_hash": "630048aeba2634cf330ee798ff2cf46f2429f7b8718022b87ab58c6897d0bc1e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 8614,
         "title": "من خسارة مع الأهلي للفوز على مصر.. موسيماني يعود لاستاد القاهرة بعد 1681 يومًا - yallakora.com",
         "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxNV1F3MnlUbWRPOUNIak5ZZlBwTmMtU3ZuNVZsZDhFTWVRYTU2THk3ZFZheGRGV2VCcjhmdkxCZ1dabVhLN3JGb3dqTDh0LUc0ZVg3X0llMFhqOENldmpkdC1COFYwczFSSjkxTUZYUVV6RWRXaXVwWnQ1N0xScjctMWpvMEwtbmwzSnV5VWxRbVVDbXRQcUVSS3RycWFnTFlLcXBmckJVRjdtVi1ZNXdEWlVTQVZuai1CNkxTajZSVFdjb3dET3FrckR0T2RwZmdsQ19nbUY2NFBTMkp5UlVPc3R1N19jVnNzWkt4b1MtQU5udnM3SDJYMzVHMjlwNHFaY2hkMlFTYnVxWGVxbG9HZEdWbnpKQXFiNFIyV1Z5RFlPS29EUGhTV2EwbEZaUVlnbThUSE12cVk3VGpfdEVvNXUxbEg2TktDck1YWWZxeXdZWVRNU3ZTZVJVd2JTNnhhTzhSbHd2empJclduSldCWWpOMVdHclNRajJiQzM0VG5MSV83RXZ2UmhRcFdPeTJWNkV4WERoN3ZiVjJGVndHWHNEdkZGT2Rpbms5TkdkV2owMFh1QTdXQXk3RUl3WmFmWVNYaU96WHdydEpYUVpuUHNYWGtuZTgwbW5YSFZvRVIyLUh6QUMxbExxV3Rna2F6aXNYcFRvVHdoZXh2NHhLQkNNTlNQSWJuLW1rcmMyWkhpanlEaWtTVU5pTUxvZzlBOU15SzE1NVY2d1hLNUNnWTBxd3dVREdaZjB2Vnp5b0ZZRGhnSmZCNzZ2eWdhZXc5dVdBbTNGaGJMSDBpcEw40gHkBEFVX3lxTFBRb3RYOW9WcjA2OExzd0RZUUlkZmNDT3A1bXc3UXBxUmVNZGh3c0Jlb0prdDRDMEpLRU52VlVmbl84QW9OSmlNcFMzU01MV0EtNmJXRVJnZTBIZUd3dVFmT0hpYjh3a3lQamk1SU5QMFlMc1BKQlJVUmk4R050NzIzM0R3VUVVTVFHN2I3V1dvQnAxcGhzQVRRVlBXbTl3dTYycVpCekJEY3pLc2hjTnhhakdxZHM1ZlZRUjJHdTlwNHo5bVFnc1JPd2hPQlgwMUVjbVFBMlo1djJlOEVnT1RIcktTVG9FXzdxSDU3cDQ5bUM4d2dFaUpQMm9kV0RVNWpoWnFuZzZ2V2tUMHlwME1JYnVLbzVKeUZxSUpLNXBwZXFjeWREUVdpNnBtblp4cXphN0g2aFNWT1cyckhxNHB6dHdTTGhZSlRMcGNrQkVOenExN2VoTnZIQVhRWXM5WlR3RGxoVTFfWTBjaU1kdEptcmtRQzh0ZmItS2JlWlF4ak51X1FYV01SOXl4cmhRMmdpTjZLS2N6dXllaWRuN3IzUEhsSDU5VTlaOWRiaGpZUWgtS2ZibGNGX1V0SUx4OU9ORXlDSHVZanlTd1JpdkVNN3dfWXhMYi1XTXhhRWVIdnNlY1o3VjZDU0l4RmNTV3BQZG1hUXM1bTBmaVV3bVJ2S0dJMDdmdmRvblZNM0ZrWF9WLXlFSWdmcWVaaHNWc0NIN2JjNTFTemxveXRxRTJzV25xWHpLSXJQZGgtYjgtRWF6TUlmN2dib1BvRU9KV0NXaU1LQ2hBNFJBdmJSYjFzam41bw?oc=5",
@@ -882,6 +898,22 @@
         "summary": "فرصة مزدوجة ضائعة من منتخب مصر أمام جنوب إفريقيا يلاكورة",
         "player": "",
         "content_hash": "4ef04ffe9991927a3bd0a2b81e010ce6d7503f28817310ffafeef6b71a5c8a84",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8631,
+        "title": "ضربة في تصنيف فيفا.. تراجع منتخب مصر بعد الهزيمة أمام جنوب أفريقيا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxPU2lTTzE2VVE1ODZUOWtpRnhnSl9IYUUweWRoLWxlb1NqZUNMdFpETEZTcUU0V2RyeGdfUjN0UlBiWDZ5bjZsdmRRQXVNLXZ6bzMwR3dhVDYyNHl4NndwWmFsVzU0cnBSamw2MmpXS0xLbkdZRUJjUVRjS3lVemQ1YkdUXzA1bjVQcDBDcG8zVUU2WGhsV3BQUk8zSGl3MmVzckxkVFpDRXBZaFZWRXJTNm9ScWNUUUZmZVpFb0JxX1JZanZmUVAwNEc4OE1uSFF0WEZIaF80djJDT3NSaXJSclR1b1FSTlJzM25wc0FIQnVpcXJqb2VDT2lBRUQzNEU1S3BHSjNTUFJiUHo2Z25MVWVJaWIyaUJsN3lnNEJ4LV84all0bmNZb2FjLXBBQnJiOVYzNEl4cEVrUmozbTRQVlFKYmJEVjRmQnVnNHU5enVHWVd5bjBRbXVQWGVMcUQwUDhuVUYtb3hPd1JMUzl5NG5iYk9xeEZnUDFYel9rdmNxSFpLMkpDN09pa3l6UGEySk55TzV0dmlCQTB2NFNOdGhWTWVhYXlTb0xVUmNhLVdUenZJaXRxZ2M2RXRwSmJpRHhPTXdnb2xJeUk5Y0hVX3E4VkROcF82TTdjZ090XzFOc2NBTUt3ODNiWWdTN1RLQ0hIWnJJUlp6N0ZOVVJqY2xYTEsyd9IBswRBVV95cUxOWWRhSzZueklIdmNzNV8yVVNXTld2Q1dORTRqb3N4MDVYcjZNa0RtTDdpM2ZEb0hDOGIwbi0tZEpDbU1lNXBkMHYzb2JVbGNfNUdvOWRxSzJ1Nlc2eXBQYmhla1J1ZGVibDJlcnFPQVgxUTVWUnViZmZMZzRHZjkyRnUyNnZObkhGdUkxQXRySEliU1liaVFUVlFMU05ldkZDcXp0cG85bW1xbFpHeEtaT2xfWTNjVWNTZnFpdTNhNkV2R1c2QUZTOWRzS1hUb2dwY3d6MFI5cDJqUzlzMFcybjhVMThzWGFqWEdTbHdlZ25vYnZzdUFTTFlzTFg1YjFncHYxclU2a2ZwNGZtV2VRcktmenZMbExPT1U2bUJXLUE4U0xJSWVEdlNOUGlwTXZ0cmF6Z2EyM3F2VWtUZVc0eVUyWVR4amNoT20temtoRmVlOU5NdDFudFpPQjEtRlZVYXpyZkZST0tJNTVkazNZSm9NamlkNUs4RFNLdEJTN0F5eUxtY2pRaU1ENkNydjBrUmhNd1k4YUttY29PT040TjFIc3RmdzkxbFFuSXhXQ3JCOGdOZV9QYjFtLWZYSTRqWkU3Z0p2Uk00QTlUc2ZiMmpGQjZhUUFPbmJrY1M1cDlHN1c3YmxJSjFjX0lWSkxja3RkZHAwaV84ZzE2NXpWUmZGbHViZnFUM2VlRXNoM2V0RHFsVS1BRGJ0SHctU2tsT0hUOS1NNloxNmpOclhPX3pXMA?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 04 Oct 2026 20:18:00 GMT",
+        "discovered": "2026-10-05T01:22:47.834107+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ضربة في تصنيف فيفا.. تراجع منتخب مصر بعد الهزيمة أمام جنوب أفريقيا يلاكورة",
+        "player": "",
+        "content_hash": "faa377a4468a13c045a945fb91f86415927e9bd4272fb8813eb9ac1e48a82bac",
         "sent": 0,
         "section": "sports"
       },
@@ -1268,54 +1300,6 @@
         "content_hash": "db6aaf27e6028493aa4ea6f615761615d01e59aba50a0602af5cdceff1c4f72a",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 8554,
-        "title": "فخ إعلامي إسرائيلي لمدرب أيرلندا ينتهي بالفشل.. ماذا حدث؟ - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQaEFaMjRIWHh5MFRVTGZoZzhWVlVvZmJ5cmlWMTBaWWtkM21LWHJQM1VWUWsxdTIyeTBHSmxTcWd0S3BGLWtIY0I5RDlTenVIalE0N3JMYXEzVmVuWmE0d2VLSTgzXzUwWHVCcHNYNU93WFM5ejR2aVNWX29nRi1TV3l3R09kWnVFR2hsdU5UVngwWmRRWUxENXNUM0Q1Ty1lSXFFUGhXaXBvRHNqdTBPMkcyLVhHZktZSEhyMHJoY21aX1R5ZVBQRFd5bzZuc1dlZ0EzSExNd2RnR21PNEY3Z0xPbmZleGtvZGZ5MTVILWNELUNZdkVpRjNLSzFUejh3dVlLUFNjTFg3YWFBSUJ2LTVWR1JEQWVFdDY4WUM0bHBUZ25TOW5JT0ZTbHVvdUtJczBsUkNtdXJ0QQ?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Sun, 04 Oct 2026 18:21:02 GMT",
-        "discovered": "2026-10-04T21:11:50.705999+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فخ إعلامي إسرائيلي لمدرب أيرلندا ينتهي بالفشل.. الجزيرة نت",
-        "player": "",
-        "content_hash": "1f6c9fd33eff3e3c3ad7222e2b2a970789872033593e2b015c203f4948343ab5",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8571,
-        "title": "على طريقة ميسي.. حقيقة خوض كريستيانو مباراة وداعية مع منتخب البرتغال - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMigAVBVV95cUxPcG1nRlMwTnR2ZXE3eU1WTEpfR2R6QWZUQVd4bHgwU0ZNUlRDQ0NSaUlaa3pnb0pyWmNBUUw2RzBZZ1FXSEY3VUxhTjRmZlo0eFE5OXhYbWdPaFY2Und3enU3d2tFcEZkU3ZvSDBWVHA1OXZtYnpqV0J6a2g3S2phZkg1blJMcmhpU0JZOHlCTkJBZ2tOYlVZSWRSUF9VVnZLcy15MUFwX04wNVFtMHJEdWtwLUdXRzJMcl9hX2I1STZ1dlkzZWFHcXg4aVNCdDhIS01aTWM2U3RUeHJrZGZFN1FpY3FhaEVveXFiSGJiRTExaS0tNnRwejgzQUMtVml2c3BldlpSRU55d3JIQUdidks1NWI2TkhfRmtPRTRibWpid2FZN1VwbGVxakE0WWdKbEEtYmhtNDJNbjZXX09VRU1oWWV6TE5oSVlSWU9EQWtDbTZ5dDNjSWlCV09vdzBQRU5mU282TUdEOU1YQjlrMDEyV3FfUHRlYTlVMWZLNWNuc2g3RmFJcnZ6WFZqZkdSdFdnN1Y2WktRQURrUFYwYS16SDI0cDA0a1VQZW9PY1Z0RTlqSGEzZlE3ZHZNTUw2cU5wZHdwNlpjbTFRRmxHc2c1akZJLXg0V2wwdFRaaUphMTg3dG1WN3FpVXloU1FCeS1KR0ktNTJfUzVpdXo4V3NBVGdXNmVaeGpnM3oxdEJJd1ZQWUJwTGxlSlgybkJEZmtNWDQ5T3JubWdQVk1uU2JtYmRDa2FVdk1iX3hnbGZZc3lhOUVwYzBkazJuajB1Q3JKcG5jTkhhU1NLZnA0aXBvamxlOXhLUDdFR3N6SFB4Ylc0RllDUm44UlZCUVcw?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 18:19:26 GMT",
-        "discovered": "2026-10-04T21:55:36.378590+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "على طريقة ميسي.. حقيقة خوض كريستيانو مباراة وداعية مع منتخب البرتغال Kooora",
-        "player": "",
-        "content_hash": "8508f9e1127e2a96dfe805d0dad37267e348548b6c66b68a90d3892a3e9f62c7",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8558,
-        "title": "رسوم ترامب على السيارات تحقق مكاسب محدودة وتُربِك الاستثمار - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPbkhtb0stLTV1bEszN1NpMnVNVlAzYkxTYzRQZ052Y1o2RXZ3VTJrT2k1M0w5dFF1V0JFaXd6UVhoSWNDRnhXWlVkZ3hjYlUza3Jsd1BiaEFoRF94aVl5NmNXb0JTZGp5dWEyYl9nOWQ0cF9jcFFUdlkybUZ3bmFoVHd1VHhhbElCcVc3Z0M0WTNjcnN2bGlVVG9Ya1dnNzdJTERjQUpIOGNJd3ZubmczLUNtbkR6SHZCWW8waHJ0c0FOalRYVjRFdGp5Y2Fuam53cmJTbUhhaEsxWTY1UDZFakliU3JhMDJSUmQ1YXpYNkJaYWNxa1F2WjA5bGtFOGRUbXNyVmd3UXhFdmZVd25lUnRQX1p4OWY3dlI3TjVvYUNVbExWaDVuYmFKdkFqdlFwYWxaUWVuWE9Bb0pnZnhxYnJGdFFyNzQ?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 18:03:34 GMT",
-        "discovered": "2026-10-04T21:11:54.968766+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "رسوم ترامب على السيارات تحقق مكاسب محدودة وتُربِك الاستثمار القدس العربي",
-        "player": "",
-        "content_hash": "b53107bb7fea6d3ae7d2d10778b711ae90609a8438829023a5efa7046166a1ca",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1348,6 +1332,22 @@
         "summary": "دوري الأمم الأوروبية – البرتغال تضمن التأهل لربع النهائي.. والدنمارك تنتصر على ويلز FilGoal",
         "player": "",
         "content_hash": "848a124d8921e1dd2caf8884036b02ee80a883ce2b42d80eacb1129427e0b389",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 8632,
+        "title": "العقدة مستمرة.. موسيماني يرسخ تفوقه التاريخي على حسام حسن بعد هزيمة مصر - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxPeXJfNG9jMXFWYWdaektjaDUxbEpZYzFEZ3czUGI2b2VyeEVEOXQyTDVjVmNKYU1WUU5NUWYwQmF5V0ZuZmVabGEtb082dHJiZHZjTTV0bjVXYzl0NnlzQXphTUx4SzJHYVVyNEt1NkptUEhHa1JJNVQ0NEl6bkFQOHIyd0pLdGNZZEw3VnpraVJac2RQQ2p3TzIxaGIwZEZibnBfeWhHMUR5eWRuRFIyQU55Ym84aVdZdUMxSzBiUks1dGZBcHY1N2RNRzRHaFE1Z2lWVVRlSTJFUHhRcjQ3NlU4dW5lNkZfakdIT1V5ZFdaTEYwYnF6aUpxM2dDUlhWUTdZcWtBOUVjRkRTZGVxeGJWWDMtTE5OdW44bTBlSzdMSS1MdkhvOUdWajVsdEd2Q2NtcWdNN09ZbFl2WE9WVHhpN242blY2el9qb2k4VmJ4ZEVUZldqQ2JnWkFrdHNRRnR5V1ltZXZuTURUOS12bklWZ3JtRVJyZEdYa3FjRGdCRmwxSTRvV1lxZU55UGZaajNBcFhsb1BpbVF4ajRaTkdRaXk3cjJ6akphdWYxWGFXcUhjNk5vVnVGTTZ3M0wxa0lZQXByNjI4YTRMUUhtQmg1OXUwRHlTZ0tTNW9YZVg4bEJyaWpabjVQeW1fMjhyVW9Dbm9IeFZtWFNPdEo0ZTFLOW9KbjBwMjBuRGJuMkJuUktRN3RnZnZ1bjBuZmJIWVlfNGM0TkhQc3ZMcmJUZmRGckdvTlFCbDIySkNIZXZHRTVDZGNsOVl0alJWaWVWYmfSAdcEQVVfeXFMT3VXbUM4OEtqUlY0QlJrb2t6X1VFNk5EVjRpTDU4dTAyU1Jod1p6UVg3TGxkdl9GNllVMmhXTFRJb2JkTDlPNE5PMTNBY1hUM0s4eXAxZ2hmdG1vNmk0YzVxdFdCaDE1V1R0V3VJeWZCUTM0SGlRRTZVT05BZjZZeFZQX2JkZU1KZW9ScFNLQkJxSkZlemNoWXB5bmdNOG9xOGFGYmpkekdhNmVoNWtfNGhIZWp5TzVvQnc2YWNldnh2TnVfSFhMRk5ZTi1nVnp2Y21CVGFiODMwRHNLTVRBV3F3czVqYURzYTJJOEpKUGdvTWJ6MmNaS3lVYU5JYkt4QnZWMHBCWDNlQWh6V2l6RjBpN0l4T3ZtaU9TTUVFcDEtSU1qbXdtdjhocFFiVVN3OW8yekM4ZmJ2YUo1dkFfbzhZYXZxMkFmZmxYcXZWd2F0aDJNcW1yLUpCNHN5bDd6eVhheXplVmd5LVNOS2N3STU5ODN1U0tjUzkteFFIajRoN3lRZTFQNHl5UWM1d3pzYm1SMlJWcjN5WFRhVkVtTDA1ZTlSUlJZOUhrREYtNmZUYXVQeG0xSk1xTjZSR1hJUlFESTRiaXV6TU85Mm92X2FrODVwQ3VmWHpLUGR6Y090UUFJVG1EcTJ0eE5fV2IzdG5MVDFsUVAtLV9JOXlQT01yU3JBWjdOaDdINGlFSWYwbko1NV9Da2Z4OTJPZE9leWd6b1RxekxVOUlNZHdsVExmQWpmT3R0cFE1bm9ILWN4ZHBOVTAwbVVMeUpENHA4WU1ETkQxRWs?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 04 Oct 2026 21:28:00 GMT",
+        "discovered": "2026-10-05T01:22:47.836803+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "العقدة مستمرة.. موسيماني يرسخ تفوقه التاريخي على حسام حسن بعد هزيمة مصر يلاكورة",
+        "player": "",
+        "content_hash": "163476e31041376441c8d52c4497d59578e24eae204bf37c8a26b8cfc994e0e3",
         "sent": 0,
         "section": "transfers"
       },
