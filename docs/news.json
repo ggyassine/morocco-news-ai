@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T01:39:11.122138+00:00",
-  "total": 135,
+  "updated": "2026-10-05T01:53:30.315286+00:00",
+  "total": 134,
   "sections": {
     "morocco": [
       {
@@ -340,6 +340,22 @@
         "section": "morocco"
       },
       {
+        "id": 8635,
+        "title": "عبد الحميد البوجادي - 2016 election results - Morocco - elections.hespress.com",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ORC1mU0RFSUJDSWVzcUdaNkctVFZJcU1RUUt4WEsxM0VoQTJlYURvQ3ZKMHlDVGJqcHFlSVJ5bW9vS3dWN0J6SGFrdVJSZ2oweVh3WGt0LUptSUt1ckZNSTdLUDBFMFA5RUNSQk5UYw?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Sat, 03 Oct 2026 13:07:54 GMT",
+        "discovered": "2026-10-05T01:53:00.654480+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "عبد الحميد البوجادي - 2016 election results - Morocco elections.hespress.com",
+        "player": "عبد الحميد",
+        "content_hash": "39492baeb395d18d166d2ba4b836b4b0beb31fd1de377e51c77b95a8bc8256b1",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
         "id": 8185,
         "title": "اللجنة الرابعة.. تشيلي: كندعمو سيادة المغرب على كامل ترابو بما في ذلك الصحرا - كود",
         "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNUEJHQ2w4VHBqM3NBWmJfMDlCYUpuTTFwcGpxYldvZlBEQjdCUjlGWXdrOGQ4dFo3Zl9BdHNqczhxYmN6Q3pBOXh1UmhGODJYakNmTUhIbzY3MldlR1VZWVRLUktKUUhwZFNGQ2d1bUpCVHJiY1QxQ25FWm8ySjJxZ3R0X3JaNHVQMzhnV1Bld1JJbUxBZUtSd0wyb0tBSENUVWVjajAzQ0lYS21ycHdkNUx0cHZoVnpWQldjVFBHQTZxQU05d0ZaNmhBOEVyelB2RlNJYTlsQVROWTRSVm9mOEFaSXBGNDBfYlVybjg1T2hHOFN6eWMxLXMxZmt6cDdDejVpMHNfdVB4akxzOU9XVVJFcU5SSVBWNDQycHI2aFQwTlZiUGIwdnk3dGhSd0hPNThFU1RpQ0FoeXFuRlJWM3dod01DMDhCaEE?oc=5",
@@ -384,22 +400,6 @@
         "summary": "اللجنة الرابعة.. دول مجلس التعاون الخليجي: موقفنا ثابت وداعمين مغربية الصحرا ومبادرة الحكم الذاتي كود",
         "player": "",
         "content_hash": "f7dee0ca1074d44d808a311715502c88c3b548ffc9c6533cd44679ddb9ea7ba7",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 8135,
-        "title": "الإمارات تكشف نتائج التحقيقات: مساعد طيار فلاي دبي حاول تنفيذ هجوم \"إرهابي\" وضرب قائد الطائرة بفأس - Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeFdwMndWdEU0RkZ5U2FTajg3aC1xSC1UUFF5MVhzSmdaMDBvWTJnRVZ1SzZwTnFENV9rdEFzY05ROUNJTUxmbk1nanFnVGxFVzYwMDhSMHItV09wNzVEV1lfQjlSR3NjcmltQllLRFdyNVlnYjh1M0d4Um9rM0tsU0RjSi00TzlITDZzQkxJT1diRmE3WGlFQl9tYTBwQWw1NWtyTXNYelVUMmR1SnRkcnVYX0lpRGNHcDJ1ZQ?oc=5",
-        "source": "يورونيوز عربي",
-        "trust": "C",
-        "published": "Sat, 03 Oct 2026 08:25:47 GMT",
-        "discovered": "2026-10-03T09:30:46.087284+00:00",
-        "category": "أخبار المغرب",
-        "status": "منفي",
-        "summary": "الإمارات تكشف نتائج التحقيقات: مساعد طيار فلاي دبي حاول تنفيذ هجوم \"إرهابي\" وضرب قائد الطائرة بفأس Euronews.com",
-        "player": "",
-        "content_hash": "84b0eb9a20b0fea8c8a55f715946cab35e49a6a99d9cf64bfd63ae3a84deb6d0",
         "sent": 0,
         "section": "morocco"
       },
@@ -598,6 +598,22 @@
         "section": "sports"
       },
       {
+        "id": 8636,
+        "title": "جنوب إفريقيا تستغل خطأ شوبير وتفوز على مصر - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQZmhkUU1uNVdMY2h1Y1dIZ3kxYjFIelNhS2ZucFJ4dUdGbklENlZJVGV5alBFZFBoNlY5Q08wM29kQUFPUkM2Y1NMNmU2ZW4wTEh6ZlFfYUQ1ZDEyNHIzbmp2ZzZuNFo2UnU5SmtCTk9WZmpaaDMycFhheElDazVIc1VIWTB6UHJ0LVNVdS1wOGtzWDM0R3FhV3ZDRXBwX09aWE5zcGF2TkNoM09OSzVueVJLRUU5YURrY1Zvd2Zkc1JuMUN6Q1RfX29HbjhaOE9rVTJGVUU0RFdKUTFRNVlfWXg1ZXJvMDZxcy13M29xak0wUTMzTHpWWVk1LVdtRU82bS1Xb2JveFROWXNtbmVYaFVDX0g5dkZIa3RwbVcySHpVVTA1ZmpmYUl3bmMzUzVvS2RBYlN1NDNLQ1kyQktXcWNScmx6bTJYM0ZEZUxYenRVYmVDV1pKU0dWOG92b2PSAeQCQVVfeXFMUHpVUW1rVnZ6amRwMzRQNUFReDdhdlc4NXJlVk5WYTZFbFpiZFR0OVhNdGFZME1zbzNyaHhZSlM0clowU0xkQW83RTROYnVHWDZ0RWZwbGdUOVIwUF9aRy1CdGg1ZG4zRklYay04QUlsOGs3ejFibGVJcFNYaUtMbDZlbTFHak50c0dickJpb0dQWVliS1hiWG0zbzROc3RSZi1zMDFPMHZqMlUxUEVpX0lsc3FQQlRtQ01aT1FhRE9PeXdoQlFNME5RRU9sUU5xRDVuSUs1T0NMbFdEYnN5NEtUOTBXZE90ZXZORmJSZklrQlNscmwtNHQ3WlRIWVVaZ0tDZ2w0N0VLQjBUVHFhQUxaXzlvN3VMRUcwYU1sUWJqUjBGb2NZcmdleDNHMmdCVW8tTXBwejJmUm9FdS1SUTU3ak5KYV9Wc2J0c3g5S2N3VHlUejZVdUtDQ3hSbFlNNXcxOG4?oc=5",
+        "source": "سكاي نيوز عربية رياضة",
+        "trust": "C",
+        "published": "Sun, 04 Oct 2026 22:47:42 GMT",
+        "discovered": "2026-10-05T01:53:10.413125+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جنوب إفريقيا تستغل خطأ شوبير وتفوز على مصر سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "83bb5221daf6901aaf8df44e2c4715b878b665282c19c5ca70d83505df96e8e5",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 8610,
         "title": "winwin يكشف أسباب غياب بوداش عن منتخب الجزائر الأولمبي - winwin.com",
         "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxPcHprTTlKYmROUkdoUzNHcU0xR3dMeERtQjBYcEtoaWZxWF83Z1RqUUhqald6V2laaGlJMUh0ZnBPNmNwVUprMU5UeW82TDR5UzRuRHRGeHFuS0J0UmtsRFBxR2FBQ2RPSTJQSHhlVXpld1lRdnR1RE1SM2hQMngzOUpZeEI1NENhbjdZZXJXOHNDd2w4TXhWYmJ4STZuOVVqX1pTOFRJenRoYzdDNkplQS1TRTVvb1huZHJna25DZW1TNWd3NnJSd2tubDNFb0YtbXVNazRUUkNkcWEtTkFJTHlMS3h6RFUteDZtdnV1Y1gtSmd4VmRKNFRMYlhyUTZsQk5wVHNfV0l4RDM3a3V4dDh2OGhOU24yLXNuaVhoRVQxTGZqaUZvSmlZMDhsSjRTbVlRMTVRMXdneG5veU5oMkFGM0RWLWFvM2g5ZkFSNHhTY1liZkxHbGRROGFHMWFwNGF1ZnJJbkpiYkFDdV9DSVZrMlpkM3otLXhmTENuWEdnZ3lpYXlTdjVNdl9DUnNDWmdTRDczT2hvRDN0T2FqdjJ1d2NCNVFoaFVtdTlaUkVjOExfa2dya05QZmpVSlVIWWZ6TlpYeXN2aFdO?oc=5",
@@ -690,6 +706,22 @@
         "summary": "بعد نهاية التوقف الدولي.. منتخب مصر يتراجع مركزا في تصنيف فيفا FilGoal",
         "player": "",
         "content_hash": "281a6500c698a71167946a059089e00d08f2fa627d3688c41b2055cbcf3e43e6",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8637,
+        "title": "دوري الأمم الأوروبية - هولندا تكرر فوزها على صربيا.. واليونان تفرض التعادل على ألمانيا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMikgVBVV95cUxPM2RFQi1fRHM2UnEzVHVYNmNTT0JhUW1HSllZOHlCY0w4MUlXNzFaMk9veG9UVWNCdXd5UVEtUDJhVnVPUjJOc1BDeDZ4Ul8zQnY2Z3VOdi1MZVdLQmM4a3BkdEtzQUN2NFVSYUxJMjZqQXllUWRMeFlzTVVrWl90bG5VWDRTOTdITmtMNnZ5ZTZ1b2lMRHVOeWVHYzZ2SDA1M3JFSVZnRkYwZWFwbXN1bEFpR2JWSlVkTU9DY0UtN2dFZ3YtTU8tZVNtNFZ0dzM1bHVyenhYVUVucENOQ2Rtc2xzNzVEN0VHd3RYUGhpN3JoS1FkdUJwUG04X3plbTV5Mk9lMS1lOHhHQ0c0ODFIMWE4ODlpUkowSmpYZE1mX19kS0RyVEtoVDE5TDZERTBVNVc0ZkV3MU5JdkdmUjhIUjM2aTZObnRxbFdrUUJrU1BLUEh5ajYyakNDR3lMMWFFZnJZSmRqRTRGSl9TLUtjbW8yWDZSdUlUZHJUb3NIMXhaTVRmLXNtXzN2V3JNNzVldF9mdmhYMzJ2aGlwV2hTTnB0TndlYnBTb2lfQWdOQ25ZdENWMlBuaXdReGNXN1JrY3pMWjNZTFM1ZGdRLU90ZW42T3FZcXNQX1ZOREM5Q0luSnZjN1ZxaFdDNVVGVUpMa3E4VzJwSlRvYnF5YTM4aTdtYUFEV1pHTWpjenpHZ2dKZWFMZVF4RHdQTlhrSlpZZDNONTVBUjdxREVyTE1tbjQ0d3d4VGpjREN2MENKN3ZzRlZVb0huOGo4X09wVXNJQnZNVG0wdHlJbkxtSFJ4TnA3b19oZWN4TW9faC00djdZVmhqci1FUnc2NXJTLXoweW51VEk3X3A2SFVxV3dGejNR0gGXBUFVX3lxTE5nYzJRbjcxOWVJd2l2Vi04T2xTS2dZRnlxWDZXTGtvNWZOQi1od3JUYnVlLWxRSUpNQm9wcUZlTTFnYklNZk5nbHdLZ0dBajBrRnU4VVYwTEJqSUh4QmhDWjJxMXFSY3JvOWIwSEN2cDZSZWhIcVlvMGdYRXUxZzQ4OGpleElkUGV4Mk9uSFkyQ2RDQnBEMjI3Q1p0SzJmWkIxQk40SzhOYmJ2anp0dTRuR0NQbTlqSnRuN1VkVXhzTXRiWlRJUk9yd0xoTFN3OWNQamFYWXRYek9NRlpkdlBMRXo4VEFmNDE3TXJoOHNwbW5uX3RocHozQUpBRFZZYkU4NmZubUd6a08zSkxQLVRGSS12bUpaSElwVFcwbkVZYkJzaGZKdlp5ZGM5M19rLV91bDlpTHFyTURubFVDVFhNampHd3NNczJLYWx1c2hzcmVSaTVVellaS2U3U09KalI2a1RDNk5zNThOMks4NUdwY25zcm9FX0Vhby1kVkM3YzE2UTY3ajJIYlN5YUs0ZFZOeU1PQzQ4eE5ybUR6a2FWdDdVWDhGYnhQcldVallQRXIxX3dVY0JXTWNPLXRxLXpXSFhHN0NjZ2ItdUllbU0tNzg1LXNNQmpRU1AtNmhmT1Z3ZVRFZjdaX3hJN1hFYVZNN3MtOHZCaEY1a2tNSm96YzlnMC0yWjU3R0w5QXdjQmJHdlpHTUkwSUlsZDliVVFHbkhIdWw0bFJvZVpHZG1PTzRnLXdtSmFMYmlvblY1VzM1NEtJQVRfVjg1enBYeHUtMk5ZUU5DdGdNa3VxMWJPamhVcHdTd1Fsb1ZzLUZkN21LRGVoeGh3d1h4MnRTOTlLTEZjak4wN1BpU1UyWlFyZDRuMnR5bw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 04 Oct 2026 21:39:00 GMT",
+        "discovered": "2026-10-05T01:53:14.621555+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "دوري الأمم الأوروبية - هولندا تكرر فوزها على صربيا.. واليونان تفرض التعادل على ألمانيا FilGoal",
+        "player": "",
+        "content_hash": "963b8b06d9014e25fceba5a4c0243d200e9a1405bab1856fb6ac5f06c6b244f0",
         "sent": 0,
         "section": "sports"
       },
@@ -1266,38 +1298,6 @@
         "summary": "ريبيري يفتح جرح الكرة الذهبية: فوز رونالدو يؤلمني منذ 2013 الشرق رياضة",
         "player": "رياض",
         "content_hash": "2ecfa63dc2f8e552caee52fbb48637e95e7c10a234274dd58e8b3606f852821c",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8534,
-        "title": "عمر مرموش يهدر فرصة هدف أمام جنوب إفريقيا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPVC1NU1RaeFltanZSanFfNHQydlZPcUREcThDSzhMaFhGOUVmb2U3TkJkM2p0WjFvQnZUUXROOVlld3lkVUN3ekpkUkZkM2JMZHNCV2J1emdFb3pPUUtUR2hwZDJMbmFMbmh4aDEtU3U0RDJDNXQzMnNVS3paQWhIX2VBbDN0MUVJVVVoekFpVTVMS1Q5Y2ZJVVJtMHhsNWQtMm05U2hxWTJWaVpLam1FMTdiREtVUmtDdUZaN0kwNXNubXV6N1lIWFEzR1BqZF9kZllBM3NjWlFIWXFCWDNiZFZ4UVBSQ2pCQmZHV1N0UkxYa1NUaDNlbUNkVU82NENyMFo5SWFMVngweENRSUROOEptMmNNbDdWaWV5cTJWSjMxYTh6TDN0bWppTWJvbVdMd0ZzTVFmOXE3Y0lTSVJZMWdwTGNCODJyMk40Uk9jdVloWEU4ak0zLWlSLXFiSVlqN3FQQWtFUDNFeU5vTXo3dlAxMlYtczZ6NGpxbEQzS0FidUlzd0lCUVFaRXVyV3MwdW13?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 19:01:00 GMT",
-        "discovered": "2026-10-04T21:11:43.546126+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "عمر مرموش يهدر فرصة هدف أمام جنوب إفريقيا يلاكورة",
-        "player": "",
-        "content_hash": "a548633f47fbe90aa121fb45b97192125a7954b63be83eaa1bd2b52dbe663210",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8564,
-        "title": "تعرف على مواعيد مباريات الجولة الأولى من كأس عاصمة مصر.. القنوات الناقلة والمعلقين - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9obzFLZk9fTDFpckxMQUtOS3JhTFZtVDdKOTZzRnFxbUQwbnFFdWVuMkVnX1RBREt0dmF0eW5teFlzNVYzSHlSZmIwbnRFNjZo0gGHBUFVX3lxTE1Ib050SDFtclM3VlFGSE1DWFRPQXBYbHpKRXpoM1gwc2psOUFtQ0xfdTR1a3pIeHFMT2s0ZWVtZVJhWXBrRmJyYXAxNUN2dUZGdGtMMkVrUHJpcnVxS3c0V2xmYkdTdGJQbVZTRGpyNUZBemxGMFh2d0ZpdDQ1YkxYcUFHeVl1YWoxWThYY0luQXQwUjFUSzJaMTBiMm1SX294eUZ5cFFteHlpZVdJLWJSNG1Xel9FUHR1OEJoejNKYTU4TmhUZTc4NGhxTVphRTdhMzZ1aW1ZWjBscWJ0Z2NwZ3AzU05CNDB4R0tXeGl2LUxNWk15bjNvLTU1VGRqMDJJVWpmWFRoSjE0M0pXWGlRTWxXWkF1SGpMSGwyTWdFRWhUM0xuWjhFYUVuM1NGQWZNcU11bWUzTmRHU3lBQ0NtekVEbWFYMGYzVlpLRWZURjNHbW5YSlBkazB3MHlQZUNaX0VRenM1UFh5RTg2dG5hSzBHSEh1bjB3eG9wRFFiSFZvaDl6ME5hZk9BNENpb01RVk9kVmd5OHROMVFJZ2hfSTMwY2dXMzJFNVVSWG1mck1HY0RMYnhXYXRCWUd2U3N1cTU0enJLMEdYUmEzc3Z3UExXN25oa1NrQjdQRTZoeWdCZUM0d0F4OXFhVzE2ckM4UC1UUEswSUtYVHNueWlUUGVib2JpdC11cTlVYlNwa25HdFJOdWdla00xT2JvXzUyT0NNbFpDZ1djX3JUdXBDUkxqT0ViQmt4Q1YyRHEtel9IaEtrRkZTMks2T1hBaUIxX0xoSFFKR09JRzNPVmV3M3QyZTI1RjFDZ015emRHNHhQVkdxSVNLaGRzeXFkUDJIVF82Y0s4?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 18:26:13 GMT",
-        "discovered": "2026-10-04T21:39:23.487004+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تعرف على مواعيد مباريات الجولة الأولى من كأس عاصمة مصر.. القنوات الناقلة والمعلقين FilGoal",
-        "player": "",
-        "content_hash": "ae71613aa66663907eb899df10fdf6e13ea5a63d37a716f34c9e89947b91757d",
         "sent": 0,
         "section": "sports"
       }
@@ -1958,22 +1958,6 @@
         "summary": "باكستان: اجتماع في الرياض للجنة الدفاع السياسي والاستراتيجي لاتفاق مكة العربية",
         "player": "رياض",
         "content_hash": "702af327b6e2cbadc7ef56bf0460b336ea097f1cde2b4559cb1eb84afd1af5dd",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 8146,
-        "title": "رحلة فضائية بسرعة قياسية.. تقودها سيدة إفريقية وتضم عسكريين - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQbDdnYkc5OHpjTjJHWm1SNjA4X0JmTHNCWlk0ZmlVNWRoYUhkd0xOeFVnWVdkNEFZVzY5TnMwX096RUlacXZvSDdrQkRaOHl1ZGw5NTVYZ0dkVUIxRV9LTHlmSGlTVUU1WFA2bXIwblVxendUcmdaY3hzV0NKS2p3M2hsb1pURnh0RXBPam50VlhDV3MxNFVUaFVTdFVhVEJrbmxpSGtPRW1mOVZOWnA4NEoyY3IyZk53TWNmQ3BNanlLQl9uNEhtSXMza1hpMU1sbmhpeTh3UGVtVlZWVng3OVZGOVk5TEJjbklLaWVSYmVBc3Qxc2FhTUh2OW1RMjRDUTU0UHVHcWJ2VkFVZHNJRTRWRVFNek9JODVpcVBnTWJ2SVRjY2VxenI0LWVuTi11WE1SWnc2UkJfY21KXzdOc3Uya2YyUHg1bEFDWGJwX2p2VzNES1NnclZtVXhtOS1KdWYzY2phTkdQbmxZQ1lONTF6dkhGWkhfbUZCVDVkMHFqdUNRM2g5Wkd1OHBpSXFYbGFVR1dtc3VCWVhxcV9FRnhnVzgyallLMTZBal9DYW1vMlRYd1pVX2JEUm1lZ1JOb2xnVDZQWlZzY2tzT2tvNEJjTlkwd050UjZTdDZ6VW9JOFB3QUpVNEpwY3JKanPSAfQDQVVfeXFMUGs0akk1OGxsNU1UUlNoMVJXMmVyN2s5eC1Yc3pJaWxvRzlfY2ZsMlo0d3AyUUFOOXVfRTNYbVNrQmd5Z2lXUEw3bkhPU1dNYVlBaVpjb1hHY2g4M1hCcERadTNQdldRbzJ2YXdpd2MyS21Sd1pablQyV2JRc2xaNU1aVkk4Yjk2VzlHd2xTZEJjVDJBRUdvbGhtQlZwajVHby16RU85c3d0VHN2YlpiNTBWZXdlckQxdlhDUUxPVjYwcjlVZHhTeksyMEo5eS14LWgweVB6aW5zT19ULUR0aDgtQkRFMV8tcEZlWTI1am15WXJoMkpQUHJsbmZTOG44SWJiQlBPcFJocnRPTU5pTFVJd2R3QVlUS25sSm9aTExGN3M2Z2tqS3NIMXFPRXM0R3VaOW8wWmE3c1hBUzJXMXNwbFdpcXZzT3BZcHpfMmhJc1dRbDkzR3g4VUlQRlAzVUZiUEdKbzVaMmRSb3l0TDRsV3hXdWdsbF92YnpsSVlJd3ZJNHhKdVlMcXZleUlFRC1ZREJnOENHUGFKWHZZa1VCU2JpeDVFU055ZlFSOFVMc2JvaFp5S0M5bUZ3WndwbzNtNXJ1Vm83Yk5BUUxJTDd6MGI4eXZlZlFFekhZcjRhaW53bmRmaXJVWWpsZFpneDNFenU?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Fri, 02 Oct 2026 01:52:00 GMT",
-        "discovered": "2026-10-03T10:12:23.912961+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "رحلة فضائية بسرعة قياسية.. تقودها سيدة إفريقية وتضم عسكريين سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "7d07856be275dd385da442cbad3a8b48e3f04fac71c870f4cfce324c2bc8d7b1",
         "sent": 0,
         "section": "middle_east"
       }
