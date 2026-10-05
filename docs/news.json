@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T06:03:05.723534+00:00",
-  "total": 133,
+  "updated": "2026-10-05T06:31:47.701881+00:00",
+  "total": 134,
   "sections": {
     "morocco": [
       {
@@ -324,6 +324,22 @@
         "section": "morocco"
       },
       {
+        "id": 8691,
+        "title": "الخطوط المغربية ترد على ما أثير حول عمل مساعد طيار \"فلاي دبي\" بالشركة - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYXJCOUh2ZjdHd1l5QnRMU0lXeXJ5TG5ZMjc2RGt5SmpiVGFPalA2MkVOaUFmTmwxcTNWOEpJMW0wN01RM1pRVzVaSFJraHZiT0kzNXpkb05STzJ3UXlSWVNjZ0p5YkF3aEdXT1k5QUN0VXNndnJZWWVrOXZqb3RzNG81NG1KcWY4ZkFDenMwS3dZVlowdTJEY0szVW5qY3ZQZnRBRVc4ZkZLNWMwNVdvRHpOQ3dGV00?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Sat, 03 Oct 2026 16:43:45 GMT",
+        "discovered": "2026-10-05T06:31:47.176351+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الخطوط المغربية ترد على ما أثير حول عمل مساعد طيار \"فلاي دبي\" بالشركة CNN Arabic",
+        "player": "",
+        "content_hash": "fd46a9d184cdd2b6b102547580683f40ffee2700de8f84de33beec89d4effd63",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
         "id": 8241,
         "title": "بارات بلادي.. لا تافيرن: آخر ريحة من كيليز القديم في مراكش - goud.ma",
         "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPVURWejI1T2FXeDBnb2hYU1JYQ1hFUl9SclY4dDc4ekliZmk4ZG1TX0tlRXU1NHJOZnMtUGFmY29nVUVLNE5VTk5MbjJHWExidVFtNWltOENMWHJaNUowZklFUmUySnZxWnNWNHJZcHBDTnBrdjRGb3NUQ3hoajJEM1I0NVlseE5pRkkxQzJvM1pnbnQzcGMyM3kzZjljUmlNak01cXRwSklWR21qMHVZU3pFcm5vczg2WEM4UzhOMnRBRF9CTlNxQ0R1anhtaGxXVS1ITkdfTEVZMVVzYl8tanhtQlNTRHU3NXUxUzVwUWRuLUxkaWNBbHZqd3ZVMklEU05BejVmamlieTY2VHZkR3d0bDVuSEtoeXBnOUlvMExzSl92VDdtaTZuUmdUSGdoM182MW5FdFdJSXFmczk3bXpCTEc?oc=5",
@@ -469,6 +485,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 8688,
+        "title": "جورجينا تهاجم مدرب البرتغال بطريقة حادة - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxQbnk2YTA1Z0RZQ2RURmJlSkxOdnp2X1hNelJFTHJFSGhIcnFqUkI2ZklzS2x6T1A1UTVleHBJVFRsb0FQVTMybklLeHdxQUY0NFRpSGtaaXlqMldBa2tKbUFyc292cnFaelQtSUlEUmhzdUpGNC1HUHUxRVBaVkdzajd5dXNxVE1SQmxpb280R3pjX3dpQ3VXc29pSjNOd0w0bUZ5MWR3SndFeThMQW1Ta1dFd2FZV244ZnpZSGVlcERIVG90akxUSjktRVFaRWNsWWpSMWQ3bkw2S1ozNUpYaFNUWDFZUVY0dmwzS0hZdUN4VW5lOEpuRkR5dHdLa1ozc0pDNEo4d0ZsZlJxZi1NeHJHUzdHVzRmZUduRHBzYzdkU0RVaTAwRWg1c2hDejRMdDVtWU1ETXk0aTVhR19hR0xkZnhPM01PYTFPSDdKSjFYMnA4MHdDNkJ5elhza2FzbDVrbEw0Z1V3NHRlUjJqYXdmaTNmYmlkSzBsRFZBaVZ5Q1g4X0hsMmRMa3Z6amJJSm93WHg3UXlhcERyVG9mVXdrWnozOW9xTlFBMnVwdDI1amh3T2w0V0M3ckFxdzQ2QXBZcjdaeXk?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 06:27:36 GMT",
+        "discovered": "2026-10-05T06:31:28.398630+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جورجينا تهاجم مدرب البرتغال بطريقة حادة Kooora",
+        "player": "",
+        "content_hash": "1577089779ab6fc45042f7afbc10d4ce46ccb24efbb2634989052a0f8534b58e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8689,
+        "title": "مباراة فريقي السعودية و الإمارات في بطولة خليجي 27 - النهائي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOTFNQRFBoUTBaYVJKdVZQTS1McEpKb3J5X2pYZ0lhVzI1dFhNT0xhYkxOV3pBaW03c0VNaHl3RngtUlRBcGtOdFJERXY0eWZ2enU0LWJEN3lhbU9CbXhJTHR5cHpydHkzZVJXaHcxZXdxa0R2V1hmY3l3eWVxZ2V4aDFQRVJWWHJtbkZBMk81bm0zTjMzSlljNTZ5dUswX2dXV1RPZUlwc1FoVlpXTmc2bXRaNW8zR0JWWWo2cS1WU1ZNY0FZMWF5cG5zVW5sc3VmWmdiellQcHhsUWg5MFN1Y3lzWWtaZW5yM2Z3WjNyNlFGcklxaURaMDlvWE9SLU52QmRQT1hRcU9NeG8tMGdoalFybFVVTHRyaWp0NnhwYU1lclJxeWdrWFl4c3N0TnFiWjNtSjF5SFFhajZLUVJCSFR3?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 06:15:10 GMT",
+        "discovered": "2026-10-05T06:31:33.514829+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباراة فريقي السعودية و الإمارات في بطولة خليجي 27 - النهائي FilGoal",
+        "player": "",
+        "content_hash": "132859272d74f9a6bab0193061d00c88ea6e4b6d70ad36d4b3faec9641e9418e",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 8656,
         "title": "المنتخب السعودي يستهل تحضيراته للنهائي أمام الإمارات - سكاي نيوز عربية",
@@ -706,6 +754,22 @@
         "summary": "winwin يكشف أسباب غياب بوداش عن منتخب الجزائر الأولمبي winwin.com",
         "player": "",
         "content_hash": "ab085152f6b27caae289a92691983e13bc6d7f5434889eee431815c448741a75",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8690,
+        "title": "تعرف على منافس منتخب مصر في توقف نوفمبر - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HUDk2aW54M2xVYUhTUXBpem1PaEx2LW16WVpVcDdXLVR5Wi04WkE3LTBjUE92VFMwaXFpUmhVOGRQbmppbWVjZ2NuZmh1aER50gHgAkFVX3lxTE0zOF9DcF8yaXNWQ3plOTlVMTlzcDNEZVY4U2h2TURPRVRyYURXYVFvMDZKY3JReVdkZGs1Z2hOYUxMeDVJeWp2UEtyeEl0d3hvbkcyTm5PaHNGdG9IQWJLYlVOek8yOWhFRDBCOVE3cGZJTWtZelZadlNmRGx0blpaNkZmd1ZwN2dJTldITWxqXzUtdWRLTmVzalJ3N3NxZ3NjaW5RWnZKOHQtUDhHTWJqd3Z6dWxVWFUtdlZneFlMZjdkSVRydlQ5SkQwNkYwSzR2bUdIOU9BNmstOGtuTnI1dnFuMTk2V2Y4WUR5dFZHdHhkalpib2w1UmNFX2NXSHJzMFVMaFFKOFczMXd1RE9QcmoyWXpVQTUzakRRYTFiaGxvUmRCeHFjbzh6SEtEalp1NnN5dGNhSUJXc01fWHlRVE5aNHFCMVYtQ2UzVVJNQ0xjVm9QX3hnZ0I0QURDN2Q?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 04 Oct 2026 22:10:00 GMT",
+        "discovered": "2026-10-05T06:31:33.519449+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تعرف على منافس منتخب مصر في توقف نوفمبر FilGoal",
+        "player": "",
+        "content_hash": "96589ccb00ebec3665fa1b52901d3129467b83637615623c60203812a166e8af",
         "sent": 0,
         "section": "sports"
       },
@@ -1218,54 +1282,6 @@
         "summary": "ودية المغرب ومالي.. التوقيت والقنوات الناقلة جريدة المنتخب",
         "player": "",
         "content_hash": "8939d56c6f94122441b0f577d5fd321d3f4c89cbcfc4a07308c972fa05461374",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8569,
-        "title": "فيديوهات | هدف جنوب إفريقيا الأول ضد مصر - بوسو ديتيجياني (ودي) - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1OeXY0S05FR0hBZGpKc0pUMmFrb2E3OHY2VjJVTnVtQkFzZnBTTHk5UlZuVGR0OW45bGQyS1FRbF9oX1lwMTVXMm9XQkY?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 19:54:00 GMT",
-        "discovered": "2026-10-04T21:39:23.506644+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديوهات | هدف جنوب إفريقيا الأول ضد مصر - بوسو ديتيجياني (ودي) FilGoal",
-        "player": "",
-        "content_hash": "a5f4a68b2b68c4527dcaa705341ac1b16f48facf1497a36baf14d051f230c2ca",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8549,
-        "title": "فيديوهات | هدف جنوب إفريقيا الأول ضد مصر - بوسو ديتيجياني (ودي) - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxQRzVkUW1zQzNtUC1wLWdGVlQyWUdSbnVnYkZWWTdjRzNjMGxURTA3ak9iT2VUQXgzNFNKVU41b2NrdjhDQzNMSkxpcUhodGJnbFZGSHpSd0NYMVlDM3ZHYnlpTDhVYkZzX2ZHcUthRkV1YVAwODY0NTVvWEoyZ3BQS3FaRzB6Y1BRaWZXSlBmTUpHNktnYkF4Yzk0SHc4ajJKSjNlT1Jtei1vSzEwRURMZjNRcDl0dFRnSDZqOXpwMFR0Ukhtck1ta1RXZjFXQUxNRFUwOUtSeDhDRXN5ejVzbUFJTXdwWXUyQWxFMnJiMGJPc1czTENnQ0N6aXc0R2xFZnF3LUFxeXUzSmdtb2IzcUJVdnZ5ajdna1RoMVFYdDI2WHJ4RjVGeFd2eHF2TWRYakQxaldqalN1ckx5SG0zbGhFTmY4TUIwbXNmb3hhODVmejhWTFB0WnNwZDRGZVRYLWVVcmlkazZ6VmVSRENrMVdtRHp2bG9QY2pRcmgybFB1ZlF5b3VDOU9UazFINXNoRENMeFZTYVY?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 19:54:00 GMT",
-        "discovered": "2026-10-04T21:11:44.197132+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديوهات | هدف جنوب إفريقيا الأول ضد مصر - بوسو ديتيجياني (ودي) FilGoal",
-        "player": "",
-        "content_hash": "a5f4a68b2b68c4527dcaa705341ac1b16f48facf1497a36baf14d051f230c2ca",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8602,
-        "title": "الأكبر في المشاركة الدولية الأولى.. المهدي سليمان يشارك مع منتخب مصر ضد جنوب إفريقيا - filgoal.com",
-        "url": "https://news.google.com/rss/articles/CBMisgRBVV95cUxPRGVMMHloSWppeS1XSkw3ZEY1MERUU1o2TjFBUjJET3hSdDBLamtQVFAxUHdQMDFQTUVieFRRZ2stU21IbkpTMlpCT29YRjVsdEFLRlFOU0ZLSkFNaW9mRGZabHhwWDQ5bXhLdFJITW1abkhReG10aTR5QXlUbkxQZm8zUGpWeVZYejZqeVRJQ295aGxwMTdZeFp4WEsyUzJvSWtCNmMtM1QtRlBSVXJiQnpscEJIUjlvWXZVS2hydU56dG5BZ1BkYnZMM2lvcTZVY2FNa0I5TEI4U3BRMHVfZ0t0YUxMQ3NlRXkwelFDQWJhWXIyUk0tSEljcWlXaUhXd2VFVmt5czhqV2NObHBRYkhfUHY2Yk1taXYxSFVDVXZDdDBQNEVjUnZhRWxqeGZ4ZU5KcU5XM2F5akR5N0pUV2lsT1FfeFpkWExBWUZoRDBjSl9lX1U2MGtxNlVmd1o5OGNCcVdxcVNXT0pyRkx0N2dtTm9RbmJLSXZ2dmFMZGl1Zm1rVEloMTVCSDJWd01nN2ZrVWdlemZfVy1QUnFBenNwRmdzTmQ1QU9FdEVvajgyWkMxMEQyRUhZNHpaT2k4X2tYRkp0NEJRTTBOMGZtNXBWbXVkaUtLMkk2WGZxRDgtTzljN1pfSHhhc2VyNjZNc3NGOGcyeDdkY1k4Ulo3UG5CLTBZMHFfRk1NdzcydXY5NXlFTU41UjVINkpOUERqck5samVfOXZVYVRHamwwc3Rn0gGQBUFVX3lxTE5jMi05RUVmOVNIV3dacm11VFlJeFlKcFp2LW0yU3hRZWtDNkpSYlBXaXJQdjNOc0VzRHVQdm43MXpaN3dpMFZRRF9wcTlUM1B2OVREc0RFSnVqaS1SMjkwdUYtd2FDdTBnTEJBaExJdWpKRzdDaVN2ZmhqVFlyMUswUTVPcF9zckduSkh0b1JjcEMwTW40QWtuNWM2dFFrdkNiN0NQQlRHYk1KWVFkei1ZZjNJb0hhcy1mQXR3TzNpWDB4bGpBMHJpa2xCcUt3NXNhUHNZUnhWT1o4MVVheGkzZXNrZHNlSC1xQUJPT21STUNPWjRBWjNPcTF2NTZpT3BZUVRhMXRKWGpfeFFlaHZuVDhwUnFQWEJTV0Z0R1A2WmJnN1BoUjBEaEhjSnppZHAyakQ4WGhtTnhxMkhiTHFNVFZHYzlyRk43bVRwVUJOdEhjYnJuZExuOUR6Mzk4UlB2dGFtTFM4WWtCMzFFamg4REtTRzNFdmNNb0RhOW5XaHlzblZKeUwycTFYdmJfUlB4NkVrSTZfbk4wWFJaRWVrYnFqMkZMSE1ka2NVRXl3c2wyenFOZWJJWmdfbENQd3BXSE91dnBMSXl3QVBBclI1Q2tFelFla2lMNlhUY01vMzZxc3pPQXY1TTlqOGxGWEVQTDE5UlhZWDRoUF9uamdoMWh3VlVoTzBDQXJLYmVRMHpmWWJDU01hVzF6dHpMbkFxTW5PdEFNZHAxZzFhRWJ0NFhldmhYV3A4cXotbVNDX1FjR3o1Sy1Da2k0ejV4TXZmSDg0MlNEMEZtZGlUaEZfZ3NSZ2F1TTBFd1RGYlY2YTg4VzZtT3Yzby1SeXNmZll5VVJNd0hhZVVjbEFhZXVy?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 19:52:00 GMT",
-        "discovered": "2026-10-04T23:32:30.011414+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الأكبر في المشاركة الدولية الأولى.. المهدي سليمان يشارك مع منتخب مصر ضد جنوب إفريقيا filgoal.com",
-        "player": "",
-        "content_hash": "37d3be9016c808790e381d38a69c367a687a9920e565374ac5fa86ec3f2caf24",
         "sent": 0,
         "section": "sports"
       }
