@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T15:56:57.019396+00:00",
+  "updated": "2026-10-05T16:11:44.764108+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1320,6 +1320,22 @@
     ],
     "transfers": [
       {
+        "id": 8802,
+        "title": "من معتقل سري بدرب مولاي الشريف لمفاوضات حكومية.. شنو كالت تقارير هيئة الإنصاف والمصالحة على التعذيب؟ شهادات ضد عرشان.. وصلاح الوديع لـ«كود»: غادي نجاوب على شنو واقع بقصيدة «غبار بطعم الصدأ» - كود: جريدة إلكترونية مغربية شاملة. - كود",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPc2oxNFFhenR6YnNUX05FTjc1Uk1YN0cyMTc5UE9HY1FkVVR3dWhkUGNGVTlXTlVrRG5IMk1VSHhGUVFZb1FIRDVXVFFXWkVuMVlrR2dlbl9vQ3RjdE02MU9yNG55T0tLa3ljMW9NQ0dTckYwcXhiRjdxSkRYY000X3NaTlJjMmlZS3pIdjZvb0NmUTBpbGl4bGlmU0U0aXIwbUtRS2drUVVhc3ZwUEY5ZUFYeGJpRGFwcEI1QUlMckIxYmNSMDVzV1pueDUwdmpVQ2F6VXBsWWhyTTB4MXZiOU1hZEhiOWY4U2xfWVNIVkNWTVdLV2prckxscGpmVm81ZUVnRFBQU0pveHZSd29sVWhxbmV1aWVhYl85azRUa0JRd3ROY0ZybVlqNUJRVk1CcjVvLUVTS3otV29zNURFOE40VmdMTTVfYTU4?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 11:56:53 GMT",
+        "discovered": "2026-10-05T16:11:22.063282+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "مفاوضات",
+        "summary": "من معتقل سري بدرب مولاي الشريف لمفاوضات حكومية.. شنو كالت تقارير هيئة الإنصاف والمصالحة على التعذيب؟ شهادات ضد عرشان.. وصلاح الوديع لـ«كود»: غادي نجاوب على شنو واقع بقصيدة «غبار بطعم الصدأ» - كود: جريدة إلكترونية مغربية شاملة.",
+        "player": "",
+        "content_hash": "a25243626b87fb90bf358f318eada4a39e09c560d6597f62a715cca6a4a19c46",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 8744,
         "title": "رياض محرز يصل قطر تمهيدا لانضمامه لنادي الشمال - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPUS1zRXIwQmZCSHdybVFDcVJkMC13cUo5ZXJkZEVQVVYzMkluTF8yMGNjZHE4WG5kZHNqbE4yN2l4VzNDS19rZzN0eGpSOWpIZUFqV0ttT3VIdXhFVEVRWHY1UWN2dDhDb1N1WXc4YVNlZEtLMzQ5QzgySko0UDdIYjl5eDdkZlUzbGhNT1dRa0taTTlTQlo1Z3VPODlpbEpVOEw5QklzeFJRaXFQVDNOV09VbksyZURfYm9zb2dYYmZQT09GckpQd1M1eXpxaGZtdE9uM0d0MFdiQS1IODBnRElfVzRzT3EwQWVOUUI3TWpBd3MtS051NkpHbW5yN2I1aTRmNmE5SDVpY2FmVU1jZlhaaXhiM3J6eEtuRzdsUHhOY1h0Nkl3X01TNS1pd1I2Q3gtSlRSWUhXUTEtbmpkRUgtYmVoa3hVRHpkWjdLZExFWWhPdExzMWFieEtGS1hrSmN0cWN4REE0ZFJ5b0FRbVBXNVNibk0wWVkwaWdFaVZfb0tZa1U2cVdYLWJBY3VsQklTdmItWjloSS1hNFZBYVpFVExHRXAz0gGuA0FVX3lxTE9yRlhELU1vLVd5UHk2RnN3MklxWnJ1S3M2bGVTSm1MTV9fNnNYYzBZTExNdkFJei1HcktjOGxsUF9PSVpzRWpXZ2t6RXFlY0ZYV1JHTDFPUUs1QVRCUGsyZE9QaEgzdWFuQ3lLVVYta1p4TUVNUjdEZzNQcG02ZUJ4eG9kaEhCUVFJaHhieVFodXhhaDNKTFpMTE9ZZTJQd1JCM0lzS3ZleGU0dkFYYjRPX0ZVb0Y1RWM4am9YNEVBaE5pQjBKUllGSEpkU0hUM1g0VHlSempTeWVMU3NDMGJGSzZlME50ME5mUXFOVVFGM25fOWpidi1fb0VCQTlJNzZXUUVQeE0zTG5lZDF2N0QweDRtbld6YktxUGtLUjk1NUhvd3lYSlRlWHJ6Sy1Zck9qeExKY052UU0wa1BTOUJKbWEtWkhHOHJzZzIxQXJ4RVB6MU1pckE1c2JNTDZrUWU1VXF1Z1J2eS1pa2xreU4yUnZIUXo5RWxsTGJHWFNyX0RmV2hRYUVwUWxHVnVmLW52Y0xwY0oxRlB2UUVGQzhmQ2V0WjJmWWdFMzF0N1E?oc=5",
@@ -1962,6 +1978,22 @@
         "section": "middle_east"
       },
       {
+        "id": 8805,
+        "title": "الحوثيون: هاجمنا منشأة لأرامكو في الرياض بصواريخ ومسيّرات - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQeTc2Yk1abG5PUHhlenFLcGdWM0ZaWFR4bWt2ZDBZRlNlLXk1a0xnaEMtT1Nsc2g0eTdYQkJ6UVhXME5mQ0xwbkE5VGlWaDc2Y1J4cGZDXzJUenZLRkE2R0VsMDdlQXNuZlhmeWtCd1Fya2RHVlBSc3hVb2NzczVmNWNvY2FiczhJQ3FFQWNQTVU2Y3RJVzd5SW15c2tZaFQzd0NHeU5xMGh4d1F4cmh3OG14Nm96T3VqR1lSVDljQnNyaFpxZUVIUWxyQTJsQkowZWdqdVVybG9WTG5QNDNLcEgxR1ptZUZJeGd4X3VRZVBMelRzdEVPVTZrOG9ubjduQ3NPZUFqZlhzMjBiMncxX0FUNlZZV2lsNXdhRjBpZFRWUFZac0E4X3dtWkV4RU1Fc2Ffc3piY1U?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Sat, 03 Oct 2026 21:22:06 GMT",
+        "discovered": "2026-10-05T16:11:36.374647+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "الحوثيون: هاجمنا منشأة لأرامكو في الرياض بصواريخ ومسيّرات الجزيرة نت",
+        "player": "رياض",
+        "content_hash": "0deb5c5ddec25dbd6fc87304eba6a8d872a4c963f369903a6bf6384b24b36be1",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
         "id": 8324,
         "title": "التحالف لـ«الشرق الأوسط»: مزاعم الحوثيين باستهداف الرياض مضللة - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMi_gRBVV95cUxQV3ZRX2lwLTRrejBLNTJFMkZ6SUZETjNpNFZrRlQzTHRFNElpTGExM1hheTVwYWFtVnVCbV9DdjlvbF8zOFh4eUhfdFpDMVBkNlcwbmJsc3pnWmpBc1UwdWd2Rm9TLTVRa0tZNE9iOUphRmhGNmxVb0JkZUlzLUtTTWh4TFdreG1oS21aZWMtb21ybjZzbHJnLVloZ2VoMEZzYXFzOGxLbXJHQlZpeGJiSlBsbE1sSzBmS0E3YlMwckF4eW9Fb0xPekdhc3RfOE1XVTlBMm03ZnJZTGRHT2FXOEx0R19aMzl0TWZjbUJxa0gyOFJpMThqTEx2UEZaMGRCWkk4bG90bXV3a0tWX0lwWjRnTi1KVXJRLXFMeGhSZHpjZFRxTWtMSmlteWcxNDZHS2hGUDVhUVI2TlpGVGU1TkJPSnpvZ1QxT01UamM5a3l4MUpQM0lua05rYWVDN2U0WTYtcWVGMF9iYVBNdmFkTDdNZlRMNmxoRGdfdVZTWHVPTllBd2VkV0VkVE91UW1CVkJVMkU4dF8wN0oxYkhWUjdFWEhiOWJQN29uenI5WnpROEZ3S1ZFZmZMSTlnaG1McGVLZ0IxVldPRTl5d1RlUjJfM2hvMjFDYUlDN3pLdUZWc2hfUFozcjJuYzBKaUduNHI4am95QjkxR3lUZ1gtZnd6bkdEWkJfVzNJQWNLcnM5RFp2SkRDU2ZhMGxNLVhPdGEzU1ZLYjJodndWMHZkUmUtZnZvNTJvcmVlcDJUcTNQVmxrZEF3Y01NY1psTVZzTVc2SlJtTzhFNkFTc3pqRkFKUGtVWlY1MDlsem9UcEFLa0tJQkRqYmNnOGR4Zw?oc=5",
@@ -2054,22 +2086,6 @@
         "summary": "وزير الداخلية اللبناني: الدولة ستعود لبسط سلطتها في الجنوب سكاي نيوز عربية",
         "player": "",
         "content_hash": "3f4cd4b0bfe32a40bcdf7ccdda56e681eed92f9d3607dd82288ba702519b3f4c",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 8322,
-        "title": "وزير الدفاع البريطاني يرجح وقوف إيران وراء استهداف \"فيرفورد\" - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxNNmZtTjFtSmg3cjdLTTFJU0ZxRzJSRHdxOU01VEpYbEdUWHpFM1VNNU56VXBZY0pOaFZaOVNOa2cwekUwLXNSU2cxMEk4RFFodUo0cFNNa2ZsWHM5YXRYWWZybUxDMDBhVWJwbGt5TVBTVkVUdlV2ZllsMUtPT1NoNHk4dEdkcXVFR3YwSlhoLUxSNDBrdVNJOUJvMVhfRW9YTVFUVzAyZ3BUV3VuVlBxSEgtNjAxMUFSVG5scVFZRGtfOGhPd3hxT29HN2tEanNvREtmWC1MbXBIT3I2ZnFaQVNmRDUxc09QVTR6VUFvYkVjZEpaZmZrTWlNS2hueFVkYXZKeGtHQ1l4VktOVmJLUjlpb0FERHlyMzk5ZDJKelRkNlhNemxBQU9nNmZjTEt6Q3FhSUJrdkczUWw2SmRlalRTZFA0OUItODVBcnVXNUxqdFI0UXR6cUlXaGpXY2ZabHRjOHBwMEhFRFpxRDNJTzh0bkoyRy03LWdWTDZfNjhZSU5TWmNuTi16aTlMNkJwVnpoOERwSE9uZVFyVHVYcDBVUzVTV3BUeWdnZXRpYV9qM1QyeC04cXUzMjNKdEpxQmxxOERNZFpOSVg4Q2RWaDBlOHIybnQzWUdQTHc1d0RvTUJlam1MTTJRVnUwN0RCT1HSAfcDQVVfeXFMTUh3U3E3ckFDVnJaWXJKVldmVTdmODJXMGxpSmZNUjFETVIzS05QenVWcEpVSkh0X0VaSWJ4ajBkRXdCazBFTGVOeGY5Y0RHdFI0a0FWNGRpbjI3N25URTVpYkVzNUZld016cWl0TVV3RG9UZ2lab2p5aEFaalcxVVpGVjBRVUZOOHlmWVdpWjR1aDRhaDFQU0Q2cnRzQzVsclc0cHJqTWsxZmwwRzBvaXAtcUM0eWo0Y3hCUTZCaUcyVjN5M1FjSHNRRkRaakRLRHNQcFFZcVgzUWJuNWp6TGtDcG9nYWw5Q204V3R3WkxYWWs1bUpmaUU3cE5DNHlOTnBvTHRNWjB0UVJPUjJscVRtSkY0Vzd3NDJOcGRmZWdpZ2JPZzB1R09CUkUzQ1Q3ZlF2TzF1WFBxNE9rX196aF9CdFJHcDNtdkpjNmJjN2EwdjRuRWdUOFAxZnUtTFpyTFlXd0ZCYlF1WDg0aHZjcFFBbk9Rek1fa29FUXk5WUZEOEFNRUpUQTc4a05IdFlTMDdLdWh3UDJVQTZMc1BUY3RmNmNwMzNxNXYyWVJqMG1WdHdBMWNQNExZVWNNMXk0NnliT3RubGVHTmdJU2MxUzVqRG5fT25BYVlPR1pwWlZiWVVPVWdOQWpaUzhrQXVrdEVlMzhkdE0?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Fri, 02 Oct 2026 19:53:21 GMT",
-        "discovered": "2026-10-04T00:08:11.547183+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "وزير الدفاع البريطاني يرجح وقوف إيران وراء استهداف \"فيرفورد\" سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "5360e9648c5a4b7b4b0d954f1b8ebff9cc49c49e0b637b86e6dcebeba5ae0b1a",
         "sent": 0,
         "section": "middle_east"
       }
@@ -2392,22 +2408,6 @@
         "summary": "تركيا: لجنة تابعة لاتفاقية مكة ستجتمع غدا في الرياض القدس العربي",
         "player": "رياض",
         "content_hash": "b8e9346e995ebc0b84e8a4a0ca5f475f6625815f09a020c2ba1e0d00ac1fecbc",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 8424,
-        "title": "الانتخابات الرئاسية البرازيلية: \"الرقصة الأخيرة\" للولا دا سيلفا من أجل ولاية رئاسية رابعة - France 24",
-        "url": "https://news.google.com/rss/articles/CBMipAVBVV95cUxOUTNOLXViUzJ1aVoxX2xQQTJVc3Y5TXdwM3U4RC1hYmNEU0ZEZU5GR0h1ajd1YlpaZEVWSnpVa084LW9XTHFqWVZhdEJUY2Jvbi03UWRjbDFFZlY5ZUhRZlBpSXRGS25vajRYcEY5SGMyREg2c3RlYkRWVVJCeEl1Ui1ablY5Tk1qQ1R1RFNDR05NXy0tUGx1RHBGMmUycmg3dVV6c2V3MV82cjNPaDV6cUhOa0dKNks5cjViWmZHcnB1TERCb0M3ZlE3OF9rdndRWkJGMDVmUnFlTEdiVGFXRWh4YnFFOTFVNHhPbjFYOER4NEU5RHNERlhqakt3bGxQaWkxa1hFTlR4bF9NM29QSFc5dDc0bFAwU2hfX0Z0UkRtRFhWWldYXzdtVXNzUUI4bHF0enhMRXVxdEh6RHNKS21kcXhwTFFyQTVDWEY4dHVaYlkxVzN5TWYwUTdOMjRKMXdWc1pnOTVQT3RLODlueV95dl9LUFdYUml6cmwxdDFIM2c1Z0Y2R3lKS1Ywc3ptby1paVFUVHJabHM0YWRJSzFmcGR2R2hERHdEZXR0b3NvUmZfRDhidVRwM0lXdmtSQWxrMURwcklhbmxmSWN0T0dmSm9ydUZ6aklfTVpoZVgxbUNtWEhEYU9WV0FEc2FVSzRicVZTMTVjOHMyTEZ3cHZZQ0NuVEo2SXZGV1ZmNXlVTmJjOUo3WFUxVFItSGQwYVQ0X2RmaWtQeFFPb3dFOVBYUFZ5cHNmQmNfdWRadFBLVVJHLUI3OUVIbm5lVDlXdFY0Mlg4SmxWbXBsTXF6bVN1RkZ0VkNnVnVEVFY2aW4tSE5KTnNYWnJrdUk4bXpybjlFZ0IyOTNzYWRYTUFzdUx3VUc2aW5vZjc2T2VVV0tOUHZ6?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Fri, 02 Oct 2026 18:19:57 GMT",
-        "discovered": "2026-10-04T11:08:03.360405+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "الانتخابات الرئاسية البرازيلية: \"الرقصة الأخيرة\" للولا دا سيلفا من أجل ولاية رئاسية رابعة France 24",
-        "player": "",
-        "content_hash": "8f7f2e3eaa605f9be5e0f1675e75bb767ca55f04fb1ef28857aec824f68f481d",
         "sent": 0,
         "section": "world_arabic"
       }
