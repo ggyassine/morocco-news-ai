@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-05T02:04:51.893939+00:00",
-  "total": 137,
+  "updated": "2026-10-05T02:23:21.471735+00:00",
+  "total": 138,
   "sections": {
     "morocco": [
+      {
+        "id": 8645,
+        "title": "أمن مراكش يوقف شخصين لضلوعها في ابتزاز سائحين أجنبيين والنصب عليهما - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12WnFCZmNadnZCVHRhM1pzQ0dRckRjVkJhc1JaSEE3NWQ3SDVua2lkWGR0OUx5Wnp2Z3hxNFROS3Z0MVR6My10cF9QMzMyRHlpUmNHXzJOSEptekNDZ1NhMjhxWEVwQQ?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Sun, 04 Oct 2026 23:35:38 GMT",
+        "discovered": "2026-10-05T02:22:55.794390+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "أمن مراكش يوقف شخصين لضلوعها في ابتزاز سائحين أجنبيين والنصب عليهما Le 360 Arabe",
+        "player": "",
+        "content_hash": "3e8e06261e5402e7dee66a8c019ce9e532419f4719b27ec7e7ed8c15cecb4ec3",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 8508,
         "title": "نشرة إنذارية: زخات رعدية قوية بالمغرب - Hespress",
@@ -614,6 +630,22 @@
         "section": "sports"
       },
       {
+        "id": 8647,
+        "title": "دوري الأمم الأوروبية - أيرلندا تتعادل مع إسرائيل بعدما تكرار ما حدث في اللقاء الأول - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxNdWZpUUIzbkVYYTFFM2p0NnhYZFBGeUtYQ0E3VmdiVGx3ckJBeEtfOWVUb01RRFROclptZ0ZhUGJBeUprNmk5ZUltSDF6TVdpWF9pMEdPMTdsU2xXMWt5TnJ4eVFVRC1BY2hOaldKeGlINHRiNHJvbDNEVGJCZzNMWHlTbHRUNXU3Sk1lUzYxMEwwZXJPYTZzSk1mSDFWelMyeElaWWpMeEppX1pjSWxEbVV0N3E2cTVEOXIxTFZnbjkwT0tiU0FubjY1MTBGa2EwdC1aVXhPejBRQjRBdHRrY0doVmdLZ0laS2VpWWdvS243MnZsaHF0MDNIcGlKeXNQb0JaSTgyZFhGUnpqY2trVERPZ3dQSXltUHhXcGxjdVZuYzJXYnBVc095Y01FTmhleGNfdkF6clYyLXJ2S29yOVhzR0tFSFhPZHNBaE5NR09COWd4RmJoTktRVVE0NHlPYjZPOFFKNExRREVhSFByallENnF6REhUV3hFcjlRRVE1MHFkZHp4cnVlMmdEcWYtWHJWR01rX1Vabkg4bWFOQmxWSXI1LUg4dEZ3MzlDeGZZMFJuTlptMXhoSFhGdzAxVW5KYTBMX0NGM0xGLS1rLUVvOEVxaC1PZHpodWtWR0tmdWpibkgwcm84N2hVREk5am9IOHVhVTNuTmhxMEdsM1M1NmlYbndvSnl3QS1KVHBLaGh0aDFJZ3EzTXFDYy1zbEtmblNYQ3JKdjZLN2pjUU1pSUZ2UUlDRjdrNzFYTUNhWlpwTXJpcUZNWkdpRjhNcEZIZnVRdHlKOUV1TkhYSloyRkFyelhyU0Nmd0J6MGFtUjl0emFWelhGS0R4R0RkXzhV0gGIBUFVX3lxTE1LLVZFc3h3ZjlDaGMzRzl5NEhUal9lTFB6TW15d1NQTzc3WVU2d1NkMnFqdkNlSXJ2Ul9uSUpteDNOei16azA5cV9SR3EzaEtBOEF1cWdNUnJFeUJHVFJoTXk5RTNTek05QzI5MU1nSVo4VWE1VGJpQjYxcEwwbU12T2RFekdIVUhTbDlOa2g4NHN6bENBZVdGQ2dNZjVmYU5LV2Y3REZJZ0VMd3dnSFBiajQxN3dYSVhURmVlcmt0cnJDUEM2eGtwendfVjgyLUFCd1FEYjhucGRoQWNycHNTT0ZBdGpOMGhNR2U5R3RkT3g5RHRxTjY5cy1YZm5CSGtXVHM2TmVyTXowOEJfZkVyQ0RuaWxpcTZTUWY4NkwzOEhka01EdjJRSGpSSFFyWnY5QlZnR1h0LVljS01aXzYyNnZuOHViVEpFeHN0R3JGRVlPajhZM0pWTzVvNEtaTTJNZ1RQYzFxRm1rbUNRb2xMcXRicWdKclR2NmhzcFhyTm5VdlZMOTktb3FfT3ZPNHV4Y1JRRVctTDQyVzFUYzhxV1dwdXNrTDZRT2xxWWFFOWFLNVBJeWFXb3NfSmJOYWxLOE5URTlSQ29hQlBjT0FtMG03dmxQZW9ULVc0T096VFBSR0hqcUVtMDh5RDJybm1wS3JRYzNIZnFMQi1xUU5YTXZKcloyMEdYNXItMVpMWjhCVjEyOWdVVTlEUldra1lhUnQtbF81TDFEaTZacnlEeFRZeXN4bGxzY3gyRkNRSGpkNUZRMV8tTzdEdkEySGZIV29ZNFV3blc3eVVVaGYwVE9waW5FM0FHQWt1WXpaVlA0dmIzQUhkRmJsWlF1d09HR2FqbGtIZA?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 04 Oct 2026 22:31:00 GMT",
+        "discovered": "2026-10-05T02:23:07.240122+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "دوري الأمم الأوروبية - أيرلندا تتعادل مع إسرائيل بعدما تكرار ما حدث في اللقاء الأول FilGoal",
+        "player": "",
+        "content_hash": "9e3874906cb7276d9a427a88b95e9f82df774c25cee74059443fe2f6a9ff239c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 8610,
         "title": "winwin يكشف أسباب غياب بوداش عن منتخب الجزائر الأولمبي - winwin.com",
         "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxPcHprTTlKYmROUkdoUzNHcU0xR3dMeERtQjBYcEtoaWZxWF83Z1RqUUhqald6V2laaGlJMUh0ZnBPNmNwVUprMU5UeW82TDR5UzRuRHRGeHFuS0J0UmtsRFBxR2FBQ2RPSTJQSHhlVXpld1lRdnR1RE1SM2hQMngzOUpZeEI1NENhbjdZZXJXOHNDd2w4TXhWYmJ4STZuOVVqX1pTOFRJenRoYzdDNkplQS1TRTVvb1huZHJna25DZW1TNWd3NnJSd2tubDNFb0YtbXVNazRUUkNkcWEtTkFJTHlMS3h6RFUteDZtdnV1Y1gtSmd4VmRKNFRMYlhyUTZsQk5wVHNfV0l4RDM3a3V4dDh2OGhOU24yLXNuaVhoRVQxTGZqaUZvSmlZMDhsSjRTbVlRMTVRMXdneG5veU5oMkFGM0RWLWFvM2g5ZkFSNHhTY1liZkxHbGRROGFHMWFwNGF1ZnJJbkpiYkFDdV9DSVZrMlpkM3otLXhmTENuWEdnZ3lpYXlTdjVNdl9DUnNDWmdTRDczT2hvRDN0T2FqdjJ1d2NCNVFoaFVtdTlaUkVjOExfa2dya05QZmpVSlVIWWZ6TlpYeXN2aFdO?oc=5",
@@ -966,6 +998,22 @@
         "section": "sports"
       },
       {
+        "id": 8646,
+        "title": "من جديد... لاعبو آيرلندا يرتدون شارات سوداء ويرفضون مصافحة لاعبي إسرائيل - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMiugVBVV95cUxNR3hoTTlGLVU1YnVXdjdUUnplaWxvSy1CbDA0cHRsNHZyaVprbjhXQ05GYlJJdUpMQlpRN2EyQVhPcmxXRk1vYVQ5WlVXS2xrNDM1WGYtSjdBY3ctbzFwcWUtRjJqa2NBa2VKUDVrdXdyUVhlX09aLThCNGIwSVd0RWJyUm1RQjJ5dUlLNllhSkJEcy1mQTN6WnI1Y2U5eHFYeDlvd21kRVkxM2ktRmk0WmVkdDE0alViREpuTnlFdGtGMFp1dG93aXRlYmJNNUVhR0syZnF2M1BycXJRbWpZS0w4ODV2MzZQcktCU1QtdGlKNWxRVUYwVlJLYUk0MVlZVXNfMEFGMUFVRkQtaF81cW1JYlJwT1FIYWF5TEh2REQ4V2dFaXdBdlZvWHZKNG50QzB2MlBTM1BCYkp3dlU0QUxrdS1VX3d3N0NHYVM0bG9ObURXc2xTRjR2MklhaDRJcTNkUXdNYUxRSTA0eUw4bndEeEVrWV9ha1pLU19vejFqYkdNQ0lwUVhBN1JiWTdKalR1bF9kRDlqU1BaQ2toZXhod1Q2Qnp4WmpSdVk3NVRyYWdleFo2SU9uRWRvWDZVX2Z1QThHeDVfNzlqclZzZTNJdjhYcnhXUDhBdzdqNDFuTzRETTB1S25KaFVyWHVHa3J5YjV4S3FpWEtycElHYTQ5QnZSTmJKZl9uekc1Z0xtaUhyZTRXTFZmdGo0ZGNTcmlLZV96MWdzNFZkS3FwU3R3ZHl3UG5aRFhLRXFsWEdWMWt4a3gtU004eTdTbTJOOG5qZmllNWRnYTRjT1JjZE8tcDdKcVZlaWdCZVpHcFRUeG83WWxJQXNsN091RXloUnRadGJBWkF0TVZsejNaZ3ljWksyamlEcUcxSUI1XzVRQ2J5UjF4ZVVGckFXcm94TXcySkhST2VGUQ?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Sun, 04 Oct 2026 20:19:00 GMT",
+        "discovered": "2026-10-05T02:23:04.763091+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "من جديد... لاعبو آيرلندا يرتدون شارات سوداء ويرفضون مصافحة لاعبي إسرائيل الشرق الأوسط",
+        "player": "",
+        "content_hash": "d033e64f3c1fe22c9cb45893f8aa589841f560f09e89a1b3972d14336ade2fde",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 8631,
         "title": "ضربة في تصنيف فيفا.. تراجع منتخب مصر بعد الهزيمة أمام جنوب أفريقيا - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxPU2lTTzE2VVE1ODZUOWtpRnhnSl9IYUUweWRoLWxlb1NqZUNMdFpETEZTcUU0V2RyeGdfUjN0UlBiWDZ5bjZsdmRRQXVNLXZ6bzMwR3dhVDYyNHl4NndwWmFsVzU0cnBSamw2MmpXS0xLbkdZRUJjUVRjS3lVemQ1YkdUXzA1bjVQcDBDcG8zVUU2WGhsV3BQUk8zSGl3MmVzckxkVFpDRXBZaFZWRXJTNm9ScWNUUUZmZVpFb0JxX1JZanZmUVAwNEc4OE1uSFF0WEZIaF80djJDT3NSaXJSclR1b1FSTlJzM25wc0FIQnVpcXJqb2VDT2lBRUQzNEU1S3BHSjNTUFJiUHo2Z25MVWVJaWIyaUJsN3lnNEJ4LV84all0bmNZb2FjLXBBQnJiOVYzNEl4cEVrUmozbTRQVlFKYmJEVjRmQnVnNHU5enVHWVd5bjBRbXVQWGVMcUQwUDhuVUYtb3hPd1JMUzl5NG5iYk9xeEZnUDFYel9rdmNxSFpLMkpDN09pa3l6UGEySk55TzV0dmlCQTB2NFNOdGhWTWVhYXlTb0xVUmNhLVdUenZJaXRxZ2M2RXRwSmJpRHhPTXdnb2xJeUk5Y0hVX3E4VkROcF82TTdjZ090XzFOc2NBTUt3ODNiWWdTN1RLQ0hIWnJJUlp6N0ZOVVJqY2xYTEsyd9IBswRBVV95cUxOWWRhSzZueklIdmNzNV8yVVNXTld2Q1dORTRqb3N4MDVYcjZNa0RtTDdpM2ZEb0hDOGIwbi0tZEpDbU1lNXBkMHYzb2JVbGNfNUdvOWRxSzJ1Nlc2eXBQYmhla1J1ZGVibDJlcnFPQVgxUTVWUnViZmZMZzRHZjkyRnUyNnZObkhGdUkxQXRySEliU1liaVFUVlFMU05ldkZDcXp0cG85bW1xbFpHeEtaT2xfWTNjVWNTZnFpdTNhNkV2R1c2QUZTOWRzS1hUb2dwY3d6MFI5cDJqUzlzMFcybjhVMThzWGFqWEdTbHdlZ25vYnZzdUFTTFlzTFg1YjFncHYxclU2a2ZwNGZtV2VRcktmenZMbExPT1U2bUJXLUE4U0xJSWVEdlNOUGlwTXZ0cmF6Z2EyM3F2VWtUZVc0eVUyWVR4amNoT20temtoRmVlOU5NdDFudFpPQjEtRlZVYXpyZkZST0tJNTVkazNZSm9NamlkNUs4RFNLdEJTN0F5eUxtY2pRaU1ENkNydjBrUmhNd1k4YUttY29PT040TjFIc3RmdzkxbFFuSXhXQ3JCOGdOZV9QYjFtLWZYSTRqWkU3Z0p2Uk00QTlUc2ZiMmpGQjZhUUFPbmJrY1M1cDlHN1c3YmxJSjFjX0lWSkxja3RkZHAwaV84ZzE2NXpWUmZGbHViZnFUM2VlRXNoM2V0RHFsVS1BRGJ0SHctU2tsT0hUOS1NNloxNmpOclhPX3pXMA?oc=5",
@@ -1266,38 +1314,6 @@
         "summary": "برشلونة يسحق ريال مدريد 7-0 في \"كلاسيكو السيدات\" الشرق رياضة",
         "player": "رياض",
         "content_hash": "3883f435d9af7aea3ef8ff88885fb3e71fe38a2e80c7220b92ef42adeadb0ebd",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8601,
-        "title": "لاعب جديد منتظر في منتخب تونس بين نوفمبر ومارس - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQLWZWd2tCSWxJcVBBc2xqRDhjc3pBdE9xNjBSMmZzVTlSbUlYaEZQMzNJR2VuNzdqMC03U19sUDVZLUQtM0hCRDRRbHRmdE5pNHdOOWFkRTZqd19pMTYtNDVjejEtOE9SRXZSb04yRDFEekpKa3pmc25BLUtLNzdXVWMxUkxqcnAwNEFKUHRDNUV1UUNFbTVXNlAwa1JTWXlpa0RkQTBfQ0RwQzQ3Zmo2Q1VNY2p4aFpLWm9sZ25zZGNRdmhIWlhxb0ZJaGZzenpRbTFVZGNhajlua2JMaU43NDJCX1pqbkhkeUZOZ09GcE83VFlENEIza1BXeHN2MFpNbWpqVmhPMVE5MEk5Z3Y4Tmd1aEVob2JqUVV4dHhjbmlvZ3hLWDZkd2E3WUQ3SnRWOTRyc0F1REJUMEVRSGtXRG1sTUFYaWpGakZoNHA5SFc4SmZ1RkhOM2NqTThGWkRGWTg4Qm9xYktFZXRHQ1U1eXBCMm1EZkZjZEdtWUxwVWg5d2JBanJsRzlKX0ZBWEdjdnBabXBtN2RmUEVUeU14eno3TW5xcTljVEY5ckFUTQ?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 19:09:54 GMT",
-        "discovered": "2026-10-04T23:32:28.813907+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لاعب جديد منتظر في منتخب تونس بين نوفمبر ومارس winwin.com",
-        "player": "",
-        "content_hash": "50640b06d2902df4815c4c904dac1519449b7062e6dfb7b7d184a52e14e140c4",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8562,
-        "title": "أبو ريدة يكرم رئيس جنوب أفريقيا على هامش ودية المنتخبين - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxQclZwcDhQV19mamZ5OTkySGlNd3lVMXdhcTJZbHRsZnI4V2k5NzFLNDhPeGo4TWpaSW9qOUVfR2ctLW5fUVFUT25JSXFpN195Q29HX19CVWtreUFQQjVZYkhzZXYxc08wTFZqbWI3UmotN1A5b2FNR3JlS25hNWE2MHFjUDAtd2JNS0Y3dGtSS2ltbE5YNTRUVFdDTTB5RXZ4QmxtbkJHMndteXBCZkpmSm9VanNtR0VQT2k1azlsMjRpYThHZ0JaQ0pwNEMxNzJYZjJUV0lFVjdlNjFNQ0I5TkVJOWZ5REtSaHhsLUlVb3hmNlFWXzhiN2hvaWh6cndnYWVJTUt4a3BTY3dNQWM1b0tsN21mZEpnVUVxaGtNdzhnZGdYWjdZeGN0Q2lYUGZrLTlxRndDY3pJRDU2OVR0WkZidDd2aEJOeGtQS3hfWW1DclM3cFo4RmkwLXRueVFrU1VxdDZXcjlFaDN2dV9XWFlYZS0tR1V6RUdVZjZ2WWd4NnYxR1VlYmlWYlg2WTJSSmk3b0xPX0FRMGxGUVBFdXJCaldYM0ozajlXR09ONVhVNndYQUdwWVNabVhyUE0yM0tDSnhPZUM1MHBJaFV3UnIzNGFuR01sOE52TGR1RmlWREF3OFpDY2s3clJrblNJNGFB0gH4A0FVX3lxTE8ycU1kdGx2dms3MjVjNEp6aFRvbWtGbFd6RURtR2NoaGY2bnRyd0VzQThNM2pqWGJHZVBfb1NUNURRUXJHd29qV2RlR0tncndfWXBjUGluSnFhOVdBUG4xeXVqYW9HU29MaFJQbGdJWUY4TGh0a2xZYVFFWERtdVVKUzkxQUwyeXhrZlMzb0ZfNXdWdVhCX3FFZnl1VW1XU1FPaS0tUE5lbkJmWDhyVGVXRXFmM2FIUFd3SllKRkpNWGhGUXlXTmhiT1pZcTJxVjdLYk1PWWhMWVc1cXp4TVd6WTE3ZHRvTzJ4N1l0c0Nza1FqaHJYRDRPWXBrNVNwRmQ0QUlTVnJ5by1fOHBWQkVMMlpMVC01ZFJ5enBLb182bzd0b2VqRmQ4RTFzdDYyTTlaaVVRSXFfTkhidW5vRjM5dGdOVU81Rm5ETWRJMGNORGhscHFTTUREWTQzYXdnOGxON2lvTDJVakRWQmVIeW9iSW9MbVVieFRBVEpUSFBleDNtcFFHSmEtWXFCdmxEeG5nN0NJbS1xVWtkMzZYcUg0ZEpPRkNrTmptUW5rVFhQVmtSZHo2M0o1d0gycThKU2lmRGJrMTNwdEE5VWVSVWRyb3lZVW1jWVU1R0dxRzVHb3c4TjlHS0hNanVpbGViY0ZhZzNkYlFyOA?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 19:08:00 GMT",
-        "discovered": "2026-10-04T21:39:22.685828+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أبو ريدة يكرم رئيس جنوب أفريقيا على هامش ودية المنتخبين يلاكورة",
-        "player": "",
-        "content_hash": "fe466a09230055580f177e714d0d864fb2647cd62d7625196ed7386810d11cee",
         "sent": 0,
         "section": "sports"
       }
