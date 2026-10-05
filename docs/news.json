@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T09:51:18.848029+00:00",
-  "total": 139,
+  "updated": "2026-10-05T10:05:00.194373+00:00",
+  "total": 141,
   "sections": {
     "morocco": [
       {
@@ -517,6 +517,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 8724,
+        "title": "حكم مباراة السعودية ضد الإمارات في نهائي خليجي 27 - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOdy13RlhlcjlGUnhMb3h0Qlo3dXFzWGdMMjZfb1RsbVZZTEJTdGJ0dWZVWGs0WjVBV3JGOFI5Z0Q1SnljVTdQX1FtNGkzMUp3QVN0UEtJdlRSRVgzYjYtMnY3X29TOW92bWdtZDZ0T2VXeFVBaWJlSnJNeVZRcnY2NE9HWC1sbHlrbFNBS3hXcmlhLTRFcUtVbUtITl83NEtLSFhJWkNVUm56UW85NWlrUjl6Qmdfako0ek9oeTVoS1ZRazdrdlFoZDNMM0ZrYWQ2bjFjNzJvWEktTVQxN2g1d0RkOU5EYUM3V2JJZFVEQzMtaTE4ZGx4Rm1pRzJucC1kbVVlUk1yQVVBSUpQT1NBM3hQd1diSTV6NVJLNXJKekZfSlk5WnJ3VXVzamJyRnlDc2F6Y2Zkc0RqOFlZLU1jLTJUNF9vanlaWkJnZWV4QUxDSW41eERhSFk4T055T0U?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 09:53:28 GMT",
+        "discovered": "2026-10-05T10:04:45.147629+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "حكم مباراة السعودية ضد الإمارات في نهائي خليجي 27 365Scores",
+        "player": "",
+        "content_hash": "07e2832f21c813c081a8fbfe9ee330e53825f8888abb7c66fd7897d5c4841513",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 8722,
         "title": "بعد نهاية التوقف.. منتخب مصر يتراجع في تصنيف فيفا - يلاكورة",
@@ -1126,6 +1142,22 @@
         "section": "sports"
       },
       {
+        "id": 8723,
+        "title": "مركز جديد للمنتخب المغربي في تصنيف الفيفا بعد مباراة مالي - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOdDVubnN0enhvNWtNd2N4YzJBR3R5TGJsR2F4OWhrbWlrc1hYQmZGajRGVk50a1k0UGRULUh0M1Q5OTFqY0pqSGZpc0dKTDZrZEhPNDVrcjdwc1V5R0xKeEM2c0lPbENQY0tweF9EdTNzTzl5dWhPMkNvcUpmOVV3dDV6OE5YdUVCVGxLTzVBYjJzbEZYZ2dGd0xwdGY4eWJ1dnBReVdXNXhhSjZvRzZNdlNwRV80ZHB0OEdORDNWZHZvMmVlZzdYM1pnaWJJZE1KNG5tWHpTMmtHaG1kUGR2Y0VNeVptelN2WThOUVdhV0haVFl1Q2h6dHlNdVI0dTF5LUJSWnZveFZScmlhZy1ZM3pmeThaNlVDWlBkanZkczA2amxablA0bEJxUXZrRTdMalZFTjE0Q0V4WkFOXzZIa0VuVVlVVlFMQTVBTTFuX2pLR3UxM1ZvbHZYMm4wb1JqYjVHcmR0WHJMMWhwWHhxZ3BrNE1LSHo1c0hCNUs2a2FZdXVRZm0zREo4cjZ4RDJuT3VTRElDNlZHMW1MU2FIbFBPNWxBTG8yLVZsWUI3MHh0WHltR291TnkyMDZ2NFVZQ1ZHMlVHVlV5UERQQVFBQkFB?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sun, 04 Oct 2026 21:41:56 GMT",
+        "discovered": "2026-10-05T10:04:38.479528+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مركز جديد للمنتخب المغربي في تصنيف الفيفا بعد مباراة مالي Kooora",
+        "player": "",
+        "content_hash": "196e75264cf23448ebe24a6c5b939f28a594eeb58ec5922f595c278661e72365",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 8637,
         "title": "دوري الأمم الأوروبية - هولندا تكرر فوزها على صربيا.. واليونان تفرض التعادل على ألمانيا - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMikgVBVV95cUxPM2RFQi1fRHM2UnEzVHVYNmNTT0JhUW1HSllZOHlCY0w4MUlXNzFaMk9veG9UVWNCdXd5UVEtUDJhVnVPUjJOc1BDeDZ4Ul8zQnY2Z3VOdi1MZVdLQmM4a3BkdEtzQUN2NFVSYUxJMjZqQXllUWRMeFlzTVVrWl90bG5VWDRTOTdITmtMNnZ5ZTZ1b2lMRHVOeWVHYzZ2SDA1M3JFSVZnRkYwZWFwbXN1bEFpR2JWSlVkTU9DY0UtN2dFZ3YtTU8tZVNtNFZ0dzM1bHVyenhYVUVucENOQ2Rtc2xzNzVEN0VHd3RYUGhpN3JoS1FkdUJwUG04X3plbTV5Mk9lMS1lOHhHQ0c0ODFIMWE4ODlpUkowSmpYZE1mX19kS0RyVEtoVDE5TDZERTBVNVc0ZkV3MU5JdkdmUjhIUjM2aTZObnRxbFdrUUJrU1BLUEh5ajYyakNDR3lMMWFFZnJZSmRqRTRGSl9TLUtjbW8yWDZSdUlUZHJUb3NIMXhaTVRmLXNtXzN2V3JNNzVldF9mdmhYMzJ2aGlwV2hTTnB0TndlYnBTb2lfQWdOQ25ZdENWMlBuaXdReGNXN1JrY3pMWjNZTFM1ZGdRLU90ZW42T3FZcXNQX1ZOREM5Q0luSnZjN1ZxaFdDNVVGVUpMa3E4VzJwSlRvYnF5YTM4aTdtYUFEV1pHTWpjenpHZ2dKZWFMZVF4RHdQTlhrSlpZZDNONTVBUjdxREVyTE1tbjQ0d3d4VGpjREN2MENKN3ZzRlZVb0huOGo4X09wVXNJQnZNVG0wdHlJbkxtSFJ4TnA3b19oZWN4TW9faC00djdZVmhqci1FUnc2NXJTLXoweW51VEk3X3A2SFVxV3dGejNR0gGXBUFVX3lxTE5nYzJRbjcxOWVJd2l2Vi04T2xTS2dZRnlxWDZXTGtvNWZOQi1od3JUYnVlLWxRSUpNQm9wcUZlTTFnYklNZk5nbHdLZ0dBajBrRnU4VVYwTEJqSUh4QmhDWjJxMXFSY3JvOWIwSEN2cDZSZWhIcVlvMGdYRXUxZzQ4OGpleElkUGV4Mk9uSFkyQ2RDQnBEMjI3Q1p0SzJmWkIxQk40SzhOYmJ2anp0dTRuR0NQbTlqSnRuN1VkVXhzTXRiWlRJUk9yd0xoTFN3OWNQamFYWXRYek9NRlpkdlBMRXo4VEFmNDE3TXJoOHNwbW5uX3RocHozQUpBRFZZYkU4NmZubUd6a08zSkxQLVRGSS12bUpaSElwVFcwbkVZYkJzaGZKdlp5ZGM5M19rLV91bDlpTHFyTURubFVDVFhNampHd3NNczJLYWx1c2hzcmVSaTVVellaS2U3U09KalI2a1RDNk5zNThOMks4NUdwY25zcm9FX0Vhby1kVkM3YzE2UTY3ajJIYlN5YUs0ZFZOeU1PQzQ4eE5ybUR6a2FWdDdVWDhGYnhQcldVallQRXIxX3dVY0JXTWNPLXRxLXpXSFhHN0NjZ2ItdUllbU0tNzg1LXNNQmpRU1AtNmhmT1Z3ZVRFZjdaX3hJN1hFYVZNN3MtOHZCaEY1a2tNSm96YzlnMC0yWjU3R0w5QXdjQmJHdlpHTUkwSUlsZDliVVFHbkhIdWw0bFJvZVpHZG1PTzRnLXdtSmFMYmlvblY1VzM1NEtJQVRfVjg1enBYeHUtMk5ZUU5DdGdNa3VxMWJPamhVcHdTd1Fsb1ZzLUZkN21LRGVoeGh3d1h4MnRTOTlLTEZjak4wN1BpU1UyWlFyZDRuMnR5bw?oc=5",
@@ -1282,38 +1314,6 @@
         "summary": "لقطات من مباراة ألمانيا واليونان في دوري الأمم الأوروبية يلاكورة",
         "player": "",
         "content_hash": "6a1cf9a65ea4c8c36a7a6ae19c318ad9961338b6eb945b57c7efea80827d3ed9",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8544,
-        "title": "تعثر الماكينات.. ألمانيا تسقط في فخ التعادل أمام اليونان بدوري الأمم الأوروبية - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMihwVBVV95cUxPb0x0bkhsMVV5Zl9YcjJvV1dzbFZpcmxWbGpDcEdDdXJZWXFNc000Q25UOWlTbjFROV9QWG1yRWQ3SDJuUjhabTZhMkpvVWQ3V2p5NldVdWtDTW52M21ybTdsMkJweEE5QmJ5cWtxWDE4dEN1Q3JONWNBUmk5R3NIQmEycE5hbGRfOU5uZlJEcEFDR2NlRTdRUEFGeV9Ea0RsM1FhTHNsUXBwcnhVOWNhd3JvTkJ5Wjltbi1ieWE2bzJsZG90eXlmM3Zzb2RjM1hLUmhVai1UVm1xQlNQSVpEQlJwQTFWTlViLUx4Mk42WEVXaFYtYjJsMmVBOVVwV1l3cmREM1NsOEkzVEpOVmpvTFkxaWhrMDJCNXFIOUJCNWxnbVBPQlM5UUZjaUtFMXVIbVUyaUU4QnJyZ05lbGtWaE9Kc3dJUERGX0lNVjd2SXZfVnBCZEk0bDE4U3ZQTFV2ckN3ME9fLXVxd01OUnZuUUhhSVNPMVFMSXdoVVpKVHV3R25wSFpDUjJBcEViYlAxZjJTMGxPeS10MmpmX09tWlA1YW1lZFZqNGFVUTdYd1NvUmEzTjhSMnpxRW0tTlp2dUVUVS1uYVhxc0JVZ3c3bmJFNHRCMVU3eVBjZEcybmpjUzh0RDNqbnJ3ck9DYjNUM253TTZ3TzhkNGxoOVYycDNkYnV4ckRYa2hkTnVxRk5qNVhqTlJReUItTEJsWlNTMENRb2VHdjdXamNqLVBUMWM0YUZCbVhtRzc5QVJKSGlzY2VrcnpkMmFrVnAxWWQxWXlFSVhZT1J1azZWeXVkZEsycFpPeWZ4cXA3SlVxTXN2eFJwWkF0c21RSTNoY3kzM09EdzVPMNIBjAVBVV95cUxQMTlvclNtM2pLUTlGZHJCOWpEMUhmU05DUlQwQjV0MjZXa3VYWUFaSWoxbzFoc042dENtU2N0MWk4d212MEhqZWw4NlU2Wm5oRlNEczFSNUxFVEVIRHpQeC04VUdkNnYwNzJWWHBrQ2pJV2N4UVhiRTBscHRZeTV3MFBPSTNucGxqaC1DcVZjcU9DaWF5UWFJSVNJYVd5aW1ZbEpSMTQ0OFVsYTJkUnFSLTAzS2ZvUDNZcXdwQ3Z2MGNaazZ0N2pnSGdWZmxIbTlEOFMyck1ERG9wSGNmSlY2cHdGTmhQR1pIOW0wV3FGc0FDOEpVWUY2VTNXMkhMV1Y4YXVuYWJPNFlPcXQtUGwtSzFsckRDNjcteGlqMW9VVEJOeGNIeENaOURsRm1tNDdVYjJmdk5hVUtfWVVNZml6R0N3Q21qak9wV3ZVeE0tMkgyWU5sbXQzUUFJVlNvVjlLcHg2LW1YOVR5TC10WV9sUURHM0sxS1dBeGdCV09zV0pibVBDdjZVbk1OVTh1c21kbDd6dTZWSnlsSjdSQU5JLWVRNU1LY194ZnNiQVQwQjBSaF9BemV1ZXlqeWM5WjJOckx3MEluZkZqa0RRWGFMZV9OaGwzNlVpVUtELVQ5U3BqWlhkeTJvemhYSWgxdzRkVDNLSGN0UHRXX0ltTmdXdS1NTzZVc1R1eU5qNFZnYTItTmFuZ1lxN0piTDBMcldMQUtiaC0wdXhkaU0wcUJDWnpjYUk1V3VOYnN2cVBoek9CTHpTRFRVYm9YX0g5ZWU3U2g1QnE3R1JDeFI5Y0szRkRLVlJTdGxfU2x5dUpvZ2c5WWR6bHhabkFTU3N5blBnLUdfMDV5ajJJVDZH?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 20:46:00 GMT",
-        "discovered": "2026-10-04T21:11:43.585239+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تعثر الماكينات.. ألمانيا تسقط في فخ التعادل أمام اليونان بدوري الأمم الأوروبية يلاكورة",
-        "player": "",
-        "content_hash": "5a7262103faeacbed7b7e7e8e208f03e632ce9dd33529d5db0d8f666a3b79e03",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8540,
-        "title": "لقطات من مباراة البرتغال والنرويج في دوري الأمم الأوروبية (صور) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxPR25Ob3JpMzI0Vko5Y05PRHFSclFtQzlTcHJCLTNCQ294UEg2NWNYTmpmbWU2ZFREdXdENm1IYjFwZnRoRnE2MG12SnZfdGRXdmg1c3RlMzk4c3p6S2lEWVJhcU1zQnRndGxVSjY1SHNtQU1MV21iNkhsV2lvV0paYTdBY3dRR3RIejZGZUpZSkRxWE90X21ubVNqa1Jtc1B5T2g1NVU3ZE9HWElBVFAwMUktYk1fcFJMZ2o4dEk5UUJDUVRiTnlVbnZneWMtX3RtZ3hjaDRPME1iRFRBaUdnVVMwN0V3WExlZUUzMElPczkwZkI5VTJUbU1VNkQ1OXdFaEZUamhSaU1fdlM5VzBvRWd2dnl2QmpucHFKM2FFdnp1T3JfQ2pJWm1Oc212VUl1QTZ2eEU3QWJjSV93Z3AwTFpTbGFYcFROS2hyVlBuejdlQVhsREJYaUhRbjY5Ymw1UE1MRE9JcUl6T1NsUlZ0UVMzTmFZWFZlWDdXaExnVWlZbWc2Z1dxZ0EtemNueWNjNTVvdUNFRXhPRnJQN19sTXV6SHM1MjJ5MW5SUEt0UUg4ZXNlTUpXUnBSYVZSa1ZuOEFTVGN3dlBrUlFPaHVucF9XT1pxRHJIYUxYcGQ1Yy1IUW9Fa1VLTHhabm42NFU0cFBVNWRZWlpwZ2w3MEI0?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 20:45:00 GMT",
-        "discovered": "2026-10-04T21:11:43.570558+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لقطات من مباراة البرتغال والنرويج في دوري الأمم الأوروبية (صور) يلاكورة",
-        "player": "",
-        "content_hash": "6a42dbb5d4759a6057820c9eaba1364b82f83058980e6f00d99c781860182ec5",
         "sent": 0,
         "section": "sports"
       }
@@ -1850,6 +1850,22 @@
         "section": "middle_east"
       },
       {
+        "id": 8726,
+        "title": "وكيل وزارة الصحة: فيروس الإنفلونزا الموسمية السبب الأول في تنويم المواليد بالمستشفى - العربية",
+        "url": "https://news.google.com/rss/articles/CBMirgVBVV95cUxPUS1JR2dKWWxFQ0lVWWZRdFh5cFVsWm0xYjdRM2NFSXNjc0NzdDU0X21ocGZkbGxBYUh2Z2FCRUR1UUlvS2JQREIwUHVOcV9MazlvSnVIRXBwZHRhN2FtWnZQUEllbWdWekc2VnBEV3hBVm00QzdBdVc5TklURGFjOG05MzJhbmZDSWluMDF5OEo2N2hPZlBHUGV0UmlGY0F0WnRidkxUMkRQYThzX0RIUEZ5VWg1Wi1hRDdCRGhGMzZVNlRrX3hFd1ZPX3k2R18wVUpOeTEzaUpFWW1adlpVekdLS1BLVnludlBTVEptdjRKTzRGNk9qTlQyUnNTUGlzaW1nZFgyQk1xUDR6bUJvSmlkclRDc0dGQ0E5SGRSSHU4N0dwOWNRU3dZdHJZX2NWS2ZXZFFsbTlROGp4bTExX0RJRTZmVmU2bUNHRGxSSlRVMVIzUlpacDZHb0h6TjZxSzJwa3lSQUVja24zNUdUV0FNYmNWR29mSXhJdWk2ZFNHZU5kQUhJeWVvN0FmSkZCbmlETHFKQk4tVmFuSUFJekpoMGYyV3BpS1BKVFJIR1FEdUVra2hQeGVoelQ2UmtwVVVvUFl5ZjNERUhUTmdEVzQ0QjhSUHhuWlRoeGJMQXJKTFZRdktMUGxFRlV5ZWJ6eGR6Rm1iLUNkcVBRLXlQcnVhdEV2V1dqamVPMkZkTS03aFBoQmVoUm11VDQ4SmpycnA3OHZrSXlmZ1l3cXh0dDlXYjROdHpheHl2SW5UT2xFWFRXTkN6LXpVd1huMlM2TnZ1M1YyeFFuN1MtN04yWllSSGQyUkYtZkZ4UkJqQ0ZEN0pEa2RBc2hOaHBuSmNuVXlRR19IN0VGSWFma1pzZFRFM0szcVdteXdIT0ZyVEFCMFlVYllxSW85NmdjUdIBswVBVV95cUxPb1NaRmpGYmVPaXJvU0pSamRDSFF0dUtldXUxNnpTUlFTUmpBV0dsSzhOTXZlX0FUaHRHS0U4T0NVUmV5YjBOb29Ob3VZR3ZrU1l1ZmpXVi1zeWZSWkFsbHJjRmhrUVd4NzZpdkdTUzdibWkzaDJpUW1maVo0clFVTkVyMEkxOENEeGNuZ1hXX3BOXzRfdWZaZTJrSmU4bUt0ZlRhSVhtZG1kdkUzS3VmaXdPYllHSGtMYlJYOUhSMDdYcUJ0LVhQZU1HbGFscE16NjByVllJOURvczM4Y2FhWmFDM1cxeXZIenlLNVN5VDdfaXBIY3FpbWFUYUt0eG1raFlMbW9UdTlqdXFMQTVkOHhjdlBoclBSSVdkY1hrZWx3bnYxdVVJQU9jeENGTEQtVm1LM0lldVJWeUFKSzliYVBYRlRjcjRUWVo5Y0hmZm9oTVptZF9wM1pJSjBDckxMWlhocVI2c1N5T291aUZkUTVWN3lmOWRMbndadUwwQWE0cllwSmptTk96d0p0WVZKSlFmSTUwMHNEdzI0NEtTRHFlUDF2enM0WjhUY05lcDBPWW5mZWVzd1Q2YkU2VVQxcmZQZF9MeVB4RS1abU4yV2x2WFhnSkF1VkQ2dkNVaDh0eDRXOVR1aFd0TEhKWmFiYmpFOGpzRHVXUDdaT1NzQjg5R0pLRkZGcEd6ODZQOFhlYkdWY2VYS2JfRmh1ejhIWkFxdjNlc2MyR1N3VWRibmYwOVlHaTRueEg0MDhhZmJPdjh6MkpCNjRCUnppQUhfZTVHQlc4ZGRMdmw1NTM3Yk1RQlRTaEJNZXFiUk1sQ1U0MFBIb1p3Vk13VEtOaVVybmNHb2hENGlFYVNDOTdMM1pueXU4X0ZIYUZHY3ZhR2JMVF8yTFpYWkxFMmpGVFRsNURV?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Sun, 04 Oct 2026 12:31:00 GMT",
+        "discovered": "2026-10-05T10:04:51.771317+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "وكيل وزارة الصحة: فيروس الإنفلونزا الموسمية السبب الأول في تنويم المواليد بالمستشفى العربية",
+        "player": "",
+        "content_hash": "d70a21bc05f784b9223684837319a21d04544c3ef278e6f8fce7c245fc7c0c5a",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
         "id": 8418,
         "title": "نتنياهو يفرض واقعا جديدا بالضفة يصعب تغييره بعد الانتخابات - الجزيرة نت",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxON252cGx2Y01neG9lMlo1dWlvdUJOTFdTaFpQdUJ5c2JIUWpoN2FIMVJVeGtqeUtaXy1wQ0pwejU2YWdJODAya2FXdGdMQXdZNXN2NEJZZWY2R0gtUzZ0a2pjZ29aUk05WUdYZzQxaXltblBHZzlZNFdaMGNISVg4V0UwRDVNVWRidkFfWERoQ3lyZkJ5cmlMZk5HbW1sMjBFZjExTWhCZHdxblE1MDNzWDNqMHlfdTRqYnlyUzNOVG5KSlJpLVcyMDBfSGhjNWFHRERyQlluLUNyQ195Ty1QSFRFaWpLZ9IB6wFBVV95cUxOUGxqSV95dVBHbG1VZ0E2akoybDNlNUJYZkNxb01BZlR0aUlsUnhSVE5MVXJ6VElHVkZZaDlwV1VfRWVvZmFHY0duUlIwdUxtVHVLcGJQaXBYWGwwQkRjNUtIUXo0alh3UVFCOVBLcDdrSE0zbEJmNTluYkpobFhnQkszU1d5WVdXeWp2S0NLakh0YlpMczlfOVVHaENUV3U2eDFoWGVBd0VzeXZ6UGZycEhhWlJ6bzNQX1E1eUsyZWJ0d1NybHVjOW9MXzAyNjlrdWNRZ0FFMHFoRzJXc3doNDM4bzNIamVpMTFR?oc=5",
@@ -2011,6 +2027,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 8727,
+        "title": "اجتماع للجان \"اتفاقية مكة\" في الرياض اليوم، والقوات اليمنية تنفّذ 1,122 عملية ضد الحوثيين - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CWXlYRTBlZmxnenRCN2NBMmlTaW55dTVfQzdiX09lYVpxR0hFRm1tYmFtX1V0ajJCVk50YUdhZVJJWUxSM2RZdFlOYnl2TUV2Y1k1M2FvdXdaclltNWfSAWNBVV95cUxOM1U2Q01sZmJEOG9mUXBpZTVHRlM5eDVJR2hvYkNDYkd4YmV0RWFlVl92NVUtaGZKZU1yc1lqc0Y2MTBKbnlGZVdnanYyR0FTYW1tZC14Rm9HWXZSQjBNX0JEYWs?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Mon, 05 Oct 2026 09:43:35 GMT",
+        "discovered": "2026-10-05T10:04:57.589750+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "اجتماع للجان \"اتفاقية مكة\" في الرياض اليوم، والقوات اليمنية تنفّذ 1,122 عملية ضد الحوثيين BBC",
+        "player": "رياض",
+        "content_hash": "270922ab0d7787f54a16decd62030bb6a2c2feb4adeb5dd10637fcfbead77826",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 8577,
         "title": "فضل شاكر يعود للحفلات في موسم الرياض يوم 22 أكتوبر بعد غياب 14 عاماً - BBC",
