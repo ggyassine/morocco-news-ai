@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T02:23:21.471735+00:00",
-  "total": 138,
+  "updated": "2026-10-05T02:40:26.445426+00:00",
+  "total": 139,
   "sections": {
     "morocco": [
       {
@@ -32,6 +32,22 @@
         "summary": "نشرة إنذارية: زخات رعدية قوية بالمغرب Hespress",
         "player": "",
         "content_hash": "54f579947467b80829447e1f09ad84e2fd939d464371c32ea55502b97a199b26",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 8648,
+        "title": "مولدافيا مع مغربية الصحرا. يوسف العلوي فهاد الدولة باش تقوى العلاقات بين الدولتين - كود",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNTE9WX2g4czg5bk1veHh3SXk5cUdPbVd3eEg1RGF3RFNwSmNMdHZGcV9PSkZkQUs1UHdTeHg2ZXdJcm9Jc3lWdzg0aXNNOHVHcDFrWTVSUnNnMlNBNkNWWWJXd2x0RFpFV3pPbGNhWnAzaDdHTjJ5cS1MZ0pTSU5wdHVTV0J2cHotajVoVGZxN0plbTF1d3hzb2RYbmdhalpIczMtQTBpMENDRnBkVlZrdksxMW1Ocm1VT2VWQ24tY084QUFFdzl5eVVtbVd0TnVFRG9kMjNHeDJqcTF3eG9UaHN4S0xZODVPNkxJTEk0S0VjVG1OVWs1T3ltZkwyb05GMzBQSEMzY296WjVoTmF6dlczU3BMb1lDOWpZaEloU0pTRGNCanNXX0x3WjJfaXFXQmZCQzVsOTJxTWJTWmFRMjFwZnp4ZndNTWc?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Sun, 04 Oct 2026 20:39:05 GMT",
+        "discovered": "2026-10-05T02:39:59.150643+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "مولدافيا مع مغربية الصحرا. يوسف العلوي فهاد الدولة باش تقوى العلاقات بين الدولتين كود",
+        "player": "",
+        "content_hash": "c94c096a8889d8968de7037612ab621ae4fd6bbf02705ca864ad956ada804aee",
         "sent": 0,
         "section": "morocco"
       },
