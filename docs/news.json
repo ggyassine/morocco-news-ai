@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T14:17:43.713700+00:00",
-  "total": 148,
+  "updated": "2026-10-05T14:40:40.572567+00:00",
+  "total": 149,
   "sections": {
     "morocco": [
       {
@@ -486,6 +486,22 @@
     ],
     "sports": [
       {
+        "id": 8776,
+        "title": "لاعب أرجنتيني يصارع الموت بعد 3 حالات توقف للقلب في الملعب - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxNTHgtd2tjaWJCZnFFWmVFZHpsdUpxU3BzM2VfYUFsMkZvNFRzeXBRN2dTY3lSdEFoOHl2cXdxcmJnSF8wb1hwY1A5VVBCS2oyWFNfaW5yX1ExYi1aaDlkaWlmQ0g1YXRTZ0I4VmtlVXNSVmtKNkwyVzdZZjFNb283QzMwNEY1VXdXVTJoVnYtdXA4NURSWHdJZXVxdnRPSzVoMkFmT1RkeHkzQkdLekN6UFdDczdReEk1YkowbnNRS2NMaEVIMVNDWnVxbW1hOEstN0FhT2J5T3RaeUVwdjBZUkQtZk5uMzc1cFJiRk44WjYxYzJidHhEanowTkdkbkxPdUdtNTc4VHk5SF8zb1NjMkVOYVp3SmxCX2hqakhYWDJ2RXJFTi1XNGU2ZUZ4V2ZYS1UtN1BZNVltU1B2amxWcWxCODVnTXlBWnp1TmJmWE1GQS1BTHE5WnJxbWdhZ2JRcWpHMFpvX0hFbGNtckZBc0dBYUtwd0s0Wm0zNEROSzdfeFBGaGVrSVM0T01CV2gxQmJubU5Kd3N6cVhsR2t3Y0hPU3B3dUF5OE03VHFGWmFtWjlDampEeU1jVGU1cXRFLTJnY2pCUGNvaGFDblk4cENxUW5aeENKNVkwVFJWS2dFZWVYYm1rZ0VPd3pBdC1PVzJsTXktTlBDaG1DLXVCTTdJTS1qTmNzVWJQMVNZUTRmOEpydmhqUUtHTk5vTzdkYnowcXZLcl9DUUc4U2tfZGJfOFluenFUdHp6aGZydm0?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 14:23:29 GMT",
+        "discovered": "2026-10-05T14:40:20.034843+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لاعب أرجنتيني يصارع الموت بعد 3 حالات توقف للقلب في الملعب Kooora",
+        "player": "",
+        "content_hash": "bc628d1db1453b59fa6b8f623390f763f7d95b188c436ecde35fce732596ba00",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 8773,
         "title": "قرعة كأس ملك إسبانيا تضع فالنسيا وإشبيلية في مواجهات سهلة - yallakora.com",
         "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxNZVFxTUt4eVp3M2dMV0VFU19DajV5RFZ2ajZfSFh5dFdwbmgwMEtSbzdUbC10bE1zMnh4SXdBdUV2Z1BFQ1BqcTBIZUc1N0djVGxwbEhObVhReFlPVElOYTlGclktT005b0N5QUk3dGRoaFN2OUpZMWd6aWRCeVdyUFRzUkp1MmRTYkJXcHFFQXYxZnVQSGZ3azNtNEE2Y1FhdkdFSVJLUG82VGx2dHhDSnp5aXF3NHFUM0g2RDJJbFM0a2xfUFR4NWt2UUNnTTdfcXlnVV9TYng3Qm5YVElKcmJMSTlHNm1Rd2FmdlNjeWZqOTZuZzdUVy05T3kwY241cERhdFdVWEZnZFpRSzRoZE54WTFSakhNZkxveDQ0RERKNWI0RmN0Rk1rNkdISVZqVGFFeHJUVm8tRTkyRUZMT2pXTVFGc3RFMHpOcVk2eFlXWlgzdF9HOUJLRUt2elpwdHIxellILVh3U3BvZHZNU3kzSUJxTHJJbDYyMTdzbkpaMUgtbHJobFJ2UThYa28wY1doMUg1RVhLZ3ZsZ0Q2OGhQR0lCdmhjbmc1cEFqWkR3S2tENEpBaklKY0FpSm1RTXVvQkhyQjJsRmZLMFgzWFlpa3QzWl9oQUJv0gGEBEFVX3lxTE9ROTBkSkVkOHUzNUFzTDZpZVNKZ0pCSEVmYU5YUzlfU1lvRGw4Skw1WjhHbkNBZXJJTXE0NXk4WkN3OTNxdXpyXzVScW1EQlNIZHJCS1RzbnRwVFNrNTlDV3I4Skx6aEhEMWVDZjFQc29lM01RTk5ZbVdPTGdYc0NCSVZabFRfSmRyX0d1N01PeU8zVzdYU1lrVDlWRkwzcGZLYnBJTkE2MWFVQTJpdEE1eXJnc0JhdDNfYzM2MkZ2U1pZbUxnMmhvTVZJcElDTnZrM2ozOVc3bk5WUTRnX1lVOE1ZdlFNREZHNGg4TWVkMWN4UzYyZE05YkM0eDVGQmNSdGJpN0ZSTnlXMC1KWEVJcGZGQ2VCeXFkc1MxSjJrbG5MRFYwcE1kOXJuNlRGWnI0SnlkWks3SE80dG1mcUIweml0bnk2aGpXRXlZZ00ybDMxU1NRVFYzQ1gwVFVHSHl5T0ZjV3ZlX2EzUUlvQ1NZRkZHX0NmOVVVdGg3NXBZNXFnTzBXNmtfU3NBZjNvSjIwYkg2dkE0X2Y1d0FlRUtuYTlSY1pYcXJZN1BrclFYOERyRFFTMmFGU1RtWHVCcFh2VDVxTmswdlo0UGFZNm5nVUJqVko3b1M5VjM2cTNiMUlKM1Zyb041aXpCem5XejlIUmNuV3RDYTF0UVg3YjRSRkRZVQ?oc=5",
@@ -694,6 +710,22 @@
         "section": "sports"
       },
       {
+        "id": 8777,
+        "title": "تقرير: مانشيني يستبعد 7 لاعبين من مواجهة تركيا - filgoal.com",
+        "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNaS02LVd1S0lJaDJZeTBZd1Y0U1d4aTBSclFQX2hlNl9fVGp2Rk1adUF2V1dLbEllUWU5eUVvN3N2RE5DWWpFNlBkc012SV85dGI5TzBZMHlwdUUtQ1Vyc3padUlUY29pdXZpd1g2TTU4SjlZZmtMZU5LaVFQdUNUVXdJWVdhVUtQSEZ1bHhIMUI0bFcwQVpGcVE1QnpoNW9vWWFSS2ZLcnFHZUxscUtSVXdzSUFFa3h2c3BHWDAxaW14V2lmTXNqblJseTAxUmhBZmNsclpDc0NzSjFUU2k1YlZjcHRiaGI5RHd3aGVUUUFYdm1JRVlJbkc3aGpQajVxTkRfVkQtMEh5QzAzcWloTWY1YlF1UEdUVkpkZUtyUFFBd0tGQ1pMUVpWM2JuOEVQLUc0MmdaWmVrQlN2TXBOaUtJdFRVMWRtMzhMWW1iNVdnemJDMnBvbElMaVVkM1RvM1ZqNHFyQ0xTWGlTemlWTmh3QW05YkVPaG9TTXhpUDhtV3Zl0gGKA0FVX3lxTE13LUJOVmpWR1MzV0g5QlVRa09RbVg2TXNjb2RDX1NFcUtwX2hSMFJFc05QRnlFcDR4bFNJZnFfeDIwRVdpeE5FR0taejY4NVN1WnU5YS1wM0x1WnNYaGdCemV5ZXJMb1ByN184WmNkQ0xMX24zaGNabTVkSnRpR3lKYS15OUtJejg3cjBfdTlfbzVrSjNoQk10Ylg4dW8yVnpmSm1oSkwxbU9BWWNydUswTEdrWkpqZ3AyOVo5Sl9jSFhnb2EyTklFVnd2cUNLVGR5TGhOSDFuLUZUZUFwWHVpd0pILVY0VkFpXy1QUWJBNTNjdU9VcVZQcUtjR1NQNi1hVWgwdlhPalVKdVFuTnFLV3JxT0daN2tacmNiZzdMTG5HTGpiZmN5VnJhN0pvelBLWGVTdm5CS2pfVVZyRjFjcVZpeFZsb3Q4MHlLUzV4R1ZKRTd0d3BUbGVtTHBQUkVkLWFFRVJteUFSQWNDS2s4MmxndFdFdHZkaER6VUx4YmxFc19zRTlEYnc?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 10:13:00 GMT",
+        "discovered": "2026-10-05T14:40:25.675800+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تقرير: مانشيني يستبعد 7 لاعبين من مواجهة تركيا filgoal.com",
+        "player": "",
+        "content_hash": "abed2b9939994c22af5f2af7fc65d192b13d8b6bad9d8b273649f0c8967fff33",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 8769,
         "title": "مدرب أيرلندا يطالب \"يويفا\" بتجنيب فريقه مواجهة إسرائيل مستقبلا ويؤكد أن بلاده الداعم الأكبر لفلسطين - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNVEUtQXRjQ190eWlxQktmSmZZRzdmZHJzUnRGNUtiU0JOTU9GTTFEWjBFdU54cVRoZzAySmVuZ1hYTUFBSDBORDg2TXRNUlpGRjhXUlpPQjVFOVFGRHc1alA5Y2ptZG1ydjY5S0lVdmhKd3hMVFBKSXZ1ZEJXZ18zWHBZWlQyZi1QLTZfTDFld0NUSXlWZ2dGRWxwSHJZQkFHRXZKTmkwbDAxWDh5TXJBcVB1dVpVMHVlcmVvdWEyVG5BQm13YTBNV0tlN3cwbDh4NFFraVhLOXNmaEdEYTFjTVUzYWx4MDRsVW9jTlFuRnJwZUxydVhfeUZJVEhnQm5EWU9rSHZFQWE0RlNXSnBQczV3NVBZdmRna1AzVi1KUTlhVW1naDBLNnc4SmhTdFVjMGxmQXdCWGZndHFqenc?oc=5",
@@ -866,6 +898,22 @@
         "summary": "كأس الخليج - الإمارات تضاعف عدد الطائرات الخاصة لنقل الجماهير لمشاهدة النهائي أمام السعودية FilGoal",
         "player": "",
         "content_hash": "fbc4e4dc718bf361bc283657e566d5ffa830bc7a76aca4c2a8f212b92866a3f9",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8779,
+        "title": "انتخابات البوسنة: الحزب الموالي لروسيا يعلن فوزه في جمهورية صرب البوسنة - France 24",
+        "url": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxQUG9mTFZ3VWI4dUJYWkZaMzQtc0tRd1VVclR6Ujl2R2x1NExhX3RETjBIXzFwMkVYQy1WcmpSS3JEU2Z0Z0VoWm0wNXd2aG05Wm9HR181SlRUbmRyd0hfZjRFUHQtMFF2SEd2RGhZc3BaUWh0ekQwMDZjODNFRkRQTmdWT3hDVjgxQVNFeVQ5QnUwMEwzWldreUlUeW5fc3BtNWlTTFJMaUFpUldsZHJGVGcxcEJLNnhHdWV3SGRKOU16aXpUNHZraWRLQUxGdk0xYW1qWHdjUUVCaloySHA2aTlaV2Qzb0hvX0Yzb0dVVURMVFM3enNxenNDdWwtRFNGNkdNMkR5bms0ejZMVGZTYWJrb2FvQTNlNk5jcHBrTzZJTkJLcmJHMG5pdXU0d0cxeGtOTUNGUWRZNEx1d3BvRFRxZWNMcXVYSG9JeW04OGNwb1lXUi1GWllkeGx6a2R4cFAtLXBDUjF1ZDdhNjQyY1VHR0Q0dEtSdHR4MWdYSmZfNndTM2lWLW5oUVlLZEEyb3FydVZsaW53WkljUnJ0ZnlGWlE2UThKSzB2MkpJTzk1YlJ2ZTFsVGpUblhYSmt4UmRlcWNIdlNvc0FKU1pESXV0d19CVnllTzVMQzQ0OFg0OXN3ZnVUU1gwTUhtdzhfTFExNG4yV2tBdnVXOXVFVTQ0X216T1Q5VU5acUNZR3UxUkdCUUtYdHoxclplRjBZZ0Z6QU8tR0ZCTXhiX25CSDJ5TnZwN2F0LVU4RzEtbWlXVXNHQ0dwMmk1MzBpekt5ZnFwTkw0WlFNN09UbkdfR3BZeFg?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Mon, 05 Oct 2026 07:58:38 GMT",
+        "discovered": "2026-10-05T14:40:36.676992+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "انتخابات البوسنة: الحزب الموالي لروسيا يعلن فوزه في جمهورية صرب البوسنة France 24",
+        "player": "",
+        "content_hash": "3078233e06547535a0aa5045fe484160540372faed7af2cd632e44504754aa87",
         "sent": 0,
         "section": "sports"
       },
@@ -1236,54 +1284,6 @@
         "content_hash": "4f1e4d92bfee9f5980560e9836be09855edc1fc4a1f93dcb14177d13d0cd2614",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 8636,
-        "title": "جنوب إفريقيا تستغل خطأ شوبير وتفوز على مصر - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQZmhkUU1uNVdMY2h1Y1dIZ3kxYjFIelNhS2ZucFJ4dUdGbklENlZJVGV5alBFZFBoNlY5Q08wM29kQUFPUkM2Y1NMNmU2ZW4wTEh6ZlFfYUQ1ZDEyNHIzbmp2ZzZuNFo2UnU5SmtCTk9WZmpaaDMycFhheElDazVIc1VIWTB6UHJ0LVNVdS1wOGtzWDM0R3FhV3ZDRXBwX09aWE5zcGF2TkNoM09OSzVueVJLRUU5YURrY1Zvd2Zkc1JuMUN6Q1RfX29HbjhaOE9rVTJGVUU0RFdKUTFRNVlfWXg1ZXJvMDZxcy13M29xak0wUTMzTHpWWVk1LVdtRU82bS1Xb2JveFROWXNtbmVYaFVDX0g5dkZIa3RwbVcySHpVVTA1ZmpmYUl3bmMzUzVvS2RBYlN1NDNLQ1kyQktXcWNScmx6bTJYM0ZEZUxYenRVYmVDV1pKU0dWOG92b2PSAeQCQVVfeXFMUHpVUW1rVnZ6amRwMzRQNUFReDdhdlc4NXJlVk5WYTZFbFpiZFR0OVhNdGFZME1zbzNyaHhZSlM0clowU0xkQW83RTROYnVHWDZ0RWZwbGdUOVIwUF9aRy1CdGg1ZG4zRklYay04QUlsOGs3ejFibGVJcFNYaUtMbDZlbTFHak50c0dickJpb0dQWVliS1hiWG0zbzROc3RSZi1zMDFPMHZqMlUxUEVpX0lsc3FQQlRtQ01aT1FhRE9PeXdoQlFNME5RRU9sUU5xRDVuSUs1T0NMbFdEYnN5NEtUOTBXZE90ZXZORmJSZklrQlNscmwtNHQ3WlRIWVVaZ0tDZ2w0N0VLQjBUVHFhQUxaXzlvN3VMRUcwYU1sUWJqUjBGb2NZcmdleDNHMmdCVW8tTXBwejJmUm9FdS1SUTU3ak5KYV9Wc2J0c3g5S2N3VHlUejZVdUtDQ3hSbFlNNXcxOG4?oc=5",
-        "source": "سكاي نيوز عربية رياضة",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 22:47:42 GMT",
-        "discovered": "2026-10-05T01:53:10.413125+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جنوب إفريقيا تستغل خطأ شوبير وتفوز على مصر سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "83bb5221daf6901aaf8df44e2c4715b878b665282c19c5ca70d83505df96e8e5",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8685,
-        "title": "تقرير: حل أزمات منتخب بنين قبل مواجهة الأرجنتين الودية - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxOeU5FQmRiOTFVV2Rabkh1bGxTZEhrM0JhQjB3R19GRFZ2Z2k2eWFTWVFoMEZ2cUVTenhMNWQ2azBiWEZhOFBJS1VEMGVoblA3dFJjUnlKNGFITEhuLUVsMEZmNnMyUkM3alBMa0dQVk9rWWh3NWxEYUpLdkI1X2hEUnNnVUxVMVJZOFJoS1pMb1dwWjJmdHlpb0c3emlGekY5aWw5RGpRSVVfWThIRVJsVDNqWVhnZzhvbFMzc2xpaWFRM3NkbVYwSGdvdEc4cmNDUmVZaE9YbFdNb0pFR0dVYkVxdTlGd0pqQllQUGdXbFRMSzZyNmFva3Rnc1N3b3c1dHRHcEhka1g3YnlfaWlNbGFKX2I1dlZKVHNXTFRqQk8xMWhsWFlmUEFYLXJRTHlKZ2NDOE9PbDlPaC1jNVBuN2dsZWJUMTdFOU5XN1Bkd242a2VzVFNkU01ONjV0VFpSMHl0WmhMUHd4MXY2WVk0UDhIWkN3R3BpcWFfdTJ1bkI2QXZWWXdJN0s0YThyWEt5TFdJSVFURy13SnYySFFIUnFhdl9aeVUtQlUyXy02TXFURHBOTVU0LVdXaEhDOU5WdGdIMtIBygNBVV95cUxOd2Jnb2laeHpWVExFNDBlTmI4b2VQSkUzOUw1Y1RtQTR6V2tvVF81TVl3b3pYb2tQLXF2b1VTY1FqR3lERXdJb0NKOGpnVFNLTS11V2FmMGpUdnNQdHkwSVhfNWh0dDNnaGNVME8xRVlNdVRZTGYyZFdyUXN4QkVzQmNueThRVThIUHU1TEd5M2V5ZTNLaFRBMEROLTBBOXBYNjk1MW5iLVdoQ0NaSlVQYVRRTjlqVVhXWDVfM3ZkNkxwT2V0WXZVdEFDWmgwT2xjaHRVX2VnNGVySlRPUGJ2OE5CRmNtZWp2SmcxQnUxQnJ3SEx1TW9FcGNSRXhGTm9lQXhCMGxmNklkOFY3UzNaMDB1alNMdDZ4UmJDR1ZxUWk5Y1JnV1hmTmlLSk8zNm42Q1FOY1JlemtnV2s2MVRsai1aY2hnQUhrMklmVEVFR2F3OG9BZmtYcU9LdURCeEJQQ2JaT2wxeHBDRlo5SzdibWlidVN3SXRraEJjWDJvVzNMdm5KVkl6TU1hSzlHU0JwVzZ0UFRLQS1aSEljWEQxNGhWeklnN09UYURJai03Mzlxc1V4N2phWXpSZXNReE9TNlZBVjB1b0MzZw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 22:32:00 GMT",
-        "discovered": "2026-10-05T05:48:24.417010+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تقرير: حل أزمات منتخب بنين قبل مواجهة الأرجنتين الودية FilGoal",
-        "player": "",
-        "content_hash": "f86b9b0595d937832a030b88a0aab64d3fc9bb4959f494790a59d6fd71a37b09",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8647,
-        "title": "دوري الأمم الأوروبية - أيرلندا تتعادل مع إسرائيل بعدما تكرار ما حدث في اللقاء الأول - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxNdWZpUUIzbkVYYTFFM2p0NnhYZFBGeUtYQ0E3VmdiVGx3ckJBeEtfOWVUb01RRFROclptZ0ZhUGJBeUprNmk5ZUltSDF6TVdpWF9pMEdPMTdsU2xXMWt5TnJ4eVFVRC1BY2hOaldKeGlINHRiNHJvbDNEVGJCZzNMWHlTbHRUNXU3Sk1lUzYxMEwwZXJPYTZzSk1mSDFWelMyeElaWWpMeEppX1pjSWxEbVV0N3E2cTVEOXIxTFZnbjkwT0tiU0FubjY1MTBGa2EwdC1aVXhPejBRQjRBdHRrY0doVmdLZ0laS2VpWWdvS243MnZsaHF0MDNIcGlKeXNQb0JaSTgyZFhGUnpqY2trVERPZ3dQSXltUHhXcGxjdVZuYzJXYnBVc095Y01FTmhleGNfdkF6clYyLXJ2S29yOVhzR0tFSFhPZHNBaE5NR09COWd4RmJoTktRVVE0NHlPYjZPOFFKNExRREVhSFByallENnF6REhUV3hFcjlRRVE1MHFkZHp4cnVlMmdEcWYtWHJWR01rX1Vabkg4bWFOQmxWSXI1LUg4dEZ3MzlDeGZZMFJuTlptMXhoSFhGdzAxVW5KYTBMX0NGM0xGLS1rLUVvOEVxaC1PZHpodWtWR0tmdWpibkgwcm84N2hVREk5am9IOHVhVTNuTmhxMEdsM1M1NmlYbndvSnl3QS1KVHBLaGh0aDFJZ3EzTXFDYy1zbEtmblNYQ3JKdjZLN2pjUU1pSUZ2UUlDRjdrNzFYTUNhWlpwTXJpcUZNWkdpRjhNcEZIZnVRdHlKOUV1TkhYSloyRkFyelhyU0Nmd0J6MGFtUjl0emFWelhGS0R4R0RkXzhV0gGIBUFVX3lxTE1LLVZFc3h3ZjlDaGMzRzl5NEhUal9lTFB6TW15d1NQTzc3WVU2d1NkMnFqdkNlSXJ2Ul9uSUpteDNOei16azA5cV9SR3EzaEtBOEF1cWdNUnJFeUJHVFJoTXk5RTNTek05QzI5MU1nSVo4VWE1VGJpQjYxcEwwbU12T2RFekdIVUhTbDlOa2g4NHN6bENBZVdGQ2dNZjVmYU5LV2Y3REZJZ0VMd3dnSFBiajQxN3dYSVhURmVlcmt0cnJDUEM2eGtwendfVjgyLUFCd1FEYjhucGRoQWNycHNTT0ZBdGpOMGhNR2U5R3RkT3g5RHRxTjY5cy1YZm5CSGtXVHM2TmVyTXowOEJfZkVyQ0RuaWxpcTZTUWY4NkwzOEhka01EdjJRSGpSSFFyWnY5QlZnR1h0LVljS01aXzYyNnZuOHViVEpFeHN0R3JGRVlPajhZM0pWTzVvNEtaTTJNZ1RQYzFxRm1rbUNRb2xMcXRicWdKclR2NmhzcFhyTm5VdlZMOTktb3FfT3ZPNHV4Y1JRRVctTDQyVzFUYzhxV1dwdXNrTDZRT2xxWWFFOWFLNVBJeWFXb3NfSmJOYWxLOE5URTlSQ29hQlBjT0FtMG03dmxQZW9ULVc0T096VFBSR0hqcUVtMDh5RDJybm1wS3JRYzNIZnFMQi1xUU5YTXZKcloyMEdYNXItMVpMWjhCVjEyOWdVVTlEUldra1lhUnQtbF81TDFEaTZacnlEeFRZeXN4bGxzY3gyRkNRSGpkNUZRMV8tTzdEdkEySGZIV29ZNFV3blc3eVVVaGYwVE9waW5FM0FHQWt1WXpaVlA0dmIzQUhkRmJsWlF1d09HR2FqbGtIZA?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 22:31:00 GMT",
-        "discovered": "2026-10-05T02:23:07.240122+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "دوري الأمم الأوروبية - أيرلندا تتعادل مع إسرائيل بعدما تكرار ما حدث في اللقاء الأول FilGoal",
-        "player": "",
-        "content_hash": "9e3874906cb7276d9a427a88b95e9f82df774c25cee74059443fe2f6a9ff239c",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1492,6 +1492,22 @@
         "summary": "وهبي يكشف تشكيلة الأسود لودية مالي - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
         "player": "",
         "content_hash": "43e2e2efb232b16199f33c335604867b6c38d61e2a94d6c91cc9ed1abc58a698",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 8778,
+        "title": "تكثيف الاتصالات لعقد «اللقاء الوطني»… ووفد «فتح» إلى القاهرة - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQcDJicXJ3a196UFJYRmM0N0d5NklMUEVGLUVuWFQ5VU1naDh5SEZIMkZnUFRLWEVLcXR4UGdSbW02aVl3OVRGZXZBSlpuU0R6MTFONXFDcENGcFN6VlFpWWkwa29WQ0xRemtKLXNTNFlMM3d6LWc5OTRGVEdQSzVFQTBnQ3pZYjhzaDBIbkJsVlgyV1lqN01LbXJ6b2I3WHFqdkk5NFlPcF9reHlBRmdYX09nNEVsUkI0dVl6YTlRQ3hIQXg5ZnJRR1BqamhUSk5vLUtwMTBQb0Q2bnlLRElfdHh4dTlDTE1iX1VObnM1SHRnTTl4WjktcXdUWXpGNFJhSEMzLXpjV19uUWZhcDViNFJGZVVVQ1ZoaU95RFZZQ1REcTdGY094cEhRcFJvdlVKQTBaaQ?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sun, 04 Oct 2026 16:46:27 GMT",
+        "discovered": "2026-10-05T14:40:35.913285+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "مفاوضات",
+        "summary": "تكثيف الاتصالات لعقد «اللقاء الوطني»… ووفد «فتح» إلى القاهرة القدس العربي",
+        "player": "",
+        "content_hash": "2d7a8ce13e66b5da3c85bca61a7f0a3d8c6dd7160f6403b7e976b5aba807a8f8",
         "sent": 0,
         "section": "transfers"
       },
