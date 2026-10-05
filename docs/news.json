@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-05T23:51:31.600557+00:00",
+  "updated": "2026-10-05T23:55:52.637887+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 8907,
+        "title": "رئيس معهد دراسات سبتة كيحذر مدريد: المغرب يقدر يدير ’’خطوات أكبر‘‘ من موجة الحريك والتصعيد العسكري غايكون نهاية ديال سبتة - كود",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPR0pvQ0gtbENQSHdSajlaT083emNMaFFrQXRjVHdYa3FWUzdURHlPenExNXBQZEppTEF2cTdjNl9jSWRFTVI3YnphaFM5M2NwSEh1QVczbUhadmRiUUVHS1Q0YTN1dHFtVUVjc01lRUFnQUt6TF8wcGRsMmhMZWttSUt5NGI4Vy11Skc0Vm5UMzJvdVl2LTREWGhPREdVektTblRuRnVCbTFYMVlBa3hMeUJWOGtUTDNKLW9ld2VabTNfVk1FZlowOF92YUlVa3RaNjFaaGVJRG9hWmNfUUt4TUx3RjVCU3RNb1BiWW54NFN0YnhiUTFMZkx6ajA3eEtaamctakxHTy15YWZJQmVCVllnaGhiQ1hBMzFTVl9OTTFjbE1NSXFGTmhONTNtUzNuRkQxVFpZcTRIVUx0RklJNDl3MWRIWVFTcnh3?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 23:01:11 GMT",
+        "discovered": "2026-10-05T23:55:28.146527+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "رئيس معهد دراسات سبتة كيحذر مدريد: المغرب يقدر يدير ’’خطوات أكبر‘‘ من موجة الحريك والتصعيد العسكري غايكون نهاية ديال سبتة كود",
+        "player": "",
+        "content_hash": "e7258a1d9a3fa107f515cb845433d7611107834e7041c59a97984d2aa38648f2",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 8879,
         "title": "فتح باب الترشيح لجائزة المغرب للكتاب - febrayer.com",
@@ -1844,22 +1860,6 @@
         "summary": "كأس الخليج - دونيس: دفاع قطر عقد الأمور علينا.. لكننا نستحق الفوز FilGoal",
         "player": "",
         "content_hash": "185cf8027fd149a1239ab87a47550a81ad2d750146c94eb13717458193ef1575",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 8712,
-        "title": "3 لاعبين في الترجي يستفيدون من رحيل ريجيكامب وقدوم فرانكو - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxQa2VoM2tFR1BBOWhHZ0E4RWVwalJFN0Z0d0tTVWR4SWd5d2tPR0V3eUpKUjNZSDRqendQTzFubFdqamJSM3lRVUdmaTI0YW9CajAtNWpoUzdiZElvVS15S2tJLTRrS2FuNHVObmNPU1JaRUtpc2RkOS11dHJyMVJ3d19sb1RfSHBmVGV1dGxkYTN0ak9OYjl1OVZEc0R2dXBtRThzdHN0dHp6Rl9MV2doaVpsZHdCZnk2VGhIYjlxajQ5VF9PaUhKXy14VG94NE4zZTdmcnhEWjRxdzQ5Nlh1MFZueWQzeGN3bzJnZ3U0dmZ6MUNqeUN1SHYtTGtUTjJVRnlsTFp2Z0ZPT1BGTl92UXdmQS1mMGgwaDhhaEs2Ni1VdUp6NS1BbnRTQzVPanFkek5ISWVLblJtdmFtdXdEdGhCT2p5b1ptMXREd1lOc0VMRy0wNkpQZnlucWdkQng0ME5yWW5mRERmbFU4NGhtdVRobXZnWlR6SHUyUEZLYzJsMlhBZHdfblB1UzJiUXR4dU5fV2N4dW1VRUZ0ellQa1NrYnlvSWhZaTNQS1lxeG5MZml5Nl9WLXVuMkZqcWpqN0s2M0pBbXBzY2hLZF95eWlCY0JfTjdteWhFODhBX1VFekJ3aWg2NTQ2aFpuY0t4ZnI5WVNGQndsdw?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Sat, 03 Oct 2026 20:24:20 GMT",
-        "discovered": "2026-10-05T08:53:53.741402+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "3 لاعبين في الترجي يستفيدون من رحيل ريجيكامب وقدوم فرانكو winwin.com",
-        "player": "",
-        "content_hash": "054759c5492de2142b055ef3671c6824121fbaac16998f61acfe3b3143117561",
         "sent": 0,
         "section": "transfers"
       }
