@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T10:05:00.194373+00:00",
-  "total": 141,
+  "updated": "2026-10-05T10:26:15.413385+00:00",
+  "total": 143,
   "sections": {
     "morocco": [
       {
@@ -1320,6 +1320,22 @@
     ],
     "transfers": [
       {
+        "id": 8728,
+        "title": "يوفنتوس يستهدف لاعب بايرن ميونخ السابق في ميركاتو الشتاء - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOaFlCd25mVi05WFlLdlk3QVhMbURueGhRa3ktZkZLLWtPM3pjbFdkNnZZRWFMc3I1ZmExNlc2NVdFMTNZUThQOXIzNXlISHQ1WjZsLVRmTmt0MzVFaEVCWDNtUGx1UlhVRTB1QUtRTjZSR0MzQjRPTTZneVR6bDRPWG9UQ1dOX3hmTDY2N01KNFFHNlZZQkc3MU9TeVFscFlzNUpnQWhrUWtzY3h1REpYRl82ZnFubVM0T1d6bEotc2FtNUhlVlo3eHo1UFJFUzFDVDhTRDdTX013YWJTUzRjaFNnLU5aQnFTdmtkT0hrT1ZXSmloa3EzRFFaRUZoUmViZ1BFTXhiNkpoeTNKdDdEaG8zSnBLUElJb0ZDNk01Y2V3cjVwYlJLSWxQeTFOSl9RbWRXdHhVYjI5c1JBM3AtSnRXYWR5bE53ZVJWWkZOampNMl9qT0dINUZwMDZGUQ?oc=5",
+        "source": "365Scores انتقالات",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 10:07:13 GMT",
+        "discovered": "2026-10-05T10:26:05.230610+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "اهتمام",
+        "summary": "يوفنتوس يستهدف لاعب بايرن ميونخ السابق في ميركاتو الشتاء 365Scores",
+        "player": "",
+        "content_hash": "072fe0b00cb26cf6063b3684e037ac6404872c35e0d04b0285f3f4639cc021bf",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 8721,
         "title": "توقيع على أوراق بيضاء.. فيفا يرفض معاقبة لاعب بنين بعد هروبه من مودرن إلى أوروبا - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi_gRBVV95cUxQYVNVTXhsSXZrWXZVXzRfd3JldVhVbk1ObmtsVjBSTVhFcGI4VjZuY2E4Umt6YzduNEFYUUo2Q0hxdmV4RlhHWmNlSXo2aUQxZW1NWER5dkJUWGJhVUpNUExPeWt3NEMyeURPVWkzLU9OMHVTYzl6WFYzS0w5aUo4S05NZk8zWmhUdG0zeHpzSXFUZVpQdzc2enpTMTE3aGFnTm9yN2VyRFJwSm5jY2h3MVpJTWVNcG5NWGpjdlh2WU03VjFGMEx2MUxlSkxpVnRiZ1Y3R19GZ0tLbVQxVWlGQXN4Rm1XanBGbjZHODlZeG1yVE1BajdGYmFVYy1TRWEwODdyR3l0RFo4QUZTWXQ0WldzQnpXQllKSXNjb0xNR21lYzg0YXRCTy1Na3RNbm9XOVZkVTI0LTFjeUwxczc5WmNBYlJSazUyeWNqQkZpZ19XZnFJTElWTllSRFNPMXFkTXdsTDVwcmNnMEw2U0NIaXZ1eFhlTVJaM1F0N1BaM0xYeVRSTnlHQ1djeGNRN0MxcTVrVTMzQkN3Q0NsT0xDdVpEZVh1bld2RzVUR3U4ZDN6SEtQd2RNWlhCOWVUUHhmS0FJeGU2R2U2LXloVVgzRlhzcFJiZElJT2RFTW1MNGg1QmhtRS1FS2hMTTFNMk5RbFZ4SmRjdWdtdmpVRVFWTXJrcExBWFEwbURodGZBYkd2SVJwVWxCcVFKOVgweUQwSlJvZ1RuWFppNlo2VFRZOTEzSWpPWktnWjU0eTFNTWRsLWJKU291NDk3NTlJQ0NSMlNYTjAzbEhGeGNLRk5LWGRJTzZyekNYb29OQTc2b1ZxQWpQWVU2azhSa1FJQdIBgwVBVV95cUxQckp5dXRaSmNNTXpCUGNfeFR0S3h4U0hqbUljVWRwdEJMZVZQNXNaTDN6VUtjWGZGZ29tRkxBaDF4Y3hZVE9qby1iVldYUk1GeFZmclowSFRhamZnRnV1THVLNmRhcHFnYU1pLXE4UzRIclVqMWRxWjZncXlpNWJXZzZSZEdYM0dGRjBnUVZQR3c0VzBuLW5CWHRfSGh5MEJLS1FZaVVVai11QnN0NzN5M0w3WU9Wb2trbE1hRXVicXhHbGowQ0dpS2FFT0Z3UWNsX3hkdE9RTkxZNWRJakpXSW9OVGctRHpfSGgzUEM2VUJuQ3NnYlFaenVrNkVPSmNPbEZRenAwYnppU1lWamhNZ2dYRGdSNXdSR01vWmFSSkRlR0tDNGxZbDNhMHliUDJ6TmtiNUx3S0NCcUJkTEZoRTJZOXpCbE96QndXNXhleXpiV3JUZUsyVjloeExZcG8ySjMtNXlwUC11ZGZ0bUdROW1aVTdQcUJVV0JsME9uLVlYWDJNT3dYYnNLQmZvUGpMejdZdXc0LW5DdU15V1FsclBLTlBOcVA2TmRHYVQ4eWFTYWo4SWFrZ052ZVRyaDg3NV9sS1RQTTBjQzliNFpRS1pTVDlFQ0Y3bjlnY2tlWnRiMEo0QVdGd1BjU05FdGZpUkRzS2hmTkxKb1JockVkSEEycmxZOXNZYUlkZ2VvUndPQ2FVVTVBYWN3b1M2dl90N2FJYUVUaHFiSFdLRFNUTjFoMWk4ckVGRF83LUFZRy1Bd3Zoa3dYbkUtUDM5Z2JZbDRIZTU3ZjRFblNheEgybEJqMUcyVkk4SzNmRk1QcEZfNWNWUm1vOEttbHdiTEtwOXpN?oc=5",
@@ -2040,6 +2056,22 @@
         "summary": "اجتماع للجان \"اتفاقية مكة\" في الرياض اليوم، والقوات اليمنية تنفّذ 1,122 عملية ضد الحوثيين BBC",
         "player": "رياض",
         "content_hash": "270922ab0d7787f54a16decd62030bb6a2c2feb4adeb5dd10637fcfbead77826",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 8729,
+        "title": "الانتخابات الرئاسية في البرازيل: فلافيو بولسونارو يتصدر الجولة الأولى ويواجه لولا في جولة الإعادة - France 24",
+        "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxPVlVhbTZnYkpKWUZWc295UHpWd1JuZEFNVHFiNmVDZ3lqczdKcktiVFE2a0JZTExUZWI5cFhvQ2ZvSzhNaVRwcXltbmd5TGtteFVhYzFINUhZV2EzZGpVT2dvRWxZMTE0UXpMdVdXRVFrQW5DWXJOQ0VQQ3RQQkJDTmFMOTRNVmZNWEg0MjdxVjZ1Q2NmQThWNFE4UUJjU0pPMjd4QThadHFLcDZpUVlnaG4yU0RpWUZ3UnNXXzZ0QjNlanlJY3pRa0lzTWt4a0pQSU0zUnNrcTFoQTJLLXhmemdLX1I4X0F0Z0R6SEExZHNWa0hRaFM0OVVlTE5yd0JMZ1p1VDdjdzIxQVFLV1l5STRmMUEtUnZMS3JJWVdMc0V5TGZXZlo4YmZoa3VnQURjNkdjdDAxMDdnUmVrQmNGNGVPWHdtVHEyZEpZM1pVWHpmcVp0N0taRjl1aW03TzN4bEZPU3FSWXB4cXE2bl9yMnA0b2JKMGhjdE1RaW5fZzVZMmg1M0pfalU5VkVaQUI1VDBlcTJxVnFzYVUwTjB1MVVUcEJrZ0lNdG1vQ0NENUU3eldiMEFldjViajQ0ZlFHOGRNbHhOLUVKcFpzTWE1WnpxUHZsd0ZnSWJGU0Y5a1hxVm1XQU1IektQZ0lyRWIxUzc1RU9iTmNSby1IZUVROGJRV3JyaEh0ZzVNdVJrTDlfTkQ2c0lKdmN6bDcwVGxuU291ZVNyZ2ZvT2N3NFFvUk1YWldTNDM3QTItc1NKVzFrcE5wdnRmSVBFXzJ3YXpWYlBTc2JCX1YzOC1JaDNneVA5T0NDN01uMmxr?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Mon, 05 Oct 2026 02:07:41 GMT",
+        "discovered": "2026-10-05T10:26:11.313860+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "الانتخابات الرئاسية في البرازيل: فلافيو بولسونارو يتصدر الجولة الأولى ويواجه لولا في جولة الإعادة France 24",
+        "player": "",
+        "content_hash": "2f62a5ea93ef4f771a6d727babdd4b577396d42391b42c634d319419ad8c0642",
         "sent": 0,
         "section": "world_arabic"
       },
