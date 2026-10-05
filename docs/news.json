@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T13:39:28.951088+00:00",
-  "total": 144,
+  "updated": "2026-10-05T13:57:48.785383+00:00",
+  "total": 148,
   "sections": {
     "morocco": [
       {
@@ -32,6 +32,22 @@
         "summary": "أربعة أحزاب تشكل مجموعة نيابية مشتركة بمجلس النواب Febrayer",
         "player": "",
         "content_hash": "a457496a211969ad347cf112168b77221bf351c9a3da27797dd7bb7ac8d3ee91",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 8765,
+        "title": "بعد تأجيل زيارة الرئيس الجزائري إلى مدريد... عمار بلاني يفسر القرار بوجود \"خشية إسبانية من رد فعل الرباط وباريس\" - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQR3pCLU0xZU9MU016aHhvQV9uWjBhSHd6bGtNNmxad3F3WFh0aHFfa3JJbWxJM2RBb2FzaHNla0hjTzZRM3RobFB5bDhscVQtTktOaThKdXVRUjNYM0dPc3RXbzgwNVgzM2IyQ1YwQTFzbWJ1dVBMQWxBZ2xYREo4aTdBTGU3ZzJKb1JfUDhhYnE0V2YzMkJicWJZN2otX3RDWU9BYjVzSXBReGxMWlViTThma1dZTXJFVGlWNjJ1ZkxUNll1dUxreWxpRU5QVXc1RmFZc1Zvdi03bklSZE1ydGVhdDRISmRJTExRQ1QybUNONEp4VERNUk5RVDZiR0FMQW45ZU1mekVRMEhKa24yTWU4MlhneERLakdzU2VwbHcxcEhraVZ1RFRZSUVUWnYxYkI3MXAwT0JVZ05xWVk4T1ZGWm43dnM?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 10:39:48 GMT",
+        "discovered": "2026-10-05T13:57:43.871513+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "بعد تأجيل زيارة الرئيس الجزائري إلى مدريد... عمار بلاني يفسر القرار بوجود \"خشية إسبانية من رد فعل الرباط وباريس\" القدس العربي",
+        "player": "",
+        "content_hash": "8079c44de9111a8519cdee7f72bcc5203cb711f2d81997269e8b9db195741f04",
         "sent": 0,
         "section": "morocco"
       },
@@ -626,6 +642,22 @@
         "summary": "داليتش مدرب الإمارات: نهائي \"خليجي 27\" ضد السعودية سيكون أسهل مباراة الشرق رياضة",
         "player": "رياض",
         "content_hash": "29f1ce343993ec9cc3f480ea09b35f0613b3c381fb25ec8e422feb463bb6c40c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8769,
+        "title": "مدرب أيرلندا يطالب \"يويفا\" بتجنيب فريقه مواجهة إسرائيل مستقبلا ويؤكد أن بلاده الداعم الأكبر لفلسطين - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNVEUtQXRjQ190eWlxQktmSmZZRzdmZHJzUnRGNUtiU0JOTU9GTTFEWjBFdU54cVRoZzAySmVuZ1hYTUFBSDBORDg2TXRNUlpGRjhXUlpPQjVFOVFGRHc1alA5Y2ptZG1ydjY5S0lVdmhKd3hMVFBKSXZ1ZEJXZ18zWHBZWlQyZi1QLTZfTDFld0NUSXlWZ2dGRWxwSHJZQkFHRXZKTmkwbDAxWDh5TXJBcVB1dVpVMHVlcmVvdWEyVG5BQm13YTBNV0tlN3cwbDh4NFFraVhLOXNmaEdEYTFjTVUzYWx4MDRsVW9jTlFuRnJwZUxydVhfeUZJVEhnQm5EWU9rSHZFQWE0RlNXSnBQczV3NVBZdmRna1AzVi1KUTlhVW1naDBLNnc4SmhTdFVjMGxmQXdCWGZndHFqenc?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 10:05:10 GMT",
+        "discovered": "2026-10-05T13:57:43.912230+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدرب أيرلندا يطالب \"يويفا\" بتجنيب فريقه مواجهة إسرائيل مستقبلا ويؤكد أن بلاده الداعم الأكبر لفلسطين القدس العربي",
+        "player": "",
+        "content_hash": "871e4116e4d51f5eecf2f7ad41a4dd4ea2b91fe2384b629bd47db325de563868",
         "sent": 0,
         "section": "sports"
       },
@@ -1250,22 +1282,6 @@
         "summary": "هالاند طلب التبديل ويثير قلق مانشستر سيتي قبل مواجهة ليفربول الشرق رياضة",
         "player": "رياض",
         "content_hash": "3c33f16007fecdc3f7ee555a4b33ce919f273b021bee786ca4a55cd85b858099",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8578,
-        "title": "winwin يكشف أسباب غياب بوداش عن منتخب الجزائر الأولمبي - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxOS0VSbTNwUzE5T2VteU9XR3JQS0dXdUVTemhTTnhsTjR3dFNXV0JtZW0zLV83RGxrRGJEcGpwSVFLdFdvSFRpdy1tZThBU21mSDhNNklRSmxWcy1PNmZYUlNCYVlteUhZQUNoZGwwc3VJVHpsaEZOVE85NGVkbnZvdUJEMUpoTDYzM3lVMW9VLTJsRjRJVUtXVnVJWnV1U2VJYlNJRko0WkJtVUVnTy1QQmZjZC1GbXp3bm5GQUk2OVJlLTV4bnBSdldrandzbXFnOE9HLXpyOHB2aEUwWVdmWFFicHUwVTZDOTI4OG8zV3ZJVC16ekE2Z3VIZ0poMkhJLW5NamhwRVVzU2dNSFJkRjdqd1IzUklUdkd6UUE1SUhCckhJVENKS1RNemluNEFDUnlTRDh5cmtQVHp5S19pRW1EWHlxM0ZzcTl6QXY4TW5ORWJmVU9aLTdJTmRFRWtyel9LVVBRVVg1VGtnb0JLZlcxUkFBUTE2SGFwYVNSWG84b1RXRmJCV3hybHg2Z3g1bml2SVNmN243RDRfbTUyTUdGcUd2Ync5c1RKb1h6UUJPWGFTWDgyRmY0NzN2SWtnVFNnZHVhRQ?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 22:17:44 GMT",
-        "discovered": "2026-10-04T22:25:09.655398+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "winwin يكشف أسباب غياب بوداش عن منتخب الجزائر الأولمبي winwin.com",
-        "player": "",
-        "content_hash": "ab085152f6b27caae289a92691983e13bc6d7f5434889eee431815c448741a75",
         "sent": 0,
         "section": "sports"
       }
@@ -2028,6 +2044,38 @@
     ],
     "world_arabic": [
       {
+        "id": 8767,
+        "title": "ماذا لو تعرض يهود نيويورك لأكثر من 1500 اعتداء إرهابي في سنة واحدة؟ - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOcEZrTEFfRjNKLU5CeUlfSVFjWUFFTWZtYXJUN3Ntb3JmNFVKZlVEVHFBNEZnVzF6N1Fod1VDUG9BNzMxZlNfUEt6WEhBcEFSdlQ2Vm1lRk9kZjBydUdOR0tncEtnRXlXeEFscTk1UnFDR2tqWEduS0JZV1FfQnVHeEFEU1V4OUU4aTJON0h0NEFqc21jdTNpcU03S20wMng1T1llbGg1VEU2VTNCUnk0ckFSNG50dS1qWEFwUUp3eWgzenpVdTdQMkM1empDYkM4QWpLcDlsdHVLRHY4N2lld2NvWm9EM2gyU082dEdpdmJSeTU5YlJBekgzaHVnSEdaVHo5aDRBRmhsOVRILXYwV3EtQUh4TlJpNDBkTF90WGNLQ29Pc3B3Rk56OUtHTFB5Q1g1Mk8tSzlaaFV4dnlTRE1jTjMyTkk?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 13:49:40 GMT",
+        "discovered": "2026-10-05T13:57:43.892638+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "ماذا لو تعرض يهود نيويورك لأكثر من 1500 اعتداء إرهابي في سنة واحدة؟ القدس العربي",
+        "player": "",
+        "content_hash": "5d887a3bdb69b2bd9cb0365b1450c33a3f5242cbf33e1ea2a1fbf0bff3be8b3e",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 8768,
+        "title": "الحوثيون في اليمن: ترامب يخشى التورط والسعودية عرضة للهجمات… وتعز “الكلمة الأخيرة” - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNQUZCNWJNSzhla0plN19YcHZ1MWFoZXpLdWYtSUpRdmJoMEwzS0UxMnVla3lfcjlUSjNlcXJWd2hCSUx2YmV4d2lKdXVsR3FPYkp4aURqTk9wZFYxT0EtbDFZNHpWMFlRQUVDWkFrcDVJRVl6aHB3OEJnRmhkVUFucVRaRUpXaHF4azFBbEZUWFR5OGpORnA3cXZQbW14MFdZSnFSYUNwS3ZONGZGa0VUM3RJNE9RTllpQlozaVJyZDJuUHQ5Szl3cnEwU3k3bEtrallYRUZKc29UY2ctcFFFSzFBOVB2cEVoV2I2ZzgzX0U3TzVFaGFPVjJJQVIzQ3ZPS1NpSXNFRnFIN2RvTXdldVBKQnBjZ245Qy1ZVV9BMXROUnpuVjhlQjYzM0cxS243ZTVmZzhmLTBwbXlGWUxFdzVqMmN2d0U?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 13:28:35 GMT",
+        "discovered": "2026-10-05T13:57:43.895849+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "الحوثيون في اليمن: ترامب يخشى التورط والسعودية عرضة للهجمات… وتعز “الكلمة الأخيرة” القدس العربي",
+        "player": "",
+        "content_hash": "d21e290fd8eb720c84780f3479fe47b5341283a8a2d408d54eed5f5fa58da298",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
         "id": 8763,
         "title": "فضل شاكر يعود إلى مسرح الرياض بعد 14 عاما - BBC",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqSkIzODE0SGJIT01SZ0tJbEtaMl9BVUR0Z0wzUV9wZ2xYVjUyLVFSZ2pidlVxU2RRQTBfYXV5dUZNNzNHbEU5SnpVN3hvY3JFM0FGdFNfM1VuRzBXelHSAWNBVV95cUxQN3kzV3V0YTc3UFdUblFYcy1CeEYySDQ5Sy1DdHI0ZmM2eG9LSW1tcEVmckdYdXZralFLQTFpTExJdEdNczJxNTdlT0UycFRlOE4xa2xRQWl0QVI2MGNFUFBUZjA?oc=5",
@@ -2056,6 +2104,22 @@
         "summary": "أطراف اتفاقية مكة يناقشون في الرياض سبل تفعيلها القدس العربي",
         "player": "رياض",
         "content_hash": "94ef3fad530bf8ab3a8826e9886370a086bce64663575f66c44a94b0ae0890d6",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 8766,
+        "title": "فساد وحرب.. \"ملفات بيبي\" يعرض في أوروبا وجها آخر لنتنياهو - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQRnZyS04yMzdSTTk1a0NYcXg2Vjg2YldOeTY1M0hfQlJvYVFZZkFlVW5uNzBUV1lFQndjMmJ6NThNSmU5Uk8wVTA4NmhDY1hFRHlyTnpYMjJEcHp5YjFwOVBHX3ZFV25ZUlhrMTVuR0tLRkNGcU92bmFZWkdKRDB3NVVPYVJnOTNxZGlkbzBDRFpaOS1EVlRWeW4teDRHNmVkRkl0V0VPMnI0X1A4RWNRb05CckFyOUJuR2NJdjV2RGtMdGFRZjNYOG94WWpCeE1pTXQzNHhYdU9aS0pRX0FwYUFrcDJBTEUyU01WR3J0MEtVSFBnUmplalMzcTIyYk1VNW5MSWRWbnJDTy1wdmRIQVBGVWcyMGQzRzFhRmE3c2kzQVlxMy01M2pyeG95NW9FRjBGTDd6b09zUUEzQmpXZQ?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 10:21:29 GMT",
+        "discovered": "2026-10-05T13:57:43.888813+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "فساد وحرب.. \"ملفات بيبي\" يعرض في أوروبا وجها آخر لنتنياهو القدس العربي",
+        "player": "",
+        "content_hash": "982f72b8756ee2635857fcdb5e48870f0892b9f872e1f0408e8830ad0cb8873a",
         "sent": 0,
         "section": "world_arabic"
       },
