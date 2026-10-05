@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T16:11:44.764108+00:00",
+  "updated": "2026-10-05T16:32:01.446801+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -324,6 +324,22 @@
         "section": "morocco"
       },
       {
+        "id": 8812,
+        "title": "حلم الإنجاب بالمغرب بين الطب الحديث ومعتقدات العقم المتوارثة - اندبندنت عربية",
+        "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxOUzQ5LW1HU21JTGpsQVZzcThsMVFyd0VzWVhfMXB4SmVfSjUwbC0wd3ZZNTZrUFU4allBd3BjcEg0Ri1DSm9ueFhYVVVPQkJ6emVIRlIySFRCMkJ6VHRJUmNnaWM3T0JYeHYtbHYzTmFXczZoS051Mld0QUxhYUlhZDZjZ1FraHVlRDQyMUptTGNXaHM3N1VYUFZNa01rNGwyZmZwa1dPMXNNWUktR2xQdHUyTzQ3enRVSmJuVml2SjhSVjdhZUt3cWV5UTJKWGpyRmp4aWtlbmZ4Mzk1UURQd2d0cjR6N3AzbUdlbTZ2a1Q3ek8tVlBzaDhxZi1kdlYxMzFYREhCWk5NMmFITENRRV92ODVtVzE4ak55OUhDeGRBOEplLXRfR214ZVBWUVRfQlJLTlMxWElubXpPN3RYN1ZDeGRxQlhxdTlwY2dHdzVVeEVfU1QyS2NGdHd6WnlwUmNWbXdmUjQ3MzdOak44YV9RNkNKQlhTMFNwOWtCbjFRbTV5T0xfcXhxcFdHdmp3T3lyc3d2SHpQbUkxTWhXR2JrRTNMMWFBWHBRZ0JsU3djMkc1UTZ2NFVCSWNUUFpyUnJvSUFDMjJyWEZMdFNQRTBpX0NxalhrR1JhaU5aUXNnOEFXTFdFMktsajZjcEFLOEd1TmxXVWhjZEFlT3lMdXBUcnJFMmJXZG9sNkYzVnJ5b1E1RnY0ai12eWJjQQ?oc=5",
+        "source": "إندبندنت عربية",
+        "trust": "C",
+        "published": "Sun, 04 Oct 2026 14:20:16 GMT",
+        "discovered": "2026-10-05T16:31:59.480062+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "حلم الإنجاب بالمغرب بين الطب الحديث ومعتقدات العقم المتوارثة اندبندنت عربية",
+        "player": "",
+        "content_hash": "2799e5a6c825efbaf92747a04c726d5bb3fd60c154d97080973a5d7dca869aaf",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
         "id": 8442,
         "title": "أكادير.. تدريب مغربي أمريكي لتطوير مهارات تشغيل الطائرات المسيرة - Febrayer",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE40cEsyYUh5dXdOT3htWGlLZVFJTkRNM18xN0Q1dGN2bjNCY3lRMXZCbXh4MkdxVGFFTXpJMkJRNzRvbE1LUkI4ag?oc=5",
@@ -482,41 +498,25 @@
         "content_hash": "edac524b8a226d58d6b20a2afcbef7d4f5f299d5c706536cb150e834baef1c46",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 8420,
-        "title": "المغرب... امرأة على رأس الحكومة - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNWVdjVXdycGR5U1RITm1RX2lVNEUzNTdzaTFUVjFqbXBBTGFBLWI2WmlfTW9hZ3BQT1Vma0tCN3B3RXNtVFB3ZjdmQnhuSkNLZ0lrNHBuZ0JEcm0zNGN4YUFyNUF4QWUxZWI1QnRuSnlTZ2pBWFliSjFmZmVSUWVncWNXS1VXeUxZaWlCdFIxTnJDR0hIYm5sblA0WnE5TnRDblhDQXFfTzBFYWVZZkVmd2lhXzJDVnpRUEs5VzFxZkRGQUQzeEtVOHVhU2dEQTRQLVJKM3ZzRWM2X3ZRNHVZU1FRZlFGVEl2YWhzYmRFUVg1Zk5wMS1Gd296NlNPYzRhbHI5YmplWXdndmFqX25MU3Mtck9DakY2d045WGhocDJ0b2lETVJkTlo5Z29ZVlk?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Fri, 02 Oct 2026 23:15:17 GMT",
-        "discovered": "2026-10-04T11:08:01.098944+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "e7f8abcd6f4b3e1dbcd0be9b88007558662286f9bbf6db222637fb6f36c03347",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 8497,
-        "title": "الزهراءُ تشرق في المغرب - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNOXNqQTFJNEdSZEVmRXM5ckRTY21YODI4VWVqLXU1WEZKamJvWnJRVEo0cEw4ZmNLYXRIZWdiY3hDQ3Q5dzFTUWFNbWN6aVlpMVpFS0xER3hIVFBKTzdWVEdTY0lGNXdhZXhwcmc1T3Y5WVMxZkl2bUZZdkJiR2kwcnNHRzFwcHFqREVKNXJSUHh4VmZicTBMVHhqM0NxRmVsU0lfVmxnakVDN3BNdEEyUzVfUUhWVGRKYkwtMTM0MEFBTlR5UUV2Rzd0NmwxVHpKSkY3RHFVSnNzTnNJOFlTUGNQNmhwTXZNQTZQS2xvU3owS2MtQnNhZF93bkZPdEV4dnJzVDl1SzZNdW5ia1E?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Fri, 02 Oct 2026 23:05:40 GMT",
-        "discovered": "2026-10-04T17:59:56.432553+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "31ab9c5db33d0ef2ee9284d15fb5b8067707035a73ac222e61b48c59e7a495d7",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 8810,
+        "title": "منتخب مصر في الميزان بعد فترة توقف ملتهبة (فيديو مع دينا زاهر وعبد الحميد المحمودي) - yallakora.com",
+        "url": "https://news.google.com/rss/articles/CBMiowVBVV95cUxOZ1ZKV0w5U0EzY0oyRjFBTXVENUlQRzNqUEdHVnVxc0tfb0c1VVFWY3ZwZVVGMVhuVDE0SklBekxBbGtNa3NETWlQUXBzN3pmR3BxMXdxazc0VnBUSEpkT2pCTjVKZTB0WDVhelpjVXBDY05CN044MlM2cW9SQWRXSFhtMjN6VFhwaVlFZVZrWFFpZDRWVHVQQWRiTUQwNTZna255UkFQdHdtM0NkQ0lEU0ZrZ0ZhTXVHR0hwLTBGY1MzZlJodkN6bXYwd1I5aTFYNDVjWXRjVFpxdmJVelNYSXFfOEZBN25RNHpCNWVxV29Eb0hnbjdrc1RoSlU5S3NLY2Y3VzdJZHY1YjhfcFgwNGEySGRHbjZMbTFKcnp1Q0E0b3B0aTNiWFF0SGx0NGVJTFVJRlE0Q1Z0OEIyOWYxbG0yYll3NTF3SFRET1Q5Vi1WRnB6SW9qX1hLLVFBRHhEa2l6Rjdhc1BqWEpNZEhGRzA3T2NadGRqLVRPMHBoLXBZQkFRVlB4U085NnlLZlI1VVpIRG01dGFEdXY1a3pHRWMyVkJ4dEt1Qzk4ek4tMXZtS1ZVczZELURteGdBRmpUOEF6RUx6VnFVUGNnalpxbHpZNGwxeEh4a3l1YlItQVViNTAwRmJsOHRJd0stNmZYeU84YTRQQ3M4cFZMdGpzR1ByVU04S0NEN2lVc0hpcHZSbGxBQlQwTUxmcFNlMVVLZG4ydVh1cXdNRGVKR2xVNkxtOHdPckxQLXNWVW9XZndIRWlPaVdDR3ZWc3kyeEQ5aDRHOVBya1NuUHo2b2ZLdFoxR0hUcVdkSXp4ZFhLQTRhbDZVOHNLVktuV1I1YWtBSkIwbkpjbmQ5RkxfMm5NakxpM3VMZmVBOTJ4ZUxrU1NWeTDSAaAFQVVfeXFMTW54UGxONlNjc0xhcGYzYnJrSk5vMGFEbml3MWhNQlR1a3VGWndQZElucFE3clZMN3AxaUFDS3RMZlNQRG9sNjJLaTF0aEFaTFMtNW1iRmlIdXp4UWVOV1Z0VGpSaEZxdjNQM2gzaDVjYXZTR3V4Y2RUV2dIY2lBeWlrbkh6UEpIT1ZsTjE2My1zclhNQzNfVjBXWW9YRFN3NkhfTVFZLXVJcG56cXYwWG82MV9ibWlQQ1hFOUxJcUcwTEN3VGNOWkF3N1BVWHVOajFDOTZybC1kVEtjQkFnM012YjNNc19TVU5aM0NxZmk0ZVNuZ2hGVWVhUHM4QU84Z1QwMlh6YWNlWXZMbTZFam9LVzlqcmluYnJuT3BwS3hsc3VNazcwNHBYcXQ4TXdmSzA3ZHFkMXNKTDVtVVVDZ2pnYUFHY0cwZ2tkbDhPVUJNU2JLLUFSUHRudjVheHRVSzJGREMxNGVPMGZDSDJod0F4ZzJpdEhfQUEwSXUtRFpoWkpZV2VRSUJCbjJaTndibmVQeFR3ZDFoYk0tS3FJd3YyOGhTOUp4eHRjcUVuMmZmVGRWU2YycVYwR0o2cVJDai1NTURvVk1MMTF6Rk5iS2hMcUh1Q3c1TWZxcXhTTkY4YjZWbmhDYlZhaEtjalBRY2RUN1RHVWZ6LTB0MXJSMHNwNzM5ZHctLW9WM2VHV2JzTHI2NDBBQ0ttSVFYNDc1aGl1SE1Va0U0QUlBd2pwWGI5NzFiYkRwellIeDlOOVR3X1Q0UjRkbWNvTEVfQzAwSkhEbS1SQ0RNbmFGWXFLZWNUZmgtc1JLUjJrdFlJdXFyU3p3SmVpOWdTVXhoSlBTT2dsVDJ4aGRSMm9IZFZXdWEwVHVyZm5FSU8wOEFLMTJv?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 16:06:00 GMT",
+        "discovered": "2026-10-05T16:31:45.345877+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "منتخب مصر في الميزان بعد فترة توقف ملتهبة (فيديو مع دينا زاهر وعبد الحميد المحمودي) yallakora.com",
+        "player": "عبد الحميد",
+        "content_hash": "660664cb1bb9d9de644e2ae5d4ab7fea393c00bc74957eb7c02b77c6531dfa8a",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 8796,
         "title": "استعدادًا لمباراة زد.. مصدر ليلا كورة: الزمالك يستعين بـ 16 لاعبًا من فريق الشباب - يلاكورة",
@@ -578,6 +578,22 @@
         "summary": "في الجول يكشف قائمة لاعبي شباب الزمالك الأقرب للمشاركة ضد زد بكأس عاصمة مصر FilGoal",
         "player": "",
         "content_hash": "ed7ec751d6bc4f1f5b69125ca147d47acc78ff06ce96d7b802c0ed69bc59be9d",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8809,
+        "title": "إنييستا: ما يفعله لامين يامال ليس متاحاً لبقية اللاعبين - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxPSTVRckZZVXJWS3B0cFdOUE5ub1RXR3dJM3hzd3pKMUxzNzV2YkFFenhZOVVBVWdKMEJSLXhEM29uU2RxSzhHWjdha3FneEcyb0F6bER0TXItLWhBNjlqV3pjLXB1aVBLZWcxVDB0Y01KaGU0M0wySFR3a1VhVFNrYk9qOHk4YzJiZHp3NnE2c3l0Y2xNM2FKYkVaQnAtWWZsUHMxei0tMGR6bEtQV0dVT2RGSGtLNXJkZi1NeTBzelM0OXpQTmpfai13SGNOQUhsUEtSbmVTMnVjTV92UmQzZFZBa1dtQ2lVR0dvOWNmeldaYnZmSTRjTlhiaVhvQ3JxbFpvdVRySnluT3dNelBuRFpnbi1Pa05TaTJ5RXVwS0R1a21qOHEtT1BaYUgyNGpRNGFlckROQzlaUUtid3RIaXJFR3BqUEk4MUtKN2RYTnFudFNGcDdSMk1oX2VKeW1RbzVjUTZ3RUxfQzl3ZkpSSzU3dGtlVExhSUhBSEQ2NlpEYVVwX3NCUks2YkhmMENQRzBSRVlBTzZNSG9uUmd5U250cDdJN1pmcFBCdUdER2l1UG81MW8weFlrSVp4bVB0ZDhlNW5lblpKMjY4dVE?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 14:34:13 GMT",
+        "discovered": "2026-10-05T16:31:42.654154+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "إنييستا: ما يفعله لامين يامال ليس متاحاً لبقية اللاعبين الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "4f93cb00ac78375dc6af6ae514801b64436b0e0053974cfeb244f53fb431a619",
         "sent": 0,
         "section": "sports"
       },
@@ -1284,38 +1300,6 @@
         "content_hash": "3032d77a956e43b7967c14410ace657e5073cd2f49b0b6b5ab99275e0ae55bdf",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 8695,
-        "title": "جيسوس يسعى لإعادة رونالدو إلى منتخب البرتغال - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxObkVmd1BYaU81dl9QLWtVbnZEU0RhYW5xRm16MXFHUUdFTzBaRktXb096Wk5wVTBOMEI4dlU2Q09veWRSak5qVkVNV0g2WEpZMHpTUjJ6TmVrN0lrQzRzWjZCbzR6eWlBQlFPYWZfN3dLYkdrckZVbWZqWXcwcXY1VHR0M1p3aHd5cXFIRnAxMTZrc0ltdm9TLWsxUTVvNGg1UEpvTDA5SkRReEZqT3o3ZW5YcDNuMktiMklhNXlhOFVHb1o0V2V6amRFYlJfOUlGR25jWm9ZYzAxS0JoQU4wX29wOWVvdlAwYmxoY0E4Z1ZLZFN6UEdXNDVvcjBKNzlyT3l4U2JTRzhFTmh3OGVQWURHeVNrbEtEOUpLdmdwNXhWbTVZX1VkWWxjUXgwU3l2NVkwSTlvXzZoZXh1RURLaHhOZ0xOUDBxMlJMa2QxNWxpSlV3eEtGci1MU0h6ZmlwYU02QkZTeWo2WS1VMTMzcW1lOWxTZlVyOGRrVEVRRmotV0k0RzZicGcxSFI1Snktd2U5MGFHM3g2aHlpVVZzOXZsLUFLejFu0gGuA0FVX3lxTE96NVhsTjdJX3Q3dmlyYWxsOVpRcGZDWjFNWUlsbDBGS3FqS2ZoOUIycU5RQzFIMXNVaTBGNU5TZFV1QkpTT3VYbFRkeWFNdnZjREc0Zy1aM1REMHk2R0ZaWnctM0dFc3F1bUtzbnNDX3c1N21acjdkR0F6MEpNR2lISXJUdU10Vy14TmFOLVVKV2Noay1zeFliOF9BeVFiMHNGSmRjYUhuVGNKYUFQbllfdG11VmtEWnRfRWVZcEFsVnUtdnlqRlhZMXhIR2doWGdsamdraFp4akNTeEhYRFVzdjRZU19IaDRUX0ZBNTRibl9oSjNjaDRjOFR2MDhycUNNVmtqSDJtZFZmWVJMeUZEeU1PS2JPMllMT0xHZ2tRc2VsV2djaDg2SmxZYXUtU0pyX2tZUi1YRENCazRHMEF0LW9RYkMtLW80dXhnQ3kyZUJSZGxmZk4tRFJNSGxsZW5NUW9jTFY0MVFKSUNQeklwT2dITUZraW4zY25WckVvTDNfQXhNamlRRXRvWXZWZmpyYUpjdFJzN0FKSlhjdmtSRVBuMVd0ZV9iQ3RPbWc?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 07:06:00 GMT",
-        "discovered": "2026-10-05T07:19:08.922936+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جيسوس يسعى لإعادة رونالدو إلى منتخب البرتغال يلاكورة",
-        "player": "",
-        "content_hash": "3e853e1d479741cab6a07dbb4c43a5a9c6c5f4a86c799131836c64f69830a5be",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8692,
-        "title": "رسالة من مدرب البرتغال لرونالدو.. وبوادر لحل الأزمة - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxORHNVbFRuZFVCRk9mYjVFc01feUNNc1N5MlAwX1UtcGJENUtBbmhvQ1gzTl9ScHFPd25pMHVEeDRqNUFST002dG1NZXhmcEQxNHJLWC1aY25hWjJqdkRINDZnM3ozVG9OTU1CLWlMY19iSFRCcHJzeEM4UEh4UkFUNm1qeVpXOUIwVWV4QTdiQmx1bmw2STA5enVoWDZnNXVyc2VtWnRNMC01ekw0MU9ZOTQwVFQzOXYyTGZ3ZlJEMHRYeDJtb3B6WF9tbzBEblY2WEl0VnZhRFltQk40VU04dEZ2dDFwSDI5OFF4RnpjUnB3cEx5OUdVRVFRbzcxMnROVU11cFByR2lvOXdyTG9la3NsSk1NMDFBbHNvYmNGWnV6blhsLUlUY0o3Vlc1Sm9aV0s3OWJkRWxsekNHdnAyZkxNRHkwMExTWldtY0RIbmtkZFF2Q2ItTnBYNXB4dWpyYjlNMmttUHNEd2J1dkw2c2hwckJlR21NWmZpYnY2bnB4WUVQcFFOTUJaYlc1Zk9MM2ZCMXJydlowQ0tNVGxv0gGkA0FVX3lxTE02Q0tlWGJKZzNFUVRFcjVBQTRPTUZYdlVuMGloeXN2cmVVQy1HRFpINmFlOE14b0o1WE5hcHVKSTFHUmNPMzRKNzlzN2Ewc2VWRl84bVR2cFFyWElVTmtZOFA5YjN3MUxOZ0xDdnBwSnhpSktmUm41TlVjR0tibDJfcXJuWVdMcy1URC0wUUdtZ2tZbWRzY0VLYTVUX3V6bGNZVzFyRlB5VjlIM2VFdnVuOGZaWkVTUVpPRWpyaG0zSW1aOXZNMjhsRHRROWRfVnktbThTVVNEQmlOWWJNcDJRNGVleF9OU3ZVUVVCNUFSM21ELXVpVGtqM2tNdTV3U1RiVXV2TXpxSmRCdjdGYWtXMS1DcHFIN3FhVksxTjd3bTJBbnNrVVJ0S2JROGRNcHlIaWlDUjVGeHc3ZWRVbmhDakVfbWV2QXRER3AtMnJoWTJoR1o3c0ZCcHhiNnRPN2ZyZWUzWXlOZGNTMGMzV0oyZVVnSU9QcGVOWGlxbDF3REFNaHhtVS0xS3ItRjBQV0NVeTJVbFdhaDB3RWFnT3V6S3ZZbg?oc=5",
-        "source": "سكاي نيوز عربية رياضة",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 06:35:12 GMT",
-        "discovered": "2026-10-05T06:58:03.181685+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "رسالة من مدرب البرتغال لرونالدو.. وبوادر لحل الأزمة سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "4811e4891570e34617db5b88ea964b7df04b9039d73e2ad680f353e1a1e21028",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1736,6 +1720,22 @@
         "section": "transfers"
       },
       {
+        "id": 8806,
+        "title": "التراث المغربي يتألق في المعرض الدولي للسياحة والثقافة بكوالالمبور - | MapNews",
+        "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxNQm1tWXpCRkxaZGlIbi1ZOXNvcTBuR2Z0cnI4dHZwZ2gxbmpyNnVPdVhtY0padDBjbHZqaktjQkpqOWQ1eWluTk9tQ0NJSlNvVVlPVk1BTUNHQ0lHcVZqYWVhaXJJLWlwbnFQdjhZSG5td2FnVjBlNEY3azhIcVhYbk1zRmlJSUlvQVV5WnRGUW94aUk3YnpCeXdtT0RweElGWEljQkxhc1NNeXVoYWlfV2R0XzZ5enFHMzZFb1FWMmZ1RmNWV3FqMDRhb0U5VEhhN1ZvWGVUM2QwMkprQmdiMUVudWVScTFvcmdfZ0NnajBQckhXNmZ2ZlVoanR3aXluMmNzNlNjcnBhWlZ6SmtjYU5INzVwTUduNXNTOXhlM3FzaU10ZlhYVElyWkdsZmJadGh0ckdiMzdfMnZDRjRYOTJpNlc3N0kzY1gyd0pDRGlLbVlOTWxIeE5zQlp1TXFkQU1GSUlNWnAxN3V4Rm9hMTBJbWtGWDNKYm9SSVlHWTl3ckE4RS1FQzZ2OU02aFFoVnl6UjladVhZVGRkQ2xpd1o3WG91NTN2WUZqbXJwLTRDSWdFSG9pd3FMUEZNNG8xOWF3VkJsQWZ1a3FLd0NYU184M3dxcVlqYnRWRnZReldzcVpNWm1vQ2UyUXBvTlFDMTcxamhmZzYyZFlxWExLaG5WZUJTOXktUkVNVElLM1JfTEpHd1g0MEs0TER0Si0zNHdXcnkwNjNnMXBUd3B0ck1iVUFoMWpuV0N4ZVFyOENSUXly?oc=5",
+        "source": "MAP عربي",
+        "trust": "A",
+        "published": "Sat, 03 Oct 2026 13:53:21 GMT",
+        "discovered": "2026-10-05T16:31:31.240554+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "التراث المغربي يتألق في المعرض الدولي للسياحة والثقافة بكوالالمبور | MapNews",
+        "player": "",
+        "content_hash": "0cf53702a9b5ed3d8c63c5a84b69ad84c8efcc01f69980f60e9380774febb240",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 8501,
         "title": "مخاوف من تحول لندن إلى \"مدينة أشباح\" مع استمرار مغادرة السكان - اندبندنت عربية",
         "url": "https://news.google.com/rss/articles/CBMikwVBVV95cUxQUUVJY0lDWUdhMUVBS1poRnpOTVhjOTdqNTZMdE05UXhWOElHOTNKbV9WZ2cweGFSakNaQ0hJektFbjRCTmRCYmVUSnBjNTlnSVBiMlhNekluOHNHOGM4QjhYeldHNW1JVEZqV3BzQTdLaEJNYkhkVUFaR19sRlRPWUgtZWFZQXlWSDNjUXlwcU5pUWw2bml2eVpoTVRLc2dxOXhiamlqRXFfZ1BkSVMySkV6cVNDSFlKZEY1eng2TGVKVEFVcjl0aE92a1IzQkl1cFZVNXBnNkowcVRsS1Vla2hEMTdXcUc2alJPNkR4cFFxU3JMVWE1cmRFSDZHUTFEcEpWcUlvdzVSOXd3bHh5MGZIVDJpeVdkQjlTd0dXT2Q0WWVSeFNLNzhaUXVkWE5mVi1UNjNrZFpMX0U4TG5LUDZHSW16UVZlcll4WTQtLW9CZFRqMzNRWjA0NEJpaUZidlBDT1drNm9rdDFROFhGOTljcElBdGtvbURBVXg4SFhiQmtKZmd2RE04S0hxa2cxR1Q3ZDIzSTFHa0d4VzUwbXpQWDRrZVZTX1Ria0VkUkI3aDlPdzFMOGpQSTBWa0dzUGVzZ1l1bzc4bXJwMEJGMWxsSndQS1ZTQi1pU2x4dUFfT1NvTTZ4eTl2cnJxSXR1cmo5VURONWo3WC1Udkk4bDZ2RmJyT0JiT0ZpTTVFT1hFMW5yRldDNWsyYlROUElfalFXMDl0Zl9DMC1GY29zQ0Q3ZTU5eW9WdFg0QVVibWs3aWdaeUtseUVyN2ktdVR0MXRzMmxXOWhVTFlMdGRoTm9MblBQQmRRMVd0ZVdYeVpxVWdHdVNJYVBjYUNuZEtsRkNqdkdvV3E3NUExRUY1bERBRQ?oc=5",
@@ -1994,6 +1994,22 @@
         "section": "middle_east"
       },
       {
+        "id": 8811,
+        "title": "بعد منشور السد العالي.. مصر تُحرج الوزير الإثيوبي بسبب حذفه - العربية",
+        "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxORktMZ2UxUmRzMUxaM2FYajJmXzAzaWVzTEFvb3lDVnJyelk4TnUzSEE1N09Gc0FRVU9xc0dlWkdyaVBZdVIwRk9IV3Z4MDdnYXhod29CaWlPT1NWaFIySUtZdldHOGYzQXlSNEdvTElhQXA3T0xQekpmc3dPcThYdGxCZHd0eUZFZmJwUTl5aHgyczdIemhaZFd6eWN4cUNuZ0djcW93ajN4YWVPMkpMbkZaUUxTNHFNc2RrYlVFQXUwYUdaVzlHRkFRQTZHcmJjeTY2TW1lNTQzVTlBVHZJN0FwU0xSRllKMVNXb3haQjVic29rb2V6OGdVQzhLWlpqWGxrZ2NJLUczUWFoNTBLLVdLaXgzSS1SUE1PQURQYnh3MmNpWlYzSVI0cUpjWmVzZzM0NUV2cHFWdTJuN3djbkpUQllHSTUzbTI0cHFfOTF0R05YUVp0dUNUWHVmYm1EUEZxUERBS2hDVmlITl9aa3VOUy1DaUxiQzlHUDQ3LWxPU05WZlM3dGY1YkRqZUdySU5sWU45THZYUHBpSV9LQWVWa1dTVkdMa05SQjlNRXVDSWw1RVV2bUtScmJiNTJtN0pGdVNLbmIwRDUwa2dnY3dQQlRSMWxqN0JPaGt6c01sVTFsOVo5d0NTeEg5REdT0gH2A0FVX3lxTFB3UjlGRm5iYVNCUFBpZ1N0ajN5c1N1cjR6QlhvZXR5TXQzNk91QzdiUE9oWUh0ZUhES0tNMUUzenVINmdHUnZzT083bzBzemYtSGFkWUJFcUYtWmlET1hGcV94TUlwMkdDNUJONXA2UGw2UXB6UUV4RTZxZmFUekd1VEFiRnVzVnpSN2YwQ2k2dGF4a2RaQzZWbnZYT3ZZREdrQWdDdzZaWlBobEVFTlJlM25LQ2RpRXNOWEZqRzF3UWtnOU5qYlFPSW91dFB0Ym4xNXZFamNXWTdoTDA0bGYtYnJNR3NxVWx6VjFZSnZ5MXVpM3g1bmh1dG9kLTNwaXJ5UXhuWDQwQndxUXlqdXcySzlfeUcxZDRKWmw2SjRvYnJhTUI2NEo4S3hRSXprVFZvdVlQRTJCWmJKOXk5YWN1QWNyX3lqTEJSYjVGeFZiZTNSVVRpQXlSQnJHd2lqVDRSZUVsTFYzUlpMVVZ3THVRODNIeGdaamp2QktMM1c5SUFUS1I3VWlaWDMwaUJERFR0bXdVS3pncThvMkUxT3FDUTFuV0kxTXhnOW5KaS0zd1JyRmRESGVLcDZDMlhXQzZaWFMyVEZRMUczeUxtVEZnQnFqVXVYSk5iSHZ1X0Y5MjJqeE5NT1drTXJQeEFiZ2g5OXJmNHc?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Sat, 03 Oct 2026 21:05:00 GMT",
+        "discovered": "2026-10-05T16:31:53.175143+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "بعد منشور السد العالي.. مصر تُحرج الوزير الإثيوبي بسبب حذفه العربية",
+        "player": "",
+        "content_hash": "70b2e8ed5ea3559aee453c9c26e4bd573f1bf3cb8b6ca3f50c2551625767cd7c",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
         "id": 8324,
         "title": "التحالف لـ«الشرق الأوسط»: مزاعم الحوثيين باستهداف الرياض مضللة - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMi_gRBVV95cUxQV3ZRX2lwLTRrejBLNTJFMkZ6SUZETjNpNFZrRlQzTHRFNElpTGExM1hheTVwYWFtVnVCbV9DdjlvbF8zOFh4eUhfdFpDMVBkNlcwbmJsc3pnWmpBc1UwdWd2Rm9TLTVRa0tZNE9iOUphRmhGNmxVb0JkZUlzLUtTTWh4TFdreG1oS21aZWMtb21ybjZzbHJnLVloZ2VoMEZzYXFzOGxLbXJHQlZpeGJiSlBsbE1sSzBmS0E3YlMwckF4eW9Fb0xPekdhc3RfOE1XVTlBMm03ZnJZTGRHT2FXOEx0R19aMzl0TWZjbUJxa0gyOFJpMThqTEx2UEZaMGRCWkk4bG90bXV3a0tWX0lwWjRnTi1KVXJRLXFMeGhSZHpjZFRxTWtMSmlteWcxNDZHS2hGUDVhUVI2TlpGVGU1TkJPSnpvZ1QxT01UamM5a3l4MUpQM0lua05rYWVDN2U0WTYtcWVGMF9iYVBNdmFkTDdNZlRMNmxoRGdfdVZTWHVPTllBd2VkV0VkVE91UW1CVkJVMkU4dF8wN0oxYkhWUjdFWEhiOWJQN29uenI5WnpROEZ3S1ZFZmZMSTlnaG1McGVLZ0IxVldPRTl5d1RlUjJfM2hvMjFDYUlDN3pLdUZWc2hfUFozcjJuYzBKaUduNHI4am95QjkxR3lUZ1gtZnd6bkdEWkJfVzNJQWNLcnM5RFp2SkRDU2ZhMGxNLVhPdGEzU1ZLYjJodndWMHZkUmUtZnZvNTJvcmVlcDJUcTNQVmxrZEF3Y01NY1psTVZzTVc2SlJtTzhFNkFTc3pqRkFKUGtVWlY1MDlsem9UcEFLa0tJQkRqYmNnOGR4Zw?oc=5",
@@ -2070,22 +2086,6 @@
         "summary": "رئيس الحكومة اللبنانية يعيد «الدولة» إلى النبطية الشرق الأوسط",
         "player": "",
         "content_hash": "14691eff3fd584a1ab212763015f1a165b704d57d1f48419eb1ce65921e10dd5",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 8377,
-        "title": "وزير الداخلية اللبناني: الدولة ستعود لبسط سلطتها في الجنوب - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQaHJFRnMzdFJLTjZtYkNYY1g1NjIzOE5FeHA3LTZQY3JvakFMNEtvWXJwMS11YUNsLTBQRGNqQzZCNWNrNVlfb3VNdWItdTJ0ajNaZDVqdTMwY1p4MVBjREVhVTFnRk96aUtNck5yV0xPMlVvZWpUYmxLV2FkYTdHa1hZZzNIYWpkbTE5T0N6emNHT3NaZ1RhY2g3cHhoYXJGdVhGTW5BVU5qMTNnMlNrV2d6ZG1GaTd6ZGVNVVhrbXoyR1pES25hbjRKVHpmRlctdmhTOXZCOVpHUGlDRWZrdGRqQTIwZUQzM3Q1UFU2MWFmMGhXLUNjVy1WQ3hqQ091LUt6NVh5RHVzTmQxWEd3WDJpZU5TUzFEQ2pFaXZoTWd5N3FNSlY3N1l2NkZrWDh2VHdVaGZxbFZmSEVHcGtYUzFTZElLazRSN1ozNC0zWmdRUC1RSkZfdmw2SjQ5allSd2hvTUVvckdBYm5iQnhDaFJib3BaSkVmRkVfZzFtLUM4MzBPdUlQX2dWYzgyLVl0YXVfcUl5WDRjdFBrVVNVNl8zTUVuT3NmT3dxTUVGVldKcW1Ua2FpZ0xYNnl5cmJDOFZtck1iRDdUbXp4V2tTcFNNRWVfWkpoNjh6NlFkZFrSAeYDQVVfeXFMTkVYQjdKTnZhTS1kWkc2OTlpamNtQXF6V3hKeV93WXJZMTNzT25qUkFVWlNiMUd6dG1qSllnUzFEbTkzUHZWUEtmeFUtX1V2a1VURFRWM0Qxak9pcnNGdFlMWEc0Rjc3M0NuNjdfMV9JZVlYWTNaLWh0OXpENGg5RzgzelZSWmNYNmswYUJuSFhxZzRISndGWkM2VzJKdjZscjVZNlRuaTZUYUFQdV9GYkVubkI2SlNvWk5MaVRnMXQzNlV5c0JOZ1BEZXVEc1hPal91LUtadzV0Q01zeFlnQkpsZUJUeTJ3cnVmN0t0RGt5T043eW9pMUJlZ3EyV2I4V1RSMkZrY0RmNmc3Q2NlMlJPYnZtaWlQa1FLM3pPS2xfWnBCa1RJaURMX1JscWpKbmx2azZtMUxDOXM1VFFTeVdEZUwwUFJidEZpQUxtR09NWENqa2Jmb21zUjFGcFJnYVhjQmZ0ZHZKZ0dVaV9kOExVQjJLb2dFa2IxVTdFR1JySVZfTWxFY2l5bUxWNmZsUHM0MVJUcmVocl9jMk93SkVGa1JJUzJsOUpSa01TY3oyWGpoOHRwX3Nwd3lXR2ZEZHZsTzd4dUd4MVVfWWlhbnVxOVlzcEpQcTBpTDZJZk82Q2NDWG5n?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Fri, 02 Oct 2026 22:05:30 GMT",
-        "discovered": "2026-10-04T03:23:07.773063+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "وزير الداخلية اللبناني: الدولة ستعود لبسط سلطتها في الجنوب سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "3f4cd4b0bfe32a40bcdf7ccdda56e681eed92f9d3607dd82288ba702519b3f4c",
         "sent": 0,
         "section": "middle_east"
       }
