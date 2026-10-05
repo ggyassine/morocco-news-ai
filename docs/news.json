@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T06:58:20.579410+00:00",
+  "updated": "2026-10-05T07:19:26.455445+00:00",
   "total": 134,
   "sections": {
     "morocco": [
@@ -485,6 +485,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 8695,
+        "title": "جيسوس يسعى لإعادة رونالدو إلى منتخب البرتغال - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxObkVmd1BYaU81dl9QLWtVbnZEU0RhYW5xRm16MXFHUUdFTzBaRktXb096Wk5wVTBOMEI4dlU2Q09veWRSak5qVkVNV0g2WEpZMHpTUjJ6TmVrN0lrQzRzWjZCbzR6eWlBQlFPYWZfN3dLYkdrckZVbWZqWXcwcXY1VHR0M1p3aHd5cXFIRnAxMTZrc0ltdm9TLWsxUTVvNGg1UEpvTDA5SkRReEZqT3o3ZW5YcDNuMktiMklhNXlhOFVHb1o0V2V6amRFYlJfOUlGR25jWm9ZYzAxS0JoQU4wX29wOWVvdlAwYmxoY0E4Z1ZLZFN6UEdXNDVvcjBKNzlyT3l4U2JTRzhFTmh3OGVQWURHeVNrbEtEOUpLdmdwNXhWbTVZX1VkWWxjUXgwU3l2NVkwSTlvXzZoZXh1RURLaHhOZ0xOUDBxMlJMa2QxNWxpSlV3eEtGci1MU0h6ZmlwYU02QkZTeWo2WS1VMTMzcW1lOWxTZlVyOGRrVEVRRmotV0k0RzZicGcxSFI1Snktd2U5MGFHM3g2aHlpVVZzOXZsLUFLejFu0gGuA0FVX3lxTE96NVhsTjdJX3Q3dmlyYWxsOVpRcGZDWjFNWUlsbDBGS3FqS2ZoOUIycU5RQzFIMXNVaTBGNU5TZFV1QkpTT3VYbFRkeWFNdnZjREc0Zy1aM1REMHk2R0ZaWnctM0dFc3F1bUtzbnNDX3c1N21acjdkR0F6MEpNR2lISXJUdU10Vy14TmFOLVVKV2Noay1zeFliOF9BeVFiMHNGSmRjYUhuVGNKYUFQbllfdG11VmtEWnRfRWVZcEFsVnUtdnlqRlhZMXhIR2doWGdsamdraFp4akNTeEhYRFVzdjRZU19IaDRUX0ZBNTRibl9oSjNjaDRjOFR2MDhycUNNVmtqSDJtZFZmWVJMeUZEeU1PS2JPMllMT0xHZ2tRc2VsV2djaDg2SmxZYXUtU0pyX2tZUi1YRENCazRHMEF0LW9RYkMtLW80dXhnQ3kyZUJSZGxmZk4tRFJNSGxsZW5NUW9jTFY0MVFKSUNQeklwT2dITUZraW4zY25WckVvTDNfQXhNamlRRXRvWXZWZmpyYUpjdFJzN0FKSlhjdmtSRVBuMVd0ZV9iQ3RPbWc?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 07:06:00 GMT",
+        "discovered": "2026-10-05T07:19:08.922936+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جيسوس يسعى لإعادة رونالدو إلى منتخب البرتغال يلاكورة",
+        "player": "",
+        "content_hash": "3e853e1d479741cab6a07dbb4c43a5a9c6c5f4a86c799131836c64f69830a5be",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 8692,
         "title": "رسالة من مدرب البرتغال لرونالدو.. وبوادر لحل الأزمة - سكاي نيوز عربية",
@@ -1268,22 +1284,6 @@
         "content_hash": "b06f21d729b6f1afbd7731fdc476d6a84fb2194a07ea22a5cc2a19c91543a47b",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 8537,
-        "title": "حارس جنوب إفريقيا يحرم حمزه عبد الكريم من هدف - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNQ2tScEpUemtRRjlZdEpOMnVWZUN0eURlajkxbXFraVhMSFBzNVBGZ1ZDaUZEeVJKRG4tX2hKLUgtbU5tMl91aTQtdVJoNV8yTGVaNkowUG1reDZZU1NMVlJ0bjJ3LXdGVDZ0REsxTTVuM0dFR2tQUTdSXzQ0YjV5aUt3dmNJUjBwS0VVMmJGYnkwN3dlMDZTcUpmWS10YkpoMmZtWlE4UzEyLWhfNGJNdE9vUEk1TTdoT2xLbFlmLXRJMWhPQUZSM0lzODFMY0dQNjZtMWc4Z3B6V1Jid2xTMmlZQjJqU3N3ZUQ4cUNUX19aOVhmcUVHN3l5VFhYRm9VTUkteFZOT2VWWk4tUHp6R0ZhdkN4UU9YNGVPVDByakxqelFmUHVCY0hFR3FhMGNMd0dHMml4WlRmRnRtamg0cVFzTVNpdmxROWVsMkdicE1OQTRNUnE3bWVrTV9DRE1yUmR4TXB1QzdaS0ZBSDNuTGQ3VGMxMHp0cTlJZUJwRVFYNVBiN0Q2MGR6QWI4UDlsZl9tTnRSeEVUMm9SeUNUaTNPazUza1hNSGZKMA?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 20:00:00 GMT",
-        "discovered": "2026-10-04T21:11:43.556300+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "حارس جنوب إفريقيا يحرم حمزه عبد الكريم من هدف يلاكورة",
-        "player": "",
-        "content_hash": "bbc71adceb6a24a0924358a7261646d70c3d7a5a4af29ac3b74052e6d6ebd02a",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1316,6 +1316,22 @@
         "summary": "هل يستقيل ترامب؟... المرشح الأسبق للرئاسة الأمريكية رالف نادر يرصد 5 دوافع محتملة لمغادرة البيت الأبيض القدس العربي",
         "player": "",
         "content_hash": "284e48a15a22f2e1f1a8fbe74bea03ab735a18e76fbe06be81a4920161d0af77",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 8696,
+        "title": "الجيش الإسرائيلي يقتل «مشتبها به» حاول التسلل إلى موقع عسكري في جنوب سوريا - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMiiwVBVV95cUxPQmYtM0FvRFhvNkhVcmJYS0F6dU9VdmNUVERRRWMtQlQ1RnRhMjFLWTFxWk5KV1ZHOGE2SEpfYWJ6Sk9Rd3hjTm5KRXJXUWZMQlhzMUh2M3VkMUw3TER2OWxBdFpxQXJLQTFiQW0wZGViNnFnSUtPT1FValFncndXTmJWZ0otYVktY055OFpUX013TUtjeERSMHItMWFfdldwclRobXctMTQ4UjhENENPZFczVGp3dE5jQ2M5RUx6b1JYNy1uWVNJaWpWZDBzOUo1MWFieVdEWUVQSTRZNlRfUHhSdm90dUtvVDB5U1VVZ1cwejJhaVlvTUxTSV9COUoyOTNTSllPeXc1VzFMY1Z6MkpVSHcyNkVmVkhPSWFDZk5uOWRtQjkyYm12dEpmNE1oLTVrWDZFS3RUMXZxZ1JxdUlPTEI0a0JMUmtYbnhNbnRMWjRyakxod0RoZUFUdnVIdUVVUWRsaGQ2SFpTTXpEZThlZ0h3TzRTc3FTN3g2dV9hLXd6YWRaR2E2YmlDR1JzSVQ5V29zYjZkQk5ZWkY0ejBVNlJUNGthSlo2QVJOUkpsMWQyQnZQaUZoR0VEekJqZVhPckxDU2ZLRmhHS2pLdUJmZXJndEliWE1hY3ZXekFwVWhuMEo0V0REbmwwNFc4S0p6cXJGR0ZOZUEzODFLWlJidFFEZ3o2WEU2ZnF5NzVxRjdtZGZDOXhOOXZQTm5JQjBsX1lvYml0RnR0dDRrUzJlc3ZrNjlER0YtWDJLZmVfLVdSQ1BCNG12OFJsTUdrWU1Xcl9jZC1GcXY1Q2VtNnhlN1Q1RnBSZjRRSkstejluR0ljbjRITmtuWE0xbE1oYXVSSXVJaTF0d2s?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Sun, 04 Oct 2026 23:31:04 GMT",
+        "discovered": "2026-10-05T07:19:19.295240+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "الجيش الإسرائيلي يقتل «مشتبها به» حاول التسلل إلى موقع عسكري في جنوب سوريا الشرق الأوسط",
+        "player": "",
+        "content_hash": "84848920375fea0f0ff45d3bd6d0124499f1fc64649adfaec5d54bf5d07cf393",
         "sent": 0,
         "section": "transfers"
       },
@@ -1572,22 +1588,6 @@
         "summary": "كأس الخليج - دونيس: دفاع قطر عقد الأمور علينا.. لكننا نستحق الفوز FilGoal",
         "player": "",
         "content_hash": "185cf8027fd149a1239ab87a47550a81ad2d750146c94eb13717458193ef1575",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 8193,
-        "title": "الأسوأ في التاريخ.. منتخب إنجلترا يصعق مدرب الإمارات قبل موقعة عمان - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMimAVBVV95cUxQdUQwMGw0MmdwTWVRcWQ5dHFHTFRmNHZ0NjQzeGl1XzItOUE5LV9mMHpJbGhjUnNXTDZCMXc1ai0zNjFmaFNQYkJUWUFkcnRJcUtFREJldEw4LTdONFZYSGJPbUl3dFRKb0ZhaHdGaUdFMU40NHR4Z05VZ2gyX29VY2xtd0s2UUFUZVFwX3RHRWd1THl3aW1uQUF4OFl6UmEtSzRZR2s2V25DdTRIbk9hb3hIbnJnUXNsZXY1RG5qOEJTd3BsNENObThtaV80Y3g1T1FHd3g0RngzLU9oTUg4TVEzcE5VWmhLdkhmT3E4cFYwa0U4UW5GNU5oTzdQeXhqSGZoeVFhVWxETE5MQnZwektnZExQOHc1dkdUMlpRZlcwb1psRGExbkFqdGlLLUVVMHE3NEVCUjBscWxIRHI4aHpGZW1SVFpHLW81ZHE3OU9rM0VNcnJHM2hrWW1QUFg4ZGwzelpBRFV5N0dnVXB5ZHZVdW1rbmRrczNteFpvMlFHNE8yaXM5WktHMmlmV1hVWGxhbXJyYmQwa3NxaFdwY1FvUmcySExMUGREbmhXSHl4cmtRd2VydVFpVmFEMlF2Rzlsb21KWTVoRVdsNXNUMEoxamF4MU9PVHlRWUxfZWo0eEpxV25EX1hYRkFMLWtubzF6bzZmMDVodVNRU3lWRTlhNUsyNjlzVWttUjlrRm93UGNrUlFvREtNNy1qUVNwRXVtdV9Xeld4SGdPdnVHUk1TUGl0SDBxUlBvU2xoQzJYTUl0WmtfeGx5ZEhLNTVkaVZnR1BJM3NFMHhDeW1FLUpRVGlIREo0TGF5WVJYeW5mVm9TMWd6OFlUMWxrNlZaVEd1RVU3QndjdlNDSGtmaDlTVDNYNjVq?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Sat, 03 Oct 2026 18:18:35 GMT",
-        "discovered": "2026-10-03T18:24:07.205750+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "الأسوأ في التاريخ.. منتخب إنجلترا يصعق مدرب الإمارات قبل موقعة عمان Kooora",
-        "player": "",
-        "content_hash": "43ed791e2568600cdb9994b46dada0112215dbedff9021ed7494d66ecd229fbe",
         "sent": 0,
         "section": "transfers"
       },
