@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T07:40:27.219651+00:00",
+  "updated": "2026-10-05T07:57:13.264794+00:00",
   "total": 133,
   "sections": {
     "morocco": [
@@ -485,6 +485,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 8702,
+        "title": "هل يلعب ابن رونالدو لمنتخب إسبانيا؟ - yallakora.com",
+        "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNUF82bG05Sy1LREw1VHhSUF9CdEk3UGxZTmttbVQzWXdkalVvT1pGa2pUWDRscUxLWnJXZHA1b0ZYMll2VXRkMFgxOU9kcHNHTTJDWE90b2laM1BmOGE0d0VNbTY4Vlpwd1FaWU5taXVqcUFfbzhPMjFCTURRRkYzQXIyb1l6UGNUcGlPNFQxOVkwRnhWUHhKMGdaR3ItNjBLbGJkc0daaFdvX1ZVNTByRlpyR1VYRkVhX2pTUkRKLXJhQlM3cjRERV83ZWt5RUtSQUhLdTJNbUx2RHVqbXdrWE15Q1pmTTZ6ci1hSDVBbDZBTG0yQ2pPRmtsQk9BQzNNWFk1b2JlbFBoWHFETjlwSXIycTJuUHdMWjVwNG9tVzZhUV9TOWhrVGpLem9ZRkU5VmlmcWxvRzJzb0MyaE5RQmpodDYyY1lqc3hybDJ4VDNPWEJnM1Vpc3VnMVZ3d0lrTV92ZGxyRlM?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 07:41:34 GMT",
+        "discovered": "2026-10-05T07:56:57.509341+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "هل يلعب ابن رونالدو لمنتخب إسبانيا؟ yallakora.com",
+        "player": "",
+        "content_hash": "95bdb3f940f6148a9d3fad0cb78792eefb37f6e53cc3d774492e39834bde9b33",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 8699,
         "title": "مواعيد مباريات اليوم الاثنين.. قمة فرنسا وبلجيكا.. يد الأهلي والزمالك.. وودية بيراميدز - يلاكورة",
@@ -1266,22 +1282,6 @@
         "summary": "فرصة مزدوجة ضائعة من منتخب مصر أمام جنوب إفريقيا يلاكورة",
         "player": "",
         "content_hash": "4ef04ffe9991927a3bd0a2b81e010ce6d7503f28817310ffafeef6b71a5c8a84",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8646,
-        "title": "من جديد... لاعبو آيرلندا يرتدون شارات سوداء ويرفضون مصافحة لاعبي إسرائيل - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiugVBVV95cUxNR3hoTTlGLVU1YnVXdjdUUnplaWxvSy1CbDA0cHRsNHZyaVprbjhXQ05GYlJJdUpMQlpRN2EyQVhPcmxXRk1vYVQ5WlVXS2xrNDM1WGYtSjdBY3ctbzFwcWUtRjJqa2NBa2VKUDVrdXdyUVhlX09aLThCNGIwSVd0RWJyUm1RQjJ5dUlLNllhSkJEcy1mQTN6WnI1Y2U5eHFYeDlvd21kRVkxM2ktRmk0WmVkdDE0alViREpuTnlFdGtGMFp1dG93aXRlYmJNNUVhR0syZnF2M1BycXJRbWpZS0w4ODV2MzZQcktCU1QtdGlKNWxRVUYwVlJLYUk0MVlZVXNfMEFGMUFVRkQtaF81cW1JYlJwT1FIYWF5TEh2REQ4V2dFaXdBdlZvWHZKNG50QzB2MlBTM1BCYkp3dlU0QUxrdS1VX3d3N0NHYVM0bG9ObURXc2xTRjR2MklhaDRJcTNkUXdNYUxRSTA0eUw4bndEeEVrWV9ha1pLU19vejFqYkdNQ0lwUVhBN1JiWTdKalR1bF9kRDlqU1BaQ2toZXhod1Q2Qnp4WmpSdVk3NVRyYWdleFo2SU9uRWRvWDZVX2Z1QThHeDVfNzlqclZzZTNJdjhYcnhXUDhBdzdqNDFuTzRETTB1S25KaFVyWHVHa3J5YjV4S3FpWEtycElHYTQ5QnZSTmJKZl9uekc1Z0xtaUhyZTRXTFZmdGo0ZGNTcmlLZV96MWdzNFZkS3FwU3R3ZHl3UG5aRFhLRXFsWEdWMWt4a3gtU004eTdTbTJOOG5qZmllNWRnYTRjT1JjZE8tcDdKcVZlaWdCZVpHcFRUeG83WWxJQXNsN091RXloUnRadGJBWkF0TVZsejNaZ3ljWksyamlEcUcxSUI1XzVRQ2J5UjF4ZVVGckFXcm94TXcySkhST2VGUQ?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 20:19:00 GMT",
-        "discovered": "2026-10-05T02:23:04.763091+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "من جديد... لاعبو آيرلندا يرتدون شارات سوداء ويرفضون مصافحة لاعبي إسرائيل الشرق الأوسط",
-        "player": "",
-        "content_hash": "d033e64f3c1fe22c9cb45893f8aa589841f560f09e89a1b3972d14336ade2fde",
         "sent": 0,
         "section": "sports"
       }
