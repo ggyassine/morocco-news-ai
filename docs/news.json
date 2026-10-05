@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T18:30:39.427058+00:00",
+  "updated": "2026-10-05T18:53:45.032021+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -420,22 +420,6 @@
         "section": "morocco"
       },
       {
-        "id": 8344,
-        "title": "أخنوش في مرمى الانتقادات.. إنهاء مجانية مرابد ومرائب أكادير يغضب السكان - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoU3hzQ195eVRFb1Q4VHpaMnN2V0ZjOHRYaUllZDFtQmdHcDZRWVJqb2MySElCS2RoTndLWEtRZVpla2Y5eFVVclMyM3FadHJIR09DT3QxMzZROGwzSjZhVGg2T0hpUQ?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Sun, 04 Oct 2026 02:02:04 GMT",
-        "discovered": "2026-10-04T03:22:48.199892+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "أخنوش في مرمى الانتقادات.. إنهاء مجانية مرابد ومرائب أكادير يغضب السكان Le 360 Arabe",
-        "player": "",
-        "content_hash": "2c6327633fb38e3c5a64aa9cb26e5fff009653f4d07a65dab7e2ca1cf872dda0",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 8705,
         "title": "مدير عام تلفزيون فلسطين لـ SNRTnews: المساعدات الإنسانية المغربية يجب أن تكون قدوة لباقي دول العالم - SNRT News",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UbWFvUlc5SXJZZV9uMXdCQkotVnA3Tk0tanNod3cwUGJNYndqOUtvdnh6MGJ0eXN3WEFfZi14eHJYOEFNZjRoN2t6bnk5OWc?oc=5",
@@ -530,25 +514,41 @@
         "content_hash": "edac524b8a226d58d6b20a2afcbef7d4f5f299d5c706536cb150e834baef1c46",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 8420,
-        "title": "المغرب... امرأة على رأس الحكومة - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNWVdjVXdycGR5U1RITm1RX2lVNEUzNTdzaTFUVjFqbXBBTGFBLWI2WmlfTW9hZ3BQT1Vma0tCN3B3RXNtVFB3ZjdmQnhuSkNLZ0lrNHBuZ0JEcm0zNGN4YUFyNUF4QWUxZWI1QnRuSnlTZ2pBWFliSjFmZmVSUWVncWNXS1VXeUxZaWlCdFIxTnJDR0hIYm5sblA0WnE5TnRDblhDQXFfTzBFYWVZZkVmd2lhXzJDVnpRUEs5VzFxZkRGQUQzeEtVOHVhU2dEQTRQLVJKM3ZzRWM2X3ZRNHVZU1FRZlFGVEl2YWhzYmRFUVg1Zk5wMS1Gd296NlNPYzRhbHI5YmplWXdndmFqX25MU3Mtck9DakY2d045WGhocDJ0b2lETVJkTlo5Z29ZVlk?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Fri, 02 Oct 2026 23:15:17 GMT",
-        "discovered": "2026-10-04T11:08:01.098944+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "e7f8abcd6f4b3e1dbcd0be9b88007558662286f9bbf6db222637fb6f36c03347",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 8844,
+        "title": "آخر من حملوا الكأس… ماذا يفعل أبطال «خليجي 16»؟ - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxQZ2FBZWJHRUxMNVhlWm1YNWxzMXhya2ZnWVpNTUJXc0YyWWhSS2I0bEVlSEUxemd1S3E3TmhqOXdSRmVzZmZKcXAyZ0JRckhvdC10REd3OGNUR2s2M1ZlZWFyM0tiOXp4UjR0Q0Z3RzI5SERPbjBsZVV1bUUwdjMyaUpMelFCSi16NVpIekw0TUZOdnRVLWxwY3JPck5zQm9tbklndmNlbUdFQk1YUVJ2X203bVBncmJjN25SaTBISU1Qaml5YlktaGZZZ2JQdmhTdlJTVFRfMGw0WXVzZzhRaUlPT2VfWDhMM0Z1bm5uUnBuMEREMHdMaTVDOU9yYUpsWWFPbURpOFlKQm5xLXFmcEhOeGdUekNXQ280eHNGNzdtWWp0RjZBRVdpdjFXaXJGRGItc3pha3VOYTBDRDlabjBldmdqdjlZS0NNSVlPcGtNaWVGMzZMZjF5LTVkdjFfTkpLVlpxZl8xd2tDV09FaEl2dnVPNF82cXE5Wm9YT243M2tna2FGaWVHZW1abXlGT1JzTVdFWVcyZ3R5YkFxRDJVQ2llbm5VYUVkbjhTTElOUzVneThRRXBxUndaQ0MtanNNVDlkdDRpWTZDdF9VOTF4SDlyeXpPdlh5OHFIQ19DSVBzZEppME14UUZrN1VqM1NwN1RXblpZdGJjX1E?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 18:36:36 GMT",
+        "discovered": "2026-10-05T18:53:26.715143+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "آخر من حملوا الكأس… ماذا يفعل أبطال «خليجي 16»؟ الشرق الأوسط",
+        "player": "",
+        "content_hash": "ed0cdda8c65a88f97c39ef9a5a1617f6569872d439466a40e0d84e4310eac9e2",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8846,
+        "title": "أسواق الخليج بين دعم النفط وضغوط الحرب... قطر تقود المكاسب - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxPZ0JxSmo4Nk1kRGo1cm5ucllBcERIbXRhU1JqLVpLR0dqSlJsUnhPNTRZRk1xdmYtd3VNZTE4eEphYWFHNnZFaW1teHY5UHhXclZhZl9iZVhiWGctUlg4WWVUVE1JNnVJcXh1dWU4SDJyOWdQdFFGV2M4WDVaelhaeGxRaWxpS29OLS1TRjZwQlQ0N3BnWFpQcnNjaG56enoxdGg5RUJscmZ0TGRaUzZNQVBFcnNRaDhOVkxFbEdDQ0VjS3lHTEYxM05sUHNDWHkzRlFtTEFVMHVlekNFVFdadm5uSzdfMWk1LUZqM1VQZ0RtSEVRNnlJaHdxLTB6NDRpVzNnVE5MZEhENW1LclRjNEVyNjBLNEFsRjBiVWFZMHB0WVZDbDFJS3BhV3d5ZkRZOV9PNmhFSkJNcG1DbjFuc0Z1cVBtdjNsNklSRlVjWlJMN0hmNWFKMFlvajlzQkRDQ29zTVFwWUpJdUFJWU44MEI0d2NzQ1phRjFBUzE4cW1zTUVjLWFOUm80TGZlZTBzb0h0M00tSWtjOWV2eHN1V2p0dDNlaTJhLUd3eGliVGVaaXl2VDFjSmFuVzBxbW5COG1OeFpn0gHLA0FVX3lxTE5MNTVVRWo3WGhOU0ZiaEVxdEdGZVJvOG9adlFiaXBUWjJHaUQwY1ptcDZFUDA4Z3dsc3UxS2FwYnFZR01xTTFHVVltRHVxM25pcG16bHFPQ2FBc0Jhb3VmNU9qbXd6aFVOMjhQZUI2WDZtS2VsOGRVRWxiQmY5UHVFb082TllYeWd4UFczR3VYZFMtcXhtWlNuVkVINkQzMV9kMmZhVTFOU1VpdV91a2RRalVRWUhMNmFTaEZuU1FlcW9wNktaOHBXdlJmaTlOVkM3Q1laSWxKc3paM2RkaGNtSzFHU3BIc3hnQkFvU0xVZklocEhZM1I4OEJxcmxtTmNlMjFuUDZ2bC1DcGhkWDU0eWpLWFdFQzIzNkhuOVlIc3pFV0RvSEpRaWlxQlJoaGhrekJibjVXZm5COHN3cldocUVEV2lyY080TE5ya2x2M285UkFkNGsyRjBhMW55dmFfaVkzdWtZUzY2Z2djOTk0eE5zX3BSTXVRVWhhblhhS1BwX3VtWVVkbjlMbURXZ2FqZC1DUkZNR213TU5xTFZDQl84TFJjWGJ5X094NTZ2eWU5WWFyS1JTN29VSTZPUlJfQm00OUtpb1Ntdw?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Mon, 05 Oct 2026 17:33:01 GMT",
+        "discovered": "2026-10-05T18:53:39.636477+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أسواق الخليج بين دعم النفط وضغوط الحرب... قطر تقود المكاسب العربي الجديد",
+        "player": "",
+        "content_hash": "04f56504a24175463a60600a2f425e58fa66be0bb61dc01807d6c52f26757103",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 8822,
         "title": "هل يعود رونالدو إلى منتخب البرتغال؟.. رئيس الاتحاد يجيب - الجزيرة نت",
@@ -1316,41 +1316,25 @@
         "content_hash": "e1e49bd388d3b5039b39ca43f02c9e4be135516cd2a4e166328619dc648c90cb",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 8709,
-        "title": "من المجد للأزمات.. ماذا حدث لمنتخب مصر؟ - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPZGFReDhGOW9MUlVpc3BUUGF0d2VSOVRXYWo3MWVDWkZwQ2FUSGRMaHpVaGRjNlhpX3ZKU1l5dGNJTHplUUx5YXFmRC03QjJuUE9INHJuQmQ0NU1FVVRIMnB1M3NtaUZ1MGR1QXpGbDJpNGQ1YW5fV21yN3VNSVNMQXlKeklsazlid193dkdoLXRidlZmcUIzNkcxeW5peDIzOHMxWmxRd0VmLVdGM2lFc3ZXXzVfbmtrbC04SktoODU2LUhsU1phbndBVXFjWlh2dWpOQ0kwd3NmYVZFWVpXaVIxV0x0SHd2X3k5Um01M1dya25la09EZ09Fa3p0eFRtVzdhOTJsa0JLX2VoY1U2YnpEZ3hRZENYVk1oWmN2cVpub2RmUDM5NjMtSE1fVjZOdHZSTjdKbU5CcnNHVUpsaUs0N21JTDhFQ0s2eXhIdEZVNWxiSlNwV25aR2locFpLZUNOZw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 08:33:33 GMT",
-        "discovered": "2026-10-05T08:36:27.233546+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "a5a8ab878129d896de58ffbab6ee3450e1e7b38059b3cc85e719eb3c904a5235",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8737,
-        "title": "مدرب أيرلندا: نية إسرائيل كانت استدراجنا لارتكاب أمر أحمق.. ولا يجب أن نلعب ضده - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi2wRBVV95cUxNTVNQTGk1Y20wSEY1ZHlRYkt6cXcwYTJCTXN0Smt0enMtWmdvMDBvUDR1V0MyTWJFalQwNGRIMHFrLUVKLWZUUkFMcmxCNVpWWXdJbWU5QkpBNll5cmhaUUVGOGV4dUJUZkFPajBRdmM0cGRlOUpQd0RLNy1SN2dKR3JtX1gtcnBFa2llWV9xczJId1BzcHE4VE9KMXpxQ2tUaWxkY0JCTFVIQjZDNG5ZNkVpZnk2VENGZkpRd1AwblI0bVpSLV8yWE1nTnM4TjNSM0RQSk9CYjdOUlN5M0RQMGFOX1dBUVcxQ3ppWGVQRmJYZTBxT3F2Qm1YcEZobnJmSjJIUEhBVkhIcnowcDk3eU1kbGFvOFVKLUZTVGR4S20tZTRTQURtMmxTcXhLYklOaHlhejFTRzFrRVVLdWdOUnZ0YmpGV09wVm5BbGRiaUQ0S0tHYnJVQ283c3ktSV9KdTRRSGNJSWJ0aHJvYXBxTFFpekg5UkVQYnJXdUdpNTZXcUNicmp2ZXRBU3hDZ0RZd3R4Vzd4aTVvMldNZVVxa2h3VlREVHdvRGJhUEd4R3Y4dzNqaHB0dDA2Q09TbE15ajN0Z29DVzhFSVJRQWNncWF5WnVlOTRPWE9EUDl1cWhKMjhYQ2UxQU1Fbkd5RW4taHc2LWlqX0pqbXlLTERtQVRUMmxrTkVwejF3c05wcDJ1TFpsT2ZHNDl1YUNqLW1pSmx6SkljSmx0Uk56Q1E4WHVrVGhXZkptN1JCVkxacFozdTVrbkZPa0NtYXE1WWdLcDNieWFBVFEyazTSAeAEQVVfeXFMUE9zTGpleWpmc0NTbUx3QmtMYnQ3UUpuMGp1NGtDcEc2bzJTNGJacG1CcUF4NFJHeWU0M3BUYlRuanlWb2k4VlJ6U29VMGZIcTRuXzZRMFozQUZNbmlTQnVaTFI0WW9QeWRsYjFIOGlUVmMzU29ydE5fcm9BVXdzM0Y5MHNkT3lTRjNMTEVvVUdVRkptU2NPdU1nUGhiaEZaR29lSVRlYkxjT211VG5hMjQ2SmJ1SVk0YWo4VXI2OGxhQkhfMFctbk9RRG8yNTh5NExzWnNtS2txWFVFcG9MVzJsR3haTnhUOGUweS1FUUlYekZBWlRXMkozV2dQMXVUeFZKSjlmcG5MTUZ2SDVWc09vQ3g5cGVtcm52cGx2N2NhZWNlamZFaVVKeGhZSlAxemcxa09xazI3N3lTcGZ0OGgwNUN6WlFyUFBJUGoxVVQ5ZlNrV1Y1eUpiMXVWaDVaRGhSWGgyajEtNXJpUnFXWmhnck9mcGtwa3ZMYjE2TnVmU0R4YXhycTYxUE5RTlg2SERSZ2NrTmJKWV93N1JJWktLZnlFRGpoUUZRczBsYUs4S0ZQTEwzcTRkd1dZQXJ4OTdUNktuWUpjWGNFNEtIck9sT2tDTnJKdWlRTUNrYUI5MVJwTnNYVFVaSVZaRVR1emJUNlEyY1gxaWx0enB1ajY3YVdxUGZnbHlKaEFUZ0l2OHRWVXBMZk9kYmJWanNpMFBPQ2xxdlk5a3hkWS11c3hEeEVMTGhIUWUtbEdjMjZrQkFscEtFTm1QZlZEU0RNRnBLYmZjZ0JucXJsSS1QNHI?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 08:06:00 GMT",
-        "discovered": "2026-10-05T11:36:14.425848+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مدرب أيرلندا: نية إسرائيل كانت استدراجنا لارتكاب أمر أحمق.. ولا يجب أن نلعب ضده FilGoal",
-        "player": "",
-        "content_hash": "2c7116fdd39ef426cd3fe62161aee53d08643b163d6e4d738774b1e95943ebcd",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 8842,
+        "title": "بنك المغرب ومصرف الإمارات المركزي يوقعان مذكرتي تفاهم لتعزيز التعاون المصرفي والمالي - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oQllJTVI4YWk0ci1PMGpMdlpqTV9vWTU1VFpJYlNiVnk4LWQ3QTNXR081TVpVYXY5ODJCZWhyalhoallhSzNQQnlWM2cxZlBIUUUzTG5iLTFFSnZYLW1XaEQ3SUVhTlk?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Mon, 05 Oct 2026 18:30:31 GMT",
+        "discovered": "2026-10-05T18:53:15.939898+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "بنك المغرب ومصرف الإمارات المركزي يوقعان مذكرتي تفاهم لتعزيز التعاون المصرفي والمالي Le 360 Arabe",
+        "player": "",
+        "content_hash": "6fadd37b278c78ffbdd73421cd97c0ac4b25698f913efb34825e941bb4032aa4",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 8802,
         "title": "من معتقل سري بدرب مولاي الشريف لمفاوضات حكومية.. شنو كالت تقارير هيئة الإنصاف والمصالحة على التعذيب؟ شهادات ضد عرشان.. وصلاح الوديع لـ«كود»: غادي نجاوب على شنو واقع بقصيدة «غبار بطعم الصدأ» - كود: جريدة إلكترونية مغربية شاملة. - كود",
@@ -1833,6 +1817,22 @@
       }
     ],
     "middle_east": [
+      {
+        "id": 8845,
+        "title": "آبي أحمد يبدأ ولاية ثانية ويتعهد بضمان منفذ بحري لإثيوبيا - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNZHhvcWVHYldJMEYxUHNLZU5vVm9zZnIwRm5PbWhySkkyR2hRM0ZPaFJDeHJOOUlNcEhDWkpld0JOSnN6RFdzYkpIQjQtUUpsNi1LZnI4b2NWZnA3Y0gwLU5ROG5sQWFvZ1c1b0NmaHRfVFdGR3M3U3hLaS03b3VtMmNCNjNzbGtjSHA0M05QdFhTME5uV3JLazFydGxhTF9kMFFxMF9CMEVDNnZVVXhWa2hsZ0VJcThRQTR2ZjNDZFBQZnNBMjRWYUw2cFl2RzV1UGlQMEhQQWNpUVBWSFh1ZzNVZmxzdHVGTlVtM2llRWduUFlpQUg2Y0R5Z1dGeTdPSUJvQ1pBQjNGTFdmRm15NGd5eFRreXlRZFI3bVd0Sk9kWnpZZ2NIMTNJWnJSQ0VVTnA1U05uTmMwTWx0dHFVREtOWnlMc2s0NTdtcDlNNFRnQkQ4dFR2QjR5a9IB4AJBVV95cUxNMmR3c1ZBeUdVeUVWT3ViLVJ3dVpLcjltNXV2Z2ZQaHlXSzE5X2l3Vkl2OXdEcnBERWcwUzVEYWVmdTA3LTdkdEFvZng5dEJmVlVaZW9fekxYaGp4aTByZjBhb2FlTUVKcHl3M0V5VkJlUElDaEZGSnBlZmVWVElWdDRfcjVjeDM3VmlJN1FsQmRoakJwZWZBMi1peW1ZRTh6MDRsNE0xYmRuZHA0WlNwZm9icWtPejdwUVF3NHEtd2Z3QzlMWGo0XzJSUTdIQmswYWFrSlZIZHN2OGx5bGg0ZWFKUUpIZzhTRG1MbFhSMklyclBVNUxXMVFnZFJmcnNtZ0dGUkdBNXNoTy14eENPLTJzRnhvcjQ1VF93aDlsYmQtX3F1SEJWaE9md01OTEgwM1dvLWRyRVVZV2dzT0lXNTM1TVhYYUVvcFoxTmVwdDhqLTNoTjFWMmhIMmRrYUFK?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Mon, 05 Oct 2026 18:31:33 GMT",
+        "discovered": "2026-10-05T18:53:36.218767+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "آبي أحمد يبدأ ولاية ثانية ويتعهد بضمان منفذ بحري لإثيوبيا الجزيرة نت",
+        "player": "",
+        "content_hash": "605da3c05f019865c57c2f008a0ff5ae88e3fffa334bc9b4367bd6041deeb1bb",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 8757,
         "title": "حزمة صفقات اندماج واستحواذ في الأسواق العالمية - العربية",
