@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T09:31:43.203343+00:00",
-  "total": 138,
+  "updated": "2026-10-05T09:51:18.848029+00:00",
+  "total": 139,
   "sections": {
     "morocco": [
       {
@@ -517,6 +517,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 8722,
+        "title": "بعد نهاية التوقف.. منتخب مصر يتراجع في تصنيف فيفا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNVWVud19EeVpKWnkxT1VPbWFNWE5uVXVvWldjODNqcERuX3cwR2V2QnlvVWF0RFQtZEsxX05haVNWenZMQ1VyTGdvUFMzalZjOHhQRFZJSXAxQ0wyZ1pIUllwM0RsWFdKOUhlMC1iOVAyZ19DSzhOejI4UkpuLXMtdF9JdmNRWHFhZVQwN2xWRi1BNVUzd0Q0WGxRaFdHa184dGZ1dUVfNU9sR0JNdEhldkVWRmZfSHVwa0I4TlllejNVTXppR0tRZ3BfaFhZMGo5X2YzdDV5MXdHeHFfcm9Gb0stZmJzUXFlUTNQYXVaLThCUGNhaHRkY2lhNHA1aGZRYl9iQm8wZTVkeVVhaEE2MzJvVnhJNXluMkpTbmNveDcwS05mdmFDSGVfSk90aXN2YjNHRWVWd3VVSFZVdzd5aVl6ZWd4Ym5jVDlybVZOTURfWndvMGZqUFI1enV1aHVTcmYtb2pHZXd4b2UwaFFPMGFwVWkzcWQ2UHVLdFNqTldXN1N1ZHZuSXJUN2kyVlFWQmtZdGx0bF9GbGppWHVzMjAyQmVwcmRPMnVFU9IBsgNBVV95cUxQUHl6TS1pV1pXN3VjZVdKRWhBR2l0QXhidVpXcDZLaXA4ZVBmbnJYY1ZpTUhhMDFOMmFHR2VCTlV3dlhOX0lER09Hb2xjUVFaOVZjUFp5SG9ZWUlMbE52SkxvaTI3SXVXNC13MkM5Yy1wRWFCMkxYdDZrbGk0ZllrYjhzeFkwSER4WGdaYl9fNUI3elZ3d0E3NnRqRUlmQUswOHloaWVhWmFBbmxhTXZjODJGMFVKRER4VlAwQ04zQUs4OW43cnJPWFdtODRVQV91d2NJV0FaMnRldVEzd2lDYTJ6S3JYcm1UWURJM3JISjZ0TVQ2M2VmQnJKY2pJSmc2eGpVVUlOcHdQR1lOM2x0MFpsZU9iRHZOQ2JrY3JhcDZiRk5nYUZTMTV2dHZXRnJKVWlsS0tJa0ExLXV6RmtoRHRWX1RpWXVhdWpoTU5Sb2NEYmxQVE5nd2EybUhnd3g5S2xfcllMZ25pdkZSemZmOUFnQXBSYldvbExBcEVmM2ZGa0RxTXBVMkdBbEdCY0liZjFDTVJSTjNsa0VqdGJhdzMyNG5zSnJWYmRnLVc3dXlUQQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 09:35:00 GMT",
+        "discovered": "2026-10-05T09:51:04.688633+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بعد نهاية التوقف.. منتخب مصر يتراجع في تصنيف فيفا يلاكورة",
+        "player": "",
+        "content_hash": "0a4bd44b6203c84c4e2c494409486c9089f1065d4eff6f33718e9eb376336f87",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 8716,
         "title": "من لاعب بدون نادٍ.. لمنتخب إنجلترا - يلاكورة",
@@ -1158,6 +1174,22 @@
         "section": "sports"
       },
       {
+        "id": 8720,
+        "title": "جيسوس يفاجئ كريستيانو رونالدو بعد الفوز على النرويج - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMiowRBVV95cUxOUEQweThqQjloWTVYZEMzMVlraWg1c1pwVzdDUWdQSVpza0VLa2pYSUNuRWdlbXltTXpmT09NMG5Zd0lKQS1OOWRxU1hUTkRhY1FldC1waHE2T0RQRVpNOFkxOXo1Yl94S0xVSDNzcjJwR1pFX2pBVnRWVG1HZnJ4aDUxV3pzaXJqaFZMNDFicnY5UjJNUFZHUnpKUHlWNXpMeXd3N295ZU1GMF9DV1d6dkJCd0JYcTMyM3h3T1p6WUhyVFNMclJjVXFOVzJZelpxbzBuQWk5ZmszSHctckJLLWlLcmJFUDg4NzlIWlBaellHMi1yVmNVUnZiYUJRVjZJUUdZZFFOckU3U0ozYi03VlNrNGRrOXJ2dW9IWVA2ZTYtSkZ4N3hiZ1F6S0NvdGNoS25UTjhPRUszMlQ3ZC13dy04WFhMcXhwaVpuTnoyODB3TkdyRFd0UkNmbW94bjVJeXpHa01sVUxDUWMxbkRzNEd0MVpadThjYzJ0ZWljX3hpckFRaHZhVEpnQ29mY0FTQmJrSExHblpEUUgxVWVoRWxRLW9aRm8xcGdmQnBrS2xKNmFyNGEyeE5IS0RGdFVTek5HRDBBYzZPdUVkdVlnWmtRR2RTWnBHSzVhOVloQzQ5ZGswb3dRMEhmRkJubV9BZzdNeHppU2RUc3FVMmpNMkZzR280X3NhN2JyTEJDV19EQUYyaTdCcy1mSUxFejB1a1RV?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sun, 04 Oct 2026 21:26:34 GMT",
+        "discovered": "2026-10-05T09:51:00.057204+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جيسوس يفاجئ كريستيانو رونالدو بعد الفوز على النرويج Kooora",
+        "player": "",
+        "content_hash": "92731b9d9c0edafcadf2761c1822fba17446921b125942d9d5de0c4b514590d0",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 8719,
         "title": "المغرب يتعادل مع مالي... وهفوة شوبير تُسقط مصر أمام جنوب أفريقيا - aawsat.com",
         "url": "https://news.google.com/rss/articles/CBMi8gRBVV95cUxOYmpBN08zS1otYVBhbVpGVkpaQkQwdXFVZTVoUTFvWmRhbjU5QTg0NGtkam11WHhuZE5TVVRSMUNQeXdrdER2Y3VDYklnQlFVOEFsT05NVGRtSWM0UV9RNXZzMW4xZGg3WVhOa3dHMmdlTjlmeEJWUVlNR0NCTTlBTjRUWGNjd2FJMWZMUy1oZnFEWERJR05yWENoX18wb25wVDZlUG1reFJWODM3N1VpWjk2cnJPbHAyQ3lyWE5VTjFVM296R3BxYXd5b1RTRTB3czE3bHpsTHFCSVdtOWVwWWRBdXRkRFc4SWhVdXZUX2hqSGtyc0M1QTVNT3RhTkhuSDBLaTN1SE5ZcFo1NmZDOUdtQVdLX0JURHQ3OU5Nb2w1TVRWeUVHdW03dFRtNk1ob1d5RTBXSjJjSXVfM2FYOWlGOEdxMzk3NWNjbENJNndlZXBFTndPT1JnN3lKdWZyNnJIbF9xZ0xDWnBkS3VNRHlPZ3BXRzJQRjF0T3ZTUTB0WGlHN0ZReW5ZZFdIQmlNbXBNdTRiT1VtYzZGc1lxUmJJbG5ScmNMM0h6WGYySEcydHBYQ2VVaTRDdUVDZkFpWmgxc1VHaEdheTIzTy16U1dtXzRlN1lIb25oNlFEdWp2QTUtTHhOd29fUzdHd3o3Y085WUNSTUdZSFp6YUxMd1hob0dCb2hYZDlOTzJ5M3ZXdHNEZ2hnSGw4blJsSlZ2Qk5HMHl4WVN5bF9hbjlSX050bVZtMEdhaklyTkk3WXJkVTVUbGNaOXhLYzdBODdOeHRyeFlJNEJ0VmdQMnJJOU1TYXI0UXA1UnVrVlYzT3RtQQ?oc=5",
@@ -1284,41 +1316,25 @@
         "content_hash": "6a42dbb5d4759a6057820c9eaba1364b82f83058980e6f00d99c781860182ec5",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 8654,
-        "title": "روح رياضية تجمع لاعبي المغرب ومالي بعد نهاية المباراة بالتعادل 🇲🇦 🇲🇱 - Elbotola",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IdVZaaEc5SUJvSDBQYlM1dTFDcW1VdFM1aGlybkxnQUtwX19sa2g3ZTZ3dWwxQ09uRmpzSjloa2E0eTIxdG53Vy02d3ZfU3BxZHRQMjNyRnV3RldvMVhjMGdtZnZYR1dGNnRYMWQ2WEY?oc=5",
-        "source": "البطولة",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 20:42:55 GMT",
-        "discovered": "2026-10-05T03:10:35.669835+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "روح رياضية تجمع لاعبي المغرب ومالي بعد نهاية المباراة بالتعادل 🇲🇦 🇲🇱 Elbotola",
-        "player": "رياض",
-        "content_hash": "88096c03227bb45dfd705ad9eee84b53f32924c13d3a13e88708392ee3c35d4f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8652,
-        "title": "فيديو: \"الصدارة في قبضة تشافي\".. هولندا تعود للانتصارات بفوز مثير على صربيا - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMimwVBVV95cUxNdjlHcUYzOFJCdW1rUVBPR1JZTGkybFhROHp1dDJ6QTk2QnFVRDZWN3JwTG8wN0kyY3ZtbVZyemVZdzhjbUNZTU9XUUZtN2Y1OFJkUGFuWEMtOEpLajRBVTk1b2pLU0lhUUpsOTRpRTd6YlhTekdmdEhVR2tOZUlQS29ESURyR0tfZmRvVkxzY2c1akN3VF9HM3hpQkpDaTVHVF9iNWw0THZHSVBjc2gtbTNQSklSVnNsZUQtT0ZNZGExOVhiLUlqSzBnenJfSUFITVdJRHk2aXBHMmpkclJVLV93NEhCZUVQeXNfVWIybEhFRVhWUHgxcXNXSUhlUVpXYnJac1NQMnhYUDBBY0EwS1RMYmpVRUtkSTN2RDJ0WkRpb2YxaVNPVGY0NENUVVhkRFhkT1FYSWFXeG9DRURpcTRSOVhhc1N0M3VUTHNEWGVUZHF6Y0FhTXhueFNVT0Ytb2NLdE82YW9tNk96OGpPb2hoYTlWQmVLenkwQW5rSU12WWhsa2VkOUJhc3c3WUlxQWZVamdnclQ3NHpxWV90WFg2QV93VW5BenNmQUd5ZTdWYUMxSHNGakVzQW5aam5SNUd3QW5pT2hMWEVMLTZvZHBWb1IzYS00d3ZQMlI5YS1LODZQR0JsbU9TSXVlb01SOGJWcTN5NDJhaVpydlRfN3ZLU2gwTm4zVFduXzhZRFZQc1dXLTFMbFZrRC1KVFBfV0lXYzlUX2llWDR5YWRyZ3gtRWdIVE54YkwteU02Yko4RVphMnEyYmdSVnV1V1pOZTFDSXNEUDVfckNPeFJ5czY4ZlhKTkZQRHRIaGc1YV9uejFrX1lvREtYS3NXSlNGZURvdU1VUU1oVnA3SlZSeFB1NjM3QWN1UXJN?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 20:42:48 GMT",
-        "discovered": "2026-10-05T02:55:59.819495+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديو: \"الصدارة في قبضة تشافي\".. هولندا تعود للانتصارات بفوز مثير على صربيا Kooora",
-        "player": "",
-        "content_hash": "0c62fc81587bda66b6322dd76408148b76b4d43456e711e072162dd7eb389747",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 8721,
+        "title": "توقيع على أوراق بيضاء.. فيفا يرفض معاقبة لاعب بنين بعد هروبه من مودرن إلى أوروبا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi_gRBVV95cUxQYVNVTXhsSXZrWXZVXzRfd3JldVhVbk1ObmtsVjBSTVhFcGI4VjZuY2E4Umt6YzduNEFYUUo2Q0hxdmV4RlhHWmNlSXo2aUQxZW1NWER5dkJUWGJhVUpNUExPeWt3NEMyeURPVWkzLU9OMHVTYzl6WFYzS0w5aUo4S05NZk8zWmhUdG0zeHpzSXFUZVpQdzc2enpTMTE3aGFnTm9yN2VyRFJwSm5jY2h3MVpJTWVNcG5NWGpjdlh2WU03VjFGMEx2MUxlSkxpVnRiZ1Y3R19GZ0tLbVQxVWlGQXN4Rm1XanBGbjZHODlZeG1yVE1BajdGYmFVYy1TRWEwODdyR3l0RFo4QUZTWXQ0WldzQnpXQllKSXNjb0xNR21lYzg0YXRCTy1Na3RNbm9XOVZkVTI0LTFjeUwxczc5WmNBYlJSazUyeWNqQkZpZ19XZnFJTElWTllSRFNPMXFkTXdsTDVwcmNnMEw2U0NIaXZ1eFhlTVJaM1F0N1BaM0xYeVRSTnlHQ1djeGNRN0MxcTVrVTMzQkN3Q0NsT0xDdVpEZVh1bld2RzVUR3U4ZDN6SEtQd2RNWlhCOWVUUHhmS0FJeGU2R2U2LXloVVgzRlhzcFJiZElJT2RFTW1MNGg1QmhtRS1FS2hMTTFNMk5RbFZ4SmRjdWdtdmpVRVFWTXJrcExBWFEwbURodGZBYkd2SVJwVWxCcVFKOVgweUQwSlJvZ1RuWFppNlo2VFRZOTEzSWpPWktnWjU0eTFNTWRsLWJKU291NDk3NTlJQ0NSMlNYTjAzbEhGeGNLRk5LWGRJTzZyekNYb29OQTc2b1ZxQWpQWVU2azhSa1FJQdIBgwVBVV95cUxQckp5dXRaSmNNTXpCUGNfeFR0S3h4U0hqbUljVWRwdEJMZVZQNXNaTDN6VUtjWGZGZ29tRkxBaDF4Y3hZVE9qby1iVldYUk1GeFZmclowSFRhamZnRnV1THVLNmRhcHFnYU1pLXE4UzRIclVqMWRxWjZncXlpNWJXZzZSZEdYM0dGRjBnUVZQR3c0VzBuLW5CWHRfSGh5MEJLS1FZaVVVai11QnN0NzN5M0w3WU9Wb2trbE1hRXVicXhHbGowQ0dpS2FFT0Z3UWNsX3hkdE9RTkxZNWRJakpXSW9OVGctRHpfSGgzUEM2VUJuQ3NnYlFaenVrNkVPSmNPbEZRenAwYnppU1lWamhNZ2dYRGdSNXdSR01vWmFSSkRlR0tDNGxZbDNhMHliUDJ6TmtiNUx3S0NCcUJkTEZoRTJZOXpCbE96QndXNXhleXpiV3JUZUsyVjloeExZcG8ySjMtNXlwUC11ZGZ0bUdROW1aVTdQcUJVV0JsME9uLVlYWDJNT3dYYnNLQmZvUGpMejdZdXc0LW5DdU15V1FsclBLTlBOcVA2TmRHYVQ4eWFTYWo4SWFrZ052ZVRyaDg3NV9sS1RQTTBjQzliNFpRS1pTVDlFQ0Y3bjlnY2tlWnRiMEo0QVdGd1BjU05FdGZpUkRzS2hmTkxKb1JockVkSEEycmxZOXNZYUlkZ2VvUndPQ2FVVTVBYWN3b1M2dl90N2FJYUVUaHFiSFdLRFNUTjFoMWk4ckVGRF83LUFZRy1Bd3Zoa3dYbkUtUDM5Z2JZbDRIZTU3ZjRFblNheEgybEJqMUcyVkk4SzNmRk1QcEZfNWNWUm1vOEttbHdiTEtwOXpN?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 09:31:00 GMT",
+        "discovered": "2026-10-05T09:51:04.683694+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "توقيع على أوراق بيضاء.. فيفا يرفض معاقبة لاعب بنين بعد هروبه من مودرن إلى أوروبا يلاكورة",
+        "player": "",
+        "content_hash": "f5a15d86981d2d6530f46f43f92868d3f1e56e245d7ae42e060476a6bde437af",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 8643,
         "title": "الذهب يرتفع مع انحسار توقعات رفع الاتحادي سعر الفائدة في أكتوبر - القدس العربي",
