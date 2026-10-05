@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-05T21:33:10.463405+00:00",
+  "updated": "2026-10-05T21:41:32.296695+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 8879,
+        "title": "فتح باب الترشيح لجائزة المغرب للكتاب - febrayer.com",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QaThnLXpTNDNuV05oWnQ3bDZlMENPM2g5NUZSa1JYU1RsU2lBVWw5T2JveXdTclp1V0tLWHY0Qm9pamYyT2Y3RQ?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 21:31:58 GMT",
+        "discovered": "2026-10-05T21:41:08.812522+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "فتح باب الترشيح لجائزة المغرب للكتاب febrayer.com",
+        "player": "",
+        "content_hash": "5138e939e1b450ef9df06871979a67ce989d8e64565a0e1bffd77e8c78740167",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 8850,
         "title": "رهان على محاربة الهدر المدرسي.. انطلاق موسم مدارس «الفرصة الثانية» بالدار البيضاء سطات - Le 360 Arabe",
@@ -562,6 +578,22 @@
         "summary": "في الجول يكشف الأسماء الأقرب من الفريق الأول لـ الزمالك للقاء زد في كأس عاصمة مصر FilGoal",
         "player": "",
         "content_hash": "ea5eceae083b846e08097b99f01faa358bb22affa63da1ad43b4aa315aa9f9e7",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8880,
+        "title": "موعد مباراة السعودية والإمارات في نهائي كأس الخليج العربي \"خليجي 27\" لكرة القدم والقنوات الناقلة - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOcmFPU2p6V2lpOEZ4Q3hYRHZiM0hhUHVYSkNNMkhTM3p3ZTA1ZG94bk1Wek5ZTjVZTTVEYXNIMXJ2Qm5iQ09JX2E5SHZ1VThuak5FejRneUctU215QnhPNnluLXBiSndlRjQ5bmJrbXBGcEdaMHhycmlmQU5HYUxacGlmTVRoVjI5QXZFS1VVdVNzbkdESEpXSWJqS2xPOHhVQjVib3phdEhuRkI1NnBkY0tETXRlbWYyNjFVb3ZGSW5KdU1tY3dVWmlGelNjR2RPU21nZzA2OHJGYy1VOVpkeHhYUUVXendzeWxjYXM2aHg5XzdfRjlSMTJ0NndTQVJMYks4d1lBcmtXYUlReU05RGx6VlpYcExrMWV1Z1hveUlDa3oyclU0aGFSQUZYSFk1Q0lOeDlXcXF0Ql9VZTFsa3N1U29wdkEyaHV30gHQAkFVX3lxTE1qcUFNRC11T2tGV3JqTEw3QnVNYXZ2UFdYNXNub2x0YUFBaGJ1ZUxmYmxLZGNzeHRnc0czbDFxWDhvdDFaMXpvci1GNWJpbHRlMEMzMlhCUmhGT3NUMUstR3lSQnhSRmNwUjRkSVBmQ05ZWkFrMzBYTU5mb3JocnpxdWtTd3FVdy0xcUtQQWRZTTZ0YWl6bmZRalcwS21aZE9RQzBFQ1U3cHNydk81aDRUZW1NcjB3cDFNc0FadmRCM1FfREZCb2E4elhpc2h3a01KRkg0dlBxckZsMzlaUGVXQjBONVZHV2t1NWNXYW13RW5xaGlDWXIteUZLdGRENHdnVUVjQ0M5MFI1d1owYVFLN1Q1Z2llZ1RzLVllcGNGYTRsVmk4VWxHN2lLbGlwWlRRNzBmMkhxbzktUERtY2F5elZJN2MtaERFUE1TRXQ4QQ?oc=5",
+        "source": "العربية رياضة",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 21:14:18 GMT",
+        "discovered": "2026-10-05T21:41:11.285827+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "موعد مباراة السعودية والإمارات في نهائي كأس الخليج العربي \"خليجي 27\" لكرة القدم والقنوات الناقلة الجزيرة نت",
+        "player": "",
+        "content_hash": "9dd2a0a1533b0c3f84d522467eba7b5d4854a11c9df0bc0d53516c02955f4bfc",
         "sent": 0,
         "section": "sports"
       },
@@ -1309,22 +1341,6 @@
         "trust": "C",
         "published": "Mon, 05 Oct 2026 11:28:00 GMT",
         "discovered": "2026-10-05T21:32:54.985407+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كرة طائرة - سهيلة وفيق تواصل رحلة احترافها الأوروبية في الدوري المقدوني FilGoal",
-        "player": "",
-        "content_hash": "cdb9572458f5d2a2ebe2b623998435e03e9534362c427740af8d3f82d47d1ac5",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8797,
-        "title": "كرة طائرة - سهيلة وفيق تواصل رحلة احترافها الأوروبية في الدوري المقدوني - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxQR1FIbXhZcGJnV05mUWpGRWk3SUsyY2lOYk80bEo5S1kyTF9ocGIzVjl6UWxNV2Y5NHdDYV9zTXJQOVhlNmpkbUdMRGVHelltREFNcFBHTUkwMTZPbWNnX3l5WUxTU3FyUzVmekw1Q3I0cnNlU09ocWpraGZvOV8zbkZ4M2Y1bzlfTGhKSF9zTFdkemVUdGlNNnQ5Z1dPNUdsS0xEYXo2Ty1IWHJucnp5M1BpTFNpOEYyX1JWX1c0YkI4dm9YSlpSNFIxZXd1dkxmUFRvNTBJOE81UnBNa2h3ZHRzVm1CbWFnZlgxUlFFcjVMUUk5YVdFVmNENWFwR3BzSzliWWdZXzZQYnliNlBsUzB6Q0VVc1ZDQ01MYmpMdy11TGx0VTBZX3MydVMzOVRFOHhYM3E1X1RiczNGZDVXQnZNUFJIUnBCUmtPU3BqTllYcGhEbWsySDdqTkw3c2huVjJlbV9xaHdtX2JabU96TXFGMnlYbThNa09MWEN4T0JaazJ1cHQwQTV1azJ5SHF5d2RkNDdRdFZBY04xRmNaZUIwVjBWaGtELWxiLUtHMnZWVkZOTUtfR01UM2VGRmpJVlJrbkRUSWJEVzZTeU1Na3hTdzdWbU9LRU5UclBHSkU0VDcyczdXNXhORDlld0M3UlAxOUVubzV3dTlMbF8zdzNOOFhfcENYdUt5akZKS3ZNX3VUX1o2d1JhX1U4Q3ZrSkhuNGVYVXNhVFVLSkNpZXVZbDJTRUHSAbwEQVVfeXFMTXEycEJTemh5b0ZfR0tEdHN2bnQ0NGNrSzFnMlZEY201LWQ0bGljT25tYS1rSGk3V3BQd1d6VkpTc19UMmhrWkowT0h3SXJSVFZiQjFGX2w1QmhwTnliWUJqdHFtZXNSdnd4SlRfQzhRSTdkcVpDbE5NcldpSXUyNExLRXZDU3VsaVducmVaMldNVzFhNFNPZm9BR1hGalEzOUpHUGx6QndMLWJENTV1LWp5T1R1Vm5kRmxJNlhObmJ3V1J0UzNHcjZvYzIwZkZRMGhFU25VdFdVX0MxUFU5VkxNOXFEUVp4VXZjWkNBODNDMzl2NkZGT3FBUGJCelN4aDRTQmlRdzdEZlB2dmhBT2c4WnV5RXFwZjFnTHR2cnpPbFRIM2RFOHJ1SXBidmMzMVU3X1pSQWRJTndGT1NJdGhXLUVkWThNUDVPWHMySXZ4SkNEQjBBSzJrUEJBSnF4dHhZZ2hYaTBKNlZ1M2NwcXdlVHBnazZsaHRKaWFoeDFRMDB1WjI1a25falFXVloxRGh1NFk1MlUxRU5GWlI5ajNlLXVTbkZDQlo3Tmllb3UtcFNwSjBwVktmZVlRWktSNk5fUldWSDhiVGdOZ1BTVGZnejBvbmNPRlNGandSeDhiTmtybGFFVERHM1dySm4wbHBLcEZsaDA1OFVScGd3MFdPcm84R1U2blItMEpSNG1QT25VRXdHRnZhWUFqZGZvU3hKVFdYbWVmbnlFX2lWenlZSXlCOEFManppLWQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 11:28:00 GMT",
-        "discovered": "2026-10-05T15:56:39.749825+00:00",
         "category": "الرياضة",
         "status": "غير واضح",
         "summary": "كرة طائرة - سهيلة وفيق تواصل رحلة احترافها الأوروبية في الدوري المقدوني FilGoal",
@@ -2102,22 +2118,6 @@
         "summary": "بعد منشور السد العالي.. مصر تُحرج الوزير الإثيوبي بسبب حذفه العربية",
         "player": "",
         "content_hash": "70b2e8ed5ea3559aee453c9c26e4bd573f1bf3cb8b6ca3f50c2551625767cd7c",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 8585,
-        "title": "ترمب: حرب إيران قد تنتهي بعد الانتخابات مباشرة - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPeXBackotUjhCLUI4ZzZ6QVlYbE1BSGN2VHhLdkJGU042T1Rmc291cW90Yk5jRDFYdGEzREZ0LVYzNjFzNVRQb1QwYktjeGVCZVl4RFpDd0ZPeThJZ0VvcV9CN0NZS1V5UmdpNkNpMGF6TkRjV2xGWGV4bk41OWpldEFpcXJIckx0Ymp0QlFKQzRkMDJwb181eTZjYXJNZjFWLXZJeEY1eE1ObW5IMU1Oc0tETExiSnRKbUFCeGcwM0JGWUNJblNrMzc1NWFDcUxkS2dOWUlHVTFWNVNtdFMxVEdCYnNkVE5Ndk1qUVFWZ0trUkVuYmpxZ3Vra1YyWm1DX05VMW5QSXdyUU01S0NnOXRJTlVHNTVCT0JiQm5IOVZFNkhiYWwtWHBpYXRVTHg3czFHRUhCUzlsTk1rWWV0N1ZuT0U4c3AyY2NUQndKaHFJZy1MOHBZdmVfeXNOdFJ4ek1uT2FlTXhGdGFOdlJhcEFTOTYyRDlYaWlIRmRldFBLdHNrVTRjNlZXRVhoLXNxbUR1RnFZUklhOWh2VVFXNXE3djdhRmd2dU81Y0tmZS1KMEdER085TFQ0OWFCYW9qZlNaMS1JUlV4X21xQkdraXQ2WE0?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Sat, 03 Oct 2026 10:59:39 GMT",
-        "discovered": "2026-10-04T22:39:41.779349+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "ترمب: حرب إيران قد تنتهي بعد الانتخابات مباشرة الشرق الأوسط",
-        "player": "",
-        "content_hash": "7833771e33caa7d500b8159f1b29e00eafa754ef260fe8e6c507288583e93943",
         "sent": 0,
         "section": "middle_east"
       }
