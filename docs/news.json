@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T00:18:49.572094+00:00",
+  "updated": "2026-10-05T00:47:05.165892+00:00",
   "total": 135,
   "sections": {
     "morocco": [
@@ -16,6 +16,22 @@
         "summary": "نشرة إنذارية: زخات رعدية قوية بالمغرب Hespress",
         "player": "",
         "content_hash": "54f579947467b80829447e1f09ad84e2fd939d464371c32ea55502b97a199b26",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 8619,
+        "title": "ديابوراما: أشغال تشييد أطول جسر بالمغرب تتواصل ليلا-نهارا وتصل مراحل متقدمة - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51OENWR3gyS1gzb0dzYmJYYTZIQ1hUSEJva2k2bG0wbS1lY182RGEzRXFUQV9aZlIzOXFjNi1TdGVGa3p3NmRGLVd0X2JuZm1XdXZFVW5EbHJMalZYTkxBTmplOTBmaEU?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Sun, 04 Oct 2026 20:02:57 GMT",
+        "discovered": "2026-10-05T00:46:34.524600+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "ديابوراما: أشغال تشييد أطول جسر بالمغرب تتواصل ليلا-نهارا وتصل مراحل متقدمة Le 360 Arabe",
+        "player": "",
+        "content_hash": "17affac79fa74fdd31b63d7e0cb017026a4440da998b132f9946eb0f8fcf0712",
         "sent": 0,
         "section": "morocco"
       },
@@ -404,22 +420,6 @@
         "section": "morocco"
       },
       {
-        "id": 8119,
-        "title": "الإمارات: مساعد قائد طائرة فلاي دبي هاجم قائدها بفأس الطوارئ - alquds.co.uk",
-        "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNNU9iSXFrVXJ3UXpaOVMyLXRIYnY0UFl6RkhjMElPcjRXWXZxdUVScFBsYTVvay0xcW4yVE5aazRFM0NVckFYVTRQZ3VhaFhEV3paajV2c0lvak5feWlGak5tVDFfcUNrYVJ5MWFIOTMwWDF3aGd0RmpTckUwMEVzQUpGLXVfNFBaeWJqb3FpODBEaVdpTlc4T2ZTcEF4eHA5NEpOV3cyeGQzTFREb1ZtcE10OHpuWUdaMjRCMWZXR1V6V2J0ZEQ4Y1I3MVhINVRGOHk5TTRaeWtHcUVQN0U1cnVlaXVqXzBtdHJmbUhTb0lZNnNMYVdHVDVzZDJmMFMxWXczeEc2Rno0SzhyY2J2YzBNZng1V1BuVGJZcVRkVnVFQ0I0YWNPdzlSdjRROXFPUG4yS0lPbnR0YXdNYWJz?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sat, 03 Oct 2026 07:06:23 GMT",
-        "discovered": "2026-10-03T07:38:51.728956+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الإمارات: مساعد قائد طائرة فلاي دبي هاجم قائدها بفأس الطوارئ alquds.co.uk",
-        "player": "",
-        "content_hash": "51e72d8cbbb452665dcaa86a277c42fe3a11e8c3e568a290ebbeeb432914f7c4",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 8420,
         "title": "المغرب... امرأة على رأس الحكومة - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNWVdjVXdycGR5U1RITm1RX2lVNEUzNTdzaTFUVjFqbXBBTGFBLWI2WmlfTW9hZ3BQT1Vma0tCN3B3RXNtVFB3ZjdmQnhuSkNLZ0lrNHBuZ0JEcm0zNGN4YUFyNUF4QWUxZWI1QnRuSnlTZ2pBWFliSjFmZmVSUWVncWNXS1VXeUxZaWlCdFIxTnJDR0hIYm5sblA0WnE5TnRDblhDQXFfTzBFYWVZZkVmd2lhXzJDVnpRUEs5VzFxZkRGQUQzeEtVOHVhU2dEQTRQLVJKM3ZzRWM2X3ZRNHVZU1FRZlFGVEl2YWhzYmRFUVg1Zk5wMS1Gd296NlNPYzRhbHI5YmplWXdndmFqX25MU3Mtck9DakY2d045WGhocDJ0b2lETVJkTlo5Z29ZVlk?oc=5",
@@ -566,6 +566,22 @@
         "section": "sports"
       },
       {
+        "id": 8622,
+        "title": "ملف يلا كورة.. تعثر منتخب مصر.. رسائل موسيماني.. وغموض مصير هاني - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQU19MYzZWY0ZFYVZQeTlTTXR4VjZPU1JTTGFPcjZsSUE1SnlIYVVfczE0dU85UDVlVVFONVJiempXX05aS3hnZWhWd0t4MkFGbVdwVnlUdVhnbGpUVnJkdVQyOU9CeHo5YV9WSnR0TmFkYWl4REVvNE9uWkpCZWNpSjlGVzU4YWRHS0NULUhKNWsxUmd0eE5DbTYwRlFEcDh4X21jUTQ4ZzJKRThEdm5Jd3BBRjhOMnRrTkpaUVFVdTB4VWVRdDJIdktWdVRSQ3M3UHZuOG1PbC00R2kwdm9OZXNvWHBFUjZXSjUtYlRGZjg2NVlzbmF1Nk9WQUlDRmN3TV9aV2EzTnFIVHhpaXI1eDBZQTkzVFpsUHhiZ21BTk5xRHJpak03WnpWTmcwOWJodF9WeWkxT0l6dC1lenlYVXZ0azM4V3g0QlA3dDRZSzV0QkU2R1NCc2tWYVhjVkF0d0xOSldOVG1tN1J6YmxSYWdGa3Vlc3ctZU9IN1NUNXlLeXhhRDI1d3k3bTlJLUxSOGdJMkk4bTIyR2dUMEMxeThKOTF1NW4xc2hOWC1uVVpOWmFjZjhvUXdUeU5NcVZpUm9JbEZfV0VuQy1fVVpqWUtINk9zR002UHlDX2dPaWgtSDVNNVllb0tHRmNpQU1LbVBGSWRfeWfSAYoEQVVfeXFMT0g2alVMOERrckNCaVlnOHYtM0dvdlllVENsSDJBVldRZWdWX1ZmYWtnWWpxZmlFZDNDLU8ybERXeHpPMkM0bHRQVnFHWGNUUU1Ram0xNnA2Mm92Y29zbUdGbUw3QXBiaTBzcnJJRG02MUpyNEZhbUJKYUJYaDZ2WmgxT1V6bDNoQ0VYODhiOGlRcGxNNWNJWlZ1QmRrb3dwMkVMU09hbHpjUGdwbWhROUFxOXkxWUh2NnUtT2M3bXA1Mk9oMFl3eUhGX1ZyNTJIUl9tWFBuRWMzbE9acjNGX2hwTXgwTzJpYzBabjlrSmVlcWMwQjZlVy1iOHRPYUlrM09wUk1Wc0FHeW82Znh0UnBBR0k4b2dUa1JycEh6Mmx6Qkt3ZUdjRkpNSW5ybzc1MWtlVVg5NE5OSFdFUUR3Qk5YTVpDN25DMDNhOFAza2UwYk1pVGI3MDNtMjJNaUJ2Nm5GOHE0Y212SXNWM1d1c1BGV2FfbXh0d3pVZTJUaEpsd1VTRzdscWxRZW5mVmhhNlplNGQxT1FYNGpWV2VWVDNhU2xDdzFTT2E1Z0dGd2VjVWNkeGhWUmhSQmpldVh0UmdOV2xuLVpsTnNJdF8wOE1YcW41elpQR3JhY0x0Mm5sdnQxczZWZEk0aXk1a1IxV3I1X3A3bnp0bFVqTGtvMWlwaW1QLWw2aUFR?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 04 Oct 2026 23:14:00 GMT",
+        "discovered": "2026-10-05T00:46:47.636620+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ملف يلا كورة.. تعثر منتخب مصر.. رسائل موسيماني.. وغموض مصير هاني يلاكورة",
+        "player": "",
+        "content_hash": "eb072c89c742171531a41e0f36072ab174d0ec107980caf6d2816330c419ac74",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 8616,
         "title": "ملف يلا كورة.. تعثر منتخب مصر.. رسائل موسيماني.. وغموض مصير هاني - yallakora.com",
         "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxOUGNvRVE4WmpXeXQybHViYXk3WkRLX3ZBTlllWVVMZDRhRkFSdkhjVWYyMnB3SV92aHpTT2dNQ0VRcUM0WXRVSk5PWmpMNTRtMnNzSXNwYUlRMXFFdjBTWW9RUUJRWDNSbXlabE03NTVfbFo3bE5pUU1XcEYtRlZ3dUpHdVJNNG9NTXZfVDFIcDVkWmM2bFcyRzRTY2dMVFpQWFkzMW1VQ1liV0VYenhCN2lOa1B4cmtFemszUlYycmRVOHhmZDVGWl9YcmhzNHR2LWhFVENEdVFLSjhONGlkalNuSDN3dndvUm9hSi1Mbk53UlluZUkwSm9DRW1mRHZFZlVGRTliYl8xbGRQdW9zc0JmT0pDWkpqWWtlOGNCc2ZHbm85YkJIaldveDd0NXZ3RnlwWDRHU2h4YnQ0SVg4Q0FLU21fdUI2ZDBTWWNKV0FON3ltNHliMkRLMU1VSFhNZV9takdvbVM1Uk9rOFZDODNqQXFuUl8tV2U4VS1DdFZsQW5ZZmtIX2VtdW1YdlY2U01QVzRKdFRiM2RhTldHay1rUzhjTnNvcC1US1Uxb3VfeGdtc0U0WmliOGVUQWM0ZUZGT0Ixb05NNWFMVFc0V2NKb0RHUGdDenBId1FuRWdVWVVGMzk0MHpHR21va1N4YWEybVZmMnBaXzBHZ1JzODR3YXTSAYoEQVVfeXFMT0g2alVMOERrckNCaVlnOHYtM0dvdlllVENsSDJBVldRZWdWX1ZmYWtnWWpxZmlFZDNDLU8ybERXeHpPMkM0bHRQVnFHWGNUUU1Ram0xNnA2Mm92Y29zbUdGbUw3QXBiaTBzcnJJRG02MUpyNEZhbUJKYUJYaDZ2WmgxT1V6bDNoQ0VYODhiOGlRcGxNNWNJWlZ1QmRrb3dwMkVMU09hbHpjUGdwbWhROUFxOXkxWUh2NnUtT2M3bXA1Mk9oMFl3eUhGX1ZyNTJIUl9tWFBuRWMzbE9acjNGX2hwTXgwTzJpYzBabjlrSmVlcWMwQjZlVy1iOHRPYUlrM09wUk1Wc0FHeW82Znh0UnBBR0k4b2dUa1JycEh6Mmx6Qkt3ZUdjRkpNSW5ybzc1MWtlVVg5NE5OSFdFUUR3Qk5YTVpDN25DMDNhOFAza2UwYk1pVGI3MDNtMjJNaUJ2Nm5GOHE0Y212SXNWM1d1c1BGV2FfbXh0d3pVZTJUaEpsd1VTRzdscWxRZW5mVmhhNlplNGQxT1FYNGpWV2VWVDNhU2xDdzFTT2E1Z0dGd2VjVWNkeGhWUmhSQmpldVh0UmdOV2xuLVpsTnNJdF8wOE1YcW41elpQR3JhY0x0Mm5sdnQxczZWZEk0aXk1a1IxV3I1X3A3bnp0bFVqTGtvMWlwaW1QLWw2aUFR?oc=5",
@@ -685,6 +701,22 @@
         "trust": "C",
         "published": "Sun, 04 Oct 2026 21:09:00 GMT",
         "discovered": "2026-10-04T21:39:23.498415+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديوهات | ملخص فوز جنوب إفريقيا على مصر 1-0 (ودي) FilGoal",
+        "player": "",
+        "content_hash": "bca419658d850cf3a5876551bf4ca944ee3877748329d00a288685dc89e4225c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8624,
+        "title": "فيديوهات | ملخص فوز جنوب إفريقيا على مصر 1-0 (ودي) - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNUFZiblB3c0d4T3g2TjhIZDIxNE5aUjduQWtjcXp3UnQ1OGZsbHc1bXpWc0JqczZYU2k3UjNOamJvZEl5dGxwYVV2RDd6dkZMNENzdkI1cHJ2Ym4wTmF2bmtPYnhQSDdsaWN5azhFREJNaEZoVHdEYi1IMDZVTDUwcVlQTUlnelA4eEpFb2J2c3JkNTRZOWxRSUM3a3JSZnkyQXJYVWI3blpvTUJYaVNsRjlFMktOSWYwOHVkQXN4WUYxdVI3S2FNTjl5VWw4WG1nM3pOQmtwelJIZW4tWXJCRzlDVUl3TDktaHVtb1IxLWZvVnlBcTk0WFd6YkY0clZIVVU2WnNuNnVUMWZkLTdmN2hBejdIdGdBN2VDUFQ5b2s3ZVQ5UFdDVmdrczE2U1FJM0xj?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 04 Oct 2026 21:02:00 GMT",
+        "discovered": "2026-10-05T00:46:48.336787+00:00",
         "category": "الرياضة",
         "status": "غير واضح",
         "summary": "فيديوهات | ملخص فوز جنوب إفريقيا على مصر 1-0 (ودي) FilGoal",
@@ -982,6 +1014,22 @@
         "section": "sports"
       },
       {
+        "id": 8623,
+        "title": "رغم ظهوره منذ 11 عامًا.. المهدي سليمان يشارك لأول مرة بقميص منتخب مصر - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxQYTEybHMwRkF5RUlVZ19id1lyLW5DQkw3Sk1Fc3RVdHRwNDBGNTNSS29XU29MeHJuWXE1UVY1eFhTMmZfWjNQSl9EQkVyY1RvUEFMeWpScElLU1cxTTZGZm5HUXhzZHp4eV9scm9OTFVDVmJYZk9xT2l3MC1QMFQyTFQ4eTFsNWFHQWJybGZLYkxYRkZfSy10MFl6amJXRlFtRzBFY01KNG1JdkU2YS1yR1dfWG11TnZ0VXBrYkhDdU1jWlRseWgyeDRCMHZ2MmwtbGZiTUhyOXdSNmhDN1padDhBMUZ0SlV0N2ZKT3ZFZXItX09vLVlKMVlMYmdQTDB3TGRZejYzZUJFTDRvUWREWVUwZTd3VGQ3emhETFdSS3pNdEMxQWNCLVVtRlVOaGN1ZlozcEhzRDBmUVRTOUp2RDhBNE13N3FPMzFRWV9TeEZ2aUJfVW40NVIzM1pDVVUtUGYwTE1zSjVfNmFEZW5jcFRvU2dYTzhadjVwLWlEREZvZE1OMHhFSVFZYnJyQU5fVjI2TTB6cmN1X0UtZHBxcHhYeFE4UlZMckQ2NjF1SEp5VTQzTDhSSVRQUzR6MFNUNDBfYkgzOVBHa2FpMVFwbzEzNVFVSk95SFp1Yy1EdWxkNkRxcjNuTUh5ZE1CY3NsSGZ2dVE0MU9kMlBPS1NfdHhlTFYwLXFWXy1QM1JrMDVnSHNFSm90d0xxMlhvWjd0aFRkSnlOY3pTbWvSAbAEQVVfeXFMTXJDRHdFUUY5ZmtmZGFfRkF0dVZjNWpReDRMRjdkQ3FzVFhaakxXY2xFb0pSV1dSYUF2MFZmdnJLclNOblFTc0xRWDR4MDRpWkc5d0kyb2U4bWxIMVAxVVpCSjNwdi1PcG9pb3FoN3NfbnVQM2FzZFlrLS1LZU0zV1h5dUpxa2JkZU1rblhKR2RUS3Q3RDNoVGNDTzM0TGRHdWZib3hSdURBZDJ3TzFJdHVEZ3N6OGt6YmJUSGtNNjdKWW1NaTRJaW96eDNzLWhmS0tNSUJNQVlNdzFVd0lza1E5VXVIYjFMRU1qVzluZjRTS1FQQktTSGlzNmpQeXpPUzlsOVR5d19tQzJScnAwQ1pETVVMMEpjUGlBTXhvOW5fN2x4QUNJR3JPVFRid2hmYnhHZHpRa2owaUxxa3U0dEMwSzN5ZmRKS2VwbzhxLWNMYlZEeTFidzMzUTlWUWl0MjhTc2pFNHVNY1BCMHhnbEQ2M0VwSVhybjJreGhTYWg4eGF0NFVvSy16c3pTYTlrdjBaTHVwNUdtbkZDREpUMmhfQXNORk0ycEV2dEVnVVZGaG5jNnZrTGllQ0ItS24zak5kd3d4U3lFRFlDazkxS2s2ZkMya3NPNE15aEZYbE5CMFdjRFFoOTNabHFVWmxuTExjbUxieE1fTllQNVdFQUxXRy1jZHV3V3NhTWJ4WXc2OGlpeXpZZW1zRHJyZktvVXhzV1NKbUl5WWlrS0ZQUV8?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 04 Oct 2026 19:49:00 GMT",
+        "discovered": "2026-10-05T00:46:47.639866+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "رغم ظهوره منذ 11 عامًا.. المهدي سليمان يشارك لأول مرة بقميص منتخب مصر يلاكورة",
+        "player": "",
+        "content_hash": "67bf47cf46441ebfad4b6870d570e2b4d4f5b0ab1edfc7a2a0ef661145c9f6da",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 8545,
         "title": "مدرب كندا: لهذا السبب يكره الجميع حول أنحاء العالم أمريكا - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPanV4Zk5fcDA5bEV5TXVzckxZY1dBZElFaGFaSlEyYnJaSGZob1YwdG4ybUI4QS1OVlIzMjZlSGpvVFBoR0prTklzdzhfbFhLczRxTm9XMlJEZU5oLVZuR1ptVkdScTZUemRqNHgyOGhGdURUUTdHeW40QUQxV1NxTEd5bmRQVkdqYmRJZXQ1YWJxcVFlUnhRN2lrMEN2OGpLSFA3NHBwM3RGQy1ac3dVLVZ2RmtXWi1VdXA4XzY2S2Y3Q3lTS0tiZFdtbHEycklPLWFta3dqR2pyaWkwb0tSWnBDYzhNdGtYYUtvRERiR0lvajJuaGlWZFRqUEJwbjZPRjdXNm13Z29OX0tmeGtRcHdMYTF2SUV2c2V6NUZRaC0zN25OdE1iLW55cWY3aEN6MFNWYV9WSWhwQzZJU196QzZGdVBWSlNjVG9WcEJKWjJQWVVNNnItR2NmcUNTbzJMNERqMlUtWXMtNkRoM2hiTjRfTC01NERYQm1PNlp4YjUwc1BmX2RnU0xyNXNEMmZ5dkRGQ2lTTG1zV0J0b3dENk40UkZ5a2Fnc2xiekJ3M2ctaHhzRGp4QmlJZ1BpdnUxRkp4UklZMkRjMVVCZmstalhfa1g4QdIB2wNBVV95cUxQa1otMnUwWEFVR0JYUmJVLURwWmpMSkN1NW9ObXdhVGxMTEd3SU92SXJLSEJ1aWxfRmxhUFk3em1lb014NF95bkw2WUhBYTQ2RTJObHNhWjRKWGx2WjJhRXNmX29qRW44SWFmdmZ3SVNqUVpheFpjRU5UbkRGNWRsbFp1QkJxUnRCZEZSbW43QnJFTnZxTXc1SXVoVGN6OEtleHdNTUVpVUV3c2lnQkxsU2Nxb0RMZ2ZXOU5iMVQwNWQzRFdOeHRncXZXTHVGOXU4UUlDOEF6N1ZlUHNJdW1aUlNfTW5OUjZpVGRHUk1RbTd4SHB2TUtpNWpjWEFQRHlmVXdMTUNZWEN3aml0LVR1emJRTlVlWTFjTmJ3WXNLR196bUdMZVpaMkxvQVBUUW1zZWRjX0w1MnQxTzc5VmVtVnlSWmthTlF1T3AtVjBGVFJsd0VjNW5fVkVPSTkyZV9SZHc2b3dmUzltVWVKakdxdVI2VlpCYU8taGdCUmZNWGh0MmUxdGt0Y19mOUlkR1JuLXRKckhERWw0ZlNPM2wwa0F0UE02NHpndUthR1c5UmlOZ3VPeS1KTGxCUkZyWlpTQmI3enlqTVE1UEZWRWJWcG52MTVJak1xU29J?oc=5",
@@ -1174,6 +1222,22 @@
         "section": "sports"
       },
       {
+        "id": 8620,
+        "title": "من زاوية خاصة.. كراكاج \"روسو فيردي\" في مباراة المغرب ومالي 🇲🇦 🎥 - Elbotola",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rbm9RRlNJWUtrN2VidTUyVmFYdURreWJzd2pac0hKNUsyYUtZWjFYYmVtZWpJVVpmQy1fM2FLV3VkMlpXNmVXQ0NaNmtzb2pLLTZweDFpNmN5QXczb0xlaGlPM2dJZU9jV1d2WG9NU3o?oc=5",
+        "source": "البطولة",
+        "trust": "C",
+        "published": "Sun, 04 Oct 2026 18:25:52 GMT",
+        "discovered": "2026-10-05T00:46:40.518327+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "من زاوية خاصة.. كراكاج \"روسو فيردي\" في مباراة المغرب ومالي 🇲🇦 🎥 Elbotola",
+        "player": "",
+        "content_hash": "db6aaf27e6028493aa4ea6f615761615d01e59aba50a0602af5cdceff1c4f72a",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 8554,
         "title": "فخ إعلامي إسرائيلي لمدرب أيرلندا ينتهي بالفشل.. ماذا حدث؟ - الجزيرة نت",
         "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQaEFaMjRIWHh5MFRVTGZoZzhWVlVvZmJ5cmlWMTBaWWtkM21LWHJQM1VWUWsxdTIyeTBHSmxTcWd0S3BGLWtIY0I5RDlTenVIalE0N3JMYXEzVmVuWmE0d2VLSTgzXzUwWHVCcHNYNU93WFM5ejR2aVNWX29nRi1TV3l3R09kWnVFR2hsdU5UVngwWmRRWUxENXNUM0Q1Ty1lSXFFUGhXaXBvRHNqdTBPMkcyLVhHZktZSEhyMHJoY21aX1R5ZVBQRFd5bzZuc1dlZ0EzSExNd2RnR21PNEY3Z0xPbmZleGtvZGZ5MTVILWNELUNZdkVpRjNLSzFUejh3dVlLUFNjTFg3YWFBSUJ2LTVWR1JEQWVFdDY4WUM0bHBUZ25TOW5JT0ZTbHVvdUtJczBsUkNtdXJ0QQ?oc=5",
@@ -1250,70 +1314,6 @@
         "summary": "تغطية حية مباشر لمباراة فريقي مصر و جنوب إفريقيا في بطولة مباريات ودية دولية - مباريات ودية FilGoal",
         "player": "",
         "content_hash": "b43f27c64f5ae333b397d8275c4d295c5c26ad28b578cd6c376d5cfc1ce0e1cf",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8527,
-        "title": "الإمارات ترسل \"12 طائرة\" إلى السعودية لدعم المنتخب في نهائي كأس الخليج - الشرق رياضة",
-        "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQVk5TaklwckhVanM5ZURBU3VDWVM0eTVSbXRUdUJZajU0VnlEanQ5YXRGcFM3RTlTX2w4WlMxbVBtbDd5MUhqMUVpeHZ2WV9RdnAwN3MwMEY4VWduVEc4djVNR0EzZW94Nkl5VjdmMER2OERrTWNHbEdLek53ZldMNlJwWGUyZWxVcm9RVkRSVDJPYUNhbTdKemZmVWE0VlM3cGFjaWNHcnVsVlNGOWw1aVF1cUZ1QlBWbEtOVFluc2l5cmtaeWVWR0JNZXU0NWM4U3RvWERiWmxIeEpJWFZqemJ3V2luSm91R29GX0Y1cEt1bHMydGd2OW51ZEpGSWhHMWtPWXlhSWVqTVNMZll6NGczUjJQcTNNc0RkWE9sVkF1TklVTUNieGF3M0hZUmlDNl9FMy01THVpMDBlZXVRVEZVcFRzUXJLSG9LNU01bFo0YTFMc3NOUmd5SDdubjN0U0w3d2Y3aHBCaTFmVVZfY2VZa3lDVkoyVW41RzFLeWVjNXJqNTlPOUtCN2VRTzVFS1RoX2FNbHpLcmZEVUJJbmp3a1huQ2xNVzdwYXhrdExCZkFHU1h4ZHJuN0wxVGFDejBiUVIxZkpFQQ?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 17:39:11 GMT",
-        "discovered": "2026-10-04T21:11:40.769445+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الإمارات ترسل \"12 طائرة\" إلى السعودية لدعم المنتخب في نهائي كأس الخليج الشرق رياضة",
-        "player": "رياض",
-        "content_hash": "378de4fdaf4a361af862d0a83d940c8016ff99202f14b957c6327a4f9c4e87d2",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8454,
-        "title": "«الشرق الأوسط» تنفرد بتفاصيل إضافية عن مقترح دوري أمم آسيا - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxONUNMYWtCc2x1dC0wY3RpYlRtV3dfVmo0ekQ5ZVAyVWlxYW5CT04ycDV6OEZmYkI3MUFjZlQ3eTUxeWpNajFNcHJOQXdCNGFnd0NZb0FYZHdtdXFISXVHMjdzamVMX3ZLdU9lenFYR2hJaGNXSVpOLUtURWJjdElvMmdySjNtN0dRWENIZFlKNl92RGMwZjNSQlpCZTRsQUJOdG9GOS1MUDl5dTZISUdXUmdWajExdC1mV1A4RWM3M2FTb1JlSGI1aVVjSHM3WHZJMFR1RTN3WjVXTFVRQXJrT0pxcFBCNHI1end3bDJwV05yTk1wU0N0bUxadDdFNlZYNUpUUVVaX2xPWk00Vnl1ODJuTzZqbExneWhBdEphYWs0b2hpUUNoU04xQkZHelFoZ2J6Q3hMeHpNVEtZQmo0N1o5YU5CbGxValhubGMtaHlfbHZwS3RsakJiNnUxemZhbDZZM2o4anp4eDdMZlJOR2tJQ2VDMHdKOWZqUW5aV1dSU2c2V3J4UDRORDZqZFZIQjk5bG1FT0hXZXB3aEpsVVVQYUladjZfelh4b2ptbzkzSmV2U21JVkswXzBNQkVpeTdSY3BIeDQzb3Ntb0ZpaUJINkk5UE14U3NSWVhSM3hQQWJpTGUyOHpzd3NFNGUtekdNUmpQSGNaV0oyTHhrd2p3VjR1aTJHem1rbW9iaXlrX1EzN3NVVzBuUG92N24yQ1BsV0J1NDFmQ0RaNFlSQWI0QXNkNC1RZ0Z5RUVlVUd0UHgtS2pOVHBIdm9yQUM0dzVaNjhhaG0?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 17:33:32 GMT",
-        "discovered": "2026-10-04T17:59:41.657995+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "«الشرق الأوسط» تنفرد بتفاصيل إضافية عن مقترح دوري أمم آسيا الشرق الأوسط",
-        "player": "",
-        "content_hash": "2fcb608ed8a403c0a0312699f9ad4bea10cccbbac034f95f920fd1e64dda07b8",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8462,
-        "title": "عودة الجفالي وجاهزية نجم الأبيض.. 4 مكاسب للزمالك من ودية الشرقية إنبي رغم الهزيمة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMilgVBVV95cUxQZEtrTWhyNDhQUTh0b3JqOXh2UzllSlc3dGo4VFVmdVU5NjAwcEdYeENLZ29WUWQtSGx3dnZ0SXE2R3M2eVRxTGpzU3Q3X3VSMnVXRGFqOXdySENTMFlGZkVMLW14NEFuTkg5bkVBdm1rZnh1RXlPRXNNc1p6SXltZUdSNl9ldFFoMFk1N2w2R2MySVc2UWNoMWxsRFhOS2pxanB5RXpGbXJtSmlqbDJPcjJheF9ZenB5bm5YTDRjc05UcUZkTl9HMHZqOVBCZDJlS2lOM1FUN0tjWmdUczQzblBqc0lpQTJyS1FHUi1udDdsa3FreEh2cXVmamhzekw4c2tvaHIzd0JMUHplQXZPR1htdEpuMWsxRkd6eFVCR3FXUVowQUh5aEVIOGR6MnkzaHY5bTZWaV9zZGtkeVFkMzJUNlVKTlZBSHVDZzhJZUZmMExxMmU1YUlVaXpUNU81SDREWFBwNlpzNkVKSlR2RjJyMkg0c0RmNzA2bmI2TnRrQWRMNEhweEtRSkJTOHdaUlpfallvRXQ4TU1FQzNTV1FwZHM5V2N2YWxQTXRqcW5pLS1kQ2QwdFBLSUQ0T041dzY3alA4RkhMc0QxM3lldUtRUGtIOVdFMFl6b3dUb0VUTFJvUmdSQ005SjM1OHp0Ql9xeU5oT25YQWhoUjM1QjZVTVc1bEZtMkI5NDJUeERHNkQwUm5mUUJKREVZY082aE1wOFN1dmVJaWN0WWlTanlpS2h0U1hUajlsZmN0VFYyNDVtbDh5TFlWci1BMVd5a0plb1dCQmFmTFV4MDBDSlhkbU91enc1a0ktV1NzcmlnLXFtUjYtdzZqR2hSS0NKNUxaX1FOVWttWWlQOWtxSUtHQm1rQdIBmwVBVV95cUxOVVVIMXZTeUtBNmczUWtDZEpGc1dNZE45T3ZxQlctNDBFMTFQQ052QUg1TEg4MWJxVEE0YlBsNFRXcDJqSnQwSmlqSm42RTR0QnlLc0dCaXJiVEtzQ3hSc1BWUEl6cXh0S2QwUVdNMXh4ZVRSZXRwRms3ajhqR3lTVEl4Smd1QUFkTVB5YkpZQWltVXRuT1Q3UEtSS3gwelNLUnVTaUJrdWZFd2pRajRZcTJsMWRBRnpVcFF6UjlUZkFiRjNqd0JJdkRIS1hpNlM2ZjBZNldJajdYLVh1R2xCUzk1Ny03YkVwMFJfY0NRWnhNX0hzT0R2dVFYSnBnRFZwZEpCNjNQMEc0N3Q1b3k5QldkOE92UVhTd1c2eEFSeTZYRy1iZHpSWS04Y0xtYnpuSFZtM1ZreXBWRlFCd2pKWEZFcjhnSDF4UW9RdEZ0a1gyaElLeEg5VHlqMm1qeGFSSHZsYWNVSGJxWlk2aDBaR2ljVHhMQnVjbU4xSGVpdnpMRUpRZVQ4X1NUYnJ3bnVKT08yUlhSMlJyd3lCMWNGeWdLMGRDdnQ2c3pySE52NXNDcWZHUXBoSEJUV1VaVk1zTGNUd3puMy00M0lTSVQ5RFZwcnJHMjVKeVUwNWNWU3V5M3Bjc3YwVEk1VHlOdG1yQ1ZJUzJ5T1doRzNYWTl5S3FtR2gyaTRPVXp1bjRiUFZ5d21jbXoyTkg0Tml5R3JOdllDYTFsR2NVeW91eGcyMVNtM0ZUcWxDNllZM0dybEdkVG81LVU5VnY4a05faWNDZHczeVRZNC14bGYtR0toblE4eUd3UGVIU1Ryc254RGtEeVdMTXNTS245ajBiTjFMTXRsSUpSaHVLLV9XMkZJVS12UmZhdlJKTGxj?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 17:22:00 GMT",
-        "discovered": "2026-10-04T17:59:44.139835+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "عودة الجفالي وجاهزية نجم الأبيض.. 4 مكاسب للزمالك من ودية الشرقية إنبي رغم الهزيمة يلاكورة",
-        "player": "",
-        "content_hash": "13a619517c4b39507aa1306317fc39101301b0dcf85e9c4e6f24a783067900da",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8504,
-        "title": "موازنة السعودية 2027 تدفع نحو تسريع مستهدفات \"رؤية 2030\" - اندبندنت عربية",
-        "url": "https://news.google.com/rss/articles/CBMi9ARBVV95cUxOcU5lRzl1emRiYWxFYU9ueFlFblg2S1phN3NLQnlxeGdKRVRxeDlVejVIN09tNThqS2hMZzM2UlNzN19DQ3U2OVM0eGFHajFrMmVLbFR1eWx1cHJxMl9GSHJNcUVDQ0dIZnhTY3Y3RmU2TmxDZVdkSjRRUUNld0lkNTM0SVIyZ2FYaFkya1dkeWEtVlY4ek54VVN4em9GUWt3NnV4NUdrSGhkR1NkTC1vUTdOTlJxdWVQaEVPSlZyYWp3eUVOMElEZlFtdVdvVWRydWZOS0NkWndUWEx0U0ZNNFhMSHZudmxwdGpYNEctREV5N2IwMUJ1NUZ1Rkg3TXZlTlhXY185bHFlamdIU2RvT251ME9VNF95bG9fYlBSeXNLYmdHX1Y5TkJNU0FSUUc2cHZEMi1CbkE3TFBRZVJTTnJ0NWo3d3BWakpRNl9xOEpvVjYtUUZ6Sl9rbEZNRDNKa2lMOXhtUmotbmI2YlBDLVY2X3Zfcy1xTVpueFFlbm9tU2JSSjhCbDYzWkxBSEpRalJybjFEelh2REZFTFFHQmlwemV1YUREbHBqOEJ4SmFnTFhIazA1YnBqQzlUNVBIWVJVSUxHS1gwT1BaaUg5WHQyalZKbmlPZ3ZGbS1UMzVvT2k5QTEyMDlfbDhXNEZVSzdiRGZTWkpxNkRhNHRkelZVQXYzSkJMNjBlWDNPQjBwTGU0dFN2V1FUdzRPZnBIbnB6ZUNORk1wRE9HTUNYYWFPbHpfT053eV83ZXBJVF85TGlZSDctczZQbFdXRk45ZzRkam1TcDZ2MEllUDMwTi1Qc09tN3ZCS0dST1FjTWM4N2FU?oc=5",
-        "source": "إندبندنت عربية",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 16:54:30 GMT",
-        "discovered": "2026-10-04T18:00:02.017527+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "موازنة السعودية 2027 تدفع نحو تسريع مستهدفات \"رؤية 2030\" اندبندنت عربية",
-        "player": "",
-        "content_hash": "b8d14ea8caa1d5864b61e508ae3429512d7d42e5de43e30860e544a26f0d97ee",
         "sent": 0,
         "section": "sports"
       }
@@ -1672,22 +1672,6 @@
         "section": "transfers"
       },
       {
-        "id": 8123,
-        "title": "توقعات بتعيين مسؤول أعلى عن الذكاء الاصطناعي بالإدارة الأميركية قريبًا - العربية",
-        "url": "https://news.google.com/rss/articles/CBMiowRBVV95cUxOeGZZSmdmWTd0dmlZa0ZYRjBKcUpBV29jV2V2cnFZRGo2R1VSRGNJYVk2SkJPWjk4VFhkZHA4dTQzbkdvRjJMOFJmdXVhMHhIa01mdVBDanpfRVJHeFBoYzV6dnJQdlRuTlg4SzN4c2t5NTAyajNPbE9KNHNhQjVmaXdoS09XNWU2ZERpc3dTUzFSY0trdU9NOENXeGZVNlRtbk1DQjU1MmlnQ0pXZi1mdnd6V0NPQk14VDI5WlU0STFjWWVsWXUwbHQ0TDhoX1UydXBpR3hoaHJaZGlfNGxQWE9zQnM2TTlJQTRPbVJlbDhUMVZoamxqX0JGMkFlUGc0SWZoTk00T2c2aEFNR05FRTFIUnA1T3BXQ0J2VG5oMktuZUIwdE1xMUlGMXQzeWEwallHcWhGT3Q5dVVYeEJPMExzWjZ4RGF5VE5JVXJuZENXQTdlMkRtTjR2QjM5RXNvWWtpM0gyQ3hNN3l1aVdMblFPSzZZSWhaSkliZDlnYk9FQzZMOThVbEhCaldsMUJ6WFNWR0JxTkptcEV4RzdkM2JubUo5VVVHM1J2QUFwOWVZaW9GVkNWOHdBY3E3czczNExXNndZaW5TeDlYazJBR1lXbWhPWGt5ZnVmcTdOZ2oyRXdtWnZMUlFUckMtamtJZkRSdmtVSVZjeWRsUDBmMFpIeEVoMkdsd2Z0M3dvNTYtYXpDbWdHZXVZYmhSTTUzTUhr0gGoBEFVX3lxTE9tNFRqbzJOX0hmYS11VG42T01jVmFMQkswTGttMl82YWNNRF9LaEZSSlJLUWs2bWNHbHI1UFlHNV9saGhJRGZ2UUNqSEhLOVFRQWIwdXBocHZrU2xVczhSMk5PWFdNYTQtTFpCMXo2U2xEV3hQUndoY05jMW9uN1J3MTNLRlNycE5VYUYzWkNDX2FyUkU3cG5zbUlxZVhDUUxHOFRzVVlERXY4ckhkcFZWbzFQWmxHSkVOVDRBOVpDTGxYbzBXRXhROC0wdEctYkUxTVJIUU5WeDRfRjJ2RjgxVm9VcjgtdVliUC1GM05MQkx0eUlGMmhIcGFXMTNWWEVYaHV1ekREZE54SUdMaExmV2JlbnFNNC1aS3A5aG5Fbmt5OE9BLTJiQ0V4Qy1iRGFuRVB2RDh6R1dxZXVQcnRUaHpiWHNsTHNHWjZ4eW1GLWhyc0pQYzVZQ0lBT3dKT2YtdzJkU0sxQVphOFlUWGlZVWk4cDA4Mk50eTlaYWF4UzMwX2QxMHVSY004bzV2Y3hnLVVhclZaT3BoYlNMYWFrQm5Qa1phb3pOc3VfOVlNTktXTUJMVHE3VGduc3hSWmYxRnVfSFZqR2xiVmZPeUVNZmNnblBRTlZCcHhHd0tfZ1VpbVU1Y2hqZng0U0FOMHpIUnhxQURfRndoaU16c3dtV1FLaXZnLXVJVjZfY1ctLVM5TG0yeThsSXJKZ3VCVXBtaElZWEw2NQ?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Sat, 03 Oct 2026 06:01:00 GMT",
-        "discovered": "2026-10-03T07:53:35.878430+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "توقعات بتعيين مسؤول أعلى عن الذكاء الاصطناعي بالإدارة الأميركية قريبًا العربية",
-        "player": "",
-        "content_hash": "9a044dd7e8132bb2219816292e002daec66ebede27ef422fd9cdaf64c54a99e0",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 8375,
         "title": "مفاوضات باكستانية لاحتواء احتجاجات أنصار عمران خان - الجزيرة نت",
         "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPQmpJZnJNNnRjUDBram1QYnp3MGdUaVRCaTJJamRDRmt6SDJYc0M1MHFkNEh6dDdsTEktUUJPQ1BsSm45eDNadnJsR1ZHdm9DZVVCR1dWOUppTFdPVV8yN3pQMzZmeWtTQm9RX294c0VybWRhRnBVSjRZbXpzb3JPUUdJSkVNZkFJemxSTHMtQlRzVWlTWERKUmlUendoRGVQeTdNd3VVNmFqODZmZXdpVllJMmpGQlhoUEdUZmZTb1BrNWU2QzFIQTZIeDByVV9KSE8xNXFiNklzaTR4OTBlVkVEanhINk5ObnpjQU5JRHpfc1Fqc3E2RG5wMTQ5UXJmTnRmTWxjQ0VyLTg0eG9jMmFRWnpFa1JZMnVIank4Vl81dWE5YTRpbXllMTE3SFF2VFota3NQR2oxWVVBOVg2eGNmV25TMFN3WEw3ZU1SMNIB1AJBVV95cUxNajdUMkpZeXU2bkktRE16NFc3WEVUUVR6Q0RtbWdSV3pmRDlnUklZakJiLWU0Qzd0dW9rZVQyQ0habTAyT2NSV2cza1BCY3FoU0JIVkNFXzlXbGlNVkhJcHkySHFGa3ZBTVA0eXAtR0xMUmJMcXVza0tLelI0OFZPMTRmLWpDYmNnWk5GU0tKbWJFeGJ2SDdhcUNnUTI0YTR1N1NYb1ZZYlMzR2N3eTNNVkpuUnlQX2tTOTBDZGdUSjdwNVMwZXN1eV9McUNOLWRuLTE1S05Pcms0Ujd5ZWxQdHd0LUc4bDBFaG5pRFBtODI1ZUlTVDh4VVliVFVwTEpwRUt4dnNtVUM3NGsyS01LY2RkbGRfaEJDOTNZMzh5WFYwZ0VScHJxX1ZfcDNST1pUU3BVaGtnV2E2MUc1S1ROYkVabEtJazJvWUxUR3k5LWIwMUh2?oc=5",
@@ -1737,6 +1721,22 @@
       }
     ],
     "middle_east": [
+      {
+        "id": 8625,
+        "title": "الرياض محطته الأولى.. فضل شاكر يعود إلى المسرح بعد غياب طويل - aljazeera.net",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNZUpSemVEcDZoOWtnQUdTVmpzYWFOVlhHVFhkNmNNcTRzbW56b3EtekphZUpmM29XTldvdlBnYUQxSGRqbkZqeHpWMGQ5RG9HaWpvQmVEcFVKbGNzdnl1a3UySno2aWpUdVdjQlZFSXJuTlZCRDRqYXEtLTR2QjRuYzJNM3Z0enl3R2hsWWs2YzZmYm5WX2tSS3dKVkY4akJKdXZ2eVpLb0ltekVyOTV3WndEZkg2ZER4eXp0aHZVZU8ydGFIdmtrenhWc0M1Yzhiak1maVZXaUJRbGktWVBoMU9vY2llWlFUdVYwS0Nla3RPRktoZk5rVW9mZXppX1RQUlRfM2prbkRYOXA2eVVvRDJrZUFsamdBZTY0WlZVNTc4eG5BLUN2T3NuWFl4NV9OcTNkR2lxMTZLSlZGXzJ0RjBXaERQM2ZvVGZwR1AwMDBDYm_SAdgCQVVfeXFMTUhQV09tckJFbVdXY0N1d19oSFlIcDZXSlFJcXBqQVl3SWdJeDNwZkFYbnduSUdSWTR0c3dUbXF3M1Z5ZlhGSWQ5Sm93WjY4R0s4M2lDdTB3ZFFydVo0OUZCZlNYejFOUC0zTjJFTE1CaGM4MTF0MFJ3RmF2VTM1X3NEdm85SklrbzB0U2ZLNUNJazRJb1FTNDI1SFZScFlhcDVWbW5GMUZMTEV5aW5JZ1hsakM1QlNObERnaVVYSGozZmdRS2JMT3JHcVVDdzFiWjE1T1dhSFdITi1zOFJZMVNiV19XR3d0Zk9kckpKUVMyZF9ZY2s3WDkyU3R6Y2lobEJuVmk3QzBUU2U0MG1rRWRUNV81MHpZTURTNFI5cHBRbGdYTnJoWG9tVHprdV9qZnFyVkdpSkJpX0hlandFUUlRU0RDMWc2NjAwTVM3SlppMkloc1A4RTQ?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Mon, 05 Oct 2026 00:30:39 GMT",
+        "discovered": "2026-10-05T00:46:55.261263+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "الرياض محطته الأولى.. فضل شاكر يعود إلى المسرح بعد غياب طويل aljazeera.net",
+        "player": "رياض",
+        "content_hash": "1e607736166fb50efdf28c585c12ae06c2e31c526e39d3aef81e0ea635d6dd73",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 8598,
         "title": "العاشرة | الجيش اليمني يدشن معركة الحسم.. ووزير النفط الإيراني يستقيل - العربية",
