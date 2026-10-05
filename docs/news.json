@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T06:31:47.701881+00:00",
+  "updated": "2026-10-05T06:58:20.579410+00:00",
   "total": 134,
   "sections": {
     "morocco": [
@@ -485,6 +485,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 8692,
+        "title": "رسالة من مدرب البرتغال لرونالدو.. وبوادر لحل الأزمة - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxORHNVbFRuZFVCRk9mYjVFc01feUNNc1N5MlAwX1UtcGJENUtBbmhvQ1gzTl9ScHFPd25pMHVEeDRqNUFST002dG1NZXhmcEQxNHJLWC1aY25hWjJqdkRINDZnM3ozVG9OTU1CLWlMY19iSFRCcHJzeEM4UEh4UkFUNm1qeVpXOUIwVWV4QTdiQmx1bmw2STA5enVoWDZnNXVyc2VtWnRNMC01ekw0MU9ZOTQwVFQzOXYyTGZ3ZlJEMHRYeDJtb3B6WF9tbzBEblY2WEl0VnZhRFltQk40VU04dEZ2dDFwSDI5OFF4RnpjUnB3cEx5OUdVRVFRbzcxMnROVU11cFByR2lvOXdyTG9la3NsSk1NMDFBbHNvYmNGWnV6blhsLUlUY0o3Vlc1Sm9aV0s3OWJkRWxsekNHdnAyZkxNRHkwMExTWldtY0RIbmtkZFF2Q2ItTnBYNXB4dWpyYjlNMmttUHNEd2J1dkw2c2hwckJlR21NWmZpYnY2bnB4WUVQcFFOTUJaYlc1Zk9MM2ZCMXJydlowQ0tNVGxv0gGkA0FVX3lxTE02Q0tlWGJKZzNFUVRFcjVBQTRPTUZYdlVuMGloeXN2cmVVQy1HRFpINmFlOE14b0o1WE5hcHVKSTFHUmNPMzRKNzlzN2Ewc2VWRl84bVR2cFFyWElVTmtZOFA5YjN3MUxOZ0xDdnBwSnhpSktmUm41TlVjR0tibDJfcXJuWVdMcy1URC0wUUdtZ2tZbWRzY0VLYTVUX3V6bGNZVzFyRlB5VjlIM2VFdnVuOGZaWkVTUVpPRWpyaG0zSW1aOXZNMjhsRHRROWRfVnktbThTVVNEQmlOWWJNcDJRNGVleF9OU3ZVUVVCNUFSM21ELXVpVGtqM2tNdTV3U1RiVXV2TXpxSmRCdjdGYWtXMS1DcHFIN3FhVksxTjd3bTJBbnNrVVJ0S2JROGRNcHlIaWlDUjVGeHc3ZWRVbmhDakVfbWV2QXRER3AtMnJoWTJoR1o3c0ZCcHhiNnRPN2ZyZWUzWXlOZGNTMGMzV0oyZVVnSU9QcGVOWGlxbDF3REFNaHhtVS0xS3ItRjBQV0NVeTJVbFdhaDB3RWFnT3V6S3ZZbg?oc=5",
+        "source": "سكاي نيوز عربية رياضة",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 06:35:12 GMT",
+        "discovered": "2026-10-05T06:58:03.181685+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "رسالة من مدرب البرتغال لرونالدو.. وبوادر لحل الأزمة سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "4811e4891570e34617db5b88ea964b7df04b9039d73e2ad680f353e1a1e21028",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 8688,
         "title": "جورجينا تهاجم مدرب البرتغال بطريقة حادة - Kooora",
@@ -1266,22 +1282,6 @@
         "summary": "حارس جنوب إفريقيا يحرم حمزه عبد الكريم من هدف يلاكورة",
         "player": "",
         "content_hash": "bbc71adceb6a24a0924358a7261646d70c3d7a5a4af29ac3b74052e6d6ebd02a",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8513,
-        "title": "ودية المغرب ومالي.. التوقيت والقنوات الناقلة - جريدة المنتخب",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Zb3VGZEdYTGY4TVhGRHdOS3FCQk1mYmNOWVhYbGdtbGZQcHlzSjRiY0tQT3RxQmJId214aFJGU1lJcjJaZGx4M2ZGTUJJQUc1THpuTg?oc=5",
-        "source": "المنتخب",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 19:59:08 GMT",
-        "discovered": "2026-10-04T21:11:37.152765+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ودية المغرب ومالي.. التوقيت والقنوات الناقلة جريدة المنتخب",
-        "player": "",
-        "content_hash": "8939d56c6f94122441b0f577d5fd321d3f4c89cbcfc4a07308c972fa05461374",
         "sent": 0,
         "section": "sports"
       }
