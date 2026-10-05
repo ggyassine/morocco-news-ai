@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T02:40:26.445426+00:00",
+  "updated": "2026-10-05T02:56:19.485981+00:00",
   "total": 139,
   "sections": {
     "morocco": [
@@ -534,6 +534,22 @@
     ],
     "sports": [
       {
+        "id": 8651,
+        "title": "مدرب البرتغال يفتح باب عودة رونالدو - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQRFRsM1htdC1EVklqZmU2YjVIcDJ1VnlkQUpwd0JndHAxNXV1bjczd1kxVGRCVlRSNm8wTDEzN24xemktb1hTVFZzSGlLbFFjQ1hjN3BrUGFUWDhubFRjWHBrN1R0RWwtNl8wSFZkdFVsa3VwN2x4dS05RmhCOU5vSVMtZ0tJRjliWXpzbVVpUnNiZEVOZUg2bE9NT2V3YmtfOTZ5RGw4b085MFMyQVduQXZ5RGVhZWgxaUF2Yi1Zb2txV0R3bVdEcTVFQktweFBQRmtWZjhrOHJkOWpGVHdKX1FYbUtNZi0zS0Iwc3dWRUFKZm5kU1ZHcmNDMXlBcnUxbV9UOHcyNGNTa0RCWnNsQml1TGJHdkxTVHF6WG1FbXU5WGVSQzZfSkNiZ0padm5keWtqQ081a3ZJeXlFa1BlN3lPYi1Zdw?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Mon, 05 Oct 2026 02:48:13 GMT",
+        "discovered": "2026-10-05T02:55:52.981704+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدرب البرتغال يفتح باب عودة رونالدو Hespress",
+        "player": "",
+        "content_hash": "70c4dc5460f21c04873e3f08783bf02056018602775855570ee8e8e3b63c0369",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 8630,
         "title": "الاتحاد الخليجي لكرة القدم يجدد التزامه بالعدالة والشفافية - سكاي نيوز عربية",
         "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPel8ta2ZqUWR4TTNHd1lBRWRwZU8zS2pnSDJDRzFKOGVDc0oxZFRFeENRS0lXQ19IWlZLaFpVcEtjTFYzdnZwU2ZhYlllX0toT0phWFY5ajVIMTZzdVpMM2UyNDRGeTZnUVUtVk9YOUlSU3Q4ZW0tX29sLWpXWmRUUksxc1l6VUFWNjZLOU8tMklwRzZQX0JHcHBELUtKUUlLZHk0YWZQckZPaFFMZUNLRkNVWnhYaEx0ZkRBUWloZE02N2FrWXptR242N2RsakVXZDdMU0ZjSG9jaHZJaXNseXJVS01SalExTzBjWGxWNjVqcXJmLVBlTFVaVzJKbloyMVY3am9NQzNUOXBGdVRBcnNrQXh6bVF2VjZLZ09pUngwM2RZZmdZdVd1YlFOU09UZHNaRmNpSGF6eFk1T3diWmJITWRvZVc3M1lWd2l0cThOMldISEhNX1YzNGRPYjdkbUdfU000WVRSTU9YdDVlYzFiTjdiUklQTGlFMk90dFdpVHdqeVNEZFlnWlZBOXRJMFE5MnlseVlNQmpZVC0tTVViRk50ZlJFN01UNWhaQlBwQk5YLVhfcjFQY2NyUjJyYk9sSG1FODVOQk1ocFdYbEZ5bk5wUWNkM0owR3lfRnRvMS1rMEpXSHZtTUVUc0ZoMURVOXFMOEfSAf4DQVVfeXFMUGlxQW9HNTAwZTUzbk9RQXAtUnFaZXZDOG9jNmdnMF9wR2JtR2tXcFc3bXRpSHl0d0lsRXg1R0lxVkJNUlJsNTVBSklzeXJxSEJDX0wyR3pWZ2d6TEducnM1SndTNy1LYklCRHpRSnlhaUtBbkI4a1gtaXZ6WXdBRHc3MjBWbHB2NW5QcHVXYXBBS282OFBQaWZTOVNsQjFJdUJJOVRxamt0YWlJMUlNSi15QThYdk4yb3lidHhGekNET1ZRcjRuX3Jnb3Y3UHViZmdMb3hEdkVyTnpkRk9MZXZiUUJrWEdxSkw3X0Y4RkpHMHRKQndURFZVdW9UbXJBdHlUMmhVdE5PcW41bE5qUnVPSVYyTmxRdWJwV1NkR3RoRXRva2drdndqUkRhWEFHYjdRN0lESzdNTlJfR21iWjkwVHFZaktZdkNOTW5zdGNoSnJ1MXY3aXBNeFRqSDh1dVpxd215WUY2U0hteGlpZy1MRlBqdjh0dk85LTRHN0R6RHpQS2RhY1JfRkNvcmo2WUI2cXJmM2lJYUJsVnBvMGV3MjBlRDhZLXctNFd2d1FXZ3k4R0hWLXl2YjVZaUN4MWZfMkRvTlhwR0VKTThWeWd0WEVwVVJlTGUwNjlxMGROSERJdzlWeEs4aG4wX1BYSzFpNU5QQ1hBY0N6dmxn?oc=5",
@@ -898,6 +914,22 @@
         "summary": "لقطات من مباراة البرتغال والنرويج في دوري الأمم الأوروبية (صور) يلاكورة",
         "player": "",
         "content_hash": "6a42dbb5d4759a6057820c9eaba1364b82f83058980e6f00d99c781860182ec5",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8652,
+        "title": "فيديو: \"الصدارة في قبضة تشافي\".. هولندا تعود للانتصارات بفوز مثير على صربيا - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMimwVBVV95cUxNdjlHcUYzOFJCdW1rUVBPR1JZTGkybFhROHp1dDJ6QTk2QnFVRDZWN3JwTG8wN0kyY3ZtbVZyemVZdzhjbUNZTU9XUUZtN2Y1OFJkUGFuWEMtOEpLajRBVTk1b2pLU0lhUUpsOTRpRTd6YlhTekdmdEhVR2tOZUlQS29ESURyR0tfZmRvVkxzY2c1akN3VF9HM3hpQkpDaTVHVF9iNWw0THZHSVBjc2gtbTNQSklSVnNsZUQtT0ZNZGExOVhiLUlqSzBnenJfSUFITVdJRHk2aXBHMmpkclJVLV93NEhCZUVQeXNfVWIybEhFRVhWUHgxcXNXSUhlUVpXYnJac1NQMnhYUDBBY0EwS1RMYmpVRUtkSTN2RDJ0WkRpb2YxaVNPVGY0NENUVVhkRFhkT1FYSWFXeG9DRURpcTRSOVhhc1N0M3VUTHNEWGVUZHF6Y0FhTXhueFNVT0Ytb2NLdE82YW9tNk96OGpPb2hoYTlWQmVLenkwQW5rSU12WWhsa2VkOUJhc3c3WUlxQWZVamdnclQ3NHpxWV90WFg2QV93VW5BenNmQUd5ZTdWYUMxSHNGakVzQW5aam5SNUd3QW5pT2hMWEVMLTZvZHBWb1IzYS00d3ZQMlI5YS1LODZQR0JsbU9TSXVlb01SOGJWcTN5NDJhaVpydlRfN3ZLU2gwTm4zVFduXzhZRFZQc1dXLTFMbFZrRC1KVFBfV0lXYzlUX2llWDR5YWRyZ3gtRWdIVE54YkwteU02Yko4RVphMnEyYmdSVnV1V1pOZTFDSXNEUDVfckNPeFJ5czY4ZlhKTkZQRHRIaGc1YV9uejFrX1lvREtYS3NXSlNGZURvdU1VUU1oVnA3SlZSeFB1NjM3QWN1UXJN?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sun, 04 Oct 2026 20:42:48 GMT",
+        "discovered": "2026-10-05T02:55:59.819495+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديو: \"الصدارة في قبضة تشافي\".. هولندا تعود للانتصارات بفوز مثير على صربيا Kooora",
+        "player": "",
+        "content_hash": "0c62fc81587bda66b6322dd76408148b76b4d43456e711e072162dd7eb389747",
         "sent": 0,
         "section": "sports"
       },
@@ -1298,38 +1330,6 @@
         "summary": "استعدادًا لنهائي خليجي 27.. منتخب السعودية يرفع درجة الاستعداد لمواجهة الإمارات يلاكورة",
         "player": "",
         "content_hash": "c32d686e9f3a17bfebacfca92a2cb5cce3d461ea26e46b1a20912ad49a1cc5c3",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8541,
-        "title": "بخطأ من مصطفى شوبير.. جنوب أفريقيا تتقدم على منتخب مصر (فيديو) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxPSmRyTFZ2Wndtc09lMUQ0d0R1RUZ1N3VlcWRtSi1uSmV6ZlZSWWc2cTJ6QTdhZjFHWHZYTkhHVXVJS0pEcUpBY3RTbDk1bHBiTXo2VHNVZDFRUE5jTk94Q1FHLXlFV09faVdkNnRJSl9VWDBRMng2WVZGc084aEVDa2NTV21WOXB5MW9HLWJUQXg5Z0dLaktDdm9zMXFOblU3Z05DcGpRZGc5V1EwSENmY3lISy15ckZnNmpQbS0wdFdMQWJwckhOQUpnZjNpUWtCS3VpdC12cERWaElGdURhYWxOTlE4RHlhZTZodUdWbGhyUm5NTmtMRFBLUUJkMi10SnBIRDRhbFU0TW5XQXBPR01xZm5VTTRNbC1LcFNRUk94bkFIVElhbEpORVNVenhHbzlwZEhyT1RtcEpTVUQyb1hHdUNVR05nOGgyUEFFTUxfRWVwSmN2RXZzQWdSc0FmcXV0enBiRkdCdGlLM1NmZ0ItZmsxQnF2LUMzX09rRVR0eVhIaWVnWDQ3RDVvbkhxTFM5TGxRQ2h0eTJZNklKenIzeUY0amR6Yjg4UzFVbGdkWjVRekluaUhxUmtrZUdyZ0VmbnNYTjBpd3hQX2xFSWhLVHdqVERsV29EVFdETnhhYkpTdHNSOThwVjJkR1I2ZjEwaDE0c01PRHRrbHJsMFBsZzVXZ9IBiwRBVV95cUxQakpaNktrdFUzb1BaY3gzN1A4V19MTVZPZTFfYzFoMkt2Vmd2OUZHcXFZM3YzVUY1LTczc2UzazR4UnVEcEVTSjZrSndBQ1pwWGtLbFE5dDdoUC14LWs3VElGRU9hT3FkRHNyNjVRbXcxUC1WWDA0cjJMeE1EWVowSUNXVjJmZDdRemZyQnRSS19wQ1NDbC1pa3JuZDZpYXA2ZVl1cDA5enF1eG5rLXhrQTBtQTRVblhDZXlZS0VXWlhoMWNfcDFmLVgzZEkxZHBTbHpNOVNRY0k1NG5NTmMzTXBCZ3RWdjBnejdmT0p6QkNLTjhzN043a1EwN29PbE9mVEVXUjdSQmFXaHNkUW45SjdLcWQzNWprNy1ucDdKZzI2cVJxMjl1UExqbGM5d2RCWmZwR01vV1BRM3JuMmtOd0VLMWJrOGxfc09UZUVDcUdOekVXZ0tiTF9ZWGRTajFOMktZdEdkUmRFSEFjUFphbHloQWFMcmg1eW5fUVdVbndZUHl0X0Q3c2ozMnFYd0k5RVpXRmQ1ejZFeTNmOUlBUGFTejREcUlFMUkxYm9XOTNTLXhxeHdya2VfMjVoc0VWdFlhTmpDbzV3c3liTDVhazQzWmRpb1U2VGc1OHZ0cy1pX3FGWGpCWWN2RG9Xc3dHUVM2X28tcUZrRjlETFRscFp5SzZNMHpuQnNZ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 19:23:00 GMT",
-        "discovered": "2026-10-04T21:11:43.573871+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بخطأ من مصطفى شوبير.. جنوب أفريقيا تتقدم على منتخب مصر (فيديو) يلاكورة",
-        "player": "",
-        "content_hash": "6566190b31aa1fe788dc097ec72d2eee444f29a4fe5465eb32d121d2dbdef8c4",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8529,
-        "title": "برشلونة يسحق ريال مدريد 7-0 في \"كلاسيكو السيدات\" - الشرق رياضة",
-        "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQOTZsdjJFa0lKZmdxclBzbzZmazh2NS1PZ0plc0Zma28yMXBEVUFpbDJGcURUczdyYWdpd2dJTmtLN2lqRE9QeEo5ZG1BeWV4YjduTzgxVGt2bnJhY2RFSFlRckVxV0NnclpwQUFCZEcweGRocV9vSlQ4UTBlZG5MSVk4a3FJYk1raDduS1FDWWtsSXdkaDVrX3lHOWhiZXFLSkhIYW9nbkpBdUNiME52RTRLcnNoOF92Nk9zdGRGQXlDSW1Ed3R4Mm1DY2FZOWV5XzE3bkNzNXA4VGFrZTNqSGlSWkVWd1RuelQ1WTctWnhhVkVEeVk1REhTcHh3ZV9mUzY4UGhYS1JiN2hJUGphZW5uTTJZdF9RcHRHMTdVQlo1OGtvTmdDeXhkMDUzbTRpRklnSEJWcTk5T2JEUFJMcWcxR3dTMGt3SExKYTNyZUdueHUzX1YyNGF1bElWOFdJMDJzR2V6amtQRUkzOVo5WUM5RTB4bDdsaFExa2tnRnJGa3VHcDJfRw?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 19:22:20 GMT",
-        "discovered": "2026-10-04T21:11:40.775660+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "برشلونة يسحق ريال مدريد 7-0 في \"كلاسيكو السيدات\" الشرق رياضة",
-        "player": "رياض",
-        "content_hash": "3883f435d9af7aea3ef8ff88885fb3e71fe38a2e80c7220b92ef42adeadb0ebd",
         "sent": 0,
         "section": "sports"
       }
