@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-05T13:15:58.104909+00:00",
-  "total": 142,
+  "updated": "2026-10-05T13:39:28.951088+00:00",
+  "total": 144,
   "sections": {
     "morocco": [
+      {
+        "id": 8759,
+        "title": "المهرجان الدولي المغاربي للفيلم يعود إلى وجدة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJdk16VkZwQTMxMmRRLUxOSElJLWJnZ25vbnZhVlNwSDlDTGdQM216S2taODN6ZTNNM1NDZ25PTXBCallydEt4Uw?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 13:31:43 GMT",
+        "discovered": "2026-10-05T13:39:05.199137+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "المهرجان الدولي المغاربي للفيلم يعود إلى وجدة Febrayer",
+        "player": "",
+        "content_hash": "e010a8e2af2b19efedfbe2e95c934214a4552d2880eea995b09262a8ff5ca6f1",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 8734,
         "title": "أربعة أحزاب تشكل مجموعة نيابية مشتركة بمجلس النواب - Febrayer",
@@ -453,6 +469,54 @@
       }
     ],
     "sports": [
+      {
+        "id": 8760,
+        "title": "صافرة مغربية تقود معركة نهائي \"خليجي 27\" بين السعودية والإمارات - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxOZnlyd2MyWXNVSVZ3ZThUZWdVZ29OY2dIU1dnMElxb01XTnlJUktqZlVIOU9XdWQzRVlMWlNpYjIyV2tYNWUyZ1N0S3RqS0pNSzQ4NnVacVgxLW1tSGZ3Y181S3ZfZHlMVmk2Vl9jNHlMVjRzaE5qYjlxeDZDNElGYW1LTmhCSmVZYWZhYjZZQVRSMVZScGtCU25aV285LUR5OFA1UXRPNlVRUXlXMG51ZFFXbkpYUXBBWDdiWTduTE0wTUh4b2kydUZ6U0Y2U1drcVp2YXZKWTVuZmdhV1NiRUVJcDlJOVBqSVdGREZ3Zi1TaGE3VnpNTlpZNFVFZEZNM0p2bVhDdnhfRWZXTjBUVDNWQnRwblhEWlExTWhsSFgzcjZvcV9xYnV6UjIxRGg5U1B4OHNaVFpBbWQyTmhJSWtHSlBUS3dXRERvVVhKeU9XM1VGTGZseXhhT1NCNWhNb0htNkhnR3NPcjQ3NFZvRG5pU1owSFhoMWRjYXhINXNTV09qN3VueTd0R3ZMYTdiU2x3QldzS0k2Y21nR1U3VkxSbjFjbVhncVpqbXdnUzlXVHVnS1c1WWpEa2Z0M0pHblBCd0VsV2tjUE1Hdi0wZDRfYUJ6SzJDc09OVU1uOXpRMVBua3NRSGd4ajB4T2QyVXhhekdNcTZBU2dKcFBaMnQzVlpCenhGdno1U1hvcUtyUVRIWWV0NVRyUXhwZ29mVDM2aGhmdW1CUm9VaGlSUS1PQU1LYktqZGJDb2VocXQ4SVNaaW5XeVhRemc1UTJYQWlCeXA1VHFGekJjYXE1eA?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 13:19:23 GMT",
+        "discovered": "2026-10-05T13:39:06.910059+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "صافرة مغربية تقود معركة نهائي \"خليجي 27\" بين السعودية والإمارات Kooora",
+        "player": "",
+        "content_hash": "03a2fbcf084f8653105839f6e8e36e4a92590da3de7718de37cb894c0f10f199",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8762,
+        "title": "تشكيل الإمارات ضد السعودية في نهائي كأس الخليج العربي خليجي 27 - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQUHh3YjRRQ2xON3pYS1pTb0ZxMFlqUkR2Mm1oaUhWazJZS0FaUm12N05aU09qekljLVNLaWtiUEVZTldaWEh5cUV6UkNkaE1YTUtaV0pVbFRqUkoyVTYtOVp6RC1iQnRhUlpYU2w5VDlsaTR5eVl1UE1rdUdxYmpYbkZnR1FkR1dCcTV2WHJaTHZCeC1BSGVkeHh2R1VVTGptZFh0X3N6eEJLeGthWHFJdGtRRG1kZ3pDQ0pSQlZGeEl5a2xoNkREdl9hOHdjQm5uQjFEUlF3Z2VQOGdENnJyWG1VdnItM3F2M3lwendHcDFzOHlfUjZnMThRSi1OOFhCQ0N0TG53bkt6Y2h4RWZoNE1TNjU3YUhubXR5akpFR1d1S211TDlDUExXdWFRZmFVbVhJWG9fTzlNaXlZVEN2NHNzY0NrSWxncDRtY0taRXVaQ0EtLVFSbDRpOThCbDA?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 13:16:33 GMT",
+        "discovered": "2026-10-05T13:39:13.654477+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تشكيل الإمارات ضد السعودية في نهائي كأس الخليج العربي خليجي 27 365Scores",
+        "player": "",
+        "content_hash": "9fda7b441fe37960ff54976bfa7635ca857109dcaf7acbc41bda92daa58a5f68",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8761,
+        "title": "وزارة الرياضة: انتهاء أزمة محمد صلاح مع الجهاز الفني لمنتخب مصر - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxQTE9xdlV6aWM4a2RXT1F6OEtMVHZFQVpkVDlMdGhGUXJQSExfSkdCZVN4NDFMVUFzYlBISkpLalR1WFFyWEtRR0Z4R3pyR25LT0R0RElCa2FmZjZaT2pwNmV5eU5YWlpBMTBsX1k2LXRsMlJtdXB2MGJveHBYMGJZLVRITlFUTDNwc0U4ak5PMHlmSmNNZzBNWEY0cmc3R253aWpha2dneE5pSDBseXZGSzlMQUp5SWpRYWFiLWtiUzM5RDUwQ2tKdE5tcDVBQWZ5MUtBVjVsOFJfMVF3QTN3dUVkY042M0s4WDk3OHZVV04wNlQ0SE5rZXRCdXZRQ09jTmFSYXR0NkxJSkd1Mjh5RWJNVl9vOTN6OHhxUi02NmFNNVRDeGU3NUw0cS1lN21ublp2NnMtOGpESGlfS1lZakVuak96TXhwTjIyWmVEM2RqU3JJNmFMME5ONW5DeG1Nb1RWSmhfclZ4MU5aQ1Jfbk9UNjhBckJ6S3RzTGdOOXdnYmR5LXpmeHZnQ0ZXU2w2YWlXbWNRX1BDVDVObjlkZ2U0enhFbFBBeFRJUm9yeWlCS3A5VW9tMFplLS14OE56UmtiT2lrdE9HYVpvYWVFUExNQk5pLXFQT25pMWpSNkVRb2RrNWh4MzY1bEVYNlppQjJLc3J3RGg1WVlkVHlaRmU0REV3TEljRTNscmhxOS1KQVZkTVpB0gGcBEFVX3lxTFBCVzNuZFp0cTA1RkdLMlNUOEloRUhwTG9ueURqUi1lalFZeDJvczhtZkFhS2dnNDZsU19Ib2x1d3ZZTnZPdnlZUTc3YkNEc2VVQ2EzTVBWNFQyVktxMEVseVpYNnUzUXFtcElTbDZYcmpVZjNyOGU2eTZIbDFFRGRJaEpxLTZpME80RXhEdWdqMndXTDZiQ0JxRFppcHN6REM2WjhSTkFLaEhHVzlGaWhaS0FPOGx3YjdDNnJPRVhEU1lJaENlRjVqdk42c3ZLUGJ3N1phS185d2RZbE9uNDRxMU5VbF9rWW82Vy1XX3VwZWEtV1V6RkVVSmNVUzN5ZGJwQVJ2aWJMNEhhZkNMQ0hVdjlCZjdFM2Y4SjlfZDJ3bFFxOTU0cTFVUHR4c1FUUDVqT3FtT21QX3I0MjdwN2puOFViUkQ0b3VUMDFrOUFYSU01SjhmYVVqSWZPeDJzN2F5OURZZ01uLVRIUXYwRU1WTXB1dzczcEtIZ0MxYm9KYy1jZEtxRHVZRnFUWDZKWFZZSjNmTVVhVnV0MVNyeThRczBteTlJNUFPQlpQemd2WE83R2loRG9zaTlhOVVqcEVPZmF6aVVwS0RobUlYM3JnZHNXVm5aNEl1cHZaemtlQ2M4ZXAyVWItMm5tSXdiTU9pR2xVSGUwRF95UkRJTU9XNGJyQldVT2pEOGxvT2Rva3NZMFFhaE83Zm1CbA?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 13:11:00 GMT",
+        "discovered": "2026-10-05T13:39:12.403555+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "وزارة الرياضة: انتهاء أزمة محمد صلاح مع الجهاز الفني لمنتخب مصر يلاكورة",
+        "player": "رياض",
+        "content_hash": "87c24b50817e96d9e36d20a70ca83b1fc9f40330a7732f59b60425e8d8410a0d",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 8748,
         "title": "اعتذر بسبب خطأ ووُصف قراره بالـ \"فضيحة\".. من هو أوبرينوفيتش حكم مباراة الزمالك والأهلي؟ - FilGoal",
@@ -1202,54 +1266,6 @@
         "summary": "winwin يكشف أسباب غياب بوداش عن منتخب الجزائر الأولمبي winwin.com",
         "player": "",
         "content_hash": "ab085152f6b27caae289a92691983e13bc6d7f5434889eee431815c448741a75",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8690,
-        "title": "تعرف على منافس منتخب مصر في توقف نوفمبر - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HUDk2aW54M2xVYUhTUXBpem1PaEx2LW16WVpVcDdXLVR5Wi04WkE3LTBjUE92VFMwaXFpUmhVOGRQbmppbWVjZ2NuZmh1aER50gHgAkFVX3lxTE0zOF9DcF8yaXNWQ3plOTlVMTlzcDNEZVY4U2h2TURPRVRyYURXYVFvMDZKY3JReVdkZGs1Z2hOYUxMeDVJeWp2UEtyeEl0d3hvbkcyTm5PaHNGdG9IQWJLYlVOek8yOWhFRDBCOVE3cGZJTWtZelZadlNmRGx0blpaNkZmd1ZwN2dJTldITWxqXzUtdWRLTmVzalJ3N3NxZ3NjaW5RWnZKOHQtUDhHTWJqd3Z6dWxVWFUtdlZneFlMZjdkSVRydlQ5SkQwNkYwSzR2bUdIOU9BNmstOGtuTnI1dnFuMTk2V2Y4WUR5dFZHdHhkalpib2w1UmNFX2NXSHJzMFVMaFFKOFczMXd1RE9QcmoyWXpVQTUzakRRYTFiaGxvUmRCeHFjbzh6SEtEalp1NnN5dGNhSUJXc01fWHlRVE5aNHFCMVYtQ2UzVVJNQ0xjVm9QX3hnZ0I0QURDN2Q?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 22:10:00 GMT",
-        "discovered": "2026-10-05T06:31:33.519449+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تعرف على منافس منتخب مصر في توقف نوفمبر FilGoal",
-        "player": "",
-        "content_hash": "96589ccb00ebec3665fa1b52901d3129467b83637615623c60203812a166e8af",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8580,
-        "title": "تعرف على منافس منتخب مصر في توقف نوفمبر - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNdExvSHp1SFpIRHF5WHRtSnc4aEhnTVdCVzJ3UGwxUE9oNFhFZnpyN2p6RmR4Z3VLV0lXeWNaMG10Q3l2bXJLZE1WUDBIUzFXaFJUMzBVdTZYaUhQNGRrT0VYMUVqVXBpQWZIdGpPNS1xQXM1LWVKeWQ3VlpGTExUdjcxb1Z3TGNZSnplYjFpLVRsVXdBTTNNX0xvQWtJYVZmZDdqRzRtV0hhRlQwNG0xVHNJQmVRLWYxSmJreEw3WldyMkl2Ty16NV8yazNmblhJemtNZDJZT3FURTlsbHk4d0ZueWNOR08zZVNyWHNTUmFnelFjbjMtSDRZM2kyZERSUWI5WGNqVmwyWUFTb0Z1Z0N2M2V2UFdnNUI3ZVpCY1NvZ2lJT2xYZW9BdmRRVHBoamItSGg5Z1hOeUZHLXVpb1RCV3B2MW5XMzhTMEE3OGhpMEotVjVlOW9HWdIB4AJBVV95cUxNMzhfQ3BfMmlzVkN6ZTk5VTE5c3AzRGVWOFNodk1ET0VUcmFEV2FRbzA2SmNyUXlXZGRrNWdoTmFMTHg1SXlqdlBLcnhJdHd4b25HMk5uT2hzRnRvSEFiS2JVTnpPMjloRUQwQjlRN3BmSU1rWXpWWnZTZkRsdG5aWjZGZndWcDdnSU5XSE1sal81LXVkS05lc2pSdzdzcWdzY2luUVp2Sjh0LVA4R01iand2enVsVVhVLXZWZ3hZTGY3ZElUcnZUOUpEMDZGMEs0dm1HSDlPQTZrLThrbk5yNXZxbjE5NldmOFlEeXRWR3R4ZGpaYm9sNVJjRV9jV0hyczBVTGhRSjhXMzF3dURPUHJqMll6VUE1M2pEUWExYmhsb1JkQnhxY284ekhLRGpadTZzeXRjYUlCV3NNX1h5UVROWjRxQjFWLUNlM1VSTUNMY1ZvUF94Z2dCNEFEQzdk?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 22:10:00 GMT",
-        "discovered": "2026-10-04T22:25:10.925696+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تعرف على منافس منتخب مصر في توقف نوفمبر FilGoal",
-        "player": "",
-        "content_hash": "96589ccb00ebec3665fa1b52901d3129467b83637615623c60203812a166e8af",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8579,
-        "title": "بعثة منتخب مصر للناشئين تعود إلى القاهرة بعد المشاركة في بطولة الصداقة بسويسرا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxNLXk4aU1SajQzTWlBUmNNMXBsZzRLZDloUjFGS0U2UUdzbWNTMW5qUHItWFUxM1U4Z0gzc2N1T2dORGtQU1hXUEp5V3FSVmkzZnpZc2xCQnMyYS16cW5tdFdnVlc3Wkx5a2tJaDNRT0FYeDBmQllWX0JHUk9FdVlwVDRkS2g0NEI3eFZSZUlFeldYdFBLU0ZURFgtU19oRjJmTnZ0TkRXYkRJZTZqRnpDWGVRcks0U1EyQXpLU0EwSFFpODlwSEZtaF8ydHpCczhyb0pFejhlam9wSGg0U29MTzlYaElYbWtQZWdqT2I1U21ncjVZQkdnVDloUzFwUTQ3d3QwLTJGMEp3TW1jWGVfTGwxdUlqN3ltTHZETGZDM2RTT2tSdDlIR3VXSkNWc1JlVGNkXzRlV0pobEhVM1BtTFFkUkNZLUxZV2JMMFZwZk9OX1R2ZlJRMlllWm03SHRjYjZwekhvdVFwT29la0t0emxLZXJuU3ZsWW9sTVVrX014VlQ4RGxRYXdXVlVFeHlXRUVQMVJsNDhQM2g2eWlYU2lQLXZ6RHpocVVKOHBpUTJISzZjS2NEZHFRZTZ1VUhyQXF4V3lvRDJPdW1TTHI4bWhudmI2ZWl1alo5YThCeTIweHJPN085UEZ6cDQ0b3pZeU9JbXRTZHltdjF5V3JHQlprMkxORGxQZmxtZ0wwY2dkN1E3SV8xVkhYR3hncXhZb09oeWJQTTNnQXVxVHEtWnRfSm10U282YmJ5d3V6aXJPa1FrUmFoQTdQdXhZSG5fLV9za00wM1MyTjdTdHdVbVQ0RWxIYkJMYUVDVVRDY2ZtWUZtM2NTWmt0aFNuMUhnT1ZFdlZMS1FEQXRvN3hYT3A2bVdOeDDSAZwFQVVfeXFMUEEzbUJJN1pzZHNUY2FtSHZkT2RiTEI5ZzBjcHBLOHoweUphRVM0eThnYlBFUDI4R3h2LUVIdTktcFd5S0N2VFQzU09DZkY2MlM4Xy1YU0pTQVZqZjJFSjVnenRkSkxOaktaeEw1MnVycVRyd3FpR25QUzlzUVFHN3BlWlpvNkIwYjVrX2VndHQ3WHNMRzlkOUVCWS1SZ3BWaGxEMHlRV3Rkc1JkN3FSZDhYZmhFWDJZclN3Z2xDQXY3YXRFbFlPbTE4QTNDLUJ2czVnQzBsdGdZMmxSMEs0WUMzemhnUUQtYnhJS2o4aEE2ZGhiWXVzd0xJUXQzWDZSUkZSaVNxN29JUmhMQTVUT01HYnVEcUVFVjJkYzFZWDNhdlpBN3ZQdVhHc1RubWZMWUFIS1dUaFdQYTFHQlljM3hBbWRXUzJNTzZ0VlFFX29wNF9fRG9sTHhDal9jWDYxTTVGTHJHa2thaWRUdkk0ZFB3MXk1aUpPY1g2R2J1TzRJZzVNbF9FZHZfdG5MeXJ5UG9WNDk3T0NlZ09hZk1tUWlCWTJTR0YxTVhTeEk3UHBYTVY4Z3hLVkp1MWFkcGNYbDNSRUc3ZXZ6QmpVT0NscXlMbklpYy1SamVBbzdOUDZpM0dTMHgyY2hGUmtfU2M5VWROT2xBQkN6WlRCUEJudVNwMjBmTEs2Nk15MzRCMkViSmNBeUswdUEzdmZ6a21lT3lta0dKdm9jSXJFT2dsOHU1RlF6VkVaMnNZUS1zclBzeWxUUFJyMHRLV2FqeG5VS2RhVTRmOUk3R1gtbGNTaG5HQkxIRl95LXNFRElhWVo5OXhWSmIyOUlveEpZOWdoV0tQNG5wZ0VKWEFFOFVJY1dVV2hud3NTcm5rWUs?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 22:02:00 GMT",
-        "discovered": "2026-10-04T22:25:10.328435+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بعثة منتخب مصر للناشئين تعود إلى القاهرة بعد المشاركة في بطولة الصداقة بسويسرا يلاكورة",
-        "player": "",
-        "content_hash": "d168fa307a3a63a10c7c1af35afcc4b3daaed47aaa237e9e1a88fc4b25ac6254",
         "sent": 0,
         "section": "sports"
       }
@@ -2011,6 +2027,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 8763,
+        "title": "فضل شاكر يعود إلى مسرح الرياض بعد 14 عاما - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqSkIzODE0SGJIT01SZ0tJbEtaMl9BVUR0Z0wzUV9wZ2xYVjUyLVFSZ2pidlVxU2RRQTBfYXV5dUZNNzNHbEU5SnpVN3hvY3JFM0FGdFNfM1VuRzBXelHSAWNBVV95cUxQN3kzV3V0YTc3UFdUblFYcy1CeEYySDQ5Sy1DdHI0ZmM2eG9LSW1tcEVmckdYdXZralFLQTFpTExJdEdNczJxNTdlT0UycFRlOE4xa2xRQWl0QVI2MGNFUFBUZjA?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Mon, 05 Oct 2026 13:23:37 GMT",
+        "discovered": "2026-10-05T13:39:25.917012+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "فضل شاكر يعود إلى مسرح الرياض بعد 14 عاما BBC",
+        "player": "رياض",
+        "content_hash": "284b6f21860e761b99344b99ec8750870a12d2210005229018e30c35c47f2fff",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 8750,
         "title": "أطراف اتفاقية مكة يناقشون في الرياض سبل تفعيلها - القدس العربي",
