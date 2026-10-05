@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T15:40:11.087825+00:00",
+  "updated": "2026-10-05T15:56:57.019396+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -16,6 +16,22 @@
         "summary": "المهرجان الدولي المغاربي للفيلم يعود إلى وجدة Febrayer",
         "player": "",
         "content_hash": "e010a8e2af2b19efedfbe2e95c934214a4552d2880eea995b09262a8ff5ca6f1",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 8793,
+        "title": "الرباط .. تحديات القيادة الاستراتيجية في مجال الأمن السيبراني محور تدريب تنفيذي للأكاديمية السيبرانية - | MapNews",
+        "url": "https://news.google.com/rss/articles/CBMilAVBVV95cUxNWTg0a1lYRm9aYVAtbl95YWJQLU1KdXVnV2hiLWxqNHluY0xUM2kwV3QzeDJhTTJyQVl0YllqbGZlbVFQS3ZVQzRXV2IwM19Xczl3UFZoT3VGeERobHZsLW5BcWptaVVxTzdYZ3ZPb1Rxd1NHam5zQ3VlcGxZZjRmOXRmYnJVemk4U3BZLXRuWFEtZkRyRW9pSTRvQ2t4LU55dFphdUtUbnkxMzFuWlZSMDRqSng5Vnd3Rl9ZZXdsWEYxY0FlczFBbmJIbDhpcGdMak04RUdCNURpQUd1XzBlY08zNXQydlZEYWF6X2Q4cERFbVRPNWZ3dHVlZjlDZFpqRUpEM3g5LUVXT2h5UWZFSTc2dnVYcEZnb1lISUdqVWFIUmNScHdlMDEzeTRhNzZ2b2JLOGRlSm5YQm02al80c0g3SDhaaDVNWGZLWWdSTjJqSDQyZXlHVlczanl0UXJoa2pKVTk0N1FBUGhfWmJ4OE9oMk9nSGVhYzBndlNSSldSSDZuLVZqWmRkV0YzSl9TaUkxMzNHcGdtYlJFTEp1TUV5U3JvNjhobVBlRVNZME1SLS1raHRDSHA5aVZLSm9CcUNGc0ctQm9XZTFLaGRTZmhtRzdEWEhael9oemlNWVNqSVRURW9Yc3gxRmE4bmM5MFA3QzZHVHZ2QVQtU04zZi1BTnVfenVBR1FEUGdSQWtFeVd2Yi1tNUpMOG5uNlYzOVhOQk5xVzlUQWV5azlVWWpubjRYS0ZNRmRUT0Z1M3FiMDdZYmVKdE9FVUtSNFFjV1N1T01XWVBCTVhndDBCRE5CRmlMUmtFV3NzQ2ZVRWx2M3NYVjktMkVFNG5seE41ZHRLRVBTSEtLUGFaWE54ZndkQ1U?oc=5",
+        "source": "MAP عربي",
+        "trust": "A",
+        "published": "Mon, 05 Oct 2026 12:36:21 GMT",
+        "discovered": "2026-10-05T15:56:23.600213+00:00",
+        "category": "أخبار المغرب",
+        "status": "منفي",
+        "summary": "تحديات القيادة الاستراتيجية في مجال الأمن السيبراني محور تدريب تنفيذي للأكاديمية السيبرانية | MapNews",
+        "player": "",
+        "content_hash": "2d38114602e73449e7f545e8d6dc545375f9cd36d1e67038d4201588c0400e5e",
         "sent": 0,
         "section": "morocco"
       },
@@ -502,6 +518,22 @@
     ],
     "sports": [
       {
+        "id": 8796,
+        "title": "استعدادًا لمباراة زد.. مصدر ليلا كورة: الزمالك يستعين بـ 16 لاعبًا من فريق الشباب - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxPMi1LdGNwNXVqcS1oMHB2NE5xTVJNWEphVGJUQnJURV9Jc0xKWW8tZUVLWEJSczhVbGVZNUVYQWh4SXU2ZTJRa1h2ZjZ3d0pkTFlwSFV0YVJpck9FcTJ3NWN6U3FvWWlXYmlsYmNxdktuRjJjSlZJejlxN0pSNU5IXzg4a2NWUHhvenhLNDJ6dGR3bFVzZTgxQ0EtcHd0TXlWT2FrckRxMDFDQzM1T2ZRM1ZzUlhseS1tUnMwV0FpYXVaSEN3dFhiYW5aOVp3bTdEaUZoWXpscXhYbWpFNWl4YlVTMHFxZEVxQnpta0ZLRm9DaXBac0Q2VnY3anNKM29tZUo2N1Azb1kzVVVwT19ndkFLN2xSWFByalhiOWN4MWkwUm5QZ0hCUzNwWnNlY29lXzNqNWdwSlFVTE53b0diY0Z2Q1NqV2xLVG9BWUdfTXBNZ01FVnB4ZmEydy1IdjRLckkweW1WQ08tbDFjQzNxNEtBVk80OHNVcjd0SjdBaFJUczUtTUlwOWlWTjU3bVpWM1I1RW50dnJUTF9MV29XazdreW11bTlJYmRINGE5WmFnZnhlYnVzWHE1bU9FZFNsMjRDTXpBRzB3Wkx4RHhEeVR4MkFJVzZOSUxYUGtZYVN5dS04N091cTFZbVBsZE56SXBIX1RldTJyZjhIaDVUTXhRMjUxREwta0gyR3VNNVJyQ2dwaXRMVDEzVWVweHBNWDhqakk5ZDdlLXZXSEVkVXFNd0lnTFRsU2toTTZQN2ZnRkFjQVJudjNLUjV1QlU4S0o1NW1Ia2RZdkRVUEtlWHpHbDFOUWdXUkHSAZ8FQVVfeXFMTkdjUERqNGFrM3hkYXA5TlRoUkx0S2pDXzRRT0tEYTRWNjN6MjR0RThwNC0yUVVfbk15ZzA2YXV6UkhSYVRySXZ4YjdXeTVPSFZSRHMtNkUwdHRzZGFLRWl4NmR3eU90ejlEeW9uSlVhOEdJU3F1Q0VSMl9Dd1pTbGVnYnVBNmFscndLVkJpellYQkdUT0ZNcGRvdzVSODNmcUIwYjh1MkVNUVoybEdyN3YwTEs0RkFsT2VDOGhYU2hUWFhFd1lWVmV0YXZBRHJZWVFWaUprTVRLVkswdzMxOWwzM1VPckhVcFkyYkhPcnBWTWpzWUdnbDl2QkpDLXJ6aDRxRWFRdEk0UU1YdW1RWXVVVVRzMHNDbk45WDlnQ20zMUpxUGo2Z1BEd2NlZmtkMTRGWFpUSlduMkxibFA1eEV1bHpjNWwtX0NsbTVzZjU2RHlhTkR5R1R3bWgwNzFhazZVZE1TQXNQNld0Q0VjNVctM1NWbGMyenp4RFZ3UVd3YlBUUndOQTNFTnB2ZHFYQ0hSTlNCZXpSeFpjZUtFcUdQakIwcDVLNU92aGM0RFJGVmFYaWl1WFRrN0hTLWRkOE44bGV0cUNteGQwNk5vRmw1NEh3dVFlS01rRm43dHI1WWk5NVRtR3pIX01WdjJmWl8waEROYlIyTU1GR0dkdUZSYUpwQW5sWHV3Sm1uaDBPaTJSYTJoMnl3Q2FLMVZqbGNvQk1TVkNlb2VGNlctelNBbzdQMnJ6aVk3OER0cXNkTUNZMFN3REN1Zk5uamMwYUZQSkh0TlV1YUpTcU14THM0cFRIZkxWRGZ5bE5sbTAzeXRMbmNmVVc2dXU5U2l2amYzbVBIdEF5ZTFJYWpOXzY3MmV5SjhiSHRYRnhtTjA?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 15:38:00 GMT",
+        "discovered": "2026-10-05T15:56:38.838655+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "استعدادًا لمباراة زد.. مصدر ليلا كورة: الزمالك يستعين بـ 16 لاعبًا من فريق الشباب يلاكورة",
+        "player": "",
+        "content_hash": "bd2e01de9ca0dcb5eeb829167c7649fc391c527d8515d1c250656cea3569224d",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 8791,
         "title": "سبورت تكشف ما حدث بين حمزة عبد الكريم وحسام حسن بعد خسارة مصر - الشرق رياضة",
         "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPSmlxLU1nMGFWeUpyYkFIelBqa2VQbllHY3o5TU40blN1Ul9lSTZNRnhOZU1WNUVIOGNLSTg2aUN1Nm0yaUlPMlo3SEgwNkt2azZsM0VoX3FheGxmZTlEdURXV1c4WTdnVWVvVHhwZW9lM0JRdllHVUJSeWNjV1hyYWgxTnN4M3o3OWg0VU5VTldubFhpMEJKMlplN2p6Z0RqelhmUmpBUG9SeUUweURQaDVVbG05LS1fbW1BdXJRN3RQaUFRNVc0NUJhZnNUQ0VCc01wME1pY0JocUtndWFoMTBhcnhYdE15djM3SnQzdlNTWE1fOUFINTk2U2JvQXJqekJLa0l4ajlnT1JoVi1KTmhpV0VQeThvVHhFN1dxZ2hIbWhTa2ZEQUNHX19Lc0w4SkdaUU9ld2pLVkFFNHlSRVdsb1lZTGZPSEszSll1dDVidk05b0FMcmU2NWkyQWZEVEpMSzZ4ZWFXV3JRcVVXbzFVXzZVeVZxNmNnRkVPbmh1QVlXWnB1UGdUemlqdTdzZ2c?oc=5",
@@ -722,6 +754,38 @@
         "summary": "طاقم تحكيم سلوفيني لإدارة مباراة الزمالك ضد الأهلي FilGoal",
         "player": "",
         "content_hash": "209223a7b502914a928f2c7598d0bab5551a01f73d15f442542e6183ff4649bd",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8797,
+        "title": "كرة طائرة - سهيلة وفيق تواصل رحلة احترافها الأوروبية في الدوري المقدوني - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxQR1FIbXhZcGJnV05mUWpGRWk3SUsyY2lOYk80bEo5S1kyTF9ocGIzVjl6UWxNV2Y5NHdDYV9zTXJQOVhlNmpkbUdMRGVHelltREFNcFBHTUkwMTZPbWNnX3l5WUxTU3FyUzVmekw1Q3I0cnNlU09ocWpraGZvOV8zbkZ4M2Y1bzlfTGhKSF9zTFdkemVUdGlNNnQ5Z1dPNUdsS0xEYXo2Ty1IWHJucnp5M1BpTFNpOEYyX1JWX1c0YkI4dm9YSlpSNFIxZXd1dkxmUFRvNTBJOE81UnBNa2h3ZHRzVm1CbWFnZlgxUlFFcjVMUUk5YVdFVmNENWFwR3BzSzliWWdZXzZQYnliNlBsUzB6Q0VVc1ZDQ01MYmpMdy11TGx0VTBZX3MydVMzOVRFOHhYM3E1X1RiczNGZDVXQnZNUFJIUnBCUmtPU3BqTllYcGhEbWsySDdqTkw3c2huVjJlbV9xaHdtX2JabU96TXFGMnlYbThNa09MWEN4T0JaazJ1cHQwQTV1azJ5SHF5d2RkNDdRdFZBY04xRmNaZUIwVjBWaGtELWxiLUtHMnZWVkZOTUtfR01UM2VGRmpJVlJrbkRUSWJEVzZTeU1Na3hTdzdWbU9LRU5UclBHSkU0VDcyczdXNXhORDlld0M3UlAxOUVubzV3dTlMbF8zdzNOOFhfcENYdUt5akZKS3ZNX3VUX1o2d1JhX1U4Q3ZrSkhuNGVYVXNhVFVLSkNpZXVZbDJTRUHSAbwEQVVfeXFMTXEycEJTemh5b0ZfR0tEdHN2bnQ0NGNrSzFnMlZEY201LWQ0bGljT25tYS1rSGk3V3BQd1d6VkpTc19UMmhrWkowT0h3SXJSVFZiQjFGX2w1QmhwTnliWUJqdHFtZXNSdnd4SlRfQzhRSTdkcVpDbE5NcldpSXUyNExLRXZDU3VsaVducmVaMldNVzFhNFNPZm9BR1hGalEzOUpHUGx6QndMLWJENTV1LWp5T1R1Vm5kRmxJNlhObmJ3V1J0UzNHcjZvYzIwZkZRMGhFU25VdFdVX0MxUFU5VkxNOXFEUVp4VXZjWkNBODNDMzl2NkZGT3FBUGJCelN4aDRTQmlRdzdEZlB2dmhBT2c4WnV5RXFwZjFnTHR2cnpPbFRIM2RFOHJ1SXBidmMzMVU3X1pSQWRJTndGT1NJdGhXLUVkWThNUDVPWHMySXZ4SkNEQjBBSzJrUEJBSnF4dHhZZ2hYaTBKNlZ1M2NwcXdlVHBnazZsaHRKaWFoeDFRMDB1WjI1a25falFXVloxRGh1NFk1MlUxRU5GWlI5ajNlLXVTbkZDQlo3Tmllb3UtcFNwSjBwVktmZVlRWktSNk5fUldWSDhiVGdOZ1BTVGZnejBvbmNPRlNGandSeDhiTmtybGFFVERHM1dySm4wbHBLcEZsaDA1OFVScGd3MFdPcm84R1U2blItMEpSNG1QT25VRXdHRnZhWUFqZGZvU3hKVFdYbWVmbnlFX2lWenlZSXlCOEFManppLWQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 11:28:00 GMT",
+        "discovered": "2026-10-05T15:56:39.749825+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كرة طائرة - سهيلة وفيق تواصل رحلة احترافها الأوروبية في الدوري المقدوني FilGoal",
+        "player": "",
+        "content_hash": "cdb9572458f5d2a2ebe2b623998435e03e9534362c427740af8d3f82d47d1ac5",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8795,
+        "title": "الإصابة تحرم منتخب إنجلترا من جهود سكوت أمام التشيك - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxNTHhFd3JyblRpYlNLU0U5OXgzOGlQeGdhOHZWSjlMdFBzQ0VjaXUzU2RQTEl4SnltZ29MQXdlRm5vMEZjQlJLTE5LRzF4UG9RR2xKdEl0Vmx0YThzNnZnMkdZWWttbF9fS3Q2WDFXU3F6akcwM1VXaU1CLXFkNTJNNXMtRjFnU0ZGa0xENU9mc0VmZ2dCVE4zLTNUUERVWDBaRGNIZGVBZmxaTUdmNC14a1dORXZUOUdGeGIxYkZtZGl4SlpIalNwQmxIV2Vsb1VGbnV4bTgyanppRjdsZllPajJkTzZUaE1LMTdUUkoybWVCcUV1UG9VN24wYXozYllXVFMyeWFJX29ncldYZUwySmhBWUhmUFI0RjhGSGQteFI2eHlXN21ycWxhUmV3RG51ZWx1a21aT1R5TGlJTnJDNzVDQzN6c0IzMnFyM3R1N2duQUV3SXlDdEZzVFhYQjdWVWNPUFdIRVdSNER2WkRMX2lXd2N2Q2RrMFhpcGsxTHZRWFRWS1cxY1QySFRwZHY0M0JpYWNLbDZKbFlPVjI0SExmSFNqcndMZ0psbUMwTVAzM0hXTUtqYVdPQWJvdVJYOC1Sdlc5bUFUWGpSZTFWa0RXdEVSUUxYZGVDbmotcFBEWGdVSkRqcE5IV0xlV1FuektwRUpHdTdyUy1TM21wQ3F3bzVTMDFwOW51aS1fS24yR1JjLS1ENUFtejBNVUh0ZFhMVkl0Rks3cFFBOTZkR1U3dTNPSEU?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 11:16:00 GMT",
+        "discovered": "2026-10-05T15:56:36.407921+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الإصابة تحرم منتخب إنجلترا من جهود سكوت أمام التشيك الشرق الأوسط",
+        "player": "",
+        "content_hash": "c30e359d59f702926e0c81489252f9eeff162c8d1db4d68cffbcb7bd5f9ee84c",
         "sent": 0,
         "section": "sports"
       },
@@ -1252,54 +1316,6 @@
         "content_hash": "4811e4891570e34617db5b88ea964b7df04b9039d73e2ad680f353e1a1e21028",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 8688,
-        "title": "جورجينا تهاجم مدرب البرتغال بطريقة حادة - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxQbnk2YTA1Z0RZQ2RURmJlSkxOdnp2X1hNelJFTHJFSGhIcnFqUkI2ZklzS2x6T1A1UTVleHBJVFRsb0FQVTMybklLeHdxQUY0NFRpSGtaaXlqMldBa2tKbUFyc292cnFaelQtSUlEUmhzdUpGNC1HUHUxRVBaVkdzajd5dXNxVE1SQmxpb280R3pjX3dpQ3VXc29pSjNOd0w0bUZ5MWR3SndFeThMQW1Ta1dFd2FZV244ZnpZSGVlcERIVG90akxUSjktRVFaRWNsWWpSMWQ3bkw2S1ozNUpYaFNUWDFZUVY0dmwzS0hZdUN4VW5lOEpuRkR5dHdLa1ozc0pDNEo4d0ZsZlJxZi1NeHJHUzdHVzRmZUduRHBzYzdkU0RVaTAwRWg1c2hDejRMdDVtWU1ETXk0aTVhR19hR0xkZnhPM01PYTFPSDdKSjFYMnA4MHdDNkJ5elhza2FzbDVrbEw0Z1V3NHRlUjJqYXdmaTNmYmlkSzBsRFZBaVZ5Q1g4X0hsMmRMa3Z6amJJSm93WHg3UXlhcERyVG9mVXdrWnozOW9xTlFBMnVwdDI1amh3T2w0V0M3ckFxdzQ2QXBZcjdaeXk?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 06:27:36 GMT",
-        "discovered": "2026-10-05T06:31:28.398630+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جورجينا تهاجم مدرب البرتغال بطريقة حادة Kooora",
-        "player": "",
-        "content_hash": "1577089779ab6fc45042f7afbc10d4ce46ccb24efbb2634989052a0f8534b58e",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8689,
-        "title": "مباراة فريقي السعودية و الإمارات في بطولة خليجي 27 - النهائي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOTFNQRFBoUTBaYVJKdVZQTS1McEpKb3J5X2pYZ0lhVzI1dFhNT0xhYkxOV3pBaW03c0VNaHl3RngtUlRBcGtOdFJERXY0eWZ2enU0LWJEN3lhbU9CbXhJTHR5cHpydHkzZVJXaHcxZXdxa0R2V1hmY3l3eWVxZ2V4aDFQRVJWWHJtbkZBMk81bm0zTjMzSlljNTZ5dUswX2dXV1RPZUlwc1FoVlpXTmc2bXRaNW8zR0JWWWo2cS1WU1ZNY0FZMWF5cG5zVW5sc3VmWmdiellQcHhsUWg5MFN1Y3lzWWtaZW5yM2Z3WjNyNlFGcklxaURaMDlvWE9SLU52QmRQT1hRcU9NeG8tMGdoalFybFVVTHRyaWp0NnhwYU1lclJxeWdrWFl4c3N0TnFiWjNtSjF5SFFhajZLUVJCSFR3?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 06:15:10 GMT",
-        "discovered": "2026-10-05T06:31:33.514829+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباراة فريقي السعودية و الإمارات في بطولة خليجي 27 - النهائي FilGoal",
-        "player": "",
-        "content_hash": "132859272d74f9a6bab0193061d00c88ea6e4b6d70ad36d4b3faec9641e9418e",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8732,
-        "title": "لاعبو أيرلندا يرتدون شارات سوداء مجددا ويرفضون مصافحة لاعبي إسرائيل - alquds.co.uk",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQcTMydWtxeDJDVE5kU1B6Mlk5TTBNbWNBWkp0VmUwOVR4QVJxY09ISkpPTjRaM0xzWmtlU2ZRbVlSSWwzLUtMeUFyTWVNOHJsRjQ2RFBIakdNWllPM1FzMWk5VC1ob1dGV24zV3BCZW1BSE1UOXNZdktMRWFZYVhqT3QtLVN3VEtzSldXbGdobUdfZG5nVFZzVHBRYTNpRUo2VE1aQWNQbnhYelROX0FVMjJBQUlzVjk3TkpPNHJFN1pNRUtXRWZrb2RrVkdyeHBkRk1Ec2hkWFdtMVdtRTByTngyOXZHckFmNWcwbk1hbGZ1Q2F5SkxpTTJpR0piWTRlT2VzWHBDamZydG9CWGh5MHBiVWtoQXZqZWREZzVMU005WVNKQlV6cTZsSUtCakRseU5vLWxRMGZSMmtiQmhuSTk5cERRQQ?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 05:29:41 GMT",
-        "discovered": "2026-10-05T10:43:42.330666+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لاعبو أيرلندا يرتدون شارات سوداء مجددا ويرفضون مصافحة لاعبي إسرائيل alquds.co.uk",
-        "player": "",
-        "content_hash": "661d1b4248f1f6f861600fd958ca987211c6ff6f4b5e6d5b657cd057886e959f",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1704,22 +1720,6 @@
         "section": "transfers"
       },
       {
-        "id": 8295,
-        "title": "مصدر مقرب من اللاعب لـ في الجول: ياسر إبراهيم منفتح على العروض المقدمة لضمه - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EQU1MMU9fQVRMT29tcXhZTklKR1RNYUNnMmJId1A5QzNpYmw4V0QyMGJrbEYyQms4UmVmdjVSRElnT3k0bHNMWmplS29sMko30gHQBEFVX3lxTFBlVnU3cWR3XzAtbEpLWW9ucFRVVzV2RzFSendZNDNCd1MwRGJ1VEkxMDRoRHluNG1RNTg5R1VCNW55RFUxaWd1bi1MeWthSVFyWU9iaWpodGtCZjMyZ2Mtc016MjZjOFplYy1kNkVzQUROeG5TMDZEdUhuSGZUbjBoTERvaE56eGlyOUhsTFl6R1Mza0JKSEt6amY2SkdSRDQ3YjZrXzQtblVTMWJxTFc5dEx1S0hLSXVJUXk2YThQZjR2bzVnUUlOZDZpUk9lbXlfQ2lCM2djRmtXQU1tamFySXFJRTJiYUVscDJGdlFuVzdMZXRPRnRBem5tSWRrMDVJSWVZX0locWFPdS1HVEI4eG5adlJYMTRFU01NVUh6djN3N2ZTZlpxY1pVVnhHRXRHMGdhUjM3RW9qQk5DZlZjQ1plZzMtXzRZbktlX25QSjRRNzJMYWVXbFlnQ0JobXM3cFZyQ1p2Q1RfWUpLdUgyeU96enNhVUhkdXNhUWtfV01vZkdrdDBqel9Ydi16azNCRUp5cXU3T1c2Sy1vLWRNdFVpOFFhSlVwby1KUWVXWkhBUGFoeks5QUhYWkFLTWRJWjczV3NMNHE5RjBOUlFMMVZZY0V4QlpkVmplcUp6ZEluZFR0WjZPYWFkSzgyWlo3VWFtdldPQ2IzZzdHVExkOUpmeGY2azEyYVM3alFXX1JBNGRGOWtUVDNWOVBzSnl5Q1pTN29ubUcwUEgtWlYwczhyekVTdTE4WWI2VFFCczJ4ZHlFTHgwbV9oN0sxWEY?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sat, 03 Oct 2026 16:22:00 GMT",
-        "discovered": "2026-10-04T00:08:03.767352+00:00",
-        "category": "الرياضة",
-        "status": "منفي",
-        "summary": "مصدر مقرب من اللاعب لـ في الجول: ياسر إبراهيم منفتح على العروض المقدمة لضمه FilGoal",
-        "player": "",
-        "content_hash": "c32178e2cc2353faca9c8cd08c04ea3712c1ed9487dea95a181a0bb42011e5f0",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 8501,
         "title": "مخاوف من تحول لندن إلى \"مدينة أشباح\" مع استمرار مغادرة السكان - اندبندنت عربية",
         "url": "https://news.google.com/rss/articles/CBMikwVBVV95cUxQUUVJY0lDWUdhMUVBS1poRnpOTVhjOTdqNTZMdE05UXhWOElHOTNKbV9WZ2cweGFSakNaQ0hJektFbjRCTmRCYmVUSnBjNTlnSVBiMlhNekluOHNHOGM4QjhYeldHNW1JVEZqV3BzQTdLaEJNYkhkVUFaR19sRlRPWUgtZWFZQXlWSDNjUXlwcU5pUWw2bml2eVpoTVRLc2dxOXhiamlqRXFfZ1BkSVMySkV6cVNDSFlKZEY1eng2TGVKVEFVcjl0aE92a1IzQkl1cFZVNXBnNkowcVRsS1Vla2hEMTdXcUc2alJPNkR4cFFxU3JMVWE1cmRFSDZHUTFEcEpWcUlvdzVSOXd3bHh5MGZIVDJpeVdkQjlTd0dXT2Q0WWVSeFNLNzhaUXVkWE5mVi1UNjNrZFpMX0U4TG5LUDZHSW16UVZlcll4WTQtLW9CZFRqMzNRWjA0NEJpaUZidlBDT1drNm9rdDFROFhGOTljcElBdGtvbURBVXg4SFhiQmtKZmd2RE04S0hxa2cxR1Q3ZDIzSTFHa0d4VzUwbXpQWDRrZVZTX1Ria0VkUkI3aDlPdzFMOGpQSTBWa0dzUGVzZ1l1bzc4bXJwMEJGMWxsSndQS1ZTQi1pU2x4dUFfT1NvTTZ4eTl2cnJxSXR1cmo5VURONWo3WC1Udkk4bDZ2RmJyT0JiT0ZpTTVFT1hFMW5yRldDNWsyYlROUElfalFXMDl0Zl9DMC1GY29zQ0Q3ZTU5eW9WdFg0QVVibWs3aWdaeUtseUVyN2ktdVR0MXRzMmxXOWhVTFlMdGRoTm9MblBQQmRRMVd0ZVdYeVpxVWdHdVNJYVBjYUNuZEtsRkNqdkdvV3E3NUExRUY1bERBRQ?oc=5",
@@ -1930,6 +1930,22 @@
         "section": "middle_east"
       },
       {
+        "id": 8798,
+        "title": "رياض راني.. تعرف على الشاب الذي يقود حراك الثانويات الفرنسية - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNNFNTYkRVX1ZUajBUWS1XcEV0OWVjeE1JSEdHNDBjY2FDLUp0R3NFZEE0b3FhTG5aWnhQWEZSUVV3VHVnY1JDc2hGN3ZnVTk5SG01X2R4enl4TnloaG9tU2tVTHBOVEY3MDlPMGEyMFg5ZHhDV2RMOFpRQ0Z4emVqTUJrcXN3dmFpeEQwSkFpN2xiTEthaEpfTU1SY2gyVGd2N29WdFJTMkJrYkFfOTZTS2hQM2UtbDQzbXhuN3hkMWpua2xxYnFvRGxNRzA1WkNBc19OS1hIcTROelhsYzNNV0lJVmlIZUdZVEpFOFc5eS1ORmFCdldyVGFIUnJjMDRXdHJHaGhPSzRsaERmSzhlWWRZb1poMEY3RDlpVE10V1R4c0Z5NnoxYnVMZFZEcUR3SjFz?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Sun, 04 Oct 2026 09:24:05 GMT",
+        "discovered": "2026-10-05T15:56:47.332541+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "رياض راني.. تعرف على الشاب الذي يقود حراك الثانويات الفرنسية الجزيرة نت",
+        "player": "رياض",
+        "content_hash": "ba52edae0bcae87613fd2311177749c25fb534419ef9b994b826067cbdf6e08e",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
         "id": 8376,
         "title": "الحوثيون: هاجمنا منشأة لأرامكو في الرياض بصواريخ ومسيّرات - الجزيرة نت",
         "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQeTc2Yk1abG5PUHhlenFLcGdWM0ZaWFR4bWt2ZDBZRlNlLXk1a0xnaEMtT1Nsc2g0eTdYQkJ6UVhXME5mQ0xwbkE5VGlWaDc2Y1J4cGZDXzJUenZLRkE2R0VsMDdlQXNuZlhmeWtCd1Fya2RHVlBSc3hVb2NzczVmNWNvY2FiczhJQ3FFQWNQTVU2Y3RJVzd5SW15c2tZaFQzd0NHeU5xMGh4d1F4cmh3OG14Nm96T3VqR1lSVDljQnNyaFpxZUVIUWxyQTJsQkowZWdqdVVybG9WTG5QNDNLcEgxR1ptZUZJeGd4X3VRZVBMelRzdEVPVTZrOG9ubjduQ3NPZUFqZlhzMjBiMncxX0FUNlZZV2lsNXdhRjBpZFRWUFZac0E4X3dtWkV4RU1Fc2Ffc3piY1XSAb4CQVVfeXFMUENITm1iRjBlbXlDT0xUcDdrX0VrTlQ2TEhmS1BEaFRSUUtRSm9hVzlDdEdFUUk1aktpc0ppTDN6STVwc01tTmc2RWdiY1l1QjczN0ZXSDB6QWdkUlpuamdiNDc3YTRmc04tQ3lXa0dPZ3F4MEZtTWVSTmNYbVhKbHcybjc5RGlDTWEtTkpfZUhVRHk3MEpzbFE0S2JNNTFFd1RfdU8xQ1lnVGlCNXBpRGVBZlk2R2NoVVY5VVVlY3FXbUlOOXkwRkM5UThFdHZjcXlTc21qanR3Ym51X3FWYWhOTERlbWlJLTdmSEp6dXZPdFRndm14aS1FZjB2X3FXeXVFM3BrM0wzSHdraEJacWg3YzVoZG5nLVN0dmFKdkpyTnlWYl9RbFVXVHlDYWRWYmIzMzktNU4wMXVvRzdR?oc=5",
@@ -2054,22 +2070,6 @@
         "summary": "وزير الدفاع البريطاني يرجح وقوف إيران وراء استهداف \"فيرفورد\" سكاي نيوز عربية",
         "player": "",
         "content_hash": "5360e9648c5a4b7b4b0d954f1b8ebff9cc49c49e0b637b86e6dcebeba5ae0b1a",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 8570,
-        "title": "باكستان: اجتماع في الرياض للجنة الدفاع السياسي والاستراتيجي لاتفاق مكة - العربية",
-        "url": "https://news.google.com/rss/articles/CBMingVBVV95cUxNS3dQb25vWnhjbjVPdjIwQjR0NlRuRnZmZEp2eDJkd0Vpb2NLSEdYc0c0a0pyWjBRMXhzSU16R3RUaU45ZF9HVU5XQVZrZmxQMnVoN0syOW1XRlN3WTZmSjk1YjhEckFZMno4Vy1iaWt4aTZpYVhBdE9vTHh3dTYzVXBCcE5mWWM0RkVFX0lJMExTVS0tS2d2eVB3WE1takNIb1c0bE15VG9lcFAtT3pEWEZ6a3daVjVlTnlkWTZadDdCTTZSMS1Ra3ZIUFRSMEQyNWdIRW5heXhiY3h3Nmk0WWNEOUx0U0s0RzFoWkZSdFh6Y2lKRkV0bi1kbndoOEhTR1JoOTdaRWJfSnI0QUhPZ3JnVi0wUVI3aThMNXliM3I4V2d1NHZvTm5YWDMtcEJJZFJoVUg5NXAwN2tqRVA5WEdyb3pPRUxaT2xTRkRyc3F0T08wS1hKak1adW5PSVVKb090dVFybnE0c0xCUXBmdkJzVUMtY1lLN3czcDR6MEFWMFdSWlpJNWJ4Yks4cy1BejZhLTQ4VDJFZFZEeWc2TGJqdEY0SGNaUlM1aXZLR3YyQkRFVDdPTWFycUp6bjBtWHlod21mV3lxT2ptQV9PVWdNcS1JbTV2cVhNcG5wZl9PendPWkJNZXVkTEUwc0dFZWpoNXUwSHVHOGxMeGtuUTRhc19TNDF2ZzFoMEM4M3I5Mks3dURmOWpMYTcyVERDMXBHX09vMGpQMHBUV2Fpck8tV283QVNSZ2hHV2xzSFpreWZwVHdXbUNoN0d3c1VHOGtFNkxkZ1BpNkl3c3ZxVEEzUmNOVVJreUx1VFVmZ3hySXpjTDduSTQ1UXdMSEM0VXNtSUVNbzc5QjZJY25EZndydm9obGxJZEpjazJn0gGjBUFVX3lxTE9qU1hoYmJoUTVBWjJMV2tFdVdhaW11UFZjcTZWV3NKcDJTUlNXTGM3UzBUdG1tb1JGUHNubDRiZ2pUN3RlZmRvOUp6cThuUTM2dlVZWnY5OTZuV0trS1Z3SUttX1NrcUFTX3A5MU5jMHhlNjVUODU0WVpKdFhIV1BwRTI0V1pNTXRyaEJ1NVNxWl9RSkkyOHRzSER3YkEtczhfaFZvbjNnWFpBUHEtYXdWdm54SFNLRXV5Y1pOdjh5YWhRR3pvZXVRVXRGbzRYQnRpX0JPNDlNdF93Vm1NVGhvbEFOLU90RDlrWUx3NWNuNWhOM25lNlFlQUZIWUlBZlRFV2J5Tld2cWNiMGk3cWJpc282d2VGWjlBamRwcDJMcFN3Z245YjJ5TnFRWGU0aHJZbzZVZW4tRkxNbXlJc185NjFMeVhnT3E5amJySlU2c2dJdE5rdGNjbkFYdTRNb2VyUmpYX0VsVnlUdFBleVRwc1ZfdEhRM1AyemZNUWE4RzlDR1dWU1JQejU3WmI4TC1FWjlPNWpaMUVJU0trcVROd3M0cWg4T3daYWJjOGUxbnd3OHd2dVg4aEJrcTJxV20zbmM2R3NHdjMycDEzOGNManpYbTRIaHhzTW9NM2lkTzIxZmVnYjNRb3NDR0VveExGY2pIQXkwbnZKeEV1dGc5QVQwY2FDXzJJelE2Qk5LVUVHMkFQRFkyb2pkODZrV3lRVUkyYWh2UWloOHI4Y0hTb1c2SndhNlhlRDhIcW1fWHFPeEtsT0Y2UDJBMGlqQUVPcWpvR0txenZCMWgzVERrUDhpOXVYVzJEc08xclA2d3hGbFhsdmVWMlMtRUo3TkE1LW91ZE1iai1TOFM3X0w1ZjRpRThsY1dyaHBDUzJGbHlGMA?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Fri, 02 Oct 2026 17:02:00 GMT",
-        "discovered": "2026-10-04T21:39:30.212027+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "باكستان: اجتماع في الرياض للجنة الدفاع السياسي والاستراتيجي لاتفاق مكة العربية",
-        "player": "رياض",
-        "content_hash": "702af327b6e2cbadc7ef56bf0460b336ea097f1cde2b4559cb1eb84afd1af5dd",
         "sent": 0,
         "section": "middle_east"
       }
