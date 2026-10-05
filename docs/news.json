@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T17:53:33.600659+00:00",
+  "updated": "2026-10-05T18:07:12.622504+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -16,6 +16,22 @@
         "summary": "أساتذة الأمازيغية يحتجون بالرباط للمطالبة بإنصافهم وتسريع تعميم تدريس اللغة Febrayer",
         "player": "",
         "content_hash": "7df4a778ae142509e95b98f44b151d44be53a0762d8fbc68852dcfb37c5eec23",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 8830,
+        "title": "سبتة.. إخلاء تجمع للمهاجرين من شاطئ ترامبولين وعودة عشرات إلى المغرب - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01QldzT045ZlJoT3hEYXc4bEpsc2FWRTBUZDIwNnNxNWZyVlZraWpxUUdsS3NxbHRZTFJDdy04OF9Pc2tsVnVlTQ?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 15:34:43 GMT",
+        "discovered": "2026-10-05T18:06:44.238574+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "إخلاء تجمع للمهاجرين من شاطئ ترامبولين وعودة عشرات إلى المغرب Febrayer",
+        "player": "",
+        "content_hash": "80457a65ccafc530ee535d3b42a4e01d98209a323612f608bddb6a3f61dd41e6",
         "sent": 0,
         "section": "morocco"
       },
@@ -546,22 +562,6 @@
         "content_hash": "e7f8abcd6f4b3e1dbcd0be9b88007558662286f9bbf6db222637fb6f36c03347",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 8497,
-        "title": "الزهراءُ تشرق في المغرب - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNOXNqQTFJNEdSZEVmRXM5ckRTY21YODI4VWVqLXU1WEZKamJvWnJRVEo0cEw4ZmNLYXRIZWdiY3hDQ3Q5dzFTUWFNbWN6aVlpMVpFS0xER3hIVFBKTzdWVEdTY0lGNXdhZXhwcmc1T3Y5WVMxZkl2bUZZdkJiR2kwcnNHRzFwcHFqREVKNXJSUHh4VmZicTBMVHhqM0NxRmVsU0lfVmxnakVDN3BNdEEyUzVfUUhWVGRKYkwtMTM0MEFBTlR5UUV2Rzd0NmwxVHpKSkY3RHFVSnNzTnNJOFlTUGNQNmhwTXZNQTZQS2xvU3owS2MtQnNhZF93bkZPdEV4dnJzVDl1SzZNdW5ia1E?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Fri, 02 Oct 2026 23:05:40 GMT",
-        "discovered": "2026-10-04T17:59:56.432553+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "31ab9c5db33d0ef2ee9284d15fb5b8067707035a73ac222e61b48c59e7a495d7",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -754,6 +754,22 @@
         "summary": "لاعب أرجنتيني يصارع الموت بعد 3 حالات توقف للقلب في الملعب Kooora",
         "player": "",
         "content_hash": "bc628d1db1453b59fa6b8f623390f763f7d95b188c436ecde35fce732596ba00",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8831,
+        "title": "محمد صلاح يعود لمنتخب مصر.. وتفاصيل انتهاء الأزمة تتكشف - العربية",
+        "url": "https://news.google.com/rss/articles/CBMi8gRBVV95cUxOcXVkZkhPLXkzSTBQX2lrQzhJdVByMnB2ak5nSTNkV2E1VVplZm9DbDVxcWFvTGRNMTdqUG80M1FEbXQxXzJvSzdmc3cwclpVZkgtZ0I3SjFISTJMRkhNVmlWbTRQWXRBSWVKRUViMm90OWJYQ1pSSW5pS3pwd3ZXMGFWSzktTnFxQnplbTdWXzJwNzhjR2RPaXQ1VWNCX0xVTDM4YUZLR04tdHdPR0VzNnJjcjBfc0RDZVE2eFJLY1VVX1lCQl9ndE8xZjBNd3lZQ1JYVy1kMGRRU2VKdFVEM1Njd3Riakw3NXY5c0lVMnphRkdlRy1GREtQQnc2Nm16TjBfQi1zcE1qWng1RUNmeXRoWjNyYUU5RHpKMXIyY0xINjdhVmlUeE8wNkk3ZUdaWUtnM3JONFVBem1LQTZBVEJuZWJNanoxZnpFNUNQRXV4VjE0SkU4NkhFWjhfbHVxTkdWSUprWGVLUnAwdFZ1YmFwc0ZEREM5WVRleXNVczNzcmJ1NmdobWxvdE1zelE2SkVIRk1tdEttbjdaejE5Ml9RaWstWk5veThvZTBLYW1Xc3RyTXVfY0tjOFl1c3lab0hqZzF4c2tSUXVaYzVlcjdrVGFDVEpSNmI1YjlFOWF0bnMzaXpYOGdMdVRGa1lTMnFPb1N2TDNCc09wbUxyczBCOFFIWWsxanJ0VlFIOW9Ldk5FY0Uyam52Rk9vS1hLMU1RMktYeDZmckN2eDRDQ2hiQUt0VHZZeHJGUWpmZFVnb2g2dmtXUFQ3aE42aFJiUDJQdnhuS0xpRk1MOWgtdkxxQXdlSzhBUmRmU0RCS3hMQdIB9wRBVV95cUxNRlhVbW9xclVvT1BPTlAyWHpDMC1TeVZGb2hWQndNQ2x2dDNfaGJqb2lWQld3UDhLcWNOdVNRRUlEdnlhZXdvMzV3LTd5OFl0Q2w0aWh1N0FJSi1leWl0M3BWcHNwMW1DaVcwWXE3SDRodHJKcm5SNlllNGdva3dZZlg4cDNGR1lxNGVMSmd1U3hHWURHeXpnZzhucXNkYjczS2JvQmExWklzZmhtcm90SXQzVWVnUEgwSmZ3R0Q2NDBVNGdDemtzVWFCeGlsNzZYc3VJSTJNNkI0UThMSE1HT2FIMm0zZWlpa2FWWnNqSlIwS29IbVFyZ0xGX1E3amp6SGV4dThrb1EwMUc4TE5CX2dKWEFSX18wemxNNVNYQ0xYbmtNVGVGNFRNLWVHcDF3bmQ5aXNVVW0tTXQ1ZF9YQUx2ODJEVm1fMi05UDBpbVExTXd1ZXJYMWRuSWRIdzVZS1VkelBmUEQ5U3ViaGU3TkwxcEhUSkFYMlZyN1ZRZUNWWmRwSkI1QWNpeU9oYnNjRk5KV1Z3bFprdTQxeHJyeUJnWTRDRXR6MFhQOU11WUFqekhSVmxaU3pvQjVaZzc0aXpUQ1NqekppWFBUdm0zSWZDTFJsRW43a1h5S2tNVEJGR0tfQU50djY5RFUyNnhEb1EzUDdlRU1pWVpTT291SlZKZGZNSHh3dkh2R2NOQzhOS0hwcHJzUzl2RHlETjhkXzg3V1ZRMWZnX1JTZ0UxUFRyVWZTSTFmd2MzWHQ1dGVxR0NsZDBja0duS3FBMXpjdS0xUXg2VHNPdTJfUmhiZkFWQ05WNXp0eUJwYWhxVjVuTHo2SXNz?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Mon, 05 Oct 2026 14:12:00 GMT",
+        "discovered": "2026-10-05T18:07:01.964097+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "محمد صلاح يعود لمنتخب مصر.. وتفاصيل انتهاء الأزمة تتكشف العربية",
+        "player": "",
+        "content_hash": "b6ebe21f2d9f590007982539bd5c0fdd6cdb9df3970d9f96f23fe13c06575851",
         "sent": 0,
         "section": "sports"
       },
@@ -1346,22 +1362,6 @@
         "summary": "كأس الخليج - الإمارات تضاعف عدد الطائرات الخاصة لنقل الجماهير لمشاهدة النهائي أمام السعودية FilGoal",
         "player": "",
         "content_hash": "fbc4e4dc718bf361bc283657e566d5ffa830bc7a76aca4c2a8f212b92866a3f9",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8779,
-        "title": "انتخابات البوسنة: الحزب الموالي لروسيا يعلن فوزه في جمهورية صرب البوسنة - France 24",
-        "url": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxQUG9mTFZ3VWI4dUJYWkZaMzQtc0tRd1VVclR6Ujl2R2x1NExhX3RETjBIXzFwMkVYQy1WcmpSS3JEU2Z0Z0VoWm0wNXd2aG05Wm9HR181SlRUbmRyd0hfZjRFUHQtMFF2SEd2RGhZc3BaUWh0ekQwMDZjODNFRkRQTmdWT3hDVjgxQVNFeVQ5QnUwMEwzWldreUlUeW5fc3BtNWlTTFJMaUFpUldsZHJGVGcxcEJLNnhHdWV3SGRKOU16aXpUNHZraWRLQUxGdk0xYW1qWHdjUUVCaloySHA2aTlaV2Qzb0hvX0Yzb0dVVURMVFM3enNxenNDdWwtRFNGNkdNMkR5bms0ejZMVGZTYWJrb2FvQTNlNk5jcHBrTzZJTkJLcmJHMG5pdXU0d0cxeGtOTUNGUWRZNEx1d3BvRFRxZWNMcXVYSG9JeW04OGNwb1lXUi1GWllkeGx6a2R4cFAtLXBDUjF1ZDdhNjQyY1VHR0Q0dEtSdHR4MWdYSmZfNndTM2lWLW5oUVlLZEEyb3FydVZsaW53WkljUnJ0ZnlGWlE2UThKSzB2MkpJTzk1YlJ2ZTFsVGpUblhYSmt4UmRlcWNIdlNvc0FKU1pESXV0d19CVnllTzVMQzQ0OFg0OXN3ZnVUU1gwTUhtdzhfTFExNG4yV2tBdnVXOXVFVTQ0X216T1Q5VU5acUNZR3UxUkdCUUtYdHoxclplRjBZZ0Z6QU8tR0ZCTXhiX25CSDJ5TnZwN2F0LVU4RzEtbWlXVXNHQ0dwMmk1MzBpekt5ZnFwTkw0WlFNN09UbkdfR3BZeFg?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 07:58:38 GMT",
-        "discovered": "2026-10-05T14:40:36.676992+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "انتخابات البوسنة: الحزب الموالي لروسيا يعلن فوزه في جمهورية صرب البوسنة France 24",
-        "player": "",
-        "content_hash": "3078233e06547535a0aa5045fe484160540372faed7af2cd632e44504754aa87",
         "sent": 0,
         "section": "sports"
       }
@@ -2026,6 +2026,22 @@
         "section": "middle_east"
       },
       {
+        "id": 8832,
+        "title": "جولة جديدة من الحوار الفلسطيني في القاهرة.. وتزايد فرص تأجيل الانتخابات لـ\"موعد معلوم\" - الشرق للأخبار",
+        "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOSWJfc01fZlo3TXlXVnFnMHhaZmo3SGloU200WXhTcjFMSGl0X1VSTXVLRklDRnBxOTR0RUk3dkRmX2xSM3h0V1laeWNLcEV1UmtHZy1GaHhQbU9jdTd5dGM3QXlCbWhsTWJnbW4wNUdIRkpXUTBmMVRPdk16dnZ3a2hmRlpjVTRFQnd3VkdTNldZN242bVZJUHJqeWFnYlZ0OW1LUUR6LUhuajNLZUExRHJyVTROYm54OWJSVUhiSXl1RE9qX29kR3BnQlRLcFBXa0cyUFBxb25ZQW9ua3RNTG8wcXlZNFFDcmVLa05BMXhWWHBlemNQd2VqaW1SV1VQSkJPT1JDbERIYWVnM0JKNjZkRGxpazZKdks5Sk5fVzRIemtfWTM2MllLQ0dLQWRvaWFGNjRmQnlzX3p5TFR6dm9OamFZbDVQekx4ZlFxYVhoWTYwSkJpTnBSN1JWRXdCYkw5TUNkX25WM1FfSG93ejBVdkVZQlBRYUlqRXFIeWFkTEp6Q0VHS1lZcGRlZF9VYUJDMU1DdjV6MXVyUjUtTHBscVdyRUhrbjBETVdUQjdwVEZqNzBnZnRwVm10QVFOMGVqYlJGcFUwenNLaHQydlZJVHdlelhBWFdLbnFWWWxXb1NJU1BZ?oc=5",
+        "source": "الشرق للأخبار",
+        "trust": "B",
+        "published": "Sun, 04 Oct 2026 01:00:00 GMT",
+        "discovered": "2026-10-05T18:07:03.717447+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "جولة جديدة من الحوار الفلسطيني في القاهرة.. وتزايد فرص تأجيل الانتخابات لـ\"موعد معلوم\" الشرق للأخبار",
+        "player": "",
+        "content_hash": "e4ea3951d74efae2eba06e3cb8d106b7686da5d6c833af42a1f018693a4054ca",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
         "id": 8376,
         "title": "الحوثيون: هاجمنا منشأة لأرامكو في الرياض بصواريخ ومسيّرات - الجزيرة نت",
         "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQeTc2Yk1abG5PUHhlenFLcGdWM0ZaWFR4bWt2ZDBZRlNlLXk1a0xnaEMtT1Nsc2g0eTdYQkJ6UVhXME5mQ0xwbkE5VGlWaDc2Y1J4cGZDXzJUenZLRkE2R0VsMDdlQXNuZlhmeWtCd1Fya2RHVlBSc3hVb2NzczVmNWNvY2FiczhJQ3FFQWNQTVU2Y3RJVzd5SW15c2tZaFQzd0NHeU5xMGh4d1F4cmh3OG14Nm96T3VqR1lSVDljQnNyaFpxZUVIUWxyQTJsQkowZWdqdVVybG9WTG5QNDNLcEgxR1ptZUZJeGd4X3VRZVBMelRzdEVPVTZrOG9ubjduQ3NPZUFqZlhzMjBiMncxX0FUNlZZV2lsNXdhRjBpZFRWUFZac0E4X3dtWkV4RU1Fc2Ffc3piY1XSAb4CQVVfeXFMUENITm1iRjBlbXlDT0xUcDdrX0VrTlQ2TEhmS1BEaFRSUUtRSm9hVzlDdEdFUUk1aktpc0ppTDN6STVwc01tTmc2RWdiY1l1QjczN0ZXSDB6QWdkUlpuamdiNDc3YTRmc04tQ3lXa0dPZ3F4MEZtTWVSTmNYbVhKbHcybjc5RGlDTWEtTkpfZUhVRHk3MEpzbFE0S2JNNTFFd1RfdU8xQ1lnVGlCNXBpRGVBZlk2R2NoVVY5VVVlY3FXbUlOOXkwRkM5UThFdHZjcXlTc21qanR3Ym51X3FWYWhOTERlbWlJLTdmSEp6dXZPdFRndm14aS1FZjB2X3FXeXVFM3BrM0wzSHdraEJacWg3YzVoZG5nLVN0dmFKdkpyTnlWYl9RbFVXVHlDYWRWYmIzMzktNU4wMXVvRzdR?oc=5",
@@ -2360,22 +2376,6 @@
         "summary": "\"مغالطة في منتهى الغباء\".. علاء مبارك يرد على مقارنة وزير إثيوبي بين السد العالي وسد النهضة arabic.cnn.com",
         "player": "",
         "content_hash": "61c4fc2e79829f06900f631844aafe4f46094ce63cbd67d77c96e37d25498f21",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 8332,
-        "title": "جماعة أنصار الله تقول إن السعودية شنّت 26 غارة على صنعاء، واستهداف منشأة لأرامكو بالرياض - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XbkVKYm04cTFvamZNZHJqcXQwYzZ4enBuSkFfc2pFZEJVYkdvWnpvdG8tcGhzaTE4X1gxZ0FyUmdEWGRHeXM4aXkxSk8xOE9HajNlYlBYSlRiMGE2RVHSAWNBVV95cUxQOVkzNTRDRUMtcWtBZUJhUi10UGFaV01JUW5hS0pqRVBWYWYxMElYbDEzM3NsZmdablVOSFgxOW4xeWluM1dNcFMyYmRVWmpKVE5kOV9wT3ZfcGpyZDA3aFlBTVE?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Sat, 03 Oct 2026 22:07:30 GMT",
-        "discovered": "2026-10-04T00:08:16.323668+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "جماعة أنصار الله تقول إن السعودية شنّت 26 غارة على صنعاء، واستهداف منشأة لأرامكو بالرياض BBC",
-        "player": "رياض",
-        "content_hash": "706387088e7381777d2c6b564d1aa3a578ac3d2878151fd3dd0dee9d229060ee",
         "sent": 0,
         "section": "world_arabic"
       },
