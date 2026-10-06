@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T04:28:11.424912+00:00",
+  "updated": "2026-10-06T04:45:46.134906+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -64,6 +64,22 @@
         "summary": "فتح باب الترشيح لجائزة المغرب للكتاب febrayer.com",
         "player": "",
         "content_hash": "5138e939e1b450ef9df06871979a67ce989d8e64565a0e1bffd77e8c78740167",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 8965,
+        "title": "تنزانيا.. انطلاق أشغال الجمعية العامة الـ153 للاتحاد البرلماني الدولي بمشاركة المغرب - | MapNews",
+        "url": "https://news.google.com/rss/articles/CBMiqwVBVV95cUxPTmFpY19nZHdDQUoyM1VGUlY3YUc3OHJOclBXYmJGYjJiUVhyQUJUR01yeXktV0VNYnJoc01GQ21pVVh6LUUtMHp5WVhPdTJDeGlORF9zbGllYUlRU01OS3ZjajE2cGNXank3MDVSYWFSaUlFVXJDVUJINS0yS1IzMmlSaGx3aUZ0ZW1NVE5qVXU3ei01VXpWdXZ1bTFsTHNOdHJ5c3NQanhTWFlqN0doc253ZV9sRUxaZmlaWnZydWVpNFNMQ0hvQmFBWmlfX1hPRDJXWnVSNkxIcmQ0UkFFMndGanpHbUZYMkRFRk93Z3lrUlQ2Ym90SHVDbERYTFRBRWhFUHAyVjhaRGVLNS1fN2hIYkVxYnA5Z3JPeWdpLXBIOGhBUnFuVWNUVWo2WkRLRFUzRzFkSDAzaldQc2VTaDJOdnQtTGt6LUVMUG9TeWVDY1FMVHB0cnR3bHBreGZqSkt0c2g4UFk4cHl6V25NRVlLQmh4UjM5R0FrbFgtUDJSS0s5V0xhc2U0TkgwNk0yWjBKWll3Z1E4S3Ytclc5SVpRbkROSkVpT2lQbTIwdFRGc1pMbkhZc1ZQTlpGN3FfUUhENG9VOXAtN3JBOUh0UzNpc3E4d19kZG5qQmloek9hU3NIOWRqTS16VkR2NmxzZURrLXZUbXowc1JpVFlGSTFVN1BZTE5WQ0ZWTm5Rd2ZoVW1qaU40aXZIMloydlNqSWFnaHdlSWgzbDJVZlNCdTVucTdTVXV6cTZBTVlzMk9xRWt4Q0lJMXZiTXFSSmRJSkQwclljUGxrTVQ5djJLTW92U21lQ2tILXFUVW41Slk4M1pzbVpyZk1kUDI0Ny1tTFJWNURNM0lVRU54aDJQMzlmQzNQZ1JvZlVYTG5jV1ZRaFJVSVBLTVNLTQ?oc=5",
+        "source": "MAP عربي",
+        "trust": "A",
+        "published": "Mon, 05 Oct 2026 21:27:54 GMT",
+        "discovered": "2026-10-06T04:45:19.281901+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "انطلاق أشغال الجمعية العامة الـ153 للاتحاد البرلماني الدولي بمشاركة المغرب | MapNews",
+        "player": "",
+        "content_hash": "a00a169865c20f29524dbe44ad1f368ff4ebc5149165677482dfcc287bf04159",
         "sent": 0,
         "section": "morocco"
       },
@@ -1780,22 +1796,6 @@
         "summary": "كأس الخليج - دونيس: دفاع قطر عقد الأمور علينا.. لكننا نستحق الفوز FilGoal",
         "player": "",
         "content_hash": "185cf8027fd149a1239ab87a47550a81ad2d750146c94eb13717458193ef1575",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 8712,
-        "title": "3 لاعبين في الترجي يستفيدون من رحيل ريجيكامب وقدوم فرانكو - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxQa2VoM2tFR1BBOWhHZ0E4RWVwalJFN0Z0d0tTVWR4SWd5d2tPR0V3eUpKUjNZSDRqendQTzFubFdqamJSM3lRVUdmaTI0YW9CajAtNWpoUzdiZElvVS15S2tJLTRrS2FuNHVObmNPU1JaRUtpc2RkOS11dHJyMVJ3d19sb1RfSHBmVGV1dGxkYTN0ak9OYjl1OVZEc0R2dXBtRThzdHN0dHp6Rl9MV2doaVpsZHdCZnk2VGhIYjlxajQ5VF9PaUhKXy14VG94NE4zZTdmcnhEWjRxdzQ5Nlh1MFZueWQzeGN3bzJnZ3U0dmZ6MUNqeUN1SHYtTGtUTjJVRnlsTFp2Z0ZPT1BGTl92UXdmQS1mMGgwaDhhaEs2Ni1VdUp6NS1BbnRTQzVPanFkek5ISWVLblJtdmFtdXdEdGhCT2p5b1ptMXREd1lOc0VMRy0wNkpQZnlucWdkQng0ME5yWW5mRERmbFU4NGhtdVRobXZnWlR6SHUyUEZLYzJsMlhBZHdfblB1UzJiUXR4dU5fV2N4dW1VRUZ0ellQa1NrYnlvSWhZaTNQS1lxeG5MZml5Nl9WLXVuMkZqcWpqN0s2M0pBbXBzY2hLZF95eWlCY0JfTjdteWhFODhBX1VFekJ3aWg2NTQ2aFpuY0t4ZnI5WVNGQndsdw?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Sat, 03 Oct 2026 20:24:20 GMT",
-        "discovered": "2026-10-05T08:53:53.741402+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "3 لاعبين في الترجي يستفيدون من رحيل ريجيكامب وقدوم فرانكو winwin.com",
-        "player": "",
-        "content_hash": "054759c5492de2142b055ef3671c6824121fbaac16998f61acfe3b3143117561",
         "sent": 0,
         "section": "transfers"
       }
