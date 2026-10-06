@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T21:36:19.972872+00:00",
+  "updated": "2026-10-06T21:50:09.206488+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -562,25 +562,25 @@
         "content_hash": "424d41dbe058c0ff14ee78d33bf2d73955cca397b61a3ab82e0564f1582c515f",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 9115,
-        "title": "بعد آخر سهرة له بموازين.. فضل شاكر يحي أول حفلاته من الرياض - ar.le360.ma",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fbS1oY3RqZWw1WHp1U05oOTRNMTVodk5OdXRNeU5UZU51SFBWWldueUV1TTA0U1EzYmQzNmRaUzA4UTMtLW8zeVMwTzBSTE9QYW5ZLU1fWHBvZHJiNmtFMHhhQnc?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 00:57:30 GMT",
-        "discovered": "2026-10-06T15:45:00.621415+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "بعد آخر سهرة له بموازين.. فضل شاكر يحي أول حفلاته من الرياض ar.le360.ma",
-        "player": "رياض",
-        "content_hash": "9746931935cd78d4a1523887b634588ae92e6f561d0d0e645e45e3ac0e16c229",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 9251,
+        "title": "مدرب الإمارات: المنتخب السعودي يستحق التتويج.. وهذا سبب الهزيمة - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxPQlpqZkt1UEE4OE1Wd3IzZERYYW8tWlZmdWpGUVZkUUo2MGdQSUhzRW1PLTBCdVVWRTdtUS1HXzhfUG9SLUpuMGM3UFlaWkpJUUFISzkteEFscG9VWWljaXZHNk9YOTM5UWo3ZzF0RmdNdjRyZ2c2WUJsa1pOMmpFay1JVEdIbnVGbjVZeEgyN0pGbTVNMmRyS2RuN3JHZ3R0N3FFS1VrNndPZGppMzdEamVMVktwMEs4TkJhMVpvOUVxVFlvNnFqYmYyTFNWRUhrWi15YkpybHlPZ2puckd6V192WnIxd09VWXF0QkJHVUhyZGlpdi1MLVZnQmJEWVpSSWxINzQ4dFA1WXNfc0Q3SVlHbmNzblEyWFpZaDJ1NG5DMGRuRWJkdTVySklWWldNX2xFb2NObEZ1blpYT01vS1ZaSW1PSEZhb1cwdGxVV3VNYUEyWWliT2VDODlTOUpyaEJzNHFkYkQycmtGZGlzazlzbGtuM09PeER5SUpZcG1tN1dkcUFfdG80dVhiUVJ3MXYwWjNydXdQYzRlVTF3ekJ1V2N4MEI0NzdoTDN0cXhEWkZlenpMdU1TaVBwSXBRazNfUVRzaFlNMFU0TnZDWGlUYXVpRFZhLUpsZEpLenJDeExXd1ZBRldKT2F4cEw0cEg1Wjc2NzZjLW9wa2o0VU41SjJaR1BrY0g0ZnRQRlR3SE9zOERDb2lhQlh4SG1YMS1BVFFvZEQ3NGlULU5WLTE4VHdpaVIxNXBJNmxFcTdnS0dpYzVPczYwcDBRMmRTZjg2V3pKdUFnRWR5c1ZvQmVKYldsZw?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 21:43:05 GMT",
+        "discovered": "2026-10-06T21:49:47.456777+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدرب الإمارات: المنتخب السعودي يستحق التتويج.. وهذا سبب الهزيمة Kooora",
+        "player": "",
+        "content_hash": "f7589816ff66130a99c66681f73c3931b0c67bcad40330da13a59730b632b3b2",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9245,
         "title": "وزير الرياضة السعودي: كأس الخليج خطوة أولى… والقادم أجمل - الشرق الأوسط",
@@ -594,6 +594,22 @@
         "summary": "وزير الرياضة السعودي: كأس الخليج خطوة أولى… والقادم أجمل الشرق الأوسط",
         "player": "رياض",
         "content_hash": "790d77ec7304547022a2f681f301006b1757e3e62bf23fff40cceaa7d726b51d",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9252,
+        "title": "لجنة الحكام: حاولنا استقدام مارتشينياك وماكيلي للقمة.. وهذه خططنا لمباراة الأهلي وبيراميدز - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi2gVBVV95cUxQNXBVQTlWdmFsc2FQcEoxcHRUeEFWY3MtNlY4Y29ocHJFRUJiLUQyZ1A2OVFlVUFZVFRtLWdERThLOTRLSWV0a2o1Q1lSWThJbVFlSkpoMjBXSWNjUF83djVWSWxVLWpVZnljTENSZmdRSGtOT2lwSHRPWm5GOXRXdkctcHE2SEZmcE9VcjY0U3JUYnV1UUJjUnctNUZ2TV9FWG4xWEpqdVMxU05CM043bHBUUUF1Zms0WEY4ZmRNUzcwWDdwaXk0cmc4b3hlYnFEam5NNC13ZmxBVlVDVnlILUFxUjk4c1VzZVRXTFpVYlRHb3RhclBLU09iUEc2NDdvQW9fekNid25aUHltamVKWTFlcW00WEFYZlhfZHkwT1o0dVl1S1BITGJUSFEtUklPWXhqZFdVbUQwUzBXOWdYRXFHZEdjR1lvRzlvTzA0alpCTVMtVXAwMlllYkJuRkRXaVByMTRydWMwVXBEZHZwQkJhalJpeXFUUlFBT0J1U3hCYklJdGh0SDJKeHdmTVhUbDVLdzltYkpmZVk3dEFBcV9MWlR3QkhVRWdYWXVGUDB3VUlqSm0tWnExY3JQWnZBSXBBWG1lM3c2MDJ4NmNHNHNwd3hBekV1NXhURm5xM2tsQUlSTFBrV3lZM2hJdHIyM0Y3aktrUy1MdGRTNXN1QWhkNmFRVGRCN3pJalpvREZIWUtxYzdkWXdNMXkzUlo3U3NsTjJnT1lWY3BSbXNELTJ0RFd2VTQ0RzU4RHF6cGNOWjlXQWtHVF9EelhGWk1zNjl1dU52VXFCcXFlMVlGVWtQRGo0MXVqU2hyZFkxMHhoUmFodFQ1U3pWNE9icEktaWNwTzduVFNleGxFbERpV0RwQjg0bUFiLTM5bk5VdXU4SHVHYWdlU2ptZDB2RW1vUVRPR0FrdFpaZ1JMWVhraXNES2xTWUIzSVQ5dmdhUHlURzdIUGM4U2F30gHfBUFVX3lxTE9MeTc2RDF5OUxPTlN6Q2hGeFZOdkg5TjBJVGZQSjRzcnREQXNtV2RxUkw3TnNfQTNCbTFJVGtBNXZwRjl6WG1LME03MlVLa2NUYUZDMi0wdFJBYUQ1U0xxeTM3SDR3WUY5cGJHYmFHSi1HdkhhSDJDNzFGeHZfVlNkOGt0d0wyUmlFbUxYY1E3c2FrYVV3Uk9wVHJKRlZGbXlGamtsVzY3clAzaWc0bFZTcDJOUFdEc3pualBWd3ZzaVlvLWI3MU1kOGZRaV9fZXFqRmVSQkF3bzFUejRUZGpNMllHNVQ5Z0hwRnJkeEdhY0NYVUFKVVdpSGpxVWppYWxhSE5ReG9IbzU4MXFpYWIwS19JSlI1Sk5WS3J2WktWVlZXWUtYN1NfRktyaDZJbVdXZDYyUVNzNFYya2thLWE3TmkzSjZkekk4b21uS01Hbk01Zm9MWjFZWE5oRU9GQUU4cmlLUW80cDNWSTltZ2czVzFySFhFVUsxS2JKZDgweHM4N0FrNy1CczYxbDhaZ3E0NkdDSlNzZXBhR255aTYxbmFiU2FuaHg0Q0dIMTk3X1p5QjBfYjdkMzlnU083bkpCMkwyNW1QXzFZa251eEI4UVREemN5WjhkN3B0M21iV3FIVDVFSUcyeF9TN0tHYzR0Y3ZFcFZSX3NwQ19vRXN4TldTajdGT2h3UW9rUGotQnVDdzRmcVVmanl4LWpaR2tjdzBKSkY2SmRLSG1Qajhtczh1OXVrX29sSDYxRGZ6a01HVjJRMENBc0ctc29BTzA1NklnenNyOWxMQXI3ZjB2YkIxajdYUHo0Z2Jlc3F0WTl4R3JKM3Bvd243UFRlekRXMEhHUEc1VkdKSW1Zb2RNdUpSUjJnbnZWUnAtSVlEbE9fTWR2N0VJWXhIRjlFZlpiSzFfYTFHRXdPVlRmaFpjOHV5X1NHNm94NUx1UmlXYXBKRjlPMFRfMzBaRTA5aw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 21:21:00 GMT",
+        "discovered": "2026-10-06T21:49:52.810169+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لجنة الحكام: حاولنا استقدام مارتشينياك وماكيلي للقمة.. وهذه خططنا لمباراة الأهلي وبيراميدز يلاكورة",
+        "player": "",
+        "content_hash": "f45fb1bb90d1c7206cd2f3ed5706e4bb9a85c28e79a7fa203f149e47b3a0a931",
         "sent": 0,
         "section": "sports"
       },
@@ -1094,6 +1110,22 @@
         "section": "sports"
       },
       {
+        "id": 9253,
+        "title": "خبر في الجول - محمود جهاد يقترب من المشاركة ضد زد في كأس عاصمة مصر - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxOcEs2LTh5Yk9qLWtxMWRKTlF4ZnZpUkhMSlo0Ums2dHFEcUlqU1c2RUxHOGpXQUxicGdrbDV0ZEpWVXJwdkRCdjFDaDVEekRQWV8xR0ZXV0ZnWHpIWlJFbC1uQW9LbUNJN25wNFdOOUZJdVFSeUp0MjBsNi1sN0l5REdianN6MkFIOE9EdkNqU3hpLW5QVFduZmsxbFFtYjhMTklOVk8zUlRMQjl0cHEtSThPN2V2YW1nYXlHMlg2ZFRIV0ZlYUVKZzU1WWJld0pieHMybUFLcXJuQWROVTBjVFczYWVTbzJZTzI3NjBnOHVmYnV6WDkwbXlyTTJ2TXNkU25Vell5SnZjTXpTQWxpam52cEVLYVhqMU9XZUlObFFVN254Y2FQZXpaMHlvaUc3dDZlVEpEekpWcEJzMjR5cTluNUZzLW16MjJxTnRkaG1TTGQ4cFFGbWIyZzJFNmtLeF9qUkJfbVcxRHNfa2tRdzl0ZF9rbGFPTVVHY3d4ejh1RThVOWRQV0NEVGtoT195Y3J0OUlNeU83TGFYMXBrZFJmay1OZlZnbzJoMHk2UHRpYS1EVkVCT1M2NTFRZGpuTjVScUFlT19oNmotbEhJcGVBaHBQajNZazZ0MHZGeUJURlNhWXlZZEFZTDJ0ZmxFMGdxTFFqQTFjUlHSAYAEQVVfeXFMTVA2WVAxVVpUYTJCREN3WE4xOUdMckpQVU1sTlkwMzRKN3JfLWZSbkVLWndxVUhJUm1TTElUSkdGRl8xZ1JqTXR2M1lqSGJTY3JnN0hoUkVyQVhKaHFYUUNGM01XWHNOZ2xLdkZRcnJkUHhWQW9YWlFQOEN0SHZ5WEREaVpScjB4bEhkU25DQjdVQmVNQTNRV3FuT2RLRWZRdEpDZDVVZkJudUtPTjc0aTlDdHhzckpJMWdVMUR0U1VJdDdwQmNFc1JibHdXV2ljUXk4bDBjcGVsbzRfNFhRbnhRYU9oQkIwYTUzbWRxSzRjc1M5WU12UXhwQnJZUDN4M1N3NWJZRkNmVmxkMVFQc1J4ckNQOGFiaGEtUWdUY2wzTGY3OElXbUpCUF9YMFNjVGhULVg1SmtMNXhfeVhwTGFKY28xaGlHXzc1ZENhdTZ4XzVsRVBHYTlOOUp4cVltbzlOTmQ2eFp3STczN3AyVUJsb250TUg1LVgzcTMwVGFnVFNOTldQSml0ZXdNSV9SVGVhT1B3UFFpSGVibEFEa3B4YUlINllmcXdXM2FmM1dwbHBzRHgyT0JMbVJPSnFsMzExZHVVdVRZN1NCa2hHekV3ZVVkY3Jidzd3Z1I1Nk1VeDNxbzVpcW0ycHN3aC1FYkVTd1JtYUFiMURJWnN4cjM?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 18:52:00 GMT",
+        "discovered": "2026-10-06T21:49:53.527873+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "خبر في الجول - محمود جهاد يقترب من المشاركة ضد زد في كأس عاصمة مصر FilGoal",
+        "player": "",
+        "content_hash": "80abe07b0ff66e4d1109e6802690516d704aefd1f2073a3520f73b9b067408e1",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9226,
         "title": "كازاخستان تتعادل مع جزر فارو في مباراة «الكروت الحمراء» - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMixwRBVV95cUxNRWlqQU41S3lCV2NKWUNDdXlQSklkWlZsYUNyaHJ3ekV4Z1RQR1kySFEtX2NYaUhoYnJROFNWY2hKZkVubFp2ajdmZWtBbV9zdkdSLW5kZDJtQl91UUhqd2duT2E0NnpGY0gydXRyZGZYMmdYS2M4Z0VabmN5azNyVkFrMWtOd3cxQzB5d0hzZ3pnN2VTcE5JeEJZXzBGczEyNFdpMlpucGlyVDJjM3YzOGdxVlh6Q0lpMmhvdi1fdk9NOF8yYzhYNEFhNllKQTl1bFNOSGZ2d2hFdkwtS1JFYlc2WVpCeFZfeWZtSVA2MlRmRU9sVUFiemJhemh0R2p1blduempVWWItcE1UajUtaDNYbE8tWHp2M3hsZ1d4Ykp2NERXazFGVXE3azhFS1FzS1FFSTZBYUhGbWZTS2tFZWZNUDZERjdFY1hmOGpreUFsaWI3Q29qU3dwaE81SVFnMm5hRlZPbS1XWGNUcTNGbGpBazZNajBBcHVOLTF3R01kZDhmMGtlQlFvWjdlX0cwZmtCaHRLZFZ3T3U3S29Qc1RRZk0xbUg4VzJBR2p3OHN1czhrVTRvLWlXaUJwMnNTYmtfWkU2QzZrakR2RTdfNjlvME9GZHY3VEd1b2dTSDlRZFZoUEFTWUo2dnY1NUxjWEQ5MGdySERGNk1rdXBxR1pkZ0lNT0FsbElNbTNMLVkwcGFrakFucTc0SFlHU1VkbWxKMmdtRTJFRVVaYWxBdjNRUF9ETmd2T0w0TFZVVE1iM1VxR1lj?oc=5",
@@ -1332,54 +1364,6 @@
         "content_hash": "11abf22adf3d44a31b44dbd2bdd28b07ae604ddc920e93d898d9002bd9bf0663",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9164,
-        "title": "أخبار و معلومات اللاعب محمد عبد الرحمان مدافع نهضة الزمامرة winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxONld0V3ZYSUNiLVBsSVlsdl96WWpYX3UtMzFlTTAxVkdMaGpsTWQ4TVluSHRwbXMyVGF5bko1NVd2V0JyYzJvUENmN0xJeHMxazhRWUY3aWxfVFdpbldUWjhsN2o2WUZQRGE2VVctcUR2dDdrdl9wX0FCcEI4V2g5VC1Fd0lmS2UyNDFMLXZkR0hmajd3QnBJQ0tWU04zT2RNRk14ay11XzdONEtLRkdfbFFFTllMTmtCNUpEQlhBMkNldlJfLVI1ZHE2dFU3THo2cHlRbE5CMTcydFlXekV5aHc0empJLXhwM0RqRm5LRDQ4MFR6dXVBT3RyQ3JCbFh4bDVjeE9XaHlzc1pnTWxzc2QyZGQ4UmlfOVRQeTBrT2NDQQ?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 17:44:11 GMT",
-        "discovered": "2026-10-06T18:09:10.650625+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب محمد عبد الرحمان مدافع نهضة الزمامرة winwin winwin.com",
-        "player": "",
-        "content_hash": "c9cfaeca27dbb531da2606ca07555fe4fbe626e7cacab3d19862e35652da7e4f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9165,
-        "title": "أخبار و معلومات اللاعب محمدو تانجا حارس مرمى سيمبا winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdGFBV0xCVWZZM0RhWlItLVdJWUd4QU93Qjh0X21nbGhPTVFMaXUyc1NhYS1JVUdyaXdpb1lkWElmZ0U1anJZRlR5OXpzM0NzckI5ajUyYnc0SmRjdkd3WjJmR0JoU3l2LWFwdkNKSUI3VnQweDBUM2NHeVJldGNKd2dIRENnUFNVNEdfWTlKVV9zSW5ka0l6bXFfTmJ3RGNUNk9ZcmJwMnFIcWxWX2Z4SkNRS0Uwd3ZOR3N6SHNlSU84RHF6X2lDVWtOVFdmYUY2VHlGaUpuVzE5anpCeWF4S1NCWXg1dVJyMl9jY250UVA0MHEzN3VOSEhvRlY2TEJz?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 17:43:29 GMT",
-        "discovered": "2026-10-06T18:09:10.654278+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب محمدو تانجا حارس مرمى سيمبا winwin winwin.com",
-        "player": "",
-        "content_hash": "8408c877c39461d28387f31360613086381d1322a358dc123774c62f781d3791",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9244,
-        "title": "كأس عاصمة مصر - العتباني حكما لمباراة بترول أسيوط ضد الأهلي.. والقاضي يدير لقاء بيراميدز والقناة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxPRWJQQ2hqLUcxbmVxWUFpSFVTYm83T3JicFhHRWYzMVZXb3dpaVdDSURCTFk1al9oYWFJNllQZFVyN2JjeHBvd181R01xZGJsUUVUYWNTeFc2aHJtMTRqLXBwY1QyQ2RlaWotSFNfTUtLUDFxZGY4V1dvUFdvX3p1bEpvWWtqZDA3U1lFVzBrSGgwTkJLT0NaMEVlWTMzRk5qSmh0MFkzMUZkdHR5RWZvVEJlSmdjMzdUV1dEbllpOTh1OXlDN2RMYjd5emgxUnRRbXZCN3NOemVoSHVjVjZKd0ZJUHkzTHNWaWhySng5N21LbG5yVXhfMEZQeDljMFk5UGljUzdqUm9yT3NGOVcwT2NEeE53ckVudFBwZHZMXzFPV3luQWhXVTBMSXVwZGdWOU8tcU1CUTVBUXh5dFpPeXhsZWtURTZxUmRBRFFIMkd1NXNQLVNmSGFEdXFpU05CRWZvOTdPc25TTVBLbXBhT056T3g2b3RKRVJRNE5PblJLa1JPcWFUX3V3NVVWSW9yN2UtMlFFQmYxZG52S0dKNU03TGJkajdQTXBDTWU4bmZzX2JQZHk2TzNVb2REUjNSWEZOOVhxM0d5TzVsNDVQTEVoVHpiVTNMa0oza9IB2gVBVV95cUxNVm9takVzeWM3bXg3THBHbVFrY2VDUjlpTUw5SEJxcmVRS3llc3Y0WWNibDNhR2xhRnZ5V3pBY2Jaa3ZqU0wtR1d6SE5uUXMxbThRNjU1ZHl0eFJtTXB3TXdwNFNLNEhRWUs1MGw1UGVLcm4zaUpENml5QWJMVkNlek1XdDVJOXVlbGtVNnpTUzgwRS1RWjQ2aHMwLTJRMFd6QUN3bG5zcFF3VzIzV0Z4MGtUSGtpYk5yLTljc2RCY1RFbWVMYkYyU29DOTB3Vl9qeUl5eUhSZDA3Y3NyLUxRLUhyTGZLeGZEMEN6UFBnQ2FROF9wODZrLTEtNHZMRVF3cEtuLVJyVjRxYjlDNXVOMXQ3M0RUbzBUd2Z3cW9LcGFNSy1fRXlmT0gtNjdVVXZrdVJyN2RjMWNXS2FXX2VELVVCenVYY2RrczFPV2dEOW1nVzhiRWUzLU5ZY2pnc29hbGMtUnpveE5aM015NUxyOXhEYUE5c1NFTnZfTXhtNVNwdy1lQ2lyNmlUY09IZDJZVTFWZU9fNllQMVNZNmEzb2pvVWRwTkRkU2g1LXBYeEY4endFRkJpem9GRnZhcGwyU3B0YW1sa250ZDJnQm1PRnp4SURLTElsRHJleVB2QjVnTmRFTllCX3VSc2phZ1BZRjhYTWR0V3lNa0RNU1RsVTRPVEthVTlBbFg4dGI5Q3MwQ0M2WGRnVENfVUxNRTlocVZPNlZBY2E1WC1IbE11Z2FuMlp1WkNFX3ZVemFaTHJKYi01NjFxcWtHVkJ2QXJNVkZvQXUxaUZ2Y2RNQU9fa2NrZWR6ejNvWUxPRnZJdzhuS2Jmbnpyd1p0NGt6R2JPQmlHcURsQVFXZnFCQXZjM1VjZTdvLXNjVnVkZ3FwOU05UFRRYzQ5NzBsa1MtMnV2WldFNHhfQW1Ub0NYd1ZBZFo3U1RHa0NxS2tSVTYzQXF2S3JfTndMREJB?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 17:43:00 GMT",
-        "discovered": "2026-10-06T21:20:10.922566+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كأس عاصمة مصر - العتباني حكما لمباراة بترول أسيوط ضد الأهلي.. والقاضي يدير لقاء بيراميدز والقناة FilGoal",
-        "player": "",
-        "content_hash": "6831c5822e6c83d64c59ccfe746247308c7aca6fb05efd498a99b37034189f0c",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1396,6 +1380,22 @@
         "summary": "لاعب ريال مدريد السابق: رفضت الانتقال إلى برشلونة من أجل عائلتي 365Scores",
         "player": "",
         "content_hash": "48acfa28891c536d78ecbb0cf7d164054c4ad680e7ffa69fd3d4b1f39a52690d",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 9254,
+        "title": "محمود صلاح نجم شمال إفريقيا \"صفقة مُجمدة\" تنتظر إشارة عموتة - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxQRVZERml3LXhkRlRQRTBjblpkTmxzRHZnSTR3eml3eldZR1BsdVZUZnVGLXBYREZmNFRDQ3ptMFZudVdtWDhOaTVHNWhGRGJ0RjBmVXhLdThsYnhpbTl3Z0FId0tjNmE0UVV5NU1GaXl4dS1UMlN3TjlVdjFWd1dMaUZBd1kzLWlfOGdCaWwzVzhHZGFaTjU1NmtGVEFzdnUxV3F1LWQzTlBRWWdtdm13OHlURGRVSzc3RkJrblZoUzJGRjdWaUMweUdsNGpGVUFweDltR19nZ2w0Sm83YmlvMGZpalVKbTQ1VnJwMVFzR2JlT0ZpelZkSXBzODlOYWJfbGY4Z2ozbnhVNGt4TGVKREFUeER4QUxDQ3I1MTJxVXZZenNtM3NpYnVFbnp1NEdoMWR2V0xuMm1SMW8ybzlPN2YxZkRJc0hvVC03SEdvRmlqVTVfWTZwZE1QUkJtZ2ZZbVdGclJ5QTdvQ0M1bGZDcnVqbnhheDRONFNwVGFDc0JhSGJNTUhLZVJfZ3BjenhpNE9XV2h3U0NzeUZEWjNqNHg5WEN4aFlscDdVSjlmcW53dzdoVmhJYnhOZVhNbGtaeDQ0b3ZPR3NSTlRBR2NKMjZnXzRpY29sWG4yQkpjdw?oc=5",
+        "source": "الشرق رياضة انتقالات",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 19:11:19 GMT",
+        "discovered": "2026-10-06T21:49:59.108670+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "محمود صلاح نجم شمال إفريقيا \"صفقة مُجمدة\" تنتظر إشارة عموتة الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "036e02e5d7dbb841d4dc559e53ba18b3e8984110cf249a277c3a3c42172fbc2e",
         "sent": 0,
         "section": "transfers"
       },
