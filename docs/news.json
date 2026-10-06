@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T13:59:06.877795+00:00",
+  "updated": "2026-10-06T14:17:53.907255+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -16,6 +16,22 @@
         "summary": "وائل جسار يضرب موعدا مع جمهوره المغربي في الدار البيضاء Febrayer",
         "player": "",
         "content_hash": "ab990bc1ca2493c973f25d5db02028013c67cb964d13ad333024e1fa9cb33a19",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 9088,
+        "title": "فاس.. تفكيك شبكة كانت كتزوّر الباسبورات والبيرميات وبطائق الإقامة.. النيابة العامة هبطات أحد أفرادها لحبس بوركايز - كود",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPT2o1QnZENDdTWDNsY0cxM0QxRnpwa0c0aWVRQ3VuTEQwclpqRG5pb2pISElXVjVWVWlyZDJ5U3FGYy1LVlVEQ1c1V04yY3RyenBxVnA0WnJXSElMbUo2QnJYYjdJdG9hb19DQmV4ZmozUWFyTXp4YWFQamJrZGpNZ2JkVzdxWHFCSkpoMzNGai03dDItMUlfY1ZDOEYyWHV5N19XUGswSE14dktHdTRIZXpFcEI5blRPVEJLREZGNG5WVEc1V1pldm0tS2xWTEhhSGs5Y2E5NjBBSHRpY2xpWk8teUdTT1RKd0JvNzJrWmQxRHhvZl9Xa0FoTnJQVmszSzB6YzJCNDlKMGtNY3FQMjNmaExXVXF3S0dKb2xHMHdZTk1VYnY1bTlpbEFnM1BrajV0a3JiRzhkNW9mc0lnRUFBSU1aYlJMRUE?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 13:12:12 GMT",
+        "discovered": "2026-10-06T14:17:27.320596+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "تفكيك شبكة كانت كتزوّر الباسبورات والبيرميات وبطائق الإقامة.. النيابة العامة هبطات أحد أفرادها لحبس بوركايز كود",
+        "player": "",
+        "content_hash": "e44804f89366ff8ed60e02c06c12546728ad5a03a0eccb673b1f16c01649e92d",
         "sent": 0,
         "section": "morocco"
       },
@@ -550,6 +566,22 @@
     ],
     "sports": [
       {
+        "id": 9090,
+        "title": "دفاع حديدي ورهان زلاتكو.. كيف يرى خبراء ونجوم كرة القدم نهائي كأس الخليج بين الإمارات والسعودية؟ - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPZjhHeGs5elVZQ0MwMnAyaHFjSHFkbjUwRzIxa1RwREZ2czc5cXMyWm1mb0xMZFF5cHdYT2NkVkYxYmZib25iRHFpd0xTWnB6bXdVaV9zc0xuQ0p3dXhyekE1XzgtZFpFTE5UdTd6dUVyXzhDMUdBcnAtUnN2R1l1U3pLUjE3Q3h5VXJjN1YwczlmODZ1V1gwQTJsdUJ6M0hIeUNsUVlIQkx0OUtDSG9wSmpjZnF1LWtTU1ZKXzBQMnhtLVNERmdsZmJxT2owWFVUcm9ZMXhUR3hjcWpPYXV5cHlTbWJfckx6NmRieFIzYlJmNGtzUVFlc2V5REI0OWdrS0hhejNhOWZMWGUzVjBNUlhZTTFQZWNVX2IzMDRpVlpsMHNQOUxUUVc1dVNFSTlpOGp1TVE5NUFlek04eXR3cXlCcVl5NGhnMUZ1d3p3TjN5dDl6cWVF?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 14:04:11 GMT",
+        "discovered": "2026-10-06T14:17:37.583294+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "دفاع حديدي ورهان زلاتكو.. كيف يرى خبراء ونجوم كرة القدم نهائي كأس الخليج بين الإمارات والسعودية؟",
+        "player": "",
+        "content_hash": "bbab6982b5e7ca0cb7ca0ae388b541829c831b711eee71bf6ca2eedf48658027",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9071,
         "title": "انتكاسة جديدة للسيتي.. شراكة بملايين الجنيهات في مأزق - Kooora",
         "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxQTG9meVRJX2xyelNQR0R3QTlMcDFXTENFMTByZXZ2T3Y1QW1wenRJT0pVS2NrN2g4LXdrSGR5b3VKdG55SGU5eDZoVFFVeUg4RTdxUXczOXZMZHp5SU9DLU5GNGZyWmh3UUlkSW51Uk1qd2g4cmVvZ1hsSEJxdWdocU1fQnJ6d3VQVHJXNjJ2d1QxcHdvYXlEZnM4Zi00QXYxNTF4aUpZdmliWjFfVGVqdnE5LTNVMUZRaktnVHhXSXJISHBnZzhyZFV0WXpmVmZFZ2dTWFotZjhnTXJiWmUyUHpFeExsX2VnemtKT0dZOEJLamVCQkctV3NDYndnTURPakpCM0taanM3X1Qxb0lFN2w5dGE5VWlJYkJ3ZnRDVk5VRzR1ejhmM2wxa1V1Mk8zYTVWYmlyTWNqY3NuUDNWQkM3VC1NRklpeG1EcnVpX05zVWNaeTBYX2pwNWdxWldVcVdzdTRBMms3dUlXUUZBeEpKLXZqeUNBXzF6Vl9RSnhPc0E1aXNwUl9Idk81R256TkhTU0hzX01ITmJqcmZqamVwSzNJdllGcHJaNm1QVWl4S2tlS2o3Qkt4ay1IZGRYdWh4UExBWHR2TllTSkZSU0hBcjY1SGFsME56d2RlWnRiNHRXdF9kSERtZ2pjNUhEeXRGR3V4dkwxeHZJMTlFbFY0bFZHNUJRS2I3LU9sT29FR3kzeUhnV2dMRnVaQVFsbGptbA?oc=5",
@@ -562,6 +594,22 @@
         "summary": "انتكاسة جديدة للسيتي.. شراكة بملايين الجنيهات في مأزق Kooora",
         "player": "",
         "content_hash": "3b93a2e652ef33b9e9491c944b5462d3006eb78be839e4f55015c45fa0273f38",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9089,
+        "title": "لحسم التأهل.. منتخب مصر 1-0 الجزائر.. تصفيات شمال أفريقيا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPdTVjMU4zcWhjSnVFcGhNQnVZS01TQ2JveTloUktCREJwc25tbXhqVjJjNlZkSG9JR2RCQ0RTZkdSOFlFU1NQT1JYZTQ4SDRmbi10M3RYZWUtWlFTelNvU2E1dHR2cXE1ZklabzFTb0tHQ0MzZUxoTjRNZmtMeFVtMGNGaXQ3eDhnT3EyY3Y1XzlIMEVfbThKal9pYldBWGtILTcxeDdzR29rTU5tTVVvbFBYME9uYlNaVi02c3BXSldxTVdka0dFUDNOWjFmczRkSll3QkktODJuMU1xM1poaUhfcm9GWUU0WkJfRTJGbU9PNElFLWNVTDh0bTA5ODF3NTRpNEdyN3JpXzhPbjliODlHNVpVN2o3aHZnRExDREFLRTljV01XMTlRVUJ2Mk14bEREQ2pxeTE3TzNlWVJYcGdzUTN2dDVQcWtzdkhYMmttZm5SVndJUlhIejhwczZ2VGxaQlNIR3JaejgxbEtpd1dyR1NhLTZnVWNueVlPRzVud1dtYnBhS0l1em00U2lEdWVYYk9GYjBHTW9KQS1WeTJyM2ZVcUdGTjhDWUQzenQ0V1F2aGhfRWwyT1lDQ0FBTk96RWlnNnBORU04OWJqRDh2OFBXd9IB2wNBVV95cUxQekJYQkU5Q0lIZ2VISVFnbkZZS2VxTmMwVktxaWVOR0lma1k5Q3JuOFJtYjg1N0FoNGZydjVsbUhaNHkwU2lZSnUxYTljYzhQblpPSng0bDl0WVJsMl9TR21JWjU5ZEgxWktRdndHLU1qcGZjV3dXb3pjTk03U3J0bVhoNWxKSXNmVEVRV1pQeUpMQi03RURoNnRDdmxHUk9nRWd6ZHFwQ1psdnZRaHc5MFNkMGhadkN5Rm9Xblhic0lSQWl4bEMwUGdEdGFveVFySFUxdFVNVVpFQnpQT0YyREdHS0drTXZBazh6d0E3RGJmWnc4aWFLZFlsb1FoNDlJMGEtSWtMa244VTNOZ21xOGpheDZjTUxDZ2FQNmk2RmZLSGlLSExwaVNmQl9YeWJhbFNvOFcxOTE2bWtVd3FXU1ZIVWpwNnJfSTZINFI1UklhaHJJQXoxV0tma1k2TkZYRGdxdmYtOGVOazBEeEd0cEhENVdtRXVJNjZrY0RwOGhIVWs0cW1ERzVwa205Yjc3dXlPSHEyRFdaSnJQcHpDa2NzcWZkZkRhODZWcnhPNDRHSkU5VUVrNTl3UUxyMzQyYXRzQ2pKWGNCbWxkc2RPeFJPTy1IM29WR0xz?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 13:05:00 GMT",
+        "discovered": "2026-10-06T14:17:36.302126+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لحسم التأهل.. منتخب مصر 1-0 الجزائر.. تصفيات شمال أفريقيا يلاكورة",
+        "player": "",
+        "content_hash": "61c1756186cdd043af2f0fb9b0e3a2e0f8d9a39f9226592727acd8bc666bdf8d",
         "sent": 0,
         "section": "sports"
       },
@@ -1316,38 +1364,6 @@
         "content_hash": "5bc5932adb6c1135b69a2b5c1b9706946a28acdde4d14d66ed0b07a8c93fdd7e",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 8881,
-        "title": "زيدان: هذه كرة القدم التي نحبها.. وفوجئت بعقلية اللاعبين - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxPMC12V3BuS3JSQWJRTWpOa3NYNU1nWllHb3M2emJIcFZWMGxja3J4eC1Pald4ZDFUSHZydktSR2Z2aWhXMXJrVF82Umc2TmY3Z3lQWGJCWHYwczBMUkpVTW9ibkhaeW5jNlRCSk5pdG1VRFJ1ZzQ5akxZMmFHbWxXRkxXcVlfYlJZRkZUOGJqTXZWd0hYMVpjNzNBRml1bHZadGM0aWZDOFdVU3FJTldEa2p2bUlRTXNVT1JyU2ZWQXRQRFJ4b3lTaGNTMlRxWHBmUk9SNzRxWGRtYjExLXpuVno4cEd0Ukc3UTJOUDlUMW9jN2FtREJTR2FUYWd5bnlvMXByRWZ5ZHpGbllDYXBjRENCRlNqRS1yb0U0YnBJbk83eVNZVHBIeUVndTE2aGJfY3VhVnh6OFdVTk5XNjVleHhIa3V0VkM5elVYWk53UjVfYVQyYXVtYUFPR2FnLTItdDJxRnR6djAtVVoyYkJBSDZ1M0hWZkVUaWxEUGZld3ByUTBqMVFXLWpDOUYzNkk2bTRnTGlQZGNoVFMyblZ1ZVFlLWdqYzhIWlI3YUNTQm14QWpqUXRzZzVjTjREeUFIU1F3MtIBygNBVV95cUxQVFZtcFQ3cW5VRFFSTk1DRkV4SWh0UDVWZFctNG5sNG9ONGsxXy16cVlWYmEtUGFXN3hjV2xVUkgydkJEUEZGbDM4T1lSemw5R0NDRlNkRGZ5UXgwVDVpQWtkb1NVMnpFaVlta09YMGcxc2kxUGtCV0h5WWtSR2lKVkxqVS1XdGgxYV9wa2szYWpnTEMyUURTckpfQ0RaUzBYLWxKMFozVHAwb2lkVW9SQVdNSExJdk5DRzZFNV82aWdrMC1fbGQtOWItU3N5U3RnSzg3SnZXZ19Qam1BOEQ1NDF0d3g3M1dhOTJwTGs4dXBBenNaUTRjMjB4NEExUGUtVDlKUnRWTmJsY3ZSNkRhZGpzME5ZZ1F0dDBES3lXRlF1M3VFby12MkZiN0VuQWlKTlpMdktLMkM2YUhDWENEVWY5RlV3QzJPSmdYd1IwR1dZUlI4d2Jhckh2TDlYMjg0OFhJekI5UEdyV3VWRGFHZE55Yi1TcGcxWG9MamVONFVlYl9hdTZ4YjZ0amttY2VHTHVzUHBlR3NpMmVVN0RWR0p4QjkzT3NIRVBfMl9BSUY3NlpucFBRQjNsSlE0VXhkOGNlWXZwLUFiUQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 21:42:00 GMT",
-        "discovered": "2026-10-05T21:55:56.186911+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "زيدان: هذه كرة القدم التي نحبها.. وفوجئت بعقلية اللاعبين FilGoal",
-        "player": "",
-        "content_hash": "529b3c7fd1afa60a64ffdb9558d7937025d5ace4feed8876ea7402c7fd40a433",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8981,
-        "title": "مصدر مقرب من اللاعب لـ في الجول: حسام عبد المجيد أرسل إنذارا لـ الزمالك بسبب مستحقاته - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXczhIQWpnZ0k2RG8yYVZhaVJlRHNQMmI5LXpjMWlkb3NJWEh2dUQteGFLV3VfbG1kZUk4aUlKYVdBUkV1ZmFZWUhOUDYwQmVN0gGTBUFVX3lxTE85Mlk5UmwtdVlRRTNFWVM5b1lXQXdaeVRnNGdrdV9KQkttTzNKS0dtSmhTTF9pQ3h1QjQyaW52U1lUYkxXcFFqQ1MtUDFKYnRPeDVSZTZUQ3FibWo5cGRJZDRkZVloYmphdFExRU9UUTNhUW1JMmM5YzZ4Ul92MWZxSV9XN1BfMUZ1NFhuc1BEem1CbmN4a25qQkFOUXZicVUyQnFZV1VjNHlFZ2xCNHBBVnVlQXM0d0xTS1ZsQlE2empYOFBSVjhBdnNocy1ab2hUd0dDNEhTRzZhcFFSYjgzMFNDS3ZzUUg2WHBHNll4bmtYeldBd2xQeUl5SE9xWExlUnJ5Mi0xb3FfUVpuU3pURXB2allCbmtMbVE2djVSNGtpM2Yyc0VfNF9iUDlNN28zblVCSE5UWC1XWGE3cGxuS3JYNnEyaDY2aXVreFg1Z1dxcmhtQmRvanV3UGRsc0tCaVQ4cV9LZk1odlNNN0Fld0ZLV0t4d05POUNyMUdYVGRXWmtXZTNOZmtrLURIVUNPYzMzRHRWbWluejFoc0hlOHZoZHBQY2U1MlktckdxZ2h4ekNtNFNBLTNYZ3dGSWc3d1hsTzhUZElPSDgxMGhZVkJzNlM4Mk1OWnY3b011eGpTTnNxSXB1bmg4RzF5V2tUSDJURlFvY3B0RVU1VFN4OGdfaWkwamJleG55UDR1NTJiTWxrY2R0elJUdEdFSFYxbVhpZC1uSnNmVl9rN2JXSnFURlNobFd0bHN6T1lOd1pQb0xnbHBNbERNT1lLamNYdWVkdHBHNnFDbXhpdTB5RUdHZTV1ZWxkelRzajFURkdkM0xqVWxoaFdjdGwzM1AtcFl1eDlXRUFLNGxRSU92aU04?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 21:25:00 GMT",
-        "discovered": "2026-10-06T05:33:58.742685+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مصدر مقرب من اللاعب لـ في الجول: حسام عبد المجيد أرسل إنذارا لـ الزمالك بسبب مستحقاته FilGoal",
-        "player": "",
-        "content_hash": "c21f55b96ce95ef7737da3127afa323fe6913854b6ea40cc26e1a23fa450811f",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1844,22 +1860,6 @@
         "summary": "العقدة مستمرة.. موسيماني يرسخ تفوقه التاريخي على حسام حسن بعد هزيمة مصر يلاكورة",
         "player": "",
         "content_hash": "163476e31041376441c8d52c4497d59578e24eae204bf37c8a26b8cfc994e0e3",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 8778,
-        "title": "تكثيف الاتصالات لعقد «اللقاء الوطني»… ووفد «فتح» إلى القاهرة - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQcDJicXJ3a196UFJYRmM0N0d5NklMUEVGLUVuWFQ5VU1naDh5SEZIMkZnUFRLWEVLcXR4UGdSbW02aVl3OVRGZXZBSlpuU0R6MTFONXFDcENGcFN6VlFpWWkwa29WQ0xRemtKLXNTNFlMM3d6LWc5OTRGVEdQSzVFQTBnQ3pZYjhzaDBIbkJsVlgyV1lqN01LbXJ6b2I3WHFqdkk5NFlPcF9reHlBRmdYX09nNEVsUkI0dVl6YTlRQ3hIQXg5ZnJRR1BqamhUSk5vLUtwMTBQb0Q2bnlLRElfdHh4dTlDTE1iX1VObnM1SHRnTTl4WjktcXdUWXpGNFJhSEMzLXpjV19uUWZhcDViNFJGZVVVQ1ZoaU95RFZZQ1REcTdGY094cEhRcFJvdlVKQTBaaQ?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 16:46:27 GMT",
-        "discovered": "2026-10-05T14:40:35.913285+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "مفاوضات",
-        "summary": "تكثيف الاتصالات لعقد «اللقاء الوطني»… ووفد «فتح» إلى القاهرة القدس العربي",
-        "player": "",
-        "content_hash": "2d7a8ce13e66b5da3c85bca61a7f0a3d8c6dd7160f6403b7e976b5aba807a8f8",
         "sent": 0,
         "section": "transfers"
       }
