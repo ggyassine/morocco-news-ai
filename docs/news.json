@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-06T10:10:33.379429+00:00",
+  "updated": "2026-10-06T10:29:37.237231+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 9037,
+        "title": "مستشفى محمد السادس بوجدة على صفيح ساخن.. مواجهة مفتوحة بين الشغيلة والإدارة حول المستحقات - ar.le360.ma",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PdHdaNzk0Um90VTZieGJ0Qk01Rk9VLTFSZWJvZ3dTSHgxX0R2YjJHRWJMdFVpTm40Q00wMDQzZkhya1M4WVgyVE1uUG1MT2IxUF9UbWxvcDdfM1NNM1J2RlZRZFVPdw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Tue, 06 Oct 2026 10:03:53 GMT",
+        "discovered": "2026-10-06T10:29:12.395488+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "مستشفى محمد السادس بوجدة على صفيح ساخن.. مواجهة مفتوحة بين الشغيلة والإدارة حول المستحقات ar.le360.ma",
+        "player": "",
+        "content_hash": "06784ed6199f32ca0a5c53f8a983f18f57801cec66fdac20696ebc112bd208e7",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 8962,
         "title": "تنزانيا.. انطلاق أشغال الجمعية العامة الـ153 للاتحاد البرلماني الدولي بمشاركة المغرب - Le 360 Arabe",
@@ -514,22 +530,6 @@
         "content_hash": "b597ea85f8a84d2d0abe94c7bbdebf3c69da1100510aa87ed41dcaa77ba5c987",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 8705,
-        "title": "مدير عام تلفزيون فلسطين لـ SNRTnews: المساعدات الإنسانية المغربية يجب أن تكون قدوة لباقي دول العالم - SNRT News",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UbWFvUlc5SXJZZV9uMXdCQkotVnA3Tk0tanNod3cwUGJNYndqOUtvdnh6MGJ0eXN3WEFfZi14eHJYOEFNZjRoN2t6bnk5OWc?oc=5",
-        "source": "SNRTnews عربي",
-        "trust": "A",
-        "published": "Sun, 04 Oct 2026 00:14:30 GMT",
-        "discovered": "2026-10-05T08:14:09.242106+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "مدير عام تلفزيون فلسطين لـ SNRTnews: المساعدات الإنسانية المغربية يجب أن تكون قدوة لباقي دول العالم SNRT News",
-        "player": "",
-        "content_hash": "f11a213ce6bb971120cca391e6c3cc5d7d8a85ee82f69da4231e4e9e0b84135f",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -546,6 +546,22 @@
         "summary": "موقف عموتة والأساسيين.. كيف يفكر الأهلي لمواجهة بترول أسيوط بكأس الرابطة؟",
         "player": "",
         "content_hash": "0a4ada2de3b9408069e14ab05cce7da7a8bb4f2315bc209bed74839522f60023",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9039,
+        "title": "فان بوميل مدرب بلجيكا: نسير على الطريق الصحيحة رغم الخسارة أمام فرنسا - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMiqwVBVV95cUxQaVU2WUh1SDhMZDVhSjMtcWxkSzFhVlpRbVUyY2NJbEEtTXNDeUNObHJwN3NpbmNzMU12QlpqSDF5UGh3bFVhV096QWNlUGcxV1hHVUFDRXpqWHFJTDZkRDBITV9JWHBCMF8tZjdFWGxyMm10NVpBUklLdmJPUHhGejZNNEp2SmpzMWZCckZmWjlQcmZiQlhTSE8ycURZcThjeEZYQUZaNkVDcGZGQkw5ZW5scUxvSUkzNmtESVduTE1xSVdIcHdmN2kwbDR5M0dWVEFrMFdiQUJ6RC1CUGN5N05JdTdiM3ZieDNhT1Y2RzN0Mml5QnJ6R2FRTFRkeEFpYzk5MEFUUFM3bl91MGxvcnVOTXdJb1NqR3ZCTHh6X2pTX1ViWmluekdVMFdEV3dEcXBPWXZIZzFlUkNoNGt5NEZuS014d184STU4dDBmZXRLbGFSRlZpdHJZaVE4Tm9MdVgzYlJKd2FhQkpQZ0x5ZjZGUjdBWkFiWEhseXBZYl8zUTBDUTgwTnRQVWNVekVxMVM3TC1lckYxZGZfZm5XY25fSDdPYWJLTDV4ODNEMWZIWkNkdlpoX2hmVEFiTE9tMFVKUG40QjZ3RVR2M1Y2TkpMeWx0WnNsZzl0M0h6ay1HTUk0UzZCakl4RnJobzZLeC01ZmlkbkJpaDYxZWlTQTBzckV6cEpiYlBnS0NMRWtFYjI1eGRvNVZJaWlweHFMWVhDc2xUaWE4Q3d5QkViRkphT0xZajZuSkFLektPYloxSDhkS2toamhqUXVBdDhmczRBMGwxWHpsMXVOQ2lqcEpYTDFyQmUzV0VoRFUycHlKbGVYUWt6S2UzbEctRnZocXEyQVVRRXN6dFJ2YnU0TGlUaHNFVUljR0tiNjEtcHVKa1pWLVE2YjRiNA?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 10:02:09 GMT",
+        "discovered": "2026-10-06T10:29:21.308732+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فان بوميل مدرب بلجيكا: نسير على الطريق الصحيحة رغم الخسارة أمام فرنسا الشرق الأوسط",
+        "player": "",
+        "content_hash": "24232d07484cb1b43c76ba9670e525ae9da49b48eaeb5ed09b57add48de61e4d",
         "sent": 0,
         "section": "sports"
       },
@@ -578,6 +594,22 @@
         "summary": "خبر في الجول - بعض الآراء داخل اتحاد الكرة تتجه لعدم تعيين شوقي غريب مدربا للمنتخب الأولمبي filgoal.com",
         "player": "",
         "content_hash": "62dbe687578e673ce91cd3d1cd76891cc14b9a784b7e7bba9c98a316809c94e1",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9038,
+        "title": "الشرق رياضة / ماذا سيفعل ميسي بعد وداع الأرجنتين؟.. خطط كبرى تنتظر الأسطورة - nabdapp.com",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56d3pNSE5CQnNzZHNIVS16YjdfX1FGVW1sdGY1TXJoS2hMRFFsM2ViUTR5SDJyenJNeTM1WFJhRlowM2I3eEc1Nlg0dVp2YkE?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 08:41:23 GMT",
+        "discovered": "2026-10-06T10:29:20.643938+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الشرق رياضة / ماذا سيفعل ميسي بعد وداع الأرجنتين؟.. خطط كبرى تنتظر الأسطورة nabdapp.com",
+        "player": "رياض",
+        "content_hash": "9c9cd2c67527c99443ae98c242176506aae614f8fde306b35b87dadd86e0cc13",
         "sent": 0,
         "section": "sports"
       },
@@ -1298,38 +1330,6 @@
         "summary": "لقطات من مباراة فرنسا وبلجيكا في دوري الأمم الأوروبية (صور) يلاكورة",
         "player": "",
         "content_hash": "8148821eb8213985b731a2f7d65011f067af34f6a3f9caaac11b0cb8944540bf",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8944,
-        "title": "كينيا تواصل نتائجها المتواضعة بتعادل ودي في رواندا - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxQOG5Ed0dkcjZoSFBTNEZZcWxaeXU3ZEJwU3RJNTNXU0phRzFqTU5qdU90b2ZBMXlmbF8wMEFiZmNHWjZOaWlKaWgwQjNyUVJSMjJZbi1zODdwYjdJRHFOWHdDeGVJYmZTV2ZrWkE4MlFlV2pDUGlLX21VNVk2RWd1MXhCbFdrWDBNaXJqaWVFZmswWVVrblZfNE1mWEh1RjJsbmFuRzV5UEFJNzZJakVIb0tBdDJOVHoyRm1oaDJ5OU1HMTJwSGJldVRGcmdOUm5JMlJ0VHRPZHdNSW1TaW4yZU05aF9DQlprRDlZeVlUMFdQMjFwdXBtbFJ5TVZRRTRYY0xtV01FMnp0NUdYU1lScE1wRnRtMXNrN2RDR0IxSmdjMjg2eVBlZW1tT1E5V1FrM1hiNlB5dl8yXzhmUVRMSkV0NlA2YWlDSVZJVFdTMlJiSVo3SGFBWEV0eXJ5TUg5ajdDYzZLa3dONTRDam1la043RWdBd3h4QjFjOERhYTFZNDRsdEYxSmlJeS1CSjFkeGQ1UVZjWHF0Nm1MWm1ycG1TNVJWYzZLXzBhaXJTamdvTDNxMnJvRDJhMEtJMXJkMHQya2ZkV0R0Vk5tWTNLQXF2RmFkMGlCVjg5RTdueUlfY0E3Qk9Vb0hOOTBlNm00dXkyNzZCSFpkN0E3aUdQdTI1d3k0LTNSR3BXZE5ubVpmZ0wxUlBmMHc3V054S2huSGxENHVUTFZqT25Sdkk1WDE4dExFdw?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 20:32:10 GMT",
-        "discovered": "2026-10-06T03:02:20.590051+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كينيا تواصل نتائجها المتواضعة بتعادل ودي في رواندا الشرق الأوسط",
-        "player": "",
-        "content_hash": "786a85375a695ef7a070ed8f975023a52654ccc04709d3f014a48e29b2ffef73",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8868,
-        "title": "جيوكيريس يسجل رقما قياسيا في دوري الأمم الأوروبية - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNWWRjT2ZIaWxKMTE0Y1QyQmVXalBMam1nU1hRb3NIbmt1U2REbDd1M19BcnRkbW5yb1V5UzBPRGJBNEM0Q1Y4OEdnWUZObXBGaEc3RGxHcmx1a1QyZUpnRjNob18tSF9Fb2dhalRZUDJIY1kzRGpQdVhyZWdEcGstS1M3SDVuUkRVOXdHZVJ3OFFMdDRrdTB3dHg2ak9JNTNnUzhZclY5Zm1NbWtVZ19hdmdmcTBfSnczOG5MV3o3N0Z0REdlT1hoRWktR2JtcG5NSkFVX0Q5ck1nYlhMYWZBcVhyUkdxR1A4Y0x2LUlsWG9vMEZqOG1fMTFsYklsN1pwQ1dvRzRUNC1NQXFoNXBUU3p0RU1TbHU1SG9Bb09DRkRTX2hELVdLcXotb1BGeXhHWWQ5YUpDYVFFODJZZ0tpV2pHbHJaSzRiNTlmUmRMVUZadlRwVjFWdnJtaHJxVzBfZ3k1N2x0TTNhVmFjTmFqdkJKeWxfUmtQbDN1SE51elU0UFk1MHZFTHJtYlBaZWZySVh1V1lJSHdWQkVxTlJ1cHVKbDlsSm9DbnVJ0gGwA0FVX3lxTE1Xa1JOMG9BbkxqOERZWk5CVWxKQUpoc3BBSXdQWW5PNm9vRzFPeHJwRlBRcVQ5ZEZlMUVMbzNQRjVRY2FzZjMtbU5PYW5jVlFFMUxDMGtzaU13eWthVWFTbVdtaUpCemdYUmpYUWxsczdtZXg2QWwyYnNNUzczcnVmRlB5M1U4aE45SVVKS2NNX2hxWkFFcW5QcVpNdG4ta1ZtX2RTeGs2Nm9ETzFuX0NPQ1d6Y2V3bFFSZXJhVVh6bEdmZXJvWmE3MUJRVktMYXo1YTlVdDRlUUtoaVN0SXVZUWZLR2FhU05wNWUyN2d2VkxKXzhVRTN1WDM3bXo2Tms4Nld2MGlpMFZlYnNMWUM4ci1XY0RwVGY5bmFEbGFMR1NLdkVVNjRzNWh6WHRwQS00Wlp3QnAxRGh6SktjTS1oOWN1MUZ2YWdnclRuRURJWndnZndiRjhqY1dyWXZ2OEx2Vlg5ZVRIbVFZeUdRMGhMVXNXeU9DcnpuTkkwa2ZMSGJLN0gzd2dFcVFjQTZjM3FZazJuLUFYOXg3aGZyYzM3YkdIbTdyaHZNNU1seG5yZA?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 20:24:00 GMT",
-        "discovered": "2026-10-05T21:32:54.972583+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جيوكيريس يسجل رقما قياسيا في دوري الأمم الأوروبية FilGoal",
-        "player": "",
-        "content_hash": "aef31d825e0351f661482ccff44d9adf799e648948126fc568ec2254d692fe03",
         "sent": 0,
         "section": "sports"
       }
