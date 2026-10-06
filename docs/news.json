@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T13:04:29.621563+00:00",
+  "updated": "2026-10-06T13:25:08.893637+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -534,6 +534,22 @@
     ],
     "sports": [
       {
+        "id": 9071,
+        "title": "انتكاسة جديدة للسيتي.. شراكة بملايين الجنيهات في مأزق - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxQTG9meVRJX2xyelNQR0R3QTlMcDFXTENFMTByZXZ2T3Y1QW1wenRJT0pVS2NrN2g4LXdrSGR5b3VKdG55SGU5eDZoVFFVeUg4RTdxUXczOXZMZHp5SU9DLU5GNGZyWmh3UUlkSW51Uk1qd2g4cmVvZ1hsSEJxdWdocU1fQnJ6d3VQVHJXNjJ2d1QxcHdvYXlEZnM4Zi00QXYxNTF4aUpZdmliWjFfVGVqdnE5LTNVMUZRaktnVHhXSXJISHBnZzhyZFV0WXpmVmZFZ2dTWFotZjhnTXJiWmUyUHpFeExsX2VnemtKT0dZOEJLamVCQkctV3NDYndnTURPakpCM0taanM3X1Qxb0lFN2w5dGE5VWlJYkJ3ZnRDVk5VRzR1ejhmM2wxa1V1Mk8zYTVWYmlyTWNqY3NuUDNWQkM3VC1NRklpeG1EcnVpX05zVWNaeTBYX2pwNWdxWldVcVdzdTRBMms3dUlXUUZBeEpKLXZqeUNBXzF6Vl9RSnhPc0E1aXNwUl9Idk81R256TkhTU0hzX01ITmJqcmZqamVwSzNJdllGcHJaNm1QVWl4S2tlS2o3Qkt4ay1IZGRYdWh4UExBWHR2TllTSkZSU0hBcjY1SGFsME56d2RlWnRiNHRXdF9kSERtZ2pjNUhEeXRGR3V4dkwxeHZJMTlFbFY0bFZHNUJRS2I3LU9sT29FR3kzeUhnV2dMRnVaQVFsbGptbA?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 13:10:36 GMT",
+        "discovered": "2026-10-06T13:24:50.128878+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "انتكاسة جديدة للسيتي.. شراكة بملايين الجنيهات في مأزق Kooora",
+        "player": "",
+        "content_hash": "3b93a2e652ef33b9e9491c944b5462d3006eb78be839e4f55015c45fa0273f38",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9065,
         "title": "بقيادة جيد.. طاقم تحكيم مغربي يقود نهائي كأس الخليج بين السعودية والإمارات - Febrayer",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jSFNiSERKRWNwbGRUWWcyRk5PMGlvX1ZydVI5RzFlaEJuTHVIZzhPU19BWUJmNDBZMGFnQ1hEUk83cGVTWXFSOA?oc=5",
@@ -754,6 +770,22 @@
         "summary": "مواعيد مباريات الثلاثاء 6 أكتوبر - نهائي حليجي 26.. وإسبانيا ضد كرواتيا FilGoal",
         "player": "",
         "content_hash": "48ad774689774457844c7819b88d30c471e9ac5f5499315ddb27c13d509f487e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9075,
+        "title": "الحوثيون يؤكدون تثبيت مكاسبهم الميدانية… والجيش يعلن استعادة مواقع استراتيجية في تعز - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQdE56SmNVZUFhamRaYkFFSHJ2QmJiaDRlQWoyakhYQWVmUkdoOVpOSG9ERjJpdjVqTVZHMzFTc2c4ajF0RzQ1b2hNeVN6NmpUQUNWMDJtaTM3Z0NOazA0UmcyejVva2dOT1RndnBId1pfUEVxQWFCSmVHaVZVUnBwUlNCeEtHT25RSThkdmR0X2tCTEF5bTlybl9BMExhdmlTR05WRlpmZlQwUG5ybWhqSVhhQ3hheDVEQ0xZOE9KbG8tZXR2ajZ6QVBtdThNcGlHQmY3eUNUU1VmM0drc1RzN1l5RVBrN2pWcUhxSHQzLURxUU9zRWxETFNycktQSkRtZnhZUVRvaVZZcS0yLWx1MTMtN0NCNGhlMnZmcnJ5dnNtZ2l3MUxtLTRDenhhalVENm16eGYzcEhWWExaeHpXbFlhYmlvdw?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 07:11:55 GMT",
+        "discovered": "2026-10-06T13:25:04.141922+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الحوثيون يؤكدون تثبيت مكاسبهم الميدانية… والجيش يعلن استعادة مواقع استراتيجية في تعز القدس العربي",
+        "player": "",
+        "content_hash": "bf2711cdbc39c277d4388c824e02bd95eb4f0919c104794fa9743d23116c4b7d",
         "sent": 0,
         "section": "sports"
       },
@@ -1298,38 +1330,6 @@
         "summary": "في الجول يكشف الأسماء الأقرب من الفريق الأول لـ الزمالك للقاء زد في كأس عاصمة مصر FilGoal",
         "player": "",
         "content_hash": "ea5eceae083b846e08097b99f01faa358bb22affa63da1ad43b4aa315aa9f9e7",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8880,
-        "title": "موعد مباراة السعودية والإمارات في نهائي كأس الخليج العربي \"خليجي 27\" لكرة القدم والقنوات الناقلة - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOcmFPU2p6V2lpOEZ4Q3hYRHZiM0hhUHVYSkNNMkhTM3p3ZTA1ZG94bk1Wek5ZTjVZTTVEYXNIMXJ2Qm5iQ09JX2E5SHZ1VThuak5FejRneUctU215QnhPNnluLXBiSndlRjQ5bmJrbXBGcEdaMHhycmlmQU5HYUxacGlmTVRoVjI5QXZFS1VVdVNzbkdESEpXSWJqS2xPOHhVQjVib3phdEhuRkI1NnBkY0tETXRlbWYyNjFVb3ZGSW5KdU1tY3dVWmlGelNjR2RPU21nZzA2OHJGYy1VOVpkeHhYUUVXendzeWxjYXM2aHg5XzdfRjlSMTJ0NndTQVJMYks4d1lBcmtXYUlReU05RGx6VlpYcExrMWV1Z1hveUlDa3oyclU0aGFSQUZYSFk1Q0lOeDlXcXF0Ql9VZTFsa3N1U29wdkEyaHV30gHQAkFVX3lxTE1qcUFNRC11T2tGV3JqTEw3QnVNYXZ2UFdYNXNub2x0YUFBaGJ1ZUxmYmxLZGNzeHRnc0czbDFxWDhvdDFaMXpvci1GNWJpbHRlMEMzMlhCUmhGT3NUMUstR3lSQnhSRmNwUjRkSVBmQ05ZWkFrMzBYTU5mb3JocnpxdWtTd3FVdy0xcUtQQWRZTTZ0YWl6bmZRalcwS21aZE9RQzBFQ1U3cHNydk81aDRUZW1NcjB3cDFNc0FadmRCM1FfREZCb2E4elhpc2h3a01KRkg0dlBxckZsMzlaUGVXQjBONVZHV2t1NWNXYW13RW5xaGlDWXIteUZLdGRENHdnVUVjQ0M5MFI1d1owYVFLN1Q1Z2llZ1RzLVllcGNGYTRsVmk4VWxHN2lLbGlwWlRRNzBmMkhxbzktUERtY2F5elZJN2MtaERFUE1TRXQ4QQ?oc=5",
-        "source": "العربية رياضة",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 21:14:18 GMT",
-        "discovered": "2026-10-05T21:41:11.285827+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "موعد مباراة السعودية والإمارات في نهائي كأس الخليج العربي \"خليجي 27\" لكرة القدم والقنوات الناقلة الجزيرة نت",
-        "player": "",
-        "content_hash": "9dd2a0a1533b0c3f84d522467eba7b5d4854a11c9df0bc0d53516c02955f4bfc",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8865,
-        "title": "دوري الأمم الأوروبية - إيطاليا تواصل تفوقها على تركيا وترتقي للمركز الثاني - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxPTVlrQ3dkU1pzVlktVjhCUmZWMnYyS3hrcUd1eGgyd09FTEtmLThGak5qcXJVZ0NqaUd0WFlHbW90N05CWVdSck53cGlPU2JBMVRBZ2NlT1ZwUEtRX1ZvMkF0UzdTeURha2FYaWhyWTFwejVKRFB2Sm5COU53b095S1pIWVQ2Ul8tUHJ3SFc3ampFMGF3RkFTc1AwMkJUdjc1dlNGZkdVOC1aeXF3T1pzSnYybDF3dVRqVk80R3VwbVpKNFl5dW5teml5MTFPY2hnN2N3MjhqeHIwNkJ1dGJaemh3VXp6Q3NISFNPMUR5UW40VjJrVHgwcVNmbHNuMzFCaXRGV01Ebnoyc2xKcG4zclhzVlEta1laWmh3VlRrYm8wd21yN1BBeU5uWDFwYnZOblNJc2JRR3lnREs0d1QtUFlTRXBLU3Ata0VqazdyMXlOTjNLdzNJWXJaemNUWWx2SXNNS3g3ZGlOUzlLUG45VmtKUHg1SnVDa3JDOU4ySWsxYVhKYzRycnJPbGs0bWN0MW5PbTEyb0tKS3l1N1N6N0pYaE5pM1ppcDJJUlY0bXgyX1hRZFRaZWZPb2gyenBJLVRhX2dpR25LSl9YcWpDbUd2TElMdDZ1Wk5nR2YwQ3Vxd1VRQlBHUnYtS2lieGJld0VvY0E4UHlLYnB5N2hYcDNMTGV1aWNjS3hKZy1WbERkWlp6V0VId3lfcWt2czJnVFdjV2RkUlBTWVhSVlUwQXhUZjRVOEhuVXJEOXBNSXhnZjBEOGQ0a2FzVXNkdmtKcnJsX1o3cXQzcXNjZmJSSFNKSDhKU3FwbHlR0gHUBEFVX3lxTE5KTzlYaHZmSkpOaC1vRWEzMmNtdlo4MUFZTy1HYnlRNy1KY1RkcnhTdzRCMGhtdGxIZTZQbTFpWkR4bnRzNUdoNDNvY1FNVUY1RzV5WndzYWVtZl9aa3ZBM2xBRTk1Q09Oemxzd2VkU1N4TzZsMVFRcWM3bzlFNFRPN2xGYWVMOWxFR3ZwUjJBYlZTOWVERHRZWXBZV3J1aExubWpRM0NudE1DSG82OTRwSWhybmVaX3M5eVRKMDFHQmVVWGpGZnFzQ3Jqd0FWMmxXbVJVaTE5U0szcW1GRTZNckVka0VCNi1OS0NMUW41NUVhS0t6SXZFV053QTRGMnhuZHZhZGRVaVQycUFJSW41Ti1CSk92YjRuRjFtS3dodzl5dVh5UGU4NkhUV2NNQUJLMlFxN0o0bEdEZm9IbkVRak1jYXI0ZlMybW1QWGRnQ3ZmbWcxbF9mUU5wRU42cVd4a1VMM0xEeGplSi03M2RUSy12NXNuZkI1Ump3aGIzQjdiVGF3ek9JaVNDNmRwUUxFdHZOYnNDWmlqcGh3V09uQzAyUE1YNWhQaHk4Q0Y2OF9yc0VqQkJJSzJRSGRhNF9ILUQ0b2ZUMEVpWFZKbDZXVkU4RXNEVU9nUldudUpxT1dHZHdrR2JGT3hhaF9TMlp1SmdvTGtIMFMxVE5sVFFKb2dVWWVMUDcxeFFCQ2hZSm9aRl9jaHBVRllHemJyOUplMFU0WS1JOXhhcV92S0lISW1BSU16WnAwRzBUZHpyS0tmZTNodEg5QTBxdVhsLVZNWjBv?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 21:14:00 GMT",
-        "discovered": "2026-10-05T21:32:54.961691+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "دوري الأمم الأوروبية - إيطاليا تواصل تفوقها على تركيا وترتقي للمركز الثاني FilGoal",
-        "player": "",
-        "content_hash": "e38acdbc7c6faaf59eec4e46ecfe45e8c7c99e63777a5dbe9dd7af550d955957",
         "sent": 0,
         "section": "sports"
       }
