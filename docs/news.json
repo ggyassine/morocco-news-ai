@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T04:59:32.350654+00:00",
+  "updated": "2026-10-06T05:16:32.897762+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -16,6 +16,22 @@
         "summary": "انطلاق أشغال الجمعية العامة الـ153 للاتحاد البرلماني الدولي بمشاركة المغرب Le 360 Arabe",
         "player": "",
         "content_hash": "277196db8c5457e52574e86c3aa9b716b040519d606e36f0494b60959af703ae",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 8974,
+        "title": "الدرك الملكي بمراكش يوقف ثلاثة أشخاص من ذوي السوابق للاشتباه في ترويج المخدرات - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96ZW9CRXdGS1lzZzZBb0Jfb2RkdGhyd1I0WGo3OW1ldUFWbFZYczBYYURmOEw0aXdDTkZSd0c0bTdFUGNHakhENDUyM3NqckZLOHdmY1Z2V25TVy1qTXBadkR2WndwUQ?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Tue, 06 Oct 2026 00:11:08 GMT",
+        "discovered": "2026-10-06T05:16:02.530143+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الدرك الملكي بمراكش يوقف ثلاثة أشخاص من ذوي السوابق للاشتباه في ترويج المخدرات Le 360 Arabe",
+        "player": "",
+        "content_hash": "272ac04397c8351c0a7d810317fa6c3b65589232cac7c1c00367f0eb706ee008",
         "sent": 0,
         "section": "morocco"
       },
@@ -2070,22 +2086,6 @@
         "summary": "جولة جديدة من الحوار الفلسطيني في القاهرة.. وتزايد فرص تأجيل الانتخابات لـ\"موعد معلوم\" الشرق للأخبار",
         "player": "",
         "content_hash": "e4ea3951d74efae2eba06e3cb8d106b7686da5d6c833af42a1f018693a4054ca",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 8805,
-        "title": "الحوثيون: هاجمنا منشأة لأرامكو في الرياض بصواريخ ومسيّرات - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQeTc2Yk1abG5PUHhlenFLcGdWM0ZaWFR4bWt2ZDBZRlNlLXk1a0xnaEMtT1Nsc2g0eTdYQkJ6UVhXME5mQ0xwbkE5VGlWaDc2Y1J4cGZDXzJUenZLRkE2R0VsMDdlQXNuZlhmeWtCd1Fya2RHVlBSc3hVb2NzczVmNWNvY2FiczhJQ3FFQWNQTVU2Y3RJVzd5SW15c2tZaFQzd0NHeU5xMGh4d1F4cmh3OG14Nm96T3VqR1lSVDljQnNyaFpxZUVIUWxyQTJsQkowZWdqdVVybG9WTG5QNDNLcEgxR1ptZUZJeGd4X3VRZVBMelRzdEVPVTZrOG9ubjduQ3NPZUFqZlhzMjBiMncxX0FUNlZZV2lsNXdhRjBpZFRWUFZac0E4X3dtWkV4RU1Fc2Ffc3piY1U?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Sat, 03 Oct 2026 21:22:06 GMT",
-        "discovered": "2026-10-05T16:11:36.374647+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "الحوثيون: هاجمنا منشأة لأرامكو في الرياض بصواريخ ومسيّرات الجزيرة نت",
-        "player": "رياض",
-        "content_hash": "0deb5c5ddec25dbd6fc87304eba6a8d872a4c963f369903a6bf6384b24b36be1",
         "sent": 0,
         "section": "middle_east"
       }
