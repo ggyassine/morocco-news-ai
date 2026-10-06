@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T05:34:11.980241+00:00",
+  "updated": "2026-10-06T05:50:03.755139+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -546,6 +546,38 @@
         "summary": "لقاء تواصلي جهوي بالعيون لتعزيز حضور رياضة الكراطي بالصحراء المغربية Le 360 Arabe",
         "player": "رياض",
         "content_hash": "4cf3fb3d63ca921182ff93cbdf7a173ef2343de13900476385496fdd0071c1f4",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8986,
+        "title": "فجر اليمن: تقدم لقوات الحكومة اليمنية بعد معارك على باب المندب، وأنصار الله تقصف أهدفاً في سعودية - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QbkN3R2trRW8xNHFuTmpla1RjaWJISmxfM2ZvWk96TzNpMnlXS1VGTVVzMnIyT3RvaW12MC1VMTFNazNfWWtfMWxJQ3ZYTnFjY2xjcE10bnUwUDA4a2fSAWNBVV95cUxPMWxjQ19sV1M4VzkxR0VrbGhCVlczNk44Z0RxaFlkRUl3NmVJcWhPNXRsQlJqWk1tNG9wa2JEMF9CUUl2cUw0WXYxX2VDSU0zMUg0SXgxMjFON0VyNzhpVkRwTXM?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Tue, 06 Oct 2026 01:08:07 GMT",
+        "discovered": "2026-10-06T05:50:00.277026+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فجر اليمن: تقدم لقوات الحكومة اليمنية بعد معارك على باب المندب، وأنصار الله تقصف أهدفاً في سعودية BBC",
+        "player": "",
+        "content_hash": "3b1e1b18b764c6d8270697fc8aef5b058b70a80c859eaebbffc2b6c2f8df8312",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8984,
+        "title": "جدول مباريات اليوم - 6 أكتوبر 2026 - بطولة دوري الأمم الأوروبية - المستوى الثاني - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPQTlRWGdkUW5TUUpkRW5aRmtOa0NhczBuS3JkbHpJZktPRy1jN3FzM3dtN2VTQTdURTE3MGJtVUFaRVZDaFJBRU5UVWlfTDU0OVFBZG9qc081andqYnhJNW5IbUtsU0QyaEZIZmtlU3FtZUVCVlRJdFRIYmRjc2FUVDBfNWt0cXVkMmF0YUhDVTN5OWZ5NU9SVEZHQ3Z1YlR0aEJudWxoT1gzTUdXR1hqWjdUWVBDMThaT0RNaVEwOE5QNGdMN3VSVERMSmNGX0hQZ2NzNzNDRDZSNFFhdXFyOTRGVHR1YVJQREI0cTNpcmhram1UY1RxeTU2OTFqSnZoYjdENmg1ek9EVjhSd0pMY21jd2haQTNZdF9WTmtJT2FET3N3SlM5ZUxTUks4dHhJXzNMNGxVc2FfN3JzYlYwSmw3cTRqX3lubXdrYkkxSzlTZHNVV0xIM2h1UEdwREdnMGdYMGtRQmFJWWh3ckMwZU1veHZSMHF3ZnFxMWJkR18wUi03ZVFGUHc4RUlRZ28?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 00:42:39 GMT",
+        "discovered": "2026-10-06T05:49:47.234536+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 6 أكتوبر 2026 - بطولة دوري الأمم الأوروبية - المستوى الثاني FilGoal",
+        "player": "",
+        "content_hash": "f795e4aad319e5c50ebb4b8a44c9133cffda5289ab5eb93099aeceda58ba7acd",
         "sent": 0,
         "section": "sports"
       },
@@ -1300,38 +1332,6 @@
         "content_hash": "bdaa029d358e34d219a97df69fa579a1aa235d357b8b852dba40d5e2386e5a25",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 8870,
-        "title": "كرة يد - سيدات الأهلي ينتصرن على مازيمبي في بطولة إفريقيا للأندية - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxORHJTUk5JQjRRSW9uRDJKNUJHX2Z6aThLZk5HclVGWDYzLUZ1V19KdVZNLWE1WDllcTNSaDJ0V2ZfVGNXZXROWEFiUmtoeFlTMzRJX3VweXZPcU1Lc1JFRjJzbEdxVzYwUTV6Nk5NUzFHY2J6a0RjOFBPWmdGMmhtX3JVakp1LVdPdVJoNjFpSG1XOFlsa3FULURuaG5fV1VXdldrX3p6cHZ6cUZpSFZEUjJvbERaQ3ZKUldiMHloWW4tZXAxaG5ZYVEtc0VXa0xYV1ItM2wydUR2VmNjbkp1eUZlYlQ3RmtwY21NZ3pVWV90dVpkSGtzVjRiQWZqT1BDTlBFbjJuX1d0ekRCbFQyMHpJMlN2ZjF3NUZYdFJBa1NMb0VEeS1SdE02MnMzZ1NJVEFhY0tHTnNZMExHbC1tamNUSEptWEhIMzNELS1Cbmp3WE4wRVdSeXhXQ2tUUEFCa3ZScWVtT1Fhb21FUjdXNjU2bXowYkFCNVI1bnljcnpyTS01UUh2dF9rZFhKYVpjcmRwWU5xR3p4N0ZfQmlTMVhQSjlITHFBZUFCb1BZMTA5TTlxRXRXbEwxZFRUWGJNaUoyS0xoNGJBWi1tR3NTSi12cGpwTUNpYXViUFpUT0xEVVcxLVdjVk5FNTc5bGZzNlMycU1oM0VLVDZ2NlJMc0s1MTg4RkHSAYwEQVVfeXFMT1pubzIwQjVPUmRoWnE0cDc2OTF1Q3JISU5COVhYeXI1WnJYaVBIWER2TnR3cEZPZDNEdVpWUVQ3U2tRUTgtYy1ZOTdsdmxodjdOaERZRTMyY0VnMXE5eUc3TEhVVXExSUFWTHh1c0owRUYycUhfY3dydDFoaFQ4bG5hMWwtdmxHaXFuRUdVZUZReVRVSFVtODVMbkVIUWpETFoweF8ta2NwaXJGVU1WRy1WTjVEVEQ3blhIUkhkV0xDRlJoWllHVmNFbHdVZ3dzNXBGSTdnell4R2MxUkhwUjFhUXlBNG5zei1XVDZ0S2N5aEw4TmZGcHNnWXZYQUdoSDh4VUpzbFRIWmxyNHc3Y00yNzRxeWNKbTBCcHR0OHlndlRLYTVOSWZ2cTQxb1ZjQXlJV2Q3UFFHOEtGY3lBTG44NndaMElZZDNDN2tuM2FOT0piY295V1g0NUk3TS1HR0Q2OC1iTmw1Umd2bEFQMS03MExPcnFfOGhDMGhyVXhTUHktQVNhWXNhRU81dGJUeTFwQ2hpcDVrUFJpbk1reEVub05GcXRLeUdKMURBTzdXRTRjWXZOUTU5aEJZSjByYlZ5WXNDYzBKUlhVVEpQTTN6SWcwYUYtT3NOUnE5N2dBdHBvN0RVYmVrNkNYR1dUSHpmT3VxaVF4cTIyNVFNUEI5UXpfSFBoSm5ZNDc?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 17:06:00 GMT",
-        "discovered": "2026-10-05T21:32:54.981615+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كرة يد - سيدات الأهلي ينتصرن على مازيمبي في بطولة إفريقيا للأندية FilGoal",
-        "player": "",
-        "content_hash": "bdaa029d358e34d219a97df69fa579a1aa235d357b8b852dba40d5e2386e5a25",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8827,
-        "title": "كلوب يواجه العنصرية بكلمات حازمة.. والمنتخب الألماني يرد في الملعب - dw.com",
-        "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxPVURzdXRleXNQak8tUnJlbHVPYXAtYnpUVm84VGtTYzY3VE03cWZHYXdZLXZncmZSaUFDbmhSa0R4aHpWSEpqeGlQNzZMUGN6blN2Q01WSm5NS1hzdThwdjZEblF3RHhCOFpLY3RzVFRNTW9ocUdCMjRaQW5ud0F1MnpsRllQaV9sMVlsdVdNblAxVlVmWmJsZ05LX1dFLVlVM1pPUmhwcFVDMGxBS2s4ZjZoS3lYcHhoRXU3c1ZQVnBpUFJ0OWhfU0JNTmlkejRDQ3pmZHJ2bXFrMk1LNksxQnU5Rm14eU5JT1VETjhMVzRoUU9nQ0Z0Qld6b0xZQzZDU0pJNU5iRS1vZ2ZDUFlETkNTU0N2ZHBmZXhGR1hUV3FBQXI3TEV2UExzRHF2S1BtY3FJd08tdGJON2hnbkFFRk85LWVialVzRTltV0FTTGFWQ2pILUVxYl85cDUxV25JRWF0TXMzSENGeTgtaHp6YmNLaFNIT3ZyQTd0OWJjUm8zZi1ndUFzOTA4R2RQVTRUWVFRUWVzTURWejVLTUlrMjFoUlh6MTl4anczVkVzdWNQSGVHNzV1dG9SYXAxTHAza2RaS21xMDl6akM0amtOSnZxeW1hN3Yzbno2N1lmVGY2eHdncHZ1VFEzaTFpci10RklIRkM5ZF9FMndjY3libnh4RnV0QURzYTFTadIBjARBVV95cUxON2twLUNCaWQ2TTBhaThYSzQ2azRCa0xQc01jOEtFVGNLSEl4YUhrSjZuNmRhZmRkSFA1Ni1jUDhXWWJmRFBUMGVLYXdUd1A4ZWhMOHFJblRZOXdtYTJFWG5Uak9qMzRUeW1pc0dnamxsV192NjY3SzJlVmhCWTF4ZjFXT2FyUG1OdlBoNHJ3U1JmOXpsR3BibnRRT210R1JabWpPajM5VGlNcGp4Y1dmeThyLVk1TDUtRVBBaDhzSGZYUWVTZVRjNXU0cWZZOGN1MXJpbFhhVGlCWXJHTGZzelRoTExZckZ2aGpMX3dMdEJocS10LTVpalQwdWY5X0JNNExWNzFYcnE4TGVrOXVXTGZ6WFBRN0ZBRFNDZlpTVGlOWnFXbzZHWV9IM1VCTDJvbUMtb0RweVRMVzR3NnMxVW5NT2k0MzI2ck1fTGdFejZ3b3Q1NlB3RFk3eWZTaU5mc1hrTlEyUFp6bVNoMENNZ0xUc3gtLVIwek0xWUFuNWtPcEtaVUtCR1FfOXN3OWtnMTI3Y3NfOGZHbG1EOThxVC1WOWxyN2tlbm04Nm5Xa3ZhUFVlSUd2aFV6ZTdoREJCbU1FNTc3SThxeDQxVC1kTHVNMXBINThCZDE0Z3JST1VzVVRsTFBIUC1VaS1VSU9qRjYwQlVUcW52MjRKOHY4VWQ3N0MyaGNGbG5zYg?oc=5",
-        "source": "DW عربية",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 17:05:41 GMT",
-        "discovered": "2026-10-05T17:37:13.175726+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كلوب يواجه العنصرية بكلمات حازمة.. والمنتخب الألماني يرد في الملعب dw.com",
-        "player": "",
-        "content_hash": "95ed5f83aaf87a33f450183669d06444933e5923e590891f6fea0aa19218c43a",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2056,22 +2056,6 @@
         "content_hash": "ba52edae0bcae87613fd2311177749c25fb534419ef9b994b826067cbdf6e08e",
         "sent": 0,
         "section": "middle_east"
-      },
-      {
-        "id": 8832,
-        "title": "جولة جديدة من الحوار الفلسطيني في القاهرة.. وتزايد فرص تأجيل الانتخابات لـ\"موعد معلوم\" - الشرق للأخبار",
-        "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOSWJfc01fZlo3TXlXVnFnMHhaZmo3SGloU200WXhTcjFMSGl0X1VSTXVLRklDRnBxOTR0RUk3dkRmX2xSM3h0V1laeWNLcEV1UmtHZy1GaHhQbU9jdTd5dGM3QXlCbWhsTWJnbW4wNUdIRkpXUTBmMVRPdk16dnZ3a2hmRlpjVTRFQnd3VkdTNldZN242bVZJUHJqeWFnYlZ0OW1LUUR6LUhuajNLZUExRHJyVTROYm54OWJSVUhiSXl1RE9qX29kR3BnQlRLcFBXa0cyUFBxb25ZQW9ua3RNTG8wcXlZNFFDcmVLa05BMXhWWHBlemNQd2VqaW1SV1VQSkJPT1JDbERIYWVnM0JKNjZkRGxpazZKdks5Sk5fVzRIemtfWTM2MllLQ0dLQWRvaWFGNjRmQnlzX3p5TFR6dm9OamFZbDVQekx4ZlFxYVhoWTYwSkJpTnBSN1JWRXdCYkw5TUNkX25WM1FfSG93ejBVdkVZQlBRYUlqRXFIeWFkTEp6Q0VHS1lZcGRlZF9VYUJDMU1DdjV6MXVyUjUtTHBscVdyRUhrbjBETVdUQjdwVEZqNzBnZnRwVm10QVFOMGVqYlJGcFUwenNLaHQydlZJVHdlelhBWFdLbnFWWWxXb1NJU1BZ?oc=5",
-        "source": "الشرق للأخبار",
-        "trust": "B",
-        "published": "Sun, 04 Oct 2026 01:00:00 GMT",
-        "discovered": "2026-10-05T18:07:03.717447+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "جولة جديدة من الحوار الفلسطيني في القاهرة.. وتزايد فرص تأجيل الانتخابات لـ\"موعد معلوم\" الشرق للأخبار",
-        "player": "",
-        "content_hash": "e4ea3951d74efae2eba06e3cb8d106b7686da5d6c833af42a1f018693a4054ca",
-        "sent": 0,
-        "section": "middle_east"
       }
     ],
     "world_arabic": [
@@ -2136,6 +2120,22 @@
         "summary": "إيران: أي حرب جديدة «ستطال الجميع»... ووزير الحرب الأمريكي: عليها التخلي عن البرنامج النووي طوعا أو بالقوة القدس العربي",
         "player": "",
         "content_hash": "07292e73714e259e6bcdca97afa5fe09aaa827b53af8a4a155f563f262c36a6e",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 8985,
+        "title": "معرض صور لماري خازن في إهدن يستحضر أسئلة بعد عقود على التقاطها - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNQ0RqTU42X29aRFg0Sk5MX2MwbTdENW9LWDdPUjRHRG9qSUVPVXJNZFRZMmRBaG9xX1VvVTBqQnI1dkdTRW1KZTNrbUVjZjlTT3d1RUVSdC0yMlQwMGZKUHVaQlRzb2N4ZktISkNNODdMNk51Wl9TYkpOVkZkSHRuT0g5TFlfT21WNWdKQ3JkMmFZRXdodC1OQVprVXBRV3l1WlRRaDRVcUlMazBheEo4TC1aTWI2YzJEUzNINTAyb2xMLXVqSW5UaUFJMlQ0aEZjNll6UDRQQ040YmxScFNDQXFicmV1LWp2MVluYmRnbEJaT21oMXF2UG5udHZDN09RNUljUVlmUHhhRG9wZkttMDJ4M21ackZUN25TUHdMb2pfeGZmUGxDcnI5d1NycHJhRENiV2YyTUJmNkVsNlJ2OTlaVkVmbThC?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 17:39:10 GMT",
+        "discovered": "2026-10-06T05:49:58.157147+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "معرض صور لماري خازن في إهدن يستحضر أسئلة بعد عقود على التقاطها القدس العربي",
+        "player": "",
+        "content_hash": "71dcb640cbeb41330003fdeb33ded8475389692df679a98778bd32df57f15f86",
         "sent": 0,
         "section": "world_arabic"
       },
