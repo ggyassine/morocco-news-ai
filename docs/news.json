@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T00:40:24.884867+00:00",
+  "updated": "2026-10-06T01:00:03.309939+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1352,6 +1352,22 @@
     ],
     "transfers": [
       {
+        "id": 8914,
+        "title": "رغم رحيله.. شبكة إنجليزية تحتفي بإنجاز محمد صلاح في الدوري الإنجليزي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxQZW85M2lfVnJqOUY0dFdCalhEUWQ2ajRvZ1F4RzFlNEl2VzhnOEFyOEQzcVhYcGpBSWV4Ym02VVBibXdnUUZBdzJxM3dZYzc1Q3E3eGpyZlZONHdfN0s5MjlLSTAwTlVieGo1aGlOV3B3bEdJOEZuTmRYVjR5bGdyR2JqMXBJaHdlaFZCajdvRWhFaHB5Smc4cUd3RUlpTmlMS1Z1M0kzVHpMOEZQNWpJU3pjSExzZE5wbFJma2xnRVUwYjNjUnhHY2dKcDJ5dDR1U1VGZTE4UERWUG9WVTJFZ1RObFlCc1MxOE14X0lWTGpNRTllOEhDYVlzM0RXSXhSM2VrVFo5VVh6SnlxbF8xOUljWXowcDN0MVltRE1rNFpXTFA4TVVVc05ZN1dZaU5yc0FOdDlSQXlsdUF6ekpQQUwwQy00QVRJWjRlZ1ZnZkg5OUZJS2VfWXd2NDByUU5RUlhEaWtQSE01dGF2QUhhcjBJMGxTdDRORGlVTW1YRGFsMWw0NklVUDhzT3VaQWJaQUxwSE4wdHJidzhZNGlEY3pQQVlWcTZFLTFWR2F3NFhHTEJJUEdFZFNRRWVsRjk0RXk2NWNMTDJMbHlZY2dsSEV5R2NCVlBrY2FKRURpXzRXXzlaX3JGeXNPeExnemJKY01hN21sVkJ2bmpHTjU1S040VnFJRlhHVHJSYmRuU0l0M25TbEdoQ19hTElEaWdoWUdzeW9rRmlxNnhIeDBhNWdHOG1acTQwY0g00gHABEFVX3lxTE43ZG5JUGsxc0RBNEFiZ0xpUzVaLUNrWldRQkxmc3NnSGg4TXdUWHlyN1VjRzBIRHdFUUQwUXJNZ1gtOWg0ZG1wOVd6ZG5tMlhmMXIyNU5oY2JKMmJmY1VRSVVSNFVRdG41dlBVQnNPQlJObTBqRHV0S1FWWGF4UEdDRUxxUVdHeU16QUtEajNfcnMtM215RW5HOHNCdXBCWS1USEFqOGdmOEsyMGFyNlRhMTU0bGRzNXhhTkhYX2RzY2lGVllHQktXOVRIQmQtRlplMXc4ZmxYWDBVa2RnMmk2TEFvM2pVLVFlSi1fdnRjMnlJM1FtUUFMQ3ZwZjh4MUxzekIwc18zVWdLVF9FVkZ0SDhsWWZ0aXZCRUlXcHJ1R2I0QmtpdkR1TmVEVjJhb0xweXV4TjlodXRkQjdPUC1ZS1IzYk9wYW9yX1UtTXBmb2hUQUpiQjRQVW4xRFdvUElwN2hUVnhWWEdqZnhHUzNFS0hHcHNIWTEwQ1pjNTd6azhjYmpVRzhxWVJydWl6ZXFoTElvTTNWNEVzSFVJV040NTlKM2RXY1U2bTE2VTlkeDJoU1kwMUctVkd0Q29NdGJHZGVrMlVoYmhoYzFJZUt2TUVHQUx0QVUtTnZpTU0ycXhMYW1weVJDQTJjT0wtMjd0bzVJNUNCamM4SFpnemVuRnJ6S2ZVRE83S0NtbjQ0UjZ4bW53MjFTZm51ak9LYnp3dTNlOTJKYWptZHg2Zm1ac2JXZWVMLU1jcTRpbE44cQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 20:49:00 GMT",
+        "discovered": "2026-10-06T00:59:47.847136+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "رغم رحيله.. شبكة إنجليزية تحتفي بإنجاز محمد صلاح في الدوري الإنجليزي يلاكورة",
+        "player": "",
+        "content_hash": "d2458976f98ea29be7a11c9cbad5a8f1a4472661ef229298414810a3cc673113",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 8874,
         "title": "أمين شياخة على رادار ناديين بالدوري الألماني قبل ميركاتو يناير - 365Scores",
         "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPSE13ZmxlVFpJQXV5NDQxM0xwakZhbVFYQlJfdGhRVXRQZDl5M2JUY05SN1I1ZHBGRVZvYnRwMHlqOU9GMnRqejktV1c0M2JONXpsSmd2NVkyck5WOGYzcWxhTDhub3liaHllUWpkVkt4MTk4Tm1vY2VOSE9VdlJTOFJZUWJGQzFaMk1wOEZOOEhnVDhQdFlPbFlNeF9UYVpQdmFpa1JRLXpZSXVFU0pZUWNWYUh3X1VwTUwtVi1zYmZhdFM1Uzl2dEpTSWhNWEJ3YVE2eGNJdXlwb0Q0NDVjZC1qWU0wTTZDdmlNS0s3djRsdWNUZEdQaTNVbDVXRmdUaXpjcFJGdWM3eUgtOWdwNXdRTDRhUmpmdjJrOGhpckczUmI1YVRqZVltLU92eTdQYmd5VXpJWFZ0d2xPNy1HV01jaEd0Qzhsa0p6S1FLUWdtbUFENmtRRERiTklZQlk?oc=5",
@@ -1846,22 +1862,6 @@
         "content_hash": "185cf8027fd149a1239ab87a47550a81ad2d750146c94eb13717458193ef1575",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 8712,
-        "title": "3 لاعبين في الترجي يستفيدون من رحيل ريجيكامب وقدوم فرانكو - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxQa2VoM2tFR1BBOWhHZ0E4RWVwalJFN0Z0d0tTVWR4SWd5d2tPR0V3eUpKUjNZSDRqendQTzFubFdqamJSM3lRVUdmaTI0YW9CajAtNWpoUzdiZElvVS15S2tJLTRrS2FuNHVObmNPU1JaRUtpc2RkOS11dHJyMVJ3d19sb1RfSHBmVGV1dGxkYTN0ak9OYjl1OVZEc0R2dXBtRThzdHN0dHp6Rl9MV2doaVpsZHdCZnk2VGhIYjlxajQ5VF9PaUhKXy14VG94NE4zZTdmcnhEWjRxdzQ5Nlh1MFZueWQzeGN3bzJnZ3U0dmZ6MUNqeUN1SHYtTGtUTjJVRnlsTFp2Z0ZPT1BGTl92UXdmQS1mMGgwaDhhaEs2Ni1VdUp6NS1BbnRTQzVPanFkek5ISWVLblJtdmFtdXdEdGhCT2p5b1ptMXREd1lOc0VMRy0wNkpQZnlucWdkQng0ME5yWW5mRERmbFU4NGhtdVRobXZnWlR6SHUyUEZLYzJsMlhBZHdfblB1UzJiUXR4dU5fV2N4dW1VRUZ0ellQa1NrYnlvSWhZaTNQS1lxeG5MZml5Nl9WLXVuMkZqcWpqN0s2M0pBbXBzY2hLZF95eWlCY0JfTjdteWhFODhBX1VFekJ3aWg2NTQ2aFpuY0t4ZnI5WVNGQndsdw?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Sat, 03 Oct 2026 20:24:20 GMT",
-        "discovered": "2026-10-05T08:53:53.741402+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "3 لاعبين في الترجي يستفيدون من رحيل ريجيكامب وقدوم فرانكو winwin.com",
-        "player": "",
-        "content_hash": "054759c5492de2142b055ef3671c6824121fbaac16998f61acfe3b3143117561",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2120,25 +2120,25 @@
         "content_hash": "0deb5c5ddec25dbd6fc87304eba6a8d872a4c963f369903a6bf6384b24b36be1",
         "sent": 0,
         "section": "middle_east"
-      },
-      {
-        "id": 8811,
-        "title": "بعد منشور السد العالي.. مصر تُحرج الوزير الإثيوبي بسبب حذفه - العربية",
-        "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxORktMZ2UxUmRzMUxaM2FYajJmXzAzaWVzTEFvb3lDVnJyelk4TnUzSEE1N09Gc0FRVU9xc0dlWkdyaVBZdVIwRk9IV3Z4MDdnYXhod29CaWlPT1NWaFIySUtZdldHOGYzQXlSNEdvTElhQXA3T0xQekpmc3dPcThYdGxCZHd0eUZFZmJwUTl5aHgyczdIemhaZFd6eWN4cUNuZ0djcW93ajN4YWVPMkpMbkZaUUxTNHFNc2RrYlVFQXUwYUdaVzlHRkFRQTZHcmJjeTY2TW1lNTQzVTlBVHZJN0FwU0xSRllKMVNXb3haQjVic29rb2V6OGdVQzhLWlpqWGxrZ2NJLUczUWFoNTBLLVdLaXgzSS1SUE1PQURQYnh3MmNpWlYzSVI0cUpjWmVzZzM0NUV2cHFWdTJuN3djbkpUQllHSTUzbTI0cHFfOTF0R05YUVp0dUNUWHVmYm1EUEZxUERBS2hDVmlITl9aa3VOUy1DaUxiQzlHUDQ3LWxPU05WZlM3dGY1YkRqZUdySU5sWU45THZYUHBpSV9LQWVWa1dTVkdMa05SQjlNRXVDSWw1RVV2bUtScmJiNTJtN0pGdVNLbmIwRDUwa2dnY3dQQlRSMWxqN0JPaGt6c01sVTFsOVo5d0NTeEg5REdT0gH2A0FVX3lxTFB3UjlGRm5iYVNCUFBpZ1N0ajN5c1N1cjR6QlhvZXR5TXQzNk91QzdiUE9oWUh0ZUhES0tNMUUzenVINmdHUnZzT083bzBzemYtSGFkWUJFcUYtWmlET1hGcV94TUlwMkdDNUJONXA2UGw2UXB6UUV4RTZxZmFUekd1VEFiRnVzVnpSN2YwQ2k2dGF4a2RaQzZWbnZYT3ZZREdrQWdDdzZaWlBobEVFTlJlM25LQ2RpRXNOWEZqRzF3UWtnOU5qYlFPSW91dFB0Ym4xNXZFamNXWTdoTDA0bGYtYnJNR3NxVWx6VjFZSnZ5MXVpM3g1bmh1dG9kLTNwaXJ5UXhuWDQwQndxUXlqdXcySzlfeUcxZDRKWmw2SjRvYnJhTUI2NEo4S3hRSXprVFZvdVlQRTJCWmJKOXk5YWN1QWNyX3lqTEJSYjVGeFZiZTNSVVRpQXlSQnJHd2lqVDRSZUVsTFYzUlpMVVZ3THVRODNIeGdaamp2QktMM1c5SUFUS1I3VWlaWDMwaUJERFR0bXdVS3pncThvMkUxT3FDUTFuV0kxTXhnOW5KaS0zd1JyRmRESGVLcDZDMlhXQzZaWFMyVEZRMUczeUxtVEZnQnFqVXVYSk5iSHZ1X0Y5MjJqeE5NT1drTXJQeEFiZ2g5OXJmNHc?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Sat, 03 Oct 2026 21:05:00 GMT",
-        "discovered": "2026-10-05T16:31:53.175143+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "بعد منشور السد العالي.. مصر تُحرج الوزير الإثيوبي بسبب حذفه العربية",
-        "player": "",
-        "content_hash": "70b2e8ed5ea3559aee453c9c26e4bd573f1bf3cb8b6ca3f50c2551625767cd7c",
-        "sent": 0,
-        "section": "middle_east"
       }
     ],
     "world_arabic": [
+      {
+        "id": 8916,
+        "title": "إيران: أي حرب جديدة «ستطال الجميع»... ووزير الحرب الأمريكي: عليها التخلي عن البرنامج النووي طوعا أو بالقوة - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNNEs2OHQ4ekxlTHdzWXltMzgxU1E0MS1FeWczdENiMUs5ajFWTGJEUy1ia0FEbDN0TURqS3VSSFF0bTFZM1M0YThOS1dBVUtDazROb21saEFscFhrS1AxVzF4ZFhEQUpvTktvNHZLbVc3M0RNeUpJLVktWXBLYVN0blgxa2NhQUt4c0lsdnhna2ZGeTBCTk52ZHIzMGg1NE5MVkdfZGJHWXl1a0g2dXdQakhrR0Nha1ptY2ZGX1p4MHI3Rmo1MWR0UW9HZ08ySG40TEd0RnFfZGNQQXZFOWZxMWhSN29SNDJMQmxIRnE1TE95Wm5pblQ4ZXJhSFQ2OW03YzhiNDBsMnduSUdzMTRFQ0FHbE05NGRjSEZuM2FvUGNfclhYUml3aG1lVFliTG8?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 17:44:22 GMT",
+        "discovered": "2026-10-06T00:59:58.482568+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "إيران: أي حرب جديدة «ستطال الجميع»... ووزير الحرب الأمريكي: عليها التخلي عن البرنامج النووي طوعا أو بالقوة القدس العربي",
+        "player": "",
+        "content_hash": "07292e73714e259e6bcdca97afa5fe09aaa827b53af8a4a155f563f262c36a6e",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 8767,
         "title": "ماذا لو تعرض يهود نيويورك لأكثر من 1500 اعتداء إرهابي في سنة واحدة؟ - القدس العربي",
