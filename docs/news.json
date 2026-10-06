@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T08:33:13.715326+00:00",
+  "updated": "2026-10-06T08:51:32.145212+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -549,6 +549,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 9015,
+        "title": "حلم الـ1000 مهدد.. رونالدو يرفض العودة للمنتخب البرتغالي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOdWNsXzhoYTExdXE0MTNsblRNV0E5ZjFocVhYSVUyNHlNa2NkdnktWXROT3UzTHl6TEx5SDRDa0xQSmh4WHZQbUd1aFhqdTBLUm12RldmUTIwRTNTUmkzbFR3aG1FUHlTZ2hwZVRFM0pkUVZkY3ppZldDYnRxenMxLVZSR3lXeGQwdHVyYVk3cVZDVmI3V0p5elN4cW80c1pDWnA2SENteXFhM1RheDB6bWtIbGRDeVMyZ2FES0VRLXM3Nm1jaDk5U1VYYnBqeW5fRmtEcG9YaVVZWTRzOWlHQmxkUG5VY3UzQjFYZlRPb1FDVnREdWxRZXdwZWdWeU8tOFRpYXFlTEItT0hfZmNqS3pmY0dfVE1lOHBLa3NvVk12aEk2eldtU0NteGFMd194aGRyUzN2Uk5VU1FWc0tUVlFyR2NtUTI1c2I5eFk2dWhOZDNzV0Zaa2lXSTNON1BOaTM3dVVRcWpBOXRhdzE5c3dWeC1RX3I1MUljekR0c1RsUW16X05wcVQ1WGR2ZE9uU296dHZKMWJZdjZFWU9ldUl3ZDFZYndFX2ozcHppUVA2SUZpaUhOM2FXUUFUUUlCMDY5UTdMR2g0V3RxYm5FZTZmTmIzRmvSAdwDQVVfeXFMTmZFbFZkZTQzOVdubTZvMzlQSjgxRnNaX0UwLS1aZUJhSmhiUmJvT0didVc5a0dNQTlvdWZEc3ZUT2ViZU43ZHo5MzN0Q2tyOHE2QlZqS3BzWjFmNGNrZWhuZkFoakRFd21VTWlYWC1QVk9EeTBNNFBzdlpPWklpU014SDJNaUxDblF4aktmWmFIRkF2NXNuVmpDZUQ4d0xZUVFEeG9ieF9LVUYxR0E1OGJURC1NV3ZGOGtwUXE5VUV3LU5LT1U4MDhxaXYzWmc5cXJjWWQ0MWVqSm1PMnlsdm5aSnQzM1RtYXNGQ0ZfMlEyUlJKbHBmbjlmeU13dk5YQWR3UlJYS180b3dBcHhJak5kRmFUYnVRTlZRRnJoRnVMa29wOEw2UzVmZUxxYXhVZzRTVjVPd1lYQm5TVGZCU19RdkttMmRBWkFUTHZvaVc1YzZHSW4wQ3J0OGZYN0RSd0RsV2M5dmxjbUx2c1F3dkh2S0s5TE8xeGx0TmpIT0pZblMxblNKQUZndHF0QUQteDNCdlJOeVpfQkV3bG1FVk1aWUtrSHluY3Jqdnk1ZWpzZ3VyZVJGd0ZIaVJDRzNGRWRhNmRkSWR6MWlPLVUwNzQyUDAwZG9sZGQ5X0I?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 08:31:00 GMT",
+        "discovered": "2026-10-06T08:51:17.921632+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "حلم الـ1000 مهدد.. رونالدو يرفض العودة للمنتخب البرتغالي يلاكورة",
+        "player": "",
+        "content_hash": "317f86422b627c834d196faefb83fac4e2b681df80618b7f2803601d28f8593d",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9014,
         "title": "مباراة السعودية والإمارات في نهائي خليجي 27.. الموعد والقنوات الناقلة - يلاكورة",
@@ -1332,22 +1348,6 @@
         "content_hash": "20355bd40e4761c14f53591ed63171b339569f1e9fbf83c1039a08a4346b2e23",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 8866,
-        "title": "مباشر دوري الأمم الأوروبي - فرنسا (0)-(0) بلجيكا.. جوووول أول - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNTzB3Tm9sRzkzNzN5Ynl0U1dhX2ZNbzRqUnMzUWNVUHFNYlJRb1ZvbkVkbjZ1MktzbW9zUzltTWxtUjFjTVhJcVF1V0NSTWk3eDFaYUFISl83NzhnOV9samFuNWNuakw4akVJLWkzTGcwOV9zYVVaUG5hN2k5R0twSVE4ODZ3bDRrR3I4Q0ZORlc5ZUlCelpwbmJ0cFdqdzd0aGN1clpxbGtWN2hGenR1RTg4eUxMcDRBbEpOYTZXd25RWF94ekREZVRXN1FuWDM2bTB6eDdMdU0zd3VKRzNUR09QUVZSWHBwOEF4NmZ5MDduampSM252emRXTnMycENTZGkzMDgwY0RyaGs1dXB1SzJnUXZkbkdCTV9BS1RZTE1fVWZ2TUYxYjBoNWk0QS1xaVpXRmVWTXpmZ1J5VHJxMFNDTG9Nc3Frdm9nYzcxNEhPYXJZYzlPTFBrMU9pd0hra0ZiTGVKYmZ4QVcwNXo4VzJQUElQTmxaaDhxRjJuVS1jMVRBbzZKbXNJS09oWFJhS3o4cktOdHFZaVRuSGFsdlE1bUxIdS1UQS16MVBJNXbSAbYDQVVfeXFMTTlXN3JEUW91eUszaEh3RlRqZ0VLU3hSUkRNcmtEbmY3cDlyb09ieWR3SnRFYm9qN0NLQXllYjZkX21XOEFFWG5nMV91N0RFSVZUeExMdmc0dTUyZU03SUhTRGM4R3ctTjd4aVhhYkJnaGMyTmJ2R1I4V3gxdVJMb09FR2tfSnlTc2xucmJUNElYZF82TC1vOWZYZXdIZVlpMVJKX2gzeURwZ3JObmg5RWUyaHY3OGdFc2pwWnhzb1lMZzBaZXhnQkhhb01iME9iNDRwekFMTmo0QTltdmlOcUtNZF9yM3oxRTJqeW9zV3BMSXNuckN2YmdBRVpTbnBaT0swdy1jTzlhYXdjc1FhRERqYmd3SzVsalltalR0cFpSb2l5NXVJTEdMaHlRakMxY3FFR3dKQzA4UG1nazVjempxRXp1NWQzME40MWoxOWprSlhYblA4OFE0d05xRjRYdW9xeGwxQk1obUQya0RRTlg5RlBEYTc2ZG00LUw3T19adlZxd3V2Qk1Ub3RaaEtEZVRsak5jWHRibUE1dFlaZFF2VlU3TkhLZUR5aERzcnJnUHlpS0ZB?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 18:43:00 GMT",
-        "discovered": "2026-10-05T21:32:54.965539+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباشر دوري الأمم الأوروبي - فرنسا (0)-(0) بلجيكا.. جوووول أول FilGoal",
-        "player": "",
-        "content_hash": "38991bc8753c1e2972254a711f4c774239c873529002bca36cf574a663679438",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1364,6 +1364,22 @@
         "summary": "قتال شمال إثيوبيا.. هل تشعل التحالفات المعقدة حربًا إقليمية في القرن الأفريقي؟",
         "player": "",
         "content_hash": "4ae2482030abb2cbbc009e93ca803821d37177bbd3a80a9b010d1affdb082cc3",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 9017,
+        "title": "جوانا فاسكونسيلوس تمزج بين الفن والأزياء الراقية في معرض مهدى إلى فالنتينو غارافاني - Euronews",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWkZoTFNnZUplcnNnRFpEbmVXeEwwVGNrMno3LThFdWlOZVpMWVhPQnNueEtKQzBwWnpadGgxclBCVU94V3l5bDYyX1dDQWpHR3phU1dSQXJwSkxZQk9vVUREYWN2bHN4WHFWdUVpNURqaGxMWlFPWUVIc2xoOTdBNTh2UXNfQzgxSExzcGxfM0tkeFBVZXhFandIaE9PRTZvWlBnd0pHZGRJNmRRdzdnbmt1SGMwb3ZIbElqVXltcVVlWThpWmRzNA?oc=5",
+        "source": "يورونيوز عربي",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 04:00:49 GMT",
+        "discovered": "2026-10-06T08:51:29.969203+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "جوانا فاسكونسيلوس تمزج بين الفن والأزياء الراقية في معرض مهدى إلى فالنتينو غارافاني Euronews",
+        "player": "",
+        "content_hash": "6052c4274b521fe36b4af5ade986f5683c71517a1f16441740a0c7fb8cde2df7",
         "sent": 0,
         "section": "transfers"
       },
@@ -1796,22 +1812,6 @@
         "summary": "جدل في إسرائيل بسبب تجمع ديني مقرر في موقع مأساة مهرجان \"نوفا\" إحياء لذكرى 7 أكتوبر France 24",
         "player": "",
         "content_hash": "7443c508a46a5f8221d8aef7d1ba02d00e2fd40f6734c3f445e9b33a25148ae2",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 8712,
-        "title": "3 لاعبين في الترجي يستفيدون من رحيل ريجيكامب وقدوم فرانكو - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxQa2VoM2tFR1BBOWhHZ0E4RWVwalJFN0Z0d0tTVWR4SWd5d2tPR0V3eUpKUjNZSDRqendQTzFubFdqamJSM3lRVUdmaTI0YW9CajAtNWpoUzdiZElvVS15S2tJLTRrS2FuNHVObmNPU1JaRUtpc2RkOS11dHJyMVJ3d19sb1RfSHBmVGV1dGxkYTN0ak9OYjl1OVZEc0R2dXBtRThzdHN0dHp6Rl9MV2doaVpsZHdCZnk2VGhIYjlxajQ5VF9PaUhKXy14VG94NE4zZTdmcnhEWjRxdzQ5Nlh1MFZueWQzeGN3bzJnZ3U0dmZ6MUNqeUN1SHYtTGtUTjJVRnlsTFp2Z0ZPT1BGTl92UXdmQS1mMGgwaDhhaEs2Ni1VdUp6NS1BbnRTQzVPanFkek5ISWVLblJtdmFtdXdEdGhCT2p5b1ptMXREd1lOc0VMRy0wNkpQZnlucWdkQng0ME5yWW5mRERmbFU4NGhtdVRobXZnWlR6SHUyUEZLYzJsMlhBZHdfblB1UzJiUXR4dU5fV2N4dW1VRUZ0ellQa1NrYnlvSWhZaTNQS1lxeG5MZml5Nl9WLXVuMkZqcWpqN0s2M0pBbXBzY2hLZF95eWlCY0JfTjdteWhFODhBX1VFekJ3aWg2NTQ2aFpuY0t4ZnI5WVNGQndsdw?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Sat, 03 Oct 2026 20:24:20 GMT",
-        "discovered": "2026-10-05T08:53:53.741402+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "3 لاعبين في الترجي يستفيدون من رحيل ريجيكامب وقدوم فرانكو winwin.com",
-        "player": "",
-        "content_hash": "054759c5492de2142b055ef3671c6824121fbaac16998f61acfe3b3143117561",
         "sent": 0,
         "section": "transfers"
       }
