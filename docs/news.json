@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T12:03:14.019571+00:00",
+  "updated": "2026-10-06T12:27:32.835891+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -549,6 +549,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 9064,
+        "title": "“حين تصبح الحقيقة هدفاً”… 1120 انتهاكاً بحق الصحافيين منذ بدء حرب الإبادة - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOektsalIwdHhpaUU3b0tPQ1hxTTUydzYzTWRKTzdSVUc0YnFQbEVQbnhjUkxKOEYxdUFQOHB3cnhTWGZaUEVyOUJQMGh6TUdVZldScTdJV21mY1BRT0J4a09lZHVYeGF4UXRoZ0MyTklsNmJ0STMxdm5OM21UdFZ4YXZBcjI0aXF0dGtmcjNTVkI5UzdsY241WXVEaHljd0JLSEhISU51d0dDREk1NGkxc1V5Y2phU1k5MmZkeWk0UlJMSFZDZzhmaVgzUmowNU5PVUpKbUExcXlESmNiQlNvYmlBNnZsWXRqaThZeHgwa2FfdURUaWtucEJxOFJ6Rk9pYmNqbXQ2b1AzekVTODlYajAydnZtamIyS0RtMUQ1Y3lHazhET2hNQzh6dU9WWlVkQXZKZVBHOEFyR0Rq?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 11:35:20 GMT",
+        "discovered": "2026-10-06T12:27:26.608741+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "“حين تصبح الحقيقة هدفاً”… 1120 انتهاكاً بحق الصحافيين منذ بدء حرب الإبادة القدس العربي",
+        "player": "",
+        "content_hash": "a5efba26e53a39ad9ac801af9150b3b9477d9517d889b6b70c759eeca3fdd8e7",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9063,
+        "title": "الكاتبة الإيرانية شيدا بازيار تفوز بجائزة الكتاب الألماني 2026 - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOZmNWSFVqMmxvYkh1RnBzUEpnNm5OZTFpT09yWDRlTzRldFlBSHRUanF4T2s0Sk5fSGJPX1dlUzJIU0ZMWkptbDY3a2QyVy1YemIyQlAtM2FpQm55MUluQmlFTFFtZVRIaDZKV2R0LUg2YnlsbEpaajc4cEVXTFhuZlVKR1BNcXo5SmhQcUYzR1hvYzJTYkJfQ1NqLUNxOGNWV1VqOXVjdXhXbFlXc2Y2cXZJdHEwNUI3WUQzcHU5aW91djFjUXk2RlM1YlNGMWlPbXRzejBacFVodUZfTEZzM1BTR3RNNGxDRjR2ZnVvZ1ZSTl9fZXZsOEo0UnRIcjBtMDVxZnFuOFg4blhmQ2kzQnlXU1ppMHhqMTZILXk5TFAyZTNJam5XMnZ5ZEJFSmUySmJwaUxOVkdpbmlrNW9Ga01yWlpRcHUtUkotRHlZMi1DTlhyd2hNd2w0Rjc4NTJFVU1fN3pFaUFJUkhkbTVNeHhDUkluOE11RWdoZ21fYWxENFJSaGJjOUNjcFNjN1FxQkR2T3FfSEJVYVMwaDNsR0lxSVVvN1JmTlZmYnZGZFFfTjVaYXVfNXc3SFhhVjBrdG5lX1ZfZXBVemFuRXRjWGxMLUx4RG13RFJValgtdUhhSUQ2Z1BkX2dR0gHvA0FVX3lxTE03SDZLcjJsOEVLQlcyRmlfWWhIb3p0czNPM0VEZkdESXB6UEZiSVMwNmppVTRZMmlldzkyRlloeFZMX3dXNGxNb2s2enJHSXcxX2pNcVlIT2h1U1QxNHI1Nno2S2xlaWlhYnN5V2pEaXBLYzJtOGk1ZGJ2bzBhZW80VmhsTWE5NXo2SEJYUndWN2d6UjM1VUFHVHNod0NJTEpxTmZfRnZ3d0NpY0JaeEFfbUZnZzE4bjJtc3YtNU1pTGc2TUxNWkF6WHl0Y05Cdk9udFN1MXVfVzFicVp0blJBaFBQUV9VQTlYdnN2RDBGSUdJTDRSUkJVcThydjNwNHpIanBvZ0M2WVJQOXRkUTYwNmh0RlBQSVB5NllNTFJlQlFaU2ltU3NsVXAyM3VZSkFWUFR6TGNYbWRNVDZoYklmYTlXNTNhYVZmU3ppR2cxek9mVzlfNDJReURMZUIwcUZ2WHVvRDFlR3ZwdTJuc3ZzQ2szWXBrcG40SVN5SGNBTC1KYWF0c0gwbG9iY2VyYXMtZkNBNE52a2dpTzdCcFhMNGQ4T2RkRE54R2xNZDNmNFM4bXF5dlp0TDVkUDBzM2RDa09kWlRxa1VBREZtOGVYSzVtYmRGdXFVQkpDa1BvZnB1a0VjSFMwY1ZZWDBmOA?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Tue, 06 Oct 2026 11:09:19 GMT",
+        "discovered": "2026-10-06T12:27:25.862592+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الكاتبة الإيرانية شيدا بازيار تفوز بجائزة الكتاب الألماني 2026 العربي الجديد",
+        "player": "",
+        "content_hash": "f12ac172340b77fdea89599231605d658b6ac8c6f4ee475c2fecfd36fd7b372e",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9033,
         "title": "موقف عموتة والأساسيين.. كيف يفكر الأهلي لمواجهة بترول أسيوط بكأس الرابطة؟ - يلاكورة",
@@ -1314,38 +1346,6 @@
         "summary": "دوري الأمم الأوروبية - تبديلات زيدان تقلب خسارة فرنسا لفوز برباعية على بلجيكا FilGoal",
         "player": "",
         "content_hash": "554257e87a93c6e530fbdee5f9ef736166f067be0e28b00c4b8fa49012af1bb6",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8864,
-        "title": "تبديلات زيدان تقلب خسارة فرنسا لفوز برباعية على بلجيكا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxPek9pRy1lbTBoZlZrNUcwZlNUejN4TkFhakxpRjhPNU5DeEk4aVl4S2oxY2R6VjctaWllcmhtdW1qX1lIbUNlcTd2TE5Fc29DeFZiZVgtenhXS2NTdWFMSHlNTHVjYjFiR2t6YmNrVU4xNTNGVGFXQXJoSV9IMUxuMzVMbXFpVUxDSDhFOUFFXzJyTW1UeDdMakpwdmlQWXVGZExJR1pqY0xyMVoyR09NTmdGMlFNWXZ3d0JNZmxpTGVfMklxMnU3Z3UyaGdTb2lDWkU0Qy1XV01LUTFlNG9aMFN2Ym5hWkpzTFpDZ050bXV3Z21WVUx1NU5QanFDbUhtQ1p2Qk12cnVtNEVmQTlZMkwxRUhJdklXQVpRRDhycFE2dTdQQVlkSXNIV0FCZzI4ZjZDWHNldVUyZHBnNVNqX0dySmZ6ZWVnZ253RWFaWEJmZGRjbC01VVl4MFNJSWdqaTNXNFhxVWxGVzZMZlltd2pNa1VHamtYVUJid0d3dHBBQlJabE5vTi1NLWc5WlBTRkVsdXFsWmNvZ0xwUFBaeGtBNm5xUFl4Um1BZFdYdnZWV2FTQk15SjhvSHVraEdFbnk1T2tqRXJ5VFZM0gHSA0FVX3lxTFAyeWRBUFRHTzMxcTAxOXZ4X2pVWS1SNEZJamhWbjFOZVJINk1mNmQ1R18zQkEwQmF0VFJ6bkFaY3ptNldRVU9JMXBWQVRUSDFaMUw0bjdqeXFqY0RDTVRCZmk4NkkwaTRKelhQVVVwUGtRak1HUUhFRlNwdVdWNzY0aUozbDB0RlY0UzVUQmdFb3B1MTV2TVpUcVprRDNfUVJYQllwaG5GYXhPN3AxbDNTVVZxdUV0TXB1UnpQZ05HbGdjVFRHeFBRelV3a24xbHV0X3pHNDNuNTE0ZHFZMm1maXVOT1hkSUlLZDFNdEZjZTdEdVRoZ0l5WUNPWElfQmZCN0w4Z29fSXBGa2FvMmoxWDJoWjdIcVV5d0JYMjJjU0JQMEQxT3M2OFdfN1FZYzNSc2lsd3dteVFBZWgxZjd4NVRhQWpOei1TLWNGZXJyVlU0R1l3LURtYldEWlF5Tjk4b1NCNEVFQ3RRbUdwTldiakh6ZWRvN1pCeGdzWDFqX0tPQzdjODd0ZHR0MnJLSUkwUkRqOU9oYm9qZGRZYVhEZVFfVmRtaVl6UXVwc095by1vT28wUjdRYzJ1THFhREczN2hHbm1hMDlpbHlwS0ZfZWc?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 21:07:00 GMT",
-        "discovered": "2026-10-05T21:32:54.958085+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تبديلات زيدان تقلب خسارة فرنسا لفوز برباعية على بلجيكا FilGoal",
-        "player": "",
-        "content_hash": "881035fee188d0ede806037ba784059fd218323b09a5e74cd817a9144c1acb02",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8997,
-        "title": "ما القنوات الناقلة لمباراة كرواتيا وإسبانيا في دوري الأمم الأوروبية 2026-2027؟ وكيف تشاهدها عبر الإنترنت؟ - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi8AZBVV95cUxQWkd6MTdJbU13SC1OeXR4cnhNdVgtWS0xVE1Va1RNY2ZUTUtQQXl0LWpHOFFNbVN2MldtUlZzR2pEaDNhSFE4UHVqTDE5bF9UVVJrZ0FYTENFcmI5UW5CWGExRERvOVYwejRqN1NKUFFNaENKV0lPRVpHcEZRT1pUU0thalF6XzVWR1BOZDVZSWdTdU5nVXlObDhlVE93Wkw1dTU2STFIRVB0SDZDWTdJdDJNTnZkRHFWY3lwZzd4Umx4cjljNi1zQWRTSmFUVjdYU2loanVCLWdkOS0xYzZiU09RUF9TcU04d2pxVFVralRUX3E4Um5pNThJV0JMZmdKWUhiczBUME1kQzJiY0lrWEU0SzZTOTktWEpzcmNLaWZuSHQtVHlVUGRxZjV4eDFQTDBLQWgzZi1zOUtuRHhPQUhCNGsxVktPRFN0aVVEb1UzWGFiRVFsUXVMWmVtazZGT2R4ZkllbnU0QmlNS2pXbVpIclhqb3ZXZmM1R3JUQk9BbHhMVUtzWGRObWttYXFfZVpBY2U0TjBnNUViNy1WdXBNNkRHVUtNc211MFc2WkpOc25MbFptOXdodzN4THNMcHlOZzlfaTBLbFFpOXJjTno0QnpjcEd4RGFSRzhnYTVaSVZleHQ0VW8zZzVlYmRXNFhQQndPRU1KNmI4VUNMdDZlbUM4b2ltd0lBdUdxVmlSd3kwa21GeDM4cGh6MzZ4R3JfdENxQXh1LWdXVkdBMjN2Xy1najJIcENFMmxvdXNNc0tieE9XeTJ1RlJYUFlmRDN5RTQ3T21GVDh0c2RuWmpwU1Zzd3NrOTlNWjRNcDRQUWx0V0EzYXFXbzg5VDBWUW5yN2c1Zk9YdFRNeTd0OVlkNVRnc1BvRXlMUWpFUTluVVIyZEd4NWt0UkUxdzlqM1dFQllGcGUyRm5kejhoRkY5UjdLYTQyTVVGb29ITi1SM1hGSXRwMEVNcjFLWlpyemMyX1FPUHkwNzBJNXdvR3pWV3RMY3FHRkNjR1RmdmJ4YlNCN21JcjRaUHNRaEhkSHZGMXlqZ0xseVE1ckNEbjdqY1dmai1SZE01ZjJvcTVqMnBjMEZ5WWFuay1rZVRJUTdVeWI2anp1aWI2bk1ZcjRkVWRxNUxNNndwRUpQcDM0TEhibVd2al80ODV1YU9t?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 21:05:01 GMT",
-        "discovered": "2026-10-06T07:04:40.301418+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ما القنوات الناقلة لمباراة كرواتيا وإسبانيا في دوري الأمم الأوروبية 2026-2027؟ وكيف تشاهدها عبر الإنترنت؟",
-        "player": "",
-        "content_hash": "c46cff76ced19d2fbb7b6172d1f0e419f24d73c8410c33447efee32e15491cb3",
         "sent": 0,
         "section": "sports"
       }
