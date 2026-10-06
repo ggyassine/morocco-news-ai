@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T01:48:18.515042+00:00",
+  "updated": "2026-10-06T02:00:07.389708+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -560,6 +560,22 @@
         "summary": "منتدى أصيلة يتذكر طوني ماريني وإسهاماتها الثقافية بالمغرب Le 360 Arabe",
         "player": "",
         "content_hash": "7280c73802c61359af943558f5cad86129f121b7931f307c29475671999c43f1",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 8691,
+        "title": "الخطوط المغربية ترد على ما أثير حول عمل مساعد طيار \"فلاي دبي\" بالشركة - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYXJCOUh2ZjdHd1l5QnRMU0lXeXJ5TG5ZMjc2RGt5SmpiVGFPalA2MkVOaUFmTmwxcTNWOEpJMW0wN01RM1pRVzVaSFJraHZiT0kzNXpkb05STzJ3UXlSWVNjZ0p5YkF3aEdXT1k5QUN0VXNndnJZWWVrOXZqb3RzNG81NG1KcWY4ZkFDenMwS3dZVlowdTJEY0szVW5qY3ZQZnRBRVc4ZkZLNWMwNVdvRHpOQ3dGV00?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Sat, 03 Oct 2026 16:43:45 GMT",
+        "discovered": "2026-10-05T06:31:47.176351+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الخطوط المغربية ترد على ما أثير حول عمل مساعد طيار \"فلاي دبي\" بالشركة CNN Arabic",
+        "player": "",
+        "content_hash": "fd46a9d184cdd2b6b102547580683f40ffee2700de8f84de33beec89d4effd63",
         "sent": 0,
         "section": "morocco"
       }
@@ -1832,22 +1848,6 @@
         "section": "transfers"
       },
       {
-        "id": 8426,
-        "title": "\"جبال الفردوس \" في قيرغيزستان.. وجهة تجمع بين المسارات الجبلية والخيام التقليدية - arabic.cnn.com",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeUNiNHZlaWQ3aFlScXVoLUlfRnRCNGZhZmVPQVIxVmc0OFRRLU02N0RGcjEwS19sQkVwTU5BOGtPZG0wUE9DR0VINXpWaDJidXRBdVFQQlVtallTMkYtZ3NFTVhNeERiVVlEUk9yT01SWFhWOUN5YVI2ZHNVR0tEMXRVRDJCTF82Z2RnNFpRTQ?oc=5",
-        "source": "CNN بالعربية",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 08:28:32 GMT",
-        "discovered": "2026-10-04T11:08:07.071132+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "\"جبال الفردوس \" في قيرغيزستان.. وجهة تجمع بين المسارات الجبلية والخيام التقليدية arabic.cnn.com",
-        "player": "",
-        "content_hash": "30c6e28bd6727702427954321047b4ed86b11cfa94fd8bf12126aa5b0e8fb2cc",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 8483,
         "title": "كأس الخليج - دونيس: دفاع قطر عقد الأمور علينا.. لكننا نستحق الفوز - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPbGxRQktkcjBEc2dyQmtYMkJ1eFpaajF0YnE2ZDZLQlNVVmktb1RSUUx4LXI0SHFWRFRhNHptcmg3eGZBUTdOblRvMVQ3TE1ULWhPWi1oSFFNRTFJeF9VZHlXUFVrcFBJdGtObktWZ1hZRnV6d001X1AzMzQ5cHJLXzBFZzI4MjhiX3dZWEdrczUyb2I5TDN0Y2NRWnFIS1V4M09yYnpSRGJDTWpMN1o0Ul9HZDlzc2gtamNnQXdJZkRMbkpmZzZMSnBGN0N4T1dRckdVcEE5UFNuYTRtT2JyOE1pOXNFWUF5Wm80ZHdBekdkX1N0S3BRajRHMjUwRVpWSXI2WmlLNlBhSHFyU0JMS1hvbFB5Y1YtYXpfQWZvbUk3c2QxMjRTbVZmR2x3aUQ3ODZSN2hpV25jXzdROW1UWlY4UWs4dDg0dzBTRjlIUXY3THIyOENvOW1ncEdMSmY4c0lGQXA2eS1RWFg4MV9ZcHc3Yjh6XzFMdFp5RjFKTTk1Y2Zxd0VSS0VoREUtY2dlYmM5VnRuNFhYcWlCRkhpNl82NVp5anVQeW02NGlwOUlndmxNOXRkVHZTM2FINzUza3FCcmtJeXNrMUNpZm0tSHJROGdtZTRFcE5SQmRTaTZIMXVERFMxY0gxZ2Yzc2fSAfQDQVVfeXFMT2ZmXzJ6NGdBS1ZwZ0w5cGxtU3ZBa2JqSmRMWHJMS0E1Q1l0RTdaSThoR2JQOU9XanRUUkhmMDFIMjlWaHh4TExnVHY0eXhkZHNmdVBwTzByeTB5amhDNjJGaW9QSWVQMDgwa3RXZVRnVEsyb29yUlh4RktBYXlLWGN3WGlSNEhtdVloaDNRNk42bEtmQUs5VWFETTEyRTR4S0xWUjVyNndPWUhKWjZ6TlFqOXdvaGZtdjZhTUczR0N5Z2RBUGtUZkxDU0RfdmhsLVNQTnZ2UmhsQ3lXVU15dUJhZE4ycmhRbHppcWtPRVlqZzNBWFVDWTZKUXMtMDFzbDE1TEtRNWgzQXIzT05TX3gtcVFaRlU2a0tKUXZxd2J1MTJCbl9sckFOVjFxTlhTRkhRQzdtOGpEWFdSNm1oSEhENnMxUEwwTHZkTnhnc3lYWjV0R29NT1ZITXFNMWVldVJPZjB3czY3c1Q2d0drMVlqTGYtTmdvVEJUa1BRTnRJSHlVU2NQeUdKLTFiWm1oMFRabWxPMnZSTUx2YXVtd1FVRUQwQnROdmlEdk9PY0ZsbXYtdVVSQjV6bGo0cXJvN0dlNW84VHdxMV9FcktNTTBUeDctVUZadEVQczJzaXdJRWphRkhTaVFjUzhQZDl3eVZ3Ql8?oc=5",
@@ -1860,6 +1860,22 @@
         "summary": "كأس الخليج - دونيس: دفاع قطر عقد الأمور علينا.. لكننا نستحق الفوز FilGoal",
         "player": "",
         "content_hash": "185cf8027fd149a1239ab87a47550a81ad2d750146c94eb13717458193ef1575",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 8712,
+        "title": "3 لاعبين في الترجي يستفيدون من رحيل ريجيكامب وقدوم فرانكو - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxQa2VoM2tFR1BBOWhHZ0E4RWVwalJFN0Z0d0tTVWR4SWd5d2tPR0V3eUpKUjNZSDRqendQTzFubFdqamJSM3lRVUdmaTI0YW9CajAtNWpoUzdiZElvVS15S2tJLTRrS2FuNHVObmNPU1JaRUtpc2RkOS11dHJyMVJ3d19sb1RfSHBmVGV1dGxkYTN0ak9OYjl1OVZEc0R2dXBtRThzdHN0dHp6Rl9MV2doaVpsZHdCZnk2VGhIYjlxajQ5VF9PaUhKXy14VG94NE4zZTdmcnhEWjRxdzQ5Nlh1MFZueWQzeGN3bzJnZ3U0dmZ6MUNqeUN1SHYtTGtUTjJVRnlsTFp2Z0ZPT1BGTl92UXdmQS1mMGgwaDhhaEs2Ni1VdUp6NS1BbnRTQzVPanFkek5ISWVLblJtdmFtdXdEdGhCT2p5b1ptMXREd1lOc0VMRy0wNkpQZnlucWdkQng0ME5yWW5mRERmbFU4NGhtdVRobXZnWlR6SHUyUEZLYzJsMlhBZHdfblB1UzJiUXR4dU5fV2N4dW1VRUZ0ellQa1NrYnlvSWhZaTNQS1lxeG5MZml5Nl9WLXVuMkZqcWpqN0s2M0pBbXBzY2hLZF95eWlCY0JfTjdteWhFODhBX1VFekJ3aWg2NTQ2aFpuY0t4ZnI5WVNGQndsdw?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Sat, 03 Oct 2026 20:24:20 GMT",
+        "discovered": "2026-10-05T08:53:53.741402+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "3 لاعبين في الترجي يستفيدون من رحيل ريجيكامب وقدوم فرانكو winwin.com",
+        "player": "",
+        "content_hash": "054759c5492de2142b055ef3671c6824121fbaac16998f61acfe3b3143117561",
         "sent": 0,
         "section": "transfers"
       }
@@ -2392,22 +2408,6 @@
         "summary": "البرازيليون يصوتون في الجولة الأولى من الانتخابات الرئاسية وسط سباق محموم بين لولا دا سيلفا وفلافيو بولسونارو France 24",
         "player": "",
         "content_hash": "37ff18f16577e13f7ec6dd8756ec5a02a6bb54c5b813c11cb94bfa117de1e749",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 8427,
-        "title": "\"مغالطة في منتهى الغباء\".. علاء مبارك يرد على مقارنة وزير إثيوبي بين السد العالي وسد النهضة - arabic.cnn.com",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX3JTNWdsdGtmcnduOWphN19ZZklvQkhFYVpuZFZZY0hxSW5OV3ZQdGNlUV9qZG5wRlBDekw5Q2ZtZTd4MVQwWjFIOW1TdlgtZHRjSEFQRnpqcGpINjdRcG1sM0VLV0RCaFdWYk5MQmZlVDhHV3NSaEVNN19hamIyamVROFI4bUhEZ3NmN1V4SnZUTktGQUFycGlSSWs3ZEdYRHdYek9XMUdtTV9lSUZz?oc=5",
-        "source": "CNN بالعربية",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 04:10:33 GMT",
-        "discovered": "2026-10-04T11:08:07.074346+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "\"مغالطة في منتهى الغباء\".. علاء مبارك يرد على مقارنة وزير إثيوبي بين السد العالي وسد النهضة arabic.cnn.com",
-        "player": "",
-        "content_hash": "61c4fc2e79829f06900f631844aafe4f46094ce63cbd67d77c96e37d25498f21",
         "sent": 0,
         "section": "world_arabic"
       }
