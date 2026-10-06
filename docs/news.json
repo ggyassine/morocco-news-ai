@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T20:01:32.194423+00:00",
+  "updated": "2026-10-06T20:20:39.135065+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -550,6 +550,22 @@
     ],
     "sports": [
       {
+        "id": 9218,
+        "title": "مصدر ليلا كورة: اتحاد الكرة يخاطب أكثر من دولة لاستضافة كأس السوبر - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxOdFhnZHlyX3ppODB5bjloUzNUTmxXMDZfSS1pVTFWRHFzbjEtaUc2MXZ2UkZMeGptT09sSE1nekVIYnFkX1BTTnBHZWJsOXJPUDBlYmt3U3dPa3JTSGdRenVfS2J4NEdLcVlxTlJQTFZEaEZNZTYwUmN6TDJfVGdfSE9FcURGeXd0V0lMOXZnWmRLbGQ2TlczWG9ncmxyZDdZVkZGRnpocVpxaW9Qb01MTW9jbnotQmhBUGFYWG5qYl9xbFMzYVljNTBUNVJUR21ubGdWR0JhZG1GcVgySkFtczE3V2NlZmotcmg1Umg0ZGRNSUVkekRDMzJBRmdwTU8wMkx1cWF0Y2lnTTNtWEs0eEU4c1FDcF9xb0F6empicklFc0ZiVWRTTHQ3eEY2Y0dpaEJEWVA1OXNaT3VCYzJCODVacERDZFZ5dDMwWS1wbFQzUjhzNDFoS25sUUQxN0N5WU5WYzhVdEFxVW10T2NBb2ExbDdESWpXaHRoRmgzdm8yanlfdU9pOElNdXdWUVNKQTVqeWJ5QWxfRXFubndKanNGSHJ2emxLZ24zNHFvUHg3aEdzVzBRbzZocVJRSzBiOE1HTndoeUlYX3oyVkNlM2UxYkJtLVhRN2hVU3FGcEV6a2VfMGxuMTN2VThGRGlQbWxMU3ZOcnJZdVRNM2VPTXhfaUIzamdaTk1LRkFxd1N6UFA0NFNjN0ZIX1pDQXc3eG1sbHpyQ3M3YlJtQmFhatIBtgRBVV95cUxOQWpFb0tHZVJDWEsxaGFkUXdFbXFmbjJwQ3NteDFjaTR4WXFoUURQZjJrYXJ4SXVUdWJOR2hmUFlzQUtmZ2M2UWdPemJkWWUwUEVQN3B6dnVEZWg2a0pnNHVXSGZFa1lhRDdvSlpuSlhpV0JqNVlmQ1RrVy1DT2NLc2t1WnFXVkswUWZQUjBneGtqemRaM2RRT2ZmcW5HQUlzdFFjWTVIZmlpSTVwbEJxV1V1Z3JySVZ0b1IwOWVxTjdsX3pXNWRUUUpxcU82cXJ0X2d0akRONHlNcDI1dWVmbXhyTFFHWEhUYVVRb3hnd2pYQ3Zhb2JfNDJ3OVZxZG9jQkRRMXN2aElTd2RkZmVjMWN2LV9pOTZYSWVybmF0bDM3Y0d2dER0ejlKZnBfYWQxM01rM0pfczRyeGJBdFJiZ1A5OEZKeUFUZjhObk9wamY5eG8xeVljbG9QaTFZejd6ZjVpc2dFek8xMGYzdV9HS25xeHVxVHNwd3FBRXp3X2FuRWkzMURGOFRwajdLQzVMZEgtOEVaU2lCYkZrei13b043YzlIUVBvQUl3ZFY1VTlfTkN6dGtTdVZhVXpwekpIYmVJbGNrNzgwc0lTa0N4OUg5ZGpZNm1TOFdlbElNbDJLbW14V05Tb1lRNU1pTHdUY1doX0xPX1Z5ckNNblo1WC1xNk9HX1poVmRlVk5Nald6VUdndG5MaWJHdnFUdVlPOW52VFE5QVdYZm1qbTlMeDVtZmdOdw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 20:01:00 GMT",
+        "discovered": "2026-10-06T20:20:23.381421+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مصدر ليلا كورة: اتحاد الكرة يخاطب أكثر من دولة لاستضافة كأس السوبر يلاكورة",
+        "player": "",
+        "content_hash": "19e4d008433c231204b5397a0f4d9f9ba35f06b6903d6048d148746dc25c083c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9207,
         "title": "أخبار و معلومات اللاعب ياك ديوري مدافع العهد winwin - winwin.com",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUEVqQlBYMmVqX2hlOXhsSWdGZWxnLUxIVmJ3Qm5tZkFJSVRyQlE3M0tqTXZzTk1uLUZKMkNDYjdCQmZYSE9URjFkNnhnbHpWUUtST3hvSEFQN29POVhSWkF2NDhtQUxvczRsY01TclluQzRhb2ZEZjBhczI5cFpfUGZwODE0dzFnR3FNZVFGMHlhUlBuNzhNN1BJWUFNVmFUZko0SUEyVkp0Mm5aQV83QU1CTHBxOHNGVU0tZHl1dEY2UG5tV3pPR0lHc3dQR1ljVVBJVExHck5QT004aTluemI5a1R4bjZlUVMtQzBKdTQ?oc=5",
@@ -770,6 +786,22 @@
         "summary": "خدمة في الجول - احجز تذاكر مباريات الجولة السادسة من الدوري المصري FilGoal",
         "player": "",
         "content_hash": "9e8158a9ac79ca66bb3c3ee800ab051be7530882ccfdeb4b97001b99e31dd363",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9222,
+        "title": "عُمان: إجلاء 10 من طاقم سفينة ترفع علم بنما استُهدفت قبالة السلطنة - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOUTdXSEZXQ212VHI2OU1vTkhRM0tGT1J5cEJXdFI2dDNXLS10Ri1sd2M0cHBrQ3ZMUUctM1k5Zk9SRXI5U2lLZ19rWW5kcmxQODJ6bksyN1JQaVh0ZXdZRDRGNHBScXZGR1hhSkJDeXExT01GVnZtTkkzRFl6enQxbm5rU0hCVjc0UFdzdnlnSmxDNGFTeS1zM3RiRk92b0U2WW5pbVBDc0dhMG41bXJtd0dpdWxWTlMwRjMzSjNmU2VZeXVTRzdBUV8xZVZmcU15WHJsekZscTVYUEw2TVFVdEtNdlU1Yllhb2d2cGNaV19xWEpnTXBrNUFqN1pOcm45Q1NEQk9kZ0w1d3QtT3Q3bjVXUmhUX0Q5M2RPU3c1cDd4b0RLeTlKdF9jeFhWNzNETWhMY3daM0NUdThKcmstNEtvMTM?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 18:55:55 GMT",
+        "discovered": "2026-10-06T20:20:33.972094+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "عُمان: إجلاء 10 من طاقم سفينة ترفع علم بنما استُهدفت قبالة السلطنة القدس العربي",
+        "player": "",
+        "content_hash": "35e3391a5964af21cf40dd24f3f6d0b4761ad615c559cba51bfb03a98195487a",
         "sent": 0,
         "section": "sports"
       },
@@ -1254,6 +1286,22 @@
         "section": "sports"
       },
       {
+        "id": 9219,
+        "title": "كرة يد - الزمالك يتفوق على بريميرو دي أجوستو بفارق 7 أهداف - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNQjl5YW5ILW55LWpzbW91RUZSaUZqOThGUm5DUFk3ZzNpcjlHUll0aU00RDlfbUl2eS1pZzBnWE5xOWNqN0htUU5zVTZRSEZ0U1lCUVdMMktzSWVpTXA1aGtEOWZuVzYtYWd5UGdwR3lkd0xKR1A3cEgtc1hRdHNIc1NVY3RESDl4LUZtM2s0VDRQM3JDdXMwOEpQUkQtWHluOEtsUl9lRGk0YVE3TWF4ZFhmd3VsQ2VaWEhpaFExV2VUSnJEQ2JYTXpCMHdwZk14RkwzMFI2VTBaOFBLQ3hiaFJLeUhXLXB4dFpnV0RVZDlfWW03RUtEUS1oalBydWdxU2pEQm1uY2tqRzlHaXlDX1Z5ZzNVaTJILXMwdXh2YkMwX1g2M0xYWWNCal83U0V0Wjd0NUxMQXF6VEc5T2RZX2t5TURTWlA4ZlR3SUZ3ZXZCUUo5RWxxLUdVTW9nbFREUDdlVml2ajc1b0gzV0R3RjlsVmlobkg1amNfN2VtMk5YUkhEaFd5THBONC1EOWpNeGFSVE50SENIT0tBRWFQNGhBOUNTbzBFYjNZX084dy04TFo1aEQ3V2tqVldnZ25SOG5tTFFlOHjSAc4DQVVfeXFMUG1YYTFqT0lHRzVka3lnX3FuclkzWlEzeUp5SmZyeXVWbzNaVHg2SFl1MkJnMUVRVHdpY3QtOWxkV2dmREZsMEs4dlhxUnlfSmhwTERYZi1USnh4VTRzcG5zOUZuQ1pLcWhhRlJSeDhaUXFFZGZwTDV0VWhEOW11STFoSm14SVZzZEd5SHh0bkoyU0RtTVdjLVFXUndKZjhxNWIxcWduQ0RpMkF6MnJKM0Z4U1pwQlBJMzNUaEUzeHpJZS1Tbk9jVkJjc3RremtWOHhIRl9oT0V5SGZfa3FGdzBTT1NINzhFaE43RFdEQUtjZzAtZk14SW9ZcFoyRjh4bUY1bEl1X3V0V3JaT3hudU9vODlZQWxxNjJYeHlTVmgycFhmRTBiMWRmVG5LakRmRHRkNGFjLURGbGFtdlNkRnlyWHhTdHltcjc4Um9vdGxxYUV5ZTZkczl6Ul9TQjhWaEZFbkk1OW1GQXA5YS1mdFdVaWx1LTNmU3hWT2NlX3A2UnQza2JWVWJpaXdjMEx1NDBWTmo2Qmhpb2Q4T0J6RUlZTHpJZFBodkl2dWFEcVlITGlNNGcyRTJ0M2ZjbnQ0YmFucDZfVXdzUDFPMjFn?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 16:34:00 GMT",
+        "discovered": "2026-10-06T20:20:24.029453+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كرة يد - الزمالك يتفوق على بريميرو دي أجوستو بفارق 7 أهداف FilGoal",
+        "player": "",
+        "content_hash": "a6ae4ef07883199e79152449b9997dda4421b764fdedc9b7eb2955af56fc8ca9",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9137,
         "title": "شكل جديد للمنتخب السعودي.. دونيس يحاصر الإمارات في نهائي خليجي 27 - Kooora",
         "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxQNDdLdzZwS2o3RnQ5a080akc0V1ZHMzZuMDZhUU9VT1dSc0FMYkY5SGREbVV4WGQ3UXc2R0JzdEJjdmNwRUVrSTd2VjdVcnFHb295eVFwYkFUVjRuVHdfTkJDc1NZcHIyTEliV1pLdTBieUFubzczeE9uQTA4aENTQkZ4Zms4VnUwdTRPQmRuSHNIVGR0SnFRSEJUb3JRY25nOVRseVRXT1Bja0VOY2k5YmVueGYwOHdlckNqNzVPWHk5OWcteUZMX1JaWGJyUHBVWlItZE4zMEdBYnJzcG4zUXpuN0xkQTdOVzc2QnRFWWZmUmNvRGZxczVnaTRNamlXdmpQMjItbGFjeXBXdFlqc1haakVoYXNlejdPcTZybE45clF6a0JUUGEwRG9lQ1hFTUpUWmRYNjFkVllSX29MblZzNXpGV1Rud1NieVdjVTQzM1lQdk0wMkxsVXVPTzZPR1hBWGlUbUJsS1Nid0J5b2dmUm85NDhUeEdhc0JnTnVEc1VPOTE3d0UzOWpCTUpZbUxMMFlPWnMteUFwdzdRZi1nNWNOTzhCUURPbnhtMkxyYXhOTUtjMEtUQld3YTc3RXlVMHVPYUl5MGFZdUJNVjJxYnRJYkRKUmtLMnl6Q0UxZm1mbUxmbV82Tk42TEc0bVJhaEFOQXZEUmlKX1EtM3NLMFdmdFBsZnJDSmtzQjBNLWkzS3l1NWgzdXduanRlTXNXODYtZ2VwNUZCeWEwTmhIM0luSU85TXdBdDMybjNmSndJaXVid1pMRTYtV29lN0xRMS1BMHptLUpPUE01b3ZvOTlqb0lkX29v?oc=5",
@@ -1286,66 +1334,18 @@
         "section": "sports"
       },
       {
-        "id": 9138,
-        "title": "بث مباشر .. شاهد نهائي كأس الخليج العربي \"خليجي 27\" بين المنتخب السعودي والإمارات - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMizAVBVV95cUxOSFE5Q3dIY05QZE1sZklIX3BBZnFTYWpGY0ZRcVNRLXFXdXFXSk9kV1RIdlFWSmNhMlItTWhORWhUODhxMzAtQUgzZWFKNUlOa1F1aUFFaU9XaUdHaUpkOF9KM29aaWxLd181a2hteW1TdElmYlhKWGFQa2gxNnJ3N0JpUkxDU1ZHQ2JjMHVRVU9PUm5Qc3czWmdVNzI2WmJSTmMxQXFMWXdwSlRYNDhSREZmUlNUY2NNRnBaWWpFWUtXZFNtVFJqN0JyR1A5aXZDMnN0YjZ5YUF0NVp0bGFSaTZ4bHFKTG1SMzhtek5SQ01uLVd5WENXeGNPbE9FOGExTkpjX2JSUmg3aTN5cTRtOXBna0RhTDB0SHdmM0JSLWF3UG1XLTdrSWJyWVEyc2Jtb2dLRVhqbFpjN3dFNlh1NnByLURGd0Ewczd3b1o0LWxfM25zbU1Ld2I1V1JpZ1JRWFEybU9nWW9PMm1zRWhDOWs3WEUzRW80b2ZPVVh5Y0xadTFsN1RVdUJjUHVOUjA4SzFzdENxMXRmRG9PeWRiUHFFcDh4RU1YSEVkOVBDakhZcmg2Tk0xLUl5dTR3WjVycXM2d0oyVlFGVU1XRzlXTVc2NzF2OTc0NU9uNFpuekZJQmtoQk5lWFhGWkVFVnA0Q01XNlYyNFlVaVh0NXkyaFp5S0k1SmFZbTV3MVJlQjdLWEFoSzAzX2hPMlpnNDUzUUpmZjBvRWZGeEp2bHV3X21DN2czWFQyaDdjTTVzajQzSEtWX2xxU0tXb3JZenhwaEVyX1JONmM5MmNERWFsMFpZNEotMDRsZFlsZnNSWG1BNmxkUzY1cUtIRmdUV3VBRUdIektqN2s4WHpBV25hakE4MFdHeHgteUtLME9rMy1jN1R6dHpVODRqczZNT0ZweEVIdHZFUFEyWjMydXE4T05MaG5WN1NmX1BUMA?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 16:21:40 GMT",
-        "discovered": "2026-10-06T16:39:11.390856+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بث مباشر .. شاهد نهائي كأس الخليج العربي \"خليجي 27\" بين المنتخب السعودي والإمارات Kooora",
-        "player": "",
-        "content_hash": "556c75e7c39370838a3a5998fb2bc60d6d9616d67c3bcd8fe74dee8c25c527df",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9131,
-        "title": "مباراة فريقي الأهلي | كرة يد و فلاورز | كرة يد في بطولة بطولة إفريقيا للأندية أبطال الدوري | كرة يد - دور المجموعات - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxQbnpoMGNKeHZ6WUZyWDVwZE1US2dYelN5RTVZa1dnWkV0QmxhZ2F6V0F1TURmSGRhM21aeDJVcVFCRTVETkFSQ0Q0RmFrUWI1VUlpMU85N2UtbFFnemlXc3lpRjVBR0NaVzIzaUFPRlhISE9FaE9LU2U1U0RaNDJiZWhpTVpvd21FOVFRYmNwNjV3OHRjcEx0LUQ4enFzemFlUlBkVEVtX2ZFQUZfYkE0T2NXQzhmbHF5bGk3c0ZNdFhwZnZtSUhHX0ZjTTU0Z0s5UnJjRXFFVWlOZjBlb0dXRS1kcVlkd0dfNU43NDY3MlFYVlR0dlVQYzE5ZG9Cb3JubVlRYUdINnRvWHZJQUZBNnV2aGQwS2FXWnJKOEFVV2pJcERpZlFTdndvZnk1LW5YN0FJQ25FWDVEMTdIelR6N2NKUjVHdmQxQjl4d2FjNi1TVlNPVk1ReThTT0ljZlRjUkhqbFVYemZwcDcwb3BKZGpNMXZQR3VfdHA4TWIzZVNhRjBtd1A3bFJ4TzdaYTZCWTFhOXhQeDU3ZDlIX0M2WmN1UDBiZkQzdXJsTXQ2bDhkdU51VnY0ZlhSUk8xa01Mb2VZb21xYjIyYmNPOGNQR1cxWWc5ckNidWZjVk1ZcVBNbThCT0FGcVBjWXlqcnpuRHZxVGctSFJCQ1MtQ01QQUdYc3ZBZlFtbktHdzZTZndSYmQwYUUyR1lwUjN6bWQ3T0tMNlZsUUpqeVUxTV8tcjZwMWoxUXNZX1IzRHZFeEg5ekJtUjY4ak9xemZ0Snpjb0Y5ZjZoa1JGRmZVN0pyUjFTTVhBVnBVUEtV?oc=5",
+        "id": 9220,
+        "title": "عبد المنصف: تصفيات شمال إفريقيا احتكاك قوي.. والوقت ضيق قبل كأس الأمم - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMimARBVV95cUxNNFdGS09idkR3V0gtLXBTSnVReERjcU9xNENncXRVSjRjT2h4cVZiZmNyZXhqd3ZpRzhOdHpVbUY4Y3JNTE04MEJuWUprUHl5WUZ3SGRtUU9FLWx1ZjNSNWh2UVRKT0ZBalZXX1BhOGwxOGV3SDFXVmFDTzZ1UHBPTlU4R2twSzh5UVlDX0wzVm8wU1YxM25Oengyd2oyQ1c4NFEyOEp4RUpldGtxYTVGRm82WTg5cWpIVnRSWktMOFhoenVPR2xzV29aQ211TjZTcTRBYjVqblhrTGQ2VjNWRUJDbzdlRWprTWZCbUc5V2txOGpaZU96bHdKNmswMG9KVHIxcjJ2Z2pnZjZWR3VJTS1OVmtfRVZMdEc1ZHZ1dFh2NVJIanY4N2E3WkNyNmFxQ0tLX2dOSWFVVlZ2S0plaUZYQVcxcGxfTk15ajNHV2JLWC1GR2dEQUpQM2RUWjliODJKOS1saWpRMzJmaUZ3aTd1ZEVYUjlYbURJbkdKZ2o1eWRiV2JiN2RORFVZREp1UmR6TFc5UEdmU2JodGNEaUxCR0JmeWZrU19laHRzQ0JjRW9zemlBQzdKTUUyakVJRkx1UFlZMnRGelRnUHdTRzRsX2VBWUZMcDk2MWFBZVRucnhYbF9rTXRXTFJFUEx2dlpPODQ4ellLQk10aE1BVmlsTDdVcHFFdk11bWE0TnhMV253enFwSdIBngRBVV95cUxPbVJXeG5qUUlXbmJKRDRaZl9Mb0F6azdMMXlLNW1yd011bHBHYzI0NGVWVzZUU19nOW04SUpFX2t6T1FNSDB1c2hFWUJxSkZNVEJTWjZlOU1yaXFXcFp2Z3laQTlxbUxzS0lKRnFNYjVLYjBKLU1pN1cxRU13bG9YM1hwZkxXbFhOMGFaSnFzbGpTem93QmNjUjlza3F6Z3VkR3U4M3I1MTR6bVF2eVlnaTdBOXVsVEQ1QzJ3SnIwZWtzanFBSUlmLWxPUFRsaWVURldSN19IbkxwMHVyYzZZTmZ0aGVsM0YxY3ROOFU2ZjFJRi1GaXhfakYtazgtSGRteklqeU42ZjRBRDNhdS1SZ1VrWlFNSDZ2ZExyOFdXajQtWThSODhkWUFRR3NlRGNyNWFWcHBhRGdpNzFzaGd0VWZFeXlpamRtZTk4REVrM3ZzZ2ZBeUpENzdNZXVBdEx4dkxLbE8wUVJiSGx6Mm5BSjlhZ1R5b1NOTVpranc3ZUFpTFM1V3VZeDhzUVFUTFk0YkhMdVR0ZFJudVgyZ01nc3NqR3B0cUFjcjBsVE1RYlZHVnV4MzdyRFhyZkloR2ZISnNLQWZITEFuWmVkX1NZeThiSkNyTmJzUk5vZzhCQXJDd2JMRkQ4aWttMUxZSkRvbDlWRmZZcVo3REVIQUNDempIYlA4TXdMejVOVzZrTVFIcm1iZV9BYm5kakp5Zw?oc=5",
         "source": "في الجول",
         "trust": "C",
-        "published": "Tue, 06 Oct 2026 16:09:24 GMT",
-        "discovered": "2026-10-06T16:19:21.389051+00:00",
+        "published": "Tue, 06 Oct 2026 16:23:00 GMT",
+        "discovered": "2026-10-06T20:20:24.035530+00:00",
         "category": "الرياضة",
         "status": "غير واضح",
-        "summary": "مباراة فريقي الأهلي | كرة يد و فلاورز | كرة يد في بطولة بطولة إفريقيا للأندية أبطال الدوري | كرة يد - دور المجموعات FilGoal",
+        "summary": "عبد المنصف: تصفيات شمال إفريقيا احتكاك قوي.. والوقت ضيق قبل كأس الأمم FilGoal",
         "player": "",
-        "content_hash": "d89fa864bfb27b794f596680bbbe946c9e2960fa3be9f78c05cbadbe206f5a4b",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9130,
-        "title": "محمود صلاح أفضل لاعب في بطولة شمال إفريقيا للشباب 2026 - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPREgzTXBMQWlNbXpCWkJmck9SZ2VQMmFYN0NpbjJPeUFBVlNfZzJhQlF1YWlLeVUzMUtoYi1YYUZILTNXZVhDTnFjV19HdEd2bGNuZU41SGcxVlFMaTA5azZCeG9xcXhkV2RJUFRRY0lxTWJUUDVQNHlJc1ZleFVNLS1YN0FXZExFWkswbXFhMGJjU2l5M1EzYlFsVVl2TUV0eVVpWkV6dXhTcm81Y1JMTkVxZl90UVRtYVdFakhuRzE0UElsX05sTVNNTlJnVEdBVUFXVnludUk1Um5CZ2QzazdkQlpPZDl0eS1yblowSW10Y1VfVGR1emtpS2gyeTlabFlHTFQ2UnlDcXhFZG9BbmtXZl96TjFHNkJ4aG1BczdPUVlPdWFTd2dObC1IWnBZVkhXNkkwejZmbHVNN0RwWFU0WXJHQ3RVd2x3UXc4dkRIWDV6LXVOcjYwaGFCaVZNRDkwaHZzNW1CeEkxbVN3X0FBZk5pa0lxX3NIamNkdzFfOTdyb0c5WU8xLVlFS29abktrRmQ0REtoNXlFd0RVeTg2NXFfOUJGdTVB0gGwA0FVX3lxTFBQWTR2SHNXNW1RemdGTEd1enJHLWRuZWFZcGxrX3gxOWRwRWdzX3FGUjZQaVJOcFgxbEFHMGZkMzJDZi05b1lYeDlqa1owMDM3WWtQWVZ0RV9ZaG8wbmFHV2tPdFdiUThXT0p2WDV0ZXdJNFJJSFJaZmtrTDFPRFdURkVHVVJxdE0tS0hSOFVoWVdvQWIwdzVxdW1PcjZBei1CR0YxRVJBSFNwTUItN2hHTVFlbVc4dklmQkk4WFhuM0NwUmVhUm03ajJrSExCYV9ZSUtFc0hyaGhjRTVEalZzUTRrWWlPUV9FRkNUVHY1TW50eG5VTGllWnBId180ZUkzbUpfSTJBRFBUNmx2UmstVE16T2RNZERPUFJMZ1pyV1RjdWVVUExwRzRiS0Z2Zm1lSll1T2wzMFhIbVZjX3hlMGkyNkhBQ0dLVHRnTm5reVp0NDdHV09RZjBCeVVkaWw2NDVzcGRMVklCRGxia3h4NXpCT2dWTi1ZeUczdDBINlUyZE43WXZZUTN0b2V2aDBudHg0RV94TGNzblgwMkhINDhpUmxwX2pTUzBaRE12Sw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 16:06:00 GMT",
-        "discovered": "2026-10-06T16:19:21.382070+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "محمود صلاح أفضل لاعب في بطولة شمال إفريقيا للشباب 2026 FilGoal",
-        "player": "",
-        "content_hash": "5d2efc909598eeb1661b8c2db5ccddc0ceacab71eb240601e14eeea31bee4450",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9129,
-        "title": "تكتيك جديد من دونيس.. منتخب السعودية يفاجئ الإمارات في نهائي خليجي 27 - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNV0lnODNiWW81RnNSbm1zdUFhZWNOelFxYjN5MF9INU14anY3clBqdnRMakhEdWxLSTFCWGotcWlETW9rYjdwU2FtQUpiRDlWUlVBQ29NWV9fZ3BhZFJoZk1JR1hvRlBncjNfcG1tZ0ZPek83QzNwWTdlZkx1NG4zMnR0RTNQS2JzU2RvX2doX1NfUWtBdk5hMWJRNU91Rjc2VnFQQ0dYckFJRllJcTQzc3Q5S3g4UXN6WjZNbmgyblVQSTh2cDBSamRBbWZ5MzBaWWRFZDNEOW9Fakc3Ym5OX3hFMEFHLWd6d1A0ZjZzWENiZXZNb3RNeGNhbWtPQnVOa2p3N1NYM1VJV1p5a2N1WDA3Y0FDQTFyYUg1bks1aTBYYmtsWk5VSVhzWUN3N2dNeHhKb2FjSm1kSGhtUDNtSnpwQ0dGSzIxMTJpWGk5azVoTENhY3ViRzYyZ1BFQlRFRGxCbEpFSlVWY1BiM3J5QlJPekNZazFTTFRHVEItWXc3QnZ1eHM5TW1TT2N3LUcwR2lZdjFVOE5qR1N3emd4SFpNT0tLcEpTdjdRd3FVdGdOVFRtVVdwT29XT3ZMQl9EX183MVJWTHFNOWt3RzlqMEd0cWlMRXVteWVIYkYyZHdTQ2tBYTNwaW1abWVNLWpqaWRsdno1bml1RV9ua1dTMXlMRUdBOUhudVBFQlRMek9qaVprUHdCeldjUEdWcDd4ci1UTnJ6Zlk1cnB6VFHSAbMEQVVfeXFMT0ZzQjhSaUZqeUktejhWNXAyOEdzOGpUaTMzMTU0SVhJanJrQ1NQX002WTQ5RllxanJQRW9wNVBDN2FRTGx5UXZRMEdUbWI0aS1VY0swZjJGcWNIUDBkYzhiS09CckNyTFp0WUZJZVJMUFE3THpKRUtsU1JzZk9vWmRjMnliYXQ1UEthSDVOZXJhaWRiT0lXQnFTNjZPR29QU1BwVlk1T0U4dlAteGJLRmZtSjZHdFVTTlRQbEE3b0xGYk1tdDhYWjR1bHJlQXhOVEt2WlFLR19JNVppa3BhZHkwY29BZnUtQndaZmpOby1kTU41T0JxNDFFSC1Ga3hCclpWZDJOUVJtWWtVbmViX1VaSmh2Ulp5czltNGR1TEFueERkN2tCcGxpSTVMdmx1ejRkQzhGQ3JYY1VmQy11dGxxMWxMNDBSZWV2LW9IaDBwRUktUVIyUG5LZ3E4bElsUXQtUWZ4M1VtZG5yZ1JxMUhDVmYzOF9sUVVtSnB2SlhqVTc3di1yTlU0amZTTVRDWFA2OHd0SEVodEFJam5QVGYzVDBFSkxGWlJnc2VuRXZXMGY0bVZXbWR5Z3F5bTZ3WmZpNmotcXlkeDFVbWVhRG5KYmNOLTNnU0s5ekdQTi1jNlhCa0YtS3RaQ1EwbmVoV3BveXZ2Wm5zLW9GMkowRTlBR1owSGw5ZUE0Z0VGOHRaRDdIMndQSTVxRnZHU2F0djZoS1JrRkp0Mi1XYzQ2U1R0cTQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 15:56:00 GMT",
-        "discovered": "2026-10-06T16:19:20.722140+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تكتيك جديد من دونيس.. منتخب السعودية يفاجئ الإمارات في نهائي خليجي 27 يلاكورة",
-        "player": "",
-        "content_hash": "a0d50c8a0811c30fa6b32e735beee3eb53daa23c4352a85ba481705dc1a6628d",
+        "content_hash": "27c8c81f7c280e50a0b3c43ee12e27d909d092d13fc6eb69161473c8195f0d19",
         "sent": 0,
         "section": "sports"
       }
@@ -1942,22 +1942,6 @@
         "content_hash": "072fe0b00cb26cf6063b3684e037ac6404872c35e0d04b0285f3f4639cc021bf",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 8721,
-        "title": "توقيع على أوراق بيضاء.. فيفا يرفض معاقبة لاعب بنين بعد هروبه من مودرن إلى أوروبا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi_gRBVV95cUxQYVNVTXhsSXZrWXZVXzRfd3JldVhVbk1ObmtsVjBSTVhFcGI4VjZuY2E4Umt6YzduNEFYUUo2Q0hxdmV4RlhHWmNlSXo2aUQxZW1NWER5dkJUWGJhVUpNUExPeWt3NEMyeURPVWkzLU9OMHVTYzl6WFYzS0w5aUo4S05NZk8zWmhUdG0zeHpzSXFUZVpQdzc2enpTMTE3aGFnTm9yN2VyRFJwSm5jY2h3MVpJTWVNcG5NWGpjdlh2WU03VjFGMEx2MUxlSkxpVnRiZ1Y3R19GZ0tLbVQxVWlGQXN4Rm1XanBGbjZHODlZeG1yVE1BajdGYmFVYy1TRWEwODdyR3l0RFo4QUZTWXQ0WldzQnpXQllKSXNjb0xNR21lYzg0YXRCTy1Na3RNbm9XOVZkVTI0LTFjeUwxczc5WmNBYlJSazUyeWNqQkZpZ19XZnFJTElWTllSRFNPMXFkTXdsTDVwcmNnMEw2U0NIaXZ1eFhlTVJaM1F0N1BaM0xYeVRSTnlHQ1djeGNRN0MxcTVrVTMzQkN3Q0NsT0xDdVpEZVh1bld2RzVUR3U4ZDN6SEtQd2RNWlhCOWVUUHhmS0FJeGU2R2U2LXloVVgzRlhzcFJiZElJT2RFTW1MNGg1QmhtRS1FS2hMTTFNMk5RbFZ4SmRjdWdtdmpVRVFWTXJrcExBWFEwbURodGZBYkd2SVJwVWxCcVFKOVgweUQwSlJvZ1RuWFppNlo2VFRZOTEzSWpPWktnWjU0eTFNTWRsLWJKU291NDk3NTlJQ0NSMlNYTjAzbEhGeGNLRk5LWGRJTzZyekNYb29OQTc2b1ZxQWpQWVU2azhSa1FJQdIBgwVBVV95cUxQckp5dXRaSmNNTXpCUGNfeFR0S3h4U0hqbUljVWRwdEJMZVZQNXNaTDN6VUtjWGZGZ29tRkxBaDF4Y3hZVE9qby1iVldYUk1GeFZmclowSFRhamZnRnV1THVLNmRhcHFnYU1pLXE4UzRIclVqMWRxWjZncXlpNWJXZzZSZEdYM0dGRjBnUVZQR3c0VzBuLW5CWHRfSGh5MEJLS1FZaVVVai11QnN0NzN5M0w3WU9Wb2trbE1hRXVicXhHbGowQ0dpS2FFT0Z3UWNsX3hkdE9RTkxZNWRJakpXSW9OVGctRHpfSGgzUEM2VUJuQ3NnYlFaenVrNkVPSmNPbEZRenAwYnppU1lWamhNZ2dYRGdSNXdSR01vWmFSSkRlR0tDNGxZbDNhMHliUDJ6TmtiNUx3S0NCcUJkTEZoRTJZOXpCbE96QndXNXhleXpiV3JUZUsyVjloeExZcG8ySjMtNXlwUC11ZGZ0bUdROW1aVTdQcUJVV0JsME9uLVlYWDJNT3dYYnNLQmZvUGpMejdZdXc0LW5DdU15V1FsclBLTlBOcVA2TmRHYVQ4eWFTYWo4SWFrZ052ZVRyaDg3NV9sS1RQTTBjQzliNFpRS1pTVDlFQ0Y3bjlnY2tlWnRiMEo0QVdGd1BjU05FdGZpUkRzS2hmTkxKb1JockVkSEEycmxZOXNZYUlkZ2VvUndPQ2FVVTVBYWN3b1M2dl90N2FJYUVUaHFiSFdLRFNUTjFoMWk4ckVGRF83LUFZRy1Bd3Zoa3dYbkUtUDM5Z2JZbDRIZTU3ZjRFblNheEgybEJqMUcyVkk4SzNmRk1QcEZfNWNWUm1vOEttbHdiTEtwOXpN?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 09:31:00 GMT",
-        "discovered": "2026-10-05T09:51:04.683694+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "توقيع على أوراق بيضاء.. فيفا يرفض معاقبة لاعب بنين بعد هروبه من مودرن إلى أوروبا يلاكورة",
-        "player": "",
-        "content_hash": "f5a15d86981d2d6530f46f43f92868d3f1e56e245d7ae42e060476a6bde437af",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2107,6 +2091,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 9221,
+        "title": "إسرائيل ترفض دخول لجنة الانتخابات الفلسطينية إلى غزة والقدس - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNNy1LeU81TG1XNzNRTncxcGYwSzVtcDBORnAtTUM4bFhFWldObnF2WHQ5azlqdnNTTkFNcnloei1IOUl1Q0MyWnBCWkdhZzNTQXZRQW5SUkVfdzJKdlhiQXRvbU1ILVgtdTItTUxvYTdCY2YwWDNkWlNjUmNmMWZjN1g1YXRuTFNHNXFsUTlvQVZlTHBkRXlObk82M2FGR1pBMk1Vc3hIQ3pkbkx4SHBjbmpnRUZZcmhST3gxdm10bWVsN0VUSFZoeEhHMkt3QXBBc21YMEVnN1EzZmJWVzg4YkZ1YVhHbnNDVjB5MVdXY0FWUERULUE1TkJaaDQ0UjUyV0dDMFFUcnppNDNfMm1mR2ZJdFFMaGxETHBQUXdTOFRRN0pUREltellwT3lGSDdjcExLek5DeTF6T05PajgzOGhIN2pkdw?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 19:28:40 GMT",
+        "discovered": "2026-10-06T20:20:33.903092+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "إسرائيل ترفض دخول لجنة الانتخابات الفلسطينية إلى غزة والقدس القدس العربي",
+        "player": "",
+        "content_hash": "3724e72c7c20e83d179dfd3a1b52c24a1d4273f294e995db44ce84d93b7444e2",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 9126,
         "title": "أمير قطر يلتقي وزير الداخلية الإيراني.. وهذا ما بحثاه - CNN Arabic",
