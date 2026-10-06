@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-06T04:09:39.898453+00:00",
+  "updated": "2026-10-06T04:28:11.424912+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 8962,
+        "title": "تنزانيا.. انطلاق أشغال الجمعية العامة الـ153 للاتحاد البرلماني الدولي بمشاركة المغرب - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDWExGTnFXZ2ZXYm9ValR6RjBNWnpZVk5XYk9rNEJrSnEzdllsNDBscmhpaEg0d0ZIVlIxdmpTdlpsRFlzLUN0Q2JDSG95N1EyMHN0cTRJc3ZoaXlJUzkxR1d3SmlBU0Z2?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Tue, 06 Oct 2026 03:41:48 GMT",
+        "discovered": "2026-10-06T04:27:40.594249+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "انطلاق أشغال الجمعية العامة الـ153 للاتحاد البرلماني الدولي بمشاركة المغرب Le 360 Arabe",
+        "player": "",
+        "content_hash": "277196db8c5457e52574e86c3aa9b716b040519d606e36f0494b60959af703ae",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 8917,
         "title": "إحباط تهريب حوالي 50 كلغ من الكوكايين بميناء طنجة المتوسط قادمة من البرازيل - Le 360 Arabe",
@@ -480,22 +496,6 @@
         "summary": "منتدى أصيلة يتذكر طوني ماريني وإسهاماتها الثقافية بالمغرب Le 360 Arabe",
         "player": "",
         "content_hash": "7280c73802c61359af943558f5cad86129f121b7931f307c29475671999c43f1",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 8691,
-        "title": "الخطوط المغربية ترد على ما أثير حول عمل مساعد طيار \"فلاي دبي\" بالشركة - CNN Arabic",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYXJCOUh2ZjdHd1l5QnRMU0lXeXJ5TG5ZMjc2RGt5SmpiVGFPalA2MkVOaUFmTmwxcTNWOEpJMW0wN01RM1pRVzVaSFJraHZiT0kzNXpkb05STzJ3UXlSWVNjZ0p5YkF3aEdXT1k5QUN0VXNndnJZWWVrOXZqb3RzNG81NG1KcWY4ZkFDenMwS3dZVlowdTJEY0szVW5qY3ZQZnRBRVc4ZkZLNWMwNVdvRHpOQ3dGV00?oc=5",
-        "source": "CNN بالعربية",
-        "trust": "C",
-        "published": "Sat, 03 Oct 2026 16:43:45 GMT",
-        "discovered": "2026-10-05T06:31:47.176351+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الخطوط المغربية ترد على ما أثير حول عمل مساعد طيار \"فلاي دبي\" بالشركة CNN Arabic",
-        "player": "",
-        "content_hash": "fd46a9d184cdd2b6b102547580683f40ffee2700de8f84de33beec89d4effd63",
         "sent": 0,
         "section": "morocco"
       }
