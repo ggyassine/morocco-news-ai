@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T18:29:43.774830+00:00",
+  "updated": "2026-10-06T18:51:10.579682+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -550,6 +550,22 @@
     ],
     "sports": [
       {
+        "id": 9182,
+        "title": "الخنوس يواصل صعوده في سوق اللاعبين ويتجاوز سقف 64 مليون يورو - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUYnNUSDNLZGJVX1d1ZXBZU1BPZGQ2X3hOR2Vnd2dsM2Rwb0E1YjhXOHpMVTdvZzV4NzV6YXpOcDJsbE1XUWVJUA?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 18:30:55 GMT",
+        "discovered": "2026-10-06T18:50:41.696534+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الخنوس يواصل صعوده في سوق اللاعبين ويتجاوز سقف 64 مليون يورو Febrayer",
+        "player": "الخنوس",
+        "content_hash": "7873f92a2e541ce2a20b726ae5aef4f384c94d62adc2e416fa434178318e1063",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9176,
         "title": "نيمار يودع ميسي: شكرًا لأنك جعلتني أعشق كرة القدم - Kooora",
         "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxNd3lvcFlwTW9nVFpvVmhBdWh4dXVnRjRIeFQ1RHJxV01fWHRMdUZrdUY4Z3BHaG5KcGZabjgwWUgxZ2hOVGt4SDY3bTV1UXpSSXBKcEJtdHpmaXVHWlpMUktScmhicFhQb25wd1V6MWxmZjEta2l5ZTR5aFJjOW54WmJmeGFzbjdEWEtOeGFiYjF6SzhZN0s2alc0c2RtT3Mtd0MzTW55UkVOd19obTJ2Y0Z0SDdQYS16ZVpDaXEtNGRfbHIwTl9CdlVZX1otYWxQZk9tRDhpdWZKSlk0NTluRVFDLWcxU2pKNzhKSk9vWkZFTDhSZ2pWZEV4UTA3WnJTWHVjbF9TWHlaYnhZY3JDODNheV9mVFc4M2hvMmdkeDVQNTlsa1hTNEszZjJDSXJJeEVULTNyZzNoMy1Ib0x5elJCOHdUVUlEcjdGVGx4M0tXcWdJaUVrTlZTNGRNaDVMaFBSdkdiUWk0NzBfbUE5ci1qajEzMHk1YlJsNmkxaUl0OEg3YkJWaXU1ODgxWjh4Z0gxQy1Vb0FvTHRnU3JnUzNQOHFYdFVfMUpsM2NEeUdkVzJmX1pVblphZUhQN1NRb3RTTzhHQ09jcGJ0a3NhanV5VHVuc2tod1J4RU41NGtQdjNScW1pcTNQMDctVWdZdEJJTnlyR2s0elRWS0E4OENJQW53X1BmX01Paw?oc=5",
@@ -562,6 +578,22 @@
         "summary": "نيمار يودع ميسي: شكرًا لأنك جعلتني أعشق كرة القدم Kooora",
         "player": "",
         "content_hash": "555cf124e10aff66b43da496518c93d0426124a2cb1e2da353b650c80a78cf9c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9183,
+        "title": "قائد منتخب الشباب: حملنا آمال 23 ألف لاعب أمام الجزائر - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxQcnJjWC10S2thQjVnVFd5UVMtel90TU1zNGFzZXFOcUoyaWM1eVBaNlJIWUhydUxWR3JRLW9HdDNlREUzNFdnWkswUnQxck5GNHhEMGdfcWJpNWliWUt3eG00T2Z5UjdFWVFxaWI5NjJYb05tNkJyUURZQkEtd0p6UVBXNG4ta0dQNjYzaGNnYnhxUDhPQTltNndYOUNpOFRVRmE5WEZnSDZMZEFKMjl5d1Z5V2RsdzZGeFRiVG9nd2RmMmxDdWI0Mlp2d2RHVGhEenVpYnl3cXB6Sk9BUC1Zam0wd0tDTGxrSVQwcEc1QUx0c2FXZWgxbVpGc0hpZmVQM1pmb3AtYnZyYlkxQzFpX19iaXFPYW1WWEt1Q1pEYkZxSVE5eGxKdTc1Z2k1QVd0akRQNzNIbzR4YVMxNHA4ZWRJcEhzSkNKTjdHbGJsVXZJQjVHT1gyQzlJZTc1NjZkTHhnWFc4RnRHckRiRm5CbTNBNktoTzZPSGF0a0UwaV9Ld1FQR3ctT3lJbC0wS2E5QkZ5UGw4ZmU4R1FDWDJzRGMzM1puY2UxS215ZHdsMnJ1clZmdFktUWxtMm9hNzdudHkwTjk5RXfSAc4DQVVfeXFMTmZEbEZWaFAzNVc5S3kzYjgxVVVGWjFaM0IzZ0VVVldvYU54dldHQ2dIZ3IzRjUxQVJxVk5BbnVweEpLNjU5a280MFBDVHJuU193MWdETFFUdjJoSGg0QVVmazN5bXItOXJJTlpXOTlrR21VMDlpQ1VWczVHZ0V1dmlMa1ZvYy0tMWZsY1FQcVptQjA1SjkyWVhFU0lsam9Dazk0cEQzakVsUlI1dzNZd2NFX2t1UWFvT0o0dW1KVXhmaVZyT0huUF9KZHpyLW5FdmNWckhPZXRBSzQ0RDVyUWZ2MlZVd1lsclRZV0gxc29CcHV6SWVTS010ekd3X2ZOa09SZk1wUEg4ZHZQN2xhbGNQNFF6M0YwR3FKZkNqTlNncERXdGIxOVVPazRLNmY0Sk5qV0pUSVBnTXJBTUIzVktGblpsa0psQU9oYjY0OWhuSVhaNUQxeXFPRXpCR1dHOTJwX2lXTDZteTV1OUF6MFBwcWY3elBWZVJpR3dTd3BsMXNzME9CZzRySTRhcll5Z0tnZGFtY3kwd1VXZDc4a0tLS1JsTkoxMmMxdGF2SXJ0SHZEMmVqb2VSYWUzR1NKblByMmhqV1FWQ1B5dldn?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 18:22:00 GMT",
+        "discovered": "2026-10-06T18:50:50.557043+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "قائد منتخب الشباب: حملنا آمال 23 ألف لاعب أمام الجزائر يلاكورة",
+        "player": "",
+        "content_hash": "203b8a8b7dceedccd8d71d0dde1a978cc8b98ac3b3eb74d85930a923282e55e0",
         "sent": 0,
         "section": "sports"
       },
@@ -1142,6 +1174,22 @@
         "section": "sports"
       },
       {
+        "id": 9184,
+        "title": "ليبيا تتفوق على المغرب في تصفيات شمال إفريقيا للشباب - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOUWpGd2hPUU9CZTdHRFpLMWV2Z190bTc4a1ZzWlhnb2ZVWGlUanI3SjVMRGtabGs2OUJ1VGtBUmUtZ0VnQXlTU1hEcEhWQ0ZhSW1OQzRhSmxjLTVoTy1DSVZwbkxNMTduZHFvNHNBSnprdjVFSnpIak5BZklyLW5YbFlPMUxxU2dlRE84YUZUZVNINk5laTZWN0FOcjQ3dkVoZk8tSUFCTDJ0a0YtNjNXRlVzYkhWb1FhY3M5WDNRbFdERjc5UlFwV1N1eVY3LXFnR0tjVFJTQzdPWmNpZG1UMjJSVXBOTnhQZlQtaTRSZ05CNWg0aU9yV2k3WDMzeVhzWEhrcnJRYkd5S296Q1NqUzdjTHZsY0RYaERFVEtfT1d6ajI4UmR4SFZxOVg0aUFfMEV0MlBTVXdKZGxmaVhxZFgxd04zZU9iaDU4Rko4SGQ4TWZNcEIyZVFYaVBoWGxlRmszV2NpblVnbDE2c1diNFlocFE4cW5ZVW55d0t4WVp3NmhvZG5jazllZFNiTzBScUpLREY0QjJabmlfUkoxUzFZZEliZVBGY0lxSThqYTdwZ0FBR0Z6czZMRk_SAcIDQVVfeXFMT1FmQWUzOVFPb3NQQldZZHFoT0JURmFNZDNPeXdJNUE2UEg2Y2NGcWdCQzdrNWhvdmdLX1BscUJFcDQ0QzJUb1A3WXNXdmQ2WVAwVDNqUGJ1ZnNPNzFEWDRicFFpTmtxNjdSeXAwZGktMlpkakVaM1l0VWtndkF2alFEaDZrUVJ3WkdFRUw1Y29wc0Q4VGIycVkxdDVnUjVyaEd3VjFmZk1wbm85WnJsNVZhWDJVUWVHR21ENTJMVFhMVXRtb3MtcTdxeWJ1NUhfenBTSlZRSHVaMm9BUlRvSDJ1UGNjU2JVSnRRNTF4TUNRSGtURVRzbTNpalQxaTJnVTVpbWlEV0E4RW1iUzJjanlTU2pldjlEUzBRM0Q4aXRvUi02Q2J4Z3RHdjJwaGxIM0dvTjVMQnRQRmdzY3lRMXBUbW42STNvRmxmY09Ma1NnTXYwZ25Tb3BHaXBEUzh3empfTUFJQkdsZXd6UHNOTjNnOUV5c0tVTFYyLTNrc24wYTlRcGtJWW5VR3V5TFhYUHh3QnJSSWFuWFdGRm9razFXSEVRaDlGRTNFMmU4ekppRVNTdjRnNjZ1aFRuZUNuRHdR?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 15:09:00 GMT",
+        "discovered": "2026-10-06T18:50:51.348385+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "ليبيا تتفوق على المغرب في تصفيات شمال إفريقيا للشباب FilGoal",
+        "player": "",
+        "content_hash": "66ba7e4d26c13cfdd13ce02fdae8c0a7667f36b937dd61e647eebda07a4f33a8",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9100,
         "title": "وداعًا للكبار.. شرط جديد يغير شكل رابطة الدوري السعودي - Kooora",
         "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxOSTNZRDlYdExxVlhDZGxUY29hVmtrLVJBbWxiRkw1ZGxraFhqdEJmOVRrWU9neEFtN2Y0cFFZVGVwSmNoX25RUWtnc045eU4weXNzMlRxcmZJZG4yOUozTElJUG1reUkzS05femZfMGtCeDFlYm9kRWxZalJIamg5aXota1k5Q29jYzVYYXFvQzExR21rRUdHX2p4U1FfZTNORm1ISWNNWWRxZjctV29kbmJoZ0xXZTJqS05URUZlc0syUVV3UkZIQ1M0UF9DVTM4Yk5LbUo4Y0pjZTVZcnpaTjV4LXpNU0NOd0FsdmZOa0lTR045Q2o4N2g1YmpWTGFNVkpIMFQ3R2E5bjczd2hILUh3T1oxWmJSTE42RUZoZVVqV20tSUhrYTlGdVE0OXNaaXlHX0hjcUE5dU9qTW1yVmRMVXNzUnRUd0ZFdmlCdkFiWVpDTEFPQTBQYlRBSTNHd2dYalJjS2dZMW44RDBERVU3bWxCSEZoRF8wTUV5ZXRncWdtUlNWTXF5R19yVmdhOGFyb3BFblU0c1VzT25UNndDVVlPMEotb1RBV2QzTzFoaXpTSTR4bE5Sa3B5OENtaUJvejEtZjY4OHM2RmtLV0ZaNmFYVkZrM1NuVmlfN01vNm9hTGhsY3dvYnlvV2VHRUVfY1hJYmdkeDdRZm5tb0tlY3BZUEhMMXBYekpJLUdQQnM5b2hrOGtsRDBuZw?oc=5",
@@ -1298,54 +1346,6 @@
         "summary": "انتكاسة جديدة للسيتي.. شراكة بملايين الجنيهات في مأزق Kooora",
         "player": "",
         "content_hash": "3b93a2e652ef33b9e9491c944b5462d3006eb78be839e4f55015c45fa0273f38",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9095,
-        "title": "لحسم التأهل.. منتخب مصر 0-0 الجزائر.. تصفيات شمال أفريقيا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPT0NiNThoMWVGeTc3VTBfUjU1R19faXRVWV9ySXVlY00wa1RkUE5Bam0tTlI5d1NRQkNwVDZWaW5nZDRkYTVodVZabjVZM1VMNjN2eW9zd3JxcF8xUlBZZXhYWlRVTnluaDZCaTFWbm5JQUpaMVY3UE1CX1lad1VDQTYwWGZ5a1JEQmhscF9rXzlaX182bVo3NTA5VVktTVYtaHVscnl5RkxtMV9xUENFNmVUNk1sYjFTVElIRm5sLTYxcWFId0o3d2k2WDNDMG8zWi1uMWV2RVRVMUs3VTVraGw2X21YUEVuY1JsX0p5OFJ1Z1lxZDdtanlSRWZnS1NjcmdfT1JYYmFQYVc0UHBVTjBQazFjMy1JemVIeXhhR3JhNV9aaXFQbjMzdURGcXM5N3NPX01sS0UyTG9BaDVuQzRPTWtJMTE5VDJOSEFGRXhsNlNLYy1NQmxET3VzRjJfcjRpdl9SeDdhMXlUd05vWjBBeXlIOUkyOVhoVXRTb09TamE5Qkd1VHV5cE5laE5MR1JuMW9NWG5mRE5tOElHSTlGT2Y3aFFPUWtqeGI5Y0YwZWwwZ09NVG1oSjhEMFNBdTZsdzQ0anBadEozYm9LY1FfSGhVd9IB2wNBVV95cUxOS01tMWZXcXJvb1d5YmF5c0Q0b29NZlBTRGc1SmM4WjZSWnd4dFRUNXBmS3NBaEQ4MERjOWJtdVB2V1pnS3JNQ1lRSk5IbWpHWmFJREJWVHNVWkFnUmNkZUN0QWxDYndueUUzY1ViajBWVXhzZFFmaEIzb1gyclJFYmluVHJsNmttX2JBOEhJSHRldDhBOFdySWMyRldyYVdfQWM5elRqWmR5dFM3Y3ZSOWUweTk4U0UyS1l2VmV3UnFqVDM3TFI4NTFiTXpGdzRtd0VHTVo1V2ZRNm1OQWwxdm4wc09vRHJIMkFaWXdBRndWdjNieWpuQngyUy1kTmRBZVloSHVxOWRDU2hHLTdxOVJRa0trcm1qQW9NWmVmd0RtMTNtcWpaQ1FMVThUTmhLUUlWaUtILThyOWlvc2lnQkRBWWJPQVJfc1NKU19fSVZudEp5UmNrY2FuQ2FXM0NRT2xCakZwZTg0QlM3MUxMLXV5SDc3bE92YXVvYUtNZ0EzVGhFZUROYmU4OUQybUd5VEhrUXBTM3h2WC14c1JUTmFUUThQalh5ZmJjb3dNWlpCYUd3cDV3RTFIUHppZGdkOXd5a1gyRWJURllaRUZZTkJWSEtFTG42Q1hz?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 13:05:00 GMT",
-        "discovered": "2026-10-06T14:36:37.985245+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لحسم التأهل.. منتخب مصر 0-0 الجزائر.. تصفيات شمال أفريقيا يلاكورة",
-        "player": "",
-        "content_hash": "ad6b4587343f00bc020ec40ada00ddf6e547f49f297e187e0ae6a5dcb27c0c24",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9089,
-        "title": "لحسم التأهل.. منتخب مصر 1-0 الجزائر.. تصفيات شمال أفريقيا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPdTVjMU4zcWhjSnVFcGhNQnVZS01TQ2JveTloUktCREJwc25tbXhqVjJjNlZkSG9JR2RCQ0RTZkdSOFlFU1NQT1JYZTQ4SDRmbi10M3RYZWUtWlFTelNvU2E1dHR2cXE1ZklabzFTb0tHQ0MzZUxoTjRNZmtMeFVtMGNGaXQ3eDhnT3EyY3Y1XzlIMEVfbThKal9pYldBWGtILTcxeDdzR29rTU5tTVVvbFBYME9uYlNaVi02c3BXSldxTVdka0dFUDNOWjFmczRkSll3QkktODJuMU1xM1poaUhfcm9GWUU0WkJfRTJGbU9PNElFLWNVTDh0bTA5ODF3NTRpNEdyN3JpXzhPbjliODlHNVpVN2o3aHZnRExDREFLRTljV01XMTlRVUJ2Mk14bEREQ2pxeTE3TzNlWVJYcGdzUTN2dDVQcWtzdkhYMmttZm5SVndJUlhIejhwczZ2VGxaQlNIR3JaejgxbEtpd1dyR1NhLTZnVWNueVlPRzVud1dtYnBhS0l1em00U2lEdWVYYk9GYjBHTW9KQS1WeTJyM2ZVcUdGTjhDWUQzenQ0V1F2aGhfRWwyT1lDQ0FBTk96RWlnNnBORU04OWJqRDh2OFBXd9IB2wNBVV95cUxQekJYQkU5Q0lIZ2VISVFnbkZZS2VxTmMwVktxaWVOR0lma1k5Q3JuOFJtYjg1N0FoNGZydjVsbUhaNHkwU2lZSnUxYTljYzhQblpPSng0bDl0WVJsMl9TR21JWjU5ZEgxWktRdndHLU1qcGZjV3dXb3pjTk03U3J0bVhoNWxKSXNmVEVRV1pQeUpMQi03RURoNnRDdmxHUk9nRWd6ZHFwQ1psdnZRaHc5MFNkMGhadkN5Rm9Xblhic0lSQWl4bEMwUGdEdGFveVFySFUxdFVNVVpFQnpQT0YyREdHS0drTXZBazh6d0E3RGJmWnc4aWFLZFlsb1FoNDlJMGEtSWtMa244VTNOZ21xOGpheDZjTUxDZ2FQNmk2RmZLSGlLSExwaVNmQl9YeWJhbFNvOFcxOTE2bWtVd3FXU1ZIVWpwNnJfSTZINFI1UklhaHJJQXoxV0tma1k2TkZYRGdxdmYtOGVOazBEeEd0cEhENVdtRXVJNjZrY0RwOGhIVWs0cW1ERzVwa205Yjc3dXlPSHEyRFdaSnJQcHpDa2NzcWZkZkRhODZWcnhPNDRHSkU5VUVrNTl3UUxyMzQyYXRzQ2pKWGNCbWxkc2RPeFJPTy1IM29WR0xz?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 13:05:00 GMT",
-        "discovered": "2026-10-06T14:17:36.302126+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لحسم التأهل.. منتخب مصر 1-0 الجزائر.. تصفيات شمال أفريقيا يلاكورة",
-        "player": "",
-        "content_hash": "61c1756186cdd043af2f0fb9b0e3a2e0f8d9a39f9226592727acd8bc666bdf8d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9065,
-        "title": "بقيادة جيد.. طاقم تحكيم مغربي يقود نهائي كأس الخليج بين السعودية والإمارات - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jSFNiSERKRWNwbGRUWWcyRk5PMGlvX1ZydVI5RzFlaEJuTHVIZzhPU19BWUJmNDBZMGFnQ1hEUk83cGVTWXFSOA?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 12:33:16 GMT",
-        "discovered": "2026-10-06T12:48:43.637677+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بقيادة جيد.. طاقم تحكيم مغربي يقود نهائي كأس الخليج بين السعودية والإمارات Febrayer",
-        "player": "",
-        "content_hash": "53d885219c16258dd5226d3cacef9c853ce7b79dcd401d33bbfad9f51b74fee4",
         "sent": 0,
         "section": "sports"
       }
