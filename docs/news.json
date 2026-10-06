@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T20:38:30.968542+00:00",
+  "updated": "2026-10-06T20:53:20.684198+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -516,22 +516,6 @@
         "section": "morocco"
       },
       {
-        "id": 8734,
-        "title": "أربعة أحزاب تشكل مجموعة نيابية مشتركة بمجلس النواب - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FZU1peVFibWN3VUxkMVJRQnctdEZrRVVMWG1KcnNSQmtqUHNxLV9lRlZjSVBPUnk4TW1oSXoxZWt5SzF3aGxNZA?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 11:31:53 GMT",
-        "discovered": "2026-10-05T11:36:05.552479+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "أربعة أحزاب تشكل مجموعة نيابية مشتركة بمجلس النواب Febrayer",
-        "player": "",
-        "content_hash": "a457496a211969ad347cf112168b77221bf351c9a3da27797dd7bb7ac8d3ee91",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 8765,
         "title": "بعد تأجيل زيارة الرئيس الجزائري إلى مدريد... عمار بلاني يفسر القرار بوجود \"خشية إسبانية من رد فعل الرباط وباريس\" - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQR3pCLU0xZU9MU016aHhvQV9uWjBhSHd6bGtNNmxad3F3WFh0aHFfa3JJbWxJM2RBb2FzaHNla0hjTzZRM3RobFB5bDhscVQtTktOaThKdXVRUjNYM0dPc3RXbzgwNVgzM2IyQ1YwQTFzbWJ1dVBMQWxBZ2xYREo4aTdBTGU3ZzJKb1JfUDhhYnE0V2YzMkJicWJZN2otX3RDWU9BYjVzSXBReGxMWlViTThma1dZTXJFVGlWNjJ1ZkxUNll1dUxreWxpRU5QVXc1RmFZc1Zvdi03bklSZE1ydGVhdDRISmRJTExRQ1QybUNONEp4VERNUk5RVDZiR0FMQW45ZU1mekVRMEhKa24yTWU4MlhneERLakdzU2VwbHcxcEhraVZ1RFRZSUVUWnYxYkI3MXAwT0JVZ05xWVk4T1ZGWm43dnM?oc=5",
@@ -582,6 +566,22 @@
     ],
     "sports": [
       {
+        "id": 9233,
+        "title": "إنجلترا تصعق التشيك بثلاثية في دوري الأمم الأوروبية - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNM09nVEJUM1pIdmlVVlVjSTloamFaWnFuMGVhMFVJMW9kbUtjVjlRZDViREVpakJnaDdUWjJVRllIb2R5ZkhIOFpBRFk2ZENiSjRJbzQ1eGRTbWF3ZDJwR2lCRDZZVF9jTndFS0g5ank2N2FheWppRGlmZDQySEFpbjVxcjBhOFc3cE1fcGxDM1BwQUpfMGxuYk9qOEtXRUY3UGp6akl3Y1d6WFdvQzZkRVkyS2hSb1dqMXJWdkZYVENBZm5FNUFQVDVjUXJEa181RkVTT1p3YlREVlkxbzhmVldfcnlRTW83WTM4YVNqeXNycE1aWWowdnpaZDBwRWpUa3p2T0kxeG5manEzSG0xQnRQNUhiSC1ENDZCWVdXVnlZTmxnemxsWWtsUWRsSDhBWFF2OWsxdFhUajVJN2tmUk5uYjBQU2lOQjFkZE5jdmVCYWl4M3dmVm42ZFZpLVEtMXdMd0NnbnZ2TE42U1UxWG82Vy14TnJ2aW10c1RtSVV1T3U1TUtYTDV5cmh1MnUtYUNhQ3FMYUVTVDJFLUxrREhDM2RkM3RXTmZYYkRBbm5pcUpnNzJ3S1RodW9IYnBlTHo0aU5MVkJxSlRpdkxyVVA2d0lnNTZvYXfSAd8DQVVfeXFMUDN2UjZ6TFVNYlRSZkZqS25qbVdoY2JHOEFZYjBxZXUySjBETEVEbzhub0VJcEJyYWZrRVJlWGMzZUVYX2lqYTQ4MzZON3BCYTJ3SFlRck9LVUkzYjdBSXY1ZHVSX1pLM1d0aTAwWEQ2VWgxdUVBVlp2cmt1eGNaWEtQT25TR1lsbDM0NEVkUTlMV1pjMjJQejhlZVdqamlTWEFFTk9QdHFYWVNoRjZ4bXFIdEJCTmJtWUY4QUFicmZnSGoxQVdmcUlJUy11SmF2eG80QTUtSDJBSWNvWlczSEhzLTJHaU4wTlRBbUF2UnFIbXBIc1R4TmlzRXZvcFU4U1RldFF6WWNQOTc0UkJST1BsWE1SSi1oeUJEMks5TWJPdnJ6SG1MQ0dMNGhQeVZMTTBqZUEwa2c5QVJaNFNoMnhlQTlUT3NRUmY5eHdleWRreGFOQzg0cHU5LW9SeGp5OTNfM2piMWtydThTVFlWclIyaEd0cjd0SXE5aUM0Q1d5YXVNNWswWktuOW85RVVwNEdOZUxGVW9Fck9wekx2UUZ6MFdRWkZjYlhQUGY0NzZHRTNER2xrVkp6a2VrZy1QVVBmRlFYS2ZEVnp2Zkg2ZWdnSzdXbjN2WHQ1b09tck0?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 20:38:00 GMT",
+        "discovered": "2026-10-06T20:53:04.517295+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "إنجلترا تصعق التشيك بثلاثية في دوري الأمم الأوروبية يلاكورة",
+        "player": "",
+        "content_hash": "e747ce84c520dc38748a9a9bb8dc491fdd8af3a59128fcf7a0726de6a107ee2b",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9224,
         "title": "مناوشات انتهت بالطرد.. هل تعمد لاعبو السعودية استفزاز جماهير الإمارات؟ - Kooora",
         "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxPLXNWVlBUaFRaX2FlaExiSzlmSHlkX042ZXZKdkR0UGRadmkwakJCUTJyVm1Td2FZcTIyQlJtQ2xrVW53V05nYUNQcXg4TUtiZW5GNmF3ekpOdTRDb2JsZjJPQ2NtVmpuM0J1NHZIMFNaV3o0Q29JcWs3OU56NG9uQTlUak5tUnFQNHlQVkVUSUx2dFVGZkE3bE5HVjdGTDRvcXFPc0Z5QS05Uk5qZXJWSVJmMjVYUnV0MXFYSnRnMkZNWkV4N2NWMEtqbEJmQ1UtS0YwZl9CUnZCOVRKQmsyWXNtLXQ5U2tpQ2RmdFhMNFRXUHlKUGxUTDdmdnFHQjVXbU10SXU0R2VnWk80YzNrZ0tpalUyakY4dDROQ3NYVF9ZZ2swZFA0UlpwNFFEQkxUNE5VYmNPM2FWQjNBSXlwODc4bDZQalRhZFlNWmhYLWI0UDdtU3l6YTdrbTdKak5VeWhLMkFsQ0ZoR2ZidzdJdDM5LXhvQTFyOV9VTVdlSG84S0dNdndRMWhkZmhoWGpKUFpGSmVPVG01SnR5dWhEU3FiR0I5T1dMazJBcUZRYWoxalJzUzJFRkdhdkRZVjBHNkNZclJCSDZKXzNkVWd1RUZDSjBJWG9MZ0pTVnJsS2U4SjJFRzJQd1NXTEE3SWNSTlNxZ05wcHhBS2thRHh2UzdsME9Pcy01amxSWHlJVWlyaU1YRHp2ZGlzWFhiMDRJMVZ6QnMzNWgzN3NTRDM2V3FiYWdER0JmR2FJdGZ6Q1lXQ2dNc05hQlZsZUxXY1RYTTJKVmRzUWRHTWpGNXJMbkhmU0VTRVpNcC1Ba0hoRUFmYWRvQU1kSS1RQ1BTTjhvVENoSVdLMzhPTHR0d0hyZ1ZPdEVWa2M?oc=5",
@@ -614,6 +614,22 @@
         "section": "sports"
       },
       {
+        "id": 9234,
+        "title": "فيديوهات | هدفا فوز السعودية على الإمارات 2-0 (نهائي خليجي 27) - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOUmREcWRCeFlGSjZvNmJQbHZBcHZlRmJldUdWbC1nZTA5N0NYNVd0YjJrNkc2OGtoZHRsb0xzR1o0S1dVaXloWGJwZjhKRjZRMWlueGNwQzJNR1hJVUJkSkViNWN0RFVlTkdNSjJRVmpFcTNUTUd4blRhTG9sdGxtZXlBcHUyX2JfRUgzYW5Oc3h5eWdZbGxaTEVCdEpUQnpxOGFlYjk1Mm1jd0liMFV1dTF1MXBCSWtRUlhmcnJ0b3dzOHgwUjl6QWg5aER1N1lGYl9id1MzRDR1UlVmWGRlVFRLck8zVWIzUnVxQXJyNmJDVnA3QzRtaFlBTk5rcGswQ05haWxmOFV1NXFlbGFuaTlPRGhRSUlpekJ1cTRTNkwtaGNtbDhpYzZkb3p4TG9sTDFCNTh1Z1dFQ0FlWnJiQkJnSkhlR3VuMk5vTjNUd0lFMFBtSVZmSWkwYUhQbUNuam00SjZ6eEJfbklsbThYN29neEl2QVY5QVdLanRjaw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 20:32:00 GMT",
+        "discovered": "2026-10-06T20:53:05.159209+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديوهات | هدفا فوز السعودية على الإمارات 2-0 (نهائي خليجي 27) FilGoal",
+        "player": "",
+        "content_hash": "654a3dafedacd967b0c4b916377406a8af61aac36df70d8eaaa513ae1442bc49",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9227,
         "title": "فيديوهات | أهداف فوز الجزائر أمام النيجر 2-1 (مباراة ودية) - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNVzBmMWQyVmtsSW9NWVdZVy15aVE4MDQ4dU9NUVhKdUNqcFZWYTZwUFh0NFFWRXc4dkFtNGF5ZERXeG1BcnM5Vl9jWnBRd21qdHVKTUpldW1TU1JNMktwLS1YYkNjLXFpTFRWTTVrM2UwU2NIc3dDeFNZWnNPbWxYOWpJMWg5WmMxSGNkdWctSWZEWEJjMDNwWEFuVE9PcXhpWHFnX3dicFdvOTVxMEVwYTRfS1JBLUMwbmNYbWFBU1g4V0M5VTMzWmdXbklUck0tSy1ZRkdEQk5pbDRqYVg1TTd0WUUtMzV6dTE1RzFPOEdqV0Q2djJ6aUx4WU5iZ29LY1M0bEc2RUhKLTJnWkZmNGZnZ3lWVkItQi1SWkEwb2lkUm1jYzRBdFFlZUZDWU5UNkMzal96QktHZXNZUzhZbVB0czd1U2JjNUVfZ003aldaWi1nRVFwaEc5UmNwT2Q0eUNFWmFkbGZmdzM4SDN3RTRkWQ?oc=5",
@@ -642,6 +658,22 @@
         "summary": "إنجاز نادر بعد 17 عاما.. 480 دقيقة تكشف الوجه الجديد لمنتخب السعودية Kooora",
         "player": "",
         "content_hash": "113b37639c5f4621e33b62939944d71e4929a05e67213a13e21ed1612dc06e28",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9231,
+        "title": "السعودية تنهي انتظار 22 عاما وتتوج بكأس الخليج - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQNUpqYXJKNTRlRXhSdWhJd3Q3eV9hMVE1V0VGZjdXbUxYUzU1Vzlrbk5zaUZHUDFVenJxbGFUcjVHZ196MHZYUVhCUmJSSjh5Qnp6eGh1ZWlQNWs0S0xRUm10bUhldm5iMk5FN3V5RTJad3dUZmVVR25zSkNqVEs1eXZDVloyRjl4RWRxQWdYVmpNeFl0T2ZJWk9xSDdMR3hfWkl2ajJHNjlJUnp2aGtRdlBONFlxcEFSa185MTRsUHppMWNMallCaU43S2hzM2ZFWXBucjhaYldhOVNrT0F1LV9LUkN2X1d4QXIwZVhJU0d1djNsVnRUcGNwVENPbXJ5VHFFNGNkdDB2X3I4UEJLVzExa1F6VElrQ2Q1SmplUGEtOWJKVlBac2VDX25kWFFFMm9neGNVbjFRcExaNlpBRUF5U080OG5OdWJPaXVBRVg0Qkl3M2RFTkJFZnZSN09wb1NIdlE0ck9Eck96MTdLZjZPS2JCN2VldkgzaUlleEJ1SHRLWFl4LXBld9IBkANBVV95cUxQVWhEdTlHWEh3amFURUZYS1VSaHFUa2tYZFVnX1dLSlpqMEw0N0dVOWZ2Z04tQ3VBaTd4bEVweDFKS3NRelFjeW5zek8wLW5Way1lMGk0WnFvSmhIN1FkSXY1NU9MOThuYWNXR1FmaW5TbDY4T2FpSDhOMUhjZVBNREFaeWQ4SE9xcGlIVEhtTVIwSmtXTl9WZWJnTGZBRHc0U3BrSzdnbE9JTFNsOVNDWlBZZDRYSURPQzJ6UzJOM2pRTjlnS2cwbi13ZmFIUkZTOTB1Nl9wekw3bExfdEVSRlk0T0hCX01aaUdmLTRwZDVJaktGbnBRTzU0d0w5ajdVRzlVS055NnQ4NXR0XzRLQ0VzNWk5RkI2ckd5TU9Wd3pLU3RLQ1RDSnBWTnU3bEdRUmk4RUNQSEJVcUdrVWFqNGNrQlBRSEc3RDEtcTVWQXBDS05JYTVocDFpb0FjTUF5Ni1ubmp0ZC1KRGFuWmV2VVBKUE1kdjdxMWRqbkQ5Z1podFJmbjRqX0FfMDUyelZa?oc=5",
+        "source": "سكاي نيوز عربية رياضة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 20:16:41 GMT",
+        "discovered": "2026-10-06T20:53:00.933096+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "السعودية تنهي انتظار 22 عاما وتتوج بكأس الخليج سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "20bacbaf75666d9b6a3b463b73d95b536f944f81acd39336ba67b4c2e2bbde7b",
         "sent": 0,
         "section": "sports"
       },
@@ -1330,54 +1362,6 @@
         "summary": "شاهد مجانًا.. بث مباشر مباراة منتخب الجزائر والنيجر الودية الآن 365Scores",
         "player": "",
         "content_hash": "d80786f536d76094797601c5dd636d43b952f255538565dd539a593a8624bbf6",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9142,
-        "title": "صاعقة توقف مباراة أوروجواي والهند.. ونونيز وبنتانكور يهربان إلى غرف الملابس - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMiyAVBVV95cUxPTFNoSVZXTDA3UnM5Y0J3WlFFZTZHX0lXV2hSQ21sTzYtVzRpbHpCYThHVFpMd0k5WldFdnlmcTc4THNGV181UFMwakYxeGtiYlZJSDRWOFZTUkxlMTFpMFFXb2dWU19pd1hET2NwTzdlNmZrREZ4VFotQW9QWVo3Z1VrdmhMUGN2YTZNaUdHeEZYX3RNcEc2QjlqenJ1RkMtMklzdTlJMXM4MXJtSkc2bWtSSFBqSWdqMG1GNDd0Q3E2a2t6WFoxdFdEOG9FMUJ3OXlpWGN5LUFMeDg4NjdkMjdHcjNaZVNHVERGTDZPOTNhMm1iZ2Q4RkRTWHhiSXA3NkxIWExlUGdaSmJKX0ZrWFJwNVZRNnBPQlhrblVoSTl2Y09pYzBTTUllMWFoZWE2TXBCM2ZhVXpLbXFEaU9waDJ5UGlGQXFCTEthTlBVZ194V3ZfSTBOMk43cThsNjA5VlMtQU5WR0xBUXhBMEVhZlBYSG9ncWlTOHVWLUR1VE8xS2RHeXZWcG5Qa05CUE5kMjNoa2dsQVhNSzZCSnk4bHBkVE05YWQzeUJZTGZXT0JVRVREZTVqbUdBcFdKM2tES1YxRkgwTHhlcWRqR25oX2FkNWpHVnFqNWFBMGNFUVZ0bDN4Q21jWVgzS0lSX3Y5dW5WSUd2LXZwMlFSaXBjQzJFai1rUlVzZXV3MFBBdGJOQmx0YXdsbFMyNUo1NUpUUWZJT2pVckotUlJNVEZCVVhKNmpIVmtuRzQtX0RoU0xJX0F6enhiNFIybER6YngwUzNobDRDWEYzclUtNDFMOVNQMjhNdXVLZGt3aGpjRHNrUHUxYVpKSHM0TUpuMFVPU09YLTZ0Nm1kdWRtYjc2aW92cnNZVFhDcS1QYUJfWUs3SUNOaWhVV2VVQ24tUkRta29oM3lreGFaSFVUYmdjUkxPUFNXMmwt?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 16:46:18 GMT",
-        "discovered": "2026-10-06T16:55:22.361446+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "صاعقة توقف مباراة أوروجواي والهند.. ونونيز وبنتانكور يهربان إلى غرف الملابس Kooora",
-        "player": "",
-        "content_hash": "e2d1c219cbde76a6966fe3a68c3dd714fe815944249b3ed21550bf9778d6a73f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9146,
-        "title": "بث مباشر الآن.. مشاهدة مباراة منتخب الأردن وفنزويلا الودية مجانًا - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZlVfM0xkcW1QR1dnakxqVHV3RHFpSnVDczhWZjM2RmVzYUZaWHhDMnJCOW1WMWxpYjFlQ095VmdqQmR5YUY3Vy1OWU5KLXJDblhldDZIYVpfaDRYQUg1YXNjbVBuYTF2N1M5RjdUZVNaRk1UcU1Cb1BwQkZZOW9VSFpWVndSSUZoajNURmZWcDZnN3Q5amFoQjFXOVlENDRzV3JFTF9uMlB2NHRSZUllWkRDYXA0SDRtNW9tNjRFZXVycHdmM3R4WVIyVTduWGxJRlY0ZldXeENxcXZtZnlYdEcxYWo2YVpWWUtrX2RFYTl6Q05uajIwRUhpd2VnVkluUGdB?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 16:40:56 GMT",
-        "discovered": "2026-10-06T16:55:30.361035+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بث مباشر الآن.. مشاهدة مباراة منتخب الأردن وفنزويلا الودية مجانًا 365Scores",
-        "player": "",
-        "content_hash": "ee52838cf00039089fe2e426506ebbae00f8c5315b0d17e816d8f3bb15e1d07a",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9144,
-        "title": "وائل رياض: أبارك للشعب المصري على التأهل.. وأتمنى تواجد الجماهير في المدرجات - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi9gRBVV95cUxOajJDWHNWcmhRYnJFRE53aDIyQU90dzBPaGlPUkMzLUhGWTFrSEVUdE15NVRQY3JkdS1vRmJmVjVzbmpfUDFxbkgwa1BzaXF2LVdobTVLdkRyWVVWX0lHTE9BWnFWS3cxQnluNElGVFVqQldXd2xOSHZvalJYbnF3M05IR0ZyNDV5bVh4RGNXNWp0S2hWMkNuTy12QlZHbk1CQXJMczhBZ0Q3RWxfRWtQTTZ6eGNxNU41Ykl0ZDQ4THFwM28zVVpuZFA1SUs4elVGZmpvNldvZEdqUElFRzdLM2VXblZfVnRBekRDb0JHT2RoYmZLSWR3ZjF1bnZsOEFaV19iakJVVmxib0h1M2tpS0hPbTc4dXNPeVBLZGt2WTFXcFlJOU5uZDFieVkxUm16b1lNdV90Ukk5MnVqOVNJbXc4M2JTMEdvOFdxWHJVeFhtM2dtZVVWYXEwYXpjM2xBR1d0OVZOVVoybXhFUkZkT29XdDdUZ2JRSzNEMjNrME5NUzBzMkE5VGJoVDNaUzBMTWl6V2UtY19TVjNpUVNMb3VZOGJ6VldXbTA0VVJyLW1LUTljZGhyMnk3eG0ybzdCZl9LRUxzdjJEOWk2TDQ5MnNTU3hJTVYyeVJTWWFsLTd4REVHU2pYTVRnSngwOUZzYnNyaUlCTUtYaW91TW94Sl9ETlNaQ2ZXalVGNlA1cUVic2h0Y0ZjUXVkdnU5MTJKRWFwcHk2aDVFRDR3d2ZpSUlTSUJBZDI5bFNIN0plUHZOUHBQcndCZVhMWFRoLVBlbHZtRU8yR0JlREpESVNOUlphOVRGdnhTX1JpRThGckVvWVZkUVHSAfsEQVVfeXFMUGtBbk9YcmpTU055RkVmYkVzM0dRckttS0JtNTRRNVR2T2tzYXNPVFJ1Y2F3YjF3WFRlc191UDNjZ0VWVklmbWt1T0s1bFAybzFJUHBpbG42SXhEZXZ5VklkcXZjcGVGcHp0elF1TldmNFVhb3RaWnRaQWo2MUFMLUQ3dTg2cktNbFduZVR4cDZZTUtOX1ZjTFltNVlCVzhEWGE3NVB0ZWJQZzI2V0d3dWFsUGQ1UTdHOTE1VXVKWnd2WUhqUG1FSUhYaHREOUVXeVNuS0lVTV9KWHJ4eU5vWWx5TV9qM3BWTTdBbHRNNHpUN1pYdGJvODI2c1FiWUcwTGNrSnRfUFFWODNsS3BmN09JNmtaRkc5M0dXbEk3WExuWTAxTHYyMk90QnVBVFdoVXk4bVo1TGpBbzk0ZGpDU2o1NjJabzRhaVBraUprS2RCUUcwd2J0NmVnYkpuSXpOZVVtTTVRWVdFS0tGR0dlbnJfOFRxb3g0OFBhWElka1hleXJDMFAxNm9RQWk0YlJoOXh1bVhuc0pYRE14UzlKYWN5al81bXdOOXBVNUZEdy1EVWZrSzhVSXh3ZXFtRzVqeWZhQnBRbHo1UnI5ekwycGtzUFFvUHVFalFHMHEyR1haX1RvX0RrNTgxRGJVT2F6ZGZMeFQ0ZzJQbXR5MjJGMzhyUWRsMHAwOG9UTDg4RHFDWXRiX2hJaVJLY2k5dlZrMGdZdEt0ZDczcDN5ZGRPQWxJejdiTURhSDRpWGlISkhrS2I1STdwMmJqMzFYRWYwbWphY3p2bEdFWXNwMm5kZG1sYUQzUTRoMHoyYnI4VFY4YTNheEtzcUU4V0k?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 16:40:00 GMT",
-        "discovered": "2026-10-06T16:55:28.778716+00:00",
-        "category": "أخبار",
-        "status": "غير واضح",
-        "summary": "وائل رياض: أبارك للشعب المصري على التأهل.. وأتمنى تواجد الجماهير في المدرجات يلاكورة",
-        "player": "رياض",
-        "content_hash": "35d3c18cfa427620266c71c1e7a87691c0aa2b6e7a1ba5dd33c615eb69037441",
         "sent": 0,
         "section": "sports"
       }
@@ -2408,6 +2392,22 @@
         "summary": "فساد وحرب.. \"ملفات بيبي\" يعرض في أوروبا وجها آخر لنتنياهو القدس العربي",
         "player": "",
         "content_hash": "982f72b8756ee2635857fcdb5e48870f0892b9f872e1f0408e8830ad0cb8873a",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 8746,
+        "title": "تعزيزات أميركية مرتقبة إلى إسرائيل.. إيهود باراك يتهم نتنياهو بتهيئة الظروف لحرب تؤجل الانتخابات - Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT0wzbmZ0S2poVXd6V1R5YWoyNzNwWFhQVFF0NmhkWWU1RGVwLUg1OUd1VkNGZDZSa181Ny1vV2VKeDFSaU9sVlNQZThtREZBbmtHZGFNbGc4V1VjY3kzODEzTk5abzdNV2N1OEpnbklFTEtLblNwR3otVmV0b280c01XeUVlN2dacTFhSUl6QWJHaXVuNnhVU0xVRnRseW00cENuQWxZbHFEb0xCVUE?oc=5",
+        "source": "يورونيوز عربي",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 05:54:28 GMT",
+        "discovered": "2026-10-05T12:07:10.958248+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "تعزيزات أميركية مرتقبة إلى إسرائيل.. إيهود باراك يتهم نتنياهو بتهيئة الظروف لحرب تؤجل الانتخابات Euronews.com",
+        "player": "",
+        "content_hash": "8a8a0785113e9014ed0f676e6328ee2a9e2ac65bcfc256e7d8852c71f91494ec",
         "sent": 0,
         "section": "world_arabic"
       }
