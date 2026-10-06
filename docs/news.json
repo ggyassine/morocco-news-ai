@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T21:03:24.022795+00:00",
+  "updated": "2026-10-06T21:20:26.678049+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -566,6 +566,38 @@
     ],
     "sports": [
       {
+        "id": 9241,
+        "title": "رسالة من الشيخ محمد بن زايد بعد تتويج السعودية بكأس الخليج - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMixwRBVV95cUxQZExRWllmUURWaFVvalcyTmNkOVZTeE5oaFlzU1pOQ0VFWi1tcDBxYWl6NzVob3NtTFppSFpZY3RWUHRxR201T2pPU053WXZRZEF0WnlkNV96N3NKQ2dOOGdFUDNEZkJJamwzMXhZeHdmYlhmcVp4TnJtQ3pFWl9JSzVyc09od2hSamhidUl2WVozSU1ES3k5YVp1UjZsSGM2b3pKUE1sNWJFRWdpTDZldEdFeElPM0dENEhiblJDMXZrWU1Hd01kZzA3bWs3WTZxSEJidlNKckozN3pMTlRmcEJ5ZzhSb0RTaGw3ZTNhak9LOXdkRGVybkw1S3NGeElVOHp3SUUwTWhYX0FsdXptYnM2Zmc1emY2RkZtMU5ZQnUzb1lhcm95V1pkYnVQOURDajI0ZHhGMk9pZFEySHRPMFRWM0t2emdfUWRhOEI5T01xVVVHdzIyTDlzYTlKbE1UYVdKck5iRGFsMzVpVTV3bnBySDhRemNwUFJpQXllXzFQNmJoOFhQd0hKZl96eDB6SHlURXgxdnBJR3djeV82N2ZMbk9Qc3VPY0FNOURJQlR5aVNSMEhMV1RVQW5BSlhzMEI5bXFreDRCMHpoUjc1bEQ3Z1p6dWZ3aDhaMkllNU5ERGtwMm5KYmxDZzdFLXV5YjJGejBMb1FaN3pHVVR2S1BhdllGV1JVRko1OWdIUS0xNFQ0QWFLd3JFRzJ4bmRWdFJEaXZPVS14eF9YYWpWSVZiZy1fTnZnTHBOZTlCYW9FdFJxQTAw?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 21:07:05 GMT",
+        "discovered": "2026-10-06T21:20:04.784585+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "رسالة من الشيخ محمد بن زايد بعد تتويج السعودية بكأس الخليج Kooora",
+        "player": "",
+        "content_hash": "ea9f9bdfec2cf2722055a89561a740d53a6f49ba155a494ddbb564ecc45e10fe",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9243,
+        "title": "مواعيد ونتائج مباريات كأس العالم 2022/2022 - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNMWVKRmRoOWdsMVJTOTJaeDRiVlJ4RDNkTm43bUhXX19MT0V0aVlmcHhaWlpEWURXUnFYUmdWN3ctTEZlWndXRnFfZGpPeXZLU1FmVXdGREpYazBPZm40ek9HajkyMHdXR2daT0Y2TlJLUnlsdms4b0dGWENCOUFUY004Sk9sWldXZElFbThLNUVaY2xPM210MHZyOHdwcVNUczF3VkdHcEVKaXYtajk0MFE5SU9EU0xZTUU1RXRuMVdPeDFaZ0RLNTAxNzRmdU1GZU1pWU14eG53dzJFb1N0clVMX21rUE1oSjB2aXZUa3NLZkxweW1kRk51U29kbV9qMDF5dVZXSjZIZk9xc3JYQUgxWlBmT2ZIUUZqWkpMUnJnd3lrYmxTUUhjOEZGTlk?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 21:04:38 GMT",
+        "discovered": "2026-10-06T21:20:10.223937+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مواعيد ونتائج مباريات كأس العالم 2022/2022 يلاكورة",
+        "player": "",
+        "content_hash": "7d80f8d079ab559300b1a08575c4b07fe3a791e1ed8d2a5aa83f0cbc02db28b2",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9237,
         "title": "بقيادة القناص وحامي العرين.. المنتخب السعودي يهيمن على جوائز خليجي 27 - Kooora",
         "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxNYS1vdmNZSzBjYlVWeUVENVFOZkhGenZBM2RtRDVtRjBaa0k1SlA5Z0tlNnJNLXQtbFRCMjFJQjlTUUQ5djNXMm9XRHlRdEppWjZmQTNIWDYwVnpUQW5oVlc4ZGlObFB2SGZMcXM0d1FpUEhvbVg0SE9sMFI5OGNfS0NHMnJVNGJoQjM3V2V1Z0RJT0ozTVYwTG5CT2RWQkNybmNXZ2FLeC03VEs5TDdRTzdwc3d1WkRaTGloVDRLMUwtYlE4WXJnRWxBVHFYdmphOS1BZzk0cVowMU0tVTJneDZobEE5ajBXd0dqa0NyenRfUVdLNy1PdktIU3F1dndCY25nMEJqSTF0T3hHUC1ZU1ExdXdVWElERDFoTkdNYWtBYXVOVTg5bENVWHc0OVNwY0t3WjREY3duaG4xMEVJckJIbThrX0dpR3JhYUpTUDkyc19HcTZmRXZ0LUlrb3RjWUlVd1gzbUJnYlpIME54Njdla3FWdXlnb1BfWE9UYnY1dlJ4MVI2bWhVbUR6d2ZaSmFhMFZwTUlqSG5KSWNEZFQycjI0cHdVNHJ3R0FyTFh3NjRjMXVZYmVLSFBueDBZVWpCdzlTOWxtRHppYnE1dThvWHZjLWFiYzBUdGhFak1aM3c0Nmh5a1c3dl90Y1Y5YnVpSEJuVE91MUlBcEVXZGtJUjB3RDN1NjN3NEZ2NjdqTnVzYnVDZk1YYWx6UE1TR1JscG9aUUlOTTZPcUdEUlBqRHlDRlJXY0ZOcFpJdWg5dksxNDIzalNtN2NQRzAtaHBEWHFVSjNvWUt1ZXRHeURDWlVQREJsUWp6RmIyNVN2OEhhY3duQVJhNjZOc1VKN0Uw?oc=5",
@@ -722,6 +754,22 @@
         "summary": "مصدر ليلا كورة: اتحاد الكرة يخاطب أكثر من دولة لاستضافة كأس السوبر يلاكورة",
         "player": "",
         "content_hash": "19e4d008433c231204b5397a0f4d9f9ba35f06b6903d6048d148746dc25c083c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9242,
+        "title": "رسالة من محرز إلى جمهور الأهلي السعودي قبل التجربة القطرية - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxOOGw0Rnh4TlJlblZhOW4zcUVWOW5hU2V2WC1ZZFoyMmtKdUdpcVp6eXY1bDRiMUxOeG9MOGdZSG1zVVJGUkRfTHJub19hamVyODhwV0tpTGJ3YktUbDkzZEp5dVZHblp4V3d1RDBoeklPN2Vlei1makctNlNkTXVqd3pDLU1UM3FPLUR3NWF6QU53UVFqdC03SmFYVzZsR1dwM05hblo5b2NvWmJCVlk1VmtaempqbWd5RGFKa09wcl9tV21md3p3VnBxQlJrQlIxenpVMkxyb3JDN3pucUc0V0FVV2ozQ2kteWpMME56R1FYdjIwTTBHN1BQTEFEMTZKVlNGanFyeG5fNENpUUNxbDVxdTMzODkzck9WS210S0dnM3VrRUhJcnEtblBXeElhX2JLUHFmcVUxUG03REFRa3ktVkFmVm10MzBWLTVuVERJYzFrSFJVV2tlal84MjhUcUp6cGtwVnZPMzFrYW91S2tVUVk0MF9NTjF6dnlRb2tsZFRtdUVWR2N1bWV6QTF1dmEtLW5ZUG1yMktfYW1EMm1hck9JNVQ1WEsxbHdiRlBJRF9rRF9iS1ZiTTVULXA3S1hZYmUwSXNrRld0eTlVQmNjU0I2eVVzcGtoVkhwd1Nib2hkNTFhNXpEU1NYOGM?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 19:35:34 GMT",
+        "discovered": "2026-10-06T21:20:07.573163+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "رسالة من محرز إلى جمهور الأهلي السعودي قبل التجربة القطرية الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "c29959ae075a1f83500356864325ddf8297d3ea271f315a7828cd6be5466d6ac",
         "sent": 0,
         "section": "sports"
       },
@@ -1238,6 +1286,22 @@
         "section": "sports"
       },
       {
+        "id": 9244,
+        "title": "كأس عاصمة مصر - العتباني حكما لمباراة بترول أسيوط ضد الأهلي.. والقاضي يدير لقاء بيراميدز والقناة - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxPRWJQQ2hqLUcxbmVxWUFpSFVTYm83T3JicFhHRWYzMVZXb3dpaVdDSURCTFk1al9oYWFJNllQZFVyN2JjeHBvd181R01xZGJsUUVUYWNTeFc2aHJtMTRqLXBwY1QyQ2RlaWotSFNfTUtLUDFxZGY4V1dvUFdvX3p1bEpvWWtqZDA3U1lFVzBrSGgwTkJLT0NaMEVlWTMzRk5qSmh0MFkzMUZkdHR5RWZvVEJlSmdjMzdUV1dEbllpOTh1OXlDN2RMYjd5emgxUnRRbXZCN3NOemVoSHVjVjZKd0ZJUHkzTHNWaWhySng5N21LbG5yVXhfMEZQeDljMFk5UGljUzdqUm9yT3NGOVcwT2NEeE53ckVudFBwZHZMXzFPV3luQWhXVTBMSXVwZGdWOU8tcU1CUTVBUXh5dFpPeXhsZWtURTZxUmRBRFFIMkd1NXNQLVNmSGFEdXFpU05CRWZvOTdPc25TTVBLbXBhT056T3g2b3RKRVJRNE5PblJLa1JPcWFUX3V3NVVWSW9yN2UtMlFFQmYxZG52S0dKNU03TGJkajdQTXBDTWU4bmZzX2JQZHk2TzNVb2REUjNSWEZOOVhxM0d5TzVsNDVQTEVoVHpiVTNMa0oza9IB2gVBVV95cUxNVm9takVzeWM3bXg3THBHbVFrY2VDUjlpTUw5SEJxcmVRS3llc3Y0WWNibDNhR2xhRnZ5V3pBY2Jaa3ZqU0wtR1d6SE5uUXMxbThRNjU1ZHl0eFJtTXB3TXdwNFNLNEhRWUs1MGw1UGVLcm4zaUpENml5QWJMVkNlek1XdDVJOXVlbGtVNnpTUzgwRS1RWjQ2aHMwLTJRMFd6QUN3bG5zcFF3VzIzV0Z4MGtUSGtpYk5yLTljc2RCY1RFbWVMYkYyU29DOTB3Vl9qeUl5eUhSZDA3Y3NyLUxRLUhyTGZLeGZEMEN6UFBnQ2FROF9wODZrLTEtNHZMRVF3cEtuLVJyVjRxYjlDNXVOMXQ3M0RUbzBUd2Z3cW9LcGFNSy1fRXlmT0gtNjdVVXZrdVJyN2RjMWNXS2FXX2VELVVCenVYY2RrczFPV2dEOW1nVzhiRWUzLU5ZY2pnc29hbGMtUnpveE5aM015NUxyOXhEYUE5c1NFTnZfTXhtNVNwdy1lQ2lyNmlUY09IZDJZVTFWZU9fNllQMVNZNmEzb2pvVWRwTkRkU2g1LXBYeEY4endFRkJpem9GRnZhcGwyU3B0YW1sa250ZDJnQm1PRnp4SURLTElsRHJleVB2QjVnTmRFTllCX3VSc2phZ1BZRjhYTWR0V3lNa0RNU1RsVTRPVEthVTlBbFg4dGI5Q3MwQ0M2WGRnVENfVUxNRTlocVZPNlZBY2E1WC1IbE11Z2FuMlp1WkNFX3ZVemFaTHJKYi01NjFxcWtHVkJ2QXJNVkZvQXUxaUZ2Y2RNQU9fa2NrZWR6ejNvWUxPRnZJdzhuS2Jmbnpyd1p0NGt6R2JPQmlHcURsQVFXZnFCQXZjM1VjZTdvLXNjVnVkZ3FwOU05UFRRYzQ5NzBsa1MtMnV2WldFNHhfQW1Ub0NYd1ZBZFo3U1RHa0NxS2tSVTYzQXF2S3JfTndMREJB?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 17:43:00 GMT",
+        "discovered": "2026-10-06T21:20:10.922566+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كأس عاصمة مصر - العتباني حكما لمباراة بترول أسيوط ضد الأهلي.. والقاضي يدير لقاء بيراميدز والقناة FilGoal",
+        "player": "",
+        "content_hash": "6831c5822e6c83d64c59ccfe746247308c7aca6fb05efd498a99b37034189f0c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9172,
         "title": "بث مباشر.. مشاهدة مباراة السعودية والإمارات الآن في نهائي خليجي 27 - 365Scores",
         "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOd0RyYTYyMVpEZ3lEWnAxUF9PcHNlbjJMN24zZ3FFWGNHdGxSUk5HS1BIQXRZTHlnQnNXRjgtUlI4XzNlQXFfZFdMTzM5YVNyVW9SN2lMeDZkZ3lEVTA1TVl6SG82S3kxSDNaaHNSM2RKRnV3N1p5Y05qcG1INDdTdFFyamN2eXduTnVvWnhsTnFGWXhJUnRDRFhEUm40WmtTWTVOblByZUE4aVd0aEJyUHFEeXpKYTExTnNjaE9uSUkxTkxTaUJKd055ZzJBb3ZFejdPLXItaXJDT3I1VWdtLVQ0bWg0Zi16RmFFU0pzaS1rQ3hRZkN0bjhqQ0Rod2VpM0ZrLS14RWpzTDNOUGFrZjNFQnFyUy1ocTZMZmZtR2dtSzZnNmhNQ1d0VU40SDViZUJiZXlfQWtRQ3g2bHdnZnd3SXQ?oc=5",
@@ -1298,70 +1362,6 @@
         "summary": "كرة يد - الأهلي يستهل مشواره بفوز كبير على إنتر كلوب في بطولة إفريقيا FilGoal",
         "player": "",
         "content_hash": "4fc74ce0083db29e0592ce94b071648cc0e6895083ee79d43244b5386190a047",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9153,
-        "title": "العصبة تنذر أندية البطولة الاحترافية - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkM0czVGo5Mko4MEoyY3pYeGNOOWVqelg1TTllTFpQRWpGSHZUSmFhVGJoUmY3WlRjZEd1MkZ5MDdZTEFsVi1MMw?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 17:33:16 GMT",
-        "discovered": "2026-10-06T17:42:21.839417+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "العصبة تنذر أندية البطولة الاحترافية Febrayer",
-        "player": "",
-        "content_hash": "2d0ca1bc535166fe3943d695a41e136e9a2e4709fc5b7e65b88bd8cf7d45a480",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9154,
-        "title": "ملايين المشاهدات ومليارات الريالات.. كيف تغير شكل الدوري السعودي في 2026؟ - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMihgVBVV95cUxNc0RISEFaRTZocy1zQklrOWtiUXJBTnlKZm03T3NhSVdnaEhJOG5TdTR5STBrcFdIRjE2eGRsR0c2SjVaUnFoUlYybXNaVEVzaEdjcUk0TDcxWkd5REljeDJfX3Vfei0xSWItY3IxOEJMYnZfUHJlMEdRTG40SWFkX09sWmZydUJ0OGxod3pzZXhucVNGb0diVVhjVldvNG9Yd1pTeDlvTjQ2ZVZJUC13MEltd2Vsb0NBRW90YktfeGN5MVd5VXpnR255M0JjZzI4R215T19sTHY4OXJoNkREMlV0UlBrZDV1NFJrYUZkN3RVODFnbUR2ZDBWdVgta3RJUlVRanVmb0RnbkpMbXZVeGtJUnIxRDl3VmFlNmFOWXFjaTExd0t0ZU9Mel9LNkh0Y3JmamVVX3QyY2I0YkVpRXkwV3ZxNGRiOWxhSWhIOUFld1hZVkt4WFdBZWF6WGhYdnFYTXZEU2FBbkhMRW1mdEJuS0c2cVY5Nm9TZTVqMkk5NW5DSlR4T2lIeXlCRlktYmRjYjJyX3dzQmdkZ0FBb01POG5pY0RnS3NjVXhkcjZPNTJpX1lyZndYVjV5LTdMNkVaZ2pMQWNEeUQ5T1VHYjdxbkE2RWxIakRFaGx6ODMyeWttQ29ySGhDNnpWcmUtRE1aaHI5Wnh3aUo4RFBqa1RxOE9KdVJTWGlXaE5VN25rQ3ZlU2hXa0EzR1ZvTm43MmIxQUwzZDJmSmNuVDBMNkZYWE5lZXRWY2F2b2pYel9jcDlWRzllMVRGLXhYaUF1d0ViYzZWNE9pNUE2MGpNS29VZDlLc1JsM29NdVZrUkxUVUJCTEJmWGhZZEZQc1BIVVlqbUV3?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 17:29:44 GMT",
-        "discovered": "2026-10-06T17:42:23.558916+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ملايين المشاهدات ومليارات الريالات.. كيف تغير شكل الدوري السعودي في 2026؟",
-        "player": "",
-        "content_hash": "04ae13063409f1f82a93319125be9aa2e631f3d8eb35a46b8f1cbb0f26597edf",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9240,
-        "title": "كرة سلة - الأهلي يكرر فوزه على الزمالك في دوري المرتبط للسيدات - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQRlpqUkE0RHlHYlV4dHduTlZ4QW1kbFlpMklGZ045MldsRDV2RXBNMHNuOU1NTmI4ZDgwdklTcWduZ2EzUFlDV0phaF9xVHc5ZjFaQ0FIVi1mRzZvTVFDQWppVFpaVXhFZ3ZPeUJua09OY0g2UnFsbkd2eXhDbFozVElBcnE2S0xqa3VrU0pGOWk1ekszQUFNNGhtRTZlUVBIVEpqNEcyel9wRkU1WUxHSENkZVlSRzdkdlZmS00yOEwweXhOWFhVSWVWRnByR0hXN1hNSkNVMU9wRkVpbTdaQ21pS1NudGw2N3h2TGMzVzBGUDV6UWFjaHpQMUpnMU8yRVp5TnI0NDgwOWltZHJKdUJMU2JEaUdhSVlxU01zV2ZzaFJVVE9EVEFJWjRZdkNwSEZnUFJDRFF6LXRUVFVxcWl1MTNyVHB4SGxHN2JmLVNzcDc0WThqN3pxSkJyMWdKTTlrbzJUakJ0bkVBekJpMWVJeTNpeFFDUzZZNUZBZlhvTzVIby1kcUVPRTRLYjJBWUpnTmVuR0VEalU2X2NxTnhSRW9nVzYzUjM0Tnlwa1RNUU5fTmZCWEdyckdYSHlEY25SRkhJSmxKSnRLbVV1X0JWcnE5UEhQZkltZVRicFIxU29haW5YbzZXcEtMTnfSAfQDQVVfeXFMTnJUUnRfYk5pTzZwbEpsR1hZOFhod2lHS2EybmhETzJZSUlXSlBWLUJsQWtHY2lEcThwWXhYajNtZGlIZ1JMUmdoaEZXRzJtSnhIU0E5cXpYeWtJQkZJRUplSWp3c2g3YlhvcEdYN3ZueEpzTlFzbUY4N2duZmN5N09KaTdRdlZNQXRGYlhyUGxxQTI1enl4X090anBBN3lIMjY1VzBHcVVhaXJ1YlJKSzJWN0pqenZtZ0hJWFduZlpOMmMyN2NvLTB4eWRKLWQ2SVJqMXRuNkt6dndrRTVzRmJoLUM5aWlCNS00cmFMZWI3b1FhVWo5RVAwRHNUZGVTODdXT1JHY1c5V3BoN0w1NmZ4ME5YVFFRcVR4Y1VNbHk4T3hhbTJJSlVpWGp3d3IxV0lNbkpmYVhSU0JQcTB4T0x1VW00cG5SbHd5WE9CdWtoSG9zRVd5S2RCOUM0ZllONWtFSFRFd1l5TGZfX2lqa3BTdTJia3N3X2Nsa0szdDJaa0VxeGR1UFl4SDFjYkEzckdQZnlxZ2gtb01qVGNWSnozSkVCVGdtZEtNOWZ5dFRKVFhkcHhtQ0hHeG5NSFZoZE8ydUpwWXB4UFg2NWNRVHdxZXNTUGJaSHkxN3hENW9SMzB4SW1jV2NBZTBLUENZNUJyX3c?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 17:29:00 GMT",
-        "discovered": "2026-10-06T21:02:46.456357+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كرة سلة - الأهلي يكرر فوزه على الزمالك في دوري المرتبط للسيدات FilGoal",
-        "player": "",
-        "content_hash": "21284df8d66317a81566be7a8d4c4c3fb4dc2c45acc1b4ef06b093ce03822da4",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9155,
-        "title": "خاص winwin.. حقيقة حجب القميص رقم 10 في منتخب الأرجنتين - winwin",
-        "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNUlpxSkkzZjF2T1hmejZ1T2NHVnJoUDRXbDlkX2NwX09KM0dQOU9EMmZuQklGYmtBS0JXTFZTaUdiM2NLV1YwdWQ3c0tmME5najgyRkJqYjZudFkwU2c5aGFTXzBZU0dBVkNCMzcydFlyMi1WdEJBWDdLVnZhOWVPUkdDU2xieFVLUENWVU9ycUQyd2NpUVhOVTNSWS1ELVhBZXlILUJ3dU1Da0VsNlQzamxZMmhfS3hqQjNWZmdCaVhxSFRpcGdObHlyVnNGRXJLdWp3aXZZQ2d3Rk52R0J6X3VmSWMwMDhJeTBLRktEQmFka29vNF80cHo4RHMtczJJOTZwX2hOMk54WUVoZ2wtbDBIXzdrYTN2TWI2TjFZNGVHSU5SdnJNeXVEU2RuYXRoMjJwYm9JOFBoYWt4Nk1VdDh2UUkxOVpwMGFEcXQtUlZZUzJoTHFmZmJSX2Vfbzl5dEU4VWhqYXNqZF84ZjFRZEhCQ0t1WGV0dEJ4ZTkxdENLWTRGaVM3MC1OMkVCMVVFa2pXWlV4c1dIRVFYSFdOMVVmZFJqRHpRcjBB?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 17:28:24 GMT",
-        "discovered": "2026-10-06T17:42:28.182424+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "خاص winwin.. حقيقة حجب القميص رقم 10 في منتخب الأرجنتين winwin",
-        "player": "",
-        "content_hash": "ee0e1d3cf39fb82cfd2cef7f52ec41c1804c94b7a0116e626252fab3cbc626fa",
         "sent": 0,
         "section": "sports"
       }
@@ -1896,22 +1896,6 @@
         "section": "transfers"
       },
       {
-        "id": 8744,
-        "title": "رياض محرز يصل قطر تمهيدا لانضمامه لنادي الشمال - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPUS1zRXIwQmZCSHdybVFDcVJkMC13cUo5ZXJkZEVQVVYzMkluTF8yMGNjZHE4WG5kZHNqbE4yN2l4VzNDS19rZzN0eGpSOWpIZUFqV0ttT3VIdXhFVEVRWHY1UWN2dDhDb1N1WXc4YVNlZEtLMzQ5QzgySko0UDdIYjl5eDdkZlUzbGhNT1dRa0taTTlTQlo1Z3VPODlpbEpVOEw5QklzeFJRaXFQVDNOV09VbksyZURfYm9zb2dYYmZQT09GckpQd1M1eXpxaGZtdE9uM0d0MFdiQS1IODBnRElfVzRzT3EwQWVOUUI3TWpBd3MtS051NkpHbW5yN2I1aTRmNmE5SDVpY2FmVU1jZlhaaXhiM3J6eEtuRzdsUHhOY1h0Nkl3X01TNS1pd1I2Q3gtSlRSWUhXUTEtbmpkRUgtYmVoa3hVRHpkWjdLZExFWWhPdExzMWFieEtGS1hrSmN0cWN4REE0ZFJ5b0FRbVBXNVNibk0wWVkwaWdFaVZfb0tZa1U2cVdYLWJBY3VsQklTdmItWjloSS1hNFZBYVpFVExHRXAz0gGuA0FVX3lxTE9yRlhELU1vLVd5UHk2RnN3MklxWnJ1S3M2bGVTSm1MTV9fNnNYYzBZTExNdkFJei1HcktjOGxsUF9PSVpzRWpXZ2t6RXFlY0ZYV1JHTDFPUUs1QVRCUGsyZE9QaEgzdWFuQ3lLVVYta1p4TUVNUjdEZzNQcG02ZUJ4eG9kaEhCUVFJaHhieVFodXhhaDNKTFpMTE9ZZTJQd1JCM0lzS3ZleGU0dkFYYjRPX0ZVb0Y1RWM4am9YNEVBaE5pQjBKUllGSEpkU0hUM1g0VHlSempTeWVMU3NDMGJGSzZlME50ME5mUXFOVVFGM25fOWpidi1fb0VCQTlJNzZXUUVQeE0zTG5lZDF2N0QweDRtbld6YktxUGtLUjk1NUhvd3lYSlRlWHJ6Sy1Zck9qeExKY052UU0wa1BTOUJKbWEtWkhHOHJzZzIxQXJ4RVB6MU1pckE1c2JNTDZrUWU1VXF1Z1J2eS1pa2xreU4yUnZIUXo5RWxsTGJHWFNyX0RmV2hRYUVwUWxHVnVmLW52Y0xwY0oxRlB2UUVGQzhmQ2V0WjJmWWdFMzF0N1E?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 11:56:00 GMT",
-        "discovered": "2026-10-05T12:06:55.324030+00:00",
-        "category": "أخبار",
-        "status": "غير واضح",
-        "summary": "رياض محرز يصل قطر تمهيدا لانضمامه لنادي الشمال يلاكورة",
-        "player": "رياض",
-        "content_hash": "995c2529b8d53101426b538bd63a327b095fbc1cde0e47ccc2bfaaba1cbc1d6e",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 8960,
         "title": "بورصة الدار البيضاء تستهل تداولاتها على وقع الارتفاع - | MapNews",
         "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxOeFlOcTZtbko0RlExX3ZwcE5nMTRLNDJYQVFGZERSbkdONFRvQVh2cXBtVngyYTNiYllCRXJnVTdiNHZueGtlS0gwQXlvZGVJSmxRWTVIWVU1cS12SGhaSmhQa1VBNVZ2d2gzckxlTFJsUmRPRW5SbmVIcVU2Qm0wRXNNVlhZV3ZqZ0hYemdLZjlIVkFXLVhuQVlSMHBHRmxDbXZrb0pmWF9vcnV5bVJPb3haVWhSZGQ1cnF2M2laN0ZzR09ZbHZiVHd3bXZfVHlranhzU2huYTFGXzc3LU80NmN1cERlUjUyQ0h0M3YzVUFXdzJ6eTRUczRvemNkbzRRZE40dlNiSUJaYk9KVzM1LTVfSkNVM21mYXhJTk9sWlNmMC1pMVhoODRnQmhlOGFZMXc4YWJyOGlmakRQWHpnRHhGQzlHUFBIUTRDbzFRZENLNGtiNlNlRlZrSENONTNCWjlBY1l0T2h4VVZ0cE1rMjktTkxmbTRnV2ZJWjB2Z2JfLU5rQ281YXdqWUJmNnczU3Ztc0NhUDR2Y1ZiZ3ItSUQ4cFZMWV9tT29NeEZ5VnlrVUFJbW1FcEdVYzFhdmxFUl8xeWxZQklzMHdHaEJEcmVEeEQ0Zjg3MUFPOFZ4Q3h6YWN3NGhYeVI2aXpqb3BuZ2dsZA?oc=5",
@@ -2086,6 +2070,22 @@
         "summary": "حزمة صفقات اندماج واستحواذ في الأسواق العالمية العربية",
         "player": "",
         "content_hash": "8f957a25d25e81597051b1dfe309f0b7a339709e43dc522ac11c10cb215e361a",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 9061,
+        "title": "انتخابات في البوسنة قد تؤثر على مسار انضمامها للاتحاد الأوروبي - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxON0xGNllQLWNOb0NzeXpvVG93aXJVVU5Zc1dyWVlwcW1xa3RKYmxtY1dXM29Va29idHZCMldaQVBCOHZBcGQ1b2FtOGRMeUt1NE1kOWo2WE1UWHZRTzI2QmtwQkIzaWZqdk54NjNUN3E3ZVFzNTluV3NmZGJkOThiMVd5OFVMa0RkZUN0LWVsYWR1TG1DVUVIQzI0UVJjbV84N09zOUxPMmVMeUhvVmJZazd4LTRyNFlZREJBcnI4VjBtUEl1dC00UmFYVlNTSUhIMnhBbTVGZG1UZHpFM2FyWFdPUnlESnc2RV9CTDFYWDlQNmpzbTNRT0ZPV05qNk52bVRWeDRqOGZRcXhhY0RMMDZWX181bFZzYlo2SWFZNWpYZlpZZlVwajFrcDMzYVMxblkxaVpXaWRDVV9WWFB4RVk5clc1Sk11dGlqa0RKQzdOa0tqUUJ6dUdjbFhzcDhDN0UyTklIWjhHcnU3Y2Y5M0dYcHdTV3ZZRnlubmZKUVVTOFRReWJaZEJiMk8wS1hhalBJZy1UUW5GNnVHc1FQWUpSaTVHdEprei0xLUlPWElIbkVkQk9oamN2WHlUOGcxTG44MWE3aWZ1VFRKbEtPTnE4N3NNV3RaZVc4ckhLbXQtdXdvTUE3TmdDNUFQczhmNkpfbGhfSEFnc2JfYnplaWlXS3hLa2JYckRiZUdhdTZBZEt3ZTZXZUd4REFxc0lrY2tDWHYzSU1qbExubEFkTGlrd0JTeDNWUS1ybHVOSENIOGN2ZjhNdXJNY0xVbkRhT1kzamNDSQ?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Mon, 05 Oct 2026 03:33:24 GMT",
+        "discovered": "2026-10-06T12:03:08.689419+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "انتخابات في البوسنة قد تؤثر على مسار انضمامها للاتحاد الأوروبي الشرق الأوسط",
+        "player": "",
+        "content_hash": "75a3ae922ec6203ea5c95c335c86d8560e5641f3e085c621b0723c96aa1c74bd",
         "sent": 0,
         "section": "middle_east"
       }
