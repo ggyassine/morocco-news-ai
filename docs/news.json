@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T04:45:46.134906+00:00",
+  "updated": "2026-10-06T04:59:32.350654+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1320,6 +1320,22 @@
     ],
     "transfers": [
       {
+        "id": 8973,
+        "title": "كوبا وأمريكا تحافظان على قنوات اتصال دون إجراء مفاوضات - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNZWtGNkRZZ0wwMUNrWkFGMndjVG1fd2ZpN0kxRmtYU3RvNXFjbTQ5RWtGZkctTHIwRUtHdlBKV0JzUmZQSkE0RVo4VGM3QUZQRHFhMmFXeTNCVU11Ny0wTmw3RVEweDR3VXMxSTdGRGpmSmNZanRvRFhhQjA5cG5SU1I5cjBqajd2X21ELW5xLV83V3dsR1Z6Q1c5TTRfT0F4REpBNXdudjZtV2p5VldqYlZoZXFMVVdfOS1OSUg1ZWdTUlVoRHJ6dDlXR3JLeDhXcVpYc0ZWY25YMDVrd3pWSlhfSVJ6ZU9mX1dfRXA3QnNld0ozRXVzN2NRQy1LRVNyZXhLREV6a1ZEQmVvX0VsS2VmYUZkTkwtTHZ5d18zQmctM1dHcWd1Ulo4VnZkYUdleTNDcHZoeG1aWDhHZEtUTFBlV0loQk0?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 22:40:11 GMT",
+        "discovered": "2026-10-06T04:59:25.418116+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "مفاوضات",
+        "summary": "كوبا وأمريكا تحافظان على قنوات اتصال دون إجراء مفاوضات القدس العربي",
+        "player": "",
+        "content_hash": "c153ff3753881dda50e560f7e2c2be1f99effdabed99ff71729d66d80def1738",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 8914,
         "title": "رغم رحيله.. شبكة إنجليزية تحتفي بإنجاز محمد صلاح في الدوري الإنجليزي - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxQZW85M2lfVnJqOUY0dFdCalhEUWQ2ajRvZ1F4RzFlNEl2VzhnOEFyOEQzcVhYcGpBSWV4Ym02VVBibXdnUUZBdzJxM3dZYzc1Q3E3eGpyZlZONHdfN0s5MjlLSTAwTlVieGo1aGlOV3B3bEdJOEZuTmRYVjR5bGdyR2JqMXBJaHdlaFZCajdvRWhFaHB5Smc4cUd3RUlpTmlMS1Z1M0kzVHpMOEZQNWpJU3pjSExzZE5wbFJma2xnRVUwYjNjUnhHY2dKcDJ5dDR1U1VGZTE4UERWUG9WVTJFZ1RObFlCc1MxOE14X0lWTGpNRTllOEhDYVlzM0RXSXhSM2VrVFo5VVh6SnlxbF8xOUljWXowcDN0MVltRE1rNFpXTFA4TVVVc05ZN1dZaU5yc0FOdDlSQXlsdUF6ekpQQUwwQy00QVRJWjRlZ1ZnZkg5OUZJS2VfWXd2NDByUU5RUlhEaWtQSE01dGF2QUhhcjBJMGxTdDRORGlVTW1YRGFsMWw0NklVUDhzT3VaQWJaQUxwSE4wdHJidzhZNGlEY3pQQVlWcTZFLTFWR2F3NFhHTEJJUEdFZFNRRWVsRjk0RXk2NWNMTDJMbHlZY2dsSEV5R2NCVlBrY2FKRURpXzRXXzlaX3JGeXNPeExnemJKY01hN21sVkJ2bmpHTjU1S040VnFJRlhHVHJSYmRuU0l0M25TbEdoQ19hTElEaWdoWUdzeW9rRmlxNnhIeDBhNWdHOG1acTQwY0g00gHABEFVX3lxTE43ZG5JUGsxc0RBNEFiZ0xpUzVaLUNrWldRQkxmc3NnSGg4TXdUWHlyN1VjRzBIRHdFUUQwUXJNZ1gtOWg0ZG1wOVd6ZG5tMlhmMXIyNU5oY2JKMmJmY1VRSVVSNFVRdG41dlBVQnNPQlJObTBqRHV0S1FWWGF4UEdDRUxxUVdHeU16QUtEajNfcnMtM215RW5HOHNCdXBCWS1USEFqOGdmOEsyMGFyNlRhMTU0bGRzNXhhTkhYX2RzY2lGVllHQktXOVRIQmQtRlplMXc4ZmxYWDBVa2RnMmk2TEFvM2pVLVFlSi1fdnRjMnlJM1FtUUFMQ3ZwZjh4MUxzekIwc18zVWdLVF9FVkZ0SDhsWWZ0aXZCRUlXcHJ1R2I0QmtpdkR1TmVEVjJhb0xweXV4TjlodXRkQjdPUC1ZS1IzYk9wYW9yX1UtTXBmb2hUQUpiQjRQVW4xRFdvUElwN2hUVnhWWEdqZnhHUzNFS0hHcHNIWTEwQ1pjNTd6azhjYmpVRzhxWVJydWl6ZXFoTElvTTNWNEVzSFVJV040NTlKM2RXY1U2bTE2VTlkeDJoU1kwMUctVkd0Q29NdGJHZGVrMlVoYmhoYzFJZUt2TUVHQUx0QVUtTnZpTU0ycXhMYW1weVJDQTJjT0wtMjd0bzVJNUNCamM4SFpnemVuRnJ6S2ZVRE83S0NtbjQ0UjZ4bW53MjFTZm51ak9LYnp3dTNlOTJKYWptZHg2Zm1ac2JXZWVMLU1jcTRpbE44cQ?oc=5",
@@ -2070,22 +2086,6 @@
         "summary": "الحوثيون: هاجمنا منشأة لأرامكو في الرياض بصواريخ ومسيّرات الجزيرة نت",
         "player": "رياض",
         "content_hash": "0deb5c5ddec25dbd6fc87304eba6a8d872a4c963f369903a6bf6384b24b36be1",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 8811,
-        "title": "بعد منشور السد العالي.. مصر تُحرج الوزير الإثيوبي بسبب حذفه - العربية",
-        "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxORktMZ2UxUmRzMUxaM2FYajJmXzAzaWVzTEFvb3lDVnJyelk4TnUzSEE1N09Gc0FRVU9xc0dlWkdyaVBZdVIwRk9IV3Z4MDdnYXhod29CaWlPT1NWaFIySUtZdldHOGYzQXlSNEdvTElhQXA3T0xQekpmc3dPcThYdGxCZHd0eUZFZmJwUTl5aHgyczdIemhaZFd6eWN4cUNuZ0djcW93ajN4YWVPMkpMbkZaUUxTNHFNc2RrYlVFQXUwYUdaVzlHRkFRQTZHcmJjeTY2TW1lNTQzVTlBVHZJN0FwU0xSRllKMVNXb3haQjVic29rb2V6OGdVQzhLWlpqWGxrZ2NJLUczUWFoNTBLLVdLaXgzSS1SUE1PQURQYnh3MmNpWlYzSVI0cUpjWmVzZzM0NUV2cHFWdTJuN3djbkpUQllHSTUzbTI0cHFfOTF0R05YUVp0dUNUWHVmYm1EUEZxUERBS2hDVmlITl9aa3VOUy1DaUxiQzlHUDQ3LWxPU05WZlM3dGY1YkRqZUdySU5sWU45THZYUHBpSV9LQWVWa1dTVkdMa05SQjlNRXVDSWw1RVV2bUtScmJiNTJtN0pGdVNLbmIwRDUwa2dnY3dQQlRSMWxqN0JPaGt6c01sVTFsOVo5d0NTeEg5REdT0gH2A0FVX3lxTFB3UjlGRm5iYVNCUFBpZ1N0ajN5c1N1cjR6QlhvZXR5TXQzNk91QzdiUE9oWUh0ZUhES0tNMUUzenVINmdHUnZzT083bzBzemYtSGFkWUJFcUYtWmlET1hGcV94TUlwMkdDNUJONXA2UGw2UXB6UUV4RTZxZmFUekd1VEFiRnVzVnpSN2YwQ2k2dGF4a2RaQzZWbnZYT3ZZREdrQWdDdzZaWlBobEVFTlJlM25LQ2RpRXNOWEZqRzF3UWtnOU5qYlFPSW91dFB0Ym4xNXZFamNXWTdoTDA0bGYtYnJNR3NxVWx6VjFZSnZ5MXVpM3g1bmh1dG9kLTNwaXJ5UXhuWDQwQndxUXlqdXcySzlfeUcxZDRKWmw2SjRvYnJhTUI2NEo4S3hRSXprVFZvdVlQRTJCWmJKOXk5YWN1QWNyX3lqTEJSYjVGeFZiZTNSVVRpQXlSQnJHd2lqVDRSZUVsTFYzUlpMVVZ3THVRODNIeGdaamp2QktMM1c5SUFUS1I3VWlaWDMwaUJERFR0bXdVS3pncThvMkUxT3FDUTFuV0kxTXhnOW5KaS0zd1JyRmRESGVLcDZDMlhXQzZaWFMyVEZRMUczeUxtVEZnQnFqVXVYSk5iSHZ1X0Y5MjJqeE5NT1drTXJQeEFiZ2g5OXJmNHc?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Sat, 03 Oct 2026 21:05:00 GMT",
-        "discovered": "2026-10-05T16:31:53.175143+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "بعد منشور السد العالي.. مصر تُحرج الوزير الإثيوبي بسبب حذفه العربية",
-        "player": "",
-        "content_hash": "70b2e8ed5ea3559aee453c9c26e4bd573f1bf3cb8b6ca3f50c2551625767cd7c",
         "sent": 0,
         "section": "middle_east"
       }
