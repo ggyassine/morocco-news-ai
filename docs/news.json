@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T06:48:59.411870+00:00",
+  "updated": "2026-10-06T07:05:04.417349+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -534,6 +534,22 @@
     ],
     "sports": [
       {
+        "id": 8999,
+        "title": "فرنسا تحول تأخرها إلى فوز كاسح على بلجيكا بدوري الأمم - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOTlUxZF9RWG5STVV2M2tOdzRwNGFVR3o3LWlMVWdRRG1OMTVKMDZTRzJpa2pNZHFOR0RYNWVBTzdjQjhOdEZfcmYycVZKTVhEa0NhOGNVTjFvZThNVmtSdm5MZ1B4WVRWZVVlUkNxWHh6YTBPQzVacW0yWGt4WXotNEprNENOdlJtdUJaSlZ1WXBVbjExMUs1S3FLRl9VRG9VNTBGOHUzTzNwZWhvVWpvM3VGX1U4UEhPVFJ1Y0loLXpCa19HQmZmWlVEdU5jY2ZNM2hac2pZVDd4NmhwRUJwcGRENld2ODhvSXMzYTZ6Q2NQRm5RNTRfcGxvR1pMV2NGeUJ0dkpoTzZ6NFhMay1yRzZ5a2w1OVY4WGFBbFk4bXBEcGNDX0FKd2x4QUVIcUtHTW9fOVZpWFBPVTBTWk9JV01XV3A1SlR5?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 05:28:49 GMT",
+        "discovered": "2026-10-06T07:04:58.212298+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فرنسا تحول تأخرها إلى فوز كاسح على بلجيكا بدوري الأمم القدس العربي",
+        "player": "",
+        "content_hash": "b78044578a94940e1eeade70d8a116d43911f8b06c3f00b516548f6e92a299d4",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 8949,
         "title": "لقاء تواصلي جهوي بالعيون لتعزيز حضور رياضة الكراطي بالصحراء المغربية - Le 360 Arabe",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwajVGTllJdzB4TGI4UktyMnJ1cDd3dXI4TkI1anRnNUpFZXNIdHhjTENiTjJ5SXBueDU3V2RobWlDZVd1ZC0yZko3LUJjV2VpZXJGUmo1aHJ1amZrWmgxaGRDWVI?oc=5",
@@ -982,6 +998,38 @@
         "section": "sports"
       },
       {
+        "id": 8997,
+        "title": "ما القنوات الناقلة لمباراة كرواتيا وإسبانيا في دوري الأمم الأوروبية 2026-2027؟ وكيف تشاهدها عبر الإنترنت؟ - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi8AZBVV95cUxQWkd6MTdJbU13SC1OeXR4cnhNdVgtWS0xVE1Va1RNY2ZUTUtQQXl0LWpHOFFNbVN2MldtUlZzR2pEaDNhSFE4UHVqTDE5bF9UVVJrZ0FYTENFcmI5UW5CWGExRERvOVYwejRqN1NKUFFNaENKV0lPRVpHcEZRT1pUU0thalF6XzVWR1BOZDVZSWdTdU5nVXlObDhlVE93Wkw1dTU2STFIRVB0SDZDWTdJdDJNTnZkRHFWY3lwZzd4Umx4cjljNi1zQWRTSmFUVjdYU2loanVCLWdkOS0xYzZiU09RUF9TcU04d2pxVFVralRUX3E4Um5pNThJV0JMZmdKWUhiczBUME1kQzJiY0lrWEU0SzZTOTktWEpzcmNLaWZuSHQtVHlVUGRxZjV4eDFQTDBLQWgzZi1zOUtuRHhPQUhCNGsxVktPRFN0aVVEb1UzWGFiRVFsUXVMWmVtazZGT2R4ZkllbnU0QmlNS2pXbVpIclhqb3ZXZmM1R3JUQk9BbHhMVUtzWGRObWttYXFfZVpBY2U0TjBnNUViNy1WdXBNNkRHVUtNc211MFc2WkpOc25MbFptOXdodzN4THNMcHlOZzlfaTBLbFFpOXJjTno0QnpjcEd4RGFSRzhnYTVaSVZleHQ0VW8zZzVlYmRXNFhQQndPRU1KNmI4VUNMdDZlbUM4b2ltd0lBdUdxVmlSd3kwa21GeDM4cGh6MzZ4R3JfdENxQXh1LWdXVkdBMjN2Xy1najJIcENFMmxvdXNNc0tieE9XeTJ1RlJYUFlmRDN5RTQ3T21GVDh0c2RuWmpwU1Zzd3NrOTlNWjRNcDRQUWx0V0EzYXFXbzg5VDBWUW5yN2c1Zk9YdFRNeTd0OVlkNVRnc1BvRXlMUWpFUTluVVIyZEd4NWt0UkUxdzlqM1dFQllGcGUyRm5kejhoRkY5UjdLYTQyTVVGb29ITi1SM1hGSXRwMEVNcjFLWlpyemMyX1FPUHkwNzBJNXdvR3pWV3RMY3FHRkNjR1RmdmJ4YlNCN21JcjRaUHNRaEhkSHZGMXlqZ0xseVE1ckNEbjdqY1dmai1SZE01ZjJvcTVqMnBjMEZ5WWFuay1rZVRJUTdVeWI2anp1aWI2bk1ZcjRkVWRxNUxNNndwRUpQcDM0TEhibVd2al80ODV1YU9t?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 21:05:01 GMT",
+        "discovered": "2026-10-06T07:04:40.301418+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ما القنوات الناقلة لمباراة كرواتيا وإسبانيا في دوري الأمم الأوروبية 2026-2027؟ وكيف تشاهدها عبر الإنترنت؟",
+        "player": "",
+        "content_hash": "c46cff76ced19d2fbb7b6172d1f0e419f24d73c8410c33447efee32e15491cb3",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8998,
+        "title": "كرة يد - بعد إعادة القرعة.. تعرف على مجموعات الأهلي والزمالك في بطولة إفريقيا ومواعيد المباريات - filgoal.com",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DLVQ3VGRuMHBxcnVXTEppMFR4TTk1WjdaN0FkaUdPbDA3R2V3cWt4bnlZbVRYLUJENXgtLWZZUzVHa1JCZnM4N1NFQVQ5TzVL0gHSBUFVX3lxTE9POS1mN0Z1RHB1aXNCVmtaS1doNzduNThneUFnRW5Xbk1NSWdlREtIc2k4TWJrSHQzU0YwMklzeVdMY3BWeVdWQzRlTjhJUG1zT1RubklITkVtcUFoSmNLcEtrRjBWSEFCaG5FaXd3TmFuZkM4Y2RVTUxGTEhJOTA4SHk2R3luWC04WUtUcTBXNGdmX1BEbWtSc050T1o2TExjbi1NcS1qYlBaUkRvcHZCbl9oMjlJTHR2Y2t0ZXV4TWtXNk9XVTA1X08tSDZhYlhLSmdUYnItTldTS1F4TXlLRWFNX0prZ3Y4T1NldkhCT2RoX3FFdXZWa0VrSERpT2huRmlNTFZDMzdsNkZ4NHhHMHcwdlVHcUR1OTQ1VjVhWk9BdWdZRmg0cGtKRDJlemRuZUp2QXFudmhseHBDTzlHeXBXUkRpQnBUUHFERnBSYjBxcUU3TnlHX09rMU9rRm40UmNYd1ZFN2F2ZlRINkZ3TDBSQnEtSi05WExaVDZmbjNsMjNObFItdVN2a01TNm1uWXZ1dXBvZkl2cG1Pdzh2M0FOOVN1bnlRYnN3N3N4VXlwMXBjdUt2ZEEzN1dvNld3YlJDUGduTlktekpDcUxlN2pkUmxiaVRQUkl4ZWdUZklxSXJlQVJ5TUQ4U0I3c1BHNGU0SVFyNlpMVy1LdWFNTXdSNnY5ZzZuUnRhZEJxb2x4TmJMcFYzR3FqSWJTMkdUSnVORmVCdUY3NGFRaXdyR1FZdWhKbzllWnc5R2FfNHNhOFprSGdoZHZDT2c3U3dxdXVELWF5SDZEYmRXXzF3NklyOUZiekNDQ2RqXzJaZ3lTRGU3UVdkY3VNeV9zMXpCbVBUR3J0bVR2OXc1Z0tmNEhzSDlETm1KN3BrbFNkRlp2em1kQkl0RGtRaHRkYS10X0RKYlROXzVvYUtZQ0VBQXI5QUp1Y2dnNEw2ZXdzZ0Jn?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 20:59:00 GMT",
+        "discovered": "2026-10-06T07:04:46.758256+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كرة يد - بعد إعادة القرعة.. تعرف على مجموعات الأهلي والزمالك في بطولة إفريقيا ومواعيد المباريات filgoal.com",
+        "player": "",
+        "content_hash": "0f5c4787fb4c66887974ee0881e00f979d6e4ae7051d3c75238748bfd9eeb905",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 8867,
         "title": "كرة يد - بعد إعادة القرعة.. تعرف على مجموعات الأهلي والزمالك في بطولة إفريقيا ومواعيد المباريات - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMizAVBVV95cUxNSjhsMFcyTGVnRnNhcDNtUGVLRHZSZFllcXF2NUZwaWt0Vy0tVGpoT2JmTlU1MVcxdWQ2T0lmUlVZQmczc3F5cVR2czd5UjFmSk5sRlFsUlhtRG5EUndUdDg2Nmg0VjJJY1ROdFFsaUFKdndTcHVTVHZxbFAtUUo4OHFBS0M4bkRyN1haWlc3SUNSbDhqTVRGclJUeEZWWk8zdXQxSW01NWxmVFBUa3FYUWl5cUtkRlA3Z3hYQjlGTXp5VkZSQ2NWVVROZUxGUGdJdC1WX0dERUp1aDhKNmFoNjVsNC1TaXY2dlA5aWtwOEMtdlFXazhKdUdQMkozbWZETFdDS3lNM21XUFFZLWZMQlp4NWVGdnUxcFV3dXhnd0t2RjJnWkxHYk1DbDN5U1QwSlkxM05iN0w1bnYtSWxsekhhcC1idU5GdFNSMlF5eUhhSklrSzh0V1V2bU5uaW1JMjc3akF0WXhnempqZ05GTU04T1RPNkpRa0xIR3pMdHB5WS1kUlhvaDloOFN1RlpOZVhTWVVQWGdkTXBOZFRxU2xUZFJ5WV9jZG92NE4tejBOTUxnRWx1M1VGYmw2MURheHpMRkM0X1BXNWxxa2hFZzZ5eWRFbE5Vcnd0cmk5RWJkemdMdm5DNnhUc0ViV3R3VzZzVzdaY1NMMENCelZ4YmM3M1FVdkFKYTNwaF9MemhTUGlBMG9WU1RJWVZZNFExTkhwLTgwTl90Y3hNQ19IVGdJbTlJRFh1RExWX1VOOV9mbGJNNDk2c0E1NEd2bXllMVgyc0JWWjNVNzFBckxISlBFSmJGRVJCT25Xa1U0NWd2WndyYVRicENvUjVrVk5tRGJEanhzT1lvT2JkRzRkZTVhd2RCX3JOU1pnMFB1SHhNQV9sZUNfN3ZXeHkxM3hTUUF5REZiaEZkelY3Y0JVVkVQUXZMaUJXRVVWUtIB0gVBVV95cUxPTzktZjdGdURwdWlzQlZrWktXaDc3bjU4Z3lBZ0VuV25NTUlnZURLSHNpOE1ia0h0M1NGMDJJc3lXTGNwVnlXVkM0ZU44SVBtc09Ubm5JSE5FbXFBaEpjS3BLa0YwVkhBQmhuRWl3d05hbmZDOGNkVU1MRkxISTkwOEh5Nkd5blgtOFlLVHEwVzRnZl9QRG1rUnNOdE9aNkxMY24tTXEtamJQWlJEb3B2Qm5faDI5SUx0dmNrdGV1eE1rVzZPV1UwNV9PLUg2YWJYS0pnVGJyLU5XU0tReE15S0VhTV9Ka2d2OE9TZXZIQk9kaF9xRXV2VmtFa0hEaU9obkZpTUxWQzM3bDZGeDR4RzB3MHZVR3FEdTk0NVY1YVpPQXVnWUZoNHBrSkQyZXpkbmVKdkFxbnZobHhwQ085R3lwV1JEaUJwVFBxREZwUmIwcXFFN055R19PazFPa0ZuNFJjWHdWRTdhdmZUSDZGd0wwUkJxLUotOVhMWlQ2Zm4zbDIzTmxSLXVTdmtNUzZtbll2dXVwb2ZJdnBtT3c4djNBTjlTdW55UWJzdzdzeFV5cDFwY3VLdmRBMzdXbzZXd2JSQ1Bnbk5ZLXpKQ3FMZTdqZFJsYmlUUFJJeGVnVGZJcUlyZUFSeU1EOFNCN3NQRzRlNElRcjZaTFctS3VhTU13UjZ2OWc2blJ0YWRCcW9seE5iTHBWM0dxakliUzJHVEp1TkZlQnVGNzRhUWl3ckdRWXVoSm85ZVp3OUdhXzRzYThaa0hnaGR2Q09nN1N3cXV1RC1heUg2RGJkV18xdzZJcjlGYnpDQ0Nkal8yWmd5U0RlN1FXZGN1TXlfczF6Qm1QVEdydG1Udjl3NWdLZjRIc0g5RE5tSjdwa2xTZEZadnptZEJJdERrUWh0ZGEtdF9ESmJUTl81b2FLWUNFQUFyOUFKdWNnZzRMNmV3c2dCZw?oc=5",
@@ -1282,54 +1330,6 @@
         "summary": "ما القنوات الناقلة لمباراة إنجلترا والتشيك في دوري الأمم الأوروبية 2026-2027؟ وكيف تشاهدها عبر الإنترنت؟",
         "player": "",
         "content_hash": "452a8566556fc36e88c8450b97e4d98d951bfc320d3a69635c5a377369bef32b",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8956,
-        "title": "باركولا ضد لوكاكو.. تشكيل مباراة فرنسا وبلجيكا في دوري الأمم الأوروبية - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxPVEZFMmJZenpDenJzNXRGbGhKMGo1N2ZON0FUQ2plcWpJMjdmSXZiSEJnckdqVTFKR3IzcGpMUFNqWjVhX2RJeHc0NFRpVTRvcWwyU2UtTUVQakR2WEYtQ2xwRFR5ZVRkUlA2RnVHaGRPOFIxWHplb3FNa19ZLWpKdzhzMHZoX2dsX1J3SFNhSUpxd3pEMmFXMDdiLXdVSVg2anZHa3JXcUVzNUNxd09iNURsMFhxQ3dac1J3a3VnREJ1eFE4SGRVWlNhcmh2WVAyMV9oR1RLUmxwbW1paG5JakY4cmprSkpNb3pMNzk0XzMtVmVvSnhBREV0N1RHYjJfNG1kbnVPWkFMTmN4NFdhcHJ2V3dnNlR4X3l2bjdHVFlGZFlmUUhsaTNCUHZTUmxzLVZRMXNmb2x3dFV6RW9mZ2FrT0xydU1TdGl3VmVXdkE1eU5XTnVSeVQxRGY0cHFqWlFtLTlMenpFMXhUOXk4b0pIZ3Vma2hOMmxiOUV5Um1RLUNKazlKdFdzbnd3QzJPMkZadzVjOXZoWThoSG85Y1dKOUZEYWY1Q0Q4UEdYQjN4T25SU0t0dlBGZXMyV2dSQnJmSFRzVXNlV18zNHp4MTlVS1VTOXlZcjg4TFZmQWFEeHhsYkxINkwtcUxCUEJnaGJxT3d1QkhQcm94U3VSMWQ4N3RlWk1MTk1KOHE5dEFqQjN3Nml4WUY1ZlVEMGR2NHNnZUcySy04S2RDTFpJaXFNbkpHRGVGVjN0cWNTNVczN2hXN1o0aFhSU1poQdIB0wRBVV95cUxPVkw4c3dXMllyWk1lcmJtYUE0MHdOdVFtWWVhQ1VtMFdGVEpQcU1UZGVUQnh5MUJiSVo2TDRuZC1BTzlmQmhvTXdTckVxWGF1NllrZWp5OTJnX3loZl9sbmNpRmM3SFpvdjNZNjFfdkFhRmE1SkEzeXpCMHNMZTF4ekctWHc3eG1jd2hfd2x1X3ZQa2JwaUx5WEs1ZHZsZ0U4cm5yQjJPeVlDbHRoUVFsVE1TWm1IMS1zZC0wblE2WHoxT2xrMTZxeGhvYmU3aUh3OEJMSm5HQ2lveTY3MzJwZDVZeVlpc3J6bDFMOEpjWUNTUlVyMEFnVjMtZG9WR0VYa1RUaWI3MG9PazZBbWs4NzhvZ0N2X2VHZktxSzVEY3lDZXExSkVOZEpwV2ZDVWlpLXZLRE5takd5TXgxNE9iQUE0RXlDSV9STGFHTG5ES0JPelp0TENFN0l3c09vamdRVG9lVk9RWUxZWWtzQXNKMm9jUVZCRGxCUkcyZXRRVnRaN1FJZkVFaXRpZ3lUNDg2ZUFhUFNoaUZjV05OaWZ0Rl9IWS1ncmF5Z1lhRFlYZVdna191UlRyUHNwT1ZzdTB4MUpMbUh1Y2hZQzFfaW1tMjJDWi1qX191MXcwR2Y3WExtVjFPY2FaZ2dJaFZQSUFxRGIxVjBOWk1KVVdpM0VLcV9LZVVuTFJwSVBJV3I2Q3JjYnkzTG9yTUd0LXQxcXphSjNoU2YzbUdPV3k0VWo4V2VnRFN6SWlnNFpNSDl4ZFptbkwybDg2aWNOWndTLWJHSHp3?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 17:53:00 GMT",
-        "discovered": "2026-10-06T03:38:45.195842+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "باركولا ضد لوكاكو.. تشكيل مباراة فرنسا وبلجيكا في دوري الأمم الأوروبية يلاكورة",
-        "player": "",
-        "content_hash": "6f7f7a995c1ae5053e22e2972d2ae6ef8bb0d1b04e624a7061537fa73cc3b637",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8894,
-        "title": "ملخص وأهداف مباراة فرنسا ضد بلجيكا في الجولة 4 من دوري الأمم الأوروبية - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNeDhMZkl3Q0t1aHF5T2xlZ0ZTSjJpQlJUQ3FTOC0xZldSMXhaaVpINVEtM3ZGUV81X2hoYWNXbUJpQm56VlR5QUx4Q2RfNzcxOVp2bV8yaUIybzFMdlBDWkFPZnotaGZaSy14NHBFZk16aG0xMEJUVlJscUZVV3FQRjNBWXpveE50eVpJX05oWFRmeTdZSzJOUG5vWlNLNHJTOU9MeVBmQ2ZMNnA4eUxCSVE5Z2I5akVITG9WNjFreTZTdEtka2J2c1h3NWd4RGVoYU5vNHgwUXM5cU50N2tBUG9WZUpDMVpna0tWOG54U2VmYlM0R0Z0MElCNmQ3X3dBTlVGamxKdTR3M2ZJMk9hSmdFMFdMN1RKV0tYZTBkNzJwRGZJbkdpbEZjS2l5V2xfV0JCMkFpZUZuU1Fnd0ZPZm4ydWpxXzAzYWk4TC00cTNIZjlkTW52YTlmRmRQSWo0SFE?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 17:51:36 GMT",
-        "discovered": "2026-10-05T22:39:51.390791+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ملخص وأهداف مباراة فرنسا ضد بلجيكا في الجولة 4 من دوري الأمم الأوروبية 365Scores",
-        "player": "",
-        "content_hash": "38e1e51163b5a2ac56f1c466b789197655cf22df667574af1f485ac0d51d9e8d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8846,
-        "title": "أسواق الخليج بين دعم النفط وضغوط الحرب... قطر تقود المكاسب - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxPZ0JxSmo4Nk1kRGo1cm5ucllBcERIbXRhU1JqLVpLR0dqSlJsUnhPNTRZRk1xdmYtd3VNZTE4eEphYWFHNnZFaW1teHY5UHhXclZhZl9iZVhiWGctUlg4WWVUVE1JNnVJcXh1dWU4SDJyOWdQdFFGV2M4WDVaelhaeGxRaWxpS29OLS1TRjZwQlQ0N3BnWFpQcnNjaG56enoxdGg5RUJscmZ0TGRaUzZNQVBFcnNRaDhOVkxFbEdDQ0VjS3lHTEYxM05sUHNDWHkzRlFtTEFVMHVlekNFVFdadm5uSzdfMWk1LUZqM1VQZ0RtSEVRNnlJaHdxLTB6NDRpVzNnVE5MZEhENW1LclRjNEVyNjBLNEFsRjBiVWFZMHB0WVZDbDFJS3BhV3d5ZkRZOV9PNmhFSkJNcG1DbjFuc0Z1cVBtdjNsNklSRlVjWlJMN0hmNWFKMFlvajlzQkRDQ29zTVFwWUpJdUFJWU44MEI0d2NzQ1phRjFBUzE4cW1zTUVjLWFOUm80TGZlZTBzb0h0M00tSWtjOWV2eHN1V2p0dDNlaTJhLUd3eGliVGVaaXl2VDFjSmFuVzBxbW5COG1OeFpn0gHLA0FVX3lxTE5MNTVVRWo3WGhOU0ZiaEVxdEdGZVJvOG9adlFiaXBUWjJHaUQwY1ptcDZFUDA4Z3dsc3UxS2FwYnFZR01xTTFHVVltRHVxM25pcG16bHFPQ2FBc0Jhb3VmNU9qbXd6aFVOMjhQZUI2WDZtS2VsOGRVRWxiQmY5UHVFb082TllYeWd4UFczR3VYZFMtcXhtWlNuVkVINkQzMV9kMmZhVTFOU1VpdV91a2RRalVRWUhMNmFTaEZuU1FlcW9wNktaOHBXdlJmaTlOVkM3Q1laSWxKc3paM2RkaGNtSzFHU3BIc3hnQkFvU0xVZklocEhZM1I4OEJxcmxtTmNlMjFuUDZ2bC1DcGhkWDU0eWpLWFdFQzIzNkhuOVlIc3pFV0RvSEpRaWlxQlJoaGhrekJibjVXZm5COHN3cldocUVEV2lyY080TE5ya2x2M285UkFkNGsyRjBhMW55dmFfaVkzdWtZUzY2Z2djOTk0eE5zX3BSTXVRVWhhblhhS1BwX3VtWVVkbjlMbURXZ2FqZC1DUkZNR213TU5xTFZDQl84TFJjWGJ5X094NTZ2eWU5WWFyS1JTN29VSTZPUlJfQm00OUtpb1Ntdw?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 17:33:01 GMT",
-        "discovered": "2026-10-05T18:53:39.636477+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أسواق الخليج بين دعم النفط وضغوط الحرب... قطر تقود المكاسب العربي الجديد",
-        "player": "",
-        "content_hash": "04f56504a24175463a60600a2f425e58fa66be0bb61dc01807d6c52f26757103",
         "sent": 0,
         "section": "sports"
       }
