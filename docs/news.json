@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T23:30:30.357389+00:00",
+  "updated": "2026-10-06T23:45:45.298681+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -80,6 +80,22 @@
         "summary": "خليجي 27: مواجهة مرتقبة بين السعودية والإمارات في النهائي بتحكيم مغربي BBC",
         "player": "",
         "content_hash": "1c0acbdb36dd0125a41e3fea808793f5fc1f1bcc5e293f2d91c45ded87f43e82",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 9298,
+        "title": "الصندوق المغربي للتقاعد يصرف معاشات المتقاعدين الجدد لقطاع التربية والتعليم - | MapNews",
+        "url": "https://news.google.com/rss/articles/CBMijgVBVV95cUxOTTlERHBRb1Z1a3RhUXVtYW01Wl9aYjhpTlQzSFlxT01rM2Fld2RWOUdZdVlOZlVfMWREc3duU1k5aDdvY3c3QzV2TktKdFVra3NYeXpPVVJmVXZRdHliXzFzcXNqekdEdG5FSnN6eDVyVXdZN3NyWnY0LW5ieFJ2bUlfbGRkYlB1TVk2bFNTZVJKdzlrMjVaVnBmVDItSERaMEdXZS1tZ3BOSzNWRXFVdl9YNFdERDhKdVdVaXRuVDhxZ0RieVZnSEdxaUR6VURQQVhmS2xOUlZ1Q0NOZUFsUlhVU3huall6SGlnbU9OZElVRkN3ZFhwQi1MSlYzOWFLNGZUbkg4TDF4ZDlqZHF0ZTF1OHNHa01LV1Z1UDJBbllPcXpuektBa0JmQk84R2ZHVWEzbHhHMDZ5bUcwZ2QtMDBSRS0tUW9SVHpwMnI3a0RmTnluUFJTZE44MmRZVHBSeE9VODdQdU1qZjlGd3BmbENpVHZTMDJIZWFfa2hGc3FXb0VZbkNPR2Z6TktXaEt0bTh0QjBldW5SYjNZQ0o3UHJhbTgxQkNrOWhGZkI4eHdLbnItSXhzYkNJSlVpdlZzOFVlTl81M2VFOHpKRlpWRGpNR2ZaeHlyWTJtYTdadTJrR2tVTW9CcUV5VkU5WW1pdWlXdmROTm44Zk9tS1F4d2FBZ3VRT2ZTZWt6OTNlVXhPVXk3bzVNQ2JBeUpUMUgxdnZTZEJZSm14Q2ZrWUdPYl9iVk4tdjFGMUhkTmVrOUQzRlBSb0xSZEswWkppNEQzeXlLd0ROWnZpaGpQc0pjcHFRT2l1bkg3dU94UF9SanE2U3hWd3ZrVVJZVGR6SHREWWRBVVZrME43UExLUnc?oc=5",
+        "source": "MAP عربي",
+        "trust": "A",
+        "published": "Tue, 06 Oct 2026 14:40:44 GMT",
+        "discovered": "2026-10-06T23:45:12.125549+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الصندوق المغربي للتقاعد يصرف معاشات المتقاعدين الجدد لقطاع التربية والتعليم | MapNews",
+        "player": "",
+        "content_hash": "77535e71840c5c5398ba53b1dc0eb5e2bda25c2a0d345ca35e0e3d4a0733c109",
         "sent": 0,
         "section": "morocco"
       },
@@ -544,22 +560,6 @@
         "summary": "وزارة الداخلية عملت على إيفاد لجنة تفتيش مركزية إلى مدينة طنجة للتحري والوقوف على حقيقة الخروقات التي شابت العملية الانتخابية بمكتبين للتصويت (بلاغ) | Page 3119 | MAP | MapNews",
         "player": "",
         "content_hash": "0ec11213c0883b48ae2797936fb56ed0bf08e9fe76244ee3c55d0e5d62a6aecf",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 9114,
-        "title": "تبون يهيئ الجزائريين لطي صفحة ملف الصحراء المغربية - ar.le360.ma",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51SGRfYlJnYzhFMG04YW1Fa01XUGNNZktHUWJ3Nmc0YVliYm54enZhOS1TZVhZY1g5emJ6SmtVZGdWTUhFdmJFOGd2ZFdUcVRid05weEJPejByZ1l0dENPTVNUdXpHUmFk?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Sun, 04 Oct 2026 18:03:11 GMT",
-        "discovered": "2026-10-06T15:45:00.611472+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "تبون يهيئ الجزائريين لطي صفحة ملف الصحراء المغربية ar.le360.ma",
-        "player": "",
-        "content_hash": "5676f8766c0c0508bb1e8e7d0c228f0dd0493065b3998c54122119bfbc9cc838",
         "sent": 0,
         "section": "morocco"
       }
@@ -1416,6 +1416,22 @@
         "section": "transfers"
       },
       {
+        "id": 9300,
+        "title": "قائمة بيراميدز - غياب 12 لاعبا عن مواجهة القناة في كأس العاصمة.. وضم ثنائي الشباب - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uOWpiX1ZvR3l6Q0o1bFE5eTVqV1Y2VktyWUpFSk1HR2RsZ3ZCVVVUVUhnS3ZyU1FJQXB3YUp4aUhyVE9qX0dZd1ZBYnNKQ08x0gHbBEFVX3lxTE5sSjY5MGhERy1nQ242ek5Kd2hRS2d4S19qdlpXSHpVQVJzMUdJLS1ZeHJMRUNPYlBGZnctXy00dkhfSVlianowUlFfS3hqRklsZHdScS15X0dGWC1EWEppZF9xWk96emNXb1VpcGFjMDVxRVVUekxUUDFVOWUtckFVeTdHdHdueFNaT3ZYWjFyeDl3RFlqSk4xQ0pwUGhQX1UwQ1EtLV9NaW1uaHRyRFZWWUV6X1pOSDNKVDJrWFI1eS1ib3B2dElwX25IcUE2aTQzdVlUV3dfN0hfNGJVaXUzVW0tcDZYQ3FJd3lQNXoyZDd0WjZfS0hyaXIwa1UwcGFzc0puRXNCbVFHSW9fcUZiQ0V4M2pLbDc2R0pMSHE4ZllqU1lZYlUwWlpRbVJ6d05sSFpHRUpFbXZwNjg3aVpJMjdJd3gxaXZCcndwcUVzYkF5UXJpVjAyeU1EUFhzYmVSWVN0ZVp5MUdWVjhyLXBFV3hCNUpkTWs4QmtTU3ItdDd5dkY2dFdaTlZEZWhfclRaMlFVVFZyU2VMakpsWk1GMFdWNkpNZ3VKRzJoVzJQVk8wZWkxenVkNk9kN0ljaXhVcEEzdjBlRXd4X0s0UjVpLVNUall2OUhIODZHa0xUQVdCWjF2dGNncVFVbFZDNGV1WFlZODRFXzNzamtfUm9nZlBNeEhqSmduRExTd01hbUM4by12aDVZOGJQMVZtN212ZHJVNW1kSHRLRXlCbDJEQWZycmE1YU1SNFNTd2ZpYUVLQ0ZXc29zS0I5dWhUZHFCZTBPb3RrOG9NMA?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 16:16:00 GMT",
+        "discovered": "2026-10-06T23:45:27.915841+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "قائمة بيراميدز - غياب 12 لاعبا عن مواجهة القناة في كأس العاصمة.. وضم ثنائي الشباب FilGoal",
+        "player": "",
+        "content_hash": "9875b9b8c004c6438dbb7cf9942dbfa619dbee201bc09060d78a7b3193d8fe0b",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 9214,
         "title": "قائمة بيراميدز - غياب 12 لاعبا عن مواجهة القناة في كأس العاصمة.. وضم ثنائي الشباب - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxPMFpZXy1XSXl3dUJzNWcyQjJqalhPRjROem0wbXVrVkIwTEU1M09fdHVuNnIyVEVVRzFwQTBHZkRGSGtxNHNiUnFzTWZVbEhfWFBCazB4Uk5QNDJNbVhmbHdjOV9MUE9rSm0zTllqeVNOYTFHaWpTMzRpTWlaRjRHcEdEWjV0SDNvRDUxOTZTZFV4YTVubEhiNXpRc29QZEZocHIydGV5RnZlbEx0aFUwLXQtbW9mbnAwUTRoeVJwWUJ0eVFQaENzYmM0MDNLb1lWQ0ZEeHBTby1YYU5UMm1pMlFhZFRVVl9fMzdMOFZKMm1OWERmV1UydmtjblRZVVRmV3Y1UzNsYlZ2WVRvR2NPQ3dUUzA5WDdDZ3g4VXgtY3FTLWZ0aEs5ZXV6cUFjQXl6eGsxMVFUSzltT1B1RF9xcUpFXzJSNm5aRDhvcWMwTHVXYnBZZElPcjQxLXZVa0dzWDFJdmxMNUNVbk9kcE52ZWJFYlVEQV9YbzBEWU5YQng4WmNtZEdGLWZiakxBRnd4VzczTDdLZG12NVhBeVJfaEU0VTQ0Q2kwSlA0M0F5Y29CMmloV2dZOTBhTWQtS0pQMjQzazZIaHp1Qk1hUkJhY24xN2o1WWMtYVFoSVZFS2RobmNPNDJraWpueTVIUkZNS3JEUkVXMElVdGZlTnZ5dG9ZdDlaalNJRHVzY3M4Z2tfcE5IUVUzZmFPRXBad29fenZ0Sy0tMWNIS2E2eGpFQTcwNjFjUk84ODBlMkhNUDJzbkVCOTQzbzFuVk5CUzBjX0U2SjF30gHbBEFVX3lxTE5sSjY5MGhERy1nQ242ek5Kd2hRS2d4S19qdlpXSHpVQVJzMUdJLS1ZeHJMRUNPYlBGZnctXy00dkhfSVlianowUlFfS3hqRklsZHdScS15X0dGWC1EWEppZF9xWk96emNXb1VpcGFjMDVxRVVUekxUUDFVOWUtckFVeTdHdHdueFNaT3ZYWjFyeDl3RFlqSk4xQ0pwUGhQX1UwQ1EtLV9NaW1uaHRyRFZWWUV6X1pOSDNKVDJrWFI1eS1ib3B2dElwX25IcUE2aTQzdVlUV3dfN0hfNGJVaXUzVW0tcDZYQ3FJd3lQNXoyZDd0WjZfS0hyaXIwa1UwcGFzc0puRXNCbVFHSW9fcUZiQ0V4M2pLbDc2R0pMSHE4ZllqU1lZYlUwWlpRbVJ6d05sSFpHRUpFbXZwNjg3aVpJMjdJd3gxaXZCcndwcUVzYkF5UXJpVjAyeU1EUFhzYmVSWVN0ZVp5MUdWVjhyLXBFV3hCNUpkTWs4QmtTU3ItdDd5dkY2dFdaTlZEZWhfclRaMlFVVFZyU2VMakpsWk1GMFdWNkpNZ3VKRzJoVzJQVk8wZWkxenVkNk9kN0ljaXhVcEEzdjBlRXd4X0s0UjVpLVNUall2OUhIODZHa0xUQVdCWjF2dGNncVFVbFZDNGV1WFlZODRFXzNzamtfUm9nZlBNeEhqSmduRExTd01hbUM4by12aDVZOGJQMVZtN212ZHJVNW1kSHRLRXlCbDJEQWZycmE1YU1SNFNTd2ZpYUVLQ0ZXc29zS0I5dWhUZHFCZTBPb3RrOG9NMA?oc=5",
@@ -1720,6 +1736,22 @@
         "section": "transfers"
       },
       {
+        "id": 9302,
+        "title": "قتال شمال إثيوبيا.. هل تشعل التحالفات المعقدة حربًا إقليمية في القرن الأفريقي؟ - DW.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxONXZEU1o5SVFIaFZTem9kX253WjA5TEhpUjRJVlRERVJwdnd0UF9jSXBRNThkVUFmLVVkU2VZV0E5b2NmcVlqY2dXaHRqRmcyWkZTbGVmUWVjakFCSE5Zc28welNvaUVGdFFPTElzNUp6UHBpYV9PNE5POVR6TkU1NkE2aFhjeVI3dVRwUnNrM1hyX2ItN1BucGNRRWRCVV9IdGVQOHp5VGxUdnM2OUhrRUc5eEFjVE9GS0lDOWpNM2RXX2RKb0R3eWNyVmxwa0taaXZJeXo3QmdpMFFZZk13M0gtYk5QMS1WUUM0VVJReVQ4VkliMEc5eE95dWFnSHhOXzhCdVozWjN5Uk5mSWNXZThyQngzUVVEc3Q1VEtNY2wwRzRpSktVY0JTc3RFWWVpMW55VWNpQy1qYW1zbDhPLVlENDBVajRwU0FjY3JxRjNZbkk0MmRsR2IxMDlJRXJXVkhVc3ppZ0hXelZoQVFWSmx2UUNPNjRDcnpyMTBhS3d5VDhYUjY5TjJGTndkMlpTM3J1YjFoSTBRY3lUdWpQaFlUZE1NSjBfR3lvb3ZqUzZWeHNJOXV3NE9xSGtmNE9heExsNmtIbVVhS3JWdUQ1YWJ1c2l6MHZTbklzWUxCTUZCRXpSSnJmMV9GNG1sbzlJXy1sQi14VTlSZlFQbld2a2taMUlCcHFNSnEyZkNqSjhVNFg5YU5jNV9md3I3MGVOSks4TWdKd0RNZDdMY09FQUdZbFBqNm90Z2x4LVN3U2xGNVN4dWZzUFVqVVBtY2x3M0phbG9oVQ?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Tue, 06 Oct 2026 06:14:18 GMT",
+        "discovered": "2026-10-06T23:45:41.142616+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "قتال شمال إثيوبيا.. هل تشعل التحالفات المعقدة حربًا إقليمية في القرن الأفريقي؟",
+        "player": "",
+        "content_hash": "4ae2482030abb2cbbc009e93ca803821d37177bbd3a80a9b010d1affdb082cc3",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 9021,
         "title": "هجوم أوكراني واسع بمسيّرات على منطقة موسكو يوقع قتيلا وستة جرحى - France 24",
         "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOOF9OMDZsZTBIZld4b3pkc3haNl9mSFNxaDQ1NnlJQ3puVEJPcWxRTTZCWEZJalpTSDFsYmZUTW03UF9VbURkNGU3RUMwZDF3TWxSamc3RS1wWTFXOWxteU9DUmt2WUpaekt1d3doT1Y4ZGJFSVo2aGhfNS1GbWNCLTF1Nmo4SVVsR2dNZklfUEJOVWdFUExBRHM5N1BORDhaSjRTdWNwOXhURXlBMEdUZmRaWHF0dDdZZU0ycG1wNFNnZjdXNVFYTVFDamh4VUtLczIzRThKQWdmc05aWlNXT1VWVF9WazVweTNkbDZDNnBWN0ZINC1qcjYwNXFRV19SRnZxTC16UEI5cjZsOWRwaVVPQWxsVEdyMHJLdk5wYVJRQmlZdXo1c0NNcVliTnNzOVVFMmRkU1ZCUE9oaTA3WldmcGFhN1BPX1NaR1p2TTdpcTVQeEZKV2hreVc0bmVILUdSaEVCLUwzYkV2V1U0RVFtRTk0aDVucEZwTGlVTTZBMDRXMHd2Zm1Hazl5V3JuZGhtQ0N5MndWcXpFemE0X2w0WHEzR3RBcGMwZzBoVG9oMk9xUFYtSFVqY1NfLWUxMFVHV2E3dVQ?oc=5",
@@ -1928,22 +1960,6 @@
         "section": "transfers"
       },
       {
-        "id": 8802,
-        "title": "من معتقل سري بدرب مولاي الشريف لمفاوضات حكومية.. شنو كالت تقارير هيئة الإنصاف والمصالحة على التعذيب؟ شهادات ضد عرشان.. وصلاح الوديع لـ«كود»: غادي نجاوب على شنو واقع بقصيدة «غبار بطعم الصدأ» - كود: جريدة إلكترونية مغربية شاملة. - كود",
-        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPc2oxNFFhenR6YnNUX05FTjc1Uk1YN0cyMTc5UE9HY1FkVVR3dWhkUGNGVTlXTlVrRG5IMk1VSHhGUVFZb1FIRDVXVFFXWkVuMVlrR2dlbl9vQ3RjdE02MU9yNG55T0tLa3ljMW9NQ0dTckYwcXhiRjdxSkRYY000X3NaTlJjMmlZS3pIdjZvb0NmUTBpbGl4bGlmU0U0aXIwbUtRS2drUVVhc3ZwUEY5ZUFYeGJpRGFwcEI1QUlMckIxYmNSMDVzV1pueDUwdmpVQ2F6VXBsWWhyTTB4MXZiOU1hZEhiOWY4U2xfWVNIVkNWTVdLV2prckxscGpmVm81ZUVnRFBQU0pveHZSd29sVWhxbmV1aWVhYl85azRUa0JRd3ROY0ZybVlqNUJRVk1CcjVvLUVTS3otV29zNURFOE40VmdMTTVfYTU4?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 11:56:53 GMT",
-        "discovered": "2026-10-05T16:11:22.063282+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "مفاوضات",
-        "summary": "من معتقل سري بدرب مولاي الشريف لمفاوضات حكومية.. شنو كالت تقارير هيئة الإنصاف والمصالحة على التعذيب؟ شهادات ضد عرشان.. وصلاح الوديع لـ«كود»: غادي نجاوب على شنو واقع بقصيدة «غبار بطعم الصدأ» - كود: جريدة إلكترونية مغربية شاملة.",
-        "player": "",
-        "content_hash": "a25243626b87fb90bf358f318eada4a39e09c560d6597f62a715cca6a4a19c46",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 8960,
         "title": "بورصة الدار البيضاء تستهل تداولاتها على وقع الارتفاع - | MapNews",
         "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxOeFlOcTZtbko0RlExX3ZwcE5nMTRLNDJYQVFGZERSbkdONFRvQVh2cXBtVngyYTNiYllCRXJnVTdiNHZueGtlS0gwQXlvZGVJSmxRWTVIWVU1cS12SGhaSmhQa1VBNVZ2d2gzckxlTFJsUmRPRW5SbmVIcVU2Qm0wRXNNVlhZV3ZqZ0hYemdLZjlIVkFXLVhuQVlSMHBHRmxDbXZrb0pmWF9vcnV5bVJPb3haVWhSZGQ1cnF2M2laN0ZzR09ZbHZiVHd3bXZfVHlranhzU2huYTFGXzc3LU80NmN1cERlUjUyQ0h0M3YzVUFXdzJ6eTRUczRvemNkbzRRZE40dlNiSUJaYk9KVzM1LTVfSkNVM21mYXhJTk9sWlNmMC1pMVhoODRnQmhlOGFZMXc4YWJyOGlmakRQWHpnRHhGQzlHUFBIUTRDbzFRZENLNGtiNlNlRlZrSENONTNCWjlBY1l0T2h4VVZ0cE1rMjktTkxmbTRnV2ZJWjB2Z2JfLU5rQ281YXdqWUJmNnczU3Ztc0NhUDR2Y1ZiZ3ItSUQ4cFZMWV9tT29NeEZ5VnlrVUFJbW1FcEdVYzFhdmxFUl8xeWxZQklzMHdHaEJEcmVEeEQ0Zjg3MUFPOFZ4Q3h6YWN3NGhYeVI2aXpqb3BuZ2dsZA?oc=5",
@@ -1972,22 +1988,6 @@
         "summary": "النفط يستقر فوق 100 دولار وتوقعات بصعود للأسعار اندبندنت عربية",
         "player": "",
         "content_hash": "382a6c415a1e646c28553c88867a35a9213d45c1213986ab3a943a5dfa4c98b0",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 8990,
-        "title": "اليمن.. الانتقالي الجنوبي يعلن إقامة \"مليونية\" في عدن - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOM2thQ2xYbGE4YzNSc1ZGbU8tVC1QTzRzblZvcWs2YWo0Nm9YZnpNYTFjeFRvTVA0TmJucXFRZ0ZpYXl4MjVXcFBwdzZuWnhjbDZRVmZWYjNtX29hVFc2WHZqVXVKa1BHTjk1Ylp0T0k3VTV5OU5QaE9pWW10aVZMRUF6clpRQW5GY3pNeDIyb1BFdG53cG9NQTNqNTAwZGpPdEZ0MWZKSFFRZEExdjJSd213Zk5PSUNsU3c3aFctWmRrQVpWWmF6Nlo3dEM4SjFMWmlmNjJCTDF1cWFnTzBoQlhkSXlZZHQ0TEtvcy1zN3hsSEVsVlgzM3RJTTdtckVsN1E1bk55dERKU2E0c0xaeUFveUNHR0d3dW1OQ09ZYU5oMmlXNXcwTWNFMVo3UjJFekk1LU9pNlh5dWRTR0t0eEttdHRJdjJFa2J6NzVxeGdtXzRYV3ZvMF82TVpBMmt6VnBSWEQwdkp4bTFrUHpjZ1M5bXVqUnNOdHczMWx4VGR1VXJFaC1aVG9seU1PTDhoel8zMnloVDdoc3k3TWlYVWF1Zmp0QWfSAawDQVVfeXFMTnhfaXpLcGVsZkpGckNPS0tZWnA5aEVVTkRHNzhoS0FSSk53a0x6Y2hrRGctOGpER2pZWjhFVHBGODJLcWJGNTk1ZVVZcTFFdllveGJ1dnRZaG9VNXVxa215d3dDX3N0c1NZVm5wWE41R3VGVmtRRjhzM2kyV2Nva2tyTG9VX0hNLXBBTWMtbmI2VmRtZW4xbTJMZTBQcGRMbTZNSFg0NGUwZVN2V21HbW1lOW1RVlpLVW50ZEdaR0RNbEtEb0lHTHVuRHp2Q3lGdDJUMkdjLVk1UmR1TUlSbDl4LTNWQTBKMzZ6ZmxaYkQ5OTEzT3Z3V0lsRkFJOVpqOFhzM2RqTTAyZTRtQVNGVmxkajRpcTVKQkxzSVdBeHpPVG82NVl2T2hiVEdaUXpvOFkxNFhXUHp1d1pzT1RsUVhjYW1IblpQNWlpVlJEMDVSZU5NdUxxaWxLQ1BwTFNjempYY3RkR2d2STBuR1lHTGxZT2lHajYyckVYQlc1NlVhRkpkX0E5MkltcUItZWtTcDVoZDVFWDNWb1NQTFpiX1JCUmkySWVSZDhjVUg?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Sun, 04 Oct 2026 15:09:47 GMT",
-        "discovered": "2026-10-06T06:01:54.378567+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "الانتقالي الجنوبي يعلن إقامة \"مليونية\" في عدن سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "284984569d76c8b808c0f37a0c1b52f39b6cacdfe238860386d8397f35f06513",
         "sent": 0,
         "section": "transfers"
       }
