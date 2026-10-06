@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T18:51:10.579682+00:00",
+  "updated": "2026-10-06T19:03:08.151737+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -549,6 +549,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 9187,
+        "title": "فيديوهات | أهداف فوز مصر أمام الجزائر 2-0 (تصفيات شمال إفريقيا للشباب) - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBucU9qeUx0cjJUOHhYVW0tNU9wYkFIcU9TeGlPWVVrM2s3Z1U3TThLVzFIa0QxdTJMc3E2UW9tU3RnZjRfWElCQ2s5WlA?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 18:49:00 GMT",
+        "discovered": "2026-10-06T19:02:52.612906+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديوهات | أهداف فوز مصر أمام الجزائر 2-0 (تصفيات شمال إفريقيا للشباب) FilGoal",
+        "player": "",
+        "content_hash": "049a8947bacfde0960b1767d7f55c85db39e35b410df75c121c649192fa2cd39",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9182,
         "title": "الخنوس يواصل صعوده في سوق اللاعبين ويتجاوز سقف 64 مليون يورو - Febrayer",
@@ -1332,22 +1348,6 @@
         "content_hash": "8396f01e0cecb7b34326643480d4bb8557e03060aafc67d0fb6dc827510c981d",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9071,
-        "title": "انتكاسة جديدة للسيتي.. شراكة بملايين الجنيهات في مأزق - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxQTG9meVRJX2xyelNQR0R3QTlMcDFXTENFMTByZXZ2T3Y1QW1wenRJT0pVS2NrN2g4LXdrSGR5b3VKdG55SGU5eDZoVFFVeUg4RTdxUXczOXZMZHp5SU9DLU5GNGZyWmh3UUlkSW51Uk1qd2g4cmVvZ1hsSEJxdWdocU1fQnJ6d3VQVHJXNjJ2d1QxcHdvYXlEZnM4Zi00QXYxNTF4aUpZdmliWjFfVGVqdnE5LTNVMUZRaktnVHhXSXJISHBnZzhyZFV0WXpmVmZFZ2dTWFotZjhnTXJiWmUyUHpFeExsX2VnemtKT0dZOEJLamVCQkctV3NDYndnTURPakpCM0taanM3X1Qxb0lFN2w5dGE5VWlJYkJ3ZnRDVk5VRzR1ejhmM2wxa1V1Mk8zYTVWYmlyTWNqY3NuUDNWQkM3VC1NRklpeG1EcnVpX05zVWNaeTBYX2pwNWdxWldVcVdzdTRBMms3dUlXUUZBeEpKLXZqeUNBXzF6Vl9RSnhPc0E1aXNwUl9Idk81R256TkhTU0hzX01ITmJqcmZqamVwSzNJdllGcHJaNm1QVWl4S2tlS2o3Qkt4ay1IZGRYdWh4UExBWHR2TllTSkZSU0hBcjY1SGFsME56d2RlWnRiNHRXdF9kSERtZ2pjNUhEeXRGR3V4dkwxeHZJMTlFbFY0bFZHNUJRS2I3LU9sT29FR3kzeUhnV2dMRnVaQVFsbGptbA?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 13:10:36 GMT",
-        "discovered": "2026-10-06T13:24:50.128878+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "انتكاسة جديدة للسيتي.. شراكة بملايين الجنيهات في مأزق Kooora",
-        "player": "",
-        "content_hash": "3b93a2e652ef33b9e9491c944b5462d3006eb78be839e4f55015c45fa0273f38",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1508,6 +1508,22 @@
         "summary": "الجمعية العامة الـ153 للاتحاد البرلماني الدولي.. توقيع مذكرة تفاهم بين مجلس المستشارين ومجلس الشيوخ الأوزبكي Le 360 Arabe",
         "player": "",
         "content_hash": "f7e1364668f6c97286341576333932f61a3231ee6f71cd522fdbf118d5eb2f3a",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 9186,
+        "title": "موكوينا: مصر يجب أن تضم لاعبين أكثر من بيراميدز.. والفضل في تطوير أوباما يعود له - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBybm9YTFhmYjdtdmJkOG5GMXR0ajZRN2hURWVnVW9uX3ZncXNqWXBwQS1GM1B3MUdjTVBrb1hRcjduMkV2UnVJWDJsdi1DRVJW0gHiBEFVX3lxTE9hZmU5dnZka1lHamI2R04xV19lWG51NldHcTdUakVGQ2pxanJaeVBjbDBvanJTNWphYjdTMjlEWUVzMWh5Y3B3bFFZekMzNnlBbklyZUdrNGNtSXVZTV9rYkRRaEp4dHZhR2stTmlVYzUybkZ6cENTVU1uYVl6clpHeHRTcU1TcldQQ2k4V3VoY0N4QlAySlBQWlJZU1JkOW1pWjg5SE9sTnN0T1FrYUhnZVM0N1RKUDB5MVUxWGUwdFF0ZlRrRE1pd2d4ajcwVW1ncllBRDBoSzktWXBVeU9hMWtJeTI0cWZ4ejdUOW9pVE4tR00xU0dfSUhJV3JpNFhYYzVZOUlDQllwN0YtX05UczJHb2x3TWQwcDZvZlFWZXpzQVBxdVhXdjBCSTZMNFJEanduOWx0YXRCQkdDQlJQVjZ6dEJja3c2OFpkam9QNWYwNGpLTnV3aDBZSWlSNTQ4LXMwWFBseUFHbnNabHA0Tm5renA2b2hnMzQydUlLOTJDQWFsblk3a1FEblFIODNfekw2OXVpcTlpNEZtVGxVRUZHb1hXeHF0YV9YbFZBN21TR3FtU3FOUngwRHV0T09MZkw5ejFueGxDSEd1eVlNX2tKOEx5NVZlNG90Vnd6aWV4dVNSajVHMTZsT0ZpM3pfcDdGSkd6bkIyaUkwS3ZQdGJZOG55NXNYX1FhZjFoZ1R6Z3JIaG1WS0tfVVJJSjVfRjc0MVUyaDd6VXVDNHI0NkJiNWVRNWxrc1hfbXowUmY4dmRZNGc4djE4NzJnWndneXRGaHdlZExBUWgzZEFGQkE?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 11:34:00 GMT",
+        "discovered": "2026-10-06T19:02:52.595090+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "موكوينا: مصر يجب أن تضم لاعبين أكثر من بيراميدز.. والفضل في تطوير أوباما يعود له FilGoal",
+        "player": "",
+        "content_hash": "a069112919ba0e86b79bfe45a54d49a760ecbc079c4f9812e898254e7f96593c",
         "sent": 0,
         "section": "transfers"
       },
@@ -2054,22 +2070,6 @@
         "summary": "الذكاء الاصطناعي يدخل سباق الانتخابات الإسرائيلية skynewsarabia.com",
         "player": "",
         "content_hash": "a99072e7bbe7f40b8d243593f4190251a10015046d94019d42493fdc8b895f88",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 8687,
-        "title": "الانتخابات وأشياء أخرى…خطط الترانسفير الإسرائيلية حاضرةٌ - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPS3hkSG9DYjBWWUVwemQ3WWxhb042OHBYb3REU1NDLTkzN3oyQXJpeUFOdHpRN29WVWg1VDNOeGtyYUFIeHhneEkzMHBLY0t5MmhiN01IZVhvNDI3b1ZlQVJpZXBHbkw3a0FUU0pRbXl0V0hJOFIzY050eVBjT3AyYlZqZHZBRVZRbmgwUWxwMWhQYnRJQzNGaUtFaU9PSWlaQzRnZ1BWR3BkelA0U25MVnM4dkdqOTRkZ0hacV9xbWhXandKVUVBcll0Y0ZDaDhTUXJVaXpMT0hwYS1pZDR5TnNFbVdDUUVIY3dpN2s1S2Y3Z1NPcGFKYWJjT2xaeTFVdlZPajVMU1lhSVZCRXF5QXVtRkJuRG81dkF5LWFrQVlaeWZpYk5NTG5iTTh2NGp1ZDZ2WE9iUDZjWGZxQXBsTk5LTTZVX3JwOXZWT21JejFkYzFLVjFBU2pyREl4UmNzNnpzaWR0TkF4VUszQTB1eVlNNFB0eHVVamFDTTNRTldTWjl2WDV0Sm9oN1NMYU44VHJpRGZCS2pDSnJhUVZDV2FjMHk2cE12VDNjTzVEWmxSZzE3OEM1NVRHOWpHWENES0phX0NOQ2E3YzZNckNidVlQdmhJM3ZRX0xXelNDZ3lvMThvbEVYZ2dTUUhROHFQbEHSAfcDQVVfeXFMTkJ4QnNGdW93eVdFbVd5a1lkLVd4SjA5Y2V0NnlCR0g0eGN3dnJqNS1zZXNVVTlxTHJHQTVRM0VXZXFabmVzMndoVFIyRzV5VGNwNk82ZUpONW1TSFVPckZtdENBZFhGUGZodlR1MV9uQlJKd2VvMThZWjR3cWN0NnBVVDYyUTlEU1RSbEgzeUlXVDA3UkozcEt1clF3WnBOZTlhbFQxd28zWmRkTXBIakp2NUx3NnFtYWJXM1JtRDBfV2hWS3RxempBblVRQWJ1Wkd4OE4wWHd3T1FOZjBXSUJYWXlWaTVPOV90aUhtTWVVQTZrSkp3WnhfZ2tKcnE0LUlRWF9nWWxEalZUamt1eEZnRUE5RTFFWUFSY3dXdEt2b0xMYmpGWmVkeEtESFRmd0NIOVVDLUZja0lkbF80X2ZUYW1kTTdndEd0M3c3aE11UHd0V1lEV0d4dXRfbWpJS1RkMnZBemtLWVI0LUk0NnU4eXE1aGlJVTdUVGJzekVqd05mRXBGQ0tzRENYZUdHa0ZzNGpfaTMzbTYwVG9LXzNYQVJITFNVLW5kMHk0Y3lURTJ4NVAxNTZQcV9ZSkdyQ0tSRWtrUTdsVW1mdWJ1OFpOT3VIMkxzZlRFR1dUU2ZadE9mVDVnVzNnVlVldlhQdjh6emtvREE?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 05:05:02 GMT",
-        "discovered": "2026-10-05T05:48:35.105214+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "الانتخابات وأشياء أخرى…خطط الترانسفير الإسرائيلية حاضرةٌ العربي الجديد",
-        "player": "",
-        "content_hash": "f732e0931602f322b7d129de2e51c9a5b0d79594e0f22a41718b2e8afe9cdff7",
         "sent": 0,
         "section": "middle_east"
       },
