@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T10:48:30.397280+00:00",
+  "updated": "2026-10-06T11:01:18.885525+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -32,6 +32,22 @@
         "summary": "انطلاق أشغال الجمعية العامة الـ153 للاتحاد البرلماني الدولي بمشاركة المغرب Le 360 Arabe",
         "player": "",
         "content_hash": "277196db8c5457e52574e86c3aa9b716b040519d606e36f0494b60959af703ae",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 9047,
+        "title": "مؤشرات دولية ترجح تراجع أسعار الغازوال في المغرب خلال الأسابيع المقبلة؟ – اليوم 24 - اليوم 24",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1KRzUzZm9ZcFdxSDA3VHRNVWNpNVdwNFBiTTQwdU9uRTA4OUlmZW1ZSjlIUV82OUhaNm9XMVBGemJBRHpPUy1EYU1R?oc=5",
+        "source": "اليوم24",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 00:57:50 GMT",
+        "discovered": "2026-10-06T11:00:58.071605+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "مؤشرات دولية ترجح تراجع أسعار الغازوال في المغرب خلال الأسابيع المقبلة؟ – اليوم 24 اليوم 24",
+        "player": "",
+        "content_hash": "0f48bb770c7697e01a732c775949a6c4fcb77c6a70bc60b05ebe163b6697e45f",
         "sent": 0,
         "section": "morocco"
       },
@@ -512,22 +528,6 @@
         "summary": "حلم الإنجاب بالمغرب بين الطب الحديث ومعتقدات العقم المتوارثة اندبندنت عربية",
         "player": "",
         "content_hash": "2799e5a6c825efbaf92747a04c726d5bb3fd60c154d97080973a5d7dca869aaf",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 8819,
-        "title": "ثروات جبل \"تروبيك\" تجدد الخلافات بين المغرب وإسبانيا - اندبندنت عربية",
-        "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxQR3VvTmJ4SVgtaUVPUG56VDhabVVPUUxLVEZZQTJGUGN5LTRIZzFtbjJGcjJmYmh5Uy1vX0RyM2xXc3BVenE5ZDAySVk2V2FpamhqOENNYlVVa21rd0FZZFUyRnplRThNdXFtYVRKQ1Q4TzcwRjM0Z3lSbWVOaVllTklkM0xUUURvNkNYTnh5eVhRQlJyVV84cXFuc0o0dDJHNDFQZDhsb3YwckM4RkRCMWhiMG5KM2V4RGNmWDl5aHJ2SnVFX2daNldQaUZnb2ttZGRQRWt6UjByTERnNjRaQk1kOWZBc2E5MUdIdGFjZUoxR3FwWjRfSlVxRWlFd1pqUjVnb3R1N0dfeTlYOEZnUXdlSy1KelJ2c0RrRF9QTE5MMVZIc3REc2k0SkY1QlJmTVpXTUVYM1Fld1hZek5uRDR1aC12a3RqRllnaFh2cWxtSDFwYl93eE9RTWZjOEdZeC1GeDkzR2I0M1Z3VG5BSVVLNjAxWEp1dk1GcHZ0eDYyOW5tSmFNVkxjZ1FqQ01jUWg5Z19sbmxUTWtDR2RETHZDeWVFYkRMN0hJTDZZZUlheVR2SHpZM19DX3ZicUphYjNaY0hIZ0V6clU1c05WVllELWEtMU1UOEJSQUhUU1pmMFRXckw2cHZUVGxPUnlDYXdSWlpoZmZNMUhyeWVSSVJ6bzF4dGI0UjNTd2hKNlVwckZ0V0E?oc=5",
-        "source": "إندبندنت عربية",
-        "trust": "C",
-        "published": "Sun, 04 Oct 2026 11:57:28 GMT",
-        "discovered": "2026-10-05T17:02:40.196985+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "ثروات جبل \"تروبيك\" تجدد الخلافات بين المغرب وإسبانيا اندبندنت عربية",
-        "player": "",
-        "content_hash": "b597ea85f8a84d2d0abe94c7bbdebf3c69da1100510aa87ed41dcaa77ba5c987",
         "sent": 0,
         "section": "morocco"
       }
@@ -1336,6 +1336,22 @@
     ],
     "transfers": [
       {
+        "id": 9050,
+        "title": "جون أفريك: حضور إسرائيلي قوي في معرض مراكش للطيران - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNVTFZNWkwTTctZWhoTXBhdWExZ1hKV3ZUNjNpYmxCdkdVN3R3eWNRWVJmLTFJb2JmbklEM296WXB2SEY5dlpGTURsU2pteUpTTzhackZQM05qaVFfV3dhcUxNT1I0SXRwZ0dLMkdHZF9qUHBjUldScFRQaGJ2anZYNlpza0RFNDhYbTRMd3MzdHhtemhOVk1vOFVUTVduanNtSkJsS1N5VmJiNGdiZFIxdGtGczdZMXN1dHpnTHYtVjJJckJrUjc3RmMtOGNDejI3MDBucVdlcXUyWmp0UHdiQmdkY05zanFFdDNycWY5QmJFM1hZQmc4dTFPYmZpNkpJVUYteHFCRjFxNUdzLW01YWFtZG9LMjhPckFNcnFGVEx3Y0tfbjFNcVlkUmJ6cTRfd2QwY2NOSEtRNUhlNGg3UGxhemlTd0NR?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 09:49:05 GMT",
+        "discovered": "2026-10-06T11:01:14.778614+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "جون أفريك: حضور إسرائيلي قوي في معرض مراكش للطيران القدس العربي",
+        "player": "",
+        "content_hash": "4f23547e4b8b377c183c6f8e2c845aeb78aeaa0bcd1b17ecffd55a9e0c2d0edd",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 9021,
         "title": "هجوم أوكراني واسع بمسيّرات على منطقة موسكو يوقع قتيلا وستة جرحى - France 24",
         "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOOF9OMDZsZTBIZld4b3pkc3haNl9mSFNxaDQ1NnlJQ3puVEJPcWxRTTZCWEZJalpTSDFsYmZUTW03UF9VbURkNGU3RUMwZDF3TWxSamc3RS1wWTFXOWxteU9DUmt2WUpaekt1d3doT1Y4ZGJFSVo2aGhfNS1GbWNCLTF1Nmo4SVVsR2dNZklfUEJOVWdFUExBRHM5N1BORDhaSjRTdWNwOXhURXlBMEdUZmRaWHF0dDdZZU0ycG1wNFNnZjdXNVFYTVFDamh4VUtLczIzRThKQWdmc05aWlNXT1VWVF9WazVweTNkbDZDNnBWN0ZINC1qcjYwNXFRV19SRnZxTC16UEI5cjZsOWRwaVVPQWxsVEdyMHJLdk5wYVJRQmlZdXo1c0NNcVliTnNzOVVFMmRkU1ZCUE9oaTA3WldmcGFhN1BPX1NaR1p2TTdpcTVQeEZKV2hreVc0bmVILUdSaEVCLUwzYkV2V1U0RVFtRTk0aDVucEZwTGlVTTZBMDRXMHd2Zm1Hazl5V3JuZGhtQ0N5MndWcXpFemE0X2w0WHEzR3RBcGMwZzBoVG9oMk9xUFYtSFVqY1NfLWUxMFVHV2E3dVQ?oc=5",
@@ -1818,6 +1834,22 @@
     ],
     "middle_east": [
       {
+        "id": 9049,
+        "title": "شاهد... بن غفير يشارك في عملية هدم مبنى سكني يضم 70 فلسطينياً بالقدس - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxOOFRkZlNnSThNek5taTdKZFRLT1ZTOWhsVEc4V2tjTmplUXo0dVJpWTlRcWtRLXB5S0FHU1pwbzEwa2NybUhwVDBrT0xGRmtMTTV6T2NUUXZmbC1ldG0wM2lkeDR0UXM0dFREZTlNZHc3LUtxX0x1NHI3endXeTlUVHRBd3lid1pGU3A1VHBhWkFyRnctTUs5LWhqR2xVTTlkbXNvNC1IYXJCVEgyWVhXc3JRSlZZa3J6M2tIcHhRVHdvTDVWRFY1am9GRTVwZFE3dllYV1c0Vm12eEtfMlB6UzQwclhtV3A5aFdwZnJtY2ViZlByejY5cXFEQnU0RVhVeVAwN3lpRngtM1U3X1VKLThXT3B5TURnbDhDaEVCcWlXUy01blZQTHJmZXc5dTdXTHF4LTVjM1huTkZFYUdyNlh0RFVvNVEzV3A2Q2x3QW0wUVlfekprZ296SFFCem1LVVU1WmctZU1sV0pUVTkxU2U2bENMWjl0RU9OcXkwVUk5bTlpdXhYZExRYlNzMXJ5YlNmQWR1ZUVMQ0VqZi1qVE5LT2JwTGU3N2ltVnp1UVZDTFV6SEVLdEM1bC1LRXdRT3ZQVDAtMHBDYlpqam5LblBNV3VvRmpKLXg1dlZqUFNuSGYxRHBVYWFFVUNLQmV2MEJsMndncHd4NG5HVzNlTm1LNEdtMWJrZU9TQ2RsZHlKWFRmWF9EaEVFUVYzd2s2UU1xRHdjLTBnaW9YSkZWbUtFREpBdHBuMXh3dG9FQVRldk9uNWF3UVZUb0k2VV94Rmo2dUJRZ2NNMW5IczNxWElCTWZHbjZKZmg4T1lFZXo0RElMQXJ1MlU0TDZRV0U?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Tue, 06 Oct 2026 08:47:59 GMT",
+        "discovered": "2026-10-06T11:01:14.046307+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "بن غفير يشارك في عملية هدم مبنى سكني يضم 70 فلسطينياً بالقدس الشرق الأوسط",
+        "player": "",
+        "content_hash": "12aa3baf707689255484795fb2b061daa579c957464ad21ece08d1fd45197a96",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
         "id": 8948,
         "title": "حوار فلسطيني لتأجيل الانتخابات أم لخطّة إنقاذ؟ - العربي الجديد",
         "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQYmJQX1QyYmRMRkZDR0QySmozdGpBbkdRR3E3QkNlSExFU3JXdHJWUnREY1BpODBJdDg1dXRkeEtiSGlxZlFJNWNoSjBXSXVLZ3VjVXF1R1ZIN1dHdmpvcUVhQUdjQU5zUFZXWmphT2xIYjMzRWcwclRUNkc4bDVYMHdpOU9oNEE3aFpZdmxKUkhlVnhfdGFReUs2dVZKWEhqZ3g4aU9kdUJqNUJaVXM1VTVESkxwaW9ZVUwtN1VCcExtVDVQY29tMktPQ09WOFFqcmFrRzhFVUVONzF5UDdxYVNOMTl5WGxmSmpHV291bmt4dzRkTDc0SkRMUDFDbTRlYm5OWDNQUjRrd3J1T0w3eFc1cGRjMlhhNGxidGsxbmdZVVRZSTNrWWdqVTh5SEpNaXhwSm9FZEtJM0o5aEp1OG1Rdzg5cmRpR2xfdlpnLUZwdGpUaXM3Q1VJaWdWOHVuT2w1UU5XWkVUTmFweTkxVnFjUmJia3lNNllGNWFXRmtrLUJ2ekNrUlh30gGPA0FVX3lxTE05aWVYUHQxb2I1cUlzM2xuMXRKWFV0aThVdjVBbTdMVTRkQVp5cDlVbU9RVUQxZWxiUkh2b19FS2Q3alJLUF9sb2dqTVdkYXNxTHgxNE00UlRGc0ZiNmZpaktmejFteFJ5ZXJoUHhhN2UzRGNVcVh6RGFUd2ZQQXRlaTkzNFhvSjhTcFBIOXhxaTlQT095c1g0eDkxTnhHMVBBVG9uY2FmQUhjYVkxT19wd2VXNmNaY05uWHZya1dXMW9TeFhfSkZnZjRNdGJyT05vZG5ITG8wRkctclZwc0dHLXhKTVlUS1hsd2lRTlZZYXNnQTQyMVYwWUl4RFVvRVFmMWw0TnZzUjdTUU1rZ3ZzWUZ4U1VJckx6WDVLdmFqbjlmWEh4RjNLQVFoQmdOY2hJSDB5SzEtNUdmU1lpZ0lkM3FiSXlNYVdJdUdwV3d4S3pMSHZkemhFV1VYV09yaDF6ZGlMbFRVcnJudmpDZFU0STVLQ2V1TWVqeDhHRHB1TVFLQWFQQ1d1LS1BRzdCSQ?oc=5",
@@ -2038,22 +2070,6 @@
         "summary": "وكيل وزارة الصحة: فيروس الإنفلونزا الموسمية السبب الأول في تنويم المواليد بالمستشفى العربية",
         "player": "",
         "content_hash": "d70a21bc05f784b9223684837319a21d04544c3ef278e6f8fce7c245fc7c0c5a",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 8798,
-        "title": "رياض راني.. تعرف على الشاب الذي يقود حراك الثانويات الفرنسية - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNNFNTYkRVX1ZUajBUWS1XcEV0OWVjeE1JSEdHNDBjY2FDLUp0R3NFZEE0b3FhTG5aWnhQWEZSUVV3VHVnY1JDc2hGN3ZnVTk5SG01X2R4enl4TnloaG9tU2tVTHBOVEY3MDlPMGEyMFg5ZHhDV2RMOFpRQ0Z4emVqTUJrcXN3dmFpeEQwSkFpN2xiTEthaEpfTU1SY2gyVGd2N29WdFJTMkJrYkFfOTZTS2hQM2UtbDQzbXhuN3hkMWpua2xxYnFvRGxNRzA1WkNBc19OS1hIcTROelhsYzNNV0lJVmlIZUdZVEpFOFc5eS1ORmFCdldyVGFIUnJjMDRXdHJHaGhPSzRsaERmSzhlWWRZb1poMEY3RDlpVE10V1R4c0Z5NnoxYnVMZFZEcUR3SjFz?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Sun, 04 Oct 2026 09:24:05 GMT",
-        "discovered": "2026-10-05T15:56:47.332541+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "رياض راني.. تعرف على الشاب الذي يقود حراك الثانويات الفرنسية الجزيرة نت",
-        "player": "رياض",
-        "content_hash": "ba52edae0bcae87613fd2311177749c25fb534419ef9b994b826067cbdf6e08e",
         "sent": 0,
         "section": "middle_east"
       }
@@ -2392,22 +2408,6 @@
         "summary": "لجنة الانتخابات الإسرائيلية تغرم نتنياهو لاستخدامه الجنود في الدعاية القدس العربي",
         "player": "",
         "content_hash": "379ee10eced08bbdef12a6f0973dc3aa61bec2c0b6d5944917217ea056e775d5",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 8560,
-        "title": "البرازيليون يصوتون في الجولة الأولى من الانتخابات الرئاسية وسط سباق محموم بين لولا دا سيلفا وفلافيو بولسونارو - France 24",
-        "url": "https://news.google.com/rss/articles/CBMi3AVBVV95cUxOTHVLVHBJUVpLRkF5TGU0ZVk5Q0hUZnQ0cC1lV0FGOHRqT3l4ZkRnWmtCaG4wcUtqWHJfRG9scldFZ2hCSllmYl9FNkUwQ1E4MnZNdFdkNzFxOWd2SXFxUmhWSnVtYTlWMVRTN21HUmVqcTRMU3R5X0dLMW5BTFZSaXRfVnZLdWNkV09TYl8zOGpnVHBJTmdKZTFJS3M4LTVibFNGOVRFWEE5TzVwSVdnS3ZZSXRtYkwzWjJULWt4aG9FSWdNcHlWaF9wUE0teFJjWVFMT3BvMDV1OHVqcGJ4dDNEaVBlSGsyMkZadk9XU2IyTEJPMVZpel8xNVF5TXhKdFRDOHdBZlc5LXJrNWNrdXZIMEtOa1EybGJpdmc0bkZiNF9VZDVzZzNWX2llX09tLV9abWhvZVNPX1d2QWF5U1ZPNEc4QWpnc1pSUWN6eEFVUXlxeXF2MEhVeF82YlhRS1lubzRrak5WSEE3TkxaNXFUenkxRmItOHBOY1BlcHF5NGZDWFItVXdZM2Q2S28tdnZGV0RnVUlxZUVzYzZPVm5PTFNRdWJFdm9qZFEtZUYzSGt3V04yR0NKU29pTXJLa0VNVG1GMnp0ckNUNnpyTHZ6WVZ6X09QLVhwQ054dnNaWHhaSjJzaVl0cTRGdHJ3WU5pMmR0clloN21lSjFXTEVFNzktaVNYbmdSeTZLTjN6T3o5UllCajAzMU9JdzB5T2E3cy1MYlQ5MkR2TXFaRE5HQVRZc1V4QXFiUEE5WnNDNHlMR0ZrblB6NmduNklVNHRsajBTNXN3X3dQTG1qX0R3ZTM1ejNHdElFOTVfOVFEZlBXS010RWt4TmhjVGZWd3VkYzVUd3gzcTF6SkE1MHhWR2Z1eTA2aGJ1WkFYTEUyNEVNNFBid2ZCSWJ6Ukd1RVZwMEljUDhfVE1ZZDFOZlNMUmR5RTdyRXM2YkNUbm44YWhoQTdqNzZpa3o?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Sun, 04 Oct 2026 06:16:55 GMT",
-        "discovered": "2026-10-04T21:11:55.640636+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "البرازيليون يصوتون في الجولة الأولى من الانتخابات الرئاسية وسط سباق محموم بين لولا دا سيلفا وفلافيو بولسونارو France 24",
-        "player": "",
-        "content_hash": "37ff18f16577e13f7ec6dd8756ec5a02a6bb54c5b813c11cb94bfa117de1e749",
         "sent": 0,
         "section": "world_arabic"
       }
