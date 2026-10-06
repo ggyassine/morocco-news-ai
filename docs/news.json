@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T06:26:05.915085+00:00",
+  "updated": "2026-10-06T06:48:59.411870+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -610,6 +610,22 @@
         "summary": "فرنسا تقلب الطاولة على بلجيكا وتخطف أول فوز لزيدان على أرضه سكاي نيوز عربية",
         "player": "",
         "content_hash": "e84575125f4b266e85d4e524023100109e020d49e4c78558c21a4c4e07ba2319",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8996,
+        "title": "جدول مباريات اليوم - 6 أكتوبر 2026 - بطولة قطر 2022 - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVXFZMVJnSmZadWpuTkp1UFA1SFpuLUEzX3I5dnZFck9vX0dJUFhOY0N4ZnpvX0J5QUU5UGJ2TkNlY2pLSlRaenRGTzJSOEVRT2NIYkVHTk96RjNWTEFKMHh2RmtOaUVCLWYyakh4RkFrbDNFclo5RkdiRF9IZDIxc0I1MDNVM3FPYzBkTEhwRVpHX1FITF9vUXN5a3hqQUp2b3NnUS1jdEp6T3RqRHNYUw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 00:00:44 GMT",
+        "discovered": "2026-10-06T06:48:45.941897+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 6 أكتوبر 2026 - بطولة قطر 2022 FilGoal",
+        "player": "",
+        "content_hash": "cc8aeeeaa60007e82c9624a09fb6bb631516f4ba32bb41518745d03b885c1e2a",
         "sent": 0,
         "section": "sports"
       },
@@ -1314,22 +1330,6 @@
         "summary": "أسواق الخليج بين دعم النفط وضغوط الحرب... قطر تقود المكاسب العربي الجديد",
         "player": "",
         "content_hash": "04f56504a24175463a60600a2f425e58fa66be0bb61dc01807d6c52f26757103",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8885,
-        "title": "البريكان: تعاهدنا على تحقيق كأس «خليجي27» - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPNTlZXzlJZW5iNjJ2UnNvTWpmeE1qNzU3YWFIN0NGVEZqZWFocHJMOG9CMlItek1OT1AtaHBuLTgtWWxTbDNtTEstdzFjbEhEanVBM1dwbFNBU0lLdlk2RjZ5WHIzNVk5U1o1a0lKQ1U5aWJnU25IZ1dnRC1LYWprUWFFM3pTa0cyREFJdjhqcllVbHR4aHhfSEdHRjdLaGhOU1ZGLW0tR1hnNTFJb2pPTGZzVHhRazNIN1RQT1RWRmxYUjFsZnlOZ091MmhzZmNycVA5R05HdldQazNpNUFfUFQwTzRQZzJ2TWJZc1hrSDllVXVxdzkzdGdMRFZQLThyQkJfNDBCSXcxa0RWSmJfTDVWaEdRYWNsNWZMaGxKTEw3RHRFZTV6a2RFdzFlZ01sdnB0aWw4bURNdUxEM2RVQS1MMW9McUxNRmhOcXpTNV9udzgtSGF1cWFmQ0VfS3huMWMwcDNYWmJhTHdYWjA4S0NNZlB6WkZLTlM4Q2c2S1hWZjhkX0xVdXRRUktjV0RMTDJYNG1GT2VERHZMMFZoVzNWN1RUNmo0MTJnSzRCR0FRU0RDRmJ4emxvcERzeEhRVW5qYzdHeVdqT0Y2Z3pfR0hEVzNKZw?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 17:25:33 GMT",
-        "discovered": "2026-10-05T22:09:15.764776+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "البريكان: تعاهدنا على تحقيق كأس «خليجي27» الشرق الأوسط",
-        "player": "",
-        "content_hash": "39595a9346b5141ff812a45250bab45edbebf17d081fd1e329d35aa87f59b006",
         "sent": 0,
         "section": "sports"
       }
