@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T14:54:22.341082+00:00",
+  "updated": "2026-10-06T15:09:13.899674+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -562,25 +562,25 @@
         "content_hash": "c94c096a8889d8968de7037612ab621ae4fd6bbf02705ca864ad956ada804aee",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 8619,
-        "title": "ديابوراما: أشغال تشييد أطول جسر بالمغرب تتواصل ليلا-نهارا وتصل مراحل متقدمة - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51OENWR3gyS1gzb0dzYmJYYTZIQ1hUSEJva2k2bG0wbS1lY182RGEzRXFUQV9aZlIzOXFjNi1TdGVGa3p3NmRGLVd0X2JuZm1XdXZFVW5EbHJMalZYTkxBTmplOTBmaEU?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Sun, 04 Oct 2026 20:02:57 GMT",
-        "discovered": "2026-10-05T00:46:34.524600+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "ديابوراما: أشغال تشييد أطول جسر بالمغرب تتواصل ليلا-نهارا وتصل مراحل متقدمة Le 360 Arabe",
-        "player": "",
-        "content_hash": "17affac79fa74fdd31b63d7e0cb017026a4440da998b132f9946eb0f8fcf0712",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 9100,
+        "title": "وداعًا للكبار.. شرط جديد يغير شكل رابطة الدوري السعودي - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxOSTNZRDlYdExxVlhDZGxUY29hVmtrLVJBbWxiRkw1ZGxraFhqdEJmOVRrWU9neEFtN2Y0cFFZVGVwSmNoX25RUWtnc045eU4weXNzMlRxcmZJZG4yOUozTElJUG1reUkzS05femZfMGtCeDFlYm9kRWxZalJIamg5aXota1k5Q29jYzVYYXFvQzExR21rRUdHX2p4U1FfZTNORm1ISWNNWWRxZjctV29kbmJoZ0xXZTJqS05URUZlc0syUVV3UkZIQ1M0UF9DVTM4Yk5LbUo4Y0pjZTVZcnpaTjV4LXpNU0NOd0FsdmZOa0lTR045Q2o4N2g1YmpWTGFNVkpIMFQ3R2E5bjczd2hILUh3T1oxWmJSTE42RUZoZVVqV20tSUhrYTlGdVE0OXNaaXlHX0hjcUE5dU9qTW1yVmRMVXNzUnRUd0ZFdmlCdkFiWVpDTEFPQTBQYlRBSTNHd2dYalJjS2dZMW44RDBERVU3bWxCSEZoRF8wTUV5ZXRncWdtUlNWTXF5R19yVmdhOGFyb3BFblU0c1VzT25UNndDVVlPMEotb1RBV2QzTzFoaXpTSTR4bE5Sa3B5OENtaUJvejEtZjY4OHM2RmtLV0ZaNmFYVkZrM1NuVmlfN01vNm9hTGhsY3dvYnlvV2VHRUVfY1hJYmdkeDdRZm5tb0tlY3BZUEhMMXBYekpJLUdQQnM5b2hrOGtsRDBuZw?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 15:05:39 GMT",
+        "discovered": "2026-10-06T15:08:52.202291+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "وداعًا للكبار.. شرط جديد يغير شكل رابطة الدوري السعودي Kooora",
+        "player": "",
+        "content_hash": "44fb591e19b89290ae5f9e04fab42a8406a313d789e70bad1dc5cc915d7e1cb4",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9092,
         "title": "لاعب بنين قبل مباراة الوداع: لن نراقب ميسي.. وأتمنى فوز الأرجنتين! - Kooora",
@@ -626,6 +626,22 @@
         "summary": "مباراة نهضة الزمامرة و حسنية اغادير يلاكورة",
         "player": "",
         "content_hash": "022562854625f6589cd1e0900cd57ad58b4778f079807eedf2b6fdf72144b06e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9101,
+        "title": "تقرير يكشف \"شرط رونالدو\" للعودة إلى منتخب البرتغال - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQcDFnY19saXFnU0dpZlFXbTVaNU13bEJ0X3JCWi1mZXc0RVNRTEtrd2Fhcm5nYm9hT09oZUNNUTJZZHo5cGxOQW9WWWlNM05GU2lnOVdsSWIxTXJhc3pZS0tvaUdVUWpmLXJPTjA4amFHN0tiMXFucHNMWlV2d2Q1S2dNd1BtWXdLVHZDOHItUUg2WGl6UDF0X1ZnUE1xX2MtUl94T2cwUl9EWWNHLVZfd0Vmc296Q1k4bHdGeGpMUGNMNEsxcUVJM3JKQ1BSNVlyc0pzdC1iRFl2RmVCVE5SS0MwWFV5dVExVkRGcWJiWlRoeDhQN0c1SlRmTWNrdXJTN1F5T3l2amk5S2YwQ3NiaW9RWEg1c2MxbTU2ZWhEQXI2MmlDbGtyTldua19LdzRpY0dhLTdweXRYejZQX0dDNEE2LW9HUFZxZ0tqVXcxY2p0bklDWmpMbnRZbldGR0NxdDNoQ2RzNXFuVjUtcmxPRjBHWDBHRXFvSkJ1a2ttVHlNS0hoakpUQXJvaTQtRG_SAZQDQVVfeXFMTXVhSzFKd3hLVFVpTS0xZFJ5M2FGZXJfTzZjSzR0QkQyM0xEaWFlTTFOdTcwV1JoZ01LbTREenJEeDRvaWtJcWU3OG9hQTRySjIzWVpORU9kR1ozekhqamxnam0yNU05eVE0YXdCZnZXdHdhRFppWW1xSEhvNFJZamtINHVkNVRXNFUxdlJfbmptMExyZkc4X0VCa3BVQXZqZFRPeGx2cnZvbzJIemVzb2Q2ektSMmF6SE9YSmptZUxnczdwcGNBNFMyd2FIVGZ5TW9sQm1sSDU3dFpidVZTa2dSTXlfMGt5VHRhdFpHWHg3RmJyQVlaNTVheWFQejRhYnd2dFR3TVlIaUdFWXh6bVlCWnQ3eG1Ua055b1psNVRKdnBVUnRXdTVSZmdJM0toR1hXSHl4ZURDeTMyY09zbFVSdlcxRDJ2NXFQcHlvNGJtcUE4UnlhY0dxM2Q3YVNRaV9HYVhxNHBKM3JHbHFDU3RNTVl3ZE10RVo3SjlVZFpLSVRzWFpBSWpQVFVreVl5c0NhVzQ?oc=5",
+        "source": "سكاي نيوز عربية رياضة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 14:04:53 GMT",
+        "discovered": "2026-10-06T15:08:54.162426+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تقرير يكشف \"شرط رونالدو\" للعودة إلى منتخب البرتغال سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "f2b079408ef24ae48984ed3f0aaef47ed96a4f837628098f3ca1fed5fd7aefe5",
         "sent": 0,
         "section": "sports"
       },
@@ -1348,41 +1364,41 @@
         "content_hash": "c9f623f0d5a5284e2607df6dd86fa79984c6d5a75eb051df92cce26bc445cc1f",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 8920,
-        "title": "رئيس كيتارا لـ في الجول: مباراة الأهلي الأكبر في تاريخنا.. ومكافأة ضخمة حال التأهل - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxOVXR4bmNGZ1BQQUFkMloxRkJ1OGhjaE9WWDZrWWFmOUIxbmh2ME81alZxQlIwNC1vXy1nQmxsSXhENDVBLUJFTjJJU0Rod0hsVldQV1JvLWRHako5dUdmNjBVSi1tRGFKUklsNTNKdXRSMjdfRVZiQkRYT19sLUMyRHJfa2RUcGhBTUt3eDZzNm9ib1B5VDRCRUxNQVBnTDRObDlmb29IaFZOS2s5QUU3UTNpUGM1Q2FTZTQ1RDBUUDdBUUtWbHlqZmRTY1ZtTTVyd1NnN2VMVnVqZ0RXYU1TTFlFblRTQXNTazB3YUxQR1lFcW9WbHRNWVhMR08wWFhHbkE4ODZVUVdZaHlKV1RGSTNzZkxOelpXaEw5SlpkbU5SV2hGWVBrTG9JcklzUXdkRGJLN2FnSDgydnBOWjNLUHpfVTJvc1ZjX2hEbEpyRWMySnRRR1JpTktxY0FyMDEwYmdjd1BrNVh0RjBSaXJtWGdMQS1GRkxpc1VxS195UkxTN2UtRlB2SXNsLVJoUmJWR2Fib0xBbUowU2dXWjkwcVc5VXB5NzdDUk8wNjVESTFsLXhBRnJjeE9oRXlCTlh2TS1MeGZ3WVY1akprbE1iY09mbW9FY3BreGw2NG9FdEEwYUdCRTJpRVZDQW1NdkppZFFWTmpyak9jenBDbUk0YWdKZ21abUFfUVBjZ1ltUUt3RlloQnRjRTVxTzlPaU9vNDhPeldMSDBaaVZtZXNKOW9HYlpkc0stc1VxakNQNktLMndRZXMtT1EtRHdjSXlVZ3Z0UDNYZXdCUUMtdkczYTVpdDgtX2FKYVF3UXNqeS1MSzTSAfgEQVVfeXFMT2U3YzJtVVNvWkdhRzZKUV95TnNaRnI0b3BqMXk4bnNtRFlya3ZwZFhBcjEzX182cV9hZmVGa3l3S1lVc1o3ejUxU0l3TFFFQTdjTXBHYlB6ZEFQbFp0dkFleDVGZWhOTDg4ckFVQ1hEa1lSUVh4c0dDS0RjQWtlOWQzTHRaM1RwXzNjejFxYjdVYkNMT2txam9ZbVB1SDFxMmQ1dHR5OGRxS19hRlJwc3UtaXd1dktJTDYyT19UNEdVcXM3MThNQUJHMEx0Y2dmaHAwdXpSWlFSRmR2SmN4aFJXTDBFMmp0RXYyNjE0SWkwaUxxbEMtVklPY0pCemd0c2U1TlR2ZFJyS3RRSGRGdlFObm9LMExKY244UWRjX1N0SHdNa3JpUXhlbWFDQ2hBMHc0SS03WmJzUmJGWVNQUFo5VTBYbVZZSEZLTXUtS1FiYjltYnFaNkZEcF9Gbmd5c013ejVaREU2UXJ3dnV4WlhkRDlmdDlGZkQwMldoeTcxOU5hZUVINzV1d3RyS1NPV3ZDV2RzRld4NWVRT2VCNnN6VjNiZThwanUxOU1RaTJzeGxENWxrOUxTSXFFS1NrbG9BMDZZMk8yX2FZZ1Bzc01LSVdUUkRwR3R6T3A3VUQ2V1RmREI3Q2w4TnZBOG05eU42cjFNMU80LVU4X1l4cEwxT1V4ZmRGeFMzcm1DTmZEc3VFS3FPQ2tERF9zSUNRcmRMN1ItV0JjaThycHVVclRrcWw4T2N3RkR0RW85a0JjYnMzYTczdnAycVh3cm5DcFBDTkRvQUpJOU5zM0tJTDZZY0l0QkR0VHl3TUtaT0VRenkyZnhydWo?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 21:52:00 GMT",
-        "discovered": "2026-10-06T01:34:07.900542+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "رئيس كيتارا لـ في الجول: مباراة الأهلي الأكبر في تاريخنا.. ومكافأة ضخمة حال التأهل FilGoal",
-        "player": "",
-        "content_hash": "c9f623f0d5a5284e2607df6dd86fa79984c6d5a75eb051df92cce26bc445cc1f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8946,
-        "title": "مباراة الأهلي و إنتر كلوب - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxQME9tTENaLVMwaW10Q3YweG1FdkhuSFkyU2RiSDZiVXQ5ZENLeGZWRFlPQkxuYUppM0plTnoxMkdYRTBJcE5OMGd4SlY2RHNyX0xCZUFWSnQ0MWFBTzVCWDlBNE9vcGVZMnd6T25Ka3pmTWtRMWNYU0Y5Wk5yR2tvMzJuZkY3dmN2bk42VjZmOXZpVS1WQlpFTl82TXpHTVJtV1cxRm0wU0tKLTdPc2hRTVExWTZ4ZGZqMnpUY3ZMcWs5eHlqRFVpTzdCbmlNU0lrX3N2N3lDclRtalBxVVNYMGxXNkJNNWtzcGQ1MjF3YU9uci1WeDEtdWxxQzVvZnNtcUh2Y0ZvRnVfbGNTWWtrMi1lLVlSOTZybjB6a19iYjluNzREeDVkRFhQTmtaZUU2V3JQb1JDY3BCcnlQVlpuTmVlVHRCeWJTYWdzS2haUnI0amRlT0ktUi1raVh5a0Z2cUcwX3J1ZmFBRS1GaFpsUF94UlpDOGJkWjlsZXVieW9TNlNob3F6STE3Uk95MEF2MkUyQjBSV0QwUzhjT3FFbDBrWmRlZk92OGpVLUJ6Y1ZPNnlZdEp6N0N4d19WdUowYXRLb05VVVhXUXlCcTRoN1hyQ1l1QQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 21:51:09 GMT",
-        "discovered": "2026-10-06T03:02:23.345262+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "f4607d00c3ac4f2e08c48f15772ab86c4f2e34638555f4a3ee3dc05c7f4bde7a",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 9103,
+        "title": "خبر في الجول - الزمالك طلب الحصول على إذن لتأخير انضمام ثلاثي الفريق لمنتخب الناشئين - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiiwVBVV95cUxQYzlWckM3c0RwQzE3TVljZkMwMTRCN09WRmVTNTJYTEJNVmxSWldIbXk0NzNPcEc5QUdxdHJHTzY2TlJ1V0c5elNfcmJ5Tm4xbHhJVzlJVVA4ZERRVFpVWk83aThYZUdkZk05NXNEWDVWUnZZMmQ0ZEN5YzkxWXg4TEVhVVlrRHdIQ3RpLWpyRGVkUkVpRUdiQkpFYlZuSGdSZW9pQkxjVnN4b1VYb0Q3ZUVuRDYyU0FIcDIxTVB1VVY1bG1OdHN0NkZMLW9xNEc3SmtmOXFhY2o1b0pwblhtMS1KLVJBWXVkeWtSdzAwcEtnSFVJc241aFRiQk9uZ0U5Y0ROZ0g3YlYxVFUxTFZGMktTQUhQMXc2YzJhd2Q3QXZEUlVEaFdVMDlCaFJ4M2JIWmJxRHhqeE1RWDBzLTZwTThQOTN5RjZXRC1wd2VjVjhFVnV1ZVVGbTBRTzlUZWhjb1pPVnhzRnNGV05WOVhSaHM4eFFHRDVTTzNraWJXemoxVDdzRGNlbG03ZENpbkdva0VmQTR1dWFEb0xIdDBXRnJicHJTRG9jdWJwZ05JZmFMLTZNSEoxY2ZVVnB0cXQycDB4eUJNM3ZOV1dQcS1BVUJObjBMT1hvcEFLUmpBT1VxaFMtRHpBUkZGVU1WWWxsMHNpYTBJTGx4cWp3Y0FtLUl2cS1Rdk1TRk83a2FjekRjazZSaXdKSWRRZFlCbmFtcFZIQmQ1ZXQ2bGVMalpyWk9HQ3VRZTVCNnoxckNBdTc1empaOExDWHBrcEEyYUZnenFtOVFsMWV1SHJXTlM4LVlhc0ozQk00WU1BbTRnX3hidUdRRWdmbGd5ekdMMVZaZXk0ZHV5cUFVWlnSAZAFQVVfeXFMUEQwM095SDN6enBhUFRFTHpUMm9MZ2dLOW1qcGpSbUpCa0ZPLTJ1cVFkRVFYc1pQd1lDdjVaYWRFQ2dRMmtHaFdFN0tkR2V5Y0NHZWhqT3hFOFgxSHNlb1BPdnhlYkNmdDg5LUJCWERXTllnd1NOTmNxWmJSVDNDMUlfSEtyNkN5TDhabEltTXE1cEMxSVkxNjdsNlkzTVNwXzJwWUlkX29Uc0hYNkdxYkNJb3FrT3d6SGlxa3RRSUpKdjhvNWs4MEZUNEJqNDVtNDNGTjd1VVc5ODlKdVBVRFpHR3JEUGxtNEtPV2RBdk85S3YyVFl5c1A4WlQ3VThyZkN1UTdyc0JjWEtobG5obzZqSkF2WDB6SWx2WTYwZ0dDUUhnQkNPSjdSX01wM2xOc2lYQ3plQWQ3STFSQm4zbHpGelpidXFKbG1xZUNuMV8ybEFsYWRwSjZpTGkyWEUwSjFqTTQtN0YtYVhORTFjdHg4WDJUcDloOWlIRVQ1b2lxWUVPLVMzYjJPaGtIS19JLUdEeUYxdjdFM3BieC1mazc4V0Jma2hBUV9ETEFsa0pHeWpiLTVHeDk0Tk1BNFR6cUkxNzNreHMwWXk0YXVoLTZxODVJaWk4S0N6dmlqWlA2M2Vac0FRN3hlWDFZdkdrRzNKcDA5bDlIVEZaLWJFMTZXSl8zdWM2aWYwQ0tzd0FBRXZsVzNGY1pybHhVa1dLS002ZHpqSXFvWERZSEZIaHJlUHhERnQ4eEJrclpZSVNJbFNSZnBfb2ZjQnpYNWhzRFBSWUR6NVJsbGdGemU3MEdmaFpMTnI3cWk2MURiZUVuUTlsNVhZVEFPZEFrM1NURjhyeWd4U3NFMEgyeFpOSjk?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 14:59:00 GMT",
+        "discovered": "2026-10-06T15:08:58.239048+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "خبر في الجول - الزمالك طلب الحصول على إذن لتأخير انضمام ثلاثي الفريق لمنتخب الناشئين FilGoal",
+        "player": "",
+        "content_hash": "30e12120ff1c037b5649d8e64ca85164945c0af63d4b8428c5ee6840aba4f353",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 9102,
+        "title": "مدرب فنربخشة السابق ينضم إلى طرابزون سبور - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQOHlvYlFpaXo0b2tJb1hkQ0M1SGlZbEdSX2ZucHZ4NG1EQ2lZN01ibnp6akpzbEpURDVGenI5VHVmalFSRUxiajZaQXpnR0JoN0pmRGJMSUs1ZHJObzY4M3U1RFBsSWxzVmVnNENiakRaOGRKX1VvbThIVWhkUmpMNGdrT09OZE5paTJQREdsa3lXazNFYm94RTZsQkNxOXdYMHdja3hzNW1LdXRrT3NPV3dudkF6WGI5cWhKMWVmRGliT202c1lFRE1tMEl6aDVUX3lYaUVramx3bmU2Y0U1Y3VmTjJmZ3E4RjNMNlQ3eTRiQnVfTG5YOFN1RnVtQ3g5MmxVTnpaY2lFcWpCWEhweVZuOU83SzBoSm1XSnFGNVdNdmdNYkZrbmQweDhscThud1VOMllnWkFLYzlZcUdrcWstNjRPUm5yTUFROFlVYi1hUmFYRjhrM3o1bUxOZC1Ha0Q2UWpkOTdjck1mRFBWNlJrNmZzLWdKYUN0aHFZWF9jNGdUbExjbEhuWWRkZ9IBkwNBVV95cUxOUm1xZXJkWDRWOUVFTTVhdlg3RGJFQ0pQT0dYZlBmcHdrLV9DMUdEZTY0NTNmSi1ZNGlkbE1OUlg4c0xGZ1Z1OWdGMWNQamlXbFFVbWdhaGJJMUltTHZsRVZNV284cEp3MWZ6SUhNRkQ5RFI0N0RNT185b2VpSC1ITDJDbjl6bkFoZFhiTXFZekhPMGFZVjZ1a2t1RUR3NFlnZWpIT0llQWpYdTE2Z2FfUV9RR3N3aW44WTVGU0pFUUJVS1gyb3FvWGxyRXhDYzd5OE12OFF4YU5vc2NuQ2xnMlNjNmhlSmNwa3ZVNllXRDBpNkx3MWNsNGZSc0o0OVBQUGxRUFBYSkFYWDEzSEN3MDlqb2VxYU1nTDBYZkV2MU1qazZaOXYzM1laM3UxUzZTdmR2a0VHQWhCeV9rSUxmOUlMMWlidjhPd1VYR3BlVGRieUgwZE1iamxvTnpHZDJkNkNFaWtkTkpsSFhwQ1NWeHlJUmZBSnpkaGRqUFoyRjZjUlFUOTI2RFM4eHJDdzlXbFZN?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 14:48:00 GMT",
+        "discovered": "2026-10-06T15:08:57.604006+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدرب فنربخشة السابق ينضم إلى طرابزون سبور يلاكورة",
+        "player": "",
+        "content_hash": "bba2459beec6622c7e22486d7f57d907c61176b4de8c3f4ca28ce5bd47ac6121",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 9091,
         "title": "التطبيع غادي مزيان.. 8 شركات إسرائيلية فصناعة الدفاع غاتشارك لأول مرة فمعرض مراكش للطيران - كود",
@@ -2392,22 +2408,6 @@
         "summary": "الانتخابات الرئاسية في البرازيل: فلافيو بولسونارو يتصدر الجولة الأولى ويواجه لولا في جولة الإعادة France 24",
         "player": "",
         "content_hash": "2f62a5ea93ef4f771a6d727babdd4b577396d42391b42c634d319419ad8c0642",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 8941,
-        "title": "لماذا قد يؤثر الجدل حول أيقونة للسيدة العذراء مريم على الانتخابات الرئاسية بالبرازيل؟ - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yWi1xWTl6VHJDQmF1ZXlFRW1KY0pwZW51Z3dmU1VkbldvN3RzcGh3UktCUzJyMnREWlBrclM3S05GSlJON0dFQ2JJLXVvSTRwT1RENDFWNkpVd1JEM0HSAWNBVV95cUxPVW81OE9kanlwbjJNNE5kV1lRREwtX3dCZkMtYU5LQllLV3NneXFraV8tMVFueHYycnRhelh2TWxTY0pkdW03bTFtQzBwUDR3MkJCM3VEWEV1U1hxMVl6bjAzd0k?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Sun, 04 Oct 2026 20:26:25 GMT",
-        "discovered": "2026-10-06T02:51:54.641381+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "لماذا قد يؤثر الجدل حول أيقونة للسيدة العذراء مريم على الانتخابات الرئاسية بالبرازيل؟",
-        "player": "",
-        "content_hash": "7b4234a60ac69ebe44756167670880f15762b23481aee50ce5c2cd77c9196112",
         "sent": 0,
         "section": "world_arabic"
       }
