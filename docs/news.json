@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-06T01:23:18.974713+00:00",
+  "updated": "2026-10-06T01:34:26.158547+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 8917,
+        "title": "إحباط تهريب حوالي 50 كلغ من الكوكايين بميناء طنجة المتوسط قادمة من البرازيل - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvN1pvYlYtWXpiOTB0QW8zbVh5aGdNUHdTVWxQczE1NjdjMTNEbWtNZFlWbXhOSzJVT0MzUExOby1scHpURVZ4QmpFbElKT1pKMU5OZ1pndlhjUXBLaVVnbDN0MHNFZw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Mon, 05 Oct 2026 23:35:40 GMT",
+        "discovered": "2026-10-06T01:33:52.953866+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "إحباط تهريب حوالي 50 كلغ من الكوكايين بميناء طنجة المتوسط قادمة من البرازيل Le 360 Arabe",
+        "player": "",
+        "content_hash": "ea34e73f82dbb9bc135d2eb12592fdd3aabe3f7017f9b27c356aa415e6bc641d",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 8907,
         "title": "رئيس معهد دراسات سبتة كيحذر مدريد: المغرب يقدر يدير ’’خطوات أكبر‘‘ من موجة الحريك والتصعيد العسكري غايكون نهاية ديال سبتة - كود",
@@ -549,6 +565,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 8919,
+        "title": "انتهت دوري الأمم الأوروبي - فرنسا (4)-(1) بلجيكا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pTEczNGVlVWNiRjBGa1pOeEphT0pWNGdaeFlZdFZpNG90N3lHdWpOX0VMaG1YOFBEMURwUUhvbk9NcGhSbzB6RWxPaDNjekt10gHrAkFVX3lxTE44QWRvd2xMZmF1bnVmNV92X3J0TW1XSjFndUNYdWZzT3JBQkdaTXI0ekhIZ3lXdXZHcS10MUVBaDFGNmJva3lOaWw4VEtpV1JNbjc1MmttOFZ4XzRGeHJQZWFIc1Vkc0tUMVBWQ2hybXR6STY2MHcxM3MtTkJMM2h3YTBoZUVoNnBQVTNmSkJVVGo3WUpYNmtVdUxpbGF3azRJcU9zT1lOTWpkNU0wOUsxQVFZY1hPZ3hQQllQUXlIOW5rTkVFcWlSSGRXR0s2Q1lZcWtON0ZfdGQyTlduWV9lWFRvUXNseHM5VHZETHZPWGlZUWNPb2JmQUFTLUo0ekFKSG5wdTFhMmRWZU9UQzd2RTl4T1pFWmFTZ0hCOXpJUGJESTNBSkhtRWk1MFQ2S3lydlVVZGJRUTVkb2h2SG9zSjBVSjd4SGloRWJ4c3pEdnl2YmdqREtORWMzTmVGZFlYT3pWSnNoRUtmZw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 22:08:34 GMT",
+        "discovered": "2026-10-06T01:34:07.897070+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "انتهت دوري الأمم الأوروبي - فرنسا (4)-(1) بلجيكا FilGoal",
+        "player": "",
+        "content_hash": "403a12bc505ffafd7c39a7470543f66358a7367333782ab65ac5914f6e913fd1",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8920,
+        "title": "رئيس كيتارا لـ في الجول: مباراة الأهلي الأكبر في تاريخنا.. ومكافأة ضخمة حال التأهل - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxOVXR4bmNGZ1BQQUFkMloxRkJ1OGhjaE9WWDZrWWFmOUIxbmh2ME81alZxQlIwNC1vXy1nQmxsSXhENDVBLUJFTjJJU0Rod0hsVldQV1JvLWRHako5dUdmNjBVSi1tRGFKUklsNTNKdXRSMjdfRVZiQkRYT19sLUMyRHJfa2RUcGhBTUt3eDZzNm9ib1B5VDRCRUxNQVBnTDRObDlmb29IaFZOS2s5QUU3UTNpUGM1Q2FTZTQ1RDBUUDdBUUtWbHlqZmRTY1ZtTTVyd1NnN2VMVnVqZ0RXYU1TTFlFblRTQXNTazB3YUxQR1lFcW9WbHRNWVhMR08wWFhHbkE4ODZVUVdZaHlKV1RGSTNzZkxOelpXaEw5SlpkbU5SV2hGWVBrTG9JcklzUXdkRGJLN2FnSDgydnBOWjNLUHpfVTJvc1ZjX2hEbEpyRWMySnRRR1JpTktxY0FyMDEwYmdjd1BrNVh0RjBSaXJtWGdMQS1GRkxpc1VxS195UkxTN2UtRlB2SXNsLVJoUmJWR2Fib0xBbUowU2dXWjkwcVc5VXB5NzdDUk8wNjVESTFsLXhBRnJjeE9oRXlCTlh2TS1MeGZ3WVY1akprbE1iY09mbW9FY3BreGw2NG9FdEEwYUdCRTJpRVZDQW1NdkppZFFWTmpyak9jenBDbUk0YWdKZ21abUFfUVBjZ1ltUUt3RlloQnRjRTVxTzlPaU9vNDhPeldMSDBaaVZtZXNKOW9HYlpkc0stc1VxakNQNktLMndRZXMtT1EtRHdjSXlVZ3Z0UDNYZXdCUUMtdkczYTVpdDgtX2FKYVF3UXNqeS1MSzTSAfgEQVVfeXFMT2U3YzJtVVNvWkdhRzZKUV95TnNaRnI0b3BqMXk4bnNtRFlya3ZwZFhBcjEzX182cV9hZmVGa3l3S1lVc1o3ejUxU0l3TFFFQTdjTXBHYlB6ZEFQbFp0dkFleDVGZWhOTDg4ckFVQ1hEa1lSUVh4c0dDS0RjQWtlOWQzTHRaM1RwXzNjejFxYjdVYkNMT2txam9ZbVB1SDFxMmQ1dHR5OGRxS19hRlJwc3UtaXd1dktJTDYyT19UNEdVcXM3MThNQUJHMEx0Y2dmaHAwdXpSWlFSRmR2SmN4aFJXTDBFMmp0RXYyNjE0SWkwaUxxbEMtVklPY0pCemd0c2U1TlR2ZFJyS3RRSGRGdlFObm9LMExKY244UWRjX1N0SHdNa3JpUXhlbWFDQ2hBMHc0SS03WmJzUmJGWVNQUFo5VTBYbVZZSEZLTXUtS1FiYjltYnFaNkZEcF9Gbmd5c013ejVaREU2UXJ3dnV4WlhkRDlmdDlGZkQwMldoeTcxOU5hZUVINzV1d3RyS1NPV3ZDV2RzRld4NWVRT2VCNnN6VjNiZThwanUxOU1RaTJzeGxENWxrOUxTSXFFS1NrbG9BMDZZMk8yX2FZZ1Bzc01LSVdUUkRwR3R6T3A3VUQ2V1RmREI3Q2w4TnZBOG05eU42cjFNMU80LVU4X1l4cEwxT1V4ZmRGeFMzcm1DTmZEc3VFS3FPQ2tERF9zSUNRcmRMN1ItV0JjaThycHVVclRrcWw4T2N3RkR0RW85a0JjYnMzYTczdnAycVh3cm5DcFBDTkRvQUpJOU5zM0tJTDZZY0l0QkR0VHl3TUtaT0VRenkyZnhydWo?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 21:52:00 GMT",
+        "discovered": "2026-10-06T01:34:07.900542+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "رئيس كيتارا لـ في الجول: مباراة الأهلي الأكبر في تاريخنا.. ومكافأة ضخمة حال التأهل FilGoal",
+        "player": "",
+        "content_hash": "c9f623f0d5a5284e2607df6dd86fa79984c6d5a75eb051df92cce26bc445cc1f",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 8903,
         "title": "مباراة بترو أتليتيكو و نادي الجيش الرواندي - يلاكورة",
@@ -1316,38 +1364,6 @@
         "content_hash": "cf58287e659b2e8cf9e8acc2406732b367522151b47788db3eb001e817636b11",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 8760,
-        "title": "صافرة مغربية تقود معركة نهائي \"خليجي 27\" بين السعودية والإمارات - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxOZnlyd2MyWXNVSVZ3ZThUZWdVZ29OY2dIU1dnMElxb01XTnlJUktqZlVIOU9XdWQzRVlMWlNpYjIyV2tYNWUyZ1N0S3RqS0pNSzQ4NnVacVgxLW1tSGZ3Y181S3ZfZHlMVmk2Vl9jNHlMVjRzaE5qYjlxeDZDNElGYW1LTmhCSmVZYWZhYjZZQVRSMVZScGtCU25aV285LUR5OFA1UXRPNlVRUXlXMG51ZFFXbkpYUXBBWDdiWTduTE0wTUh4b2kydUZ6U0Y2U1drcVp2YXZKWTVuZmdhV1NiRUVJcDlJOVBqSVdGREZ3Zi1TaGE3VnpNTlpZNFVFZEZNM0p2bVhDdnhfRWZXTjBUVDNWQnRwblhEWlExTWhsSFgzcjZvcV9xYnV6UjIxRGg5U1B4OHNaVFpBbWQyTmhJSWtHSlBUS3dXRERvVVhKeU9XM1VGTGZseXhhT1NCNWhNb0htNkhnR3NPcjQ3NFZvRG5pU1owSFhoMWRjYXhINXNTV09qN3VueTd0R3ZMYTdiU2x3QldzS0k2Y21nR1U3VkxSbjFjbVhncVpqbXdnUzlXVHVnS1c1WWpEa2Z0M0pHblBCd0VsV2tjUE1Hdi0wZDRfYUJ6SzJDc09OVU1uOXpRMVBua3NRSGd4ajB4T2QyVXhhekdNcTZBU2dKcFBaMnQzVlpCenhGdno1U1hvcUtyUVRIWWV0NVRyUXhwZ29mVDM2aGhmdW1CUm9VaGlSUS1PQU1LYktqZGJDb2VocXQ4SVNaaW5XeVhRemc1UTJYQWlCeXA1VHFGekJjYXE1eA?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 13:19:23 GMT",
-        "discovered": "2026-10-05T13:39:06.910059+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "صافرة مغربية تقود معركة نهائي \"خليجي 27\" بين السعودية والإمارات Kooora",
-        "player": "",
-        "content_hash": "03a2fbcf084f8653105839f6e8e36e4a92590da3de7718de37cb894c0f10f199",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8762,
-        "title": "تشكيل الإمارات ضد السعودية في نهائي كأس الخليج العربي خليجي 27 - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQUHh3YjRRQ2xON3pYS1pTb0ZxMFlqUkR2Mm1oaUhWazJZS0FaUm12N05aU09qekljLVNLaWtiUEVZTldaWEh5cUV6UkNkaE1YTUtaV0pVbFRqUkoyVTYtOVp6RC1iQnRhUlpYU2w5VDlsaTR5eVl1UE1rdUdxYmpYbkZnR1FkR1dCcTV2WHJaTHZCeC1BSGVkeHh2R1VVTGptZFh0X3N6eEJLeGthWHFJdGtRRG1kZ3pDQ0pSQlZGeEl5a2xoNkREdl9hOHdjQm5uQjFEUlF3Z2VQOGdENnJyWG1VdnItM3F2M3lwendHcDFzOHlfUjZnMThRSi1OOFhCQ0N0TG53bkt6Y2h4RWZoNE1TNjU3YUhubXR5akpFR1d1S211TDlDUExXdWFRZmFVbVhJWG9fTzlNaXlZVEN2NHNzY0NrSWxncDRtY0taRXVaQ0EtLVFSbDRpOThCbDA?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 13:16:33 GMT",
-        "discovered": "2026-10-05T13:39:13.654477+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تشكيل الإمارات ضد السعودية في نهائي كأس الخليج العربي خليجي 27 365Scores",
-        "player": "",
-        "content_hash": "9fda7b441fe37960ff54976bfa7635ca857109dcaf7acbc41bda92daa58a5f68",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2054,22 +2070,6 @@
         "summary": "وكيل وزارة الصحة: فيروس الإنفلونزا الموسمية السبب الأول في تنويم المواليد بالمستشفى العربية",
         "player": "",
         "content_hash": "d70a21bc05f784b9223684837319a21d04544c3ef278e6f8fce7c245fc7c0c5a",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 8418,
-        "title": "نتنياهو يفرض واقعا جديدا بالضفة يصعب تغييره بعد الانتخابات - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxON252cGx2Y01neG9lMlo1dWlvdUJOTFdTaFpQdUJ5c2JIUWpoN2FIMVJVeGtqeUtaXy1wQ0pwejU2YWdJODAya2FXdGdMQXdZNXN2NEJZZWY2R0gtUzZ0a2pjZ29aUk05WUdYZzQxaXltblBHZzlZNFdaMGNISVg4V0UwRDVNVWRidkFfWERoQ3lyZkJ5cmlMZk5HbW1sMjBFZjExTWhCZHdxblE1MDNzWDNqMHlfdTRqYnlyUzNOVG5KSlJpLVcyMDBfSGhjNWFHRERyQlluLUNyQ195Ty1QSFRFaWpLZ9IB6wFBVV95cUxOUGxqSV95dVBHbG1VZ0E2akoybDNlNUJYZkNxb01BZlR0aUlsUnhSVE5MVXJ6VElHVkZZaDlwV1VfRWVvZmFHY0duUlIwdUxtVHVLcGJQaXBYWGwwQkRjNUtIUXo0alh3UVFCOVBLcDdrSE0zbEJmNTluYkpobFhnQkszU1d5WVdXeWp2S0NLakh0YlpMczlfOVVHaENUV3U2eDFoWGVBd0VzeXZ6UGZycEhhWlJ6bzNQX1E1eUsyZWJ0d1NybHVjOW9MXzAyNjlrdWNRZ0FFMHFoRzJXc3doNDM4bzNIamVpMTFR?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Sun, 04 Oct 2026 10:52:14 GMT",
-        "discovered": "2026-10-04T11:07:57.857745+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "نتنياهو يفرض واقعا جديدا بالضفة يصعب تغييره بعد الانتخابات الجزيرة نت",
-        "player": "",
-        "content_hash": "2a48a63fce184379984ec0dbe326614adc6bba71e3c9f23c0608b92bf8fa26fc",
         "sent": 0,
         "section": "middle_east"
       },
