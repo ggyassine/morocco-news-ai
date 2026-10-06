@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T12:27:32.835891+00:00",
+  "updated": "2026-10-06T12:49:09.593922+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -530,25 +530,41 @@
         "content_hash": "0b6d0b800d4df2813926e1569e5e36a845091fa1ed6c411d0cf6650c9691b812",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 9004,
-        "title": "اكتشاف أقدم جدار دفاعي بأفريقيا خارج وادي النيل بالمغرب - العربية",
-        "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxNaTR2b0RfSjZ1ZWV0N2FVb0VvOUlNWHJzbjJKLTFQd3AtbHBOSGF5LTI3NlpOeXJlQnRpTTJ3d3VsYXA2dk5GVDJIcExTMC1lRnlNaE92enBreXZUOFUtNUIySXcybGN0Y2Y4ZTRnTGxMNkV3RUtsTDR3dEJGbmlNcHNBUk9vSlNYWFZ1bEJtOXlBRWdpOHFYUFdPQkRmdkJ2ZXRONWRjUXhzOEQ1LTN1R1M2YkFWS1hWdURIR2NLYjZqWmZHTjFIdmNCWmJjRGxSVTZBRGQ1NFNfc1NZa1d0cGdrWG41UDB3YzZZMDR3NUt0SnEzekxJSnVaMVNQbFpGVFhwcEI0UmhXZlE3TGNNSmo2b2t2SjFJOGgwQ0pkS0h3YnRIa0hyZW4wRWRUcXFVUjZpQmpuR3BxLXBwcHJad3JCZVFYYkhHemZ1bHhfbnJGYk1WelRxRzU2VGJLaldNdVh6N1AtRXkzN1k3X2NKTllqX3ctYXZlLW1UcW1MenJXWTloRUJjWnpkcy1NWW5SSFdHLVA5YldBekV5T1NQN2pCNlRTNXNpZlJ4LUIyNXc3Y0YyZkJUZ0JKZWF2dWp2dlhtZmhJTW96Q001WWFxaEtIQ2ZseEFJS1d30gHgA0FVX3lxTE1lYkZweFZsU3ZxemV4TkdyUTFNVGs2alE2aFRvRnRyTllmNDExTm01alBBM1V4U015amRvWEpfc0I5V09JeXZtVVA5cEhHN3VLdHpiMEV0aHBXRk1Ic2pGckpFTHpGNDM5WUVLWnY3RENqdVEzMkZzajZfZ21yZzJQelM0b0tFUTd5Yy16dFVjMHd5dUFjWGFXVHpudjlkdVFrN2FEcnpXbXMyTmhaTTh0MWpmdnpsYl84dWgxTU5FNXo5dUVvRVVPSDJrRzdFLU1vQ01NQW9CNXFLY0Vqa2ZiTVloUjJYSEpOV0tra01GdUJLQ1pvNUVudHA2MDQzc0c3T3FJSkpvQWt5V2tmeFNyWjczZ0xDNnhKMFM3TWZiWFdjdnFTaldzV2Z2V1VuMHZBX0pFTmpXRHZZVHVSVVV3NWxmdU9wZkJMNU9odWtRQUlnYTg1QkluNXhUcjQ1S2Z3ekFLdEJLbWhRZ1N4NUJyRjF5UVFJMWg5aktyakY1T3Y0TjRjcmVzQVpDR1BpNlFGcTUtNEhFcE9WUGFEN3FDOGlwcHVaanR1WUw2VXQzRnI4WTI2bHNZMzNvbnYycWN4QUhtTmpubURfYU5oWmJOaXY1T3lNanduYS1yckNoMg?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Sun, 04 Oct 2026 14:53:00 GMT",
-        "discovered": "2026-10-06T07:25:11.088932+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "اكتشاف أقدم جدار دفاعي بأفريقيا خارج وادي النيل بالمغرب العربية",
-        "player": "",
-        "content_hash": "6eb3be231f0528692f8b6010bc8f0e8331ed3a09a9d438dcf63eb3929bc708d6",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 9065,
+        "title": "بقيادة جيد.. طاقم تحكيم مغربي يقود نهائي كأس الخليج بين السعودية والإمارات - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jSFNiSERKRWNwbGRUWWcyRk5PMGlvX1ZydVI5RzFlaEJuTHVIZzhPU19BWUJmNDBZMGFnQ1hEUk83cGVTWXFSOA?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 12:33:16 GMT",
+        "discovered": "2026-10-06T12:48:43.637677+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بقيادة جيد.. طاقم تحكيم مغربي يقود نهائي كأس الخليج بين السعودية والإمارات Febrayer",
+        "player": "",
+        "content_hash": "53d885219c16258dd5226d3cacef9c853ce7b79dcd401d33bbfad9f51b74fee4",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9067,
+        "title": "رونالدو يشارك في تدريبات النصر في ظل أزمته مع منتخب البرتغال - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPZUM4Z29VMXJPbVR6VjFFekhxQTNtQUdRd21LS3RRUDFCVVpuZEZzZlQ2bnlOR18ySEdLUmE0OHk2eEphQWxSeU9PS1p6MVVCN2ZNb1E1NmNDRlAzQ3ZVc2JuYktuVWpBcnpXLWMwNk0tRHZxazgxWkVMcEJaYWFqVEpzSkNzQU5XY2prSWRGNjZCNHIyOEM3eF94RGdtdlNCd3prcTFTNkxFdkQwRlBhcmwtT3VEdWd3S19pWW1DdkNsVUVOM3dmZmZSejZXSEdIX0c4cV9sZEhfRjY1cURHWndhWHJHWWNod19GbEdPTlEwNHpHTW9VenczUzBxam1SaUI3cFpTUm14YmxaWmxkMDFxYUdiSFdkcWZaUjd5Y3ltOEpPN3pQNDVDdHl5MmVnRE9xVC1SNVQwTXVFVk95bkdNekFEbVpuNmduT3M1LXU4RTVDWG1ubGRpNlRudnpaME02SkZLb3RDTkhTZ3ZDR0tIaUhoY1lnQ0dhM0RMTUdFYzcxVndUV0xYRUdZQnpHY2lrZFIzOEMwRVB4TkRMUUpLbng3blNRVGVKSTFHUmJHeDZ0bjU0NEx0amZoQmxsazRPNTQ4aFJtdV90Y0pEbkIzMGhpRkhUeWVrRGhxa0ZZM3Fjai1QNWk4S2hJVUXSAfQDQVVfeXFMTnhCamFVTGY0UkpWRkZtYjBmREdSbUpYb1VnSUJ3cGxUNGgxV05Ma25wSWQzdzA1RnpxclFObUhSc3UtcF9mYzc5S3BtSEJCMFNueEJvSXd3T29ka25WZFdlU1VJUXNBSnVSVG5XRE9wNWdjSjNRak1XSHRyT1lDaEUwNm9iSV9fTng1bEhwZVFROFlHU1l4VnlJanNlQXUybjkwdFg1djdPbGNyb2l2TWFGaWltcUU1ZGlobllpT05rNXR6MmVRTm9XOFp2aVNyakRJUk54TkV6M3pSOTdNcDVHemNPTTYxU3ZRRmhQRFFOWDQ2bHdScm9RVjJkZWdXTGlOcHIyZXd5alhXMmF3X1lsLWRmdkFvMV9Qd045emNpemVGanhqcEI2UWVkMmo1SWIxTXI2MmpULWI5bUh6UnV0Rlp3ZE1yaWJoWnFPVFgtZjJ0R2R6d2FVUU5VY0lkclE0SzgzU18tREU4aWZQVUMzSXkwYzBicWZ0QXJHN3E2LXZGRWJ0WjNKX1AwMG5ucUNtY1RKaTBIaUloMlYwbUZGVGs5S01KRnpyTW95STNRZTlXdGsxYk9xZXB3clZGWldfQ212QXVYRExpR0pzSEU0SXZxdW9id3d4ZVdiY0E1LXFlMXF4RVQ1YXBnOUpTakZ6eWk?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 12:31:15 GMT",
+        "discovered": "2026-10-06T12:48:52.513692+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "رونالدو يشارك في تدريبات النصر في ظل أزمته مع منتخب البرتغال FilGoal",
+        "player": "",
+        "content_hash": "9d96ba71ae2bd5eeef610333764758cd598abfa686be3e049f123959971978bb",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9064,
         "title": "“حين تصبح الحقيقة هدفاً”… 1120 انتهاكاً بحق الصحافيين منذ بدء حرب الإبادة - القدس العربي",
@@ -738,6 +754,22 @@
         "summary": "مواعيد مباريات الثلاثاء 6 أكتوبر - نهائي حليجي 26.. وإسبانيا ضد كرواتيا FilGoal",
         "player": "",
         "content_hash": "48ad774689774457844c7819b88d30c471e9ac5f5499315ddb27c13d509f487e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9066,
+        "title": "ماذا سيفعل ميسي بعد وداع الأرجنتين؟.. خطط كبرى تنتظر الأسطورة - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOQnNjaG9Ia0swalZMWUs3UTBQOHdSVmZKVk9wdGNwU0ZGQjNzek96VUJjLWoxOUszajRqaGFGcFpxS0xaOERPTnNsUkZqekhTT2NiOXdHOVlKWjM2S3RxUU9vYTRLaV9NZzhCd2VjOU02cFR6RWdJU2dVc09ORWhSVFBNT1pvRXlET1hqbktBRUo5UFJVbXk3ZnVWWExRSEgtWUlNTGpMdnNSUll5M2I0QkkwdlFnZXlTN09mUGdfREp0TUdLQW1uUURwWmxlU0NnV1pwT3hYbE1Xa2ZESzFjcUpNOUMycjFoYUc2Z2hlVXNNSVByczlQY2FYV3ZpRXRiSzVkUjBNdmlPQlRhTWZBWk9wN2NZRm5qTkEzczFES21LSl9oUU0tT3FwdlRnZjVjYVp2el9pai1QQWFrc2xIUWw3RTdBNFcyZTJtaXN5azdyZWw2ZEVSU3dJU0pKTU91cEtQLUlDdktBS0xvMzN2OFVlcDl1RWRPZjhJS0Y0Y1lrbmpEcmwzRmpna2VERGxwd2VqelpLMmY2QUx0SVZvWHVxeG8ydWM3aXMtRnRYTGpQTDlJdzJVdlV6SGdtcGIxTGF4ZDFwQ3JFVjhJNzRsSEc4Z3FpTFg3OVZaN0pyVVYxdE1pQVRrb3Rn?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 06:39:28 GMT",
+        "discovered": "2026-10-06T12:48:48.740902+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ماذا سيفعل ميسي بعد وداع الأرجنتين؟.. خطط كبرى تنتظر الأسطورة الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "5d52536a1d9282cdf764da4dc015c38e847c0c5060f2111a54c9e5da2d29c594",
         "sent": 0,
         "section": "sports"
       },
@@ -1300,54 +1332,6 @@
         "content_hash": "e96fde3ac3d79a8cbceef0064b378a7f5472266fec8489a89ba27ff26e72cdb4",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 8912,
-        "title": "نظام جديد.. تعرف على قرعة بطولة أفريقيا للأندية أبطال الدوري لكرة اليد بعد إعادتها - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMijgVBVV95cUxOWThlRkhJdS0zZXJBdzhwRUEwVnJYMWZjaWZfZFNnZWlJLWx0LWEzMTVHR2dyVVJfdWVGVmFudVJGVXhsR3JmeUtsUlA3SmY2bVRYMUpmQU84Qnk4VUotcV82SU55TnY3SDZzbkVpR2w1MWptWWJqMnBVSWVROE9RMVlPLU5WTlNJZTZRN3BLRnJCOUtCVmhWU3dST1NtcEhkeXVSSnNLSHFSVjNta0N0TU1BVENmYmtyRE1aQmtCYnVOOUVMQjlaUFNoQ3BHSW5YV21MUmlRc1hYNDVsNklmMDhMWEJTNUtMaEoxQXp3NllzSmlUS3Y5SDJ6YXlfN29KTmRHcUdtZnFwT0VBVWJJU3pRelNvUWVIZUtfVWRkazVhYm51c0gyVnhBMUFROFlvOUJOVGJJX2VSU1paVUJqU0Q1LTdKU2xzMHlFNHdJU3VLMmNWR0ZZbll6eHhlSzBKUHZ4Z1B1OUNocFA3aGZkd1FzbGZ2NkRlZ3dvdDJ1MGpaa3ZmdUxiZVlUc3ZrdWNXdHhNam4tbkxFSzdMS2RKSlJtY3NWTG5wWEhpbW9oNU00andtekVuY3dQTVZWZDQ0WUZHNVNNZGRkY2xkMWN2dnZwYlZfbTFyaWJjUmF3d3MyeXQwc3R0dzA4UFk5SVhtRkt4NmlaSHhGYmpESWxhbi1kczN1SXdXTy04bWtYNjVBRFR5SGg1SmQ4WkJGdFFtNHRibkFRMEk0RlpCX3VQRjRNTXhreXFHMlVJek5tMkliYTBaWVRJNGFxLTkzVlcwSkF4QUZJeFljdGRZMlJqZkM2UFJaZy1BWFdLLXFueFBSQUF4dnFBbkhTaXZzX3M1QU0zNklaQnU4TUY3c3fSAf4EQVVfeXFMTXJTUWh1dTN4dnk2QnAzNm5jSXdmRjI3XzdfNmkwVEhJVlhuaXFXMzZHTU1DREEwZlp4blV4Um92RXVHMVBwUG5uM3hLQWtaUEdQR3FfOWxqaGMweEdkbmNzcFZfWjRSdm9SRWctUnpMYjlhZDNsWTZtOUNNZTBwVXB0eXZPQlNjV1owR19pQ1drWmJwMkZjR3lhWkpERkhfWUVBYXl1RFlqMlRnWFRPbE55dlZVSlVGRlpDQ2tuUS1ibDVfWjN6SjZsT1EzVWxHVGpmVjVSRUJfSzJHMXNZNTIyaXozRWQ2aXZBb1VjaTA1aFZsa0FucmlhZXdTbTFPanZiVU55V2dCRUtFLXAzN1FLZnJ1MU5mU1o3NVRnU29NckxoV2lQWHExRUtKQUtNZHdITkZMamJJdmZjTXNyRmgxSHBTVEJDYm5qc2tiRkQtYmlmWm1MYU54ek5GSC13eGhhMGx6OTFvWHZSUEN6UV9VZ3B0MFVVWUFYazhpbGE3cVhVOVU3amdydklDZEhkV2NnZVFKeXhBTVNpczVTM3p3OXZWMlRPUmU0TzR3SEc1N0p0NGNZRTQyQkcxMUtDNDlVaXhyQkF2MVIwUVhDZmVsM1ViMHBJV29IY3RxeFFlRU5iR1loRFlGRFVxSDRnd29LQ2JoZ04yeHB6Mnl2WF9ha19NQTBtdlFEOTVGTGo5VnptajJkLV9Cd0hMLVdyaHIzdUpMRFlWdElIZ19JRHV4VldFM2YyOFRLYVllQW5jckdGVVRKSTRId3laaFEzWldUcTM0U2VqTzFoakRqb2xsRGpJV1VWZDJQSTVwZVhuZjllU1lTVzRQR1BLVnc?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 21:12:00 GMT",
-        "discovered": "2026-10-06T00:40:09.132492+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "نظام جديد.. تعرف على قرعة بطولة أفريقيا للأندية أبطال الدوري لكرة اليد بعد إعادتها يلاكورة",
-        "player": "",
-        "content_hash": "e96fde3ac3d79a8cbceef0064b378a7f5472266fec8489a89ba27ff26e72cdb4",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8933,
-        "title": "جدول مباريات اليوم الثلاثاء 6 أكتوبر 2026 .. القنوات الناقلة والمعلقين - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi9gRBVV95cUxPcVVZVUZkZHl1VnVTOWI1ZDk5WTA4eTJHUnJkTTRVVUpWcnJpczRyTnI4RWRwNktNbUpNWmt2THhOS2hhbmFUalZtcDhzeGxwTnRCeHdyMzVVanlySFRHRWl2LWY0UVZHdWhtck54NzZtTmNwZ0JNUU16TWY5VGRfVDhQRFFzUXM1M29Fbk9BVnlrRE55UTktY28tX1RSaTdPTHN6WjVucW9rUWRMeElqMEt5cVk5YmQ2ZTFPMkx0aW5JTGlfemtkNTd6OUc1VkZ3SXRRZ0ZFd1lMN2R3dFN5bmJTTVBKNEtvQlZ3YUM2cDB3ZmV3SVFRc2tRRVdVeGQ4SkJTTnFMZzJIQ0JkaUctUVllQU1tRnQ1ckhmcnZRVFlZVUFTOWlfOHhkSldWaWFsS3NpRl9OOFZ6V3EwTGRWY3pFZldJd2NHdmx3alB2eVJiM2NXT1I1c2lXaEFCT3NJei1tRVdCX3JoZFlFbm1XYW1Edkd6Z3dSYUdnckJCbEpvek1CeXMtSzB0bGwwTm1qSEpCZHRQX0djVG1kdEN3T2pYZEdoTzNjNkptcUJpdXZkanhnUUFadWtCczdHUDZrWUQ1ZDhKN3Y2ejJvU1ItcEVHam04VjVMeFJ0Y0FwR09HR0RvNHRUc3l6MHJ4QURhdkZpbE1tSEVvMEtBaktBZmVwbkV4c0RMRmI4X1FOMXFwNW9iQXVtQjJQRXlxZmh4QmVwTUlUaC1JbDl5d1A3bVRWYTllckF0R1Rna3pwUVJyQlZLdTRrMHNGRTZtOTYxT1V3Z0tVMDdqcVc2Y1JvZzFRVkxwYVRvY3NZcjZmMXgzWDdybXc?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 21:09:05 GMT",
-        "discovered": "2026-10-06T02:51:30.759835+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم الثلاثاء 6 أكتوبر 2026 .. القنوات الناقلة والمعلقين Kooora",
-        "player": "",
-        "content_hash": "8ef24647d184178e8c5019a1bbfd48860fafa9a7e33c9f75ba01782e9d4c94ae",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8982,
-        "title": "دوري الأمم الأوروبية - تبديلات زيدان تقلب خسارة فرنسا لفوز برباعية على بلجيكا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqWE1lLWhqV0Z6NTFaOHhodmZuUnVhdFBja0NJTTBpNzY0cWxvY21xZGNrMktOX3FteThDWHg1eEZTR09GMDlOTi1ORUdmQ0ZF0gHmBEFVX3lxTFA1em01QUlEaDAyUkU3M0ZVUHFCeDItLVhlNlFVQ1hGSkpORFhJQnhLMzFreVdWX2hrbEJ2NXRqTzBCbjJBR1FXTlN0Qm9POEoyUVp4Ri0yNi10UUtpT0h0ZHVTQ0FIT2xHU2I3WDlKa3F1MGExRDZuYTFzTGNzNUpHZGdrc1pOTUZkM29yMTdpMGEzdlNrNUc1Z05majQ4anA2S2JoUnFYMDZTZWp2RWloeE52eE1neUNzVVRFYi14YVZ5YVZUeFVEZnR2S2NRa3pFY0Jra0VGV1lyX1hjUGNKT2V3OHlKMHM5VjJIZTNrRGRIU1R4N2hZTklfUmZjbWoxSGNHNzRjS1VCNjN1QzVndjMyTm5NMmRZRTc3T3lGM1dHZFNkX3RwcHNFNF9pVDFMYUhNNEVwZFoyMVU3Y2hKcmtIalFQemYzNUFyUzZTV1dGZ1lrcUswTnE1QjdnZ0FHRE5PMDVvdC1BTHVYbjdhZlktQzZBYkZjY3NDZi1PZzhxUWRlb2VGSFdySmliYkVCcVoyNzdaTUVjV2wzMl9tb3cwWEFUdUNuX3ZqS1lJOFJELUxtY1lraWlMMnVXZmRTWlFLU1lBQW91OTAzTUFGX0pZaWpmRDhPT1NzTXZjOU5QNThVZi1hR2pKeW5wQUdnWUQwdFZ2MG80X2tsS3V1dms2aU1fbG83OUNFQWVEb0ktRDh5WmFDQm1ZeVR0cHd6MGk4V3dLWDc3T3ktbGd3TXh3RGZCa2I0Q3g2RmxEdnM2bFBKQ1lpX3F1enRTSDhHOUZ1WFJNb0tFSmhCczc0UFA3WU5B?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 21:07:00 GMT",
-        "discovered": "2026-10-06T05:33:58.748981+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "دوري الأمم الأوروبية - تبديلات زيدان تقلب خسارة فرنسا لفوز برباعية على بلجيكا FilGoal",
-        "player": "",
-        "content_hash": "554257e87a93c6e530fbdee5f9ef736166f067be0e28b00c4b8fa49012af1bb6",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1897,6 +1881,22 @@
       }
     ],
     "middle_east": [
+      {
+        "id": 9068,
+        "title": "أمير قطر يبحث مع وزير داخلية إيران جهود خفض التصعيد - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOWXp5dmpjLUVoSmpiZGgyYlVjcjV6YnRvaDgtdVd4V3lJcFhPR2x6QmhHMExTS3paaFZDWkxNLUtIajRUZVJKSmU0blN2ZTNvbFR0NDlZSmQxVzRsRDRvSlpTWk0tOUQ4SDVNY3dTSXp0RW1LUUIzWnhSU2xHcWlMQ0FvNlVOcThJU0d5dkJPbkJXSnNjWk1iLUNKUnRBTVc4ZHNQa2tfRGl5aWpJc2RlNGFHLXNxZEtVTG1XMEZLRDNUY1NXanAxTzg4QTNNaHEzSFFuYm5DeDFVWll6M1FWUkpsUWNjaUVOaHcyeFVGQkc3Yy1PMTFjWUxXU21iR19aWlJucnF1NHhYSm9nM2RYR2FvZUNMeHJ6UmtsVGN2aFhZNUhaLUROMHlBdE94V3AzUGttWE9xUzdyRTU1VjRReVpnZEJUWUJsQ3FHMVlpSjNWTDBoNEHSAdsCQVVfeXFMTUJ6dm9fRFNDNmZqcll1U3RtTG1oRkc5djd0aHAyZGlzcEM4VEFXN2gwcVdmb0kyaHJhdGN0cXBqUk85RS14QVhJSDFwaGZISW1mdGtRbGo0N3hoQmFXN3czcHU3SndqMW1XV1dZSTdqOThldEpfdGVtWV94SVlYTW9QRXlvUk9WZ3ZINU9iaEVRMnluaDN5RGZhMDQ3NVJpVWdWb094eTV0SE1uWUJQWTFjdVhFT3dwT3EzM1Yza2ZqUGtRczdUa05WU0pJdzN6YlJzaWR5aDRGdV85SXZLbkphVThFVUJ6RWNHY0x2aDg1bnNwc1lqUHFYYWVBVUlXRGFzeUh2RTlNOFRxY3NlTEpLUjNIb0lYU09NNVhUaHNNRnpGb0pzVDNEbnJNSW5nai1nQ25XOFpmVll2SHVEMkE0Sm14aTgxZl9Od3F6NUN4REduMkFwZXdTdkU?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Tue, 06 Oct 2026 11:47:48 GMT",
+        "discovered": "2026-10-06T12:48:59.445201+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "أمير قطر يبحث مع وزير داخلية إيران جهود خفض التصعيد الجزيرة نت",
+        "player": "",
+        "content_hash": "8de7877b9f71a58b2588a756b0a440afe43b0ea88a51c9707c29cea0f70b222d",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 9049,
         "title": "شاهد... بن غفير يشارك في عملية هدم مبنى سكني يضم 70 فلسطينياً بالقدس - الشرق الأوسط",
