@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T07:57:00.062661+00:00",
+  "updated": "2026-10-06T08:13:12.449962+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -549,6 +549,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 9012,
+        "title": "مواعيد مباريات الثلاثاء 6 أكتوبر - نهائي حليجي 26.. وإسبانيا ضد كرواتيا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMikwRBVV95cUxPR1VPSmo2VVlaVnNpN1FNUDg0RWVMcWlvN09NWnZiRXkydWwzSlc5dWVRb2N5OGdib3h6Q3lVZG9VeVpWMEpKRnhxUTl4b0VHTWFWeV9MOGNKWi1zZC0tSHB4djhuVnFCbkFseDBOQkhrT0VRN0JjcnZQMXNDUmNDNm1IOGxfS2gwcVlBRGowV3BfekhNNE15eTZUdHBnTlM1aDd6ejBaci0tYTF5OTh6eEY0Y2lWNUtud0FuLVNlTVh4clRVOHdTeHFwUHA3R2JDeDBrdUpIM0o5RmhSZWh5RVoxMXRDaEtSRHlwN0o4X0E2dFdUeXpDV0dsRkVSeHBiSGdxNVpjbjlIc0FKV190UFNwQzc2SElndmtIVGZkQlpLaTdGNEQwdEs1NXpReDJpRGRPVFUybDN1VDFzb2NWVFNUenQtbmxzM0E5di1pZFlDX242SVdJYndqM0FVS2otdEtTNnhzQTNvU24xeFVGR3oyNFFZNW9aV2F2R1pBT3ZNVTh5MVA4d1pKWm02UXo5SW53MGVwWlZKYlE1Rk9nMUJKQjdjZVRmTGFBajByZHlOWkdzekVqWFFIUWNiWkY3bGFuT3ZsYkJVeTUzYlVHZDQ0VHJybWg2Qkk0bXQzcEZVRHRQRER1NVg0MThpaG5IbVBMbzFEMlNXQ0h5NURPVXNBRGR2ZEtDRHc0b1JEUnh2d1nSAZgEQVVfeXFMTUd0dngtRnJ5QmJuX2I1WVlBQ3BaZmw2alZueDI2WDVnd2oyYjdobkJPWUV0T0N5MzAzaU4yakxJR255X1prNEJBUng3ZS0tSFZSYUE2eGVRSkQxT2ZjbzdoYmhBSlpaX1pvSmpJYnZoRUxuZXJPc195c3BncEd0di1pdUJUdWR1T0thVW9XVGV0dmhjWDF3UHMyM3FvRDQ1UGpxcXkyYzA0V3dYX2FlTE5mbktEd1hCT1hBdWhYR3Jhek1KYjBLR2tVWWJ6VlZ3bEpidU41YjltMEMzRzFOSU1uTzlIaHZWRTE2WGdjNVlnQWkybnFKSGVLWnhqdE4yVVNDNUtMeXRaQVNHcFRPWVpIRlh4eEhTSlFnUWlYb2hTWTZjUnBjX3BLbUZtLVNYX2xaVHFUT3dmQjRnYUhTa01BRDc4YnRfV0pCN1N3bkxrOXpTTGJhaW04VDBKZkVkemZoWjhzUjBQSndLM2VubjNMUDI3MG15YXpad0RFZXU4WTdoaWxRWGJSYVlraGVFWnNEb0pIcE42S0VCVl93T3VsSkFkejh1UVdMaDNxSkluaTRzd0FIZUFUTWIxQ2llTTNHbW1rSG5pa0ZlaXMwMUFsRTZiaFNVblFMc2stNWZmSnVxOXcxM1RVUVItajBqRTRFLVFIU1QzY1NyQ2k2SXB0THlQZzk2b21Gd21zRUEtWTZNWDMtbUo?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 08:03:00 GMT",
+        "discovered": "2026-10-06T08:12:57.365368+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مواعيد مباريات الثلاثاء 6 أكتوبر - نهائي حليجي 26.. وإسبانيا ضد كرواتيا FilGoal",
+        "player": "",
+        "content_hash": "48ad774689774457844c7819b88d30c471e9ac5f5499315ddb27c13d509f487e",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 8999,
         "title": "فرنسا تحول تأخرها إلى فوز كاسح على بلجيكا بدوري الأمم - القدس العربي",
@@ -1330,22 +1346,6 @@
         "summary": "آخر من حملوا الكأس… ماذا يفعل أبطال «خليجي 16»؟ الشرق الأوسط",
         "player": "",
         "content_hash": "ed0cdda8c65a88f97c39ef9a5a1617f6569872d439466a40e0d84e4310eac9e2",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8856,
-        "title": "بين شبح الإصابات والراحة والملل.. هل نجحت العطلة الدولية الطويلة؟ - sports.asharq.com",
-        "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxNWUt2UWJSSndoUlpxOFpxZEwtTmJIcFJMTDJlbnVWU1diX2RsN25OU3RXaXRaRmp1VTREOS1ud2U0RklObmhkY2ZkaE9PTzBnSnJwMEMzdHA4U3JEV052UF80SmJXaHlpV3VTdlZscnI3Zk1JckREcjIyZjQ3YmRvQXVrMGwxejY1U0VXcjZfQ0k2WFhKOVIwSmtMYkVLcXVteGcyVUtaT1l0M3puallhX3JCUDdTTVgxdlRrbGE5Mk1USjNyNjh4SHZSZDhQZmlwSHJJUVNUVjZrZmt5anRua3pTRkIxa2QwUVFYUFZxRU16QnJqQ1k5NE9ZYmhNNElIU3Y1V2IwS2dBWUdUa01tbnhEQnh0YVlQbFBBTUVncHhfUlNoeEMyWFRmYk1XdjhoQmNXbW4zc0NQemI2SDhKc3V2aXVmMmJWbDVyVmZpTEdKeFVBRW5TWUcydVJWZ1Zqb3BLSlBDWEl1bU11VlZEUVVGYVhrOWlqYmhNTlM0b3d0NzJBWU1uNlJmdUVPcFdySEx2VXhIcTB4OW54dHFPd1pKTm04Zko5WEFpRWo1anN2WkhLRGcwUWkwanNiYnl6ZnJsbC1TMmxfODlpZWdwU2RPOVgxdw?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 18:35:44 GMT",
-        "discovered": "2026-10-05T21:32:51.734704+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بين شبح الإصابات والراحة والملل.. هل نجحت العطلة الدولية الطويلة؟ sports.asharq.com",
-        "player": "",
-        "content_hash": "88bc4fd09d1ef2a26fe21c3e38041ee9d100a205dd4ca66f292b6376421819bc",
         "sent": 0,
         "section": "sports"
       }
