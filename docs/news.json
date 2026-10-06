@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T09:23:53.432997+00:00",
+  "updated": "2026-10-06T09:40:55.904436+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -533,6 +533,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 9029,
+        "title": "\"لحظات سأفتقدها\".. رسالة ميسي قبل مباراة وداع الأرجنتين - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPbzJhMjdZZEVDUTQ4bHZaU2c5TzF1dlEtRTV4WGlXVkNxY2c4Z0JHZjFPUU9fR0dJYndMSU9mUkdkTlBndVVpRVBTbjZ5dlFHWFk4aS1XcFdvWlNuanVtOTdlWnJic0Z2VUs5bUxLcjZhUjZtYkUzbFJUN2hfWERCWGc2b3ZxeVN1QVd6R1NPX2NVZEVXbkRVQWlxcDVnZEpzalNvbHhPQ3NjRGFjQm1OcFBKUFJwTDZrQS1sNjdKNXV3UEFOWVcxdmpBTTN5YTczNEFPeDh3Y3E3enJ1SWVzZG8wZ0g0a0RsN0p6SnhYRDJoUkJzZ2dNOHZvWVFNNTNGTWYzNks0OTVkcG1IWndhWVhMODBOS1FnTUJEekpPMFlCV1RwSzNTem1xRl92Z2tnMVlSa2x2U3FtT2o4LVl5SFVHamlrVlFxX1FQalktbE80ZkZYcDVKcHViXzRtWDBvWEpaajlWUkJhczdoMmZtZWJ2MlJPQ0VmakpHUUY2QUt3Q1g5TV9GaTE0RHdSUUEzejdXT2tra3NveVNkMzV2R2xIc1d2SVgzaDA4d29FcTR4REJXYzVvenVLdUE5MzYzQXh4N1h0Mlgya0hzX0t1Ulh5bG9vU2ZBNWQtYzZpVUZIUdIB5wNBVV95cUxQcjl4dk14RTFqTFhZUEtrTGJWVFFJUGpqMERSMDU2dEdYcWE1TEx0UHJXbjlFLXlnMmVEYjhndWRXWFc3ZmxheWd5bFBrelVHSmVybDJWb0J4NktOQVhzWGsxNk1WbWRFOW5xeEJQSFJvQ0x2akJOVExHS1h4Rk1ueFQ4dXp5ZWxSOGNUc0xQb2JwNGJreGkzQW1iYlZoME1scHlnSlJmSHJHOTZKMFZsWGlmUTdEeEl5Wm9qamx2QWxxbHlvWW1EMWdJWkRPMThXbHFfOS15eWo4R3JBd0hyS3MxZm55WmZxWjU4aWJWb1hfbmpacG5oTmo2bFowTnpiZXpYR2VCWWR4T0ZCUTNMVkNBZl94eG9YVzl4SU9HTmxoTzQwODRsd1ZVdUlyYnlKUGxFX2pmUG9IYmwtaFVmaXBhWFZCSmxza04zUXI1X2pTdkNHSGFEUEhHMG9QRVc1WFBiT3NuOTQ0ZDBlQmkySU0tNXBFdzJvd0JJY0lJcktucjdKcHcweHNxUEY5THo1WDkxbmJhZDBHeXlaZmFrS0g1TnIzbzBLQjVISmprU0FEalN6eUpwYlVFTnVOTGpDTXB4ZHZIRFB1aXgtN0QwTnFWQzFaRElJR1A4NG1oeEdFUEJpX08w?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 09:30:00 GMT",
+        "discovered": "2026-10-06T09:40:41.673975+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "\"لحظات سأفتقدها\".. رسالة ميسي قبل مباراة وداع الأرجنتين يلاكورة",
+        "player": "",
+        "content_hash": "65be0a1b1deba12b45daf0b9fa8e035e36ee82f61538a7a8aa4bde45b0e94b98",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9024,
         "title": "خبر في الجول - بعض الآراء داخل اتحاد الكرة تتجه لعدم تعيين شوقي غريب مدربا للمنتخب الأولمبي - filgoal.com",
@@ -1314,22 +1330,6 @@
         "summary": "كرة سلة - سبورتنج والاتحاد السكندري يتقاسمان الفوز في دوري المرتبط FilGoal",
         "player": "",
         "content_hash": "af9982e28b7241e3f74baca1d3046729b057e612d214adf789d3cdabe3883160",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8860,
-        "title": "فأل حسن للأهلي.. كيف كانت آخر مباراة قمة تحت صافرة حكم سلوفيني؟ - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxOZ25DVU1pN0oxak5wbFY3TFhPTkd0NlRCS3V4d3V3WE82bmhrYndaWFIxeWFMTGRaUlJFT3JXVU5ybDM3dEJVRUlTZ09ybUVqTzh3ZndZWXZrV29ud2ZaYmxfdGxpcHlOakxQc3oyRjhyaV9NRVRRV191Q3lfRWpOekc1MC1ZVmZBWDFBM1NVVTRpc2VQNXFBQ29pVEZLbEZTVE53WmZIUmhpdElkSmhLMk04TXlzYWEwVnFqalJCYVM3ME9zejZHRzU4YTRCV183S3AtSWxrY3ZWTXdDdG9LVVpzYmJkeEJiR3RIUGdJOXRXR0pobUMyRWVLLTJQR2hPY3R2M3hfTzBvUnRfNm1BNzdlMUJPTENHeGZ0cWR2MWRnb0ZWNEpqSHBIOFdmamRIdlYxQkg4dTNTM2JlZU9VR0NPQW1KLVg5dHFrMkp1RzN3T3o5VE1yMjIxb3dvaGNuQ2xCRkRuWVYxdHZtanVOMldSVE1ScllObnJNRTlCVk9GcWloMEJFUUxpSGVwN2RyUG5lLWRWQWpBekJuejh5Y1dsVFRRbEx6Q21IUDVLWTJPd3hoVmlJcXR3RnkxNDdoS1lNeFlYNG01bGh4ZFFmMkhGbEhveFI5ZkV4MmRfTEhia3BZcHp1c1MydEh4TzctR1E4YVhRQlVpZFU0MXVlR3pYUdIBiARBVV95cUxNZHZHcTV6ZWphOFRhUjRrOEhzb2hpQjliZnFlcENRSGZvMGdTZVAxVXB0XzdSOXJ2a1NxNzRka2JzNEp3WE9kTWhIajF5NkhqQm9hNkM1MkNZNUVZbU9SR0ZnU0RTQnpxSkJYZWZtX0VRU3ZURVlacTBzanBJVGhDb2RtZ0xCU2FsWWFFTDYxX0J3RHV5MF9lcWp3dm5qdnVpX01mZGNkV09VS2twd19HeWtUaDhnaHFwcnRXazZfSTVqa3BUd0poZ21JWUhyY2J5WWJaaGlvTlRpMi05M3lBMTQ1RkxSM01Mc3k2emI3UmI0MFVwZ2tUNUxCdUs1eV9ocXBjY1VqM1dlM2xJMEVnR1hnV2JyWDhUeWItSi03Q2lNUGNMUVJDZEFuME0yMWJwMnUtU3BsVGNBQnBwNVB6RjAwems1QUU3TnZKRERFU2pvVUdkbzVOR2hIUnVpd0FVNU5YYkFIYk5od3FYSWp0UGdsYWRIZ1Utblo3XzVUVWU1U28wRVoyOUdfVUhoZjNFT3JYa1B5VldrckZwMWx0aXVkcWJPYWNVS1RsUHVnZThnZjZmcW1odU1EZEJROXZ5bGswMkkzS2hIX3lHaFIxeS1vRnhnSGh2N1EteHpQOXlrX2gwaXRRT01LVWd1ZzhZa1VSc1JJb1Eza29sYlhnYmdNLVZZRU03?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 19:43:00 GMT",
-        "discovered": "2026-10-05T21:32:54.311510+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فأل حسن للأهلي.. كيف كانت آخر مباراة قمة تحت صافرة حكم سلوفيني؟",
-        "player": "",
-        "content_hash": "a65d718f92f145ada987c8082d8ff646a3f0af07efd3a40b4710f9907816cda6",
         "sent": 0,
         "section": "sports"
       }
