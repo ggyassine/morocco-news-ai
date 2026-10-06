@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T03:21:20.949075+00:00",
+  "updated": "2026-10-06T03:39:05.010809+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -496,22 +496,6 @@
         "summary": "الخطوط المغربية ترد على ما أثير حول عمل مساعد طيار \"فلاي دبي\" بالشركة CNN Arabic",
         "player": "",
         "content_hash": "fd46a9d184cdd2b6b102547580683f40ffee2700de8f84de33beec89d4effd63",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 8635,
-        "title": "عبد الحميد البوجادي - 2016 election results - Morocco - elections.hespress.com",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ORC1mU0RFSUJDSWVzcUdaNkctVFZJcU1RUUt4WEsxM0VoQTJlYURvQ3ZKMHlDVGJqcHFlSVJ5bW9vS3dWN0J6SGFrdVJSZ2oweVh3WGt0LUptSUt1ckZNSTdLUDBFMFA5RUNSQk5UYw?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Sat, 03 Oct 2026 13:07:54 GMT",
-        "discovered": "2026-10-05T01:53:00.654480+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "عبد الحميد البوجادي - 2016 election results - Morocco elections.hespress.com",
-        "player": "عبد الحميد",
-        "content_hash": "39492baeb395d18d166d2ba4b836b4b0beb31fd1de377e51c77b95a8bc8256b1",
         "sent": 0,
         "section": "morocco"
       }
@@ -1094,6 +1078,38 @@
         "section": "sports"
       },
       {
+        "id": 8957,
+        "title": "دوري الأمم الأوروبية.. إيطاليا 1-0 تركيا.. سكاماكا يسجل - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxQU1BZVEdXQmh6YnlfZ2V1bWEwdUZWVmNOa19sOWNXNXlsUzNKaXJ5WFQ0WU45V3JCSFhTVWxoMGEyd2ZPaWEyWVNydVZXZVZzM0wtV2F0bUxTaFR6TG9pMk1vVWNrUVY4NGtwWXFCN1FqRlkwZTlxRXV5UE51SUlGeld4dXVQZzhsNDJ0eDRrRGNDdDAwRlhlSm9jbEU2M0VuUklEVE5CRTdUbHdtME1HSERKdkw4bTdaaVhoaHhJVjNUYktkNTFxM1BxdGNiSVpUbjBiS2RzU3lmTE9Peks4Sjc4UzhVT3lQNU5FRTB4R3lfYjRiMTE3NWlTdUtDZWlIUUdmN1NYUTRXRTdFQ0QyaGw0S1ZUNDY1Tzd4ajZPQU1FbC05SUhJdm9yQ3llUjh2LU1jTDRHRXJISmU2VzBVLXJPTlo5a2lwcVVIS2Y3MFl4azZjSDhfRmRoaFpidS0wRDFnaVhKdkMzNVd4M2NUdjBlazliLTRYam9uSE12T1hoam1nMHpBS1VtNThmSmV6V0lzRlREamFBajJSZ2lKUHZrby1wa2pxUlZmQ1VuN0RMcG9lcDhQUjlEVXBRWnZpN01HczBB0gHLA0FVX3lxTFBIWUdXQXUzMFpFeDBKYTFmRlIxVHJnVDBHVGd0a2pObWZEM25PVllLcnVxaTl4VjBLVUFmYmxpc1NXOVBSN3ZXSFRIMFpzdk04X0JHTnotT3p0Tnk3QzZfQUFseDBSb3R5M1BrOTJMbjNxTk1fYTRreWZfaXZ5VDVhc3NYWVMzUDZnOFhSSXhsNGw4VEtfUkYwaHNxRUt2WFZXclVrSG9RaElGM2ZKbWZxbGNWZmNxLVpVYTQ5RlFpNlFjakhTa0sxeE5tY0Q2ZXJ2RVlzUWlyemZPbXlKRHhoZ1F1eW1udHIzWEJNRjc4Y0tJZjVzbEM3ZFhYQjR2T0VMQTE2QkNXU0FOSXVHNklyRG5CT0g5V1FKUE55X1RsU3gwbVNPVy15aENRNGNUMFdzb196MU5SemliMFplbXBRa3BkaHhCY3NmSFhIVENYZEJjY1hEODZ2eDl6RkpnSzRONTQwRER4MVJsUlBDUF82ZzhaQ1dvQ1BMNl82d3REdzlhRGttdWwySDd6MU1CbW91SU1EZktqOU52R3NWa2QzMzJRU1c1R3JzRlZsZC1DNThmaVVXVXd1SFpFNGRoU2luc2wwc09nTU45Yw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 18:35:00 GMT",
+        "discovered": "2026-10-06T03:38:45.212442+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "دوري الأمم الأوروبية.. إيطاليا 1-0 تركيا.. سكاماكا يسجل يلاكورة",
+        "player": "",
+        "content_hash": "52c6c3bbf7fc22aa7b0a2702147ef0c814e3bb55622550c412110bc14990f9b1",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8956,
+        "title": "باركولا ضد لوكاكو.. تشكيل مباراة فرنسا وبلجيكا في دوري الأمم الأوروبية - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxPVEZFMmJZenpDenJzNXRGbGhKMGo1N2ZON0FUQ2plcWpJMjdmSXZiSEJnckdqVTFKR3IzcGpMUFNqWjVhX2RJeHc0NFRpVTRvcWwyU2UtTUVQakR2WEYtQ2xwRFR5ZVRkUlA2RnVHaGRPOFIxWHplb3FNa19ZLWpKdzhzMHZoX2dsX1J3SFNhSUpxd3pEMmFXMDdiLXdVSVg2anZHa3JXcUVzNUNxd09iNURsMFhxQ3dac1J3a3VnREJ1eFE4SGRVWlNhcmh2WVAyMV9oR1RLUmxwbW1paG5JakY4cmprSkpNb3pMNzk0XzMtVmVvSnhBREV0N1RHYjJfNG1kbnVPWkFMTmN4NFdhcHJ2V3dnNlR4X3l2bjdHVFlGZFlmUUhsaTNCUHZTUmxzLVZRMXNmb2x3dFV6RW9mZ2FrT0xydU1TdGl3VmVXdkE1eU5XTnVSeVQxRGY0cHFqWlFtLTlMenpFMXhUOXk4b0pIZ3Vma2hOMmxiOUV5Um1RLUNKazlKdFdzbnd3QzJPMkZadzVjOXZoWThoSG85Y1dKOUZEYWY1Q0Q4UEdYQjN4T25SU0t0dlBGZXMyV2dSQnJmSFRzVXNlV18zNHp4MTlVS1VTOXlZcjg4TFZmQWFEeHhsYkxINkwtcUxCUEJnaGJxT3d1QkhQcm94U3VSMWQ4N3RlWk1MTk1KOHE5dEFqQjN3Nml4WUY1ZlVEMGR2NHNnZUcySy04S2RDTFpJaXFNbkpHRGVGVjN0cWNTNVczN2hXN1o0aFhSU1poQdIB0wRBVV95cUxPVkw4c3dXMllyWk1lcmJtYUE0MHdOdVFtWWVhQ1VtMFdGVEpQcU1UZGVUQnh5MUJiSVo2TDRuZC1BTzlmQmhvTXdTckVxWGF1NllrZWp5OTJnX3loZl9sbmNpRmM3SFpvdjNZNjFfdkFhRmE1SkEzeXpCMHNMZTF4ekctWHc3eG1jd2hfd2x1X3ZQa2JwaUx5WEs1ZHZsZ0U4cm5yQjJPeVlDbHRoUVFsVE1TWm1IMS1zZC0wblE2WHoxT2xrMTZxeGhvYmU3aUh3OEJMSm5HQ2lveTY3MzJwZDVZeVlpc3J6bDFMOEpjWUNTUlVyMEFnVjMtZG9WR0VYa1RUaWI3MG9PazZBbWs4NzhvZ0N2X2VHZktxSzVEY3lDZXExSkVOZEpwV2ZDVWlpLXZLRE5takd5TXgxNE9iQUE0RXlDSV9STGFHTG5ES0JPelp0TENFN0l3c09vamdRVG9lVk9RWUxZWWtzQXNKMm9jUVZCRGxCUkcyZXRRVnRaN1FJZkVFaXRpZ3lUNDg2ZUFhUFNoaUZjV05OaWZ0Rl9IWS1ncmF5Z1lhRFlYZVdna191UlRyUHNwT1ZzdTB4MUpMbUh1Y2hZQzFfaW1tMjJDWi1qX191MXcwR2Y3WExtVjFPY2FaZ2dJaFZQSUFxRGIxVjBOWk1KVVdpM0VLcV9LZVVuTFJwSVBJV3I2Q3JjYnkzTG9yTUd0LXQxcXphSjNoU2YzbUdPV3k0VWo4V2VnRFN6SWlnNFpNSDl4ZFptbkwybDg2aWNOWndTLWJHSHp3?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 17:53:00 GMT",
+        "discovered": "2026-10-06T03:38:45.195842+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "باركولا ضد لوكاكو.. تشكيل مباراة فرنسا وبلجيكا في دوري الأمم الأوروبية يلاكورة",
+        "player": "",
+        "content_hash": "6f7f7a995c1ae5053e22e2972d2ae6ef8bb0d1b04e624a7061537fa73cc3b637",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 8894,
         "title": "ملخص وأهداف مباراة فرنسا ضد بلجيكا في الجولة 4 من دوري الأمم الأوروبية - 365Scores",
         "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNeDhMZkl3Q0t1aHF5T2xlZ0ZTSjJpQlJUQ3FTOC0xZldSMXhaaVpINVEtM3ZGUV81X2hoYWNXbUJpQm56VlR5QUx4Q2RfNzcxOVp2bV8yaUIybzFMdlBDWkFPZnotaGZaSy14NHBFZk16aG0xMEJUVlJscUZVV3FQRjNBWXpveE50eVpJX05oWFRmeTdZSzJOUG5vWlNLNHJTOU9MeVBmQ2ZMNnA4eUxCSVE5Z2I5akVITG9WNjFreTZTdEtka2J2c1h3NWd4RGVoYU5vNHgwUXM5cU50N2tBUG9WZUpDMVpna0tWOG54U2VmYlM0R0Z0MElCNmQ3X3dBTlVGamxKdTR3M2ZJMk9hSmdFMFdMN1RKV0tYZTBkNzJwRGZJbkdpbEZjS2l5V2xfV0JCMkFpZUZuU1Fnd0ZPZm4ydWpxXzAzYWk4TC00cTNIZjlkTW52YTlmRmRQSWo0SFE?oc=5",
@@ -1282,38 +1298,6 @@
         "summary": "\"لم يستحق ذلك\".. أسطورة ألمانيا ينتقد لاعبي البرتغال بسبب كريستيانو رونالدو يلاكورة",
         "player": "",
         "content_hash": "a726d4caf6f56ef4389ea506f8f86a9f07f263266d9a751e3bfee115153c43a2",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8814,
-        "title": "الفتى الذهبي - بوعدي ينافس ثلاثي برشلونة على جائزة أفضل لاعب شاب في 2026 - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxNbTZHTlYxaW5ZWklUd3MxQk5maGJTbFMyNG12NVVLaVZ3MlNvNmhEcXVRdnhDYng1by1KZ1hlRjFvQnZJUmhaMjQ0WWdwb0JVR0ZVcTVjdmM2dkQ0eWgwbU04V0JfVzY3c2hKcm96c0ZUZzJoeGlOTmg5cTFuOE1JUWRIZHJBdk1VeklrOUx1SUV5UW5WZDVyUUVtSV9mWnRQbEFTVl9sRHAwV0ZZdDcwSlJtdEJFREhtZHY2QVcwaXN2dTZZLVJPTWplQkhUTE5MbkprS3N2S3FxVHc4d3M3S2otQi1GN3JqMm1YaVgxeVVRYmJBWm56SE9obGZ5c0VRcjVhbmdJaGxULWlRZ0pJMUVDc0I0ZWM1QjFVeWxWVmg0cHJBQnJhVEhzMkxnVTlwTzN0dG9HcnlTTEU3QmVnZ1h3MURlV2NmaU4zeGhLRVdLblUyWl83YnhfdmxOUzgyVUEwR2tHTkdnSVRkQzY3VUVJX1M2bVdSWU5iSzU5dDRONDl3Z2dkaTF1SGdpNm51a1NoOVdpTjM2NUFmOG92X0xQX0J1aW5XT2M2dDNNbHluVXN4X3E1dG11cGpMdmdmZGxGOHptNEQxVGpNTm1IOWVWRTAtWTY2M21XVE9wU1E5Wm9GV1cycGxudTNRM0JIdFZPMHRhNzA4RlRSci1hTmRBQV90eXJmUHZNcE9iM0oxYlNTbE1N0gGcBEFVX3lxTE92ZVAxWWxkVUUxWFh3amFsNGRsMzVhb0Vfd01FNlE2SzJOc05maU9mVkR6cTcyR2dVUVBuWlBaU3pud3RjTzBCekp3R3BtM3BzaWZZMlRwS1NxRW1QVmg3YW43VmdUVlhxaVZaT1d3RFZIOU84U3ZFd29aTDRTcnhIeDdfVXowRUJHb1J3dXB3bDVOZWpMcmJzcUVTVk03Zm02alNaaTdBemdTc0RNOS1mOXRDeVNnYTZ3eFVaREJRc29MQzlSZFpVWUhJSFdaRldNaG43OWVybC1sZVB2Mk1PNk1QLW53Ti1LbXFTa3phNXlSbV9admV2eUZ1ZTMxYy1rcm52SWdxcmNQUTRIcFdhZEFpRFpZbEl2Q3FxMlBjNWdJM25jbFlWbmNDbjhsZXVYWVBLb1c1Nzd4Yy1QTjFPazFfMkZxdlozT01ZNG5LUm1XRUV2aUY0dW1hYk9rXzVZRTB5MlhlSkF4RGZZcW1MTmN0ejZUVXdJLVB3cDJjbjdOcFVlb2ZGeS1kbS05TlRRWmZqOEYtRWFBWWVRYUFsZUtsNTg3a3VVYVhLNDQxbkFrdDNzMmc5a0xNMXR4dEV6T1RidldDU2lMcnNxNTVKQmNublFOUUZ3cWFfMU02UDFVcWRWenQ3Z2dLLW9ZS1BIMmV2eHFGOHMtdjk3YlM5UlVBRW5ySlczbTZPb1JLYzhmMC1NckpqTE1Wdw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 16:39:00 GMT",
-        "discovered": "2026-10-05T16:51:09.714576+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الفتى الذهبي - بوعدي ينافس ثلاثي برشلونة على جائزة أفضل لاعب شاب في 2026 FilGoal",
-        "player": "",
-        "content_hash": "4ffa4b7e878f9080da1922f13ee54139455f401119c3af2fa1fbb87e27f1b828",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8810,
-        "title": "منتخب مصر في الميزان بعد فترة توقف ملتهبة (فيديو مع دينا زاهر وعبد الحميد المحمودي) - yallakora.com",
-        "url": "https://news.google.com/rss/articles/CBMiowVBVV95cUxOZ1ZKV0w5U0EzY0oyRjFBTXVENUlQRzNqUEdHVnVxc0tfb0c1VVFWY3ZwZVVGMVhuVDE0SklBekxBbGtNa3NETWlQUXBzN3pmR3BxMXdxazc0VnBUSEpkT2pCTjVKZTB0WDVhelpjVXBDY05CN044MlM2cW9SQWRXSFhtMjN6VFhwaVlFZVZrWFFpZDRWVHVQQWRiTUQwNTZna255UkFQdHdtM0NkQ0lEU0ZrZ0ZhTXVHR0hwLTBGY1MzZlJodkN6bXYwd1I5aTFYNDVjWXRjVFpxdmJVelNYSXFfOEZBN25RNHpCNWVxV29Eb0hnbjdrc1RoSlU5S3NLY2Y3VzdJZHY1YjhfcFgwNGEySGRHbjZMbTFKcnp1Q0E0b3B0aTNiWFF0SGx0NGVJTFVJRlE0Q1Z0OEIyOWYxbG0yYll3NTF3SFRET1Q5Vi1WRnB6SW9qX1hLLVFBRHhEa2l6Rjdhc1BqWEpNZEhGRzA3T2NadGRqLVRPMHBoLXBZQkFRVlB4U085NnlLZlI1VVpIRG01dGFEdXY1a3pHRWMyVkJ4dEt1Qzk4ek4tMXZtS1ZVczZELURteGdBRmpUOEF6RUx6VnFVUGNnalpxbHpZNGwxeEh4a3l1YlItQVViNTAwRmJsOHRJd0stNmZYeU84YTRQQ3M4cFZMdGpzR1ByVU04S0NEN2lVc0hpcHZSbGxBQlQwTUxmcFNlMVVLZG4ydVh1cXdNRGVKR2xVNkxtOHdPckxQLXNWVW9XZndIRWlPaVdDR3ZWc3kyeEQ5aDRHOVBya1NuUHo2b2ZLdFoxR0hUcVdkSXp4ZFhLQTRhbDZVOHNLVktuV1I1YWtBSkIwbkpjbmQ5RkxfMm5NakxpM3VMZmVBOTJ4ZUxrU1NWeTDSAaAFQVVfeXFMTW54UGxONlNjc0xhcGYzYnJrSk5vMGFEbml3MWhNQlR1a3VGWndQZElucFE3clZMN3AxaUFDS3RMZlNQRG9sNjJLaTF0aEFaTFMtNW1iRmlIdXp4UWVOV1Z0VGpSaEZxdjNQM2gzaDVjYXZTR3V4Y2RUV2dIY2lBeWlrbkh6UEpIT1ZsTjE2My1zclhNQzNfVjBXWW9YRFN3NkhfTVFZLXVJcG56cXYwWG82MV9ibWlQQ1hFOUxJcUcwTEN3VGNOWkF3N1BVWHVOajFDOTZybC1kVEtjQkFnM012YjNNc19TVU5aM0NxZmk0ZVNuZ2hGVWVhUHM4QU84Z1QwMlh6YWNlWXZMbTZFam9LVzlqcmluYnJuT3BwS3hsc3VNazcwNHBYcXQ4TXdmSzA3ZHFkMXNKTDVtVVVDZ2pnYUFHY0cwZ2tkbDhPVUJNU2JLLUFSUHRudjVheHRVSzJGREMxNGVPMGZDSDJod0F4ZzJpdEhfQUEwSXUtRFpoWkpZV2VRSUJCbjJaTndibmVQeFR3ZDFoYk0tS3FJd3YyOGhTOUp4eHRjcUVuMmZmVGRWU2YycVYwR0o2cVJDai1NTURvVk1MMTF6Rk5iS2hMcUh1Q3c1TWZxcXhTTkY4YjZWbmhDYlZhaEtjalBRY2RUN1RHVWZ6LTB0MXJSMHNwNzM5ZHctLW9WM2VHV2JzTHI2NDBBQ0ttSVFYNDc1aGl1SE1Va0U0QUlBd2pwWGI5NzFiYkRwellIeDlOOVR3X1Q0UjRkbWNvTEVfQzAwSkhEbS1SQ0RNbmFGWXFLZWNUZmgtc1JLUjJrdFlJdXFyU3p3SmVpOWdTVXhoSlBTT2dsVDJ4aGRSMm9IZFZXdWEwVHVyZm5FSU8wOEFLMTJv?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 16:06:00 GMT",
-        "discovered": "2026-10-05T16:31:45.345877+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "منتخب مصر في الميزان بعد فترة توقف ملتهبة (فيديو مع دينا زاهر وعبد الحميد المحمودي) yallakora.com",
-        "player": "عبد الحميد",
-        "content_hash": "660664cb1bb9d9de644e2ae5d4ab7fea393c00bc74957eb7c02b77c6531dfa8a",
         "sent": 0,
         "section": "sports"
       }
@@ -2120,6 +2104,22 @@
         "summary": "وزير الخارجية الألماني: روسيا لديها طموحات تتجاوز أوكرانيا القدس العربي",
         "player": "",
         "content_hash": "9fb4c87e1f5b152b731db55a0a13fa7968a1d7fe990e5e1753894612c324b77e",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 8958,
+        "title": "واشنطن وطهران… المواجهة في انتظار الانتخابات النصفية - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOaEV4MHRfclo3ZzZ4TTR1QzM1aXF6Z2pFb1d3dmZHdzhqWG9GSmpHajc3VlBlVFpKR2xMOGEydjJFT1diV2FvSWdkWld3eVoyc1RGeUR5WnhRc3J6N25LaW1uN0ZQMmN6TGlCU1Q0RjBBOTM3ZDd4V05Jam1YTGJBbGJsMnRFMVJCYllnNWV0QWtYWnR1ZXlrUzhnNjlPYWpzd0UtbXNoV1ZON1Blc041WTlnbmlKMUI0cjNoWUJENXpENUdQSG1yTUx6VlhfaEJkck1kSGt3eDZuZUdkWlhGUzM1dFk1YU1OV251R1BtdzkxdFMtaEU2LXpEXzVITzljanZpa2ZhN1h5S0FhV1ZJOE5ZWi1aTGp2LXlLZ3pwdWkwYmtCRXBIczBGcXl2eHF0QmtkQnF3SXFzaGhtR2VDQ0xwVlNLZw?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 05 Oct 2026 20:14:50 GMT",
+        "discovered": "2026-10-06T03:38:59.196520+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "واشنطن وطهران… المواجهة في انتظار الانتخابات النصفية القدس العربي",
+        "player": "",
+        "content_hash": "16679b6d926186441bd04d17265464a280395b2dc678cdcbd5e177db3c8c5495",
         "sent": 0,
         "section": "world_arabic"
       },
