@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T08:13:12.449962+00:00",
+  "updated": "2026-10-06T08:33:13.715326+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -549,6 +549,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 9014,
+        "title": "مباراة السعودية والإمارات في نهائي خليجي 27.. الموعد والقنوات الناقلة - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxQZjhSVUVEb0lOVm1YbTIybmJaQXVjcnFURVJvM1ZIZGU2b01fX0xZNF9kdnpoUUpRc0NXZ2JsZmh1bGtweTJUMmpiTEd3MUhKM2ZyNnlQV2RXQ0llQ3dGc3RKcnh0Y2thei14ajRvWl9pMlQ0MDQtQmJYSWNXQlpYUkgtSU9UYkZ1Z1QzOGNoR1ZRQ2kxZWdjZVNjVU5IUDBVZ25vbUdqV2dMNFBCWFhkeFl1VWt6NE5XMFJTOEF2N3BoVTF1YktfemFXblVzSERyMjY4QUNmQVM5VmY0Ulk5aVVNb1hzeWhXTGRrUlNNZ0M5UE1ZaVVCSmcyNTl6SnZyeUU2UW9hMzdWS1ZZS1NJT21yc1k5LVlXMHNHWXpiWG0xbVhENHBBb2JMZWR1Q0F2MkE5SkdxSTNoUXFWV2RFN184dzRrTUc5d0U1MjVRVFZoQ3hqLW94S0lsNTcycHhORElBRlZFZjA1VDFEaTZaMmM0WU9yaUNidmJ4ZlFWRGJYTTk2OFRaSHhLODZuUTVPNWJmVlVlLWZyRTRqRGR5S1U2Rkg4VWRIeG9CQ2NmTHNPRmliLXBtLVNXcHZGV1Z4bEZNeFhfOVJ6SWN0YzVnMUpMMXpfOTVxM3V3NWNoSk1DN0xRTndJbE5qalZ5QmpobTJhMV9tZXZmQWxRWVdiVmluM1l0ZXA0TmtCbVRIYk1kMUg2cEJ2Vkg2XzBVRHRYSkNsNzFsbVVTYV9lNTI3YVhydzhtcXM1QVhN0gHABEFVX3lxTE1jajVyZmd0d2RhdUhYRGl5c2kwS3dNY1QtQ0YxNnB5Y3lJeWxaejRWZi01NTFjSVlQUFhVdzRBb1hBOWZoamx2YkdqRHA2aVp2XzA3Vy13SmJWQmJIaUdhMEwzSlRBVDROX0F1NHFWOTdZeHlqNWpwY0hQbDhvN0lpWG1PeGFzR3duWWpkWF84UGJUYkc2OEc3WGVqS28tSGlHYUZMVGs5WXN1cVJxbnJVUlN3czYyUTEtZ3BTZVRnXzBIV3BwYzl5cXJrZ3o0NWVRWm55eTZtcEZvUnNhbWlYRkR3bUdVQnZFdlluU0tzRXRWakh0Y18xYkNRUnVrNXV0Qm5aSWRWSjVRR21WT1pja2ZEb0tZWEItS2FnM0pweUpIbGcwMjM3cVFEYUdVcVFCYXJ4RHdld3lWSzhuMFdzUkpPOEk5YW9GZE5waWRodlJEdGRwM3BCR0o4U1ktQnFQajVRUUhMcUlxVFcxNU5FdVRBT1piTXFKeHNISGNObjM0MTJPYlV2MmFVSVE2bVVZOXVtdWdHaEJCcUlBbVVBT0lxTHByYU9xQ2NQNjJtZFFuc1VCZUphQ0ZsRV9jNmRLWmZNTGZEa3l1ZnY2QWUwQUM5OGFENVdzQmtCRTIxLVZFVGRta29RcUQ0SklPUndiZEdVUHFWaE1CV3dQXzNPSE13eG0tNGNPeFV0UVkycFNKZmNPU0poRUxfMXBCT3NKSlhfWHZmN0lLemkzeWVUZjB2UGN4MGhodnZnMjI0NQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 08:24:00 GMT",
+        "discovered": "2026-10-06T08:32:59.032686+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباراة السعودية والإمارات في نهائي خليجي 27.. الموعد والقنوات الناقلة يلاكورة",
+        "player": "",
+        "content_hash": "e33df04515390759bbf49526ba5c7f6bc87445fe0ddb9c0c3a5a2c29575f7816",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9012,
         "title": "مواعيد مباريات الثلاثاء 6 أكتوبر - نهائي حليجي 26.. وإسبانيا ضد كرواتيا - FilGoal",
@@ -1330,22 +1346,6 @@
         "summary": "مباشر دوري الأمم الأوروبي - فرنسا (0)-(0) بلجيكا.. جوووول أول FilGoal",
         "player": "",
         "content_hash": "38991bc8753c1e2972254a711f4c774239c873529002bca36cf574a663679438",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 8844,
-        "title": "آخر من حملوا الكأس… ماذا يفعل أبطال «خليجي 16»؟ - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxQZ2FBZWJHRUxMNVhlWm1YNWxzMXhya2ZnWVpNTUJXc0YyWWhSS2I0bEVlSEUxemd1S3E3TmhqOXdSRmVzZmZKcXAyZ0JRckhvdC10REd3OGNUR2s2M1ZlZWFyM0tiOXp4UjR0Q0Z3RzI5SERPbjBsZVV1bUUwdjMyaUpMelFCSi16NVpIekw0TUZOdnRVLWxwY3JPck5zQm9tbklndmNlbUdFQk1YUVJ2X203bVBncmJjN25SaTBISU1Qaml5YlktaGZZZ2JQdmhTdlJTVFRfMGw0WXVzZzhRaUlPT2VfWDhMM0Z1bm5uUnBuMEREMHdMaTVDOU9yYUpsWWFPbURpOFlKQm5xLXFmcEhOeGdUekNXQ280eHNGNzdtWWp0RjZBRVdpdjFXaXJGRGItc3pha3VOYTBDRDlabjBldmdqdjlZS0NNSVlPcGtNaWVGMzZMZjF5LTVkdjFfTkpLVlpxZl8xd2tDV09FaEl2dnVPNF82cXE5Wm9YT243M2tna2FGaWVHZW1abXlGT1JzTVdFWVcyZ3R5YkFxRDJVQ2llbm5VYUVkbjhTTElOUzVneThRRXBxUndaQ0MtanNNVDlkdDRpWTZDdF9VOTF4SDlyeXpPdlh5OHFIQ19DSVBzZEppME14UUZrN1VqM1NwN1RXblpZdGJjX1E?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 18:36:36 GMT",
-        "discovered": "2026-10-05T18:53:26.715143+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "آخر من حملوا الكأس… ماذا يفعل أبطال «خليجي 16»؟ الشرق الأوسط",
-        "player": "",
-        "content_hash": "ed0cdda8c65a88f97c39ef9a5a1617f6569872d439466a40e0d84e4310eac9e2",
         "sent": 0,
         "section": "sports"
       }
