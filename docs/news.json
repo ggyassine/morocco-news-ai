@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T05:50:03.755139+00:00",
+  "updated": "2026-10-06T06:02:04.572332+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -610,6 +610,22 @@
         "summary": "فرنسا تقلب الطاولة على بلجيكا وتخطف أول فوز لزيدان على أرضه سكاي نيوز عربية",
         "player": "",
         "content_hash": "e84575125f4b266e85d4e524023100109e020d49e4c78558c21a4c4e07ba2319",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 8989,
+        "title": "جدول مباريات اليوم - 6 أكتوبر 2026 - بطولة كأس السوبر الإفريقي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxONkNPWG9XYnVlODdZSXBsZjY5cHZobGFfX3QxdEpKWHNnby1rTzV5UVVrNzZzbFRyNTBBVmtBTHpLTl91cVZjQzQ3QmdCQXdFRWdTTVlwd0ZiV2FtcjhtMllubkFIVmt0RnBsZ1RGSk5RVzZHeTh3WHVySzEzRHlsekpVZmRxaEczYzk1UUUxVUFDb2Q2YWhzMU45T3dwSGZVWFU0b3RGM2U2N1p5MG1nU3I1THpzcjVjRDdta0ZqQmJTaExPUnVXSGJRU3ExdURDT0t3TFB0VGNwakUyS3J5ZWZtWW9IOXBTc2hoaG9KQmpHdkdIb1lFdUIydk14WGRUSWhpZmwzakQtdnZ6LTVXclgzcXBlSmRCeW4yWA?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 00:00:19 GMT",
+        "discovered": "2026-10-06T06:01:44.293566+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 6 أكتوبر 2026 - بطولة كأس السوبر الإفريقي FilGoal",
+        "player": "",
+        "content_hash": "0beb76cb5dd2ae25134f54bfa0772b02a28556cd638ba83f9e9ab7f2120e6a75",
         "sent": 0,
         "section": "sports"
       },
@@ -1316,22 +1332,6 @@
         "content_hash": "2761f2dedf302447354561281e9e5d46a419a3d0af171e7de656aabeb9814bf9",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 8904,
-        "title": "كرة يد - سيدات الأهلي ينتصرن على مازيمبي في بطولة إفريقيا للأندية - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZdk9ha1htUnlCX2p6SjlSUnR2ak5TUlZ4cUJrLWNHc0YxMUZUWUtNNDdlSVc2c2Zqc1pTZFBzWUthbEZWc0o4dy1yMDFTS1Y50gGMBEFVX3lxTE9abm8yMEI1T1JkaFpxNHA3NjkxdUNySElOQjlYWHlyNVpyWGlQSFhEdk50d3BGT2QzRHVaVlFUN1NrUVE4LWMtWTk3bHZsaHY3TmhEWUUzMmNFZzFxOXlHN0xIVVVxMUlBVkx4dXNKMEVGMnFIX2N3cnQxaGhUOGxuYTFsLXZsR2lxbkVHVWVGUXlUVUhVbTg1TG5FSFFqRExaMHhfLWtjcGlyRlVNVkctVk41RFREN25YSFJIZFdMQ0ZSaFpZR1ZjRWx3VWd3czVwRkk3Z3pZeEdjMVJIcFIxYVF5QTRuc3otV1Q2dEtjeWhMOE5mRnBzZ1l2WEFHaEg4eFVKc2xUSFpscjR3N2NNMjc0cXljSm0wQnB0dDh5Z3ZUS2E1TklmdnE0MW9WY0F5SVdkN1BRRzhLRmN5QUxuODZ3WjBJWWQzQzdrbjNhTk9KYmNveVdYNDVJN00tR0dENjgtYk5sNVJndmxBUDEtNzBMT3JxXzhoQzBoclV4U1B5LUFTYVlzYUVPNXRiVHkxcENoaXA1a1BSaW5Na3hFbm9ORnF0S3lHSjFEQU83V0U0Y1l2TlE1OWhCWUowcmJWeVlzQ2MwSlJYVVRKUE0zeklnMGFGLU9zTlJxOTdnQXRwbzdEVWJlazZDWEdXVEh6Zk91cWlReHEyMjVRTVBCOVF6X0hQaEpuWTQ3?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 17:06:00 GMT",
-        "discovered": "2026-10-05T23:32:52.770393+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كرة يد - سيدات الأهلي ينتصرن على مازيمبي في بطولة إفريقيا للأندية FilGoal",
-        "player": "",
-        "content_hash": "bdaa029d358e34d219a97df69fa579a1aa235d357b8b852dba40d5e2386e5a25",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1348,6 +1348,22 @@
         "summary": "كوبا وأمريكا تحافظان على قنوات اتصال دون إجراء مفاوضات القدس العربي",
         "player": "",
         "content_hash": "c153ff3753881dda50e560f7e2c2be1f99effdabed99ff71729d66d80def1738",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 8987,
+        "title": "وكالة المغرب العربي للأنباء تقدم تجربة رقمية جديدة على موقعيها الإخباريين \"mapexpress\" و\"mapnews\" - | MapNews",
+        "url": "https://news.google.com/rss/articles/CBMi_ARBVV95cUxNdTJLX29DbTZZRUYwOEsxWWxUVmduZm83eU5zcmMxdFBxRlFQQnR4Q3BkSXM1Q1Y3NzFvR1ZINkZuN21fZEZtblpNYzU2X0Fnb204ZkVYYmdpYUw4MDhJTFlEUERsYURtOHJTTnBjLVlJZW10anB3d2lmUGZjWFZMUjUwakQzcHNJTkZuVVdtWEJiVUljT0ZyakJvQlFTN25DN2h2MFQyd1RxV1BGUnZ1UDdWbXV6bV9hWFpFSFZPYVAzc1A0TlBmeDBYdDZaWVZUWUtwWlJXalAzQzF3SXMyN3VHcV9iNG9qczROVU9pdUtYRjZRRjhKYzVFSzR3ekFqUXNRcTRKMVlvTmxOeTREZ2RGS0NBT2hpQTY0QmdBa1VCeHZ5V3liNkNXRzZNWEVFNlhaVjVHWjZnRGxLcVF3QlFkRUdJV3FFcWlIYXdwNHFpSUZuTWhUUmlhQ1RnaGVTU0g0c3l1a2lXRUROcE01QnI1bVJJZUFMN3EwWmh6SjU3UnN0WTl0TzYtV2dhcU5VOGZfVlhqQURraVlFbmZxSjc2TjNFRWl3OG9zQlRsYWZXdFhYWGV0TzgxUkpUWjUzVk0zVmh1ZEJHN1I0MmZWQUlta2YybWd2OGliT0hRZE4zMS04Sk5OdHV1U25Hb0Iyc3BwNk9GTml0SC1kVjZVZ2JDSVB3ekk5RjlmSTJZcDd0WDFGOWFaNDZMZmlzci02M3ZGVC1kbkVlZjBMckJDVm1wZS1iRGlYNUR4RGY2SkFpMmt1cFo2VmhaOEFBMUxfdHFYb25DNFpnVVhqZVRCcTh3RlZ2ZFdKWmlzaW5YOUVMLTk1dG1IeVk1UVU?oc=5",
+        "source": "MAP عربي",
+        "trust": "A",
+        "published": "Mon, 05 Oct 2026 21:59:41 GMT",
+        "discovered": "2026-10-06T06:01:26.122012+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "وكالة المغرب العربي للأنباء تقدم تجربة رقمية جديدة على موقعيها الإخباريين \"mapexpress\" و\"mapnews\" | MapNews",
+        "player": "",
+        "content_hash": "4690a4dd682c8521bc44f83206297baaf61be69bf9ced719351520a5b438e274",
         "sent": 0,
         "section": "transfers"
       },
@@ -1784,6 +1800,22 @@
         "section": "transfers"
       },
       {
+        "id": 8990,
+        "title": "اليمن.. الانتقالي الجنوبي يعلن إقامة \"مليونية\" في عدن - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOM2thQ2xYbGE4YzNSc1ZGbU8tVC1QTzRzblZvcWs2YWo0Nm9YZnpNYTFjeFRvTVA0TmJucXFRZ0ZpYXl4MjVXcFBwdzZuWnhjbDZRVmZWYjNtX29hVFc2WHZqVXVKa1BHTjk1Ylp0T0k3VTV5OU5QaE9pWW10aVZMRUF6clpRQW5GY3pNeDIyb1BFdG53cG9NQTNqNTAwZGpPdEZ0MWZKSFFRZEExdjJSd213Zk5PSUNsU3c3aFctWmRrQVpWWmF6Nlo3dEM4SjFMWmlmNjJCTDF1cWFnTzBoQlhkSXlZZHQ0TEtvcy1zN3hsSEVsVlgzM3RJTTdtckVsN1E1bk55dERKU2E0c0xaeUFveUNHR0d3dW1OQ09ZYU5oMmlXNXcwTWNFMVo3UjJFekk1LU9pNlh5dWRTR0t0eEttdHRJdjJFa2J6NzVxeGdtXzRYV3ZvMF82TVpBMmt6VnBSWEQwdkp4bTFrUHpjZ1M5bXVqUnNOdHczMWx4VGR1VXJFaC1aVG9seU1PTDhoel8zMnloVDdoc3k3TWlYVWF1Zmp0QWfSAawDQVVfeXFMTnhfaXpLcGVsZkpGckNPS0tZWnA5aEVVTkRHNzhoS0FSSk53a0x6Y2hrRGctOGpER2pZWjhFVHBGODJLcWJGNTk1ZVVZcTFFdllveGJ1dnRZaG9VNXVxa215d3dDX3N0c1NZVm5wWE41R3VGVmtRRjhzM2kyV2Nva2tyTG9VX0hNLXBBTWMtbmI2VmRtZW4xbTJMZTBQcGRMbTZNSFg0NGUwZVN2V21HbW1lOW1RVlpLVW50ZEdaR0RNbEtEb0lHTHVuRHp2Q3lGdDJUMkdjLVk1UmR1TUlSbDl4LTNWQTBKMzZ6ZmxaYkQ5OTEzT3Z3V0lsRkFJOVpqOFhzM2RqTTAyZTRtQVNGVmxkajRpcTVKQkxzSVdBeHpPVG82NVl2T2hiVEdaUXpvOFkxNFhXUHp1d1pzT1RsUVhjYW1IblpQNWlpVlJEMDVSZU5NdUxxaWxLQ1BwTFNjempYY3RkR2d2STBuR1lHTGxZT2lHajYyckVYQlc1NlVhRkpkX0E5MkltcUItZWtTcDVoZDVFWDNWb1NQTFpiX1JCUmkySWVSZDhjVUg?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Sun, 04 Oct 2026 15:09:47 GMT",
+        "discovered": "2026-10-06T06:01:54.378567+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "الانتقالي الجنوبي يعلن إقامة \"مليونية\" في عدن سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "284984569d76c8b808c0f37a0c1b52f39b6cacdfe238860386d8397f35f06513",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 8754,
         "title": "فيديو: \"الدماء سالت من جبينه\".. فوزي لقجع يتعرض لإصابة بالغة - Kooora",
         "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxPTVVyUy03elFwZnRIWjZ4bUk3T1UwVVltdFUwN2ZVWmd5cjE2V0w5T1IwNzBWcjdGck83WW1md3dUdllLVnF4eWNWUVZpY3VNbTBscmttcFpUbWNkVllsVGU4WTh1eWRTUWRWX295YktFX010eGNaX0NFMGN5MjFOU3hOeXJOd3BTdWxQVElRRDVOdVVyc1d2RGRxTDVVeTVPZEp6RDZMRzVpRkxuR0lQUmRyQ1NCczJYSFJIMnJDSEtPTjhUbGxzS0gxS2J2bnRzQzlFXzBwTlg2bEZTNHdwOGdEOXFDRktJaGJEVjBaUDROaEVjS2FVU1lDSkNvODY5dDQ2dmgtVklXRDIxMXN3djdQTzhqNEZLMFdvTGhhUnVFMEJ6bk95dW1NTFhjaW1hbmptbkx5WGdrOGNpd1E3dVRMVzlEdjYyMnJobWE2eHZ2cEJsd1ZTTDZWLUdTNEhGZXFUbEc0TDUtbF8tbEp2dVZtbVhhU19rRTJ3N3FiUG9pTTRpN3NuUjFjV0c2NHF6SkRFNjhKQ3hxaXNIbHBScnZiQ0lhbVVQbnc0aWw3ZVQtWGdCTUFnUXRwR2NtQ1pOT3NsQnZvSV95RUNuRzFrTDhuR3Y3ay04ckNHTVlCT2tweTFvM1h0REY5a2NRLWRBYTI3Y21IUUFudXlGbVJEY281MWhfRHNkUTBFWHZ0ZnhXRlhjT3owLXZFUGZEdTFWaFhQS0RxcDY1ZmhRSkFvSVZxYmFqY2tm?oc=5",
@@ -2038,22 +2070,6 @@
         "summary": "وكيل وزارة الصحة: فيروس الإنفلونزا الموسمية السبب الأول في تنويم المواليد بالمستشفى العربية",
         "player": "",
         "content_hash": "d70a21bc05f784b9223684837319a21d04544c3ef278e6f8fce7c245fc7c0c5a",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 8798,
-        "title": "رياض راني.. تعرف على الشاب الذي يقود حراك الثانويات الفرنسية - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNNFNTYkRVX1ZUajBUWS1XcEV0OWVjeE1JSEdHNDBjY2FDLUp0R3NFZEE0b3FhTG5aWnhQWEZSUVV3VHVnY1JDc2hGN3ZnVTk5SG01X2R4enl4TnloaG9tU2tVTHBOVEY3MDlPMGEyMFg5ZHhDV2RMOFpRQ0Z4emVqTUJrcXN3dmFpeEQwSkFpN2xiTEthaEpfTU1SY2gyVGd2N29WdFJTMkJrYkFfOTZTS2hQM2UtbDQzbXhuN3hkMWpua2xxYnFvRGxNRzA1WkNBc19OS1hIcTROelhsYzNNV0lJVmlIZUdZVEpFOFc5eS1ORmFCdldyVGFIUnJjMDRXdHJHaGhPSzRsaERmSzhlWWRZb1poMEY3RDlpVE10V1R4c0Z5NnoxYnVMZFZEcUR3SjFz?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Sun, 04 Oct 2026 09:24:05 GMT",
-        "discovered": "2026-10-05T15:56:47.332541+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "رياض راني.. تعرف على الشاب الذي يقود حراك الثانويات الفرنسية الجزيرة نت",
-        "player": "رياض",
-        "content_hash": "ba52edae0bcae87613fd2311177749c25fb534419ef9b994b826067cbdf6e08e",
         "sent": 0,
         "section": "middle_east"
       }
@@ -2392,22 +2408,6 @@
         "summary": "لجنة الانتخابات الإسرائيلية تغرم نتنياهو لاستخدامه الجنود في الدعاية القدس العربي",
         "player": "",
         "content_hash": "379ee10eced08bbdef12a6f0973dc3aa61bec2c0b6d5944917217ea056e775d5",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 8560,
-        "title": "البرازيليون يصوتون في الجولة الأولى من الانتخابات الرئاسية وسط سباق محموم بين لولا دا سيلفا وفلافيو بولسونارو - France 24",
-        "url": "https://news.google.com/rss/articles/CBMi3AVBVV95cUxOTHVLVHBJUVpLRkF5TGU0ZVk5Q0hUZnQ0cC1lV0FGOHRqT3l4ZkRnWmtCaG4wcUtqWHJfRG9scldFZ2hCSllmYl9FNkUwQ1E4MnZNdFdkNzFxOWd2SXFxUmhWSnVtYTlWMVRTN21HUmVqcTRMU3R5X0dLMW5BTFZSaXRfVnZLdWNkV09TYl8zOGpnVHBJTmdKZTFJS3M4LTVibFNGOVRFWEE5TzVwSVdnS3ZZSXRtYkwzWjJULWt4aG9FSWdNcHlWaF9wUE0teFJjWVFMT3BvMDV1OHVqcGJ4dDNEaVBlSGsyMkZadk9XU2IyTEJPMVZpel8xNVF5TXhKdFRDOHdBZlc5LXJrNWNrdXZIMEtOa1EybGJpdmc0bkZiNF9VZDVzZzNWX2llX09tLV9abWhvZVNPX1d2QWF5U1ZPNEc4QWpnc1pSUWN6eEFVUXlxeXF2MEhVeF82YlhRS1lubzRrak5WSEE3TkxaNXFUenkxRmItOHBOY1BlcHF5NGZDWFItVXdZM2Q2S28tdnZGV0RnVUlxZUVzYzZPVm5PTFNRdWJFdm9qZFEtZUYzSGt3V04yR0NKU29pTXJLa0VNVG1GMnp0ckNUNnpyTHZ6WVZ6X09QLVhwQ054dnNaWHhaSjJzaVl0cTRGdHJ3WU5pMmR0clloN21lSjFXTEVFNzktaVNYbmdSeTZLTjN6T3o5UllCajAzMU9JdzB5T2E3cy1MYlQ5MkR2TXFaRE5HQVRZc1V4QXFiUEE5WnNDNHlMR0ZrblB6NmduNklVNHRsajBTNXN3X3dQTG1qX0R3ZTM1ejNHdElFOTVfOVFEZlBXS010RWt4TmhjVGZWd3VkYzVUd3gzcTF6SkE1MHhWR2Z1eTA2aGJ1WkFYTEUyNEVNNFBid2ZCSWJ6Ukd1RVZwMEljUDhfVE1ZZDFOZlNMUmR5RTdyRXM2YkNUbm44YWhoQTdqNzZpa3o?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Sun, 04 Oct 2026 06:16:55 GMT",
-        "discovered": "2026-10-04T21:11:55.640636+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "البرازيليون يصوتون في الجولة الأولى من الانتخابات الرئاسية وسط سباق محموم بين لولا دا سيلفا وفلافيو بولسونارو France 24",
-        "player": "",
-        "content_hash": "37ff18f16577e13f7ec6dd8756ec5a02a6bb54c5b813c11cb94bfa117de1e749",
         "sent": 0,
         "section": "world_arabic"
       }
