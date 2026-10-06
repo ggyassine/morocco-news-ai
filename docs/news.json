@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-06T19:20:44.084831+00:00",
+  "updated": "2026-10-06T19:36:58.983825+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 9206,
+        "title": "الصندوق المغربي للتقاعد يصرف معاشات المتقاعدين الجدد لقطاع التربية والتعليم - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uSnFNV1JZVnU3SS02LTQtNHBnT29leE05YkdGWkYzQmZpcjN4SGxteUx2dVQxUTRfM1dKTGxjTWtKUVpEam5OSw?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 19:31:15 GMT",
+        "discovered": "2026-10-06T19:36:32.726267+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الصندوق المغربي للتقاعد يصرف معاشات المتقاعدين الجدد لقطاع التربية والتعليم Febrayer",
+        "player": "",
+        "content_hash": "9fc3d205a99136dd16cfb5459215eeac3dad1a790284fba075efeb59f3babda0",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 9189,
         "title": "من تركيا للمغرب ووصولا للبرازيل.. \"كود\" جات تفاصيل حصرية على كيفاش تفضحات شبكة تزوير الباسبورات والبيرميات ورخص الإقامة وأغلب أفرادها هربانين ولابيجي ففاس عرفاتهم - كود: جريدة إلكترونية مغربية شاملة. - كود",
@@ -549,6 +565,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 9207,
+        "title": "أخبار و معلومات اللاعب ياك ديوري مدافع العهد winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUEVqQlBYMmVqX2hlOXhsSWdGZWxnLUxIVmJ3Qm5tZkFJSVRyQlE3M0tqTXZzTk1uLUZKMkNDYjdCQmZYSE9URjFkNnhnbHpWUUtST3hvSEFQN29POVhSWkF2NDhtQUxvczRsY01TclluQzRhb2ZEZjBhczI5cFpfUGZwODE0dzFnR3FNZVFGMHlhUlBuNzhNN1BJWUFNVmFUZko0SUEyVkp0Mm5aQV83QU1CTHBxOHNGVU0tZHl1dEY2UG5tV3pPR0lHc3dQR1ljVVBJVExHck5QT004aTluemI5a1R4bjZlUVMtQzBKdTQ?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 19:34:19 GMT",
+        "discovered": "2026-10-06T19:36:40.213610+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب ياك ديوري مدافع العهد winwin winwin.com",
+        "player": "",
+        "content_hash": "f397420d71ede8e66422af617f9fe0dc18ce860ea1313d69fdc4926d8667f36c",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9198,
         "title": "أخبار و معلومات اللاعب حمزة بوبكر مهاجم الاتحاد الرياضي ببنقردان winwin - winwin.com",
@@ -1302,6 +1334,22 @@
         "section": "sports"
       },
       {
+        "id": 9209,
+        "title": "وائل رياض: خضنا 4 نهائيات إفريقية.. وأتمنى عودة الجماهير للملاعب لدعم المنتخبات - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxNLURaRXB3TnRBZXFwOUE5cmxLbFJSdlZ6aWk2MHd6eVJCbHlPY3BPLVhVY0hBMHhUVGdCUmwySFRXTVdWQV85eU1NckJQOHZ2aTJDN0RENk8xUDlHM2pEVTNUV3QxbHBkbGpvOTZqVEo4ZEpteFdDYWdQTXBnNmhnVlplS1VEQTdzeXlWaGp0dXo0WnBZdUtuMFhmWV9HemR1cU9UZUpRa1FzTDJLYTlpSHZzLXNhMjdRdTBOQTZmWExPaDlNY2ZlVmVVRThFdzJhLWUwU1c0aThYbUVCVzhJaHJmWmRabGk5eXFnMzZsZGZhX2FNYjN0X213Q1lhd19lMXRfRElJaktpSFdqcTRZc1hRbnQtWnoxa3dWWkxWaTdSUlUxNWxYWFRzVGg1azAxekZwRF9kb1hld0R2YVR2TElGZllWcWJ1cTZsOFhEQnluVWZwQVp4Sm5MSnBmM3ZKYTNNTkxjWlhlZGowRG9FVEd1eDVzSUVuQ2lmeUlSUGJURTRiaXFCVjJ1dFpqaFh4eUtTX1VFdVJBRUxILXdjcXdQRkpmcWx3QXZIWF9henNackxXV1JIeUFnRXNUTVdnU0lLd1EwV090RmdGa1lGX2gwSWp3NzI3Y3g4dnVXUUV5c2Y5TlFFc3hZTGlqV2FrNU96UUxvdlRDcV9PeTFRUDBvQ2JmVVpTZVBrYlBKM0ZBdGVfNTB2akNPb0NJNmZ4WXpUcDdCdmZBWmN4QXBydXh5TzRJYTk0V2M4LXFRTkwybDJ0bVBCSVU5SXRObE01eE9MTjdoeldGTEUyamd1Szh30gHnBEFVX3lxTFBQWDR1SGk5MEQtTXNCai1ENC0zc3dSaFJQN2QzYXl3S05nMEVXWk1LZWxVY1hzbHBoZi05Y29XRHc1MlVreGNWQ0tpN3J5Vk16ODdpZkt1U0FqT0lmS0duWXBiOGQ4ZkdYWllRcVhETnRfcVJkQ2hWQ2o2TlFJYTV2VE5KR0dyMTg2ZjAtTTNqZ2p3RUFxUUVMbS1oaldjM0FhSExGeDBhT0s2TExHN1JEWFNZVG9HRUVKOUxkSXdyNWFQdkF0clM4Y3RmSXdrQjFkY2piZ09JOFBfOWs4RlFaR1hqQUlYUU16elk2SHF6b2k5SXNpMDVWRUNNZmVOQ1hLX0JTQjlzQUdGRS03WXQwQ1B4cmVHQkNLblVydjQ1ODVVMWQzQ0hCUmZFU29kajNFbjFGWUdBM0ZtbTdnQ2dqbzJUdGZxVHF3VWtUa2NkY3pmcVpNLTRMMXZsM1FyU0JnYl9VTTBZdlB1UEF4V2UxQ0dxQzdfYkJzRlFha3BfbmRPdkI2N01ocTVtNjVvczl0b0RHZUFTWjhGSTROMXhpMzJDNjNXcU9acklXSEpGZkJ3LUtPaXYwaXdyb1BzU3J3ekpBY00wZGZ5cjdBaWtvYXhQN0tHV3FubkRoMUdMQ2w1Z01sOFNnOERJWWRQODk4Y19aLUNnWFhyT0otWGoyN19zNFRvaDBCSXlocTlxbzItaHZ3dklDdTVrVTRvUUN2LTQ4ZW1QRzB2MTZaOExVTzZTUzdEVjBsOFRmd3hGeDA4WGo5YkQ0a1NLaFU2R04yd0lYUU9jbVRYQ1RsbVU4YlF6cE9iYw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 15:48:00 GMT",
+        "discovered": "2026-10-06T19:36:41.711745+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "وائل رياض: خضنا 4 نهائيات إفريقية.. وأتمنى عودة الجماهير للملاعب لدعم المنتخبات FilGoal",
+        "player": "رياض",
+        "content_hash": "6824ef604e02993a048ed91858282d029e992eddaf1ca8569bb6d8d7c189d369",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9147,
         "title": "فيديو: مصر تتوج بطولة شمال أفريقيا للشباب بعد تعثر المغرب - Kooora",
         "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxPSXEyTXpTeG9QcEV1anZzS1RORTlfT245VTlqVVRjWTZmLW1ic2tnWjR3SWx6OXBkYkJMM3Ztczd2amNxX1dNSVNUX3gzWlhfUXVWNnl1Mzd0aEdtR2EzMkJFS0s1YV9GMHBUM3BCRmllMUxwNnRyYVhLbVZyMkVtdXRIS09sdURZbEY3RUtibDdOMXU3VXc2MG9VeFE0Y0FlLVp6dFRERnN2dXF4eUxoX084Zk80T2dpTnNaWS1hblZKYUl3SmprYWlqbVJrRms3UkRXX3ZfN3RWOTAwSHdnM3ltQWVKd3J0OVFxa01BSVNKWTNodEd3aWg1V1A1SUdYRmRGVVp3cVZ4LU1CMUJ3MWE4MmJSMFZPNTRCWk94QUpUdUdjaWI1Nk45M1J6RW1iSFBGRDhKZHZIODRvMEZpNk51UDRVYUowdjBqc3dFazBGVl9UelptWVhjek1ZaE9Ma1ZKY3dkLU9HSzlPdmctbHNkUmwwMjBiT2VUeU9ROXA4VWU1VzN0SWxyd3AwS0pBOW9SNGEtS1ZOODVVLS15Q1ZWcVlZUlBqc0tDNlZuWmRJUnplcWw5R0s4R0JBMUZDVlZfLWdZaGkwTC1IRFF6a0JLbXJWRlZ6M01uS1dtSUNmWUxYRC1fdEloRjRnU0FQX3M5N29udDc3bkZiMm43dS1EX0FCV3JCRF9uYXlnNmlUMGdiUDFpX081X0lsUzMtX3RGSWRjRjVzX2gzTWV6ZU9MYnlQRVJ3ai1FLWhvYzBrdTMxTDhFUnZITWRaZw?oc=5",
@@ -1314,38 +1362,6 @@
         "summary": "فيديو: مصر تتوج بطولة شمال أفريقيا للشباب بعد تعثر المغرب Kooora",
         "player": "",
         "content_hash": "7db920c84997d218fee18ab5109c83ac781c907db5deba385beaf954440fded8",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9122,
-        "title": "مواعيد مباريات الثلاثاء 6 أكتوبر - نهائي خليجي 26.. وإسبانيا ضد كرواتيا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1ZFJQMGQzM0VvclVldXR3aHJZSGRBUnUtSU03R0EybmxaVlJscW01MG9oWkZoTF9VMWNKLXA2T3lVcFNncTM0UVJDcEI2RE5P0gGYBEFVX3lxTE9IRVd1M3lqSkx5TWdGc194elpfdzN4dExSV3otdWliZjUyZlV5UE1tQXVTZGppclRIaGtrcm8zT2g3aGJITG11M2NGZWVWaU5jdXRUYzJ5a0xJajJMeUtzTkd5bjFyY0JoVjBiSWFFUjA5SHVTOVpiZm5XdjBydE5EUHFVQm1YQk5Yb0l2ZFdGWjAyZEtGM1NKVlRidFQ3Y1p0YmMySzlDbW15QTNVSmhRdmNCTUFiYWNGSk1VRE1JeDBpLW1kWVdnZ2htWW1iVnh1QXJrMmo4eW5kMGgwcnNoVEN2aXczRFpPaDBDaUJyODJOYlpudlFBd053bEE0OGQyYjBtTThJNndUdEVWY2xzOElmNmtxZnIya1hKbFhJZHU5V0wzMS1Sd3BMRTdiTVlEc1VEMkQ0T0NWMmpxVzYxUTNHNEdETzk5ajA5TmtnMV94akx6d1I2RTBJZ25QT0QtWGViMW1Sb095UVdBZ1VUX254dU5VTVVQWjJydmJGSXZabGNDelNSRmR3YUcta2toRHFEM2NzUjN2OEpmTnJOcTR1eldlLVV4dDNnOEtVb0dLY0dBYl9UaEJENzM0cURybHZmSjI3cVRRWV9RTzFfVWpxYkVyZjF6eFRzU21tQnFtUG5mMVhQQjZhV2JGeUtNd09sYzVfcnQzQW5HUS04SVRMRDN5VXFxQ2dfamE0d2lPNVNjd1pH?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 15:28:07 GMT",
-        "discovered": "2026-10-06T15:45:15.416630+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مواعيد مباريات الثلاثاء 6 أكتوبر - نهائي خليجي 26.. وإسبانيا ضد كرواتيا FilGoal",
-        "player": "",
-        "content_hash": "bb8bd91f6af302e75770df911e7e482dee438b2a59d74ee8e0a322f0bd00b7d3",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9125,
-        "title": "أخبار | للمرة الرابعة.. منتخب مصر يتوج بلقب شمال إفريقيا للشباب ويحسم بطاقة التأهل القارية - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiggVBVV95cUxQU0Z6OERkNUYzQUFHVk9RZU1OSWZxcThPSUltc1lrNDZVNlFGXzdIbGg2QUZwYU9VVmhWRjB3c3JxZXY1eGlpQmRYa1Nac0thWEYtcUh4UFo3bXBtOHNXUklXV3JKMmF6bFk5ZThfZ2Z6RjNKc0xfeGVLR0x5UjBFbHdsNzZkSTBJTk5ZampYVnhEUWhFeTE0eG44YkhNbmNhTml3d2E3UnV6eU1ZelRpQnVNbGZ6c0tLWFBmbUdBc1ZjcnJGMjM2NkE1UEhWdnB4aGI3YTJNMjgtV2JxQmRIZTV6SU1DWjdsM1BFdW14bHdWd2c5bVRTdlFRQ3A0UnlpQzRkNm5vUmU1MmItdDZ3VDFSMWJtVVliTWp2WkdCcl9EZnltakRZTExBVzl5SGx2d2NnRjBoU2ZxUFRwTTlsV3ZLdEx5b0ZyczJLcWEyRUVTaGJBSEVSdWZCdTAyeWFqV25TeEtld1BTSVlha21tTDBQeEExUzl2SFhqNzE2LXU1TnhFUnVydHE3cGZKUHVjSlFlWUxaRS1TLWhUM0NFVTg3aTJwb1VaNnZmNnE2UWdlRWttS0Q0TzhLTU10SGNycmVnRFpFbDNjRUdLNUI2Z2NQMXFjU0hHZERQeVVNSkNIZnNJcEg4SlFzN2N2bkxoajF2Wkx0U2d1UlAzcWx4SVJCT2U4NUhMZTNoeldRNFN2Y1FPZ0lCM2tWMFg4RE1LUXVRdHdiZnJzM24yMjU3eDNxNVBleDdHR21QWGg2MnF3OWFkOW5XNTRhRGpPamVySlQ2QWZpOURZOGx5RGlvX2Y1a2Q2U0FVa3luZ1d0aEwxVWpQS29zbi1UVExWMXNtQlE?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 15:28:00 GMT",
-        "discovered": "2026-10-06T15:59:47.244034+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار | للمرة الرابعة.. منتخب مصر يتوج بلقب شمال إفريقيا للشباب ويحسم بطاقة التأهل القارية FilGoal",
-        "player": "",
-        "content_hash": "0bbcfef29ed97dcc47f33d7a1fe588699d8e2ab80c322db61ad6a44a2ea79e3c",
         "sent": 0,
         "section": "sports"
       }
@@ -2392,22 +2408,6 @@
         "summary": "اجتماع للجان \"اتفاقية مكة\" في الرياض اليوم، والقوات اليمنية تنفّذ 1,122 عملية ضد الحوثيين BBC",
         "player": "رياض",
         "content_hash": "270922ab0d7787f54a16decd62030bb6a2c2feb4adeb5dd10637fcfbead77826",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 8746,
-        "title": "تعزيزات أميركية مرتقبة إلى إسرائيل.. إيهود باراك يتهم نتنياهو بتهيئة الظروف لحرب تؤجل الانتخابات - Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT0wzbmZ0S2poVXd6V1R5YWoyNzNwWFhQVFF0NmhkWWU1RGVwLUg1OUd1VkNGZDZSa181Ny1vV2VKeDFSaU9sVlNQZThtREZBbmtHZGFNbGc4V1VjY3kzODEzTk5abzdNV2N1OEpnbklFTEtLblNwR3otVmV0b280c01XeUVlN2dacTFhSUl6QWJHaXVuNnhVU0xVRnRseW00cENuQWxZbHFEb0xCVUE?oc=5",
-        "source": "يورونيوز عربي",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 05:54:28 GMT",
-        "discovered": "2026-10-05T12:07:10.958248+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "تعزيزات أميركية مرتقبة إلى إسرائيل.. إيهود باراك يتهم نتنياهو بتهيئة الظروف لحرب تؤجل الانتخابات Euronews.com",
-        "player": "",
-        "content_hash": "8a8a0785113e9014ed0f676e6328ee2a9e2ac65bcfc256e7d8852c71f91494ec",
         "sent": 0,
         "section": "world_arabic"
       }
