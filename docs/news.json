@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T08:51:32.145212+00:00",
+  "updated": "2026-10-06T09:03:11.339476+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -594,6 +594,22 @@
         "summary": "مواعيد مباريات الثلاثاء 6 أكتوبر - نهائي حليجي 26.. وإسبانيا ضد كرواتيا FilGoal",
         "player": "",
         "content_hash": "48ad774689774457844c7819b88d30c471e9ac5f5499315ddb27c13d509f487e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9019,
+        "title": "اتحاد الإمارات لكرة القدم يوفر 12 طائرة خاصة لنقل المشجعين إلى جدة - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNSzhfUjlKQ3p3eDJwYVZxME5tejBNRkZyZVR4cm96eU5rYXFnaC13S1c0ZVRQcXo1d210SEp1RXVnekN5UUVRM3ZnQlBxbHkwZERDMmk3TURWbndhamJsdE4zMGJPUVU3ZV9za3NsSTVaTHhPSHpRY0NiUkJsd0FzZ3BYRmNsT2ktMDFRekRYZmJHTjU2SW04TmdPWXREQ3ZEeWtUU21aNHQ3RmVsdTJ4dGhkMUxOdXNLZ2pNZF9WenlYQVlJNFpVVElVSlhIZVdyMWZlMWRIQUQ2NW96cXhKYUpGTHljNzRKVVl3OWk1TzZkNEtDbTVXV2htSEpkTC13MXZmMlF0R1AwTzNwYlJ4cFRvZkJURXRiYkdmQ043NWkyZUdoQ1Nic3lQZFV6b3FXVjRuYjBsYWh4aW1fUGtfY2UybDB5djNFdmxmU0szNGtTMXJEaEg0MjA0QVBPSFh6M0NKbnlob3pqT3lPYS03NVBRSllSNkJxb1NCQnpqRG9nV3Y0Z0tFN3ZpZGJ3aGh5RW9fN2EyeEplM2FqUzA1Rlg2UnBYc3B6TVZaUG1ieFdMVVhWaWY3S1FjVDFQbk0zUFJGWWktbk4wN2NJclhCRzVVTS14NjZpUWhTdlI3Z1RZVHNLdkE?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Tue, 06 Oct 2026 05:50:45 GMT",
+        "discovered": "2026-10-06T09:03:03.792854+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "اتحاد الإمارات لكرة القدم يوفر 12 طائرة خاصة لنقل المشجعين إلى جدة سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "89c468ef91e9e7c3efefebf8f2a73754e8b5626bd95a9e8a56b977a5564f8973",
         "sent": 0,
         "section": "sports"
       },
@@ -1332,25 +1348,25 @@
         "content_hash": "c13d137d7c78287920feb6a2a7bd664fa3fdc26c445babb4edbd92877e3885c1",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 8858,
-        "title": "شاهد الآن.. بث مباشر مباراة فرنسا وبلجيكا في دوري الأمم الأوروبية 2026 - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOU3NsZXVFRUowNHlKSDgwVG1xQUdMcGNPS1FzN0hRSGNtSEdYMXE5OUdqVlZyTkZmelp1em9KbFlfZG12NWEyUFFsLWxKSWgtVkRSaVJHeUdPWm1uMzhtbVpZZk5BalBUdC1lcGdTNGlFdnQyMkQ5cktTODJ4S1JXNmc4eElROFlPM1JBdjhmdTJudmNJUlV3aWFqeHl6eFhrS1c0b0tMUXZqbDEwUG51NTl6MndiTmRQcjVFRGZTSFc3U2pTZDZFcktOVTJKNm83YXdwY2VPUVd5OWgyb0N2WV9kS0YxUlg5b1h1Y1hFa3h1NFQ3SHUtMHRvSHpiamdQWVpqaVJwOE1FSG1PbnVFajFjTTM?oc=5",
-        "source": "بي إن سبورت عربية",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 18:54:32 GMT",
-        "discovered": "2026-10-05T21:32:53.095317+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "شاهد الآن.. بث مباشر مباراة فرنسا وبلجيكا في دوري الأمم الأوروبية 2026 365Scores",
-        "player": "",
-        "content_hash": "20355bd40e4761c14f53591ed63171b339569f1e9fbf83c1039a08a4346b2e23",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 9021,
+        "title": "هجوم أوكراني واسع بمسيّرات على منطقة موسكو يوقع قتيلا وستة جرحى - France 24",
+        "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOOF9OMDZsZTBIZld4b3pkc3haNl9mSFNxaDQ1NnlJQ3puVEJPcWxRTTZCWEZJalpTSDFsYmZUTW03UF9VbURkNGU3RUMwZDF3TWxSamc3RS1wWTFXOWxteU9DUmt2WUpaekt1d3doT1Y4ZGJFSVo2aGhfNS1GbWNCLTF1Nmo4SVVsR2dNZklfUEJOVWdFUExBRHM5N1BORDhaSjRTdWNwOXhURXlBMEdUZmRaWHF0dDdZZU0ycG1wNFNnZjdXNVFYTVFDamh4VUtLczIzRThKQWdmc05aWlNXT1VWVF9WazVweTNkbDZDNnBWN0ZINC1qcjYwNXFRV19SRnZxTC16UEI5cjZsOWRwaVVPQWxsVEdyMHJLdk5wYVJRQmlZdXo1c0NNcVliTnNzOVVFMmRkU1ZCUE9oaTA3WldmcGFhN1BPX1NaR1p2TTdpcTVQeEZKV2hreVc0bmVILUdSaEVCLUwzYkV2V1U0RVFtRTk0aDVucEZwTGlVTTZBMDRXMHd2Zm1Hazl5V3JuZGhtQ0N5MndWcXpFemE0X2w0WHEzR3RBcGMwZzBoVG9oMk9xUFYtSFVqY1NfLWUxMFVHV2E3dVQ?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Tue, 06 Oct 2026 06:13:41 GMT",
+        "discovered": "2026-10-06T09:03:06.919283+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "هجوم أوكراني واسع بمسيّرات على منطقة موسكو يوقع قتيلا وستة جرحى France 24",
+        "player": "",
+        "content_hash": "cb18897152261af465a9d09f93b8a07f93af079e1c6600d113feafec81ba41e4",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 8994,
         "title": "قتال شمال إثيوبيا.. هل تشعل التحالفات المعقدة حربًا إقليمية في القرن الأفريقي؟ - DW.com",
@@ -2056,38 +2072,6 @@
         "content_hash": "e4ea3951d74efae2eba06e3cb8d106b7686da5d6c833af42a1f018693a4054ca",
         "sent": 0,
         "section": "middle_east"
-      },
-      {
-        "id": 8805,
-        "title": "الحوثيون: هاجمنا منشأة لأرامكو في الرياض بصواريخ ومسيّرات - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQeTc2Yk1abG5PUHhlenFLcGdWM0ZaWFR4bWt2ZDBZRlNlLXk1a0xnaEMtT1Nsc2g0eTdYQkJ6UVhXME5mQ0xwbkE5VGlWaDc2Y1J4cGZDXzJUenZLRkE2R0VsMDdlQXNuZlhmeWtCd1Fya2RHVlBSc3hVb2NzczVmNWNvY2FiczhJQ3FFQWNQTVU2Y3RJVzd5SW15c2tZaFQzd0NHeU5xMGh4d1F4cmh3OG14Nm96T3VqR1lSVDljQnNyaFpxZUVIUWxyQTJsQkowZWdqdVVybG9WTG5QNDNLcEgxR1ptZUZJeGd4X3VRZVBMelRzdEVPVTZrOG9ubjduQ3NPZUFqZlhzMjBiMncxX0FUNlZZV2lsNXdhRjBpZFRWUFZac0E4X3dtWkV4RU1Fc2Ffc3piY1U?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Sat, 03 Oct 2026 21:22:06 GMT",
-        "discovered": "2026-10-05T16:11:36.374647+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "الحوثيون: هاجمنا منشأة لأرامكو في الرياض بصواريخ ومسيّرات الجزيرة نت",
-        "player": "رياض",
-        "content_hash": "0deb5c5ddec25dbd6fc87304eba6a8d872a4c963f369903a6bf6384b24b36be1",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 8811,
-        "title": "بعد منشور السد العالي.. مصر تُحرج الوزير الإثيوبي بسبب حذفه - العربية",
-        "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxORktMZ2UxUmRzMUxaM2FYajJmXzAzaWVzTEFvb3lDVnJyelk4TnUzSEE1N09Gc0FRVU9xc0dlWkdyaVBZdVIwRk9IV3Z4MDdnYXhod29CaWlPT1NWaFIySUtZdldHOGYzQXlSNEdvTElhQXA3T0xQekpmc3dPcThYdGxCZHd0eUZFZmJwUTl5aHgyczdIemhaZFd6eWN4cUNuZ0djcW93ajN4YWVPMkpMbkZaUUxTNHFNc2RrYlVFQXUwYUdaVzlHRkFRQTZHcmJjeTY2TW1lNTQzVTlBVHZJN0FwU0xSRllKMVNXb3haQjVic29rb2V6OGdVQzhLWlpqWGxrZ2NJLUczUWFoNTBLLVdLaXgzSS1SUE1PQURQYnh3MmNpWlYzSVI0cUpjWmVzZzM0NUV2cHFWdTJuN3djbkpUQllHSTUzbTI0cHFfOTF0R05YUVp0dUNUWHVmYm1EUEZxUERBS2hDVmlITl9aa3VOUy1DaUxiQzlHUDQ3LWxPU05WZlM3dGY1YkRqZUdySU5sWU45THZYUHBpSV9LQWVWa1dTVkdMa05SQjlNRXVDSWw1RVV2bUtScmJiNTJtN0pGdVNLbmIwRDUwa2dnY3dQQlRSMWxqN0JPaGt6c01sVTFsOVo5d0NTeEg5REdT0gH2A0FVX3lxTFB3UjlGRm5iYVNCUFBpZ1N0ajN5c1N1cjR6QlhvZXR5TXQzNk91QzdiUE9oWUh0ZUhES0tNMUUzenVINmdHUnZzT083bzBzemYtSGFkWUJFcUYtWmlET1hGcV94TUlwMkdDNUJONXA2UGw2UXB6UUV4RTZxZmFUekd1VEFiRnVzVnpSN2YwQ2k2dGF4a2RaQzZWbnZYT3ZZREdrQWdDdzZaWlBobEVFTlJlM25LQ2RpRXNOWEZqRzF3UWtnOU5qYlFPSW91dFB0Ym4xNXZFamNXWTdoTDA0bGYtYnJNR3NxVWx6VjFZSnZ5MXVpM3g1bmh1dG9kLTNwaXJ5UXhuWDQwQndxUXlqdXcySzlfeUcxZDRKWmw2SjRvYnJhTUI2NEo4S3hRSXprVFZvdVlQRTJCWmJKOXk5YWN1QWNyX3lqTEJSYjVGeFZiZTNSVVRpQXlSQnJHd2lqVDRSZUVsTFYzUlpMVVZ3THVRODNIeGdaamp2QktMM1c5SUFUS1I3VWlaWDMwaUJERFR0bXdVS3pncThvMkUxT3FDUTFuV0kxTXhnOW5KaS0zd1JyRmRESGVLcDZDMlhXQzZaWFMyVEZRMUczeUxtVEZnQnFqVXVYSk5iSHZ1X0Y5MjJqeE5NT1drTXJQeEFiZ2g5OXJmNHc?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Sat, 03 Oct 2026 21:05:00 GMT",
-        "discovered": "2026-10-05T16:31:53.175143+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "بعد منشور السد العالي.. مصر تُحرج الوزير الإثيوبي بسبب حذفه العربية",
-        "player": "",
-        "content_hash": "70b2e8ed5ea3559aee453c9c26e4bd573f1bf3cb8b6ca3f50c2551625767cd7c",
-        "sent": 0,
-        "section": "middle_east"
       }
     ],
     "world_arabic": [
@@ -2104,6 +2088,22 @@
         "summary": "تعرض ناقلة لهجوم في مضيق هرمز يتسبب بحريق في غرفة المحركات القدس العربي",
         "player": "",
         "content_hash": "bc01c7b294bcf3c4ab858eac1e245732af52f9fc94158538037f4f606ddfe76a",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 9020,
+        "title": "الحوثيون يعلنون ضرب مطار الرياض ومنشأة لأرامكو وتركيا وباكستان تدعمان السعودية عسكريا - France 24",
+        "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxNSExsenhIYmsydUlDUlRtRkZVZTR3TGktUm5jak04blBfSU1DV3h2alR2bVRqc0xqWkhxR2hCYWRZUkNDX1k3TENLYlV4MHZ6alJfS3ZFbGFJU29uZl8wUGllYk9BNEVvdVZMZGNtMWxkYVloUEE0eHhCbGM1bjdwMExuWERUZEVVM2FtVkhTYmRvRjFVR1RtQzdjTGRiQm9JZ2c1bThpWjlNeDAxTWR0MGh4UXhTYlQ5anBkUFZpOXQxcEFBd2tPT3o3V1lZLU9Wd05TMzRQZU9vX1pPTGJOZi1iakk5a2g2LXg5T3lsanJWbk5vOVd2N1FKSWJYWXZuOXQ3RkFDTzdvWDdaT0tPMWlweTlzMXMzaUtDUWhmRXZtUWkwNGY3Uzk2N2pfY3ZvSC1IQ1pkREZlLV9NSFpWSWpoRE41a2FJVi1rUGd1OG9yanZSREpJRW5XYnQyWVRvVklCLVdEbWZuckg3VzZGdVRlYzg4cWE3QlBVbmJLSUt4d3VHaVJlSlRmd1BQZGc4cUFiM1VxTXEzcTlqWGIzNDNVTmtQUHZpNjFrYUtURjU0bGczclhjN3FVeXBKUmRRak1jZEozSmxpajhzcmNUbjJJQ3FEUnFSMk83MFRta1BzUEZTbVUxdlNUeWJkY3B5VXl0Y0t3TkRNSmlmaHlkaDhFb3kwSkJjTHpISWd3OUJmSFJVNWk2a21ETVNFUFY2Zk9YQmM0TkVRa0t2Z2Y2cWx0ZUxEVjBUUk9Cb09PemVBczN3NmNfakxMbWltNTFyVm8tdHVPaXRfb3NIRWIycHAyZw?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Tue, 06 Oct 2026 02:33:31 GMT",
+        "discovered": "2026-10-06T09:03:06.890318+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "الحوثيون يعلنون ضرب مطار الرياض ومنشأة لأرامكو وتركيا وباكستان تدعمان السعودية عسكريا France 24",
+        "player": "رياض",
+        "content_hash": "7ea7061b5fb330eeb270f983fbd2480283e42c7140411af555a145bc08644b39",
         "sent": 0,
         "section": "world_arabic"
       },
