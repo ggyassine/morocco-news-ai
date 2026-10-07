@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T14:50:17.460870+00:00",
+  "updated": "2026-10-07T15:05:19.940120+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -16,6 +16,22 @@
         "summary": "«إف-16 بلوك 72» المغربية تنجح في أول اختبار جوي تمهيداً للتسليم Febrayer",
         "player": "",
         "content_hash": "d76e7f0fb60c5f2d3822871ed661819b3d9a55b706a852603faa4165c9163b43",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 9476,
+        "title": "أمطار عاصفية تغمر أحياء وجدة.. واستنفار ميداني لتفادي الفيضانات - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5cjNQaVU3YXotSkd5Yl9OWXVXM1JFMlJJYnQ3c2Y1MURRZTBjUl96RG05UDN5ZDFRanlNOGR6VVNhQl9LVVV5TFdfRXNLcGd6QXhnZm1pLTNSMmJ3bG04Zy16NXk5UQ?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Wed, 07 Oct 2026 11:12:01 GMT",
+        "discovered": "2026-10-07T15:04:53.964440+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "أمطار عاصفية تغمر أحياء وجدة.. واستنفار ميداني لتفادي الفيضانات Le 360 Arabe",
+        "player": "",
+        "content_hash": "c353aafd364f454235ea426026a253da71ef6e15334aa86f8ed212e3ea07b1a7",
         "sent": 0,
         "section": "morocco"
       },
@@ -468,22 +484,6 @@
         "section": "morocco"
       },
       {
-        "id": 8976,
-        "title": "ديابوراما: تنزانيا.. انطلاق أشغال الجمعية العامة الـ153 للاتحاد البرلماني الدولي بمشاركة المغرب - ar.le360.ma",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iOXA1ZDZJNWk2eTlKbEhLd2M3dG9JclZjSzBaUllBanNQMm4ySHVJNHBCMU5aMnMwdlZ2LV9LYnJyZEpKZEdPbFEybHpIdDB2Qm1LZTJkWDBTdG8tbGdrQ0l4d1FhWjFt?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 21:45:49 GMT",
-        "discovered": "2026-10-06T05:33:48.160505+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "ديابوراما: تنزانيا.. انطلاق أشغال الجمعية العامة الـ153 للاتحاد البرلماني الدولي بمشاركة المغرب ar.le360.ma",
-        "player": "",
-        "content_hash": "9f668673e97e1c8f032fe390a6e64182b60cf791ca5a3b801797a897c0714ce0",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 9373,
         "title": "بقيمة 1.52 مليار درهم.. ملعب فاس الكبير يدخل مرحلة جديدة من التأهيل استعدادا لمونديال 2030 - Le 360 Arabe",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kNUp0NDhxSE1FYUF1dWxyOHRObDg0WjhacXh0NjB5bGhXZk9iR2ljTzN2VjJSNVp6eUkzZXR4UF8zMTdqQ0hQaklQTjV6OG1lMDZDWFB5VkM4T25iSVZBa0MtaDhOZjA?oc=5",
@@ -550,6 +550,22 @@
         "section": "sports"
       },
       {
+        "id": 9481,
+        "title": "فيديوهات | هدف بيراميدز الأول ضد القناة - أحمد نذير بوعلي (كأس عاصمة مصر) - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YeWYyLXItdUlsbkZKUU15c1lEWW41eHNXTnVQUE9QdTFWSDRqR0RMYXNwbmRQWHF2aDhkRzdZT1k3TXNSX3ZDeW9JQ28?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 14:44:00 GMT",
+        "discovered": "2026-10-07T15:05:06.284183+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديوهات | هدف بيراميدز الأول ضد القناة - أحمد نذير بوعلي (كأس عاصمة مصر) FilGoal",
+        "player": "",
+        "content_hash": "17def326e7fa8a6332f81d8246210d7ddd77e48988aba5876ccef1fe590c492c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9472,
         "title": "فيديوهات | هدف الأهلي الثاني ضد بترول أسيوط - سفيان بن جديدة (كأس عاصمة مصر) - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DLTJsT3A3WnRMWldEVWM4VnFxNldHWl9fNHIzMzJ5V3ppLU1OYkZaQW5VdmlZZXp3c1B3d0l4aGNlSTA4clI1c3BsQU0?oc=5",
@@ -562,6 +578,22 @@
         "summary": "فيديوهات | هدف الأهلي الثاني ضد بترول أسيوط - سفيان بن جديدة (كأس عاصمة مصر) FilGoal",
         "player": "",
         "content_hash": "0179bd1948db5a73e4a42735cb993a772e1314e9b5c527d4524713f57fb5404e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9479,
+        "title": "أخبار | بن جديدة يفتتح أهدافه بقميص الأهلي في شباك بترول أسيوط - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxQUlV6TW4zOW1mVTZ6SGE0UUw1Rkw3VTFrc3dqWlFaaFZHLWFjZzhNVmlPTjM5RXlLNnpwemVVLTFnRExxNVpMNGpqYkd4b2RIdWw0Q0Q3blJkODFTMzh2TV94elJOQ2J5QzdielhDN0hvZVNadDBaWGVWMlRiMHJjMTNuRXNRWGpzWVM0cGxIbmhMZUNzbVlTR3Y4V3FDSzhtLTkyOVZ2RHRHQ0tJZUpYMWhCSjdDLWt4ZWM3SXBIVkZUVUtxZENPazZIVEdCYUpYWkhJYkhrRFdMRVRxeHNLRnY4eG9ZNERzUHVXZzF2WGlRSHpQRnVsbWNtSFRWOWQ5VEtBZEdKUWFQRFNScFl6aDItLWNaT3MtSzdLdHFmS01nVzloaWZZZXFQQ1MzWTNLWUZEOXRHU3ZfbzAxUFZ6TXZHdHFxRWg3b2pjRGJfUGJuc29fTWdocVkzTW5mc0ZkcVAtM3RLN1ZsTzlEUWFQUTlmYzdtUU5pQkhZaVpfVlFSMUQxZkhCSklBSHRfOFNtSXZBVE95OWNyX09ucWI5aGlXMXktZFVHSWNQb1BWb3Uybjc1VkM1bnVCMDhfYjVXbnRGR013?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 14:41:00 GMT",
+        "discovered": "2026-10-07T15:05:06.273379+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار | بن جديدة يفتتح أهدافه بقميص الأهلي في شباك بترول أسيوط FilGoal",
+        "player": "",
+        "content_hash": "7f5d47cb020c9bc869303bfd9b53ac26e4a2104688e4bada7add1b2696e722cf",
         "sent": 0,
         "section": "sports"
       },
@@ -674,6 +706,22 @@
         "summary": "أفشة يسجل هدف التقدم للأهلي أمام بترول أسيوط بكأس الراب يلاكورة",
         "player": "",
         "content_hash": "7bfe487201de54e03001128d63bf629e72d8b22c3b12d58b3c44df57f654a225",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9478,
+        "title": "كأس الرابطة.. بيراميدز 2-0 القناة.. استراحة - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNUWhJUUxybGJ2VkowYkQ0ZjJ5MmRkRlVGT252NVZqRXk5a1pPblRTLXdqU2F1eDZTcDdmOXRZbFU3R3RyNGx3NHNLdksta0ZiMGU0TXhZZXd1cmFCdlNUNWJpVUJacUpid2JPSWIyNTN6R0FoNVVkYU9xQzRLUHd5Z3YxLVF6V2g4c2FRSGU5SmlReDBYY3hnbjl5YjJrNXJYNjZrVkJwc2JORGNzeHhkRmJmX1JvWkJBLUE0MGNDeU1iUms4bVdRTkNUSThPazhnTFBWSU9OUnRwRXJvUjZUOENXVHprMzlxQ21zOTZYRzBYZ2dYM0o3eE4tRHpUNFhIdzQ3UTR2YUppNmR5LWZQRVhURWJkUlp6b2NPWEZsLU9OX2hiVUxXWDZEYVFYa2tTcDdjNjEwV0RzS3hYWEZONFc1cUtndEpEczY1WHFjcThBaFFqUm4tNDkwb2hZcEdWMHdHUDZGVTdhUHZaQThYWV9JZ9IB-AJBVV95cUxQTEJXemtfaE5kUHRVS2FfZjUyS29MUEFUNnVFS2tsb2doV2toNmFvZTZONTZjaG9HQlZ0d3YwaXU1d3hBcDVTNzZ5c3VDdmNwcTFiVDlnbkJHZ3JsVTlTdDQ5bUhzaENCTlNIS05lTEpaOG0wU24wSTBTVm5VeUUzN3JpZ0hGNUFNbThtZzlaWURPcE91SE9abHZBSTR4cFpOZEJkNFVpVU8ydnNiVDFhanBBbFZXa21JR3B1UWg4akZVSG1ucWdqS1VDTFFtYVRiRWJKcHppR0lpcV9BSG0zajZ2VnZNbnRISDVtVVF6V0ZfS25HeGdzLWpHUlZpazVMTnRWOXBNc3pBeFpjdWkyeG9BYXcxVlJMaEo3eWhzYmQ4WHRDeWZNaTRfeWJ3a2ZrbnZndFFfVTVjT2FvNW9CWWlmVEVfR3gtR1hxd0FTQ0ltcjMxeXhBbnBndzBuRDJiR2ZRazJUR0U3Z3R1dGpFcEM0VjVwekNU?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 14:09:00 GMT",
+        "discovered": "2026-10-07T15:05:05.627340+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كأس الرابطة.. بيراميدز 2-0 القناة.. استراحة يلاكورة",
+        "player": "",
+        "content_hash": "e89ea1de5668c2c087f2b3702b75c17aba43dbe44d055b06b20fead6a8814491",
         "sent": 0,
         "section": "sports"
       },
@@ -1158,6 +1206,22 @@
         "section": "sports"
       },
       {
+        "id": 9480,
+        "title": "أبو ريدة: هذا ما لفت انتباهي في تتويج منتخب الشباب ببطولة شمال إفريقيا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oVERBR0c3czJacVk5cUJqbmRwdnZXbUhEZnlOUWh3ME1sZ25JemlTSFNpR3lraFlDdlpIQ2hnMmpmMUFUYjMwVUNpLUpiaFZ00gGvBEFVX3lxTE14MmF2X0gyY3ZvMDllcVlrbTNoVnFFWWt0bGFRbS1MN0ZkRUxpVmtVLWkzY01BR09hNEJtSWxqaGRybnFINTNjS2RFSFdKT3ZIaHRFU25DNWxKejhFX0ZWRmE1dkdmZjM1aWtoVFgzWjNnRVVDUms2dC1rdGF3RWMxZ0FWR01McDgtdkFURkJrYmxxMWdaNzkwWW9mRVp5cmNlTE9UeUpMN3liUExqREk2WEZlVjg3QXBwMGdqbzVuTVZqUDhNeTF4RDV6RUI5MVVKdGhyYkhTZWJMb08tTEppbDVGa1UyS0daQ3JsSXNhbmp4VzQxbG0tRlNvVUt5UUltVTI0WTJFcklJcEk2ZHlveGc1VnhKQzNuLXFkRjNuOXlubnpjSk03YjdXWXJ5MkpFb1ZmLWNTTzBaeUJRMDdvMktHaTMyZzI5a2ZWSUllMEk1Nk5DVlg4RHAyZDRrX1FRTGNBdUlVQXpKcDc4ajIzZ3JBRjVaRWRBUXRmaGVlc2NSUEVCSlRyRjNVT3FSVWRSN3lfSTFvdnpBcC0yQ1Fkc09IX29Vb2E2YzhNMkdSQTZ1WmJqX094QXdlNkxmZE05aXhHRkZ4cTN6UVY4M3BIQlZlVjFScUNOY2xQbC1FRWZxS09JUTF2UTZiQ29yS3FaajRWb0thRmFsaXhkY1g1Qm1mOUxMcFJWUEJWWktCcjZ6dUNhQ0lfdHZSd09iQWI0UFhtSTVjaExGbGRtVXM?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 07:55:00 GMT",
+        "discovered": "2026-10-07T15:05:06.279675+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أبو ريدة: هذا ما لفت انتباهي في تتويج منتخب الشباب ببطولة شمال إفريقيا FilGoal",
+        "player": "",
+        "content_hash": "c5deb062952696a6f068d133ac87cb7df77cc66a96e38ccb75c3b9f6311acb06",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9420,
         "title": "أبو ريدة: هذا ما لفت انتباهي في تتويج منتخب الشباب ببطولة شمال إفريقيا - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxNNFAyeUtuZ1NWMFhvRlFzZllXdjBtQzVnbGNITXVxdFAwTG84Y2ZqU1RaNTFDbTdkUnFyTmQ2anQ4WjlySW1heWc5dXhaRzg4bEVDN1pfczVNTmRiYmNmaDdSSXlIY0JMUjY1WlV0QkhsTWZXVFJKRGJodkVxZmVjWmlONzEyTGtGV29LV3BOSnhHZzBkMkRnMEhPbHcwRVIxWTFjcVlRVUVINEtWRVZ1V2VGeUJwN0dsVGFBLUd3c0pQUkp0OU02NGl0aDJ3MjBFOTR2QmFoQ1Y5dmRjMkgzM2RNRXhBenlBZzNDWXNOaVdXUXFmdm5VNDNIVWFhSS1jMkMwbnlPdUp1S1hNd3Z4QnNqVERlOWJqMkpFbjYxU20xcXNtX1BoU0h3OWFHTmFlZ1IxZFI4WE1LOW5xZEpMNGRCWU11M05YMzM1MlZiRy1PYVBwTDJjR2tIaFZUVEZfTzk2bW9KQTcxX3M2cTJHd25XRUoyc05VTXpzRS1id3lqcHpDOTRLb1Z2dVVvQVF2ZDJFRTFLV2o2VVg5NWgxS3dLYU1MaEpsc1phRGp2bVdKRkZfZ2xxOW42cU1FQUpVMWNhZi1zNEpPajBIeE9SOUE2a2JuZDN0N1hFeUY2RlFHT2NxbXlBanFwYUgzNGU1NU5MLURVZkFaRkljSkVMYzh5dTRzajN4T0lrdXFpX0JVMlRzcmVFUGJiZUtRVWs1aGpXWERtU1dxZ9IBrwRBVV95cUxNeDJhdl9IMmN2bzA5ZXFZa20zaFZxRVlrdGxhUW0tTDdGZEVMaVZrVS1pM2NNQUdPYTRCbUlsamhkcm5xSDUzY0tkRUhXSk92SGh0RVNuQzVsSno4RV9GVkZhNXZHZmYzNWlraFRYM1ozZ0VVQ1JrNnQta3Rhd0VjMWdBVkdNTHA4LXZBVEZCa2JscTFnWjc5MFlvZkVaeXJjZUxPVHlKTDd5YlBMakRJNlhGZVY4N0FwcDBnam81bk1WalA4TXkxeEQ1ekVCOTFVSnRocmJIU2ViTG9PLUxKaWw1RmtVMktHWkNybElzYW5qeFc0MWxtLUZTb1VLeVFJbVUyNFkyRXJJSXBJNmR5b3hnNVZ4SkMzbi1xZEYzbjl5bm56Y0pNN2I3V1lyeTJKRW9WZi1jU08wWnlCUTA3bzJLR2kzMmcyOWtmVklJZTBJNTZOQ1ZYOERwMmQ0a19RUUxjQXVJVUF6SnA3OGoyM2dyQUY1WkVkQVF0ZmhlZXNjUlBFQkpUckYzVU9xUlVkUjd5X0kxb3Z6QXAtMkNRZHNPSF9vVW9hNmM4TTJHUkE2dVpial9PeEF3ZTZMZmRNOWl4R0ZGeHEzelFWODNwSEJWZVYxUnFDTmNsUGwtRUVmcUtPSVExdlE2YkNvcktxWmo0Vm9LYUZhbGl4ZGNYNUJtZjlMTHBSVlBCVlpLQnI2enVDYUNJX3R2UndPYkFiNFBYbUk1Y2hMRmxkbVVz?oc=5",
@@ -1268,73 +1332,25 @@
         "content_hash": "8dae868a897cfb6ae231bdffa491be0839fe2d42d8bd5b27eebcd41e9dcd097c",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9390,
-        "title": "آخر رقصة لميسي.. هدف ودموع ورسالة مؤثرة هزت الأرجنتين - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPNHFHM25DSVg0X0YyZDJ6SkxlWFFvdndLcW15cGZtMjR3amVPOWZ5YWZmUWJMMjV6U0hiZnh5eUN6QzlxTGdaRk16TFhmTVVLZ2xBMXJ4ZTNRYmUtYVh2VVJEbE4zRWxETU5Xd1ZrRER2QkxnZkFvSllUeDBQSnJnTW9GMEp3aXdQVTAtYWJfbkFZUjJkNHVaMkVSNnlPR19GMFZwdTZqUzRmOEVldjFud1p2TU5KaElIR2Npd3dFeUZxT3hiRjVxSVJCZGhETFBjYlVXRjFSUVVUaWFVeV92MGtGZkF2Xy1QSTBTcm1ZZzA1UzhfQWFkelBDYUNBdXFCX3h2UUMtcUNpeDRDdFRubnYwcFhidk1LeTB6ZHJjNE1OdmJKTVpoQkJjNkVvSnduTlFoeUdqZHFFRnF2Yk1sQXVXNi1UQ3gyeUcyd2xhQjNHZkg1YzF0a2ctTm82cjBZNkVTRXJxTzBTbTY2d3J2dzYzMk5idjhhT3RXaFJNSDhISnpZRE1xeGROSmo5d2ZhYTYzMVZDeDNsV0NXOEtjeXotUkk2dHRkcXVLaHB4bGNfLXB4YlA2bGV30gG_A0FVX3lxTE1ucUxtYmZvWm1EZzlRekhQbUtLQ0xrQ1FTWUJuMWQ3VmhHekN4aFRpMDFFYkREYUFaR3hKa01BZnRycGtkc3E5eUZadlVWSVg5RE1Nc0tPbHZZam5yMHZoTGtfSXFyU2Z0ZzNWb0xuZHIzNVp5S0JjQ1NYUDJEb1FUbUJyaTltWTAxd3diNEw3dDYtTDhvUkFMeFNBS1JzOW5QYTNyRG5zdnNYX1VGLXFyQTlmajJpVWhNM2Z5UkVacUxtaDRUYkFxZEk4S1FoSlBaR2NORW53YmxCaWpjNUxiQm91VkVYNFFHTXVNWmZ2Vzc5cTZwMlhqWFN6bGtFcUtOWXN4UUkwN0ViVGxjSVBmdzNTVU1xNTFTalVDZmtadU85Z2tXTV9GV1BoWkFWc1l4NVQ0eU1qc2o0VWdTNzlTV3JLOXZKZFVTWDFQcXFiLVdDQW5IMXNLNkNjbWhpY2xrWUd1ZktsVmFJU0NTekdaQVJBVFZVMDBZQzlBVy1xNlJzUWhCbU83N0swSHZJM01ka0FJVzZ0aU15Y05OX2JMcjNEanJtZDcxRlI1bEFHVTFhY21FSVJ6R2hNR3NpSQ?oc=5",
-        "source": "سكاي نيوز عربية رياضة",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 04:55:18 GMT",
-        "discovered": "2026-10-07T08:03:44.164411+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "آخر رقصة لميسي.. هدف ودموع ورسالة مؤثرة هزت الأرجنتين سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "093cc39022bba6775d9790700d4eb117cb865cfddf3fd6f5f155e2945dfb7a6d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9358,
-        "title": "كواليس ليلة الذهب.. العويس يكشف سر التتويج ويحدد الهدف القادم - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxPY2tHeE5QZVVSX1Fkd1JGUmhTWkJ5TWdES0lMMkZUd2xuWTdvQ1Q1VnlGZUdKZzJZcUFVaUZxcnhtWGhTbDU1c0FtZnRjNzc4eGJ5NXlld2ZncUZoV1IwZUwwVEJKck5GY29wUWV0Q1hDS3dic2lSdEZrUkRjSllkNnlrSVVYdVh3TlBzem9PNTVPWXpHdlotVl9GeUt1amNQXzNmUk1KUGFDQl9oS0dKSU9WQ0FfMVp5VURuS0sxd2JzZEQ2RnpveHN3QVNjRUNYclR0SmpabFdHbkRvWDdZYjFmMWV1WWlvRjNBM1JaMnY3bi15aWJTN2tFajRRc2V5NXNNdExjSm02RE5YcGcyeVRGSXY3aXkxaHlQRUlWdUdkZDhBYXMwSXgwTm1xREhzUDBFSzhSamRLaXpkaEs1eERpUVdraEtaWmFZNWl3WTBNODNWUVhKY3NBRTJpbmhzdEIxV3l4MkhxTXVMNkxoU3RSalBKbUZsVGxXX3NDejUyRUxERlFaN0RXV210WHpIdDRwSWJhWS12cjBJNkVsWG1nc01hUllNM1dwc3MtVjVNZ2NBcjUzdXhnQmRYM0JMb3ppa2xvTTBIRUY1OUNFaTdxNVNZaGNBa1J0c2lXd0U4MjJmWlMzSy1BclN6Q19nQW00U3hjWkpZXzVRY2dpeTNnR3BDMFIxWkJaR3RTcWpxajhSS25objdoNWY2akNBZDdZSnJyQWFLZFFldzktNzV1WWFYZlpUQzM1NUthZkQtdkwtVXViSEJoMVJVYlE?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 04:16:49 GMT",
-        "discovered": "2026-10-07T04:30:33.601512+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كواليس ليلة الذهب.. العويس يكشف سر التتويج ويحدد الهدف القادم Kooora",
-        "player": "",
-        "content_hash": "29221ec2ea0d19b43b3fd096af8fb36befc0ad44a8ba78f622afb7fc828d8199",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9357,
-        "title": "\"لسنا منتخب النجم الواحد\".. ماذا كان يقصد مدير المنتخب السعودي؟ - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMixwRBVV95cUxNcVkzcEU2dXBHYVFLTVZ3SzcxUTFVT2g0YVJBMXpvNERiRUxRbEVqdkhxRzRkaG9SN2dmY1RmQTNZZEp1UEVUXzAxbG9xY1o3RmZtTEFxbm9WcUticGd2ZlczM1picHJnSXNRZWUwbmUxVGE3N2NyLWhKZTBmdmRsT3p3aG9RMEJ3aGVDR05Cc1lCNkM0aldPcXZQbG1fRFRjWURoOXRZX0N6TnlTcGhsaGtGdkpyb1dHQ0pwaDRwOFhNNE5TanpWSGlGczNRWElqY2dXNmN3NEM0QWRRQzl5T2lfR2k3ZF82ZHIxNlRwZmF0ZDJ4TG1hekZJYlRySTJfeURzcDRKM2k1Qks2ZFBJYkJGdEJMYkVmcFo4STBDTzR0U3BLQklJYzFUd0tlYTIyWnFEOXVzdkhHaGZLajRLRG1jcnJmVDVSVkxtS3pZRVJobmJKNkZET0dQTmRfX1NWMlNrZF85bWJPSWlMRFE0aDE5QmFDOHY4QVhsbmpka3dHUUd1X25vd3JFSy0zNGVDRjUxOVVPY0VOR2llUmtNbXQzRl9uWUdxNmV3SVJzZjQtNS1kd0R5djBJUnpUSjZ3QmN6dXRfeXVkc2luWGh1anAtZFJGNmN1aWtLZkxUWEU4dU5KaFprcXZwUy1ZU0lLSlpnY1RPYlp6cGl1UXBQLW1hSEoweEhmWGVOR2NmSWJSRWtSaFU0cUpxWFAtM0pGSHBnYWVXbUprRmFla19RTGRQWVBfYnRpT1dWMjgwSlR4aXBOVVVj?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 03:58:35 GMT",
-        "discovered": "2026-10-07T04:30:33.596992+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "\"لسنا منتخب النجم الواحد\".. ماذا كان يقصد مدير المنتخب السعودي؟",
-        "player": "",
-        "content_hash": "b84e623b785755846b9d2ef9a7a9a6d031fc3c724b7acbf8b073b1b423def6f0",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9362,
-        "title": "انتهت الحكاية.. ميسي يودع الأرجنتين بهدف وانتصار في المونومنتال - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRVlDd2Z0NXVxUmFQa2xTUzNxMTNCMU1STlVPWEdLV0xPRkdYcEgxN3N1ZHNNbW1lY0xCdFJfOGR2QWZkOTRhV0sxbDd3Rk4tNVB2cVZOTmJib2pEYjIzcElMNUxfQmpTWWoxWjBpQWdMYUw1VTRSWlhVN21fc21PRVl6LVJKRGxwVGlZVE1sa29KR2RMcnEwTGNWZUNMZ1JOdXNYQ05UbWUwdHFzck5UaElNMHZBcUpkVDk2eGVkaUlJc1hDcnV3cHNRVTZXSDFnYzFxd0plVDNVNE1GbzFkRExsNVNCeXoyRFBIdHpvbWJXTDBXeTV1dDZESTZzWlJUajlFZ2JYenjSAY4CQVVfeXFMTlB0LWhRYjJoZTRmYmxGSWFsd0llS1FqanZtTWpWZGRIVjgtRklCMXBXYVFRcElQbUtfdlZXRnNxbXpUQnRTR0JhNFZnZlVhUzdTZk9rWWdfTzM1UjJzWU9wZUYyTUtFZWVqTEU1RndCZnhoZDBoNkN5YnNsdUdwMDVDQ3BZUnJtWUstamtDNTVNdm9Vbm5IeXJvcDFsX01BOHRpMFQyMnQ3UTdXM21XS05BZGJjTzlSb28wXzQ4cjZ1LUpNdkRnOW9EalFfTzltUm4wOHpKOUxTOThUY21FMEs1bUNKY2FQVU80bzBTRzVTR0Y5UFJyaXZFVEwtUHZ4cG1DbDZQd0VOX01NRG93?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Wed, 07 Oct 2026 03:00:00 GMT",
-        "discovered": "2026-10-07T04:30:44.899301+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "انتهت الحكاية.. ميسي يودع الأرجنتين بهدف وانتصار في المونومنتال الجزيرة نت",
-        "player": "",
-        "content_hash": "78b55d04273e71594c068670258e14fd0e942dbc89a5cc496696066e6c30113f",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 9477,
+        "title": "وزارة الصحة تحذر من خطورة داء السعار بعد التعرض لعضات الحيوانات - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mTnFlaTdXZzdWb2cxa3ZZX3ZReExYM1dRN25MUEpWcXY1cVNFdFRSM3NnQVM4eTl1Zng5ZlpfV0VISUp6YWxKSA?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 15:04:16 GMT",
+        "discovered": "2026-10-07T15:04:58.553003+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "وزارة الصحة تحذر من خطورة داء السعار بعد التعرض لعضات الحيوانات Febrayer",
+        "player": "",
+        "content_hash": "2a077d4f00cd35a289a9380a5ad82ec0f3c53f708486116003757a698aa4af51",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 9436,
         "title": "أول رد فعل من إبراهيم عادل على انتقاله إلى النادي الأهلي في انتقالات الشتاء - جريدة آخر الأخبار",
@@ -2004,22 +2020,6 @@
         "summary": "التجديد لبعثة تقصي الحقائق في السودان بأغلبية قوية سكاي نيوز عربية",
         "player": "",
         "content_hash": "63bd9529f520e86e4561e4cb55ff62efb88206ee5cd4fa6903de06be0dbfe340",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 9432,
-        "title": "بعد 15 عامًا على رحيله.. ستيف جوبز ما زال حاضرًا في ذاكرة عالم التكنولوجيا - العربية",
-        "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxQQkktY19CaE5HZnJFX3N6Z1FJOTJaaUVrejJjd2dsbnZKUHBFeFZqOFFCRmhOdVdlb1pnckExX0laS0xrSVlmSVAweHZGU2VUWHJoZzU2LUlTbkZKNjZpM1BBcG9lRXluOGtnX0l2OWlZVEhTeU40RFRVLUlhb1JzTFUza2NyaGZKdmZ1NTJVa1VsYzBwekQ3SVVodk9LNjE2VTFndWl2bWJkdHpRaWJZZGpfd2FYUkR1TXAyNWl2OExwSFN3bEJUai1taDk0TXhRbWRCN0RPNXpKVjFJTmFHM1pHX3JyTVFQZXZRZHRlczJ5N3g2cS1tV1Z5VXVKd2R2OGQwZ3BtUnF6a3RUMGdsQ3lka2xMWEJua09OWHlMVHNNc1hySUJ4S0M1ODh3anBBcGNGSkJIZUx1VExpLURiVkZ3YWdMRXR0aDQwcjFlNzliQ1RiRGZnTjhlcTY5OWpZSko3bnNGX2xxLTdkV09XSlN2ZUNMaXNkUkQ2Y0g2SVZvbTBXQjB5ZnZ1Si1Td0hzOFNROUFPT096OHZXT29FMUZwOFV0ZnJlMTJmbTRvYTAtQmlvc2F4VnRkZnFyOGRxTGozeklNWjVIX0gyNUt1YU9lLVFWMUlZam9rSjh4ckVZZWR0T2RuYXdmRktvNVY3VktCem1sMG1jTzRrRXRLRFM4cnliZjVBN1Z6elFaNEQ0dUJvWGQyX1Z1dFV1RExGV1d0MEJsMEU4RWRfeDdsWlAzNHZnR1XSAbwEQVVfeXFMTWhvZGJscGVWa2hLVE1ZUHdYbVlfY2ZOTnZYLUVXVlNCOGhIT1ZyZ3E3T2Z0T0tqbFp0Qk9kRlp4M0pacVRydDlkWmlvY0ZfVE1ERDkyY3JFVWt6WVptdF9HazlEX3Y1XzliZ0FWeVF5ejZJV1A5YWVobjFubEdRUTdnSmU4ZktLQVc1eWlQb2ZZT2o5LUZKSkZHT3JEajByQ0dqZ2FJcVJvdTY2S1RBZzVsN1R4Smc4TWNQZDEySjNWOFdJZFZzVVUyNXNmcm9JbjJxRG5Ybm1ycHRfQzFhYWcxazBqdzVEV1B1aVp4WFNna1J4Qm5tYmZyVkhZVExYdEppOWt4ZXRxeGtsVWNOOU9ORC10WnF2ZlptUXc1MnJyZHJ1OVBlTUR2QUhubmxTaUVLVzdMY0QzNndMNC1nXzYwQlZNcXNWaFUyWXpndlRqaUxwZzJ0UVJIVHFvbUgyUkgzbGV2RHA4NFc5MUlDWTREbUdmU3BjSWt4bVRuR2J2Nk0zZmhPcWdnX2c1by1zRDlFS0JfOVpUSTZIYXBULURwcGxmVU5RWFNmWjdVUWZGcXNOSk1BQzhJbnRoQ0lHZDBWRnRWODN2ME54Z2VoZUVOWW1pYi0xTkY2UkRlOWI2XzNfYVBHWE5IUUZqRVRGNGN4WjJycWhMLVRuNFVRZkJBRXpNVmJJMU95MXByRlYwR1FzNlJQa2VqUjZpNlBmSVVMQVFhVzZSeDZqUXZ5WGtGMmVabjN3a1RzaGE?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 14:29:00 GMT",
-        "discovered": "2026-10-07T12:35:35.780820+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "بعد 15 عامًا على رحيله.. ستيف جوبز ما زال حاضرًا في ذاكرة عالم التكنولوجيا العربية",
-        "player": "",
-        "content_hash": "7f078539375c46a5808a28482ca61aa0738997caab2a9fc8d58ddf37dd46ca43",
         "sent": 0,
         "section": "transfers"
       }
