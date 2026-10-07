@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T11:38:56.495965+00:00",
+  "updated": "2026-10-07T11:54:38.556032+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -565,6 +565,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 9426,
+        "title": "حارس نيوكاسل على رادار بايرن ميونخ - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNQ1k5ZFJGUFJ0VmVjU1B1ZzdVOXhHYnFzejd0OG1LSVhocnphcWJNVTFBVjdDZDdvRkhxa3AyX0p5VS1QclNDb2tlNGFOQ3dYSDVsd0ZCMlUwOFUzQVJ2Y29Ed1Z4SS1QTlFncHEtMHIyanRfZ0tjY2hPRk1WSUFpYUhnNkVaNkkzSWdkbGtFaUEzcHltQTlyclYzQXE0MVI1a3BDR0JKVTI3dzJJZEpnREVJLUd2ZE5kZkNOeWdDSXBGQTEtQkhya2tsOEdhczJybHdPVmFmUkdWVlZrV01ZVHdQQmNrWEZRaTd3T1RsX251UU9uc2xicWF3Nm9WZkpJaGNDb2Y4Zlo5Qk1XMkFVUXBQYkNQRjNQSm9zWk9hclkxMGNiYnJmMVZOZ0U2b1FseWtlbVpfZG5CN19tNnA5THlUTm52TlpTT2xOdG8zVElYbHfSAdgCQVVfeXFMUEZyTWZDWEdYMk8xRG82bUhoNk1ldEVuQk83N3JKZXpwWGxPTzNkM0dRXzRyRFMycF9nUWhENV9wNmducG8yOTdFTk81Y2ZQaEM4YmZHNXR2OUNsRVo5ZkRGX0V2a0Y2OGJ0YlJ2Ry03WmZ2TUNJeVNwekEzRWkyZzNBVFl2TWh1QWU2R0dHTTFhcnc3c2txSC1VbzNhZEtKbnR0VE4xd2pKaEVOTlRXeTF3UUM1UXBxLWd5eUVhSDEwZGEtQ1N6WHlRbDdGbTNkVGJBUmNzNFFONGlfYTMtbmxESzFrREZIeU40XzFtdGxYa2swaW9QTFEzU3gxY3Z3NXl0d0phMUFsTExGaDdneVg2TUhrTDlhSmNQSWM1SV8tN2JXSEpCMmtZRzlUSnFKbncwWldvbVo1NWdmanRhbG1wUUo4RTRDUUVwSXdvZlpsMy1SSmV6YUw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 11:42:00 GMT",
+        "discovered": "2026-10-07T11:54:23.992188+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "حارس نيوكاسل على رادار بايرن ميونخ يلاكورة",
+        "player": "",
+        "content_hash": "e60850bb07cdd655681a04705f6fa5ba270b36e8f02b52150a2bd9899428bcfd",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9425,
+        "title": "\"أيها الفضائي\".. رسائل مؤثرة من نجوم كرة القدم في وداع ميسي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxPS2lrYUtMZjRkWHdGdGQ5VUZib2pvV0xuWGUzb2wtV2xYWGJFN2FmZ20wTHFScndDUHBsS3FNQmVTS09URXZ6SDctcDNaRmxFOHlDLThSTF9XS0I4cF9uTFhuSGlJU1lXdXFzeHhoVkZ6QnZ3VzBWbG02dHdJVGtUMmVNSm9lcFlxcmlvMHVtUEk1eWdzZGMwWHV0d3N4OEN5VG5uNjZHSTdRN2xaMUJNMnlCeExoSlNBSjlHOEFuTXlIQl9ad1hteWhBZU9nNEF1Umx5b0t5eHctTmplRmlQdU1rX29CWUdZeU81UWZtS2NfcjZSeC1aT3A0VXd5bG5xenQwNXBhVUtqaGJNOUdjVEE1MVpQcTZXV2hLV1U0Zm4tdS1DcFlkSTllVzA3Q3hzc2RLTFFZXzBJOEFrbU9udVVqWlZMMFVaVE44alp0ZFJRYzVWLWdZclFaa3lCZDNaMEk1cVFHa05KXzdTOEVJZ2VTYmMwejUtQlU0N09qRkJ0emo0Y3MzdGlqNGR1b2dTdTNvTWJ6X19EUzVmaVN1bkk3bGNuV241MllMY1BDb1EyR1Z1dVZUMVE4MnJZSnNZM3dqUjBTenFmM0RxWFZWNUZuZDQ0akZWS0dpYnd6MEFMaGFRODFiaWhOQkR1d9IB8wNBVV95cUxQYzJtek1mX1BWZzdtQ3ItTl9KRWY2VzM0bGpsdjg5Q2dZdTkySXd2blB3SnVWbjdrNnE2MEg1YVFDendFbWFUTWxJYjIxSERKLXpVUmg3dVB4X2Y1OHM5N2FKZVIySGtDd0ozYXlabnROTGdsNE4yeGRFdzdGRHZiSTNjNi1kVjV0ZlBUWVI0cTFESUgxeDFwSEdWb09SdFpRLUEweUktaVdKYkZ5MnpnQWhWVzRCNUpWY0RDX2JnbEJaLTlmSkJNa2pfZG9lZTZ2QlFBRkFjVjRTSHIwUEkteTVob0J6S3hvZUZUOEhnbXU0SDUyN0NhY2xNZ1UwNWgzWjVkTlh4SFFwUlZHZ09OZmN3T3U5SFRPaG92X0JvQTY4QVhTRDNERUxLNHdXWXdrQkNZc01EeWUwWV9QVFJGOW5IR1F4QjNyNFRpYnlRMmZsUzN2ZXVaRXRPeUI1NldoVUtyeXBGNkxzZnpjVTIzNmVnYWMxbFpNaVB2Zkl0OUhjRGVsM1NYcXJWVUtmN1ZUMkp1WjJtRkJDTFE1TlRjWTBXZVBYT1dJVjVaaXRjT185OFQ0U3pYUEh2Y1B0QmJZMThRZEJqUWhXWHFsQjQ3X0dlSlN0VXZqck9HLWE4S2VVLTg0c1k4WE5jY1k4MTR5QV9V?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 11:37:00 GMT",
+        "discovered": "2026-10-07T11:54:23.988258+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "\"أيها الفضائي\".. رسائل مؤثرة من نجوم كرة القدم في وداع ميسي يلاكورة",
+        "player": "",
+        "content_hash": "d8ad8441ac1aee536170b6072ece2a9e796216ced606cf1160ef0a93dc31d4ba",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9419,
         "title": "بعد مسيرة حافلة مع برشلونة وإسبانيا.. بيدرو يعلن اعتزال كرة القدم - يلاكورة",
@@ -1332,41 +1364,25 @@
         "content_hash": "e55c616aba5d9c7247c37ed565fa9f9bf7279f946a1aebc2f12a16d9d0017b9c",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9280,
-        "title": "بث مباشر اعتزال ميسي.. رابط مشاهدة مباراة الأرجنتين وبنين الودية مجانًا الآن - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNaVJnenFhdjBJTFg2UkZGNUpMODNWNElpS1FpY2dfZUl4SXhQZGNFRjNCdXVBelBLYTh3UzdjcEo5Y1Jid1RWZGJTQkZyZWtCd0pWenJfbEFhdjlnWG5IalU0bU80ZFBCc2dGSUZ0aWxtSmVwdXpxRldleGxGeEFzdTBqRlV6OWZtcHVvTWtQX2VINkRUWjB6UWJXMTR1QkNJd2lPYTVoWU84dmc4S1IzR1RLNTU3ZnRJVE11YVppY1ZHUVplc21PYWI3T0xjY0ZJazRYVU1VT0JSR3ZxRjRsZS1oa3ZuQ3B0QXVndmZNOWlzT0pBOWNnbjU1YTRtRjItaWphZlBablRjSU5nZ1JNMlItYkpVVDhJanRjM2xIMnJjSXhnU0JINGphb1hqc29iRl9FZWxabHdtRFdUYXJval94VV9RemNwN0x5REM1YzlCaDRUVmc?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 22:33:47 GMT",
-        "discovered": "2026-10-06T22:48:08.178127+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بث مباشر اعتزال ميسي.. رابط مشاهدة مباراة الأرجنتين وبنين الودية مجانًا الآن 365Scores",
-        "player": "",
-        "content_hash": "8c5573c206c453b7e266e47990995e0e6b5c528538402a51a9d67f73ca430670",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9269,
-        "title": "الرزيزاء لـ«الشرق الأوسط»: روح الأخضر منحتنا كأس الخليج… ومستقبل دونيس بيد «الفنيين» - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMitAVBVV95cUxPQVBkM1BnZHJ1XzgzN3NXZ01uRHIzVks2cFBkZVJRcVIzdDhTVEVwNDk1ckZMZk5RRjl4SGY2dl9XYmtPUjJhNjNZVURKTzMwY19oSnRQekRLZTY1c3hkdFZHd2hRaWR1WEhPcXpCaUV4cGttZ3cyS3czaHVNUWR0VnB4SzdsNnNmN0xYVHNIN0FvWnhvUEV6cldfcUdzTkk4cUg5VXl5RVNDcWg2eWpURWtha1RVQ1hVUUZuWVh1QnlsRW5sQk5FaUdvNkJ1eURJZndmWE52bHpBdDViMS1JVGZ2b2t3SFF3cTBjblVRbl80UzE5MVc3bmVZalVoclNNVEowLS1YX20yTkNOaU9ZWDdtVnpDRVhkUTg3VldFTk15cmdlTlJjOTI0VHg1MDZZdDJlbjEyZ1ZwUGQ4Mzk1bWxTSm1xY1BjczVnZllDUXZFbkpZa0VpX2pURW10N2VQMUU4NzVROHoyWUtwVGt6R05USjBZXzRYLWdsMVlmYW1PdjVsUG0xbXlEZ3dsS2tBeXlaTVc4X185MWdIeHppc1ZsT3dCNzVjRHJSWDdmQlhoeDNCSFEzUmpCNzhIdnotUDdrQV80RmwxODQ2aG0wQXBrMUdrekpqZzlXM3RhNk4tLVlHeFFKb1ZMM1d6VW9nTnV3NjU4dW9kSnB4T05saXZLdVVGYm91b0lsM25KbDJZa1hzSnJidldsbnhjQkRyWDVRQUFZZ0NUaE54S19FODJRZHlrcTVfbDM0ZS1YSVU1aVRYNF9YQ2Y0ZU5yOVU5TlU4S043bFp4dUJRdHhKWjY2dDQyMTlIOXhURHZIUktod0lYMVh3NTFGaGVWMXY3RzZHVE9ORHZLb1NKS1p4Yk0xdWNiaHpTTjFtN2todzdSei1nZzdta3ZVTVpsMkZ4bzF1cw?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 22:27:23 GMT",
-        "discovered": "2026-10-06T22:34:38.358374+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الرزيزاء لـ«الشرق الأوسط»: روح الأخضر منحتنا كأس الخليج… ومستقبل دونيس بيد «الفنيين» الشرق الأوسط",
-        "player": "",
-        "content_hash": "a2378cff8f3f6f08af91f25bcce16437519e7798b9be70bba7f8b2df8b594875",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 9427,
+        "title": "هذا ما تتوقعه دراسة عن عدد سكان ألمانيا عام 2045 - DW.com",
+        "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPOVRRaXI2c254UXlXbjRuRlJ4Y2U5YmE3cDEwakY1a1VoclBZT0tvYTZSSEVfMGFWS2d3N3JuUmJVSld3TUs1b0NyNDd5YTlqcXVyUG80ZjNVSi02WUFjaXZqVWQ4ZlFMaWd2cTFNRl9MaVhNOHZScHRMVXIxa25CNHFrUThhdERweGlubHVDY29yZGViVl94MmFpZHo2OEJiOVZSVUVxSG50RHhsX0hhM3FlQkxUVzV2S2o0bFNVS1d0NUFuOG9mUkhTTTBtNHEyXzFQRkpTTGRHREY0WUlvTWxUbkxEUHYwMEN5NzBsT2pFUVFVMHpTdnhXYy1nbmhSYzByamlqelE3WDdfZk5pNWgtWGNYSW5Zei1VTW5vQ3NHUTdMaFlWWWpoUUZZbGszQm12eV9FWUhJOWx0cWpBVng3V0xoaWI0VUFKdEV2QVRPUVg0VE9ObG4tM2pWcFRzaEx1RzNiQW81MmNCM0kzVFR5U2RrUmE4eHZnVlZzOVFvUk1lQlJmNTY5Ykc5cl9XcXpfUHFGRWE1WDdLRDBwaHBoc09pX1Z4SWRUR2lvWHlELVk5aVFicV94MlRZS011OC1CX3NZR1lic2Y2ekZTWjJKNNIB0wNBVV95cUxPR3ZVTldyLXlIYmlUWmg4cUZXSDJubDR6LUFnOFEtZVFOSjhTU3E5dnVNZFE2VDNrYnRQeHpuaTlYRHRkQml0QUx0WGtJZlo4MUtnN1otZ05tMmYxQnJoUUVhYmxDeU9sMTVVeUV3WE9Jd0lSUy1OV29sajh6RVJiQWNYVzFBVEMxOUhYUW95RmJNTXJYeENQcHRScmF1T1gxVkFheVZuVjE2WEM5ZlBLLWViQ0lzQmpURUNYRzR3MTJQQkR3THNTODdQVUdzenRVckw0SlczenhsN1pVQXVBM0xZeWdIcmpYZHg0TUpNWUVIOTdsWmFPT2VrMGhsQkloRmRoSGtGeW1LeDh3VnBmWnlRRzVweEN5TVpGRGI1WmRtN05QakxPUjFWaFNaY2x4MnBDX1EydXI0TXpXbENuSnY4d0ZmdS05MjVKc1l3NnJ2Z3VBUmZoUVJQcXctUjBIWHJSNXRJajUxbm9BYzhyM1pMdEZnYk1QTXl0UXVjR2FTQmdGUWgxRmtVV1FFZnFTQ0JnU1kySWY1eGVtS3lLRnRVVXhCbWluWFBzTGIxRXFnYUIzWENtZTBKWDNZeWZaRGs1MUY5dE5ReE1Mbk5iT2JIVQ?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Wed, 07 Oct 2026 10:12:35 GMT",
+        "discovered": "2026-10-07T11:54:35.677665+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "هذا ما تتوقعه دراسة عن عدد سكان ألمانيا عام 2045 DW.com",
+        "player": "",
+        "content_hash": "b7f12fd8fe9dc6cdd49eff2909ebfd31abd755c5a1fc031c9dd7c913f7df3d4a",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 9403,
         "title": "طقس الأربعاء.. زخات رعدية وسحب كثيفة بمختلف مناطق المملكة - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
@@ -2166,22 +2182,6 @@
         "summary": "بذور الشيا في الماء أم الحليب.. أيهما يعزز الهضم وحرق الدهون؟",
         "player": "",
         "content_hash": "91af2765d6f5e509371fd8060b84f2ba36b5d9f6c550349a18fde884423c4dca",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 8939,
-        "title": "«نوبل الطب» لثلاثة علماء كشفوا عن آلية إنتاج الذكريات والمشاعر - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxNcHVXQnpHVjlINEFac3dzdVVzMFFrRmNIcVAxYVM1U3VoYmR4LTBkSDBvalNLWnQ4R3VjUm5aN0ZEb1VKSTJSdTRIaGI1Uk5SVWl6UVU4SHZuWXQwNHVEZWd6RVliUzNSMkhPRUNGVlZ4MHN4cHl6VjZiSkRpcVdiTEFFdjRtZ2Y4M0thTWRxSlRBY1pnU25BdEhxTkdDTUU0VHg5XzFCTjFHYzJpcHdlMEpYWGFLS3FEOGNmOFF5aHpKSlA3aERGd3A2b2ZwWnlLaXJ2SEtyMjVScllaM3lYMTFKdFZMSkg3ekJUVktxUDRiZEdqUVUxZmVLdG5CenpZM0tkSDAyZXdPMlBKQjltTDlheHJnNjlIdmRLTmE5Xy1XZGRUbDVjNks1TjlTMFRvSF95TjR5dHN0V0pzdENKQ2dGTl9fd3dPNzFFX2I0cVlaNVhHcnlWYWJiWHBEX1hidUExSHc4QUdmNnlTX21iam5jOGpsMWtrNV8zWU04MTV5TEpCdlNmTnh2azNNSnZFUjcwYTc2MUU0c2dPVG9UYU9VejRtTEF3Y2lnNXJtMWVGZUI3bVR2SUYzWTBkYjlUci0yWnhVNDFxb2hrcTlnVlBsMkVjU292eVljVVVJMkZQaUNPUG91WmdHREFjZS04cFI5eDdjSENHdVRZNFZHRHpaVWs5NHBWWkRwdmJNb3YyOTVZRHM1aU9kc1J4bklwTlE3akFoZzQ4ZjZwbGJDbW1EUXJIZk8xRVBYMHdCcw?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 14:47:33 GMT",
-        "discovered": "2026-10-06T02:51:50.001216+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "«نوبل الطب» لثلاثة علماء كشفوا عن آلية إنتاج الذكريات والمشاعر الشرق الأوسط",
-        "player": "شاعر",
-        "content_hash": "bc246431d2f9cad11d2152c921bfdb9985fb5e2e1bebae55dacc356f5c71282d",
         "sent": 0,
         "section": "middle_east"
       }
