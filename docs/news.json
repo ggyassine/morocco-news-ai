@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T08:26:11.066892+00:00",
+  "updated": "2026-10-07T08:44:44.442297+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -581,6 +581,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 9395,
+        "title": "ليس له.. ما هو التمثال الذي أهداه قائد منتخب بنين لـ ميسي في مباراته الدولية الأخيرة - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SbVZmWDN1eVdTWUVHRUstSzJHZDBIeW1pUE81Mk1Za0xPa1JKeEZ4LUhmUjlPRnZETHJpVFQ5MzZqeVBOQWRNU2Ruc1A4Z29T0gGDBUFVX3lxTFBScjl4YUNyVldSS1g3eDJxZG8wbWFzU1h2V0k2eU5kLU9haERVSE1xdm5sOF9xc2Nibmg0a29LNEZKdGhlWDF5ZDFWRm1HY003R2RwZUFrYkZFVzBsVVRlaUJTVkxmeFhIRk01NDJFTi1zNTFmcVdzaDBBUlNGZG5zUGRIRTVfaUtSQnhwSUtNN2NBWUM2WVZHY3dQcXdzb0l4TENzaTVCbExucldLVkZSTUtPUkFua0l3Q1J4c1E2VHRVZU1xODB3NGdTWXBwdnE2eVpqeWg0dUFibXpocWFYSDVHRnFUbE1hVDd5Nk1QS2pnbW16Zzh6aEZ4YXhxNk9uV3hGak9GOENfcUdWWDZla0VKRU5VaTk2WndGaHRnb1BINGhQMFp6cGxBZENWMTUzWTVJQ1plaVFtMG5ERHlhMVNocGdNbjRSNmdlWWxoejRMSkFBSU53R0h1Mjl5UnlvU055RWNHc3daamY0MmU2S3JmWGNPVzJMWWVvbEROS0RCR3gxSEU5RlliRnhBWXZnRDQ4TTduQWNDYlUzaTdxbTJhY3JDQmpQdlduOFM5SHBjRE9EWHJjM2xBNHRoUnRjVjBzelFhekMtcG0ySUVwblVzaU12WG5fdy02VFdtaHdhNS15UEwxVWUtVDBvZGhQaERVQnlXS0RybXVzR2hyZEowVW9XdUp1ZEdKS2N3dUt0amFxXzNKZUhvdFFvcUhieG9xR3hTNGFEYmVVaU1sOHJEdzBfSFdTa0J6SXFCNnVXWU8tVW9NbGJSVGdnZWhYTlVreWRzQTBZRjJjbzZkTmJFVjJHWU1MejM4QzV5azhIeWdfdG9jYlFTV2FUVGNuSUE?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 08:34:10 GMT",
+        "discovered": "2026-10-07T08:44:31.025013+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ما هو التمثال الذي أهداه قائد منتخب بنين لـ ميسي في مباراته الدولية الأخيرة FilGoal",
+        "player": "",
+        "content_hash": "f79f349700c202c6a14388e2175f44eb2f3a6bf58b6ed1a7d33beb7af8a5fe7d",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9388,
         "title": "لاعب ريال مدريد يضع قدما خارج النادي - يلاكورة",
@@ -1362,22 +1378,6 @@
         "summary": "«دوري الأمم الأوروبية»: سويسرا تفوز وتقترب من الصعود... وألبانيا تفوز وتتصدر الشرق الأوسط",
         "player": "",
         "content_hash": "15656bbfadda7c30136374168f3bbbfcfee2f302e3d480d1724b724d4be6c4c6",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9343,
-        "title": "بروفة القمة.. الأهلي يواجه بترول أسيوط في كأس الرابطة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxOTF90RkVONmJNajUzNlZHWVM5dzR5ZFd1TldvVEVPbjlvMGVnanE4YnpBMU12TkNBTHdhTEFfNnlYelZMbnpFcTNQUElXdVk0M3lid01YNGtOdVVFTDVFNmNQLXpWaDMxcTg1NTZzaXJoTEI2RXVqZDg2VHZ2Rk9tZWlGcUQyMnlZMjQtT0stcFZiQXBOcjU2Q3NwWERzWFFpaXNlU1VLNUxzUm15Y2hYZUVXNmJHcFZaT2gzaEJqdnEtVUpjSnE0ZnNvTGxLNTFDSjZvQm93Q0pDTGo5WnpkZVdORmk5bXVOTzhMNUYtTGYzcVRyWmxIbUN6bE0wU2NJcDRScEtvTjUzcEo0Rl9kNnFuaC1oYzRxanc1SVlTODZFWDRndXMzQVZxUU12V3NLOVFOZnhCdkxScHVRZmRRbk5DUF9DRTMtd1FPMXdDWGZxMm1SY1drSmNrZmV6U19fa29mN0xPUU9wZlEwdHFuaW9LUGlObzFvSUhQdzNGeFB2OUtpV1pScWQzcjF0RGpzYV9qNjM3VkNsaFcyZlVfa0N2MnZvUGxLbm1PNEhHYUZoQTRmRmN1MWM2NkZlWFpDM2UtTktiY21Rc0VUNXphWS1kWdIB2ANBVV95cUxPbE9FUmxGckthV2JmRTFYelBnR2VlVHhlUGV1WjlHb2N0aGZLWVlKVThTZjdTUE10NVRqQVJHYkcwNDhpRHB1c2dvVkJyclE2VzllNXdnd3U4ZWhvRHNXcU43MXNJTGVuWno3eWk1LTA3UXRHVUc0TGRTeE5Kelc2UUlMYmk0RVc2ZThfdzFHdzVHVElscTZuUWhVYVBsZHJ0MmJlRkF2SlI5amFGM2RGR0hIRFFqWk8ybFI2VFAxSF94ZGFqU092RUI1UUNGTFQtV0JQeFVPZkxjZGJPQlBWSjdObUhMZ1BMZjRtT3UwaGVuV2dzODcyNGZ4aHdMSVIyUEdXQ3ZTbC1EdmVERnFRYTFXdDFFLWpnWndDT2VoQm5ZTWdZdU9sZUxmTVpkM2drcnRoalZaUnZFZ2VUVTQ3SE9FaVR6UElvYzQ2N3V1MnZuVnpOWmpWeEF2SHk2bERySjEwdWpUREp3US0xc2Q1YndHaTk2THFwTzRPTXNKTmRqOHJyOENmNHhJRFhmamV0R1lVS2wxZ0doMGRnN19YTmtPYWJENm84RGY5MTljZHg5VGNZVlI1Rzc0S0hQLWJvNDlISlA2d2p6d24wbmRZbkhDVlJ4SHBr?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 21:22:00 GMT",
-        "discovered": "2026-10-07T02:12:10.442199+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بروفة القمة.. الأهلي يواجه بترول أسيوط في كأس الرابطة يلاكورة",
-        "player": "",
-        "content_hash": "ddb25663d5f210a21fc5a864c775ad3b43d38a5a71b8ff6b00ba42b59f10f239",
         "sent": 0,
         "section": "sports"
       }
