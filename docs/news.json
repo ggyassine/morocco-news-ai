@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T23:14:23.456479+00:00",
-  "total": 146,
+  "updated": "2026-10-07T23:29:06.344158+00:00",
+  "total": 145,
   "sections": {
     "morocco": [
       {
@@ -128,6 +128,22 @@
         "summary": "ارتفاع جديد لمبيعات الأسمنت في المغرب العربية",
         "player": "",
         "content_hash": "94d3cf474b8829034d55f757f7e310ad1016ae3d82c99207cc90f113d8d3fbcf",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 9635,
+        "title": "لجنة الداخلية بمجلس النواب تصادق بالإجماع على مشروع المرسوم بقانون المتعلق بسن أحكام خاصة بحالة الطوارئ الصحية - | MapNews",
+        "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxOMlVKWjM0cEpXTHQxWjdWMS0wRnhTbDhkREpuNDc5Y1BXVlA5MXpwTk9ISTJjYUxIVVp6a3JuQzNuS1EyVUJWNXlJY3hFV1diRlRZNXJEN3RYdG5RVy1Pa3VaUDJDalFseXh5SDcxZmhoUmdPaGd0eUo1U204Wl9RTm9JU0VPQzJfRTR3TnFidUJ5WnlyRkNVTE05c1RkQlZ5cXl3M1Zla3VBbUNUTi1FamFUb1ZkdGNMVml5VnluVVJuNV9zZTZmRVlGT1NOeHEzTmdnSm1uT05yZTk5ZDd2SWwwaXBReFJpYXBGRjh5RU1RX0FjWmVrbVFPNnctdTBIMUxXWi1ubXM0NGR6NDY5LTViWHRkSTRNeV9VcVcyWW82ZU1DSmpJUGJfSmpBeS15RW5zWmphLW5uQVZqMjYxdnNQaEtZUmkzZlR2YjhtRXlHVW9xc01BNl9FUnhWT0Q1WXdWWDVnT3c2NEVVUTRuc3NHR3R4OTBsQndNZ1ItNmhzQWkzX1ZSVnN4eVFQclg4cU1xZTA5bFFPQTBDVFJ5QndxQ0R0dmh0ZzZvSlN3OUF1SGJINmJEOEprZkx1RG9PVGdxUnRpTDc0d0N2TzQyYm5NMXhENm5hYy1SWWNGRUd0ZkZoNzVNdFFrNUotWlJHSWhETS12YUVpeTV2MEhQanVzUjlVcDg1NnhXcTNxSDhKMWtBdE9JV1NZYlptSm1GbFpRaVVpLVdvdXBQak5PN19WQXgtaUM2X3M5YmJnWHhKeElydDRRSUhFbTVzTDRKZjhfM3lQclpZWGdtQ0pKRktjNzZYU2tvNmtBRUdybHRsVmlKWENDR0RLQWk3TkhWYU9JNmUxSEdBUlJnLUNCdXZmWFVCcTZBeVNQbG5VSHpKdw?oc=5",
+        "source": "MAP عربي",
+        "trust": "A",
+        "published": "Wed, 07 Oct 2026 01:57:16 GMT",
+        "discovered": "2026-10-07T23:28:36.487196+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "لجنة الداخلية بمجلس النواب تصادق بالإجماع على مشروع المرسوم بقانون المتعلق بسن أحكام خاصة بحالة الطوارئ الصحية | MapNews",
+        "player": "",
+        "content_hash": "c76027905d4ced8e5f510e1bebc5ad68bd34306d0bb993e0cd840c29d6a73e9c",
         "sent": 0,
         "section": "morocco"
       },
@@ -1752,22 +1768,6 @@
         "section": "transfers"
       },
       {
-        "id": 9136,
-        "title": "فيريرا يعود إلى بنجلون لاستكمال برنامجه التأهيلي - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JWk1oLU9CWnJjVmhfYU1aUnZIZEp1cE5Tel9oVW51aldtZjhjV3R0bW9ERDl6bTJmQ3V3aWhId3o4c0J1UnB4VA?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 16:36:28 GMT",
-        "discovered": "2026-10-06T16:39:09.191015+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "فيريرا يعود إلى بنجلون لاستكمال برنامجه التأهيلي - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
-        "player": "",
-        "content_hash": "bbab207be15937998365ca8b5dd1905a61c5b01c4641368f6029cdf193cf53c8",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 9300,
         "title": "قائمة بيراميدز - غياب 12 لاعبا عن مواجهة القناة في كأس العاصمة.. وضم ثنائي الشباب - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uOWpiX1ZvR3l6Q0o1bFE5eTVqV1Y2VktyWUpFSk1HR2RsZ3ZCVVVUVUhnS3ZyU1FJQXB3YUp4aUhyVE9qX0dZd1ZBYnNKQ08x0gHbBEFVX3lxTE5sSjY5MGhERy1nQ242ek5Kd2hRS2d4S19qdlpXSHpVQVJzMUdJLS1ZeHJMRUNPYlBGZnctXy00dkhfSVlianowUlFfS3hqRklsZHdScS15X0dGWC1EWEppZF9xWk96emNXb1VpcGFjMDVxRVVUekxUUDFVOWUtckFVeTdHdHdueFNaT3ZYWjFyeDl3RFlqSk4xQ0pwUGhQX1UwQ1EtLV9NaW1uaHRyRFZWWUV6X1pOSDNKVDJrWFI1eS1ib3B2dElwX25IcUE2aTQzdVlUV3dfN0hfNGJVaXUzVW0tcDZYQ3FJd3lQNXoyZDd0WjZfS0hyaXIwa1UwcGFzc0puRXNCbVFHSW9fcUZiQ0V4M2pLbDc2R0pMSHE4ZllqU1lZYlUwWlpRbVJ6d05sSFpHRUpFbXZwNjg3aVpJMjdJd3gxaXZCcndwcUVzYkF5UXJpVjAyeU1EUFhzYmVSWVN0ZVp5MUdWVjhyLXBFV3hCNUpkTWs4QmtTU3ItdDd5dkY2dFdaTlZEZWhfclRaMlFVVFZyU2VMakpsWk1GMFdWNkpNZ3VKRzJoVzJQVk8wZWkxenVkNk9kN0ljaXhVcEEzdjBlRXd4X0s0UjVpLVNUall2OUhIODZHa0xUQVdCWjF2dGNncVFVbFZDNGV1WFlZODRFXzNzamtfUm9nZlBNeEhqSmduRExTd01hbUM4by12aDVZOGJQMVZtN212ZHJVNW1kSHRLRXlCbDJEQWZycmE1YU1SNFNTd2ZpYUVLQ0ZXc29zS0I5dWhUZHFCZTBPb3RrOG9NMA?oc=5",
@@ -1988,22 +1988,6 @@
         "summary": "بعد 15 عامًا على رحيله.. ستيف جوبز ما زال حاضرًا في ذاكرة عالم التكنولوجيا العربية",
         "player": "",
         "content_hash": "7f078539375c46a5808a28482ca61aa0738997caab2a9fc8d58ddf37dd46ca43",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 9397,
-        "title": "إسرائيل: قتلنا مشتبهاً به حاول التسلل لموقع عسكري في جنوب سوريا - العربية",
-        "url": "https://news.google.com/rss/articles/CBMioARBVV95cUxQcnhlNFJmTTlkUV95eGx2dnVOVVg5N01qSXBPeElCSjVNelhQb3RpVUxqeFFyN3VVcjY4V1N5N3dsdzVxYkVXUnFiZ1prUWtFX095LWgxbXA3T0tBRndqQWVYUWpTcnZrU2RfWXV4cm95Zkk0MUhTby1NLVlSUzVwWkxzR3ZGaEFmdFhfWllINnczaG0tbHoycVU2SnVKOF9Tc3JFMFY0TVk0Y1Z0bkk5OEtMMWV5NmlRTWM0UHJNQXdhZ1E5MzBXRXlfYVJwYVY2UTVlZmRENHJzZi1CUE5OV3AxY2RrSHdib201MzV3bEFVS19BN1F6eXJBeTlyYzJnQm1HOEJqNEp4YldTLXJraVV6OTF0TmI3ZGJBdUZndHNERkxxMjhWbURtOGIyUDQ5QUJaZWFkR2hKSkI0OW5HdnJiRURfWlVJdmtuZ2JlQ1drcmVnWWYzdzUwb29VQ1RMTHRCaG00dFhmVkdMMFktS2loQ0VkQmhNN1FIZ1ZrRlhPVEtWMnRyNEc5N1JwMkxid1A5SFJ6b21GWWV5aGRPN205VTJLVUNiOThuX09tTE9LenZzWS01VzhzeUhWbUVCbjBUUUlNSGNNdVlIUU16YUI0ZjFFQWFvR1dlb0lmVEUtYlZMRVhFa1R2UU5MNFNqN2lFRTdMcmhUT1RldGhpREpTVjZ3X2d3ZzYxNzZTbWxBbzhrQTdWZGpyTnNxU2tY0gGmBEFVX3lxTE9yUkM5Z19jdWhBVG1oYkhRbkNxWXFnaDM4WlN3cGZGMGJXQ2diV21VX0NDODh6MldhSmszS2xwejFoWmFwcG04UlV0Ri1ickNTRUppdUFISUM3UEZBVE5INGFCSWpla29tMXI1YkFGM096RHpsOW1FOXhDOVMxVXdBSzcxSnhwS2I0akU3VFdCRHJ0c2xpV0tPQVNpalFFYWxYSEJDUXhncTh3NHVZRm9DZUtRWlE2cHpqRVVhTjBKQTRfSm1tM1hSTlBSRTZQVm9kLXRSNjB1SHVoSm9YbVNyUFNNRGhaeHVLanF0azV5QXZkcUIzRGp4VkplaHRJakFKSUFhV2FueUpXeFhWMzlraXFQalVZSXVWNWFNU2VjNnlpVkFaTHJ3RkNxXzNBajNhVE9Bd0JlMnlHUHVDUXFGV1pGcGQwYklHSGgtMG5oUHRkV3cxeU5HczhiMEs1Mjd0THp1WjNZX29TY1pZZ1o1bloxQXlUNkhoWnNfVms1RkdILTQyRVE1cVF5SlJieDE5R2c4UDJpb21BVVFCbEpXQy10Y1I3cnZHZ2RKX2RZaU04Nnc3dlpLNks2YWdoOUwwRFZ2Uk1JWmRYcWNJa3ZIUWx3SlhjbUVHUGdTTlpaQ3gycDBoWEd5ZTRKcHJoX09pdmo2SU1XMHZsdU5NcUMwTkRzbi1ONGo1dWc2dG81UU1hYm44aUlrR01QSW9ZZ09yR2UyT3c?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Sun, 04 Oct 2026 23:27:00 GMT",
-        "discovered": "2026-10-07T09:00:10.563321+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "إسرائيل: قتلنا مشتبهاً به حاول التسلل لموقع عسكري في جنوب سوريا العربية",
-        "player": "",
-        "content_hash": "d2f2217686a0a26a4e8cbc76912091c738fb149fc0c2fc3f88c2db32413e17d1",
         "sent": 0,
         "section": "transfers"
       }
