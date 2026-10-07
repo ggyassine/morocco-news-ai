@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-07T10:30:58.317474+00:00",
+  "updated": "2026-10-07T10:49:45.942554+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 9408,
+        "title": "الأمم المتحدة: متدخلون يشيدون بالدعم المتنامي للمخطط المغربي للحكم الذاتي في الصحراء - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qalkyRFZWV0J1UVlQVlBuTHRSaDdoXzN0UDhkMXJzcWVTWGZ6SHA2OUxCSGhHcC1zYjdZc1ZtaDMtSkZVMjlpaXBWaWR5VmtyYndYTnVZelZkeGl4Q1RIczBaZ25BVWNm?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Wed, 07 Oct 2026 10:36:59 GMT",
+        "discovered": "2026-10-07T10:49:19.406191+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الأمم المتحدة: متدخلون يشيدون بالدعم المتنامي للمخطط المغربي للحكم الذاتي في الصحراء Le 360 Arabe",
+        "player": "",
+        "content_hash": "e2904b856e1f29a5b99b92a679f8e0d79245ef2031ee6252804e2b57fed6df5c",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 9392,
         "title": "ارتفاع جديد لمبيعات الأسمنت في المغرب - العربية",
@@ -565,6 +581,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 9411,
+        "title": "لندن تستضيف «أسبوع القادة الرياضي»... وعيون صناع القرار تتجه نحو استراتيجيات «السيادي السعودي» - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMiqAVBVV95cUxQTHdsMXBad01aU2dLSnVGdDB3am9OeGI2VWN0MW1JZlViZTNWR0RqSUF0UzZwb0ZIbHYyU05rUlZtSFBTTTMwV2M1SzlfYTRrOUJWd25lN01TcXpCY1pzMFc4eVVxaVQ5aVJGOWdrcGMxUGQ5bldmTDlaQ1JSZUMwYWQzOVRSd0NNZXFQNjNSZnFCZExkcWNmMVZUdl9sZ3d5RXVsYnpLZ2xhTEtpbm5kZ1R6ejdDVFBlbW9raE1IbHNUcTIyUnlSVWpVSGlIc3J1SmNNR19oWjFXRm1obFYtTEp6bFBBU2dwWFVSb3lBN1FGX2NyVzlBd1dBSUZCVEhNMXlGYl83aklVZ3c5aHJmcFc5UWw4di1iN1dYd3JyNjBJTG5zNGZhYzR0eWIydjBPVVhqTVJyRkU0eW5uM3Zvd3g5YXF4YlBWOTg0aU1XUXFwWk1PWVNoYjB5RVotQlhiQmxHY3FmNkRVaEFZc3dLVHl5b2N2UE5ZZUtiRzFEQVZuekI3SkNpUm5YV3FUSU9UTHZqT1VVQXlTMFc3cEtfWGxkMWgwaTdkajd6MkZmLTkySllFU1lXTlRpdm9qY2VBbjBWTVhKTXhHbTcyRlR1eVpkVXR1ZktxTnJjNFpBbld6X1Z3eElsaE5qZjFmaE85TXhrOVVWTU1xOGxRUGdSWGtQV25KX0dFREU4WUFuRGtoWi1WLWtyNGpocUx1X1RrQUFiZnc2SDJtSGx1T1BINk9DZ3lheHpNbmVPdUY0d1o1RW00M3VRT2ZIRnFPZnVWUUl5MnFpcVp2MkhtTExPT2djZkh6OXFsNDB1QTdTUGRLVWdieFg3QmcwZ2ZIOFJtNHV0cDg5eGtMV2ZUZ3BranpMWmpNVUVIWXBmQXNzVWNDd1ZsS2E4cQ?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 10:43:16 GMT",
+        "discovered": "2026-10-07T10:49:28.276186+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لندن تستضيف «أسبوع القادة الرياضي»... وعيون صناع القرار تتجه نحو استراتيجيات «السيادي السعودي» الشرق الأوسط",
+        "player": "رياض",
+        "content_hash": "b256ef8c6dc1f976d9646603daa09af383c7bc6c37fd94dc47a5ea00eac672f5",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9412,
+        "title": "قبل انطلاق النسخة الجديدة.. كل ما تريد معرفته عن بطولة كأس الرابطة 2026-2027 - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxNbFU0enJMdG9IYTBQV3V6aHZ5U1NxQkFDblNZRE1Qclg5OXoxNmNiTElRUmU0ZW1tOUk0aXlxZjlwZnZ3OVVsNHlSekdSWHI2bWRCanI3U2FTNVdObms3Ql9CdjZHQmdWalVYdHcwXzZaTEJEUldONzBWYWhuTE5yM01JeFp4Y0dBU2tkbjhSNDFpSlJ1YnBlTzg0UnNTTUhXamZxaWlLOXdiQjJHNndMQmVRS09TM3RlUnZkQ2M1VjBzOXNma1A3dXdNNmtGMkkteWo4VVRsdHpaVGs1WXRleEp5RWJHeVBjRWRHUHhhYnBKZXJBdERQX1JEWmtDdzV2cTBGdEtLazNMRFZLdGVZTnFjcVJyNU9wQ1BBRWx3ZkFWSjN6MTVfOWdhSk0zMWh6bHZZOVVCbzhWeWtuQ192UU5UR0wweDdIeWstekNTNnJVblpRcW16UE10VGY1eFhvMlFjSzd2ZU04aE9ZU0YtSWFyVFNOZDFPaVh3b19FMU9xR2dlT09Gb2ptc0VPT3lxbVNYUHFtZVJxYjBMSU9ndFdWMTdWU2hZd0p2LWR5NnhWcDFyWDI3dWphZE1kS0JjdDd2dkF2d3AxQmtKYUJORXlSTnpRUFNOUHJZTHY4Z0REaEFmYmFrTUpCVTI2SmFiMFZoeW9WS3ZUc1pUa2hsVUloeHJBaF9pSk1ob2dVSUxqRzgtUlRVd3NhTE52V09uaFRFbnJRTWpFbEpJUXdVS1NnNk3SAboEQVVfeXFMUE8wNjJBTUlpXzZWUzB6bnROZ3NqMkI5TWhFMnJvLUpYbkZsQ3FxTkh2cTdOLVJ0aEhSdzRCVUV6M2djUHo5dEV3YlFxNnZ5Q2N3VlZvRUtUSzNvdUZSYUZGVzNJN1k4bGJFUjQwd3hNNlUyWjUwc2tFNl9Kbjd6LTJTWW84OC1CSDF4UXZ1aFdqOG1RUmp4V0lLWTlqOGlfNU5DU0VFTkJaTXNndEpvRFg1UUZ0Rm5oODRyQm5xQ2cwWFBBUzdxeW9NN1ZHdmhqdmpHQzhLRFVzNVdNcTdDWWZzU3B0MHdnUG5HUUV1TjdFMzZvdDhIZ21nVGNZXzdkaUhJZ0ZjOG5vSnh4cXVLc3hMX3ZFRDlpcGZSQ0ZCejhpbUlETHYtMF9rSUtaQjlITXFISmZVSnB3ZVk1aXY0X2VDbUJYRXdxQUlzZEswbWZXdzItQWg0eVdiUlVzV1pBbGVTMUFNRk5oZ0JDc20xTHFDTk5ZRGNBcnJqRlFVdVhNSWd5YU1zLWsxQkJXYWQtZGw1X1lGOHdTd3lGenowaDBNVV9XV1BzS09OR09vVlk4WGxyQ2paczNkcldITmc3RXBWQ0pYa191YnVTNUpIUHB3VDZDSW1yWmFTV3VzQ2ZYYzJ2aFZtNi1yang0SmozaW1yS1dFbGVUeE16T0ZfaUtnMHRMblQ5TExXNWpsclhfYTlfdEZxUVIzaGo1eWZLRnlVTkY2cE5mUXdLaWRiQ0hBZGxub052OGtn?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 10:32:00 GMT",
+        "discovered": "2026-10-07T10:49:30.108236+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "قبل انطلاق النسخة الجديدة.. كل ما تريد معرفته عن بطولة كأس الرابطة 2026-2027 يلاكورة",
+        "player": "",
+        "content_hash": "7eb48b59a64ef145e0fb87ca42ef727cfeb53b9cf9c51e755bae252fda88fbd0",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9407,
         "title": "الرقصة الأخيرة.. ميسي يلعب مباراته الأخيرة مع المنتخب الأرجنتيني - CNN Arabic",
@@ -1332,38 +1380,6 @@
         "content_hash": "3335c9434b30d98b2a8652a93f23650be4e5caac59c15fb6cf793d7a280097c5",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9341,
-        "title": "تشكيل الأرجنتين - ميسي أساسي في مباراة الوداع ضد بنين - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNNkFuWWNsZ1NFVXkyMjU0bkhwbWc3UEVaZ05DUDl1SE1FUi1fS2l3RUs0V09TUUZWODVMX2JQVHRreGdySjc3aG1BTjRPNlFPNXRMaDE5bFpTaFRiUUwwdGdqSEQwVEM2NXUtcDFnT1B2S2hSanpPQV9kNUhGZ3JFZ2ZIeC1zT3dYUklkUzRrREJneFhNa0lHZUl5YTJhdUwtSWRmV2Y4UTlnLTJIeWtFc1RXVm0xLUliYXoxUUtSbmktbXhvTmt3M1RaX1lYbXlVRFZZOFA4WmhuYzZWYk1DWkljejFBWTk5djNxNlBreWJzU0J4VkpoM3ljWUQ2eEpKcGJWOFdTYW51Mk45YmdOLThFZjZnY1VqM1RjOEtscWM3Ri1NaGtXazhSbEdrRS1rUTdoYVdjSXg1Z2VLUG1rZ2g0SDVWQ1F3S01EcHBfVlAxS1EtLWRRVDdEVGhRb2NoNDNJX1JuTm14NTFlakRubUltYS14MXZsS0dBRlBrX055SWZteDJ4TXVqWVlGWXUxbk5JMmkzcEZKRzFPY1Iwa3pJeWEwZmMyTjVCTDk2RXVfUDBZ0gG6A0FVX3lxTE5DazJXampaRkFzRWN1RGZub28yWThHTHBNcktUZV90NEFCcVgtS1NMVGJERlc1NDh2c2VZbTRKc1hCUUZqaGU4SDBNU0lwUE45aFdmeDR0YnVBZ0xyZlNsYW5RaHRSRWlBUHRBd0ZTQXdqNTdTSGpLR1NvbWJLMXFFVlR1MHg0RVBQT3dDUUVRSkFPSVg1dHN3ZEs0b1JibnNmdkpsdkdna1hpd2xCTFBJWWxiQ3J2R2YyQjNLQlpfeVpyMnAwV3ItSVM4eFg4dGNkYjdKVjRSNk9sUzJWNmVnTVlrV2NtTVZtUmctb3loazNOX0o0aTU5RVpxcTR1dEZrOVd0d3phWEprNEpBUjYxR3BSOHBRcm8yT3RrU3pOVGItNjBxRTVQM1hXaGlhQUlPellzX2tUSlZBUWtnei1QdThta0NJOXpRQ2cxN3Q0bFRKbkpaU29OMlVEWU4tZDluWndGR3BjRV9BYzFWUXIybWJhMURHa0xsRWZRZU92T09WT1pXUjVvWmR4ejBjR0pOelhkSHdjUHZod3dybVRMWnpUdmI1cV9xZUJ2bjhnUnk2QUIzdU5XOUE?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 22:19:00 GMT",
-        "discovered": "2026-10-07T01:56:45.797688+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تشكيل الأرجنتين - ميسي أساسي في مباراة الوداع ضد بنين FilGoal",
-        "player": "",
-        "content_hash": "3335c9434b30d98b2a8652a93f23650be4e5caac59c15fb6cf793d7a280097c5",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9337,
-        "title": "وداع ميسي بنكهة أفريقية.. لماذا تستضيف الأرجنتين منتخبات من الصف الثاني؟ - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNRkZSdm1IRGJqWDh0RVRRRkVrcmQtTjNwV0hPQVBEOG1BMmFTUkZ2U3dMWS1ReC13MGg3Y2ZmWkxyd1dzLWJfVUpQTmJZQ2EzekpnUHNSUVlOUXZDeGwtYk54WnVIdUVMUTRHOFhyWjIwMzhPUnp1anBzWU9oUWo3MW9Vc243YUJlRjBlTnpPWVpaMVk4MWtlNnVSR2lfcmI0RHdBMmV1djBKbWF0ZHZHcWlsdU5hdmpMc3JMVzYyZWZHelFIZGRFX21JR3FWQlR5Q3pJV1RCcDBidEZQTnRWb0Noa2gyRUkweUZqajBfQW9vNW00SThQOWxxTC1kTWFwdFQ0RDFHNEJMSUtqSFZHQVdIS29jeUpQZXAyMDNyLUpxVmRMTG5fTHlONFRzU3lmaXFDQmhyNWFNcTR0R1Vnb0ZVRGdNMUI1Zm4yaTJzX1lWZzTSAdgCQVVfeXFMTWpreU81cEJkWXpuc1Q4SzFJZHFKTm1tNWpDejRwMmkxT05kOWlTQmFVZjlheG9UQUNoS0hDNURJX3BZeGdWeUhMMWZVRWVfQ0psb0YxYThzU2N2Mm85RGZvelFqcW50Q2pNZU10VWhtNEdsaWtzQTF1UnJ1UFJkQUxfS1VFZWh1OUR1c1J3XzMyeWY1UGJabElDY3VtUGxaQjBKdHlsck9qd2QxbUdIV0hsUnU1VWdYX1lia0JkTGpaeElCMTRjRHdYUlc2bDJyci1jLXFDYnFPX0E0OHVxLVRFbU9IcXdEMEszcjBCbjZVR09mQzlnLUthMzAtejJ5Z2tXQkxxakllT1JNT3k1THh1REl0bFc3MEJHN0tHU0RYYzBRNVJBSFdUSDIybjBmbW1CZnhNaWlXeTFvVlV3c3JnSGFZa0NReWlRbEZFVzFwX2hfdGJUTE4?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Tue, 06 Oct 2026 22:14:59 GMT",
-        "discovered": "2026-10-07T01:42:08.215302+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "وداع ميسي بنكهة أفريقية.. لماذا تستضيف الأرجنتين منتخبات من الصف الثاني؟ الجزيرة نت",
-        "player": "",
-        "content_hash": "b9da4cf80ff656497848bab24b5ccad8e3203c14b35027b314e207180f600938",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1956,22 +1972,6 @@
         "summary": "وكالة المغرب العربي للأنباء تقدم تجربة رقمية جديدة على موقعيها الإخباريين \"mapexpress\" و\"mapnews\" | MapNews",
         "player": "",
         "content_hash": "4690a4dd682c8521bc44f83206297baaf61be69bf9ced719351520a5b438e274",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 8914,
-        "title": "رغم رحيله.. شبكة إنجليزية تحتفي بإنجاز محمد صلاح في الدوري الإنجليزي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxQZW85M2lfVnJqOUY0dFdCalhEUWQ2ajRvZ1F4RzFlNEl2VzhnOEFyOEQzcVhYcGpBSWV4Ym02VVBibXdnUUZBdzJxM3dZYzc1Q3E3eGpyZlZONHdfN0s5MjlLSTAwTlVieGo1aGlOV3B3bEdJOEZuTmRYVjR5bGdyR2JqMXBJaHdlaFZCajdvRWhFaHB5Smc4cUd3RUlpTmlMS1Z1M0kzVHpMOEZQNWpJU3pjSExzZE5wbFJma2xnRVUwYjNjUnhHY2dKcDJ5dDR1U1VGZTE4UERWUG9WVTJFZ1RObFlCc1MxOE14X0lWTGpNRTllOEhDYVlzM0RXSXhSM2VrVFo5VVh6SnlxbF8xOUljWXowcDN0MVltRE1rNFpXTFA4TVVVc05ZN1dZaU5yc0FOdDlSQXlsdUF6ekpQQUwwQy00QVRJWjRlZ1ZnZkg5OUZJS2VfWXd2NDByUU5RUlhEaWtQSE01dGF2QUhhcjBJMGxTdDRORGlVTW1YRGFsMWw0NklVUDhzT3VaQWJaQUxwSE4wdHJidzhZNGlEY3pQQVlWcTZFLTFWR2F3NFhHTEJJUEdFZFNRRWVsRjk0RXk2NWNMTDJMbHlZY2dsSEV5R2NCVlBrY2FKRURpXzRXXzlaX3JGeXNPeExnemJKY01hN21sVkJ2bmpHTjU1S040VnFJRlhHVHJSYmRuU0l0M25TbEdoQ19hTElEaWdoWUdzeW9rRmlxNnhIeDBhNWdHOG1acTQwY0g00gHABEFVX3lxTE43ZG5JUGsxc0RBNEFiZ0xpUzVaLUNrWldRQkxmc3NnSGg4TXdUWHlyN1VjRzBIRHdFUUQwUXJNZ1gtOWg0ZG1wOVd6ZG5tMlhmMXIyNU5oY2JKMmJmY1VRSVVSNFVRdG41dlBVQnNPQlJObTBqRHV0S1FWWGF4UEdDRUxxUVdHeU16QUtEajNfcnMtM215RW5HOHNCdXBCWS1USEFqOGdmOEsyMGFyNlRhMTU0bGRzNXhhTkhYX2RzY2lGVllHQktXOVRIQmQtRlplMXc4ZmxYWDBVa2RnMmk2TEFvM2pVLVFlSi1fdnRjMnlJM1FtUUFMQ3ZwZjh4MUxzekIwc18zVWdLVF9FVkZ0SDhsWWZ0aXZCRUlXcHJ1R2I0QmtpdkR1TmVEVjJhb0xweXV4TjlodXRkQjdPUC1ZS1IzYk9wYW9yX1UtTXBmb2hUQUpiQjRQVW4xRFdvUElwN2hUVnhWWEdqZnhHUzNFS0hHcHNIWTEwQ1pjNTd6azhjYmpVRzhxWVJydWl6ZXFoTElvTTNWNEVzSFVJV040NTlKM2RXY1U2bTE2VTlkeDJoU1kwMUctVkd0Q29NdGJHZGVrMlVoYmhoYzFJZUt2TUVHQUx0QVUtTnZpTU0ycXhMYW1weVJDQTJjT0wtMjd0bzVJNUNCamM4SFpnemVuRnJ6S2ZVRE83S0NtbjQ0UjZ4bW53MjFTZm51ak9LYnp3dTNlOTJKYWptZHg2Zm1ac2JXZWVMLU1jcTRpbE44cQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 20:49:00 GMT",
-        "discovered": "2026-10-06T00:59:47.847136+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "رغم رحيله.. شبكة إنجليزية تحتفي بإنجاز محمد صلاح في الدوري الإنجليزي يلاكورة",
-        "player": "",
-        "content_hash": "d2458976f98ea29be7a11c9cbad5a8f1a4472661ef229298414810a3cc673113",
         "sent": 0,
         "section": "transfers"
       },
