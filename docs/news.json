@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T07:12:58.429906+00:00",
+  "updated": "2026-10-07T07:33:49.328183+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -565,6 +565,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 9386,
+        "title": "الزمالك وزد في كأس الرابطة.. الموعد والقناة الناقلة - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNbklMMEVSQWw0bFRPVjY0UzNNSkJKRE5rSkdfTkJ6SmVNcmZRRWtWZF9TbG41cGh6U1gyNzNERmY3ZW96MTc5Z09mVDhCT2xmQnNWNkdBNTFXMWZSdkxGQUVfTEQ1cndMdlFmN1NfWkQwT1BQWTZLMkNjZ08wWHZkX21lREJJNkdxLWlTN1FTS0djQ2s3V0JlWk9WR0oyRzRwdTJiejVSWk40Q3I0a3VaQzFlTjBzRlFlRE1LVHZBWjVGUm1tQmlPNEtXTTBJNlhsa3NObW5ibFk4djYydl9nOVVoSjdPSkROckVVYUJocVREZmtVRkl0RlBFcElkbjRWYzR0dy1GamdfZFdyb3ZLWFJlN2R5Y2IwYXZqSkJMUkM0THdoeG9vNEh4TE5LTzREcmRzcHJqMUE5MGViU3JtVHRYMWYzMHNOT3ZGSHVabG12RTRyTTdaeW45by0wQ09MV3hNVC1OeHEtSUZ6NEhNTjlLN2JpaklqRlppa1BjcTZOUmFUR2ZvemlnY01uVUc0N2lzQWFHdHM5MU1YZHNSWWpiaHZNUk1KY25IMnJoQzJ0MVloMnhWZWRrYlNPdzhKM0VJeVdMU1FJUdIBzwNBVV95cUxQNnNUeUpZdG5sRzN0aHE0VENGYl9WNFRabEFLV1JHRHFiR3R0NUs1TE5VbkRxR2M5RnJiaHhkTzB5ZnhZekwzZGhJNzdBcGp4YnA2eHN6ZDkyR3M3bmh6NEtKRGFUeHNpaEt3cEJSVjRtX2dNY0R2Q29fY2VNaFFGX05zektZNVg0TFRkT29LSzAwRWNoRDlJbG5MdGtweXZ6ZXVoeFNFb1hMUVJ0QVlmTzR0cDZCcmp2UWlMODRmb1RFQjRNZW9BTGlyeE9jTUZYUVBsN3ZXQ05uQjVZc1JSMC1uelV2STI2WUZIWG9LYW1UakhRZ2FQYjJZd3BzN1owSTJ2amdXeU1sU2pPbGs4Sjdqb1ZtemhBS1dYMDYwdEdZb1hCUXp0NWViS3U1Z0NmY2xWLW5fa2VwR1pHLTlmU1NsOHlsU0RObzVXTEtjSVExeU1IOG5zREk3eFRYaWp6OVloZFpsc0dfVlJybFgxSGgzbE8waldkWndNZGFacy14RzBwMlozVjNQNDd3M2E4OVJlWEd6NkZxV1A3SnFKRWNQRHpqWHRsN3pUYlBOMTV6eTF1eTVoajE1bnpLMzFhcjAxcXFhZDFhbFJ2QmVZ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 07:14:00 GMT",
+        "discovered": "2026-10-07T07:33:35.712923+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الزمالك وزد في كأس الرابطة.. الموعد والقناة الناقلة يلاكورة",
+        "player": "",
+        "content_hash": "e169cb75fb59179abce820988a25782b4aa15233c91a17ee8c2e4ad0bb6d29bb",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9383,
         "title": "الأهلي وبترول أسيوط في كأس الرابطة.. الموعد والقناة الناقلة - يلاكورة",
@@ -1346,22 +1362,6 @@
         "summary": "لجنة الحكام: حاولنا استقدام مارتشينياك وماكيلي للقمة.. وهذه خططنا لمباراة الأهلي وبيراميدز يلاكورة",
         "player": "",
         "content_hash": "f45fb1bb90d1c7206cd2f3ed5706e4bb9a85c28e79a7fa203f149e47b3a0a931",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9257,
-        "title": "قبل الصدام مع الأهلي.. الزمالك يتأهب لمواجهة زد في كأس رابطة الأندية - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOVEo4WUVMdXFXellySVdPQkw4ZkplMXEwRUdfSFBrUHcyeEc1Z0dJbTFjSmluZ240Z3drN2xKTUxlOE5INXY2UkNqRllrVjRzWld1WkFBUjd4NXdpd21yME5qSG1qdlN4SVM3M2Fpd1J2WW5ZQ2JWMEtHbWdRell6SDdKXzVWeDZ5b01JUnl5V01RU1BKeE4tTlJ2Y3BsWm5FSFN6X1VPNzVObE5JbzU4TDJWUVl5WUNZMFEzaUJ0WGlxNkkxbm9oa21UUENtRmpVZEMzQXpnbTJteC1tbTZVWU9HYnZXX2pMalVXVUNDdmN5SEhZRmg5a1M5R2FHM2g0eUQ1U2ZQZ2VGZFNBQU1MV0ZTWVNOOWlFT3A1ajNYQ1NyUE9oOVNHUVBvbThTN3l5eXdRU1p2T3A3alIydWpUVnozczR0bmJiMTl2QkpNSzN2M0E3c0t6N040V2FWazI4RnFiZnBoTDJsajlpcEVtaVkxaEI0RExPbm1kTzEyNHE2aDAxZTFjTGV5QjVlaWxXWjB5R09ST09JX1hTb2pRMXhZalA0R2dRS0FjWDVJdzVxanRBb0hQNXNpX2d3b2xzem8xcnFlcTJwakRMZWJBYXhUbFJ4bzFtTW5RWFRiU1Y3aEFkcXlfejcwQjJ3OWZjS05vMnAydWJsRUstRGhRQkEyY0FBcGxXbnhSeUNYN1pqeDdFc1hNSFVnTTBxTlJiTXdLRGYzdEVuSkhMVGw5d2xFd1VfVkhJ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 21:19:00 GMT",
-        "discovered": "2026-10-06T21:59:55.136714+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "قبل الصدام مع الأهلي.. الزمالك يتأهب لمواجهة زد في كأس رابطة الأندية يلاكورة",
-        "player": "",
-        "content_hash": "de22d658ff61f35864f5c005cbf719845e3c76d5ffdacb2971ef0c58b8ea8747",
         "sent": 0,
         "section": "sports"
       }
