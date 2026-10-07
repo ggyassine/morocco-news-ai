@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T02:12:30.106763+00:00",
+  "updated": "2026-10-07T02:31:25.620166+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -530,9 +530,41 @@
         "content_hash": "424d41dbe058c0ff14ee78d33bf2d73955cca397b61a3ab82e0564f1582c515f",
         "sent": 0,
         "section": "morocco"
+      },
+      {
+        "id": 9115,
+        "title": "بعد آخر سهرة له بموازين.. فضل شاكر يحي أول حفلاته من الرياض - ar.le360.ma",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fbS1oY3RqZWw1WHp1U05oOTRNMTVodk5OdXRNeU5UZU51SFBWWldueUV1TTA0U1EzYmQzNmRaUzA4UTMtLW8zeVMwTzBSTE9QYW5ZLU1fWHBvZHJiNmtFMHhhQnc?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Mon, 05 Oct 2026 00:57:30 GMT",
+        "discovered": "2026-10-06T15:45:00.621415+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "بعد آخر سهرة له بموازين.. فضل شاكر يحي أول حفلاته من الرياض ar.le360.ma",
+        "player": "رياض",
+        "content_hash": "9746931935cd78d4a1523887b634588ae92e6f561d0d0e645e45e3ac0e16c229",
+        "sent": 0,
+        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 9346,
+        "title": "فيديوهات | هدف ليونيل ميسي الأخير بقميص الأرجنتين ضد بنين (ودي) - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xMi1fdUNmYXRqSEJvbDBMdTlZUHd6TXk0UzZ5U1VwVVI3c0tXZk5sUGJQR0F5LVdNSDhhMVc4QnVudUdIYVRhcjlFd3A?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 02:16:00 GMT",
+        "discovered": "2026-10-07T02:31:03.110873+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديوهات | هدف ليونيل ميسي الأخير بقميص الأرجنتين ضد بنين (ودي) FilGoal",
+        "player": "",
+        "content_hash": "95d1adf0891287fad03f9a24afbe63cb40d348fcb66bf1de0ed61b9e7f416e68",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9340,
         "title": "\"يترك وراءه إرثاً لا يُضاهى\".. ميسي يختم مسيرته بقميص الأرجنتين بهدف وتمريرتين حاسمتين ضد بنين - FilGoal",
@@ -706,6 +738,22 @@
         "summary": "اللاعب Fernando da Costa - الإحصائيات والسيرة الذاتية Kooora",
         "player": "",
         "content_hash": "ee14910f4bc2649adacc78495821dbcf4b1ffaac98c7dc8b658b0851f14768a5",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9345,
+        "title": "وزارة الرياضة: مصر مستعدة لتنظيم كأس العالم - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPNGZuQl8wRkI4MzAyRDJBMDVFREhMN3FVSHN4YTUtNldVVl9kQWM0VHB3eFZQazlRN1MwNWFncXEyM2x4V2FpQUh5UC1UNEJ4MTBkRDUzT0Vxb2puRVVtOWtIenU0bTl3aGg1M05PQ3JJOEhzV1lSNkxocVJzc3FGVlVWTzdXUEdwR1RwWk5LUmlNLUZtVkI0ZnRBMTB3QkdwRFhVVGFiMG1kamsxajcyb3BuOHNyanRyZWRTaW5qanJZSUZSQlRzclRsc1hXSXdBcFZuWXExckFudTIxblUzRHJibHk0QUxVc3JJdVhCcWRTOFpWT0d6bGFianZDMEZzQjlhVk9xY2RUUnZlNXhXdWJHT0ZZaXlMYmFQSUk0d1d6U0dsSEk0a1lxaU56UUM3OVdaQlk1c3dmTzlCMUdJYzJJR3BzZmJ0b0VQZDhYSFhKaFQxLUkxdTF3SWxsZUtOaFdUSGxqSUhaSWFteVJTbUp2UUV6RGNlVnp5SVBNaU5iaUJKVU1FVkRMd9IBkANBVV95cUxOSFVfRmRwYURFcWVqM0s2S2p5Qy10QXZuMThsOVpJTmhWWUhRVDFxNkNJS1pGOHV3T3NadE8xUmhJZzBUMWhJT2d3X0JrdzJSeUNpMzV3U2ZQaVhMTloxNmxmdWR1Und6OVRERGc2WHd3OVNqc3U5YzNrb0xIdHZpeUJNUWFDb2hnMm8wMEFuM2F6X0E1b1lSUjJNNWptcU1LWUs1ZHhIQzItSFp5dkVqZ05GZ0tfMDhjNWo4OUl0Yk9XdGlHU0NmZVowOEt6bFk0RXhTcFdJamR2QzM2a0Y5TFoxZXRzaGwyU0ZpVkpKMjdlNXBxN3o5SHpWREF4bU5wOXFXcl9DMktFdzlBZzFOckgtQ2V1QzFzcmpRYm5FUU9zLV9OU2VmbFE2TGd1UV9jWmlBNnBUMWFOUlduejdUMWphRDNxOHJGdzFoZHd3cC1BVW1HT0tPSENmbzZUWkVqQmgyR3cxSWxaM0tMSnM0WGZhamdyQ3Z1Rjk3N19leDI0Z0VUQXpYYnFwdnVPVE1h?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 23:36:00 GMT",
+        "discovered": "2026-10-07T02:31:02.241765+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "وزارة الرياضة: مصر مستعدة لتنظيم كأس العالم يلاكورة",
+        "player": "رياض",
+        "content_hash": "848a8b0cdc3897edafd6321313d6167b4a20134667246f9990f273feb5f02ec7",
         "sent": 0,
         "section": "sports"
       },
@@ -1298,38 +1346,6 @@
         "summary": "إنجلترا تصعق التشيك بثلاثية في دوري الأمم الأوروبية يلاكورة",
         "player": "",
         "content_hash": "e747ce84c520dc38748a9a9bb8dc491fdd8af3a59128fcf7a0726de6a107ee2b",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9224,
-        "title": "مناوشات انتهت بالطرد.. هل تعمد لاعبو السعودية استفزاز جماهير الإمارات؟ - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxPLXNWVlBUaFRaX2FlaExiSzlmSHlkX042ZXZKdkR0UGRadmkwakJCUTJyVm1Td2FZcTIyQlJtQ2xrVW53V05nYUNQcXg4TUtiZW5GNmF3ekpOdTRDb2JsZjJPQ2NtVmpuM0J1NHZIMFNaV3o0Q29JcWs3OU56NG9uQTlUak5tUnFQNHlQVkVUSUx2dFVGZkE3bE5HVjdGTDRvcXFPc0Z5QS05Uk5qZXJWSVJmMjVYUnV0MXFYSnRnMkZNWkV4N2NWMEtqbEJmQ1UtS0YwZl9CUnZCOVRKQmsyWXNtLXQ5U2tpQ2RmdFhMNFRXUHlKUGxUTDdmdnFHQjVXbU10SXU0R2VnWk80YzNrZ0tpalUyakY4dDROQ3NYVF9ZZ2swZFA0UlpwNFFEQkxUNE5VYmNPM2FWQjNBSXlwODc4bDZQalRhZFlNWmhYLWI0UDdtU3l6YTdrbTdKak5VeWhLMkFsQ0ZoR2ZidzdJdDM5LXhvQTFyOV9VTVdlSG84S0dNdndRMWhkZmhoWGpKUFpGSmVPVG01SnR5dWhEU3FiR0I5T1dMazJBcUZRYWoxalJzUzJFRkdhdkRZVjBHNkNZclJCSDZKXzNkVWd1RUZDSjBJWG9MZ0pTVnJsS2U4SjJFRzJQd1NXTEE3SWNSTlNxZ05wcHhBS2thRHh2UzdsME9Pcy01amxSWHlJVWlyaU1YRHp2ZGlzWFhiMDRJMVZ6QnMzNWgzN3NTRDM2V3FiYWdER0JmR2FJdGZ6Q1lXQ2dNc05hQlZsZUxXY1RYTTJKVmRzUWRHTWpGNXJMbkhmU0VTRVpNcC1Ba0hoRUFmYWRvQU1kSS1RQ1BTTjhvVENoSVdLMzhPTHR0d0hyZ1ZPdEVWa2M?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 20:36:47 GMT",
-        "discovered": "2026-10-06T20:38:06.644717+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مناوشات انتهت بالطرد.. هل تعمد لاعبو السعودية استفزاز جماهير الإمارات؟",
-        "player": "",
-        "content_hash": "6b9282b791d347368ca6f01e5ae542e0e4da0c0177f6518843515cb70aec5bd3",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9229,
-        "title": "رئيس الإمارات يهنئ منتخب السعودية بعد التتويج بلقب كأس الخليج - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPRzE0Ukl1NFJNRG5OOXkwRklLRzduVlF5alkydUxZeTdBbkdYSUNLVlBtZjlnRFVubGJ4QVlJOWhZNXJaT1FmT200UHJnZTdfOVVVVlpPNXAwV3ozYmFwOWo1amo1VG1NN19hZVhLQXBVMmhpN2lSbjN6dElfODRuSDZEUnFHc2JDbFc3azEyVTJ6THdsMVBsS3EtanZxSGtpdjBCelZ1ei1FMm42NDljWURfUFNtTHRld2haOTN6b1hRM1hMZEsyWXJKNkpFNzNULXphZ2g1UHJKV0FOclY2VGhtanZBd1daSHhOVm1WMG1LVWFRazZKV2x1TnZQTXJLZTJnMFo4bTNiMGRueWQyUUQ4NjZlMjJoaTlZejc4UDdqT2o1TWhqbDB1QmszOGZ5RmtURFZERzNuVXIwSzdDSThwdHB4N2M4b2lKVnB3Nk5QS3l5ckkyNFNIbzB6dw?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 20:32:57 GMT",
-        "discovered": "2026-10-06T20:38:13.911720+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "رئيس الإمارات يهنئ منتخب السعودية بعد التتويج بلقب كأس الخليج 365Scores",
-        "player": "",
-        "content_hash": "ce8fddf2ee814a0bcf2e6b233810e85712f78b2b1805a8520f5050978c37749a",
         "sent": 0,
         "section": "sports"
       }
@@ -2102,22 +2118,6 @@
         "summary": "الريال البرازيلي يقفز بـ5% بعد تقدم بولسونارو في الجولة الأولى من الانتخابات الجزيرة نت",
         "player": "",
         "content_hash": "435d53f854024a1ea1747336a961c852c3d2ef2cd14471e52dba8a3897424b95",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 8845,
-        "title": "آبي أحمد يبدأ ولاية ثانية ويتعهد بضمان منفذ بحري لإثيوبيا - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNZHhvcWVHYldJMEYxUHNLZU5vVm9zZnIwRm5PbWhySkkyR2hRM0ZPaFJDeHJOOUlNcEhDWkpld0JOSnN6RFdzYkpIQjQtUUpsNi1LZnI4b2NWZnA3Y0gwLU5ROG5sQWFvZ1c1b0NmaHRfVFdGR3M3U3hLaS03b3VtMmNCNjNzbGtjSHA0M05QdFhTME5uV3JLazFydGxhTF9kMFFxMF9CMEVDNnZVVXhWa2hsZ0VJcThRQTR2ZjNDZFBQZnNBMjRWYUw2cFl2RzV1UGlQMEhQQWNpUVBWSFh1ZzNVZmxzdHVGTlVtM2llRWduUFlpQUg2Y0R5Z1dGeTdPSUJvQ1pBQjNGTFdmRm15NGd5eFRreXlRZFI3bVd0Sk9kWnpZZ2NIMTNJWnJSQ0VVTnA1U05uTmMwTWx0dHFVREtOWnlMc2s0NTdtcDlNNFRnQkQ4dFR2QjR5a9IB4AJBVV95cUxNMmR3c1ZBeUdVeUVWT3ViLVJ3dVpLcjltNXV2Z2ZQaHlXSzE5X2l3Vkl2OXdEcnBERWcwUzVEYWVmdTA3LTdkdEFvZng5dEJmVlVaZW9fekxYaGp4aTByZjBhb2FlTUVKcHl3M0V5VkJlUElDaEZGSnBlZmVWVElWdDRfcjVjeDM3VmlJN1FsQmRoakJwZWZBMi1peW1ZRTh6MDRsNE0xYmRuZHA0WlNwZm9icWtPejdwUVF3NHEtd2Z3QzlMWGo0XzJSUTdIQmswYWFrSlZIZHN2OGx5bGg0ZWFKUUpIZzhTRG1MbFhSMklyclBVNUxXMVFnZFJmcnNtZ0dGUkdBNXNoTy14eENPLTJzRnhvcjQ1VF93aDlsYmQtX3F1SEJWaE9md01OTEgwM1dvLWRyRVVZV2dzT0lXNTM1TVhYYUVvcFoxTmVwdDhqLTNoTjFWMmhIMmRrYUFK?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 18:31:33 GMT",
-        "discovered": "2026-10-05T18:53:36.218767+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "آبي أحمد يبدأ ولاية ثانية ويتعهد بضمان منفذ بحري لإثيوبيا الجزيرة نت",
-        "player": "",
-        "content_hash": "605da3c05f019865c57c2f008a0ff5ae88e3fffa334bc9b4367bd6041deeb1bb",
         "sent": 0,
         "section": "middle_east"
       },
