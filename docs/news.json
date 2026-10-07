@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T01:25:23.277288+00:00",
+  "updated": "2026-10-07T01:42:18.607151+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -514,22 +514,6 @@
         "content_hash": "424d41dbe058c0ff14ee78d33bf2d73955cca397b61a3ab82e0564f1582c515f",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 9115,
-        "title": "بعد آخر سهرة له بموازين.. فضل شاكر يحي أول حفلاته من الرياض - ar.le360.ma",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fbS1oY3RqZWw1WHp1U05oOTRNMTVodk5OdXRNeU5UZU51SFBWWldueUV1TTA0U1EzYmQzNmRaUzA4UTMtLW8zeVMwTzBSTE9QYW5ZLU1fWHBvZHJiNmtFMHhhQnc?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 00:57:30 GMT",
-        "discovered": "2026-10-06T15:45:00.621415+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "بعد آخر سهرة له بموازين.. فضل شاكر يحي أول حفلاته من الرياض ar.le360.ma",
-        "player": "رياض",
-        "content_hash": "9746931935cd78d4a1523887b634588ae92e6f561d0d0e645e45e3ac0e16c229",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -710,6 +694,22 @@
         "section": "sports"
       },
       {
+        "id": 9334,
+        "title": "حفل اعتزال ميسي دوليا.. القناة الناقلة لمباراة الأرجنتين وبنين - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxNblBSa2lXdEFxM0lXUVZPS1hZOGl2RmZUM0REaWZPc0JwVk1XSl9EVEZZM3VWeDhGUEVMNXhIaDc5V2RiaGdhbTRsMjIzeThxbmcybzJuRWxuRndnWVZMNHZQbFQ3Q1dkQ3ByYTZ3b1BnbUEyLWxqeG5YUFFtRnFqRmhaeTY3ekxpcWFUaVMtUG56d1RFUTRDRDB0WlM5Y1B5QkpSWVQ0OXg1bmJ1NEtTVFFFXzc5QTRpWm1GOXZHYVhXYy16SFlsSWlQSVNxM3Z2ZkFITVNDckN6Q2ZRWDFrcEM1VFFDWVp3aGR0RzBvWGxFb2lHTTlvcTdKR2V1TFgzbmZyTzk4YU8wQk02UWtZRkxuYmdlZVdOVzBnYXhkZ1RDbzV6Q1JHTy1JV0xpV1BXcUZmRkZOdjVMTTcySGl0UEdmZTN6SHlLMllwNmVCc21mdHpVMi02TkNCVXdMS19ERUFXU1MxeEpscnRWeFpxT0hVRmtGN1VBVVEwQlQ2Y2RtWjR1QldXdnR2QXJZbWc3TVIxV3hfeU8taUNYYmFxczRZX3d5czJKMDlGUWlxQlhpY2h5c2V2aHo3eEJYSm9PT3c3el9aNWcxRTFQWnN2M2d1NGdjbDJQUEJsR3Bzb3hXLUxsZExwblh5R1dQOTBpZ0pWRmVXakdlemliTG40QThoZElDZXpGVG5jcFBjLVlSMFY2SVNWMjk1aWhtby04M2fSAacEQVVfeXFMTmtwTkxZZTlDN0NEOExwX2hMazNxcmM3LTdJYmZ1SmNuR192dFktY2o5VGQ1OEpEaDltV1VvVkN4cUFSalBwc0J4X2FKMkUxNy1mMHlOYjdBbml1UVpaV19XcDV0VS1uQTM5aVcwQ1luS3pxRWp5Z0diWGVLOUF2TXc2Ni1KTVMxNFNwcHNwZ01md285ODFoLTl2UlpsSTdLdkhpMXNSR0ZMQm1SR09TeDhMOUJTc05PWFdMSm1SV3hXLWJSYVVZQTNhaUotWS1EYUstaGtjMkowczNJVHNSZXh0N2VmdnI1TXdkam01c0Q1ZU9oc3oxYktrY0t2aThUcTRtai1iTWJFaTlSem1kemh0SW9QbXVFM1JRSm9ETTR0Rkd4VEtwYWp5SGhZWlhId3VtX0w2ZFo5dGdkV1BNb1RvQTNYSFNfeGlfVHBkdm4wZVU3Y3VlSk50VWo1TFJhWFhJUmRGZHZOZkJmbDZOdE0zUjM5TFRjcHJPZmRtVGhhTG1tVVRaV2phQmFTckM0N3ZXQmtpblJwbTdFTTYzSkxITmpOZ1NDUlF1czVUX2hXZ0FmLUVVVUhiUF9BN2duQXRxTzM2bVpjMVA2czVxOXNJb21oR2ZHYm9HLV9MSkt0SWQyZ3pjUmpidTJHblVXRFROSjBtV04yWG9ITE5yTUNfTUd1RGdDSXlxMTJoUnNROVgtWTRCOWxyTVptN1k0V3JFOEt3Mlk?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 22:43:00 GMT",
+        "discovered": "2026-10-07T01:41:59.823982+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "حفل اعتزال ميسي دوليا.. القناة الناقلة لمباراة الأرجنتين وبنين يلاكورة",
+        "player": "",
+        "content_hash": "c612bd776f42654356fb1370fac7d5f9f784ca82d463ba53358158336bdb91f5",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9275,
         "title": "ناصر الدوسري لـ«الشرق الأوسط»: تعاهدنا أن تبقى الكأس في السعودية... ونجحنا - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMisgVBVV95cUxPR0U0SXNNand1eFVUMnVCYm82UzFFUlNEOXV6eDBGMC00SnV2VldCVWZBbS0wT2NkZ3VtWUN2Y3JMN01La0hpWDVNOWwwUy1hTW8wWlZtVFl4TkFKeDNJVVVaUmtLS3BOTWlPcUxvTVNKbDBxTE9yOUlmTlFqVjRqQS1WdUU4UDRkeXE3WEx0LWpsUm42TzU3YlJDM2hjZWZzamlIVzcwcGt1UWQxMWJCbWl4a0Fia1djNUZzWWs1VUljUVBkOHhjcXdDYl9zRmMxRUVXbUdGblp0TXJ4anZkeE5lQ3NkT2w1YnZub3lJa0ptbW1QWXhobmpaRjczSDJpalpNN1RybzN1WmJWNEhwcEI2TjRnc3BISHREaTd4Ym5BMXlPTHh5QVcyb2lrbS1LS0J3YjREVnIyeXRCUFZZQ3FCQlZ2OGx3X3Jwd2RfNTJVWnBFQjRwMkx6d1ZwSDZOMkFEb2JweUZZNWhCZ1RmcWRfT29TMjJ5YS15aDdEenl5UjlnUGNKNVk4RGdQLXpNOU9RYUlVZW1lbjlKdHZfbE8yX0lYQkJVRXJKQmg2T2VMTVhPRnNMbW96M3NTNkxzT19QdjdmU3FrLTd3OHRFLTNKZWVMZV9DVF9FTmdNVU8wdkVkT0YwZW1Ydy1FRlczUk1WdjAtRDRmcGF3NjYyZDh0OXN0ZUJuUVdkemZjZlE4TTlfZVBpaHJMOGxWVENrc21VVUdYa1pPMUh2OFVYMVFzZFpEY0NKOHBQWVMtVGhGdGRtVjhsOXRvUnFjd3c2c291THQ0ZEkxdUo1M0Qxck0xcmtCLWQ3dTUxX1RnTDNtZHRucE1ncGpKeWFGWUd1ZnhMVDlScS1ETWFLVFpDZ1JBZ09iU2NvMFZFMl9PS2xfSEFOMDhqZUttVlhTbVdsV2c?oc=5",
@@ -834,6 +834,22 @@
         "summary": "الفيصل لـ«الشرق الأوسط»: كنا بحاجة للقب كأس الخليج... سنبني على هذا الإنجاز الشرق الأوسط",
         "player": "",
         "content_hash": "f7b3202f3e6b5f29f99af8f1554d0fd15079b7aab3c3df3e36892da71b75e745",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9337,
+        "title": "وداع ميسي بنكهة أفريقية.. لماذا تستضيف الأرجنتين منتخبات من الصف الثاني؟ - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNRkZSdm1IRGJqWDh0RVRRRkVrcmQtTjNwV0hPQVBEOG1BMmFTUkZ2U3dMWS1ReC13MGg3Y2ZmWkxyd1dzLWJfVUpQTmJZQ2EzekpnUHNSUVlOUXZDeGwtYk54WnVIdUVMUTRHOFhyWjIwMzhPUnp1anBzWU9oUWo3MW9Vc243YUJlRjBlTnpPWVpaMVk4MWtlNnVSR2lfcmI0RHdBMmV1djBKbWF0ZHZHcWlsdU5hdmpMc3JMVzYyZWZHelFIZGRFX21JR3FWQlR5Q3pJV1RCcDBidEZQTnRWb0Noa2gyRUkweUZqajBfQW9vNW00SThQOWxxTC1kTWFwdFQ0RDFHNEJMSUtqSFZHQVdIS29jeUpQZXAyMDNyLUpxVmRMTG5fTHlONFRzU3lmaXFDQmhyNWFNcTR0R1Vnb0ZVRGdNMUI1Zm4yaTJzX1lWZzTSAdgCQVVfeXFMTWpreU81cEJkWXpuc1Q4SzFJZHFKTm1tNWpDejRwMmkxT05kOWlTQmFVZjlheG9UQUNoS0hDNURJX3BZeGdWeUhMMWZVRWVfQ0psb0YxYThzU2N2Mm85RGZvelFqcW50Q2pNZU10VWhtNEdsaWtzQTF1UnJ1UFJkQUxfS1VFZWh1OUR1c1J3XzMyeWY1UGJabElDY3VtUGxaQjBKdHlsck9qd2QxbUdIV0hsUnU1VWdYX1lia0JkTGpaeElCMTRjRHdYUlc2bDJyci1jLXFDYnFPX0E0OHVxLVRFbU9IcXdEMEszcjBCbjZVR09mQzlnLUthMzAtejJ5Z2tXQkxxakllT1JNT3k1THh1REl0bFc3MEJHN0tHU0RYYzBRNVJBSFdUSDIybjBmbW1CZnhNaWlXeTFvVlV3c3JnSGFZa0NReWlRbEZFVzFwX2hfdGJUTE4?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Tue, 06 Oct 2026 22:14:59 GMT",
+        "discovered": "2026-10-07T01:42:08.215302+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "وداع ميسي بنكهة أفريقية.. لماذا تستضيف الأرجنتين منتخبات من الصف الثاني؟ الجزيرة نت",
+        "player": "",
+        "content_hash": "b9da4cf80ff656497848bab24b5ccad8e3203c14b35027b314e207180f600938",
         "sent": 0,
         "section": "sports"
       },
@@ -1300,41 +1316,25 @@
         "content_hash": "9695c7a643648723ff12e8b1cd29d102118105fe8bf1ad3ab5218994df833000",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9227,
-        "title": "فيديوهات | أهداف فوز الجزائر أمام النيجر 2-1 (مباراة ودية) - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNVzBmMWQyVmtsSW9NWVdZVy15aVE4MDQ4dU9NUVhKdUNqcFZWYTZwUFh0NFFWRXc4dkFtNGF5ZERXeG1BcnM5Vl9jWnBRd21qdHVKTUpldW1TU1JNMktwLS1YYkNjLXFpTFRWTTVrM2UwU2NIc3dDeFNZWnNPbWxYOWpJMWg5WmMxSGNkdWctSWZEWEJjMDNwWEFuVE9PcXhpWHFnX3dicFdvOTVxMEVwYTRfS1JBLUMwbmNYbWFBU1g4V0M5VTMzWmdXbklUck0tSy1ZRkdEQk5pbDRqYVg1TTd0WUUtMzV6dTE1RzFPOEdqV0Q2djJ6aUx4WU5iZ29LY1M0bEc2RUhKLTJnWkZmNGZnZ3lWVkItQi1SWkEwb2lkUm1jYzRBdFFlZUZDWU5UNkMzal96QktHZXNZUzhZbVB0czd1U2JjNUVfZ003aldaWi1nRVFwaEc5UmNwT2Q0eUNFWmFkbGZmdzM4SDN3RTRkWQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 20:22:00 GMT",
-        "discovered": "2026-10-06T20:38:13.299600+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديوهات | أهداف فوز الجزائر أمام النيجر 2-1 (مباراة ودية) FilGoal",
-        "player": "",
-        "content_hash": "cfbc11dd8702cc7c71cc2782a77a09760e4db699fc87a0dd85180d6a33d87911",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9225,
-        "title": "إنجاز نادر بعد 17 عاما.. 480 دقيقة تكشف الوجه الجديد لمنتخب السعودية - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxPLWdmbFJXbk0tR0NNQWNOUnBVcmNVeTFXd2RLRmRkX2FMMUlGWUpJMUdJdXE3RzJjVjJxVTdFSDRrQUNoWHh2SHBQckt5RmFINWZQUnh4dVhZQmE4bVpMR1hoeXI0eTh5LXluNVBHbGQwR2lzM1FNc3I2UnoxMGMtYW9hdlV1cnBIZ1BEemNVbEZLRHNIMU1TZE02LWdlZE0xcndNWk54bFRlZndpM1dyM04yTDIwR21CcUJnSUY1dURweTRmU0IwOUNBYkozTXdkdm9TVzRqbDZnWmFObkk0Q0pIaEVvdlFZZmZxenNxdElud3g4c1VDRk5CaUNiVVBjQUd0bzV1Y1NkM0hLY05BOG51ZUtLcVVOZ2tUZWpLWTFia3JSWlA4bkxhZ0RtS1RHa0dzbU9VSUFLTlBvTkJEUzYtMGJULVNGMkU3dVRRbXF0X3gtQTQzUGlfWEtqNXF2RGFLQzhPTHlkMTM0R0dJRTJzT2pfOEdsQW1uSEF2SGFMTW5iX0FCYWtpQ3pWVFNGUlJtZ3RDMzRhWGp6ZEJCTU5KeFdhbXJIeVVfZFBvaGxPLU1VRWJKd0s1elUzVEh3QVJDTzBUaVpoQXNrVS05dUxoSmZUT1VvNnhDNzhRTmNHQmNvY1NzODF1SnBPU0JLNEdIRFhpY3p1MTk1LS1Bd2YzdzZaTXREOFk4Ul9TUkFUN1RPTTJvU3lnaS1YRVB3NzlPd1l0RFFPajhPVjZjVlJRbW9sX0k2SjJJQ3YwVDlmel9mR3lnQnJoZ3I5WlpuUXZlZlRjRUFUQXZEcmd3bg?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 20:20:45 GMT",
-        "discovered": "2026-10-06T20:38:06.663649+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "إنجاز نادر بعد 17 عاما.. 480 دقيقة تكشف الوجه الجديد لمنتخب السعودية Kooora",
-        "player": "",
-        "content_hash": "113b37639c5f4621e33b62939944d71e4929a05e67213a13e21ed1612dc06e28",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 9335,
+        "title": "ألبومات | هدف وتمريرتان حاسمتان ضمن أبرز صور وداعية ميسي مع الأرجنتين ضد بنين - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxNenlEb1FpWlpkWFdHZmNpamI4dlVObk9tWmxzaXFkZ2xJVWx4RTg4bmdXYU1FRUVhLVg2Mm5peElIY3Q4dGJmZi0wVTNWczh3VFlROVFSVWlvVmtIMF9BVlQyOXpGZDZtSjVxUHFBVFVWZ1U4alJNaFFLQXd1eVo4el9lOVR0RFM3SE9IMFJfY09fSVdtNFNCblZmNVUyYUJJVzlFYXVqMmZ0ZmEtRldWekVLdG1EcERmTEJtNjAtcFNlTmR4TE52Yi1tY2pqejBuMlctYnhOYThHNUVhdFdfMjVxUGd0cjd1bGMtQUE4b2s2US0xNGdYWnBhVFJnY3JUS1gybWhabzVpTVU3MjBMcmtvekp5WjUzZ0dxR3FicUFKaEprdTR2TTctZXFjUnZDRkFLeUZPNjJLNGJMRWIyYlNtS09DMllRbURJaWdRZzg0M3Z5dm4xaDhCcW51elFCek1PVWV6STVBWWdaeTZXMk9qMTRGbFQtOW1fUHViX3NGeFhocTVWMHl2VkxMVlNZeFNncTUzUXZWRUY5ZmVmUU9vcm51WWVFM0tVTWMyNUZFUDEtVXl2RTFRWlJUM3lFTElSMEpMcGVacmZ4TFN6bEctMUsxc3FDWWwycFZPRkctOThqR0plQzZnd2N2VVUzR1ZIMVVVVC00R2hkc0staHBvMEtRdE9pSFhka3dkS1p5UXpBczAyajJ6TVE?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 01:24:00 GMT",
+        "discovered": "2026-10-07T01:42:00.512286+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ألبومات | هدف وتمريرتان حاسمتان ضمن أبرز صور وداعية ميسي مع الأرجنتين ضد بنين FilGoal",
+        "player": "",
+        "content_hash": "b5286a850c30c7c7aa752c8361fbd5d7047f46f1eaa856d659fb378bddba00d0",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 9328,
         "title": "يلا كورة يكشف.. 4 لاعبين من الزمالك ينضمون لمعسكر مباراة الأهلي - يلاكورة",
@@ -1444,6 +1444,22 @@
         "summary": "ناسا: صفقة صواريخ ضخمة لمشروع القاعدة الدائمة على القمر العربية",
         "player": "",
         "content_hash": "715e9adfe508d479aed2a6c481e6ec0bcdc6ad5b251eb81af1ae8d624bdfa164",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 9336,
+        "title": "خبر في الجول - الزمالك طلب الحصول على إذن لتأخير انضمام ثلاثي الفريق لمنتخب الناشئين - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ldGNlSmhoNXJHbHU0Ry1Hbld3SjdGc0k5Q2dJeTk5N0VoMW9rV3JxTDEwLU03OHhlSGtRYUJMeVE2d3ROT3Y0VjJXNWdjMV9K0gGQBUFVX3lxTFBEMDNPeUgzenpwYVBURUx6VDJvTGdnSzltanBqUm1KQmtGTy0ydXFRZEVRWHNaUHdZQ3Y1WmFkRUNnUTJrR2hXRTdLZEdleWNDR2Voak94RThYMUhzZW9QT3Z4ZWJDZnQ4OS1CQlhEV05ZZ3dTTk5jcVpiUlQzQzFJX0hLcjZDeUw4WmxJbU1xNXBDMUlZMTY3bDZZM01TcF8ycFlJZF9vVHNIWDZHcWJDSW9xa093ekhpcWt0UUlKSnY4bzVrODBGVDRCajQ1bTQzRk43dVVXOTg5SnVQVURaR0dyRFBsbTRLT1dkQXZPOUt2MlRZeXNQOFpUN1U4cmZDdVE3cnNCY1hLaGxuaG82akpBdlgweklsdlk2MGdHQ1FIZ0JDT0o3Ul9NcDNsTnNpWEN6ZUFkN0kxUkJuM2x6RnpaYnVxSmxtcWVDbjFfMmxBbGFkcEo2aUxpMlhFMEoxak00LTdGLWFYTkUxY3R4OFgyVHA5aDlpSEVUNW9pcVlFTy1TM2IyT2hrSEtfSS1HRHlGMXY3RTNwYngtZms3OFdCZmtoQVFfRExBbGtKR3lqYi01R3g5NE5NQTRUenFJMTcza3hzMFl5NGF1aC02cTg1SWlpOEtDenZpalpQNjNlWnNBUTd4ZVgxWXZHa0czSnAwOWw5SFRGWi1iRTE2V0pfM3VjNmlmMENLc3dBQUV2bFczRmNacmx4VWtXS0tNNmR6aklxb1hEWUhGSGhyZVB4REZ0OHhCa3JaWUlTSWxTUmZwX29mY0J6WDVoc0RQUllEejVSbGxnRnplNzBHZmhaTE5yN3FpNjFEYmVFblE5bDVYWVRBT2RBazNTVEY4cnlneFNzRTBIMnhaTko5?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 14:59:00 GMT",
+        "discovered": "2026-10-07T01:42:00.520883+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "خبر في الجول - الزمالك طلب الحصول على إذن لتأخير انضمام ثلاثي الفريق لمنتخب الناشئين FilGoal",
+        "player": "",
+        "content_hash": "30e12120ff1c037b5649d8e64ca85164945c0af63d4b8428c5ee6840aba4f353",
         "sent": 0,
         "section": "transfers"
       },
@@ -2150,22 +2166,6 @@
         "summary": "«نوبل الطب» لثلاثة علماء كشفوا عن آلية إنتاج الذكريات والمشاعر الشرق الأوسط",
         "player": "شاعر",
         "content_hash": "bc246431d2f9cad11d2152c921bfdb9985fb5e2e1bebae55dacc356f5c71282d",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 9061,
-        "title": "انتخابات في البوسنة قد تؤثر على مسار انضمامها للاتحاد الأوروبي - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxON0xGNllQLWNOb0NzeXpvVG93aXJVVU5Zc1dyWVlwcW1xa3RKYmxtY1dXM29Va29idHZCMldaQVBCOHZBcGQ1b2FtOGRMeUt1NE1kOWo2WE1UWHZRTzI2QmtwQkIzaWZqdk54NjNUN3E3ZVFzNTluV3NmZGJkOThiMVd5OFVMa0RkZUN0LWVsYWR1TG1DVUVIQzI0UVJjbV84N09zOUxPMmVMeUhvVmJZazd4LTRyNFlZREJBcnI4VjBtUEl1dC00UmFYVlNTSUhIMnhBbTVGZG1UZHpFM2FyWFdPUnlESnc2RV9CTDFYWDlQNmpzbTNRT0ZPV05qNk52bVRWeDRqOGZRcXhhY0RMMDZWX181bFZzYlo2SWFZNWpYZlpZZlVwajFrcDMzYVMxblkxaVpXaWRDVV9WWFB4RVk5clc1Sk11dGlqa0RKQzdOa0tqUUJ6dUdjbFhzcDhDN0UyTklIWjhHcnU3Y2Y5M0dYcHdTV3ZZRnlubmZKUVVTOFRReWJaZEJiMk8wS1hhalBJZy1UUW5GNnVHc1FQWUpSaTVHdEprei0xLUlPWElIbkVkQk9oamN2WHlUOGcxTG44MWE3aWZ1VFRKbEtPTnE4N3NNV3RaZVc4ckhLbXQtdXdvTUE3TmdDNUFQczhmNkpfbGhfSEFnc2JfYnplaWlXS3hLa2JYckRiZUdhdTZBZEt3ZTZXZUd4REFxc0lrY2tDWHYzSU1qbExubEFkTGlrd0JTeDNWUS1ybHVOSENIOGN2ZjhNdXJNY0xVbkRhT1kzamNDSQ?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 03:33:24 GMT",
-        "discovered": "2026-10-06T12:03:08.689419+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "انتخابات في البوسنة قد تؤثر على مسار انضمامها للاتحاد الأوروبي الشرق الأوسط",
-        "player": "",
-        "content_hash": "75a3ae922ec6203ea5c95c335c86d8560e5641f3e085c621b0723c96aa1c74bd",
         "sent": 0,
         "section": "middle_east"
       }
