@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T12:35:46.096534+00:00",
+  "updated": "2026-10-07T12:59:58.667213+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -581,6 +581,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 9435,
+        "title": "حدادا على نصر إبراهيم.. الزمالك يقرر تعليق النشاط داخل قطاعات كرة القدم - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxQY2dManRDZFZFN2lHcGVDc19FdTFqNXJvYXlTY0ZlLTk3cjIzSE5SNUtocnVJamtsczFZcnEtclcyUUkxalowU3lPLS1uSDQ3T0R6NF9oS1RGYlk2TmpyVktuTlotRTI1bHFwU0dQQ3VjNFpHUWliWldfV1ZsSXZZYWFkTEZLSWZoanJFU19yalNvRkVSc3p6WmtLZ2ZzaGg2RnFaQ0pPdGt6RDZ5ZGtBTVdCVTRDOE85ZnkwU1I4aDBiY1cyUHFyQXAtNlFiSHpvQlN0dTFLci1xSzBneUFqMWV1aHhHTXF3S1E0YUc3eFpEeTR1aDNVRFhpYVczUHJKd3U2RHd3NDk1Wkc3bGRDQkNlc1NDcHk1T3M2Rk5LcGVvSEJBOW9nWERDTXdqUnhHd3ZOVk9nZjZ5RnRtSW1GQkZrZE1nSWtsTUNDVmZEaGNwbC05U21Na3hqeEdEZ2pveVdQc0VFZ3VRRFJFRTE0Z1gtN3ZPZ1VSUW91U0dGc0tnS1pzSV9CS3hkdEwtaUNCQVgyTE93VzZySzUyN013T29qUU1RcDEwS2ptUWNSR2tlVWtzWUFuZHNwaDdlZmhBSFdZYVc4TU1zZmtyU1U2WmwxOUo3TV9pTVNWTGRacmxJVlJISi1yUXBXZnJ2YkE4UlNvUHBhclV4MzV6TXJEYzRpMVpyOFJuZ0NFeHdqcjFjMVBHSVBhbmxRME5WdWlmTkcxNDVOZlZQZktyUk9sdNIBtgRBVV95cUxOSTBOLWVGazJLR3g3Tk95Z05lUmRwU3dXRXdPeWwxeUdSODhmWDBEZXNNOEc5X0Q1akxXMzl6Wi1JZVZ1LTVXN2QzTGFMWkx1c0g3bmpvSzIzSG53cUFLbW9vaHdjZGgwX21DbndLLWFCOXhzemYyeFg4SHlfZ1BSN182UjJPeEd0X1BsNUR1ZXZaZ0FUQ2xBZlRBeEp6QUtLMzl3dnVMQ29mQW54dHA5eGJuVlZsRDRHYWpSYnlfR0tUSHZhMmFyeUVJRC0xN0FfSm43eW1xNktwVko0N3ZUaU1IWjhRd0N5cE9fUWUzTkRyWjVIdGFGOVFUcml4WXhDcktIbElWNkF5YUxHaTE0M0pQaTlpcUYxcXBabl84UFR1X1lYMTV2S18yVVZaVm43dWJQTTZTS0ZTVkZZbWwwZGcySVJ0bjNNMjNBZm1FbFlMcmc5eHBpVV9fX3h3MEE5ckhkeEJSSU5CeFItaEpJYUxCLThVQ3BOTHNqVDlVSmFKV0NTOGpLb2JueG41dWpYeVhYdTBoZ2hZeTltYWlkZEw2M0E4QUI4dGl3QmUta0tkTzE5d1BQVjNBV0dYSjdGbWVHZFFQbHJ5LUdMS0xCYW9EUTRxcEg4bVduRm4tMmEycEhnQ0hTeHJxRlV6eDRWNndSSV9ROHFDWVJ6Qjk3NmplTExYWHBtYzNNdHZob0c4SU53YS1xS1hvNjYzWGtUV3ZoUzU4RmtSb3N2Rjhta0RXLVlvQQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 12:37:00 GMT",
+        "discovered": "2026-10-07T12:59:43.875041+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "حدادا على نصر إبراهيم.. الزمالك يقرر تعليق النشاط داخل قطاعات كرة القدم FilGoal",
+        "player": "",
+        "content_hash": "3acd8a0e3fd1512fb7f3a07242d17d9ee25ed505f534f21d037c85b77d243251",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9428,
         "title": "الهند تراهن على أولمبياد 2036 لبناء قوة رياضية عالمية - الشرق الأوسط",
@@ -1364,25 +1380,25 @@
         "content_hash": "2aeff3da4e349249eed7514e9407c6cd6545328ed1796583630752d89383d7e3",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9334,
-        "title": "حفل اعتزال ميسي دوليا.. القناة الناقلة لمباراة الأرجنتين وبنين - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxNblBSa2lXdEFxM0lXUVZPS1hZOGl2RmZUM0REaWZPc0JwVk1XSl9EVEZZM3VWeDhGUEVMNXhIaDc5V2RiaGdhbTRsMjIzeThxbmcybzJuRWxuRndnWVZMNHZQbFQ3Q1dkQ3ByYTZ3b1BnbUEyLWxqeG5YUFFtRnFqRmhaeTY3ekxpcWFUaVMtUG56d1RFUTRDRDB0WlM5Y1B5QkpSWVQ0OXg1bmJ1NEtTVFFFXzc5QTRpWm1GOXZHYVhXYy16SFlsSWlQSVNxM3Z2ZkFITVNDckN6Q2ZRWDFrcEM1VFFDWVp3aGR0RzBvWGxFb2lHTTlvcTdKR2V1TFgzbmZyTzk4YU8wQk02UWtZRkxuYmdlZVdOVzBnYXhkZ1RDbzV6Q1JHTy1JV0xpV1BXcUZmRkZOdjVMTTcySGl0UEdmZTN6SHlLMllwNmVCc21mdHpVMi02TkNCVXdMS19ERUFXU1MxeEpscnRWeFpxT0hVRmtGN1VBVVEwQlQ2Y2RtWjR1QldXdnR2QXJZbWc3TVIxV3hfeU8taUNYYmFxczRZX3d5czJKMDlGUWlxQlhpY2h5c2V2aHo3eEJYSm9PT3c3el9aNWcxRTFQWnN2M2d1NGdjbDJQUEJsR3Bzb3hXLUxsZExwblh5R1dQOTBpZ0pWRmVXakdlemliTG40QThoZElDZXpGVG5jcFBjLVlSMFY2SVNWMjk1aWhtby04M2fSAacEQVVfeXFMTmtwTkxZZTlDN0NEOExwX2hMazNxcmM3LTdJYmZ1SmNuR192dFktY2o5VGQ1OEpEaDltV1VvVkN4cUFSalBwc0J4X2FKMkUxNy1mMHlOYjdBbml1UVpaV19XcDV0VS1uQTM5aVcwQ1luS3pxRWp5Z0diWGVLOUF2TXc2Ni1KTVMxNFNwcHNwZ01md285ODFoLTl2UlpsSTdLdkhpMXNSR0ZMQm1SR09TeDhMOUJTc05PWFdMSm1SV3hXLWJSYVVZQTNhaUotWS1EYUstaGtjMkowczNJVHNSZXh0N2VmdnI1TXdkam01c0Q1ZU9oc3oxYktrY0t2aThUcTRtai1iTWJFaTlSem1kemh0SW9QbXVFM1JRSm9ETTR0Rkd4VEtwYWp5SGhZWlhId3VtX0w2ZFo5dGdkV1BNb1RvQTNYSFNfeGlfVHBkdm4wZVU3Y3VlSk50VWo1TFJhWFhJUmRGZHZOZkJmbDZOdE0zUjM5TFRjcHJPZmRtVGhhTG1tVVRaV2phQmFTckM0N3ZXQmtpblJwbTdFTTYzSkxITmpOZ1NDUlF1czVUX2hXZ0FmLUVVVUhiUF9BN2duQXRxTzM2bVpjMVA2czVxOXNJb21oR2ZHYm9HLV9MSkt0SWQyZ3pjUmpidTJHblVXRFROSjBtV04yWG9ITE5yTUNfTUd1RGdDSXlxMTJoUnNROVgtWTRCOWxyTVptN1k0V3JFOEt3Mlk?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 22:43:00 GMT",
-        "discovered": "2026-10-07T01:41:59.823982+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "حفل اعتزال ميسي دوليا.. القناة الناقلة لمباراة الأرجنتين وبنين يلاكورة",
-        "player": "",
-        "content_hash": "c612bd776f42654356fb1370fac7d5f9f784ca82d463ba53358158336bdb91f5",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 9436,
+        "title": "أول رد فعل من إبراهيم عادل على انتقاله إلى النادي الأهلي في انتقالات الشتاء - جريدة آخر الأخبار",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQbmRXdy14eGU1NXBHbWpJd21HSDY2Zjlkb2JZVDdPcWpQMElOdGFFUk03a1BMa0hleEgyQnlpRGNsVXR2dy1OdE1MVmc2TTBieTNSblRpUG9nSEhlT2taY0hUYTVEUUV5NVVCRkFWVjhlb2M4Ulk0UWxaT1ZZcDVWc3BmdF9jckVtc1E3Nl8tQ0hGNS1iN29ZT1RsWHlPdW9PR2VTdEpkS05UT1ZrVTNYUDBycGFZbDE3REdSRXFaQjNmUGhGTEpJOVBXV1hJTWlrTWR1NmJMMm52Y3dTNjQ1N0JSOFplTW1BbWtEcnRZenc0bmZjTEVoWWlsekR4OHhjQjc1RzdPeVBYbHdubk9pOE1jMkFWT0x0U1pBZ1BGNkRXQjVKSmszYVBEcW9WdVpwRWloYjd1V2tYVndFUm9xaHZnUjdyRHU3Q1E?oc=5",
+        "source": "يلا كورة انتقالات",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 12:42:34 GMT",
+        "discovered": "2026-10-07T12:59:46.793970+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "أول رد فعل من إبراهيم عادل على انتقاله إلى النادي الأهلي في انتقالات الشتاء جريدة آخر الأخبار",
+        "player": "",
+        "content_hash": "7e9026371e91579471547ed98c8bf6131103be8a3739b0bd14b199e5786f4348",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 9430,
         "title": "أسعار الذهب | توقعات ببلوغ 5 آلاف دولار للأوقية في 2027 - العربي الجديد",
@@ -2020,22 +2036,6 @@
         "summary": "وكالة المغرب العربي للأنباء تقدم تجربة رقمية جديدة على موقعيها الإخباريين \"mapexpress\" و\"mapnews\" | MapNews",
         "player": "",
         "content_hash": "4690a4dd682c8521bc44f83206297baaf61be69bf9ced719351520a5b438e274",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 8935,
-        "title": "رغم رحيله.. رينارد ينبه منتخب تونس لثغرة مرعبة في تشكيلته - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNOVN6U1hUU0pmX1FISXRJYVdSbnBNdE1CMEZaSDhJY3RnTWs3YWg1azNlMmlSdWszOWlUbElVM0ZLbUNyUTFGbXhrQWt5Z1JkeWoxX3hWUzZlTktTWnVnM3FWZnlvbjZsOXk2RzkxRnFaNXZCVWtNR00tMi0yd3BTSi1SRFV2M0FZSWMzTFVPU0JxX0duell3dXBlRnFrZWxHVmtyTm40Tmk0WTVkMHNmZUtZamxWbDJQRk1uMVVmMjdGY3ZLd3hMOUV0NHlYT256RHI0dFdTWkIwSXhuX3VudkszOWxRa1dHUnpzTTZWZ0k2eG1kTVFqQlozZlpKODNxbEV1MUpjTk0xYVNEQzVFbDZ0b3ZtZDhYX041eDd2MVotMVVHQWwtRUZhamxreEZ3bF9XYy1ac05pN2dpZkg1dVJtVGdiMUloTy1PTUVINDlKTFFGek5WVlQ0N0s0Nmt6UUhKMEZkQURZeUN3alB2SzBicjFfNzdhMXVDS2pZdVNxdVBzSVEwTy1QUlA4eEROa3FYa2hPTTU1THF6bDRmWDJ1SnVmb1IyTllRV0ZGcldkRW5PaHpLNVFFV09URlNDVE96dGUyZFMtRENGN2FPczFaZmhtSU9obFFkWjNvb3djMHR5WDA1NzM5bV9idkJ3?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 19:56:27 GMT",
-        "discovered": "2026-10-06T02:51:36.515317+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "رغم رحيله.. رينارد ينبه منتخب تونس لثغرة مرعبة في تشكيلته winwin.com",
-        "player": "",
-        "content_hash": "2534bdb8eadb81edeae98615eca205bc9521dec15adccd382de55168ab9c04af",
         "sent": 0,
         "section": "transfers"
       },
