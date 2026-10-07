@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-07T13:56:39.621275+00:00",
+  "updated": "2026-10-07T14:11:59.438109+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 9452,
+        "title": "«إف-16 بلوك 72» المغربية تنجح في أول اختبار جوي تمهيداً للتسليم - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IeV9rbm5MUmhhUWNYcUQzMENINGlyR3lqLTc2eE9JQ1JsQXBoWXlkWjRhTVpIRThGckxsMmpadkZnc25fRFFXTQ?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 14:01:01 GMT",
+        "discovered": "2026-10-07T14:11:31.948223+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "«إف-16 بلوك 72» المغربية تنجح في أول اختبار جوي تمهيداً للتسليم Febrayer",
+        "player": "",
+        "content_hash": "d76e7f0fb60c5f2d3822871ed661819b3d9a55b706a852603faa4165c9163b43",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 9408,
         "title": "الأمم المتحدة: متدخلون يشيدون بالدعم المتنامي للمخطط المغربي للحكم الذاتي في الصحراء - Le 360 Arabe",
@@ -2392,22 +2408,6 @@
         "summary": "معرض صور لماري خازن في إهدن يستحضر أسئلة بعد عقود على التقاطها القدس العربي",
         "player": "",
         "content_hash": "71dcb640cbeb41330003fdeb33ded8475389692df679a98778bd32df57f15f86",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 9080,
-        "title": "عندما لا يكفي النمو: السكن والتضخم أبرز تحديات سانشيز قبل الانتخابات - Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTDJhZmxGZmNpN3FkMmY2N2ZGeDhuUHdfVkRLOXc3UTE1X3pUV01EOVdkQy1acnRNTlA3UWJlS3V6Q3ZzOS12dHoxNi1pUXY0c3BMVWdqUENqam4zekt3aUN4UElpLTZwczUtWGtpbWZlczZRcHpPZzdReXdqLU9JdlNUVUJCLXN2LVhtMk5Fd2dHRTlMUy1wUkpaVzR5Q2h4OEl3dUZwNFNyMWhoanRxck0wQkx4akM3Rm5ZclJzMnBmRDdHcEZyOA?oc=5",
-        "source": "يورونيوز عربي",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 16:15:18 GMT",
-        "discovered": "2026-10-06T13:42:36.511261+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "عندما لا يكفي النمو: السكن والتضخم أبرز تحديات سانشيز قبل الانتخابات Euronews.com",
-        "player": "",
-        "content_hash": "a14536a9cffa60ec5c67201634e16332ac507bfe9e802fca1acd8b4d46a7ffec",
         "sent": 0,
         "section": "world_arabic"
       }
