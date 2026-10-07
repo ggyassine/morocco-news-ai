@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T18:28:34.292542+00:00",
+  "updated": "2026-10-07T18:50:24.472037+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -582,6 +582,22 @@
     ],
     "sports": [
       {
+        "id": 9546,
+        "title": "فيديوهات | ملخص فوز بيراميدز على القناة 3-2 (كأس عاصمة مصر) - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00RGFmZHM4dW42aUJXZEJpZTlTdU5HM244X0dwUGhucTVxTGMtVHBudjN5VEJmTy1jMkxuU2sxWS1GbHJHWVpuc0o2cFg?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 18:24:00 GMT",
+        "discovered": "2026-10-07T18:50:08.752125+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديوهات | ملخص فوز بيراميدز على القناة 3-2 (كأس عاصمة مصر) FilGoal",
+        "player": "",
+        "content_hash": "0c3a7617e37534674e61698d251f1aeb627d64804df2146a851f4f1afd1ac7b0",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9539,
         "title": "فيديوهات | ملخص فوز الأهلي على بترول أسيوط 5-0 (كأس عاصمة مصر) - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPLWdyT2RUTlREdEtlZXV1aVVydVZyNUQ3aXl3VUQ3TEZQTVZtZmVFNXp6STcycXkwalVkRDdNek1UY0hQLXFHQ1NvOERQYzAyeF9UaXFvdFJmNzExYW9iOXZDM3E4U2VNckRpNU5tMDRlUVVBZXplUHZwc2dtMHlCenNEYk5VeHJsTDhFRTR1X1VnbkJIS1FIQmRLRHkxd25QU1RkVHN5RkVWcko4Z0xGUmQ5NGZrWW5OM3NnVVlvYUNBQk1wY29nazF2TnlKODgyRlg5QkFDZUVSZkRUUC1jcHdaNVpESks0alpELTlESTJBMDlKMnVJR0dQbm5HX3liT1N5TnJZV2FlY3lEN0dTS0ZMQ2NhWFBvYkVCdmp5LVhzc21FSTFldDhpU0NUSnZKMm5ZcWdGaUl1WTlXa2dBV0NqZGR6TVQtZFRJNDBobm9JREcwRnpmdlRlbi1wRVVhckZ6UW5USzQxcExoN0pteDZtcGsybVJlMGlTLWRDTWNZaHpyQmc?oc=5",
@@ -946,6 +962,38 @@
         "summary": "الاتحاد الإنجليزي يعلن عقوبة مدرب ساوثامبتون بعد اتهامه بالتجسس FilGoal",
         "player": "",
         "content_hash": "26d7bc1479b1d7c3bdfaf25b5e73c6a420b23680eb030b245d2c790ae50ff685",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9544,
+        "title": "مدرب النصر السعودي: رونالدو جاهز... و«مبروك للأخضر» - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMilARBVV95cUxQblIyWTBrX0pmanpTdG5HalYyb1FFV3VlNm9GVVRtc29rQU9xVlA2WE5ReFlmTGFJcy16cFRMV2xsN2QzdHZSNW04U2VrNU5tMGczQ1BQX19ZU2pKNUFZUWhxdFJCUTFxTWlzbzd0dzhXeXo4VDkwMk1kaTNIR0Z5QWVpa1FLYktKQllPeEhlZ2ZBSHZMOUxuY0dYWE5hZXVELUVmU1JLRGZMSVNjU0Z4TmZkdWctOE5jdnBoWHBHZnFfTVdtOGF6UUtSU1NQQ3U4Vm1DWkpyXzhuYi1kMjAyZ05yVEhJbEU2dl84TTVWUU1WWVR6b1hubU5ybjc5c3dDTE84WGJHY1ZxWVhSaWtONVhreVBRRDhCcXI3Uy1YZ2ZLZUh5dXVWbVNFd2tUOS1tYlpYU21LVVhDVFpYVGtnUVNYd0xobTNMXzdtaG16V24wMkdyVHZzT2pRWjgzTXUzZ01ibWIxUFJuQkhyTExUWFZQX0YtYkZVS2RNS0tzR1VodW5Ed2t0OGpkYXF6N2M0cWR2WWQySnAxbmE3XzcybEUyS0hmbVN0VTZmWXFUbDBzRUx4NzdZMThnNlFyZlJBaE5PSFlRZm41OGo5S0lGX2JVZUp1ZUdvNmJCX1FYZkh0aS1WSlYtRDc2LVVsME81Nk1ibk5DZmxYZUVIZGxsTWl3UDZzVnRDQXBRQXIzcDVhUEVz?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 15:36:27 GMT",
+        "discovered": "2026-10-07T18:50:05.722125+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدرب النصر السعودي: رونالدو جاهز... و«مبروك للأخضر» الشرق الأوسط",
+        "player": "",
+        "content_hash": "47fbf1edd54cfe194c7309dc323a05841b937e71f12f4c900f05956e003a645c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9545,
+        "title": "جاب الله يكشف سبب استبدال أفشة في مباراة بترول أسيوط - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNWTA5ZUZOWmtYWlFITXpLVFE3dnJyYVRqbThQa2lZcW1rNWRobThPWkpCd2R2SThBNGVWUWxXdVJwam9oOWp4cW5taWhGa25zVmFZVUF4ZDV6V1Z3eHRCdzFmWS1oMER0cWpEQ1Z5RVhvZ0xDcGlkR20tOF9nX2x2TkpMNHRMYVdfcHVDUm1SUkVSbjB3VExQdC1HdDlYeF8tN3VoWEZsa1k1Yk9nVmc0RmFmOWtjMTMweEk2Rk40SGhndnBkUDBHSC1YaGNjcUJjZWZVSnBMYWIyelc1MDZFQ0d2azZjM0JjZldzLXlCSnI4SjMxRnpBcFV4X0x3bDhHaVRsdElKM1gybUkwNlZsV0hVelZnZ2pxczV6cnVUYmRHdHIwbHVaVURKdDdoSTl2UVRDY08yeGRmNUw4alRmdDV2dXp3LUpxQzBkUWNQT0E4Ulozd25NYUVxVXRucy1mclB2TTl6ek82VE10WDNmYlpud3gyTUNfNTlBcU1ScGsyenBuTl9jSjI2VWtIMDJUZ09VSk5Sb09VbTRGRklEajlVemR1YUVCRE1BYVR3UUpnb0FqZlHSAbsDQVVfeXFMTTlrTzRQWEtJNi1VY3RSWFhoODVLeVE2TVd6NlpLY2ctRlYxRnNEM0NrQ2VmMGlmYVRfaGJRaVRONVU4R2RGLTNadmZSZXRSUjBRU3Z6S0RQRHljQTllTUU5OWJzbkVpWjhRSDFfeDFLVzdITE1rS1hxWnN1a0NPSW5JcnRvbFVEcVV2LVRVcEVRbFBUWWpzUGl3a1luZTZHLU5Ma0k0NHUwbUlBWG9hMWJCWFZ2eUhkM3NfZ0E1T2NKdk1qSDFNazdDZnBoZ0ZEalNSeGFlN1lUTVJ6bkV0WHZ5YVhUZ0wwV2ZuZzJ0clVNYU1KUW1OemxpclVkNHJOeGotSkxZdXIyZ3B1bTJIZEY2RW5FcEpqd0lGeS1FYTA2SVpOSS11RjRuTzlkZ2FtSldwNUYtSjR0ZElXSEpnTXhteGY4czVFM01MUDBJWXNnQ3Z4QVhtOTZ3U25aMU52SE11N2J6cUo2WVNVQzFGWXBRRUI1UzkzWnY4NGpNclJ6bEtqZmpmdXNrWTBuRmp2U285VlVQcG50RmVTQUFHX05KeEhmZ0tBTGowTktLZGc5MjB2cjQ1Qm9NeEU?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 15:26:00 GMT",
+        "discovered": "2026-10-07T18:50:08.746955+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جاب الله يكشف سبب استبدال أفشة في مباراة بترول أسيوط FilGoal",
+        "player": "",
+        "content_hash": "1746dfbceac63c148f4f99636532a4669938f29596b998698e45c48e20ed430a",
         "sent": 0,
         "section": "sports"
       },
@@ -1330,54 +1378,6 @@
         "summary": "كأس الرابطة.. بيراميدز 2-0 القناة.. استراحة يلاكورة",
         "player": "",
         "content_hash": "e89ea1de5668c2c087f2b3702b75c17aba43dbe44d055b06b20fead6a8814491",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9463,
-        "title": "كأس الرابطة.. بيراميدز 1-0 القناة.. هدف مبكر - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNeG1WYklwYjJCU294OVdHWTBTdTRrRVZKMU94YUQ4V3lMcGp0TVVqOEpwS1JYYVpjN2JlR2cwbVpMVjZMbmFoUnZrMEIyQ1FZX0lJSHROTVd5c3U2Q21YVVM5U0dKX2doMnVrdUFOUWNZdTJ0VmFRUkVCalBtbzZONTBUU28xZ2NETVJxeEZMVTBVY0RacmIwWkRmZGhoM0FWWHhJbkQzdXZjYXBPV3cxMFVleFZMMnBDTlM3SGtVQUhabEdkM3U4QkU1WGw4TnlyZjFjRXNnWmZzcE5STmlnQng3SWtGTkxuQXI2TlluVERwQ0M4eHdOY0JmYTRrNlotMEZOZWxTRk1BOFdES3h3cjdXMXdTUmdPZVBXcGs5ZGI2UG5RMmM3SldMLW5jOGp4bUdGX0ZZc3FNN2QxZUVtN01jNlVqcE00WHZDSDQ0NnFsc2hZTElkb0FBc1phaENjTEphci1mQnJEbEFLeU5mS0hGTzfSAfoCQVVfeXFMTmlwYzQtRjljN05JbEpJaTFpLVliRjNZWG1ZNDVmOHFMV3FxNHVGczA3ZkMzRnF1YkkxTG1JYlFObkhFakNVRWZseXRVNDl6ZTJmNmJfSkd1NUNoZDlkWGJ2dHQwVEZ3Nl9XZ05kWVZpZVlvTkZkOHRVZnZCVmJMYjJQQVdINThydkk4STh0Wll5LXFzSG5KTk4xdEdYOWFuZlV0b0dnY0dWdlMwSWNVRU9BM0hsNTV5NVdDOXQyRXRGRGZhRkthWmV0Q0FOb1R3YkhXV1dyZTFKbDRFTUx2MVh0Z21KelB5OU4wQmlkTGxxNFh3Q2ViVlVSd2xMQmtYSng0MzFCX293TzFvQVpYYlhMS1c1bXBJS09lSTlYaDF0SVZRY3VtZHRPWXpwekhYeGdRQ3daMnlvR3QxTGY2VUFFbmNLRE50aVYtV2Q1Q0JmYk9GLTNMS3Ywdk9oSkZEaC1OdTZlSkgzdmljQ3Jvc2ZWZkI4SWxKdlpn?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 14:09:00 GMT",
-        "discovered": "2026-10-07T14:31:55.537294+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كأس الرابطة.. بيراميدز 1-0 القناة.. هدف مبكر يلاكورة",
-        "player": "",
-        "content_hash": "0561b28cfdb24e443c9a7ccb706146ee3712dece82cd4e7a8eb0b45c1f6b53ba",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9529,
-        "title": "أخبار | مباشر كأس عاصمة مصر - بترول أسيوط ضد الأهلي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQa211bkJRcjgxSWxhXzNYYk85blJxQVFLV3paTWk2OThtWmZCZTAzS0N1MGZFeEpHbHV5d3lneUFQOTZKTUk0Y09TU1ljWlNWY3N6UUxYOENiU3I4QUpBejRrMHR0MkZMdXJ3Y056ajZqeEY5YnVYS2x4eHBPYWRGcGN0WktBVXhURzdtS2xuTC1sX2Rfd2NMOFNNUThkQXREd3B4aU1JVEI0WU5ELXhBTlBoX0d3cGN3TERrdmtLUjFKX0V5SmxfTzRmMVZVdlJHT2YxWERMUVpRdVZWWTBLSFdEYVh2N0NlMDJfZ0RGSUx3dWVNdEkxVjNHYnNwbHVXbk1yTXNiamVfT243eUlEZ09UQWg5R0FNY1M3SWFhQ2tFRXAzenFvQkFiSjdaaGF1cVhoTlZ6SWtfdGxWVVdQS2xBMHJlLXltMU50bHdpbDVLSTY3OGJNYWlVOGVhMFpRWGEtTEdncW01WGc?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 13:47:00 GMT",
-        "discovered": "2026-10-07T17:36:22.829592+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار | مباشر كأس عاصمة مصر - بترول أسيوط ضد الأهلي FilGoal",
-        "player": "",
-        "content_hash": "b7db20e36ee13372aaa9aaefed29cbcc27adc0d5099fc46c1191efbaa8253242",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9450,
-        "title": "يلا كورة يكشف.. محمد صلاح يعود إلى طرابزون.. واجتماع لحسم موقفه من مباراة \"النجيل الصناعي\" - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMisgVBVV95cUxOZ2ZJSWFibEplU0gxQ1k5TFBEemdhRzZjbVNvd21SdTMwaDl6UzJVNEhXUlJtUG0xX1hIRE90N3MtTmRRWjAzMUtoUmc5SXo1QUVMekVWNXRSVUxfWURIaTllNTgwM0JvdnlBUXFMM0U0X0pxR2hrWGEzMy01ai1lbmtMWE41N09oQlRJMkQtMlZRN3BvWFprbXUzeHd2aHBYY1dzSWpjTHl4MHRyLWJYZmJ3WGdDSVllSThGOTVnYlBOVHB2RFBEV3NrcGpkU21ycmpNbzFfWWRIeXZ2TlpUZkhHM2ZfN1NfSEZHUGRUQVcyRnRlVldiV0tvQ2FQYnV4MVlUblpublJVa0RJVG1SeEFpYXhwV3Ffdk1ySjdVTkpNY1JSb0lBZkIzaWtRU1d0N2VOMERrU2hFR1ozNlFDWWx1ZWh3U3pHRHp3SWkzOEdRZEF1UEoxcmdHQklwTjVERWsxZUtIZkFVam4wLWp2ZHZ5SVFHbFlHcFpNY2xfbjVFRE1ZVGRBN19EQTVqaEoxSGVwbG9oVHVJMDlraEZYbEdfNV9VNWtwaFNTbjhFWnJ1ZHp0SlVhY2FVY0RhYWF3b3RkYmtuNDN3SkY1QmFyWVRrQ0FzYU9fZ3pWY2hBQm10TzNpaXJWYXhrRkxwOHYxeVlaYS1tQzUzQXJkUG1MNU9GU3BxWHBzTWZFYU16VlI5bG42dzVhWjhxZ3VaOEJUckt6MEdVWjUwRjRXeGNkRGlRSjR4Mi1rR3hjZFlVN0o1enE1UGNJVzV0YXB5LUI5cy0xN3VZaTI3TXJEOHRTUlh6WE9WbDBNSURDaElSb2drMEhxU3ZtSnFLOHp2Y0NuZFFiMWd4eVpYOUY0SmNzZTdkNVotZjlveU9ZWlhBeF9ZUUs2UnFoQ0JtcVowUjlkR2fSAbcFQVVfeXFMUEJhaFNYZW5OTGhWN0U2R0hRTWdWem1QLXJsTHlUVjdJMWhoM0JpNDhwVUhxYllGZTRzWDZYT1NWUGJqOHZvY2FxWll3NDlvd2xCYlNNcWNYOGxiTUdENnJtb0RCWW9YekUtWlRyWk13Ynh6Sl9iWHd4eGdpZ2h1dVp5OTBxel9YOWFqWkhkUUJrcnlvcXlXRVgxa2VldWVrVFVSUHRSZ09TVVJzZi14ZWRITUZNQUlJb24xcldSaGNPanlUNVk0UXpMUUUtakE1QTNrVTlZTWMxTEVaZ0RyV0c1UVMweWMtM2xtTzV0YWxoUFFock1mcWVEcERJajgtdEdmdEp0T2huaDl1SXktY2xmQkc5SmdHU0hPbUZjQ1FvTG1OTkhKbXJjWXUycTFRUEVZV2Z1ekZjZVhWMHVXcmVpNmY5S0ViMEJ6eE96LXpKd2k4LWVkWmI3N1pKTlh2c3dFVy1IYTFhekZza1pLQkpwYjA4UjQ1OWxjNXNTVFVHT0IzVVFIZkdiTUZVZ3YxbDBXcE1lOFFNeHBDcm05T0VDUGttZzhnSXk2RTRpcWEwc3dMb19mM3lvM29STGNHSjA0cUgxZi1jOFg4NVh6aGczNEJiQWxJX21MVUJNd3BTSkhSTDY3cVVjT3RVNjRFaGtHdWNNRzJVNjZSTGhMUHIxOEJCMzBHVG93Ry1Iam83eTZUYjBrdG9nemR6WmtvZEZVR2IxV1FVeWVNVTJyQjJkTWVuLWNsaUExOUczUUgtemc2Z0F0ODZBSkZDcUFqSEFnemt4M1lGdEl0TFNRdkljMmMwX0R2QTd6T0FnRXZUY1F3ck00Z1JpOWE2eW80c1dmRkd2UXZpXzVVQlFGYVZzTUlkTG5VWUVoN05MNUNoXzFSMGNFZkc2aTAxVUVyRFdUS2QzSlU?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 13:44:00 GMT",
-        "discovered": "2026-10-07T13:56:23.195958+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "يلا كورة يكشف.. محمد صلاح يعود إلى طرابزون.. واجتماع لحسم موقفه من مباراة \"النجيل الصناعي\" يلاكورة",
-        "player": "",
-        "content_hash": "37d91a33d9398b57d74963cc81ce8aebb76bf2ed5a24b8534a91c8dceef1a392",
         "sent": 0,
         "section": "sports"
       }
