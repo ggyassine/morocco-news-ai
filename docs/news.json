@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T23:44:23.198961+00:00",
+  "updated": "2026-10-07T23:56:15.964867+00:00",
   "total": 145,
   "sections": {
     "morocco": [
@@ -530,6 +530,22 @@
         "summary": "بلاهيك يعوض فيلدا ويستدعي 31 لاعبة في أول لائحة للمنتخب النسوي Febrayer",
         "player": "",
         "content_hash": "62a9abb287bedd24be379ae4d285ee127514ceb3a121aaa64f0db22fc5ebed49",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9645,
+        "title": "هايتي والدومينيكان آخر النماذج.. حين تشتبك كرة القدم مع الجغرافيا - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQaEV6WU9YODdkSFRtZ3hnLXIwWEdibVFtNFJFbndsNjdmUkdzOGpHUzh5V2kzaEcwT0JBeGZ2NTVJQ0FFT3pYTDFiaHBiUW9NVEhjRFFySUk0OFdEcXVVT1RoR3BWUEJUTDlfUEozeUJhNTZlMFo2ZWxuTmdtSFlNQVBxYzNqZnZjVkh2NU9xV3BRdVZ2UGhENkZBcWJkNGw0NlRVTUFTWXFET3RqTGNyaGxfUGswVzdJRkR5cWhsN05fSjZxMmVpMFJvVS1fOE5PeXN0SFFINmVIYjRKOTltZllvUGtFYTR3S3ZtdmFzUm54NzgwUW5RbE9oOE9RVGlvUG9IWHFuSFdBLVBTc3NPTXcyV0JVSVVEWDNZbzBIWDRTaWdIZDk5TkFiTmVCRDZ4VHVmTEFWaVlzYlBfVlVnT190d2VZSlM5eEM4RFZIc9IBzwJBVV95cUxQaEV6WU9YODdkSFRtZ3hnLXIwWEdibVFtNFJFbndsNjdmUkdzOGpHUzh5V2kzaEcwT0JBeGZ2NTVJQ0FFT3pYTDFiaHBiUW9NVEhjRFFySUk0OFdEcXVVT1RoR3BWUEJUTDlfUEozeUJhNTZlMFo2ZWxuTmdtSFlNQVBxYzNqZnZjVkh2NU9xV3BRdVZ2UGhENkZBcWJkNGw0NlRVTUFTWXFET3RqTGNyaGxfUGswVzdJRkR5cWhsN05fSjZxMmVpMFJvVS1fOE5PeXN0SFFINmVIYjRKOTltZllvUGtFYTR3S3ZtdmFzUm54NzgwUW5RbE9oOE9RVGlvUG9IWHFuSFdBLVBTc3NPTXcyV0JVSVVEWDNZbzBIWDRTaWdIZDk5TkFiTmVCRDZ4VHVmTEFWaVlzYlBfVlVnT190d2VZSlM5eEM4RFZIcw?oc=5",
+        "source": "الجزيرة الرياضية",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 22:00:55 GMT",
+        "discovered": "2026-10-07T23:55:55.935954+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "هايتي والدومينيكان آخر النماذج.. حين تشتبك كرة القدم مع الجغرافيا الجزيرة نت",
+        "player": "",
+        "content_hash": "ca3e4bcbe0e70095a737382977e25872c2fa6c9281ab99882e4acb526339d75e",
         "sent": 0,
         "section": "sports"
       },
@@ -1266,22 +1282,6 @@
         "summary": "إسبانيا تحكم قبضتها على صدارة التصنيف العالمي وتراجع المغرب الشرق رياضة",
         "player": "رياض",
         "content_hash": "dc02a420ba0343de80e8551407db91963bea490904db9fd2aed33a095e2a56c4",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9586,
-        "title": "لاعب | حسام عاشور التقي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM0VLNTZ2NTRaWkRQM3BGaVdFYmVhdFlJcTM3a0h1Wnc5NWlCY3VGeEhaakZZZWNsQlhFTERHa2o1VjAwRFl6cWQ2cDh3NFNwbFZhSmxyRzVoNXVJd2JHZVp5Qk9BRjRYWWtHaFJYZ1Q1azFEcnRTX1U2QUUxNThNcWN3WnlNMl9jcUJBLTBia3FHZnpkTjR6bk5xT2dyWGZGSlpiU0R6XzYwWUp3YjNnNkkxcThvM0xKbHFIOTNXRE8xSHM?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 17:28:02 GMT",
-        "discovered": "2026-10-07T20:41:06.798926+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "a312f8710388fe9bf40908eadd84147cc26a995bb0f191788ffaee9c6bf85cf6",
         "sent": 0,
         "section": "sports"
       }
