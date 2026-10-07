@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T04:30:53.003861+00:00",
+  "updated": "2026-10-07T04:51:05.399605+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -512,22 +512,6 @@
         "summary": "جدل في المغرب بشأن الزيادة الجديدة في أسعار المحروقات سكاي نيوز عربية",
         "player": "",
         "content_hash": "424d41dbe058c0ff14ee78d33bf2d73955cca397b61a3ab82e0564f1582c515f",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 9115,
-        "title": "بعد آخر سهرة له بموازين.. فضل شاكر يحي أول حفلاته من الرياض - ar.le360.ma",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fbS1oY3RqZWw1WHp1U05oOTRNMTVodk5OdXRNeU5UZU51SFBWWldueUV1TTA0U1EzYmQzNmRaUzA4UTMtLW8zeVMwTzBSTE9QYW5ZLU1fWHBvZHJiNmtFMHhhQnc?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 00:57:30 GMT",
-        "discovered": "2026-10-06T15:45:00.621415+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "بعد آخر سهرة له بموازين.. فضل شاكر يحي أول حفلاته من الرياض ar.le360.ma",
-        "player": "رياض",
-        "content_hash": "9746931935cd78d4a1523887b634588ae92e6f561d0d0e645e45e3ac0e16c229",
         "sent": 0,
         "section": "morocco"
       }
@@ -2171,6 +2155,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 9363,
+        "title": "\"قبل هبوط رحلة من مصر\".. السلطات المحلية: مطار عدن تعرض لهجوم حوثي بالصواريخ والمسيّرات - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM19vTzlzdFFlSlR4SWpDQ3dDQXlxNnRTeXg3Zmd0aGthRUJxUUlpVzhPVkZGTUVEN1hRRmpZMGdidlpJUm53eU5EUHVrRUhfRG0yZzlTbWlpNy1pX1gwTS0wd2lNWG1jMzhJUGl0amFTRjdkMU1kbS1tMkN6NkJORzVhLVhUcTJuNlo5cWFvTHlhYXpudzVRNHZzWEVLWGU2VHY3NjJPS3EwSElKS0xvaENxd1drRzQ?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 04:42:11 GMT",
+        "discovered": "2026-10-07T04:51:04.057583+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "\"قبل هبوط رحلة من مصر\".. السلطات المحلية: مطار عدن تعرض لهجوم حوثي بالصواريخ والمسيّرات CNN Arabic",
+        "player": "",
+        "content_hash": "b96b0f53c82506b6bc70be67a99c51c8fd7ab6622bf27b990a3f271be2150f20",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 9221,
         "title": "إسرائيل ترفض دخول لجنة الانتخابات الفلسطينية إلى غزة والقدس - القدس العربي",
