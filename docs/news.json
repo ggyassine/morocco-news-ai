@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T17:52:58.007970+00:00",
+  "updated": "2026-10-07T18:04:49.785516+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -597,6 +597,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 9535,
+        "title": "«السيادي» السعودي يعيد صياغة «الاقتصاد الرياضي العالمي» - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxNNHV4WXRXejBzaVE5ejNCa2lLMlVXa0RDaDhSWExVeDJza2FzN3RvSC02dzRrTE9NcVpkTTA5cVpTMk9WQy04Tm5BUjRvQTJ3VVJOMjZXeHkwT1E5QUdhWE1DdmdGVFlrU2xxc2tNVE5wd3g3VzVIVjdLQ1N0SkcwaHdzUEZCSGNiVlk2YUlCT2dJczJiQ3RlVHZaQ2M3M2laOTVvXzdoZEI2VmhNRDBtTFNvSWNGVWVHOFFzVlZJZE5Kcy15ZlBETVgxSnlRZHdoeTdQS2tBMk5seThTOU5SbGMyd1lTbkRINnNBRXl0ZTFiRnpkazFoWEN0Unc2M29mQVFkRDFIMk1Ta28telFKUTA2TDhBUkRvVFZGUGV4YV9CYWxVRGY0QjlvZGh4YTNVcGE5M0doSmJndHM1bHpuQkhfNnphRy1XVHc2cFZGMlRrYXpheHpVT2lEMzM4VGpmc2FiLXlmVEZiTkpoaFVHZTdKeV9WWlFHM2ZJLTRUQWpZaWc0NU8yUUZ3My0zcHhFNllxcEEyd01aUVJJdE5LMjNQQ0tOZ0F6N1NVMldncE4yU1A5cG5QUXpnekNWem1SOGlIcWx1TWtIaGRkU2dvZXNTSUl5TkVRVkxpR3BtTnpSaUdwcUtSSkVIWFlFaEYzZXN0WVBBX0pGTnlKeThaWDl3dGxRY05Nbkl3WmhIT3V3ajNGNXZ1Y2tVa09BVFVEbmpWQ2pjNVUwMHJNdFRXeTliSFlvZTB3MDVLRldZdTdDb0c4?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 17:58:38 GMT",
+        "discovered": "2026-10-07T18:04:28.351759+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "«السيادي» السعودي يعيد صياغة «الاقتصاد الرياضي العالمي» الشرق الأوسط",
+        "player": "رياض",
+        "content_hash": "c2e1a34560ebd9a74e9ac5cf5c04ce01791fed527bbdd1dc8ed1563f6ea6e739",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9536,
+        "title": "فيديوهات | هدف زد الأول ضد الزمالك - مروان حجيج (كأس عاصمة مصر) - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVOU4wWTd2ajFRNms1S2xTR3MxX1MxZXJxVVdtRS1RT2paZHZNME9ZWVU5TkZkMWwwLW9fbjBHcHZtbHc3S3I5TUxpYl8?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 17:53:00 GMT",
+        "discovered": "2026-10-07T18:04:31.353947+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديوهات | هدف زد الأول ضد الزمالك - مروان حجيج (كأس عاصمة مصر) FilGoal",
+        "player": "",
+        "content_hash": "8ec39279bc5735debbbda538c721caf1dcd97e4e3d77355f0bfdaf1198c6a217",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9531,
         "title": "إلغاء المؤتمر الصحفي عقب مباراة الأهلي وبترول أسيوط - يلاكورة",
@@ -1362,38 +1394,6 @@
         "summary": "رابطة الأندية تستجيب للزمالك.. دقيقة حداد على نصر إبراهيم قبل مباراة زد يلاكورة",
         "player": "",
         "content_hash": "2c04da9697f70def91876920af901cd93a056587c496e8400f62e5ea2ea68bdf",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9473,
-        "title": "مباشر مباراة الأهلي ضد بترول أسيوط في كأس الرابطة المصرية 2026/ 2027 - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNX2FIN1ZGSzVsOWpPUFhMZUdab1lYMFVNZm0tdnp5dFNQWTd4cENIb2hHZGJ5WGtjeWJPUmpPX1B0cnRHTXZCU2R3TWc2ME0tcmFPcDNJSDZuVW1UXzFESUlKVXhIZEpjZldORkxzMEFjdUJIYmY3MllWblU0d2hKaU5JWHAzZGRiUXlSVjl0M2luVjBhWjdoVHI5WjZWRjU3Z000bG94MHpoUEZubFNJdmcwcmsxZUFVNWd0Uy01UTVOQUpjMmgxclpQQ1hUSTdtUWUzOWhKNGNlcFQ3NGNCVExQLTB4WU5wTWYzWTVSZVR0VGRuOEQxVmhuSWxOajJ5WUtMUzIyRXhXV0t5VTRXSzltMlJ6bnltZ1ZDQmdyNTJzNG9NSXk4U3dFQ0NLekNoNm5aRUFjR3NFZmh5VWFGODRtU0JTZkMzZVpyMkFQU0g1QVFLYXlVNjhCVkpFdkUt?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 13:08:02 GMT",
-        "discovered": "2026-10-07T14:50:00.363468+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباشر مباراة الأهلي ضد بترول أسيوط في كأس الرابطة المصرية 2026/ 2027 365Scores",
-        "player": "",
-        "content_hash": "b837941bbf23e3d7f8f1366eb761d9aa8bf39f4579dba5e87fa807b21e8b4bdc",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9443,
-        "title": "تشكيل بيراميدز.. بن بو علي والجباس يقودان الهجوم أمام القناة في كأس الرابطة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxQSjNQdU4zXzlDNWdFX0FCMW1VVVZfYUM1ZDFyVExPbVl3dHdPQzRKZ0ZRcDFCUHNRWks5Ujd0TWMwcEw1UnBVUzRfUHN0d1F6WEZNaXEzSHhrUFJLYU8wX1Z4ek0tWFo0MUszNlZCSmlEWl9UaVhnWTNEV1o4WkhybG9fM2NpZTRIZ3VwcnBDTmVBWjVlNy0zWkJZQ3ZBN3dNWTlfZFYwNVhuYzRwMERSa2c3UWtoa3haY2pwbHUwZjVQejhlNVFXVExwaUFoMXBWTDl5VGdZZHRXYlY5Rl9ZU3UyMmlOeV9mb191M1k0QV85U0d3bmFabzhSMHl6ZmxkV1NtQTJtcy13cUV1ZnNrUVR0Vl9oZkxHWFNPOHFJaXhreUdoNnF3ekY1a0Z6UkJfS1ZucW9EWnJVYmJLNnMwa0pjOEpnQWlDYnFwUkhUS0diTFBMcmFxSlZsanJCNzluQkJMQ1ZYOGc0ZVdNQkFsWlJDcDZpQmcyRHBKSzNObVZkeUdNTEdIamxjd05UY3E4ZEZKUFZRNF9jS3R2N3RtZnFPcW03M3JTaHJxSGdXZUdtQTlIZFplMmw0RVV6cm9Hd0pfNHlvS3dFdHVvazBuRkEyLU9weDM1UkMtMUdlTFZEUlh3Szk5OXdnTjlfU2hFRjZ0V1JNNDc4bURFbmpTUHlHT050NzM3TE01MnRMY0Zjc0QwTC1yNVhxZUdKRWVna2hiQlVHejIzTi1teXdWZ3BSOHQ2TFRvaWNOMEx2STF5eUxuRnNXcXB1cUxzV3RyYTZPNWpCUW5GaVRHNlpHQmpqSFlKS0Fs0gHuBEFVX3lxTE14bGZPcEpjY3ZBM3pMeGFVaGY1cUFsVDRvSHJISnRrQzNKcUZ1OU5pU1JnYUNCZ0NFbzdZMjZHMlZLS0pJeWlUZGJSNXZoVmV4N1diT2hWb2xEcnE0ejMzM2tLTlZhb2pRUDZCRjQ3T0ZwZURQVTNMSGN0U2lOSzlGWm1MaUQ4WDdJUWFxa29qbUZ1NE1McExCSXJvZU9odGVmTXdOdUc3UzFkQm9RX1FrUDhJYVhCRHlCQ3BVWWMwUVhyX25TZi1nNkpRSjQ4Q01Pd2c1dDZ3SE1KQlkyQnI3dUVJalI3VVQ4T0kzR041SGFKVzFrbU1ZMFBlSThmNjdHNVlPRjlES0lUR244MHAtbWc2dTVQNXBxNmNZU015ZnJaQThXajY4QjVqWTFua0xTVnhmZEhEY2NNUkc0NHNOYlJPWm56dmlEMloxN0w3aXAwZWM0bUtUaVltdkxTTHdlcWRfcW1kandMSVFzbnZsVHdqRV9zOXBFNXdGSGViUzhrdXpGc3Q2aVFFNzhfM3dqTG85aVBIenZETjNPWkpNNUpJb1VHWlBuQkwyTUJYYVhxSV8tcVRDT29DV0tUMldNTW5tem9hNzNMT0tHUjFfVENGbF9GOHplZGtWZTljNnozZFpzMFNxc2h2UG5QSmY5THU0cWpNeEFRSlpUOU01QWlyVFhWaUxvUi1TQm1PVnFjaFNjM0llcm9pLVg1UWdSTkY0NENPNm5lSFZCRXl0b1MyS0VnbklYMjRMSFRQNnRXVzk2NDctcURWLVhJcWJZRTdHdkk4SDdxZjN2bTUwb3JSdnhLbXB5Mi02Q1E?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 13:04:00 GMT",
-        "discovered": "2026-10-07T13:20:58.265213+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تشكيل بيراميدز.. بن بو علي والجباس يقودان الهجوم أمام القناة في كأس الرابطة يلاكورة",
-        "player": "",
-        "content_hash": "f97d7f1b7fadf2fd2faebb41bcdec9665ddc29de7b13b6fab1f4681902bb3c9b",
         "sent": 0,
         "section": "sports"
       }
