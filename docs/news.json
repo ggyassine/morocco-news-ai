@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T09:38:57.955646+00:00",
+  "updated": "2026-10-07T09:56:09.996792+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1384,6 +1384,22 @@
     ],
     "transfers": [
       {
+        "id": 9403,
+        "title": "طقس الأربعاء.. زخات رعدية وسحب كثيفة بمختلف مناطق المملكة - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBqT2dhVXFpdEJVMXMzUmtvMTJidHdnczhvRkc2bTNZLTI1MmFmUnlfWnU5ZXUzaF95aG94Tm1vbHhneHUtaXpFcQ?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 09:43:18 GMT",
+        "discovered": "2026-10-07T09:55:50.169975+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "طقس الأربعاء.. زخات رعدية وسحب كثيفة بمختلف مناطق المملكة - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
+        "player": "",
+        "content_hash": "eaaedafec31df6b728ceace1fd9d5c2451250f249bb08cc49f11f091a97a9c3b",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 9365,
         "title": "سر الرحيل المفاجئ.. رونالدو يكشف ما حدث مع المدرب - سكاي نيوز عربية",
         "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPXzRjakI2aEFqd0hOSjFWbnJKdllwUlFqR0h4ejhacFZhZWNCX0xNM3FCYndUaUloRXMweDRLQjFvdEZndlMteXRZbzZJdVFXSERJYVFLWlFaMTdtVHR4T0V2Y3hfOGl2OG9MSnpiaVk1Ml9FeWY5emk0ckEwWjhhREdiUUg0cE0tVTc0NWVYZThnbEU1YW1sSkdldWxweDBjaldidVlGeFN4eGZrZVlTMnVoalVjUXFWeHUxOVgybUczSHNmNEpSMjl1ZDlOSTJrODJDdmI2RXkxNGN6VWQxOTFCNGN0c0dYcXJPRTlBY1hiX2dUTnN0RVpKTzQwU2NqUDlqbi1rTUdkemVLdGJwdkgtTXRYX0RUdGdtWEhJR3Z0ZU9QZUJxOElkQThlRC1oTW5Ma2Z5QjgyUWRPMjFYTk55SFA1N2x0cmlqbUc1VWhfNjBGNGQ4OFdWZloxMlE4ZE5rU3BtQlEyRUw4eUNOUV9MSXQta28?oc=5",
@@ -2020,22 +2036,6 @@
         "summary": "مصر توقع مع «شيفرون» اتفاقية للتنقيب عن الغاز والنفط باستثمارات 88 مليون دولار الشرق الأوسط",
         "player": "",
         "content_hash": "afbc57bebd16c3ab4cd3be199da850d3d5a36c17933080cad16dee7f0a7366d2",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 9324,
-        "title": "التجديد لبعثة تقصي الحقائق في السودان بأغلبية قوية - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQM2F5eFNhTG5zeFg4ZGY1ZFpTUDN2RXZWd2lhbHhReGNVVnN5NE0wb256Uk5NU2VXQ0hPVXRWMmptWEtrZ0E5b0RLbllycmIyUEZad3c4QzVaTURkZEJ6S05iWWdSUXp1UWtObzBqYlNUZTB3bXNGUG1KS0RORF9uQkhQQXRwVmJoWExQX2VKQWR4OVdBaXYybTd1NUN4VWtUbm9TWlVQRzRuYnVMSGdCWlBraWpVVFEwRG9wSk5MVllXd3ZMalB6WGVaRjJUNzRUejc2aUdtM0RiTnY0YXl3bXJnc0dTOTNKV3BnZkNBYnNBUUg2a1BSY2ZRdU83bGIyTTFaOWg0TWhXd3ZlUHFKMTdELVhKbkxxcTJkbTh2WFNacDRzRVRtUzNUeFNaN282YzJVSE41cHI1ZzhGOW16YXZBUHJNWkE0WVRtaTRsNEVTeDBtMm1qUktsV0R4TXgxUEpiX1BaTTVxQ054Wi1qWkl0alE4SFFFeVlpMjJMNzNuWXRRZDRUaFU1Nm5obGZwMXJ1aU1RQnBMNTlaVUt0d0syWUVZS2pGbmtnM3YzNNIBtANBVV95cUxObmkxeGlhQVlCTERtTWFOZ2xmUFV5VWlGeldtU2FJM19jUkk0QTAwdUQ3YjRsZ0hyUmRjS3Z2MXdCYS1hdVZ6TGxXVEg3OVB5bktva05qalZXdVBlb0ZndkxQT3d2anUySlN3TWJ6Um5MbDVFQnNNV0hZb1ZPVlJFWFY0QXplTkIzSFVDOE84WlZmcjlTSF9jRGNFYnIwVG5fN2xrVFVOdU1TdWhOazNRb1M1amVjOVJ4M05RMFdPR1I0VGVoXzhVbWU4YjlKUi1DYTIyMmNjeGhYbUEyeUdHQ3JIVzRNaVFlZjZkV1pCektSVjlSbVViRGJQY0thUUZPWHBvTzdYLThoQW5pd1lvQkVNYzVOVUtYN2tJMFBNOHBYZTl6cUgwdU1EclFsNUNNdzBRR29aNV9jQ2VyVjhXN0FJZlY1YjVQZXZ5dE5RUFRQekVHaWlubEVTTnR3RndlYzZWZWtBckxsUmszcHlwM2VxN2pCaW04NUFqS2hnU0JrSER3R3FkMFRiZFU1amx6RzI5cGpYc08tYWphRld5M2U0X3FBbkV5QW9jaVdUaGxkbjRj?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 15:41:00 GMT",
-        "discovered": "2026-10-07T00:48:01.363035+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "تجديد",
-        "summary": "التجديد لبعثة تقصي الحقائق في السودان بأغلبية قوية سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "63bd9529f520e86e4561e4cb55ff62efb88206ee5cd4fa6903de06be0dbfe340",
         "sent": 0,
         "section": "transfers"
       }
