@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T11:54:38.556032+00:00",
+  "updated": "2026-10-07T12:09:30.452212+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -565,6 +565,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 9428,
+        "title": "الهند تراهن على أولمبياد 2036 لبناء قوة رياضية عالمية - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxOb0xmbEU3a3R2WmVBaDQzcmdocmhEZ2x6Snd6a1M5QUFpVlpyLVNURGhSc2w4Q3ZqUm1jVUdnR1BPTVpDekkzUVlUTm9rRFRDMGF0WnIxMTk5dU1tVzBwbk9qanhVR056QjgzR0lRTU05ZDduazhuSzdKbHRsdWgwMHFudkJaUW8tVEVqdHRvenpiQzBaSU9QcFBSc3ZwU25GTnIzaXd4VVd1Sl9uQXVvQTdtYXM5UTZGQTVpTGc2dGl5ZnE5RTNYMXZoY0ppMkFNM2I0QmhjNk4tbGhHclVBVVR1ZFV1STNpVnZvR3k2Tm9SMXEyc29lM1NoMzZ5TlAyYWhuYWlOdVJSekoydVhBc0NaanJ3TmNuVWt2NlB6SDB1TVA1c2hYOERPTmlFQ1ZjR1J5YlItMjBfenFSYzM1dTl5UzJmQ3NnMVFZWkFYcklXWFF1NVRraDdGNVU2UEI3bi0ya3RORk9zWExqTjUwSWU3dnFfcHd6bC1VUTJzNFcyM3c3N29NWkpIcnRGb19faFNlMWxWT3JWTzRwZmlWa3hmeGp4ZGstYk1Kc0kyMjlmRm1scW5ldVA0U1RRMlRVZ3ByVjdVVjN5bXlwMkdFSXN3bW9nRW5oYWszdmw0ZERhU25FZkZTRm1qbDR3eThlbWs0bnhYaG9oMHBaMVJXcXNsMTJ6R0RUdU56VFYya3hoQlEzR3J5YkQ0bEZoTGpNLXBFZksybTZFa1dR?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 11:53:05 GMT",
+        "discovered": "2026-10-07T12:09:12.853566+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الهند تراهن على أولمبياد 2036 لبناء قوة رياضية عالمية الشرق الأوسط",
+        "player": "رياض",
+        "content_hash": "3a94b03994a270905f22f770dca1f994416e2af77fb7e68be36a38db7a158c9e",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9426,
         "title": "حارس نيوكاسل على رادار بايرن ميونخ - يلاكورة",
@@ -1348,25 +1364,41 @@
         "content_hash": "c612bd776f42654356fb1370fac7d5f9f784ca82d463ba53358158336bdb91f5",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9275,
-        "title": "ناصر الدوسري لـ«الشرق الأوسط»: تعاهدنا أن تبقى الكأس في السعودية... ونجحنا - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMisgVBVV95cUxPR0U0SXNNand1eFVUMnVCYm82UzFFUlNEOXV6eDBGMC00SnV2VldCVWZBbS0wT2NkZ3VtWUN2Y3JMN01La0hpWDVNOWwwUy1hTW8wWlZtVFl4TkFKeDNJVVVaUmtLS3BOTWlPcUxvTVNKbDBxTE9yOUlmTlFqVjRqQS1WdUU4UDRkeXE3WEx0LWpsUm42TzU3YlJDM2hjZWZzamlIVzcwcGt1UWQxMWJCbWl4a0Fia1djNUZzWWs1VUljUVBkOHhjcXdDYl9zRmMxRUVXbUdGblp0TXJ4anZkeE5lQ3NkT2w1YnZub3lJa0ptbW1QWXhobmpaRjczSDJpalpNN1RybzN1WmJWNEhwcEI2TjRnc3BISHREaTd4Ym5BMXlPTHh5QVcyb2lrbS1LS0J3YjREVnIyeXRCUFZZQ3FCQlZ2OGx3X3Jwd2RfNTJVWnBFQjRwMkx6d1ZwSDZOMkFEb2JweUZZNWhCZ1RmcWRfT29TMjJ5YS15aDdEenl5UjlnUGNKNVk4RGdQLXpNOU9RYUlVZW1lbjlKdHZfbE8yX0lYQkJVRXJKQmg2T2VMTVhPRnNMbW96M3NTNkxzT19QdjdmU3FrLTd3OHRFLTNKZWVMZV9DVF9FTmdNVU8wdkVkT0YwZW1Ydy1FRlczUk1WdjAtRDRmcGF3NjYyZDh0OXN0ZUJuUVdkemZjZlE4TTlfZVBpaHJMOGxWVENrc21VVUdYa1pPMUh2OFVYMVFzZFpEY0NKOHBQWVMtVGhGdGRtVjhsOXRvUnFjd3c2c291THQ0ZEkxdUo1M0Qxck0xcmtCLWQ3dTUxX1RnTDNtZHRucE1ncGpKeWFGWUd1ZnhMVDlScS1ETWFLVFpDZ1JBZ09iU2NvMFZFMl9PS2xfSEFOMDhqZUttVlhTbVdsV2c?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 22:42:22 GMT",
-        "discovered": "2026-10-06T22:48:04.767371+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ناصر الدوسري لـ«الشرق الأوسط»: تعاهدنا أن تبقى الكأس في السعودية... ونجحنا الشرق الأوسط",
-        "player": "",
-        "content_hash": "e55c616aba5d9c7247c37ed565fa9f9bf7279f946a1aebc2f12a16d9d0017b9c",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 9430,
+        "title": "أسعار الذهب | توقعات ببلوغ 5 آلاف دولار للأوقية في 2027 - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQbXViSXZNTHdudHpOVFB4OThmalpEWDVNNnZMZV92RnJ0OHlRUjB6S3FSUTlJR3hoY3NiajRwRGtJS05vaGI1MDNSWXNCaWM2amhFMFhqWTlkTUZlb1BCeWFyZjVCUkRQTmdkaEJ0VVptM1FQcGdoV01LVmJVSDZSeEhtd0FlQXVCaUtabzNlbnlFU0RLSkxQOFU1ZEgtNzh2Vlpjd1pzcTg2RzlRSDhLTzdQdno2dk12eGVUREh2WTNTRHlrRDVnN2F4M0hMM0VjZDlSaFdxSjJkTGVpZk5EOTdEY0VvU2NvNE9JV1VmdUdYdDZTQnVFMVU5WllwcXNIaF9zamdSamJOazBnMnhxU3JMcTBQdnZDZGN0TEJrdlVQNWhoQVJKSnRKM3ItNUJuQ1daZV9NM3FLU1FZejVzaDcxdUhTNDNXajFNM1N0Z2dnSTJ0bjZ0TzdfSmtzdFR5NHdSb0pnOHRoclVvR0dEcWtMUjU2RnJBUHpvemhxUDI0UlFoSEI5bmtLZ2U2VXBpbXNvSA?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Wed, 07 Oct 2026 11:43:08 GMT",
+        "discovered": "2026-10-07T12:09:24.709563+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "أسعار الذهب | توقعات ببلوغ 5 آلاف دولار للأوقية في 2027 العربي الجديد",
+        "player": "",
+        "content_hash": "2c7255c79d9b90f045cc28a7aa9e25697477379c97e914e5a029e0968092b0da",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 9429,
+        "title": "تركيا: توقعات متباينة بشأن الفائدة مع اقتراب الدولار من 50 ليرة - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxPLU15OUpOLUJJNTZES09wRFJ0UjlNOEFOUXZPY2hhX3RxYTJfcThJaEltWEQ2SUFZS2FpWHdpY05SR1RQWndya08wYWpRYkJaeXNyWFZ4RTRsZ1dXYXM0cUJIcHVvUXA1bVdxUi1jd2xjQklGUzViM2tVaklidkVfLVlVSUJubVlPUVpPWHR3SzFXbTg3d0JUM1FWQ091aWc1d2x4ckxJdnJkbnBQSURnU3ZIbmhZWjlOSmdVOXhyeThzcGkwQ252UlBFSUtGM1JVQUMwNGkwdGk5WWxmV3dGWk1wVFdEc1daRU9FSFphRm1aVmtIbDhyNzNQUTBhQWxrRkJFX1lsaVljTVpwZ252RXU1MDNwbkwwejFjUXNQQUU4SlN6bGJSbVFpcVEwS3JLbkU3MkhwVzJpMksyQjBiSWVfLURTU1kxdGhhZFN1TV9fZkF5NWdWSVdPS0g0Qmd0d09fR0tnbWk0QUZ1b2VXWVY2eFl0VDBJQy01bXB3blVmaXMtZW5EbUhGN21venFHMF90OXh3M0V2cjBPQU92a09ydUVQbU1xMW5qUDZFTDBXWXJNdFVfUW9tUnQ1aldKQ2RoMWdqVG5UMVFwS2VpVVRMeHpXQVdnS1pvQ3pnTzNPWm85Tnp5SVFR0gHvA0FVX3lxTE9YODZJTlpuMWs5ZHpzM3I4eWR6TWxWSTBuSHRvNnR0NklOeHhGWVZONXRlUVdxY254ejdKSTJvY0tNcmpKUEdBdmVNSXl0WGhXbUZXd05DSUE2TUdiblQ5bUpacVUyTlVJcDFkVHFzNUY4LXdLZmE0MWw0RWpJQ0oxZnM3ZlUzdTNLWUNzOUYxV2ZIOU1faGlPZjVpaFNhXzRQZGl5bGVKbFVPWjAwMC1jNWFLZzRseG45RVRMOTNXYTNTVzNPaDVaNXhhX25kYlFEYjBOY2pqMTdPY3hiNV9TTDRlSk9FQWc1T2FTWHBOQTJGSHdvRVNFVXQwdXFIc3lrYi13MDNXRU91aDdpSWlRellxak5rQ2pjTEkwUWRiR3hvSS1pYnVzVUVCYjBNQUtCZXZQTmdHQmxwNUVyVUN5UmxWR1dRbFlod2NXVHk2SjZLRG92YzZSMC1qSDZ4WHk3dFhfWjl3anlLRm1KQUVFRmhBVXRPRFJKQngxaVFwY2RTVm5CU25YRVo2ZDJ4aWZfSTJnWkVVUWdGWUo2dVVrZW1pR0tUUlFTaFRuSjdNMFFHeU1ZemdqN2xRaVg1U1FRcElxMDdXQ0ZIWVdvQUdPMllic1diTUZQS3FMRm9xMXR0Q3FfS3VqZ3JwTEFLNA?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Wed, 07 Oct 2026 11:39:40 GMT",
+        "discovered": "2026-10-07T12:09:24.694631+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "تركيا: توقعات متباينة بشأن الفائدة مع اقتراب الدولار من 50 ليرة العربي الجديد",
+        "player": "",
+        "content_hash": "29b6c8e4c5d73a5ec255278eb90dfeceac73179e647e1e440feca9bce582c152",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 9427,
         "title": "هذا ما تتوقعه دراسة عن عدد سكان ألمانيا عام 2045 - DW.com",
@@ -2006,22 +2038,6 @@
         "content_hash": "1626cde13c9b93cd4d38e796edd4f563d17fc77e9370baab1ec0c20e41b7ef2b",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 9324,
-        "title": "التجديد لبعثة تقصي الحقائق في السودان بأغلبية قوية - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQM2F5eFNhTG5zeFg4ZGY1ZFpTUDN2RXZWd2lhbHhReGNVVnN5NE0wb256Uk5NU2VXQ0hPVXRWMmptWEtrZ0E5b0RLbllycmIyUEZad3c4QzVaTURkZEJ6S05iWWdSUXp1UWtObzBqYlNUZTB3bXNGUG1KS0RORF9uQkhQQXRwVmJoWExQX2VKQWR4OVdBaXYybTd1NUN4VWtUbm9TWlVQRzRuYnVMSGdCWlBraWpVVFEwRG9wSk5MVllXd3ZMalB6WGVaRjJUNzRUejc2aUdtM0RiTnY0YXl3bXJnc0dTOTNKV3BnZkNBYnNBUUg2a1BSY2ZRdU83bGIyTTFaOWg0TWhXd3ZlUHFKMTdELVhKbkxxcTJkbTh2WFNacDRzRVRtUzNUeFNaN282YzJVSE41cHI1ZzhGOW16YXZBUHJNWkE0WVRtaTRsNEVTeDBtMm1qUktsV0R4TXgxUEpiX1BaTTVxQ054Wi1qWkl0alE4SFFFeVlpMjJMNzNuWXRRZDRUaFU1Nm5obGZwMXJ1aU1RQnBMNTlaVUt0d0syWUVZS2pGbmtnM3YzNNIBtANBVV95cUxObmkxeGlhQVlCTERtTWFOZ2xmUFV5VWlGeldtU2FJM19jUkk0QTAwdUQ3YjRsZ0hyUmRjS3Z2MXdCYS1hdVZ6TGxXVEg3OVB5bktva05qalZXdVBlb0ZndkxQT3d2anUySlN3TWJ6Um5MbDVFQnNNV0hZb1ZPVlJFWFY0QXplTkIzSFVDOE84WlZmcjlTSF9jRGNFYnIwVG5fN2xrVFVOdU1TdWhOazNRb1M1amVjOVJ4M05RMFdPR1I0VGVoXzhVbWU4YjlKUi1DYTIyMmNjeGhYbUEyeUdHQ3JIVzRNaVFlZjZkV1pCektSVjlSbVViRGJQY0thUUZPWHBvTzdYLThoQW5pd1lvQkVNYzVOVUtYN2tJMFBNOHBYZTl6cUgwdU1EclFsNUNNdzBRR29aNV9jQ2VyVjhXN0FJZlY1YjVQZXZ5dE5RUFRQekVHaWlubEVTTnR3RndlYzZWZWtBckxsUmszcHlwM2VxN2pCaW04NUFqS2hnU0JrSER3R3FkMFRiZFU1amx6RzI5cGpYc08tYWphRld5M2U0X3FBbkV5QW9jaVdUaGxkbjRj?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 15:41:00 GMT",
-        "discovered": "2026-10-07T00:48:01.363035+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "تجديد",
-        "summary": "التجديد لبعثة تقصي الحقائق في السودان بأغلبية قوية سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "63bd9529f520e86e4561e4cb55ff62efb88206ee5cd4fa6903de06be0dbfe340",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2166,22 +2182,6 @@
         "summary": "حوار فلسطيني لتأجيل الانتخابات أم لخطّة إنقاذ؟ العربي الجديد",
         "player": "",
         "content_hash": "d52a3c4cffa11f75e2b00b0ec1e4c9ec9b083a2017ece02256f04b2da36e642a",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 9045,
-        "title": "بذور الشيا في الماء أم الحليب.. أيهما يعزز الهضم وحرق الدهون؟ - العربية",
-        "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxPRlJGZjVFMmYyTFBaMTJ5cFQ0alpWYXhSSXFEaERfdFAwdEt5UDZmemtYYlJRUjJTdWMzdlhhUUMxenQ3NVdoVGFya3ltbXZxdHRNN3NmUEVLc2t2WmVDTmdfNG1TampyU0FTNHRvRDhNdFpvUW1rWXZsNDg1SWpuWWh6em5IY19iVnhXc0Y4b3k0QjBWaDZVTXE2V3QwQmtpcVFGVTdLT2gzNzdieTNtWGk4ZjFDdDFqc0dZcHRxVHJTRG5zaFFIOW5qY0hTazE4LTNnZTE0T2tfWTV0NVhqOXZCMHc2N2F4ZnlUTTV0UFUyamtnMzRMWllBLWJyNC04MEhNQW1wSVdibkhETEJGeWtWUkNtUXFSYVg2LWstMHNBbVBGTV9BMTFWVG1ublZGanp2NnIwcVgtZmFYcWZWUGxLd191Tk9LUUtkQV9UNHpycDBMZFhJVDVMWmJ3RDVKRzB0cm94RkVwNnNhdEJZNmRSWDhrWl82cmZhemdGWExWQ3JBaUhWYXVGa0xGbWg0VjNKYU9nOXA0QmpZVTN0UEtpWVNUSHI3WmZkbXhJVnM2M1ozRnZ6bnBzQlFzTW40bkE1X2xKZldEanVJczZGa0lSMG42VnpSX1kyR2dSVlp0R1FOb29qRTZWc2FUNVNZSnJ4OFU3TdIB_ANBVV95cUxNU0ZUcGlnMklDS05sV1QzRElQZEJSdU1iREFuUmdHYV9yUVVBYUlnRE5zdFBoVURPOEkyMjFIMUpNOUlkQTNfbnJJM2tzUXNENVBVaWg0NEJDTjU3WXVGV29ZT2NCNS1yVXVEQmdhTmZnQkJXSkdENmc3OWg5aHNGZGZRN0tTMXR4Z1A0NzEtV2ZvbkQwMGpybWgzNkZDU1ZoTHgydkE2UHZ6d1NKLVA5c0ozdnpPOVhUaEFkS2F0YkdYWUtnNG96d05xUUFVUGZqYmQ3U0pObHk5cndaVEtFb0VtWjRqMnZvV2pLR0k4NmdVODJ1Mld6MXVzVTZwX25MMF9meHptb09Sb1RVUi1keHhjSTJLR3gxUXlGNVh5R05oWUdTOE85NEVMcUtqLWxDOG8xVVpBaVU1OWFNdG80UW9OTVM3SFUza29SM29vLXdOYmRRTUsxSlQ1b2x5ZDhqX1JVcDk2WE4wdzRnOVlLaGxndXFnNVoxZW5xU0NUbTNWUlUtSWlVR09oYVBINFljdWR5VlYtbFA4T25fUGZoNnlpeFJacmc3djNMcVl0SlMwVk1qeHA5aHRyTUtJLUtobDBRWU1KVi1weVdsNHpKT3JrTFkyUEQ2alUyU3RVRnlPXzdXTjJETFAxZnRFOHZ3RVRuaVlwd1pGME04?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 14:48:00 GMT",
-        "discovered": "2026-10-06T10:48:22.849658+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "بذور الشيا في الماء أم الحليب.. أيهما يعزز الهضم وحرق الدهون؟",
-        "player": "",
-        "content_hash": "91af2765d6f5e509371fd8060b84f2ba36b5d9f6c550349a18fde884423c4dca",
         "sent": 0,
         "section": "middle_east"
       }
