@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T17:36:38.569321+00:00",
+  "updated": "2026-10-07T17:52:58.007970+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -598,6 +598,38 @@
     ],
     "sports": [
       {
+        "id": 9531,
+        "title": "إلغاء المؤتمر الصحفي عقب مباراة الأهلي وبترول أسيوط - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxPSjVRUjJKVUlCRXQxVHkxX0F3cUpXTklwbmFDWUw3aktsVW1mdDBnTmIxYktuTlFOdlRyd1E5OFp6M3R6cUxWdkl2MDBrQlJvYkZWZnZhVzRUOWt1cnpBVU1wN19WTnZpOEFJeEcxSVZYdDctT1RmQ0JhdGVBcGVvVzJlZ0JYMjhxb19rYVd2M0lLWDR0elBjc2VNSk43ODhxQmpDdmhDUFhFakYySHRtS3l1WmpRS0Y0RndJQ1dUeldhdHZLTjUtY3JMQ19WZUZvQUlCMGNfTFZ5bUJDVjZfX2tlUXpVaTBDNnBaZ21Nd01rM2xVZnlsbHZjYkYyWVhSeTVXdk8zVU5iVlNXbmpaM3NVT3BfMm5NcWtCdlJfemN4SjlNTVpmQ2MwVU5Qdl9VREJRcFE4UHNrOVhKMG1vWDNTVFJCMVRJellnT2hDX3hkWE5DckltdU1BS1owRkgybzU5R0Y2Y1ZyQ25kY0RMbUNRU3QxZW4xeVRLMVV6WGwwUlgtQlc1Zlo0TWtxQk0tNTVFcXV2SkN2dnRYUlZ6VWxXOC15eGlNSlVwMTlFZzlDM2tTeXBhdFhzUldZV0hNdnlDUnlPanVtRzZGYlliazlxR2dUMWR2cVE?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 17:45:00 GMT",
+        "discovered": "2026-10-07T17:52:38.747142+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "إلغاء المؤتمر الصحفي عقب مباراة الأهلي وبترول أسيوط يلاكورة",
+        "player": "",
+        "content_hash": "b2637d3fd296c426eb16bcd744c7979d3e1e7c28ab0821aaaf2de5a8f4706fa8",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9532,
+        "title": "الزمالك يعلن.. اعتراضه على المذيع الداخلي لاستاد المقاولون العرب في مباراة زد - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxOSkFlVlV2VDh0V3M0QWRFdEtXU1dlbTZNR3VKLXQ4ZkJfVEJobDJxcXAwMHlJMTZJNUs2bmVhYTdhaXZ2SENHZkFNOXZNYnBhMVI3RDFuVG5pbnBPZzE0bkVPTlhpQXd1U0N2Qzkyc3hNZVZvUmU1R0RKdlByeWFWVThDTWk1cDdFRDh1eFFZWGdKQ1MzSlVyeExBWElxYjlXUlg4QWcyQzhhWUwzV0tyUUJxZzZwWlhpVDJlODFGXzdhVng4dnJXdkdINWV4MDhfdk85UFJYS0Y0Uk5lRHhRUlN1SWo0S2tyZVN6REFjWXliamhqQkZSQWtDWS1wRVhFNmJjSjR5ZzBVYzlGcE8xandudUgxWl9naWV3Rk5wZ1ZsaTF5WGcwSXcyT1NZZXpaNkFPcG9seXpBVjR6eG1kZFRKeVpHbUQ2NGFObzdIaEdLNUhHQ3ZzS0FybnpGUUZybjJJNUlUbzdhakdUMVJIRW10V1d0NERETmgyVVF2QkZiNkRJLU0yRUp6VWNUWFMwWHlQeUxNdS1mblBlc2o1cFVadnNNQWxwazZ0R202X2VBZkctb0VVNmpmbkhzTGhxWV9Dc01UNDl0aGdLamVqQkplNkVzT3R5eXBCRHFkdmk0Qm1JY3RGNWZPVFlWdUxoUVhsTTl3RmhibVF0eE9sRjZCWHhBTUl6bk9tZWZ4a0JHaEJsM3N4SE5yNkhFZGxaTGs2UzNKUWRqQ1U3dF9BcEZ5Y3ZDbjlYeUVkWUEyLW9oM01hbmJlMGZkMUJJR0gybk9rdlJIeGd0eC1YazU2TlJveVJndmdVWGdVRnpuRmVtdWctd3UtTHBYR29DQ1HSAYQFQVVfeXFMTTFFUTRUNndCV29idHQ1M3haTFFrdWZtZmV5TnVvZHlUNmRKeE1lMTBMa1hCVDBsbFBINGgyc0o1bFRyWGo4c0Y0MDlIUmZ3bW5TZjRIaXNKeVhNMnZZLTV0Z3FEbDNMYnZFX09mNkYtOHJNZzRkRTFLUDhEZXRqc1hfQ2tON3l1aXBNSEQ0Z2xXUW5LampMT1JaT1NfUjBrTnBidFpGbUttWE43VzlBLXVBYmJOMHJEb2N3R09DTWVaZ0k3MkJocjlKVnRBRnhjeEpYWDB0cmZPTUZxcklLTF91eDhOZU5vdXpWdm1VRWFKT19IUkI3a2VuZnBSb3NRcVd3WDc5SVpRaVVlZVlKaElIZDI0ZjVQbGMwaTIyUHFMWHRsdkxuMjhvLU9yZTRGZWx4RTZMLUhVMVVqbXV6TkM0RVBxNF9Jbm11TUhKTEg0U1pUX2dlWFpWdjVHRUxNeG1nbzZfcWt3N0R2dzBlUTdIZTEzMll2U3Rya2hlc1o5a1NxOEo4cXJKckgwOXNuUXFpd1g5RVVoNHMtRnh5c2dKaWt5MHViRzVydmNFREhnWm4zQUVMazBYQmNOREhGVWtkdVVnOEFTeGVGS0JXZ204Q3ZwM0JKTnFzenFpcGVpcjZqdEJGMURTVnVEMWROTVhkdFdqOE80V2VfN3NMaXlETnpaakNOV2V1cVVrU0hIMVFLbzFPMTh5UVlzWV9uTEFnQ3htUWFPZnJOTHUyNlF4cExlRndBNm5QMGlZRF9EWFh2Ym5FZ1BfSHlJVzQzWUM1SW1WR2piRHpJQ0JGLTBpOGo0ZWxZT1AzanhTekM4R3BfdE5mUG1aX29VbXZaM2VXMTk?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 17:33:00 GMT",
+        "discovered": "2026-10-07T17:52:38.892395+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الزمالك يعلن.. اعتراضه على المذيع الداخلي لاستاد المقاولون العرب في مباراة زد يلاكورة",
+        "player": "",
+        "content_hash": "b5aed1d3560e202d9a345e6eda802d897bab25e1da9cdc4feb8d261a125524ef",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9528,
         "title": "اتحاد الجولف: انطلاق البطولة العربية للناشئين والشباب ل - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxQQUlGZ1o3WU5jUVNYTF9raDhDTHpsS0Z6RkNQd3M0MTJHUGdUbFZhN0hmS3hWeGVUck1KRmY1ZURXd2otbVlBSllRWGp1QWpja3pCREdpdHJpUHI5LUEyX3BRZ0Jra0ptQ1R6ZFhSZDB0WWRqR0Q1NndCbl94WS1DU216czlseUVsZW1abmxBWGdxeDJKc0NIQml1RE8ySTZNQUluVGF3UmxjWTFNYS1HZ09GXzgweE9FaDZpZmIyMGZ2UUEyVHV0UUZ5X2c5TXgyWHJpOHJjUENsUFpLUS1ibnlGMG9nb2g4VHUtaFJiY2M4RVhwZ3htRTE4cGVuNE1pa3FxVGZfUnVOU3RTNXdxU0dRYURVaXZVWmZ3YmRuUGpkU2hnV2VwUndnNUxLYW12VWNoM0pQWTBwSTNsVFBTN01oSm9iMzFOMVpoUXZrZUZ5NlE1MXp2OEdDZDV6VHJTeEIxVWRMNEhwVlRsVmpPam55NlIxdWlpRl9aWHIxR1VwR0xTU0dLME9ZS19Ramg0M0Jucjd6NTNaSFkyQXFlaWxKYVBheU5lcE03eTViTW1qOGI2eDk4REJzdXJEZnpMbnJLakxMSWlKSURybkFPaWdjUVJLa2xNdkwxUHRBQ25mTk5XUXQwaWdwdmtwV2pMNW5kTnhfeGpuUkI4bE51UmUzM2k3Zmd3Q1FJb2NWSC1WZWIxamRISXVZZnZvNWc0UElOWVhfWW1IYXpTYVZ0WVZOaWpFMjNZNTVQTndPRll3cXc0RTNsWF9oNVo1Qjg1VHVFeUxONzJWbnQyYld0aFBjRnR3empmY1JPV3JiUE40UUhhOW9lMXM1SXM0NFV1cUo4MjBBbnozNnU2eGdKMGp6ckpyUFE?oc=5",
@@ -1174,6 +1206,22 @@
         "section": "sports"
       },
       {
+        "id": 9533,
+        "title": "بعد 3 مواسم من اعتزاله.. ديفيد سيلفا يعود للملاعب من بوابة سوبريم شا تين - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxNM28ya3ppMDJsalhzaFZVMUdmMnN0VEE3QzdJODR0VEpleWZfd1VhUVpYYW9oWTRsOUxFRnVDRTNiei1SUHVMZ19jcTBqV1NqcUpyaE1Jc2VrT0lva21Pa2NzWXY4LWhQVE1aSGFXNFJtdHlVV3lYVVN0TVcxcFVsMWRLMHo4cElQODZ5YVItZUNDQmEzd3pyWE1YcDM1aHZOYVNRRFA5cTVOT0FMQW5fOG1wMlpRMEw1U3F0bVc2dHFhYUR2MnVYNmxya3BqbTRkUlIwN3kzbDhEcFRiM1JQWV9vRkQ5WkNpQWpuZUptMEsxeUJDc2Rwd2ZMSk9GMkxOR01TZWljdmEtM25ZMndZamdKMHRtQU1PRTJ0MUFJQWI5dDJhakl1TjIzemg0YmZadWk4NjZLV3dOdWZJRnVwUk9QUnY2emVjcWwyTzJJczhRWDRRMzdmR1lWR2tlbWN0SnRUS2tvMEl4V19JUHF3M2ZnNGhJLWZsdGxyRlBMU1dTZk9BUi1JTGNuUEVRN1dncHlmRGcwazV6NGpIREtGV2NJSTktcHdWSWpOZnVzM1FjNnRtUU52U1F1ZTdhWHJpbXpKTDF2T1kwRDQ2d1VpczlfR0RGOEpiTC01RTRUbDdKZjFpaDZjYjF1c0NQTlRpaWw0dGNwaWJLRTY3Yk1qbXFqdTlLX3pPUmMzRHVRYlljRGNha3V5YXh1WTdGYkJYcXRHbdIBqgRBVV95cUxNdlMzZHoyQWw5X21ReWxrc09Ra0VLbUN1YWpUeUFNM2N3QmFENmRUdy14RUJyS1dvM2hvQ0t6ZlNIUHZNWnNVdFJCLUw0QXp6NE1xaWRCcGJ4THBzMTFxcGkxTEtqb3A4NEFKcHdYWjBLVUtvX2FDWWh4dmpEVmdKV0dnSXFGa3JoUWY2Ull2SVJsU3F6VWpRcjRiS3ZVREw3S3lKbUhpSUlWcC1GQURrb29GdF9KbHl2dnhuMEJYZm9CdzlDRjYwa0kyOGtNZlJrV25lTk5oaUxrdjVsSUhCYWRkRkZGYkI3bXpKNkEtS3NJRHo4RG1ONnhEYzhrQUtkOUhGUGZGRjFaRkFBd1FLOHhTdTBBc2FGRl9DVG1WNFhLZ0t2bVByZlFqX3o3X0dnYUs1aXJtVTZkRG10a1AtY1REMExWZ01McWt3bHRxNjlVaS13SUd1S1dPdDZMT0xXUEExRFlFcGFXVnRYQjNsMU5hbGh4dFhlc0F3NTdRUVlMc3gyMkxEMFkwaGstdk9vQUxJeXZoUjZHanBYWDQ1SWt6YjUzamNjWUtPbWNFdVB0cGJta2Y3TnJ0eU1ZUXFjSEp6dzZXMHJ4c3E4cS1KbUtnVWtXMHJGcWFUbmdhYWdaZTdOYVpwQkdGUDFFYTVDcFRwRUJ1c042OU10MHB0RGJrOHlmdXRySW9MRTFydkYyaF9fYnRuX1RHVHVtTjBFZTVaUzdZWjFGZw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 14:11:00 GMT",
+        "discovered": "2026-10-07T17:52:39.729294+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بعد 3 مواسم من اعتزاله.. ديفيد سيلفا يعود للملاعب من بوابة سوبريم شا تين FilGoal",
+        "player": "",
+        "content_hash": "adc1f3faf333a7aab58b820aba7fdd292228b824555864a833eb8966e588d4ec",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9527,
         "title": "كأس الرابطة.. بيراميدز 2-0 القناة.. الشوط الثاني - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxOQTRkVU9HWS0tN1JLeTJEZzBlRlVpRlJsV2tuS1dBN2VYanhNajZudHdrUWhlcDY2NVhtQ0JnNzZrN1ZtOG5CTXhHZW5EUzV3SjlTSXpndkF6b3V3WEl6YWNfQjZLNVZvRU9kcy1WNU5UVGg0N3BjeWRtWDUwM2FIUmt6cFlBMWpsNmhCVmRBTDdpTDA1anlRaGROSVhuWlFPV09xd0Z6VUQzUjh0Y0ZVRkNLd3JsYUhpcXUteVZEbExaVW8wVG9BMWxzNFRtYWxSRVhzREZDUHhCTDhSTXg4NW5KcjAxSW0yTG91ZE9EWUFoSEdadE41bWd5N0lwdExsMzl3UWJfbEk2cUtoU09fUGJ4MTRhd1lZYXl0VjZ0UExxVHEzaUs0U0E0UTd3aWhKVmhsUV91VGtoTlVubmhZNkprdHdwLTEzMy1RSFltNWNRRlRoYkdvN2hBdkpOY2tpWXdNS0c2alR6NHFjb0VGSUZrWnF2VDVfbHpvT3VhM1NvRVNla2l0bUw3MUtJUkJZTEZMbNIBmgNBVV95cUxQM2o5aGJQU181anZOaEotRHZjVDVuQVJINXdIQXFIWHpMUjE0OHFxT29lQnUxSHplTDFHdXhjUlEtdm9MNVdSVl9qSFE0X0xtUzEzY0Q2STE0UkNoa2xTd1VnNi1FdmN0SjA5TzdIVXNkNFFuWEw5OENNVWJYLUZIUmhsd2Vrc1ZUa3hlV2xQR1FCY1pxd0pESFlUTmlaVFYwY1BZM0FQMV96d0dpWTJfZ2xTNjF0a08xX2l5cDI5X2p3blAzcnhFR1Z2aG1yUl9heXlwZ0tFLWlQQXZUZ1Z4am9ZcmJjVUFFVnlVYnhQNmV1UWY2eE9ZNFA4UW9hWkk3VUJlSVJtZnNjZk8tRlpOWkFCZ3dnYjh1VjJTNVpNSmU1WldkRXB3VXQ3Zk9tRE5UcG9FeE1scmhXOXJBMGFZNmxPOGdvTFJjemhkb1ZPUjRBb0JVNkFSYmREeDVydnJtOUhUNDlYRV9TWUhOTWx5RkoxbEV3Y0p4bnR5VzFWY1JRWlk2eW5LY0xjSjhtb0NmbFQtZ2xwdXJ0dw?oc=5",
@@ -1346,54 +1394,6 @@
         "summary": "تشكيل بيراميدز.. بن بو علي والجباس يقودان الهجوم أمام القناة في كأس الرابطة يلاكورة",
         "player": "",
         "content_hash": "f97d7f1b7fadf2fd2faebb41bcdec9665ddc29de7b13b6fab1f4681902bb3c9b",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9530,
-        "title": "كأس أمم أفريقيا 2025: مباراة أخيرة بين المغرب والسنغال أمام محكمة التحكيم الرياضي - France 24",
-        "url": "https://news.google.com/rss/articles/CBMijAVBVV95cUxQNzBIc3c2bV9UMkFGeTl6MzJ6cmZQSUFwY0JLaWNmUnQzRmRXUm9rNkEwOTdCamctaTFvTjZJMVZCbDhOUGNYYXhrVjJjRHpOZWt6SExnQmI1R3Z3Z1hnUjlkbXhFNFhDMGo4VFVqNzhBdi1tZXpXSHpfNXF0QnNhRWE3M1VqUzFwWDJ0WFVoeEpnTU1udkpwYzdmQllHSmdBQWZON1p3YzVHVzZSRWh5enJPeDlNTEhVTDJveVF5QmJZbG1lUzlRWnlKcFhTczRaTFdmQmNQd1VacjR5X2MxNF9ZenVvU24tSjRraVBjWlprWGNUNVVubVJZOExXMUg0QWFJUWhKUU5paHhoN191dzRRS3FkbE1pM1NORUJ2SW84SlY4VWhfQ2FiSFJCQ2tDbFJQWDF4eDFwUzZRLVNWMzNXNDRVQ1Q0MmJSVWJzaWN0TXd3T2UxSmIwSmdkUDZIMmVGRFZhZi0tMHVmeW44bmtKR1dhRWRPX0hCSE1HVEdlYnQ5ODI4WFowY2hqck9QWnZSdjhTMGJFbFc4NV9ibkRhQXpYanJLV2E2Wm9OY2otTEpZUFdIQm9SRDFlRkhYR1U5M0FjZVJDNnNKenAyNE9rUjduQURSUzVjQ2czVVZLSnJOaFlJek1BWkpDS0tQUl9sNHk2cTdOVklBRnI5bG9EWHlqMk5ieU5KMmpLWk5OMHdfTE0zblJQYXdlaVBpX2hTZWhpNXlfdS0wUUJ2MEN4Z3k5LUN5QW5JS0pOOGx6ckhVSi1hLTdtYU5SWjN6WDQwR1N5RGVOU3B2cmVwVTBPeXlMQnhWQ2hwbzZQb3RpVEhPSWcyNTZfU0NqZXg0Umg3QXMybzdFb3o5?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Wed, 07 Oct 2026 12:59:15 GMT",
-        "discovered": "2026-10-07T17:36:33.757907+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كأس أمم أفريقيا 2025: مباراة أخيرة بين المغرب والسنغال أمام محكمة التحكيم الرياضي France 24",
-        "player": "رياض",
-        "content_hash": "c760dcfe6130a5421596d6e9e550fe3e75f495e40044df6d91e1228ad92169c4",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9441,
-        "title": "«نستله» تراهن على شعبية الدوري الأميركي لكرة السلة لاستقطاب الأجيال الشابة - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMioAVBVV95cUxPei1SR3Q5ZFFHbWhxMy14YXNXaWtUZlpuV0ZfZUxfMWJocHFTMDlrSm9pSU5TLWhHbVhhX004MDgyTWxLanI1SlB4SjlkbnNwWDhJZnRkSzJuU3RLTWF2MlpSMU5Sek9GY0NsVUV0T01wbWtGREpyVHluaU1RSUo3aVlVY0FlYkpUZ0twbUt3Rm43SDZ6Rjg0OEtVX20tUE1yTWlITzB4ZVlNVGFwSHg1MTAyVm85QzB1Rzd3XzYxSTB0cUhPeEhNR2JZVGZqOE9CaWt1Q0Jna210R2QtNVZzUkZxSHRkQUhBWTgtQVc5NWI2T2R1TWM0OHB2VGhWWEYxSWdKb3BNQ0ZweTNacFRQbjJHamxRRnVHY0FwYVgtYVY0ZEY5Y3hVRU5xQ2hTMFJtbVRBVHF5MlQwYWVJTDRmdmJnM0JrWE1YRFB4M3hQSjdCS3UwR25IbEFfdFp1cWFuam5VU0ZFS0ZmZ3NlSFAzMGJLbVNab09DWllVMUd1R1B5ZEJCWGN3aFlVZE5mVW1URDZFZDNuNThlNGtTaTIyNTg2NzdjN0xwemdNMDNPYXFKV2EyN0NBeFlCNUczNGVQSkNobGdyblJkaGoxckV5SF93VVBmMGdwVU9Va0EtaW5oZG5NblZkUEYzRlhndUNxanFTUlBSYjhnMExzZVYwVTJJS0ZFZktBN2lkT3JvQ0IwOC1SdDM0LURWWFFxUVVOdFBwaGQxUnUzYVA0UjloUVp6TnBIaVlCVVRVdTNoTG83aV9KeGE5dUV1RmZsTUJmWm5aYUpIZEJVdkdfaUEwa0xsNEFUNDM1MTJmbkdJd1d0YU5hOENtajRQNGZ5SXhYOG1MVEZTWlAzcWltNWlCNVlSOFVMUkZ5VWE0VUtTNlM?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 12:59:15 GMT",
-        "discovered": "2026-10-07T13:20:55.687838+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "«نستله» تراهن على شعبية الدوري الأميركي لكرة السلة لاستقطاب الأجيال الشابة الشرق الأوسط",
-        "player": "",
-        "content_hash": "7340709cfb40d4bfbe1a0489e7823b2c22b5054ee7be60fc1df4b1d07ecb2735",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9435,
-        "title": "حدادا على نصر إبراهيم.. الزمالك يقرر تعليق النشاط داخل قطاعات كرة القدم - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxQY2dManRDZFZFN2lHcGVDc19FdTFqNXJvYXlTY0ZlLTk3cjIzSE5SNUtocnVJamtsczFZcnEtclcyUUkxalowU3lPLS1uSDQ3T0R6NF9oS1RGYlk2TmpyVktuTlotRTI1bHFwU0dQQ3VjNFpHUWliWldfV1ZsSXZZYWFkTEZLSWZoanJFU19yalNvRkVSc3p6WmtLZ2ZzaGg2RnFaQ0pPdGt6RDZ5ZGtBTVdCVTRDOE85ZnkwU1I4aDBiY1cyUHFyQXAtNlFiSHpvQlN0dTFLci1xSzBneUFqMWV1aHhHTXF3S1E0YUc3eFpEeTR1aDNVRFhpYVczUHJKd3U2RHd3NDk1Wkc3bGRDQkNlc1NDcHk1T3M2Rk5LcGVvSEJBOW9nWERDTXdqUnhHd3ZOVk9nZjZ5RnRtSW1GQkZrZE1nSWtsTUNDVmZEaGNwbC05U21Na3hqeEdEZ2pveVdQc0VFZ3VRRFJFRTE0Z1gtN3ZPZ1VSUW91U0dGc0tnS1pzSV9CS3hkdEwtaUNCQVgyTE93VzZySzUyN013T29qUU1RcDEwS2ptUWNSR2tlVWtzWUFuZHNwaDdlZmhBSFdZYVc4TU1zZmtyU1U2WmwxOUo3TV9pTVNWTGRacmxJVlJISi1yUXBXZnJ2YkE4UlNvUHBhclV4MzV6TXJEYzRpMVpyOFJuZ0NFeHdqcjFjMVBHSVBhbmxRME5WdWlmTkcxNDVOZlZQZktyUk9sdNIBtgRBVV95cUxOSTBOLWVGazJLR3g3Tk95Z05lUmRwU3dXRXdPeWwxeUdSODhmWDBEZXNNOEc5X0Q1akxXMzl6Wi1JZVZ1LTVXN2QzTGFMWkx1c0g3bmpvSzIzSG53cUFLbW9vaHdjZGgwX21DbndLLWFCOXhzemYyeFg4SHlfZ1BSN182UjJPeEd0X1BsNUR1ZXZaZ0FUQ2xBZlRBeEp6QUtLMzl3dnVMQ29mQW54dHA5eGJuVlZsRDRHYWpSYnlfR0tUSHZhMmFyeUVJRC0xN0FfSm43eW1xNktwVko0N3ZUaU1IWjhRd0N5cE9fUWUzTkRyWjVIdGFGOVFUcml4WXhDcktIbElWNkF5YUxHaTE0M0pQaTlpcUYxcXBabl84UFR1X1lYMTV2S18yVVZaVm43dWJQTTZTS0ZTVkZZbWwwZGcySVJ0bjNNMjNBZm1FbFlMcmc5eHBpVV9fX3h3MEE5ckhkeEJSSU5CeFItaEpJYUxCLThVQ3BOTHNqVDlVSmFKV0NTOGpLb2JueG41dWpYeVhYdTBoZ2hZeTltYWlkZEw2M0E4QUI4dGl3QmUta0tkTzE5d1BQVjNBV0dYSjdGbWVHZFFQbHJ5LUdMS0xCYW9EUTRxcEg4bVduRm4tMmEycEhnQ0hTeHJxRlV6eDRWNndSSV9ROHFDWVJ6Qjk3NmplTExYWHBtYzNNdHZob0c4SU53YS1xS1hvNjYzWGtUV3ZoUzU4RmtSb3N2Rjhta0RXLVlvQQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 12:37:00 GMT",
-        "discovered": "2026-10-07T12:59:43.875041+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "حدادا على نصر إبراهيم.. الزمالك يقرر تعليق النشاط داخل قطاعات كرة القدم FilGoal",
-        "player": "",
-        "content_hash": "3acd8a0e3fd1512fb7f3a07242d17d9ee25ed505f534f21d037c85b77d243251",
         "sent": 0,
         "section": "sports"
       }
