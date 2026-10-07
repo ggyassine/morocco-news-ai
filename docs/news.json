@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T10:49:45.942554+00:00",
+  "updated": "2026-10-07T11:02:58.205175+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -452,22 +452,6 @@
         "section": "morocco"
       },
       {
-        "id": 8917,
-        "title": "إحباط تهريب حوالي 50 كلغ من الكوكايين بميناء طنجة المتوسط قادمة من البرازيل - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvN1pvYlYtWXpiOTB0QW8zbVh5aGdNUHdTVWxQczE1NjdjMTNEbWtNZFlWbXhOSzJVT0MzUExOby1scHpURVZ4QmpFbElKT1pKMU5OZ1pndlhjUXBLaVVnbDN0MHNFZw?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 23:35:40 GMT",
-        "discovered": "2026-10-06T01:33:52.953866+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "إحباط تهريب حوالي 50 كلغ من الكوكايين بميناء طنجة المتوسط قادمة من البرازيل Le 360 Arabe",
-        "player": "",
-        "content_hash": "ea34e73f82dbb9bc135d2eb12592fdd3aabe3f7017f9b27c356aa415e6bc641d",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 8976,
         "title": "ديابوراما: تنزانيا.. انطلاق أشغال الجمعية العامة الـ153 للاتحاد البرلماني الدولي بمشاركة المغرب - ar.le360.ma",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iOXA1ZDZJNWk2eTlKbEhLd2M3dG9JclZjSzBaUllBanNQMm4ySHVJNHBCMU5aMnMwdlZ2LV9LYnJyZEpKZEdPbFEybHpIdDB2Qm1LZTJkWDBTdG8tbGdrQ0l4d1FhWjFt?oc=5",
@@ -594,6 +578,22 @@
         "summary": "لندن تستضيف «أسبوع القادة الرياضي»... وعيون صناع القرار تتجه نحو استراتيجيات «السيادي السعودي» الشرق الأوسط",
         "player": "رياض",
         "content_hash": "b256ef8c6dc1f976d9646603daa09af383c7bc6c37fd94dc47a5ea00eac672f5",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9417,
+        "title": "صحة غزة: إسرائيل تروّج ادعاءات مضللة لتستهدف بقية المنظومة الصحية - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOZGhVWE55Z1c2Z2hHNVEzTXN1YnlUYVhTV1BGV1B3eUxFem1JV0R0a0hMNXZVR0FJZFdiUFByQVlYdFkySDVub011MDE1dkJVZVFER0lSS09ZUy0wYy1nZW92cE91R1V1dGxVRHBHbTF5bmFZVjZMcGVXZHYwS1FMUldKM3VtNUNSLWh5M2lSZXVGczc2cGJpZTh1aF8ybUNZYlQ1aV9hMTN2VjBCN1dUcEZidGlvSm54eVRYclg1amY3ajRsY3MxdkNuN0NDanJaQUhDQ0RxNURVdnJCVWl4eTVkbm80R2tGNDdWamhOMjBlMnRYdUNGQ1d2ZjZ3c3NiTWJyenNtUHhUcHBkUnZyc2xPQVIxQ0lfSWlPNjZTeVU1ejZva2p2Z19DdDFDX3lubEJoTVRqRkVtaGNXdmN5LXVSQ3hYOE0?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 10:41:19 GMT",
+        "discovered": "2026-10-07T11:02:53.143018+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "صحة غزة: إسرائيل تروّج ادعاءات مضللة لتستهدف بقية المنظومة الصحية القدس العربي",
+        "player": "",
+        "content_hash": "e8f8b146a996fe9e0dd6d656220e191f34f34d66418fc711de32671ad38c2f26",
         "sent": 0,
         "section": "sports"
       },
@@ -1362,22 +1362,6 @@
         "summary": "الفيصل لـ«الشرق الأوسط»: كنا بحاجة للقب كأس الخليج... سنبني على هذا الإنجاز الشرق الأوسط",
         "player": "",
         "content_hash": "f7b3202f3e6b5f29f99af8f1554d0fd15079b7aab3c3df3e36892da71b75e745",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9374,
-        "title": "تشكيل الأرجنتين - ميسي أساسي في مباراة الوداع ضد بنين - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Xcl9rZ3d0ampNQV9aWWwwTXIzR3hxdDdSNU13NVdRUEhVR1RIUVV1dzhQVjdlakN3c1pCUXlTMVJqMkM4RWR6dTZ1UGFyZnpL0gG6A0FVX3lxTE5DazJXampaRkFzRWN1RGZub28yWThHTHBNcktUZV90NEFCcVgtS1NMVGJERlc1NDh2c2VZbTRKc1hCUUZqaGU4SDBNU0lwUE45aFdmeDR0YnVBZ0xyZlNsYW5RaHRSRWlBUHRBd0ZTQXdqNTdTSGpLR1NvbWJLMXFFVlR1MHg0RVBQT3dDUUVRSkFPSVg1dHN3ZEs0b1JibnNmdkpsdkdna1hpd2xCTFBJWWxiQ3J2R2YyQjNLQlpfeVpyMnAwV3ItSVM4eFg4dGNkYjdKVjRSNk9sUzJWNmVnTVlrV2NtTVZtUmctb3loazNOX0o0aTU5RVpxcTR1dEZrOVd0d3phWEprNEpBUjYxR3BSOHBRcm8yT3RrU3pOVGItNjBxRTVQM1hXaGlhQUlPellzX2tUSlZBUWtnei1QdThta0NJOXpRQ2cxN3Q0bFRKbkpaU29OMlVEWU4tZDluWndGR3BjRV9BYzFWUXIybWJhMURHa0xsRWZRZU92T09WT1pXUjVvWmR4ejBjR0pOelhkSHdjUHZod3dybVRMWnpUdmI1cV9xZUJ2bjhnUnk2QUIzdU5XOUE?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 22:19:00 GMT",
-        "discovered": "2026-10-07T05:55:47.452078+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تشكيل الأرجنتين - ميسي أساسي في مباراة الوداع ضد بنين FilGoal",
-        "player": "",
-        "content_hash": "3335c9434b30d98b2a8652a93f23650be4e5caac59c15fb6cf793d7a280097c5",
         "sent": 0,
         "section": "sports"
       }
@@ -2168,6 +2152,38 @@
         "content_hash": "d52a3c4cffa11f75e2b00b0ec1e4c9ec9b083a2017ece02256f04b2da36e642a",
         "sent": 0,
         "section": "middle_east"
+      },
+      {
+        "id": 9045,
+        "title": "بذور الشيا في الماء أم الحليب.. أيهما يعزز الهضم وحرق الدهون؟ - العربية",
+        "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxPRlJGZjVFMmYyTFBaMTJ5cFQ0alpWYXhSSXFEaERfdFAwdEt5UDZmemtYYlJRUjJTdWMzdlhhUUMxenQ3NVdoVGFya3ltbXZxdHRNN3NmUEVLc2t2WmVDTmdfNG1TampyU0FTNHRvRDhNdFpvUW1rWXZsNDg1SWpuWWh6em5IY19iVnhXc0Y4b3k0QjBWaDZVTXE2V3QwQmtpcVFGVTdLT2gzNzdieTNtWGk4ZjFDdDFqc0dZcHRxVHJTRG5zaFFIOW5qY0hTazE4LTNnZTE0T2tfWTV0NVhqOXZCMHc2N2F4ZnlUTTV0UFUyamtnMzRMWllBLWJyNC04MEhNQW1wSVdibkhETEJGeWtWUkNtUXFSYVg2LWstMHNBbVBGTV9BMTFWVG1ublZGanp2NnIwcVgtZmFYcWZWUGxLd191Tk9LUUtkQV9UNHpycDBMZFhJVDVMWmJ3RDVKRzB0cm94RkVwNnNhdEJZNmRSWDhrWl82cmZhemdGWExWQ3JBaUhWYXVGa0xGbWg0VjNKYU9nOXA0QmpZVTN0UEtpWVNUSHI3WmZkbXhJVnM2M1ozRnZ6bnBzQlFzTW40bkE1X2xKZldEanVJczZGa0lSMG42VnpSX1kyR2dSVlp0R1FOb29qRTZWc2FUNVNZSnJ4OFU3TdIB_ANBVV95cUxNU0ZUcGlnMklDS05sV1QzRElQZEJSdU1iREFuUmdHYV9yUVVBYUlnRE5zdFBoVURPOEkyMjFIMUpNOUlkQTNfbnJJM2tzUXNENVBVaWg0NEJDTjU3WXVGV29ZT2NCNS1yVXVEQmdhTmZnQkJXSkdENmc3OWg5aHNGZGZRN0tTMXR4Z1A0NzEtV2ZvbkQwMGpybWgzNkZDU1ZoTHgydkE2UHZ6d1NKLVA5c0ozdnpPOVhUaEFkS2F0YkdYWUtnNG96d05xUUFVUGZqYmQ3U0pObHk5cndaVEtFb0VtWjRqMnZvV2pLR0k4NmdVODJ1Mld6MXVzVTZwX25MMF9meHptb09Sb1RVUi1keHhjSTJLR3gxUXlGNVh5R05oWUdTOE85NEVMcUtqLWxDOG8xVVpBaVU1OWFNdG80UW9OTVM3SFUza29SM29vLXdOYmRRTUsxSlQ1b2x5ZDhqX1JVcDk2WE4wdzRnOVlLaGxndXFnNVoxZW5xU0NUbTNWUlUtSWlVR09oYVBINFljdWR5VlYtbFA4T25fUGZoNnlpeFJacmc3djNMcVl0SlMwVk1qeHA5aHRyTUtJLUtobDBRWU1KVi1weVdsNHpKT3JrTFkyUEQ2alUyU3RVRnlPXzdXTjJETFAxZnRFOHZ3RVRuaVlwd1pGME04?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Mon, 05 Oct 2026 14:48:00 GMT",
+        "discovered": "2026-10-06T10:48:22.849658+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "بذور الشيا في الماء أم الحليب.. أيهما يعزز الهضم وحرق الدهون؟",
+        "player": "",
+        "content_hash": "91af2765d6f5e509371fd8060b84f2ba36b5d9f6c550349a18fde884423c4dca",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 8939,
+        "title": "«نوبل الطب» لثلاثة علماء كشفوا عن آلية إنتاج الذكريات والمشاعر - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxNcHVXQnpHVjlINEFac3dzdVVzMFFrRmNIcVAxYVM1U3VoYmR4LTBkSDBvalNLWnQ4R3VjUm5aN0ZEb1VKSTJSdTRIaGI1Uk5SVWl6UVU4SHZuWXQwNHVEZWd6RVliUzNSMkhPRUNGVlZ4MHN4cHl6VjZiSkRpcVdiTEFFdjRtZ2Y4M0thTWRxSlRBY1pnU25BdEhxTkdDTUU0VHg5XzFCTjFHYzJpcHdlMEpYWGFLS3FEOGNmOFF5aHpKSlA3aERGd3A2b2ZwWnlLaXJ2SEtyMjVScllaM3lYMTFKdFZMSkg3ekJUVktxUDRiZEdqUVUxZmVLdG5CenpZM0tkSDAyZXdPMlBKQjltTDlheHJnNjlIdmRLTmE5Xy1XZGRUbDVjNks1TjlTMFRvSF95TjR5dHN0V0pzdENKQ2dGTl9fd3dPNzFFX2I0cVlaNVhHcnlWYWJiWHBEX1hidUExSHc4QUdmNnlTX21iam5jOGpsMWtrNV8zWU04MTV5TEpCdlNmTnh2azNNSnZFUjcwYTc2MUU0c2dPVG9UYU9VejRtTEF3Y2lnNXJtMWVGZUI3bVR2SUYzWTBkYjlUci0yWnhVNDFxb2hrcTlnVlBsMkVjU292eVljVVVJMkZQaUNPUG91WmdHREFjZS04cFI5eDdjSENHdVRZNFZHRHpaVWs5NHBWWkRwdmJNb3YyOTVZRHM1aU9kc1J4bklwTlE3akFoZzQ4ZjZwbGJDbW1EUXJIZk8xRVBYMHdCcw?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Mon, 05 Oct 2026 14:47:33 GMT",
+        "discovered": "2026-10-06T02:51:50.001216+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "«نوبل الطب» لثلاثة علماء كشفوا عن آلية إنتاج الذكريات والمشاعر الشرق الأوسط",
+        "player": "شاعر",
+        "content_hash": "bc246431d2f9cad11d2152c921bfdb9985fb5e2e1bebae55dacc356f5c71282d",
+        "sent": 0,
+        "section": "middle_east"
       }
     ],
     "world_arabic": [
@@ -2360,22 +2376,6 @@
         "summary": "واشنطن وطهران… المواجهة في انتظار الانتخابات النصفية القدس العربي",
         "player": "",
         "content_hash": "16679b6d926186441bd04d17265464a280395b2dc678cdcbd5e177db3c8c5495",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 8916,
-        "title": "إيران: أي حرب جديدة «ستطال الجميع»... ووزير الحرب الأمريكي: عليها التخلي عن البرنامج النووي طوعا أو بالقوة - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNNEs2OHQ4ekxlTHdzWXltMzgxU1E0MS1FeWczdENiMUs5ajFWTGJEUy1ia0FEbDN0TURqS3VSSFF0bTFZM1M0YThOS1dBVUtDazROb21saEFscFhrS1AxVzF4ZFhEQUpvTktvNHZLbVc3M0RNeUpJLVktWXBLYVN0blgxa2NhQUt4c0lsdnhna2ZGeTBCTk52ZHIzMGg1NE5MVkdfZGJHWXl1a0g2dXdQakhrR0Nha1ptY2ZGX1p4MHI3Rmo1MWR0UW9HZ08ySG40TEd0RnFfZGNQQXZFOWZxMWhSN29SNDJMQmxIRnE1TE95Wm5pblQ4ZXJhSFQ2OW03YzhiNDBsMnduSUdzMTRFQ0FHbE05NGRjSEZuM2FvUGNfclhYUml3aG1lVFliTG8?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 17:44:22 GMT",
-        "discovered": "2026-10-06T00:59:58.482568+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "إيران: أي حرب جديدة «ستطال الجميع»... ووزير الحرب الأمريكي: عليها التخلي عن البرنامج النووي طوعا أو بالقوة القدس العربي",
-        "player": "",
-        "content_hash": "07292e73714e259e6bcdca97afa5fe09aaa827b53af8a4a155f563f262c36a6e",
         "sent": 0,
         "section": "world_arabic"
       },
