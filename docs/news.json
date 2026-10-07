@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T07:33:49.328183+00:00",
+  "updated": "2026-10-07T07:51:38.793209+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -565,6 +565,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 9388,
+        "title": "لاعب ريال مدريد يضع قدما خارج النادي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOSUdLbkVETkwycGlOVnFLM2MwMkdFdERNcklGUUo4NzNRTFlHLVcxb3hiSmFfM0JSSk5EOWFrZlU2SVJKVzd0RHRqNjNSNDNIa0JMYjhSSm4zMmtSVktfWVc4dGowaEpRclBlNENTdGFyMXFSVWJGQmduWHBOMnIxRHdxOVlaMWU3UmlHSjhTRzlwZ3hzZXlDQmk2M05IaEJNbXdOTjBNaFdVUnZNOWU1dE5ESmxHeHpnNE9jTVZHMEhpZmwwN0VnY3V1dXo1WVpBYi1GaXBmZVRqQWxoWVlTc2NjTzZhbGpjZlc4NkgyRlNUMy0zLTFzTGxPNjBNUEpramxpZGpmREMxTGFlMkJGT185YUgtZHN6NDUwN29Odl9KVmVBb1p4OE0tZVJwelphTjNoVWRqZkI3ZlRheFJWR204cjlteXBhaTRiX0pacGhtbUJXR3FVdNIB3gJBVV95cUxNbk9TYzVBdlBrSXdjeFRQeUlUaVM2Wk9reWtxRmtPX0I5cUUxQUNFeWthZ3IxbldlbVROLU1NYTNPQ21iNmRuejhhQ2RoeW9GWWJLN3NNSU9QdFhvZjhCTjlPOGdBTDNnRlZhR3FuMDZFblN1OG9nVG1iazQwUms3aDdmQUw4MjlkTjY4VDR5MlpYeTEtUExVeGFRSUxQNFVhNlNVRTRweHI0U2ZxV0hkR2Nsd2k3dWdBWGZTVU10MG9zcFdOUk1ieTZLckhOd3RFSDUwS3g0dGhObFV1Y1M5N0VNemFJdXpzRGJmYy1KTW1WalJ3QXRqVTJkVmNVNGNfMnVqLWEtZlVEX05lRUlHX2ltSF9VWnV4Y0phR194TzRwWVg2TzUySUFuTTFqYUh2VjlqdmlVb0JYZVkyaVNsSHZGQlpHMjlzRTNnUE81TURiZUJKVlhQd2w2cjJwUQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 07:38:00 GMT",
+        "discovered": "2026-10-07T07:51:19.201294+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لاعب ريال مدريد يضع قدما خارج النادي يلاكورة",
+        "player": "",
+        "content_hash": "97891863565ff3a7abee62af900597c451452a4c8966f0ed09452883c93b1e20",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9386,
         "title": "الزمالك وزد في كأس الرابطة.. الموعد والقناة الناقلة - يلاكورة",
@@ -1348,22 +1364,6 @@
         "content_hash": "f45fb1bb90d1c7206cd2f3ed5706e4bb9a85c28e79a7fa203f149e47b3a0a931",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9247,
-        "title": "لجنة الحكام: حاولنا استقدام مارتشينياك وماكيلي للقمة.. وهذه خططنا لمباراة الأهلي وبيراميدز - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi2gVBVV95cUxQNXBVQTlWdmFsc2FQcEoxcHRUeEFWY3MtNlY4Y29ocHJFRUJiLUQyZ1A2OVFlVUFZVFRtLWdERThLOTRLSWV0a2o1Q1lSWThJbVFlSkpoMjBXSWNjUF83djVWSWxVLWpVZnljTENSZmdRSGtOT2lwSHRPWm5GOXRXdkctcHE2SEZmcE9VcjY0U3JUYnV1UUJjUnctNUZ2TV9FWG4xWEpqdVMxU05CM043bHBUUUF1Zms0WEY4ZmRNUzcwWDdwaXk0cmc4b3hlYnFEam5NNC13ZmxBVlVDVnlILUFxUjk4c1VzZVRXTFpVYlRHb3RhclBLU09iUEc2NDdvQW9fekNid25aUHltamVKWTFlcW00WEFYZlhfZHkwT1o0dVl1S1BITGJUSFEtUklPWXhqZFdVbUQwUzBXOWdYRXFHZEdjR1lvRzlvTzA0alpCTVMtVXAwMlllYkJuRkRXaVByMTRydWMwVXBEZHZwQkJhalJpeXFUUlFBT0J1U3hCYklJdGh0SDJKeHdmTVhUbDVLdzltYkpmZVk3dEFBcV9MWlR3QkhVRWdYWXVGUDB3VUlqSm0tWnExY3JQWnZBSXBBWG1lM3c2MDJ4NmNHNHNwd3hBekV1NXhURm5xM2tsQUlSTFBrV3lZM2hJdHIyM0Y3aktrUy1MdGRTNXN1QWhkNmFRVGRCN3pJalpvREZIWUtxYzdkWXdNMXkzUlo3U3NsTjJnT1lWY3BSbXNELTJ0RFd2VTQ0RzU4RHF6cGNOWjlXQWtHVF9EelhGWk1zNjl1dU52VXFCcXFlMVlGVWtQRGo0MXVqU2hyZFkxMHhoUmFodFQ1U3pWNE9icEktaWNwTzduVFNleGxFbERpV0RwQjg0bUFiLTM5bk5VdXU4SHVHYWdlU2ptZDB2RW1vUVRPR0FrdFpaZ1JMWVhraXNES2xTWUIzSVQ5dmdhUHlURzdIUGM4U2F3?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 21:21:00 GMT",
-        "discovered": "2026-10-06T21:36:00.851818+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لجنة الحكام: حاولنا استقدام مارتشينياك وماكيلي للقمة.. وهذه خططنا لمباراة الأهلي وبيراميدز يلاكورة",
-        "player": "",
-        "content_hash": "f45fb1bb90d1c7206cd2f3ed5706e4bb9a85c28e79a7fa203f149e47b3a0a931",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1992,22 +1992,6 @@
         "section": "transfers"
       },
       {
-        "id": 8889,
-        "title": "ما لا يخبرك به أحد عن الجوز.. التوقيت أهم مما تتوقع - alarabiya.net",
-        "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNa2Z3ajZiYVBDRThBQ3JDTi1YRGxkWWNNeDRmeXoySjcxS1pyTkxrN2NzUUw2U2Q0MEJpYUIxaXBUZ3JkSXpSWXRTN1QxeklXb0g1TjJNTFdEMnkyY2tPc2xHMUgwNHE2cThzRHlnWjVBYnFoeXMwc0lWanpSamU3eGF4eEN1LWFmSUdBWHp3aFB0RFV5aW5JenZJeXhkdTQ2WTBTVlhHRFBrc0NlMURaVkpPVDBjYmdfZVVXMjBuUTIyRFBZbUFFLU1BektCRlFlNDFYUUNwQ3hiUzdRTjVSOU5TTEJpUmlUNVI1M1dhTC0xQ2dDQm5HLWNOalhVWmlYSjNKc0hnaTJFR1pmN0hocks4WWdybDF0SlBvdXRiVjVpd0E4V0h3VHdOSUY4T1ZIalpObUNhenNqVG42YUE4dDFJRVBUOFhYQ0dRQUp4Vi00WThxempnR1BiRUtNVmpQNGNibFJ4RWI2Q1hfV2VFOEN2YVZRZVJtc0lzdDR1MkZqT0tTMXQ5bnZqOXN0ZFV6UG5QdGwzTk9HUzFpN0JSLXRCNGZ5QzFydmxFeTFR0gGzA0FVX3lxTE92akp0N0ZWa0c0Qlp2ekJLRHkxLXpubVJBM1hJek9uSThUYzNnSzR2V1Z6VUU0TlNQOVMyOGhYLXctdGMtR0VsYzc4T2NidHRXVUE3V2toRVRWZ1ZqX0dsN0tRT3VBeXNzOF9tZlJMMmJoTmt4eC1vOXdrTFZ5QTR0UG1IZUstNHIwVzVkTWFCOFk5aG1TOE80Si1PUjBCcDdxVlVEMngwM2hyTzMtOVNOU2dpRGVYRzRaRzNyNzZIOC1fSkxOR0VhZ3JDOU5xYXB3WUpvVXktQl9zU3dqbFBMNkRLUnhEMWFKdXczRmliQm9Lc1VnUHgyQXo4YVNkNUtCRFBhM3RFeFprQjBLVlFUSm9LQllELURFcUVXeURNYllKS2VrMjdfRFNqV1NVNTQ1ZlhjTUQyc1pfUDlaWFlDM1lySy1kZVMzMU96bDhJMDRWSzAwblhnd2k5OFJON3IwVUMyajBkSjNMWF9LT2Q0R0dHbExGeDNuTmNmYzFtbkMyN1hIN1l4UXZWQjV2RWxOb001TUdRai0ySks3VEZzUHRkbmhRR2ZyeW9pLXpuRHM2NA?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 17:51:00 GMT",
-        "discovered": "2026-10-05T22:25:49.228499+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "ما لا يخبرك به أحد عن الجوز.. التوقيت أهم مما تتوقع alarabiya.net",
-        "player": "",
-        "content_hash": "c7701ec5728e966ee5b7b4bd5cc10c03e4a55e44e5e97d2fffd824bd028c016d",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 8906,
         "title": "مصر توقع مع «شيفرون» اتفاقية للتنقيب عن الغاز والنفط باستثمارات 88 مليون دولار - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMihAVBVV95cUxPYkpXbE9XWDRsUXFydVIyT1Rka0VibEJZcnFlblUtWWlfT2V5RndNSThSOVNPeEJjSzNXQlk2Z2w3QmRQS1Q1YUtpYV93cnNlZGJOQzhySkNweU1IV0NRZTdCWlhoZWM0cGxmdDFtQ1pqTFlkMHRaclA1ZDJjMDdoQUtHYVAySGtrV0hDX1V1dUF4d0p0SXoyb011Q2FfbFVneDB1N2RnenRKVGE1SEZLQWF4amx2VlBIeHE3RnlEZEFyVUJDTHRRSjlqVWVPYkd6VDVMVXNpWTJJNVE0ak1EVHlWR0dqTlNubVFoSll4ZF96cVQ4RE9LNHNXdTMwRzExczlzVlZQcjBNR1dFYndOdUVDZlA4eVlRT1JQS0c4eDRjQmg0NkhJSHE0S0JsY0txTlBCY1Ayb1BNbnpfQm8zQkE0LUw5S05mSXBZZnBaajBfMUo5TU94aDhIbG15aEpOY2FmSU84TmZyc1FUOC1HWjJaeTJGd0RkUFRZNFMtMnJnQThKb3BzbUZabm5mbkJFX3NNbF9jYXBNY1FXMFdEZTJmR09Pa3pNWU5GMEhreGluN3p0clhRdFI5VGc1OGdpNUpicjJQYnYzdjFSVFJXOVRYT25LcUpaUlV3T2toQmNBR1Q1TzFxUV92cmNEUVd6aC1lZU5yV0J1cXJaTldoRWtYRVhOVFQwQkZJTGxKemJzdmo1b3oybllPQ04tUk9kckU3Y0dzVVJkR3pqcUpkSHBBMk9hOU40OXhGd1JHX1ZQSXBhYzB3UTkzTG9lSG1XUEFJLUJSUU1sZnhGbXNXMU5KM2R6Z2lnR2tuWW5tN0NPOG96YVNzOEkyeGpjRnNVWS1IaA?oc=5",
@@ -2166,6 +2150,22 @@
         "summary": "حوار فلسطيني لتأجيل الانتخابات أم لخطّة إنقاذ؟ العربي الجديد",
         "player": "",
         "content_hash": "d52a3c4cffa11f75e2b00b0ec1e4c9ec9b083a2017ece02256f04b2da36e642a",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 9045,
+        "title": "بذور الشيا في الماء أم الحليب.. أيهما يعزز الهضم وحرق الدهون؟ - العربية",
+        "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxPRlJGZjVFMmYyTFBaMTJ5cFQ0alpWYXhSSXFEaERfdFAwdEt5UDZmemtYYlJRUjJTdWMzdlhhUUMxenQ3NVdoVGFya3ltbXZxdHRNN3NmUEVLc2t2WmVDTmdfNG1TampyU0FTNHRvRDhNdFpvUW1rWXZsNDg1SWpuWWh6em5IY19iVnhXc0Y4b3k0QjBWaDZVTXE2V3QwQmtpcVFGVTdLT2gzNzdieTNtWGk4ZjFDdDFqc0dZcHRxVHJTRG5zaFFIOW5qY0hTazE4LTNnZTE0T2tfWTV0NVhqOXZCMHc2N2F4ZnlUTTV0UFUyamtnMzRMWllBLWJyNC04MEhNQW1wSVdibkhETEJGeWtWUkNtUXFSYVg2LWstMHNBbVBGTV9BMTFWVG1ublZGanp2NnIwcVgtZmFYcWZWUGxLd191Tk9LUUtkQV9UNHpycDBMZFhJVDVMWmJ3RDVKRzB0cm94RkVwNnNhdEJZNmRSWDhrWl82cmZhemdGWExWQ3JBaUhWYXVGa0xGbWg0VjNKYU9nOXA0QmpZVTN0UEtpWVNUSHI3WmZkbXhJVnM2M1ozRnZ6bnBzQlFzTW40bkE1X2xKZldEanVJczZGa0lSMG42VnpSX1kyR2dSVlp0R1FOb29qRTZWc2FUNVNZSnJ4OFU3TdIB_ANBVV95cUxNU0ZUcGlnMklDS05sV1QzRElQZEJSdU1iREFuUmdHYV9yUVVBYUlnRE5zdFBoVURPOEkyMjFIMUpNOUlkQTNfbnJJM2tzUXNENVBVaWg0NEJDTjU3WXVGV29ZT2NCNS1yVXVEQmdhTmZnQkJXSkdENmc3OWg5aHNGZGZRN0tTMXR4Z1A0NzEtV2ZvbkQwMGpybWgzNkZDU1ZoTHgydkE2UHZ6d1NKLVA5c0ozdnpPOVhUaEFkS2F0YkdYWUtnNG96d05xUUFVUGZqYmQ3U0pObHk5cndaVEtFb0VtWjRqMnZvV2pLR0k4NmdVODJ1Mld6MXVzVTZwX25MMF9meHptb09Sb1RVUi1keHhjSTJLR3gxUXlGNVh5R05oWUdTOE85NEVMcUtqLWxDOG8xVVpBaVU1OWFNdG80UW9OTVM3SFUza29SM29vLXdOYmRRTUsxSlQ1b2x5ZDhqX1JVcDk2WE4wdzRnOVlLaGxndXFnNVoxZW5xU0NUbTNWUlUtSWlVR09oYVBINFljdWR5VlYtbFA4T25fUGZoNnlpeFJacmc3djNMcVl0SlMwVk1qeHA5aHRyTUtJLUtobDBRWU1KVi1weVdsNHpKT3JrTFkyUEQ2alUyU3RVRnlPXzdXTjJETFAxZnRFOHZ3RVRuaVlwd1pGME04?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Mon, 05 Oct 2026 14:48:00 GMT",
+        "discovered": "2026-10-06T10:48:22.849658+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "بذور الشيا في الماء أم الحليب.. أيهما يعزز الهضم وحرق الدهون؟",
+        "player": "",
+        "content_hash": "91af2765d6f5e509371fd8060b84f2ba36b5d9f6c550349a18fde884423c4dca",
         "sent": 0,
         "section": "middle_east"
       }
