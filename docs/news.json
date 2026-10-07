@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T17:16:05.322266+00:00",
+  "updated": "2026-10-07T17:36:38.569321+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -598,6 +598,22 @@
     ],
     "sports": [
       {
+        "id": 9528,
+        "title": "اتحاد الجولف: انطلاق البطولة العربية للناشئين والشباب ل - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxQQUlGZ1o3WU5jUVNYTF9raDhDTHpsS0Z6RkNQd3M0MTJHUGdUbFZhN0hmS3hWeGVUck1KRmY1ZURXd2otbVlBSllRWGp1QWpja3pCREdpdHJpUHI5LUEyX3BRZ0Jra0ptQ1R6ZFhSZDB0WWRqR0Q1NndCbl94WS1DU216czlseUVsZW1abmxBWGdxeDJKc0NIQml1RE8ySTZNQUluVGF3UmxjWTFNYS1HZ09GXzgweE9FaDZpZmIyMGZ2UUEyVHV0UUZ5X2c5TXgyWHJpOHJjUENsUFpLUS1ibnlGMG9nb2g4VHUtaFJiY2M4RVhwZ3htRTE4cGVuNE1pa3FxVGZfUnVOU3RTNXdxU0dRYURVaXZVWmZ3YmRuUGpkU2hnV2VwUndnNUxLYW12VWNoM0pQWTBwSTNsVFBTN01oSm9iMzFOMVpoUXZrZUZ5NlE1MXp2OEdDZDV6VHJTeEIxVWRMNEhwVlRsVmpPam55NlIxdWlpRl9aWHIxR1VwR0xTU0dLME9ZS19Ramg0M0Jucjd6NTNaSFkyQXFlaWxKYVBheU5lcE03eTViTW1qOGI2eDk4REJzdXJEZnpMbnJLakxMSWlKSURybkFPaWdjUVJLa2xNdkwxUHRBQ25mTk5XUXQwaWdwdmtwV2pMNW5kTnhfeGpuUkI4bE51UmUzM2k3Zmd3Q1FJb2NWSC1WZWIxamRISXVZZnZvNWc0UElOWVhfWW1IYXpTYVZ0WVZOaWpFMjNZNTVQTndPRll3cXc0RTNsWF9oNVo1Qjg1VHVFeUxONzJWbnQyYld0aFBjRnR3empmY1JPV3JiUE40UUhhOW9lMXM1SXM0NFV1cUo4MjBBbnozNnU2eGdKMGp6ckpyUFE?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 17:24:00 GMT",
+        "discovered": "2026-10-07T17:36:22.233918+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "اتحاد الجولف: انطلاق البطولة العربية للناشئين والشباب ل يلاكورة",
+        "player": "",
+        "content_hash": "0a11bea9af5f3fdb2f78e2b59eb324f837a84e7505a1e7fd39e22d63ab0c1818",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9524,
         "title": "ميسي يودع جماهير الأرجنتين والعالم في آخر مبارياته مع المنتخب - BBC",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GYUhOYlFZMmJVaU1FQ2pvSUxjWWU2OXUtMDRnRzRhQWRpNlMzRWlOb1pJLXBwaXhycGZHVGM2bk5vbUZscGVXeGtrUVdtcy1hQXJhMnAxN2JseGQtYmfSAWNBVV95cUxNajNsZUItNWRDWWZrbG91cF9EY25qRldTN2VpRk5GWFpLXzZrQzBuaWFQdTVGQUFidDJteUxaeTZFNXJsbTBIY3V0VXRQdFpPaUVqT2NZdXFiVmNTeHJ1Q0lsY1k?oc=5",
@@ -1158,6 +1174,22 @@
         "section": "sports"
       },
       {
+        "id": 9527,
+        "title": "كأس الرابطة.. بيراميدز 2-0 القناة.. الشوط الثاني - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxOQTRkVU9HWS0tN1JLeTJEZzBlRlVpRlJsV2tuS1dBN2VYanhNajZudHdrUWhlcDY2NVhtQ0JnNzZrN1ZtOG5CTXhHZW5EUzV3SjlTSXpndkF6b3V3WEl6YWNfQjZLNVZvRU9kcy1WNU5UVGg0N3BjeWRtWDUwM2FIUmt6cFlBMWpsNmhCVmRBTDdpTDA1anlRaGROSVhuWlFPV09xd0Z6VUQzUjh0Y0ZVRkNLd3JsYUhpcXUteVZEbExaVW8wVG9BMWxzNFRtYWxSRVhzREZDUHhCTDhSTXg4NW5KcjAxSW0yTG91ZE9EWUFoSEdadE41bWd5N0lwdExsMzl3UWJfbEk2cUtoU09fUGJ4MTRhd1lZYXl0VjZ0UExxVHEzaUs0U0E0UTd3aWhKVmhsUV91VGtoTlVubmhZNkprdHdwLTEzMy1RSFltNWNRRlRoYkdvN2hBdkpOY2tpWXdNS0c2alR6NHFjb0VGSUZrWnF2VDVfbHpvT3VhM1NvRVNla2l0bUw3MUtJUkJZTEZMbNIBmgNBVV95cUxQM2o5aGJQU181anZOaEotRHZjVDVuQVJINXdIQXFIWHpMUjE0OHFxT29lQnUxSHplTDFHdXhjUlEtdm9MNVdSVl9qSFE0X0xtUzEzY0Q2STE0UkNoa2xTd1VnNi1FdmN0SjA5TzdIVXNkNFFuWEw5OENNVWJYLUZIUmhsd2Vrc1ZUa3hlV2xQR1FCY1pxd0pESFlUTmlaVFYwY1BZM0FQMV96d0dpWTJfZ2xTNjF0a08xX2l5cDI5X2p3blAzcnhFR1Z2aG1yUl9heXlwZ0tFLWlQQXZUZ1Z4am9ZcmJjVUFFVnlVYnhQNmV1UWY2eE9ZNFA4UW9hWkk3VUJlSVJtZnNjZk8tRlpOWkFCZ3dnYjh1VjJTNVpNSmU1WldkRXB3VXQ3Zk9tRE5UcG9FeE1scmhXOXJBMGFZNmxPOGdvTFJjemhkb1ZPUjRBb0JVNkFSYmREeDVydnJtOUhUNDlYRV9TWUhOTWx5RkoxbEV3Y0p4bnR5VzFWY1JRWlk2eW5LY0xjSjhtb0NmbFQtZ2xwdXJ0dw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 14:09:00 GMT",
+        "discovered": "2026-10-07T17:36:22.229048+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كأس الرابطة.. بيراميدز 2-0 القناة.. الشوط الثاني يلاكورة",
+        "player": "",
+        "content_hash": "788e39dc40e972e7c7c8245f2f8c67896d1144a97f410195127aee92a50e6829",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9487,
         "title": "كأس الرابطة.. بيراميدز 2-1 القناة.. هدف التقليص - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOZDZGTS1JdEFuWURILUNfcmJZakE1WTlZdmw0NW9CT3I5Nmp5azI3ZHpNakNSTHNER01OVWlHUjZsVWowTENXV0ExclhPS3BuUW1qT3NBSXRONVZPRERhLWxQaE84X3BVQVV6NkNPRGNMWm9za2lSVFh5Qi1WQlE0RHdfQ0VxLS1HaXZ3bnhhX1NxOEdwRmoyS1FXWVdOdFhPWWFsSTlSMzBDWWZPMjNydE1FX0R2bm1pZHhGbFYwYjZvUG9tMmQzUXRLaVRBdXQ4aTZuSFVYa3JqRDk0dzZLTUZLV2UwXzZuaHU3NldWMDdWRGl1TmNjVHdqQmI4bnV4TmFqSm9sUkNic2tGM1hCY1hMTnk0anFTMjRETjVnbDlvU2ZKUWtlWWRZX1VTbUFPZ003eDg5Qmc2ZW1SSlRURW9RMmVnNXRXeDFKSzVwUl9iejVza3JjRG5ER29jRWVGT0pZdHZTOUdJcXFxcUNZQzlEdkFBdlZtSF9nVzl4TXAweGdzcGVoVHFCRHHSAZIDQVVfeXFMUFN3UlV1NTVobGw5bFo1VmhoeE9oY09nT0xHUGxtR0hOME53dHJ5X3ZwUERwbWxiTUVGd1hrbDlBUnA2bF9UdlB0N3pJZFZ2ZFQwU3ZkS3NwUTJzcDg5TlJoMjQ5ZlRxYUM1djBDTWYzaWtxT2JZaVBfanF1MlRvX2NnTlB0UjFLMktsVE1PWFpSTkdmMTBaZTJtRmY3TkhGaFpLVmxyZm1rRThIZ053YkdYUFllUnVxVjZjc29pMHVZbXJVLV9GSjQ3U2dYUU9xS2Z5dEdxYkpMeFFhbGtQNG5DOUtPLVUyUTV1TXl4S1JCX0lvVS1sWGY2N0E1UGVSRkxfaWQyb2w3cjZuY3NDSlhEeTlSV3Q0emU0WjlKc2NrcXN6Z3V1Y2xoLVB4NUk4MWFZMVNiUTJFdFphTU11WVpSWWN4SnEwY1c0SmZ5QWRneHVLZVVIcHluamcwM1NzR2JnbVRnN21vd0QxcEhOQ2NkNG5PdXFrYXVPWkxncGp4dGhaMFpJRFdHMUZYSktDWm1R?oc=5",
@@ -1202,6 +1234,22 @@
         "summary": "كأس الرابطة.. بيراميدز 1-0 القناة.. هدف مبكر يلاكورة",
         "player": "",
         "content_hash": "0561b28cfdb24e443c9a7ccb706146ee3712dece82cd4e7a8eb0b45c1f6b53ba",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9529,
+        "title": "أخبار | مباشر كأس عاصمة مصر - بترول أسيوط ضد الأهلي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQa211bkJRcjgxSWxhXzNYYk85blJxQVFLV3paTWk2OThtWmZCZTAzS0N1MGZFeEpHbHV5d3lneUFQOTZKTUk0Y09TU1ljWlNWY3N6UUxYOENiU3I4QUpBejRrMHR0MkZMdXJ3Y056ajZqeEY5YnVYS2x4eHBPYWRGcGN0WktBVXhURzdtS2xuTC1sX2Rfd2NMOFNNUThkQXREd3B4aU1JVEI0WU5ELXhBTlBoX0d3cGN3TERrdmtLUjFKX0V5SmxfTzRmMVZVdlJHT2YxWERMUVpRdVZWWTBLSFdEYVh2N0NlMDJfZ0RGSUx3dWVNdEkxVjNHYnNwbHVXbk1yTXNiamVfT243eUlEZ09UQWg5R0FNY1M3SWFhQ2tFRXAzenFvQkFiSjdaaGF1cVhoTlZ6SWtfdGxWVVdQS2xBMHJlLXltMU50bHdpbDVLSTY3OGJNYWlVOGVhMFpRWGEtTEdncW01WGc?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 13:47:00 GMT",
+        "discovered": "2026-10-07T17:36:22.829592+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار | مباشر كأس عاصمة مصر - بترول أسيوط ضد الأهلي FilGoal",
+        "player": "",
+        "content_hash": "b7db20e36ee13372aaa9aaefed29cbcc27adc0d5099fc46c1191efbaa8253242",
         "sent": 0,
         "section": "sports"
       },
@@ -1302,6 +1350,22 @@
         "section": "sports"
       },
       {
+        "id": 9530,
+        "title": "كأس أمم أفريقيا 2025: مباراة أخيرة بين المغرب والسنغال أمام محكمة التحكيم الرياضي - France 24",
+        "url": "https://news.google.com/rss/articles/CBMijAVBVV95cUxQNzBIc3c2bV9UMkFGeTl6MzJ6cmZQSUFwY0JLaWNmUnQzRmRXUm9rNkEwOTdCamctaTFvTjZJMVZCbDhOUGNYYXhrVjJjRHpOZWt6SExnQmI1R3Z3Z1hnUjlkbXhFNFhDMGo4VFVqNzhBdi1tZXpXSHpfNXF0QnNhRWE3M1VqUzFwWDJ0WFVoeEpnTU1udkpwYzdmQllHSmdBQWZON1p3YzVHVzZSRWh5enJPeDlNTEhVTDJveVF5QmJZbG1lUzlRWnlKcFhTczRaTFdmQmNQd1VacjR5X2MxNF9ZenVvU24tSjRraVBjWlprWGNUNVVubVJZOExXMUg0QWFJUWhKUU5paHhoN191dzRRS3FkbE1pM1NORUJ2SW84SlY4VWhfQ2FiSFJCQ2tDbFJQWDF4eDFwUzZRLVNWMzNXNDRVQ1Q0MmJSVWJzaWN0TXd3T2UxSmIwSmdkUDZIMmVGRFZhZi0tMHVmeW44bmtKR1dhRWRPX0hCSE1HVEdlYnQ5ODI4WFowY2hqck9QWnZSdjhTMGJFbFc4NV9ibkRhQXpYanJLV2E2Wm9OY2otTEpZUFdIQm9SRDFlRkhYR1U5M0FjZVJDNnNKenAyNE9rUjduQURSUzVjQ2czVVZLSnJOaFlJek1BWkpDS0tQUl9sNHk2cTdOVklBRnI5bG9EWHlqMk5ieU5KMmpLWk5OMHdfTE0zblJQYXdlaVBpX2hTZWhpNXlfdS0wUUJ2MEN4Z3k5LUN5QW5JS0pOOGx6ckhVSi1hLTdtYU5SWjN6WDQwR1N5RGVOU3B2cmVwVTBPeXlMQnhWQ2hwbzZQb3RpVEhPSWcyNTZfU0NqZXg0Umg3QXMybzdFb3o5?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Wed, 07 Oct 2026 12:59:15 GMT",
+        "discovered": "2026-10-07T17:36:33.757907+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كأس أمم أفريقيا 2025: مباراة أخيرة بين المغرب والسنغال أمام محكمة التحكيم الرياضي France 24",
+        "player": "رياض",
+        "content_hash": "c760dcfe6130a5421596d6e9e550fe3e75f495e40044df6d91e1228ad92169c4",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9441,
         "title": "«نستله» تراهن على شعبية الدوري الأميركي لكرة السلة لاستقطاب الأجيال الشابة - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMioAVBVV95cUxPei1SR3Q5ZFFHbWhxMy14YXNXaWtUZlpuV0ZfZUxfMWJocHFTMDlrSm9pSU5TLWhHbVhhX004MDgyTWxLanI1SlB4SjlkbnNwWDhJZnRkSzJuU3RLTWF2MlpSMU5Sek9GY0NsVUV0T01wbWtGREpyVHluaU1RSUo3aVlVY0FlYkpUZ0twbUt3Rm43SDZ6Rjg0OEtVX20tUE1yTWlITzB4ZVlNVGFwSHg1MTAyVm85QzB1Rzd3XzYxSTB0cUhPeEhNR2JZVGZqOE9CaWt1Q0Jna210R2QtNVZzUkZxSHRkQUhBWTgtQVc5NWI2T2R1TWM0OHB2VGhWWEYxSWdKb3BNQ0ZweTNacFRQbjJHamxRRnVHY0FwYVgtYVY0ZEY5Y3hVRU5xQ2hTMFJtbVRBVHF5MlQwYWVJTDRmdmJnM0JrWE1YRFB4M3hQSjdCS3UwR25IbEFfdFp1cWFuam5VU0ZFS0ZmZ3NlSFAzMGJLbVNab09DWllVMUd1R1B5ZEJCWGN3aFlVZE5mVW1URDZFZDNuNThlNGtTaTIyNTg2NzdjN0xwemdNMDNPYXFKV2EyN0NBeFlCNUczNGVQSkNobGdyblJkaGoxckV5SF93VVBmMGdwVU9Va0EtaW5oZG5NblZkUEYzRlhndUNxanFTUlBSYjhnMExzZVYwVTJJS0ZFZktBN2lkT3JvQ0IwOC1SdDM0LURWWFFxUVVOdFBwaGQxUnUzYVA0UjloUVp6TnBIaVlCVVRVdTNoTG83aV9KeGE5dUV1RmZsTUJmWm5aYUpIZEJVdkdfaUEwa0xsNEFUNDM1MTJmbkdJd1d0YU5hOENtajRQNGZ5SXhYOG1MVEZTWlAzcWltNWlCNVlSOFVMUkZ5VWE0VUtTNlM?oc=5",
@@ -1330,70 +1394,6 @@
         "summary": "حدادا على نصر إبراهيم.. الزمالك يقرر تعليق النشاط داخل قطاعات كرة القدم FilGoal",
         "player": "",
         "content_hash": "3acd8a0e3fd1512fb7f3a07242d17d9ee25ed505f534f21d037c85b77d243251",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9428,
-        "title": "الهند تراهن على أولمبياد 2036 لبناء قوة رياضية عالمية - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxOb0xmbEU3a3R2WmVBaDQzcmdocmhEZ2x6Snd6a1M5QUFpVlpyLVNURGhSc2w4Q3ZqUm1jVUdnR1BPTVpDekkzUVlUTm9rRFRDMGF0WnIxMTk5dU1tVzBwbk9qanhVR056QjgzR0lRTU05ZDduazhuSzdKbHRsdWgwMHFudkJaUW8tVEVqdHRvenpiQzBaSU9QcFBSc3ZwU25GTnIzaXd4VVd1Sl9uQXVvQTdtYXM5UTZGQTVpTGc2dGl5ZnE5RTNYMXZoY0ppMkFNM2I0QmhjNk4tbGhHclVBVVR1ZFV1STNpVnZvR3k2Tm9SMXEyc29lM1NoMzZ5TlAyYWhuYWlOdVJSekoydVhBc0NaanJ3TmNuVWt2NlB6SDB1TVA1c2hYOERPTmlFQ1ZjR1J5YlItMjBfenFSYzM1dTl5UzJmQ3NnMVFZWkFYcklXWFF1NVRraDdGNVU2UEI3bi0ya3RORk9zWExqTjUwSWU3dnFfcHd6bC1VUTJzNFcyM3c3N29NWkpIcnRGb19faFNlMWxWT3JWTzRwZmlWa3hmeGp4ZGstYk1Kc0kyMjlmRm1scW5ldVA0U1RRMlRVZ3ByVjdVVjN5bXlwMkdFSXN3bW9nRW5oYWszdmw0ZERhU25FZkZTRm1qbDR3eThlbWs0bnhYaG9oMHBaMVJXcXNsMTJ6R0RUdU56VFYya3hoQlEzR3J5YkQ0bEZoTGpNLXBFZksybTZFa1dR?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 11:53:05 GMT",
-        "discovered": "2026-10-07T12:09:12.853566+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الهند تراهن على أولمبياد 2036 لبناء قوة رياضية عالمية الشرق الأوسط",
-        "player": "رياض",
-        "content_hash": "3a94b03994a270905f22f770dca1f994416e2af77fb7e68be36a38db7a158c9e",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9442,
-        "title": "دورة بكين: شفيونتيك تعادل سيرينا في طريقها إلى ربع النهائي وخروج غوف - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiowVBVV95cUxQeW9PZUgtVGpqSU5EUlhGT0xseFdoN0M0alhDRWlSbXR6amhHOTI2R2U3SVlfMVE3OG4xUEp5WDRid0RpNF9ZMjVnX2xVaVFMaXJGZndkOElPblVSRE5FdFp2c2lsRjQ4eVlETXROc3ZsMF9mSEg5c0tZcW5ydU8zNlJubWRyQlpiYUFvSlEyWGtHT2ZxY0FEMjZzQ1FGU1hqNmFXSWpnMlNEYU9qc09IX0xvWVBwU3pBRFpBakhHMmdDTER0emsxT0F5NDAxZ3ZmSVAxa1dJTG5VSXphaE5jYzhtZVFxU3k5TWRnZHB4QmJIa291Zm84WUJNTDVNa1RCUzk4MmZ5S0tVWjdua2t5aGZfa1hQNk1PX0cxekxLSUU2bUJiWl9ELWNGdDU2NURwWTJVb2hZcVBwWlh5RkR3VjZIZkVobjFjbExKYXZuRGtKSWpFMmdhcjlSRGhIUWI2WjVWbGR4UHdxTTJuVl82NnJZa1VTSnFQUkJnUFh3WG12S1ZpenBlRkVXajFlOTRfNUI3UHZWYzJvLWdTNFBMWGJOYzI1RDJpTkNnUXo4M3otaHRPMjc0N18zTTJheTRHY0tTeWVHODIzejk4c0tDM2tkQWlEeE5pXy1aQUE4WmFKZjRNaWQ0MldRYk45TGlOSHlFWmVUUnZOelhpN1RBYkNpXzNhRTNWTUx5a0h4WG5BZVM3NW5Hd19iUFlEVVBrMEpwamFsRUstS3JJZEN5dHpzanIxWnNzX0M1Q3dsandxVXc2Q21KTVBjQm5LalVnS05BMndyU2F2RXVWTnNjYU80RlRQbVBYLTBoSWZuSGFDOE55c1VFbENBWDNwVk1nM2loMjRVY0FLTjlvWFhoOEY5Z2o0OWJPZUx6TnVZYzhobmM?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 11:45:05 GMT",
-        "discovered": "2026-10-07T13:20:55.691508+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "دورة بكين: شفيونتيك تعادل سيرينا في طريقها إلى ربع النهائي وخروج غوف الشرق الأوسط",
-        "player": "",
-        "content_hash": "b896e61e6a4684124e0a0db6a7331c612c695c1d765b7541f5d77b834e77fe44",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9426,
-        "title": "حارس نيوكاسل على رادار بايرن ميونخ - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNQ1k5ZFJGUFJ0VmVjU1B1ZzdVOXhHYnFzejd0OG1LSVhocnphcWJNVTFBVjdDZDdvRkhxa3AyX0p5VS1QclNDb2tlNGFOQ3dYSDVsd0ZCMlUwOFUzQVJ2Y29Ed1Z4SS1QTlFncHEtMHIyanRfZ0tjY2hPRk1WSUFpYUhnNkVaNkkzSWdkbGtFaUEzcHltQTlyclYzQXE0MVI1a3BDR0JKVTI3dzJJZEpnREVJLUd2ZE5kZkNOeWdDSXBGQTEtQkhya2tsOEdhczJybHdPVmFmUkdWVlZrV01ZVHdQQmNrWEZRaTd3T1RsX251UU9uc2xicWF3Nm9WZkpJaGNDb2Y4Zlo5Qk1XMkFVUXBQYkNQRjNQSm9zWk9hclkxMGNiYnJmMVZOZ0U2b1FseWtlbVpfZG5CN19tNnA5THlUTm52TlpTT2xOdG8zVElYbHfSAdgCQVVfeXFMUEZyTWZDWEdYMk8xRG82bUhoNk1ldEVuQk83N3JKZXpwWGxPTzNkM0dRXzRyRFMycF9nUWhENV9wNmducG8yOTdFTk81Y2ZQaEM4YmZHNXR2OUNsRVo5ZkRGX0V2a0Y2OGJ0YlJ2Ry03WmZ2TUNJeVNwekEzRWkyZzNBVFl2TWh1QWU2R0dHTTFhcnc3c2txSC1VbzNhZEtKbnR0VE4xd2pKaEVOTlRXeTF3UUM1UXBxLWd5eUVhSDEwZGEtQ1N6WHlRbDdGbTNkVGJBUmNzNFFONGlfYTMtbmxESzFrREZIeU40XzFtdGxYa2swaW9QTFEzU3gxY3Z3NXl0d0phMUFsTExGaDdneVg2TUhrTDlhSmNQSWM1SV8tN2JXSEpCMmtZRzlUSnFKbncwWldvbVo1NWdmanRhbG1wUUo4RTRDUUVwSXdvZlpsMy1SSmV6YUw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 11:42:00 GMT",
-        "discovered": "2026-10-07T11:54:23.992188+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "حارس نيوكاسل على رادار بايرن ميونخ يلاكورة",
-        "player": "",
-        "content_hash": "e60850bb07cdd655681a04705f6fa5ba270b36e8f02b52150a2bd9899428bcfd",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9425,
-        "title": "\"أيها الفضائي\".. رسائل مؤثرة من نجوم كرة القدم في وداع ميسي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxPS2lrYUtMZjRkWHdGdGQ5VUZib2pvV0xuWGUzb2wtV2xYWGJFN2FmZ20wTHFScndDUHBsS3FNQmVTS09URXZ6SDctcDNaRmxFOHlDLThSTF9XS0I4cF9uTFhuSGlJU1lXdXFzeHhoVkZ6QnZ3VzBWbG02dHdJVGtUMmVNSm9lcFlxcmlvMHVtUEk1eWdzZGMwWHV0d3N4OEN5VG5uNjZHSTdRN2xaMUJNMnlCeExoSlNBSjlHOEFuTXlIQl9ad1hteWhBZU9nNEF1Umx5b0t5eHctTmplRmlQdU1rX29CWUdZeU81UWZtS2NfcjZSeC1aT3A0VXd5bG5xenQwNXBhVUtqaGJNOUdjVEE1MVpQcTZXV2hLV1U0Zm4tdS1DcFlkSTllVzA3Q3hzc2RLTFFZXzBJOEFrbU9udVVqWlZMMFVaVE44alp0ZFJRYzVWLWdZclFaa3lCZDNaMEk1cVFHa05KXzdTOEVJZ2VTYmMwejUtQlU0N09qRkJ0emo0Y3MzdGlqNGR1b2dTdTNvTWJ6X19EUzVmaVN1bkk3bGNuV241MllMY1BDb1EyR1Z1dVZUMVE4MnJZSnNZM3dqUjBTenFmM0RxWFZWNUZuZDQ0akZWS0dpYnd6MEFMaGFRODFiaWhOQkR1d9IB8wNBVV95cUxQYzJtek1mX1BWZzdtQ3ItTl9KRWY2VzM0bGpsdjg5Q2dZdTkySXd2blB3SnVWbjdrNnE2MEg1YVFDendFbWFUTWxJYjIxSERKLXpVUmg3dVB4X2Y1OHM5N2FKZVIySGtDd0ozYXlabnROTGdsNE4yeGRFdzdGRHZiSTNjNi1kVjV0ZlBUWVI0cTFESUgxeDFwSEdWb09SdFpRLUEweUktaVdKYkZ5MnpnQWhWVzRCNUpWY0RDX2JnbEJaLTlmSkJNa2pfZG9lZTZ2QlFBRkFjVjRTSHIwUEkteTVob0J6S3hvZUZUOEhnbXU0SDUyN0NhY2xNZ1UwNWgzWjVkTlh4SFFwUlZHZ09OZmN3T3U5SFRPaG92X0JvQTY4QVhTRDNERUxLNHdXWXdrQkNZc01EeWUwWV9QVFJGOW5IR1F4QjNyNFRpYnlRMmZsUzN2ZXVaRXRPeUI1NldoVUtyeXBGNkxzZnpjVTIzNmVnYWMxbFpNaVB2Zkl0OUhjRGVsM1NYcXJWVUtmN1ZUMkp1WjJtRkJDTFE1TlRjWTBXZVBYT1dJVjVaaXRjT185OFQ0U3pYUEh2Y1B0QmJZMThRZEJqUWhXWHFsQjQ3X0dlSlN0VXZqck9HLWE4S2VVLTg0c1k4WE5jY1k4MTR5QV9V?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 11:37:00 GMT",
-        "discovered": "2026-10-07T11:54:23.988258+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "\"أيها الفضائي\".. رسائل مؤثرة من نجوم كرة القدم في وداع ميسي يلاكورة",
-        "player": "",
-        "content_hash": "d8ad8441ac1aee536170b6072ece2a9e796216ced606cf1160ef0a93dc31d4ba",
         "sent": 0,
         "section": "sports"
       }
@@ -2232,6 +2232,22 @@
         "content_hash": "072c031524bf072e13419fa7d9f73a7f6497ef4014d48a6930d1cc0ad438f9ad",
         "sent": 0,
         "section": "middle_east"
+      },
+      {
+        "id": 9045,
+        "title": "بذور الشيا في الماء أم الحليب.. أيهما يعزز الهضم وحرق الدهون؟ - العربية",
+        "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxPRlJGZjVFMmYyTFBaMTJ5cFQ0alpWYXhSSXFEaERfdFAwdEt5UDZmemtYYlJRUjJTdWMzdlhhUUMxenQ3NVdoVGFya3ltbXZxdHRNN3NmUEVLc2t2WmVDTmdfNG1TampyU0FTNHRvRDhNdFpvUW1rWXZsNDg1SWpuWWh6em5IY19iVnhXc0Y4b3k0QjBWaDZVTXE2V3QwQmtpcVFGVTdLT2gzNzdieTNtWGk4ZjFDdDFqc0dZcHRxVHJTRG5zaFFIOW5qY0hTazE4LTNnZTE0T2tfWTV0NVhqOXZCMHc2N2F4ZnlUTTV0UFUyamtnMzRMWllBLWJyNC04MEhNQW1wSVdibkhETEJGeWtWUkNtUXFSYVg2LWstMHNBbVBGTV9BMTFWVG1ublZGanp2NnIwcVgtZmFYcWZWUGxLd191Tk9LUUtkQV9UNHpycDBMZFhJVDVMWmJ3RDVKRzB0cm94RkVwNnNhdEJZNmRSWDhrWl82cmZhemdGWExWQ3JBaUhWYXVGa0xGbWg0VjNKYU9nOXA0QmpZVTN0UEtpWVNUSHI3WmZkbXhJVnM2M1ozRnZ6bnBzQlFzTW40bkE1X2xKZldEanVJczZGa0lSMG42VnpSX1kyR2dSVlp0R1FOb29qRTZWc2FUNVNZSnJ4OFU3TdIB_ANBVV95cUxNU0ZUcGlnMklDS05sV1QzRElQZEJSdU1iREFuUmdHYV9yUVVBYUlnRE5zdFBoVURPOEkyMjFIMUpNOUlkQTNfbnJJM2tzUXNENVBVaWg0NEJDTjU3WXVGV29ZT2NCNS1yVXVEQmdhTmZnQkJXSkdENmc3OWg5aHNGZGZRN0tTMXR4Z1A0NzEtV2ZvbkQwMGpybWgzNkZDU1ZoTHgydkE2UHZ6d1NKLVA5c0ozdnpPOVhUaEFkS2F0YkdYWUtnNG96d05xUUFVUGZqYmQ3U0pObHk5cndaVEtFb0VtWjRqMnZvV2pLR0k4NmdVODJ1Mld6MXVzVTZwX25MMF9meHptb09Sb1RVUi1keHhjSTJLR3gxUXlGNVh5R05oWUdTOE85NEVMcUtqLWxDOG8xVVpBaVU1OWFNdG80UW9OTVM3SFUza29SM29vLXdOYmRRTUsxSlQ1b2x5ZDhqX1JVcDk2WE4wdzRnOVlLaGxndXFnNVoxZW5xU0NUbTNWUlUtSWlVR09oYVBINFljdWR5VlYtbFA4T25fUGZoNnlpeFJacmc3djNMcVl0SlMwVk1qeHA5aHRyTUtJLUtobDBRWU1KVi1weVdsNHpKT3JrTFkyUEQ2alUyU3RVRnlPXzdXTjJETFAxZnRFOHZ3RVRuaVlwd1pGME04?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Mon, 05 Oct 2026 14:48:00 GMT",
+        "discovered": "2026-10-06T10:48:22.849658+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "بذور الشيا في الماء أم الحليب.. أيهما يعزز الهضم وحرق الدهون؟",
+        "player": "",
+        "content_hash": "91af2765d6f5e509371fd8060b84f2ba36b5d9f6c550349a18fde884423c4dca",
+        "sent": 0,
+        "section": "middle_east"
       }
     ],
     "world_arabic": [
@@ -2376,22 +2392,6 @@
         "summary": "مؤشرات \"وول ستريت\" تتجاهل أخطار الفائدة والنفط والانتخابات اندبندنت عربية",
         "player": "",
         "content_hash": "c5c5ca5f8f936d0c65808552691690b725e4b060651ab73c4c520f5e959fc927",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 9027,
-        "title": "الحركة الطلابية في فرنسا تدخل على خط حملة الانتخابات الرئاسية - France 24",
-        "url": "https://news.google.com/rss/articles/CBMiowRBVV95cUxPYWVyeVVpemV4NkVraGFBTHY1UGJNLXcySFVfbVBsdk43bVBBNmZISTJmbEN3RVRYbm96TC1YRk1hSlBBNWluWHNEVDk0TGt6ckhuN2FoX3N1alJicHg5TnZOaXdpXzRVd05jdFlFeGNtcEFrUVVNS3BaQU5zcEJYampRV011X2lPeS1qNzg3Q015cVF2eFVjc2d1NGVrMFNoSHpCWVI1dm5FLWNiQW93RWo0UkY2cHVMYUIzekR4WkJKZVRaZUNMT0dfOERpY0RLU3lKWVlXa29nWGhjdEl1Zk5NanI1UWpNUVdsNGNxUjFaWklwc09ISTBiOWlYWHQtN1BPRkp3VGFmSHlVcnhuWGxiSmVEaFlEN3RkdTc2V0NmeVNBS011RzVGTkF1bTRXOWhiUm5JUEVXbE9pOFJwbEUxQ3h0Ynk1WXNPY3lCMnRvMXNLa0Rkbzh1N2RUN0hqQkRSaGlEcU1IQmgzcGNwN21pelNuejcyR2lyNW93ZTNDRGRrNjVZWjd0RDM0WDdDUWw2dnVnSmNYUnZjcEN1X2ltdHRZMWh6a05QQ2Y3WWJ0c2o4bm9zOGs4eXVRSkdlRXFmSjM1WGdmQzFHZnQyNDE2eURGYkY3VXBuZ1hxRGszTU9aT0xzc2toRVpuSUJ4MzNkLVhCUUljWFNuVG9UUDQ5WnJjbWhYejR5WlRPZDRoVjZIalpOcEExUTh5V2oyMEVz?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Tue, 06 Oct 2026 07:36:11 GMT",
-        "discovered": "2026-10-06T09:23:48.170324+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "الحركة الطلابية في فرنسا تدخل على خط حملة الانتخابات الرئاسية France 24",
-        "player": "",
-        "content_hash": "9a8e75e51e934162a14e00bccdcafc23464547282d399185219a5747b7abd341",
         "sent": 0,
         "section": "world_arabic"
       },
