@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-07T15:34:55.537751+00:00",
+  "updated": "2026-10-07T15:57:00.235027+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 9490,
+        "title": "الخطوط الملكية المغربية توفر \"Starlink\" على متن طائراتها - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OQVB6VjFDSkd0Qmd3NG1JSjRsZXpoa25xeC03dENqWGU1dmVJTUNrNXNGMkpRU0g2RzZyMTZnRXBZbG5JQTlQdA?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 15:33:20 GMT",
+        "discovered": "2026-10-07T15:56:33.564291+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الخطوط الملكية المغربية توفر \"Starlink\" على متن طائراتها Febrayer",
+        "player": "",
+        "content_hash": "3a8cb1392ffd3fc47f9b9d4caf2c685439dbde459a0de30cdbdfdaed2974eeed",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 9452,
         "title": "«إف-16 بلوك 72» المغربية تنجح في أول اختبار جوي تمهيداً للتسليم - Febrayer",
@@ -533,6 +549,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 9493,
+        "title": "كأس الرابطة.. بيراميدز 3-2 القناة.. هدف التقليص - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQQ3hwb0xzdk5XZGhpeElXTkRwTThuUGEzbS1zQkpFd2xyYzdvQzR4ODBsTW9GTUU0Z1hTZ1ZZSHRGZE55bjJKaWlmYktkTkZCWWVnUEtkOHR6alFyY2lvUDdJOWp1OV94VVh4NUhmNjNIZ21tM1ktNWh2NUdmd0FVME9aWXR4clZGNlBvdGRTMTNacWxER1hFRzFYYlJ4SmxQdG1heHg5cUZVRVJXd2dlbTA0aHY0dDVtNmlQb1NPOVItRjdNSXFqekYtU0VVMXhjcWRFQ1FLeTBkdjZOTDlTTkVCY0o3OWJvQlp6ODZWMDdHNFJMcjI3WFJlWERSc1RhLS1LVEZvQ0lNX2w3NkRLejBOWVlSQTBxYUVjejBkbi1TTjBySklGSXlOdVYzbkp1TnZrRmZsVzZTLW1uOWQ5SHJ4Rk9ubHhBYWdkWEhMOVNkMG5KRjlYMkl0cEIwR3RGNVNUTWxYZ2o3ZWU2dFo4b1lnNVlsZkZZb2RKNmg4Ulh5Yjd3ZDlRVDFZaXHSAZIDQVVfeXFMUEJtZDZzd1pMT0FGdzVBbnQyMFVGcnlwbGRqbFBzb2JqZ2hWbWwwNTJoaDhaSTRDaDRmemh0M2wzc25BY2h0ekkwRk82UjVfZnV3QXJpLURtSkFHOWhXOEJ4UWY3U1k0ejlmMVRnbUlmWUtTSkVFTmVkcFMzTzExa2RIRXB1ZmpkOWRuZlZPQUlPZDJuVnhkdTJFb19STjY2OUpCcW1lNjZKZE1HdzhQRFM3TU9KeXp4RTd0NjhKOEo1bnJjc0oyM1N1SnFySlROMkZHNzZFWGk2a3gySFIyRzVKWmNvVHE1VVhRUFEtVFZBeVMxTFlrZHoyd2hyc0pmcmxrZ2FIZFRIMlB2NUVLaWl4dVRsQWNJbk9LR3BMVGJQaTJQVGw3Y0tmYmJqVGNEZVBzaFdWNlVDcTBJWDE4N192OGdvcG0za2hQb2hXYmNod0k4QlR3Wi1ubkxNTGJGX25QTl8yZThXXy0wczlzOEhjTFhmV3AyWG0tczdPTll1Qng4aVBQMC1QNHUybkhLOFVn?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 15:46:38 GMT",
+        "discovered": "2026-10-07T15:56:41.810776+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كأس الرابطة.. بيراميدز 3-2 القناة.. هدف التقليص يلاكورة",
+        "player": "",
+        "content_hash": "3bcefbb2e1b8eec0316b91108c090002f4b6ce180a632a0832812078a6750bd3",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9494,
+        "title": "الاتحاد الإنجليزي يعلن عقوبة مدرب ساوثامبتون بعد اتهامه بالتجسس - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMilARBVV95cUxNREtPY2w3R0MzVHdVMFQxWDZPclNyVmROWFZXRzJwd3VkSmlmaUZYWGc1S21qWXRrNXp5bWVyOWdoV0NlSkFpNW9KNzIxaGJOS1dfcVJ3X2JidmpMdV8wY1NCdUYxRWloWWxzTUhiejZBdU5QLUxHanVjVlJGUnFkMUNZd193a182eGpJSzdpcEtiSzlmOWw0bUJiUVA0ZG9xcWJka0pOVDdhVWpya2ZjTlUtWWlKTFRIRTd6aWsyOG13NmZ6YzF5cGVrQzgtb25SUFFoSVNuYWdibklxckNHRmszSVF1ZjhYcGVYR0dRWFBBRGxuRlJpNlBNR3diRDBOdEQyMVNva0RuSkZraENPRWVpZmIyNFptVmppb25QVnhJUzdSWHNmOC16U3EtWWk5X3lDbUNMeC1ONGxtYUdSSE8zWDAzdkhvQ0U5VzkwX3htcl9XRGI1M3JyN1U1VVBCUERlZzBDdmxNMkx6UEllUDQ0dG5hLVNtMno4bmdrS3kyWEJqb3lnRDhBaW5KNlBJeEJkMEhYdjB5VHpaVzhxRExmRF81OUpLcmx6MmVhdzNCZWY0VlJQcmFsQ3Rub2tBR2xRb3g1WGtuODVvdHNXeHotUm5sVnJhZ1ZpWDYyUi1sNEhySHpldU0tS1FZeENyNlcwak9XbDA4c1FtbUJDaW5OR1htbFVtWmVfeEttbnBXVTlG0gGaBEFVX3lxTE9UM1BrQ0tYT19wakItaDdMSF9jWXFvN0tQWUR1dlhyZGJBZ0taUTZMdmZ4aENJSVdncFYzYmo4ZllCNVBtWGo2UjFrX3BsaDVkY056THhKai04djd4YWh3S09CYnQzaXhrMDlIR1ZnOS1EelBEOWlqV0YtQUNlQUpsQkdSQzFFU2FzdkprY2lkeFlKSDlSZnhDZEdEMUdKbi1aWm1mMnZxV1F1WWpqYzFuMzUxS2p1SFNHaWtCeUQ1aUlidDc3ZGdrNmdqR3F6cTVLTDdlRUEwcFdocldQa2RrbWk4WlBfZ2dfVmhGdW1BalBTQXpELTZ4ZXQ0NTNMSjBZT2FMdzI0ZG54ZkZwOHBJZXVPVDhyY3Y5cERDSXdOdmpCdTA1VVBEX2tod2l5ejUtT2NwRHBQWWVPa19FQTRHRmM3TUh6Skd5bjFQU0t5bGlzSS1iV1pBdUMwSEJRUTFycUozdHhrQVBJSDVHUWV1M2RpMGFnNVZFRFJZdEZTdFpfdHN5NEFlZlN0NXU1YjV3VkF1MG5IdFA5U1dCRHlfdDdJNGFyS2RSN1p1V2dyeFJZdGxtV1Z2LWh4NHNINXpwVno1VXRjUTZtT2dkQTBsLVNsS0hFODRqSVFtNGs2SVZscmtxc1prQW1DemNmOFRmQ2paTHZpS3k2VTM4ZFA1bWdBNzNzdDVCbFhkOHlBS3NubnlIMGpqTUE?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 15:39:00 GMT",
+        "discovered": "2026-10-07T15:56:42.565602+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الاتحاد الإنجليزي يعلن عقوبة مدرب ساوثامبتون بعد اتهامه بالتجسس FilGoal",
+        "player": "",
+        "content_hash": "26d7bc1479b1d7c3bdfaf25b5e73c6a420b23680eb030b245d2c790ae50ff685",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9483,
         "title": "هدف الأهلي الثاني أمام بترول أسيوط (سفيان بنجديدة) - يلاكورة",
@@ -1254,6 +1302,22 @@
         "section": "sports"
       },
       {
+        "id": 9496,
+        "title": "مباريات اليوم 7 أكتوبر 2026.. الأهلي والزمالك وبيراميدز في كأس عاصمة مصر - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YRnVsbmdLY3F0VFhLQ3RXdXRubUhvVDR6UVZqNFUyZXhHR2ZsMTJLYlFZZjV5ZHlmbWxTR1dJWEhiV2FKV0k4U0FPRXJlaGZk0gGcBEFVX3lxTE9BRU55Tmp2UXNqdmx5VmhRY0lYdURabUtGeno0SHJlY3dZcGcxVFFPemVjQ0RpM0NCM2JBNHI2M0djc1hYSVdzbm1PS2o4MWdPYUdRV0I2d05SMlZWc0pMd04yTjFBeXdoc0xYRUFqbXJCX2djVGVyUU1mdXdCYmZDQ1A0ZWhDcWVfRGZrczVUdjlvMzRFakJGVDNRUnpHTmpYYnZXNG1sbkNXRkZGZV82NDl0eFh5cFNvQW1KZGFEWGxuLXU2dXlpVUpWSHI4eWw5cmZhcERHdk1uRy1DaFJUREFXN0x0Ymt2dUdZZTU5TlNkVGhVX0VkRHV5MXd3cGlzalU0U3Izd0ZnRmd6MDdrSkJlYjM2bVdoTG5RSWhJX1NpN3dNSDFTWGIxRHk1VUlhcDBhclJIcjZRQTRucndQdFRPekhlcXRNWHNtRFhYamtCYWxQY0JaUEY1YmtBQThOQTlrYV9xRjFiTEpZNjRjMmFVdFFtNnBOOTNteVRrVmliTzU5MC1vYVFXMURONi12WXBpdkVQV0IxZHVZQ3RVenducUQyY0t1bFQ3ZVlwRkMtd19PLTBMTFA4NFd4aWlXSXR0dk9Td1I5N0szUlY5R2FPaFBpYW1LRHZtMlZseGZObXZmcFRWZUtuOFJiVy10T2lvQUE3WFdOdmJyZWVzeURfeTNXZGgtZHRUY2I3MHdqdXBUd2doLXZlbQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 08:39:00 GMT",
+        "discovered": "2026-10-07T15:56:42.578562+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباريات اليوم 7 أكتوبر 2026.. الأهلي والزمالك وبيراميدز في كأس عاصمة مصر FilGoal",
+        "player": "",
+        "content_hash": "29f20bc1f3a8f74da0c4a19d1d4cd64311af1348c9baa0944097d185e9fa199a",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9396,
         "title": "مباريات اليوم 7 أكتوبر 2026.. الأهلي والزمالك وبيراميدز في كأس عاصمة مصر - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxOZkptdENPbFMxYjdVVUlLX3ZIQ093ZklLb1BCN3pmOXZfdndGbUpNTTZjU1N2QWgyb2JMT3g1WGVPOWFGaXJCc08yelY4RWhCMWtzcTZEcXktQUhJeThWT2dNbE40WlVhcWIxUDVIdWFxQ1EweFVXZDVVOXdJR1BSSHBjbDVreTNpOFJPaHdDeEhGRlpEZC14TUlTTkc1NG11aTdYMHVwWTBMWC1YUVZ0em1wUjVrRnF1bWlNTkc3RGRseWluZnNDZm9uQWtrR3N6RDNKUGRTcHFpSFdoZjFmNVBJWVU5UkxmNF83U204dXdWUzlnR3hJS3V0cTNNeE1RZmFkcTNGQnlveDVWdXV6WnhYeWgxa2E3VXZxWXBFeU1TcEV0RFJ6dXplaVBRSVBRN1lBYkFFTzVyOHVMZjdHV3BUSnBYTV9tV1BwZHVGNzg5SXFxZm42d0Z5TlBjLS1GVE5xQUNXNlFiYzJJbzJrVFBPdS1CTktMYmVWNW5XeGlrOXlpRmpqekN0aTdIMW9mOUlQdE9OYl9RTXF1aDhJSllCSEJGQVBaUHQ4YlB6Qkg5ekp5WXhwZjk4VlA5Yzc2cDdKUFlmR0FsbUE2WHg5WC1QZUIwUkMzZkdQa25kT1lDV2VkMnR0NXhWeFBqbUVpaUpoNHhLWnVUM3JWRUJtODBjb1NLNml3eXFtdmZCOG5DMDUwTzFr0gGcBEFVX3lxTE9BRU55Tmp2UXNqdmx5VmhRY0lYdURabUtGeno0SHJlY3dZcGcxVFFPemVjQ0RpM0NCM2JBNHI2M0djc1hYSVdzbm1PS2o4MWdPYUdRV0I2d05SMlZWc0pMd04yTjFBeXdoc0xYRUFqbXJCX2djVGVyUU1mdXdCYmZDQ1A0ZWhDcWVfRGZrczVUdjlvMzRFakJGVDNRUnpHTmpYYnZXNG1sbkNXRkZGZV82NDl0eFh5cFNvQW1KZGFEWGxuLXU2dXlpVUpWSHI4eWw5cmZhcERHdk1uRy1DaFJUREFXN0x0Ymt2dUdZZTU5TlNkVGhVX0VkRHV5MXd3cGlzalU0U3Izd0ZnRmd6MDdrSkJlYjM2bVdoTG5RSWhJX1NpN3dNSDFTWGIxRHk1VUlhcDBhclJIcjZRQTRucndQdFRPekhlcXRNWHNtRFhYamtCYWxQY0JaUEY1YmtBQThOQTlrYV9xRjFiTEpZNjRjMmFVdFFtNnBOOTNteVRrVmliTzU5MC1vYVFXMURONi12WXBpdkVQV0IxZHVZQ3RVenducUQyY0t1bFQ3ZVlwRkMtd19PLTBMTFA4NFd4aWlXSXR0dk9Td1I5N0szUlY5R2FPaFBpYW1LRHZtMlZseGZObXZmcFRWZUtuOFJiVy10T2lvQUE3WFdOdmJyZWVzeURfeTNXZGgtZHRUY2I3MHdqdXBUd2doLXZlbQ?oc=5",
@@ -1284,57 +1348,25 @@
         "content_hash": "f79f349700c202c6a14388e2175f44eb2f3a6bf58b6ed1a7d33beb7af8a5fe7d",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9462,
-        "title": "توخيل: إنجلترا تجاوزت خيبة كأس العالم وتسير في الاتجاه الصحيح - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxPTlZtVGVnOVRVaWlTSUlneDhBR3RTV3FjTkZ5QVQydXgtc19JbXJncHZvYnlsTWI0WXdTNmhEOE5UcDdyQVFhS2JzZzljbXZ3eFE1Wm1veGpmLU02Njl3bHp2bjFGeFlGc21NSTUzUGNkejNnUERCOHhQdV82bVk0QzJ5dVV1YnJzNzRRUnBrcnFuR0stbDNZUWREYm0yN2N4eHR5TDVVR0k1SVlWbHk5Vmp0MUhfRU1qcm84SUNLZzFIWEhHSFZrQnJ2Ui1HbGo3dHpXQjJSREtiS3FxRDBHSmtkOEt5eTRHMUlfbjRSN09jR1JhY1lZVEd0dTZJTDN2cXljTVhoYXNJUFhBSWZ5bHFGRFN0SjRkSEhDYWcwTG1ZZkpaZlVTbk4yMjNPaG8xenBfVHhGc18yY2xIeWtmSWFScV9wS0J3NjFpM1A4Vmt4ZHhzNFJNbzhWMlZtRmhZYnl0bWxGR1VRdjAya2RDei1lTXpGRmNBbElUUVNrZkk1ckNOZGJKczVwYmQ5cE5QdXFNU3QwcXJtMU9nVFhiU25WSW9sNmdIVzRHWXdUVkQyLUxvbE0wRWNqNEF4Y05GZkZrN0JDc1VtWUNIb0ljd2VPNFVUNFZ5aFpKOHBpUFl4YTlfcmZNUmJ6UlJxYl9wdWZUZUxneGttdE1ieUhjV05WZDRVY2Q4aTd3NnFWUFpyWVhkWU8zdE5Vc0xuaDZfZHdyLTVPNS14YzQxS1gxT0NCY09ndWh0R21XeGNUSlRWWFQxUE1RVkdJWVhRd2N6VUYyQUs5U2FMM295ZHprX3NtUERuQnRsSHZRS2s2d0ItQkQtTmlGcA?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 08:26:34 GMT",
-        "discovered": "2026-10-07T14:31:53.669013+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "توخيل: إنجلترا تجاوزت خيبة كأس العالم وتسير في الاتجاه الصحيح الشرق الأوسط",
-        "player": "",
-        "content_hash": "d8af0f27bded37d62f91313b97ba4e526288ab909aa5dc36372b51cc5bbf0e5e",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9445,
-        "title": "كأس الخليج - جناح السعودية: لقب أمم آسيا هدفنا المقبل - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxOUWhKY2RQUmZYU2tiOTZuaS04TVNpWVRkbGFHd2tJWkxXWEwzRjhVTTZtd3g4S2NVN0s1Mm9WaUdkVk8wYmpuYndsS3FkMHlhMkN3Y2FaWktWTTNxZ2RDWHZwTV9qQWNjODFKWUVvSmFUOVVKeWRqM3daOUMzMFlnUnUtcE9tTDFheVExa1lVR3phd0hfWm9UU1VRSkJEVi16MUtMZjduRW9ndUZDaXNRU2VzdmRyTHoyVWZIUHM5N3dvVHY2WWpFVEc4OVBhbUNoRmItYXR1V3NXdkZOa1VUTXFUT2N4V2gxMEVLWG00Z0xjUDJ6cEh4b0sxbkRUXzhadXQwVV9DOGF2UWdPVkpjTm53TFZpREM1TlloZTJCajFkNUM1UTZhZk4tSV9paWtzaWhRUkhBbi1IV1Nmbm9UMmVkX0V5NjRSc3BBTGJtaWtfa3dkNEpfQ0NLMms3Ti02LWFHalZtY0ZpN2JHeTZiN3h1RTFqTTdJV29LRllLTWNQeE1TYnV1X0d5bXI0UWpxTmVnLXhTZ2otN2NZNG9nOWVBUVEwS0oxZUhMeNIBsgNBVV95cUxOTVlpNHBJbmV1ampiUjByUGxEdXZiV2wxaXdaNUk0azFMeFRFVG5aa09MalhzbXVkRDU1b0VuSFczYm9FaW9ubmJ6OUlReU1jdDBEcGxtOVpGcXZmTjZCMkFJUFowR05mcUFpR2hxR3RReUZzbkllRW5TYy1aalpFTWc5bzFCeHFnMG83X0VkMndkQmluRDZxRHRXWkVzWnBPWnNHTjZiNnVYUFZkSDNCc2gwVG56anl1YU1KV01oaEFhWmpmbDBnb2xNd0JYWTFLdlBPN1VCU1VTMXJ4cFdISmVJb3pvdGFSQW5YRWRHTVNla2cwMjhvVlktYjlXZDlFbTZIM0hfY1RkWUlZWFNwOGU2UW1Wd2xic1VxbEhCZHJhZFNRcThGeHpfemNYUGFLcmRzWWFjamszTnRhX0tRLTR3UHlOLUNVU3VNTFpRVFNaMkNjQ0xhMkpzUXFZc1lPTVVTU0IzeW9LeDhDWlZyZXhSRWE5YUZPWjlSdHhqZVlFRnJtXzJWcTZBM0FUREtEaEoxTlhNZTRFbkV0aHhGYXVpRDR0Q1d3ZTVBYkk0Wnc4QQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 07:59:00 GMT",
-        "discovered": "2026-10-07T13:20:58.952195+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كأس الخليج - جناح السعودية: لقب أمم آسيا هدفنا المقبل FilGoal",
-        "player": "",
-        "content_hash": "142b9a0c526a116aa6f4950f475311de370c61478b26f2c69946b1cb15635a09",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9480,
-        "title": "أبو ريدة: هذا ما لفت انتباهي في تتويج منتخب الشباب ببطولة شمال إفريقيا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oVERBR0c3czJacVk5cUJqbmRwdnZXbUhEZnlOUWh3ME1sZ25JemlTSFNpR3lraFlDdlpIQ2hnMmpmMUFUYjMwVUNpLUpiaFZ00gGvBEFVX3lxTE14MmF2X0gyY3ZvMDllcVlrbTNoVnFFWWt0bGFRbS1MN0ZkRUxpVmtVLWkzY01BR09hNEJtSWxqaGRybnFINTNjS2RFSFdKT3ZIaHRFU25DNWxKejhFX0ZWRmE1dkdmZjM1aWtoVFgzWjNnRVVDUms2dC1rdGF3RWMxZ0FWR01McDgtdkFURkJrYmxxMWdaNzkwWW9mRVp5cmNlTE9UeUpMN3liUExqREk2WEZlVjg3QXBwMGdqbzVuTVZqUDhNeTF4RDV6RUI5MVVKdGhyYkhTZWJMb08tTEppbDVGa1UyS0daQ3JsSXNhbmp4VzQxbG0tRlNvVUt5UUltVTI0WTJFcklJcEk2ZHlveGc1VnhKQzNuLXFkRjNuOXlubnpjSk03YjdXWXJ5MkpFb1ZmLWNTTzBaeUJRMDdvMktHaTMyZzI5a2ZWSUllMEk1Nk5DVlg4RHAyZDRrX1FRTGNBdUlVQXpKcDc4ajIzZ3JBRjVaRWRBUXRmaGVlc2NSUEVCSlRyRjNVT3FSVWRSN3lfSTFvdnpBcC0yQ1Fkc09IX29Vb2E2YzhNMkdSQTZ1WmJqX094QXdlNkxmZE05aXhHRkZ4cTN6UVY4M3BIQlZlVjFScUNOY2xQbC1FRWZxS09JUTF2UTZiQ29yS3FaajRWb0thRmFsaXhkY1g1Qm1mOUxMcFJWUEJWWktCcjZ6dUNhQ0lfdHZSd09iQWI0UFhtSTVjaExGbGRtVXM?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 07:55:00 GMT",
-        "discovered": "2026-10-07T15:05:06.279675+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أبو ريدة: هذا ما لفت انتباهي في تتويج منتخب الشباب ببطولة شمال إفريقيا FilGoal",
-        "player": "",
-        "content_hash": "c5deb062952696a6f068d133ac87cb7df77cc66a96e38ccb75c3b9f6311acb06",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 9492,
+        "title": "الصناعة الأولى للصفقة الجديدة.. الشحات يسجل هدفين في دقيقتين أمام بترول أسيوط - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxNbU9fanM1OV9rbXViLUx5Q2RNbU1LdXNkWlJnbFhGMTRmQXFHeHpMU0ZjRnM2U2FfRExHc2NZcGVvLXRiU1VHeWR1cEZzaWcyRVFqa25RTVg1bkl3Y3IzS0pHcVZNVlRNU2xLVkR3TFpqS1VUcnR1dFc2bE14cDF1M052NlhjcnJaRktGcUFENFJ2X0lHUlpSa0l3SmpYZHNMeXhPTjZ6aG5jSXhwOUJmX194QkxtSHhuSXpoV3E3RGhJVHZhLWVvaFgtbm8wdm1YY05SZVZ1TlNCaC1WRnNrbGlKX01XN2tkdkI3MHVwOEVZY2pLRndCcHd0S09tYllZTHQ5djdkRWtHUkNLSXdCeEc3RUdEUk5hdkFPME1TZmtIdER1Tmwtd0NyLUJldUY4X09FWUtpUUlPcEtmTjhOd0FnSEhGX0JyTWsxWXd5Ulg3U3lXWmdReWsyaVIxanBPdmJ0RHZNWXRFdS0zUk5PdlJsdFFtMEZJNHF2Y0ZmTG1nMkZNQkljRHlZem9Wc1VkLTcwbWdWbGFVcThDZm9PcHlwMEZSQjFCcl92UEtlOWhuRG9fVTdxQ1hRUTNDdW1mMmJPR09jZk9SM0daRWZOTlZvUTBtejk4bjg1M1ljSFlad09teU5MYUV2ZDlvcE9oTmpzZjZycTBGUzIzWElaR09ZdWFPMjJLUFFoeVVvbU1IZVNKZllrOTVReXhCLVNjbm1nTy1ndUpqUldieUkwV1NnczRXZVgzVXd5ai03dzdHNjgwVUtiWUhmaVNlaXh5b0RIWHpkMWpPRm5DNkt0OFk1YUVULS1OdUJMeUNaOEFqdlV3enlUVzVSbWxjZXfSAYQFQVVfeXFMT3hwMFFNLUF0SzBRUnFSUkZ2WjZPTnRudlcxRzdhU0p1OTlveTJZdDB3cEZYRWdjd0hGTUNrVUhYZXJVR0xnR3VLa1EyYTl0RFh2TVJJXzJxcjNHem9mcDNkWTZPOVVIRG16NTNJY1JxS0t1QzhNWExBdS15b1M5NUprTDVCdGQ3YUFfRGplM0RGRmgzOGx2MUZhdHlDTDVJRHlWNG9oV2Q2d28tY2VMVGNnZnNkOVFLamlGRjJGcEZmNUt5djdLMVdRU1hZV1F4eE14OUFXVi1IZFAxZ2cyUTdXWmtxYnhCY3VkcVUxZlFPbHFuM2FQYmhzSGNSQWJzS25rMC1fSG1yMkpnUjVCd3B1NVo3cXZqbkNlR2YyVDRLcnpWZGlhZVo4c1BjM3NoTWU2c0JpX3BjbDk2d21IT1RTRkxZWVF6YmxqN1l3OFRyeXc1cWN3c2lYQTdYYldIWkRNMHhYa0pFd25ubUxYUlBsYlVwSnplcTRERTRESG5GOHBWT08wODFsRmRFYTNJZFRUdGNXMGVSSkVHSFl3QzRZM3RoaFVwSWZBbU5vVEo0Umh3ODRWMXZTMDVMSEk4cFd0RVBWRzZlaWdQdFF6WWpoWmk3ekpjZHAxaXVjckdST0JDQ0NvYTRVemY4cF9IZk45TktVcGxnc2ZzYy1POVNDMkxuREhKZzduVE9fcUd0Tlk1azVPQ0swUVJrVDl6Yk85dzJhTm16RnJkaEdGMXZQQ1d4d3drZlVaTGkzLXJBbGpmakdid1YtbjJHdnc0czFTandrWFljbHJNUkxXWkEza2VBU2ptdUl6SXNoODl1R0pBYUlHVmJWT0JoQndaT3ctTHQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 15:33:00 GMT",
+        "discovered": "2026-10-07T15:56:41.796998+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "الصناعة الأولى للصفقة الجديدة.. الشحات يسجل هدفين في دقيقتين أمام بترول أسيوط يلاكورة",
+        "player": "",
+        "content_hash": "70ea10f1df82d95bec5d03a1fa2a534965f9a9a15c25bca136ae0e9769521143",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 9477,
         "title": "وزارة الصحة تحذر من خطورة داء السعار بعد التعرض لعضات الحيوانات - Febrayer",
@@ -1444,6 +1476,22 @@
         "summary": "طقس الأربعاء.. زخات رعدية وسحب كثيفة بمختلف مناطق المملكة - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
         "player": "",
         "content_hash": "eaaedafec31df6b728ceace1fd9d5c2451250f249bb08cc49f11f091a97a9c3b",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 9495,
+        "title": "بعدما فكر في الرحيل.. مدرب هيثم حسن يستقر على البقاء مع سيلتك - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZMWdZdDJwM2dTMGl1enFRbmxhNjVtMFpwYnY1U3hBbDI4emYtZUNrVzJZTkRTU1oyLVl5SEtUdzk1bHpVYU1iY2NiZmhiOFo40gHmA0FVX3lxTFA1cUkwdWprOXB4a1BTMW4zRC1vUkN4VUhIZURfbUw0SkR0RU0tNk9tQ0EzdmFsUjJuem5ObFVQR0NYbXhYd1UwM1VPakh1Y0czTDhnSHpCOTdhM2VrMFU4ZlVLUDRJZW9NUEtHQ3UwSFh0ZmVnY01NSE1pRFp0WThUM2pncUIyUUJPNXhzTlJ3ajI2bWZWQlNCZDJ6WEJSOUFOQ2Jxam95V1paSHRXaHVkWWpSM2NQTkNZVE81NmZUeWdZcHdOS3RRNjJWdVAtci1seF9Hd2xVY0tVSkcxY3pCNVdEVXh3WC03cUZxNlppS3dfdG13QWU2VGllclpuYXRXUTFyZFZrbWNHYmRlNXhybHprQUd5NjF4Sl9EUVFyclJhbTI1SzAwTWhtSUl4VVpNc1N5eHZDYnhzNHdIU0h2WWMzWmRzbWQzRTlQNXo1UXhnSTAyNnlUUVJsTEotM2x6ZHl5YWJReTlRYUtycjluZEd5eTFhODRzUG5BTFl3Sk5RbVdYeGxjU1FDUUNoWEtqWGRrXzQyTzc4U1BhbGRXWkhKTDY2djE4cWluMUhHR1ZmLUxSaW51QTNtYllYOC0yQmJzNDlTdENZOHJmNndkUy1aaG1tT0pOXzhQYjNZSkg1Y2RKdw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 08:59:00 GMT",
+        "discovered": "2026-10-07T15:56:42.573182+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "بعدما فكر في الرحيل.. مدرب هيثم حسن يستقر على البقاء مع سيلتك FilGoal",
+        "player": "",
+        "content_hash": "71ecb3d1fd2df8e7d0d7173cd38f6e002c56096575ec7409effbbfcf8e8c1668",
         "sent": 0,
         "section": "transfers"
       },
@@ -1960,22 +2008,6 @@
         "section": "transfers"
       },
       {
-        "id": 8994,
-        "title": "قتال شمال إثيوبيا.. هل تشعل التحالفات المعقدة حربًا إقليمية في القرن الأفريقي؟ - DW.com",
-        "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxONXZEU1o5SVFIaFZTem9kX253WjA5TEhpUjRJVlRERVJwdnd0UF9jSXBRNThkVUFmLVVkU2VZV0E5b2NmcVlqY2dXaHRqRmcyWkZTbGVmUWVjakFCSE5Zc28welNvaUVGdFFPTElzNUp6UHBpYV9PNE5POVR6TkU1NkE2aFhjeVI3dVRwUnNrM1hyX2ItN1BucGNRRWRCVV9IdGVQOHp5VGxUdnM2OUhrRUc5eEFjVE9GS0lDOWpNM2RXX2RKb0R3eWNyVmxwa0taaXZJeXo3QmdpMFFZZk13M0gtYk5QMS1WUUM0VVJReVQ4VkliMEc5eE95dWFnSHhOXzhCdVozWjN5Uk5mSWNXZThyQngzUVVEc3Q1VEtNY2wwRzRpSktVY0JTc3RFWWVpMW55VWNpQy1qYW1zbDhPLVlENDBVajRwU0FjY3JxRjNZbkk0MmRsR2IxMDlJRXJXVkhVc3ppZ0hXelZoQVFWSmx2UUNPNjRDcnpyMTBhS3d5VDhYUjY5TjJGTndkMlpTM3J1YjFoSTBRY3lUdWpQaFlUZE1NSjBfR3lvb3ZqUzZWeHNJOXV3NE9xSGtmNE9heExsNmtIbVVhS3JWdUQ1YWJ1c2l6MHZTbklzWUxCTUZCRXpSSnJmMV9GNG1sbzlJXy1sQi14VTlSZlFQbld2a2taMUlCcHFNSnEyZkNqSjhVNFg5YU5jNV9md3I3MGVOSks4TWdKd0RNZDdMY09FQUdZbFBqNm90Z2x4LVN3U2xGNVN4dWZzUFVqVVBtY2x3M0phbG9oVdIB1wRBVV95cUxQb0wwZmR3Y3NYNU9VUkpUTThkeVdJZFNSdmtlcjloZzItRnVNQ2xORzFSd1hKRllpMmhPSTd1RVBNZzJ5Z1RFNS1Hc2FlMWQ4cXhiT3FlV1R1MUwzb2lWWGRMcmhyWlRNRkxXcGxEN2hXd01GYml5dHFBYWxHZ1U0M2ZXYjhOc2plT1V2VHhxeTJmVUpmVWNCZVk0TkFXdjQ3MUFxc1I2TUVQM0xiM1hudFhqQm15MzhpUXE0WWswQ3NDSm9kV29zcFRpRVZ1YUZJS0xVdkxsUTh5enlRODBTeThrMHFPcnEwU1lUT0Z3ckNOdi1iUjhCUVFXSE9jYWx3TC1JczUzQU5ETlFLcUJmOW5fRTJ5Yko0OGRSOVM4SEFnd0RTS2NxNlN5Y1FadFZKMnRiV3RqOG45Y3VBTWxqR0xKN1dlY2JmNzh5MUNETXlISzZPekJWb1B4QmJxR05pZkFvb1B4YWRkekpic21kbGpLWHgtTG55dDNGY1R3QlZFcXhiTU1FQmZUY21xRjlyZVVxQ284UC1OcXczN1NOWjFtWFBFQmRkX2FWT1ZkNUI0T1dvRW1tOXRMd0gxeGYzbEt3Yml2bGZXblVZdlgxT2FEbllfcXFQWlB6cm1NNEdHQlNwRVJyQmdJT3BmbkNhb0hXcld1Q3JVeTFPSW5CN3FVQ2h2NGlsQWQ2c2EyRUowUk8xc3JDMzJMZ1hJNWdUZTVOT2ZwN0ZYbXdtbVhuOXpNNkdVM1dqd20waGFFZ01xa0hvYW52UnVqdW5TVzQ1T090YzlPdw?oc=5",
-        "source": "DW عربية",
-        "trust": "B",
-        "published": "Tue, 06 Oct 2026 06:11:15 GMT",
-        "discovered": "2026-10-06T06:26:03.042645+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "قتال شمال إثيوبيا.. هل تشعل التحالفات المعقدة حربًا إقليمية في القرن الأفريقي؟",
-        "player": "",
-        "content_hash": "4ae2482030abb2cbbc009e93ca803821d37177bbd3a80a9b010d1affdb082cc3",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 9017,
         "title": "جوانا فاسكونسيلوس تمزج بين الفن والأزياء الراقية في معرض مهدى إلى فالنتينو غارافاني - Euronews",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWkZoTFNnZUplcnNnRFpEbmVXeEwwVGNrMno3LThFdWlOZVpMWVhPQnNueEtKQzBwWnpadGgxclBCVU94V3l5bDYyX1dDQWpHR3phU1dSQXJwSkxZQk9vVUREYWN2bHN4WHFWdUVpNURqaGxMWlFPWUVIc2xoOTdBNTh2UXNfQzgxSExzcGxfM0tkeFBVZXhFandIaE9PRTZvWlBnd0pHZGRJNmRRdzdnbmt1SGMwb3ZIbElqVXltcVVlWThpWmRzNA?oc=5",
@@ -2004,22 +2036,6 @@
         "summary": "التجديد لبعثة تقصي الحقائق في السودان بأغلبية قوية سكاي نيوز عربية",
         "player": "",
         "content_hash": "63bd9529f520e86e4561e4cb55ff62efb88206ee5cd4fa6903de06be0dbfe340",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 9432,
-        "title": "بعد 15 عامًا على رحيله.. ستيف جوبز ما زال حاضرًا في ذاكرة عالم التكنولوجيا - العربية",
-        "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxQQkktY19CaE5HZnJFX3N6Z1FJOTJaaUVrejJjd2dsbnZKUHBFeFZqOFFCRmhOdVdlb1pnckExX0laS0xrSVlmSVAweHZGU2VUWHJoZzU2LUlTbkZKNjZpM1BBcG9lRXluOGtnX0l2OWlZVEhTeU40RFRVLUlhb1JzTFUza2NyaGZKdmZ1NTJVa1VsYzBwekQ3SVVodk9LNjE2VTFndWl2bWJkdHpRaWJZZGpfd2FYUkR1TXAyNWl2OExwSFN3bEJUai1taDk0TXhRbWRCN0RPNXpKVjFJTmFHM1pHX3JyTVFQZXZRZHRlczJ5N3g2cS1tV1Z5VXVKd2R2OGQwZ3BtUnF6a3RUMGdsQ3lka2xMWEJua09OWHlMVHNNc1hySUJ4S0M1ODh3anBBcGNGSkJIZUx1VExpLURiVkZ3YWdMRXR0aDQwcjFlNzliQ1RiRGZnTjhlcTY5OWpZSko3bnNGX2xxLTdkV09XSlN2ZUNMaXNkUkQ2Y0g2SVZvbTBXQjB5ZnZ1Si1Td0hzOFNROUFPT096OHZXT29FMUZwOFV0ZnJlMTJmbTRvYTAtQmlvc2F4VnRkZnFyOGRxTGozeklNWjVIX0gyNUt1YU9lLVFWMUlZam9rSjh4ckVZZWR0T2RuYXdmRktvNVY3VktCem1sMG1jTzRrRXRLRFM4cnliZjVBN1Z6elFaNEQ0dUJvWGQyX1Z1dFV1RExGV1d0MEJsMEU4RWRfeDdsWlAzNHZnR1XSAbwEQVVfeXFMTWhvZGJscGVWa2hLVE1ZUHdYbVlfY2ZOTnZYLUVXVlNCOGhIT1ZyZ3E3T2Z0T0tqbFp0Qk9kRlp4M0pacVRydDlkWmlvY0ZfVE1ERDkyY3JFVWt6WVptdF9HazlEX3Y1XzliZ0FWeVF5ejZJV1A5YWVobjFubEdRUTdnSmU4ZktLQVc1eWlQb2ZZT2o5LUZKSkZHT3JEajByQ0dqZ2FJcVJvdTY2S1RBZzVsN1R4Smc4TWNQZDEySjNWOFdJZFZzVVUyNXNmcm9JbjJxRG5Ybm1ycHRfQzFhYWcxazBqdzVEV1B1aVp4WFNna1J4Qm5tYmZyVkhZVExYdEppOWt4ZXRxeGtsVWNOOU9ORC10WnF2ZlptUXc1MnJyZHJ1OVBlTUR2QUhubmxTaUVLVzdMY0QzNndMNC1nXzYwQlZNcXNWaFUyWXpndlRqaUxwZzJ0UVJIVHFvbUgyUkgzbGV2RHA4NFc5MUlDWTREbUdmU3BjSWt4bVRuR2J2Nk0zZmhPcWdnX2c1by1zRDlFS0JfOVpUSTZIYXBULURwcGxmVU5RWFNmWjdVUWZGcXNOSk1BQzhJbnRoQ0lHZDBWRnRWODN2ME54Z2VoZUVOWW1pYi0xTkY2UkRlOWI2XzNfYVBHWE5IUUZqRVRGNGN4WjJycWhMLVRuNFVRZkJBRXpNVmJJMU95MXByRlYwR1FzNlJQa2VqUjZpNlBmSVVMQVFhVzZSeDZqUXZ5WGtGMmVabjN3a1RzaGE?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 14:29:00 GMT",
-        "discovered": "2026-10-07T12:35:35.780820+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "بعد 15 عامًا على رحيله.. ستيف جوبز ما زال حاضرًا في ذاكرة عالم التكنولوجيا العربية",
-        "player": "",
-        "content_hash": "7f078539375c46a5808a28482ca61aa0738997caab2a9fc8d58ddf37dd46ca43",
         "sent": 0,
         "section": "transfers"
       }
@@ -2392,22 +2408,6 @@
         "summary": "عندما لا يكفي النمو: السكن والتضخم أبرز تحديات سانشيز قبل الانتخابات Euronews.com",
         "player": "",
         "content_hash": "a14536a9cffa60ec5c67201634e16332ac507bfe9e802fca1acd8b4d46a7ffec",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 9005,
-        "title": "اجتماع للجان \"اتفاقية مكة\" في الرياض اليوم، والقوات اليمنية تنفّذ 1,122 عملية ضد الحوثيين - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CWXlYRTBlZmxnenRCN2NBMmlTaW55dTVfQzdiX09lYVpxR0hFRm1tYmFtX1V0ajJCVk50YUdhZVJJWUxSM2RZdFlOYnl2TUV2Y1k1M2FvdXdaclltNWc?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 14:25:01 GMT",
-        "discovered": "2026-10-06T07:25:16.038850+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "اجتماع للجان \"اتفاقية مكة\" في الرياض اليوم، والقوات اليمنية تنفّذ 1,122 عملية ضد الحوثيين BBC",
-        "player": "رياض",
-        "content_hash": "270922ab0d7787f54a16decd62030bb6a2c2feb4adeb5dd10637fcfbead77826",
         "sent": 0,
         "section": "world_arabic"
       }
