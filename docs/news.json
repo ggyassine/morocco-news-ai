@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T06:34:36.311253+00:00",
+  "updated": "2026-10-07T06:56:57.123188+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -96,6 +96,22 @@
         "summary": "الصندوق المغربي للتقاعد يصرف معاشات المتقاعدين الجدد لقطاع التربية والتعليم Febrayer",
         "player": "",
         "content_hash": "9fc3d205a99136dd16cfb5459215eeac3dad1a790284fba075efeb59f3babda0",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 9379,
+        "title": "حمود المفتش العام للسلطة القضائية فزيارة مفاجئة لمحكمة الاستئناف دفاس وها الضوصي الثقيل اللي جاو كيسولو عليه - كود",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOenpicW9lc1J1d0NQdU1QdDdyV0hEVGo2SlJ2SXpta3NvU0YzdHNJRTYxUTVmTThOMWFfNlVhY3ZZUHVTZF9HSWhyMHhzVVgtYjNjSnBnSFplOTk0R05NeE9TLXc3UkNOb0pJTWRxMG0tWFZFaUpKbnZBYnMzUlIxZ2xGYlltSnBXbGItM2VUcFhZS3huaHQyMUlacGRUOGdkWDR6Vk41RTcwYnplNllpa3hpeTY0ZkRGZ2Y2SDg2S2d4VWw5emJZaEY2RXZCS1FpUzU4N1R1YWpsNW9zV1JXbWJBTVJ0bnJNb3AzampFY25MVlF1WjlCdEhxVVJiWWxwb1VHVkFKN3ZoRWZQek1WbHZ3X3RZU2MzZnlpRm9nc0JyM2RKemhoN1VHTFBXemx5Q0VyenJJRU40M1FLWGRxZHlDTzE5TXA3eHc?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 18:37:01 GMT",
+        "discovered": "2026-10-07T06:56:35.876243+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "حمود المفتش العام للسلطة القضائية فزيارة مفاجئة لمحكمة الاستئناف دفاس وها الضوصي الثقيل اللي جاو كيسولو عليه كود",
+        "player": "",
+        "content_hash": "6ddf81a34a3c9f42e4120fa4ed06736b54722ba9031c20200b43a535990a11c7",
         "sent": 0,
         "section": "morocco"
       },
@@ -452,22 +468,6 @@
         "section": "morocco"
       },
       {
-        "id": 8879,
-        "title": "فتح باب الترشيح لجائزة المغرب للكتاب - febrayer.com",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QaThnLXpTNDNuV05oWnQ3bDZlMENPM2g5NUZSa1JYU1RsU2lBVWw5T2JveXdTclp1V0tLWHY0Qm9pamYyT2Y3RQ?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 21:31:58 GMT",
-        "discovered": "2026-10-05T21:41:08.812522+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "فتح باب الترشيح لجائزة المغرب للكتاب febrayer.com",
-        "player": "",
-        "content_hash": "5138e939e1b450ef9df06871979a67ce989d8e64565a0e1bffd77e8c78740167",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 8965,
         "title": "تنزانيا.. انطلاق أشغال الجمعية العامة الـ153 للاتحاد البرلماني الدولي بمشاركة المغرب - | MapNews",
         "url": "https://news.google.com/rss/articles/CBMiqwVBVV95cUxPTmFpY19nZHdDQUoyM1VGUlY3YUc3OHJOclBXYmJGYjJiUVhyQUJUR01yeXktV0VNYnJoc01GQ21pVVh6LUUtMHp5WVhPdTJDeGlORF9zbGllYUlRU01OS3ZjajE2cGNXank3MDVSYWFSaUlFVXJDVUJINS0yS1IzMmlSaGx3aUZ0ZW1NVE5qVXU3ei01VXpWdXZ1bTFsTHNOdHJ5c3NQanhTWFlqN0doc253ZV9sRUxaZmlaWnZydWVpNFNMQ0hvQmFBWmlfX1hPRDJXWnVSNkxIcmQ0UkFFMndGanpHbUZYMkRFRk93Z3lrUlQ2Ym90SHVDbERYTFRBRWhFUHAyVjhaRGVLNS1fN2hIYkVxYnA5Z3JPeWdpLXBIOGhBUnFuVWNUVWo2WkRLRFUzRzFkSDAzaldQc2VTaDJOdnQtTGt6LUVMUG9TeWVDY1FMVHB0cnR3bHBreGZqSkt0c2g4UFk4cHl6V25NRVlLQmh4UjM5R0FrbFgtUDJSS0s5V0xhc2U0TkgwNk0yWjBKWll3Z1E4S3Ytclc5SVpRbkROSkVpT2lQbTIwdFRGc1pMbkhZc1ZQTlpGN3FfUUhENG9VOXAtN3JBOUh0UzNpc3E4d19kZG5qQmloek9hU3NIOWRqTS16VkR2NmxzZURrLXZUbXowc1JpVFlGSTFVN1BZTE5WQ0ZWTm5Rd2ZoVW1qaU40aXZIMloydlNqSWFnaHdlSWgzbDJVZlNCdTVucTdTVXV6cTZBTVlzMk9xRWt4Q0lJMXZiTXFSSmRJSkQwclljUGxrTVQ5djJLTW92U21lQ2tILXFUVW41Slk4M1pzbVpyZk1kUDI0Ny1tTFJWNURNM0lVRU54aDJQMzlmQzNQZ1JvZlVYTG5jV1ZRaFJVSVBLTVNLTQ?oc=5",
@@ -581,6 +581,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 9380,
+        "title": "مباريات اليوم الأربعاء.. الأهلي والزمالك في كأس عاصمة مصر.. وبطولة أفريقيا لكرة اليد - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMioAVBVV95cUxQV3FoOGxqQzRkZ1ZmaXBlVmp2Tnh5UW5lWldjSFJmZGdrcE1VQVJYam95d2dCMEZoay1MNEhlNmlBOHB4N0RIbUNaWklaOWdaVFNQQy1nQWs3dDV1c1hnVlVpV2gtN1NoRUVkc2ZzeHVOOGhFbDZZVlptSmV4YjBrRmppbmNDRUFSeXdlV0V6TW1CVTc2VFhUamVpVlVVLVhldENaMXc2Z2pzR1JnQm1YYTVSSEFubjJpOHBLNjNydkF6NXU4YklYZWNXenJJZW5xc1NKVDRGVHZoc19udjRpYTFwYnk3YjcxQmpGRlZNb3EyQ093dU40NF9MLUFzTS1sZGpzV213Zzk1RmtMNjJYaE9ZU0QzYThFUzg4aDVaYnFsLU9KUlRBRnNSQ2c4cU11ZmgycExmZVYxSnZpcmxkTHYyU3ZxV194LTZ0M1VuUU9pV3dIMU80MGxfOXFybjl4eERNTWVXWk9ZcDU1RUZ2dWVrYXVMckZDZGcxb0s2aENiVHpBNkFraXhmUVR4Y1RISWxXdDRTaWNwLTFpcnVESzl1UVVhRUZqajhpLW0xWDgxblIwbEJCbjh5N21QZzlpWXhQQU45SXFtWjlKeXU4OERYbTU2LUZacWdia2gxbHVBS2VINTFqZnFTUWlOYkdQcDJPd3ZIOVdtOEFzeGJCWlR5MGxuanRTTmlhc3FmRkVPU1R3djcyYXhnX2s0djVHbnp3N0tWN1lyME12QS0yUURPbFI4aVRXN3J6OHFlZFByYzFPSTEtWXEtd1hpbGVhWW1nVjMtQXV4R0pwRGVjbTVUUFhxc2R0SGcwb0FxcEZDRmlZUnhXZ2F3SlFwYWEzYjJ6U0FrRDBkanBKRWxDNmZodjdoQWZTbEc0RGVQR3DSAaYFQVVfeXFMUFptOG1abUpfM3YyVnFWdmpZUmZZd0F5aHFQSzJ2clBjOGZWbl9uZzJDTFR4MjNRNkRDdXgxcnllU255MXQ3ckJwLWMzemNnWUlmbzRIbTVPdnhtZ1FkbkVmWDZMQzBqVG0zRjhmd0t0SWMwUkRJbXozc1FqZkliQV9LNy0yY0hFVlBBSVhuZlE4cnlTM25YNlF1bVFzUjR6OGlsRmtBNDg2YUZVc1FYWnBtTFJmMkpodHpOY1RjZF9rbjFGMFByYXRPLUVIY3ctdFZsVVRlZURMZ3E4UnZQY2ZsdkQzSXY5WnZGLU40V3I5aVN0SHN5d0dhUGhlUmhvdndGRUdRZnNuWEREcGtNOXRlcTIzU1A3TDJ0YlZqWHhOV3NXeklLX24wbllqQUdQazEtbG1pYlhZQ1BWcHZHczdjMFd3MG5VdFZfaU5HMS1tR1c2dHJrbG1LaGJGWkVQSnAzUjZrVTZBX0VPRkZMelNWWXdzUzlyNVhBVjNDNDdOcTh0dnBxRS1mS1hXekxUVGRYTHFHUEp3ZW41X2xSTFZVZTBxeGlUdWJBNTdnTl9hTHpZdElXWnlEdjlMVU1xMGNkNFZxQXhVaDJXYV91LUtJeDI5V1hqSnRSSzdDWEpLSEFtZ25ESHctcmVfMExFR05fdWowY2ZjZXFxSWkxWXhCZnFRczdpakN5aVBpZFZVeW95RFlva28tXzlrRklhcFZNTTVtdm1vbWQtZ19qTnkwV2RNcHdvbUFsR1ptTl9lQ0tMZlFaSWR1ZzhaZ24zZ3dqQXc2VnhGMUJMaW55d3VLczIxRmVGQ3dYVG5mWnJHbjFmYjdkbXdaMFl3ajRobk9hT2ZEZk0xdFVINDFhel9Zd1h4V1Z0T1psRTctQlVVRnU1cGxn?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 06:26:00 GMT",
+        "discovered": "2026-10-07T06:56:42.906107+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباريات اليوم الأربعاء.. الأهلي والزمالك في كأس عاصمة مصر.. وبطولة أفريقيا لكرة اليد يلاكورة",
+        "player": "",
+        "content_hash": "ae8bb9149e183af5faca8c4742b5a14f99038ed29a87b45d1e1be17181b4320b",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9367,
         "title": "من فؤاد أنور إلى العويس... أربعة قادة حملوا كأس الخليج للأخضر - الشرق الأوسط",
@@ -882,6 +898,22 @@
         "summary": "اللاعب Fernando da Costa - الإحصائيات والسيرة الذاتية Kooora",
         "player": "",
         "content_hash": "ee14910f4bc2649adacc78495821dbcf4b1ffaac98c7dc8b658b0851f14768a5",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9381,
+        "title": "«فجر اليمن»... المكاسب تتوسّع في تعز ومأرب - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPM1dobkJORUdoSGFfV0Y2LTRNaFhHaGs1YkROU1U4YmpQUHROaUtJRWVacUZGUzVOMkdNS3JjcXktVlRWbUVLTWloeXhXY3lIZXhKV1ZmVTBNNFlHbW5Ta0hfa0RpbEZSSkRaUFYyVEFwd3dWSmp2TktlWHB0REhtcmp6VU1LbE1XaXo0ckM3Q20zb1VYZjNWV2dtaGVmRy1oWWZwU2JzMk11ZzZKMGUtVVBWSVlvUU1BSlhjRFhCbmlIaG9qRHdaUEtnRzV0bzBxMTdmUmJkMF9SVWlMRi00ZHdZY1hlVVMycGgyb05fTFhIcVVXSTh4VUstZlg0ZDRWUXBwSkFmUEw4clNZYk5kUHRMb2EwdUp3eXZlTklLLXZyejc4V1FjV3lNeHRNamgxTmstOWFYNUQwVXY2ZFo1Y2JsNVQ1T1BJTEJNME1VYmp3ajF5bjRyVW1CMzRhNTJMRms3ckwzb1BoU2l0VV90OWVKUXpWbU9NRzZoR04wVDBMSXkxZVk4MURhbzdXQ3JXX3N3ZzZZYWtuajhrZC0zX0pIZl9UbHVERjJ3RDFXWUQ3Zk8wZkNRNUIzRmRJa1lWLWxWTkZQNVBaMTJfRE1WN0NyOUo?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Tue, 06 Oct 2026 23:47:35 GMT",
+        "discovered": "2026-10-07T06:56:51.680578+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "«فجر اليمن»... المكاسب تتوسّع في تعز ومأرب الشرق الأوسط",
+        "player": "",
+        "content_hash": "166d5e396a1e2e98c1205099cd6c800d9e0b9800dff5f2d0acd4127965297943",
         "sent": 0,
         "section": "sports"
       },
@@ -1346,38 +1378,6 @@
         "summary": "قبل الصدام مع الأهلي.. الزمالك يتأهب لمواجهة زد في كأس رابطة الأندية يلاكورة",
         "player": "",
         "content_hash": "de22d658ff61f35864f5c005cbf719845e3c76d5ffdacb2971ef0c58b8ea8747",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9241,
-        "title": "رسالة من الشيخ محمد بن زايد بعد تتويج السعودية بكأس الخليج - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMixwRBVV95cUxQZExRWllmUURWaFVvalcyTmNkOVZTeE5oaFlzU1pOQ0VFWi1tcDBxYWl6NzVob3NtTFppSFpZY3RWUHRxR201T2pPU053WXZRZEF0WnlkNV96N3NKQ2dOOGdFUDNEZkJJamwzMXhZeHdmYlhmcVp4TnJtQ3pFWl9JSzVyc09od2hSamhidUl2WVozSU1ES3k5YVp1UjZsSGM2b3pKUE1sNWJFRWdpTDZldEdFeElPM0dENEhiblJDMXZrWU1Hd01kZzA3bWs3WTZxSEJidlNKckozN3pMTlRmcEJ5ZzhSb0RTaGw3ZTNhak9LOXdkRGVybkw1S3NGeElVOHp3SUUwTWhYX0FsdXptYnM2Zmc1emY2RkZtMU5ZQnUzb1lhcm95V1pkYnVQOURDajI0ZHhGMk9pZFEySHRPMFRWM0t2emdfUWRhOEI5T01xVVVHdzIyTDlzYTlKbE1UYVdKck5iRGFsMzVpVTV3bnBySDhRemNwUFJpQXllXzFQNmJoOFhQd0hKZl96eDB6SHlURXgxdnBJR3djeV82N2ZMbk9Qc3VPY0FNOURJQlR5aVNSMEhMV1RVQW5BSlhzMEI5bXFreDRCMHpoUjc1bEQ3Z1p6dWZ3aDhaMkllNU5ERGtwMm5KYmxDZzdFLXV5YjJGejBMb1FaN3pHVVR2S1BhdllGV1JVRko1OWdIUS0xNFQ0QWFLd3JFRzJ4bmRWdFJEaXZPVS14eF9YYWpWSVZiZy1fTnZnTHBOZTlCYW9FdFJxQTAw?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 21:07:05 GMT",
-        "discovered": "2026-10-06T21:20:04.784585+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "رسالة من الشيخ محمد بن زايد بعد تتويج السعودية بكأس الخليج Kooora",
-        "player": "",
-        "content_hash": "ea9f9bdfec2cf2722055a89561a740d53a6f49ba155a494ddbb564ecc45e10fe",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9243,
-        "title": "مواعيد ونتائج مباريات كأس العالم 2022/2022 - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNMWVKRmRoOWdsMVJTOTJaeDRiVlJ4RDNkTm43bUhXX19MT0V0aVlmcHhaWlpEWURXUnFYUmdWN3ctTEZlWndXRnFfZGpPeXZLU1FmVXdGREpYazBPZm40ek9HajkyMHdXR2daT0Y2TlJLUnlsdms4b0dGWENCOUFUY004Sk9sWldXZElFbThLNUVaY2xPM210MHZyOHdwcVNUczF3VkdHcEVKaXYtajk0MFE5SU9EU0xZTUU1RXRuMVdPeDFaZ0RLNTAxNzRmdU1GZU1pWU14eG53dzJFb1N0clVMX21rUE1oSjB2aXZUa3NLZkxweW1kRk51U29kbV9qMDF5dVZXSjZIZk9xc3JYQUgxWlBmT2ZIUUZqWkpMUnJnd3lrYmxTUUhjOEZGTlk?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 21:04:38 GMT",
-        "discovered": "2026-10-06T21:20:10.223937+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مواعيد ونتائج مباريات كأس العالم 2022/2022 يلاكورة",
-        "player": "",
-        "content_hash": "7d80f8d079ab559300b1a08575c4b07fe3a791e1ed8d2a5aa83f0cbc02db28b2",
         "sent": 0,
         "section": "sports"
       }
