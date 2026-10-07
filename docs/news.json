@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-07T05:03:57.313429+00:00",
+  "updated": "2026-10-07T05:23:41.920285+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 9364,
+        "title": "توقيف 5 مواطنين سنغاليين بمراكش للاشتباه في ضلوعهم في ترويج الكوكايين - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MaVFNZWRTZzV3THdMdmlabEpCUjc5M0FEY2tDS09DM0JYUjZIX3pLeUw3VHR4dGtaM194SlpBNjFzbm9lYkEzSlYzWFVPYldyMVdzZWxWZlNXdHM0SXlLb1lvSmNiUQ?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Tue, 06 Oct 2026 23:06:42 GMT",
+        "discovered": "2026-10-07T05:23:10.287837+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "توقيف 5 مواطنين سنغاليين بمراكش للاشتباه في ضلوعهم في ترويج الكوكايين Le 360 Arabe",
+        "player": "",
+        "content_hash": "69a9f8a3ee0be7ffe7597385a17e0cda3371bdd1c93f26b577d30064a8c9b6c7",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 9286,
         "title": "بعثة اقتصادية إيطالية تبحث بالمغرب فرص الشراكة في قطاع السكك الحديدية - Febrayer",
@@ -498,25 +514,25 @@
         "content_hash": "e94d177240e6785533bc9cd81019769fd4cfe6aad2e33c47e85e175957ed0b01",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 8947,
-        "title": "جدل في المغرب بشأن الزيادة الجديدة في أسعار المحروقات - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOSV9nakhWdGd2MVBJTk85S3JCNXY4REdHUWc3c1ZycWZiUk1XdTN3V1JYdW5WSXhuTFF4cmxhR3VmbVkxMmNQREgtV1dnUDd0Q3pVZUhMZXNGZVI3cnI5b1RoYTBEVDlrTXo3M1ctTXBVV0Jac1JGbC12S3htaGtFa3lCUjBUWmhEZE9KXzdTV2xURE9LakZ5TnY0aTdFdTBuT3JEcjBELUp0Rm1jV0FCWERKekJnSkdONnBNMGRReGZocGZqLXpnVG1FSUY5LXZHSUN0alZSSzFvSXFZOWJOSkJVQ28xSWRPMTdMWGZHcWtiMHBPa21kNW5BYmZORFdYb0ROaUJNY2V6Q3U1ZjRmQXhJaGVQb3JXeXQ3a29LaVd3amhxOGVkeVhNMnBEMklvLV9yTmhmMml4eTJiQUhhaWtSYWJxQXZLaExJaTZWYkExeTkwRDltdi0waVFLTzI1c19GZWhCUXUxNkR0NXpRYkVGZjdvYVM2ZXlJNWVFWlVTRlhiMnBWRm1UbXdHakRCSDVITmFOay1jWW5VZ2NKUkQtVndKZ2fSAawDQVVfeXFMTl9vVFpycjYyS1l3TjN4Q1hndnluYTl5d0RlZV9MNlZpaE9nZlB5QnZtVWFnQmJEV2paZElSbnUzMlREcGRIQUpUaDQ4OUJ5cG1qdWVjZmNFWkN5SDNiUUwwSUpMSDNGM3FnbWE2d2dlZzQ2NTNsem13MEZIYVYyazlUc01JUUtuU1NJZ3U1cFBqTlI3TEs5ZmVCQm9nOXk5LTBCSU9kZk9CQy1OM0ZxdnMzNEgtdl8ydGJkX0JmcDBxNTVEZm5fUGVpNjRVZW93d01seDhCeUNRZjdfempSODNmdEJUNGZ5Q3U3elRRU01IeDhJaE4tR0pSVG05YmxpTFl0dVNxamR1X0JtRzFHRXNtZkRpb283N3NidllhMWl4WXlJSmotc1ZZTlVzTmh2N3lueUJseWFjQUhDM1NrZWdWUXpWcUJUcGRNb1JDWE1oYWxLMGJBYkQ0ZkRzUkxJSWNfZENmMjJFb2d4QnRIXzkwUUlHbU5RWnNEQlBUQm9JZllmOTVzQ0I4YXV4OHVuY0lhQVd4TWlqcUtfUnZ0a0IwY0NkNkxsUkJlY1k?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 08:47:32 GMT",
-        "discovered": "2026-10-06T03:02:36.843385+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "جدل في المغرب بشأن الزيادة الجديدة في أسعار المحروقات سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "424d41dbe058c0ff14ee78d33bf2d73955cca397b61a3ab82e0564f1582c515f",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 9367,
+        "title": "من فؤاد أنور إلى العويس... أربعة قادة حملوا كأس الخليج للأخضر - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxNamMtVk9jNXc0cUJoQXZINzF5OVF4ckhqelBnT0xGVjRiM1dYRVdlYjBqX1VqUnlvSXlOLWx0bzV3WWkzbGdzZWZtMUYtTktDcHBOQXA4dTBmYkRDZjlGTW5CUDFzZ0dGWmpzVUotazdjSktCQVlUVmtTd1JZWUpfV1BKeS1KWEFXakE4dFJHSTY1SUx0Ujh1OWNkTG91eWVjSEJsOTZWc2pZT1J2amlmdUJ1QXZXLXVUdDlCMzRZU2lsNUdteDBRTmctbUtCdVBkWTgxaDducmRjcngyS1JrQWtRRVVZOGMtVTFGNXZhcDhCN2phQnBScmtpT2o4SXJUUWdFdjBNaFN6M3lJcVo4WE5PRm9hYnEzSWVnS0RNYVFtQkxfWEdYc3JVRTNLOFBGeVpWNkZLYUZFV3dOd0UwS2FMY2ZLbGZHT3Z0ckJWRU8waE5vWUVjNDBsT3A2RlRPNGxBX3FoY0lUekY3cnVRM2dHdXlMQ0d3N1pNenNkTkJBdklaU0M1dXJUekdWa0ctdlZqVnhtNVVMekNqU2xCQ0ppNmNKV2FYT2tncUpubl8yX2lsYnp0U3lMSmN5VGJUR05XWHBfX25tbzRmNGlkYk12Z0pBVnlaYXdGNTZhY2tnb1dyY25oQTlFRlpIdU4xUVYwRHIwQUNRLUpoT2ZxOWRmb2lnTlg5dHJ3NGhIbEdBY3BoNE1YYVdxNmMxdVRQWmQzTkZrUElIRV9LMVBhU3lzcVpKQ0NfVEc5bUVBX3Awdm5BNmlaWTVHcENNWUhhSTZUcG5DYmpOVnc0M2lKTWlR?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 05:07:54 GMT",
+        "discovered": "2026-10-07T05:23:21.240361+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "من فؤاد أنور إلى العويس... أربعة قادة حملوا كأس الخليج للأخضر الشرق الأوسط",
+        "player": "",
+        "content_hash": "8dae868a897cfb6ae231bdffa491be0839fe2d42d8bd5b27eebcd41e9dcd097c",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9358,
         "title": "كواليس ليلة الذهب.. العويس يكشف سر التتويج ويحدد الهدف القادم - Kooora",
@@ -1300,25 +1316,25 @@
         "content_hash": "0a4f7f041835e3fe4f2518d85e09479eff0a6875b43c5c62432db851d14d1cee",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9322,
-        "title": "دوري الأمم الأوروبية - إسبانيا ثاني المتأهلين لربع النهائي بثنائية ميكيل ميرينو في شباك كرواتيا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi4wVBVV95cUxQdXFxR0lhZzRSZGhpQXg1VTZqbThTRFNVSTNzRldPeFJPUVpoRmlGTGtWaExDYzM4cU9MeVFUaU5NVlROdFdqOUlCVTNGQ0Y5TTZZeGZwRFpQUkRtNWE3Snlxb1ItSktiS2UtMWVQSmc5dEJzN3k2RzZFVkV3YUNwWUcyUHBLdW1tX3FrN2xDd2hfem1helIwYVVpUHVYRWo2eEkwX0dZU3dCOGxSeWM4bjZrVkRtaDBLVFpkOFYzN1hzaWl0VFFnU2pCcnFrUTFtS1QtMjBhSFpYY25fdmV1eXdjTm03OGpUZEo4V3k4TGNVYnpLM3dXdllHbElJNnJpckxtNEFRSVRnd1pEMjZvU3ROV0hMZm9GRHhSMGIydk0ySkstSzhFWVRBNzJMSDc2UmJVTnJlZDFtWjBPdXFWLXlhcFRJZVhnR0FaTDNnM1NiRFZUb1VjTjBzNlhlUVB6TTJIX3VEVlBOT2lPYjdPVHllSHBDUVJERUtRN3RUQXBWM3pnaS1lbWVtRWdNNkpJWnRJa3NYaGtNLWtEdUtDRF9uSkc2VE12T1NoMUZOY3lCWk80SExPazgtUVNUUVRDeFp4Y1Y3VEZGZ1JpbFFRV2J2X0JGV0VaZUZxTE0wTkJOWUZPbE5ZeDEzUnJXVUhoY2lHenhfTFhiYVJVZC1EbTlJWWVNUnQweGhKcUhUTkl5NThHem10VmtSdGpTbUlIYlRISkVvbm1MMDNhV1oxbWR6RUROU29WRFpHLVVvUEdCNF9CY2l0UHQ1SGlzQTZ4WjFiMUNCck9od1ZDUTF1cmh4Yk1vR0xYbUJjV2hnUkp2UnlucDdTVmN1U0RrLWRIY1piNGZUUmwxbTZWTm9jckpDMlZjQmVPZUNlRC1nNHcyOThqel9aQXJ4QkYtUjg2UkRZYXJuUzZKR25JWk9LOHJKbHZmbEQxYm52WlFreWU0NEFNS0pXMmx5Y3A1dkNsTU9B0gHoBUFVX3lxTFBreUZBUEcwVGlXck9QUFJBWmZLNWVCbnA2UUpEdU1TcnZkN0J6Vm1GQ0JIRi1GaWtHV2Y0MmhXOXlhd0x4eFVNVU9oaW5hUURPVHdGbHA4S0hucnZYMWpGNWE4WTlVbEdZRFBES3ppLWVBMngxOERIUS1kTFRBcU55WUw3eENsamRvTXNJQV96NnpmYWJSTXJ5ekhXTzI5d2VZN0h5N0FwdEZVMW5YbjVvNHVVczFpQlNPMDdMQzhZMDJKN1RhVjBqSDFhcThnYVVDeEZHLThUWmYzaGx1UEVpWThuZmN3bUNxNTRieGlDcjc0SXFmVGgtMWpmbEhUcHVDelc4X1pHM1RwVGdCSFJFV1BWTXlwTm9UVUstdnpRWVVnLVZfYmltVGNuZWt0dFNKNzdBMUd0ODBOZTdVNzFkeVI4OFcyek1PdkEtZEU1U2JjMkt3Uzh4U2o5Tjl0MHU0SlZuQW1BOWY3ampGV1BOS28wZnlCb3dWMlZqbzlWU0R3LTNSb0xQZm51QWpRSjFfZVppaHJZSlRuZm0zSWVZbndTVktsWFdVeWFTYS1hOUZNUUtKdUhhV3Q3M1N6eGgwRnZCNU5XWDE5amlRa05yZmR1V3haUG85Zk9LemQwZjY2bWRFTGF2WXA5eTFrRmdEdWQ1Z3JhbTFYSlVIZEFKOUd1QWU2aDcxTktDOGVhdUkwTjUwZHFpWFhJcGg5T2RFZTRVN1l2SEUxR3ZYWndfb0VaNzI4Y1NNMFB1NzlWYWFWQUpLU1lHcERUQlZJOGZ3bkdPaFRkNXE2U19GMmRfSm82bkJ1cUtoUXVqNElhV0hYLUpwQ0JFT080aF9OZ0cxT01WRmcybVZOSW8td3RhMGhET1lYSzFaU3F2Ty1pVVdFSTEteGwwM1BVYkFVLW5Tb1pBQUxVMU1CaDRUWlB5NTUyb3UyUFljRFBFM1ZwTmV1RVVJTWZWMjBJeG8zV2hDRmJYNXF3Qg?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 21:01:00 GMT",
-        "discovered": "2026-10-07T00:47:53.825968+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "دوري الأمم الأوروبية - إسبانيا ثاني المتأهلين لربع النهائي بثنائية ميكيل ميرينو في شباك كرواتيا FilGoal",
-        "player": "",
-        "content_hash": "07f96c97715d17a4528b6d727d52f0d662d32ddd4f47d119bdfbd3f50abbd937",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 9365,
+        "title": "سر الرحيل المفاجئ.. رونالدو يكشف ما حدث مع المدرب - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPXzRjakI2aEFqd0hOSjFWbnJKdllwUlFqR0h4ejhacFZhZWNCX0xNM3FCYndUaUloRXMweDRLQjFvdEZndlMteXRZbzZJdVFXSERJYVFLWlFaMTdtVHR4T0V2Y3hfOGl2OG9MSnpiaVk1Ml9FeWY5emk0ckEwWjhhREdiUUg0cE0tVTc0NWVYZThnbEU1YW1sSkdldWxweDBjaldidVlGeFN4eGZrZVlTMnVoalVjUXFWeHUxOVgybUczSHNmNEpSMjl1ZDlOSTJrODJDdmI2RXkxNGN6VWQxOTFCNGN0c0dYcXJPRTlBY1hiX2dUTnN0RVpKTzQwU2NqUDlqbi1rTUdkemVLdGJwdkgtTXRYX0RUdGdtWEhJR3Z0ZU9QZUJxOElkQThlRC1oTW5Ma2Z5QjgyUWRPMjFYTk55SFA1N2x0cmlqbUc1VWhfNjBGNGQ4OFdWZloxMlE4ZE5rU3BtQlEyRUw4eUNOUV9MSXQta28?oc=5",
+        "source": "سكاي نيوز عربية رياضة",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 05:08:21 GMT",
+        "discovered": "2026-10-07T05:23:19.473714+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "سر الرحيل المفاجئ.. رونالدو يكشف ما حدث مع المدرب سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "ab09084440f7aa9ae88c08b6f4d56fa0895b3270a90bffaaab0a23daebce06c0",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 9335,
         "title": "ألبومات | هدف وتمريرتان حاسمتان ضمن أبرز صور وداعية ميسي مع الأرجنتين ضد بنين - FilGoal",
@@ -2134,22 +2150,6 @@
         "summary": "«نوبل الطب» لثلاثة علماء كشفوا عن آلية إنتاج الذكريات والمشاعر الشرق الأوسط",
         "player": "شاعر",
         "content_hash": "bc246431d2f9cad11d2152c921bfdb9985fb5e2e1bebae55dacc356f5c71282d",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 9061,
-        "title": "انتخابات في البوسنة قد تؤثر على مسار انضمامها للاتحاد الأوروبي - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxON0xGNllQLWNOb0NzeXpvVG93aXJVVU5Zc1dyWVlwcW1xa3RKYmxtY1dXM29Va29idHZCMldaQVBCOHZBcGQ1b2FtOGRMeUt1NE1kOWo2WE1UWHZRTzI2QmtwQkIzaWZqdk54NjNUN3E3ZVFzNTluV3NmZGJkOThiMVd5OFVMa0RkZUN0LWVsYWR1TG1DVUVIQzI0UVJjbV84N09zOUxPMmVMeUhvVmJZazd4LTRyNFlZREJBcnI4VjBtUEl1dC00UmFYVlNTSUhIMnhBbTVGZG1UZHpFM2FyWFdPUnlESnc2RV9CTDFYWDlQNmpzbTNRT0ZPV05qNk52bVRWeDRqOGZRcXhhY0RMMDZWX181bFZzYlo2SWFZNWpYZlpZZlVwajFrcDMzYVMxblkxaVpXaWRDVV9WWFB4RVk5clc1Sk11dGlqa0RKQzdOa0tqUUJ6dUdjbFhzcDhDN0UyTklIWjhHcnU3Y2Y5M0dYcHdTV3ZZRnlubmZKUVVTOFRReWJaZEJiMk8wS1hhalBJZy1UUW5GNnVHc1FQWUpSaTVHdEprei0xLUlPWElIbkVkQk9oamN2WHlUOGcxTG44MWE3aWZ1VFRKbEtPTnE4N3NNV3RaZVc4ckhLbXQtdXdvTUE3TmdDNUFQczhmNkpfbGhfSEFnc2JfYnplaWlXS3hLa2JYckRiZUdhdTZBZEt3ZTZXZUd4REFxc0lrY2tDWHYzSU1qbExubEFkTGlrd0JTeDNWUS1ybHVOSENIOGN2ZjhNdXJNY0xVbkRhT1kzamNDSQ?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 03:33:24 GMT",
-        "discovered": "2026-10-06T12:03:08.689419+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "انتخابات في البوسنة قد تؤثر على مسار انضمامها للاتحاد الأوروبي الشرق الأوسط",
-        "player": "",
-        "content_hash": "75a3ae922ec6203ea5c95c335c86d8560e5641f3e085c621b0723c96aa1c74bd",
         "sent": 0,
         "section": "middle_east"
       }
