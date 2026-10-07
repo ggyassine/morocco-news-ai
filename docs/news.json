@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T00:48:07.884978+00:00",
+  "updated": "2026-10-07T01:06:39.054537+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -530,25 +530,25 @@
         "content_hash": "424d41dbe058c0ff14ee78d33bf2d73955cca397b61a3ab82e0564f1582c515f",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 9115,
-        "title": "بعد آخر سهرة له بموازين.. فضل شاكر يحي أول حفلاته من الرياض - ar.le360.ma",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fbS1oY3RqZWw1WHp1U05oOTRNMTVodk5OdXRNeU5UZU51SFBWWldueUV1TTA0U1EzYmQzNmRaUzA4UTMtLW8zeVMwTzBSTE9QYW5ZLU1fWHBvZHJiNmtFMHhhQnc?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 00:57:30 GMT",
-        "discovered": "2026-10-06T15:45:00.621415+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "بعد آخر سهرة له بموازين.. فضل شاكر يحي أول حفلاته من الرياض ar.le360.ma",
-        "player": "رياض",
-        "content_hash": "9746931935cd78d4a1523887b634588ae92e6f561d0d0e645e45e3ac0e16c229",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 9326,
+        "title": "فيديو: أبطال الخليج على كورنيش جدة.. لاعبو السعودية يحتفلون باللقب - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxOODlrZUFYbFRMaDZfUVpQTUJuWS1ZRS1QZkxFWnBwdnNCckIxUi1PbncyWlNYeDF4bGFRLXdpQmU0VVZNN0VHWjg0cUx2dnVEY0RBNG9HbmhhM2dEeEhid1U0dHd2VzVmRnJWQkRRVTd0S05xSW1INTRLczdiSnplSGw0c3RERmdLdmZjVXAyOXlvOEJkOVpDYV9zcnNuNF95S05lM0I0VlZuNGRIMWh3SVJDdmIwUU1WaXN5RzN6QXRMcnY2SG1GMkxxbWtFdnF3WlhwSUs5WTkyMGRRQWd1N3A3M2VVSnZSTDRyYUVYZlRtSUpTNTlpVzN4M19EWU1MbGZZOTk4dnlzOFZ6cXZDNWN6azJZd3N3cmpIVkY3T0xINnl4MDFFaDBZZFhfYVlWQ0EycHlTeVlxYXh0MzZMS3ZvWFVPV2Rab3ZaTlRoaWQ1cGd0Ni10d1pTZmQ3ZFJhdmttRHdxLVYyYUFMWEdSUTNCVGZqSUdRalMtUVdtUWlPbmcyLW16SnBBdDBGQTFkdjc2Qm5uQVlRaHZpLVN4aGJaSDc0bTAxUThaSGk0UVIzd2xCTHk4VmU5NUtpLXZuM0M4cFppRnp4UXZ5cFllbjNwdHE0cDMwcXJFeUJ5bFVJOC1UNGFMRzVfUEJsVGRRbnhQdU85NS11X3F4Y21qNjVIWFpsMHNvYkdBa3lUdGNhb1Vmd3pwd1NlcVVON0o1V1ViWm9HOXFOM2lId3JDTDJ2cG1maG9ZSHM3ZGM3M3JDMjFEYVQ3LVBKSnhUVmlMb3FBamVsMjh4Vm1XSk1mdTVsSHJsbFVYSzhVUmtfSmtIQnVXejRz?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 00:47:47 GMT",
+        "discovered": "2026-10-07T01:06:15.029985+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديو: أبطال الخليج على كورنيش جدة.. لاعبو السعودية يحتفلون باللقب Kooora",
+        "player": "",
+        "content_hash": "115a32aefbff6e6e5406782ddba691018318fd67b76b1cd41874abbc995b4375",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9323,
         "title": "شاهد مجانًا.. بث مباشر مباراة الأرجنتين وبنين الودية الآن - 365Scores",
@@ -658,6 +658,22 @@
         "summary": "اللاعب Fernando da Costa - الإحصائيات والسيرة الذاتية Kooora",
         "player": "",
         "content_hash": "ee14910f4bc2649adacc78495821dbcf4b1ffaac98c7dc8b658b0851f14768a5",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9329,
+        "title": "بث مباشر وداعية ميسي - الأرجنتين (0)-(0) بنين.. انطلاق المباراة - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxNblQyeWs1MUE2cTRLalk0a0dITnh6M21RbWlRMkFfU242bEpTTExDUW9xTWxvMVA3NVd0a25wTmE0TEFyZEtPa2Vvek9pN3NCZDVuZDdaeGVJMk5PYVprQ092MTVQRmRqak9oYllJelBpSjJKajVpdU1NcVV0VFJtTUt0NjJEQmZtUHEtUEZ6dFNMNi1FaWcyMVRfVnUwaURuYnJFdEJHcU5rNTl4V2VPQjZXRjhRVFBNTlVjOGZIRFh0ZHNsN1RaNUZ0bUJ5OVFYUjNIdTQwQjdlMEgzX2tDZGFXTzVIYnpTQlByQmJFWXZyM0luZk9DYjloclRMMDdRbHRZMmJ2dWQzVzJlUm9waUIzWjQyWHJILURGRlA3V2hZZU1ROVhYd2FxOVVWQnc3UnI0elBEeEFQaEhyY21xN1czWEhsdl9kT1FKUmc0aHJobWhZYnRsU3dSRGVGNEJYTzR4TVJNX2p3anJ2blBUSGozQlF5SG1uUm1raFlMX193TUFTN2JvTDJCYWxHV2VQX0IxMUxudk1MQkpHX3BIeGNHWTBsVEduazVQbTNsczB2ZmV3QnVma1JWX1Bqd21G0gHGA0FVX3lxTE0wY1lhTDVfaklPRk5kNzRmTE8zUmh3VENlOW41cTVGNHRSYkw0RkNZN1luTzY4NG1ZX2pyeVU0MnhRYTJEcXRLdTc2anZ3cE1yX2V4Vkc1NllVTUpPRG9QeUZ1U1d3clNYV3lFRm5STDVMYXRYYlIyODA3Q2lRSGdmekUyd1BiN19HdG5sdGg4Rk5Welh4WjhkU0ZHV3NNendNVFNVUm05aWNtcmp0ZGIwZ0I2czI3SDBnYlM5NDRBUkNBQUM4a0xmdzhTbjZjczJoUWswSzhrY3gzM1pXNVh3LTBNNUxHSmJLcE9Uc016Q01Ha00zU1h6UjM4QmlRZ2NnU182aktZYms3X3VQWU9zNmRoT2dHVWhJVkxIWm9YQTJoS2YzS0ZSQUwwNm1ES3hMS3FHdzdicHlQcEVwTlhkRkRDd2M1RHY3QVlNc19MdVl6cGdGcHRYSnNlOFBRdFRWd2dycUZBV3pjZElVTUttUVVYRUVBdzdzTGN0TzVxTHFDaU5DZWVxSlp5ekYxeEVLNFRDZk9TYS1Td0lOcUxmc09fdEE0ZGZ2SUppemhpRUNVbHg1c3JEbTlOaG84YlNESGFVeUE?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 23:14:00 GMT",
+        "discovered": "2026-10-07T01:06:21.570433+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بث مباشر وداعية ميسي - الأرجنتين (0)-(0) بنين.. انطلاق المباراة FilGoal",
+        "player": "",
+        "content_hash": "1b9749870dd5f3d2a236f6f7396ffaff08c0e4684eb319e2be45f262af373f54",
         "sent": 0,
         "section": "sports"
       },
@@ -818,6 +834,22 @@
         "summary": "بـ7 كلمات.. تركي آل الشيخ يعلق على فوز السعودية بلقب \"خليجي 27\" CNN Arabic",
         "player": "",
         "content_hash": "672f14b6343daee561035c593e71e53c4de4e322041d886c490bbe60a726e900",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9327,
+        "title": "«الأخضر» بطلاً لكأس الخليج بـ«مسار استثنائي» وشباك لا تهتز - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxQMkpGTnR5SWQyWEY1ZG9ZZ3IxQ2ZETi1qem0wR3pjTzQ2OC14djVzTExLQzZkdlpSNHhmQVUtSXJGUEh0c2VmX2VRNWhDTEZHLWJIZjdZZy1iX0VHV0xwNHlXQ1NfVFZJREJjOEc0V3lGRUVwNklXQTU1MG1fUHMxd3FzWl9YVFA3UjJ1SnpnZF9mNktfX0FqVzBnNkY3OUp2UzhXZTRYZFdZcjRUWEFOU2Ffc1NvN3hkeHlWUEhWa3VYUVRuTko4Zlh5eHpGMXdGY1FXWk10T3ZPaFpFVGhfS0ZoRzRjZ0lTck1Tc2Vwa281Y3ZrTUk1Q3V1M01vQVdSbEtObXpKUlppTnhsbGExVnU0MVgtWUVhVkFQUGlzamdSOWdWOEtVNEFLRGxUcTVnMVhIYWIzM2ZraGNOSFp5bkQ2V2FsZ1BSdVB2eFFkZEItSllVaGxUWmhZcEc1WG1QNHVBeVdZWnI2NDBQQ0ZZck1CbzZWNmdVQ3lPVlcwVWhoOUgxczhYNVVPeW92cXB1NFFzZHZwUTA0c2c4ako2c0Qzc0lOTVNXbzIzZGl5MXN4U2tvbEJkX1J1cUdxRnVpSWNCWmpiTnBVcjhOS2xsUlk1LWNlRHJ5Y25aUU04bnQ3N1JMZGRWaE14c0hrYXdDenJGWXhWT3RvYXNYQklUdjRacFIxY2R6R0VQZnJNeU5XeG40SlYtQlVIVFBuZFd0bGpEUF9XVXdWRnFVYnhWa18zUG5TOGtfS2tBOHBJSE9SUkZwbDRiZGd1LWVPMVk?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 21:52:14 GMT",
+        "discovered": "2026-10-07T01:06:18.760208+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "«الأخضر» بطلاً لكأس الخليج بـ«مسار استثنائي» وشباك لا تهتز الشرق الأوسط",
+        "player": "",
+        "content_hash": "34cb6205e6bb693adda4102e382ec5dbfc9a6e1b145ff787621d2f554979111c",
         "sent": 0,
         "section": "sports"
       },
@@ -1300,57 +1332,25 @@
         "content_hash": "20bacbaf75666d9b6a3b463b73d95b536f944f81acd39336ba67b4c2e2bbde7b",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9307,
-        "title": "بمشاركة منصف بقرار.. الجزائر تقلب الطاولة على النيجر في مباراة ودية - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMivARBVV95cUxNSW0zMmJlQ3lvSjVIbFdvUWYyREZiVmRaQXhMZ2dsVDBwU1c0dzJ2S09JN1BLejlYbFZsN3ZmcjJzTUptUXFtZGxUbnpkeXJMaE9hT0lPRTVTS1Fmcm5seFNtU1BybkR0Q3k1MGRPOEFKcExyLUFnVTNINUlrTk1mTVg3U1pqZkpIYjVzUVI3eEJUZ19KYVhWZU95emRnTldVQllmMUZBTVNKeGJkLVAzcnF6QlA0Ykd0MmJYUXNNUFJUTmFaVjJCTGpNZUZfal9wNlFfcWthbHB5NktDd19qZzhmNmVvSnRNR3U5MmVhM0p0RWpHYS1jR1AxdzBxN05YZWl3eTc4bWswa3JtRU9LVkpZV3RYZHkwOFNWWDJBelVESkNqeVZPcnhnazcyX2gxRHpidERCenFoZDBLSVdMRXhHY3o4bjFfUVZvMHBTSWUxR2pFNHVOZ2N3dDhnRXpXRWVrYU1fS05oZTFMRWh2ZF9ibkFiaHg2Zzloc1RJYVU5QzNtakJ5S3htV21LeTZWS0hpTEx1TlhscXFYOTBMZlgweFJRTnhjaW5MQ05JOVJzVFcxU3lja2ppREN5ak1BYThkOUNoaVJiS3FKa01LRlNzLWpweXRiT05vRk8xM2JhNklRQzcyMU85VllfNTRvMmxnZW04RFVpZkN6Yzl3ZW9JaTVmdDdyd3lrbGlXelFTSFI1QVRMMEFCdUktVzZLeVhiaWVneFctN3oySkRBM254WFVVUjFyTUxMMtIBwgRBVV95cUxQR29VblRHRVVIQjBDRDRwb29UQXNvaURIREN2QWNXVXhMZ3JwNEZLdUVYVG9ZMkxNRzZqMWNGQUQxMGQ5bXdBZk1Yd0RRQUQxeXA0NFNXSGNMUWRrQVRjNzVJMFFhVGp0R3dGRmY2S2VoVzFXb0dRajBzNkc4cmZYNXdFbEw5Zk01UXlmVXFCakFlQVRLTmlFblUyd3BwemJDbjlfbDVGZS13WU1sTlBuTWZack9FcGJhSUNMdjVHOVgyVERWNFI1ZFBfSE1JblhnTFBfLVVTcEEyZGdzakEyZGQzdXB1Z0hqRGRDSkpYQy13NWE4SDRNVVRlREZaVEdscWVXMG1GU09FU2Z2Mm9rRjlDMVRhRjZtOV9VMmN1NzNlTGlWNXZGdmVTWkFmeGdhZF92NWxkS0RGSDl0ZmMwOE02S2RBbkFuOVV2Rnl1NmFzWjJnNTNhS3hWYmsybFVCWjRTdUw2dWlkN3pxSmloeFgxZl9iTXJXTm1rZXpOdm1ndkt5dkFfYzRQOUJDRlNGVW91cGJKMkdoc1BvWExyODdNeUx4WlVmNWpCYW9FWFdac3oxVmRZb09hR21oam1Ld1gyOGlLOW93Y2lpOWJDcnhWRWw2UlhuWTFYMFcyeFFOMzBVVEJFMnc0M2Z4cU90RW1uUGdrcG9HOHFCNDZrSkt0YW1LUnFtMzdnMlJQOEpsN3NnejkwdjNIdkk2clhUNGhRcHhtS2s4dm9xOHZ0ZVpfTTFnNFNJbm1iOHhRMEhxZw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 20:08:00 GMT",
-        "discovered": "2026-10-07T00:18:00.678640+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بمشاركة منصف بقرار.. الجزائر تقلب الطاولة على النيجر في مباراة ودية يلاكورة",
-        "player": "",
-        "content_hash": "c37f702eb3a451565475e921f0267119b748681fa64897d68696cc679ebbfd34",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9304,
-        "title": "بعد غياب 22 عامًا.. منتخب السعودية يتوج بطلا لـ خليجي 27 على حساب الإمارات - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxPQlEzSzlhQVgtSmxpMV90cklGM1dzV01jTG9mLUJoT3FhdF9mOWVSM08tNVZQeldTb0pBVnBvbkpyaElNRng0WTVVT1R0VmF6SkJRZHBVUWlaaXBJWnZrcjhxaTNmMmRFNWlVZjNzZFpjbVVBejZaV094S1UwXzNtT2d6TmlrNFJaZ3FoQVZzTVJPYTFHMFlQSnlwSHNyS1FnREx3clZGSlgzQ0g1S3Ayd3B6VUR2NkQ0dlNSWDV3OG5PRDRoSldsV0dhYy1uZnh0TXpXSXBCSWFaZjRfaWJ0dVM0VEhwbkQtUEowdmtxZVVLUnNrVjljaWVOX3BndWE1dnFMSml3Um9sNXlxeXk0M3Y4S1hSd2hfM3N5RWJYMmkyZkpXZGg3TzZBSWJTNUd6a0tUd1JKWTZSV09hTEQ1dE5IXzhXbWZxcWFVSDlJOWxRdUt2bDE0bXRkZDFzYURFTFRZanZCeVk0Wm9MRTFicnJFSDExTHc2WG9TaUlIUElqV01OdmY2bmJyZEtLaC1PekNkeXZOY2xYNWtpV3pXN2NtX2J6MU90UmxFQ3FqaFhaU0ZRcm1HNmg2TjJ4S2NQYzFLYWhHamdvN1F2b0huWU85SG9iNE9iZFZSRXhLWjNFQjYtUDV3cHBJSkoyZXdYTkJqS29FeFpNd005TGxybk5nQVhHZUZUdENqLWxyQmJYUEtnWnloek5qNWpMUzRTRWVEWUxYc05BREZ5U1psQ1lKbznSAboEQVVfeXFMTmtwTDdmVzM0ZE0ycnFkaWctaDh1UkVXZlpianJ4aFU4dlFFeFl3MG1ZT0ZvUkQ5WUR3S0dYVTBXVjRaRnZhSnhhREt0VUhCZ3pQRzY0eHp5ci1iejZWY1NSSURvdWttSEJzNUh4amJfRTVpdU0wMVFRSmRqUWxaOW10dWpRM1gybkRFY0U1dWhqMUFEbEh6YjhfcE1oamFaYi1MTDBpeEtxOWljd015MUxZUm5XLXdlMWp4cGZLMzlQdG84OFNpVHczZHZtUjdXaTBPLWlhQWtVazdLNmhqNXRqNmVjRl9XdU1yYmlhZjFhRzZ6bVNrOFhZc0VYMnRvUm1TNFVFVFNyMmw4LU5pRDhTNmM1T1ZIZWpKR0NWVWxPZFRHWVZoQmlWUDBSNEdwMjNsQWlwNG9RMmxkdXN6UXRMUDIxN0ZFaUR1Y2JhTEVOcElobGlIcHdqTXJzUnJLTzZET3RpcGU0Mld6RFJibHRHeFh1eHBmTVk1cjdMQk5ROHljR0F6N01qU1ZpOUNpWEpfclFULTVhaEpnMnJwRFgtaTRES2RsaVdxR1dMbDh2UUFUSkMyZmxxdTNZbGZfcmpTTDhENk5XUjFmeVQ0c1ZiaWtTV0hzTGZkN01uYWhaYjh3OWRXbmE0cWZBdUJUdExKZ01oSjhFY0dMdGs5Y0cyTHRDSlNKSW1PZDRtZkdPcGpabHVMYkpfSzdjVEpnSFE1cURFUXRqUFUxdE9XVDlnazRXWGVGTEt3?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 20:05:00 GMT",
-        "discovered": "2026-10-06T23:57:22.743035+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بعد غياب 22 عامًا.. منتخب السعودية يتوج بطلا لـ خليجي 27 على حساب الإمارات يلاكورة",
-        "player": "",
-        "content_hash": "b1d879b03be6bf44f108d1e2a151cc6623638df436181b2f1a6ef49178407079",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9310,
-        "title": "كرة طائرة - الغزاوي رئيسا لـ بعثة الأهلي في كأس العالم للأندية 2026 - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxOMWJ0a2thUEVzS1lGaTNpTG01eFFjNkxCZ1Y1M0Y0YmVrazFoeUpvSlItQi1Sb3F2NTJyMDVoSTFKaXc3YmtNcEJ6bmprYUFydlZGR1RMLUZDWHRTck80QnJoVW5hb3JJQmNsSGl6NldkLXI5SEIzenBGTWxvX3ZESEpBd1ZaUWNfY2x1a2ROOTZQTm9peE9IblNzZTZyQzNLMmMzNnRpTXk3ZUkySEZaNnhIYm5GRGFDSU9IeDYwZnU5QnIyZFdQY1RSTzgxbDl5SjhHMVNKWG1qdVRjZHUzUXlrRmFlQnl6SW9UMVpIS2oxWDJyU01QTnJNOXpLZGwyZlZYQWVzZFhIb0pabFVWeGdBN1dtTDNjRm5SUDRZWmdZNkkzb1JQSjJPT19uS3hNanJlaDVUXzU5akRMMlFIakxXcWRZTHRZN2FKMi1keEc1ZEh5TkJoMTE2SC1JMXA3ZDdvZGlHVll3ei1rbUhmelBMMEpvZTB2UmVFZ1lGai1Sb3kwa0Zld1ZfWTNsUXBlZThDOThsOS1kUGt4NUZMRUNjWkY1dno4R2QxM1hCZXVXNHFvVklIR1RXQnpKSy1EeC04c1k4b2d3dFM5cTVPTEU2by1qRTJoNzZjaWJoWnZpWTRWcGdYdGFpSWJlQ0NZREhIS25B0gH7A0FVX3lxTE5SN21mTDYtVEN3Qkh2RE1fX1RiNHZzNkNmMFhVR1EyaklpU29JSGI0WW5wbUpJTktjMmJFTlVTTjA4THZub1pFTEpSVUNXWDd3Y2JDSmc4bl9LRTZoS3djSk0xYUlTckhObzdRa2dYWndYOENkN29meTFXcDlXN3RYOU1LTkw3ZW5LamU4ZjBOajA0YV82WWprOHF3Y2pPOHZyWkhQR0NENVo1Qk02Ml9QbndxSVZZNmpaczNYdURUclIxM05BY1M4YWJDZlRORkljQzREMWRwME5HMW9mQzc2bTEtVmk0NnZwWWNqOTRxTm9HN0JVelNRR1VfRUQ0QUpiVEYtclJWS2gwcXZSUzdvbnUybzRDam5EQWVGeXZDYVUtNWF4MWpaVHBkSUFQRTJRRWM4SS15empGZDRYR0VJWmZxMWUxaDZoNVZ5dDAtNmFuUnc3cnBqMHp6dXlrdWFVenhtUEtrODk0X1FFTHB6c2M0VE4yLTY0ZVFrc2EwLUN5UUc2Z0d6dzktX1M0TjloZmJQM0loZV92RE9YN2JlWmJSNlFMc0t5b2xxUXROWkpsaXRPc1ZUY0pfQk5PYzhmNFd2SFV0X3EtM1RYSnZvdlBRMmxRRjViN3Vvd2tUbVRCTlgyeDhVenlpY0laWXlsTDhDZklhWUFhMA?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 20:03:00 GMT",
-        "discovered": "2026-10-07T00:18:01.481328+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كرة طائرة - الغزاوي رئيسا لـ بعثة الأهلي في كأس العالم للأندية 2026 FilGoal",
-        "player": "",
-        "content_hash": "5b2a1a33af86fb3e3b868c67a41a393a45905702320def7c66e42e16b8f4c7f2",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 9328,
+        "title": "يلا كورة يكشف.. 4 لاعبين من الزمالك ينضمون لمعسكر مباراة الأهلي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxNNERKQ2g0QXlaMDViaURjelAweU42eFRIV0p5VHEwQjBKQjUtLW9VZ0VtcExSVmtpRUpJa0VGWHZKcXZJQ1NSQmJlei1YMzlZYUVyTGNmdU1RVk5CUVBzeXdMSEF4Z3dFZzMxczRwdjJaR1BSUnF4emlRSzlobEZCS184UVpaNnFPV0xFRzVpMGdoN3c3TEFLM3RfMFI0WWtweTFTSXpoTnhSTEc1X1ZldVphb1dKLW43ZTJoTDJ4d0FRbEQ5cWtZVmZHMFhoOTFaUndtMHFNOTJCMG1lWnJqQ3lDOVdSTUdEcThGTEdQRTd3TnRMVGtOOWdjbkZPbkhkUDlxbGh2TXRPX3M1WEV5dlpsVVN3NUxlenBYbHE5TEE0czQySG55Wmo1Wnl4SFBCbFVFY2IyUTZaRG1FZWl1bmtDdmRmMWl1bXdfcGtpTkI4UE9KVUowY29ISzJrbmZmYmk4eG9vM09aS0hxVnJpR0hCZjNQd19tVUF5LUdsYkswYl81bmFVVnR2c1kxZEl5cnZYTVlXcVNCNzY3TjdZWjhJQktEWGo1WUloOG9ZQ3VZYzh1NXI1SzlOOG9xVVVObVpXN2JGQkVOYlhtNlU3VW9kVGthbk5Icm0xalIyOGNLYnNrMEtJQ2tBTzZTYjVWTDlEQnJxUjVtUmtPdUFtanYwX0I1VUhaSkHSAY8EQVVfeXFMTjhUY2Z1VGRVSENXOE1nVFhBRGRlNm5hRFlURHBYYnJzci1MRkhkT0w3MXlmWk5NVDUyRU9DZXV2QmNQbTA5YjZ5TVd6Q0xYSWlPRThlU1Q5elEyUVdzVVZRWVZaZjZxR29xX1pJLVpEVTh3OFYyYUhvTkdQVk9jdE1OU0JNamRKWUhtUHFhX0c1TU1wU182UlE5TkpUODlDejd4RWZpLVlaZnRiMEQ0cy1JMXBDTzFGNS15OVdoT0wxVEh6MndvZkstaWtENmJEaHA3T0twNllRZHJGdi1LMTlMY191NTRONENZaWp3Y2FhREcteEtyQmt6TW5NMjJpRWhnaEFuNUVyZkFCSHA5QS1sYy1UenQ3ZTRGdm8wU1pBdTZPdGFtTjROV1hmZ2tyOVhsRlVaQ284TUl0WHQ2U2dWY1lTV0lQbzh0dE1KdGVyMGF5TEs1VFA0VkxWNkREdmJxUldsNUItWG1KeG9faUNiM2hFZ3BxNThab2JEZjJ6VG4xRi16bFlIbDZEeDZMX2dlVmh2Y3JxQjRwaXo5d2lkMFhhUUJ2Ulkwckt2XzNmWURaNi1ZQm42eUs5Vk5vTHN0RHBIWG5uOWdDQUk0SXJpa1pvckwyU05lMDRxcmtRUlRrb0FQazc4dXNqN3QwRXlSbXBCMVpRbmI0b21la25ZWlhVVUJ3RDFkSUhOUHM?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 20:54:00 GMT",
+        "discovered": "2026-10-07T01:06:20.897153+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "يلا كورة يكشف.. 4 لاعبين من الزمالك ينضمون لمعسكر مباراة الأهلي يلاكورة",
+        "player": "",
+        "content_hash": "fb1869bb10934bab654d32d8f6a2805c4c6d958147c50ce03d3c42e8038794bb",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 9204,
         "title": "لاعب ريال مدريد السابق: رفضت الانتقال إلى برشلونة من أجل عائلتي - 365Scores",
