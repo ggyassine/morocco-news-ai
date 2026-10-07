@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T03:01:49.997498+00:00",
+  "updated": "2026-10-07T03:21:35.265769+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -528,22 +528,6 @@
         "summary": "جدل في المغرب بشأن الزيادة الجديدة في أسعار المحروقات سكاي نيوز عربية",
         "player": "",
         "content_hash": "424d41dbe058c0ff14ee78d33bf2d73955cca397b61a3ab82e0564f1582c515f",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 9115,
-        "title": "بعد آخر سهرة له بموازين.. فضل شاكر يحي أول حفلاته من الرياض - ar.le360.ma",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fbS1oY3RqZWw1WHp1U05oOTRNMTVodk5OdXRNeU5UZU51SFBWWldueUV1TTA0U1EzYmQzNmRaUzA4UTMtLW8zeVMwTzBSTE9QYW5ZLU1fWHBvZHJiNmtFMHhhQnc?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 00:57:30 GMT",
-        "discovered": "2026-10-06T15:45:00.621415+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "بعد آخر سهرة له بموازين.. فضل شاكر يحي أول حفلاته من الرياض ar.le360.ma",
-        "player": "رياض",
-        "content_hash": "9746931935cd78d4a1523887b634588ae92e6f561d0d0e645e45e3ac0e16c229",
         "sent": 0,
         "section": "morocco"
       }
@@ -1380,6 +1364,22 @@
         "summary": "يلا كورة يكشف.. 4 لاعبين من الزمالك ينضمون لمعسكر مباراة الأهلي يلاكورة",
         "player": "",
         "content_hash": "fb1869bb10934bab654d32d8f6a2805c4c6d958147c50ce03d3c42e8038794bb",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 9348,
+        "title": "رونالدو يكسر صمته: أخطأت بمغادرة المنتخب... وخيسوس لم يفِ بكلمته - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxOeVkyM0hFTm9MVDQxdVJvZVNfSl96dUJpbjFpMjFsMmJ0SDdBMmZGdGJsbFVyV1BjRXZKZ3BUMnZRQ21DS3E0NDVWNEtXLUFBbXFqbW0yRlh3Ul85RWpSVnY5eFpFdktIY0g5ejNVNE1ocmc0TjlfMzFfSmVHZHVzNV9Gai1oazRmWkxwNjZpYmZDTXJpdTIyc1E0b01aUXgxZVRUZHBaSjZ6WjZZZ1VyVE5yQ3BIdHVka1RCYklwSllyRzZZMWZqSjc2YjRTdkx2aHl0eXRZMVdqNklmTTFCcHl1RFMwcTd1Z1dVYjdaTElhcF91QU5hYUYxa2tfY2ZsdkhuRHVPeURUYXNua3R2WlBqaTRZNkJHeDRfRkZuM0pDSG4wams2dGdtOU1aeGdyVTV6NjNWb1QtSk5ub3NNWjlCZGM0M2dhTEk1UGFsRmFTNmt4S0RLMG84OEliMW5QQnVCQ0lGM0N1VXlOdUlHRUtWbFBzYjhGd0VLbm80d0NzUlNkUDN2ZVhsREd5bHB6QWZBdVVkQzE5ZHUyY19POUMybTFEd2t4QklVNTc5TFA0NFVCUXRKNXRnN2dTdXJncmdaRXV3YXRLcXN5bl9GSERWWndlSEZOeFhKSGY0VlJMTDA0MnBLUDMwb09RN3RidlRaRlYtWUo5MW9SMExVX1pvYUd1M0lFeEFBQm9DdmtSRFlCX19aY3BCUFlTRk9FRndyWGJmT1dFR3ZEMEdGNmZMOGZFdlFOMmFzYXgyT3JkTWlwR3lhUVF2NEdDV2dMWHRaQTVKMm91cXFIUlB6bHJpX0E3SDlMMW5VWjYxUlNpcFZmbl9WOQ?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 19:39:02 GMT",
+        "discovered": "2026-10-07T03:21:18.752167+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "رونالدو يكسر صمته: أخطأت بمغادرة المنتخب... وخيسوس لم يفِ بكلمته الشرق الأوسط",
+        "player": "",
+        "content_hash": "c6308b04de8994c61d36f0cb4dbac3f51add40fe25734174a6b655491e788682",
         "sent": 0,
         "section": "transfers"
       },
