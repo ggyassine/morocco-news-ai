@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T18:04:49.785516+00:00",
+  "updated": "2026-10-07T18:28:34.292542+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -436,22 +436,6 @@
         "section": "morocco"
       },
       {
-        "id": 9037,
-        "title": "مستشفى محمد السادس بوجدة على صفيح ساخن.. مواجهة مفتوحة بين الشغيلة والإدارة حول المستحقات - ar.le360.ma",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PdHdaNzk0Um90VTZieGJ0Qk01Rk9VLTFSZWJvZ3dTSHgxX0R2YjJHRWJMdFVpTm40Q00wMDQzZkhya1M4WVgyVE1uUG1MT2IxUF9UbWxvcDdfM1NNM1J2RlZRZFVPdw?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Tue, 06 Oct 2026 10:03:53 GMT",
-        "discovered": "2026-10-06T10:29:12.395488+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "مستشفى محمد السادس بوجدة على صفيح ساخن.. مواجهة مفتوحة بين الشغيلة والإدارة حول المستحقات ar.le360.ma",
-        "player": "",
-        "content_hash": "06784ed6199f32ca0a5c53f8a983f18f57801cec66fdac20696ebc112bd208e7",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 9057,
         "title": "من بعد شهور ديال الإضراب والتوقف.. المحاميين راجعين للمحاكم غدا والآلاف ديال الملفات الثقيلة كترجع للواجهة بانتظار الدفوعات والمرافعات والحسم فالقضايا العالقة - كود: جريدة إلكترونية مغربية شاملة. - كود",
         "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQalFkalhtdTd0X0JwMXJtQXE5TFRsMlY4bWdlZ1VYMnFqRkVYQnhrMnNzQloxX3dlS254NnFvMlB5dDBtUnExT1FmQTNSOVJrdW1KQ1hhLTBYYmNOT2JIMkVwa0hqdXdNNHBKelFtcGllei00anR5NHlMWjJVbnRkRzdjaFdwQXRxUmtHcjNJZWhsUnBSR3B1dy1XZ1lGZGljbWFWNHNKZjFvbU9JemFhclh3U1d1UlJyOEdscDk0bDJCZkgtaDFjejBfakZHS01Ma1JIZzlVRTYyR2I1a0tDMmlHV0dPclpSQU1GcU1HOWZZTkRQUWxUdnFlS1hEN2txQ1lmZ21LSGFWUmk3MGZjNG9NWE9Zei10bk5MWnMwYm1RQTU2bGlsUElQTFRRV1hhNkdsOUdmYUVlOWU2Q09BdEFtRElWQThFYW44?oc=5",
@@ -598,6 +582,22 @@
     ],
     "sports": [
       {
+        "id": 9539,
+        "title": "فيديوهات | ملخص فوز الأهلي على بترول أسيوط 5-0 (كأس عاصمة مصر) - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPLWdyT2RUTlREdEtlZXV1aVVydVZyNUQ3aXl3VUQ3TEZQTVZtZmVFNXp6STcycXkwalVkRDdNek1UY0hQLXFHQ1NvOERQYzAyeF9UaXFvdFJmNzExYW9iOXZDM3E4U2VNckRpNU5tMDRlUVVBZXplUHZwc2dtMHlCenNEYk5VeHJsTDhFRTR1X1VnbkJIS1FIQmRLRHkxd25QU1RkVHN5RkVWcko4Z0xGUmQ5NGZrWW5OM3NnVVlvYUNBQk1wY29nazF2TnlKODgyRlg5QkFDZUVSZkRUUC1jcHdaNVpESks0alpELTlESTJBMDlKMnVJR0dQbm5HX3liT1N5TnJZV2FlY3lEN0dTS0ZMQ2NhWFBvYkVCdmp5LVhzc21FSTFldDhpU0NUSnZKMm5ZcWdGaUl1WTlXa2dBV0NqZGR6TVQtZFRJNDBobm9JREcwRnpmdlRlbi1wRVVhckZ6UW5USzQxcExoN0pteDZtcGsybVJlMGlTLWRDTWNZaHpyQmc?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 18:21:00 GMT",
+        "discovered": "2026-10-07T18:28:18.041261+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديوهات | ملخص فوز الأهلي على بترول أسيوط 5-0 (كأس عاصمة مصر) FilGoal",
+        "player": "",
+        "content_hash": "2b1c855cb21862fffc5baf50a8c4655b621575c0ba03a5617a1cbb93c0e982cb",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9535,
         "title": "«السيادي» السعودي يعيد صياغة «الاقتصاد الرياضي العالمي» - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxNNHV4WXRXejBzaVE5ejNCa2lLMlVXa0RDaDhSWExVeDJza2FzN3RvSC02dzRrTE9NcVpkTTA5cVpTMk9WQy04Tm5BUjRvQTJ3VVJOMjZXeHkwT1E5QUdhWE1DdmdGVFlrU2xxc2tNVE5wd3g3VzVIVjdLQ1N0SkcwaHdzUEZCSGNiVlk2YUlCT2dJczJiQ3RlVHZaQ2M3M2laOTVvXzdoZEI2VmhNRDBtTFNvSWNGVWVHOFFzVlZJZE5Kcy15ZlBETVgxSnlRZHdoeTdQS2tBMk5seThTOU5SbGMyd1lTbkRINnNBRXl0ZTFiRnpkazFoWEN0Unc2M29mQVFkRDFIMk1Ta28telFKUTA2TDhBUkRvVFZGUGV4YV9CYWxVRGY0QjlvZGh4YTNVcGE5M0doSmJndHM1bHpuQkhfNnphRy1XVHc2cFZGMlRrYXpheHpVT2lEMzM4VGpmc2FiLXlmVEZiTkpoaFVHZTdKeV9WWlFHM2ZJLTRUQWpZaWc0NU8yUUZ3My0zcHhFNllxcEEyd01aUVJJdE5LMjNQQ0tOZ0F6N1NVMldncE4yU1A5cG5QUXpnekNWem1SOGlIcWx1TWtIaGRkU2dvZXNTSUl5TkVRVkxpR3BtTnpSaUdwcUtSSkVIWFlFaEYzZXN0WVBBX0pGTnlKeThaWDl3dGxRY05Nbkl3WmhIT3V3ajNGNXZ1Y2tVa09BVFVEbmpWQ2pjNVUwMHJNdFRXeTliSFlvZTB3MDVLRldZdTdDb0c4?oc=5",
@@ -626,6 +626,22 @@
         "summary": "فيديوهات | هدف زد الأول ضد الزمالك - مروان حجيج (كأس عاصمة مصر) FilGoal",
         "player": "",
         "content_hash": "8ec39279bc5735debbbda538c721caf1dcd97e4e3d77355f0bfdaf1198c6a217",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9538,
+        "title": "إلغاء المؤتمر الصحفي عقب مباراة الأهلي وبترول أسيوط - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxPSjVRUjJKVUlCRXQxVHkxX0F3cUpXTklwbmFDWUw3aktsVW1mdDBnTmIxYktuTlFOdlRyd1E5OFp6M3R6cUxWdkl2MDBrQlJvYkZWZnZhVzRUOWt1cnpBVU1wN19WTnZpOEFJeEcxSVZYdDctT1RmQ0JhdGVBcGVvVzJlZ0JYMjhxb19rYVd2M0lLWDR0elBjc2VNSk43ODhxQmpDdmhDUFhFakYySHRtS3l1WmpRS0Y0RndJQ1dUeldhdHZLTjUtY3JMQ19WZUZvQUlCMGNfTFZ5bUJDVjZfX2tlUXpVaTBDNnBaZ21Nd01rM2xVZnlsbHZjYkYyWVhSeTVXdk8zVU5iVlNXbmpaM3NVT3BfMm5NcWtCdlJfemN4SjlNTVpmQ2MwVU5Qdl9VREJRcFE4UHNrOVhKMG1vWDNTVFJCMVRJellnT2hDX3hkWE5DckltdU1BS1owRkgybzU5R0Y2Y1ZyQ25kY0RMbUNRU3QxZW4xeVRLMVV6WGwwUlgtQlc1Zlo0TWtxQk0tNTVFcXV2SkN2dnRYUlZ6VWxXOC15eGlNSlVwMTlFZzlDM2tTeXBhdFhzUldZV0hNdnlDUnlPanVtRzZGYlliazlxR2dUMWR2cVHSAd8DQVVfeXFMT2hrN1ZrNVpqOFFJQU5kY1ZsV0UwOXFkY0VDOGxRX081cU1TLWU3X3NCQ0x5TFk3VVhkMHFBdGlya1U1bXpHM3ZxMlc0dWt5YnN5amtDOTdWYTY4MzFmYWZsdHNMR3VGZ0FZN3A1S3NFVUY1djNGRUs5enJYeEtYYUJVOHRsMTdyQnZiVDluUkR4M001T0pXeXU4cS1CZWdqVlZQeXpKNXpDSlhiMC02bkpjdkh1MVVkT0tiMWNtU1FwLTJZVmFELVBXeXFBU0NPZEZXSEdkb3VEMFJjLTNDU1NHdzJMTm81bXY1b2p2dlBHXzU0N3NzdWVlY09Fd1p1VFBnT19FandhbEZKQkRQUU8tMHhDZ1BKa0NTM0lua2JrU2Fybm9KR2U5TVB4X1g1TldXbWZ3bllVc0lTV2dzYTZEYzZTQ0EtbXFzMTlQa0pvVkp5dExxUHpyWkV0MEV6MmEwdVBSYTJDR3JpZXNjbUhEV2FIcDJSaWFvalNTbFludzRGcDluSlNIUmxCYVFGT0pCYThldzZKQzRBV0FVclRUMjdHQklvTFpxRFR6MnBpNXBBVnRkNlplNVhhYlh2N1V3WVBJQnpQc2k3dFlmYkIwLWNfV09NREsxeDZ5WG8?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 17:45:00 GMT",
+        "discovered": "2026-10-07T18:28:17.338176+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "إلغاء المؤتمر الصحفي عقب مباراة الأهلي وبترول أسيوط يلاكورة",
+        "player": "",
+        "content_hash": "b2637d3fd296c426eb16bcd744c7979d3e1e7c28ab0821aaaf2de5a8f4706fa8",
         "sent": 0,
         "section": "sports"
       },
@@ -882,6 +898,22 @@
         "summary": "بيراميدز يعبر القناة بثلاثية مثيرة في كأس الرابطة يلاكورة",
         "player": "",
         "content_hash": "996e723aa6373ec2bb685a10795ad34a6b8dc65adb26498d4c8114f0eaf61a88",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9537,
+        "title": "صحيفة الشرق الأوسط - رياضة / مانشستر سيتي قد يلعب دوري الأبطال حتى لو هبط - تطبيق نبض",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkOTY3QzZoY09mQ0VMQm5jYTZnNmRMQmpKX2V2b0lJM3VPSXdpUUV0R2pBeXRKdjZnblhLZWVuTFBYM0YyNl9aOHlSUXhQQWs?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 15:54:51 GMT",
+        "discovered": "2026-10-07T18:28:14.945738+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "صحيفة الشرق الأوسط - رياضة / مانشستر سيتي قد يلعب دوري الأبطال حتى لو هبط تطبيق نبض",
+        "player": "رياض",
+        "content_hash": "12547626e2a0eb52dae2751b9e7eee44c32e4b773b0cbce5e4250c6122632b8a",
         "sent": 0,
         "section": "sports"
       },
@@ -1348,57 +1380,25 @@
         "content_hash": "37d91a33d9398b57d74963cc81ce8aebb76bf2ed5a24b8534a91c8dceef1a392",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9447,
-        "title": "قبل مباراة خيتافي.. ارتفاع فرص مشاركة خوان جارسيا مع برشلونة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNNm4wMzU5eHlUTFIyVWFPa0laUzUxeDRUUThSV3R6M3Bkc0Q5cVB0dlQtdUJCLV8wUlRhOXlYN1BqUFFiVlE2c1hsWFdJSXVTa21yMnBQcVdERUhybFVCeE80QlF3d2lkOW4yX2xraDdJNXdCWldvTWJzZFRvbWRRNjBiOFN4UXFXMC1jOWc5LXdYVEpmd2ZJX05wQVcwUklrVjl6eUZEakk1Y1ZscEw1ekJtdGR6MG1Za0xYeG5jMUxoZ3pmcXpIRW9GRmRMa0NGazY3ak1jVjFNdzhoR1hzYkhNRlE3Rnhnb0FZd2FJblVQTEdZQ3hZVWhaX2VuWThrWmVRbW1DdVFOR2l1SlN4S2s0aVlkUmhnRXhBdkFyTk1VeWVMaHlhUkp5TWF1SUJGWjlyUFFfeUlLUnphdXN1SlNUWXhJS2pMbEtRU1lvSjV6ZUp5Uy14QlBCazN2Yi1hLURybjFSYk9GNS12X21oTFhSVEdROUxxMDFBQmppcEhSaGdSekNJRUR4YlpJa0hRNmNweE9wZ0VERUYyMWJXcmVLeWJCalhCVnlYdzVpcFVLaGdXSXpZZWhqTFEwbm5IY0hBRkViSDAwaUZXajhwU3pxNFR2RDlsdUpOVEVXek1HUklLQTBsSTZ3QTI4WHAxWElRY9IB-gNBVV95cUxPUXEtenZSVzluZk1raTdpZjVqOEhaM21nTHZxZ05MVjZyRG1QM2Z2cVVmVk9mdGwwRWF0ZHB2cTRiSkJRbXBvT3FMZENRNG5GVkFFcS13QTd4WTE1eVVyYUEwcklESV81S0MxLVhRU3pxOERIVE5fNW5vdkQ5UXo1a19lQ3Fuczc0aUpuUVBvQ0dUdHNfNmpWOUNBOE54TG95ZVZRSVhlcWNSdlNVcDh4Q3BMTm1Lakw1bjBCN2JWMWs0al9zSW44dXphTzEyMC1ZdHk4Y25fSnNnTlpDMGZMN25vM2E1VUNqeHhndUUwVkw5WGdFcGN4OUhhVHBXTnhtNUNhZzdob2lTUmttT2dBbThxcTlLLVRPa1NOMExhOVZCS25rTlNyQ3B6UllBM3loNE9ncEJWcHJlNl92YU5JVVlTR3BDS2NlQTNPbm9oR2p1YlRBM3gtM2FNeVk0R0NOaXpnYVlzZ0NMbUxVQWI3dGNzOHRWMnlCVEdIdUNkd05Zblljd1BiMjBhX1M3ZTczeUxQM0dRX3ptLXVleUd5VWdHOUhhTE4zNk9Eb214alNod0ZZcVlOcnhaamhDWTRfVlFhWWhvV2Q1M0xENGtkR3gyd2Y1RjVkZTJfUnNnNHlpano2WkpWOVFpdlY4VXFuOUljTnFLY0JHdw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 13:34:00 GMT",
-        "discovered": "2026-10-07T13:39:41.977632+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "قبل مباراة خيتافي.. ارتفاع فرص مشاركة خوان جارسيا مع برشلونة يلاكورة",
-        "player": "",
-        "content_hash": "42c98bd4027101b656c6d305f58443a87a5f49dec36883db4c2eee13399da21c",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9507,
-        "title": "كوريا الجنوبية تتجه لتقليص إعفاء الرياضيين من الخدمة العسكرية - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMihwVBVV95cUxNWUU3LWdnU3VBRFdhbko0cWE3b0ZkdldzcTNhd1VrMG1nRl83cU9kYmlZaXItbUl0MU4td0hlOUViUVJEaS1ITmpKYmEzMVhuRkMyYWZEcXh3a1RFbHdnbW5FamEzT09tT3NWZjJUUDhITE04MTB4ODBsTUlTaXlFeGVneVMzTmdlcEZzZklpSGluRGpvemNjUl9XaGZqVmVrX1ZzLWFmTGV5bkk4YV9KVUVEckZVMEZVY1JCaEhJVTZiek4yQ0wxc2ZoUDZ2OTlRcDRibmtKdTFBQm80SHRrMVAzd3V5Z2lGUG5kMW5kRjdVN1dxUWFOa1gxRDVYWTNlYkhhTjJIX1Y3UDVCekRtcUgtb3E1N240cFZSeFpZVGdjNW5SYVQwSk5BMVliMmcwUGhxWjQwc2VFSGwxblJUNnQzYmhkLS1RY25OMmF2a0RNcE04d1JlWE5hU1o3SVZpRnVfc29YRDJNNjB0WFJDWm45ZnRjMW5WWmtSejlqeXZWNTh2eU5Cemp3cURuM29uT3hrbFJ2U2psN3k5SzV5LUhwNkJEazNsRGN0MUNPVzJRa0VBSktnT0pvUFJkRm1OX0QxNUN2Rm9Na2lZcWZKYnpCbFVxTHRoaklKSnFIVjZoU3lRY045OW9Va0VzTUdOUEN0ZXR4VXU1WUQ1Y1FFS3R0NVJ2VW83Z21sd2NXVkhma21LbEZmTHh6N3hUTERyVU56dkIybVdzeWdLaWluR1ZFalJBY0ZyQUhXQmxPU25OOGh4WFQ3RnRjNWdCSEN0N1d4MnFMRGJSa2t2SDlhOFdjMEt5RGJYZ2dCUXhpNTZXcTk1SFkxd0F6YmJwNFZqUk5faGZsYw?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 13:24:49 GMT",
-        "discovered": "2026-10-07T16:36:19.977085+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كوريا الجنوبية تتجه لتقليص إعفاء الرياضيين من الخدمة العسكرية الشرق الأوسط",
-        "player": "رياض",
-        "content_hash": "555f302670b9c6c75d588e90f5ceb7dd6ab44ba02f372b422bcf6958431982b0",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9444,
-        "title": "رابطة الأندية تستجيب للزمالك.. دقيقة حداد على نصر إبراهيم قبل مباراة زد - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxQeTVkaVdWUm40ZWhpaWZOS3RKeVFSWF85MVVoMjNXWFV1ektiSElQbm9VYmdSeW5vWWtsdjdfX1RCRTFUTHl3RTdyZW9VdnJJc3ZDRE02SGlodzA1MWxxNWFOM0JuZUVKT0Y0R2tnWG9UQ28tSlh0WERYYlZJNXNCR2xRazc5cUNnNW5OWTlXWDZRbmVVYzJ2aEVSNlJKRnpOb0RTNGNFYWEwemprWDBfWnZGZEkzVHFJNTNha0VBajBVNEZ5bXU2ZmhJbTBxcExhREV6MXpRSHBWYzBrVDQ4ZGJ0cDBRbGM1V09mX1RhRnptSW9wd3NMRldKZTgwUGNOTThCa1JlWnVKbVlmSlFmZnp1YXhCdVp4N1dVQTR6X0hiNVpLczN3Y3Atc0FGb1MyMmtlX190eEF3QzZNSkJkMFVHU2xDMGlJeHAyTVl2TUlSU3lsaWo3LWNkSk40MThSZjF5MWRfcmE0REptaFJFS0c1N3ZDSUlvSjl1N2laZFpSbmw5dXRseXZnMzRDQWp1NThRNXNFeWhRcXV0WG12M1pwUEZhY0ZNSS0zTTk1c2lhOE1EVTRpNll2T1J5RGNDU3hheGxNZzhRb1lFRG8td3RRaUhOemk1VGVSMDV0VWFPTnBReTlDaDgtVXVmMXBMdkZZcFNFbUl4bUw4TDdQc0gtcVFmNVBIZlVFVlE0UmtTT3VobDVHNzkycml2S0FIVnFRQ0lfZGF6d3VrNU9LbXcyOTc2RWNlRUJxdzJzQnFDZzJsWWdTV3pVRFFQSlHSAdQEQVVfeXFMT21lemRXLWJSaGkwWFNTMXJkbFRhZmVJb1dhQU5YQldSeElfMUJCOTROUW5hRzNuU3VSclAxSHJsblNiaWxZOG1KWm8teGNGcFNRMWJBTGw2S0VWaVN3RWRXcmRNbThNeFdtcnpVR09pRDd1R2x1Z2pRaGJzbnhod3FaaVFnYmFJTVRJc084NC1xbnloVDVzNDM1OC04dGxtTG50NjFPUGVhU2VqMWZxQ3ltbU1nSUJjZmxVZzZOTkgyTXhHQ0U2MmRwVjltemZvX0hiYnFGZnZkb2t3YnJYbFJDUWhrZUVCOE4tdzNpTVl5eVRYUzZmQmNXMnE5SXB2RllZWGh0ZjFtMXdFeHV0ZU5tTU5QSWVnU1FrSmJJa1p2bjdJc19mY2dNSFlXZmU5anVILVhpY0lzX2lFM1AtTEJpdDJkRVUyT0FSU1dyUzdfcDA1VDdpWHZQYjA0Um5wOThlTDNJTnZONjZlLUdhZ3pjaWlzS1NmUjdRYjJyd1VER2hSVVk3RVdXTWdteUFuanNSQklQQnlHdUhJRjNDZjdZZkF3QmYxSGk5a29FZEJ5M2NwSnNxcVc3eWNUMFd5QlZHZjZTUjY5aWI5T3VKR2drazdjeEpIemRWVk1JbWM5eGJYbHBVWDRmbE5rbV8wTG0wQlBrVjc2cUFwR0dxMDFJLWdhRTlYdklJQ19TNVhELS1CZjF6cjF6NHE2MUlmV2lsVnkxWWR3WTEyZUg2WXpQX0E3cnZFNk1EOXRCQkxUTHF5SkpCZU12YlR6OV9STmhKNWw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 13:10:00 GMT",
-        "discovered": "2026-10-07T13:20:58.271485+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "رابطة الأندية تستجيب للزمالك.. دقيقة حداد على نصر إبراهيم قبل مباراة زد يلاكورة",
-        "player": "",
-        "content_hash": "2c04da9697f70def91876920af901cd93a056587c496e8400f62e5ea2ea68bdf",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 9541,
+        "title": "مفاجأة غير متوقعة.. دواء شائع للضغط قد يخفف أعراض ADHD - العربية",
+        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNc042VVVsbUJFN2o3RlR6UFNwTlgxVTVYNlM3TDFUcVZmY1dKX1ptbG1PRXFZLVdrREV0VlFQLTdDaHpVUHUzcFBZZEs3bVgwR3MtSDdPYWYzaWxWRm5nZy1JMlhVTUc5dVd2cWxrQi00VUs5R19yWXFQREtuNVJmUFAzX3oybUQ0dllRRHh2MGZyWFRMb3pFUXdFM1dhVWp1RkZkT2FmUlFJc1I0OHBZWFhvYlVPZjZ6WmRYU3VLNFNMbDE4aFNWZFlCR2lpUzQ2N3I3bDRlcmhxUTZmcXAtdjBBN1hwNi1LX0pqMmdTRVNNNDdtd21RbTJ1STRGaTZUQ2llemFKZ25MWV9YWXJUeWpYclNZMk10X3dsOW0yMHpPVEdQV0plNG95NWRaUjlxWjl1aVlEelE2eHpEVmtpUi0zQlR1emlxZnRhYXctTHV3bFExbGVVaWZyNm1ZNmFnc1JhbnEtNl9OXzNNcndIV254dlBTZTlLYWdqZl85aGNYcTc4bTk1MEpOMjM2ci1nWWJsUzAxaHloWV9zYWVwLTZpc1NLLUNpQkhEalEtRWtNd9IBtwNBVV95cUxOZGYtOUxPclc0UDR3OG5iT3ZLOUZKREZublVaUHBfdlVMNXRoLVU4OG1udU9NUHZKWDRjY2ZBbzlPZ3pLRG9zTVBlbUNBOHhzbTRTY1o1UlczZEhkT251VTZ2QTlzbVZpeEpCblloMWV2WWVweHR0OG1ZaDFKR2NhYTgtMHdYUjBxRVd4WXVhTG8tMEdzZG5NLVl3ZFAxRkVFWlJBT1IxaFlzbWxZRXlQS0V2MGtpSHdjcVk4V1NIalVBbkhlaktBWE1OT1I1ak00aEY1SUJCemsyMndZeng0T0U4bHprMVJqYmZISzBNWDQxSFVROGdtb2plT3BVRzgyR0JGU2o0V2tuZExpajBveXpIT21LalI0NjFvUmNxMXBmdV9RVmZMazRfR0Y4MFM3U0xtc3RIc2FYT3FKaU5LN3VTdXp4NGs0SHVDX19RczZxVXo1eE5fSHBzeElkbGMwR0paV2E1LUR4NGdDc3lJZXlIdDMwRmktSm1RRThnY29QSUJVLXdVMFNfbFlXNTkxU0tsNFhwai1JY3ZkLW5SWUwzUXhkZ3pfVkZxQ2xIOVFWQ3Z4aWY0?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Wed, 07 Oct 2026 15:53:00 GMT",
+        "discovered": "2026-10-07T18:28:25.914447+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "مفاجأة غير متوقعة.. دواء شائع للضغط قد يخفف أعراض ADHD العربية",
+        "player": "",
+        "content_hash": "37e9a2f21c071f247cd62c90c308f2ad7e7c9a23a5994ca001afe2a8bfa7d86f",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 9492,
         "title": "الصناعة الأولى للصفقة الجديدة.. الشحات يسجل هدفين في دقيقتين أمام بترول أسيوط - يلاكورة",
@@ -2232,25 +2232,25 @@
         "content_hash": "072c031524bf072e13419fa7d9f73a7f6497ef4014d48a6930d1cc0ad438f9ad",
         "sent": 0,
         "section": "middle_east"
-      },
-      {
-        "id": 9045,
-        "title": "بذور الشيا في الماء أم الحليب.. أيهما يعزز الهضم وحرق الدهون؟ - العربية",
-        "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxPRlJGZjVFMmYyTFBaMTJ5cFQ0alpWYXhSSXFEaERfdFAwdEt5UDZmemtYYlJRUjJTdWMzdlhhUUMxenQ3NVdoVGFya3ltbXZxdHRNN3NmUEVLc2t2WmVDTmdfNG1TampyU0FTNHRvRDhNdFpvUW1rWXZsNDg1SWpuWWh6em5IY19iVnhXc0Y4b3k0QjBWaDZVTXE2V3QwQmtpcVFGVTdLT2gzNzdieTNtWGk4ZjFDdDFqc0dZcHRxVHJTRG5zaFFIOW5qY0hTazE4LTNnZTE0T2tfWTV0NVhqOXZCMHc2N2F4ZnlUTTV0UFUyamtnMzRMWllBLWJyNC04MEhNQW1wSVdibkhETEJGeWtWUkNtUXFSYVg2LWstMHNBbVBGTV9BMTFWVG1ublZGanp2NnIwcVgtZmFYcWZWUGxLd191Tk9LUUtkQV9UNHpycDBMZFhJVDVMWmJ3RDVKRzB0cm94RkVwNnNhdEJZNmRSWDhrWl82cmZhemdGWExWQ3JBaUhWYXVGa0xGbWg0VjNKYU9nOXA0QmpZVTN0UEtpWVNUSHI3WmZkbXhJVnM2M1ozRnZ6bnBzQlFzTW40bkE1X2xKZldEanVJczZGa0lSMG42VnpSX1kyR2dSVlp0R1FOb29qRTZWc2FUNVNZSnJ4OFU3TdIB_ANBVV95cUxNU0ZUcGlnMklDS05sV1QzRElQZEJSdU1iREFuUmdHYV9yUVVBYUlnRE5zdFBoVURPOEkyMjFIMUpNOUlkQTNfbnJJM2tzUXNENVBVaWg0NEJDTjU3WXVGV29ZT2NCNS1yVXVEQmdhTmZnQkJXSkdENmc3OWg5aHNGZGZRN0tTMXR4Z1A0NzEtV2ZvbkQwMGpybWgzNkZDU1ZoTHgydkE2UHZ6d1NKLVA5c0ozdnpPOVhUaEFkS2F0YkdYWUtnNG96d05xUUFVUGZqYmQ3U0pObHk5cndaVEtFb0VtWjRqMnZvV2pLR0k4NmdVODJ1Mld6MXVzVTZwX25MMF9meHptb09Sb1RVUi1keHhjSTJLR3gxUXlGNVh5R05oWUdTOE85NEVMcUtqLWxDOG8xVVpBaVU1OWFNdG80UW9OTVM3SFUza29SM29vLXdOYmRRTUsxSlQ1b2x5ZDhqX1JVcDk2WE4wdzRnOVlLaGxndXFnNVoxZW5xU0NUbTNWUlUtSWlVR09oYVBINFljdWR5VlYtbFA4T25fUGZoNnlpeFJacmc3djNMcVl0SlMwVk1qeHA5aHRyTUtJLUtobDBRWU1KVi1weVdsNHpKT3JrTFkyUEQ2alUyU3RVRnlPXzdXTjJETFAxZnRFOHZ3RVRuaVlwd1pGME04?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 14:48:00 GMT",
-        "discovered": "2026-10-06T10:48:22.849658+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "بذور الشيا في الماء أم الحليب.. أيهما يعزز الهضم وحرق الدهون؟",
-        "player": "",
-        "content_hash": "91af2765d6f5e509371fd8060b84f2ba36b5d9f6c550349a18fde884423c4dca",
-        "sent": 0,
-        "section": "middle_east"
       }
     ],
     "world_arabic": [
+      {
+        "id": 9542,
+        "title": "هل ترسم نتائج الانتخابات الإسرائيلية المقبلة خط النهاية لحالة الحرب السائدة التي تنتهجها الحكومة الحالية؟ - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNVk9uYU42N3Q0R1NsOG5Sc1Niam13dVdPOU1HRzQwZDhRc0Z2V3NLYi1rQ1NlUXZNUUgwbFkxbk5paFV0XzVodHFfdHRoZndoTVJRRUJaSXZfa25jMk40dTU1OTAwZE05bHVGSEV6RXplQ0NGWm55Z2lha0RhdWNvZEF4dlJfcFRkSDYySkFua2VkbDVwdk9NbTIzVjd1MHgwcGVQTDRzazRHUDJRQmlXQlYwMzRTSW9EYlkyc2dUMkoxTzBVTTBIR1dEeGE2UzVFVS1XM3Y1VTZ5bnpNSjcxaWlYYWVsSGVQOEVfOUZkTVlzejNPeTFBY0Y3cWFQbXNQYjJscnZQejBOQ3JQc3V3YkhjZzk3MkFOUThuVkN4end5bGh1U0tPZlI0WHo3ZU9FS21KUU9xRGticjNib21YTnBqbS0?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 14:33:42 GMT",
+        "discovered": "2026-10-07T18:28:29.417326+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "هل ترسم نتائج الانتخابات الإسرائيلية المقبلة خط النهاية لحالة الحرب السائدة التي تنتهجها الحكومة الحالية؟ القدس العربي",
+        "player": "",
+        "content_hash": "4a095f4e8a66b3a068a4edba6665cda73ec5a0334caf796fcdb05ec3750f466b",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 9474,
         "title": "الأمين العام للتحالف العالمي من أجل فلسطين لـ\"القدس العربي\": غزة حركت ضمير العالم لكشف جرائم إسرائيل - القدس العربي",
