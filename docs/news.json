@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T05:40:46.072601+00:00",
+  "updated": "2026-10-07T05:56:03.791464+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -96,6 +96,22 @@
         "summary": "الصندوق المغربي للتقاعد يصرف معاشات المتقاعدين الجدد لقطاع التربية والتعليم Febrayer",
         "player": "",
         "content_hash": "9fc3d205a99136dd16cfb5459215eeac3dad1a790284fba075efeb59f3babda0",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 9371,
+        "title": "رئيس مجلس المستشارين يبرز بأروشا التجربة المغربية في تعزيز الحكامة وتمكين المواطنين والمجالات الترابية - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KUnpCNklaRjRka2t3akd5aTFiOFBXS2ZSY1ZIZWJTUHpaSDdwWGpqeEd1NjRDeGtRcUx1YkgwWmtlb1hrcmo0Q083VmU5MEp0NXNWZDM3eWZrNGY2MW9LRzBvd1ZPT3dj?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Tue, 06 Oct 2026 16:33:45 GMT",
+        "discovered": "2026-10-07T05:55:33.958485+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "رئيس مجلس المستشارين يبرز بأروشا التجربة المغربية في تعزيز الحكامة وتمكين المواطنين والمجالات الترابية Le 360 Arabe",
+        "player": "",
+        "content_hash": "3eb7e5a62d2e4bad8e85109e486ccda10e513f2df36980ff67c05b0e142e7d62",
         "sent": 0,
         "section": "morocco"
       },
@@ -324,6 +340,22 @@
         "section": "morocco"
       },
       {
+        "id": 9372,
+        "title": "أمطار رعدية وحرارة مرتفعة.. يوعابد: المغرب أمام أسبوع من التقلبات الجوية - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpb0Q0WjFNbG1USnVMTFZTZXBpMV9jZXhNTVo3ZTRaQ3lLX3dYOUJzeWxJTkhFM0prV29MQmF0SDZoSV9ucHZpUmJnXzZPaU53TUZrN0N3ckZoZXVhNFVrUXV4YjhMZw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Tue, 06 Oct 2026 02:31:15 GMT",
+        "discovered": "2026-10-07T05:55:34.140839+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "أمطار رعدية وحرارة مرتفعة.. يوعابد: المغرب أمام أسبوع من التقلبات الجوية Le 360 Arabe",
+        "player": "",
+        "content_hash": "51bb6130f0d82f43cb7c7289e023b9268fa33d8054a50b2bcd3acc09ad18811f",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
         "id": 9047,
         "title": "مؤشرات دولية ترجح تراجع أسعار الغازوال في المغرب خلال الأسابيع المقبلة؟ – اليوم 24 - اليوم 24",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1KRzUzZm9ZcFdxSDA3VHRNVWNpNVdwNFBiTTQwdU9uRTA4OUlmZW1ZSjlIUV82OUhaNm9XMVBGemJBRHpPUy1EYU1R?oc=5",
@@ -432,6 +464,22 @@
         "summary": "انطلاق أشغال الجمعية العامة الـ153 للاتحاد البرلماني الدولي بمشاركة المغرب | MapNews",
         "player": "",
         "content_hash": "a00a169865c20f29524dbe44ad1f368ff4ebc5149165677482dfcc287bf04159",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 9373,
+        "title": "بقيمة 1.52 مليار درهم.. ملعب فاس الكبير يدخل مرحلة جديدة من التأهيل استعدادا لمونديال 2030 - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kNUp0NDhxSE1FYUF1dWxyOHRObDg0WjhacXh0NjB5bGhXZk9iR2ljTzN2VjJSNVp6eUkzZXR4UF8zMTdqQ0hQaklQTjV6OG1lMDZDWFB5VkM4T25iSVZBa0MtaDhOZjA?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Mon, 05 Oct 2026 21:10:42 GMT",
+        "discovered": "2026-10-07T05:55:34.417500+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "بقيمة 1.52 مليار درهم.. ملعب فاس الكبير يدخل مرحلة جديدة من التأهيل استعدادا لمونديال 2030 Le 360 Arabe",
+        "player": "",
+        "content_hash": "28892bc67ded02e55ae15c820ac7b1a1f27f89c7e8d93e3dc0bd14303df52cbb",
         "sent": 0,
         "section": "morocco"
       },
@@ -1030,6 +1078,22 @@
         "section": "sports"
       },
       {
+        "id": 9374,
+        "title": "تشكيل الأرجنتين - ميسي أساسي في مباراة الوداع ضد بنين - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Xcl9rZ3d0ampNQV9aWWwwTXIzR3hxdDdSNU13NVdRUEhVR1RIUVV1dzhQVjdlakN3c1pCUXlTMVJqMkM4RWR6dTZ1UGFyZnpL0gG6A0FVX3lxTE5DazJXampaRkFzRWN1RGZub28yWThHTHBNcktUZV90NEFCcVgtS1NMVGJERlc1NDh2c2VZbTRKc1hCUUZqaGU4SDBNU0lwUE45aFdmeDR0YnVBZ0xyZlNsYW5RaHRSRWlBUHRBd0ZTQXdqNTdTSGpLR1NvbWJLMXFFVlR1MHg0RVBQT3dDUUVRSkFPSVg1dHN3ZEs0b1JibnNmdkpsdkdna1hpd2xCTFBJWWxiQ3J2R2YyQjNLQlpfeVpyMnAwV3ItSVM4eFg4dGNkYjdKVjRSNk9sUzJWNmVnTVlrV2NtTVZtUmctb3loazNOX0o0aTU5RVpxcTR1dEZrOVd0d3phWEprNEpBUjYxR3BSOHBRcm8yT3RrU3pOVGItNjBxRTVQM1hXaGlhQUlPellzX2tUSlZBUWtnei1QdThta0NJOXpRQ2cxN3Q0bFRKbkpaU29OMlVEWU4tZDluWndGR3BjRV9BYzFWUXIybWJhMURHa0xsRWZRZU92T09WT1pXUjVvWmR4ejBjR0pOelhkSHdjUHZod3dybVRMWnpUdmI1cV9xZUJ2bjhnUnk2QUIzdU5XOUE?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 06 Oct 2026 22:19:00 GMT",
+        "discovered": "2026-10-07T05:55:47.452078+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تشكيل الأرجنتين - ميسي أساسي في مباراة الوداع ضد بنين FilGoal",
+        "player": "",
+        "content_hash": "3335c9434b30d98b2a8652a93f23650be4e5caac59c15fb6cf793d7a280097c5",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9341,
         "title": "تشكيل الأرجنتين - ميسي أساسي في مباراة الوداع ضد بنين - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNNkFuWWNsZ1NFVXkyMjU0bkhwbWc3UEVaZ05DUDl1SE1FUi1fS2l3RUs0V09TUUZWODVMX2JQVHRreGdySjc3aG1BTjRPNlFPNXRMaDE5bFpTaFRiUUwwdGdqSEQwVEM2NXUtcDFnT1B2S2hSanpPQV9kNUhGZ3JFZ2ZIeC1zT3dYUklkUzRrREJneFhNa0lHZUl5YTJhdUwtSWRmV2Y4UTlnLTJIeWtFc1RXVm0xLUliYXoxUUtSbmktbXhvTmt3M1RaX1lYbXlVRFZZOFA4WmhuYzZWYk1DWkljejFBWTk5djNxNlBreWJzU0J4VkpoM3ljWUQ2eEpKcGJWOFdTYW51Mk45YmdOLThFZjZnY1VqM1RjOEtscWM3Ri1NaGtXazhSbEdrRS1rUTdoYVdjSXg1Z2VLUG1rZ2g0SDVWQ1F3S01EcHBfVlAxS1EtLWRRVDdEVGhRb2NoNDNJX1JuTm14NTFlakRubUltYS14MXZsS0dBRlBrX055SWZteDJ4TXVqWVlGWXUxbk5JMmkzcEZKRzFPY1Iwa3pJeWEwZmMyTjVCTDk2RXVfUDBZ0gG6A0FVX3lxTE5DazJXampaRkFzRWN1RGZub28yWThHTHBNcktUZV90NEFCcVgtS1NMVGJERlc1NDh2c2VZbTRKc1hCUUZqaGU4SDBNU0lwUE45aFdmeDR0YnVBZ0xyZlNsYW5RaHRSRWlBUHRBd0ZTQXdqNTdTSGpLR1NvbWJLMXFFVlR1MHg0RVBQT3dDUUVRSkFPSVg1dHN3ZEs0b1JibnNmdkpsdkdna1hpd2xCTFBJWWxiQ3J2R2YyQjNLQlpfeVpyMnAwV3ItSVM4eFg4dGNkYjdKVjRSNk9sUzJWNmVnTVlrV2NtTVZtUmctb3loazNOX0o0aTU5RVpxcTR1dEZrOVd0d3phWEprNEpBUjYxR3BSOHBRcm8yT3RrU3pOVGItNjBxRTVQM1hXaGlhQUlPellzX2tUSlZBUWtnei1QdThta0NJOXpRQ2cxN3Q0bFRKbkpaU29OMlVEWU4tZDluWndGR3BjRV9BYzFWUXIybWJhMURHa0xsRWZRZU92T09WT1pXUjVvWmR4ejBjR0pOelhkSHdjUHZod3dybVRMWnpUdmI1cV9xZUJ2bjhnUnk2QUIzdU5XOUE?oc=5",
@@ -1298,22 +1362,6 @@
         "summary": "مواعيد ونتائج مباريات كأس العالم 2022/2022 يلاكورة",
         "player": "",
         "content_hash": "7d80f8d079ab559300b1a08575c4b07fe3a791e1ed8d2a5aa83f0cbc02db28b2",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9279,
-        "title": "مواعيد و نتائج مباريات كأس الأمم الأفريقية 2025 - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNYkRXNTc1dnJOY196VE1keXdPRW5SSF9hcUhITjdQdHRsNGg1NS02NXJ4dElOWm1GRHVNUThDVmdkcEdzOGlnZW5jZFZ5X05EQVd0bVU1UEZuQWs2U3dlM3FTOFg2ckl5cENWeWJfZVRxaUJTeE0wQ1ByaXk0dnpzZTlPS2t1OGtRcGdvMDc5SmZScVJ0WnBER1lSXzBaVENpWmpUOER5WmRsZERSLUhPWDdlWWRFcWtUbnI5Z05FQ1RkSnZwby1GSERldG5OaGhOZW9kTmhwSG9OOTVGUDJLUWFJNGZaUWxPMFpWWV9qZnE3d24zNGhOWHp0ci03LXAwcHhMRzVfRTZ6b09BUDVVem95YWd0LUtPTTJydW9EWUlndWw3V3poeWluVnNKdzZTaUg3RWpTRDVNOTJWOEMxTzZQLXYyeGpsb3JSZFhOWGhGbE5sVGNvUTZmeDBXbWdpcUtJX1VrMl9SSVE?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 21:03:35 GMT",
-        "discovered": "2026-10-06T22:48:06.929287+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مواعيد و نتائج مباريات كأس الأمم الأفريقية 2025 يلاكورة",
-        "player": "",
-        "content_hash": "8d4ed66e8781b2fc778209443ad58a573de80880f6c10ad5e8f11a4a373884ff",
         "sent": 0,
         "section": "sports"
       }
@@ -1912,22 +1960,6 @@
         "section": "transfers"
       },
       {
-        "id": 8874,
-        "title": "أمين شياخة على رادار ناديين بالدوري الألماني قبل ميركاتو يناير - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPSE13ZmxlVFpJQXV5NDQxM0xwakZhbVFYQlJfdGhRVXRQZDl5M2JUY05SN1I1ZHBGRVZvYnRwMHlqOU9GMnRqejktV1c0M2JONXpsSmd2NVkyck5WOGYzcWxhTDhub3liaHllUWpkVkt4MTk4Tm1vY2VOSE9VdlJTOFJZUWJGQzFaMk1wOEZOOEhnVDhQdFlPbFlNeF9UYVpQdmFpa1JRLXpZSXVFU0pZUWNWYUh3X1VwTUwtVi1zYmZhdFM1Uzl2dEpTSWhNWEJ3YVE2eGNJdXlwb0Q0NDVjZC1qWU0wTTZDdmlNS0s3djRsdWNUZEdQaTNVbDVXRmdUaXpjcFJGdWM3eUgtOWdwNXdRTDRhUmpmdjJrOGhpckczUmI1YVRqZVltLU92eTdQYmd5VXpJWFZ0d2xPNy1HV01jaEd0Qzhsa0p6S1FLUWdtbUFENmtRRERiTklZQlk?oc=5",
-        "source": "365Scores انتقالات",
-        "trust": "C",
-        "published": "Mon, 05 Oct 2026 19:00:05 GMT",
-        "discovered": "2026-10-05T21:32:59.797223+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "أمين شياخة على رادار ناديين بالدوري الألماني قبل ميركاتو يناير 365Scores",
-        "player": "",
-        "content_hash": "34a8ec573e3292a23894eb3ee4687aa138aad00e917485daf476ffac9f1a9d40",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 8889,
         "title": "ما لا يخبرك به أحد عن الجوز.. التوقيت أهم مما تتوقع - alarabiya.net",
         "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNa2Z3ajZiYVBDRThBQ3JDTi1YRGxkWWNNeDRmeXoySjcxS1pyTkxrN2NzUUw2U2Q0MEJpYUIxaXBUZ3JkSXpSWXRTN1QxeklXb0g1TjJNTFdEMnkyY2tPc2xHMUgwNHE2cThzRHlnWjVBYnFoeXMwc0lWanpSamU3eGF4eEN1LWFmSUdBWHp3aFB0RFV5aW5JenZJeXhkdTQ2WTBTVlhHRFBrc0NlMURaVkpPVDBjYmdfZVVXMjBuUTIyRFBZbUFFLU1BektCRlFlNDFYUUNwQ3hiUzdRTjVSOU5TTEJpUmlUNVI1M1dhTC0xQ2dDQm5HLWNOalhVWmlYSjNKc0hnaTJFR1pmN0hocks4WWdybDF0SlBvdXRiVjVpd0E4V0h3VHdOSUY4T1ZIalpObUNhenNqVG42YUE4dDFJRVBUOFhYQ0dRQUp4Vi00WThxempnR1BiRUtNVmpQNGNibFJ4RWI2Q1hfV2VFOEN2YVZRZVJtc0lzdDR1MkZqT0tTMXQ5bnZqOXN0ZFV6UG5QdGwzTk9HUzFpN0JSLXRCNGZ5QzFydmxFeTFR0gGzA0FVX3lxTE92akp0N0ZWa0c0Qlp2ekJLRHkxLXpubVJBM1hJek9uSThUYzNnSzR2V1Z6VUU0TlNQOVMyOGhYLXctdGMtR0VsYzc4T2NidHRXVUE3V2toRVRWZ1ZqX0dsN0tRT3VBeXNzOF9tZlJMMmJoTmt4eC1vOXdrTFZ5QTR0UG1IZUstNHIwVzVkTWFCOFk5aG1TOE80Si1PUjBCcDdxVlVEMngwM2hyTzMtOVNOU2dpRGVYRzRaRzNyNzZIOC1fSkxOR0VhZ3JDOU5xYXB3WUpvVXktQl9zU3dqbFBMNkRLUnhEMWFKdXczRmliQm9Lc1VnUHgyQXo4YVNkNUtCRFBhM3RFeFprQjBLVlFUSm9LQllELURFcUVXeURNYllKS2VrMjdfRFNqV1NVNTQ1ZlhjTUQyc1pfUDlaWFlDM1lySy1kZVMzMU96bDhJMDRWSzAwblhnd2k5OFJON3IwVUMyajBkSjNMWF9LT2Q0R0dHbExGeDNuTmNmYzFtbkMyN1hIN1l4UXZWQjV2RWxOb001TUdRai0ySks3VEZzUHRkbmhRR2ZyeW9pLXpuRHM2NA?oc=5",
@@ -1990,25 +2022,25 @@
         "content_hash": "63bd9529f520e86e4561e4cb55ff62efb88206ee5cd4fa6903de06be0dbfe340",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 8960,
-        "title": "بورصة الدار البيضاء تستهل تداولاتها على وقع الارتفاع - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxOeFlOcTZtbko0RlExX3ZwcE5nMTRLNDJYQVFGZERSbkdONFRvQVh2cXBtVngyYTNiYllCRXJnVTdiNHZueGtlS0gwQXlvZGVJSmxRWTVIWVU1cS12SGhaSmhQa1VBNVZ2d2gzckxlTFJsUmRPRW5SbmVIcVU2Qm0wRXNNVlhZV3ZqZ0hYemdLZjlIVkFXLVhuQVlSMHBHRmxDbXZrb0pmWF9vcnV5bVJPb3haVWhSZGQ1cnF2M2laN0ZzR09ZbHZiVHd3bXZfVHlranhzU2huYTFGXzc3LU80NmN1cERlUjUyQ0h0M3YzVUFXdzJ6eTRUczRvemNkbzRRZE40dlNiSUJaYk9KVzM1LTVfSkNVM21mYXhJTk9sWlNmMC1pMVhoODRnQmhlOGFZMXc4YWJyOGlmakRQWHpnRHhGQzlHUFBIUTRDbzFRZENLNGtiNlNlRlZrSENONTNCWjlBY1l0T2h4VVZ0cE1rMjktTkxmbTRnV2ZJWjB2Z2JfLU5rQ281YXdqWUJmNnczU3Ztc0NhUDR2Y1ZiZ3ItSUQ4cFZMWV9tT29NeEZ5VnlrVUFJbW1FcEdVYzFhdmxFUl8xeWxZQklzMHdHaEJEcmVEeEQ0Zjg3MUFPOFZ4Q3h6YWN3NGhYeVI2aXpqb3BuZ2dsZA?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Mon, 05 Oct 2026 11:47:50 GMT",
-        "discovered": "2026-10-06T03:55:02.380519+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "بورصة الدار البيضاء تستهل تداولاتها على وقع الارتفاع | MapNews",
-        "player": "",
-        "content_hash": "53437b74b0b3e7f111d37caa2673969dbe56357044c6ac8561a6a29c7c852737",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
+      {
+        "id": 9375,
+        "title": "«التحالف»: تدمير باليستي أطلقه الحوثيون باتجاه خميس مشيط وآخر شمال الرياض - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMiwgVBVV95cUxNNl80WHRBanZrWkJ2SFhCdnJxOERacHNUOGZpVjUxVG9hOVFsM2REZWZ6dmxHbkFBY0pwaG5jYWloN21VYzZKNDFyQXRTdGZvQ2t5NDVnSU1UYlpkWTl0N3l2bFFYT1NwbEFoX1pTQ2JlUTk4N1ptTjJDWVVZWFU0Q2ZXWVFuczJvZWM3Vjl5QkVZdjFZTkVlQXl3VXJEbFF4aEkwT3NfT19VbkF0blJwMDVPOS1zU2JreGoyYnh5YWJ5YUtaa2taMWtMQlAwVmVNRDQzeG1OVzlzUWpSeDdQbUJ3Z09Jc0Nab3RVNjVMVHR4bkZuQzVJZmdhRExjaEMzdW4yd25fbHVCVlBCNEM0Z29qOUV1UkxPa1FFZmVMckRYQ1ZVdkJCanBpWnJKWTRKaFRtaXpvRE0xTjlwSjY4ZFluMmFvLV9YdnJseWFoM1E4WWRBVDYtVzdQdjFMbENzR0E4MXJnU3lROWRDdEVZTk9XOU1nMGdTSU9KMndXN2lXbi04V01pd21YMWpDU2NxQXY1NlFKOU9NT3NpQk11eWVhNHRNRXRpWjZfanVvcEU2ZGluRVNoUVJoeHZNNjFtbmRWQm5yaG9vVThvMEhlMjhHWnlFQUMydzJUSnBqNFp2RkVXbWpiV21WaTYycWdRM1g1MGJMc0FTR0ZBQmk3RHEzbDdhZk1uTURKMlV3QWh0b2ZJbTlROUJzYTFKRlNhRHExb3I4WEFHYi04QUQtOEpJXzVJS0FaSU9MUVJjbV9NSW11QnhEajFKNG5RZzZ0Vlh2UDE4cW5UbmZlTGtlX0xqRUZONC1WS1RxaHBxVVItVHNwMGFUa1FLRkJUck9xOUZLYmlwU0VJSVRLc1hicHNzNUJGd283RVpwcWtEa21IdldhWG5MTWhuUml1bXhrbG5WNDBLWVZvTDk4MElkNjhR?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Tue, 06 Oct 2026 21:51:29 GMT",
+        "discovered": "2026-10-07T05:55:57.261179+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "«التحالف»: تدمير باليستي أطلقه الحوثيون باتجاه خميس مشيط وآخر شمال الرياض الشرق الأوسط",
+        "player": "رياض",
+        "content_hash": "deaac351d712328f00c71fd439a125e243006fb769978a4e4a6921ae4f75f643",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 9317,
         "title": "عُمان: إجلاء أفراد طاقم سفينة تجارية تعرضت إلى هجوم أثناء عبورها هرمز - العربية",
@@ -2102,22 +2134,6 @@
         "summary": "حوار فلسطيني لتأجيل الانتخابات أم لخطّة إنقاذ؟ العربي الجديد",
         "player": "",
         "content_hash": "d52a3c4cffa11f75e2b00b0ec1e4c9ec9b083a2017ece02256f04b2da36e642a",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 8875,
-        "title": "الريال البرازيلي يقفز بـ5% بعد تقدم بولسونارو في الجولة الأولى من الانتخابات - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOZC1fWjJRc2FuanhWT2dmT0l0d2xITUc1czUyd0FSV1NWSkZna0NlR1JvT0tsLTdMd09CQmZJRXh2UTVJcG5XXzloc01abWNwaDV6a3ZZNGFhNzJiOUpCbDdZeWVlTC15SDBPSzM3Wlo2U2RoMU1PaVhqN3R2WDh0cVcxLTVQUGIyTlNWZFphYTJGaEFRZnlBNXl1bDdnR0IzVVVKemtaT3hyZkJua0dJM0tHY3k5bFZ2Q1hqeU9SWnFieUJwdmQzbEtNeDVpQnpiaXd2YmlQYXhEN1E2RHg5ZmNDU1lLQk1EdlBBNGNoNkcweEwyU3BZUzcxbTlabnZ0MWJmck5UTUV1NGxGWjkxV0RXMm54Ym1aYUtRejF0aEctU2xXUmhOX2kwM3QyRWhEYmfSAbcCQVVfeXFMUG1xWWlINFg2cElCZWN5TlJpdWQ2QmlRcW00ckZ3U0dmVXd4aHBjZ3FBMTdLaXlnd09SZzNZVU93ODE4UERDTmJobVVLOHZDamEzWllyc0VFdkFUcHVjUml5NFNRUThaTUdvNElBUFlRdHRLdWxBc1VXcjVVVzJEek5Ocl9zNjBWS1BUeTZlX1N6SHd4UEhEWU9tVnlTZ25NOTZQcUNVcUd2clJhXzByajlabjVmNFI0bWZtNW0weUZvQS1lWS0zZ0hUb1pPS09ndEdLRTZjQmhaWFdvbnhEXzBaVkdhRW1SQzhscElUbDBodnJKcGdwLXktb1gxemgwYlJwTXFTaGx1dTVCeU9SLUZRRHFuVXI2NklydDRBMEdLa2FMUGNtZ2pTR0MzeXZOX0ZPYTZQelE?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 19:30:00 GMT",
-        "discovered": "2026-10-05T21:33:01.484371+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "الريال البرازيلي يقفز بـ5% بعد تقدم بولسونارو في الجولة الأولى من الانتخابات الجزيرة نت",
-        "player": "",
-        "content_hash": "435d53f854024a1ea1747336a961c852c3d2ef2cd14471e52dba8a3897424b95",
         "sent": 0,
         "section": "middle_east"
       },
@@ -2392,22 +2408,6 @@
         "summary": "عندما لا يكفي النمو: السكن والتضخم أبرز تحديات سانشيز قبل الانتخابات Euronews.com",
         "player": "",
         "content_hash": "a14536a9cffa60ec5c67201634e16332ac507bfe9e802fca1acd8b4d46a7ffec",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 9005,
-        "title": "اجتماع للجان \"اتفاقية مكة\" في الرياض اليوم، والقوات اليمنية تنفّذ 1,122 عملية ضد الحوثيين - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CWXlYRTBlZmxnenRCN2NBMmlTaW55dTVfQzdiX09lYVpxR0hFRm1tYmFtX1V0ajJCVk50YUdhZVJJWUxSM2RZdFlOYnl2TUV2Y1k1M2FvdXdaclltNWc?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 14:25:01 GMT",
-        "discovered": "2026-10-06T07:25:16.038850+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "اجتماع للجان \"اتفاقية مكة\" في الرياض اليوم، والقوات اليمنية تنفّذ 1,122 عملية ضد الحوثيين BBC",
-        "player": "رياض",
-        "content_hash": "270922ab0d7787f54a16decd62030bb6a2c2feb4adeb5dd10637fcfbead77826",
         "sent": 0,
         "section": "world_arabic"
       }
