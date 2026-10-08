@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T06:02:01.458377+00:00",
+  "updated": "2026-10-08T06:28:32.045235+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -112,6 +112,22 @@
         "summary": "الدار البيضاء تتقدم 31 مركزا في مؤشر المدن العالمية لأوكسفورد إيكونوميكس Le 360 Arabe",
         "player": "",
         "content_hash": "dab85f2b95a69a3fe4f6a8299547b5f006040db019d055a633fb73a3d20a1658",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 9703,
+        "title": "النجم الهندي يويو هوني سينغ يواصل انفتاحه على الموسيقى المغربية بتعاون جديد مع جيلان وبيتهوفن - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSb25Bc0hpSl9lY1V0TF9MV2Vod3VfSGttMnRPdF91SlNLTU9idERfSFJETWtpS0lnd1ZJRlRVSF8yYkpYUk15SlB2ODBkTm16a3k4NkVjajRNTnZtMkE5TWo0MDk?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Wed, 07 Oct 2026 09:17:52 GMT",
+        "discovered": "2026-10-08T06:28:02.600523+00:00",
+        "category": "أخبار المغرب",
+        "status": "منفي",
+        "summary": "النجم الهندي يويو هوني سينغ يواصل انفتاحه على الموسيقى المغربية بتعاون جديد مع جيلان وبيتهوفن Le 360 Arabe",
+        "player": "",
+        "content_hash": "d4503a484fa74f46ee61eb9869667ae5fa06c74e4e9d2377a16633a49fd159af",
         "sent": 0,
         "section": "morocco"
       },
@@ -480,6 +496,22 @@
         "summary": "المغرب وفرنسا يشيدان بمستوى النضج الذي بلغته شراكتهما الثنائية في مجال الهجرة (بلاغ مشترك) | MapNews",
         "player": "",
         "content_hash": "d4a8b31bcdc766dbc0e9debaa048db632c6f58c5d2616ea744256f2e9238467e",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 9701,
+        "title": "خمسة مرشحين لرئاسة مجلس النواب - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rMnh3d0hyODJpOWZDXy01Y0JPTWkyM0lkdVhUdXFrekpYVmJBQ3ZTeEoySmZ0VWoxSm9aaE5WTVM4Z1RUdnJwSVJ3RTBXMjhBVVBpQnFwRkZrSi1uNUs3QVJadllfLU9h?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Mon, 05 Oct 2026 21:27:52 GMT",
+        "discovered": "2026-10-08T06:28:02.595365+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "خمسة مرشحين لرئاسة مجلس النواب Le 360 Arabe",
+        "player": "",
+        "content_hash": "eea6a4e2bd40879578c89255ea415d88e9bbc1f12b365c0d9c0dcbd76b467eb8",
         "sent": 0,
         "section": "morocco"
       },
@@ -1848,22 +1880,6 @@
         "section": "transfers"
       },
       {
-        "id": 9204,
-        "title": "لاعب ريال مدريد السابق: رفضت الانتقال إلى برشلونة من أجل عائلتي - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQTkRrcENjMjh4aXJKaU15Y1Z0NkVZWTRnU3p0QUJXdHVZM0ZuWmtGVDdFVmFCeVRGTlgtLUw0TDZZa0tPcm5FU2FHY0dTelJIcmhwNUo5V2k1NHRkaHZiSnNaejlXS3pzM3lSX1R2TGNyRkRpSTBQRDBTOFlLTFlHZEJ2MzM1cVFmUGdMZUk4SG8ybmRGS3dJT1E5VURlandTaHJ2cE1IT0tuRVBCR1lSQUp6STkwaUhKMlVYNzZ4eUVocTRnMFdfVjM5RWpFa2Rna2hSZDg3ajJZdHN0dVg3YjFKc0ZGejdDOWhuX251VHpyc2VqcWl0My1YVFBsLUhDQWRGOUFWZnN2QTV5ZjE2bF85bmJwYzh6MXo5RnBZVl84NjYtc1hNX1ZmZ1ZIT0RfU0dpTzY5a3NuVXhYUTRId1IzdHN4RjZabHV6RjNiOUpCTU5hN09VSkpka0FYeUU?oc=5",
-        "source": "365Scores انتقالات",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 19:13:17 GMT",
-        "discovered": "2026-10-06T19:20:33.780186+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "لاعب ريال مدريد السابق: رفضت الانتقال إلى برشلونة من أجل عائلتي 365Scores",
-        "player": "",
-        "content_hash": "48acfa28891c536d78ecbb0cf7d164054c4ad680e7ffa69fd3d4b1f39a52690d",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 9254,
         "title": "محمود صلاح نجم شمال إفريقيا \"صفقة مُجمدة\" تنتظر إشارة عموتة - الشرق رياضة",
         "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxQRVZERml3LXhkRlRQRTBjblpkTmxzRHZnSTR3eml3eldZR1BsdVZUZnVGLXBYREZmNFRDQ3ptMFZudVdtWDhOaTVHNWhGRGJ0RjBmVXhLdThsYnhpbTl3Z0FId0tjNmE0UVV5NU1GaXl4dS1UMlN3TjlVdjFWd1dMaUZBd1kzLWlfOGdCaWwzVzhHZGFaTjU1NmtGVEFzdnUxV3F1LWQzTlBRWWdtdm13OHlURGRVSzc3RkJrblZoUzJGRjdWaUMweUdsNGpGVUFweDltR19nZ2w0Sm83YmlvMGZpalVKbTQ1VnJwMVFzR2JlT0ZpelZkSXBzODlOYWJfbGY4Z2ozbnhVNGt4TGVKREFUeER4QUxDQ3I1MTJxVXZZenNtM3NpYnVFbnp1NEdoMWR2V0xuMm1SMW8ybzlPN2YxZkRJc0hvVC03SEdvRmlqVTVfWTZwZE1QUkJtZ2ZZbVdGclJ5QTdvQ0M1bGZDcnVqbnhheDRONFNwVGFDc0JhSGJNTUhLZVJfZ3BjenhpNE9XV2h3U0NzeUZEWjNqNHg5WEN4aFlscDdVSjlmcW53dzdoVmhJYnhOZVhNbGtaeDQ0b3ZPR3NSTlRBR2NKMjZnXzRpY29sWG4yQkpjdw?oc=5",
@@ -1988,22 +2004,6 @@
         "summary": "قتال شمال إثيوبيا.. هل تشعل التحالفات المعقدة حربًا إقليمية في القرن الأفريقي؟",
         "player": "",
         "content_hash": "4ae2482030abb2cbbc009e93ca803821d37177bbd3a80a9b010d1affdb082cc3",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 9642,
-        "title": "ما لا يخبرك به أحد عن الجوز.. التوقيت أهم مما تتوقع - العربية",
-        "url": "https://news.google.com/rss/articles/CBMimwRBVV95cUxOcE9vZmJpcklNd1pPTWR0d21hY1A3N3dvcTVPVndGdC15TjM1MFcxOGp0cjlocXZOR3V6emlybHB6dUtXZWNaZHg4eG1tTV95UTBVTnFTM1ItcmdLb2ZFaTdMQ0Nzb3FlRkVKeTMyY1Q2d2w3TmNsQnhSZTBjclRhdndrSkJrV1ltVTBONTRMSGV3SzVXdXQzSW5CcWEzRW9fQ2c3bjNvMEZKeWF1WVpDMmlwSW12eWRoOGs3WmI4WlJENUYzXzI0UFRVV0ZjbTlNMXBMTEpRMUFCQjFGbzNGaXJUVHR6cDFScEtrdkhWSWltWUZjTE4yd2RMNThoYUdEMnBVZ3RyMXlIQzdzR01zRy1KYXdxTXh4WGFXbFJIcFNFeWxGQzFIbHpJNHVHVkpBM1FZX3hWQ1lsTTRvZUZiRF9HMk1yRWxNN3ZKeWZ0VzVHLU5qM2xTbXZTeTBhbjdnNDY2Smh4RGVCdm5LTVdvYS1leG9MdXhHczl0X1BqeDNoYmhBRlRrc0R5SGFhWFhfMVI2Y3RRTVZBX3J4bk1FbmlCR1Flb0R6MVpYaGlwS3hmeVRFdHZIcVZSY00zZzY5OWM0cWg2VVRXbzlXd0NXM2FlV1NZMHU0R01qN0NYeHRKX1RnZk10TUc2TjlFS19KZzFKMkJSMGpYTGpkeDBmR3BTbEg2YS1xLU1iSVozdmYwQ0l4N3VtMTR3NNIBswNBVV95cUxPdmpKdDdGVmtHNEJadnpCS0R5MS16bm1SQTNYSXpPbkk4VGMzZ0s0dldWelVFNE5TUDlTMjhoWC13LXRjLUdFbGM3OE9jYnR0V1VBN1draEVUVmdWal9HbDdLUU91QXlzczhfbWZSTDJiaE5reHgtbzl3a0xWeUE0dFBtSGVLLTRyMFc1ZE1hQjhZOWhtUzhPNEotT1IwQnA3cVZVRDJ4MDNock8zLTlTTlNnaURlWEc0Wkczcjc2SDgtX0pMTkdFYWdyQzlOcWFwd1lKb1V5LUJfc1N3amxQTDZES1J4RDFhSnV3M0ZpYkJvS3NVZ1B4MkF6OGFTZDVLQkRQYTN0RXhaa0IwS1ZRVEpvS0JZRC1ERXFFV3lETWJZSktlazI3X0RTaldTVTU0NWZYY01EMnNaX1A5WlhZQzNZckstZGVTMzFPemw4STA0VkswMG5YZ3dpOThSTjdyMFVDMmowZEozTFhfS09kNEdHR2xMRngzbk5jZmMxbW5DMjdYSDdZeFF2VkI1dkVsTm9NNU1HUWotMkpLN1RGc1B0ZG5oUUdmcnlvaS16bkRzNjQ?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 17:51:00 GMT",
-        "discovered": "2026-10-07T23:44:14.773713+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "ما لا يخبرك به أحد عن الجوز.. التوقيت أهم مما تتوقع العربية",
-        "player": "",
-        "content_hash": "8dd66a7c2d202b8fb18508a6b836d7daeebf9e73b459d7b154ea6265b6271193",
         "sent": 0,
         "section": "transfers"
       }
