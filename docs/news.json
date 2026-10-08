@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-08T10:35:04.529319+00:00",
+  "updated": "2026-10-08T10:52:54.844498+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 9759,
+        "title": "بنك المغرب يخفض رسوم التبادل على الأداء بالبطاقة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NLWtuSzU4Tzl3ZWZvN0Z6aDR0NUpzbkFLdjFFY2c2TGRXRjJsOVBHak1fcGx3akNMQlNfN1RVb2kyNVVlbXAwTQ?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 10:33:27 GMT",
+        "discovered": "2026-10-08T10:52:33.514726+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "بنك المغرب يخفض رسوم التبادل على الأداء بالبطاقة Febrayer",
+        "player": "",
+        "content_hash": "6ffdb591599b304e1abcd0addd208188998010d8689afa0db66788b4936be0fd",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 9743,
         "title": "الحوثيون يعلنون استهداف مطار الرياض بالسعودية - Febrayer",
@@ -450,22 +466,6 @@
         "content_hash": "971b72cc6fa6ed7e2596850631aab49f1e5d8fdf7433550e25a3c125f42d2f4f",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 9338,
-        "title": "التضخم في المغرب.. دوافع عودة منحنى الأسعار إلى الصعود بحلول 2027 - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOWm41R1IzU3NzTGg2ejlTVWtPb091cGI0NWRiaDhhMUNxWkUzSHdwZUZob21OWXFwTktKaWpJUUw4UUlnS1BxaE1zRDU4YV9IUUtHWEQ5cHQ5VnBVaEt1U19MakgwcVU?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Tue, 06 Oct 2026 12:22:08 GMT",
-        "discovered": "2026-10-07T01:56:33.248338+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "التضخم في المغرب.. دوافع عودة منحنى الأسعار إلى الصعود بحلول 2027 Le 360 Arabe",
-        "player": "",
-        "content_hash": "934e72816e7b3f8c906e4f6effaec11f911b0a058087ae6050c77a6b5e12d4dd",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -546,6 +546,22 @@
         "summary": "بعد ميسي ورونالدو.. من يرث عرش كرة القدم؟ سكاي نيوز عربية",
         "player": "",
         "content_hash": "b9fdbf39c893ae7cefc65d78c15bce584bf74f9023927db599f4543071aeb76c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9761,
+        "title": "لقب أفريقيا بين المغرب والسنغال أمام «كاس» اليوم - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxQVE1POVV2VFFOZzVWWU5XVmlVeWRFLVpacTNkV2MyYk54RlVwS2JMRTR2QnF5SENObGNDNXNjdGlyemQyVVoydUlsNHE4UUZiYlhuZVdJVkctanJQbk5QXzdvcWc5SEduXzBYMTRRN3dSeUxVUUh5dTBocFcyWXlpdjJ5OUdtbUEwbTFLNlppdDlneUNLT2sxSmRNTF9SZ0lraTVIclVHVk03UmZwSE5XSWVfMjRYUUpCb1gwRzVMYm5sbGFhTXVZY00xVEJqMkc5d0xYNmIyODBFQ3BpSEpWaUpjU25iNHhpU3U4QzFUcVdpSmEwQTEyZWE2VW9nU1k5RFhRaURmYmZWZEFoUEsyMkppd1RwZEtlQ2p3ekswSWJwRWFwRHJfSHV3dGxNMF9HOTNfakIzWDhXSy1BcUpndmIyOTBadDRqVTlyWmlVVGpxVG43ZUJFODhOd2YxQzNmN2xhZGVlSXVhRnc3dGVUVnFaV0JnZDVQOGo5M1dOLVR0LVY4WElKWjdhZVI4MVVIeHNDNE95N3h0UmlrTi1kdEdDa1RIejZuQjEwdmwzUW9kTFBqbnlxUy1BVjFUalhmakl4RWtac1YxVEhab0hab0tWeWZlTmRGd3p0LTBVdzNWaXVHcE5udmhHYVhoWFpVbWFwc0FaNFA1a2M5ZlN0bDlUclhsaDVGeGJqZlFydlNlbmFTcmc?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 09:25:13 GMT",
+        "discovered": "2026-10-08T10:52:38.362844+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لقب أفريقيا بين المغرب والسنغال أمام «كاس» اليوم الشرق الأوسط",
+        "player": "",
+        "content_hash": "55cee051938512619c6ea8762bfae04283236491ee317ca74b4475d5bf60a583",
         "sent": 0,
         "section": "sports"
       },
@@ -1250,22 +1266,6 @@
         "summary": "مواعيد ونتائج مباريات كأس العالم 2022/2022 يلاكورة",
         "player": "",
         "content_hash": "7d80f8d079ab559300b1a08575c4b07fe3a791e1ed8d2a5aa83f0cbc02db28b2",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9650,
-        "title": "فيديوهات | ملخص فوز زد على الزمالك 3-0 (كأس عاصمة مصر) - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQUHB1RmtGSGlsY2R4NDZmaXBNVlpKcjdDRUVYRXJIZnJubXQ5a09pMVFoQVpBNm44UG5PYlZfMF90MWNxa2xfN1VMeFlMUm9Ba2FmV2RoQzZiLVVXNW8xZnpwV1kyQU9EMkE2T19Xa1pzbEFyZEtqLTJSM1lVeUgyY1d3ZnF6NFF3ZThLRlhwdkpIUnZFeGdxNXVaR3NlaGVQc3JOV2tXN3VPem9jbjJMYmJLVkRRX2cyb05Ccnd1TTdCRnVaQVJGS3V4a0FXaGwxcHZTR0NKTklvWUZwUDRYM1RheXU5UHN4NDVXNHZCbEJURHVlN0N3bmtWQXR4VUpIcm1KekQxVjN1UkdtU05KSGswamlKRmhOMnhDMU1WbEQtRlVzQkJaTWJqbWJ4ejBsUmlhMk54X3JUM2E5bUh3SF9EVDVVY19UeHBRQg?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 21:05:00 GMT",
-        "discovered": "2026-10-08T00:12:10.293347+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديوهات | ملخص فوز زد على الزمالك 3-0 (كأس عاصمة مصر) FilGoal",
-        "player": "",
-        "content_hash": "e6701d2965596edb68f62b101959298f717716f050993067363e2b096ddfed21",
         "sent": 0,
         "section": "sports"
       }
