@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T21:08:10.151167+00:00",
+  "updated": "2026-10-08T21:27:28.280363+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -80,6 +80,22 @@
         "summary": "نشرة إنذارية تحذر من زخات رعدية بعدد من مناطق المغرب Febrayer",
         "player": "",
         "content_hash": "b567c6b87605e325219376c52303165e18169133fbcc79679daee4921ad44e2b",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 9936,
+        "title": "استكمال تلقيح الأطفال سلاح المغرب لمواجهة عودة الدفتيريا - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxQOTZWTmhEMjFYM3RHTUlhbkxPZzBpOU1pU2NhTWNBa05FSlFRekpudl8ta3k3OHlnaWxCYTdSdkdWVFZVSm5UbDhNY0xpUXpwaTJHMHJ0dkFNOEh6WTFFUTlPSUNpdHREZ3UwYXpKVlhZLWduSzlDa1F1RUhyblZSOUppb1hWRXVjVHQ4Z2FBOWtVMFdTWC1vMXVXbm5FYVlsNHhqU0IwRXRERXpjSVVYRnNnM3hhNXJENWxpOWdXckJEbWwyVE1mbUI1WE5oeWlVVF9RR25WZzlwS0dQREh2bk56aFF5Zk9mam9HTlhsMG5HNzBlTkpDOV92ODhfeGc5elFNTGNHXzBYZDNhWllzLV9DNzJIWmw4OWQyWGhaRHNGVjRDV0FIeGxDTlowNHExX3MzSDRuQWFHaVltNWR0T1hyREhZVXd0UmxIdjNMNFlGNzl4XzZVMzc2c01nSWgzZG9vY2hfQXNXcFNCOWFzdGFHT3R0MXNOTU8xckRRMzhGVVgwZUREc0NiVkdPVHF1UVE3djVsWlI3d0RyWC0telpQc3BsVlkzV0RSZG02RjBxelFidlpyYW02VHBLcFdhQldOVENLeHRyMnQ4dlZHZ1lVbnB3TnQ3YllF?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 15:23:14 GMT",
+        "discovered": "2026-10-08T21:27:22.991654+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "استكمال تلقيح الأطفال سلاح المغرب لمواجهة عودة الدفتيريا العربي الجديد",
+        "player": "",
+        "content_hash": "1aafe0255edf8c43bea9e93dc3a04a5c1eb75bae39da673817853ba4c1f0a720",
         "sent": 0,
         "section": "morocco"
       },
@@ -418,25 +434,41 @@
         "content_hash": "76a3e2eb3607c1e8403083be54d19e29f5be6a54361e849d19d8326da36ad2f7",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 9452,
-        "title": "«إف-16 بلوك 72» المغربية تنجح في أول اختبار جوي تمهيداً للتسليم - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IeV9rbm5MUmhhUWNYcUQzMENINGlyR3lqLTc2eE9JQ1JsQXBoWXlkWjRhTVpIRThGckxsMmpadkZnc25fRFFXTQ?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 14:01:01 GMT",
-        "discovered": "2026-10-07T14:11:31.948223+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "«إف-16 بلوك 72» المغربية تنجح في أول اختبار جوي تمهيداً للتسليم Febrayer",
-        "player": "",
-        "content_hash": "d76e7f0fb60c5f2d3822871ed661819b3d9a55b706a852603faa4165c9163b43",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 9934,
+        "title": "أحمد رؤوف يكشف موقف حمزة عبد الكريم من المشاركة في أمم إفريقا وكأس العالم للشباب - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi9ARBVV95cUxNZzBCcHYxbFJjNHZlcF82OGI2enMySW9zSUNDcUZPRHREaHJmbUZrcW9udHZ5bTRTOHFwM0xIdnBjcnNrRnpack9XTVJVTDY1Q0g1ZlNJMExLSGRzNHlnQnZWQXo2c3Zlamk0RG1EV3ptRDdzYkYtOWNkbndVLUNfUmlsV0tEaWhFd2MyNUQ1cmNwT04zTXlsSjBaTUZraXZ6TnQ1VjBvVWp1S19aemlQSmpMRk0wb243S3RRYnRENzJTd0lKa1hnaFJfbU9XUWJSVV9aOElIUU8wUVFhMlYtRmV0OEJKT3hLS1Q1ODBKUlI2eWhjdlppTEdmTGJhY3ZmX2dDdTZGNnBkZUVqUDd5MGJqc0FFZUNoTjZzUjVqdnJoaTBzY2x5dlAtbEEyMWNLdHhEdUNYdnZzWTRSMzVScjY1d1dLNW4weDlFb1V3ODJwS0Q2eFRubXdxcmhUUXhaWmpsZlJhVnpkeEpGbUlzeXQ5WE8yaHRYblNTZ1FONmVEajJ5N2xnQW5iOWJDNDYzeldFdE5BcWI5MHFQN1hhZjhaV2Z6NlRJbmVGSjVxR0hPbGtoTDhtdGppZTlNT2llMk1TSjR2OWNQWUxQNDhvT2t3cnM4UmxlZGdSOUY2VkdSU0doMERtd3NOLU1qd3Y0WUFYaExCQXhkalVaTWRlUkNuenBLVU1WS19UYXN6ekpTdXRMVnFVczg1UFVFMWNZaHhlU3Y1alVRNjNmLUxad1pJNVZQMDdBRGZ6MzZhVTFsek9mTFpycFF2VHAyc21Zc1JpbnJoMVMzT0QzZlk4VDRFeE1ETFM2QUlpMkJNZ1ZvQlVJ0gH6BEFVX3lxTE55VmtpUE52dDZ3enEtRDg5dEMwd0VaTm1wWXBVc192aWhZbnpDMkZzS1JOVU05cHpFUnRIbHByTGU2RTZkNHItbUV6MF84cThEeUNKMnJhUWFpMHdRT2I1cGEzY3ZwRFpwVmNpNzI1MjhwdG1hSHFHcUNHeG1hR2RZSUVSM19TbEhvSlJ6X0g0c082Wmo2WXhKQUxRejFmRzJQLUMtdGowWG5WbjdGemFrcmh4UURMY1phRjZZNnZvSnpReGtNZTlTdm1CbjZJOXMtYnNqWHRkWThDcmowRFpoRlVLMXZPTHVfdHhQanQ5NGdDNVMzNDhLYVFuV29JXzh5YzU2TUtuS3RHWjVHZUxVTzUwYmFMZXFIV3FFT3BzdDBYeEs1ZnF4c1VIZXdIZlJhQ0h1NFdsNWtRU0l1d05BX2wtM0FNdmt4Um5heW03bXJfUk1QZGxaZ2pOWUlTWk5RaHB3SngwR3d0Qk8yWURKTF93YWNQR2RjSTRpV1FndW90TEE2MEFORXRLa2lBZXFhYW5TMG9DMFl5dXpUam1NS2poWWhHOUI1dmZyU19oNVl6bmtBMU54NUdveVFQYndPckFKSmoxMlU5dXNQdldhbmx6Q2YxTnZMOU40Y2UyVzh2RW5qTzBQdEhsNGRtM1FmQy0yYTQ1RTQtNS1ZNU9aTEt0WE9jTHYyWU9xNFh4VGZqQVBGS2dBaG5INW9VZmZWSjJjemkyTHpXY1p5Q2JjX0VqWnZJZXR3NEl2LURDcHA4VWh2b2lOalhHVl84MHNPd29HdzBPUlNXbTFrYjlhelFmWDllbk4wYk5NUUpRSVdPeHhjSXRYdmc?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 21:10:00 GMT",
+        "discovered": "2026-10-08T21:27:13.271299+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أحمد رؤوف يكشف موقف حمزة عبد الكريم من المشاركة في أمم إفريقا وكأس العالم للشباب FilGoal",
+        "player": "",
+        "content_hash": "88e1460d3c87c98ce88c676e67f729c2c576e062e1ff417424d0aa6e6b78b774",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9932,
+        "title": "بينها هيثم حسن.. 6 ملفات ساخنة تضع مدرب سيلتك في ورطة - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQVnpiVll5RkNQZkZhY3l3ZEZ6LVlUWVNoXzkwOHdwRVp2OFZvTE1XWmo5WFFMTGRwbVp0czg1T3BrY1B2T2IySjJtNVgyc0JoVHZDaWdPRVA4UmNvQ1AxWTRwU3otbGFoUGwzaDc3TjdGZWJFWnpJT3lZT1BmZ1lSa0NEVDY3dVNuaHFIeUVzU3ZMWkkydjl0NWVIZkE0ZEFic0pHTzBUdHBPU1l0aUNuMzlNaEUtUHZOZzJZVWF4WnJCTnJUUkZmaEpObEsxR3Zhak4zd3hpZTF1di1BMkxrX0hqS1RDWlM3MWlHYjktdzN5eFhuaV9SV1ZoQUFyM1V3OHN3clNJZnJKZGNreTQtWnlXMTBtVlA2OW9xUmFEZENaNklyTE9RN3RzUVlxOHh1TF9IVGJoMkhVblVueFF4RjhMZVJtazB2Tm05WVJpal9UbmxaZjlsdUtTVkFFRDQzUi0wLVl5VXE0Mms3Ry1qS0VDOHNFQ3c4dFFCaGdvZGdNcEJ4NjVab1ByVnZDTzdlNkU0NkNVZ25ZakhMZW5heDB5OVBKc0ZyRkR5Ni10dVEzNjR10gG6A0FVX3lxTE5nX3hDN1lEdzVDS1BZRVJ3b1RRSVd3dnVrQTExWk1INGp4LThjVC1zald4TmYxSGp4Z1dJZkFTVFFfS1lzYXdmOFZrRUZSQS1kUXA2YWlMTDB1eDQ3aFRNSlc4TzRBMXNmNzEyY2I5ekJuTTZOZV9wYkwwSmlIY1JLRTF2LWREV05fLS03RDNtTlljSF9TMUVkWEtqOEYxRmZaTGU5YnJnNERUUmxsN2lWdy1CVWQ2ckxkS2tGcmJVQVhoZkQxTkNPeE1sT2ZMV2lObmk0LTV6aUt4bXRZRXF4ckY5UGRZbmlsRENhemdkV2wtWUgzekxNc09yb1dpMWFVc1BmQndZUW1CcVZYZHVpbmJxR1RuQ0Z3MGp6Y3ZxUFNOZzVtOVN3c1FoeDdXZjl5NTFSWlpGR05NT1Q3ZU1hMWd6Y2tsRDR5UWFJbUx4Z0pWcTJaWU5VcXJ2bG9NeS1zSkJKTWlTMThTNzFTN0VpN1lHZTZIcWVnSnA1TTY5MGMzZkZteVYzOHJ5YUp1Zzk4QVBpM3JlaXFubmhXbHo0UDc2Q09QZFJmemgwRXJfa2RMQno4TENUT2c?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 20:46:00 GMT",
+        "discovered": "2026-10-08T21:27:12.570844+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بينها هيثم حسن.. 6 ملفات ساخنة تضع مدرب سيلتك في ورطة يلاكورة",
+        "player": "",
+        "content_hash": "fb33d31ee6087e2a657bc8fe28941402c8c9556d4f76eea20b3f7da645b010ab",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9920,
         "title": "دوري «الثانية» السعودي للسيدات: 25 فريقاً... والانطلاقة في 6 نوفمبر - الشرق الأوسط",
@@ -838,6 +870,22 @@
         "section": "sports"
       },
       {
+        "id": 9933,
+        "title": "أبرزهم ثنائي أرسنال وهالاند.. التشكيل الأمثل قبل الجولة السادسة من فانتازي الدوري الإنجليزي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi0wVBVV95cUxNdjR3QVJLT2txc1ByenR3TDdULUlzUGhDQTU1WHNBeWF2RjY2NmhmVUxrMGNOS3dCV3BSVVAwZUh4TkZOSXZhZWtrazdPVDN5VkdpWkswZFM0Z1dlNVVJNUphLXZtdE83dHAyTm5XWFBRUFltYXJHZ3B5Y3FpVy1TX1htcXdITUJQT1BOanNEMFNlNW5vWFMycTkzOWtGQ3NPcnBkZFJLQkdabmYzUmM0SThGRWd4WHJJUmRQUnFFNm5PclJHRjQ5bGlvWlBhTUFaZ2ZOdVB6dk9IUGJuVm5ZTGtlR0R3VE1Rd01mRjh0TlZXaThiZXRlSWlqZm5SSi1HdTZsWFhVbnMtb3RqbDB1bGhDa0NQeFNjN182OWxhUEVET2NTOEhvTTV5QTFtZkJkU0lONU5xSXJ5VU9NY181elk2NlBFUFVDUGE3end1cHdNb1d0TkpzWEt6OWpaTkx5RjhFTXUzZmw0UGttNzd3c0lNdVFXcDE4Q1JENVd2ekRSMDBhMzI4YnYwY2VpWjF0emJhY3lFUmtjT1oxSnA3eTRDQ01Nc2hib0tpclJTa1FjVi1CZ3JsanVDbjVhT0xOT3lJUnY4LS1RQVQ3ZWRZaXBQTnRRN3FEaG5mbFVkbVMwanN1a3dxZHRRdExQQl9qR0FScVZYQnVxWUw2TVFEZmdJYU1WdVVxQTJGWjk1RzNDa0NsQ0pSc1JMSVVqR0xycVRPYnZOZlZKZ0NzWEs2Wm9XcHJOR2paZHRFaDA2bkxKdzJHUTc4SXVwUFhMWm5icXhpbDFrNUhjdTFTS3NabzM0UEU5SElqWkFpRnlaNUVPSGMzSXNyS3dsMEE0RlUyZlBGNWJhaEhRMUNUdld3Rk1GcDVpcFV3dzYxTGZLVG9TamV1VFZmdFhiVThlX1NOY3hUV21fUGFGOFZlQktaZmVLb19XcXJNWjdiWUtzY0N6bDDSAdgFQVVfeXFMTVRwRFpFWDdDaUlPcDd2bjZ0QndYMXRrTGJySDdIRGtydG5Rc1NNMktaWHZPckJYRURMY0ZQNUlKdWFXWXJVWGhFaFNwdHI3MjFKTk1YTmllaUNUZnpUZUJyNUNiUlpIY1RaLUUwd2wybVZpRV82MFh5eE90ZTZpdGZCYU1YeER0dG52VmRKNkxSRm5lN1ROZ1RCQWRLX3cwMHBJa1pYdEF6VVVEVmVUOExZU093Nm1HTTFDZm5KdzFSblZsVWVIRVFjak5ab3c5YkhZakFHcG9rVV9nRS1rc2FBMnVxVkMzTWZnM04yUFplNDRYaUF6YlBxTFRvc3gtbS1sN3JuNUZmcU5vRGo2SHUxRDc0MGhFUVpEUVVFUEVoejVYekhyUEZfaDZnTkQ4SWhVTGtIWC1GUzV4Skp5R1Z6T2FTVEZvSFROUk55RkcwMjZsbkZpNWF3dDgyR2NzMVplSUlqODNHUlFieVZZTGpnRlVpQk5oUWY1UHcyRmNMNjhBRVNJUWkyR3h5ZVBSZkZ6QlBBWUpyRTB0UlVkMTFvaHlPdWN3SkJyTzBVOFZQZmpKaDQ1bWFjbGROQW1xTURKOWthNGQ2bXJpRWxXT1lUVXNoVjF0UHVxamZqVHZ5ODU1aFBwcWpDU1lZZ0FtdkNnNWQ2VmMwS0tRVlNZY3VlSDdBNk96UEt0NnZBdnBLTzI3aTZlOXktNnhVSHdqOHBLYUlXeE1mcU5TRHN1WUYyNGVFb1hoZGJHSTVNYjJObUVjdUhwQ3had1daOFJ5QXl0RFlRd19JaVktZ1lNZEppTW8xMnlleTgtTElSV1A2VGwwNEpveHpIeG1YU3dody1xRTVRY2l0MjlhT1A3M1hDZ3NvY0FJcjFIaUt4Wm1XUjZZb3BWZ3J4SFFjSV9qUWo0NHcyRm9KWlJOMlZKTjBQdmFUclhhTGU1WXR1U0V5MVd0cm1yMkw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 17:15:00 GMT",
+        "discovered": "2026-10-08T21:27:12.587200+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أبرزهم ثنائي أرسنال وهالاند.. التشكيل الأمثل قبل الجولة السادسة من فانتازي الدوري الإنجليزي يلاكورة",
+        "player": "",
+        "content_hash": "dc6b6fe31f663f28d1d27e5ec0f8359852a3406d2c945792dacf5baf9f0f76b8",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9861,
         "title": "الأهلي يتأهل رسميا إلى نصف نهائي بطولة أفريقيا لكرة اليد - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxOS1FuaHQ0Q0V3WTJNd2V5WllKdldZWVpXUXBleG4zMWRBeU1mVmtxUlhWWmZIbmZUcE16TkZrcWJPcFVQcU1FeDlFeEZYTWt2a2ZGWGx3ZE5ueDFXMVVjUTcxYWZfZXlkdk1xSE9Sc01IZU14Y0xZZDlLOUdBbjBxd0puY2t0eDQyYW9zLXhWMXFmSFQwRk9VTXktREtfcWR4Yll3TGIwanVIU1hpUE1CY0ZlMUFCcjhnaUcyNEVvRElzcXFlSWpFczNEckhjM3J3LVlySkc1WGlvWlBjZG91alo4Unlqa2FyVGpyN25CeVEwZTlra1F1TmRNSHo3RmhBWG9aUm9LQXNGSVBmbFlvR2w4VFdPVnR2d1pfQll5Tmw2LWE1MllvN1RuR2VCZzhMazVZUl9yYWdtRERRNlRoUUtiOGdsRU11N1JFREhkakV6MWxmVEFiUlhWczZNbGt1VjZIeGpMNDlfYlZzNHlCYndlcHNoZTJLa0tIQUlKTE0xS3JBQkNGbUlwYlEyVnE4NUEtOWdZTmp0aVlIa1VBcnJJanlfT1lMSTFKbEJSME1kc0xvenJvT203VjU3NFRLb1JjU1pFRUctc0I4dzZFUWw1cHU3Tm5UMFlDYk5YM3NPRTkxLWwxY18yX29qa3kxV184OHVuVndoUXJlSF9zZTFiNzJmT0XSAYwEQVVfeXFMTnlQY3FxMjF4SWJFQ0hyRVh1bVI2YWszUm5LRHJhTnl1VFZNNHdYbUhNNEljN2VhYXBtblFQWHpPTlU0QkNhdkdNeXZEV2FKbV92Nm5yZy1wdGk0WjNfbWJhRDZMNG1iLU5TYXlLanRJZXlCUEtZRTFqT1VMc0JQa05mdnF2LXpCeWxZT2tBQldpazZkMC1kdlhkRG95QVVxblI4YlE3TS1LbzJxdmhZRmpwZGd2MmJzb0lHOVowQVdaZkJsWkZZSXBhazA5SEZqWHIxS3FlNXZMZlZZUEJJLWFmb2ZzeVQ3YlJLdkJYTk8yc29FcmJPUGFHLU1rZm5JSEJjRkMxQW5iSW01MGVjU2Z3YVl6SnpBbXZDSTRlcnpHblRibUVUOWN1SDFDb3ZUYTFreDBRZDRPNDEtOFZpWVNjWkdSU0RPRS1hNkxvcEZCbktfWFF4dzBZaUlGekhYTTkzVTM5ai1fRk9DUnp0YlRxNVZQZWJUREoxZmVkOHJUb2ctWWpxZ1RzUjFQUzFUeVpQcmJJampCaDRNeUZRRld1VW1JTEJMZFl3YUhCTkhUQ1dyUmJNaVlNamxNY1AtZjBxS3h1ZjhzcFBmaVcwRmh0T1Y0RjVPRVc2MHJSUlhKWVBYcWpNQ2RrYV8tUkpHdnJJaklNVFE3Mnd4NWpzSmU4R2dseGhDbnM2Qkk?oc=5",
@@ -1188,57 +1236,25 @@
         "content_hash": "fb82a2b3ad9821174ea06c3113d4d60a6173edf6823a9d87976210051c5abfb9",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9825,
-        "title": "بطولة أفريقيا للأندية لكرة اليد.. الزمالك يهزم ميكيلي الإثيوبي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxNUjlRYTJ4ZlhndTBkU0Y3TE14VEtHbzNKQzgxalZJYy1HYkg0X2FScjgzTXYybHU5OUl3Y3lBTUtqem9ZdXBNcHY1c19GU1JSMlpTRmZmcFpsaTJOMUo2cFdjYXNNWndQcjNlWU9NcXFjdk5uc2JEWTRTREVmZmhDcWlzQUVHV3RoT1R4UHlqUWxsZUFVLVhkeGNyT1VtRmduNEZubWV3WXhCeDhYMER2bUtLOVJpWndOWDU5bXJOWmFWcXg5SlFqNW5XZ3Y4cFBfTUJvUXF1Tk9iMk1FdmQ3ZVYzSXRFWVFabExUSWdXNElvd0lROG9jcjVOeTVvdFBMNnk1ZVppRzVuWlU2YUo1eWM5SVQ5TEVfS3Z2NHZNckFhNnZVZGgyc0U3SVVxeWVIbllYR3BxUTNxWFZRMmJiaUZ2a0RjODZDdnZsU192OU15TVhaY0dZSVNobkdLSFJqdXFFeFFnemFENm5fc0tMZkQzc2pWc0hiMTVnSWxEU0wwZk9PSVJ0clhzb28waF9Vc2xXNkhHSldOdlZMM05TRHJTMzZtXzlublpvTWpkVDlEOFZQWUtDbXRxREI3UDhBZk9kZHpDZGoxVlJjRzRxeEdmTUIxb3J6QVIwM2QwNWNmSFM2Sll3dmR4SFhwMUJ2OXptWl9VT1d5TXBKTGNCVHNxYUprS3B1U01nN0N6SdIBkwRBVV95cUxNWjhSczFha0R6VEx2TW5TaEZ5ZXhlSVhCWm83NkVXSzNMM0JfTDJkRXpkM2NKQ2hDcXJjUlY4bEVSVjRSUGI4MVhDVlRRdVpGRExpdGJVckRNeVJrOXJlbW93R2JKc0NoWXQ5M3pVajltR1JHNWMwZm5vVEZ0aENDR1k4V01qZk94LU5ObG81OFBURTJVRDZrTDNyUkdDSXEyeTFnLXBtMmZjNTA4b3lPcjFJMlVmTFlRRGJHeW12OUZ4Ung2ZlE0QnVEUTNXaVo0TWZlWkJrYUZsc0wyeTloRGhZUnUydzlnMlpoN1lJZmdZNWFucnh4WTA3Q2RobjUxMEJwamRPdGtvX0UtR0Q3WFZYc255dlU5RUd6TEdPN3BFLW92QUdkNlN5ZThJUTVZT1FPNmp2NVVWdEc1c3RFQnkzWHg0T2poYVdnMFpWVEFXWVBFTnN4a2VZNjUyQS10QmNqYl9kc251NDRMWURybDBmVW5HcGNVTURXbncwMHZ6bEQxUzNUY1RPVTZFXy1KczlERkFoNkM5ckx1Q002MnhFUDR3NjdUdk5yNV83SXRfMlZpMEJLekxMcmlHLXE2dFV2U1FYdVc0M3dTSGJGODhoM01Cd2lQbDZDdjVxMFM1eTh1Y3NqNWJCOEZnSXBpV1JISnJwaHBSSGdkRTlnZjRPb1JfZ0Z5R01XZmhRcW1XZHM?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 14:52:00 GMT",
-        "discovered": "2026-10-08T15:02:06.378043+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بطولة أفريقيا للأندية لكرة اليد.. الزمالك يهزم ميكيلي الإثيوبي يلاكورة",
-        "player": "",
-        "content_hash": "fb82a2b3ad9821174ea06c3113d4d60a6173edf6823a9d87976210051c5abfb9",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9809,
-        "title": "ديربي بنكهة مغربية.. عموتة يكتب التاريخ وبن شرقي يتصدر المشهد - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxPd2ZZTkhqOVFtMXE1elRXM3kteE82eWV4cERTUjgwYTF1WFNQVDJFLUwyZVp4VjdXbi11QTNYSHlSVGtHQzhuMDBZanhEZXNPTFlGdS1WTEZIMFhEUEJmcUF3ZHJCd3ZpcTJpUXdqRHllakdFelJGOXpEb1A4QnVkcDEwUEIyc0E1b0FhQXdrdFJ1QXpscEs5ZzBlQnF5YWRHekREOTNIUGRscXJkZnVkMnp2dm1PWjhCR19sdVpncVdOOFcyWG5tenBQRGhwc1p5MlB3X1Z5d0pUWnNFNXJIbllGRjNIQk9nRWxVdjctb19TN1M2TkR6aWJQSU80RVVkbklObjVTZW0zRUVjbkROVVk5b2xIVnhCTDhYaFpIc0RrUzA3SWxDWk13U1Q5NHNUejRZdS1YZGl2Rm9mazctVGNrVWZXMUxhWVlsUEwwQzNuV0FxY2dIYm1DZHdnWVE3a3JNZS1BNnJsclNJNmU5SlRXMFBaa0dCc2xEcEZxUEhORFlBNFBRclcxbVNYakxCS210YTF4bXZ0MDczNFRiUnBZeFNNemRybW14ZDJHX0RfclVzcVJkMmJ0N0RwSzZ6MXlIV0k5Ti1XcVp5WmZ3Z2VLYUV0b05mU08wTVVLSDdZN3IwRXd3U1FHUFd5cFhNZVE1WnNsYkRoQk55dGFMVXg5bEQyd9IBiwRBVV95cUxPQjd4MGpGaEJtcmNLN1oyVzRXcHlHYVNvZWh0T0hmN1A1Yks4TXgzUDBVRlFHOXhjdE9Md0R4VFR1NEk2ejhjcXFNWUEweEdOLVpCei00LXZYZXRmRVVvSnlKMl93eWlWVDhHQ1Nlem5yX1AyT0FRV0JocjN0VWFGMUNtUG9tTjJDM3p3S2Qxd2ZFY1dteFVCSG1TRXB1NUJBcm50azE2Ykx2NVU3cE0tbVRCR2lxTXdKc0hUcFhpUjJXc3ZwLXBMNXZYUm9Ddm44eXhqdTdIemRHNHJmZmNKNUVyem1OOHl2TkRTakZDYU4yR0pYTjhhQ0w3d1E1VFUtMi0wdS1iaG9RTGNRUXlYT0JjajNYNFNwZ0ZlWHhiOFRwdmhjRjVUQkJPOFluTlRUOHF0NHNLT09UU3dncFFlY3lfb3pvS2M2Nmc3ZlFZbkZFbldGbmNIQ19ac29JS0lGYUdIcFYySDBDQkxxZ0Z2R3BYM3Y2bzBqZlhXNV9kSXNVNnpCTnFNRVdIMVpFX1E3T01QcW9yWUtvOFRrWXRuVWk3eUFtLWlZa0JyOEU1QTBNS3U3eXg5Q2g5Q0gyN3E1U0F2UnRJWW94Y0QxTVdYUVI5NFBkM0l4YjBKcFJwVFhzNklDTUk0SWhnZVdnOVlGM29oTzNMWGFZRXVLQmhVVHBFYms0dWtzbDdB?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 14:10:00 GMT",
-        "discovered": "2026-10-08T14:25:57.829119+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "ديربي بنكهة مغربية.. عموتة يكتب التاريخ وبن شرقي يتصدر المشهد يلاكورة",
-        "player": "",
-        "content_hash": "8b425a5c6562a06e4d58b7486fa082680fa52422c3737cca36ee197ab1b0119c",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9917,
-        "title": "الشاعرة الكندية «آن كارسون» تفوز بنوبل في الآداب 2026 - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNTjhLSHFkSHhwQm1JV0lfOE13RUVlWkNuNjhzTXV2ek5ELTBxaHZQWlpZNVZUVFdaOUp0ekp3eEhIekg0ek5sZFhjaWd2a0NxRVV4NmMtdHRoY3hPcXZjci1nZFQxMjlMMFNHOEFYdU5weHpEX3FzU0FOVVVQTW5TcDRYQ0RsT1I4Qnk0TXNuWHBETi11d2JfREVPMVdEMWVORncxbGpKN09pX2xSNnBWTEl2MS00c3FyakxiaVY5N0pEN1dpRWd3WnFFSkxLdC1IVFpKSWlRcXQ2U09uNk5TSVo0REZVdnZwNzl0ck0ydlF2MlZHVmhwdEdsYnowWGVnb2FwZm1tUTZEOGxLQWQ4ekRIaE9iTjNDRHd1dUE3VmlkbGN1N2pWc293QVM2ZG5yM2paSEln?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 14:05:47 GMT",
-        "discovered": "2026-10-08T20:15:27.034618+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الشاعرة الكندية «آن كارسون» تفوز بنوبل في الآداب 2026 القدس العربي",
-        "player": "شاعر",
-        "content_hash": "efd7374f6cbb6298a8b055f402ce37ce5f310cd1a8bfbd30bd9e473f06ef2b08",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 9931,
+        "title": "موعد مباراة ريال مدريد ضد فياريال والقنوات الناقلة والتشكيلتان المتوقعتان - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNS3F4Z09UWURUQUVLcEVwcWJnN2pwNlk3bE1UXzFsdmFrSEZnMmk1Rlo1TkRZbzVuNlVJSmE1WEFtUjBiaFJZT0tMUHdGZExkU1NuVXpEWFJyUWIwWjU1V3FCSzZFenlTd2E2aklXdkxIX0dWb3dHYWN1dlNnaFIzVExZOGs1UVpYc2I1ZTVUNmpqSkg2NVFYb1BMcDB3UnUtdi13UVg0M09sa0xuZ1I0WUdqSDBPX0VfODNOVm1kNWc5NjV1LXhybUhFTnVURy1BZjVCWGx6WHJGWldRZmlnQm1lVkdTUlVlWmU4c19UNWdxak53cnZxdTlXdUc4eEJ5bzBId2tEdEhzS3NLdHpjWld4NmxyWWcyQlp3dFppc3VuWHdMSFU1R0Q4bFEwLXdNOGJrczJKUG5pclVCNFHSAcMCQVVfeXFMTnNISHBRbnlyclFFY1FCSUY3MVp0OG1jRlJvckNVTUxvcXpzNmtvbW0tblZtLVJaZTU5Um0ta2ZpaTNHQ0hlVFM0di05VV9lOTBud0NpZU9VNXVFdlFPcmhXTFF2ZE1hNU1pYnF3NEFoalZfTENLQXZqLVFUVU82bE12N1Z4WnowNVVOamFoVmlGLW1IcGI3bklFSTVkRm03MmliTnU4bzVXb2JIZDBRd1ZCOW96NmNqNS02cjlrRlQzWHFTejM2RFBZUlhnQzIxRjE2V3BIVVk1YUZWUnk2T1dvZFlidldOd283NFZRRnROVlltcFdFc212YVZjVEFEOWNwenJPRVNPbHREUF8xLVd5ZWlRbmtzd1hIbFFxMmxNOWJadkQyQWdLaWZhdnBUNDBYbUFyeXB2NlktN19Sa250MU0?oc=5",
+        "source": "الجزيرة الرياضية",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 21:04:24 GMT",
+        "discovered": "2026-10-08T21:27:08.825261+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "موعد مباراة ريال مدريد ضد فياريال والقنوات الناقلة والتشكيلتان المتوقعتان الجزيرة نت",
+        "player": "",
+        "content_hash": "c4b146fa457f76f8562a466cce0735db64af06560602e9f8ac8612d0ec8ac02c",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 9889,
         "title": "موعد مباراة برشلونة ضد خيتافي والقنوات الناقلة والتشكيلتان المتوقعتان - الجزيرة نت",
@@ -1688,6 +1704,22 @@
         "section": "transfers"
       },
       {
+        "id": 9935,
+        "title": "ريال مدريد الرابح الأكبر.. الذكاء الاصطناعي يتوقع وجهات نجوم سيتي إذا هبط - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNa1Z1STVZUHlLVXZwbzN0bkY5NlB2ZDB5OEk5Nk91M2NqcTJQOHpzbUtJU0RWNWY0QlM0U1M5UW1nam13ZWZZRzMtSGxndkdJdTRqa2FHVWVOODUtay1pM3kzeU1MaGJSRXh4a3dWN2VFWnNSTFhLNks0akdhTDVKX3JnMDZXdS1va3VuUEsyTmdZY1pRakJ4QWxMTjM4My1NUU40aHg3RXZQTzZ0NXZFbE1iNzB4S3RpRU1IMmFrc1ktX29MOEwxZW54TWwtMHhJck93ZHJNVTF6QVU0Q1l3VElOaFgzX3BLS2hmemRwYm5SNjkzUENZWVZROWFjd2o3d2xndjRma2JBVk5POGlRNnRod1RpdXBQSnFXbVJmMXItWDVxR0prd0130gGvAkFVX3lxTE92THc0RjNOaHNZaGZ6OWhCMFFhal9pRkpuNVIyYTQ4MGZEODh4OWcyTDlqU0NYMndHV2NYajV5T0x3Z0tkR1V1U2tkUW0wV2lybVB3SUVVZ1MzNFowYm41Nk51a21UMF9aYTIxV2NzTW5yZ3RnVDdHSmhUbXh5TzVyemRHYzB6UXVXQThma2hEYnNhZi1EdjYyQWxQbEFkYXFTM0NLNWpsbXJUenMwaGVOTF95d0dPVFJDZHRySXlZQmxYZlBIY0VET3A3eFRzV09sZmRiaDVGbTBHZERUVG84UUF1QUE2TEtUX1JPQV9ZdDdqRlV4RXk5TmFHLURqaEhxWm11Y3hBSHJWQVBLM3E4VWIta2dyb3NseUY0UUVScVFVeHRpczFrellkLUhEVQ?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Wed, 07 Oct 2026 21:07:13 GMT",
+        "discovered": "2026-10-08T21:27:19.451835+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "ريال مدريد الرابح الأكبر.. الذكاء الاصطناعي يتوقع وجهات نجوم سيتي إذا هبط الجزيرة نت",
+        "player": "",
+        "content_hash": "fd00d762246979537cc1004a46d138e49ab8233b1e02599cca2a629fc82b618e",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 9601,
         "title": "حين صنع العلم تفوق الغرب.. أين تأخر المسلمون؟ - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9rbGlRRXpWeGdPT1d4SUlOVnRxWDdfaDBhbm9lQ1cyWkxhdGNLSkhTRzNpTjdaOFlacmZ3b1FHdWhHZnR2ZUs0cw?oc=5",
@@ -1892,38 +1924,6 @@
         "summary": "وزارة الصحة تحذر من خطورة داء السعار بعد التعرض لعضات الحيوانات Febrayer",
         "player": "",
         "content_hash": "2a077d4f00cd35a289a9380a5ad82ec0f3c53f708486116003757a698aa4af51",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 9833,
-        "title": "هل تفتح \"حرب الجسور\" طريق المفاوضات بين موسكو وكييف؟ - اندبندنت عربية",
-        "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxPNnc5TnhSNFplbHpuUEQ5a19WbmFNeDBQZG5vWUhQYU1rQml3NXA0WTJXd3kzZmtPMFJLVWNadWdZcTVWR2o2RVhiYi1pSHh4bUtUcS1UZEpQZXZtVXJCQm1hM2RQZHNMM0xNTGVqWGV6YzNRZTEyUDFsQmZhRXo2QXE4MGdEbHVjSUJFbjJ5ZXR2MkJhcXFmVjBTRk5KSHJaTmhMZUZwUllfaGlnTWJDV1hjTktXMDNCSnlzejNIU1J1d1lqTkowck5ybEhVOUc5VHJvVWhqcmg3U3NYd2hfS1R0MnZVSFFCZ0RXc0laYUtFREdJWGlTdWxVci1MZ1dIclJieHVscUVrb0I5MWVpMHhzNmhwZ1hzRENQVG0yUG5rSC1BWnBjblJWREtfUENMZm1aTy1BOUpLLW14Vm9KTUJWSlRud3VSMGJBYk9XZ3dIWU40Wi01MW5JdGVITUpoNTJJMHdVUXlQa2NiM29XdkRqTnpVZWlkNUs2V2JvaGdrYVhhcldXU3hhV1QzRFZmdXRCWVZDLTNwazJ2ZFJnUEF2NDN4UXRkalU0TUV5VXRiSFZwaFQ4R21pSjRCYU5rR0NtbEJYS2lieEtYOTlqLVZacnRGRkN1eGx2MjZFZmRiTmNDLXNwaWgtXzVlLTdpUTZwaDlNMUNRWHFKMU5BcjQ1dWZEdmZQZjRUbVQ1UQ?oc=5",
-        "source": "إندبندنت عربية",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 14:05:33 GMT",
-        "discovered": "2026-10-08T15:43:14.043486+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "مفاوضات",
-        "summary": "هل تفتح \"حرب الجسور\" طريق المفاوضات بين موسكو وكييف؟ اندبندنت عربية",
-        "player": "",
-        "content_hash": "75404766db649a7674bd0493a55252f817a47105f0073eb7a4f89975a7eef96b",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 9503,
-        "title": "الخارجية الأميركية تحث مواطنيها على مغادرة روسيا فوراً - العربية",
-        "url": "https://news.google.com/rss/articles/CBMi0wVBVV95cUxQSkVvLUlUNVhQb2w0S1owUlRLYmxxMzE5dEVjTjZlX3B4SmUwTS02Rll1RUJKVEhFaDhmbUxhdTFyekJPamFYUzlQSzVQWU1pLUVqdF91X214czRMR3VYOGt1QWh1ME5PMkdjbzAtaktDNDB2S2pGNk9IZ3VvQkRJSFZTZ2hyaVlOTE9BaFZtYmpHX1IwdG5QNTU0TGJtNUJrdEJtRlNfaVp4WnZBZ2ZtM3l2NmR1NzM0QkJoZS1CU1F0NkViN3F3d2tBVDZCUG9hQWFQT0ExS01pREtueWtJQjhfak9VVE8waUcwTHdSM24wU0h0NmZ2SUVYLWZaOGRWcTI0d0xESHZLQVY2aTFBQy1jN29EbVh6RWtTYjMwTnlyaHJIWk0xUTg1dDFtaGdMMGhjeDd5ZnpFdzJUcF9RQnhCb1ZSUU5OalpYSndFTUdjZ3Q2Q0ZEczltWTRxZkw4dGlzeno1M0ZhUnZHa2VFV2l2N09Ddlk4dWJ3Y191c0MtQkFBdG14aXNPQ0FGaVFSdjZaMmQ3YWtLMFZHQzktbDY5RlNEaDl3dnZ5bTN1YnFFUzhFUDIxSHBtNW5tWmdhN05QcHZlX08zbW9sQkx2TzcwajlkaDhGVlZheEhVZUpKWnJfNDV6d1pWZTZRZ0NoVDBSWXRNY0ZsemZoVmFLVHRXbHkyMV9TUmdJSW5vcS14T3N5R05uX01SRXNjM1NQZGx4X012aFpNWko3NEdHU0l4QUw4YWFCblF3dnc2UEtYbE5LLVNtWEt5SjZsSTF4aHk0cUV5QVp2WTV5eW04R0gyTFA0akRsMzYwYWJjeEFmYjlqb2U4aGNpZjdxR19lRXlxbmoxRlUzQkJ4aG1MX0duQl84Qm9nNmVySU9FQXl1MEozam5fNzNEZ0x5eC1EMFJ5LUw4WTh2ME5LbHlfdWN4aDh1a3JlYXRGb0VOanVoUk3SAdgFQVVfeXFMT0tlMW9MRXVGUjNHZE9obElTMGZrZUMxQVh1aWZETmYxTU9tMWJ4ZXZBcFpmbFlieUM3TjFzVzViNkZhamo4aHBKQ2tvM2toNE02ODhVZUJ3Vi1EMmNlelpUTzRKYjI2SWhPaUNIRGliY3k2dDRrck1WX2t3YkVLMFd4enh6cktHM2d1bHJ1dk1pal9OZUJOc0JuWEM4U0tiWTRzenJQVV9YNjdkaVZNZ0diZlpta2syME9ab0RfQzlGYTd2bHllVmtDQjVKemlVa0s4U05tS21uSUNoZFNrZFY1d2dKeXNSYVppZFh4MjdFRnZNa1dmSjlhVk9hd1RpbXRWUkxvQzBTMFlfME1qdzJaeHV2SS1PbWsxQm5DQ1JoeHJiTk1jRDl2Q1BUbEZDOHhDS1k4UTFVVU1BR1FjX2NzeG5KQ2JOcHU5UXZwU3FvR1QweWtyODk2S1ZJMzQ3UGVmbzNjQWMtQXAzc3FBT01hVjBvYTI3NmNtRVRQTnVmRTdBOENmR0dza1BramJwNlJOYXdYVWJzUWlSeG5qX3V2Qi1kNHVhMFl4N1FZZ0JqcUlIMExDSTFVTDVxRjdzcmllTHN6RE1DaTFQazRvU3NnYlRyeUo5VU9qMnA5cGxQQk8xS05KY1JRNWxTb2hDeXNZT1RSQ0tCMHRJZlZ2bDFVRVZFenFsTTcwQUhnalVPVkFWU05YX3hxaExmY1MyS0pDWllnUTAwU3FnT2h5a3pXWWNwb2JjWlNvWm1EbnZBREJGOWJhWGRUdUpUMFpKMWhDbmZKRENlTFFWT3FyREtPOEdwd1FvWS1wbjZGYU41ek5mVW1Kd05aejhVUGczOXl1TkExaU5rNWllRkVFLVk0emdfUUJJZGRlX0JHcHNzcllhX3dqUHYxNFNudzhhc2luNnA4QjByaGJWR0JqV1E5SWN3T1pwM3hLRXh4R0x4YmhOUHZPekk?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Wed, 07 Oct 2026 13:25:00 GMT",
-        "discovered": "2026-10-07T16:14:04.196233+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "الخارجية الأميركية تحث مواطنيها على مغادرة روسيا فوراً العربية",
-        "player": "",
-        "content_hash": "570172f9f002986ae94c64134771a945a457e029b32f6c1b690d1931a26cd9cb",
         "sent": 0,
         "section": "transfers"
       }
@@ -2152,6 +2152,22 @@
         "summary": "الشاعر السوداني عفيف إسماعيل: بالكتابة أحاول التعافي والنجاة القدس العربي",
         "player": "شاعر",
         "content_hash": "6d532c1b08ad8ed8ea99b898488da259084135a090e13a7ce83782134a419159",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 9937,
+        "title": "الانتخابات الفلسطينية أم المشروع الوطني: أيهما له الأولوية؟ - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPa2pNby03a1Z6MzM2ampUNDRQWHpxeEwtSlRtQ21UNjloVkZXWnV0TkZpakJVVDBsTFRNc21IRXBuMkM2NE5uXzJmMjFBNzdBSkt1MUs2X003MkEzbW9fSnhnSDIyLVFITjk1ZC02c0NlVXppcXZGbmpPMFRUXzFqenlqRGFCRmFGZ2RndzVMWFFaNkFKczRnXzJiTzU2cXZYU0gxeFJQQjZ4d210aEhkRGxfdV9ZRFhqRy12NDY4ZWIwd09lalBCZkwxNEY0cmxiQTh5aDg3VHp0MzYzMVdVaVZGanJSWkVLVXlyczhEME16UHYzNzkzREU5N2pRUExKcko3dGoyTG9JM2E3YnRla0piZ3JKSWFvZ3RhQkswWlgzZnBQcldTSVBOUFNGa3Q3akhwN3VWVnVfeW52U0JvdVl1cmI?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 20:12:37 GMT",
+        "discovered": "2026-10-08T21:27:23.583986+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "الانتخابات الفلسطينية أم المشروع الوطني: أيهما له الأولوية؟ القدس العربي",
+        "player": "",
+        "content_hash": "330154702c276b4b5b31a343519e2cd5605b09416cb34db5022f71e32e35e01d",
         "sent": 0,
         "section": "world_arabic"
       },
@@ -2392,22 +2408,6 @@
         "summary": "هل ترسم نتائج الانتخابات الإسرائيلية المقبلة خط النهاية لحالة الحرب السائدة التي تنتهجها الحكومة الحالية؟ القدس العربي",
         "player": "",
         "content_hash": "4a095f4e8a66b3a068a4edba6665cda73ec5a0334caf796fcdb05ec3750f466b",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 9474,
-        "title": "الأمين العام للتحالف العالمي من أجل فلسطين لـ\"القدس العربي\": غزة حركت ضمير العالم لكشف جرائم إسرائيل - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxONGszUkZxd1NnMUozdGZBNUxVUnRFOWZKZ1NVc1Yya2g3enVyRnBpWlFveDViQzh3MzR2VzY4S05qYkEyX3NMcWtnQk1ZNW80SjZtcFNDenhQRW1Ubkd5M2RiU0dDdExhQkNrZWRsQ1ZKeGliU1AtbE01NTd1b1dESXJhNllJUjdnbTFSdFF4aXJsX1RFRnZVd2hKcXdTdk4tbWx3YzNXcFNMYTJLd1k1Q3RHVThPdVlrbDBKTUgteFRzOWJPTzQ5YW9vYW1Gd3czTVN5b3Jqa1BXNG9XM0JpTzZkZHVkMkVWUG9kdy10cjc2RUp6SngwN0p3Ym84V2NtLUVWX0kzVjZyY2tGUDFYdWVHSktCbDBhRTgxOUFxczFJVHJlTlVRTkpvUDh1c2RKX2lDanBNUGJOeWZXQV9JNlg2VkMzVUU?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 13:26:22 GMT",
-        "discovered": "2026-10-07T14:50:11.657553+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "الأمين العام للتحالف العالمي من أجل فلسطين لـ\"القدس العربي\": غزة حركت ضمير العالم لكشف جرائم إسرائيل القدس العربي",
-        "player": "",
-        "content_hash": "316a500c310c3bb4cf626d784e0c33c70c1349bc5897e3671584c89ccb403e2e",
         "sent": 0,
         "section": "world_arabic"
       }
