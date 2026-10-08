@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T14:26:16.559575+00:00",
+  "updated": "2026-10-08T14:45:30.018938+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -80,6 +80,22 @@
         "summary": "بنك المغرب يخفض رسوم التبادل على الأداء بالبطاقة Febrayer",
         "player": "",
         "content_hash": "6ffdb591599b304e1abcd0addd208188998010d8689afa0db66788b4936be0fd",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 9814,
+        "title": "واش أول رئيسة حكومة فالمغرب غا تقدر تحقق للعيالات داكشي اللي ماقدراتش عليه الحكومات السابقة؟.. حقوقيات كيطالبو المنصوري بالمناصفة والمساواة فالصالير ومحاربة العنف والتحرش - كود: جريدة إلكترونية مغربية شاملة. - كود",
+        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOd1ZlRTNveTVyTmxuMEVOYzlTcFotNkFtRVB2WFV0MzdRdHdUaWdzWEZLVUVIN19NQ3F4eS1sY19FOFB6bGhmNWhRQkNTS0JaRXU2UWlGNXY0bXZBZDR6amRSU0syaVE1TEw3SWQ5QnlOVHBBREFvd0dJZ2tIaHRDUFdLRERMNTAxamhPNWpkVC1qbllBalUtbV9uN2gxS1N5T0syUjl2YVJqbU5iSjVSOE5Ub2FNWS0tSWFFU2VvSk1JM05oT3llenhtV3FNbGh5WC1vZHlYVUZmcFBfUy1XRlR6Mk1tVDc0a21iSnN5UGJVTjdkWGVla3F2SjF1Y2VtR1RLNFBtclFGbVhXUUIwMUY0M1lzVFJGeFF3YWRzSnJVeTVXSUNCbE13NmhqWi11Um5NekZMd0RTbno5Q0hpVnNRMmlvTk9feERrUA?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 10:01:44 GMT",
+        "discovered": "2026-10-08T14:45:01.396684+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "واش أول رئيسة حكومة فالمغرب غا تقدر تحقق للعيالات داكشي اللي ماقدراتش عليه الحكومات السابقة؟.. حقوقيات كيطالبو المنصوري بالمناصفة والمساواة فالصالير ومحاربة العنف والتحرش - كود: جريدة إلكترونية مغربية شاملة.",
+        "player": "",
+        "content_hash": "462ce64171c7976110c5cddfcc1505f0b6314f478f7baa03e95ca13084a5ffeb",
         "sent": 0,
         "section": "morocco"
       },
@@ -404,22 +420,6 @@
         "section": "morocco"
       },
       {
-        "id": 9318,
-        "title": "لقاء تواصلي بمراكش حول المستجدات الضريبية والجمركية لفائدة الفاعلين الاقتصاديين - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxOS3dpY2c3R1hVRXpsbGFTb1l2WElZVjhtbVNEVm02THlOZUFmd3pNOF82ZXlJNHY3cWpTWUNOckcxUlNhd0xUMmxXcFpuMW0xZ3I0UUFEemJKQU11czRIbGNLckszRzdiTncxXzFyNUpPZ3BZZ3Rfa2VJcmxlcUdIaU0ydzBuM3pnU0FmR2lHemFXR2VaczFOOVFXU29QMmxpcHd4SklOcE5vXy1xM1Z0b2RTUlNVMDRXanJCLWoxR2hFQmt2dTRaMGZCWHdvTmM0bzBvSHk2UENXdkNOUDVIaFNvbGxOUVhKcFdvUlRUTlFtblB5TUpkTkRadjZtWG9qaXY4NGg3YzJod3hJZEZtSnFMb0ppUjdidlp5STJyTGpWZ1k0ajNUWXgtMFpfaHUxYnhYaThWa1lGTU94dENmcHJVUzFEdVFPM0tZWmFfNTZtQlNfaU12SW9mckI0NkhPSGRpTG42Ykx5T2RaQVU5cnlkdEhKSk5odEtwZlNUWVRUZWV1Q2N0dzhnSjFsZmtjUFFHajBuUWZWVTBTWWNmRWlscjVJd2tTcHF0c00xMlktSnE3cHE1RHFBeXpHQzF5anhmcFNqWGlCeDZnYmEwRVlKVU44LTZRdndjZkhGSmUxVWlESUxFWndSSE13emo1cVpjNzhqSFBGX01aejRXcWxfLWxCQzltTWJNbGZ1RjB3N2RGOXJsbVRPUEd5NkxzakF2X1ZZNC1mblJFU093UFdlQ0hrcXJNVjJNbUNod29XM2M0MG85aEMtM3FaUEdkSkJXRWZwRlZQSVhMLTdncWFjTkpSaERLMjd5YlhPdlVzemJvZDltRFRMdDRZa0FkNmVMTFNWUXR1UklkZUF2RnZqb2o3WFF5LWFiSUtuWFlDaFZkZmp1bDU1NV9LUFFSclBjQVk5UUc3SlE?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Tue, 06 Oct 2026 22:38:17 GMT",
-        "discovered": "2026-10-07T00:47:40.655647+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "لقاء تواصلي بمراكش حول المستجدات الضريبية والجمركية لفائدة الفاعلين الاقتصاديين | MapNews",
-        "player": "",
-        "content_hash": "067d4ec14666353467541bd23b7bd9088f3bc7016250e9b003401b676a6b391b",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 9356,
         "title": "بعد خمس سنوات.. جهة الدار البيضاء سطات تفشل في نصف مشاريعها التنموية - Le 360 Arabe",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FOXNxdmZ4T3ZNOGh1Rkl5aUZKTWExOUR3REE0bTY5eHExS1JOMjJhdnZjQjBiU0FQaWNjTDUxMnBtcGZLOVB5aFNLNVpRUkVJSTNfdjRiMV9EWDNOeUZZU21INTVuOURM?oc=5",
@@ -498,6 +498,22 @@
         "summary": "مؤشرات إيجابية.. موسيالا يقترب من العودة إلى الملاعب يلاكورة",
         "player": "",
         "content_hash": "6bbe77394b18d0e8f17ad1f1dff5164bb4fd096307c25e7fb0ae6a444419024d",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9817,
+        "title": "\"بعد اتصالات مكثفة\".. الإسماعيلي يعلن فتح باب حجز المباريات لجماهيره بداية من مباراة طنطا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiowVBVV95cUxNM2lRd1JPVnpYMDFzMVFJaVVnbjd5c2pzYzBteWZDMXdtMHMyekdxdEtzRXdYZktuVFdvNmoyRlpscE5UeFdSNEV6TVlldWsySHZ3cDRiS3NxYWxKOW8xTHdZRUgwM3dxZHpoU1FCYUQwUS05S2RNUURidm1GMUNjb0RxQ3JKR1BsLUdaOXRhaWRick1PQXI0bER4UHNQbWhVQ3B0YXZhNExQVkRaY1RMUzdkdFJUUkZWLTgyVExqeGhzRjhhR0h4WTFibGpLNHdoaEdId09xYjJmNUhQSVN6TU84M09kRWNyOHFmZTJaMkFoU2hPc3JsZFdDZ0FWU29vbDh3elU2dWpWRE5rdVhpb1ZiVFNGSGwtWXpidWNHbVFtUk5mb21RTmRRcWY2blVMLUVfdGxYc0Y5YTFmLWFjbWpraUdYblBtNEROaU9lZ0d6dURFMl9zV1QxSFpwZ05YWFpHSFEwbTdabmtwcS1aUnJram5hRlo1WWdnWmNaeXdUNEEyVElqS0FicWU4V1FJSXEzNzBLLU0yTVRQSGtjUzV6Sm1JLW8zWklWMTR6SHQ3elZ6bUpPXzJPZmNoS2pOWDIzQWhpaVJXaFk5N3lsMzdmTlBPQTVEX2I3cTRjd0pfbUFNSFFKajd5TTVtUDI3bFN2YVgzcloyckhwaFlTUFJoYkZac1dGNTdQbndoancwckQ3c2wzLXV5RzhEQ0p3eVpuYXllSmlZeExpTzQ4Mk9GLTZaTWJWaml6QXhiX2xjMXUxSmtnVUwyU1hIWUpWUVQ5UDY5XzJRLWFwQmRNQU1yNUd5UDNETXdDVGM4RUl0YUc5eHpzVGI0UER2RVdCOXBSaVdyUms2TzVoOHljLW54a3BFcmpIdVpxRkI0XzBLNlHSAagFQVVfeXFMT1MyczhxOWdNanRub09seFFybVBEc1d2R0ZFWXhsajRVU09zOVlqV2dSZEM5TkxfaWYwX0ZSQ1p2bmFBd2QzQ2hjazN1ZWFUTkZIZFZJX014UGlONmY1UTlzWlg0N0V6aS03QUZyazdGZ0FyZ1pVLWpNVFdIemxsX05nUzRIdUZlUGQ3Q0tKck54bWtuNXdYdk96V2otR1J1WDg0QWEtMzVVc2xDWVI2akk1eWtVSEx5MVBjM3JhSFZYRlpyQmZHRy1STE5hWnBVTUxCR1RPTGI5cHY0d210QmxuQ2hUVUNxVzM2a1dhaXNPdHdUbTNPM2JKRnZLNE1KZjdCQU5sY1pKXzZJT2dfLUhLOTdWWG5GWEozeWtDOGNiRW8xb1hkSmNWQmtWR1NiTDg4S0RwdWJwLV9NRGY4R2pMVWZiNnNIa1hoNnJsMXNYdVgtaDhZLWJ1S0dISGIxSUZtTlFPSWd5Y3J1VEJKQjlsZU5kcjlTeWhaZF83cFVOeXEyR1h4Zk1WMi1JOFgzNTQ5US1CSFlrcU1udzV3OUVwUFJLSi1VSUNlQ1JRV1R2NWFUVU1TN0dTWGtrMXdyNEZ1a3d0WXlhalM1cmZTT3oxX0I1eElpamlkOUZrTDg2alhQdHZaci1ybEpKcUY1eVV3NWVzWkFhQ3ctbU01LThwSXc0dHA0R2M2dkVJVVpVeDU1RmtQM0xOU0xVRk84UnVlOXozbE94MG44cHg3Ukt3dnZCTERpaWJidnJxQ2xKcjRHb2UwQU0wRE5OVGRHQWVPTUtJOEZZSGIwck1ybEh4T3l6bVFoX2UzR0NpVkVXMzcwRjQ0ekNmWm8yUVBWS1ZVdmdfLWlXV01CekhzeGZOa1cyNTE1clowcmJISjV5WjMtbkFKcVI?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 14:00:00 GMT",
+        "discovered": "2026-10-08T14:45:11.760577+00:00",
+        "category": "الرياضة",
+        "status": "مفاوضات",
+        "summary": "\"بعد اتصالات مكثفة\".. الإسماعيلي يعلن فتح باب حجز المباريات لجماهيره بداية من مباراة طنطا FilGoal",
+        "player": "",
+        "content_hash": "30b941e717da8f578d9232426333a96d3742cc1cc85b028577fda6f61cf79a16",
         "sent": 0,
         "section": "sports"
       },
@@ -594,6 +610,22 @@
         "summary": "آن كارسون شاعرة الأساطير تفوز بنوبل للآداب 2026 العربية",
         "player": "شاعر",
         "content_hash": "22bf332020d9fb4e287018ccf7502022f9efaa9bca2c4404fb6ff4d25fff8cef",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9815,
+        "title": "مدافع ريال مدريد يبرئ نفسه: لم أقتل أحدا.. وأريد لعب كرة القدم - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPX3BpY2RXMmlxZDhrakdBbzdkME9ocVl5R3h0ckZQYUxzS1hOd21EOEdVUzZOd01QZWVaSHJIdE45SFZrZkx4U0staFpvQ1dYNDZFc3MzaktVV05tbW01MUgyd1NwcVFKUXgtajUzUmFydGs4OXRQcS1rNWZJT1Z6S0VMWEI2WlNqd051dVNGeG1PTjZucjdVVlBXb0ctWDR2VTVkcW9OTEhlTXZVWWFGWUY0anF6WGpPbFh1ZVFNUGgzTl9lOFdlb2pUMHAxd1luTFg1eU5Ic0VjZzdfNXRmVHR3dzBMTVhXVkt5U04wNEVDZUdFMXZIaGJTMFptbGVFVTBXNWhmRFBoNlUzdEJ1NzRXbnVNb2dWUUx5OEV3dDVnSldJcVJka1pTUms2b2ZiR01LdmJHc2pDTHNnNWtQWEln0gHCAkFVX3lxTE9fcGljZFcyaXFkOGtqR0FvN2QwT2hxWXlHeHRyRlBhTHNLWE53bUQ4R1VTNk53TVBlZVpIckh0TjlIVmtmTHhTSy1oWm9DV1g0NkVzczNqS1VXTm1tbTUxSDJ3U3BxUUpReC1qNTNSYXJ0azg5dFBxLWs1ZklPVnpLRUxYQjZaU2p3TnV1U0Z4bU9ONm5yN1VWUFdvRy1YNHZVNWRxb05MSGVNdlVZYUZZRjRqcXpYak9sWHVlUU1QaDNOX2U4V2VvalQwcDF3WW5MWDV5TkhzRWNnN181dGZUdHd3MExNWFdWS3lTTjA0RUNlR0UxdkhoYlMwWm1sZUVVMFc1aGZEUGg2VTN0QnU3NFdudU1vZ1ZRTHk4RXd0NWdKV0lxUmRrWlNSazZvZmJHTUt2YkdzakNMc2c1a1BYSWc?oc=5",
+        "source": "الجزيرة الرياضية",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 12:51:31 GMT",
+        "discovered": "2026-10-08T14:45:06.255938+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدافع ريال مدريد يبرئ نفسه: لم أقتل أحدا.. وأريد لعب كرة القدم الجزيرة نت",
+        "player": "",
+        "content_hash": "05ba82ca71e4f68eb6625b896382e1f1a49f43c4e8034251902ea04a0be82a73",
         "sent": 0,
         "section": "sports"
       },
@@ -722,6 +754,22 @@
         "summary": "مصدر في الزمالك ليلا كورة: اعتذرنا عن بطولة دمشق لكرة السلة.. ورد صادم من اللجنة المنظمة يلاكورة",
         "player": "",
         "content_hash": "ada66230250daa9e7f5a3ccbca48e40ceaa96eda287f9dd3ca8eba572a50b8f8",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9818,
+        "title": "أحدهم في الدوري السعودي.. يوفنتوس يحدد بدائل فولتماده - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQT1JibGgyLU82VUdTUkpsQWxWcl9uVmlzQmxlcDkwTTVTT2lXdUltTGt3UVZGQjhORHdhMlBOdXFmcGlXWjdPV004czlxWjFFRXdNMFhnX0pRV09mNjV3dEw5SjBPbjhuSC15UEpueHh1cmlSWDhZNF9DRzRrUjA2Mkwxa01xRl9VODlUeDU2bUpuRjdmemFmRzh6a1RpSmpPWkg4TjdxWDhVa1BSYmJUSTMwUGRxT3dnS1RyN1dqbmkxdU5MNEhteTd4c3FfMUROTldCZ0ZaX1FHdF9TeVpab3hZTnZVUy1KUDlhRThINE5oNEZtbHRrMDdZdmFsVlpiNGFjVHlzRUlmVC1fd1NhUElzSUx2TTloRTZUaHY1b2xfeGJlWHBqWGR3ekxTaFNRNjd0M0FlT0VkaG5OcHNMWHhvbDNWU2dyTDktaURFNERUQ3c3UHN5SnNTd0gyQk1STlhMbjZLb3dONS0xb1RUZVZBcWJCNkh0X1pmR3JidFJsSTRONDhfbU9zOFA2ejdOUDRTel91OGtLajJydThTNXpITXRsaW03WjhqVlVPSlYxMWc4aXViWTRpTdIBwANBVV95cUxNV1UxTlFadlBYZVVSTkFmVTRzTVBBVnluai15S2pCaU00c0pxNEFOekNWaFBBSXpVTEJwNU9STWM1S0JVZmFIek4zYmtMNjVfaGpFYjFab2lSS19lc3NNc2lWbkNrcWhPY0haN3NNcGNfZ1RIckFPbFBpSm51cm5sX2MzWmxyV2hERVVETmJDMFo2MDN2aFF3aXhnZGtaSFc4UFhuajVSUjNRZzNqVXZLcGhGSEppRTlYU1MyOFU0OHhzMDJjYWNaQ2JGUEQ5SzNocEdzN2p1YXNoSExtMEc1MTVNWFdJSmNKYVctd2lWMVdWdlM0cWpOc0tiaWsxY0Eydjh4Zzh0ZkczbC1JMUJVMGhBSEttX2UxdkFQTG9Cejg2U28yemE2VHZBdVlMdWRNYk1fSWJ3Q2R5SmR5bzFMeWZ6NHdWNmIwekN3aGlHV0RVck1VelpsSGlsN0NKd3hMbzVPbDdWNUk3Njl4MzhDTUF5NU8tY3cwMUd2SjR1UElscFRuR254cGloUXhaU3hMcmFKRUwtR1R2c2ttU0licDZ4MHI0bjVDaFIzR2JiM2p1ZFVhMXZvY1UxTE96ekNI?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 10:57:00 GMT",
+        "discovered": "2026-10-08T14:45:11.764258+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أحدهم في الدوري السعودي.. يوفنتوس يحدد بدائل فولتماده FilGoal",
+        "player": "",
+        "content_hash": "69f967a22b1e8819c3a3007eb5aa75ec74264a9d47e28d48e0af32f424f53ec8",
         "sent": 0,
         "section": "sports"
       },
@@ -1188,57 +1236,25 @@
         "content_hash": "fa32bbbe61c764e1bef90f3ce8c5f02f675c2d1f4e7a32ca8648aec7342522bd",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9669,
-        "title": "محكمة التحكيم الرياضية تنظر في قضية نهائي أمم إفريقيا 2026 - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNdnctVF9yb0IxWGZCZ3BVOGVTZGJkYm5XOW9lSmI1NVpWd1J1U1hzRDFpU3FRS3J4T1Nzbk1SZnZ0Ny1GVnpqWkZUNm00UlZMS2pCc0h1aW5mQU9UZTFhc2Q0SlVDMG8zQVF0aE9BTmUxb1g3YnZsWHdhNi1tMnA2bHV2UExmbVIzdVdFNkg4QVlwTnFfNmk3ZnZ4U3BRSmFadHpTNWQ0dEgyTlpqZGhnbUhCN3NrQ3BMNko5VE9ua2lFdlAySFY1UEs2Vklvd3hmQmJIeG9lQnNWVlphbjAxYng2X3NwYkRHUXUyaGtNeFBtU3k2MmgybW5XWGx1YnZ1TEpTdVpfU3NhUkk5REMtTFZtYjV1dUZUXy1fNmZmdXhyR2dzUnlnZnkwMUdGc0ZKcW9OZXFDV3lHbTl1VFc1R3UycXZvZHZ6NlBaNFdiMmh6RUp4Zk9WLXdFdWMtNE9CMGtSeDZ2ajlSbDByUnJxVkVMTVdMYWtKcjZPbWJYQ2FlSVp4WGI0a3VqcnY1NUJRRlJ6Wlg4OHRNRi1qOS15aEh5NHZhc3ZXZXVQNTVsMjN0RzlPVlNmN3FLVUs5X040VFVPTTYwVmtCTl9jaUpQbXU4UGs?oc=5",
-        "source": "سكاي نيوز عربية رياضة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 02:10:41 GMT",
-        "discovered": "2026-10-08T02:25:53.995239+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "محكمة التحكيم الرياضية تنظر في قضية نهائي أمم إفريقيا 2026 سكاي نيوز عربية",
-        "player": "رياض",
-        "content_hash": "fc92175a19502147bbcc3aa86acba658e30bf73badef1950a49ded273d8b096d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9659,
-        "title": "مباراة فريقي فلاورز | كرة يد و الجيش الرواندي | كرة يد في بطولة بطولة إفريقيا للأندية أبطال الدوري | كرة يد - دور المجموعات - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMipAVBVV95cUxOSEwyLS1hVXBZcERpOXpMc0hsQVNBZXhHMldZTmRMSjViNExRSExDd0VoVTh1S2NHdzZYdzJSWFR3dUdCT2N6MEtIWkUyU3J2UXFmd1l3Ny1rSlladV85UkhVNDh3MmxlcGR6azk1VTNCNFlfRjZnTXJOU1NGa0RIS3EyTUZWS1dKOEp3em1kU2RSMmVQQUdMTVdmRGpJLWFvb3NrUUlyMlQtZUt1eDVRYUQtV0pZdWtkOEF6Q3pzUGlqQUJtOHU1aFBYb3dIWmU5QWVieHRPa3Q4Q0w3d0Jhd3J1MjFwZWdCU1BGOW1Jamg5YzFheHdVOS1ndzNLQU95ekxCSDJOanVHTXFVN0dQLWZBUV9HdEMtT3FmU3JQS3dGZVZ3TzFCb0Uwbnp5a2lfdl82b3N2WmhVTkhQbzUzYUU0VUNlUWxQWWJOejdDVjBINzZHbGx1VkUtbzdRcmNxRUFHWnY1QmZyZjZoY0dWSWoyWFdFb21Dd1hqbE5KeUFTdW1XZ2ZqeVlLZmQ0RFFaYjR5QnpTSjNKTkxhR2FlaUFXaFJjM0lCUVFoN25aNUVLZkc4NHZXdVRiakFXWVpTU2tHb0YtZGFvMHF4RktEcllRc0FuSEVmRmlEb19sOGdMUVZreWp5Y0dVcTVLTWhCd1daZ2dEc0cwa1VHWWFucDVONlcwVmdkU0pBNzQweG5JYV9FamtqX01qM2dxeTZfNWEwRDlRajlrczF6dmxGSmZkLUFvV2MxeThGX3lRWmtTSXNDbWhXVm1ScHlCUkQzaEJXWVZYSS1feHpJTW1iNkxwUC1pYlh4QnNZOGV0YXVERkZfakRORFNuclBnTzlyZjZZNU1KMzNUb0tDeU5hUnNlMFhScnV2a01Xa1p0MlhTc1Nr?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 00:23:30 GMT",
-        "discovered": "2026-10-08T00:40:29.069626+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباراة فريقي فلاورز | كرة يد و الجيش الرواندي | كرة يد في بطولة بطولة إفريقيا للأندية أبطال الدوري | كرة يد - دور المجموعات FilGoal",
-        "player": "",
-        "content_hash": "e601b3803a572b4fee1f2c3a6f70521286ca6f36beb0d1701ab7ddaaa6123376",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9661,
-        "title": "مباراة فريقي نهضة الزمامرة و حسنية أكادير في بطولة البطولة المغربية الاحترافية إنوي - الأسبوع 3 - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMivARBVV95cUxQdDBoelBCdzJVZHR5cGNMa0haLXlXQzdsYWJnOGtmX0Z4c1dUMmMxd3lyNHpCeUxRTTJ4T3l4T2JBd2FMTklJYTRlOUc5RTFwaTBaNi1lWUdENS0ySGdaTjY1YkhtQTNYZXg3S1ZWRy1ZODFQOUpUeEk5X0FMbUY1SVpXX19IVDNMWUJNdVRMVGtNNC1kWll0Wkk3QUZILWdUZzFBbVNhRDdtQ1V5WW5NNTRNYmVVOGRpcmRSc2xHWFNNNTEzUlRkQzRkOElQbDNnZjN2azZNZVpmdVNYSEVBd0l5cmFRLThZTWN6TEVaLUdaYUwtbUNobnlYYTZOaTBSdUdIamFTdVp3WW4yTVFGOTBpX2JBQ091bERROFBhRW5mZDUyeUpoVHZVYmE0QWZ3YXpfcFdFd3I4czJNVFRjdmlqNFhNV3dRdE9jekFQdVV4R1J3Qng2QWItaUdLbW1DMDZDQzNnLUpzMmpDcG5Bd1kxMmVCbXdNbUZUR0g4UTBuWVdna1owRF8yeE03QVdGbDJjLUFKSXZtSU01ZF9GUkhNeUJhRER2bC16RzkyMjBiV0tmbXhQY2pZeDJWNGt1OHI5V0E2aUw4Rm1rWmVIQlRJSU9TalpoOTU2ODZpVzV2X0pqYTJRSE1pWFRSZ3kwNzBHem1xazhLZ0htLV9IdjRiN20zU2cwN0x4N2tidS1vckN1amwtYlhDcFdBR1FmZDFrcnhvTTM5ejFQaUtUTGJqekgtckNrd2tfQQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 00:23:29 GMT",
-        "discovered": "2026-10-08T00:40:29.079025+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباراة فريقي نهضة الزمامرة و حسنية أكادير في بطولة البطولة المغربية الاحترافية إنوي - الأسبوع 3 FilGoal",
-        "player": "",
-        "content_hash": "59531a89b90de66dde26cbcdcef87483c4033a6cd50fb9a4badedc8fcd7ed792",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 9820,
+        "title": "عون يتمسك بالتفاوض مع إسرائيل وبري يحذر من رحيل \"اليونيفيل\" دون بديل - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOYUQ0RElRZndUWkxubGhudFdVQ2Z4bzFDWHVXMEJUOFVHZDhRMVh0Z1l0VG52Y1hVdzlrdjFKZXJEQU9BRG9YazF2ZFlHMkRsZEp5UGM3QVFtdEs5bmJqcUJMbV9BaTVVMmdRVjlaZHllUG5uTWJMcmJneV9sbE9CcURDMFU1bGtDU0J5a0tqNl95SUhidFZNTWdaQTdxTjgzcEtjT3FSUzF1cFp2eWpBcXhqQTdtTFh0N1lkdXNjbm5mVW9QaUl2RWhOUWR4b3ZTQVlTbGI4dTZ4NDVBSFd2Mi1NRlNvbjZ5WnNQSnR3MEN6SUd0YXFTdjNISE5aN3BKMXVJNUZZYTlzYXJaU0V3c0EyZHdlUGtSY0Q3S1dtZmozLTV4bE1xb2V4M0hnR05XOEpIS1h0clVzVTdTZUo5cy1EUVBzS00?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 13:28:34 GMT",
+        "discovered": "2026-10-08T14:45:23.857887+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "مفاوضات",
+        "summary": "عون يتمسك بالتفاوض مع إسرائيل وبري يحذر من رحيل \"اليونيفيل\" دون بديل القدس العربي",
+        "player": "",
+        "content_hash": "0e5c80aa9bcfa0546442943c8ab11575b253c10f427112511d69723ba12eeca7",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 9802,
         "title": "وجهة مخفية في جورجيا.. لماذا وضعتها أمريكا على القائمة الحمراء؟ | CNN Arabic | CNN - CNN Arabic",
@@ -1978,6 +1994,22 @@
         "section": "middle_east"
       },
       {
+        "id": 9819,
+        "title": "السعودية تعترض صاروخين.. ودخان يتصاعد من طائرة بمطار الرياض - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxPaFc2VW1sVGlibGl6dV9sRl82QWMtS3pQcUlubmN5NzE5NGRDcWROZzRjMWtqSEpKRUNJYTI1M2VVaVlISElsYWl0NXlEZ2gxWGYwMXhKSFI1dEs2dWJOdWdVNkxjNEtQVmczYWcxLVpSSHRHbl9xWFV6NHlZQVgyekNmM2pJRUNZZXdibzB6ZHBuRHIyS3U4elB3Y2RFR29PdVo4UlIxa1ExQXUxNnJleW5KQkNESXF3bU5OdmwzUVVhUUFBaTd5OEJJRVVCYzVQUkxpT3BWRWpJSFFIY1BMNXdBeEJoLUUyT0NmbDBqQlUtM1VFaGplRzg4LVFfbjd6bXpTMEJsQUdCbDVBcnFtcjFEOGZ5T1hlVkNCZ0VZd0VZc2dDUG1PMjM2REpza1hFcDNCX1F2eTFyQ2l0NDZmR0VUMFBqbFR0TDFlSGx5cy1zTnZLNl8zU0tQZGFJRG16VFB0N3VUdWFFUWFPQjZqZGVQZ2taYVZxOFF4NEpaN3R2eVpBb0NST2t0MWlFMmEtOHhodDctNWxULWRob1NRQ21SVDUzWmcyWGdkMzlnYWpoYk83WEhtOWdUY2M3S1pxbXZJdUNmV0JlTWh1RUVoNy1EWFdVRGtYU2ZyLWs0Y3TSAeYDQVVfeXFMTVJ0amJKM0JucnZGVmF6SHBjdHJ2elhWSXNPRDJYelUxSG1nUmM5VzZRRFR1Zi1rLXV1Z285Y3MtVC1pZTNRaHZla1FoS1liTGhHVl9qV0JRNFhudXhydDJnWkZvNEV6XzhUWmJnNE5iUklscDdhWFdCNHBSRmVHSE9DUUpOTmZRZFgtanBEY3JDcXB5clJEMzRvc0ZOdGFsUV9tUmVhd3Q5X21BQUpsLWVuUDlLYkg4eVpwU1FjSEU1R1VyYW5JZEJMQklOZGgyc0FlRzcyZnVUT0x6V1pDMTg3YXpDLTRUMTJEUTh5NlJ3TXp2VHpUTEJSbVhmV2JHZ0xaTXFHWXYybnZVb0NoZU40V3Z3NWJJM01HMnFwaXhnczNvWlVWdndlT01SUFFURXdvLWwwWmxhSDBtU3FaYzJ2R2lOY0M3aEY0Q21KVmQwQ242dmJaWVUwbm8wOVMzcHd6Skh4ellPZ3ZiRGZhaDlWODd0M2w1dkJ0NjRZaFBaTUhvdWdfY2VDVXpkSkRUdkR5SVV2VFRlR25ENlZmV0pzOXlHWVhteHl5VWxLbDByZlR4WDAyZmNkZkllTTdXbzJMNWxueUxUM2l4V1hkaVpyNFhBQmZCV1dDSVU1dFVGTHFkWUxB?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 13:00:48 GMT",
+        "discovered": "2026-10-08T14:45:20.956427+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "السعودية تعترض صاروخين.. ودخان يتصاعد من طائرة بمطار الرياض سكاي نيوز عربية",
+        "player": "رياض",
+        "content_hash": "ffa027e92ddaa6175dc84014299e2ff651004e20da04645203102f1d63e54b1c",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
         "id": 9791,
         "title": "اللبنانية هُغيت كالان في معرض أميركي لتجربة جرّدت الجسد من واقعيته - العربي الجديد",
         "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxNLWFuQmI1bXVBWU9iV1hac01jNl96Wnl2ZU0yaThyNjVsQ3hNQmJoUnFjQjByTjJSc2dPUVVfVzVsMV9xSENGVW51VWNrWHNhc3NnU3NiZkxXVWNyekJhNHptR0ltM1dmNzdjeEhYYUVCQXhsOENfdVBqbWp1ZlN6cl9tMVlJak5ONlZMQVNQUFpmWEtUQVhYUmFBbk5Qb3NRaFRrdmtSQ0RLcUoySnFXYkI5WVpWdWFyQm1UNHEyRWJBSHNGUmoyZFlnTS1JTXV3OEFMamowT0Z4dlBCcEc1N3pMSzhBcmxvSkhCWEVQR0l1bE91OXRSSDZLU3d6ZHRyWlRZeUtVUERqMmY1OFZwY2MxdUh2TmYzM2EtM2Y4R3NwNmlEQnA0OUFpak1lOEY2cVlfeDN4RkhqZ2Nzci12MXE0UHN5d3hpRVIzQ3lxdDk1enc4dXV4aG1yOEx5aHBkdGQtWnNpRmxFUG1SaVZad2hZb0ZJV2JXWlNNM3JBQlNsb0dEa1psSGFPcUZsYkhaWlZDM0ttNU52U19saGlVNkJrbU1aVEdDby1Eejk2RndrVlpYdXB3MlVCZ2JrNmtLU21NNVBmNkVRZy1DWlRUdjV3dlN5VnFqZDB1b2VjajNDeVJCanpHcTdhT1RIekdoYzBIdmlVZGk1bDBSRER3V0hRVFVkZkNqaDR2eWVDdjVObk1HQ29r?oc=5",
@@ -2166,22 +2198,6 @@
         "summary": "\"ربما كنت مجنونا\".. كيف قادت مكالمة مفاجئة نجم وست هام السابق إلى حلبة الملاكمة؟ الجزيرة نت",
         "player": "",
         "content_hash": "5448d666c7ff9d79c975a2fc3a297eec791b0ee6e9cc3407ef30f678c6d67718",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 9375,
-        "title": "«التحالف»: تدمير باليستي أطلقه الحوثيون باتجاه خميس مشيط وآخر شمال الرياض - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiwgVBVV95cUxNNl80WHRBanZrWkJ2SFhCdnJxOERacHNUOGZpVjUxVG9hOVFsM2REZWZ6dmxHbkFBY0pwaG5jYWloN21VYzZKNDFyQXRTdGZvQ2t5NDVnSU1UYlpkWTl0N3l2bFFYT1NwbEFoX1pTQ2JlUTk4N1ptTjJDWVVZWFU0Q2ZXWVFuczJvZWM3Vjl5QkVZdjFZTkVlQXl3VXJEbFF4aEkwT3NfT19VbkF0blJwMDVPOS1zU2JreGoyYnh5YWJ5YUtaa2taMWtMQlAwVmVNRDQzeG1OVzlzUWpSeDdQbUJ3Z09Jc0Nab3RVNjVMVHR4bkZuQzVJZmdhRExjaEMzdW4yd25fbHVCVlBCNEM0Z29qOUV1UkxPa1FFZmVMckRYQ1ZVdkJCanBpWnJKWTRKaFRtaXpvRE0xTjlwSjY4ZFluMmFvLV9YdnJseWFoM1E4WWRBVDYtVzdQdjFMbENzR0E4MXJnU3lROWRDdEVZTk9XOU1nMGdTSU9KMndXN2lXbi04V01pd21YMWpDU2NxQXY1NlFKOU9NT3NpQk11eWVhNHRNRXRpWjZfanVvcEU2ZGluRVNoUVJoeHZNNjFtbmRWQm5yaG9vVThvMEhlMjhHWnlFQUMydzJUSnBqNFp2RkVXbWpiV21WaTYycWdRM1g1MGJMc0FTR0ZBQmk3RHEzbDdhZk1uTURKMlV3QWh0b2ZJbTlROUJzYTFKRlNhRHExb3I4WEFHYi04QUQtOEpJXzVJS0FaSU9MUVJjbV9NSW11QnhEajFKNG5RZzZ0Vlh2UDE4cW5UbmZlTGtlX0xqRUZONC1WS1RxaHBxVVItVHNwMGFUa1FLRkJUck9xOUZLYmlwU0VJSVRLc1hicHNzNUJGd283RVpwcWtEa21IdldhWG5MTWhuUml1bXhrbG5WNDBLWVZvTDk4MElkNjhR?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Tue, 06 Oct 2026 21:51:29 GMT",
-        "discovered": "2026-10-07T05:55:57.261179+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "«التحالف»: تدمير باليستي أطلقه الحوثيون باتجاه خميس مشيط وآخر شمال الرياض الشرق الأوسط",
-        "player": "رياض",
-        "content_hash": "deaac351d712328f00c71fd439a125e243006fb769978a4e4a6921ae4f75f643",
         "sent": 0,
         "section": "middle_east"
       }
@@ -2392,22 +2408,6 @@
         "summary": "\"قبل هبوط رحلة من مصر\".. السلطات المحلية: مطار عدن تعرض لهجوم حوثي بالصواريخ والمسيّرات CNN Arabic",
         "player": "",
         "content_hash": "b96b0f53c82506b6bc70be67a99c51c8fd7ab6622bf27b990a3f271be2150f20",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 9673,
-        "title": "التحالف يدمر منصة إطلاق الصواريخ المستخدمة بالاعتداء على الرياض - اندبندنت عربية",
-        "url": "https://news.google.com/rss/articles/CBMiwAVBVV95cUxQalZ6NlQzQ3lZVTlRSnNrMG5aaGVOWnFTcms0S1lHdUY1Ykg1b1R1bVpZSTRLN0MtUVNXSXJ4QlNRU3NDUi10THlsUG8yajBVM2x1aVBHbjRKdngzTDF6NFZrZDFoR1BGTUR3VlFJM0xhaHdiMURmeW5OTDFnTkd1a0std3VqV01YSW1UZk44bE9wU0cyd3p0VGkzUVkzWDJyMVRENlh5VTE5LTNzSDFZTTZMU0QwNEJsRkZKcUpyaVRtM001RVZRSERpeGYxR0VUZnllOVduMmtYcTlIV01FU1VHczYwR2hZRjA1bEI0MnBWWDhydUUybkhIbDh3VTRjLTFrNmJlLWFUTXlIclFfUGFNQzR2cndlX2NMd092MVJGN2RYa0c5TGk3bDdiREVkbGlFRElCUXlfN0tlTUh6RjEzRkEwMHpRM3JGMGIwbUV0cDVyRnFUNVF3NXpiVS1OamVGeE9uWm5FTC1JNHV2c1JwMHUxZU1wRUpqWjdENUI2bUxlTGVmcnl0dDBEMXdjNXdpU213YzRoU2FoUURic25FbnZIc1N4bUl2U0NIaUNGMEF0cDFfUWJpR1Zwa3dsZ1NoaXlBMVJNdzlwUkdPREZEMFpvRUdpX2o4ZldsTmlnX29YeE9SdWtSVW04dTRyODhwMGdVMnZjT2I5a3hPRDBPZXZPZlozMTJVQ1AzWXNGUEJYdDhLU0l5V3ByZXhvbDlmSmJRTzhCV09vVm5aSXlST3dMdl9mZW1PU29PbE9sVS1fUlRBa0V2TloxY0ZxWmQyTFgwZlFVM3ZsS1VrVXZHeWtwc2lMdkV4UERSSHladGducHl6T0VDWDVTYnFXdURtelFObDRxRU5Qc0pqcFJYZ1VSTHM1NDBLcXItcVZXQUpJSWVYa2E2d2NYZmZOSkVqNGlUT2VMdmYyc2hsVw?oc=5",
-        "source": "إندبندنت عربية",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 21:47:12 GMT",
-        "discovered": "2026-10-08T02:41:53.205316+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "التحالف يدمر منصة إطلاق الصواريخ المستخدمة بالاعتداء على الرياض اندبندنت عربية",
-        "player": "رياض",
-        "content_hash": "ea5fa8f2cf5caaa042d5fdcf83755bcd2d7acefde8c126905023f9c47755ab3b",
         "sent": 0,
         "section": "world_arabic"
       }
