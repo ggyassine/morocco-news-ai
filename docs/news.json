@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T07:09:29.823242+00:00",
+  "updated": "2026-10-08T07:30:45.342528+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -565,6 +565,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 9712,
+        "title": "مباريات اليوم الخميس.. كأس الرابطة.. وبطولة أفريقيا لكرة اليد - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxOYkZOTG5UbW1taU0yU1dpTkpOazNtVzEyZEJrczJWLUFxUDZXZ2FBLVFETy1ZcUFuR3ZBbVlYbF9hQlJzYmZ6Z21SSTZpMWZxZHZPb29sN2lqWWhiWFQwYmJLOE1HWi1Gd3hKOHE2SFVQZUJZTHFIaHBWRlhsSFFId1BIeVdIMGFUeUJUNWZDS2twVmtrc1FyaEhENkczY01tOFR0QU5VWlA4bEoteEd4NFhjdklrWjFfTGNON0ttUFRQY25fTEN4WUd4WnN5LUZYS0NfSVJScVJCUFlEd3BBRHJ1VUM1ZGNPR2RnZmhLdVlLOThwMzQ1bnk4Tmk3c0EzQTBFNzZHOXZqM0FkX0NJSE9uU0lDdGx3eXRSQUlheEtQVVVjMFpPNE9hSF9fd1FhWUQtVDR6LTdvMUNkZk1JSE5TdkRONEdQS2pwQU4zWWU2LVpUWjBFYUlTLWdXUkhwak9hcFpBWWl1cV81RDQzNDByd0lOV1A3bWdkWTZuejRjWmVHcHVMSDEtUkdtM0tlLWU2V1ZuZkQ5LWJkdENaRkU0ZW9IRjJMajhBLTNIWC1hUWNEaVF5dU14OWVpNUZ4NTdVR1VqS1RjTjZFV1I3SENwNGNpT3EzUFNDLTMtTElZVGlYQzQ0ZFNuY9IBiARBVV95cUxOazVOSzFLZHExOFV0bFdESkNvclZIMnpLNkhmLUFSSWxCZEhDWkNIMFRiYXVmWkNwSFdDa0NrV3BCTmJPNFNsMTR0aUttakxKMEhheWVWbHBxYkhhYndrQmJQMHpsa1Boc0ZlMG9sWWJBZVBjYXpvYjBQWFJPbFVkRzRqUFpYeDRKd0JQb0FkbVNOcWdmOW1Ed0huclMwT3VwemgtVVlHYXJUV2VYMVBuNzFHRTBJRm1TYWxaOUN6cDh2UEtUMnB0dHBJek5rRzZLenROV2dpQTVaUURKOEwwMXBnQVMtaFlBSV9DME8xaVlGbl9MS18yM1pQTlhMclpzZUNldEhkODNjeElROVNVdm9MTGhCZ056dVRSZ2VaRmMwVGxNLU9DQ19GbURtR1JJc3J6NGVWOENQQ2ZYdGZoYUh6X25UZXdwWUU1T28xN19kVk5sSzBpbVJMeWpDRWFjaUVyQi0yaUJCRVRNSXFwSTY0LTlvZ0txWGhCLUJ4ekU0ZGdTdFg3dlF5MUZsSXBQYzlLRVo5OS1sc015ajlJNTJkdlFKOFRCc01UR2ZTel9aTzAtVlN6Y3F0RlgzZWxqYUlyVDJfb242V2xiYkRVZVV2eVlLTjZpb2N5eGMtQ3ZMQWF2bC1LX3NyektZRlpwdFBON0pmMWtMZjVpTXFLN2xnN2tTb0V1?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 06:41:00 GMT",
+        "discovered": "2026-10-08T07:30:31.767782+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباريات اليوم الخميس.. كأس الرابطة.. وبطولة أفريقيا لكرة اليد يلاكورة",
+        "player": "",
+        "content_hash": "df079e087c3f8e1b315dc9308217a506e913fb16dcc8c33e9fc07602aa2f26f7",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9707,
         "title": "مباريات اليوم الخميس.. كأس عاصمة مصر.. وبطولة أفريقيا لكرة اليد - يلاكورة",
@@ -1346,22 +1362,6 @@
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
         "player": "",
         "content_hash": "508bda43e99fe88aad1d8446c03f34a52f64363d120e540c3466dadeec1fcb28",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9628,
-        "title": "كأس عاصمة مصر - زياني يقود المصري للفوز على سيراميكا كليوباترا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxOTHJkSjdaNlIwN0ZiWjRGOGVZcVBwLTBLWF91MnFlV3l5SDFkdHA1dk1sV1FvOTNrOW5DTkRFUUNOTmowamxuNmhWSktWR3h5bnkxRHIydXhRUm5IUEZzUmRjN2RkaUdWUTY4SnAxd3BxdVhVSDh3U0pFeDJLMGdYZ3ZqejI1NDF4VVpTQUg4anQ1dWtoN3BmVjRYTFpINEZ0ODBEdEtRX2wyQ0M3aGhWX25fRDZCLXFqYUJzR3lMUjBscU5EejJRYlFPaUhDR2VCUU9Rd0Y0bUE3VzBtemoxcTBaSDQ0UkZGR2xBUjFPNE9rcmVGSkl1TTJ4cVN4Q216QjY3ZGpET0dwOGNVUWtSd2wxXzBVeGNjaVdwNVVoZEpJNm1oQ0VZMU04YTJlTTZib2UtaXhDVlFvUEdvdUxleEVYNFA0Yk1ZZVNTbTFtUTZLSmZzTUJocTBBMHhlOGFibG1UcmJQY0Jkd2o0d2loZm5Xa1N4aWQyLTM3Z1gteVdGdXBTQzlmUFI0TENzOGVSN2hGcWF3aU1nemh2Q2ZXZklqLU52eTljeWNsWWM4ZzhkZGpfTVJ5WERFZkQ5LWhtMFVibjRzNXhuQS1ZcEZWcU1sdTVNMHYxRDB5SUVwMDJnRkpmOVlTNVdmNHR3VU5zRFNVRlB30gH7A0FVX3lxTE1wQkFmYjZ3UjZwWE9mWTQ0aUhYT0R1UGVobVhUbnNjQWNOWk5WTjRvU3gxbThEWnUyUE9GcGR3bzJRNE9ZTVl6SWUwZjN5VFhaSGVTWGR3WVRDSlVWTXM5RHlfTHNLWS1FVDI0OVRBQXpMa2ltckFoWV9nakd1ZlZRSnp3ZVJ4N0JLUkl1cmZndVNNMjlQbzZzelFnaFNtYzE3WUN6eEE0aXMwNmZzVUR4aUEySE9yZGF1NUpDNnl5OFZOeFNKWmdET01zRVEtd0w0Umg3N180SUFjZkRBdUJLVVEwOTE2X3FqMnFFN2kzcEMtYWtmQ3Uzc1NvcDJPckRwbWRLZ1poaHA1ek9pVjBobC1iOVBmQlJ1NFpFRjNKWUllMkp5R2JQNEotdUZ1bHFiUnBkaVFPRU41WUJWNE45bWhFVF9MR3l4OGZsZDBlb19rSjFyOXUwYmtVN0xOTWNRVEd5MmpzVlVLNXllc1lOR3F4S1NkX1VFeFc4ZEhvUFh5eHNIVnh3aWMxZDFRQ09Fd3pISE5vRzJVRzU1VEIzSHE0bk5OanowUnBUcmlBNUxBX1YyX2R6aHNkdDlMalpRTDR0RXdIc1RTblNlb3p4MW84R3hKTGxYRWpxc2NMbXBXaV8wV05RamRqNGN6UEZ2dUFGWkdyeVJ1RQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 19:13:00 GMT",
-        "discovered": "2026-10-07T22:47:43.588546+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كأس عاصمة مصر - زياني يقود المصري للفوز على سيراميكا كليوباترا FilGoal",
-        "player": "",
-        "content_hash": "67f1ec49b08fea0801015112cc97f675e8970822d36cb1ddda268ea37e023ba8",
         "sent": 0,
         "section": "sports"
       }
