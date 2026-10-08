@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T23:05:26.138652+00:00",
+  "updated": "2026-10-08T23:23:43.629177+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -418,22 +418,6 @@
         "content_hash": "ae4c41b5c2725d288415cc0c1936d078e3e808b1059d40e299b573233e12269c",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 9490,
-        "title": "الخطوط الملكية المغربية توفر \"Starlink\" على متن طائراتها - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OQVB6VjFDSkd0Qmd3NG1JSjRsZXpoa25xeC03dENqWGU1dmVJTUNrNXNGMkpRU0g2RzZyMTZnRXBZbG5JQTlQdA?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 15:33:20 GMT",
-        "discovered": "2026-10-07T15:56:33.564291+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الخطوط الملكية المغربية توفر \"Starlink\" على متن طائراتها Febrayer",
-        "player": "",
-        "content_hash": "3a8cb1392ffd3fc47f9b9d4caf2c685439dbde459a0de30cdbdfdaed2974eeed",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -498,6 +482,22 @@
         "summary": "أحمد رؤوف يكشف موقف حمزة عبد الكريم من المشاركة في أمم إفريقا وكأس العالم للشباب FilGoal",
         "player": "",
         "content_hash": "88e1460d3c87c98ce88c676e67f729c2c576e062e1ff417424d0aa6e6b78b774",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9958,
+        "title": "موعد مباراة النصر ضد الدرعية في الدوري السعودي والقنوات الناقلة - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPcER1QkpiQmhkbnBnX0VqU3VTR05JYzBaV0ZjeEF6T3RkaHhoWU1jaHA2b2NoVkNhTkNYd3BTdk5lUnRfaFZHaDZYY3BkTnRhSG9IX2Jud2pudDU2Vk5HQTN4enFVVGNaV1dLUU4tSjgtV0V0a0UzcTRXc1VNZU9pWmQ1VVNMNnd4ZmdwRF9Ib3dZWjdQSWM0eXY2dmM4NmV1Tjdkdzk5LVVucjBSNXMxeFBScTl5RHBUNjBBbVl6RmNwZnJIUFRBNUJ4cjB3NUtFbnBrMGc4U0VubEpVckYtaXNKM0RVekdrZ0phQk9VejNHa0U0UjE2NS10OVJVZDNCWWR1SEltVnRROFl3SU5uZGVsSjNWak1haXfSAZ8CQVVfeXFMTllwVFd5NGZ0NzZFbTFiaEo1V05XbUtKVi1CSldLLUEyaDRxZDEwQ09Kb3FELUFMTWc2aGZlU056c2ozb29MY2pLRWNIbXBxTGRxQ0gtY3VxTE95YV9zTXcxd3Z4YlhPc2FFRVd6UmdPUV9TajA3TjdyTXl1TEw3cWR5UXFNbVNaSEpkdFByMmRtcTdfNWQxV3J2RDNrOGx4c3d3a0dRRHVUZTlvVE5Bb084NHFaa19KQk5PZU1OV2ZVYm81Nld4MTFPV1lKWDU1Um9DTDNSdk1wY0FmaUp6OUp3eVJwT3Q5VFN3ZHNJeVJJOU1qT05KV1VleHhrSjBsTGpucGdvcVFHM0tTMnM4VHZPQTFyT29HdEhVRGlYajA?oc=5",
+        "source": "الجزيرة الرياضية",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 21:00:33 GMT",
+        "discovered": "2026-10-08T23:23:12.992508+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "موعد مباراة النصر ضد الدرعية في الدوري السعودي والقنوات الناقلة الجزيرة نت",
+        "player": "",
+        "content_hash": "bd0edff99b108e157079618100f4f3a0b5c708c8998bff2648c643428dfb0158",
         "sent": 0,
         "section": "sports"
       },
@@ -722,6 +722,22 @@
         "summary": "موعد مباراة الهلال والاتحاد في الدوري السعودي لكرة القدم والقنوات الناقلة الجزيرة نت",
         "player": "",
         "content_hash": "3085ec0c3c70b0df1eee7ff9a546b18384b1aa83eeab6c824d9006c61403ccd9",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9959,
+        "title": "أبرزهم هالاند وبرنو فيرنانديز.. 16 إصابة للاعبي الدوري الإنجليزي خلال التوقف الدولي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxQcE0zblpSdXprVDNIV216dGxsU2RrZTdkaUE1aDZKYVd0RGs2VnNCaUpqcS02cWREQlh3Z0luNnZoMjBXOGpJS241M0NhbmNydWM3VmI1VlJqdzA1aVd3UnhkMzBqVVBod1RvQ29PVjRZaF9TeTB0bnpQX284dnVsM3hWWjdISjItYW83QjRTNDV2ZXlDd1VuWC1VNG9yNXhDRFBWTFlMUjByZ1JObGJsWFpud05zNlRzYkluckdwTFFJMTFkLWlNVmcxNDBsZjlla0lCWmMtNXVQQndMM3NONlRRV2QzQWlHYlQ5UlFUcUxtUHUyN0RoOXZMZC1nYWoyOFk2VlI4bS1odTVvMERlQlhfZ2Z4VC1MMmFMYm1WZXB0RjhfNTFTWkF5ZWJuRGU0TVpURmJKTzRYNWtheUZFUGxDdFNZdTRzRko5SzJXQWF2ZFJzWDY4Mm85ZlZQM1dfZzRYNzdXZmpaNUhyQzVCZEU1WnMzWjVnTGZkanpPRko1emJ3QmE2V0xwMExuTm1CUjQ5T3V2UkVVWlJzYnFRVlVndUNIUXVJd1U4YVJBUnFXbW9BVXhCRzBzX1AzZTZOUUUwS1VXU1N5SFNCUkw3bXR4bEprd0o3TlpvcS1zNVZhanFWc3ZJRXFBdndPajRsU1Z1TWxhckNZRk9tVC14M3l2TkpwYVFpSmJnMWZ2QUVmdGt4OEVURjBsRy03OTB1SlJZZlo5cjlWS1BLR3R4ZVJSdjlQQTJnX1lFRTBseTA3NXg3dXVPbHVMTHEwVTVJMzFzbmtTM1JwT1RLRTRzOVJRZlRDYTF6amwzVFBmREZOWkllSFc4VUVBYmNqRWNRakpV0gGIBUFVX3lxTE1uUXJxYTNOTVNpa3piSU1XRUdXcGp6T2xSMTR0UWpzY0lxZXJXakZGc1F2Y1ZCTEY2bEZDVzVON2lacWRFRzBJTWdQNWJJc203UGlBTi1NeVZNX21ob1VzdGkzR241eGowVjE2djRMMFdUekFBR1ptUzhxdWRRQjZ6LXhzejF4MkJySXdFYXhkYW9YRl9SU2dvSU13N1JwdWlVVEJ6LVZpN2txQ1ZsS1FZdVM5Y1JHUC1uNXR4bVBkY3dsZkVFc0EyaU56WEk4ZUlFb2phWmRzLWV5TWlSeXQ0VUJ0TUlNalRvUWlRVUREaTFicjN3Ni14cUJnSGpBWi1nbW1wNW1QMWJWa29CUEFPLUg1VTZ5d2RFQVZ4a0NMVHpOellka2ZzQThZcFc3Rk5JNlJKeVF2bzZJdFR3a2lBOHZzZTZodGFZandHWXVIdndtTS04LXUwaGNONl9oNGdKVHJ3T2M5bzFLTmNaVGVuU1RpbUFPREhXbjYtMmRLZGpJN0s2UVdYT0pEWnhJMkRqRDdTeFp6TVFIYk12WngxVkhRcFhNRTctR0MzcnRlNzFvVjRjUXBjaWtEd2pjTXpZQlBzcnl6VnQtRnBSandMYTRtM3cwQzRpZjUtUHVFQ1R3WmZuUHBobV9Sa2ozcTI1TzU0NzNCbFdCSGJwak1QUGljRnhsVjFQaWRBMlJNRnRncGFDVE5zZDlOamh0SnQ0TFFDcHNzdFFObms0ZDRybTBLSUhvVFZQRGZ1b2hVQXpDSFpNOGd4akpXZXNKYlkxMVBwTHB4d3JyZnY4WFgwbzFrMUNTY29iYXU3MF9STHBtNVFhcndIQnZQMFduT3M1azhfV0dmYg?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 19:37:00 GMT",
+        "discovered": "2026-10-08T23:23:19.971410+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أبرزهم هالاند وبرنو فيرنانديز.. 16 إصابة للاعبي الدوري الإنجليزي خلال التوقف الدولي FilGoal",
+        "player": "",
+        "content_hash": "b6913683d3f0b156ca8ce7acfb6ac2e08893f85c01ffeea0940fdb68af42c2ee",
         "sent": 0,
         "section": "sports"
       },
@@ -1204,41 +1220,25 @@
         "content_hash": "a355812cc64bb86ded8b76f4546588c20b775687e1143f3d38b490103e52018b",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9837,
-        "title": "مجموعات الأهلي والزمالك.. المقاولون ينتصر على الجونة ووادي دجلة يهزم الاتحاد بكأس الرابطة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi2AVBVV95cUxOZDZoUV9jLWFFZjJ3cXdEd0ZOTGFhUk91ZE4wVk1ZSHU1ZlE1NVZJZFdadkt3eU1zaWd2NlBVRGFqbmJVdW1USnlxM01WWjBtcmQyWnFjMzZCSzBMblRCUkk2eTFvOVVXaVpSYWY0ZHp0WnViSGEzSlFJR0RsLTlhckJEdXY5eE44am13djVzQUtzMTAyMjFlTWNsTmVaZ0FLV1hwOUNNRm01QUQ0NlZENDhNa0dLQWxGSUNubjJwMXJsV0dRQ0hqUGhQRkpVb2ZYLVIyVEwzU2NjMnZtVjNsNEJ5dXRram9qTTAweHFFRnNlQjNjdmc0bXVwTFl5aWxsOUQ5aS1oc19HNnJ5M3RQUFcyTUtmbkhvUnZqZjJEdG9PcEJjMHRHdTMxX1JhdmFLSjVOZnp6V2ppMEJmN1JLVFFXaG4yYmY1TzhtSEx5Q25VSXI5T1VLZ3BuZGR2NzN2bWlxSEJmS2tIaVBYblNaM3kyQ3Y2MjhCcVpEQUFoZ1ZHRGhLY3Q0TWl0ZVFiNzEybDJwcHhsWUppSFlnVjE3S0dXR2pjZm9BNFNBT25HOHlZaFN6b0w4VTQ4UGpDVmRvbFJKVlZXYnludHlpUWF2ckZHSGhTSTN2YnE5N2hJRnN1Q0djclhzUktoN3AwR1dxLXBWQktrUlZpQ1RmT0hDUnpPeWl5V00zYk9tc0Q3V3dXbVBIZ3drLUhfaExHRGk2ZkdMcTVKU0JSbjl5dDZFNzhVbDJiUFdkaWJIZHdzMTl2UGtFcXE0cWpPb0pua0tVMUlHNjdkRkpobElGYkREUERrR3hxb2p1WjZpV0tONjlpZTdSYmRZMVFFU3liTmtVdklnUFpFcDdtS1BiYXJ3VUc2MVBwNkNLTEJlcDVsVW1lN3VSMy1yM1dEZWtzSVZFRzk2WEt0Tm9DRm5zb3BpTmJBS0JIZmhzZ2lTRF9nQTI1X0NtMUNDMdIB3gVBVV95cUxQbW5FZGlXUWRQeVFDZ0pFdm9WX2k0ZmZJcldhd0ItS21WTlVtTU54elJaLUlTTTRucDFiUGJna3JodzRfUTk2NllWQzdlM21LV3FoZVJFal9JWXRVZVE3ajZKWkp5ZFE1ZVVRSjJOa19DYlpiZ05sbldzUG1sd0MzWkY3YTZ5V0ZKZUowdGdTNkNtc04teGpLM3Rfc2k0SWNBcTlObnp6N0REMS11VF8zNDZsX0ZWLVFtcUNNT1hPSUZjVWQweEktZ2ZhazQtX0dWTkdIVnFJSzM4VVQ4SktSYjBXWnAwMU9aVFA1N2RNYTV4MFhKQVRPZjhNUWZhTXQ3X0Y3Nk93QXZUOC1pLWFkY190SnhsZUdrcktUbm9MWFBJTHZjaGxDQ3czWF85cDZEclpUQ2pNQk9SV3JmQjhObnZHVDI4TDRFdG1tSFEzU0pWRzBmVWpTVjUtcVlFLVlaa3NDYzhjRUR3M0JNaVJyRjdLdWdwSThhSWdmZ2pHOThsVzVOSkotRmw1VG9SUV9uRmlKWXdxbS1GZ2Jibk5iWXdxUE53VTRtV3VSWGhJVl9LMmxFSWpFQklXWWR2MnV6TFpOYm1zb2lJVzdRU1JVcWpoZFBuUy1ZOFdiVHdMRGhnREFpcHRiZDVFT2xnM3BXYUQ5OTNoUGJLX2JUU2RSRzVLSmRTWGdTX3llZnhmNGFVTEZfTmRES1hBUTVKUkN6Q3dabk1JS0QybmVsZzFINXRSQjk1MmdoUUJKTmt3Z21aWkxGWk42dWtmdFY5Yk5IOHF1cFI3T1NlNVpjZTBTdmNzZVRSN2duYjgwVEhBWUdRZkVMY1ZMeW9VdFRtcXJBQ1dJZTlmdkxxU0pRaHhVaHRvQlZhVGJWYWZtSEFLTFhUYWtfTG15RUVHc1JKcTFnUzFPU1FCMDBWWFRESFlhMmNHV1QzVkstT05LbFBpejhRaXZabDl2eXpSMVZBUQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 16:06:00 GMT",
-        "discovered": "2026-10-08T16:22:13.896418+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مجموعات الأهلي والزمالك.. المقاولون ينتصر على الجونة ووادي دجلة يهزم الاتحاد بكأس الرابطة يلاكورة",
-        "player": "",
-        "content_hash": "87f32f83b2785a104ea20396769573b896720f07c6b4915a514f0724836ba83e",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9838,
-        "title": "ريال مدريد يمنح جولر جائزة أفضل لاعب في شهر سبتمبر - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQWVBrZkVMOGVlU29rcGIzeTlFYk1KYlp2YlFFXy1zdk5JeTNlSV94eElnXzcxdGRHYTBxajBwTUw4RnZZay1YcGZOY2h5a3hpN3ZOeFpkdEI3ejJaMzEtYkJXc1FfNG1IQjFsUmE4TkVOaVJsNEU1d2ZhY1Z5M1BNTExfVzVmeXJXTHY2NDRleVhka2VHSW1zYTAyUzdvaFdvZUhmOHhvdF9fRTlWSC1UOEplUW90V20zTFJ1VnJ2cWlqQndFWFEzOHUyMjhHcHdPMUxVSnVUOE51UkxOVlpYaVpmZC1leFRrSUc3bWVrbW5BVWp0b3U5X3g2dldybnVFYmZtRXhJaDc5R0VqTTN1M1pZaEhtU1FJVHdvWnVDMDhjemlaYnh3S2pxcVJ2OVplOHFOdEg0cnJkNG14ZE5zRW00NEFyLUlub0FiNGl1ZVlNS2xGZHFpLXFMVE5aSEhkRzJjUFRtWm53al9XUV9URy1RTDJibFNyTy1FUXQ2NWROT1BkS0xPOG9JWFRDM2FCd0liNnY2UVJ1YUphOVhEdG91UjVtWWFkSzhhY0ZQVzkxdzN50gG6A0FVX3lxTFBGTUc0QUpESHBsWVpEMjQweXBlelVSTFM2cWNtX1o2UHJuQk10VjhwSDVxZzY2NHpYTk5iRGVkV0s1b3ZLV0tKLVpxOFdJQ1hNeDFybE1abWR3cW1JZ1VpMk1VbzdQLU5NT0dHc0dMOGdzWGxGb1YtZTMwbGV3VjhhalkxVkV2QUJ3VFp3Mll1OW5kNF83WWJHYXhzeWl1eUhPOURRcUxyMWdPdHNxM0xJNGp4Ym9MRWJzT2pvdk5PS1EyOGtFd29fYkxZT0d6Qndsc1M0cHZBU1BuNHh3UFd6NEpkeUhKejRDbGctbnVYOU43eGpEbEJpQTJlSGdmV2lYcll4X2FvLTNBS1RZYlk0VDRSZEdlU2MtczRqX2VfakExOEp2OEgwMFpaRkhsUHZXMUVhVEVIMU03YVhWYmNFU0phaTFMSGdpX0xiOWEtX3VOSXNaa2EwSmNBRlRiaE5NNVRNSVpiVHNxN0hYOUMway0tVHFPcXVUdGpMQXlIbFJVSW5KNlhyYXk2aW95ZmFYaThiZ3RXbWRMWktwRVRSR25xazRBdllwUDZLYUloczNheFQ2bVcyMGc?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 15:59:00 GMT",
-        "discovered": "2026-10-08T16:22:13.899179+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ريال مدريد يمنح جولر جائزة أفضل لاعب في شهر سبتمبر يلاكورة",
-        "player": "",
-        "content_hash": "9472e75ecb6eaa7658e4cce5564c35df4044f7db498ce115489fbe5f44104b22",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 9960,
+        "title": "قناة العربية - رياضة / انتقال كارفخال إلى خيتافي يتعثر بسبب راتبه الضئيل - تطبيق نبض",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfOFN0eGZmVmZRUWtpckZrR2JOOWVuNTVwTnk4VnFPSU9XZ1dSUVg5dmJpSHVYUlpVRm10Q1EyUy1pa0o3TTNKbWRaX0FLUjg?oc=5",
+        "source": "العربية رياضة انتقالات",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 22:04:28 GMT",
+        "discovered": "2026-10-08T23:23:23.649680+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "قناة العربية - رياضة / انتقال كارفخال إلى خيتافي يتعثر بسبب راتبه الضئيل تطبيق نبض",
+        "player": "رياض",
+        "content_hash": "955c1ddf77d0609558727f4b30e15f5f328052a11e43359b3d0aaaebfa0dbc0a",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 9931,
         "title": "موعد مباراة ريال مدريد ضد فياريال والقنوات الناقلة والتشكيلتان المتوقعتان - الجزيرة نت",
