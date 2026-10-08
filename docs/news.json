@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T12:45:01.101580+00:00",
+  "updated": "2026-10-08T13:05:44.060223+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -96,6 +96,22 @@
         "summary": "بمناسبة الدورة الثامنة.. دار الشعر بمراكش تحتفي بتجارب شعرية Le 360 Arabe",
         "player": "",
         "content_hash": "0172f5b5e5b2a0e8bc3964a4f7150fa78ced31c19cc4bdacb6b0540b7f302907",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 9785,
+        "title": "إفريقيا مدعوة للاضطلاع بدورها كفاعل رئيسي في الثورة التي أحدثها الذكاء الاصطناعي في مجال الصحة( خبير مغربي) - | MapNews",
+        "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxPTkJiY3hBeG1RNzFlOTVaRTR2RFF6bWV5MldxTVZGT2ZFT0dJWXhGeTEtSlNsYy1SWmpyMDBpY05VQVZuT1AwMng0T1k0U1p5SWpwUzQ0TGVwMnlsS3Rkb3BTTndrRm4xQm1VdlhQMnVzTXZfY2NNMjB2ek14UWNVN251V05KM0k3S29RS0w1SHpXTW1XYWNYX1F2TWZ1TWktQm9uOXQyTno5QjI3OEJPSW15MGFqNVBlbEc0SnNyQ2NqVUprTllFaGhvZEtsU092LWVsZEtpRXpEb3BPZlp3NWdhU3Y5V3NyT0dJNTR3MmhITkI5SV9VRk5ER3lyTTJ0LVVCdmpGbFB4cFlRZkN2bnRmd3FTMFJaeFFwc3Z3VmtvdWhWcTJMdXg5Um5JVkZHbG1Ua3gwTHVjV0pvOUczV3lsOGJwTmJURW5tR1VsbmxMZkRqQzZLWlV5ZmZwYW5yeC1WY05CWHVIUGFDcHBkZmZJRWdDTmY0cG1idGhNTE9BbzNmZmxrakdtUUE2ZnNlWkxyUnBockJRSUltUXpFdjJyMTg3ZlUyQXFPR0cxRllJWThEb1RyUWFaVXVpRlhQOWRTNUxuRkVxWHIyZHlZUVFkTnduY2FPelJLSk9FaC1iTTQwcEZYY3hacVY4X3Nrc2RBX1hmWDdJT2pjQ0xGRmJFamtWS3p1bFl0T3VNMTBGOVBtWU1PdlNWcTRyZzg3SHFTb2g4M3g5dU1YVVhUWkVBbWFnSGIxQ01Tc3p2NS1XMV9CSk9FazRtdHpQZTVWTzBKN1JwbEZIWm9KNUJrV1luVm43VDd2QUlDWE5kX2ZaVHdESXRodFpOVE8zVk9DNjljSDZYcldDeFJWYUxXNWpVZ3VTaFpOeW0wemJxcDJYLTkzLXhOUzRmSExJNkpyOG5zeUstQUxwTGM?oc=5",
+        "source": "MAP عربي",
+        "trust": "A",
+        "published": "Thu, 08 Oct 2026 03:51:24 GMT",
+        "discovered": "2026-10-08T13:05:16.711164+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "إفريقيا مدعوة للاضطلاع بدورها كفاعل رئيسي في الثورة التي أحدثها الذكاء الاصطناعي في مجال الصحة( خبير مغربي) | MapNews",
+        "player": "",
+        "content_hash": "baa2fbce1ff568d57d5a18ee763da462727dd169d70c467c2ea315698540fc72",
         "sent": 0,
         "section": "morocco"
       },
@@ -340,22 +356,6 @@
         "section": "morocco"
       },
       {
-        "id": 9286,
-        "title": "بعثة اقتصادية إيطالية تبحث بالمغرب فرص الشراكة في قطاع السكك الحديدية - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2Xy1TZ2owS2ttd2QtcWRzUmhVeHVZMFFGMV9pRkU4WWMtOWl6Vm96U3dqTmZHVVI4b2Z2azJPLXp4UDZCREtxeQ?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 23:03:51 GMT",
-        "discovered": "2026-10-06T23:14:21.528518+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "بعثة اقتصادية إيطالية تبحث بالمغرب فرص الشراكة في قطاع السكك الحديدية Febrayer",
-        "player": "",
-        "content_hash": "571f8832161859f0cb20f7332579ce051a41e1b2ce25e6168a8c8c8288dfc55e",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 9684,
         "title": "إرادة سياسية قوية للنهوض بشراكة ثقافية مغربية - فرنسية تغذيها الطاقات الإبداعية للشباب (سفير) - | MapNews",
         "url": "https://news.google.com/rss/articles/CBMinAVBVV95cUxOWkswdjJjUThMZ0JlNm12ejRodDUtVDlwbnNiZHZEUHJKYzFsR19OOUEtU3NOcXFMWjJRTjFpTTFZdU5Pejd6a2tvQktnQXJSb2tpa3dUTkNFMDNnOGRRWWprSDJId1lNNjRvb3VReDduTFlKc2FBbHFVa3ItaEd1OE5hMnVKaWc1RS1oTnlHWlE0RHRFSUtBS1d3MDlvWnZlLWRjNlpaM1lxWGtGSXhHM2pzVHB1d2RCd1dKQWI0RG85S2xGeHN2UUNFMERxbEZJaDQ3QWJaSHp2a0ZtZWEtdTNIQ1BqUFBRNlkwb09wb0p0Y05NYkctd0M5b2ZSSG5rNlgyNXoxWUY4MVpMcGJpVUNpem0zbFdpQkdiREFSTVZOMUt1REh4SVE1UXc3bzlmRFZkNUJMbUJRSzcybDRaX1NPMUx2T1JseVZETjZROU1PbUtFT2lWMFBFWDdNNzNIYlljcS01aUZCRktRNVlMRHU0cWNjckhUeFYtTG1GT3dWd1BCT19LYVFzdEtRem9uQ0hTZ3YyYmJfckp1bV9adW9SWTVqMlluY05jYlhJalFPQUY3eEhoYk9DVmkzQW9DTE92cVgwNTFhbmtqVEE5cTZ4UEZTemxLNTh6M3I2bkZtMkJwV1ZzcG1kLThFOEd4SlBlc2V0UkVaZEFXdDItdHBYUzg1Z0xlZlJ3Vk5WbnFLSlh5OXJSUVlXR1pkcUVnR0VnZnZvYkphT0h6dThudVZsMWVLRk53MUMyRDhLUWFEVnlMOW1hbTFjRWJISmpYYW4zek5yV2t0LVNZejYwWksyVkJFU2tGeEtmbTE5QzRmNkFIN2lDUzBjRl9qZklvRVF0d19sNnczZmZuRWZpME40N0FQbUxvOTgzOA?oc=5",
@@ -450,25 +450,25 @@
         "content_hash": "d02b6c54fa66b830aa6f08f4c12a4959b7eddae9ad79ceae4b66083139af5936",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 9571,
-        "title": "الجالية المغربية بألمانيا،\"ثروة بشرية استثنائية\" لتعزيز التقارب بين البلدين (سفيرة) - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMiqwVBVV95cUxPZ2NrVGNxdmFiak9oQ1JYLWFyaGVsLWhZM3p1YldzeW5ZVmZWWEwwY0h2R09mV29PWlFycmNRY3Jlc2JjY2FBYXRKTnpWRndVMnFocF84OERsbExSVGtFc0V4b1pWaUpOTWZNWGtGNzAxSmstYTVSWGJzdjcwa281cGdzYXNSdDNQX1FzZ2xOamJJWGVsUmk2LTEtM3VzVWRnMDlqRjRkaEh5cVhIRURIT3RWT3kwUllBV1VtTlI0QjBuWlU2UzA4MUc1YWNKTnVkbEFVWFF0VVJLUGd1Wko0blEwSDdBanhXSUVKSmhHSks0bTM4UTh2bkI4amdZLWh3WXZaOUl6UzlnR01qYVE3ejhaS3FpbmI0c3BwbzdRbGE1N1pMWlF4X0pPM3dkZWVKakdVLUZpQUZWWVNablNpa3ZBTDFUWnd4OHhNaFQ4MHlzWnZIdDc5ZGkyeDFUNnc2c0w2TlhlbEsxRS1pMi00WW9lM3RYZXJaeEJ0M19MSVpfNEY0RHJ6NGhBZFNlTm4xUFpyc1Vsc0duQ0FzamhlOFI2cG1UaWd0U2xrN2VKeG81X3BOWFJRVmpBQkltMlVreHVURXZrV054dFBULW80RWtqTjdFY3VPVHMxSjVjRHVLNEtuMllLR0xCRTByYklTRV90UGdGM1lWajgtYl9JMnFzbGRIX2ZsRnpDME1sTDltMzRaNlJNcWhDLVBfYXV0bTNpd21jM1hlUFEtTlZNVjJXS0FYaGRXSHRGOGNGaHVwOVRoOEhJNnhDRTRuQmJ6SzhJQUR0eDh2Z3FRQmlXYVkwaGRuQnpPb0ZpNXc3SG04a1U0UjRZLV9WbHZWNkhrdHdXUVZXUG93MGU5b21mbEVDMElqcG9kR3EyOUozSXV2U3Ffa2VkdFRBRQ?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Tue, 06 Oct 2026 18:08:17 GMT",
-        "discovered": "2026-10-07T20:04:43.175862+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الجالية المغربية بألمانيا،\"ثروة بشرية استثنائية\" لتعزيز التقارب بين البلدين (سفيرة) | MapNews",
-        "player": "",
-        "content_hash": "d750345ab35eb866cd676d039c29bdb36abe36d689e9ee50b75e5ff8ccc01fc6",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 9789,
+        "title": "إعمار مصر تطلق النسخة الثالثة من مهرجان \"مراسي الساحل الشمالي\" للألعاب الرياضية - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMihwVBVV95cUxON2s4LUU1dVhBZGRwSEhRUnl0ZTQtSFNnbUxmNGdzZVpJQ3dGeWE1TVUtU2c3VkQ5OTRaZUVzOEh5WEhCalI0RVpGSHV6OFl1NUtyNkVmbkFjbUFsVDZoWkFralJuMTl6Zl9MYXNKbjR6ZkYweHNLNlJhNlJSaFZDMTJDYW85MXRTeWJyVzZKNFhaLWZOZnB6OGpxTkFJOUNGUzhLUWI4R2ktS09LbkwtNVBRSEl6SFFURFNoZzlxMmJob0NMRFZMc2pVV0hNQmxsMkhqUnRNeTRiNjVHYkh6ODQ2RF9TNHhwLWQyZ0FBUEhzcUp0T1FVWjZQWDh0c2hpbE0yQnZudWxabXFDaC1hS1FyR3V6dFRXcnI3Wm1XTDJmSy1TTGl4UzM1cjRwTjlSRVVHUll3TXFvVlIteGpOSnRleXJUS2ZESC03WXMxQURwUExqWHVrT2dyMXQza1k3UmFzMGg1RkR6M1NMQ3hhUlRMT1pLQnA3SXNoOUJPUXBvcjB6OF9ySmd1RnU4ZkF3elZhMkpPTy14Rk9XSGw0dzBweE9WbnB2MTdrSGJtSVA0Skdza3RRNFhkRTdRbnR2WXB1TlA2REZTbndHR3NBTW5GUUVfc080WGVZQjA1Y0ZtUGhoSVJKZjkzQlBieWF5YlFnREc4RkZJcTQ1bXE3eHNTUWF5SUhhQy15UTJldGxzU3JhSFFGa2ZfZklLMHg1VTdoeGpGcUlRSGQyb0I1bUdCVEYzZE54STdwRnVDc2dVVk1CZDVsSC1DNHRkcTNMQjNyU19oZzhLc2xZdHBlbU1OaUpFUUdCVERkTlhuUHVJcE9lbENmMk55bTZ0ZzVtc3MwRnlKb9IBjAVBVV95cUxNdFBGTW14ck5mVzZWRlVJSHFBZlVCbjh2WDFNTXlPbmhxZDFyMmRhS1FXYVZLS2w5d2xSSDdJazVHQWx1NmxIMTFYZnlpd0pLTjRsQ3NxOGFtOHc0Y0RoMTBzQkxfRzVwSTc0bndXOExEeFB2M09OczRGaXNrT284MndwSy14UFpROThHTG02TjVEbW43VjI1blJ4V0ZfMmZtYmVaOTRSWmJ2VFZ4OWJLTk1FY0ZtdnZvdDFDc01SeWtuS2c1VXNncmVScFlSZFA5NTlfc2dCajFoVW5xS0dERkJEMkY1emN1NVpFUHRiOWFNdEp0Z1QwakhZbGJGZENZTktvQ3dHRDZCLWJLT2hjRWRaSWxicDl1VGVoblpYTGxjQjNwb0laX0Y1NExXZkdDdUhQTEQyUlF2LWpwM21XNnczMmdWZnBwTU53X2Vsb0c3NTBEUkRoTlJHZ1FmclRnVW5RNDdma1M2d2ZYSzRFWFRsR2RVOXBIaExDY3BIZUxtT0JBOE1jeWtMWU5TZ2dDTTMzZVFiNGpWZ3VvM0xOOFVvMUgyZ0phZVNleS1vOWluR2FHMWRrc01XNWJUU0g4RnlBUm1Pai02ckN6anlSTk9mQmNxdVMwUlBfS0IwbTZJMFNoMm5KWnYxa3drUHZhV0ZrMWVMYndNTlNZeFpnSVZCNVE4eDJQb3ZlQXV1dS1wSHI2Zk8tbF92b3ZQd0tZT3BFRXJMQTl4NnY1WG82Z0tZVzlFX2lsLTcxNW93dXh0aUw4RDRyb3FCbThfM1hFdDkzLUh5bFpuR1ZhNmNyMGRteE52RlQ0TWcxdVhvMmlqdjJFWDd3SGFCY0dmTEs2NVBjcGNnc0s4RlBK?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 12:45:00 GMT",
+        "discovered": "2026-10-08T13:05:29.740327+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "إعمار مصر تطلق النسخة الثالثة من مهرجان \"مراسي الساحل الشمالي\" للألعاب الرياضية يلاكورة",
+        "player": "رياض",
+        "content_hash": "2c80ce570408034e348df495e7807966aa2c1874c9b934c0ae684cb3205e974b",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9779,
         "title": "الرياضية: سالم الدوسري يعود للهلال أمام اتحاد جدة - FilGoal",
@@ -482,6 +482,22 @@
         "summary": "الرياضية: سالم الدوسري يعود للهلال أمام اتحاد جدة FilGoal",
         "player": "رياض",
         "content_hash": "5b207a1cd9db02e67a338aa782d749d482b5ba7ea2f937fcf49c43ef3bb9f1e5",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9790,
+        "title": "شاعرة تحاور الإغريق بلغة اليوم.. الكندية آن كارسون تفوز بنوبل للآداب 2026 - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPeVNQVWZCX1hjcDBraHNUNDJaeEl5MW9HeFRKMGVqeFFNNGRuNHJ1TzJvaFJzNi1IbmNCWTNYS1JZTExYUHBPV0xLRkFxSkx1OUJ2Q3FBZmZyUjJRMkM0dV9FQ3VFN1Vic3J6TnJmSGozZm5qWklPWXZOWWZCcFNSRkFadk9ucDdvWWZ1d1pmdlFjOV9uOGpfZFhkTW9PMGthN2xrNEl0Y2Jhd3h6LXJkdkpFb1VYSFVYVlVFNV96bHhZVzQwNkZjV0p6WFF4RGNMSHdFYmtXd2JrVjRraWNsSXd2UmU5RDVSdDNMaGVOODRGcnVIeUp2ZDlkMlpVN3BySlk4b2llbVpheGlLRDJ3blMzRFV3eEIzbU1yU0hLWWJ1cWNDaVpuQkwwR2bSAbICQVVfeXFMUEZkRGp3N0NlYmRUUTd2YWsydk8zOUlPdUVkdHBoQnpmWXQ4WmhrSmtndEhHaWhKNm5hckxNUHliRUZaREFMRWRDN0F0N002S0tabmJEUFljTXlJV0tNRkdldVlydjFCdWxLS3NnNjQtWjM1b1VhNERTb2VacmlDeUFSTXNNN2VlTkI3WjBwem5BdGZDcEhEZlNrbmpDbmNYaWF4LWZaT0tkUHF6YmlxQ0xJMXJscFlfT3A3UG9mQnA2UVp2clhjNE0yWFVKeEJpVjI4cmlOdjZZY3V5eXVYLW1veHEyRXZ2RmNvdmx0M2hsVHU3bnhFSk85dkRqRUlSLXZvMTFDOS0tbkJVdnd5SU5QYVA2OXU5MUFmSDRhWnk0Z2x2a3pDVG5CR2V4SnJjam9n?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 12:07:51 GMT",
+        "discovered": "2026-10-08T13:05:36.159199+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "شاعرة تحاور الإغريق بلغة اليوم.. الكندية آن كارسون تفوز بنوبل للآداب 2026 الجزيرة نت",
+        "player": "شاعر",
+        "content_hash": "96845008809cd0c4e9f048b66269ad38ab356aca8a3036d6433795873562357f",
         "sent": 0,
         "section": "sports"
       },
@@ -1236,38 +1252,6 @@
         "content_hash": "ca3e4bcbe0e70095a737382977e25872c2fa6c9281ab99882e4acb526339d75e",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9616,
-        "title": "هايتي والدومينيكان آخر النماذج.. حين تشتبك كرة القدم مع الجغرافيا - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQZXhLWmNkZGZSQTBCNUlKTWplQVlYX3dPam9BV1A3RVpuOGVhcTVKVE5BWTVKTndQbHE5N09CS1FfR0NUT0tPTmlSMHBPQ25KY3lXbVE2SnpKLUVEd0lIUWQ1ZlFuaXJrWE9KVzZGYkIzbU1tYnhHMmNPZFlsVHpScTZzOEFYNWR0c2l0MnBIMGstQ3ZCR3lHcXFVTGFqYnVqdjREbVEtaldPbmJkcElWRWJxZkdXY3h0dEFMd3pldHhfd1UyZ09mVjhpX1Z6cFFCcWUzSW1KeExkMDZISTl0SUFQQnN5blR6R0J4ZXJRelFPTU9fN1VtYWdTWGtYS1VReDBaV0xCMjJ4OW1oMGlhd3J5eGp2WlhIY3MyNkVfaE04VUJ3ZzZidlR6VHEzb0RXUTdhV0doSkJBdllFMl85VmJIaEJuTzdPbGfSAc8CQVVfeXFMUGhFellPWDg3ZEhUbWd4Zy1yMFhHYm1RbTRSRW53bDY3ZlJHczhqR1M4eVdpM2hHME9CQXhmdjU1SUNBRU96WEwxYmhwYlFvTVRIY0RRcklJNDhXRHF1VU9UaEdwVlBCVEw5X1BKM3lCYTU2ZTBaNmVsbk5nbUhZTUFQcWMzamZ2Y1ZIdjVPcVdwUXVWdlBoRDZGQXFiZDRsNDZUVU1BU1lxRE90akxjcmhsX1BrMFc3SUZEeXFobDdOX0o2cTJlaTBSb1UtXzhOT3lzdEhRSDZlSGI0Sjk5bWZZb1BrRWE0d0t2bXZhc1JueDc4MFFuUWxPaDhPUVRpb1BvSFhxbkhXQS1QU3NzT013MldCVUlVRFgzWW8wSFg0U2lnSGQ5OU5BYk5lQkQ2eFR1ZkxBVmlZc2JQX1ZVZ09fdHdlWUpTOXhDOERWSHM?oc=5",
-        "source": "الجزيرة الرياضية",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 22:00:50 GMT",
-        "discovered": "2026-10-07T22:14:27.403811+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "هايتي والدومينيكان آخر النماذج.. حين تشتبك كرة القدم مع الجغرافيا الجزيرة نت",
-        "player": "",
-        "content_hash": "ca3e4bcbe0e70095a737382977e25872c2fa6c9281ab99882e4acb526339d75e",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9609,
-        "title": "مباراة ميشال سبور و الزمالك - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxQT1V3WDZPZFh2dlp5VzktcHByWmM4b2otSzd2MXk1Q0xxNVN4UkNyZU1EOXdXRmRNcGJWMHg0TmNwbVhHa3RabWJtcEFuZU5fZWdGY0d5RnNBNkJoZzlMU1R3NFBURS1HeXo0WkROU1k3Q3VjdW9Bc2FOMTVtUXdxbGtGMEY4RUtBVnlfdDFCeEtwd1pCd2U3a291NkhzMXdzRExfUk5qOUsyVkg1WUVwU3BjX1kwM2xXOHhmdUJNWmdnWlJiUUk4LTE1M3B4LUVCLW50d0ZkQzlxbXV3bEFQM1ZPbE5SWjc5NVJWeFhIR0xpSFQ3c2JZT2RUdWhpWTVKSGw4Mk5LTTVGS2I4QkxWbEVkTC1YZE05WnFEdHBTdE9NaW1hWmlWaGNxYkZpNkpzNncxV2ZkWm1zYmtGUjRDczllZmNUMGJIWGc5Q0hOVW80bEE3Z0NNa2hlSGc1QjZ1VGp0ZmhUMW5pN1h6a3dTVTFNem41Ti0tWDJxczhia1c2dmo3NmVNNEhyM3B5dXBJaXotdFVObG9ocXIwQ3g1WG16NFFwSjA4bnhnQ2swNXFXS0xYeDVzU3hoR19OM0xqMjZhY291dkVsbzhkTUR3ZnMyRmxvQkp4YUloVnYyZHhGVTVmZmc?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 21:57:59 GMT",
-        "discovered": "2026-10-07T21:59:25.601188+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "cab7402395d13cbaaeb41c84772aa437052e9e94a13075064cf6c95de47e14f1",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2009,6 +1993,22 @@
       }
     ],
     "middle_east": [
+      {
+        "id": 9791,
+        "title": "اللبنانية هُغيت كالان في معرض أميركي لتجربة جرّدت الجسد من واقعيته - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxNLWFuQmI1bXVBWU9iV1hac01jNl96Wnl2ZU0yaThyNjVsQ3hNQmJoUnFjQjByTjJSc2dPUVVfVzVsMV9xSENGVW51VWNrWHNhc3NnU3NiZkxXVWNyekJhNHptR0ltM1dmNzdjeEhYYUVCQXhsOENfdVBqbWp1ZlN6cl9tMVlJak5ONlZMQVNQUFpmWEtUQVhYUmFBbk5Qb3NRaFRrdmtSQ0RLcUoySnFXYkI5WVpWdWFyQm1UNHEyRWJBSHNGUmoyZFlnTS1JTXV3OEFMamowT0Z4dlBCcEc1N3pMSzhBcmxvSkhCWEVQR0l1bE91OXRSSDZLU3d6ZHRyWlRZeUtVUERqMmY1OFZwY2MxdUh2TmYzM2EtM2Y4R3NwNmlEQnA0OUFpak1lOEY2cVlfeDN4RkhqZ2Nzci12MXE0UHN5d3hpRVIzQ3lxdDk1enc4dXV4aG1yOEx5aHBkdGQtWnNpRmxFUG1SaVZad2hZb0ZJV2JXWlNNM3JBQlNsb0dEa1psSGFPcUZsYkhaWlZDM0ttNU52U19saGlVNkJrbU1aVEdDby1Eejk2RndrVlpYdXB3MlVCZ2JrNmtLU21NNVBmNkVRZy1DWlRUdjV3dlN5VnFqZDB1b2VjajNDeVJCanpHcTdhT1RIekdoYzBIdmlVZGk1bDBSRER3V0hRVFVkZkNqaDR2eWVDdjVObk1HQ29r?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 12:46:43 GMT",
+        "discovered": "2026-10-08T13:05:39.411021+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "اللبنانية هُغيت كالان في معرض أميركي لتجربة جرّدت الجسد من واقعيته العربي الجديد",
+        "player": "",
+        "content_hash": "0499a580f7f893d74e42a83b343942e35268a2b4a52aba09dde4b5404c8e89c6",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 9753,
         "title": "انطلاق الدورة الـ67 من معرض بيروت العربي الدولي للكتاب - العربي الجديد",
