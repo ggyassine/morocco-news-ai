@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T20:15:31.992492+00:00",
+  "updated": "2026-10-08T20:36:39.552788+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -418,25 +418,41 @@
         "content_hash": "d76e7f0fb60c5f2d3822871ed661819b3d9a55b706a852603faa4165c9163b43",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 9476,
-        "title": "أمطار عاصفية تغمر أحياء وجدة.. واستنفار ميداني لتفادي الفيضانات - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5cjNQaVU3YXotSkd5Yl9OWXVXM1JFMlJJYnQ3c2Y1MURRZTBjUl96RG05UDN5ZDFRanlNOGR6VVNhQl9LVVV5TFdfRXNLcGd6QXhnZm1pLTNSMmJ3bG04Zy16NXk5UQ?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Wed, 07 Oct 2026 11:12:01 GMT",
-        "discovered": "2026-10-07T15:04:53.964440+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "أمطار عاصفية تغمر أحياء وجدة.. واستنفار ميداني لتفادي الفيضانات Le 360 Arabe",
-        "player": "",
-        "content_hash": "c353aafd364f454235ea426026a253da71ef6e15334aa86f8ed212e3ea07b1a7",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 9920,
+        "title": "دوري «الثانية» السعودي للسيدات: 25 فريقاً... والانطلاقة في 6 نوفمبر - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxNMkxpVDBkdEZsYkFxSFV0LU5iV253MGNWTjdPRWxmX09JOG5XMGxxTG5nOTFLWU16elpZdFdsdVA4QmJQS3dnOEpyVGk4YUlBTUxSbW1DUDVYWDRjTzlweFdUaXVuWXcxaUx1RFlXaWpicEFwMTBFREJNMEhmS0p5aTdPTGFRdEJiaXpxVmxxOWFnX1FtMXktbEVkMGVacWNIMXZlYmQ3dTFlS0d0cUpWaU0xcm9lQ1dIX0ZXOWxlZXBZZzFST3pDWDNwV2FNOUttd2tJbFkxLXJERFZ5ZWpDcWt1SHlXZFVNSkYwUkJHM2lFYXdNSzRVV1RxXzlCdjI4c2p5b0tWZE5nVG1iendpWW5jMWRocDJuaHJPbEIxbG01R1pWR1JhRlo1WGJUc1ZTVGx2VXk1dXp5QU9CLWJtb29ORkg2c21YS0gzT1dYWk82cGpDOXVKbDhXOVcwaEdZbE54aHpXNUhScUFWVE5pUjd2WTBYamQzaWpVYllxT093UUo5ZW5xWElFVEZUVGN5a0FValFoOGc5bHluLUpQVXdxand2WXpjZmY4Zmd0UmVYS2szTW1PT0dXbmpSaEJVczVGZFQ1OVZhMnZUbV9iRG1rR3hVTTZiX1pHRjVORUVXN1BwYXkwNU1IOEE3THVZRG1iSEJfemw2ZE1QamN6cFNRbUduaDdXVV9IQXJ1OU1VYlp3akx4Y2tORFhGOU50TExPSk5kWFpmTllVb3JlZjZja0xCMzZUdHAtejJoQVdEdWRreUhmUV80REpnRVVJdWl5dUx6VFRFRHBIZWxQNzhaTjhGZUQyQVZ5MA?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 20:33:13 GMT",
+        "discovered": "2026-10-08T20:36:21.770876+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "دوري «الثانية» السعودي للسيدات: 25 فريقاً... والانطلاقة في 6 نوفمبر الشرق الأوسط",
+        "player": "",
+        "content_hash": "8af5b52ab31730ccd3e02bc3e541a0090f63d8ab15032226df8cc0a19e449052",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9919,
+        "title": "موعد مباراة النصر ضد الدرعية في الدوري السعودي والقنوات الناقلة - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPcER1QkpiQmhkbnBnX0VqU3VTR05JYzBaV0ZjeEF6T3RkaHhoWU1jaHA2b2NoVkNhTkNYd3BTdk5lUnRfaFZHaDZYY3BkTnRhSG9IX2Jud2pudDU2Vk5HQTN4enFVVGNaV1dLUU4tSjgtV0V0a0UzcTRXc1VNZU9pWmQ1VVNMNnd4ZmdwRF9Ib3dZWjdQSWM0eXY2dmM4NmV1Tjdkdzk5LVVucjBSNXMxeFBScTl5RHBUNjBBbVl6RmNwZnJIUFRBNUJ4cjB3NUtFbnBrMGc4U0VubEpVckYtaXNKM0RVekdrZ0phQk9VejNHa0U0UjE2NS10OVJVZDNCWWR1SEltVnRROFl3SU5uZGVsSjNWak1haXc?oc=5",
+        "source": "الجزيرة الرياضية",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 20:14:49 GMT",
+        "discovered": "2026-10-08T20:36:19.444518+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "موعد مباراة النصر ضد الدرعية في الدوري السعودي والقنوات الناقلة الجزيرة نت",
+        "player": "",
+        "content_hash": "bd0edff99b108e157079618100f4f3a0b5c708c8998bff2648c643428dfb0158",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9914,
         "title": "مدرب الاتفاق: أجرينا محاكاة واقعية لضغط المباريات - الشرق الأوسط",
@@ -450,6 +466,22 @@
         "summary": "مدرب الاتفاق: أجرينا محاكاة واقعية لضغط المباريات الشرق الأوسط",
         "player": "",
         "content_hash": "4ff6b02db3e1ccbb2bc3b99013a5643b59ce7f8ec16218087e5c5d11aa6f0027",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9921,
+        "title": "صاحب الأهداف التاريخية لأبو قير للأسمدة: أبحث عن العودة إلى بيتي مجددا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxOVTVRTW9mYm1yTXNMMGpYVlRsRzlaNzZ5V01hSnhSS2pwSkNVYjFNQWNnVXFfd2pJYTlLM2JJY3MwXzF4OVpYUFNvenBNVzlUdlNteXMxNTRmNHJCSEtlejRqUlZqZUYzQ01zd0VlME5pcHRQQWJQNGdSRWZzRzFJcGxvYkRsWTJXMWlSZ3Aza2ZRelZTNUlLMXF1TDRWLW1oOFVnSWZMUVpnRkg0X20tcTFKNF9DNHJHSExRNnAxQS1aM3RaeHNFdnBqRlBXQm9aV25TN2VrZWVvOXZsVV9GMVptMUtiX3lGa3NUZ003MXJTekpMYVNQTTRVWmNRc3FSc2tLbnFfejZXenEwSnlybWVQOUVwaTAzeU1GaWxNLWtiMk83RGhHWDZxMEFxYnQydFMxd0p6OEN5TGVzaGtNTHRtcENJZkl3V0RGY2dZZ096Q2JoWGQzRFlWUnlGU3dCbFJTeE5kX3NUbXktNlplVVRrZHZRVFhvcTNLMVJ5aVpBVk1penJjRDBtUV90bkJTNGloOUhoWlRhRm9rNHZaTjJ0RmYxRTJTRGVrcnBhZjBtNms5SFYyWURMZ1VYSGlKaXM0S2UyNU5FY1A5VlVYSTRhbDZBVkpIZXE2MkNiams5UGJpSDVoMzVKWE9PaG5pTUFXb3ptOUVzcllMblFMcHJTSkE1RFVPVUU0R01CRzdoaWpCMGc5cWdrbFFWM1l0aGJ2LVBrOFNJcklGWW9ETzVWLU4yN0xoOEQwYzQ2YThSaG5tWW5aczBvMGFmVFXSAdQEQVVfeXFMT1lvNVdzMFI0aFlPVzZmUHNZbXQ5OTZKVTR5STdHNGlNMS1JNmgwODFUQmlPWk5lUWVtQkIxWjlsaEZNQll3QktNb3A4OEl2SnhUNHRJaGNDUlRvcGtRQ01UbkVfYkU1Z3kwenVYZmNRWUhyekFPc2pTVkhvT3AzOFlweDJIQjZYYTVqR3F4Znl1T3Bac1NGdFR1elFDZlFleUhhaFc5YnFZNE83ZmFMOS1UbHU2aEplVUstZHRGdEdiNnpjZW96VDA4MkZQcVdhd1Jmdk5EV3kxc0UtdE9OVTZkTlZLSElweVdrUUlkWFdRNmZoaklpTFduV0FPTXFxbzNfODZySHRnSDZBV3cyLWxjcVYxLUh0UjJhNllnTHV1NmRWalRGa2t1cFVOMmtHUE9oY2ZINVE4QXRZREpOMXEzcExKZ2oydnR4d25vSHl4YklvaUxhU0FlbkVPdll5TVZWYl9fNVA3c3FwRGJtMWJ6ZmZnZVJOS0lhaktWaGkyOHM0VVB5RzdWV29DSjRRYzBWZWlXM2RiTDlZa0l4czBxVWV6Nm9RQzhod05nSHJwSks2cG5va0xvd3NuU0E4RnhPYy1OYXlGaEhEdGxxUWU5Q0pTdGNQcXV3d2hyakRvaG1lbTlLWTNZSEpYOWZSMW81YzlDbjg1XzJ1Z01RVlk3VTRvVTFvVXg3QnN5Ylp4dmVxZjZHZnBTRmhXdjFHYUc2RzJNWElKUzM5MWQ3MUFpczJsMDI1MXhQdktIVUNEMk0tZUx5QmpscURMQmJ3NWlLYmw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 20:07:00 GMT",
+        "discovered": "2026-10-08T20:36:23.769337+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "صاحب الأهداف التاريخية لأبو قير للأسمدة: أبحث عن العودة إلى بيتي مجددا يلاكورة",
+        "player": "",
+        "content_hash": "5803cf2762221c5ebfdc038e65f209f9857d80f76f4ad37a86cef1e8026def25",
         "sent": 0,
         "section": "sports"
       },
@@ -1188,54 +1220,6 @@
         "content_hash": "af37fe8afee184613ebb5ccd7aa049cb9ce6f06a0b8e8864c9db031ea2c3aa06",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9811,
-        "title": "إنفانتينو: نريد أن تخوض كل المنتخبات الإفريقية مبارياتها على أراضيها - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxQMWpvSGVpZnlGel9kV05LQk5xZFF1cE1XdW9JYXlXSkkwb3dudHM0WldQTEtfVTFTRFlYUnJQMDJHS21NNWxVcXVuRVAzbTh6cGhldmZjdlhDMWJtTGttSEQ2SmZWT295eVB0MTBMOTlRd05iRGVBUWE5N3JDc1k3T05oZ2FJSDY2YW14YUVVLTNkdzZBTmVQRFpTQXNrUVA3LWZqc28yT0FuaWlZOTYzdTUyZy1LclBNaEotTHpKaTZ0NngzWkxZWFFmSDl0Z3BaX1BPYnNuQ0NSLTlPbk9ROVEyZzlOMWVXU1oybldqUkpRNVBPVzIxTFFzVC1DM2dwSHdGRHQySkJHR2NiOFFsUWtBY1ZfUlZ6ZFZGQ09HS25fTE5aWENWdzB5VWNBT2F6Mjg4bXBGUlNRZmdaMlUwbkhSVF82cy1BMmNpY092Zk5NVEYyNmhtclU2SzhfQk02TkxIZFF0Sjl1S1JGb29KTlFiYlRXUEdZVmg2RUlGNGUzTVdLcGhDV0tGcVUxN2l5Q3NrWTdxeV90RTVWWnFuSXpCaWF6c1pTY2NYN0VvRmRhVmxpOS0xQ1c2UU1HQV9BLXUtbW5WekRVSFB4VERGdVlCdU5kT09MdWVOQmJzUktaYUNfTE1raEZXNG9PeTU4WnNqVUxkNk5uYnIydFhlYWdFNTlGblJnYUxCTjdTSE9LMjRoTEw0NkhMQ29UZ0ktMXIzM1IwN0FWR1M2Q1HSAbMEQVVfeXFMTUpjU3d2R3Z1WlhTbURPdnlVMnBRdWxteFJyRGJwdGZPR2d4cURUZnFfQkJZVFg0Um1kbXpKcUVnM0lNemFHZHY5UzVmYUNWQjZyUE9zNEYtLWpKMmNoSjJHR0U1Q1BWaXpVc2pJLXFEbzBDTlFKeFVDdjNwQ2tvRmphSGFFOUpHeGxoMW9KbGdGcDQzME8yczlseF9EOVYtOWFqcExNNkVpdHc1YndVekhGOTRPZGJPbGlBQ3RtUGc3c3kxRTdSNFhfLXFZdFpHckdsQlpXUVBscm5Kam5qT3RKN0lZbWFkanZ2Z1Z5djdkR1pDaXVIU0pqRzJhczBxWHl3NFRuaXY5NFdoSTV1Nlg1U2szY3ZwT3NqcEsyWnM5WHNSbl9fVGk5amNndnQ5Vm9oR0FjWWdfUzVCNzFuNGpDVk5lWlVDdjdPVzA1S2JDQkE2NmNPVjU2WHNCWl9VVnZaS3M1VnBGbklxOVF6V2dkaGQ4dThiRUNDamVwN3lQcmVFSXRMY3Z2VklTa0dFeWdwa2VjUTNjNHRyTDZMLXBQSnZ3b0N5Wm1VbmExTmw2UUtXdzdtNl9yeEV2S1k2MFJSeURvaXYwdnlhRGNnbEVOV0IxUUxfZk1hMkxobEltdGQ5dHE5a1k5YXhvekxmczl0MFlBM25VRERtNkpjOUxJcHlnSTd0bzIwUWZOT0gzUWJfR2JYR1AxSHZnWlRRNTcxM3EtMkk2TG1tMThiVUtZWXc?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 14:04:00 GMT",
-        "discovered": "2026-10-08T14:25:58.526285+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "إنفانتينو: نريد أن تخوض كل المنتخبات الإفريقية مبارياتها على أراضيها FilGoal",
-        "player": "",
-        "content_hash": "b024bd631dad1b08fa1263e3dc67bd8d5c074581eba8694ac479ead50dafa0bb",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9808,
-        "title": "مؤشرات إيجابية.. موسيالا يقترب من العودة إلى الملاعب - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxNa1JRN1Q3YVJPblVMTzExTkI4eFFzMmowcV9zZkF2SjI1cmJRcTEwX1dnODdkaWRFWERwQm96ZGZjRHhaZWlaV1AyWl9hRWt6eUkwaVpWSG4wdk5CNlE4YkNON011U19aSFdRTzJKU21vSW8tSmNZN3JVN203cVdORzlGb2hMN1pfOFA3XzNQTkd0Nkd3d1Z3MDUyM3FqcVZBbE14R29qRHBnakNKOThzdDQxMlRxaHdRRHdfdjFYQ2Q0SlNyVlRrOUpoTVB0TUlvRWR0SmxHaEtjbjRJbkNyalotaThjaWlTd3hfRzZJSEU1bHNXV2x5TXpOdEk3SEoxYzlUNHljenpXcndFV1lnWWxkLUdEOEZsV2tEU0xtYXFaQTkxcmRBQTlscGIwUFJYa0pVV1QzR04ydXNJMFU2R2pNTERZelNNdk41dTNVQThkaGtPMklIaklWY3R2QU1YcVhpX1ZzSjVVNUFUcVIydzBSVzdYSmtLNUczUGlyQy1kVldpc3Y4Q2FZdFNtYUdfQnJsY1lCOUpHZnBLTkhYR1FYdk53QmlqcFlaMUpWc2k5X1diVGpnLUY1NlJGZWMtYndRSmZR0gHLA0FVX3lxTFBBSzk5UVFrUEVXVjJQNDJLcGJ4X2ZzeFZjMUZrT05hYnFSRjN1OURYTUhEVkxKTDRBUkxfWGVSYkVIRjdnRVNVV3o4QlR1R2xPbmpwd3Q0ZEIyM2kyUW9LcWxQdFdVWjRIV3U5Nnlha1YtbUVjU3pTaEM2NVcyTHk3bjgyamNaZVh6RWJpYkR1b1BiNlRSS0ZKX0lDZEV4alRFb0Q4ZC1iV0poTFZ2ZW5WQXM4bmNTeGFfYjhKN2h1djRobnFiSWpRXzk2dDhhQlpzY1N2MGJNelFOSGlNc014bC1Sd1dBRGIyQXFwMlBYcHJuWjNmRFV2dFpWYlJBMGZhWWM1NHJuODV1WnctSjFnbEdBRGIyTWFxYWtYdmhSUjNWLVpXd2dBSFkxVkk2QnVLOF9JSVdqUXAzbjVUWVdVZ3JKLWUwdjkyeUQ2RVk0SHgyS1M2WlVUTkhVb3A1Z1pkT2J4MElMakVxeDFaTWVjcnU3ME1OY2t4cXNSdWd2ZnItV2EzWS1xa1FMcUgzUkE0V2N0RDZyalRCTVY2b3hhbVEwZ0htUFFteXBPZFVqSDBjZXpiQ1J4WXBwdEN1TmtNbUVqcGFKaVM5QQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 14:01:00 GMT",
-        "discovered": "2026-10-08T14:25:57.824306+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مؤشرات إيجابية.. موسيالا يقترب من العودة إلى الملاعب يلاكورة",
-        "player": "",
-        "content_hash": "6bbe77394b18d0e8f17ad1f1dff5164bb4fd096307c25e7fb0ae6a444419024d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9817,
-        "title": "\"بعد اتصالات مكثفة\".. الإسماعيلي يعلن فتح باب حجز المباريات لجماهيره بداية من مباراة طنطا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiowVBVV95cUxNM2lRd1JPVnpYMDFzMVFJaVVnbjd5c2pzYzBteWZDMXdtMHMyekdxdEtzRXdYZktuVFdvNmoyRlpscE5UeFdSNEV6TVlldWsySHZ3cDRiS3NxYWxKOW8xTHdZRUgwM3dxZHpoU1FCYUQwUS05S2RNUURidm1GMUNjb0RxQ3JKR1BsLUdaOXRhaWRick1PQXI0bER4UHNQbWhVQ3B0YXZhNExQVkRaY1RMUzdkdFJUUkZWLTgyVExqeGhzRjhhR0h4WTFibGpLNHdoaEdId09xYjJmNUhQSVN6TU84M09kRWNyOHFmZTJaMkFoU2hPc3JsZFdDZ0FWU29vbDh3elU2dWpWRE5rdVhpb1ZiVFNGSGwtWXpidWNHbVFtUk5mb21RTmRRcWY2blVMLUVfdGxYc0Y5YTFmLWFjbWpraUdYblBtNEROaU9lZ0d6dURFMl9zV1QxSFpwZ05YWFpHSFEwbTdabmtwcS1aUnJram5hRlo1WWdnWmNaeXdUNEEyVElqS0FicWU4V1FJSXEzNzBLLU0yTVRQSGtjUzV6Sm1JLW8zWklWMTR6SHQ3elZ6bUpPXzJPZmNoS2pOWDIzQWhpaVJXaFk5N3lsMzdmTlBPQTVEX2I3cTRjd0pfbUFNSFFKajd5TTVtUDI3bFN2YVgzcloyckhwaFlTUFJoYkZac1dGNTdQbndoancwckQ3c2wzLXV5RzhEQ0p3eVpuYXllSmlZeExpTzQ4Mk9GLTZaTWJWaml6QXhiX2xjMXUxSmtnVUwyU1hIWUpWUVQ5UDY5XzJRLWFwQmRNQU1yNUd5UDNETXdDVGM4RUl0YUc5eHpzVGI0UER2RVdCOXBSaVdyUms2TzVoOHljLW54a3BFcmpIdVpxRkI0XzBLNlHSAagFQVVfeXFMT1MyczhxOWdNanRub09seFFybVBEc1d2R0ZFWXhsajRVU09zOVlqV2dSZEM5TkxfaWYwX0ZSQ1p2bmFBd2QzQ2hjazN1ZWFUTkZIZFZJX014UGlONmY1UTlzWlg0N0V6aS03QUZyazdGZ0FyZ1pVLWpNVFdIemxsX05nUzRIdUZlUGQ3Q0tKck54bWtuNXdYdk96V2otR1J1WDg0QWEtMzVVc2xDWVI2akk1eWtVSEx5MVBjM3JhSFZYRlpyQmZHRy1STE5hWnBVTUxCR1RPTGI5cHY0d210QmxuQ2hUVUNxVzM2a1dhaXNPdHdUbTNPM2JKRnZLNE1KZjdCQU5sY1pKXzZJT2dfLUhLOTdWWG5GWEozeWtDOGNiRW8xb1hkSmNWQmtWR1NiTDg4S0RwdWJwLV9NRGY4R2pMVWZiNnNIa1hoNnJsMXNYdVgtaDhZLWJ1S0dISGIxSUZtTlFPSWd5Y3J1VEJKQjlsZU5kcjlTeWhaZF83cFVOeXEyR1h4Zk1WMi1JOFgzNTQ5US1CSFlrcU1udzV3OUVwUFJLSi1VSUNlQ1JRV1R2NWFUVU1TN0dTWGtrMXdyNEZ1a3d0WXlhalM1cmZTT3oxX0I1eElpamlkOUZrTDg2alhQdHZaci1ybEpKcUY1eVV3NWVzWkFhQ3ctbU01LThwSXc0dHA0R2M2dkVJVVpVeDU1RmtQM0xOU0xVRk84UnVlOXozbE94MG44cHg3Ukt3dnZCTERpaWJidnJxQ2xKcjRHb2UwQU0wRE5OVGRHQWVPTUtJOEZZSGIwck1ybEh4T3l6bVFoX2UzR0NpVkVXMzcwRjQ0ekNmWm8yUVBWS1ZVdmdfLWlXV01CekhzeGZOa1cyNTE1clowcmJISjV5WjMtbkFKcVI?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 14:00:00 GMT",
-        "discovered": "2026-10-08T14:45:11.760577+00:00",
-        "category": "الرياضة",
-        "status": "مفاوضات",
-        "summary": "\"بعد اتصالات مكثفة\".. الإسماعيلي يعلن فتح باب حجز المباريات لجماهيره بداية من مباراة طنطا FilGoal",
-        "player": "",
-        "content_hash": "30b941e717da8f578d9232426333a96d3742cc1cc85b028577fda6f61cf79a16",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1942,25 +1926,25 @@
         "content_hash": "2c7255c79d9b90f045cc28a7aa9e25697477379c97e914e5a029e0968092b0da",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 9429,
-        "title": "تركيا: توقعات متباينة بشأن الفائدة مع اقتراب الدولار من 50 ليرة - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxPLU15OUpOLUJJNTZES09wRFJ0UjlNOEFOUXZPY2hhX3RxYTJfcThJaEltWEQ2SUFZS2FpWHdpY05SR1RQWndya08wYWpRYkJaeXNyWFZ4RTRsZ1dXYXM0cUJIcHVvUXA1bVdxUi1jd2xjQklGUzViM2tVaklidkVfLVlVSUJubVlPUVpPWHR3SzFXbTg3d0JUM1FWQ091aWc1d2x4ckxJdnJkbnBQSURnU3ZIbmhZWjlOSmdVOXhyeThzcGkwQ252UlBFSUtGM1JVQUMwNGkwdGk5WWxmV3dGWk1wVFdEc1daRU9FSFphRm1aVmtIbDhyNzNQUTBhQWxrRkJFX1lsaVljTVpwZ252RXU1MDNwbkwwejFjUXNQQUU4SlN6bGJSbVFpcVEwS3JLbkU3MkhwVzJpMksyQjBiSWVfLURTU1kxdGhhZFN1TV9fZkF5NWdWSVdPS0g0Qmd0d09fR0tnbWk0QUZ1b2VXWVY2eFl0VDBJQy01bXB3blVmaXMtZW5EbUhGN21venFHMF90OXh3M0V2cjBPQU92a09ydUVQbU1xMW5qUDZFTDBXWXJNdFVfUW9tUnQ1aldKQ2RoMWdqVG5UMVFwS2VpVVRMeHpXQVdnS1pvQ3pnTzNPWm85Tnp5SVFR0gHvA0FVX3lxTE9YODZJTlpuMWs5ZHpzM3I4eWR6TWxWSTBuSHRvNnR0NklOeHhGWVZONXRlUVdxY254ejdKSTJvY0tNcmpKUEdBdmVNSXl0WGhXbUZXd05DSUE2TUdiblQ5bUpacVUyTlVJcDFkVHFzNUY4LXdLZmE0MWw0RWpJQ0oxZnM3ZlUzdTNLWUNzOUYxV2ZIOU1faGlPZjVpaFNhXzRQZGl5bGVKbFVPWjAwMC1jNWFLZzRseG45RVRMOTNXYTNTVzNPaDVaNXhhX25kYlFEYjBOY2pqMTdPY3hiNV9TTDRlSk9FQWc1T2FTWHBOQTJGSHdvRVNFVXQwdXFIc3lrYi13MDNXRU91aDdpSWlRellxak5rQ2pjTEkwUWRiR3hvSS1pYnVzVUVCYjBNQUtCZXZQTmdHQmxwNUVyVUN5UmxWR1dRbFlod2NXVHk2SjZLRG92YzZSMC1qSDZ4WHk3dFhfWjl3anlLRm1KQUVFRmhBVXRPRFJKQngxaVFwY2RTVm5CU25YRVo2ZDJ4aWZfSTJnWkVVUWdGWUo2dVVrZW1pR0tUUlFTaFRuSjdNMFFHeU1ZemdqN2xRaVg1U1FRcElxMDdXQ0ZIWVdvQUdPMllic1diTUZQS3FMRm9xMXR0Q3FfS3VqZ3JwTEFLNA?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Wed, 07 Oct 2026 11:39:40 GMT",
-        "discovered": "2026-10-07T12:09:24.694631+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "تركيا: توقعات متباينة بشأن الفائدة مع اقتراب الدولار من 50 ليرة العربي الجديد",
-        "player": "",
-        "content_hash": "29b6c8e4c5d73a5ec255278eb90dfeceac73179e647e1e440feca9bce582c152",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
+      {
+        "id": 9924,
+        "title": "تنسيق سعودي - مصري لدعم أمن واستقرار المنطقة - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxQZ29XWWZIejc4THlmRHlnZTlUd3RzVmtIOGdFTUZKTGhDejRTWWg1QnBMWVluTnRBQnlaWmlPOUIxNlp6T0NmLWVwNFRFVGI0bWk2blBWb2NjOVVtU1J1bDlkQjZtS19peWVlRjlOdUR0MS1OZWNDbS05TzRfLW5uU3dtams3Mmg3OUhITnYxQ2QxZk1OYTRjVGc0MHhxV0c4ekI1YlNna25TMVV2MmEyZmxXVFRRVTdlc25YUEEwaWpGb3dHN2JBbFZNN0FoSlVuSV9Tc2hBQm44SENYNTdZUWxxdGkxVV9CVDUtUEtORDd4Z1VBMm9lQXVxcTBFQUp5YnZ4R3pXT1dlSlY2cTFFbTRocmRBZXMxWWlta0hWVDB4bk1QbEFTYjBjZlJqQWZEd01JV20yTG91ZnZQUEZaVzFTQ1NoNTIwdHRRQzBoaFQ5bWtsOFlIZFR6Z1hMRDZfUFUzQzYxVE1UYk9ib3UtU0VwMFk3Wnd1MllCZ1ozYXVWY3hFVlltZGY2UUM1NGRCLXAwbllVME8xOGw0S2VHeE5HcGVfU3lMaXZ0V2xnY0tuekQyM2hOTEk0Z19KNm5vY2txZ0xNdldSSGxjOHd3b3B5bXhVbm0tV0YtMXh1c2JoblNuYXhKelJqUlRhNHQtMmlycnZNSzdSM1Bj?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 18:01:43 GMT",
+        "discovered": "2026-10-08T20:36:33.772384+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "تنسيق سعودي - مصري لدعم أمن واستقرار المنطقة الشرق الأوسط",
+        "player": "",
+        "content_hash": "e0377db672fab69e7ef2c42aebe2be1dd248b595cb92d8d7a0baa081d76d7b61",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 9864,
         "title": "السعودية: أضرار مادية في الرياض جراء شظايا صاروخ باليستي - الجزيرة نت",
@@ -2171,6 +2155,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 9925,
+        "title": "الشاعر السوداني عفيف إسماعيل: بالكتابة أحاول التعافي والنجاة - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPQW5wZWdUVW9LaWtHblRfNEZRWTY0TDR3by1ub1J2UFV6WW9UWThZTlJ1RzdSZ3h2SU5lMkF4bDVUU0pxMFZtMzN4VjJFV1A3YVZMX1loWHZnd3RJNXdnVER5ZVBjVnZFTjFhSDVVMW1sM0w1WnFodHQ0akhhT3ZRZU93ZXEwbjZyTUV1YVRrNGFtVjJpcjFSQWxnMU42OVo1RXNxZ01LVmlaZEgzQkowaXZGRVRadjFmWjNxa3FNYmJyckl2X2xPS1N2M0J1elJidWQ0VFMxQW15YWxSRGp4cDBuOENkck1vNTgzZ0xhUFhRY3hSMVA2a3I3b3Rya1o4d0NGRVhqdkxaRjB6RDJRRzB3Z1lpcmtWem5TVEZKRVY3V1d0TXQwUWlXWEJPQ19NOUlVYndFZWl5NjRlN3V1N0VGckc?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 20:16:29 GMT",
+        "discovered": "2026-10-08T20:36:35.092840+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "الشاعر السوداني عفيف إسماعيل: بالكتابة أحاول التعافي والنجاة القدس العربي",
+        "player": "شاعر",
+        "content_hash": "6d532c1b08ad8ed8ea99b898488da259084135a090e13a7ce83782134a419159",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 9886,
         "title": "ترامب يستبعد مهاجمة إيران قبل الانتخابات النصفية تزامناً مع تشديد العقوبات - BBC",
