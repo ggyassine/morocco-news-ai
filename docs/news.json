@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-08T20:36:39.552788+00:00",
+  "updated": "2026-10-08T20:54:51.347936+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 9926,
+        "title": "البسالة قبل الإنتخابات.. زعيم الحزب الشعبي باغي يستعمل الجيش لمواجهة المغرب فملف الحريگ - كود",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPeWk3RENUemhybUI2M0hjVTZfSmpieGRpZkVWMGJsRURlR3pPTmY4MmpqVWIyS1NGcnZrNi1VYnQ3T20yeG9Ba1FiaHhsNDRkNjNnM3hOa2FVN0tPYzJWQ0M4WkVtSlg0bm9CMXhTVE1jYmM0bjh0TjBtd3N3YkVDTXNXUXQzdVdFdXBJbG5LaG8yYjl2em5KcGt1UFhvSkxITXFQN3hWc1BIZlRsV051QnMwV0ZwSS1UWkVBMC15TExJN0RIWHhPaVBQN1gtODVVWTZYdmdwUmFwSktnaldtbU13dk4xalRoNDZURTBiU200VUlNdHhfSmItajNoV19YOWtVa0RSRHEyZTZXbUhIcjFWYy1BTnlLbmdDdVJfNDhnZUt3anZXdWNmbFo5NEx6OWlqRG53clZ1azJ1b29ab05scXQtSWtGVUE?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 20:01:03 GMT",
+        "discovered": "2026-10-08T20:54:23.523994+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "البسالة قبل الإنتخابات.. زعيم الحزب الشعبي باغي يستعمل الجيش لمواجهة المغرب فملف الحريگ كود",
+        "player": "",
+        "content_hash": "06cee3ebad01e5faef127cf009f04133e06c9389cdbc29eabe7769784557c84d",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 9905,
         "title": "اللون الأحمر يخيم على بورصة الدار البيضاء ومؤشر \"مازي\" يتراجع بـ 1.42% - Febrayer",
@@ -482,6 +498,22 @@
         "summary": "صاحب الأهداف التاريخية لأبو قير للأسمدة: أبحث عن العودة إلى بيتي مجددا يلاكورة",
         "player": "",
         "content_hash": "5803cf2762221c5ebfdc038e65f209f9857d80f76f4ad37a86cef1e8026def25",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9927,
+        "title": "المغربي بنعطية من المرشحين لرئاسة قطاع كرة القدم في ميلان - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOVFd3TzBkTGRUNmkyaFdocTBHeGFfZzFQV0F5Uko4YkY2bXoybmwzaVdNTjRza05BT3RNYUJYZW5xM25XNHctcFEtdjBzelRtam9BQzVsVzB1UUZqZEhyU2toRXJnSHN4amVhMjN3UUd3UTNtbFNSajdzWDZfZ3Q4SmZyZVo3Yjl0RG0xM2pZVW4xU0hLa1dSUlc0LU9wZFNFdUR5T09YUGJORWtwNmxfSTlMM3ZSSC16WXdWdC1PY0VPdjBmeXNRZzNDajdHNjlsSTgwOWVDcDVJTjdIZEFDTmR4UUhscUUyRXcwX19MN0pQdHhHX3JzUlNDQU8tV2Itam1FQ0NjLWktS0ZhZjNBTEhQXzdKYm0xR2xuUi1BbkJJV0N4OFB0SUFMRm1TYTRJN3lZc2Y0RjMtZk81S2psT0NfcVdPaENXSms4Z1BzUnNIVlBrQk5sVUVjdzkyQU5zcDRoekhvcmhhcEhQVmhoYUYySE1RU1lxOXQydFVwWEFzM0NzckRYdm9oeUdtWHVaVk9GcEpRdW9tY1BhYm9pSnhKM0tsWUUydVZmRkNYWFpmNmlEZ3o4VTFNLWZPNXJQeXBpRkVUMm42NmFtSUI3OXctT0NzSFRJZlpuSmx5bjNhdw?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 20:00:10 GMT",
+        "discovered": "2026-10-08T20:54:29.859822+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "المغربي بنعطية من المرشحين لرئاسة قطاع كرة القدم في ميلان الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "10e60b3bda6f4ff84fdb8efae4f787993dbfe04c26f9fe83162d16e2b92a582a",
         "sent": 0,
         "section": "sports"
       },
@@ -1204,22 +1236,6 @@
         "content_hash": "efd7374f6cbb6298a8b055f402ce37ce5f310cd1a8bfbd30bd9e473f06ef2b08",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9807,
-        "title": "خليجي 27 تورط بوستيكوجلو.. أزمة في النصر قبل ديربي الرياض - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxNQTJTTVJjYkZ5S1RDOUowU01CclFQTk91ZWg0YmJIZE0zU25IRWtuYklWVk1CQTlPWk91TVZhVjB3QmhVcUE3YW03OGhSVXBnQS1yb3hBaGRVNTZYeDFVYkxOWUNvMmxRQk8xRlRKX05SWjVNcUtTNHhobC1uTTVwRGxUZTVwQTh2V0pwcjdKcjRGcDFaRVh0b0d4ZFRPUGFhenp2d3k0Mm4xNktsYjlWb19pTUFGSm9RUU1pd3NWc0k4OEstRDBvczhTWkVNZlJUNmVyVnhtUnQ0SDlndDhlWXZCWHBVcUEwdzFiV0lwdDNBWUNic0xrTmFYUV9ZVUpmNTFLbkZNSHl0amsxT2Q2Q2xUX0RFb20xQlBZeHB3bVFaN1FpQVVDZnZnekRjZnhIN1JIV1dtZWp2cEo2Qk5WUDQ3eTQyTDJJSFJRbmN5cGZvMS1KUEdNa2VNc2ludnJtLUhuVVNaTHhSTWVhYmtpS3NzRnV1NkdFTHhPMW1yUG83N09ZLXE3d3FBWTZWbW80aXB6bTBwWEhlNGUwMHp4NHpKdzh6NzlJNWxMYzN3clVhTlBibDlfc3FzLTlMOHFVWks3cVpwTWhGMHYwSXFMd3cxOFcyaHdmQ0VYcWlkTUQyclYzUktIM05NYnNSQTJWZDJ6MjZZOHQzaHp3d3hyZVJ3OU1ySGRIemlFQU9PMVBrYjJ5c0h5SGNLRjJLVnN6TjI5VE14dTNZQQ?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 14:05:30 GMT",
-        "discovered": "2026-10-08T14:25:51.758133+00:00",
-        "category": "أخبار",
-        "status": "غير واضح",
-        "summary": "خليجي 27 تورط بوستيكوجلو.. أزمة في النصر قبل ديربي الرياض Kooora",
-        "player": "رياض",
-        "content_hash": "af37fe8afee184613ebb5ccd7aa049cb9ce6f06a0b8e8864c9db031ea2c3aa06",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1288,6 +1304,22 @@
         "section": "transfers"
       },
       {
+        "id": 9928,
+        "title": "صفقة الأهلي المرتقبة.. عبد الناصر يصنع هدفا في ظهوره الأول هذا الموسم (فيديو) - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxPeTZnamJuS3pyTFdXNU5rdTFRdWJOUGdGRkRMdFhWZ1hXX1RLbmVaeWZYemlRQ21mZDJGMTlOWXF3UTQzRU44REowekI4NVpObEc1UHRxU1dxMmNfMmYyMmNZQkE5d1pmbHpsN2Rqampld3BibkM2QmF5b1VXQl8xdDJFcjdhVWRGNnZaZzl6cjB2OWVIb2FEdEQ5NFUyMU1WTS1QYm1ZUnMwRERGS0Q5b01Pb2I3M3ZBeTJELXdFbEpjQXByTzJBa2xnNVJFZkZUYlREV1NWSXhrdG95SFVUVExfQXRYTHlSVUxPamZYMWZLZ0xwS0x4TXQtZzg4X09wX2d5b2lrMWpLa0g3NnVMQWtGdXpMZi1NY2NhS1lMaGRmS1ZwcDhOUHZlSnhBdlRIVm1lS0tPcTFNOV9WNlRncFUwTjRWUU5vaWxNdi1qWWN5ZWlmUm93bGdFamplRG53dWZITERpaFZkN0s2RG5teUl3U0V0ZjlkSWhwckg0bWdZamNlZUo1cThJUy1XMTJoXzd2NFpXSTFrTHM2Vkhpa1RCa2ZfVm14cTNfU0tSZ0JpcnlEbjEwWjhNYVBZRzhBVzBlNl9xOWQ5WFlFM0NwUlZJenBQeEd6Wl9oTEM1ZV9TYXFmemU2TWNUdmNQOGtKTlRIdkxaclNsMl9BdGhXa0ZabVZfZHJjVnl6RW9mT0ZNTzJJTWVmcjRoRWpTMmcySXg0UFRNcHRKU3BnMlNMN3EzNUVxNlozVWFob3RUR3FBd2RzXzFKOWdXeHlBYmFvZ2hUWWg5U3BRMmhFQlphU1ZYTTJWUlhzRXfSAe8EQVVfeXFMUFRHcHhlRjJhSkc1WUswR0trQXlzXzFHNFFPTVdiUGp4b1pBUnV4UGJ0NjkzYWxUX002ZGthWkpJbmJJUXkxQXBmZW84RWlKWW0wVVZRdUc5MktHblBlWHNQdm1JWEtsLWNQcEZGaUdZZlhEM0J4dEVXcjZWX2xsdVJOVS1zc2pYcFpTSFEyRzBBSl9idkVkMFJnTVZ2WFhPV0hLUDd6M29DX0lCRERPOXZxUDBOcDNqaUJELUsyYTBXbVBrSHBaYlhMZ2k3X0FVcG12Umt0dnhxb1gydWFUN1gtc1A5a3N4TkVIQ3Q0MGFiMndnR3VCOGZKVVdsVXN5UTlqWmNxWk85VHZ5UFRnWTBvWGpPa3IzTVNuSWlGMlBQQXFWTi1McDd6MGJkUm54djB3X3FEMnE4MDNDcFhuU2VVY0FKQ1FjS2Z4dDh3WXJlcnRzY3d4UWNORUtUTnJlMXdEeUZrNTIyVDF0ZDhNOS1Zb3BsamZZZVgxYTJLMGNRQ2kxSGdtdlo1MlRNcUhyWHdvOGpoNlE2U1pfVnpsVmkyQld6VGQwc0EtcjZ6d2JNMlktOXVWQ3FCcVhPSVlfTU1xMWc2RzEwWlNCRnkwWFY1ck9tR291VkdfcDc3Vmp6dDdETmtEclZQWnB3djlBSmVvR240U1FlcGczMEVTaWZ5QjNBY3FwMkhFNjlVbkNaSVJSdzRfYmxCOUVPRDRYcHFvQ3BFc09NVVV1V19uUkZ6a1g2R1BidmVXRG1KZE1MOUNXbFZhcVVXLUtUdGlzYjRLV1JEd24zeWJGQy1ZZ2o4Q2ExUTFtTDRyNm9SUnM?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 16:50:00 GMT",
+        "discovered": "2026-10-08T20:54:32.582010+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "صفقة الأهلي المرتقبة.. عبد الناصر يصنع هدفا في ظهوره الأول هذا الموسم (فيديو) يلاكورة",
+        "player": "",
+        "content_hash": "ed4624022809eb88d0558989db79c391fc36751af36afeafa49b1705ead75c0b",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 9862,
         "title": "صفقة الأهلي المرتقبة.. محمد عبد الناصر يصنع هدفا في ظهوره الأول هذا الموسم - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxPQ2VYa3JUbnBPZWtNOEF2UVByZzVsb2tubndoOU1EYnhqSlR3UWVGWlVOUXZjMVpNWFhFa3o3SUlSbEdHWlNzRVpYODFNa0Y5YjlVNFRtU3pGOWtfZFJmV3A2eS1Eb1V6YXd6OGp6LXo0RzJXOGdoRWNqclJFdGliYzVqaEtQRlNXUTEzUzhlNGVSeThSRU81NExtbTRkeWpENmVfbXJmNnllWDRDejNadnRkNDZnaFJOMnNvOW91UEZtdEZ3M3NsM1ZBb3lBanpLcHJrQzBOSENwVzBWLV9CZFRPTWNuX0FKZzlESUFQNkFyM21XejdMU3VXS0JKMXlDNm13bC1iNGpzRnp6d05kRnBfYWJqa0NKQ3ZIX3V0TmFCQlRrWTRHSzBUb2JqOVkzNTZOTVN0TDVfTi1PTnNJbXlZNVVveWNwWGlFd0pZTEMxSUR2aWFPcjYwcjM2OF96YWFOQjVBVDJ1bDFfaUxNU0FWZG5KeGp3RG9oRkd4TW5IWFhQcEhkWWhrY29aVzBieUZjVVF1Qm15MFpvT0pNRzlmWGs3RGVtay1DWmdEQVRPYi00WjdWb1BDZjZRcVlRSWlRbF8xNUk0NTdhbzJtTWJraEdHN0RVb29Md09ZUlkxTmdsX1VRRjRkcWdfWGEtblFfd09DWEN1clBYdHc1d3BVWFA4QjdfZ3lSX2E0UVpTUE40X29aREtfbGUtU2JCdS10X0xJRUljTHcwWFNNZTJVYmtJeWZLZnVZRDRBMTM0dnBKODRRbkJnRmtfTEFvTENlMlZnV0lZZVlaSll0UNIB5gRBVV95cUxOZDB3a0ZjSm83akN0VHVfcEY2NmNSZzhUUlpBTE43SmdZbGNQZVFnRjA1QXh3NFFEcDNQRUJPQ2Fwa1NmWHFycVdLZVBqanhqanBBNVZXNEV5TUhldFpjSFF2ZWQxa3NCc1ZwTzBMUHl5MEJDQVI4MVFCdlJOWUZ1ZXpRNUViM0tjanNrV1EtZkk2ZGo2NkRIUHZGTDZIanBNX3lvUC1wWXZBajR0RkZsOG1pNWFLTFZUMC1kZWZhamsyUGk4MzV6Q1Z0MnpYYlRqc0psMnVfYURxaHJES21EaHFmX0ZVRkQyWTZwTWdwX1pwc1dEd1k3Tml5U1J3ZkhIVnFWdldveF9ocWNxeF9mQUY5dzY0OFRya3YzcFZ0NHQ4NDllVElBOXVWY0dBcU9NbU1fV25KanlHQnRxaVRnZHVEaTkwbGdGMWdFSnhlRldRVjhKLTlrRWpmVjU1RWxrMF84Tl9HbkhGMmxwV2xKeW0wTW5iWEZJMzlOS3Y0RW9hOWhpT0piSEZ2M25CbGpoR3RtLWNFME9ob0VTbUo2NUQ5VTFoYmJNZmtyb2EtRWE2YkVFY2RucnNTeU1McWpERVRFVUR4dUtDM09pWmdYQ0xHMjEwU1hqWE1OUmdONlhGNF9VQXVkR1VidmJpaG4wanpZM2FILW1ZSFQ0VW1NeGotTkw1RWl6dVFIZEVZNFA0QTdiOEpLMVFEdXF2Vl9Hby04eGRsWXlqTXhkSmtlZGJ5cFJjak1faDdybUhHMkxrLXlEU2Y5bVVwdXNfay1aUVhETnBHUEJ5WGFXSWhhZlI2Y2tmZw?oc=5",
@@ -1300,6 +1332,22 @@
         "summary": "صفقة الأهلي المرتقبة.. محمد عبد الناصر يصنع هدفا في ظهوره الأول هذا الموسم يلاكورة",
         "player": "",
         "content_hash": "89ed6a4d5e3ffccbcc8deefe04ce71fa06b9c448cbe5af9f35326919786643b9",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 9929,
+        "title": "ماركا: معايير رابطة الدوري الإسباني تهدد انتقال كارباخال لـ خيتافي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxNanFTU01lWk11UFFLeEhJc09zM2NyRDlhX1RrZ2owUjNJck5nWEdIbnd5R0hBcEZwMlNidFl2Q2VfX0NhT3hwZ0psRUZidzRTVE5mYzZtRC1tbVdfUlA2Nk9jNzRyQ3NKakxmOFlDekR1MWpXeXliVnk1REpwaGhZOEFERldscHBfOVRKdkFOU1c5Y0YzaDl4a3lfZ1YzUzhqaWduc3hnR3ZodFlmams3VVFQOHo2cFlnZ3ZMYTU3Q1NYaEhURWdtUjMtSWVaOGRESmZyUUUtOEtHdVQxZWdPclFNbkRKTGVzTDZxV3VKaXAxekpoMVR0elYyLTEzRkRITzJpZS0tOVJhUElwejkxSTlRTTBUYmdUbDdGbmNIOWg4enpkRVdjdW5yc3lNU3dLMWN5VlJwZzg1bC1GNDIyV090LUcyZUdtbmpHUFk1RTI5ejRJT0kxWElrNkxRZE5Obi1YWlZITWRFMFA0c3R5bGxsN3k4ZzdCSWd1dEhrZnNjTEcwdXd4ZjgzVVJ6VFJ0dmVPM2NUVUN0THRNaDhRNU9zX19nUXRHNjZfVnQzWVBqTlN3WG9weFhFSVBRb0wydm0tUlhTUFYtWU50ZmhGRVppMUNSUnNTX0p0S0ZrOW9EN1JuOWRfR2Yxd3ZuZ1g1aXo1NHU0U1ZtSVNzRXU1VElXUl83VzY0TC0weHhLdE1ndEJENFFiQ1FaT0pmZ9IBowRBVV95cUxOQno1MjJlM2xlc3haSGJmZUdoM2dDdmlFUmRicGhNc3U5YUxmeE8za3ZjQXM2XzhVbTA3bURXZFdSZk1lelZwdl9uR3h4S1E0d1pPUGJrSUppYUE3b25uV1ZNX3o1VktCRk1PUmJnSVlQT2VPbURWNG1mcDRUSzV1RmtEZkUxTnpNWlhkbm1vNzJYbm1QV1hiYU1ZUU01ZEFZVXpTMGgxYUVld2FrQXVVNVFxa3hIQXY5NmVyMEJBTWZ6bGtfdlZ5REY3Y1lNYUtMbVc4S3lkRXFYUG9jWTBNc291eEJxaFVnR3lrYVpHWm04aF9zWDJ0ZV8tWnNRaXlCTWlGbG45ME1ROTdYWnRDUGp5dkdmbmJYUF9vM1NlMWRrOUdUTDVTc3BhZEhXaTBWYm5ZUlhLNWs4M29JUGszVDBuVjduN3U0R2NXN1daYjFJTGdKSnFJU3B6ZUNXaEtVVGlKWm9MZWhkWnAySEFfSE9IdENZTnhRa1BSSGk4c0NPWVZ3Mk9oVzlTcHNMaXhDWnE2LURRME5TXzh2YXBldHVkZzZ5SjhxWmZ4RFRsM0FkcG5SS0pKbG5CUzRILXRrU202d2JqcXZzMGdKaHphTlB2VEtpMjdfUklIREh5aHZLT2tuTFlneFBZWHJZekd5Y3ppaFhTU2l1djNLdzJ0OXNnZk85ZERNYmdpZVV0dlNCY2RlcERDVTdGdFFNM3Q1U1g0?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 16:37:00 GMT",
+        "discovered": "2026-10-08T20:54:33.252940+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "ماركا: معايير رابطة الدوري الإسباني تهدد انتقال كارباخال لـ خيتافي FilGoal",
+        "player": "",
+        "content_hash": "d54fc055efb185a8da92f431e57f8f395d5dd9e17839f7100e2cd73559bf8396",
         "sent": 0,
         "section": "transfers"
       },
@@ -1878,54 +1926,6 @@
         "content_hash": "570172f9f002986ae94c64134771a945a457e029b32f6c1b690d1931a26cd9cb",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 9634,
-        "title": "مفاجأة لعشاق القهوة.. علماء يكتشفون فائدة غير متوقعة للنوع منزوع الكافيين - العربية",
-        "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxOQThxOHBxSG93VWctb2JENzg2WHhidW1KSUdDdW9TUUNjbmx2NlhuWGZjSDhrS3djUER3WndseG9Jcmw5QTdPeTZXS09feFMwN2lYbmQ1RnIwTnY1VVROSl9mQnV0SDYzMkw3dHpRa3NCTnc2Q2hid1Y1RzNBNElNLVdfXzA3T2FKVEFSTWZubE9Sd25aMnkzN1BieFlXQ1pSUVZOODNiWWx2SkV3aGVJQkM1YWhjX2ZMRXlzLXVIT1lkcG5tWFYzOWdsR2tEek9fVHAtajJINl9CcGl6a0pTa3FHaU9DX0xkWEhPR2Q1cTJQTmtscldMOXpzU29FVW84akxRN3ZJMDRSUkpDZ1ZNOEZVb09rVUt3aUxEODRWMEN4Q2VocVVaRy1saC1kM2NmXzZEQTRMZW8wbGFOR3dWck5wb1NoWmRmY3E4MDVnZXpKNzR2ekhZdF93TlhLZWdWWjYwRURNSm5ITmM3YWNiTWRiaVlDRXN5aGlmeVkxanlnVl9YUm1sT0M3a3dRUVZOS1BFWVJJZ0kxcEJaYUxtUWc4eld4S0FWeXpubmlaYV9yNTUyd01nZVduUkVVMHNfdEk2a3o5bUlJVm5GRjJ1TG5YMlnSAdoDQVVfeXFMTmk1d3ZpZGZNZm1SU1BDaFY5Ym1sMWV0R3hOZjlMWkZxSDN6bkxqZlFOcTVZeUoyaDAzNW1VWHZId01DX1ZRd05GRlZ2OXBFcGZPekI0TnRLa283MmNEQzFlSTB5RFdxMWo3VVNJMk4xb2NwbHYweXIwcksyY0lnWmJacnF4ekJDRkkxb19aMF9qYVVzd2hQUnROWC1CcVFtd2tTLURZN1I3c1V2SXZaSlNkZnMteEs5SXh3c2hBU1psdGNBaE1rUmN2YXdsMUhSUTFfd0dhQ2dPZmlrM2E1SE5YV0xHb3gwZGl2cF84bmtsTkRZalpYU3VHak80V0U0UEFqcno1MGpJY0hSVUFsNkc4UFYzTnAyNEJHQnBZaU0zZ1lDU2xyTlNvTVpzeGE2NlJFdDBnMjBnTWNHMlBrYWlFNlFDeWhiRG1VZUo4QXBZRXg2NzFyX21GQm1GVXh6dVdZQy12SVJHVlhOZm1ySTRIem5hNjRQUzhtTkROT2VKT1dwaHBDRHV3QWVhd0FsVHlYTlhPMUFOX3NHMDBrMi1XQzZ1NWFadGJCanFEM3N3V09iR1lzUDBrUnhycF9PWEtMN3VCNUtoY3pnRTJXS1hPeUczVlRhbzNR?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Wed, 07 Oct 2026 12:43:00 GMT",
-        "discovered": "2026-10-07T23:14:14.286907+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "مفاجأة لعشاق القهوة.. علماء يكتشفون فائدة غير متوقعة للنوع منزوع الكافيين العربية",
-        "player": "",
-        "content_hash": "9576cb789265de6d99c811710a4ccbc1d6a9a2004450608677af028016cf95df",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 9436,
-        "title": "أول رد فعل من إبراهيم عادل على انتقاله إلى النادي الأهلي في انتقالات الشتاء - جريدة آخر الأخبار",
-        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQbmRXdy14eGU1NXBHbWpJd21HSDY2Zjlkb2JZVDdPcWpQMElOdGFFUk03a1BMa0hleEgyQnlpRGNsVXR2dy1OdE1MVmc2TTBieTNSblRpUG9nSEhlT2taY0hUYTVEUUV5NVVCRkFWVjhlb2M4Ulk0UWxaT1ZZcDVWc3BmdF9jckVtc1E3Nl8tQ0hGNS1iN29ZT1RsWHlPdW9PR2VTdEpkS05UT1ZrVTNYUDBycGFZbDE3REdSRXFaQjNmUGhGTEpJOVBXV1hJTWlrTWR1NmJMMm52Y3dTNjQ1N0JSOFplTW1BbWtEcnRZenc0bmZjTEVoWWlsekR4OHhjQjc1RzdPeVBYbHdubk9pOE1jMkFWT0x0U1pBZ1BGNkRXQjVKSmszYVBEcW9WdVpwRWloYjd1V2tYVndFUm9xaHZnUjdyRHU3Q1E?oc=5",
-        "source": "يلا كورة انتقالات",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 12:42:34 GMT",
-        "discovered": "2026-10-07T12:59:46.793970+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "أول رد فعل من إبراهيم عادل على انتقاله إلى النادي الأهلي في انتقالات الشتاء جريدة آخر الأخبار",
-        "player": "",
-        "content_hash": "7e9026371e91579471547ed98c8bf6131103be8a3739b0bd14b199e5786f4348",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 9430,
-        "title": "أسعار الذهب | توقعات ببلوغ 5 آلاف دولار للأوقية في 2027 - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQbXViSXZNTHdudHpOVFB4OThmalpEWDVNNnZMZV92RnJ0OHlRUjB6S3FSUTlJR3hoY3NiajRwRGtJS05vaGI1MDNSWXNCaWM2amhFMFhqWTlkTUZlb1BCeWFyZjVCUkRQTmdkaEJ0VVptM1FQcGdoV01LVmJVSDZSeEhtd0FlQXVCaUtabzNlbnlFU0RLSkxQOFU1ZEgtNzh2Vlpjd1pzcTg2RzlRSDhLTzdQdno2dk12eGVUREh2WTNTRHlrRDVnN2F4M0hMM0VjZDlSaFdxSjJkTGVpZk5EOTdEY0VvU2NvNE9JV1VmdUdYdDZTQnVFMVU5WllwcXNIaF9zamdSamJOazBnMnhxU3JMcTBQdnZDZGN0TEJrdlVQNWhoQVJKSnRKM3ItNUJuQ1daZV9NM3FLU1FZejVzaDcxdUhTNDNXajFNM1N0Z2dnSTJ0bjZ0TzdfSmtzdFR5NHdSb0pnOHRoclVvR0dEcWtMUjU2RnJBUHpvemhxUDI0UlFoSEI5bmtLZ2U2VXBpbXNvSA?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Wed, 07 Oct 2026 11:43:08 GMT",
-        "discovered": "2026-10-07T12:09:24.709563+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "أسعار الذهب | توقعات ببلوغ 5 آلاف دولار للأوقية في 2027 العربي الجديد",
-        "player": "",
-        "content_hash": "2c7255c79d9b90f045cc28a7aa9e25697477379c97e914e5a029e0968092b0da",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2136,22 +2136,6 @@
         "content_hash": "a9a57ceca74536463d4fce68b3078758da88e369e367ffb6cf3d8406e772dbe7",
         "sent": 0,
         "section": "middle_east"
-      },
-      {
-        "id": 9686,
-        "title": "\"أبل\" تتعلم من أخطاء أندرويد.. كيف تضمن توافق التطبيقات مع آيفون ديو قبل طرحه؟ - العربية",
-        "url": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxNYkc3VGF3MVhuQjZLSVktbnF4cksydjJFb3UwR2tkaEdyTW9fRjRWdjkzYVktbDlHb0ZlZFFhUTBrdkNFOVVjdlNGUFpvNjdZTTFndXAzYzJkV0k1ZE9PRlgwTWJqTTVWcjZ4RmpvOE80VlNEVjZxbnNkY213VFVuWm9DcHVPR05TQ3J4aXplNjVRV3gxQi12VmdaNmtjTEhtb1o2Y0gyYmpvVHBUN2xCQlltS0hiOFFjc0lWcWhTY3I4alRlWF9FQXRLbzVHUnpUdTc3NHVVRHd3bEZoTngtaUpRS01UOHBMRTlrZ3Y0YUJObkh4bE5MWm96NkdpbkcyZlE2NGxGZE1qSXZvbEluUW1EVjdaQnoxSS1KUkExb05CR3VwNzBLM2xNbU9oNFNnTlJ6cXRVSWZJX2x6QVZqX1Z6NVllRWFUMTl5TmRmWU9ob1lPbHVvVGlZaUxLTnpqaHJyWjVVQWdTT1EwY0hmLTJhQnl2bm9uekI4SGJjUDA5YzFiRGFaRnpOaXlaMWRPQ0RFOUpUNEtheUlwUXdhZThXQTQwamVhT05ySENrS2VJZjBXS3hNWm9FMDB0UWRsaW5lNzhLWGI4X2ctb2p4Z1ZRMENsa2lMX2tlNV9PS3pWbk9Jb3lKbGJuUGRjbEFaZk5qOXZZTDlqLXcyQ29sYzR3TGZVMVEzYzNERjNqVVpMczN3YnpQYU9KWnNneEtzdzZpX28yX09XUVlXcDBoeWVKcFd3M0tnc1dqeDRxb3V5aHBaT0NjdzItTnhVX1hFTFBBMzAxempERlA1UDZKZ9IB5gRBVV95cUxPbVBnelc5TzJoYmpxZ0NWUlYtTUcyb1VWekZidGlkS2lOckg1MkJDNzVWZmR0bGd2RjFoZ0VURWo5bElCaG5IakxiVkp2SFhJQ2dmc3ZlS0QxNTREd2V3b3VOV18yWnQ5M0xMVVpkT0EzdjlsNThoaHhfYnlqdXVNUGY1M295R0xDSDhtQTc1bnVNMnd1bGpCaUtTellhRDRnNWtydXcyc1ZJNDR2WkFYc2RZaE0yUlJhck1ieGpUTllWd2hZUmRYSnplZGdudU85dDUyVmMyUTlnMTlxcFpEcEExUHNFU2dYYmgwS2NJYU1HMkRaV0gwY3dGRFNGeVBTS1NESDJvcGNBYnBhcmJQYnB6YXFMbE5DRGtKYmJrOWpjempFS0tKZkgxVjE5QTFUbWxWeHlxcHgtT0dISXJpTklmTnQ4cXBSZUhWYTFHaXpvY0p1R2pEWDdCYUlfRUV6ZHBzdDFnVS1ORWxZU3g1OTFaZnZnZmpPY0Fmb3NiN0JSckcxTGF6WXMxVE85ZnIxV2V0SDVtWE5ENnB3S0l4bXdrM3dxak04NWdxa2VNYldyWW1QMENockFqMkNFdl82U2otSmpMa2ZaWU82RmJtVGZ3NDU2b0xVR282S0xtRW9ZQlNJd1ZWWURKODVYY2wydl8tUVl0NHFydmZHaVpmYkhXdFJucFNYNG42YzJLU3NqUzIxVFBTb0cxMGNESFBQa3JqWFp2Y2EzTW5UX3ZJcDZwempYNFVCd3gzWE1uWXBPRldTZ1VsajBHM041WFFDMlNDcWk4Y1NycXVhYmU3R2o5VzRvQQ?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Wed, 07 Oct 2026 12:38:00 GMT",
-        "discovered": "2026-10-08T04:40:36.744271+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "\"أبل\" تتعلم من أخطاء أندرويد.. كيف تضمن توافق التطبيقات مع آيفون ديو قبل طرحه؟",
-        "player": "",
-        "content_hash": "02def4639e77c4dfa5ab7412ef1bf7674cd65b970a6f33f2830cf9287fa64e53",
-        "sent": 0,
-        "section": "middle_east"
       }
     ],
     "world_arabic": [
@@ -2200,6 +2184,22 @@
         "summary": "مصادر: الانتخابات الفلسطينية ستؤجل… وإسرائيل تواصل التصعيد في غزة والضفة القدس العربي",
         "player": "",
         "content_hash": "6c2c29fbc0644edf731a4020b58c4c712524f1d3a8922b8c73e9c979cbb46694",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 9930,
+        "title": "ترامب: لن نهاجم إيران قبل الانتخابات… وعراقجي: سنرد على المقترحات الأمريكية خلال أيام - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQR0tmMm5kelJpcHJNbkN4YXAteWgzeVFuMnp3V29IcHNleWZSSlF0UUthVkVCM2wxYkd3LTFGR2xYTDVJZGNwRXlVM2ctaEVQaEtFWlUyYWJOZmFMaXpXNTd0Mnh4c0JfUTVKeTU0QS1palMwWDhwQjNPVWRJRVhwX1R0cEl4Y29wd25CbVZORURtZFBBWWswQnpxd3dQVUlXVy1ZRWFIbGdyaHVnYzZ3V1E5eDNLRXBtaF9kNUlDbDk3Mm53Rnl0STltVmNZd1JNZENac1BwU2F1ak0zUlotUnB3ZjFIenVmX0R6cm5xZUtlYThsNVNEVnRFN0N0MDlsY2s4eDg5LU9fc3FhcklFUEc2M0NfdkxlNnJJRlU5X1dMaENtUU9oSjRiX2VvR1ZJZnc4RkZtTWduSGY3Ml9N?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 17:36:13 GMT",
+        "discovered": "2026-10-08T20:54:45.395923+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "ترامب: لن نهاجم إيران قبل الانتخابات… وعراقجي: سنرد على المقترحات الأمريكية خلال أيام القدس العربي",
+        "player": "",
+        "content_hash": "05cd8ac8c01e480a4b62485fdbb51780ed5b14d6c1e1304e9662ec1f146bab02",
         "sent": 0,
         "section": "world_arabic"
       },
