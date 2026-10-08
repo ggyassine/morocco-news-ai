@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T15:02:21.157416+00:00",
+  "updated": "2026-10-08T15:23:27.511004+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -112,6 +112,22 @@
         "summary": "الحوثيون يعلنون استهداف مطار الرياض بالسعودية Febrayer",
         "player": "رياض",
         "content_hash": "dd65c34a4230260416d54222f68b4dd052ead4f0945e4406dbb06c67b8daf29a",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 9827,
+        "title": "نجاح عملية فصل التوأم الملتصق المغربي «سجى وضحى» - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxPTkRBUWpuN1ZnWDNXNmstUWxET3BlZm5pcTZ6LWxqMnA2eE5vUTF5NHJTTzd5S3VTTTEzU214T0Z4OUdxbThVQlF6VGM0NUJnZ2FwZi1Hd1d2X1B5TUpqU1FYTUdEdlJkT3c4WWRXeWRHaDdzLU1Wemo4N1o3TmtNS01FeGxzZGRWRXZud3NWZzdOYkVRN2ZDT2t1NUFCUWZja2VmQ1ZJV25aTUpWMmxGRjFNcy1KbHlzQ2k2ODlfYTFuM3Uwa3MwZURLaXJTXzBPSEhGRmdSVW5QSXB6X1Fxanl4T1prcmFwTXlmRk1kMGNEeWtMTkJmTmRuMGpqZG1RVU9FUi0tRmNrTGl6Uk03dy12QzV2dy1sWlFNMFNNYmtMazZVWE55UHFOZGxlUGlOTElTYXE1ekVJRFhUN0E5Q1hIRDVJYXlIWHlLNDdncWkxRnpWUkRuTHFXV0tQd3RBTjRPdU5ENFBMMUlfbkNKZjJjYndPMTFOMGhqRmJVSnBHYS1FR1hVVUtKd3d0R2ZzVEtIajNpbjRQVFdqd1ZoLVJLV1N6OHE1ZXg4b0NiSDZLOUtBVE9ObTFaRkxfUmx2aFJCY3I2WU02c1pWSlBJeGV4RTlzcllCRXl6VQ?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 09:22:32 GMT",
+        "discovered": "2026-10-08T15:23:19.419854+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "نجاح عملية فصل التوأم الملتصق المغربي «سجى وضحى» الشرق الأوسط",
+        "player": "",
+        "content_hash": "def6c33e8e14facccdeb95ecbcaabb559875a97817d5e3148140c6a37ccb182b",
         "sent": 0,
         "section": "morocco"
       },
@@ -418,25 +434,25 @@
         "content_hash": "4bfee8d4dbb227fa7771457357300f114a4a84fa12e0d0205169a35694fecab4",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 9356,
-        "title": "بعد خمس سنوات.. جهة الدار البيضاء سطات تفشل في نصف مشاريعها التنموية - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FOXNxdmZ4T3ZNOGh1Rkl5aUZKTWExOUR3REE0bTY5eHExS1JOMjJhdnZjQjBiU0FQaWNjTDUxMnBtcGZLOVB5aFNLNVpRUkVJSTNfdjRiMV9EWDNOeUZZU21INTVuOURM?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Tue, 06 Oct 2026 22:07:02 GMT",
-        "discovered": "2026-10-07T04:30:27.294038+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "بعد خمس سنوات.. جهة الدار البيضاء سطات تفشل في نصف مشاريعها التنموية Le 360 Arabe",
-        "player": "",
-        "content_hash": "a461b5121f6b3e699cc507acc48b5a61d17e3764c185fa45e2557cbf6d3bd2f9",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 9826,
+        "title": "\"لتفوز أفريقيا بالمونديال\".. كاف يقدم دعما هائلا إلى إنفانتينو لخوض انتخابات فيفا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxQdC04SDZHTzhqci0xZmdVQ3V0QUdaSE03RHdlbXpJZ3NPbGhPQmw4cTR6cWtDVzlwLUcyTXJhQko5MTJMOTFDWXhFZzRUMlRPRUpWWVRnQVpwOWFhQml1TXB1Z3ZCeFp6TjBXZjM3Ym1XMEVXSm5wWkFNU2tEZS1nMmxDdTltNGRMRkVPNVBiYnJ3Y0czS1FwdEhlOE5UWGlDQ055NkZZSVAtTDZnQ01YX1I0eHhtQVlNeGRyay1heDBoVkdsS0F5WTVEUEtkMnlWRzVpRjRxejJrdTJ1RFF1cGg2NHJ0dG54dTNjVFBtOHZucVNxYl9nZmNaSFlNUS1oVk5udm9URWRZUGhVc0xILUljQk9IektqcFh3cFladUZWdExqbDVEZU9WYy15U1BvYVI0cTF5czR2ZEF5T2hwNUw2cjNvS1U5dDJScXNFcUo0dmw2UnBZWUF3a0tIenhnYXIzX1o3SW95MW1zQjRzZGRaTkhQMmtZUy14TWFhNXRobnpORUx0QVpCQkpBcl83dzBIQTBXMllheTR0NGFjREgxblBmVEZxeExsS3MyYWI2bEdVNi1DTU03T3ZkbVV4UWhBZFoxcE5oMENTaDdQU2pfWHVaT3NMNHdyRnlvMVFLckZ1NUVMLXhTazRqNzFPOVN1SENXREY3UlBuRElUWWMzTW9Pb05mX3JuQXBSV2RHa0FjRW5mdllFVWlqZWFSNUpRSkUwM2xSRnRfWTVSN3gwNG5qWHk0Q0t3ZFJONU8tdk9OS2dVckZhcDRkZWFWcDVhX25GWkRuX3h1bERBM2FPMkcya0VBbWZ6dEJLU3NiUFU5VjlKWTY4Q1ZFamJGbWV0ZFJSTmZ2WlZZaVgtVzh4SDR0bEHSAZwFQVVfeXFMUEM5WEEyX0Ryd29vWXI0TWtsSVBteVozZ2RSNTRicENKeDdReWVDcHpxeVBDWDhqN2tlUGxpR2xFRGR4NS10TWFCR0ZYTjk4ZkwzSW9weC0tczRWTTdGR2pHZ3JHLVpVUFZRaWdQV2l6ekRXUTB0RXNyLU1KbE10TWJjV0pYV3BHWXFBclAydU1vWFlZRjk5WWliXzBhRTV4cnM3UWw3YmxNTGlMQW5oZnd0Ui1BVlZqbU1BNEc4c2VCM2p0OVhGTngtckp6bDMzQVhHUTQzSTZORXNvTTBOSHpvNUlndDd6YmtMRW1zQ2JWS19kazNKOVBEMnllOUdhQ1JsOXFtNVExVDBBVEY4WVMtMVRJN3lpTHFMcGE0bllDR3RVUm1qN2dPRGtiWkpjeXk5V1RlNE5FcWt4UG54Y2xuVGlqblNKZkNDTU9OajZhUERGT2pGZEVDdk5Vc25wUDdZcnlyczcyZmdDRkdFdjdpeFZ1dVZjVHVyMzdqTEFOcFVvdjR4MTBQU2lxNmc2LWdLdzR0UlIybkFEV3BONGlJZnhHX1JjMHdYdEhqYVd0T2Jqd1VEVi1YQUZncklYa2d1VkczdmV4cDhRN1NfMFJXTzhkSEhITE95ZjlDNU8ycU4tNUZFM0pIUUZXVVVkbS0ySWZWRVByT0U0MGhmSm5kUU1MeHlLMS13aUhxdkx5bHVRWGNudnhWdjdRTjhaUEVyTjkwZERtLS1EUkVDdkhRWFJuMlE1RE9JSUhzMnZqc25aVWFLblg2ckJxblZpVEZNXzMwSXlvcEUtREhicUxrVjd5QzBNQUpfV3dFTTBnVlVVR1ZZYkY0LUhhckJUb1BRTk9LZ21pZkhKZGl6RUowajBXNHkyQTdyRlM?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 15:15:00 GMT",
+        "discovered": "2026-10-08T15:23:07.674474+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "\"لتفوز أفريقيا بالمونديال\".. كاف يقدم دعما هائلا إلى إنفانتينو لخوض انتخابات فيفا يلاكورة",
+        "player": "",
+        "content_hash": "8a8e458d466afc74914dd441ded06fb9fbc934d58224b0c76fa05585c0a255ec",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9822,
         "title": "وزير الرياضة الألماني: مؤشرات إيجابية بشأن استضافة ميونيخ للأولمبياد - الشرق الأوسط",
@@ -642,6 +658,22 @@
         "summary": "كاس: قرار قضية المغرب والسنغال قد يحتاج أيام وربما أسابيع FilGoal",
         "player": "",
         "content_hash": "f61963c5e8d392f8f14c2a6ced63375013621c761513badeae6689f5cc93d487",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9828,
+        "title": "الكندية آن كارسون تفوز بجائزة نوبل للآداب 2026 لنتاجها \"الجريء والخلاق\" - DW.com",
+        "url": "https://news.google.com/rss/articles/CBMikwRBVV95cUxQTEFyNXB0bmsteGJfdnVDZXpYcGlvaWtfZlRaUTJJRkl0Q0JNeGx0OVMxNWlTc1JKZF9zamxMYkhTUHVpLW11SnFwX0ZUNFFEU1BBMFg4clpiQjd4a29KWncxQ3VOeGRsODQ1WUJma1ViM1ZOY2M1eU56Q1F0SVJMcXBpdVVGSWtXWjI5TS0yUTRaNFdIWjJNVGhFWHBhalZZeEpRMVZKZm5FTFB2UmpNa2RvSzNySHlCUFRmWE5ZTjFoQXF2N2hyMDVQN3dNSGZmQlRaOTRoY0FEVHMxdVFScDN0ZkF5S2ZLTlBlalljeWZraFg1U1U1MEhDZjRyc2ZRTnBteVQ4dldBZF85azFONjNYenB1NEY2WmNEZVFBWG9wLW4xVDJEQmtHallLbmZTdXdUY0xPTEk2clBCZjlERmtNZXFxWGJMT1gyZE9McmpiQ1NXTHM5Tng2TVFHMDV3X1FJaUdfdE5NVVNFbVltSTdlTnhwWlZFNFM1QWJDdW9TU0pqb1JlZ3FpRmJLOHhwNzl3S0g1TXF1WVRYNUFsM19WYlpzT0JtcnRxTUVCZHZqTXFndm5IQ05CQ3J2TG91LWpQcGtpUm9SZHVTRzVCWTExT2kwTjdTcW45QmZTekE3Z1h3TG1aQnM2ckw4aHlpYVllSDJUY18wQVVZYk1JWEpPUWgySTVEYlVZY2RvN3ptZzDSAZMEQVVfeXFMUExiRUxfbzdUajJ4VmprOUxVQmI2SWVaMmROZ0ltd1U1M1VlSzJTRUFSMk1LS1ltaDl6X1lwQkZhT0lpWDlnR0kwVjBSSzRMQk9BQ0prS3FlT241T01wcE8tbnktQTZNNVVjUzVoZklEYmVZWFJvY183T0pneGdOOVBwS25KeXI0emZBUTJwZld5alhaWC1kTGZTbGdETjdJVTBPQWU1QVVqZDZZUEVsd29HSm4ycHJwVlZ1bGwxWWRjRDdTZFAyUmtYMThteloyb1ViTFBnaThxNEotUk12U0tad0lMekFMOS1QUGs3MFF2WjB0LW9TQnlyX0gweGUyb093SXd1NHp5RjFsQm01LVAwSXZZV21MZEhGM0FkQW5UcXRVZVRZaGQ1aFZUbzVxVjRUR3ZxQW9seGRwNmdFcDg2RVZ0Nms4SDIyWU5sVmpEc3NwazVzSU83YXJ3MmJpZTNjN2JJZ3F1UmpDaDNxQjFhRDl2MW9oR2ROMnRLaGpfOUJLNVNtZTVLOVdDd2d3S0lZSHJIM25FYW1zTk9qLTdheFB0OWYyeG9KLWFNRThwMTc1ZGo2M2Y0VjNTUEFKaWR3S3FvS25URlhrT3A1SFhETDZ1LThUYlZRM0FoU1lFVVZCU0hhaElIeTVZd1RXR1RGcWxNZ0ZoYnVScXhyM1Z3STZEbFg2RmtLdkNXRHZuMGlr?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 13:17:42 GMT",
+        "discovered": "2026-10-08T15:23:22.662336+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الكندية آن كارسون تفوز بجائزة نوبل للآداب 2026 لنتاجها \"الجريء والخلاق\" DW.com",
+        "player": "",
+        "content_hash": "78e015f934e5a5a82abc255f1790c957eab44794f3040db85b27d1c35d477038",
         "sent": 0,
         "section": "sports"
       },
@@ -1202,38 +1234,6 @@
         "summary": "وكيل دوناروما: مانشستر سيتي أبلغ لاعبيه هذه الرسالة بعد قرار الإدانة Kooora",
         "player": "",
         "content_hash": "4490a01a1ea602ab0878548c0799aad46ed445e6fb95c2795f481402ffb87c23",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9712,
-        "title": "مباريات اليوم الخميس.. كأس الرابطة.. وبطولة أفريقيا لكرة اليد - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxOYkZOTG5UbW1taU0yU1dpTkpOazNtVzEyZEJrczJWLUFxUDZXZ2FBLVFETy1ZcUFuR3ZBbVlYbF9hQlJzYmZ6Z21SSTZpMWZxZHZPb29sN2lqWWhiWFQwYmJLOE1HWi1Gd3hKOHE2SFVQZUJZTHFIaHBWRlhsSFFId1BIeVdIMGFUeUJUNWZDS2twVmtrc1FyaEhENkczY01tOFR0QU5VWlA4bEoteEd4NFhjdklrWjFfTGNON0ttUFRQY25fTEN4WUd4WnN5LUZYS0NfSVJScVJCUFlEd3BBRHJ1VUM1ZGNPR2RnZmhLdVlLOThwMzQ1bnk4Tmk3c0EzQTBFNzZHOXZqM0FkX0NJSE9uU0lDdGx3eXRSQUlheEtQVVVjMFpPNE9hSF9fd1FhWUQtVDR6LTdvMUNkZk1JSE5TdkRONEdQS2pwQU4zWWU2LVpUWjBFYUlTLWdXUkhwak9hcFpBWWl1cV81RDQzNDByd0lOV1A3bWdkWTZuejRjWmVHcHVMSDEtUkdtM0tlLWU2V1ZuZkQ5LWJkdENaRkU0ZW9IRjJMajhBLTNIWC1hUWNEaVF5dU14OWVpNUZ4NTdVR1VqS1RjTjZFV1I3SENwNGNpT3EzUFNDLTMtTElZVGlYQzQ0ZFNuY9IBiARBVV95cUxOazVOSzFLZHExOFV0bFdESkNvclZIMnpLNkhmLUFSSWxCZEhDWkNIMFRiYXVmWkNwSFdDa0NrV3BCTmJPNFNsMTR0aUttakxKMEhheWVWbHBxYkhhYndrQmJQMHpsa1Boc0ZlMG9sWWJBZVBjYXpvYjBQWFJPbFVkRzRqUFpYeDRKd0JQb0FkbVNOcWdmOW1Ed0huclMwT3VwemgtVVlHYXJUV2VYMVBuNzFHRTBJRm1TYWxaOUN6cDh2UEtUMnB0dHBJek5rRzZLenROV2dpQTVaUURKOEwwMXBnQVMtaFlBSV9DME8xaVlGbl9MS18yM1pQTlhMclpzZUNldEhkODNjeElROVNVdm9MTGhCZ056dVRSZ2VaRmMwVGxNLU9DQ19GbURtR1JJc3J6NGVWOENQQ2ZYdGZoYUh6X25UZXdwWUU1T28xN19kVk5sSzBpbVJMeWpDRWFjaUVyQi0yaUJCRVRNSXFwSTY0LTlvZ0txWGhCLUJ4ekU0ZGdTdFg3dlF5MUZsSXBQYzlLRVo5OS1sc015ajlJNTJkdlFKOFRCc01UR2ZTel9aTzAtVlN6Y3F0RlgzZWxqYUlyVDJfb242V2xiYkRVZVV2eVlLTjZpb2N5eGMtQ3ZMQWF2bC1LX3NyektZRlpwdFBON0pmMWtMZjVpTXFLN2xnN2tTb0V1?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 06:41:00 GMT",
-        "discovered": "2026-10-08T07:30:31.767782+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباريات اليوم الخميس.. كأس الرابطة.. وبطولة أفريقيا لكرة اليد يلاكورة",
-        "player": "",
-        "content_hash": "df079e087c3f8e1b315dc9308217a506e913fb16dcc8c33e9fc07602aa2f26f7",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9707,
-        "title": "مباريات اليوم الخميس.. كأس عاصمة مصر.. وبطولة أفريقيا لكرة اليد - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxNSG9TOHpZTU5rSjI5VGM2cEhwZmZseVBQMk82ZFVtTkdwd2tEUG1iODJYa1RmNVZMS3B0LXFFSmV3aHptdXZYd2ZWM24wcTRKZWJPY3lLeUdUU0gtUTRnQVA0dFFZWFBPaDNyM0xQTG5KUlBCMTB0TTNjRDdrTFpTZVJvZTR3TW5OOGl6al9wUUlQQVk2OXphZURlU283eEJwNDhLNjRJSGx4Z1U1cG1SZHJkUFlmNHpYLU96RUlQZGZOV29iVnAtWk1SVENJbjF2NDhIbEhOa1JOZFkwTFE1SzlLYXBwMlBuZzNBMzlYYVo4QVJjQU16amRxcXpJSVBZOGhDZENYbWpidVoxdGZNbnl6aUltTkNrRm5Zcm1qSU5uZEJ4UUY0b2tkQUxLYVl3T3BzZTFHemQ5bkF4Y3ZJVW40YklwTXhlZTYwSTZmRlhhR0RqMVJ3MUdtQlF5a0dTaXhuYzBrY3p2QktTdUlLZ2lnQWRjZ3l6dERpdWlwM0lXYjR5MWpxeTY3U1RhbmtxZ2lQcWtyTnBraG9pN3pMM2pqZjVTQ003REthSUhIRE1fQ0w2S3VpNWR2UXI0QzM0UExSUnUyYThOX3FwSEdnbnRXTDItWjBaZk5oU0hJcFB4ZHJBSzFyUnNUanJZcGlKbVJrNlFGd3EzR1FvZkE1T0t5VWpsM2pONlFEOdIBkgRBVV95cUxOUVFMUzBaWFZWNEpuWEtYbTJpT3MzWTRER1JQMDJSUWtYQVVPZ2lYclc4cVZ6UlZVT19EemFvdzBNWTdkbDVkZFNPbzdvNGl1TWtfYmFyT0dJTVJUNkJYR0t4RXc2V0tkSklhRmwxMGxYUHhtcTRaUDJfYU9ybkN4RzdYNmRkWjNZb3c3UmhzRXdaSDdXQ3hUdGFQRGhOa1JWSV9aQlJCS0F5Wm8xRmEtYzNjSXYteDlWUS1HRVl2WlVuQmN5WmM4dW9ibkZDeVd2Z05EWXU3Q0RaMUZTVEF0d2U0WExhNzBBbUl3UzRLdDc1STU0eWZHMlZxWDlobmVSWlltbFphdWtxNWYzZGhsTlJuWGdYYXRibjlFem1OWWMwcDQ1YkN0emR5YXhaWFlXQUxGRzlsbEZpU2hnM0huNWUtR1VIRThLTkhtYXlhWHNCUlFnS1pxNzgtNUtFNEZKdHpfX1Y0UEV3N0xSdjNiSXRtNGgyVVp4d2h5OUhINFJLVS1SZW9oLWFYN3Q2YjRmN0JSUHBPRVhQaWdISlhITmktd1ZLd3BNM245YUd3VzNOd3RlYzB5R2s3eXN0dGk5a0VtcUdzSWJFLU8zZ0ZwM09aRkdyYlcwQUVSdHVIcEc3cmg1WTVTYk8ycTc2bkdzcFNIWDJrc0VCVkpjbnZCU2oxQmE5X0hUb3VCRkkxQlN4Zw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 06:41:00 GMT",
-        "discovered": "2026-10-08T06:53:00.604504+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباريات اليوم الخميس.. كأس عاصمة مصر.. وبطولة أفريقيا لكرة اليد يلاكورة",
-        "player": "",
-        "content_hash": "07f2f70ab365ff285a3c90ec15cdbb97459e924b0080624a635376061b0f2944",
         "sent": 0,
         "section": "sports"
       }
