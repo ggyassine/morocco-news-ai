@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T13:48:42.787049+00:00",
+  "updated": "2026-10-08T14:03:53.047293+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -498,6 +498,22 @@
         "summary": "كاس: قرار قضية المغرب والسنغال قد يحتاج أيام وربما أسابيع FilGoal",
         "player": "",
         "content_hash": "f61963c5e8d392f8f14c2a6ced63375013621c761513badeae6689f5cc93d487",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9804,
+        "title": "آن كارسون شاعرة الأساطير تفوز بنوبل للآداب 2026 - العربية",
+        "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNMDJYUG50MHBDSWo5SzlpcTcwUVFiOC1PSjJBVUY4Q1pLcHNtVmN1bHJOWk9nbl9CMm9wb1UzUUNNc0d0Ykl4X3BfWW8xa0FnT1poS0ZONThocVFPUlM0cThFYnQyb0pjWmxOUkpmaGh0ckZRWVZ6dWdvNzVobUR0bHpBVVc1eExrV0VxUkMwLUNOUHJaemJWWmhBRW94TE8tN0hqeFpnb1FKS1E2eV9oQ0s5LVBpa2daY2lNb3lvSHI1bXZzdXIwR0taWDV2MkUyVUNneWJ2aHJzZUt0S2ZHOFNwd19mb0phSGdrXzBzRFphTkVvS2J3MnJPY0YwNERVZWRJWU05OExBbDRLOXdFRGNYempHRlAwai12cjZTbFR4UHJyb2s5V3hhVlFiQkFjMXRKU2VEV0JDY0JiZDFxT1N0SEd3UGs5VnMtYi1KOW1EU3c3dUFCRUt1T2F0SjZua2RBTkhSa1RGTmVXSWItRjZjYlFtSWRqbVZkSTFpTzJzdDhtb1B30gGMA0FVX3lxTE15MDN1SlZWWTBySUtCUmQxUXdMNEZpTjFMZGNTVl9tZ0VfZzQxM3ZTYzhFZGxYRVhSMzBiZFBFTV8yRER5SmtXSTA2MzBYWWxDcXFaOTJ5ZHo1NnVNaU95d0VDdTZEQ2dSa2I4RVVvem5DVzRndmc5NTlPNmZaaHN5aWxMNUc4UjhDMUd6ZW9QMjByLW1YekxJekJHV0ZwSkpTMG9tdDVXd3BDX0N4aHlvbGFDbW1iZm1Ed2wyZUZnaVlXdzJ4TEdFVFgtSlB0ZVg3UnlScjZYNVZWUXNFOUNsZGp4UGlJWkI4MDZQUDBfVmNDYlNtSUtvaU1fbnNZS2pUbHI4MjFSUGp3ZGxlUm5CdURQSUlLUnpfbHhpZnEzd2pYZWF0U0w4NE5QczEzd1RqZV83QnowNlF2ckZ5Z1k3c0plN0drY0E3bVlXZjNSNU5LWDdaU2hkcWpIc1NiRHdPV01HMzlqQ1BIVC05OGxYZ2VSdTRxbExmanpKb2xKVzNiaVdJNTJvbUV0RA?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 13:15:13 GMT",
+        "discovered": "2026-10-08T14:03:43.456136+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "آن كارسون شاعرة الأساطير تفوز بنوبل للآداب 2026 العربية",
+        "player": "شاعر",
+        "content_hash": "22bf332020d9fb4e287018ccf7502022f9efaa9bca2c4404fb6ff4d25fff8cef",
         "sent": 0,
         "section": "sports"
       },
@@ -1218,22 +1234,6 @@
         "summary": "جدول مباريات اليوم - 8 أكتوبر 2026 - بطولة الدوري المصري FilGoal",
         "player": "",
         "content_hash": "067b15ced8946608adf24392311b11d393f92c9e9c145789cef64383792530a3",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9653,
-        "title": "جدول مباريات اليوم - 8 أكتوبر 2026 - بطولة كأس الأمم الإفريقية - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOTWhEMnVMdmZfYUNRYkRCTF9wYk9lV3ktSHN1VzNqeEVGSkhYQVliWEdFeHRSN0M0NWxQaVAwODFlblhacGdYZl9waFIza3d6dmRnX1BMV0lzS1daSkNSYmROaFI1LUNUVEh1UGVjNW9EMnJXdHlaWGhMazZHLUE5NS1aYk1EWXBLR1E3cVJqMXFieVlYVlV1VlBfdmJEdVdVZW1MdFV5NlNXRmtBWlFwd01vRXM1OWRtLTA0MHlsMXFScUhMTEluUEdrYV9QUEZMeEVyY3IyVHBJTUNRUXVpWU5FQ0tPaHhHUEtvanVqRlNidDFwTVhERXRZTjg1SDdJVC1vaGhmWDJOQUpGSFB1Z29kMlR1bl9KUUEzZw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 00:00:31 GMT",
-        "discovered": "2026-10-08T00:12:10.306428+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم - 8 أكتوبر 2026 - بطولة كأس الأمم الإفريقية FilGoal",
-        "player": "",
-        "content_hash": "2baceb94636b03c0999a7a634f7d501a4d8378a17aec076140d9b8beb34264de",
         "sent": 0,
         "section": "sports"
       }
@@ -1974,22 +1974,6 @@
         "content_hash": "fb1869bb10934bab654d32d8f6a2805c4c6d958147c50ce03d3c42e8038794bb",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 9348,
-        "title": "رونالدو يكسر صمته: أخطأت بمغادرة المنتخب... وخيسوس لم يفِ بكلمته - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxOeVkyM0hFTm9MVDQxdVJvZVNfSl96dUJpbjFpMjFsMmJ0SDdBMmZGdGJsbFVyV1BjRXZKZ3BUMnZRQ21DS3E0NDVWNEtXLUFBbXFqbW0yRlh3Ul85RWpSVnY5eFpFdktIY0g5ejNVNE1ocmc0TjlfMzFfSmVHZHVzNV9Gai1oazRmWkxwNjZpYmZDTXJpdTIyc1E0b01aUXgxZVRUZHBaSjZ6WjZZZ1VyVE5yQ3BIdHVka1RCYklwSllyRzZZMWZqSjc2YjRTdkx2aHl0eXRZMVdqNklmTTFCcHl1RFMwcTd1Z1dVYjdaTElhcF91QU5hYUYxa2tfY2ZsdkhuRHVPeURUYXNua3R2WlBqaTRZNkJHeDRfRkZuM0pDSG4wams2dGdtOU1aeGdyVTV6NjNWb1QtSk5ub3NNWjlCZGM0M2dhTEk1UGFsRmFTNmt4S0RLMG84OEliMW5QQnVCQ0lGM0N1VXlOdUlHRUtWbFBzYjhGd0VLbm80d0NzUlNkUDN2ZVhsREd5bHB6QWZBdVVkQzE5ZHUyY19POUMybTFEd2t4QklVNTc5TFA0NFVCUXRKNXRnN2dTdXJncmdaRXV3YXRLcXN5bl9GSERWWndlSEZOeFhKSGY0VlJMTDA0MnBLUDMwb09RN3RidlRaRlYtWUo5MW9SMExVX1pvYUd1M0lFeEFBQm9DdmtSRFlCX19aY3BCUFlTRk9FRndyWGJmT1dFR3ZEMEdGNmZMOGZFdlFOMmFzYXgyT3JkTWlwR3lhUVF2NEdDV2dMWHRaQTVKMm91cXFIUlB6bHJpX0E3SDlMMW5VWjYxUlNpcFZmbl9WOQ?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 19:39:02 GMT",
-        "discovered": "2026-10-07T03:21:18.752167+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "رونالدو يكسر صمته: أخطأت بمغادرة المنتخب... وخيسوس لم يفِ بكلمته الشرق الأوسط",
-        "player": "",
-        "content_hash": "c6308b04de8994c61d36f0cb4dbac3f51add40fe25734174a6b655491e788682",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2203,6 +2187,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 9805,
+        "title": "\"حلف مكة\".. وزير خارجية تركيا يوضح موقف أنقرة من إرسال قوات إلى السعودية لشن هجمات - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0EtUEUtYmIxdE5hSmdhNW0wWjhLX3lqazVtOXpYMlZzVUE0X1ZFVzBGaEg4cWkzM0JGZUlKSUpmU3NnQlJIREdtVjZQb29GcTNtQU5uU0ZyR3JvWFFxemdlNGRfazNULS1CaU9uQUE0ZHlndWY0N3FRUm5GWXlocXNJWlRUNWlsc1NuWHMtQ3RXWmZqUGo2ejUtLVBKSC1FTEh1eDNXek9JM0k?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 12:15:10 GMT",
+        "discovered": "2026-10-08T14:03:51.673076+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "\"حلف مكة\".. وزير خارجية تركيا يوضح موقف أنقرة من إرسال قوات إلى السعودية لشن هجمات CNN Arabic",
+        "player": "",
+        "content_hash": "1855fc5111698c5de3dec647764d2682d0eae527bd84e55dfee921591b2bfae2",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 9763,
         "title": "دبلوماسيون وتلاميذ في الرياض يحتمون في أماكنهم بعد دويّ انفجارات - القدس العربي",
