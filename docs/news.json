@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-08T01:39:24.818048+00:00",
-  "total": 148,
+  "updated": "2026-10-08T01:55:45.629664+00:00",
+  "total": 149,
   "sections": {
     "morocco": [
       {
@@ -2041,6 +2041,22 @@
       }
     ],
     "middle_east": [
+      {
+        "id": 9667,
+        "title": "أفراد من الشرطة الفرنسية ينضمون للمظاهرات.. ما حقيقة الفيديو المتداول؟ - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOa2Nmb0VYeHBOdDVJREQxT2RYNC10cnpQVFB3MUR4ZVh5bFJmRlFXU2tPT0hTQ1FQb0dCeHZiMG5WNk1XOGVSREZhNGRsdHJEajljSFd3bm9CdjJ5dUt0YnhXRW5wZ1Z4TXFFcmtHU1JZQWlBQUxEdHhabGZDRTV3NzZnaDdvdVV5cjI5eG9oSEt0UVJ4VXFNcWRpdU1nMTBwNUVNTENfOEJYZ0ZPYllUVjh6R1Q2SkZLRGlzejA0aEUxSXR2a0p5UWhuc2xSdWlHZWNUTlZ5THBvVWRQMGZ1T3lPX0ZVRklGMnA1WTM5OC1rUUFpY1d0Nlh0RXE3cDNnS0VoSnVzdnRfS3JwY1FZVDJMOXN6TUxrRl9PM0NlWnBWTE14VzktMUM4UlRHeEN40gG2AkFVX3lxTE5NNUphRmhRYUEwTnBZelM1SGMwWU9mLWx5dVVISGRONVJoZEJxbnhfMUpXNW1VX2JfUng1RXhkVHhrWXVxeDc2MUpLWm9rV05fdUsyQUhjWVB2U0VuS21yMkdQTy1pc2xvZ1hvSUxhY050cV9FUWIyclZ3eTl3VHBfTzFaR1J5aHpWQlBqZTFKdThkVmZ5aEZkTW4wWkNoZHlKczdBR1BKdlZaMjl4TlNqNEJHVXgyRE9SbVljNlhPYmc1dWJaeTdvYnNHTjQ0anlEWGZRYUc4aDdzVWYxTkZYYmhqTjBRbGE1R0pwUUtiUlFzX3NYa3M0a043eG1sVjM4NVh3MHg5OWI0UmR3RWY2bFd4RXg5VTZoTEhIbFR0ZTQ0VkliYThhS3VwOTg0NWlxNkdJSkE?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Wed, 07 Oct 2026 21:58:25 GMT",
+        "discovered": "2026-10-08T01:55:37.222178+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "أفراد من الشرطة الفرنسية ينضمون للمظاهرات.. ما حقيقة الفيديو المتداول؟ الجزيرة نت",
+        "player": "",
+        "content_hash": "fc98eed71a1478bb4c12b708af5de7bccaeac4fde6c91ad7e0bb9c0987fdb054",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 9625,
         "title": "السعودية: وفاة 3 وإصابة 36 باعتداءين على مطارَي أبها والرياض - الشرق الأوسط",
