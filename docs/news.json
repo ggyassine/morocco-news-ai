@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T03:28:33.276167+00:00",
+  "updated": "2026-10-08T03:48:06.833660+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -2042,6 +2042,22 @@
     ],
     "middle_east": [
       {
+        "id": 9680,
+        "title": "«التحالف» يدمِّر منصة العدوان على الرياض - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPcjFSVFVIZ0VsZEFmMkRSdkY5Q21yUEE5UU9DSzNHc0JfZTZod1ZwbWJBRDhYWkVmanJ3TWpmWllpRHJqcW5hX2daQzhyTUwwREIxX3BETXlQb1NZWFBZZ1J4dVJudU10bm9sbnFJX0J5ekZNTVRBa0RhNmRneWRGOVQ0a19McDVrRUdHLUhickpIaE01aUJ4c1FTMTdZNURtNWJjSlFrNTd0NmdOTnFDTkR0OWpVZXJjQmZJWUpkdFBVajV3eVd0eGx2YlV2Tm4zRkg5bE9kaHE0ZDd1eWExT3NoNm9Rb2gxTTZfWVN3Tk1LZDRkdGxxTjlPaDBKcWNnUEl6N25tUnB6UldKdzZxTl9sWHVCNks0b21DRENiTVpJNE55TWxXT1NkOHhqX3h4RDBENk52ckl2RnNCY1dzZi03V3lDQ29BNGtxLWxjQ0ZOQjJPakFTTGVpZjZacmlFVGdtRkxYcFloZTFFQlozQV9kNDBJd0drZzl0NHdqQktZUy1uNF9oSEZuQVJVVUhzYnVldXk4THBLWUUzVnRMZWlCNTBKOTduSnBlb2pFV0hUMkdpWnBNb3B0UURWLURkUXEzajBNSzd5RGxNZnBnWjFIX1dweE41LUdyTnBQeWhwWjA?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 00:56:20 GMT",
+        "discovered": "2026-10-08T03:48:00.371373+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "«التحالف» يدمِّر منصة العدوان على الرياض الشرق الأوسط",
+        "player": "رياض",
+        "content_hash": "a19cea63ba727c1b52e65c311dd37b043e1e61be58e84afebaa3e49b70e6f767",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
         "id": 9667,
         "title": "أفراد من الشرطة الفرنسية ينضمون للمظاهرات.. ما حقيقة الفيديو المتداول؟ - الجزيرة نت",
         "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOa2Nmb0VYeHBOdDVJREQxT2RYNC10cnpQVFB3MUR4ZVh5bFJmRlFXU2tPT0hTQ1FQb0dCeHZiMG5WNk1XOGVSREZhNGRsdHJEajljSFd3bm9CdjJ5dUt0YnhXRW5wZ1Z4TXFFcmtHU1JZQWlBQUxEdHhabGZDRTV3NzZnaDdvdVV5cjI5eG9oSEt0UVJ4VXFNcWRpdU1nMTBwNUVNTENfOEJYZ0ZPYllUVjh6R1Q2SkZLRGlzejA0aEUxSXR2a0p5UWhuc2xSdWlHZWNUTlZ5THBvVWRQMGZ1T3lPX0ZVRklGMnA1WTM5OC1rUUFpY1d0Nlh0RXE3cDNnS0VoSnVzdnRfS3JwY1FZVDJMOXN6TUxrRl9PM0NlWnBWTE14VzktMUM4UlRHeEN40gG2AkFVX3lxTE5NNUphRmhRYUEwTnBZelM1SGMwWU9mLWx5dVVISGRONVJoZEJxbnhfMUpXNW1VX2JfUng1RXhkVHhrWXVxeDc2MUpLWm9rV05fdUsyQUhjWVB2U0VuS21yMkdQTy1pc2xvZ1hvSUxhY050cV9FUWIyclZ3eTl3VHBfTzFaR1J5aHpWQlBqZTFKdThkVmZ5aEZkTW4wWkNoZHlKczdBR1BKdlZaMjl4TlNqNEJHVXgyRE9SbVljNlhPYmc1dWJaeTdvYnNHTjQ0anlEWGZRYUc4aDdzVWYxTkZYYmhqTjBRbGE1R0pwUUtiUlFzX3NYa3M0a043eG1sVjM4NVh3MHg5OWI0UmR3RWY2bFd4RXg5VTZoTEhIbFR0ZTQ0VkliYThhS3VwOTg0NWlxNkdJSkE?oc=5",
@@ -2387,22 +2403,6 @@
         "trust": "B",
         "published": "Mon, 05 Oct 2026 07:00:00 GMT",
         "discovered": "2026-10-07T10:49:42.233856+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "الحوثيون يعلنون استهداف مطار الرياض بصاروخ بالستي DW.com",
-        "player": "رياض",
-        "content_hash": "90d1af0db47a25a8bd9855edb3ba590ff5825997041948e721a0b7e0006ac987",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 9387,
-        "title": "الحوثيون يعلنون استهداف مطار الرياض بصاروخ بالستي - DW.com",
-        "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxOVVlyTjV3ZjZBb1k1VEkxOHdPNHdWdktGcVN3SHI0WTNpNTNBbVJmMWpCWFZyQXkzN29xbm1WOWIyWTYzRTFQNGZta2JYTzZ6RUVVUG80bGVpXzlLdVQxamVtSlV2UXJBcm5IeUNLZHA2LUVsdXBJUHlLdVBLWlJFMHRHUTVDQl9tTURGZUl4ejJiWTQ0S29ua25zYnVPY0ozbzZYbU8waVhEOTZIbWxhSUtfTmpPZl9HeXFLSHpBTEd0aGFUODhPTmJibS1ySGY1VExHMXZlQW1IVEN3ZWU5OXZ4MmNqSHllV2R1dFM4c29kYU5hQlhhdDY3S1libXNid2dTZktMdTJXdEtjRHo3bGlrcHkxdE43cV94WkpJazdhbnc1bng4dDdLeVA4SWV2cld4elJRN3dzVnRFbEtsRGpsRkZwNWJjaVNEQlJnTzRBYlFxUDVQOE16NldQT045V3FrYnkwaVlNZWE3SnJ0OG9XM0NtcVdpbEpNbkI3RUJnODFzV0dZNlJSbC1mTF9mZDgzdjBKMzY5OHpaTm1QSzZmakxKLWFoMS01eQ?oc=5",
-        "source": "DW عربية",
-        "trust": "B",
-        "published": "Mon, 05 Oct 2026 07:00:00 GMT",
-        "discovered": "2026-10-07T07:33:46.594389+00:00",
         "category": "العالم",
         "status": "غير واضح",
         "summary": "الحوثيون يعلنون استهداف مطار الرياض بصاروخ بالستي DW.com",
