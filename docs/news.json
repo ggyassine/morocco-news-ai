@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-08T19:25:51.375963+00:00",
+  "updated": "2026-10-08T19:42:36.332755+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 9905,
+        "title": "اللون الأحمر يخيم على بورصة الدار البيضاء ومؤشر \"مازي\" يتراجع بـ 1.42% - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE96RnB3WTJJck9iR05QNU1vMVp0LVJPcWI3V0FHel91cVVOU3Z0emRYZlRSOTRzS0J6Q0ItbjVNTkd5eVhINGRIcQ?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 19:34:13 GMT",
+        "discovered": "2026-10-08T19:42:15.702499+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "اللون الأحمر يخيم على بورصة الدار البيضاء ومؤشر \"مازي\" يتراجع بـ 1.42% Febrayer",
+        "player": "",
+        "content_hash": "c354ee41a1ad1cfd08aa1a400dea625de0a48e161945af7eee76a2ef61383deb",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 9888,
         "title": "شبهة “الارتشاء” جرّات قاضي بالمحكمة الابتدائية ففاس للبحث والوكيل العام متابع بنفسو الضوصي - كود",
@@ -418,22 +434,6 @@
         "content_hash": "c353aafd364f454235ea426026a253da71ef6e15334aa86f8ed212e3ea07b1a7",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 9408,
-        "title": "الأمم المتحدة: متدخلون يشيدون بالدعم المتنامي للمخطط المغربي للحكم الذاتي في الصحراء - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qalkyRFZWV0J1UVlQVlBuTHRSaDdoXzN0UDhkMXJzcWVTWGZ6SHA2OUxCSGhHcC1zYjdZc1ZtaDMtSkZVMjlpaXBWaWR5VmtyYndYTnVZelZkeGl4Q1RIczBaZ25BVWNm?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Wed, 07 Oct 2026 10:36:59 GMT",
-        "discovered": "2026-10-07T10:49:19.406191+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الأمم المتحدة: متدخلون يشيدون بالدعم المتنامي للمخطط المغربي للحكم الذاتي في الصحراء Le 360 Arabe",
-        "player": "",
-        "content_hash": "e2904b856e1f29a5b99b92a679f8e0d79245ef2031ee6252804e2b57fed6df5c",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -466,6 +466,22 @@
         "summary": "كأس الرابطة.. مودرن سبورت يتجاوز البنك الأهلي وغزل المحلة يتعادل مع أبو قير للأسمدة يلاكورة",
         "player": "",
         "content_hash": "6fe58feaeab92dbe7a013538c5f501c38e1f31d62e9eb440e22d362914f6cf18",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9904,
+        "title": "الكندية آن كارسون تفوز بجائزة نوبل للآداب لعام 2026 - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1meXpQc2gtc01nRWtsMGYxMVZHOHp0WUhLOXUxa3k0RHFNVjVGYVFZRjJJd2xrSG5ySnp2b0E4VWlQNGtocDVxbA?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 19:04:13 GMT",
+        "discovered": "2026-10-08T19:42:15.548001+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الكندية آن كارسون تفوز بجائزة نوبل للآداب لعام 2026 Febrayer",
+        "player": "",
+        "content_hash": "676368214c58da00bb34cd4eb779e72b912a82ed7ecbd672a721811ca0fb4a93",
         "sent": 0,
         "section": "sports"
       },
@@ -1218,22 +1234,6 @@
         "summary": "\"ننتظرك في كأس ليبرتادوريس\".. رئيس كونميبول يتحدى ميسي يلاكورة",
         "player": "",
         "content_hash": "c75276cf725abc7c2e95c13c37c41f772b99032a2f5101c452b0e40c91be0ba2",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9800,
-        "title": "كاس: قرار قضية المغرب والسنغال قد يحتاج أيام وربما أسابيع - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxQZDJUa3FXeUFlcHZDak5wRC1yWFJ1NkVpdFJYSDlMTllZSDVLVGgwbFV1NHBVX1JHUXRkZHlTRmNqNTZqdE91eFlWVDNmUXZEYl9zQzhXUU9PV1hXb3ZtMWlsS21LcVZqcXVhWG0xOHVSTG1iQjlmQlVBemxVUko5ZDBSa3dnVGl3R1VrZUFEemJYdkotMmQ5aXl1bmxwalJYVTZwMkhIaGVHVm1xSXVPekhSWjNFQUExd0xieHc2eXBEUDVBSnNwTUtXUUczZTgwcjJJTUFXeXp1QnlMbnA0NjhZYjdHU1hJd3ZNS0xlNHpSYktrbVZ3QTM5UTJlZG4zN2J6SFB1SDg1N3dDdEhjamd2YVIwRWY0eUZCMF9zYjhPMDF3bUxTZ0N3X0NTUnpLVDZCYjNDNjhBSjdPZVdHMFVicW5vLTFlVXZ4RF9pb05uMkFod3RNRVJCME9tNzFGYldfNk1NOHNfQVVfR1FyOUdQVkNacVdiblRDdVNsbUxVc2R3MFdSTGRDVDBTX2dBazBDdDdMamNmVzRuLXY1OWQyX3JFVFM1M2QzSURfYjBBYlBrcDJpekQ3WkFuX05CcjB6X05GMkhzbTdBbGc4WVo3bFdfd9IB2wNBVV95cUxNU0lISzlxd3U2T1ZvTXhUYW1pOWsyREZkMURZb3A2MlMybHRkeld0RW5ucEZNd2g5X3BMeHNoU3VGRTRaTURTSHJCQUloN0RNSGhWNWtiT1AxUm4xbjdCZW9lWGo1b1dCamRqbWtHTTcwZnpKZ3dvWG50SVZFTzdyU0h1MnFtblo3UWgzQWE2TGN3cUpQbTRLQ0pHcXp6TzBkMkVNQXhfRnQ2d3ZDR0Y2MEJwYTMzd1VDYlZ2NGRRWVlXMHNJVzZJMW9BM2dlYTNpZHdMZDZXQm9lVGkzS3hwODFNQU00V2RmVDF6NldFb2dDQkdWV2NqVF9WOVF6YTNrczV0LXNNNzB4dFdJTHQxYzB2OW95blkzN2l5OEJVNmNNYkVLQ1N1bkdKRjlCWHFrUVNPc3RzY3dveTRFLUFmWURZTDl2cUxNdGRVU2Y0R1lPYm9ad0tybV9vWHEyenRXYVFVTUNkM2VsYktWcU9TVEZDVXg0dkFnZzZnU2ZISDdGSWRkRUM0eFVNX284QjZ4Q1NjX1Fja0diSUxVWmQ1UEU4UnhxZ0d2SE5UcWZxR1Q3QkhZcnBVY1BKZzBjX3VGZzBDRWFiYWlRNlI5QnV5b2ZiSWtOd0p4djNj?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 13:30:00 GMT",
-        "discovered": "2026-10-08T13:48:27.334280+00:00",
-        "category": "الرياضة",
-        "status": "إشاعة",
-        "summary": "كاس: قرار قضية المغرب والسنغال قد يحتاج أيام وربما أسابيع FilGoal",
-        "player": "",
-        "content_hash": "f61963c5e8d392f8f14c2a6ced63375013621c761513badeae6689f5cc93d487",
         "sent": 0,
         "section": "sports"
       }
