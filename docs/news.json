@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T14:45:30.018938+00:00",
+  "updated": "2026-10-08T15:02:21.157416+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -438,6 +438,38 @@
     ],
     "sports": [
       {
+        "id": 9822,
+        "title": "وزير الرياضة الألماني: مؤشرات إيجابية بشأن استضافة ميونيخ للأولمبياد - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMitwVBVV95cUxPQmtFWDR4a0xjV0V1anRiQXVQXzVreXh6TWp1cDdiMXJadUpXNWxWNDI2TjdZcTNYRHBjbWxPWHg0amRyTV8zbTFUNkt0UnhNZjBDc0pmX0tNVHJXdUxSX1lfT28ybjl6cV94Tzc3d1JDQWZjX1lGTDRSdjhUNjZlaEhPei11NWI5Q1g1SHJrazhveHZSOExObWRndTZYMlRpc3pXSkMzRm1zZXZQeFZTQjZlNGtLQnQ2T3lWVWRYeUlpcWdseG5LejJ5UWRzaHRaZjBnU0hDQ3FtYXhXVl9BRGFBQUtfdGVrdGFDRDU1c01MTlMxVWtiZEt1NDh6ZmlNa1pxdF9KbkNDTVEzSHpNZEY3VnN1MEVURVh3Z25UeVk5VVBjV29JMkxCUGlQd19FN0xuYW9kVktHQW0yUnhkcy1ydDY5VmluR2FoazhFaXJOdFBIZ0dxWEJ3YjhOVldsajFTS3lBSVZOVUgwMl9YeUpsZlFVUDI5MGtaN0RaS0V3ankycy0zOEtCTjV0OTdQYmJReVhyOHBwR3dPVk5MQjdUaUVtRWFpaXlCYUlXaFNQXzZmajhiNzRyNUM1TE8wTG50cVAyUkp6SThWWEpjRWpSN3hValp0OVZDZ2UzMTJxSC11S09oVUF1OWg0TEF1R2VSVWRWTmtad2JLd3ljV1h4YmFlZUJCWUdUdmdUOTVRejZ1dkhjT1Fjd1lxVjZDOEdEQWxqN2l6Mk5yaVlfUmNXZ09Jb3VLVHJtbUVpQWp0eEQtQ0NDZTZSZVRReEtCTUVtWDZSX3hpbkJfYzZEdFVXcFhQUlRRUmJZOHFlQWIxZnBqbVY3eDc2RXpzcEZobHcyTzVmeWtjelp2WkFTVEIzU3dHMk9Bbjh5TEhWTUR1akJ6ZG1uYmJVaEJXWHlFbS1rRW5EMA?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 14:53:48 GMT",
+        "discovered": "2026-10-08T15:02:04.392420+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "وزير الرياضة الألماني: مؤشرات إيجابية بشأن استضافة ميونيخ للأولمبياد الشرق الأوسط",
+        "player": "رياض",
+        "content_hash": "b549c6d36cdd50e817fa658ba1ad1ad1a6cf0de4e962d302b56c0d3cf0dcbdc8",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9825,
+        "title": "بطولة أفريقيا للأندية لكرة اليد.. الزمالك يهزم ميكيلي الإثيوبي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxNUjlRYTJ4ZlhndTBkU0Y3TE14VEtHbzNKQzgxalZJYy1HYkg0X2FScjgzTXYybHU5OUl3Y3lBTUtqem9ZdXBNcHY1c19GU1JSMlpTRmZmcFpsaTJOMUo2cFdjYXNNWndQcjNlWU9NcXFjdk5uc2JEWTRTREVmZmhDcWlzQUVHV3RoT1R4UHlqUWxsZUFVLVhkeGNyT1VtRmduNEZubWV3WXhCeDhYMER2bUtLOVJpWndOWDU5bXJOWmFWcXg5SlFqNW5XZ3Y4cFBfTUJvUXF1Tk9iMk1FdmQ3ZVYzSXRFWVFabExUSWdXNElvd0lROG9jcjVOeTVvdFBMNnk1ZVppRzVuWlU2YUo1eWM5SVQ5TEVfS3Z2NHZNckFhNnZVZGgyc0U3SVVxeWVIbllYR3BxUTNxWFZRMmJiaUZ2a0RjODZDdnZsU192OU15TVhaY0dZSVNobkdLSFJqdXFFeFFnemFENm5fc0tMZkQzc2pWc0hiMTVnSWxEU0wwZk9PSVJ0clhzb28waF9Vc2xXNkhHSldOdlZMM05TRHJTMzZtXzlublpvTWpkVDlEOFZQWUtDbXRxREI3UDhBZk9kZHpDZGoxVlJjRzRxeEdmTUIxb3J6QVIwM2QwNWNmSFM2Sll3dmR4SFhwMUJ2OXptWl9VT1d5TXBKTGNCVHNxYUprS3B1U01nN0N6SdIBkwRBVV95cUxNWjhSczFha0R6VEx2TW5TaEZ5ZXhlSVhCWm83NkVXSzNMM0JfTDJkRXpkM2NKQ2hDcXJjUlY4bEVSVjRSUGI4MVhDVlRRdVpGRExpdGJVckRNeVJrOXJlbW93R2JKc0NoWXQ5M3pVajltR1JHNWMwZm5vVEZ0aENDR1k4V01qZk94LU5ObG81OFBURTJVRDZrTDNyUkdDSXEyeTFnLXBtMmZjNTA4b3lPcjFJMlVmTFlRRGJHeW12OUZ4Ung2ZlE0QnVEUTNXaVo0TWZlWkJrYUZsc0wyeTloRGhZUnUydzlnMlpoN1lJZmdZNWFucnh4WTA3Q2RobjUxMEJwamRPdGtvX0UtR0Q3WFZYc255dlU5RUd6TEdPN3BFLW92QUdkNlN5ZThJUTVZT1FPNmp2NVVWdEc1c3RFQnkzWHg0T2poYVdnMFpWVEFXWVBFTnN4a2VZNjUyQS10QmNqYl9kc251NDRMWURybDBmVW5HcGNVTURXbncwMHZ6bEQxUzNUY1RPVTZFXy1KczlERkFoNkM5ckx1Q002MnhFUDR3NjdUdk5yNV83SXRfMlZpMEJLekxMcmlHLXE2dFV2U1FYdVc0M3dTSGJGODhoM01Cd2lQbDZDdjVxMFM1eTh1Y3NqNWJCOEZnSXBpV1JISnJwaHBSSGdkRTlnZjRPb1JfZ0Z5R01XZmhRcW1XZHM?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 14:52:00 GMT",
+        "discovered": "2026-10-08T15:02:06.378043+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بطولة أفريقيا للأندية لكرة اليد.. الزمالك يهزم ميكيلي الإثيوبي يلاكورة",
+        "player": "",
+        "content_hash": "fb82a2b3ad9821174ea06c3113d4d60a6173edf6823a9d87976210051c5abfb9",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9809,
         "title": "ديربي بنكهة مغربية.. عموتة يكتب التاريخ وبن شرقي يتصدر المشهد - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxPd2ZZTkhqOVFtMXE1elRXM3kteE82eWV4cERTUjgwYTF1WFNQVDJFLUwyZVp4VjdXbi11QTNYSHlSVGtHQzhuMDBZanhEZXNPTFlGdS1WTEZIMFhEUEJmcUF3ZHJCd3ZpcTJpUXdqRHllakdFelJGOXpEb1A4QnVkcDEwUEIyc0E1b0FhQXdrdFJ1QXpscEs5ZzBlQnF5YWRHekREOTNIUGRscXJkZnVkMnp2dm1PWjhCR19sdVpncVdOOFcyWG5tenBQRGhwc1p5MlB3X1Z5d0pUWnNFNXJIbllGRjNIQk9nRWxVdjctb19TN1M2TkR6aWJQSU80RVVkbklObjVTZW0zRUVjbkROVVk5b2xIVnhCTDhYaFpIc0RrUzA3SWxDWk13U1Q5NHNUejRZdS1YZGl2Rm9mazctVGNrVWZXMUxhWVlsUEwwQzNuV0FxY2dIYm1DZHdnWVE3a3JNZS1BNnJsclNJNmU5SlRXMFBaa0dCc2xEcEZxUEhORFlBNFBRclcxbVNYakxCS210YTF4bXZ0MDczNFRiUnBZeFNNemRybW14ZDJHX0RfclVzcVJkMmJ0N0RwSzZ6MXlIV0k5Ti1XcVp5WmZ3Z2VLYUV0b05mU08wTVVLSDdZN3IwRXd3U1FHUFd5cFhNZVE1WnNsYkRoQk55dGFMVXg5bEQyd9IBiwRBVV95cUxPQjd4MGpGaEJtcmNLN1oyVzRXcHlHYVNvZWh0T0hmN1A1Yks4TXgzUDBVRlFHOXhjdE9Md0R4VFR1NEk2ejhjcXFNWUEweEdOLVpCei00LXZYZXRmRVVvSnlKMl93eWlWVDhHQ1Nlem5yX1AyT0FRV0JocjN0VWFGMUNtUG9tTjJDM3p3S2Qxd2ZFY1dteFVCSG1TRXB1NUJBcm50azE2Ykx2NVU3cE0tbVRCR2lxTXdKc0hUcFhpUjJXc3ZwLXBMNXZYUm9Ddm44eXhqdTdIemRHNHJmZmNKNUVyem1OOHl2TkRTakZDYU4yR0pYTjhhQ0w3d1E1VFUtMi0wdS1iaG9RTGNRUXlYT0JjajNYNFNwZ0ZlWHhiOFRwdmhjRjVUQkJPOFluTlRUOHF0NHNLT09UU3dncFFlY3lfb3pvS2M2Nmc3ZlFZbkZFbldGbmNIQ19ac29JS0lGYUdIcFYySDBDQkxxZ0Z2R3BYM3Y2bzBqZlhXNV9kSXNVNnpCTnFNRVdIMVpFX1E3T01QcW9yWUtvOFRrWXRuVWk3eUFtLWlZa0JyOEU1QTBNS3U3eXg5Q2g5Q0gyN3E1U0F2UnRJWW94Y0QxTVdYUVI5NFBkM0l4YjBKcFJwVFhzNklDTUk0SWhnZVdnOVlGM29oTzNMWGFZRXVLQmhVVHBFYms0dWtzbDdB?oc=5",
@@ -530,6 +562,22 @@
         "summary": "\"بعد اتصالات مكثفة\".. الإسماعيلي يعلن فتح باب حجز المباريات لجماهيره بداية من مباراة طنطا FilGoal",
         "player": "",
         "content_hash": "30b941e717da8f578d9232426333a96d3742cc1cc85b028577fda6f61cf79a16",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9824,
+        "title": "المغرب أم السنغال؟ تفاصيل مثيرة يكشفها winwin من قلب المحكمة - winwin",
+        "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNV2JRVGMtMEFySFh4RlYzUC1kd2JTeHN2dHpOTEZzMUtSNmN4NE9sSzNDT2tMSzFSV1BMQkd1MldlaWxnazN5YV9FUU05YUxwT3d1bVVYV1FNQlY3TlIxWkptU3pjX283VU5ibUt2VW5icWFBUkEwSDBGT3djaEJqR3k3d2ZBUTdmY2pGd1JSM3l0c05PWml0TjNZc0RMMDF4dGJDeXdSSlluUExEZVZzZWNvVGVpNjlXZWkwcjRvRzlHLWVLREtZaGtITjJTYkhHbFhES1QtUm9PSmctYWVxTjZ3MF82eHUxdVFUTGpEeGtkUnpVc1FGaGNwU093b3pfS3daSkN4YUdBRnJ1VVlnZFBDZHljeGdQLXBNdWZ6bTJseG8tdjBuOExQOTRRTDUybjlBREhfLTF5LVRRUG41Rm1WYWhNWHpxZXdBRUdXUzE3NmFvMW9XYXNYYW50UWc0Y3NCaEozdjE0eDN5VUJQQnpfay1oR3RkWmNsY092T0lPTUg2ejRhbno0cENHam45Q3hVRmRzT1pGUDJpUkpJeEM5QWI1TWNiNkNLSEZ4UWNvbHJ0MWRnVnlFdjg2SlQ5YmpxUzJCTEpKdmVKVkJEWU1pTWh2R0RwRHBzTU8wOHRObnBsemZpN3A5cFRaOFhz?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 13:46:32 GMT",
+        "discovered": "2026-10-08T15:02:05.755178+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "المغرب أم السنغال؟ تفاصيل مثيرة يكشفها winwin من قلب المحكمة winwin",
+        "player": "",
+        "content_hash": "8446fc6623330c641a17ded4f674086723d142b7772d3637cd97a93a859370d7",
         "sent": 0,
         "section": "sports"
       },
@@ -1186,54 +1234,6 @@
         "summary": "مباريات اليوم الخميس.. كأس عاصمة مصر.. وبطولة أفريقيا لكرة اليد يلاكورة",
         "player": "",
         "content_hash": "07f2f70ab365ff285a3c90ec15cdbb97459e924b0080624a635376061b0f2944",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9750,
-        "title": "صحيفة الشرق الأوسط - رياضة/أقرّ النجم ليونيل ميسي، غداة مباراة وداعه مع منتخب الأرجنتين أمام بنين في ملعب «مونومنتال» الخاص بنادي ريفر بلايت في بوينس آيرس، أنه يفتقد بالفعل قميص «ألبيسيليستي». - تطبيق نبض",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JRjBEZ2l6MjE0LWhCYV9zUlJhQm5Pc2M2Z09kUHFfbUJYbU1EUUwyU0JiSjI0MDRxWTRKMXZvTWt1ZzE1dHoxcFc2MnE4NzQ?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 06:31:01 GMT",
-        "discovered": "2026-10-08T10:13:30.541003+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "صحيفة الشرق الأوسط - رياضة/أقرّ النجم ليونيل ميسي، غداة مباراة وداعه مع منتخب الأرجنتين أمام بنين في ملعب «مونومنتال» الخاص بنادي ريفر بلايت في بوينس آيرس، أنه يفتقد بالفعل قميص «ألبيسيليستي».",
-        "player": "رياض",
-        "content_hash": "9720c5d4d6c548a2c9070c2ee04add1961b3a0eb112b964618e2c827836a900f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9706,
-        "title": "مصدر ليلا كورة: شيكو بانزا يصل القاهرة خلال 48 ساعة استعدادا لمباراة الأهلي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi3gRBVV95cUxNOTdacG9MMDI4UmxIeGx0UWpaTkxMR1VIQ2FwQ2VKUFk0cFpXYTRrRFJ4cU80dUszZEhfQU0yaHBjb1VUWTV4MzJ0cnUxV3A3ZTRhQUt5TEZCbmlNLVFvYWY3YUJ2dW9xVmlRZ3RCRjJMbE5hNU80bjBlbEF2RktDdUJBbmhfX25tRzJzblNod0dvdHZ5MFMwUVFEOUI0TUNJVmlNNlcweEdkWEtjMUt2Qm1RZUd5VkdBUFZqY3QtVXBBWl9iUGVnUGlhcy1ZdVZlSkNDRWhoM3JlMWtHMkpySUFrV3F0My1POTBEb19EUm5OZlFTbzUyWFl6aVpnX3puTTYwUFdJT0NZMWF0dXV6TXN2MGFvakxrX1RkVnpmY0h1Zlp0alJnRlo3YnlvdUUwbkhtTEJleExpcFB5WTNmSUxsZHVFT1NzeDM5cGhtcUhFOFBHbHVFaGViMUgzOUV1TVYwR3VQbmRWVGRJX25fMmxCZFdXSEVMVHRCSFViMVdYQ0JHYlREMkdqQ1VKTlpwUmhWUE1yMWxSSWt3S01yODJYMmNMeVNpenY4aUdPRDhIaW1DdVBJbjhpdWJSQ0pHTFVZbGVqMWREeHpudmh4YWxuUXBKYTRVZWpFOHZaYm1oSW0xdVMycy1XUlFTVGZ3bk05dkZMa2o2cWNrdUM2cUZUNFlSd3JvR3VCMEQ3d2RsUWVHMG5HNTlJMFZIeGFQUXZKMW9XVV96Rko2X1ROaXVRaWlVSDB6VGJsMFlLdEk2TGZwM0FVZm9BNFdic3VVaUpXWDgtbmhLcHBtRGfSAeMEQVVfeXFMT0l0UGFwSWdLQlVMcHBvaXNwZnJhemd3V241NFBocUU5bFZFZHNDYWZXOHlUelFvcEtZQ3BlYWdQMnRjRGZ3TTZSUW1UWnZrQ3Ztb2lXcE5vSE5ZMl9pQ0VMX0I0RERuMWZLZzU1OVpFams1VGJ5LWZzN2RzMUpoWERSR0J6cUZXWFpjNXFybHI3M0hPSzVIcXN0dUxYSkdCa1RXZXdybThmZUZwdzBydUFMM2JWQWJfQ2VKVmpBRnQ4anMwdmc5MG5nTGJ0NlNwU2hQMmJJZzRkV2YzV3hobFB4RWJSZlktaDFvMVI1U3I4b21lOHVpWmJWZlFJZWIwT3BsaEFhaGpoT3VqTWNrVXFObE13QlVKbk9nMjJLaEI0T1d4OWFudC1oWFdrQ0ZCWjEzaWptb1VTdXZJWTBaYU9ha0ZsQjh1QnVKR3pFZTRxU0FaUG00MjBsYkRJWkdFTGhPbXJ4MEZ1cFN3cnVaeWVXejN0WWg2VGV3Tm01NGh4UkphMXd0TUt6cERrX0hFS2pVZ0NPXy1ZZ1FySjZGTy1ITEg3eGNWaEdsMHFXcEFDSmlUbmYzVVVKV3p1d2VqTXdMV1VnOURvcWZOdVVOUDl1TlRFZXFXNW1OMnpTX1NPMjQ4RlZMM0Y1ZDdNZXdRYzNJUlJNUGJTbmdRSmY5WWdILWg4TEI4WUZ2ajBmMUJDNE1lWmg5RG9VQ1dqaWVhcGg1R0RNV25PWDVaTXQzY0k3VXkxcjNnamF3MTVTakV2NV92bHpsZjliSkFTSGI3eVJXeHEwQm1oZE5NVmxEYnRyT3M?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 06:25:00 GMT",
-        "discovered": "2026-10-08T06:53:00.600564+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مصدر ليلا كورة: شيكو بانزا يصل القاهرة خلال 48 ساعة استعدادا لمباراة الأهلي يلاكورة",
-        "player": "",
-        "content_hash": "29b04bdbb99846a55c18e1c6244f725ec1d22c0fddd035a0f90777ba5e4b1ab9",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9688,
-        "title": "التصعيد في باب المندب ـ بداية النهاية للحوثيين أم انتكاسة جديدة للحكومة اليمنية؟ - DW.com",
-        "url": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxOMnBNTnR6dU5Rc2Zjblo2OTRWZ3VpNnJzM3lCOTZDWEk3OVUtYTQ2Y2M4cU9JR2dnRVNnY0tXQVZCY0xqcjZ4a0t0NVB1Y1dmN3pKWUc2X1ZBY3licEFKOUdtLVRaVWxwRGRMNDl0Nnc5dFlyTjBPck5fUUlKc09oc0JObHhYZmNBbGo5cEE4dXUwNVdja253S05aR082MU41c2EtUW1mRS05VEc0VWRVRXdtTnZBY0JMQXRESkhzM0I1c0ZJYXFOTENXWmd4U1JwVDY1Zk5pWWlQeWRvLVZaWWFYbl9BQWlSNUFQcVh0QnI0ZVdNNkZUb0VDeFpZSTJEeWE0RzVGamFPMDZvX3RBNE9LbEwxTHZIZnNUNWxiUE43RUthcWhrOWF4aFBrTEp3cGMxaXpYU3VjLWRTaU1mVDZZTmJNYnQ5bXdJSXJnY25NV2NtdUtfNUFWbUVtSnhQU2w2ZXdpMDV4X0xhTDljRnRHVzVxWlMzcGx3ZFpOclZzVU4xc1pDLWpGTGVlYTV5T1Q2WlZjZ0ZXVmk1SDJRMV94NXJvMG83WlFEWXFLWFIwQWlRM280bDl3QjYzQTgybVRIXy0zaU1fbWxRUXpEZ2d2OWJfQ25aajlSQnZJX1A0SV9zSGlaaXVKMVVpalBsTUwzS0ZLZU5Vbk1DVFJ1SDdwQlpUOWd1OWRuV1FHemtnS2NtLUloU2Zjakg2dmVxVWdiZzFqVGpEb3pqZ3pJQkpMY3RVSFpReDdJZ1FiVDdsTEZEbjVrTUp4SFFrTWRxblZUakw4amFQSUpIVTJjNXRzNU5HS1E1N0tJMWROMmzSAfAEQVVfeXFMT3h0dUNfNVdnUDhtdThQUEU4S2sxRno4RFI0UENZbmszZ2VVOFVJclFzV2h2SzRFQ1gtUzV6UVZGNUEtbUs2ZkxocEFYRmpFbkZSWGNKOUtXNHBmU3BUc2RYaTZPUGlMaEFsOHpRZm9uT0kxajVsY192TFd3UGV3M2ZxSlc2T1RoS0R6TE1ZcXBzSTcxVk5EN3ZWN1VMMF9vYy14MWFvNmFxRHRLbGxXaVRXcGdXdzkxS3FzZUU0NDZtdG9kNGVTU2RWOE9jUTdZcmFaY2Z2OUVVUU5hTjJoNWVxX09zLS1tc1RGVFEyMlRnQmtzdVdGMUlsZmxRdG5ZblE1NlBLcTJlUFc2S3hVc0JJVlNlMTB1SWhzbEhMS2tBYXVlSDlNYVp1bG5zYnpfMUhqOUkwYUd6TU5seEZIT2lVZkpXQzlPYjRJVW14ZDFYNkthTGV4THRId3VVY2p0N01fbEV5WGFlMzlGRFpmVDJCdndzREtHM1hmYzF5aHhtY0EzcWg5bl9ubUY3cFR0cUR5ZVg1c3RzWHNnaWFLazJ3UmZKOTAwVTR5dkJaV1AyMU1KWU5lOGtqbkx2ZDlfblN2MmVqVjZ1aEhwWmFhaGhqckdDVklWamdCek9hblNDdzBnYjMzVFVPVVdDcURsenlsVHRtU1k4LWFnVkFHNVRXV3FKdXZnbUk2S1k4b0ZaNjZFeFhDRmVLT3QwMDczYVhrelRpMHQ1WHN6VGhMbmllam4wc1BvN09iRFB1VDZhb19PTlV4dEFlWU5OVWpGZ2J2SnlsNFBzRkFaNnJzUWRrR3hnRFFQTklGLTFOVjhv?oc=5",
-        "source": "DW عربية",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 04:52:30 GMT",
-        "discovered": "2026-10-08T04:56:58.020412+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "التصعيد في باب المندب ـ بداية النهاية للحوثيين أم انتكاسة جديدة للحكومة اليمنية؟",
-        "player": "",
-        "content_hash": "fa32bbbe61c764e1bef90f3ce8c5f02f675c2d1f4e7a32ca8648aec7342522bd",
         "sent": 0,
         "section": "sports"
       }
