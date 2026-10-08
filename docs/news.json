@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T06:53:15.104200+00:00",
+  "updated": "2026-10-08T07:09:29.823242+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -48,6 +48,22 @@
         "summary": "الخطوط الملكية المغربية توفر \"Starlink\" على متن طائراتها Febrayer",
         "player": "",
         "content_hash": "3a8cb1392ffd3fc47f9b9d4caf2c685439dbde459a0de30cdbdfdaed2974eeed",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 9710,
+        "title": "رئيسة الحكومة باغية تكون صارمة فشروط \"الاستوزار\".. وزراء سياسيين وكفاءات وباركا من استوزار العائلات والمقربين واصحاب الريع وها علاش كان اختيار الأحرار يمشي للمعارضة وهاد دور لجنة اخشيشن ووهبي ولقجع - كود: جريدة إلكترونية مغربية شاملة. - كود",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNNkZIcjZMSDZFcTExOTRtZmZlenpyUjZPRkZaNF9PWEs2QmVFYmtMelVueDRNLWNvZS1kYndEemJxazJTeE8yVlNTclRIQ2JHWlY2TzN1Y0tfeVpTTGx1bWZKVVhvdlplQ05CSm5Sa1U4VnpMTlp2aUVGS2tCd1JHVnZIdUY1Q3RXMWMxekVNZ1FPRmZsN3BHZlY0all0TGFEVnFWZlB3TW9sWjlYYlRMaFAteE5oeWdwcmZkV2tMQlR1VWVZYVdaRFZjbHNwMWl0S0h0aFdVa29URzNaOXZ2QmVYdUhodXBSVmJRdFN6QlVCNnhFTHdnQjUxbHZXdmxsMXVsR2trOHdESmRiVVhFNGtuT0VtYzNvWmN0a3J2R0NUVkhIOGxGMF95SU9sSnZGY0RBbGpOYXI2cFk4RWwxVWltTHd5dlRNTjBB?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 15:08:21 GMT",
+        "discovered": "2026-10-08T07:09:03.832459+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "رئيسة الحكومة باغية تكون صارمة فشروط \"الاستوزار\".. وزراء سياسيين وكفاءات وباركا من استوزار العائلات والمقربين واصحاب الريع وها علاش كان اختيار الأحرار يمشي للمعارضة وهاد دور لجنة اخشيشن ووهبي ولقجع - كود: جريدة إلكترونية مغربية شاملة.",
+        "player": "",
+        "content_hash": "76a3e2eb3607c1e8403083be54d19e29f5be6a54361e849d19d8326da36ad2f7",
         "sent": 0,
         "section": "morocco"
       },
@@ -2392,22 +2408,6 @@
         "summary": "وزير الطاقة اللبناني يعتكف عن جلسات الحكومة احتجاجا على عدم تنفيذ مقترحاته بشأن الكهرباء القدس العربي",
         "player": "",
         "content_hash": "7cd29c444b7e4c6177815d1fe231e6ca0bb3a081f11da3d59f549da5eb30c4ff",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 9211,
-        "title": "مؤشرات \"وول ستريت\" تتجاهل أخطار الفائدة والنفط والانتخابات - اندبندنت عربية",
-        "url": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxNUUx5R0RCbWkwNEs0MkpfMm5IdmR0eDdBTTdSV3g2WmJoOWk0OGlIS2JUVGItbFAxZ2xqTVBsbXRXMzVtcHlmWG9KRUxIZi1SMWNVS1VGQWdkbDV4YW9raGZneFYxTVAybzB5NG1PVGMzTXExclFRdXJCdTRrZE5kT0x4TGIxOXcyLWpJcGtTMEpRUGFab29MZVZ0a0s2V1p4SlVqUUZsN0o4aUJZRWVCREp2aFVENERuS2plb0RadGRPbVpvSldFTHZNQWxSMG41aTdNbG1iUmJiUkR2TDR1dUVvOXItUkpUZ3ZTaUdfTUM0OHl1eXczRF9odGc5Uk1pQjBUTGNkZ182eEJYNWtOZ2dSQWNidGFtR29Jamo3eGVvOEotVjlXc3dXZHVIalphN3djZ1ZwX2J5b28xR0pfdFZoOE9mT2VUa3pDOXptOTRuRTRCY0JzNWo2U2o5NzhadFllNUZaQWkyX24wVkVHUGV1ZkxYRUNHMm14ZnZ2LW1nYmxFa0doU3lCRmoyOUxHSi11V0tsVVJ0dFdHVk5ySTNLVmwyQVg3alZvdi1vbWphYVloTGd5ZEw5NzBXSlRMcGRVcFNETzJibjZOSVo0Yi1rUVhIYVVtbDhuZjFzV2c4M3pGYWZNSjVGRlRvN3VKdjh3WDI5WHdXSWdYdEIwcjBwODN0T3JEQ3YtdEhfTjFtY0ZROFljbUstZ0ptcHpjVTgwNGsxZmFsT3Z5X2hZNU8yNG9OODRIUzlJcGJBTURRODdnSkg4dG9ENVEzZmJ2WTdpQW1hejhCekhwRXNvc0g5bk5ia1ZuelU2NWE4UQ?oc=5",
-        "source": "إندبندنت عربية",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 11:16:28 GMT",
-        "discovered": "2026-10-06T19:51:39.549215+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "مؤشرات \"وول ستريت\" تتجاهل أخطار الفائدة والنفط والانتخابات اندبندنت عربية",
-        "player": "",
-        "content_hash": "c5c5ca5f8f936d0c65808552691690b725e4b060651ab73c4c520f5e959fc927",
         "sent": 0,
         "section": "world_arabic"
       }
