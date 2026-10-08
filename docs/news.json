@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-08T11:24:40.998508+00:00",
+  "updated": "2026-10-08T11:41:57.050523+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 9767,
+        "title": "\"القوى الديمقراطية\" يجمد عضوية \"مستشار الصاك\" بفاس - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBGT09ReWN4dGwzazZGVUEtSHRvZWJlWkE0U2ZpbGJEUXAwb1FhTWVmT3g2Tm01X1lZdnpjUWhnRGFSazdSb2RaVw?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 11:36:18 GMT",
+        "discovered": "2026-10-08T11:41:36.995563+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "\"القوى الديمقراطية\" يجمد عضوية \"مستشار الصاك\" بفاس Febrayer",
+        "player": "",
+        "content_hash": "e52107876276ae61ae88c6154d5d190709c54fa9f243e9fe5b9bd84f79a5c255",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 9759,
         "title": "بنك المغرب يخفض رسوم التبادل على الأداء بالبطاقة - Febrayer",
@@ -448,22 +464,6 @@
         "summary": "الصندوق المغربي للتقاعد يصرف معاشات المتقاعدين الجدد لقطاع التربية والتعليم | MapNews",
         "player": "",
         "content_hash": "77535e71840c5c5398ba53b1dc0eb5e2bda25c2a0d345ca35e0e3d4a0733c109",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 9376,
-        "title": "جامعة الدول العربية.. انعقاد الدورة الـ37 لمجلس الوزراء العرب المسؤولين عن شؤون البيئة بمشاركة المغرب | Page 1339 | MAP - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMiugVBVV95cUxNaTZkNFh2Ym5iekdxblhiOFVDM1ItQ3dMTWJmOUVUTW5JbjktaEU5Z3hDcndBa2xGMks1Q1pZRmtIXzVNd2x0LUE3aUp1SEZOZ1JsdzhmN3pMZUgtM2lKRjM2enlhQndGSmxmbXpZRzlBTjUwVEZ4OS1TUUtSYnQxR0JqVHRMa1Uxd2dfd01ibmVmQVEtenAyYzZyMFhiNVBMcThQeHd5SmVsaGhVTnZsTzZfV2tRQktnVXZWSm5IdUNMdS13c0R2RGQ5UElYNzBMRmN1X2pob2tJcTMxT0ZrMkZUcDQwVjlHakctODEwZk1Bb2xXdjdjMDd1WExSdm5JV3pvcDJkcE15WVRRc0ctZ01aeTRFOThpYmZnTDZHUzAxSnd3WEl1RWtnNk1XbF85ODlCUG9SMzVGT3ZPX096dDBWWjJTR250dm1GWFZpM1NYRDZ6TWdCdUg2bW50ZVZxUmhBZ0UxNUVrbnhQZEVnckJZREdqUVR6RThmUXpyLWQzUGRrODNaNUlfaWVQQnZHZVZMazdzbWxqeEJqdTYtYVZ4UGQ5ajB6UFRyVDRVaVBLaWg1MWRjLVZRaEM1em9yMXNqVHlpSjZTNDAzNENqSk1mdWRiVWQ2M1JsYjh2MFRnZ1pHSmJiT0NQU0dDQktudUtjM0lxd2JrV2t5U04yakRVT1M2V0RaZ3Z5UWJaNXBqREY1YlRJeVNKNV9iU1lRa1htR2hxT0N4QzVWYWZQS3Q5Yi05SFVPVWdMY1RqbV9uYmF0OWdwZTJ1U2VpZzRzY2dBRjlCNWxSVVNTcDRzakUzUU83blRXMFFOb2I2ZzdhOUlROEp5RnNoS1dyekRJd0JUbmdSQW8wX1ZmT0wtejRuMkttWTRQbE05X2QxdnJQei1XOU0weU9tUXVTZldicUxnSmVUOVJSQQ?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Tue, 06 Oct 2026 13:24:09 GMT",
-        "discovered": "2026-10-07T06:10:50.780875+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "جامعة الدول العربية.. انعقاد الدورة الـ37 لمجلس الوزراء العرب المسؤولين عن شؤون البيئة بمشاركة المغرب | Page 1339 | MAP | MapNews",
-        "player": "",
-        "content_hash": "971b72cc6fa6ed7e2596850631aab49f1e5d8fdf7433550e25a3c125f42d2f4f",
         "sent": 0,
         "section": "morocco"
       }
