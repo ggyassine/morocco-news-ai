@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T23:39:00.902620+00:00",
+  "updated": "2026-10-08T23:53:30.729371+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -546,6 +546,22 @@
         "summary": "دوري «الثانية» السعودي للسيدات: 25 فريقاً... والانطلاقة في 6 نوفمبر الشرق الأوسط",
         "player": "",
         "content_hash": "8af5b52ab31730ccd3e02bc3e541a0090f63d8ab15032226df8cc0a19e449052",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9964,
+        "title": "لاعب تونسي إلى جانب رونالدو في النصر السعودي - winwin",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOTzVKVnZsbFRPaWFZRXotVUVVTXowYjJYajdfbDdIYmlHYTFhd0Fld2FIZXZ6WXpiYm5ZeWl0bVQyWXdzNkRUOTB3cmkwbmdXY0V4cDZYbkgzMnJiTVFCc3habUtwakhXZldEeGZaNEg5VldrbVVEUnJ6MC1lSGU1bFpKMU9UbkwwanNDSFVVNmZiQV9FY1pVeUV0STZvd2JKTVhNVFRoNDRfU3E3TUtPZFJGMS1jak9Ia0RNZk5WNWpVaHFJQWxGRVE0V1VfSTRNWDg0cEpjYnh5Q1h6dUlQcmM5NExsZkRDeW83bDVIbmVEVUxMRTlyamhMQkdraUkxWGZlUkQ4SDBGNWk5WGUzd0JNZGhDdmZqdkFhZDQtaGpLWHJkeVc4cjdUelZzWlVlOFR3VjlER3M4WWw3M0VIU1VsNGFBdUlhRWFQU1ZwT0lBazRJUEVyLTd6bm1sb040clI2X1pkUUZpRTZFVWNLX0FjWVpUUVpFaVpvUXFGLTdDLUxPTVVPMEp6R09WLXN5S2RsQm9UN0p6UGZ6ak1XY1d0bkNMZw?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 20:19:15 GMT",
+        "discovered": "2026-10-08T23:53:14.067070+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لاعب تونسي إلى جانب رونالدو في النصر السعودي winwin",
+        "player": "",
+        "content_hash": "aa0763e7ea4994ce15f90b8ac70321b562af31d08d1fdb1d8d5512bcd4da2d4d",
         "sent": 0,
         "section": "sports"
       },
@@ -1197,22 +1213,6 @@
         "trust": "C",
         "published": "Thu, 08 Oct 2026 16:13:00 GMT",
         "discovered": "2026-10-08T17:19:20.603882+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "\"منعونا من كل شيء\".. مدرب بنين يكشف كواليس ما حدث بعد مباراة الأرجنتين الودية يلاكورة",
-        "player": "",
-        "content_hash": "efdf650cb8e22813b55e702decfd9a0baf5b13c3ff5c706462291a635fa2f78e",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9850,
-        "title": "\"منعونا من كل شيء\".. مدرب بنين يكشف كواليس ما حدث بعد مباراة الأرجنتين الودية - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxObkpvcVZ0N0NpOW53d2NuM25jMjB1MzJFZW03cUxOd201dUxiU00xMEt6aHZMWDhJV0R3aEc4OXRTbEhGZk13SHBnaVZhYUdEcGdCVU5QWlZCa3ZjMGNZbTRDaElNM0JFS3NKNjVQZFI5cDZoUGRrLWY4SGtOVW9laC14SjY3dHZpVnVaS0hPRENUUW8wTGJLeV9LeklFNlpKbjR5cExvTWdiUUoybkxYN29fSTNsRVpZSlc4Y0NhckppWThyZC00Y0YxT181TVZsSUF6NWRoQzVYZlgzWV9WNDh5UlFxd0pmSjl3SUFDb1I5R3hIZlFqYjZDV1dtbmJGYU5QVmg5SEpOUWhqa1U0ZmxRa3l4SlpFd2JUTk5la19oc0VwY3JtNUxZN1ZvbmsyQUpMaVNReVcyY0wtUzEyTjRHLVNxWmxWVXlBd285UTlCRGE0QnlXZkFfa3daY1pKcG5aUk5GQ0xRYVBYLVRQa1FOZ2VSYWlDelBYWXZPT2dwbnVKODhKdVM4V24xeXBqM2gzQVdPTTRrVEtDNUdKQ3lHYVBFSXVVbHhwLXBpckJyTU9ITFM0WW5qRmZmSGFBS2xka0JnU0tkT0RyTXJrb2wtRTZOQTRtOXItY0RsNFNkaHMyNGFyOGFieWlwOGkxNjA0V2dFdHl5TGt3cGk5VVRYSW9HTFd6UTNkOU5XMTB5UlNkU3dxS0J0WmlIWmVIUmtnQTQzb2gySmRaZVNkendlRmdtWkdaemUwel8xclBEbk1lc1B6TS1JODFwa08tRmwxX1p6NzFOZUxKb1ZjaENLSDZGX0d2ZFHSAe8EQVVfeXFMTlRBMjdQU1MzNkZLUFhUMDQ2STNnWmpiM1otWXRnZ21oMU8xM3BsUm16cTA0aHpuMlFqM09lczU2QkJRTWVRZ2V2eE56Q1NFNkMxUEtiekE2R3NTbDlQdDNSYW03ZV9XVmFIM0pheXh3SlpRS3JRMU9uLUVjQ3JZY29ubUp3c0ZRV2gtdlBFNGRaVERZUGZUd1dSSk9pc3ZNMGRPaHMzck9Rb0xSNTAzRnFqSWg0U2d1T2JiR1ZYNmx0cWpobVJBaXREUE5YNWZ6U1h4Zkc0RFZxRWhkUlEyTUFkcGZfcnJSWjVkVmJTREV5Ukw3dHhQbXR5dWZVaHVJN2Yyckp3YkxyUmU5UjNzXzQzWU5YMk9fMHJjRlMzX2ltRmxwdm9RQW1wcTNMRlQ3ckpUQ3pQcWJTSjdqRFhQakZ3czYzLVk1RDM0blRQMXp5MGJ5a2hUMzl1YTZCYjFyWGg2aDRrMFpqQy1vNkFTaEVlcEQ2SmVsUVlISnQ5VWNHVHN0UVAyY3ZySGp0S0lzYlBkZ2c0U1I3cjRYb1ltRURyMG4tOE1DQW9tcG5KZWdLSzVEZVkyRllpMnhTSllXMkYzY1otMWsydXRQWXBCQm12N2VPOEw1alJYcTJCSmpVa1VlWW8yRW54NnhCdWEyd2JUb2JlblFDT2lXdG04a0l6MWE2ZWNGMGdFUnQzZnNoV1ZNMl9XVHVhSjl0MFhLcVNqaHNuX2ExUmhWZUg0T3J2Q2pLZE5XY2V6bTdHZEFFOUg2bE52NkthMW5RaUFxYWRjU25Lc3JfVTFBRXlocXgtWjlDV21FSEI4eGJuVzQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 16:13:00 GMT",
-        "discovered": "2026-10-08T16:42:54.519336+00:00",
         "category": "الرياضة",
         "status": "غير واضح",
         "summary": "\"منعونا من كل شيء\".. مدرب بنين يكشف كواليس ما حدث بعد مباراة الأرجنتين الودية يلاكورة",
@@ -1910,22 +1910,6 @@
         "content_hash": "37e9a2f21c071f247cd62c90c308f2ad7e7c9a23a5994ca001afe2a8bfa7d86f",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 9552,
-        "title": "ساوثامبتون بعد عقوبة مدربه: استوعب الدرس.. واتخذنا تدابير لضمان عدم تكرار هذه الأخطاء - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMikgVBVV95cUxNZ1lna1JHWTZsRlhCM2pZWTgyY1BUOUo5UTNoMTdTcnNUUU13UUd4dkxLb3lYQW55NTBrSWFTWC1DMkVDdjFSaWVJcjBFTXlrYjhmbFlNSzg3UkRkaDFhS3ByLUFJOGZSMkdodVF3ZGt3bkJTWmU0N09jaGZwZjhVU0x4VVY3ajY5czNxN2ZuZ2RGbGI1LWRWWmR2bWEzSGpKeTR3dkc1R2VBeXo4ekxaM1RPVllKR2xtenVsWTRPa21VcXN3b1dBZEI0c3FBbVNKSTBSbUNmeEhmXzVGRHJNY1htc3p0YWpsS0I5aTR5UWw3NlpCU0pvTlhaajJnYnRBUGJFbmFtVl9SWnFPOW91MVRPRkIybTM1bGdSbXl3WHFhczYyRHlBd2ozSGttVEdLV181WF90NjVVaE9KSFJPRnVwSmV1cUk4TWNndGNWeGtzS3U4c1pnbk8ta3JpUkNEcnZkeGR2Z3BSYkRKSnJlcEd5UlJBcFcxRDBuWDhFQXUxZHhTTTlPM05aYl9uV1NMWUlrMzZwa1liWnNUczVDeTNQaElMT0VJUVRIemgxb2xDWjRtNV9Ub3BhaGNXcS1DLVl2UkhiVGNCdzZfUGZEcGVZajhGWUhXY2I0YW9tYXIxcWxVbHdsRXV5RVRrMURjRWZNLU9keWJhV3ZMaWZOTzIyUGF0TjNVYWkzODRUbXMwM2lHS21BNmt2dzQtS1Z6T1pqaEpnV3BJQndHM2w1MVhvd050VWY4dnljQ1pGMHpkSl9GX3d3MjVENm1tV280WW9LZ3NQemtqNHk4ZGhIRzVjWjYxLVE3WDByX0lQMk1PaFFIQ3pCNnNoMEl0T1ZhaVFscHRsTVYxUXBpZDl6UF930gGXBUFVX3lxTFBlTTM3Wm16eVhYRHJVUEpwRXNMSmMySXlGV1l2a2E3Q3hzSTBQdGdyNzFwS3czOWhPNDlKdVRLMy1wU29TNDJfOHEtODFybkVldUZLa0ZkSjJuWEtjMVF5Y0w1ZnNCMUhmTmd5b2h2ZWx0cEUteE1nbkpJNG9MYnB5WHZncHJ5WUlMQWFPNkNmcktNT294MlYxNzhDTzhtbktPcV9tQmZLQVN1Y0FVSlZvbWdTdEJjNnBUZnNEdExZLVBnMWlfWVdyWElBbjhTUUVwT3BnWlhoV2ZwMDVwZm1xbEQtYnBVeVRkaUV4UGQxZUVobWFPbkhLU1lDZkZ5VEtkelZzNm8zRXQ4ak9WOGsyM183dnMzS1J1NFJhVTlPamVRZGE4ZHhTQ1FwT2xHSE5fbDNhR25BNkdmc0I1MWR3YlFEb0FpZllyenpfZnNuUGpmaUhEcmwwVjdLcXp3WWktM2pGMTV3cmRXX25ZZVVmVkpHRXhSOExXeVdTYk1WeGVZY2FobTktR0hKT1FMZDhYYzBsN29KaDhJdXJkVkVmeW9BT3FPWjBWUlQ4LWVueHVQVFlKZ05aWnpKSlVaVHlERzRYVHV0NVJMb1MzcWNwbDRKTGFuMkFpd0IzWmFMNzJBakQ1T2tDR2NIZGRfZkJPSXVuMG00TWNGYm9JQjRDd1cyeTZtQVNiWWo2bk9XYVpiYTBNQjBETk5JazVJeUlCNGJobnluZlhzNkZRRE1lM2pobDBmWXN3NVdEV1c4c0tFNGQ5V2J2NTBFY2Z3cmMtNGdtNEhqejFKcnVyVzRVRDIzaUxjX3V4WE5DV0ZjWld3M1BNZ2prRnNuUS1pMnJuMjdRN1lOc1kza29VdDNCbWplb2x0RQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 15:42:00 GMT",
-        "discovered": "2026-10-07T19:05:18.932880+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ساوثامبتون بعد عقوبة مدربه: استوعب الدرس.. واتخذنا تدابير لضمان عدم تكرار هذه الأخطاء FilGoal",
-        "player": "",
-        "content_hash": "4b06f9c4e3995af15a2183794173b32e6dee2df87237c5fa696e62ab52d58202",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2312,6 +2296,22 @@
         "summary": "مصادر لـ\"القدس العربي\": الفصائل الفلسطينية تتوافق على تأجيل الانتخابات وقرار للقيادة الأسبوع المقبل القدس العربي",
         "player": "",
         "content_hash": "af1ed2822d29ba19ceb696c7a64f5f4f935f7a87ac867d43735ef7e574c4f00f",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 9965,
+        "title": "مباشر: الحوثيون يعلنون استهداف مطار الرياض مجددا والولايات المتحدة تدعو رعاياها إلى \"اليقظة\" - France 24",
+        "url": "https://news.google.com/rss/articles/CBMihAVBVV95cUxQS3lwTWF4SWtvM2p6VmxzQ0pLc0VEdzVScmVZU19fUmtjQzluZUtYd1RSRGpDSlljY1ZoRDdPcGRVbFcxcm9DU0pkQk5mVnJveGpwM2ZRNklKZ3lWVVVlV3UwRGI0YkcwWElmZ3Q5ZzNVaHExcloyYW5nZjJVNk9FS2lNYl8zY0RPOENScjJiMTdzRG9PMEIydEVXZnAxLW04QTN0ME1PeTU4ZTQtWG1TdlVXcnNNbnUtdnlJRjRPRnJpNkphRHV0Q2RfRmZVRk9ncE55UHVMYVhWS29Ib0lhWUtmTnZsMUZyeXFIMV9Ma2dZWnZXWWh3cWFRdTR5alQ5QU5QajJQUVB0eGtFbENQTkVGRGJjVGFocE9kTFhzT0ZDUHRob3dTSm1SMUwtUXJRNUxsZUktektKLU56MHJDMHU2R20xdDF0U0E5Wlp4UnpJYmZONElfUmxJeG1RMFA1UHNNZTZyNmJHVTkyalpvTHJkY2FwNkM2RjNDUktubkRNR3drLWNQeEs0VTFwdElFMDRDNWJpQVAzZUZ5MnlDTHV2QzgyY0NOWWFmUml0QnFWZ0FhUS1FTE5HeDZNQ3VBemhTM3R2bUctcVB3TVA5bTVUS0ZfZ0FrMEhKZUd0Z3c3OElmeHJPUEtpMWZiZXAybm5QMkFrSHZ3VVJWT3lteUh0T0VYUnpJR0diaHQyaWR1YkppVl9lcDNrMV9iOHNQTU9wWDk2TmxjaEdxQ0oyVllVUDVONEs3dmladjAxc2RjT2F4QjJiNXdzd0IyREUtTGxxWTQ1cjVBV19PRjUyeDNBdXN2dDQ2aXV1dk1oVjBzT0VVVmZuVWhxMU9aRjRweGxWRg?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 05:46:19 GMT",
+        "discovered": "2026-10-08T23:53:26.924495+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "مباشر: الحوثيون يعلنون استهداف مطار الرياض مجددا والولايات المتحدة تدعو رعاياها إلى \"اليقظة\" France 24",
+        "player": "رياض",
+        "content_hash": "962cfe43f8f51e7b2fec6c23e9de5457ea715ce3c3f7032c335a1e0ab5c2595d",
         "sent": 0,
         "section": "world_arabic"
       },
