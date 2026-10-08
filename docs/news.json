@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T23:23:43.629177+00:00",
+  "updated": "2026-10-08T23:39:00.902620+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -982,6 +982,22 @@
         "section": "sports"
       },
       {
+        "id": 9962,
+        "title": "الكندية آن كارسون تفوز بجائزة نوبل للآداب 2026 - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNNFpiUkhELXNhQnNlSzRGSkFQV3RDYmNHcVJQMGoyZUZjVFJVeTZLcmM3RkFuU0RXTlFJb2dDUXZSaFBubXlZcWluMUZiNURCSWZVNmUwU0pvMkE2dGhkbXhkYVpxRWtjMEVDeTBhOTQxbEw2QjdpOXNqMzZqUmRrNXQ2cHNZcGhLQUcwVlpVcXZ4SUtLLVp2WVlSSnlSekNQUUNKVDNUVXA1Z1l2OUxpT3Y4aG9zcDU5LWtXTndkS1h1RVhDMG1IWGo0Z1pwRENVQzA3bGp1dVBCeHBybWw3bHdSbXZGeG5zZGlkQU1QMzUtSWc0STVOSmNZcUVDOVM4V0gtMjRMVFJmcjRmbWVNUTdzQXBhYXNDNmQyLXRienN1RVFxUF9WZ2lkdTBhMlVHSEowZ3FuSW0tdGUxSE1jeFNBLW1MOVE?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 17:36:04 GMT",
+        "discovered": "2026-10-08T23:38:55.631353+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الكندية آن كارسون تفوز بجائزة نوبل للآداب 2026 القدس العربي",
+        "player": "",
+        "content_hash": "c13afa0f3f06b8561cc821345dee5a4998703afcd14aa90062a3201372ac62a4",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9878,
         "title": "أهداف مباراة المقاولون العرب والجونة - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNV044c0p6Qld3NjdVRWliblJEbmRZTVdRTU41dW5RWVh1ak9mUEpvODFUenpsdHNNV01zMHo1MWNpeHNrc0c0RmF2dmhEUExIR1Qxa3RzZVpEN1Ftc3dnX2RjOF93NUhGN1FTQlJ3UFNxekV3R2xWSTYtalpneXRZQVVMcHhlU2JncU0wNkh0Rl84c2o4ZlNQN20yR1BNdHFIX09rYkVNLW96UkJiTjlXdkZxWXUyU2RWQmJsdWpUNFM3ajlucDFfaGpUX3JzbFRBMEx4b0tZS09FUUdJaE14X2xMSkRsSHVmX3NkR05wS2d4QzVoeHNjOFVoUlQ3WWRKZlRkeDZ5MkNEMmlSQXRTd1BybWlYdUdUclJZcFp3dF83MTdWNk00SWhnODd6UHQxaWRvUi1WNFh3T2M0UU9YV0ZUNjVDYk9QeVZzWW9RYUpfaUdhNGh3?oc=5",
@@ -1202,22 +1218,6 @@
         "summary": "\"منعونا من كل شيء\".. مدرب بنين يكشف كواليس ما حدث بعد مباراة الأرجنتين الودية يلاكورة",
         "player": "",
         "content_hash": "efdf650cb8e22813b55e702decfd9a0baf5b13c3ff5c706462291a635fa2f78e",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9863,
-        "title": "مجموعتا الأهلي والزمالك.. المقاولون ينتصر على الجونة ووادي دجلة يهزم الاتحاد بكأس الرابطة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi2AVBVV95cUxNODdZNWc2anV2ZE5fak8tZ21DVG9UMVYyLUQ0S01yMHJXeHoycFF6UkJ1SU5QV0FsSzk0SzhUSW5aV1FjdUJ0SHJBSXZacmJWdjJzMzMzU21uV2dqWVBEM0ViWmZ5QnhZT1NYa3NVaXc3Y1g1NFRMZm16MG5heFlrVmRRUEpfV3J1cDluOGNDbENCclBYVTZiZ0tBLU5Kcy1aMmU5dmZPNHR1eEF0SG5pYTNWdlREdjVyOWYtMWs3TmhVMVpwbk50Z1VkWUFtUWdfUUx3N09wYVA0N2pDUWlpV0FKYVRuakkwNTZiMl9zNW5TZzhzeHJ0N0JPTXdvSHlPUFRDNVhmYTdUZjNzU1B0Z2pNUnl1aVhxVXJsbUgyWmUzOGFMNmN6Y05sZlpXckVkaVoyYnAxa3Niam01Q01uNVU4ZEZZbkJ0ZTZBRV9TNDBaWExvNFQxZzlMQ05ENmxXODlCazB6VkpCVXJqQ25ST2lUbUR0VDk3RXF5LTRQVWF5eUQ3TnNtM3pqZ0FhdGEwQ3FYMzd1VEp5V0diYU82VlBfZVpwUEgwX1BpdVNvUGlPZHpLSVJnZGtua1RSaDJ4cnFHV3IyblBIYUxQd05xajcxUjFGbGJMUTd5ZldUQWZFRWkyajhBcUd5M0doMFRkMlNLc1h0TXlSZDlHbFZPSkFmUHBsU2lxMnBhSGo4R0lKVjFjdC1HQm5QLUk2eE9Hc2c0aG1jeUxGV1lhWDliT3NuNlRkMmg3UFhiU2hQSnpYTk5PVWZPbHI0TnREc3F4RUY4elUxd3N5NmhuSGtiM0ZVekxyd2xBeWZ1TlRuOUx2ZUVKSmN6MnpCaUdIaThGeUk3MEVjOVhRNy1KdXFnSUVvdHc1eXh5RGgtVG1BYnZyRFhpRVVKeUtMQXBYN2xaRVNhTTNuR203TVhOV05NSkhDaGtrRjBmNlFUNllvbnhhRmtXOU5pMtIB3gVBVV95cUxNU1BWa3pEaDdtT2hMQXhxMzY1RXVrSXo3S2FkSkRIVDdVX1J0akhDNHFJMVJQbDZQZzJYd1Y5eUtmaGg2VHNrUi0xczFPd2RYRjFrWFFPeXlkMFBybTdfUUxUYjlsM29FUGd0UDNKcURNVElDQ3dvZjZFZW9ab2wzdFZLdXdWSC1qZWtnVld4UVp1enhmTzItOHgxOTYySjN0WDJ0N215azNBSTI3UnFXeDlCWmFrblR6TTRCMUoyeTU3dnZ1cC1fNEExZHZBalU0aTJNcGlGenFYMDdJWmpUaklTSUlTaVc2TUVLVlNKYkVWTDVYTWZ3RFdJSGpXRVRQQmNOdHVqcjV5TWpSWE5rOWVYcFpxRjgtM3VxWHBsQ3NUVlBDNFhHR2xqZkU4WWZob0ZOTkNIMFI0cldEQ2haRC1fVlBqZHROc3NVRHlYNzRBS2xxVENsY0VDZ1JQQ2R4b1JQVFMyWFhHVndEYVcxNlFaQ1lTb3UwaFJvcy1LTktCTEZBYTR0ZzlMNkM2b2lQWG8tbGpFOFZWN2NFODJkM3czX3pTbXFoNjBjYmIzX3B0LVRIQ25lb18yOWU0SjN1eWIzSlFvMGIxX1l4R1Z2akVmbU1LSFY0dk1WTkhnTHFLbzBURnRJNFNBS3FFTkdfY0YyMUVTMnhHNE8tTEo2VjJWTjRoT1dRbjJEeTdBWld6U0FNTlc5VkNIaElFTElpeXdXNThNRWFfNG51M0drU1RjS1VsVzRZTGhQUUVfZkFVOV9CWFA1VWYtWWktdW0yRFVCWEhVZlFvdjZVTFNrLWZCazFpNzJVLVNUaFZvalgySFNuZVB4VExqblZVd0hOV28wc2Q0MVlsT0JuTnNrSW9FY2J0ejFLSzJXRURpQlEzbTB4WllKUlRtQ2gwOHhWNEtHTnVtaTVaZGhXbmJsanVVUHRQdTJlbFNwMU5DcUR1R1ZoSXZFWS0xNGFiZw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 16:06:00 GMT",
-        "discovered": "2026-10-08T17:19:20.621429+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مجموعتا الأهلي والزمالك.. المقاولون ينتصر على الجونة ووادي دجلة يهزم الاتحاد بكأس الرابطة يلاكورة",
-        "player": "",
-        "content_hash": "a355812cc64bb86ded8b76f4546588c20b775687e1143f3d38b490103e52018b",
         "sent": 0,
         "section": "sports"
       }
