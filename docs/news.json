@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T16:43:12.705064+00:00",
+  "updated": "2026-10-08T17:00:58.147774+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -80,6 +80,22 @@
         "summary": "\"القوى الديمقراطية\" يجمد عضوية \"مستشار الصاك\" بفاس Febrayer",
         "player": "",
         "content_hash": "e52107876276ae61ae88c6154d5d190709c54fa9f243e9fe5b9bd84f79a5c255",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 9853,
+        "title": "فاس: توقيف صاحب سوابق بتهمة التشهير الإلكتروني ونشر صور شخصية دون موافقة - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02VzFzNzliekdnVVd3ZUpRZU9YT1VBZ2pQeUZ0T2VyNXV2N2dnUnVvQVhzV2RuSHVPMjZuWHR6VzFIcG5FTGg5ZUpnTV9tcy0xM01qRDF3LUUzS2lpZHV2OHl5alBxQQ?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 10:52:02 GMT",
+        "discovered": "2026-10-08T17:00:27.583390+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "فاس: توقيف صاحب سوابق بتهمة التشهير الإلكتروني ونشر صور شخصية دون موافقة Le 360 Arabe",
+        "player": "",
+        "content_hash": "eb8aa921b74e0c0904deacb8ebfece451f5c7f8aca490f7324ad80816c63e0bd",
         "sent": 0,
         "section": "morocco"
       },
@@ -418,25 +434,25 @@
         "content_hash": "94d3cf474b8829034d55f757f7e310ad1016ae3d82c99207cc90f113d8d3fbcf",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 9635,
-        "title": "لجنة الداخلية بمجلس النواب تصادق بالإجماع على مشروع المرسوم بقانون المتعلق بسن أحكام خاصة بحالة الطوارئ الصحية - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxOMlVKWjM0cEpXTHQxWjdWMS0wRnhTbDhkREpuNDc5Y1BXVlA5MXpwTk9ISTJjYUxIVVp6a3JuQzNuS1EyVUJWNXlJY3hFV1diRlRZNXJEN3RYdG5RVy1Pa3VaUDJDalFseXh5SDcxZmhoUmdPaGd0eUo1U204Wl9RTm9JU0VPQzJfRTR3TnFidUJ5WnlyRkNVTE05c1RkQlZ5cXl3M1Zla3VBbUNUTi1FamFUb1ZkdGNMVml5VnluVVJuNV9zZTZmRVlGT1NOeHEzTmdnSm1uT05yZTk5ZDd2SWwwaXBReFJpYXBGRjh5RU1RX0FjWmVrbVFPNnctdTBIMUxXWi1ubXM0NGR6NDY5LTViWHRkSTRNeV9VcVcyWW82ZU1DSmpJUGJfSmpBeS15RW5zWmphLW5uQVZqMjYxdnNQaEtZUmkzZlR2YjhtRXlHVW9xc01BNl9FUnhWT0Q1WXdWWDVnT3c2NEVVUTRuc3NHR3R4OTBsQndNZ1ItNmhzQWkzX1ZSVnN4eVFQclg4cU1xZTA5bFFPQTBDVFJ5QndxQ0R0dmh0ZzZvSlN3OUF1SGJINmJEOEprZkx1RG9PVGdxUnRpTDc0d0N2TzQyYm5NMXhENm5hYy1SWWNGRUd0ZkZoNzVNdFFrNUotWlJHSWhETS12YUVpeTV2MEhQanVzUjlVcDg1NnhXcTNxSDhKMWtBdE9JV1NZYlptSm1GbFpRaVVpLVdvdXBQak5PN19WQXgtaUM2X3M5YmJnWHhKeElydDRRSUhFbTVzTDRKZjhfM3lQclpZWGdtQ0pKRktjNzZYU2tvNmtBRUdybHRsVmlKWENDR0RLQWk3TkhWYU9JNmUxSEdBUlJnLUNCdXZmWFVCcTZBeVNQbG5VSHpKdw?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Wed, 07 Oct 2026 01:57:16 GMT",
-        "discovered": "2026-10-07T23:28:36.487196+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "لجنة الداخلية بمجلس النواب تصادق بالإجماع على مشروع المرسوم بقانون المتعلق بسن أحكام خاصة بحالة الطوارئ الصحية | MapNews",
-        "player": "",
-        "content_hash": "c76027905d4ced8e5f510e1bebc5ad68bd34306d0bb993e0cd840c29d6a73e9c",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 9854,
+        "title": "كيف جاء تصنيف منتخب الإمارات عالميًا بعد نهاية خليجي 27؟ - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOOVFiWDdwVFZhWV9CQ1k5eHVyWWpkM0pPV0RfOXYxRFBFOFpDZURjMjNPNl9PMFllQzZNakFINUtsdGxfOW1qY3NtZ2lhR3JlaFNxT0xQM2hoTlhyeXVJMEpUZ0hoUWstWi10T0Niei0xbkk0SVVjamZMVm1ZT2tBbWZxaGJBaVZOR2IyT2VDN0pZdDBMQ1lkWkoxQ3FOQ204QTlsaHI2Wk9ObHZ0b3BSR3AxQWxtdE9BUk5QZnpoSGtLTndJRnFWVW1XcDlYYVF4bGYyWWRJd1ctOC1xZXdYZkhBWE51SWJGUXJTYjFEa0tCWVMyMVJrRGgyaWt3dG84MlA5Q3pZZmZsSnZXWVhQbzdzbjBoSlRna0RycVhRTWY1N0xDZHlRcXdwSWtORTlTOW5xOTdFX2NtVHJNRllhUVNPcjhfZUxCVV82cTllNmhlT0FwMHlETkl4V05nUVE?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 16:52:46 GMT",
+        "discovered": "2026-10-08T17:00:42.000351+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كيف جاء تصنيف منتخب الإمارات عالميًا بعد نهاية خليجي 27؟",
+        "player": "",
+        "content_hash": "3cfc6474b10b1fe3f683d5207fdec64c33de815d2248e9d6849fbfde2439d1c1",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9851,
         "title": "أمام أعين ربيعة.. العين يواصل تعثراته في كأس الرابطة الإماراتية - يلاكورة",
@@ -1218,22 +1234,6 @@
         "summary": "كيفية شراء تذاكر مباراة باتريوتس ضد لايونز في NFL: المواعيد وأسعار التذاكر والمزيد Kooora",
         "player": "",
         "content_hash": "e0a55b96c01fb26d9c7784e85a68fe375b79c783da68833d1e3b586c29626014",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9738,
-        "title": "منتخب الجزائر يقفز للمركز 28 عالميا في تصنيف \"الفيفا\" - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQWVlqY0ZCTlNPM1Y0bDJBX09rT0lYM3FjRlBob28wa2d2c1paWXNmaktxMm9EUzctaExJd3I1bTVMVnJvc2xxR2FiYVEtMWhrTGN4YkVqYXVUR1ZUNU5MVUN2R0tvUjhDSkd5R0JEWDRQVHJLSVRiMEFEd3BVeHh0UF8xQ2NDYkNHZVc4X3pMZlJYUXpPN2V0YmRPMHV6UGRsZ0NCMTlCU1lkME9yOThsQ21tSTZRTEw1cnRMNl9FRkxMbkN4NThSLV9PZmxNQ3ZaYW1mNnUzaFk5ZUFDWkhuUDF3ZmFNODZYMmprNm14LTJ2Qmk5b0l0SjMtQVhtSTB1Z29VZnZqV3E5UDdXc2ZpSlZ1S0pnR2VuTkR1UmFuSDcxTkNOaGZ2NUphNHVkR0ZRS3pxczZTZmk5M2Foa3hySjN0amhET1NqY0dqaHdJdDhfUTFWWHIxVlg3TQ?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 08:41:06 GMT",
-        "discovered": "2026-10-08T09:00:35.888105+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "منتخب الجزائر يقفز للمركز 28 عالميا في تصنيف \"الفيفا\" 365Scores",
-        "player": "",
-        "content_hash": "1fb29415c84f275ea4c6150319a8caeea54b15c31d81158c815c94450ef622fe",
         "sent": 0,
         "section": "sports"
       }
@@ -2204,6 +2204,22 @@
     ],
     "world_arabic": [
       {
+        "id": 9855,
+        "title": "جائزة نوبل في الأدب من نصيب آن كارسون الشاعرة الكندية \"الجريئة\" - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MbGtTM3U2TnZIOXM4eEZET2s4ZnVLRGh5aDlsTXpmam9KQUphM1RGT3BacFpqTHdvOE5xYml3SDB6NTc1dDd3aFNrQW8xSVFqSmgyQVVYeWR3U0NSUUHSAWNBVV95cUxOeklyVnh4LUdjWUxybzUtQlYyY2tELW1UY2ptLXZ2QmxCYWJudDlSSUJveW82ZEk4R3hmdXRPSnZoVkxUd0FUUGtOSjdNd3BDUUQxeEdlREhySWxxVkhOMXlETmM?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 16:41:15 GMT",
+        "discovered": "2026-10-08T17:00:55.497696+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "جائزة نوبل في الأدب من نصيب آن كارسون الشاعرة الكندية \"الجريئة\" BBC",
+        "player": "شاعر",
+        "content_hash": "78e76a238e10185c4e668ed4611d29f34f9d973d00a05722120f07af92959272",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
         "id": 9805,
         "title": "\"حلف مكة\".. وزير خارجية تركيا يوضح موقف أنقرة من إرسال قوات إلى السعودية لشن هجمات - CNN Arabic",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0EtUEUtYmIxdE5hSmdhNW0wWjhLX3lqazVtOXpYMlZzVUE0X1ZFVzBGaEg4cWkzM0JGZUlKSUpmU3NnQlJIREdtVjZQb29GcTNtQU5uU0ZyR3JvWFFxemdlNGRfazNULS1CaU9uQUE0ZHlndWY0N3FRUm5GWXlocXNJWlRUNWlsc1NuWHMtQ3RXWmZqUGo2ejUtLVBKSC1FTEh1eDNXek9JM0k?oc=5",
@@ -2392,22 +2408,6 @@
         "summary": "ورقة حقائق تستعرض واقع غزة المرير بعد مرور 3 سنوات على الحرب القدس العربي",
         "player": "",
         "content_hash": "b5e1baed6b9db0d399e0d8b31c1ba8711b9d539ff257125c0a03a9202a82c9e2",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 9363,
-        "title": "\"قبل هبوط رحلة من مصر\".. السلطات المحلية: مطار عدن تعرض لهجوم حوثي بالصواريخ والمسيّرات - CNN Arabic",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM19vTzlzdFFlSlR4SWpDQ3dDQXlxNnRTeXg3Zmd0aGthRUJxUUlpVzhPVkZGTUVEN1hRRmpZMGdidlpJUm53eU5EUHVrRUhfRG0yZzlTbWlpNy1pX1gwTS0wd2lNWG1jMzhJUGl0amFTRjdkMU1kbS1tMkN6NkJORzVhLVhUcTJuNlo5cWFvTHlhYXpudzVRNHZzWEVLWGU2VHY3NjJPS3EwSElKS0xvaENxd1drRzQ?oc=5",
-        "source": "CNN بالعربية",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 04:42:11 GMT",
-        "discovered": "2026-10-07T04:51:04.057583+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "\"قبل هبوط رحلة من مصر\".. السلطات المحلية: مطار عدن تعرض لهجوم حوثي بالصواريخ والمسيّرات CNN Arabic",
-        "player": "",
-        "content_hash": "b96b0f53c82506b6bc70be67a99c51c8fd7ab6622bf27b990a3f271be2150f20",
         "sent": 0,
         "section": "world_arabic"
       }
