@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-08T21:27:28.280363+00:00",
+  "updated": "2026-10-08T21:45:28.472683+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 9938,
+        "title": "السياحة المغربية تسجل 15.7 مليون سائح خلال تسعة أشهر - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE80MzBROXVqTkN6TmFGQWw3dzd2M041aHhib1BMTHNUb21EVGF6QzVnQ3JRVWItbTFUU0Z2RTJxQlFqSDBfX2VjZw?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 21:33:11 GMT",
+        "discovered": "2026-10-08T21:45:06.430665+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "السياحة المغربية تسجل 15.7 مليون سائح خلال تسعة أشهر Febrayer",
+        "player": "",
+        "content_hash": "3ab41bda2c2d29c9bc5fd5c8c8eabecbbab3592ea9638b10dc75462429987cc3",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 9926,
         "title": "البسالة قبل الإنتخابات.. زعيم الحزب الشعبي باغي يستعمل الجيش لمواجهة المغرب فملف الحريگ - كود",
@@ -418,25 +434,25 @@
         "content_hash": "3a8cb1392ffd3fc47f9b9d4caf2c685439dbde459a0de30cdbdfdaed2974eeed",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 9710,
-        "title": "رئيسة الحكومة باغية تكون صارمة فشروط \"الاستوزار\".. وزراء سياسيين وكفاءات وباركا من استوزار العائلات والمقربين واصحاب الريع وها علاش كان اختيار الأحرار يمشي للمعارضة وهاد دور لجنة اخشيشن ووهبي ولقجع - كود: جريدة إلكترونية مغربية شاملة. - كود",
-        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNNkZIcjZMSDZFcTExOTRtZmZlenpyUjZPRkZaNF9PWEs2QmVFYmtMelVueDRNLWNvZS1kYndEemJxazJTeE8yVlNTclRIQ2JHWlY2TzN1Y0tfeVpTTGx1bWZKVVhvdlplQ05CSm5Sa1U4VnpMTlp2aUVGS2tCd1JHVnZIdUY1Q3RXMWMxekVNZ1FPRmZsN3BHZlY0all0TGFEVnFWZlB3TW9sWjlYYlRMaFAteE5oeWdwcmZkV2tMQlR1VWVZYVdaRFZjbHNwMWl0S0h0aFdVa29URzNaOXZ2QmVYdUhodXBSVmJRdFN6QlVCNnhFTHdnQjUxbHZXdmxsMXVsR2trOHdESmRiVVhFNGtuT0VtYzNvWmN0a3J2R0NUVkhIOGxGMF95SU9sSnZGY0RBbGpOYXI2cFk4RWwxVWltTHd5dlRNTjBB?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 15:08:21 GMT",
-        "discovered": "2026-10-08T07:09:03.832459+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "رئيسة الحكومة باغية تكون صارمة فشروط \"الاستوزار\".. وزراء سياسيين وكفاءات وباركا من استوزار العائلات والمقربين واصحاب الريع وها علاش كان اختيار الأحرار يمشي للمعارضة وهاد دور لجنة اخشيشن ووهبي ولقجع - كود: جريدة إلكترونية مغربية شاملة.",
-        "player": "",
-        "content_hash": "76a3e2eb3607c1e8403083be54d19e29f5be6a54361e849d19d8326da36ad2f7",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 9940,
+        "title": "مباريات السبت 10 أكتوبر 2026 - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuZ2VtNElGV0RSM2pOenQ2UGI2dkFvRG5TUUI2bUp3YjhIMHp6cGFxM2M5QUZBNEt3LUJrUXhmV3Awd0xWVVB6MENBcWo2eUs0VzlKdFJLUEhIQW5pRE94Yy1QMTNsa1k?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 21:36:04 GMT",
+        "discovered": "2026-10-08T21:45:13.235803+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "f3c74e737cc859949886952b49f18321c7892f13e8fbd8e2ee103676ac72bd83",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9934,
         "title": "أحمد رؤوف يكشف موقف حمزة عبد الكريم من المشاركة في أمم إفريقا وكأس العالم للشباب - FilGoal",
@@ -738,6 +754,22 @@
         "summary": "فيديوهات | ركلة خلفية مزدوجة.. هدف كهرباء الإسماعيلية الأول في الترسانة - محمد مدحت (دوري المحترفين) FilGoal",
         "player": "",
         "content_hash": "7e793454b94cf1ebe4e7a6e9dad256bb18f9138c9e7f3030502b01cf7387abb7",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9943,
+        "title": "المغرب أم السنغال... اسم الفائز بلقب نهائي كأس أمم أفريقيا 2025 يُعرف خلال \"بضعة أيام\" - France 24",
+        "url": "https://news.google.com/rss/articles/CBMi1gVBVV95cUxNLTFtYnAyQmZ0ajFkelM0Ti0tZWtnVDVkVlpub2RFZExiQlRra1pzN2ljYkVDMlZ6RnVPT2s0aEJQRmpmeU1fOG03WGFhSmdBT0VXakI4VGlUYjhFblhtVUVhQmNPcGFqN3ZtNDJuc1RCTE1UeFlHN040NG5DLTRfR1l0T0hRNjNwb2lqcWhWZFdBZXQ4VWdLS09nWXFWVFNzM0l1UWVnM0FRSkNGLW0zbzR4SC1Yblk4cV9sY2x5NVZuOVBYV0NIcWRqLVZfSVF1a2tTU095MmdtX3BWblhSZ1h1SWgwNnktTUowWDBwak9HNnV3dmg5UmUyNURzakZ6WmNyUjl6RnZpVDF1VTZDbmR6VDdvM0RFMmRKNXB3c2JyeTJBTFJzbWY5Wkh6YnpZR2p1S2wyb043clFkRi1SU0daY1VJeHhNdkJKN1NybTZMMVNkRDVITy1oc3I0YXdSTk84SmN5aVRJei1ERnR2bXA1Yzl4NjhUN0FqTjEtdVBlVWhpU0V1QkJoeTZMZ2JDSzVoZ1drZzU0WFAyVW16ZnBJaUlYVDJxZFQwQnBVYTZ0MjFqWEZacHltYXY3RWZSX28wZzFhcy1DakV3WlZqa3JPZUw2OEhFb3RxYm5SSTJGUEwtcENVY0Q1WXR2U21HSktkYXJNU3B6LUhHaElRa1ZXTDY1TFlyMWkyc2ZBMXd2TGo5ZFNodkZTUUZmUS1BQzJ3TUwySkFCSXdTa0diRk1INHhhZGR3Rm5tQ0NTY25TTURjM1dQajM1RWJVVG9aS2Zfd180UjJFOXRuNkF0R3ZpUUk3b1dFc0FCalRuSWQ4a2ZWMURoZ2g1bzZzNHRSNzNWRmdYNkdjVG9GTEFYLVFLS0IxLThWLS1wcVhvQmZHTHphZVJGSnk3S1J2Mm9LWUhPV2FPeS1qQU9ZRl9ndVhHMy1mZUhnQmw1Z0dxQmhSb2ZFdHc?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 18:05:00 GMT",
+        "discovered": "2026-10-08T21:45:24.607604+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "المغرب أم السنغال... اسم الفائز بلقب نهائي كأس أمم أفريقيا 2025 يُعرف خلال \"بضعة أيام\" France 24",
+        "player": "",
+        "content_hash": "9deb53d21f1ff088fa6f24527a97a90ee23887a3c7216816bcb639d6fbff3c9c",
         "sent": 0,
         "section": "sports"
       },
@@ -1204,38 +1236,6 @@
         "content_hash": "8a8e458d466afc74914dd441ded06fb9fbc934d58224b0c76fa05585c0a255ec",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9822,
-        "title": "وزير الرياضة الألماني: مؤشرات إيجابية بشأن استضافة ميونيخ للأولمبياد - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMitwVBVV95cUxPQmtFWDR4a0xjV0V1anRiQXVQXzVreXh6TWp1cDdiMXJadUpXNWxWNDI2TjdZcTNYRHBjbWxPWHg0amRyTV8zbTFUNkt0UnhNZjBDc0pmX0tNVHJXdUxSX1lfT28ybjl6cV94Tzc3d1JDQWZjX1lGTDRSdjhUNjZlaEhPei11NWI5Q1g1SHJrazhveHZSOExObWRndTZYMlRpc3pXSkMzRm1zZXZQeFZTQjZlNGtLQnQ2T3lWVWRYeUlpcWdseG5LejJ5UWRzaHRaZjBnU0hDQ3FtYXhXVl9BRGFBQUtfdGVrdGFDRDU1c01MTlMxVWtiZEt1NDh6ZmlNa1pxdF9KbkNDTVEzSHpNZEY3VnN1MEVURVh3Z25UeVk5VVBjV29JMkxCUGlQd19FN0xuYW9kVktHQW0yUnhkcy1ydDY5VmluR2FoazhFaXJOdFBIZ0dxWEJ3YjhOVldsajFTS3lBSVZOVUgwMl9YeUpsZlFVUDI5MGtaN0RaS0V3ankycy0zOEtCTjV0OTdQYmJReVhyOHBwR3dPVk5MQjdUaUVtRWFpaXlCYUlXaFNQXzZmajhiNzRyNUM1TE8wTG50cVAyUkp6SThWWEpjRWpSN3hValp0OVZDZ2UzMTJxSC11S09oVUF1OWg0TEF1R2VSVWRWTmtad2JLd3ljV1h4YmFlZUJCWUdUdmdUOTVRejZ1dkhjT1Fjd1lxVjZDOEdEQWxqN2l6Mk5yaVlfUmNXZ09Jb3VLVHJtbUVpQWp0eEQtQ0NDZTZSZVRReEtCTUVtWDZSX3hpbkJfYzZEdFVXcFhQUlRRUmJZOHFlQWIxZnBqbVY3eDc2RXpzcEZobHcyTzVmeWtjelp2WkFTVEIzU3dHMk9Bbjh5TEhWTUR1akJ6ZG1uYmJVaEJXWHlFbS1rRW5EMA?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 14:53:48 GMT",
-        "discovered": "2026-10-08T15:02:04.392420+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "وزير الرياضة الألماني: مؤشرات إيجابية بشأن استضافة ميونيخ للأولمبياد الشرق الأوسط",
-        "player": "رياض",
-        "content_hash": "b549c6d36cdd50e817fa658ba1ad1ad1a6cf0de4e962d302b56c0d3cf0dcbdc8",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9899,
-        "title": "بطولة أفريقيا للأندية لكرة اليد.. الزمالك يهزم ميكيلي الإثيوبي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOV1Fra2dRSW9na21yXzVQbmd5QW9HZURSMzFnRldTWUNLV2FfV3FmSE5ZekxtdC1IQ1llS2I3M0VQUUdkQ21QbWpWZkl4U0ctX1pma25NZWg0ZzktYlNtUnhjdV9BSDVvQkNBcnR4QW50UjBQX3h2dF93ZTRjTGNPQUZoa1VyZXJGSmphRGp3RlRSTEFZZEhFUU1hOEd2SXRIZm52c0ppc1FwR2lVdFdQM2R4SEhlWHdSZ0pDanRLVzJOZFAyZUJDQWFVLVNWWE8teVVEWGxBd191NUFSUWZoOTdxWnI0aWFtQ0hqWmdJYUJJZUZNNFpWRmpQLTdwZ2x2eWR2ejJHbnktNWF4aVZYQ01CdnU0LWdyYlpkT3A5X3pEaW9lbHF1b1VXQW93aVJvQ3lubzlPSDFkZG5LbXhDT3dWRGlNT2hpbWtfS3JyRENnM2NxaENicUYtU3ZDNWhXdk0yY0lUWjh2WTA1SkptVU9IMGFGMWNDT2NIUGZVZ1BsX2oxY1lqT0R3ZzlOdlZfZ2g5UWthZjNielZMMFViS25nU2NhQWJqTGY2S09RVWg5RlN1VUs1NXhYVWttU0RZTmJsZnB1SDZSb21GR2pzbnZVUVhWdjRrRldXS3JyTHRhTHA0UndER0FsUXhQX2dpV0ZEYjBZb2p0R2liLWxuM3ZKUHJhSjBfUmg5OWt30gGTBEFVX3lxTE1aOFJzMWFrRHpUTHZNblNoRnlleGVJWEJabzc2RVdLM0wzQl9MMmRFemQzY0pDaENxcmNSVjhsRVJWNFJQYjgxWENWVFF1WkZETGl0YlVyRE15Ums5cmVtb3dHYkpzQ2hZdDkzelVqOW1HUkc1YzBmbm9URnRoQ0NHWThXTWpmT3gtTk5sbzU4UFRFMlVENmtMM3JSR0NJcTJ5MWctcG0yZmM1MDhveU9yMUkyVWZMWVFEYkd5bXY5RnhSeDZmUTRCdURRM1dpWjRNZmVaQmthRmxzTDJ5OWhEaFlSdTJ3OWcyWmg3WUlmZ1k1YW5yeHhZMDdDZGhuNTEwQnBqZE90a29fRS1HRDdYVlhzbnl2VTlFR3pMR083cEUtb3ZBR2Q2U3llOElRNVlPUU82anY1VVZ0RzVzdEVCeTNYeDRPamhhV2cwWlZUQVdZUEVOc3hrZVk2NTJBLXRCY2piX2RzbnU0NExZRHJsMGZVbkdwY1VNRFdudzAwdnpsRDFTM1RjVE9VNkVfLUpzOURGQWg2QzlyTHVDTTYyeEVQNHc2N1R2TnI1XzdJdF8yVmkwQkt6TExyaUctcTZ0VXZTUVh1VzQzd1NIYkY4OGgzTUJ3aVBsNkN2NXEwUzV5OHVjc2o1YkI4RmdJcGlXUkhKcnBocFJIZ2RFOWdmNE9vUl9nRnlHTVdmaFFxbVdkcw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 14:52:00 GMT",
-        "discovered": "2026-10-08T19:05:49.616830+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بطولة أفريقيا للأندية لكرة اليد.. الزمالك يهزم ميكيلي الإثيوبي يلاكورة",
-        "player": "",
-        "content_hash": "fb82a2b3ad9821174ea06c3113d4d60a6173edf6823a9d87976210051c5abfb9",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1300,6 +1300,22 @@
         "summary": "إعلام إسرائيلي: خلاف حول صفقة أباتشي والمالية تتهم الدفاع بإرباك التمويل القدس العربي",
         "player": "",
         "content_hash": "1a69d2cd41f77f153d6da5212ea6dc61f0a80bee76d509a104911355aa0d2523",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 9941,
+        "title": "مصدر من الزمالك يكشف لـ في الجول حقيقة التوقيع مع الزناتي لتولي منصب المدير الرياضي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XSlI5ZjY2N1dGV3NXelNyRmxXREVEaHJ2bUd1VkE4cTFmOVcxU1BiU3FyNVk3andpd2pIb3hKTlF3VDBVUTRjaXdTS29FYXlD0gGSBUFVX3lxTE45Z1dYVUo5N3F0bk9BcHFaT0RaTlVFT2hCcGs1UmhTX284bW1RUTRiNFQ3UEpMbjZZTV9WYzAxb1VPclFhUkhyOEhkTUJuQzdpTEVyaXNHbTVoNFlEbTQycm5LSFZpUFRUSzllLXlITW5ZZFF2X0w4R2RmT01ZdWRJYzN6cmhGWWNjMnZPR01UcHFqUFZldHNsTnA2ak9fV2FHZ0ZpbGR2ZVVjTXFnT3BXdFJQNXpjYThhREVQTW9Ma3ZXU0lKWUhlcEpVVlNUT2Zxa0RLNDc0RC1nYWJ6ckRFX1dUd0dLTG14ZFltcVBScFVodUNqQTRVNU1Yb3FJNlF4MVc1VFN3YjA5U0lBOEwwU0tHWWlzLWxaVHdKTi1oN0VoR0xmZ09Xbk5reS01UVFIOE1naDkyTDEybG5mY1FzSHpoX0tfcFo0M2VvNkh5RU5zX0NwWmJpNUVPNTByNl90SE9TYVlGNGkxZkZhMS1OaTZNdFNTc1NGLUNOeWtfS09MMjl2YzFmcVZ1c0VvV2dNNmZ5X195ejZBbGpfbVdUdy1aYmh0ZWRCeW1ZTEs0QTNlRlFxSm1ZTjdJVVVvVEs2X3ZZQUwzSjZPWURVRXdtb2RScXpGamN6d2o1RHlpQlM3WFZrQUc0d1Zjemp5enRLWWVtVTNUemx6a25BQ3Y0TUMwSW50RlRlRWZYMmNWTzZ3MUhEcmR3NTBKbDJ1dXp3MG5TaVM3MkRQM01vdEtwVEx1U0J6aEs2MHpTbEdxekMtcWV5b0dXa3dTc3R1ek41ZC1lMHNwckV0VEtSU1JtSFhXMEtja3EwZW1rdWNZYjFoOFFVMWVVTmk0cFJxRG56bDdDY3Z5VTJaWlk0S3lmMGc?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 17:13:00 GMT",
+        "discovered": "2026-10-08T21:45:13.830371+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "مصدر من الزمالك يكشف لـ في الجول حقيقة التوقيع مع الزناتي لتولي منصب المدير الرياضي FilGoal",
+        "player": "رياض",
+        "content_hash": "639d8d3238ad9d5201daaacbd0ae2cca0dd9572f8c70932ba84ea9b61e4f33e9",
         "sent": 0,
         "section": "transfers"
       },
@@ -1910,25 +1926,25 @@
         "content_hash": "70ea10f1df82d95bec5d03a1fa2a534965f9a9a15c25bca136ae0e9769521143",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 9477,
-        "title": "وزارة الصحة تحذر من خطورة داء السعار بعد التعرض لعضات الحيوانات - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mTnFlaTdXZzdWb2cxa3ZZX3ZReExYM1dRN25MUEpWcXY1cVNFdFRSM3NnQVM4eTl1Zng5ZlpfV0VISUp6YWxKSA?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 15:04:16 GMT",
-        "discovered": "2026-10-07T15:04:58.553003+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "وزارة الصحة تحذر من خطورة داء السعار بعد التعرض لعضات الحيوانات Febrayer",
-        "player": "",
-        "content_hash": "2a077d4f00cd35a289a9380a5ad82ec0f3c53f708486116003757a698aa4af51",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
+      {
+        "id": 9942,
+        "title": "مصر: جدل «الفقر» يسبق مؤتمراً حكومياً لعرض الإنجازات - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxPbGJWeC13QkQ0WlVnNk56MEJZTFg1RzN6WFZJSTlDamZZZ3FMQnB5UEJSWEZYRGpXR3ExRUxXaU1fb0ROSjJWYzJ6RURKdHBaaXBseGt3RnEtQjd6cWN6Rk5rN1hHaUo2NWY5WmxBSjd4VzA2YUxwMlJNb0d3eC1wMHVoSGNkMGlSSERza085d0k3U0dGU3VNbk9SckVIUWhrNFh5LXRjMXFCS3lLSF9yTm9RSDhOWGJWT2U5T2ViQUkyMmRuTUlJNjZMTHZVbEVLZWxvR1h6Yzh4T3BVNmhxOEVEUmpZTnViYkpqR1lKd0JzUGhfZk9iaVNtUDlvaXlHbllldi1DQm9GeUptV1o1eVJCMUhHQmFLYUFCdXllbmhsaTBzN1diUU8wMlFpdFM0S3JTQk5pazBES2U5UXRaWGhoN3JUd1RZVHdmcXRfNEl5SkFic05QdkF2NlJTbmIwVGVOcjlqZThNUHlGZVh5TWNIQzNndFJnbm0xemw1b2VfVDJLSU0zb2lad2xxdVlrYVJJX1NfSVgwYnBmUDNCQV92XzZvMkJIOUIwenZtUkNQdVA3cHNJY0JYUU1JcDVWbS1BNmpkYVhiek8yWldXeFVFU3dYaWhvU3lFZkRZQVZfLTUwMFJXdnpLdFJiYkItTWZLaDc0dXpnWnVMOWJpSWhXOFhseVVmdnBrWjRYVkhVLUVlZlQ5cnZtbG9EVktWaFg3TXFQTFYtdGZObzdfVTVsakRUTkZqUkNyTUZFN0o1ZzRnTS1SZklnTERvRTFvNlAxNUxSWQ?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 19:06:17 GMT",
+        "discovered": "2026-10-08T21:45:22.657124+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "مصر: جدل «الفقر» يسبق مؤتمراً حكومياً لعرض الإنجازات الشرق الأوسط",
+        "player": "",
+        "content_hash": "7390baed05ebd3b6918082506ce03f2954597052475218037214bcb85f8c2492",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 9924,
         "title": "تنسيق سعودي - مصري لدعم أمن واستقرار المنطقة - الشرق الأوسط",
@@ -2392,22 +2408,6 @@
         "summary": "حفل إضافي لفضل شاكر في موسم الرياض بعد نفاذ تذاكر الأول CNN Arabic",
         "player": "رياض",
         "content_hash": "14d4756124a2e1cfb563bc5dafc737cbf59542990d8a7afcf96d283a02b821cc",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 9542,
-        "title": "هل ترسم نتائج الانتخابات الإسرائيلية المقبلة خط النهاية لحالة الحرب السائدة التي تنتهجها الحكومة الحالية؟ - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNVk9uYU42N3Q0R1NsOG5Sc1Niam13dVdPOU1HRzQwZDhRc0Z2V3NLYi1rQ1NlUXZNUUgwbFkxbk5paFV0XzVodHFfdHRoZndoTVJRRUJaSXZfa25jMk40dTU1OTAwZE05bHVGSEV6RXplQ0NGWm55Z2lha0RhdWNvZEF4dlJfcFRkSDYySkFua2VkbDVwdk9NbTIzVjd1MHgwcGVQTDRzazRHUDJRQmlXQlYwMzRTSW9EYlkyc2dUMkoxTzBVTTBIR1dEeGE2UzVFVS1XM3Y1VTZ5bnpNSjcxaWlYYWVsSGVQOEVfOUZkTVlzejNPeTFBY0Y3cWFQbXNQYjJscnZQejBOQ3JQc3V3YkhjZzk3MkFOUThuVkN4end5bGh1U0tPZlI0WHo3ZU9FS21KUU9xRGticjNib21YTnBqbS0?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 14:33:42 GMT",
-        "discovered": "2026-10-07T18:28:29.417326+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "هل ترسم نتائج الانتخابات الإسرائيلية المقبلة خط النهاية لحالة الحرب السائدة التي تنتهجها الحكومة الحالية؟ القدس العربي",
-        "player": "",
-        "content_hash": "4a095f4e8a66b3a068a4edba6665cda73ec5a0334caf796fcdb05ec3750f466b",
         "sent": 0,
         "section": "world_arabic"
       }
