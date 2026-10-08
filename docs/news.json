@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T21:45:28.472683+00:00",
+  "updated": "2026-10-08T22:00:32.118896+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -466,6 +466,22 @@
         "summary": "أحمد رؤوف يكشف موقف حمزة عبد الكريم من المشاركة في أمم إفريقا وكأس العالم للشباب FilGoal",
         "player": "",
         "content_hash": "88e1460d3c87c98ce88c676e67f729c2c576e062e1ff417424d0aa6e6b78b774",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9944,
+        "title": "بينها هيثم حسن.. 6 ملفات ساخنة تضع مدرب سيلتك في ورطة - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxOM3hxa091TFJCZndNU0FyS0RXMTA2bk5pTUdjWUZRcHcyWkZDSnQxNVNNZ2hadmRCdV8tS1JCVFpobEFEeFctTXcwS1JPMFBQaXljOURLTHVoN2VJN2lLWEh1M1dLdl9sMFZfcnkzc000TkVSaHhkUVZ2RlVIeXVWLU1FTHpjRVRqX01QNFQ5Mlo3Z2RaRTNoQml5eUkxYXVMWndZMU1KQWpMLWU2ZGtBTlpiTGpuaUppLW1la1pwZzgtU3lBRmJGSnFjNUxSWWNaYTRpdlRkb2lkOG1ZWVlkYmY3UnJBX0p1cEdMdEpvdlFkQnp3SFVBNWpjWWxzNzJNRnNyaTJLWFdCVFRPblZkdWxRWUZCd1ZRRmVkOXFjaXVJVTBNa3lOQ3hFb3hfWi1XZms4N3pCODRhSFVDcmFfYm1MQVByR2c1VTBhOWkzQjBMd0FuU3UyeE1WcDdvNHdoOThXYUtKWjUtTGRBSmVmQ0p6d3ZPZUlZekM3Z0stZEJ2djRTbHFGUnEwQTg2UE81cmZneHMxaDA4RDZ2MHfSAaMDQVVfeXFMUE1vMHlhQ3R6VFh0OWNlS3plN05hUmQ5b1B0REltMmtpM0FQZUxiQmdoeHVoT2xJRzdwdzBPdFBMRXVjZ3MtbUZCREFsaW56bTJqSW43UE8zdnNMZmhxVWR4VVlvUjZ0MTJLZlRwOFVKZTd6TkRPQWp0WWNIaUVMMXlrV3V5Tkhqb0FuZXZaLWxoZl9yTDBQVnFVUWFyVElHZVFhaDNnSG1SVXNfNEpGWS1rWHJSVXpiNXZFNXVjc01uTkxMVk10NE54N2U5MndIVnRTRG5QTEZKVlloUVhoYm1TWmswMUNMbVlNTWtFR1F2aUJkMkNRalBrV1NJY2R0Y3pGUC1iU29QTEtackxVV1JucUFISWhqMzBWNWoyWGJzVk05b1VibnF1SHE1YnNRU2k2THI2Zm5lZllMQ1NvWUhtcXVPRm0zZDVucjAtQXlmOTkyU0dQS1lidGszOTJZWXRLYTQ3SWpmZWVlS1FIOF85d3IxNTdDdWhjU0NFU2NONHYybWR4cEdsS2hDb1pyWlB5YXJEaVJZYmJLV1o4bnZ5bUU?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 20:46:00 GMT",
+        "discovered": "2026-10-08T22:00:15.404688+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بينها هيثم حسن.. 6 ملفات ساخنة تضع مدرب سيلتك في ورطة يلاكورة",
+        "player": "",
+        "content_hash": "fb33d31ee6087e2a657bc8fe28941402c8c9556d4f76eea20b3f7da645b010ab",
         "sent": 0,
         "section": "sports"
       },
@@ -1218,22 +1234,6 @@
         "summary": "كرة يد - بفارق 43 هدفا.. الزمالك يكتسح ميكيلي 70 الإثيوبي FilGoal",
         "player": "",
         "content_hash": "04f1ce487fba5111c0afde94beb3b4f83df12b03dc128804d5d79cac72feb927",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9826,
-        "title": "\"لتفوز أفريقيا بالمونديال\".. كاف يقدم دعما هائلا إلى إنفانتينو لخوض انتخابات فيفا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxQdC04SDZHTzhqci0xZmdVQ3V0QUdaSE03RHdlbXpJZ3NPbGhPQmw4cTR6cWtDVzlwLUcyTXJhQko5MTJMOTFDWXhFZzRUMlRPRUpWWVRnQVpwOWFhQml1TXB1Z3ZCeFp6TjBXZjM3Ym1XMEVXSm5wWkFNU2tEZS1nMmxDdTltNGRMRkVPNVBiYnJ3Y0czS1FwdEhlOE5UWGlDQ055NkZZSVAtTDZnQ01YX1I0eHhtQVlNeGRyay1heDBoVkdsS0F5WTVEUEtkMnlWRzVpRjRxejJrdTJ1RFF1cGg2NHJ0dG54dTNjVFBtOHZucVNxYl9nZmNaSFlNUS1oVk5udm9URWRZUGhVc0xILUljQk9IektqcFh3cFladUZWdExqbDVEZU9WYy15U1BvYVI0cTF5czR2ZEF5T2hwNUw2cjNvS1U5dDJScXNFcUo0dmw2UnBZWUF3a0tIenhnYXIzX1o3SW95MW1zQjRzZGRaTkhQMmtZUy14TWFhNXRobnpORUx0QVpCQkpBcl83dzBIQTBXMllheTR0NGFjREgxblBmVEZxeExsS3MyYWI2bEdVNi1DTU03T3ZkbVV4UWhBZFoxcE5oMENTaDdQU2pfWHVaT3NMNHdyRnlvMVFLckZ1NUVMLXhTazRqNzFPOVN1SENXREY3UlBuRElUWWMzTW9Pb05mX3JuQXBSV2RHa0FjRW5mdllFVWlqZWFSNUpRSkUwM2xSRnRfWTVSN3gwNG5qWHk0Q0t3ZFJONU8tdk9OS2dVckZhcDRkZWFWcDVhX25GWkRuX3h1bERBM2FPMkcya0VBbWZ6dEJLU3NiUFU5VjlKWTY4Q1ZFamJGbWV0ZFJSTmZ2WlZZaVgtVzh4SDR0bEHSAZwFQVVfeXFMUEM5WEEyX0Ryd29vWXI0TWtsSVBteVozZ2RSNTRicENKeDdReWVDcHpxeVBDWDhqN2tlUGxpR2xFRGR4NS10TWFCR0ZYTjk4ZkwzSW9weC0tczRWTTdGR2pHZ3JHLVpVUFZRaWdQV2l6ekRXUTB0RXNyLU1KbE10TWJjV0pYV3BHWXFBclAydU1vWFlZRjk5WWliXzBhRTV4cnM3UWw3YmxNTGlMQW5oZnd0Ui1BVlZqbU1BNEc4c2VCM2p0OVhGTngtckp6bDMzQVhHUTQzSTZORXNvTTBOSHpvNUlndDd6YmtMRW1zQ2JWS19kazNKOVBEMnllOUdhQ1JsOXFtNVExVDBBVEY4WVMtMVRJN3lpTHFMcGE0bllDR3RVUm1qN2dPRGtiWkpjeXk5V1RlNE5FcWt4UG54Y2xuVGlqblNKZkNDTU9OajZhUERGT2pGZEVDdk5Vc25wUDdZcnlyczcyZmdDRkdFdjdpeFZ1dVZjVHVyMzdqTEFOcFVvdjR4MTBQU2lxNmc2LWdLdzR0UlIybkFEV3BONGlJZnhHX1JjMHdYdEhqYVd0T2Jqd1VEVi1YQUZncklYa2d1VkczdmV4cDhRN1NfMFJXTzhkSEhITE95ZjlDNU8ycU4tNUZFM0pIUUZXVVVkbS0ySWZWRVByT0U0MGhmSm5kUU1MeHlLMS13aUhxdkx5bHVRWGNudnhWdjdRTjhaUEVyTjkwZERtLS1EUkVDdkhRWFJuMlE1RE9JSUhzMnZqc25aVWFLblg2ckJxblZpVEZNXzMwSXlvcEUtREhicUxrVjd5QzBNQUpfV3dFTTBnVlVVR1ZZYkY0LUhhckJUb1BRTk9LZ21pZkhKZGl6RUowajBXNHkyQTdyRlM?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 15:15:00 GMT",
-        "discovered": "2026-10-08T15:23:07.674474+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "\"لتفوز أفريقيا بالمونديال\".. كاف يقدم دعما هائلا إلى إنفانتينو لخوض انتخابات فيفا يلاكورة",
-        "player": "",
-        "content_hash": "8a8e458d466afc74914dd441ded06fb9fbc934d58224b0c76fa05585c0a255ec",
         "sent": 0,
         "section": "sports"
       }
