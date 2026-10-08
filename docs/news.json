@@ -1,8 +1,40 @@
 {
-  "updated": "2026-10-08T15:23:27.511004+00:00",
+  "updated": "2026-10-08T15:43:15.347653+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 9829,
+        "title": "نشرة إنذارية تحذر من زخات رعدية بعدد من مناطق المغرب - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01NVZTV0l6ZHhFcGthREN0VUJmOXhpTllFUGtSNW9xdTByM0l5bm5vcDctWEZqUGh4MGRhOUtZcW1NWF9tdG9Mag?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 15:36:12 GMT",
+        "discovered": "2026-10-08T15:42:49.288051+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "نشرة إنذارية تحذر من زخات رعدية بعدد من مناطق المغرب Febrayer",
+        "player": "",
+        "content_hash": "b567c6b87605e325219376c52303165e18169133fbcc79679daee4921ad44e2b",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 9830,
+        "title": "الراغب حرمة الله يترافع عن مغربية الصحراء أمام الأمم المتحدة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13c1d3WW95UTlfTlBoRm90OF9sMDFqcENzNlNVajRjWXVCbWprUFpTbklZbnpUN0lvOENxd2xVMmUtXy13aDl5Sw?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 15:02:05 GMT",
+        "discovered": "2026-10-08T15:42:49.303924+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الراغب حرمة الله يترافع عن مغربية الصحراء أمام الأمم المتحدة Febrayer",
+        "player": "",
+        "content_hash": "42646d65ea2345ab08afa1a8cb7bc774d3723235ee144bbdc69904da77dd18fd",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 9806,
         "title": "أمن مطار الدار البيضاء يسقط فرنسيا من أصول جزائرية مطلوبا لدى «الأنتربول» في قضايا المؤثرات العقلية - Le 360 Arabe",
@@ -402,38 +434,6 @@
         "content_hash": "3174bb43de6e92d253b9d4302464ed187e8aa032c62bc107cf38da2b022696c9",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 9364,
-        "title": "توقيف 5 مواطنين سنغاليين بمراكش للاشتباه في ضلوعهم في ترويج الكوكايين - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MaVFNZWRTZzV3THdMdmlabEpCUjc5M0FEY2tDS09DM0JYUjZIX3pLeUw3VHR4dGtaM194SlpBNjFzbm9lYkEzSlYzWFVPYldyMVdzZWxWZlNXdHM0SXlLb1lvSmNiUQ?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Tue, 06 Oct 2026 23:06:42 GMT",
-        "discovered": "2026-10-07T05:23:10.287837+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "توقيف 5 مواطنين سنغاليين بمراكش للاشتباه في ضلوعهم في ترويج الكوكايين Le 360 Arabe",
-        "player": "",
-        "content_hash": "69a9f8a3ee0be7ffe7597385a17e0cda3371bdd1c93f26b577d30064a8c9b6c7",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 9684,
-        "title": "إرادة سياسية قوية للنهوض بشراكة ثقافية مغربية - فرنسية تغذيها الطاقات الإبداعية للشباب (سفير) - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMinAVBVV95cUxOWkswdjJjUThMZ0JlNm12ejRodDUtVDlwbnNiZHZEUHJKYzFsR19OOUEtU3NOcXFMWjJRTjFpTTFZdU5Pejd6a2tvQktnQXJSb2tpa3dUTkNFMDNnOGRRWWprSDJId1lNNjRvb3VReDduTFlKc2FBbHFVa3ItaEd1OE5hMnVKaWc1RS1oTnlHWlE0RHRFSUtBS1d3MDlvWnZlLWRjNlpaM1lxWGtGSXhHM2pzVHB1d2RCd1dKQWI0RG85S2xGeHN2UUNFMERxbEZJaDQ3QWJaSHp2a0ZtZWEtdTNIQ1BqUFBRNlkwb09wb0p0Y05NYkctd0M5b2ZSSG5rNlgyNXoxWUY4MVpMcGJpVUNpem0zbFdpQkdiREFSTVZOMUt1REh4SVE1UXc3bzlmRFZkNUJMbUJRSzcybDRaX1NPMUx2T1JseVZETjZROU1PbUtFT2lWMFBFWDdNNzNIYlljcS01aUZCRktRNVlMRHU0cWNjckhUeFYtTG1GT3dWd1BCT19LYVFzdEtRem9uQ0hTZ3YyYmJfckp1bV9adW9SWTVqMlluY05jYlhJalFPQUY3eEhoYk9DVmkzQW9DTE92cVgwNTFhbmtqVEE5cTZ4UEZTemxLNTh6M3I2bkZtMkJwV1ZzcG1kLThFOEd4SlBlc2V0UkVaZEFXdDItdHBYUzg1Z0xlZlJ3Vk5WbnFLSlh5OXJSUVlXR1pkcUVnR0VnZnZvYkphT0h6dThudVZsMWVLRk53MUMyRDhLUWFEVnlMOW1hbTFjRWJISmpYYW4zek5yV2t0LVNZejYwWksyVkJFU2tGeEtmbTE5QzRmNkFIN2lDUzBjRl9qZklvRVF0d19sNnczZmZuRWZpME40N0FQbUxvOTgzOA?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Tue, 06 Oct 2026 22:55:35 GMT",
-        "discovered": "2026-10-08T04:40:17.668542+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "إرادة سياسية قوية للنهوض بشراكة ثقافية مغربية - فرنسية تغذيها الطاقات الإبداعية للشباب (سفير) | MapNews",
-        "player": "",
-        "content_hash": "4bfee8d4dbb227fa7771457357300f114a4a84fa12e0d0205169a35694fecab4",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -642,6 +642,22 @@
         "summary": "عملاق أوروبي يدرس الاستعانة بالمهدي بنعطية في منصب المدير الرياضي Kooora",
         "player": "رياض",
         "content_hash": "7ac162c0b57c387190e54def99faaaa338b42d032f9a914609d22f34d581e252",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9832,
+        "title": "عودة النجم التاريخي.. الدوري السوري ينطلق في نسخة استثنائية - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNbUdrVWFYVGZINnB5WkFKakdXUEZERm8xbXJ5bjVENUZNSlZYeUhqU045djVoZHlQUWVrTWFDVkp6VDN2NnhtNGM0QmZpODdlMExNR0Rqc2NZb2NmMmpXVW9hcEprcUpSUTJyU1FVU19uQ3Z2RUluaEtTODZzeFp5V2lHOEZ4S0VJU3czMFdXOFlPVnVJeHZNOEVlVF9fUE0zMkQwSTAzYXpKNm14cHNDZzJmWnlrY2N0S2Q2Yk5uNUtnUDNXOExZcER0ZENnVl9EUDNEaGZHRWVQZ0dzNlNPcWZvcGkzaERmaU5NM1Zkai13X2xUNEtXOHVxMFludk5FY3NoR1QwMV9DTTY1bmt4Y2FTQzl4QmptdElycUNBYTlwWkVnTlRTS3lCZEtmUGJYM25TM0djQzlvMU8wOGNISkVBZVJ0aWvSAccCQVVfeXFMTW1Ha1VhWFRmSDZweVpBSmpHV1BGREZvMW1yeW41RDVGTUpWWHlIalNOOXY1aGR5UFFla01hQ1ZKelQzdjZ4bTRjNEJmaTg3ZTBMTUdEanNjWW9jZjJqV1VvYXBKa3FKUlEyclNRVVNfbkN2dkVJbmhLUzg2c3haeVdpRzhGeEtFSVN3MzBXVzhZT1Z1SXh2TThFZVRfX1BNMzJEMEkwM2F6SjZteHBzQ2cyZlp5a2NjdEtkNmJObjVLZ1AzVzhMWXBEdGRDZ1ZfRFAzRGhmR0VlUGdHczZTT3Fmb3BpM2hEZmlOTTNWZGotd19sVDRLVzh1cTBZbnZORWNzaEdUMDFfQ002NW5reGNhU0M5eEJqbXRJcnFDQWE5cFpFZ05UU0t5QmRLZlBiWDNuUzNHY0M5bzFPMDhjSEpFQWVSdGlr?oc=5",
+        "source": "الجزيرة الرياضية",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 13:31:04 GMT",
+        "discovered": "2026-10-08T15:42:52.774567+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "عودة النجم التاريخي.. الدوري السوري ينطلق في نسخة استثنائية الجزيرة نت",
+        "player": "",
+        "content_hash": "e6c19c563947839a2ee7e8f8df31b64aeff73aa08e420d6b7988616333eede3a",
         "sent": 0,
         "section": "sports"
       },
@@ -1220,22 +1236,6 @@
         "content_hash": "987da79eb81066ae255dca077684f6dec7c0e4befd13d4dca2db7a6d8a2c96f6",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9748,
-        "title": "وكيل دوناروما: مانشستر سيتي أبلغ لاعبيه هذه الرسالة بعد قرار الإدانة - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxPd1hIZ2NmakIzUElnLV9zUFZtNVh2emJlTWNvM0hkT2dtdXNNMGRTLTN4LXFvMEg3blVxcV96T2JQOXVxTUNoMTNuRG5oRzJiaDFKYnlvZkNHNWlkZHV6OTNsLUdRcEpIVUN4NFhkZXZQcEJvRlU0LURZYllEanRJaE5UNWp3N1NsQmd3RUxqMFJ5WllzQWRyZThpMmRhUEFSLUxuUVJrdXJUbTZfa2JaUVZHOEo3WXI1Rl9CZ1pXM1ZlZWllUFVEbTg0MjNxY3ZvbTZ1OUNPcm5ZZFRDeUpvRzJybVUwcjRwbGhwYVVpcGJOYmNTaXpPOHpnNHEzWEMyajhNeDJwUWtTZHRoM2dTOXI2TWpiZlk0S1ZQbjNzTzFVN3BVaXVYTnFkZUR5cUtxY0ktakxPVlgxZ2gtZDROd2EtTXp5SFhLdFhKOXR3LUFYSXhicnBPbjc5WWYyOWEtQnRWZHNOcjhnVVpUQ2c1eEx4RjVvbnBILUtvRVhpN3ZFT1kxR1R6NDFuME96VjJfTDhWcVloZDkwcmt4ZnFwUnp4X1ZWVHVLU3EyUENmRkVoYnJpeXJHdjkzZzVYX1dhZU5iaWdoM2FXM1RuYklVYi1vLXREWmpYNnhWdDlDN05LbWxKUDJnakQ2WU9xWU8tYzZRa3Nzd0pqeWhHb210OFJQaGc1WFoyQ0hTWk44Y0NEMmpFUG9xNnVGMnBINUV2aFNES0N1T2F2Q2U4MzQxcE42RzFzam5abnFjM0YtcXBFTVZlNjJJMFZXRUtTeTBfbC1jX0RsNDRYaWNyeDFXd3JjMGJFYllJMlJWWkhKcVJheEJsenk1cFV1cVlQbHF6cHJFTjFaY3R0QzhZbHkzSFZYNndHTWM?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 06:41:46 GMT",
-        "discovered": "2026-10-08T10:13:27.817197+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "وكيل دوناروما: مانشستر سيتي أبلغ لاعبيه هذه الرسالة بعد قرار الإدانة Kooora",
-        "player": "",
-        "content_hash": "4490a01a1ea602ab0878548c0799aad46ed445e6fb95c2795f481402ffb87c23",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1752,6 +1752,22 @@
         "section": "transfers"
       },
       {
+        "id": 9833,
+        "title": "هل تفتح \"حرب الجسور\" طريق المفاوضات بين موسكو وكييف؟ - اندبندنت عربية",
+        "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxPNnc5TnhSNFplbHpuUEQ5a19WbmFNeDBQZG5vWUhQYU1rQml3NXA0WTJXd3kzZmtPMFJLVWNadWdZcTVWR2o2RVhiYi1pSHh4bUtUcS1UZEpQZXZtVXJCQm1hM2RQZHNMM0xNTGVqWGV6YzNRZTEyUDFsQmZhRXo2QXE4MGdEbHVjSUJFbjJ5ZXR2MkJhcXFmVjBTRk5KSHJaTmhMZUZwUllfaGlnTWJDV1hjTktXMDNCSnlzejNIU1J1d1lqTkowck5ybEhVOUc5VHJvVWhqcmg3U3NYd2hfS1R0MnZVSFFCZ0RXc0laYUtFREdJWGlTdWxVci1MZ1dIclJieHVscUVrb0I5MWVpMHhzNmhwZ1hzRENQVG0yUG5rSC1BWnBjblJWREtfUENMZm1aTy1BOUpLLW14Vm9KTUJWSlRud3VSMGJBYk9XZ3dIWU40Wi01MW5JdGVITUpoNTJJMHdVUXlQa2NiM29XdkRqTnpVZWlkNUs2V2JvaGdrYVhhcldXU3hhV1QzRFZmdXRCWVZDLTNwazJ2ZFJnUEF2NDN4UXRkalU0TUV5VXRiSFZwaFQ4R21pSjRCYU5rR0NtbEJYS2lieEtYOTlqLVZacnRGRkN1eGx2MjZFZmRiTmNDLXNwaWgtXzVlLTdpUTZwaDlNMUNRWHFKMU5BcjQ1dWZEdmZQZjRUbVQ1UQ?oc=5",
+        "source": "إندبندنت عربية",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 14:05:33 GMT",
+        "discovered": "2026-10-08T15:43:14.043486+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "مفاوضات",
+        "summary": "هل تفتح \"حرب الجسور\" طريق المفاوضات بين موسكو وكييف؟ اندبندنت عربية",
+        "player": "",
+        "content_hash": "75404766db649a7674bd0493a55252f817a47105f0073eb7a4f89975a7eef96b",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 9503,
         "title": "الخارجية الأميركية تحث مواطنيها على مغادرة روسيا فوراً - العربية",
         "url": "https://news.google.com/rss/articles/CBMi0wVBVV95cUxQSkVvLUlUNVhQb2w0S1owUlRLYmxxMzE5dEVjTjZlX3B4SmUwTS02Rll1RUJKVEhFaDhmbUxhdTFyekJPamFYUzlQSzVQWU1pLUVqdF91X214czRMR3VYOGt1QWh1ME5PMkdjbzAtaktDNDB2S2pGNk9IZ3VvQkRJSFZTZ2hyaVlOTE9BaFZtYmpHX1IwdG5QNTU0TGJtNUJrdEJtRlNfaVp4WnZBZ2ZtM3l2NmR1NzM0QkJoZS1CU1F0NkViN3F3d2tBVDZCUG9hQWFQT0ExS01pREtueWtJQjhfak9VVE8waUcwTHdSM24wU0h0NmZ2SUVYLWZaOGRWcTI0d0xESHZLQVY2aTFBQy1jN29EbVh6RWtTYjMwTnlyaHJIWk0xUTg1dDFtaGdMMGhjeDd5ZnpFdzJUcF9RQnhCb1ZSUU5OalpYSndFTUdjZ3Q2Q0ZEczltWTRxZkw4dGlzeno1M0ZhUnZHa2VFV2l2N09Ddlk4dWJ3Y191c0MtQkFBdG14aXNPQ0FGaVFSdjZaMmQ3YWtLMFZHQzktbDY5RlNEaDl3dnZ5bTN1YnFFUzhFUDIxSHBtNW5tWmdhN05QcHZlX08zbW9sQkx2TzcwajlkaDhGVlZheEhVZUpKWnJfNDV6d1pWZTZRZ0NoVDBSWXRNY0ZsemZoVmFLVHRXbHkyMV9TUmdJSW5vcS14T3N5R05uX01SRXNjM1NQZGx4X012aFpNWko3NEdHU0l4QUw4YWFCblF3dnc2UEtYbE5LLVNtWEt5SjZsSTF4aHk0cUV5QVp2WTV5eW04R0gyTFA0akRsMzYwYWJjeEFmYjlqb2U4aGNpZjdxR19lRXlxbmoxRlUzQkJ4aG1MX0duQl84Qm9nNmVySU9FQXl1MEozam5fNzNEZ0x5eC1EMFJ5LUw4WTh2ME5LbHlfdWN4aDh1a3JlYXRGb0VOanVoUk3SAdgFQVVfeXFMT0tlMW9MRXVGUjNHZE9obElTMGZrZUMxQVh1aWZETmYxTU9tMWJ4ZXZBcFpmbFlieUM3TjFzVzViNkZhamo4aHBKQ2tvM2toNE02ODhVZUJ3Vi1EMmNlelpUTzRKYjI2SWhPaUNIRGliY3k2dDRrck1WX2t3YkVLMFd4enh6cktHM2d1bHJ1dk1pal9OZUJOc0JuWEM4U0tiWTRzenJQVV9YNjdkaVZNZ0diZlpta2syME9ab0RfQzlGYTd2bHllVmtDQjVKemlVa0s4U05tS21uSUNoZFNrZFY1d2dKeXNSYVppZFh4MjdFRnZNa1dmSjlhVk9hd1RpbXRWUkxvQzBTMFlfME1qdzJaeHV2SS1PbWsxQm5DQ1JoeHJiTk1jRDl2Q1BUbEZDOHhDS1k4UTFVVU1BR1FjX2NzeG5KQ2JOcHU5UXZwU3FvR1QweWtyODk2S1ZJMzQ3UGVmbzNjQWMtQXAzc3FBT01hVjBvYTI3NmNtRVRQTnVmRTdBOENmR0dza1BramJwNlJOYXdYVWJzUWlSeG5qX3V2Qi1kNHVhMFl4N1FZZ0JqcUlIMExDSTFVTDVxRjdzcmllTHN6RE1DaTFQazRvU3NnYlRyeUo5VU9qMnA5cGxQQk8xS05KY1JRNWxTb2hDeXNZT1RSQ0tCMHRJZlZ2bDFVRVZFenFsTTcwQUhnalVPVkFWU05YX3hxaExmY1MyS0pDWllnUTAwU3FnT2h5a3pXWWNwb2JjWlNvWm1EbnZBREJGOWJhWGRUdUpUMFpKMWhDbmZKRENlTFFWT3FyREtPOEdwd1FvWS1wbjZGYU41ek5mVW1Kd05aejhVUGczOXl1TkExaU5rNWllRkVFLVk0emdfUUJJZGRlX0JHcHNzcllhX3dqUHYxNFNudzhhc2luNnA4QjByaGJWR0JqV1E5SWN3T1pwM3hLRXh4R0x4YmhOUHZPekk?oc=5",
@@ -1956,22 +1972,6 @@
         "summary": "«تقرير»: صور أقمار اصطناعية تكشف استئناف نشاط موقع نووي إيراني استهدفته إسرائيل الشرق الأوسط",
         "player": "",
         "content_hash": "c6166926e5a7c0f3c3d83094e7d8a85400df3185999cc5ddaa8b7741a725fe52",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 9378,
-        "title": "عصام عبد الفتاح: لهذا السبب لم نضم حكاما من النخبة لمباراة القمة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PUlc2YUpiVmNVZldTRkVuQzlpTWJWN09XZWhtUHNMZHg0dnlHT3F2TS1rQ1ZfYVFuWWktY3UtVjVqV0RJOWpWS2Jvazd6WUk10gGGBEFVX3lxTE93NWdMbnR5QkdjUVAybVVOMUVUeUNSZzYzcmJrMXVuWGtXa19jMzhaRWpPSUZnUkFHa2VQNmZPeW5xZ19ISXRoeEV6c1JyQlhzcTB5YS03OXFuRW1jdDNKa3Z6ZUg2UmxrREIzTU1RTV9VMHp4aEdVaEtZTmJrbkF6bnFzaVFFVDZXb0U0Y25oOTh3SDhmcGFJZi04R0l0aTdsS1JzaVh2YzgyQjAxd3A2bzBlUHJVN3ROM1hsMTZaS3V2VHlteU94RXFqT3l2NFpPcXhKRkt2eE5RNndva19sR0VtV05MRkRob3NiQ3hxRnV6MHdCOVo4OWRKYUEzeGwwRHgtTlhCT3JCZkJUZGp6UEp0dzRab2REbl9BXzY5Tmw2ZTF1cWFmSlhpbDJGMDI1N3BpVEZ6cVlIVFNtQVVyNHZyOE1PejlScmhlTkpkUng0UVN6OHE0X1FVRzdHOUZxU0pzWmpnbkE3bi1Yak4tSmlNVmVHeERDdV9EcmJHUHJKSUo2WDU0ckVKeGZJUGJzaE4tVTRiMWdkQ0doM0xPcmx3akY0eEdabXMwb0pMSnBaSTUtMGlzNW4xN0xHclpCOHU0NFpmN1YzTHdYYzlnUmFSMF9ETXliMUdoWVhNMEZaMUp5NjFLMUsxMDBBYTNhUWFDMFJiR0xZT3kxX3RNR1AzNzR3?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 22:27:00 GMT",
-        "discovered": "2026-10-07T06:34:19.450318+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "عصام عبد الفتاح: لهذا السبب لم نضم حكاما من النخبة لمباراة القمة FilGoal",
-        "player": "",
-        "content_hash": "4aeec933c652fff119cc8ec06c3365b442aa4dd47b211c466d2a3b1906cfd058",
         "sent": 0,
         "section": "transfers"
       }
