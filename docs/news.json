@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T17:37:26.272796+00:00",
+  "updated": "2026-10-08T17:54:47.539309+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -437,6 +437,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 9870,
+        "title": "هدف وادي دجلة أمام الاتحاد السكندري - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxONEdPNmQ0T1JiMVhRajEwNW1GWjhfRHN0TllhOVdRdk0zLWJJX0huRDFHcGhycGxSLXU3MFhvUmZEckl2SWY1SV9ONUtzS2NYbDNxTjdSUUp2V2JTU2MtVEQxc1J4bWk0WV9xNmM1TjQ3R0NySG02VTlhU2MtZWdBemxvNTU3M3RjTTJacEtOMkV2a2ljeVBCQXZGbVNLR2V2RU9zZV9mcXpMT3VBOXdpUUNnbXFpdEpId1JDZUYtOTVtSlZINlZuaDV5YkZwYVhXRzdJTEVHRXY3QjZiLV9hTzJLZTN4R3p0My1FbzVjV3AxWHZwcDFzNkI5QUstYTAtemZxUVV3NkUtVGtWUDFGaE85NEN1d1AxZEVOcXR6aGVOSFJ4dlpjRU9SSXNBV1JqWjM1alhnNWx2RmN2VEh5bW1ueHVYUnVvTXZLN3BLYXpvMDB2dmkyTVdzcGlSdzNOeXBfeGQ0ZGY5Zw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 17:41:00 GMT",
+        "discovered": "2026-10-08T17:54:28.507076+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "هدف وادي دجلة أمام الاتحاد السكندري يلاكورة",
+        "player": "",
+        "content_hash": "3c110064b5c5ac40cf1a4173c525ce891176276069a58ef0453d652890b6b41a",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9869,
+        "title": "أخبار و معلومات اللاعب Souleymane Sy لاعب نهضة بركان winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSlNzcnBySEZqSlZiOW81Yk1adG1pczlJX2R0NDFyLWhlX0ZFU29xajNYSEplcWt3Y203eDZISmJOdUJaUUdNQ253Sy1fcmN6MW1DeTQ1NTM1VnhzaEhHQzBGblYzLW0wWXJZQVFFNzV5cXRuOUMzaVg1UFFDYU9zWnBmNk5sQjA2dWhia2FUSkRDUUs0R0IxSzhTdzJfQS1manFNSWxVM014LW9zWUR0M2Nrc0tGeXFPSDlaZGRPSjE?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 17:40:36 GMT",
+        "discovered": "2026-10-08T17:54:27.659915+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب Souleymane Sy لاعب نهضة بركان winwin winwin.com",
+        "player": "",
+        "content_hash": "bafdff10f8bc1e6f2a85b37912eac96f49049272d3a2b7d1bde7794aac6aa19c",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9861,
         "title": "الأهلي يتأهل رسميا إلى نصف نهائي بطولة أفريقيا لكرة اليد - يلاكورة",
@@ -1202,38 +1234,6 @@
         "summary": "الاستحمام بماء ساخن قد يتفوق على التمارين الرياضية في خفض ضغط الدم الشرق الأوسط",
         "player": "رياض",
         "content_hash": "8b8207b6f39e750de3da43a9a58d3177943b3c7d4ef1ec8c6364df3e50d4c1c7",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9765,
-        "title": "المغرب والسنغال.. جولة جديدة في \"معركة الأروقة\" - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPZG1SNE5fSkxUTEhkQW1zOFFtR3l2VURId1gwRjZZcnZnUC02azdrNWlCcnRRMVIxS2FMQkN4QkkxWllFd3JuUWU0S0pkRC1jRERLWGRfWWY5TXNaOHdxV0UxbEdZWVV3cWc0R01KbFJYbVY3TkVYMjMwejNwN3BSZmpham9jTnBjcEpPWVJDRllCZDZMdmZmUUhoNkdaU0dtZ0hubElHNVpBbkFPYXdCU3JXeEdJUE9VdG96VERFV3NoVTE2UzEyaEFBOVRtaHJudmFHM0w2bGN6OVJndjU5eXQ4Ukw2RE9LNU9VNWJzeGZjZnUxVWlQZjZXMHlWN2gxc1diMjB1enhlcHhfeWRJOHRpUU9BM1N0Q013NGlia0Eta1hmbFltM1lqTXFjcTdvVnJuTEpRYjdzMHRwMEkxQUxRR0lYVmhrTjk5TU9oeWLSAdACQVVfeXFMT2RtUjROX0pMVExIZEFtczhRbUd5dlVESHdYMEY2WXJ2Z1AtNms3azVpQnJ0UTFSMUthTEJDeEJJMVpZRXdyblFlNEtKZEQtY0RES1hkX1lmOU1zWjh3cVdFMWxHWVlVd3FnNEdNSmxSWG1WN05FWDIzMHozcDdwUmZqYWpvY05wY3BKT1lSQ0ZZQmQ2THZmZlFIaDZHWlNHbWdIbmxJRzVaQW5BT2F3QlNyV3hHSVBPVXRvelRERVdzaFUxNlMxMmhBQTlUbWhybnZhRzNMNmxjejlSZ3Y1OXl0OFJMNkRPSzVPVTVic3hmY2Z1MVVpUGY2VzB5VjdoMXNXYjIwdXp4ZXB4X3lkSTh0aVFPQTNTdENNdzRpYmtBLWtYZmxZbTNZak1xY3E3b1ZybkxKUWI3czB0cDBJMUFMUUdJWFZoa045OU1PaHli?oc=5",
-        "source": "الجزيرة الرياضية",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 09:52:45 GMT",
-        "discovered": "2026-10-08T11:24:19.714589+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "المغرب والسنغال.. جولة جديدة في \"معركة الأروقة\" الجزيرة نت",
-        "player": "",
-        "content_hash": "b143ca089e1a24cf11240e80993b1664663ce390097d184bc9a29baf146ebee5",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9754,
-        "title": "الهلال والاتحاد في قمة لحسم صدارة الدوري السعودي - اندبندنت عربية",
-        "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNbDlvRERVWENXNjU2LURpZVdjZDVfV2RnekR1X0Zsa2s0RGRxa2J3SFNwbWJpSDBiX1V4LUlSTXJsVlQ2SkZjRVNOTjRVNTZuNVF5cFhMRnVtcGxZMURnaXpWdmoxaGJvMXVObHNDQVFKaWpLX0ZuX3F1ZnZtTjFWM3Z3d2lwdUswQnN2NlhQdzR2RTBsVlZmMXQxem4yU1RHOWxGM3RmRmFvdDdiaEJkUjNkVThFb2UzYU5DVlZHck1uTy05QkZQc3NKRFppbXBSeDFRYU92ZU94VXZlYTlremFQNVRTUFR2Rl84cmlRTmF0RmNwN1U4YmxNRHYtcTJ2RVN1MUJjc3lCTUEweFg4bzRqM2F4d0NpX3JxOWZVdk93bkg4TTRmN3J0ZlNOU1JyUU5fR1ZVREprRWdPZVpPVXB1QkNJbW02YWtNdzJhUGgyQ090OGhmMVBYSEp2UjF2WDViWlBBOFhDVFlleGkzcUdnd2phbG1xWkF1dHM0N3Ziemh5ZFpib00wbkt6WC1KM2txdFB3bnBLMmdHdUF2YjV5Z3k0ejNCZEZmakJ2OGREZUxud290aUdUSkVSeV9vSGhYYXpMemlGczZPcDBaQzE4anU?oc=5",
-        "source": "إندبندنت عربية",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 09:30:08 GMT",
-        "discovered": "2026-10-08T10:13:44.580185+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الهلال والاتحاد في قمة لحسم صدارة الدوري السعودي اندبندنت عربية",
-        "player": "",
-        "content_hash": "ff315ba4fa88a9316d6b00fd6c53fa75b8ff8ea35880827d0406a91b33fddc1a",
         "sent": 0,
         "section": "sports"
       }
