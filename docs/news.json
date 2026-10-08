@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T07:50:43.379417+00:00",
+  "updated": "2026-10-08T08:03:56.016261+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -292,22 +292,6 @@
         "section": "morocco"
       },
       {
-        "id": 9223,
-        "title": "أجواء غير مستقرة وأمطار رعدية مرتقبة بعدد من مناطق المغرب - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LamtDbnRub2RxT19PTzJqeThMalVXU3BHd1l5TlNEUVBqbFBhaUs2RmxvcFZZZEQxaXhvemdFZnMzNmFnVm5maQ?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 20:31:00 GMT",
-        "discovered": "2026-10-06T20:38:04.444063+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "أجواء غير مستقرة وأمطار رعدية مرتقبة بعدد من مناطق المغرب Febrayer",
-        "player": "",
-        "content_hash": "c163f3bf92f56dcce997c2b50f3cddc71fc4da2eb16b4ddc924f19ec4e13db0c",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 9573,
         "title": "بكين: إصدار كتاب يوثق رحلة الدراج المغربي كريم موسطا من الدار البيضاء إلى العاصمة الصينية - | MapNews",
         "url": "https://news.google.com/rss/articles/CBMimAVBVV95cUxOUHhWQ1EwQy1ZOS1Wb1I5U0VoT19kX0tKRG80WklFUWtGMkliNXhjM3hZY2tFMkJ2RjFnMWVPUjVSdVpzR1VaUzI3R3ZxdG5jZkpxZ3A2VlF5MlRMTFZyZ2RfOWZyakFLWXhuRFc2VVhfTUc3SjNWTERFRkloVG9ibTN2NjBaZ09Ed05jbzlCT0JqVnBNM3EzZFpyT3I2cDBYTWhpQUVNLVJrMmYyN2xwMFJ4TlNZT1Zla3NFZkF6X0d0dFhSNlFwLWpXNkVWelpidzZUX25EMk9wYzZseXBsbzItcElSZHp3ZGtWeWltbXE5NDI5aU1hbElmdEl0OGZ2VjQydTM1VUwwUnIydjM0dmVrdklnM2g3QUlKYXNPTXFEVWNiZmRzbUxnMXowNEFReHJ2MFdoXzhwME5FUlYtMHQxdmJZV085UmhHNWNsdlVpUlcyYW54TzVOOU51VTNoQUlBSktvejhWTnFpVGxrMVlqVDJJT3l2NVhZY0hzck9ibW52WVNHS1NGOVJXWVNhdVdTbGVjdVhmWTd2Y3JFZWpPcXZDRTAteV9ldmp6ZlFTbEF1YjUyLVFuQzVrcW45VzBCeE1qeE45UFdhSjdHZ3hBWUJqOGVSa1g2TXI4UlhEQTJWVFNGTTZHbTRDYnFsTlRENUpGUHFBbGh0WHJFaWdfbkhwRmFpRDRDLWJuRk1RUzhfdXRvbTR5cFZpYVN5QjNhVmFMdGVIck1Rd1BmZGRmLXlPVzlVVUxVQktEY2RkRWFsc0d3dFNhZkNJMENLVnBWWTRZQ01ib0ExMUxJbUpTdWpoMjNRb2ZEMS15UTk1c2l6WVFsNVJWMElzMExOaDJtNDFxczVyWnVzdVBHck1LUlhfclRS?oc=5",
@@ -549,6 +533,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 9719,
+        "title": "مواعيد مباريات اليوم الخميس 8 أكتوبر - كأس عاصمة مصر.. ويد الأهلي والزمالك - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMisgRBVV95cUxPeUUwZ3V5UFA2Mzk0X3dIOU95Z202UHR4MGtJNXdXQUxoWUZGXzB4VGlmZ0FtNk5JTTZ6S1VtcExsM0NiYnlmSENCRlJ3NlBzXzE5Y011MTVITVh5dllkN1ZnazJHUm5EOUN6blZUdXQzQlFOeXhHajAwU0hyX3BuWEQwMVA4eml4cW9fc3ljcFR1RTAwaUc3NmhzNm9HQ1VWbjV2U0NQdDVrTTRMWTQtc3NVYVZLNVFnSzRDMFV0U1JWYjBtY003VGRSZGV6Q3pGZHVoUzRqZmxjTGFOdzhyVWYycUFTZ0NqdnpkTWpuYVdlRUYxX3IyT29rVnUtN3VGOXRBTEdIcHJSZ25hZlFCTmhfZXFoOWt5MVBvaVpXVEdpOXQyNExZNG9jeVZ1S2pwdHVwcmp0d1hZamhOdWIyQVlvM3ZkZG9qcDBiQV9iSzdoekFsUnNrVVE1Vl9Lc1g1NTUxLU5kUjV2cEl2Y2JKeFVQZGpHdjZSSUs0TVgxR2tnelB4XzBmcEV5RzhmM1d2ZnU0blppS1p4UWphQmI0eHhua3NfQ1dBSGF6ejhTYXBneFdEQkZoczFZcUFDRm9TbHA3VkRqWFBTdU1YZnhQN0VhWnV0T2dNNTNDNmNYSkxxeDlCQzNmYTloODIweVh0cjkxTVlaeTVDelN0a0RYT29rS1JlUTd5bGdUSm5ENTNNUVZ2eElWNVdfcWxYX3dNMUFxTmNmRHJLcGpEQWUxb0p30gG3BEFVX3lxTE9PZFQ1cFJNNEthajBYelduaXVBRzBZUEhLaUhuQTRscWJJZmswOVJlV1NjZXE4dUxTSUNYQWR5dlFsNW9GR2pkLTlrclh6NFRPV2NmSHhWdzY4cHVOUThkTXN2TDFIbXVqbWprQldIM2w3VDAzRTh6OHAtZjJWcGRsQ3NrOVJlSktuZHZ3SWZCX1h6YkRER2tWbmh4TTN4MUd5WTE1eTVWeV9vYlFaN0xlc1QtMEotV0hOSThveU8wYTJfS0luV1VDWUlrMnRiSEtKdWlNNVNENUtNZFdsWGFGa0x4NldzQl9YaWJKcldZV1V6TnhqeE5IOWlpU3ZmLV9rYlY5elctMUF2STd6SVJ5b09heDIzSVBVcjJMbnZkRkNycndkYUlGR1pyNUhuOWhZYUd4NUROTGhRMFFtaXc3Z0xQYUNwY3JEaUNtcWxJdHlHYk9BSzBQRldfcUNhbS0tdWlIc3p1MlBGU1dkaC1MZzRxZjhPT002Q1JILVNwX0pIOFp5SnJlNXhYbURHZVQ2WVFPdmd6bk1TTDVDejN4aU1URzdPWXpaREVXN1o3T0FPaDlVQTRaTnE0MlhPbktmVnNNbmNIM3Y2a0NuQkNCcEhFLUNZaTdLSU9vejY3eW9yOVhsb2piWVdBZmphdUlFT2FzV0hvNWdZZ3lGc0NKN0dVNi1LVnRiNHVQSW9ReFZhNUc1OEtENmJEY3lJSWh5dkJ1eVNCamtLbjNWVFppYW1ZeXowVQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 07:52:00 GMT",
+        "discovered": "2026-10-08T08:03:43.058628+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مواعيد مباريات اليوم الخميس 8 أكتوبر - كأس عاصمة مصر.. ويد الأهلي والزمالك FilGoal",
+        "player": "",
+        "content_hash": "d8ac957e8d390da2d385b8650458963b865bce0ed8b652659cea80a93cc27b53",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9714,
         "title": "هل يقبله؟.. رئيس \"كونميبول\" يفاجئ ميسي بتحد مثير بعد مباراة الوداع - Kooora",
@@ -982,6 +982,22 @@
         "section": "sports"
       },
       {
+        "id": 9721,
+        "title": "التحالف: تدمير 82 هدفاً عسكرياً للحوثيين... واعتداءاتهم لن تمر بلا حساب - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMinAVBVV95cUxOcnZfSDhURDdDLVFNUGRhNmdya3l4bkMyaFRsSzV3UUtJZ3lzWE5TYVZvV3FUc2JNX3hTb293TTB3aWVfbTlPTDhDSVM4X0NZWDJ6eVZGRm1WYlNJNXZLcVJrV3d4SnFEeDJzRHN4Q3JxQ3ROdW9iX3ZQZVRvQzZrRkZSXzJhbG1PVWRsMmZzTDQxakJMYXhmRU5vb3M4Yll4TS1XcXNqcVp0c29jMTRiT1pIZjM5MVNsUGsxcWhuTWRTS3JXX2F0U1R3MEMzTk5yR2xPVm5xbmZQekg0MWhGLXZfeENBcFpMUnJzRm5xZkp2M0JKOTNnbWhNRVZ3SGZZVHAtY0poUW1LelN4bExaOXh4NE4zdU9DWDBjMXdONUdDVmFKSnJJbkJzaG1ocDJ6Y05UYjV6VFphaHZoaEQtaGpxOUxQYmtCWWdvZDVFMW8wd1Bhb0dSVC1LcnhOVl9VNEJTUkR1bUc5dUh6SHFFM3p6Z2VVODJfNFdhNFlRd1k5Y0pTLU92aFZINVgwN2Nxd1ZpUFJPQl9UVnlZZzRZS1hma3BPaU8tdGl4Y3ljRTExaTFnSlFnTS02cTBmVUtOd0pHR1VsRGplcmRBNU1WWC1wSHNxaDFHSU9rV0toRVFpZHdkOHFzX2tWVEQ1aWpJdkdJX2VHVDJfRmR6NmJsSERwbUVrdXh4a2JOQm50Tnp4eFY5TnB5aWF3bjFyMkFDQ2pPcTktRURNeC00OG1YTTgyNW1JMVpXdDhoQk8xSWU2dEdIUXFIdU13LW1PUE5fSzBWRExZbF9zLUM4WHQ3c0NraVBGakh4UkNtMnR3bU5vczN6YmhKNjB3eU9EN2VNcEhLZ2dtYzJPZWdpVXU2U016MVBzZkh3ZU1KUQ?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Wed, 07 Oct 2026 21:15:05 GMT",
+        "discovered": "2026-10-08T08:03:50.864123+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "التحالف: تدمير 82 هدفاً عسكرياً للحوثيين... واعتداءاتهم لن تمر بلا حساب الشرق الأوسط",
+        "player": "",
+        "content_hash": "dd16fe1ccc0f14ab71dfe4999c792fcebc1f71eb77c10eb1e87504455e4f5c60",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9665,
         "title": "شاهد.. لوكا مودريتش في زيارة مفاجئة لمقرّ تدريب ريال مدريد - الشرق رياضة",
         "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxON1JNeUpEeTJJanRTVkxIVGdzQnMtMEhZZXYzRTY0bU8wVlRqb2RHM0tqU2xlOElXQW8yeVV3MlBHSUEyWXRvWGFnM1llQ2NoZEVtTkxEUlB2Z1ctWDJDWDFyUnVvaDJ1YWxOY3dMWktLZjB3RXNCMlhxVjVXcUdfX3hJOUJ3NlBRVGlFSldCRmJGYU9xOGdwSWlEVmZGT3g1UW5GYWZON3V3MGxfQ09BaHdIbWFXdzNYVUtOZlhYR0JwZDdvMWRrZjd3SXZjeFRwdDc1ZHNyeXYxRUtwakRPNFBBY1BYNG1qbVVsTWJpeTlPYTFqbnF0TVdtLWJtUVFBcVZybkJhdlBMS3ZTWll2OE5HcGZ6TGZfR0E3STVDcFN6dHBoZVhvNjJZdDcyVUJwWVQ2U1BKLXNod2xGcC1sbzFZUFdIMklNX2lnQ1NQcXNBQnhsY0Z4NzI4cDNRQmNsSktaWDJhSm1XYjdHdldvdHlSUnQ3aGZLRUgyOFlVdXBTcUFxTjFqazdEM054TERuME5nVUhjVFEtOE4tbFZoSWFhWXQwUXRpVXp0UzhTbW1xV1k2dGo3VE9GS21fVFdpRXVHbjhpMU5pcXBoMjdabTJTaGZLY00?oc=5",
@@ -1316,38 +1332,6 @@
         "content_hash": "82fb405f5a0d7fc0cb7ccd05104733c23b6f09d985372c9673461b91a6f4c603",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9564,
-        "title": "كأس عاصمة مصر - بيراميدز يفوز على القناة بثلاثية في دور المجموعات - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxQVlVpaHd4MjVTdjVsQ2FHYWMzOExmenVSSXV1REZZMzVJQnBOdVRBOFlJLVdFOWRsdkxWSFAtUWlVZDJnQUtDY1FxZmlJOW94NGNFOEdYbWVXejFFY1B3bktQZWdHazhJYmFndEFmMktIeXdKU3ljTGIzX2s5MTB4UlJTNUVFcnBaaHByVUFvY0g3S2FDSUg1OWpGaVlnNDJmUU5janhheVB5ZkV3RnhHcXo0dTV4bGZwLTZuUFFDc1ZlcDhjN2NvTUZJS0lnci0xbjJNOXI2aUNJeUVvbzl0V3RGekpOMFRxRDY0bzNMUGFpNEJJWnczUHM2ek9vbDhaMVk4ckxYZjZoR0pEazloOC1jZGU5Rk5LeHB6alhhekQ5VDU4ZVNKLTFhVFl4eWcyN214NjNqLTR1ZDdIVkJCUHRuNWY2N0xielpaV29fUzBRalFlT2tVNnF1eHBTWDBvZ3JnbWs4bG9aU1YzRW9KMllTSExOcTNXQ2RldWdaWTNITXhJdVRGMEpHMmg1dGlHOEVCYkFENUFsbThudzhZYV9PWUw5NFVycHRITUFmRGdqYWdFblZ6ZHZuSHVrOW11WjJpN2VLa2djc2NDTmJoRzY0cXVPYWNaMkhIckVvOVRjUXBvUjJtc0pvbTRzbEpCV0dTV0laVEFGbXYtUnBiT1hmdTYxYzTSAYwEQVVfeXFMTWlYLTNTVU9zVWZueTRqNEc1UFpiYlhmYVRHR0ltNlQ3MHdackRTQnpFX3lUZzB2bFhNWFoxekJQdFFoNm1uMmhhYVE5a0xlQlBfaXRXRGxjTld3LXdacjA1eXhRcjZ4TnFVU1F5N0RRNS04X0ZDamJ4TWdpRWk1QnlySC0tS2ZFRnRfamplTXNYTlVNZlUzdERpQktSem5uWHBfaTNxeDVvdFhLbHEzckZPNEYwNzM1b3ZZdHhweDJSc1JTSUlUSTlUMXVSczQyVGt0emwtTXVock5rZWtqdENuSXpBcklsekJjVXVHVVJ4Qmd0bXMybllYNl8wTVdpUzVMR24yRC1oY3FIMktRSThkdW52Q2tuaGpSSnU1LTlaNm01SWRNd2t5X3ZmY0k0ajM1XzMtRWhibnVVUzVKQ1k4WkVSc3ZuQ2EzLXc0QUZ5VWlQUlhkOFhuYW4taW9QTmk4WEd0WmpMSm12b3puOF81MUFUOVYwc1hLX0hyZXV2aE5RWW9DeEEzUzV3TV9jQkFqckJ4cV9ydnVTQ1BOVTJDbmVFMHlyWnRHZENMRE9VaWU3SWo5MG94azZoUWJucU9oSldEMGpDN0VTT1MtTGZLaENfcWxBbGlyVUhTblBWelM5eDY5ZUhyRlpOcVZ0d3FuNE5HSDcwTVlOVmU4RmQwZVd2eTYxTWZOOEs?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 19:25:03 GMT",
-        "discovered": "2026-10-07T19:40:30.238162+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كأس عاصمة مصر - بيراميدز يفوز على القناة بثلاثية في دور المجموعات FilGoal",
-        "player": "",
-        "content_hash": "da22344e50a78dc95c52672d8c75383beebf1927fc0cfa31282dd50f508c20e4",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9631,
-        "title": "محمد شوقي: تجهيز اللاعبين كان الهدف الأساسي من مواجهة الزمالك - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxOT2Z1aG0ta2QwbHF2OGZuZzBTTV9FM3RwTFlCalhJbi1qaFNjbk52RFVqMVg1ZmY2NXI0QkhIa0FUMEFodXMtMUFsbnVfMVAycW4yTkVBT1VxT29IWDRiMy1tLUZ5WkJtMEZVeHV6MGI4Q0puY1BDa2NNaHViajc2SGdFQl9HU19hNkN5dmdSa0RHSElDTmp4LXBOeW5ETFdTSlhVZmpmUGQ5eFh2bHhQTHlqem5OcElXcGxMRDFBNV9qVy1NXzNhSnRlZHA2cXFZM2NHa2g1Ul9YMG5jSVZySXk4MHk0OGZkY0F4SVdiUWxMZzFxTVVHUmRxaENuT3l1R1pPRnUwTjVSNzVHSUVweVpNNkxqOWdqcFlnVnJyUlg4Y1lDSEROUlIySk94UlluVGljVWVwb2ZndEVwN3ZVSDY3MXF5S1EwZ3pQa1QxTUZLMlRlbEh2TWdQUG1UV3RXVnJ6OW82cUZWZE1ESlhlLUtxbGpFWlZpTHFOOE1LQWljbVZNYWZmODdGTGttV2wzbDR3VUR3WkNmZnI1eWRfTTQzU2ZQMFNrN1hJYlg1djNKVjBIUVlmZGs0XzBMSmd1Ymw0N3dxUWl6V3BaN2NmcUJpc1V1NTkyRnpGN3VaWUxqb1BRYmJlRzNiRlhXbXZOck5IVjRR0gH7A0FVX3lxTFBIaDZ1QkIyZExiWkxid2NoRjZWcXd2YjFlendpODBWNm5TUXpxaE1Wai1fb21hZnUyVGVFbjdPZkVKbHltM1hib2poOHhmdkRMTC1PM1kxQ095MWxZZ3NhSk9MTWJCRWdSNlRhQ0lBWHhDSlRKNFFZT1ByY0VSNjdLVHM0U2wxRldBY1J2MGhPU2J0OHBwYnRnYUxyUGZXTl9yWXl3VGsyNDV0ejhyMkVGYXZpN0dMdm94d0xzOERYaVcydkdVZmViN1JWRkJ6enZYSzR3MmxzbDl4SUZfa0tRY000a1lwaGEzOUIzWWY4R3VHbkR2bHZqZHdFLUFPeUk3X1g0U0hhSUVwSmtrT0dJWmM0WUg1TTc2OHJ5QklseWNLemhxajZtRmdIOW1odG1OUVRtbUgxaFZDQVQ5NElmaWxFMFFKZ2xLZzE1Rll5d2tPZHE0ZTFtbHFWNjVXMzBzU2ZvSXpPTDMwU1pTNWR4c3lpMDZRcm50c3AzT0wzTUJxU0Q4cEU1eG1hWVcwanZ4c3ZSYnBNZTF5VnBLMzJra3pRM2k0d0syUFlzbmJvclQ2RWpUWXNSaV85THFqaWI3VFdaX0dBTjhrc0U5WThmT2RjS1ctVEg0Z3BmMFJ3TnQxSUxEbTVMcVZ3TC1HUUpBZ2QyZllnZUVfRQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 19:25:00 GMT",
-        "discovered": "2026-10-07T22:59:54.379241+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "محمد شوقي: تجهيز اللاعبين كان الهدف الأساسي من مواجهة الزمالك FilGoal",
-        "player": "",
-        "content_hash": "435d3c4dc89cba9f6f9a3a1d02381c769bd57eb6a93badea905646a061c1c512",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1364,6 +1348,38 @@
         "summary": "كيف سبقَنا الغرب ؟ - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
         "player": "",
         "content_hash": "4be0fc448c8526690b59c228bcbd8f454bdfc127ce3cc10b346d4c9a94cd756e",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 9722,
+        "title": "واشنطن وموسكو تبحثان صفقة لاستئناف ضخ الغاز الروسي إلى أوروبا - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNdzBoVHBUMGZudHYtYUlCWHZqbGtOLXlNU3dkZWsyX3JYaWY4R2R2VTMwWDE1N3lYdkkyUnU4Qy1WYlFIbVRjenJQWEVQam9UWXFhbndiYmhxaDYyUXY4UFAwdWZlaFJhemswcUNWelNDTnVKN3FLR211d01OSzh5Nnd1dW5nYktiTE9tMndkMS1OUnl2VkQ4b3dMa3QyY3RnTXo1b1dRenkwV2hPLUt1SFI0Ul9vWmRtcDM0ekxRQXFPOFIzbk9uMWNfU011Y3V2dHdpc0s4Y2xzU3liM3A3NEFrZFUwNWtXdDA5OHJOVzhKZERubWRwbmJ2bVkwNzZnX2tKYVBTY1A0WHBRS1BUeEpyQ2VYWF9JMTlhQl96MFhMSmRVdmVoS05OYXhtQTBYUmZETFdIb3pjZHlyNjNJYjgtajFndi1sbFlDS2tkSVN3NUFDMmppb181cTZ6dHZFWkluYTdpRG9nTTZUckxnS1RTLUI5U1p1aDJoVWJNMU80WDdsWTVNeTdOUmYycF9POFR4TDJvNzlMR1JTMFhSMGwyLWdmMHZsbXpSaXJpU0VvZGIwQzZmRzdaSFYtZ284VE9EbXR0SVp5Y01seGVRWVVXZjg4eDh1QlBHRUpkekp3RDQzSmVrc3JDeVJCRm81ZzhQYndB0gH7A0FVX3lxTFBTUDd3SGZvT19TMWYzdENmMDRnOXV4bWxJWjhUZE82OThYY3JJWmlrem5XdHF1aEg1NjVuSzJfNDNIR3pRZlUwa1BPWHNvbnpWNjRxWl9TYXNHM2pIZEs3djZlbFdwcVFIU1F3R3FIN2ViZURESzFtSTA4TE4teGdXY3B0TmZ1UFBpOFF0QmdrdWtyakFNVGRIRXd5c2FYdXlJQzNpZE5kckxSRThGSFNKREt5MjNlYWNHS2hGZXJxdENBUUpDLUhqYlROV01UeVBRVWhJLXF6QlVzckUxbXdFblhXNDBvbVExZTl0S3hvZDFUbkRfRE94UDQ1akNKOWZEOWtTNmtERVVQX1FoR2JRNXZveGVCbE1FZzNtX1BxNHNJc2hCQ2MwX3VvXzFQSl9ONU5EV29TYjJFUmdRSm9tTS1rOTZ4d19JM0hyRjRpZldZVG1hMElSTTVQeENpZWN1Yk5BX2paT0ZBOVM1V0pMLUZaNmx4RWxsc0haWkZSMkFuaTRRczV5M3hoV3U2bEIyd0thX2xfekxxaFFLTUVSaXlGSHdMbjl2bTNmbTFoNmI1SzB1X3B5RFNjYWp0WUg1ZDdSVTVmeTZoTjFJY21rUGxIREplakpWRkJNUEJQZFYxZjZmQmg0Zi02MGp0Vjhzb1NRZV90WTBaMA?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 07:17:36 GMT",
+        "discovered": "2026-10-08T08:03:51.458122+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "واشنطن وموسكو تبحثان صفقة لاستئناف ضخ الغاز الروسي إلى أوروبا العربي الجديد",
+        "player": "",
+        "content_hash": "a9a04aecb9f59e4bea6860e8a4e569568782b5d7cc67e9be9e22a04cff7fff7b",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 9723,
+        "title": "رحيل الممثل نانا باتيكر.. الهند تودع أحد أبرز وجوه \"بوليوود\" - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxNYWlzU3BXcEpjeHpJdXU4U2JlQkVTY05JM3BsQnlyNm0ycnhvOEt3SVNGbDdxWUxaU1pSNWVoOVNicWdZRllOdWhhRXNNS3RTZ3lZMGNjVzl6VVEwM29EcXdMUXNfMjYtVzJvSDlzT0h4b2dRX1RNRldUY1ZYN0RMa21kc0JJX3MxeFF2TGtfdHBxS0ctaDB2bHRMaU4wRkRsSHoxQUR5ZFVZbVJ4UTN6UTFXQUlwbk1GVktodXpKM2lyLVFta0p2LTNuM3VITlo1amlzd3VHUXFMU2RUeUFZZ0NRMTR6dlF1V3RGUmZQaW12TXc3ZS1XZFdsUTgzand6MmZCYjQxdGlZaVQwa0hnWWNZVUREQmlmdU1TT1RBSTJYZ19BTVIxX2ZJM1RqSVlBY3JabjJqNUdxVy1sYlByNUVqN1pJZnFpeWJqa19vWWNRc0NFQzhKeWtNMTM2cF9VYkRwejZNYnBSaUVlQ3RLR3BNVTdLb3lrZk0yVFpSN2JKeFdiZmdERFVSaUFVbk9YSkhPUDJPVmJ5MUQwVm41WHp6MWJvTWVXb1RKbHVlYjlnZFdfRWFObjR6cXc0dEd4SjNGcDFNSENLTlhaUVlQZzlBaDdkNHRhbmdFVnV30gHjA0FVX3lxTE12VkpuWXdsdWMzcDA4MVJBOEFSbk0yaUYtdDdPaWgwZzFsdi00N0lpSzhFeTFyVm1oaWlqaVZrdi0wQTdkVmpJYmx1TnllZVFuQVBTRXlXQl93UVlsWUlGREZFbXdiS3E4aF91V3ZYVzJKbERKSFdFUjMtdlg2NlNPYkE4RGRoYWY4SEFHNWt0RTAtTmxLaWNxODh4WnlZTno3Z0dZQWRvelMzaWhhUVN4eFlXd1RGU2p5LUxkQTFyNVViS2RtUGF2UlBSQkZFdDRGT3dXQnpLMjljNGw1UHhodERReGIyUHpja0c4VFVoTWgzeXF5cVE0RWtuNjNaMzVLMi1IMGtWRmgzRnEtNEtDSGdQaTJZd2F1R21henEtcHNobFpkM093cEpNZHAzcWg5Z3ZOb2xhM3VBeTFPZFlvalYtN2RUcThzTC1BU2Mxc0RDUUNfblpDNHBYTWxNdWE0RGZQTm9DRzdqYlZGZFY2Y2pLTWlvLV9EMnRKMGlxLVprRWdNWm1kT2N5ZmVaU3pKZGRIVUdzc1dhVmJmU3ViMldRTDVVdGlYUE0wNUc4bW15MnhxQTRyUWQ1bmNpcE9JQnVWbGtURFdnVTBQZVpYTUdReVZTT1VkVXpmWkNKS2NpTQ?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 07:01:06 GMT",
+        "discovered": "2026-10-08T08:03:51.477502+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "رحيل الممثل نانا باتيكر.. الهند تودع أحد أبرز وجوه \"بوليوود\" العربي الجديد",
+        "player": "",
+        "content_hash": "7e4d16be3caecfe7fd68f3e593ff6b9610626924a07e8c698f3ffaaf30edbf21",
         "sent": 0,
         "section": "transfers"
       },
@@ -2376,22 +2392,6 @@
         "summary": "التحالف يدمر منصة إطلاق الصواريخ المستخدمة بالاعتداء على الرياض اندبندنت عربية",
         "player": "رياض",
         "content_hash": "ea5fa8f2cf5caaa042d5fdcf83755bcd2d7acefde8c126905023f9c47755ab3b",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 9221,
-        "title": "إسرائيل ترفض دخول لجنة الانتخابات الفلسطينية إلى غزة والقدس - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNNy1LeU81TG1XNzNRTncxcGYwSzVtcDBORnAtTUM4bFhFWldObnF2WHQ5azlqdnNTTkFNcnloei1IOUl1Q0MyWnBCWkdhZzNTQXZRQW5SUkVfdzJKdlhiQXRvbU1ILVgtdTItTUxvYTdCY2YwWDNkWlNjUmNmMWZjN1g1YXRuTFNHNXFsUTlvQVZlTHBkRXlObk82M2FGR1pBMk1Vc3hIQ3pkbkx4SHBjbmpnRUZZcmhST3gxdm10bWVsN0VUSFZoeEhHMkt3QXBBc21YMEVnN1EzZmJWVzg4YkZ1YVhHbnNDVjB5MVdXY0FWUERULUE1TkJaaDQ0UjUyV0dDMFFUcnppNDNfMm1mR2ZJdFFMaGxETHBQUXdTOFRRN0pUREltellwT3lGSDdjcExLek5DeTF6T05PajgzOGhIN2pkdw?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Tue, 06 Oct 2026 19:28:40 GMT",
-        "discovered": "2026-10-06T20:20:33.903092+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "إسرائيل ترفض دخول لجنة الانتخابات الفلسطينية إلى غزة والقدس القدس العربي",
-        "player": "",
-        "content_hash": "3724e72c7c20e83d179dfd3a1b52c24a1d4273f294e995db44ce84d93b7444e2",
         "sent": 0,
         "section": "world_arabic"
       },
