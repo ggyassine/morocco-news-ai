@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T18:52:00.759258+00:00",
+  "updated": "2026-10-08T19:06:05.524954+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -80,6 +80,22 @@
         "summary": "أمن مطار الدار البيضاء يسقط فرنسيا من أصول جزائرية مطلوبا لدى «الأنتربول» في قضايا المؤثرات العقلية Le 360 Arabe",
         "player": "",
         "content_hash": "d25471043194c03ed31137ade281f296a2b3dfcb6a901dfa77710b0e03f274a2",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 9897,
+        "title": "تسعيرة الرحلات والغازوال والتغطية الصحية.. مطالب سائقي سيارات الأجرة بالدار البيضاء تخرج إلى العلن - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nOENJNFJTWUpZamRGX0FuMFE5bGZ4RXZjOEpfQUEtZzFmWG5Oam9pRXNxTlNPOHBIUWVsU055aHhGNGNnSWNjMzljd1JZeVd0SXdGZkEzc25aYzdnWXZEbjBXMXB2RkU?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 12:51:27 GMT",
+        "discovered": "2026-10-08T19:05:38.470056+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "تسعيرة الرحلات والغازوال والتغطية الصحية.. مطالب سائقي سيارات الأجرة بالدار البيضاء تخرج إلى العلن Le 360 Arabe",
+        "player": "",
+        "content_hash": "4bc867785819253e8f30a7a0751e287214e82298b305cff440f3943a8347218f",
         "sent": 0,
         "section": "morocco"
       },
@@ -416,22 +432,6 @@
         "summary": "الأمم المتحدة: متدخلون يشيدون بالدعم المتنامي للمخطط المغربي للحكم الذاتي في الصحراء Le 360 Arabe",
         "player": "",
         "content_hash": "e2904b856e1f29a5b99b92a679f8e0d79245ef2031ee6252804e2b57fed6df5c",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 9498,
-        "title": "الدار البيضاء تتقدم 31 مركزا في مؤشر المدن العالمية لأوكسفورد إيكونوميكس - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5neVZFd1U4VWsxVElpSEFtSTRfYnQ0MHBmREFBUXVVbFFyeG05bm1WUXVud2wxMndWXzVzb19peVpkbE93QldHcGFqekFjVXprbS1tRW5ETkswRDRyOXh5c3JFMjFoUVE?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Wed, 07 Oct 2026 10:05:21 GMT",
-        "discovered": "2026-10-07T16:13:43.038151+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الدار البيضاء تتقدم 31 مركزا في مؤشر المدن العالمية لأوكسفورد إيكونوميكس Le 360 Arabe",
-        "player": "",
-        "content_hash": "dab85f2b95a69a3fe4f6a8299547b5f006040db019d055a633fb73a3d20a1658",
         "sent": 0,
         "section": "morocco"
       }
@@ -902,6 +902,22 @@
         "section": "sports"
       },
       {
+        "id": 9900,
+        "title": "كرة يد - بفارق 43 هدفا.. الزمالك يكتسح ميكيلي 70 الإثيوبي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzSUlXbGYteF93VTFrVnNBM2VxeWplelV0RXR6dWw5c3hCQXdLRjh2aVd1dWZRYVdkZTZlOV9Pb2JMV0tZdlN1eXllWGdmRVFh0gGoA0FVX3lxTFBaY1hCRUJ5R3BLcU52QTljdjFJREtEQjZoanQ4NDh1aXUyTHAxR1FQQk9UZms4MFBSdFdIclpsei1zMmFuZ0UyWW1oYmt5YzhGMnc2QjlpZ2s3aTVHbGxTS3MxV1Uyb3dkZ1hiSnZ5WTI3WldIeld1UU9wTGstTVNlUlJqay1IOTB0OUlZYVViNTVTakZBV0xJRTktMlJoYm45SU55MDJTRTRlbnZtRWczXzVqcnpTY1ZHSlBfZnhtOVBpZHpoa3dVaXNDRV94OVdfeC1lUHBOT2FTbWxvZktTOWNIcnAxdllBcE5MT3NmODExdTJiajMyOHdQZGRtWVZITXNiS3cxZHlYMlJ4LWU4LU5yWkYzYkVwTWhQWUpaR1JvMjIyWGdzTVllMFIyMW00MmZBVG9hamkyVngwSTg1ejVwNW90M0tDZ2NvdnRWS09DTy1pSDNDUkMwNUVfVHNZbVc5eWtoaU01WVNqLWJvSmV0c1pBU185ZVJKd0wzQnFUWGo4dDlPRXoyblhjekZwa0FIdW9zN0RkMnNDRmdtcGdQbWdERzY?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 15:17:00 GMT",
+        "discovered": "2026-10-08T19:05:50.127730+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كرة يد - بفارق 43 هدفا.. الزمالك يكتسح ميكيلي 70 الإثيوبي FilGoal",
+        "player": "",
+        "content_hash": "04f1ce487fba5111c0afde94beb3b4f83df12b03dc128804d5d79cac72feb927",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9826,
         "title": "\"لتفوز أفريقيا بالمونديال\".. كاف يقدم دعما هائلا إلى إنفانتينو لخوض انتخابات فيفا - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxQdC04SDZHTzhqci0xZmdVQ3V0QUdaSE03RHdlbXpJZ3NPbGhPQmw4cTR6cWtDVzlwLUcyTXJhQko5MTJMOTFDWXhFZzRUMlRPRUpWWVRnQVpwOWFhQml1TXB1Z3ZCeFp6TjBXZjM3Ym1XMEVXSm5wWkFNU2tEZS1nMmxDdTltNGRMRkVPNVBiYnJ3Y0czS1FwdEhlOE5UWGlDQ055NkZZSVAtTDZnQ01YX1I0eHhtQVlNeGRyay1heDBoVkdsS0F5WTVEUEtkMnlWRzVpRjRxejJrdTJ1RFF1cGg2NHJ0dG54dTNjVFBtOHZucVNxYl9nZmNaSFlNUS1oVk5udm9URWRZUGhVc0xILUljQk9IektqcFh3cFladUZWdExqbDVEZU9WYy15U1BvYVI0cTF5czR2ZEF5T2hwNUw2cjNvS1U5dDJScXNFcUo0dmw2UnBZWUF3a0tIenhnYXIzX1o3SW95MW1zQjRzZGRaTkhQMmtZUy14TWFhNXRobnpORUx0QVpCQkpBcl83dzBIQTBXMllheTR0NGFjREgxblBmVEZxeExsS3MyYWI2bEdVNi1DTU03T3ZkbVV4UWhBZFoxcE5oMENTaDdQU2pfWHVaT3NMNHdyRnlvMVFLckZ1NUVMLXhTazRqNzFPOVN1SENXREY3UlBuRElUWWMzTW9Pb05mX3JuQXBSV2RHa0FjRW5mdllFVWlqZWFSNUpRSkUwM2xSRnRfWTVSN3gwNG5qWHk0Q0t3ZFJONU8tdk9OS2dVckZhcDRkZWFWcDVhX25GWkRuX3h1bERBM2FPMkcya0VBbWZ6dEJLU3NiUFU5VjlKWTY4Q1ZFamJGbWV0ZFJSTmZ2WlZZaVgtVzh4SDR0bEHSAZwFQVVfeXFMUEM5WEEyX0Ryd29vWXI0TWtsSVBteVozZ2RSNTRicENKeDdReWVDcHpxeVBDWDhqN2tlUGxpR2xFRGR4NS10TWFCR0ZYTjk4ZkwzSW9weC0tczRWTTdGR2pHZ3JHLVpVUFZRaWdQV2l6ekRXUTB0RXNyLU1KbE10TWJjV0pYV3BHWXFBclAydU1vWFlZRjk5WWliXzBhRTV4cnM3UWw3YmxNTGlMQW5oZnd0Ui1BVlZqbU1BNEc4c2VCM2p0OVhGTngtckp6bDMzQVhHUTQzSTZORXNvTTBOSHpvNUlndDd6YmtMRW1zQ2JWS19kazNKOVBEMnllOUdhQ1JsOXFtNVExVDBBVEY4WVMtMVRJN3lpTHFMcGE0bllDR3RVUm1qN2dPRGtiWkpjeXk5V1RlNE5FcWt4UG54Y2xuVGlqblNKZkNDTU9OajZhUERGT2pGZEVDdk5Vc25wUDdZcnlyczcyZmdDRkdFdjdpeFZ1dVZjVHVyMzdqTEFOcFVvdjR4MTBQU2lxNmc2LWdLdzR0UlIybkFEV3BONGlJZnhHX1JjMHdYdEhqYVd0T2Jqd1VEVi1YQUZncklYa2d1VkczdmV4cDhRN1NfMFJXTzhkSEhITE95ZjlDNU8ycU4tNUZFM0pIUUZXVVVkbS0ySWZWRVByT0U0MGhmSm5kUU1MeHlLMS13aUhxdkx5bHVRWGNudnhWdjdRTjhaUEVyTjkwZERtLS1EUkVDdkhRWFJuMlE1RE9JSUhzMnZqc25aVWFLblg2ckJxblZpVEZNXzMwSXlvcEUtREhicUxrVjd5QzBNQUpfV3dFTTBnVlVVR1ZZYkY0LUhhckJUb1BRTk9LZ21pZkhKZGl6RUowajBXNHkyQTdyRlM?oc=5",
@@ -930,6 +946,22 @@
         "summary": "وزير الرياضة الألماني: مؤشرات إيجابية بشأن استضافة ميونيخ للأولمبياد الشرق الأوسط",
         "player": "رياض",
         "content_hash": "b549c6d36cdd50e817fa658ba1ad1ad1a6cf0de4e962d302b56c0d3cf0dcbdc8",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9899,
+        "title": "بطولة أفريقيا للأندية لكرة اليد.. الزمالك يهزم ميكيلي الإثيوبي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOV1Fra2dRSW9na21yXzVQbmd5QW9HZURSMzFnRldTWUNLV2FfV3FmSE5ZekxtdC1IQ1llS2I3M0VQUUdkQ21QbWpWZkl4U0ctX1pma25NZWg0ZzktYlNtUnhjdV9BSDVvQkNBcnR4QW50UjBQX3h2dF93ZTRjTGNPQUZoa1VyZXJGSmphRGp3RlRSTEFZZEhFUU1hOEd2SXRIZm52c0ppc1FwR2lVdFdQM2R4SEhlWHdSZ0pDanRLVzJOZFAyZUJDQWFVLVNWWE8teVVEWGxBd191NUFSUWZoOTdxWnI0aWFtQ0hqWmdJYUJJZUZNNFpWRmpQLTdwZ2x2eWR2ejJHbnktNWF4aVZYQ01CdnU0LWdyYlpkT3A5X3pEaW9lbHF1b1VXQW93aVJvQ3lubzlPSDFkZG5LbXhDT3dWRGlNT2hpbWtfS3JyRENnM2NxaENicUYtU3ZDNWhXdk0yY0lUWjh2WTA1SkptVU9IMGFGMWNDT2NIUGZVZ1BsX2oxY1lqT0R3ZzlOdlZfZ2g5UWthZjNielZMMFViS25nU2NhQWJqTGY2S09RVWg5RlN1VUs1NXhYVWttU0RZTmJsZnB1SDZSb21GR2pzbnZVUVhWdjRrRldXS3JyTHRhTHA0UndER0FsUXhQX2dpV0ZEYjBZb2p0R2liLWxuM3ZKUHJhSjBfUmg5OWt30gGTBEFVX3lxTE1aOFJzMWFrRHpUTHZNblNoRnlleGVJWEJabzc2RVdLM0wzQl9MMmRFemQzY0pDaENxcmNSVjhsRVJWNFJQYjgxWENWVFF1WkZETGl0YlVyRE15Ums5cmVtb3dHYkpzQ2hZdDkzelVqOW1HUkc1YzBmbm9URnRoQ0NHWThXTWpmT3gtTk5sbzU4UFRFMlVENmtMM3JSR0NJcTJ5MWctcG0yZmM1MDhveU9yMUkyVWZMWVFEYkd5bXY5RnhSeDZmUTRCdURRM1dpWjRNZmVaQmthRmxzTDJ5OWhEaFlSdTJ3OWcyWmg3WUlmZ1k1YW5yeHhZMDdDZGhuNTEwQnBqZE90a29fRS1HRDdYVlhzbnl2VTlFR3pMR083cEUtb3ZBR2Q2U3llOElRNVlPUU82anY1VVZ0RzVzdEVCeTNYeDRPamhhV2cwWlZUQVdZUEVOc3hrZVk2NTJBLXRCY2piX2RzbnU0NExZRHJsMGZVbkdwY1VNRFdudzAwdnpsRDFTM1RjVE9VNkVfLUpzOURGQWg2QzlyTHVDTTYyeEVQNHc2N1R2TnI1XzdJdF8yVmkwQkt6TExyaUctcTZ0VXZTUVh1VzQzd1NIYkY4OGgzTUJ3aVBsNkN2NXEwUzV5OHVjc2o1YkI4RmdJcGlXUkhKcnBocFJIZ2RFOWdmNE9vUl9nRnlHTVdmaFFxbVdkcw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 14:52:00 GMT",
+        "discovered": "2026-10-08T19:05:49.616830+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بطولة أفريقيا للأندية لكرة اليد.. الزمالك يهزم ميكيلي الإثيوبي يلاكورة",
+        "player": "",
+        "content_hash": "fb82a2b3ad9821174ea06c3113d4d60a6173edf6823a9d87976210051c5abfb9",
         "sent": 0,
         "section": "sports"
       },
@@ -1202,38 +1234,6 @@
         "summary": "الكندية آن كارسون تفوز بجائزة نوبل للآداب 2026 لنتاجها \"الجريء والخلاق\" DW.com",
         "player": "",
         "content_hash": "78e015f934e5a5a82abc255f1790c957eab44794f3040db85b27d1c35d477038",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9804,
-        "title": "آن كارسون شاعرة الأساطير تفوز بنوبل للآداب 2026 - العربية",
-        "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNMDJYUG50MHBDSWo5SzlpcTcwUVFiOC1PSjJBVUY4Q1pLcHNtVmN1bHJOWk9nbl9CMm9wb1UzUUNNc0d0Ykl4X3BfWW8xa0FnT1poS0ZONThocVFPUlM0cThFYnQyb0pjWmxOUkpmaGh0ckZRWVZ6dWdvNzVobUR0bHpBVVc1eExrV0VxUkMwLUNOUHJaemJWWmhBRW94TE8tN0hqeFpnb1FKS1E2eV9oQ0s5LVBpa2daY2lNb3lvSHI1bXZzdXIwR0taWDV2MkUyVUNneWJ2aHJzZUt0S2ZHOFNwd19mb0phSGdrXzBzRFphTkVvS2J3MnJPY0YwNERVZWRJWU05OExBbDRLOXdFRGNYempHRlAwai12cjZTbFR4UHJyb2s5V3hhVlFiQkFjMXRKU2VEV0JDY0JiZDFxT1N0SEd3UGs5VnMtYi1KOW1EU3c3dUFCRUt1T2F0SjZua2RBTkhSa1RGTmVXSWItRjZjYlFtSWRqbVZkSTFpTzJzdDhtb1B30gGMA0FVX3lxTE15MDN1SlZWWTBySUtCUmQxUXdMNEZpTjFMZGNTVl9tZ0VfZzQxM3ZTYzhFZGxYRVhSMzBiZFBFTV8yRER5SmtXSTA2MzBYWWxDcXFaOTJ5ZHo1NnVNaU95d0VDdTZEQ2dSa2I4RVVvem5DVzRndmc5NTlPNmZaaHN5aWxMNUc4UjhDMUd6ZW9QMjByLW1YekxJekJHV0ZwSkpTMG9tdDVXd3BDX0N4aHlvbGFDbW1iZm1Ed2wyZUZnaVlXdzJ4TEdFVFgtSlB0ZVg3UnlScjZYNVZWUXNFOUNsZGp4UGlJWkI4MDZQUDBfVmNDYlNtSUtvaU1fbnNZS2pUbHI4MjFSUGp3ZGxlUm5CdURQSUlLUnpfbHhpZnEzd2pYZWF0U0w4NE5QczEzd1RqZV83QnowNlF2ckZ5Z1k3c0plN0drY0E3bVlXZjNSNU5LWDdaU2hkcWpIc1NiRHdPV01HMzlqQ1BIVC05OGxYZ2VSdTRxbExmanpKb2xKVzNiaVdJNTJvbUV0RA?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 13:15:13 GMT",
-        "discovered": "2026-10-08T14:03:43.456136+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "آن كارسون شاعرة الأساطير تفوز بنوبل للآداب 2026 العربية",
-        "player": "شاعر",
-        "content_hash": "22bf332020d9fb4e287018ccf7502022f9efaa9bca2c4404fb6ff4d25fff8cef",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9846,
-        "title": "ضربة موجعة للرجاء.. إصابة جديدة تُبعد النفاتي عن مواجهة المغرب الفاسي - جريدة المنتخب",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FSFo4U2NnZ1A4NHgtSUlmT3JwcGhXLUtVbElvSWtidEZXbnptVC11eFBLZm01RGlnaEtNdHoxNGhjZGpNZkVmTk1wZWc0TFotbTVOMg?oc=5",
-        "source": "المنتخب",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 13:00:51 GMT",
-        "discovered": "2026-10-08T16:42:48.140140+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ضربة موجعة للرجاء.. إصابة جديدة تُبعد النفاتي عن مواجهة المغرب الفاسي جريدة المنتخب",
-        "player": "",
-        "content_hash": "82aea8cdabd3d5773acf1f14ac4780d15e3aa83f33091137a347d6075d87da02",
         "sent": 0,
         "section": "sports"
       }
