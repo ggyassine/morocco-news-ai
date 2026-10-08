@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T09:40:10.899833+00:00",
+  "updated": "2026-10-08T09:57:29.124733+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -16,6 +16,22 @@
         "summary": "الحوثيون يعلنون استهداف مطار الرياض بالسعودية Febrayer",
         "player": "رياض",
         "content_hash": "dd65c34a4230260416d54222f68b4dd052ead4f0945e4406dbb06c67b8daf29a",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 9746,
+        "title": "الدار البيضاء تخطف أنظار المسافرين من كندا وأمريكا وتقفز 99 مركزا في تصنيف السفر العالمي - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HTUtqNXhpcGVqRUdiVGZvWll1VW5JS05CV1UxZjM5c1FieENaVEFnbVoxRlJ0dHR3ZjMwajU5eUpoWklhMUdtRmpya0JtUEhIV0Z6UHVYRFBmTTlVOG12Ry1udG4wUzA?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 09:16:52 GMT",
+        "discovered": "2026-10-08T09:57:04.737730+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الدار البيضاء تخطف أنظار المسافرين من كندا وأمريكا وتقفز 99 مركزا في تصنيف السفر العالمي Le 360 Arabe",
+        "player": "",
+        "content_hash": "9d9d484273889fcef8ae1b9d4b3a1ac0a6ac89e0378d89547fd6fe3a48a6d558",
         "sent": 0,
         "section": "morocco"
       },
@@ -1990,22 +2006,6 @@
         "content_hash": "e0e51b7e28ea50f494cf9822884d857bf43dfb191222fe7b0bc61bb0457a1063",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 9302,
-        "title": "قتال شمال إثيوبيا.. هل تشعل التحالفات المعقدة حربًا إقليمية في القرن الأفريقي؟ - DW.com",
-        "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxONXZEU1o5SVFIaFZTem9kX253WjA5TEhpUjRJVlRERVJwdnd0UF9jSXBRNThkVUFmLVVkU2VZV0E5b2NmcVlqY2dXaHRqRmcyWkZTbGVmUWVjakFCSE5Zc28welNvaUVGdFFPTElzNUp6UHBpYV9PNE5POVR6TkU1NkE2aFhjeVI3dVRwUnNrM1hyX2ItN1BucGNRRWRCVV9IdGVQOHp5VGxUdnM2OUhrRUc5eEFjVE9GS0lDOWpNM2RXX2RKb0R3eWNyVmxwa0taaXZJeXo3QmdpMFFZZk13M0gtYk5QMS1WUUM0VVJReVQ4VkliMEc5eE95dWFnSHhOXzhCdVozWjN5Uk5mSWNXZThyQngzUVVEc3Q1VEtNY2wwRzRpSktVY0JTc3RFWWVpMW55VWNpQy1qYW1zbDhPLVlENDBVajRwU0FjY3JxRjNZbkk0MmRsR2IxMDlJRXJXVkhVc3ppZ0hXelZoQVFWSmx2UUNPNjRDcnpyMTBhS3d5VDhYUjY5TjJGTndkMlpTM3J1YjFoSTBRY3lUdWpQaFlUZE1NSjBfR3lvb3ZqUzZWeHNJOXV3NE9xSGtmNE9heExsNmtIbVVhS3JWdUQ1YWJ1c2l6MHZTbklzWUxCTUZCRXpSSnJmMV9GNG1sbzlJXy1sQi14VTlSZlFQbld2a2taMUlCcHFNSnEyZkNqSjhVNFg5YU5jNV9md3I3MGVOSks4TWdKd0RNZDdMY09FQUdZbFBqNm90Z2x4LVN3U2xGNVN4dWZzUFVqVVBtY2x3M0phbG9oVQ?oc=5",
-        "source": "DW عربية",
-        "trust": "B",
-        "published": "Tue, 06 Oct 2026 06:14:18 GMT",
-        "discovered": "2026-10-06T23:45:41.142616+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "قتال شمال إثيوبيا.. هل تشعل التحالفات المعقدة حربًا إقليمية في القرن الأفريقي؟",
-        "player": "",
-        "content_hash": "4ae2482030abb2cbbc009e93ca803821d37177bbd3a80a9b010d1affdb082cc3",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2216,25 +2216,25 @@
         "content_hash": "e266015b1f2d6dababf11d4aacf305689c4aba8a0b392af50be172e1a96dd068",
         "sent": 0,
         "section": "middle_east"
-      },
-      {
-        "id": 9433,
-        "title": "آخر ما صدر | قصائد مجهولة لجبران وبدايات الفن العراقي - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNOHowRHI3eUxDRWNDV0R2NkdRLXFwSTl1YmJDV1dPc3RjX2RwSllFS25tblFBYUFDRnJfdjFUY096ZWxnMXRUMDdvTERhd1RHX0ZPeVh0RWQ4WGNrUGNzYXAtRzcwWkNBeWx6cGRIRDdwMzcxZjNvTFVIQ1A3eVViZTFBc3ByV2x2ZkYwQlJWejZWaU9XWWxuMUdVSVQtaDVWMjJHR3ktNzhtNVhTWXVfaGQtaUxreEhQMm8wNXdlUzE5cmlXRmt5UW1RbTBQOHp6XzBPTkQ0SnZiNEJHTUk2QWZIWlZhMjhtUzhpSURldmw5U3BNb194ZmMyTkJRd1pvMHJfcjNicG5HZHpiQmp0MGd6TlROQ2RPbzd4R3gyWm42SFpyNk5CUjVfNFpvY0ZRelFfdmFWNzlHeVFPT29pTTN6ZzQ3cVRBUEhabUZGZ3pTM0tkbndMOFlIdVE2MXNra2tBemxFaFdib3pUbXppVjFpWFZuTTR5UGUzWlRSZEdoZTZtYmVocGJ6WEM1UW9YWDdXb1ZfUFdoTTdXZFZCa3g1VXlrRVNEREcyMNIBsgNBVV95cUxNQ1QyNlB2Z2t6SE81Xy1tMGdSN296dGlhcEJteDB4Z2hlQkZhZlFabmkyT0ttQzl0X0ZEeXloNmNXY3ZfOTlMVTZoZ1l6VTdCdG5CRnhqc0hJZXpTNnV1M3BwbVlQb2l6MTNPMW1mTUctRVJfajNnQkg4dVZHN2pnXzhmZ2dwenhzS21EMWFlZ0JGcTYtX1hZMUVvVjhET0RNTUNLOUp3VEZEWFBRRUE1Y1c3dUQwc1dFcDZBOHdtd2tMdXNySDNhSGNmTmF3ZXpGMno3XzFOS01NT2NOTDV0ekxTMjlGdUoyRURmLWktVWZzc05sa1VGTVNFcnNSbUpaY0pzTndFVnJTOEVHdHRnODQtUWlCdU9nYkJad2hjY2hnb3ZYaFRKT0RuMWltVGx1X3lIeGVCVG1ZaUdNUklsOV9aRXZxb3J6SU9rSEh6UUlTY0JnTFQ1SjZwNjZRbENfdDVlMVktdHdueGtGcUxOU0xwZC1RazNnSjBpeDFrbkF1cDIwMlhDUlVKUEp2LTFTeVZCTTFIeUlBcGdyWGZWLXljOUlMTVZzR1h0c0xfVGZRUQ?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Tue, 06 Oct 2026 06:00:03 GMT",
-        "discovered": "2026-10-07T12:35:38.848630+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "آخر ما صدر | قصائد مجهولة لجبران وبدايات الفن العراقي العربي الجديد",
-        "player": "جبران",
-        "content_hash": "a5ca0016eb02ff5ec19c07d0affa936bc9bc836ce4c67fffac58477671c4ceeb",
-        "sent": 0,
-        "section": "middle_east"
       }
     ],
     "world_arabic": [
+      {
+        "id": 9747,
+        "title": "مصادر لـ\"القدس العربي\": الفصائل الفلسطينية تتوافق على تأجيل الانتخابات وقرار للقيادة الأسبوع المقبل - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPM0EzWFZOeXVGOXpvNHB6ZXZYNGQwdF9BV0JHOUt6TXRGUEhHamFBNjJUcmJHakdheEptTE5TLS1CRXRTU1pfZE8teTFmV3NHRDlWS1F2Y0RNejlGLVpXVmIzUko3bDRlbXotYkdFQUJnQXRDaWVBUUlnbFBUTkRqSzRteTB0bFM3SE1CMnBkeU9MeU1GZkx6LU1ZSGVMWVZDYWR5R3oxeUdqclJYdmFKVVRxaE4xcXh3eFBveWExN2hSalFwWDZndjFJTHFjMVlPU05WLXlZbkFabnN6amdXeDZxQkpJbHhuRFlKeTdWdkl0SlpaYlNyU0k3YmE4b21lb0NHSkNOOEU3bENUanN1TDVSTDktV2FyV3E5WG1PMVBsUTNWcGxLVU9NaFBoOEkwN3lHWjBaUjFvdXRnQ3dB?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 09:30:15 GMT",
+        "discovered": "2026-10-08T09:57:24.694992+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "مصادر لـ\"القدس العربي\": الفصائل الفلسطينية تتوافق على تأجيل الانتخابات وقرار للقيادة الأسبوع المقبل القدس العربي",
+        "player": "",
+        "content_hash": "af1ed2822d29ba19ceb696c7a64f5f4f935f7a87ac867d43735ef7e574c4f00f",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 9693,
         "title": "،سوريا تدرس إرسال قوات إلى اليمن، والحوثيون يقصفون الرياض - BBC",
