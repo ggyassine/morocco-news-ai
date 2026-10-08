@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-08T13:05:44.060223+00:00",
+  "updated": "2026-10-08T13:29:08.376435+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 9793,
+        "title": "الدبلوماسية ماجدة الموتشو دارت ملحمة فيها ثلاث ساعات ديال التصدي لكراهية الجزائر ومحاولاتها للنيل من سيادة المغرب ومقدساته ولجمات المتدخلين اللي مول نظام العسكر - كود: جريدة إلكترونية مغربية شاملة. - كود",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxONlBiSzJkcUNrOHYzd1RNa01aaTEzakFKdGhtQzRmZFQ1T2FsZUhhQVJodG9LMlNSNEZoT0ZQNldoM016Sk12WUM2Q21XdnFkbUxjQnJBUE5kQWlpWHd0TFNvVGxXTUFOSHhRWDlkeVMzU21oWUhYZkNSMHpZMTVxLXRRY2tMdE00UnVsV0t5Znc0alpadUdFUGppdEx1UEpyckZTMnJBTWxJVVpUY1NfbzBWc3FSSkxzNVlLWDBPb1ZxUEdLWEVyMjRvRk40MmF2QnQyd1lQcFdrdG5uZk91MkxWNWV0RHdqU3VYQTQ3U2J6N1JSQ3NMU2ZjOWJsZXM5RWpPT0RtMnV1c2FsdDY3RTdWUlVvZHZDbDBITGwtNVctSGZ4UUFJSk1QTEJXLVJFV2tIYUxhaU5mQnZTY2VlT3MxNHJVQ0NI?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 12:30:01 GMT",
+        "discovered": "2026-10-08T13:28:42.841302+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الدبلوماسية ماجدة الموتشو دارت ملحمة فيها ثلاث ساعات ديال التصدي لكراهية الجزائر ومحاولاتها للنيل من سيادة المغرب ومقدساته ولجمات المتدخلين اللي مول نظام العسكر - كود: جريدة إلكترونية مغربية شاملة.",
+        "player": "",
+        "content_hash": "11a9153eb9905cf33302cc71090150c1ac9967c5a37c754c1bd4ac0d7e6e63da",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 9767,
         "title": "\"القوى الديمقراطية\" يجمد عضوية \"مستشار الصاك\" بفاس - Febrayer",
@@ -434,22 +450,6 @@
         "content_hash": "6ddf81a34a3c9f42e4120fa4ed06736b54722ba9031c20200b43a535990a11c7",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 9519,
-        "title": "هل يُنتخب عمدة جديد لمدينة طنجة خلفا لمنير ليموري المعتقل؟ - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2M0k3ZjhjRFVxZ2hYekVsbmdDTGxDUkNISmxNOENUVTVLOGJ5S0ZqZGlDVU93Z2pwZlJERHJOM0d3SWpxZWdWTG9uLVloRGhZMTA0X2pHNzZBWjFqdVE1TmYxQ2kwT25S?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Tue, 06 Oct 2026 18:17:35 GMT",
-        "discovered": "2026-10-07T17:15:32.848705+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "هل يُنتخب عمدة جديد لمدينة طنجة خلفا لمنير ليموري المعتقل؟ Le 360 Arabe",
-        "player": "",
-        "content_hash": "d02b6c54fa66b830aa6f08f4c12a4959b7eddae9ad79ceae4b66083139af5936",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -498,6 +498,22 @@
         "summary": "شاعرة تحاور الإغريق بلغة اليوم.. الكندية آن كارسون تفوز بنوبل للآداب 2026 الجزيرة نت",
         "player": "شاعر",
         "content_hash": "96845008809cd0c4e9f048b66269ad38ab356aca8a3036d6433795873562357f",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9796,
+        "title": "الشاعرة والكاتبة الكندية آن كارسون تفوز بجائزة نوبل للآداب - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNck9QQlNHVTBCZ2I5NktJbmdTTFdLSWU1WEo0ZVVXOThwNjk5cXBCR05NMHM0czhDMFJTb2V4c05yRGd2UzFZdDhYN3ZXMWotVzBEQU96bjA3akVPWDl4ZGRqZkNBckRUV09uTEtmVWFieUR3eU10Qm5JN2NQUU1Ud2RMNElkc2UxWkR1SldnOVp1TVBSV0tkWmFHNlZ3TTVMbmg5cjh6X0JvaXVQTnN5SmZ3dDJBUWo5OWJOcFZXT0JHRmRtVmtZbjExSmswVkl2SGo5cS1UZkMyREpGYmt5aHVDaXpEc3RCS0tXd3JpbE5DYXpXamJSUjZiYnpWYXdvSUNaV1AwZGU4T05wd3FKeEZRZFYtOEx1UnpuUUs4XzVwVUdUdVRiM2lCZEhKeEEydlUwemdWT0t2UnA2Xy1ZN0tFSmN0QQ?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 12:07:06 GMT",
+        "discovered": "2026-10-08T13:29:02.948068+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الشاعرة والكاتبة الكندية آن كارسون تفوز بجائزة نوبل للآداب القدس العربي",
+        "player": "شاعر",
+        "content_hash": "594bf0cf2eec7bf85e07ad52f5c445aeab4129c4f548a4a9345238c5a3a962c8",
         "sent": 0,
         "section": "sports"
       },
@@ -1234,22 +1250,6 @@
         "summary": "بلاهيك يعوض فيلدا ويستدعي 31 لاعبة في أول لائحة للمنتخب النسوي Febrayer",
         "player": "",
         "content_hash": "62a9abb287bedd24be379ae4d285ee127514ceb3a121aaa64f0db22fc5ebed49",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9645,
-        "title": "هايتي والدومينيكان آخر النماذج.. حين تشتبك كرة القدم مع الجغرافيا - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQaEV6WU9YODdkSFRtZ3hnLXIwWEdibVFtNFJFbndsNjdmUkdzOGpHUzh5V2kzaEcwT0JBeGZ2NTVJQ0FFT3pYTDFiaHBiUW9NVEhjRFFySUk0OFdEcXVVT1RoR3BWUEJUTDlfUEozeUJhNTZlMFo2ZWxuTmdtSFlNQVBxYzNqZnZjVkh2NU9xV3BRdVZ2UGhENkZBcWJkNGw0NlRVTUFTWXFET3RqTGNyaGxfUGswVzdJRkR5cWhsN05fSjZxMmVpMFJvVS1fOE5PeXN0SFFINmVIYjRKOTltZllvUGtFYTR3S3ZtdmFzUm54NzgwUW5RbE9oOE9RVGlvUG9IWHFuSFdBLVBTc3NPTXcyV0JVSVVEWDNZbzBIWDRTaWdIZDk5TkFiTmVCRDZ4VHVmTEFWaVlzYlBfVlVnT190d2VZSlM5eEM4RFZIc9IBzwJBVV95cUxQaEV6WU9YODdkSFRtZ3hnLXIwWEdibVFtNFJFbndsNjdmUkdzOGpHUzh5V2kzaEcwT0JBeGZ2NTVJQ0FFT3pYTDFiaHBiUW9NVEhjRFFySUk0OFdEcXVVT1RoR3BWUEJUTDlfUEozeUJhNTZlMFo2ZWxuTmdtSFlNQVBxYzNqZnZjVkh2NU9xV3BRdVZ2UGhENkZBcWJkNGw0NlRVTUFTWXFET3RqTGNyaGxfUGswVzdJRkR5cWhsN05fSjZxMmVpMFJvVS1fOE5PeXN0SFFINmVIYjRKOTltZllvUGtFYTR3S3ZtdmFzUm54NzgwUW5RbE9oOE9RVGlvUG9IWHFuSFdBLVBTc3NPTXcyV0JVSVVEWDNZbzBIWDRTaWdIZDk5TkFiTmVCRDZ4VHVmTEFWaVlzYlBfVlVnT190d2VZSlM5eEM4RFZIcw?oc=5",
-        "source": "الجزيرة الرياضية",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 22:00:55 GMT",
-        "discovered": "2026-10-07T23:55:55.935954+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "هايتي والدومينيكان آخر النماذج.. حين تشتبك كرة القدم مع الجغرافيا الجزيرة نت",
-        "player": "",
-        "content_hash": "ca3e4bcbe0e70095a737382977e25872c2fa6c9281ab99882e4acb526339d75e",
         "sent": 0,
         "section": "sports"
       }
