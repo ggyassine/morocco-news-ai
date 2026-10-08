@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T09:00:48.733200+00:00",
+  "updated": "2026-10-08T09:21:11.329227+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -466,25 +466,25 @@
         "content_hash": "fd579ed07bedc145cad5ca4c8ee1864ab526740cb886df07ac7103ec0d3678c0",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 9372,
-        "title": "أمطار رعدية وحرارة مرتفعة.. يوعابد: المغرب أمام أسبوع من التقلبات الجوية - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpb0Q0WjFNbG1USnVMTFZTZXBpMV9jZXhNTVo3ZTRaQ3lLX3dYOUJzeWxJTkhFM0prV29MQmF0SDZoSV9ucHZpUmJnXzZPaU53TUZrN0N3ckZoZXVhNFVrUXV4YjhMZw?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Tue, 06 Oct 2026 02:31:15 GMT",
-        "discovered": "2026-10-07T05:55:34.140839+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "أمطار رعدية وحرارة مرتفعة.. يوعابد: المغرب أمام أسبوع من التقلبات الجوية Le 360 Arabe",
-        "player": "",
-        "content_hash": "51bb6130f0d82f43cb7c7289e023b9268fa33d8054a50b2bcd3acc09ad18811f",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 9740,
+        "title": "من حازم إمام إلى سيف فاروق جعفر.. لاعبون يكملون إرث آبائهم في الزمالك - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiswRBVV95cUxNRG5GVl9acmhrYV9oRDRtYml3c2padldNY0pXNmZDNE1hWWdJcFBSZzR3MzFrdkI2SXJmYjNfd3hVTUVCdFNhX3JOTjFjZ0tnUE5qM0Q3NmlPbi1GWWg1SVFHbXV1YnF5R2Zacy0wT2dnY25CVHlVNWVVVmJzV2F1dXMwcXJxX1JBd2hkY2F1bGY1MVNaZ1ZSU3lTY3NycUJTQVF4THZPajRoSks0SmZqa0VsemxBbEdQSWdfVHBjalNYWXlycW5PVVRaTTktYk9DanhiSnhVc2RIMnNaa0FUMVRPY2FKT1BOV2RXWHY5WWVuWGZLLUI1X0tzY1ZlanYzallkUGVDU3FpdlJxc1Z1bXBvN0pNcmthUzlfdzRENkdTbUFFRXROZkxhVnBWLS1HT0lXeHlqSk90R3RnS1FIOUcxY2F3OG02S3JLaUwtWWdZcHp3eW1tOEk0T1RLSm5tbmczUUo5Q0lQd0xmOTNsMjRXeXI3b3hvNF9sVmd3eWh2aHBjSndxdmVxS2hYZXNQbHM5Qkt4d1B5NHk5eEI5WTMyb2lsNFNqMjdzRXdPYjBldDVvU3NEck1hbVdaeEFqNWlTWl9QZ29RWE1nejRsYUNoMVFvMU1fS2hRNGlxT0dQdWtSbVkyUHpncFBiMTdYYmV1aFRINUVCVFJvNVlYbjM5MFZYX1BuRTZCU0UtYTdMZjd2bEVqQV9PUnRNQ1FmMTNrYnYtOHI1TU5uZkQyalowMNIBuARBVV95cUxNTTl3Vkh1SU9ud2NFakR5dWxaQ2xyVFFPWHdXWUtlRERlRVlOTGhHYW1rUHZvYVlDNlRGNkgxQzdydzNKR1d0RVZKaGt5Z1JxLU56RjA2eldMMDJMM2NMYkdGWTJ3NnpxLWpiQXVQdkdOdEpweXQyeG1KX19UYTl2Zzl3T2ExcXFFem9rRS1jcGdiVVlqeE9MLTZUNE9CTXVWZ2NSTWVFZzBwUGNSNjRKQ2ZwdmxzSGwzdlR4b1R6RVVpaEdZQVZTT1c4U2F6M3Z6SzFPLS1ZSmFZVFQyYllkMzRuNklYZ3BuZG9uQVdrdDdZeGdDWlVWbFZ4eUFHM1lUamJQX3c5MTBNV1pGWk1MeWFpOW9heFRsNS1iQUtENjY0Qktmdlc4UWtYYzQtXzNVbmp3STFRX2gxQmpVYzlRVmRVMGphSVFsVktUQlUyVnE5cUJMNlczTnd3cm9lMVYyeDk5MDNGblRsOXZfeVhnU0Q0czdrckQxS2ZGUm9fTkozU291NFVGTFk1Y2ZLWnRLVUtuX3JmUkFwd21CZGV1LTRxMlJnTXZHdXVWU0JRT1hsUlFnZERFck53NjBENFQ4eXR3VmpDNlQ0RG00M3c0WUZCbDM5bUFGdWR5amhjMUZ4Q1NWcWxoT2duLWg5V0swM3h2OEdSOHY3c1lnY19LQ2IzRnFiU3M2blRSQkpKbkhlWEFubHdta0JGV0tqY2ZVd3laT2lnQWJ6VFE2MGhjTTNPZkFud1Vv?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 08:49:00 GMT",
+        "discovered": "2026-10-08T09:20:53.251986+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "من حازم إمام إلى سيف فاروق جعفر.. لاعبون يكملون إرث آبائهم في الزمالك يلاكورة",
+        "player": "",
+        "content_hash": "d9f4b2d96cb2941ad4e956f6c75fd685b70447c5ae7ac9cab886ecf0201ed06b",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9737,
         "title": "كيفية شراء تذاكر مباراة باتريوتس ضد لايونز في NFL: المواعيد وأسعار التذاكر والمزيد - Kooora",
@@ -658,6 +658,22 @@
         "summary": "روساليا تفوز بجائزة إسبانيا الوطنية للموسيقى 2026 العربي الجديد",
         "player": "",
         "content_hash": "aac024f4f5a469fdc201d90538ac385e145c18f96d9d81225aea9d73e964e6ef",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9739,
+        "title": "صدمة في ريال مدريد.. فينيسيوس ينهار وموهبة جديدة تخطف مكانه - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNeGRBYVNyLVFNN1NhdzJsQUowUGZmZUpoS1ExVkdpYzJlQXlRVE9SX0tqMEVyZDZKRUd3V29iY2k2eVRUMTdGdU5OVzJnNU5LVXV5T0VPYy04VVdMLXNDQ1o4TlE5REtKV2pOaHJ6dTFvOU9wRWxKeldKbE1GdUgxbXNQYklKSVRKYVdiSDFVdzl2MGw1R0M3amJ0ODFOQ2cta1FNVG5veHpIeDU1cWloa2d3Y2NKWHVrYV9PS0lXeTk1VWhMSEotWmN5UmMzcDkxRmNwN3VReE5IYkRacVM3TFdldnhxanhpNlh0RTJFdlVnLU1iNlZRbHpIOVR4WUNmOHdaNkxsV1ZRa2VWSTBRRWgtUXJIZW9pLTN4QTZKS2I1LXp2MGgtdkkwejllUDluVm9hUEFHTGNBMVNKd2lSOU00QmZVQ3NuanV6NERTZDZJNkwxX05PLS14WGpCa1BFNFRoWXhRZGozamRFS0w2RDJTV3p1ZS03STdoYUw1cldEVm5ldXNMT01NalNGdVBIOUFxT0ltVXZoQ28zdF9lbUQtVkdWRENoenc3ZFUwYTQ0ZjJwWEN4SW9DM2xFUmdiWXcwSks2bldYdENnWDdYbHB1cmVRT3VTbWplNy1zUEV5akxOZkZN?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 06:54:52 GMT",
+        "discovered": "2026-10-08T09:20:50.323870+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "صدمة في ريال مدريد.. فينيسيوس ينهار وموهبة جديدة تخطف مكانه الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "987da79eb81066ae255dca077684f6dec7c0e4befd13d4dca2db7a6d8a2c96f6",
         "sent": 0,
         "section": "sports"
       },
@@ -1252,41 +1268,25 @@
         "content_hash": "ff74ae14bb84121e5865d8720e7ab24365bc66cc67202308639b04b345e3f036",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9649,
-        "title": "في آخر الأنفاس.. المغرب يصعّد ملف نهائي كأس أفريقيا بوثائق جديدة - winwin",
-        "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOSW10c2g0YVZ4OEdNektHSlFYbDFMOWwtNVhDdWd4elp0dUlyWXVxZVJOa3YtWWt1cmczbHo1Ty0yWmxiYkFxd0NzRWN2Qms2dHJtT1NKQ0RPRXdzNnhIZnFGMFhIdGVRZVozTnNJS3lfb0tCWVJjMW5ILTdCN1lQMmNIWG5GWEZTLVVjQk8zOHRjMVkzMnlLNlpqVkNkMDhHT3BnaFQxQldlXzlEcVVIYlJtMlRaN1NEOU1iOVVqZlJhNXdhM0Z0RDBWRkJkcmdaV2tQWWpwQkl4ejRrWUdyY0RkYi0xTnF3UlZ6SGNrQk9EMGtKT0txMUF3Z2U4anluSG5uQTNEd3czY1VGN2IzYkVfaVNWWnJ6UENfdUZyS1gzVGROMmJTMEttUE01MlFmOXFsWFpjN2YzNjRseGczZjJJNTBiNXdyZG1JS3VMV2NZR2xZYkhhcEMtT0dzUzBQTTdxTTlpXzhrWF9HY2VPLUF0UVhBWEVsNHBsZ0xzMmxCaGtxckNkN2xhMmJseE43bENuZWVPZkdvT0xQTUhMZ25QTVVhRTMwNmtMWDVFUTBWV05jTFp6czE1dndmUQ?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 20:16:55 GMT",
-        "discovered": "2026-10-08T00:12:08.762985+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "في آخر الأنفاس.. المغرب يصعّد ملف نهائي كأس أفريقيا بوثائق جديدة winwin",
-        "player": "",
-        "content_hash": "9636aa0065367912c8ea7251d2c7739e21552efd325e27262d19271f75de6553",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9581,
-        "title": "محمد شوقي: لم أنشغل بتشكيل الزمالك.. وهذا كان هدفي من المباراة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQdldtNmdpeFdkYXp5aXJKZ0JMRkRCRk5PQkVjQWdZQ1hPN0VxX2RIQWU5NzVuX21IdEFmWGZaSVZmenFxbkVoMXJiWFlVU21uVXAySWJfaV96SE5fbkhjZGRhUDZHSVFkQllWd0tzUm9mWXVRUXM3SGZuQ056aWpQNm9DWFdfVjM5bnF6ZGZNV2l6UjhCUVZ2MFFhWUYzNlZHTF9hc3E0ZGJIYm42TGFCQWVPSS1tQmM1T2RmVTdPcTN5a1FOUmJpWE42YUh6VUVobEdxeGtCb1lrLXNDRi1rMDJHZ3FjV3VGMzJuMW5lcmI4NVREa0xzeG5WcGY1Wk8yRnVIN1JMM3lERmkxZEJWQWYzWnQ0UmM1Zi1KX0pfdkRYcVpDMWhEcmJoZE9TU3FWUllUaHBGZ3JOUWx6QVZNeTUzbDROalZjeE9UUWdrUG1GVzVzTERjbE15N29Zd0N6RV9ZNjNFZmxaTnM0Rm15T21udXhKTW1BTUJWcjJHYlJvcWpNSzNDZFNuSjU3bDc1Q2tKei1XeXY1SDhhWGc1VHJINVhhNWZKM1hjVzNGempBX01HVWp6QUphM2F1M3lFTmFDLUpUUC1YdVU1Z2lkXzZfY2FQcUVaejFUWFVyT0pIMTRycG9wY0NnSjg1NzdEWF9rM3Y0VDFZYnlkeENPTVdxeVpfZ9IBiwRBVV95cUxOQldDR1lSUDgtMFZjYWhMOFUzblIxOF9SMlozeDd5NU5XRC1nT2l3UzhfSmJjamhPNXdpQlVzWDF6Wkt6X0Y2c0s4MnZmUkhtX2pLcllHQ0ppRnRkd0dFN3V5cjdzTlpkUDEzZFZGaVEzRlU1RXVheWt6b3pRODkxR0F2UGRvaHRobkxsMUFGZmJpa0dLY3F6VV94S3VsV1FUZDBucHFhcWVfSWpLdzByVjBtTzcwVk1hanMyOGFqWDM0ZXVtZlltSXhFY0RwZ19COVIxdlJIczhTQWxray11X3U1bnVneXl6V0taMWJFdXRMWDZDbmRWc2NHN1dXUzJVT1liRmEzZndXa0ZOTFJ0MVBIcU5WWUROblg2azB4NURTb1pGcFVYazVXZ0NISDVseDlyempqdFgxUG52R3lfZ2J6ODJaMTFuUzVOMUsxMVFKOHV3dXduUjRBcHBrQXhlV1VETUJMaUNHWnpXcmk3ODhCOExlVFplb0FnZzNHOFhoUlZOWnBETENoaEdpcGJNRXRpemQ5LVJKXzVmRVJtNUlvWVlfWGpTN3ZlelZ3MVVNWHk1aC04RzJGaWxKMjNJLS0zTzB2aUpiNjlmLXB0Z2p4WmYwRE5EMTlBbkFQOFRVQW5NeTNRUDBhaWt1aDh6TFBJaVYzMmg0Zkd3bGJZQVQyb1JRMVotQXYw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 20:14:00 GMT",
-        "discovered": "2026-10-07T20:24:40.030909+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "محمد شوقي: لم أنشغل بتشكيل الزمالك.. وهذا كان هدفي من المباراة يلاكورة",
-        "player": "",
-        "content_hash": "d5861402cbd6b1f8325250522db520b15d650e3a649de710406e2c0a3d57337a",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 9741,
+        "title": "رحيل ماري كارمن.. أيقونة الاحتجاجات على أزمة السكن في إسبانيا - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNMVRpOVNmczNRVzkxOU9BMHJOTjdGZmYzZktzaUJRUzU5NGNVUmtnTDJNYzlZc0xiWVVKLW1qeXVtaEVSaldjMl83bkRFaHhWV0ItMlhFTkhzYXdmcGx2alYwT3U4SlpIeVlVZTlWamVLdU9RUnVoYm1BVVVhYkdYOTJ4VVR6V1A5VUp6S1BvV2hXbW5ia3l1Z3pTdVUwdFV0ZE1aeXE5ZDlKeDVIc3VpenFEQjhSYUhRdzlJWkNpZFEyaUtma2tCWjR0UVUyT0hTRk80cXZYVmNiS2FNRFdZVzFfbzZNRWhVWjlzUXJEendXUkYzTzZDaGdPTWw4RlV0clBuQ0l3OVF4Ry00RVpuOFVieWd1TFNYTmhCQVpIT21mVy1ic0V4VVBoR0hhLUd4OFVHSHpRYWt4VHhMSVFOekdXc195OVpGM21ja0ZtUHBYNGRDTHRnVEhLM1A1SmpxYjZnb0RpYVNKRnVwS0t2MklhbTV1djhkcXIxeC13ZXl6aks1YnRiSE9hZUp1dU1DT1pOQlZHX21pdDNOUDJHSjdRbGR6WGJHaWZmUEF0dVJnWVMyb1VJOW5RSVloTlRUQWMtRUdaNWx6ZkN0eEVzbHhXWkc3VjAxcFNoeG9wZ1A4S0l2N2fSAesDQVVfeXFMT25FaUhIdy1NOGs5bC0zbGIzcy1wTDZXb3VHMWtrTGJGekVMZDJ5Sjh0SHd1R3NxNTNDQ2VvdmhTUVRsLVBwMTEwMy1pQXdWZ05IX25fVWhuNmpPa2U1c1JQemNObkZ4bER3U0tyeXBiVmtDMlA0eGY0VTEweUZiRk83d3UzTDBQcEQ5UE1rQXROQmdGWm5sLUd6UFFoQUNvb0JrZmV6Q3k5WkVHeTFvOHFVbUhhcjNrNmpQcno2LTF1V0FSbVh3RnFITHl2bDBaVl91NUJHRGItNmx0dlRSbE0tbG5MOWpSZHZQWDB5Rk5vQTNtRF9FVnZORTQzZnRleXVvOHdtNFNnaG1LSWNpczdZVDVjZGcwdFdNX3ZJRkY5aEMybm9HLWtTNTA4WDF0bTFocHlJWDA4V04xa2swLUd5YkgwVDdiVUpvTV91em0xcmNWSGtsUHlSdi1XTEhoTlF5YTdPVzRvYTFBb01vbUZwOG5xYS1iUFdUamxhTk1PckVxeVJIUUdNRHB4NE1zbGIzV3lZQVI5TnR2TWk4aG5hcTRxVEZTd3N0T0x4YkpsYXhXUU1TRE9TLW1IbU5tX1J2VUViNzBuWF9xMWt2Zm96U3R5QktYUG5IZ2FHRkxmQlJydVZ4cVpMbGs?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 08:39:57 GMT",
+        "discovered": "2026-10-08T09:21:04.969135+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "رحيل ماري كارمن.. أيقونة الاحتجاجات على أزمة السكن في إسبانيا العربي الجديد",
+        "player": "",
+        "content_hash": "61ad203bc0e6849108b27b53977b8e1f7a2848dd1d5aa50a634b94bb6cbfc65d",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 9724,
         "title": "\"خطوة غامضة\".. الاتحاد المغربي يعلن رحيل فيلدا عن منتخب السيدات ويتعاقد مع بديله - Kooora",
@@ -2232,22 +2232,6 @@
         "content_hash": "a5ca0016eb02ff5ec19c07d0affa936bc9bc836ce4c67fffac58477671c4ceeb",
         "sent": 0,
         "section": "middle_east"
-      },
-      {
-        "id": 9394,
-        "title": "ترمب يعرض مساعدة روسيا بعد حادثة مختبر سيبيريا - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPV0xNQVdiN2J6ckp6c1BCNnpHU2gyTDQ1b2hqd2l6cHhmSWlSdGF5OEpvaDBaRllUbE00MmZFcDF4Y01mVVFwTGNES2Q4VFBLUFVjS2czNDNBNlliMWhLRmpuTW1SSmtyWmg2TkItWURRVHI5Q29vQlV1UXBHMG9CY3hiQ09NdVhXWEpMbzJGQ0hHYmUwYmtLRGxWTWlHMzhybnVpVm1TblFhNDAyU2ZRcnVsZW40aE96cGhrZUVwMk02aW9HU1g3NkVnNzVxWkd3SFU2aXVoME5CdldHektQQWV4UWhLYnpEUkU0M0xsZm1WYVNvWGh5MTJlcVpQU1g3ejJLT3o5X0NjOC1xdV9qa3dxZzA0aFY3R0ppaDIyUTJwRm0zclg5NWswLVFpQllCZUQ5c1VYa0NhZDJiSktrVzlSY3lFbFV4SkFB0gHQAkFVX3lxTE8ycHZkYndQQ2tOV0h5VVZXNGF4R292MS16R1UtYlhoMkE1MFo4eXZoNG9HOHFIMjg3VzVVN3J0czdaTmo3WHJjVC1wWTN2TVVySzZaZ0p3Tm54bkdaSWxfZy1RekpvV2J1RmlXYS1aaWl4ek55NDJ4elNqUE5xekpwNHEyejVTNTNFQkdaUUJod3ZGMWlkbWNuUGhGc0VkUWljVWpIMW9iMTNFUjRNcEZMMGk0cUFlb3NQUFRpUE1YbXdyVDhoTmJkS2d4MkhsdGZWZ1BVTnlCZnB3b0lhWEg0aFR4WVZIZmM2TTNMOGQ4TjBnOXUzd2VySEVGUVJ2ajZhTUxOUV9sNmFuMlI0WlczRTcyekk5eFZUMDc3N1FSNkRJVGFuaWZiM1REVDg0dHdFbmNHbzM0cmt2Y1RGWUpYTHVhbXg5dXFQclJFX3MxVQ?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Tue, 06 Oct 2026 03:17:26 GMT",
-        "discovered": "2026-10-07T08:26:03.364094+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "ترمب يعرض مساعدة روسيا بعد حادثة مختبر سيبيريا الجزيرة نت",
-        "player": "",
-        "content_hash": "072c031524bf072e13419fa7d9f73a7f6497ef4014d48a6930d1cc0ad438f9ad",
-        "sent": 0,
-        "section": "middle_east"
       }
     ],
     "world_arabic": [
@@ -2280,6 +2264,22 @@
         "summary": "الحوثيون يعلنون مهاجمة مطار الملك خالد الدولي في الرياض بصاروخ باليستي القدس العربي",
         "player": "رياض",
         "content_hash": "a0976729ec430b89f326e2345f5fc971ef105178aa235ec6aba5ad7724b54feb",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 9742,
+        "title": "وزير الدفاع اليمني: القوات الحكومية تسيطر بالكامل على جبهات الوازعية - اندبندنت عربية",
+        "url": "https://news.google.com/rss/articles/CBMimAVBVV95cUxNQUFpUXBoQjI3bmhmaDFwVmVmbHpBd2VUV2xwREdoUGpLOG1pUkpGLW9raXl5Y205NWhha3lxV3FBQzF1U0k5TGJrTWZmekxZVmtsbUZzMFVvRlBOeE9YVFZUcFkyZEZrWmFqZ3lqYm5oZWFNekhoMUhlNTVBYjdod290MnVvbnFEQkFTUW8tcnF6QXdJZkJSQmMwdmgyZFpmVXVxQ3pldF9mSmZCaGJTSHB4bUMxZ1NDdmpOLVZlajdYclVEOGpXUXVrX2tMM3RhMkRNVnR2ZU5Xc2xBb3dOckJLNUFFZl9Wal9iVW5JalAtNi1MbUJ2SG5SUHR0SjcweFBlQ3lnQ3BUU0lHel9KQUhlNnVnM0tPcnNZMWlrWXJVcU02LXhGbThfVm9YbWQyVHhVWDNYTW9mWG8xV0JyM1l5a1pOWENYM0o3Y0hOZVQ1M0Zlc2dsSm4walNHTWxGN2dHWW85S21MR2FPTmNPOW5rR082akxNTDQtbl9JcnRCVXlkWS1udWc4Nzhwc05UQmhhdjNzclZ3Ynp2R20zUi1QWXN1VnR2UzFzbnRGcklBQldBeXRZNFRXVVlZWThud0Y1UDctcXNNNU1yM1djYWUwYW1pVDNST3BaM0hfRjk2M1ZkOHViTlFYNHR0UjVlNkt5bWlUc29jb0FQQkttNW4wbDh6NTlDc1RVSlZFUVlxbG5QXzI4bVJSX1BnWG1kbkZaRDZGd0Q1b1I4NmtSdkVCNjB5YUphT01jaU1NMnZ3VlBsSUR4a2l6LXU3X19UQS12S0ktc2daWUtMTUFUWFFIUGVYcTVCUC00NWppcWRkVlNNYll3UmpFSmN2RUg3VEEyVWxkb3N5TTZwNHZlRThDQTBFNEhQ?oc=5",
+        "source": "إندبندنت عربية",
+        "trust": "C",
+        "published": "Wed, 07 Oct 2026 21:13:59 GMT",
+        "discovered": "2026-10-08T09:21:09.331861+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "وزير الدفاع اليمني: القوات الحكومية تسيطر بالكامل على جبهات الوازعية اندبندنت عربية",
+        "player": "",
+        "content_hash": "8a051f7e75e61a146afbf2b5e5f403a67d0b33b3a6a188786c265df39391a80f",
         "sent": 0,
         "section": "world_arabic"
       },
