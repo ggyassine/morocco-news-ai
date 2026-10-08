@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T17:19:36.275659+00:00",
+  "updated": "2026-10-08T17:37:26.272796+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -854,6 +854,22 @@
         "section": "sports"
       },
       {
+        "id": 9866,
+        "title": "اكمان في طريق العودة الأسبوع المقبل - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpRDdhcFJyRUVBbVdpVHJ4V0dHZGZoRHpkTnJyYU1rUmpac2ZWLWlDV2xHVDYtZ0N1Vi0taENvSmNYQXBzLUFnRVc2Wk1ObWJrTTFjbQ?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 13:40:56 GMT",
+        "discovered": "2026-10-08T17:37:00.950031+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "اكمان في طريق العودة الأسبوع المقبل جريدة المنتخب",
+        "player": "",
+        "content_hash": "f44f72df54db8585f7e3a6e063195cb5dc0c8b7cd6b2652b913aab9ef75f34e8",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9798,
         "title": "عملاق أوروبي يدرس الاستعانة بالمهدي بنعطية في منصب المدير الرياضي - Kooora",
         "url": "https://news.google.com/rss/articles/CBMihgVBVV95cUxQSXg3R1doZVZDcm1kaDh0NFBVRG10M1A0cXUzYXJsUmdrNDJHc2ZneHZORWhjRVFGN2FiaThSOFJuQTVUMU5JcWhLTGpSMnJsbUNDRG9EbTJTT3pnQUc0SEJJa1ZEeFlzX2ZTYnVERFRndVBCSE0wRFFlUGJWbmxHX0JRMTVxRVdVU3NzdGtJTWNMQzdiWXZ5M2F5T1YyQ29IUUN3aHlvdm1NQ0wtS0JjSjZSSEo0NjJOVVdiVTIyc00zMlpMalB6aG8zQUltTWs1R0doUXp1ZkwtMW52cTEzUjJoMVM1N2ZrVkplZ05QOUhRWHBvekxJYnBMV0MxaWFTZVlJTnlNSmNhRElVQld2QmlfdEVmNkxOdjJkcjJmRjV0cFFIRVVCYjl3RmphMEhtNkExdXpfdzczU0FySUdCQmc4eWlHY0lfOGpmdUQxZFc0MVE1OEhHbUY4VEM4TDByY2R4S1VsV2V5aGxVLXN0UXAxQ2pLUkpKUzhqRG1UcjlzaXd4ZFFmTS1xbFJEMzNDbHlvcTYzMDJhcXNQRDFpU25pWHRlakpCa0dlVnRYLWMyWlVGdVAtU2JNbHp2LV9WdjF4TGkyTDFfMERiSldXN1RYZjZYcFpsNENUOW1uWjZzWmozakpIMDYwUXJoOEl5aVZLeDJ4ZlNjTWtmaDdPTlBycXVPb3ZPLWhKN19DZFA1U0N0M0RSRndULWhDazZBT2M5MnhMNy1NUl9rVjdMRm5YTFQ5UTc0bUk1VnFBdnNHQUFmbVBiVWh1TkF0R2g5X050WjJtMFJxN0FfNEZNUmM1Y0Y0d2hHWnZQUkNnS0VoVm1ONFY0bHN5SzFIRzVVRG1UV0NB?oc=5",
@@ -1220,25 +1236,25 @@
         "content_hash": "ff315ba4fa88a9316d6b00fd6c53fa75b8ff8ea35880827d0406a91b33fddc1a",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9849,
-        "title": "على خطى ميسي.. الدوري الأمريكي يرحب بهاري كين - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOVXNGbGhEUmhROWVOUl9BaHhPZGJLbEF6UDJoRXQwVGlkZ0U5QU51dklENU9pOFJHN2EzZHZIZ0lxTWFJNVYwUFNfRGF3QllidzZUMTc2Z2FXU0xpMEVENkFSbno0SmNmZnFDbjY2c3ROaldRNFVyeWZTNkY3T0theXlPM0I5bjZ4UmM1RjVSLTltd3pCc1Ffd3o5X09NVC1lOVp3YWl3ZW9aT2IwSlVpRTNfTGNaRkdXUXFkTjU2SDk3bHR3dTU1MGs0NmlaZUNKTURCWU0tdnRkYWQwaHd3eWktelJmWG1YM3VpcnMza2thN0xIbE9ZYlhsX0ZPc3ZDRWo0Mkp6NUhZRlNuUFk4bXAtVFhyS3l6dTVUb2V1cVROTkc3Q0gtcjhoVjBLY3RzVmwzNFBTTlI4YXPSAcACQVVfeXFMTlNsUmRJTUdadElfcktad1VrQ2hkeXhsWWJBVWdJOXpBV1o1dFFPbFEtRG9jbmJnNmV5dmRNbHU3bUxKTm43NnYzXzlpVnJuSmFKTkFsQUd4SkNOaVpYd3lPeFlydGQyTTB2YkNMbmVBSC1GQ1l5azZxcXFLZmNHdUZYbHJZUV9IWkI0YlJUSkx1WXlmSWNjczNLUFI1TUhTNll5RHUyZFhncHlfb0xLOWREanZYc3lwVDEzdi1NeWF3X09XUkVFdG9HWDl0eFZWMDZSZnc1c1FPX3U0Zl9TX0lERm5MX1M0M1ZrTTZwOEJxa1ZfXzlRVGZnUTlodDVOdklWUXlUODFPdGJBenA1TzkwQ09kOWNycFpGMDJxQjRmNndwaDA4dkJxZlRSZnBQWnpnb3NQMFB5ZHh0Z0hKWE8?oc=5",
-        "source": "الجزيرة الرياضية",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 09:27:08 GMT",
-        "discovered": "2026-10-08T16:42:50.180383+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "على خطى ميسي.. الدوري الأمريكي يرحب بهاري كين الجزيرة نت",
-        "player": "",
-        "content_hash": "75cf3cfbc4c6dd2d27f9dfc4fd7d6d81ccd671ad7df1df19635dc405a9476ac9",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 9867,
+        "title": "مصدر من الزمالك يكشف لـ في الجول حقيقة التوقيع مع الزناتي لتولي منصب المدير الرياضي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMijAVBVV95cUxOSWpyejZlbnRMaU1DZGJwZFUzNEZuRmJfYWJxMTRVMUJhWmpOdEppQnhIX3NGR3FFUE1oRzVCVGpNV1B3WXh3RWR5enVwLVl6UUJfcE5WT1B4SW1xNlp2S1NXVXRkeVk3YUxZamZxbXZiVmFwS2k5N0dqa1FVWi0yUm10WjhCQzRtVW5qRm5hTmxaQldPWkJJa0dNOXZtYzlpUFdienlOWW5jZ0RQdG9uT3hNRDZDQ09MUXpWU0MzRVFCbm42TGtGS2Q0QmFpd1RiRGRVdXRHc0xiemNmUVpxMkZhWDl0QlBCOC1nSU83a2xNM3A1TFA4MksybHNOLXBua2R6cTNCNnVYWHdIZlFnZ0l1ZDlad2x1WmEzQV9vTjhnQTVwUS0yR3FYbDc2akpZaXhmUnNaLVhGWnVVYUxYZkZkTGhLbUJhSzVhRXRnSzd5NlI0OG05XzNoamx4bWIyZmkyb0QwVjU2bC1KNHVZZWxYV3BLTlZzU1oxdXlmbjRhcmlDWU41aTU3YlJfSy1kN09JVDZnTmhzaENPWlg5ankxUHFxSFRzdklOZHIxUEtGdkZPWFRBdkVtRHdOSUEwODFpNGtHaDE1UUdMMXh4MWRvOTV6a01TZEpZc3pCRnF6WEFTc2J0NVJRSjNKdkhidlJoQmFVb1FEODVYRlBUR3hMbzdTZHYwOUg5UU5jazY2WHlMOGtBcVUzY1FNbDhPLXBXTUxOZWRSTzZDZERaNlpHVFl0NlNRV0JET2Q0LUxOZE1NZWwzZW1CR3NibHlLcC16Uy1qUUIxbTEtYkhQTldBLUdmbWh6ZE1WYWJlVHItNzJzZG9icVJnX3hoRmRnZ0ZraW5oMjNDekRT0gGSBUFVX3lxTE45Z1dYVUo5N3F0bk9BcHFaT0RaTlVFT2hCcGs1UmhTX284bW1RUTRiNFQ3UEpMbjZZTV9WYzAxb1VPclFhUkhyOEhkTUJuQzdpTEVyaXNHbTVoNFlEbTQycm5LSFZpUFRUSzllLXlITW5ZZFF2X0w4R2RmT01ZdWRJYzN6cmhGWWNjMnZPR01UcHFqUFZldHNsTnA2ak9fV2FHZ0ZpbGR2ZVVjTXFnT3BXdFJQNXpjYThhREVQTW9Ma3ZXU0lKWUhlcEpVVlNUT2Zxa0RLNDc0RC1nYWJ6ckRFX1dUd0dLTG14ZFltcVBScFVodUNqQTRVNU1Yb3FJNlF4MVc1VFN3YjA5U0lBOEwwU0tHWWlzLWxaVHdKTi1oN0VoR0xmZ09Xbk5reS01UVFIOE1naDkyTDEybG5mY1FzSHpoX0tfcFo0M2VvNkh5RU5zX0NwWmJpNUVPNTByNl90SE9TYVlGNGkxZkZhMS1OaTZNdFNTc1NGLUNOeWtfS09MMjl2YzFmcVZ1c0VvV2dNNmZ5X195ejZBbGpfbVdUdy1aYmh0ZWRCeW1ZTEs0QTNlRlFxSm1ZTjdJVVVvVEs2X3ZZQUwzSjZPWURVRXdtb2RScXpGamN6d2o1RHlpQlM3WFZrQUc0d1Zjemp5enRLWWVtVTNUemx6a25BQ3Y0TUMwSW50RlRlRWZYMmNWTzZ3MUhEcmR3NTBKbDJ1dXp3MG5TaVM3MkRQM01vdEtwVEx1U0J6aEs2MHpTbEdxekMtcWV5b0dXa3dTc3R1ek41ZC1lMHNwckV0VEtSU1JtSFhXMEtja3EwZW1rdWNZYjFoOFFVMWVVTmk0cFJxRG56bDdDY3Z5VTJaWlk0S3lmMGc?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 17:13:00 GMT",
+        "discovered": "2026-10-08T17:37:08.455385+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "مصدر من الزمالك يكشف لـ في الجول حقيقة التوقيع مع الزناتي لتولي منصب المدير الرياضي FilGoal",
+        "player": "رياض",
+        "content_hash": "639d8d3238ad9d5201daaacbd0ae2cca0dd9572f8c70932ba84ea9b61e4f33e9",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 9862,
         "title": "صفقة الأهلي المرتقبة.. محمد عبد الناصر يصنع هدفا في ظهوره الأول هذا الموسم - يلاكورة",
@@ -1956,22 +1972,6 @@
         "summary": "بعدما فكر في الرحيل.. مدرب هيثم حسن يستقر على البقاء مع سيلتك FilGoal",
         "player": "",
         "content_hash": "71ecb3d1fd2df8e7d0d7173cd38f6e002c56096575ec7409effbbfcf8e8c1668",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 9619,
-        "title": "فيديو- هدية غير متوقعة لميسي من حكم مباراته الأخيرة مع الأرجنتين - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQRUptN3VYMXZPNmhzYmkyUV9wQVpQdFBEUkUxZDBEYldFc3lrLWZQb0FpTi1xUGRzVm5ZTEtSQm9JU0tUcUJNdmxYUGhfX21PWkRuOHY3eVRjTGViZ1FuOVVjOEw4eC1YOXp0bFptNjdKSDNTZlhxeExmeENlenFNbkVhQnc3UlVZSVUxaHdkZWQ5VF9XVWNBblhtUUFlbW5OQzdKS1lMRFJ3bzBTeFJOSUxRWE1YR0Z2OV9IN3VMTTY5NVp3SU9hMk5ZRTFTbTNadElQd2t1UUI3QUlzZjM1VzRKcUlyYUYtSDdpYTRNQ200aFlIRjJHZG5lT0RjWnBDWmlFZThUd0R1WVhaeVRha0w5ejZoME8zUDQ1el91V0hPV0lDQmRpOVd6M1FiS20yRDBXdVVfSnhzRHZxLUJIWlhCVS03ZkF0U3FHb9IB0gJBVV95cUxOZC11bTBaa0RGZEdJYnJOMFZNQjRpN29MOFpLUFJ5OFB0MFNERDh6amhtSkQxRWY2WFFYMVlyYy1PUG5rU2g1NGpWUEg5NWdnczF3OHV1dFhmbkVTMll3N0hmUW50ZVVmS3puRUwxS2c2Z3ZYMFJNYWpjYzZSblZUQ2RpVWNKQXVJR2t5OXVZdjlranJOX25BeGhnREtTQ1NGZW5hSlZVX3lOR2FlbnBxMXFsaFQzZnFGQWlEWDJpOTEyTUxiS1BXc1FUR0NFNWloYnd6X09jTkY0Smx4U0tSMHo3WEQySnhuZi0wZzFWTXNBSEg1R3RtQWZpNjRTN0M0NXNkVU5Fc1g3NXplQy16aGNxWkFvMlRtS1M5WEJ5MzREZktHcTZ2d1hvUFJzeWVpWDRjNUxOclZsZXRSbnhzSldpc2x5Wlo3V0k1ZHBNZDMyZw?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Wed, 07 Oct 2026 08:32:16 GMT",
-        "discovered": "2026-10-07T22:14:37.103089+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "فيديو- هدية غير متوقعة لميسي من حكم مباراته الأخيرة مع الأرجنتين الجزيرة نت",
-        "player": "",
-        "content_hash": "c3ce26e77fa321f731eead55ba45b06f52a6b85034891066fa783e2c519d4bdd",
         "sent": 0,
         "section": "transfers"
       }
