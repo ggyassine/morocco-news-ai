@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-09T11:17:20.409411+00:00",
+  "updated": "2026-10-09T11:34:21.675292+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 10068,
+        "title": "السمسرة القضائية طيحات جوج فمراكش والضحايا متورطين فقضايا الصوكان الاستعراضي - كود",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPQ1NRbW9ydDNySWZIQUo3UWtHVlJjUDh6Ym4xd1huTE16ZlhpdnFRSEtRVmxsbWQtRHVrdWtpakdEZ1I3d1ZUQWtCQVBkYmFMa3RPaDcyV1p6dlBER2tKN0oxYU1YUmhhWjhPT2tWTm1RR21TWDBubUd1VExfWjQzWDQyaUxiNUFKRUxQY1ZJWnNpRDNKci1CdkVKSlhmNHR1RmE5ZW43bU0zWTh3WTNPQWs0SUNKYldhV1VvcWxCenVob3FZVFlmaW9FcXI2dDNLdzVkSXl0RDlaWXZhV3RLLVlrWG1zMWtFb1gzRlhfTDBMVDBEdms4MU94NXhqbkhPMl9qRU54cFMwUHNMazh3YnRKTWVXRlJNTU9kOTNCOFYyNjY3emdvME12Y0NpLVBCRXNSYjhIV1RHVnpqZndtaFA0WGpab2F1amc?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 11:10:56 GMT",
+        "discovered": "2026-10-09T11:34:00.060543+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "السمسرة القضائية طيحات جوج فمراكش والضحايا متورطين فقضايا الصوكان الاستعراضي كود",
+        "player": "",
+        "content_hash": "fe6a9bc04d58b292d08cab3bcde92b05f3605d391f03898b37366025a20a595b",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 10056,
         "title": "غواتيمالا تجدد دعمها لسيادة المغرب ووحدته الترابية - Febrayer",
@@ -482,22 +498,6 @@
         "content_hash": "baa2fbce1ff568d57d5a18ee763da462727dd169d70c467c2ea315698540fc72",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 9692,
-        "title": "الدار البيضاء الجنوبية: اكتشفوا بالصور تقدم أشغال محطة القطار من الجيل الجديد - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Sa0JYMnlIb2hwbzVtVlAtaXJLZ2tURE55N2tDUXlfV3pXYUkzWHNqWG1IVnJQbHRYSFZLbGFKZF94X2NUOUlQdmlqN0Vob0RuVDhKNjJoc3NrMkRpX050UFBSQ3ozZlk?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 01:18:52 GMT",
-        "discovered": "2026-10-08T05:49:21.800895+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الدار البيضاء الجنوبية: اكتشفوا بالصور تقدم أشغال محطة القطار من الجيل الجديد Le 360 Arabe",
-        "player": "",
-        "content_hash": "4a61a3cf665ab3e50c0b1a86412ec4cf80366352c9d876117ea88f3dc667c9c8",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -530,6 +530,22 @@
         "summary": "جاريدو: الفوز في قمة الأهلي والزمالك لا يتعلق بالتكتيك فقط يلاكورة",
         "player": "",
         "content_hash": "6472f9267d513ca1e2c2c9f3bc7446db2f88f1731ddfb89db1a72aca3be6b4c0",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10067,
+        "title": "عطاف.. من أصل 44 دقيقة هدر على نزاع الصحرا 21 دقيقة و3 على القضية الفلسطينية واعتارف بدور بلادو فالنزاع ورد على مندوب ميريكان وجدد كاسيطة تقرير المصير - كود",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOT1U2RW9aLVZ2VkVXUWxLTUVINVZIYzNTcUh3NTJ1Um5lUkFGclBsN3hHZE1ZbzFuVnNMbzVCcE5MZWNPVzJqX0dMVWFHbW1RYnM1WmZyUks0V0hfM1V1WGwtZ2tPTVFac0xNbjFkd2J6bjlHWk02RS1xeXY4WFI2STFnRnNBUThrYUlNeDFWWEdremFUWGdzc20zNGhmcE1WdE5VWHRENnY0WG5id3pCVl8yT3F5dkRfOXVuYnNmY250OHVkNU11S3VIZWd4Z2dDeFFUSVN4T0hRSkxuTmhxTlpKY1NiaFFoS29uSXFnb2xzS3FJVkFTR2N2ZnllLWphT3V1TDVUS1ZnY1R1VUpNRFN2eEllTlRoalFnZDViVDYyZDZRekM5amh0MDNGcnFESEZ5QUlUaTNZUGttZWNfVXowVFo?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 11:01:41 GMT",
+        "discovered": "2026-10-09T11:34:00.043504+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "من أصل 44 دقيقة هدر على نزاع الصحرا 21 دقيقة و3 على القضية الفلسطينية واعتارف بدور بلادو فالنزاع ورد على مندوب ميريكان وجدد كاسيطة تقرير المصير كود",
+        "player": "",
+        "content_hash": "e4b0b9f4a9ba3a6021dc79e11056592401db1c9eedb8928386c78d3f741ccc45",
         "sent": 0,
         "section": "sports"
       },
@@ -1282,22 +1298,6 @@
         "summary": "لاعب تونسي إلى جانب رونالدو في النصر السعودي winwin",
         "player": "",
         "content_hash": "aa0763e7ea4994ce15f90b8ac70321b562af31d08d1fdb1d8d5512bcd4da2d4d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9919,
-        "title": "موعد مباراة النصر ضد الدرعية في الدوري السعودي والقنوات الناقلة - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPcER1QkpiQmhkbnBnX0VqU3VTR05JYzBaV0ZjeEF6T3RkaHhoWU1jaHA2b2NoVkNhTkNYd3BTdk5lUnRfaFZHaDZYY3BkTnRhSG9IX2Jud2pudDU2Vk5HQTN4enFVVGNaV1dLUU4tSjgtV0V0a0UzcTRXc1VNZU9pWmQ1VVNMNnd4ZmdwRF9Ib3dZWjdQSWM0eXY2dmM4NmV1Tjdkdzk5LVVucjBSNXMxeFBScTl5RHBUNjBBbVl6RmNwZnJIUFRBNUJ4cjB3NUtFbnBrMGc4U0VubEpVckYtaXNKM0RVekdrZ0phQk9VejNHa0U0UjE2NS10OVJVZDNCWWR1SEltVnRROFl3SU5uZGVsSjNWak1haXc?oc=5",
-        "source": "الجزيرة الرياضية",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 20:14:49 GMT",
-        "discovered": "2026-10-08T20:36:19.444518+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "موعد مباراة النصر ضد الدرعية في الدوري السعودي والقنوات الناقلة الجزيرة نت",
-        "player": "",
-        "content_hash": "bd0edff99b108e157079618100f4f3a0b5c708c8998bff2648c643428dfb0158",
         "sent": 0,
         "section": "sports"
       }
