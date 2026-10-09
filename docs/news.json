@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T21:38:15.096743+00:00",
+  "updated": "2026-10-09T21:54:23.066372+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -598,6 +598,38 @@
     ],
     "sports": [
       {
+        "id": 10239,
+        "title": "4 أهداف في 12 دقيقة.. دورتموند يفتح باب الصدارة لبايرن ميونخ - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxQR19lNV96UU9YVUFkT0hzRlVQSTlCLVR0V0JJSmVIMkZBd3lvcTgzbDVwR3hFM3ZnV09RV3dXa3lGWEk4RGxSUjdQcjN1Mm9DRlBoY0dpTlZVMzFPYUZrQnRqY3JHeERkeWM1Q3lkZDJxSk85YzZVdy13eG5zQkJicDk3bTlpSmVrQlBra0JlWGlEZEM1WXdzVmdxQ0tuUmNWY0tVUS1DRVMxdDliVll6QjQ5NG82bnlCNXRCT0ViUkZPNC1hVGVISzZ0alpLcEl2R0g0UlloazFIVTRKWmRRZHIycndBN01jRnlMR2VCblp6MkNmTDg2QjZWaUVRV19pSGpBRnhSaFkyQ3NhOGFOZ3lZVzl0RFAxSGMyZXFoZkRibUlJdUlGUElmNWJIUHBLNFlnTHhZLTNCQW9aMnhxNTlrdTRycHJDUHc4SUpmZTAwTWNlV1dkVHpSRlVVemN4d0lmQUlSTzFCdlZ2Tld5NDlKWjFzblh0RTItOHo0Ymg4ekJsc055Ym5ZVDl0UWRBdXFlMm91YTNiQUFwZDRIUzloUnhTcTNUTzIxckx1N1Yyc2R3QVdvQmFVSko1Y3A0Nmhhbzc5ZUVoRWo4aDZnS0I4dDljX2tkVC1GYWtVdmNHN0JZZlQ4bkliX0hUcS1adzZyZlpSdDV5UEsteUdjMUpFVXJ1cEpocDd1YkNiNFV5cWlJTEVUdzQxUDN6eE5ZUHljMVhmcWV1RWl4cWo3YnBwREw?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 21:50:36 GMT",
+        "discovered": "2026-10-09T21:53:56.913483+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "4 أهداف في 12 دقيقة.. دورتموند يفتح باب الصدارة لبايرن ميونخ Kooora",
+        "player": "",
+        "content_hash": "0a9baf95c4e9f21d43d3c64351f1fbd9f4790b78e8de4cdf4044d0e6852c666c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10241,
+        "title": "\"أول منتخب إفريقي يرفع المونديال\".. محمد وهبي يحدد هدف المغرب الأكبر - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNYVdwR0pZeEZQSVd4RFI1ZzRObDhNOUllUFhVY1Z1Mi1OeXFIUmhPQU5SUmMta3N4MjF5UWFaVk52QmZpaWxkR1hCcFZIb2l6QVRJdFJGTnF1X0ZoUE1ZRVFtcmZiYzdiMDNxU1lWUzh6cWNLdi1HMGxaMW1iSlZVcXRTekdyMGp6Y25mSkZnTDczSzVmTjVRdzZfWnI4dWZNRkFkc1BOZVFyRkVFRWNGUTM3R21IeHgzVEZWWlpoeW9yRlg5WG9BdFVoWFF3SkVMYW40VHNiSzRwSW45cGhvSkRnQV81dm10RHJaTWhET1B4VEgxWnVURDk5VVVLdVpRUEVsWXRkSG83QjFfQzUxbkNHTVZIMWZGZ3lFSFp3bU5aazF3MnBscGdOTzMzcHNKNU1Vd01VRWJWR2xmNmRoWnVnb0dSM3JfUm5xZnFRRlZuREVNbmc?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 21:48:08 GMT",
+        "discovered": "2026-10-09T21:54:04.624345+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "\"أول منتخب إفريقي يرفع المونديال\".. محمد وهبي يحدد هدف المغرب الأكبر 365Scores",
+        "player": "",
+        "content_hash": "2fb39d73d6bbef594747eebd07860aebef32f75bc4a05ccb3396001f6e976009",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10237,
         "title": "الدوري التركي.. جالاتا سراي يكتسح قاسم باشا بثلاثية - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxPM0w1WFdLNzJUckNRYnR1RDBaSXJ0blBfUWc0d0txZDZOalExMEhkeV95bHdBQ2gydmhtZnlJM0xEeUJZcWNDSEpXRDZEbHp4aHVER0p6d1RqeXdvTjk3a0ZWNDR4SHcxQUwzb1Y1NXVIZkRPNjM4UFRHYk9qTzBNN19lLXp2ZTZwSm1tQk4zR014UFRaVDdCaGFPXzF5ZjBIY00xdUVtX1Vncm03LVdlOTN6MTYteU5KSFROUWxkSVlDM3VXV05Pamw3ajREU3I1T0RxUHZsZGUxR1pydGhyM2tPRTEzUk1JOTM4cHhWVmkwQWppUTNocmRsVkg5cXg5Y2JtXzZHMGkweENBM0VxTlVUcExnR0tEUjR4S3BuQzVwX2ZtXzEzNFNySmJPQkJfeWlhR3YzXzNDdjl0cDJnekxkQlFqS3dfeVZKMHY4SnFfT3BlVEhwTGh6M0pHZkFRMVh0M2t3alV1MUdZd0trWDJqRXBKUFlBSk0wRkI2TTZ5ODRNQnpzQ1pkdDdiR2NQZTdrcGFMY1ZLN0lzenVLdmZKdU5ReUJINTBSdmFWdFZ1bFBNV0FEVHhyOWFkWTFSVkJiaWZCb9IBzANBVV95cUxPTWU2RjhKTkNka1JCY0h0a1RqbEtvVGR5b2RmM2NhWUljSk5vV1BHdU9jdk1xVllsRk5HQWdJT1MwSlhOdGVaQUU2Qzc4ejFTMnZPMHFodk1IZ3E3aGdVV2ZBc0VuXzZJdWltX2JtdEpmYWZLOVMtT0xqc19LVllBeHQwbDRNNWt5ajRKV1lIZGdnbElXV21zdGFfN0JTNy1rRmo5SVJFS2RpWTZrc3FEbzF2N2VhalJHQWFsTDYxT1M1T01BcDYxakdHNGl4WGRUeF9RYXdOLU1nUHp1cFpnUjFUUVBLT3lpQTB0U0dpT3FJYWFtX2o0bFpqSmVDdno1SkwzRXVROC1QMVY3bGVUVGtpT3g5am1WTnBvY1ZtaDVDVW5QN2JVS3ZDOTQycHYyTWlkMmhiYi1qUDJ3RU11ZXNZbDZMd3F6RmJHaFcxc3ZRbnNRcmpqTW5ZVVFyV3YzMlV0ZnZjeWlBT1FBS2U3MVp5RjRlbU1KclVsVHowRU81Skl5UTRxR2VMcFJzQnZWMVhXQVdWUXBMaHp5MTZsU2h3UHVhNWFPN2N3ZXZxcjROb0ZJVmFmcmVZdUFqVUlYbnhOT1RFeUUydXIt?oc=5",
@@ -1078,6 +1110,22 @@
         "section": "sports"
       },
       {
+        "id": 10240,
+        "title": "مدرب خيتافي: لامين يامال ليس الأفضل في العالم - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNOHNsX0E4cWs0bm02aXFCaXhiMEF5bmJkeVdRWjl1czFFM1lKeFh4Y3dyWm5ra2hielZ5ajN5MERNYm9FaXBIT1MzZ2JlMzhFSXEyRmpyWUpSZ3dRNzhvLUN6aDZycFZaVjA3OVdjZFY5QTRzNWxpWm1XbmhxSUlkME9TTUFRc2h0VHJhVXktNXRYLUYtTjNnWHk2WFpaWUxSSENrdmQ3b1FmdzMtd1E5MXptT0t4eDdrc0g5U1EyYXNGUmlNajJFQXFzUzJNQzAzR2xBRk1hT1ZvR2pZOVhVU1RIaTN1VXR0Zk9faTNTM0ZBZE56ZG5ocVpGNXlqLWhndXUzQkd5ZVNvTmNwSzd5cE1IbEd4RlhsSXZYeGVqb1dEMzl5TDBJNjhfNzZJaXAtRXNNdmtwcnI4YURNQW9ObzRGNUxOQy1fbVJjeTJIMjNUOF9GbldZUm45OFdqNU1ncEhram52cEljYWpVWWQ1OFJPcFltQ3UwMWl1RlN2d2dJMjDSAYgDQVVfeXFMTm1xWnc2QV9jMmhHRk05SmZSdGJRX3F0aWRxSDF5Tjdnb09ZVU1kclBXTzRFbkpfUDh3NlRIVVNUeU03NUVPeUk2R2ZRTV8zZEdPcHZDR3ZwQXFXR2Z5eWExbEZfRzlCLWFvd1pkRGVRS2FMSW9UQVVTSGJXM0ttcEJva0hTQnB2aDlKSFZvQXJfcV80Zi1xYWtmSzZpNWJfdkI5Q1lNR3VWM0xoRnYyOUFtUWY5TzZLVmZVc2FHUDBLeGZxZTJjRWNzSFc4bjBQbXdXUGMxTDcteFN0ZVhPaUNaaVJlX3RMN1dTdEVkWnJjeUFaV3dmalhfZEtTUWplc1p6TnY3WC16TnBTMzZKX043VkVmV1FpRXBPNzJoZ1VVZlRkM3RSTWRyTEZwa0JoekFBNnRVdHZmZU9EbHZvMm0xWDFCSXJpWTlYY1AxSXZiaTBKWURQd09wb1NGWkFIQ2xaSVc3MlhhZWVIQTBJQ3V4d3dXaVd0TVNKeDBROGtjclpaamJHei0?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 18:15:00 GMT",
+        "discovered": "2026-10-09T21:54:03.995420+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدرب خيتافي: لامين يامال ليس الأفضل في العالم FilGoal",
+        "player": "",
+        "content_hash": "fab7c660a5d7c40e7aef1432810f3c96a334f120cebe76778e0a82609ebdbbe8",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10156,
         "title": "فيديو: مباشر/ الطاس زادت فيه.. لماذا كل هذا التأخير/ باطلي يضع فتحي جمال في مواجهة القجع! - جريدة المنتخب",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEZkVSbnZvaTdlOUx4Z3hzMDJVSW9pU1ZqUlpZT3FmMFZUejZ0Ui1mdGtvZzM2ZkhBQlItVjk3bUZydV82WVBBOWNhZmhOeldDRHBHdw?oc=5",
@@ -1346,54 +1394,6 @@
         "summary": "توران بديل مُحتمل.. إقالة مونتيلا من تدريب منتخب تركيا يلاكورة",
         "player": "",
         "content_hash": "2cf4052e427ae2479f99b94d8f8a6790618287ff8e187cab9081050c2d6ff6eb",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10135,
-        "title": "\"ربما أتقاسم الجائزة مع ترامب\".. شاهد رد فعل نافي بيلاي بعد فوزها بنوبل للسلام - CNN Arabic",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmZKWEp3VV8wT3hBWVJJMDNpNG44MEgtanpXcnVnQ3hQbkwxSWZoWEthUTFDSEp6ZFBLNHFzcVUyN25yM2MzOURVQmZpOGJKWEg4RXpSb3owdGZpSzVZNm9lX2pmVm1HMElEa1MxV3pJT0hEYmcwTTA5RjJvS2NNRXhJYW1ubXdKa3pUZnVVMFctenJIRFYxODVtLUF1bGpIZ1hyQjBRREs?oc=5",
-        "source": "CNN بالعربية",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 16:10:27 GMT",
-        "discovered": "2026-10-09T16:56:41.407623+00:00",
-        "category": "الرياضة",
-        "status": "إشاعة",
-        "summary": "\"ربما أتقاسم الجائزة مع ترامب\".. شاهد رد فعل نافي بيلاي بعد فوزها بنوبل للسلام CNN Arabic",
-        "player": "",
-        "content_hash": "d2be6035b2d5327a4ec5890fc41a34236db4d6687e9c41a7120c9cd9d24f9cd4",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10171,
-        "title": "انتظام بانزا والدباغ وكايد في تدريبات الزمالك استعدادا لمباراة الأهلي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxQVEo5enZDRlBTbDFVWG1SX1otZUFzY3drcHQ4QkNiRVVWbm82M19fQWUxN3ZaUi1yXzF0SlgtLTg3ZXhRejExa20yTVRsRkJzVXU0dEpCZ00yRk9xc1FOdDBQdVVnWG9BVFJPTzN0dEYxSEpMNTM5d1FLNDYxRnhpU1FkbzFrWDIxd3lOTmVYZlo3OVFaMnFDejl2ZnhiZzNWbVdwWjg0cmRqUUN0b21mNUlnRmYwOFN0dlpDZGFNLXFPaGhxZXhMZHdaajdORzdsMnUydnlBUlF1RDZKekxwcE9XeVpsbUxyajhaWEp1eTNtRGtURmM4enZGNmJMVEdoQUIwYy1BdnBvOGQ5R1BUdV9HSjNlOWpseUhjaHVPNzVfWHBxYnFGZm9GbExhY0JKb0ZqSzhteXRPMjB0MFM0TmhDcVVhY3dzNWRXVUo1Q3RDaVV3OVY5dDNTZUtCMGhPWmhjWXRQam95VU41REI5b3hSeEtPYW9Za0RsR0xwb0wxVm5hdzY5dWdpSEpPWWpxT055SUJpMnpEaEcyYnlJeTJhZkF0MTRvYllEazlqQmhiNE14U2tCSUFWaGtFR21pd3ZxWWtPenBES3o5dFhTenpDdnU2VjI1SHZmMFp5cHFUWjZFVUlqWnZVYkk4VTZlM1ZRaDJIT0g4MUItYjlTLTN2ZDNiVjlGMFplUEFXY0Q4ckg1dUEyQUhZZDZSQUZEYkZsWFFxQ3VHcWxPcFBKNG11M3BuaGpRX1RrOTF30gHDBEFVX3lxTFBEcGNjc1RYQkVxdHBPOE1icEllMUFvMy1XbG9KclFzLTF2RjcwOHFvSmFHY2F2MVhoTDNQdzJ6YVl3LXpEUUtrUVpxdnZxTGhocTBReVU5cEhDQWktbmNFSXYtZWdLalhkSWxjZXlnNFN5X1RyQVlyN1ZvODlHVmpuRUNKdjlnZ2NGcmE4b1FxbUZzR0w0OEJ5YmZGMzE1V0x3dVNCajNmUldqaGFfa3dqRHpOREwtcFMxaFlITDZha0trSVpnSWV0TDc0OTRoODh6Y0R3aUZCRFhTZGxJNFNYbmw5Y1JKMTZhU0JzbzE0UTlVV2lvWktZSl9yX2pkaV9jQXJWSzFzUW4yeFJnZ2lnSEVkeHJFTFZwTEdGWnVBNDVreXR2bFhiYVB5Z001VWZ0N1VPMDlPR3ZWaGRFUW0wanFELWRkWFRUVFpBT3R2ZUFvOUZ6a0x3T1RCSWN2WGZkLXBqUmYxQU11QkdZNlN5TFR1VXdGMXlNS2ptVG1RM0RjM0FQWmxHaV9CQUs3VTRDS0lad3hTaS1peFBrT2NHelhfSWp5WWhuR004MFpHNlVWdGdzNTNub1d4ZWVUVFBZb3Q5M0dUQUZYV3ZyNzhlNWhwUHBXbkJrdHF5YXp3Qm1PXzJuZ3VDRHVYeHJ0QVE0XzUtNzlDYlNWd284a09oTmxnZG5RbUFlVFlmdE0zdVF3ZzQzZFJQYThhV2pRUkFJY0xhbVVLR2tDTy16bE9BS0pJQWVtQVBqZF9jaVBfRTNaZw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 15:56:00 GMT",
-        "discovered": "2026-10-09T19:28:25.629796+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "انتظام بانزا والدباغ وكايد في تدريبات الزمالك استعدادا لمباراة الأهلي FilGoal",
-        "player": "",
-        "content_hash": "039184d5b49cefeb2f938f174e39aa6740b71351aee3979d78751de14d2cd01b",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10120,
-        "title": "نافي بيلاي تفوز بنوبل للسلام تقديراً لجهودها في تعزيز القانون الدولي - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5UFdKLW1pZVZsUjNHSldKRGplUEc2ZllnTG1FU0VZSG4xQlg2MnhMX0RPTFBJaWRsdGxlY2pPTVNtOWlUci1ELWt6MjMtRk4tWGRNUWlrX2hxSGw1cVHSAWNBVV95cUxNUFRJdU43TFVtM3JOWGRydXg1SU15amNUakRpSzgzWXN2ZjFyOFlVVkttNDhEamFpckZDZ0JsMUdFQ2xhOUdzNkFkT2E0MnBqR0R6c01fYTd5bnk0bkZleFFXSDg?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Fri, 09 Oct 2026 15:29:47 GMT",
-        "discovered": "2026-10-09T16:18:40.865192+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "نافي بيلاي تفوز بنوبل للسلام تقديراً لجهودها في تعزيز القانون الدولي BBC",
-        "player": "",
-        "content_hash": "2ee798869cfdf7884fcafd1d972e4949197ae55f92fca6bebc9d9fb31efead9f",
         "sent": 0,
         "section": "sports"
       }
