@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T22:25:17.748825+00:00",
+  "updated": "2026-10-09T22:42:06.594498+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -224,6 +224,22 @@
         "summary": "الرباط تقرب الكتاب من ركاب الترامواي Febrayer",
         "player": "",
         "content_hash": "9ae41659eddbbf31240e4296711a09c1be1070f0f246ce5c4ee81466229eed4b",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 10251,
+        "title": "قطارات الخليع خارج الخدمة …تأخر جديد بين القنيطرة إلى الرباط يربك المواعيد ويغضب المسافرين – اليوم 24 - اليوم 24",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAtcHFzb25lRkdWNFBTaFh4dTJ3dkVsS0Uzc0hfNUhmM1FpaExMaE0tV0pqaXRodkpkMlZZTXA2OVE3WmUxRGU3Mk53?oc=5",
+        "source": "اليوم24",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 13:31:35 GMT",
+        "discovered": "2026-10-09T22:41:33.249770+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "قطارات الخليع خارج الخدمة …تأخر جديد بين القنيطرة إلى الرباط يربك المواعيد ويغضب المسافرين – اليوم 24 اليوم 24",
+        "player": "",
+        "content_hash": "d09e25b025ecbbda0b7ba435669d7d0392a23672d800090f17669a875bb70316",
         "sent": 0,
         "section": "morocco"
       },
@@ -578,25 +594,25 @@
         "content_hash": "4bc867785819253e8f30a7a0751e287214e82298b305cff440f3943a8347218f",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 10066,
-        "title": "حبس الأنفاس لدقائق... كيف يؤثر على الدماغ؟ - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxPb2VfTDJJbEp1QmlwZUpsMFVUOTZ4S3Z1a0N6WTA5aFFiMnJMUVJ4NTE5VFZKTkxkYnZoY2JxWmJZSzdQMTFKMWowREJieGs5UkxoQnBpLTEyUDYzNzJ3eG5MaGRSeko4bFpIQzQtV1hWX2NoZFB2RDZJdkJUbWxvcHRpbTdMRlJQMzBVY3lUSFhPNzBZWDMyVXlHRkw1UnVWT29WUWlrRXVPRjVhZVA4eGJpVU5ickFIU0pRZjllelN6TWdITEVsSU1KNktSaVlQakdzbGxaZG1rekc2RHU1ZVNIQV8xNHhfTllFMFcxSEpCTmFMbGppZk1uN2h3NUU0WjBONjVzREdyMXNtNXVfNlBKaXNtenNCSVRCM1FmenVFbWRyM09ULVZlZlJ2bFBzbV9rdUFYcERJcWh5aHA4TlhFRGNtREFIaFRJbWNHWFA1VGhVZ3YtRURPblk2NFF3alpnTHh4QWduYXNLbzVnVTJn?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 12:41:34 GMT",
-        "discovered": "2026-10-09T11:17:14.654888+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "حبس الأنفاس لدقائق... كيف يؤثر على الدماغ؟ الشرق الأوسط",
-        "player": "",
-        "content_hash": "940aaed02815d2fb422de724ea8674cebba270fa3d67e027b255245c52fb2299",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 10252,
+        "title": "شيلفي لاعب الدرعية: ثلاثية النصر لا تعكس حقيقة المباراة - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxONXdsSWEzaXRYMERpUUpZb0xKN2lxNFB2N1hhMmdhZUdPcUE2T0t6WllOYkdSQW9mS2pzREZ5bnlDWXkyU1d1SE5DaGxCWXR4TVpXbmtkeUFHSVhZSFlXejZMTklPTktiYjNscU9sSHZmcDhnNk12ejZDbUI3eHVFSDBHUnZ2Y2xFMG5sbERIN0pQMHJUaTZCR0VTc1lOc19xLUJUNHpmMlAzclVpOVVzUmtJeFRscFU2QXQzVHktVmtHV255anROdzRLcnBoZWh3Q0ctR21ldmhfVGw1eXZKajZyWGZ1SUZfazI1ZjZ4Y3B2bHBoUjZqd2R1TkVzUkNPNk9ld3ZOY3Bmc2NhSTFoRW5neHRUY3dZenFWbFhKeEFzZVpBN1pOYWVDMWFjVjVPVS1jLWE4emVLbUlndmk4dWVPYmN0X29YbzBlUzZjUnNsTlotNkVYWEVzUFZoVXFyemt1LTd0S1ZPX2F4emZUVncyeVM0T0pQS3QtUnpiXzdhTC1uTWstOW5uRnZWM3dJWTZxR293ZFUtbmJvUXNjdGpCQ294a1gxczJDT0hDN2dsQ0VoT0dWQm9jM3M5d2FCOWF2a1lsMXgzOGg0X2tjNUJMdVhhMWY4SDRZeG1LRGROc1VjM29jSG9JVE4yM3JXR3JoSXU0ejlRWnJLclJkZWpna1pGSE9vTG1qazk4VVB2c3VqLUNDVHNkVHh6a2gyT3JrZUFCdm8wWWN0Nk5oS3JLSkRxUjBubDZmQWxISzA2UmREZXNWemF5SzBaa1k?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 22:33:44 GMT",
+        "discovered": "2026-10-09T22:41:44.009338+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "شيلفي لاعب الدرعية: ثلاثية النصر لا تعكس حقيقة المباراة الشرق الأوسط",
+        "player": "",
+        "content_hash": "614d8b5a59098a96f06dddd784797847da15e31c15582973347ea62b79ef0995",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 10243,
         "title": "هاتريك\" الجرايدي يقود لبؤات الأطلس لهزم أوزبكستان - جريدة المنتخب",
@@ -642,6 +658,22 @@
         "summary": "أخبار و معلومات اللاعب أيوب عبد اللاوي مدافع مولودية الجزائر winwin winwin.com",
         "player": "",
         "content_hash": "ed6cf7415264d5ffcd993841cc8002709f9e4db94a65146f9a91b414cd5a5349",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10253,
+        "title": "الزمالك بلا منطق.. وشيء يفتقده الأهلي.. \"زوايا خفية\" للقمة يكشفها بودكاست \"خط النص\" (تحليل رقمي) - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMivwVBVV95cUxNbDNNdkxtTE9wUVlKalMweUp4X3VHX1l2Q0lLOVVvR2E4dlNpT3JGSUN4VWMxS1BaemlWQl9Kd2VjbUpWZUIwcmlYOHNERUcwQl9HbVFiX2l1aHNtTU12UHAyeHdUc01BRnFwTVlHeTdmbEFDaDBnbElNMXhkX1ktd3dyTnE1MTB5Q1pHSlRoaFUtMmM0eXNqMDNlM2ZXRzdyWmtSSHhnUXFGbWpNTVZ3MldDSWh2WkRLRDVvc2VoU3ZJTC1BbFl0S2Q1UnByZ1BJUWV0OE5DOGI4Y096Ukc0WDkyTkNIT2RRSXE5eFhxNjNrdGJzQktubnYzYXVRaU5sZzdqWVFPaG5yYXBqa1U2S0M2bzlmczRfMWl0WEVaSGhMQ0pXMGVEQmZteVcxWl91UkdpZ3RaSmRJR3hzVWo1eWMxZHVXNDNMbGp2U2dBMzkzbjU2dERVWDB6V3FVd2prMDRrX0lwNjc1XzZ4TlVjaUE1T0JpNnFLNVlyNVlzUm9mZlJsUzFRdk9kNDJlYmpsdTFKdmlrVHZYRUZjWEdydzE0NWZEQlppZnBwWXoyZ2p1S3FMOVNPanhKQ2h4LXFXai1nYUlvdUQtRk8zVlF0dHVuSmo5Q2dxd0p1UkQ2QVVTYWJxTG1SYXRRNDdsM2tBZDVpWmJHY1JjV2V3alVnMUhIN09neEx4dWJpWVpJUUY4OVg5aDdyWC0xZTBlODY2WTdWcDVJOU5OeFdhMm9ocGlfOXU5MVNxNmhVQWNxRWU5c1poZFlldWJTVW5pek1pbEhaazRtMkZzd282TUVDQ2R3b1pqSkI5SFpkMWM2R3JXYjE1NDVILVNoOXVfMGVrRVRJWGQzeXJzWXp0MTZqcURxTjBPZ2JzMEpQN0NqTkhJaHNlTm9QMlFDU0pqQXB3WTFGZEFDUlN5RGswaTN30gHEBUFVX3lxTFBRQkZTOWYtZy1hY0poUVFfMjQwdDFKWHltd3c3SEdiSlFqRU5NY1BEU0s0ekFSVjJkWWl1cFAwQ29ESl9LYmVUM3V2SXhvU2NUZmh6TzB5LUVfYWJiZ1h3VldFLTZCUC1IWnFoSzB5ZDRXdGxXcVBwR05PYUNMeDhNUDNLOTZSSnFCd21kckpUTThyMm01ekVEUVVVWEc2VEdOc2ZraDlYbnhDUWFobUM4aXUtSmpWQl8zM2k0TXZsdWZJRHRkT00zeU0tTXJCSy1nVjhyc0Nzc2NwdEhKTlhfM1hPaGRKdEhacS11eHljYlZSTkl5bURZQVA3bjdvRWU4UGRmbF9rdUZGeVlfV3NFbDdkNkNkakhJNjZOcmEteXhRdVB2dW1ma0J1aFlmNVE4S2F4bUY5ampPc2c2QXBzR19tUzBqMzFlNC1LQ01kajFEOVdsWGtTM29GU1pzLWJVREZiUTlyN0ZlWkNjaEl4dERvQk5SZTlBcFRqWHJFQXEtOWF4MUdPNTZoT2EwSXdoV0VUVmh1cFlsNDJRY3lCX05TVWhQNkpWd2dmd0x1UHZURXVxOWhiY2tVbmZnTGJ5dVdPU19Ub0ZocEREZEhPcXNGNmtLRlZqdjYwYkxjMGZBOUdia0VjVUl6SFFWSzZ4Tlk2ZlctRDNxMXVnNXdIZWNsajFxZGdKcko2a3NjQlh1OUVIbWQ5WTNORU1McTJhdmJINGJkbkl4TjA2Y0hDa0dNMFFKTXdjQV9Lck5MRTJCV2otZm9sWWlJc1NzOVJ0dW94QUJ0S08yeEJOVE42UThDcnpVQk9MUEVxc2I3S044Sy12U3NYbHI1Z2RMNmpyZHNIOUNRNHBkWk1fN0xYRTdPcEhLM29JZWhORW1vN3VCVXhVT29GOHRPLWpKalduQVdKMXZVNmtPeWx2MUpoSkFGUg?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 22:03:00 GMT",
+        "discovered": "2026-10-09T22:41:46.323882+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الزمالك بلا منطق.. وشيء يفتقده الأهلي.. \"زوايا خفية\" للقمة يكشفها بودكاست \"خط النص\" (تحليل رقمي) يلاكورة",
+        "player": "",
+        "content_hash": "cd4e652e954a22659fd59011890c85b362d32a46cabe89c9b304f50e4446efe3",
         "sent": 0,
         "section": "sports"
       },
@@ -1362,38 +1394,6 @@
         "summary": "هدف وحيد كتب بداية الصراع التاريخي.. حكاية أول قمة بين الأهلي والزمالك يلاكورة",
         "player": "",
         "content_hash": "cee60b5afa8f5ed4eca2630d7f76a7d6a249fe35b534326d10b678d9982b8d46",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10173,
-        "title": "إي.سي ميلان يراهن على عميد الأسود السابق بنعطية كمدير رياضي - جريدة المنتخب",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yUXhwdGpNd3Y2WE9yVzFPM0EzRzhPbmpZMGQ0OE56SW93YUl2aHFuYjY5Y0l2Y1RCQkFLRkExdDROcVpRMG96Z1k1eUhQUTZ1Vkx6NQ?oc=5",
-        "source": "المنتخب",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 17:14:53 GMT",
-        "discovered": "2026-10-09T19:45:30.855740+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "إي.سي ميلان يراهن على عميد الأسود السابق بنعطية كمدير رياضي جريدة المنتخب",
-        "player": "رياض",
-        "content_hash": "468d1daf0d4dbd8694fa384f731827381c79106e13da7d91dd4a79eafdf3152c",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10140,
-        "title": "الدوري الإسباني.. ماذا ينتظر ريال مدريد وبرشلونة في الجولة الثامنة؟ - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxNZXdFeURkT29kTEFWTE5RZkJNVjYyZ3JocG9oTzF3NVBBbTlKRXlKVmthNFlHakk2MlBOXy1xWWpCbXkxZF8zZjZiWGt2aFF6bUNVWVFyWTlaZ2ZmeGZZYU41NXF6RDlIQTdZbmdtMl91NmJYYXd4eGloTmJTVUpBYjhHWEdSYXZfWGhEMUhMN0FrSVdCdnVHTENPb29WX1lERzdMLUZzdE9GZmhCQ2ZLczFzM2JwTlhyZjhPNTZGQWhRRGxRZUZqWjdnc2tualVEdUJwT3pjZGhvTW5RellSZWVaemc3V0t1eUc2QTZ5OElVZ1lQNGlVTmpJR1JWbDVYWmkyb1d4M2ZPWkhURy1sbDYxSFJXdXlWYnRWZmlNZnRWMGVTNGR4M2pNNl81S0NIZEFSY2VwMzdNWVpiYzZoeTRjWEd5QmJ5MzVjcHZWdVhCQ0Q0bzIwNFpUNnVQSXV6aWZ5ejN4RE56RURqQmhvLWhNQlU4RW9yZE0xd1FKOEt1NjNIelNQWTd2dE1YaWloTUp1NHhJME9YMjdLLWUxRmhaU0kwcjFaUDlrZkwtSWZUOFN2aWY1M0dqelZKUkRjNGhhZW5EOE5lT2lYdmRpb0RISG9WaS1QbURIOWF3SUozeFhRVXlfTjhtUmlVTmdaZzJmMHFYT3hXQmFNWVA3S2hGQnBDQ1BrTk1nTlo4RWYwUC1SNGhtd1Y5eEY2N1hoX0JJWjdB0gGrBEFVX3lxTE9ZS2FXYVNVRXlkck9BdGhIVVpjVWZQUDgyZDZNWGQyeS1IUWpCekZoZ3luN2k2dnlRSVlXTFpxM2pSbUQzYjNIQU8tRFEwRlZ3RWYtNFBkSEROQm41N0hxc3BnUVhmMURyeEpWc1UxOGFYeXFxS0xEVldfb21BbzRteENmbWxGTlFCLVVuUXlUX08tVy1kVTAzb0pXOVg5Ym80OHpkQXU5TnN5eTlMQjVEbkFvdlZuWG1aTDEwdnZSVlRrd3RzaFowdEJRZm1XYk04V1dWb0ROMERpZTgzRmRvWWtsaXFRNTlmcmNMWmxTbEZ3NURTR2RHNnRBalN3QTV0SkhPaVk0SVVLc2JWUkxaTXktQmFTRkJuZDU0dVVheVNlbXZzSTU3djBTZE94ME0yaDRwRDZMZWdlU3pIS25RZklybUdNZk5URnBRZjZlaXpLUkFSNkJBTHN5d25wV2ViYlZHSU1iT1licG1Razh5OHMtZWFHY2dqTW5XVHNZdG9uWEdoZmR0ZHhTOXUzdFhCUVlfX01oVkNqZy1XWE1pM2dwYUFjYUFKZERIOC1hU0QtNlJfOG8wN3hURmd4cXZxQVBtTW80c1ZZNEl3OWdTd3MyVjZGSjE2TjloLVVGRWp2WEw2bHZja3l5M1d4YnR6VXNuS0k1MVlQRDNPU2c5LVlDRWZ4d2JKU2lPa2pUcnRUSHJxY2tveFRmR2NHNE5ETEp6ajg2YXd3WQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 17:13:00 GMT",
-        "discovered": "2026-10-09T17:27:04.778886+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الدوري الإسباني.. ماذا ينتظر ريال مدريد وبرشلونة في الجولة الثامنة؟",
-        "player": "",
-        "content_hash": "df727cffcb69d424838ddf6d935f5dbd247143da1d8003ac7d1d2e7dbece4451",
         "sent": 0,
         "section": "sports"
       }
