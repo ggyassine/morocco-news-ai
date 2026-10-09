@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T01:02:15.550978+00:00",
+  "updated": "2026-10-09T01:22:34.957475+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -438,6 +438,22 @@
         "section": "sports"
       },
       {
+        "id": 9985,
+        "title": "جدول مباريات اليوم - 9 أكتوبر 2026 - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxUGF1QUpxYXFZaFpPcGM5d19Cc3Z0bmt0cmxUbFZFdWZtOVFFMVVmcEo1MWtKQnZoTDdUZVc2NlJPbTlGZlo5UUE5M19ESXNnM2sza1FuOW0xTEk?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 00:17:13 GMT",
+        "discovered": "2026-10-09T01:22:13.232920+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 9 أكتوبر 2026 FilGoal",
+        "player": "",
+        "content_hash": "08e64be0bf0aa339e05ecd275e060ceca5edd7b9a674129dcaa1503e706bdf02",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9977,
         "title": "جدول مباريات اليوم - 9 أكتوبر 2026 - بطولة الدوري المصري - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWHBJVTNHZnlCOVVHRzRkZ3A3SjlHa3NmcHBOR0ZjNUhXY0w3SjBuQ0RpQW9tcXJaaHpzQVV3M2JqRFBQUFd4VWpuQnBzMk9RMVVYaUk3QkdabmlqUjFkbmFpMGNnX1Z5RUdyTk5mMF80ZnJqeEMyZUUxYV91aHotRm5iV2NtVWZDa1FpbXRlQ1BCRkMzTnMzcHh0emJIdFd5R1NwY0lXV0FMcWZfX01nNHRqaEFVSVhxcTRNaFEzdWlwUmY4cU1OVzY4X2RZY0EweU8tOXg1LVRsOVIxemVuSnlvZjZ6OTZRRXFBT0xmRXo1cXc?oc=5",
@@ -754,6 +770,22 @@
         "summary": "موعد مباراة النصر ضد الدرعية في الدوري السعودي والقنوات الناقلة الجزيرة نت",
         "player": "",
         "content_hash": "bd0edff99b108e157079618100f4f3a0b5c708c8998bff2648c643428dfb0158",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9984,
+        "title": "المغربي بنعطية من المرشحين لرئاسة قطاع كرة القدم في ميلان - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOTVVjZU9hUm5kVlRIZUJtUjR5ZXB6ekRBdG9TZ25TYTlLdVRWbXp5N3NrVzI5Nnh2VTh0ekdRWmFDSG9DSDZabkNwb1Vtd3k4NjF6d0laQjA2bDlPdjN2YzVQLXVjbHVvcEpQbUFncVk2V0NaOGpEa29fejN2WWNKSWQwWEJCc3YyTzBpMXFGREF6a3E5MnBaTk5qb2k5WW9SZ0xDOUdOT09KZGRCZmNjTHRmOURtTnhJLURHM3RZbFJ2b1U5MVdzSWJyMUs4LTRYVFF3dWpCdTdWci0yWk1WT1E0LXM2dUpzblhSWDk5N0pYb1diVnotMmJzY3RmS0tUVHNpcnA3SmNlYnk0QktXY2xFajJibnZ3eUlhM0xxN29iZmdESE1TbWRucjFsOUtpZ0tZRjhiREl5ZXJCSkc1Sml5ay1DMnZBWTc5NkNTSW5HUFhyemZsZzhSUjY2Q2FJVDdjX1dLVzRxekItUDh2eWNmVkJ2aDgzT0Mzbms5VjJURHZmZEdfOHRHeGhFVS1QOGlGWEMySzRaUVdNYllSc19KcWZ3aG9kXzhhcVlrMkt6d3Q0a2xOUlVjdHlLTlBzTUhpbFhnOHF5S3R1NFduUlE0ZlFBQS0yREhNU0hDSW4zY3BCOXZr?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 20:13:10 GMT",
+        "discovered": "2026-10-09T01:22:09.799404+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "المغربي بنعطية من المرشحين لرئاسة قطاع كرة القدم في ميلان الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "10e60b3bda6f4ff84fdb8efae4f787993dbfe04c26f9fe83162d16e2b92a582a",
         "sent": 0,
         "section": "sports"
       },
@@ -1186,38 +1218,6 @@
         "summary": "أخبار و معلومات اللاعب Souleymane Sy لاعب نهضة بركان winwin winwin.com",
         "player": "",
         "content_hash": "bafdff10f8bc1e6f2a85b37912eac96f49049272d3a2b7d1bde7794aac6aa19c",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9962,
-        "title": "الكندية آن كارسون تفوز بجائزة نوبل للآداب 2026 - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNNFpiUkhELXNhQnNlSzRGSkFQV3RDYmNHcVJQMGoyZUZjVFJVeTZLcmM3RkFuU0RXTlFJb2dDUXZSaFBubXlZcWluMUZiNURCSWZVNmUwU0pvMkE2dGhkbXhkYVpxRWtjMEVDeTBhOTQxbEw2QjdpOXNqMzZqUmRrNXQ2cHNZcGhLQUcwVlpVcXZ4SUtLLVp2WVlSSnlSekNQUUNKVDNUVXA1Z1l2OUxpT3Y4aG9zcDU5LWtXTndkS1h1RVhDMG1IWGo0Z1pwRENVQzA3bGp1dVBCeHBybWw3bHdSbXZGeG5zZGlkQU1QMzUtSWc0STVOSmNZcUVDOVM4V0gtMjRMVFJmcjRmbWVNUTdzQXBhYXNDNmQyLXRienN1RVFxUF9WZ2lkdTBhMlVHSEowZ3FuSW0tdGUxSE1jeFNBLW1MOVE?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 17:36:04 GMT",
-        "discovered": "2026-10-08T23:38:55.631353+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الكندية آن كارسون تفوز بجائزة نوبل للآداب 2026 القدس العربي",
-        "player": "",
-        "content_hash": "c13afa0f3f06b8561cc821345dee5a4998703afcd14aa90062a3201372ac62a4",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9878,
-        "title": "أهداف مباراة المقاولون العرب والجونة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNV044c0p6Qld3NjdVRWliblJEbmRZTVdRTU41dW5RWVh1ak9mUEpvODFUenpsdHNNV01zMHo1MWNpeHNrc0c0RmF2dmhEUExIR1Qxa3RzZVpEN1Ftc3dnX2RjOF93NUhGN1FTQlJ3UFNxekV3R2xWSTYtalpneXRZQVVMcHhlU2JncU0wNkh0Rl84c2o4ZlNQN20yR1BNdHFIX09rYkVNLW96UkJiTjlXdkZxWXUyU2RWQmJsdWpUNFM3ajlucDFfaGpUX3JzbFRBMEx4b0tZS09FUUdJaE14X2xMSkRsSHVmX3NkR05wS2d4QzVoeHNjOFVoUlQ3WWRKZlRkeDZ5MkNEMmlSQXRTd1BybWlYdUdUclJZcFp3dF83MTdWNk00SWhnODd6UHQxaWRvUi1WNFh3T2M0UU9YV0ZUNjVDYk9QeVZzWW9RYUpfaUdhNGh3?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 17:34:00 GMT",
-        "discovered": "2026-10-08T18:29:09.822441+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أهداف مباراة المقاولون العرب والجونة يلاكورة",
-        "player": "",
-        "content_hash": "b7dc02c9d21dd85ad2064bc4b8919210e4d069e0b9e1b17241de59c7d1e70805",
         "sent": 0,
         "section": "sports"
       }
