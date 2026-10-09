@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T08:16:38.635958+00:00",
+  "updated": "2026-10-09T08:38:18.030538+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -469,6 +469,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 10033,
+        "title": "استهدفا مرافقه وطائرة.. السعودية تعلن حصيلة ضحايا اعتداءين على مطار الملك خالد الدولي الخميس - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMU50MnYwMzdTQzZuOFRlbWNxODh5STVLRHdyV3ZfRExYS0J3SVBONW91T3p6R29LQlhZNWxXMGItNWhrVXNBdGFFNTdlOHRZeTJWa1FBbnpzc0Z5bUQwbWVBbk9zOUhISVQxQjkydFRmWjdsUWdmUDF5bTJBRTlBZjUyOVA3ZVJtQ1EyazhXb1E0NkhjMGhLRG5IcGNaVzFfdGZxVlIxdjBOVTZkekRXd0t6aUZSaDQ4b195ZEJ3?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 08:16:13 GMT",
+        "discovered": "2026-10-09T08:38:16.439371+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "استهدفا مرافقه وطائرة.. السعودية تعلن حصيلة ضحايا اعتداءين على مطار الملك خالد الدولي الخميس CNN Arabic",
+        "player": "",
+        "content_hash": "a1431dd866e69b6d322ed0be354813c6f035dc1601a89ff5fc54f22b7e92473e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10032,
+        "title": "نجاحات متتالية ترفع أسهم المدربين المغاربة في ملاعب كرة القدم العربية - مدار21",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9TMHEzY0NkUmZSOGFmem40VF9hTmFvRkRMQkkyd0NMVWhwNGFlc2U5ZXR2RDlralZUUUY3MGJFbmUzZE9QYUE?oc=5",
+        "source": "العربية رياضة",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 08:05:55 GMT",
+        "discovered": "2026-10-09T08:37:53.284025+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "نجاحات متتالية ترفع أسهم المدربين المغاربة في ملاعب كرة القدم العربية مدار21",
+        "player": "",
+        "content_hash": "2af847f6fbba637dd5921b92c5829fa1358f5ac0ea6b8ac6656aa1f5fecda04c",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 10026,
         "title": "زيكو: مباريات القمة \"ملهاش كبير\".. والأفضل قد لا ينتصر - يلاكورة",
@@ -1234,38 +1266,6 @@
         "summary": "كأس الرابطة.. مودرن سبورت يتجاوز البنك الأهلي وغزل المحلة يتعادل مع أبو قير للأسمدة يلاكورة",
         "player": "",
         "content_hash": "6fe58feaeab92dbe7a013538c5f501c38e1f31d62e9eb440e22d362914f6cf18",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9904,
-        "title": "الكندية آن كارسون تفوز بجائزة نوبل للآداب لعام 2026 - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1meXpQc2gtc01nRWtsMGYxMVZHOHp0WUhLOXUxa3k0RHFNVjVGYVFZRjJJd2xrSG5ySnp2b0E4VWlQNGtocDVxbA?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 19:04:13 GMT",
-        "discovered": "2026-10-08T19:42:15.548001+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الكندية آن كارسون تفوز بجائزة نوبل للآداب لعام 2026 Febrayer",
-        "player": "",
-        "content_hash": "676368214c58da00bb34cd4eb779e72b912a82ed7ecbd672a721811ca0fb4a93",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9981,
-        "title": "خبر في الجول - انتظام ثلاثي الزمالك في معسكر منتخب مصر للناشئين - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TRVo4dGxIT3c2LUVZYnEtQ19nZUYyNUNQdERfWHJ4RkFieHJzVzRSRHZNelJxQ2FWU2YyTDc2Nm9pWUkwUTgwR2JId3c1ajZm0gH8A0FVX3lxTE1tbnJfTndBSjB6SXV0R19VcVJKZXJScmo5QmZpbk54Z3ZnYlJ1Y3JhNDBuVzdnaEdiVVlsODNlMXlSWjlpaGFfOUswRUJhU0tsMlV0Y1VuY29WSUp1eV9IVFU5Rm1LZy1CLUNmcHgwVVBXb09tWkFFZjZaTHhwTFlFZ2tJWGJWdF9wRFJETmVQSm1INkZfb1duMWlZdkt3STRfNXh2ak1ZaHI3ajNFZWtTOV8tSUIxM2Z0d0dKbG1PamZsUWpwWXVQVjRHanNBekQxMFVKb25tTVVOUEVLUDU4a1dXdHhJamNQdFBuVEJqTURqZXc4VEktN2RnZ2c2Vk9SejNzMlJGU1JFM1lpZ3pORUU2eHU3YnRBaFJuc2NKcG5haGlSdDJBZzJmTEVjZDJrSG9lX1hpSGExWXJaeEhnSk5JRmxYYWV1S3FBM2pyMEQzRzlUaXE3R1d3Wnhrb184RlhYR2xMQ2VfTS1vb3pnZGgzZWtIbFFhdXdsVS11MGFXekZUcWpyVGNTTTZPVktpb2ZxQ2ZJUUZCaXFLSGx6SHdhTHpOYWdNVlJ1eHBRMFlWTG5RLWdnZlEwUktVRGZYUEVzYzNWVTJIUDU0VDNRRHZpQ0lXTS1EcEthaGR5QTA3eU93ZTRCTGRkMlVpby1WRWFuNFhFZUJnYm0?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 19:03:00 GMT",
-        "discovered": "2026-10-09T01:01:59.440365+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "خبر في الجول - انتظام ثلاثي الزمالك في معسكر منتخب مصر للناشئين FilGoal",
-        "player": "",
-        "content_hash": "5a08d790d75731a4edd27ded02c0e02691ea42390d138b12d1f7d3ca201bd6bc",
         "sent": 0,
         "section": "sports"
       }
