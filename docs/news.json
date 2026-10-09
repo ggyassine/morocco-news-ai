@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-09T16:18:43.522259+00:00",
+  "updated": "2026-10-09T16:38:42.162614+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 10122,
+        "title": "مديحة خيير تقود الفريق الاستقلالي بمجلس النواب - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0UTlkLWVTaEJZU3E1Vm0yTUVpVGVibnFFOS1oM2w3NnRZMUZNYm9FcEV1azJGUmR1cl82ZFYzRDhHbnpOOTM3Sw?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 16:34:52 GMT",
+        "discovered": "2026-10-09T16:38:13.234729+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "مديحة خيير تقود الفريق الاستقلالي بمجلس النواب Febrayer",
+        "player": "",
+        "content_hash": "6464c1994b8b92c27dc310ede99ea517bd3156c9476686c08f75c6c8e15cb5db",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 10104,
         "title": "هيئة الموثقين بالمغرب تطلق مشروعين جديدين لتسريع التحول الرقمي للمهنة - Le 360 Arabe",
@@ -549,6 +565,54 @@
       }
     ],
     "sports": [
+      {
+        "id": 10127,
+        "title": "تحد صعب ينتظر مرموش وقمة ليفربول والسيتي.. مباريات الجولة السادسة من الدوري الإنجليزي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiowVBVV95cUxOMXVsNEtHZXJzLVdEcGNGN2wzZF83N0tZMW5NX3cyU3BpcC11Y3owTjVTYnRHNHpVcTR4aE1kT2lKZXBuc1BUSklYbE82S0d0UC1KNlFDNFR0M2RWbXJvcXloY0ZTbHhjZXRocU1ZMHl3WU9JUF9xVk1WRHpGRjllT1JjT1pVeGItRlBhcUs3MHZTNjk2a252VVY3WFRHbjBwQzhfeGk4NTRZVENlUXJyQ05MdFo5SnhLd0tZNkhiWVVNcW1PdHcwS21LT0lHVTNITmxiT0lEYlQ5R200WXZFbnNzVFItQmQ2RVZKSERQTEtDcWl5c2hxWlBreTlkcUYybDQ5ZUllTFpHdzBNVGNvYzZHT1V1VHRtcFQ2Qmc5VWcyREZQTUo4UU1pY2l5Sk5qelFpb2luaklOVTlSMHV5S0k0cHJaS1UzdVI1eFFfNEpvVnYzMUVZMTZieEVUTS02LTFzNjllSEs2SXhZMHZLWFBTLWRCdXpSb0MxaFhzYnBPa00xNnNKX2lyQU15Y0E0M3JXNS16LWtrYnc0LW5nakRFSVYyZTBSOWlwVmUzQS1ac1JpTktuZkNSd0dLS28wUUROdEZmOWdXZlRTN3ZkT0JlZmZKTzhQRjJWQ2FiZEEyRTFmQUxhcUNlTngzejBjUGVaWlM1WW84MVFsMU5SVGRsQ0RJVDlKUHp1eXZ0X0dWR3p4QmpZUkZiRDktZDAtdll1S0c5ZlcyMHJ4ZjR1M1g5ZWZEa0ZOUjJnTE84QXJGZTlzU3pzUWphZ0Y3d0dvMDZZa2pEOWlibGI4TmNtTU95NU1vRkh0bmh6WUtRMUlNdUExX2dITkwxOGkxNjFTMTF0NHRYSzNOWDA2MU16T3hySVozbTN1Y09MV1lES1BHVzjSAagFQVVfeXFMUFZJNnVPenNCTkNSTGhqYU9lUi1ZNDNKaTliSzBVV21WUU1GWlBlYkZnQ1JVd1ZSdVVqU2hteUtueUxfMEc5ZWE4MzRENnVzXzE5MUIyTndvVjZyano2Q1dEZ0JTNzZXTE1MbUduZWJJS3R3R2xPSDJsUEg1WjZZM1R4RnBwNnJpeDcwTkpFdmNEeHViWk9SZ0ZjaE05WGdxOS03NDlPY0FVMjF1eTh4cDF5UUJfdW91RkdlNHBSaDVvaE95M2t6ZGpiaXc1V2VLRVhEYjk2aUE0Ukc3VUxMTVdUWmRlbVNVSEd2c1ROQjBDTXpScFYySlYtOUdyMHFaOTlHOC1hd05DV3BLLTRiV3Zkano2UkNlZGtpa1ZPbERpTkpISlJsMk9mNXlVcEFMSXRKLWp4c29aOGxGYWdJRFFPS2l5a3hBQUdJdHYwRnl1LTdGeUlEUmxPaVkxVWxIblRKUWk0NDJUU09IancxS255dEloN2djM05iQTdsV3VLMkpQMlpmaFVnX0p4S1AybmNaOGw5clo3c29wc2lWa0dOUWVFUWpaYmJUU3FqZm8yQnlqOWJFSHEwRjRwU2RvSmlwZXlEa19pVEVwTF9OTFkzWnNsVXFBTjVkSFhEQTlOazZYR0RWdTNGRTlnNTJRR1loVWxvVkM1MzJBR1MzY2FndGdoSzhBT1ZldlRqQi1GeXI3OV9CYkk1aWprNTI4RkpFRnZpenI5Z1p3ZktLTHRWZFUxYzYtYU5zWlFVTFVTRzdvLXlhX2hWSDlOeU5lS0hjSHh5eE52NUVSTnU4RThVTDVfTElWV0xaWmF5MEpqU195ajVGRWszbjZBLXpyYnU1RUdUSTFTTXlGSzVIbVRWWUlhYVh1cGhBU0s5S2IyTEphQ3NFZkc?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 16:27:00 GMT",
+        "discovered": "2026-10-09T16:38:21.591954+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تحد صعب ينتظر مرموش وقمة ليفربول والسيتي.. مباريات الجولة السادسة من الدوري الإنجليزي يلاكورة",
+        "player": "",
+        "content_hash": "046569e4158b681a2a34fe30f7f3e1f390cd2cf34ffdbb931850ecdf0790d690",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10125,
+        "title": "بمشاركة منتخب مصر للناشئين.. بدء مبيعات تذاكر كأس الخليج تحت 17 سنة - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxNSzJMWmhsd3dnRzJyYno1alVQeGx2d3dOb3MzTVhhMTlLVlhPVjRPdXBqRENTZzRiVnp4ZjVRZEdTV3RfbVlyemI0b0NJYlhhVEZ2dEU1MEVXdXR5VFVCYVpUTUZmZjZvc1FxbGI2Ry10NTVGellhSDFZbFNuSUszRFA0cjBkMUhNSHEzTXJJVjktNDgzOFl2Wk9nbkp5MTMxRHdrREUxbFdnSzBqNHRqbTVwblB3b01VWjM4NnN5UG5NdC0tUkt5MVJBbzJJcFZkRHNWRjNvUU5ic2pyelhRb1hOVXVYY0NPZ0V0QTY1MEdlTnZTYUdMZmFWLTFiVUNHZWRmdmpzWDJzd2ZtaEVra1FvcFBkbnBVQ0VZZVo2ajNMM2FKSWk1WUhjVUFRVWFCVlV6a1JaTTlfMVJXVXJKV21FMlRxRWxCTUhWRHJNTmx6NGN4SHVWT0FqVncwdXVja1g5Rk5hblp5MnFtRXVkbnd6VktFMDVUN2pheGdsbDZISF9CUUNKcl9qZ0RuTlNNekU5ak0tT1VqT3l6VUFoQUtUVkZvMk54SWxUX3NONmNiSUJ5SDQ1TllMOGZJbzFxd0xkd3ZxTGYtQmZPREpSR3FGa19jU19ZWUM4UnBicFFoMmFuOVlXUjE0R1VzOUZPanUxRGVFZUxjVnh0dnZoQ0ZTZldsYWtsUkFMbmlHUnlQRGNHOUJfdXZ6aVJ2VUNual9LcUJkMljSAa4EQVVfeXFMUHNhSHBrbkE3SXVBaGpnbzZCdVJmU3EtZWVtRXB2cmFWSExuMy1EUU15a2dXcFR0S3B3a3U5SjdsbGhrekUxSllzWHVTZGltWnNCT05ldXBrUGFzY0dEbUxTYkhQb29DSFBhalJmdEFyM3dWRTVETnJnWkZuVTkxdWtJUGpXNms5c1VFTEVSSmphZTVXbkFhWXBhWkkteVhjTGtSdWFaUVNPS1I3RjVDbVVqNDhJUm82VlZJYmNJcjhlQ19OZGRLdVVkaEdnRlJ6SXdpMDBJcFJJRGlyd2RCTXpaSEhFdE0wMjZwb3lBVDhzSF9ISnh3OFFuazd1NVhBVThvTERlOXc5N2pIdWJpdHI5bjdPMS1Kb1RpNThHeWFOTEtqN0s1M05QcGN1bFVlOGZVeFFuX2w0YlR2NWlMRnlleTNxcG9oNU9DaWNtNTVjV2dyRDROUUZYaldJY3hOQ3ljQTIxVGh0UmhGZlgtMjEyVUEtUkI1RWVKQkd1TVVVckZoempmeDBycC1XTlN6eDhWMS1XOFhnNUw3N3JTNE1uM3IxM1hNZ09vMXdLZmpMdl82LUR5dmlkMHZNaExDNmpqeGtKa2pXdkZGUjZteVRaVVlHRmtObDhwLWJuNWdpXzN1MnRveU1vdjU0QmFuQnl2N1pUcTZoRFpTTDhYTXprMXZiWGZjTE1HZEtPWC1iblNITWt2UGZpQUdWZVk2NVI2R3dvbkFNZzBoaUZR?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 16:19:00 GMT",
+        "discovered": "2026-10-09T16:38:21.574097+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بمشاركة منتخب مصر للناشئين.. بدء مبيعات تذاكر كأس الخليج تحت 17 سنة يلاكورة",
+        "player": "",
+        "content_hash": "5d3217b4dd783079bec94a912a17e45538ddd639623d577163cd80f801f2d5be",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10126,
+        "title": "توران بديل مُحتمل.. إقالة مونتيلا من تدريب منتخب تركيا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNRmQwWjFtaGRIWklBTFZBTzRHcXZoUHlaLWxsUlNMeXl4N0UxV1NaemhPNUtWME1MakhobzVJb3RFSHlxWFE2dmp5eUxZWWVobjJZU3ZGckZNaHZRd2M4X0VfS1BwNVNfdktYMllKRmlubkMzY055NHFhX3dwTEEyR19ZdF81NzIzMnUyWE5IRTJwbVBST0RzNlZmbXl6ZWZpNzdXcEgwc0lkVHFUMURRSXFTcFpVV2dUVDJkU2duZW5MMWRyU3BLLWFYYnZwdXpKU1dPZWlrX2ZPQnR5T1M2MWJMckNHcE1qUk1NRjY2RFp6THprRzRUQ0lIVjRMSkhDak9JbDBFV185Q2M1YmFGdmZhOWlyM25uS3M1WTV1ZEtfWTFYd3F4QUFwdVEyWDhBckJodmUtMjVsblk4Z1o0a1pKS0sxbkRKakhSRE9xb1JFbWt5Ymw5Zm1BQ2swaWxFUkFCMXRLQTc3M1Fuakc4akEzMHlJNDVmQVZpWnRKeEhQaF94Z0kxNTNxQWJrMXdnWWpGUjJxQTBYM1Uwa1h5THA2NkthSGI3YklOSDRNdHJPM0xRLUdTbjVYQ18zVVo5M1RoeTU1VWdldHFVS2hJSEpDajTSAdoDQVVfeXFMT01zdHA1Ny02eGM3Q2g4T1Q1Q0JJYUxTNVE1aWVnTkgwTHNkRGw3eGswa3p6cFVvcDYtZVJrdWRfdTBydVFmZGdHcXA5UFJwNkRPY0c4d0s5dHhfYk9EbHBtUnM4bU5pOF81NFF4X1JMeGlycHF4OFh3SmZkUjZObzQyTXc1VktYWmplZ3hWYzR3UUxraFJfOVhNeHh5c281eXc4Yk1UZWhpVDVZQnU5dVI1eFhjd1R6d3RLQWVoRTgyU09OeXJuOHFtNkk2WWo1LU1HellKSVNvOVRldHhsTmZRRmV5ZnpJeV83VkFTSWdJVU40ZkRxMjdUNlpvbHJ2dWllM1Y0R29oQUl5SmpPM2t2cXdvcEM5M3hPRG5HZzBFcnNoN01EbGphMHNSOFM5NHEwcnlJanYtNGE5ZGxSSnJ5UWZkQWRXTENaNG5udDR1eW0xa1Q1ZXlZTjktRFRQNGlhUzZCLVlHeFBYN2FCdVVnd2l3QW1rcUIwR1NHajE3QjZSRHlGMzVTRWtWMjMtZkpqVkJqaUkzNGI1SHRpTElXX2szLVlXdnpheXotZllMMlVCWGlMR0l2emZ0VC1TMUktSHh4Wl9LMWUtZzdIWlZBLTYwYmJEeXl3?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 16:17:00 GMT",
+        "discovered": "2026-10-09T16:38:21.579554+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "توران بديل مُحتمل.. إقالة مونتيلا من تدريب منتخب تركيا يلاكورة",
+        "player": "",
+        "content_hash": "2cf4052e427ae2479f99b94d8f8a6790618287ff8e187cab9081050c2d6ff6eb",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 10120,
         "title": "نافي بيلاي تفوز بنوبل للسلام تقديراً لجهودها في تعزيز القانون الدولي - BBC",
@@ -1300,54 +1364,6 @@
         "content_hash": "94767391c4184097d39ed1826b40b5a0d91f4918f9d09dc4574e43de5aacda5a",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9986,
-        "title": "جدول مباريات اليوم - 9 أكتوبر 2026 - بطولة قطر 2022 - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTNVTm5oSXFOUnNoeFJCTGdWb0V4c21odWNJaUVDMzZCdlE4ZjVqMmtfRWc4OWY5OXBZc0RKcGw4YTJWcGJwT0ZraUNwZ3R2OW1aSFFqbUVGVEY0b1dUdnJTTjJiWEtFMDNiZVRRVTF0UlZYd2pTZk9UWUJGd1p6d1FuVHh2TDRPM3k1VDdCZjBoTm5YTVlSRWNGVkk1aV9nWXlhN21pckZ4VVZocTQ1eg?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 00:02:21 GMT",
-        "discovered": "2026-10-09T01:40:30.649575+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم - 9 أكتوبر 2026 - بطولة قطر 2022 FilGoal",
-        "player": "",
-        "content_hash": "9a29d6334d48b6bc6f32df912731a0fa5e2d26a12924c48d7894d88d96d966a8",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9969,
-        "title": "جدول مباريات اليوم - 9 أكتوبر 2026 - بطولة كأس السوبر الإفريقي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOS1A0QjFvbm5mY0NyZGt1TkFESnVmd2RzVVlUcllvQmVDQlNTbHBLUmZpX0ktVXRURXlYQldoRkhFb1RwTUZMZ2tOZmhxNS1zMzRIbjllWG5fOERaSXpuNWJESDNlMnBxTDROaDFHLVkyZ1VzaDdlOHpZRmxKcGdpTzI5cC1WcHA0cUtvbzlNbzBHZXlrelQ2dmg1MGk3dUtTRmduZG1RZGxsb1Q2VHV0QjdGc1NsWmZUR0dUZ2JETlNzbDhZOC1nMVByWUwxOHZDbkUtajJVUVRhMzJMTHVKVkpRa0pndE9xaDVGQzZtTnZza2tkMHl5RHFib2tza2NrcUJzN2JIc2hoZGk5S3pfTjdNbmpOdnR1bzZyQg?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 00:01:50 GMT",
-        "discovered": "2026-10-09T00:04:41.577817+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم - 9 أكتوبر 2026 - بطولة كأس السوبر الإفريقي FilGoal",
-        "player": "",
-        "content_hash": "623764968d90c248e5a83714ff8397b81ccef970d9a3f698e660a49984788c8e",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9982,
-        "title": "جدول مباريات اليوم - 9 أكتوبر 2026 - بطولة كأس الأمم الإفريقية - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOcUZteFMyYXQtME10TTNFb19rRV9rQlg4REJ0RkR5U3dVaEZtV0p3d2dUbE1OUURoamtzTWh6dHNXVDl3eDlJd3hOSmxwX0hveUE5RV80c2JqVWpOLWh1Z09nSGZrWEZ5LVFEWWpMd29NMGhINXV4VHROTGw2eFhIWUg0T2N6MHdjY0g5cWlkcU0wR3F6cHAzTFpfdC1GYjJTU21xYjVvTEFkSkp6ek0tbkR2RHFMOGYwTlVMdVZkbjRyekw1c2gySnR1alpyOU1YOWlVWHUycXJLOHNrYkc4YVM1cUtBWkRPZktFd2xOZ1VLcFIwWFlIc1JiU1VLY1AyNE1ieWdaOVMxRFdIWnNGVklwd0RYMTdyVWI5NA?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 00:00:51 GMT",
-        "discovered": "2026-10-09T01:01:59.469960+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم - 9 أكتوبر 2026 - بطولة كأس الأمم الإفريقية FilGoal",
-        "player": "",
-        "content_hash": "7dff2261ff910289e1f37a344faa93b7240758455478e71f9162e5398c756f3c",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1876,22 +1892,6 @@
         "summary": "صور أقمار اصطناعية تكشف نشاطا متجددا بموقع نووي إيراني سكاي نيوز عربية",
         "player": "",
         "content_hash": "a46f4954763814e67c78527a149029a93210a6d254731e442cfde1bc6b2b4f5e",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 9741,
-        "title": "رحيل ماري كارمن.. أيقونة الاحتجاجات على أزمة السكن في إسبانيا - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNMVRpOVNmczNRVzkxOU9BMHJOTjdGZmYzZktzaUJRUzU5NGNVUmtnTDJNYzlZc0xiWVVKLW1qeXVtaEVSaldjMl83bkRFaHhWV0ItMlhFTkhzYXdmcGx2alYwT3U4SlpIeVlVZTlWamVLdU9RUnVoYm1BVVVhYkdYOTJ4VVR6V1A5VUp6S1BvV2hXbW5ia3l1Z3pTdVUwdFV0ZE1aeXE5ZDlKeDVIc3VpenFEQjhSYUhRdzlJWkNpZFEyaUtma2tCWjR0UVUyT0hTRk80cXZYVmNiS2FNRFdZVzFfbzZNRWhVWjlzUXJEendXUkYzTzZDaGdPTWw4RlV0clBuQ0l3OVF4Ry00RVpuOFVieWd1TFNYTmhCQVpIT21mVy1ic0V4VVBoR0hhLUd4OFVHSHpRYWt4VHhMSVFOekdXc195OVpGM21ja0ZtUHBYNGRDTHRnVEhLM1A1SmpxYjZnb0RpYVNKRnVwS0t2MklhbTV1djhkcXIxeC13ZXl6aks1YnRiSE9hZUp1dU1DT1pOQlZHX21pdDNOUDJHSjdRbGR6WGJHaWZmUEF0dVJnWVMyb1VJOW5RSVloTlRUQWMtRUdaNWx6ZkN0eEVzbHhXWkc3VjAxcFNoeG9wZ1A4S0l2N2fSAesDQVVfeXFMT25FaUhIdy1NOGs5bC0zbGIzcy1wTDZXb3VHMWtrTGJGekVMZDJ5Sjh0SHd1R3NxNTNDQ2VvdmhTUVRsLVBwMTEwMy1pQXdWZ05IX25fVWhuNmpPa2U1c1JQemNObkZ4bER3U0tyeXBiVmtDMlA0eGY0VTEweUZiRk83d3UzTDBQcEQ5UE1rQXROQmdGWm5sLUd6UFFoQUNvb0JrZmV6Q3k5WkVHeTFvOHFVbUhhcjNrNmpQcno2LTF1V0FSbVh3RnFITHl2bDBaVl91NUJHRGItNmx0dlRSbE0tbG5MOWpSZHZQWDB5Rk5vQTNtRF9FVnZORTQzZnRleXVvOHdtNFNnaG1LSWNpczdZVDVjZGcwdFdNX3ZJRkY5aEMybm9HLWtTNTA4WDF0bTFocHlJWDA4V04xa2swLUd5YkgwVDdiVUpvTV91em0xcmNWSGtsUHlSdi1XTEhoTlF5YTdPVzRvYTFBb01vbUZwOG5xYS1iUFdUamxhTk1PckVxeVJIUUdNRHB4NE1zbGIzV3lZQVI5TnR2TWk4aG5hcTRxVEZTd3N0T0x4YkpsYXhXUU1TRE9TLW1IbU5tX1J2VUViNzBuWF9xMWt2Zm96U3R5QktYUG5IZ2FHRkxmQlJydVZ4cVpMbGs?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 08:39:57 GMT",
-        "discovered": "2026-10-08T09:21:04.969135+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "رحيل ماري كارمن.. أيقونة الاحتجاجات على أزمة السكن في إسبانيا العربي الجديد",
-        "player": "",
-        "content_hash": "61ad203bc0e6849108b27b53977b8e1f7a2848dd1d5aa50a634b94bb6cbfc65d",
         "sent": 0,
         "section": "transfers"
       }
