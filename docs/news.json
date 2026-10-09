@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T07:23:31.753249+00:00",
+  "updated": "2026-10-09T07:42:08.238991+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -453,6 +453,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 10024,
+        "title": "\"غرف الاستجابة للطوارئ\" السودانية.. هل تفوز بجائزة نوبل للسلام؟ - DW.com",
+        "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNSDE5ZU0yS2JKTl8tUG1GMEdiejJ1YTIyakRwblJZb21BWU1zZWNldElmaGo5VVRFNFhhS2w1b3VNTXNSZlZiWENfTEk2MG1McTUwQ3lzSTdCQU1meklfVFQzbmRNRUNQeFRlZTV1VWFGUlM2UWxFT1gtcTFkRnk0RGJ2R0k3RXBqM3YtNERPeHFMWTdKWE9FYXFDTlJDUFJ6MmVzTXhkc1pDaGc0X0tmOEN0T1NPUVJMRzNwOTR5TnJqZjhiZEdGSnhDUmFObWJJNTRUdUU5bmhQUEcxZGxkTkM1SElaMm1haVNhaUFWY2FTN215WjRuaHo0M1ZsbnRhV2ZFMnhWbG4ta0VqSVZJaTJ2VGhKT2o0ZlpzcEx1eDd3eDdxa2VOVGlpdExNOHBHYmVxMG01RmpTTl9kaHV6TlJkUU0zdmx2SmJTVG9RVzZjcGVKekkzbW9CZDlqMkg0b1l4R3JQX1VJX0JqbmxXTG5NTTVyNTdFR2lrb1pxNExPVUxXejFvZlhiZGJiVzc2RkhZQTA3SEg3RGtxRDVxc2o2WFNKWmY4dGF1RGpOMWlYbzR5MW04cEVlNnpydUhVaWthZVRWWElLMVBLNllpXzNuSFhKYW8yNmQzMkdpZ1pqVFJCcGtN?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Fri, 09 Oct 2026 07:29:41 GMT",
+        "discovered": "2026-10-09T07:42:03.808030+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "\"غرف الاستجابة للطوارئ\" السودانية.. هل تفوز بجائزة نوبل للسلام؟",
+        "player": "",
+        "content_hash": "34a72d3453c6465e3d2c68b5b37d6d4a0ebe6cbcb22a371f638703645b3be331",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 10022,
         "title": "رغم جاهزية الدبابة.. ما موقف يوسف النصيري من الكلاسيكو؟ - Kooora",
@@ -1234,22 +1250,6 @@
         "summary": "بالقدم اليسرى.. حمزة عبد الكريم يسجل هدفًا من تسديدة رائعة في تدريبات برشلونة (فيديو) يلاكورة",
         "player": "",
         "content_hash": "9e27f9ebb63113bc81abc3cfa923e1969189d1b42d387b38c3a63dd02e6505ee",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9896,
-        "title": "بيان من الاتحاد السعودي بشأن مصير مدرب \"الأخضر\".. وأمير يعلق - CNN Arabic",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQTlxZWFQTWlPMlBRSjRpTHpCYWpCZEFhWkpqN1N6RVBXQ3Nnd0NjWkFyNUFYSzllY3hPMXh0NV95M1JSR1FMYmFRX1ZVaUFGWHdiWFp1LThtUFNmWFk0RHpWSy1lNGwtMlNCZXJlYm1QMDNEV0tTMDFia3dhT2FleHQwUDg4a3Y2ZW9SUg?oc=5",
-        "source": "CNN بالعربية",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 18:34:32 GMT",
-        "discovered": "2026-10-08T18:51:59.306169+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بيان من الاتحاد السعودي بشأن مصير مدرب \"الأخضر\".. وأمير يعلق CNN Arabic",
-        "player": "",
-        "content_hash": "c13915be89342c00095434fc0a870fd05bbb56590304fd04be5ae7963d963f98",
         "sent": 0,
         "section": "sports"
       }
