@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-09T22:42:06.594498+00:00",
+  "updated": "2026-10-09T22:57:07.450556+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 10255,
+        "title": "طعون انتخابية تهدد الخريطة البرلمانية بالرباط - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xSXdpTWs1YzE5alVNRm4xQzB4WjE5TExZTHBGUGlyaVg5Z3NjNTBxNUI3Q2NSNG9WVURwdUFNNUQ4MjZrZXBvWjhxWjFIQ0FxdUlXMGFyckJaT0JJVWItaGNJREN4b3pU?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Fri, 09 Oct 2026 22:36:20 GMT",
+        "discovered": "2026-10-09T22:56:39.809408+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "طعون انتخابية تهدد الخريطة البرلمانية بالرباط Le 360 Arabe",
+        "player": "",
+        "content_hash": "ddb1ed15a43181d7f8f7990586d097b88e92aaf5c59733ab9651cca9de39fee9",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 10242,
         "title": "رجل وامرأة في قبضة أمن مراكش لضلوعها في النصب والاحتيال - Le 360 Arabe",
@@ -1238,6 +1254,38 @@
         "section": "sports"
       },
       {
+        "id": 10256,
+        "title": "مدرب الأهلي يُشيد بالعودة الإيجابية للفريق بعد «التوقف» - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxPS1l1V2RvV0JVa0k1YmQ3R1RURWVZM2szaVEtdXdmV3hCb3gyYUc3OXhhWG1CNGRUVXRmbm1pTzR1Z2dDckxBUU8tQ0FJdTExNXdDaDJranJ2VTJMQWtrNWJKakMtcGlqNDYxSXE4cE5SVXRCUVJfbjNRTjdydmZNWWJVdlY0dG5ZZW5LNmZYclF0MXI3SFR0bHVnOU1uZXhOY01xVWhncndzcFVIZ01wSUpTSGR4UlZtZ3NvcVZHV2hEYl9Vb0tqcGV6S2pOUzBhenJnMDBNZVlBTWxQRzFyTGJYUlhMRlgtRklIYXc3ZlF0Zk1WZzVYNFdoUGVLSlhCa0llT01kVGoydi11aXhQT2doQmwwb1plV2NsSG1XbmtqaXJ2NXMyRUYzQkhBanltcnpnLVFLOGwyZW5FaFdfNkY2Q2VqZGJSWGRGNnJpQ0xHbFhDaHZoQnBEcG9PR1g1elNLaWhCZkZ4Q283S3A2RkllSGdDRF96MGtHOVpKSmZ5bVpvZXdRZVN4Z2NiRmRTcHVPRnlJbXpXenROZmU5R0JPTW5IcHBZMXhBZTAybm9ScERxQ3F4LW9ReGZaZlJCSmVSbWptV0NPb3dXSmxCRndYZkJuZXJaMzVxdTZvbG1QajZiVjFscGhQOXdMdWRzRnp4VS1DUWlYTTVSTkZsS0ZUTFZVWmpEZHpaem05dFJubDZkcmtfV2RrUmU5NFVTRjN6YlU4cnBtWHRENHpLNHNfanRDVnZRUzB3MVNsZXVMazB4UnBNeEhaa2FCQQ?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 18:11:52 GMT",
+        "discovered": "2026-10-09T22:56:49.363809+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدرب الأهلي يُشيد بالعودة الإيجابية للفريق بعد «التوقف» الشرق الأوسط",
+        "player": "",
+        "content_hash": "87d64b5c88fc282ed106f5892ec6a54d4a167273e3b5b2b187d22fd6db9f58dc",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10257,
+        "title": "السلامي: أخطاء لاعبي الفتح غير مقبولة... ينتظرنا عمل كبير - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMixwRBVV95cUxOblhfN0h0anFMVWpUdWlULWZpRUhQV2EtZjdEZnFyUFM1NVZmZnVUZlZjNWxocUpsdVNMS0RLU055Z0s3NlAyZTI2YWhKS1ByWlhfYUE3R1Y3Tl8tbVhRTzhBSnpzeGhKTnNPZ01jek5uLXRyVHdQdXlIS1VQU0pwRU9lOHRDZFNLLXNHVXM3TUo5YjVGQlREQVV3RF9PR1F4eGh1eDdUMTZmbGd4WFlYQjd1dWFFeTgtMWtSWVBkQXp2dnpHV09BaXBjRm44VEVCSVZwQjdHOHVOZExMdVkxZXR2VlFsUGFLbDVEeEdLOTBLbkgtcnZFcDF6VW50azdEWmZrSGZuR3RxbUJzaDdlaXJBaUoxMERQVVIzMjcyMTJLUE44OERvcHZQdGljM01yWWVPXzVUNlBBN1lZa2JpaG85RGlGUGVHVjFORkhWTlFvMXN2a2xNSXNCWmZqVDh2d2ZiVnhZcExmbERkS1BHaWJDZUJXZDZRN3lQSUJpQmRKN1FlSVRsRzRzcU9uTFJaS0xSei00VVZlNTJZamdGMVVrUkRPUmVKMTZEOEg4a01hcThYNXJ4Z3hqR0s1aTZVS3BjQ242VzA4NzBGUkNyZ29sVUxtOUd4bm9hd2stcnR6MG1sVFdpczBEdFFKNVNPSUlvUWNhakI2UjBFTWhxWkZLaWdBYWVwQWxEUTV1ZHNBcGplYVg4dnBnbmFkLTFfTVpESEhPbl9MenNaZkpOc0YyQXUzSFUzWVE4bXIzYm0xQ09GZlQw?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 18:10:56 GMT",
+        "discovered": "2026-10-09T22:56:49.367599+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "السلامي: أخطاء لاعبي الفتح غير مقبولة... ينتظرنا عمل كبير الشرق الأوسط",
+        "player": "",
+        "content_hash": "58a93c00ffb45da2fa4ae7162533acb268947d0b9e32e119fd6ed931e9f8844f",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10156,
         "title": "فيديو: مباشر/ الطاس زادت فيه.. لماذا كل هذا التأخير/ باطلي يضع فتحي جمال في مواجهة القجع! - جريدة المنتخب",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEZkVSbnZvaTdlOUx4Z3hzMDJVSW9pU1ZqUlpZT3FmMFZUejZ0Ui1mdGtvZzM2ZkhBQlItVjk3bUZydV82WVBBOWNhZmhOeldDRHBHdw?oc=5",
@@ -1362,38 +1410,6 @@
         "summary": "السعيد الأكبر.. معدل أعمار لاعبي الأهلي والزمالك قبل قمة الدوري (صور) يلاكورة",
         "player": "",
         "content_hash": "aa253ed9abcdfa0f11a4a33db5a881159a0143b63fe8fcda50fb6355a82b55a9",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10139,
-        "title": "السعيد الأكبر.. معدل أعمار لاعبي الأهلي والزمالك قبل قمة الدوري (صور) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxPeFJiMElNOF94QXplaWxpQUlrN0pBUWVrall0bENzTzZ6YUpNUE9fN0t1LXNyQTFGWXA1YUk3MTEzWHpUOUthQnlaaWZrYTRuRnZ4Q0NrbzV5MDhPcklIV1Z3dUxzejhtWlRYMEJvUmZOUm8xOEZlZWZJUTRRMVB3V1dzU2gwMXVLVE5lVjhvUnVqRjVzemt4Yk5oRDJSS1RkaWRjdHBuWFhnQWliZU90cVBtcnBNZmtPaVlhczNmSWFhNlNyZTJicC1BaTBlODFyUzk2QlA1Zl8wOXoxd2tmcFlrU1F1UUp1b1BGdTFOUmRyTnZmaEZKeVZuMlFTZ0RzMk5TRGdmSm9xcUFYZDZzd2xScEw0dTRZUlA0VDBCTGRKdW1kM2M3WU9OY3RMVjAwM1RORW9DaGF4enU1Z1dwSF96VlU4d1ozaHpwQXhublloYmUtbUgxTFBHWmRVV0lidGhrWEdJd2dLYVdsSHo5VDdBWWFxUVZIR1d0bk84WlhfT09fa3ZZQVRKZjQtWEtOU1p5b3BIWXhHalNBb0NFQm1iWlctWjVjZFU3dzdrWVVQN2dYS0xJY2F0OWpvQnVLUTk1T05iZFlsazJ4eFZLcVNIT2QyZ21aZnhtYUVkaklwRjcyQ1Q1Z1pHWjRSRWFDdGNvNEY4b3dnV3FTdFllSGprSUFkczdWeXV6UVF1U25PLXdHRXJtUnlSU2loeF9EZGlUUWpzbjRqNDJveTZV?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 17:17:00 GMT",
-        "discovered": "2026-10-09T17:27:04.770340+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "السعيد الأكبر.. معدل أعمار لاعبي الأهلي والزمالك قبل قمة الدوري (صور) يلاكورة",
-        "player": "",
-        "content_hash": "aa253ed9abcdfa0f11a4a33db5a881159a0143b63fe8fcda50fb6355a82b55a9",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10141,
-        "title": "هدف وحيد كتب بداية الصراع التاريخي.. حكاية أول قمة بين الأهلي والزمالك - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxPRnRvRjBTcjJlZmZlZU1iXzdRbFZxdWhuSUhXRWFRMktfUUhCcDQwNUZSMEs4eHgyRGxoYW13Zmk0eHBXcTFXcnZaMFY3c3ZPUlRQVnVOSWRUTHgwZjJvRXNfVWRNdlllOFhrZktJSmNKREw4ZWQ3QV9oUy0tUXFpM0NOSUtBREpVejRzcHZXeUQta1FEWXd4QjRkOWtYZ3J3QVFuNFFsSGJJS0hMTTNSUzkwekozdVRHd0I4RWZEbjkwRnRnS2V1dkd6RGV1ZjFpcGJ0TXU4eHdsWEt0NmtDeWwwTy1VVTFoNC0xRFV4TXljWkU3VjRULXhneWpxdXpTX3pscjUwdGYtWlFpZTZZYVh3LTM0UUVRMF9kQ1ZjV1F1Rk9QQ014YzNGUzZVN0lDSEFTemVtbXdheVppQUZXQVRiSGtLdV9UVXhxeExCMUJSNHdXQnVSS1ZMLTdYT1FPRWc5bDl1cTJ1WGQyNUU4UnZpWGZCaDZleF9zN0o0aGFZNFBHdk1VS01pZk5xcC15RWdxZlNYejB5QjlKOHhfSDJibU5ZWVBvSjkwQWFjTmlXY1BvSl9pZFF0VlNlQzBhS0VDVzNSTUliZVptd3Vhb19zcEZqVk5BMXFNRVpnaTRsUFZxNmJOLTVDN0hDdlVtMDlsa2ttVkE0X3lHbzB3MERFM3ZaQWI5TGc4MzZxRE1zLTBqNjc4clFLcFAwSUxQT0IzcTFzcjBJalBmTU94SFZsY2FFbDZtdjV0dElGVnRtd9IBxwRBVV95cUxOUFZTMEFwaWVMeXp0bVoway1mZENsZF8xTFE2bUdIWGE0ZUE2dURSX2gxclpETWxwZlJic0s3YmpxYXMwX3gtSW4tM0tjX2IyU2NqZi13Z3FBOWZMZl90dG51bUlza2tnNTBvVUFyclByOUZJY2FnSnFyS3dpLWhXTmphckcxWGc4aUxkUklJYjMwTFdQa3VrVGJ3QWVkR3FscWFqejVHTVhXUjlJUFg0ZDRoMzJKVmlxaWtxRm9HNnpnczlucnNMaS1qNnZUVGdza013SFBic2lOQlA3dmVDM2RZYXZ6X2ttUmRmSWwtemgtSnU5QVBfN1diQUkwUTl6Ym1Uakx4SXpkeXo0UFpBaXVQdVJ3dFF4aURtdTZIb1JEaUZQb0FpZmRoUGRnZk1XY0lUTTVtR0VvcTZqd3pJQjBzNlNwcFF6SjloUktCUkJiR3NWRkNjV2FjRjVUc09mR0JMY1IzZUlVTkJvUWhCcGRoS1BUUjBxZ3hNWFRxRkNFRUctVllMaElFcGRBa0FtQlBPNHNNMEdUZFZYNjBRNzVaQm9mVFI4S1BMY2RBRFpDZVljMVV3LUN6UGZfMXRTbVhEcW0zWC0zNnpfUVB2V0RvYWFfVlVmOFFIWXFCdks5YXJYYkxtLXBzNmlXaWJ5eXluTFJ0eElUZDE3OENoVXdKX1RPMzdJZzYwdElZVndDLXdOd3R4UDROdGIyT2VrVWxKUHZzZTZOblFtSkFpM0p5c2NxTEJ4aU1BaFVMT296RHVTM1BF?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 17:16:00 GMT",
-        "discovered": "2026-10-09T17:27:04.786311+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "هدف وحيد كتب بداية الصراع التاريخي.. حكاية أول قمة بين الأهلي والزمالك يلاكورة",
-        "player": "",
-        "content_hash": "cee60b5afa8f5ed4eca2630d7f76a7d6a249fe35b534326d10b678d9982b8d46",
         "sent": 0,
         "section": "sports"
       }
@@ -2150,22 +2166,6 @@
         "summary": "التحالف يعترض 3 صواريخ باليستية حوثية باتجاه الرياض وخميس مشيط الشرق الأوسط",
         "player": "رياض",
         "content_hash": "dd5a9ac7cc96d450b50c2e04d0d4d524682f65e9aefa5a6826ff485a32a0b9ed",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 10006,
-        "title": "ترامب يتعرض لمقاطعات متكررة خلال تجمع انتخابي في تكساس - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxPRzR2YWI4eXc0dGNTNGpDM1Q3dE1rZTBhcWxtY2dxOGdlZVo3cjRkZ3NMczBQcVVDa2x6SjMyUnR2aV9teEJwZ3J0RUVtZGpTWHBGNl9xWEFmM1VlTUkySXpMdTE4UDZHSEZGR1hTQ3d6eWU5cGVPYkJoQUMtLUg0cTVWRHQzNWFneTB1NXRVSzNEN0wyd3Y4TmtVenJnYXEzQTdDOVdMT0RqOEZwWUxNWG5aaHQ5S1lxLTY2dlRHZWc3bXB2MjZDTVpqU0JHS2gweHl4c3lJVFlYcVNhMWM1eWtoMXJTUnRrLXNqM1M5TmpJeWlOQ1V4TjdUekVrd0RoRWJIV2RpXzc4Zi1qT0tPeV9JbXIwbV81VWZfN1pGLVN1TXd4OEhYTXo1SVV4M0luM1dxZmhTdlJNTFg5djRiVDAzTU5MMzdyTXNfVHkwZzhKbm1YXzl0ZkxaLTRxWEdmSUhRTmIzZy1CZmJGYUJxYVZiLVZBNUNjclJVblpJTmI5QTlLa1J6bWVEbjZBT096S0lXaXZfZkhUU0Vtd19PS3ZvM3ExVHVPemJRdEN2cHQ?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 12:45:47 GMT",
-        "discovered": "2026-10-09T05:21:47.671473+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "ترامب يتعرض لمقاطعات متكررة خلال تجمع انتخابي في تكساس سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "0db6dbee0eaa96bd5ffb35d5aebc9b3a81314ce3275ff432b8b807f85a994677",
         "sent": 0,
         "section": "middle_east"
       }
