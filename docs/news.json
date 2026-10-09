@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T12:03:28.529403+00:00",
+  "updated": "2026-10-09T12:27:27.307599+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -502,6 +502,22 @@
     ],
     "sports": [
       {
+        "id": 10078,
+        "title": "مباراة نادي تسيليي و أومونيا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQT2stZVZTeTNqaTRxNGdKMm1VVjRVQnE3V0dUMjJFUEYxSkFSSUNoRXZRc0hhSkpIQmRzaU9Fb2FwekFyMjhmdWZNS2plODRaaXdlUVc0NHlWYURlRWpjT2ZhWUgzcGgyMWdHWGNTb3RzOU5yZGdadTQ4WE1uTUxvbE41dGF4azRBcXBIWk01WVVPTl9jcDZoMWxfSzVHWlQ5aDZFWGNQdEJ3bDYtUHFBX2lfSGNjMmJXamQwS2VZQjR4TU5xYUdYRnRuSlN6c1FVTVlONkNoWC1BQUVWclZJZEVJRWhLME1BWmFhZWNRbEVRalJTTllaa0RrbVJTbVE2NFBvNXlpQ24tSGE0UGk1VlRORVpFSi1rWWd1OVdfYTE2djZHMzZELUlNcGdhZDUwYXRqSUhOTklyZ0U5NVhmVEJQYUFOYXo1dkRxaEItdFZyd05qZkJobjV2aTFWRUZVekZjZlpqYw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 12:16:31 GMT",
+        "discovered": "2026-10-09T12:27:07.242307+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "5da54c33aa6c0a86afc605083489d663def013964f1023830429513f21132c2b",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10074,
         "title": "مدرب ليفربول يكشف موقف الثلاثي المصاب قبل لقاء مانشستر سيتي - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxPMmlHdnh2T1hkRkJ1U2U4Q1YxbW41QXlTdjczUkxPN2lYd3RqdGhDaFdQN1pYWHlWYzFZaGdmVzRyYndmbWxTY2laMmNaT0dTS1VLTG9KZXVYM1g0ZWp4YkphWWl4ZjJpcTRiV2p2dm44SUNaS2ZDUXd2VHJ2UG1BNmpHbXo1b0hQNGFXamRVdlpmbnVSb2RIT0J6dHk3MGdPUVZWWXAzRmJlU3VScE5QVDhQa21UN0ZNUEIzSXk2MndMeEVjd1BtQkhnR0Z6VXA4aHRnc0dCUExSU0stNUNIWUU0dDVFN01GVFBqdVRBZ1BycWtJblE5MFNrZHNtSlVBMW0ydnBwWHVPNV93YW1lbTdkWmlEZHBDR3l1WDQwRzBJUHBLYXNUTndCVVNrYWpDSUU0LWhxZWtYR1I2cXJUUW5odTJxYkIza05BTjdsX0VuaDZrejJXRXNEcWY5V19kbndaU284M256WW1tNkxiVHJJVTJSaWN1UVBlUmx5MjkxVFdBZHBtZlJQaFFOZVd0UWVES0xuTTh3RnVZLW95UFJXNHJLYVhEYWRCbjZQcFVpRktWRVN5bjRJSXI3WWt5N2MtUE1lWjFWYUFoUklhU2FHeDdWa0tuT19nTTN4dllfM0RCanVNQ0stT3pHRTJkSkJzX3ZaX0ZSR05CX1UzMzVrZDhJaDFMVlHSAfMDQVVfeXFMTW8zRDlTRS1yb2w4Z1VkQm9wTzhCV1Btb1RRUUlSU3N2M3IwMVZQYWNfYmhDSE5pc2pCUjZFUVB1dlhoUnJXRkhMdDJka2NDd2QtVDkzRnRXbHhKSEM5NXlYZXk1Ui1IbmxCNmNmX3FpMk9Oek1mbDBTb1JEV0ljWUFsODNkZWhXczV6QUotRGVFT1hGVWR0R1lmaUtqRXN4bzhOZ3JzQ1dRVFpJbnhLeFFQSm5xcjlVRVVxWlZsemJ1OUwxT0pIdHVfalI2Z2lKZzBhS2xLVHdJbE4wcWkwNDlFLUhGaFV1RUl0Yk5MMjFqSWJ0MTYwaEZreVFidG1sNjlqbThyakZrS2V4MlpwTFVvYXZNeU9ZYko5WHRIa1JRZ21KaUllVHJWNGhUazdld2hid3lFVjJRVFdCaEdRMUFhTHowY0VEekJfak5kREtCUUJxVG03TnZsbU1SQndFelNUbURzeE5LSldjc3pOdWI0eXF3R2tYTTlaS3lPZVc4d3VoV1JGZ24xRzk5YTE4S040UVh5aUVVR3g5NU1DeG81Y3o4Mk1wemhIRU9XSm1PaVJkZHNPanJFQkJzamhLTlk1cEdDTGc4cF9DVGtTOFZFLVB2ZHJNQXNRbnNvamx2Q1JDSVN0MGtTYkV6ZDh0TEV2dw?oc=5",
@@ -818,6 +834,38 @@
         "summary": "مواعيد مباريات اليوم الجمعة 9 أكتوبر - عودة الدوريات الأوروبية والعربية FilGoal",
         "player": "",
         "content_hash": "7ae528d6c0832524cb78073c7f3353e4f8b55ef19fe4d1d627365223cb928225",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10080,
+        "title": "إشادات أممية ودولية بفوز نافي بيلاي بنوبل للسلام 2026 - DW.com",
+        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxOeTdhd0JxcUd6RTJ2UFA3WUpfN0dSRnZmR3FJWEw3T05UWVdqcmNvZE91d1ZMZHg5NkhENXd3Y1h3WHRSemV3M0pnelphaVowQ3J2dzZhVkJhWXpyVks1Snp6Y19PaXRaYk1SWU5aU2dCampuZnVrU2xub01sSU5pWEMxUkswM1dtNHhWLUtsZTZnLVljUlBDOHVXMjlZcGZKWENGR3hhQWk2dnNmb1pob0NxUVZFTGZIamVieGctMDJ4eWJOclJLM1YwbmdlVkFQUzZhS0dNN3NLdU1TbE1RakdkcFJyVXZ5eE1pUWEtYjR5cjdvYmEtMXlPZzg2SkhJa05LbGFBbWZxMW1KYVljNW1CbUZGY2VGaHU3aUhsRGp2U1lnbjhvRXZpRTdxX09XLUJ0NjU5dHUyMVJDT0hWejZFUnlwVGhfSjhIaDQ3V09aUWV6S1FxOGFpbktsQVV0TXh1NlNEWUZQeWFHcDFTNjhMQlFpeVdYZGs5bzNTbm9pT3VnZ3c5M3dnWXFxbkRwZTRZZE4yQ1AwNzc3QlpzWUcwSGk?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Fri, 09 Oct 2026 07:13:06 GMT",
+        "discovered": "2026-10-09T12:27:22.571686+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "إشادات أممية ودولية بفوز نافي بيلاي بنوبل للسلام 2026 DW.com",
+        "player": "",
+        "content_hash": "57a90eec9f905f130a78d53e2698c3605d4294da59fa83216106360ce6e7f76b",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10079,
+        "title": "بالفيديو.. نيمار يقود سانتوس لريمونتادا متأخرة بهدفين في فلامنغو - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOQlJ2dk1GNXlEX21ZaXJzU1NCLVp5VVdqUUFPNjFGUE5FLW5yNzRFdEJleWRBVzI2SFA1bWNBVnhVUGN2Y1hyOThJQWJ5ZGM0anoxcER4SVdxbnJERHNBYUtwLUhwRnRkc1U1Q1duTk14WW0zWHl5aWs5c0d1bkJqczItdDJzRXZUQk00TkNJQW9Idk5VYmZwWDhBU1V5ZjU5bFhNb3RpOG1yVTZkR25JaWNqcVBFWVhFWFZKU2pNd2JpajlCakJGVGJhenRQcU5GRTdVNkhYcTRRZXBDQlZpanNpellsbVlKMGxGMUpxcTRWd2hPR2stX1ZoNEtPVFZBb2ZTdjlTWGh2YkJ2QXM5aQ?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Fri, 09 Oct 2026 07:12:14 GMT",
+        "discovered": "2026-10-09T12:27:16.143327+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بالفيديو.. نيمار يقود سانتوس لريمونتادا متأخرة بهدفين في فلامنغو الجزيرة نت",
+        "player": "",
+        "content_hash": "d9c427c4cb0e9e4f8cc46840b31a5ccc5b67ecba6a1f491dda2a474d2ba80b67",
         "sent": 0,
         "section": "sports"
       },
@@ -1250,54 +1298,6 @@
         "summary": "أحمد رؤوف يكشف موقف حمزة عبد الكريم من المشاركة في أمم إفريقا وكأس العالم للشباب FilGoal",
         "player": "",
         "content_hash": "88e1460d3c87c98ce88c676e67f729c2c576e062e1ff417424d0aa6e6b78b774",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9934,
-        "title": "أحمد رؤوف يكشف موقف حمزة عبد الكريم من المشاركة في أمم إفريقا وكأس العالم للشباب - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi9ARBVV95cUxNZzBCcHYxbFJjNHZlcF82OGI2enMySW9zSUNDcUZPRHREaHJmbUZrcW9udHZ5bTRTOHFwM0xIdnBjcnNrRnpack9XTVJVTDY1Q0g1ZlNJMExLSGRzNHlnQnZWQXo2c3Zlamk0RG1EV3ptRDdzYkYtOWNkbndVLUNfUmlsV0tEaWhFd2MyNUQ1cmNwT04zTXlsSjBaTUZraXZ6TnQ1VjBvVWp1S19aemlQSmpMRk0wb243S3RRYnRENzJTd0lKa1hnaFJfbU9XUWJSVV9aOElIUU8wUVFhMlYtRmV0OEJKT3hLS1Q1ODBKUlI2eWhjdlppTEdmTGJhY3ZmX2dDdTZGNnBkZUVqUDd5MGJqc0FFZUNoTjZzUjVqdnJoaTBzY2x5dlAtbEEyMWNLdHhEdUNYdnZzWTRSMzVScjY1d1dLNW4weDlFb1V3ODJwS0Q2eFRubXdxcmhUUXhaWmpsZlJhVnpkeEpGbUlzeXQ5WE8yaHRYblNTZ1FONmVEajJ5N2xnQW5iOWJDNDYzeldFdE5BcWI5MHFQN1hhZjhaV2Z6NlRJbmVGSjVxR0hPbGtoTDhtdGppZTlNT2llMk1TSjR2OWNQWUxQNDhvT2t3cnM4UmxlZGdSOUY2VkdSU0doMERtd3NOLU1qd3Y0WUFYaExCQXhkalVaTWRlUkNuenBLVU1WS19UYXN6ekpTdXRMVnFVczg1UFVFMWNZaHhlU3Y1alVRNjNmLUxad1pJNVZQMDdBRGZ6MzZhVTFsek9mTFpycFF2VHAyc21Zc1JpbnJoMVMzT0QzZlk4VDRFeE1ETFM2QUlpMkJNZ1ZvQlVJ0gH6BEFVX3lxTE55VmtpUE52dDZ3enEtRDg5dEMwd0VaTm1wWXBVc192aWhZbnpDMkZzS1JOVU05cHpFUnRIbHByTGU2RTZkNHItbUV6MF84cThEeUNKMnJhUWFpMHdRT2I1cGEzY3ZwRFpwVmNpNzI1MjhwdG1hSHFHcUNHeG1hR2RZSUVSM19TbEhvSlJ6X0g0c082Wmo2WXhKQUxRejFmRzJQLUMtdGowWG5WbjdGemFrcmh4UURMY1phRjZZNnZvSnpReGtNZTlTdm1CbjZJOXMtYnNqWHRkWThDcmowRFpoRlVLMXZPTHVfdHhQanQ5NGdDNVMzNDhLYVFuV29JXzh5YzU2TUtuS3RHWjVHZUxVTzUwYmFMZXFIV3FFT3BzdDBYeEs1ZnF4c1VIZXdIZlJhQ0h1NFdsNWtRU0l1d05BX2wtM0FNdmt4Um5heW03bXJfUk1QZGxaZ2pOWUlTWk5RaHB3SngwR3d0Qk8yWURKTF93YWNQR2RjSTRpV1FndW90TEE2MEFORXRLa2lBZXFhYW5TMG9DMFl5dXpUam1NS2poWWhHOUI1dmZyU19oNVl6bmtBMU54NUdveVFQYndPckFKSmoxMlU5dXNQdldhbmx6Q2YxTnZMOU40Y2UyVzh2RW5qTzBQdEhsNGRtM1FmQy0yYTQ1RTQtNS1ZNU9aTEt0WE9jTHYyWU9xNFh4VGZqQVBGS2dBaG5INW9VZmZWSjJjemkyTHpXY1p5Q2JjX0VqWnZJZXR3NEl2LURDcHA4VWh2b2lOalhHVl84MHNPd29HdzBPUlNXbTFrYjlhelFmWDllbk4wYk5NUUpRSVdPeHhjSXRYdmc?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 21:10:00 GMT",
-        "discovered": "2026-10-08T21:27:13.271299+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أحمد رؤوف يكشف موقف حمزة عبد الكريم من المشاركة في أمم إفريقا وكأس العالم للشباب FilGoal",
-        "player": "",
-        "content_hash": "88e1460d3c87c98ce88c676e67f729c2c576e062e1ff417424d0aa6e6b78b774",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9975,
-        "title": "جدول مباريات اليوم الجمعة 9 أكتوبر 2026 .. القنوات الناقلة والمعلقين - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxNOGR5U1hZYWdNSC03TzFkRXBwYWh2VUt5aWxNcExRUG5lMTE2LUZvYy1UM183MTM2MFljbk45U1ZOMzV4WGc5MGZSUzdvczlSMDVfOEFMMURqUkpsVWRIVWFNSmxkTV9nX0k5M2VfUk1RdU0zUF82TlJhX1VCR1ZmdFd5aFJzWHJLeUE1aVBLOF96dFFzZXdnTFlqZnlLS1ZuLUFiMjA1SUJ2OVh0a2tPQ29YTjhmZ0ZyTC1KMHcyVEkwcjRFRVdIS0RxbW5pZkR0cmw4SUE3Z2owbXBqN2o3SkVCZmdkcHpuQ0JmYnFJMS12eHlsZm9vTlZIVGtwbGpwNk9seGhxc190V1RFWHh1RFlnWFRFbTd1UFB6TmY0TGUtb21qWnZBNG9UVFlGYUhrclUwaWY3MWdVV1dxWDNXZXgwOUFMY3F4a1FiM09OM2ozajNvNmdjLW1id1Q5VHhIc09Jbm1ZcGZwWGpkSzVDSGN6QWI4cTh1b0pQUWpmS19TZlNtLXJ4eEV0enlKLTVNakx0SzFjRWx1Xy1UanVDSWZKRWpJRkdJR3FwUHNFR1FJdk84SktucmtoendNT3VKVkxfTy1iQ0RGNWE2VXhvTHlEWjBFWkNmYkpHSmt4ekZfQjI2YUhqVVdGMmpBMXlacHRwN1VFZ0RvN0trc3hSRGQxc3RyUUhMdDdUWmhjM2thSkRGQ2MwVkdnWmJNRjJ2X2xDLVlTNUJqTFlxdkFra0VLNWgzaXEtR2duZzJPR04zVkRpQVROSTBuMFhnUW9JTmpJeXRtanVvR3FNclNlQXk5Q2o?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 21:03:58 GMT",
-        "discovered": "2026-10-09T00:36:26.620166+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم الجمعة 9 أكتوبر 2026 .. القنوات الناقلة والمعلقين Kooora",
-        "player": "",
-        "content_hash": "e4c54cc7edc6d30cee4c4d767e207127138176632b9ce9c1f3d904a862729250",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9958,
-        "title": "موعد مباراة النصر ضد الدرعية في الدوري السعودي والقنوات الناقلة - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPcER1QkpiQmhkbnBnX0VqU3VTR05JYzBaV0ZjeEF6T3RkaHhoWU1jaHA2b2NoVkNhTkNYd3BTdk5lUnRfaFZHaDZYY3BkTnRhSG9IX2Jud2pudDU2Vk5HQTN4enFVVGNaV1dLUU4tSjgtV0V0a0UzcTRXc1VNZU9pWmQ1VVNMNnd4ZmdwRF9Ib3dZWjdQSWM0eXY2dmM4NmV1Tjdkdzk5LVVucjBSNXMxeFBScTl5RHBUNjBBbVl6RmNwZnJIUFRBNUJ4cjB3NUtFbnBrMGc4U0VubEpVckYtaXNKM0RVekdrZ0phQk9VejNHa0U0UjE2NS10OVJVZDNCWWR1SEltVnRROFl3SU5uZGVsSjNWak1haXfSAZ8CQVVfeXFMTllwVFd5NGZ0NzZFbTFiaEo1V05XbUtKVi1CSldLLUEyaDRxZDEwQ09Kb3FELUFMTWc2aGZlU056c2ozb29MY2pLRWNIbXBxTGRxQ0gtY3VxTE95YV9zTXcxd3Z4YlhPc2FFRVd6UmdPUV9TajA3TjdyTXl1TEw3cWR5UXFNbVNaSEpkdFByMmRtcTdfNWQxV3J2RDNrOGx4c3d3a0dRRHVUZTlvVE5Bb084NHFaa19KQk5PZU1OV2ZVYm81Nld4MTFPV1lKWDU1Um9DTDNSdk1wY0FmaUp6OUp3eVJwT3Q5VFN3ZHNJeVJJOU1qT05KV1VleHhrSjBsTGpucGdvcVFHM0tTMnM4VHZPQTFyT29HdEhVRGlYajA?oc=5",
-        "source": "الجزيرة الرياضية",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 21:00:33 GMT",
-        "discovered": "2026-10-08T23:23:12.992508+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "موعد مباراة النصر ضد الدرعية في الدوري السعودي والقنوات الناقلة الجزيرة نت",
-        "player": "",
-        "content_hash": "bd0edff99b108e157079618100f4f3a0b5c708c8998bff2648c643428dfb0158",
         "sent": 0,
         "section": "sports"
       }
