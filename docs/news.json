@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T00:04:55.920131+00:00",
+  "updated": "2026-10-09T00:36:52.092113+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -422,6 +422,22 @@
     ],
     "sports": [
       {
+        "id": 9977,
+        "title": "جدول مباريات اليوم - 9 أكتوبر 2026 - بطولة الدوري المصري - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWHBJVTNHZnlCOVVHRzRkZ3A3SjlHa3NmcHBOR0ZjNUhXY0w3SjBuQ0RpQW9tcXJaaHpzQVV3M2JqRFBQUFd4VWpuQnBzMk9RMVVYaUk3QkdabmlqUjFkbmFpMGNnX1Z5RUdyTk5mMF80ZnJqeEMyZUUxYV91aHotRm5iV2NtVWZDa1FpbXRlQ1BCRkMzTnMzcHh0emJIdFd5R1NwY0lXV0FMcWZfX01nNHRqaEFVSVhxcTRNaFEzdWlwUmY4cU1OVzY4X2RZY0EweU8tOXg1LVRsOVIxemVuSnlvZjZ6OTZRRXFBT0xmRXo1cXc?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 00:03:57 GMT",
+        "discovered": "2026-10-09T00:36:33.609472+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 9 أكتوبر 2026 - بطولة الدوري المصري FilGoal",
+        "player": "",
+        "content_hash": "e659c54a04cce2885845bec0264ae74d66bd73c4772a479310439355e8cc8979",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9971,
         "title": "جدول مباريات اليوم - 9 أكتوبر 2026 - بطولة دوري أبطال إفريقيا - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOQVViYkxjSzUtZkRDRlJBcXVvSzFrTVowQllrWmJ5QldCd01xN3pGRVBjSEc3R0JDM3ZaeXY1TGhWdWcyMU1aRGJoZ1FyOFVSRF9pN3pGeGVxYlFjbjVxc1FtS0IzbmY1Rlh3TnF6SnRSSmd4ZHM4RERKX0V6aTh4Zm9oaU5NVEFJUFhNNmd5a1JKc3JRZUpCWVlveDNDbW5hLTI4SWhzaXBOWnRVNDVPa2pmMUF0NTdNMWhCNnJlZVhJX1V2c2Z4Z3JJYmdUdk80ZlMxX2Q2ajh4djNIRlMxZTRuSzktVVVGb3pZbWVEYUFqWEc2eE11akdlOXZJc0U1emV2MHViMXU5RlBpYk16SFI0Sks?oc=5",
@@ -578,6 +594,22 @@
         "summary": "أحمد رؤوف يكشف موقف حمزة عبد الكريم من المشاركة في أمم إفريقا وكأس العالم للشباب FilGoal",
         "player": "",
         "content_hash": "88e1460d3c87c98ce88c676e67f729c2c576e062e1ff417424d0aa6e6b78b774",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9975,
+        "title": "جدول مباريات اليوم الجمعة 9 أكتوبر 2026 .. القنوات الناقلة والمعلقين - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxNOGR5U1hZYWdNSC03TzFkRXBwYWh2VUt5aWxNcExRUG5lMTE2LUZvYy1UM183MTM2MFljbk45U1ZOMzV4WGc5MGZSUzdvczlSMDVfOEFMMURqUkpsVWRIVWFNSmxkTV9nX0k5M2VfUk1RdU0zUF82TlJhX1VCR1ZmdFd5aFJzWHJLeUE1aVBLOF96dFFzZXdnTFlqZnlLS1ZuLUFiMjA1SUJ2OVh0a2tPQ29YTjhmZ0ZyTC1KMHcyVEkwcjRFRVdIS0RxbW5pZkR0cmw4SUE3Z2owbXBqN2o3SkVCZmdkcHpuQ0JmYnFJMS12eHlsZm9vTlZIVGtwbGpwNk9seGhxc190V1RFWHh1RFlnWFRFbTd1UFB6TmY0TGUtb21qWnZBNG9UVFlGYUhrclUwaWY3MWdVV1dxWDNXZXgwOUFMY3F4a1FiM09OM2ozajNvNmdjLW1id1Q5VHhIc09Jbm1ZcGZwWGpkSzVDSGN6QWI4cTh1b0pQUWpmS19TZlNtLXJ4eEV0enlKLTVNakx0SzFjRWx1Xy1UanVDSWZKRWpJRkdJR3FwUHNFR1FJdk84SktucmtoendNT3VKVkxfTy1iQ0RGNWE2VXhvTHlEWjBFWkNmYkpHSmt4ekZfQjI2YUhqVVdGMmpBMXlacHRwN1VFZ0RvN0trc3hSRGQxc3RyUUhMdDdUWmhjM2thSkRGQ2MwVkdnWmJNRjJ2X2xDLVlTNUJqTFlxdkFra0VLNWgzaXEtR2duZzJPR04zVkRpQVROSTBuMFhnUW9JTmpJeXRtanVvR3FNclNlQXk5Q2o?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 21:03:58 GMT",
+        "discovered": "2026-10-09T00:36:26.620166+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم الجمعة 9 أكتوبر 2026 .. القنوات الناقلة والمعلقين Kooora",
+        "player": "",
+        "content_hash": "e4c54cc7edc6d30cee4c4d767e207127138176632b9ce9c1f3d904a862729250",
         "sent": 0,
         "section": "sports"
       },
@@ -1188,38 +1220,6 @@
         "content_hash": "d7f9cce39e90e35933ac6805d219a974886027347378eff36b27ad3501a98e72",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9891,
-        "title": "أميركا تعود إلى جدول بطولة العالم للراليات للمرة الأولى منذ 1988 - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxPMzR0YnVSc051SjFPUUdhYm9YWE1XZHdBWkdHQi0xVnVzUi1McVJxTHp6djdFZy1EZ3Z3MzVQRWw5NE1lSHBpbXk2bGVWbmRvNUk2eG1KemhmOHNhZnVqOHJhSUR5TXA5UlpMYjFlaklzSWtSZGJycU4wdHRUblhDa3djWHFsUVd5bnZRaGk4NVA5eDI5eGg5TWxEMFlaTGtaNmxEN0h6RmVCazhHMEhDcWllcTJPYUlGdENVMU1IZzRTX1NScklSaDB6Rl9uMDdGYllQV1lGcURlXzhJRWY5TktkSnk0TmtmakxrS0QxUzBsUFpjcVpHUUtwc3RPMU5Lc1c1V0hiUjlnREUyTWRqUmViak5HMEdhSFhmMDVVdTdRZmxMWkwyMXVFUFN6VklkQ3dLY2kxUWgzN3R0X3dWM2xwbHF2ZFVJYnpZak4wRGs0eFFPNDA4eGRPbklDSklNTk0zUUxGejJHZWxvTkVhejN6SmI1NWV1Zm1SakoxdUhaR1MxOEdIRWdmMS0wT0VWWEJrdlQwTVpSWldCb0Y0U3JlS2hiSEQ2OEF1Umlya1RpOExmV2FxU3JfQ0w0VzhRWHJpRGlZRTVtUHdXdjhVckI0aVZ2S3RfcjU4bU5oYS15UHhwRDFHYkFmYW1idHlHNVgyZlJnMVd6UDVpeWxGR2NKdThDN0ZPM2QyUndLRzB2Z25PLXZZLTI4b2NqX2ZiTmRVQTlFUDFfT2oxTEhrUDN0ZFZPbEF1ZFhlTGFXMmxuWmJ0WnpVMkxVM3c0M0Y0dHZWOVZEWENKdkxmdDVqQVZZUFhvRTRNSzc3V01oRS1lODFGZXhB?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 16:58:09 GMT",
-        "discovered": "2026-10-08T18:51:39.354194+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أميركا تعود إلى جدول بطولة العالم للراليات للمرة الأولى منذ 1988 الشرق الأوسط",
-        "player": "",
-        "content_hash": "e9188d652fc1f215497645c20c6b02fef8b617f20af45486ad1cb4a691ef10d6",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9859,
-        "title": "تقارير توضح.. حقيقة تولي روبرتو مارتينيز مهمة قيادة منتخب السعودية - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxNb0YwQ3VIcVJBYTNtS09XYlNfUWVVdE5ucmFzUEdRSy0xcHNRSzJBSFpuODRTMG53OEUyM05YUngxUlVtSmFFc0JOMWdEYld6bW1ScFFNX3M1RFZZTGVKQ1MxMzhMUGNvdW9pYk1GXzc5SGowV09HVkZVQkxwcUdUdDJZcl9Pc0V2d3NYbWhneDkwZl9tX0RtZE1hdTVfRmRTWVZqTGVzRlNxNGxEb3dLYy04djFfRmgtNUMwVThPb0hYUERXRUxkS0FpeDJ3NThNU19sMlVWM2dob0JOeUVfUlA2N2tfc0RqU2lFams5dHVtVHRXQjFpVWdEcTkzMExkZFNkZ1dNYUs4WWVpM0JEOGs3S016dW5fdTB6SEJsbkZYdWFsYnpkc2dLelZvSzBqQU1OclhBNzBDXzd1RVYtaElHQlFaM0ZjNWlFYmJEejBpQTVMY251VWhnbmRGNVhoWWJnLTY1NjM5Tk1Xdzloc293Y3hFSF9FTjRqQVpzV3oxeXA0TklJV1dFRnhIN0c1TUp6NmNuSWt3Y2VyRHBWTk5HbUFqQ2pIcHZZbGE2TVIxRlplVXNNVEx1RmZkM1RFQ1FTRHZRbUR1dmNaMmhIeVFWMTh1R2R1Nm1obnpJNFcyYmQ0VW9vTEl3cFNpZ2JrVlVNZ2lUb3BtZDJvNWRtWV96cFkxR1h0b0xkdHBVZXhIUHZWY01kNDNuUEVmNnRaR1FabFlHWjlBUXlTT2lIcDl2dFhjdDJROU130gHABEFVX3lxTE1NVnpJa3hldVFJY1FMenpyeWM0Z2ZoSkVHZGRvVHZ0dm56d0IyaURBWk1CQTZRZ04tUGozUE1NR1V3S19lZUZqaklIS0FvVlFwQk5KOVg4dUpsbE92SWFlcXc5NVg4aXZFcGdRb2NpYTR2S2Y5MFdRVmhUNnB6UUJTRGNIa1VmMkpqdU9BNk4ya0stWnFUUW5WbnVtWGpFbjdxUzRYUEtOLVNnaTZScnhqS2UtdC00UHhvWEo5X3hrNzJ6T1g2TXE5Q0V0UmRsOTNxMUpBeVZwVkZPRFBWVWxxNUt1RUo1Rm5jXzFuMnFfaFBEYk9RV1N6MjZfSG80bTRrclV5YVI2anRYV3hVaVF1aExWQkJISDhMaUU2b05JVWtPVTRlRGhnY0xSZDZhOXB0ekM4OUV4R3ZhTVUzUExBZTh2THVvWkRuNHZiYjVaT1FvQ3c2bnlVSXlTbFc5cnQ5Qml2VHRWSGZfTnlGTmdzSTJkLWFZUG5qNm55Q2w0Q0E2TmtUcVlCTWRsMkNDdFRKRFZ1SGQtNm1XVFRQZlZOMmk1MW9FQVRkSGZNT2tvMTJKLVJLOVZsQ2hiNUgzTnplQkdhNlJJdEdsVldWNG9XMFpWbHhObHUydTFUT3J5MGNzZUdGMkpXbWZZdTA4TjRYVzA4VGJuOTYwT0VRUkp3RjNWemhraGZieUdyUlo4X3FLR3BHaDZRdTdLNURpZmladDAtQWlLT3czSFMyT0FOWUJLbXI2WWNGNFd0My1Dcw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 16:58:00 GMT",
-        "discovered": "2026-10-08T17:19:20.599913+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تقارير توضح.. حقيقة تولي روبرتو مارتينيز مهمة قيادة منتخب السعودية يلاكورة",
-        "player": "",
-        "content_hash": "c0cf863ea49ce40c7a0316dbcf0f796971f4acd1a2cec6c20a73a919ce044c14",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1252,6 +1252,22 @@
         "summary": "موعد مباراة ريال مدريد ضد فياريال والقنوات الناقلة والتشكيلتان المتوقعتان الجزيرة نت",
         "player": "",
         "content_hash": "c4b146fa457f76f8562a466cce0735db64af06560602e9f8ac8612d0ec8ac02c",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 9976,
+        "title": "نجم الدوري الأمريكي للسلة.. أتلتيكو مدريد يعلن انضمامه مستثمر جديد بالنادي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxOTkw3MVRkdm8wTklUQXhqTGppTFlsVG1yT1JYajk2c3JVXzBwTmk4d05QcFk0czhTTGVFQUhwTlYya0tkZEIzQkp3X0hkQlRFbTRSclZ6U0ltQkRTRTM4WDlEUzJNdmNrQlExNlRVelRNRW5oTFVDN2dzVXcwai1HRTVnckp1QVNxekRsNVByX3RkMjVxcWtEV2Z0ZE1URkhTMDVQMm5naTdpXzVJV1R2cV9YYW1NT3hDVXB2RFh0X2tORERmNVJubkwwSDdqU2hKTmk4eU9NZFJDTnRKWlhsTHhWRnVZYjhYMXZFc3R2RDlXVUVVWHdkNmxzZjdjRXk3eDhWek0tWTFRc2dyVTR2cGtCVUtyM3d4SFVyWVNkN2tMWm05QjFwaDYzZldCVkRvUmZWTFgwSkNwVFI5NHllUlNkaXUtUDhTUW9fQ3d1VFVBS1Uwb19QcnZnM1ZCTmFJVV9YMlhNOU9RMTBNV19RZ2tnOG8zOWJsNXBvSkN2bDZ4NDY0bVM0Nzl2eFZvdjBsbFlCTDVqUEpfbEpGVEFtNDZpYlRYZURtWUJlc2V4dlh3eVBCZk9vRVhkMkRXcS15MThFVlVreXd3WjlYZktjTzNaNnpiYk10MTA2REpsOTQwZnlKTXJIZ0RlSlRyYnVlMExiNUpJdDVVTUIzb3dTRVo0WUswa21fN2ZNWldOc21tTWNZUjJfeDhWZlZXanZPczdoaEQ4VVVzYTlUSWFPNFdIMEw0cGg5OTZ3V2plLWJBS3pCWEQ0aC1JQldDc1HSAdQEQVVfeXFMTmRIZWtCSlBPcHl5VmhlZDFPY1AtLXBtWDNWQXZsa1B6LUpnM2RLM2UyVWI5bVpyajdIVEhadkd5WUJuejBERHdqNDhjS0YxWkRPVGlVVEtrQmpvUnlka2VSd2EwaHFReWxLSVVsWFdrRXFZMUg0dERuODN5SXp3aFpJcUM3cjM3M3p5eHpyZUVtQ0IzM3ZRSjRXLWNHUDQ2d2E1OEFKejRmb0FmaVBCZVJ4YzNrdHI0alNxcnNfT1hLeGZvYUZPdERiRXlBdnpZNFVKTUNrTDNEeElobEtVNHFCbVU1Z2Y2cXBzZlZ1WlZ2b3hRYUpvaFI0WFI5NTNBMHg5emIzNkQ0eWx1eUN4YjA5MFc1b2Zsd3loMDEtOEJLZmdfc05haHRReGVFR214Mzl0UUNVZXJvYjRSOEt1RGoxMzNlQXNhQkxBODgtOFdmRnNCeGZXM2ZpY24xLTB0TUkxOGFrTXdCSnZ2V2t5Q3pPOHVLLV9uS2NEY0tJYk8zb2ZKUFJDRExNSjN0VmUyT3hSakR4eFFQclJtbmtuTldrSjNIS2Y1NDVjYnpDcEtPekhSYTJpLXVkWE5UTEZ6M0ZkRl95X3RHYy1hS0tGU1A0TmtvMHBCNEdNc0ZNbk9EbG43U1Z3eGhIR0QyNFllSVJTVGtucDdzQVE0TGFuMEhIUTY4ME85M1JUM2w1WGFmX0w3amx4N0pjSkZndEQ2c19jbmZac01NVmdTbURnbkVfcTdzVzdSM0V6WmJuR3k4d1ZORnNESEQ1SXVjeEIwM1JCQ0o?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 20:20:00 GMT",
+        "discovered": "2026-10-09T00:36:33.588062+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "نجم الدوري الأمريكي للسلة.. أتلتيكو مدريد يعلن انضمامه مستثمر جديد بالنادي FilGoal",
+        "player": "",
+        "content_hash": "20f73eb227775b83b46a09e06d7563940d3a814fcd4395a6ce784bda7e47751f",
         "sent": 0,
         "section": "transfers"
       },
@@ -1892,22 +1908,6 @@
         "summary": "أفضل 10 صفقات صيفية في الدوري الإنجليزي حتى الآن الشرق الأوسط",
         "player": "",
         "content_hash": "be15a5781c99cafaad47e9b12820e03899f652f790e47060004fe483a3a43c73",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 9541,
-        "title": "مفاجأة غير متوقعة.. دواء شائع للضغط قد يخفف أعراض ADHD - العربية",
-        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNc042VVVsbUJFN2o3RlR6UFNwTlgxVTVYNlM3TDFUcVZmY1dKX1ptbG1PRXFZLVdrREV0VlFQLTdDaHpVUHUzcFBZZEs3bVgwR3MtSDdPYWYzaWxWRm5nZy1JMlhVTUc5dVd2cWxrQi00VUs5R19yWXFQREtuNVJmUFAzX3oybUQ0dllRRHh2MGZyWFRMb3pFUXdFM1dhVWp1RkZkT2FmUlFJc1I0OHBZWFhvYlVPZjZ6WmRYU3VLNFNMbDE4aFNWZFlCR2lpUzQ2N3I3bDRlcmhxUTZmcXAtdjBBN1hwNi1LX0pqMmdTRVNNNDdtd21RbTJ1STRGaTZUQ2llemFKZ25MWV9YWXJUeWpYclNZMk10X3dsOW0yMHpPVEdQV0plNG95NWRaUjlxWjl1aVlEelE2eHpEVmtpUi0zQlR1emlxZnRhYXctTHV3bFExbGVVaWZyNm1ZNmFnc1JhbnEtNl9OXzNNcndIV254dlBTZTlLYWdqZl85aGNYcTc4bTk1MEpOMjM2ci1nWWJsUzAxaHloWV9zYWVwLTZpc1NLLUNpQkhEalEtRWtNd9IBtwNBVV95cUxOZGYtOUxPclc0UDR3OG5iT3ZLOUZKREZublVaUHBfdlVMNXRoLVU4OG1udU9NUHZKWDRjY2ZBbzlPZ3pLRG9zTVBlbUNBOHhzbTRTY1o1UlczZEhkT251VTZ2QTlzbVZpeEpCblloMWV2WWVweHR0OG1ZaDFKR2NhYTgtMHdYUjBxRVd4WXVhTG8tMEdzZG5NLVl3ZFAxRkVFWlJBT1IxaFlzbWxZRXlQS0V2MGtpSHdjcVk4V1NIalVBbkhlaktBWE1OT1I1ak00aEY1SUJCemsyMndZeng0T0U4bHprMVJqYmZISzBNWDQxSFVROGdtb2plT3BVRzgyR0JGU2o0V2tuZExpajBveXpIT21LalI0NjFvUmNxMXBmdV9RVmZMazRfR0Y4MFM3U0xtc3RIc2FYT3FKaU5LN3VTdXp4NGs0SHVDX19RczZxVXo1eE5fSHBzeElkbGMwR0paV2E1LUR4NGdDc3lJZXlIdDMwRmktSm1RRThnY29QSUJVLXdVMFNfbFlXNTkxU0tsNFhwai1JY3ZkLW5SWUwzUXhkZ3pfVkZxQ2xIOVFWQ3Z4aWY0?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Wed, 07 Oct 2026 15:53:00 GMT",
-        "discovered": "2026-10-07T18:28:25.914447+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "مفاجأة غير متوقعة.. دواء شائع للضغط قد يخفف أعراض ADHD العربية",
-        "player": "",
-        "content_hash": "37e9a2f21c071f247cd62c90c308f2ad7e7c9a23a5994ca001afe2a8bfa7d86f",
         "sent": 0,
         "section": "transfers"
       }
