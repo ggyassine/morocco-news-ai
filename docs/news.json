@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T17:27:26.255505+00:00",
+  "updated": "2026-10-09T17:44:10.609933+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -565,6 +565,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 10149,
+        "title": "أخبار و معلومات اللاعب محمد دياو ديالو لاعب وسط الجزيرة الإماراتي winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPQk9fU054S2FDSE93Z0FwNG9ORlhYWVNMa3JZNnI4b1dXVFFIaGVrZHBJTXJhdV9fblc2Z0ViRlRYS2xlMUtmTlNHdElCcEpnVVh2ek8xN3lYc1B0SnZhX1RYUFlXNFRFaHRnSzBkYVhzMTAyWDk3UUZVV196aDJMbjFvRzlWWTNZX0RsaTF2VjZzSzZPQ0YzU3V0Wk15QThqMFhxREtjd0UtTWM1ZFlEU1NadE5QcDdBS1NGX2lBNU41LTRrSXpIR0poczZTTVR4ZmVlQm1VTlRZaEhsOHFINlFLaXhBaUZZZmN3d2J1blBHQmhSekRGQnlLZ3dGSmVjZnE4U1U0ejZud3B1djBhNS0tZkNlcExmV3c?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 17:43:05 GMT",
+        "discovered": "2026-10-09T17:43:49.157018+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب محمد دياو ديالو لاعب وسط الجزيرة الإماراتي winwin winwin.com",
+        "player": "",
+        "content_hash": "fd5eda5f679df892837866990c6e9ec7e6ca06a4900394c18df5c2ac93758195",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 10139,
         "title": "السعيد الأكبر.. معدل أعمار لاعبي الأهلي والزمالك قبل قمة الدوري (صور) - يلاكورة",
@@ -1346,22 +1362,6 @@
         "summary": "\"المنتخب المنبوذ\".. نصف قرن من العزلة لكرة القدم الإسرائيلية الجزيرة نت",
         "player": "",
         "content_hash": "9c931912553ed58ad59562ba532ba3c241981d295984841722ebda25423fbff6",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10015,
-        "title": "لوفتهانزا تلغي جميع رحلاتها إلى الرياض عقب هجوم صاروخي استهدف مطار المدينة - DW.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wRBVV95cUxPVTZFRHhZZXQ1UnNXUlIzbTBFUXJadVpzY0xicnN2cl9BdGdyTnUwbm1DZ2s1MXZYalpqMEIzWXdfNEI3QWM2d2QxRnFwbkVBTWhhM0FBS3NPTjVkM28tQmMtbzdVVm5hNTFKWmd6aHhKb2g4azhQNC0xQ0QzTGppNU80WC1INE53WklWUkEtWFktcVVDTDlndkpUQ1JRU0pkNUpTeHJhZ0N0VUJZNHh2aFJZWWlObVI3ZEtPWFk5MWtlbDNsT1htLW5hNXNjUEIyNnN3UFZuM3lEeGRfMnBFLW1XOEY0V2VRTEktcHlCc0FqaFpPSV9OTXJsUkN3MWRjU2FXWU42YlFjYVloOEtsWG1EbXBCSVIzbWhGd2F4Y3h2T2tLNjJUN2Ytb2ppSFdISUt0SmdPUFc5aEk1ejFxV0NpOXBrMW1sT1dwa1h2TUpqbllvaHp3QW1hZkVYSXdJOURhS1IxMlcwZUQ4Y25pa3YwdmJfdEExM1ctTHpsWFJxd09pampGWlNIcjFneHA5VU81M0VVdWhfQk52SUV5SjJ5eFJEdnlrUm1aaTFVQXBZWjhHVUxYVHFNWFc0SzF3RTBlUTktVGZTckhEM2ZuUF9UQkg2SVAwQUk1aW91S0laQjk4MHAxX2lzbFhJQTRXWkh2U0RIMFZReHQ2QzlLLVpaQ0E3UG5zZE5pRmJ4M2FzT1dwWmd1WkIxLXM2LWtQazlXMURIVVIxdDhCWG9BRml5MndJQXpRTUY5R1JOei1neHQ3UHpHUXMxWjBzZlJYVmVN?oc=5",
-        "source": "DW عربية",
-        "trust": "B",
-        "published": "Fri, 09 Oct 2026 06:14:40 GMT",
-        "discovered": "2026-10-09T06:39:34.600752+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لوفتهانزا تلغي جميع رحلاتها إلى الرياض عقب هجوم صاروخي استهدف مطار المدينة DW.com",
-        "player": "رياض",
-        "content_hash": "772f803f635205d3e48345c3d7c6161be582d6cc9471b3cba6d0ecc09b508f51",
         "sent": 0,
         "section": "sports"
       }
