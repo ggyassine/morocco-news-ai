@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-09T14:49:12.125722+00:00",
+  "updated": "2026-10-09T15:04:39.293042+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 10104,
+        "title": "هيئة الموثقين بالمغرب تطلق مشروعين جديدين لتسريع التحول الرقمي للمهنة - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCd3E4Sl9ZTjZ5SHdyTDdpNUJVb0lLdWdwLVV6U201VEUyRF9rWWstcHp1SjF2Q3pJX2ptY2N0YnJvSHpJam90LWVnRkQ4WWRhZGY0LVR0eFM4Nl9WZG9SZ3dKcnc?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Fri, 09 Oct 2026 14:48:53 GMT",
+        "discovered": "2026-10-09T15:04:13.044506+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "هيئة الموثقين بالمغرب تطلق مشروعين جديدين لتسريع التحول الرقمي للمهنة Le 360 Arabe",
+        "player": "",
+        "content_hash": "3966533215164a4b14ac46b976bd71681db66e30b49d4adc16a2d1896df2d9c3",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 10097,
         "title": "الرباط تقرب الكتاب من ركاب الترامواي - Febrayer",
@@ -1384,6 +1400,22 @@
         "section": "transfers"
       },
       {
+        "id": 10107,
+        "title": "إسرائيل تشارك للمرة الأولى في معرض مغربي للصناعات الدفاعية - France 24",
+        "url": "https://news.google.com/rss/articles/CBMikwVBVV95cUxQVGE5aTAzdW1nZTJsdDV2cnpXQmFYQ09abm03UzNRLThXMEZvMHNrV2dkV3h0Q1VBVjBOc1dBTHB6R09ETXp4UmJvOXZadG5xSUJ3aGZNbExUU3duRFpmYlFYR3dhRlZkX0ZxQ0VKOTJvblVjR2FQNFdnN19sdWU5Qk5HNEtVQlB1NGI2ZVJWUlQ3eU5yRmdzNGpjeU5vTFlWTFdTZE1icnhFQjJhM1p1elFRVnN5VGNueFN4ZnVMVjc2QjRieVhUV0lvclJSSXh3Ym11d19tWjJtZGJkM0tnTHlsRExPYk94bGRCM2d6MjUwV2VTcjRNZ3JEa19hY2xXMFFlbHRsNFM0QUJLZHZlOFlMUnFkNXozUmdNNE1MRndCYUtqb3VJUEx3R1E0MFJTMzhLYnJYN1phNlczWUlBM2tfQ0M5d1ZlcXprRDJCMk5ZaW9DX0p0aWRhMjc0dDdaQlFvZmRwT0JLMjM2Y0tIYmxLQi05eWVXcGFvYlIxel9iZXVjRlFaRmx0LU5YT0RLSTl0dkNPR0xHY2ZQWG5UUklkQW9xYVdZNUZNaDl4VVgwMVBLaHM2WnVJX0FOTlE4cmlNTWFYNmpuNWtqcjJvZnZsQy13c3RBM0xwNS1DekpoU3BubWFITkVETXRkWkdQcVZYdFVrbmVKT1pGODI0VDhpOW1jN0NWWEN0Y25QRElBYVRqd1pKQWtOWUtxX1JsczdYQU5Bc1dKOVFMOUx1NTNJUzlJVWwwR2VkQW01UzhRci1zRjJOYlpheWVaeG9hVjRqZjNacjQ0SXp1UFBibF9sbFVGVlhMX0lubUtDUlEtT2lmcnRPeVg5UmthQ0tBM2xZamMzSG5fckRlY1NRVzE4Yw?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 22:50:00 GMT",
+        "discovered": "2026-10-09T15:04:35.575841+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "إسرائيل تشارك للمرة الأولى في معرض مغربي للصناعات الدفاعية France 24",
+        "player": "",
+        "content_hash": "4afa559685768a19c92717f05b8878352176369d20255e181e2369680c25c5a0",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 9960,
         "title": "قناة العربية - رياضة / انتقال كارفخال إلى خيتافي يتعثر بسبب راتبه الضئيل - تطبيق نبض",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfOFN0eGZmVmZRUWtpckZrR2JOOWVuNTVwTnk4VnFPSU9XZ1dSUVg5dmJpSHVYUlpVRm10Q1EyUy1pa0o3TTNKbWRaX0FLUjg?oc=5",
@@ -1860,38 +1892,6 @@
         "summary": "كيف سبقَنا الغرب ؟ - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
         "player": "",
         "content_hash": "4be0fc448c8526690b59c228bcbd8f454bdfc127ce3cc10b346d4c9a94cd756e",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 9722,
-        "title": "واشنطن وموسكو تبحثان صفقة لاستئناف ضخ الغاز الروسي إلى أوروبا - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNdzBoVHBUMGZudHYtYUlCWHZqbGtOLXlNU3dkZWsyX3JYaWY4R2R2VTMwWDE1N3lYdkkyUnU4Qy1WYlFIbVRjenJQWEVQam9UWXFhbndiYmhxaDYyUXY4UFAwdWZlaFJhemswcUNWelNDTnVKN3FLR211d01OSzh5Nnd1dW5nYktiTE9tMndkMS1OUnl2VkQ4b3dMa3QyY3RnTXo1b1dRenkwV2hPLUt1SFI0Ul9vWmRtcDM0ekxRQXFPOFIzbk9uMWNfU011Y3V2dHdpc0s4Y2xzU3liM3A3NEFrZFUwNWtXdDA5OHJOVzhKZERubWRwbmJ2bVkwNzZnX2tKYVBTY1A0WHBRS1BUeEpyQ2VYWF9JMTlhQl96MFhMSmRVdmVoS05OYXhtQTBYUmZETFdIb3pjZHlyNjNJYjgtajFndi1sbFlDS2tkSVN3NUFDMmppb181cTZ6dHZFWkluYTdpRG9nTTZUckxnS1RTLUI5U1p1aDJoVWJNMU80WDdsWTVNeTdOUmYycF9POFR4TDJvNzlMR1JTMFhSMGwyLWdmMHZsbXpSaXJpU0VvZGIwQzZmRzdaSFYtZ284VE9EbXR0SVp5Y01seGVRWVVXZjg4eDh1QlBHRUpkekp3RDQzSmVrc3JDeVJCRm81ZzhQYndB0gH7A0FVX3lxTFBTUDd3SGZvT19TMWYzdENmMDRnOXV4bWxJWjhUZE82OThYY3JJWmlrem5XdHF1aEg1NjVuSzJfNDNIR3pRZlUwa1BPWHNvbnpWNjRxWl9TYXNHM2pIZEs3djZlbFdwcVFIU1F3R3FIN2ViZURESzFtSTA4TE4teGdXY3B0TmZ1UFBpOFF0QmdrdWtyakFNVGRIRXd5c2FYdXlJQzNpZE5kckxSRThGSFNKREt5MjNlYWNHS2hGZXJxdENBUUpDLUhqYlROV01UeVBRVWhJLXF6QlVzckUxbXdFblhXNDBvbVExZTl0S3hvZDFUbkRfRE94UDQ1akNKOWZEOWtTNmtERVVQX1FoR2JRNXZveGVCbE1FZzNtX1BxNHNJc2hCQ2MwX3VvXzFQSl9ONU5EV29TYjJFUmdRSm9tTS1rOTZ4d19JM0hyRjRpZldZVG1hMElSTTVQeENpZWN1Yk5BX2paT0ZBOVM1V0pMLUZaNmx4RWxsc0haWkZSMkFuaTRRczV5M3hoV3U2bEIyd0thX2xfekxxaFFLTUVSaXlGSHdMbjl2bTNmbTFoNmI1SzB1X3B5RFNjYWp0WUg1ZDdSVTVmeTZoTjFJY21rUGxIREplakpWRkJNUEJQZFYxZjZmQmg0Zi02MGp0Vjhzb1NRZV90WTBaMA?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 07:17:36 GMT",
-        "discovered": "2026-10-08T08:03:51.458122+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "واشنطن وموسكو تبحثان صفقة لاستئناف ضخ الغاز الروسي إلى أوروبا العربي الجديد",
-        "player": "",
-        "content_hash": "a9a04aecb9f59e4bea6860e8a4e569568782b5d7cc67e9be9e22a04cff7fff7b",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 9757,
-        "title": "رحيل الممثل نانا باتيكر أحد أبرز وجوه بوليوود - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQLXNIOER4bm1EX2VjelZsOWloZWg3TEktY0V0MU5ES3ZKOHFWUFZZVzZJcFFjMlA5QWN4VWc0N1QzUnhVME5wOVVyWi1jOU9LakRyeEMyeUtWcjlKZHliUEUxRllTWVpfTXd6UVBhVzFoLWZLUk9uVldIdkJxYTZsRHUxX2huOUdtUTFWanlCcVdDakh2aW1nSHlDUnBfbU5FNkE4Ml9lQUZxakc0MXlJdkh4YlR4cjJ0bGQ4SXVWdV9YeF8yZUsxNXE1SC1hSDNjb2d4RlJTMnlHdXB0N2laVy16UWdmTGVCckRSZllNOFhmUm9YelN0d0dZRDB1Wjd6UUR1Z1RwTTlobkNWNUNlOXpjREtSa1dIUkZzWnBLZ2lCcUVuc2JsR09wREZ2WnVESUhxZERqVVVsNzFoOGNQTDJIM2pMX0NvUTJGNUVCaGdoWTJZME9hZTdxTGViQ0V6ZmpTTXJRdlMtckZHd3l0NTlLaWxDU0tIdV9YZmYwVDEtS1MyZ093OE9tWktHckhsRE000gGYA0FVX3lxTFBxRG9MeEt5X0tMS09xMjNhRmVTZUotRDZZWlBfLU9LelFHUTZEMGY1NFFzTm54NDNpSXVXRTM3cUZidEdGaE5lU0RvZ2VETHV3OC00QzNvRk9UeUtBeTd2M3NraTlGbHdpWmEwNk8zYm1xUVdjVjlUcGJ6MXd1bGpsUF82ei1SUGdfYXlpaDF4ZEFCSjlwTEJWYWJvZUcxWTVFTFZHUGhuc3pObFR2OVljdDlCX2FYV1RwWTJtLXhHdjNyYjQ0d1o3aHV5YzdhUU0tNWhINTlNdlhqMWhYSDN0Ymd4Nk9UWWNLcmhxcTE1OHRhdU1lNURSR3V3aURqNEVxUnk4UzFrVV94MDNKbDVPMk9OcEE5bGxHNEdMMWJ0R2pQWVhKM2twRmlhdHc2UjljdHd5Ml9ObzlDSXhHNkF3SDl0Q0pDaVhTOXdfbjc5OEhFZ05fN3lVYUN0QW8yZXViVDlac1FDN2RpdEdBZElOYVhzellIVTJBY3RMVzBmNHJCWjMtZjJmblluOHc2bmdSNkRteVNZNg?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 07:01:06 GMT",
-        "discovered": "2026-10-08T10:34:59.191796+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "رحيل الممثل نانا باتيكر أحد أبرز وجوه بوليوود العربي الجديد",
-        "player": "",
-        "content_hash": "8524b8b57b451ea22dd3a2779a478fe32b12af878c751f74ced001623122462d",
         "sent": 0,
         "section": "transfers"
       }
