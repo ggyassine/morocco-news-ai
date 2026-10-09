@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T13:07:58.144401+00:00",
+  "updated": "2026-10-09T13:29:57.098272+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1304,6 +1304,22 @@
     ],
     "transfers": [
       {
+        "id": 10085,
+        "title": "فضايح التلاعبات الخطيرة فـ”الدقيق المدعم”: الأبحاث طوقات رجال سلطة بعدما طلب الوكيل العام التأكد من صحة توقيعاتهم - كود",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQQXYwdk54SXlxRHdQVV92ZXFMbWRYQUthU1hWa0Y1NEdXY0RabVI5NlVuZjFnZ2RGeE5CVXRCMzNNTkJPYldGcVAyTFFpek1NOF9fYWdOMmt1c0hPMmM5c05ZcVhRZGNpOXJFeXhEUVpWNDQ5V19MX1V4TUVwZEd6YWozZHpFV1RZWkEtZ0pOaDNIcEpRbzJRaGtmWGtXRFVkeGhXRjI1eXdyTXkxT243TXQ0UXV6a2w2YmJLWktJenpHSVlEWTdNeHhJSERhY2RqcEhBekt5OWlCTS1HaU1RQnczRngwZ283dHZNRGZpOVA3UGpIN2dSejdYMjh5NUd4UzZUYUZkMnhxdG4wYjBiWmg5MllGRWFabXhobTNscFg1LUpwYnB0UEpMSUFWalJvcWx4dm5sSVYyQzFZTzF4OHJzTHBrMUFO?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 11:31:32 GMT",
+        "discovered": "2026-10-09T13:29:35.174696+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "مؤكد",
+        "summary": "فضايح التلاعبات الخطيرة فـ”الدقيق المدعم”: الأبحاث طوقات رجال سلطة بعدما طلب الوكيل العام التأكد من صحة توقيعاتهم كود",
+        "player": "",
+        "content_hash": "f7bfe14a48a6f18e3e3777ab8b3b803bab154d37c4831ffdde09e2c2faf28de9",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 10028,
         "title": "\"الكاس\" تتوقع إصدار قرار بشأن الفائز بكأس أفريقيا \"في غضون أيام\" - BBC",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5eUJDbWJ3OHBCdzQ1Q3MzVHpxTEE5RXJPeXBtRE1zYTd4UHRGMUlzTEJFeUJwbWVCMGVTSTJnS2RhbTAwSktfTWFVSUdleGVqZEhYa1g5OGxOWWdBRkHSAWNBVV95cUxQN0NQQWRKWVFuYTM0Tk8xT1Bja2NHcFZoSHJTSDRvc3lBMWYxb2xnV2lIVkE4WWRrdDdlMk9MTUxuQU1NZXFlUzhrZGNvZkJWWVhKNV9DZFRidUlzcWVQN1JySDg?oc=5",
@@ -2392,22 +2408,6 @@
         "summary": "مباشر: الحوثيون يعلنون استهداف مطار الرياض مجددا والولايات المتحدة تدعو رعاياها إلى \"اليقظة\" France 24",
         "player": "رياض",
         "content_hash": "962cfe43f8f51e7b2fec6c23e9de5457ea715ce3c3f7032c335a1e0ab5c2595d",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 9758,
-        "title": "مجلة: إيران تضع قواعد عسكرية أمريكية في ألمانيا ضمن دائرة الاستهداف - DW.com",
-        "url": "https://news.google.com/rss/articles/CBMimgRBVV95cUxNcGtmLW9keHJCMlFyX3owYjdmQ0FuYUF5U2Z6OFlpWHU5UVlIWkRTOWZ4aDBQNHZEUlNOTUtQTXYtRV9tWDNnR0p6Yy1PdDZJU01NaFJKR0U0aEtENE5MU0hOLTBFc29kVjVaaFgyV0I4aUI3dGVFTVhvby1aV0g4S0VOdjNJZlhEeHBiQ0M1WXplVnhvRVJmRnBRby0wZVhwSXVpemJuZlRzTHQ0OWk3ak1IMGFZTGpkclctY0xOTEtvYllOQ09ib0ZudmpLV3YtZFB6eFJZT0UtQUhKQWJPVmw4TUIxNC1aUG5jY2l4QlZuVlhiSTJQbjBhLS1tQlBGeFN6R0NpR0k2cExIdVM0Zm9iT0taajdIODZ2WW0yWHZ4TGhlQlJkbDZqX3FJbmtuVEt2WnFJWEJKMTYxTnZ4TzVrd2hUY1pMaDJUZ2xQZXlpVkRCNFFyb0lMOHJzYWNfVU9jT0FlMW1hTHFZb1d6MmRLT0JfOWxmQlp5U1NjTU53MFdxX2ZkUEFuTjAydUtXc3VIUmJhRVgxU3R2cVpWZU5CTjFhNXZIUmFQTThjYWFObnBQSGFoTEE5cXRPVGN1eVFhRDZZaG4xR3U4R3NUTm9IT1pqSDRKVWIycGUwbEpSUVFuS2tRLUhPYnRmYlN2dzN3NkduNUNZcjhfNkhJT0UxN20weHV1bUxBYmt2a1Y1QXROYkVRQk5R?oc=5",
-        "source": "DW عربية",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 05:24:13 GMT",
-        "discovered": "2026-10-08T10:35:01.092069+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "مجلة: إيران تضع قواعد عسكرية أمريكية في ألمانيا ضمن دائرة الاستهداف DW.com",
-        "player": "",
-        "content_hash": "5318ee1d3c7008aaab2178a081b23a6939f3d04ad0372cdab397b87f57086897",
         "sent": 0,
         "section": "world_arabic"
       }
