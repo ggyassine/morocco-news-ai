@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T12:50:43.738649+00:00",
+  "updated": "2026-10-09T13:07:58.144401+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -32,6 +32,22 @@
         "summary": "غواتيمالا تجدد دعمها لسيادة المغرب ووحدته الترابية Febrayer",
         "player": "",
         "content_hash": "1c8468e14c483d27c9b89d98834310ac68d46bf87c3879392480db3c7b3c1ecd",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 10084,
+        "title": "مبيدات فاسدة تهدد المحاصيل وتكبد مزارعي السودان خسائر فادحة - اندبندنت عربية",
+        "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxNLVFlM1FNc01oSWdNMTNuRWZvVnEzZnFVZVRIN01ZdWZmTk5rcXZQUlhSZmg4aXA5aUpXa1FmenRXMHhRZVpWQVg2U3BuNHNoWWNnc2xKdlpIRHhfckJXd0V0bHdNQnhhZ0pObG9CSVFVX2NkamttUy1xTVJOR0pVWHNZeXBINERSWm5CeEYwc2tEWHRDNGpWWWU3dDRJTkNVc2NvOWZWS3oxUDhJQ2p4VHdQdzZlak4za0JwbXh6MTRpR2t5VGZucFdEeVFBQmtXTWxSbUtYdW0xcFZzbmg5REhEUmFDV0tneVRlV0cwdWMydUJYYlhYMXA2VWFjR2Y0M2NEOTZPcjhVYnpzUG83bmxxc3ZPd0k5NGZwYUUtTHVpd1o1SWVSN052aFpDWi1zQm5GTUgtN1hjTjJVMTRtb3lDWDAyS3AtWi1oQ2YwOHdaeUtqVU8xT0k0aktuZlRza3RjTHduODBGd18tY1UzcDJ3YUtYUXJSODRTZGFjN2RxbTdBLVhVY3ZaWlBRenNfd0NnQnhCUEs1cVdjLS1Yd1lSdlZQRndsSlpDanZCS29nTExVVmY4RVd0WDVhbFdNamVCVnc2ZWRzcEJHeDJLb1h1eTVQMWEwQXZtbGU2cExWNE1vNDRoQmw3QnRqZEhYd1VjcFR6SkNhZkcwd0Y3UzA4RXQ4bzVaTVB4TFY0RXJBSHJFVXdDMDJ6VEdnWVRRMzhYMFRuTlF0eEI5dloyVnlOWVdxdnNJWXBiYWtvMHRPMXp4SXR1cWVfSVNibjJaQ3k2Q1dFNA?oc=5",
+        "source": "إندبندنت عربية",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 09:00:31 GMT",
+        "discovered": "2026-10-09T13:07:56.182864+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "مبيدات فاسدة تهدد المحاصيل وتكبد مزارعي السودان خسائر فادحة اندبندنت عربية",
+        "player": "",
+        "content_hash": "c2229885cec364ee156a76571aab52a9ba97c05213705a6d640cbfc887969e3a",
         "sent": 0,
         "section": "morocco"
       },
@@ -480,22 +496,6 @@
         "summary": "بمناسبة الدورة الثامنة.. دار الشعر بمراكش تحتفي بتجارب شعرية Le 360 Arabe",
         "player": "",
         "content_hash": "0172f5b5e5b2a0e8bc3964a4f7150fa78ced31c19cc4bdacb6b0540b7f302907",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 9785,
-        "title": "إفريقيا مدعوة للاضطلاع بدورها كفاعل رئيسي في الثورة التي أحدثها الذكاء الاصطناعي في مجال الصحة( خبير مغربي) - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxPTkJiY3hBeG1RNzFlOTVaRTR2RFF6bWV5MldxTVZGT2ZFT0dJWXhGeTEtSlNsYy1SWmpyMDBpY05VQVZuT1AwMng0T1k0U1p5SWpwUzQ0TGVwMnlsS3Rkb3BTTndrRm4xQm1VdlhQMnVzTXZfY2NNMjB2ek14UWNVN251V05KM0k3S29RS0w1SHpXTW1XYWNYX1F2TWZ1TWktQm9uOXQyTno5QjI3OEJPSW15MGFqNVBlbEc0SnNyQ2NqVUprTllFaGhvZEtsU092LWVsZEtpRXpEb3BPZlp3NWdhU3Y5V3NyT0dJNTR3MmhITkI5SV9VRk5ER3lyTTJ0LVVCdmpGbFB4cFlRZkN2bnRmd3FTMFJaeFFwc3Z3VmtvdWhWcTJMdXg5Um5JVkZHbG1Ua3gwTHVjV0pvOUczV3lsOGJwTmJURW5tR1VsbmxMZkRqQzZLWlV5ZmZwYW5yeC1WY05CWHVIUGFDcHBkZmZJRWdDTmY0cG1idGhNTE9BbzNmZmxrakdtUUE2ZnNlWkxyUnBockJRSUltUXpFdjJyMTg3ZlUyQXFPR0cxRllJWThEb1RyUWFaVXVpRlhQOWRTNUxuRkVxWHIyZHlZUVFkTnduY2FPelJLSk9FaC1iTTQwcEZYY3hacVY4X3Nrc2RBX1hmWDdJT2pjQ0xGRmJFamtWS3p1bFl0T3VNMTBGOVBtWU1PdlNWcTRyZzg3SHFTb2g4M3g5dU1YVVhUWkVBbWFnSGIxQ01Tc3p2NS1XMV9CSk9FazRtdHpQZTVWTzBKN1JwbEZIWm9KNUJrV1luVm43VDd2QUlDWE5kX2ZaVHdESXRodFpOVE8zVk9DNjljSDZYcldDeFJWYUxXNWpVZ3VTaFpOeW0wemJxcDJYLTkzLXhOUzRmSExJNkpyOG5zeUstQUxwTGM?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Thu, 08 Oct 2026 03:51:24 GMT",
-        "discovered": "2026-10-08T13:05:16.711164+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "إفريقيا مدعوة للاضطلاع بدورها كفاعل رئيسي في الثورة التي أحدثها الذكاء الاصطناعي في مجال الصحة( خبير مغربي) | MapNews",
-        "player": "",
-        "content_hash": "baa2fbce1ff568d57d5a18ee763da462727dd169d70c467c2ea315698540fc72",
         "sent": 0,
         "section": "morocco"
       }
