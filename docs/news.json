@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T04:28:18.483222+00:00",
+  "updated": "2026-10-09T04:47:30.330871+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -16,6 +16,22 @@
         "summary": "\"البيجيدي\": الأزمي رئيساً وبووانو مرشحاً لنيابة رئيس مجلس النواب Febrayer",
         "player": "",
         "content_hash": "963d5b7ef39b6a9ac79c3f24ad2f0d103c5f45eb6131a7d544b7e0e4ce88b7c0",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 10002,
+        "title": "«باردي» يمثل المغرب في المسابقة الدولية لمهرجان الدوحة السينمائي 2026 - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KQTVXNkthN2lqQzNwcHJjSGFxUGJfYUlETFpfLUZXQVpZMGd6NzVyOG02aWQxYUFadzA1bExGNFl1UlU3U1lnWXVHcWJRaE5Bd0JuWXRNVF9HSHA4X2Y0bUhndExUQQ?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 22:31:42 GMT",
+        "discovered": "2026-10-09T04:47:02.527586+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "«باردي» يمثل المغرب في المسابقة الدولية لمهرجان الدوحة السينمائي 2026 Le 360 Arabe",
+        "player": "",
+        "content_hash": "c5b35113984970b9c96df61989f52b341ef6ec79b96f8096541361ba5c48f35e",
         "sent": 0,
         "section": "morocco"
       },
@@ -678,6 +694,22 @@
         "section": "sports"
       },
       {
+        "id": 10003,
+        "title": "أحمد رؤوف يكشف موقف حمزة عبد الكريم من المشاركة في أمم إفريقا وكأس العالم للشباب - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9USWlYWURCRU9Rb3BnWFY1MVZpa3Jhc0tCcFRDT3BNN0VXcThlSGZ0Y3U0NTVKOUw0THdNc0FvZHZFUmZnTTA4TllORTI3blAz0gH6BEFVX3lxTE55VmtpUE52dDZ3enEtRDg5dEMwd0VaTm1wWXBVc192aWhZbnpDMkZzS1JOVU05cHpFUnRIbHByTGU2RTZkNHItbUV6MF84cThEeUNKMnJhUWFpMHdRT2I1cGEzY3ZwRFpwVmNpNzI1MjhwdG1hSHFHcUNHeG1hR2RZSUVSM19TbEhvSlJ6X0g0c082Wmo2WXhKQUxRejFmRzJQLUMtdGowWG5WbjdGemFrcmh4UURMY1phRjZZNnZvSnpReGtNZTlTdm1CbjZJOXMtYnNqWHRkWThDcmowRFpoRlVLMXZPTHVfdHhQanQ5NGdDNVMzNDhLYVFuV29JXzh5YzU2TUtuS3RHWjVHZUxVTzUwYmFMZXFIV3FFT3BzdDBYeEs1ZnF4c1VIZXdIZlJhQ0h1NFdsNWtRU0l1d05BX2wtM0FNdmt4Um5heW03bXJfUk1QZGxaZ2pOWUlTWk5RaHB3SngwR3d0Qk8yWURKTF93YWNQR2RjSTRpV1FndW90TEE2MEFORXRLa2lBZXFhYW5TMG9DMFl5dXpUam1NS2poWWhHOUI1dmZyU19oNVl6bmtBMU54NUdveVFQYndPckFKSmoxMlU5dXNQdldhbmx6Q2YxTnZMOU40Y2UyVzh2RW5qTzBQdEhsNGRtM1FmQy0yYTQ1RTQtNS1ZNU9aTEt0WE9jTHYyWU9xNFh4VGZqQVBGS2dBaG5INW9VZmZWSjJjemkyTHpXY1p5Q2JjX0VqWnZJZXR3NEl2LURDcHA4VWh2b2lOalhHVl84MHNPd29HdzBPUlNXbTFrYjlhelFmWDllbk4wYk5NUUpRSVdPeHhjSXRYdmc?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 21:10:00 GMT",
+        "discovered": "2026-10-09T04:47:15.218192+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أحمد رؤوف يكشف موقف حمزة عبد الكريم من المشاركة في أمم إفريقا وكأس العالم للشباب FilGoal",
+        "player": "",
+        "content_hash": "88e1460d3c87c98ce88c676e67f729c2c576e062e1ff417424d0aa6e6b78b774",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9934,
         "title": "أحمد رؤوف يكشف موقف حمزة عبد الكريم من المشاركة في أمم إفريقا وكأس العالم للشباب - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMi9ARBVV95cUxNZzBCcHYxbFJjNHZlcF82OGI2enMySW9zSUNDcUZPRHREaHJmbUZrcW9udHZ5bTRTOHFwM0xIdnBjcnNrRnpack9XTVJVTDY1Q0g1ZlNJMExLSGRzNHlnQnZWQXo2c3Zlamk0RG1EV3ptRDdzYkYtOWNkbndVLUNfUmlsV0tEaWhFd2MyNUQ1cmNwT04zTXlsSjBaTUZraXZ6TnQ1VjBvVWp1S19aemlQSmpMRk0wb243S3RRYnRENzJTd0lKa1hnaFJfbU9XUWJSVV9aOElIUU8wUVFhMlYtRmV0OEJKT3hLS1Q1ODBKUlI2eWhjdlppTEdmTGJhY3ZmX2dDdTZGNnBkZUVqUDd5MGJqc0FFZUNoTjZzUjVqdnJoaTBzY2x5dlAtbEEyMWNLdHhEdUNYdnZzWTRSMzVScjY1d1dLNW4weDlFb1V3ODJwS0Q2eFRubXdxcmhUUXhaWmpsZlJhVnpkeEpGbUlzeXQ5WE8yaHRYblNTZ1FONmVEajJ5N2xnQW5iOWJDNDYzeldFdE5BcWI5MHFQN1hhZjhaV2Z6NlRJbmVGSjVxR0hPbGtoTDhtdGppZTlNT2llMk1TSjR2OWNQWUxQNDhvT2t3cnM4UmxlZGdSOUY2VkdSU0doMERtd3NOLU1qd3Y0WUFYaExCQXhkalVaTWRlUkNuenBLVU1WS19UYXN6ekpTdXRMVnFVczg1UFVFMWNZaHhlU3Y1alVRNjNmLUxad1pJNVZQMDdBRGZ6MzZhVTFsek9mTFpycFF2VHAyc21Zc1JpbnJoMVMzT0QzZlk4VDRFeE1ETFM2QUlpMkJNZ1ZvQlVJ0gH6BEFVX3lxTE55VmtpUE52dDZ3enEtRDg5dEMwd0VaTm1wWXBVc192aWhZbnpDMkZzS1JOVU05cHpFUnRIbHByTGU2RTZkNHItbUV6MF84cThEeUNKMnJhUWFpMHdRT2I1cGEzY3ZwRFpwVmNpNzI1MjhwdG1hSHFHcUNHeG1hR2RZSUVSM19TbEhvSlJ6X0g0c082Wmo2WXhKQUxRejFmRzJQLUMtdGowWG5WbjdGemFrcmh4UURMY1phRjZZNnZvSnpReGtNZTlTdm1CbjZJOXMtYnNqWHRkWThDcmowRFpoRlVLMXZPTHVfdHhQanQ5NGdDNVMzNDhLYVFuV29JXzh5YzU2TUtuS3RHWjVHZUxVTzUwYmFMZXFIV3FFT3BzdDBYeEs1ZnF4c1VIZXdIZlJhQ0h1NFdsNWtRU0l1d05BX2wtM0FNdmt4Um5heW03bXJfUk1QZGxaZ2pOWUlTWk5RaHB3SngwR3d0Qk8yWURKTF93YWNQR2RjSTRpV1FndW90TEE2MEFORXRLa2lBZXFhYW5TMG9DMFl5dXpUam1NS2poWWhHOUI1dmZyU19oNVl6bmtBMU54NUdveVFQYndPckFKSmoxMlU5dXNQdldhbmx6Q2YxTnZMOU40Y2UyVzh2RW5qTzBQdEhsNGRtM1FmQy0yYTQ1RTQtNS1ZNU9aTEt0WE9jTHYyWU9xNFh4VGZqQVBGS2dBaG5INW9VZmZWSjJjemkyTHpXY1p5Q2JjX0VqWnZJZXR3NEl2LURDcHA4VWh2b2lOalhHVl84MHNPd29HdzBPUlNXbTFrYjlhelFmWDllbk4wYk5NUUpRSVdPeHhjSXRYdmc?oc=5",
@@ -1202,22 +1234,6 @@
         "summary": "فيديوهات | هدفا فوز المقاولون على الجونة 2-0 (كأس عاصمة مصر) FilGoal",
         "player": "",
         "content_hash": "08503e20eeaab77e91bcf1ddf8235bec7af28b0ee16ce98416bba0eff70b1ada",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9879,
-        "title": "تعديلات جذرية.. الكشف عن النظام الجديد لدوري سوبر السلة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxNdkk0LUNfQmRueUZsOGY2bHdxaU44WGtGel92MUt2c1JvelNhYjlhQUU4bVViQWFLTGY5M0Q0QlUwNnBmbENaazByaWRUUEhhYUx0bmZHalVFdHEwbmlCeXFEWnAyUHFQamdrX3c4TUdlM29sVHhBdm1hMlJ1YkJxQmNTQmd3NWZRUVY0Y19GMlcxcGVSbVo5UThqcFY5UUYwT3g3RkhzMFlhNC0xSGJKOUFIMGlPRXJqblhYdWEwam1jQ1lGZXpRaVNtZ1pSMWZrdmxNa2NabzRPV050VTZYUS1iUmZnNVZBSTJjYlBhWXdNbVFkX0Zwdi1pQU05MWRWU2pfWF9zZG1zR3JDcjVqQm02REViZUNHWUNDSmp2Z2ZKTjBvNk9NSnR5M3RlMkJSNjNSLUVRNVkxalVCdHFHbEhZMHFSRUF4bktlcXAyYWcyNF90ek5CTDZXNWN4UG5XY0NsSzBWSnRHNnJSelBqd0w4QXN5aGlYamV3XzFJdEw5MVc5SG8wSjlESENPS3BhYXlKUGEzMUtQdk5YWDNraEFIX3BlVHdWMG12cy15TUdlWFQwY1puVF93cmNQcHUxQl9uS3pXSGNRODRENWxvWnhMLW1ycTjSAdwDQVVfeXFMUGdaeVhnRU00TzEybFNyR2RsajdfQ0ZQejQteS1scHpaV25nX3pWUHZBRS0tV1lJU3JObUlzb0ZMOXNQWFJuUDdXa2hndFVOLTk3ak14bnFFRW81QUIyLVJXd1VkcHBnZjNpUXZRS2Y2S3RjX1NDNWZVbTFJOUctWWJWUmhDNlBxUkg2WEJiaHFIdDV0enBHR1JjNHcwZ0x2Z2JmN1Vnd0huZk1rV2hWaWlxSzVJTDBxRTUtb1hETnV5Mk9BMjVwbHo2RkY4ZXZkdW84TEFpQ3l4NmMyLVp6WGV6U2I1dm5oOWJ3TkRwT0xRTUJJaTNlOFdCdHJ3VGh0SEFLNnEtSWMyelVvTG5uQVoyQ2VyRFpURUNVNDVmRUdhV0hhaE4xVDZzclpfYm5vZ2o4d2V5R1daUzJ5eDZnTjNxajMxNERHWkc3VWxIdzI2U2JuSmxFVHNmU0k4c0xSY3hZcEpjRVpVcFRkWlphczNGRi1rRnNuRFUzQkU4b2JhUGIzVHcwVS13YzB5bVVQTC1OTUtaOFQwMDRDWEJfamZBUWRqUmNudEdNOWd6Z0Z4UjBDQmVMajZRbml4OExxVjJXN2YzcXpneE50bjNQMFlCTFZOMFZId3dkZWo?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 17:46:00 GMT",
-        "discovered": "2026-10-08T18:29:09.838002+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تعديلات جذرية.. الكشف عن النظام الجديد لدوري سوبر السلة يلاكورة",
-        "player": "",
-        "content_hash": "63ac9491b54eed3ae7cbf014ef49bd60edbeb62761191fbc6d3a6b89e3f29db2",
         "sent": 0,
         "section": "sports"
       }
@@ -1908,22 +1924,6 @@
         "summary": "«يوروليغ» ترفض عرضاً من الدوري الأميركي لتأسيس كيان أوروبي موحد الشرق الأوسط",
         "player": "",
         "content_hash": "0a1cb14e3b6be045edafce7e40ea94036764df3b61053d8e7d150ef9de93ed05",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 9648,
-        "title": "بعد أشهر من رحيله.. لموشي يكشف المستور في منتخب تونس - winwin",
-        "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPdGhtVExGdmxQWlllWVN0azVpYmNwc2Y0ak9pdml1M2h6TlJxUVd3VFpGdGZfQ21hT3VFaWpmSElnVE13aFdhVEVGMTNSOWhKWUFIVUNVSng2QnFlcnVLQlc3aHotaTl6UlRDc2RHMi1EcGNLS1hRUHJjTXVNd0ZUZFpNVmJJRTA3OEV4UmpKb0ZnRnF6R1l0VDlJZ0ZrQjFZbllOd3hUOUZKU1FzaXgyUmRCZ0xRcUt0WjV2cFZoUncwVDQtQmZlODBGM1F6VTlnNFlqcGVUdzdLN0pheFd3dHVadFdSSEl0MlZiM01yU2UyM0hjaG8wbXlDSkJESDJLVENxdWJ6cnNqYVEycGZDbHM4aWpxekViSUdhR3FTTzBMMXRldnVOMDRUdHA5ZDZZVXl3UEsydGZZazBMczF1QV9EWjJZdGJyR2h6aFN1bEFSeTRsaENPcmNCcmdBTVBUQzlleC1XLXdMSzBxRktJeVVzN1RoYkVINGpNeGRMQmhmdnVleVpLWlk4LXV0a2l2bWZVMUpuakFoZjl4VTctU2xUOFBmYlZtUHpjMUczR2VQR2pjV1pGTkZUS2NQb3d1aXZ1VHpxb3Y?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 19:31:06 GMT",
-        "discovered": "2026-10-08T00:12:08.759936+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "بعد أشهر من رحيله.. لموشي يكشف المستور في منتخب تونس winwin",
-        "player": "",
-        "content_hash": "b589b3d174834492dac3134357685933d334750fb572492732080597f22ecf3c",
         "sent": 0,
         "section": "transfers"
       }
