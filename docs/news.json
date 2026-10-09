@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-09T18:38:58.738895+00:00",
+  "updated": "2026-10-09T18:57:34.973506+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 10165,
+        "title": "\"أكبر حلم تحقق\" برؤية توأم سيامي مغربي على سريرين بعد نجاح عملية فصلهما في السعودية - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VQ3Y4WWJBam0zVUF5eDlvTVZkWGFkQTZDc3hSUWVyWk9yTGNySzFUYXJJaTFHYXo2c2hieVpnd2pTRUREdFEwNElqYUItaGR4OGUzZHpMMDRmY0l4aHfSAWNBVV95cUxNRmFxLVB2a0tJYlhQTlBZVFBXTG9jdzhIUG5lWTRKcVpoSUlSSDVNTzBlQWRJYnRmYTV6T1hzb3ZXa3dhemxNaUdPaE1yOXJ1MGVDYzh0T3dUWm1hRHI2OUpkZzg?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Fri, 09 Oct 2026 18:46:59 GMT",
+        "discovered": "2026-10-09T18:57:31.436218+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "\"أكبر حلم تحقق\" برؤية توأم سيامي مغربي على سريرين بعد نجاح عملية فصلهما في السعودية BBC",
+        "player": "",
+        "content_hash": "8b7f9f245330ffea0953b0ba77345e1c2a9325b2dee7ded33cb9c73e78ca7330",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 10158,
         "title": "اعتزاز الملك بمغربيته.. عقيدة انتماء ومحرك للمسؤولية الوطنية - Le 360 Arabe",
@@ -1894,22 +1910,6 @@
         "content_hash": "367708d20f0387d0559942b824dbc5b4292fdfb37c9452fcc9887305b0e4317e",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 9993,
-        "title": "احتجاجات طلاب الثانويات في فرنسا: أكثر من 6500 موقوف... من هم؟ وما التهم الموجهة إليهم؟ - France 24",
-        "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxPdzB5VUpGZ3htaUxoVTBseTNfS0VvUXNhT3lmZWVDWEdCQnI2R3QwQ2NERUpyaWoyWXhTakc5cDE0VjVBV0I1MlpKNngydGRZV1FxOXlCN3NlT0VObFR3VmJwbDlWSS1jTWh5V1hJTVVCOTlUMk1HNUhXLUlpM3RfTXYxWW5DNnliTFMzd3lITS1NTmVMQW1KanhwWU84MXlmbllzbllTa2w1b2N1aF9aaThJVFd6dGItcnVXejN2N3Nfd21VVWJGc0Ezb2ZCZW9JN3ZZZlloS0wzTzZmS19fRy0yTkF0QXhYS2NKeF9IeXJEU1BoRFJ2T0k0MXJtWDQ1R0YwYm1xVXhESW9DUWIwY0hhWWxNWklZcENFZk9zeFA1c2pkd2hHUk5uZmhEMzBsR0ZiVXFYLTZyT1RnZG9WZC1oM29EWGZSLV9ERVo2UUZ5NDBMbHRaUy1KNDdiRFY1TDdRTTdnYS1NaUVhX2xGZ3Z3TE9SV1pTTDNQejNPNG4waDZSTG1BNUM2Rkt1V1lkLXI0V2kwQlFtU2ZxX2JXRHdWZV9KaVZ6VGZUSGNXS2hpWnBFb0FyZnplRy1nYlg1cGR3c245NEhTb1M4eVA0ckI3MlBsdW53blJzbHhCaWRoQUl0NkE1Y0daeTNaZV9OMXU0QmJoN2lJNUNNaGl5YkhmcG5kV0dDYnVIRzZiejh3bW56NUJ6MGFvZWhLMm93Tk1makhweXExdw?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 09:59:02 GMT",
-        "discovered": "2026-10-09T02:45:26.535793+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "احتجاجات طلاب الثانويات في فرنسا: أكثر من 6500 موقوف... وما التهم الموجهة إليهم؟",
-        "player": "",
-        "content_hash": "c7929f95586a1ca1a2b36d8d3c04a339e30b58007dc57e7aaa6f8267b79036f7",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2252,6 +2252,22 @@
         "section": "world_arabic"
       },
       {
+        "id": 10164,
+        "title": "وزارة العدل الأمريكية: هيئة محلفين تدين طبيباً أردني الجنسية بالاحتيال للحصول على الجنسية - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNZTI2Z181Z1hqWXd2dGtLRnJ0SlR2NFZOVHZJS1pHVFZ5UEVLRFY4UDZSU05wb3daazBJNU4tN2l4dzJCUU5KamVfR2Rsck9ONVdVS2FkTUNZMExHZ3c4dWNLUm1uTWJwQVRTV2xmTzM4LW5tcVNrSkpySS1EenltaEp1UHIxYzJQZndMcVZtSmFiWm1vTkJra1h0Rm4wNXdHVXNXZHV6SjE1emZMSjNuY3R5NmVtY2M4OGtDMjZnLWVITkNDaHJ3TG00R2M1VFZNYndMY1ltcmtRWUpjVnFBUXRZd2hiZUNTUmFfU2ZiY3BWdWZqM2hvWkkzRmZpZU0zUEV5ZFYyQnp6U3FuRjlkQzZCd2dXaFhQTEZ5b19MdGtQa2syRFBQX1JDbTdGakV6Tk10T21FWXZTSDh4SnRvOU9sTzF4QQ?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 22:38:42 GMT",
+        "discovered": "2026-10-09T18:57:28.797065+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "وزارة العدل الأمريكية: هيئة محلفين تدين طبيباً أردني الجنسية بالاحتيال للحصول على الجنسية القدس العربي",
+        "player": "",
+        "content_hash": "807ac7d69ae29388bef037ff611541ea2680db22b5980e74b17070aeea315dae",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
         "id": 9925,
         "title": "الشاعر السوداني عفيف إسماعيل: بالكتابة أحاول التعافي والنجاة - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPQW5wZWdUVW9LaWtHblRfNEZRWTY0TDR3by1ub1J2UFV6WW9UWThZTlJ1RzdSZ3h2SU5lMkF4bDVUU0pxMFZtMzN4VjJFV1A3YVZMX1loWHZnd3RJNXdnVER5ZVBjVnZFTjFhSDVVMW1sM0w1WnFodHQ0akhhT3ZRZU93ZXEwbjZyTUV1YVRrNGFtVjJpcjFSQWxnMU42OVo1RXNxZ01LVmlaZEgzQkowaXZGRVRadjFmWjNxa3FNYmJyckl2X2xPS1N2M0J1elJidWQ0VFMxQW15YWxSRGp4cDBuOENkck1vNTgzZ0xhUFhRY3hSMVA2a3I3b3Rya1o4d0NGRVhqdkxaRjB6RDJRRzB3Z1lpcmtWem5TVEZKRVY3V1d0TXQwUWlXWEJPQ19NOUlVYndFZWl5NjRlN3V1N0VGckc?oc=5",
@@ -2392,22 +2408,6 @@
         "summary": "\"حلف مكة\".. وزير خارجية تركيا يوضح موقف أنقرة من إرسال قوات إلى السعودية لشن هجمات CNN Arabic",
         "player": "",
         "content_hash": "1855fc5111698c5de3dec647764d2682d0eae527bd84e55dfee921591b2bfae2",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 9763,
-        "title": "دبلوماسيون وتلاميذ في الرياض يحتمون في أماكنهم بعد دويّ انفجارات - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQX25JbzBtTml0LUNMMUpzRUJ0NUQ2WUFkbjBPREY5QjQ2dWFxcXg2aXFIVFFvZEV3eWtzYzdUd0JxM2VCa1ZNeHpmUmZNS3Z2TWpWMm12RmNiOHhrb2tadGRFRThKUnJqSmNlS1JRaHR4dzl4TEhQMHptcnc5TGxCb2tXcHFBS2hoZ3o2czlZOGhKVDNXeHd5bzNXRkhkMTF5YTVDS2ZjaHlVMWRLYWhYWlhPWXBnLXozZV9qTmpzcWgzV2N4VnU4TUZfVFNXNk1FdXNrWV9MY0lMZ1h4Q0E2ZEdWbWpEdDNJOW1ONTYxTkRnY2pBUzdJZUZ6TDk5WnNzRGZQMnZKV2UyQ0tTeFFmaXYwUEx3ZDgxUGJXbnRmZ2F1dlJlUE10T0NJYlNwVDc2VDFrRXNaWVh5Mk9LU0hzYnh0Z0NOUQ?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 09:55:03 GMT",
-        "discovered": "2026-10-08T11:04:34.378794+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "دبلوماسيون وتلاميذ في الرياض يحتمون في أماكنهم بعد دويّ انفجارات القدس العربي",
-        "player": "رياض",
-        "content_hash": "4182569cc405e741984a9beb1564b1cff9187be509b03c0fdded611e55666bff",
         "sent": 0,
         "section": "world_arabic"
       }
