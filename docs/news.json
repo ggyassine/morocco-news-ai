@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T05:39:50.739137+00:00",
+  "updated": "2026-10-09T05:56:23.720996+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -630,6 +630,22 @@
         "section": "sports"
       },
       {
+        "id": 10010,
+        "title": "خلاف بين بولكسوت وآيت علال عقب نهاية مباراة الماص والرجاء ❌ - Elbotola",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxLVZHNmx5clZ2RC1fSGVxZ2ZVZWRRejNqaHRlNlIzV2dMekFQaDhUTVFIdUc0dFl3RHRSOFpvRGo2ZEJZMjlhYkJkTTF2WTZ3SXg5a3NXc0IwbFZPeWo0Uy0tNFByQzJYOXJXS1I4SjY?oc=5",
+        "source": "البطولة",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 22:32:54 GMT",
+        "discovered": "2026-10-09T05:56:03.474993+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "خلاف بين بولكسوت وآيت علال عقب نهاية مباراة الماص والرجاء ❌ Elbotola",
+        "player": "",
+        "content_hash": "5b8ecbfcd4933a3440431f327b5c483470ca2040f192c0b0306dfb694e9ac1c7",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 9946,
         "title": "عبدالسلام بنجلون: التجربة خانتنا أمام الجيش - جريدة المنتخب",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92bnBMSzJieGE1MXNvSUNxWk1nVXMtb2RNM0FSSDR0LW1UZ2E2MGN5Nkl1dW9ZN3NfcjJLajA1UUI4MFRZMVZMbkNOcGdSVmFIdWpWcA?oc=5",
@@ -1218,22 +1234,6 @@
         "summary": "بين مهارة الأجنحة وتنوع الإنهاء.. ماذا قدم هجوم الأهلي والزمالك في الدوري؟ (أرقام) يلاكورة",
         "player": "",
         "content_hash": "5dc37e37a1b258d2e75d7d421ee1e623635b7df6aa8be7dd56bace3a9c10805d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9882,
-        "title": "فيديوهات | هدفا فوز المقاولون على الجونة 2-0 (كأس عاصمة مصر) - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE40X2k3THR4QjRHQnRFLVQ4bUd2em5XZG4tMlVlZ1pUM2lwYVkwUTE0eTZEbnZZcHRBbDB3bDlpOXdBai0tdV9qWnB4Rzk?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 17:56:00 GMT",
-        "discovered": "2026-10-08T18:29:10.437320+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديوهات | هدفا فوز المقاولون على الجونة 2-0 (كأس عاصمة مصر) FilGoal",
-        "player": "",
-        "content_hash": "08503e20eeaab77e91bcf1ddf8235bec7af28b0ee16ce98416bba0eff70b1ada",
         "sent": 0,
         "section": "sports"
       }
