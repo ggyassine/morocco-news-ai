@@ -1,8 +1,40 @@
 {
-  "updated": "2026-10-09T14:27:46.568093+00:00",
+  "updated": "2026-10-09T14:49:12.125722+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 10097,
+        "title": "الرباط تقرب الكتاب من ركاب الترامواي - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUazNfdTNoay1YUXplNDY4ZzQ4dGhjQVkwY0JOd1JmZG9iOG1Fa2RUTTY1d2R1QUJ5aTFBQUprdHMwU01Ua3dhUA?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 14:34:16 GMT",
+        "discovered": "2026-10-09T14:48:48.855297+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الرباط تقرب الكتاب من ركاب الترامواي Febrayer",
+        "player": "",
+        "content_hash": "9ae41659eddbbf31240e4296711a09c1be1070f0f246ce5c4ee81466229eed4b",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 10096,
+        "title": "الصحراء المغربية: بعد التباهي والاستعراض.. وزير الخارجية الجزائري ينتقل إلى البكائيات - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wem8zNGZpZ282V1ZIcGpHZjZqU2gtNkYtdzRDRGNCOGJJdWNlZ1JQU0tjcng3bE43VG41czFPOHd3ME5veEhfYnkwTzVlM3ZEenFhajh6ZkNLNDFMMUpveHFLZw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Fri, 09 Oct 2026 12:02:05 GMT",
+        "discovered": "2026-10-09T14:48:44.215027+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الصحراء المغربية: بعد التباهي والاستعراض.. وزير الخارجية الجزائري ينتقل إلى البكائيات Le 360 Arabe",
+        "player": "",
+        "content_hash": "a1f0f335de93e58b377571cbe97c55073db59b88af26e402495368ebf6986d5c",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 10068,
         "title": "السمسرة القضائية طيحات جوج فمراكش والضحايا متورطين فقضايا الصوكان الاستعراضي - كود",
@@ -502,6 +534,22 @@
     ],
     "sports": [
       {
+        "id": 10099,
+        "title": "الدراويش يعود للانتصارات.. الإسماعيلي يقلب الطاولة على طنطا بدوري المحترفين - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxOOFhXenl3WU4zU3kzR2J3M09LVlpBZTJVNHBYSUJyUjFnQW9GWlZ4X3B0WE0teGFrQjVPS3lfMk5SY19KVzBzRllGaGpDME9yR0NNOXdLV0dFLUZ3bUw5LUNMcFNLUWROdG1GaFhFMTRPa1lleGl5VTdBUUh0ZFgzWVdjb0QxWFRGWjMxRERwclFRdVI3X3BUSFVnQmgxQUt6cUJfMWtsM3kxSlkzaS1taGFYVXQ2ajY0Skd1ZXE3ZHhTTlVhUXNrYnhWRHNzTHpxYjdicEwwQ2tQenlUMXZnM0kzN2IxLUpmNW5FT0E4aEtqM0tsWDZEWFR1a2M2eUNXanNCV2UyckI0MjVpajkxTTVyYVE5TG5JcXZ4Tm9FZWRVaXkyc2Y4Yl9CZXAzZjFtckRFT094UU5KSTd1WEtxby1PNEZBNzlOVnNNSk42U2gtRkctTUlBWnotVE1OS1hadkpvcWFmNVBTTUFZMGkya2NZQ1RFM1F6ZWkza3E2QW5FbUxKWGZuMFdwajBwcjNHeExUcGtHQ1lpYjh3am1RYXpaNDVpajJJaGRQN3d2c0k5YzF0RjVpTVd1VmpOSWtTYWRmV3N1MTNoMzBUYnJTT0FrRFRxdS1aYnRZY3dFWFBycTBjNWZBYzF0QWpmOTZNVmk2ZXdkTWFTQUd6ekRia2E1TGVZc3dla1dkOGl2dTJXWGJZOFZMaEJUTjVxcVVoMkd0TTJiY2JTNUFXQThyNTl4QURmSGp6NnNfRWNyalhmSjd5ZUVBWERGeHNQM0d6M1hCVy1vODA2RHJOXzRUVzVGTldneUVWSllsaFhXcEtnNV9RN3FvTE80ZFJzSEJZQ3JZ0gGIBUFVX3lxTFBCRGNGdlNXcGExSTdXOEtxWXEzVFhyd2dORTM4S21XZHhNeFVNcEw5SGE2NmdYYVFOdVhfTGVsVHUxSDNQeDJnYWFFUlBESEFtQ0hWUWFJbjN5ams0UkJFbjF4a2dQSnNYa2dQbjBEWGxHUU1lR3l3QWMyYlVnZTY2bi0zVXlwUnpicVZ4dVZfYkY3NW95TXNFV2Q5RTRVdko5Z3Njak9vZDhUYjBnRks5Tll3Yk9XRE9nSmEtMjlhaGJKV0I3Qzd4VEdvbUJfVjJtM1o2bzVDTWRUWEQwTU9rMHdOU1hDczhwWWE1NlBocjZTNXA5SGpVakZFSEhaNzViLVM5QjlGeFExYVc4WjhvQVFLZzh4WW00ZGhVMUZsWV9hLWd1Nml0UW9EOGpnNmlVMzl3OVk2OVdjbDJkRmkzMy1wZjRJc3RMWEJkaF9RY0NpblZ0RkxmckIySGlKa0ExZHBfcE05cWhRVXVPMklYOXd1OFV3M0UxYWZyWkdwNEExQS14SE5GX2dyY1VkaGpwVXRncmNHaEpVUlJFcXc2Q0UzaE9QWjdfZ2tCNUZmalk2Vmtpc1NVVUhBRUtSakMwMUNsZXJDZ2RMV01faHRiUTkzUFNsZ2JEOV9zSE51T1c0Q1BJa2c4V3lmRzY2eFYtYWhiWk1DM29ndmxrNWcydFkzU0FKUHlocVJPQTZJUzdMc0hzQzF6Y3VNT0RhZkdhZ1pYRk9NUnZVVkJIc2M4ZVlNRW1XMXgyS2lVMm0wczVodFY4SDcxZmZwOXZXSnA5WGwtck5aRkRXTE1CdWh2cDhzcDYxc21sbUQ5Q1RKQVRqWjV1TzJ4MEdFZHhpeWlXUGdhcWJ3Tg?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 14:41:00 GMT",
+        "discovered": "2026-10-09T14:48:55.959720+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الدراويش يعود للانتصارات.. الإسماعيلي يقلب الطاولة على طنطا بدوري المحترفين يلاكورة",
+        "player": "",
+        "content_hash": "c9706ac2e2858aea44e8cbe0fba038633eb5b744bb1c44b9c5c7e2987889a448",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10081,
         "title": "مباراة بروكسي و الإسماعيلي - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQLVZ0enNLOFNUanJfRmtObVBKbm80TmJVUk1ZS1ZwR2ZVS0dzRTctaDZsY3VaOHRTSDFNRmVQcUNJWlRoZXpPMUpQWHBXWENMM2Q4N0VhTzhwa01fYnhxZkNKQ1BPNDlUUEdfRk96QkRpQzRlc0dSTFJYMmoxa0c3cVFJZ043aS1qLXpteUxZOWRlcC11bDlTSFZXdG9faEFLRFBHcXJncERmak9OOUpUYkozWnFVRUZVSWViVy1mQzNhZmMyY0lweW0xbW4tZFNFaTZYbURmSDZpeGMtZG94TW5DX2hELUl3VHUwUnNncFNsUVpvdEJ5NnhickxBcnFfWkF2UmJjY1YtQzlCWURMVFRQaDI4TlpEMG1zcVRnb1ZKY0NIeHpYUjJzSlZmb20wT2V2QUJ5aG9lOVVHb0Y4Y1BLbmJkNWhwODAzMUpMVWR1R1R5MW50dV82QjEtSE00aHVYbGtpbmE5QnhnR09Xc1RUMTNjVDFrVmswdEZaOA?oc=5",
@@ -626,6 +674,22 @@
         "summary": "مورينيو: الأزمات الكبيرة لم تكن كافية لإشباع رغباتكم.. لاعبو ريال مدريد مثالا يحتذى به FilGoal",
         "player": "",
         "content_hash": "a4502f7115f8fb7d09d0280032b726807bc3c17b7598487a6f15cadc0724c794",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10100,
+        "title": "الجنوب إفريقية نافي بيلاي تفوز بجائزة نوبل للسلام - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxPOHgxZ0tBQkx0LXBJM2UzWVJNR2xRamdhTVpqWFU1eHAxa2RUQ1B0Vm1YTkpVRE9NNXVrRXItQnAzNlI0aDFjcElKOUhFai1WakFabHJmSEZNcXhldmc2OGR1cXFwTHUzcEF0bEw5SFprRG9tN2lkSHB6WjloUkMzekh0Um9lWHA4YWdXY0hMT2lrMUQxXzFDbkowY0hFeUpGX0dvM0k5N0E0NUZkYW41UmJIMFYtRkgzX3lvWjNobld3RWJaUWh1MkdIRjZSN19JUHNqajdyM25vT01GeEtxVmFVTmpPdUtQV0xVeEUwcTBNUzQ2akFJR2VFTDhmR1BQZnlTaTRZaFlWTG5qUC10R3FaQ3BLTndSQkF0OGZDN3pLTlZvOVVOb3B0WGhWdU1ZX1FXSDRnN2NTdEpwYXNpaTg0azVxZHdhWHlYeWVYX3BPYjR1RzRmOWxCNXREd1d6enNpTkJ3Z1lVLVdPb20xSnBrN3Buc2Y2UnFSWWxaWlA4bmhXNHhqeGdfVVR5TUR3aGRqZk5UNEJ4b3RaQVBMcVpqU0I3VTdqYTJWMWZKRkvSAbYDQVVfeXFMTjl4a1BadTA1SV90Y0doMUV1UFBxWVVCaVFMWFFhN0ctaElUU1pJQXhiUDRYRWN3ekt2dTBCQmwtVnRKS0dBQ0kyUkJUM1ZHbEtKQ2U0NWVMdHRiZE0ybjg3ODJQdmo0ZTVtLUVSOXVKcUJldEVKOG5wTkUxWWdoS0x5My1QZGhsSGhyU0hteHFJcEdYU05DYTRSSUl1UG9iMHhsV001Uk5sOXpyMmdzd29fYnNCMTJaX194eUg0d1RQS3BNYVFKLUdBX29pUXU2VU45NTViSm1UcG0tRTNQWEVVaFRxaHR2dWpBb1NOd3lpc2VyWFlhazVOOGtkcm5EakJ6eFpWLUx1YndMcE5DSWI3V1JUWmVKQ09fVFJZQ2FhTUdtNjk2dUotTDZLTDhfSllkNU5pNml3ODBMT1F1OXNvbEVSbUFfaWM3WnFVei1UTHUzTXUwb0JNLUl1Q3NjQ05mNGtUNFdzWk5Vdnk0SE84U1pPdi1CdTRmOUZIcm9paWgwaXp5ejVrZ1Ntdlc5MXVfU25QWXZCNnlyYm15YVhFWUVDOEdHNmx3ZzFWUDExdEhKMU13?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Fri, 09 Oct 2026 09:43:49 GMT",
+        "discovered": "2026-10-09T14:49:04.268185+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الجنوب إفريقية نافي بيلاي تفوز بجائزة نوبل للسلام سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "a7be24e75e92fd5d6e156dd7b3f8ed33a34450ab9a03a3cd5da04924ddb088d6",
         "sent": 0,
         "section": "sports"
       },
@@ -1268,38 +1332,6 @@
         "content_hash": "cfa10e7f06d5c6f894f953725c00f2723435a07b9a83740e222a313b6a6eb3ce",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9948,
-        "title": "شاهد.. الجيش الملكي يستهل مشواره في الدوري المغربي بفوز صعب على تمارة - الشرق رياضة",
-        "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxNRk5BeWVDT21SaGxaNUdhR1lnNFRPeW95c0tHSEg3U2Rab2tLdDBzdC1ZMmVEdDFWeXdubkpSTVJJVFFsRXUzNnZHa290MVRMVVhETjBxSFItMmJ2bHBqWG5DZklINkdJYUlKdk9VeWNBSHJfWGFVQnlwXzdfMVg4ck1reTFYVWNod2taemtnMTcyXzJpcHVyQjNUV3ZMcjZuMDdpWHhsQ2NhR2NRTFNCT2xaTFRoenZKNFZKbjI3QWZLdkVHMXF1ODdoV1JmMmJieGstMmYtTl9NejlKejVMVEJEbUpQRHNzQVFVYURLTXBYSG9rdWxGMm1lV2tmWGJkdC1PZlp0eWtrYVBRU2I1RU9jam9NVzM1ZlN3aVFqWTRyTHR0NERVbjN5SWtRZktqWXVuTjRqNjZlM3BESDMwRTBxTDM4UmNnTnlDeHZSR2duZHhtWU1RZkxSU2hiVFNHS0FRLWRNaXNzQl9vZTUxZjNodTZFSEJuT2FoWi1yc05RaGFGRHdvYXpIWExBc1hhNEVRcjMtaVctMHN5WXZyQUtRRnNFZllQdFJCTnRyQ1lId1lVZW8tbEEtaUdOZjVUYmFYNVNB?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 21:11:26 GMT",
-        "discovered": "2026-10-08T22:36:33.469914+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الجيش الملكي يستهل مشواره في الدوري المغربي بفوز صعب على تمارة الشرق رياضة",
-        "player": "رياض",
-        "content_hash": "09e64e9ef30079e6ff20ce7ee5f9697ab7ce1741e12a8290c841ca9e449e4af7",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10061,
-        "title": "أحمد رؤوف يكشف موقف حمزة عبد الكريم من المشاركة في أمم إفريقيا وكأس العالم للشباب - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9USWlYWURCRU9Rb3BnWFY1MVZpa3Jhc0tCcFRDT3BNN0VXcThlSGZ0Y3U0NTVKOUw0THdNc0FvZHZFUmZnTTA4TllORTI3blAz0gGCBUFVX3lxTFBqYm85a3h3SUVGd2RhdGt3VG1mendJYkpFNXRzWE5xWEFHNG4yWm5fekhkZy1ReTl6UlEtTmRLVGtYWHg3YUhXNHBxYUFkbkZiTmpzMjM3U1pnNWtueUwwRTJ2SVNDcHB2Sy1venlJdkdhWDVtTFI5TFRlR3Myc2U0MDNvT0hqWmFKWEJrNVduV0lBVkdzOXRnR2pXVEFvZ1JENFFjZGFmVUlFdjhGMlVSTm5jUVVIc3FVTVJRejZNTEcwNjBJTTJTUUxBb3ZkRkVxTjZoaHNmUUdQN285d3BDdG5LVDF6VmRNSVFDZVZWdEt5OWo3WkdfZGV2WWRLTzl6Y3lNeVRnLVVadmoyOGJnOXo3WDZQVS1INzJjdWpxQ1d0SHFYYzAxMUg0ZXVfamhGbVNUWEFiWE9JcGZERUUtMzVmdnE0cTgwM1JRc2xjZDNOQUJic0hRMUtpeVVEYk5oMTNBSmc3dmpzQlFEQzJtcnEyNzRvVnU0eGJmMXF4bHBwQ1dna1V6TU1CR0FUUklnU1hOMEtKcVl2a2JzV04ydUFJcjUtNTNOcTY0emNOMHJvMVB5NFkzOWJvYkh3bjZlYWcxb2YwWVNUd1I2Ml9XcVRoQXA3WkI5aG9zZk9GWUFDVG5hdXFxaXRaZW9vbEQwTmQ4WGhKT2JLNVNxVElXNzQ3UEdmNDh0N0pUZGJORm40QVZzZi1CdWVVNExHRzlCZGx6N05xdzZ5ZU1PM0VEYkwzWktiTzNxcUoxNjFGekN6MEJNMjdZMkpfWnBVNVoza05KUVZpR1JiTXFVblBMM2hrSWo4WkV6OTZyZXVyS2JoWHc1NjdkeGVnakh5M1MtUQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 21:10:00 GMT",
-        "discovered": "2026-10-09T10:59:31.252427+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أحمد رؤوف يكشف موقف حمزة عبد الكريم من المشاركة في أمم إفريقيا وكأس العالم للشباب FilGoal",
-        "player": "",
-        "content_hash": "5087c24d8f40588bf75899cb0dcf0d0b1892f1cc0a1720a03304771dba90153e",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1862,22 +1894,6 @@
         "content_hash": "8524b8b57b451ea22dd3a2779a478fe32b12af878c751f74ced001623122462d",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 9723,
-        "title": "رحيل الممثل نانا باتيكر.. الهند تودع أحد أبرز وجوه \"بوليوود\" - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxNYWlzU3BXcEpjeHpJdXU4U2JlQkVTY05JM3BsQnlyNm0ycnhvOEt3SVNGbDdxWUxaU1pSNWVoOVNicWdZRllOdWhhRXNNS3RTZ3lZMGNjVzl6VVEwM29EcXdMUXNfMjYtVzJvSDlzT0h4b2dRX1RNRldUY1ZYN0RMa21kc0JJX3MxeFF2TGtfdHBxS0ctaDB2bHRMaU4wRkRsSHoxQUR5ZFVZbVJ4UTN6UTFXQUlwbk1GVktodXpKM2lyLVFta0p2LTNuM3VITlo1amlzd3VHUXFMU2RUeUFZZ0NRMTR6dlF1V3RGUmZQaW12TXc3ZS1XZFdsUTgzand6MmZCYjQxdGlZaVQwa0hnWWNZVUREQmlmdU1TT1RBSTJYZ19BTVIxX2ZJM1RqSVlBY3JabjJqNUdxVy1sYlByNUVqN1pJZnFpeWJqa19vWWNRc0NFQzhKeWtNMTM2cF9VYkRwejZNYnBSaUVlQ3RLR3BNVTdLb3lrZk0yVFpSN2JKeFdiZmdERFVSaUFVbk9YSkhPUDJPVmJ5MUQwVm41WHp6MWJvTWVXb1RKbHVlYjlnZFdfRWFObjR6cXc0dEd4SjNGcDFNSENLTlhaUVlQZzlBaDdkNHRhbmdFVnV30gHjA0FVX3lxTE12VkpuWXdsdWMzcDA4MVJBOEFSbk0yaUYtdDdPaWgwZzFsdi00N0lpSzhFeTFyVm1oaWlqaVZrdi0wQTdkVmpJYmx1TnllZVFuQVBTRXlXQl93UVlsWUlGREZFbXdiS3E4aF91V3ZYVzJKbERKSFdFUjMtdlg2NlNPYkE4RGRoYWY4SEFHNWt0RTAtTmxLaWNxODh4WnlZTno3Z0dZQWRvelMzaWhhUVN4eFlXd1RGU2p5LUxkQTFyNVViS2RtUGF2UlBSQkZFdDRGT3dXQnpLMjljNGw1UHhodERReGIyUHpja0c4VFVoTWgzeXF5cVE0RWtuNjNaMzVLMi1IMGtWRmgzRnEtNEtDSGdQaTJZd2F1R21henEtcHNobFpkM093cEpNZHAzcWg5Z3ZOb2xhM3VBeTFPZFlvalYtN2RUcThzTC1BU2Mxc0RDUUNfblpDNHBYTWxNdWE0RGZQTm9DRzdqYlZGZFY2Y2pLTWlvLV9EMnRKMGlxLVprRWdNWm1kT2N5ZmVaU3pKZGRIVUdzc1dhVmJmU3ViMldRTDVVdGlYUE0wNUc4bW15MnhxQTRyUWQ1bmNpcE9JQnVWbGtURFdnVTBQZVpYTUdReVZTT1VkVXpmWkNKS2NpTQ?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 07:01:06 GMT",
-        "discovered": "2026-10-08T08:03:51.477502+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "رحيل الممثل نانا باتيكر.. الهند تودع أحد أبرز وجوه \"بوليوود\" العربي الجديد",
-        "player": "",
-        "content_hash": "7e4d16be3caecfe7fd68f3e593ff6b9610626924a07e8c698f3ffaaf30edbf21",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2134,22 +2150,6 @@
         "summary": "انطلاق الدورة الـ67 من معرض بيروت العربي الدولي للكتاب العربي الجديد",
         "player": "",
         "content_hash": "a259c7c1e5262923092102cfcff89890c7bead7635f42d08a1aaef072a58b876",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 9717,
-        "title": "هل تمهد حكومة الهند لإقصاء ملايين المسلمين من الانتخابات؟ - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNclUzTmpKOHhiRWxhRGxQRVFhUjlLU1RMS2xqeWh4aE9QUE9HSEZUUUVXczFHZVFPcGtiYk1Oa0cxcnFUTEJMNTIxaUM1M3BIZWQ2ejk1cWlvTUJiYVpBZTcyXzV3cFBSMVZQazFsZGdkU2dfRFBja1o3VnhGTWh4cnIzYmpXay1hcHpZRklEc2pnZ1F5c01zaVdfYkMxTWFfblJITTZ5WjZMZDhEd3NjTUhGU1ppanNyaUh0ZVdIaWd6MzdUYjVtU0JYdkFwT3pLY0Q2VHljVThncGJpbkU3RmxPTUVmMHpiZUpOY0QtT2NaTWFCMksza3JJM1RwckJFaEYxSVdmTHhvbGJQZTVybjV3LXQ0UHdBMWJSZU5pUUN6bzJVWkI5ZHNDU25zdXg1azJVb05rNA?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 06:57:05 GMT",
-        "discovered": "2026-10-08T07:50:33.254155+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "هل تمهد حكومة الهند لإقصاء ملايين المسلمين من الانتخابات؟ الجزيرة نت",
-        "player": "",
-        "content_hash": "a2cb7846f82053863ee72e0c2c6fd229ca22cb48a54a3dddded53072033447d6",
         "sent": 0,
         "section": "middle_east"
       }
