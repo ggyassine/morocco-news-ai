@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T02:28:31.616450+00:00",
+  "updated": "2026-10-09T02:45:31.137502+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -400,22 +400,6 @@
         "summary": "الدار البيضاء الجنوبية: اكتشفوا بالصور تقدم أشغال محطة القطار من الجيل الجديد Le 360 Arabe",
         "player": "",
         "content_hash": "4a61a3cf665ab3e50c0b1a86412ec4cf80366352c9d876117ea88f3dc667c9c8",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 9520,
-        "title": "المغرب يسعى لزيادة معدلات تدفق السياحة من إيطاليا - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kZVdlemxOSnQyVGFfaDBkNWVzc2s0a2lob1RyQ01IQzVzSWI5U2xHbGFVY0NVMWVvQlVnWWphaTFTU3B5ZnMzTA?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 17:03:20 GMT",
-        "discovered": "2026-10-07T17:15:38.325444+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "المغرب يسعى لزيادة معدلات تدفق السياحة من إيطاليا Febrayer",
-        "player": "",
-        "content_hash": "a9409e4936e1cff2edfac1c22b7be7d39c26711f5cbc1ab91dec01e89513b2d9",
         "sent": 0,
         "section": "morocco"
       }
@@ -1352,6 +1336,22 @@
         "section": "transfers"
       },
       {
+        "id": 9992,
+        "title": "إسرائيل تشارك للمرة الأولى في معرض مغربي للصناعات الدفاعية - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPZjZUaVhvNTNkX3FlX0ZxOVJ4R3BEc2MtclJvNnV6bWRTZ2hWWU53ZWlieTZxM3gzN3oyWVFSd1ljUlh0c2dneGFlSWZtV1FMNkUtX0MyemVnZFRYOEd1YnV1WUFsMUNDWXZJYi11bEtuMHRvRmluOXVTVkh4THU4TUQ1UnJRX203YmI1Skp2YTE2dVlvY2l0blJDa0g4R09HbjVENjVuQk15LXlySFUtTHY1bzdoRl9OczFRaHN2U1R4el9xZ0lOZ2htSW15NmNxeEo1SDdRN1ZVcWxZSzBKS09BMnZuNEpPRGs3dkV6X0cxWXdpUlpCNUs5NDdhZmVmclJBQ19TQ3ZOd3JGQkc5U2dsbzFZSWNfbFktck9GOHpDbVVaZnFHU3hja0V3dFpPMzg5T1MtY2lOV0hmanIzQmdOR2ZEQ0k?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 17:42:07 GMT",
+        "discovered": "2026-10-09T02:45:25.695612+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "إسرائيل تشارك للمرة الأولى في معرض مغربي للصناعات الدفاعية القدس العربي",
+        "player": "",
+        "content_hash": "9eded92437a21897e35ae293234fb6944c223ad977cb9d3144d3305356c00ff8",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 9941,
         "title": "مصدر من الزمالك يكشف لـ في الجول حقيقة التوقيع مع الزناتي لتولي منصب المدير الرياضي - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XSlI5ZjY2N1dGV3NXelNyRmxXREVEaHJ2bUd1VkE4cTFmOVcxU1BiU3FyNVk3andpd2pIb3hKTlF3VDBVUTRjaXdTS29FYXlD0gGSBUFVX3lxTE45Z1dYVUo5N3F0bk9BcHFaT0RaTlVFT2hCcGs1UmhTX284bW1RUTRiNFQ3UEpMbjZZTV9WYzAxb1VPclFhUkhyOEhkTUJuQzdpTEVyaXNHbTVoNFlEbTQycm5LSFZpUFRUSzllLXlITW5ZZFF2X0w4R2RmT01ZdWRJYzN6cmhGWWNjMnZPR01UcHFqUFZldHNsTnA2ak9fV2FHZ0ZpbGR2ZVVjTXFnT3BXdFJQNXpjYThhREVQTW9Ma3ZXU0lKWUhlcEpVVlNUT2Zxa0RLNDc0RC1nYWJ6ckRFX1dUd0dLTG14ZFltcVBScFVodUNqQTRVNU1Yb3FJNlF4MVc1VFN3YjA5U0lBOEwwU0tHWWlzLWxaVHdKTi1oN0VoR0xmZ09Xbk5reS01UVFIOE1naDkyTDEybG5mY1FzSHpoX0tfcFo0M2VvNkh5RU5zX0NwWmJpNUVPNTByNl90SE9TYVlGNGkxZkZhMS1OaTZNdFNTc1NGLUNOeWtfS09MMjl2YzFmcVZ1c0VvV2dNNmZ5X195ejZBbGpfbVdUdy1aYmh0ZWRCeW1ZTEs0QTNlRlFxSm1ZTjdJVVVvVEs2X3ZZQUwzSjZPWURVRXdtb2RScXpGamN6d2o1RHlpQlM3WFZrQUc0d1Zjemp5enRLWWVtVTNUemx6a25BQ3Y0TUMwSW50RlRlRWZYMmNWTzZ3MUhEcmR3NTBKbDJ1dXp3MG5TaVM3MkRQM01vdEtwVEx1U0J6aEs2MHpTbEdxekMtcWV5b0dXa3dTc3R1ek41ZC1lMHNwckV0VEtSU1JtSFhXMEtja3EwZW1rdWNZYjFoOFFVMWVVTmk0cFJxRG56bDdDY3Z5VTJaWlk0S3lmMGc?oc=5",
@@ -1540,6 +1540,22 @@
         "summary": "قاعدة \"مثيرة للجدل\" تعرقل انتقال كارفاخال إلى خيتافي الشرق رياضة",
         "player": "رياض",
         "content_hash": "367708d20f0387d0559942b824dbc5b4292fdfb37c9452fcc9887305b0e4317e",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 9993,
+        "title": "احتجاجات طلاب الثانويات في فرنسا: أكثر من 6500 موقوف... من هم؟ وما التهم الموجهة إليهم؟ - France 24",
+        "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxPdzB5VUpGZ3htaUxoVTBseTNfS0VvUXNhT3lmZWVDWEdCQnI2R3QwQ2NERUpyaWoyWXhTakc5cDE0VjVBV0I1MlpKNngydGRZV1FxOXlCN3NlT0VObFR3VmJwbDlWSS1jTWh5V1hJTVVCOTlUMk1HNUhXLUlpM3RfTXYxWW5DNnliTFMzd3lITS1NTmVMQW1KanhwWU84MXlmbllzbllTa2w1b2N1aF9aaThJVFd6dGItcnVXejN2N3Nfd21VVWJGc0Ezb2ZCZW9JN3ZZZlloS0wzTzZmS19fRy0yTkF0QXhYS2NKeF9IeXJEU1BoRFJ2T0k0MXJtWDQ1R0YwYm1xVXhESW9DUWIwY0hhWWxNWklZcENFZk9zeFA1c2pkd2hHUk5uZmhEMzBsR0ZiVXFYLTZyT1RnZG9WZC1oM29EWGZSLV9ERVo2UUZ5NDBMbHRaUy1KNDdiRFY1TDdRTTdnYS1NaUVhX2xGZ3Z3TE9SV1pTTDNQejNPNG4waDZSTG1BNUM2Rkt1V1lkLXI0V2kwQlFtU2ZxX2JXRHdWZV9KaVZ6VGZUSGNXS2hpWnBFb0FyZnplRy1nYlg1cGR3c245NEhTb1M4eVA0ckI3MlBsdW53blJzbHhCaWRoQUl0NkE1Y0daeTNaZV9OMXU0QmJoN2lJNUNNaGl5YkhmcG5kV0dDYnVIRzZiejh3bW56NUJ6MGFvZWhLMm93Tk1makhweXExdw?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 09:59:02 GMT",
+        "discovered": "2026-10-09T02:45:26.535793+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "احتجاجات طلاب الثانويات في فرنسا: أكثر من 6500 موقوف... وما التهم الموجهة إليهم؟",
+        "player": "",
+        "content_hash": "c7929f95586a1ca1a2b36d8d3c04a339e30b58007dc57e7aaa6f8267b79036f7",
         "sent": 0,
         "section": "transfers"
       },
@@ -1892,22 +1908,6 @@
         "summary": "إطلاق نار على موقع ﻟ«يونيفيل» في جنوب لبنان الشرق الأوسط",
         "player": "",
         "content_hash": "aa4934dc35757232b5abac55ec5352cd78764f509ec001213a2b81e8e6e2380e",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 9563,
-        "title": "فيرستابن: أجواء الفورمولا أصبحت أقل توتراً بعد رحيل هورنر - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxPWDFaaVU4UllwXzdJVzVhU3V6ODdRNVhTMW9WaHMzMHJ2aDNBc3VpVnN6THlRQk5vWE83c3ZhQ0pILWJBSHdyYXFJYkQ3aW5hczJjNkVzdG8tVXRfcVpOek5NSVdZQ2Jpd0stdlJkcEJidzVRaXlEZTltalJWUEk0bEV1XzkzOE9DTVUzWGwwU2FvTmU1ZzNGSlFsazRXaGhHTkdmMS03eTN0TjBCRVRiUm1wd2d4SUVzc2ZGQ3NsTkFZWmF2SXBuMTRyRldhVUxYX2k5TWswbkhqeTBDUTVwbHBfMmRIMkthOXhqQUdoV2wtYWw5eHpTMTFnNEM3TjF0TGtxNVQ4eUNkTUVWZ3U0OWZwWkdEVU1nNWZrRFpjRWRVQ201c1ZwZ2VOVldEbVRabU1neVQ0bHNPOU0tN3pfbHo3ekJtU3Q0X0NiQkhOS3lMLV9xMlVWSmlhaXJVd2RNaUVDaWdHQkFlbE9PeUJKVUhwaFpYSFhNbUt5TGtWc1FWQzNJeTExLVVsVjdnNFZ2eUtUczJ5OUpBNFBUVnBYUFZCUmJvc0VteGxaMm9SRC1jUThBdjg2RHZJeVJOY2ZmM29sejZ1ZUo2cFQyME96TmMyZGtzWDh6ZVlKRVNvdG42bW8xUVRXNWVzRzZJVnhpMWxJTWtfanVCbU5jVGEtOTY3TlV4dldOMWg0aGJ0TWZKWmxFM1VoeW1oSXJEQXJIeUF3Z0FtZWliN0xnSHVpdWxUUjl0MlVMbXZ4NmxnTkNYOVBrV080blAzLWFsd0NYUFgxd0pYUGNGY0h2YVFn?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 18:03:23 GMT",
-        "discovered": "2026-10-07T19:40:26.866095+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "فيرستابن: أجواء الفورمولا أصبحت أقل توتراً بعد رحيل هورنر الشرق الأوسط",
-        "player": "",
-        "content_hash": "290202510392c3fb0b2c75134f62c14cbc7c2d124d79e548c9b8020f5bc73e0f",
         "sent": 0,
         "section": "transfers"
       }
