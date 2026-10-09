@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T02:59:42.723487+00:00",
+  "updated": "2026-10-09T03:17:24.509477+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -32,6 +32,22 @@
         "summary": "السياحة المغربية تسجل 15.7 مليون سائح خلال تسعة أشهر Febrayer",
         "player": "",
         "content_hash": "3ab41bda2c2d29c9bc5fd5c8c8eabecbbab3592ea9638b10dc75462429987cc3",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 9997,
+        "title": "الاتحاد المغربي للشغل يطالب الحكومة المقبلة بوقف تدهور القدرة الشرائية للمغاربة - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CWkd5STRNMm5fOWRuV3dfS1lKR2h2cTkwbERCQVlQcXBLR2htcGlYRVFQM3BXWWFqeUhsM1NSREpjTUVGbVgzQVY0QkNRdXphLWJEODZ4Z0ZtU0ZSTkpuZmdLbjBIdDZG?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 21:00:10 GMT",
+        "discovered": "2026-10-09T03:16:51.966914+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الاتحاد المغربي للشغل يطالب الحكومة المقبلة بوقف تدهور القدرة الشرائية للمغاربة Le 360 Arabe",
+        "player": "",
+        "content_hash": "76ea48fef015b6f3f4ef5a0b32d5211ad0f8bde09e4c0ed9f6f638bacebf2cf3",
         "sent": 0,
         "section": "morocco"
       },
@@ -2392,22 +2408,6 @@
         "summary": "الناشطة غريتا تونبرغ تنضم إلى المئات في مظاهرة مؤيدة للفلسطينيين في برلين القدس العربي",
         "player": "",
         "content_hash": "2079b3a98ed975b6d62d559f4aad818c5a4dcb53eb81fe5da08d7874170c997a",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 9555,
-        "title": "حفل إضافي لفضل شاكر في موسم الرياض بعد نفاذ تذاكر الأول - CNN Arabic",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb2ROaUsyZXJuTkczY2hyYmZGY25WLWZNbElPYmJkd0VTamZwRXZQUjRyVk9ocnRUSnVRVDllZG1XUmtzbWtrMkhGRkJ0SU9GTTRFc2tvOW14NUhXSXkxMlNQRkx2eFA3Umh0ZnpaS2hLZnNLWWhRVTJnWkI0emZYVWZhZTNCU2FoZ2psajV2WUJncVl2WnRod2hNM29PS0FWQUV5TldlOUZCSFFyOV95VHNLbkUweHYxZDJCR2hyTzZNZGRSQ3EzVFVFeEhwN2puT3hmVzMtd09XUQ?oc=5",
-        "source": "CNN بالعربية",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 18:51:52 GMT",
-        "discovered": "2026-10-07T19:05:33.204340+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "حفل إضافي لفضل شاكر في موسم الرياض بعد نفاذ تذاكر الأول CNN Arabic",
-        "player": "رياض",
-        "content_hash": "14d4756124a2e1cfb563bc5dafc737cbf59542990d8a7afcf96d283a02b821cc",
         "sent": 0,
         "section": "world_arabic"
       }
