@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T12:27:27.307599+00:00",
+  "updated": "2026-10-09T12:50:43.738649+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -501,6 +501,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 10081,
+        "title": "مباراة بروكسي و الإسماعيلي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQLVZ0enNLOFNUanJfRmtObVBKbm80TmJVUk1ZS1ZwR2ZVS0dzRTctaDZsY3VaOHRTSDFNRmVQcUNJWlRoZXpPMUpQWHBXWENMM2Q4N0VhTzhwa01fYnhxZkNKQ1BPNDlUUEdfRk96QkRpQzRlc0dSTFJYMmoxa0c3cVFJZ043aS1qLXpteUxZOWRlcC11bDlTSFZXdG9faEFLRFBHcXJncERmak9OOUpUYkozWnFVRUZVSWViVy1mQzNhZmMyY0lweW0xbW4tZFNFaTZYbURmSDZpeGMtZG94TW5DX2hELUl3VHUwUnNncFNsUVpvdEJ5NnhickxBcnFfWkF2UmJjY1YtQzlCWURMVFRQaDI4TlpEMG1zcVRnb1ZKY0NIeHpYUjJzSlZmb20wT2V2QUJ5aG9lOVVHb0Y4Y1BLbmJkNWhwODAzMUpMVWR1R1R5MW50dV82QjEtSE00aHVYbGtpbmE5QnhnR09Xc1RUMTNjVDFrVmswdEZaOA?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 12:31:11 GMT",
+        "discovered": "2026-10-09T12:50:27.547438+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "126d4089262a790bfc3a465c23bb91ef5ee21d867a6f3679881f196735f5c79b",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 10078,
         "title": "مباراة نادي تسيليي و أومونيا - يلاكورة",
@@ -1282,22 +1298,6 @@
         "summary": "أحمد رؤوف يكشف موقف حمزة عبد الكريم من المشاركة في أمم إفريقيا وكأس العالم للشباب FilGoal",
         "player": "",
         "content_hash": "5087c24d8f40588bf75899cb0dcf0d0b1892f1cc0a1720a03304771dba90153e",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10003,
-        "title": "أحمد رؤوف يكشف موقف حمزة عبد الكريم من المشاركة في أمم إفريقا وكأس العالم للشباب - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9USWlYWURCRU9Rb3BnWFY1MVZpa3Jhc0tCcFRDT3BNN0VXcThlSGZ0Y3U0NTVKOUw0THdNc0FvZHZFUmZnTTA4TllORTI3blAz0gH6BEFVX3lxTE55VmtpUE52dDZ3enEtRDg5dEMwd0VaTm1wWXBVc192aWhZbnpDMkZzS1JOVU05cHpFUnRIbHByTGU2RTZkNHItbUV6MF84cThEeUNKMnJhUWFpMHdRT2I1cGEzY3ZwRFpwVmNpNzI1MjhwdG1hSHFHcUNHeG1hR2RZSUVSM19TbEhvSlJ6X0g0c082Wmo2WXhKQUxRejFmRzJQLUMtdGowWG5WbjdGemFrcmh4UURMY1phRjZZNnZvSnpReGtNZTlTdm1CbjZJOXMtYnNqWHRkWThDcmowRFpoRlVLMXZPTHVfdHhQanQ5NGdDNVMzNDhLYVFuV29JXzh5YzU2TUtuS3RHWjVHZUxVTzUwYmFMZXFIV3FFT3BzdDBYeEs1ZnF4c1VIZXdIZlJhQ0h1NFdsNWtRU0l1d05BX2wtM0FNdmt4Um5heW03bXJfUk1QZGxaZ2pOWUlTWk5RaHB3SngwR3d0Qk8yWURKTF93YWNQR2RjSTRpV1FndW90TEE2MEFORXRLa2lBZXFhYW5TMG9DMFl5dXpUam1NS2poWWhHOUI1dmZyU19oNVl6bmtBMU54NUdveVFQYndPckFKSmoxMlU5dXNQdldhbmx6Q2YxTnZMOU40Y2UyVzh2RW5qTzBQdEhsNGRtM1FmQy0yYTQ1RTQtNS1ZNU9aTEt0WE9jTHYyWU9xNFh4VGZqQVBGS2dBaG5INW9VZmZWSjJjemkyTHpXY1p5Q2JjX0VqWnZJZXR3NEl2LURDcHA4VWh2b2lOalhHVl84MHNPd29HdzBPUlNXbTFrYjlhelFmWDllbk4wYk5NUUpRSVdPeHhjSXRYdmc?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 21:10:00 GMT",
-        "discovered": "2026-10-09T04:47:15.218192+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أحمد رؤوف يكشف موقف حمزة عبد الكريم من المشاركة في أمم إفريقا وكأس العالم للشباب FilGoal",
-        "player": "",
-        "content_hash": "88e1460d3c87c98ce88c676e67f729c2c576e062e1ff417424d0aa6e6b78b774",
         "sent": 0,
         "section": "sports"
       }
@@ -2124,6 +2124,22 @@
     ],
     "world_arabic": [
       {
+        "id": 10082,
+        "title": "عرض الصحف: أزمة الإسكان هل تتطيح بحكومة سانشيز أم تنقذها؟ - في الغارديان - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lcjR4Y1VXQlR2YUhPeXhrM0ZKSXIxdTZ2WHNFUVF0b0Jfb1ZXWHFsQnFFcjhtTHVrSTBmWWZaTFJJMEllX0plXzhQUDBfd19PSGF5aTBlZmJkb1lRQVHSAWNBVV95cUxPaGRiZ2VyaWFiTlE4aTNNZDlCeENRbGZSVmRDZ0RSTWZuRDQ5ODhzU1I2QkFmLWZPTHhzTHk5NW1SWXJJTDNCWW0xSk9LRjFpaHgzUG1INVdxeVh0QkZ1bUJ3WVE?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Fri, 09 Oct 2026 11:22:09 GMT",
+        "discovered": "2026-10-09T12:50:41.282831+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "عرض الصحف: أزمة الإسكان هل تتطيح بحكومة سانشيز أم تنقذها؟ - في الغارديان BBC",
+        "player": "",
+        "content_hash": "862471c899233c9dc474b6fd32006a5894ffde36e28536d14380dcbbff43d3a5",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
         "id": 10048,
         "title": "اليونان تتصدر وجهات شهر العسل الفاخرة في 2027 وإيطاليا وفرنسا ضمن أفضل 10 - Euronews.com",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2oxR0FkeXI1SWlVWDV3aE9xdU5Hd3J0azNiVjVfUzFUNXNPV1Z0cm1BRmxickl0QTBpT1NMSGdDMnBFRjN1ZHZVUHA3cXpzMzcyR3hMZmc5SlhTemg2WjJ1N0paaUlsMmczSjJ0dGJPejZDdVNuRGxJODlBemZzWXJUekhMVWM0RDRmLWk1TDhXVlNrVS1PU1JYa0pJeXVLUGQ5WHo1YWIzNXBKTklibVFsb3hCcmp3aE83bEhpV2Y0SkFhb05Odg?oc=5",
@@ -2392,22 +2408,6 @@
         "summary": "مجلة: إيران تضع قواعد عسكرية أمريكية في ألمانيا ضمن دائرة الاستهداف DW.com",
         "player": "",
         "content_hash": "5318ee1d3c7008aaab2178a081b23a6939f3d04ad0372cdab397b87f57086897",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 9693,
-        "title": "،سوريا تدرس إرسال قوات إلى اليمن، والحوثيون يقصفون الرياض - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfQXhkcTU2cnBCRlY4YXlJTExTa25jMGNOY000cHR4eDk4NGJUSWw5UjNzLWF1UXk4R0JFLW0wWmRQU0FVTlBLOExwYVpudmNRN1hJeEduSk0xRVVDSmfSAWNBVV95cUxNZFVKbXA5ZmU5akNKQ3dQX0JoODdaeGdCbDczVkx6TEVzck9wOUZ4VGxNTUJxek1uNjJReVlJTVFnMkM0Z2NIN0paVnFSbGw3ZVdRQWJlUjZqR2ZxSTA0R0Q0LUk?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 03:49:47 GMT",
-        "discovered": "2026-10-08T05:49:50.753669+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "،سوريا تدرس إرسال قوات إلى اليمن، والحوثيون يقصفون الرياض BBC",
-        "player": "رياض",
-        "content_hash": "397fe55190a55be70ed246fcf9b62be0249d4488d4dfa0086fa78567439f42a9",
         "sent": 0,
         "section": "world_arabic"
       }
