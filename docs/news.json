@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T13:29:57.098272+00:00",
+  "updated": "2026-10-09T13:50:12.141887+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1304,6 +1304,22 @@
     ],
     "transfers": [
       {
+        "id": 10088,
+        "title": "معرض مراكش للطيران.. شركات دولية تتطلع إلى توسيع استثماراتها الصناعية بالمغرب - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VSWI3QjNmSGxsSHFMa0t3SkhEeTdyTVUzMnJtcTRwRHI1VE9Pd0tkUUF6N2pHOEpHSzhlMzVIQ2dNalFmYUJRWg?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 13:32:10 GMT",
+        "discovered": "2026-10-09T13:49:44.522499+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "معرض مراكش للطيران.. شركات دولية تتطلع إلى توسيع استثماراتها الصناعية بالمغرب Febrayer",
+        "player": "",
+        "content_hash": "f1921d082c61b3f7a7f08f54b8a9c1d8da6729b21b1f9a1db08a10dd522985dc",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 10085,
         "title": "فضايح التلاعبات الخطيرة فـ”الدقيق المدعم”: الأبحاث طوقات رجال سلطة بعدما طلب الوكيل العام التأكد من صحة توقيعاتهم - كود",
         "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQQXYwdk54SXlxRHdQVV92ZXFMbWRYQUthU1hWa0Y1NEdXY0RabVI5NlVuZjFnZ2RGeE5CVXRCMzNNTkJPYldGcVAyTFFpek1NOF9fYWdOMmt1c0hPMmM5c05ZcVhRZGNpOXJFeXhEUVpWNDQ5V19MX1V4TUVwZEd6YWozZHpFV1RZWkEtZ0pOaDNIcEpRbzJRaGtmWGtXRFVkeGhXRjI1eXdyTXkxT243TXQ0UXV6a2w2YmJLWktJenpHSVlEWTdNeHhJSERhY2RqcEhBekt5OWlCTS1HaU1RQnczRngwZ283dHZNRGZpOVA3UGpIN2dSejdYMjh5NUd4UzZUYUZkMnhxdG4wYjBiWmg5MllGRWFabXhobTNscFg1LUpwYnB0UEpMSUFWalJvcWx4dm5sSVYyQzFZTzF4OHJzTHBrMUFO?oc=5",
@@ -1862,25 +1878,25 @@
         "content_hash": "66f66e929144bbb3cd1786da38b2b4be1e4ce03c9b3a8a1641280da48fa55e2e",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 9729,
-        "title": "زوجة مادورو تطلب مغادرة سجنها في أميركا لأسباب صحية... واتهامات جديدة تلوح بالأفق - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMixgVBVV95cUxQUWI2N25UdW1rTFZSXzBVQXFWRW9tRnkwLTFSbVZmMF9qSy01cGdnZjRNQ0t4ajFlZEgySk5BWjZSaUZpZHlNX1ZnMDZqTUZZd0ttTTd6Wk9FUjB0WTJUcFZ2ZVpybU43N2ljRnRHSHlxVVN5YTlRVG1pWVVHTGYtNXZ4TWlvYzg5MGowam9vUkpmc1VqdFFPZnpza3l3NllHcEhUWFdUSTBZQlQ5YnotMXFXVDhWMzJLQnNzQ0szd3RRZklQeXcxZlVfMVhlTGlUc3NxbV9qdGFsMDBNSlh2WUdRTWtUSTJyd0pQal8yd3pVT1EyWjlVZXhfMURHUF9Kc09jeE9EbHI3Z1VNYUdrcTRmRF9QVDNoR3BxQWhCQnNDUXFCX2Z4cG9sQWtrY2FJTzBUM0txZjdnQXBkVFE2eC11aXllTUVjYkI4V3VtbTR5WXlXS1JRU25XaGdURHQtZV9TcXlRUzl2TEZZekNoUlROcnptV1NXSGtnRGpZcm9PT1d3Tkthb3dCaE5YVjBkQmR3eUdwVEhibFlxbk9qLWo1eHJweFV4Z2RqbFhGOG5UYU9iUU9wX2pKd3VRS050NDh4TklEOHl5dTFleGFWNDJuQ1hOaGVsQWlzSzI4RTlrc2lQMTVSZGh3ZWN2MjVkTmJVazF3UkpZeEF2SEFQSnBGY1ZDalVkVHpMTTZ3emJ1Um9pNURxM0VDODA1eHpLTjVnWkpsNm1wcm5yLW44UEJOYWtuMUJqLUhqVnhHQVhwLU1IZTJ6cm10Z2lmSkpBUVpnQ0xxZ24xcmw5WFNEN1dQMlNnNXFLQVB5b290aHRNc3dzY0FJQ1NISGRRbHlpVDEydkdLckR0dUxkQ2ZFclM4ekNGUm9oczFrQ2VlMmduREJOSF9MOUZvaWVtTHhTX19FdnVlQVZKelFUUmNGUEdkWmlnUQ?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 06:25:28 GMT",
-        "discovered": "2026-10-08T08:25:29.261513+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "زوجة مادورو تطلب مغادرة سجنها في أميركا لأسباب صحية... واتهامات جديدة تلوح بالأفق الشرق الأوسط",
-        "player": "",
-        "content_hash": "76981a431123ad6326c559bda9007b3a0ab3e3dc47dfc9d54cf5fac81ac3ca56",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
+      {
+        "id": 10092,
+        "title": "معرض مصري يلغي مشاركة فنان فرنسي على خلفية علاقته بإسرائيل - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxPME9hOVNlbndCR2NjcmFXWlNUQ1B0dFFNWktfem10WHlTWURmNE9rbTdBdURTWWx1Ni1NMlJCTTBZbDVidHI1TlJHWW9PTUlUM084eXJ2eng0azNJMEltdnFTdkRQMkRhbWIyMnk1T1pzdWp5blBEOU5GNjllMGZDTUptSHNCeGJLalkxZlR6YlpDSGpDU1J0VG4tcUI1VnJSNHg4V2FXOUpDWnV0eHIzS2pyWVotVmtGdjFfWTlYQjJFWDBiMjlkWFQ4cW1vWEFOdTZtbzg4RktNZmZINnFfTTRuNE1NMlRqUUFhZmdTR2wxTFZFSmhYTmxTQWMtUjdZSXpRdkRDUWk3OE9QT2NyMXlmaEtEaFd3OVUwTWY1VUVGSnY1MkI5MXdQRUJyZHdfTGVmZjhXUGZJV2k5MHQxNVRwZDNPSF81XzFxdGJEUmFoOG5HZnBwNFBOMmtqc1dCRlpSSkVYQl94aGlmWmNqTG5MYUprZC1SMklGQy1FVE9lVTdXYjFjV0dFb1ZGa04xcExsTkZlczI2SmE3azUzTmh5Q0FoWTU1SzlQQ18yVkpydjRIOXp6Q3UwdkRrcTA0UmdIa1otTEFabXB3bHZ5bTFLX2hyQTFTSFZUaEJB0gHjA0FVX3lxTE50VEdudTAwZlJFZ2hVQllPTl9DMV95QjE1a0gtMWN5a0tpTlhuSnlpMjdxcjFtWUluanEyeW9IYTd4UGhWQXdLYlNWaDlLaFpWMFdadTIwS2JSZkhSeERCUmtOMjRWWmxqdVNLRUIzUDc3bUlpZjRyUWdtc3JOUlpvcXY4VDFZTWpaQ2VqemQwOXJKSllRc1ZlcVJSX0FoSy1PYndfWmdReHJRVzNIQkRLYU5iTUpiTm9HemNqTHNSbFl6MmdtdFMzam56ZUFOZ1JHZzVtSmVadVBNSC1mc05rVjJLTE1acnpONG1RYTlvVUt1Zno3U3VXY2NMN0htc2lhRFB3UC00RUY0WWxhYWtJVEdJaXVaZFltOWQ0ZWJuaVE1Z2poY29YMVpGTWxyRFN1TVRfSjEybVFyczY2bWlaUGlNS3l3a0I5TjQwa3NDRnhtSEN2UGEtRjVSTjJIa1hfaEppYlpCaGNNaEttdG4wbWxmYk1ZMlBkV0FhbVNRT2hNMnNCS212YXhIV1FENzZZR2hTTnA4Tl9CRFZLaVFOdGF5V0VWeFhfNGl1SnVXV0ZsTV9rQl83Q1FBcVZvOEtJWWt5UE0yeG9NOTZ3MjZDT3d4YVdRWVRNRHVaVEZvaDhJbw?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Fri, 09 Oct 2026 13:28:30 GMT",
+        "discovered": "2026-10-09T13:50:05.529585+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "معرض مصري يلغي مشاركة فنان فرنسي على خلفية علاقته بإسرائيل العربي الجديد",
+        "player": "",
+        "content_hash": "510a07e05adef5ef9b1add749101bb2f3c16c8547dc5ab43ad4c1bc2b8c1e8b6",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 10072,
         "title": "جائزة إسرائيلية لبرنار فينيه تفتح باب المقاطعة لمعرض \"الأبد هو الآن\" - العربي الجديد",
@@ -2392,22 +2408,6 @@
         "summary": "وزير التربية الفرنسي يعلن التحاق 3000 أستاذ بديل \"خلال الساعات المقبلة\" بمدارس تعاني أوضاعا صعبة France 24",
         "player": "",
         "content_hash": "1d197c220055dcbf0e3b67ce7d9cf09a3947748e3de8128c263200df536a9a1a",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 9965,
-        "title": "مباشر: الحوثيون يعلنون استهداف مطار الرياض مجددا والولايات المتحدة تدعو رعاياها إلى \"اليقظة\" - France 24",
-        "url": "https://news.google.com/rss/articles/CBMihAVBVV95cUxQS3lwTWF4SWtvM2p6VmxzQ0pLc0VEdzVScmVZU19fUmtjQzluZUtYd1RSRGpDSlljY1ZoRDdPcGRVbFcxcm9DU0pkQk5mVnJveGpwM2ZRNklKZ3lWVVVlV3UwRGI0YkcwWElmZ3Q5ZzNVaHExcloyYW5nZjJVNk9FS2lNYl8zY0RPOENScjJiMTdzRG9PMEIydEVXZnAxLW04QTN0ME1PeTU4ZTQtWG1TdlVXcnNNbnUtdnlJRjRPRnJpNkphRHV0Q2RfRmZVRk9ncE55UHVMYVhWS29Ib0lhWUtmTnZsMUZyeXFIMV9Ma2dZWnZXWWh3cWFRdTR5alQ5QU5QajJQUVB0eGtFbENQTkVGRGJjVGFocE9kTFhzT0ZDUHRob3dTSm1SMUwtUXJRNUxsZUktektKLU56MHJDMHU2R20xdDF0U0E5Wlp4UnpJYmZONElfUmxJeG1RMFA1UHNNZTZyNmJHVTkyalpvTHJkY2FwNkM2RjNDUktubkRNR3drLWNQeEs0VTFwdElFMDRDNWJpQVAzZUZ5MnlDTHV2QzgyY0NOWWFmUml0QnFWZ0FhUS1FTE5HeDZNQ3VBemhTM3R2bUctcVB3TVA5bTVUS0ZfZ0FrMEhKZUd0Z3c3OElmeHJPUEtpMWZiZXAybm5QMkFrSHZ3VVJWT3lteUh0T0VYUnpJR0diaHQyaWR1YkppVl9lcDNrMV9iOHNQTU9wWDk2TmxjaEdxQ0oyVllVUDVONEs3dmladjAxc2RjT2F4QjJiNXdzd0IyREUtTGxxWTQ1cjVBV19PRjUyeDNBdXN2dDQ2aXV1dk1oVjBzT0VVVmZuVWhxMU9aRjRweGxWRg?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 05:46:19 GMT",
-        "discovered": "2026-10-08T23:53:26.924495+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "مباشر: الحوثيون يعلنون استهداف مطار الرياض مجددا والولايات المتحدة تدعو رعاياها إلى \"اليقظة\" France 24",
-        "player": "رياض",
-        "content_hash": "962cfe43f8f51e7b2fec6c23e9de5457ea715ce3c3f7032c335a1e0ab5c2595d",
         "sent": 0,
         "section": "world_arabic"
       }
