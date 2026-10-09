@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T07:58:43.370283+00:00",
+  "updated": "2026-10-09T08:16:38.635958+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -32,6 +32,22 @@
         "summary": "\"البيجيدي\": الأزمي رئيساً وبووانو مرشحاً لنيابة رئيس مجلس النواب Febrayer",
         "player": "",
         "content_hash": "963d5b7ef39b6a9ac79c3f24ad2f0d103c5f45eb6131a7d544b7e0e4ce88b7c0",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 10029,
+        "title": "إعطاء انطلاقة أشغال بناء المقر الجديد للمنظمة العربية للطيران المدني بالرباط - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JRHVVRk91clY2eERPXzJaLW1OcTJWUHNFRkgtUzhkY19EVk5EV2I3ZVVQbUtFaGprWVp3V19US1lmY0NzbjNra2piZ0wzTGNlSkZMVWp0NFhpeUt6dlBmOGNGZ21FOWpK?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 23:02:13 GMT",
+        "discovered": "2026-10-09T08:16:12.759811+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "إعطاء انطلاقة أشغال بناء المقر الجديد للمنظمة العربية للطيران المدني بالرباط Le 360 Arabe",
+        "player": "",
+        "content_hash": "824481178a6b993f0127e4e6fac6b4d3bc9b4a31146e090a187c62ea78b9342c",
         "sent": 0,
         "section": "morocco"
       },
@@ -1898,6 +1914,22 @@
     ],
     "middle_east": [
       {
+        "id": 10030,
+        "title": "\"ورود يوم القيامة\": حين يكتب الشاعر شعرًا مختلفًا للمقاومة - ضفة ثالثة",
+        "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQWkNTZmFvZGhxcDBERFNqc21SYXkydmd3VVowZ29lbGwyVVJDSFhJbVg0SFg1d0lMOVNSN3N5UmVFQW9LTDVRMExYbTBnaExKbnVZdWhsR20tdzctQWpCVXJCekVUMlFJMFhQc0R4VWpnMVBrbkVwSjRTdkh4M3dhR2tqN0RaMXlPRXdqVjUyTGxiNmxkVjZXT0hubHdnUnUzU05xVFI5bXNmdlhaOFFTV3paOUlOVlZUWUZPeEZyeFY5TEw5UkpYZEdVZC1rWlAwM0hyOHRlOUJrTHZQR2d5a291aEpOT294YjdwUWQ1cDJHU0h5OHdSWGExVll2Q3NDNHUtZG5aUEdOLTQxYjQ4azFQa1FwRS1FeDVGcjFScUJCRVpWQjJIcW5kc2s0YjJ0eC1VTXN4bGFVQ3hxYS02WG5tOUE3WS12REo3Q1UyWnFpcVNiMnhzXzJBNXJNTTZNY29ONENSQXBQVEhwcGlYRjNPNnE2MlRYTFZval9tbm1wc0VMN0NsbmVhcjVMazhpWHJFaW05NTNDTVhOT1Zvdm5oN25WSk5JUDRfZFplNmpGNUJXNTltQkNZd0pucGVjdmZ3LUpzSTROOF9IZDBSYzdYX0VjMzRqLVM1N9IB3ANBVV95cUxQWkNTZmFvZGhxcDBERFNqc21SYXkydmd3VVowZ29lbGwyVVJDSFhJbVg0SFg1d0lMOVNSN3N5UmVFQW9LTDVRMExYbTBnaExKbnVZdWhsR20tdzctQWpCVXJCekVUMlFJMFhQc0R4VWpnMVBrbkVwSjRTdkh4M3dhR2tqN0RaMXlPRXdqVjUyTGxiNmxkVjZXT0hubHdnUnUzU05xVFI5bXNmdlhaOFFTV3paOUlOVlZUWUZPeEZyeFY5TEw5UkpYZEdVZC1rWlAwM0hyOHRlOUJrTHZQR2d5a291aEpOT294YjdwUWQ1cDJHU0h5OHdSWGExVll2Q3NDNHUtZG5aUEdOLTQxYjQ4azFQa1FwRS1FeDVGcjFScUJCRVpWQjJIcW5kc2s0YjJ0eC1VTXN4bGFVQ3hxYS02WG5tOUE3WS12REo3Q1UyWnFpcVNiMnhzXzJBNXJNTTZNY29ONENSQXBQVEhwcGlYRjNPNnE2MlRYTFZval9tbm1wc0VMN0NsbmVhcjVMazhpWHJFaW05NTNDTVhOT1Zvdm5oN25WSk5JUDRfZFplNmpGNUJXNTltQkNZd0pucGVjdmZ3LUpzSTROOF9IZDBSYzdYX0VjMzRqLVM1Nw?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Fri, 09 Oct 2026 06:15:54 GMT",
+        "discovered": "2026-10-09T08:16:33.869495+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "\"ورود يوم القيامة\": حين يكتب الشاعر شعرًا مختلفًا للمقاومة ضفة ثالثة",
+        "player": "شاعر",
+        "content_hash": "19b3ec572b1a34d1732763ae358cb6373dd361930045dd4fbbef838db6cee6cf",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
         "id": 10007,
         "title": "ترمب: لا ضربات على إيران قبل الانتخابات - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQRnpfSFllem5XbGp3Ulk0d3JrQUhXMFlpaXBnMDlYY1ZzblVnSUVydHNxY2FDRDhBWnh6TjE4ZGg4YXR5WkVLZnI0QVk4UTZ1dnBLbDhpRGJIeGk5S0x0a1hUdmEyeWk4V1ZmTVNUOWNld043VjVKZnpPSFJFTS02UUYyellqemY3N2pDVzMwY1JBZGNkakJ5NGMyM2xCWlRkbndWSVdwQnRUYV93UTVvem55QkxiNzNJQWtLMVdQSVNpX3QzTGFEXzRDOVByWDk1SVZ6ZFMzUE1ZYkJnMG1hMUlHY3c4RjFORXl0OGR0Qk90Ym9pd1pnOGZyQWFJYUVmSnpJWGY4MXUxakpUWmFLeUhnb0VVODNoWnJ3Ri1sSE9ZM3VSOUExYVdoTmZvUDlpOUdZcnV2VnF6SFlzUXVTTi1CdmVmaXRvbHBZeHU5UHRIeDAyRUgtcXlnRVJEYXBNNUM4eTNkZ0F2MWNLRFhzSVNJZmwyUmk0cDQ5eEI1SmFuczg3U2VzSkpKYTVVd2xiblpqTUI2VkhCUkN2c1BNNU9yZU0tTnJJcFl6Q3RQNHRuajJweFExR0szaXB4QTVnZUtuaTk5Y2FKUkk0aUk5QWVXWVRrc3BET2dGbDVDaEdVYUNhSDE4ZVZSbWRYZUFQbW8zdGIxTTlxZXpaY2NmUQ?oc=5",
@@ -2118,22 +2150,6 @@
         "summary": "أفراد من الشرطة الفرنسية ينضمون للمظاهرات.. ما حقيقة الفيديو المتداول؟ الجزيرة نت",
         "player": "",
         "content_hash": "fc98eed71a1478bb4c12b708af5de7bccaeac4fde6c91ad7e0bb9c0987fdb054",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 9625,
-        "title": "السعودية: وفاة 3 وإصابة 36 باعتداءين على مطارَي أبها والرياض - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxPWmExZXBybms3SXRvZGpqVmdXeTR2ZGxWbzZhcjVhWWxJMkxrUXNPQUNDU2hvVktYUlRiZS1xVlpqU04wWHdtQ3M3V1Fya1VmNkRjcUNHSGxtaVFnOXRWSjF3N0FtdUM3Nzk5ZXQyelRwM2FGdEhRZ1hsNzJJZ2NlcW02T2FyTkNXTGh5QkFZSjlNY1BCQ0RTbjdMRW1Id1YyUXRCYlZQSTF3eVlCaWt2SkRBZEctQVdqNkdja0lSVDZCd09La3F5RjlJc2ZnY054N3NPTDF2elFXb1ZOOFkzUXJjeVdFS0lJRk1BMS1wNXdfdDIyZmNSMDdGSWp3cW5SUVNpcGY4UDg2ei1acXBnRlVWekRpaUY5X1F6Q1J3cXZxUXY2WTRtZHl5WVlkRUNnVjBUNE1iNmFRbzE1ZDQ3ZFhQMUVQbWJwQUhrZVNZTE84RDZTTExzQUVvVTNvRGxzZmNmdWVjRDludjhYeWZvMGNPTENtWFBfSEhUZ3VKOGZBMFR5LWVhYXlmZmtLR05JckoxaGdvUDRhbnU2NTVBNVNPU2J3OTJadVJTRk9obmdBZDJvbW9PZEtOclNhWWQ2SW94LTVEZG9yUVV6QkVZUDBfblZzTzBLYXNtbkl1SFJCVVNQcVFsajkwSmhFb1JIZnNpQXB5MGZZM3BwcVZMSTFHUEtTSS1aZWxDOFE1QmNSREpHSmlvU2xZT1kycXU2aVA3aFFCUjJac2g4UV9LZERUVV9fV3A2c0FiOUVyX2RlOTFvdVFuOGRUZ3RfZjBySFJmbkhuMXJWYWVS?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Wed, 07 Oct 2026 21:22:12 GMT",
-        "discovered": "2026-10-07T22:30:52.330742+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "السعودية: وفاة 3 وإصابة 36 باعتداءين على مطارَي أبها والرياض الشرق الأوسط",
-        "player": "رياض",
-        "content_hash": "9df0a7ac26a61bb397a0a5764e3d9cca4bcfb3b8a43da92bc3d1ff15e5dd2899",
         "sent": 0,
         "section": "middle_east"
       }
@@ -2392,22 +2408,6 @@
         "summary": "الحوثيون يعلنون مهاجمة مطار الملك خالد الدولي في الرياض بصاروخ باليستي القدس العربي",
         "player": "رياض",
         "content_hash": "a0976729ec430b89f326e2345f5fc971ef105178aa235ec6aba5ad7724b54feb",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 9742,
-        "title": "وزير الدفاع اليمني: القوات الحكومية تسيطر بالكامل على جبهات الوازعية - اندبندنت عربية",
-        "url": "https://news.google.com/rss/articles/CBMimAVBVV95cUxNQUFpUXBoQjI3bmhmaDFwVmVmbHpBd2VUV2xwREdoUGpLOG1pUkpGLW9raXl5Y205NWhha3lxV3FBQzF1U0k5TGJrTWZmekxZVmtsbUZzMFVvRlBOeE9YVFZUcFkyZEZrWmFqZ3lqYm5oZWFNekhoMUhlNTVBYjdod290MnVvbnFEQkFTUW8tcnF6QXdJZkJSQmMwdmgyZFpmVXVxQ3pldF9mSmZCaGJTSHB4bUMxZ1NDdmpOLVZlajdYclVEOGpXUXVrX2tMM3RhMkRNVnR2ZU5Xc2xBb3dOckJLNUFFZl9Wal9iVW5JalAtNi1MbUJ2SG5SUHR0SjcweFBlQ3lnQ3BUU0lHel9KQUhlNnVnM0tPcnNZMWlrWXJVcU02LXhGbThfVm9YbWQyVHhVWDNYTW9mWG8xV0JyM1l5a1pOWENYM0o3Y0hOZVQ1M0Zlc2dsSm4walNHTWxGN2dHWW85S21MR2FPTmNPOW5rR082akxNTDQtbl9JcnRCVXlkWS1udWc4Nzhwc05UQmhhdjNzclZ3Ynp2R20zUi1QWXN1VnR2UzFzbnRGcklBQldBeXRZNFRXVVlZWThud0Y1UDctcXNNNU1yM1djYWUwYW1pVDNST3BaM0hfRjk2M1ZkOHViTlFYNHR0UjVlNkt5bWlUc29jb0FQQkttNW4wbDh6NTlDc1RVSlZFUVlxbG5QXzI4bVJSX1BnWG1kbkZaRDZGd0Q1b1I4NmtSdkVCNjB5YUphT01jaU1NMnZ3VlBsSUR4a2l6LXU3X19UQS12S0ktc2daWUtMTUFUWFFIUGVYcTVCUC00NWppcWRkVlNNYll3UmpFSmN2RUg3VEEyVWxkb3N5TTZwNHZlRThDQTBFNEhQ?oc=5",
-        "source": "إندبندنت عربية",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 21:13:59 GMT",
-        "discovered": "2026-10-08T09:21:09.331861+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "وزير الدفاع اليمني: القوات الحكومية تسيطر بالكامل على جبهات الوازعية اندبندنت عربية",
-        "player": "",
-        "content_hash": "8a051f7e75e61a146afbf2b5e5f403a67d0b33b3a6a188786c265df39391a80f",
         "sent": 0,
         "section": "world_arabic"
       }
