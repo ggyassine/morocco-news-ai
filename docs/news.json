@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T07:02:40.523088+00:00",
+  "updated": "2026-10-09T07:23:31.753249+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -453,6 +453,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 10022,
+        "title": "رغم جاهزية الدبابة.. ما موقف يوسف النصيري من الكلاسيكو؟ - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxNX3FyRVZkekdvYzdTYUxRN25hbHlDc2RyTXRHREhXUDlXMnhFeExRLXVBUU9mMjZVZG1FalVVUUVzZGtiYXBjeUFKM0lkSGtDdHh6SFdZelozWFdrVXdCLUZRU1E2U2ZnbFExVWZaUUJRVWRnNzctRUItZ0ZyWmVRNktHOTRtVzBaaTg3QkhXS2hRMkJxcm1ZWEFNc2Y4dW1jTzZJb3FTaUcxZi1HdVlmY2ZsYllTd0x1UEJaZXdYTUJkRWo3YldLZkRfeTVfMy00Si11WkxRZXgwczdjZWdrbV81R3ZSa2g0NGtwSzFRY2hZSV92Q0ZZcVVDdDRRVU13MmNJUjRlVG1SVVNsTkF0X1FGbWplbTFfQmFPSW9IWGxwMW9nYWE1OWhaV3NHWVdqUk9sMjVvbzY2N21HOW1sTUVzT0JwWkQtT3dDOGFXOC1BS2VoTW1fRUlPb2ZYU2JGLUhaWEtPXzBoSDhlaTdhby1pYTJ4b0RzalVYLXBBWnd1ZkV1UEdTWXk4OHVXVEUtRkM5WDlYX0dtNDdtN3hOQWZGOE1sSTFVaGpEUE1ERXhPc0xyVFA3R2dCdDQ2bXZxa3J2NXluRWZSN01FT3pBVE43dWFvWkI4ZVctREx2ZzBxQjQ4QnBRNThhTTUxTHVtNXctNWxUZW0tQjdDSG50OFhBUERsQXB2NkJYRkRadExtZVB4LU9UQUdzcjAwdw?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 07:08:38 GMT",
+        "discovered": "2026-10-09T07:23:12.458378+00:00",
+        "category": "أخبار",
+        "status": "غير واضح",
+        "summary": "رغم جاهزية الدبابة.. ما موقف يوسف النصيري من الكلاسيكو؟",
+        "player": "يوسف النصيري",
+        "content_hash": "f64b7664d5b3d9b10c22d17c1c23b179fb712a2f877c59cff01caa60f8160ae7",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 10018,
         "title": "\"المنتخب المنبوذ\".. نصف قرن من العزلة لكرة القدم الإسرائيلية - الجزيرة نت",
@@ -1236,22 +1252,6 @@
         "content_hash": "c13915be89342c00095434fc0a870fd05bbb56590304fd04be5ae7963d963f98",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 9877,
-        "title": "«قمة لندن» توصي بعصر رياضي جديد تقوده البيانات والذكاء الاصطناعي - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiiAVBVV95cUxQcGZCLVZfVkE2dURQWk9ydkFQUzZKQWRaaUctbmZKcDZSNTNYVWVIOGlmU3E0UThCNVdlcU9rdWttOHBzYTB0MXYzZG50UzZPVXdXTGZhSlVidGRmM25IbVNVVzRGRDlveXoxdnFEc1Z4VG5nZGk4MnhaZW5vZ0VuZlFfcjhjM0YtNGNIeUNhRkhFZG5hRlE2elBfZDZfTmN2bTczMTh3empYQ3JNZVg0bVdvdURYT29ZeFQ5Y0NGS1VGdVRjY1F5LXBvSkxPTDhyWmdNVVhJell3bzhXeWlKU1d6aVdXT2toMUxJajF5MnNrSklKSnplS3hzWjdpWEFtd2V6cnJGOUJpVl9NQkVzejVTUnhGS0FfMHdJTGZFRkFiRDJTdnN1RGFCcFJSdGxTUlVTZkJTa19MNXdpY2JPUzdVMVBmZDVxd1dFcEdzWFpPV1JJb3dfbWI1a0phd29xOFhGUzV3emN0endUMkRuTG1UWnFqc2JKYjRYUmlqbkdJZzAyWXk2V19HNGt3S05pcXE3Nm5fQ2VvZ2hkR3poNkotOHBGY0V5NWtESkg3dXQzaDRoQW1tTEgzYTNHaG12blRnQVNRVjBETmhHZU9BSVlaS091ZWZOQ2NBT3BRTkhnam56eGljcG5xb0xTeFQ5aXJ2SFBMU2pXcFNrOW9WeXdzQXNfbDUyU1lQbmZuUDJQcFBjbDVCbFNMUWo4S2U2QmlYLXJnaFAwaFluMEdnSFRuOWdlMWhlc2p2TThzVC1aVi1Tb3g1U2cxT3QxbUczQ1I2enE4WDBWb2ZxV2tsM1ZOVXh1TEdIZWtlNk5qUm4xSU1wMXl2X0VGNVRXbEl2aklmRFppZ3I?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 18:12:16 GMT",
-        "discovered": "2026-10-08T18:29:07.862374+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "«قمة لندن» توصي بعصر رياضي جديد تقوده البيانات والذكاء الاصطناعي الشرق الأوسط",
-        "player": "رياض",
-        "content_hash": "c9b7037b6d0e27c5c09d10c9a38836946b24cb1903a1d3f3df7870791032333b",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1878,22 +1878,6 @@
         "content_hash": "fd00d762246979537cc1004a46d138e49ab8233b1e02599cca2a629fc82b618e",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 9601,
-        "title": "حين صنع العلم تفوق الغرب.. أين تأخر المسلمون؟ - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9rbGlRRXpWeGdPT1d4SUlOVnRxWDdfaDBhbm9lQ1cyWkxhdGNLSkhTRzNpTjdaOFlacmZ3b1FHdWhHZnR2ZUs0cw?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Wed, 07 Oct 2026 21:04:09 GMT",
-        "discovered": "2026-10-07T21:28:02.133783+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "حين صنع العلم تفوق الغرب.. أين تأخر المسلمون؟ - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
-        "player": "",
-        "content_hash": "9b3978c5c4bd49fa1f56d7252462d75b6cc5d1bdbb3863f84b18605afbfff69e",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -1942,6 +1926,22 @@
         "summary": "تنسيق سعودي - مصري لدعم أمن واستقرار المنطقة الشرق الأوسط",
         "player": "",
         "content_hash": "e0377db672fab69e7ef2c42aebe2be1dd248b595cb92d8d7a0baa081d76d7b61",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 10023,
+        "title": "ترمب: نجري محادثات بنّاءة مع إيران ولن نهاجمها قبل الانتخابات - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMinAVBVV95cUxPaXhOWlc4RkpOalNzbGQ0RlFfS2FUeGNlWTVXaDU2MGJKZkktSXZRalFONHl1WTE0U0c4a05lMFZJSGFVdXMyTWtBNEg4QzB4TGJLeUoyMks5U21jNUtWdDMza2xrb1ZvSXhFTU84QmhGOGlFeXlTbjFlV0xEQWZqOEd2Q08xU3pGV0YzM3ZZT2dMV000a1ByYmlVbmpKbDlNTTR3dTJlb0h6dkFCXzNGR0hsazlSdF82RkJUTEJYR0FFM2ZmWEc3WEt0OTFndHhIZDdMTy1ZUVVOelIzTm9ZZ2JTQk82TXJnY3RuOXJLdWdFUnBtVHBFTzlHV2JzSW1BOEdTOTJOOGk2dzZlZHRidlZ0MUJqOWVoeWxSU1JOZFBMVWJCSTBGUGk1am5MeWNwQlJNN0Eya3ZSMEhrSDBuU3VjR2hubkh1Tk1abFpUeHZocjBYeXcyNVdwWEd6SlZ5c2VadUM1OXY2N3JEMV9qT2xMNmpRZVplaWdKZmJKWjNTVl94U2hSOTFQSE1xWlIzMkE5UlhSZGNEc2lNQmsycFpYNThTcjRiNXpHYWpuVDN3VXFwdFFXcDNqX1VQT2tqYmRVOWViVUd6Q3k4bW5aQlkxSm1NcXNDRVJKRWF6NEZXaExFYlZjZWxQano0dFpVcVZRbERHYUFPa1Q2WXNrTHJIUkZyQVZleS04bW94dlk1LXJrVHpnUFB1MFQ2d0t0cjFPc05xa19pZUw0SnhTa0FiNDhyZks2ei1vVlJsTE1zcWhCWmlSTTdjSUJDeDBVSHFld2ZoczV1cXEzak02Q1pna2xTQTdBRjJhSm5tR1JZaVg3NGY5VFpPRWpXd2JJRGpPdkVFWWhQYjZaVGhnV1RsU0czYlBmZ0tyRA?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 17:14:45 GMT",
+        "discovered": "2026-10-09T07:23:26.499387+00:00",
+        "category": "الشرق الأوسط",
+        "status": "مفاوضات",
+        "summary": "ترمب: نجري محادثات بنّاءة مع إيران ولن نهاجمها قبل الانتخابات الشرق الأوسط",
+        "player": "",
+        "content_hash": "75301bd192331d5f1c0b639b1b0056cee5666a90bd9a999373a44d822ab4a845",
         "sent": 0,
         "section": "middle_east"
       },
