@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T02:45:31.137502+00:00",
+  "updated": "2026-10-09T02:59:42.723487+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -405,6 +405,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 9995,
+        "title": "أخبار و معلومات اللاعب Moez Saadaoui مدافع وفاق سطيف winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa0ppa0hIa0JjblFnNnJXaDJSMXZOVjlnZHhpLW9SY2NSUG8zWEFXUDU1SWQycmtrLU1PeFM0bmVuZUxJWW9pUUtOdVFtRFNtQ0xscVN3aVlDMnl0RGdpZ2JCRFVlek5sNW9Iczc5MWZYR0sxSXRoUWRzUjd5c0VWSTMwZThqMjF0ZDFqSjV6Q1ZhLXZwdkV0QnNUN01GUVVyS0pveldtNTZRbWswWGF3S2pnRVJZMGhZbnFhY0M0bTI?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 02:49:27 GMT",
+        "discovered": "2026-10-09T02:59:26.606227+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب Moez Saadaoui مدافع وفاق سطيف winwin winwin.com",
+        "player": "",
+        "content_hash": "2ae157735aadcc3b3d717047e629e8203619b42696abb0319b2b8fa748911c51",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9980,
         "title": "مباراة أرسنال و ليل - يلاكورة",
@@ -1186,22 +1202,6 @@
         "summary": "تعديلات جذرية.. الكشف عن النظام الجديد لدوري سوبر السلة يلاكورة",
         "player": "",
         "content_hash": "63ac9491b54eed3ae7cbf014ef49bd60edbeb62761191fbc6d3a6b89e3f29db2",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9870,
-        "title": "هدف وادي دجلة أمام الاتحاد السكندري - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxONEdPNmQ0T1JiMVhRajEwNW1GWjhfRHN0TllhOVdRdk0zLWJJX0huRDFHcGhycGxSLXU3MFhvUmZEckl2SWY1SV9ONUtzS2NYbDNxTjdSUUp2V2JTU2MtVEQxc1J4bWk0WV9xNmM1TjQ3R0NySG02VTlhU2MtZWdBemxvNTU3M3RjTTJacEtOMkV2a2ljeVBCQXZGbVNLR2V2RU9zZV9mcXpMT3VBOXdpUUNnbXFpdEpId1JDZUYtOTVtSlZINlZuaDV5YkZwYVhXRzdJTEVHRXY3QjZiLV9hTzJLZTN4R3p0My1FbzVjV3AxWHZwcDFzNkI5QUstYTAtemZxUVV3NkUtVGtWUDFGaE85NEN1d1AxZEVOcXR6aGVOSFJ4dlpjRU9SSXNBV1JqWjM1alhnNWx2RmN2VEh5bW1ueHVYUnVvTXZLN3BLYXpvMDB2dmkyTVdzcGlSdzNOeXBfeGQ0ZGY5Zw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 17:41:00 GMT",
-        "discovered": "2026-10-08T17:54:28.507076+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "هدف وادي دجلة أمام الاتحاد السكندري يلاكورة",
-        "player": "",
-        "content_hash": "3c110064b5c5ac40cf1a4173c525ce891176276069a58ef0453d652890b6b41a",
         "sent": 0,
         "section": "sports"
       }
@@ -2104,22 +2104,6 @@
         "content_hash": "66b698af4c82402b9fb1f2092a789f2d8b140c9757a99575a93edc18da804d7c",
         "sent": 0,
         "section": "middle_east"
-      },
-      {
-        "id": 9675,
-        "title": "التحالف: تدمير منصة إطلاق صواريخ استخدمت في اعتداء الرياض - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxOV0MtY1lzV0JrQkQzbTY2SGduY1FpYUJEeW4xb0dTS2VoZmlPeGl2T04xNjFSVmZtbjBwc2xXenBDbDNUckxmOEI3RmpXRmQzNjU2YV85aEl0a09jb01FVUg3NEx6WU45cWNkbGo2cW1fU1NKMmpNMzZpUURTX0trTm52bGlGZzZmek9QQXgzeDA2eEdjSVlXTkpwdDM0bC1WVl91SnZDVDB6ZVR5Y05wOHBrVS14S19pajlzUzNRU1ZZUXplaDk3MmJXV1MwNF9uM1pZS3h2SVhmWkt5Yy1TOTZjNDA5R2o4U0dfNG9maVBHLS1zbE0ycnVRMVlEZ3lyZy16bEp5V3ZqT0EwVzFMSlBjYnVNRW1DLVBVU015bnl5MUFuVkNTdlk5ZzFlREpqcTZnMlgwX205SkZKQVotbDFGU3h6SmtHaHNTTHVFZzQ0QzUzVnBnaUd2M3VmM3lXUy1TODItd0dEUUN0MTVwZ1ZTM0o5ME5TTk9kNVA4TXVtVUlCMktrZWlJNEFsTktGdWxzTE9UcDg2RnNTM19MSmVOYUdSTnlzcjVqWFdoYmN0RktrLU1SdnV1R2FvdjFpTFlXTDFYRkpuMEJxLWdGZzZ3MFBCcC1icGVMMDZxY3dUX0pIcnd3NzdRUEhYd21BT25WWWR0UXMxWmZMZEdNM21mNC05YVJHU18zeERqNE1ZZG0zUHRHNFF3NE1va1pqb2tJcjJPeDRzTmVwWW5JbmgxYzlFcW1DalU2NTR6dW9OZlA1N09Lc29Kckg4YW8zUm5PQ0thSVZyUDhKZF80?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Wed, 07 Oct 2026 18:25:18 GMT",
-        "discovered": "2026-10-08T03:09:35.595818+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "التحالف: تدمير منصة إطلاق صواريخ استخدمت في اعتداء الرياض الشرق الأوسط",
-        "player": "رياض",
-        "content_hash": "f601bce3eb403b121922ddc61ce74e15431a23f4c100e8415c1e5a099f41f44d",
-        "sent": 0,
-        "section": "middle_east"
       }
     ],
     "world_arabic": [
@@ -2296,6 +2280,22 @@
         "summary": "مصادر لـ\"القدس العربي\": الفصائل الفلسطينية تتوافق على تأجيل الانتخابات وقرار للقيادة الأسبوع المقبل القدس العربي",
         "player": "",
         "content_hash": "af1ed2822d29ba19ceb696c7a64f5f4f935f7a87ac867d43735ef7e574c4f00f",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 9996,
+        "title": "وزير التربية الفرنسي يعلن التحاق 3000 أستاذ بديل \"خلال الساعات المقبلة\" بمدارس تعاني أوضاعا صعبة - France 24",
+        "url": "https://news.google.com/rss/articles/CBMiwwRBVV95cUxNZlFyRjVGc1lNOURfTnl1NDRBMlRQSHZEOF83SmwwYnFrVDU5SnlXeVVYelJWc1NxWDJ0Zk43d3RtN3BJRTBxbUxiY1VZVGdGa1BuTjZoc0VtV0pfYzBrNU9LZExKUkJWYzlfMlV5S05HZVJPU1NFNHZ4ZFktRzI3a1JFOEZMU0hCTEFqT19YMGhMS0pPTVFwMVZRbGtVNDVHaGI0dW91dE5rWkxlNTZhcm1RbVZVRTMwNW5Bd2RudTAtN3dZQVo1NkcwQmtfV1VxcThsSm9uVWlNZ2F4QW9qMzVwbVNRNERBczF3V1lTTUFHaG1EY2Rjd1ltZnh4VDdfUmkxQS01MFNLX0x5Z1NyMVZnZTZ6Nml5WmF3OWZhRVdZeFItTHctWlBQNUlwdnI2TTdHQm1tUXVVRUtFQVd4eU44LWFITG1qXzRlSEFZbFNESWxWRm5wRkJ4Ym9pQS1JaE9PcFZMM25icTJZNjdQaTZWaHdBRTgwbjZUZTJXQ05iM1ByOTJsNXdiWFBVTW5mNXlzUndscTMtNUJSWk5zbWVOYU9KbWZtWV9pQUM4VXJmQ3FOdWFINE1wbmpKRnpOd2owSV9XcVpWc01TdFJSb3pLUUJmOW9PeUZ0STAxMFBhQkxSbTRoWGdUVTc3X0N6TkdXSDF4d2VNZ2hMSWxBMEl1S2JxVWY5N1RXTzRnaXpPUVRNOG1uRC1EcXdyeFhidDFrSF9XYjAxZUl4allabE5JYUNrS3otTVZMSWVqNWpkVjQ?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 08:50:22 GMT",
+        "discovered": "2026-10-09T02:59:38.518684+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "وزير التربية الفرنسي يعلن التحاق 3000 أستاذ بديل \"خلال الساعات المقبلة\" بمدارس تعاني أوضاعا صعبة France 24",
+        "player": "",
+        "content_hash": "1d197c220055dcbf0e3b67ce7d9cf09a3947748e3de8128c263200df536a9a1a",
         "sent": 0,
         "section": "world_arabic"
       },
