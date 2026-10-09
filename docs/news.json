@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T05:56:23.720996+00:00",
+  "updated": "2026-10-09T06:13:41.336044+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -437,6 +437,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 10012,
+        "title": "مسؤولو كرة القدم في أفريقيا يعلنون دعم إنفانتينو في انتخابات الفيفا - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPa3h6RHBEeWIzTnBuT0hLNjJjaHQ2V2xlZEdPeUhiMWd6d3lZTGJDTVpTaDE1dC1DMkdiQW5fUXo5VzJ5ajE0dmZFTHg0bzFsR1N1dU5kU01FM2RPRHJWam5US0ZuQzUtQUlpSEhKaHFybXVzNGdBRUJXTEk2b2NTNjA0QnVHTlFUdkZvLXcyaV9VaXJSZ05WcDM4RERQTnlfejI2Qy1Rb0NtX240b0pSajlYSUlnbjl5MGpOdG5BVFFQdVFBQ2xncllXemFGU2VGWERmbGs0cnpxVXpnN05fVkxvLTd0ZThvLXlpNXkxdGhNX2UwRVp2c0ItYXoxNkRTbWlEMUIxMVlrZFVpbzdjb05PNGJKeFAzN240U1NabFFvTHN3NmM1TnkyMXBxenY0ODg3c1ZvRGZHaG1GM1VjdGhSdEpjb0E?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 05:55:45 GMT",
+        "discovered": "2026-10-09T06:13:34.758242+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مسؤولو كرة القدم في أفريقيا يعلنون دعم إنفانتينو في انتخابات الفيفا القدس العربي",
+        "player": "",
+        "content_hash": "142432462ab8f45584658629fab2840ed584cc1c12c6c3dc6ef610d6f01521c2",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 9995,
         "title": "أخبار و معلومات اللاعب Moez Saadaoui مدافع وفاق سطيف winwin - winwin.com",
@@ -1218,22 +1234,6 @@
         "summary": "المغرب أم السنغال... اسم الفائز بلقب نهائي كأس أمم أفريقيا 2025 يُعرف خلال \"بضعة أيام\" France 24",
         "player": "",
         "content_hash": "9deb53d21f1ff088fa6f24527a97a90ee23887a3c7216816bcb639d6fbff3c9c",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9880,
-        "title": "بين مهارة الأجنحة وتنوع الإنهاء.. ماذا قدم هجوم الأهلي والزمالك في الدوري؟ (أرقام) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMihAVBVV95cUxPUmdILW5lYXpsVjhBYlB2dmtvby1tUTBoYTZRZ3NKZkFOMTRDWVFGOU5XVzNDSERwSllnaHVndFBCeGI1M1VBUjhnWlJCVXZ4N0ZveHlPb01jNHdTd1FwZlVJck5ZajloaFVzSWtvQUFKc0NTUTdDYmEyNnV5M3FvT0RlZzY5V21jRmV0dDB1VVZKazZWNG9hemdHeUljeTFOYTZVaU9VLXB1Z2xwMklsYmlsWDJYTWQ2cGNIQXNBZU1WQTItaXpYMWlTU3pmTlowamdpXzRfLVQ3U2FfazB5ZGtVbWFQQkpYYUZpeEEzRW43VVlHMmhNNTVzNFVzSVA2ZFMxQ09nNjk3NDRFemozOE1UQ25JaTcxOWZ2OHdEQm5ZODBhX1J4bm1meGhyVm82VGZhVkoxZ3FQNzlQcjRVMmFsMEwtc1JIM0UzcWpZb09iT0JFRmViWUl4TTVpRmkwSmJMWGE4TjAtSHN0VXNyakVJdGNwd1o5U0xqYkE4YTVFWUVvUkdqMlBHblA4VmtJMV9jd29uZXJwRUNmZndpRlk5dFJBOXBMbmdBUC1JandvcU9TNWJrRkJMUzVWQUFmVkVUSTZMTzEzem51MmF3dlBQdFNfT0E1NGhSZHEtZ0NHd0tHWHVyOVR4RXVyNU5NZEtNMUdXZUlhLXpxQnQ4aDZQVklXVVppU3VpcTJZeDdRa0JTY0g5VkNDR0VMNkpOaWFwWkpVR01vcTlTcmJ4djlHb3NWVm03SzNMdkN5b1F6eDJ0bzlPRXY5bkJvWW1ldWJBN2dnWkhCLXpVUFZ6Wml3Wm5JVFZNNm1oTndWQ0NBTTBPc05rS29IMzdRdEV0d0lKRdIBigVBVV95cUxPY0RxRS1SdHFUNXZSanRHNzdFQmJ6ck1nNHRuX0ZCckh4Sml1b05WdjNiME52ZTNlRzdFQlg1ZEk3OUlEeEtVU3ZoSWYwM2VaQzduRTdPcHVxSFlTUDNUMHFYVXV0bjhCSWdmNTBmVHpZMzUzTFN4UTBza3lPYndGcXZhcmo1WEpTblZTQ09YMmRUMlYyTzJjbjBzOVZlNWRUNFlYSEd3SmxNTTB2RmYyZTJtUUd3T2JieThXZXhxN0EzU2Q1b1J0YUtnejdEM3pUOG5YZ3p6eW5RdnRZd00wTzNIWjM4SkFtYnlxSTV2VURQcjNxVVp1NDdkWVo0TXdUY1hnajB0dkpWcm1DNG1CVGgyNEhxMHNyVzd5SWNZVXNCdE1QVV9xbnJHTE9keGN4ZkxrbExtcVotMlNDdFlLTzlCRGdqY2VGLTJORVJUWTg3LTk2QWpreGRNbzZEanBiR0dxQ0VLMkdOSGdHd2JkdExrVkVtQnQtSG9pZEJIcWNlUmtHUVUzUG1jODBTdE1OSUNUZmg5RWhkRzVkd1dWWERaaEdZcEY3Yms1a0pWOUxPYU5LOWwyU2h5eGFpMThIMEp5ZENHcFRBWFVmbXdtMEtjLS1jRlNma2JZSGUtSGJFeFYyZ3A0NTVZOFZvajQwZUFXQm1rRnQwbE1CM1hSc3ZhREQ5Yk9rMl95OTl0RzVQUmw0cnc5bktqdk83dDVjYk5TeVN1NlE5V2g4RGwtN0JJdm14OEdKV29sSDZ1NFFFR1JscmhFSXR1MkMtMmtpa3RzM3E0XzBGWUJmdjNDZWRzMjRzNFc4cEFqazZBZnhDdHlGZG93dTg0aFFnVERmc193ck9vT05Wdw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 18:04:00 GMT",
-        "discovered": "2026-10-08T18:29:09.845007+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بين مهارة الأجنحة وتنوع الإنهاء.. ماذا قدم هجوم الأهلي والزمالك في الدوري؟ (أرقام) يلاكورة",
-        "player": "",
-        "content_hash": "5dc37e37a1b258d2e75d7d421ee1e623635b7df6aa8be7dd56bace3a9c10805d",
         "sent": 0,
         "section": "sports"
       }
