@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T01:22:34.957475+00:00",
+  "updated": "2026-10-09T01:40:49.375333+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -514,6 +514,22 @@
         "summary": "جدول مباريات اليوم - 9 أكتوبر 2026 - بطولة كأس الكونفدرالية FilGoal",
         "player": "",
         "content_hash": "94767391c4184097d39ed1826b40b5a0d91f4918f9d09dc4574e43de5aacda5a",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 9986,
+        "title": "جدول مباريات اليوم - 9 أكتوبر 2026 - بطولة قطر 2022 - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTNVTm5oSXFOUnNoeFJCTGdWb0V4c21odWNJaUVDMzZCdlE4ZjVqMmtfRWc4OWY5OXBZc0RKcGw4YTJWcGJwT0ZraUNwZ3R2OW1aSFFqbUVGVEY0b1dUdnJTTjJiWEtFMDNiZVRRVTF0UlZYd2pTZk9UWUJGd1p6d1FuVHh2TDRPM3k1VDdCZjBoTm5YTVlSRWNGVkk1aV9nWXlhN21pckZ4VVZocTQ1eg?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 00:02:21 GMT",
+        "discovered": "2026-10-09T01:40:30.649575+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 9 أكتوبر 2026 - بطولة قطر 2022 FilGoal",
+        "player": "",
+        "content_hash": "9a29d6334d48b6bc6f32df912731a0fa5e2d26a12924c48d7894d88d96d966a8",
         "sent": 0,
         "section": "sports"
       },
@@ -1202,22 +1218,6 @@
         "summary": "هدف وادي دجلة أمام الاتحاد السكندري يلاكورة",
         "player": "",
         "content_hash": "3c110064b5c5ac40cf1a4173c525ce891176276069a58ef0453d652890b6b41a",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 9869,
-        "title": "أخبار و معلومات اللاعب Souleymane Sy لاعب نهضة بركان winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSlNzcnBySEZqSlZiOW81Yk1adG1pczlJX2R0NDFyLWhlX0ZFU29xajNYSEplcWt3Y203eDZISmJOdUJaUUdNQ253Sy1fcmN6MW1DeTQ1NTM1VnhzaEhHQzBGblYzLW0wWXJZQVFFNzV5cXRuOUMzaVg1UFFDYU9zWnBmNk5sQjA2dWhia2FUSkRDUUs0R0IxSzhTdzJfQS1manFNSWxVM014LW9zWUR0M2Nrc0tGeXFPSDlaZGRPSjE?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 17:40:36 GMT",
-        "discovered": "2026-10-08T17:54:27.659915+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب Souleymane Sy لاعب نهضة بركان winwin winwin.com",
-        "player": "",
-        "content_hash": "bafdff10f8bc1e6f2a85b37912eac96f49049272d3a2b7d1bde7794aac6aa19c",
         "sent": 0,
         "section": "sports"
       }
