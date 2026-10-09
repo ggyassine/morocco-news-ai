@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-09T10:25:42.609514+00:00",
+  "updated": "2026-10-09T10:44:06.848170+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 10056,
+        "title": "غواتيمالا تجدد دعمها لسيادة المغرب ووحدته الترابية - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HU3JWMm9jNzYzZk13WFN2ZGFoR3JXZEd4S0FYcWx4cFJTYzNrWTA2Z21aV1ZJS1hZS0w4VVVPYVFydXFKTk9hRw?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 10:34:16 GMT",
+        "discovered": "2026-10-09T10:43:43.712672+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "غواتيمالا تجدد دعمها لسيادة المغرب ووحدته الترابية Febrayer",
+        "player": "",
+        "content_hash": "1c8468e14c483d27c9b89d98834310ac68d46bf87c3879392480db3c7b3c1ecd",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 10014,
         "title": "الأسواق اليوم | ارتفاع الذهب وتراجع النفط والدولار يلتقط الأنفاس - العربي الجديد",
@@ -1830,38 +1846,6 @@
         "content_hash": "76981a431123ad6326c559bda9007b3a0ab3e3dc47dfc9d54cf5fac81ac3ca56",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 9685,
-        "title": "\"60 سنة من الفن التشكيلي بالمغرب\".. ستة عقود من الإبداع الفني في معرض بالدار البيضاء - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMijAVBVV95cUxQeGlSWWQ2ajhMbWZ6cUt2UDJVdjU5Z3RwM2tNLURuanZybXAxWTVUaVhoZS01OGtTNVpOTnRiZS1raWxZMVp0ZEZlQ1I0bVlBZDJhcEl3OGZYdFN4NWV5cXNYQ2xENnc3dFRzSGxMazRnOXB6Zy1kemF5RDB2R0FrWUVUSkkxX2s3SUp2LUlVdXAxakJod0s3U3BobTQxOVpvQjlMUmk1b2RGaThlU0tGeTB3VlU3VXdNMDM1RWcxOFpwUC1pVEpRY2l3UUlDdmp5ZFFoX1pKSERUSnV4OElFdzFrZ0dYMkVtMVFKU0NzMkd3VGZpcVFoOU5Sd09DU1F3YldCbU1PMmExc0NYSWh4Y1lDUm5rQ1phcUw1T2JsdWcwZHFJYkoxZmFvdjdXREFYa1lETVZuRmV4Y3YxNUlpYTNLYU5vTzJ0WGNpRVcwUzBtVUM2cFlIRmFSYjJMZ3hoSTllT0gteE55SmlRX1lKRS1MdXFLc2hfbjlxanUyR0ttZzljQ1pRbzhkOUNhQVRBbE12cjZ2bW1CMmtWdnhyRjNkMkpDaFdwNXEyZ2RFU0tIQWV6ZjQycGMxdVAxdXI5eEU0X2pkakRob1F6djQzNGhCbjEtS3h3enZ0NkxNUF9hZlhtdjlDeGNPbG95THBGSDB6TU1uVWVWLXd5anc5b1A1TV9ocEZWdG5uR2VIc1dKSDkzME50VWVnNmVyWVppclczN1RxRFg3eVNHdzdXWERuLXRyemlXTFFOV01QQ3pJOTY2UVZJSFE2MGNCU2xzSTVVUW5SbTRMOXFVeDVfb0M4RVdjWTRubXRDN3Z4MHVmOUVVSWx4YXhFU1lQRWNVQnFUUkVfSk05cTd0?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Wed, 07 Oct 2026 23:50:56 GMT",
-        "discovered": "2026-10-08T04:40:17.684097+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "\"60 سنة من الفن التشكيلي بالمغرب\".. ستة عقود من الإبداع الفني في معرض بالدار البيضاء | MapNews",
-        "player": "",
-        "content_hash": "ee92c1cbe2cffe586e0d16eee0040ccb6744f3e11f2dec922f26dbd6025bbfbf",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 9689,
-        "title": "معهد العالم العربي بباريس يحتفي بالتراث والإبداع المغربيين في معرض «تحيا العروس!» - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtQmpaRVVsaTF6b1FfTTRPcWxubzVTWUF2Nk42QlRPcHQtRDhBR2h6TWRYRFVVelBDTlo0ZmszM2lxaEVSNjRoandBMTNyNkpHc0FhT1ZYSFRqSFRXeVZpSmExX19MUQ?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Wed, 07 Oct 2026 23:03:51 GMT",
-        "discovered": "2026-10-08T05:11:48.581669+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "معهد العالم العربي بباريس يحتفي بالتراث والإبداع المغربيين في معرض «تحيا العروس!» Le 360 Arabe",
-        "player": "",
-        "content_hash": "16fb08af5dafc6486ea0261d2fbc7e864e226e1072f53894b2fbcf380f0afebe",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2136,6 +2120,22 @@
         "summary": "اليونان تتصدر وجهات شهر العسل الفاخرة في 2027 وإيطاليا وفرنسا ضمن أفضل 10 Euronews.com",
         "player": "",
         "content_hash": "40f65f0a94c4e8736ac7e6e777b1f1f8c74b4e1ea2e87db6ccde3dfe75eba7de",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 10058,
+        "title": "بعد اتفاق الفصائل ... قرار مرتقب بتأجيل الانتخابات التشريعية الفلسطينية - اندبندنت عربية",
+        "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxObG1HMXhzNWRpWXUzVWFScGRnM1ZRbFZaRUhfMVRMRm14NVhacEFCS0FQOUw2TC03RThUa19RbXpsYnJoVjZnSEllcHVoX093SjMtaE9uWml2c0QtTHRKUmlKQ29LSmdJNUdwZXNLN1lTMFNmQ2hnZDJHOHlUYWxPeExMNnZmLVdIMFFMMXVwQzFsOElOM1hnRXM5S1lfU0pkc0dESHl6THlqY1h1ZjdWUjZ3cktBNXRQaXlBa05JcDV4OUNrNnBSLW1oQTdKXzVFQXZCQi1VUDJuU0hBLXJzSkhnOXZndVdKTVJIYmQ5b0F6QkNmWS1rdHR2VHZUVlpPQVByZHVWcmxCUGxRakRKeWwtMUZ1ZXZkYUhwVkJub1hSLTJFeUU3ckc1ZVp2SjIyY1BYcFY2eVpPUGZob253QTJWQlVrZlUxa0RaODhoT3B1bDFnd1huSDJPbmM5Wk8tRmRobnlOZ21lUjBScVo1U3pPSVhCemJ4cXJFQTc1NTI4VUI0TFU4U1FabEs3RmQydjloWHExd2FYR3kwMEJ4d1BNdjNRTDBSLWU1aWFYSzVoVFFRNjhVME1CMTN3bGE3UE9xMVhreWtCaFhkeEZoMGtQWkZ6TU1xWkNzQ0NUWWpjUkcwellJS0VUOW9oR0ZQRk1CdmJHOGdYMnZYWWNPZXh1U1dPdXFXdWZXbXJTWGpYcUs2R2wtaS1xckszS29GMVhLVl9BRFI2cVBOb2Vhc0JpTGRjYWZpSFNqSmNkVGxjSVNBY2tpeG5QWjBudllib2sxVW9leGdMSmFEZDdQX1lqMmItWFd4TmJZc1JfNEdXLXdpSEQ5ZlgyQjJQY2d1ZHFxa2Zob1ZMSUdIYzkxVVBiSURIWjg?oc=5",
+        "source": "إندبندنت عربية",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 06:31:32 GMT",
+        "discovered": "2026-10-09T10:44:05.702656+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "بعد اتفاق الفصائل ... قرار مرتقب بتأجيل الانتخابات التشريعية الفلسطينية اندبندنت عربية",
+        "player": "",
+        "content_hash": "c657e561f16a8d7dc21571310c18a636f29f8a2951133a09cdebb132f5f0dc29",
         "sent": 0,
         "section": "world_arabic"
       },
