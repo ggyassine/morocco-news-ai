@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T23:27:50.857198+00:00",
+  "updated": "2026-10-09T23:43:54.718156+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -594,22 +594,6 @@
         "content_hash": "d25471043194c03ed31137ade281f296a2b3dfcb6a901dfa77710b0e03f274a2",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 9897,
-        "title": "تسعيرة الرحلات والغازوال والتغطية الصحية.. مطالب سائقي سيارات الأجرة بالدار البيضاء تخرج إلى العلن - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nOENJNFJTWUpZamRGX0FuMFE5bGZ4RXZjOEpfQUEtZzFmWG5Oam9pRXNxTlNPOHBIUWVsU055aHhGNGNnSWNjMzljd1JZeVd0SXdGZkEzc25aYzdnWXZEbjBXMXB2RkU?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 12:51:27 GMT",
-        "discovered": "2026-10-08T19:05:38.470056+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "تسعيرة الرحلات والغازوال والتغطية الصحية.. مطالب سائقي سيارات الأجرة بالدار البيضاء تخرج إلى العلن Le 360 Arabe",
-        "player": "",
-        "content_hash": "4bc867785819253e8f30a7a0751e287214e82298b305cff440f3943a8347218f",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -770,6 +754,22 @@
         "summary": "شيلفي لاعب الدرعية: ثلاثية النصر لا تعكس حقيقة المباراة الشرق الأوسط",
         "player": "",
         "content_hash": "614d8b5a59098a96f06dddd784797847da15e31c15582973347ea62b79ef0995",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10273,
+        "title": "منتخب البرتغال يلطف الأجواء مع رونالدو ويحتفي بهدفه مع النصر - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxNT3d2ZTNCUl83UlIwNGdZRmlqWmF6bmstVzFYZ0c1cFFHSU5wWVltcExtVXdrY0dfd0J2TkMyeFlhZjc2Mlh1aXM0eWZQNHQtX01XMUJpQzlabk9aSGhpYlBMZmsyN0wwMGJmblpVdkNJUG1RMlZGcmcxZXNxeV9SbW43Y2FXSUsxd29lcThDdVh1dEdBNm04M2xsRUNTQzd3ekRFOTNEMUVzQXdsdXZhM1R5RzhHOVFKTDl3ZnFZUERFX0ZZeWNsd3Z2VDNGT3FzZE1lVlpfSElJcHpnOGtCWGl1SURXaDI1LXBHck5GT1Q3MjFYb2VGQ1o2SVlLZUIzM25nTFFaR1VFcDBiX2NtX1o4M1BrcnR4YVZrVFcwcU13QVBQMDdNLUtOUE5UVmZ4LUExWGVPZ2VkTHBHSFg1WFpLdWVxWlpiTmpwVUFQUnYySkFqUEg1dzFiX2dEYUJ1bTN2Y1U0Wnp4dG0wSThnaUtmaGtWQVJYbktCTkFYem05RGlzcGpfRnBMRDcyVno5TUJQZXVnSUFsb18tc3FjSWlRQzU0WndiSVQyd0JRQnJNV2cyNGVDcTZJcG1sb1l5YUN0dUxUM1FkTVVLc2Jic3lrSUFTcF94ZGFIdVk3ZnBzTHJsN25JOXY5TUFBYVNpaDRGMnFPUXY3aDJDaEIw?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 22:29:19 GMT",
+        "discovered": "2026-10-09T23:43:02.755580+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "منتخب البرتغال يلطف الأجواء مع رونالدو ويحتفي بهدفه مع النصر الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "177d85daac27d00f798484ab295ed013b6d6399b0bf30e3f99485cf6868924fc",
         "sent": 0,
         "section": "sports"
       },
@@ -1042,6 +1042,22 @@
         "summary": "أخبار و معلومات اللاعب يانيس لاغا مهاجم شبيبة القبائل winwin winwin.com",
         "player": "",
         "content_hash": "cd8a752be5793fc697a0739a434d901124c400704e6231ca4011ca277a54e60c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10274,
+        "title": "غياب ياسر إبراهيم وأفضل لاعب في \"شمال إفريقيا\" عن قمة الأهلي والزمالك - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNczBZb1BGXzVXUUpXS3pKWFRrVXpnMmxYOEI3T2F2N2lGUVNvZ1ZmbzFaNHllZnlFOTY0Z2k4eTF3dHA4U2c3OS05eVZndGlhZFh5MFc1X2N3QlowMzBwT3U4UFdEbWE3bHpjSTFnNVdmSGlGeG5Wa3Fua1plSk53RjRGMkplTEFpVkJ5dTF5U1FkWElDVVU3ejZlc0NRbEFaUkRUdUd3ajQ3REVxaVhRM3RQNFU2QXlIeEg1LTZGNTQ5ZUJkU1JNLUdzZldBU2xpeXNBeTB1TlNpZFBTbE1YTFRwVHAyMHVrdFNka1oybm42aTRWZEdfTUE4MHFLX2NsUkFIUlpMMXY0Q0ZxZXNBbGRjZWJQMGFZelJyZEZvVEQ3R3VndkJRb1djTUtmbXlwcFV4bHE2cWNQNElSYzFIRWJSUGdkUEZGVjNka05mS3ZHdTdBTHNvZzJIYUVEMlVkSkhfWDlhWm45OGRfMW11bEg5cw?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 20:37:18 GMT",
+        "discovered": "2026-10-09T23:43:02.773242+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "غياب ياسر إبراهيم وأفضل لاعب في \"شمال إفريقيا\" عن قمة الأهلي والزمالك الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "971c39e5b0449615838568e84c615d1d12722769d0be6d0a041cfa0cb120dbbc",
         "sent": 0,
         "section": "sports"
       },
@@ -1380,41 +1396,25 @@
         "content_hash": "98488107a2bc789ce1c9d8ffadb7ab251266d41b56cfbe6c16bba33ebb10ed2f",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 10163,
-        "title": "فيديوهات | أهداف فوز أهلي جدة على الفتح 4-0 (الدوري السعودي) - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQOVhmZDBmdUt3al9ReHk2QTdIczIwMHJBN2NLbEo4UGpSMWdueG1vaEZocXgxTlVRZ1daUkdUMFQ5Q0JYR1pHeVFXcU45cGR4SHNTYlpqcHJLNnlTWGwzNXZNNEFDOGxxNjB1R1hJOTlNXzc2WTRJRTFQMHgzbWx2WEd1cVFGQzhjNlhfTlUwSUszc25NUS1GOEFHaUE5a0l0aGRITHdDYl84UlJqQllaVFZDWldvUWNNSVdpYWdNQkF2dzRPaW0tUDZUZU1hN2tzY1VEd3VEc0VzR0pwU0pnc1c2eU1pNFZFd3lFVDVWaVJubHJZaVZ1TVZtME1oUVQxS0hvS2piM3lrMmI5MVF3MnFKUHlRSUhiUnZmQml4VGVZUm9XeEFobHlaU1pRTDR6ZGNBUDRIVXhLb1hmS090OEh0b1lHZFE0NllTT0Fqb1o5dDhfR0hoMzNSdjJjaTZZU0wxQjJ2TDVBaHYxei1mVGI3dUs2djNZVVNFYg?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 18:27:00 GMT",
-        "discovered": "2026-10-09T18:38:37.263674+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديوهات | أهداف فوز أهلي جدة على الفتح 4-0 (الدوري السعودي) FilGoal",
-        "player": "",
-        "content_hash": "dfea271d1c0538788d90d3c764c362de960d04a3eead4116607d9694eadb1023",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10162,
-        "title": "إنجاز قاري واستبعادات غامضة.. كيف يجهز منتخب الناشئين أوراقه لكأس العالم؟ - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxNclBQbUFvaHViVkRucWNPaE9wV3V0WU5wSHRPV28zMGdmWktvUzN1U1BNWV9EWnBSX3N2NjVxbExsa0xleEFjak1kNmJNREVWUnVIWkotV1JWVEI2a1dyNXp2Z3gwd243UExwUjd0Y1l3bmpvTFc5bzg5S1VoQ0F1UGFwZmpSOTBlR1QyUnJOMm1KUEpiYlF6RDNTTmNvellmNEtIYmlxa0N1UUxqejNhZjU5ZkhwRWVwQXNKSnc1WVdXdWxVZDZBdk5BelFkYl9XV2tTeEtTOU1kSWM2bGxjM0dSTHBYcF9tRWgwYllOR24wbW5WQUE5aENhQUFRUUkzSnI0S1dfMDlzaEd6SUtfNnFlclFDY1hmblVsTmhfS2JUNkR3VlVZQ2dpZTQxT1RmdlVQLTJxaF9ZWlE3NldkNmhmLVliVFlVUXNIbmQtRURwaUZONExBSFh4cTBydmZnX3NTUko2WFMtR0VGTm53RkllV0pUZjZKa3AyamMwRFhTa3QyZHQyakxEaVZLbVMzUWJJdDhXRVJDdm1YRjdsc3l3eXJiTWFaV09oWEhYSjdWbHlVb0lEclFTc3hQNlhidTljTGNXTWtkYnJ2aVdqWHZkTkh1MldVeXNkSnZicG5HalgxQ1pBYlhsQWIxZHZfdWxfWXlVS3lDSE01UE4zWjZrM1pwLWY4QWtoUGk1djJvMHR3WHVxOEZlamgyd3puZkFGQ25keGxDaUVzN05Od3JsY2RGY3dnTGFRaVVfWdIBxARBVV95cUxQWmNUVWhHNVJ2UkZVLXNkcE0zVEdrSzdHaF8yYlNySUQ5Q1JjYVBxTFEwMGstNWhlZzhJMm1ScmJkcXhLOVp5RnNTTlBXcjNoX0diMW13RkhQMnF4S2UxSk93LXBjS1gwU1JTQURLVW5pMjhmemJTZmZGemlUdFd4eERnUnJ2clFseElleFZjZnJ2RDFRa0VzYVhjWDBjRUhrY0RGaU9ZTTNlTnJIM05Qa1BIbDBSTFZSOUhwMFZIWDRRQmNSLXV1ZWtiLURFNHZNUzFxMFp3S2VyVW55UC1YekxzaFhTRmRWdnFvR1pabUNhaW1JZWpTQVBCVHYzZWdJcGVlV1FaUDhVaG5CS1BTZ2Fma0p6SkY2eUFWSVhTLTNuUDFVeC02YWlKWmZLTmJhaFhiWjVqSDVjbHdkRTg3YlVvT3BIQ3o5c1RqVnBESzNIMEZSTWdKbFBON3QtbFBRR1JlNWhKRWU5djM1X1VLa1NubDFkdGRsX1FsM1UzaGxpZEFQWkY2UjV3eTJyeDNELUdGYWpuY09LLWZHNFo1bGxHVHJxeXJwT2N3UE1xYkRZZjhZNkhldlRVbGZ4b1RFRVpHMVpWTi05VEd1WENid0Q1MVMtb29QaC1obUxMcEI2RU9RZDBDNUMtTWR5eHBHaEgxMWk1S18wNjJuUUVIV3pqQWVjSVJKelBrd2xLRG1oM2FmSWo1S0tHRERMZW5RMUE1dDBpazliQjJ1QUhOYzl4NkdIWkl0NURQc3VWRHRzRnE3?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 18:27:00 GMT",
-        "discovered": "2026-10-09T18:38:37.257649+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "إنجاز قاري واستبعادات غامضة.. كيف يجهز منتخب الناشئين أوراقه لكأس العالم؟",
-        "player": "",
-        "content_hash": "98488107a2bc789ce1c9d8ffadb7ab251266d41b56cfbe6c16bba33ebb10ed2f",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 10275,
+        "title": "قنبلة موقوتة.. شرط صارم قد يدفع مبابي لمغادرة ريال مدريد مبكراً - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOeFlrZ2hQbjkzTHo2WW44NlNPTV9MOVNiUmZ4MmIzNW1ZcDNyU2FManktYlo2VDNZLWlWLTFveTBMLTQ1cnRNWjdpYlFBSEFGN0tQWUVObXdTdDJkMjYtU3Z1TERtRVVrdlhITmVhUGRvci1KSTFMYWFhTUpKbFg5NkNISlpyMEtxaElkSHp1RTRYYTdfUkRnRlVRNEpLUUhJSUZpMXhkUFNicTNnYjNuclN2czBqdGtpRTlYYm9vNlJPU0VFU01OZUNnQTFDM2xuNC1mVXk0WmxkZ3VVbGxpa3BJVEd0LU9zWXFpaUUteHpBSzBRRmtvNDJ2Wnh1MkpOUmROMnNhVDU3TTJaeFlrWEJFTXRRTWNoWng0T1c2ZzZvOGFwLVpYMm9NcHlCbm1BZndRN0xqNF9YTUNoc1ZsTmtUQzVBdDY2TVY1WWNaQnZjVlB3M0t1elZJX3VhdXRlLXpEZFhmd2EwdVhYNXM2Ql96eUFpNERzbnFuZU5mNFdUdHloWWpUb2d2Vy1VMHppUWl4ZFFnVWFkT2xtRk9BcEw1N2lBWU9ZNnMwUEMxLXdBX2dMak5NNDYzMUdQOWstSC1DNFBWQ20yU3RLMDhJ?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 20:57:32 GMT",
+        "discovered": "2026-10-09T23:43:02.775651+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "قنبلة موقوتة.. شرط صارم قد يدفع مبابي لمغادرة ريال مدريد مبكراً الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "0df1acccd1ed45f158165c9552b04b034ae52ae20caf55666f1b6719c0c1e39a",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 10192,
         "title": "رسميًا: برشلونة يربط لاعبه بعقد جديد حتى 2030 - Kooora",
@@ -1432,6 +1432,22 @@
         "section": "transfers"
       },
       {
+        "id": 10278,
+        "title": "عماد النحاس فك العقدة.. الوحدات يحقق أول انتصاراته في الدوري الأردني - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxNRjk4aTNhLVp5REdCNmhRTGxPVExxdUdTSmJqYTA1QlFzam00LUhvUUIzbXhJV0ZxZTEyZTU2OWIxRVZmNXp0bU5pNFY1R1FXRUtaRWFnYXVFTGxSZGQ3cHdWYXFlMnd2Wi01LUo2UkdQN0lBNnp1Y0t3WVlWMHU1RTJhclZFS1N3LTFNemh5MWw4dU80NU5vSF90VnRVR1NjZlRVSEhESmdRTTlMYTVBRUlLaHVRdGNuT2plVXZfQ0VOdUNRUWw5TkNqNWx4Q3A5MTFJa2xSaFo0dDRtVWhRY01OMldIUjNuSlZPTV83Vnh2RW9KXzhDZlh1S0V2eUhzYUNMUVZCbnAtMDc0akY0U2JzVnNrZ1pkQjVKNXpnWXVEWUVRVXZzR3RESFh3TWVQSGFadkFENVF6Z0RNeHB6NEZYeXp3VDFQaG14MUxtaVNiaTdVdWpFQThJM3JDNDZ2emFaMC1OOXZNTjNZeFg5TEJfY2l5elNQNHI1RWdINW1EMjNvRWNZZFA2UFNkR2RjVkZXS2FFbkxqX1FXdkhnSnNWNWY3ektjek5Uc2pnVzgyVzBEd3piMHozSG1PUUMyUW9YT2c4QURiU3RpT3dCZzluQzVLdi1xWjIxcDA1cFRuZUxOU21RM1Y5b1VLb0w1c0NqZnpaM044RklCamR3UDVBSER3ZFZFR2xQM1RKbV9zOFVNN2liTy1Qa24ydGPSAaQEQVVfeXFMTTdyTmZLWmJJaVpULW1WNWUtakYyVUgyQWIwa2xQMXFPdkZ3LVRtWGd6Nmd0bDJVa2JrTW8xazRTQ2FqZHNJZzBEWHA2Vk0xajluMzNUcXY5LXM1YXpOaWRvRVZETk1ZcWFhUzM2bWNORWEyS1JncVpOV2FqWjJraWhEWEF3Tk5PUDhod05PX3lTMEdxeDI5SU5ncVBwZmxaeVhBNUtTbmVWT24yaVRqMTVMOWxLNmFOTFc5N0VMMXg3QzZrV2R0bUZIZi12b05jN0ozVUV0ZDBHWWxxZDZEUmQ5R3k2Z2htVTVrRGVtTmVER2NfT2tJOFprMWU5RlZwNlpvQkcwaVpXX0pCRGNWOGdySW5mY1EzNkI4UDdLUWZqR1Y3cGN1MjdXUU43OFA4V2ppSjVfanVkMXVkU0JINkhDVFpVeW91U0xJcXZPN1dHQmdlRGFfWG5pSElkdjJNVUE2aUFYTThIaVN6U2o4bnpqQmJnbDhkNUVqc2I4aEpjR3RwYXBfUzkxejk1ODgweTlrSHYzU1FabHVSTFE0aGlqN3NnaEJkMUFyOVB1NmItMUQ0M1l6RGhnQnZuWUgxVUI3LTI1andzRk1pUkpVd1RKSEpxaklhaktMc3BIZk9LdG9YYkdGTXZYVWhRay1ud3ZwdkhVcER4eTlrdm80eHFCd1BrV3FDb2dzZV9NdHhZeFk3SlljTnl2a2hTdmFpTTBGcTg?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 20:20:00 GMT",
+        "discovered": "2026-10-09T23:43:12.274327+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "عماد النحاس فك العقدة.. الوحدات يحقق أول انتصاراته في الدوري الأردني FilGoal",
+        "player": "",
+        "content_hash": "69c099df0d2d812739ac7f5b2a1399186e5575990ed3a579fa6ade1530448cc7",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 10169,
         "title": "التشكيل المتوقع لبايرن ميونخ.. ما موقف الصيباري؟ - Kooora",
         "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNMzdCVm9qUVczc0ZpQmotcjN6QjlJU0tRdW8wX19pamFsd0tUVW5QS1dGcEc5TlRoTy1ZbnlmSmxPck9WbXlvUnRWblVQNjhwNTJGN1VENHBtc3ZoeXhqckotYTY5YzFoZzZMQXhyUUFVNTFJYm1MWDdjWlZ4MEN5dDhITGJPVE1sVUI1eGg2SW1EZmVSWF9peWhvcU50QmtkRGJxTlZRaHhPeXlJTnA5ZlhXRmpvRllTSTkzWkN6UVQxQWhzeF9BNG54bnVXRFVRUTBBNlhDNEJzZG5HVmViLVItcGlPdWJ0SEFtNkNMZlV0eVNadld5d09WZkFWNlpPN3lTbGpmSURRd01nRGpvY0psUFl1RmkzSzZjNHEtOFpvaHc1WE9LWTQwb1c2SXBYVzB2dkxFNFRaaGVhLXhqVW5sdVJDLVowNm9VeHMtQzJicElKV2NfbUlEeDZjNDVfdWtlNDNNNmx1X1ZPamY5X3dxRXROVEw5SnNieTRLSExCOUlFQzc4Q1FFWkpMWFFlWl9QbnkzNU5yeUNRWTFPaDBISmlMWXBZOU1ndkhSZ1RvSTg2WUl4dExVdENUbkx5NHR6OGVmZWFNd0xnTElKcExPYkRJaHFGb2w2QWsyNXZWb1ZuR1VYNTg2Rl8xelJkVDAw?oc=5",
@@ -1444,6 +1460,22 @@
         "summary": "التشكيل المتوقع لبايرن ميونخ.. ما موقف الصيباري؟",
         "player": "الصيباري",
         "content_hash": "1a3d064e4099ee985f215576539a72347b899ab079aa3b7062ae734daf2310d6",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 10272,
+        "title": "شارلوروا يمدد عقد الشبل المغربي خاليفي - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRWGZFTkhYMWw0RUp6ak5TaU5kNkQ3M0JwSmN6T2JMRDlaVE9URlAxYzBPdGNCajdXajk5N3R5RHVpdlVDN255TnFXQWlXMk5GWTlCWg?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 17:24:54 GMT",
+        "discovered": "2026-10-09T23:42:53.074156+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "شارلوروا يمدد عقد الشبل المغربي خاليفي جريدة المنتخب",
+        "player": "",
+        "content_hash": "4edcc7230538a64d8cca98a0b6f49fc1b87a92d3e5f8b19882e7747a7ad38d56",
         "sent": 0,
         "section": "transfers"
       },
@@ -1894,22 +1926,6 @@
         "content_hash": "f6eb5756b3ab7bfd45e5dff1c124726d40fa112e8476d37bb34c3dc4ce600f6b",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 9802,
-        "title": "وجهة مخفية في جورجيا.. لماذا وضعتها أمريكا على القائمة الحمراء؟ | CNN Arabic | CNN - CNN Arabic",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSjF3OThIQ3ZyV0lXTVF5MWdUbm8wcC1hWnpLald0cEhtZFNCbUhwN2Y0ZldicW9qWjIyOUpIUm4tOXNuYloxMmRMOXByTHJ5eG1XcVlQdkZnSzZlSjRuazVORzAzX2c0MHBLQWZWQU52UENKQVo3blVtRHJWOUJYZFd3ajJPOHlJT0lRdzk5eTY?oc=5",
-        "source": "CNN بالعربية",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 12:56:19 GMT",
-        "discovered": "2026-10-08T13:48:42.258245+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "وجهة مخفية في جورجيا.. لماذا وضعتها أمريكا على القائمة الحمراء؟ | CNN Arabic | CNN CNN Arabic",
-        "player": "",
-        "content_hash": "d926c277598aa48498bae61a16628411b71277189fa8e8637d780e0457bee189",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2136,38 +2152,6 @@
         "content_hash": "ffa027e92ddaa6175dc84014299e2ff651004e20da04645203102f1d63e54b1c",
         "sent": 0,
         "section": "middle_east"
-      },
-      {
-        "id": 9791,
-        "title": "اللبنانية هُغيت كالان في معرض أميركي لتجربة جرّدت الجسد من واقعيته - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxNLWFuQmI1bXVBWU9iV1hac01jNl96Wnl2ZU0yaThyNjVsQ3hNQmJoUnFjQjByTjJSc2dPUVVfVzVsMV9xSENGVW51VWNrWHNhc3NnU3NiZkxXVWNyekJhNHptR0ltM1dmNzdjeEhYYUVCQXhsOENfdVBqbWp1ZlN6cl9tMVlJak5ONlZMQVNQUFpmWEtUQVhYUmFBbk5Qb3NRaFRrdmtSQ0RLcUoySnFXYkI5WVpWdWFyQm1UNHEyRWJBSHNGUmoyZFlnTS1JTXV3OEFMamowT0Z4dlBCcEc1N3pMSzhBcmxvSkhCWEVQR0l1bE91OXRSSDZLU3d6ZHRyWlRZeUtVUERqMmY1OFZwY2MxdUh2TmYzM2EtM2Y4R3NwNmlEQnA0OUFpak1lOEY2cVlfeDN4RkhqZ2Nzci12MXE0UHN5d3hpRVIzQ3lxdDk1enc4dXV4aG1yOEx5aHBkdGQtWnNpRmxFUG1SaVZad2hZb0ZJV2JXWlNNM3JBQlNsb0dEa1psSGFPcUZsYkhaWlZDM0ttNU52U19saGlVNkJrbU1aVEdDby1Eejk2RndrVlpYdXB3MlVCZ2JrNmtLU21NNVBmNkVRZy1DWlRUdjV3dlN5VnFqZDB1b2VjajNDeVJCanpHcTdhT1RIekdoYzBIdmlVZGk1bDBSRER3V0hRVFVkZkNqaDR2eWVDdjVObk1HQ29r?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 12:46:43 GMT",
-        "discovered": "2026-10-08T13:05:39.411021+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "اللبنانية هُغيت كالان في معرض أميركي لتجربة جرّدت الجسد من واقعيته العربي الجديد",
-        "player": "",
-        "content_hash": "0499a580f7f893d74e42a83b343942e35268a2b4a52aba09dde4b5404c8e89c6",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 10143,
-        "title": "التحالف يعترض 3 صواريخ باليستية حوثية باتجاه الرياض وخميس مشيط - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiggVBVV95cUxQbGNSVHF6bHk5eTYwOWJsTmxiTkVHX3V6R3hMeVluMFdkMWtDRWh2YXlJUDFral9hNGduekRyS3VVRHpYU0VpX3dGTGZrZEZtWkl2YmlLZEhaeHJHWnplNGZtTThFWnB3WUh0WVVGVjFVVEF3U0dNOFhnVDNoSzgwSjUwV2pSMk9hdXYwOUpDSHpUdmlXZDFaRHUwZHBxdjNOSTJmVzBOUVdRcXFMemFaWnI5VTNrMjR2NmxJRlNmTmlUNHR0SERsUnN3bW80dDlpU2FReXhsRkFCY2QtNUNBdHZvSG5uWlBEUWJEZEtwRHJHd2VPVU1Ebnl5dnNaOF9nQzl4dHg4Q0toQXRHYUcwaDhXTzVWX1lWRjZ5aUdTVm51MGVuc0lvSTlhMWt4bGlpeVlEYmZLaDN6djFOVHNRdG4td01JQm1rdGdBT3VmOHdwMTNjdjhqZ1RRTHNncFpuZlU5UnNjZVUxUDlLLWFLSXNJN1k5NkprTGh4MmU4N3ZfdWxFUkxrYThIbHhWaEt0WUhtRm15ZzM5NGIwQ0hJd1lMemd5bDNXNEx2Z0E0dnE2ZDNMdzFUWVVYLWw0UDQzNzFub3RzaTF1VW9US2Rud0JzZ2JtMUp3cXotc0NRRzdaVXNYbFcwaUJQZnJYMk5NWDZJeTN2U3oyZEJRVUtlQTR4WnBIQUZRWVVVRmNLX3Yyd1pOR084eHZmTmU1Yndac1dHSWxmVmNpbWZVcGZBdFBfWjNsaHdFUzRkS0loaVJFUGtLYnpMMTZJb1FqYUxmaDQyYzVsd0xJTm5fQ3BuRUZ3S21xb3BNYnZlM08ySVBrd0ZVTFpjbHgzTG1TR0pYZVE?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 12:46:14 GMT",
-        "discovered": "2026-10-09T17:27:15.770541+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "التحالف يعترض 3 صواريخ باليستية حوثية باتجاه الرياض وخميس مشيط الشرق الأوسط",
-        "player": "رياض",
-        "content_hash": "dd5a9ac7cc96d450b50c2e04d0d4d524682f65e9aefa5a6826ff485a32a0b9ed",
-        "sent": 0,
-        "section": "middle_east"
       }
     ],
     "world_arabic": [
@@ -2248,6 +2232,22 @@
         "summary": "بعد اتفاق الفصائل ... قرار مرتقب بتأجيل الانتخابات التشريعية الفلسطينية اندبندنت عربية",
         "player": "",
         "content_hash": "c657e561f16a8d7dc21571310c18a636f29f8a2951133a09cdebb132f5f0dc29",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 10279,
+        "title": "إسلام آباد تؤكد تواجد قواتها في الرياض ضمن التزامات \"حلف مكة\" - France 24",
+        "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxPb1JXUk5zMWhCRm5Ha3NXR21HSl9JVU1UVjRFUWJYS3NuUUgxQmxqUTdJanZ0MFZONTh6RDRlWkx2M0VNdlNFNTI2eTYxREtwRWVHQS1DNVpaT0djd1VlQVhvSDNCSDMwTXAwTjkzcFZpWHhMVVZncU53cjBkTkZoZVNZUk1vRjI5NGI1aF9pRVF4Z3NmNEUzMlY0eGxGRXQ1VXVPaGVJclNWQ0QzZVl5Z1R3ZnVVZ1NnSFd3QWJVUEdtZHhIZDMydkpBUEdwTmJ1WF9XbDlsR0FRRlFGREhYSnYta0xpdUR0R2JMTklQaVk0VnQzM245UHZaeEF1cUdLbnlTdkxpcjFidS1yQTVGUmp2dG9QemFzdkJTVXpSY0huczNCdHFudXdsNldkNVo0RkxZcUtnME12cENCODBFQm5OWFJyZ0NaVEFtQ3hXVEFuS1Q1VGRnUnIxWFhHWGhRTUFMRTBHNFh0d2hIZERRbFgzTkc4RFJ6NHRqZktuUjRldzV3c0RLTmVRZWc1Mmtla3gwZC1KOGg4STc0czEwTFd3aHVTbXZUYmQ0YTNtN0VWV0N5Z0l1QTd6bU5vMldWaTZRMkl0RDRuMnE0NlZnbHc3ajBhUHViWG5Od0tYZndleVF2QVZVVlpqdERra1VuSmhIVkRuNHhUUVZUelJkcl9pR1dIUmdaY1d6OGJoQmowa2xSSW04cGNVbm5sSnFJTTRYREhidzZ1NzBNZzhHMjJnX29DNk1Ca3lGZmFXUDRERk9HWHhvMU1BQnJWd3d1Y0NJM3c4R21ZUE12ZVNMY3Zadw?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Fri, 09 Oct 2026 05:30:35 GMT",
+        "discovered": "2026-10-09T23:43:42.412409+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "إسلام آباد تؤكد تواجد قواتها في الرياض ضمن التزامات \"حلف مكة\" France 24",
+        "player": "رياض",
+        "content_hash": "30847de0581c13d2b7bc11496eb7f83c6476ebee487740b72b197133fde73d14",
         "sent": 0,
         "section": "world_arabic"
       },
