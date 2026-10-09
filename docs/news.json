@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T15:04:39.293042+00:00",
+  "updated": "2026-10-09T15:24:26.606079+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -549,6 +549,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 10108,
+        "title": "\"الأهداف وحدها لا تكفي\".. مسؤول سابق للكرة الذهبية يصعق مبابي بسبب الموسم الصفري - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi0wVBVV95cUxPRUwwMjl6a3d0by1vZUJMUmlhMkMzN29qNHZiaTR2OEdSdTUtd2JOTTBDdGZoWUQ5TmlyZzc2NV9iN2IwNEsycE9BLUNqWkU4bjdsdFlodngxWnJESktPZkI2MWtXOXZJVVoyVkRudnpmTGhabHcwdGp4NWpvUzJVR0ZteWF5N0JXajlWSmpCdGRGcERQdkota3FFZF9Rckhvdk5OaEYtX1VEMVo3N0NZV3dyZTJxaXVlZ0o0dlR1S0RPSUxENUZsUWNiZUU3YUtOYUdKbDA2aE1tZU1YT1hLUUc2SjU2Tk84cTQ2dTg1ZXYtNmJJVXR2eFliVHN4a01ZRGhSM0ItajJ6Sl9Pdk5lMG5mcV94b0dCRFROQy1kREhPMXFkd2F6YlFCNFhYZk5Ec0p6RDRoMjRfelZSMnZHcWtDejVackFNNEN5M3huUXFtRkpJTTNuSHlDV0hKVmRGTUtyaUNveGZ4VXJ6cWlHclliUTROTVptUkJRY0g3ZDQ2eE9QYlh3VWt4aE1nUExZUnZOSHBSeUpLOHl3WklkcEtsZkcxSWg5NVR4ZFAwQloyT1RSNkRLRXF0SmYxNXJBVzhFX1hnTFRuYkE1VnhYNlNlU0hITDBZaXhKT1RfaVBteEdYeTBjRDJucTFDLTRuUmZWbnI0amRyVmhVelY4TXZjWmx3RG96VnhqOFc3cUtzazA0dVpub3h1Q3VSZDJyRklqd3Y2N19MOGRYTDFyVTJSMmpsd2ozNWdURmhDTDgxejZLbVJLc2gwSFlGZkFYbVdmMlVSREdCMHFZdGYzWmJheDNXLUZGVi1oVzNXRGxoRzBPUk54S29mTVNyOFA2ZDFQQzA2blI2OTljZUlWTnlKZTg1djRLc2c0a1lDZE5zakFWXzh0aFFiYmFrSkZ3bjkxeVd0Y1JyYmduVDdRSEYzSXBtUFowelBfNjczZkUxWVE?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 15:15:54 GMT",
+        "discovered": "2026-10-09T15:23:59.890195+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "\"الأهداف وحدها لا تكفي\".. مسؤول سابق للكرة الذهبية يصعق مبابي بسبب الموسم الصفري Kooora",
+        "player": "",
+        "content_hash": "77e7506e2bf6626a317ce253dd81d35f0dcc20afba3addca5c411ed0e310a61b",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 10099,
         "title": "الدراويش يعود للانتصارات.. الإسماعيلي يقلب الطاولة على طنطا بدوري المحترفين - يلاكورة",
@@ -1330,22 +1346,6 @@
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
         "player": "",
         "content_hash": "f3c74e737cc859949886952b49f18321c7892f13e8fbd8e2ee103676ac72bd83",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10046,
-        "title": "من العبقرية إلى زمن \"الرياضي الخارق\".. كيف تبدلت جينات النجومية في كرة القدم؟ - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQWkgyakQtV0NLVGk2RFZRX3J4VTlIZ3h0TnRjTU5OVGFNdkZoTm4wbXRHaXZ2UkpjdGNQTkZiMEtOaW00dk5kVUNuWnYycHFLcWM0SW1iR2xHaGJiS0hjNFhUZzhLZjRpUmRDQVBCRlFxd05fNmFxa0oya1MwVUZhU2FuTUNzdkdST2ttZ3lfNFBiNzluRnJNbEZvWnJPNHotNTVidUxWa21TbnR3dUMzZGp1MU83VDVGYmV4N0VEYlJzbk91NXphejVENjEtWi04cWhGQm1EbmJ4U0xBdk1keHZiYjZVSlg0dVBnenR0bmE5WUtTdmVEbkxMN3FYT2pWNDZIQnE2Mk0wN3VGYWl2Q2F5UDlwczVlZjFHZUtEUTJSWDZnYXltZllkbTRlQ2JCZjhDOGh1REtCN3A4ejE0R1NtZ9IByAJBVV95cUxNblRxbDZLVHlTYUxKdkJMOUhkU0FUdHI0Y3pzWUJFVF8ybGhSNkZYalE0M2ZpTVdwNlFxdVUzcUpoRHRYN1RPOEs2NDN0YU91LVlYUXpoMFVObWxEdkx4ZU1jQzRJdDFuMFBYblVOQ3JUUzlxVGUxWF9KUXdaZnk3cWJRQ181NkE5cmV1WWRGbVk5U0RSZGs1TjNjenFOcnNHeU82OUVodEVOUXZReFg0Q1RCSlNnYURFM2NEeU9XMlRXN1VUdC1HZkJUTnBNQ1hZa1dTaEdkY2FTdVJBZ2Mzck43eU9tUzExSzQ1UVlBd2NhX2FweU40c0J0M21IX3ZvV1BvN2xiNWZUckxEaUpUT0x6VkdWRzlDM0k3NWhqWGlJV0RhUDF3WF95Y21qV1MwX09KVm1DakFmUTJQNUdUZnFjV2NOZkQx?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 21:19:05 GMT",
-        "discovered": "2026-10-09T09:32:19.478370+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "من العبقرية إلى زمن \"الرياضي الخارق\".. كيف تبدلت جينات النجومية في كرة القدم؟ الجزيرة نت",
-        "player": "رياض",
-        "content_hash": "cfa10e7f06d5c6f894f953725c00f2723435a07b9a83740e222a313b6a6eb3ce",
         "sent": 0,
         "section": "sports"
       }
