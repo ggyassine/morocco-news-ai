@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T04:40:46.207308+00:00",
+  "updated": "2026-10-10T04:56:46.745713+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -560,22 +560,6 @@
         "summary": "هزت المنصات وطغت على الاحتجاجات.. ما قصة \"أم الأسبوع\" المغربية في فرنسا؟ الجزيرة نت",
         "player": "",
         "content_hash": "9d2426c8054e33fd01e807c4b71495def4cb18f5bdbfedf54374816725f0ce41",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 9829,
-        "title": "نشرة إنذارية تحذر من زخات رعدية بعدد من مناطق المغرب - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01NVZTV0l6ZHhFcGthREN0VUJmOXhpTllFUGtSNW9xdTByM0l5bm5vcDctWEZqUGh4MGRhOUtZcW1NWF9tdG9Mag?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 15:36:12 GMT",
-        "discovered": "2026-10-08T15:42:49.288051+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "نشرة إنذارية تحذر من زخات رعدية بعدد من مناطق المغرب Febrayer",
-        "player": "",
-        "content_hash": "b567c6b87605e325219376c52303165e18169133fbcc79679daee4921ad44e2b",
         "sent": 0,
         "section": "morocco"
       },
@@ -1460,6 +1444,22 @@
         "summary": "رسميًا: برشلونة يربط لاعبه بعقد جديد حتى 2030 Kooora",
         "player": "",
         "content_hash": "e1eff37281986f6b93daf05cfd23dda3ec611d71fb1128776bac74b27d0cd980",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 10329,
+        "title": "عماد النحاس فك العقدة.. الوحدات يحقق أول انتصاراته في الدوري الأردني - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rb3Q5UW5iTkoyNklRRE5jWkM4aHQ3dFlFV1NJenk2NDlaVS02WVdQQ0ZfeUdfLVc3R3oydUFqdzV6UmlzVHJSa2xkalVoS2Fk0gGkBEFVX3lxTE03ck5mS1piSWlaVC1tVjVlLWpGMlVIMkFiMGtsUDFxT3ZGdy1UbVhnejZndGwyVWtia01vMWs0U0NhamRzSWcwRFhwNlZNMWo5bjMzVHF2OS1zNWF6Tmlkb0VWRE5NWXFhYVMzNm1jTkVhMktSZ3FaTldhaloya2loRFhBd05OT1A4aHdOT195UzBHcXgyOUlOZ3FQcGZsWnlYQTVLU25lVk9uMmlUajE1TDlsSzZhTkxXOTdFTDF4N0M2a1dkdG1GSGYtdm9OYzdKM1VFdGQwR1lscWQ2RFJkOUd5NmdobVU1a0RlbU5lREdjX09rSThaazFlOUZWcDZab0JHMGlaV19KQkRjVjhnckluZmNRMzZCOFA3S1FmakdWN3BjdTI3V1FONzhQOFdqaUo1X2p1ZDF1ZFNCSDZIQ1RaVXlvdVNMSXF2TzdXR0JnZURhX1huaUhJZHYyTVVBNmlBWE04SGlTelNqOG56akJiZ2w4ZDVFanNiOGhKY0d0cGFwX1M5MXo5NTg4MHk5a0h2M1NRWmx1UkxRNGhpajdzZ2hCZDFBcjlQdTZiLTFENDNZekRoZ0J2bllIMVVCNy0yNWp3c0ZNaVJKVXdUSkhKcWpJYWpLTHNwSGZPS3RvWGJHRk12WFVoUWstbnd2cHZIVXBEeHk5a3ZvNHhxQndQa1dxQ29nc2VfTXR4WXhZN0pZY055dmtoU3ZhaU0wRnE4?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 20:20:00 GMT",
+        "discovered": "2026-10-10T04:56:29.898304+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "عماد النحاس فك العقدة.. الوحدات يحقق أول انتصاراته في الدوري الأردني FilGoal",
+        "player": "",
+        "content_hash": "69c099df0d2d812739ac7f5b2a1399186e5575990ed3a579fa6ade1530448cc7",
         "sent": 0,
         "section": "transfers"
       },
