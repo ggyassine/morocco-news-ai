@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T01:40:48.504656+00:00",
+  "updated": "2026-10-10T01:56:12.718780+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -320,6 +320,22 @@
         "summary": "غواتيمالا تجدد دعمها لسيادة المغرب ووحدته الترابية Febrayer",
         "player": "",
         "content_hash": "1c8468e14c483d27c9b89d98834310ac68d46bf87c3879392480db3c7b3c1ecd",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 10313,
+        "title": "بالفيديو.. مكالمة هاتفية من زوجة كيلور نافاس تجبره على إيقاف مؤتمر صحفي - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNbGxMYlhDMzhDSTJ1NHh0UG5KQlFzem1pS1FwSVlBQmhNWVhEU0w0dHI5X0tSWGlaS2gtUkJlQmtqaEt1OGdzUHU5cE5iT3MySzFaMkVHRWJFc3FkUkpnV3g4UkpwcVdObHZ2YlJSV0k0OGFGSW1tdWN1aHROZWRSUFBFZFUtLXVoZnBJR3lrQi1hUjF2V0FVYWN6MG9ha1k3bVFfNE92bDk1bVMwVjNobW81ZGtTaGlpU193MGpLMU41eXJoRXpUb1RjWEdhcl83TldPcDBlV1Z2WTRTT2pkckZwUFpmSUVjRHRuYXhUcy1wMGgzX1hfMjEwOFVTLVlGdTdoRWlKUGpPZ1pqZFRLQnZtb05DX1J1RzFpaUlkV3VLQjlDbk0yVFRvTlhOYVA1aTdnNzYzVEhrT0NxTHBXNWhjNHNzYVBHUXA2c2NJdTRlV1HSAdgCQVVfeXFMT1dPb21SUEgzTjFKeWthVk9Kb28xcEtyZ0djMnVyZmJLanVUbm1SM0VfZ1JrSENDb0tzcmpRcmpmT1k4RXVfbHp3bFhhS05QeEh5RzhQVGNKNHo3bXZBRVYzRUl5MXJXb0RWUnNpNkFwS2haencwaXVPQXJ2VU93QlNvbHhQRnlyNGthV2FiMDNJMTJWZDRESlVrSkdwVG9aMERpeFJxcE56SDhtNVozQTRtcnRVbEdMSkw0NndrUmE5ZmdnX1hNVkxPY2VFWXczQWJiYXZXaXpHeE1qdC1OOENqbDlHb21xaE5zTl8yNnR5SXJFWERWQ1I3eGY1VjQ0a01RamNGRWFiMnlyeV9kVDRpNW1RdjVVOEFhUUo5WU14MjE5VmxoSGpWRWZlQnZpaTBhSnQxQ0RFX01saWM2RGpDSFg5SHNfazh1Wm1BdHNwS3laNWRONEc?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Fri, 09 Oct 2026 10:02:21 GMT",
+        "discovered": "2026-10-10T01:56:01.857596+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "بالفيديو.. مكالمة هاتفية من زوجة كيلور نافاس تجبره على إيقاف مؤتمر صحفي الجزيرة نت",
+        "player": "",
+        "content_hash": "91650d20adfa32e697a5993086bc687578d73d652110bb2cd49c2699356b100a",
         "sent": 0,
         "section": "morocco"
       },
@@ -2134,22 +2150,6 @@
         "summary": "الدفاع المدني: أضرار في روضة وعيادات طبية بالرياض جراء شظايا باليستي الشرق الأوسط",
         "player": "رياض",
         "content_hash": "e752e5c0701d607fe849d1f639372a6edbbc9cb25d694eb38baa1d89a6507e94",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 9812,
-        "title": "عاجل | نائب الأمين العام للجهاد الإسلامي للجزيرة: لقاءات الفصائل بالقاهرة أدت لاتفاق على تأجيل الانتخابات ا... - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPVFhNZmxmbkZGVW12TkJXZW8yNUQ4YnA1ME1ZTlV4YndhV2UxZlBGU2E1SkVMc3UtZTZvZUsxSVNLaXpzQU12N296NUx1WFFUOUdaaUFoVXZlZ25uVzBlQVJGNkNSQnFIVVpJZ3ZDWmIxN3ExbDVtbUxxYS0zQnhaVjB2S2dnMUQ5MFhzd2F6dk9mTjBWS0hId1Awb1B1SGF5VUZndnYweWhnZ3d6Und0X01GWERXU3FBbE1QLWhCcDRSZDI3SlJKOFdJY0Q1YUF6SWZQTXlFUVFvS2NINXptWTl2bkVtZFlwVlNDOXFxdjRhLWRtQl9XMEtHQm5vbmI3ck9Wd2JWN1FSUm5zSl9Fam10emd0Rmg0bmFvc3d5cGjSAaYCQVVfeXFMUGhhY3NTUVFwQVZuWElmcFhpT2J5WGRJQ1BkWjBsVGpyZFpxZkZhaGZkSzgwZFNrSl95enpDcXZLN2Y4LXpndmxoVkRIUS04VzUtaE01MlZ2Yk9BOGc4VWJWTmpsY1dhby1JamVwNW9kaTZ6Y3lOUl9waXVfbkI4QXhCUHotRVc5ckRXcnVmTW5QSXVBbFZGdlFIaXlrT3Q0ZUNTckx4dG1uMWhMU09oYVEzdGhaWHhMYlpiZnZROUt2bGFodVR3YlpqeVBKTnFaUks2MjJVc0RSanZRSEhraUVCdVhBeW5HLWlfV3hYczJIMURCRlZvOEdmUm5rRkViSW11R1BhaXQ1RDlVUUVEOHkyeVpZUU1wcnVyTDJpT29hWUl6T05B?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 13:52:09 GMT",
-        "discovered": "2026-10-08T14:26:05.976523+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "عاجل | نائب الأمين العام للجهاد الإسلامي للجزيرة: لقاءات الفصائل بالقاهرة أدت لاتفاق على تأجيل الانتخابات ا... الجزيرة نت",
-        "player": "",
-        "content_hash": "8276f9695b647db3931e21116fe0ac66cc57d8620f2aa3bc35f42d2f8587224a",
         "sent": 0,
         "section": "middle_east"
       },
