@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T22:46:24.060570+00:00",
+  "updated": "2026-10-10T22:58:47.414016+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -614,6 +614,22 @@
     ],
     "sports": [
       {
+        "id": 10634,
+        "title": "فوضى فينيسيوس.. حالة تحكيمية فريدة في تاريخ الليجا - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxPTWw3VDRTajVvSTVieFF6UUFsTjB3OWs4b21IUUhxUXVxRVpoemV2WEdDSW4wMUxFX2Q4dnpyWTh1eHdqVXQwbDhXMUl4VWtFZ0twOVdOanNqamJwQnZFY3VRTnZVcmJmQ2hpZ2NnYVlyQjI2TTM3STBpX3hQNEZEQWp6cW5MQ2tLYndEcGtFZWxzVEVTU2Uxc1FXZVhFQU84R2RvTGp0TjNFSVhhXzQyT2l0LVRlc3ZYY24wSlFNVWZrYkY2cHRQU1VCM3hzUExJRHNFbkxZRDNsNnBpVE5CMUhLdEtqYW9vRnZlVmFSVEFTTXNWaUgzNUlfSllsZmtEZ0IySjVleDRZLXE4QlpTS2VFc05uTG1EUHhpNDdOU2Y1VEZzLUdXWXM2bzVobEJ1YVF4OTNsbVRVVnN1Z0xYOUo5S3ptMWNRYWViVjFfQjZxMDFJUVZwVGhFTzBVTkNfdWJBakV6ZFlNeWdWMkpXcjVKaEo5cmM4TTc3WVo3NDczczNjVzllZlJpRG9pMGp4TnBoekVqM0cyVXhtMmR2cmVRWm9sZjRBaEZkSUQtWDZOQVhERDFFQXZZYmtUSno4TU1RTmVnMFFOdDVhRWM2VDBSajZULVdkWl9oNWRSckVWZHE5NGdJWnhMaGRiOEFMTThWUjA4Y0huZDBjdEJRdDdKM3A?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 22:55:23 GMT",
+        "discovered": "2026-10-10T22:58:22.089354+00:00",
+        "category": "أخبار",
+        "status": "غير واضح",
+        "summary": "فوضى فينيسيوس.. حالة تحكيمية فريدة في تاريخ الليجا Kooora",
+        "player": "حكيمي",
+        "content_hash": "09af3b3635ecc701fe52ab4cc5092c9c6b054bf0ae4756befc1669f3e53b802e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10629,
         "title": "كادينا كوبي تكشف سبب رفض حضور مورينيو المؤتمر الصحفي بعد مباراة فياريال - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxQcFQyWGFQNnduNFNaMTRvYXQ2blRYcWJ3a0lxTDRlVWpvYmEzN0xxamNoUi0yaFpnYkhqZXkyYmJTUHlIcmNCVDFRc0R2eTQyLUJsNFo5aXIxRHZ0MVBySlYwSnRkLThKOGE3V3FwdHZVVHhPMGdFT0JLb085a05kV1Bzd3NvS242NGtzU3dROWFaNmJkUVIxSGRGVE91VXRCaXEyNThJTzFiNjhEcHFfRGIzcXVNVTZ2UkFZX1VoQ2FGbU5iSGF2QkQ0LTBncEhFQ0ZpVDVoUlpHS3NzRllhRl9NLXNoblNYc0p5VEktY01LcXdKWkpQdGpnYWs0Nm5vdXFvLVZ2c2VNX28xc2ltZ1RnMFV5UnFUek9fTWtFQWhFWHhVZGhqbG5QZXNjUU1ZR29zSHBXZFZ0bGdjeDJLcGhKMlZnWTVlU2hDZkZ5Y1hWSzJrZlBqUWwtN203dGMwVHd6YTh4Y3pLYW1rRUlNNm00c2IzOUdOc0NLam9yQXV3ZHNMWVNpRTFtOEtVOHFhSU1laVZpN09PMVIzMl9NUWhKWVBPMGFrMnZqN0wwNVVmQVhGMng4aFF6NlM1ZTBVQ1JURDNRZS1KUlQ4RU8yRVhsdG1BTEhJWDFzV2JRVk1nYm84SzI5NkhNcUhQMF9JMWVma0dVZWpGaVdFWmh4bXpKTzdmMS1HV21XSTBLRXltcGt4UU9BbEZoSm5BVTlqZHRNT3FWZmpnTXAyRWJKS3I2cDlRdE0tQmM0clZ2S2rSAcYEQVVfeXFMTUdMUTNpRmNNRWhkRGpPTl9YX3liWnoyTXpTTXlvdDR6NHdqVmxock1XWG90cG52dEZZWV9SWGp3SGtpd21yOElROFVVVkFueDg4cGNBX19xdURQblRlTXRERzEwdFAxbk1LWGR6OVdpZE9qZl9EM1pFZlJ4bFVaNDR0LU9VQjVOWVhSaWJlZHZHdF81alhNc240OC1XYkp5M2hiTWJtVVc1dDZfclJpa2lXMEYzVTRpb2szRWxReFd6YVJCYjd0Y2QyYWRaMm1QTV85cVVqYkhqdzBqSEZSbmVZeHQ4UmpYbnJqNk9Lc1YtVVJWQzZ5R3psN3F4V3VqNU4yU2R5TElwLXRjX0tlZnVEWmFuUElvRjRadjh5S0dxWFRfX3ZIV3kteF9PMklmN1VpRnhaQkpPRmhidk1iTXJHeXo4aEl0TzdyWk16UGpZV2x1R0pJWmZPM2dqUXZWaTRmdWNhWDhsdGNDVmhIMi1PajlkckpFa1J5U1ZjeUl3Y0RfeHpUSk1ZWk8tNk5jLTJNa3V5SGxQMWlDREJ3S3g3RDNobEJPR1ZjcHo1dlBIXy1rN3FVSllhWXV0czh6c3h1Z0FXV3hyUFlzTEpCejRWem1wXzV3SUVWTTY4OXpNRTRmTWRTVXJQY1VvWldTVkdQcTlRMnR2TGF6allYU1A0NTE2TkI1NDN4S1ZYR3RCbVFBVWQxVURUQTJvSmtORjBoTEd1UGZhUHY2a1pLME1hNEdkeGdrelVKdHRhc1VGNjlXNzR3?oc=5",
@@ -822,6 +838,22 @@
         "section": "sports"
       },
       {
+        "id": 10635,
+        "title": "الشرق رياضة / شاهد.. سعيد بن رحمة يُنقذ نيوم من فخ الحزم في الدوري السعودي - تطبيق نبض",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oeUpmbkctbmlRWnE5TE5jSXFiSWhIRWF4ckdaaVp0T3FYRXJ0TURJYTNCdlNKMnNoYXpHekVIZjctbEVVY2JZTGlCV2FQcVk?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 20:52:33 GMT",
+        "discovered": "2026-10-10T22:58:25.450573+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الشرق رياضة / شاهد.. سعيد بن رحمة يُنقذ نيوم من فخ الحزم في الدوري السعودي تطبيق نبض",
+        "player": "رياض",
+        "content_hash": "3897ffb72a1afb56ac954bde690815ddfd485018b4add463fc1751bb702b1083",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10617,
         "title": "ما حقيقة تجاهل رونالدو استلام جائزة «أفضل لاعب في المباراة»؟ - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxQaFQ4TjREWWRLOWFMS2NsSFIyNE1UVE1fdk01RTlBVXRfWmlKdEFMRkZEdHlqWHpZN0o0U3R2QmI1QnZQeXZXNkZTV0pEbnFpMVdVcm80cnFzSTRGM01HRThOc1dqb0xrSG50TVJZSFB0aVBtMjAtS2JSOE5Qa3FfbDFYMHNpOHhoeDFDbmM4OVE0WVJ0eko1WWZOQVVvZnkxZ0IzVlctcE9kLWpmUncwQmJqMHk4UzdYM0NMSFFHcVBVZVl5OEU2a3A3WEhib1prNS1fR2tnUHluajUwZkNRa0FjYlJRLUZHMUlZX2dKOFVqZFZnRUZ2enYzelgwU0ItOWxndnZDVlFIRk5KQ2o4NVNDa3JoZ0ZwQXhvTVF4MUhnSnRoOThTWVB4OWJNMmtRdXdqazlHd1h1SUNCM09fYjdfdmxHYjRNb3J4c1VVZlVJWXQ1bTQyNlI4bkx1N0IzOUd1QU9YLUxvdkZ3aGlsRzBRR2dwRm5yblByTHRDTTlmOEtLVU4zRk5TT01yaE9qZzM5cTVhZFRXQ2VobmJnODV2dWFYSVk5MnlraHZwWjN2aERRZGNEYlVBbmdKdlJPdnp0SXQ0VE91aDBXMHJEYjQ4UXNVa3ZTOFhSanFuQ2pSMTU0V1NvWlB6bGJkc2tNZ19VWExud3ZpOVk3S3pWUDRfa0hBSkVFdUYzaFVEUEdVVnhlaXNEOVl5RDdvUWx4ZXRGUlEzSnRBNzZGXzVYeDhfZXFfQlU1TlRBcDJ2RWU4U1QwQnlWSUVEdzUzUGhOLWRYWnd2RmN2Q2FaaGJQOFRmOVFDaVhF?oc=5",
@@ -882,6 +914,22 @@
         "summary": "بعد طرده أمام فياريال.. فينيسيوس جونيور يغيب عن مباراة برشلونة يلاكورة",
         "player": "",
         "content_hash": "5327bc66d4b5b990844c6265e9b529cde101e105864a229c1d7f00f00e1978d1",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10632,
+        "title": "ايريك بلاهيك اللمسة الفرنسية من المشرف العام؟ - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CeHlhSS13XzktWHFtVWJPakhhcXhPbzI1Yl9kX2ZhRm4xdy1HY0drOHVtbWdvOEVRalpzWjd4UmZ4N1NYa0NMR0pTSFRJTDV5aUtxUQ?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 20:37:37 GMT",
+        "discovered": "2026-10-10T22:58:21.324259+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ايريك بلاهيك اللمسة الفرنسية من المشرف العام؟ جريدة المنتخب",
+        "player": "",
+        "content_hash": "a2d504501fbb26aa9f5e9b2c8308b2626ad6508e499666d34cdede0362db4897",
         "sent": 0,
         "section": "sports"
       },
@@ -1364,54 +1412,6 @@
         "content_hash": "e426d5f6ef1e3f755b8650ec1a2036e6f66841b5ac842ee1619603124f630a91",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 10529,
-        "title": "أخبار و معلومات اللاعب Joselillo Gaitán لاعب فياريال winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLUNiWkpuSE9wcFVMMmF2Ml9zZWFNSmpMODRiVnVnLUVFcW1sOE52eDlXbWQtN1p6QU55ci10U1BfZmNsX2ZWd0xTNDVXZ0RqRjk4SUpzMWo0WkNOSFF6aFpQNVVXaWNvOVJMUVRWRVRVc2poVEh3ZmRIOWJOMEFLd3RxV0QxY0N6R1hHa0ZXbDRrSUJ5ZGxyLVNiTWRsRlFBcjE5SFVGbl9lN0M0ZGk0SnNxUE1xUlU2bS1YNDlZTGRJeV80R3JOc2JUNA?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 18:13:02 GMT",
-        "discovered": "2026-10-10T18:33:35.627494+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب Joselillo Gaitán لاعب فياريال winwin winwin.com",
-        "player": "",
-        "content_hash": "fbb9a668b53aea4f88b26e64fdfe0e56296bc2ddcf361a4d5176b95f014e1866",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10624,
-        "title": "البطولة الاحترافية 2.. سطاد ينتشي بفوزه الأول - جريدة المنتخب",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92ZUxMR1oxdlBPX3RiSEZ2R3BjNTRndkNVNmV4ejlwbDFzSmRUSkowN1dTdy0yS0dwM1NMZTZzaFBIdlhlak5iUDk3R0EzVDNUSDE4Uw?oc=5",
-        "source": "المنتخب",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 18:12:30 GMT",
-        "discovered": "2026-10-10T22:46:03.672055+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "البطولة الاحترافية 2.. سطاد ينتشي بفوزه الأول جريدة المنتخب",
-        "player": "",
-        "content_hash": "14687577adb19f41d00973d47d514f0b5c577c68aaced0be18b23338e9dce60f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10583,
-        "title": "رغم الإيقاف.. الاتحاد البرتغالي يعلن عودة رونالدو إلى المنتخب - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxOV3ZCWnREQXhSeFgxd2JvQ29YUWdFd3NKZVRTZ0puVFlNWWszaWtjc2dWM05Wc21ZQjh4aGZ2YjJIZWctUDVSbVlGTHhzaWNQd29YWkhtMGVhd3FaNktkQlhHaTRTS3EyRF92elQyQjdCREZjaUh0QjVZR2dIb3U1aWItM3ZFbEF2bnBjRzhaelFyR2NVaW1LSjdJOFlhQlFoU3NpSU94Z1M0RW16MzJucGVOTk04ZnpMcU9DaS1uNFoxZ1VQaXVKZ1ppNDlXeDM2eS1QbmVrSklaN1I5M241ZHgwd3BhQnM0ZThzdHVlVG5RcEx2anYxeVVoUGl0WkxLaGRpRG1GNXBpOTVxaUpNSGJQRVF4OVR2QURXTFhCQTk4RmxlUEdGcEVNNG5EM0Zvd3dRN3ZoUjZfeHVoOVZ3TndWUUZaQkp0WkQ3ZjhkbTdSN2tGVFBCTFZnMDVFWlJoOWx3VS0teHJkNnk4ZDNBWF8wVUlRMEx3MzZzR1FxQzVLcU0teE5vaFg2M0lFUkt6RTlvNVAwdlJhdkRZRy1Ra3I0MWgtcmR6Q0RQMGJPSVpVWjhfZFlLc09Ta0dPeXpTOGRKYTA5RWo0MEpfUHhlaDRuRUZCSDR3VWxwTWdNalJsUWFvSDRtamgyaWlJV0dOcWRaMUJkdWQxVHpMeEJTYUdocTJpLUVpNk1tOXpobjhQejZXQWdrT2kzdkFkQ3JoMjE0M0xQWUpiaGhUM1VtQmplTnpldzVXV0FvdmN1NkpoeGY3T2hJMzdPR0pFQWFPN2Q2T25YNGZlTlpEVllHTlJ1cURRUQ?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 18:08:24 GMT",
-        "discovered": "2026-10-10T21:32:36.565248+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "رغم الإيقاف.. الاتحاد البرتغالي يعلن عودة رونالدو إلى المنتخب Kooora",
-        "player": "",
-        "content_hash": "73c18356664c143994b94e7f9c3be41264b0ce5feb44871a05cb91cf2ce482d0",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1848,22 +1848,6 @@
         "section": "transfers"
       },
       {
-        "id": 10134,
-        "title": "أبرز الأخبار المغاربية: إسرائيل بمعرض مغربي وأحكام إعدام بالجزائر ورئيس جديد للبرلمان الليبي - France 24",
-        "url": "https://news.google.com/rss/articles/CBMi_AdBVV95cUxPNjZKeV9YX01uWUQ2NlJNaVBmVGpqNVM5LURVZGZOUVdlRzZOLURteU91NWNNcVBmc2dRRnlBM29OcnNfNXFLYnJYQnlOMk9VMDRuMjdPdGRhUU1zV3hKckoxRU9CM2JGM2hYeV9ibU9ZMUFQajVsVXdaSHRmMG4tQVBYQzF3Vy1JbE5uU3VIc0JxaER4UzZ0WXJqejRoNUpfZU9uTnZKRllHeVk2TGoyWE1PblVZWmtlRmp5cVpQZ0VobjlXLVk5RWNiWk50cjNWQk9MenFuNDBJelZoYTVRdXhxaTdyMlF4TllpQ25ZLXZPbjNkQlpqVmNVVXRZMzRDV0hYTG1qN2dvaE5oS01jaUhQakIzQllkUjZRc3BfVk9pWWtPUThyWWJWWDJDVGxoWTJPU1pPVlRELWhTejBoaFBfZ2NCaDNEVFdzNkxhNHRPaFJPRF9IXzY3RVRkUFd6Y0lpMHNOSEJ3aktrektFWXAwZzdkX1h3S1lNV2tYYnVUdlBnRWJjRlRqNzlVVkRaS2JDUTEtNVRYQXJpZklDMlZ1R1ZKOGxZLWhEU0F2RjFtd29zMHNCeElKZjVma0ZwODk3TllHNUd5aExYY0Y4Sl9LZklxZjEyT0dzalZiYk4tZzBKY0NLbGVFWWpzOGgzcWoxMXN0NkRXOEJDXzFkLVFpU0FETVh3LVItUDR6Q1RUMy0zQ2x2bHZrOUo3UWF5azhORDlqdWpCNDIyb3BlNFd0cndTNU1DSkF4QUFmdTNkeDhBWGRGeXBBblRxblZWbHNZRVVPWFF5ZU82ZHZueTFNTFd5RlFuYWVwcGRXV3M3V2h4aFFhOW9LWURUWEJsbm1IQmVhclR3a09LdC16X1RoQ2N6bjJ6MHY0QnJKSDBRM05ZcUVfMUM2QnV2aXc5cWRzNXVxU1JTMTJ1bEJiQms2Z3pfXzR1cHJaU0NJQ1ZGYmd5Y0hadlEwTEJTem1yYXVXaTNSZDdDRTIzOGhaMThJREkyNzk2MEFUOUxFZVdIcl9CSXNyQmN3cS04V2FmVGVhaWlpS3lOQU03MVNpNHJnV3R6dmFMbDB5RVItTXMxb3NaRTRadjdXMDZqd2xJa2F1ZFNTZVE3WVNKUjh5NlBBS0l0NURadEoyb2dTZm9yNmsxTHJ1TTgzNTNBVzFNWE1RV0M4MGpMNWhKR3h2WVdJaFA0SUktQXpLcmxGNGJYUjhTUDh3ZDZKbkNtZ2dWMWNkeFlNTmJTMk9raVhYbGJPbUhoMFBIcVZHTUM1TlJ6ckpBZThTNU5PR1dYNFpaZ18tOUZWM0pMaWw4X3FTV0UxenpONmV5dXVHWXA5aE0ySXVRbzVJekVIamM?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Fri, 09 Oct 2026 14:21:31 GMT",
-        "discovered": "2026-10-09T16:56:37.959695+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "أبرز الأخبار المغاربية: إسرائيل بمعرض مغربي وأحكام إعدام بالجزائر ورئيس جديد للبرلمان الليبي France 24",
-        "player": "",
-        "content_hash": "a58a6e4b6369fc53213c573c0d37f1238824bce5f8728fa17b309f8ba412871a",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 10320,
         "title": "ناشط سياسي مصري يخشى ترحيله من الدنمارك - العربي الجديد",
         "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQYkZDcVJtN0VoZFdZeEJhNVBoTk1JRVY5SHpFSVRmYklmaDVfUHQ3Vk9jY1otSVdES0xLZVFFZ2plY2x0akstbDhwTUNLMUc5QVNtRk1nOG52VWtPUE1pSTNJSEFOUXFSQWxmUlFPMmxLQkR6RzNwQW9EWHdpVUpaemludGRFajZoNjE0MFF6bGRSNUpwOFc1cHFXWEprZ1NTb0ZXTDN6clY5T3BudnBnUElKLXNmOTgzMVJHWGREazNuc3o3TTJGakZFX1JtTlhicjVfbWVvOVdXd0Y3d0lXc2RkOUptck1yWU55cXZTZWJWT29SSlppb3dGZzg5amFaWkthY2J0WThDbXlOb09qNTh3aDdVb0ZUcGxEU2h1RGk5OXoyMDI1bzBEWkU3dEo3VUcyZXFqZk9Uc1BmczU2dlpiazVWNzkzdkdHUHVOa2QzTVdKNF9LNllR0gHfAkFVX3lxTFBlcm9jZHFvUnNWRXM5LU9ubFhWVEN1aUlHcVRzSmNVakdsSjluM3VQcllra1JCSzZ0NjRlQ21UYnYwT1ZDb2czbXJaNE5wSVRvbXZia3hqbnFGX2ZZSS1sWURocGp6dkdNQzRNSGM0QWVXRXJZQTF2eEc2LXpJUEJfdWplczRJYWtHQmZaN0hacDNmM2ZzUjJXTTFNNFdieG5JdnRZRUhJQ1EydlFBbWZ6R051bVlvVVl4SlJOY3JsMTJiWFNILXJPRVVid0NiSnQ0RC1QdXloSTBILU5ZV0xwd1RZWkJtWmZTTHE1bUhYOUJ0c1R3M21Cc3cydlpGLV9oWTJqTHJtazZ0aWF1NFE4QU5MSWQweXF6bThPWC05bVgtdlVxVWtVTEllVjJrdGFhY1ZXd1lIQ29nQzhJM2MxQnA1X29vU1ZCcUZTT3ZlVjhwU1hLQkZTVnRFMnZsbw?oc=5",
@@ -2136,6 +2120,22 @@
         "summary": "ترامب يقول إنه سيقرر \"سريعا\" بشأن الانضمام الى السعودية في ضرب الحوثيين القدس العربي",
         "player": "",
         "content_hash": "9184a605a4ca05f295611821664052716ecb43dce1034609e480236c0a0d12e8",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 10636,
+        "title": "فيديو مزعوم لـ\"لحظة وقوع انفجار في مطار الملك خالد بالرياض\".. ما حقيقته؟ - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVVpiYjQtZkJBd0pFdHhQOUJ3NXlEWE40STdMMzZsTkxNdllOejBxQXFTOFlvd25sR0FhZUlZT0JPNnpaTEE1OVR1UzhUWTFKUVRxT0NDYnVKeWdVWlhWbktuLTVuUlc2cjdrNjdVdi1CY0xJMEVGUnloclc0UFhJbG0waWFSLUNzaGNaY3c4cGdNMDJody1sSk5STzdzbmdKZWhVTUdLMWNVMm9kcC0tcDZKQzE0TnpwWVNXT29PN2pBVlZCcVJvVHpn?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 19:42:34 GMT",
+        "discovered": "2026-10-10T22:58:46.646061+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "فيديو مزعوم لـ\"لحظة وقوع انفجار في مطار الملك خالد بالرياض\".. ما حقيقته؟ CNN Arabic",
+        "player": "رياض",
+        "content_hash": "7bba3ee4bef867c508afdb72368c9d2fab5915a3a8744d0d159003e68d09c2ef",
         "sent": 0,
         "section": "world_arabic"
       },
