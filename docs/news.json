@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T23:42:34.281298+00:00",
+  "updated": "2026-10-10T23:55:05.806164+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -436,22 +436,6 @@
         "section": "morocco"
       },
       {
-        "id": 10150,
-        "title": "فضيحة رشوة قلبات مكتب معروف للدراسات ففاس: النيابة العامة هبطات مستخدمة للحبس وعطات السراح لمتهم آخر وشكاية من مقاول كيصلح المؤسسات التعليمية فرشات كولشي - كود",
-        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPVFJwRm9ZYlBnZlhBd0xSVUVkNDJqX1B5R19oUDRZcUpwT05WWUNycVJPSE5uT0I1NkhBNmZSYzF0YzIycjdxLWdONXByckliYzRCVVp4Y1RXOXdQVkpMbFlIdFBRWjRadE8zNDA5UVdwSk83U1JNd3Rpb2RCSGJ6WWZVSkM1ZmRONnNSNHJrVlBxZXlKVDJjcVZfZnU5LVFPWlVMQnVQZWVtZHNWUUhxZ01JMDZoOUg1Y3lmMURjMFk3Wm5zYzFkLV9aQ2JBT3FjYS1KeW9tUkt5Z09KYWU1VzQyeEFpYVpKZzZReW52UVRDMzdkZnN2VkNqWDY4SUlFSEliVE5tMWFlU3c0U1NBemN5V09EeERGODFwWktwUXpDRWx4NWN4VkwzX2RPaHRxc3hERWgxUGd4QVdQb3RoY3hGMUVrMWd2bEI4?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 14:53:46 GMT",
-        "discovered": "2026-10-09T17:58:17.288960+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "فضيحة رشوة قلبات مكتب معروف للدراسات ففاس: النيابة العامة هبطات مستخدمة للحبس وعطات السراح لمتهم آخر وشكاية من مقاول كيصلح المؤسسات التعليمية فرشات كولشي كود",
-        "player": "",
-        "content_hash": "75d23329c6f8571f303259c23f0fa5d9d64a21360b0eb6af21eb93acf47bca21",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 10251,
         "title": "قطارات الخليع خارج الخدمة …تأخر جديد بين القنيطرة إلى الرباط يربك المواعيد ويغضب المسافرين – اليوم 24 - اليوم 24",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAtcHFzb25lRkdWNFBTaFh4dTJ3dkVsS0Uzc0hfNUhmM1FpaExMaE0tV0pqaXRodkpkMlZZTXA2OVE3WmUxRGU3Mk53?oc=5",
@@ -674,6 +658,22 @@
         "summary": "مورينيو يرفض حضور الندوة الصحفية بعد مباراة ريال مدريد وفياريال Elbotola",
         "player": "",
         "content_hash": "7c579d150f7da013c00d19215cb05f71a6d868385f38a4ae8d825ee7e08c4517",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10650,
+        "title": "نعيم السليتي يحسم لـwinwin موقفه من العودة إلى منتخب تونس - winwin",
+        "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxON2xyaWRMdWxicWdaUGhBSnlpN0JtR1BnZDhSY3ZIOG5oVWExSldNUlJzQ01fLTVNaTd3NjRXRFFRRFUwQ01yN2FKUk1wWWFQMGl4V1BvSFBOQUt0clozQ2djcGlQYUtpdEUydkQ5ZlI2dmdJZXc3bDNmRjdWQXFnRGQ4OUo5QjRydXIyRGVMQUhCTkdGd1UxTm9sNFp3T3dWOGZnbUFSZHZhWVphZGFjbXRVZlZURU93dVEzV0tVQ0lsVHo4U1ZOdkwxWkdKLTMwWUJPZmU0OVNTOTB3empQajRXMzBwSFNZS2FyQVA2SGRqOVlpNnF5aERuYUlILXBLSHpjSW1CcXlsOHNCN04zM2x5b3ZqcnJvbUtRR3VrdGtxWDl1SGVTZWJ0N1hMMC0tQVBsTG92eGJVQk1PU2MyQ1RMWEZnbTBKcURRemNvei1XWlBsNERtMmRXWjBFY2pub09ja3cyZERNak1BbkxYSVB2MElXWDRFRDVJVkUxdEpGZGNyS0dkY21mb1FLS2pWT2tJeE9BNlZvekI1VTh5bks3dDhJNDBQTkg5eXN5WmNTRmVOdGJPRDJaZG15NjRQVEc1djJkNUtoVkxlbldodFlXelBoNm1p?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 21:35:35 GMT",
+        "discovered": "2026-10-10T23:54:49.121700+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "نعيم السليتي يحسم لـwinwin موقفه من العودة إلى منتخب تونس winwin",
+        "player": "",
+        "content_hash": "adb645911cbcb9d2d0168c52a6d39aecda48dfb3ff3f5bd53f40e766e6985e56",
         "sent": 0,
         "section": "sports"
       },
@@ -1380,22 +1380,6 @@
         "content_hash": "6787578534dbdbe923f24b775807233632b50a6e85c7a82dae5ff67727cb4255",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 10597,
-        "title": "بمشاركة حمزة عبد الكريم.. برشلونة يفوز على خيتافي ويصل للانتصار الثامن - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxQYXRmTmlBblNYR1BPNVlkbURvRGxuLTJCS0tfTnVtb0ZhcHRGZGFEdnJ2VVAtZTZkYXAwZEtpb01DX3ZCbXFVZXRXRmd5MHl6TUFMbU5QNXZPODYta3ZZWEFOR1NOaUtkbkQzYUZ4Zk9YN0J5S1llZ1VnNml5TmdzeXJ1UWNWeXBEdmJnVWswZHZNb3ZwX1U2NGNFRGJJR3c5Nlh0TGhjbnV4OWt0Y2gwQ1RXV2VEMWhza2VVMVdYQlRhNHZvVkdGLWNZQkR0cUdKQmF4d2pWUXZKekdUYy1XaWVvbG05WnpyN0tUelVuN1BUdE9nQnNPMXhnb2lXMU42U2FOTW9hcUJYdXVmZHpfb3doX18tUDNTcHBrWFZoaUx1WENBQkkxZ2ZTeTJ4ZE91cE1oZ2kyMnVQa0FVOXhzbjVhLVpEMUN3TzJKbWFaSFc5UnFwZlplaFNFNzktdUQ0QkYtU3dvb1pLaTUxTDhIRUFrM1JIRGtJS0c1S0NtdTNzYnRoOGlDdUJkTmp3ZHZuaTFRX2FnOTZRQzRQdzlLb3huSUF2azB6VDltdEFhcm5WaVlxYUpxckp3c0NZaXRFTndjd01kT3RnTTB1ZzJ3SlQybnhDbEV1ZXozMkFoZGpwV2hiSzZMQS13V2t4Y1h0MXRHNVZ3QlBaQk5Va09yYU4yc0JEb3ZMSXJ0MDQwWHJSaTNsbldBU0ZmMGZMT2o2M0NleE5oT19kQTFXT2Fz0gG0BEFVX3lxTFBPSG5RQnRiX2NPcTZGY01yRkQxT3hNblJ5ZlUxZTl0TDZCOVh5Y3RVaTNEaThvSnZzbzEwdVBiNlhqU19fSmVyalRpZ2xJczU5TmZGWVNrMUVLQl9Zb3pkdnJ2b1h3bFBscDZNMEtRenhFaTJCZml3cVlhelNlNFhwVmJOQlRMZFFNdlJkcXhpV1V0V2ItQmlYS09nSTBZSGRSUmozVjVKTUN5ajhqUGlGVVdOTkF4Z1VxTHZoR3Q3d0llVktTTzlDUG9UR0YyX0pDQmt0aWJmcUpKSlU3QlB4d0o5YlBXUERYU1ZabTlXellkMmlRbkxTOXJZMlFpUVRSeUdBbGljUi1BYks2V3R2Tm5hVE9xNG9fM01oVk0yM3MzekhTWmhlQUNwdXUyM01TdTJnNUpMczdkY1B1YkUyWlVTaDdNVGxrdldoRzR3WF9mbU1tdmZTRGtoTkVsWDJuNERKempweFlnQjVnRUZSOUNyRVN0RFlQVU5ac291RVFMbF94MmcxTkJabm1UUXlOVmdQS0hpZktHSDI3VnpjbE5UQmZ1LVBZejhPVEZFYjVfcTJQOTFpSmlEaTZfM3NnTzFsSkJFRFZrcnU2b045dFRFczFYRXY0R3pDaXdYYnZTOUJ6OFhoaTA5eUZCN2EyVUpDcWtmRDlBeW5VYWdJRFZyTm9MZWc1MXFpLXVjb1RBUS1CaHMwVm1NZHNIeHh6R3FrTS05Q2cySmFZRl92cmtzNw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 18:36:00 GMT",
-        "discovered": "2026-10-10T21:48:15.060255+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بمشاركة حمزة عبد الكريم.. برشلونة يفوز على خيتافي ويصل للانتصار الثامن FilGoal",
-        "player": "",
-        "content_hash": "6e2afb009164ecd8f2683a08568831d4dda9edf74559fe0bb106d024fb8f4073",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1860,6 +1844,22 @@
         "summary": "ناشط سياسي مصري يخشى ترحيله من الدنمارك العربي الجديد",
         "player": "",
         "content_hash": "48fd2232bbd84f3dc049ce8d96c472cbbd62f87810f573be2cb6a9e964feb0db",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 10248,
+        "title": "أرادت تجديد رخصتها.. فكشفت سرا عمره 17 عاما - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPZU81LXZCcVEwVmptU0lWLTJMRnFFUXNuX25wWHE5X0VZLW5NMXVuLTh3S2YzN0ZUaERPcVpST1BzMVVtNmpGU2pzdjJIaFl6M3BFQXVVZ3RPUkdNVEFyamNzTFdvNXF3OTlwdm14R3N0MmV3MnU4UlVVTmVKWS1QajdEVTRibzJScEF3OWZYWHRRaDBWbEwyT09VdGY2clFrQlpLd0hURWEzU3Z3RHNlTG54RmJiMTRocUpPZGFQTGtxc19YWldjZVMyLVM0ODZzekNwM2R4SGNRdmQxREt0OXRvLUI2ODBGc0wyVlJlbGRPOUxxNGJiTjAxSk5ieVZpcVNzdVlpU1dUNk81ckdWRnVOd2ozLVQ4VjJ0eFdseG9Bc1JwMUsyNTZtbnJXMm9sUE44eWNTRWdQYkZIaTlkMEVLcU1jNjJQM1NXdU1GeTNicGllcGwyR0kyMkd3bUtVOHY4MS1rMlbSAe4CQVVfeXFMTTVNVEVadHZUMHlEYURCU2p0ZmFfbWVpS0JoRnlsTUNyS3dYaDkzeFFyNTloYTVoVDRUNzlXb0JSRXRpVlI3aW4ybmtFTjN3ZXR3VnBWemRma3lPeUgwZE5nWmx4azNaZDA2aHJzdXh5YW5XR2N2QUo1WnlZdTNZUHlQaXhfaTJTZE1nNVowQ0t6Y0xhN0tVOWI2NXBuWS1hYy1Bd0VxTzUwVUhwTVZUcVhuZzV0UllDaUNiMnBQVkJic0pFRTVKTmt2akFvMTh5aTA1OXduRkpPbGxvSy1yNDQ4dV9BNHN6VDhRaUNxRElqeXVzaHBYbW52M3MxcS01a09RNVR3MGIxM2FkZlVESkRXb2VzUmZ5aDlpa1EzTFhPRHlpNnNvNDVIanlGRXFXZnh0UVZDWk9mUnZneHdPVDJnUDc1Wm93dDRpVmlpVkFOZzVJR3hmS29relBKWi1JemdpWnVlRjB2MjFrbnd3?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 05:53:00 GMT",
+        "discovered": "2026-10-09T22:25:08.033905+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "تجديد",
+        "summary": "أرادت تجديد رخصتها.. فكشفت سرا عمره 17 عاما سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "71b3cfb6a51a30980c9a398ab89b8f3c6bf025b504684dc24390a55573eedbd0",
         "sent": 0,
         "section": "transfers"
       }
