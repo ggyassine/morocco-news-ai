@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T01:23:44.869557+00:00",
+  "updated": "2026-10-10T01:40:48.504656+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -674,6 +674,22 @@
         "summary": "جدول مباريات اليوم - 10 أكتوبر 2026 - بطولة دوري أبطال إفريقيا FilGoal",
         "player": "",
         "content_hash": "cb00c132abdff39cfd9ddc66ebbb75a557d968f4471179bdc1120cda8fd07b19",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10311,
+        "title": "جدول مباريات اليوم - 10 أكتوبر 2026 - بطولة قطر 2022 - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNemtNV1oxcWpqUVprN0l2MTFIMzlHY0VEbnY1TktCcWt0SFJRaWE5NVBHVVREVDlZRXFPaU1WUkJEQ0dZZXA3VVAtYlQ4Q1RDbU1vTVg2VVZvQkVPLXFxbzNPZC02eGNsaGNxOHo4Z3QwUjZTUW1tOFBiZjZPQjBmeEVqMm15QWtrUmRpNGJzVnlmQUZqQmZxRGNSX0JFNUpGb1hOeTlJX3ltVDFoLWZzaw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 00:00:20 GMT",
+        "discovered": "2026-10-10T01:40:33.656402+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 10 أكتوبر 2026 - بطولة قطر 2022 FilGoal",
+        "player": "",
+        "content_hash": "4239576ec0c535313fd4b51add831829525eef846b7da9406f6db07af2663899",
         "sent": 0,
         "section": "sports"
       },
@@ -1378,22 +1394,6 @@
         "summary": "مباراة جمعية الشلف ضد مستقبل الرويسات : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin winwin.com",
         "player": "",
         "content_hash": "287ac12a97e92e957c223c507b7ecea4cb2150fd0480bbd73af19cffb7ffb75e",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10198,
-        "title": "أخبار و معلومات اللاعب جيسورون راك ساكي مهاجم قاسم باشا winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQS25zZGt1ZDdOY1p4dHZaU2g3clpoSEx5b3lqcUI1YkM1bEJhbi1qRnBvNnVxWHlVaF9JaTBnM0VqajJFcGd2NmRMTm80MkZFcXR2OTlpVERJOHU2d3p3MXppRUdfbU1ycFppNm9mamdWbElCVW1GYkNXaDlrVWRoajBORGNaYkZYTkpwUkhxdDBESkxpcU5mYzl5LUJFMV9KVldJNEFVaVNQUVdaUENMYVRub3JtZlVCOWNCbUZWbEJHaFJqRk5wVHZvQkU2MnZtcW11amhQZmQ4VS02MFkxWDhjejFSZGN3RVVmR3pWM1BiLUp6cXVXWFNVcDg5M2pkRGp2R1FBLXlsdWlPSmtPUVlDbW9VOGF6VTdnd1huejVnUQ?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 20:10:55 GMT",
-        "discovered": "2026-10-09T20:48:36.375261+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب جيسورون راك ساكي مهاجم قاسم باشا winwin winwin.com",
-        "player": "",
-        "content_hash": "1411de0891f0cd5e15185abcc1ce283b04987781b458998fad40d0e21e9249c8",
         "sent": 0,
         "section": "sports"
       }
