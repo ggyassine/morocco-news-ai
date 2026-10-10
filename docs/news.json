@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T15:33:16.414975+00:00",
+  "updated": "2026-10-10T15:49:00.059336+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -678,6 +678,38 @@
     ],
     "sports": [
       {
+        "id": 10474,
+        "title": "بعد غياب عام.. الاتحاد يستعيد لاعبه في كلاسيكو الهلال - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxPY1VLRUNUYXpJd29nUHNkd3NUejVQX2pUeWo4a1ZiUXNmMW9ScjNhRDhjdkxWTUItN0c2c0lpelJuYmhFdDNKcmZiNnk3TTJUNlhobjNicnlWRm5pZjlsZ3JCWEJOVDhIUk45UTZaTE43ZzVvd0ltekdMV3RTX3VoREp6MUFuTDU3X2x4MGVJZkdiQ2tqZ0NqRzY5dTV3QVR3U3FLVXN5YnhJb1pyNnAydlQ2SUdVMGRNc3ctOGtjbnB5WC0wb2xEaXdkV2ZPcjZZMjVFMC00Qks4OVdkYl8wOVJGUUtxdnRCX0ZNWGdBMHpzNGN3cktuN0d1QmJjN21qRkFFeGxzTE1ldVFKTU9vbm9LTmFKQkV0Q0dCYnhSd2RNVVBGZXNOVXprZW9DOVBUaFl1Y2xmbmlOUjJCb2ZyeWF3Y0hQbHBtVTBpd0NhUVFPRFVRT2JYNEJJdlJNWEJ1ck00cW8wNFVrazVXT3U5a3k4aWhWWFRQNXN0bXdzRzRITDhhSmZHUkhPTEFrVGN1bDE2QXdtLXZoZ0ItRkJ6VXRJdVEzdGlSS19UVWNDMldWVG1USTFhREZuSnNxS2JhWkN1TGhwM21MbVA2TlI5aDd2bjdRS1dJV3ZJZUh5b1E2ZWJXeG5HNHY1Rmx0UzVsYkczbHdZSFZkRGtJWG1vNG9LcWo2SVBBWlpNbzZwRmxtSE1MTEE?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 15:25:34 GMT",
+        "discovered": "2026-10-10T15:48:33.764674+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بعد غياب عام.. الاتحاد يستعيد لاعبه في كلاسيكو الهلال Kooora",
+        "player": "",
+        "content_hash": "e9a8e786ad0347f04ea3f35773b56bae9f3de9b7a9c4a5ad69f2f5aa7af5dd9e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10476,
+        "title": "صلاح يقود طرابزون لتحقيق رقم لم يحدث منذ 36 عاما بالفوز على سامسون - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxNWVBzeU1IZFZTYmtRZFo3TGNTUHN3cEI4TURTTUhfMzhQV2Z5TEN2VXl4VGNieVZxV1BMM3hNNm02dTNMbUxOYk52dThpT3VlR2JpUmh3QjlJNkI2Y19VZVJSeU81VklISGlBcUJ6M0VnOUotMW1xWXZtT0IyR3I1cVhHWnJsQ3prbk95dnZ0VWdlS1lOdDFtYXBLbHdYOElIYVlQemdvdG9ZYnJCYkptWWlOQlFVaWstMm9WLVViYmhNdUg3bV9HVVFvT1ZTTUMwUk9qbl95RHBUTWNjaHdxRHlESVM5VDZfY2V0aXQ3S01PRk1NZXVXNzJ0dHdMWVo1bTU1ZTlZc0J6djZ1M2Q4OTBCTktqZ3hPc0NRVUlxMnpQZzFFd2RYa0NtZUhXZTR0anprOXVBMkxLVTJzZFJGN2dfX1pqNGdkSlBvTGNZUXVwUXVqeVpGWC1Kd2R1RHVwc1VGaUw2TFpkaGhLNXlWTEtmYTVQRFVxX2kwU1dlLVdtSHdSZnl2SjF5QUNWVlMyMWxObk5KV1A0TW5OS2NjZHY2VjZEQXV4dlhadzY5VGZHN1RtQUNHcTd2MHdGb2xTM3BDWjZ1VlpyTW5iSG9reEktZWZoaktQaTJmN19GUXA3U2JRdkNUaFZwZ3NQZFhMX2xtSk1YYWROTEV3NDcxX1c2NUbSAYoEQVVfeXFMTmg4WFVmem5Fbkc0U2tFOVlwNmZsU3FiMlhPUk5PaTFsaElvb2s5cXJ2TzB0YzVxbTBuNEVwbU9NNDlBZlU1aElOWWp0QlVkbjVQVnhZMEpWN0l5YWhNZmY5emE2cVJtX0ZDZUJhUlJSUFVSZXFTMklqSEJEUk1NMUZESEtvQVc0amItd3ltaW9VdUZRM0J6S182WGdqbDZKYzNfTDIwQ0VmcTdhTlRjanM5cGlnRXd3TEg2ZnpWR1Z2dVg5czI4aHdDb2l5OWNnV0FvYXoxLWVoZkRrY3JuN3RfUFZOcFV3aHBMNEQ3X2lCMWlSVHBJZXExajBYcHBaUkkxdTlDMVcxM0VKazJXUGw5T3pDUk5xclA2SUZWX3MwQUZJVnllcEJ1MlhkeldRak9JS0NKWDFqNFB4Q2FfdGg5ZndrdWhjTWViWGRweGtjRlBBa2c4SDIxR0cyaWlFRGpXeUpwTi1rNGhWbDVWZEdQMlN5WWFQSU0wbnZkUXlxN0R4MjhMdHh1c2k0RGhzRDdJZGgwcl9xMUxhNEZEMkl2S1JLVFdNb1M2NVA5ZGYwZXkybWlkbHQxREtZcDFNMGxaNUMzWkR5dlNkYXA0WDVHLTNiN2d0LUpLdmJqUXI3LWhiVkxjTTd6a3pHeHFQUnlmS1RVSG1JRDB3YkFYN05NN3NGb29BSlpB?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 15:17:00 GMT",
+        "discovered": "2026-10-10T15:48:40.967159+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "صلاح يقود طرابزون لتحقيق رقم لم يحدث منذ 36 عاما بالفوز على سامسون FilGoal",
+        "player": "",
+        "content_hash": "2d38393450b06870d4a21043234badb5208777c37fa6ec654d237f49f0e04263",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10469,
         "title": "صدام رباعي القمة.. كيف ستغير الجولة السادسة خريطة الدوري المصري؟ - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMimARBVV95cUxPSW91a2JrbDc1NFNYcUlhUjZzemllUEtYLUhxblA3TXIwSXdVRVJSWnlZYndMUnRnSG12UVp4YmdSM1NaaXVFckZqSjZCNDVlVXpYaWlEdTBDRzBhazZaZ3lPaktuUU43V1Y5UzlhN3phOGNULXkwLVlSUzRrZkg4NHNXMEJkWklsZzRZT0J0Ty01V0RUYzkydHhpb2cwMGpiVmJmenJaQ3JuUWR4R2FtVF9WaHYwdVI5Tl9xZkxoQTB0bWhTa19NVlFXNmtISEpUcEVwci1oQjJTdHNua2ZjdDlmY21jbENoYV9pc2VfM2dtOEtoN3pjZi1DckdHSUtoanYzWGRqZm5zazVrMDllZkxkbk5oUDMyMXk4b1hoNU5paHhNZ3JzRFhrQWN6LS1XN1JXcGNCcGFQX2h4LXFIc21yOUVVSkt0ZGRWb1YyMWdtVno3c05QZjh0a3ZSb1M2Smg4cjIzam9FQVhEUVV2aXN2WVdadlhQSUVZaUhwVS0xTndnaHQtakhPSHhOd2plSS1DdzdsMHRIaGFXSnJJM3A1V3B6dy1mekZuZ0gwYlF3V19WZVJJYzJacWZtZ3BnMHpYdGJ6ck45bmpDbkM2N292TGh5ZFp6VmQzRWMwWWx2QS1YWnBrcDhnRjd5QnNxRlo2MkRub2JQNEdSRHlmNVpLeG9Lc1FDUEJyX3U0THlHOGxORm5Xd9IBngRBVV95cUxOTzJuQWRKRU44RVF6RWJXX05jZ1ZJYngzd2pGMEJxWGtWVy0zeWlRSW4xb3BLVDRxMXpmM2pfeWpEejBoYVp1N2YyVjgxMFRaaEh4M0dLbEs5b2paemswZUo5WmszcmdrUDRlTWR6V1dCaEJwcTNNRkNWU0R2eXZ5ckJFVHhWdnJ3c1NRTWU4RHd5cUpsWURoVUhmYWxtLXlCc2xWYndBTnhSNW1FZXNoYmUxbFE4MXZWNEFvazc5ZjVDT3pteDVvMFdGemVjNXNZa2FNTjJablgxNHBUZDhBS3VxMzctQlRaZ1o5ODJJdW9VNzl1OXFQQVZETlo1dTNJX3ZBSnd4R095M09FTUprVXBWeWp2c0VCNjBqMm5DWkNWampVejhiVTFtTlJjN1Ywci1NSngxX0hCbTRGU0JDM3lNTkdUdlR0bERPU01kd1hqS0piV2MxWFl6clhVNktGQnh0US1vZHZfbE9mZlRxRlFOUDk3X1RaNU5uMXoxa2M2M2pUckxyVG1pd2ZoSlRZQUh4SHlSWV9tZzBoTnk0LXFTNmdLNjJ3Q25xZkE3RDdEbEx0V1JpTEVrZF9lbVQzcHNabG96OU1mQUFURlZTS2JMTmxfcHk4a2ZxaHU5anFRbVVqS0NRWW9US1pRWFN2d0llNFZxX0hRWmItd0ZHRUU1YnlBZmlIUVE2VF9zM0dFeWw2cUY1SDE0MVZFUQ?oc=5",
@@ -738,6 +770,22 @@
         "summary": "لقطات من مباراة سامسون سبور وطرابزون في الدوري التركي (صور) يلاكورة",
         "player": "",
         "content_hash": "bdbfd8a5365c069c37e89a260271b0fd580275e18be13729a3ce4ec6cd5470c2",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10475,
+        "title": "لماذا يضع لاعبو بايرن ميونخ شرائط لاصقة على آذانهم؟ - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxNa05nM2txSWpvbjl4aWRtS0o1b3VicV9WeEpiVC1NeGRialpHZHZLOGFtZUpVd0tmOF82czRUalc1WFVTeVoxdWEwTzJRUWoycUl4c0JZYTdNcURraVZGaUlNbzRuelY0RE5zNFo2WjdTbzI1ZjlheGtBb2NUcl83YWd4MDY3NW52ZlI3dFZIT05FcF9fU3ZkbG9yeGpLSWxHSlFVZE1KckF3ZU5MWXp2alVJQU1MX19WamYyaVN0OEtXdUc1eFFHMXF6a09ZeHg2TDIwTEt5bEJRNW9xRXpVRmpLMEtXVHZsSEhmZklnZmU0Zndqd2cxNzhMQ1A4RGhZVWpZOHREUnoyRGxJNDlKZ3VXZ2ZqVjQ2MF9EVTMtVHU0QTh6QTc5TF9xUUlyLU1HTE1VZ2xBMjBwUnRJSm9oX0N4S2VRYVlkSE9CUFBoZDVzcjl0QUVOakh1MEhBVmd5VThRWWNCQV9EbEFZV0NOakpPQnhSVEZDM3hudERNWm5lZjg0V3drRDZTbC1HaWRIX0dsTUhyanZXSEhpM25BeTdTZHNkWW9aZUN1QjBsc1NWMzRJc3JQMXhvTC1CenBX0gHGA0FVX3lxTFBEY212anBiTXJWalhjc1k4V2p4akkxU2VaSUxRSzF0akQxQWY1aDg0Xzdpd3p4bUlhUXFiaWxRbkd1N1NnQmpNQzdsX2pZaTNKMXNOVzVveUhpSHZJQ0dyVm1BU3I0MFNQOFU2ZW5uX3ZITm9qWHJMRWEyS2EyZUFaeGMzT0lJelE0bXFsUW1XUEg0NUt3ZVExZ3Ryc3ZNQWN6M1VMbEpoMDdOSURpWUR0N0hfNEF5N1l3ZXNrNUxLWTdtTnhaSTdidjVTNU5XMExRNU5RM3ktODFGSEN0cEt0bTNZSmstV2w1NHpMUC1LQTJqeVV0RG15cnJQNF90X2ozX3VZSDRFN3hoSS1RSFg0WWZZVldreFZJQ0FnUEpPSTRldkxWZDRZQUdPY2hwcExpWnowcVdHODRQWjh3MEg3NWNCZ2xWYUpseVRYS3h1TGpkVjdCV0pFY2RzQVFway1QZzV6dmpLVmJZbk9kREEyODhBcFVObjJzZFhnRGFaVWtoV1hyUm15VW1rN2U2QWdfR3F3SVh2UGZISkJzaFRXdEljVkN5ZkZydS01WEMwXzVaT1Q3SURZTGYwVEVzYWl6VU1RQnc?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 15:05:00 GMT",
+        "discovered": "2026-10-10T15:48:40.248301+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لماذا يضع لاعبو بايرن ميونخ شرائط لاصقة على آذانهم؟",
+        "player": "",
+        "content_hash": "6031e8721caa6324402d146c939ca931e30b1deecc672034f2b9050f295445d5",
         "sent": 0,
         "section": "sports"
       },
@@ -1428,54 +1476,6 @@
         "content_hash": "333666e6e2c2757eebb82948be7d9fcf91b529a3e6ea21656549083211a0cc39",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 10362,
-        "title": "الموعد والقناة الناقلة لمباراة مانشستر يونايتد ضد توتنهام في الدوري الإنجليزي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMigAVBVV95cUxNbUpqV3hBanNwNDB4OUJuS0hBclpKY2R3azV2cDFmOTEtb3JHYVFwNjhfQmFKNXRmTUtGbkhuX3hLWG90U0JLRGUzOGhMVFVDbEt2eVRaLUFZb2pkbkEyOW9MMW5qWnJwNVFkMUVKSFo1RV9RM3B2VW1xcVJVb0JqREdaWjRMUVdfR213eDZFNE5oUnZBWGhWTDVsY19BZkEybV94TlFNNFdZZ1VuU1piN1ZiZlotd1NxWnpERVJGUVhMSDRmQ25XWThZNkRXc05RRkVDUkhJdGRpTzlQUDM1Nzh3ZVE2VUZfWEI2UTB3ZDRYUENIUnVHUU1kYTFJMmNlYkhidXZ5RGozR3pZUzNIQVpoSloza2tYOWNWZkUyMGxBbkNUS1VHT3kya2xJMFYtWm1TVzU2N1FhaUI4aWJ1TjRYS3ZTeU5uRzR2dnh0eHdVajFObHRNVHotSE5FTGNOZTBVNlh4amlKeldneE9wa0piWFFodUdTZk0xSEQ0RjZYa1FOVEVVNm9WS2dqVzlQbno0ekktR0ttQ09MZ1U0RjJsdkwzcXJPQWFub056T1VwazRXMy1jcHBaaS1CX1M1M2g0LXEtcXdPT1F2enhQUk12X25XSWFiV24zLWxGYUhGczctZkhVVjNuS2FZMmlpbUZpOVRXbklWTkczMFloV3U3eTBjOW40Y0h3Rm1aUGN3eWVDU3RWclB2MDFhSUV0alM5QTlwQzJ1bFlJZTNmM1R0X1RFOHRhT2YyRGRhczBnWVJ0U1ZOOUctNFVLRTFBOWhqUG94OWZxRll6cFpRaFE3NllpanJEWVFhOUl5UHFJdk96aUNQM2J0a0g1bWk50gGGBUFVX3lxTFBGYXFMZVRON3k3VnJaNXlxMTJaNkRwcHN6enA5amU5Z0g2QWNwazRPM1otOUJfSTVFZ2NyUnBzNnpIME1nTUVUbTV3V204SjBZSHhyUzQwY0I4cldwZnV2Vk1jVnhjb21ySDZNdEUzR0pheWJFV282bU0yS0RMRmRNdUdTZUdSOTZGTkxnZ1ZWWjdmcjc2NDRidHVJVk8tcVNJTkZrWXZJNUp1d1VKWGJsb1BfOU9Ba0s0ekZENEQ3VFc5QWc1Ym1RQl9kX0pvNkJQR2tndWJDNTV3dmpyU3BjblNWZEpJWFRFLWFqVldsb2FzSWFKTG12ZE1RV3gwQjRqb0F5QW5fdjlfRTE0bGNUOVFKOXZib0RNT3FGUE41c2twcm50bk8xa0VlYnNnNjNUTjhIY2hXQzR0dGpicklLdHBGUm9vY3FoUHFyX0ppNWZzclp3ODE0VkttSS1ISE5KaW1oRjY3UjNwWXVpaWxNZk42clJzU1BFSUJaTGM3OXhyRS1jM011MU9lQTNfdlpGYThqWWxCR0ZpbHlLcmFEbVNZSUw5enozTnBuMFF3ZGc2TTI0ZVlYdW1YMGZ4SmptbXRkdUxBc0VnU3FXVnBnQW82QkdFUW0ySEhhZVhiMndocXNvRW5WWXNXdWpWNC16R0U1Q1cxTzR2M3pzaGs4OTVNUmhuQThXZmpMTGhlTDBXTjZWUTEwbno2UDRWVkV3TFM3NHR1M0RQUmJJSnB2MWJxbUxWR25neUJkVFdPQWlDcFlHMUJVSklVajRmTGd4RjFKNEdrSzE1NTVtRUJVbFc0LWxZN0ZDblZseUFpVVJFdkRHeDBIRnh3eVl0U0Y0dkZmN3c?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 07:30:00 GMT",
-        "discovered": "2026-10-10T07:46:25.992870+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الموعد والقناة الناقلة لمباراة مانشستر يونايتد ضد توتنهام في الدوري الإنجليزي يلاكورة",
-        "player": "",
-        "content_hash": "6819920d7274fa9050d016a94fdcb59441604d4735837a0d37cbf70e3b5782c3",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10451,
-        "title": "مباريات اليوم السبت.. مواجهات صلاح ومرموش.. وصدامات أوروبية مرتقبة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxOZnlvbXdMSXJlbXRZSlR5N01kUzI1U09tZlBSSmNwOHllNThyb2JiSXRKUVFlM2R5OWxPSFZRT3NHVndJeFBVY0RVOGFUTENtNWNZR004enJ3eS1YSG9JLXVCclR3RnZUa3ppQ1ZidmdfQkN5Y3RzV21QdXp5bVlTcjRqWkljMGZDU09QMTd1dVFMMVRsaGd1MGprOGxIRUd2am1SUjNYRC1obURXOXhjNEYxSjdRQ2xKQTBuVXY5SXhhd0hubnVsMjZXeEtSdVJ0TVdsc1dsTmU5Mm50eHRlOFFWdkR6Q1R1amwzaGQwZXZtdUlpN3Qyd0ZNS3RqdXBwLTY0a3o2Y2NOdWZrS2hLMGpVdVZBWWJuUEU0Z21Ia2ZQU3BQU005WGsxV1VyVEFqemFlRGs0OUhwUkhNaDhXZEIyUXFzdmQ4WEhpSUlJeFdqQkFQVVJvalFyQzJxWEJJcXZlT1ZSMG9qSG4wcUxPa3B5SE5WRjRtZGNLTTlFbFhuNF9ONTRyT2FUWU1UQnFtdTcwdFpkeG93bHRrakU0VkJsNHdsUThkNXlsaTdJWEpqc0lTLU1fSVV3SXpXUHRBM2hxV0hsbXVCMHRhR0JXRGZRSDFiOVhZUUdRbWRMdUxhU0JiNHpqVkY2dm53X0hMY3hPSW5NdnE2YzllV3FKSkFBVU1uUU83WC1mdUtjZ283a3VZQnfSAZsEQVVfeXFMTXE3ZnJ5b3JCRnVGZjI3RWRwZmlKTHVPOGlGcVNzVmhpZXZwN2Ntd3hMMUJKVU4zUDRSc2JMeE00UGppMU5UT2k5RkVMd2lYY1dCNlBiQk1sOWJReXdjLTRkSzNTeE1haUVnekdIWFNOV2FkMXkxZXJLYmRCR21YOG1LVkxFWDU4S1JmZ2dmcnBTUlh6WW8xLS0tQnB1blZqV01sSFBtcFZ5V2lGVU11VlM1LU15Yk5rOVI2SnJhRUJhcV9PSWdRQ1pydkpUdTVQeHVOZ2FlTXhQUEU4aE5QSWoyYVNMMnEyT29sQnlXSmJGMmdSTE5mYkoyRXlfRndVNEVzTlBpSkw3Q2ZKOGZoVnBpaWVLdXhINlJnTGV4Ry1GdVlPZEx0aWtnWG5TU01fMXBXLWc0Wm5TYUZTNm5iNnljMUhOdE5GUEhLTEFoWFVXSGlYUTE2Y3dnN2owUzB6Vl93TVdmZXpfS0FwUllueUFjRVBjc0pXMTlXMlE1SFJtWjczS2lPX240RmZ6YXhfc0dwNURxaFNSaXhzaDVBRVVVVWZyQTlOc09raGdIVmVzU3FkV0x2cmw5WWVmZmt2WTlMbExsUXZrMGxGOFIya1hrb0RZX1FjNHFwWjFwRUJDVm5iOHczRXVhWGVlZkc1bUFwUUFNaVZvcVBpTzAtMnI3M3A5LThVVFg2R3FaVGhVbmRQYWpUUU5VWkk?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 07:08:00 GMT",
-        "discovered": "2026-10-10T14:34:14.251282+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباريات اليوم السبت.. مواجهات صلاح ومرموش.. وصدامات أوروبية مرتقبة يلاكورة",
-        "player": "",
-        "content_hash": "12045ae8cc237c62035189e6d7e5b3be017e78f49a5a9c44935c8d2b4417579d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10391,
-        "title": "\"العفو الدولية\": العقوبات الأمريكية تهدف إلى القضاء على الجنائية الدولية - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPLUdLMGFyTWJrNGVkSEctbkdkM0UzTkwtbWhUNFlCd1I4UmJZU1prQ29nOEd0UWtSSHlCMzBtUUxONlhhLVN5MzcxT0dpc1kxem1BTGNyN1JrYVJTTGIyWmQxenNoTGF5cXFZOE9qMG90ckJhVWRkRzlSWWRtVFFneWJSOXB3RTFpcXRvVGk3TTFHdWtaUFUxWFdYdVo5V24xV0Fna3E3MGlydUVwT2xPY0RtNFRGTklnMEJEYjcwc25weFlOWmt0VzlZVUcxc191Z094aWdjODNHR2JONVo4dm1DZkdaTzJfX01JSzVLMTNIcFNWQnp2ajBzbU9TTHVTMXp4RlpVRUV6aU5BQkpIakU1TUU4QU9WLVlEMm5HQWIzbU1tQTN6aUlucHVFMVpYTE94ekdvejZFLTZj?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 06:33:47 GMT",
-        "discovered": "2026-10-10T09:51:35.961623+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "\"العفو الدولية\": العقوبات الأمريكية تهدف إلى القضاء على الجنائية الدولية القدس العربي",
-        "player": "",
-        "content_hash": "2d1aba0f8ac2e3229d3554f4533369b1a94184746fc7cb487a90b96d47d393e3",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1896,22 +1896,6 @@
         "section": "transfers"
       },
       {
-        "id": 9976,
-        "title": "نجم الدوري الأمريكي للسلة.. أتلتيكو مدريد يعلن انضمامه مستثمر جديد بالنادي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxOTkw3MVRkdm8wTklUQXhqTGppTFlsVG1yT1JYajk2c3JVXzBwTmk4d05QcFk0czhTTGVFQUhwTlYya0tkZEIzQkp3X0hkQlRFbTRSclZ6U0ltQkRTRTM4WDlEUzJNdmNrQlExNlRVelRNRW5oTFVDN2dzVXcwai1HRTVnckp1QVNxekRsNVByX3RkMjVxcWtEV2Z0ZE1URkhTMDVQMm5naTdpXzVJV1R2cV9YYW1NT3hDVXB2RFh0X2tORERmNVJubkwwSDdqU2hKTmk4eU9NZFJDTnRKWlhsTHhWRnVZYjhYMXZFc3R2RDlXVUVVWHdkNmxzZjdjRXk3eDhWek0tWTFRc2dyVTR2cGtCVUtyM3d4SFVyWVNkN2tMWm05QjFwaDYzZldCVkRvUmZWTFgwSkNwVFI5NHllUlNkaXUtUDhTUW9fQ3d1VFVBS1Uwb19QcnZnM1ZCTmFJVV9YMlhNOU9RMTBNV19RZ2tnOG8zOWJsNXBvSkN2bDZ4NDY0bVM0Nzl2eFZvdjBsbFlCTDVqUEpfbEpGVEFtNDZpYlRYZURtWUJlc2V4dlh3eVBCZk9vRVhkMkRXcS15MThFVlVreXd3WjlYZktjTzNaNnpiYk10MTA2REpsOTQwZnlKTXJIZ0RlSlRyYnVlMExiNUpJdDVVTUIzb3dTRVo0WUswa21fN2ZNWldOc21tTWNZUjJfeDhWZlZXanZPczdoaEQ4VVVzYTlUSWFPNFdIMEw0cGg5OTZ3V2plLWJBS3pCWEQ0aC1JQldDc1HSAdQEQVVfeXFMTmRIZWtCSlBPcHl5VmhlZDFPY1AtLXBtWDNWQXZsa1B6LUpnM2RLM2UyVWI5bVpyajdIVEhadkd5WUJuejBERHdqNDhjS0YxWkRPVGlVVEtrQmpvUnlka2VSd2EwaHFReWxLSVVsWFdrRXFZMUg0dERuODN5SXp3aFpJcUM3cjM3M3p5eHpyZUVtQ0IzM3ZRSjRXLWNHUDQ2d2E1OEFKejRmb0FmaVBCZVJ4YzNrdHI0alNxcnNfT1hLeGZvYUZPdERiRXlBdnpZNFVKTUNrTDNEeElobEtVNHFCbVU1Z2Y2cXBzZlZ1WlZ2b3hRYUpvaFI0WFI5NTNBMHg5emIzNkQ0eWx1eUN4YjA5MFc1b2Zsd3loMDEtOEJLZmdfc05haHRReGVFR214Mzl0UUNVZXJvYjRSOEt1RGoxMzNlQXNhQkxBODgtOFdmRnNCeGZXM2ZpY24xLTB0TUkxOGFrTXdCSnZ2V2t5Q3pPOHVLLV9uS2NEY0tJYk8zb2ZKUFJDRExNSjN0VmUyT3hSakR4eFFQclJtbmtuTldrSjNIS2Y1NDVjYnpDcEtPekhSYTJpLXVkWE5UTEZ6M0ZkRl95X3RHYy1hS0tGU1A0TmtvMHBCNEdNc0ZNbk9EbG43U1Z3eGhIR0QyNFllSVJTVGtucDdzQVE0TGFuMEhIUTY4ME85M1JUM2w1WGFmX0w3amx4N0pjSkZndEQ2c19jbmZac01NVmdTbURnbkVfcTdzVzdSM0V6WmJuR3k4d1ZORnNESEQ1SXVjeEIwM1JCQ0o?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 20:20:00 GMT",
-        "discovered": "2026-10-09T00:36:33.588062+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "نجم الدوري الأمريكي للسلة.. أتلتيكو مدريد يعلن انضمامه مستثمر جديد بالنادي FilGoal",
-        "player": "",
-        "content_hash": "20f73eb227775b83b46a09e06d7563940d3a814fcd4395a6ce784bda7e47751f",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 9988,
         "title": "معرض مراكش الدولي للطيران: المشاركة الأولى لإسرائيل وحضور إلبيط وشركة الصناعات الجوية الإسرائيلية ورافائيل - Le 360 Arabe",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WU3E2MFQ0THRXZ1ROLXFIQ1NDNEJudl9va3ZVQV9vYjhaNm1fbFZzb3BSbHhSMXdxU2xlbHdwY0VtNlVZaXp5U3VlYzBGYWlXZGpJUTlBVlNTWFRzZUxBMFcwUVdxcTN1?oc=5",
@@ -2166,6 +2150,22 @@
         "summary": "ترمب: نجري محادثات بنّاءة مع إيران ولن نهاجمها قبل الانتخابات الشرق الأوسط",
         "player": "",
         "content_hash": "75301bd192331d5f1c0b639b1b0056cee5666a90bd9a999373a44d822ab4a845",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 10020,
+        "title": "الدفاع المدني: أضرار في روضة وعيادات طبية بالرياض جراء شظايا باليستي - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxNMlRlTzhYQ0tITnRnY0JHWE52MnpjdkEyUkhKUHhmZ1NmRmdwcmt0Zkx5a1VDenl1R0xmUm9pRHRIbnY0NF9nUkt5dUVTUE5IRlpfZERPRVF5Ui1tVG5tcjZHUDBjSmhfNnl3RE5xMDBUUjgyVXVNVkJEZGJ3blQ1NnYtN3FEc1NLQi1PU1FhaTBfZ0dYN3pDa3MzMGRiajFPbVFqcE4xcEl5UXZtbGNvQjZ4TGRHbkpIVlJwcjNIOFhnZjlyankzYzZ3b3RsamlmOTRMUjFEZnB0M1RjZ0RyaFBIak5ZX3JLQ194dFV0dUhXNi1YMlBYR3hZWjc1aC0zeE0zejNVa1l0ejVmMlgwMzVCMnh3ZjBMQllpcXhCLTI4VVlJMjZYWG1vNFRJbWU3Q3NpRWJlZEpkUzdIZ3F5aWxtME1VNUJKM0FGbGlpNVJMN3R2bGJNVmJZd213aVNqYXhoQzJHLWQxRVUweDNObmszNnUzU0tma0hGSTRIcUo5NFVyQ1g2d0wtRlMtYjNtZWNxTHlfaUxWX3pyRHRkOC0yeEN2SC1WeW1aV0h5RE53enRBYV9aOEhPcEJlTlE0cE9sQ2tHaXNIZklmckk4SE5iR3paVklFN1BxbXJTOTN6LTN0UE0yOS1WUE9sWHVVSkNEZlF1TmpGX2FIUGFfOFZZbnhBVFZUSUJscGRza2QxdlUyT01lckc1V0xmRlJzZzE3WGFrNE5fUUp1WHgweF9iT3J4SjJNNEU2YTlQWjVsTEdRYndJU1FMUncyeExOTHo1RWN5M0x2eGVwajdpeGd5WDAybnZwTEJhc0FwOG9ydkdDWXlzQ1QzN3VBNThXbzh5bFl2WUxMUlotcF9rU3ZQdVVQZEVJakNfWVFTZ1Z4QVRvLW14Q2h3?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 14:06:47 GMT",
+        "discovered": "2026-10-09T07:02:35.250050+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "الدفاع المدني: أضرار في روضة وعيادات طبية بالرياض جراء شظايا باليستي الشرق الأوسط",
+        "player": "رياض",
+        "content_hash": "e752e5c0701d607fe849d1f639372a6edbbc9cb25d694eb38baa1d89a6507e94",
         "sent": 0,
         "section": "middle_east"
       }
