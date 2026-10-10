@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T02:09:06.971632+00:00",
+  "updated": "2026-10-10T02:27:04.915479+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1926,22 +1926,6 @@
         "content_hash": "0e5c80aa9bcfa0546442943c8ab11575b253c10f427112511d69723ba12eeca7",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 10094,
-        "title": "إندريك \"يوافق\" على الرحيل لميلان.. فهل يكرّر سيناريو براهيم دياز؟ - الشرق رياضة",
-        "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxQbklWa25MOERnd2tvNHM4WXVVTngtUGo4ZXI0N2Fqc1habTV1b2dZRUJxNGl6SFpSVHd4Unk5UEhKUXIxb0VMRVlLbzBBV1BQWmVOcTlyNXhabElvN0YyOWRTWkZkRHFLYjlRdXNzUzV6U2h4MndUTF9mSFlJaE9iSERCNEZTS3hRQU9HbXplNjVHOGhuNnVNczBlOEF4V0RuQVRJd09QVXJjZXoxSFBNeEEyWGJ6MnFwczZyamlGeEhQd0k5NFRjVUZQQkRiNnV6akIxTjNobU1ka3FNN1VRNmdxczZOMjRCN2RGRjRSNzlTWGh1dTZwdkRrUEl0OWlxS0RmQS1oSE1oNzFPUno2aVBXRHM1YXBNT2JlendzaHNKUVNkaVpWUy1rXzdRVVNrV0QxZ0oxSGpBU014LTR2SmdCM1kza2o1dlg4N282OHV0c1lNcWNwNUVqOHZfNENOeG5hWGk1d2FNNFRpbXVPek9FNEhxVmk2cWVCMnBiTFpUclNnWWpBRTBVRjRWdnRvT0pfQlB4RURHSkZtcjdab1BWSTM5RGw2bVU4Z1lGcXRQd0c2VEctVDlUTnR4RWZzQzZZZmRXS3pZYTVfbi1lMDJPb2FjZUFCQkx2RWMwLTJxYUtTX2FVUlpBLV91MjhUdFU5LWR1bw?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 13:22:42 GMT",
-        "discovered": "2026-10-09T14:27:27.080943+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "إندريك \"يوافق\" على الرحيل لميلان.. فهل يكرّر سيناريو براهيم دياز؟ الشرق رياضة",
-        "player": "براهيم دياز",
-        "content_hash": "f6eb5756b3ab7bfd45e5dff1c124726d40fa112e8476d37bb34c3dc4ce600f6b",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2155,6 +2139,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 10316,
+        "title": "الانتخابات الإسرائيلية وأوهام السلام | عبدالحليم قنديل - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNTG5GS1ZKSTNkTFJHaXg0SHVJRDRkRERleUtqcEZOLWNvYV9TcFpOQjFmcGJvWWN1SGs3aWFNVzFhYXQyX2ZoR01KQ3dwVUhNdGxLYlpIWDlFM1FGTG1oY2RIUFBCM3dCdzlBX3JEdDdZMkg0eGZ3U1c5MEJxd2VBWGhEQW93S1B3cFZaVDFJNWFKekVXUzJuVjFTSC1JMHJFOTlIbzVUczlxVVBFbFBIUXhCTnF0b0ttX0dwRUUwQzB6NXdZLTFBTFJReVJFeHNtd29qd0ZWeTBmZkFTNEswT3p0WC1sRFEwa21kcEZ4MjJqZ2gwZTZKUjI2eHBld0d4ZWNxNS16RHBscTBQblpMV3dhUGJITDd1azc0WHlCSzliWHhmZVExZDY5VmYycXlEY1h3cHNCVzQxRmhsWjNlVXU0MA?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 20:17:56 GMT",
+        "discovered": "2026-10-10T02:27:00.279970+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "الانتخابات الإسرائيلية وأوهام السلام | عبدالحليم قنديل القدس العربي",
+        "player": "",
+        "content_hash": "5f7cc8a4bc6200abda5898be2e0394cf8d0b5ef6764f1cd1ce5151ce236dd5d9",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 10144,
         "title": "تدخل وزارة التعليم وبلاغ ضد مدرس مصري بعد انتقاده هدى شعراوي وصفية زغلول - DW.com",
