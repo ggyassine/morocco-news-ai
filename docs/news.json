@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T08:14:49.990158+00:00",
+  "updated": "2026-10-10T08:32:44.612560+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -32,6 +32,38 @@
         "summary": "رجل وامرأة في قبضة أمن مراكش لضلوعها في النصب والاحتيال Le 360 Arabe",
         "player": "",
         "content_hash": "c89f01e37b2b87f20807123bfe08eaea5df162530eea34d01a94230be50e70e9",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 10372,
+        "title": "ديابو: اصطدام تسع سيارات وإصابة عشرة أشخاص بفاس - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DQzBlUnF4WjZFNktLUXB2MVYtV2JrWHI4dHVibmU0S2JNdTN0ems1Z1E4YW1jakF3enpiTlB0N1d1SUVFbm9XV1VsaDJER3c5c3AxQlk3ZXFabW9INDB2VTFrTFk0Zw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Fri, 09 Oct 2026 21:20:46 GMT",
+        "discovered": "2026-10-10T08:32:13.199408+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "ديابو: اصطدام تسع سيارات وإصابة عشرة أشخاص بفاس Le 360 Arabe",
+        "player": "",
+        "content_hash": "67deeaaef4558b1668e886b8fb49e45950eba4711488b704209f686a77fc67d5",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 10370,
+        "title": "شاحنة للنظافة تتسبب في اصطدام تسع سيارات وإصابة عشرة أشخاص بفاس - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UN3dTM3VCTllQekVhUVBJUnU4WExoRHlrUFFYWUotbWVkRURtWGxBN1IyOUdzeWxlUjh3VzhZZ0MwRHRrUXZvTk9XU2F3ZFI5Y1R4cTRMSDB5N3VLVHFyYmdrWGVpZw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Fri, 09 Oct 2026 21:20:46 GMT",
+        "discovered": "2026-10-10T08:32:13.177957+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "شاحنة للنظافة تتسبب في اصطدام تسع سيارات وإصابة عشرة أشخاص بفاس Le 360 Arabe",
+        "player": "",
+        "content_hash": "6b58045ab3150459cbcb005e997890ecc027c64f729732df099cbb5ba3228c92",
         "sent": 0,
         "section": "morocco"
       },
@@ -308,6 +340,22 @@
         "section": "morocco"
       },
       {
+        "id": 10373,
+        "title": "أمن طنجة يطيح بمواطن إسباني ملاحق دوليا بتهم التهريب وغسل الأموال - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ybnB4SGVlRmFQWWlsUjh0Qy1LLUJLNUhuX19HRVM1TTBBWTdfOXBLcHF1OGNaZWswc1A5QW5XaGxvbmFyQzdJNjRwal9vR2duc2hhRmhxeHZhTmRNemRoTXFEbDZZQQ?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Fri, 09 Oct 2026 10:39:35 GMT",
+        "discovered": "2026-10-10T08:32:13.202513+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "أمن طنجة يطيح بمواطن إسباني ملاحق دوليا بتهم التهريب وغسل الأموال Le 360 Arabe",
+        "player": "",
+        "content_hash": "ab3368398dad0bf65998051818aebc970898e6bba312a5f8784ae311e7769455",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
         "id": 10056,
         "title": "غواتيمالا تجدد دعمها لسيادة المغرب ووحدته الترابية - Febrayer",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HU3JWMm9jNzYzZk13WFN2ZGFoR3JXZEd4S0FYcWx4cFJTYzNrWTA2Z21aV1ZJS1hZS0w4VVVPYVFydXFKTk9hRw?oc=5",
@@ -532,34 +580,18 @@
         "section": "morocco"
       },
       {
-        "id": 9865,
-        "title": "أم مغربية تمنع ابنها من الاحتجاج بباريس - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4WkhCWXZVRlBBTGgwdkZXRk96RnFpSGdBR2trYThZbG9lZkhFWEx1a2d0RjdIWEJwalc5UUM0QlBpemliZ0xQb0t1ZGM3aEUtdW8zM1RFWm1SM1B3a2fSAWNBVV95cUxQOG1aOWh4eW1DQVVtVmdfd1dQR0pWZ1UxWk93OV9MTzVvNmxSVnd3d25pVE9EbXI1TVRLdnZGNmh3RXFLQldFd3NYLS1LeWdpMVpRY2hLYTlIcnV0NjIyTnRMMTQ?oc=5",
-        "source": "BBC عربي",
+        "id": 10368,
+        "title": "استئنافية طنجة تشرع في التحقيق التفصيلي مع المتهمين في ملف «حقيبة الأوراق الانتخابية المزورة - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMd1p0dzIweElQUWtMSHQ1OFpuS0R2YlJzMzlOQkc2MWpqcXp3WDgtWG5McGxraDFTdnduRnViWUh0ei10X2IwYzFhY3liNWdGSHZyWmg0M2V1aFMtNFFhM3JlNkw0Zw?oc=5",
+        "source": "Le360 عربي",
         "trust": "B",
-        "published": "Thu, 08 Oct 2026 17:05:46 GMT",
-        "discovered": "2026-10-08T17:19:33.827004+00:00",
+        "published": "Thu, 08 Oct 2026 18:21:08 GMT",
+        "discovered": "2026-10-10T08:32:13.166361+00:00",
         "category": "أخبار المغرب",
         "status": "غير واضح",
-        "summary": "أم مغربية تمنع ابنها من الاحتجاج بباريس BBC",
+        "summary": "استئنافية طنجة تشرع في التحقيق التفصيلي مع المتهمين في ملف «حقيبة الأوراق الانتخابية المزورة Le 360 Arabe",
         "player": "",
-        "content_hash": "0fa4c8706bf0cc6b81f1eb00d64fc5beeaae241ad3e19a8a2c0429f853858972",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 10184,
-        "title": "هزت المنصات وطغت على الاحتجاجات.. ما قصة \"أم الأسبوع\" المغربية في فرنسا؟ - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOYWJwOHJoQWNLUGpkNjN0YnkzRFh1Nlp4T1daS2xlMERuX25Sc1hYUm5LUS1mMVVKX1RTWmtONjE5SkU5dzJVTU5BVS12akNhQ2N0YVl0QU52Q1JxV2tDQ1V0Q1dsUnlfaEo4Nk5LdEI1dl9NbHd4WE5zdmpBYW1XelRvOGxYSjZaM3VEdFJLRVoxNDF2d1NFQ2JhanRPcmNqbkpnOEZaVFV5TldCWmZReS1XQ2tWd0hsUVBoWWVDZW1ScjNWcTV0WTBWNjdEVnNSZWVNakFBaGhGZE04VmQ4bHRYbmNtRkk2cF9OQ05UMC1EWndsVVFBNkdBa1ZoOWt3NVVpdjlEb2gyVWtSeVFSRWRoUVNqM0IzdzZmWmgwNEVpbXNza19aYjFELVA5RDY4T3BwS1d6ZS1zMVZOQnhxR2Q1cjJFTERNeVlQZ25sMWNTODU2cVQ1X1gyNNIB4AJBVV95cUxQZlhZZXhpQ2NvN2VjblBtQWdrSkU1UFRYMlZXZ3doMWtvOUhfNC1WdHFrN3hnbnFRNWVMeWQwazFocDcyanB0NmVsZ2FtbUM3U1VsYmpWTXpTLS12Z1pSd194aTAxQnBJeWxUelROWjRoNjZUTUp5WnFRX0ZPMUR3a2l5S3RFcnhsVVRUa3laR19lYWN2VXRaZVlhMUxjd3VnOHR6WGYtTEVRNkppX2swSUlKRnI4ZEsyelVUMTctbXlhVDF1ZGdJTXBYSUhTcWJQSGJXUUVicXdRSlJMaGFqME83bk1JZ2hHTTlHeXBsbWNJQW1yRTBzaGp6am16UEV3OEdHc0RvQV9wQWxvSnNZRnRkUHhhUm5FX3plVldlVFZPX19qYlo4UENRUmlNMGJ3S2dHcTF1OEM1LU8zc3c2MW4tVWlqeWpxbS00TWU1d1RySGNNWklXRXBkbjU1Tkll?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 16:03:50 GMT",
-        "discovered": "2026-10-09T20:12:34.546905+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "هزت المنصات وطغت على الاحتجاجات.. ما قصة \"أم الأسبوع\" المغربية في فرنسا؟ الجزيرة نت",
-        "player": "",
-        "content_hash": "9d2426c8054e33fd01e807c4b71495def4cb18f5bdbfedf54374816725f0ce41",
+        "content_hash": "477d038a789b05cc057577e93ac7ab6b2c6664d24d3116ceff05da60449da9af",
         "sent": 0,
         "section": "morocco"
       }
@@ -1880,22 +1912,6 @@
         "section": "transfers"
       },
       {
-        "id": 9867,
-        "title": "مصدر من الزمالك يكشف لـ في الجول حقيقة التوقيع مع الزناتي لتولي منصب المدير الرياضي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMijAVBVV95cUxOSWpyejZlbnRMaU1DZGJwZFUzNEZuRmJfYWJxMTRVMUJhWmpOdEppQnhIX3NGR3FFUE1oRzVCVGpNV1B3WXh3RWR5enVwLVl6UUJfcE5WT1B4SW1xNlp2S1NXVXRkeVk3YUxZamZxbXZiVmFwS2k5N0dqa1FVWi0yUm10WjhCQzRtVW5qRm5hTmxaQldPWkJJa0dNOXZtYzlpUFdienlOWW5jZ0RQdG9uT3hNRDZDQ09MUXpWU0MzRVFCbm42TGtGS2Q0QmFpd1RiRGRVdXRHc0xiemNmUVpxMkZhWDl0QlBCOC1nSU83a2xNM3A1TFA4MksybHNOLXBua2R6cTNCNnVYWHdIZlFnZ0l1ZDlad2x1WmEzQV9vTjhnQTVwUS0yR3FYbDc2akpZaXhmUnNaLVhGWnVVYUxYZkZkTGhLbUJhSzVhRXRnSzd5NlI0OG05XzNoamx4bWIyZmkyb0QwVjU2bC1KNHVZZWxYV3BLTlZzU1oxdXlmbjRhcmlDWU41aTU3YlJfSy1kN09JVDZnTmhzaENPWlg5ankxUHFxSFRzdklOZHIxUEtGdkZPWFRBdkVtRHdOSUEwODFpNGtHaDE1UUdMMXh4MWRvOTV6a01TZEpZc3pCRnF6WEFTc2J0NVJRSjNKdkhidlJoQmFVb1FEODVYRlBUR3hMbzdTZHYwOUg5UU5jazY2WHlMOGtBcVUzY1FNbDhPLXBXTUxOZWRSTzZDZERaNlpHVFl0NlNRV0JET2Q0LUxOZE1NZWwzZW1CR3NibHlLcC16Uy1qUUIxbTEtYkhQTldBLUdmbWh6ZE1WYWJlVHItNzJzZG9icVJnX3hoRmRnZ0ZraW5oMjNDekRT0gGSBUFVX3lxTE45Z1dYVUo5N3F0bk9BcHFaT0RaTlVFT2hCcGs1UmhTX284bW1RUTRiNFQ3UEpMbjZZTV9WYzAxb1VPclFhUkhyOEhkTUJuQzdpTEVyaXNHbTVoNFlEbTQycm5LSFZpUFRUSzllLXlITW5ZZFF2X0w4R2RmT01ZdWRJYzN6cmhGWWNjMnZPR01UcHFqUFZldHNsTnA2ak9fV2FHZ0ZpbGR2ZVVjTXFnT3BXdFJQNXpjYThhREVQTW9Ma3ZXU0lKWUhlcEpVVlNUT2Zxa0RLNDc0RC1nYWJ6ckRFX1dUd0dLTG14ZFltcVBScFVodUNqQTRVNU1Yb3FJNlF4MVc1VFN3YjA5U0lBOEwwU0tHWWlzLWxaVHdKTi1oN0VoR0xmZ09Xbk5reS01UVFIOE1naDkyTDEybG5mY1FzSHpoX0tfcFo0M2VvNkh5RU5zX0NwWmJpNUVPNTByNl90SE9TYVlGNGkxZkZhMS1OaTZNdFNTc1NGLUNOeWtfS09MMjl2YzFmcVZ1c0VvV2dNNmZ5X195ejZBbGpfbVdUdy1aYmh0ZWRCeW1ZTEs0QTNlRlFxSm1ZTjdJVVVvVEs2X3ZZQUwzSjZPWURVRXdtb2RScXpGamN6d2o1RHlpQlM3WFZrQUc0d1Zjemp5enRLWWVtVTNUemx6a25BQ3Y0TUMwSW50RlRlRWZYMmNWTzZ3MUhEcmR3NTBKbDJ1dXp3MG5TaVM3MkRQM01vdEtwVEx1U0J6aEs2MHpTbEdxekMtcWV5b0dXa3dTc3R1ek41ZC1lMHNwckV0VEtSU1JtSFhXMEtja3EwZW1rdWNZYjFoOFFVMWVVTmk0cFJxRG56bDdDY3Z5VTJaWlk0S3lmMGc?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 17:13:00 GMT",
-        "discovered": "2026-10-08T17:37:08.455385+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "مصدر من الزمالك يكشف لـ في الجول حقيقة التوقيع مع الزناتي لتولي منصب المدير الرياضي FilGoal",
-        "player": "رياض",
-        "content_hash": "639d8d3238ad9d5201daaacbd0ae2cca0dd9572f8c70932ba84ea9b61e4f33e9",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 9928,
         "title": "صفقة الأهلي المرتقبة.. عبد الناصر يصنع هدفا في ظهوره الأول هذا الموسم (فيديو) - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxPeTZnamJuS3pyTFdXNU5rdTFRdWJOUGdGRkRMdFhWZ1hXX1RLbmVaeWZYemlRQ21mZDJGMTlOWXF3UTQzRU44REowekI4NVpObEc1UHRxU1dxMmNfMmYyMmNZQkE5d1pmbHpsN2Rqampld3BibkM2QmF5b1VXQl8xdDJFcjdhVWRGNnZaZzl6cjB2OWVIb2FEdEQ5NFUyMU1WTS1QYm1ZUnMwRERGS0Q5b01Pb2I3M3ZBeTJELXdFbEpjQXByTzJBa2xnNVJFZkZUYlREV1NWSXhrdG95SFVUVExfQXRYTHlSVUxPamZYMWZLZ0xwS0x4TXQtZzg4X09wX2d5b2lrMWpLa0g3NnVMQWtGdXpMZi1NY2NhS1lMaGRmS1ZwcDhOUHZlSnhBdlRIVm1lS0tPcTFNOV9WNlRncFUwTjRWUU5vaWxNdi1qWWN5ZWlmUm93bGdFamplRG53dWZITERpaFZkN0s2RG5teUl3U0V0ZjlkSWhwckg0bWdZamNlZUo1cThJUy1XMTJoXzd2NFpXSTFrTHM2Vkhpa1RCa2ZfVm14cTNfU0tSZ0JpcnlEbjEwWjhNYVBZRzhBVzBlNl9xOWQ5WFlFM0NwUlZJenBQeEd6Wl9oTEM1ZV9TYXFmemU2TWNUdmNQOGtKTlRIdkxaclNsMl9BdGhXa0ZabVZfZHJjVnl6RW9mT0ZNTzJJTWVmcjRoRWpTMmcySXg0UFRNcHRKU3BnMlNMN3EzNUVxNlozVWFob3RUR3FBd2RzXzFKOWdXeHlBYmFvZ2hUWWg5U3BRMmhFQlphU1ZYTTJWUlhzRXfSAe8EQVVfeXFMUFRHcHhlRjJhSkc1WUswR0trQXlzXzFHNFFPTVdiUGp4b1pBUnV4UGJ0NjkzYWxUX002ZGthWkpJbmJJUXkxQXBmZW84RWlKWW0wVVZRdUc5MktHblBlWHNQdm1JWEtsLWNQcEZGaUdZZlhEM0J4dEVXcjZWX2xsdVJOVS1zc2pYcFpTSFEyRzBBSl9idkVkMFJnTVZ2WFhPV0hLUDd6M29DX0lCRERPOXZxUDBOcDNqaUJELUsyYTBXbVBrSHBaYlhMZ2k3X0FVcG12Umt0dnhxb1gydWFUN1gtc1A5a3N4TkVIQ3Q0MGFiMndnR3VCOGZKVVdsVXN5UTlqWmNxWk85VHZ5UFRnWTBvWGpPa3IzTVNuSWlGMlBQQXFWTi1McDd6MGJkUm54djB3X3FEMnE4MDNDcFhuU2VVY0FKQ1FjS2Z4dDh3WXJlcnRzY3d4UWNORUtUTnJlMXdEeUZrNTIyVDF0ZDhNOS1Zb3BsamZZZVgxYTJLMGNRQ2kxSGdtdlo1MlRNcUhyWHdvOGpoNlE2U1pfVnpsVmkyQld6VGQwc0EtcjZ6d2JNMlktOXVWQ3FCcVhPSVlfTU1xMWc2RzEwWlNCRnkwWFY1ck9tR291VkdfcDc3Vmp6dDdETmtEclZQWnB3djlBSmVvR240U1FlcGczMEVTaWZ5QjNBY3FwMkhFNjlVbkNaSVJSdzRfYmxCOUVPRDRYcHFvQ3BFc09NVVV1V19uUkZ6a1g2R1BidmVXRG1KZE1MOUNXbFZhcVVXLUtUdGlzYjRLV1JEd24zeWJGQy1ZZ2o4Q2ExUTFtTDRyNm9SUnM?oc=5",
@@ -2392,22 +2408,6 @@
         "summary": "ترامب: لن نهاجم إيران قبل الانتخابات… وعراقجي: سنرد على المقترحات الأمريكية خلال أيام القدس العربي",
         "player": "",
         "content_hash": "05cd8ac8c01e480a4b62485fdbb51780ed5b14d6c1e1304e9662ec1f146bab02",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 9884,
-        "title": "شركات طيران تعلق رحلاتها إلى الرياض مؤقتا بسبب الأوضاع الإقليمية - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNTmpfRFRaWmFNZ3pfU2JNMXFxcVlzNkZ3dF9oc3hjcVVmemhrUGRJWTlwQVdtX0NpdG9WVUtKazhOQk1RSkxHdDQ5LWJKSW95QmhNcGlaVHB3VXpHQjUtMGRNWi0yMEg4a2NpdnRGYW53VmZZcm1WVFhVYllKOUIzQldyVUVHUnlrX2p4U0pVcjlXallOSmlmVVY4cENfaFhydHo2TDlyTjVoV3IwR0RxNThJMmVOYU1lMVgzXzBaUTQ4M0JRbDRULUpaTW1WSVF0TDFQN1Njd0Q1LW1QLTRSM2RMRzIyc185MVNYcEZleHoyQmxKZktGSVMtenVGNUVCdnktZ3h4VjFlTUJacDZrNmN6VFRyS3hsU29ZNmNwYThyd0p0a19IajNucTM1STNVci1tMGN4N25KZzdZZzFXZVhkbHRqYjA?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 15:35:31 GMT",
-        "discovered": "2026-10-08T18:29:22.008209+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "شركات طيران تعلق رحلاتها إلى الرياض مؤقتا بسبب الأوضاع الإقليمية القدس العربي",
-        "player": "رياض",
-        "content_hash": "2121442c73dd34c3d294535dbdfec09ab62524a0579d1403042b5a8828ee7289",
         "sent": 0,
         "section": "world_arabic"
       }
