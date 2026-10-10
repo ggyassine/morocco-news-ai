@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T03:14:18.273377+00:00",
+  "updated": "2026-10-10T03:33:21.488274+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1560,6 +1560,22 @@
         "section": "transfers"
       },
       {
+        "id": 10320,
+        "title": "ناشط سياسي مصري يخشى ترحيله من الدنمارك - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQYkZDcVJtN0VoZFdZeEJhNVBoTk1JRVY5SHpFSVRmYklmaDVfUHQ3Vk9jY1otSVdES0xLZVFFZ2plY2x0akstbDhwTUNLMUc5QVNtRk1nOG52VWtPUE1pSTNJSEFOUXFSQWxmUlFPMmxLQkR6RzNwQW9EWHdpVUpaemludGRFajZoNjE0MFF6bGRSNUpwOFc1cHFXWEprZ1NTb0ZXTDN6clY5T3BudnBnUElKLXNmOTgzMVJHWGREazNuc3o3TTJGakZFX1JtTlhicjVfbWVvOVdXd0Y3d0lXc2RkOUptck1yWU55cXZTZWJWT29SSlppb3dGZzg5amFaWkthY2J0WThDbXlOb09qNTh3aDdVb0ZUcGxEU2h1RGk5OXoyMDI1bzBEWkU3dEo3VUcyZXFqZk9Uc1BmczU2dlpiazVWNzkzdkdHUHVOa2QzTVdKNF9LNllR0gHfAkFVX3lxTFBlcm9jZHFvUnNWRXM5LU9ubFhWVEN1aUlHcVRzSmNVakdsSjluM3VQcllra1JCSzZ0NjRlQ21UYnYwT1ZDb2czbXJaNE5wSVRvbXZia3hqbnFGX2ZZSS1sWURocGp6dkdNQzRNSGM0QWVXRXJZQTF2eEc2LXpJUEJfdWplczRJYWtHQmZaN0hacDNmM2ZzUjJXTTFNNFdieG5JdnRZRUhJQ1EydlFBbWZ6R051bVlvVVl4SlJOY3JsMTJiWFNILXJPRVVid0NiSnQ0RC1QdXloSTBILU5ZV0xwd1RZWkJtWmZTTHE1bUhYOUJ0c1R3M21Cc3cydlpGLV9oWTJqTHJtazZ0aWF1NFE4QU5MSWQweXF6bThPWC05bVgtdlVxVWtVTEllVjJrdGFhY1ZXd1lIQ29nQzhJM2MxQnA1X29vU1ZCcUZTT3ZlVjhwU1hLQkZTVnRFMnZsbw?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Fri, 09 Oct 2026 14:01:42 GMT",
+        "discovered": "2026-10-10T03:33:15.199691+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "ناشط سياسي مصري يخشى ترحيله من الدنمارك العربي الجديد",
+        "player": "",
+        "content_hash": "48fd2232bbd84f3dc049ce8d96c472cbbd62f87810f573be2cb6a9e964feb0db",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 10088,
         "title": "معرض مراكش للطيران.. شركات دولية تتطلع إلى توسيع استثماراتها الصناعية بالمغرب - Febrayer",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VSWI3QjNmSGxsSHFMa0t3SkhEeTdyTVUzMnJtcTRwRHI1VE9Pd0tkUUF6N2pHOEpHSzhlMzVIQ2dNalFmYUJRWg?oc=5",
@@ -2118,22 +2134,6 @@
         "summary": "السعودية: أضرار مادية في الرياض جراء شظايا صاروخ باليستي الجزيرة نت",
         "player": "رياض",
         "content_hash": "8ef7857dd544bbf0b991ab753bb6d8fc3d07ac2e4133a9c7f4e1fb202db06b62",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 10020,
-        "title": "الدفاع المدني: أضرار في روضة وعيادات طبية بالرياض جراء شظايا باليستي - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxNMlRlTzhYQ0tITnRnY0JHWE52MnpjdkEyUkhKUHhmZ1NmRmdwcmt0Zkx5a1VDenl1R0xmUm9pRHRIbnY0NF9nUkt5dUVTUE5IRlpfZERPRVF5Ui1tVG5tcjZHUDBjSmhfNnl3RE5xMDBUUjgyVXVNVkJEZGJ3blQ1NnYtN3FEc1NLQi1PU1FhaTBfZ0dYN3pDa3MzMGRiajFPbVFqcE4xcEl5UXZtbGNvQjZ4TGRHbkpIVlJwcjNIOFhnZjlyankzYzZ3b3RsamlmOTRMUjFEZnB0M1RjZ0RyaFBIak5ZX3JLQ194dFV0dUhXNi1YMlBYR3hZWjc1aC0zeE0zejNVa1l0ejVmMlgwMzVCMnh3ZjBMQllpcXhCLTI4VVlJMjZYWG1vNFRJbWU3Q3NpRWJlZEpkUzdIZ3F5aWxtME1VNUJKM0FGbGlpNVJMN3R2bGJNVmJZd213aVNqYXhoQzJHLWQxRVUweDNObmszNnUzU0tma0hGSTRIcUo5NFVyQ1g2d0wtRlMtYjNtZWNxTHlfaUxWX3pyRHRkOC0yeEN2SC1WeW1aV0h5RE53enRBYV9aOEhPcEJlTlE0cE9sQ2tHaXNIZklmckk4SE5iR3paVklFN1BxbXJTOTN6LTN0UE0yOS1WUE9sWHVVSkNEZlF1TmpGX2FIUGFfOFZZbnhBVFZUSUJscGRza2QxdlUyT01lckc1V0xmRlJzZzE3WGFrNE5fUUp1WHgweF9iT3J4SjJNNEU2YTlQWjVsTEdRYndJU1FMUncyeExOTHo1RWN5M0x2eGVwajdpeGd5WDAybnZwTEJhc0FwOG9ydkdDWXlzQ1QzN3VBNThXbzh5bFl2WUxMUlotcF9rU3ZQdVVQZEVJakNfWVFTZ1Z4QVRvLW14Q2h3?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 14:06:47 GMT",
-        "discovered": "2026-10-09T07:02:35.250050+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "الدفاع المدني: أضرار في روضة وعيادات طبية بالرياض جراء شظايا باليستي الشرق الأوسط",
-        "player": "رياض",
-        "content_hash": "e752e5c0701d607fe849d1f639372a6edbbc9cb25d694eb38baa1d89a6507e94",
         "sent": 0,
         "section": "middle_east"
       }
