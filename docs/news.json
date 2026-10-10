@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T22:58:47.414016+00:00",
+  "updated": "2026-10-10T23:12:03.147680+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -432,22 +432,6 @@
         "summary": "اعتزاز الملك بمغربيته.. عقيدة انتماء ومحرك للمسؤولية الوطنية Le 360 Arabe",
         "player": "",
         "content_hash": "6287d4617358756b57dbe339af4874ee8a834132fb7a7fef72cb283e6a298950",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 10137,
-        "title": "الملك يرفض تحويل \"ملف الهجرة\" بين المغرب وإسبانيا إلى موضوع للضغط أو التهديد أو الابتزار - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmS0QtOGFrR1k3cGdCZzZmN1FJOWd0clpIMGxfME14cENOSzNPT1JNRjE0RWJ5UXhvOXE2cERCb0RXVWp1M19CTA?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 16:49:55 GMT",
-        "discovered": "2026-10-09T17:26:52.986071+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الملك يرفض تحويل \"ملف الهجرة\" بين المغرب وإسبانيا إلى موضوع للضغط أو التهديد أو الابتزار Febrayer",
-        "player": "",
-        "content_hash": "e4949cc16eb01dd7d022bf78231e08d1674733c7d317c0f7664b0c121929ac34",
         "sent": 0,
         "section": "morocco"
       },
@@ -1094,6 +1078,22 @@
         "section": "sports"
       },
       {
+        "id": 10641,
+        "title": "تحضيرا لكأس الخليج.. منتخب مصر للناشئين يهزم الاتحاد السكندري بهدف سعودي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxQWk1ncFFxd2p2cUczUFY3UUQxT3VTbGVUSUZ0T1UwUjZDUGM3V2R5XzNfZHdoclExaDdIcjFXN2FDd0lmcy1jX0U1NHNrc2M3S09RZEduY2phOFZOWE5nMThsWldnY0dJYWtub2RZcGRzSWJSQVM0eVpLSHd4ZnVMZy0xVTBWbjQ2UHVReXdFSFFiQjNzbnBkWk9SOVh0dkMtVXYteEx5dXU0NW03WHpySzlha0Mtc3BtWWtNd0VhanBBOWxtbWx0N0V6Rk0xSXppY002ZU1JOEI3WnpkaHI3R19pZjkxV05Uc3VYYzBZRWJCTU1tTUZVYVVfQW4ydUFTWVhrTmlKaWpidHFjM2RsTHQzVWdhU2g0Z0w4REZsNl91VGNXcDZhUldIbHVNVDJHdzNlSHN3eVhZNkRkejBPVFl4MjJXUHRWcE1tcXpTQWFTbVgweXlHbHo5bFJJT2o4cnFzNTRlX1cyeU1xLVlSU1FfMENEOWRmSTF3ZU13TFZjUGhvRUx3T1hqS3BYUDE0TGxKcWNJRFFTUC1CbnpZVDdwaUxRR3JYZ1A2R3M5NFRuSzZlQVNRbFdLZkdoQWtHY0F1NU1aR2lpV3J1Y0tpZS0tM0wxM29OZEg1TmRmMzBqZl8xTTFTdTFsVTZSUV9UdkFxd3lPa24xUnFJWkd5Y1NrOWo2NkhEcXJFckRLUExhV2JlbnllNWJTYVB2MmEzZHQ2Mm50bTcxa2ozNF9sTHNtb2JVQm1sajVpNjZoQdIBxARBVV95cUxQRXlCTDlhRHlPejZoSDBjT2E2NU84WXZfUFk4dkhjSDBKVURTVkxTRXF1WDVyWHZ4bFVkRnZJRF9lakRhQy04blBTQlBnWW9YSmphV2FLTXNyZk9vajE4ZGVETlV3NjhGeE5YbUNlVTR2c3ZLeWdLaGtJb2VWaE04NWV0Nzc2QjdoS2pJSzA1WXhmbkRET0kydVdkQk0wZV9zX25KODJRc2gyLUpwMWYxZ2MySmhlcm1XMVBrOVp5Mlp1QldTX0Z3eUNNZnAtaUJLcGFOVjdta2N2VXFHQzZUa3RSQ3U0UVNJMWE5SGlBaS1jM3N3WC1TRVlhb0hSY3hDYWlZdjM4OUJNaktqMjY1YjdKSVJEbG10T3BRazhtZW1PYkdjZmhPZndtT1l4OUlsTXBmanBsYVhYejNrSFlwbnE5X3l5RzJNaVpnOFpXbE9UbDdLdkw4VzJuUVEwR3AzendfS0psTm11WXhaUkxnRkdpbTRDWU1QLTk4QXRheC1CSlZyTzBud1JGdHoyOTB3eENXNkp0RUxoNWJPaTRKNm5fMnB3b1VVVTZtVkhzZ1JkUVRPejg5UGFsVTJ3MGpJR2hBcUl5eWFrUGVwZDRkTWMtdk4yeXhQdWhSSEJvX1dOVDlOSTZFMWx4UkJTUm80M2Y2TnBQNmFEQjBPbURkM29KaTM3YXBYSGZ1RGg2ZzVtRUNTY3Z1enU0U3BCODluLUxNU1lKamZkN0F2T1lWRzAxMVdNU09qMUdadDdSUklHZjNO?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 19:36:00 GMT",
+        "discovered": "2026-10-10T23:11:46.997801+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تحضيرا لكأس الخليج.. منتخب مصر للناشئين يهزم الاتحاد السكندري بهدف سعودي FilGoal",
+        "player": "",
+        "content_hash": "c88d1162aebbeca4592e958b10d327b24af6128871d1cf8fc890d79c4eacf37f",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10558,
         "title": "«ناسا» تستهدف حفرة غامضة على سطح القمر بحثاً عن عالم كبير تحت السطح - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQZzJya3NrZE55VWpDRmZmVDVwVnRzeUZvZVlUaGZPV0lSY1dqcGxKNFNjT1cwa256Z29wV2NwN1JNc0llZUh2bFBla1d4QjR1MTg0MXhNV2g3V0VlNDZlcjk3WUQyWUU1aThPVHU3VDg0Z2hOcDlGUUdQTzRnQnNYQzJsVVgtTGNEM2J0U1dRVE1PRkY4VVRqQzQyb2dYblNoNXZxNllFX3pQSUlyNnNJQ0NlZFdQRnNOZUNZQnV4UFJ3amFVT2VDejdHd2tJczJtb2Jyc1F1aElQQVhWMGxRdGZNN0JkTm41VmlWbFQ5RmY0T1BnZXJ4dWw1ekZxVVpWbXZ5TlhDMEFZcjNXSjJYNlpBUy1VYUlrUHp2RlpHamVNVFhKRkRVQmp3NUVWaFdzdEVXdDZ2aw?oc=5",
@@ -1106,6 +1106,22 @@
         "summary": "«ناسا» تستهدف حفرة غامضة على سطح القمر بحثاً عن عالم كبير تحت السطح القدس العربي",
         "player": "",
         "content_hash": "d00b490bfdfa071485b95f1be6d948c60701250babf7bdbd3ec57826fe11bcb3",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10642,
+        "title": "فليك: الهدف المبكر منحنا الثقة.. وملعب جالاتاسراي الأكثر صخبا في العالم - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxOZjVyS2s4ZVdlbm15MU9iSENCdk56SU9fLWJlM2h1U25iSy1qQURKNG1KMXd2UHNqRm5QS0hvakZSbWVqQzc2U0lULU15ZU9aWldZT3ZsaDZWU01OZ2VIeGpVS241NHhtTUlfSkVVcXp1LWI5d19ZVDI0Rk9wR0tGYzlGUVRpTXdIVUVuenRwbmNIbVdRM3Q5T1RTakNMc0lVbjZSWjd5elBuQUx3Nm5KN1A2ZGc0Q1hLdTE3QURpa0JHdWhiVXRtSU5naXVpMkJYWllXUHhXOU9BNlFfQkJtZVNzT256b3hxMHlWdGJfZmtvcTkwXzFmQXZ4VTRGYzNFeGw1Q0cxMXRsYkpFWV80N0xmY08wNV80a0NxdUxwRGt1UXl3ajJveEFxeWxaMG82NTRjSHlDZXlSSDd5dGxtUUJwMzBnNjVPa3NnT0lEamc2ZlVZLThHZTVLbTJzbFNfUjBqZm92V19CNlBtX01nWGZmNUVCTHJTZVJCMGZxam9rZUJjV1lMaTI2N3o0NjZMc21jSV9nR2R5ajVsZWNhcXpONFQ0T2FfWFFIMFNPR21Cd0J6NEEwaWV1ZG9fSWt1RG9jZ2hIWW5MOFhuZFhiRDktN1BHRUNSY1NXUHEwTklsOFZDck9ITE9jemEyOEwzMWxDdEVOQi1yMl85SFQySTAzRElENG40T3NyQWVrZWpHLTloUTlFQ1RSbzJ4bUxVV05XcWgwNHN6UlF0aU9R0gG0BEFVX3lxTFBxZGppcEkzTXpVWEVIS3pqZndmX1M3TzRMQmswVk5rOE1yTGxBX0RvSkl0RGZwUnVXUkFHUU43Y01mZ2VRcDktaldjU09rTlI1bVBXZl9nSkxBZ0VWYThMZnVBWjlvVjdsYkpfSXBOMEhvcmxxMnFDelEyRVNVYnVfWkhPa0VsNGJmX1B5RC1jSlR0RmNlbGtuR2tmdlktaWp5Z2Y5LVo3RjJwLV9MRWxPcEVnQ0dySzZMbEdrZXJ5QUhlLTBLRjFkM29QMkluYWhFODdrNjRxdThVaFFoZjBXdEZqQ2twVUplVWo0R2dSUTVxaDloRkpLN1dacHVTVnpQZzJ1ei1hR0tHTTFTWm9oSGtIcWZXaDF2MllBS2U3N0VGWFlpWmVWU04zRTJ3TXphZk52ZW5JZmIxN3BXQ3FBd3J3SV9URzl5MFlZeXpwdzVRQjNMc3VBb1VjYmNVS1hKTlB2NzBHTE1nYkRkMEFHWV8yRWpyMkxTWGpJZFZmcjV5TTRzTFJFdEFmYlhQdm5FdGFmYXllUVZYaWstQjFOWjFyX3NEMlNuVk5PLTFkVW52Z254dzNkeHVYdDZaRk9tMm5pdE1yamxEekt6MmF3ekdRVW40NUlBZVQ1QVNrRUFVTWVweUl2b2lVUUlSbm9td1g5TU5QVUJ5WG5XUHN4TzRPenJpcnQ4VDFqNFVodWQxdEd6cHo4Y1JwWlFfWUxHVEluQmRNRDB4VnFiOU9GREVORw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 19:34:00 GMT",
+        "discovered": "2026-10-10T23:11:47.000612+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فليك: الهدف المبكر منحنا الثقة.. وملعب جالاتاسراي الأكثر صخبا في العالم FilGoal",
+        "player": "",
+        "content_hash": "6cfc18e98a65b78ff0c1cf87fd93b6a78870fc45bfe68ed9f32db3cc641ea924",
         "sent": 0,
         "section": "sports"
       },
@@ -1378,38 +1394,6 @@
         "summary": "مشاركة حمزة عبد الكريم..لقطات من مباراة برشلونة وخيتافي في الدوري الإسباني (صور) يلاكورة",
         "player": "",
         "content_hash": "c58579a05c17b4804b330eedc506237d99594d42931cdc7a2041ea8a34cfd6a5",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10592,
-        "title": "باباس: تعادلنا مع الخليج أشبه بالخسارة - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxPQVAtV3Zib1ItUkhGRTBlcDRqVzF6bDlkY2FOakx6ZWpGNWtpcXhpWkxRbUFNcF9MRlBrSV9HckNyT3VsaV83ZkFlZFhiWFEya1RMZC1BdE9CbUdTdzZMT0xXQVl6a2pZQkd6S3dvc2RieE14YmhnZFRWc1o0VS1HVTQ0YzVRTEhKOTBlbjZsQnFzVWJrb1I0TFFLcEdmVHZDR2F5cmxDOS00OTAycWVsM0lPTHI5ZGo3VGswS1ZCOXFqUEE1cjZmOWY3MjROVl96M090eFYzZVhIZnFYRTNfQm44cHVBbkcwV0tkRlVzTFNKcVdQc0pwUGtCUlVIMS05MkVVQ1lvS244OWxySEx0cEhyZ3BzVTVqbUh6RG5YUFpaWEdkRDJhWE51UzZLcF9NWjNwQk9PLU5ZVmtqXzNkQmxlb0diallvTHFtejhCaHZ3ZVhJUDE0ZGVuX3BObnR4NjByQjVlM3B2Z3JRLTdKYVFacDBlR3gtRVNFb3QzTG5TMDZoSVdSWllDN0NOM285amwzZU0ybHQ0NXNocUtHYTJvbW56ZjAtT0gyYWJ5bWpXcm4tOUVJVnFieEpzVmVlMlBvQ0cxRUNUQkw2N3dHYW5kb1pVOUdXYjJz?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 18:32:46 GMT",
-        "discovered": "2026-10-10T21:48:11.907942+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "باباس: تعادلنا مع الخليج أشبه بالخسارة الشرق الأوسط",
-        "player": "",
-        "content_hash": "fcffb9f66ba56dadd1d66bffa65ca71de5ae4e3e896c1be8dbfdb424fd1a51ea",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10594,
-        "title": "في الوقت القاتل.. توتنهام يفرض التعادل على مانشستر يونايتد بمشاركة مرموش - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxNSml4eV9OQ0E0QUcyczZaTHFkU0xFdVIxdk4wM25qWW1QeHhrRG1wa0RHei1Zbm5kR1lyLV9fZEZtU0p0WmVvb1NQNGdGR2tuZGI4Rk15cW0wVkpuLTZGRDBNdzBnbktxM3RTTEZzV29kc2RFX0hwSVlTSFNaZXRNeERtSTllQnJaVy1XclNoMWpNYUZuNm5zdXBONGtxRHRBVVFHMzJIbmR5NlZPMXBMOFpHRFFIRTc4bE9OVlJ4MlNtUG5NcjJUdFVJakF2UTVXcVRTaWQ0cldGMmhCeHdzc041ME13T0lQellNck9UaHoxVVAzY0R5LS13bW5YTFVwMmp4ekp4TDRJVTFBbmFyek5vSWxuVkpjVTJIOTNnMzU0eWNRUzR2anlnSDRyLVRQR1JQSUtzdDRFVWNQWWlxTWtIVUR4bGFlaFY2LWVrd1dVZzdPUkZnZVFBaUxQei1aRDZiaEI4cy1vZkRwaUotWWF0OWlpOGNsVXl4TTVqa3FLLV9xSzgzUFVhWHlUMU5OUjNDRHBZamtoVmRXblN1eW5SOTJ2am4zTlJhZkstYzNLMnBabUplbXdyVklmOUVPY185NGRrUjBVS2c5MTM1V252ZXU4Y1J2MnBKZDhzLXIxcmVHTVRGSDY4ZGRHWUlBWGJ4anlQVzFnTjBUblRFLWdIUXFqOEFYVjlJM0YzUzl6bmQ2N05LVGZqWDJkMUxHWGlVN2RaelF2eDdMNUtiOXYwc3lpRDVPcU5zZHRtT19oWmpYVWpfd2RB0gHPBEFVX3lxTE8ybTIyTU8zenltMkVTZjhhTml3OEEtbDdWOUVMQ1FqTVJWaFVYOWVLbnNqYkREYmhqNDRFZGQ2Zlh5MjcxVUhvNkZpd180Z0hkeU5pdkJIT1NXZ2g1M1hONUNOQml6MWZKajFEbWRUblpkVFliUHVrSnRxZXZnYnRHN3EwREVydC1KT25pVklGR3F0amxzWFgyRWZhZUlZMXNybGhHOVl5Z2ZfTFAteG9sNnZ6aXA1TmlNN2owT1JYWEl6QXJRdlFSS3JlZllXSnBJaFVURHdkazg2VGJYcGJWeDhKSG1sUkVmSlkxRlJ3a0FTNmxfbXVZWjZxRjhJaUUxTkxQSngyQzB6RTh1LTJ0d3Q5Q0E4ajladnQtZFJSTjhZNlRhMDAxR3p5VUQybVU0V29OMWNXSlQtQm5vRzdSUjlKWWRpWmZYNE1SZDUxZ0J3djFfVEEzWHFFdk5hd2lqM1RfbHgyQVBJdGVkUTVQcnlfZFhEbGNnbUlUdjdHcENCVTNqZzJ0YzNBendIWmpwVVVobWtDcmhYb1EwS0pyLUxWa0lOSU5uUVB3X1VxZXcxcEpVY2dERTdnZGJCZkg2QlNma09qTGZpOTdBYnFyQWRBSnJNTjBReVZnMXBJYkhPRFIwd282YTBDb2ZSbjA0a3JuMTJmOGpka0tqOUxIMjNBODJrN1dTMDAtSGZEdnhIb0s5X240Vm1BTmE4d2FqaEQzZVNGaUJMZjU5aHhvTm1UN1ZCU3pueVVZbmM2Wi1yR2w0Z05rYm4tN0lYRQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 18:26:00 GMT",
-        "discovered": "2026-10-10T21:48:14.228167+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "في الوقت القاتل.. توتنهام يفرض التعادل على مانشستر يونايتد بمشاركة مرموش يلاكورة",
-        "player": "",
-        "content_hash": "e426d5f6ef1e3f755b8650ec1a2036e6f66841b5ac842ee1619603124f630a91",
         "sent": 0,
         "section": "sports"
       }
@@ -1930,6 +1914,22 @@
         "section": "middle_east"
       },
       {
+        "id": 10643,
+        "title": "وزير الخارجية الإسرائيلي: لا نتحمل مسؤولية تأجيل الانتخابات الفلسطينية - العربية",
+        "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxQRVVtd1A5OWNtUnRmRnB5aVM3SWxJcTZ0M1NrdEJ3NVExNVlvc01iekVfcHZPV0IwNkh2QnJOay1Kd1lSeUk4SXktbllESnBkR19UNEVkdFc4Q0IxbVJjazVhUTc3TFFsOUpPNGdZcmpIV2JIN1JzQjUtenJLczhSeVoyZnpFYWw4cXN5aFhEdi0ySzk0ZmhWZDRQbVowQnZtQVRONDl4MF9Fak5wc1NEWXdWSW55NHh5bFF2dndwZFdfbEhOYnk2YWlLOXRSdm1Ua2w1QW90YTEtM3pSc1dsazFzWXBGR0ZnWkFNV2pIeUZOUlF6UUg3Snhad2RNcURUZXVTZ3JGR0ZieVo1RkQ5YldZaEN0a3RiSjlZRXE3RVFaTUk2cnQ2RWNNTkstWGlFaldxcUUyU21JU2RxazYxY0R0cjlraVlUdXM1WTN2S1NRTE9TWHl4WHJ3eWR4TXNQckp0aG1TM2pfUEpZb21GaDVyU240OXpTXzVaQXljZ2QtLWR1QlJQb3lQeTBrcFZVeEVjaEp5TF9IbnZQaXM3SjdGWXIwVTN0XzhoWHZTUWNBWFFBUnBKeVFEaFpUbHloVlpsRDFSV3JXUndoeERwZHR5Um1GT3JhZDdOU0p3ak5Denk4dVZnMHB2NFFWZnJORjMwUUJtZHBpT0Y0endEXzZHYkgxUmM0RURFWGR2RkhTNTQxQmhLcllFT01uOWQxMnVuSkVuWlo5eklRTV9TRG5jSkxtWUsyYXN6dE5lTEswdG1iUWYxeEpDbzlQakt6TEp3YdIB2gRBVV95cUxQbkQ5Sm51TFFScnRPbkZWMFNVeGl0bEwwMmJBb3o2UGdWMjY1SGVYRFUzVHgzMTRqWHdKNlZBczZVaXdFYXV2UFZZYlVScW5OTDl6TUdzTFBGOFhxOFQwTFFVV1hISTlFRGRWVkVKN1lEOTIwRUs1aFZ4V1JWeWl4ZWpqNlBMMDd3aWxHMnRYYU9PS19pZl9ZTEt0NVdNMjBpY085Y0o0ZjBDdXFxZFJ2TGRzM0JfNXZVbG14bGpKZlozQXprRGVwdm44N0djalFxZVRDZ3FjV21PUFl3ZWViUk5SQ1MwQ2xzQXVyWm5ZU0RQdlFPR0VQYnozMXl1M1RVQlBqc2Z0NVVJYzhSaWZ0cm9XWHc0WXMzc2ZZSm41LXpVcWZQU0hveTNlTktEekh1ZElJVXN3WDdnbDZQYm5IdHNxeGdualF4bUpxTzZ3ZzhoQzRSQWl6empaZTZkTTNISEZmM1VqdVIwSFFWMXlJUExrd3VPLURwbkR4SUN4elBpNHM5YTI2aHZzenpqVFRlVzhXX1o3akZ0eU1md3k3dzlOYm8yZ1NxNW9hTlY4Vl9lcEVIYW1qeU9qai16SVVDRk1aQXN4eXpMRWVwc1RveGZYTUk0RmQxcFRvODFLTnZwaWxiN3ZCSGUzYnF5bVZWWUV4cEF0SW9wSWhkUEtoV3plNHZYTFlXUjk0UHM4cEthandGZncyUTFqajVlbkZEaXRoTlpGeF9ST2NUcXM1TTdpTk9GTHY1YmlUemw2ZE9OQXJpX1pTMktEbmwtdU9KNDlKU09hVXdmUQ?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Sat, 10 Oct 2026 16:32:00 GMT",
+        "discovered": "2026-10-10T23:11:54.875369+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "وزير الخارجية الإسرائيلي: لا نتحمل مسؤولية تأجيل الانتخابات الفلسطينية العربية",
+        "player": "",
+        "content_hash": "94bb911269698e67e5e4c09cf7e70119cbeff558dafdf82b2fe9547548dd85b2",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
         "id": 10457,
         "title": "العربية وترجمة آدابها في \"معرض الديوان للكتاب العربي\" ببرلين - العربي الجديد",
         "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQRjJfdjMxZWlMUUJkNGliTG5QbVpDbGFQU2xOU2lQMG4yenRZNWFCNUh2NDVFdjRuUWljT1hQRkpxbThVODhBOFJwd0x1cDNhQ2c2bGRKM3JwWm9WV3E2V0ZBSGhDQXF5alhsVGNvLUNQSFZjQ3R0ei1MSW5tQ3Q1VV93b2Jrb2RGWUZSQ2x0cmtlYXFWYkJfWWJScXp6dEo4aG05RUVrdGczNHprV0J0bGJYR2ZpM0FVU0pJSllqa1I2SzhFTmw3OG42ejFHdURhNEhoN1JSenl2S1BjNkdVa2JoUk1nelVOT2ZRUnl1UEFRWjBMN0dINjNGS01Kd2VUQUV0Q0xjV1dKVVpxRnpqMXRWUVNzQzZaZlNnQi1iLU5zbTRUdGhuR04tN1BBOXlrUnZaVk5fOEthZ2ctRUwwTGZmY1NlamJkd24xTTlKbkxPRGNFekdHTjNpQjVYVmJyLXJpS3I2aWpIQlNZU3I0RkplajJ3U3hPT1Utal9CR0tqbUcxckRhbk51OExBUEg2U1FUdnVYTUFnLWZaSS1CU2oyT3BKbk12Y3A1c1FGa1dfc1NvU3ZfYUlLVzZMdDVKTHpIVjlxVHVIdlRvbF9Sb0JZaHlvWlBYdzNZT2htWFZKdmts0gHqA0FVX3lxTE1QN1ZYeDNNS1liQnJJNWF2bGRlZl9BcEI5ZmlOWWlya3h0NGRlaWhoT1BzMFhOZnVnTnBKQ2tadGtWN0p4d0F5ckliX1U3dHJTZlpDZFZvcnRwSC1HcGRNeWpzZFpDa1B1WFpEdGdyOUZzSWEwRjdqWWMta1RYX2stRDduRnFkYXNwZEphSzVGamNfNmptV2htdElXUU44SU5MU2xhaEs3d29oUHNnLWdUdU5mMWJpUXBiMmM1THV0MEZWS1FPUHRuTlRCOXpUYk1fc0c5VmhkZHJOUEdNSkJxVGdIb1p4MEp1bWpGMkE3dTlTYmtnaXFsT1o4ZDhnVldzbE0yN0puekRCMWNUa05kYk12aU5HU1JXUWp4cEZWRFFqdEdMVjdURXUzejRVWGZRR01oZDg2OHJQTDQ3V2dYUFRZR3BPTTduMDIzM3U2YTZQTXAtRUxDckZTVXdPSy1xdlhqWDA0YkNtYkFvQ01MWmJjRWkwQk1maWVTZlloRjlJY1I0WlV6RlM2OE5fQVZCUnNqVXluRjNjdDhPcC1ONHV0bkxJR2hCbmxRNlZXMi1EeFdNQUpudzVPT19OUFRFc2FPZEduZHh5M2ZKWUJKRVF3dHNFdmZaNGQ4NFV5RWI4WTl3cVp2VGc?oc=5",
@@ -2070,22 +2070,6 @@
         "summary": "من الرياض إلى صنعاء.. هل تغيرت قواعد المواجهة؟ سكاي نيوز عربية",
         "player": "رياض",
         "content_hash": "575ba0585ff0d0f43c0ac442ef0b05909677522d1f0d34ea3873b6bc32bd6ff8",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 10143,
-        "title": "التحالف يعترض 3 صواريخ باليستية حوثية باتجاه الرياض وخميس مشيط - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiggVBVV95cUxQbGNSVHF6bHk5eTYwOWJsTmxiTkVHX3V6R3hMeVluMFdkMWtDRWh2YXlJUDFral9hNGduekRyS3VVRHpYU0VpX3dGTGZrZEZtWkl2YmlLZEhaeHJHWnplNGZtTThFWnB3WUh0WVVGVjFVVEF3U0dNOFhnVDNoSzgwSjUwV2pSMk9hdXYwOUpDSHpUdmlXZDFaRHUwZHBxdjNOSTJmVzBOUVdRcXFMemFaWnI5VTNrMjR2NmxJRlNmTmlUNHR0SERsUnN3bW80dDlpU2FReXhsRkFCY2QtNUNBdHZvSG5uWlBEUWJEZEtwRHJHd2VPVU1Ebnl5dnNaOF9nQzl4dHg4Q0toQXRHYUcwaDhXTzVWX1lWRjZ5aUdTVm51MGVuc0lvSTlhMWt4bGlpeVlEYmZLaDN6djFOVHNRdG4td01JQm1rdGdBT3VmOHdwMTNjdjhqZ1RRTHNncFpuZlU5UnNjZVUxUDlLLWFLSXNJN1k5NkprTGh4MmU4N3ZfdWxFUkxrYThIbHhWaEt0WUhtRm15ZzM5NGIwQ0hJd1lMemd5bDNXNEx2Z0E0dnE2ZDNMdzFUWVVYLWw0UDQzNzFub3RzaTF1VW9US2Rud0JzZ2JtMUp3cXotc0NRRzdaVXNYbFcwaUJQZnJYMk5NWDZJeTN2U3oyZEJRVUtlQTR4WnBIQUZRWVVVRmNLX3Yyd1pOR084eHZmTmU1Yndac1dHSWxmVmNpbWZVcGZBdFBfWjNsaHdFUzRkS0loaVJFUGtLYnpMMTZJb1FqYUxmaDQyYzVsd0xJTm5fQ3BuRUZ3S21xb3BNYnZlM08ySVBrd0ZVTFpjbHgzTG1TR0pYZVE?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 12:46:14 GMT",
-        "discovered": "2026-10-09T17:27:15.770541+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "التحالف يعترض 3 صواريخ باليستية حوثية باتجاه الرياض وخميس مشيط الشرق الأوسط",
-        "player": "رياض",
-        "content_hash": "dd5a9ac7cc96d450b50c2e04d0d4d524682f65e9aefa5a6826ff485a32a0b9ed",
         "sent": 0,
         "section": "middle_east"
       },
@@ -2408,6 +2392,22 @@
         "summary": "مصادر: سقوط قتلى وجرحى بصاروخ حوثي وتوقف حركة الملاحة بمطار الرياض DW.com",
         "player": "رياض",
         "content_hash": "ff22bc6b06f62b9c5c68bc7b826381a5588a7f5de09a3110fdd1cddee7c9899a",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 10581,
+        "title": "السعودية تعلّق العمل في مطار الرياض بعد تعرضه \"لاعتداء\" منسوب للحوثيين - DW.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxNcjlsSGd0bko4Ml9seFVHaFl0ZnF0VVdRN3JjUzhfLV9uWXY4b3lMVlp5QkRXTXRjZ0k1bzNFTVp2YlR5bndMMzQyTWY3S2k2a1AwMGVBcmFlZXpKOWVJVHRiSzdCZUZUYlMtWWVlLXVaZHI4NDhyQlg5RHVfeVhianluYU5uR1Ryeng1RmV4Z1p5N2lDQUZTX0EzSkk3Z0V4SEVKX3dGeHdya1dvRFlPX2FaMzBGNTZXa2NFbGw3bk0tTlZ2MmJxTTNrblVEcTEtMzR5VzJiZWw2V2NFT0MyblNfWi1rWC1IQXdSYnNqdElOa1BzX0JxRUlIZ2plZGdTeV9XZmhkSFQ5NDlpaTVSd1VWdkUwUmpveWtRUkRTY1RxY3dLYlBweE8tTmxvVkotM05HS2xTVW9GdFhtMndHd2txemIwcVdQX25XZHlVekNlVHV5Zk9BajVCdnZTbVhxU0hqSC1OX1o2emNLcE95RXg1MDFiNFBlUkRwMl9KX3dvOUMxaExHNWloamdRRXZocFlMXzlsR0VkWWFnZjNWR2VWekFmcFJDMkRUd3FuZmhRRnY2bWNqN0hMNWFGc0s2U0wwZnNQaDFzUG9yMVhNVjdIbVRKRUhIcThWUHRtbDZ6MVg3cW9yX1MxRjZDMU5tTmxfZW1xUWJId3dsaWxIdmZ1NXU1TEhITkZSbzhtOFpxbUtZNjhCbmh3YTlvOFpSb25jR3k2bTBRZw?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 05:28:06 GMT",
+        "discovered": "2026-10-10T21:16:11.115977+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "السعودية تعلّق العمل في مطار الرياض بعد تعرضه \"لاعتداء\" منسوب للحوثيين DW.com",
+        "player": "رياض",
+        "content_hash": "238b1c9d8278cf13c8dca878f371be5621655c435f87232910581a767d56af0b",
         "sent": 0,
         "section": "world_arabic"
       }
