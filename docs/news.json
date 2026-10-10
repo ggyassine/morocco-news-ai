@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T10:36:09.640784+00:00",
+  "updated": "2026-10-10T10:50:33.089375+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1448,6 +1448,22 @@
     ],
     "transfers": [
       {
+        "id": 10397,
+        "title": "أخبار سارة وأخرى مقلقة في المغرب الفاسي قبل مواجهة اتحاد طنجة - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBhS0dWZnVTNUtyTGVaNTlSbFc5YU9FV2ItYWZEMm5Oa0hVRUZXOVk5Z3d4Z2QyMml2aU9LQ1JsTW9TM0lHRkg3Yw?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 10:35:13 GMT",
+        "discovered": "2026-10-10T10:50:12.911753+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "أخبار سارة وأخرى مقلقة في المغرب الفاسي قبل مواجهة اتحاد طنجة - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
+        "player": "",
+        "content_hash": "4017ed3cbf04c5329b6cb27467c717ae45d60d7937dddddf71c063400dfe8e89",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 10356,
         "title": "موقف صلاح.. تشكيل طرابزون المتوقع أمام سامسون سبور في الدوري التركي - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMiswRBVV95cUxNZVJKSzlrVXltVURLRkhCUGZzZk5FSkNhOXg5WmxUaTFBNXJDLTh4cWJ0Rk5rb0lXV1d4Z2xEd3pEOF9XRXBjcXI5RGxBWVBrV2xiWUl2b19TZGN3TDA0WThaU0NhUnc3ZHJsemtSanotZ2xKWGJMWExuSHczRjBqQmt0cEJKdEtWX04tN1I3RGZOOHJ5TUlZRXZLaGJfTjZmeUFGamVDRUVlaFB4eHVLbnJERHNRYldKN0Zfd3VMZ2I4NTVYOFBVUFdpRnJLc2h5ckgxMDd4WU1vTk1Fb2Y1dVBCTWZOcld4MEtTSnc2OURINy0tRUdVSmdyYTFRTjJsTkZDN3ZxV0dNV1ZKQ0VzRUhTUE9nMmNudG9xYl9WeWUzRGdrVkZMMDZjbk5kal9fSVdSaXRFRDRLc25LelFKZ3JjcGZlMUdUUkdHUlpHRDRmT1ZubDl2M3A5ZlVhVVJ4VjZ0dFhwdzFrV0ZzcGlEc09kTFItRnJNdE9ZdGNBb25fRWZfOGFBX0tGNXg3T3d4cUp5cVEtcTY0QVlGTDdBVU5ocFk3Q2N4NjdqeTItcHhRb0x2RUp2c2xNdDJtMjR6MklCZFlpYUhKUE1YVER2UXNVNkEyYTZJeTVFb1J3RmdoRVNUYjdyVEJ4Y0xvek1lZzJxeGhCZHZ2dzU5S0pCaFlxZUxrMWJvVE5hT1daUDBLQzB0Zl9uVUp2VXRHY2paM0JlWFYzZWU4d3Y2VzJjUC1nSdIBuARBVV95cUxNOXFRNFFfZEF5Z3QzdHljdjZ4aGNUVG1waFdQX0pWM0g4ekt2dDlBUjVPVE02Q0FSb2lXeHhkVkFSMlZvTjVHNUtMYmg5UzJURjk1azA2UTlISml4WFoyMzlicWpua3VCYjktSUdDd1RRRXU1RURscC1fRUEwaUNkX0lNdW1TR0VzZzhWNm9QcmNFcGxnRVd1LTV2SkRYR3BfU2w4S1Y0SURfYzJ5QWx4YXg0cEhSR3g2TEhUMVE3R0k2Z2J6bkRxZ2dOTEx2WUUyVlpham5Kb1RMUnBqRVlqUzZOMUsyeDVobXd3M2htLXp2UlpHcWlZd0ZGT3lnNXNKR2xpMG9rOHU3bmhNM0F4b3E2SGx3anVOTTJmaWNuV0txVl82ZEM5Vll0NWpIa1JrVUk1bEYxVFZLVGZBMWlwZDB0RE8xbFpSaFU4TTVMOHlRc0tUalNHd2FGeFc5Y0VaTlNDVE8yYTZoQndaSW9zX1g4d0xTRGM3OTJnYzZzdTBkM2c3MkhJUmpXY1lqWmN0bUdZTlR2OGZoZlRyM1FzcHU4bThNMTctd3RDYnlmNERkdUhsS3VzQlJXN3BsSll3YXlBZHd0VnhUMG92ZjZQZVZ1VzJLdWlTdkt3WnlpNm5ucWl4cnRvMDQ0ME1hQ0dFTzhJRGlpUjlubVdMOUFQYUJTWE5ianhkaXZUcDJETk5Rdk5MUzVxS3FoeVRqQkVpLTJOLUdMQTNndEtxWUNwV1Z5cWlNbmVL?oc=5",
@@ -1910,41 +1926,25 @@
         "content_hash": "9eded92437a21897e35ae293234fb6944c223ad977cb9d3144d3305356c00ff8",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 9941,
-        "title": "مصدر من الزمالك يكشف لـ في الجول حقيقة التوقيع مع الزناتي لتولي منصب المدير الرياضي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XSlI5ZjY2N1dGV3NXelNyRmxXREVEaHJ2bUd1VkE4cTFmOVcxU1BiU3FyNVk3andpd2pIb3hKTlF3VDBVUTRjaXdTS29FYXlD0gGSBUFVX3lxTE45Z1dYVUo5N3F0bk9BcHFaT0RaTlVFT2hCcGs1UmhTX284bW1RUTRiNFQ3UEpMbjZZTV9WYzAxb1VPclFhUkhyOEhkTUJuQzdpTEVyaXNHbTVoNFlEbTQycm5LSFZpUFRUSzllLXlITW5ZZFF2X0w4R2RmT01ZdWRJYzN6cmhGWWNjMnZPR01UcHFqUFZldHNsTnA2ak9fV2FHZ0ZpbGR2ZVVjTXFnT3BXdFJQNXpjYThhREVQTW9Ma3ZXU0lKWUhlcEpVVlNUT2Zxa0RLNDc0RC1nYWJ6ckRFX1dUd0dLTG14ZFltcVBScFVodUNqQTRVNU1Yb3FJNlF4MVc1VFN3YjA5U0lBOEwwU0tHWWlzLWxaVHdKTi1oN0VoR0xmZ09Xbk5reS01UVFIOE1naDkyTDEybG5mY1FzSHpoX0tfcFo0M2VvNkh5RU5zX0NwWmJpNUVPNTByNl90SE9TYVlGNGkxZkZhMS1OaTZNdFNTc1NGLUNOeWtfS09MMjl2YzFmcVZ1c0VvV2dNNmZ5X195ejZBbGpfbVdUdy1aYmh0ZWRCeW1ZTEs0QTNlRlFxSm1ZTjdJVVVvVEs2X3ZZQUwzSjZPWURVRXdtb2RScXpGamN6d2o1RHlpQlM3WFZrQUc0d1Zjemp5enRLWWVtVTNUemx6a25BQ3Y0TUMwSW50RlRlRWZYMmNWTzZ3MUhEcmR3NTBKbDJ1dXp3MG5TaVM3MkRQM01vdEtwVEx1U0J6aEs2MHpTbEdxekMtcWV5b0dXa3dTc3R1ek41ZC1lMHNwckV0VEtSU1JtSFhXMEtja3EwZW1rdWNZYjFoOFFVMWVVTmk0cFJxRG56bDdDY3Z5VTJaWlk0S3lmMGc?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 17:13:00 GMT",
-        "discovered": "2026-10-08T21:45:13.830371+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "مصدر من الزمالك يكشف لـ في الجول حقيقة التوقيع مع الزناتي لتولي منصب المدير الرياضي FilGoal",
-        "player": "رياض",
-        "content_hash": "639d8d3238ad9d5201daaacbd0ae2cca0dd9572f8c70932ba84ea9b61e4f33e9",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 9928,
-        "title": "صفقة الأهلي المرتقبة.. عبد الناصر يصنع هدفا في ظهوره الأول هذا الموسم (فيديو) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxPeTZnamJuS3pyTFdXNU5rdTFRdWJOUGdGRkRMdFhWZ1hXX1RLbmVaeWZYemlRQ21mZDJGMTlOWXF3UTQzRU44REowekI4NVpObEc1UHRxU1dxMmNfMmYyMmNZQkE5d1pmbHpsN2Rqampld3BibkM2QmF5b1VXQl8xdDJFcjdhVWRGNnZaZzl6cjB2OWVIb2FEdEQ5NFUyMU1WTS1QYm1ZUnMwRERGS0Q5b01Pb2I3M3ZBeTJELXdFbEpjQXByTzJBa2xnNVJFZkZUYlREV1NWSXhrdG95SFVUVExfQXRYTHlSVUxPamZYMWZLZ0xwS0x4TXQtZzg4X09wX2d5b2lrMWpLa0g3NnVMQWtGdXpMZi1NY2NhS1lMaGRmS1ZwcDhOUHZlSnhBdlRIVm1lS0tPcTFNOV9WNlRncFUwTjRWUU5vaWxNdi1qWWN5ZWlmUm93bGdFamplRG53dWZITERpaFZkN0s2RG5teUl3U0V0ZjlkSWhwckg0bWdZamNlZUo1cThJUy1XMTJoXzd2NFpXSTFrTHM2Vkhpa1RCa2ZfVm14cTNfU0tSZ0JpcnlEbjEwWjhNYVBZRzhBVzBlNl9xOWQ5WFlFM0NwUlZJenBQeEd6Wl9oTEM1ZV9TYXFmemU2TWNUdmNQOGtKTlRIdkxaclNsMl9BdGhXa0ZabVZfZHJjVnl6RW9mT0ZNTzJJTWVmcjRoRWpTMmcySXg0UFRNcHRKU3BnMlNMN3EzNUVxNlozVWFob3RUR3FBd2RzXzFKOWdXeHlBYmFvZ2hUWWg5U3BRMmhFQlphU1ZYTTJWUlhzRXfSAe8EQVVfeXFMUFRHcHhlRjJhSkc1WUswR0trQXlzXzFHNFFPTVdiUGp4b1pBUnV4UGJ0NjkzYWxUX002ZGthWkpJbmJJUXkxQXBmZW84RWlKWW0wVVZRdUc5MktHblBlWHNQdm1JWEtsLWNQcEZGaUdZZlhEM0J4dEVXcjZWX2xsdVJOVS1zc2pYcFpTSFEyRzBBSl9idkVkMFJnTVZ2WFhPV0hLUDd6M29DX0lCRERPOXZxUDBOcDNqaUJELUsyYTBXbVBrSHBaYlhMZ2k3X0FVcG12Umt0dnhxb1gydWFUN1gtc1A5a3N4TkVIQ3Q0MGFiMndnR3VCOGZKVVdsVXN5UTlqWmNxWk85VHZ5UFRnWTBvWGpPa3IzTVNuSWlGMlBQQXFWTi1McDd6MGJkUm54djB3X3FEMnE4MDNDcFhuU2VVY0FKQ1FjS2Z4dDh3WXJlcnRzY3d4UWNORUtUTnJlMXdEeUZrNTIyVDF0ZDhNOS1Zb3BsamZZZVgxYTJLMGNRQ2kxSGdtdlo1MlRNcUhyWHdvOGpoNlE2U1pfVnpsVmkyQld6VGQwc0EtcjZ6d2JNMlktOXVWQ3FCcVhPSVlfTU1xMWc2RzEwWlNCRnkwWFY1ck9tR291VkdfcDc3Vmp6dDdETmtEclZQWnB3djlBSmVvR240U1FlcGczMEVTaWZ5QjNBY3FwMkhFNjlVbkNaSVJSdzRfYmxCOUVPRDRYcHFvQ3BFc09NVVV1V19uUkZ6a1g2R1BidmVXRG1KZE1MOUNXbFZhcVVXLUtUdGlzYjRLV1JEd24zeWJGQy1ZZ2o4Q2ExUTFtTDRyNm9SUnM?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 16:50:00 GMT",
-        "discovered": "2026-10-08T20:54:32.582010+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "صفقة الأهلي المرتقبة.. عبد الناصر يصنع هدفا في ظهوره الأول هذا الموسم (فيديو) يلاكورة",
-        "player": "",
-        "content_hash": "ed4624022809eb88d0558989db79c391fc36751af36afeafa49b1705ead75c0b",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
+      {
+        "id": 10398,
+        "title": "البرازيل تخفض أسعار الوقود قبل الجولة الثانية من الانتخابات الرئاسية - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNay15Vjcwb2FOd21HeVlxellQdzBlbG5kWGVhNjFHUU13QU85Wm9paDFHWkZTQ0dlU3FESlVHRlQwYmxwM3dSQXphZGE4ZWNXR2RTdmdZeTVjTG1PdW1DQUQwYnd6ci1rdmQ2b1VpRW9raHFzeWNFMWIyaU1tdUhySzZSQjhWV3FqQnNkSEMzUjBCXzVmQ212bkxpMjJsbzhDUkJ3U2xTdDdpbUJQX2VSV2llX3Z6dFN0WjZNdzZZZHAwZmFJMlBsS1ZkbEZ4ajJ3RjBJbndCZzZZTXdtSjRxdDJxcTh4bk16S2JzQTBXWUdUbFVTblBTbkk2ODFuay1hcDBRUjN3d3VRVmd3YjBTNVFfTk9GeU41SVhDQWpXaUpVc215b3VQTFFSNlZwWDl3Ti12bTU5RWgxZ016SzJGc3VaMlZEUTdyZ19ZQ3E3a0V4VUoydUFUMWJvYk9oNkQ3ZkRldFpIbVp0bkZKWUtsUGItb2FGSHlUY3pISVlKR3B1Q3JpLVc0T0tiQ0kzaDctZlhRenVWakNpdDcyRmZ0aEM0WnpmMk0zMHpBR2JuYkxTd0ZBNWFRY3JacENjV1Q1bVVZRkVnalFyNFl6bkIyS0RyQkFsdGNEV25ackZFUXUtek1TanpvR21nSDc1bVZYOVlsdVVzZTlLSTBJN2dENGNjMlViZUF2LXZQSEdERXp2eWhzdjlOV00zUWNrNGpDYVBzUzU3R3JtMnJUckE?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Sat, 10 Oct 2026 08:26:48 GMT",
+        "discovered": "2026-10-10T10:50:28.405221+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "البرازيل تخفض أسعار الوقود قبل الجولة الثانية من الانتخابات الرئاسية العربي الجديد",
+        "player": "",
+        "content_hash": "c8e3f7fd5cdb4352a5ab50610b570460d08161948c29c0dc74ff516a881fa8cb",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 10295,
         "title": "الانتخابات الفلسطينية المؤجلة تعيد تشكيل المشهد السياسي - الشرق للأخبار",
