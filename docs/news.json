@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T08:32:44.612560+00:00",
+  "updated": "2026-10-10T08:49:25.075913+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -288,6 +288,22 @@
         "summary": "قطارات الخليع خارج الخدمة …تأخر جديد بين القنيطرة إلى الرباط يربك المواعيد ويغضب المسافرين – اليوم 24 اليوم 24",
         "player": "",
         "content_hash": "d09e25b025ecbbda0b7ba435669d7d0392a23672d800090f17669a875bb70316",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 10377,
+        "title": "اتحاد طنجة يستأنف عقوبة الحارس بدر الدين أبعير ويطالب بتخفيضها - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBpVllfM3ItbHcwMVJOUjVzOXdlVkZPM1hoVUk2ek5jaEM4bzYyYVV1Y0dCalV5dmtSSVV2ZEtDRjNwOU50TUZBVA?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 12:34:58 GMT",
+        "discovered": "2026-10-10T08:49:05.169691+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "اتحاد طنجة يستأنف عقوبة الحارس بدر الدين أبعير ويطالب بتخفيضها Febrayer",
+        "player": "",
+        "content_hash": "9ffbb6474979e9f69eeebca90795210373fa448cae5be5e8e4af8f7ab55ed1f0",
         "sent": 0,
         "section": "morocco"
       },
@@ -597,6 +613,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 10378,
+        "title": "أول مساهمة وإنجاز جديد..ماذا ينتظر عمر مرموش أمام مانشستر يونايتد في الدوري؟ - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxOMXYwVzlpQ1FqMVpIelNFUUEwX1BwcWlPWjdPR2M1UHJ4M21PT0YzV3NtVklCLW1kYWxzMWphSTdJalpkQUVCTWlPX3RhcGE4X3JwSHo0NEs5a0JXbGtGV3BIOHJobXBsbzVKTGs1eDRCQVo2Wm54N1dmdTVRaVNFc29HYVhwaGx0QnlrQmpIVTlNY1BtTzNfeGxYbnBGdEc1NnZRSGlWY04xUWtvMG9FYVFyRmtEV0JLM0dDcm5tVXlIRUplYmcwdERZeUNaMkZaQ2VxbnBBVG1TT2FZVDI2ckpPRjAxbHBncUdjMTVudy1XWUVWdWpNdDN0NUo5T0hmZ1prVlNFa2RLcnRib245ak1GT0IxeUtTX19vYXFlNWtuTEthMlZJMTk5TzBON2JwTkVYY1R1Y1NYWExOQnpzWFN4ZjdoWWhrVjJ0NXVzeDB4ckprMnlOR2FvUU5hSnktTE14T2hQemtNTmtzdmlaX1NQZnptenJMb1dUUm5CYnhaU2s2S3RjZFdwS2NnUGx5c0g1a1VWenFhbFpOd1NycUNSeFk3MVU5RlpUd2hmdElNYVdFWlBZWlg0MmNRcXd6RWRnRmRHelBWZGFLN1RwYkpuaGZLTW0yTC1ub0VQajRPT09PQzBtU05kRmdpRG5ucHl6a0FORDdZcmJidmFLdjNXdmRyZDltY0FxV1hjbnZHWmRtc1kzMHJzS1MyNkRZUDU4SnJncWliaWhmam9qSG9pWktQbzZ4WVpJQnJfU3BaVG5QMmhBUkhMRWJ0Nmg3VVZNWFp4cFlWUHAt0gHiBEFVX3lxTE9KaWlnMU1NTllpdk5aR25jMTRsdjhqZ3NTTUkxRnNHUUxSajExcno3VW9KZWNHeXAzM1A1U0ZGeGNvdThqRm9FcjNRSlFITHI0MlBJVEUzUWtjaEY2Y19Hbkd5R3NJNThYX1JoS01DeXkyMTdaZ0tMUFRfYjJ3Y1piejNtZmFieEV5a3ZnOEI4aXUzd3hUOV9OWXU3NkphQk0wQzkzNFZFV3U1RVB6ZFpTdm9McFljTDIyQ29iejNnNUN5LVI3VGY0Q0VrYVZIdGw3UTJZY1dNMTlWZWRzeXJQVEU2a2tfbFNaWmN3ODFLc05xa3N0YlZFMUlYRS0tbWI3eWoydTlpTFVqU1NCVEVTNFQxTl9IZU4zRDVRdTcwdWVGQzZESENjVlFyXzFmWG54b3V6NTBRS3ZjMmFCY0M5WmQxbnE5dm1MTkMzWUM3Vy1uUXd4SFl5dGVvMGN6dWluNVVQYWFhZjQxVXRqMlJ4OEpvZmtzdHpURkF1Rkt2YTRzT1ZQLTk5UjhJSDFQd281OV9nNS1OU2txSWNfeF9LSUk4bFpoOFZQY0pHUG9kX05DOWxDb3F4NnFSY1JEenBveWV6YlpoSHpadEFoa1lKZGJVTEVYYnBOLWlZcGNwa2ZsbkItWjdBSmc4MTMycWZ4NlQtR256ajNkc1A2VUhJczZHZm5IcmFwbTJFMjdqYThrUnYzOXJaaVFKazBpRlRkUFpfM1hvMU00UFg2ay1qWm0wd1RtNWFzV3ZENDRYaTR6YUdsUUhGWnFTWGRZbTk2VVlOenVURkRoNk5PM3IwVGc?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 08:41:00 GMT",
+        "discovered": "2026-10-10T08:49:11.167491+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أول مساهمة وإنجاز جديد..ماذا ينتظر عمر مرموش أمام مانشستر يونايتد في الدوري؟",
+        "player": "",
+        "content_hash": "9ea92bbe87acadec4f6788ac708280ff35c600ff5287a68f300cc1c7adadb533",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 10362,
         "title": "الموعد والقناة الناقلة لمباراة مانشستر يونايتد ضد توتنهام في الدوري الإنجليزي - يلاكورة",
@@ -1380,22 +1412,6 @@
         "content_hash": "dff443f4c378c6d99430e479217e390276f23452aa08d62df14a938d2f194970",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 10187,
-        "title": "ترتيب هدافي الدوري الإنجليزي قبل الجولة السادسة.. هالاند يتصدر - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxNNWQtYjFtOWkyY01MZFlzSWo1R1d0WWpBdjRSQS1FeS1WMHlaVS12Yy1yaEE0TGtHNlFqYzJpTlVsbGhqeVFiam84WWFKUkYxcGctcEU3V3p1TGpLbWVMLU5hdmtaTk44aTYxWDkwRU1hLUxRUklUb0FyNW1SRGZySHFHRVVySjRHZzdPdUtwVDhrNzJVLUNLalFKWGV1MzJSTmM2Mk9GWURPanRHNTZCS3FiS1M0amJ6VDVJdWRRTVZrTHNTSE9RdDF1M2g1dnpjV2dPelV4a3NfMjFmU1hJbU53WEFyZHBfenJQX3NhTlZtbWRwZm5ISHBKZ3JJaVdDaXBNRnY1U0tPRXNSSkNMM2w0V092VE90bU5OZEZyMS1obmd5Vkh2bVZFUFlSbGc2eXE5dGttdUg2TVdqTUE0T2VaVlNzbnRoZ3JNaDlrbkR3dWxRRldIWmlDUnJJbEE5ejYzVW0tSEJyYmpzNHFMUUJYYkpjS01pU19DQzJQVEU0VEMxRU9yNXdLaXkzR2x5ajVUM3RsREdyQzBkeC1rZnV1WDZWOVJpYjkxX2ZrcHVKWlo1aE53X2lzaDQtS2w5V3VhTlhKbnBYYmZMOVZ1NUlqcWhmUFg4NGM1Y244elhETFUwNXUya1JkLXJ4SlcyQ01KczBRZE1HMWpjRldIXzFjcEh1d9IBiwRBVV95cUxQaFNUYmJyN0lHbkxTSEI0Z1BVRDhuTjJDWXQ4bXIyelp0aHFxT3MwRzR5dnl4Mnc0QlozR2xqOXlkbzFCTkxYbnR5SXNLWjRQeHFhbFl0cFJOZUpHMW5YZG5laTBEWHp6RTA4WUJUVzFycDVtemdDUHkwSVFOLUxMb2I4aEpUNjVFT1BIOVhxREdFVk1Gdmx5OEZZT2pJMU5CLU1zYWJVblN3d0VKNU40alBPUThQQXZ6N3JMX3R5dDJ6X2lCSjl1T2tvZGRWdldNM19HS1d1TjVwVzVRZDVycjJydm5RNTNzTUhuM2tuaHNta0dBV2JhMzUwejQ5WHdVNllieHR5R21kWllrWWU3aUlrU1hTaXhDVEZhS043WmV0Ymp2Z2syM1VtSnE3LUg0Rm9ZMUV3VmgtbWtrT1VMV1FQcDY2alBJcmRtZXpZa0JadzVyMHY1U0dYRkFzbkxxeXM4bFBzVE5LOXdrbG1TdU9XQUdUQzZKSXhHako4Q091SEJ6OVBwc3pDbGdySmktYjg2RElPLWxVWGJGNUhVMjM5TnlENDMtdE9JVVBFbkZaSEVfVUpPYXhVVzBsSnJGYk1ZZzE4RXhxQ0FsQ1AzMkhuUk5PZDRiR2RqQXhZRGtDVkFJTE9ma250bVNsSzlSSkFOQVUwdXFweTdvU3FBNGllcFZHUGJpeXpF?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 20:19:00 GMT",
-        "discovered": "2026-10-09T20:29:46.815972+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ترتيب هدافي الدوري الإنجليزي قبل الجولة السادسة.. هالاند يتصدر يلاكورة",
-        "player": "",
-        "content_hash": "077942efe3899723682b848037517f9e887a56c6285c09506857237ebd2f9258",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1910,54 +1926,6 @@
         "content_hash": "639d8d3238ad9d5201daaacbd0ae2cca0dd9572f8c70932ba84ea9b61e4f33e9",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 9928,
-        "title": "صفقة الأهلي المرتقبة.. عبد الناصر يصنع هدفا في ظهوره الأول هذا الموسم (فيديو) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxPeTZnamJuS3pyTFdXNU5rdTFRdWJOUGdGRkRMdFhWZ1hXX1RLbmVaeWZYemlRQ21mZDJGMTlOWXF3UTQzRU44REowekI4NVpObEc1UHRxU1dxMmNfMmYyMmNZQkE5d1pmbHpsN2Rqampld3BibkM2QmF5b1VXQl8xdDJFcjdhVWRGNnZaZzl6cjB2OWVIb2FEdEQ5NFUyMU1WTS1QYm1ZUnMwRERGS0Q5b01Pb2I3M3ZBeTJELXdFbEpjQXByTzJBa2xnNVJFZkZUYlREV1NWSXhrdG95SFVUVExfQXRYTHlSVUxPamZYMWZLZ0xwS0x4TXQtZzg4X09wX2d5b2lrMWpLa0g3NnVMQWtGdXpMZi1NY2NhS1lMaGRmS1ZwcDhOUHZlSnhBdlRIVm1lS0tPcTFNOV9WNlRncFUwTjRWUU5vaWxNdi1qWWN5ZWlmUm93bGdFamplRG53dWZITERpaFZkN0s2RG5teUl3U0V0ZjlkSWhwckg0bWdZamNlZUo1cThJUy1XMTJoXzd2NFpXSTFrTHM2Vkhpa1RCa2ZfVm14cTNfU0tSZ0JpcnlEbjEwWjhNYVBZRzhBVzBlNl9xOWQ5WFlFM0NwUlZJenBQeEd6Wl9oTEM1ZV9TYXFmemU2TWNUdmNQOGtKTlRIdkxaclNsMl9BdGhXa0ZabVZfZHJjVnl6RW9mT0ZNTzJJTWVmcjRoRWpTMmcySXg0UFRNcHRKU3BnMlNMN3EzNUVxNlozVWFob3RUR3FBd2RzXzFKOWdXeHlBYmFvZ2hUWWg5U3BRMmhFQlphU1ZYTTJWUlhzRXfSAe8EQVVfeXFMUFRHcHhlRjJhSkc1WUswR0trQXlzXzFHNFFPTVdiUGp4b1pBUnV4UGJ0NjkzYWxUX002ZGthWkpJbmJJUXkxQXBmZW84RWlKWW0wVVZRdUc5MktHblBlWHNQdm1JWEtsLWNQcEZGaUdZZlhEM0J4dEVXcjZWX2xsdVJOVS1zc2pYcFpTSFEyRzBBSl9idkVkMFJnTVZ2WFhPV0hLUDd6M29DX0lCRERPOXZxUDBOcDNqaUJELUsyYTBXbVBrSHBaYlhMZ2k3X0FVcG12Umt0dnhxb1gydWFUN1gtc1A5a3N4TkVIQ3Q0MGFiMndnR3VCOGZKVVdsVXN5UTlqWmNxWk85VHZ5UFRnWTBvWGpPa3IzTVNuSWlGMlBQQXFWTi1McDd6MGJkUm54djB3X3FEMnE4MDNDcFhuU2VVY0FKQ1FjS2Z4dDh3WXJlcnRzY3d4UWNORUtUTnJlMXdEeUZrNTIyVDF0ZDhNOS1Zb3BsamZZZVgxYTJLMGNRQ2kxSGdtdlo1MlRNcUhyWHdvOGpoNlE2U1pfVnpsVmkyQld6VGQwc0EtcjZ6d2JNMlktOXVWQ3FCcVhPSVlfTU1xMWc2RzEwWlNCRnkwWFY1ck9tR291VkdfcDc3Vmp6dDdETmtEclZQWnB3djlBSmVvR240U1FlcGczMEVTaWZ5QjNBY3FwMkhFNjlVbkNaSVJSdzRfYmxCOUVPRDRYcHFvQ3BFc09NVVV1V19uUkZ6a1g2R1BidmVXRG1KZE1MOUNXbFZhcVVXLUtUdGlzYjRLV1JEd24zeWJGQy1ZZ2o4Q2ExUTFtTDRyNm9SUnM?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 16:50:00 GMT",
-        "discovered": "2026-10-08T20:54:32.582010+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "صفقة الأهلي المرتقبة.. عبد الناصر يصنع هدفا في ظهوره الأول هذا الموسم (فيديو) يلاكورة",
-        "player": "",
-        "content_hash": "ed4624022809eb88d0558989db79c391fc36751af36afeafa49b1705ead75c0b",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 9929,
-        "title": "ماركا: معايير رابطة الدوري الإسباني تهدد انتقال كارباخال لـ خيتافي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxNanFTU01lWk11UFFLeEhJc09zM2NyRDlhX1RrZ2owUjNJck5nWEdIbnd5R0hBcEZwMlNidFl2Q2VfX0NhT3hwZ0psRUZidzRTVE5mYzZtRC1tbVdfUlA2Nk9jNzRyQ3NKakxmOFlDekR1MWpXeXliVnk1REpwaGhZOEFERldscHBfOVRKdkFOU1c5Y0YzaDl4a3lfZ1YzUzhqaWduc3hnR3ZodFlmams3VVFQOHo2cFlnZ3ZMYTU3Q1NYaEhURWdtUjMtSWVaOGRESmZyUUUtOEtHdVQxZWdPclFNbkRKTGVzTDZxV3VKaXAxekpoMVR0elYyLTEzRkRITzJpZS0tOVJhUElwejkxSTlRTTBUYmdUbDdGbmNIOWg4enpkRVdjdW5yc3lNU3dLMWN5VlJwZzg1bC1GNDIyV090LUcyZUdtbmpHUFk1RTI5ejRJT0kxWElrNkxRZE5Obi1YWlZITWRFMFA0c3R5bGxsN3k4ZzdCSWd1dEhrZnNjTEcwdXd4ZjgzVVJ6VFJ0dmVPM2NUVUN0THRNaDhRNU9zX19nUXRHNjZfVnQzWVBqTlN3WG9weFhFSVBRb0wydm0tUlhTUFYtWU50ZmhGRVppMUNSUnNTX0p0S0ZrOW9EN1JuOWRfR2Yxd3ZuZ1g1aXo1NHU0U1ZtSVNzRXU1VElXUl83VzY0TC0weHhLdE1ndEJENFFiQ1FaT0pmZ9IBowRBVV95cUxOQno1MjJlM2xlc3haSGJmZUdoM2dDdmlFUmRicGhNc3U5YUxmeE8za3ZjQXM2XzhVbTA3bURXZFdSZk1lelZwdl9uR3h4S1E0d1pPUGJrSUppYUE3b25uV1ZNX3o1VktCRk1PUmJnSVlQT2VPbURWNG1mcDRUSzV1RmtEZkUxTnpNWlhkbm1vNzJYbm1QV1hiYU1ZUU01ZEFZVXpTMGgxYUVld2FrQXVVNVFxa3hIQXY5NmVyMEJBTWZ6bGtfdlZ5REY3Y1lNYUtMbVc4S3lkRXFYUG9jWTBNc291eEJxaFVnR3lrYVpHWm04aF9zWDJ0ZV8tWnNRaXlCTWlGbG45ME1ROTdYWnRDUGp5dkdmbmJYUF9vM1NlMWRrOUdUTDVTc3BhZEhXaTBWYm5ZUlhLNWs4M29JUGszVDBuVjduN3U0R2NXN1daYjFJTGdKSnFJU3B6ZUNXaEtVVGlKWm9MZWhkWnAySEFfSE9IdENZTnhRa1BSSGk4c0NPWVZ3Mk9oVzlTcHNMaXhDWnE2LURRME5TXzh2YXBldHVkZzZ5SjhxWmZ4RFRsM0FkcG5SS0pKbG5CUzRILXRrU202d2JqcXZzMGdKaHphTlB2VEtpMjdfUklIREh5aHZLT2tuTFlneFBZWHJZekd5Y3ppaFhTU2l1djNLdzJ0OXNnZk85ZERNYmdpZVV0dlNCY2RlcERDVTdGdFFNM3Q1U1g0?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 16:37:00 GMT",
-        "discovered": "2026-10-08T20:54:33.252940+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "ماركا: معايير رابطة الدوري الإسباني تهدد انتقال كارباخال لـ خيتافي FilGoal",
-        "player": "",
-        "content_hash": "d54fc055efb185a8da92f431e57f8f395d5dd9e17839f7100e2cd73559bf8396",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 10021,
-        "title": "للمرة الأولى... إسرائيل تشارك في معرض مغربي للصناعات الدفاعية بمراكش - France 24",
-        "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxORGNlU0Zfa28yQ1hMYnV5TVlMZXNJX01ReG9ubTF1blFTT1I3NGlqRXNUS3pYd1VId21uc3Y5ajJSSER6X1Q1Zmdhcmx1a3lPd29sRmFzTmhWYnk5VFlCNGk0RDlpTHVlUzlnX3hpeFdoNERobjFlZVhzU3IyYW9CYkNYY19sODJreHN1cG4yRjI3elNoYWNySGlhcWlpWjNvWW9YSXNQczZPY3psM0FhR2hKZlJ5eldaTkdwRnI2RGFVUGFfQW82bVpuOHQtZ2FERm9vaEZrTFN2VFA3ZW1JbFMxTlZ2MTlNZ0F5SS1HR29OYVM4Z0JhMkN1VmNiRzI5WFJPdHREX09QTW1FX0IwSF9uemZiNkg2WVJkVzNrYS1pOFpTSnBrTmFRYW05cnBVOE45SW9RR0ZjVGhDUUJOSnhGaTc0RkhLdkZQR3BROFQ0RmlzbFh2b3pOT2VKLWdQbFNkOFZSd0IwSmlldWRnTWF2VVVXcllkVWJqejNYY19qLW1na2k3bHh6OU5WdUJzVnhNYmlHUVFyRll6SkpYSmhYNl92SjZ6cTI0X2NWeU9naHpRb3ZrcVp1dUJLdW9xejlSWGlqQWxUYnl6VmdRbUJ1WDFFSlZab0lsa01PempCQmFMQkpDdVg2MjQ2eVo0bmJYQy00SFdiOXBDZkFCeUwxeWZVamhraXRDQk42WFpRVmx2WTVxOXlESGN4UlA4N3A2SC16X1FQWjFvaWQ2bm5zemlJQ0tiOVV2SUVuR2lMWHN0N1ViQzJRT1d2UXlFNXJxZmp4YUZHM1hjYThYcW53?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 16:11:45 GMT",
-        "discovered": "2026-10-09T07:02:36.937637+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "للمرة الأولى... إسرائيل تشارك في معرض مغربي للصناعات الدفاعية بمراكش France 24",
-        "player": "",
-        "content_hash": "51839587022e22689317d18dea0e3f36cc693cf3115774ce2bfb6dec6953a067",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2155,6 +2123,38 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 10380,
+        "title": "مزنة دريد: من انتفاضة القدم إلى وزارة الطوارئ - DW.com",
+        "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQektTRnhDRXRNTEM5SkIzWWw1T2NXaklWVnZWSHozZ3VZSkhaRGZxMDNPT2tpOFJNb0FhSXJNWlpxNFRCWTJfNGV0QTRYUzNDTlVDZE5pNGJ6cjJVWHphbVdGVHdCTDhNaGZXUHh5dzVtRWdLQUJxM0x3SGZrN1FMbUFxbzhKUVZXVTNtcnc2M0c4MkxJYTdkbFNxNFI5QkVlbnN2WkxwcDRGQldhZVdhWFdPQkZGNGg1NG1KcHAzR1BUbEFCaWhJMFpqSzdxaVhjdjNmM0dkTi10VFdtalhFckc4ZHlmVmFrVHRnR2sxbHVqZV9QcXlkdU5qTzR0a0U4aXpvcGRObXpyMVVtcGk5emdLNC1QZGdHZXp1dUdXeElTenJtLVY2WlBwa3A5WUxLdTZUMVdiYUlWa2dxVEhTNFN4WS14WjI5WkNfdWpRQ29oRThJTUFpX0pWZFRtdGhsbEpvM0NVRzJQTHBpSzBqUDFlVTdIamx1aGpGalg4Zw?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Sat, 10 Oct 2026 05:38:11 GMT",
+        "discovered": "2026-10-10T08:49:22.258490+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "مزنة دريد: من انتفاضة القدم إلى وزارة الطوارئ DW.com",
+        "player": "",
+        "content_hash": "9df6ba985288a32270fb0a19d2e2a3fa9c39f5639c75654b6b546230c22e0a90",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 10381,
+        "title": "أسرع من الفورمولا 1: سباقات سيارات خطرة تتفوق فيها النساء على الرجال - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10b2Y0eU0tbHhUQVF6aTNZRXZlVmpzOHJhNnBGUjNPRkV6bUFfM0NpbWVLQ05fRGdTSnE4WEJMYUNvNDU3c0JSUXhhMGVXR2w2NkY2Nnh2ejJZanVOa0E?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Sat, 10 Oct 2026 04:43:37 GMT",
+        "discovered": "2026-10-10T08:49:22.838645+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "أسرع من الفورمولا 1: سباقات سيارات خطرة تتفوق فيها النساء على الرجال BBC",
+        "player": "",
+        "content_hash": "01625823c89bc27d0efe156f08beba6d270dce9590cc14314c1ab644a0aee298",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 10350,
         "title": "أسرع من الفورمولا 1: سباقات سيارات خطرة تتفوق فيها النساء على الرجال - BBC",
