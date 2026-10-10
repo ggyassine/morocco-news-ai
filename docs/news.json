@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T09:36:40.893668+00:00",
+  "updated": "2026-10-10T09:51:41.458359+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -674,6 +674,22 @@
         "summary": "الموعد والقناة الناقلة لمباراة مانشستر يونايتد ضد توتنهام في الدوري الإنجليزي يلاكورة",
         "player": "",
         "content_hash": "6819920d7274fa9050d016a94fdcb59441604d4735837a0d37cbf70e3b5782c3",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10391,
+        "title": "\"العفو الدولية\": العقوبات الأمريكية تهدف إلى القضاء على الجنائية الدولية - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPLUdLMGFyTWJrNGVkSEctbkdkM0UzTkwtbWhUNFlCd1I4UmJZU1prQ29nOEd0UWtSSHlCMzBtUUxONlhhLVN5MzcxT0dpc1kxem1BTGNyN1JrYVJTTGIyWmQxenNoTGF5cXFZOE9qMG90ckJhVWRkRzlSWWRtVFFneWJSOXB3RTFpcXRvVGk3TTFHdWtaUFUxWFdYdVo5V24xV0Fna3E3MGlydUVwT2xPY0RtNFRGTklnMEJEYjcwc25weFlOWmt0VzlZVUcxc191Z094aWdjODNHR2JONVo4dm1DZkdaTzJfX01JSzVLMTNIcFNWQnp2ajBzbU9TTHVTMXp4RlpVRUV6aU5BQkpIakU1TUU4QU9WLVlEMm5HQWIzbU1tQTN6aUlucHVFMVpYTE94ekdvejZFLTZj?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 06:33:47 GMT",
+        "discovered": "2026-10-10T09:51:35.961623+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "\"العفو الدولية\": العقوبات الأمريكية تهدف إلى القضاء على الجنائية الدولية القدس العربي",
+        "player": "",
+        "content_hash": "2d1aba0f8ac2e3229d3554f4533369b1a94184746fc7cb487a90b96d47d393e3",
         "sent": 0,
         "section": "sports"
       },
@@ -1426,22 +1442,6 @@
         "summary": "أخبار و معلومات اللاعب يانيس لاغا مهاجم شبيبة القبائل winwin winwin.com",
         "player": "",
         "content_hash": "cd8a752be5793fc697a0739a434d901124c400704e6231ca4011ca277a54e60c",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10274,
-        "title": "غياب ياسر إبراهيم وأفضل لاعب في \"شمال إفريقيا\" عن قمة الأهلي والزمالك - الشرق رياضة",
-        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNczBZb1BGXzVXUUpXS3pKWFRrVXpnMmxYOEI3T2F2N2lGUVNvZ1ZmbzFaNHllZnlFOTY0Z2k4eTF3dHA4U2c3OS05eVZndGlhZFh5MFc1X2N3QlowMzBwT3U4UFdEbWE3bHpjSTFnNVdmSGlGeG5Wa3Fua1plSk53RjRGMkplTEFpVkJ5dTF5U1FkWElDVVU3ejZlc0NRbEFaUkRUdUd3ajQ3REVxaVhRM3RQNFU2QXlIeEg1LTZGNTQ5ZUJkU1JNLUdzZldBU2xpeXNBeTB1TlNpZFBTbE1YTFRwVHAyMHVrdFNka1oybm42aTRWZEdfTUE4MHFLX2NsUkFIUlpMMXY0Q0ZxZXNBbGRjZWJQMGFZelJyZEZvVEQ3R3VndkJRb1djTUtmbXlwcFV4bHE2cWNQNElSYzFIRWJSUGdkUEZGVjNka05mS3ZHdTdBTHNvZzJIYUVEMlVkSkhfWDlhWm45OGRfMW11bEg5cw?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 20:37:18 GMT",
-        "discovered": "2026-10-09T23:43:02.773242+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "غياب ياسر إبراهيم وأفضل لاعب في \"شمال إفريقيا\" عن قمة الأهلي والزمالك الشرق رياضة",
-        "player": "رياض",
-        "content_hash": "971c39e5b0449615838568e84c615d1d12722769d0be6d0a041cfa0cb120dbbc",
         "sent": 0,
         "section": "sports"
       }
