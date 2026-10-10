@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-10T14:00:59.824052+00:00",
+  "updated": "2026-10-10T14:17:56.389801+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 10445,
+        "title": "وزير سابق يُحذر من «البيزوطاج» في المدارس العليا - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FTDJEZUVXVi0yRFBYdlBoYmFhV1lwZ1pnbl9HLUI4aTVseHFtM1Jfc0lkOHpHemVOTWQ3NGlpR0NfYjBVY1M2MUhjdWxmc210S1ZITXE5WURzNXRvQnJuaFpZZUNwUQ?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Sat, 10 Oct 2026 14:03:07 GMT",
+        "discovered": "2026-10-10T14:17:22.510865+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "وزير سابق يُحذر من «البيزوطاج» في المدارس العليا Le 360 Arabe",
+        "player": "",
+        "content_hash": "e0febd9d3af69a92333da650207deac6e0297bb6d0ede1cae2c5839d7aaa132b",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 10418,
         "title": "مقاييس أمطار الخير المسجلة بالمغرب خلال الـ24 ساعة الماضية - Febrayer",
@@ -629,6 +645,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 10448,
+        "title": "مدرب الزمالك السابق: ديربي القاهرة قد يحسم بطل الدوري.. والمباراة تشبه قمة البرتغال - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxNaU9WOGxMc3pkb2x1bWVjdm9UUl9mMlJzbHBUVjNvMG5pOTJJVXdSZUI1MnlUMW1TZEhyY2cxZ0QzRU9nVXFGVWE4V3ZqdmVnbEJUTjlfVmVWb2E1cUEtWkNLSXh1b1Z6d0pZaFp4VzJpYkt0QjA0c0VYSWVKUHJlVG8tOGVDemtETFczZGVvcXI5ME4xNjBUckE3b200eHROOTZUdHM3UFRxQmVxRl95YjVhU0pTWmNkaHBsSWROSm52Ykh3RVNmTEJZR3gyUHdqTmdHMnhGRlRvMnZLYUFFWG9TTnUtcEVuV0gweHdsRmR2WExsTEQwR1MxNk5lV1AwbnBpenFBRHptSVg3alE3VzhPZGo2TlZObDVqYzJmUmRERjVjZVpVYWR4Z3JHTUZTSEFKTHEwWmE3b0hKa0FnY0FOYmd6a1lKeU1WWFoyT3lhQnpQZUVybEpzVmVWcGlCUlVBTUlBX2g4LXd4SmJ2d1JPQzYtdEFuNmRtUkpLVzhVRE9xMkN5Y3FrMXI0czZ5OWhUcExlVzN2VFpLYldZRnNYdUxKaXhLLWY3a3JmcTViSm9sUzhtQTZocUNHbU9Fd1JhR2VvUEVBU0dOaGpqTTg3U04yaEM5VnlQRUx1QzE5OURfNWpZc0VrTHZ1VjQ0Wmc0T1Y2TVMxZEdCY3ZVWGN0ek51SGs3NklIYkx5TzB2NTlHbjlCcTNaZ1B4cmRTMUgzQm5qMHM0clEwZ195amozbzVIemJNN1hnbVZJZVFqVXREU2JNcTUybzRvdzFPbzFJY0wtUVFLSTdzeWx5OUtLYlMzRVplbkJFSFZYTnprdWROZU9obktvUHBLbGvSAaAFQVVfeXFMT2tFVVpYUUtzdDdua2M3QzNvZDgxTnhmTDd2bG5nQks4U0xYN091RkM1TWZpTm9kYlQ0cVAwV09TeFZsME9ybDVuREpJVS1SWFlpYXFNM21fbWhwdFVKaGZCSVJpc0ZhOGUwaTlNSzJ5b2laZXhOU2FOa2dhbURpc1RTZFl3RFhOem1qRy1sM3F6R3p2U19NUWptVDU1WW9SOWNtcnk5LU9TU0JDdm16cWN0RHpaVEVCWEtoQm9rdlpjOEZqNkJxeWZBVzdEM1RyVl91bG5RNVZ5MldGSDc3NldMd3pJQjRTV0pJdS1HUlp0S3VFdVZaVW1ZRld1aFlZR28zaUxTc28zLWRKaEpiRzAwUms0U3BSS1ZvVkJpdFBiS19hcFhVOHhFWFFUVi15MmJ6NF9vQWRSbDdSQ25nMFc3OFowWjBIRVpJbGIyakF4VUZOM2RQQzlyODM2WEppcWVWVVBfYXN6QkNDSzMxaThVUEdGM0xxVjBSc0xxY29vVVQwTFZkaFlCamtkYWJ1LWlQRTJESWRnRDB6SU9VR29TcE1PbXdiR2RVTC1xTWxIeFNDeGFSSUJjNjVSZDVNVmFCV2xxYlBxYm9za25kTVExU1VKMUxXMXBrNGRkTmlsMGhjQm5UNDBXU25wdnN3VFRKYk9LWE03WTd6X1RuNTQ2Uk5mZG1EQzlZOV9HclYxZUJ3Z1VVOWc4T1VyOXhkUi1aUjJGVWdLNGFQbUlxaFNfN2NiQU5FX3VJeklKOGVfUkxjTTdiMkhhRWM3Rmxha1pBTVRpQWpjejRwOVdwZGlDWHZXNE9YZXRXN2lpZGJ4dWx2R0swa0JiZXFWTk13emVlblBfME0yODRMa0trdlE2Y1N1LUVCZy05VG41T3lC?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 14:09:00 GMT",
+        "discovered": "2026-10-10T14:17:36.284789+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدرب الزمالك السابق: ديربي القاهرة قد يحسم بطل الدوري.. والمباراة تشبه قمة البرتغال يلاكورة",
+        "player": "",
+        "content_hash": "29b1bc5828a28a167da90492051cdf5212957a1300a1bcff107f604dbfb356cd",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 10437,
         "title": "أخبار و معلومات اللاعب Rayan El Djebali لاعب وسط النادي الإفريقي winwin - winwin.com",
@@ -1412,22 +1444,6 @@
         "content_hash": "82f226bb069105b65a1c0dc3d90fb31fcf64e08d39ec7c02461ddf0ed6c837bf",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 10265,
-        "title": "أخبار و معلومات اللاعب عبد الوهاب ساطة مدافع مولودية الجزائر winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQOTh3azBvQ2I2SkI5TlRHQlBKTnA1Ym5ZTDJCekw3X0xSYW1aMFM2c1U1STBha1hhNTVpbFFYeDA5X1JLQl9TQVpqQnJWTDFQZXhYdjRVMkpNSzRPajhRdTZUTVdjUjZ0U3BOcjZvWHdiUVFmelBEU0ljM19rRENrQW5LWVY2dHJ2R3Myd1hHY2prOVR4X2tGQVV3dlFOUHVfR29hX256ZklFckZob2ZlckxJSmt6SDBVVTR1ZmttZFdWVi1CaUl0V3N1akFJZkFnb0JqQWQxV3dJUE5UTUNTWE03RkxpR0o1WU9RSzhremExYW5OUS11d3ZYdTBXcXAweU9PS0QwaG5kVGZlR2tsaVZEVXB1a1FIY2c?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 22:46:52 GMT",
-        "discovered": "2026-10-09T23:10:42.487006+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب عبد الوهاب ساطة مدافع مولودية الجزائر winwin winwin.com",
-        "player": "",
-        "content_hash": "450642314c696cee8c0d3dd321ba991e051e513c685a2304781d88d06705a250",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1460,6 +1476,22 @@
         "summary": "أخبار سارة وأخرى مقلقة في المغرب الفاسي قبل مواجهة اتحاد طنجة - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
         "player": "",
         "content_hash": "4017ed3cbf04c5329b6cb27467c717ae45d60d7937dddddf71c063400dfe8e89",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 10444,
+        "title": "نفيسة بنشهيدة وصابرين ومعز تومي ضمن المكرمين بالمهرجان الدولي المغاربي للفيلم بوجدة - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOeGxmT0xna0lNYjRpaUdJZk9SQU9PQ2tLTXNkNUNUSlh5WVZnX1IxaWxZTTZIWDdDWFlmX1loNUxVc1dTLTNNRDZvUnJOdGNCaDJjUTdkWDB0ZGN0SURzcG94R3dOZw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Sat, 10 Oct 2026 08:32:00 GMT",
+        "discovered": "2026-10-10T14:17:22.496512+00:00",
+        "category": "أخبار المغرب",
+        "status": "منفي",
+        "summary": "نفيسة بنشهيدة وصابرين ومعز تومي ضمن المكرمين بالمهرجان الدولي المغاربي للفيلم بوجدة Le 360 Arabe",
+        "player": "",
+        "content_hash": "2362fb1cf8ec6448ae11fce03dfd89428f785302867492784b618ad67d80aaeb",
         "sent": 0,
         "section": "transfers"
       },
@@ -1942,22 +1974,6 @@
         "content_hash": "51839587022e22689317d18dea0e3f36cc693cf3115774ce2bfb6dec6953a067",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 10094,
-        "title": "إندريك \"يوافق\" على الرحيل لميلان.. فهل يكرّر سيناريو براهيم دياز؟ - الشرق رياضة",
-        "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxQbklWa25MOERnd2tvNHM4WXVVTngtUGo4ZXI0N2Fqc1habTV1b2dZRUJxNGl6SFpSVHd4Unk5UEhKUXIxb0VMRVlLbzBBV1BQWmVOcTlyNXhabElvN0YyOWRTWkZkRHFLYjlRdXNzUzV6U2h4MndUTF9mSFlJaE9iSERCNEZTS3hRQU9HbXplNjVHOGhuNnVNczBlOEF4V0RuQVRJd09QVXJjZXoxSFBNeEEyWGJ6MnFwczZyamlGeEhQd0k5NFRjVUZQQkRiNnV6akIxTjNobU1ka3FNN1VRNmdxczZOMjRCN2RGRjRSNzlTWGh1dTZwdkRrUEl0OWlxS0RmQS1oSE1oNzFPUno2aVBXRHM1YXBNT2JlendzaHNKUVNkaVpWUy1rXzdRVVNrV0QxZ0oxSGpBU014LTR2SmdCM1kza2o1dlg4N282OHV0c1lNcWNwNUVqOHZfNENOeG5hWGk1d2FNNFRpbXVPek9FNEhxVmk2cWVCMnBiTFpUclNnWWpBRTBVRjRWdnRvT0pfQlB4RURHSkZtcjdab1BWSTM5RGw2bVU4Z1lGcXRQd0c2VEctVDlUTnR4RWZzQzZZZmRXS3pZYTVfbi1lMDJPb2FjZUFCQkx2RWMwLTJxYUtTX2FVUlpBLV91MjhUdFU5LWR1bw?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 13:22:42 GMT",
-        "discovered": "2026-10-09T14:27:27.080943+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "إندريك \"يوافق\" على الرحيل لميلان.. فهل يكرّر سيناريو براهيم دياز؟ الشرق رياضة",
-        "player": "براهيم دياز",
-        "content_hash": "f6eb5756b3ab7bfd45e5dff1c124726d40fa112e8476d37bb34c3dc4ce600f6b",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2392,22 +2408,6 @@
         "summary": "وزارة العدل الأمريكية: هيئة محلفين تدين طبيباً أردني الجنسية بالاحتيال للحصول على الجنسية القدس العربي",
         "player": "",
         "content_hash": "807ac7d69ae29388bef037ff611541ea2680db22b5980e74b17070aeea315dae",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 10051,
-        "title": "الشاعرة الكندية آن كارسون \"الجريئة والمبتكرة\" تحوز نوبل - اندبندنت عربية",
-        "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxQYklYVk5BZlFBbm9WTmg4bmstNEwxWEhvT2RTOTVfV00tdDJLQ2hIMnk1Uk9BUmU4aVRzRWc1T214emJmeE5KNTlvMDhrRXBIQUR5Ni1OY1MtenBsZGNuU2h0ZjBCS2k5QXcyaEFKY0MxUVRldUsxYldOU3pDSzlkY3ltdk9CdUNyLWhGVUsxU2pCRXA1eVIzSTc2N2J2RlE5dDV1TXVBZlU0WkhJekhoYmYzLU82RW9BeXdVWjhKVm1NU3M1ZDlBaXMwUi11TzRpcC1QVUQzeS1ySVhhRVBaelU3MElpb1JuaExMblFGTHpSa01JTFo5ZldQRUExUDcweWpaaFdacVFpWTZ5MXF3OUZpTk9yYXY2aEowdDdKSldHRTA2cXF4U1lTTGZieDM3cXA1SFo4WGhRVzBKQTFLei1BYllDMGNQUU9ydWVLenRTNXRINDRGcHRjM2dDOURHd19XWF82S3NPLWtKc1g5MVQtQkk4ZHZpNEdRZWczaXEyU1d2dUFPcmhaTmxvempaX0xraWJCZTNGUTlheUJsUlM5Qy1UOFRDOUdWZ0pFN0pURVRJekxuOXFHTHl0RjJ1UUdfQlJmOWJmbFc3bUtQMTNNOUNtVUhFRWRORTFWZUNoT2IzMnJMb0VTOEZqSWEyTmt6Vnhtc0E4aS00?oc=5",
-        "source": "إندبندنت عربية",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 12:57:02 GMT",
-        "discovered": "2026-10-09T09:51:50.457738+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "الشاعرة الكندية آن كارسون \"الجريئة والمبتكرة\" تحوز نوبل اندبندنت عربية",
-        "player": "شاعر",
-        "content_hash": "a677b8e4c4e89b5db71499ac6e892e33cf497c9f932b1557d1a994a94df18ee0",
         "sent": 0,
         "section": "world_arabic"
       }
