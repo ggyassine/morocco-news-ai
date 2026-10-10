@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T15:49:00.059336+00:00",
+  "updated": "2026-10-10T15:59:53.013424+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -564,22 +564,6 @@
         "section": "morocco"
       },
       {
-        "id": 9978,
-        "title": "\"البيجيدي\": الأزمي رئيساً وبووانو مرشحاً لنيابة رئيس مجلس النواب - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5YaE0xbVNKYjVVU2V5SHBqc2U0V1R6Y1BBeVg5UUU5RjB1dGpPTWF4U19rRjV5SXRkZE9tU0p2SHJ3dEhpaWQ4TQ?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 00:45:04 GMT",
-        "discovered": "2026-10-09T01:01:51.693714+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "\"البيجيدي\": الأزمي رئيساً وبووانو مرشحاً لنيابة رئيس مجلس النواب Febrayer",
-        "player": "",
-        "content_hash": "963d5b7ef39b6a9ac79c3f24ad2f0d103c5f45eb6131a7d544b7e0e4ce88b7c0",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 10029,
         "title": "إعطاء انطلاقة أشغال بناء المقر الجديد للمنظمة العربية للطيران المدني بالرباط - Le 360 Arabe",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JRHVVRk91clY2eERPXzJaLW1OcTJWUHNFRkgtUzhkY19EVk5EV2I3ZVVQbUtFaGprWVp3V19US1lmY0NzbjNra2piZ0wzTGNlSkZMVWp0NFhpeUt6dlBmOGNGZ21FOWpK?oc=5",
@@ -677,6 +661,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 10477,
+        "title": "بسبب المنتخب السعودي.. هل يغيب نجم خليجي 27 أمام الاتحاد؟ - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxNblNXd2QyRXhFWkNYVk53bE85eWFVVlZXaWdQNnpiM1lBOFkyN0VpblBQV1BCMUllaGpZOHBwZkJudlFPaFJ3WGtxVzB2M0QyaE1EMEJBQ2M3VnRtODZPZEc0eDduZnFGYjBTTm1rRkp5TlFadXExYmc0aF9UZlNvZlVpMmhBWHhwTnctTUdPOXJrb1dpVWYzZndmTm4zQ19HaG5JaXNlS09vc2JoMGFBS01FTHRMOWtfTnBqNDBGS1l0M2lma254alRteVdvNzVqVHIzNHRPdHdabHBBMmRKLVIzNkFiOTE0elV5MDVVMHN2eFJBQnpVQjJ1dXhhdURXLXFyb1cxWVhReV9RTmVtcC1UMjZOaTRVTEVjZVpOdGVuZHBfRUhvb1Rla2ttYm8xcWh6VV9hTUZ4RUFLTWl3WWlMZG1aT1JoSDF5WVlaV3VDWWZBY002djdCQmNoZThNeFFnYk5Jc21qa1JhODRxVUJ2OGFpVEd3aVRQV3dXS3QtdmllYU5JRFVMYWJEbVgxX1l3NkVTNmtCNnJqN2lOWXRZdlRDVDdfc0g3bWhpQ2VJUGpEZWVaNzNYaXljbER4TExDMWU1cFpObU95RzlzMFl1WDNTZF9QQ1lfT0NFeUtueVE1M21tZ1NWTFA1V1B4dl9tcUpmTkpwUkl4NmRhUVZ1V1JzakpmMXdZNnpCelNTcmwwRDNDbGRoVGxmWXZ5REE?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 15:37:49 GMT",
+        "discovered": "2026-10-10T15:59:26.988397+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بسبب المنتخب السعودي.. هل يغيب نجم خليجي 27 أمام الاتحاد؟",
+        "player": "",
+        "content_hash": "bba2ddada8cb3ac37bf513b02644a87a88777945824a6c70b21ac4e2786f70ef",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 10474,
         "title": "بعد غياب عام.. الاتحاد يستعيد لاعبه في كلاسيكو الهلال - Kooora",
@@ -1222,6 +1222,22 @@
         "section": "sports"
       },
       {
+        "id": 10478,
+        "title": "تفوق مغربي ووجوه غائبة.. ماذا قدم محترفو الأهلي والزمالك قبل القمة؟ - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOdGM1aGRMbXYwOE45N04wWmEwODBfeGVCZS1FR2tDQm12U1o3TlE1SlZNU1BNaHIwenMxX2JxdGVjUEx0cmR6eS1qVnZOLS1PTDFvREhRNjRqTHVRS09BcG5lYW9Qa0VoYmRDUVBZek9QeExDeklWN2JXdHhKd2c1bktxWk1WU3ZGOWlhMXFEMWdYY3RoV3BoRVNfV0drOVh3SUJtWS01ejlkUkM1R3o5MEJGZEVJZ0p3blhoVVRwMF93WHFYUzhPa1RsTGVpUkxSOU1WczR4anhRdl9wQW9pRE9UWnlhOTBiVUFUNHBQRUZ0SzBPU3lIWVhVMjZfS1B0bVpwWkhPLVFPOHdiWjUySlpGT1Bac0RqcFMzQ2FYdTk2c3BTdHVkZzlGaXBWWU1jVnptMDJhLTd1U3g0blFwc2hHanlQeEQ1YXVxSWxsQTFjd2l2NndOR21LbEJjbUhEUkZOb0FjOURqa1BicndEMjZnOUd3bHRlMDVvTUdCbkVDWXFoYzN5UUNNYTRWSS13RFZsU1VaZkgyWUFOU3BtWlcxdVdncW50MXJqWVl4U1BCaTBUS3YxNGRaZGh6UlM2T2I5eVJXTTkyRll5RERhN0M1Rm42RFpMa3hWNk9QSk8tTk40Y1NMSDd4MHU5b2ctS3ZpZ2g3ZWpBTzRIWG9IaU5CYXRQZWtuNHQxN1B30gGvBEFVX3lxTE1OcEM3d3NadzEzOGpHTHE4Z1FkU1VjMzhUWmxJYTdLYnpXM19ianpHbTFWN0VSYWt0UE1EcFhiZ0o0czV0LVRYbW04aGhEYWE1Q3ppclNwcENwd1lPRHI4TlllTlJzclJsUWJMRk85ak1sbjlXV0hvRDk4QUFUYV9MWHFUb2VIa2k0Q1NrWHQ5MldLUTAyVFZwNFc5Tld0OVpyZFlRRmhIdFMzaS1QUko3TThlcUI4LVg1dVdVaG5laG04VkRjNHNkOFFUOC0tWnZRY1B3cjktOGJVT0k4eFI2NnZ6MU9JN2hCemVoR3Y4cEl4TmtNVWRWSEpEWnY4dThtelpFQTIyTl9JOTlVMXRKb215N3k4REZaM2xaLUpRcUdDLUZKZDdNU1otV2RaUnVDZFZObnVvbWVrRk5BVFhNVGZEN1NRZ1NLV1h4Uk5XcjUxN0tsQ2RHSGt3SzczNlZBel9JZlQ2bngyTmxEYkRrNW55UEhvWlVYV3Z5M0VtM0ZLTnhGNkRwWlE4REp0LUU0ZHBOM3RKaHFoR2RxelN3endtcVBXRER5cmhvZXQ4VkYwNFpqazZVaV9uOUFuOXh3STN0U0Nud1RmVHRzcGh2SFVkWkFNRVBEMDVfRVlYckdSWExmQUU3ZTN2REU5al9yTEdibUlYcWlhakZnUHlWSjdFbmt0NC0wamNDR2xrMXlWV1NOeDFQclRKa3hfOEpDMXhVX2dKTG1BSFc0dGM?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 11:07:00 GMT",
+        "discovered": "2026-10-10T15:59:33.227664+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "تفوق مغربي ووجوه غائبة.. ماذا قدم محترفو الأهلي والزمالك قبل القمة؟",
+        "player": "",
+        "content_hash": "5d7711604615f05c5bfd0427099ec49097cacbf61fc3511cbf020fde9c0b5c45",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10406,
         "title": "تفوق مغربي ووجوه غائبة.. ماذا قدم محترفو الأهلي والزمالك قبل القمة؟ - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxOQU1XWGpuQ3dPY3ZSMFctc3g4bFAyVTVZcjdCX2Z0MWphQTc0WV9BNFRSaFdwTVFITjBfQ1FUNElERWlUWURJQXZvbk14TjFBYUYyTXh6c2QxdjlpaXF5cW9wUU82UFJIS2NvY1owNVZUa0M1c2ZFTjlIc0kzZWJ2LVRqVXh0SzRHcTJ0ZkR3amUyb0NzZnRzZENCNTM3Y2IyVFBaaGxndlBpTXZLZGlvVXJvX1Rmb0JINW1kdTN1TEtaeENBaEZjWmM4NDRGaFdpaGZvWnBKVThNa1hWT0hNbGt2RWc3OHBySkVodG5ETGpMY2Y4THZseWh4MDIxdnU3R0tPRURLMmFYRUdsUXhnS1hWMzcwbU5FaEVxd0I5Z1ZIRXZEc1F5ZmhDTktpVmVQWUU2QkpkZ19LaEpTRDZKWGZTS3pjX01HbW9VSzh1SkQwZFpMbGM3VmRRV3RJZU1VaV8zUUEtVmhJNHB3dVZiQlMzd0FkUm1TUXczZTM1RnhWeTl5STZ3UzVlUlhIdnlnRzBxTmctV3dweXpQeFFuN1A1WEhQbHkyM1F1cEliN3lNU3cwSTdpcUpPUXpMTE9GbHZ5enVsVjJyMkZPcndHbnZmZDZKcWRQLWpPQXlmUlVMYXQzS29tZUptdWJfa2pTMzNsYkNGcExrQ01iM1I0VENrNVNnNUJMTWQ4Mnc1cTIxOVFma0dfVzY1eUZPNTBNc1hIR2l4b1h6Z9IBrwRBVV95cUxNTnBDN3dzWncxMzhqR0xxOGdRZFNVYzM4VFpsSWE3S2J6VzNfYmp6R20xVjdFUmFrdFBNRHBYYmdKNHM1dC1UWG1tOGhoRGFhNUN6aXJTcHBDcHdZT0RyOE5ZZU5Sc3JSbFFiTEZPOWpNbG45V1dIb0Q5OEFBVGFfTFhxVG9lSGtpNENTa1h0OTJXS1EwMlRWcDRXOU5XdDlacmRZUUZoSHRTM2ktUFJKN004ZXFCOC1YNXVXVWhuZWhtOFZEYzRzZDhRVDgtLVp2UWNQd3I5LThiVU9JOHhSNjZ2ejFPSTdoQnplaEd2OHBJeE5rTVVkVkhKRFp2OHU4bXpaRUEyMk5fSTk5VTF0Sm9teTd5OERGWjNsWi1KUXFHQy1GSmQ3TVNaLVdkWlJ1Q2RWTm51b21la0ZOQVRYTVRmRDdTUWdTS1dYeFJOV3I1MTdLbENkR0hrd0s3MzZWQXpfSWZUNm54Mk5sRGJEazVueVBIb1pVWFd2eTNFbTNGS054RjZEcFpROERKdC1FNGRwTjN0SmhxaEdkcXpTd3p3bXFQV0REeXJob2V0OFZGMDRaams2VWlfbjlBbjl4d0kzdFNDbndUZlR0c3BodkhVZFpBTUVQRDA1X0VZWHJHUlhMZkFFN2UzdkRFOWpfckxHYm1JWHFpYWpGZ1B5Vko3RW5rdDQtMGpjQ0dsazF5VldTTngxUHJUSmt4XzhKQzF4VV9nSkxtQUhXNHRj?oc=5",
@@ -1442,38 +1458,6 @@
         "summary": "صبرة لـ winwin: أعتز بثقة النحاس ولقب الدوري سيعود للوحدات winwin.com",
         "player": "",
         "content_hash": "b8b87afd9743d3f6d9e696f578fe7f0e137010b8555b5396a6a16ff105f8b0a3",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10404,
-        "title": "بالأرقام.. متى يستطيع كريستيانو رونالدو تسجيل الهدف رقم 1000؟ - الشرق رياضة",
-        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQUTBMdC1iSUZPbGtoeFRDQWpJQmZCMFhGUlBQZjUyLTdVaTlqV3JPaFZlb1VheDF1SHBWdV9lQklnYTRBS1JPV0tXejFsNy1PbGlON01EVXVldHFMUEdvNjBvdGJTRnM1ZG85aFY4Q2xRQWlmVTZ5Q3Vub09sWEJfaVVzRnpWR0Z1TVpWNUliWklIT0FZMTdxalBCdTNmcTgyRlRfcXIyVDNfRTdZOHMzQWo2R2RyMm1tYTBfSDRvakh0V0JrcktXTzdzWnRRbS1QVnppdGs4ZWs3aUJ3allRLWlZQUdnTnU4LTVhdTRrT0M5cFhhSkR6SFFEVVYtQUpaNkVKYXlSSWJ3LS1tdk1OenJXbzd3TnE4WVlYTm1QTGJHbGR4a2l2S0huZjJ6eHJ3UUJKUkJmWDd3MjdBOFRSUjllVUgzOWRqNmt3aF80TzNTRkd2RGJZVlFGQmhCUUhUZFdBeTBQMTl4Wm5TY1lKcWxiWHhuRVJEODdMa3hmNWVnaVN2MlhfQkxCVFp5MThEdEFFcjAySEtDdw?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 08:18:37 GMT",
-        "discovered": "2026-10-10T11:17:22.919743+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بالأرقام.. متى يستطيع كريستيانو رونالدو تسجيل الهدف رقم 1000؟ الشرق رياضة",
-        "player": "رياض",
-        "content_hash": "75d5fe79116b1077764278440d868e5abeb222149b91c80637dddabaaa84af60",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10401,
-        "title": "النجم الفرنسي السابق فاران يبتكر مشروعا لحماية مستقبل نجوم الرياضة - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPWHp5OWpPc3FoMjBmTGFsWm1fTEltbUI4Q3dGLVZwRF9WenozSlJlN3Z0RE52YVk1b0FKWV9vZUdJMDJWNklMRjBnVndwakxtdVdvR3dQREFHMHdVeDREZkhqb1F2dWdUbDMxQW5aT2Z6cjZ1cVFmd1dkRG91eXExVUZuV1ZTSWIybXNQYjlVbWdqWG9JY19HWWRhNERSeHlNbk9qR2JXSkttcGdMWmllcDNEbGw3d3FBN1FQcnB0Q0dWLWU3dkcyRXZtLVVoVllkNXJEdGxpY3JQQV9jazdrbDE0U1lqMlY3OHJOcmhwdlNheDZrNGMtSVFMeEVNQVNTQURVcEQxMzVzQnZkWjlKN3V4V2E4YTY0Y3J5Wm9XMXVaUdIBpwJBVV95cUxOOUdDQVlvNGJUS1gxYmM2Yms0M0lJQXVFd0ppMkx3ckpqNDZaMGU5WDJhQUdlbWRLMkZibVV4T1NZRHlnanRIVFNOM0t5R3BCdjg2dExqeHdyRjk0d3hLUXp1ektVYWFzclJpYjBKZC1pMVV6V3lBOHk2ZXdRSEhSbXRSR2F6ZTBXNkFGYUgydzh3RGRWbl85ZS1tNlNiTnZoNTQzLW5iVUE0bEQxLTM2MXFtbHZtZHdGcWpja09Ea1ctQkpUMjVUN0pwMHFhTE9iTnVucUJKMVVHSHNPZjhnYTA2N1FnR1lXRTNjcTVYUFdob0d5bGM0cTdjWGUzU0oxVDAzTjZ5eUpzYjlBTmZ0eVRGd3BILUNpUG9YS2E4MWZRcHFhOFpv?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Sat, 10 Oct 2026 07:54:55 GMT",
-        "discovered": "2026-10-10T11:00:54.365787+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "النجم الفرنسي السابق فاران يبتكر مشروعا لحماية مستقبل نجوم الرياضة الجزيرة نت",
-        "player": "رياض",
-        "content_hash": "333666e6e2c2757eebb82948be7d9fcf91b529a3e6ea21656549083211a0cc39",
         "sent": 0,
         "section": "sports"
       }
@@ -1994,6 +1978,22 @@
         "section": "middle_east"
       },
       {
+        "id": 10479,
+        "title": "من أمن الإمدادات إلى الذكاء الاصطناعي... قضايا تجمع قادة الطاقة العالميين في الرياض - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMisgVBVV95cUxOUTJKb3pFVTlEbXNNN19Rd1FnWm9KTlNYZU1ob2ZyUDJKUUlydk1WQ3B6ZXNQMEttZDBzVWh6Y2p5MDl2dE03MzZSUWQxTXlwUmIwNW9xT1AydlM4QlF6V0xIcFZiSVMzR3RyOVEyYzNWNF9scnpvak1faU42RDY4dUpKSmVRV2FscENsM0gwWkRmRXlaRHlyZVFyY1JBeEJZYjN2bDgwbVdWVl9mT0IxaDU1MkVQb21uUWpWSzNGWHpaRXplaUdhMnJiLWRDZjlnaDVLOXl2SVg1X3RWRmRXZXYyUHdBc2Z6U3dZR0M2clQ5UG5sSUswai1Za29TSGoybnpXRy1hMUMybnVxREZEZnpjWkE0WnFxUmlXYVBfTGVyVkdYSVRWNnlHYXlUOWZxRklUajlXd3J6N1RTRHkyUVdLZTdEcjlUclliWWU5M1o5UFBoR0NwYVJwMFRfWDhBMUVCZUFMckxwbXIxZF83TmpZaHNBM0JQT1pCSHpla3BTRDZaS09PQVU0a3B3Z1dYSUl2NE1LWTB0VUN6bkZFaWVUSmdQQllEaC1WRDlHSXhVX2hUWXBramlySXpLNG9BQnJIUTc3cTNreExqbTc5S055aEUzSjVCUk4wZjlBQ2RrWkVpREh1TGRIdk1qMml3UUpJbFFyYmJ2QlRRM2hUQ0JieTlRRzBhM0FlLTl2WUZSOHlqaDhfN1R5YWxKN1lISkZTUzFPNlBxd0VZMU0zVlk1QnJEUUtXN3FFXzMtLVlMYUFXbVVGU0hWUjhiNUJ4QmgtY1I3QkMtWjVzQXVBdlgydWJvREhSaC1sTmFFWFhRQ1h4ZnlFSzBScjdhOExzU1R0eHJaQjVncG9tQWJqQ3ZWblVxWUgwTUt6T1RyR3dGYVk2MlUyQi04SlluNEoyZ3c?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Sat, 10 Oct 2026 08:18:46 GMT",
+        "discovered": "2026-10-10T15:59:44.805512+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "من أمن الإمدادات إلى الذكاء الاصطناعي... قضايا تجمع قادة الطاقة العالميين في الرياض الشرق الأوسط",
+        "player": "رياض",
+        "content_hash": "2999fa462b23f9237230fe47d86866848b702a7e2d35d6ca122ac2999809a9cc",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
         "id": 10295,
         "title": "الانتخابات الفلسطينية المؤجلة تعيد تشكيل المشهد السياسي - الشرق للأخبار",
         "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPazVBd3FJSENOSDhMVGNmT1hxT3pJWnl2M29WaGF6eDVnNTBTQWtKa0dBVzNxQ3U5R1FqbGZFNUhDcmxKZ1RHbFN1Mk5LOHM2X3VVNzFlM2VWNlV4UzN1QmsyMUU2M0pDTVc0XzhTYnlEWHNxX00yZWRIVnhkR1VOLTU3eXdOZ1U0UWNUbGF6a3VkNFdXbXl6VTBneTNmRGxXRi04LW8ydnBtdzRyMmFZNnJwZGRLSXhEbXkwUlFLbENKa3RUZXBwU3h1YlhDTVBDaGZ4VUxBeFdpaWRwdDFfbE90UUJHdmM5UHV5RTYxRVJTZ0xieUI0dGdTTEFzMkdMamdkWW9Lb2lxbHFEWE02ZjBKNWtWcHN0dk1fNjZHRldvOHE2akJRVTBETG5aTmJLZGJYMzVYWFhMMHpEcmYzdUFvdTdWRmo2dl9nTk1mNnlnRlJWR0ZCS3k4QURxd1pzclFnSmw0alFmZmFnTUtxeVhobGZ6Wm1zeWZVZFNpZzZzQkVJdnEzS3loZXR2enFVMWRUVWdPSEJaSG1MbXlhOFJLR2pIdjJCR2NuWGFCSkZKV0Q2N3JXTFVNNWdpZG9qb05KdkM5WmhWbjJjVzk5R25BVVhXUGEzUml2M2V0N25iTFg1?oc=5",
@@ -2152,22 +2152,6 @@
         "content_hash": "75301bd192331d5f1c0b639b1b0056cee5666a90bd9a999373a44d822ab4a845",
         "sent": 0,
         "section": "middle_east"
-      },
-      {
-        "id": 10020,
-        "title": "الدفاع المدني: أضرار في روضة وعيادات طبية بالرياض جراء شظايا باليستي - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxNMlRlTzhYQ0tITnRnY0JHWE52MnpjdkEyUkhKUHhmZ1NmRmdwcmt0Zkx5a1VDenl1R0xmUm9pRHRIbnY0NF9nUkt5dUVTUE5IRlpfZERPRVF5Ui1tVG5tcjZHUDBjSmhfNnl3RE5xMDBUUjgyVXVNVkJEZGJ3blQ1NnYtN3FEc1NLQi1PU1FhaTBfZ0dYN3pDa3MzMGRiajFPbVFqcE4xcEl5UXZtbGNvQjZ4TGRHbkpIVlJwcjNIOFhnZjlyankzYzZ3b3RsamlmOTRMUjFEZnB0M1RjZ0RyaFBIak5ZX3JLQ194dFV0dUhXNi1YMlBYR3hZWjc1aC0zeE0zejNVa1l0ejVmMlgwMzVCMnh3ZjBMQllpcXhCLTI4VVlJMjZYWG1vNFRJbWU3Q3NpRWJlZEpkUzdIZ3F5aWxtME1VNUJKM0FGbGlpNVJMN3R2bGJNVmJZd213aVNqYXhoQzJHLWQxRVUweDNObmszNnUzU0tma0hGSTRIcUo5NFVyQ1g2d0wtRlMtYjNtZWNxTHlfaUxWX3pyRHRkOC0yeEN2SC1WeW1aV0h5RE53enRBYV9aOEhPcEJlTlE0cE9sQ2tHaXNIZklmckk4SE5iR3paVklFN1BxbXJTOTN6LTN0UE0yOS1WUE9sWHVVSkNEZlF1TmpGX2FIUGFfOFZZbnhBVFZUSUJscGRza2QxdlUyT01lckc1V0xmRlJzZzE3WGFrNE5fUUp1WHgweF9iT3J4SjJNNEU2YTlQWjVsTEdRYndJU1FMUncyeExOTHo1RWN5M0x2eGVwajdpeGd5WDAybnZwTEJhc0FwOG9ydkdDWXlzQ1QzN3VBNThXbzh5bFl2WUxMUlotcF9rU3ZQdVVQZEVJakNfWVFTZ1Z4QVRvLW14Q2h3?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 14:06:47 GMT",
-        "discovered": "2026-10-09T07:02:35.250050+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "الدفاع المدني: أضرار في روضة وعيادات طبية بالرياض جراء شظايا باليستي الشرق الأوسط",
-        "player": "رياض",
-        "content_hash": "e752e5c0701d607fe849d1f639372a6edbbc9cb25d694eb38baa1d89a6507e94",
-        "sent": 0,
-        "section": "middle_east"
       }
     ],
     "world_arabic": [
@@ -2296,6 +2280,22 @@
         "summary": "أنباء عن انفجار قرب مطار عدن جنوبي اليمن، ومقتل ثلاثة سعوديين بهجمات على مطار الرياض BBC",
         "player": "رياض",
         "content_hash": "2254833b18c17db3b99e05ca725e985f9c6207dadfaaf5db547ca8209fd1af47",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 10481,
+        "title": "فيديو. فقمات وأسود بحر تخضع لاختبارات سمع ضمن بحث أسترالي - Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcDJPWG9CbVVUYWJYTmQzMC1MN2t3Qjl3elJ6eGdSS29CVlNzRzhvWmFoazNZc3VuN2liNWJkWDVGc1NhOXdSazdMbEE0MXNIenBPdU9jTEl2bTByMk5QYmFodTliUVc0WTFWZGRNVVIxZDJwRmdHU0QtQ0xuc3J4bTMxWkVST0pPT3Nqc0dtM2JEbi1Id0VtT19LTTJhbmtveFFIcjFWdk16SGVYOUE?oc=5",
+        "source": "يورونيوز عربي",
+        "trust": "C",
+        "published": "Fri, 09 Oct 2026 12:46:39 GMT",
+        "discovered": "2026-10-10T15:59:49.718423+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "فقمات وأسود بحر تخضع لاختبارات سمع ضمن بحث أسترالي Euronews.com",
+        "player": "",
+        "content_hash": "1cdc9728ed6aac4791796e7f447a6c528b3f18a80b3623920131e5306cb81de6",
         "sent": 0,
         "section": "world_arabic"
       },
