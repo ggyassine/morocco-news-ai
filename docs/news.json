@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T18:13:20.327104+00:00",
+  "updated": "2026-10-10T18:33:52.527264+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -596,22 +596,6 @@
         "section": "morocco"
       },
       {
-        "id": 10029,
-        "title": "إعطاء انطلاقة أشغال بناء المقر الجديد للمنظمة العربية للطيران المدني بالرباط - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JRHVVRk91clY2eERPXzJaLW1OcTJWUHNFRkgtUzhkY19EVk5EV2I3ZVVQbUtFaGprWVp3V19US1lmY0NzbjNra2piZ0wzTGNlSkZMVWp0NFhpeUt6dlBmOGNGZ21FOWpK?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 23:02:13 GMT",
-        "discovered": "2026-10-09T08:16:12.759811+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "إعطاء انطلاقة أشغال بناء المقر الجديد للمنظمة العربية للطيران المدني بالرباط Le 360 Arabe",
-        "player": "",
-        "content_hash": "824481178a6b993f0127e4e6fac6b4d3bc9b4a31146e090a187c62ea78b9342c",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 10292,
         "title": "إدارية فاس جردات الحركي الخياري من عضوية مجلس جماعة عين الشقف بعدما ترشح باسم البي بي إس فالانتخابات البرلمانية - كود",
         "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQRTJROC1JNWg0dkM4ZDM4YWtLTExoQVhCamNYLS1LckxjQkFsbTJydFJtU1hNVWlDdWNHM0NsMEZHa0w2VldrdlJCODgta19uZk53VkE3WWdZZ2hQMHRrTWNrSFdUQWY1XzdMTnVPcTdJUXA0YmtQNUphaUd4NmpjdDlDNTF1WkRtMzk0M2lLaENCRXFtR1ltZEQzSnkwWDNCTldoRU5TNF9udllDc3ZfaDd1VlZ3dWpGalU0eUV2VTN6RUxxMXNUQUozZUp3V0g2eVhDZTVDNmFNOGhNemJiY2M3ZnlGZjktODREamlFaTQwM1ZrbHdjSklOaVpNQXRnRVRvb2k0dFVpMkhUWW9NOEJmMEs3MWRDVHRacGxiRXppMk1jN2k3cXE2RHBkeVUyelRIQWRid1pTMmN4aFAwcWFydzN5cFYwdWc4?oc=5",
@@ -661,6 +645,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 10529,
+        "title": "أخبار و معلومات اللاعب Joselillo Gaitán لاعب فياريال winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLUNiWkpuSE9wcFVMMmF2Ml9zZWFNSmpMODRiVnVnLUVFcW1sOE52eDlXbWQtN1p6QU55ci10U1BfZmNsX2ZWd0xTNDVXZ0RqRjk4SUpzMWo0WkNOSFF6aFpQNVVXaWNvOVJMUVRWRVRVc2poVEh3ZmRIOWJOMEFLd3RxV0QxY0N6R1hHa0ZXbDRrSUJ5ZGxyLVNiTWRsRlFBcjE5SFVGbl9lN0M0ZGk0SnNxUE1xUlU2bS1YNDlZTGRJeV80R3JOc2JUNA?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 18:13:02 GMT",
+        "discovered": "2026-10-10T18:33:35.627494+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب Joselillo Gaitán لاعب فياريال winwin winwin.com",
+        "player": "",
+        "content_hash": "fbb9a668b53aea4f88b26e64fdfe0e56296bc2ddcf361a4d5176b95f014e1866",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 10527,
         "title": "الزمالك يختتم استعداداته لمواجهة الأهلي في الدوري المصري - يلاكورة",
@@ -1444,22 +1444,6 @@
         "content_hash": "1a1eceac817a9c5c63375290a01be6e0af73bfbd633a0fcc94d4fdeace0281c9",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 10426,
-        "title": "في المباراة الأولى على ملعبه.. إيقاف مباراة رايو فايكانو ضد بلباو بسبب الجماهير - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxOTGxwbmc4X0pZMXpOMG5YTjhIXzVqSTdKOHFEWmR1clVUYUJmeHVzOUN1dVhwdjR5UjVRQ19NQTlSYk4zXzRYOHp4anlPZzh3RXlNcklndmYwUmt1bFl6NXFQQ0dLRUwyVldnOFFzVnVXY0tSZ1RYX1l3c0xZdjhuNFA3YzA4TGJSUUFKVzJCcUJHMlR0OGxTMHFRQXdjSUtKei1lSFFMSnBqNDM4QWhuRVYyTy1Pb2lYV3o2ekpRWk9xaG9QZTdmelVDTVhycGdFdUdUOGJGRmEzZklvZ0JtdXUzZUc2QjE2MXhIem9CY3ZvX0NfMGotaHRMdC1aYzBuWklvZGZCS2Jfa3JsZTFqY0pxUzNXRU5vcnhxZ01EcjRnUnVyb20zTDFCUVk4andzWFpEZGNWeDBORjBZVEpRMndFdjBFX1pVbVc0cm9ZV3ZGc2oxSGlqa1hwNDBmbXhKOURhMG5ZeDdxSHZzbENTaUVtNW5tWGZZNWhWZnNENFgtNEVMb1U4ckM0U0xjdXFmZGpFY0dKa040eGdmdlVFYl80d1VYdGJzYWstWVJ1N3IyMGc4Z1ZXZTR1TFN5Q0UxY2dEVExrVEowd1kzMXQyYm5HSUwzNDBVWTVmNVpCaTdXYVhJSXhaamNHak5zMWlraGRjM05Lc2tqOUtTV2xqYlEyLTlSa01lc1VyLU5sa2lvQkVSTllMUHlCNTVpSjJ0YTlNcVdBVlVibFRSTm1wX2FicVd4andua0VzOWVGVTV1Mmt6UWxZelZLd1VuT0tJNXJtWklVS2txTGNndHZ5RDVncnVKd3RZMkHSAe8EQVVfeXFMTUFGMDFiT3Bza1BXX3JnbGc3Mnl2WFB3NGhfaXZiVkxKZEFfUlNtVml2TFZYbDJ3U282N2k5UHNhbDhjV1BUeG9nZmV2WXZKeExUZVN5VWp4NHd1Q3VDTjBSRXFsczVISkxZbzNSNHVQNGE2QUZaSFc1N2dFWk1veThFeVRUQkdmRUVmYXdCMGc0amVvWW0yRGRXeGI4WHNpd3pFRThyNWgxeG1SdzV6ZTNIbS1wX0RnZnhUa2luVTlmS3E3TnZXX2ZDZ3FTOUFhSVpjLURCTHhqYVhrS3Y3Y3E0LWxibVBlV0o4OWxQaWJFamRZVkpSQW9sdkExc09TbTRBWE5IX2Rza2lZTzF2U2JUZEVDcWhkNUVkZHpHb0FjZnd3Ny1yY28zd3ZfSGp2akxLbkV3M0dMVFJ3QVVZSDJMck5ZSndwRzM5Ym1UN1BvNkkxaVJrM2hTVUV5TllvU0ZDZm81NmxKUjc0X3c1LWdaT1lCYXNLUUQyblhMVjZNMFNFT3J0bFFveldqZWJQOE1tSmpBZzlwcEtQSGxpaklHZ2VIX2U3SmJZbDMxWVlPNWI5S21vZ25mY3lkS3R3amlBUnBwQWI5RzFYbGxNOEVWQ1JUdk8xNUNLTUNOcVlSRzZtcEt4clctODZaYXA0emhOcXpJbUo3eGNELWxoWHU4ZkZqXy05X3BDUVQyazdhUHEtLXF1T0wtLTFseUxIVTJCMjhsN1Z2NmpQdGx0R0k0ZDJPNjAwWTVudkQ2dTBkZTVzSUZ2MFlJWldlMF9aSWZGMHkwTEpLUm8yemFad0RVMVU2TVAxeUxoVlQyUUE?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 12:47:00 GMT",
-        "discovered": "2026-10-10T13:00:27.331390+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "في المباراة الأولى على ملعبه.. إيقاف مباراة رايو فايكانو ضد بلباو بسبب الجماهير FilGoal",
-        "player": "",
-        "content_hash": "29e2b12649871ee6be25e978f25813db98410076afd5b0047f6b77b9809e1d9b",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2106,22 +2090,6 @@
         "section": "middle_east"
       },
       {
-        "id": 10030,
-        "title": "\"ورود يوم القيامة\": حين يكتب الشاعر شعرًا مختلفًا للمقاومة - ضفة ثالثة",
-        "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQWkNTZmFvZGhxcDBERFNqc21SYXkydmd3VVowZ29lbGwyVVJDSFhJbVg0SFg1d0lMOVNSN3N5UmVFQW9LTDVRMExYbTBnaExKbnVZdWhsR20tdzctQWpCVXJCekVUMlFJMFhQc0R4VWpnMVBrbkVwSjRTdkh4M3dhR2tqN0RaMXlPRXdqVjUyTGxiNmxkVjZXT0hubHdnUnUzU05xVFI5bXNmdlhaOFFTV3paOUlOVlZUWUZPeEZyeFY5TEw5UkpYZEdVZC1rWlAwM0hyOHRlOUJrTHZQR2d5a291aEpOT294YjdwUWQ1cDJHU0h5OHdSWGExVll2Q3NDNHUtZG5aUEdOLTQxYjQ4azFQa1FwRS1FeDVGcjFScUJCRVpWQjJIcW5kc2s0YjJ0eC1VTXN4bGFVQ3hxYS02WG5tOUE3WS12REo3Q1UyWnFpcVNiMnhzXzJBNXJNTTZNY29ONENSQXBQVEhwcGlYRjNPNnE2MlRYTFZval9tbm1wc0VMN0NsbmVhcjVMazhpWHJFaW05NTNDTVhOT1Zvdm5oN25WSk5JUDRfZFplNmpGNUJXNTltQkNZd0pucGVjdmZ3LUpzSTROOF9IZDBSYzdYX0VjMzRqLVM1N9IB3ANBVV95cUxQWkNTZmFvZGhxcDBERFNqc21SYXkydmd3VVowZ29lbGwyVVJDSFhJbVg0SFg1d0lMOVNSN3N5UmVFQW9LTDVRMExYbTBnaExKbnVZdWhsR20tdzctQWpCVXJCekVUMlFJMFhQc0R4VWpnMVBrbkVwSjRTdkh4M3dhR2tqN0RaMXlPRXdqVjUyTGxiNmxkVjZXT0hubHdnUnUzU05xVFI5bXNmdlhaOFFTV3paOUlOVlZUWUZPeEZyeFY5TEw5UkpYZEdVZC1rWlAwM0hyOHRlOUJrTHZQR2d5a291aEpOT294YjdwUWQ1cDJHU0h5OHdSWGExVll2Q3NDNHUtZG5aUEdOLTQxYjQ4azFQa1FwRS1FeDVGcjFScUJCRVpWQjJIcW5kc2s0YjJ0eC1VTXN4bGFVQ3hxYS02WG5tOUE3WS12REo3Q1UyWnFpcVNiMnhzXzJBNXJNTTZNY29ONENSQXBQVEhwcGlYRjNPNnE2MlRYTFZval9tbm1wc0VMN0NsbmVhcjVMazhpWHJFaW05NTNDTVhOT1Zvdm5oN25WSk5JUDRfZFplNmpGNUJXNTltQkNZd0pucGVjdmZ3LUpzSTROOF9IZDBSYzdYX0VjMzRqLVM1Nw?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Fri, 09 Oct 2026 06:15:54 GMT",
-        "discovered": "2026-10-09T08:16:33.869495+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "\"ورود يوم القيامة\": حين يكتب الشاعر شعرًا مختلفًا للمقاومة ضفة ثالثة",
-        "player": "شاعر",
-        "content_hash": "19b3ec572b1a34d1732763ae358cb6373dd361930045dd4fbbef838db6cee6cf",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
         "id": 10363,
         "title": "من الرياض إلى صنعاء.. هل تغيرت قواعد المواجهة؟ - سكاي نيوز عربية",
         "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOWFp3cUNkWUhwS1ZzUk5ndUFkU2VCTk9yNUloNWQ4SlJmSDFZY2ZfU3VLa2N3eloxQnVqcnNscGNzaU5xNWFjdUVuSG1jamJTWm0zWHFNbHVlbmw3bkt4YVNDM1NfWENtMXZmSFpNZVU1QmlFS2cwTmRqR2JjT3N3S1RBWG1oeE9rSk1sTXNhMnBiQVp3eHFKV3FRQlM4WmhRZ0RBSHpsc2ZQdC1IVXVYUUZvYnpIRnp4Q2RDLWJlMHJ0ZHEzdUVkV2oySDFpMTY4eDVzRVB5X0dPNkJEQ3FGeUg4cGtxNW1jckJiSi1nYl9la0J6OHJ2S2JuWXN6ZmdMZlJySkJNbnhUTTlZUG1DdjNrRWJwX1RMdWptTmh1SmtMQm5PX0JWamNQSkhieWNGOWpwZnNwRkRfYTRCUjc0dGFYMmlpUFRBYXpobtIB0gJBVV95cUxOTC1JbnZheGFyRzRwVUM0b0F3N05uV3JLcVVPSFdtU1pyUnUxbEVDTmdMV1JNYnZiQmJZYnhXNWYtUVdTbzJZY3pLMzlSS3ZTbHFObEFVWUlWYzl5dGxRQUpueDFrWFhWemNhdFYxMGtHbjFpNGdkRUtNUFMxaGx4Y0lhNENwd2M4NjlaRTgtdXk1Z3RxLUEtaXlZMWhiVnY1cW1kWEkwalEzTWxxbXkyYU9KSzYxNmpKOGUtN0JaX2t1YW5qb0FSNnRMaEZ4WHpHZlJKSl9pUkNnNVM0QzZDR3luMVdTUjAzRlp0ZmpGOGp0U29XRENmZHlhZUlyTjFva3ROSzEzbUlaQjlnbU4xVUk2SERyNERlbUpkUXRHSmQtOGxObXdueldaWWVkOVdzNS01TnhlVEFJQmM2a0Z5TnpyNHdUVTUyZjdFQkJkMGFudw?oc=5",
@@ -2134,6 +2102,22 @@
         "summary": "من الرياض إلى صنعاء.. هل تغيرت قواعد المواجهة؟ سكاي نيوز عربية",
         "player": "رياض",
         "content_hash": "575ba0585ff0d0f43c0ac442ef0b05909677522d1f0d34ea3873b6bc32bd6ff8",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 10143,
+        "title": "التحالف يعترض 3 صواريخ باليستية حوثية باتجاه الرياض وخميس مشيط - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMiggVBVV95cUxQbGNSVHF6bHk5eTYwOWJsTmxiTkVHX3V6R3hMeVluMFdkMWtDRWh2YXlJUDFral9hNGduekRyS3VVRHpYU0VpX3dGTGZrZEZtWkl2YmlLZEhaeHJHWnplNGZtTThFWnB3WUh0WVVGVjFVVEF3U0dNOFhnVDNoSzgwSjUwV2pSMk9hdXYwOUpDSHpUdmlXZDFaRHUwZHBxdjNOSTJmVzBOUVdRcXFMemFaWnI5VTNrMjR2NmxJRlNmTmlUNHR0SERsUnN3bW80dDlpU2FReXhsRkFCY2QtNUNBdHZvSG5uWlBEUWJEZEtwRHJHd2VPVU1Ebnl5dnNaOF9nQzl4dHg4Q0toQXRHYUcwaDhXTzVWX1lWRjZ5aUdTVm51MGVuc0lvSTlhMWt4bGlpeVlEYmZLaDN6djFOVHNRdG4td01JQm1rdGdBT3VmOHdwMTNjdjhqZ1RRTHNncFpuZlU5UnNjZVUxUDlLLWFLSXNJN1k5NkprTGh4MmU4N3ZfdWxFUkxrYThIbHhWaEt0WUhtRm15ZzM5NGIwQ0hJd1lMemd5bDNXNEx2Z0E0dnE2ZDNMdzFUWVVYLWw0UDQzNzFub3RzaTF1VW9US2Rud0JzZ2JtMUp3cXotc0NRRzdaVXNYbFcwaUJQZnJYMk5NWDZJeTN2U3oyZEJRVUtlQTR4WnBIQUZRWVVVRmNLX3Yyd1pOR084eHZmTmU1Yndac1dHSWxmVmNpbWZVcGZBdFBfWjNsaHdFUzRkS0loaVJFUGtLYnpMMTZJb1FqYUxmaDQyYzVsd0xJTm5fQ3BuRUZ3S21xb3BNYnZlM08ySVBrd0ZVTFpjbHgzTG1TR0pYZVE?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 12:46:14 GMT",
+        "discovered": "2026-10-09T17:27:15.770541+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "التحالف يعترض 3 صواريخ باليستية حوثية باتجاه الرياض وخميس مشيط الشرق الأوسط",
+        "player": "رياض",
+        "content_hash": "dd5a9ac7cc96d450b50c2e04d0d4d524682f65e9aefa5a6826ff485a32a0b9ed",
         "sent": 0,
         "section": "middle_east"
       }
@@ -2408,6 +2392,22 @@
         "summary": "وزارة العدل الأمريكية: هيئة محلفين تدين طبيباً أردني الجنسية بالاحتيال للحصول على الجنسية القدس العربي",
         "player": "",
         "content_hash": "807ac7d69ae29388bef037ff611541ea2680db22b5980e74b17070aeea315dae",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 10051,
+        "title": "الشاعرة الكندية آن كارسون \"الجريئة والمبتكرة\" تحوز نوبل - اندبندنت عربية",
+        "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxQYklYVk5BZlFBbm9WTmg4bmstNEwxWEhvT2RTOTVfV00tdDJLQ2hIMnk1Uk9BUmU4aVRzRWc1T214emJmeE5KNTlvMDhrRXBIQUR5Ni1OY1MtenBsZGNuU2h0ZjBCS2k5QXcyaEFKY0MxUVRldUsxYldOU3pDSzlkY3ltdk9CdUNyLWhGVUsxU2pCRXA1eVIzSTc2N2J2RlE5dDV1TXVBZlU0WkhJekhoYmYzLU82RW9BeXdVWjhKVm1NU3M1ZDlBaXMwUi11TzRpcC1QVUQzeS1ySVhhRVBaelU3MElpb1JuaExMblFGTHpSa01JTFo5ZldQRUExUDcweWpaaFdacVFpWTZ5MXF3OUZpTk9yYXY2aEowdDdKSldHRTA2cXF4U1lTTGZieDM3cXA1SFo4WGhRVzBKQTFLei1BYllDMGNQUU9ydWVLenRTNXRINDRGcHRjM2dDOURHd19XWF82S3NPLWtKc1g5MVQtQkk4ZHZpNEdRZWczaXEyU1d2dUFPcmhaTmxvempaX0xraWJCZTNGUTlheUJsUlM5Qy1UOFRDOUdWZ0pFN0pURVRJekxuOXFHTHl0RjJ1UUdfQlJmOWJmbFc3bUtQMTNNOUNtVUhFRWRORTFWZUNoT2IzMnJMb0VTOEZqSWEyTmt6Vnhtc0E4aS00?oc=5",
+        "source": "إندبندنت عربية",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 12:57:02 GMT",
+        "discovered": "2026-10-09T09:51:50.457738+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "الشاعرة الكندية آن كارسون \"الجريئة والمبتكرة\" تحوز نوبل اندبندنت عربية",
+        "player": "شاعر",
+        "content_hash": "a677b8e4c4e89b5db71499ac6e892e33cf497c9f932b1557d1a994a94df18ee0",
         "sent": 0,
         "section": "world_arabic"
       }
