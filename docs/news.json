@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T07:11:35.666445+00:00",
+  "updated": "2026-10-10T07:30:06.574190+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -560,22 +560,6 @@
         "summary": "هزت المنصات وطغت على الاحتجاجات.. ما قصة \"أم الأسبوع\" المغربية في فرنسا؟ الجزيرة نت",
         "player": "",
         "content_hash": "9d2426c8054e33fd01e807c4b71495def4cb18f5bdbfedf54374816725f0ce41",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 9936,
-        "title": "استكمال تلقيح الأطفال سلاح المغرب لمواجهة عودة الدفتيريا - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxQOTZWTmhEMjFYM3RHTUlhbkxPZzBpOU1pU2NhTWNBa05FSlFRekpudl8ta3k3OHlnaWxCYTdSdkdWVFZVSm5UbDhNY0xpUXpwaTJHMHJ0dkFNOEh6WTFFUTlPSUNpdHREZ3UwYXpKVlhZLWduSzlDa1F1RUhyblZSOUppb1hWRXVjVHQ4Z2FBOWtVMFdTWC1vMXVXbm5FYVlsNHhqU0IwRXRERXpjSVVYRnNnM3hhNXJENWxpOWdXckJEbWwyVE1mbUI1WE5oeWlVVF9RR25WZzlwS0dQREh2bk56aFF5Zk9mam9HTlhsMG5HNzBlTkpDOV92ODhfeGc5elFNTGNHXzBYZDNhWllzLV9DNzJIWmw4OWQyWGhaRHNGVjRDV0FIeGxDTlowNHExX3MzSDRuQWFHaVltNWR0T1hyREhZVXd0UmxIdjNMNFlGNzl4XzZVMzc2c01nSWgzZG9vY2hfQXNXcFNCOWFzdGFHT3R0MXNOTU8xckRRMzhGVVgwZUREc0NiVkdPVHF1UVE3djVsWlI3d0RyWC0telpQc3BsVlkzV0RSZG02RjBxelFidlpyYW02VHBLcFdhQldOVENLeHRyMnQ4dlZHZ1lVbnB3TnQ3YllF?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 15:23:14 GMT",
-        "discovered": "2026-10-08T21:27:22.991654+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "استكمال تلقيح الأطفال سلاح المغرب لمواجهة عودة الدفتيريا العربي الجديد",
-        "player": "",
-        "content_hash": "1aafe0255edf8c43bea9e93dc3a04a5c1eb75bae39da673817853ba4c1f0a720",
         "sent": 0,
         "section": "morocco"
       }
@@ -1383,6 +1367,22 @@
       }
     ],
     "transfers": [
+      {
+        "id": 10356,
+        "title": "موقف صلاح.. تشكيل طرابزون المتوقع أمام سامسون سبور في الدوري التركي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiswRBVV95cUxNZVJKSzlrVXltVURLRkhCUGZzZk5FSkNhOXg5WmxUaTFBNXJDLTh4cWJ0Rk5rb0lXV1d4Z2xEd3pEOF9XRXBjcXI5RGxBWVBrV2xiWUl2b19TZGN3TDA0WThaU0NhUnc3ZHJsemtSanotZ2xKWGJMWExuSHczRjBqQmt0cEJKdEtWX04tN1I3RGZOOHJ5TUlZRXZLaGJfTjZmeUFGamVDRUVlaFB4eHVLbnJERHNRYldKN0Zfd3VMZ2I4NTVYOFBVUFdpRnJLc2h5ckgxMDd4WU1vTk1Fb2Y1dVBCTWZOcld4MEtTSnc2OURINy0tRUdVSmdyYTFRTjJsTkZDN3ZxV0dNV1ZKQ0VzRUhTUE9nMmNudG9xYl9WeWUzRGdrVkZMMDZjbk5kal9fSVdSaXRFRDRLc25LelFKZ3JjcGZlMUdUUkdHUlpHRDRmT1ZubDl2M3A5ZlVhVVJ4VjZ0dFhwdzFrV0ZzcGlEc09kTFItRnJNdE9ZdGNBb25fRWZfOGFBX0tGNXg3T3d4cUp5cVEtcTY0QVlGTDdBVU5ocFk3Q2N4NjdqeTItcHhRb0x2RUp2c2xNdDJtMjR6MklCZFlpYUhKUE1YVER2UXNVNkEyYTZJeTVFb1J3RmdoRVNUYjdyVEJ4Y0xvek1lZzJxeGhCZHZ2dzU5S0pCaFlxZUxrMWJvVE5hT1daUDBLQzB0Zl9uVUp2VXRHY2paM0JlWFYzZWU4d3Y2VzJjUC1nSdIBuARBVV95cUxNOXFRNFFfZEF5Z3QzdHljdjZ4aGNUVG1waFdQX0pWM0g4ekt2dDlBUjVPVE02Q0FSb2lXeHhkVkFSMlZvTjVHNUtMYmg5UzJURjk1azA2UTlISml4WFoyMzlicWpua3VCYjktSUdDd1RRRXU1RURscC1fRUEwaUNkX0lNdW1TR0VzZzhWNm9QcmNFcGxnRVd1LTV2SkRYR3BfU2w4S1Y0SURfYzJ5QWx4YXg0cEhSR3g2TEhUMVE3R0k2Z2J6bkRxZ2dOTEx2WUUyVlpham5Kb1RMUnBqRVlqUzZOMUsyeDVobXd3M2htLXp2UlpHcWlZd0ZGT3lnNXNKR2xpMG9rOHU3bmhNM0F4b3E2SGx3anVOTTJmaWNuV0txVl82ZEM5Vll0NWpIa1JrVUk1bEYxVFZLVGZBMWlwZDB0RE8xbFpSaFU4TTVMOHlRc0tUalNHd2FGeFc5Y0VaTlNDVE8yYTZoQndaSW9zX1g4d0xTRGM3OTJnYzZzdTBkM2c3MkhJUmpXY1lqWmN0bUdZTlR2OGZoZlRyM1FzcHU4bThNMTctd3RDYnlmNERkdUhsS3VzQlJXN3BsSll3YXlBZHd0VnhUMG92ZjZQZVZ1VzJLdWlTdkt3WnlpNm5ucWl4cnRvMDQ0ME1hQ0dFTzhJRGlpUjlubVdMOUFQYUJTWE5ianhkaXZUcDJETk5Rdk5MUzVxS3FoeVRqQkVpLTJOLUdMQTNndEtxWUNwV1Z5cWlNbmVL?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 07:11:00 GMT",
+        "discovered": "2026-10-10T07:29:52.670425+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "موقف صلاح.. تشكيل طرابزون المتوقع أمام سامسون سبور في الدوري التركي يلاكورة",
+        "player": "",
+        "content_hash": "e1b8d9d7c5471bd55c0c23b43d9f586b95c5f226c611a82e070b8ec46d455cd6",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 10353,
         "title": "في الخريف.. منتجع جبلي يتحوّل إلى وجهة سياحية ساحرة - CNN Arabic",
