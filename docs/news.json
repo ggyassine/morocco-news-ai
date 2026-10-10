@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T05:44:08.083162+00:00",
+  "updated": "2026-10-10T05:57:17.205133+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -2120,25 +2120,25 @@
         "content_hash": "8ef7857dd544bbf0b991ab753bb6d8fc3d07ac2e4133a9c7f4e1fb202db06b62",
         "sent": 0,
         "section": "middle_east"
-      },
-      {
-        "id": 10020,
-        "title": "الدفاع المدني: أضرار في روضة وعيادات طبية بالرياض جراء شظايا باليستي - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxNMlRlTzhYQ0tITnRnY0JHWE52MnpjdkEyUkhKUHhmZ1NmRmdwcmt0Zkx5a1VDenl1R0xmUm9pRHRIbnY0NF9nUkt5dUVTUE5IRlpfZERPRVF5Ui1tVG5tcjZHUDBjSmhfNnl3RE5xMDBUUjgyVXVNVkJEZGJ3blQ1NnYtN3FEc1NLQi1PU1FhaTBfZ0dYN3pDa3MzMGRiajFPbVFqcE4xcEl5UXZtbGNvQjZ4TGRHbkpIVlJwcjNIOFhnZjlyankzYzZ3b3RsamlmOTRMUjFEZnB0M1RjZ0RyaFBIak5ZX3JLQ194dFV0dUhXNi1YMlBYR3hZWjc1aC0zeE0zejNVa1l0ejVmMlgwMzVCMnh3ZjBMQllpcXhCLTI4VVlJMjZYWG1vNFRJbWU3Q3NpRWJlZEpkUzdIZ3F5aWxtME1VNUJKM0FGbGlpNVJMN3R2bGJNVmJZd213aVNqYXhoQzJHLWQxRVUweDNObmszNnUzU0tma0hGSTRIcUo5NFVyQ1g2d0wtRlMtYjNtZWNxTHlfaUxWX3pyRHRkOC0yeEN2SC1WeW1aV0h5RE53enRBYV9aOEhPcEJlTlE0cE9sQ2tHaXNIZklmckk4SE5iR3paVklFN1BxbXJTOTN6LTN0UE0yOS1WUE9sWHVVSkNEZlF1TmpGX2FIUGFfOFZZbnhBVFZUSUJscGRza2QxdlUyT01lckc1V0xmRlJzZzE3WGFrNE5fUUp1WHgweF9iT3J4SjJNNEU2YTlQWjVsTEdRYndJU1FMUncyeExOTHo1RWN5M0x2eGVwajdpeGd5WDAybnZwTEJhc0FwOG9ydkdDWXlzQ1QzN3VBNThXbzh5bFl2WUxMUlotcF9rU3ZQdVVQZEVJakNfWVFTZ1Z4QVRvLW14Q2h3?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 14:06:47 GMT",
-        "discovered": "2026-10-09T07:02:35.250050+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "الدفاع المدني: أضرار في روضة وعيادات طبية بالرياض جراء شظايا باليستي الشرق الأوسط",
-        "player": "رياض",
-        "content_hash": "e752e5c0701d607fe849d1f639372a6edbbc9cb25d694eb38baa1d89a6507e94",
-        "sent": 0,
-        "section": "middle_east"
       }
     ],
     "world_arabic": [
+      {
+        "id": 10350,
+        "title": "أسرع من الفورمولا 1: سباقات سيارات خطرة تتفوق فيها النساء على الرجال - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10b2Y0eU0tbHhUQVF6aTNZRXZlVmpzOHJhNnBGUjNPRkV6bUFfM0NpbWVLQ05fRGdTSnE4WEJMYUNvNDU3c0JSUXhhMGVXR2w2NkY2Nnh2ejJZanVOa0HSAWNBVV95cUxPb3A0azZjU2wtdEJGaHM0UjBlMi01d2RZWlRJbzBySmFjbm9CaXp6cEsxMjdZZWhZVndOZFRQZDFwdGlDRlB3S3BRdm5GMGtnWWNmdTZiTVdEcVg4NjFPUFdXcXM?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Sat, 10 Oct 2026 04:41:15 GMT",
+        "discovered": "2026-10-10T05:57:13.734811+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "أسرع من الفورمولا 1: سباقات سيارات خطرة تتفوق فيها النساء على الرجال BBC",
+        "player": "",
+        "content_hash": "01625823c89bc27d0efe156f08beba6d270dce9590cc14314c1ab644a0aee298",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 10316,
         "title": "الانتخابات الإسرائيلية وأوهام السلام | عبدالحليم قنديل - القدس العربي",
