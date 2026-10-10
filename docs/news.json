@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T04:21:19.374161+00:00",
+  "updated": "2026-10-10T04:40:46.207308+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -613,6 +613,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 10325,
+        "title": "رئيس تايوان: زيادة الإنفاق الدفاعي يهدف إلى \"منع نشوب حرب\" - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPQ2U5LVRqTV8yQ0ZOZmRaRkpKb21US2lqRlNmNGtyMzVmSGh0MUJBRjhpbmhPMENZelZxelRTVWwwLUJSU2hpMmt6T21kT1FxNmViZWkzVWdWc2RaRDBEWmVDcEJRWXVWSEhXYkliWm42OGc5UWQ0ZHJCNXJPWVlZYTRLVG1qYi0zSm5yaG5NbFJndWQ1N1FmUjBYSmgtNHFuSGZtaHU1RWpwNUVnTEJKbk5OX3Rpam8tVUdpUnBUREhHYjlsWDhqZFhFWTNwZXJvalU5QmJOTEg4RXo5Q3Q5Mm4tSlBhSlZ0ZGFlYnFoRC1tNXNDMnlUQ242NF9sU01HMkpidGpudDdMSlpmTjZ0SmtLNTIxbUtMSHNjU3FkX3ZpRHlXY3I0blZBdnlkb21vZ2lfc19WWkZ0M2c5MTh5WjZVQUtoZw?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 04:18:30 GMT",
+        "discovered": "2026-10-10T04:40:40.432150+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "رئيس تايوان: زيادة الإنفاق الدفاعي يهدف إلى \"منع نشوب حرب\" القدس العربي",
+        "player": "",
+        "content_hash": "3570d631b0af4b9cf2cd3605ac5be99b6bce4abf448c40de72ae0ada3c905699",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 10317,
         "title": "جدول مباريات اليوم السبت 10 أكتوبر 2026 .. القنوات الناقلة والمعلقين - Kooora",
@@ -1394,22 +1410,6 @@
         "summary": "مباراة وفاق سطيف ضد شباب تموشنت : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin winwin.com",
         "player": "",
         "content_hash": "4220d1fac01564574f9d02a0a31ba76e15c73772918b814baa87ed69667126f2",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10299,
-        "title": "مباراة مستقبل الرويسات ضد شبيبة الساورة : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPR0lJVTVrcEV2Z2syU3oxZXFrbkY2UUJkQWVZckJ3MUo3R1djYkdMMGZQOG84c0dqbDdwc2E5QW1iMlhJTzBjb1lFZHZlQV9ZR0JFSWxhZkNROU5SbDVtLWsyS0FyQ2doUzdzOTBZSGFIR1F5ZURBWkVCSmpMOXVKXzh4MEVFOThCNmhXYkxrLThqeW90bEhqaHpTNnRzQXZrT1hmUURvV0s4NGVUc0Q0Rnd2Z2UwRTJVSXRFcUhBSlRlUG0zUE8zNkdGVms3QzZuS2hGUDZsR2xjUl9xTmR4X1dBb0ZRQ3RZZ0dVVWRBSVlYREFURm5XLXpKTlB3d1BjTFdQdnowT19PYnZYTXNTU3dQb2VlQTh2ejJaV3QyaEU2cjZBYWlHZmRNaTc5MnRsZEVuOHdFb2l4bFZwMDRwcmlHM0YtLUtqOUxqMnQwUkhVS3VtTHkyRVVtT1ZlZHF5OUpYc0V1MEpDbXJGTHVsZ1VRb1lRQ3haSEpjWHRTaU5TcnJiMXFnZFd4dS1nNkJ4bk44?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 20:10:58 GMT",
-        "discovered": "2026-10-10T01:23:23.537451+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباراة مستقبل الرويسات ضد شبيبة الساورة : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin winwin.com",
-        "player": "",
-        "content_hash": "9db9d5b32f1891b9a9abb6b1f05e8e62b8aafecb90fc3aa6b50e3f07e8fe8c3b",
         "sent": 0,
         "section": "sports"
       }
