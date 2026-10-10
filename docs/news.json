@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T06:57:28.964466+00:00",
+  "updated": "2026-10-10T07:11:35.666445+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -562,6 +562,22 @@
         "content_hash": "9d2426c8054e33fd01e807c4b71495def4cb18f5bdbfedf54374816725f0ce41",
         "sent": 0,
         "section": "morocco"
+      },
+      {
+        "id": 9936,
+        "title": "استكمال تلقيح الأطفال سلاح المغرب لمواجهة عودة الدفتيريا - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxQOTZWTmhEMjFYM3RHTUlhbkxPZzBpOU1pU2NhTWNBa05FSlFRekpudl8ta3k3OHlnaWxCYTdSdkdWVFZVSm5UbDhNY0xpUXpwaTJHMHJ0dkFNOEh6WTFFUTlPSUNpdHREZ3UwYXpKVlhZLWduSzlDa1F1RUhyblZSOUppb1hWRXVjVHQ4Z2FBOWtVMFdTWC1vMXVXbm5FYVlsNHhqU0IwRXRERXpjSVVYRnNnM3hhNXJENWxpOWdXckJEbWwyVE1mbUI1WE5oeWlVVF9RR25WZzlwS0dQREh2bk56aFF5Zk9mam9HTlhsMG5HNzBlTkpDOV92ODhfeGc5elFNTGNHXzBYZDNhWllzLV9DNzJIWmw4OWQyWGhaRHNGVjRDV0FIeGxDTlowNHExX3MzSDRuQWFHaVltNWR0T1hyREhZVXd0UmxIdjNMNFlGNzl4XzZVMzc2c01nSWgzZG9vY2hfQXNXcFNCOWFzdGFHT3R0MXNOTU8xckRRMzhGVVgwZUREc0NiVkdPVHF1UVE3djVsWlI3d0RyWC0telpQc3BsVlkzV0RSZG02RjBxelFidlpyYW02VHBLcFdhQldOVENLeHRyMnQ4dlZHZ1lVbnB3TnQ3YllF?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 15:23:14 GMT",
+        "discovered": "2026-10-08T21:27:22.991654+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "استكمال تلقيح الأطفال سلاح المغرب لمواجهة عودة الدفتيريا العربي الجديد",
+        "player": "",
+        "content_hash": "1aafe0255edf8c43bea9e93dc3a04a5c1eb75bae39da673817853ba4c1f0a720",
+        "sent": 0,
+        "section": "morocco"
       }
     ],
     "sports": [
@@ -578,6 +594,22 @@
         "summary": "رئيس تايوان: زيادة الإنفاق الدفاعي يهدف إلى \"منع نشوب حرب\" القدس العربي",
         "player": "",
         "content_hash": "3570d631b0af4b9cf2cd3605ac5be99b6bce4abf448c40de72ae0ada3c905699",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10355,
+        "title": "السعودية يعلن عملية عسكرية واسعة ضد الحوثيين وتدمير 136 هدفاً في اليمن - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1STDRtZk0zY2RXSzVyRVdqZ2JFVlVTLWlaTzVLbTRwcUJMc25OT0ZTOGFSX1M3T0dNblVZWTFZQktWWlRSZUQ0b1dNRFFucEFaM21DR1drZHdCdG8zU0HSAWNBVV95cUxNRmdWYi1GZ1dCaTNsbkxzcHhsLU1UanBFOUZKYnN2ZENfbTZOQ0daM19YRDBPV1RnR1FZQksyRVRWZGpmdzdRMlZzWHlOZnh2SlJvTVl1ZDBJdktkSi1jdS1SRlk?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Sat, 10 Oct 2026 04:07:30 GMT",
+        "discovered": "2026-10-10T07:11:32.227066+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "السعودية يعلن عملية عسكرية واسعة ضد الحوثيين وتدمير 136 هدفاً في اليمن BBC",
+        "player": "",
+        "content_hash": "f568cd61a3ca43e5c77ec1e500da097f7b4d156a5141ec2a1fcbde1a7549bff9",
         "sent": 0,
         "section": "sports"
       },
@@ -1346,22 +1378,6 @@
         "summary": "العالم العثماني للرياضة… الأجساد والذكورة والسياسة بدايات القرن العشرين القدس العربي",
         "player": "رياض",
         "content_hash": "2a3cc64f3071bfec0379cc546ee2016e2663fa9583b866b62762a34aa84e7bad",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10300,
-        "title": "مباراة وفاق سطيف ضد شباب تموشنت : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPSHFpSUlacDdDQ1gteUx5VVk2dkhTRGp3di1DV25ZTFNSLV8yV0pCcFIwdHBHUGtCQldYOExORG1mUHM0RXJPUEZidExuM1BJWS1iTlpYN1Z5SXRQdkVkRjVYVThtVEZTSTBfeG53MWhNQ1d0eU1jSmgyTWZZLWQwUl9xdlVtUGpMU3ZFWmlzRTZScG5QTkdPTktDZmhDZDNLZ01GUk41a2VPeHBWS3JoS205Tm1BaU9SLWttWUY3S19naVgyV0h2RzZqUE96cnpobDhCWWdrRVJiNmxxdmkyemlQMEo4UWhFSzBGVERIRnljVEZpc055SDdldDVBRXZiTVZSc0xkVTRVX3pzejlqZU9seURjMkxWT0ZJZ2NBbGFSc2hqRUJad2xUVmpfcTU3MUJIeExZTEFhOTY0WlZpNlZHQVdJaUhmdE5TcTU1cHlreEE?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 20:12:14 GMT",
-        "discovered": "2026-10-10T01:23:23.540960+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباراة وفاق سطيف ضد شباب تموشنت : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin winwin.com",
-        "player": "",
-        "content_hash": "4220d1fac01564574f9d02a0a31ba76e15c73772918b814baa87ed69667126f2",
         "sent": 0,
         "section": "sports"
       }
@@ -2376,22 +2392,6 @@
         "summary": "ترامب: لن نهاجم إيران قبل الانتخابات… وعراقجي: سنرد على المقترحات الأمريكية خلال أيام القدس العربي",
         "player": "",
         "content_hash": "05cd8ac8c01e480a4b62485fdbb51780ed5b14d6c1e1304e9662ec1f146bab02",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 9855,
-        "title": "جائزة نوبل في الأدب من نصيب آن كارسون الشاعرة الكندية \"الجريئة\" - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MbGtTM3U2TnZIOXM4eEZET2s4ZnVLRGh5aDlsTXpmam9KQUphM1RGT3BacFpqTHdvOE5xYml3SDB6NTc1dDd3aFNrQW8xSVFqSmgyQVVYeWR3U0NSUUHSAWNBVV95cUxOeklyVnh4LUdjWUxybzUtQlYyY2tELW1UY2ptLXZ2QmxCYWJudDlSSUJveW82ZEk4R3hmdXRPSnZoVkxUd0FUUGtOSjdNd3BDUUQxeEdlREhySWxxVkhOMXlETmM?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 16:41:15 GMT",
-        "discovered": "2026-10-08T17:00:55.497696+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "جائزة نوبل في الأدب من نصيب آن كارسون الشاعرة الكندية \"الجريئة\" BBC",
-        "player": "شاعر",
-        "content_hash": "78e76a238e10185c4e668ed4611d29f34f9d973d00a05722120f07af92959272",
         "sent": 0,
         "section": "world_arabic"
       },
