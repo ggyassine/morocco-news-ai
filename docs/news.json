@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T11:01:04.675645+00:00",
+  "updated": "2026-10-10T11:17:44.132110+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -612,22 +612,6 @@
         "section": "morocco"
       },
       {
-        "id": 9905,
-        "title": "اللون الأحمر يخيم على بورصة الدار البيضاء ومؤشر \"مازي\" يتراجع بـ 1.42% - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE96RnB3WTJJck9iR05QNU1vMVp0LVJPcWI3V0FHel91cVVOU3Z0emRYZlRSOTRzS0J6Q0ItbjVNTkd5eVhINGRIcQ?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 19:34:13 GMT",
-        "discovered": "2026-10-08T19:42:15.702499+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "اللون الأحمر يخيم على بورصة الدار البيضاء ومؤشر \"مازي\" يتراجع بـ 1.42% Febrayer",
-        "player": "",
-        "content_hash": "c354ee41a1ad1cfd08aa1a400dea625de0a48e161945af7eee76a2ef61383deb",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 10368,
         "title": "استئنافية طنجة تشرع في التحقيق التفصيلي مع المتهمين في ملف «حقيبة الأوراق الانتخابية المزورة - Le 360 Arabe",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMd1p0dzIweElQUWtMSHQ1OFpuS0R2YlJzMzlOQkc2MWpqcXp3WDgtWG5McGxraDFTdnduRnViWUh0ei10X2IwYzFhY3liNWdGSHZyWmg0M2V1aFMtNFFhM3JlNkw0Zw?oc=5",
@@ -645,6 +629,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 10406,
+        "title": "تفوق مغربي ووجوه غائبة.. ماذا قدم محترفو الأهلي والزمالك قبل القمة؟ - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxOQU1XWGpuQ3dPY3ZSMFctc3g4bFAyVTVZcjdCX2Z0MWphQTc0WV9BNFRSaFdwTVFITjBfQ1FUNElERWlUWURJQXZvbk14TjFBYUYyTXh6c2QxdjlpaXF5cW9wUU82UFJIS2NvY1owNVZUa0M1c2ZFTjlIc0kzZWJ2LVRqVXh0SzRHcTJ0ZkR3amUyb0NzZnRzZENCNTM3Y2IyVFBaaGxndlBpTXZLZGlvVXJvX1Rmb0JINW1kdTN1TEtaeENBaEZjWmM4NDRGaFdpaGZvWnBKVThNa1hWT0hNbGt2RWc3OHBySkVodG5ETGpMY2Y4THZseWh4MDIxdnU3R0tPRURLMmFYRUdsUXhnS1hWMzcwbU5FaEVxd0I5Z1ZIRXZEc1F5ZmhDTktpVmVQWUU2QkpkZ19LaEpTRDZKWGZTS3pjX01HbW9VSzh1SkQwZFpMbGM3VmRRV3RJZU1VaV8zUUEtVmhJNHB3dVZiQlMzd0FkUm1TUXczZTM1RnhWeTl5STZ3UzVlUlhIdnlnRzBxTmctV3dweXpQeFFuN1A1WEhQbHkyM1F1cEliN3lNU3cwSTdpcUpPUXpMTE9GbHZ5enVsVjJyMkZPcndHbnZmZDZKcWRQLWpPQXlmUlVMYXQzS29tZUptdWJfa2pTMzNsYkNGcExrQ01iM1I0VENrNVNnNUJMTWQ4Mnc1cTIxOVFma0dfVzY1eUZPNTBNc1hIR2l4b1h6Z9IBrwRBVV95cUxNTnBDN3dzWncxMzhqR0xxOGdRZFNVYzM4VFpsSWE3S2J6VzNfYmp6R20xVjdFUmFrdFBNRHBYYmdKNHM1dC1UWG1tOGhoRGFhNUN6aXJTcHBDcHdZT0RyOE5ZZU5Sc3JSbFFiTEZPOWpNbG45V1dIb0Q5OEFBVGFfTFhxVG9lSGtpNENTa1h0OTJXS1EwMlRWcDRXOU5XdDlacmRZUUZoSHRTM2ktUFJKN004ZXFCOC1YNXVXVWhuZWhtOFZEYzRzZDhRVDgtLVp2UWNQd3I5LThiVU9JOHhSNjZ2ejFPSTdoQnplaEd2OHBJeE5rTVVkVkhKRFp2OHU4bXpaRUEyMk5fSTk5VTF0Sm9teTd5OERGWjNsWi1KUXFHQy1GSmQ3TVNaLVdkWlJ1Q2RWTm51b21la0ZOQVRYTVRmRDdTUWdTS1dYeFJOV3I1MTdLbENkR0hrd0s3MzZWQXpfSWZUNm54Mk5sRGJEazVueVBIb1pVWFd2eTNFbTNGS054RjZEcFpROERKdC1FNGRwTjN0SmhxaEdkcXpTd3p3bXFQV0REeXJob2V0OFZGMDRaams2VWlfbjlBbjl4d0kzdFNDbndUZlR0c3BodkhVZFpBTUVQRDA1X0VZWHJHUlhMZkFFN2UzdkRFOWpfckxHYm1JWHFpYWpGZ1B5Vko3RW5rdDQtMGpjQ0dsazF5VldTTngxUHJUSmt4XzhKQzF4VV9nSkxtQUhXNHRj?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 11:07:00 GMT",
+        "discovered": "2026-10-10T11:17:26.182074+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "تفوق مغربي ووجوه غائبة.. ماذا قدم محترفو الأهلي والزمالك قبل القمة؟",
+        "player": "",
+        "content_hash": "5d7711604615f05c5bfd0427099ec49097cacbf61fc3511cbf020fde9c0b5c45",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 10399,
         "title": "المغرب والسنغال.. تحديد موعد الإعلان عن قرار \"كاس\" بشأن نهائي أفريقيا - Kooora",
@@ -674,6 +674,22 @@
         "summary": "غياب تزوليس ومادويكي أساسيًا.. تشكيل أرسنال أمام ليدز بالدوري الإنجليزي يلاكورة",
         "player": "",
         "content_hash": "f72d5ed3f020fb309eb0eb3a59fd5082fc23d5ebacaf4371963ecb816d8f7373",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10407,
+        "title": "مواعيد مباريات السبت 10 أكتوبر - مانشستر يونايتد يواجه توتنام.. وريال مدريد ضد فياريال - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMihAVBVV95cUxPb1ZOa2prUWk0U0sxSjB2bHp0aEZiSzhvR1pucWxVeHRXWDRhWVVHWk5JSzhsUU1yaERqWl9IVXhvMU1YaXlveXJoQm1fMEdSSEJUSUFicjRNb3NlM0xDR1RTX0dXZTRSX2daY0xReHFYa1lIR0M3cEdDajVjYlRUQkJzcTRjWW9PM2FtcTdsU1lTZE8yV3Nwckp5cmJCMy1QUnUyV2I0aWItUkVKV05vVVBua1ZJSlFmSHBwb3dOQkpsaGI1amtFSEo3VzByV2J0bjhremM4SHktQ28wLU5lMXJxUG82YUcyM2p0eWJLbXRQTGhNWWhPYl9CREhXTWVnekNWeUZncm5oaWhpNHAxbGdqLTVEM3dCdmw2VGh1dnNwN1VYTG5xMnkwWXFMalpHRV9sUjlfdlpYUThDVmhvS1p3VUlKek5OVGkwV09raWItRFIxMzdpdTZUS3gxYlNJRUhPVjR5aTV0V1VwRUdLdHE1cW1OSzhwcWdJbERvZGU2eE53Q01oY0J6Z0Q4bkFRRnlieWstalBoNmVzZk8zRllMSk1CbnVJdDVVYkVYV2dMWjRaZEVNMXJQSUZfSHAyelZHc2FJZzl4djhRbEJLZnlRUUtDdGMxeUNaeTBDWm5Qb0gwUFhYampBcXVqNWJkTVFLZkx2cmJGSFRTa0k4WjJsc2JoSXMtQXloUTN3elpLeWFwaElveGRVaUNCenBOSkxnaktQb3lWOFdTcWY3OHlEU1N0VjNWRjNkOEpkZE1IY2xsMjJZYmIya1puOUwyVlcxQlJoaFF4amlJTUVLeHM2alliakN2aFh4RlMzQnZEeVJFQWRNNjZLRzlfUEQ3MWxsc9IBigVBVV95cUxPQkNJb2tVRUhkWXRmajQ5SHpvai15LUlfUDgxcWkxNmJHRGFZZDdkLW5HSWNGbkhwYlBtckpncTRudG14NUE2QTVpT0NZYkVUOGZMOFN3RlcwRTJmbHJWMm04Ri1GVnhzOUNWZTg3LXpBTTlQMVVFV2pITVRqb1ZUdWQxVTFySmxWa2E4TmxtbDN1TU0yR0k1T1Y3N1hqalUxR3BsR3AtZktydE9jQkJmR2lSTm44VEVySndDQ0wydjhyOVF0bjBHbnN1al93T2ctVUo0b3hjU0xkeFo0c3Aycld4b2JQLXR1dUlkdlFQdV9vV2lTQ2dlYVB3aGd0NDNmemRkY0JtMzUxRXlSSWVSUHl2dmNaMjNfRmdIaWJmeHNfZFpsTUthYXdFX01aY0Zob0x6dEJ6MTIxeFR5eEJYVkdtbE9LSkI0NnNkY1BVNFJxUnZHQWdjQTMzVjJjbEY2VVVyNy10bEJHVk1VMjRhOWhleWZPdW1pN3pOU3R6aExINjNrZlZjMWI1S3VpZlZQbmpBQXhLa2M4Y1lfcndqdGl4UlhVSGdhZUloclJuVnVYV1diWVI1OUhNcUJ2b0hGME1CRTFldTN6RmFxb3pYbElySjJUTGJUQVBiWnVfY0RKVGtnLTJ3NElHXzM3M3drcGExem9jX2l4OE9xbmhuVG1QNUZlTnN4Y2VOVV9tbUcydTBZT2MzcWNfenlCWVlOdFVvaTU3elQzY3k1OTNWempqY0EtUU1HNGN1a25sZl9HR0NXUU9oMldlU01rNHRUVFZrdXplM2lvdmo0QlVwUXJna1RNc052S0xwczRsSktuR19fVjgzNWoteEJvS2ptWTdWNC1uVXF0QQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 10:35:16 GMT",
+        "discovered": "2026-10-10T11:17:27.095687+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مواعيد مباريات السبت 10 أكتوبر - مانشستر يونايتد يواجه توتنام.. وريال مدريد ضد فياريال FilGoal",
+        "player": "",
+        "content_hash": "558cdb678388864d3bd5b6c1582f1f94ae84b8bd71dbe159906fa4d007d704b2",
         "sent": 0,
         "section": "sports"
       },
@@ -738,6 +754,22 @@
         "summary": "أول مساهمة وإنجاز جديد..ماذا ينتظر عمر مرموش أمام مانشستر يونايتد في الدوري؟",
         "player": "",
         "content_hash": "9ea92bbe87acadec4f6788ac708280ff35c600ff5287a68f300cc1c7adadb533",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10404,
+        "title": "بالأرقام.. متى يستطيع كريستيانو رونالدو تسجيل الهدف رقم 1000؟ - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQUTBMdC1iSUZPbGtoeFRDQWpJQmZCMFhGUlBQZjUyLTdVaTlqV3JPaFZlb1VheDF1SHBWdV9lQklnYTRBS1JPV0tXejFsNy1PbGlON01EVXVldHFMUEdvNjBvdGJTRnM1ZG85aFY4Q2xRQWlmVTZ5Q3Vub09sWEJfaVVzRnpWR0Z1TVpWNUliWklIT0FZMTdxalBCdTNmcTgyRlRfcXIyVDNfRTdZOHMzQWo2R2RyMm1tYTBfSDRvakh0V0JrcktXTzdzWnRRbS1QVnppdGs4ZWs3aUJ3allRLWlZQUdnTnU4LTVhdTRrT0M5cFhhSkR6SFFEVVYtQUpaNkVKYXlSSWJ3LS1tdk1OenJXbzd3TnE4WVlYTm1QTGJHbGR4a2l2S0huZjJ6eHJ3UUJKUkJmWDd3MjdBOFRSUjllVUgzOWRqNmt3aF80TzNTRkd2RGJZVlFGQmhCUUhUZFdBeTBQMTl4Wm5TY1lKcWxiWHhuRVJEODdMa3hmNWVnaVN2MlhfQkxCVFp5MThEdEFFcjAySEtDdw?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 08:18:37 GMT",
+        "discovered": "2026-10-10T11:17:22.919743+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بالأرقام.. متى يستطيع كريستيانو رونالدو تسجيل الهدف رقم 1000؟ الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "75d5fe79116b1077764278440d868e5abeb222149b91c80637dddabaaa84af60",
         "sent": 0,
         "section": "sports"
       },
@@ -1396,57 +1428,25 @@
         "content_hash": "0a152ac5c3818f8b10c49b35c277a316058c90ab96b647c4461ea22a00194ca9",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 10293,
-        "title": "عشرون هدفا تفصله عن الألف.. رونالدو يقود النصر للفوز على الدرعية بثلاثية - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxPaHdhUmlXZmRrM0Z2dEVvOW9nOHdHZHoxcTI1b0RHdkNYdkJnbnZ0OHRQUzJJcHlWeGJvWl9fc2xBZVJMb2hXd2M1UE5TOEFpRE1YYzVlS2pud0gwRTlkYTBteFdZaHVsVjRUNlFKNDk2MmV6TjlaemZDSlE0ZzdJMGl4aTY1SUhkN21GWHZOLVA4WGhVWUM4MmlmLXpBTHRIYXQ4ZDJlRUpjY0hCMEh6UGRSdnVkWVljQjhNSDNYMVpCZTRCMHVkODRaeTBjbUI3dUVhenN2QVlHQ3NlZ1pzVk9qZUFSNWZNQmx5YzNpZy15dFc0MU9TZmlESTl2TXd0RnFxOGdkaUFKcVdmbVp6YWozTHRORmhGbVlHOElRRWVJcW5lSERRRl9UMkFpcUxPbk92cm55RTB0UEdxZWpTRDB6OWdVc0FyNC12Z2NFVFNNdnZDY1RMMUI3TTVhUW1vZ1RPOVNkekU5czgwSXcyZHZEQm15M0IteTd4TXZadWY5Rm1aWTR3MFlYd0ZvNDU4T3d5UllYTHBjOGtZQ0s3d2RCZmEyaGhtMG5jeVZjdnFSSjNtRXFkUTg0dnZMWVd6djZ3cGtqUVlDMVNZVnJWbzZlNHA1QmZNRlNWbGFrbFJGY1ExTWwzRkQ3SnBwTUpkZGhEeGRyc1UyTGc0d2hvcmlTVmUxcjViNzAyT1pzTXRUWEowTUhCUnJENVZKZC1UZnlzQThYMFV3RGZjbnBZeWRfMVBJbXU10gG-BEFVX3lxTE5aM1ZmV1hJOVlCdWFsSlpJRnMzdmhJeHYtZUxLNEJNUVp2Z1FVbFk5V3dkcC1ET3hKNFJORTFNQi1uV0JZaThoYk9rSXdFbEk5dHZ6MWFiMm9Ea0owVGVVbXc1Y2p4dERKT3JtQURnYzJYOXpydXZ3bmFFTUN4cmZiUE5weXhnZEF1Rl9iMWhfdFo2SGlWelRPdDhDNmZvSUpnaThYaUtlNXYxQ1RRLVpkUFF1SWFIYjZ3WHpKQ2dGNjk3YWFubFRLTVNEdV80OU1YMS1YOFJ6eEtvUkxXaWh2S1BQeEJIV3BGaXBOcVVMbUkwMFhPMnJvVm4zUmYzaDhhX2RNN3hoYVoxcm9sX3Q0QXpKS1Z0SGpIVkh3TzY3emxWOEJsaUppQ1JEc3N6WlJzTzVSUHc1OTd0cmtoRXdMTkxNejZQNG5kUklUdGtabzBTek1tT1VrN2VDOHphcml1NXM0U2xBRTFiNHlONHNfdzZwNWI1YVg2SkVLY2pNN2hTSHJVbjZfb19pVmdoc1h6TnNOSEFWS3lXdDZGX20zeVV3ejFuYzZjUWhna2ZORDhRRV85SkpnTU43a2xzLWNJckg5MFA0ZjhyMG1oaG5ldFJOYzZidVBlb01ZakpueXBTQ0VZdEVTaldkVWJiTjRlem9HSW5rWjhqekNtdkhnRk80MVFPTWNqYURyQlpELUZIY1dmMm14QnFnSE9aVTJQNGxudU9tVmdNZ21EVUdkeVZ5eWw0dDFfZloza3c?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 21:00:00 GMT",
-        "discovered": "2026-10-10T00:42:11.094857+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "عشرون هدفا تفصله عن الألف.. رونالدو يقود النصر للفوز على الدرعية بثلاثية FilGoal",
-        "player": "",
-        "content_hash": "4c48d6f89ae9fd301562bef3c00b1a494fb6514bb2a8a12036829bd9b1901347",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10211,
-        "title": "لانس يُلحق بليون الخسارة الأولى في الدوري الفرنسي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQWjdnR0RKZzAyS3RkYXFLaldUeGxuNlZLRncwVGZZX0ktNGhLUmFDejlzRVNwT084WGlSSXRTRGRaSlFvODNBUko5X1o1TGJtSU00QUNwRkpDQzRid1JrVHlLcHA1eVhwbU5PaE9XQlBKS3oyc1ZiRVAtaXRwMVVjUVpuTWU4aUFfcXJsdHU5bFR1cnRKYlhkU0V0WlI4LXFhRk9YUmJEdi12Y21xUmpxOERBU1ktQUhqUTkzWldGS1hPTm4yLU9RUHlSTHplaDZHc0t3Vnd1b2NTZlRTRVkwRVBjT1oxUlRaalpfbDc3aFVRZWozQVE3LW02Sm9xNFVGX3RIek1KTWpSdWx2SjZnRUhwM1phVFNlcXdtdG4wRy0wQWRZYzFTLTh1LW54MUVlUHpMVHZST3ZKZ2lEZkNDS3I4NDlWNDlic044T1QwWHh5VHV5RVNlN2xvQXMtMFBKeS1rUEwyZ1dSUEVaYXNuLUZ0a2VWN284bXBPcmlpbmxpN3pZMU5DYzZtLXdNai1md1lqcV9yWksxdDdNbmV6Y3BkWjZIUnZnSHNSY3VCVkRfZ9IBtwNBVV95cUxQNVhKMS0tdVJra0pwOXZxZFI2Y0djT19UY3dBVGhDRTNxMVZYVEpqZkdLa1pPVWlPNVZRMHdiT2VOTlplT2lKX2pSOVV5U1BER0JuX3JoaGZiSHl2YW9zbldxbmQxazlMa0dNNGM3LWtycW4wSjkycXRTWjlBcFlkeFkwM0pVRGd3cGo3djE1bHJqd2pDNTlwUlV1SjZ3SDRXMnFzd3RkTE9MY2pZOWpnQTg0WllOd2t1YS1DRmN6S1NORE9aMk5ia05qR1lhcWxfbFJxTTZJTGtxSFNzODB5Vkk4WndlbkhMVmFHdTFIZnlrUzBGaElVMlp2V0x6Ql9BMXFTdWdWTGRscWFCWFo0QjdDRGV4SG4tanJXRDVxelFMR0NOMWpLMmM1NVI3NGR5dkZoSGF4dk1HWmVXQlFob2UxSkw0SzhCaVhBaTZEUXkzSmlIcW9mUmQ5VWlraXg3VFJ5Z1doVEQ1XzJqSTFPeXJ6UkE2eFYzbmRhRXZaX0tDQWtLazczQm10c2lSQmlPM2lwU0JSdm13Y3pYREVONjZ1d0RORDhvQmstWnFXVF9ubmF0aDhZ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 20:56:00 GMT",
-        "discovered": "2026-10-09T21:01:53.387604+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لانس يُلحق بليون الخسارة الأولى في الدوري الفرنسي يلاكورة",
-        "player": "",
-        "content_hash": "4d3bd24c376621ffa2a3c70f0e7911de695c23c6a8482cfd486c5fda3480a815",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10283,
-        "title": "فيديوهات | ملخص تعادل بوروسيا دورتموند مع فيردر بريمن 2-2 (الدوري الألماني) - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KY29ndnNiWWN6ZXpWRFdrM1NwRzdpU2hNSVRScVAtTlJVVjJQR3pVaW85ZUFvWUVGSHg5Rnl1WUh4SFNqclpwcjlFYXo?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 20:50:00 GMT",
-        "discovered": "2026-10-09T23:55:32.075928+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديوهات | ملخص تعادل بوروسيا دورتموند مع فيردر بريمن 2-2 (الدوري الألماني) FilGoal",
-        "player": "",
-        "content_hash": "57339c643cb9400cb9ab4845d4824d16cb16869e7cf3c7fe9c3bfabef6ef6815",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 10408,
+        "title": "في تقرير له لمجلس الأمن وأمام تعثر المفاوضات... دي ميستورا يطالب بتطوير الحكم الذاتي بضمانات دولية حلا لنزاع الصحراء - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNUmJDX0xGMW1UbVdjVGRjSWZfWDdFOGdhdG9WUGlLbG1WaUd4SF91SnM1RUFyUUVDTS04eTF1RTZSSHhCd1ZDelRVRG0zaFV2aW11bzQzM00zN1FfdGUzVzlVMXEwMXJCUlFQUWJhTG5ZYVl4aVlTTmdWS1Z1bHYwX2pwSl9GWEYtNTVEQjVabTlrUS1qaFJHYzAtZXBYOVlKbzZQQV95anVGSWhZcEJkTGVrN091X0gwLVdMemMwcC1rUzB5elZXTk5nUEFtN29Mckl3YnAtRVZ4elphOXdFNFRVNkJNWTZPWGtkNl9xYy03dGp2STZPdmE1ZkRMdVdMVnVIWW1oMW5tMjlkeXhwRUpPY3p2THNFMTVTWXgtMTNCZDE1Ry1UZGxhb1BUVkR2ODNfd2k3NF8xc1p2OEN4dERWaW91UGZs?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 10:37:41 GMT",
+        "discovered": "2026-10-10T11:17:38.945250+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "مفاوضات",
+        "summary": "في تقرير له لمجلس الأمن وأمام تعثر المفاوضات... دي ميستورا يطالب بتطوير الحكم الذاتي بضمانات دولية حلا لنزاع الصحراء القدس العربي",
+        "player": "",
+        "content_hash": "d88de6675800519f8f9f628551d2e3b9375d15c0a9a208558e350d21d493e730",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 10397,
         "title": "أخبار سارة وأخرى مقلقة في المغرب الفاسي قبل مواجهة اتحاد طنجة - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة - Febrayer",
@@ -1896,22 +1896,6 @@
         "section": "transfers"
       },
       {
-        "id": 9903,
-        "title": "ترمب: لن نهاجم إيران قبل انتخابات التجديد النصفي الأمريكية - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQQS1SVW9yaF85MUxfNzZONldKQWhhVVVScjB0YWxlTkVGUVBKNElhdEpjQzVLSGh4Q2VkTW9pRUNKT0tKeGtUT3NEdVNxUTBhOEc1SEVZa0Y3Zlh2Tkt4V3FHN3dmSWhXb3JVNGVQbkpDcUtHd0xuMTd6c3hUNlg2T1U5WTI2U01CQjJTclZwSHZLQS1zdHEyeHRnTWxHdXVBVlVvb0FGV0xPSUplVERjcE5yeGVqZWxubXZESEhUR085eU9PSjZKNHZnUk9uS1BuSjl0UWFtdVo0aWlVYkttU2RjM1pQNGNSajFtSG1aSXRFSk1QOWRqLUNSLVg1UGNZVkZlRG11bEdkMmFyLVA2VERmWFBfSGY4dm03ZkR3OTFnV2dNMDhWRkhZMi15R1dHNjBfNkRhQXBhNC0xQTNaS3B0ZTTSAcoCQVVfeXFMUHNKRERTVk02T3RsbVd4a243VmtYTjFLSF9nX0lCa3lrczFONWpJVGZSODMxUThLV2VncEd3V2hCaEVFY3o3enVqYVAxV0xXc244VVRIWjEzeGhPS01sYnRxZW1UdTZ4MHJuZlhPTGFPV0NXMlFfSW1reHNscmlNbTNwd1ZfR1ZzUWQ5V0lqYTlSY2NZLXBMdkdGRVZIOXhkN24yaENURkVNLW05RFdTYkdMTjhUUDh4NnB0eUhQLWhfa3ZwdGd5dzVwbHhvWm0zWGdVZFN1Zmgyd2VzeVJzUnk2NlZXN0hlMzBid1BRM0xibm1rYkNyZHp5b3VTd0JTNmlCMzZLUlA4ZTA5aXo4a1luWF9XRGZNZlpTUHpiVm1oN19QaWJUZ3IxdFIybUNQcEg5QVRzZXY4SGdSTUFGNXZMZmF3V3FHWFFn?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 18:03:43 GMT",
-        "discovered": "2026-10-08T19:25:42.355113+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "تجديد",
-        "summary": "ترمب: لن نهاجم إيران قبل انتخابات التجديد النصفي الأمريكية الجزيرة نت",
-        "player": "",
-        "content_hash": "bce5dc9f183782fc4bf44c32e85c1d210c84bf592d7f307624c8fbcd04fad98f",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 9992,
         "title": "إسرائيل تشارك للمرة الأولى في معرض مغربي للصناعات الدفاعية - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPZjZUaVhvNTNkX3FlX0ZxOVJ4R3BEc2MtclJvNnV6bWRTZ2hWWU53ZWlieTZxM3gzN3oyWVFSd1ljUlh0c2dneGFlSWZtV1FMNkUtX0MyemVnZFRYOEd1YnV1WUFsMUNDWXZJYi11bEtuMHRvRmluOXVTVkh4THU4TUQ1UnJRX203YmI1Skp2YTE2dVlvY2l0blJDa0g4R09HbjVENjVuQk15LXlySFUtTHY1bzdoRl9OczFRaHN2U1R4el9xZ0lOZ2htSW15NmNxeEo1SDdRN1ZVcWxZSzBKS09BMnZuNEpPRGs3dkV6X0cxWXdpUlpCNUs5NDdhZmVmclJBQ19TQ3ZOd3JGQkc5U2dsbzFZSWNfbFktck9GOHpDbVVaZnFHU3hja0V3dFpPMzg5T1MtY2lOV0hmanIzQmdOR2ZEQ0k?oc=5",
@@ -1924,6 +1908,22 @@
         "summary": "إسرائيل تشارك للمرة الأولى في معرض مغربي للصناعات الدفاعية القدس العربي",
         "player": "",
         "content_hash": "9eded92437a21897e35ae293234fb6944c223ad977cb9d3144d3305356c00ff8",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 9941,
+        "title": "مصدر من الزمالك يكشف لـ في الجول حقيقة التوقيع مع الزناتي لتولي منصب المدير الرياضي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XSlI5ZjY2N1dGV3NXelNyRmxXREVEaHJ2bUd1VkE4cTFmOVcxU1BiU3FyNVk3andpd2pIb3hKTlF3VDBVUTRjaXdTS29FYXlD0gGSBUFVX3lxTE45Z1dYVUo5N3F0bk9BcHFaT0RaTlVFT2hCcGs1UmhTX284bW1RUTRiNFQ3UEpMbjZZTV9WYzAxb1VPclFhUkhyOEhkTUJuQzdpTEVyaXNHbTVoNFlEbTQycm5LSFZpUFRUSzllLXlITW5ZZFF2X0w4R2RmT01ZdWRJYzN6cmhGWWNjMnZPR01UcHFqUFZldHNsTnA2ak9fV2FHZ0ZpbGR2ZVVjTXFnT3BXdFJQNXpjYThhREVQTW9Ma3ZXU0lKWUhlcEpVVlNUT2Zxa0RLNDc0RC1nYWJ6ckRFX1dUd0dLTG14ZFltcVBScFVodUNqQTRVNU1Yb3FJNlF4MVc1VFN3YjA5U0lBOEwwU0tHWWlzLWxaVHdKTi1oN0VoR0xmZ09Xbk5reS01UVFIOE1naDkyTDEybG5mY1FzSHpoX0tfcFo0M2VvNkh5RU5zX0NwWmJpNUVPNTByNl90SE9TYVlGNGkxZkZhMS1OaTZNdFNTc1NGLUNOeWtfS09MMjl2YzFmcVZ1c0VvV2dNNmZ5X195ejZBbGpfbVdUdy1aYmh0ZWRCeW1ZTEs0QTNlRlFxSm1ZTjdJVVVvVEs2X3ZZQUwzSjZPWURVRXdtb2RScXpGamN6d2o1RHlpQlM3WFZrQUc0d1Zjemp5enRLWWVtVTNUemx6a25BQ3Y0TUMwSW50RlRlRWZYMmNWTzZ3MUhEcmR3NTBKbDJ1dXp3MG5TaVM3MkRQM01vdEtwVEx1U0J6aEs2MHpTbEdxekMtcWV5b0dXa3dTc3R1ek41ZC1lMHNwckV0VEtSU1JtSFhXMEtja3EwZW1rdWNZYjFoOFFVMWVVTmk0cFJxRG56bDdDY3Z5VTJaWlk0S3lmMGc?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 08 Oct 2026 17:13:00 GMT",
+        "discovered": "2026-10-08T21:45:13.830371+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "مصدر من الزمالك يكشف لـ في الجول حقيقة التوقيع مع الزناتي لتولي منصب المدير الرياضي FilGoal",
+        "player": "رياض",
+        "content_hash": "639d8d3238ad9d5201daaacbd0ae2cca0dd9572f8c70932ba84ea9b61e4f33e9",
         "sent": 0,
         "section": "transfers"
       }
