@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T17:16:40.512586+00:00",
+  "updated": "2026-10-10T17:31:46.887144+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -646,6 +646,38 @@
     ],
     "sports": [
       {
+        "id": 10517,
+        "title": "بالفيديو: جوردون يتلاعب بدفاع خيتافي.. ويتقدم لبرشلونة بلدغة مبكرة - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi9gRBVV95cUxPZVVQS3BSSmIyR280TC0wTmZ2YUROcDl5d1JBYlRoVGtBSm91M1hyQXZieGlaVGVLVDVuaG5KalNxRVdXM053dlFsal9kQy1hc19qdjdVNkJLbXhMaWZUcHhvWDI1WWxYc0NjeGNTT3ZHWko5VTZIc2xHSWw5TEJmcEREVHZreERkMGNHaUU2VnFWQW5Td1UyWjczV28tX0ZjdU9ZcWJNeDJ5UjhBVUxHOEItODV1dHlRTktLWVNqUDgybFg0YjJNU0NEWWpyMTlOMThWdkpITi0yaDdrV0FZZFl3bVd4Y0c0a3J1eEhTUlpXdDJGVVFmRmpqSGhUajNkakxuMFlIQXBLZndrSUdFa2FVNFU2NGFxV2xqelJkbnp3bW5rUDN6WnN2WDdvbDh4aGJpUTZselRHUU9zYThPUTNMVGdtUVc0SWJrY1djWTRIWTFKUTZoZlZUdjdqbzRaT1lTbU9YVnZ5Z1FrTVhzMkFBUzF0TXhWazYzcVJlR29wYXFCRlpoNVQ3UUxua3I1TWV3U0x1S3AzeXdCZ2t0MmlSTUhlT2pDaEJFZjZZZ1dPZVJ3TW9BeXdXcTVtZ0dYdEdOTmFBY2pwanRCUkVCaWNZaWtEbmRwbTNJX1Ntc3Q2RnRnLXNhdUU0NlJqdHc5M2ZMYnhuRm1ZM2pLQ3g1RXhXMXA4NlhGcE82cnAtMXRoR2wzV09LcnJLdnpCcDltSzBuYTJmbmJGSzJTUDk2TDYzT2c4RFZtbl9lbFk1Y2g4Y3BmVHpKVjBHbmhGaHZxZEt4eUZLcks1NE1YNUNFYVMySlJxcmoyQTlsc0RZRkMteTVSQ1E?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 17:17:56 GMT",
+        "discovered": "2026-10-10T17:31:25.278370+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بالفيديو: جوردون يتلاعب بدفاع خيتافي.. ويتقدم لبرشلونة بلدغة مبكرة Kooora",
+        "player": "",
+        "content_hash": "56e915df834564c271982e1a63839d62aa4fd0c5357e717d20fe9eabd15fdc2f",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10518,
+        "title": "الرابع تواليا.. أتلتيكو مدريد يفوز على ألافيس بالدوري الإسباني - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxQRDRfLXFEa21oZzA0TUVpcVVmTlEzbWE5cnZyazBnRWt3VjVDQ0JEdTFEbWpETElPSW92Mms2VHkyWnRXRVJrVHpaQ19fcjRLcTF4aTVUN2pST1d2elNTZDRpLXZIeGdTM3JfOFc4dUd3ZUp3VkFCdDJkcUgyR1VXdVUwQUlZMmNITVpfdTRESXFZMFVYQ1ZNcVZkOXR3Vm4xQkI0Skg0U3VfTGU0cDAyRl9wazh2WE1OcDVscWRHR3dHRmVaM0JEVzNwVHRZTHAwbExXUUVXTlY4MTlyTGRGaUJuUk1QR2g1Z1JPeGR4LXRmcTM5dW5ZZ0RwSDRDVzhnV0p3a3pKUGtzaWtnQ1ktYkxYMldwVi1fN2k4V2wxZ3RzV3RkVFo0VlhBcUJuOWdESVBjRFpEOEs1dVRTYUZYWnlPSEIxQnNKYkgxZVVNSl9iWFFZVklMWWZOUVYwc0VLRzB5cVlnNmxwUXZxWDBwUmZYMEdVTEQ5d29UOEZTckdkUkE5T1pJUmN0SFJYWEFEdWhqem9HdkNoZTFjSElNdmJUS01USFpEMFl1Vm5MT0hfWjAtNnVoVHJWSjhrRmxPd0xWYzFBdjJGN21ibzBPUWFoS25SY3hWZ0sxcjVNZWowbUtNcUtYWVpYbnJQQzhqdXRVX01LdkdRajJoUVp0ZXFoYmhfNWJQVzN6U9IBkgRBVV95cUxPWVRyeUl6ZWxPUVVHaGZSLUZjS3k1d1J3YUROd3pLbjFwZ2VDTG9waDdULW9qa1QybmZ6aGZkTlhmTDVITEdoNEFvdzcySlpFcGJiME15MWs0eGZnRWJReHVDbWRqTGZTRjNHaTFhLW5hWDdDOHkxWjRySjY5Z3VtSnc4UjQtb1NrNXEtTzVZbGo0M01VWl9ITTMxb0xDdm05SEptMVRFX3JqRXJNTWpvRnVYV0dLN0g2V2Q0OFRCUl9DYXNCbFVxak5vSHBVNWZUSkJnSEdDaUx5OUpGa04yeFZsRTRiSk1yVFpKRGpKZmhzZnNrUWVGbnN6ODAwdklNd05LQ3pGcXZTd3lyZVlSeWNBc19IMTE1UlZMclROS2Vjejl1bEhQaUo4dUVWU015aHc1VWh1WDQ2OGFuQWhXem9QWnJISlJEeDhBeVdpbzlLNnhoTjV3eHhGTFRCLVhlZGYwN1IycF9ZVnJOSUhRcGtud1BOVl9vSWh5eFdxTWFHSHZPdHpFVnM3QTRTZ2c3bV9jNUhCMXJzempNaUpHRms5bUotWW9nd2NPOUlDRmRCRzFmcTNyeVNpTnhGOVhxMGxIc0tIUDh4VUFHZUVvM3otXzc4eHlfN3dibG5QZHdkNWNDQ3F0VTduWTBYRktVemIzUDFPbU03YVRNQmRhX3BnX1ZYSDZ2RzFVanM3VTc4Zw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 17:10:00 GMT",
+        "discovered": "2026-10-10T17:31:31.356126+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الرابع تواليا.. أتلتيكو مدريد يفوز على ألافيس بالدوري الإسباني يلاكورة",
+        "player": "",
+        "content_hash": "963b71327206b1955f4357a0a82f497fef4e71a7b7ffec5b00253bed509d0a12",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10513,
         "title": "تفوق الأحمر وانسحاب وسوبر أفريقي.. حكاية آخر 10 مباريات قمة بين الأهلي والزمالك - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi9gRBVV95cUxOZk5Ta1gwWU9mWVJPWG90QmJtb1V5cHpJdy1DR1BRX3hsNXlNaWtVdEFlN2R6aFRaQVFNMm12VTdvWk43M3FpUlZuaHhvRTZtR0VydDV0RDJHVTFzSDA4OHpfNnJyOU5rMEV1U0tNbEN1RnNSV1hKVERWeGljbnRfRHczSDhyZk5EQ2ZqMERLemZnSERnQkxpNGxZWHJYT1FNSFpkenRyVkV2dk5vQ1huMVNvSFg5RVJyWnhDVDh4eW5BLWMxdkxpa0J0dV9sUFhIcVA3TnNYNFk5SFhKT0ZUVHU4YzVKMEdkaE92ZjMza2FHaWlwemJNVFVsSUxhemJwdUhlNEowZFFkWC1Pb2lrNnF1eDdweU9MeC1mWHI2WDZLaENxdnkzSG5fVjZ6YzBFeHRqbVlQLUlMc2ZfLTFzaTFjWjBQVUJ4WDVjX2R2YVoybE9xNmlac0N3V2F5RDYyWTJqYXBRNWFxWmFxN1pIaURGZnZEUDNicXA2UFhrZFpZQ2VSMUZUOWx5RHE2QzQxeHV1VGt6UDBIS1FoU05JVENNaDhDaU5GYUI1clV4Y3o2RUVLbTZKV3VobDJTTlVXeFY1U2hVZUJwZ1lTQVJEeFNabF9VWTRfR1NzMFd1UngwZ2Q5eW9HOXQzTlJQNlV4MW43cjFibkhlb01BTmV6LU1RWmx0YVFQVlZ3TGM3S1QtY2tYa25ablVDUWlKWXJIQU9SRFdJeGpMR0tfbkxnTkdndTVfMTZRWi1uNEdyQUhNRkpYXzQ5cWwwcjB4c25iUW1tTkJtZ251dmpfdXp0LW11cDg1ejZNMnhWdlVyZ2tSUWJWc2fSAfsEQVVfeXFMTjRkQm5ibnVNTENSdWU5cmRBb0xjME0yUkw5SHQ5X3pqS1NyRzVZMzM5Mlp2UGstX09BQWlzRG1tZmF6SDl3YnZOMGUyNjA1Z3laWjl4VmhkMV9vRGVsaExJMVdDQXdNTHg4dWxZN3UyMzZzQURpV0k3UGo5Um1obVkyWVFCUGg0c3NBSUpFREUwaXJXamFoQnoxYkNrVmN4SjVlSmtIYmZhS2JpUDBuREdKTW0yZFZsay1UaGxpLUVfZzNyeHRLQmxsaHRpUDZOc1Jyams5bHJELUYxWDdTcllMcUtvek53R2VxM1JERFBxRjBEczl4T083SkhhRHlEcF82VTdQVGNHTEFJZWF5cHNhQ0YxY3BoMlFqLWE2VnAxcThaLVQ4dWRKX3l6cmZEUkJkM19JWEd2Z2xsNUxIaDRZRXJRZl9yb0EtVHhadXhuM2N4LWRYMnhDeWJwaEFQYjZucVBBbzc5a05DZkdWaGIzaW8wZVFXamxickFPNVAwT2FqSE9LamdrRWw5YmNKdnRESFJJZnpUSGp5Q3lTMUEwdWdJSmhJY1p4d3EzQ1VRRmRjVFEtX09LaTcyMjR0bl94WXJkampMWDBMaEZiLVNjaWphVDBXNzhaVktFeTN3am9EQ244QTQ2dlNxSDRMb2YzYk80X2JXTWFjSXRKdDNMek9VSEhHM2FPYW9XcU1nU3JCY0M1Y0UxcVFMby11aDlmd0NxSm9Hbm1UWUpYVkxNM1hPSnpJbGlvREY2RXRTMmktdXE0SXFlZVlkZTBEUUJtVkpETC15NTBNY1FTbWh0aUdoeTRRelZrakItZVJSQWxWQlEyT3dsV1U?oc=5",
@@ -1078,6 +1110,22 @@
         "section": "sports"
       },
       {
+        "id": 10520,
+        "title": "خدمة في الجول - الكشف عن إرشادات دخول مباراة الزمالك ضد الأهلي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxNSmcwZTd0eU0yd3BIMDVDTTJUd2N6WGV6dURiQVFlT2JBX2Q2TUNRUDdoeGhIUm1rOWRYYUFjMUg3VUFjMnk5UnBCLVRyb0dsNVJDVXdLS1lMRXIxY1BzdXJOcEpIWm5kU1RlaDY2SGdEREstWEtkRjd3UXI4TVpRdkdiNVE5eHdwU1czcmUyZFRHeEJ2OGYyVkt6Y1k5dTRqWFQwenNQRmJjOFUwLTh5ZmRFU0hhWkM4UkU2UV9JY0RIMlg2MTFzOHZRaXNxa3dIR25CSHBpaW8zUUtmUldEcW90VmZIc2p5cUNMX1E0anVudUFlU25oOVZZNThHZ09wbEtndmU5VWNSamh1MGR2b0NEaXd4X0dRZ1VOTjN2RzkxQTUxeFFfQXFhSVBGaUZsNUtNaFR4VGV6bHhHbzVaR3FBMHJkVWd3X0J3NFhhYUwzTlE4Nm5oWTE5ZmZ2WUdYSmtaX29ubXkybGhqb2lERzhyd2d3ZjlXSEVjQXNvTkVDdUxla2d1ZzBtb1I1Tkl0YzV5VXlJNDNSWC1rVUQyQ2VWNHRGbGU0UEd3bjFVenlqcmxJbFpTZFUwQXkzOE0taUNhWjU4OHNWNzgzWGpoWWEyRGpUQkVuUS02RHZ0ZTRxUXZPYkVkTXJXcjBOZUnSAfQDQVVfeXFMTVowbmVNeHo0X2RiZVhmakVKdEZteFpoUThINmFKcm1zSlZKSG9HMGlzRVc5QW5TYmFIY3dpbTFLSVIyR2NUZG5XWHgzOG1JTjMwNUswY3ZVeHhfY1BsMktDQ2plZWJSRHlZRFVyazhEQmZlMUhTajBYYnYya05EcklMOGgweGRLS1JOcnRwNEFWSTRQOGtqOV9LR0pUN21kSUl6Qi1qMmdqeDlfdkRyNHA5R25kdVpRRXpWSmhUdkh4RHhPdDJJc2FuMTcwUEYzeVlxa0VibHMwaFJZV1FXNDMzLUp1blg1aE9raGZBNWVOQmY3aDFaR1psdWlXekJTMXEwdkFLR1Y1ZWtjMXlmSTNsa1NKVTh3MHRCd1lCak1HcWUzSlN3VXRJUVBfcDZ5N3c0OWZxczBFem1pNUctdXJyaF9Yc2R0YWhBTE9JU1pvajRybFd5NFMwbGEyanRkR0g0eVpyUEpnQkhKVGxLTlpDejF0R3dVYnJjZ2kySDN0YUJHTnh6X1V1M3BGSFhfVDEwZ3doQ0RfMFdXaEc5WG9MRC1ueHhCX2g3MFRSV3pEVHJSdThjdEtGZzczMkUxTDd2WlZ0bTNxS3o3Z2x6Q3Utb0pXWTYwdDdPX2NGRkJWTzNHYjRvZk10ME84bzNOdGJpUDE?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 13:54:00 GMT",
+        "discovered": "2026-10-10T17:31:32.083138+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "خدمة في الجول - الكشف عن إرشادات دخول مباراة الزمالك ضد الأهلي FilGoal",
+        "player": "",
+        "content_hash": "99bbbc69a5eecfa7cf4e1af5a3d150cb7a7f06e6169056556eabd38c146720d6",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10454,
         "title": "لقطات من مباراة أرسنال وليدز يونايتد في الدوري الإنجليزي (صور) - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxOclZ6bl9IQnlPQVJOQ2dUZjBFVkFXQ0RmZHE2RFRIeVJxU1d1VmM3TlJOOTFudUc3UXE5YUxBVVNJalNUMldyM3hrOVV1QmN6QmRSMXlEdWhQREVzYllWYW1yMGMyNEpnaDZnWGlFOFpmUko0ajlCbExURW9nVXItWkZiS1FRSVFJWF9maG5hSUZsNzVCeHFIZkRqUzY5QW5LbUxGNlpfcWFxVnhNdmFfMno1TWFlWE5VQXRHWklZQ1VoajhnMDBPU1NYUDhrTWUzQUExUVVaUlNWT3VqQXEzVVlSWi1YYzNTZGt5VVVRYlRVbkJZNmpIQlQzT3JXX2pQZzNFQXB2QlEzZHEtS2JLMjJIMTRNWDRvYUZTQllCRGJOUGpUcDZsUDlmUlF1bFNRNWpqYUROWkdPSDVIaGlNSGNtVEx5VGg5YWxzamNhakwxWk9aNzNUbWY2blprRkJzdkYzdUZ4LVQ0QWZBNVRLQjlESm1yVlprVC1YUTdieG4xWlRXLU15RnpkTFNpOW5YUUdQNDNobXBIY1VZR0RHbkFfUzVkZkFUTERFcFpOaVlxR0ZPX05UdHdhYS1idlJ2NW1lZ3FkaXpXSVhIZmhLd1ZGZVByWEcwdmNXLXkwVy1ic1RlOEJPTnJLSjBEYVNwd1ZDaWhlaw?oc=5",
@@ -1254,6 +1302,22 @@
         "section": "sports"
       },
       {
+        "id": 10519,
+        "title": "مباشر الدوري التركي - سامسون (0)-(1) طرابزون.. جوووول أول - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EUW1hRk5iMEM0ZHlZa3Y0cV83X0RMMURDMXhtcnFBWmp4c00zWW5YWEpsREswX2kxb19aN2FRS29kejVoVWR2SmRsdjBwNGl30gGcA0FVX3lxTE5sMl81WGcwZmRKeHhBVW15MmFIYmpJVWRJRTdLMVB6TWhjTXpwdkludUhUaS00dkZmSk9Jb2FqWGk0S2NTR0toRl9NWktWMG52dGN1R012TzdjMzBzd3JxLUNqRW1IZ3lsOVNfdTY3UTE5LTFkQXphMVgyM2FuRXF2Q3F4Y1hWNTI5ZW9rUzM2cjdLZF9jQlZyMjBRSUE0ZjFLelZDeE5jY1l0MURJdWh2OEZzV0toaWl5Sm5jZXM2NVRsM2tPbmludzZVRGd4R0hEc0pMUUFDMTluNy1qdnRWLVl0UVg0MXFSTVY1VXZXZzVGcEtBUmJqT3hzTU9BNUNjb183V2FOXy12NUMzWG5yb3BGOG9xUnNSeUlRZEZFNVBaQmMyM2dIUnBsXzR4WmU3dVA5TjFZSWw4Tnl3QVZrTDJxd21vRFRiU2VCZVZBbmZoX09pb1ZEVTZpNE1xbW5ETl9Xem82amlROHFwYW1PdGNqbEZ5cUFCdUlkcmJXaHQyemNOTGkwcmVqTG1Idm80YzN1RnYwazlVeFY?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 12:50:00 GMT",
+        "discovered": "2026-10-10T17:31:32.077960+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباشر الدوري التركي - سامسون (0)-(1) طرابزون.. جوووول أول FilGoal",
+        "player": "",
+        "content_hash": "3b5986f203b921f212f9da058ec3bf312471a60f2cd703e47368081fa4e909ed",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10508,
         "title": "انتهت الدوري التركي - سامسون (0)-(3) طرابزون.. قفزة في جدول الترتيب - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOOWZjVkItakxNWGZZYUJFQWZJRlpJd2NwTlRWblBtWFhEanF3QjQ4QW5RTV84OVU5dnkwbEFsekxiOGpxVlVpZkdqWjhWTmZEUnQ5T001TW54SnRsUlQxNWtqbWN4Rm5xRU5oTWp6ZVVIYTJuS3VzTUozYlJGU011NFU5bFBNa2JaWERfVm1EZk9XdkZxbzd1T0xrZWJSM3lITk5FLXY4SmVRNHVjVVl4Tjc0Zm9YWVBsSG1Id085cGdMbFdGR3NJR1JTckJWempma3JaVGVEY3pOX21ZeFQxc2VQNWN0MnR0UWZmQWxBaExZblU0QWQzNTZReUJadXQ3ZGVOOWRtSWs5eU1wTHJ6Z083azZZTGwxdklqNzR3aEZnSGVkcjVQVTRhUnZsRWxFRTg2ZEJ0NmtSa3lScU53WDZJR1VsLTA1ejVTZllrYUEyTnZjR3B6Ri00NGw4WTE2RUIzbEpsS2E4cDdmQlpFaUdqVlhNRFlDOV82QUJ6dEdJdnhad05yVmhscTU5dHJMZVhYZDhpTdIB3wNBVV95cUxQOHBtVVlhLWhSSUUyc1pZclBwYmFyOXBBaUh6dVkyNmQwNExSQ0RFZUxSbkZWZFRNejFNRnZYQmxTZ2JVMlFfemFETEktUWZlZFlpbkpKQnJEZWtzeFdoZ1FQYnNwV2dacGtxY1lGZ2J4cTVRY3k4MkZCUEdhbDhOLXdmU0QycF81RnY5cjNhSmlqRklMV0pLR0d6Y1I2QVVma2FIX1VIRmFINTZZVVdIVjVUT3dkRGE3SVc5dGdOWlV5eDE3QmlyNnZRZDM0QVVfcS02SmswZHd1SjVMU2J2Z2FDWnpSa1lQX3BuVU1Vd1ZBcGcyQU5KeWtmXzdvM01sTGpRWDhJR3VqMEozUTNzbjR2eHZranJldGk0cGFtTnFvb0NMWjVsUlhfV2JWdkQ4ekpteWJ0U3l5d0x4SFN1Qy1sWGtqRnd6SmFZMmd6Vk1MX0U0UnJSVHFlWEllZXdWenFFdXBURkg3QmZCZlBGZ2JiZ0tWeENDRnFYcU5pQ0Z0TDZrSnpRYVI2emVUQzZiRmdjcTN4eE00T2V3Z2RTQVoyRDNISThRc2pVQ19nRUQ5ZFVSUlBiQTRkZkhwQ0NjZnBFNnR5Q0xlWk5IVjlTbDEzTTBWdXluRmRpU2NzYw?oc=5",
@@ -1378,70 +1442,6 @@
         "summary": "كاريك يكشف مستجدات إصابة مزراوي قبل مواجهة طوطنهام جريدة المنتخب",
         "player": "مزراوي",
         "content_hash": "5b297f0279fd97d4b627213e1c965c12f76c5b1a9401ad9184f9d436f482a2e7",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10420,
-        "title": "أملاً في المشاركة.. عبد الكريم على رأس قائمة برشلونة في مباراة خيتافي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxQMnRlRV9ZUVdmZy16OWJlV2d0X21LWk52SUYwa1FuSlZhZnRiOEtJdUFHRGtmUVVJelJibGs1THJLNFUzV3RMYVB2SnhHeTZObmNEWHh1bmY3RVR2Y01BcHZkRWwzaWRfQUJjMzRkUnNpbTBjaEQxRmhYRi1KanBRU1hzR0x2NXpvUzNQVXVMRVRVbTZzdjliNFlFdjM5Tkc2cTFpN1RzSHFGUV9IRm16SVFGVFlmTDJVcTFMWmtrWjBRaW1MZHBsOWpTeU1iMW91Wl9LTDBESDVjNDdmT1lxMkM0UnkwcVZhTXBUaGwwVDh5alluVHpCekZhSkpqNkd2Wk43Q3hDTjdOWjk2SGhYMmgzaHZZWFlmdXFpV201a1EwcjNpRnlRSy1iXzdpYUpIYjltQjJraFNPNDV0M1NKa1VtTDZLcFJ3WFRPd3hzMU4zTzdOeDZidklReEl6TVVrNnhpdjBzN0VpSmJTWjMtNTkxYzY0WV9MaFZ2LWlncWFMdFJSbzBOOGh0UnBqdTZjRmxQdVRhZ1VINmRjdWw5OEJzckh2ZlZTOWxXcHdhNlZmTWhDVXFpd05aYmRWcmxvOWJfSVdnQ0x5N05lc1VTYXl2endhd1otMjF1bkY0SUlqQS0zSjVvdEk3RzZRM0xPT2otMDdrcXFnVGJWTE45Tm5mZWlIOFFraGtQaTRvZTJfNGhDU2RGNzluSEtJY18xYTFManN5RdIBrARBVV95cUxORFBvUzE2VE9jU21GNnZnLWZ2UlhnVUhmdnY1NDRlLWZyZ01VOENOcTFDaVo5bG9PcDQxTEVweDlFUVlYSlo4NXl3cFd3dHNnLXo1MjFKNGNBT2kwdjEwVGItSmtPaU9xdHBUU253VV9ub05rR2xVQ0JlX2NBOE1xSjZMOUlKVURrdkxtclRtUHRZWGVxY241elRGdDZQa3lQOTAzWFYzZmgwWGdtTS11SEhUc3hZQmFicGVmQTVucEgxdGlYWE9uVU0zZ3NTZ3I2YmZaRUhWR2x2a0xrQzlERGVYdUdSMVpUY0I1YnhQSjdrM24wWXlJVkFicHVzYWc2SnU2XzM3TjFXc2pZX2czbFZNcl9fa2FRYXFFQUxNcXFjUUx0aHZyRWZWSWoxTFllT2NOa09vbldyajVEcEVXajlsTnFoUzhocVBUQjZCM1dDMXdBYU05dFRCak9QaDc3ZjdXdHFBVDctX3I2a1VHTDk0U2VDbEVlMUl5U2d1aXRGVEdROWxvN240RWxJVXBBNDBYdGVVMWFVbS1WeXd2MTAwTWN4UktTZU91a1R6cTB6enN3djZVUk9URVZTMWtQSE45cmNMWVk2b3Naa0F4cXBseFJPS1JCcVEteDBsOGxvVnMyM25SS001VWhSYkFiUzdzQUw1Z3cxNEN2aGlDbUs0VWlhRm1PYmhtSG5LbFF1aS15SnNTcXZ5Z3NIN0s4SmFxcXd4VmVMbFpD?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 12:21:00 GMT",
-        "discovered": "2026-10-10T12:43:15.629068+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أملاً في المشاركة.. عبد الكريم على رأس قائمة برشلونة في مباراة خيتافي يلاكورة",
-        "player": "",
-        "content_hash": "129dddfb133ff61f4660dc497101f349ac8f1e6b87885968618d9eda77b59961",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10486,
-        "title": "تفوق كاسح للأحمر.. صراع القيمة السوقية يشعل قمة الأهلي والزمالك (صور) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxQeVplSkV5d2J6d3BmeGNFd1U0bzJqRmVCZkNPNmlhb1NJSm9FRlV6aFZkR3BiYnJsSng5NHBNOG5FNElJbjJQOHFLcEh2Z2xOQXJDUTZFLWRucDdFc0lNYTltSnVvd3VIMlZMakNtaGRNbFRvUnAyWmh5OVZIU3FraEZjQUhObDZqYXRhUDJXalVfQ1pFWEpHOTdlS1BUd3BhQnVkOWpfQ0kzOTlHVjNqRjVNcElWUi1NNHd4MWVwd282cVVjUDlKbW10QTZ0bmNFTVgzWGdqeFM1dzVsMFZkRW5rUkktY0I0QmJYZFlTNnRBNVNjdkRDRWFUSGxjOTFHVTBUWHpERlpnRF8yWDhhcUFZVDJIUFdaUjJ1N2xjWEZ6V1gwZlZOUGdiV3lnOUducDNWZU0tYjN0WnZFM3RNTEpfUWxmT3VYOF9IaEdLVUdtN0ZTTExPYzZVZWJKUnlJR3ZBVkZYVWNPUFB0TEU3bWpwUnV1d3pMNFdDMUZ6WnRlR1UwMUNqZUsxaGxKcTJYd3ZGcWNnZmx1WG9RalIteFJQdVdlVE1WdUo5ZmM2eVNoVl81Q3FYeXRrLUdLMzZVcGVic05EUGRWQVVWYTlaa2lTd2RMc3FlVWZjTFAwczlhZEVfVFNGWVRMSXFFelhIZTFGYVY0dFlQUmNKWm5KTVpFV3RqSEw5Q2VLN3JlTllDbkhEdFQ2cXNEMjBsOU80enk4WVI2RC1lNkV5c0sw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 12:18:00 GMT",
-        "discovered": "2026-10-10T16:14:43.761687+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تفوق كاسح للأحمر.. صراع القيمة السوقية يشعل قمة الأهلي والزمالك (صور) يلاكورة",
-        "player": "",
-        "content_hash": "659a145369a482abff8bef6a5c1b694bb75a250397caac86551cc9275f31e6a3",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10421,
-        "title": "تفوق كاسح للأحمر.. صراع القيمة السوقية يشعل قمة الأهلي والزمالك (صور) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMimARBVV95cUxPZGRRbHVBemk4V2oyVFRlbVZ4aVBFLUd6eGlVQ3Q3cVA0bi1wV2FUVlBWbUFvRTFia3ZKcEs4Q1FCcEQ4NEliaS1KWnJQUHJzcWtwaFA3Nng0bW91dmxlRUFoYUtabkZzSUd1dDlRa0hNV05fY0x5cGh2b0dVclJpRm1sV1g1WWVYckxydklxUnVneE55VUFGbDNEUjF3OFpIbEd0QWdMQXotR1lvVVNKa2xZTTAyT055NlhCd1FlX3hVbExGS3JrNUdOT3h5VnNMMHJzVkJxRTVkTFZzYS12WTlrMkZ6THNEdnVNeXNCQ3NCZjVzVWRNUXNRU2w5VU9pdFV0THZzZkc0SHhscGtuT3pnbXc5UzJLSkVDckpWMW1LRld3bm1CRnM4enBZazdVbDR5LVZBNS1lV1NCRWl5dS1EbjBWaDU4eUJOSDQ5Z1FwWS1kbDZwcTY3RmhHeUo0Y3JrdUdHem5xQnZZeGdaNUo4Q1phRUVCeUJUZ3dEQjNaelBfZlBTR1lxbUJsRmRXb0JnQVlqOHcwRnZuQ2RKa1ZmVWtNazRpT2h5cVo3XzFDNkpwUUJqMGo3ZU5ndTc0RW5nUmpmU1I3TXQ5TENIdFpDZlFmNHMwQTh5cDBoQmRhRms3d3VPM0o2Rm9ubVpBX1NWdUpJT29Fd1dlV1VnNl9RWnBGY01fX2dBdmlOXzIyWU1tbGRJQw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 12:18:00 GMT",
-        "discovered": "2026-10-10T12:43:15.643532+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تفوق كاسح للأحمر.. صراع القيمة السوقية يشعل قمة الأهلي والزمالك (صور) يلاكورة",
-        "player": "",
-        "content_hash": "659a145369a482abff8bef6a5c1b694bb75a250397caac86551cc9275f31e6a3",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10478,
-        "title": "تفوق مغربي ووجوه غائبة.. ماذا قدم محترفو الأهلي والزمالك قبل القمة؟ - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOdGM1aGRMbXYwOE45N04wWmEwODBfeGVCZS1FR2tDQm12U1o3TlE1SlZNU1BNaHIwenMxX2JxdGVjUEx0cmR6eS1qVnZOLS1PTDFvREhRNjRqTHVRS09BcG5lYW9Qa0VoYmRDUVBZek9QeExDeklWN2JXdHhKd2c1bktxWk1WU3ZGOWlhMXFEMWdYY3RoV3BoRVNfV0drOVh3SUJtWS01ejlkUkM1R3o5MEJGZEVJZ0p3blhoVVRwMF93WHFYUzhPa1RsTGVpUkxSOU1WczR4anhRdl9wQW9pRE9UWnlhOTBiVUFUNHBQRUZ0SzBPU3lIWVhVMjZfS1B0bVpwWkhPLVFPOHdiWjUySlpGT1Bac0RqcFMzQ2FYdTk2c3BTdHVkZzlGaXBWWU1jVnptMDJhLTd1U3g0blFwc2hHanlQeEQ1YXVxSWxsQTFjd2l2NndOR21LbEJjbUhEUkZOb0FjOURqa1BicndEMjZnOUd3bHRlMDVvTUdCbkVDWXFoYzN5UUNNYTRWSS13RFZsU1VaZkgyWUFOU3BtWlcxdVdncW50MXJqWVl4U1BCaTBUS3YxNGRaZGh6UlM2T2I5eVJXTTkyRll5RERhN0M1Rm42RFpMa3hWNk9QSk8tTk40Y1NMSDd4MHU5b2ctS3ZpZ2g3ZWpBTzRIWG9IaU5CYXRQZWtuNHQxN1B30gGvBEFVX3lxTE1OcEM3d3NadzEzOGpHTHE4Z1FkU1VjMzhUWmxJYTdLYnpXM19ianpHbTFWN0VSYWt0UE1EcFhiZ0o0czV0LVRYbW04aGhEYWE1Q3ppclNwcENwd1lPRHI4TlllTlJzclJsUWJMRk85ak1sbjlXV0hvRDk4QUFUYV9MWHFUb2VIa2k0Q1NrWHQ5MldLUTAyVFZwNFc5Tld0OVpyZFlRRmhIdFMzaS1QUko3TThlcUI4LVg1dVdVaG5laG04VkRjNHNkOFFUOC0tWnZRY1B3cjktOGJVT0k4eFI2NnZ6MU9JN2hCemVoR3Y4cEl4TmtNVWRWSEpEWnY4dThtelpFQTIyTl9JOTlVMXRKb215N3k4REZaM2xaLUpRcUdDLUZKZDdNU1otV2RaUnVDZFZObnVvbWVrRk5BVFhNVGZEN1NRZ1NLV1h4Uk5XcjUxN0tsQ2RHSGt3SzczNlZBel9JZlQ2bngyTmxEYkRrNW55UEhvWlVYV3Z5M0VtM0ZLTnhGNkRwWlE4REp0LUU0ZHBOM3RKaHFoR2RxelN3endtcVBXRER5cmhvZXQ4VkYwNFpqazZVaV9uOUFuOXh3STN0U0Nud1RmVHRzcGh2SFVkWkFNRVBEMDVfRVlYckdSWExmQUU3ZTN2REU5al9yTEdibUlYcWlhakZnUHlWSjdFbmt0NC0wamNDR2xrMXlWV1NOeDFQclRKa3hfOEpDMXhVX2dKTG1BSFc0dGM?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 11:07:00 GMT",
-        "discovered": "2026-10-10T15:59:33.227664+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "تفوق مغربي ووجوه غائبة.. ماذا قدم محترفو الأهلي والزمالك قبل القمة؟",
-        "player": "",
-        "content_hash": "5d7711604615f05c5bfd0427099ec49097cacbf61fc3511cbf020fde9c0b5c45",
         "sent": 0,
         "section": "sports"
       }
@@ -1942,22 +1942,6 @@
         "content_hash": "dd69bfdf122e3e5e7200e4fe03ef802eb906659e6dc3adb6fd1035d10123b4af",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 10021,
-        "title": "للمرة الأولى... إسرائيل تشارك في معرض مغربي للصناعات الدفاعية بمراكش - France 24",
-        "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxORGNlU0Zfa28yQ1hMYnV5TVlMZXNJX01ReG9ubTF1blFTT1I3NGlqRXNUS3pYd1VId21uc3Y5ajJSSER6X1Q1Zmdhcmx1a3lPd29sRmFzTmhWYnk5VFlCNGk0RDlpTHVlUzlnX3hpeFdoNERobjFlZVhzU3IyYW9CYkNYY19sODJreHN1cG4yRjI3elNoYWNySGlhcWlpWjNvWW9YSXNQczZPY3psM0FhR2hKZlJ5eldaTkdwRnI2RGFVUGFfQW82bVpuOHQtZ2FERm9vaEZrTFN2VFA3ZW1JbFMxTlZ2MTlNZ0F5SS1HR29OYVM4Z0JhMkN1VmNiRzI5WFJPdHREX09QTW1FX0IwSF9uemZiNkg2WVJkVzNrYS1pOFpTSnBrTmFRYW05cnBVOE45SW9RR0ZjVGhDUUJOSnhGaTc0RkhLdkZQR3BROFQ0RmlzbFh2b3pOT2VKLWdQbFNkOFZSd0IwSmlldWRnTWF2VVVXcllkVWJqejNYY19qLW1na2k3bHh6OU5WdUJzVnhNYmlHUVFyRll6SkpYSmhYNl92SjZ6cTI0X2NWeU9naHpRb3ZrcVp1dUJLdW9xejlSWGlqQWxUYnl6VmdRbUJ1WDFFSlZab0lsa01PempCQmFMQkpDdVg2MjQ2eVo0bmJYQy00SFdiOXBDZkFCeUwxeWZVamhraXRDQk42WFpRVmx2WTVxOXlESGN4UlA4N3A2SC16X1FQWjFvaWQ2bm5zemlJQ0tiOVV2SUVuR2lMWHN0N1ViQzJRT1d2UXlFNXJxZmp4YUZHM1hjYThYcW53?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 16:11:45 GMT",
-        "discovered": "2026-10-09T07:02:36.937637+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "للمرة الأولى... إسرائيل تشارك في معرض مغربي للصناعات الدفاعية بمراكش France 24",
-        "player": "",
-        "content_hash": "51839587022e22689317d18dea0e3f36cc693cf3115774ce2bfb6dec6953a067",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2038,6 +2022,22 @@
         "summary": "الفلسطينيون بانتظار إعلان تأجيل الانتخابات... خطوة غير مفاجئة الشرق الأوسط",
         "player": "",
         "content_hash": "7f0ef697ee2ca1cb4724b68bdb1a80d084a908011849c31adf020b5728c26dcf",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 10521,
+        "title": "قبيل الانتخابات.. 3 عوامل تدفع إسرائيل لتوجيه ضربة منفردة لإيران - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPZEp0UkU0S0lFajBiRHkzZ2Zxd3ZDaU9nam5qcjctbENFSm5yRG1JdEU4T2NRWkJpMU0yekV1c2c4ckVwdEFscE9qbmc4ZEV6WGcyRkVGOWgzQTNyU0s1RFgtcU5lUDJCMTU0MFhpaEF1Rm9RVUVFak9ncFRFa0R3NzNOLVhVX0FYd0V3TzdTWFM4T1ZuaWw1QTl3NjRSQ0xTQmJjTmlYSVo1Z1hxQXQtWWktTmREUzVvZkMtazAxWXE3RWo0OEZqZHdEYnVZUUh5MHk0RXZuWWdZdktBLU9CTmpNNExfaHgxYVZPMFlzbUg3Qk5oTW1CMkR3NmwxaWlYTDdlZThDTlhlR2pOUWxXSnJwakk3VjJGSWNZdG5OQlJ5bF9WMGpEc1FHQlNMUnJ2N2ktZE9uSGtqSVRZR05OZ2xWWlBrQjB4RUZIelI4Q3bSAdYCQVVfeXFMT3NEb3NzOWRmZ3kxV2ZxczZRVFdia2ZpczhuRUsyMzgwcWxLUzJWOWVJcmFpNW8zNEtraWFkbHR3b2wyWnN1OXJ1Z3VoMzYxRUpQYjlXOGZOTUJZbEdzdUh4Wkt3TUFBUmRJLTM5MU04MlFZTXBMYnU1dXVQZmRmX1ROa3JYengyQVpsTWhULTV2bWxqZGtCM3gwSkdaUTBOU1JnTU5nUjlwU3g5SXFuTnVPYUgxVjBzdUVfNmExYktWUTZLNlgtMnRaVXkyVHd1aDBVMDduWG96ay16d1pQRElYQUdKUFRlc0VrZm1wUklRMWlRcUJ3NEFRbVljY2FpaTNONVFhYjRoUUh2NDJPazdnS0ZWNTlYN254Z1dieVFCalVTQ05FVjNZdFZOS1k1UnNfN0gyNE00S21Lc19COWFMYVdyOWtVMlZGenQzNEE3OU5JYzhR?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Fri, 09 Oct 2026 13:43:28 GMT",
+        "discovered": "2026-10-10T17:31:37.868442+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "قبيل الانتخابات.. 3 عوامل تدفع إسرائيل لتوجيه ضربة منفردة لإيران الجزيرة نت",
+        "player": "",
+        "content_hash": "c8e803329eff6ad0dfacac9ed100f9eab1f30657e1d69dd93c2a274906f9b850",
         "sent": 0,
         "section": "middle_east"
       },
@@ -2136,22 +2136,6 @@
         "content_hash": "575ba0585ff0d0f43c0ac442ef0b05909677522d1f0d34ea3873b6bc32bd6ff8",
         "sent": 0,
         "section": "middle_east"
-      },
-      {
-        "id": 10023,
-        "title": "ترمب: نجري محادثات بنّاءة مع إيران ولن نهاجمها قبل الانتخابات - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMinAVBVV95cUxPaXhOWlc4RkpOalNzbGQ0RlFfS2FUeGNlWTVXaDU2MGJKZkktSXZRalFONHl1WTE0U0c4a05lMFZJSGFVdXMyTWtBNEg4QzB4TGJLeUoyMks5U21jNUtWdDMza2xrb1ZvSXhFTU84QmhGOGlFeXlTbjFlV0xEQWZqOEd2Q08xU3pGV0YzM3ZZT2dMV000a1ByYmlVbmpKbDlNTTR3dTJlb0h6dkFCXzNGR0hsazlSdF82RkJUTEJYR0FFM2ZmWEc3WEt0OTFndHhIZDdMTy1ZUVVOelIzTm9ZZ2JTQk82TXJnY3RuOXJLdWdFUnBtVHBFTzlHV2JzSW1BOEdTOTJOOGk2dzZlZHRidlZ0MUJqOWVoeWxSU1JOZFBMVWJCSTBGUGk1am5MeWNwQlJNN0Eya3ZSMEhrSDBuU3VjR2hubkh1Tk1abFpUeHZocjBYeXcyNVdwWEd6SlZ5c2VadUM1OXY2N3JEMV9qT2xMNmpRZVplaWdKZmJKWjNTVl94U2hSOTFQSE1xWlIzMkE5UlhSZGNEc2lNQmsycFpYNThTcjRiNXpHYWpuVDN3VXFwdFFXcDNqX1VQT2tqYmRVOWViVUd6Q3k4bW5aQlkxSm1NcXNDRVJKRWF6NEZXaExFYlZjZWxQano0dFpVcVZRbERHYUFPa1Q2WXNrTHJIUkZyQVZleS04bW94dlk1LXJrVHpnUFB1MFQ2d0t0cjFPc05xa19pZUw0SnhTa0FiNDhyZks2ei1vVlJsTE1zcWhCWmlSTTdjSUJDeDBVSHFld2ZoczV1cXEzak02Q1pna2xTQTdBRjJhSm5tR1JZaVg3NGY5VFpPRWpXd2JJRGpPdkVFWWhQYjZaVGhnV1RsU0czYlBmZ0tyRA?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 17:14:45 GMT",
-        "discovered": "2026-10-09T07:23:26.499387+00:00",
-        "category": "الشرق الأوسط",
-        "status": "مفاوضات",
-        "summary": "ترمب: نجري محادثات بنّاءة مع إيران ولن نهاجمها قبل الانتخابات الشرق الأوسط",
-        "player": "",
-        "content_hash": "75301bd192331d5f1c0b639b1b0056cee5666a90bd9a999373a44d822ab4a845",
-        "sent": 0,
-        "section": "middle_east"
       }
     ],
     "world_arabic": [
@@ -2168,6 +2152,22 @@
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
         "player": "",
         "content_hash": "1e010bf0dbaa289bfdc498b020c6de8aadef0b5e84f5d8a046eba8af035e1dd0",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 10522,
+        "title": "محمود عباس يؤجل الانتخابات الفلسطينية حتى سبتمبر 2027 ومرسوم يوضح الأسباب - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZTlJOWRDNmFDUW9EWFpCQUotR2tKWG5ab2Q2OUJwVHR5TjdMZW5FcmdYVUlEZkNMYldDV1NkNE04ZGdzaVVvcm84U0xpNlBBalRHSURRWjB0SzJtb0dUWDNOaGJZRGFWZ2pyLVR1T2JkbnpNS0tVdGhudE9sU3prZk9wbzgzRUdmQ0Y3VnlSeG4wVUxPUzZsa2pVT3g2Y25yR2t3ZTNOZE8zckZHNFZPLUYxT01peHRWSmllT2JDTzFOR3Mt?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 14:25:44 GMT",
+        "discovered": "2026-10-10T17:31:45.647304+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "محمود عباس يؤجل الانتخابات الفلسطينية حتى سبتمبر 2027 ومرسوم يوضح الأسباب CNN Arabic",
+        "player": "",
+        "content_hash": "72ced48802173867900b35b652fbed1ec71d4a920ad9fe0367228ec1b31e5809",
         "sent": 0,
         "section": "world_arabic"
       },
