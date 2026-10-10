@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T17:31:46.887144+00:00",
+  "updated": "2026-10-10T17:46:45.291567+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -645,6 +645,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 10523,
+        "title": "اختبر معلوماتك في تاريخ مباريات الأهلي والزمالك - 365Scores",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPcGpERVI1V29laGNWU2VQLXUtOEdVV0tnd1hyRk8zS1ZPOEl0LVZsNEg1VG9BX1AzTFRUcVNQdGdTcUtLbTNQTERzcEFmcVBndDQ2MjVlSlFKZ2MyQWhPRnNxa0dPLU1jbndDaVRrbTJBVXZQZUtYdlNQcDRHRW1MQjk0NXdNTVRfNW5DSnpMNi1JZlROWVpDT2VtYjZ3SHRabmQ3V1pWZmtjX1E1eTJoanVRZDhDcU9oemVnMURxQnBpNEV2dE1GWVhSWnZNRFVvYW51UmRiTzljVUpUVEdWV3UzU2c4bDM2WS1FanNEV3Y1YVNac1V1aFlKNGFtY0ZzSGYyMlBFZFB4NkhmY0pGN2lSSWVLRGZ1ZEtNd25SUVJQOVVYMXgyM2ZLM2hOcXpCbUpmb2w3cTZGN0hfNXlybm5NRUZ3cjlBaFRPZkJQcFpVc2U2cTd1dGF2YVBEdw?oc=5",
+        "source": "365Scores عربي",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 17:41:04 GMT",
+        "discovered": "2026-10-10T17:46:27.514027+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "اختبر معلوماتك في تاريخ مباريات الأهلي والزمالك 365Scores",
+        "player": "",
+        "content_hash": "d32507fef7b18c87982aac3d9a154bb72e0ac9354b19e5a0fc1caa410fd55a24",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 10517,
         "title": "بالفيديو: جوردون يتلاعب بدفاع خيتافي.. ويتقدم لبرشلونة بلدغة مبكرة - Kooora",
@@ -1426,22 +1442,6 @@
         "summary": "اختبار حاسم للنصيري أمام جدار بونو في الجولة الثامنة من الدوري السعودي جريدة المنتخب",
         "player": "بونو",
         "content_hash": "efd7ab4df4a0a48038e489af524687540c130e74782075b95029418884022210",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10419,
-        "title": "كاريك يكشف مستجدات إصابة مزراوي قبل مواجهة طوطنهام - جريدة المنتخب",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XbFFyUjJ1Tmg4RWR3Q1VxcVp0QS1McnFaYjhSTExwVVVqUlRUMzhHQmo4TlhZb1I2a2E3VUJBSVFsSm41MWFtNGxNN1JYTl8zc202VA?oc=5",
-        "source": "المنتخب",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 12:27:04 GMT",
-        "discovered": "2026-10-10T12:43:09.564262+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كاريك يكشف مستجدات إصابة مزراوي قبل مواجهة طوطنهام جريدة المنتخب",
-        "player": "مزراوي",
-        "content_hash": "5b297f0279fd97d4b627213e1c965c12f76c5b1a9401ad9184f9d436f482a2e7",
         "sent": 0,
         "section": "sports"
       }
