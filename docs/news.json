@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T00:42:29.585287+00:00",
+  "updated": "2026-10-10T01:04:39.544523+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -613,6 +613,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 10296,
+        "title": "اللاعب Mohammed El Amraoui - الإحصائيات والسيرة الذاتية - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTmNTbVBsRDAwcG5ya1VEQmlIaFpqRmlvT05HenI2enN2ekRrVnd6UGNsUWs0eEs4S3pLWGd2WGkwUlZ5SUhTeXJ6RHRGeUdSMl9lRzVsZm1ONGkxUUx6SDc1cy1RdXFNaldscmFKY1BLZl83Q2l2anQyaTNCQVRjTzNNdjliNFVhY3RNQno1X2VGeDFhSUxHMFdJQk5raWg3dlBuR1R3Zm9NSF8zWUp4VVdqczRRNU9vR2dyUV9GT29XaWhLd2c4dHdZNEU?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 00:47:40 GMT",
+        "discovered": "2026-10-10T01:04:19.261051+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "اللاعب Mohammed El Amraoui - الإحصائيات والسيرة الذاتية Kooora",
+        "player": "",
+        "content_hash": "e6fec867d5ea53270bf63cc4a48a9138d060e36e32d816ee67a1b23ad69daf87",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 10286,
         "title": "جدول مباريات اليوم - 10 أكتوبر 2026 - بطولة كأس الكونفدرالية - FilGoal",
@@ -1394,22 +1410,6 @@
         "summary": "موقف كوكا يتحدد لاحقا.. قائمة الأهلي لمباراة الزمالك يلاكورة",
         "player": "",
         "content_hash": "e51c5928f5c53d5e69746d20f4c68b29d58aea879ebfe49e8a76ccd60a4525aa",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10180,
-        "title": "وائل جمعة لـ في الجول: استبعاد ياسر إبراهيم وصلاح من قمة الزمالك.. وجاهزية 5 لاعبين - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxNSFQxTWV6ZzI3OFl1dDBURGNXSThYckNqYllvN0JCS2h5cE95TmdaaDNKcnVZSlFWMDZJOHVTRzBmYWttVnJxUGdMSWx2ajY2Zk5zV3dfa0RFcnp3MGo5ZkxEMW9uQ281cnhTcVppbXBnUzU2WmpqSXdGQ09GUm80VFRoVngyYkZWZVlkTUdpaHNNT3g5LU9xRmhOVlhOV0gwakthNXZUc2FIdEJXLVlwQm9zQ2lQZm9xakVwRTNXWWZxcUVfTUFXaDBOejhmMGk3UDFfM2Y1TFotcGFTTzhhRDU0Mi13VW9sS3BjaGlNV2ZTUXpHU0pQRmZHeF9RVlBENE1OS3RDNG1nTUJqU1FEOGM3X2VvNTNWTlY1WmlyT0c1NXItUkVCQVhTTjV0TDA0V2lralVad0NuaGgtSG9pTWZxVXJQYllOU0lmVzYzc0lRbHBUUWJGdkRNQUZGVDBXVzE2Qm1XWWNINXoyREpObGVXa29jZERGWlB3Y0Q0MDZlZUhEbk9zaHllenhmTk9hVXotcHBBQlVQcXJzclE0MFg3Z1lFd2V1WHpMX0R3MGp0UGpDTEcxaDhNMEkxcmlKMVluaTJURnVvdHE3enVsVGd1Z2JqdVpwcm9DSHRlTTdHRlBDc2taSFJJUDJoNmhSeFl5TUdIOHV1NnlfSm9jVTh3VV9tcV9QNTljOUlmdzdPYTkydmxyOG1zR0FDa2pVcG54eGEyak1WSUxBMGtVWW5NbzBKV0x3TUtPTlVYRTljQ1VNeDFiejUyQkJmcm5aUmtuQ1VlQ3VsNWV1ZDJaNmJkWHdseFJMZVZQYU1B0gHzBEFVX3lxTE5WNXFXLXB5czBVTWFlMzJ1dkdLQXM0N3pVOU9ra3NvRU5La29zM1FyR185U1E0VENfM2NGYUhDeF9WQ2N3MWMwM2NxRHlxRGQwaDIyS2NDMGxYa1NCZklDal9qV3J3RFFOYTVjeXprMmZ2MlpCMVQ1UlFJMjhYY3lYYUNvZzc2SGMxb19YRjVyT2VtOXlveTVuOG41VHRhV1dGbXlqU1RoWTJTTnFNTVU0dV9SUjVuVkpTNDZHeWc5UlF5OTdrOUdBdEljcWFOMXEwZVd6ZUJaZ3JJdC1xYmlhLU1sNDEydG5GZFpraTVwRGI1R3BlUXhwWWxMZXhYb29lSDJvQUZZZXR3a2k2Y1I4Y3Ntc0gtNkFQZGIzeGN4T2VEcXU2YXJlWURCMmkzLXYxc24yMUFZTC1ZM0tQVkpvSWxRTXJaVUlTZ3ZVc1dQbUJXX0dmT1pjT3Q5Tmc0YV9ncWtZajlPRzdjc1F2NWNZakhiU1hBX2RiR3k0Zm1XV2JTeEUzU21FZHRTUF93Q1lPVXJwcTJBSWhXNkZ4QklSQ2t4LXBIcUV5X25kdEctSFNZVzlraUE3SHVUS0N0M3VyOHBlb3R0M25id2M0ck1jaG5xcDFtUkJRYTV2aEtXOWIyTHFCTlVoTGlMbGlMYTJCRTFodUtsUkxUdlExNzhfZ2UwODM5ODM2aUZPUE1YTWZfN1B3RlRIdzFqUlBIMHNmRzExZ3ZWRkY1Rkc0Yl83QnpwRGZNNGpEVXF5aUc5bS05WFJPemlvdGs0VDJmVnlhTDlYYl9adjhyb0hOaWdTSzFfaUFuMThhOGIyRFUzQ1NnMA?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 19:50:00 GMT",
-        "discovered": "2026-10-09T19:57:47.085178+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "وائل جمعة لـ في الجول: استبعاد ياسر إبراهيم وصلاح من قمة الزمالك.. وجاهزية 5 لاعبين FilGoal",
-        "player": "",
-        "content_hash": "bda4f64b882c39686bcc98534af073e24480a64ec30ecf62dbc8fd295137e2f2",
         "sent": 0,
         "section": "sports"
       }
