@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T05:27:33.049370+00:00",
+  "updated": "2026-10-10T05:44:08.083162+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1384,6 +1384,22 @@
     ],
     "transfers": [
       {
+        "id": 10335,
+        "title": "ديمقراطيون بمجلس الشيوخ يعتبرون صفقة ترمب للديزل الروسي «خيانة» - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMiqwVBVV95cUxOOFc5Q3hZQ2lwYi1aVndRVnVydzdxNjFOY2Fwd1pVa0VJQ0xwTTV1Y2NTak81QkFWTVlIby1ReGxxajM0WGdwcFR5ZFNOME9oUHpWS0o5SEtNYVI3T0xTaC14ZnVOQlpTMDF1ZEhRUWV4VnZXRHk2N0FtYml5dzMzd3NqU3BuZ3BoMUZJOWVXbEVLQXRTWlJodEQ3b053SXoxNkVlTGdHUElrVnBJdW9COVhTN09MTmltd0xETzNLMWRRYmE4d0hYWlN5NnFiVzh0SXd3dEhuT0lFa01JTzFENi1qekt2MXV6ZUFFWlM5MjVPbXJJdFluQWdZS0tJajVqVTBrcWY4cHlrRTZhQ0lCbE1lUjQxLW5pX01SVGNvdmkwY1A2SXhYUnE2cW51QlBHZlk4YkkwYlVuSEI2bHZFS19qRkFEb2FHT0xDWnhoNHNjWTJpckhQV0JvYXhwVmxqbzNLYnZoTV9TRm9IWi1Zc2QzZTh0ODhfYW9Qanp6NW5COVlsUHFQTFBPZXF0ak5jX3JUelZSN3JYMnZfNS1GUTloUXg5NHJweGJFNUVMSkRSN25PX2tzd2lxNEx4eWxRNllYQ1pWMjZxRXVtUXRhUEJPU3lKaGdOUkVNcjVZemJWUVNzb0lyUWIxNlNDZEkybDVCQVFEV211VmFQMnZXWnlhWUozRWZVc3dVNjBRZlRITURMWUF3Nm1ia0x3QWJxeUM3VTZWTE85bHc2enZSbENRS0ZwQzR5VWRGQzJMcG1LSDJfNHYyaEdKN1RIeDBPVkw1bHN4RzVaVWlCeTV4dDk2NW5mWEYwaDUxV19DNE5YRWthMlg4cHpLNWQxRlV2aGpMM2RyQWszTm85T0ZmdEV0b2lfUzhPcWJlWFU5Q3N0NVpIXzF4WGwtcw?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Sat, 10 Oct 2026 00:51:54 GMT",
+        "discovered": "2026-10-10T05:44:02.797742+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "ديمقراطيون بمجلس الشيوخ يعتبرون صفقة ترمب للديزل الروسي «خيانة» الشرق الأوسط",
+        "player": "",
+        "content_hash": "908921897752876acb1f586514d19fff3e5fb21ebaab7c08899128bf3f017818",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 10275,
         "title": "قنبلة موقوتة.. شرط صارم قد يدفع مبابي لمغادرة ريال مدريد مبكراً - الشرق رياضة",
         "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOeFlrZ2hQbjkzTHo2WW44NlNPTV9MOVNiUmZ4MmIzNW1ZcDNyU2FManktYlo2VDNZLWlWLTFveTBMLTQ1cnRNWjdpYlFBSEFGN0tQWUVObXdTdDJkMjYtU3Z1TERtRVVrdlhITmVhUGRvci1KSTFMYWFhTUpKbFg5NkNISlpyMEtxaElkSHp1RTRYYTdfUkRnRlVRNEpLUUhJSUZpMXhkUFNicTNnYjNuclN2czBqdGtpRTlYYm9vNlJPU0VFU01OZUNnQTFDM2xuNC1mVXk0WmxkZ3VVbGxpa3BJVEd0LU9zWXFpaUUteHpBSzBRRmtvNDJ2Wnh1MkpOUmROMnNhVDU3TTJaeFlrWEJFTXRRTWNoWng0T1c2ZzZvOGFwLVpYMm9NcHlCbm1BZndRN0xqNF9YTUNoc1ZsTmtUQzVBdDY2TVY1WWNaQnZjVlB3M0t1elZJX3VhdXRlLXpEZFhmd2EwdVhYNXM2Ql96eUFpNERzbnFuZU5mNFdUdHloWWpUb2d2Vy1VMHppUWl4ZFFnVWFkT2xtRk9BcEw1N2lBWU9ZNnMwUEMxLXdBX2dMak5NNDYzMUdQOWstSC1DNFBWQ20yU3RLMDhJ?oc=5",
@@ -1908,22 +1924,6 @@
         "summary": "للمرة الأولى... إسرائيل تشارك في معرض مغربي للصناعات الدفاعية بمراكش France 24",
         "player": "",
         "content_hash": "51839587022e22689317d18dea0e3f36cc693cf3115774ce2bfb6dec6953a067",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 9834,
-        "title": "راتب خرافي.. الكشف عن تفاصيل عقد روبرتو مارتينيز مع المنتخب السعودي - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxNSGJFQ04wdWhZejZycUgzbEZIeXRjQ3dPRVFhY2dqT1pjeWExeHQtR29KTVRBNzlLZTJZRzdVdXhkazdzaWwyNlJUSlFrcWtiNkZiN2tydDhINmFlUGZjWnR2NTVkd29uTnFqZEEyMnBMeWpUTFVIRmJkd0h0R0d3N3pWdnRIeVpZR3VNYi1TN0JvRk9nazM1Q0dabzZDVTZoLUl1cXJtTHJBN3pkYk03TFpaUXg2UXlwT0RQZ0NSeVNieHNodk1BREtqMHc0dFJVX2FSR050dlRDelRXZ0kydllxZU1UNWRNUGdjVGZfTThtV2gtUWxCY2N0U0ZfV1ZOQjRVM3o2WVpBZmtLS3cyT0VrN1RSVzlLNVo5UWduWmhCb0xhMmJFOGdnR25sSm5FZXVjYmdCSlY3aFB6MVlHbHBoaFFiY3pVZDBQcHZ0bGZVQllabW1ubGE5dS1XWExvOTludUUtWkJmcGpRcW5VWjNuUkp2SV9YT1FYN3NQQ2NYbzg1YVc2SkJZNkRCc2RRbDEwSjVpVFlSNGNTSjBNRlVWZEI0WGJJcE5WeWFSZHg5VkJIREZJSFplNnM0UEk4TTRKWWQ1cDc1VnNpcDJyRHV4RTE1YXRfclVWbXcwWGctOUZpQUh6SnBKQms0eVdtUVB5X1pJRnkzMWNhQk9ZazF5MVhEYk4yOEJpdU8yeElLM0NHdmdiM3Z4XzBNUVJCRy1hZHIwT1pQU3pUNzZSVFgtM01BdUVadlUyNjhkaWtwUDBLUkdiLWM2bGNnLXprX1ZUQmFYLU5fQUlFWE9KU0dSc3ZxOXZtMUloVThDOU4wd1BNZ1ZUMw?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 15:48:13 GMT",
-        "discovered": "2026-10-08T16:22:08.391420+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "راتب خرافي.. الكشف عن تفاصيل عقد روبرتو مارتينيز مع المنتخب السعودي Kooora",
-        "player": "",
-        "content_hash": "081d3549dec5583e29628188b6ba9afe482b5ef48ec025e6dfc1c2cc11f8d424",
         "sent": 0,
         "section": "transfers"
       }
