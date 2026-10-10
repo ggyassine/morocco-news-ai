@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T16:48:45.938281+00:00",
+  "updated": "2026-10-10T17:00:50.295377+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -662,6 +662,38 @@
     ],
     "sports": [
       {
+        "id": 10506,
+        "title": "تنقيط جيد لديوب وفوز مثير لإيبسويتش في الأنفاس الأخيرة - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzYzBEUmNfRWk3WmZVcl9DN0VOUmZYNXFzQVQ4cGVCdmlIZndDekg4bWREdGQtVzJWZ0s5Q1lhRVlyWUNUc3RRTnhMVUpuQTFLZVRlLQ?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 16:47:26 GMT",
+        "discovered": "2026-10-10T17:00:28.906073+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تنقيط جيد لديوب وفوز مثير لإيبسويتش في الأنفاس الأخيرة جريدة المنتخب",
+        "player": "",
+        "content_hash": "5786d3ff5554243620586c742da643971e26ebc95fc31e002dd03fb11353a3cc",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10507,
+        "title": "صلاح يحقق رقما قياسيا بصناعة هدف في سامسون - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOTE16cUhkSWg4THpoNzVHZHFsbno4ZGM2M1FHUHZmdTRaSlpQdlNjc0ZlMmMtMFdtZXdRUTlCRl9uTjVsV25taFdoRzBGcDlxQTZDMHNUX0JReXdxZFI4Q1dzNmxPNUZJSS1fRm1OV3paZmgtWU1RNmgyS2FsRHVTVTZCWm1iTE0wckdBRUwzbFlDbVMwYkxVemVxQkpyNkU0ajZDSHcwS0hHTU1ubTl0NGJsN3NEOW1tZWRwSkIxQkRyek0wXzJUejhLZXFndkJlbkJkcS1MUnRhcThzUmF5T1ZDS0FPNkZlVmYxYV9fM0ZXLTBUNTBhX1k1MjV2SVBYQVB4ejJQWmF4dEhXelhzOUQwRHVaV2liLVpPUjYxM2FBbmcyeGY4MmFRYjVmUDRCX2t0MGdjZ1JJcVBCb3BTWkVnMy1RODJLeEQ3OEs0Nm9mNFFaZnNSSnhyU3QwZHRBU011MGlSaHBiY21QMmZyN3o1TdIB-AJBVV95cUxON2hvaUlvNEh0cEdYWkFySFFGWlVjb0ViNFlZWWFWbG0tQ2JjSl9nTHlpTUV3NlBVTFFwTDlRTFR0MXZzUHc5eHhKRUlPNVZfdTN0U0M4WU1tdmVWNFliUVRxa080dm1MWUU4bmNiLVloeklYZHV1Y3Z5bTcyVGw2ZUFwU3pIektCSmM0N21JbmdiWWM2ekhYdHFJYkZSZF96dDFRZ1F4UXFRS2ZvV3F4aVVFNU0xckRKS0FVUHprTHFqalBnV1ZGWGpvaXV6TjBHZm9ac0FRai1sLXBzaVVaZjNyUHZMTmI1cVRvQWk4bkNWc0tGQnBVRFdSRWgtTkRFQUZGd2VTcGhHMURXMDBBdFd1U3lYLU5XaEFPWnFQXzhtYmktdWRwbmJYMWhGVE1fclNwRVVrQXAwSll0YzBsYURuOENVMl9iT21YeEcycm9JRFdfNHBvbExjSXZabENfZVJuQnVOVEp2aUJ4cHFqb3JiZWVCTlAz?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 16:47:00 GMT",
+        "discovered": "2026-10-10T17:00:35.234498+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "صلاح يحقق رقما قياسيا بصناعة هدف في سامسون FilGoal",
+        "player": "",
+        "content_hash": "d335975a2ec0f7190c7b3fe88c7321df7c2abc78562c636d40d247608f29d2f1",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10505,
         "title": "منها تحية متبادلة.. أبرز 3 لقطات لمحمد صلاح من مباراة طرابزون وسامسون - CNN Arabic",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRWtVZkdFWm9TenFIdGota0xhaE9ncThCamlJSnRBUmlMV0daMHBfOUtxcFQ2NXpFMEhKaVNBZHpudzBKS2ZKb1Yta0hxbUVxa0hFYmxUUHgtMHoycGlWajdvcmZYanhRcU83WV9LSUpvTVN3c0RJc1NYUURHRUhNZnBBN0d1UGZRSnVlVkFEUzV4cWFw?oc=5",
@@ -1206,6 +1238,22 @@
         "section": "sports"
       },
       {
+        "id": 10508,
+        "title": "انتهت الدوري التركي - سامسون (0)-(3) طرابزون.. قفزة في جدول الترتيب - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOOWZjVkItakxNWGZZYUJFQWZJRlpJd2NwTlRWblBtWFhEanF3QjQ4QW5RTV84OVU5dnkwbEFsekxiOGpxVlVpZkdqWjhWTmZEUnQ5T001TW54SnRsUlQxNWtqbWN4Rm5xRU5oTWp6ZVVIYTJuS3VzTUozYlJGU011NFU5bFBNa2JaWERfVm1EZk9XdkZxbzd1T0xrZWJSM3lITk5FLXY4SmVRNHVjVVl4Tjc0Zm9YWVBsSG1Id085cGdMbFdGR3NJR1JTckJWempma3JaVGVEY3pOX21ZeFQxc2VQNWN0MnR0UWZmQWxBaExZblU0QWQzNTZReUJadXQ3ZGVOOWRtSWs5eU1wTHJ6Z083azZZTGwxdklqNzR3aEZnSGVkcjVQVTRhUnZsRWxFRTg2ZEJ0NmtSa3lScU53WDZJR1VsLTA1ejVTZllrYUEyTnZjR3B6Ri00NGw4WTE2RUIzbEpsS2E4cDdmQlpFaUdqVlhNRFlDOV82QUJ6dEdJdnhad05yVmhscTU5dHJMZVhYZDhpTdIB3wNBVV95cUxQOHBtVVlhLWhSSUUyc1pZclBwYmFyOXBBaUh6dVkyNmQwNExSQ0RFZUxSbkZWZFRNejFNRnZYQmxTZ2JVMlFfemFETEktUWZlZFlpbkpKQnJEZWtzeFdoZ1FQYnNwV2dacGtxY1lGZ2J4cTVRY3k4MkZCUEdhbDhOLXdmU0QycF81RnY5cjNhSmlqRklMV0pLR0d6Y1I2QVVma2FIX1VIRmFINTZZVVdIVjVUT3dkRGE3SVc5dGdOWlV5eDE3QmlyNnZRZDM0QVVfcS02SmswZHd1SjVMU2J2Z2FDWnpSa1lQX3BuVU1Vd1ZBcGcyQU5KeWtmXzdvM01sTGpRWDhJR3VqMEozUTNzbjR2eHZranJldGk0cGFtTnFvb0NMWjVsUlhfV2JWdkQ4ekpteWJ0U3l5d0x4SFN1Qy1sWGtqRnd6SmFZMmd6Vk1MX0U0UnJSVHFlWEllZXdWenFFdXBURkg3QmZCZlBGZ2JiZ0tWeENDRnFYcU5pQ0Z0TDZrSnpRYVI2emVUQzZiRmdjcTN4eE00T2V3Z2RTQVoyRDNISThRc2pVQ19nRUQ5ZFVSUlBiQTRkZkhwQ0NjZnBFNnR5Q0xlWk5IVjlTbDEzTTBWdXluRmRpU2NzYw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 12:50:00 GMT",
+        "discovered": "2026-10-10T17:00:35.239122+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "انتهت الدوري التركي - سامسون (0)-(3) طرابزون.. قفزة في جدول الترتيب FilGoal",
+        "player": "",
+        "content_hash": "aa96859ea82e0f966f91f6d1ac37e3b96069a0c35573ac4d94b1bed67b975372",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10425,
         "title": "مباشر الدوري التركي - سامسون ضد طرابزون - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPeHhNazE4VWVBcWxUMmtpaFBnSlZXNjJ4Y2VOckFpMUdJT0ZQWDRVT1N2QzNPaUZaQWcwcjQ3RW5sYTROem5oYlBnd3BHdjdRRnJOT3J2MnY1QWJZemMwUDJWQnJPb0hCYWhFc2RRV1lmUXVjOWpQWUZqSTlnZTh0bXF5ZndBT29yVlhDazA4Q0FBeDE1bDZTZUZ1ZlBnWFM3eTBiNmNUdkVtRHBtemwxT3h0eTdHbVRMa3YwZ2Q5OUNzLVV3aXdld0tjNmNjT2M4allyNm02YjFqbzNIRE1xbmRSXzI5Qnc2eTNOdl9xd3dJeW95M3daRktUMms1bDBuRllmMFd1VUNlX0JZXzNwX0lWZXJpZVZNcTk2WDNJWjNkNUw4QXNtaFp0OTk5am1tQXZXRUI2T09IaFc0YmRZYkszQVNXczdadFlxemNiU0VmVEFfZlFhStIB3gJBVV95cUxNQTlRWEM4SmNDTmx1bmZwQi1wajRrbXBYb0lXbkFzQXJtTHVNako0Ym9DLWF6OWRSUDdWM01IMF9xRndZQ0dBWnlVbWJ5NDRPT01lWUZaeUZScjM0V2E4RnRuSEJQRXRJaDJtUldnZk92WXRFMHh4YWdHYXRDVFVyS0thSVRoUmlMblBrQlZFWV80SEp4NDNmVUwwMEhWTllzTXYwVHhPeFBhQnEtS2RkYnR3QWJqNE04V1Q1ZHNwWk9YZHdYVkd0RUROOVljQkllOVN1MVJScmg0UEszTEFnd2g5SmQxTkRDaTVUbG54amw0NnFORGFnaHJ5UWQ5a0pKbklIalhoT0oxV1BwblhGRUwtaXVMZElLcEJJM1lScE9rWmFxeGFSVEs1NmtZNVNDV0xLOTAtWG5ibWNwbWJoLXBrdnBjTHIzWFA1c3llaGhqN3JzdTdyMkpZdW5XQQ?oc=5",
@@ -1410,54 +1458,6 @@
         "summary": "المغرب والسنغال.. تحديد موعد الإعلان عن قرار \"كاس\" بشأن نهائي أفريقيا Kooora",
         "player": "",
         "content_hash": "e7568770be35c2d164bfbab1b6c5ab779147f04835b0492f57e8b6f655eac93c",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10400,
-        "title": "غياب تزوليس ومادويكي أساسيًا.. تشكيل أرسنال أمام ليدز بالدوري الإنجليزي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxQT3V6cGd6MWlKUEs5TC1UNjVBejZ4ZjRfQmdubUFTYmREQXVQNms1V081V0JERldUNllzM1E0Q1ZzNmstRHpWNXBNYU5wQ3k1ZTZCbVZHRU15OHNIczV3YXVhWkRITVpzX2d4eVVLbXlvci12T2RyMmVyNzRBeVpBU3ljandrN0lLQVkySDBnUnAxT3RqSDlFZTJCQWpKd1BuQVgwZEt2TTJKTjExQ05mWEl4dXFTWEh0WThNRUdocXhwS0s4bTV6T0w0aG9PazQzUWVmN19rZEtBN3ZIU1NkS1NIX2h2Zy1FbkFKZFVDSllwQVU5UDFfbE43R2dFOTljRGR4NXNIdE9YOElyZ3Z0cm1fakJNclF4dTR6ckJkYjA1ZWVnN3FjME9BVmQ4ZnlQV2tIV3V0Y293RFlVQmlqa3BCQjJZTU1DTlJsWkRGMGpJYjY4Ym5pZlRMRURrNzhOc3UwQ0d6T19oRXUtTlc0cWp3ODNWYUdVSzRSU2ZSbG82NXlYWVhjOXJGT1oySG9PNEo0OFJRY1h1TEdDb1pJdmxhbzlOcHlXaF9HT0IwY2VwX0psdW9uQmh5WjJFNHhFMWd1V3d3b3lxbmJBanU0Y0dHYmM4WjBLVGVteHcwZUVOODZFblE4U2lzYTJBeXdZTWE3eGdoTk5KRlE1MFdhVUFCeDBSOU1oU2FGeGpDZDItWDFRcThKcFFrc3ppaDhNalA3YTdjQ1R1S0RxLW9FTDBKcXVQaXhNRGw2bmZMdWTSAcYEQVVfeXFMTlB5RmtoWHQzVGVLTWc4dlJ3SWp2STJtLXhpQ3BOSmtEQ01YNWY1VXBwd2VrX1Vhb0wwc25wQWlocE81MHVSX2lPMDRzc1FFdy1yM2VrWDVDQkFvRE4wVUppTEVPX1pzS0RLQ1JlMFZqNjFKaE5UbjlBYmNCZ0dBSjdaSkEtZElMUlI5TE9HcWRWWmRIc3NyVDR6QXVZaUFpZFVJRTBVcW9yQ3V2OFBmWW9UQlMwYVlDMXdmOXlDT0NPTkxrOGpZREhfWlUwWDJ5aVhZS2N4dW1NMTlHU2Jwc3UxRjhSaG81TUxSWFdybUtfOXhaaWlCWmtXendsRi02M3VIQ1RRaDFLS3gwenpZTy1KRjZjVEg2MGNNdU5OMVNhb0NHSjV1bjE0NVVEM3ROYkdMYzdLbG5OWV82UzhpUnhfbmllQVd3bktvaGo5MXA5RFgtdGlodklqRUNMY3JJMVNmMDJFY1JQN1hPekZvbnpaeVFfekVHdEpQMUxJYUNyZTZ1c2ZfcEtaYXl2NUxqd09YQ0M2WEdDZkdvTE8yR3NIYVRZM1Axd1Bkc21TbTc0WHNNT3VYcWdUdnBtd2VsbkF1Rlp0M0ZnMExpaG12OEJ5dXNuMUxjTkhvTWRQYkJ1SEZJN093YVFqN2pVWF9PQVdIcnhTbjVISHFodG04WTgxSEY1bGhNeTU3UDYxV3ZfVlBLTHhuQnpMNFJ4QVhSdG9vRTNYMTY2ckNwVWhDZzhKQkV5UWRZcVlfV2RFX3c1R0t6N2VR?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 10:50:00 GMT",
-        "discovered": "2026-10-10T11:00:45.387664+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "غياب تزوليس ومادويكي أساسيًا.. تشكيل أرسنال أمام ليدز بالدوري الإنجليزي يلاكورة",
-        "player": "",
-        "content_hash": "f72d5ed3f020fb309eb0eb3a59fd5082fc23d5ebacaf4371963ecb816d8f7373",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10407,
-        "title": "مواعيد مباريات السبت 10 أكتوبر - مانشستر يونايتد يواجه توتنام.. وريال مدريد ضد فياريال - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMihAVBVV95cUxPb1ZOa2prUWk0U0sxSjB2bHp0aEZiSzhvR1pucWxVeHRXWDRhWVVHWk5JSzhsUU1yaERqWl9IVXhvMU1YaXlveXJoQm1fMEdSSEJUSUFicjRNb3NlM0xDR1RTX0dXZTRSX2daY0xReHFYa1lIR0M3cEdDajVjYlRUQkJzcTRjWW9PM2FtcTdsU1lTZE8yV3Nwckp5cmJCMy1QUnUyV2I0aWItUkVKV05vVVBua1ZJSlFmSHBwb3dOQkpsaGI1amtFSEo3VzByV2J0bjhremM4SHktQ28wLU5lMXJxUG82YUcyM2p0eWJLbXRQTGhNWWhPYl9CREhXTWVnekNWeUZncm5oaWhpNHAxbGdqLTVEM3dCdmw2VGh1dnNwN1VYTG5xMnkwWXFMalpHRV9sUjlfdlpYUThDVmhvS1p3VUlKek5OVGkwV09raWItRFIxMzdpdTZUS3gxYlNJRUhPVjR5aTV0V1VwRUdLdHE1cW1OSzhwcWdJbERvZGU2eE53Q01oY0J6Z0Q4bkFRRnlieWstalBoNmVzZk8zRllMSk1CbnVJdDVVYkVYV2dMWjRaZEVNMXJQSUZfSHAyelZHc2FJZzl4djhRbEJLZnlRUUtDdGMxeUNaeTBDWm5Qb0gwUFhYampBcXVqNWJkTVFLZkx2cmJGSFRTa0k4WjJsc2JoSXMtQXloUTN3elpLeWFwaElveGRVaUNCenBOSkxnaktQb3lWOFdTcWY3OHlEU1N0VjNWRjNkOEpkZE1IY2xsMjJZYmIya1puOUwyVlcxQlJoaFF4amlJTUVLeHM2alliakN2aFh4RlMzQnZEeVJFQWRNNjZLRzlfUEQ3MWxsc9IBigVBVV95cUxPQkNJb2tVRUhkWXRmajQ5SHpvai15LUlfUDgxcWkxNmJHRGFZZDdkLW5HSWNGbkhwYlBtckpncTRudG14NUE2QTVpT0NZYkVUOGZMOFN3RlcwRTJmbHJWMm04Ri1GVnhzOUNWZTg3LXpBTTlQMVVFV2pITVRqb1ZUdWQxVTFySmxWa2E4TmxtbDN1TU0yR0k1T1Y3N1hqalUxR3BsR3AtZktydE9jQkJmR2lSTm44VEVySndDQ0wydjhyOVF0bjBHbnN1al93T2ctVUo0b3hjU0xkeFo0c3Aycld4b2JQLXR1dUlkdlFQdV9vV2lTQ2dlYVB3aGd0NDNmemRkY0JtMzUxRXlSSWVSUHl2dmNaMjNfRmdIaWJmeHNfZFpsTUthYXdFX01aY0Zob0x6dEJ6MTIxeFR5eEJYVkdtbE9LSkI0NnNkY1BVNFJxUnZHQWdjQTMzVjJjbEY2VVVyNy10bEJHVk1VMjRhOWhleWZPdW1pN3pOU3R6aExINjNrZlZjMWI1S3VpZlZQbmpBQXhLa2M4Y1lfcndqdGl4UlhVSGdhZUloclJuVnVYV1diWVI1OUhNcUJ2b0hGME1CRTFldTN6RmFxb3pYbElySjJUTGJUQVBiWnVfY0RKVGtnLTJ3NElHXzM3M3drcGExem9jX2l4OE9xbmhuVG1QNUZlTnN4Y2VOVV9tbUcydTBZT2MzcWNfenlCWVlOdFVvaTU3elQzY3k1OTNWempqY0EtUU1HNGN1a25sZl9HR0NXUU9oMldlU01rNHRUVFZrdXplM2lvdmo0QlVwUXJna1RNc052S0xwczRsSktuR19fVjgzNWoteEJvS2ptWTdWNC1uVXF0QQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 10:35:16 GMT",
-        "discovered": "2026-10-10T11:17:27.095687+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مواعيد مباريات السبت 10 أكتوبر - مانشستر يونايتد يواجه توتنام.. وريال مدريد ضد فياريال FilGoal",
-        "player": "",
-        "content_hash": "558cdb678388864d3bd5b6c1582f1f94ae84b8bd71dbe159906fa4d007d704b2",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10394,
-        "title": "شارك مع كووورة.. مَن يحسم قضية \"كاس\" بين المغرب والسنغال؟ - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxOSnVSYlBGTnpfbWNEY0ZvNUl6b0hNQkk5V0NZS2FCV2g2UUdTaFVITXFUZU9DVFk4MnI2YnBqNkFFcHBVamZiZHVSY1k5bWJSMTJYTC1GWW5OU1Fid1R6T0pkUDVHZUc1Zk5GQ2JXX2U3MzllSTBoTXRxeFZ6LXJKWFBhRmRpMGhoVG05R2dFdGUxYmRvX1dsNzdfN1NCQUlUS3dwMVRzWUpOTzhKUkpaaHJCdTE5SFE5RmNWMWF1WkN4Q2lhSWxleWFORDVxcUtjYkoxZkdxTmlCUGhZWE1CUTZFN0t3cGN1SHpZU1lNUG9ya01lQ0RjXzVHWlhXNy03ZVBiQklLSDF5VGp3UW9Wa09hMW53czhsUDVRVXNRTjdaNjZIS3dyYW05NWRMaWV0cnJxUndZMzhDc2tZRGhMakdmXy12cXo1dXcxWUFuSW1GVklnUVVfX2d4WWkzMmNrRG80dnlEbzJKbHVzYTVPZkZWOU9faXBMeU5GYmVoNEM1VjRBRWgtM3Mxb2tYTjJPSUNyY1JsYVVMQWpOaExhdmRTakxTYVVkUk1UVDAzLThZWWlxZGR4MTRCQk9sT2haQ0ljMFBFZTgwUGdVUFVUWW5PUFZVTVlCMmN3STI1NEVaUmE4SHhwS2xSM1k3QVp1S0ZqdXdFckdsX3dLWHhCc2Q0aHNGaGpqVklsMDNJU2d4MEh2MTNr?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 10:21:50 GMT",
-        "discovered": "2026-10-10T10:35:48.665470+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "شارك مع كووورة.. مَن يحسم قضية \"كاس\" بين المغرب والسنغال؟",
-        "player": "",
-        "content_hash": "ec93b0697b0a5846a7091f82ea60d9f2f631e71cfbfb2840278a96223d1da6da",
         "sent": 0,
         "section": "sports"
       }
@@ -1958,6 +1958,22 @@
         "content_hash": "dd69bfdf122e3e5e7200e4fe03ef802eb906659e6dc3adb6fd1035d10123b4af",
         "sent": 0,
         "section": "transfers"
+      },
+      {
+        "id": 10021,
+        "title": "للمرة الأولى... إسرائيل تشارك في معرض مغربي للصناعات الدفاعية بمراكش - France 24",
+        "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxORGNlU0Zfa28yQ1hMYnV5TVlMZXNJX01ReG9ubTF1blFTT1I3NGlqRXNUS3pYd1VId21uc3Y5ajJSSER6X1Q1Zmdhcmx1a3lPd29sRmFzTmhWYnk5VFlCNGk0RDlpTHVlUzlnX3hpeFdoNERobjFlZVhzU3IyYW9CYkNYY19sODJreHN1cG4yRjI3elNoYWNySGlhcWlpWjNvWW9YSXNQczZPY3psM0FhR2hKZlJ5eldaTkdwRnI2RGFVUGFfQW82bVpuOHQtZ2FERm9vaEZrTFN2VFA3ZW1JbFMxTlZ2MTlNZ0F5SS1HR29OYVM4Z0JhMkN1VmNiRzI5WFJPdHREX09QTW1FX0IwSF9uemZiNkg2WVJkVzNrYS1pOFpTSnBrTmFRYW05cnBVOE45SW9RR0ZjVGhDUUJOSnhGaTc0RkhLdkZQR3BROFQ0RmlzbFh2b3pOT2VKLWdQbFNkOFZSd0IwSmlldWRnTWF2VVVXcllkVWJqejNYY19qLW1na2k3bHh6OU5WdUJzVnhNYmlHUVFyRll6SkpYSmhYNl92SjZ6cTI0X2NWeU9naHpRb3ZrcVp1dUJLdW9xejlSWGlqQWxUYnl6VmdRbUJ1WDFFSlZab0lsa01PempCQmFMQkpDdVg2MjQ2eVo0bmJYQy00SFdiOXBDZkFCeUwxeWZVamhraXRDQk42WFpRVmx2WTVxOXlESGN4UlA4N3A2SC16X1FQWjFvaWQ2bm5zemlJQ0tiOVV2SUVuR2lMWHN0N1ViQzJRT1d2UXlFNXJxZmp4YUZHM1hjYThYcW53?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 16:11:45 GMT",
+        "discovered": "2026-10-09T07:02:36.937637+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "للمرة الأولى... إسرائيل تشارك في معرض مغربي للصناعات الدفاعية بمراكش France 24",
+        "player": "",
+        "content_hash": "51839587022e22689317d18dea0e3f36cc693cf3115774ce2bfb6dec6953a067",
+        "sent": 0,
+        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2134,22 +2150,6 @@
         "summary": "من الرياض إلى صنعاء.. هل تغيرت قواعد المواجهة؟ سكاي نيوز عربية",
         "player": "رياض",
         "content_hash": "575ba0585ff0d0f43c0ac442ef0b05909677522d1f0d34ea3873b6bc32bd6ff8",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 10007,
-        "title": "ترمب: لا ضربات على إيران قبل الانتخابات - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQRnpfSFllem5XbGp3Ulk0d3JrQUhXMFlpaXBnMDlYY1ZzblVnSUVydHNxY2FDRDhBWnh6TjE4ZGg4YXR5WkVLZnI0QVk4UTZ1dnBLbDhpRGJIeGk5S0x0a1hUdmEyeWk4V1ZmTVNUOWNld043VjVKZnpPSFJFTS02UUYyellqemY3N2pDVzMwY1JBZGNkakJ5NGMyM2xCWlRkbndWSVdwQnRUYV93UTVvem55QkxiNzNJQWtLMVdQSVNpX3QzTGFEXzRDOVByWDk1SVZ6ZFMzUE1ZYkJnMG1hMUlHY3c4RjFORXl0OGR0Qk90Ym9pd1pnOGZyQWFJYUVmSnpJWGY4MXUxakpUWmFLeUhnb0VVODNoWnJ3Ri1sSE9ZM3VSOUExYVdoTmZvUDlpOUdZcnV2VnF6SFlzUXVTTi1CdmVmaXRvbHBZeHU5UHRIeDAyRUgtcXlnRVJEYXBNNUM4eTNkZ0F2MWNLRFhzSVNJZmwyUmk0cDQ5eEI1SmFuczg3U2VzSkpKYTVVd2xiblpqTUI2VkhCUkN2c1BNNU9yZU0tTnJJcFl6Q3RQNHRuajJweFExR0szaXB4QTVnZUtuaTk5Y2FKUkk0aUk5QWVXWVRrc3BET2dGbDVDaEdVYUNhSDE4ZVZSbWRYZUFQbW8zdGIxTTlxZXpaY2NmUQ?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 23:29:00 GMT",
-        "discovered": "2026-10-09T05:21:49.028727+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "ترمب: لا ضربات على إيران قبل الانتخابات الشرق الأوسط",
-        "player": "",
-        "content_hash": "16164f5527fa837457f857600ee5f7d4f939ff0859fbdbe5d9b314718fd99b6e",
         "sent": 0,
         "section": "middle_east"
       },
