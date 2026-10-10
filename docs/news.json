@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T07:46:41.866482+00:00",
+  "updated": "2026-10-10T07:59:00.560263+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -560,22 +560,6 @@
         "summary": "هزت المنصات وطغت على الاحتجاجات.. ما قصة \"أم الأسبوع\" المغربية في فرنسا؟ الجزيرة نت",
         "player": "",
         "content_hash": "9d2426c8054e33fd01e807c4b71495def4cb18f5bdbfedf54374816725f0ce41",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 9936,
-        "title": "استكمال تلقيح الأطفال سلاح المغرب لمواجهة عودة الدفتيريا - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxQOTZWTmhEMjFYM3RHTUlhbkxPZzBpOU1pU2NhTWNBa05FSlFRekpudl8ta3k3OHlnaWxCYTdSdkdWVFZVSm5UbDhNY0xpUXpwaTJHMHJ0dkFNOEh6WTFFUTlPSUNpdHREZ3UwYXpKVlhZLWduSzlDa1F1RUhyblZSOUppb1hWRXVjVHQ4Z2FBOWtVMFdTWC1vMXVXbm5FYVlsNHhqU0IwRXRERXpjSVVYRnNnM3hhNXJENWxpOWdXckJEbWwyVE1mbUI1WE5oeWlVVF9RR25WZzlwS0dQREh2bk56aFF5Zk9mam9HTlhsMG5HNzBlTkpDOV92ODhfeGc5elFNTGNHXzBYZDNhWllzLV9DNzJIWmw4OWQyWGhaRHNGVjRDV0FIeGxDTlowNHExX3MzSDRuQWFHaVltNWR0T1hyREhZVXd0UmxIdjNMNFlGNzl4XzZVMzc2c01nSWgzZG9vY2hfQXNXcFNCOWFzdGFHT3R0MXNOTU8xckRRMzhGVVgwZUREc0NiVkdPVHF1UVE3djVsWlI3d0RyWC0telpQc3BsVlkzV0RSZG02RjBxelFidlpyYW02VHBLcFdhQldOVENLeHRyMnQ4dlZHZ1lVbnB3TnQ3YllF?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 15:23:14 GMT",
-        "discovered": "2026-10-08T21:27:22.991654+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "استكمال تلقيح الأطفال سلاح المغرب لمواجهة عودة الدفتيريا العربي الجديد",
-        "player": "",
-        "content_hash": "1aafe0255edf8c43bea9e93dc3a04a5c1eb75bae39da673817853ba4c1f0a720",
         "sent": 0,
         "section": "morocco"
       }
@@ -1416,6 +1400,22 @@
         "section": "transfers"
       },
       {
+        "id": 10364,
+        "title": "ديمقراطيون يعتبرون صفقة ترامب بشأن الديزل الروسي \"خيانة\" - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxPQXBwR2p0RU95MWZVMmRPQ01ab09JMk5Zdmh6OW5NWVR2eVRpeVJRV0dvQmt3TG9lMnVVeDNhY2tMQmtSVmpvcTRFYTYxWjJmekNQeVZuTHJtSzc5RmxLMUxvbE5na1ZEZ1IxTW9LWGJ5SmMwbURGT2tpSmo2bFpvbnY2Rjkxb2dZRGliUHo4VWJUMVBuMDk4S0NidmtqQWVNaUJWeGJsQWwxUlNEeFBSazJqa3ZuRWI5QU10V0VmNy1GWkFVTnNfYndlMGt5aTE2SDA2ak5JNlE4a2Q3SDVlZmd5X0trcFpGT0xpNXFpZ0xrN0kzODBEMFMyVzZ3WU54TmZiSXFuQXJxaVVuakhMZmhERDhnTm5Zb2R1ZXJrMHItbXBfX1MtY3BNRjMzd3FUdUtqY19hMjlubUJvSkJmd21VeVZiX0hXZnNsZmxJUjI1OU1seldXel9CeVlpRDdmN3lQZlRXcFVEQ3p5d0M0WFZLOGY2X3lSZ1Z5a3FGUklNNnpwcHQyN0dpaHFyV1pMVXF0NkVwQW9FUm85TkRxQzlrcDE4d3Y4VVBhVG5mR0FacGh6ZjluNWNiWklPRi1ibDV3Zkdlb2t3MFZ3MEI1OEtCc2tZTllR0gHeA0FVX3lxTE5QZDRsWXk5Ti1mT3otbDYzUzRqWXZFRlNBUDNYNVFkMVAyTi1lQlZxVGxqdHdBRGZGcTBwZTdzSVpkeHNvNnFQcGItbk92ODlLaTJrU29DcU41WUc3cC1xNW94TVA2aE45UzNnNHEzazBQV0tNa2wtcmRFaU1xMlZwWl9IVkJ6QjhsLTlBQjBjUlJ0TFlfOHRPdWhtV0wtYWNMbUVZQVBTWV9Nci1pejdHZlNsRFNQTWREc0Frcy1YLURyVGN2cWtRMDZJQ01XejREM1k0cHFONTBVTVY2eS1RNjllM2hjcUxpMnRqYUZPSTYtWXkzQk5iUTJYQWtXYmdlYkItZFluTlBaZS04MEpFYWgyZFJxLVNUWUpwdXhEcTJKeUc3RURNM3ozXzZ0SmlVdzR2WVJaRkVSclB1LWtBbFRoSkVacEtUR29yU3Q3cjlZTExRR3k4dElpLUVYbTJGelk1YU95NVNWVmNTLXRFMmJoMlhZRTIzanpTb0NmUkZpTEJSMjZudFpsei11c0NIdllyam9RUUcwc1p3Q1hIYTltY3ZkRWxna09jRVZoOUh3dUhuZmQ5aU5wMC1IdldlT0lmQXd0QXQzVElaZEQ0V1JhUEdLRk5PWEJiRHc?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Sat, 10 Oct 2026 01:11:49 GMT",
+        "discovered": "2026-10-10T07:58:52.821931+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "ديمقراطيون يعتبرون صفقة ترامب بشأن الديزل الروسي \"خيانة\" سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "eb760cf95709c4be5d98b48d1cf1efc4e8bb82cc6f9e5c5f024fe2d126a6bcc2",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 10335,
         "title": "ديمقراطيون بمجلس الشيوخ يعتبرون صفقة ترمب للديزل الروسي «خيانة» - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMiqwVBVV95cUxOOFc5Q3hZQ2lwYi1aVndRVnVydzdxNjFOY2Fwd1pVa0VJQ0xwTTV1Y2NTak81QkFWTVlIby1ReGxxajM0WGdwcFR5ZFNOME9oUHpWS0o5SEtNYVI3T0xTaC14ZnVOQlpTMDF1ZEhRUWV4VnZXRHk2N0FtYml5dzMzd3NqU3BuZ3BoMUZJOWVXbEVLQXRTWlJodEQ3b053SXoxNkVlTGdHUElrVnBJdW9COVhTN09MTmltd0xETzNLMWRRYmE4d0hYWlN5NnFiVzh0SXd3dEhuT0lFa01JTzFENi1qekt2MXV6ZUFFWlM5MjVPbXJJdFluQWdZS0tJajVqVTBrcWY4cHlrRTZhQ0lCbE1lUjQxLW5pX01SVGNvdmkwY1A2SXhYUnE2cW51QlBHZlk4YkkwYlVuSEI2bHZFS19qRkFEb2FHT0xDWnhoNHNjWTJpckhQV0JvYXhwVmxqbzNLYnZoTV9TRm9IWi1Zc2QzZTh0ODhfYW9Qanp6NW5COVlsUHFQTFBPZXF0ak5jX3JUelZSN3JYMnZfNS1GUTloUXg5NHJweGJFNUVMSkRSN25PX2tzd2lxNEx4eWxRNllYQ1pWMjZxRXVtUXRhUEJPU3lKaGdOUkVNcjVZemJWUVNzb0lyUWIxNlNDZEkybDVCQVFEV211VmFQMnZXWnlhWUozRWZVc3dVNjBRZlRITURMWUF3Nm1ia0x3QWJxeUM3VTZWTE85bHc2enZSbENRS0ZwQzR5VWRGQzJMcG1LSDJfNHYyaEdKN1RIeDBPVkw1bHN4RzVaVWlCeTV4dDk2NW5mWEYwaDUxV19DNE5YRWthMlg4cHpLNWQxRlV2aGpMM2RyQWszTm85T0ZmdEV0b2lfUzhPcWJlWFU5Q3N0NVpIXzF4WGwtcw?oc=5",
@@ -2058,6 +2058,22 @@
         "section": "middle_east"
       },
       {
+        "id": 10363,
+        "title": "من الرياض إلى صنعاء.. هل تغيرت قواعد المواجهة؟ - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOWFp3cUNkWUhwS1ZzUk5ndUFkU2VCTk9yNUloNWQ4SlJmSDFZY2ZfU3VLa2N3eloxQnVqcnNscGNzaU5xNWFjdUVuSG1jamJTWm0zWHFNbHVlbmw3bkt4YVNDM1NfWENtMXZmSFpNZVU1QmlFS2cwTmRqR2JjT3N3S1RBWG1oeE9rSk1sTXNhMnBiQVp3eHFKV3FRQlM4WmhRZ0RBSHpsc2ZQdC1IVXVYUUZvYnpIRnp4Q2RDLWJlMHJ0ZHEzdUVkV2oySDFpMTY4eDVzRVB5X0dPNkJEQ3FGeUg4cGtxNW1jckJiSi1nYl9la0J6OHJ2S2JuWXN6ZmdMZlJySkJNbnhUTTlZUG1DdjNrRWJwX1RMdWptTmh1SmtMQm5PX0JWamNQSkhieWNGOWpwZnNwRkRfYTRCUjc0dGFYMmlpUFRBYXpobtIB0gJBVV95cUxOTC1JbnZheGFyRzRwVUM0b0F3N05uV3JLcVVPSFdtU1pyUnUxbEVDTmdMV1JNYnZiQmJZYnhXNWYtUVdTbzJZY3pLMzlSS3ZTbHFObEFVWUlWYzl5dGxRQUpueDFrWFhWemNhdFYxMGtHbjFpNGdkRUtNUFMxaGx4Y0lhNENwd2M4NjlaRTgtdXk1Z3RxLUEtaXlZMWhiVnY1cW1kWEkwalEzTWxxbXkyYU9KSzYxNmpKOGUtN0JaX2t1YW5qb0FSNnRMaEZ4WHpHZlJKSl9pUkNnNVM0QzZDR3luMVdTUjAzRlp0ZmpGOGp0U29XRENmZHlhZUlyTjFva3ROSzEzbUlaQjlnbU4xVUk2SERyNERlbUpkUXRHSmQtOGxObXdueldaWWVkOVdzNS01TnhlVEFJQmM2a0Z5TnpyNHdUVTUyZjdFQkJkMGFudw?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Fri, 09 Oct 2026 05:55:00 GMT",
+        "discovered": "2026-10-10T07:58:52.366003+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "من الرياض إلى صنعاء.. هل تغيرت قواعد المواجهة؟ سكاي نيوز عربية",
+        "player": "رياض",
+        "content_hash": "575ba0585ff0d0f43c0ac442ef0b05909677522d1f0d34ea3873b6bc32bd6ff8",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
         "id": 10007,
         "title": "ترمب: لا ضربات على إيران قبل الانتخابات - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQRnpfSFllem5XbGp3Ulk0d3JrQUhXMFlpaXBnMDlYY1ZzblVnSUVydHNxY2FDRDhBWnh6TjE4ZGg4YXR5WkVLZnI0QVk4UTZ1dnBLbDhpRGJIeGk5S0x0a1hUdmEyeWk4V1ZmTVNUOWNld043VjVKZnpPSFJFTS02UUYyellqemY3N2pDVzMwY1JBZGNkakJ5NGMyM2xCWlRkbndWSVdwQnRUYV93UTVvem55QkxiNzNJQWtLMVdQSVNpX3QzTGFEXzRDOVByWDk1SVZ6ZFMzUE1ZYkJnMG1hMUlHY3c4RjFORXl0OGR0Qk90Ym9pd1pnOGZyQWFJYUVmSnpJWGY4MXUxakpUWmFLeUhnb0VVODNoWnJ3Ri1sSE9ZM3VSOUExYVdoTmZvUDlpOUdZcnV2VnF6SFlzUXVTTi1CdmVmaXRvbHBZeHU5UHRIeDAyRUgtcXlnRVJEYXBNNUM4eTNkZ0F2MWNLRFhzSVNJZmwyUmk0cDQ5eEI1SmFuczg3U2VzSkpKYTVVd2xiblpqTUI2VkhCUkN2c1BNNU9yZU0tTnJJcFl6Q3RQNHRuajJweFExR0szaXB4QTVnZUtuaTk5Y2FKUkk0aUk5QWVXWVRrc3BET2dGbDVDaEdVYUNhSDE4ZVZSbWRYZUFQbW8zdGIxTTlxZXpaY2NmUQ?oc=5",
@@ -2118,22 +2134,6 @@
         "summary": "ترمب: نجري محادثات بنّاءة مع إيران ولن نهاجمها قبل الانتخابات الشرق الأوسط",
         "player": "",
         "content_hash": "75301bd192331d5f1c0b639b1b0056cee5666a90bd9a999373a44d822ab4a845",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 9864,
-        "title": "السعودية: أضرار مادية في الرياض جراء شظايا صاروخ باليستي - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNR1VhbkJfQUs4aXFLcV85ZTd0SXczX0h2NnNZUzNKMEJFSlU1QTdxcWplTVhvTFZBa2drRDF3VVBkcktjLU5LT0xmRFRMbW1ZTndfS2NaM0JMelZIaU4yQU9GaVIyMTdzMWZkNC1zcGtEeUVTdHBQTU84ZVphV2JwU3JlWlpNN0ZvWkNrbWdfV285MkFjaGw0OGxSczN2U2Z3dGx3LWVqTXVnMGdrOXpfUWNPdVY1T1FKUEVNRDJMRVBUTmtVUWU0MXVkaDRLS2I5eTdSTDF6UzRPMU5SZTM1WUJBdXZaOUNNcXJJc2RiclRLRnJ5ZnprU1RLVzF3QTZLR1BQUHF0d1lIeDNpMlFrMHQycU5FOV9vZ3lBZUZJZFpPMzg2ano4dFFvRnZWNGdRRmlxMXA0ZGnSAb4CQVVfeXFMUHJtLV9MZE1WVnlVd01QbnNJQ2o2SEpYUFE2V3VackdZOThRclROeDZuVFhMbW1wM0FzWkFaQW1zWXBKaGk1T1lUdGZ5SkRjSnAwMGxnTkd2QTl4cFV6Z2Y1NUJhV00yT2JOTmdvRk1sTmxpU3dhRE1GTmVNc2FFTENIV1FUdUxRU0lmZkRjb0E4RTdyekt2c1dVX0pRNGI5NktLQ2ktMnNqVXMtWF9BLXhneGxfSWE5MERwdUotU1A2R1Z1WWtJd1hXa2cyWlpUUFVKcWhuUS0xS0RpUUZaY2xLcXJzZkt6TVI1Ri1fTTE0a3BlcEx3ZGp5cjkyS2phaTBQZ3djMFd5dGtLNl8xSGwzcm1sdEs1Z3hEbzJUSVdIc1FrRXFGMGdVT0lZSnJFRzRGYkdtbVZFRjN5OVBB?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 16:52:30 GMT",
-        "discovered": "2026-10-08T17:19:27.629293+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "السعودية: أضرار مادية في الرياض جراء شظايا صاروخ باليستي الجزيرة نت",
-        "player": "رياض",
-        "content_hash": "8ef7857dd544bbf0b991ab753bb6d8fc3d07ac2e4133a9c7f4e1fb202db06b62",
         "sent": 0,
         "section": "middle_east"
       }
