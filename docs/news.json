@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T06:11:33.529137+00:00",
+  "updated": "2026-10-11T06:34:54.335401+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1448,6 +1448,22 @@
         "section": "transfers"
       },
       {
+        "id": 10762,
+        "title": "\"العين بالعين\".. فيديو لطائرتين مصرية وإسرائيلية على وقع خطاب للسادات يثير الجدل - Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQejlmQWlKaVk5ZmNKc2lITU5uNVhLVTBuNWpxSVo5UXNGbExuNV9xVVdpLTZDdk5lVXhDMF9LM29FdG0zSS1HUVNuUnY0MFhWQV9JdDROOThka193OHZ1M2FFaGtzUTdoU2MtUGRsWUJzaV8xckE3R0VzdWRmdWhmZ21pUWFHeFpLTUMwT0FUWFRwR1MtZWZOemdyUDc?oc=5",
+        "source": "يورونيوز عربي",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 12:32:24 GMT",
+        "discovered": "2026-10-11T06:34:52.555687+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "\"العين بالعين\".. فيديو لطائرتين مصرية وإسرائيلية على وقع خطاب للسادات يثير الجدل Euronews.com",
+        "player": "",
+        "content_hash": "47a1642c6f8ff0c3fabc0199a3ca3c2bc3ec5639744d77e943f560f2a4d6db44",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 10488,
         "title": "على وقع أزمة السكن وغضب الشارع.. انطلاق الحملة الانتخابية في إسبانيا - الجزيرة نت",
         "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOQWdUeURWbUtKUzJ6Ry1NdkFvMzQ5VTBxVDRQM2NYZUs5cEFEbXNfZi1zRzNtcDJmTnRwcDdwSFlNajJCMVk4Tk9YLXJDTXZzSmY0YWVsclc0R0tnbmlsTmlSWFUtcG01NEdNb2VfajZOWTlVZmdFcDZNa2U4RnpxTERnNVFlc2FmLWxCNU1rWkp6cnRwbUhkS2xLbWotOTREc0hIQ1RZZUE4ZGFCNnk1RkVGS3dzQmFiekYzUzN5VFpTTmZobGlTanRsMWh5bFV5MjZxOF9vandNOXg5QTg0UU9TMGE4S3hMSkNtc2VhVVJnb1NYNkVmWWs5TWFYNmM5ZnpvWkxYTXNGTGxpSmoxQlk5TERmdnFBOXhOTGdOVTNQUmJ3Y3Y3SXlGM0RKZ1o0QW1wRFFldmJ4dDdfNmJNWGNKTjU3WE9JVTA5TWktZzd5QdIB1wJBVV95cUxQdmUxVHliU3ZrRS10QU0wY01aOUtDQzNIZkRMaUZkbEt3NFNOUVlGQUFWS3ZscVhHMTlmT2RncWcxcHAzY2NZdGgtSFRpcHZuWFlrWkY4cFNObHF3cXd3VkxaajI3SFVqOFdSbTNNdEF1Z2g4U09qZ0p0WE1SUjJEVllUZ3BadDloS19sWHgyTlk1eU80XzFtYmVkZWRXWG1RUmVQUHgwcTV4QVVlN1MyRXd2NkhCSDhSVkVtVGdCZ01TSHBNaDdyejh3OEVfNUFDTHNCSUs1VjhQVVAtX0w0R0swMklSLVc2NmZzbW9TYm92MlJjaVplYjdtQzNaSm9kelJOVUEza1lqNWh2ekVoaFhiN3V0Y3RZQndlR1g0eTdnaHRURUZ1WGptSnZub040cXZNc0Q0cmx2RkZTdmhQRmVYZXNXSWgxVzVzNzM4RTdxYTM4bF80?oc=5",
@@ -2392,22 +2408,6 @@
         "summary": "إسلام آباد تؤكد تواجد قواتها في الرياض ضمن التزامات \"حلف مكة\" France 24",
         "player": "رياض",
         "content_hash": "30847de0581c13d2b7bc11496eb7f83c6476ebee487740b72b197133fde73d14",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 10480,
-        "title": "مصادر: سقوط قتلى وجرحى بصاروخ حوثي وتوقف حركة الملاحة بمطار الرياض - DW.com",
-        "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxQZmYwSzJkSE5DR05oekpDWjFJYTJXTmQteXpUVmNvQ0JydTdlV1hQZnRxZXNQRWpxSXNudlgzWEVKX2xfZVdpblJ4ZDB6XzlIeC1TNXdJYkNIX3NOWDBlN1pVQXU0UVFXZlE5S2txWUI5aGtjUlk5M3dvckxHQktjaENmVE84QTdSSGdILVFYM2lYdzdBYlRpa1VaRlVsaWVwSVVWNGU1Smg1VDlXZFBqNGt4aGRGUTJRM3FMMTVGX1ZCZWlZZEdYZmlTOS1xdTVEVjRHVk0xR1lHWWRaa2ZMRndKRGZMQ1oxQnBnbTgxYWxabW1hc1lrOHJhd0R5QUpmMnFQaFduZFFtclZTbkdEVGxadENnTkkwZnlYSTJEYjFGdC1GTmdRLU5KcHN3T2ZEZFZZdmhrVUhWZFZuRWJVU0R5Wk9RSDdadlU4bXhfc1N6WmxyaTVVbTdhejhKTVpqcWo5MFJGVnVoQmRidG1HYkhoNU5GVUV5cUlpcFBnc2lxdEZiMHdMOTNUUEw1dDBpU0VMZnE0V1lNalRtLWdKazhfOGY4TnFNcHdvc1VvY1U1X0NVaF9UQmJ6LVNsbmdFOE9WajkzbHdHRHdUajBJOGpxMDRMa3R5Ykt2WDQ5N0dzLTRpZEpsOEVNVGJTbENHWklyczNoMVRZMW5CYnY3QWtISndwR0xJZTJMdzR5MzBFdw?oc=5",
-        "source": "DW عربية",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 07:00:00 GMT",
-        "discovered": "2026-10-10T15:59:48.059215+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "مصادر: سقوط قتلى وجرحى بصاروخ حوثي وتوقف حركة الملاحة بمطار الرياض DW.com",
-        "player": "رياض",
-        "content_hash": "ff22bc6b06f62b9c5c68bc7b826381a5588a7f5de09a3110fdd1cddee7c9899a",
         "sent": 0,
         "section": "world_arabic"
       }
