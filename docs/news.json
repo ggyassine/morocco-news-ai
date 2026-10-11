@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T16:53:37.469938+00:00",
+  "updated": "2026-10-11T17:04:22.568242+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -16,6 +16,22 @@
         "summary": "ميناء طنجة المتوسط.. إحباط تهريب أكثر من 3.5 أطنان من الشير Febrayer",
         "player": "",
         "content_hash": "ad713ad3acea60f4fa2ff4aa685d67f9b8428975c25859f5c87666987fc5dcdd",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 10913,
+        "title": "مؤسسة بيت الشعر تخصص دورتها الأكاديمية الجديدة لتاريخ مدينة الرباط - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBabDVqMTBqdDU5LTRjRlhHODJrdHZJaDVWYnJpTnRkRDgyYUFORVFKV1dVREQ5QnVkY2N5N1RtSlpSbnV4Y1k1TDdrd282dzVWNWNYcEZkUGFPT0stYUdXaFl4dmtkdw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Sun, 11 Oct 2026 10:57:48 GMT",
+        "discovered": "2026-10-11T17:03:55.815418+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "مؤسسة بيت الشعر تخصص دورتها الأكاديمية الجديدة لتاريخ مدينة الرباط Le 360 Arabe",
+        "player": "",
+        "content_hash": "7dc2cbbb286896dee4aba8c61e9e250499dc02472b4834a3f92c424eb542a764",
         "sent": 0,
         "section": "morocco"
       },
@@ -308,22 +324,6 @@
         "section": "morocco"
       },
       {
-        "id": 10418,
-        "title": "مقاييس أمطار الخير المسجلة بالمغرب خلال الـ24 ساعة الماضية - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HVDdxZFhhXzhNOXlpTTlHc19ZeHZWT3JTRExaTEtxLU1GWUJscktLNEMzYjJVUWZ6T08wenkyV1plTXZ4ZjMxTQ?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 12:35:17 GMT",
-        "discovered": "2026-10-10T12:43:08.316578+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "مقاييس أمطار الخير المسجلة بالمغرب خلال الـ24 ساعة الماضية Febrayer",
-        "player": "",
-        "content_hash": "3c5fae74aa2c5769b7cb5c041b99858542a9b499152e01a25f1ad3e94026e798",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 10495,
         "title": "لتعزيز إشعاعها السياحي.. فاس تراهن على مشروع «تلفريك» لتقديم تجربة جديدة لاكتشاف مؤهلاتها التراثية والتاريخية - Le 360 Arabe",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xeFkzbnBobmVEMEtRVlFUdGJLWlNtTXVxNE41WTdTcUV2UEtVSDJlcEgyTmRxMmNKWGJLVExFYWZLYW9HNHBlM1ZVd05paXpReFdwalM4UUxHYWNWMGhfMWNrREtWWEk?oc=5",
@@ -389,6 +389,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 10918,
+        "title": "مباشر الدوري المصري - الزمالك ضد الأهلي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQeFJQclNJVFd4YTdtelhkR3otTFIwbzB5NjlpQ2RKa0R3TTl1dURQaldES3o5Sl8yQ3VfeUZ1S2dsamJvclZfQVZDeVc3MVlrV0NKRFJkLUdxNWZySml0X0ZaSzBtNVRZMnZzRHRRVXRiLUtPUmxQSmNnem14QzN3MDZqYmo5MnNKSnEyQVNPY3FtMkhJQjluTTJPQkFTNzVjak5seThVWlFHdkNVTG1OQlRiQUdXd0kwYzFDRnM3X19GMEpCZS1RNXFrR211MXhCYnhhRGlfT3JZVnd4TFh3OWVkeUJWdGoydFNNM3ZKNUNkRkZIdU9SZmpIY2tad2owS3BsSk12NnhxYjl6OFdyT3Z0cGpoVTM1MDJaWjVEaVB1OE9GX0lYYVRORDB3Zld2d0psaDJ6b2Z3aUtRTjR0aHJrTFhJRTl0RzFCVHNYUFNMaWw1NDRqedIB3gJBVV95cUxOWU9zN00wUVRzMGZncU15MWVVdlh4TXFERXctdVVHRElIQk9WcjZ3cVhGamRRcWl6RDZTYUE4c2pwdGhaRGVUX2tCS3NjVlJKRl9VRDZJZVUxcHFKX09ROGdYb3BNVS0xS3FNT1RkUHJfZ1Z6a1BVU0ZZN3NtelJ5alFteV9wMERlRWRBSUFvVUN2RDFFd3ZSLWdaT21rWGlZQlFQVFNVM1ptbGVXOUtWOVRPS1VCTE8tS25UQ185NThiYVJzLWEzQUdDanVGRVRjU0R1NnVhQXNHYi1fT1oyUlp5UjR6Y3JXS2FJVno4aXhreE43VTE2NzNHOGx2UDZCQWtxWjhscjlTZFE1VzdxRk55QThONWxkRTlWNDlmMlRtV1UxbHlzQ002aHFKMm03QWpPc0J5dmFyWUNWYW9iRDZLbHhUbVB0b056cFFhMTNIbVQ0bEpvLUEyUjNwdw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 16:55:00 GMT",
+        "discovered": "2026-10-11T17:04:07.603833+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباشر الدوري المصري - الزمالك ضد الأهلي FilGoal",
+        "player": "",
+        "content_hash": "0067f481cf4e6002bb695326fefcb63f51af6e83fed30d1f1029db37504259ce",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10915,
+        "title": "عاد وسجل.. تريزيجيه يخطف نقطة لـ الرياض أمام الفيحاء في +90 - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxPVDJmZFFJMTdmdmtnUU45a0hSTWd3S0ZtbllvbkhhVkdGdl9Pc3ZJZWlTS3loQk1OT0FwMkVrZmppQ0hETFBRcnROcEVxYjlveTk2YWV0bkhFeFZwSm8yQk81Q2tGaEhzYncwbmdQcFdGd01NRnNGanV1ZmJGajVXSjBsVldLSkZJejZjVWhXNGlNaFpZVV9VMGJnaW5xVVVHajBJek1oY1dRSmF1WW9PZ2ZMVURpSzBDZlFGZzRtTjROVm9OYWV5bURORFFzUEw3cVV1Nk9tSVpZUlAyZV85MGQzM2lPUGhrZzhPeTFLVXdEYlNuZ1Z6SjZobTMxTjUyamJJYkF3eXZ5ZjNJbi1CNmRtX1VjQ05GWTJWNlBSdlQ1ajhZVktLNmtwZVRYRGgxNFlYXzZTaGtVckV6WGNUdFRMQ09wXzBaaTRkOGpPYWR0cVJIazFXb0R4WVVOSDZ4UFBNQXpxNUNHOFpsbUtUMkNURGlLUm4xemxvV0phWGJQN2FnRXhON2RUT2ZHdld1NjA4cFU4RHFiZy1MNFNPc3h1T3RoMmE0aV9qTjNGUlV2SGk0SU5Id0JRV2JDODRqeHfSAccDQVVfeXFMUDJpQ0VYa3VZVzl6ZjZYMGc3akM2QjIwbEJ1a3hCSzNIRDVabTNGaW83ckRtMXJPaGJPV1VsZFBfS2JoNlIxZFFTOGFpckxXYWxVWmRjMTlwVldVR0JodWtia3NNTHM3OWRONVFJYTFaV0tfS2ZBSGk0YXZiQVFSSW50SXNOalB6T0NsTE1zclZmeGFBVkM1U2UwenQ4Y2ZfbEp6bTI2cUotMkxYTFUwWlpNNlIxeWNZdGpSV0hLcGZlalVrWFdYYWpseTdvMWtBRUFtcEc3UU9BdUFOUEJjUGtfTE5ncEx2UkU3Y0t3OW43dmlyT0pVeWhpcXVua2pBWUpoM1dtZUtFbHpXWGhUZkNpMjAxMlpUbm1HT0tCUE9RdERhMkpCajJhX0ktcTMzYU5UekhoZmNyU3hjeV9JV3FTQ2k1bVN2endtdzhIeFpkRTFqWl9BalFVQ05SVzlldGZzTW9jMHpfbll4RGZQZjdTNW0tQ25EbnFxaGt5MHZla3Z6SDRoajdEMFJfZjNiRjJQRW5PNF9jVlhtQXFreUtkTHA4Y1d6NEt0VnBhZ0lOeDlGczZ3ejAyUHNfeHlYdXMzTUZ0aVU?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 16:34:00 GMT",
+        "discovered": "2026-10-11T17:04:07.587989+00:00",
+        "category": "أخبار",
+        "status": "غير واضح",
+        "summary": "عاد وسجل.. تريزيجيه يخطف نقطة لـ الرياض أمام الفيحاء في +90 FilGoal",
+        "player": "رياض",
+        "content_hash": "e5a1d25161f5c487978705afe060953c60811dab03abc5a493f1c8b71955d6b0",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 10905,
         "title": "هدف صلاح محسن أمام القناة - يلاكورة",
@@ -614,6 +646,22 @@
         "section": "sports"
       },
       {
+        "id": 10914,
+        "title": "تشكيلة ليفربول ومانشستر سيتي في القمة.. مفاجأة هجومية وحيدة - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxOM2RxWTViOEhUYlhEeUs2WGtoMTVoc0FfakZURlFhRnZaMGpack1QVUI1ZGRyMTFVMG5pbnhYcVpITTZ5RUJ0alhQUGFzRkc4MVVfR2hMdWpZUjZRWTFEMHlRWGtSQWZXQmU0M1ZVZ2ltbTVUUV9MUUV6QmFoWl9DQkNIb2dxSi1SWlpkdEJCaXRwdHJ2X05kckd3SWtLZkFjSkNYbXI1ZHVLd3k4Zl9obW5NNjJZTHQ4ejk1VkZXamNpdjBObXZvbkpWLXY5dEU0bkxrQUszd1ZublF1T3owQjdkMjZMTmpRSU9CWVhfenhuY3k2cVFkcnJHdnUzRWRfWlFYMnVMTVN2VVBOTTVMY3VwbU9fQzRsUVJuUENYcUtnN2VDbzlvLXZLb2lhVjhZT1U2RDg5eGZ4Y3JLdG80NnlOOXVkR2JwcF9KUEZvc01wLTNxUkJTMTV4cEM3OFVVY0txMkdWek9lNnJwbEZXa1JrSUlic1JXbUZfRklid0JsTFZqZWM2QkxIYjRoeEgxVzViMVdGRkc4VXhyMEJhNUpuR3ZmdmNfRlhlVXV4QnBzZG5GUTV3eFFnaVRtaFd2bTM2XzJibDNheVJEQ2FzeVNyNzdPUm5kZ090QTBTRGlTY0NBYkZmdVVYWDFRLU1uN3NPWl9ZQS0xbmJWOXB4cVFVX2ZkZw?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 15:01:36 GMT",
+        "discovered": "2026-10-11T17:04:04.507916+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تشكيلة ليفربول ومانشستر سيتي في القمة.. مفاجأة هجومية وحيدة الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "fc9f53d8f3872c73951f52f7e10e75f3354ebc0938994d22eff7a5626e0c0e08",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10880,
         "title": "بمشاركة عبد المنعم.. نيس يهزم ستراسبورج بهدف قاتل في الدوري الفرنسي - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxQLThTZHpObThQaVNMVUdxTWZmNVZLTWg4bmxTd3VnR2JCdDhkTUhMRlZmRC12Z05qMkIteDB1YzlpbTVFbEVEMGROMy1yYXBUWm14eG9zdHVJTk9Da2dRNFRGNlNUb1h3QUx4bEQyNlZMbkUwVTFHUEV2VjM1WTI4VEp3dTNoRkhRNlAtbTZCcjhkejhaTXR3WFVodm5Sb0pvXzFHTnJIeHRKQzZ1Z0hHUmNBRGR1R3JrcmhPMkxQNWRZQXhvTDZrYkVfajE1VDNYejk2aXZqdzZxM0NXUXl1ck1vSHJscUVYQ1NpcEg4UDM2N3BQSFZlSkVqQ1o1YWFIWXVNeUE4ZWh5enhqR0o5SlR6Ulk2MkxnRzVBU1dJc0RWU0tXaV9XaUlFNjJhNWYtWG12b19CanZuX1hFX2haenY2dWQ4dkN6ZldoSXlfVUtEWHVmOHdGQ1lSaXluSEdlN3EyUl82akk1N2g2cmozRTdlZndHQ2l3VG41MlUzdjZxS3dwaWNwdjdmRDVrTS0zRE1lai1kY0hMZERQZmlpQ1hZRERldklYSEd5cWhBNlRLWDFWU3hsN0pPU0YyYlpncTdrbzhRV0pKdHZuTlZldEswYW5vS05iTGFOZ2ZXU0NzOTlRNzdDWGpJbW5UNnJ0a0Nac1dKYkZXNnF6dndSSl85UmJ1ZTBoMEhsTlh3azNlakQ4cG9aa3EyR283ZGdZZUZtddIBqgRBVV95cUxQc2xHMFp2R0p3ZE1RZk1ndlZ1RzdfWHVZSEVIM05URU9RZVNKdFJ0VU5LS09VUG9JZUFQdkZGN1ViVmV6MkFCcUhMRk1pdDdsY1JORFo3RU02S0hUbWctenY3LVpsdFR3TVBmMzZWVXRfdzlXY0MzUjNzUEd5dG9JemlvRXI4ekxTeGg3bFhPMTEtYjk0bi0xREUxVlhMT2Z1d3BnX2RMY2htYnhaM24zb3ZiUzI2b19fN1FwRFdFM0VoeHVYY1dudWtjY1FRYTBGXzBHOXlsZXB0ZlkyMXRfX3hqelBsdjNOb3ZkdmdXd2plUHVHNmt1djR4TlhBZU4tUnpHWGE3dUZXNFZKWWtuUzlrWGlFNDhiTDc2czRFX0F5NVdWOVdzbWlDd0g4T05ETUNWelJoRWZMc01jYTdINnNoWnAzT0Rsd3J1c18xc19QbXBRSUtEZXZQcmg0emROMUNob0pfNkVBbmdqX0prQUxXSlhYczJPRjBtSmpMOGlESUdxWDJUTk9ZcXB2bUlvYmx2aUJmQVdSclNjVEZuNFhLWGFJOV9qSDlXOTI5YmNBUU5EZWd2N3MwX1IyeHBSYXQ0TlhpWi1mbVV5MUlPbWFxRFJ6T0wySUVLMS1xMnpDNjJjdENGNW0xekMwNU1KYktEbkZPR0x4QmpkRnJ1WTkzTkFIcmhtbTB5eWlranBoQjJjT20xbVBiVEJRVEFYOEhNempzWWNpQQ?oc=5",
@@ -822,6 +870,22 @@
         "section": "sports"
       },
       {
+        "id": 10916,
+        "title": "هيثم حسن يشارك في فوز سيلتك على ماذرويل - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNbjUxTTZRWU9EamV3em5VQTJNQk5zeThiTXkwR05FTTJwRXI0MFM3X0VkeUhaQzBEQWJ1dnV4WmV6Q3JncnNBemFzd3NCNUtvR0N4NUtkU2R2TzBGREZGbHlxSGtHM1lEc3NsdWljRWNpb1FPWWFwUkw5d2t3dlpaSmJFSDFaSm5pQUt3Q0ppbDF5QnZHbHJMWDVIbU9qaXlfSUwtaGttN044ck5YSEhqeDRWMDlUbU5BaE1GcWIxVHNhRlR1UVhGcnJDOUg2WVFpTTdhNVlWakVUZ2ZyZFJfSFEyRWRObWFCOE92dEhoMVo2Y2tGWVo1QUtlN25aZk9oZWpjaU1qbzdHWV9JSlR2SmpPUlUxNXYybDhveXlUM19VMUdHem5FOHlFWTJvSnRrMWlqejNNX2lpd2RFbWJjNHFiMDBXMWhVSks1bV9tQWRuU3l5NU1XVHZ0TdIB4AJBVV95cUxNZ0gzX2hjVjRXV1dldU5mT19oamJQa0xzLXcxRGhtSzFGU2tmdUYyRVBfOG1HdnJQQ3Y3TzFTMVphMHdkSDZvc3RyOVdKWXFoVUlQUF9yNTBVY2RFeVFBTGVLbHAzbVkyckI4T0djZG9NQWMtQVptUjZjSF9lOUJzdHB0c3F5Q3pLZnQyNm9oNGZPalFBSlQzMF82bDZjWnRma2FmT2ZNMnBCcFAwY2Nha0RWMjFMOU9penFOeWpLWG5weWROWW1tQ00ybk56aTltdUFEZlptSDZEV2t1Z1ZoOHhZNkN6eUZjdTRsYUliVlk4RUFwXzZUX3ZmRDNHeE91aWxoamxmaDJLWVZqdXltNFdTUmxVZWpfYjZCOTdKOThNSVRKTk5hdHQtVHl6T1BNcnVqQ0k0MHh4MlRpSHd6NXczR1cxRXU5QjBaQy0taEFldFNKaFlpdW1KbTRQbkhS?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 13:17:00 GMT",
+        "discovered": "2026-10-11T17:04:07.595319+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "هيثم حسن يشارك في فوز سيلتك على ماذرويل FilGoal",
+        "player": "",
+        "content_hash": "b84d91483ec8f86424bdfd814f190e8da5298cb1e56c4fd365d64e4b493a4db7",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10846,
         "title": "\"20 ألف شلن\".. كيتارا يعلن أسعار تذاكر مباراة الأهلي في الكونفدرالية - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxPaVFkRWo3VWdEcG1lUlJyUko2LTQ0SXB5ZUNCbDRvbFdSazZIcVgxV240SlpxeFVSdVlXTEYzazNFQzVjTFJkcFFUd3Q1d194eW1ROHhGSzV2UEM5dERNWF9MUGRpWFI0Y0F4UHNhNFlsNGpac3llRDJENlQwR3Z2UVh1Y1g1dWRxaXFPTlg3NFRNeXM1Q2VORUJ5bnNDcXpvdnFYN3VNUUR3ak00czBrS0wtX0tzM29QbHo3VUNwNnNLTmJDbmtmUmF0UXVnbWpsZ01BSXRESkR1YlN3c01SclRwajVaUGdhaERUZUx1S2hTdmlNcnhVdlV2OHJsREFhRlpWYVkwclN1cE4tTTlQcU9IT3QydU4zV0dzdzlteG5XbTB6aEhONUV1SVRrR2hvNGZjdnZvOUYyZ2VEYnYzOGczU3l3SEItckVFN1hKcGpNRWlCOWQ0RmtvMHRqdnpueF9XSVpEY1NaZFNQUzZSWlhkQi1MY3BScEhNcVZzYlc4MFlPYnJIMGNXV3EtNVRUZzJ4YkxCR2E3d3pmNTZvMlcyS3BNYVJjNHF6UEZqYlhEZG5RUWRyRjU4U182QzR5M1g3TkFnQXF2SkhxbkxXUWRKNm1ybWlyZTdyWm5ubWlmLXlsdndDNmdkUjBnaEdQQ2MyYzF4WktNajU2Y2RMeXJWeUZ0RENTV2c4dURndU9va0E5N3h4dFRmeXRRUWZEdVB2RVNKMlRTd9IBrwRBVV95cUxPVnJjNkFLVWRuZU05eE9fWVJENU9STWU0Vm5wVWFyQlpOb1pyRVIyRFR2dWlZSE92QmpLUXR1SVhZb2xpLVJBSVUzYTUtcTZhbVlEc3BMNjRhQnpsTndSQXhQTURSNndueFhEWHNRc2xGUVB6SzJmYk81X2JVblBabDVvNEJ4dk5JTTVwVzI2clpQalhXZWJ6SV9lUm84MnYtdndGRHNYNFpVTDZxaGF0WFZBd1BhaVkwWHpCMFEtLVpFTnRTT3MwNlVWRXNxMGVxT1pQQmQ1clg2QWFuWXgwbGhQNXpJSktkOEZEbFc4SkZnV190TWJsUmMyMVZacnR0bmtFd2ZCbFV1bVdaOFY2NVpLZTFwUkhnNy1DZnFCa19YUTY4TmFUWnFyaS01eEVjS0daTEZoMXU5VVdrbVZEMkJOeHFBWFRpdWd4cFNJdTJvLVA4ZFpkUGotaTNadFRlS2I0LXJ6ZjZBZ0Zkenl6bVI2NFotdmRNRzU3OGNTM3Q3cXZZSjNpLUo0YjRXeEs1WklBUXVWa2xlMV9rNkdZSC1FcVhOZlBtRFNIcG9aTlBhNVJZeXlvTG94NDFXdmtMU21hR2g5VnVabnJyMlNoSkxmdk9zbmZORjZKQ3NKQ3pZazFyc0Zud1U4S1V2dGN0T2wxWWVyMzZjRV9oYnNnZlNFZFlnemlPanFzYnpkaGVRTGtRUlBwT3RqUmdmQ2hadlFtWjBldTJ1ejN0SUJn?oc=5",
@@ -930,6 +994,22 @@
         "summary": "تريزيجيه على مقاعد بدلاء الرياض أمام الفيحاء FilGoal",
         "player": "رياض",
         "content_hash": "e014231e097c2695464a136275972d8b5629d6f63f343b8e161154397f6a3ac5",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10917,
+        "title": "طرد هداف الدوري وإصابة الحكم.. التعادل يحسم مواجهة كومو ضد روما - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxOaGRuVU1CakZqb3VMVFFxT0NWRVhVc1QzQWwyNEdJaGg2Nk1XOXZ2VFIxLV9BLXJVaWV1Vl95aXE0M3l3c25ldFphQWtfaWdXYVJ1MW1RVDkyRUtPUzBsQkNEVExGUjRnQTBjdTRMX19ETWNYZGIxNzNuZjRVX2VqNnlUTmJrdS10X3FJTVdYYVg4Skg4V1AyNlpXWkh1YU1TTndjTmRPbWJ4MUJuN0kyNUh3cFBnYmNWVmlyRm1LVEZVeGxaZ2h6dVhQX18zR0FsTVdvZkFLeGR5Z1ZhV1dCaW5TMzJtSkhtMUhRanFGNG54QVkxLUV3N3dQRkhyN0VXeFQ2NWQ4TjNzbmd4UWt2YzBSZ09va3h3OWtrM1Z1bXFOcGpzSHNpXzdfUEZOWEZLMjhEM1Y4anlGek01eTBnRU1kQTRFZDZlOEhkN3FzMm5lTEV5MjJhMkxya0lmTGlGWmZjaEd1UmZld19IYzJZODVvWW9ib2R0MlJScDJkV2NDcGZlSnZEeE5RWGNQSHg5UkQxTTVuR3Y1TUNDTnB0UmlMcF9iZnp4d09CV2lZRW9NSE80ZHh6dGF3UEw5QURnSDQtQzRjNVZHY1o0Rjk5Z01uMlg4aFdfMV9TLVpleEQ0RE5fUmhTSHdBZzRVWmZPSno1LWlRVdIB_ANBVV95cUxOSl9zbF9wWkdlamxlRkZMQ2gybDAzVmhoM0RTeFJDeXdnMF9GRVNpUEZTdlYxd2o0Q3laRUFJZlQ2aEdqZ1Z5YWxVM0hrZ2NzcDlnT1BtUE5sWC14bzU2WDE0VTVpdmxLaGhOSDEyVjdCYTdjY1FiQnRmd3pjZGlyVkNJaGdsSXpjMUxRckEyU2ItengzTWh4QjVEeGJyNndwV1dpM3hVeVpmcjNPWjMzOXl5eEpBVUNKU1JZU0lyRHJfQUVWV1BpUWc3azMtZVJPSDRhYXBOUkJtcVBqQkZkWEJoWUFKTW1FbDNidTJrYVI4N3pMN3BlM0hlNV8zSENZVUkxby1QX24wNENKQzhGcWJCak1nRDd5eTJHdXNQWHMtemRyU2d6WE9ROEF2b3ZkQkNMMkE2LXNKaUVzUVpraFVPckhWVDhBRWhzenp6ZV9kYVQ2bk5kT05fY1VhQ2ZxYkk3RVl6ZGItSUpXWUFLN21ZaTI3ZnNsMHctQkE2WDdkUDYwU3UzRzE1MlJqLUhFSWRBRm42U2FQUDJRNnZQNm1jcmJaWDMxRmFILXpLeXpZZVdscXE1ZV9oUF9TT1puRm9YdDh0Q1NySXY3UHVqaVZLY0FSLWNMb2J2V2hLa1gtUG4tOGJBYkg5WWJOd25ZenIzM3oyRWVoVjFp?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 12:52:00 GMT",
+        "discovered": "2026-10-11T17:04:07.598817+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "طرد هداف الدوري وإصابة الحكم.. التعادل يحسم مواجهة كومو ضد روما FilGoal",
+        "player": "",
+        "content_hash": "e32322a9e7f78f3bee38eaf1fbe550923639ec1a97b08d8b8f0a0a5b6201e7e2",
         "sent": 0,
         "section": "sports"
       },
@@ -1106,86 +1186,6 @@
         "summary": "تيتي يفاجئ زياش بقرار غير مخطط له في البداية Kooora",
         "player": "زياش",
         "content_hash": "7fe3ecc52a0fe4c3e77ff66f5bf89083305c8e3702dd958e4131f7d1f14cf9ea",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10909,
-        "title": "\"هناك لائحة\".. ممدوح عباس يكشف حقيقة تخصيصه مكافآت للاعبي الزمالك قبل القمة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Eemk2QXFZRC13N1ExM3BkLWo5RnF3SGN3dTlwbzhVREp1aVZYbktDMWRhbWZoeVhHeTFrZ0dsNkJMbkI4bzF6TlBTQzlhSW1Q0gHGBEFVX3lxTE44eHBQa2F2UHRrTW1yYWNuSzVFcHZEdmN3Y1dxel9lTzRnbHNZeGs5cF9JaEc1UVZYaE85VFQ2azdZdXVqbVFUVllIU09uUm9Od25iSzVoaE92bVBRSjNQQ1diNEt3aUtYMGIzR0UtT3hiTVFNbFFkT1BWZjZ1aTNLbUk1dmFMcmxnZ1JtdkVRSk9kR2hDTlVGd1JIWm01QkwzbnNwMVEtUFhzZDZiaDJQbk14OUdQT1Nld2dFbzJ3ZzY5eDB6NkNpdWJTd3VTM3BzaUxPN2FKMnFndFNiMjRxRlowZlI3QW5GQ2doM3VCVVBYXy1HX3dmc01ObnVVZ0hWTW5QOEdXd2J1SnNNbTBJRzBpWnVGNi1DQkZUcHdudmwtMXc2cGt0d2psRnJoVFZrWHJIWVNjNmVHQjVMZmx6VVBaS3pZZWMyYjZZVXZnWHBKVUxxc3VzSlJLd1VlQk11Q0lVa2VwUjRGckZYdkpTRHpJQUFSSkp2SVliX25RdTRsLThEc1V4TV83RTVLVEVkWnpaQ1IyN05zejhGUWpoeTFra3J2NU5iRkRibzVCX2JNUWU3SzVhQldUUkpTUlRGQ3ljdjlDbVdPdmhuRkV6eEt6Q2t0Z0VNWU94ZTRZRWJZeDFhU3RhUGFSRXJvUTVnUUxfMXFSdC1uVy0zbGdjYWxFSlpKNEkzZkQwZU9qTVJmSzdyeXdIY29qSkVQZk9obS1qUVBldWFzR3poeFRld1hpS2NTTXJfNXU4dGVMVFBxOWtaZw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 10:14:00 GMT",
-        "discovered": "2026-10-11T16:53:20.980157+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "\"هناك لائحة\".. ممدوح عباس يكشف حقيقة تخصيصه مكافآت للاعبي الزمالك قبل القمة FilGoal",
-        "player": "",
-        "content_hash": "9a7c2c75c738c2fde183ad7a814d2c52d0f92505a4b35f699f6e3139b1cd9b67",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10851,
-        "title": "\"هناك لائحة\".. ممدوح عباس يكشف حقيقة تخصيصه مكافآت للاعبي الزمالك قبل القمة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxQOWZZRTZkX25GWDhQMmd1MzctelVYd1pEZFJCVDNCc3RjVndSRjM2NXRNckhEV2lCVGdET2N0bWpwd1l5UWEwd2NLTXNmUlA5akp0cGVZUmNDUnRGUnFMdy15SF8xd2lWSWNaT0MzN3BpYUY1V2pkWXQyOEhMaEhYMjhneG9jUmZtVHpoX3cxVWRkanBka2tYek9YeE9BSWlzMm5jV0M5aVU4aWtCdzViMmN5a2dQNnZWb0UzSGJtUURqZFJ5dDZOYm5Qc0FobnVudkVPdVN0R291alBienRNRmZ5YXRHd0JEYXpvcFFVakNkT3JMcktITjRXNUVJcnVDcVFuZXVmRGpNU25ITmFuMlYxOTJnR240WnRFX1ZHOUI3V1dIYzRzdmhLd29JVkFHdGVPaHZzRFlnV2pCbEIyTWFzWXIzWkZjRm5GQ3hPU2xhancxekR3aVhLbHVGTS1NQTBhOHZuWXdwWTJZd3NmUVo2ajV4TGsxRkJsbFNadlJ0QjRaYVZwazZuMnE1VzVPWFgwUU9VSUU0Y0ZIQUxyaHNHOFNOTDYyY2FrQXBCSDlzZDlFLVgzYm1FZ0tBMDRyQ3l5REs4aFhLTmFyQmhXVWxDaUpJQ0ZHa2x2bnQ3WXB0ZjBEUUktbzhvOHFpM1dJWnktX2ZHRWpKekhMUjE5WE5jeDZHOWIzN3QyWjkxSWI4UEF3TjRrVzAwMEg5b2xWSjR4UkFxNm55bHZLOGY5Um03OHRtS2p6VS1GN1BQUGHSAcYEQVVfeXFMTjh4cFBrYXZQdGtNbXJhY25LNUVwdkR2Y3djV3F6X2VPNGdsc1l4azlwX0loRzVRVlhoTzlUVDZrN1l1dWptUVRWWUhTT25Sb053bmJLNWhoT3ZtUFFKM1BDV2I0S3dpS1gwYjNHRS1PeGJNUU1sUWRPUFZmNnVpM0ttSTV2YUxybGdnUm12RVFKT2RHaENOVUZ3UkhabTVCTDNuc3AxUS1QWHNkNmJoMlBuTXg5R1BPU2V3Z0VvMndnNjl4MHo2Q2l1YlN3dVMzcHNpTE83YUoycWd0U2IyNHFGWjBmUjdBbkZDZ2gzdUJVUFhfLUdfd2ZzTU5udVVnSFZNblA4R1d3YnVKc01tMElHMGladUY2LUNCRlRwd252bC0xdzZwa3R3amxGcmhUVmtYckhZU2M2ZUdCNUxmbHpVUFpLelllYzJiNllVdmdYcEpVTHFzdXNKUkt3VWVCTXVDSVVrZXBSNEZyRlh2SlNEeklBQVJKSnZJWWJfblF1NGwtOERzVXhNXzdFNUtURWRaelpDUjI3TnN6OEZRamh5MWtrcnY1TmJGRGJvNUJfYk1RZTdLNWFCV1RSSlNSVEZDeWN2OUNtV092aG5GRXp4S3pDa3RnRU1ZT3hlNFlFYll4MWFTdGFQYVJFcm9RNWdRTF8xcVJ0LW5XLTNsZ2NhbEVKWko0STNmRDBlT2pNUmZLN3J5d0hjb2pKRVBmT2htLWpRUGV1YXNHemh4VGV3WGlLY1NNcl81dTh0ZUxUUHE5a1pn?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 10:14:00 GMT",
-        "discovered": "2026-10-11T13:45:14.863069+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "\"هناك لائحة\".. ممدوح عباس يكشف حقيقة تخصيصه مكافآت للاعبي الزمالك قبل القمة FilGoal",
-        "player": "",
-        "content_hash": "9a7c2c75c738c2fde183ad7a814d2c52d0f92505a4b35f699f6e3139b1cd9b67",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10810,
-        "title": "ممدوح عباس ينفي رصد مكافآت خاصة للاعبي الزمالك قبل القمة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxNX2VXNmR6UHZrbXdmUXJyZTlGTm55eHVPcVZKR0M2OEx3ZE1rdUxQLTZTLXphTHpHMWVPbFhGSGFpN28teUpjbG5JSmNGSV9PM3kySllrV1A0VWxBRE9sM3dQWFdGcWVTalBUV3dMRDZ1N2ZRcmx3RUh6SzFwZHZkSEhOejJ1SmNLcGVJbzNHWWRSZGR3cjcwZHFQWTRkQ2N2WENOZkw0T2NXSDRmcnNBLUtrbS0zVWltSl9DelFESXlMQWlDZDFBdFhNT1VZMmNBSWZzblJ3MmRHMllrOFdMUWVveTg1amM4ZmNNZWE1R29nU2RaODBCbk9ManBSZllWY2JKUUhRY1VVM2hvZUpUTzNOVUVJSWhjMWcwRldSTVN2NWZKY3ZFWTBJRXpfZTB1RUR6T1RGLS03aFRST296OElHdnpZWTF2RmNaeWZxbFkwVU1RN1ZCd3g0aWxTblI2OXVzaE9zMk9rMm9oN29lbTdFUWR0VjFVX3kyek5OcnNYOHVEenRvU2lEZFRIVUpEQVBxQW92VTc1dkFZZm4zT20yU19HVnQyVGJIMmYzSl90ZmZrUmlveGFRa2Y4bTVHVTc0eXB1c3BGR2lmNlJOM2FqRjh6d1RKWk9IRTQ2SDJscnV2cWNINVcyRUxjTUnSAfQDQVVfeXFMTkJDOGotcnhETXNWTU8taGkzRUJ4QzhBcjFiNVh5WXRtSkhNYzlXanBSeWIwZUpLVVo5UVNsQVFwWlhqWXVUNkNhajFZQUtqbEc2NnJtZk1BVEJqUWQxVVNNcTN3MGJ1aVVnWEpEbnBLTkdTTFg5YTJ5MU9TdnE2US1WZHhJcjV1bmMtdHNQaDRpZ2FNcy16RndvSm1hXzZ3TUZ1WVJEd2l2WHhtaXF6TzFERklqR2R4X1pVUzJmVHdfdk11Rzl0YXNDT2NkYmlJNm1XUkkzdUJyckZDRGt3d0JOUXlEbUsxcTNOc2lya09IbFhzYTlMNXJKVVhNei11dVozMmo2LXUtODcyWmxMVDM3Q3lUYnRpUThXdTlNb09hUGxhY2NDcU5nbm5sUzdCT1I2V3l0TmNtdEt5ck5fOUFYeFBXajZlNDN2bGwxbldNMnZPNElVN1hJT3JMTlJneV84UHZoTEFIU0Q3YU1uLXdxYWxxWldWbGNDTUJ4SUtnNnNUYVlDVmI5R0oxTlN4R3o1eFlyVlc0cUtWREMyZUZvZHVkOC1vbkc2YXQzbnBMdXh4NFNLbnRhMUhTTFRScXgxVURoSHppUWdGNnBSYUpBY290aFd1d0hObV9yQk1iT2cwSDduTGNacXI0VWpmX0ZwN1c?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 10:07:00 GMT",
-        "discovered": "2026-10-11T10:26:11.546853+00:00",
-        "category": "الرياضة",
-        "status": "منفي",
-        "summary": "ممدوح عباس ينفي رصد مكافآت خاصة للاعبي الزمالك قبل القمة يلاكورة",
-        "player": "",
-        "content_hash": "b162dd874f126b1e7dd513231d328b2fb6dc1742b6e1124787d668bd585d0902",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10813,
-        "title": "الاتحاد البرتغالي يوقف كريستيانو رونالدو بعد مغادرته معسكر المنتخب - CNN Arabic",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUkhEd2ZxOU5qdmRqVVQ3X0V4eW01ekd3RjRBT2h4elB5XzZzZXdyV3gzM21kV0Fld0hYTWloekUzUVBHbFV1Z2wxZ2IybF9XZjZGS21nZjJwU2RBcXgwZ2VyZGhfMWNpWnpyTnBVd29ZaGxlMTdwS3ZRWGFxV3dCUUNKZ0c4NkZ5czNXbGY0Rl9pX3Q0UWZ1OEs2cw?oc=5",
-        "source": "CNN بالعربية",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 10:05:59 GMT",
-        "discovered": "2026-10-11T10:26:26.711330+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الاتحاد البرتغالي يوقف كريستيانو رونالدو بعد مغادرته معسكر المنتخب CNN Arabic",
-        "player": "",
-        "content_hash": "57c748916b0533ec4a3459309169092f043fc16e8c2cb0c435f8ff3a7743afa3",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10848,
-        "title": "22 لاعبا في قائمة الزمالك.. واستبعاد ثنائي قبل مواجهة الأهلي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxOMjdLMS11alFURWkycmIybzZuSndibjhSLUk2V2VRdEU5MUtlTHdQSWFKMVAzejI4NHF3MFVTSWRIRlFodW0zSzJoMFhiMlBOdDR6YndtNlhic3JwU25TWktOb0x3N29pRjNnNEllQVh5UlNLcHdUZ0xEdTFEMmptaF9zYXZWdFU5eXZtWVVwVnZMRnFqVFFTNnlKbjExekdkSHNUY3RPM3EzZ0JhZVh1VVk4TWM0dkxvSTAxQ19kRmcxVktTOFdNbzNWYlBlQ01CbWFBMEduS0kycVJrWGJOMkhNN0R1ZzVZWjNLdngxSmpoRkQ0ZDYtSl81d01zZXZQS1FFbVRidWQ1YkJFNTRjcUZac3lQVjFvRkZ5VGNQS3lKaHZOaHUzWVliTHdkWkw5TnN4dXR3TWlYdGJGSWhjLUJ3OElPS3JKakRrdHF4Mzd3dkRzZkw3QmNCVGlvOERrU2ctSXNtRmV6OXR4bUd1WU9BWDVUU1BHUXVsbmFrQmY1WERMY2prNmpKMmJYVl93Szg4LW1uZVBCaHV1VWlPUkJpY1g3Z2ZUMkFWZlk4ZTJCcjZQbWtnY3BTbDZZZ1NrTWpxT21nM0cyY3ZfeERKSWgybGplNTJjLWlMeko3NW9PV0N0YzFTa0dWV05YMjhSdEHSAfcDQVVfeXFMUG1zdnV6Zl9pT2FITk80eHl3WExBWkJNSVlpc3RVTXByTVlwdlVIWURFSm1ubzN5ZG5LOWljQmU1V0dldDVhZ0VkLURreDR0d2pYaFM1cFgzMU95eEp5VFVaMnBCR2FDeFAzQk5EUVhjUFlWd3B5alp3QnVjQ2FocXNTVHlNblZLeWcyb0tvTXhoV2kwLUNYRlpDRzQ5eTNxQkY0Rm4zNmtuSnFxZkgwcXI3UVhzSDVza0I1N2lDczc4QUVVWlFEN2N1dGdvek9SZFF1WHpaUTlDYmZ2VE1HeWlvSlM5Rl9DREV1RkJTOFloc0dFOWZURnVtVmdROFI4VkNwX2FCbVJCNnBlcm5JMU8zQWJDZFgyLUd1YUh2RXZCcTBWM0tLV1dlTUFNNG9Kc2E0M1RZcmcwZ2pLLXR0Y0pkbnRac193cloyM01JYk5PVDdKU0h4cnlncGd0VmxlREJlY19DMUp5ZXpDZGZMZ1dJX18xcHNqc2xTZVlKMFVwcnFPSENjN0dpVnp2Z0VaajJJVWV3bURPMXFuZzdNZWw3N3hKekN5MTJZeDVOSVoyclB6b01YZGZPMjdNTTZTWW82VUxScFo1ekkwV1JkOV92Z0RzMVozUFR4c25RNFQzZzhLYm8zTGxpRDN5bElDN0ozNFhkQU0?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 10:05:00 GMT",
-        "discovered": "2026-10-11T13:45:14.214891+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "22 لاعبا في قائمة الزمالك.. واستبعاد ثنائي قبل مواجهة الأهلي يلاكورة",
-        "player": "",
-        "content_hash": "3698b52f14728751c6f5553dbfdfab86bd154b19ddf24e60e4fb2857f29bf561",
         "sent": 0,
         "section": "sports"
       }
@@ -1686,41 +1686,25 @@
         "content_hash": "2362fb1cf8ec6448ae11fce03dfd89428f785302867492784b618ad67d80aaeb",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 10413,
-        "title": "تقرير: منتخب الأرجنتين الأكثر تعرضا للهجوم على وسائل التواصل الاجتماعي في كأس العالم 2026 - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMioAVBVV95cUxQNlRuT3pmdFNPNnBPYjlFLU8tTGkxandJYlBoRW1uY1ZPc0FJYkdJRzFNQ0hfa1l0dlQ2dFpmazVjN1hjenlHa1BOMEpYM0pKMnlNaWhrNWxfZzJBYjMyZ1RCNFlGdWUxUG9QQzhJcldOdmM5Q0V5eEFFZWE1WVF4Sk0wd1NkSTZKakRFamRqcXdnMS1odDRxLVBWVW9iUVVSY2dlTDBNYWFWTEVpWDFoN282U1Z0cDdrOUpmeDR5bGdwQ0FYNzkxS0lnMEV5TWtnejEzaDdqZGVRWnRGY3A0bnBkMVR0eTd3SXlvY3BkSVA4TFZoaFk4UUVSQmZiMnlmR0FpS0hQN0hfWW92WTJKNVVwdm4yQ3AwR042clhXcHlRNWdtZXgxSTJMTktMa3pEcUVyVHVvMXNTdzB4RzFpeFIzY0xwMDhSUnBGM2hjV2JsTXRJZ0FiSTFLN0Z4cjQ0VmdIbUhhLUpRRXV0OVI3bjRiQmFraGQzdThMWjNFM1ZrM1ozV2J3QUJJbnI3dElkeFhxQ3BTM2lTeWNPY3pKSUFGSFdvZS1UTzF6ZUNNem9hUVpHV1hQWlgyRXlBUGlUbkoyMmIwUG8wMUFVTEpLYWx1QkhWVFpBeUdzc3pHejVFUTYwS2IzZUEyNHBMRzdncHJFdWNYRWgtQUQ5NVRaaXBmOGt5ZUViaklfUXRyOGt0OW1tUTBER21LNEt6aFpkeFExczZjMGFqcjctckJ3aEFBdTZKMlI2OFBuenE1QzgzTllHNUNiUzQ4ZHczMURkVFh0TndkZnpzYUxoZFhqTkc3R3h4NDU2MXN1Wk04TjcyekZNS1dvZk9FNldFclpVR3FXYVB5ZXo1SmZZUVlCa3c5YlJMR0U5RmtWS3N2SHDSAaYFQVVfeXFMUEc5Z2RSa3pXVEtUTG52Q2N4SHdVaHVUZWZ0QWdkVEF5T3BWZzdVVERDbXZxc0VBODRlN1pCbXVKdVZtRWo1TkZJTldYekZGV2dtS1FiR1UwbEhrYTVXSl9XYWpPN0tWQ2lQN0FvanpLa0w1Rjh2M0Vzdms5dkVhaXpfVlpyYW5ueHRZWDlXNU9jcG1lN2RNcElva2pvVTlWQzh0T0ZMazk4SXFTZWJHU1B6WlRHN2x0WWJKZmtXdkpwWllQTHJEbDktd1dpX2xvYjA4aTZQeVJ4UkpTN0RqTVVLTmRGMGsyc0JCN0lVOXRjWE9FaXV5Skpacm50cTZVY3hqRlRIZVY0Skx2d2E2MndJYndYLUFOclJmd3BQNGNBZ3Q5cGNkTEJQdThfT1I1OUwyVm05OWxGbFV6QTJZXzVWcVdXeXVnREVjVzBwa3p4XzV6NkZCWnRTM2JuQjU0MWx1MWFwamZPM3FjTGp5TTE1UER5bzE5ZTdYOXI2blFCMGxkcXhrTDhHVFc1V29OV0RMWkxrajRjc0x1ajdXRENkLWR6RERBZ2Zma2JLOXFVTUZuVXpnTURVUFNqNFA4Zlg5ZEsxQ3BlVlZqR0VERjNjRlhybXNqeEdJS2pyRmpMU1ljSEtjS2lzSFpBOEVONVlIU3BXNENobFhPR0tkVFQzSFJwbUswb0J1YmpKdUNjc3EzLUpDNnE4RkVpQ09sdnYxaksyY2xwbTBEdV9iTUZYenlKTS1rUkppcWxWdWVzUWNVOGZYMjJqTzJlNzM5OHpEdzNReVZvYU9rZUd0TWx6LUo4WGVzWWdpWjhhNDVRZTRrU1hyMGRwblhoOEpjMGFhaGIyNGdmYlJBOGlxN1dNRDF2OTlvNjBrT0VQQWNubFlCNTFR?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 08:25:00 GMT",
-        "discovered": "2026-10-10T12:00:08.970652+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تقرير: منتخب الأرجنتين الأكثر تعرضا للهجوم على وسائل التواصل الاجتماعي في كأس العالم 2026 FilGoal",
-        "player": "",
-        "content_hash": "60f86b4bfefe9ace58a3ec31dae63cbe03ff2327b66db3ae5ee03dca86df59f0",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 10414,
-        "title": "الصيام لـ 7 أيام.. علماء يكشفون عن تأثيرات غير متوقعة - العربية",
-        "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPQ2prcmJuUmEtMG1XSjZ2eDctajEzX21MVVFCSExoYmZwbVhzLVAwU0doQ25xYnpadmxCazlSQlY4Q25FT2tzVjNDZnRQc0VNN0pZUVFhUDY5QVhVWDQtOVRLdjgtelVkdnRidUpoS3YtM0ladHFSVnF4R2pGNDFWUkRNY01XSTZucmlaLXFKYnBIRUhLcXFBejlRblprcEN5eGRiQjhuZkZ6UlNvMkljQlJZMUVlQ08xZEtWXzBDcExja09wVnI1MHdabGFmZjU5bjU4LWhSMV9RZm5wNHdlNUlYaVA1a2l5aFFNYWR2Y2VXMzk4SGljMTZvZXNtamIyMnNRVnQtQ2VEQV8yOEZfVzZKcWs5TUQ1RjNZSld1QnJndXlqR014UTdlaHN4ZDU1MXJjSngta0VPQmx2RjR3TGY3MGhBUjByTWFCTTV6bDc3TnFNZEdKLWJ6R2x6TUs1ODlhTGxpMzhKcUZLakl6V3RQQUxSVlNuMHhYLVB3U1FKRVl1TU5mYm1zeUEwMEJndzY1b2pycFA3M1VoeDZtQVRXTk5ya1BaMExFN0ZB0gGzA0FVX3lxTE12Ml9QWEZmTDZOOUxjMjlwa05aek9Zdm4yVnVkNlItMGFVdEwza28wT255N2k2LTRUWTQzWUlBWi01QmVubERmZm5jTlkwQUxFeXNndEcyTXRrNFRRZVJkUmpybnlRZ1VSS29wUDRZTG9wdV9jY3FQVy1lMEtDZFZ1cWdBdERpOWc4MGlvU21rYXpGV0ZZVGJ0VW52cVlCTU51Y3BDTWRHMXFLUkNuME1fR1VzX09vR3A1Zl9TSW1OQThmcDg0UEdDY0ZSVlhZaElOSDhZY2dsbU1tcFBnYjFmcngwVEM3RGZOYmprQlZtRnVNSTFpaV9hQzVkMlBtTHZNSXRwalFRb0U4SFJwbXlmdUVsTHJ6T0NQX3d6S1VjQ3RaMnpVaFRZcmdIYkNzaHdTRk94VlpUaE1peE9aUzRibExCWjNfY3dOaFVEcnJxZE9scnZvXzNZb0pxN0Q0RFBtLS1aYWotYzVQOHVrZE82QmRMNktJVVdYRUV6VEJLeFVCWU4xRl94SlNKN0ItVFBkSzFMX2J2LUxUX3BCdWxuMnhsRW1VckxaUlA4MHMyWmpHRQ?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Sat, 10 Oct 2026 07:30:00 GMT",
-        "discovered": "2026-10-10T12:00:15.098107+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "الصيام لـ 7 أيام.. علماء يكشفون عن تأثيرات غير متوقعة العربية",
-        "player": "",
-        "content_hash": "3fad83d97710b2272ef48c07e8b5766965bdbc8c9246f0f7077479aeb6c1d9d0",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
+      {
+        "id": 10920,
+        "title": "بينهم أردني ومصرية وسورية.. الكشف عن هويات ضحايا اعتداء مطار الرياض - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPYldET250ZlpjZEtaVUVvWE9qSUhJX1MycGdMRGRuOHFBbVFlU0ozZWYtYVgyc3pNSFc5XzNLODhJWFdMTFdKdndsREFCZFZwanNoMDVVUlgwU05hcElzQkN3U0d0V2JuZmJSN0YweXFKemNRT0NvVDh6djVRa2R5RzI2dFI4UHE1VkdoQlpBSEtycTd2NDRWMHpLNlYwcEp3SWRHNWp6akJPQVFWRzJlRzNBbVoxSHk5TDJCaGtGbjhPT243bmVoWEpmdzhEVnNpRzJhZlBHRXMweDFUTk0wd2RzSDJISzZvUjVPMHVtdGVabGdHVmdpVVBFZ0s0blBHWmpxcWVkdklSRGVkQXJZcDNVUzI1SGJqRWtjX3BCUkRTRnI1MlFIMkVCYUI2NkFkMVhiTTZNbTVqSl9UZHQtRDIyZw?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Sun, 11 Oct 2026 14:55:52 GMT",
+        "discovered": "2026-10-11T17:04:13.584382+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "بينهم أردني ومصرية وسورية.. الكشف عن هويات ضحايا اعتداء مطار الرياض الجزيرة نت",
+        "player": "رياض",
+        "content_hash": "e7b01559382b4a5ccaa27d953af3f0401679f0a79b77be9298f5edc30e7455d3",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 10872,
         "title": "مستشفيات غزة تتعرض لحملة تحريض إسرائيلية متصاعدة - العربي الجديد",
@@ -2027,6 +2011,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 10921,
+        "title": "بعد استهداف مطار الرياض: ما خيارات السعودية لوقف هجمات الحوثيين؟ - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90NHB6Sjk3MjQ4My05R04wUGE0a2FQWVpxanAtd3FNY29TQloxSmo0SXRMM2tJNk51emt2bjZCLTktZWFPeHYxZHNYS1d3M2FKWFZNRmFHNW1Vajc0VHfSAWNBVV95cUxNZWxkZWItR1Z2d3NjU3NUeURmd2lfX3VSd0FGMzgxOWgzS2w1V29jaWpoeHpVamtYUWZxeTVYZXVCd01jT1JtNlIyNWF1Q0hFNjhyZDJPcXBDWEl2MDgxWmZRZlk?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Sun, 11 Oct 2026 16:54:01 GMT",
+        "discovered": "2026-10-11T17:04:19.866318+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "بعد استهداف مطار الرياض: ما خيارات السعودية لوقف هجمات الحوثيين؟",
+        "player": "رياض",
+        "content_hash": "5b53181fc7524d62eee50959daf2be34bce6de30206a81c5bc223f6c82c676df",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 10912,
         "title": "بعد هجوم مطار الرياض.. ما خيارات السعودية للرد على الحوثيين؟ - CNN Arabic",
