@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-11T23:04:36.627839+00:00",
+  "updated": "2026-10-11T23:22:13.846550+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 11057,
+        "title": "3 سنوات من الإبادة… مظاهرتان بالمغرب دعما لفلسطين - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQdWRtSXg3QlBONUhfdWFwVm1nM21sN2JkWEJtcmxqRld0NmRFTHVHLU9sckt4a1ZOTEFfZi1mc2ZaUWRCWUl2aTFTc0RPVFVCWG5tdVA5SlJtNmM2cFBtNjRVLUtFVllUSzJ4bDh3a1R3d0JuckQwMFdRcDRTbTNGTWxMM0hVVDBxOXZRbnY0RWRibmplNk9fVWxabU9XZTVWWGwyVExfM2Y3Nngxb0hMZ3pBU1R2Mmt6NGRrLTk1ei1xeTRzSmZDSDVPRmk4Ul9taG9vTTNJUE1fWDNXTXRXbFExSWRDWXdSM0h4bE1Obm03QjFtbVlGVEF5THFoNWpleDdUR0VmeWdURU55SVFnNzJ5bmJPUHJvV0Q3bW55cnVlMUs5a3JkX0xDUVJJc2hpQXVlSkNGQk9BQzZlRFdxcA?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 22:36:23 GMT",
+        "discovered": "2026-10-11T23:22:08.811119+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "3 سنوات من الإبادة… مظاهرتان بالمغرب دعما لفلسطين القدس العربي",
+        "player": "",
+        "content_hash": "71d2813cfdc744006b715317174a91660a221dacedfb391ca75e444f8e19bebb",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 11031,
         "title": "وزارة الأوقاف: فاتح شهر جمادى الأولى 1448 هـ هو يوم الثلاثاء 13 أكتوبر - Febrayer",
@@ -370,6 +386,22 @@
         "content_hash": "823a47f7e22acb54a9755d6e87a2661e6ded5298dc413cc0a79e3cc6457ee1b2",
         "sent": 0,
         "section": "morocco"
+      },
+      {
+        "id": 10838,
+        "title": "حسنية اكادير لقاو تيران فين يلعبو مع ليفار - كود",
+        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQVjdqZ2E1Y3prdlpXdEJDNl9ibGtSNld0SVo1SHcxSklMMkd6aXdybVk1OV9CQWhuVVVDODZKYzVjUXJ6d3ZtTzh6Ynh2bUx6a1I3MkZaam8zdHFQbVRxYm5lMUVZa19XSUl6OHFWS2l3cjh3NlFMZFl3Z3M0Q0M1Y0lGV0VQcVhrWFlrWU50Um9rUXdBU1V6eTlRcXdzOVR0NEVfc0lnWThFQVJ5dUtFZ1h0YzNGWkdldVZyZzdhOGtIdjVRYkhYOEliM3Z6eU81VUwwRTJsU0VzbTQtckpjdk96T1NjeUV4dFhLd0ZuVk1JRTNJZG1ucWVaM2dfZkV3dHFDMTFxWlloZm01ZkdNMlBmRlNwYW84ZXlFQjBOWXpBM3VuRS1mSkJwMmFaLWpyYTRiUEdISjFEUGJZejg3ejZsSm52ZXdHa0w0ag?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 13:19:11 GMT",
+        "discovered": "2026-10-11T13:09:41.117821+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "حسنية اكادير لقاو تيران فين يلعبو مع ليفار كود",
+        "player": "",
+        "content_hash": "0f97d15962a38cb2d7afb300238c03e0f79a2418f197459eaade6769b77239f9",
+        "sent": 0,
+        "section": "morocco"
       }
     ],
     "sports": [
@@ -402,6 +434,22 @@
         "summary": "مدرب التعاون: نستحق الخسارة أمام الشباب الشرق الأوسط",
         "player": "",
         "content_hash": "098a2e96c285b6950142c1c00153f432b47ea02a8bd8bbf7583515dc3528e4a5",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11056,
+        "title": "فيديوهات | ملخص تعادل روما مع كومو 0-0 (الدوري الإيطالي) - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16RkhWSUliczcxbnNWSFg3SGRacFdoUlY3cUVPVlUxTHdpdnJKcFM3SVBiVjQ4OUZ1cGxsU2tlLXNFMmxkYWNSMlE0RTg?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 21:41:00 GMT",
+        "discovered": "2026-10-11T23:21:58.874806+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديوهات | ملخص تعادل روما مع كومو 0-0 (الدوري الإيطالي) FilGoal",
+        "player": "",
+        "content_hash": "614fead501d70e89986d1e4574dd55fddcc2ebb8b1a18fb83a09a7191dde3d40",
         "sent": 0,
         "section": "sports"
       },
@@ -1156,22 +1204,6 @@
         "content_hash": "19ab38e4a7ff1d502605e24c3e61781535b1a1e5f99f578a83dd6f5caac6ef4b",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 10960,
-        "title": "تيفو جماهير الزمالك قبل مباراة القمة أمام الأهلي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNM1M1alpuYWtRNFlNaG9CUGJHRl9nbGVGenZyc2R2Z1drSEh5UzJQSi1vX3ZlSFpOUWpQN1FIb2V3bGFFakh3Tk9jOFQzR2JSbUl5SjNiZDFDSngxc0Q5NHBVeHRzSXZrSkxZNkNMUzRkRmtxeS11MHptOVRyQzBkeHgtQU90VW5BZzRfYkNsYnhtMFlPWERXQUI0YlIzUFZYNU1NLWtZMUZEdDdYSEFEUy1udXprVHFaa3RQX0YyRVRZaUhMb25ZcEFMVjBRdjJvS3FaRFA2enZaemxadTlyN2ZTeWlnR0xtRkxGTDdBQXlzR0FDTnBEeWZYdXVUYkwtU2JQellSRDNkX1d5TTc0aUtLRm84ZW5hNW9Jamx6OTQ4NDJjSE00U0JwZUtTckxmRkttUElDbkNUV2R3cU11MHNYZFR3cUhPY3VhMWgyeXZzaVI1ZDFHd1lDTk5ORWtUUzhQMXNYYzRkcE1wVEtBMENHYmJ6d0JfaVhrQ3pDaFU0LTE4S05tdWNscU1rdkpjVzFaY2RNeUVEbnBCNVhjQzZieU5vcmJ0RmlOTzVCT2FrSFFMZW5SbjBDY2dLNUE?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 17:22:00 GMT",
-        "discovered": "2026-10-11T18:22:23.124467+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تيفو جماهير الزمالك قبل مباراة القمة أمام الأهلي يلاكورة",
-        "player": "",
-        "content_hash": "5bc68ae98bd784f76254f8587d683813a998fecda3a6809447cf87e81bd402c2",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1636,22 +1668,6 @@
         "summary": "هجوم حوثي على مطار الرياض يوقع 12 قتيلا ومئات الجرحى وترامب يلوّح بقرار مرتقب Euronews.com",
         "player": "رياض",
         "content_hash": "61b6edfbf32cfa5ab21dbc19c56285524cb31b2bdc9b5beaa73ec559a3fb7b02",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 10556,
-        "title": "نقل تمثال صلاح الدين إلى موقع جديد في دمشق - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPSWM4VnlDOTRZdlVNbWtxWjVOX2xFc2JPTlRMRjlTZi03VnZEZzlob2R4dDQ2Y2hTME93NjBIbi00RWJEajJ0R0RqOWxqREFaRWNST19Oc05Oc2RSWFVsYU5vaUVsVTFEbjVmOEFSTThjbXdRS2MtcHJjeThIdzBzbC11UmhJUUxSSGc4Q09aSEtCZlFJYkxnbkN6ZEhNZ2dpbGJjVURWOUtfMXdSNm5NeFpyUmtmQnowOGRHaGprT19FeHNCYkZBYm5SN3dKZEZRX0NPbTNVVnI3RDh2NmpnYkR0OVdsWF9xOTJ2M2RJUmhPanZqZG1YdnhlcU9fVmF4SGZldW9RV1RVeXd2czdHSERrd19zTTRmU1gxNnpfU01UOXhKYVRlSUMwWm83dmVDS19XUDRvX1NuZjNMZmxJX3Y2d0YtOGVQTFllOXlkQTgxRWVselJJalpHVFRfenpiejBBNNIB6gJBVV95cUxPUTB5ZzdFdjZTdjgxQUEwdGVKZERnaEFLRDVPNFBRZTVlQmdmSzc4WDNPb0FibGp3OWduU1ZaR3ZFaFZfSktrRGxkaXAxdnN2UXlJTWR4WlhTMkpHVXFYajZKTDVpclZpZ2NKMVhSMnFKazJWUm9rV29zMnpXV2hjallQbzNPSHh1emVWSkY3b1RCTmRWRDNtaEtpNHV1SGZkb3ZEOUo1ZV92QURKZWFiTEpjbU9nc2FFc2hTb0tHc1lRTzBsRGthLUtvYzJlbnhuVW5vSDE4ZGdaQWxYZ181ZmJiRjZtTGRLUlc3VnZCRFNBSG96bm0tQnJUNnpwb2RlSzJoQ3o4VWJ6R1hrVXpjN2RTZnFkQ0Z2WUJvRU5iVGRFWF9xVmJMU2hlbks2SnIxRmU5WGlRdFkwYTJGYUlqWDBpLVFKa1Z1WGZhYlczczJ2NFc0WlBZdmJXeG8xV1NWdHZKX1JwWUNWZw?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Sat, 10 Oct 2026 13:29:14 GMT",
-        "discovered": "2026-10-10T20:15:41.085458+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "نقل تمثال صلاح الدين إلى موقع جديد في دمشق العربي الجديد",
-        "player": "",
-        "content_hash": "370743dd78d1e0089d29e2b095428606322f8602dd9d9259d1473fa7e5076547",
         "sent": 0,
         "section": "transfers"
       }
@@ -2328,22 +2344,6 @@
         "summary": "السعودية تعلق العمل في مطار الرياض بعد تعرضه لهجوم وترامب سيتخذ قرارا حول ضرب الحوثيين France 24",
         "player": "رياض",
         "content_hash": "de03ed1bea01790ff1470d7aa1e07ad41f872eb14fa027add11fef3e80b1d151",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 10557,
-        "title": "ترامب يقول إنه سيقرر \"سريعا\" بشأن الانضمام الى السعودية في ضرب الحوثيين - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPemZJbWhWS3BYaWlmVS12cDJDTk0wby1LeTQtQjN5OVZkdk9JYUVjWnlfblBZenFkTEpaRGtQeTFzVkIwck9JLVJ4bXJpUkdQZ2Y4LW9oMFg0c1RGQS1aQVFRNW1ENk9NdHdZejdqaWtaVTdzUnJrOW42Q25KSWpMRHRadmRiWnNKcE8yMzVMVkpFektpYlExSHJlMng4VWhhbW5Bck5CemxQS2p4VWdkR1hOZENkVnNCQjZxQnVQNzZaeTM3OEQ3bFJxOFk2czBmbkhJdU1YTk5XX2VTbUtRWDhjQmdNX2NWenlDcW1zQlREOE9CdmtDNmhES0hfTzBMQ2VpS3lTY0gwUGdWVmljdW5aa1NoNG5mSFNtNFJHNXFmS1NPTzRZQVRncnJTUVpCcFNjZUViWFJOWDhuRk1v?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 19:43:55 GMT",
-        "discovered": "2026-10-10T20:15:41.818844+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "ترامب يقول إنه سيقرر \"سريعا\" بشأن الانضمام الى السعودية في ضرب الحوثيين القدس العربي",
-        "player": "",
-        "content_hash": "9184a605a4ca05f295611821664052716ecb43dce1034609e480236c0a0d12e8",
         "sent": 0,
         "section": "world_arabic"
       },
