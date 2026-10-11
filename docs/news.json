@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11T07:30:57.947734+00:00",
-  "total": 148,
+  "updated": "2026-10-11T07:48:55.971837+00:00",
+  "total": 149,
   "sections": {
     "morocco": [
       {
@@ -453,6 +453,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 10782,
+        "title": "بونو: الفوز بنخبة آسيا هدفنا الرئيسي هذا الموسم - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxNeW1aV2tUQ1lWd09YWVRMWnFnOVFWTVVCX2k0TUFPRUxsSDdzdmpYcnZwV01UN3VyeG9XTDBDbXlmX3prdXU1Z3NkRXV5YUxORXNib2pOWmFaRjNtVzkyV3F4TWllczZhdm94eVBORVFjcTFBTGV6Zm5IVkhMTG1pX19JZHlrR2R3T3I0MmktMEk1aUUxeXY5R2lhOF82VWdjZTRFY09JeFZzeHlPRWRoRE8yUlVTTmF2eTVNSE9tWTVKR3NmMUJzd051azhHcE9pY1dDVE50Y0o1VXZaTzVfTWZvVm5KMGV1Zi1oT2JhMEF2VE5fajFKck1uR1dKQVQta1JDVlZUVkdseUJWd2xxVllwRmREY3dLYWh0UVVhUUN4c3RlV21adkdkaUlOLTdqUjFQMjRTeUpiRy1nbmw0bVNKVGx4cDVpMlR4LUtIRG15dXF2cmZfdGl3eFYxakZUQlc1ZlRlbkhfWkV4TlA3RGpzMnV5V3hvT1JjSW1FcDQzRjRyM3dMTGdpcUVZZ29pT1hWYnN3SVB4RkE0c1ZnN08yc1JORkJacVJfMGh4U1ozdWxhREctVnQ2VlQwT2t1emZqZm1CeHBvU3J3OVFuZk9yN1Z1UjBaMVozcWxtRFRZY1QyZ0l5V0ZJbGVZenJReTJreE1mek9jcTFMOEs3TW9DUQ?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 07:45:44 GMT",
+        "discovered": "2026-10-11T07:48:32.988054+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بونو: الفوز بنخبة آسيا هدفنا الرئيسي هذا الموسم Kooora",
+        "player": "بونو",
+        "content_hash": "86f754bc7829925700e8aec3fd4d0d9143ae819acdd9aa5ac47c4c41570e64ed",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10783,
+        "title": "موعد والقناة الناقلة لمباراة الزمالك والأهلي في الدوري المصري - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxPdHM3cG5LVHhaMEZaNWZTY3dpWDVtU1JLT3FSRjhoSzJwVm5RM19PVWd0LTRVZ3k4ODllYThSSW1aeGN5N2d1Rl9ldE43RWZtbzVtSEs5V05IaFhfZ0xtUVM0UWh5ZWFQTmpfN3RXb0RyWWQ1eng4NDYyekNzR0tvbXRlVklmYVVZdEhsRFhiVG1sbGs3NVJma21FZjlOdFVYTC01T1B4RWxqWTZhU0NiakROU3dRTmg5aGVpdWJ6QW5lY2tRX2U4aG12LS05Zy1qeU5QOEtZTFpVejVKNlp1MkxCOHU4Y1NKcHZidk51dUFqcnNKZlFBdTdSZFl0T20zby1rOV9qYmNLdVhsZXlWT3NHTWNRQUNYRGVSWElUVVgySndKdVM3VkZBcGo4Zk5yR3I0Zy1uRWx6Mk84Z2tYVFNwWWVHTW9tM2NMbkpEZk1XOXlKaldkajlsRFZiMzF0RUViX0lfR3hYM190MjJFVGhXRGZRV3JFNzUwTnVNRTNySkVEOXl2Yl8wZkxCOWY4c05ZQXZrckJjTlRyck5rVjRBNnhTVHZFNGhqVTNJeHRWcjgzdzVpWjN5RkNZMG5MSVpJTkpZUFoyRXUwcE1RaF9Camd1Q0pJLTBJWTFSb19jUldBbWtQeGkyeW9aaVVadUpDZno3X2xuVEVLSTZXNXg2SWVJTXEzeUhsY3lpMXltb3BnRXhqSnBEZTQ1UdIBowRBVV95cUxOaHJ1a0ZYbnRkZEp3cmZCdTE1aW5PN3ByaDBWZEEwSWRPa2h5aFRGUmU4VWZIQVNyYWdhREhxN1RnSGdDZEZsMmtkaFc4WHFtY1RNMUdTMGRRVFVqME5mbkFydGpkbXlsWHBKWWtJMVJMNGNRYWpKWGNXdUh2aHE2VGsxNDBvTEpoQVM3dmNHNGFCSXdvcGg4VVUzWTBJcnJZZGgyTTl6RUJKT3dCcW12alZLOWltOS1RSHNpeVU4WWQ3YlUxU3NQa2hRVm5KeEdGbjRrSTc0NEVXbUZGdFdROGhYUjZuSUNVRlpzdl9aMEtMZFBja002QW9wTXpLMlZoay1oRml1UDIyWWU4bVFITVJLaDhkdUt3MXRJZkNFeHQ1UmE2blJqdFZnX09BakFINUxiaTlHOVdFb0dlNEVhVktyWWFkS3FKckE5T3ZfamdqSFZ3TV9EbFFIY3JEWUx5T3VUcVllTlRTcUpoVlhydWVLRUcxSVJsYnlLRU43YmF6c2o0V25tWnJ4eDBNYUFONlY4OTVCbzIyQzYyVG0zS3MtM242dFkyTFNDZHRSWnNnMGwzOHN6b1o4M2d2bEtGTUZzZEVmRE43bVhtaVgyaXlEbXJiMGg5SDNjMy10YUcwSFk2cUFrSWdpTmY2Y1cxMGdwREx3SkU0RTdlUmVSZjdVUWljRGpHajI4WXBDZDdTckFSVGprMkljTmxnRlU5a0Y4?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 07:40:00 GMT",
+        "discovered": "2026-10-11T07:48:38.693182+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "موعد والقناة الناقلة لمباراة الزمالك والأهلي في الدوري المصري يلاكورة",
+        "player": "",
+        "content_hash": "6f6099ff6b09e4c3b07b2a122ef1e0833ea3da57d1b826d9ca9fb1ea74b854f3",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 10776,
         "title": "مواعيد مباريات اليوم الأحد.. قمة الزمالك والأهلي.. ليفربول وسيتي.. وظهور عبد المنعم المحتمل - يلاكورة",
@@ -1218,38 +1250,6 @@
         "summary": "النصيري يهز شباك بونو ويأتي بـ\"الخامس\" جريدة المنتخب",
         "player": "النصيري",
         "content_hash": "0e07e1d84d8c20fc109f36e76358493ef88629ab9657fd75d1e9c2f019a0b43a",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10725,
-        "title": "وداع أسطوري وخطة شريرة… هكذا بدأ عصر المنتخبات الدولية الجديد! - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNVHlTU0M0aThNRmNOU3FYa0Uzbi1aT1BTNWlqMTlrYjY3WW52c1BaVDZMZTEtUENoRTVTNXp3UG96cGJwLV9uMkF0TDNlX19zMEs2N25MalJCMjlHend3ZzRJWUxabWYzdXZodk9Jdi1URmNibWhNZ2lGWjVuV3lsaERLUE9ibVRQVGJJVWlRZVZtc0Z1amlsX1pKcEZwNXI3N20zUVVqLXVPbnJScTJoZGVQemZzWmpwcnE4c1dwT3kxNEsxZHdXUWFyQlJjSmNaWUpBS2J4N0MzZmtWOFNuT2RLT1lfVGs2SFB5dTZidV9ZTGRsRThMbnJ4MG5mZW05NkE4dmd5QzZsYTVDLUZTbkZFbjhuVmdZWVZaWmpqZTM0UWdwc01GVlRFSnpMZ1Z5ZVhDNWk1ZzhoLURabVJxUg?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 20:04:11 GMT",
-        "discovered": "2026-10-11T03:07:40.034807+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "وداع أسطوري وخطة شريرة… هكذا بدأ عصر المنتخبات الدولية الجديد! القدس العربي",
-        "player": "",
-        "content_hash": "0abaa2cb0e7fdc165f112d3543f9d4b0eb9b0836090a834ddf73841b505289b5",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10726,
-        "title": "ميسي يضع خططا كبيرة خارج الملاعب مع إسدال الستار على حقبة ذهبية! - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPNVhnMVh4OUNsZlIyMDZpUHhBV0cwOFFfZ3l5VEIxanNOb1Q4eUtyd2hTd1dLMmJIekJXbDgtRmlObGN2UUhzTjk5TGUyT2NhU2lLRXpjWGN5MEs3NTB1YnA3SWZrMGVHUXZjQ2FxMkU3ZkRJSVJJSTlHNFYwSzNqMnNYU19GWUh4OFd1ZlZtOTBSV0diMFRPYkJYWWFMb0NKbzVDSDNTeW53cXFyZ056enVZMEFCaWw1bmRmN005d0hHQkJ2SUFzdW5ZbGk3UFZHRXhwbDE4eEZLTUx6cE9pTWxzUVJvMXV0TEM1Q3ZkUXRsSGNGcEpHcEhSUDFfMThHMWlvQ3FEWXhDcXRWQU9Kb1M2S1ZERkZiaDF5NmxmN1Q4X3Z1bW1rQml2djZPYmxNX2N4N2w4RVB1UGtXeWJ4Y0tQSktMNDVt?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 20:04:06 GMT",
-        "discovered": "2026-10-11T03:07:40.040267+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ميسي يضع خططا كبيرة خارج الملاعب مع إسدال الستار على حقبة ذهبية! القدس العربي",
-        "player": "",
-        "content_hash": "789e7897ffeedfdcaecf84295aaecba9cfc5beb62bca650186c3ea361409e867",
         "sent": 0,
         "section": "sports"
       }
@@ -2059,6 +2059,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 10784,
+        "title": "مدارس الرياض تعتمد التعليم عن بُعد عقب الهجوم على المطار - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQUWI5bm5iUFpTT09YQkwzVHRxdWZrRG5WeFI0WFhpXzFLbVFaLUtpc2pLTGxsWGdYOWFpaEZrX3NNNWtwVkdZSE92S0JQeDM1SzdvRkVNTjRCWGgySk1yV3owNHhaZFpMX2VWZG9wZWphSVZwZXJVQ29TWUluRGJlLXVpYnhkSUk1eThzbmFGeXdneE45N2VzZm80bEN5a3dUeGhPYjdxZzYyVXN5d3V4Z29vYWRNMjNpTUdVSDFwQ0dWYk1ua3RhUU5DT3JZYXlfQ3VKRllDZzZrT3BQU3pBSnlMVi0xd0pNdHY1UkNUb2treGtFdmQ3RUY0RllwbVNEN3lSLTM1LUstSGdKWGZEdVhIb0hIN3BUUzEtVEJTbnI1QXBzdUo3UU9lOWdOUjJ1S3phRFVMcjJpcWNxYzFhWXYxazhpdDQ?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 05:33:04 GMT",
+        "discovered": "2026-10-11T07:48:51.150511+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "مدارس الرياض تعتمد التعليم عن بُعد عقب الهجوم على المطار القدس العربي",
+        "player": "رياض",
+        "content_hash": "89b2999f6452d0f823c7aaa6ff1641803dfe6213f91656ab084dee3b134bdc15",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 10757,
         "title": "على إيقاع الخيانة والانتقام.. بدء عرض مسلسل \"طالع نازل\" - CNN Arabic",
