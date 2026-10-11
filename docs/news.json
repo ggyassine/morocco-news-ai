@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T10:26:27.951314+00:00",
+  "updated": "2026-10-11T10:42:42.539505+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -437,6 +437,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 10816,
+        "title": "تيتي يفاجئ زياش بقرار غير مخطط له في البداية - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOeTRCcFJPN2FDMXl5cG0zRzhKQmJ1UnNlbFZBSExuM3RtNU9UdVlITEhFOTdxM1pKdkJpcVBpM1hEUGVIOGJGRVl0ZTREZU5MXzY5dUJsVGNpUEVkVUg4MS00Vi1TSVRBb1haRHNSd2JoUnE5MVk5V0oxTWpEZ1RxSG02OGxJWEt1V0U0bnBDbXZOVU4tSl9JbE8tc282Z2tmYnE4SnNfMFp6RDY0UVZUTEd6OEp0MEp2X2dpbVpLd2lRR2hNMHBDemQ1U1RXcVN5WFhVOFdwSmtvaFBkSFpBQlFkTFpqbGhMak5uZmJqZ1F2NVY0NWZyWDV3VGZUTE1QaXVHSmRpVWJOM2RxZGhMeHNYWnJpZHB0THhXN0dTODR3WGpxUGs2Q2pNT3hRUmt0ekxkR1dsSzZmREVwb2FPUVhiaF9GbjMyVlFBbEw3ZlQtUFlWNGtGcDFCLVRjdTc4OUhsSl92NU1zMEdKc1NVZGM5VU9qMlpnOWV5WkpTU0ZQbU1rSEZEX0gwZnhWREpXdkhxREhJT18wc1cwaUlZQVdsN2Q0Rl9JZTVsWkVCNm01eHZmMG51elhYbTdqN2VTVmZmVkNhMFlseW40VVM2MGtGUDR2d29hNHRZRnFMZ2ItYnhC?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 10:37:28 GMT",
+        "discovered": "2026-10-11T10:42:18.026748+00:00",
+        "category": "أخبار",
+        "status": "غير واضح",
+        "summary": "تيتي يفاجئ زياش بقرار غير مخطط له في البداية Kooora",
+        "player": "زياش",
+        "content_hash": "7fe3ecc52a0fe4c3e77ff66f5bf89083305c8e3702dd958e4131f7d1f14cf9ea",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 10810,
         "title": "ممدوح عباس ينفي رصد مكافآت خاصة للاعبي الزمالك قبل القمة - يلاكورة",
@@ -1220,25 +1236,25 @@
         "content_hash": "b6d11af9ed193f305a9cc1685c3950c9ff02b1b01940fc727d9202fb43f9f31a",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 10632,
-        "title": "ايريك بلاهيك اللمسة الفرنسية من المشرف العام؟ - جريدة المنتخب",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CeHlhSS13XzktWHFtVWJPakhhcXhPbzI1Yl9kX2ZhRm4xdy1HY0drOHVtbWdvOEVRalpzWjd4UmZ4N1NYa0NMR0pTSFRJTDV5aUtxUQ?oc=5",
-        "source": "المنتخب",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 20:37:37 GMT",
-        "discovered": "2026-10-10T22:58:21.324259+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ايريك بلاهيك اللمسة الفرنسية من المشرف العام؟ جريدة المنتخب",
-        "player": "",
-        "content_hash": "a2d504501fbb26aa9f5e9b2c8308b2626ad6508e499666d34cdede0362db4897",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 10815,
+        "title": "البنك الدولي يرفع توقعاته لنمو الاقتصاد المغربي إلى 4.4% خلال 2026 - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3Xy1WSnVmM1JhbnpZVklZbHNTcWpHV2NDdlY4b29oSjlCR1YwajQwNldWTlo1V0pQSTMxNk9RVTRwYlhlYnFLSA?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 10:35:23 GMT",
+        "discovered": "2026-10-11T10:42:16.169906+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "البنك الدولي يرفع توقعاته لنمو الاقتصاد المغربي إلى 4.4% خلال 2026 Febrayer",
+        "player": "",
+        "content_hash": "a39c32a1315e794303041a2795fe45207b2b0a3d01dc04485e8abccb3346b80d",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 10801,
         "title": "الذكاء الاصطناعي يجيب: ما النتيجة المتوقعة لمباراة ليفربول ومانشسر سيتي؟ - Kooora",
@@ -1764,6 +1780,22 @@
         "summary": "ناشط سياسي مصري يخشى ترحيله من الدنمارك العربي الجديد",
         "player": "",
         "content_hash": "48fd2232bbd84f3dc049ce8d96c472cbbd62f87810f573be2cb6a9e964feb0db",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 10676,
+        "title": "الرباط.. معرض\"طرز\" يقتفي أثر التراث النسيجي في المغرب بين الأمس واليوم - | MapNews",
+        "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxOemF2cC12T3Jfc09HcVo0TFRVc1dXcXU4ZjkwaUxaS3d1SEttcHVqVHdMSXNYTHRhUVFVUEoyd2Zjbm5OS1dwanVhOWFxdUIwenRldEZfYnRGWjlZcnQtRTNKb0NPd3p6c1hFQ0N4V3F4bU5Ub093ZUtEcEU1d29IRVZQeVZGV3B5clJKSkJ1cUlBWEx4X2VPcEt2N09ERkdiVm94b2NhYW5renotRnNaems2LXUxR1JEdXFZYVNNZWJhUklDQVZHQzZsQnpXa0tlRUl5MlpmVmZlZ0hnSlJEdmpROW85bmRwdEhDek54aDkwbjVNMkhoX29KUzFjU0twalFIV012cVdDUVFVLXFvWHhRQXJ6QVZMYUU2WWpFUjlTbHlLOS0yTGQ2T3cyM08tTzRWSlZWazl4dVZJZHowUmNqSEk1QlBrdTJQM3lVRjN2dGk1OWpKSTlQRjlPLXNhQi1EcDBraW42OWNLbGR5UDFJR1hNY1d5X3FxX3VHbDVUejFKZ2VBR2lwbXFVeEQ3N2Z1MmZRaXkxWFpsWFdpMjUyUkpGV2RldUxxUXZYb2oybTJXYmFWY3BRYmRrWUcwV0FZTTRyY2k5ZExYTTBIVm9uMEtGRUZPTktmYkppRW80d21UUXZzYTZDZ1dQZXd5V2hOb1ZXTWRQWl9GSFdTOHI3dm9JSVJ2aXhDMDZ4NEM1RHRvdU8zbS1iZVhkdmhwcTJ3RU41Q0NHdUlKSjZNVmNOYldSN3p3dnE2TkNickoyWEgz?oc=5",
+        "source": "MAP عربي",
+        "trust": "A",
+        "published": "Thu, 08 Oct 2026 23:08:49 GMT",
+        "discovered": "2026-10-11T02:02:52.835936+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "معرض\"طرز\" يقتفي أثر التراث النسيجي في المغرب بين الأمس واليوم | MapNews",
+        "player": "",
+        "content_hash": "3a165e37bf80f47b80b6cd043f5f800f832c5c33a382dfd58c1807be34a73610",
         "sent": 0,
         "section": "transfers"
       }
@@ -2344,38 +2376,6 @@
         "summary": "أسرع من الفورمولا 1: سباقات سيارات خطرة تتفوق فيها النساء على الرجال BBC",
         "player": "",
         "content_hash": "01625823c89bc27d0efe156f08beba6d270dce9590cc14314c1ab644a0aee298",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 10316,
-        "title": "الانتخابات الإسرائيلية وأوهام السلام | عبدالحليم قنديل - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNTG5GS1ZKSTNkTFJHaXg0SHVJRDRkRERleUtqcEZOLWNvYV9TcFpOQjFmcGJvWWN1SGs3aWFNVzFhYXQyX2ZoR01KQ3dwVUhNdGxLYlpIWDlFM1FGTG1oY2RIUFBCM3dCdzlBX3JEdDdZMkg0eGZ3U1c5MEJxd2VBWGhEQW93S1B3cFZaVDFJNWFKekVXUzJuVjFTSC1JMHJFOTlIbzVUczlxVVBFbFBIUXhCTnF0b0ttX0dwRUUwQzB6NXdZLTFBTFJReVJFeHNtd29qd0ZWeTBmZkFTNEswT3p0WC1sRFEwa21kcEZ4MjJqZ2gwZTZKUjI2eHBld0d4ZWNxNS16RHBscTBQblpMV3dhUGJITDd1azc0WHlCSzliWHhmZVExZDY5VmYycXlEY1h3cHNCVzQxRmhsWjNlVXU0MA?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 20:17:56 GMT",
-        "discovered": "2026-10-10T02:27:00.279970+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "الانتخابات الإسرائيلية وأوهام السلام | عبدالحليم قنديل القدس العربي",
-        "player": "",
-        "content_hash": "5f7cc8a4bc6200abda5898be2e0394cf8d0b5ef6764f1cd1ce5151ce236dd5d9",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 10315,
-        "title": "أنباء عن انفجار قرب مطار عدن جنوبي اليمن، ومقتل ثلاثة سعوديين بهجمات على مطار الرياض - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82WGVZOVF3TTlhYlQ2MjdUcUhaa3BfSXdyd1JpMHBMTExhb0RkX05EWFdrTmRKTWRmWHFZQk1lUWlEdDRsRG1pcUYybFNyMDEwOEZPS2tSS1dtcUZ6NnfSAWNBVV95cUxQbFVlMGNUb3hQbS04Nl9yYWttd2dFN0t2NlBzMy0wSG1NN29EU0h2UEE1aXNnRHd4SmtGQmd1Smw1Y3ByTjgwNG42R1V3RzBtQXZKQlcxOTFxaTU2cEp4Vm00QWs?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Fri, 09 Oct 2026 15:34:47 GMT",
-        "discovered": "2026-10-10T02:09:03.358621+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "أنباء عن انفجار قرب مطار عدن جنوبي اليمن، ومقتل ثلاثة سعوديين بهجمات على مطار الرياض BBC",
-        "player": "رياض",
-        "content_hash": "2254833b18c17db3b99e05ca725e985f9c6207dadfaaf5db547ca8209fd1af47",
         "sent": 0,
         "section": "world_arabic"
       },
