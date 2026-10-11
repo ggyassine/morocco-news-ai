@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T00:09:23.828124+00:00",
+  "updated": "2026-10-11T00:37:07.824808+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -468,22 +468,6 @@
         "section": "morocco"
       },
       {
-        "id": 10155,
-        "title": "بمشاركة قياسية ناهزت 800 ألف تلميذ.. ختام واعد لبرنامج القراءة باللغة الفرنسية بالمغرب - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93bVYzcUNYUnJ0cUlzbVhUZElfdFp2WjhIN29jM1Flb1d4b2ZLLUlRMFE5XzlFQU9fYjdEdm81WEtsY1BrRDJBQw?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 12:00:57 GMT",
-        "discovered": "2026-10-09T18:15:34.568711+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "بمشاركة قياسية ناهزت 800 ألف تلميذ.. ختام واعد لبرنامج القراءة باللغة الفرنسية بالمغرب Febrayer",
-        "player": "",
-        "content_hash": "b9964713a858ec31ab37a794fa2c7206de1b0888296cced085406912ead7f5f9",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 10373,
         "title": "أمن طنجة يطيح بمواطن إسباني ملاحق دوليا بتهم التهريب وغسل الأموال - Le 360 Arabe",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ybnB4SGVlRmFQWWlsUjh0Qy1LLUJLNUhuX19HRVM1TTBBWTdfOXBLcHF1OGNaZWswc1A5QW5XaGxvbmFyQzdJNjRwal9vR2duc2hhRmhxeHZhTmRNemRoTXFEbDZZQQ?oc=5",
@@ -818,6 +802,22 @@
         "summary": "لقطات من مباراة ريال مدريد وفياريال (صور) يلاكورة",
         "player": "",
         "content_hash": "dc6f391d5c6c61efdbe296736c001afef1d9a884289cbc5566422fb464e8e211",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10656,
+        "title": "هدف ثم طرد وغياب محتمل عن الكلاسيكو.. ريال مدريد يفوز على فياريال بسيناريو مجنون - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxPZ1VDYzZlcVVodG1ZaGdFQjNFU2g5Ym01Y1dCNFExSUtTeUxZcXBFV3BiYnNKS3JkM2pQTDNIU3MzT0ZRSnkzcGR5UnZaS1JkMXZ2bjlsbHl3NFV5N3lsQ181S3hWZnRJcG9PbUlhbFRmSFVrVHl4OWZScU1sbjV5QjhhUU1OTzVXOEthaGlBNkQ3cGtGUkZOV1dLNnJSdTFLRE05NnZzNjkyMHh1UmZKRG41V0hWZWgwa3Yxelp1SFdkaEFNUDFqRlkyaEdSeXhWRm5uWkdqME5yZTZKVVVEemlLMmF4NXNEM2F3MFJCWXZDTDg3dWE0T0NIYXk1ZmtMZTJxbHRvMFN0RTR6eEI5ZUZSWU1sLUR4bGl0c0Q5ZmtWYXpQUkFCcDR2c2x5VTQ1eUZYQllPQlJ5MkQtWmZyR3ZpdnpLSjdWS1ItWG5rTlZqSEl5bEs2dUY1Zk8zRXc1bEhsUWp0bU5wd3gxN1FteDR4OTlVN1Y4dzIzbGtoRzEtNlFpUVRXT0tvd3JfbERFNFozUDFhYnpNVlFMUEtsc0dDcU9NcThPbkVnTTA1UEVIY0J4bW5wMmpSUWpuR0I4QXkzcnpDb0R0TWg0NG90dEVzQTRFVnoxY1RSZWVlTVNvbXJFd0ZNekdJdHd1cURJSkIzM1hpa3Jhak9pOW1YQ0VLbEFrek5UVFFmMzJOa3J4MGRnekx1T2xaMklhZG0tMmZDZGtqNWd1ZkIwNHNId2tXaWNkMEJHVnE1SGUtbUNRWGhEcjJOZmlsNk1PanM2ZzFRZ29tWDVwblp2S1FpTFVyaEFpQkhVVnlF0gHwBEFVX3lxTFBhVHJfbU56endSLW93cXhFQnhncmVDLUxHQU03bklqVG51SXlCblR5TnJxWktWWFVJbTJRZlFFTTFvTXhhNEpucFJOZTdreWRaNU5PNWZJODBqLVFHaHBOLThKcEVTRGk3Ml9CdU9PVnNRemVfRGpuZnZ6Y2NqTk45T092Nzkta1o2cGF5VU5sRlJBdjNhY2dQdWhuVkFNOFQ1bWlVOGQ0VUNFaXlWblFJRWxFVHJSUFMtUHE5SXZaczNDUUNXWVVPMV80UXJSWEZrN1paeml2dk5RYklVb1FWVnlqX3o2Y1FzUFY2T1VqdXViOTZqMXB0TGFaU2llb2xiOW9CMWxaTHZHVFRHU19LejVvZjhMbkp5aWY4bTdzaGxPNjh6ZkdKMWR1T01VT2xGd09wckE4ZjZkeExtcDNsaVJsSWNNMXU2ZHJmRGNGRGNHMGl5aFdSTlktdmNyeEVrZ09MTEQydFVWRWNVSlZESElMTVNQY2lyOGlYZFh0dGVoTkZONlJNa29qbWFNQU9xNjBlX2lyd19ONWY2RExZWVZaR1BtLVdVeDVDM2dNejltal9XZHczQXdFOXdncHJ6eUl3cWJpWnZRNWFNUGVPVWphX01tR1Y4SkFZSEViOG8yZERxSkZYeEFHWDlhRWVxeHFzNVk2dFowa2ZiYkVhY1l2M3FEbTBZWjljTWZodVd0eTRfZHR6WXRBeHB6RTJYdVROVzBBMjFxa0dITXpRTFFIUmxXRzBYSFJ4N1pMaFZlUV92WHlfdU1TT3dFX0pNWVRPS3NVY195cWZodERYUTR1YjlxNndLdUQtVDd0cQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 21:09:00 GMT",
+        "discovered": "2026-10-11T00:36:51.048551+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "هدف ثم طرد وغياب محتمل عن الكلاسيكو.. ريال مدريد يفوز على فياريال بسيناريو مجنون FilGoal",
+        "player": "",
+        "content_hash": "95d27882073f2c46b2a46df62cc3bbdad997cdd68367b9c3592e6ba4ddebaa3d",
         "sent": 0,
         "section": "sports"
       },
@@ -1364,22 +1364,6 @@
         "content_hash": "7699b75741f0e5ddd2eb2aa6777089c5843337336bdb4c8b1f7c3caf1bfb74b2",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 10575,
-        "title": "أخبار | خبر في الجول – استبعاد كوكا من قائمة الأهلي لمباراة الزمالك - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxQX1NNem10YXVtRUVYQ1duVW54ZlhXcXVPRzJ1VHd2ZnAwR2JDbmFOdWMtMGNvMmI0M2EyMUIyWmsyeWFsaFhCcU9xbklqVVFQN0dPTXhBcVRBdFR2d3VDQjZ4WFBXb3Eta0FZNERPc0FwTmFsYWtxRTFqQnNlQzBsUlJKeEY4elRYU3NhcnVNek41S1NsakE0ZGxmeDhjZ0MyZmFJY083cktjTnNLUWRENjhuUVctRlcxTWRGQVlyZzlIMVBnLUhkNHhlNmxNUmlRNFlZZHBvT0Q1N05vMzhSaXJtdW1ERFJhZFEwS1E1a2t2bld1UHFYa2lIcUdCUDczQjFkZXl3NlFEVjltMGhuNUhJaU1RSVZCX3M5emhZX0d5a1BXaXVvQWxiNno3cXZkSndvWVVvSDlnOTFDMnFyUVpWd2dWNnNEcHBqTnNNdlBNS212cWtMOFJYM0V1OERZSmRSZ3JaN2RnNVk1WGRDUWZPSGhaTXB5a3BsYUFZSTNkSGR1V2EtUHJHcDliQU5mZ1NWWVdVVktuUEphMFFlRXdPSzJLZTRJRVhLanJkVVFuLWI1cUMyMkp3RmlNUXVoaVAybjdNbW1HQzNUZmphVGt3dDdndHpLSG9vclpn?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 18:49:00 GMT",
-        "discovered": "2026-10-10T20:59:57.189363+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار | خبر في الجول – استبعاد كوكا من قائمة الأهلي لمباراة الزمالك FilGoal",
-        "player": "",
-        "content_hash": "67785659f04fe2434659a83616c5c7be893189624481f354215db3d5f6401c57",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1860,6 +1844,22 @@
         "summary": "ناشط سياسي مصري يخشى ترحيله من الدنمارك العربي الجديد",
         "player": "",
         "content_hash": "48fd2232bbd84f3dc049ce8d96c472cbbd62f87810f573be2cb6a9e964feb0db",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 10248,
+        "title": "أرادت تجديد رخصتها.. فكشفت سرا عمره 17 عاما - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPZU81LXZCcVEwVmptU0lWLTJMRnFFUXNuX25wWHE5X0VZLW5NMXVuLTh3S2YzN0ZUaERPcVpST1BzMVVtNmpGU2pzdjJIaFl6M3BFQXVVZ3RPUkdNVEFyamNzTFdvNXF3OTlwdm14R3N0MmV3MnU4UlVVTmVKWS1QajdEVTRibzJScEF3OWZYWHRRaDBWbEwyT09VdGY2clFrQlpLd0hURWEzU3Z3RHNlTG54RmJiMTRocUpPZGFQTGtxc19YWldjZVMyLVM0ODZzekNwM2R4SGNRdmQxREt0OXRvLUI2ODBGc0wyVlJlbGRPOUxxNGJiTjAxSk5ieVZpcVNzdVlpU1dUNk81ckdWRnVOd2ozLVQ4VjJ0eFdseG9Bc1JwMUsyNTZtbnJXMm9sUE44eWNTRWdQYkZIaTlkMEVLcU1jNjJQM1NXdU1GeTNicGllcGwyR0kyMkd3bUtVOHY4MS1rMlbSAe4CQVVfeXFMTTVNVEVadHZUMHlEYURCU2p0ZmFfbWVpS0JoRnlsTUNyS3dYaDkzeFFyNTloYTVoVDRUNzlXb0JSRXRpVlI3aW4ybmtFTjN3ZXR3VnBWemRma3lPeUgwZE5nWmx4azNaZDA2aHJzdXh5YW5XR2N2QUo1WnlZdTNZUHlQaXhfaTJTZE1nNVowQ0t6Y0xhN0tVOWI2NXBuWS1hYy1Bd0VxTzUwVUhwTVZUcVhuZzV0UllDaUNiMnBQVkJic0pFRTVKTmt2akFvMTh5aTA1OXduRkpPbGxvSy1yNDQ4dV9BNHN6VDhRaUNxRElqeXVzaHBYbW52M3MxcS01a09RNVR3MGIxM2FkZlVESkRXb2VzUmZ5aDlpa1EzTFhPRHlpNnNvNDVIanlGRXFXZnh0UVZDWk9mUnZneHdPVDJnUDc1Wm93dDRpVmlpVkFOZzVJR3hmS29relBKWi1JemdpWnVlRjB2MjFrbnd3?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 05:53:00 GMT",
+        "discovered": "2026-10-09T22:25:08.033905+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "تجديد",
+        "summary": "أرادت تجديد رخصتها.. فكشفت سرا عمره 17 عاما سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "71b3cfb6a51a30980c9a398ab89b8f3c6bf025b504684dc24390a55573eedbd0",
         "sent": 0,
         "section": "transfers"
       }
