@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T04:19:09.552876+00:00",
+  "updated": "2026-10-11T04:38:29.381764+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -352,6 +352,22 @@
         "summary": "قطارات الخليع خارج الخدمة …تأخر جديد بين القنيطرة إلى الرباط يربك المواعيد ويغضب المسافرين – اليوم 24 اليوم 24",
         "player": "",
         "content_hash": "d09e25b025ecbbda0b7ba435669d7d0392a23672d800090f17669a875bb70316",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 10738,
+        "title": "بنك المغرب يصدر وثيقتي عمل جديدتين حول العملة الرقمية للبنك المركزي | Page 4 | MAP - | MapNews",
+        "url": "https://news.google.com/rss/articles/CBMi3gRBVV95cUxPWmNtWENocHE5cHBFZ1VBcnJ6NVJ2TjFWSVNNUGFuUEEyX1FTeDdLRy1NTU9rZnVyZkFGYUtXUEVuTEVYa2JoSjZFZGE0MUtWdEZmMW1tX2hfYlRiV3ZWS0Z5OExsR1pLeTFDS1FkMmhEWGVWdkU2RnZtN1BfRVVpVEU3MUJmOHYwdjVSeTBhY3NQampGX19iVE4zNHhKMUhoZHdYRTh2c3hKOWRoUFgtNV9QQ2ZpdFI4ZENtcW44Z19iMk8wOUtJWGRvV3ozZnFrU3dZM3k1dE4zV05OZGdPOWN0cTB5R1F2dGR6eHp2aTd0Tm1SV1JpSTZWQ2RZNW1WcXJrR19pUjFUNHdsQ25rT0RpclpYSnZ5RWw4UHF5ZDRWa1NhSnd1a29leFVoeEZyRG50aE5XV3hWTmlPeW54YUg0NG0yYkhKVHR1cUNqeFY0MVlGd1N2YjROekFMeWN3cEpyYzEwUEplOHVPMXhUVkFCc3VqeEhzMkwzMDRTMXFGOVJJTVNoX0dUN0R0Q3BqeENUNEVia2NNZDZIVVE3M0VwcEEzVHEyeWtLOFg2YnE5SUZtWk5EYmpRTTJVVjEyZlFTeTFaZVVvRy1LOEdBYzlPVkpWYzF2YmRmbExXYUpuOEhWekFTS094ak84Z3RWUmZwaXNQWnA4SzBhbnhmdjNOVUEycTh5NjNrMG9GclhDMGUxeF9iMVJZM1NXdkxiZVE4RE1sUkZOdDd2RkpPaU5nTUhvM2QzMkFNZFVFNjdtVFViYjVrRFVSa3dCQzNXRWRCRUZWd0hYVmRsMFE?oc=5",
+        "source": "MAP عربي",
+        "trust": "A",
+        "published": "Fri, 09 Oct 2026 13:01:10 GMT",
+        "discovered": "2026-10-11T04:38:03.199068+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "بنك المغرب يصدر وثيقتي عمل جديدتين حول العملة الرقمية للبنك المركزي | Page 4 | MAP | MapNews",
+        "player": "",
+        "content_hash": "6dcae30b31d779d7db08260d98c1058c9cfb52da33b1f769046afb3d4b577872",
         "sent": 0,
         "section": "morocco"
       },
@@ -1272,6 +1288,22 @@
     ],
     "transfers": [
       {
+        "id": 10740,
+        "title": "في أنّ مشكلة لبنان أعقد ممّا قد تبدو - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPZFVZQ1JjODRjRGJDNnYyaklWcWVsb0lIVUhWVWFGRnFrTDlCUkhYVXZPZ0hDejlfcUVMdjI0Wi0xM25JS3hXV0t3NXNwZTYyLWNHQkJlVGFyYXVaQ2hLandMT3hmckRnZXM5djBnY1lwTmY2UGM1ZlN6TG1xX3J5NC1kQ2NLTlNDSER6aHk3WHBHYzFPSFJZaGNsWERadWJNbEZ0eU1aMzF5WlFSUDBCdHVkcnZWaVIyVXlUZkwybWJRczdGQ0dxR0JFZ0E2UmJfSkJXdi1hYnpxYUVQTjJTZDJkcHJScVo2UlU3MjZKZjhwaU5acVVXcGZIRVVxYV96ZWdFZ3duN29HRDlEZ2V5V1MwZ3hYUzdxNHFrYUpfakV2eHdLZU9DaWI3ZzFGNExhUjVHQ1VQdVdEQThPN2I4MHlPQUt1Vm9Tckc0LTByRnZ6bFBiYnhIanlMRQ?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Sat, 10 Oct 2026 23:13:24 GMT",
+        "discovered": "2026-10-11T04:38:24.420692+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "في أنّ مشكلة لبنان أعقد ممّا قد تبدو الشرق الأوسط",
+        "player": "",
+        "content_hash": "afdb7adba0045ec8cc9701d067808ffa3bef8b13046e2262e3888024a41dd0f1",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 10724,
         "title": "كيف عادت اليونان بثوب البعبع الجديد بعد غياب أكثر من عقدين؟ - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOT1J5c1A3Z0tFWW1wTkUwczJjenBmMnlNTlhVMkt4VWJ5TFBjZnRZZXNmb0NZVENqMmZrN2pNQVprQ1dqN2JQVkJHU3l4anFMeVRjS2lZd3Z2ak5PM3FBRkkwZ1ljMUNzLUlLbndERDRfSjh3djcyejZmVlpUTF96Vjl3UXZlN0JNVTAxSFIxQ0dZeWRvejNkVWJ5VUt2aHZrOTZpaHFPSHFEZTRKd21IQjVoNnlpVTdYanNoemMtc2t3MkNzMGlxVkhGeU9CUTdXR3VjeDczNnBWYlRvWkRxc2RHenFLZlMtSDRMR0plOEFrRjNJUUd6TEVKNlhFMm5tX09ZZEVNNTFYNmptSmM4bkhTYlY4Qjd3MHB3aGVVTkFUZUtTemdHcTJNUlJMM1BMa21iX0NNR0JMUEFrbXp5bDhyTWtSLW8?oc=5",
@@ -1732,22 +1764,6 @@
         "summary": "شارلوروا يمدد عقد الشبل المغربي خاليفي جريدة المنتخب",
         "player": "",
         "content_hash": "4edcc7230538a64d8cca98a0b6f49fc1b87a92d3e5f8b19882e7747a7ad38d56",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 10238,
-        "title": "تعطل ستة مراحيض يغيّر وجهة طائرة فوق الأطلسي - العربية",
-        "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOXzRHREhjWHdSZjZINl9wY0JzblVUcnBwNi1LX1hPU2lHX2NOWmZYWVlTcVNScGx3T0I1TDZvNW1QTE5qcGQ1U2FOcHJybkExZ1hrQlJlVlNZcFpQQ0VIQTAwN1d6a3QwRHVqb3VsOUl2NDc4SmIyY3JBclBTUHJJWDFOSHN3cW14SWY1aUJzWEcwaFcyNnF4OHNYTmlNdjFtcFEwbjRuWDk5NGlqbkxLZEh0Zm9fR05OcFpIN0o5V2htQ1ZmUm1RNGswUzk1ckRwcVdTZnNLQWdGUndCTFRTVmkzM0VBNzVYcUQtdXQ2YXlBY0tQNFg3Tk9IcmRrRkVrUktCWHg3YVVEbHJrQWxsRmpWZDdBMXZHZHJFdklrN2ZTVnZVWHNMMHhwRVdEYXFvcnAyOWxaNWtMYUlYd0xiZ0JMcklyRXdFMGI3QTZSWkRUZ1JCQUszVjNYOVNFdEt2T0FZMTFaQWRSXzFOcGs0cjBhenFzV3lURzdwS3dkM1JoR09rUUHSAYsDQVVfeXFMTkJ0UTBtc1lZLVJ4UHNveGszaWxPcDhQbHlNOWwwTTRYSmJBck81VERYckZCejcxWTdjMlptbDlQSFo2b1h6Y3I3dEdGTlJNZ3hTcmo1T2lBVl9zU3ByX0hiYXBfZFBpa0wwTk9xR1V3NlFhSEFmX2hmb2tsWmZtY1V1VXlUVS1xNVphaHM4LVdwZXFaY3o5TVJyNFQtWGdrTnpNSk5hZTIzaGs2X1pGcmFzcTlJS0VGN1Z4WGhPLUQ3Q2hoSW5BbzVYdHI0NENDLWptZWdoUjRPaHp6aGtBeHZha1pENVRXaDE2YmxuTWRsamNYeVpXUVcyQzB5VUxQR0ZDcC1KV3dHenlWNUw5WEFQRWl2aWFvZnFGc2VpVUUzWUhNalY0cm1Ec0NoUTdtenE1djlsNC1NRDBMeUdSX3pybGRwWklXdWI0cXNERGhRNFd4XzY3SmhVSTBIREJfSDdHSUYyLUY3Y3dIMWdoaEdHQVJDSDdqVkVBTEEtZWhfa3VzMjhxd19pckk?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Fri, 09 Oct 2026 17:14:00 GMT",
-        "discovered": "2026-10-09T21:38:04.694843+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "تعطل ستة مراحيض يغيّر وجهة طائرة فوق الأطلسي العربية",
-        "player": "",
-        "content_hash": "a19a47824bb12f4338dc28f7c21a3c7bee7c38b7ab8972d1de81d19747b7a4f7",
         "sent": 0,
         "section": "transfers"
       },
@@ -2392,22 +2408,6 @@
         "summary": "إسلام آباد تؤكد تواجد قواتها في الرياض ضمن التزامات \"حلف مكة\" France 24",
         "player": "رياض",
         "content_hash": "30847de0581c13d2b7bc11496eb7f83c6476ebee487740b72b197133fde73d14",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 10480,
-        "title": "مصادر: سقوط قتلى وجرحى بصاروخ حوثي وتوقف حركة الملاحة بمطار الرياض - DW.com",
-        "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxQZmYwSzJkSE5DR05oekpDWjFJYTJXTmQteXpUVmNvQ0JydTdlV1hQZnRxZXNQRWpxSXNudlgzWEVKX2xfZVdpblJ4ZDB6XzlIeC1TNXdJYkNIX3NOWDBlN1pVQXU0UVFXZlE5S2txWUI5aGtjUlk5M3dvckxHQktjaENmVE84QTdSSGdILVFYM2lYdzdBYlRpa1VaRlVsaWVwSVVWNGU1Smg1VDlXZFBqNGt4aGRGUTJRM3FMMTVGX1ZCZWlZZEdYZmlTOS1xdTVEVjRHVk0xR1lHWWRaa2ZMRndKRGZMQ1oxQnBnbTgxYWxabW1hc1lrOHJhd0R5QUpmMnFQaFduZFFtclZTbkdEVGxadENnTkkwZnlYSTJEYjFGdC1GTmdRLU5KcHN3T2ZEZFZZdmhrVUhWZFZuRWJVU0R5Wk9RSDdadlU4bXhfc1N6WmxyaTVVbTdhejhKTVpqcWo5MFJGVnVoQmRidG1HYkhoNU5GVUV5cUlpcFBnc2lxdEZiMHdMOTNUUEw1dDBpU0VMZnE0V1lNalRtLWdKazhfOGY4TnFNcHdvc1VvY1U1X0NVaF9UQmJ6LVNsbmdFOE9WajkzbHdHRHdUajBJOGpxMDRMa3R5Ykt2WDQ5N0dzLTRpZEpsOEVNVGJTbENHWklyczNoMVRZMW5CYnY3QWtISndwR0xJZTJMdzR5MzBFdw?oc=5",
-        "source": "DW عربية",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 07:00:00 GMT",
-        "discovered": "2026-10-10T15:59:48.059215+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "مصادر: سقوط قتلى وجرحى بصاروخ حوثي وتوقف حركة الملاحة بمطار الرياض DW.com",
-        "player": "رياض",
-        "content_hash": "ff22bc6b06f62b9c5c68bc7b826381a5588a7f5de09a3110fdd1cddee7c9899a",
         "sent": 0,
         "section": "world_arabic"
       }
