@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T22:03:21.211547+00:00",
+  "updated": "2026-10-11T22:21:47.797109+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -354,9 +354,41 @@
         "content_hash": "908e86efb893a502a587e2fee65c42dd91a1f30464984d45b18f5094430cf600",
         "sent": 0,
         "section": "morocco"
+      },
+      {
+        "id": 10799,
+        "title": "اللجنة الرابعة.. الگابون: الحكم الذاتي أساس جاد لحل واقعي لنزاع الصحرا ونشيد بالتنمية المغربية لأقاليمها الجنوبية - كود",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPa1RvYjFvU2xlbXFTZmZENTVQSzl0em15MWEwTEdoeDlTRDdJQU92ZW95aEV2aWtaeWZBOXprTG1wcHp3b3d4SlMxRm82U1lUWXM0Uy05dG5ZeE5ncUtrR25oeHdvOHRTRHJNcjRVY0dMTl9fWGxPLUVMRXRpTlJRRVRuYUV1TTltdUNWNDhWRGFMaTU3dEdTdEF4d2dueWdkdV8tdkpONG5UajhNMzF4dG5BRHN3eUVMYlVyanR3bm9sQktyWThXR0xDcGpCci03QnFBSU81T2wxc01kUFhhelVveFRCYk05bnhfYzJyUHlEOWFaZWg1SkFJSWl3dDNLWXZfVlVuUTBWZ2ZMeTJEUENpeFN6RjZueTZ6WkpoU0w1Q1hTVkRGVTY4N2ZrdTh6NDRIWXVRZm9XWVlKVlBYNzc1bTU0T01NZ1E?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 13:43:52 GMT",
+        "discovered": "2026-10-11T09:23:53.425087+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "اللجنة الرابعة.. الگابون: الحكم الذاتي أساس جاد لحل واقعي لنزاع الصحرا ونشيد بالتنمية المغربية لأقاليمها الجنوبية كود",
+        "player": "",
+        "content_hash": "823a47f7e22acb54a9755d6e87a2661e6ded5298dc413cc0a79e3cc6457ee1b2",
+        "sent": 0,
+        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 11048,
+        "title": "مدرب الشباب يبدي تضامنه مع السعودية... ويشيد بأداء لاعبيه - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxOS0p5SmFRa0REU2VmYmN3TlVuLUwzbVRnSjVZMlViSXZYaC1qRzdpR25IQ3Z1cnVPWWdkWjJXdVNtTlRQSGVXM0hEQU1wUlptcjlVZE1jd1BqSEgwSlU3dkJEVXVVN2h5UE1PZlBRNXlBZFNjQ2VzTjJTUUh4N19ya3N0a2N1aV9WMUJGTkRiQkhpOU9EN2ZROFpQRDJTTU1OMk5aYklpbWRDYWZLb1hvUHlNbEFBMmRjaE5lbURrUnZhdllISlJVYlR0UC0zaWdqcFVBd3FiWDBJVDZjcFBGbDdkU3RQaUhwbHRzdVptb2dlMGRXUGU0T2FTZlplU29sSW5mMWItVzgzVE02VWJEdnZHQ2xDb0JvdlNvZjZ5c0JWLUc3Wl9ORjl3UkZ4aVgyN053c2hPVmlydVhrYUF1c3Z1NWU5TWVrcF9yaDFfSkZLRXNyWFJsRWJZSllPalBTVnF5WEdJVGF3V01DVFZMSFUtT2hwWGxnVmZ5T2c2eXdTaDhNdGpzREN6bTBjSDJwQzZrSGRTcVprZlVlVDRKS0ZYMWNHd1JUR2JpWTBHOHhTMXF3TWxUNXduR3E4ZW9aWXd3RWZ5SUhfX3NDZUdhcklYX1BOYlJ5VEhUVlhKbzl6cnBSWkpya2RFY0pJRk82RGY1WHFqTnd4bjlSQUUzbURmRWswcHlEQkNDUUh3VDBqZWVJQzJkVEs1djFmYkZSUTFmMlVGYWZyaEpzeDItMHZQRlBVdmZHTlVDeVlJLTVxMEhFNGZMV19IN3NDTDg?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 22:03:11 GMT",
+        "discovered": "2026-10-11T22:21:24.403625+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدرب الشباب يبدي تضامنه مع السعودية... ويشيد بأداء لاعبيه الشرق الأوسط",
+        "player": "",
+        "content_hash": "e0edaff0bdf1b2cc2fdaddf7ff83a3861ace626a2ebcafe454506678a7647bbd",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11044,
         "title": "مدرب التعاون: نستحق الخسارة أمام الشباب - الشرق الأوسط",
@@ -1140,22 +1172,6 @@
         "content_hash": "d79e25fce8f63b7ab8b5b379180f9bb7fc678fd019cdd458b0060c440a450491",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 11003,
-        "title": "تيفو جماهير الأهلي قبل مباراة القمة أمام الزمالك - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxPLVNOdFFGZWpiRVh4YXUyRFJJSjE4SE1fVERNQjRlVGxNeWVxYTNNOVJkLXdIWUxKaEdXbzVFZlI3S1hnX2E3ckhHYnprM2RPU1p6TW50T0hIRE1KSlhRbjVaeTBNNUdIbTlIV1p3WjNqdkJBVFh4SFR5WmJ0ak5zWG5feEM3QnVOVG4yOV9HR1ppNjlqdkdYdlBiSFZDTktucUVOYU9QcnNkdmJkOTNfYlhGTlRsMXVQSzNxaTNnR1F2MkQ2MlJSUkpweGJweDRyTUtFSDZNdFZSR3hfQ0JVNXBoSU8wOFNqZWZLS1ZPSUR2UXFCRDlBWkFFUGhoU1JJQ01mZGZ1NTFFVUo3OC1DX0hfa1hjZm9OM3dBdGZDXzRqUDZIb3U1QTk5aWk5TDNfb2hEdWlTRS1KUlhDRXloTzl1MUI1eUMyU011enQyMGtUV1VDdUIwS2o1UjBEclBDSDMxOHV2b09fVDVLYkpfN3Z1ZktrWi1oOUk1REtFNkdLWUlxSEZBeFlSRklHb0tGUTNRaDFMVVVXbDBRUXNnM3d2VXU?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 17:21:00 GMT",
-        "discovered": "2026-10-11T19:59:06.647181+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تيفو جماهير الأهلي قبل مباراة القمة أمام الزمالك يلاكورة",
-        "player": "",
-        "content_hash": "64424e6fb743c8680a118e5af6641cb59aba9c10fa6a0fc0b9315f154d9e95da",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1544,22 +1560,6 @@
         "section": "transfers"
       },
       {
-        "id": 10548,
-        "title": "رقم قياسي.. حكيمي يوقع على حدث تاريخي في باريس سان جيرمان - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxNQkkzTFlBS0ZiY0lYTV9fNUFxaE1HR29RTm1XRW1abVR4bkFudDVYeHNhWTQ0OGJ0Y1I1OEtJTG9uWWlhR3JFTENyc1JUWDBPR21fbUFhSnI2VHdNZWpRRnhROGdzX1lsX0huMFJzNURlZ0pKekZYdDYySXVicXpJUjBWdnBEMHMzTmpTZjZTdDc1R0V3TGxvZmVEdjd4SG5vTkxOUUVVTkxmbWs5eGljaS1NYnlseDdJREJXOWV0NEZfcUc5TW9LSTJCU2dmQXdrMWlKVzZGbUVGWUthR3dBVlduWWZTZDJrcmR6V3RKSy1jc2FSZlJzaU9jUWNQWjRSOS1RVFVJZ0VtRGsyN1BnOWttM2VHNl9CendiX3B1cU9VdjJPb3d4UXN0d05aZHhpX3A5azRacW44Yzd5bVdBeEtwRHNubFZrWlNiX2FGYkdRQzZkekN4cUxVcTRXcTVRV00wSnZTbEpxcHRGV1JkNGFrb05jLWI4X0JwUXlmSDFvOGwyZFVJMC0wN2owNXR5REljOVk1R2FIV0EyM3lBNWpvdkIwaTJOeWRpUUJXS3ZVYml3YVF5dDd5aDR4S1BydlVKOGVMRzJSNXZpQWJWOFgtTkY5NTZYZHFWZUlhTHhvUjdXbHUxeTEwbEF6ay0yMHJyMW1ocjAyVjFlMldTdy1QSjhBWWRreEtscEV6ZWtPcnhTRHVJZHpvV29iMWRDeEthMDNXTXU?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 19:43:17 GMT",
-        "discovered": "2026-10-10T19:49:03.327315+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "رقم قياسي.. حكيمي يوقع على حدث تاريخي في باريس سان جيرمان Kooora",
-        "player": "حكيمي",
-        "content_hash": "2119f19375e9245680a6ed0b753a76408ec622e6f9971a9b7c8d8829bd7c9939",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 10553,
         "title": "شروط الانتقال من الدولار إلى عملة عالمية قائدة جديدة - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNbVZFNEVSTmphN09ISFRJcjhsbjNRVDZiZTdiZkZtVTVTWmNQNGRRNEI0WEUzZG1UWVE0YWU0SnpMUlhaOEdpYkk0MmpiSE9aT09PMHh5Z1RwSEVEQ2llYmdvOXg3c3ZUczJ1NEs4d3B4Y2hxSlotcmFaeUg1MWdrQTU4V29HU2s0QnQ5bDhzdEZmSWxmVFZpRGl5ZU1oWXdGLTF5NURnYkRTQUpLOHNRYm1rN25GWTlGWG9uOUh3eHJMVk1EaHY5S2t6YjdaeXBqaF9JNGpVZkJWU3VkTEctNVRtd09kaExnZFNmTl9Fa0FWRTFna2dpc1FFRWI5UkI3SElHd1pobm4tRGlZS0laTVpwWjdrWHZUa1JMYldkcTNSYUp5SkhnQm9ibEhLaU0wd3d5bHhhLU84aGtLbEdXdFVfeERUSlE?oc=5",
@@ -1862,22 +1862,6 @@
         "summary": "ترمب: قد ننضم إلى الضربات السعودية على الحوثيين بعد الهجمات الأخيرة الشرق الأوسط",
         "player": "",
         "content_hash": "85b192cfc64617b64c1b96645fd1ff9707ef4cbf59bc309b62ee5767b150fe1a",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 10547,
-        "title": "قرار رئاسي فلسطيني بتأجيل الانتخابات التشريعية إلى سبتمبر 2027 - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNUDZVNWVNRFdHNWlHcjhNMW1yS001Y01ZbUhxYzA1UEk2Z0xTQkxRT1FkUXhyQjMtQjNUOG5JN21XN3g5STk5SDF6TEdyb3JjUFNxRU5PczBBY0o0SEVSMEw1SUN2RURjSktabm5SN0ZId3BaNmE4RGVDWS15SUZINEJvRTlaa1FkSkhZSGtaTE9KRzFaOTd0eXVfQVd1Q0RsTDFFbFpudlE2TW1ZVVRHTW1aMjN6Mk40cjV5dTBUVXZ4NVRuaTFPUHdNcjkyQ3Y1bm4xQzJJMDRtV081R045UUt1Z1VDclI3ZmdkOHdjZDdrNnR1OUloVDJMbG4xOE5WTmJvZHFZWFI4UWFUajBlMkVqUjFzNVpEaGxOZ21lMWpTb082M2JhNnBiZ1lERkRiMmVPVThWOWM0MGozQVBXUEFFM1RjTk92QlA5WUhNc3Ffd2lVRWpKUnZn0gHfAkFVX3lxTE1Bd2RNVmp5MU9uckpqZ011MnNMQXU3UnB0ajlJeXNWY1NnLU9hZlg5SG1tTGZVa0U3TGE2OVRkWkdQLWg0V3FsdkRuaXF3NXRCRnhYNHlNQ1VKX3ZOdFJEOHh2ZElHNmFOb1l0cTNPZ1BVWU52T08ycGRHSGxqN29tQXdianUwUDBNdHZRdjg1UnVITktWcnp2VHdjeGpiNENMUHNLZUl6el9YamZJQlhWUTJudUNTX1NlNVl0MEpKVWp4NXA2a0V0UlBPRkQ0UVktTmQ2OXRkWnNQZWFXNko5anR1UEFjVTFneW5ubG1Fc3gzdU5OMVRkY25xYjE0RG4zWFlkZHRYMzhWMmotbTY5dXBiaXZJUTlybmFkUVJQVDk4QWEyRjlDWjJRU0s3Z1hnODJLZG1FR1V3V0FoeUJ6UW1TM1pPa2VwaUpPOUhuaFRvWnZjbXhLZ1RIQm5STQ?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Sat, 10 Oct 2026 17:26:12 GMT",
-        "discovered": "2026-10-10T19:35:47.095452+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "قرار رئاسي فلسطيني بتأجيل الانتخابات التشريعية إلى سبتمبر 2027 الجزيرة نت",
-        "player": "",
-        "content_hash": "9aeda6421022d9cf6422a14aaff380021e50b809a37d336cd8817cf303610e40",
         "sent": 0,
         "section": "middle_east"
       },
@@ -2248,6 +2232,22 @@
         "summary": "على إيقاع الخيانة والانتقام.. بدء عرض مسلسل \"طالع نازل\" CNN Arabic",
         "player": "",
         "content_hash": "d24b124911f8c17557ac683826d95b9747066caaf39bde45e002239542f4f25e",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 11049,
+        "title": "مباشر: الحوثيون يعلنون مسؤوليتهم عن هجوم السبت على مطار الرياض - France 24",
+        "url": "https://news.google.com/rss/articles/CBMi4gVBVV95cUxQV3dOd0dmbkZ2MmNuR3g5TUxNdnU5Y3FxcWhhaWRXY3hseThGaWEyRW5PQU9tT1lrSG1WQnJnMEk4X2tYV1YxUWxHVU9Db2Vmb0ppSVNabDRWdGk2Q0FxNUxtN1g3d2VSbkdPSEZKbjltN2dxQjhPRV9uekgzMVhPS2s0bDZ2RWFySjgxamU0amlLRnkzLXJwMUVNWnFGeWZqQlpiSElTN0VSUGtmTm8zT0ZYVEUzd25VeGR1MURzRnh6UGZ6czZtWnZvSjRWTFlFRWlOUGc0WmZ1a2R4MmR1TDU1LTZHbDZFQU8xbm5NLURDX0Z1SjRQRkJ5bV9zakw3bXF1ZVBudy1NenFyZGpkSDdVMG12OVFuU1prN0RWa3VaSzNLa3ZndndqMUxyVnBLYmJoRTkyckNVX1BoM2ZNQVM3TnpaQmVsdlNnSGxuUDFxRDhzeEZaUDNVRktRRnJNZVhpTV9meDFESDJmTm9hdXRGLU1sT3Rya0lPTGNrcWNlNVlWYmRCdnlmSHFmM3hZd3BJc1hpS0Q0UGFwX2ljYkpSdkNJWUR6S0dtV2xnTWcxMEpjb0JMVlZmU1ZDczF0bU1tOHNHMEdRRFZGazkzMGZQa2d4RHdXZ05qNXo3TUNZWEhrSG8xSUVrV0p4WXZTWkk3MUljREpUOXVhVmxEZGdQM05OY29Sbk12WnMzclFidjR4TTcyV3NTSEFrX2ZUNDBqdHpKNXhoYzNIeVFvRE1XOHdacWY2c2twLUVyQ2lWVVBKTDgtaXZIUFNCNnlZbGNvNVNvRkJGZjFYUVRoY1NWVXhRRXNsdF9CdHhCUXJ1Y3daTElzRURyaWd4TVZZM2FXenhnWW54U0ctMU05N3VCenlVOUR4ZjJLR2NaWDV5Q00weE5MVFVQMWJqMUVyS19kX3BFRkVESGV4MUpuMzB4Qlg3YW5uaGZjOG9QeWt1c2JmNHRZT0NWcHpLZ3Azbmc?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Sun, 11 Oct 2026 05:09:01 GMT",
+        "discovered": "2026-10-11T22:21:42.057287+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "مباشر: الحوثيون يعلنون مسؤوليتهم عن هجوم السبت على مطار الرياض France 24",
+        "player": "رياض",
+        "content_hash": "77a3107feecc71f1ab6721a7aff9a06d01cf781f3bb656d6ee86042dfa06d110",
         "sent": 0,
         "section": "world_arabic"
       },
