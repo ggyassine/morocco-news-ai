@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T21:53:01.027400+00:00",
+  "updated": "2026-10-11T22:03:21.211547+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -357,6 +357,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 11044,
+        "title": "مدرب التعاون: نستحق الخسارة أمام الشباب - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxNaHpTeVpfMXdyczRWN0ZGeGRILTRXTjFpWWtSOEowOGhWRlZtMzU1TzJnaVdzSXZCZ2FLQTVRUng3YkNHXzYyblVGLUlJNDBrVjVNYUNQN0ZPaEljSWZiaGVEZWVUcTE4dUtnVU9NcTNxZ1JlakZDVDM5blNFd281dERUSEV5OFlId25BSnE3UUw3MUxLbGhqV1hkTWk5V0c2TmtteDlWYzR4RXFkV0lnRHV4clhUTDJBTElQS0NHbUo0ZXluUzdmUVFHcVhUQzYySzdKZm90YkNJX0tKc0NYdWxxeVUxUXZXR01kTWo2ZGhIRVdTMi1ULUtsaWY0aFlxX1F1UDNDTjgwTTh1cWFCei1La01reVZ1SVc3NW0xNDdYbVQwZjg5bjd0SzhVeks0NHdubWFrVVZ6MFlQd3kzZ2ZkYlZKY1hkOUpUNGNNRlc2M19pVGJlYUctcDM3LXo1SzNxbHFKUG9BNl80RkpxclQxMUJZWDhjTG1WcVVTSUJrcUpkYWNnTWVLWWVZOExEc0t5RzRRVkdWM2VLaHdOcTVXV29oM1A0NkoxR19NQmdha05lRW1mVnVYODFHYVZlOUI0eldHUzJhVGpsRUEtNWZMT0YxRFZGSGE4TE50cUYtQUk?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 21:51:16 GMT",
+        "discovered": "2026-10-11T22:03:04.286261+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدرب التعاون: نستحق الخسارة أمام الشباب الشرق الأوسط",
+        "player": "",
+        "content_hash": "098a2e96c285b6950142c1c00153f432b47ea02a8bd8bbf7583515dc3528e4a5",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11040,
         "title": "فيديوهات | ملخص فوز كريستال بالاس على نوتنجهام فورست 3-1 (الدوري الإنجليزي) - FilGoal",
@@ -1138,22 +1154,6 @@
         "summary": "تيفو جماهير الأهلي قبل مباراة القمة أمام الزمالك يلاكورة",
         "player": "",
         "content_hash": "64424e6fb743c8680a118e5af6641cb59aba9c10fa6a0fc0b9315f154d9e95da",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10926,
-        "title": "الجابر لاعب القادسية: اعتدنا الانتصارات وسنصل بعيداً في الآسيوية - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxPM3JUcHNheHFJVTQ1U05rbnk0TEkwWlI4dTZmTkF3WXlyQkgtMTZ4d1hGZE9jT3hEQmxQeFR2UElQVlBEZkZaeVVUSTV0VmdCNHE4RUpMVmFiUTY3bllRN1QwcXFYUmxHQkVJanZiTkhPcTdiMUV6NnBVWDN3ZDBNcW9lc2xOd2F2VnJPV1doZGdwQ3ROem5kQ3lYaVd0MlFoMS1TWFRPREFQZFgzdzBxTUx0V3hjSVFqc1czazR1OGZVWG1ZM2RRNUZua0ZiRkt0Z3FxOFBMSmc3MUs1UGRlMnAzMlpYV3A1cjI3QnRtR1NOQzBMdlNDMG1fWFlFVW1lWkRSd3E5STdLQWlZS1l6TWw4TzkwSE44S21CZzFuOTBnLVY2ZWh2Mkx5OXhYLUZGOFdlWURCbWdxZjFQZElhel9KRV85Q0RJbzZVYWRIVlprdHEtNF9VdFRkX2dvSk9nTzZ5enRRaEJjQVNONXdaMDhJTURXbVFES2NyQXJJRTRqR0VBTDVJaExORjVySEN1RUk4T1k3Z1VvWVphX2Z2ZU5WekZrWVcwV0doNEIwcE5NSXo3SHZiMTZNOUVXSTdrcldvN3Ywb3FkeHVlZU94Y1NSUVNDY2lBQVhJNWZEY3NXRzZ1UVRQdjlNQ2Z2SFQwaUlCVkh2ZlBOcmtWekxQZVh3OWhaM3FQRVhCT0piWU5TckJQQm1RVUZweTZzWklFaWxnQnY4TFJwWEF0cVJQRWRxVFcydlJvdVRPM2Z5NjNXTU9ueFFrZWpBcjRNZ1I0emNHbDdqZlFRVHZFVXFiQVdUTDFLUXNRbGYxVTlsMDFpQXpZQnJFczFSN01NTGhEOF8yOHlORUpMbnlWTHB3UW5oZ2Fjb1k?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 17:18:30 GMT",
-        "discovered": "2026-10-11T17:37:14.828793+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الجابر لاعب القادسية: اعتدنا الانتصارات وسنصل بعيداً في الآسيوية الشرق الأوسط",
-        "player": "",
-        "content_hash": "24f7554bcffc6ac9794a762d9d6441e1a604c238a3902dba0b78c943c65dbaca",
         "sent": 0,
         "section": "sports"
       }
