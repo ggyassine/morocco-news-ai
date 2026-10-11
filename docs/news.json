@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T05:07:24.048830+00:00",
+  "updated": "2026-10-11T05:24:51.727316+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -2076,6 +2076,22 @@
     ],
     "world_arabic": [
       {
+        "id": 10753,
+        "title": "رئيس وزراء باكستان يدين الهجوم \"الشنيع\" على مطار الرياض - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPdGVPNGtZYzNJMkRUV091c1kzTVltVmdnNDFyNHdibkVlOW11WVUyUmRvMHA2SnZCdEFFX0gxVWhpX0w2eVVSdGNSV3pBZHVRRE9VeThPVWc3SVoxMEs4ZEt3cm5qMldleHJLV2o4WVhDMS04WmtFa3NaZkQyRG9WNFhWMUU0WEhRdG8xT1phQ3o5UkMtMUhBUHc4S2FvQkJsdE9qSElyb0dLV2ltdFlBNE8wZmFGM3VnRWt5REJXa0l1cHozOWdJb3VaSDZKc2d2aVFzQjh2VVFGYzFIajNuQWJyV2xuVzVGRTllTjRtUzk0cEc3ckd4R1c4Ri1vb3h6VFU2OFU1RTV1YjRTUjNJNmlkbW43MmpLWmt3T205U1dpQUFLUUUydVctdktjYUlTTWJ6YU92MTZvVmk1cGxYLWdiVWs1QQ?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 05:08:43 GMT",
+        "discovered": "2026-10-11T05:24:47.223029+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "رئيس وزراء باكستان يدين الهجوم \"الشنيع\" على مطار الرياض القدس العربي",
+        "player": "رياض",
+        "content_hash": "96a8cf0fa72905b562f64716d2dec68313ea475a0a3faca412f46ae9040fc237",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
         "id": 10721,
         "title": "مقتل 12 شخصاً وإصابة المئات في هجوم على مطار الرياض وترامب يصفه بأنه \"غير مقبول\" ويعتزم التحدث مع بن سلمان - BBC",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CLVpkdzBwVm92TVpza01oMDBDLVFFekROVHEtcjV6bWNnTkxldWV6QmdxeWN3U2pVZVBDd2xMRmtMbmZBMjkySVZ0MDltSS1QQlpJVUR1TC16bHI4YlHSAWNBVV95cUxPTEFfanBRR1NZRFBzYUZuOERPRVdjOHRjN1Q5NGRZZGwtOVdhMmVUek1hdXgtR3FjR2RFcFdxdFVLSlJoN2d3dVVhbkNrZFJjMGNQbnU3NVFTMGRacDlkQnB5Sm8?oc=5",
@@ -2392,22 +2408,6 @@
         "summary": "مصادر: سقوط قتلى وجرحى بصاروخ حوثي وتوقف حركة الملاحة بمطار الرياض DW.com",
         "player": "رياض",
         "content_hash": "ff22bc6b06f62b9c5c68bc7b826381a5588a7f5de09a3110fdd1cddee7c9899a",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 10581,
-        "title": "السعودية تعلّق العمل في مطار الرياض بعد تعرضه \"لاعتداء\" منسوب للحوثيين - DW.com",
-        "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxNcjlsSGd0bko4Ml9seFVHaFl0ZnF0VVdRN3JjUzhfLV9uWXY4b3lMVlp5QkRXTXRjZ0k1bzNFTVp2YlR5bndMMzQyTWY3S2k2a1AwMGVBcmFlZXpKOWVJVHRiSzdCZUZUYlMtWWVlLXVaZHI4NDhyQlg5RHVfeVhianluYU5uR1Ryeng1RmV4Z1p5N2lDQUZTX0EzSkk3Z0V4SEVKX3dGeHdya1dvRFlPX2FaMzBGNTZXa2NFbGw3bk0tTlZ2MmJxTTNrblVEcTEtMzR5VzJiZWw2V2NFT0MyblNfWi1rWC1IQXdSYnNqdElOa1BzX0JxRUlIZ2plZGdTeV9XZmhkSFQ5NDlpaTVSd1VWdkUwUmpveWtRUkRTY1RxY3dLYlBweE8tTmxvVkotM05HS2xTVW9GdFhtMndHd2txemIwcVdQX25XZHlVekNlVHV5Zk9BajVCdnZTbVhxU0hqSC1OX1o2emNLcE95RXg1MDFiNFBlUkRwMl9KX3dvOUMxaExHNWloamdRRXZocFlMXzlsR0VkWWFnZjNWR2VWekFmcFJDMkRUd3FuZmhRRnY2bWNqN0hMNWFGc0s2U0wwZnNQaDFzUG9yMVhNVjdIbVRKRUhIcThWUHRtbDZ6MVg3cW9yX1MxRjZDMU5tTmxfZW1xUWJId3dsaWxIdmZ1NXU1TEhITkZSbzhtOFpxbUtZNjhCbmh3YTlvOFpSb25jR3k2bTBRZw?oc=5",
-        "source": "DW عربية",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 05:28:06 GMT",
-        "discovered": "2026-10-10T21:16:11.115977+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "السعودية تعلّق العمل في مطار الرياض بعد تعرضه \"لاعتداء\" منسوب للحوثيين DW.com",
-        "player": "رياض",
-        "content_hash": "238b1c9d8278cf13c8dca878f371be5621655c435f87232910581a767d56af0b",
         "sent": 0,
         "section": "world_arabic"
       }
