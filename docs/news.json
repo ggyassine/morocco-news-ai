@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T04:38:29.381764+00:00",
+  "updated": "2026-10-11T04:54:50.998940+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -244,22 +244,6 @@
         "section": "morocco"
       },
       {
-        "id": 10242,
-        "title": "رجل وامرأة في قبضة أمن مراكش لضلوعها في النصب والاحتيال - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fX2l3eVNEVldXMTh0NmhIMmtoT29tN18wZDI0bzNad252TUdFa0dGdTRob0xkc3hrQ0VYdUZBZkhjS0d5ZkJ3ZjFmRG5yLUdlcURrMFh1Y0JSS05yQ2VFM2RmVExSdw?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Fri, 09 Oct 2026 21:51:13 GMT",
-        "discovered": "2026-10-09T22:24:43.109295+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "رجل وامرأة في قبضة أمن مراكش لضلوعها في النصب والاحتيال Le 360 Arabe",
-        "player": "",
-        "content_hash": "c89f01e37b2b87f20807123bfe08eaea5df162530eea34d01a94230be50e70e9",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 10388,
         "title": "ملك المغرب: الشراكة اختيار سيادي ولن تكون محل ضغط أو تهديد أو ابتزاز - الشرق للأخبار",
         "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxQRjBaMG8xWDZKSGYyZ0h4SFdrTDdDMGFJWUhXLW1NYTE2a1JkU191YnA1TXNHQ1BjUkxlb0ZidWdMWGh4UzBEUjRhQ1NISDJGRXZsZ1lXNXJPR0NtWGRncjQ0eUVOclZHUUFKekpnamkxNE9rVkRTd0ZvSWVFNnFVcE5KbXgtZGVibVdLWmp1cGNaRjRiNEhOWTdwdm5ZWG01alZERklVVWZNaURXMDRlMFdKaFZ5SVpDaHNNcGxocW1wYkw3V2ZBT295Rk1SQ194Vy13VTZOSTZ3anpvMkZnTjJMc2tOSktQU2thRUlId0p6Z29oak9udUNOQnRGLVljZl9OU0UyMHpkRGlwRURvYUhBUUdhYkZsTkhJUThrdnhaYXlxd3VYeG5CNWoxTl9RZm9NUE5adTVNQVFsMnBEckpibkdxSnlIUXBVbEM1VWtGZFAycmxxNmxjSTFzX2RWRi1TOU5sLVFFX05OSkZpaHNaTHRTZ0FPYVdZVGE0Q3BwOUFvVVpCQmtxR3B6MXJUMF9UdGZXMGRpNDBUQVVwaHlibThnTE5IWUpndURCSzJEeFZpd3Nvc2kzbFY1XzZIN0w2V2luSkNxWTJBYTRDSHVkUEhkNFVqaWxwQ0ZKWWI3UHk4WXc4Rkdn?oc=5",
@@ -336,22 +320,6 @@
         "summary": "العاهل المغربي: مقاربة المملكة للهجرة حققت نتائج ملموسة سكاي نيوز عربية",
         "player": "",
         "content_hash": "f6ae8081c9853057d42ff7c2ad2cc762d8e4742efebe76d072b01a818eb18dd5",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 10251,
-        "title": "قطارات الخليع خارج الخدمة …تأخر جديد بين القنيطرة إلى الرباط يربك المواعيد ويغضب المسافرين – اليوم 24 - اليوم 24",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAtcHFzb25lRkdWNFBTaFh4dTJ3dkVsS0Uzc0hfNUhmM1FpaExMaE0tV0pqaXRodkpkMlZZTXA2OVE3WmUxRGU3Mk53?oc=5",
-        "source": "اليوم24",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 13:31:35 GMT",
-        "discovered": "2026-10-09T22:41:33.249770+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "قطارات الخليع خارج الخدمة …تأخر جديد بين القنيطرة إلى الرباط يربك المواعيد ويغضب المسافرين – اليوم 24 اليوم 24",
-        "player": "",
-        "content_hash": "d09e25b025ecbbda0b7ba435669d7d0392a23672d800090f17669a875bb70316",
         "sent": 0,
         "section": "morocco"
       },
@@ -2408,6 +2376,38 @@
         "summary": "إسلام آباد تؤكد تواجد قواتها في الرياض ضمن التزامات \"حلف مكة\" France 24",
         "player": "رياض",
         "content_hash": "30847de0581c13d2b7bc11496eb7f83c6476ebee487740b72b197133fde73d14",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 10480,
+        "title": "مصادر: سقوط قتلى وجرحى بصاروخ حوثي وتوقف حركة الملاحة بمطار الرياض - DW.com",
+        "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxQZmYwSzJkSE5DR05oekpDWjFJYTJXTmQteXpUVmNvQ0JydTdlV1hQZnRxZXNQRWpxSXNudlgzWEVKX2xfZVdpblJ4ZDB6XzlIeC1TNXdJYkNIX3NOWDBlN1pVQXU0UVFXZlE5S2txWUI5aGtjUlk5M3dvckxHQktjaENmVE84QTdSSGdILVFYM2lYdzdBYlRpa1VaRlVsaWVwSVVWNGU1Smg1VDlXZFBqNGt4aGRGUTJRM3FMMTVGX1ZCZWlZZEdYZmlTOS1xdTVEVjRHVk0xR1lHWWRaa2ZMRndKRGZMQ1oxQnBnbTgxYWxabW1hc1lrOHJhd0R5QUpmMnFQaFduZFFtclZTbkdEVGxadENnTkkwZnlYSTJEYjFGdC1GTmdRLU5KcHN3T2ZEZFZZdmhrVUhWZFZuRWJVU0R5Wk9RSDdadlU4bXhfc1N6WmxyaTVVbTdhejhKTVpqcWo5MFJGVnVoQmRidG1HYkhoNU5GVUV5cUlpcFBnc2lxdEZiMHdMOTNUUEw1dDBpU0VMZnE0V1lNalRtLWdKazhfOGY4TnFNcHdvc1VvY1U1X0NVaF9UQmJ6LVNsbmdFOE9WajkzbHdHRHdUajBJOGpxMDRMa3R5Ykt2WDQ5N0dzLTRpZEpsOEVNVGJTbENHWklyczNoMVRZMW5CYnY3QWtISndwR0xJZTJMdzR5MzBFdw?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 07:00:00 GMT",
+        "discovered": "2026-10-10T15:59:48.059215+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "مصادر: سقوط قتلى وجرحى بصاروخ حوثي وتوقف حركة الملاحة بمطار الرياض DW.com",
+        "player": "رياض",
+        "content_hash": "ff22bc6b06f62b9c5c68bc7b826381a5588a7f5de09a3110fdd1cddee7c9899a",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 10581,
+        "title": "السعودية تعلّق العمل في مطار الرياض بعد تعرضه \"لاعتداء\" منسوب للحوثيين - DW.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxNcjlsSGd0bko4Ml9seFVHaFl0ZnF0VVdRN3JjUzhfLV9uWXY4b3lMVlp5QkRXTXRjZ0k1bzNFTVp2YlR5bndMMzQyTWY3S2k2a1AwMGVBcmFlZXpKOWVJVHRiSzdCZUZUYlMtWWVlLXVaZHI4NDhyQlg5RHVfeVhianluYU5uR1Ryeng1RmV4Z1p5N2lDQUZTX0EzSkk3Z0V4SEVKX3dGeHdya1dvRFlPX2FaMzBGNTZXa2NFbGw3bk0tTlZ2MmJxTTNrblVEcTEtMzR5VzJiZWw2V2NFT0MyblNfWi1rWC1IQXdSYnNqdElOa1BzX0JxRUlIZ2plZGdTeV9XZmhkSFQ5NDlpaTVSd1VWdkUwUmpveWtRUkRTY1RxY3dLYlBweE8tTmxvVkotM05HS2xTVW9GdFhtMndHd2txemIwcVdQX25XZHlVekNlVHV5Zk9BajVCdnZTbVhxU0hqSC1OX1o2emNLcE95RXg1MDFiNFBlUkRwMl9KX3dvOUMxaExHNWloamdRRXZocFlMXzlsR0VkWWFnZjNWR2VWekFmcFJDMkRUd3FuZmhRRnY2bWNqN0hMNWFGc0s2U0wwZnNQaDFzUG9yMVhNVjdIbVRKRUhIcThWUHRtbDZ6MVg3cW9yX1MxRjZDMU5tTmxfZW1xUWJId3dsaWxIdmZ1NXU1TEhITkZSbzhtOFpxbUtZNjhCbmh3YTlvOFpSb25jR3k2bTBRZw?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Thu, 08 Oct 2026 05:28:06 GMT",
+        "discovered": "2026-10-10T21:16:11.115977+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "السعودية تعلّق العمل في مطار الرياض بعد تعرضه \"لاعتداء\" منسوب للحوثيين DW.com",
+        "player": "رياض",
+        "content_hash": "238b1c9d8278cf13c8dca878f371be5621655c435f87232910581a767d56af0b",
         "sent": 0,
         "section": "world_arabic"
       }
