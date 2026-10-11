@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11T02:55:19.529270+00:00",
-  "total": 148,
+  "updated": "2026-10-11T03:07:48.009991+00:00",
+  "total": 149,
   "sections": {
     "morocco": [
       {
@@ -288,22 +288,6 @@
         "summary": "بعد أزمة سبتة... العاهل المغربي يدافع عن شراكة بلاده مع إسبانيا France 24",
         "player": "",
         "content_hash": "35fcd6d043c7c1685db47dfb99deed74e860efa57e4275fd482bc5a471d5d24b",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 10222,
-        "title": "سيدنا كيرد بطريقتو على مزايدات الصبنيول فملف لحريگ وزيارة الملك فيليبي لسبتة ومليلية المحتلتين: المغرب لا يرضخ للإبتزاز وغادي يوجد وثيقة لتوجه جديد - كود",
-        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNYXhteGV4YlNfSXRZX3VfSldLSldUV2hQUWl5SFlMdEZvRzgtQTNMT3RhY1M1VzRhZDNBeUh4eWFFRkNPNlEzY1pXREJzMXNBWGxlU2RydHBBcHRZUW1XMTc3SGlVZkIycUZKZllOTTYwVkhPZDloWko5ZHhCbWpsVFJwUTZFUjc4MXpzLWc0OUZIZGZhYW9TNnMyY3MxWnlHcmtmdzBudDhBd0R1Tm1oUnpBZXp4VG5zWE1vTUt0YTFtdFItUU55and4SVlXeHBOZDVTVGRPSjJGZU00ajVMQ2FzV0o3YXpXS2huME5UQkxNMnJualhwbEYwS0NsQkFOeV9waWdBdlhORjE1LXJNeHh3N1hpSmI4N1d2ckFjWHJQY3FPSXVNTlBqSVBfaWRrTHdMdGdtS21OQzh2REFFb1RlYUUtM21FSXc?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 18:28:26 GMT",
-        "discovered": "2026-10-09T21:37:45.386575+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "سيدنا كيرد بطريقتو على مزايدات الصبنيول فملف لحريگ وزيارة الملك فيليبي لسبتة ومليلية المحتلتين: المغرب لا يرضخ للإبتزاز وغادي يوجد وثيقة لتوجه جديد كود",
-        "player": "",
-        "content_hash": "6c62185a877cfbea32229a0f780ddd6182d75e22043f9471a24d9ed64013afec",
         "sent": 0,
         "section": "morocco"
       },
@@ -1126,6 +1110,38 @@
         "section": "sports"
       },
       {
+        "id": 10725,
+        "title": "وداع أسطوري وخطة شريرة… هكذا بدأ عصر المنتخبات الدولية الجديد! - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNVHlTU0M0aThNRmNOU3FYa0Uzbi1aT1BTNWlqMTlrYjY3WW52c1BaVDZMZTEtUENoRTVTNXp3UG96cGJwLV9uMkF0TDNlX19zMEs2N25MalJCMjlHend3ZzRJWUxabWYzdXZodk9Jdi1URmNibWhNZ2lGWjVuV3lsaERLUE9ibVRQVGJJVWlRZVZtc0Z1amlsX1pKcEZwNXI3N20zUVVqLXVPbnJScTJoZGVQemZzWmpwcnE4c1dwT3kxNEsxZHdXUWFyQlJjSmNaWUpBS2J4N0MzZmtWOFNuT2RLT1lfVGs2SFB5dTZidV9ZTGRsRThMbnJ4MG5mZW05NkE4dmd5QzZsYTVDLUZTbkZFbjhuVmdZWVZaWmpqZTM0UWdwc01GVlRFSnpMZ1Z5ZVhDNWk1ZzhoLURabVJxUg?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 20:04:11 GMT",
+        "discovered": "2026-10-11T03:07:40.034807+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "وداع أسطوري وخطة شريرة… هكذا بدأ عصر المنتخبات الدولية الجديد! القدس العربي",
+        "player": "",
+        "content_hash": "0abaa2cb0e7fdc165f112d3543f9d4b0eb9b0836090a834ddf73841b505289b5",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10726,
+        "title": "ميسي يضع خططا كبيرة خارج الملاعب مع إسدال الستار على حقبة ذهبية! - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPNVhnMVh4OUNsZlIyMDZpUHhBV0cwOFFfZ3l5VEIxanNOb1Q4eUtyd2hTd1dLMmJIekJXbDgtRmlObGN2UUhzTjk5TGUyT2NhU2lLRXpjWGN5MEs3NTB1YnA3SWZrMGVHUXZjQ2FxMkU3ZkRJSVJJSTlHNFYwSzNqMnNYU19GWUh4OFd1ZlZtOTBSV0diMFRPYkJYWWFMb0NKbzVDSDNTeW53cXFyZ056enVZMEFCaWw1bmRmN005d0hHQkJ2SUFzdW5ZbGk3UFZHRXhwbDE4eEZLTUx6cE9pTWxzUVJvMXV0TEM1Q3ZkUXRsSGNGcEpHcEhSUDFfMThHMWlvQ3FEWXhDcXRWQU9Kb1M2S1ZERkZiaDF5NmxmN1Q4X3Z1bW1rQml2djZPYmxNX2N4N2w4RVB1UGtXeWJ4Y0tQSktMNDVt?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 20:04:06 GMT",
+        "discovered": "2026-10-11T03:07:40.040267+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ميسي يضع خططا كبيرة خارج الملاعب مع إسدال الستار على حقبة ذهبية! القدس العربي",
+        "player": "",
+        "content_hash": "789e7897ffeedfdcaecf84295aaecba9cfc5beb62bca650186c3ea361409e867",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10628,
         "title": "الانتصار السابع.. الهلال يحسم قمة الدوري السعودي بالفوز على الاتحاد - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxOOUVBUXM3Y20wbmx0QWsyVE1pYng0NVZWbDFNd3lwM0x4NnI5cjNqbmN1a1RsNWd6LXRoc1hJV2I3dVQyRTNHaW9BNmI2NUgtWWszY1lyX2hyaTQzaFU2NUw5WWdwSGRKWDJXcDExTDlxMkFKM3cwZDR3QU5uZG1qNENOWTM1QXBkVmJJbU1fZHVPUVBnRXc2cVJ3cTcweTMzbUFoS2N2SnAwLUNGUWJxZExZZklqTWRHS3E5a21ydGRfYW1UYUVzUU1FMlVBTXBNSXZJWFhpY3dXRFFpU21uZEIxYXdnTDBqWkxsMWVmYzVKYmdwdVVmV0RJeERIWVdEdkxIYURoRXQ1NWJlTW90eXVnNUwwQ21iOXlpVWxQTWQ4ZzdJM2c4RDZsNkh1UUhQbXdQcVdZU2wzT1BYeWJZRzZCV1M5ZkxQWmVBZHJVZjlLZXVZSjl6c3NNSlBzbjBZVzVhNUhNRGtobDUtNnN1UWpaTEtCbVlEY0U0SDJPNHZ3dlliZkxpaGJWeG5JZWZlWFVKdHk3YVJRTEZieHd0Z1hMSnJSNjU3TFVackZYQjVTTlFQZVZBZGtiZ3RKYWtuWVJ5VklSSFFrMzlsQk1jU0dkNy04TlZ6TS1JeUpUVzE5NjN1UkFQLVk0SVJPRTBzQWkyalVOa0VwZUNzQVNKUTFLVk1xQi1FY1ljbEVPWTljeXFEeEREY2tZWE1FejJZbkNzcTRQeUg4NjVPUC1BSdIBtgRBVV95cUxPZmlmM2lmaktiU1BsRm5mZDR5ZGQwRUVSX1Q2alMwT0tUZXdOWUw3ZEJxOHRSckFqQzUwY1Vic3diZWl6X1NXTXBSd1lwR3NXNkhYQXItcVc3ZHBmUmVrMW5Ublp5RVhkWnFtZE9CR2Z0VzNwM24tend2UW9mdzVBOHpHZEJ3bjNNOU1yd1ZSYUlocFN0N3FZSXllSHRGOV9KRW5wWnBEWDNpbWNFeTlFZ0gzS3lieWVNYnI5VUtZOS1hbTNaeDhXRE1vZG1waXdKRG5sSEQ4M19IUXRweGlHQ3ZUNWRZbHBvME5HWGtHVDkwbDlKWXZCVlhGUFVQNDJjalFPTFhMWTdKeWxTZ1c4MURCaWZkOHhfQW0xbjZIWlpNQlRpNVU5eFpjdjVua3FLdElkSE1mdzhOc3g1WVBoTnlPQUNUV3A3SkotV3dOMmZ6RE5nYkdIWV8tUTN2dVVjQ0gyZE94cWgxUklXbEdRYU9RNnFFaU9FVVQ1bXM0MkJxQURYcms0YUVSWjhlM0sxQnZuNFhwM1VNMnJtRDg4OEI3eGJJTGRzUmZNbHgwcDRRSGZGU3JaSW9VR2JHS0FPdlp5YzE0S0h1Z28yRmtKLTRJRlRTTlFDVmhFQ2d1MjlTaEVOV0dLcHNJSnQ5dzFrcjB2LUNHaXlvMVBfZmM3VUx2SU9qd3k4d1pqdjZHdHNmLTBsOExjSHM4TUswUDBQMXVMY0J1MTZlZFNtTG5vb1Ixc1lKdw?oc=5",
@@ -1220,41 +1236,25 @@
         "content_hash": "6cfc18e98a65b78ff0c1cf87fd93b6a78870fc45bfe68ed9f32db3cc641ea924",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 10582,
-        "title": "لاعبو الهلال والاتحاد يُكرمون \"العويس\" خلال الكلاسيكو - CNN Arabic",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNEY0T0NXX1ZpRzl2Y1FCVXVxVkZzbk1oNWVZVTNIekMwZzdGSEZlWDZ1VXNyWS05bThzNWU0cXRSYTI0R0IxLWZXWGoyVXBxT1pYaUpka2N1U0ZLcVpXUUIzM1FWR1AtMlVZM3p0aFhVMGg0QWRBRk9Vc0ktb3ZoZEZmVXBTZDFPMDJhVkJOOHQ3UExydDdVWA?oc=5",
-        "source": "CNN بالعربية",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 19:33:39 GMT",
-        "discovered": "2026-10-10T21:16:13.710285+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لاعبو الهلال والاتحاد يُكرمون \"العويس\" خلال الكلاسيكو CNN Arabic",
-        "player": "",
-        "content_hash": "6293bea7063aac4c4f6240a4ab6241a7fee9751cb958a8636ae14d3542a6525b",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10550,
-        "title": "كرة يد.. الأهلي يهزم رينيسانس الإيفواري في بطولة أفريقيا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxPWTRaS2JWN3lXNzJiQ0FCcm1VT3FXTEFnemp6N0NzR1NfMWVCMUpPbGxfcWgtWlF0SG5BeExzdjZ2UVJ3MThMUGhvbmdPMTBfSnhiMFNpTXFZOVFUcUFnOXVuQnpSN0RPUzdWWUU5OE1JdDBoeFYzTHlxNFdOd3ZzR01fVWMzVVVTQ3R3SmF5bFJMQWJuRF9OalRjOFZWY1ctYUZwWjUwVDg5blFiT19YUUhJbDM0clZ0RWRfbjJCRTZrSENlMk9NQ2MzbXQxeGd2QmJ1VF9uR3lENU9JdDgzbU0xN2pCeG8wWkt0aW9wRk9LMHRtNWhDZDd6M1NQczJzMmRfZEswUk5PejhTRmtmRVg4b3NkdzdMSzdoUllveXZoSVAySi1aMmM4dlM0aEFBUFJxeEE5STVLNGNQOEZvMFJLRDktcURyU1d6RnRZMURhSDBUclFvWGR3LXVwQjd0cWN4VTdlQmdrTXRUWXlLOHluZTJsSW14SlVUSXFrX1dGc3VkZEtDTHM4N1BIR29RclIxTWFUV3ljY1VkdnIteU9iZlB2WDNnM0tJN3dIS2xReGlSTzBTaWxyNnk1Q0Q3YnhVQjc5R1VKVmUzNnFBMmcwME83SFJGNEZWR3hPdlVmZnhERDNBUjVpLW5xT29ILTNlemZqckt0OC1rcUHSAYMEQVVfeXFMUGtOeC1faENNNTlfZXR3WW5PaU9lOGVHV2N2QXNPYW9XWHdWT1FtOWZlbC1Qbk16WEVWQkJ5dkMtMzNlWm1hclV4UTlJb3RrTmJDNTVIb0pVbmxZOVJ6bDd4Y20xeXQ4RTBFUXV6SmpCUnJTYlFjZmQydS1DbWVySzNVQ0FuOHd5NU1PdlJTOFlEdVBtMkJiWlhUSS1UcmNDRmZMUlNWLXQtNlRRalBxZXZPVTRJcUxuZE00VTJIQjNDZFhEQTBqWk5LNkpGTHRSbmxaRjJxSlU3cHB2TWJHY2JKVlMzMFlkRDRRaC1hVW4wR2lCdlJ1TzVsanNKZVJUS0dnbzJMV2VtRE0wUVRBQkhoQ1FCSENTVWVHeS1LelBuamluVnk3M25keDZ3OHZQRGRJdlpVZlFvbDYwSktORjFhUHBSNDZISjNHWTJmUWFRM1RxWGYtLUpOcXVTX245MkhvS0lvUXVnLUU2YXRJbW5FSnotajdtc2tIWlk1MG5TOXpXazlSbmRKbE5PU0k0T3Y0RmM2cGhpY05wUFVncmQ1Wl9xRkFGcUE3V0ZFclhtY3ZSOXluckNpUWVZcmZiNWo5YTFUdmlTNzJmRHhEWjhZWUlYb2JiLXdNbTVobXFiLTFnZHBPdmxXOTJMQ0IxUGFmR2x0N1JrUnI0WXpvV0hSY1E?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 19:30:00 GMT",
-        "discovered": "2026-10-10T19:49:08.359925+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الأهلي يهزم رينيسانس الإيفواري في بطولة أفريقيا يلاكورة",
-        "player": "",
-        "content_hash": "ee19bdd01c6103f56187b7856a2712f7af7c5c92009e810a771d7a7740d2ddfc",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 10724,
+        "title": "كيف عادت اليونان بثوب البعبع الجديد بعد غياب أكثر من عقدين؟ - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOT1J5c1A3Z0tFWW1wTkUwczJjenBmMnlNTlhVMkt4VWJ5TFBjZnRZZXNmb0NZVENqMmZrN2pNQVprQ1dqN2JQVkJHU3l4anFMeVRjS2lZd3Z2ak5PM3FBRkkwZ1ljMUNzLUlLbndERDRfSjh3djcyejZmVlpUTF96Vjl3UXZlN0JNVTAxSFIxQ0dZeWRvejNkVWJ5VUt2aHZrOTZpaHFPSHFEZTRKd21IQjVoNnlpVTdYanNoemMtc2t3MkNzMGlxVkhGeU9CUTdXR3VjeDczNnBWYlRvWkRxc2RHenFLZlMtSDRMR0plOEFrRjNJUUd6TEVKNlhFMm5tX09ZZEVNNTFYNmptSmM4bkhTYlY4Qjd3MHB3aGVVTkFUZUtTemdHcTJNUlJMM1BMa21iX0NNR0JMUEFrbXp5bDhyTWtSLW8?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 20:04:07 GMT",
+        "discovered": "2026-10-11T03:07:39.999320+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "كيف عادت اليونان بثوب البعبع الجديد بعد غياب أكثر من عقدين؟ القدس العربي",
+        "player": "",
+        "content_hash": "7ce74469b52b39a8ba3d954ecd9be74801b60459c6bf73da7c6ecbfaec49316b",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 10647,
         "title": "كيف برع برايتون في سوق الانتقالات؟ | خلدون الشيخ - القدس العربي",
@@ -1316,6 +1316,22 @@
         "summary": "علماء يرصدون «المادة المظلمة» في الفضاء… ويتوقعون أن تغير قوانين الفيزياء القدس العربي",
         "player": "",
         "content_hash": "d61421f3a6caddd67381158618af524673f03bf786cf97027339e50a50419a8d",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 10723,
+        "title": "احتجاجات الثانويات الفرنسية تتّسع وسط اهتمام الإعلام الدولي.. وترامب يوظفها في سجاله الانتخابي - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNRmFnQ1V6elM3eVFoeElXamhGQ1NQSmNzM3ZPUktUWlA4QzlJM2stTkpfM2JPX0pYdGd2NFdsQlpnMWNNMTZZM3pyd0lLaWUwaE85Zm1zVTJSeW12ZGJuZXNrRms2T1QzeGI1SW5CZVE3OEprR2tpeG1MX2NzYWVzTVVweGJ4MzBXT0M1LW1OVmFnNGRvX3lIUW9QSm9neUhOYXZWTEJVMURvUEx5T05GNnZZcG1KUEVubmNEbTRUbmRKYnBwcjAzaDBRaHplTFJ1QXlRVGg2RDFvd2RGVks4V0xrZlN4dUM3Z2dGT2tNNzBaMFctc2NGUjNsdzJqYUlxNVZ1Sm1uX0NsSTRFN0x5T3Z1TlAtdVBkSkxqVDZyenhLN0JTQ2gzMkVYZ2ZBZlViNmo1dkJIaWFOaHFnMHV0REJza0I?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 18:40:29 GMT",
+        "discovered": "2026-10-11T03:07:39.991308+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "اهتمام",
+        "summary": "احتجاجات الثانويات الفرنسية تتّسع وسط اهتمام الإعلام الدولي.. وترامب يوظفها في سجاله الانتخابي القدس العربي",
+        "player": "",
+        "content_hash": "03e6e36f595dbf965fde465252a529852574681503e4f96bd11a352047f7b1cd",
         "sent": 0,
         "section": "transfers"
       },
