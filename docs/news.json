@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T19:14:56.758936+00:00",
+  "updated": "2026-10-11T19:31:48.361380+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -373,6 +373,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 10983,
+        "title": "احتفال لاعبي الأهلي مع أشرف داري - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQOGhtdThJd0ZiT2VUVUV3YjhKcVpKN0NVQmd0b3ZSa1dKdXdMUVBvS2ZIeG5hV0M4T3hsM3Nra0tCa3FpS1VlLWdFclhrSWtwVmdmZlNISkhHLWJXaVdXZmpBOXBIU3p3MkNiaEFaSjhuc1RKeGlvajdGTGl5R05IS2JjOHZaUjRkXzBha0trZlVnSFpXTFM1RzBwWHhRTXZNUldWRjJCdElteXdkVXpCTjgyMHZiV2NNOHI3RlFXQmthX0hXUXltREpFSlFndDhyQk53X25GYVEwMXhaWFB4QmtwcnBQUkdqTFRmMEhTMkFSaXlvVUNkRExkRFU2UzdKWGUxZzVsM3NHcFY3VnZyZmhNUDhBZlRfUjhzc1FXQjVrX3kzNXl3eEluUU5UM05FQ1RxLXZmeUZmbVlSUTJIdzlIMUNUTWpILUVYTTRn?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 19:26:00 GMT",
+        "discovered": "2026-10-11T19:31:32.795495+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "احتفال لاعبي الأهلي مع أشرف داري يلاكورة",
+        "player": "",
+        "content_hash": "f653936265aec17bd4fe8dfc6e26d8c00d29d5fecc0000dcd822da4da4edb05a",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10982,
+        "title": "أخبار و معلومات اللاعب ابراهيما تانيدا لاعب وسط الكرخ winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQaWktc0x5UURNUzNkVmRDTjVOYi1mbUxBRHhzWXB4a2dZU3BjVEU0SU85TXczRU9uQkRrekFoOG9JVlQ0WWQ1N0gxa183LTZGdTBRMW9pNmFPeTF3R2hRVmlHOXJjT2MzSkRMQTdBWGdMdmpjTjY1M1p6M3hySmxrMDJ5bDBGcjdnU1pTSHN1d0RwcTlqdTFaUHoxNjlFMFVRRV8xUE9US3dUUkpOVkwwSWtjYlZiT3EzMXc2aWRKWkN4TFZvSTNUcTNJRVNzdGJRRFo2RWFjMzZIY1JSWXZSVXo2ZzFyS3ZOa3dVRU95b3ZQeC1xVklhQzJXclpIaV9SN016MjhoaWNnVmhkV1o1MXIwZmxMbzVOaGRtTmM0R08?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 19:25:16 GMT",
+        "discovered": "2026-10-11T19:31:32.052352+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب ابراهيما تانيدا لاعب وسط الكرخ winwin winwin.com",
+        "player": "",
+        "content_hash": "fbed355d907bb9f4abb97874975ca69da01def9e046d64e3b68b2dec3c448516",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 10977,
         "title": "طرد لإبراهيم صلاح في مباراة الزمالك والأهلي - يلاكورة",
@@ -838,6 +870,22 @@
         "section": "sports"
       },
       {
+        "id": 10986,
+        "title": "فرنسا: رافائيل غلوكسمان يفوز بترشيح المعسكر الاشتراكي-الديمقراطي في الانتخابات الرئاسية 2027 - France 24",
+        "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxQcUlXb29VTzlONXJXbnhTVU5CckRvQkRIa3ZRSDk5dTdGNDJwdGZBNk5XRUV0YTdmMmhhNTExY3dtcllXVWtsQjJQbVY5Tkt1aGtkVUI0djh3UzdYOXBsSHFXR2l0WEplMm5YWlR3bzlKaFRUanh3bUxHUzNwTGVMU3NpRHgtSnNnWExVTUhjY01UYnZnNTlFZ1IzWkNiZDBRQTNxcjF3WWJlZFNYZms5Zm5BR2ZrdUlGd3VRU2hzQ0NsdUhFdGxSNXNfRnB2NUpzN1lWVS10ZVFMMjN2NzFHclBKVk9IcmluY1QxT0hCLXJLMGZ5UlpmSXpKUWRWZnNOR3czRGtsTEtoNmY5UlExYUZQR2M5RU5NTkNMR2ZlN2ZfVEN4ZVVjc2Y5bWdjT2xwUm5sM1UyM2Z6THZxM1VfamI3UlZ0bDAwREZ3RXk3aHU1TlVtQjl0S3FWTnl2NVpwVldLRngxbVhrX19hMGtOVmxWZnh6OXNpUVpBelBhUGxXMmJ4eGZlZGt4MkVubGdZTWxfRHhXWXNTNWw5V0ZaVGp2UUowZmZEVENSTFJ4MkVUYVhCc1FvLVhuT2pOZmQ2VGVTbVhsVV9Hb0R3dlVTdnp5TkVWeEUtMXphMV94OUJwYW1EUTJ1d0ZwaWpuR0pPV2x5NXA3cDE4cXFOM2FDbDdBLS1WZG50TzM1WTRNVUlWOV9xT0xQUkxSM2lELW8?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Sun, 11 Oct 2026 16:21:46 GMT",
+        "discovered": "2026-10-11T19:31:44.293416+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فرنسا: رافائيل غلوكسمان يفوز بترشيح المعسكر الاشتراكي-الديمقراطي في الانتخابات الرئاسية 2027 France 24",
+        "player": "",
+        "content_hash": "1f6462ee0a159c2d61b262bb5071d42260329bbdae9dfd7a569af308b3ecb942",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10905,
         "title": "هدف صلاح محسن أمام القناة - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOc3ZzRGpKYktwRS1Za0VKeWhQYVE4ZVc3cVRDRm10b2V4dl82ajYyM0dDdEQ3MVNJYW5FYU91eUJRY2wwTjVybUpma3dNeTZORzhfMzBYbjJhbURkaDljTkVyYmlPeThqM2xsMmE2SGtNaFJmUjhPQWhIRW5LVlliekR3MVhLNWpYLW1SYUFBalZZMjhaREdabVpzNlJsQmFQUUxuTlRqZ1VpcUdwaUt2a25MM1R5N1UtdUV1LVVHZGx4ZF9XSkZRaWFkQUUwb0dXajR0R1Y0RTh0b05hNzZ6NklzLVRpMUc4TGRrY0cxWWNvRExfd3BOWnFqaWJ4aURT?oc=5",
@@ -1030,6 +1078,22 @@
         "section": "sports"
       },
       {
+        "id": 10984,
+        "title": "بلومي يواصل التألق في تعادل هال مع إيفرتون.. وكريستال بالاس يعمق جراح نوتنجهام - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxNc3pyTGVKWDFqcDZ6Mnc2blNtMEFxVnEzU3dtTU9sWElCODF3Z1RXNk52Q3lYSEFDclQyTHAxRVdmcHNxWG9WTGczNV8yOU8yWlBRVmpNVHRIbTlRRW83YjZ4SndGR2VpMWppdWdZaTBlamFMWmVfRXhha0VPd1BlTG1jbm1pV3ExNWRGWkthSHNjek9Db196ZjN2akQwQWtxdEloQXRtUjA4aFhVVzFJZU03dUtvRlF3YWsxcnJmSW85NnBwWDY5NUU3emw3Nko2cEM5OHpzRlJkVUtoTWlBaFp6c1BVRlB0TkIzcVBjbUVhckkzSHBwQTlRU2N4ZTYzTUp0V1FHN2VuZzNxaVZWWXZoeUVDNkQ2SlJLTWJvaFJFVjFrN3Y0ZWxGT2Fxc1dVQWEwZDg5c1VSbWdmMXVVMkZ3U1JhS3lxN2RvMlNxaDh1dXdOY1RBSTItRm5Jc3FWUkJwNmYzMDlCdzNUbGNva3BTTzhrR2pucEczWEVraDg0QnBQV3ZFakdXTmFrZ3FqZDFLZjVyQW1qOGkyOUtNY1ZMMm9aTVRrYjVLcDZsQ2ZzTU1IU0pla1kwOS0tQXhWbXdKaDRGVVdWdzNKNmhWLU8zNlVvcjlVRVZwb080NUtpYlpVdGlrOWJkRDkzd29ZZjVBaFNHeXpoZm5jUFlwUGZDQi1pU09HQWhGTHdKOTdLeVVDc3MtajlPcTJKSTM5aGxDbW1UVS1Cc0ZtVmRMNC1XR3J6UTB6Q3JMMHpHUHg1SzFvTWdEMlBsZ2daS2dTbi1VVXUwUTJUOFM2TVJFUXVR0gHnBEFVX3lxTE04ZWp4aHBFalMzNUZ1eVhVOHRvTzRIU201YlZlc3hrRDl6aWxJbGc5NHhRSkJXSFFxX3Rkbk5CbkJmZlVBaG9jY2t2UFpHOE9CWXdJcUlEMElyaTdrSlo1dlR2OUMzSTlSbi13aDNEcXVOdGFhNHZFOGxad0dka1NSUVZxRlVXdUxhTm1MRlJWTFFRWFNyb2MwaFJ5N3dNRFdQQzB2bEVoZkVDQzhDUVdBNk1XcE15Wl9nWWRNU2Fpd2laM2xEWlVabGtMUTlXWTdZSUxmRkV6Y1czaDFKOGkyT2ZEZm5rd3R1ZkRFOTlFNVRTOHdQNVc5aUswSFFoV2RvcVJVZDJGY25zRDhDS2tlYzJxUU1qaWVEYWVYNnQ0bXJnR3d3ejFJRnRPaU15MkVEQVJDWFR3V2dEbDFnc2ZRX3F5S05DbnhkRzdZU3lwV2dUNGp0OHJ3cXJvbkM0YUJkOUFlSmRQQVZpTnlRNnRwOFk0c1p5dUpEbnhISHQzX09kTUp4Z2U1LXJ0Q29iX3ZMYWRlZDBFcnJncktoLXl1QU1BWC16elQtb2Q3OW1MVDcxWW1GWXM2QnF5d2NHQjNmc1BTVU5qOHh5MW5hUDFiOUdrUmRNbkRMWmlxZVdCempNTTR0WmRYeHhIRGwwenVTd1d6ekpCd0pDSm1GWGVtWFNQTHRIQ25XRmFnN2lIbUE3NlBmYkVUTktBU2JjRUdkdjZHcm96bklyUWY0dktfb1BOQ012Y3NGbHZHOVFBdmNiRXlPTnhrM2hQVUdEUGlEbXkwdHBtQy1WWDVnTWh4TGlMRktadw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 15:15:00 GMT",
+        "discovered": "2026-10-11T19:31:33.464915+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بلومي يواصل التألق في تعادل هال مع إيفرتون.. وكريستال بالاس يعمق جراح نوتنجهام FilGoal",
+        "player": "",
+        "content_hash": "3e4a3717b998dd77c4cc6100dc9dbfb4fd278ecfa3583a000d5d806043386b1a",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10878,
         "title": "بث مباشر بالفيديو.. قراءة في تشكيل الأهلي والزمالك قبل قمة الدوري - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxOWFJUTXdRbHc1VHBEU3pxVjI0ZFo1c2FNZU9yNWJEcmFjamx3M0F5emp3RzRYVnNuQndpLXNDYzJoSm5QMGFPNnJCempnc3BULVRoa0x5ZDhTN2FHb0VXSnJVdm50SUt1ZGkyMjh5THpwdW0wYXVrZHlpbFlWVGdheUUyMGh5dUpnaHZrelBTNHhkMTNodTdpTldCMlpyaGQxSHc2VGw5cXRwOEhuS3l5OUxfeGs4d1djQ3pSbzhsWWlFdlJjcWRwVk42Y215RjduaFVjRFlBNUZ4OUowU2c1LUJvcE9qM0s1ZlQ4NjdYbFFFMnNVSWhLb0pDREhKMnlUX0hiellYN0ZYa1BDOUF0eDhOTkdQTVBwZjhQZnZ0SkxPTzNNdjc1NHhQblpFcl9TXzJQcGtXOXRDT0JnZUJ3Si1zNmlGT1Q2aW50NnBXUGNTSF96OVIya2EtbndhbDRuNGxGT3U1cUo4Z0ZCXzlEMVZ3MFI5MzFqeU1JQ0dsY2ZJWmUyV1VJSlJuZkpPX29mb1IzdUlycTBRdnBuVjdzTmR3akZOZlFKUmxzTUxmWklRZHFPcnUxTlQyRENCQzVobHZGSjlTMnU5czFSa0VVZ1U4Y090bldKbnFmcFFaWVdEeGltemRZd1N0U3JyMEthSFROZlhsY1ZrRi04a0J4WWdkajhaem9oay10RVUzbV9YUjljcDVtNlVQNEJkN1hQaHc?oc=5",
@@ -1106,70 +1170,6 @@
         "summary": "بعد رهانه الناجح.. زيدان يتلقى رسالة مثيرة من الدوري الفرنسي Kooora",
         "player": "",
         "content_hash": "9591979457918f0c5fb440bc9c4d3bf62c7b06ddd4add9652d59fbbc985ffcdb",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10914,
-        "title": "تشكيلة ليفربول ومانشستر سيتي في القمة.. مفاجأة هجومية وحيدة - الشرق رياضة",
-        "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxOM2RxWTViOEhUYlhEeUs2WGtoMTVoc0FfakZURlFhRnZaMGpack1QVUI1ZGRyMTFVMG5pbnhYcVpITTZ5RUJ0alhQUGFzRkc4MVVfR2hMdWpZUjZRWTFEMHlRWGtSQWZXQmU0M1ZVZ2ltbTVUUV9MUUV6QmFoWl9DQkNIb2dxSi1SWlpkdEJCaXRwdHJ2X05kckd3SWtLZkFjSkNYbXI1ZHVLd3k4Zl9obW5NNjJZTHQ4ejk1VkZXamNpdjBObXZvbkpWLXY5dEU0bkxrQUszd1ZublF1T3owQjdkMjZMTmpRSU9CWVhfenhuY3k2cVFkcnJHdnUzRWRfWlFYMnVMTVN2VVBOTTVMY3VwbU9fQzRsUVJuUENYcUtnN2VDbzlvLXZLb2lhVjhZT1U2RDg5eGZ4Y3JLdG80NnlOOXVkR2JwcF9KUEZvc01wLTNxUkJTMTV4cEM3OFVVY0txMkdWek9lNnJwbEZXa1JrSUlic1JXbUZfRklid0JsTFZqZWM2QkxIYjRoeEgxVzViMVdGRkc4VXhyMEJhNUpuR3ZmdmNfRlhlVXV4QnBzZG5GUTV3eFFnaVRtaFd2bTM2XzJibDNheVJEQ2FzeVNyNzdPUm5kZ090QTBTRGlTY0NBYkZmdVVYWDFRLU1uN3NPWl9ZQS0xbmJWOXB4cVFVX2ZkZw?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 15:01:36 GMT",
-        "discovered": "2026-10-11T17:04:04.507916+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تشكيلة ليفربول ومانشستر سيتي في القمة.. مفاجأة هجومية وحيدة الشرق رياضة",
-        "player": "رياض",
-        "content_hash": "fc9f53d8f3872c73951f52f7e10e75f3354ebc0938994d22eff7a5626e0c0e08",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10880,
-        "title": "بمشاركة عبد المنعم.. نيس يهزم ستراسبورج بهدف قاتل في الدوري الفرنسي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxQLThTZHpObThQaVNMVUdxTWZmNVZLTWg4bmxTd3VnR2JCdDhkTUhMRlZmRC12Z05qMkIteDB1YzlpbTVFbEVEMGROMy1yYXBUWm14eG9zdHVJTk9Da2dRNFRGNlNUb1h3QUx4bEQyNlZMbkUwVTFHUEV2VjM1WTI4VEp3dTNoRkhRNlAtbTZCcjhkejhaTXR3WFVodm5Sb0pvXzFHTnJIeHRKQzZ1Z0hHUmNBRGR1R3JrcmhPMkxQNWRZQXhvTDZrYkVfajE1VDNYejk2aXZqdzZxM0NXUXl1ck1vSHJscUVYQ1NpcEg4UDM2N3BQSFZlSkVqQ1o1YWFIWXVNeUE4ZWh5enhqR0o5SlR6Ulk2MkxnRzVBU1dJc0RWU0tXaV9XaUlFNjJhNWYtWG12b19CanZuX1hFX2haenY2dWQ4dkN6ZldoSXlfVUtEWHVmOHdGQ1lSaXluSEdlN3EyUl82akk1N2g2cmozRTdlZndHQ2l3VG41MlUzdjZxS3dwaWNwdjdmRDVrTS0zRE1lai1kY0hMZERQZmlpQ1hZRERldklYSEd5cWhBNlRLWDFWU3hsN0pPU0YyYlpncTdrbzhRV0pKdHZuTlZldEswYW5vS05iTGFOZ2ZXU0NzOTlRNzdDWGpJbW5UNnJ0a0Nac1dKYkZXNnF6dndSSl85UmJ1ZTBoMEhsTlh3azNlakQ4cG9aa3EyR283ZGdZZUZtddIBqgRBVV95cUxQc2xHMFp2R0p3ZE1RZk1ndlZ1RzdfWHVZSEVIM05URU9RZVNKdFJ0VU5LS09VUG9JZUFQdkZGN1ViVmV6MkFCcUhMRk1pdDdsY1JORFo3RU02S0hUbWctenY3LVpsdFR3TVBmMzZWVXRfdzlXY0MzUjNzUEd5dG9JemlvRXI4ekxTeGg3bFhPMTEtYjk0bi0xREUxVlhMT2Z1d3BnX2RMY2htYnhaM24zb3ZiUzI2b19fN1FwRFdFM0VoeHVYY1dudWtjY1FRYTBGXzBHOXlsZXB0ZlkyMXRfX3hqelBsdjNOb3ZkdmdXd2plUHVHNmt1djR4TlhBZU4tUnpHWGE3dUZXNFZKWWtuUzlrWGlFNDhiTDc2czRFX0F5NVdWOVdzbWlDd0g4T05ETUNWelJoRWZMc01jYTdINnNoWnAzT0Rsd3J1c18xc19QbXBRSUtEZXZQcmg0emROMUNob0pfNkVBbmdqX0prQUxXSlhYczJPRjBtSmpMOGlESUdxWDJUTk9ZcXB2bUlvYmx2aUJmQVdSclNjVEZuNFhLWGFJOV9qSDlXOTI5YmNBUU5EZWd2N3MwX1IyeHBSYXQ0TlhpWi1mbVV5MUlPbWFxRFJ6T0wySUVLMS1xMnpDNjJjdENGNW0xekMwNU1KYktEbkZPR0x4QmpkRnJ1WTkzTkFIcmhtbTB5eWlranBoQjJjT20xbVBiVEJRVEFYOEhNempzWWNpQQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 14:58:00 GMT",
-        "discovered": "2026-10-11T15:16:20.067281+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بمشاركة عبد المنعم.. نيس يهزم ستراسبورج بهدف قاتل في الدوري الفرنسي يلاكورة",
-        "player": "",
-        "content_hash": "fe95a9b4792abcfb48d342a886b95a2ebb34fc5912b8a9812e182e866109eae9",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10863,
-        "title": "النصيري في قفص الاتهام.. والسبب ياسين بونو! - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxOZnhuYUVlSkVpTzh1em1xS2RhWnZFUTdmVFJQX0NhTF9hcUVoejgzN0RqTFBGNkVGa195S0hfUnJtazhPR19RMkNOYXd1OGtOSjg1VUR6cVEtWFBfMmJmbHVvTF9icll5UnVLR0ZxSFcxX3F3dU13aDAyblYyeFFOVWpVQ3NEVkxqVEhmbUxTWnQzV0ZhbURRZDVaN3pXSnp5UkwySzEyWEd1RzVtMmRPRVZqR0hWZVJsQjFQM2p3ZmJLTVR3YlV6Q3JCQzhiYmpycTJrN3N5VTNCdDBCaVNrdVB3YnphZVRtM3VqOXdYa0V4VzM3N3J3bUgtbVl6c2NTcXZPU1gzWlg0NDNnN0h0ZW44N0lWR0NGMi1TeVdzLXgzaFZZbEhPU0t0enhJVklmME9wN2NqTjBaMFhLZU5kVmNGODdyNTZrSFZMZmcxel9HNVk3ajJscnZENDZNY2xWZUJ5ZDlpNHpaaDRTQmktNWtlaGRFOXBnamNNRGR5ZTdWTHRVOWE4ams1MDFjVjZKM01ueS1Oa1AzeHJjYmx3WFh2bm1PTWNSei1nVFQ1aVBtdkJiVG0yVXlud0tnOE81d3ZIcTEteFV1RlRScmU5ZWt5RXlrRG45LTNn?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 14:45:51 GMT",
-        "discovered": "2026-10-11T14:48:12.883363+00:00",
-        "category": "أخبار",
-        "status": "غير واضح",
-        "summary": "النصيري في قفص الاتهام.. والسبب ياسين بونو!",
-        "player": "النصيري",
-        "content_hash": "9597f29b24617ca4071254830ea9e9c07ad094516170a751045fecb46efc048f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10870,
-        "title": "كرة يد.. الأهلي يهزم الجيش الرواندي في ختام دور المجموعات ببطولة أفريقيا للأندية - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiowVBVV95cUxOS0xaNlc5ODNNZzJIX09NOW81b3p5cjViY1NiX0FrNTVJODhxaU1XU0ltQVZqUjNRSzBxcGlHaHl2aXZwc3lLRGZ2eHRJc0VfNjJEWUlFUDdLVU5XTHhkNTFrWHp3SmEtUFljUzJxZHRpdEFoRFg1dXd2U3dQc2lpMGxvc3R6X2ItRWZ5ODNyMWtrRDIzXy1VVlExRFMzbWhKSU15UUExX3FycXVCRmRNWkxtNjgyaVE0UnhRZzltdmE5Q05fMU43bDhnSkpQSllzTkZrNUt2YTZLQVBsbTBRNElZSVY2RkYyOER2Rlo5SlFobGNMM2VNcEpuMmtGVmx1RHduSXRfUWZ3X3R3X1dHaXhBUjdHQ0pDWTNFSUtINzVXb0JpQWZJYVY3X0ZwR3JiUUJOZGwwYXZDMXREbjBxVzd5ZFROTDhCbFRuMmhmU0l2U2JVeEpJWVFrRDdhdEwzZDdtc0FYQ0RjSC04NjBRR01vTHpCdV84dmJCZzAxV3dzUjlrTE8xbnAyOE9ib1lmVVVTb3VYbE5SRmU4VHJGRzRKN0ltbm1wWmhCQ2N5c2JjbWtRYjlRX1hELTFEUnh5X3UyQ1dlakFBN25SdHF0OTBqYUlNTzA2MEUyREhIODQzbmtkVnBKVHNqSF9EUmoxZXh3eE13dUd0cmJHR2RQblAxT3JiU3ZtRFVzMkFQNndlZFZGQUU5RHlIa0l0TlpyZ3hRZmVYd0s5V1UwenJCOW5CM09zSjYza1J0cS1Pd2JBR0p1X0pNdEE4bFl6NS1UNWNUVjFhb2p5WVVKX1I3dHV0UWFGR1JYVGh5aklyOS04M3FZaVUzcV9uMlNwMW5NTFZURDYtOERDUnBJREV3bVNDRjRIMHZ0ejBqX2tTOXhETW_SAagFQVVfeXFMUDlJZ3lkUkdTLWNnSGtsb05VanFacFpYMFlwbTVzcTJoNUJhWXlhLWJ5WnZmd0d1WVRLempyNkxSOGotdFNNb1h4akw0OGplNmlReDI0YnEtdlBIUm1GaTNFS1phYThmZXdyc3JReEhkQ1A5VERlTnZrX1hwWnlpM3NDN0lZZ0w1OFN1eUhWaC1kamh2Z3BxYWhzcWt5RFlpNk94eF8tRXZUalNWeFNRbnBNQ3lmVWRVS3JyUU9pNy1YXzRBa3pPXzh5dFB3ajBwLTNBc3QxWHJRX2pkYXI3d2c2Y2RzeExkbEJWODE2c3ZXX1FLR1JJQnpnd3lHdmZNRy1ycnk5V0EtODFpYXZRYVdpZl8wa1NQQ3FPSEtsTEdHTUdqNnhiM1BzbEpFQkd0a2NNUGV0UGZTRnRNMHhtU1lvTDQ0VXAyNDhDaUR1SE43eER5b2xWNHAyTVo5b0VISHYzcnZvLTdhR3VKdHVFTUwzODRuYXRGS3E4OTFnajVubTFnRi1XZi15eWV6Ulh1UThjMDl3cldYY1dTb2otczJVN0Z1alkzZl9fRFBTWndnb1h5U0t1NEFvM1FUdXd3bUw0d3lFeTA5eHJWNUdJbVdhTmFpN1hKY0xJVDJ3NjZBSm1kSk1RRExUMFRWNFR6c3huV09weFlFSkdpczcyMzBLUlRnS0lDQTdOdXFIcENrT3lIc2FpWDBvUlRjQy15MG1xOFhYN1FIbjI2YkUtOFNzREg1eDJTdTVBU2s3VzAwd0pMd3NHSjBjdGtEZi0tRmFOd2R4NXFWZ1hUQUZIcHZqY3RlT3gzYWNUYzZFMVJ2OFJDS1NPNW5YNGNFdWgxQnlOV1d6YTdMUjNteGhnV0NrWFZxTndpQ0hXQUFQaEVCRHJoVVhtTjE?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 14:44:00 GMT",
-        "discovered": "2026-10-11T14:59:59.427193+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الأهلي يهزم الجيش الرواندي في ختام دور المجموعات ببطولة أفريقيا للأندية يلاكورة",
-        "player": "",
-        "content_hash": "a432ccf33bae5f7db73d9563e4048f231b4eade27d645de93bf55263f442aa6f",
         "sent": 0,
         "section": "sports"
       }
@@ -1624,22 +1624,6 @@
         "section": "transfers"
       },
       {
-        "id": 10483,
-        "title": "الثاني على التوالي.. كيتارا يواصل انتصاراته في الدوري الأوغندي قبل موقعة الأهلي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxNQTFjR3NXRVJPZHhiRUx6N0ZXLW9aMjM0Q2g1MGJuZW9BNHhYb0dUN3pIZ3d3LWZmX1pLN2FmT1lkN1NMVjhGam0tcWVvQ1VKdE5IMV9hT3pZU29JNDdZaXptaXVkM000YS1GR05IUE1nUHlJVWhPbHJjUGs0WWNzbVg4bUpQVjNNemVmUjd1ODBDTkhwX2k3dzMwOUpLVVFORjN4NUg2b1BsU1dUUnA1SFBJRlAwUS1wSXlSczZkSURXRENNWTdjSmpwVk1JcWNNcGpZYk1PNzdGeDNYcnV5VEg4UWt0eHNUbllYTl9IaXFNa281OVZBNjN0X2tzWTlwVm5NQ255Q1hDY0ZLZnVVbjNGMHcybkg1dU1MMVRXd1hYQzllaGh5blkwQUNZbERKWEEtS3Z2ZkV3b1lPMmV6a0FNY2ZkdHJkd0k4eHJJeF9MWVNBbENUNkJOc21walBTUGRpZmxVSDJ2TkRjU29hai04dHFjRUZrOWs0WU1ZWmFjUy1odWthYVBZQTdTRHpnWERuejV4bXhfZmZkVm84TTBsa3VQYmJleW5xZnBqTGFmY1hyRnIxa053dXpMMjByNVBEOERFc3JrQ09YVVhZX3NIa2NsdEVGc2NXR3NzRmtzT0ZZMTFmeWE4TWlqT1VEYTNJVTNwaTBpUU00VGJPLVVjSC0wSHdURWtLaXdCcmtZLWp4QlBMZEpET3Y4THJqX2FJVVF4RHdmOHV6T3ZrdFl0WFh6S0U2cHJrUUs0Tm8wdzVDUkNPd3g4dUVmYVIwdXFzc3hrMy0xaEhtUE1tanJVdmxCemNmWVBrRkhjSmxpZUdGR3NhUkJwZl9ESURZaUFzWDkwc2s5RHJ4QzBUQWtlaC1wbHfSAZwFQVVfeXFMTktQRThDTHhlUEJ3WVRNZUlpcTFheFVEeUdSd2RhTXBwX2NkQkYtX1FJQzRTSllKY0tNV01DSmdKUWVnYVpJMHBoLXVwN2p6RVdsYmlwNmxhck01ZDhMNEhaa2hvY3czSDV6NTBfWmZGdnJxXzQzNXpWRERzMks0QmQwOGpPYWVadTVBelFyakhzbElJNHhSSGNyUFFQUEw5ZlhOY3R0eW9yaTBaNGNBdmJ1REVzME02MEplUHdEblRPaGpZOVV5UE0wVGdJQ2d3OXV2dlkxb3ZuSV9GY0hhSmJscGN0NU1nWlFjTWtjY24xTDVOUkFSYlRyd2w2VE9SdVRVbkliaDdlNy13eDRhYUZ2TnRvblVqM0hfUmE1RVI4ZlRkTXd1SERpQ094VFRPMkM3ZHZNb2dKR2hPem1ia0NmRVVacHJETFdDTGZsVUZfdG9iSzlSQWpxMGNPWkFvTFV4YjB0Mm1Kc1Z1VjdtWF9jUHBnQVhHV3RLT1o5Vm4xVWsyLUt1NkVIZEFnS0Vaa3pZUzRSMU5tRFd5OWtRakF0R1R5eDFaTktkaXI3Si1Tck1razhtc0RVMGplaEJtanU2TTJXdG81eTFqdTUxdmdJU29hUDh2bEU5NU9FUEdVMkxBUUV3UVZHMzVITW9IeXZYUVNRZi1wUlViTm5PMV8wWG9RSFljcHpSMGxzdFQ3S05CNWFHVm4tcUpRWUVsUmNOWWVfbjcxOHZvMkljM0gwcy1obXJWaVgyMkM4Z0NBcnFadkZncDdwdjdqM2l5TUxPb2VVVXNfYjFkNWZocE5IYU93bl90bXFnSHJsMm1reUtVa05YUHlyc2JyTGUwUVRmWWxoU3NVaExsNFBzRmVxRzlQa3pGUW5EM2E?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 15:34:00 GMT",
-        "discovered": "2026-10-10T16:14:43.741435+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "الثاني على التوالي.. كيتارا يواصل انتصاراته في الدوري الأوغندي قبل موقعة الأهلي يلاكورة",
-        "player": "",
-        "content_hash": "c83c0c065f34405eef4301f24bb9857d3b6711947f49db1381267088a6530a09",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 10652,
         "title": "عرض لا يرفض.. إبراهيم دياز يكتب الفصل الأخير مع ريال مدريد - winwin",
         "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxQRi0zSFhDYlEyOHdXVGJOQ01wVWJFLW04SjI5WFNRNm0zLTVkcEJxTjJxQ1dqR21tTDl6RW5OV1gtUUVzdmY1WlczamRiWlBfUERSc1c5dUJNa2E1b0Zac244NzRreFJQLWdGMDVXT0t3ak00VU5OVVNWZWdoSW85NWpLLW5GMFZCcUtsN0xjU19SbFMyR3pISU5hSlIzeHN2T09zYkFYbDVVdDFERU1JVl82TFJ0T2EtbXp2ZTlVaURUWE96X2gwWVJiWmlNaVh4QURtZTFXcEY0NVdaMlZQTVFtbGEyazRDQlJia0hnVEw2NG1kdTdVVFJKajNEdUNQeFNqRnZDamhOeHJ5U3dhVGEyZDMzZjNnZVd2VmdDTUkxZUV0TjdzNWNsdEcxYzhYdzNQdEZvNFlPbXBRczdrZ3JfSS1mRGxVNFF0SzF0bm43dWdFSzNaU0diYVpRY0JLeV9CTWEwNnZJME5XY3pkX1RNc0FyS2JXVk5na21TUjhEMTluNmljWmZJbWZvczlxUnJLS2kydW5TSXhSTnRvNzhQQnRBNmt3cEZrQVpleElLN0NNMXB4MXFDZHR1TGxPb3BFaEYxMkJpT2dKN2lUS0dZZjJzLUY4REJKLXZmTjVHaEUtWC1ubmRvUVh5MnZ5dVE?oc=5",
@@ -1668,6 +1652,22 @@
         "summary": "هجوم حوثي على مطار الرياض يوقع 12 قتيلا ومئات الجرحى وترامب يلوّح بقرار مرتقب Euronews.com",
         "player": "رياض",
         "content_hash": "61b6edfbf32cfa5ab21dbc19c56285524cb31b2bdc9b5beaa73ec559a3fb7b02",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 10556,
+        "title": "نقل تمثال صلاح الدين إلى موقع جديد في دمشق - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPSWM4VnlDOTRZdlVNbWtxWjVOX2xFc2JPTlRMRjlTZi03VnZEZzlob2R4dDQ2Y2hTME93NjBIbi00RWJEajJ0R0RqOWxqREFaRWNST19Oc05Oc2RSWFVsYU5vaUVsVTFEbjVmOEFSTThjbXdRS2MtcHJjeThIdzBzbC11UmhJUUxSSGc4Q09aSEtCZlFJYkxnbkN6ZEhNZ2dpbGJjVURWOUtfMXdSNm5NeFpyUmtmQnowOGRHaGprT19FeHNCYkZBYm5SN3dKZEZRX0NPbTNVVnI3RDh2NmpnYkR0OVdsWF9xOTJ2M2RJUmhPanZqZG1YdnhlcU9fVmF4SGZldW9RV1RVeXd2czdHSERrd19zTTRmU1gxNnpfU01UOXhKYVRlSUMwWm83dmVDS19XUDRvX1NuZjNMZmxJX3Y2d0YtOGVQTFllOXlkQTgxRWVselJJalpHVFRfenpiejBBNNIB6gJBVV95cUxPUTB5ZzdFdjZTdjgxQUEwdGVKZERnaEFLRDVPNFBRZTVlQmdmSzc4WDNPb0FibGp3OWduU1ZaR3ZFaFZfSktrRGxkaXAxdnN2UXlJTWR4WlhTMkpHVXFYajZKTDVpclZpZ2NKMVhSMnFKazJWUm9rV29zMnpXV2hjallQbzNPSHh1emVWSkY3b1RCTmRWRDNtaEtpNHV1SGZkb3ZEOUo1ZV92QURKZWFiTEpjbU9nc2FFc2hTb0tHc1lRTzBsRGthLUtvYzJlbnhuVW5vSDE4ZGdaQWxYZ181ZmJiRjZtTGRLUlc3VnZCRFNBSG96bm0tQnJUNnpwb2RlSzJoQ3o4VWJ6R1hrVXpjN2RTZnFkQ0Z2WUJvRU5iVGRFWF9xVmJMU2hlbks2SnIxRmU5WGlRdFkwYTJGYUlqWDBpLVFKa1Z1WGZhYlczczJ2NFc0WlBZdmJXeG8xV1NWdHZKX1JwWUNWZw?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Sat, 10 Oct 2026 13:29:14 GMT",
+        "discovered": "2026-10-10T20:15:41.085458+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "نقل تمثال صلاح الدين إلى موقع جديد في دمشق العربي الجديد",
+        "player": "",
+        "content_hash": "370743dd78d1e0089d29e2b095428606322f8602dd9d9259d1473fa7e5076547",
         "sent": 0,
         "section": "transfers"
       }
