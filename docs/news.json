@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11T07:11:38.181114+00:00",
-  "total": 147,
+  "updated": "2026-10-11T07:30:57.947734+00:00",
+  "total": 148,
   "sections": {
     "morocco": [
       {
@@ -96,6 +96,22 @@
         "summary": "اللجنة الرابعة.. كوت ديفوار: قرار مجلس الأمن أكد على الحل السلمي لنزاع الصحرا المغربية القائم على مقترح الحكم الذاتي كود",
         "player": "",
         "content_hash": "acee50a7bf1bf166ff53b1ca76f20151a8f47e21631695be11886c08c33ae5f9",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 10780,
+        "title": "ديابو: سيول جارفة تباغت عدة أقاليم مغربية - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CWEJ4YUoxMERIWDBfeV9xNDlUc1FwTVpCRDMyVjFQR0RWMTlWZ2tVNUJ6Ny1OY3pmUXJFSEFnSnR4YWYzZndTQWdaQU5reXZwT3YyRnJxenhESVcwQ2lTMTFBNWYtUQ?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Sat, 10 Oct 2026 17:27:58 GMT",
+        "discovered": "2026-10-11T07:30:33.153093+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "ديابو: سيول جارفة تباغت عدة أقاليم مغربية Le 360 Arabe",
+        "player": "",
+        "content_hash": "5d6afe047b4c340b0d967b873df06a91496eebfb5c67a5c72ee39636839161df",
         "sent": 0,
         "section": "morocco"
       },
@@ -1256,6 +1272,22 @@
         "section": "transfers"
       },
       {
+        "id": 10779,
+        "title": "توقيع اتفاق لتعزيز المبادلات الاقتصادية بين المغرب وإيطاليا - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUQ1VxR0w2YUJzRnFmTzRtalNmc3VRcDlxUjJLdy1laUJzTVRTTGxNUllMclpaVnBwZElaZWZrcmhZTGcwYUJvV2lkMUZoaWdUYktfYjc0SXBfNHRveTRmZUM4VlJ0MDg?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Sat, 10 Oct 2026 23:00:41 GMT",
+        "discovered": "2026-10-11T07:30:33.130339+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "توقيع اتفاق لتعزيز المبادلات الاقتصادية بين المغرب وإيطاليا Le 360 Arabe",
+        "player": "",
+        "content_hash": "65d76dc6a1c0fc8b9fa5d1a3bb34b86df3cee7b7531edd3afe72d832e8f3df9b",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 10724,
         "title": "كيف عادت اليونان بثوب البعبع الجديد بعد غياب أكثر من عقدين؟ - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOT1J5c1A3Z0tFWW1wTkUwczJjenBmMnlNTlhVMkt4VWJ5TFBjZnRZZXNmb0NZVENqMmZrN2pNQVprQ1dqN2JQVkJHU3l4anFMeVRjS2lZd3Z2ak5PM3FBRkkwZ1ljMUNzLUlLbndERDRfSjh3djcyejZmVlpUTF96Vjl3UXZlN0JNVTAxSFIxQ0dZeWRvejNkVWJ5VUt2aHZrOTZpaHFPSHFEZTRKd21IQjVoNnlpVTdYanNoemMtc2t3MkNzMGlxVkhGeU9CUTdXR3VjeDczNnBWYlRvWkRxc2RHenFLZlMtSDRMR0plOEFrRjNJUUd6TEVKNlhFMm5tX09ZZEVNNTFYNmptSmM4bkhTYlY4Qjd3MHB3aGVVTkFUZUtTemdHcTJNUlJMM1BMa21iX0NNR0JMUEFrbXp5bDhyTWtSLW8?oc=5",
@@ -2344,22 +2376,6 @@
         "summary": "نضال حسن: وزارة الدفاع الأمريكية تعلن عن نقل عملية الإعدام بالبثّ المباشر BBC",
         "player": "",
         "content_hash": "3335d84049025e7aeb7e67946f7412e3fa8301c1b54962c7f5e9bbc8a48fd837",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 10279,
-        "title": "إسلام آباد تؤكد تواجد قواتها في الرياض ضمن التزامات \"حلف مكة\" - France 24",
-        "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxPb1JXUk5zMWhCRm5Ha3NXR21HSl9JVU1UVjRFUWJYS3NuUUgxQmxqUTdJanZ0MFZONTh6RDRlWkx2M0VNdlNFNTI2eTYxREtwRWVHQS1DNVpaT0djd1VlQVhvSDNCSDMwTXAwTjkzcFZpWHhMVVZncU53cjBkTkZoZVNZUk1vRjI5NGI1aF9pRVF4Z3NmNEUzMlY0eGxGRXQ1VXVPaGVJclNWQ0QzZVl5Z1R3ZnVVZ1NnSFd3QWJVUEdtZHhIZDMydkpBUEdwTmJ1WF9XbDlsR0FRRlFGREhYSnYta0xpdUR0R2JMTklQaVk0VnQzM245UHZaeEF1cUdLbnlTdkxpcjFidS1yQTVGUmp2dG9QemFzdkJTVXpSY0huczNCdHFudXdsNldkNVo0RkxZcUtnME12cENCODBFQm5OWFJyZ0NaVEFtQ3hXVEFuS1Q1VGRnUnIxWFhHWGhRTUFMRTBHNFh0d2hIZERRbFgzTkc4RFJ6NHRqZktuUjRldzV3c0RLTmVRZWc1Mmtla3gwZC1KOGg4STc0czEwTFd3aHVTbXZUYmQ0YTNtN0VWV0N5Z0l1QTd6bU5vMldWaTZRMkl0RDRuMnE0NlZnbHc3ajBhUHViWG5Od0tYZndleVF2QVZVVlpqdERra1VuSmhIVkRuNHhUUVZUelJkcl9pR1dIUmdaY1d6OGJoQmowa2xSSW04cGNVbm5sSnFJTTRYREhidzZ1NzBNZzhHMjJnX29DNk1Ca3lGZmFXUDRERk9HWHhvMU1BQnJWd3d1Y0NJM3c4R21ZUE12ZVNMY3Zadw?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Fri, 09 Oct 2026 05:30:35 GMT",
-        "discovered": "2026-10-09T23:43:42.412409+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "إسلام آباد تؤكد تواجد قواتها في الرياض ضمن التزامات \"حلف مكة\" France 24",
-        "player": "رياض",
-        "content_hash": "30847de0581c13d2b7bc11496eb7f83c6476ebee487740b72b197133fde73d14",
         "sent": 0,
         "section": "world_arabic"
       }
