@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T21:37:25.286730+00:00",
+  "updated": "2026-10-11T21:53:01.027400+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -354,25 +354,25 @@
         "content_hash": "908e86efb893a502a587e2fee65c42dd91a1f30464984d45b18f5094430cf600",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 10799,
-        "title": "اللجنة الرابعة.. الگابون: الحكم الذاتي أساس جاد لحل واقعي لنزاع الصحرا ونشيد بالتنمية المغربية لأقاليمها الجنوبية - كود",
-        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPa1RvYjFvU2xlbXFTZmZENTVQSzl0em15MWEwTEdoeDlTRDdJQU92ZW95aEV2aWtaeWZBOXprTG1wcHp3b3d4SlMxRm82U1lUWXM0Uy05dG5ZeE5ncUtrR25oeHdvOHRTRHJNcjRVY0dMTl9fWGxPLUVMRXRpTlJRRVRuYUV1TTltdUNWNDhWRGFMaTU3dEdTdEF4d2dueWdkdV8tdkpONG5UajhNMzF4dG5BRHN3eUVMYlVyanR3bm9sQktyWThXR0xDcGpCci03QnFBSU81T2wxc01kUFhhelVveFRCYk05bnhfYzJyUHlEOWFaZWg1SkFJSWl3dDNLWXZfVlVuUTBWZ2ZMeTJEUENpeFN6RjZueTZ6WkpoU0w1Q1hTVkRGVTY4N2ZrdTh6NDRIWXVRZm9XWVlKVlBYNzc1bTU0T01NZ1E?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 13:43:52 GMT",
-        "discovered": "2026-10-11T09:23:53.425087+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "اللجنة الرابعة.. الگابون: الحكم الذاتي أساس جاد لحل واقعي لنزاع الصحرا ونشيد بالتنمية المغربية لأقاليمها الجنوبية كود",
-        "player": "",
-        "content_hash": "823a47f7e22acb54a9755d6e87a2661e6ded5298dc413cc0a79e3cc6457ee1b2",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 11040,
+        "title": "فيديوهات | ملخص فوز كريستال بالاس على نوتنجهام فورست 3-1 (الدوري الإنجليزي) - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zZlNOQW5RX3FQai1sY3JTcVptNVBUM3c2NGk5dy1xd1l6cW9QZlVnVWhSYnlTQXYydGNOMHVWS3B3S3VJa1JXMHVaQkU?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 21:34:00 GMT",
+        "discovered": "2026-10-11T21:52:46.212798+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديوهات | ملخص فوز كريستال بالاس على نوتنجهام فورست 3-1 (الدوري الإنجليزي) FilGoal",
+        "player": "",
+        "content_hash": "844ea1adb754ac939e2d74731a1ec0b3132157cc3f48e90421088b1d1440fb5b",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11035,
         "title": "فيديوهات | ملخص فوز مانشستر سيتي على ليفربول 3-0 (الدوري الإنجليزي) - FilGoal",
@@ -1156,25 +1156,25 @@
         "content_hash": "24f7554bcffc6ac9794a762d9d6441e1a604c238a3902dba0b78c943c65dbaca",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 10924,
-        "title": "بوكامير أفضل من خاليفي اليوم - جريدة المنتخب",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fbkJ1VDkwejNTOG1jb1Z0QU9yMG9qUGZXeWtKSFlERXZYVHZraVJ6d3JsYXI4d2pCSmpEVENGbzlDSWlSaFpDR0VwdEY4NTZiSV9ZRw?oc=5",
-        "source": "المنتخب",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 17:18:07 GMT",
-        "discovered": "2026-10-11T17:37:10.175558+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بوكامير أفضل من خاليفي اليوم جريدة المنتخب",
-        "player": "",
-        "content_hash": "4d40374f883595cbf8b4190fcdc8aed62ad8e67c4a92125275139adddc75a1b7",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 11042,
+        "title": "إعلام إسرائيلي: نتنياهو يعقد مشاورات أمنية سرية بشأن إيران - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQRF8wQ0hocTRMUVlrVVpqdEI4a2xCTkpldGFINnBfbkd1NklTNGkyX05rQTNkcktENjRwaEk2Z3NPY0doRHhjSTI0c1NfRmM5cUE4QVNBYmRuWER3Q282NVZGRzhNeGl4c2JqbUhvS0Q5cTlrX3lmVllfVnh5UHRHRl9tXzZCcHVyaE15Wm90czhSTzk4RGxscU15anJUcjhNemQtaGpDRHpyS0N6NjQybzJpaUFWSjFhZ2xNSTBWMVpnVElfSDlSUlZzRGZSZExYdHpQTFJLSi1CRjM0MV9sTGJQZlV0MUlDMVFadU84TnVqTmsxSjlGWG5Da3RUWE90QVBiOU9xb2VwdmQ5T1FxaFczWXRXRnFBeTJWNEF6bnljcVpJMzZ4cUFPT3FXMnE3UDB3VmhwdGRoN1pYMnFwQXMzbnk2dnRGZXZ2V0w4Q0pma0nSAdgCQVVfeXFMUGtMU0NPYXdYRDFPVjNzRzdldXVNdHlyckxMUEY0UG5RM240ZE5jZUQ1SXlMRTVtbHlvUVZfc09hLWNmNlAwYnNIZExteGNWRjdpNnZqd19HUnVMOFgzdktaLUpkSlBiYjhtRlBGcDZQQl9zdk85VU5lNzI0azJEdDV2dnBwNFZJTG9kUlF5U1lDd0lDTzhDTXdlNzZUZ1VlbXp3SkZyeHBXNFRBcFdEZUl1ekhlYUNnSmM3Tno3NG5DeTlVMVFKOFNpMDg2eU9uNVBINktramxpZ3BteDFYWTVZSmh6b0lJcV9UX29lYWFjLUs1dXNHRUdoOXQ5QkhMZXo3cGZnQ2twTXRuSFhiYzZzMHdkeld5U1UyV0trV19IVFVTMlZHUGhncUFQOGpRQy1PWDBaSTJuYVQ5ekZGQXpfSEFRVnNBUXU0bzFJUTZjUHNLNXF6YXU?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Sun, 11 Oct 2026 20:00:27 GMT",
+        "discovered": "2026-10-11T21:52:52.359116+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "إعلام إسرائيلي: نتنياهو يعقد مشاورات أمنية سرية بشأن إيران الجزيرة نت",
+        "player": "",
+        "content_hash": "7ddaaae42eb4ad4db4107faef91c35651cf82322a4288504721be2f2724c3293",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 11005,
         "title": "العقدة مستمرة.. ميلان يتعادل مع ساسولو خارج ملعبه - FilGoal",
