@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-11T10:09:24.488487+00:00",
+  "updated": "2026-10-11T10:26:27.951314+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 10809,
+        "title": "إحباط محاولة لتهريب حوالي ثلاثة أطنان ونصف من الشيرا بميناء طنجة المتوسط - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UWGt2aEZNVHo3am5VeThFellsV1RrMlVxUU9sQWxxOTJ1OENva1VCTEFZR2pYeHNsemFiT1ZxR2FVUjA1NXFNaEpoRU83aDVMZUtCTUVsMHFudTB5WHNyV3EyVGFVUQ?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Sun, 11 Oct 2026 09:57:05 GMT",
+        "discovered": "2026-10-11T10:25:59.524281+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "إحباط محاولة لتهريب حوالي ثلاثة أطنان ونصف من الشيرا بميناء طنجة المتوسط Le 360 Arabe",
+        "player": "",
+        "content_hash": "a6f6f497898f3823e8ebda5a92f6f11511d0c6a4c0fd728b146da4e04ec215e0",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 10729,
         "title": "السعودية تعلن مقتل 12 شخصا وإصابة 309 في هجوم بصاروخ للحوثيين على مطار الرياض – اليوم 24 - اليوم 24",
@@ -404,22 +420,6 @@
         "section": "morocco"
       },
       {
-        "id": 10313,
-        "title": "بالفيديو.. مكالمة هاتفية من زوجة كيلور نافاس تجبره على إيقاف مؤتمر صحفي - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNbGxMYlhDMzhDSTJ1NHh0UG5KQlFzem1pS1FwSVlBQmhNWVhEU0w0dHI5X0tSWGlaS2gtUkJlQmtqaEt1OGdzUHU5cE5iT3MySzFaMkVHRWJFc3FkUkpnV3g4UkpwcVdObHZ2YlJSV0k0OGFGSW1tdWN1aHROZWRSUFBFZFUtLXVoZnBJR3lrQi1hUjF2V0FVYWN6MG9ha1k3bVFfNE92bDk1bVMwVjNobW81ZGtTaGlpU193MGpLMU41eXJoRXpUb1RjWEdhcl83TldPcDBlV1Z2WTRTT2pkckZwUFpmSUVjRHRuYXhUcy1wMGgzX1hfMjEwOFVTLVlGdTdoRWlKUGpPZ1pqZFRLQnZtb05DX1J1RzFpaUlkV3VLQjlDbk0yVFRvTlhOYVA1aTdnNzYzVEhrT0NxTHBXNWhjNHNzYVBHUXA2c2NJdTRlV1HSAdgCQVVfeXFMT1dPb21SUEgzTjFKeWthVk9Kb28xcEtyZ0djMnVyZmJLanVUbm1SM0VfZ1JrSENDb0tzcmpRcmpmT1k4RXVfbHp3bFhhS05QeEh5RzhQVGNKNHo3bXZBRVYzRUl5MXJXb0RWUnNpNkFwS2haencwaXVPQXJ2VU93QlNvbHhQRnlyNGthV2FiMDNJMTJWZDRESlVrSkdwVG9aMERpeFJxcE56SDhtNVozQTRtcnRVbEdMSkw0NndrUmE5ZmdnX1hNVkxPY2VFWXczQWJiYXZXaXpHeE1qdC1OOENqbDlHb21xaE5zTl8yNnR5SXJFWERWQ1I3eGY1VjQ0a01RamNGRWFiMnlyeV9kVDRpNW1RdjVVOEFhUUo5WU14MjE5VmxoSGpWRWZlQnZpaTBhSnQxQ0RFX01saWM2RGpDSFg5SHNfazh1Wm1BdHNwS3laNWRONEc?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Fri, 09 Oct 2026 10:02:21 GMT",
-        "discovered": "2026-10-10T01:56:01.857596+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "بالفيديو.. مكالمة هاتفية من زوجة كيلور نافاس تجبره على إيقاف مؤتمر صحفي الجزيرة نت",
-        "player": "",
-        "content_hash": "91650d20adfa32e697a5993086bc687578d73d652110bb2cd49c2699356b100a",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 10489,
         "title": "الدار البيضاء.. التكفل بارتفاع ضغط الدم الرئوي محور ندوة طبية - | MapNews",
         "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxObXE0bTRsLU9McnpwT0dxdG5BbXBOWGZJRG9Wd0s5SEVjekJxR3YwNHJJeWFGSnJzYmtNTWNZZW55TElDVW5VS05DN3VYM3I1bXp0Um9zcWx1bm1CSWp2SGNVNzBjb1JSWWZaNzM5azg4Wm9nYms2dmFSb2FLQWZsVi1wUHpBZWVIMXZlU2V6M3I4aUpvSWx2T0JXTHpMQXNzbDRCYzBGYmVtTVhKZ2ozUzBjTHNUbHVROWRxMkU3dGVvVkNmdDI4TzNsUGZDTDFoLWlTWlNEUHhWY2dCaXpXNzdkYjdwYmt6VVRFeVZWTnBzWkxfdjkxQWdJQXd6YldhVF9Ta3hPd2NMQUxlS0xnZ2dMOC1QdGtkRy1jNjFUMnYtWEVwQkdwZkRrNXlXRkRieEdsdTA0N1ViV0EyWXRISFc4WFVHRHh1QzVpQzh5cEVrcUszLXYxM2doYWYwSV9rdmtXVElSTWpqVXVXNlBLV3lZTVZVMzlEa21IS0lDSDJpVWh5VE1NOVI3TTBoaW9Tc2FRRHJ1cmtZTWtoMTRUNWFFR3BQdTFLREJaeVdsYlNiY0ZTa1NzU21kM3VJOTRWaVNuRlRjbXZoeFJmdHVUTUg0LXpNUHZMelRYc2k2ejVvRVVEdWxqdzZUMVhWYW43a29zUHU0TmhIZDd2dFNzZDNSNzhudGdaUDlGSW9B?oc=5",
@@ -437,6 +437,54 @@
       }
     ],
     "sports": [
+      {
+        "id": 10810,
+        "title": "ممدوح عباس ينفي رصد مكافآت خاصة للاعبي الزمالك قبل القمة - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxNX2VXNmR6UHZrbXdmUXJyZTlGTm55eHVPcVZKR0M2OEx3ZE1rdUxQLTZTLXphTHpHMWVPbFhGSGFpN28teUpjbG5JSmNGSV9PM3kySllrV1A0VWxBRE9sM3dQWFdGcWVTalBUV3dMRDZ1N2ZRcmx3RUh6SzFwZHZkSEhOejJ1SmNLcGVJbzNHWWRSZGR3cjcwZHFQWTRkQ2N2WENOZkw0T2NXSDRmcnNBLUtrbS0zVWltSl9DelFESXlMQWlDZDFBdFhNT1VZMmNBSWZzblJ3MmRHMllrOFdMUWVveTg1amM4ZmNNZWE1R29nU2RaODBCbk9ManBSZllWY2JKUUhRY1VVM2hvZUpUTzNOVUVJSWhjMWcwRldSTVN2NWZKY3ZFWTBJRXpfZTB1RUR6T1RGLS03aFRST296OElHdnpZWTF2RmNaeWZxbFkwVU1RN1ZCd3g0aWxTblI2OXVzaE9zMk9rMm9oN29lbTdFUWR0VjFVX3kyek5OcnNYOHVEenRvU2lEZFRIVUpEQVBxQW92VTc1dkFZZm4zT20yU19HVnQyVGJIMmYzSl90ZmZrUmlveGFRa2Y4bTVHVTc0eXB1c3BGR2lmNlJOM2FqRjh6d1RKWk9IRTQ2SDJscnV2cWNINVcyRUxjTUnSAfQDQVVfeXFMTkJDOGotcnhETXNWTU8taGkzRUJ4QzhBcjFiNVh5WXRtSkhNYzlXanBSeWIwZUpLVVo5UVNsQVFwWlhqWXVUNkNhajFZQUtqbEc2NnJtZk1BVEJqUWQxVVNNcTN3MGJ1aVVnWEpEbnBLTkdTTFg5YTJ5MU9TdnE2US1WZHhJcjV1bmMtdHNQaDRpZ2FNcy16RndvSm1hXzZ3TUZ1WVJEd2l2WHhtaXF6TzFERklqR2R4X1pVUzJmVHdfdk11Rzl0YXNDT2NkYmlJNm1XUkkzdUJyckZDRGt3d0JOUXlEbUsxcTNOc2lya09IbFhzYTlMNXJKVVhNei11dVozMmo2LXUtODcyWmxMVDM3Q3lUYnRpUThXdTlNb09hUGxhY2NDcU5nbm5sUzdCT1I2V3l0TmNtdEt5ck5fOUFYeFBXajZlNDN2bGwxbldNMnZPNElVN1hJT3JMTlJneV84UHZoTEFIU0Q3YU1uLXdxYWxxWldWbGNDTUJ4SUtnNnNUYVlDVmI5R0oxTlN4R3o1eFlyVlc0cUtWREMyZUZvZHVkOC1vbkc2YXQzbnBMdXh4NFNLbnRhMUhTTFRScXgxVURoSHppUWdGNnBSYUpBY290aFd1d0hObV9yQk1iT2cwSDduTGNacXI0VWpmX0ZwN1c?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 10:07:00 GMT",
+        "discovered": "2026-10-11T10:26:11.546853+00:00",
+        "category": "الرياضة",
+        "status": "منفي",
+        "summary": "ممدوح عباس ينفي رصد مكافآت خاصة للاعبي الزمالك قبل القمة يلاكورة",
+        "player": "",
+        "content_hash": "b162dd874f126b1e7dd513231d328b2fb6dc1742b6e1124787d668bd585d0902",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10813,
+        "title": "الاتحاد البرتغالي يوقف كريستيانو رونالدو بعد مغادرته معسكر المنتخب - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUkhEd2ZxOU5qdmRqVVQ3X0V4eW01ekd3RjRBT2h4elB5XzZzZXdyV3gzM21kV0Fld0hYTWloekUzUVBHbFV1Z2wxZ2IybF9XZjZGS21nZjJwU2RBcXgwZ2VyZGhfMWNpWnpyTnBVd29ZaGxlMTdwS3ZRWGFxV3dCUUNKZ0c4NkZ5czNXbGY0Rl9pX3Q0UWZ1OEs2cw?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 10:05:59 GMT",
+        "discovered": "2026-10-11T10:26:26.711330+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الاتحاد البرتغالي يوقف كريستيانو رونالدو بعد مغادرته معسكر المنتخب CNN Arabic",
+        "player": "",
+        "content_hash": "57c748916b0533ec4a3459309169092f043fc16e8c2cb0c435f8ff3a7743afa3",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10811,
+        "title": "22 لاعبا في قائمة الزمالك.. واستبعاد ثنائي قبل مواجهة الأهلي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxOZEZGOTJ1MW9jNEhtRnV5NmY1MUFtLUZzeFFkVkxmTkFxVTNMamtkSlVWMVl6eGdENjdGalpNczc3NlIxVUVOMms4aENKalhodkM0R3dPWDVwMzhsOU5RUFFNZDJHcTQ3SUpvZGxteTg5ejNwOVp6Tm82YlZVeW9YZHJZZV90eW1GZVRfT01pZUg4amN6QWNGNkVPMnYzeW1jTEpZXzltc25MY3FMd1ZtaloyWGN2bHFLSXR1dFAyT3hQTzdabk9SZTdRVlVBaTRfYS1yMF84NEh3UTFrZ2NSUkVxa3JtV1J1RGtkWkZZd0pUQjh3cWRoZzBsOTBQVURiRXFMMmlaejJLM2ZkZ2kwdDhXbnRCdHF3Z0lXV09oUDZMa1pjeFBVN0lGRGdWMVo4amR5LVlQQ3VFUWRyS3NTbzBLbXcwWThzLUxDaHd1RDVxNUdCSVZwODNjdUZuelhPaDNHTW9wTTRacm53ZjdmSTNnMHU2dG9fMDZkenkyai04aGkweWRyaFQ2Yk81dTJGUE5JMG9iQm42WTNwcWg5X29YMzhHbUNPdkhpNnJJWDRwYjJNSEFHbVVKdmdKeXA4LTZDMk9EMkt6MnBPbERwZjFGaC11UdIB9wNBVV95cUxQbXN2dXpmX2lPYUhOTzR4eXdYTEFaQk1JWWlzdFVNcHJNWXB2VUhZREVKbW5vM3lkbks5aWNCZTVXR2V0NWFnRWQtRGt4NHR3alhoUzVwWDMxT3l4SnlUVVoycEJHYUN4UDNCTkRRWGNQWVZ3cHlqWndCdWNDYWhxc1NUeU1uVkt5ZzJvS29NeGhXaTAtQ1hGWkNHNDl5M3FCRjRGbjM2a25KcXFmSDBxcjdRWHNINXNrQjU3aUNzNzhBRVVaUUQ3Y3V0Z296T1JkUXVYelpROUNiZnZUTUd5aW9KUzlGX0NERXVGQlM4WWhzR0U5ZlRGdW1WZ1E4UjhWQ3BfYUJtUkI2cGVybkkxTzNBYkNkWDItR3VhSHZFdkJxMFYzS0tXV2VNQU00b0pzYTQzVFlyZzBnakstdHRjSmRudFpzX3dyWjIzTUliTk9UN0pTSHhyeWdwZ3RWbGVEQmVjX0MxSnllekNkZkxnV0lfXzFwc2pzbFNlWUowVXBycU9IQ2M3R2lWenZnRVpqMklVZXdtRE8xcW5nN01lbDc3eEp6Q3kxMll4NU5JWjJyUHpvTVhkZk8yN01NNlNZbzZVTFJwWjV6STBXUmQ5X3ZnRHMxWjNQVHhzblE0VDNnOEtibzNMbGlEM3lsSUM3SjM0WGRBTQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 10:05:00 GMT",
+        "discovered": "2026-10-11T10:26:11.553215+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "22 لاعبا في قائمة الزمالك.. واستبعاد ثنائي قبل مواجهة الأهلي يلاكورة",
+        "player": "",
+        "content_hash": "3698b52f14728751c6f5553dbfdfab86bd154b19ddf24e60e4fb2857f29bf561",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 10797,
         "title": "أخبار | بسبب ظروف الطيران.. تأجيل مباراة في الدوري السعودي - FilGoal",
@@ -1188,54 +1236,6 @@
         "content_hash": "a2d504501fbb26aa9f5e9b2c8308b2626ad6508e499666d34cdede0362db4897",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 10565,
-        "title": "البرنابيو ينتفض.. صافرات الاستهجان تطارد لاعبي ريال مدريد أمام فياريال - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMinwVBVV95cUxQaXZQbmlwclRqRWlGY3JjYXNwekQ5Z0ltcEFlUDM2MkZ1bnk1cVNnY2NLLUhPT2FIeWE3MXNtVWc5WTNjVmRPcGJYSkxMWjE2b1FzVDI0V1Z6UG91Rm42ckRGYkwyZXB4YVozRWtDdk1OaEJlYkFQTjRDLWJVMXZ2OVc5dGRRTW1MVm5oUG96dHlPc2Zuc1NhRXA0TWtYa2J6MXE1LXFIU2hwQ3pkM0dkdlpBNXROeUV1dTRyVWNkUEtuVXFEelAxdUh5UHFfeUpsdUwxVkVBa25IVXp3VlBDZ2lWbDdRaDZMVUcyUERtaGZ5YVM3cE1xT3N4NGdTUGpUS04yZGlLMUd0V0R2MGw3aHpaLW1tNDJSTTcybDJRWUViLThIN3ktN3g0MmVld2F5b19tVGZXaUJkLUpkRm1YMzZyMlJEMkpIeUV3dGNYTHQ0VGswOThxX3NWN2ltQk95TkFRQWFacGlRYkxGS3RLdzhLM1ppOGtsR1NmM3VCMHVBSnlzMDVic1JTMmNqc2hrdEdWbVQyNGU4X1BsbjN2VkVwYkJiYld6WnRCdHV5MFUyeWFrOG9SU2lUWkM2d2N2TmhYbFZ1ZngtNmVxdmtsMXQ5ZlhTUW1YeEFsb3MxbEc0cVVsYVVRaU5waE9BbTBYaG9JdlAtMUYwdUw2ZXRURGxPQnRURloxb3NHRG9SN25nMjdwWndvTFVLQ3ZQZTZ0U2ZVaEJRdjVlaUJod1psTTFQTG1kejkzVVB2c1lvMkxNWGVudFVnbWhneTJXNFJ2WXRyTHpaYVBOeDB2NHQ3MGs0djdJMVZCc1ZtUjViV1ZiZVdfV0Y4cm9oaXFqUEhkc1QxMXpjWVhuRUZFR2RHRlZIUmVTd2M4emhUUVVYVQ?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 20:34:49 GMT",
-        "discovered": "2026-10-10T20:47:51.269589+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "البرنابيو ينتفض.. صافرات الاستهجان تطارد لاعبي ريال مدريد أمام فياريال Kooora",
-        "player": "",
-        "content_hash": "f58d62d2e41bea17bfa0c96ac683248e5ae6ec77994d43c211c7c92f7216a002",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10568,
-        "title": "في غياب عمر فايد.. نابولي يهزم فروزيوني بثلاثية بالدوري الإيطالي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxQcFM2V0RnZEJFSV8wY1R0OHFJaF84RDBobW1aYWl3azJUeDFFTU92UFFpUkU3cjV2S3Z5Z1k1OEVvejhnSEhxNjhlWkdlQUJyLUlCcGNEWjRnRzFRWXdHN1JVd2xaS2JpVkhNd09HZUszVkxHVElUVkJFSGJhTnNQalZnSzdUdlB2VE5tYUFGM016QmRHY01tTXpZU0dOWDNDa0N1UFNJTWhDbzl6N2tSNE5SWWp4X3gzbFBXMnJWdlRwRWpYdHNBTFBWVzY2eUxzMHVnSHNpRGxVUWx0ekNHbFpleVpxRzNmalhkSjNxZW0xNFVadVZRbEIxOVhSY1czZEFqUnBvT1JkZXRBS0JEal94dUF0T3BlcXp3NUE0Qld0UUpESTVFVGUzQVBSM1NDWkdPZldnOVptcWlnRG5lMF9iRFk4ZkdDR19DaVJ6X3pibEJzUFhaT1kzaTBiUXdrQVlNZFlkT3BfMGVldF82cTRoMDZWWWwxNTIwZ1VJUkNkODZEY1RFWFZzelpLRy05dmR0djVBUUZ0RE1vWUY4eTJoTkU3ZmF5MmRqMGF2MmFoYmZBQUg1M1R2dm10TU9oMUVtQ2lhVFFJMTBidndaTWk3bWpuRzF4NnVkeDVla3VPSVo5NVhOWEw2cVVyMy1vNl9tVUZJNlJkRWwxT3cyX3pQY9IBmgRBVV95cUxQalpBUFc2NzU4MnNqLUZ4ckR0Vkt4ZzN3ODg4NFhqLUFKZDYtZFZSZ0FLZkJEQ3ZCdmI0Q3p2ZURNZVJKSTNOOVRrNkRMaXlfUEJlM2thQ1hXSEZ2NzVEbkpTekhnaXI1Tmx5WnZxRTVWMmxQbldJWlg4MktYNnFSSVhLa1hXd1FnZ295bkRwY1RfSUVreTFIRmhDUlRqNUY2RWhwcEs2M2FvM0pORnNpYzVsQkMxaWpGSUYxN3lma1lSUjZVcDhDWElDRXVnSV9uYVVLVy1ZRmFRMGVzc3RqQlV5bGtUbzhWX2JhX3MxRmVRRnc1YllRNm9KRUF2UUxNaG9ISTBySUgtS2I2UW9KSE9XLUV6b1ZaSzU0ZEV6NUNSRlkxR0xydHl4NmRSMGNMU2pTTlI3OU81cnZpdDgzQTBIa1I0WUlnQlRNUGhQMlRQd2tOTjRJZkdieGk0U1JUcWlZZ01HMzJFbmpUVU04LWRxdDR4XzNfeDd3Q0U3T25WeF83TXB6XzFLTTJoWFhqSF9LdDdCZk1kck5WRVJQWnBLTEkzS2xIQjlvaWlSS0hod0FTZXdYdFNiMmE5bnFKdFdMWFJEQXNaRXBPaVZMN1Q1c0JrcWc0OTlJcXkzNWgwVFhNejVsNWZEN2ktbUxOeFVCdHVpYzFQcUhKazd5Mzh1VVVTQjV3TjlPNVlTdHVpempHaEt3d3ln?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 20:26:00 GMT",
-        "discovered": "2026-10-10T20:47:58.211523+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "في غياب عمر فايد.. نابولي يهزم فروزيوني بثلاثية بالدوري الإيطالي يلاكورة",
-        "player": "",
-        "content_hash": "f2abc532008a54814159b844bfce1c884dfd252a03c853a4c39f347b4327cffc",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10796,
-        "title": "هل المشكلة في حسام حسن؟.. سبب أزمة محمد الشناوي مع منتخب مصر وإمكانية عودته - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxNYy03ZmZkcFhuY0Jha3Nhc2NzeXFqZS0yeVU2bjdGZGMyVWFTYTM4cVNsWUhUcy1HYUhOcEJyVmtGRnQ1d0E3LTFzbzF0N1NGSm1NczRWekNYLXFQaHZESjZyc1ZmYnJlemlTNFhsMS1kOUNFemhKYVN3aEJLeFRJOTFfc1k0WTRKOVA1R0FOd0lvWXRpWng2R0t1enFhdWkxdXBSX3h6THJGdUwxZVVuQ1lDb1lobXN0Rl9fOFAzSmpyYjMzaFhIX0IzbmVtYWZRM0xtWGFwbWhmR0o3eTVwa0RBbXdjc3A2V2ZQQWtfUzdJQi15UlFxejVia0VDaEIwOTJxQktGZGI0Q3dlb3dteF80Z2p6MkNkcmtJdTN5amlZWl84Qmd2Rk1EUWpEbmtJa21QV3lic3FHcFR5cVFSYURNN3dkUzNSX0VWMEFaVFBhc2Nucm9qS3hfbkNYSDFzUzRsS01hbGtoY1d4WGNGaFRyc3pDVWNHcER3Z3h5TXBWT3FDMzB6RFp2eTN5TXFhcFhpQ1FBV0FDaFF6S2w4MGVmeFZybjVFY2Y0ZG00TkRSX2FUSDBzQmIyYXllbXpQNTVYa0tjVFM1NUhIdkZDNlpYSGxzMG5PQXF4UktuTXk4VkFEeFM0eVVJTjFpQnBZa0xnaFVCRWdBS1MtOEhla190bUNDTDg0aVNOV3VmaU1OaUxLSFRnLWtzbEs5MGJRc2JTVkhFeGRFdlozLVNpaVEtMXFYX1BNdWpRd1liZ3g5c1pZSENrY0xNY2RjcFFqX1kya2Q4OWY?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 20:25:00 GMT",
-        "discovered": "2026-10-11T09:05:53.731188+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "هل المشكلة في حسام حسن؟.. سبب أزمة محمد الشناوي مع منتخب مصر وإمكانية عودته يلاكورة",
-        "player": "",
-        "content_hash": "f251cf93aabf7af81e34970bf09f9b7ceed5e8312b34e89cc15e3a3860c7473f",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1766,22 +1766,6 @@
         "content_hash": "48fd2232bbd84f3dc049ce8d96c472cbbd62f87810f573be2cb6a9e964feb0db",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 10676,
-        "title": "الرباط.. معرض\"طرز\" يقتفي أثر التراث النسيجي في المغرب بين الأمس واليوم - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxOemF2cC12T3Jfc09HcVo0TFRVc1dXcXU4ZjkwaUxaS3d1SEttcHVqVHdMSXNYTHRhUVFVUEoyd2Zjbm5OS1dwanVhOWFxdUIwenRldEZfYnRGWjlZcnQtRTNKb0NPd3p6c1hFQ0N4V3F4bU5Ub093ZUtEcEU1d29IRVZQeVZGV3B5clJKSkJ1cUlBWEx4X2VPcEt2N09ERkdiVm94b2NhYW5renotRnNaems2LXUxR1JEdXFZYVNNZWJhUklDQVZHQzZsQnpXa0tlRUl5MlpmVmZlZ0hnSlJEdmpROW85bmRwdEhDek54aDkwbjVNMkhoX29KUzFjU0twalFIV012cVdDUVFVLXFvWHhRQXJ6QVZMYUU2WWpFUjlTbHlLOS0yTGQ2T3cyM08tTzRWSlZWazl4dVZJZHowUmNqSEk1QlBrdTJQM3lVRjN2dGk1OWpKSTlQRjlPLXNhQi1EcDBraW42OWNLbGR5UDFJR1hNY1d5X3FxX3VHbDVUejFKZ2VBR2lwbXFVeEQ3N2Z1MmZRaXkxWFpsWFdpMjUyUkpGV2RldUxxUXZYb2oybTJXYmFWY3BRYmRrWUcwV0FZTTRyY2k5ZExYTTBIVm9uMEtGRUZPTktmYkppRW80d21UUXZzYTZDZ1dQZXd5V2hOb1ZXTWRQWl9GSFdTOHI3dm9JSVJ2aXhDMDZ4NEM1RHRvdU8zbS1iZVhkdmhwcTJ3RU41Q0NHdUlKSjZNVmNOYldSN3p3dnE2TkNickoyWEgz?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Thu, 08 Oct 2026 23:08:49 GMT",
-        "discovered": "2026-10-11T02:02:52.835936+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "معرض\"طرز\" يقتفي أثر التراث النسيجي في المغرب بين الأمس واليوم | MapNews",
-        "player": "",
-        "content_hash": "3a165e37bf80f47b80b6cd043f5f800f832c5c33a382dfd58c1807be34a73610",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2059,6 +2043,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 10812,
+        "title": "تقرير رسمي يستعرض أرقاما وحقائق مُروعة... الإبادة الجماعية تسحق الطفولة وتخلف \"جيشا من الأيتام\" في غزة - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQUzB0Z24tY083c3AwZmZDMVhlZlUzbUpuaUpRb0RIVWU3clZ1d3laVVdtLXBZZzl3dlFncE9kaTFxalhzbGNXXzhENG5wRmk2UmJDVkZjc041d2ptNzN6OERackJFMC0yWktuLVZzLU8xejFWRGJDY2NicXpodmcwZVJ0ZTByT09QVE9NbjBIY0RiZkhiUUVHVFpIWXJfc2VMeFFyUkhlUkdxcmRDM0ZTdWVrZTZpNjBUZHA2RHJyV0tvZ09NVG9FWTlDcl9lZzYzbGVzbk9jd1Q1Q3BEWXZPOXFFZkFXSGhGd1lPaVlUQWZ6THpuc3hRZ3UtMGQzNnRwSzhfNHVHWlFIZHZMTmkyRGNNd1lqTlNxbC1oRkttOEl2UWF2bU8tU1RXTTltcWpUX1hmS2JVMHBTaGdGZXN2eWFsbklndw?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 09:27:02 GMT",
+        "discovered": "2026-10-11T10:26:23.015039+00:00",
+        "category": "العالم",
+        "status": "رسمي",
+        "summary": "تقرير رسمي يستعرض أرقاما وحقائق مُروعة... الإبادة الجماعية تسحق الطفولة وتخلف \"جيشا من الأيتام\" في غزة القدس العربي",
+        "player": "",
+        "content_hash": "96ec0feb6d2a7273f542c09c05e6a26181e4be6e3fce14b77c4a1f5a1aceeea8",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 10789,
         "title": "عاجل. - بعد إلغاء رحلات إلى الرياض.. الحوثيون يحذرون شركات الطيران: ابتعدوا عن أجواء السعودية - Euronews.com",
