@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T16:19:28.357577+00:00",
+  "updated": "2026-10-11T16:37:51.368430+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -406,6 +406,38 @@
     ],
     "sports": [
       {
+        "id": 10905,
+        "title": "هدف صلاح محسن أمام القناة - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOc3ZzRGpKYktwRS1Za0VKeWhQYVE4ZVc3cVRDRm10b2V4dl82ajYyM0dDdEQ3MVNJYW5FYU91eUJRY2wwTjVybUpma3dNeTZORzhfMzBYbjJhbURkaDljTkVyYmlPeThqM2xsMmE2SGtNaFJmUjhPQWhIRW5LVlliekR3MVhLNWpYLW1SYUFBalZZMjhaREdabVpzNlJsQmFQUUxuTlRqZ1VpcUdwaUt2a25MM1R5N1UtdUV1LVVHZGx4ZF9XSkZRaWFkQUUwb0dXajR0R1Y0RTh0b05hNzZ6NklzLVRpMUc4TGRrY0cxWWNvRExfd3BOWnFqaWJ4aURT?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 16:06:00 GMT",
+        "discovered": "2026-10-11T16:37:32.826677+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "8b90dcfdbb0672d6568fa8f7ce684667c982fde72da62a0d18124cb1786c97fd",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10906,
+        "title": "هدف القناة الأول أمام المصري - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQVmpwS2Q4T0JXd0V1RUI3MlJ4Y0RfVVFWVnh3SGp4d1REdWZOZVVXMENiY3ZRUWRwNzVnRzg5OHZPci16all6eGkxQnlHQVBxYUprQ01xak9pcmgzZkxqcHJXamxDZkJlUDEzcWU0Y3c3YTRaaEVLbzczdm5RcjlscnpNRllRMlNoaUgzQ19rdXBIN1ZwaU9NWXNLXzlVNEpvaW5Qc0dNOGFDVllSLW5BaFNzMVhDbWdCMno3WUprX2s1UlFfYll3MFBNZUItV1F3THF1V3lUWS1zX0FLODl4THJVdmhFZ295UUFpNFBIQmQ5MlZaMUd5d0tiWXM4V283VjEzUzBqNFdQOVlfXzFIZjNzQ1BuSUMx?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 16:04:00 GMT",
+        "discovered": "2026-10-11T16:37:32.831728+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "2c725b8b92fede708046c758ba7084376f11ba467b3c6144fb0aa72124f42019",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10899,
         "title": "هدف القناة الأول أمام المصري - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQcVE2T3k1TUpzQXdUamNycDlFdk5lSllocEpTQkNpM3hsQUQzNnlyd2Q2S3QydmVwbW1TODRGT3ZpczlXemZCRjJ1eUhkUUdYRlh3NEY4d1RRbjBFNjFEU0xibnBXNjA2ZGpHb1hldDhqY0htN2pPdWUzWjV2c0J6cU1HYWhnV2RWbjRjTml5RzdVeWZGT2VxWDRmbHNXVmxRQ19HSk1KTGpZbFNESThod0ExN1FuR3pHdHhtdnBXRVFPcUZMaHdoWVdobzFGX2hnYkd5V25rMTR1aXJOc1RqNWZPVkQ0RTRQOFJIR3hraFJ3UndhWTVGSlJDX1RRZmpWTUZrQjBWc2F2cmdjTGZqaFVhUmhocGd4Ym8zT3c5MTRxV0Fsd1hwaUllTDRhcFBkNUs0aw?oc=5",
@@ -658,6 +690,22 @@
         "summary": "كرة يد - الأهلي يختتم مشواره في مجموعات إفريقيا بفوز كاسح على الجيش الرواندي FilGoal",
         "player": "",
         "content_hash": "958d61caf66552f948bab6ca607b3c875116b5d7f0260884cade3a587d92313d",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10907,
+        "title": "باللونين الأحمر والأبيض.. غرفة ملابس الزمالك تتزين استعدادًا لمباراة القمة بالدوري (صور) - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiugVBVV95cUxQR3Z3dS1vX245WWRWTFlRYUlOY3FIX2pQZE03MFJMNXZyWlo2bEk4X2FjRDZkSm1XOHllTkd2aVBIRDZzYk9MUk1JQTVqX3dRallNSkZXaV9yYml3Q2xoTXNmOEI5U1BEdVNuWGN4dG5BLVhtMk9BdmxRY1NLOUIxSjRqM1JyZ1I1ZXhoU3BVekd4cGJBRmpqdHZ4ZFZVSUJLV2E5Y0FPMm5jaUZibkI3OWFyOW5RX2o1dlZvRko0Z2dGbWowRGVUZ0F5SlhWMjZlTk1SY2cyb2xvang5TElXdnpfdHBDNEVRSzJVNjdGSFZ4ZUpsTEIxbVFHZzc5M2xQZkR4Z2JGdkxDVXlkQnV4TlVCYlAzYmdIVFN3OG4xNWxfdFhZTmhhVGhVb29KYlU2OGNRUmFVNWhxS3JKc2QxU191aTQ1Q0tKYUVqLUVwbzVVUjF2Q2RDY0J4cXJuMlctMWpsYW9GblhUcEw3X0d3LTBfVzZEZHJUbURfOWdoYlF6Y0N1TmE1QUx6b1o2M09EdGJsVGpHOVJTSFFFdkhNdTNSbEFHWHJSN1FvYmRFb2FIUmw0Wkc0dUJSRkx3clQ3MzZKM3FjeGNiMXhqdnlMeTRUbWFEc0w5akFqX0JtaGptbmptZVV1RE9Nc3FieE51ZlVmc0lRTFB3SXFIYmdpQmEzS08zaTBPMXVzY1RVTGphRW9XYjhzQXRGZmxoU2tfajJsTm5rOWd2ck51OUotd2dlbnBrWnQwbDVvYVhXUzlFV2x0a2hQQ0JPNnd4clRJTlBKZWVzM09SRTlPZnJqZ1BPWjFjbWJSb2tSZVlSSjNYNU5fOVVvZ0NHdXJleXpMTVdRWDlCRlBBWk5WSDRMb2VnTEhCSmdhamZ0R2ozbEtFNmNNY1pDd1R2STFuWkpLVUhtdXg0YVB0QQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 14:37:00 GMT",
+        "discovered": "2026-10-11T16:37:32.852736+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "باللونين الأحمر والأبيض.. غرفة ملابس الزمالك تتزين استعدادًا لمباراة القمة بالدوري (صور) يلاكورة",
+        "player": "",
+        "content_hash": "27e484f2dc2c14d2574337dbbd2c05034dbccb35d0e697821de5878b7a6d1325",
         "sent": 0,
         "section": "sports"
       },
@@ -1156,54 +1204,6 @@
         "content_hash": "3698b52f14728751c6f5553dbfdfab86bd154b19ddf24e60e4fb2857f29bf561",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 10877,
-        "title": "السفري لـ«الشرق الأوسط»: نتائج الفيصلي لا تعكس مستواه… ونبحث عن الفوز أمام أبها - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMipgVBVV95cUxOZXkzN0Zxd2YyT1RUUmFEcno0LUc4ZkVCaTREaTlyd0NLNlZGN3FIRmt5RXhES1hBenJfQ3c1V21pbDE2eE5XaE9qeFZZMko4NHZLOHZ0NnpVc3RCMXdHY0dsX2NqMHVvZ1hRN2t0RnNJYlByTTRWTjVkcm9iVEZjcmt4YW1HdHMtd1RnT1VsZ2RKejd1Z0pfTnNyQy1xdXdEN25PS1I2ZnMxSVkzeEdwYTRIaW9VUGlfS0doeFFicHRRanhwc2R4WmNNSlVCUGwwZElidUFGcVdCNTZDREMxUDBEU2RqXzQ1RzBEUU51YWdyNVBPQmROWXFfUnphLWNLbExLSTVnNWc1eXNidzRudjEtT0FmYkUwSFNxLTdnMVplS3JFcXk5MXNERjczd1VPdU5XWEY2V1F5UExwLUtHYjB5Vm1PX1RCN0FpWXlyUC04SmtMT1BFb2VXRjF1aFJTclg3bHhNUUt0TXROMnpQV0FDZGlDVXA4V1I3X0ZFdklpNVBNb2tnbzNLVE5lQnBfWnJtTThIaDRVcG1oQVRyWV9nbzVmel85NGhJcnZwbG84ZmFBYUZDR0duSjRXY0tXTlE5WnVsNVV0aVg1N1VBcTJqMWJMY1NFRHJxczdGVVB4ZXVXRnd5V0NTSGNMWHdYaW5FRXVndHNtaW51ZmxHVmgxcmpkVXF2cnY4bUk0Y2o3Vk5Ca1ZOZXZ1THc2ZGRfVHo1QVpfUjdxWXN1aFpJWjItQ21UQ195Z0pHMzdnYUQ1ZlZOTGsyRFQwWHU5RkZrcTA0ZWNFd1BSV0YwNUpraWg1Yk0xYVRJZGpuby1mVmg3a3BFaUMzeWp0UXNiY3FGUUxJUTlIZ1pCbFE1eEgtWGJLZ2ZTZFVyaHh2UFF0SUdpTXNmNXc?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 09:24:17 GMT",
-        "discovered": "2026-10-11T15:16:17.459654+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "السفري لـ«الشرق الأوسط»: نتائج الفيصلي لا تعكس مستواه… ونبحث عن الفوز أمام أبها الشرق الأوسط",
-        "player": "",
-        "content_hash": "4833a2544388e7ed37ea4d75706a026a55e49958389f95ecc5f27a7ee37c8f36",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10797,
-        "title": "أخبار | بسبب ظروف الطيران.. تأجيل مباراة في الدوري السعودي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPQUxTbDcxM3JDaGwwUHYyZE5NYVhScjVxRTVqMDFwTkJpTXN2aXBuMEF3SHVKbDV3X3poVzd4TjZKZE5RLXV6T2M5cUxtYVdaYlc3SWk3S0IxWExwUTRyNkRvbllnZF9GeEtiQk5FSFN2MmI0Zms4dlUwcXQ0ZURTUmxjM2ZMN0RIbzJzSlFTMTE1azFfYi1fcnpJYklNQUwyM2dtT2Qxc29jcjYzQ0dBbjltS0NDNFFjcTJoM2Z6QU9rY0xuY18wZlZ4alhRMzVzS2dTNEhhVldPTWdwT2Jkb2hEZVd3QVFuZkh4YjFwSVZTTXJnSmJMVS1sNXVady1qbDZGUks4UFRQdEZwdUFFeTdjcld1Q1lPQzM5WnQzbW5UdFgzSUlTalcwbi02WVdKRXdXdlJXM1M1YnZxRHBpbGRVRGxvOHlUeWhQRlJaNndnYkQ4d0hOTTNVaGQzTkowVXhCNklmM0VBcWxXMGdQWEdZYlMxSXpzQzNyVUxhUDBlLVZ6RW12eElRdVNqTkdFNXlIYzVRZG9ncmxpZXI1bXQxZw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 08:51:00 GMT",
-        "discovered": "2026-10-11T09:05:54.543697+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار | بسبب ظروف الطيران.. تأجيل مباراة في الدوري السعودي FilGoal",
-        "player": "",
-        "content_hash": "9e957cc0648a3029085f1c2cfd3d1ff76944b6c3c0b5328ed4c0118373e6fca0",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10831,
-        "title": "\"دوري نيجريرا\".. قناة ريال مدريد: لو فعل يامال مثل فينيسيوس لما ألغي الهدف - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxOeExHN1dPaWNQQmQ5QUd2ZV9ZY2ZKYjlFb3VVOTFYdFF1MENhd2I3QnpTQWxPZUVaQzZRcmhrWmw5UzRDRmpvZXpDczN4clZ0OUlnT3FwY2FRNEFKQktybVhIeEZoV0YxOVNTYURjU0NJSEVLNXJoWFFqUFpJWk1nd18zMnE1N2hRbzJqZV9SVzc4b3MxVEFaa0JpQjBYNXBRa2tmekpFaG1VNHR3cnBLWDdES3RyRTcwVmpFb2YtTl9CNzZhYXlqQ1hoNG43a1U4U2lHZUhhUks1aUJZUGRIVDlMRWs5aGVyd0xJdUhMQ0ZGU0FjeXNyV3BjVTFtYTA1RTZIMXFraUNkc1l5bUZRdm5IWkZFcHdlNXAyTFFGaDFLdTRqSzlrYmVyT0EzUzRmdVlRd1YyQWZGbi1xYmY3aUQ0bXU1WEZTSmRuZXpwTzQwY21SSk43MTVJRHdGODllZnMyNEt0Y2ZLVnJZUTRMdm9XWkdiZjF6YzhQSWpWS2xpWWN6M0VOcU1IR1I0RkpVbTJsUEJiSF85UmJpNmtZWDZDQlM3SnVqQTgyWXVTQmFleXdIam9NYnJTNFowUFIxbVgtc1dQVnBEOWdDRE82dy1YWk9OeHRHMmFNdWZfSWc0T2VWS3BQT19BZ1F1Q01HVXdDam1pYmlVTmJ4VTdRZVBURl9tYWhyaUhQRVRYNzhMYXFpanRiazJqd1lvOVBoMGozRjZGRng1d9IBrwRBVV95cUxOcl9sQ2p2eFBRMWlQakVUM29xODlaMVZ2NlVkUEdURlZQZ2huRldRQ0ptNDFZUU1JU05lZVdkOEdiSlp3ZXpkeDZxZ2NjNWg2WG51SGIwamJ6X3RxV2pyQ3ZFeXRCOHpzMWYxUTI1S0t4VHRnbmNZaEx6cXFVTi1VTEpUM2R6Tk5yMUR6b3NwX3ZPakJnaUI3V2NROE1vNGxhWUFsX01WaWlfZkVFX2xmaWhpRzFxb2E1NFVCeFQxTnJVdUc2NlR4T1o3YW5wYXowenpBN2czMnZjd3lHbW9qWUVEM3cxUktyYjVmX3l3TnZyMlpGdktiNXJFcWFLZk84azJMaHlVTjNEdkd1OFNjZjZLdUxWbnJyVTNGbFNQcTJTMkVMWkc0YzlLci1oRjhGTm5QUUJjYklQTTRNVkpqejRmdXYxbnRPNl9waHV5SFRRUE1NUnZDLVQyX3VUNXdXbG9VbFF4YlB2M1ByM0xaRE9nZ29SZmp5MlhKV1BLYTgyaG9rd3FtVlBxX2N2Rl9tZTg3REVQNExYSnJpTW9MdkNwOWF2djJfQllnSzI2OFI4M3luclR1Yy1OcHN1Q21Reld0bzZERGhuZVFGV0ZLNlNVdFlobXlTOXZ3OGROS0hrTHdlX2hGd0xNSE56c055R0R4dFN2TEtmOV94WllLNEc0cGlMS1pSNWVrS081b05MZ2xyVmthTDM1ZU12NUc5YjVwdGdwZjg1UDJLd0Fj?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 08:28:00 GMT",
-        "discovered": "2026-10-11T11:55:48.965392+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "\"دوري نيجريرا\".. قناة ريال مدريد: لو فعل يامال مثل فينيسيوس لما ألغي الهدف FilGoal",
-        "player": "",
-        "content_hash": "de209ecba6cad98cc8658ab6367f191dfa09ec097325c78c235abd842b8b50a5",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1672,22 +1672,6 @@
         "section": "transfers"
       },
       {
-        "id": 10408,
-        "title": "في تقرير له لمجلس الأمن وأمام تعثر المفاوضات... دي ميستورا يطالب بتطوير الحكم الذاتي بضمانات دولية حلا لنزاع الصحراء - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNUmJDX0xGMW1UbVdjVGRjSWZfWDdFOGdhdG9WUGlLbG1WaUd4SF91SnM1RUFyUUVDTS04eTF1RTZSSHhCd1ZDelRVRG0zaFV2aW11bzQzM00zN1FfdGUzVzlVMXEwMXJCUlFQUWJhTG5ZYVl4aVlTTmdWS1Z1bHYwX2pwSl9GWEYtNTVEQjVabTlrUS1qaFJHYzAtZXBYOVlKbzZQQV95anVGSWhZcEJkTGVrN091X0gwLVdMemMwcC1rUzB5elZXTk5nUEFtN29Mckl3YnAtRVZ4elphOXdFNFRVNkJNWTZPWGtkNl9xYy03dGp2STZPdmE1ZkRMdVdMVnVIWW1oMW5tMjlkeXhwRUpPY3p2THNFMTVTWXgtMTNCZDE1Ry1UZGxhb1BUVkR2ODNfd2k3NF8xc1p2OEN4dERWaW91UGZs?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 10:37:41 GMT",
-        "discovered": "2026-10-10T11:17:38.945250+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "مفاوضات",
-        "summary": "في تقرير له لمجلس الأمن وأمام تعثر المفاوضات... دي ميستورا يطالب بتطوير الحكم الذاتي بضمانات دولية حلا لنزاع الصحراء القدس العربي",
-        "player": "",
-        "content_hash": "d88de6675800519f8f9f628551d2e3b9375d15c0a9a208558e350d21d493e730",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 10504,
         "title": "\"أونكتاد\" تتوقع تباطؤ نمو الاقتصاد العالمي إلى 2.6% - اندبندنت عربية",
         "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxNalNmUjZPV2NLQWx5SFZDcXRTcTAtbHF5WnB5aXdXeDg3WDNQMnBETldHUF9kbnpPdWxWbXhVbW9XVVI4cXpkWmJPMkQxMlZhWWFyOXJBdkhqMzQ1bjF4NWpzM1YxZmZyT2wxeFYtSUdVRlpJeHBvRU5lTEpUdUMyMXNZMGxpZ0ZJRVlsVWViZHZxWUVoNVZBRHV6M25xS3A1SjhNTmRlNFI4ZC14TExnR29scUk5allDVnNLN2RLZ0I1alE1M0lGOXV3bkJMMkttZzU4VlREcnRwWEctMXphYm5HcnFXcEdKTW92amxEU0JNR0hOOEFaYWQ3WDVNaTNyeE8zV09NWVFScDhsV2VGUU9nSkREMFJscUZHX0lVVXdKcEJPWG5tR0owRWZ4aWhTcmx2a0ZkS0JsOGdxazJlWjlOOWlxd21wd2pZbU1DYzIwRDItcS1yYzh2d0pUMENVS19PRE5uZmJoZnF6U3BTUGdtU1B1M21DMVViT0Z1M0FqRXcydWEyMENJdEhwSzAwN1ZtbG53U2VJek9TbE1abXNzV3JXS0FCaXU1ZlZabUJJVEZabGxzSURzaFRId2RfaG83dWhyb0xMZVplRWpPUHI1WjR1MmpzNUx1b0tKU1JxZldZSHJiSElLdzk3em9LRWlublVkOTBYOUdWTlp5S2JNZW45TmRjOUhyRGVHSjhrQmdkbmJ4Q05aRlRBdTZNNHVSLWlubzJnSDVUQjA4X3B3RTNVMjNkLVA4TlV0dkpLdFBpR0dmQU1jT2l4SFVvRkNCYzU5ZWNHNW1na0NfUnhNdW85UDJZZG4w?oc=5",
@@ -2072,6 +2056,22 @@
         "summary": "الرئيس البرازيلي يتهم \"ميتا\" بالتدخل في الانتخابات القدس العربي",
         "player": "",
         "content_hash": "e76935eb3c986386ba4f76be3bfc94049d1f6d40450d9a1c6883a2f1699def4d",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 10908,
+        "title": "سماع دوي انفجار في الرياض - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOT1pPcUxWSndOaExGcktialliZEdSMlZDWndNWjRsdXlYdHBuNFV5Qk80ckt0LXpFd0pHVU1BM0xHNTlSUVZlQlZseENpQ1B4M01HSndWc1FPUkUwdFdQNXdtNmpreGZPS1ZtcFVzMUpXT0VNdF9TT3otcmNJeW5tLWZ5RGp0alM0c3FUOHBKNldtaFo3NTdpRE9xekMzbTBRdzhvUkhDa195ZE9oR3U0MUJra2tqT0N2TXNpRVU5d2tqbDlHSTM5cVRhRnZaMmFwdjFreC1jc1BmeHNkWWFiR1B6SDdyRkxRYXd3Sg?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 14:01:36 GMT",
+        "discovered": "2026-10-11T16:37:45.388175+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "رياض",
+        "content_hash": "407fe1adb77943955958f1aca1b274e123ee49202c7a31c9b6d7f7361768b3d6",
         "sent": 0,
         "section": "world_arabic"
       },
