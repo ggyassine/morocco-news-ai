@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T13:58:42.785403+00:00",
+  "updated": "2026-10-11T14:13:23.695260+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -16,6 +16,22 @@
         "summary": "ميناء طنجة المتوسط.. إحباط تهريب أكثر من 3.5 أطنان من الشير Febrayer",
         "player": "",
         "content_hash": "ad713ad3acea60f4fa2ff4aa685d67f9b8428975c25859f5c87666987fc5dcdd",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 10856,
+        "title": "الهيري لـ\"كود\": الخطاب الملكي رسم طريق السيادة الاقتصادية والتنموية ديال المغرب والرهان اليوم هو تأمين الما والطاقة والغذاء وتقوية الصناعة والاقتصاد الرقمي - كود: جريدة إلكترونية مغربية شاملة. - كود",
+        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPMG1aRnJNUjluYVJSd29HcVhBcVVXZGc3cVZBUmdLdlBOemlfQUt2aTRQV3BTMENyQXloQ0stMEt2dGhfT3lEUExsbFdCdktWX2d0bkh1ZTU4RXZQekZtVUE4UTJjUEJxdWJBYzBJV3RSS1BFRjZiekk3SlJCcnhHdnEzWGpIQ0tMOENFQ3c3RElsc0QzUk9NM2F2WmJKTnV4TWJuaVNJcHdNSFF0bHZidkYyR3ZLSEFER21BVFJxcl8wYkZLWWRHd3dTd3d2bnlKNWhqN2JIY0pRd1pITEtLUHV0Y3h6TDE5R3g0MUFDTzRIWDdhQW5MWDFpYTAxUVpNaV9qcWxibmdibkpYOE0wa3NwN2ljM0hRdHE1Wi1yTUhKWDNGb0J2MEhxaHNNUWk1Y1NuZ0hZcXhnV0pMSWRMWkZlSQ?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 10:01:17 GMT",
+        "discovered": "2026-10-11T14:12:58.645811+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الهيري لـ\"كود\": الخطاب الملكي رسم طريق السيادة الاقتصادية والتنموية ديال المغرب والرهان اليوم هو تأمين الما والطاقة والغذاء وتقوية الصناعة والاقتصاد الرقمي - كود: جريدة إلكترونية مغربية شاملة.",
+        "player": "",
+        "content_hash": "ffd93c69b69ea22e1ea9de3d85657be4d9d5c64fe5699ce0f528ec4691b10d0e",
         "sent": 0,
         "section": "morocco"
       },
@@ -1736,22 +1752,6 @@
         "section": "transfers"
       },
       {
-        "id": 10356,
-        "title": "موقف صلاح.. تشكيل طرابزون المتوقع أمام سامسون سبور في الدوري التركي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiswRBVV95cUxNZVJKSzlrVXltVURLRkhCUGZzZk5FSkNhOXg5WmxUaTFBNXJDLTh4cWJ0Rk5rb0lXV1d4Z2xEd3pEOF9XRXBjcXI5RGxBWVBrV2xiWUl2b19TZGN3TDA0WThaU0NhUnc3ZHJsemtSanotZ2xKWGJMWExuSHczRjBqQmt0cEJKdEtWX04tN1I3RGZOOHJ5TUlZRXZLaGJfTjZmeUFGamVDRUVlaFB4eHVLbnJERHNRYldKN0Zfd3VMZ2I4NTVYOFBVUFdpRnJLc2h5ckgxMDd4WU1vTk1Fb2Y1dVBCTWZOcld4MEtTSnc2OURINy0tRUdVSmdyYTFRTjJsTkZDN3ZxV0dNV1ZKQ0VzRUhTUE9nMmNudG9xYl9WeWUzRGdrVkZMMDZjbk5kal9fSVdSaXRFRDRLc25LelFKZ3JjcGZlMUdUUkdHUlpHRDRmT1ZubDl2M3A5ZlVhVVJ4VjZ0dFhwdzFrV0ZzcGlEc09kTFItRnJNdE9ZdGNBb25fRWZfOGFBX0tGNXg3T3d4cUp5cVEtcTY0QVlGTDdBVU5ocFk3Q2N4NjdqeTItcHhRb0x2RUp2c2xNdDJtMjR6MklCZFlpYUhKUE1YVER2UXNVNkEyYTZJeTVFb1J3RmdoRVNUYjdyVEJ4Y0xvek1lZzJxeGhCZHZ2dzU5S0pCaFlxZUxrMWJvVE5hT1daUDBLQzB0Zl9uVUp2VXRHY2paM0JlWFYzZWU4d3Y2VzJjUC1nSdIBuARBVV95cUxNOXFRNFFfZEF5Z3QzdHljdjZ4aGNUVG1waFdQX0pWM0g4ekt2dDlBUjVPVE02Q0FSb2lXeHhkVkFSMlZvTjVHNUtMYmg5UzJURjk1azA2UTlISml4WFoyMzlicWpua3VCYjktSUdDd1RRRXU1RURscC1fRUEwaUNkX0lNdW1TR0VzZzhWNm9QcmNFcGxnRVd1LTV2SkRYR3BfU2w4S1Y0SURfYzJ5QWx4YXg0cEhSR3g2TEhUMVE3R0k2Z2J6bkRxZ2dOTEx2WUUyVlpham5Kb1RMUnBqRVlqUzZOMUsyeDVobXd3M2htLXp2UlpHcWlZd0ZGT3lnNXNKR2xpMG9rOHU3bmhNM0F4b3E2SGx3anVOTTJmaWNuV0txVl82ZEM5Vll0NWpIa1JrVUk1bEYxVFZLVGZBMWlwZDB0RE8xbFpSaFU4TTVMOHlRc0tUalNHd2FGeFc5Y0VaTlNDVE8yYTZoQndaSW9zX1g4d0xTRGM3OTJnYzZzdTBkM2c3MkhJUmpXY1lqWmN0bUdZTlR2OGZoZlRyM1FzcHU4bThNMTctd3RDYnlmNERkdUhsS3VzQlJXN3BsSll3YXlBZHd0VnhUMG92ZjZQZVZ1VzJLdWlTdkt3WnlpNm5ucWl4cnRvMDQ0ME1hQ0dFTzhJRGlpUjlubVdMOUFQYUJTWE5ianhkaXZUcDJETk5Rdk5MUzVxS3FoeVRqQkVpLTJOLUdMQTNndEtxWUNwV1Z5cWlNbmVL?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 07:11:00 GMT",
-        "discovered": "2026-10-10T07:29:52.670425+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "موقف صلاح.. تشكيل طرابزون المتوقع أمام سامسون سبور في الدوري التركي يلاكورة",
-        "player": "",
-        "content_hash": "e1b8d9d7c5471bd55c0c23b43d9f586b95c5f226c611a82e070b8ec46d455cd6",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 10364,
         "title": "ديمقراطيون يعتبرون صفقة ترامب بشأن الديزل الروسي \"خيانة\" - سكاي نيوز عربية",
         "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxPQXBwR2p0RU95MWZVMmRPQ01ab09JMk5Zdmh6OW5NWVR2eVRpeVJRV0dvQmt3TG9lMnVVeDNhY2tMQmtSVmpvcTRFYTYxWjJmekNQeVZuTHJtSzc5RmxLMUxvbE5na1ZEZ1IxTW9LWGJ5SmMwbURGT2tpSmo2bFpvbnY2Rjkxb2dZRGliUHo4VWJUMVBuMDk4S0NidmtqQWVNaUJWeGJsQWwxUlNEeFBSazJqa3ZuRWI5QU10V0VmNy1GWkFVTnNfYndlMGt5aTE2SDA2ak5JNlE4a2Q3SDVlZmd5X0trcFpGT0xpNXFpZ0xrN0kzODBEMFMyVzZ3WU54TmZiSXFuQXJxaVVuakhMZmhERDhnTm5Zb2R1ZXJrMHItbXBfX1MtY3BNRjMzd3FUdUtqY19hMjlubUJvSkJmd21VeVZiX0hXZnNsZmxJUjI1OU1seldXel9CeVlpRDdmN3lQZlRXcFVEQ3p5d0M0WFZLOGY2X3lSZ1Z5a3FGUklNNnpwcHQyN0dpaHFyV1pMVXF0NkVwQW9FUm85TkRxQzlrcDE4d3Y4VVBhVG5mR0FacGh6ZjluNWNiWklPRi1ibDV3Zkdlb2t3MFZ3MEI1OEtCc2tZTllR0gHeA0FVX3lxTE5QZDRsWXk5Ti1mT3otbDYzUzRqWXZFRlNBUDNYNVFkMVAyTi1lQlZxVGxqdHdBRGZGcTBwZTdzSVpkeHNvNnFQcGItbk92ODlLaTJrU29DcU41WUc3cC1xNW94TVA2aE45UzNnNHEzazBQV0tNa2wtcmRFaU1xMlZwWl9IVkJ6QjhsLTlBQjBjUlJ0TFlfOHRPdWhtV0wtYWNMbUVZQVBTWV9Nci1pejdHZlNsRFNQTWREc0Frcy1YLURyVGN2cWtRMDZJQ01XejREM1k0cHFONTBVTVY2eS1RNjllM2hjcUxpMnRqYUZPSTYtWXkzQk5iUTJYQWtXYmdlYkItZFluTlBaZS04MEpFYWgyZFJxLVNUWUpwdXhEcTJKeUc3RURNM3ozXzZ0SmlVdzR2WVJaRkVSclB1LWtBbFRoSkVacEtUR29yU3Q3cjlZTExRR3k4dElpLUVYbTJGelk1YU95NVNWVmNTLXRFMmJoMlhZRTIzanpTb0NmUkZpTEJSMjZudFpsei11c0NIdllyam9RUUcwc1p3Q1hIYTltY3ZkRWxna09jRVZoOUh3dUhuZmQ5aU5wMC1IdldlT0lmQXd0QXQzVElaZEQ0V1JhUEdLRk5PWEJiRHc?oc=5",
@@ -2076,6 +2076,22 @@
     ],
     "world_arabic": [
       {
+        "id": 10857,
+        "title": "الرئيس البرازيلي يتهم \"ميتا\" بالتدخل في الانتخابات - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOblMtTjM0TDBCTzk3dUFfQlREelVyUmdCR2hTNUF3SWFvU1Y2a3dKb3FqMWI4WjBNb1NLcDg1dF8xdk52Nzg5emdEeGJzVXpTMkd2YjFqbWVQTUtNWm4wUS1YVjM5SUNNWV8zdnlPLVZPU0lrX0dZd0xUS0padEpBenR0ZXI4dTFIR0ltWGZYYzY0WjNndXl3TzlFNU1kdDN5Rm9Vb2pscldnRzk4SU1VTnQ5N3lIeWNsa0pLQXhNREZkNHpZQ2ZoclJVbkszeThnNUN3NGZKdGJCRjdDaGtiQW0tYTRXUzdPRTNFdmtPWWpQUExZYV9IQnE1dHJSMkhHMWlRWDVqTml2WGJpLXItd3h1OWlGVFhvOTFxRl9WcERwZWhPUERVX2JQM19xVnVFZ1JhTTJ1YktCUHFROFE?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 14:02:18 GMT",
+        "discovered": "2026-10-11T14:13:18.632052+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "الرئيس البرازيلي يتهم \"ميتا\" بالتدخل في الانتخابات القدس العربي",
+        "player": "",
+        "content_hash": "e76935eb3c986386ba4f76be3bfc94049d1f6d40450d9a1c6883a2f1699def4d",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
         "id": 10844,
         "title": "بولندا تشتبه في محاولة اغتيال رئيس الوزراء ووزير الدفاع - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQWHpHWmI4em5RUUk5MlBxandjOEFmVllTWlpNMWJDZmpKYWJKY1VPUlBVVm9OcFREcHBHbVpuaEVwbkpEZHAxV2lyaFkyYjlxQzJDQU83X1Vmdzd5MUhFcThjeVkwZUl6RFRFMjQ3VzQ2UVhoTWNKdU1wdkNmWWg0emVUWkdGSUJaWkdNTk5GZjFyRHJ6U21zNXRlc2NoZDA5ek14UHZPRERFU3NIZFR1OU5OZjNVZkk5MlBDM19tc2taMU4wSUI4eTQ3SEk3Y3Y0RnpFVGhRd0VXRGZFcnJZVGZTc3FjM1dBcVh2U0c3OFV6OVN2eXEyOHRrQmpYUXMwLWF4X0lfTHNKSU1CbGlLTk1VY014bWpneEZRYmdsSS1DYVFsanRrbm9nWWV1M1JWRGN0akNQaWZLWkstRTU3X0UyZ3VtM3M?oc=5",
@@ -2392,22 +2408,6 @@
         "summary": "أسرع من الفورمولا 1: سباقات سيارات خطرة تتفوق فيها النساء على الرجال BBC",
         "player": "",
         "content_hash": "01625823c89bc27d0efe156f08beba6d270dce9590cc14314c1ab644a0aee298",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 10481,
-        "title": "فيديو. فقمات وأسود بحر تخضع لاختبارات سمع ضمن بحث أسترالي - Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcDJPWG9CbVVUYWJYTmQzMC1MN2t3Qjl3elJ6eGdSS29CVlNzRzhvWmFoazNZc3VuN2liNWJkWDVGc1NhOXdSazdMbEE0MXNIenBPdU9jTEl2bTByMk5QYmFodTliUVc0WTFWZGRNVVIxZDJwRmdHU0QtQ0xuc3J4bTMxWkVST0pPT3Nqc0dtM2JEbi1Id0VtT19LTTJhbmtveFFIcjFWdk16SGVYOUE?oc=5",
-        "source": "يورونيوز عربي",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 12:46:39 GMT",
-        "discovered": "2026-10-10T15:59:49.718423+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "فقمات وأسود بحر تخضع لاختبارات سمع ضمن بحث أسترالي Euronews.com",
-        "player": "",
-        "content_hash": "1cdc9728ed6aac4791796e7f447a6c528b3f18a80b3623920131e5306cb81de6",
         "sent": 0,
         "section": "world_arabic"
       }
