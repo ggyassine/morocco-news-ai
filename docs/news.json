@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T04:00:38.720118+00:00",
+  "updated": "2026-10-11T04:19:09.552876+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -64,6 +64,22 @@
         "summary": "مجلة سرود تمنح الإشعاع الثقافي لجامعة الحسن الثاني بالدار البيضاء Le 360 Arabe",
         "player": "",
         "content_hash": "34ad39fc701e725d69c5138c37f4ecc0dc4063fb4154a6a75735633542df82d1",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 10733,
+        "title": "سكوب.. تفاصيل حصرية على الضربة الأمنية النوعية ديال حجز 4 طن و100 كيلو ديال لحشيش ضواحي فاس: “الديستي” كانت حاضية كولشي - كود",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPRGVZbHJLbEtsSjRCZ2stcUkxajNUUDkxckFvWjRsUXNTcUZXZjdfUnZ3S3FqTUdSRklwTUs0VDdjT0VmTGp6Z3ZCU0dWWEhCTnQxTW5IYkd6OU5SeXBTRHl6aGp0Ry0xLUlkVEp1RU5ONDh4bWFJdGRpLW5fVHpLcnVUd0ZScUljeDQ4NURMYWhMWFdPSTlDMlJteU9nZWViZUwwYnZLTGZLQkRYMkozRy1lQ1Zub095OXJHc0VDS2RSX2tkYzJpWVhvcEx2RDdoc0JIa05SZzg5YUFyNHliLU5tb21icnpOcWV1WGw5ZkNqWjRaM1U2UGdET3dXcFZ3bmVQQVhJZFB1bS1UZEJkTFRpN3hISGpTYWdRcTNDbVlPeDBUZlBvUm55cG44eGdPNU5HeEFnNkVSaEp6Y3RmNkc5Z3JEcWpUN2tJ?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 20:44:24 GMT",
+        "discovered": "2026-10-11T04:18:41.845773+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "تفاصيل حصرية على الضربة الأمنية النوعية ديال حجز 4 طن و100 كيلو ديال لحشيش ضواحي فاس: “الديستي” كانت حاضية كولشي كود",
+        "player": "",
+        "content_hash": "c85f1eccf3630be3df42a3c2f618f3e3fdb29e04205a7eecc76b6a859232dbf0",
         "sent": 0,
         "section": "morocco"
       },
@@ -1368,6 +1384,22 @@
         "section": "transfers"
       },
       {
+        "id": 10735,
+        "title": "البصل ومقاومة الإنسولين.. نتائج أولية تثير الاهتمام - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQdEtjNUpsai1kNm1nMTJQTGk4X00yOFZoQ29iQ2ZoV3c3RjhVTmNabjR3djNmNnFEYXlkODFVTGhvbkhUWVEyYzY4MmVzMFhxdG82c0Q0R1FVemRfcTN5UW1VYVlEYkhYaEdiWG5DU3A5MWlDNFlyU1ZXYVZNQURkaGNfWUhUX0VWTjVjZmlwZkQzSWtPLVg3MThUNjNNME5DeERkODZjekVxanJFc2ZEQWZ5dGlzMVh2TjdwV2NIZGJDUGk1WG4zWVVHdS1acS1JZkc1YzFic1huTHFjYi0wcEZJZDBEcHNNSjZrdi0xbFZwWEExb2lZQ2dWcVhTeTNHalYxd0s0RGVoR05Xdm1KNFY2WVZaV2VnNXU5Z1MxeVV1QTlRdEd6R1lJdk9SQ3V2NkNrVFJWUmFEQzdzUW5UZldKSkQtR09uNjc5UVc5TmxUTDJkM1doeFlVWDlHNkxNS1JrZVlRb2hJUXJqbU9nNWUzckdrUdIB-wJBVV95cUxOQlBiSjVwOURaMWs2b3E5Y1NVTDRUdEh1Qi1yaTU1V0lzZDNUY2xqclFIal80WGFOZXZVeDdqVkQtWGl1MGRkNk9nRTR1NGQ3anhYUGRaeERTUWMtNEZCZVVSdHFYWHhCc2RWQXROdmp3TDFRcDhPMTd1RG1oS3RFMVVyaDZRXzNUaVNzV0VpWkg1QXFPMTJIOFA1S0l6SG1DcGhXX1ZhUDBhdXVCdUpSeWZmQXlKVDctNGRPRk5VMmxnb2EtSGc1SFdZb1ZMNUVNZHRQVjVHWk9NeDdZeDNDZTQzT0FTQTN0cklDb2duQ3FVbFdDaXUwUFlHVi1QdTlGUHdHd2VQX1pDWTdDUnJlcExEdFF2WkRCcEEzOHk1TnkydXotMm5YSHc4bUw4QVk0T2pCWm1MU0ZEOUxkMl9YRUwyNkdrSHUxQjlFamN5bTdQczVRd0wyZnNzWHNqVU0xSWtuNjVTUFlwZ0ZReDR2TXozQ21OTC1jSHJr?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Sat, 10 Oct 2026 16:29:47 GMT",
+        "discovered": "2026-10-11T04:19:00.907878+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "اهتمام",
+        "summary": "البصل ومقاومة الإنسولين.. نتائج أولية تثير الاهتمام سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "bb31bbda5bc10450d414588240923e62765f3cc9f9c74f66f4cf2ef9ed0c99c9",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 10500,
         "title": "موكوينا ينتقد اختيارات حسام حسن: مندهش من عدم انضمام الشناوي للمنتخب - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxNNjI0dm5jckc2OTlQYmo3RTBCOHNmS0tUZTFXREs2VUIxZF9hRFFGZHU2OWxoaFZ2YmZETlJCMFBuSk9hWmpoakphd01XeUo5Z3ZjNHEta2J4eVpWcnlzR2xVb20yM3ZaS0k5SUN4NGdIQUFQc1FyckJyZlhKOENKOXJHeTdaSGxuemlJV3R1NmNMdzQxNWtoOVRzZVkzYUFORjAyS1RreEZtNFJfUlNGRVZGV2hCTTdCejc1WFVNV3o1TWt3b281UzVyXzI0MVczWFpWRmNYcERPTVNiT1J5UkEzYjRDLTJsREhvZC1aNkg5Wm9aX0JXZmVBOUYzQk5GeV8wcXF2NzlhMWwtcUFTR21BS1V2a3g0UzZqRm1aX0ZWRFVNa3k1OExfT19fWWVUSmhXUmZXTWxPNFN6VjFka0hWT1BUTnFDaXdxaHlwM3k4OElaalFUTzkweXR0REZ1eUhPV2hVUVNrMkt1T0x4NlEwdXpaUTRaOEdFMVh4R2FvV01xc0pWem1URVBuMm03bXRnV3FpWFlfdEVrZjFCRkJEelhwcjRWdlpVejd3THRmemVtWW5xMS1nM1p3WXNQeWF4bVhMTjlBZ3g4Y3o2eUp3RlF6X1ByUUFoZUt5c0NHdy14aFFlbzR1Zm5JbTY0cUxqLUVlOFBqMnVQR3gzSC1fT2dySEdxRnJDZTY4My11MDNZWXZ2VnV0VzZLRzhvZmlZdFRPaHdLSkdlYVBScjJJd2tFaFFMVzRDcWItcWTSAcYEQVVfeXFMT0diSUpIbm9VLXhaN09uS243UlJnc1V5dlJMbFpXLXpjYkFENjZ6clo1ejllOFBwbjExdWJ2Rk5peGwxcmoxeHFfQm5UR3ctM0ZuYXpFcGZyemdlVFFFaVByN0Nva3VjZUU4TkhMN1Ziem0xV3hyV1BsVElyWGQ3NHVjcEVjb3BfQUREQzBVemZqOFhPd1daNHl5c1pmNFpvSHJLYVhfUFVvZ0JIeEsyWTYybGxSa0NlNlJTOS12aVliQkY3ZGRvMHZxX2h6dEZaRy1uel9XT2YteUFNOW5rdDNTTzBob2l4am1wTWFZYll1Nmw0a0paY1ZJQUlvcEcwQWNuZXktd1RGcEZMeWtyRGpUUTlvbE95dFl3U2Q4QzFDWTBxREhoTmRSaHhhdEJaN2p4S3VtR3E5UWNEUWduNjc2MnJUTG5CeVdpSGttYnhiNkpzbmxMWkJwVmM5bWJ1YXl5SmlxNUEtVk5QWXRrZGE5eU9ZN3N3MnI3WFY2MTdXTkxzcVhoZmhsa0hXUk9wX3gwazF0aTdjRkp3dXRLWlZnd2pUZmN1U3Q5MlNQT3dQX0ZZZEM1ZmYzTUFQSlI4RHoyU0RFWWtOQ29JbDZWNWV6R3JKX184dWlBeW9oRGpNZzNWeXIybzhzVHY5WC0xbmFaUUpjckhZa3JQLVhKTU0xNDc0YWo2cEh4em50dUN2TkZtU2p0V2JVekhBeXM3dnRRNldyZlJtSU1fQTRweGNIQlVXWjBNQlJUZVhJbDYxUGJmbGR3?oc=5",
@@ -1750,22 +1782,6 @@
         "content_hash": "3a165e37bf80f47b80b6cd043f5f800f832c5c33a382dfd58c1807be34a73610",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 10248,
-        "title": "أرادت تجديد رخصتها.. فكشفت سرا عمره 17 عاما - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPZU81LXZCcVEwVmptU0lWLTJMRnFFUXNuX25wWHE5X0VZLW5NMXVuLTh3S2YzN0ZUaERPcVpST1BzMVVtNmpGU2pzdjJIaFl6M3BFQXVVZ3RPUkdNVEFyamNzTFdvNXF3OTlwdm14R3N0MmV3MnU4UlVVTmVKWS1QajdEVTRibzJScEF3OWZYWHRRaDBWbEwyT09VdGY2clFrQlpLd0hURWEzU3Z3RHNlTG54RmJiMTRocUpPZGFQTGtxc19YWldjZVMyLVM0ODZzekNwM2R4SGNRdmQxREt0OXRvLUI2ODBGc0wyVlJlbGRPOUxxNGJiTjAxSk5ieVZpcVNzdVlpU1dUNk81ckdWRnVOd2ozLVQ4VjJ0eFdseG9Bc1JwMUsyNTZtbnJXMm9sUE44eWNTRWdQYkZIaTlkMEVLcU1jNjJQM1NXdU1GeTNicGllcGwyR0kyMkd3bUtVOHY4MS1rMlbSAe4CQVVfeXFMTTVNVEVadHZUMHlEYURCU2p0ZmFfbWVpS0JoRnlsTUNyS3dYaDkzeFFyNTloYTVoVDRUNzlXb0JSRXRpVlI3aW4ybmtFTjN3ZXR3VnBWemRma3lPeUgwZE5nWmx4azNaZDA2aHJzdXh5YW5XR2N2QUo1WnlZdTNZUHlQaXhfaTJTZE1nNVowQ0t6Y0xhN0tVOWI2NXBuWS1hYy1Bd0VxTzUwVUhwTVZUcVhuZzV0UllDaUNiMnBQVkJic0pFRTVKTmt2akFvMTh5aTA1OXduRkpPbGxvSy1yNDQ4dV9BNHN6VDhRaUNxRElqeXVzaHBYbW52M3MxcS01a09RNVR3MGIxM2FkZlVESkRXb2VzUmZ5aDlpa1EzTFhPRHlpNnNvNDVIanlGRXFXZnh0UVZDWk9mUnZneHdPVDJnUDc1Wm93dDRpVmlpVkFOZzVJR3hmS29relBKWi1JemdpWnVlRjB2MjFrbnd3?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 05:53:00 GMT",
-        "discovered": "2026-10-09T22:25:08.033905+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "تجديد",
-        "summary": "أرادت تجديد رخصتها.. فكشفت سرا عمره 17 عاما سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "71b3cfb6a51a30980c9a398ab89b8f3c6bf025b504684dc24390a55573eedbd0",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -1798,6 +1814,22 @@
         "summary": "12 قتيلا و309 مصابين باعتداء على مطار \"الرياض\" والتحالف يتوعد بالرد الجزيرة نت",
         "player": "رياض",
         "content_hash": "47e2b50c012624b4fa4a827de413d251c598b4adb4aac00a107fbd3bf6ed8f15",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 10737,
+        "title": "هيئة بحرية: حريق بسفينة تعرضت لقذيفة أثناء عبورها مضيق هرمز - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxQQjZVTXJWS29hMWg2WmJiQlpseGhkazBZRDRvV3g1d1daMHJwYmZlYVRfZHNNaW95NUNQVTJ3LXh0VmNQWkFXaklmN1FYRWE4VWhnNU90ODgtWWs0YmxZVFlBUnhBQzdGT081MjlSV3l0TVgwWWZ3cHFSSVc4MlhUM0FfVUpZSVNEWWNGX2pYOC10WUptTk9Dd3ZINWZ2X2NXUWhGYUtPXzROWERVTlNZYjJIeUZUS1J4VklDSVpuWlJDc1BSaDgtOHZpSHhJSmpNc0lyT1RhdHRMZFRSQXFHeDVYNm9HclBTTmVlM2d2N0E2WGVRMXlSWXlmREIwVFlMekFPTW4zalNWRVQxSzVBdk1hRGZJMl92eEwxamRVRkEweW1QY2hpempLbG9WSnE4bWpjV3FCTWRTQlNlVnJMby01d1hpZThYM1NKVmxNWVpxTjlmZ0tNS3FYUzJ4Rmt3eWxwdWtHS1oybmN0WUl0c2pvMUstMEZSZlREcFYwMzd2VWJDZzgycEdsMXpaZWxKVzYyamJmcllfblhZV21zRXZibUl3WGRBX0c3Q1Y4U3pLcTBiVC1ZTzJMMGc3WFZhci1TOEhFVTNXeTVWMExxQ3RTWEkwcE94U3Y4RWRBeVNsQ1h1eXFUSC1FVTl2cXVTT0tn0gH4A0FVX3lxTE10YnhnOG5CMDRqZmg4d01yVzRhWUwydEoxUjZCRExnUnlSUXR0aDNiaEtfaEFybHB5YWdOS3V0ZnpuRnR0MURpSzc3bDdWVk9ORUg5NkVOZWhtVUtvRXdBQWdQVGVLTmF4bWhkdnk4TGdsYWdKOXNjN21xdlZmcDktV3RqWVh0THlNSV90dUJMbkNsMTRSaEZSajV2NlB1Q01ybEo0U0I4M1Q0eXU5M0JfZFliUlUySVA0T3FlN09seHFUV2dNSjUyVmMwV3lYeDFEdGh5NW9PdEFQdEc3WjM2N0lnY2R5bUFDcm1mck41azl4dExaZjNpNTI5MzhjbUJOS2dndTE0cU5XcWZMb1dWYVVyUGJ4c0RfVER3SXB6ZDBUMjNFY2lldE5iajFyc3A5ekFhbkpzWktKdUwxMzlBSk9halNJOHJfWHZ0RExQbkZtM3FwdExaSS1GX3R0MV9jR2pPM0RQbWxOczFfajhZRXZOaVV0VVBMcTBVVmN1d0d3V0xvSllSNFRxQlFLUHpyZFFhUkdsLXc1cDRDbXh1c0NhcWxsZ1pZckJnT2xBYXNKM1A4bkJnM2JUSmNFbzBsaDNvb3haNTdJaFo3cnlQenFVT1Rmek5Zdk1aUDh2bnJpMzcyX3JVOWprS2pjcG1tYUVKMDRsOQ?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Sat, 10 Oct 2026 22:29:47 GMT",
+        "discovered": "2026-10-11T04:19:00.928452+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "هيئة بحرية: حريق بسفينة تعرضت لقذيفة أثناء عبورها مضيق هرمز سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "0c913373ba816cae60c052f8a310dff64d866bf954b245ce06af4940d32c0551",
         "sent": 0,
         "section": "middle_east"
       },
@@ -2376,38 +2408,6 @@
         "summary": "مصادر: سقوط قتلى وجرحى بصاروخ حوثي وتوقف حركة الملاحة بمطار الرياض DW.com",
         "player": "رياض",
         "content_hash": "ff22bc6b06f62b9c5c68bc7b826381a5588a7f5de09a3110fdd1cddee7c9899a",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 10581,
-        "title": "السعودية تعلّق العمل في مطار الرياض بعد تعرضه \"لاعتداء\" منسوب للحوثيين - DW.com",
-        "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxNcjlsSGd0bko4Ml9seFVHaFl0ZnF0VVdRN3JjUzhfLV9uWXY4b3lMVlp5QkRXTXRjZ0k1bzNFTVp2YlR5bndMMzQyTWY3S2k2a1AwMGVBcmFlZXpKOWVJVHRiSzdCZUZUYlMtWWVlLXVaZHI4NDhyQlg5RHVfeVhianluYU5uR1Ryeng1RmV4Z1p5N2lDQUZTX0EzSkk3Z0V4SEVKX3dGeHdya1dvRFlPX2FaMzBGNTZXa2NFbGw3bk0tTlZ2MmJxTTNrblVEcTEtMzR5VzJiZWw2V2NFT0MyblNfWi1rWC1IQXdSYnNqdElOa1BzX0JxRUlIZ2plZGdTeV9XZmhkSFQ5NDlpaTVSd1VWdkUwUmpveWtRUkRTY1RxY3dLYlBweE8tTmxvVkotM05HS2xTVW9GdFhtMndHd2txemIwcVdQX25XZHlVekNlVHV5Zk9BajVCdnZTbVhxU0hqSC1OX1o2emNLcE95RXg1MDFiNFBlUkRwMl9KX3dvOUMxaExHNWloamdRRXZocFlMXzlsR0VkWWFnZjNWR2VWekFmcFJDMkRUd3FuZmhRRnY2bWNqN0hMNWFGc0s2U0wwZnNQaDFzUG9yMVhNVjdIbVRKRUhIcThWUHRtbDZ6MVg3cW9yX1MxRjZDMU5tTmxfZW1xUWJId3dsaWxIdmZ1NXU1TEhITkZSbzhtOFpxbUtZNjhCbmh3YTlvOFpSb25jR3k2bTBRZw?oc=5",
-        "source": "DW عربية",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 05:28:06 GMT",
-        "discovered": "2026-10-10T21:16:11.115977+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "السعودية تعلّق العمل في مطار الرياض بعد تعرضه \"لاعتداء\" منسوب للحوثيين DW.com",
-        "player": "رياض",
-        "content_hash": "238b1c9d8278cf13c8dca878f371be5621655c435f87232910581a767d56af0b",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 10530,
-        "title": "السعودية تعلّق العمل في مطار الرياض بعد تعرضه \"لاعتداء\" منسوب للحوثيين - DW.com",
-        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNQ09tY2pPSENfbFNHb1dCOVNBREVwMFlwWGMtbU9CZTlwTUgzZjl4M19lUnZPZmNaMGRrLTZTd2xTQUtLZjFMdF9fRlo1TmpPLUhVOWk3dGpsRDhQUzVPMERoeHR3V3pVWUx1NWhHRm5aTF8wYmFpYXVyQUJwUGl5NzBvdUxMQ0tLWjZFOUdMUXdGb3JjeFk3N3VRR09VOHF1Q1FYREYtTF80Wm5aNEVNcEE3ZnFNUUZIbXkyTDNySkpLdjRqbnczOXFJTWdZQ3BjREg2UUw4WUo3aElJVU9NNUxZOWdnQWtFODNfQ25lWnFnVDlHcjdieFhEak1JUW5SaUUwWU9mR2RmcU9XZ2taVjU2akZjUmFQbTJYZlgtN01FS0I1eHJ5elJiTmx1U2VkRWtnT2dJUG1GOHZHR2tZLUJBM1phaG1ma0RXYU9BOUpZV1Y4UGJiam0zRUxVR1NQa1YzQ2l1VVJoUEhidHBEeThFamFfZw?oc=5",
-        "source": "DW عربية",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 05:28:06 GMT",
-        "discovered": "2026-10-10T18:33:49.414619+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "السعودية تعلّق العمل في مطار الرياض بعد تعرضه \"لاعتداء\" منسوب للحوثيين DW.com",
-        "player": "رياض",
-        "content_hash": "238b1c9d8278cf13c8dca878f371be5621655c435f87232910581a767d56af0b",
         "sent": 0,
         "section": "world_arabic"
       }
