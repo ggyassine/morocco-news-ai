@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T15:34:09.244790+00:00",
+  "updated": "2026-10-11T15:50:02.636417+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -48,6 +48,22 @@
         "summary": "إحباط محاولة لتهريب حوالي ثلاثة أطنان ونصف من الشيرا بميناء طنجة المتوسط Le 360 Arabe",
         "player": "",
         "content_hash": "a6f6f497898f3823e8ebda5a92f6f11511d0c6a4c0fd728b146da4e04ec215e0",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 10890,
+        "title": "مؤسسة الحسن الثاني بالرباط تحتفي بالفنان عبد الله البحميدي - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yVm9WTm1oMUd0T1lYblZFblV1NDVCZ21RcWpkbEdrTkp4eEFUbFdRRElfLXhLbHVjdUNseS1FX1Z0dmVlRmFiUGd1MExLUS0zb3lUZDRrV0hoamRNdFR0VGwxZ0kzdw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Sun, 11 Oct 2026 08:36:50 GMT",
+        "discovered": "2026-10-11T15:49:34.288741+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "مؤسسة الحسن الثاني بالرباط تحتفي بالفنان عبد الله البحميدي Le 360 Arabe",
+        "player": "",
+        "content_hash": "1715879a68dd78acffdccdfc1d5a0f5382dcbcb29abfa7bc1085c20d2f2ae4c9",
         "sent": 0,
         "section": "morocco"
       },
@@ -356,22 +372,6 @@
         "section": "morocco"
       },
       {
-        "id": 10390,
-        "title": "بعد أزمة سبتة... العاهل المغربي يدافع عن شراكة بلاده مع إسبانيا - France 24",
-        "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxNSk9CaDNaRnZGWFJxaEJLN0p4ZHltUUdkdFI4V1J1SjhXUk1mZTB1NU42bzBIOWFQaFB2RmtidzhiVFp4WmsteFpuNG5RMk9ndU56NjdhcmNqVER5bmhqSGN3UWdON0NWRDNDM1BVTUhtTmt5ZUZoWS1hcndjV2stNENGUmcwX0p4OVgwcVlHWTk5TnhIdGEtazFpb1BWR3BlTnNIQld2NFQtaGxvVzNkanVsMzljdDRHTGNlcGh6RXpnVkhha1BkSnQtaDBRaElMVGNKVUljeWlhQVhsS3ExRGVabS04UF9tT0hOdEhGa2ZHYVpKYVVINnhWN2VCMFN2TzVrR0lseXpuMHczNkNfTTdIVi1Wc09SRjMwanljYmw1dFc3UzlnUWFDNjlmSkV2LVE2Z2xQZWtyRm5ocFRtWE0za1VOSEdSN0VvZmxuQWVfMmo0NEl5Y0ZwZ0N5SWZOTnQtVXBYZGRXTDVpWGlLb0dIUlpzZGxVSkVEakhwQUFyTmM1RHlEMFc5VE9VVkt6cXNkUmM1ci0zcE1uQmlIaXctd2tPRU45VEJjU242SDhjMlhGTmhOV1JwQ3hLa1YzRHVwWGRPTzlnbV9wdzdSSGNtZTdsdGExNnoyTExYMVJhYjZlUWN1ZDI3VG5rczVuaExsYUoxcHJ6OG1BeEtZSFFlek9MNFpUQVdWRGQycC1VSUxpWHh6cXJFOGxyeDRFbVNHZDZaRGFuTzFwaEZIU29rU3dyc3BSTy14aXg2ZkNvTkJ1Vjh4ZzlfYjNMWkpLNzZOblQ1WktnUHA4dEdCVG13cw?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Fri, 09 Oct 2026 20:48:20 GMT",
-        "discovered": "2026-10-10T09:36:36.973061+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "بعد أزمة سبتة... العاهل المغربي يدافع عن شراكة بلاده مع إسبانيا France 24",
-        "player": "",
-        "content_hash": "35fcd6d043c7c1685db47dfb99deed74e860efa57e4275fd482bc5a471d5d24b",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 10472,
         "title": "العاهل المغربي: مقاربة المملكة للهجرة حققت نتائج ملموسة - سكاي نيوز عربية",
         "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxNUzNkNmQ0QzFrYUxkU1N6aVFZRTBhRExlQ0JUbmVyMlpSdUVqckNHRjZWQVFEVjdpdm9RSHptRjJRMDRzbktZMEVUTFV3bzhrNl81dTdFT2RlZXRNUjJXSXdUUTJpT2NCVVYyWGhtMlVoZ0FBTjJ1bkdIejZ5SzZFYTl5VUlxZl9rWGRuV3FyRnh0eWdPc1RjTUpjbHEwNWN0ZDc5c1ZxUndHbGZnZWEyM09DV0JBOXZ4WGh2WWhpV3dsUjdOZFJwcEV4YlZIU1luSWJ0LUxISmxpbXptTy1DTjNXUXkyQTdhOFoxV05fekZHMEtNYjhGSnAtYWVuMW9PeVR6ZmJZcWtlQlBld0xyQmtfNmllRXAzNVlBcGFGYzVCaDNVRzB1T0VBWHpGN1o4UHkzMklBQzBvX1ZtQXlUQ0dGV1lKODNIYkVTRGVRRWcwdDRXQ01zTmJYb1QxQzlqdVpLSFdISGhoN3JuSHR6QkM1QkpqYTYxYXdCM1pQcjlkUDIybzExTDZNclFhV2N4clZZSnBianpScXN6VWJGcThiczZrbGtFZG5EVzVjZWFnLVJhVGxLMTBPdVFhYmZsWGlsRF9HWXMzU0luNUxaazFLbmFENERoalYwZ1pMdXTSAeYDQVVfeXFMUENOUGUzZWp6RUhxT3N1bkRCNnFhWFJua3M4RHJnOHVNVmpfaHFZdHpBelViTWVRX0hqRUNCWnFFMHV5NFlBLS14TFdnY1ZFMnphelo1UkF6aVBSVEVrM3dNWXMyV25wTklpSU9yYXg2N1F1b3JFZVhmM29VVHlramo5UVFCblg5V3J0T0xIOVdmWnlRM29keC1tYXkwWTZfMVRETzJocE9HeEkweWZPVjhMX21DOWJJLXNBRTBjX19VMllFdlhqTFRNQVlYdFN2VTdQaDlRZ2Z4a0tJaTFJX1ctX0tuRTRCN3YzZXFxWlExQkRvMG5EVkZQajg1c0ZvWkxFaFhKZkFJRUhPbGFydDl6dExuOHZZQm5SSmRCTkh3dTN1STl3aGdSUUFMa09xb1lONmlBVmpLZldkRzRCQWF5ME04Q3B3Nm5EVkN0dFZPM2V2MVVYRnpoZ2xaenVpNHN4X0JER2ZoTEU3bXFlOXRGT2ozMGg5Z2p6QmNBcVJSeEFGWUljX3YyT0ctcEJURWtTR0hMNWVpMlZicnlIM3ptMkhzMWhUeThaU3BLM3p6U0o2MzNSUDBDY1N3RkE3b2w0cHE4azRhQUhfdUw5dkZ6R1F6VkoxbHJMRDZJV09hOGJDdmRB?oc=5",
@@ -405,6 +405,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 10891,
+        "title": "من البرنابيو إلى البرازيل.. أسطورة ميلان مدربًا لكورينثيانز - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxOMTRTcGk4UWdXME9pdjVFY1dNT21uSDB4U1owbFdOeHZWRGxJbjhzUjNjTGJ6M2p0ODFUR0ZDOUJYZGFsTE1PODFJYVVVTGUxNk9SbHEySnV4cUlBSnBva3Z1dTRYTnptYzZfZjVDbzlmZGh5cjdiVjVfQ0pvMXY3OGw5dnd0blVCTm9FZGpqTFlhQUtDalJYeWh2TVdDRE4teTZYTThIcExYbDZPQi1sRW1mR2Y4VlJoYUZyZzRoT01VTHJwR3RWa2hZYUlBbU1tT3FLVEV1ZEk2WVhsbEttUWloUldiTzJ1Z2dfczJlbzBaZXltUjJva2ZWZU1QR1FJS3BZV0czZVl0eTcxel9hU2NWZDUyck5RLWYtVDVKaHNLQTFGRGI2Y0xwMklObEFMUDdmWmY2cTIxR2pnaEg3a2tOV3ZBWWxKTWNwRTlBWGV0X1dUQVdWaUJNTlRsbWhtVUNlQ2dRb2xwd09NRDBMM0lZcUozTUYzX1FoRGdtMV95d0Y4amZxQ3BRZ2ZvNzE2Y29IN1BjdGZESzQ4d3hrREd6dks4MEs4MXlnWGNrR2RxWlJ3S2lMbVFJVFBvY3FWQnl5U003UUY4MkxEcWRlMVFHV09hcFBwbGdiQ0xXODJtTWR3b1ZWWlRyY2I1dzdUcDRpeU9MSklGOEhPeDNqSXZuYklVT3JKajBhcjNUcDdSSWhNWTR5cE5oc2RuZXdNYTRBcW53YTBLR1dnRndWWDBpenFhYWR3YWhRZ204RlNpMzgyNnp0U1FobWhqUUQtOER1RFhoNVlZOVJG?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 15:41:23 GMT",
+        "discovered": "2026-10-11T15:49:41.012115+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "من البرنابيو إلى البرازيل.. أسطورة ميلان مدربًا لكورينثيانز Kooora",
+        "player": "",
+        "content_hash": "fb6368ff6a81fa95fa518d5c962115204dd0d5db5a35584b93f2f3910ef42411",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 10885,
         "title": "أخبار و معلومات اللاعب دا ماتا مدافع قونيا سبور winwin - winwin.com",
@@ -614,6 +630,22 @@
         "section": "sports"
       },
       {
+        "id": 10893,
+        "title": "خاص | شرطان يرسمان طريق عودة ريان آيت نوري إلى منتخب الجزائر - winwin",
+        "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxNNC1nTWRYaW5VUldKcVZ3VVZmanU3Sk1fU3pwMXJMX2RpejhLLV9SajFnNEdZSkxkLWhWamFIbHpCMlR3LU9KZXY1czVWQ0tEUnRNdmFwd3ZwM0ZzbDNJRFZuSWk3WWU1WWM3NEx6QVE5YmJNVTVrbGNVckdKa01fUEZJSGNmbERWdXF6cnAtaGgydUM1TGd4eFBLUkNSYXlESnpkeDdNLTQ5WlZ1RHo0UmE0VXYtX2djWGdkajQ4N0FTY2U5cnktdUVIWTJaMzVHMUFZd3hQYVlfWnFlREZYRzZqNFlpR2pkVHlnbXAtRXJZMEtiUHhXbF9sUWE5TlFHNjk2cVFOY2tLeVpqTXFWMmMxQm1ESC1DUHViLWtoMTloQ2FBSU5BcmdINEFoOWJvMjg1WllCTmZRd3lFdDY5WE9MbVBZTmcwVTBVampJUlNDY2J3a1JDSjFiUHhBTHNLOXZ5RkhsSmxHV2JTdE41NGozQXdxRWhkR1J4YnFkTkxjNE41bEFkVk9LRTlBOFdBVUJWa1l5eVB3NEhRc3pfM2lQTXB6eTZyelBoUmtqTGxqVXE4RThBb3NCU19CSFhMb3poNVhQUlN4S1hkX0dDT3lZX3ZlVExaZXdDWUNYQjdQMXlZYzhRZXVjV2tDalk0VmlheU9TaHVVaEFXUFM3TVRB?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 14:29:00 GMT",
+        "discovered": "2026-10-11T15:49:45.509966+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "خاص | شرطان يرسمان طريق عودة ريان آيت نوري إلى منتخب الجزائر winwin",
+        "player": "",
+        "content_hash": "34677291216360562391c9d21ed6f2979a796e9faa57b6bb92e30fd9b4ac7eca",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10860,
         "title": "بمشاركة هيثم حسن.. سيلتيك يفوز على ماذرويل في الدوري الاسكتلندي - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxQNC1rNmRxalBQY2pucV9XSWxETkt3R3VnTVZaV0IwWjYyR1lDVzYtbUtpQ1VUaldJWk12YzNraVA1czNRNUhIbDczc1A2WTBaNXJyY3JHdy1zT3gxVDhDTHhncVIzdTQ1bVoxd0J0OV9UaWtmRDIyeW9kM2pzcmlhS3JuRDZOaW5IZkdJVHQ1TTJSSzlWdjViaGREa3Bra3hHY25TS0tvMmU2TFFYYlVOOG1kOFZSVDVJaHJ0T0lFUXp4NUNmUW5oMDZjb0hCdUpfV1V2UWZwbVNNQ2pwSzNoMHoyX0pqWEZDYUc4c0hkS3dNRW9fMlNOeExxZXhBN2MxRHVZRFdLNmp5T0dab2RyVTV2Q0h2cnpmaEZTdUZuZkRTYXdtSzJsVmVqX2xMTDNRdDdWN1NMbkZ0N3VjRURuN3p5eEwwckw5ZGJwYXgzQkgzVDV1VUlDdXdLMGJWSFdhZGg3aXJXOVRNdW5va01sWXNFWXpneUFrSnU0dlZMdE4xUm5jZ1NFVEtBYXZZRWxZZkxvMEVkbGVsWXk1UmI2U1REdzlGMURXUWdzS0lheG4yNWdzRG5odnFmWVY4V05MVF9Rb3lmWXRQeE9qdDQxNHBzclJ0R3d6d2wyQVphRVZOM0JGRmhiUXFPS1BGZlNSR29RM2tqU2JKeWM4dkl6ZElpa3dSem1oUXloUGNoelROQdIBlwRBVV95cUxNUGpHQy0xVGVnbzlncWVMVksyZEtfRkZ3UnVUd2JwdFlvbFlmNW5iaVJVZV9kMENPVGl6WlFVM2t6WFA4TDFRdzNLdlJjaklSZGJGMk5YOFJxd2plSnNMTWFwLUE0X3BhZ0FXYlZpR0p5S0t0VF9uN1dyYi0taVlZclQyOXFfRHhPYjFOa243c2dtWTlJYjgxVmFIeElud0RJci1TR295OUdTVzNSVVBoTG9tUzBTTlRkeE8zQ21Pd0lrYk9yN3NQWFBnLXZ6UUJENjBEc1BXRXZ3QXdaUEppdzJoNWlKS2ZDYWFFTGoxbUk0S0hZemJuWW1VTVRtcVBic2JPdjl1ZWhjTHZsRERJOUtwU283TEM1emhYVFhkcXNWVHFiUWYtZGFYWDBQWEJEb3NveENVWmxKdGthcERoZ20zVzVfN0l2QjhicUIyUV8wVzJlaHVRYjVyZlh3ekVXOC0xS1hfS29rRF9wbG9zNk5NeHJzQnBiZFlHVmZZOHBJS2hvNGVXX2tTQXpmNDA2OHVkcG9PLVM1d0RSV0pDRlk2elpGQ2puUTJRZnhtcW80cUt1V3M2Z0VHalRscWlNWEgyV2l6MGhQSnozYVpEeU02T21JVGUwU0dQUUEtei1RZGZOZlo2THhhZ2FRTGtMWElVQXNRWlJ3WXRITU0wdjY4UDdSd2RmSXpVaWpTODBoLW5TWWc0?oc=5",
@@ -818,6 +850,22 @@
         "summary": "محمد عبد المنعم يقود تشكيل نيس لمواجهة ستراسبورج في الدوري الفرنسي يلاكورة",
         "player": "",
         "content_hash": "e398986c034c1c9da0e35f59812960bc55f396ed36e856ed49102a0079d5f43d",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10895,
+        "title": "تشكيل نيس - للمباراة الخامسة على التوالي.. عبد المنعم أساسي أمام ستراسبورج - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxNNHlqbjhHOEl0ZTctbnVwdjV3UERfQVpXZ2ZEMnMzbE5PQVBFS2JXU0QxTXByTS1qeUZNZFJpblRHSlU3NHRobl9Ga2FmZV9MQVI5UTl2eVEtTF80UWhJd1RHVk91ckFZN0pYS1FtbjNjWGZHSzJTalY0R3c3QnVUeE1XQ0JyQnVqSWlnQWNEdU10Xzk4ZVV3UEdlTVBZMUxZZDZWQVgweUVsWGZNdHVROGh0bEJCR2E5bkhjYTlwTmx6X3RVenAwWWFCc3J4U2s5RkF2alNWbGpnVzY0SFdub3E0QUpQUVRGLVJldHpHMWU0czRNM1VWdkZwc1V0a2t5ME82NXUtb2dRU2lKcms4TUlwNG11enh4d1VkeUJ6dlEtWnFOZjNJRUFwSXVzMTZONVlSYTJOVDNLR0VRc1ZURzlkVThfd2RKV3Z0YUg3TGdFVGNXb0VLZnlfUFpraDN1NHJjZm1QN1I3MWlJbGw3RW9OTUVsOFdaRHNjSGFBVkRHcE5fRFFnQW5oQnk0b2NSSU10Y2w5VHhkbVhnRnZELWdZakJrSnBpcTJETlVSWkRvSHFpM3Y1anZWM3gwLVdzc2hUZW1RWnVNeTJXdkxWV2NlRDhoN3Atc3hXaEJ5OC1LT1B6ZVQtRDBKZWhZS0FhWXV0R3FXbm1kZkhMM0VhaWhOdGxYaTRpVGM1MnRzTERuX0t4UFpocnlDdlQ5WmpncGR3VTZkYlp1MkRQQ2UwckNPU29kRGpESWY1c012a9IBxARBVV95cUxOS01aMXQzY3FvV20wN2lmMlRKYlB0WGU2R2lRUDVOR0ZyQXBkR3pjQTB6a254RkkxZWZDdU80dndWay1yWEVZZENtMTZLSmsxYUp5NVFIRkNaamtCeWVLQnFSYk1DeTlQWjlxSXlmQWFsVkRDeHFzbjJpb0ZjZEktcWlkd1JOQnozLXVnTzBiZmt2bnUzVmVQcWF6aVVwakN1dVF3QVVzSlNmekhvdkVjbm9QQkZ0dDV4TW4tM1h4MVEydEFVVW5KWUdsMDM1ejNJQTBFZGJpUi03eDZFcUp2M0NsR0t3dFhKNEkxV29BNGpJTFVKMGY0R2lQNUtrLU9UTHNhbjlkeXg2YlpZVV9KVEZ0YjJ6RHE5Ykt4SG9vT3h3YXVSbGNLd2xldEJkOTFFMGk3WUxmOHA5ZUpYWTRYX3B4c0RwTlhubG5UcWNHX2dhU3l0aGJneXJrcUxNYTg0YWIxQXBnSTJLNEtMS3BTd1VnMFI3bENabmh5UVQ0SXEwd1M2YkstU1VsS19aLU5DMWpKdktSaEh5dFRhQVpBWVQ5MjdVUlJ1TGliVzlzMEFIZXppTElUX1p6TUFjUVkzQVpTQkNfZHhZTW5VY0NLQ29mZVZqU0hYRDNfOGxMMzltXzgzNVdvQ0ZHc3dPZ2NqbXE1NF9ia1A0MFh0ajJSb2xPYWVYeGpSMm9JX00xZGVDX0lNOXAyd0M5SnN1eEQxaXM3WndCYXFxTmF0RUNDWVlidTZJOXVUU3FkWGdDbXJYRjJV?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 12:09:00 GMT",
+        "discovered": "2026-10-11T15:49:46.949470+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تشكيل نيس - للمباراة الخامسة على التوالي.. عبد المنعم أساسي أمام ستراسبورج FilGoal",
+        "player": "",
+        "content_hash": "1559b55973436a5954da7d076279c3f71bb468249dcb4325e91aab362902ddfb",
         "sent": 0,
         "section": "sports"
       },
@@ -1078,6 +1126,22 @@
         "section": "sports"
       },
       {
+        "id": 10894,
+        "title": "إنزاجي: شارة القيادة يجب أن تكون مع لاعب سعودي.. وأخطاء التحكيم جزء من اللعبة - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3RFNDOHRuZDBCS0hfRGpSdjhSbVlIZVlsVjduUUhZVnAtUjU3Y1FtNlhFT2QxQWhFWExCSWdxZUItRGdjRnRvTUFpNUxpYllx0gHQBEFVX3lxTFBXc3NZNVNpVEp1TFhvNWFrZl9CZEltaU15NXJtLUYxYjh4a0hrbEpfbGpwUVY1Um8teWdKU0RMbkRrMDByVkhLSGx6N2JCaFliT29OU1RrVnA3aVZlcVVhUl9hNV9CRFdvYWtUT2Z6OTZ5R1ZORWVjeFlfb0d0NV8zS1JnakxmNmNnbjU4cEIwVGVfZk5jeldYUVlhVVB3SG1HWVVTdzRuZGR4b1lTTmwwVXZwdFVDZXdWWHZ3bjRuLXBJV2g4ODJpdjhlOVlsN0pFSGdubHllcHJlQXJNRFRPbE1UV1BqelhnbmR5UXN5WW9hR2lxdGVkeWhfYWZZendaUDdUUFQ3U2VvTWlBRnoxTWFlOTBpOGNFNGtJOXhQemRaWXFiYkhPVkduVXBScG45dWVsLW1YRjJYempjbzcyUTNRZ2RhYXBtUTlYaXRhWFlDVzhqUTNra1NTUmpBa0hHN2tpazRUUFRDVUZOUV9BejFhOVJFZFUxTUhhMGJTaDJLZkU1dElFay1jTjhDYk9JZlYxSkF5SUxlNDFQUnMzeUhjU055UHRGRFpubjJIS0FiQzN3QW5iMmRkVTFheXhfdEliV2dZcWV2OGRwa2J2Rm1jcTlOTG1oblR6OTFKUjJRVkMwUHl4ZTRzSkRNMC1IZ0Y1ZUVSczdwLV8xY3RKT1k3TW9IQVQteW02clpqbXlRUEVaTWJmODJpS0ZwMHRzZjJoenloSlhPMVR3LWhyMGFXMjI2Q0ItdTVTT2lpcEpSdlVldmJEN2tlV0VPQ3g?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 07:49:00 GMT",
+        "discovered": "2026-10-11T15:49:46.946699+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "إنزاجي: شارة القيادة يجب أن تكون مع لاعب سعودي.. وأخطاء التحكيم جزء من اللعبة FilGoal",
+        "player": "",
+        "content_hash": "c0b2b7f2169aefa921240ec3430f750b551a0af4dc6805efbec389dbd37bea57",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10785,
         "title": "إنزاجي: شارة القيادة يجب أن تكون مع لاعب سعودي.. وأخطاء التحكيم جزء من اللعبة - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiywRBVV95cUxNSlY3Z1FReW9ncDNlc0N6b3JIRF8wX183Yndyb0lFTHlDSE5FOXhLeWYyYlJ1bkdBZk9GN1VKOWpITUhlaDV6VnV3amFWbG81ZGdSdHVHRUpER1Rxc25zd2U0bFd6cU5PcUh5dGhIZGxNWHRmZ0lZMlFJR0M4aVN5R0E2bDBrT2tlR2NIS19qUW00Y3JmU3hheUF3NVdxdVhnNmhBUUkxdEZiLXh1NENRVjEwTkw0Q3ZnLWpyVXFIMm84b3JPVVlOYjJ0MXBHYlV3cm44Z2I2Szc3WkF5T0RDYUx6aXNOSUlYXy1mbHVoUnF3Um9yWnlLeldPcGZWb1M5RWhqTzNVTWNQYXJnYVdZSWp0U0ZFUnFnczJ5UE1vTFgzdzlhVkU2bmdHdUxFalNUMjduc1k3VHFKaDNQbzl2NUNsQTNDRVdEV3RMWWl0c2RUY1U1elZwUy1DWVl6UkRWRTJaTW9OT1NXOWZVdFJqcGpRNEY3Y0djc2JmWjZjZElPYUtaR3NfRUZ5cy0weGxiajdpUkFpVktzN05GN2gwS3ZHOTJMbTZucFV3OGpiUFM1QjhBYWxQcUhISFIzLXBoYzFmMzc5dXQ3VWRIXzFTRDF4dTBpRXRaeWJZQzBkaVgwY0NZdVFvRUNHV0VSSTBsZHZkMzFMcW5WUEp1VUZQLUh4VnYtekNMRml4SWxFaHV1VXZWWkhpTVI2MXBucC1SVG5hNnNYckNQS1NvRW1ySDlzNHNTeGsteDFRNndGdVRJT0YxX0lGaHNmONIB0ARBVV95cUxQV3NzWTVTaVRKdUxYbzVha2ZfQmRJbWlNeTVybS1GMWI4eGtIa2xKX2xqcFFWNVJvLXlnSlNETG5EazAwclZIS0hsejdiQmhZYk9vTlNUa1ZwN2lWZXFVYVJfYTVfQkRXb2FrVE9mejk2eUdWTkVlY3hZX29HdDVfM0tSZ2pMZjZjZ241OHBCMFRlX2ZOY3pXWFFZYVVQd0htR1lVU3c0bmRkeG9ZU05sMFV2cHRVQ2V3Vlh2d240bi1wSVdoODgyaXY4ZTlZbDdKRUhnbmx5ZXByZUFyTURUT2xNVFdQanpYZ25keVFzeVlvYUdpcXRlZHloX2FmWXp3WlA3VFBUN1Nlb01pQUZ6MU1hZTkwaThjRTRrSTl4UHpkWllxYmJIT1ZHblVwUnBuOXVlbC1tWEYyWHpqY283MlEzUWdkYWFwbVE5WGl0YVhZQ1c4alEza2tTU1JqQWtIRzdraWs0VFBUQ1VGTlFfQXoxYTlSRWRVMU1IYTBiU2gyS2ZFNXRJRWstY044Q2JPSWZWMUpBeUlMZTQxUFJzM3lIY1NOeVB0RkRabm4ySEtBYkMzd0FuYjJkZFUxYXl4X3RJYldnWXFldjhkcGtidkZtY3E5TkxtaG5UejkxSlIyUVZDMFB5eGU0c0pETTAtSGdGNWVFUnM3cC1fMWN0Sk9ZN01vSEFULXltNnJaam15UVBFWk1iZjgyaUtGcDB0c2YyaHp5aEpYTzFUdy1ocjBhVzIyNkNCLXU1U09paXBKUnZVZXZiRDdrZVdFT0N4?oc=5",
@@ -1138,70 +1202,6 @@
         "summary": "واتكينز: الحكم ألغى هدفي الصحيح ضد اتحاد جدة FilGoal",
         "player": "",
         "content_hash": "1948716aad54f45401c2fbc7a30acf1cd5149aeddb5ebd847133e0b75508f4b4",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10776,
-        "title": "مواعيد مباريات اليوم الأحد.. قمة الزمالك والأهلي.. ليفربول وسيتي.. وظهور عبد المنعم المحتمل - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiwwVBVV95cUxQSFpkVFpZTGhUdEpwdlR4dk1ORVo2T0hHblFNWHhWNFVvVElBbkFlYzdDTXdSZ3R4QXM0el9Jck96b0hGcGF1akFVTkNQR0ctX2dVNWlXWHc1YXlVOXV4cC1UUVUyTU1yb2UxbXZwX3N4a2NKUFlzdkFZem9SRVFvMnI0NGVCWnVuU0JJUDZXaXFZWTFwa1VtSWFFcFRJeU5sdE1TVVg1VlE3U1ZSTFZ3YTlmWmtvY25lRXBkZGpxSTMxLXpKTHJSUXdYbDJ3TmptekJheDEzcEU1XzQ4bEVCS2NBRjk5QzVwN1ZvSTV2TTVKQWpQZ2pnTnFobkk2djRrZHhIcVBzZU1rQ0NHdUw1VnZtWlFjZFRHcnktYm1sZGVlbDlWQzE3N2NNVW1ta3FabV82WUktaW1HMHVEbWh5SmFVdFN2YjdUczg2U3dzbVJicmZsc2JKSXRNRUVPX05qdUpYdWtKTUNsYlpoLUxvbFFldkhRYkw3UzVzSTlwZVdBY1NQOVkxMFBOYVk1N1MzZUFMSFRuaG4xRzQyRFRvTC1UdTZRVno4VmpvVWI3TUtJZk9oaWFVVGdMY0JlX1RqNkZiZGNsZGFsUWU5c3FZZVpsWU1ZSUlHQXZycENheFo0WjdiTS1kZFhNdTRQSkxqeTJDcUFWbjh6dW44TGNSSERucFdPMlVJWDJpRjNyRzhWaHlXOTVIOFNTWlc4ZWppc0pvN2VvNUZyZ05UUXdEMl83N3VvSXVvTl8zc1dYOG1fRHdvcWZWczMtU2xveXlDbHZxSHZDcnBMMVVqNHhYR2xSb1FGZFFYS2tOeDdHdWxoSnZCTWJpVC0wdWJFdHpLUFVjV1VudGV1WlZVWV9iMnM4TDZuX25iRGk0OFNRU1FUWDE0aVA1dUxHeVVvTk9kSE9NYjg1aTY1clp3SVNQWU9Wb9IByAVBVV95cUxQWmdESjlBc0RDVmRmRzBQSWM5TDd0SU5ac2RvMm1MNjVCNGpKbnA3LWtxZnZMbHd0WU5yeDRhNDRpRDBzaFFJWVRFRTVIRmhqVVBGRjhadmZNY1Nia3VTTTYxLVVFaXFMMXpzaHU4cVlpYkF2M2txZGhtZXIzZ3p5cUtVSWZmRVBmakV4N0FuQW5pOEprQTY1aWlienFKNVVSVDNQR3JWODlDNE0yTXAtOXZKZWdsTzRERWZLeVZZNGR3aC1fWmFnR2hIdGpwWWIwRUxPUXZaUzZELWJVOXVRTkNkQ0dPZ29oTWhDLTlwTjVZdEwxN3ozQWQtQV85VmI1RHVBZDRSOFp3RnhtM01lQ01kUGtDdlhpcHZkc2RYYTZGVEgtYTdYVGZlcWhhVWUxamtHdXB5OHhObFNQbk1MSGNkOC1aVHdEc2g0SVNDcUZtcDN3SDRncWVkUHcwVHAwNEUxRWk5Rkl2S2t6dnRSS0FNYkd6bmpJLVdXM0YxZkQ5S0tGNDd5bGZBTG1ySGNDYUh6ejYyWWMzYmNtU05qSy1lb0x0ZlFCd1dIYkxEZGZDSGJEOURUdHRRRE55V0NsVVgwaGptdGxEM0ZxTGNrVk5JSEItbXJjM2tlQ29KQkxDTWhHS3hwMG1MeVVqZWVtNWNNZ0hXZlJ5RWNNb0lMV0ZGREs5azBtdWZwUUMwb1lDcnNRcXpTMnR2NS1Db1J0dGhRZHR0LVZYRUZ1TjlDcTZPZ1lyOTFIRzcyUWdKbmd3UkE5OW5ZLWFtTTJ5bzlNendfUGRmOVVlcnFFZWwzdlNwTVY5OTlzWXFSYVBTM3RWcHZMdUZKVHZNSTUyS1k2SnpuWDc0Z2d3XzNCVkRLQzhsMDRkMWs4ekVJSmU4azA4RjEyTEtiZTVzWS1fV3JVUUFsdUFkdEFydGwzNXpYRGt1a3Q0Y1NS?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 07:04:00 GMT",
-        "discovered": "2026-10-11T07:11:24.805847+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مواعيد مباريات اليوم الأحد.. قمة الزمالك والأهلي.. ليفربول وسيتي.. وظهور عبد المنعم المحتمل يلاكورة",
-        "player": "",
-        "content_hash": "44a8c1504e7d32001c81e45347fad83c92cc473d9c819179dfad91623f9950c2",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10777,
-        "title": "بعد وداع الأرجنتين.. ميسي يسجل ثنائية في فوز إنتر ميامي على دي سي يونايتد - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiswRBVV95cUxPclZGV0pWd0J0UTFQMHlrZ3dudFh2dEJ6cVN4QkpRdW1ZZVZxdkJKRzV6QmhoT3JGVndpaVA2YWtSQW40elNiTHJIQ04zRUxETDRnUVlzNXR0WVpsTkdvSXo4RW9PenZ0VEp6bEFtUmZaMWNwc0dHd3Q1OGs3cWdzWXlhTGxNelZFNVMtRXdYTmk3MlRmQmY0dFJBb2NKN093aWdqNHYzXy10c0VCeF9lSXNIOUNNdEpsNEZhVXlxWWdMQ25aZm43aWVjT0ZRcDVrU2ttTDFvVFlsYThQaGs1MTlIeE5NbVFPdTVlTE5jaktPcUxTQjAwRFd4UlA5a0dTeUEyVlRYQ2o2NTJtVmxkbWZTdE4zV2tMMzVzbm9LS0dCczUxYmZwM0p1c2Qwd3ZxX25mdlA2Q0duUUhQMGJDa0U4Y3U3VTdUX3NfSXdEVVAxR1JaSkY4OXpycGZiYXJxTWpoMG02bnVjT1JEVkY3UjhjTC1oNzRxTnQyVEpZdDZGVWR1YjhxMjFDVWRodXdqdnZfNEZMWXUzeFZncl9Yclp0bk5hV05Cakx5V3MxM1pObkFEbWtobXBaNkxFZE4wUWlUaXJwVm1OUTZUb1V2MGpXUjlBNGQxalZaWmlfOHdFZmpESzFmaWtPdGxRUUNvT2JLSDNYMzJWdmNLTEhRcEVyS21ZTUtnV0xDcWJ0QUdhdFBhUVp2Vl96c1JNVlZxd2tONmE5eEJneTM3bWh1MS1SQdIBuARBVV95cUxOd3dBRWlDRHBvMkdoYi16NTlSeEVhUklMZVBiNkQ4ZnNXVjhRcFFxTGx2TERlYThTVFRjSjZOTEdJQWJfUzVUU1VRSG5jUDhFYlZBa19uQW1LTldHMmR1RWFJZTJRMTROU0hXbUJ1VjhHSzNPYmt4dUdWeXhBMG9XZC1aMkJuNzEyUFRzbnRHd2pBQVJleGc1bDl6c2JjYy1mQzQtS1VnekwwX09Bd2pmOHYteG9wTEpLcmExTkY0MFVPLTY2QTNqV2tyOGxWaTN1c1pzS0NLdExfRy05eVcydlBSb1pHT3NJbl93dFRtM3BGRzJLblJGVUlsc3l2ZXZZSUdoVmhodk5UNHZ2OFB6ZmJuaEkwbXhtSHZTaE1ZenhZQVl3a3hHaVhOZHFRSjRXYktvRUI1SEh4YWh1SjBfMFNadkhnMmNPWmRmQjJVd1l5d1UtaXFPN2lkVmxGUWJyYng1emhCUFdNV1RTb1phd2VId1JvaEE4SG55MlF2UnZNdnRLbHJkSHh2X3R1akR4bHlYM1JOUjR0TDJXMEUxS1E3WG04aHRxWmwzQUtOb1RiQkNvVDlwN3lyalRaRU1sZTBnbTltX0RLMDE2Z2h6aUk1TzRHcWtlcXhtRTQxeExwTXBNeU9LRnVGLWYwVFo4YW1ab3Jac0Vmc3FzUW45dm5PUEdPbXJTM2NHR2R5WE5MSWFDREZEcXp5bTJWR2hIenZUU0dIbmhNMzU1TC0yMWU3MENJbjhq?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 06:53:00 GMT",
-        "discovered": "2026-10-11T07:11:25.500587+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بعد وداع الأرجنتين.. ميسي يسجل ثنائية في فوز إنتر ميامي على دي سي يونايتد FilGoal",
-        "player": "",
-        "content_hash": "cf9e262cdb322106820fbbc42229ff3948dd409dd8253a3262f05e879ada16df",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10819,
-        "title": "مواعيد مباريات الأحد 11 أكتوبر 2026.. قمة الدوري المصري وليفربول ضد مانشستر سيتي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxOdjhldnFUNVVvQmRLUEJjNmNWWExCTTREelhvNkdFc0t0Y0hoQURWY2NxeXBhNXViOGxSMWJlS1Z6VXlyNkhZdnVpSHJ4R3lTSjVlZmlNNU9teHU1WVVNRDVaODBaOTE3Qy01b3Rxc3dENlVIRTYxOEhhaTZ6MEpQbm5tVHFNVEJKdDdYZ0JfT1Axcnh6eFpneUlsU0lEdEhWYk5lR1psMVlQSGJtTUVhSDRNaE52amxOZlc5ZmRVX0JTQ0NqR3U5LXRPaTRYWUVlSDJMUVo1bkpFemlub3JsZDZxU3BvTzFjS0t1SUZDUkRMMFBGXzRRZlhwazBJcGVXMXpaeThUNFdMQUE3ZGQ5VHVQWkh6ejZ3OWVvYlJKX25YTmdPN3g2cF9qR1V5TlNNOTNXeC0wWEFwTWxKTUpBY3ZRdWYzdUFnN0dOcDNJOGlzXzJRRkYxa21GWWw1RlpLNmgyRVlRaldDblVOYk1VZi02QVptQ0loVEpNMVZQN2R2U21qVHF5M3g4dmV5d1BuNjRIYVh0LURpU3VLMWFUM1k3OEFXRnB5RkRqT3JuSlQ4VTF0c2xZMUtKdmJIMEpXcGt4TlNlQXZfU1VyWVJFOU0zSnc4Z0hDeEJTOVE2WHlWNENpR3lFQUNuVU9ZZlB4RVNKVTdxbDZFdHVrd2VTZG9rLXFZb25LVFU3d1ZaVUVpQ0pxVVdrQTk4ZUc5MUllWlY1WmQweklYZmlHTkFPd2JWeEQ3c1lpNEZoLUFQZ1NLRXBQcWhSdkNR0gHPBEFVX3lxTE5FaWQwQVFoVGJHVUhnWkNqNHVlTVVITzVNRXdON3ZUZ3JYLUx3WDdTdjEwN0RpU3NZZXlJakVJMHRhRXExNkowWnpEQjFLZ1g0UmZHaE1GMl9wUlcxbnZ2VXNYSU90cEJ5OVVWcVZxMTVUbWpnT2lVeGFsc2FhQzFsUEtCTzhSRWgzYXZCcmtYMTBxcWdyQ2xSeGFiQzBsS2FCc0hzOE5PUE96aHFCMnBRX29LWm1oQXBfc19Tc2ZzSWJiQzNkLXY0Z3BZeFF6WTdZN3lEZGFlS1I1UHpFOHQxT1M3dmk1VWlzbnZHT0JvcDB0ZENrSG9oTGtLUGRoQlkwa3EzWE1wblhhY1VRenNZOXg3SFJUcGlzR2lkZUUzN1dSUEpycXJCYW9GSjdWbXQwYldVYVpRcjAwcmZORmpPb25wZUJ1WjV6OHBSWS1Ec1V2MGZxUzFTOUJSd2FlVUkxSnZuLW1DMzVlV3FDRFE5UWt4SHJTd19Od242OUNXNXctVGY5UUNLVVBUa25zSHp2clV5QzJMenZWY0tkMmZHVEI4a1Fic1R2M3MtVWtseWc0NVVoQmZKdnVkbE5GV3JjeU96dGVQblBQeEhxcjFOOG1rZFJlODVWc01UYndBdkdWWU1kcmtuOUdZYkZob2JpVWJURGlGQmhHc0lqcTBseGxmM05CdGNHN0YtanE3UVhSbU4xa3NGdmFReU5iNF9SUkdzb1BrUGNVM0U2a0ktYVQxb090Y21Fb3E3Uloyc0VCem05RnQwSXFLbVFLVQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 06:41:00 GMT",
-        "discovered": "2026-10-11T10:56:51.510909+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مواعيد مباريات الأحد 11 أكتوبر 2026.. قمة الدوري المصري وليفربول ضد مانشستر سيتي FilGoal",
-        "player": "",
-        "content_hash": "59073bd21fd467229d27dfb0c36bcfe7a3213362a000c8df530c42f87eecdbf7",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10778,
-        "title": "ريال مدريد يتجاوز فياريال بهدف ويستعيد نغمة الانتصارات بالدوري الإسباني - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPMXUwQkUwdDBNRVVrNWk3T1pXVGxyQ296NDFlWjBUWFdEVVg3ODlSdElYelE3aDlMbUx6OHJ0eGd3bTRtNC1ZZ091cDJobk1qVVpaSUdCQlF2c3NlVElDUjFCT2ttSGlzb1FJaXI2NnFxbDVtNS0yamQyVV9NeWxDcVZ2b2xUYXljSG9MMEVPWXZFMENRaE94RGYtTGtLQkktREt4ZFV1dkl1MW5FNVFPbElsaEVLYlhEbDhBajMzTWF3SXkzZVZoRXZmSWtURmtLR2xUVXRBRDZ0aUZLYTlHdUthM3BUYkotNEhLdHVjLV9fQXJqWHpSTDFaSHNXN1ExVEpyS0ktc0kyZVpfRnpQNXl4dlZEdEQ0NDlvRXVzVVJTYkVoU3dCaUZuVnB2YzhJSWsyc3RuWlRfR3dSdGc?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 04:11:00 GMT",
-        "discovered": "2026-10-11T07:11:33.686717+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ريال مدريد يتجاوز فياريال بهدف ويستعيد نغمة الانتصارات بالدوري الإسباني القدس العربي",
-        "player": "",
-        "content_hash": "b6a7ae2da193b4d44960c8c6263e265f7db404482c0761b5a8bb5ae58b76b547",
         "sent": 0,
         "section": "sports"
       }
@@ -1332,6 +1332,22 @@
         "summary": "البنك الدولي يرفع توقعاته لنمو الاقتصاد المغربي إلى 4.4% خلال 2026 Febrayer",
         "player": "",
         "content_hash": "a39c32a1315e794303041a2795fe45207b2b0a3d01dc04485e8abccb3346b80d",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 10892,
+        "title": "متى يعود رونالدو للمنتخب؟ رئيس الاتحاد البرتغالي يكشف الموعد المتوقع - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOT2tQaWYyMVllZmRMTGZPWG1xUDc5X1lOYk1NQllFMXJDYTJPdF82VVRFeEF6YlFGUEVHLW40UmFWRW5KZm1mOGZ6ZkFCbnB6b01tWjJacXBUdTNZNWxKTmQzSUU4TFZURjc0YllsaVI3Q3J5dldGTlZNZXU4YVI4RTR5bVVZd0lrRjBVZElHRDJMZThOZmJMMjhWVFlEN3draDRWTUMxTExORnp5bnRuOHFIYTNoOU5IWDJXMjR6U0NzR2UtbHRqS2F2Ui1vcmpSYktiOV9RY0ZITEN5VXBPbEhjRUhiLVA0X211Rmt5WVhpZmtYby1mSGJLX0FkczBNeEJ0dDlWampoVFFVamdmVC1BVFZsMlczQVAtTXFkSFpuR0nSAagCQVVfeXFMTmlnVE02YnlOM01qNjZuaDNSTlNHbDlsZ1FXOFNWa3h3bnFMTmpXRzljWVV6NEhWUmJPUVUzVkg5YXdNVENiUno4c2VxZ3Z4T3dPclFjc01fZnB4ZGNTUzZRWUtLeUp3ek5kOG1HWTBFRkxFTkd5bHRWQTQzU0J6UnRpYVMwajM3TUNaNGdKb2U2ZnEzcVQzWWRUX2VjN3pKalUyRFB4bmhfV3FBd3lOMzNVMmhJWWpiM1RWWktWaXB4RHIzSXBfSlBMaDNjdnJ5a1J5QVBHQm5ZYWJkUnNrQ3BPMVJnZGtHRGREbW1UTlZEUUQzZVk0NDJ0WkpzUE9RdlV0N2VsYkZNQzhHRXI4QUotcnMxeXpZd2lyOUNDYlR5blZCMW02VGw?oc=5",
+        "source": "الجزيرة الرياضية",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 10:15:43 GMT",
+        "discovered": "2026-10-11T15:49:42.347466+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "متى يعود رونالدو للمنتخب؟ رئيس الاتحاد البرتغالي يكشف الموعد المتوقع الجزيرة نت",
+        "player": "",
+        "content_hash": "1966e224dcb1022ac057ae26bcba609902cb4e3c0f08a08775c880f78e77f785",
         "sent": 0,
         "section": "transfers"
       },
@@ -2392,22 +2408,6 @@
         "summary": "أمريكا على طريق الدستوبيا: عندما تصبح عقوبة الإعدام \"عرضاً تلفزيونياً \"- الاندبندنت BBC",
         "player": "",
         "content_hash": "0a9b30d1010f0fe855ce88b747806174cc1642922960c1a83f90577982c8d79b",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 10481,
-        "title": "فيديو. فقمات وأسود بحر تخضع لاختبارات سمع ضمن بحث أسترالي - Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcDJPWG9CbVVUYWJYTmQzMC1MN2t3Qjl3elJ6eGdSS29CVlNzRzhvWmFoazNZc3VuN2liNWJkWDVGc1NhOXdSazdMbEE0MXNIenBPdU9jTEl2bTByMk5QYmFodTliUVc0WTFWZGRNVVIxZDJwRmdHU0QtQ0xuc3J4bTMxWkVST0pPT3Nqc0dtM2JEbi1Id0VtT19LTTJhbmtveFFIcjFWdk16SGVYOUE?oc=5",
-        "source": "يورونيوز عربي",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 12:46:39 GMT",
-        "discovered": "2026-10-10T15:59:49.718423+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "فقمات وأسود بحر تخضع لاختبارات سمع ضمن بحث أسترالي Euronews.com",
-        "player": "",
-        "content_hash": "1cdc9728ed6aac4791796e7f447a6c528b3f18a80b3623920131e5306cb81de6",
         "sent": 0,
         "section": "world_arabic"
       }
