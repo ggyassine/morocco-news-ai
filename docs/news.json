@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T05:24:51.727316+00:00",
+  "updated": "2026-10-11T05:41:31.478638+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -224,22 +224,6 @@
         "summary": "«لعب الرمى».. فرجة تستعيد ذاكرة الحلقة الشعبية المغربية في قلب الدار البيضاء Le 360 Arabe",
         "player": "",
         "content_hash": "a4fa7139b93ca85d3e433cb0482f63d0afa78898422b222c7ceaa309812602e8",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 10255,
-        "title": "طعون انتخابية تهدد الخريطة البرلمانية بالرباط - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xSXdpTWs1YzE5alVNRm4xQzB4WjE5TExZTHBGUGlyaVg5Z3NjNTBxNUI3Q2NSNG9WVURwdUFNNUQ4MjZrZXBvWjhxWjFIQ0FxdUlXMGFyckJaT0JJVWItaGNJREN4b3pU?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Fri, 09 Oct 2026 22:36:20 GMT",
-        "discovered": "2026-10-09T22:56:39.809408+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "طعون انتخابية تهدد الخريطة البرلمانية بالرباط Le 360 Arabe",
-        "player": "",
-        "content_hash": "ddb1ed15a43181d7f8f7990586d097b88e92aaf5c59733ab9651cca9de39fee9",
         "sent": 0,
         "section": "morocco"
       },
@@ -2075,6 +2059,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 10757,
+        "title": "على إيقاع الخيانة والانتقام.. بدء عرض مسلسل \"طالع نازل\" - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc3d2bkNOSVFXRVBfQ3VldGk0X3BEY3FfUnNZODdZNXd1NGFfeUJMalVrVzM5bEE4ZGt4NVJYNVVUbW4wRk9RN0VIcUZxcl9nUExlWnVNYmxNUVI2YkdPR2JFemJjUmh6bTMtUXZ5dXo4VWVYbWV1Z2JqTWdia3VIVkt6dXBYY0l3SG84R2c4RzlVaWFrZmpuNWpOR3N5R1BCSzEwbi1FZmNJMWJmNnUxQjR5N1gxSUFjUDJTbFB5MHd3dW9RWDJaYQ?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 05:29:06 GMT",
+        "discovered": "2026-10-11T05:41:30.983011+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "على إيقاع الخيانة والانتقام.. بدء عرض مسلسل \"طالع نازل\" CNN Arabic",
+        "player": "",
+        "content_hash": "d24b124911f8c17557ac683826d95b9747066caaf39bde45e002239542f4f25e",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 10753,
         "title": "رئيس وزراء باكستان يدين الهجوم \"الشنيع\" على مطار الرياض - القدس العربي",
