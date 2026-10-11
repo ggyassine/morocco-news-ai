@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11T09:00:01.499798+00:00",
-  "total": 149,
+  "updated": "2026-10-11T09:06:11.963181+00:00",
+  "total": 148,
   "sections": {
     "morocco": [
       {
@@ -438,6 +438,22 @@
     ],
     "sports": [
       {
+        "id": 10797,
+        "title": "أخبار | بسبب ظروف الطيران.. تأجيل مباراة في الدوري السعودي - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPQUxTbDcxM3JDaGwwUHYyZE5NYVhScjVxRTVqMDFwTkJpTXN2aXBuMEF3SHVKbDV3X3poVzd4TjZKZE5RLXV6T2M5cUxtYVdaYlc3SWk3S0IxWExwUTRyNkRvbllnZF9GeEtiQk5FSFN2MmI0Zms4dlUwcXQ0ZURTUmxjM2ZMN0RIbzJzSlFTMTE1azFfYi1fcnpJYklNQUwyM2dtT2Qxc29jcjYzQ0dBbjltS0NDNFFjcTJoM2Z6QU9rY0xuY18wZlZ4alhRMzVzS2dTNEhhVldPTWdwT2Jkb2hEZVd3QVFuZkh4YjFwSVZTTXJnSmJMVS1sNXVady1qbDZGUks4UFRQdEZwdUFFeTdjcld1Q1lPQzM5WnQzbW5UdFgzSUlTalcwbi02WVdKRXdXdlJXM1M1YnZxRHBpbGRVRGxvOHlUeWhQRlJaNndnYkQ4d0hOTTNVaGQzTkowVXhCNklmM0VBcWxXMGdQWEdZYlMxSXpzQzNyVUxhUDBlLVZ6RW12eElRdVNqTkdFNXlIYzVRZG9ncmxpZXI1bXQxZw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 08:51:00 GMT",
+        "discovered": "2026-10-11T09:05:54.543697+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار | بسبب ظروف الطيران.. تأجيل مباراة في الدوري السعودي FilGoal",
+        "player": "",
+        "content_hash": "9e957cc0648a3029085f1c2cfd3d1ff76944b6c3c0b5328ed4c0118373e6fca0",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10788,
         "title": "الزمالك والأهلي.. تعرف على 4 كاميرات غير معتادة الظهور خلال مباراة القمة (صور) - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxQSDI4Q3pPUnB6V29MdnZCdU5ZLVdweDUxQ05sakVPMndOR0ZaYzZITnl1UjBCdnpWR0l5LWFrX1YxakdIeEZCZDFQaU52MlRjbUtwM3BYLVEzVjhyWDlUYS1uWWtPN1JQcU5mNm9fT0l1WDY5RW5LYWVpSkhLcUZNU0U2dlhNelVWMV9BM2loTVEzN3FIUk1VY3VaOEd4MzZwbGVPOGdRUGZ4Z2JGVzNCc0lmX2FqYTg5QktpVG1uNmcxMUlaajlUUkZ4SVZQb0p0RndsemI4cVJBZHdVZ0x2V0RWdDRLVGxuVm02VWllWlBvb0F4V0Q0dHoxa0ZaNDBGR0x4NzdNWHVFOUE0ZnoyY2ZjRmNzN3BNRlJJdFF5QUJza0Q2RkgzeVUzVU14YzJaYVROdWhaY2k4YU1pQTJrdW10a25oWXVQS3VzMjNJQ0dFQ0tlbE9oUEFjTmlZbDlZV2pPVWNhcUhRcnNpa2cyMUZZVXc5a3QtbnoybWFHOXo0SWhVUm1WVEZYeWlpc2gxQnZIQWdITVFyVFVVVXQzLXJOX21aMGdfaE03T3pLRldqZ1FJOVZ6cnNHcTRFR083LTlPNld0Yk1IblFnWFRqb2tSR1dSY0s2RjFaMmZGSnlrN2YyVURnT3V1aDJfTjZjUlZMYl9LaU1KNFBScmFXM0o5Nl9DcDlnZW1DSTgxa2k4T2Rkem5JT2xuVkp6ZzJZSHh0OGl0MHBWME9YMWJDeEE4UUdVNFB3TGlrWjdsRXhiVHN0MktrTktsTHpGdk1PNW1FTU5TNHhTS1pzZk1pU3FMRDBCQdIB6wRBVV95cUxNRHROWUxlSUpGeTRVZ3kwelRDNWFHVlllZGpRQ0pmandRWkxYQU9VTUVVQWpHU0NUZWkyeU9CZVIzWV9MQm1FenVpZ18wSXNZaDlqWTIxQ2Y5VkN2R2FNNzhlWjF3N2xnUHRvNF83VkpnS2twVmMycHB2bFJyZVczQmQ1X2kxYk95WmFRZmVwdjZkQjNwZ1llVHJCWC1Cd05zVmgzLUp0QVBXT3JiVWNIN0JYS0lqNHliczZlcnZRVlExTHVzbFNMZ3hTa1RCLXRzZDI5NnM0WWFzRFdlOW5ZQjBXenhnNGZ4bEN1cGVRb2VNQ2N6ODB2TnU5Y2xRaTJHNWY2NVRmcTNUQVgtcmtVQjdwdHNVYnR1eUdIdllzbU90enBRQ0FDODA2MmVVSWhYOUpCOG1kbWFrUjl1Z2xKYlNlb05ONjc0RjQ4NGtObm9ET2VFWjFTWTBVRjk5bHZocnhyV2Zlckpmb3R0bnB1RTdSWWVLSzJSMm5yUmFNODF5S3NmU25zaUZCcW4wc1dxbndPQmh6TjE1S1ozNzMxU2kxYzFvdHJoSkt0UnBHa1NxMXFndmtNampCWTlrcHotcTZOSXBWUHQxODRfQ1JEbTJLWkRHdG53T1VVa0tORmc1dGFPazBBV2hHM1Fob2VRRlJyNkZrNmlQOXQyTW9HLWhVTWx5REtGOUFWckN6T1NrQmMwd3h2Zldjb1JsYV9WdlpESXJpS0d4Q1pGV1NlOHY1SDVlR0IwXzZFcGdzWGp0Y3FUcXlNME5mTEJQSjZPYkFuaG1jVGxGaWpFVXRJX05OdUZpaHdqOHZZ?oc=5",
@@ -786,6 +802,22 @@
         "summary": "النصيري يوضح سبب عدم احتفاله أمام بونو: \"من الصعب علي الاحتفال أمام أخي لأنني أحبه كثيرا\" Elbotola",
         "player": "النصيري",
         "content_hash": "d5407a7132e63d15b8f183a62e530bbc8798fe3e312c775379f99cc7fc841d02",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10798,
+        "title": "جيسوس: حققت حلمي باللعب لبرشلونة.. والفوز بالألقاب أهم من تسجيل الأهداف - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxQMGVuTDE4YXl6Y3JWdi0zUGFzNTlIb3dPWnhFWWROVWlrakJqWFptMWs1cEZqQ3BoXzZmNGpJck5tSFVTUGlMWWFOY2lRSDZkU3IzRTI4eVptM0JaREtDODE4NEJzQzBrSEs4NXVhUmhyemFkcXZLQWtpUU1pWUVpREZLN29zOUxYLWIwTlpTNnc2LUZoSnliRF9VTkN0U1haNTRocUxsMUloNGNheWE2OWFXWjd1bjZ3Y0IwSXpXWXIzbE9iUjdEX2RYbHlkWkNlbFYyQWNwYmo3dWRlY0c5OU9CaVVRSUhNTUUxVHhZdy1CdzBjNkptVWYzZEtxN0Z6MlY2d0t4LWlqdkRJcnNxVWFLU015NlFMNS1aZlgxdGRjSFdzbEc2QWM3Sm9Xc1F3UU5kcExUeGZIbUo3Y0FlaFBxY2I3VXNyd0ZEQzR5Vi01VU5tOWlseXJ0UTZHcURhZFZmaVJhcDBTMDNnQmhyNkdXVlNjQmhUU3daNmhweElTRWZPNF9vTkptUUt4cGFLNENzRkZTR25ocUVEUzhIbjVUWDlkRTh3Yk9RT0NKM2ZKNVRLZzhnc2hlNTdEZFAzTWtnZkFfSUZISGtTaHJfd1p6QlpiekRNRjVFQV93REVQNDhBcDdDaUFLOEd6STlMZ2ZsaG1FZU9TZDV0SkdCMkk0bmNqcG9zQlNDdDZaR0VJbzNXcDJrZjZMNm5nSUFVay1TOUktbFVBNGhrX3pF0gG0BEFVX3lxTE0tU095cVRqVDdiZGx6U0NwTU4zelE4M0VOeFF4Tk5TM1dDRFZJR0EyUnJRNTBIdmNhQkJrWmpFb1o2dDQ2dkY1OEk5Z3gyNThwbnZmOU9FcU9XSkN2RHo3b2FzdHVCODZGbkkxaHhXcUdOQlBWcTJQTUx1azFQVmVLUmhVMjVVenNEcjFQZml4UTl5UHc2aWJWRi1HVlE1ZS1vNUwzVm4wUmNZaG5OY05PZHNfMVlHamFHZnBwTXBpdmozbXVTQnBWRE1McjBmSXpvNEd2MW1KUVBnWDR4MXFKZDVjUjJXeDhIR2ZvSWZzUnZuZVZ5T3Zva2swX1hvTWlaYXFaeTUzRUpPQi1oaXhzNFEyVWFSQ25vOUFyS2dMMVNQdTFEY2FiS0o3d3o0empSQmdHWW1uWHpSWUp3OVF5QUtDcWt0ampYVEJzT3doUS1WTTY4M182VHhWSk5uNDVOVzVxM1hGdUdrdGQzSW42SFJnUHN4djdKa3VHdkRvQnNRcWJtQkhGUlBjMkhRUTdtM2l5LVFoQjNqZGktSVRkV2lpNWxPMUtkT2prR1NaQ3lfd29PSmU1SFBJZWVqYmNmZmtLcmhzT2pETWtxV1BnN2taY2pidUdiQkxfMTlhdVpWX3BKU1Q2VWZfbG1mZWF6VExLbHJhVldhN2tUaTJRZGJoVklhS2NGZDY0ZWpWTGhFN2NLbkFuQ2NuQVdXX2l4enVPN1VEZUM3aU44RXE2MzlHVg?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 21:53:00 GMT",
+        "discovered": "2026-10-11T09:05:54.554214+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جيسوس: حققت حلمي باللعب لبرشلونة.. والفوز بالألقاب أهم من تسجيل الأهداف FilGoal",
+        "player": "",
+        "content_hash": "7cf856475655abd75193217675f22de17643bb924875db2f3bd491ae5c3a4b9d",
         "sent": 0,
         "section": "sports"
       },
@@ -1174,6 +1206,22 @@
         "section": "sports"
       },
       {
+        "id": 10796,
+        "title": "هل المشكلة في حسام حسن؟.. سبب أزمة محمد الشناوي مع منتخب مصر وإمكانية عودته - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxNYy03ZmZkcFhuY0Jha3Nhc2NzeXFqZS0yeVU2bjdGZGMyVWFTYTM4cVNsWUhUcy1HYUhOcEJyVmtGRnQ1d0E3LTFzbzF0N1NGSm1NczRWekNYLXFQaHZESjZyc1ZmYnJlemlTNFhsMS1kOUNFemhKYVN3aEJLeFRJOTFfc1k0WTRKOVA1R0FOd0lvWXRpWng2R0t1enFhdWkxdXBSX3h6THJGdUwxZVVuQ1lDb1lobXN0Rl9fOFAzSmpyYjMzaFhIX0IzbmVtYWZRM0xtWGFwbWhmR0o3eTVwa0RBbXdjc3A2V2ZQQWtfUzdJQi15UlFxejVia0VDaEIwOTJxQktGZGI0Q3dlb3dteF80Z2p6MkNkcmtJdTN5amlZWl84Qmd2Rk1EUWpEbmtJa21QV3lic3FHcFR5cVFSYURNN3dkUzNSX0VWMEFaVFBhc2Nucm9qS3hfbkNYSDFzUzRsS01hbGtoY1d4WGNGaFRyc3pDVWNHcER3Z3h5TXBWT3FDMzB6RFp2eTN5TXFhcFhpQ1FBV0FDaFF6S2w4MGVmeFZybjVFY2Y0ZG00TkRSX2FUSDBzQmIyYXllbXpQNTVYa0tjVFM1NUhIdkZDNlpYSGxzMG5PQXF4UktuTXk4VkFEeFM0eVVJTjFpQnBZa0xnaFVCRWdBS1MtOEhla190bUNDTDg0aVNOV3VmaU1OaUxLSFRnLWtzbEs5MGJRc2JTVkhFeGRFdlozLVNpaVEtMXFYX1BNdWpRd1liZ3g5c1pZSENrY0xNY2RjcFFqX1kya2Q4OWY?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 20:25:00 GMT",
+        "discovered": "2026-10-11T09:05:53.731188+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "هل المشكلة في حسام حسن؟.. سبب أزمة محمد الشناوي مع منتخب مصر وإمكانية عودته يلاكورة",
+        "player": "",
+        "content_hash": "f251cf93aabf7af81e34970bf09f9b7ceed5e8312b34e89cc15e3a3860c7473f",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10572,
         "title": "هل تمت مجاملة لاعب الأهلي على حساب لاعب الزمالك في بطولة شمال أفريقيا - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxOZ05pd0I3bVg5MVViT3NqRm1DQlUxcVZhdVRrcW0xZk1jcW9JeWk5VXpYeHNUZzJuVF9VTnEzWHJRcjY0QVlCNmF4WUVoNW9YNHV4bEFzVmV4dG10MzJxODBGZzg0dXZHSl9ZVnFvNTJLT19DYVQ3b0ZiZzdIVi01eW9Ra1BWclZGVGhQUHg3Zm5tX3pXaXhXTnZTM256Q1pET0ZIWjJfQUFHSVpSTTl5S0RvcmRFR2w4VDJYMzVCblA3WFdBbUoyU1ltTjlxYXB4NVdqaEVuQXFoemlsVTNrNG9UcTRVMmc3VHNHYmpuQlBNSVBiWElKTHlPMG1GeWoxUjVsak5JTURTRUg4UzNGZDRVLS13SmFoSFJ0VVc2dlFOa01GcmI2VmdVRFpQU3prLUdueHdBc1cycWVhdmRtNThmS0NvaHpFRDh5eUV3T3ZTNENqSTNPQnBCMGJYT0FPYk04dl8xM3RwQVlSVW1MVTVDRFkxS1A2RWVqN0w0VGFNcDhUNE5kX3l0UERiUlFjUjVxSnpXczRTV0h6MmhUVTZ0c0tFQkFMaFVLXzRlMW01OWdMRFZDUVYzSWx1TW5KeUY2ZVZPN2Y2ZzhKOU5oVHZxeXA3eEVHRnBlZFl3U1ExX1FONHBpUHpLWEFyNUNLbi1ReFRuMXRiWFhvelVtMXdBYTJoOTgtUHp6bnp4VlpwcVd0YmNxVDJFRUxPMVBBUG9BZlQtTjNsRGs?oc=5",
@@ -1186,54 +1234,6 @@
         "summary": "هل تمت مجاملة لاعب الأهلي على حساب لاعب الزمالك في بطولة شمال أفريقيا يلاكورة",
         "player": "",
         "content_hash": "0f1538ad00f0c95c450a0413955b25094d9a288a0f094c4aae28fb752b774caf",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10567,
-        "title": "هل تمت مجاملة لاعب الأهلي على حساب لاعب الزمالك في بطولة شمال أفريقيا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMixwRBVV95cUxNQ3VIdmlPckNoQ3VQV1FXNEx1dEljaEVMaEdUUUV4U1piMlQ3QVdnM1IySmJmVWlBV0cyOU9TTmNKelJBWG1QVkhGQ1hQVG8wU2Q1TnZZOWJXZlM2MkhKb3dMX01UOHpxUDh5aU4xaEh6WWhyXzJzaU9TbUFVWVhicWs5MG9RWGtJRkRJcnBCc0pvcEZSSW5DZ09OY1dIa1JTLVVzSU50Mm14OFlMWGJxNlBGb25XdlpFMWFid0E5U1B3YUg0MlZDTkQwSjZpUUwyTEU4bFZDbmx1WmlPNjhjdmhLTTFfS2hJOEZZajlxM2lSYXVaMzIyVE9oem0zczgzcGxwYlVuRllEdnVFWEd3M2tYcncxT3FQYlpCN092LXhkSktZU1hlTXZWVXBYTGdPTEozWEhLdExEaTIzZGI0MXZIRlU5V3JObXpmNUkwc2trZzl0VnNuZDJsNV9FSkdlb2ZSSG12bFB3eEk0ODVPVG1IVDlXaC1ic0s5WGhIZVVDSG8tNjFLS2ZIZ0hxRUdhQWlpV3k4eG5GQ1Bqdm9weDlZOUppLUxHWkQ0dDh2d1lhVHo4N2RERS1CZ1hNcVN5bjVCQzdoaEx4blc5YXMtLUVQd3M4VjdrWDJrc0szRTJ0UWIyNGlISmxvd0thd0NNcG05bUY4MV9RR1N2aXBCRG9ra0RNc0N1SU9Gdm5pbDUycHpKdXVNZm01dGpTNFJCbDRzdEZfZkIxRFhJd3FTZDY5UlJNS2hpaUxCQzFoM1lHWS1ScWZv?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 20:24:00 GMT",
-        "discovered": "2026-10-10T20:47:58.193119+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "هل تمت مجاملة لاعب الأهلي على حساب لاعب الزمالك في بطولة شمال أفريقيا يلاكورة",
-        "player": "",
-        "content_hash": "0f1538ad00f0c95c450a0413955b25094d9a288a0f094c4aae28fb752b774caf",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10625,
-        "title": "أول ظهور رسمي جيد للشبل المغربي باري مع أندرليخت - جريدة المنتخب",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvOGNqTHpNcEhUclhCUjJ5bVYyZnpxY3RKRlJLcmJZX1ZRaTVlMTZQNjZxLXNuZzRabDY0T2Rxdk4tRWFtZUUwcUFHQXVsZ05nYm16ag?oc=5",
-        "source": "المنتخب",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 20:22:37 GMT",
-        "discovered": "2026-10-10T22:46:03.675172+00:00",
-        "category": "الرياضة",
-        "status": "رسمي",
-        "summary": "أول ظهور رسمي جيد للشبل المغربي باري مع أندرليخت جريدة المنتخب",
-        "player": "",
-        "content_hash": "52ad2fa929a9991dcbf891a3bbca89766056b818883f8f17f8e7f132e74dbb62",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10561,
-        "title": "فيديو: الكلاسيكو يفي بالوعود.. الهلال يلحق بالاتحاد الخسارة الأولى في دوري روشن - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi4gVBVV95cUxPTDVxa2NNZnlyRTRucUxhV0UxblVJU3hxWWQxeGtWU1BqcHUtaVZsYWg2WkE1eXB0MW1PTW05bmFiWDY0b0tfbEJ3cF9yWUNGXzduLU1rdGN4c0w1ZU9jY01PcmppZU9faTdGUzFGNlhockM4MnBxTlgxbV9OTFJQUEJDZ1VwSDFFb0Rxc3FpXzFrWFhYRTBvOVh4bmZQaVJ4MlV2clNDakIwVGdtVmV6VXdXQmVvY3BRZ3M4Q1NPYU92dUhxSm1QSnVGZU9FUkg0V0dKZ1BucG9TMjhnWVpCTFBLMFdZUEpuOXI3WmE3NnJzbUR6WTVLZEZhdXNPTi15a1NEMWZtSkNEWWNoc3k4Ul9USGNzWl9Ka09PTGxTbWJ3c1Myc0xVWmFoNXJkcmVpM1ZHYVY5TGR4NVlaa2RlejYzV3UzZDdQN3BKNDNucU1OU24wam9laFE0LWZXZkdkaFJwa2R2eGRBWHh3ZWtnZDBYWDlmMWpINVVvUF9rYUJXQ1E5TFo3V09qSHRhZ01QNkpoZFAzbnZWUm1sQW1pLUFtZkVqRFJpbmpZTUU5WWhEQzZ4ZDFaWjZFa3QtY0xHTmdXRm9SNndaTDRUWVo0WEloRVhEelBBZEgybnJzR190b215U056WURmeUV0bnFwYnRpcWJ4TjE2M2Zick16eWE2LWZMU3pSZ3NlOGpfVVRBc2hmMWZwMHdSQXpBSTFmaTJuUEdDLUxWcmpGR09BMmM2ODJ3Z2NuMWZjTmF1YzRSYy1hSExja0JocEd6NjhyTGNRQWlHNjUwUjQwQ1J1RGtoOGpJRURGMnZKSEI3eTVoSlk4MkZiTjlWaHJ2dWp0SUhPeVEwbWJqelZ0VFNORGJXTm9Od0p2RUpJZ3BBbC1YOV94MzRReDVVMmtiOVFMQk15UmRJSFlFWTZULU5PRHZObldiMnlYR21zUTJMYXkwTXBWX3hqV1hCT2NsY3N4THc?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 20:19:25 GMT",
-        "discovered": "2026-10-10T20:31:39.249559+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديو: الكلاسيكو يفي بالوعود.. الهلال يلحق بالاتحاد الخسارة الأولى في دوري روشن Kooora",
-        "player": "",
-        "content_hash": "eb6786a2e141e8878da1b385687c50fdee46140d4b3f20d243dfe7f61d7f7671",
         "sent": 0,
         "section": "sports"
       }
@@ -1990,22 +1990,6 @@
         "summary": "بريطانيا تدين بشدة الاعتداء على مطار الملك خالد بالرياض العربية",
         "player": "رياض",
         "content_hash": "879749cd70f8200f47257def9da3795e6774148b80666e0d6eb2f64ea2cdcc73",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 10295,
-        "title": "الانتخابات الفلسطينية المؤجلة تعيد تشكيل المشهد السياسي - الشرق للأخبار",
-        "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPazVBd3FJSENOSDhMVGNmT1hxT3pJWnl2M29WaGF6eDVnNTBTQWtKa0dBVzNxQ3U5R1FqbGZFNUhDcmxKZ1RHbFN1Mk5LOHM2X3VVNzFlM2VWNlV4UzN1QmsyMUU2M0pDTVc0XzhTYnlEWHNxX00yZWRIVnhkR1VOLTU3eXdOZ1U0UWNUbGF6a3VkNFdXbXl6VTBneTNmRGxXRi04LW8ydnBtdzRyMmFZNnJwZGRLSXhEbXkwUlFLbENKa3RUZXBwU3h1YlhDTVBDaGZ4VUxBeFdpaWRwdDFfbE90UUJHdmM5UHV5RTYxRVJTZ0xieUI0dGdTTEFzMkdMamdkWW9Lb2lxbHFEWE02ZjBKNWtWcHN0dk1fNjZHRldvOHE2akJRVTBETG5aTmJLZGJYMzVYWFhMMHpEcmYzdUFvdTdWRmo2dl9nTk1mNnlnRlJWR0ZCS3k4QURxd1pzclFnSmw0alFmZmFnTUtxeVhobGZ6Wm1zeWZVZFNpZzZzQkVJdnEzS3loZXR2enFVMWRUVWdPSEJaSG1MbXlhOFJLR2pIdjJCR2NuWGFCSkZKV0Q2N3JXTFVNNWdpZG9qb05KdkM5WmhWbjJjVzk5R25BVVhXUGEzUml2M2V0N25iTFg1?oc=5",
-        "source": "الشرق للأخبار",
-        "trust": "B",
-        "published": "Fri, 09 Oct 2026 20:15:00 GMT",
-        "discovered": "2026-10-10T00:42:21.214674+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "الانتخابات الفلسطينية المؤجلة تعيد تشكيل المشهد السياسي الشرق للأخبار",
-        "player": "",
-        "content_hash": "9fa055a8718db99a29dc35e6a92563a3af221b1fdb0c2dfe1500200deec9265c",
         "sent": 0,
         "section": "middle_east"
       },
