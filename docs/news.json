@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T12:10:43.627410+00:00",
+  "updated": "2026-10-11T12:33:51.711676+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -434,25 +434,57 @@
         "content_hash": "ab3368398dad0bf65998051818aebc970898e6bba312a5f8784ae311e7769455",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 10489,
-        "title": "الدار البيضاء.. التكفل بارتفاع ضغط الدم الرئوي محور ندوة طبية - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxObXE0bTRsLU9McnpwT0dxdG5BbXBOWGZJRG9Wd0s5SEVjekJxR3YwNHJJeWFGSnJzYmtNTWNZZW55TElDVW5VS05DN3VYM3I1bXp0Um9zcWx1bm1CSWp2SGNVNzBjb1JSWWZaNzM5azg4Wm9nYms2dmFSb2FLQWZsVi1wUHpBZWVIMXZlU2V6M3I4aUpvSWx2T0JXTHpMQXNzbDRCYzBGYmVtTVhKZ2ozUzBjTHNUbHVROWRxMkU3dGVvVkNmdDI4TzNsUGZDTDFoLWlTWlNEUHhWY2dCaXpXNzdkYjdwYmt6VVRFeVZWTnBzWkxfdjkxQWdJQXd6YldhVF9Ta3hPd2NMQUxlS0xnZ2dMOC1QdGtkRy1jNjFUMnYtWEVwQkdwZkRrNXlXRkRieEdsdTA0N1ViV0EyWXRISFc4WFVHRHh1QzVpQzh5cEVrcUszLXYxM2doYWYwSV9rdmtXVElSTWpqVXVXNlBLV3lZTVZVMzlEa21IS0lDSDJpVWh5VE1NOVI3TTBoaW9Tc2FRRHJ1cmtZTWtoMTRUNWFFR3BQdTFLREJaeVdsYlNiY0ZTa1NzU21kM3VJOTRWaVNuRlRjbXZoeFJmdHVUTUg0LXpNUHZMelRYc2k2ejVvRVVEdWxqdzZUMVhWYW43a29zUHU0TmhIZDd2dFNzZDNSNzhudGdaUDlGSW9B?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Thu, 08 Oct 2026 23:23:20 GMT",
-        "discovered": "2026-10-10T16:31:10.295455+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الدار البيضاء.. التكفل بارتفاع ضغط الدم الرئوي محور ندوة طبية | MapNews",
-        "player": "",
-        "content_hash": "cb6c4884aaa4762a257769a0b3d029331d13794a286e7e4093b6c4518cb45a3f",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 10832,
+        "title": "قبل القمة بـ5 ساعات.. فتح بوابات ستاد القاهرة لحضور مباراة الزمالك والأهلي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi2wRBVV95cUxPMFpXNW1kT245elBwOEpFWTlQcW1pMEd5OVpHUHpzbW8ydExlUmVWQ1BLUEEtNEY4N3Z5UGRPNDVOUDFZTHlUR1NPelczWnJDQ1VDcnlENnpaZEdSMWN6S213M2taaW42MjdKd2UyUlFYb1RZYlZUOHlDY0JBZWZxQ2htN1prclU0ZUpES095LVRiNXdqV0hob0Z2eHVZY3Z6X3c5dzJ3RW1mZnc5dWd6UzA1eDJGVXVUcXF5QWpGRDUxRWNxOGpDWTRNbnNySHQ4cU1sZElhcTNRc1FERmxnMG5WSGgtOGk2UkVwam1zLWl6V1F4eTdBbkc4cVlpRG9OeGtobEM4WTZlUVJsa2k0cFhWeTdKc3ZTMU5IWHZzYUhtQVlrODUyOWZZTF9yN3h3dDl1Y3VLbGhsbmxsdjJKbm5kenNiZmNKS09OT1Z5QXR1NlNXS0tvakNUZ2xkYzRrd1RkS3hIb2sycFFqMjZmTVFSOVJoNTVHaEV1Z0R4UzAyYUFXc1FqS05LVng5TFByWVNLcHRoNjY3X3ZtUkZta1FCbVcxU1JIS2xMOFRmY1JERHNHMHZIQmtVZDliT1Y0cmNHWHFaRWRwcnFXME5kLVZ0cEctY3ZwVF9TMkx3MlpCZnRvcU1QM2VkZ3lLekJRMmNRdGNNVmp4dmN6azFkUGd1UjhrcXlQNHFUVjM0VVRvc3k4ZHRhaHV1bWo2NEV1WFdBVW5TMVNuYUlrVXduVkk2UmhFbTczVzhnT0R4TXNUV3RDR1otTHRYTXJmWkJ1MmpnR29NWjQ5a0HSAeAEQVVfeXFMTkRJMGtETi1YZFVQOTRCVU5YVUZQZ2JwLXdCU0pncm40MnFvRmFCOXEyY3JOZ1RCMlhaYUQ4MnRqWUZOckxTQTUtdmxnVHRJZjdLaTcycktabjc3QjM5VTFjOFQ5Sm8tQlpxdVp6TnRhWG5EWkpZZnQ0bllxcEo4QWxhOEJEUk1wQklfNVhKTTZRaWdWOVMzR3JnT1EtUHlDZndhMUdEeEdZbjJCc25IMXZ6NDdNRnVKWE5ndnctZHhvaURPRXpnYXBGYk1JYUtvTUMxZmNZLXJIcnpLUXJXUExLVE5GYmw0MGV4RWZlNFJDQmY0aDR0QTh1V3J0SDMyQ09fbXJSakdaWmJCWkVYZTBwYlp1RlMzWm96NWctUEpibFdrT2ZWTmFfNklwSWF0aVdFY3c5bTZXN1BiYk1nLThpMUpnRUJHQ3ZwcjhTd25OeDZId0c3NWh2Z2RNbEw5VGdQTlNiRExsZ1RrVTRpQ0Y4S082aUZ0eG5ZbUxuRmlhczdLUlgyYXJrN3lyQXBOWFNVQ1F4Zm9yYUxHY3BFVEtPVjZiNFpsd3ZpS3B2Skc3cjN6ZVJjQUZBdk5MNVJpeC1OeEtWdzktejRNLWxpUW9uRWwwcjlsU3lhRmkwYmlqTHl2VVZGcEhTTUhBZlYxN1pYeHF0THMwbkwtdEdaejB0Q3NaT1FPS19WT1BETGlmWldDc0FOQkpVb1ZOaGppRHdsdGxlcVV0UGJrdkdzdUhMZDh0dXJIUHpVeWtPYmE3VXVnRUhDM3Z4ZFQ0UXA5Y2EyZlhxV1BSOFhXY1pfVDE?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 12:24:00 GMT",
+        "discovered": "2026-10-11T12:33:32.713041+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "قبل القمة بـ5 ساعات.. فتح بوابات ستاد القاهرة لحضور مباراة الزمالك والأهلي يلاكورة",
+        "player": "",
+        "content_hash": "eb5e581f87a09b3670198e3529688991164b3b26dd2a60e82e63cb2bab1c7d25",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10834,
+        "title": "محمد عبد المنعم يقود تشكيل نيس لمواجهة ستراسبورج في الدوري الفرنسي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxOLXJQaWJReGpjdW96aXZ6dExPNGZWRlFfZVVic3FWRHUzZS1IWWVCOWJDWE1waTg5NDBIdTg3cVlYeTdyY2dqel81THNoXzdOakFoQVJjVHhCR0VrRkFMM0NrTnFfRFFuY2t4OVhOelRDNWJONnIySGFXeHNvWkVNQVliR3FXYzU0WWFudHlydzI4ZGt1RVl4c052Mk1MS1puVFlBdDdJNGRnYnI1eDQ0ZTlSdzdFR1p1S0duMVRmcGsyYU1KbEVqbTR6N0kweEttcml3MU5CTkxrSXYybEtCMVVSTnNSVnlENmpyQml6ZzU4bkJzLXJKWERYODBSdmY1Qm14dm5aaHkxcUdaZjRuWUxiMm14RXBpT2FLblk0RDYyNW1odG1Rbm9tblVDNnBJTk5GejZWWVMzVk54MjF3VXQ2NDRkZ2ZhN0ZmaGJJRkktMk8wbUszdGhlcUF2M2lEcWxIa0gzWHYtNTNkbzdVRWpQLVVDTlZNVS0yRklPU1JzaFg1RFpuYkdTYTB5aDlqVjgyQXZUM1JKelhETXZSWnlQOXNMLW5Fa2RENExwV3h2cm9pNEptOGRMVXJ2NzRBS1RCc0NCazd6VC1YX203d0R0VF9OMm81c2lsNU9IMUpVemhGbHNQcXNjOVRjWThNVWVlZUxGT1MzdmlrSHpJa0h1YUJfU2Q0Z3pKR2QxempTUjFuMHJWSFAxWk9TeUJUYTQ5amExVnV2b1hf0gGyBEFVX3lxTE5kM1pLaXNNSXBBUlN0c2pDZlU1SFV1MTR5NzVucEFCSE1CcFBhbHZEd3VzbHNYekNzdi1xUEpFcmNFT2N0S2FJMzFpWnlFb2p3MXpGQS1Zc1VfbGpkaHdLWHFyMkdQZnpaYjVVcXFvQ3pJMXFKMG96WVQ2TzMxRjhCYnY5Mk9jYmRUVmNPX1Vrcm4yZHJIdmlNMWdfWEkzREFQVG13NWI1NGZ1Q29IT0lfb0FzQzdQdXlzVWFKMEJGMkotYzFtdllXcm1GZzIwVU1laU5hak5kOUtFcnowSGN1Ny16QTlTQ0U3UERnZll4X2ZHeV9zVmFqbENXNnptY0thOHlJMGJpcHlGOVFRVEZRay1xUEdnZlNDdndUc1BXd1NJMG5tMWZ0TWN3UEZJMEVjczJjMG1ILVRGVkJWczZVOU5VeTZJemJaZXdiZ2MybTlwQ2o2MUYzLXE1SFVLSF9QWnFES1YycERGbGZXTVM3cnhYSFc3dTIzQ1BfRk9CZzRSdkZjaGNXUmE5OUdjaFRSU0hoYUtfSkJaUjNMZkNuNk44dzUtS1FKWjNKVmcyTU5xVjZVNUpzT0FkeXlsR05HVF9MRWw2UXRtbmhPY2tfS1NENEVTRzhaXzNOaE9mQ2VDUlc1dFo5M29jSDRoUFRyR2Z2TzV5WEFYM0F3NmlRUE9YNlFMMDlUd3N5UkxuSGZZOUZNakxEY09QdWsyTk0xOXRlSEt4V0N0X013ZTg4S2c?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 12:10:00 GMT",
+        "discovered": "2026-10-11T12:33:32.736726+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "محمد عبد المنعم يقود تشكيل نيس لمواجهة ستراسبورج في الدوري الفرنسي يلاكورة",
+        "player": "",
+        "content_hash": "e398986c034c1c9da0e35f59812960bc55f396ed36e856ed49102a0079d5f43d",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10837,
+        "title": "تأجيل مباراة في الدوري السعودي بسبب \"ظروف خارجة عن إرادة الأندية\" - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbl9udmNBUlpzUzRvbGFpS2FHamRicjhCMGtGbkpQYWMwRFdJWDRyU01iTXNOMlA0WXZnVVJENDY4Njk4WXVHT3VUcUMyV3ZnMWNRU19qRkNJSEF3RDEzTS1VaXNtdExZYUVQYjAzSE0ybGhtaWt0UkJtckZuQkJYdQ?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 11:29:33 GMT",
+        "discovered": "2026-10-11T12:33:50.950043+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "تأجيل مباراة في الدوري السعودي بسبب \"ظروف خارجة عن إرادة الأندية\" CNN Arabic",
+        "player": "",
+        "content_hash": "3a43387411955ab88e4923d52798c726079490ad8553cabfdec92e69baf84684",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 10828,
         "title": "زلزال يقطع بثًا رياضيًا مباشرًا في بنما.. والكاميرا توثق اللحظة - CNN Arabic",
@@ -1204,57 +1236,25 @@
         "content_hash": "95d27882073f2c46b2a46df62cc3bbdad997cdd68367b9c3592e6ba4ddebaa3d",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 10599,
-        "title": "المصور الفلسطيني محمود أبو حمدة يفوز بجائزة بايو المرموقة - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNYzBFTEQ4U3lwbHFwVWF5ZmJGdkNpRGR3WWhuLU9kdnlsRUFxQ1EwVXNydjlteE0zakdNOFdxeEgtc3pIbDVsNmt1alZxZGROS1dEWk1DTmNLMFBNeEJIV2ttOERiaEgyYW1VSzdYcjVpSnFTdkNrZVBaRVhmdWc0a21DQzZVcDVCc3g4ZkprZFVtd1M1NTh1MFNLNG5BbTFYU3ZBdWFjTzNuLXg3UWZnelktQmdJbXllVGhxZVpINGlNVmVhQmt0UFR2X3JMcDNJRmVvMDRmNV8zUG9HQmNfU0hTZnB3N29SOG1pMm9JQW1ObW5nZU43VDFOMVVWQS1WaUQzNmtUZjExVUxZV2o5MDM3SW85RTZmUk95MWFYYUhEd0RoNDV1NDdtZW5hUlY0Wll4QmduRFBTcVZwYWR3TThhRXpFRjQ?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 21:06:24 GMT",
-        "discovered": "2026-10-10T21:48:27.646475+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "المصور الفلسطيني محمود أبو حمدة يفوز بجائزة بايو المرموقة القدس العربي",
-        "player": "",
-        "content_hash": "96fcb77f7fb70b8f4ce777470b9dfb4c4c9f88843f789613bd43a4c766c54f0a",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10759,
-        "title": "الناقوس يتألق بـ\"سوبر هاتريك\" ويقود الدفاع الجديدي لفوزه الأول في البطولة الاحترافية على حساب أمل تزنيت - Elbotola",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hdXV4TUZ3V1Y4bkQ2LTFRUUtSX2I3TjBaeGtTOTdKUUFjd3Y5S2dYRjE5TGVwYmZWTENOTEp2ZWNFdUo5b2g5WjR1OTRmeGhmU2t6N3pNWnlMX2NCOXpUaVBQSW5sYjNKQ2c?oc=5",
-        "source": "البطولة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 20:56:00 GMT",
-        "discovered": "2026-10-11T06:11:10.273470+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الناقوس يتألق بـ\"سوبر هاتريك\" ويقود الدفاع الجديدي لفوزه الأول في البطولة الاحترافية على حساب أمل تزنيت Elbotola",
-        "player": "",
-        "content_hash": "bd28c8a277fc5252f66b8ea69828c983d444b20331e51095227383f152cb9b60",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10579,
-        "title": "فيديوهات | أهداف فوز الهلال على اتحاد جدة 3-2 (الدوري السعودي) - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNRkpEaHVWMVhHVU1RNE1oeUlWZ1BxWld5R0tJb01FRHo5Q1BkTm5HM1J0OWNwQmNXMlkwOXFDUFY3YW9FR2d0M3ctQlBaWVJOMnNSSExhalZrZ3NTeXh4S213WTF0RmxteTk4ZDJsRENQWEFPdVRtQ3Jta1NydWdiV0NNY1hTZU9Xb2dDTW55VXpINllwUUVsdTFhM0ltSk1NN19LU29NaW1XQUpBWWM3RWNBSWhySk9xSF80bTRzaERsck5KeWV3b1ZGYzJOZTlhWGtRVl9SRlp4Ty01djNiM05RSHdwNmd2aEtOVmd6WHFjdzNYMU81NXVjcGs2MzFTdmRpYnJWaFV6VGtzZGc0TnNKTHpvWWduOG9pUFRFUzVLTWZ0Y3gyOWZnTGhpWGQ2aGRlZGRGcDBhLXF2SXh4T1QyVFNkZXdZUXA4dTR4TEZ6Vm83M25PR25weUVESURlbTJvNGhpcXhZZmVRNHJINlhrM2FRNlQwR1daN3l3cnJvRmtVNXE2MTVwZXg?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 20:56:00 GMT",
-        "discovered": "2026-10-10T21:15:58.613864+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديوهات | أهداف فوز الهلال على اتحاد جدة 3-2 (الدوري السعودي) FilGoal",
-        "player": "",
-        "content_hash": "fcbf607df425bb47b089fe2777aa1aeacc050079d28c656b5220019276323ba6",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 10833,
+        "title": "سبقه 10 إنجليز.. ميلان يستهدف ضم أليكس سكوت - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxON1hzRXJXc3FLZ0xTRWhvcnlna3pRX3VHWTFnWlQxYkU3RTU4U0Nud1loUXlQcW9DMDJ4a1FnekJ5NUV3Tm0yUy11S1F0ZDRHR0ZqUVhzU3ZhOHFJanoyMHVFajE5X215c2lWX0dRMkRyeTUzM0Joamhxc1VBbVZKMVZXSWZLUmhWQ3dMVHQ0bVMtRzhLemJFMmVwN1VnVnhQUGtldHp1YnVOV1oyQjNfQlJ6a3VWSlpuSWthRndTbV80bGpvWnltcGh0OXVXbjk2MU9iS3pIeHA0aGRYc2lKODVyUVM2Y3NMU1VvOUhvSjlCc2lrTWpfWXd0YlY1aGhWYWJJdHUzMHBJMjJBdjRuVW5tcE1PRk5wZUdZcWFpOTE1TDlhLXQtUk5kY1R6QnpZWlBicWpBakdES2NRMFgtUjJkdkF6ekRjMHBUUDQ0WTludkYtVWt4QlFxVmZienVUVWxHVzZxONIB7AJBVV95cUxOWVdFaHZIRENfejBZYWtHN0c0Mjh4ek01TXl3YkIxeWdYX2JfR2QyQmRIb0dwZ1pZTUNQVGU2SHBEa3BfdU1CR1MyWlRGOHZNWnA2aDZLbDRZc1FDVDVsb0dxWHhlOHlONWJrZm50aDFmZ2k0U3RsaEhSbFNCaDNBaVNSVU9DeFhpd093TU54b25ncXFEc3oyR05GTVNfZ3M2WVNYdURMSWlObm1qOTMzZ2FxbENuc2pPZzY5YnRqQVlaVHl5MmpXNUROelkzVUZXT0ZYWFZvT2RBRlpXVTg3SzhQSkFXMVNNaC00WG1xSl8yYThuN2diV1pvYzVkZzlyTTdFOWpfeHpFb2FLUEQxLVlSUE5mQ3VpM1A3WGxMS3BtSVExaFgxSHVIbWNIb0ptZ2RyVmJzaGE5RE1tejhibnQ5OWZHc0Voc2xTNDU3Yk5DZUxpeDRJNVA5bmVQRURYb1JRcU1vZ3BHWDB6?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 12:07:00 GMT",
+        "discovered": "2026-10-11T12:33:32.731989+00:00",
+        "category": "الرياضة",
+        "status": "اهتمام",
+        "summary": "سبقه 10 إنجليز.. ميلان يستهدف ضم أليكس سكوت يلاكورة",
+        "player": "",
+        "content_hash": "c36fceb8dd80dd79d743d20fb68ec921df623e4563222fe518d3de07e5e9fcf4",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 10815,
         "title": "البنك الدولي يرفع توقعاته لنمو الاقتصاد المغربي إلى 4.4% خلال 2026 - Febrayer",
@@ -1734,22 +1734,6 @@
         "content_hash": "eb760cf95709c4be5d98b48d1cf1efc4e8bb82cc6f9e5c5f024fe2d126a6bcc2",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 10335,
-        "title": "ديمقراطيون بمجلس الشيوخ يعتبرون صفقة ترمب للديزل الروسي «خيانة» - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiqwVBVV95cUxOOFc5Q3hZQ2lwYi1aVndRVnVydzdxNjFOY2Fwd1pVa0VJQ0xwTTV1Y2NTak81QkFWTVlIby1ReGxxajM0WGdwcFR5ZFNOME9oUHpWS0o5SEtNYVI3T0xTaC14ZnVOQlpTMDF1ZEhRUWV4VnZXRHk2N0FtYml5dzMzd3NqU3BuZ3BoMUZJOWVXbEVLQXRTWlJodEQ3b053SXoxNkVlTGdHUElrVnBJdW9COVhTN09MTmltd0xETzNLMWRRYmE4d0hYWlN5NnFiVzh0SXd3dEhuT0lFa01JTzFENi1qekt2MXV6ZUFFWlM5MjVPbXJJdFluQWdZS0tJajVqVTBrcWY4cHlrRTZhQ0lCbE1lUjQxLW5pX01SVGNvdmkwY1A2SXhYUnE2cW51QlBHZlk4YkkwYlVuSEI2bHZFS19qRkFEb2FHT0xDWnhoNHNjWTJpckhQV0JvYXhwVmxqbzNLYnZoTV9TRm9IWi1Zc2QzZTh0ODhfYW9Qanp6NW5COVlsUHFQTFBPZXF0ak5jX3JUelZSN3JYMnZfNS1GUTloUXg5NHJweGJFNUVMSkRSN25PX2tzd2lxNEx4eWxRNllYQ1pWMjZxRXVtUXRhUEJPU3lKaGdOUkVNcjVZemJWUVNzb0lyUWIxNlNDZEkybDVCQVFEV211VmFQMnZXWnlhWUozRWZVc3dVNjBRZlRITURMWUF3Nm1ia0x3QWJxeUM3VTZWTE85bHc2enZSbENRS0ZwQzR5VWRGQzJMcG1LSDJfNHYyaEdKN1RIeDBPVkw1bHN4RzVaVWlCeTV4dDk2NW5mWEYwaDUxV19DNE5YRWthMlg4cHpLNWQxRlV2aGpMM2RyQWszTm85T0ZmdEV0b2lfUzhPcWJlWFU5Q3N0NVpIXzF4WGwtcw?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Sat, 10 Oct 2026 00:51:54 GMT",
-        "discovered": "2026-10-10T05:44:02.797742+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "ديمقراطيون بمجلس الشيوخ يعتبرون صفقة ترمب للديزل الروسي «خيانة» الشرق الأوسط",
-        "player": "",
-        "content_hash": "908921897752876acb1f586514d19fff3e5fb21ebaab7c08899128bf3f017818",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2075,6 +2059,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 10836,
+        "title": "إدانات غربية وعربية للهجوم على مطار الرياض وتحذيرات من تهديد اعتداءات الحوثيين لأمن المنطقة - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPampVMXREdGgzZWFaaUk4SFhidXlVZDRqaWg3UTlPLURfdWFseGdrSVRGeW9vdFBFT1hveURUclg4VWlfVXFNS1BSeDBIc3hCWUk0c1FpanhXZGtSaXkwSGVYTWJ5UjdHU0ZfQy11SFNnTkYxYVlDUHBGS2ZnNlBsUldBeGhOWXltOUlfTFdacnpuekJabFd5R3o4MEQyRmdKdGU3WFZNUC1lM1o0bmhlMS12d05FUFdLLVBqRERNcmVjc0x3aUlaSGNEa19MMkcxLXB5R3U2dHNFQ216VE1LOVpMX1ZTclJqWUxwT09VQ0V6T3hVTmVVWGVtcHpKLW5PVVAxeWZlV0dyaWh5ZUEzUV8wcnU4bzNKTHQwRXo4ODh4bEhnZWdpdlZYOTNubkxIbHFYQ0ZjN19yWTh5WkF2NzBzWjhUcTg?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 11:59:15 GMT",
+        "discovered": "2026-10-11T12:33:45.882655+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "إدانات غربية وعربية للهجوم على مطار الرياض وتحذيرات من تهديد اعتداءات الحوثيين لأمن المنطقة القدس العربي",
+        "player": "رياض",
+        "content_hash": "77d5056e4c51e7d9fc61795b774c219f85ce6de2f5d564e3f9ef6e958fa65a0c",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 10812,
         "title": "تقرير رسمي يستعرض أرقاما وحقائق مُروعة... الإبادة الجماعية تسحق الطفولة وتخلف \"جيشا من الأيتام\" في غزة - القدس العربي",
