@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T20:15:10.981752+00:00",
+  "updated": "2026-10-11T20:32:01.700368+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -386,6 +386,22 @@
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
         "player": "",
         "content_hash": "d6ca3029b4f8e968900854313ccd7433738a3d64327880a728bb48944b678d18",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11015,
+        "title": "فيديوهات | ملخص فوز الأهلي على الزمالك 2-0 (الدوري المصري) - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tbEVjTjBBajBWZl8xcDg4REFWMENrUWdZVUlSb2FENzVnZHREeDRaMlVidzRkLU1fZWt5cGRBUUwxYllfakR2bzJuSkE?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 20:07:00 GMT",
+        "discovered": "2026-10-11T20:31:47.508801+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديوهات | ملخص فوز الأهلي على الزمالك 2-0 (الدوري المصري) FilGoal",
+        "player": "",
+        "content_hash": "13667f5821ee5c8d0d6df079ca92bb0dbc0bdeb4feac9e7f9629496d03a29b90",
         "sent": 0,
         "section": "sports"
       },
@@ -1140,22 +1156,6 @@
         "content_hash": "18995f9246ecd7606de00a47c168b1a7564187397a2e97de4629056422db4752",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 10905,
-        "title": "هدف صلاح محسن أمام القناة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOc3ZzRGpKYktwRS1Za0VKeWhQYVE4ZVc3cVRDRm10b2V4dl82ajYyM0dDdEQ3MVNJYW5FYU91eUJRY2wwTjVybUpma3dNeTZORzhfMzBYbjJhbURkaDljTkVyYmlPeThqM2xsMmE2SGtNaFJmUjhPQWhIRW5LVlliekR3MVhLNWpYLW1SYUFBalZZMjhaREdabVpzNlJsQmFQUUxuTlRqZ1VpcUdwaUt2a25MM1R5N1UtdUV1LVVHZGx4ZF9XSkZRaWFkQUUwb0dXajR0R1Y0RTh0b05hNzZ6NklzLVRpMUc4TGRrY0cxWWNvRExfd3BOWnFqaWJ4aURT?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 16:06:00 GMT",
-        "discovered": "2026-10-11T16:37:32.826677+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "8b90dcfdbb0672d6568fa8f7ce684667c982fde72da62a0d18124cb1786c97fd",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1188,6 +1188,22 @@
         "summary": "لبؤات الأطلس يواصلن التحضيرات لمونديال أقل من 17 سنة - فبراير.كوم | موقع مغربي إخباري شامل يتجدد على مدار الساعة Febrayer",
         "player": "",
         "content_hash": "67afe7d01d758604357470048cde4544430fbd718cd3094d3d753d83df7e9992",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 11013,
+        "title": "ليلة الحسم.. المنصوري فاجتماعات اليوم غاتحدد تركيبة الحكومة مع أحزاب الكتلة واستبعاد دخول الحركة الشعبية وغايحطو اسم مرشح لرئاسة مجلس النواب باش تعقد جلسة التصويت فأسرع وقت - كود: جريدة إلكترونية مغربية شاملة. - كود",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPdzBRbnNqNTN6SEJ6T2FRNWtXTm5xRzRVbk5haWp2S1YwQzYzTXJEaXFnS09EWmF3emtpelF6ZE53YkkyTE1WUUVrdnNNTkxxUldFbjdVZUpGSlZRVEdOX3pTR0JlWnhjbGNuVDAxVU85Y2hrcldUcU84NXduR0tiZ0RiaFhpd3c0UGFxQWVXYjBZelRTbVBZWXROSWRnV1N4dnIzd2drR2wteFEySF8xV09yVEdIR0tGTmhJeTRfWlRjWFpmd19aR1dFbG45MWlFME5ZYjR3OXlDSVlZV0tVSkxZSXJKZUJzdkVpTFJVNXpLZlRCeVV6YmdpRlFya2hhVHNqWTVjWFdGMUJHaGRMV0RzRHZlaUstT2JvdHFGX2VmT3ZDaUU5UjZnT3U3Z2UtX2IwWGlfMTZsWWxFRzRJRExQb0dhWS1TRFE?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 17:18:12 GMT",
+        "discovered": "2026-10-11T20:31:40.208170+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "ليلة الحسم.. المنصوري فاجتماعات اليوم غاتحدد تركيبة الحكومة مع أحزاب الكتلة واستبعاد دخول الحركة الشعبية وغايحطو اسم مرشح لرئاسة مجلس النواب باش تعقد جلسة التصويت فأسرع وقت - كود: جريدة إلكترونية مغربية شاملة.",
+        "player": "",
+        "content_hash": "ebdd5f5e3b8ce66ebbf133e044eccaf10585f2f6e55a80c62adbaed4a7dd4468",
         "sent": 0,
         "section": "transfers"
       },
@@ -2355,22 +2371,6 @@
         "trust": "B",
         "published": "Sat, 10 Oct 2026 17:00:47 GMT",
         "discovered": "2026-10-11T01:00:40.012788+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "1e010bf0dbaa289bfdc498b020c6de8aadef0b5e84f5d8a046eba8af035e1dd0",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 10515,
-        "title": "إسرائيل قبيل الانتخابات - DW.com",
-        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQdi12cnBrNVR6aTlpbGZYLURSXzQ1c29kaDFmMXRXaERueDRCSGFvUUV0OEFKby02REVZb3pzdjZyZ0xKam1ac2I1ZUtIaDItUE53QWw4aFdzSkx2UzhEYzd4QWRmRi05bDBOVzV0WUk4UU1qS3BkdEctV0J0ay1LSHlRR0FUNFJBVUw2Y2hya0R1X3VnRGJISlRXd2ZTblcxSkQxeTlvRThROFIzNGp5MW9iOWlkRGFpNW5Sb01DN2Y5SGExbFFEWjR0Q0tHMEdDZGZJV282UWVQLTFvNVNpU1Y2U2lfNEd0RFZlbUEtanJBdGRQNnRBMk84bGQtWlNYbWNSU0V5QUczak5TbFBYZ2RSZXhkUjJVZTZOSVhocTRhR1dnSElpVGtQVmNINEN5VTdyX0ZHOXVfNWNQTmRWT05LQ0Z4Z3ZDU0diUnhoOTliLTdockdacFR3UHVVSmpaTGNxWDNPQ0FzNGdtcFRxTkdGU2ppZVJQZUYyLWZaVkFtNlhGYkVjWjhTdnhPQi1NUldJVzA1ZlUxeGZ5?oc=5",
-        "source": "DW عربية",
-        "trust": "B",
-        "published": "Sat, 10 Oct 2026 16:52:46 GMT",
-        "discovered": "2026-10-10T17:16:36.988720+00:00",
         "category": "العالم",
         "status": "غير واضح",
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
