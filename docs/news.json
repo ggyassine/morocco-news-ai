@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T23:55:05.806164+00:00",
+  "updated": "2026-10-11T00:09:23.828124+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -582,6 +582,22 @@
     ],
     "sports": [
       {
+        "id": 10654,
+        "title": "جدول مباريات اليوم - 11 أكتوبر 2026 - بطولة قطر 2022 - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMUF2aFZTN2VtRERObTBVYjZabGM0VEpjOWg0OHllTWRxMWkxeGxjSXo2SmNUOXl3QWRQTGxOd0dNUHpfbVFVblVTSUNpSkc3S2ZIcTFENHdPekZ1VGpZbW50MzRSdkFmallobXhhUkVIdHBDZ0JFZURFSlI1OXZRZWo4SE84QjJROG5UZkpYd1RYdll4c3VST3VXVlR4Ujhpa0xfQl9WVlVid2xSUUxaZA?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 00:04:38 GMT",
+        "discovered": "2026-10-11T00:09:10.179847+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 11 أكتوبر 2026 - بطولة قطر 2022 FilGoal",
+        "player": "",
+        "content_hash": "bb7189b5e4b9e6ca6f60ca90c4c9128acbb5fe7335c103cd7c335de280be057e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10634,
         "title": "فوضى فينيسيوس.. حالة تحكيمية فريدة في تاريخ الليجا - Kooora",
         "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxPTWw3VDRTajVvSTVieFF6UUFsTjB3OWs4b21IUUhxUXVxRVpoemV2WEdDSW4wMUxFX2Q4dnpyWTh1eHdqVXQwbDhXMUl4VWtFZ0twOVdOanNqamJwQnZFY3VRTnZVcmJmQ2hpZ2NnYVlyQjI2TTM3STBpX3hQNEZEQWp6cW5MQ2tLYndEcGtFZWxzVEVTU2Uxc1FXZVhFQU84R2RvTGp0TjNFSVhhXzQyT2l0LVRlc3ZYY24wSlFNVWZrYkY2cHRQU1VCM3hzUExJRHNFbkxZRDNsNnBpVE5CMUhLdEtqYW9vRnZlVmFSVEFTTXNWaUgzNUlfSllsZmtEZ0IySjVleDRZLXE4QlpTS2VFc05uTG1EUHhpNDdOU2Y1VEZzLUdXWXM2bzVobEJ1YVF4OTNsbVRVVnN1Z0xYOUo5S3ptMWNRYWViVjFfQjZxMDFJUVZwVGhFTzBVTkNfdWJBakV6ZFlNeWdWMkpXcjVKaEo5cmM4TTc3WVo3NDczczNjVzllZlJpRG9pMGp4TnBoekVqM0cyVXhtMmR2cmVRWm9sZjRBaEZkSUQtWDZOQVhERDFFQXZZYmtUSno4TU1RTmVnMFFOdDVhRWM2VDBSajZULVdkWl9oNWRSckVWZHE5NGdJWnhMaGRiOEFMTThWUjA4Y0huZDBjdEJRdDdKM3A?oc=5",
@@ -594,6 +610,22 @@
         "summary": "فوضى فينيسيوس.. حالة تحكيمية فريدة في تاريخ الليجا Kooora",
         "player": "حكيمي",
         "content_hash": "09af3b3635ecc701fe52ab4cc5092c9c6b054bf0ae4756befc1669f3e53b802e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10651,
+        "title": "ثاني كلين شيت لعلاء بلعروش ، وتصديان من الطراز العالي - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DNzQtZ041N0pyeFlhY29ISlo5QUFQaVZSc2Z1NDhaSjNYcGFXLS1USUdqUEtuaDRKMGp6SzMzQkxDZy1XVG9pZ0tYbzd0MXR1ZU93Sg?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 22:52:30 GMT",
+        "discovered": "2026-10-11T00:09:04.080950+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ثاني كلين شيت لعلاء بلعروش ، وتصديان من الطراز العالي جريدة المنتخب",
+        "player": "",
+        "content_hash": "8df16b14b9cfbe1f7e3d65f0a4e0e8ceedf9d6605ac8900cbb50493c5e6f6a0d",
         "sent": 0,
         "section": "sports"
       },
@@ -1206,6 +1238,22 @@
         "section": "sports"
       },
       {
+        "id": 10653,
+        "title": "الزمالك يختتم تحضيراته لمواجهة الأهلي في قمة الدوري - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sZHR1cVNVMnNHcTJqRWVEYlpoZ2k2Yi0yRFNfU29ES05waE1Gb1ZibmhHV3dxanFoNzhNd0FTNHF3MG1nYmVjTC1LWmd1OWRI0gHAA0FVX3lxTFBURTYzWEk4S0RIM3AwTWhzN2Fkand2aWZHbFN5UDRUd2lHNF9ybWRKYVg0b0pVbGJRX2dUd1plSlRHeENOS3Z3N05fOFRDQUJGallZR2YwVE1yVGUxZ2JyMkplNU1oZUVtR0w1WHZEdk1RXzVjRFRmeV9OeXhkOU1pWnFBZTR0WHByM3cxeGdLeHpEd2QxdkQ3MjZNRHFscHNzY2hGcWUtZy1sUlJFT1VBUUtRN0lvTjRmTnI3TTRNZ1N0a1pUcEJCa1VkMFg4cjhtb0dwSkZmM3I5cUJUcGtEM2JGQXZYLThpWEpTMy1pNDEyOGZzeXdoTElTeU1jSUtpdnh2QnVRYnh2OVFjQ2IwMUxyV1BUOXRnZ0lOSzBER1FTM1VGN0tpMkNSOE1iRGM3b3UwdmRzWElnS0NZcllVMXVIWUZsX1hMa3FLQ3l0c3piTEM4YW81LWg4QTJ6UUlqZ214eGxkaDJrdG1OT2RrblZvOVZqOFcwTzhzeVpzeGdMeEphdnVYa0hzSkZHR3hudGRpRWFJclRnc0V2bkdZbnRGYXBJT2F2bG5YLVBBaTI1LTZZV0cwemFqXzE4MXA?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 19:25:00 GMT",
+        "discovered": "2026-10-11T00:09:10.150330+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الزمالك يختتم تحضيراته لمواجهة الأهلي في قمة الدوري FilGoal",
+        "player": "",
+        "content_hash": "7e5ec28ab691cd002e28ffa86412684894e865ed2fce8589f88005eedf9aa56d",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10619,
         "title": "الزمالك يختتم تحضيراته لمواجهة الأهلي في قمة الدوري - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQbF83MDRJeFlRVTQ2WU9VeEptRkhpQV9feGdQdUh6MDZwWjlUY0V0WVBKb1ctQ2hOSlFjdVd5RnJpckEyaGR6VmVVM2lvNE5HRmVkQjZoZjVNaWU2ZE0xUjUxQWYyODdCYVctUXBnREhOMFNGbTc0SUhTTVpMLWJtbDdKMmoyRnBmZ2pVbHZYclBVeU01bkFVSDNvTXJNQkw2aVFIYzVkZmFneWF1aGVKeTJ3WU5kUGh4SGNTckZRSlZHcWRpNXE2cjZjMktiaXZRVkZLb3MxYVZKQUFPbmYwQ2ZqaGxsSGF3NEp2VXpZMzlXRVVxUjNkZjRzM2lWb1FZRXRRbjFOQjhJbjFqa0docVZnQjRCMldWcjRXYXJJa3JLb0hueVVhckRaSHBwMHkyc1VCTWExZkpIQnQ3aVFOd1JxQll2YUctNEtuLW5RanBXUHdnOFh1d3pCRW51dFBSQkdiT1hNaThpa09QUjZqWVJoQ0JTS29XYkV4ZDF2OVRkYi16ek5KR2lFdTJzWmpqTnZMVkxJSUJLZTNCLWJ6MWlKLWhONmwzenFsMXJ2bTBLLUlJNnNqdEt6QdIBwANBVV95cUxQVEU2M1hJOEtESDNwME1oczdhZGp3dmlmR2xTeVA0VHdpRzRfcm1kSmFYNG9KVWxiUV9nVHdaZUpUR3hDTkt2dzdOXzhUQ0FCRmpZWUdmMFRNclRlMWdicjJKZTVNaGVFbUdMNVh2RHZNUV81Y0RUZnlfTnl4ZDlNaVpxQWU0dFhwcjN3MXhnS3h6RHdkMXZENzI2TURxbHBzc2NoRnFlLWctbFJSRU9VQVFLUTdJb040Zk5yN000TWdTdGtaVHBCQmtVZDBYOHI4bW9HcEpGZjNyOXFCVHBrRDNiRkF2WC04aVhKUzMtaTQxMjhmc3l3aExJU3lNY0lLaXZ4dkJ1UWJ4djlRY0NiMDFMcldQVDl0Z2dJTkswREdRUzNVRjdLaTJDUjhNYkRjN291MHZkc1hJZ0tDWXJZVTF1SFlGbF9YTGtxS0N5dHN6YkxDOGFvNS1oOEEyelFJamdteHhsZGgya3RtTk9ka25WbzlWajhXME84c3lac3hnTHhKYXZ1WGtIc0pGR0d4bnRkaUVhSXJUZ3NFdm5HWW50RmFwSU9hdmxuWC1QQWkyNS02WVdHMHphal8xODFw?oc=5",
@@ -1332,54 +1380,6 @@
         "content_hash": "67785659f04fe2434659a83616c5c7be893189624481f354215db3d5f6401c57",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 10540,
-        "title": "لقطات من مباراة مانشستر يونايتد وتوتنهام (صور) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQMW9YSF9FQUpPb0hDSk91RXIxM25VNU9IUmhRYzdyR1prZ1RJVnd6OUtmSmhpcUlTWEhkclpPaVQzR3FSZWUtaThxaDJnUk9WXzhJYWpIempGNEExY3B6bFZIclRva0YtSWhlR0FsSE01b1BEV1lPYVlpUzhXMkhfZWRvSFlnMXpiNmwzR21RcmxibDE0Wk5XLTBiQV92SURhRGptUm9YQVJvRGF5dVBmd3Q0X1laSjAyVmRHOEtEUWFEWVdmdFBwbXduNl9mUml5M0R2d082NXYzc19wb3hDQXpQaVlZRXg0UkdseXpSTWNTWVZiSFM0LW9OSlhWUkxCNUJuRks3bXJlX19fZkhrNzFsalc5RDNFbENoX0dHZTRLRzE5Q2x1ZzBFQ3V0c2tVYk9PaXc5QkVEOVd5Ymt0SURnTlRscmlETkk4Y3luQWhvUUl3RExqUlhHdnhuZHlQV0NTUDU3em52SWktZXpfYnlzc3dNYkdrTF9jUEFBa1duWGZneTl5WFJfdw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 18:47:00 GMT",
-        "discovered": "2026-10-10T19:20:45.426736+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لقطات من مباراة مانشستر يونايتد وتوتنهام (صور) يلاكورة",
-        "player": "",
-        "content_hash": "c9f121f0f47ba956af6bd936b9a6c5879b956bc22fc5818092dc0439e8243653",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10539,
-        "title": "لقطات من مباراة مانشستر يونايتد وتوتنهام (صور) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNZ3hPMWg1QkIxUHVwUWxkdVlmWVVCVWMwTG5kV0JWdTlyZnV4OHJ0OVJPZGdoZHdDRkhBQjNFOFFPVzExN2dnZGNnQ3hTN0JvdUNqOTMyLVJYU3JuOEdMV0Y4Q0FDd1FjTUtDRnhaVDRmeXUzZ0JZWkNYYU1KMGVrT2ZfOVI3Q3JYZTVPaTRYcW5UN0hveEFSX1Q4WXpGQ0M5MDNYd2w5QzhCUjRwUjBGMG1JME5RSWZYRERMUG11dnZvZ1AwZUNDNnNWZkNuYnRfNVFnYmE2SlBQTWNKdzhQcER1aGJQSHB2YTFtbURKcGQ0VzI1aWpBMHB3dWtxQzVsNjV2MHgtdUFySlEzSXRRVVlxWHJ0VlJjQUFJc05HWEV0dG95NVZLRnh1dzJkWTUzdWh3bkdjdVVzMFZaQ0FDVldKbmhOb3RPVlJ3SEx1N25BY2Npd3p3ZElQSUZuWkJoZ0lWZGg1c0xfMzZTaHV5c1BWOVJDdEYwem5mbXctV2JpVUNLaFBWSWJudGZaQmJrZXlheWlmSQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 18:47:00 GMT",
-        "discovered": "2026-10-10T19:04:36.743211+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لقطات من مباراة مانشستر يونايتد وتوتنهام (صور) يلاكورة",
-        "player": "",
-        "content_hash": "c9f121f0f47ba956af6bd936b9a6c5879b956bc22fc5818092dc0439e8243653",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10620,
-        "title": "بمشاركة مرموش.. توتنام يفلت من الهزيمة أمام مانشستر يونايتد في الوقت القاتل - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxPQ1M3Ylc3NlVYMHhMQ1lESEJqc3F6OG5YNjd0Ty14NEpQSEYtX3lVSkpHelppYWZJelZiZ2htazlKNEVNdVJ3QmF6SjVYQUJSRHNTelNMNmpWZ2xlcUNwcEdSbGhic0pEcUxMTG0yZFZHYU12N3U1X0xSNFZ4Tzl2WFVoNU9xZjVQSmJ0c0lkZFl2U0ZYaV9rbU56UWw4WUVHS0ZkaU44NGhPUGdrSU0ydlctc3h0YUZsVGdkZnNxVVdRQ1p0WWZpOThNRlJva1BFcXhlcnhCS2ttbXlVOEJVSU91aFJlWDBpUmVPMnBaRkZEUkw3aGJHZkNkM0t4TVZQUmdhN25ySXRpZWUtX3FvUDRlRW11NVhDamVLWm1nWTlaV1NDVjBQSVk2VHpDcThEWWUzNnNzRGREa1dxZnRDVk1DcnVVNWZlRGtQMnFsbDFWRGF3UDhROTRSQ1pKajVPSnJCX0xqQTF3UDJTWEhUT0tGN241OUtKOTdmNnpNVGt3aTVOTjBBZFBTX0J3V25kUkZGdmxhWC1EN0ozN0FFUV9ERzZRWjRXblpqaWpIOUZzakJsLXJvWGFRdlRUcFlJQkQ3a3VKeGhiNXlwYXhkd0wtYXRxYnB5YnBpU3Z0cmlHV1ZUTXJEMDQ1VEpHTXB2OXZ2R0tKVmxPRzlNYzItQjN5dUhyLWVEUS0xMWNhQ3BHRlBpTThxcy1mN1ZDellnaXBIUGQtamUtYXhLU2hBMmpOMXNIbUVpRHBoTFQ1X05vUVZ3U2lsZXFleFJ2TkNw0gHWBEFVX3lxTE1rWXNfUjZIczRHOUQ3dlJKd2F3RklVaHJseUN1TmlBX2lvRnZ4SUQzVmpNZHNlaHpXZW9zYjc2cnRfcnBpNmQ0OVNRSTlZWC03VkprVDBQUUpHU3JRRkwwcGdKUl90WGV1bzc5bzZoMjJ2MXFvZGhqVzhkdWlKWElJY0hOT2t4WWNaeTBPQ01tc3ZydS1LVDNBSXpneFVKSkJhbWNZZDJIYTRfdzFScTE5V0VHNGFGMlNZR08yTy1rWEQtRktIa3NkQnJuN3RYYVhiY0ZvTGxqdnlvQWd4QjlIUzhSckd3aGlqZEVYX0ZtZjEzS1laTWR4b01sc0VEWHFNSlYtYnlqS2daSUlqcGw4bFZzZUxCUmwyaGt6WXVsQ040Y2VJRVhTWXJrbVdkVmU0YWpEQ3BFS2NnZTZtWkN0R2xpMGwxQkI4YUo5Zkpic2VjUTdCUFQ4WXk0UHUzNnozQVJHbkF6MmNLN2pkdXFZN0k5OHZCMzFiRkRXaFF4enI3aXZQVmFBcHU1WGhlMkhsaE1zcW1KSTRJOTJlZGl3WXlaMUpEU1V2bTBCRUVTVlE2X1dfakxXYkRERHNzc2JaUFdQREZYcjBTRFpMU3FVNXdneU51RWFyT3NBbDBiMTVEMGVHelN5X00tQTFyZXByRDd0Wk1yOTNiYVd2YWk3X01ScmlXaXJkY2ZxM2JZVnBzSlg2Zngwek9MWWNabk52aVF0SWNzSEFZZVRnQTZFU0NSeGZIbWFPV0NvWkpfMzltakxiZTYyMUhNUGZDM1lNVG5YUHc?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 18:42:00 GMT",
-        "discovered": "2026-10-10T22:30:19.210709+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بمشاركة مرموش.. توتنام يفلت من الهزيمة أمام مانشستر يونايتد في الوقت القاتل FilGoal",
-        "player": "",
-        "content_hash": "6787578534dbdbe923f24b775807233632b50a6e85c7a82dae5ff67727cb4255",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1492,6 +1492,22 @@
         "summary": "الثاني على التوالي.. كيتارا يواصل انتصاراته في الدوري الأوغندي قبل موقعة الأهلي يلاكورة",
         "player": "",
         "content_hash": "c83c0c065f34405eef4301f24bb9857d3b6711947f49db1381267088a6530a09",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 10652,
+        "title": "عرض لا يرفض.. إبراهيم دياز يكتب الفصل الأخير مع ريال مدريد - winwin",
+        "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxQRi0zSFhDYlEyOHdXVGJOQ01wVWJFLW04SjI5WFNRNm0zLTVkcEJxTjJxQ1dqR21tTDl6RW5OV1gtUUVzdmY1WlczamRiWlBfUERSc1c5dUJNa2E1b0Zac244NzRreFJQLWdGMDVXT0t3ak00VU5OVVNWZWdoSW85NWpLLW5GMFZCcUtsN0xjU19SbFMyR3pISU5hSlIzeHN2T09zYkFYbDVVdDFERU1JVl82TFJ0T2EtbXp2ZTlVaURUWE96X2gwWVJiWmlNaVh4QURtZTFXcEY0NVdaMlZQTVFtbGEyazRDQlJia0hnVEw2NG1kdTdVVFJKajNEdUNQeFNqRnZDamhOeHJ5U3dhVGEyZDMzZjNnZVd2VmdDTUkxZUV0TjdzNWNsdEcxYzhYdzNQdEZvNFlPbXBRczdrZ3JfSS1mRGxVNFF0SzF0bm43dWdFSzNaU0diYVpRY0JLeV9CTWEwNnZJME5XY3pkX1RNc0FyS2JXVk5na21TUjhEMTluNmljWmZJbWZvczlxUnJLS2kydW5TSXhSTnRvNzhQQnRBNmt3cEZrQVpleElLN0NNMXB4MXFDZHR1TGxPb3BFaEYxMkJpT2dKN2lUS0dZZjJzLUY4REJKLXZmTjVHaEUtWC1ubmRvUVh5MnZ5dVE?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 14:17:50 GMT",
+        "discovered": "2026-10-11T00:09:08.806110+00:00",
+        "category": "أخبار",
+        "status": "غير واضح",
+        "summary": "عرض لا يرفض.. إبراهيم دياز يكتب الفصل الأخير مع ريال مدريد winwin",
+        "player": "براهيم دياز",
+        "content_hash": "505da8daf9e57a55c3a2841219903eb5d0d139d2d975656c54bec3ae37aa91ff",
         "sent": 0,
         "section": "transfers"
       },
@@ -1844,22 +1860,6 @@
         "summary": "ناشط سياسي مصري يخشى ترحيله من الدنمارك العربي الجديد",
         "player": "",
         "content_hash": "48fd2232bbd84f3dc049ce8d96c472cbbd62f87810f573be2cb6a9e964feb0db",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 10248,
-        "title": "أرادت تجديد رخصتها.. فكشفت سرا عمره 17 عاما - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPZU81LXZCcVEwVmptU0lWLTJMRnFFUXNuX25wWHE5X0VZLW5NMXVuLTh3S2YzN0ZUaERPcVpST1BzMVVtNmpGU2pzdjJIaFl6M3BFQXVVZ3RPUkdNVEFyamNzTFdvNXF3OTlwdm14R3N0MmV3MnU4UlVVTmVKWS1QajdEVTRibzJScEF3OWZYWHRRaDBWbEwyT09VdGY2clFrQlpLd0hURWEzU3Z3RHNlTG54RmJiMTRocUpPZGFQTGtxc19YWldjZVMyLVM0ODZzekNwM2R4SGNRdmQxREt0OXRvLUI2ODBGc0wyVlJlbGRPOUxxNGJiTjAxSk5ieVZpcVNzdVlpU1dUNk81ckdWRnVOd2ozLVQ4VjJ0eFdseG9Bc1JwMUsyNTZtbnJXMm9sUE44eWNTRWdQYkZIaTlkMEVLcU1jNjJQM1NXdU1GeTNicGllcGwyR0kyMkd3bUtVOHY4MS1rMlbSAe4CQVVfeXFMTTVNVEVadHZUMHlEYURCU2p0ZmFfbWVpS0JoRnlsTUNyS3dYaDkzeFFyNTloYTVoVDRUNzlXb0JSRXRpVlI3aW4ybmtFTjN3ZXR3VnBWemRma3lPeUgwZE5nWmx4azNaZDA2aHJzdXh5YW5XR2N2QUo1WnlZdTNZUHlQaXhfaTJTZE1nNVowQ0t6Y0xhN0tVOWI2NXBuWS1hYy1Bd0VxTzUwVUhwTVZUcVhuZzV0UllDaUNiMnBQVkJic0pFRTVKTmt2akFvMTh5aTA1OXduRkpPbGxvSy1yNDQ4dV9BNHN6VDhRaUNxRElqeXVzaHBYbW52M3MxcS01a09RNVR3MGIxM2FkZlVESkRXb2VzUmZ5aDlpa1EzTFhPRHlpNnNvNDVIanlGRXFXZnh0UVZDWk9mUnZneHdPVDJnUDc1Wm93dDRpVmlpVkFOZzVJR3hmS29relBKWi1JemdpWnVlRjB2MjFrbnd3?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 05:53:00 GMT",
-        "discovered": "2026-10-09T22:25:08.033905+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "تجديد",
-        "summary": "أرادت تجديد رخصتها.. فكشفت سرا عمره 17 عاما سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "71b3cfb6a51a30980c9a398ab89b8f3c6bf025b504684dc24390a55573eedbd0",
         "sent": 0,
         "section": "transfers"
       }
