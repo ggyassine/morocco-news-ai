@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T02:39:15.550995+00:00",
+  "updated": "2026-10-11T02:55:19.529270+00:00",
   "total": 148,
   "sections": {
     "morocco": [
@@ -2028,6 +2028,22 @@
     ],
     "world_arabic": [
       {
+        "id": 10721,
+        "title": "مقتل 12 شخصاً وإصابة المئات في هجوم على مطار الرياض وترامب يصفه بأنه \"غير مقبول\" ويعتزم التحدث مع بن سلمان - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CLVpkdzBwVm92TVpza01oMDBDLVFFekROVHEtcjV6bWNnTkxldWV6QmdxeWN3U2pVZVBDd2xMRmtMbmZBMjkySVZ0MDltSS1QQlpJVUR1TC16bHI4YlHSAWNBVV95cUxPTEFfanBRR1NZRFBzYUZuOERPRVdjOHRjN1Q5NGRZZGwtOVdhMmVUek1hdXgtR3FjR2RFcFdxdFVLSlJoN2d3dVVhbkNrZFJjMGNQbnU3NVFTMGRacDlkQnB5Sm8?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Sun, 11 Oct 2026 02:05:41 GMT",
+        "discovered": "2026-10-11T02:55:15.613255+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "مقتل 12 شخصاً وإصابة المئات في هجوم على مطار الرياض وترامب يصفه بأنه \"غير مقبول\" ويعتزم التحدث مع بن سلمان BBC",
+        "player": "رياض",
+        "content_hash": "5c8dc3f30ded917feca8b0fd88a293c13c393cfb1b4b7ca9ea8506d81e7b6e29",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
         "id": 10646,
         "title": "مقتل 12 على الأقل وإصابة 309 في هجوم على مطار الرياض \"نسب للحوثيين\" ـ (فيديو) - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQQ1JSd3gzMjNPdGhlVGJDd0hjVTRNbUQ2QWdrbzF5OWgzSmxTRF9DNVdmNGFCQzc0RDRxWXZSSVA5YmtEZndVdkkxMjRRU3RkY3BiSjFsaW02TFhGNkFDT2pubzJYbnpQZVdGdExvVlJiVl8wa0NWZ0JTaUQyYTFtdG9sZHV0V2RxU1BDalFLTVl3ZXE0aldoS1A3RVJQMDc4VHNiaEFtYVRxaE1Bc1BxS0pyN2xEY2FOT0ozRGVFVkNqVmJXZzU4dWw4RjJhQlZWb29jdjlfNHk1TnY0bkFPN3JKLXZfTTUzZXBWSUk0MF9HYW14UDl1Z25CZmZETGhJVjBYNnRXVktZT29saGZJaFkwZHMwS2NsbVY2LTMzaVdZQnVERnZnWjhZc2dsalk?oc=5",
@@ -2248,22 +2264,6 @@
         "summary": "الانتخابات الإسرائيلية وأوهام السلام | عبدالحليم قنديل القدس العربي",
         "player": "",
         "content_hash": "5f7cc8a4bc6200abda5898be2e0394cf8d0b5ef6764f1cd1ce5151ce236dd5d9",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 10221,
-        "title": "عاليا عيسى تنسحب من «حي القاهرة الدولي للفنون» احتجاجًا على مشاركة برنار فينيه المرتبط بمؤسسات إسرائيلية - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNWDJGbFMtTFZaTU5jcjdKdTVaUzQ0RmlmVFRtdXJLQU0zVHhvMTUtS2czSHRwN0lTS01hYjd5SHk2Skg3cm4zOXJteGl0UjFUelFOMWh5OE9JVUJETDRadGtqZnRYR3Q1WEQ0c3psRFJ6ZTRYc21KemFwTzlyWmZNY3hoNDU2cFJUNGUwNjhmMm9NdGlJRmp0UXJFOFZvTkcwcDBHMmRZTndiVWFzZWwzQlc1QVE5cEZqcVllc0VZSGZjcHZScnlpMEpobXBTejRyMV9LQ0g4aXE1RDA3RzkxTXpHY3VSVDJldzc4M3EwSjE3UnM4UmlnWVJFd29aVk9MMER5aTNnQjdzTUlpeE9xdzkyOUFhOVk5bGhZUVAtRUJ4c01tZzN0OTF4a0hITHkyY0pTMFZVclNNeUp3RkJN?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 16:59:51 GMT",
-        "discovered": "2026-10-09T21:20:23.233896+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "عاليا عيسى تنسحب من «حي القاهرة الدولي للفنون» احتجاجًا على مشاركة برنار فينيه المرتبط بمؤسسات إسرائيلية القدس العربي",
-        "player": "",
-        "content_hash": "6709f117ee346d18cff343d5b45ab742ee2a5bb63448e4c42e97c4b2de2fb65b",
         "sent": 0,
         "section": "world_arabic"
       },
