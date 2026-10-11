@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T20:32:01.700368+00:00",
+  "updated": "2026-10-11T20:49:19.287050+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -357,6 +357,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 11018,
+        "title": "خناقات في مدرجات الزمالك وبعض الجماهير تغادر الملعب بعد الهدف الثاني للأهلي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi_ARBVV95cUxQWU1SeTlLNDFZSnBtbGNTeUlTQXIxcWpoQnVkQkNraEJCSmYwdWhZYVBpcTl6bXdBTG9LMHNmTGVsVXN2TkZiY2MzdFpuMWRUWE1vLTVjbU1YbnNmUXlKQmZUUXpiMXI5YldyUURLd3h6SGZBR0lUTThrb0lpMF91UUpjM0VPWmpuaEt4LTJtTWxpUHd6aWFIbXFHQTB0UGg5Y2tqM2E4NmtJcVdoQUhDZG5mbFp0Rms5Z2xpN3B5VlBBd2JhZExDU2pWWFRlRWFOUTZNT3lvaDVydVhmMTZETEk1bVBPbkp3N1hNMUtSZVRxS2pGMXM1aFYtZGdib3hGVUZRaGY0LUVfZjhRd1U4WFNnNFd2SUNEOUVMX2FZNXFFcGV3cUtKRkdxbVJQNTdaRzhtRUxqSDBCZi0wZVExeGJ6SmFUeVgtNl9BSlkxV21VZldtV0xaYzY5NlNnbUFtMjlFck1BUGxUT0dEbE9STmw2d1V1TUR2bDBlSE9vaVVBUFZfSDZOSHJmVkRnQWF2RUVUNkc4Sndva0ljNUhoSi05emxmRHdvNkdWLVVaN0hRbUNhUkFpV0xSNzY5NXVBYXJqTnZGYmRFNUFhSHZya01KN1RNLVZwRlBXQ1N3YnIteVoyZ3lXSUR1Q24wLTBhVGFPVENOUW5vZDFqcmY5c250R3dkbVZNclg0QkVzWkt0MjNDZ0dCT1RIOXZuUG9oOTU3XzMxc21sb3gyMThGQnd0T3hNR2lxY1JXc2Q4WjJydk1BNm85UUxuRlVfZElIZUJKZVE3YXlzMHRPY0RXM0tpdnZYdzk2R1laSHdGTXh2b0sxMmRacHlDV1Q?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 20:33:00 GMT",
+        "discovered": "2026-10-11T20:49:03.807337+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "خناقات في مدرجات الزمالك وبعض الجماهير تغادر الملعب بعد الهدف الثاني للأهلي يلاكورة",
+        "player": "",
+        "content_hash": "42ac0195d00d2b869c3dadab798f151f3fa32565c9660f6523555cb375e8b880",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11019,
+        "title": "أجواء مشحونة.. ما لم تشاهده من مباراة الأهلي والزمالك - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxQek1KS0Nsc1RpVjZ4T0I4XzU1aEc5MnY5azYxenpQX0dTNzAxajJzMG5FYzJEc2pjQmdLeG9TUGtsaXFQeXotOG1wMXdVeFF1SFpzcUtDMjhJZW5OZy01S3N0Ymx3TEp4b1RubkdxODFNZEt2dE1xXzBsdlI0MlQzSll0cmxWZHJRYVFfYW43WFhqN3J4UXFuQ0wtY0VCOUhzSi1hSndsX093VlYtYlZmSGVoUzNCNVFBakk1NzdGQUl6N05CV1dRRXNrOHVheDBlSnB6bXJfc1pwVVBNS00zRXNCY0xHc2RJcFJ2RGtoT0ViQ09Qa2FQb3QwRERaT2xIMGxDNUp5aFRPaTlJVjhMMHlHLVI4V2MzVTRCb08yRU5oWVRjWW5KNHF6U0RiU24xaERMZWVwNnNOcXVZLVU2QXFOVHNDeWh1dkpaV0JnUy1FNC1DemlvYVZuMTdTdjlMOVNGNGdWSEtyV1daeXBlb2ZGMktta1ZBOW4tS29MeXN1QlpDdDRXUjdFQjk4Q0NGamU3YlBYT0c4Y3hDSndkNDEwNDhfS1YyV21FYS11cHVNSE1PaEtRY2NxUVIzeWNKRjJmSWtydDFKT0NfMW1Kdk9B?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 20:30:00 GMT",
+        "discovered": "2026-10-11T20:49:03.814534+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أجواء مشحونة.. ما لم تشاهده من مباراة الأهلي والزمالك يلاكورة",
+        "player": "",
+        "content_hash": "d9b705c322611eaf8d3ae2acbc6e5e3c1f1a2fb0abe989742cdfa3b3c3b743c8",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11010,
         "title": "انعكاسات الكلاسيكو على الهلال والاتحاد.. مكاسب الزعيم وأزمات العميد! - Kooora",
@@ -1122,38 +1154,6 @@
         "summary": "فيديوهات | هدفا تعادل المصري مع القناة 1-1 (الدوري المصري) FilGoal",
         "player": "",
         "content_hash": "d5fcd43992e8505d27f1f065283aeecf6e59b2f3a31143a522e8af07a8797e34",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10986,
-        "title": "فرنسا: رافائيل غلوكسمان يفوز بترشيح المعسكر الاشتراكي-الديمقراطي في الانتخابات الرئاسية 2027 - France 24",
-        "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxQcUlXb29VTzlONXJXbnhTVU5CckRvQkRIa3ZRSDk5dTdGNDJwdGZBNk5XRUV0YTdmMmhhNTExY3dtcllXVWtsQjJQbVY5Tkt1aGtkVUI0djh3UzdYOXBsSHFXR2l0WEplMm5YWlR3bzlKaFRUanh3bUxHUzNwTGVMU3NpRHgtSnNnWExVTUhjY01UYnZnNTlFZ1IzWkNiZDBRQTNxcjF3WWJlZFNYZms5Zm5BR2ZrdUlGd3VRU2hzQ0NsdUhFdGxSNXNfRnB2NUpzN1lWVS10ZVFMMjN2NzFHclBKVk9IcmluY1QxT0hCLXJLMGZ5UlpmSXpKUWRWZnNOR3czRGtsTEtoNmY5UlExYUZQR2M5RU5NTkNMR2ZlN2ZfVEN4ZVVjc2Y5bWdjT2xwUm5sM1UyM2Z6THZxM1VfamI3UlZ0bDAwREZ3RXk3aHU1TlVtQjl0S3FWTnl2NVpwVldLRngxbVhrX19hMGtOVmxWZnh6OXNpUVpBelBhUGxXMmJ4eGZlZGt4MkVubGdZTWxfRHhXWXNTNWw5V0ZaVGp2UUowZmZEVENSTFJ4MkVUYVhCc1FvLVhuT2pOZmQ2VGVTbVhsVV9Hb0R3dlVTdnp5TkVWeEUtMXphMV94OUJwYW1EUTJ1d0ZwaWpuR0pPV2x5NXA3cDE4cXFOM2FDbDdBLS1WZG50TzM1WTRNVUlWOV9xT0xQUkxSM2lELW8?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Sun, 11 Oct 2026 16:21:46 GMT",
-        "discovered": "2026-10-11T19:31:44.293416+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فرنسا: رافائيل غلوكسمان يفوز بترشيح المعسكر الاشتراكي-الديمقراطي في الانتخابات الرئاسية 2027 France 24",
-        "player": "",
-        "content_hash": "1f6462ee0a159c2d61b262bb5071d42260329bbdae9dfd7a569af308b3ecb942",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10995,
-        "title": "الرابعة بدون فوز.. المصري يتعادل مع القناة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOZXUzZ2Y3bkl0X01MSWhrRzljU0xIbXlsLTFBVTZuNHd6LXdXZm4wZUx4NmtBakFmM0VzbGRJUVRXY1ZFcF8ybkR3Xzdpd1BaazRwY3VUOHBlRzRMeHB2TWdJTmRNVHJ2R3pzbnZQcmtHd3cxbzZxWDd3em5zX0EwWDhtV2NKZVdzWFlpc3RDZkY0TmtzY2E3U1NTVV8wRHF1Qm1nQXRnR0JqdzczTnZJWnBjMGE0QUhDdjM3TnNnZzB3djI3UGZLV2luRUdESElnaVdLYVNxbWxrUFRTZmNqNGhYRjJDTm9tRkMyNkVVNG53TXlsMzI2VVBCajdZRHJubjktTnNuODZYdXp2Zkpfb25VbzJ5SHhDdWpSSmM0NXpBZmR4T3R2MkgxcGlSbVF1eWx0bEViRnJIWmVjY1ZIak1oNWxBejY4bE9jUmJuTTVqb2Y2em9ZaF9KNjVUc0tsdVdjQ0hOQjZ1UdIB7wJBVV95cUxQbzN5c2ptclhwcUN3eG5DX2lQVllkQmwyUkZLSWZpNHFtUEswaFFRNC1HY3JtSVlUemFkVU9hd2tOYTQ5TDZUenB1TUl1Wl9iajBOQWc0dDVJaWstdkx3UVV4WFRYU1Y5ODB3UlNBa1BkLVZMMnlqV2ptcEwtbjZhSFlCTUZmMDA3a1BIWWZUdVVZSzZmSVN4a0lnVzRwdlZiMUp4dzRMQm0yM01ncU14MHhwZ3Z3YmVlbURMTXNqaTFRSXlXTk5ZMDloQzBqd2JUakN3NTFfN0dLOWktb25ROTdEbkF2ejkybDIyczFFOFczS0ktYXdPSlE3bFp3dldyY1hOYU9hZ2NUYU8zd0txc05sQjV3cHlaTV9YRnV6Yk5LcEJCY2txeTFtVmhnQk9PMXMyTl9oZlE4YU1wRlRSaUpFamlOLVBpOUlaWXVOYTdBZ3RvbWNwYUxRdk1aMFhJel9IODFPR2NMT3pDNm1j?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 16:18:00 GMT",
-        "discovered": "2026-10-11T19:47:35.253655+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الرابعة بدون فوز.. المصري يتعادل مع القناة FilGoal",
-        "player": "",
-        "content_hash": "18995f9246ecd7606de00a47c168b1a7564187397a2e97de4629056422db4752",
         "sent": 0,
         "section": "sports"
       }
