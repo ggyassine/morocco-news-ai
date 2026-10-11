@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T23:22:13.846550+00:00",
+  "updated": "2026-10-11T23:37:53.767889+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -336,22 +336,6 @@
         "summary": "ديابو: سيول جارفة تباغت عدة أقاليم مغربية Le 360 Arabe",
         "player": "",
         "content_hash": "5d6afe047b4c340b0d967b873df06a91496eebfb5c67a5c72ee39636839161df",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 10560,
-        "title": "الأمم المتحدة.. المملكة العربية السعودية تجدد تأكيد دعمها للمبادرة المغربية للحكم الذاتي بالصحراء - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMirAVBVV95cUxQMS11RkNhQWNldDdJQ2NBc21pTHhfYmFlR1FxeTI5WlFGUWRhNk5sZE5Jd25QVl8ydV9CN2llblFVQjJkS0k1M2Y2QjZGSjRpaXljekNMS09fT0hxT3F1eV9QazJwbnhJckFfeWJhZy1fejRwWjBSWUg0aVptQjVvbXRHUXh1TEpaemZFUEMzQW5NQjlsX1EzU1B6T0JscEdtX1d2NXNtVEpZZ1RWWjE5NWJSVkY2SkVxRXFIUERHZmJ5QThzd3d0cG5aVXFmRWFSSUdyVk5TT252WkFfVGhYUzRWb204dlVYRmNLYnNBTFpRMEgybjZRaEV6YWU0ZFFnOWtmM2ZuMjhTUzZBZTlxbm1ZS0lKaW1Jb3VQYjVCUHhaRTJSSWZLRm9GMVh6MVlkbVBFUjh4Z3E4Zkp0OU03YXZMd09ObHFQNjh2VzQwTUVzMHR2TFZ1Y3N6SGFqWVFyZmZDNWtwVUlrZzg5MmRMLUZNWjRkcmp1ekRqNHZEazFLVXNvREtvYWNYOHRnUU1PUXR0cmxMbDJGR2FpZWJmS2dlQTlNdDFnWFJFVklRSHRfTmgtSnFtVlBWNGlEangxZDNJdDQyTTlfREU2X0V6bEMwa3dLX2FjUVVZQXlGYjVJZTVvTXRzWG5hV2NGV29FRjNnV3NScDFLOWlDc29pMndINXZDbXQ4dVFQYWtKNGtaTzdqMmZtYXB2ckpUN0ptQURRdGdaaHZsWFlBTXlTZWY4MG1laGVvbFpxMmhNOGlYTTNuUTkzU0ctdG04cXNXVXUwYmFwVC1QN01jQzZqS2c2S0dza2RnRjh2ckxSOVNCYlJsejZQcnNuRkNVU1FBalBDUkpqSlRsQm1zSHFuQjBFQTRTWHU5UG9Ubk52Q003SW0wQXZZRnFWb0w?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Sat, 10 Oct 2026 17:00:25 GMT",
-        "discovered": "2026-10-10T20:31:31.874012+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الأمم المتحدة.. المملكة العربية السعودية تجدد تأكيد دعمها للمبادرة المغربية للحكم الذاتي بالصحراء | MapNews",
-        "player": "",
-        "content_hash": "37e2b6c2bcb76fdfa70f244b37de0ed43e686754af6887ac7e90ea7fa207f26b",
         "sent": 0,
         "section": "morocco"
       },
@@ -1668,6 +1652,22 @@
         "summary": "هجوم حوثي على مطار الرياض يوقع 12 قتيلا ومئات الجرحى وترامب يلوّح بقرار مرتقب Euronews.com",
         "player": "رياض",
         "content_hash": "61b6edfbf32cfa5ab21dbc19c56285524cb31b2bdc9b5beaa73ec559a3fb7b02",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 10762,
+        "title": "\"العين بالعين\".. فيديو لطائرتين مصرية وإسرائيلية على وقع خطاب للسادات يثير الجدل - Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQejlmQWlKaVk5ZmNKc2lITU5uNVhLVTBuNWpxSVo5UXNGbExuNV9xVVdpLTZDdk5lVXhDMF9LM29FdG0zSS1HUVNuUnY0MFhWQV9JdDROOThka193OHZ1M2FFaGtzUTdoU2MtUGRsWUJzaV8xckE3R0VzdWRmdWhmZ21pUWFHeFpLTUMwT0FUWFRwR1MtZWZOemdyUDc?oc=5",
+        "source": "يورونيوز عربي",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 12:32:24 GMT",
+        "discovered": "2026-10-11T06:34:52.555687+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "\"العين بالعين\".. فيديو لطائرتين مصرية وإسرائيلية على وقع خطاب للسادات يثير الجدل Euronews.com",
+        "player": "",
+        "content_hash": "47a1642c6f8ff0c3fabc0199a3ca3c2bc3ec5639744d77e943f560f2a4d6db44",
         "sent": 0,
         "section": "transfers"
       }
