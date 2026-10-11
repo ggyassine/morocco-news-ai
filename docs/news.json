@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T19:59:22.742871+00:00",
+  "updated": "2026-10-11T20:15:10.981752+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -357,6 +357,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 11010,
+        "title": "انعكاسات الكلاسيكو على الهلال والاتحاد.. مكاسب الزعيم وأزمات العميد! - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMingVBVV95cUxNOV80YUNOVU40MGZQdThJNVQ2VnlDZHk4d2JGanVtRlI4R244X1RWRDNjS3U0RTRKRmE2enR2ZGQzVGVCSHNnM1RWaERSbDBOYXQzMHhKWUVhbkJlSHVfSnZQVVJMTVlLZk1LbnFXdUJySGdNdHNoZGxMcEt1UXhveEhJd09xVmkwTXJKMVlFVW1DTDFHc2U5SXdQdjNrYmM3djhsZFd5WEd1VVZOU1lJVFBXem12S2J3ZjgxaS1HaUZBd3hiUWVRM3NTeUx0bU5xd3pWLUwweHRnbDJYMmUyeXNLcV9rZVV0ekFSNnF5SVcwcE02TkZtZllsazZiYURTZ2pUYm03NVVVSGRILVdVQWYyUDhwUE9rcUdESkdCNlRqMjVmQk53R0tOZlVmS2pkRFh3MVVHNGxkbVVSbHZqMVdSZG5yR3lCQ2dMNkxUcUQtRW9HYnh2aURiZ1JWZlgwWHh5aFc2MjQycDgzWFpkT0NvNTVtYWhTR3QtTks4YVE1MXJieEZnaU9DcDdseFRwTGFKdm1qeW1fVkswbXloeV9oVzlhaVpoRXJSRmdwcjRfN2xTVkdTNUd3WVBnaTJfV3MyUDluSEloNzAzTEl4WXNremtYQ0thdjRaZmN1ck82OWdhNXg1Rjc4UlBiamNUVHlnVFJYR1JKOWhwNV9jYlhjUVVXT1VhVVlIdTBDV1hKYTB5Ri1naU9BYmtFbEdyU29aLUtGMG5ZZGpSQmMzVElzc1dhemY3eEI0M0trVFlrbEFtandDTlEwMGp2TGtObUVJNmw3Tkh6WUtsdG9EMWV0aS02SmJXejNtTlFneDlRRHkwcFpwRWVZWFdTMkg1Y3poM0pmZmFTcFRpS0hEWTFBLXlVNG50N05YRXpR?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 20:12:05 GMT",
+        "discovered": "2026-10-11T20:14:44.340285+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "انعكاسات الكلاسيكو على الهلال والاتحاد.. مكاسب الزعيم وأزمات العميد!",
+        "player": "",
+        "content_hash": "05525a5209cb3cc4a75c4e26008b76eb6137d2adb2e002ac8ef3c275d0f9e9ef",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11008,
+        "title": "الكرواني تابع فوز بنفيكا - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yMEo1dEpScTNlOTc1Vm1LbXJSQm1lWUUxTUdDVFRCNE5LQzlpd1hCVlp0ZVpDUVQ1ME9aOGlaNUltTXBJNGlSN1kyaXRTdE5yOEZ3Xw?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 20:08:07 GMT",
+        "discovered": "2026-10-11T20:14:43.593624+00:00",
+        "category": "الرياضة",
+        "status": "منفي",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "d6ca3029b4f8e968900854313ccd7433738a3d64327880a728bb48944b678d18",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11002,
         "title": "تصريحات محمد هاني بعد الفوز بجائزة أفضل لاعب في مباراة الزمالك والأهلي - يلاكورة",
@@ -1014,6 +1046,22 @@
         "section": "sports"
       },
       {
+        "id": 11009,
+        "title": "إصابة الدهشوري في المعصم - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OWHIxdmh6WUw3VDVHWG1Nd3lDQ3A3dDE2dHo4dGU4QUhjTktkMnI1TF9lZVhrUG1zX1ZUTnlzS3IzS2NOQmFjYlBHaDhDdjNOVXc2Yw?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 16:38:07 GMT",
+        "discovered": "2026-10-11T20:14:43.613213+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "c10cf2a9b1f58242bbc01a6e4f48d715bc6915c3668e22e1fc2d62e382a09142",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10915,
         "title": "عاد وسجل.. تريزيجيه يخطف نقطة لـ الرياض أمام الفيحاء في +90 - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxPVDJmZFFJMTdmdmtnUU45a0hSTWd3S0ZtbllvbkhhVkdGdl9Pc3ZJZWlTS3loQk1OT0FwMkVrZmppQ0hETFBRcnROcEVxYjlveTk2YWV0bkhFeFZwSm8yQk81Q2tGaEhzYncwbmdQcFdGd01NRnNGanV1ZmJGajVXSjBsVldLSkZJejZjVWhXNGlNaFpZVV9VMGJnaW5xVVVHajBJek1oY1dRSmF1WW9PZ2ZMVURpSzBDZlFGZzRtTjROVm9OYWV5bURORFFzUEw3cVV1Nk9tSVpZUlAyZV85MGQzM2lPUGhrZzhPeTFLVXdEYlNuZ1Z6SjZobTMxTjUyamJJYkF3eXZ5ZjNJbi1CNmRtX1VjQ05GWTJWNlBSdlQ1ajhZVktLNmtwZVRYRGgxNFlYXzZTaGtVckV6WGNUdFRMQ09wXzBaaTRkOGpPYWR0cVJIazFXb0R4WVVOSDZ4UFBNQXpxNUNHOFpsbUtUMkNURGlLUm4xemxvV0phWGJQN2FnRXhON2RUT2ZHdld1NjA4cFU4RHFiZy1MNFNPc3h1T3RoMmE0aV9qTjNGUlV2SGk0SU5Id0JRV2JDODRqeHfSAccDQVVfeXFMUDJpQ0VYa3VZVzl6ZjZYMGc3akM2QjIwbEJ1a3hCSzNIRDVabTNGaW83ckRtMXJPaGJPV1VsZFBfS2JoNlIxZFFTOGFpckxXYWxVWmRjMTlwVldVR0JodWtia3NNTHM3OWRONVFJYTFaV0tfS2ZBSGk0YXZiQVFSSW50SXNOalB6T0NsTE1zclZmeGFBVkM1U2UwenQ4Y2ZfbEp6bTI2cUotMkxYTFUwWlpNNlIxeWNZdGpSV0hLcGZlalVrWFdYYWpseTdvMWtBRUFtcEc3UU9BdUFOUEJjUGtfTE5ncEx2UkU3Y0t3OW43dmlyT0pVeWhpcXVua2pBWUpoM1dtZUtFbHpXWGhUZkNpMjAxMlpUbm1HT0tCUE9RdERhMkpCajJhX0ktcTMzYU5UekhoZmNyU3hjeV9JV3FTQ2k1bVN2endtdzhIeFpkRTFqWl9BalFVQ05SVzlldGZzTW9jMHpfbll4RGZQZjdTNW0tQ25EbnFxaGt5MHZla3Z6SDRoajdEMFJfZjNiRjJQRW5PNF9jVlhtQXFreUtkTHA4Y1d6NEt0VnBhZ0lOeDlGczZ3ejAyUHNfeHlYdXMzTUZ0aVU?oc=5",
@@ -1106,54 +1154,6 @@
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
         "player": "",
         "content_hash": "8b90dcfdbb0672d6568fa8f7ce684667c982fde72da62a0d18124cb1786c97fd",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10906,
-        "title": "هدف القناة الأول أمام المصري - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQVmpwS2Q4T0JXd0V1RUI3MlJ4Y0RfVVFWVnh3SGp4d1REdWZOZVVXMENiY3ZRUWRwNzVnRzg5OHZPci16all6eGkxQnlHQVBxYUprQ01xak9pcmgzZkxqcHJXamxDZkJlUDEzcWU0Y3c3YTRaaEVLbzczdm5RcjlscnpNRllRMlNoaUgzQ19rdXBIN1ZwaU9NWXNLXzlVNEpvaW5Qc0dNOGFDVllSLW5BaFNzMVhDbWdCMno3WUprX2s1UlFfYll3MFBNZUItV1F3THF1V3lUWS1zX0FLODl4THJVdmhFZ295UUFpNFBIQmQ5MlZaMUd5d0tiWXM4V283VjEzUzBqNFdQOVlfXzFIZjNzQ1BuSUMx?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 16:04:00 GMT",
-        "discovered": "2026-10-11T16:37:32.831728+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "2c725b8b92fede708046c758ba7084376f11ba467b3c6144fb0aa72124f42019",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10899,
-        "title": "هدف القناة الأول أمام المصري - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQcVE2T3k1TUpzQXdUamNycDlFdk5lSllocEpTQkNpM3hsQUQzNnlyd2Q2S3QydmVwbW1TODRGT3ZpczlXemZCRjJ1eUhkUUdYRlh3NEY4d1RRbjBFNjFEU0xibnBXNjA2ZGpHb1hldDhqY0htN2pPdWUzWjV2c0J6cU1HYWhnV2RWbjRjTml5RzdVeWZGT2VxWDRmbHNXVmxRQ19HSk1KTGpZbFNESThod0ExN1FuR3pHdHhtdnBXRVFPcUZMaHdoWVdobzFGX2hnYkd5V25rMTR1aXJOc1RqNWZPVkQ0RTRQOFJIR3hraFJ3UndhWTVGSlJDX1RRZmpWTUZrQjBWc2F2cmdjTGZqaFVhUmhocGd4Ym8zT3c5MTRxV0Fsd1hwaUllTDRhcFBkNUs0aw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 16:04:00 GMT",
-        "discovered": "2026-10-11T16:19:08.960351+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "2c725b8b92fede708046c758ba7084376f11ba467b3c6144fb0aa72124f42019",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10900,
-        "title": "أبرزهم بقرار والشحات.. بدلاء الأهلي أمام الزمالك في قمة الدوري الممتاز - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiyARBVV95cUxPM3QtRTIxVkVPVnM3Q1JYNWRBSjJObmM0enlmcUxZbG15bVNFcDVlV2lSZzhzc1lKbWJlcDFfbkQyMldwYkM2YXFsYWhEVGNJem15SGtCTFpFWWtPZHlYbXBaOXFTUjNLcXhCQlhJTGJNT3BfcHVLMEJhQVBsY0lMTzk3RGE1UkFza21la2RQVFNrZXRrQ2FrYV9XVXBTTlREM1NvWDJqeEFFNThHUXVvX1Bzc2JPVkliRU02R3I4YWF0Q1JHSDN3VUlzZmN2b0dUVUlqT1cxTEt2UWdRc3dlQkdMbHhQTXowd2g5bDJ1RTBZb0Fvc3pxU183RHZfYnJSLWFuZDF3SzdfSGlGTUZ1OHpjdW8zbHJPUUFHU1JlYW5YaGtDQnpQamNqUVVqdmp3bzFPc2hkemd1SExuenNKRWNad05fUi1xMW5Ta3YwdDhaRU8zdllXSWIzaU9NOTM1MkV0UzgzbFgyd09zcDdCTjRteGVHWHdiZ2N0cldNeS1kemRoOVV5dzdZRVNaMzNGMlBRbjJxRVlocmlsaG9FMENVNGlDX2ZSZDJTUXRoUW44UG5ydEhTNFhsd2lDcVdRd2dzR2Q2aXN6V0hfQ2U4bEdtS1BKUTNmQ3pvRy1JRDNUaDVGN3NGRi1aT2dNd2ZidmxfM3pXTTUwRHNtb0t4VWc2cFNwVWd3TlB4UXJyRHR1b2JkV25yMTBtaTZ0eU1GYTdvNmxMR0lYTTY2c3JuTDRVSU5sQnpfNVV0Wk9tMXJscXliNUtRYtIBzgRBVV95cUxOU2EwNXI2WVBiVGxPYk9aaEFPZ0tTbDJzckU2ZEY2RHNOcjdTaFQ4ZDVUc3ZxSk03OVhhdEpBQ3J3dnc0cGkzYWJaNmxDS2o0RG1iMDFidTI4OTE1T2NCbV9FU09IN3JRazRsVUFyQmd3dlR6WHU1dFduOFNmNUJOWGJpSjhiLVFWN0ZDb01sY2pUN2VPVGZqVFJOd3dXZ1ZfUER3YUJsR3d4SWNzdHBEM29Ub0hIYkJUaTMxRW03QTNVTHBkaWdIMEJvSWY4WXNNV0FTcUcyNmlzLWhfQWl1NTZDWGkyQlh0SUNGMWJmTGQ3S1lXUlFVUWRFLVpxaEhZZ2JCRXRta29rYlZ3cXRqMVYyODRJeFYyRlhhSG1uRnNCZUZtY3JjTVpFTWxQRGRseGduNTlQaUNPNGx4Sjh0U005a3lXcy1RZERxNGxObXM4MjhOTVhFSkgxQmdKbGZuVVhrd1NjUk5FcGRwTnNWUzZCRHl0RUhWLVQ3T3JLbEQwZnl1Rm16di1rWEVhdU1hVEYwbWptdS05TjQ1VkVnZ2ZrUE5nRkc4V0JJdkNGaFNjbFFSdVhjMlY5RUJnbF9WVGEyUjFuaHhzNl9sMzVmZU9HTHZwTllXejY1RDdlNHFUYy11UW41eG16T2drS3YySWhOazNWbURzZmJaODBOUm51bW5YeS1HODY4VUJGMlhCWFdDU1RrOXJybmxHNzdscmo5MW5NV2FraUNCc0hpVWxBNlBMX0s1WFVQRm5meEJfRkVVR180aE5tUDl0UQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 16:02:00 GMT",
-        "discovered": "2026-10-11T16:19:08.972453+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أبرزهم بقرار والشحات.. بدلاء الأهلي أمام الزمالك في قمة الدوري الممتاز يلاكورة",
-        "player": "",
-        "content_hash": "ba598b638ce17a69192af7708574d9721c86a453e56afa1155891f35a86ea820",
         "sent": 0,
         "section": "sports"
       }
