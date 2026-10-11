@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T18:59:42.419291+00:00",
+  "updated": "2026-10-11T19:14:56.758936+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -32,6 +32,22 @@
         "summary": "توقيف فرنسي بمطار محمد الخامس بالدار البيضاء مبحوث عنه دوليا للاشتباه في تورطه في محاولة قتل بباريس Le 360 Arabe",
         "player": "",
         "content_hash": "5e04aa2ffede532aa96bddc24962844acf474a1efb7054ebc2ee9c3bf9a88d62",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 10981,
+        "title": "حفتر يثبّت رئاسة البرلمان الجديدة بدعم دولي وانقسام القضاء يعقّد مسار الانتخابات في ليبيا - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPNTFhd2h5aEtDSjlkRUUxcGN4MEliNTR3RVd3LUNLSWFmRlAxM0NwMkVmNXRFN1RfMFMwVXFzcVpIODQzMnpLaXRoLUdWbnlzcGhiQmVlNHl3RWc3SUdUSTJMdU1DYk92aTVfSjkxTFNDcjlFS1cteUdtdnJKQlc2X2FUVzFORTNSZnN4TmhuYV9oSGJwczBmYkFoTlZjZFhkSjRzVk91MDRrLWRoRUxuSzE2UzNNYkVFY3VNaDBrSEpGZjZGWmxkbUhhZGhBU3FKNlQ1QkFKXzRfVTJRT3VBdjlZMmVQTkU2a3B5Yi1OcTE0QWx5UUZVQWs4eHpGd1BVaXNIM0d2d0s4TFdUd29hZnltclB0VkRRSmFIUktNc2d5aktibTVEZGd4MzBjaVMxaldINmc3SndvRE1hbTFvVng0QzVqZw?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 17:46:47 GMT",
+        "discovered": "2026-10-11T19:14:50.669680+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "حفتر يثبّت رئاسة البرلمان الجديدة بدعم دولي وانقسام القضاء يعقّد مسار الانتخابات في ليبيا القدس العربي",
+        "player": "",
+        "content_hash": "22d7e2268f937bb5aa573108fe82a2352a6d7039e4564ea591c9e18b1c7fc055",
         "sent": 0,
         "section": "morocco"
       },
@@ -358,6 +374,38 @@
     ],
     "sports": [
       {
+        "id": 10977,
+        "title": "طرد لإبراهيم صلاح في مباراة الزمالك والأهلي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNem1PZFBpSXNjaGpfVkQzckh4NHhreGZmdWtucXlZRE1nWXlQYWlHYS1ndEZxSTU2RUg4S2RpV1VsczdLQ25QTlZiMlp0TG1QQkNEYWQ2ejJVVnFwU084Z2oyZEl2SUlBV3M4UzZKM2tZUzVkVU9nSGdaU1JkN3B0bjJsaW1mQTVDSkZPQTNPUFRSZmV5VDBaQzFQZDVVclBOS0x0RzJYT1BzOGtiX25LVFo4Z3BPLWh1VzFmNVVJb2ladndNVWkwYWhOVkRzWkp5S01zSUN5Z2psLVFFR2Jxc0lhQ0RNdlRncWNUOUJsdWNhYVZfai0zVVFzakU1Q2xSckxPdVRpSWRpQUhKZm1vVzZ5MWdZVVpTRHM0aTB2c1NSRWllOG1zWjM0eGZVZko1WFpHVUlTcUpmUmJ1T3ZCV3FwUzVScDY5VHc0WlVWVF9ua2o1LW4wbHBhbEhoRXFXeWEzQ2l5MTNuMU9PdlVreVpsOU1FSXdwSGxvVVdkQVB6QQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 18:57:00 GMT",
+        "discovered": "2026-10-11T19:14:37.710297+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "طرد لإبراهيم صلاح في مباراة الزمالك والأهلي يلاكورة",
+        "player": "",
+        "content_hash": "c21b57b9c8ad7bc1cbcc682ba4866253fbe092b53896e6bc727dabe6b918fe62",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10978,
+        "title": "أول أهداف منصف بقرار مع الأهلي - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNVXpYSXplMU9JQkJlcUkwcnloRkRSQnhMQ3lHTGFLTXk2enJaTEg1VGN5d0pycEY3cFd0bU9LX2Zjby1XUWhoZG9WX1UtSEFWN3BNX09xUXZLbXZFbTN0Q2NYV3VGS2hfZzY3ZlFYbU1yc1J0MDRhdUU1dmNTaHNFckFnUVN3MlNRNmo0UjRSd192SDZOeEFFYWZLa1I3VWJlVXJQUk5OQzBkVWRRUmttc0M1ZGFlc1NLZC1WdVZrdlBSZFVDb25vVkJDM1N4RlNyUHQtTk44YUR5cG1LenJ5WUVCRnJlSHlkVENsRzR5TmR4dmpuZHdGMEZ6aGd6c3NrUGI0QTRNNnlsQTR5blFMWTF4RmkxZGJQZ0pkQk9lanAxcnRDZ3MzY0RSajVrLUpIdzlMZzVaQW9wN014QlE?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 18:55:00 GMT",
+        "discovered": "2026-10-11T19:14:37.903915+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "30a6b92ee0c049cf0c543de39e2a7140817eb38e001ed07019846c75986f9d4f",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10971,
         "title": "أخبار و معلومات اللاعب سفيان بنجديدة مهاجم الأهلي المصري winwin - winwin.com",
         "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbkJKMEJMQnN6cHFCNzNxQUUwbXlzTjdhTUtFXzRrN3JZNkNVRW5WeFNSZjhKem5qdV8tcUJ5ZW9QWUMtTDB2NUh6V05aNFZ6WXoxSk43ZjBheW9KN1c0bzlGX2djeVNLd0Jyc19rR0hYTkY0UWdLdXdPQnJBSHA3eHFiQW85S0lDUW10Y0xRbFZmeUtYc29BVGZDX0lfc2lnbXNVSUtfTUVWNU9MQnh0aUJwUnhlNHR0NWxpQlNnX1p4aTBkaXpsS1Jsc1V5RzJYOVY3Ul9kMVpTQUhZRk8wLXJMMUkySTZJUGJUUElHcTQwd1lYOXBHOEtVeG8wWGphV0hTQnRmY0tlZ2hfUkZ1Vg?oc=5",
@@ -370,6 +418,22 @@
         "summary": "أخبار و معلومات اللاعب سفيان بنجديدة مهاجم الأهلي المصري winwin winwin.com",
         "player": "",
         "content_hash": "e9c8cd40e0715f96879fdb6f8ecf9463e2ffcc81467205fb981571ab46742a1f",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10980,
+        "title": "فيديوهات | هدف الأهلي الثاني ضد الزمالك - منصف بقرار - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE54anVNTjhXVXpmVHRZd0pLYUNfNk9MS2MxcThGVDhmMGc5SUZVVlhLcnhjQmE3dTh4QnlDQ1dmeFp0VjBmQU5IeU1fdDA?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 18:52:00 GMT",
+        "discovered": "2026-10-11T19:14:38.693160+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديوهات | هدف الأهلي الثاني ضد الزمالك - منصف بقرار FilGoal",
+        "player": "",
+        "content_hash": "8070b1e1a955d0458ac9f78f8695b8b453bcf34856728e2745642f36edf05542",
         "sent": 0,
         "section": "sports"
       },
@@ -1108,54 +1172,6 @@
         "content_hash": "a432ccf33bae5f7db73d9563e4048f231b4eade27d645de93bf55263f442aa6f",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 10871,
-        "title": "كرة يد - الأهلي يختتم مشواره في مجموعات إفريقيا بفوز كاسح على الجيش الرواندي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxPanl3MnJiVklRaGZWb2ZkTXhwemJPd25QSnZvdmQ0eGVJR1VQdllveXlBWXZsbFNfYUZ4RHhnRjNBS1VJY1VFc0ZscEVMckx1NmRzRE5BZ1A4blNoZjV1dS1yOTVrbnJVOElsSDRHSkRncWhIZjZoWExwU0xnT0VVSXRfbkp1NFJrZ1FyQ2V3REIxVmY0MWRjOWlHZmZsYnNhZ2pLZzhFaF90cmN4cW1sS0tzeGs5UVJ5X0ZBSXdBRzdWWFpHQUZTa2E1UXZmckFqVUEtOXF6OVl4NS05ZmZ3YXF6YUdfODRrVzJRVnNfUTVTcVNFak9CN21XYUpzUGJvNVdJbmtpUzZHWXdwLXJ4X1BVMV82NXhTdHdpdmxyNkpkWkxuMFJETG9rNlppRFNEcXhZTXdkMHN5Y1N3S0JtYzhJbzUwckxhaFo5czZrMnVxSzdta0FReEllZV9fYTJaSnkwSlpObjl4UElnZzBuY201WXJ1c1l1LTF3RTl3TTFjakEwT1VEOTc5TUZ1UXV1OUg4eTFlVll3MFdtZmg2THp3dzliNWhxVUVKSWhWQUtNaTRPOVJ4VDhqdnlBNjZrUDBzTV96OFBpOXR2N2tqQ1ZGMWZ1MFp5ZnBhcWgyV0pLVVFxM1ZFYWw2NzdxMFlxeVZoeWxMbnZ0ZU9FRnlLTTJFLUpUdVNacXJmOXRkdUE3a0Y0SjdFaXJrajVNcTdLS0NIYUpwbVlNRE4ySDByMUZfTUV1dXJJTVBCNGpXX0duZlhKOVJqLVdJOC1VcnhqOUHSAdcEQVVfeXFMT0N2VHBwallxYkVDSUZWODBzS3RGbkdXU1lvM0xfeG96QkJGRURHVUhvU2FMZ1dnd1A5YTJQcGpNWnRHZHgzdGhqWmFwVHlkejAyb190NzhYa29qcUlROE8xdVlyVHNjR2E4VFRxdDRnR3UydDZHTG5FQ3ZCcm1PVU9uUEpYQmIyMXFFMWEzQnhDNXFWMFRFQ21rRExnVmtaYmZIMlN0NmlOQTJENTlfWHlEdUVJelFXLUphMm9tZGpQQ0xLbU1RZGJxU2c5d2xDa3lNdGJlLUw5TW93QXRHYXBtLUk0Y0FPcEVfM2owVlZPOWY0Y3lXY2kxaGVrWGxMb2prTzk0OXpSWGxzZlphRmEzYVR6VXZHS2J3WEdEMk5wbEIzMTVIMkUyYWJzWEp2SmtNaGJMU3NSSWdWSlVEblZ2NDJWN3ZNMVFFYUFURG9VSF9IVlhSeGlEN2xRbktFczVycUFybFJrTG1SOVBUQkY0NEhKcUtSWThuV0ppWF9FN0ZKb1cxaG43QllvNzNBUDNCWmg1WHhIUG1ScE9Lc0pMZGp2d3NpZ0ZhdUNlV0I4cEZRMENxTElEUmNjRklhSXo0RHJHX1pjOEMtLXBIYk9YZWxXdGZEcGpNRmw1WU03eWhfN0ctSGpXd1lnRVQxemh0MFhhd2k2a01hTGZFVVAzdS02dkRxek5CZjNsY1dpQ2dlRXdTWldWUC1IbkVxQS16Q3J2aWhUZ3RFb3pldWlEZFY5dXhKVFRRQVZhN3IyZGlYZVlSRm9RMi16TWJqQ2hRdlNuMGM?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 14:40:00 GMT",
-        "discovered": "2026-10-11T14:59:59.963186+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كرة يد - الأهلي يختتم مشواره في مجموعات إفريقيا بفوز كاسح على الجيش الرواندي FilGoal",
-        "player": "",
-        "content_hash": "958d61caf66552f948bab6ca607b3c875116b5d7f0260884cade3a587d92313d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10907,
-        "title": "باللونين الأحمر والأبيض.. غرفة ملابس الزمالك تتزين استعدادًا لمباراة القمة بالدوري (صور) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiugVBVV95cUxQR3Z3dS1vX245WWRWTFlRYUlOY3FIX2pQZE03MFJMNXZyWlo2bEk4X2FjRDZkSm1XOHllTkd2aVBIRDZzYk9MUk1JQTVqX3dRallNSkZXaV9yYml3Q2xoTXNmOEI5U1BEdVNuWGN4dG5BLVhtMk9BdmxRY1NLOUIxSjRqM1JyZ1I1ZXhoU3BVekd4cGJBRmpqdHZ4ZFZVSUJLV2E5Y0FPMm5jaUZibkI3OWFyOW5RX2o1dlZvRko0Z2dGbWowRGVUZ0F5SlhWMjZlTk1SY2cyb2xvang5TElXdnpfdHBDNEVRSzJVNjdGSFZ4ZUpsTEIxbVFHZzc5M2xQZkR4Z2JGdkxDVXlkQnV4TlVCYlAzYmdIVFN3OG4xNWxfdFhZTmhhVGhVb29KYlU2OGNRUmFVNWhxS3JKc2QxU191aTQ1Q0tKYUVqLUVwbzVVUjF2Q2RDY0J4cXJuMlctMWpsYW9GblhUcEw3X0d3LTBfVzZEZHJUbURfOWdoYlF6Y0N1TmE1QUx6b1o2M09EdGJsVGpHOVJTSFFFdkhNdTNSbEFHWHJSN1FvYmRFb2FIUmw0Wkc0dUJSRkx3clQ3MzZKM3FjeGNiMXhqdnlMeTRUbWFEc0w5akFqX0JtaGptbmptZVV1RE9Nc3FieE51ZlVmc0lRTFB3SXFIYmdpQmEzS08zaTBPMXVzY1RVTGphRW9XYjhzQXRGZmxoU2tfajJsTm5rOWd2ck51OUotd2dlbnBrWnQwbDVvYVhXUzlFV2x0a2hQQ0JPNnd4clRJTlBKZWVzM09SRTlPZnJqZ1BPWjFjbWJSb2tSZVlSSjNYNU5fOVVvZ0NHdXJleXpMTVdRWDlCRlBBWk5WSDRMb2VnTEhCSmdhamZ0R2ozbEtFNmNNY1pDd1R2STFuWkpLVUhtdXg0YVB0QQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 14:37:00 GMT",
-        "discovered": "2026-10-11T16:37:32.852736+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "باللونين الأحمر والأبيض.. غرفة ملابس الزمالك تتزين استعدادًا لمباراة القمة بالدوري (صور) يلاكورة",
-        "player": "",
-        "content_hash": "27e484f2dc2c14d2574337dbbd2c05034dbccb35d0e697821de5878b7a6d1325",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10901,
-        "title": "باللونين الأحمر والأبيض.. غرفة ملابس الزمالك تتزين استعدادًا لمباراة القمة بالدوري (صور) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiowVBVV95cUxQSXBSX1lIYTFQVWU1WkJkU25TTXl6ZzFmRFp1ZE9MUU44bTJYVFoyTU5aSkwwcENfcDB1YkU3Uy1JUDhwaEZIcmJMUHI0M2xZRWpKN0d3c2g1cmJVaHREUE5NWHo0Y1EwR042LTVPOHM4Y3BqMm9MWDZ1dWphU0Znckp5WXlfMnhKb1dlZEVMUFZzUi1SM3JIdE0zdnhlUlVzelVYOS1zOTVYcGVBZGFydkEwQTZ5dG9PSl9tdHRSd1BGMU11dDJBbmE4aXhxLTNpdEEydWlJeFhSNXZPQmMyUzhqNHAyQ1E1cjFpUnRsdVExX3E2dUJEcVpqQVI1bkE1emhKYmZROWd0QUhVaHVCdEhoR2Q1dDdEQXYteXI0anhPeDRpT0IxcVJpRElINXZqbm9OSVljNlAxWVdDMWNuTW9zVUpoZDZqbFVjSF9uZFAyc3g1d2RKZWEtS2tPTmo0THNobF9UZk9SM3VGZENtSDd4aXFZS2c1WmFPdU1tcmN4WFVaSWxzT1JsZzVkNVlqZWdUS0lnZzJpR3EwV2ZWdFJUbzdpNzd6ckdUQ0JvcGhIc3I5bWN2WjQ1WjljSTlnWV80azZpRTRKQU9tRE9aT2dnajh3bXFYYzhDSHlscG50dFpLNFZzeXV3OW9od1JEblhvcndWUEc2VnNHVy1ZYkZOOTZVTGFub25YOC1vSkpmWjE4SWtaSEhSbVk1WDlYZmtpamF0VVJzdmx6Tl9ORFdmN0JnN2U2cW9RSW41Vy11WFp2M21JVEJmLUpDTFU1R2F5TzVmeGJ1TnRsUE9aWG1hUnFVZHpmNF9tdVhoNllCZW5kclZTTWo2YkVkcVR6RGtwdDdfZ2h3YzJOWE5rZnBQb2lkUmpFWlVjZDNBTkZZVm8?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 14:37:00 GMT",
-        "discovered": "2026-10-11T16:19:08.974930+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "باللونين الأحمر والأبيض.. غرفة ملابس الزمالك تتزين استعدادًا لمباراة القمة بالدوري (صور) يلاكورة",
-        "player": "",
-        "content_hash": "27e484f2dc2c14d2574337dbbd2c05034dbccb35d0e697821de5878b7a6d1325",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1652,22 +1668,6 @@
         "summary": "هجوم حوثي على مطار الرياض يوقع 12 قتيلا ومئات الجرحى وترامب يلوّح بقرار مرتقب Euronews.com",
         "player": "رياض",
         "content_hash": "61b6edfbf32cfa5ab21dbc19c56285524cb31b2bdc9b5beaa73ec559a3fb7b02",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 10556,
-        "title": "نقل تمثال صلاح الدين إلى موقع جديد في دمشق - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPSWM4VnlDOTRZdlVNbWtxWjVOX2xFc2JPTlRMRjlTZi03VnZEZzlob2R4dDQ2Y2hTME93NjBIbi00RWJEajJ0R0RqOWxqREFaRWNST19Oc05Oc2RSWFVsYU5vaUVsVTFEbjVmOEFSTThjbXdRS2MtcHJjeThIdzBzbC11UmhJUUxSSGc4Q09aSEtCZlFJYkxnbkN6ZEhNZ2dpbGJjVURWOUtfMXdSNm5NeFpyUmtmQnowOGRHaGprT19FeHNCYkZBYm5SN3dKZEZRX0NPbTNVVnI3RDh2NmpnYkR0OVdsWF9xOTJ2M2RJUmhPanZqZG1YdnhlcU9fVmF4SGZldW9RV1RVeXd2czdHSERrd19zTTRmU1gxNnpfU01UOXhKYVRlSUMwWm83dmVDS19XUDRvX1NuZjNMZmxJX3Y2d0YtOGVQTFllOXlkQTgxRWVselJJalpHVFRfenpiejBBNNIB6gJBVV95cUxPUTB5ZzdFdjZTdjgxQUEwdGVKZERnaEFLRDVPNFBRZTVlQmdmSzc4WDNPb0FibGp3OWduU1ZaR3ZFaFZfSktrRGxkaXAxdnN2UXlJTWR4WlhTMkpHVXFYajZKTDVpclZpZ2NKMVhSMnFKazJWUm9rV29zMnpXV2hjallQbzNPSHh1emVWSkY3b1RCTmRWRDNtaEtpNHV1SGZkb3ZEOUo1ZV92QURKZWFiTEpjbU9nc2FFc2hTb0tHc1lRTzBsRGthLUtvYzJlbnhuVW5vSDE4ZGdaQWxYZ181ZmJiRjZtTGRLUlc3VnZCRFNBSG96bm0tQnJUNnpwb2RlSzJoQ3o4VWJ6R1hrVXpjN2RTZnFkQ0Z2WUJvRU5iVGRFWF9xVmJMU2hlbks2SnIxRmU5WGlRdFkwYTJGYUlqWDBpLVFKa1Z1WGZhYlczczJ2NFc0WlBZdmJXeG8xV1NWdHZKX1JwWUNWZw?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Sat, 10 Oct 2026 13:29:14 GMT",
-        "discovered": "2026-10-10T20:15:41.085458+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "نقل تمثال صلاح الدين إلى موقع جديد في دمشق العربي الجديد",
-        "player": "",
-        "content_hash": "370743dd78d1e0089d29e2b095428606322f8602dd9d9259d1473fa7e5076547",
         "sent": 0,
         "section": "transfers"
       }
