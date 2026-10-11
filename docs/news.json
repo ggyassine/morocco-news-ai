@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T23:37:53.767889+00:00",
+  "updated": "2026-10-11T23:52:13.430122+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -390,6 +390,22 @@
     ],
     "sports": [
       {
+        "id": 11061,
+        "title": "أخضر الناشئات يودع تصفيات آسيا بفوز شرفي - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQU013YURUUjRucFFMdTV3UEFCV1JJd3Zqdk84WmdEYkxaeEYzRTdpRG9GaURuTlF5Y1FBT1hXOGpQZGNEUmowcHlxNlVDbDFjQmZZaUN5M0doTlhvM0JLTjlocFVCZU5GMzl1WjBBUjZ6WHVYNmJzVGNfQXZkdm5LWkdYbm5DLThpZlBtYzRWcGppUnFZbUxNM09WRzdaWmFVREV2ZDFFbk52RUFYQjZzaHJMV3ptLVVlX19xbUpKOVNlck5yd3djZVA1Q0xmc0VaakU5TXN6M1F0Um9HZ0FFZFBaOUpMV3lVMEpYcG1iR0gwLXU0bWdYS1VFQmh6TkFHblJRNGdVYzJQUng5YWdNeEZ5M1gybG16YTBSYTZaRmJlQW96NTQ1VGtuTDRHakRva3N5MVhoWkstS255aU9CbE5TZXV5UFpQd2EwemJzQkc4MFZIQXJCdThNa1dvVnZMYTdrWTZlWDk4RUM4ZG5iWGpFY0JVMHhhVW1aM2Q2MW9uSnhPS0RRVzI5eXJDa2JENkszemdwQ2JQMjhsSERyZGVQNWJvVWVYVjdhaDRJTlp1X2VKanBaYzdpdVN5ZDl1cUg3YmxpbHFuTGFhSWlxSUpFWkZiXzZQM3d2dWtLX0VhVXVLemx6bzZ4TE4?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 22:11:49 GMT",
+        "discovered": "2026-10-11T23:51:56.395563+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخضر الناشئات يودع تصفيات آسيا بفوز شرفي الشرق الأوسط",
+        "player": "",
+        "content_hash": "1a72964e374bb58793db2b6420c8ddb3624966aa9677763b400274f2437fdf10",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 11048,
         "title": "مدرب الشباب يبدي تضامنه مع السعودية... ويشيد بأداء لاعبيه - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxOS0p5SmFRa0REU2VmYmN3TlVuLUwzbVRnSjVZMlViSXZYaC1qRzdpR25IQ3Z1cnVPWWdkWjJXdVNtTlRQSGVXM0hEQU1wUlptcjlVZE1jd1BqSEgwSlU3dkJEVXVVN2h5UE1PZlBRNXlBZFNjQ2VzTjJTUUh4N19ya3N0a2N1aV9WMUJGTkRiQkhpOU9EN2ZROFpQRDJTTU1OMk5aYklpbWRDYWZLb1hvUHlNbEFBMmRjaE5lbURrUnZhdllISlJVYlR0UC0zaWdqcFVBd3FiWDBJVDZjcFBGbDdkU3RQaUhwbHRzdVptb2dlMGRXUGU0T2FTZlplU29sSW5mMWItVzgzVE02VWJEdnZHQ2xDb0JvdlNvZjZ5c0JWLUc3Wl9ORjl3UkZ4aVgyN053c2hPVmlydVhrYUF1c3Z1NWU5TWVrcF9yaDFfSkZLRXNyWFJsRWJZSllPalBTVnF5WEdJVGF3V01DVFZMSFUtT2hwWGxnVmZ5T2c2eXdTaDhNdGpzREN6bTBjSDJwQzZrSGRTcVprZlVlVDRKS0ZYMWNHd1JUR2JpWTBHOHhTMXF3TWxUNXduR3E4ZW9aWXd3RWZ5SUhfX3NDZUdhcklYX1BOYlJ5VEhUVlhKbzl6cnBSWkpya2RFY0pJRk82RGY1WHFqTnd4bjlSQUUzbURmRWswcHlEQkNDUUh3VDBqZWVJQzJkVEs1djFmYkZSUTFmMlVGYWZyaEpzeDItMHZQRlBVdmZHTlVDeVlJLTVxMEhFNGZMV19IN3NDTDg?oc=5",
@@ -626,6 +642,22 @@
         "summary": "أجواء مشحونة.. ما لم تشاهده من مباراة الأهلي والزمالك يلاكورة",
         "player": "",
         "content_hash": "d9b705c322611eaf8d3ae2acbc6e5e3c1f1a2fb0abe989742cdfa3b3c3b743c8",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11062,
+        "title": "عموتة: الفوز كان مهما على الجانب المعنوي.. ونحتاج لجماهيرنا في المباريات المقبلة - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxOUHBNOHhQcktjODg3OXN0SFNUYkdOMHJQV01jNEtwM0x6NUdCd05XX2tFWFhlenBQZjRKY2NDa0hWZE5vQTNrSEJwa1RaMDZibzh6anZSbWVwVXpZbG1DWHVDUzdqNll5Uy05OEtJUFZ3bGZjaEMyUGZOemtRbDRDRWJhUVFXQmtITjJVM3RKQ09xdTJpR25VTnc2M2FmX01JQ1k4REFILWVqUHNyejlGeVJRbExCM1hFZjl3TmQtel9NNHZQbm5GS1VtSUgtWTI3bDNhMFpYNjluZmI1TlBCb3Bkb1FnWG5JQUdoOFlwSDQxQ2V4MHdqcUR3c2UwQ3NmUktRaGNuZEQ3YzEyX0NSaUQ5T1UtcEtTMzRKZTFxNEFzRkctZDdIZ3FPNzdUVDQ3MTJ0Q0cwUVlvT1lrTHdNQUFhVldzV3FDd2h3TUV3SHNfaWI0UExnUHFJZklSNHhxRnJnRmFleDRXbk55QmNWQlNXSEJSTmN3LU1SNDNtc2dON2RodGpkZnM0NmM2MzIxLXN2ZmIxaGdVdHQwbkp1VnRVNnJjbFA4SDdyd19BZHRXV2dBTUpFX2t2Z21iOHB5YUsxSXVZd0JJa252NG5LZXN4ZDRBdFoyMVJXa3h3Tmc2VlRPVTdGMnN0bVRfSFpOb0Nzem9ONlNscm0zYl90M2xEN094TzFyRXR1dV9GajBIemI0Z3N2dVZNcl8xTUJfa0FHTV9PV1AxMDdLXzE1U292dmRyeTF5di1iTWpXNkFrRzdWSFhfdVoxanJESzdmLWx6blBJaXFsWjBRTlo3QUpnRkxkS01EVng1UkJJUHXSAfYEQVVfeXFMTjdrZGpZeE05LVlVcnJydm9RVnA2Yi1wcHlpeXpiT2JWNVlPOG9aSjZxclNOVW4xMXhnY0g3M3pMMXFleHp6TUprR0VLTVBraTNKeEhBLXZWRm5oMUJEMmpMaExxMW9UdTRha1VwdTVtQ1BXTXc4Mm84NmdSMmN4dWszUTVuOWl1YTlFc2pEenBINFdIWVotSExhWWtvZU1sNzRPekNocFlBTDE2Y1M1VTZCVUFldjFOSUhBS3dwUmVnOGxBX3NtQ2pmS0Ric0xQa1NGVXEyQ2NtM0NTbFBFdFAwWWk1SFRpei13dDRDWDdhNlJtSDlZMWpqcjFLODR4Q3U5eGwyODJuV1Y5d1dMVjEzdjJWaUxpSmI5RGl0UDdfVlJobnh5YVR2Sl8xV2NQdkVkTE5aVnJUZlhDVExYQ01uazFQdm54WEw4UTQ2MXVqX2prVlB5MG5rRkdEWVc2Y2dZenByNzVJTG1uZjZwYlVWTTdkRndsTmVuR3pHNUlaanIyZUNYS0xvbFRPLXMyRlI3MmtReUxiSHFKYUlqVGI4ZjAzUWMta1czY0N4ODUyOVZxOFFoaWUwdndLVFBzZGxlQ284X0NaT255MFltbF84TXBPQ0I1aTI4OFZxYmUxcmhOQnVpWk5Pc0pTN1R1M2h5ZzdPc0RzZjhfaWpqNHQ3U2NVV1RKZFp1M1FUVnV6VVVPRW5YdjE4SFNXWTgyMHQyTmh4YTdTUktyU0p4b0xhel9uajN1NHZOOG5vak9LZF84U1VaUXRsSktSbXlFZmY4TEtiYy1FSUQ1WjRfNmVvN2wyOE5EV0dvSkNMaFFKQ1h6c2NB?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 20:18:00 GMT",
+        "discovered": "2026-10-11T23:51:58.901985+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "عموتة: الفوز كان مهما على الجانب المعنوي.. ونحتاج لجماهيرنا في المباريات المقبلة FilGoal",
+        "player": "",
+        "content_hash": "0173e071224886028bbbca64e0d8969ae11586063dab5d9d7158fd32c2eb8c15",
         "sent": 0,
         "section": "sports"
       },
@@ -1154,38 +1186,6 @@
         "summary": "إصابة عمر جابر في مباراة الزمالك والأهلي يلاكورة",
         "player": "",
         "content_hash": "4628dbcec0dde63dab8060387a77aeb61f110f5ca40723de1897f970993de665",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10927,
-        "title": "winwin يختار تشكيلة الأسبوع المثالية في الدوري الأردني - www.winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxPZVg4aGVtbzNpNi1JNjR2S0NQS3FjejFLYTBLcjU2cHRlMGJjczRoSDM2VDJzcXNwNnkwWGgybHdDZVdyT1JBb1dtdV9JcnU3Q2JFc1VtLXZNWUhWLTVkYjI2ckVoeU5iamVyUTV0RlE2bkJCRjdLVjFiQlBYaVB6dlpJc25KMXlLLUZjNTlBdkJTbFRHbENLaFNQbVBWSDRncU9TQm4zdExZZTdKdE9DWDIzSEFJVUhkdGxMdGJ4NllwT1g2Mkx6T250YjFYUG1mSjVaZUFETURsdlp6UnZNODkzNG91eE5pTm5KQVg0LU5neGhqd0FDN0NTOTRneERSeEtPSVp6TlJRRFlrY09HNFZLU2pBWU9jSXYyYWUteEswbTR5eUVuZ05JZmk2YXE1SUdpQWJZQmZ2VnRtUENBZ01fZzU5ZDN1QThOaTBTSjE0c1FoQzJfbWNSUTE0TVRyNHVhZFVOVW1Na2pzODR0Zk1GSFZkalNGaG1WamVHcU1EeE5NUmUtM1k5WTZqUTBuNF9RRFU5dWNjd3lwcXlNX295d1lSZHZFTkM0d3JuV1MtcFRCUExYb081VXZocDBoMzZsWU52cGM1czg2NlE?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 17:32:25 GMT",
-        "discovered": "2026-10-11T17:37:16.383740+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "winwin يختار تشكيلة الأسبوع المثالية في الدوري الأردني www.winwin.com",
-        "player": "",
-        "content_hash": "9f7be84db32012ef46e89b8f6c4c3e9cc2de8a5929efb7407f16721c801e9a8f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10942,
-        "title": "دخلة خاصة من رجال المظلات بمناسبة نصر أكتوبر في مباراة الزمالك والأهلي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxNVmhqYlpxWGFicEVoWjZOWkhRMjdldGJQUjlNSVNyQmJ4OG1icWRyTDltS2d0eXZ6bGZYQkVONVozZk1Qdmd5TUpvMjFhbDdDSEtBSnhHWGQwTHhNcEdrQTlaMTVQMVVXektuV0NJVENpVG5JMERZaU9ybVRST0FMLXJoa3FQT2YxV3hLakZzSHJzZl9XbEFoODJ0Q0NRLXJ1bGdNWDdqRVJGVGhVOTR3eC11WVNsaHN3NEduVlRpRzZ5NS14T2hfNGZBTnU1em8weFlReXo3eXg1c1RndzVMS3IwSlpLenR4VGJ5UHhvNmVTdFI3NHJCNW9YdndQT2dIYXJtYk1udl9tN1hadVVzVG5aMTFmWWRuVU01VTRmYzYtUEgxalU2LTNpV2pSM0trekpBVHZuaWNKYkktbmgwZTNUSEZXSXdRRVVyREdOeDktaWc3VzZfZ3Jhek9rZ2JNbUkwSmxYZHQ1d3gxa0ZRVTZlZUhTTTdXNnZZZm9ZaHpNd1k0bnN3U0txdGZxb0lJUjJxWHRnZFB6ZEgwMG1ON01ma2dBZGwxYWY3U2lVemdTT29DNWJJSGNscGtRdGdWOWMyUTk2VE9QcU05aHRQdy0xaXZkdGItZE9KZXlXQkdZR1BTNTJfNzllNEl6ZEVXUENyVWtoZ0tIMTBoMkRoNEpiSV83azROV2t4ZHJIUEVmMFdib19DOGVxd3RrNTdhWUhmaHlpTFkxRUQ2ak9PM1Jvak5nNW91Ymc?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 17:32:00 GMT",
-        "discovered": "2026-10-11T17:51:50.469527+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "دخلة خاصة من رجال المظلات بمناسبة نصر أكتوبر في مباراة الزمالك والأهلي يلاكورة",
-        "player": "",
-        "content_hash": "19ab38e4a7ff1d502605e24c3e61781535b1a1e5f99f578a83dd6f5caac6ef4b",
         "sent": 0,
         "section": "sports"
       }
