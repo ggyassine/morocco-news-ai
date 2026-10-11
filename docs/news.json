@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-11T03:45:48.303716+00:00",
-  "total": 149,
+  "updated": "2026-10-11T04:00:38.720118+00:00",
+  "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 10729,
+        "title": "السعودية تعلن مقتل 12 شخصا وإصابة 309 في هجوم بصاروخ للحوثيين على مطار الرياض – اليوم 24 - اليوم 24",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE43Y0hnN1hBX19UQ1BDUEM3RWNESnRKSGlmYUdteklnVEtQcW50OXprVXptNkFmWmNNQ0RtMVlnM2FLZ283dFFoVTF3?oc=5",
+        "source": "اليوم24",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 23:37:37 GMT",
+        "discovered": "2026-10-11T04:00:14.832488+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "السعودية تعلن مقتل 12 شخصا وإصابة 309 في هجوم بصاروخ للحوثيين على مطار الرياض – اليوم 24 اليوم 24",
+        "player": "رياض",
+        "content_hash": "8df62550e0deffa569f13014959c8089bd28d69cb710a024b63da19bf4c66a8b",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 10622,
         "title": "المغرب وإيطاليا يعززان التعاون التجاري - Febrayer",
@@ -450,6 +466,22 @@
         "summary": "مثل حكيمي وفينيسيوس.. ديوماندي يحفر اسمه في تاريخ ريال مدريد Kooora",
         "player": "حكيمي",
         "content_hash": "647b1cd2b437aa0b8c09854d0de7343d264efdd2e5a5c0b01efb8985e34d6001",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10731,
+        "title": "أخبار و معلومات اللاعب كوجو بيبراه أوبونغ مدافع نادي نيس winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPa0dGdHNFUmxUWHlKZEdGOHNqemdNanJGNUhEWW5kN1BqUGl0Y3QyVlpaYTZYS1Qyck41bjRuQXZQMk1PQ1M5S2lDSDN2UjE0ekJ1c3JvM3AtOEFOcDFRSENPeDJOeHM1VkdxQmVLOThiYUhjUVVQMDRiUzVJR3JncFNtcDBvQ3R5eFhVR1lfb255aS1FSlRkc2FtOVBQdTdpSHF1a3MyaUpKc1RIVjBUaWZSRlcwQ01GTkVZR1JYWnFYZmY3eDBoaFNGNmhsaFpKMlBUblNPVGNXSFlfUkM5azhfdkdvMTJCQ3pJdThtbUpRUUhQdVJxOGlHSlgzQVF0bDlHV2VKY091RDRrZVNENFZGdkJ0cmZYaU9BOS1oLUo1RlA4MV9HMk1mVGh3WVJzcWc?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 00:27:58 GMT",
+        "discovered": "2026-10-11T04:00:23.642846+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب كوجو بيبراه أوبونغ مدافع نادي نيس winwin winwin.com",
+        "player": "",
+        "content_hash": "1eb918dccff8bcf4b6ac94c16ec2dcad3cd8b9c103d970a0f8ef43f2752254f5",
         "sent": 0,
         "section": "sports"
       },
@@ -1218,22 +1250,6 @@
         "summary": "«ناسا» تستهدف حفرة غامضة على سطح القمر بحثاً عن عالم كبير تحت السطح القدس العربي",
         "player": "",
         "content_hash": "d00b490bfdfa071485b95f1be6d948c60701250babf7bdbd3ec57826fe11bcb3",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10642,
-        "title": "فليك: الهدف المبكر منحنا الثقة.. وملعب جالاتاسراي الأكثر صخبا في العالم - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxOZjVyS2s4ZVdlbm15MU9iSENCdk56SU9fLWJlM2h1U25iSy1qQURKNG1KMXd2UHNqRm5QS0hvakZSbWVqQzc2U0lULU15ZU9aWldZT3ZsaDZWU01OZ2VIeGpVS241NHhtTUlfSkVVcXp1LWI5d19ZVDI0Rk9wR0tGYzlGUVRpTXdIVUVuenRwbmNIbVdRM3Q5T1RTakNMc0lVbjZSWjd5elBuQUx3Nm5KN1A2ZGc0Q1hLdTE3QURpa0JHdWhiVXRtSU5naXVpMkJYWllXUHhXOU9BNlFfQkJtZVNzT256b3hxMHlWdGJfZmtvcTkwXzFmQXZ4VTRGYzNFeGw1Q0cxMXRsYkpFWV80N0xmY08wNV80a0NxdUxwRGt1UXl3ajJveEFxeWxaMG82NTRjSHlDZXlSSDd5dGxtUUJwMzBnNjVPa3NnT0lEamc2ZlVZLThHZTVLbTJzbFNfUjBqZm92V19CNlBtX01nWGZmNUVCTHJTZVJCMGZxam9rZUJjV1lMaTI2N3o0NjZMc21jSV9nR2R5ajVsZWNhcXpONFQ0T2FfWFFIMFNPR21Cd0J6NEEwaWV1ZG9fSWt1RG9jZ2hIWW5MOFhuZFhiRDktN1BHRUNSY1NXUHEwTklsOFZDck9ITE9jemEyOEwzMWxDdEVOQi1yMl85SFQySTAzRElENG40T3NyQWVrZWpHLTloUTlFQ1RSbzJ4bUxVV05XcWgwNHN6UlF0aU9R0gG0BEFVX3lxTFBxZGppcEkzTXpVWEVIS3pqZndmX1M3TzRMQmswVk5rOE1yTGxBX0RvSkl0RGZwUnVXUkFHUU43Y01mZ2VRcDktaldjU09rTlI1bVBXZl9nSkxBZ0VWYThMZnVBWjlvVjdsYkpfSXBOMEhvcmxxMnFDelEyRVNVYnVfWkhPa0VsNGJmX1B5RC1jSlR0RmNlbGtuR2tmdlktaWp5Z2Y5LVo3RjJwLV9MRWxPcEVnQ0dySzZMbEdrZXJ5QUhlLTBLRjFkM29QMkluYWhFODdrNjRxdThVaFFoZjBXdEZqQ2twVUplVWo0R2dSUTVxaDloRkpLN1dacHVTVnpQZzJ1ei1hR0tHTTFTWm9oSGtIcWZXaDF2MllBS2U3N0VGWFlpWmVWU04zRTJ3TXphZk52ZW5JZmIxN3BXQ3FBd3J3SV9URzl5MFlZeXpwdzVRQjNMc3VBb1VjYmNVS1hKTlB2NzBHTE1nYkRkMEFHWV8yRWpyMkxTWGpJZFZmcjV5TTRzTFJFdEFmYlhQdm5FdGFmYXllUVZYaWstQjFOWjFyX3NEMlNuVk5PLTFkVW52Z254dzNkeHVYdDZaRk9tMm5pdE1yamxEekt6MmF3ekdRVW40NUlBZVQ1QVNrRUFVTWVweUl2b2lVUUlSbm9td1g5TU5QVUJ5WG5XUHN4TzRPenJpcnQ4VDFqNFVodWQxdEd6cHo4Y1JwWlFfWUxHVEluQmRNRDB4VnFiOU9GREVORw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 19:34:00 GMT",
-        "discovered": "2026-10-10T23:11:47.000612+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فليك: الهدف المبكر منحنا الثقة.. وملعب جالاتاسراي الأكثر صخبا في العالم FilGoal",
-        "player": "",
-        "content_hash": "6cfc18e98a65b78ff0c1cf87fd93b6a78870fc45bfe68ed9f32db3cc641ea924",
         "sent": 0,
         "section": "sports"
       }
