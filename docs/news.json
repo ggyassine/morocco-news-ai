@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11T09:06:11.963181+00:00",
-  "total": 148,
+  "updated": "2026-10-11T09:24:14.313668+00:00",
+  "total": 150,
   "sections": {
     "morocco": [
       {
@@ -176,6 +176,22 @@
         "summary": "وزير سابق يُحذر من «البيزوطاج» في المدارس العليا Le 360 Arabe",
         "player": "",
         "content_hash": "e0febd9d3af69a92333da650207deac6e0297bb6d0ede1cae2c5839d7aaa132b",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 10799,
+        "title": "اللجنة الرابعة.. الگابون: الحكم الذاتي أساس جاد لحل واقعي لنزاع الصحرا ونشيد بالتنمية المغربية لأقاليمها الجنوبية - كود",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPa1RvYjFvU2xlbXFTZmZENTVQSzl0em15MWEwTEdoeDlTRDdJQU92ZW95aEV2aWtaeWZBOXprTG1wcHp3b3d4SlMxRm82U1lUWXM0Uy05dG5ZeE5ncUtrR25oeHdvOHRTRHJNcjRVY0dMTl9fWGxPLUVMRXRpTlJRRVRuYUV1TTltdUNWNDhWRGFMaTU3dEdTdEF4d2dueWdkdV8tdkpONG5UajhNMzF4dG5BRHN3eUVMYlVyanR3bm9sQktyWThXR0xDcGpCci03QnFBSU81T2wxc01kUFhhelVveFRCYk05bnhfYzJyUHlEOWFaZWg1SkFJSWl3dDNLWXZfVlVuUTBWZ2ZMeTJEUENpeFN6RjZueTZ6WkpoU0w1Q1hTVkRGVTY4N2ZrdTh6NDRIWXVRZm9XWVlKVlBYNzc1bTU0T01NZ1E?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 13:43:52 GMT",
+        "discovered": "2026-10-11T09:23:53.425087+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "اللجنة الرابعة.. الگابون: الحكم الذاتي أساس جاد لحل واقعي لنزاع الصحرا ونشيد بالتنمية المغربية لأقاليمها الجنوبية كود",
+        "player": "",
+        "content_hash": "823a47f7e22acb54a9755d6e87a2661e6ded5298dc413cc0a79e3cc6457ee1b2",
         "sent": 0,
         "section": "morocco"
       },
@@ -418,22 +434,6 @@
         "content_hash": "2751f3f2c371d9a6f1c8c59f6719056fa2ae88efbe9493485280683677baa1d2",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 10368,
-        "title": "استئنافية طنجة تشرع في التحقيق التفصيلي مع المتهمين في ملف «حقيبة الأوراق الانتخابية المزورة - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMd1p0dzIweElQUWtMSHQ1OFpuS0R2YlJzMzlOQkc2MWpqcXp3WDgtWG5McGxraDFTdnduRnViWUh0ei10X2IwYzFhY3liNWdGSHZyWmg0M2V1aFMtNFFhM3JlNkw0Zw?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Thu, 08 Oct 2026 18:21:08 GMT",
-        "discovered": "2026-10-10T08:32:13.166361+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "استئنافية طنجة تشرع في التحقيق التفصيلي مع المتهمين في ملف «حقيبة الأوراق الانتخابية المزورة Le 360 Arabe",
-        "player": "",
-        "content_hash": "477d038a789b05cc057577e93ac7ab6b2c6664d24d3116ceff05da60449da9af",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -642,6 +642,22 @@
         "summary": "جدول مباريات اليوم - 11 أكتوبر 2026 - بطولة كأس الأمم الإفريقية FilGoal",
         "player": "",
         "content_hash": "12748ec3130ffbf21c8b4efbbf5cf8647adb7f899cc2c1d5e0196bc86b623a44",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 10803,
+        "title": "«الدوري السعودي»: القادسية يقسو على الخلود بخماسية - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxQQnhubnpoei1LX0NXREJSNkF1U2tPOWdoakRPcHl2Q3dpVmZYejBoVktXSmw3NE85U2VJNXloTzN4Tllydi01M3RncHZMQVJwRllxRDNSVlVjTUhqT2d1cktWc2x2REE3emdyb01XQ25rU0tmcjR5dEk4c2FiUEwtQ2RLYV9xVG5ZSHdoY1BKY3RqRW54UWRxUS14QnpSQUh4NUNmUkQwYXN4bVRGTFR2MmtONnN2UTBHYkw0M2xuODg5LXc2Qm1oczZkNnBiVmRISy1vcFdJdThJaXJ3YTQ0M1lyU0RldHNmZ0wwV3A1UjQxeW93VTVnUGFVeUlId3FCbHE2UHoyOTY2VHlrcThaRnA2eUR3MXE4X0pGQk9MSVp2RndTSWUzVEJuaC1WUUNtLWI2NVAtMHdLdWV4UGNVTjFMX1MzZjdWOXRxTWlFREZCUHRWdFVfdnpuZ1lVWEQ4a1JVUXB3OUZEQ1FHa1BqUktaSFZBR2tLSVk2U2xNZTlDTl9rYWpwamZDYmUzei00a0h1aWNHTTE0bzBEbU8xeXpxX09LdXVpMl96N3JFODVwdnoxNm56c3pIdGtEb0pvc29KMUU4VnNBQVl2OUgwR3FtdWg5YW81aHEyb0xCcHJGbmMyRXJILVN2WHgwYzVsd2huck82c3A0bnEyN09QTURRQU5VRHJwaEFXczVaVG1URHB1WFNhM0lWdHk0RWpiNzdHSg?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 23:24:25 GMT",
+        "discovered": "2026-10-11T09:23:58.830732+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "«الدوري السعودي»: القادسية يقسو على الخلود بخماسية الشرق الأوسط",
+        "player": "",
+        "content_hash": "e212c743ad1f1fa72b402f861eb9a3e73701caab4206f4e3b4e885ffb08c4026",
         "sent": 0,
         "section": "sports"
       },
@@ -1220,25 +1236,41 @@
         "content_hash": "f251cf93aabf7af81e34970bf09f9b7ceed5e8312b34e89cc15e3a3860c7473f",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 10572,
-        "title": "هل تمت مجاملة لاعب الأهلي على حساب لاعب الزمالك في بطولة شمال أفريقيا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxOZ05pd0I3bVg5MVViT3NqRm1DQlUxcVZhdVRrcW0xZk1jcW9JeWk5VXpYeHNUZzJuVF9VTnEzWHJRcjY0QVlCNmF4WUVoNW9YNHV4bEFzVmV4dG10MzJxODBGZzg0dXZHSl9ZVnFvNTJLT19DYVQ3b0ZiZzdIVi01eW9Ra1BWclZGVGhQUHg3Zm5tX3pXaXhXTnZTM256Q1pET0ZIWjJfQUFHSVpSTTl5S0RvcmRFR2w4VDJYMzVCblA3WFdBbUoyU1ltTjlxYXB4NVdqaEVuQXFoemlsVTNrNG9UcTRVMmc3VHNHYmpuQlBNSVBiWElKTHlPMG1GeWoxUjVsak5JTURTRUg4UzNGZDRVLS13SmFoSFJ0VVc2dlFOa01GcmI2VmdVRFpQU3prLUdueHdBc1cycWVhdmRtNThmS0NvaHpFRDh5eUV3T3ZTNENqSTNPQnBCMGJYT0FPYk04dl8xM3RwQVlSVW1MVTVDRFkxS1A2RWVqN0w0VGFNcDhUNE5kX3l0UERiUlFjUjVxSnpXczRTV0h6MmhUVTZ0c0tFQkFMaFVLXzRlMW01OWdMRFZDUVYzSWx1TW5KeUY2ZVZPN2Y2ZzhKOU5oVHZxeXA3eEVHRnBlZFl3U1ExX1FONHBpUHpLWEFyNUNLbi1ReFRuMXRiWFhvelVtMXdBYTJoOTgtUHp6bnp4VlpwcVd0YmNxVDJFRUxPMVBBUG9BZlQtTjNsRGs?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 20:24:00 GMT",
-        "discovered": "2026-10-10T20:59:56.408016+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "هل تمت مجاملة لاعب الأهلي على حساب لاعب الزمالك في بطولة شمال أفريقيا يلاكورة",
-        "player": "",
-        "content_hash": "0f1538ad00f0c95c450a0413955b25094d9a288a0f094c4aae28fb752b774caf",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 10801,
+        "title": "الذكاء الاصطناعي يجيب: ما النتيجة المتوقعة لمباراة ليفربول ومانشسر سيتي؟ - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMipgVBVV95cUxPQzg1WHBWLWs1dGVRdmFWUG96Vm13eXpnYk1hT19CSld2Q20xNmdUbEhNbEFyeHA3d09jVjRSdnlFMXNvQWxIWXZHTzUtZGY4dklTMGx6TmYzUnlsdHE3U092NkpiV01tYkZ4U01SaEZSbjg0NndhVE1QT01QX24wNHpaOEppY1UxS2x3SjV4VVFwVXhOZFZlNXEtNTB1V1gzY0Z6Wmd6TzNtNEZzTWdQanFZNWNhUEtwQnFVUnphM2plUDdFcU9ZRy1CMWRBeVZHOXZISUdyel9tckNMakI3WURpelF4RlNoTFFjcFU3SGxNUHd1Xy1qX2NyVTJXcmt4TWlqYUhwWnhFNmd5d04yZTVxTzkwbWtfeEYzdDF6aXhRak9acXRZMFJXR3VjMkxvUjRVT2JlTUlraGVlSXdfRk1HcVVHS1VPSUJWeGEzY2JZT2ZOakY5MUxwYm1WQm9CUThOUDVlSVo5SnRXVWZUeEs2TzNRWXVsQk4zbWVBTU1vUjNCNEE0bWlWRzRRcVBSWFVDcWNoMDllaGJpeUN2eTZNaU1kRlBFQ2tjdjVmMzJNWnI2dnpjanZqSXZndmgya3p6ME5KamxRMVFVNlJpd2ctWnB6QlFYbGFXNkRPR2hyTkhEdVVGT01icW90ekVwRW1GWnpSalNpcmxiV3BaTVJ2NG9JQ1V5VDJxSEw2b0kwNEJRN2tsSHFUXzlva3FhOGZ2OHpiMHo5cE9qWkpZTExZQ1JEeDUxUWVXMnZPVU9qWUgyb3IxSHZFMVh1em9DbmFYSHo4RnRhMlFLby1leW5VaXZYYWRwMDZpeDdmSVVIS0FVaXMzcUh6a05DR2lyVzN0dG5hRGVySDVzckJMZUtDbjhoZC1LVE4zbF9QVlhhYnFVVnc?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 09:10:47 GMT",
+        "discovered": "2026-10-11T09:23:55.905135+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "الذكاء الاصطناعي يجيب: ما النتيجة المتوقعة لمباراة ليفربول ومانشسر سيتي؟",
+        "player": "",
+        "content_hash": "89802e76cd86bae84d12644cdab97a17c0bb8bfa51bcee262079f2713e72fff2",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 10802,
+        "title": "«آقورديانو» يتوّج بالكأس الملكي السعودي في مضمار طوكيو - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxPQTEwdDAyX243elhzOTBrSDd3aXFKR09pQ1FteFB1d1pnV3owb2oxcGJlRk1QZTNzNElEOTZ2Ukd3U3dIano0T1dXbktqX1hyV2JjZ0hBOTlkeFpiMTlrNVpTX0tHc19aZHZxMWEzd2llTUtPWVpkNFpaNTU1TjM2TWxZSVk0eVhEaUFsTUJ5b1AtM2N5aUM0cFlZUlJheTIyLVJ0YXBueU9ucTV4ZUZwWlZZVUFrZGtwb1N3M05Bc1o5T2dNM0liUUFuQ3FSalRvdzNKQU1JRjV2clJSa3BIdkpjd0syUVM0TEt1Vk9uMU1qMXFvYkdzaE9FZUNDYWlCUzE4bG5hNDlNN084RGk2Mjh2aWlHRnQyWlQyX0pRY1c3SEU3dEREaFZJZzRhYVhIQjBEVzNfNkEtMGRLbXdpalpuWmJTTHhISnJqTlpfTWtzNk80U28yb01RY1hzYmpPSGZtYnZPVWExTDhQUVo2SW0xMXB5a3ZOaXBzOTdDRmdjUTRjbmZIbFF2Yk85TnV6QzhNWWs3LTRhUU5iUVJweERtajVzV1VQZkxJVTdVejNtZE9UZTJVNHkxa2lQVEZlbUpuQ21tWlh5RWhENU1ocERsd1dyRk1rU3JtTEU2OUx0TWhtXzhLZEoxejljbExfdkVQemQ5NEN0ZHg5bWdNNF9UeEhqYmRPdVJCOW1GbTR5c2ZOcXhGVVBsT2pJZUlzdUp1RFloLW5TTHpJUEZJZkZRdW5qb25BYm9jenpwUEU3MGtBX1E?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 08:51:51 GMT",
+        "discovered": "2026-10-11T09:23:58.823852+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "«آقورديانو» يتوّج بالكأس الملكي السعودي في مضمار طوكيو الشرق الأوسط",
+        "player": "",
+        "content_hash": "d1d74a00dcace2feb8b3ae709f2130b133a533823b477f3323719358ae3833e8",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 10793,
         "title": "دراسة تكشف أثراً غير متوقع لكوفيد طويل الأمد.. قد يفسر سر ضبابية الدماغ - العربية",
