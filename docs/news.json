@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T01:18:16.127453+00:00",
+  "updated": "2026-10-11T01:36:16.932874+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1736,22 +1736,6 @@
         "section": "transfers"
       },
       {
-        "id": 10169,
-        "title": "التشكيل المتوقع لبايرن ميونخ.. ما موقف الصيباري؟ - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNMzdCVm9qUVczc0ZpQmotcjN6QjlJU0tRdW8wX19pamFsd0tUVW5QS1dGcEc5TlRoTy1ZbnlmSmxPck9WbXlvUnRWblVQNjhwNTJGN1VENHBtc3ZoeXhqckotYTY5YzFoZzZMQXhyUUFVNTFJYm1MWDdjWlZ4MEN5dDhITGJPVE1sVUI1eGg2SW1EZmVSWF9peWhvcU50QmtkRGJxTlZRaHhPeXlJTnA5ZlhXRmpvRllTSTkzWkN6UVQxQWhzeF9BNG54bnVXRFVRUTBBNlhDNEJzZG5HVmViLVItcGlPdWJ0SEFtNkNMZlV0eVNadld5d09WZkFWNlpPN3lTbGpmSURRd01nRGpvY0psUFl1RmkzSzZjNHEtOFpvaHc1WE9LWTQwb1c2SXBYVzB2dkxFNFRaaGVhLXhqVW5sdVJDLVowNm9VeHMtQzJicElKV2NfbUlEeDZjNDVfdWtlNDNNNmx1X1ZPamY5X3dxRXROVEw5SnNieTRLSExCOUlFQzc4Q1FFWkpMWFFlWl9QbnkzNU5yeUNRWTFPaDBISmlMWXBZOU1ndkhSZ1RvSTg2WUl4dExVdENUbkx5NHR6OGVmZWFNd0xnTElKcExPYkRJaHFGb2w2QWsyNXZWb1ZuR1VYNTg2Rl8xelJkVDAw?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Fri, 09 Oct 2026 19:16:40 GMT",
-        "discovered": "2026-10-09T19:28:18.993097+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "التشكيل المتوقع لبايرن ميونخ.. ما موقف الصيباري؟",
-        "player": "الصيباري",
-        "content_hash": "1a3d064e4099ee985f215576539a72347b899ab079aa3b7062ae734daf2310d6",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 10272,
         "title": "شارلوروا يمدد عقد الشبل المغربي خاليفي - جريدة المنتخب",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRWGZFTkhYMWw0RUp6ak5TaU5kNkQ3M0JwSmN6T2JMRDlaVE9URlAxYzBPdGNCajdXajk5N3R5RHVpdlVDN255TnFXQWlXMk5GWTlCWg?oc=5",
@@ -1830,6 +1814,22 @@
         "summary": "12 وفاة و309 إصابات باعتداء على مطار الرياض... والتحالف يتوعد برد حازم الشرق الأوسط",
         "player": "رياض",
         "content_hash": "95c1f1a28f44329cbcb7dec5c580e6356d15ea572a9ac60ab5444e262e87bf30",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 10670,
+        "title": "12 قتيلا و309 مصابين باعتداء على مطار \"الرياض\" والتحالف يتوعد بالرد - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPdUlRTnkwSl9aVURBS1MzS1EzQ1JKS0JLeVZIa0dLbjFJbFVGTDFudGRJY3BKTkplMzZNb2dOc0I1STA1M0YxQ2VudHVSb0d2bUhWQkx1WXdQeDJWbHBjNmlrSzZmeUh6bktSWlloU3RheFp1OWozRkVnX0FWSjJwMElNX0FzYVNYWUZTWlA3aG5SUndhUC0tdWRqY2MycTVjYnVRLVk4M0J0bW4yb1AwWGZJUjV4NTU3ckNmQ1Rncm9GNGVFYnlIUnpPd19RVkFoeUE5VjhJOTR4bFpQRFRTYi1XY01ka2tBX2hhXzMzZmNxaUhiQnR2NG1xQVAyTWdMX0dnYWFJREh6Q08zNEtHSGZIQTR1eE93RjgzY3l0SFVSMFVlbk1vbHZ5N3dNY0xpdk9jd2Q3Y3NpendzaG1QSjVyby1JUnpIcHJnOW1USHA1RUXSAdgCQVVfeXFMT3hNd1dJWjB4UTEwVGtGT3BnejRjYzlia1pUa3lWbFdFdVZTOU1FS1dJQXJxc3ZEZkwxNkt0LVVBSFV1UWtRaFRnd3dWMkdWSDJPbUNCdnhGZzR2UXZGSlk0ZUV0NU1JUVVLcDJ3M2Fod2RDMkRyT0lWaXA0N0lrNlh5TjEtRjNLZVdqekowUmc5VzZ6alFuLVBvLXI5aW1TV1RzS2hLM19wX3g4eTVWem1hYjJ2N09Bc0hsdjVZTzdhU1cyX0ZhTXljZUF3SEFhZEF1a0QzOWZsQXhNNnBrVFIwR1ZqQUNBLWZHNGY1SWVqSFM3MlUzdzkzRW82a3pwMHluNGx1d2xBVC1WX2kwal9yWU1DUktDVVlDSTk4QkxPRTJTTmJiMDFHTE9fVDl6RkxhTWQxUEVWUlkwallISEltTlBXZ0xTZ3pkN1RvTy1kRkJHbTg1c3M?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Sat, 10 Oct 2026 23:16:39 GMT",
+        "discovered": "2026-10-11T01:36:07.751097+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "12 قتيلا و309 مصابين باعتداء على مطار \"الرياض\" والتحالف يتوعد بالرد الجزيرة نت",
+        "player": "رياض",
+        "content_hash": "47e2b50c012624b4fa4a827de413d251c598b4adb4aac00a107fbd3bf6ed8f15",
         "sent": 0,
         "section": "middle_east"
       },
