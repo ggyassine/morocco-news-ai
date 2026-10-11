@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T08:19:41.347691+00:00",
+  "updated": "2026-10-11T08:38:25.903493+00:00",
   "total": 149,
   "sections": {
     "morocco": [
@@ -400,22 +400,6 @@
         "summary": "الدار البيضاء.. التكفل بارتفاع ضغط الدم الرئوي محور ندوة طبية | MapNews",
         "player": "",
         "content_hash": "cb6c4884aaa4762a257769a0b3d029331d13794a286e7e4093b6c4518cb45a3f",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 10292,
-        "title": "إدارية فاس جردات الحركي الخياري من عضوية مجلس جماعة عين الشقف بعدما ترشح باسم البي بي إس فالانتخابات البرلمانية - كود",
-        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQRTJROC1JNWg0dkM4ZDM4YWtLTExoQVhCamNYLS1LckxjQkFsbTJydFJtU1hNVWlDdWNHM0NsMEZHa0w2VldrdlJCODgta19uZk53VkE3WWdZZ2hQMHRrTWNrSFdUQWY1XzdMTnVPcTdJUXA0YmtQNUphaUd4NmpjdDlDNTF1WkRtMzk0M2lLaENCRXFtR1ltZEQzSnkwWDNCTldoRU5TNF9udllDc3ZfaDd1VlZ3dWpGalU0eUV2VTN6RUxxMXNUQUozZUp3V0g2eVhDZTVDNmFNOGhNemJiY2M3ZnlGZjktODREamlFaTQwM1ZrbHdjSklOaVpNQXRnRVRvb2k0dFVpMkhUWW9NOEJmMEs3MWRDVHRacGxiRXppMk1jN2k3cXE2RHBkeVUyelRIQWRid1pTMmN4aFAwcWFydzN5cFYwdWc4?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Thu, 08 Oct 2026 20:18:21 GMT",
-        "discovered": "2026-10-10T00:42:01.246440+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "إدارية فاس جردات الحركي الخياري من عضوية مجلس جماعة عين الشقف بعدما ترشح باسم البي بي إس فالانتخابات البرلمانية كود",
-        "player": "",
-        "content_hash": "1f8e1366627b15507ccbd71206dc0c965c5a4c007ba706fea7e40aaf557e95aa",
         "sent": 0,
         "section": "morocco"
       },
@@ -1255,6 +1239,22 @@
       }
     ],
     "transfers": [
+      {
+        "id": 10793,
+        "title": "دراسة تكشف أثراً غير متوقع لكوفيد طويل الأمد.. قد يفسر سر ضبابية الدماغ - العربية",
+        "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxNczE1YldGVlVCVzhhQmxwSlhaRTQ5S2p5MG5hREI4NFo2U0NxaXJNSzRnVlloUTByX0JWdmdFZHVZVDIzal91YTJndmJQZmZ4RmZnbm1ndkc4OVlmdUhpQlM5Rm1ZQXhxWUVXT1VMQ0JwWlFwa1oxcUd1dHFxdF95M2phQk9mbjBkYTdfNFFGdWszZ21QWU5TLVBsYlRZb19OTmdRZmpvLWtlT0ZmQ2c0MEprcUNSTTk2X0dTNDZJRllnVVZYTUloSTZqY0F6VTRGdHNWbzJOZ1dHT0FTeWNic1RWcHNXRENRYS1WWDgzWXh0dTFoYXhtUmt4Z0ROeGhqQzNYNld4SDd1WE5icWJYNWhPRVFKSHZLa3VGSWdBaDNUblRJX0IwbjJubGFUOWNsS1VxUFV5aGZwODdBWmVaZldiMzQ2YnFxUWdHRzdncFM3cXJQSUVKSzI1SktyZnVXc0YtZWdRQ3psMzJMNHJwbE5YT2hwUXhQU0VsdG1lcGpoRDgyWFJZSm1PXzBfb2RwRGFNYkhVQmRzS3NNX1lMb1RVMGNMMjVVak5fRTkwdHNUdFhWbW1QZ2hpbU04WFpUdFhkMWZ2SThLWGFNQTZQYTlocmdWd0lsTFBkTWsyeE44aDV2cHlWVzF5dXVUb0lJQVRhUGF1dG9yeGgwb0psQWpEdFVOZlZLX1kyV0g3aEdQUk9rVFN6VDN1Q09mcE9wWFZBSUlGRDjSAa4EQVVfeXFMTWVHZXllZHkyeXhTOGxrYnMyMUU5ejB4VE03WEpkcUh2MkhzUkxjaEIxeFNmVXFZR1RjdjdyYTNWdVdGMHJDNkJtUll3MUFYdWlKYTFYMGlaN2xiUjJ1Q1Y1b2gwSWFWN3otME1CeHdmTnlYazIxVXNxMTlXMmxrRkVxeUJLWUg2UUFqeG1mS25wNnY3SzFVVll5cjBSUE5tWnFESFNqLTNfWW9nWHl2dkt0c1BMVTZLS3NJT1ZOUzBHOW9Jb05NQm8yZ1FiaFF1NEw3YmY5elh0SGQzdzdreW1uc21MUFhuNmxFWjJEemRpMFBLdkdMOUNnVmJ2S01NMENsUHlPbXAzNEVkbGVnTlROLWtrc3JGYTRuVGFtMXhCQjFJZVlwamJuOU1QZ2c0QmN2dmw2bVVtQlZmeU9HY0NaSlB2d3VLN3ZQSXFaYWRZU3NkY2p3YXhWRGtuYjgyX0M5UXNWSUFFQk5fQjJCaDQtb3lMMVF1dFdrekJpZnFOQnBjcUxxMndTOHA3VDlkV25RZG43MnpPUTFJSlhfTVQ3aF8xbmFCdDNmZkVQSzlPa2R4aGJKSjhtMlhJRFozUmQzc2EwZ1BZMDBHaC1HQVg5czA5aGtTNnFyOElSc3hTaTNWODk4STBGaHVfSVo5Z0hpOHRRd3BtNlpZQU5qWmlJTjRMcVAxdnR0YWRzTjdfeDNJelNwZjF4WTN5ZFpLczNWc0JIWjBUUENFSU93?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Sun, 11 Oct 2026 05:12:00 GMT",
+        "discovered": "2026-10-11T08:38:16.674340+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "دراسة تكشف أثراً غير متوقع لكوفيد طويل الأمد.. قد يفسر سر ضبابية الدماغ العربية",
+        "player": "",
+        "content_hash": "200c41d6079eae650fe87b721438b5b32fbd0c636459d31c44425e8a91b14780",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 10740,
         "title": "في أنّ مشكلة لبنان أعقد ممّا قد تبدو - الشرق الأوسط",
