@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T08:17:01.497200+00:00",
+  "updated": "2026-10-12T08:43:07.364379+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -245,6 +245,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 11132,
+        "title": "إصابة قاسية وعودة معنوية.. الكعبي يخطف الأضواء قبل ديربي اليونان - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxNOU85VVhZQi1Lam1GUHFoZzZVOE9vMHJRWjBub1o5STZ5Mk5mdHFGekNQUU9qUF9YNUZac2hDMklyRWl4d2huMF9CdEZOT0ozY2xYdk1nclpLdl9TRHYwYUpvandMQUlxRmVOa05HVWFfcVYtOXI3aUllaHVGWlZlTTVrZEYxTkRpdmFidkRQN3FCQjlZSEN4T2o5NjgwNm5pMm1kSDFMM0lVXzlubXE5THZ4dm9CZV9WaGhtWmdPV1ZBTHgyWVBLUmJxanVKbWl1MUFpOVpINjg4MjdVYW1xeGhGWEpRWkVfWm42R0k1VnpQbklaa29PMWlRdkhMVS0zZ3J2dXczS0U2SDZNTmlYUmpMN3FlVXdjS3ZRYkZIOElrMi15RllDSmN0WnJqTlhKODJkd0JoTGNmNUZXX2xPOVkxdnltcTg4OHhjSFVIUTBhbXViTHBKTWVYOVlFejVqV0U2dlZQbWpjNFZUVXBiQ0M1enRMUVVOUHBkeUdBZHc2RERfWWtvV3RBcjNzbWR2eHg4S1YxdFR0RzNac2ZiVGdDb0drSThzbWd3OVJHamJWaHdubkl6NGt1ZmoyUW9HNTgySTJiV3lOQkpPMXhRd29OeGJZS0tCaG9NbnJrUFd4Tjl0cGhneGVzaXpfcjhSWDNzdllNS2xTOE9HZERHV1pSOTUyZDBKR0lnVkR3RGJoRGFOVllxQ1JIT0JLZ0NjVldnMVB1cG9BN29VWVVFTjFfbEM2ajUzZWRCdHdnODByTl9mMnV2Uk43V1cyTWJDY3pMbnFvYkFONnVhSzdVbTJLanllN1YtWDZHQnNGTXNUQi1uSTEw?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 08:04:02 GMT",
+        "discovered": "2026-10-12T08:42:43.307127+00:00",
+        "category": "أخبار",
+        "status": "غير واضح",
+        "summary": "إصابة قاسية وعودة معنوية.. الكعبي يخطف الأضواء قبل ديربي اليونان Kooora",
+        "player": "الكعبي",
+        "content_hash": "869e93f6323a16d0c38cd61da96edfcc3f11a2d8c768e1c8e36e09bc56b42479",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11108,
         "title": "يوفنتوس يفلت من الخسارة أمام كالياري ويكتفي بالتعادل في الدوري - القدس العربي",
@@ -1026,22 +1042,6 @@
         "summary": "الأهلي يحسم قمة الزمالك بثنائية ويعتلي صدارة الدوري المصري Elbotola",
         "player": "",
         "content_hash": "9a42c1577e6f571df4820cbed8440754876b8efafe05dcd2cb201291991268a8",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11006,
-        "title": "غلوكسمان يفوز بأغلبية واسعة في الانتخابات التمهيدية للاشتراكيين الديمقراطيين في فرنسا - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNa1d6MTRrTWRCckFGVkYxdVJGMUVheEZVb1kxWDJMMHdFM2xGMFJoSDd0QS1TVjEwdVgxaUVqM3BwZFYwODd1LWJGMmVXOHNPMmFkMFBUUmNLN1FoMWJNNllnUkVZNENpQnBlZ0FISnBrNGNjX1VqdkhPUzBSeVdTbmhVUlVrYm15ZWxvT0Jua3dheVdOdE9Odm5kelI1cUxmbUh2UDFoM1dJcFV2MDdNZkJUOTJibm9CTEhUU21MSUVsOTJzaGJTeWFnUmVrX1AtMmVGWU0tTHlPMlMwdEJWWHRiclFJN2xtalNyMlZhUkRFUlFnWWNFb2lEWDVJNlVlM2NIclZJS3U5OW9rM09zeWxLdUk2cDF3SVRLNHhtMS1JU0x5djFjaG02OFVERE9KcTRWSDAxZktJY3J6UlFkN05TZl9sQQ?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 19:04:21 GMT",
-        "discovered": "2026-10-11T19:59:18.092665+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "غلوكسمان يفوز بأغلبية واسعة في الانتخابات التمهيدية للاشتراكيين الديمقراطيين في فرنسا القدس العربي",
-        "player": "",
-        "content_hash": "d16cff01997c0937b8752e30570968ef30d2b797e02f1d83b8c74c0339373168",
         "sent": 0,
         "section": "sports"
       }
