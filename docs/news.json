@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T10:48:25.970357+00:00",
+  "updated": "2026-10-12T11:05:41.797398+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -224,22 +224,6 @@
         "summary": "مؤسسة الحسن الثاني بالرباط تحتفي بالفنان عبد الله البحميدي Le 360 Arabe",
         "player": "",
         "content_hash": "1715879a68dd78acffdccdfc1d5a0f5382dcbcb29abfa7bc1085c20d2f2ae4c9",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 10729,
-        "title": "السعودية تعلن مقتل 12 شخصا وإصابة 309 في هجوم بصاروخ للحوثيين على مطار الرياض – اليوم 24 - اليوم 24",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE43Y0hnN1hBX19UQ1BDUEM3RWNESnRKSGlmYUdteklnVEtQcW50OXprVXptNkFmWmNNQ0RtMVlnM2FLZ283dFFoVTF3?oc=5",
-        "source": "اليوم24",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 23:37:37 GMT",
-        "discovered": "2026-10-11T04:00:14.832488+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "السعودية تعلن مقتل 12 شخصا وإصابة 309 في هجوم بصاروخ للحوثيين على مطار الرياض – اليوم 24 اليوم 24",
-        "player": "رياض",
-        "content_hash": "8df62550e0deffa569f13014959c8089bd28d69cb710a024b63da19bf4c66a8b",
         "sent": 0,
         "section": "morocco"
       }
@@ -1048,6 +1032,22 @@
     ],
     "transfers": [
       {
+        "id": 11155,
+        "title": "رحيل المسرحي المغربي عزيز السغروشني - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPekI3TTZ3bllDNTF4Y0dBbjZSYmh6QlRQVEFXeVAtSFpxRmpkU3hUS3F0cmozM2lNNW96TUY3OG01RElFUjZSSW5GcF9QWFJjMDByU3JEc1BqM0JhbG5NWnRKQjFwX0IzTGIwU1BsZ3JlVWRzdjB2SHMxeDlvMmF2WEs5WW9GLWYzYzUxVHVHU2RGSjlVbTh6WHpRWmJ4UnZQZWVPaWFiS0hrMHFodEx0LVdwWkhWd2tIaklLLVM0QVJkNTliYlJxS2FZcDR1U0xpMTRBWm5lSDQ1UXlmcWk4Vi0tUmhJOXRJY3YzTEJOZHh2ZzBGZm9vNW50Vld4ZFVCdkQ0T1VUQ2NBSklyZHhYM2RaV3hqLTB2NmFVTlEwaVRhd3ZmRE1aeV9OTHNvUk9nUS13bGpZZl9reVRJWHpndWRyZngzdFXSAcwCQVVfeXFMUG1kTFMyb21TMkh4dkdaQXRNbGdsNl9BbGVBdDBWdkMyX2NaTmdReWN0X1BFdUFGVFkwZ3lhSnNnWklSZlUzYk1nTExkRkpIWUgxa3U2aXoxRVM0eHBqVXdkYk1oanV1akd0bjJxbi1zOFZKMHBhdTVmdWxEVUE2aFNRVGhOWkkyblJMd0hYWV9sMXhGeVVfbW1OUUpkeFh3cXpJZk5JOHRNWjFkV191YjBxZDJpZHZnOTM3NjJpbGJCdk5DanUtazlfdE92TzZ5YkJmbzlPZFE0bVJhNldDTW5jZmNndVVsbHBLU2RXd3o5dlRGdTdTZnA2d0JuVzM5NEl5M1dfa0lsNzRJYUxZX2U1WW83UEhqRkFjbEtDXzNtMExadDRGWUNXYXYwWGMwTV8tcnUwUFBSQzl2ZFRTRmJiMlZHVWhsWjBGeGM?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 10:32:16 GMT",
+        "discovered": "2026-10-12T11:05:35.299944+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "رحيل المسرحي المغربي عزيز السغروشني العربي الجديد",
+        "player": "",
+        "content_hash": "af6b9b39e8ee5f38d93a645405f47ad84eea8d6e8f6f20cfadf0649474c0b26b",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 11144,
         "title": "لوموند: السعودية أمام تحدي الرد بعد الهجوم الحوثي الأكثر دموية منذ عقد - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNTm92c3pwd3VCNGJWMjVydGtlQUMxU1VaN2dReWpvWFpVbXpvb2hvVWJIMlJ3b0J1NnpCV0hJSXFBUmtjeTJIOW5WTWNveElUblVjOFlpRldVaGtURjVscE42a2FEaVdLOXlSeXAzMmFIdlVyZmZxa0NuWmJua3dUS21lTHdYa2NFaWdDZ243UzlhanRJeElWTkJxVmQzNWx6cUtDQUlKUFRhVHgtT2RpRXl6d0JqdmRZaHo3cHZydmE2cU1VM1gybmYtN3VOQU03VmZjaml2VXVsTU16NGxaOGRUZWNmRDF0emx5TUsyQWdLZUZ5dWFDQmtCaGl4NmRZVUtzQlNheXJNR1FINzhZaVJ4dTlBRXdXUTR2MmRCUUQwcDZqMURUR0xiXy0zdGhpdlJ3dVo0SUZRbThMXzl2QUZXSE1xRVk?oc=5",
@@ -1060,6 +1060,22 @@
         "summary": "لوموند: السعودية أمام تحدي الرد بعد الهجوم الحوثي الأكثر دموية منذ عقد القدس العربي",
         "player": "",
         "content_hash": "6169e3ab7044f2020d0c5a1a3f951d5e7ef80ad567696706110e1c4c70430a75",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 11152,
+        "title": "مواعيد مباريات الإثنين 12 أكتوبر 2026.. بيراميدز ضد سيراميكا ضمن 4 مواجهات في الدوري - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaRlVubE1BTVV0Z0htSkdkZTl2QlA0SXNlS1hXTnhON2ZxTHMyd09hWGRHZVktWjM3VFZxUHRrM0ZISTAyNWhVRGlCSno4eDdl0gHiBEFVX3lxTE9tcjEtZG9yVThhQ2wxR0lQa3FoTkY5TnY4VzFTZURQVGpXOVdJemI5QTJqRUx5UFBCSW9CRF9ERmJxa3NuQlp1MV82aFBlbWJMSUtSVGx6dEhTdE1aakJlWXpWUkxON1paQlZWWUJ2THFuREF4bGwzNWhKalB5aXpaeG4xVGNfRnBfSV9CRmxXMkIxR2hSQTY5c2p3dm13UDRtaHc0eG5JOU9Lb19uMDFCbUh4MmRHV21FdE0wNGM1cndOdXZUYTZ3WDMxSkpjd0hjcVg5MXR6SEFzUl83LU9aVnhwX0F4Q3hKRnpzODQwM2FGcDZsVzBLMl9hdkl2LWh0R3p5TkQ2ZmhqZzJhREJfcXNaVEFtaExKVGt4bUs0YUhBR1ZYQmJjY1IyaFhrNzhvYS1EaXVCWVVTSGd2ZmRIOHRhc3lBN2NqbHotcTZUVXNzNzJFbFM3UXdwQmhBbFpQV0JLemZkRzk0bnRMdlpTc1hSMk94d0hBS3kwUjUzdFl5RGJwUU8tNE5zTGxzUURzWmtvb2xwcE1NRk1uTU4tVnpNNDRHSTZEQ082QXRxSHNCdTBENEsyVkpDUTRuUGV2bjQxeFRkOXJYRXFHdzZET2tPcGNaVmxaaDU2OFRtNjZ6UDZtM1NFMy1MOXNDVms1ck9DU1Nxa1Uxd2Q0Vnk5Tl9VZF9nX0JmR2l0dUN3OWhiUHB6RjdhVF9PUEJ3cS1lblZ5cF9Vc09WMG5LU19EbXBGWVBqUEtQRmh3eW5LbDY1TGt5NWQ5RUlUQUxMbHVSMXpPOWVJRHNQU28xalhMVHc?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 06:41:00 GMT",
+        "discovered": "2026-10-12T11:05:23.842467+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مواعيد مباريات الإثنين 12 أكتوبر 2026.. بيراميدز ضد سيراميكا ضمن 4 مواجهات في الدوري FilGoal",
+        "player": "",
+        "content_hash": "dd18249857e3adb08a14da9f0213440fd8aeb0730fed9391802d1af2339e242f",
         "sent": 0,
         "section": "transfers"
       },
@@ -1510,38 +1526,6 @@
         "content_hash": "c26796bad16a239df2201b20a14d3ef6ca70ab161a371838c2b71932f983efd6",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 10740,
-        "title": "في أنّ مشكلة لبنان أعقد ممّا قد تبدو - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPZFVZQ1JjODRjRGJDNnYyaklWcWVsb0lIVUhWVWFGRnFrTDlCUkhYVXZPZ0hDejlfcUVMdjI0Wi0xM25JS3hXV0t3NXNwZTYyLWNHQkJlVGFyYXVaQ2hLandMT3hmckRnZXM5djBnY1lwTmY2UGM1ZlN6TG1xX3J5NC1kQ2NLTlNDSER6aHk3WHBHYzFPSFJZaGNsWERadWJNbEZ0eU1aMzF5WlFSUDBCdHVkcnZWaVIyVXlUZkwybWJRczdGQ0dxR0JFZ0E2UmJfSkJXdi1hYnpxYUVQTjJTZDJkcHJScVo2UlU3MjZKZjhwaU5acVVXcGZIRVVxYV96ZWdFZ3duN29HRDlEZ2V5V1MwZ3hYUzdxNHFrYUpfakV2eHdLZU9DaWI3ZzFGNExhUjVHQ1VQdVdEQThPN2I4MHlPQUt1Vm9Tckc0LTByRnZ6bFBiYnhIanlMRQ?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Sat, 10 Oct 2026 23:13:24 GMT",
-        "discovered": "2026-10-11T04:38:24.420692+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "في أنّ مشكلة لبنان أعقد ممّا قد تبدو الشرق الأوسط",
-        "player": "",
-        "content_hash": "afdb7adba0045ec8cc9701d067808ffa3bef8b13046e2262e3888024a41dd0f1",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 10779,
-        "title": "توقيع اتفاق لتعزيز المبادلات الاقتصادية بين المغرب وإيطاليا - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUQ1VxR0w2YUJzRnFmTzRtalNmc3VRcDlxUjJLdy1laUJzTVRTTGxNUllMclpaVnBwZElaZWZrcmhZTGcwYUJvV2lkMUZoaWdUYktfYjc0SXBfNHRveTRmZUM4VlJ0MDg?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Sat, 10 Oct 2026 23:00:41 GMT",
-        "discovered": "2026-10-11T07:30:33.130339+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "توقيع اتفاق لتعزيز المبادلات الاقتصادية بين المغرب وإيطاليا Le 360 Arabe",
-        "player": "",
-        "content_hash": "65d76dc6a1c0fc8b9fa5d1a3bb34b86df3cee7b7531edd3afe72d832e8f3df9b",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -1558,6 +1542,22 @@
         "summary": "اعتراض وتدمير «كروز» و«باليستي» في الرياض والخرج وخميس مشيط الشرق الأوسط",
         "player": "رياض",
         "content_hash": "f9073799e0c2ca9d6aac7826697584b4d12922ba7cc7c659d6e8c6b6afa18102",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 11153,
+        "title": "وزير الطاقة السعودي: التزامنا تجاه شركائنا مستمر - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOOV9MUTdOT3ZfQkZkbUdOWEd0ZTk3dmtPaHhsaTNHd1I1SUZINHdpdFNuTV9Td1hLczNVOGpLaGlaTE5PMUVPWEwyMTROVG5VLXBINU5GNERRMEd6LVdIRzZxcC12R084d2Q3NUhkMWRvOUpPVC14X0pQUktDdDVvYlZBc1g2a3phZEpTbWNZa044MVJLXzlTZE1DMHZJdDR0a0J4SzR3MU5tM1NYWjBoa2gwcTM2d1RiaE1NOHRsQnVxZzRvNmFRd084d2JZcjlBajFBNUhwdHRUMVVrWFpGMXNNNWZ6LVVTcU8zWFlPQjlVVjZxeHZfTFVCdWhuWTBvajhEN09CWC1kZWYtV0Y4bjhqZ3dDakxMZTVqbTlUTVBDSEQ0a2g5WERxVlNWNm9kdHNVbGtMdGpJSTRBUDN3NVZ4V25BUWRW0gHOAkFVX3lxTE9iQkJuUk5uNnFUWVRFVUF3RThUVE94aEptdDV2ZVBDdGZHMlpBbkhwQVl3MHNfSkFueEc4YVVTZ0RVM2ZSb0JwZzBFcWJiU2JCMWdKS3FvLUNySHYzNDg0eVNYbEdmUkE1YTBQclZPQS04YWphbUQxNHROUy15aDBkUUpKdF9CbFQ4U3RkQmFQSUVlU1VXeVBCZ0V1aXNHOGdGaWNndUs5U0hZWTZod0JGaUZDY0VmRm5qeXl4aXFpbjZ0U3o5azFOUXd4TER5X0stQXc4TmFZTWFPQVd2ZUprMFZOWExwbDdhM2xWTm5XaFFmajlZeGp3Sl9VVXJtVEFtb1pJanpLNGNCNEI1SDJwSjFhSFo2Zmc1SDA2T3UyVWhzZUcyaHRNMXhsWWlkZXhjaDBBUldEQ21ya1NGNW1lcDdES3V1Wl8tUWU4X0E?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 08:13:32 GMT",
+        "discovered": "2026-10-12T11:05:31.507997+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "وزير الطاقة السعودي: التزامنا تجاه شركائنا مستمر الجزيرة نت",
+        "player": "",
+        "content_hash": "a992bf60e61a80565a2f3fb3c7f7c2677c7dcd5e84f4ef94770b6691e01315f7",
         "sent": 0,
         "section": "middle_east"
       },
@@ -1606,6 +1606,22 @@
         "summary": "وزير الطاقة السعودي: لا مكان للخوف في قاموسنا... ولن نفرّط في فرص تحقيق رؤيتنا الشرق الأوسط",
         "player": "",
         "content_hash": "9be37f5d4fd47ddca809f41c866718acee0be39116d495db949a6e714dd5bbde",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 11154,
+        "title": "أرض الصومال بقلب حسابات القرن الإفريقي.. حوار مع وزير الخارجية - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOMnljcGF0aVpRcnJzLURyTmtaQV9Bb0tvNHVJVTlWQmdRMXZPQ0s0anBOSWc0NGlGclBsVnVCUFRlNzh6bGkxRDBPWVNsSXlwWXBuOXRPTkk0Mk13SVhJVVQ3T0gzMmJ5YkV2dk5EVnV2bkRZY3N1Z0lUdkxWQ1RMTm80TjlkWG1RbUlzdmJrcG5yRDZQQjZkVE9DeE1fZ3V4UHBoTnpDN1lCdlpUclBfU1BHc1VoMExkWk1yclUwYUR6ZEJxVlVoYkFIaGJGbEhOSkU4VnU0MkN0dVY2V1JVNmI5NmNESkpPcEpWbGJsUDlndlNzQ3VjTG4tSjJoTEJSd09aR1N3ekl3YWx2cHo0eWhvbzB3QUlhNTI2cXI3TXpkZUFOQ1ducGNxR292OHFLMkNrYU5WYjhqbERNRHpkVHZiZmUtVEtWS0ttaXJxZER3WnlSQUZ5VllsaGR4SGNPdlZ4QWtQRlhFOThqSGc?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 02:26:22 GMT",
+        "discovered": "2026-10-12T11:05:33.134611+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "أرض الصومال بقلب حسابات القرن الإفريقي.. حوار مع وزير الخارجية سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "f5a9e0fea7af27d69c15ba14af0c469fd2b61b5c2fe67787e4fa141862dedef3",
         "sent": 0,
         "section": "middle_east"
       },
@@ -1896,41 +1912,25 @@
         "content_hash": "95c1f1a28f44329cbcb7dec5c580e6356d15ea572a9ac60ab5444e262e87bf30",
         "sent": 0,
         "section": "middle_east"
-      },
-      {
-        "id": 10670,
-        "title": "12 قتيلا و309 مصابين باعتداء على مطار \"الرياض\" والتحالف يتوعد بالرد - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPdUlRTnkwSl9aVURBS1MzS1EzQ1JKS0JLeVZIa0dLbjFJbFVGTDFudGRJY3BKTkplMzZNb2dOc0I1STA1M0YxQ2VudHVSb0d2bUhWQkx1WXdQeDJWbHBjNmlrSzZmeUh6bktSWlloU3RheFp1OWozRkVnX0FWSjJwMElNX0FzYVNYWUZTWlA3aG5SUndhUC0tdWRqY2MycTVjYnVRLVk4M0J0bW4yb1AwWGZJUjV4NTU3ckNmQ1Rncm9GNGVFYnlIUnpPd19RVkFoeUE5VjhJOTR4bFpQRFRTYi1XY01ka2tBX2hhXzMzZmNxaUhiQnR2NG1xQVAyTWdMX0dnYWFJREh6Q08zNEtHSGZIQTR1eE93RjgzY3l0SFVSMFVlbk1vbHZ5N3dNY0xpdk9jd2Q3Y3NpendzaG1QSjVyby1JUnpIcHJnOW1USHA1RUXSAdgCQVVfeXFMT3hNd1dJWjB4UTEwVGtGT3BnejRjYzlia1pUa3lWbFdFdVZTOU1FS1dJQXJxc3ZEZkwxNkt0LVVBSFV1UWtRaFRnd3dWMkdWSDJPbUNCdnhGZzR2UXZGSlk0ZUV0NU1JUVVLcDJ3M2Fod2RDMkRyT0lWaXA0N0lrNlh5TjEtRjNLZVdqekowUmc5VzZ6alFuLVBvLXI5aW1TV1RzS2hLM19wX3g4eTVWem1hYjJ2N09Bc0hsdjVZTzdhU1cyX0ZhTXljZUF3SEFhZEF1a0QzOWZsQXhNNnBrVFIwR1ZqQUNBLWZHNGY1SWVqSFM3MlUzdzkzRW82a3pwMHluNGx1d2xBVC1WX2kwal9yWU1DUktDVVlDSTk4QkxPRTJTTmJiMDFHTE9fVDl6RkxhTWQxUEVWUlkwallISEltTlBXZ0xTZ3pkN1RvTy1kRkJHbTg1c3M?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Sat, 10 Oct 2026 23:16:39 GMT",
-        "discovered": "2026-10-11T01:36:07.751097+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "12 قتيلا و309 مصابين باعتداء على مطار \"الرياض\" والتحالف يتوعد بالرد الجزيرة نت",
-        "player": "رياض",
-        "content_hash": "47e2b50c012624b4fa4a827de413d251c598b4adb4aac00a107fbd3bf6ed8f15",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 10737,
-        "title": "هيئة بحرية: حريق بسفينة تعرضت لقذيفة أثناء عبورها مضيق هرمز - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxQQjZVTXJWS29hMWg2WmJiQlpseGhkazBZRDRvV3g1d1daMHJwYmZlYVRfZHNNaW95NUNQVTJ3LXh0VmNQWkFXaklmN1FYRWE4VWhnNU90ODgtWWs0YmxZVFlBUnhBQzdGT081MjlSV3l0TVgwWWZ3cHFSSVc4MlhUM0FfVUpZSVNEWWNGX2pYOC10WUptTk9Dd3ZINWZ2X2NXUWhGYUtPXzROWERVTlNZYjJIeUZUS1J4VklDSVpuWlJDc1BSaDgtOHZpSHhJSmpNc0lyT1RhdHRMZFRSQXFHeDVYNm9HclBTTmVlM2d2N0E2WGVRMXlSWXlmREIwVFlMekFPTW4zalNWRVQxSzVBdk1hRGZJMl92eEwxamRVRkEweW1QY2hpempLbG9WSnE4bWpjV3FCTWRTQlNlVnJMby01d1hpZThYM1NKVmxNWVpxTjlmZ0tNS3FYUzJ4Rmt3eWxwdWtHS1oybmN0WUl0c2pvMUstMEZSZlREcFYwMzd2VWJDZzgycEdsMXpaZWxKVzYyamJmcllfblhZV21zRXZibUl3WGRBX0c3Q1Y4U3pLcTBiVC1ZTzJMMGc3WFZhci1TOEhFVTNXeTVWMExxQ3RTWEkwcE94U3Y4RWRBeVNsQ1h1eXFUSC1FVTl2cXVTT0tn0gH4A0FVX3lxTE10YnhnOG5CMDRqZmg4d01yVzRhWUwydEoxUjZCRExnUnlSUXR0aDNiaEtfaEFybHB5YWdOS3V0ZnpuRnR0MURpSzc3bDdWVk9ORUg5NkVOZWhtVUtvRXdBQWdQVGVLTmF4bWhkdnk4TGdsYWdKOXNjN21xdlZmcDktV3RqWVh0THlNSV90dUJMbkNsMTRSaEZSajV2NlB1Q01ybEo0U0I4M1Q0eXU5M0JfZFliUlUySVA0T3FlN09seHFUV2dNSjUyVmMwV3lYeDFEdGh5NW9PdEFQdEc3WjM2N0lnY2R5bUFDcm1mck41azl4dExaZjNpNTI5MzhjbUJOS2dndTE0cU5XcWZMb1dWYVVyUGJ4c0RfVER3SXB6ZDBUMjNFY2lldE5iajFyc3A5ekFhbkpzWktKdUwxMzlBSk9halNJOHJfWHZ0RExQbkZtM3FwdExaSS1GX3R0MV9jR2pPM0RQbWxOczFfajhZRXZOaVV0VVBMcTBVVmN1d0d3V0xvSllSNFRxQlFLUHpyZFFhUkdsLXc1cDRDbXh1c0NhcWxsZ1pZckJnT2xBYXNKM1A4bkJnM2JUSmNFbzBsaDNvb3haNTdJaFo3cnlQenFVT1Rmek5Zdk1aUDh2bnJpMzcyX3JVOWprS2pjcG1tYUVKMDRsOQ?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Sat, 10 Oct 2026 22:29:47 GMT",
-        "discovered": "2026-10-11T04:19:00.928452+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "هيئة بحرية: حريق بسفينة تعرضت لقذيفة أثناء عبورها مضيق هرمز سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "0c913373ba816cae60c052f8a310dff64d866bf954b245ce06af4940d32c0551",
-        "sent": 0,
-        "section": "middle_east"
       }
     ],
     "world_arabic": [
+      {
+        "id": 11156,
+        "title": "ماذا نعرف عن الهجوم الثاني على مطار الرياض؟ - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XTG9mSExqVHRSOFo1Vk8tMkNWamotTlZJbkk3MGV0N094M2NUNTV2OXNnM0J4cUtlLUJsYWwtUFZ0V2QwelY2SU5Yc0JpMjdrVmtweExSNDVTeXRsMmfSAWNBVV95cUxOZ1ptamtqWDFhb2JZS0V1SG1oMlBxLVhxb18tc2tSZWIxNXdtVWk5YWdHUm9veWFSeHVwc1VYZFJWRVdRRTFKOE9yRU5lNnRjS0VEQUg2YnNabzhYem5wV2tBNTQ?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 10:56:09 GMT",
+        "discovered": "2026-10-12T11:05:38.383375+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "ماذا نعرف عن الهجوم الثاني على مطار الرياض؟",
+        "player": "رياض",
+        "content_hash": "03abe3a1439a87bb878ec81f8986408f521de2060ee25715e1c1c26dc200ee53",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 11134,
         "title": "السعودية تحت ضغط الهجمات.. والرياض تبحث عن حلفاء جدد - dw.com",
