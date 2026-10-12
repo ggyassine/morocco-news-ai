@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T22:56:00.405823+00:00",
+  "updated": "2026-10-12T23:09:48.207138+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -498,6 +498,22 @@
         "summary": "برمز التاج.. منتخب البرتغال يحتفي بتألق ترينكاو أمام الوصل Kooora",
         "player": "",
         "content_hash": "3f2cd3fb1864a934b78cfdfa856abb35a1c7ae7c4b821c27b8b07ccd393893f7",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11418,
+        "title": "50 هدفا أم سحر المراوغة؟.. كين وجمال يختبران معايير الكرة الذهبية - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNel9PdTFReExVcUVhNjZrT25vcEluLTBfNl9TbDNxbWZjQ0ZCMG42TGZNZUhISFdxR2Jvd3pMUVhEZ0ZLdThZZnJ2Slc4MXBHMGptRUthMUFVQ3pNbjdFdl84dllwOU1sSlZIZHh6MDhfWF9XSTNzN2NMc1pFczVtcnZOQlUwWjg1MGhPUDN2d0k2ZnRpcTFpU0c0SUljX1dWSzZieE5Edm1SaDN4UjQyRnkwelJEcUNrbUktZXY0UGFZVkl0OFoxTFd2Q21JUWNKM25yaWp4R3VvTE9McDJYbUV3QjN2WVlkMzIzRHdaQUhEcjlKaFFoamlrc1RXd29LQUt2ZWVzSV85a1Q5ZGx4U3o2OTU4VkhsSTZZcWN2VE80SktrSkxFV9IBrgJBVV95cUxQc00zRWZ2TTVLTmhPZEFOR2tMNlREdEFWWFhfaDdiUXp6VEJWQ2Q0aHp1YmpBamRzbWw2SE94UEJHUzFhZTZlbjVLNXR4cFdfUUpFSHFQMG9zTGpRT05JUmhsVThNZk9OWkJJcWtKcWZpc2VKQTlXajZsemxGd1V1S1pjS0RSZndqM0FXY2RmdVJVcDRlSXdqMTRwUmdlNEFqYi0wcG56bHVsUlpCVnVhbmpadG40UW9fSWQtTmVaY1paZTV1Zjdrc2xDS2hncDFQcnRZbWd1ZGRhT0J1VG1pa0Z0aWhjdFA2QjZ4VmtndkVsN1R1Z2hMZ1czMTBNQ0RoVXFoa2Q5alFSM0xkZFBpSVJDX2ZtR19GX0JCVk4xY2NGRGpfcWRLRnI4WmctUQ?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 22:30:00 GMT",
+        "discovered": "2026-10-12T23:09:38.769528+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "50 هدفا أم سحر المراوغة؟.. كين وجمال يختبران معايير الكرة الذهبية الجزيرة نت",
+        "player": "",
+        "content_hash": "6819dc314186143686dd236c7b291a0708d52baab96277ffa8b29282a306f9ae",
         "sent": 0,
         "section": "sports"
       },
@@ -1266,22 +1282,6 @@
         "summary": "جراديشار ضد نذير بن بو علي.. تشكيل مباراة بيراميدز وسيراميكا كليوباترا بالدوري يلاكورة",
         "player": "",
         "content_hash": "87b01bfae66bec31f20a7745bda52a2357059d4a646304136e62929bc03f9e32",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11251,
-        "title": "\"أي مطار هدف مشروع لنا\".. ما حقيقة فيديو تهديدات حميدتي لمصر؟ - CNN Arabic",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNll1T3kyYldodDNna1NqcnVhUm92OVNNM1JrLTlsMHR5c1E2TkctUkpjVjg1WFdXSmh4SnM4NVRGTVJiU1hQT3A0TzgwbnB2ZUtldnR2RVVPY1E0SlpZS1o0V1dVb0xiZ28xTS1OREJyZnpFTzZjODRKdjNTMWY0RWlibTZOVXIwZWhOejFqVUkxZzJqWjNuYnRWS3g1WE9jVkIyU2V0V3hmUUUwVkZXeFQxUkpFZVhXMlJKOHpPajhTMmYxRHpfcElOcU1UUQ?oc=5",
-        "source": "CNN بالعربية",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 15:45:05 GMT",
-        "discovered": "2026-10-12T17:35:58.210397+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "\"أي مطار هدف مشروع لنا\".. ما حقيقة فيديو تهديدات حميدتي لمصر؟ CNN Arabic",
-        "player": "",
-        "content_hash": "ed589f7e33a152326746222fde8a06da7f00e59f0c814d916dfb4ced0474544b",
         "sent": 0,
         "section": "sports"
       }
