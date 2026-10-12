@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T05:36:43.341225+00:00",
+  "updated": "2026-10-12T05:55:28.604076+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1464,6 +1464,22 @@
         "section": "transfers"
       },
       {
+        "id": 11110,
+        "title": "ترامب بعد إدانة زيلينسكي صفقة الديزل: \"حان الوقت ليكون لأوكرانيا رئيس جديد\" - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XT2h4WkQ3eExCakU4dmJkclFlS1dod0wyOXlPa3pCSWZzT0hZb0RXWmthYWpUMFhVQWlXbWpnU25VUnNrMm9sNTFOdnR3ZjRpZklXZC1jQzVJMEt3LUHSAWNBVV95cUxOYWlJX3F1eWlhdF8zNXZQeHFLc3FxdTZoRzBLbGdvVUlJcXYxcHJVVjJMRkRCR09HTThYZHFSTnJyMlZIZ3dzamk0OENPaU5JelNHel8xR1ViTVFvSDZHaHVxSjA?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Sun, 11 Oct 2026 05:09:20 GMT",
+        "discovered": "2026-10-12T05:55:25.761762+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "ترامب بعد إدانة زيلينسكي صفقة الديزل: \"حان الوقت ليكون لأوكرانيا رئيس جديد\" BBC",
+        "player": "",
+        "content_hash": "c26796bad16a239df2201b20a14d3ef6ca70ab161a371838c2b71932f983efd6",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 10740,
         "title": "في أنّ مشكلة لبنان أعقد ممّا قد تبدو - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPZFVZQ1JjODRjRGJDNnYyaklWcWVsb0lIVUhWVWFGRnFrTDlCUkhYVXZPZ0hDejlfcUVMdjI0Wi0xM25JS3hXV0t3NXNwZTYyLWNHQkJlVGFyYXVaQ2hLandMT3hmckRnZXM5djBnY1lwTmY2UGM1ZlN6TG1xX3J5NC1kQ2NLTlNDSER6aHk3WHBHYzFPSFJZaGNsWERadWJNbEZ0eU1aMzF5WlFSUDBCdHVkcnZWaVIyVXlUZkwybWJRczdGQ0dxR0JFZ0E2UmJfSkJXdi1hYnpxYUVQTjJTZDJkcHJScVo2UlU3MjZKZjhwaU5acVVXcGZIRVVxYV96ZWdFZ3duN29HRDlEZ2V5V1MwZ3hYUzdxNHFrYUpfakV2eHdLZU9DaWI3ZzFGNExhUjVHQ1VQdVdEQThPN2I4MHlPQUt1Vm9Tckc0LTByRnZ6bFBiYnhIanlMRQ?oc=5",
@@ -1894,22 +1910,6 @@
         "summary": "الخطوط الكويتية تلغي رحلتين من وإلى الرياض سكاي نيوز عربية",
         "player": "رياض",
         "content_hash": "f5c37246a40941f23ecebd9aebfc7af7ef0b3b88982258e758e5f97597f993f0",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 10691,
-        "title": "شهود لـ\"فرانس برس\": عمليات إخلاء في مطار الرياض - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNNmxkNENqaEJLR1ZlNkhLdmQtXzBTNGhiNGtuTUd3RXNjSXJ3VEozQVpSeVVsSHJIc3Zzdm5HWXJ4WWR3YnEyY3VaeURtMy12VFhGallMTnp5TFFIOWQxN194MkpYekx2LXZOV0x5UmQzM1dvM2stMkprUXVZOWdOOE5LbHdWTEVFTURROHF6ekx5Vm9mVTBwVTFVU2dZY1VkanVNVzl4NmpTVDI0TDhEV04xOTdTczBDZnFNZzRveXk1cmdlZzVuNUV1MzRPUzZQcm9fcl9lOV9rNkRpck00MXBaUzNuTnlva19qa01hQ0l1bkhLWFZPb1lLQ2J2cFUwTzNtUEFHbTBFV2RfTWtTcDNmd3E1Nkk1Z0xHM1lYYWNNV0VzbG1wVHZabUxxQ2RqNnNETGJacUg3OUl4dDN4TkNHTXd0OUVSZmM5cDUzVmFfc3RTRTFPSE1SaXRYakZxcWlDUG1uQ3VGVXFGMWhZcEtjZ0Vvci1B0gH-AkFVX3lxTE11dHhPSXNGNTFMSUJoTUI4RFR5V3pGSWNfN2pEa0R2OXJRWlVSRjcwWWYwejRtWjcyVU9xNjMtYmJHMUp2Wm5CS21NeTVpRUhYblFkY0U2Y1A0ank4ZkJCZGVadGVOMU5qbmsydFNsdmZtd0NWNVNxbmZYdERzV1hEbFJUOTN2XzRmcFJwWEV6OTN4V01YUjNPUDhXV09NX1dobzhkQl8taVpCc0ZPS2dIcURpdVRkbGZSMm94T0hRQmpvSlotTUhPNG9TaDJtdHFzQ2V1bUNSOUl2RDRINkxheDM4ZU1ERU91X1ZSbWpKcTg3MWJxLXQ2VjQ3ZG1nZVlVWGtheFZLVm9CakF0YW5yTUR3RE9kelpMZDJfVkZneDVKWmhXYVlzdHZYaW1FYWdLU18tbzZMenBwMTZ3SUdsUUphcTVReUFWcDNnejFtWTNmUnVMdEZCM1lLU2V0VzVtR1JOcnA4QTZYMFdRVzlvcFpVT0NCQURYNEFZN1E?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Sat, 10 Oct 2026 14:25:14 GMT",
-        "discovered": "2026-10-11T02:03:15.445586+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "شهود لـ\"فرانس برس\": عمليات إخلاء في مطار الرياض سكاي نيوز عربية",
-        "player": "رياض",
-        "content_hash": "9a12da19e304535b5ff1dbcffd1d9cdbe312cc811f54be7983459cfc39f08f51",
         "sent": 0,
         "section": "middle_east"
       }
