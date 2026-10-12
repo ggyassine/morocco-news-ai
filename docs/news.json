@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T19:07:12.744654+00:00",
+  "updated": "2026-10-12T19:25:40.958492+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -389,6 +389,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 11312,
+        "title": "مصادر «الشرق الأوسط»: محمد كحل مديراً للمسابقات في رابطة الدوري السعودي - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMisgVBVV95cUxPMjU3Mko2OUotdEdBY0ItV2lIUHNXdWJyd0NOOTVrSUNSaUZVNEhkOU95ZWZTNV9sTjJDTXpvRG9fazhNY2c2QU0ydDVCZUZfV3ZIZExiZm1uM0d5T2ZMdTc1UkxYa1Rsb255ZkpLN05vN0hocEtScGRQVHhfcXVsWmdPOXRJTnhVWXBhUUNBWHdpd1BxRlhhemNpbGlkVmg2VENkWFlIR0VkZ3BqUE54aDVOeVlpT2ZYWnc0YTZZVjQ2RUlSdndtY3VTZVlKV2Z2Y1ZDUFFTV1J2cFZZMExUNl9xdEhnM1lOTm1HeUItU25PaXBCWEI3VlFFVFNNeWptaWloc2pZMFNCVUVneHFaenVBZnNtZ0R5aFVjZGt5VzM2UE5UcWY0U1ZrSWl3TTI1Tk04UFpaM0N2elkzb29FMzdMV0wtZERtY0VvbThCTWdwSFN0enQ0ZkgzNTU0c3ZWRzk5T1I2MERsazFzU1VpbEVZamdmU1RkZ1ZIdm5nMndpTHhHaC0yRzI1eDZSNndDa3FmVzhScElzdmpFTGZFUHdaRWhLcUFFM1A1Ul9XT3RvcWFJNl9XTWkxclhIYUVrUkRvQ0lwSk1FdmotcWdsV3hNRnI0WU91djBHeHFaNHRQTmpvb1RmZE1ocFdPVGlCTjgyMzl5RzhoT3M2VkRzR3ozYUxJV0FzSUVFWl9GU0RZX3hXRUlsUHVfR2dxcWNTd3lPTXRNWmxLcmtyVHdJOE5YSVF2WjlWUC1HT2Vkd2pnU1dfRU80RFB5SUNpWXFJSWpxWVIzWnl0U0ZuTks1OE9KRHJ6UzhzQXFsYWxmN3hPTjdHMFdSVG42dzR3cEozRkpMc0xTbnJpYnRYeVlsU29yTURGc2NlT3FQXzBxQzhIRFRIbWlPcDlMTVpPeEhfeEE?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 19:20:05 GMT",
+        "discovered": "2026-10-12T19:25:18.918992+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مصادر «الشرق الأوسط»: محمد كحل مديراً للمسابقات في رابطة الدوري السعودي الشرق الأوسط",
+        "player": "",
+        "content_hash": "26e04a560a57770ef601966520f726b5e14bd0f99984b8a86838817ea123029e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11311,
+        "title": "صاروخ باليستي يؤجل انطلاق مباراة النصر السعودي في نخبة آسيا! - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi3gRBVV95cUxPUk0xblNMb3hxUGZCS1BYamc3bHRYSG1TLWRDYTA2elczZ1pROVFGY19nY1JGVlFaVlRZUnJPZUhJRkRjWEh3eG5vLWRoTWY1TFhpYmNoN2lHbC1KR1RCcG9GRVlZc2RsMVdHZ1E1NEM4eDRFa0Z1SVZqNklfOVhyb1N4NG9mWjJlSDNnelEzOGdPV2I1TW5aOXg2RjZ1YTA5ZUhxajZyVnJfU21GcjZkVlZLVDFTWF9WeUJQMEh2Zlp6bWV6aGZCcFpNSXdNTlVfcnR5WVBrb2ZiNXFSMFhRbURNZElkbld4clJyQlNuRFdoQnB3Um9HNXNSLVFORGVjdTZvRm1aX0VVWUhGa0Eybkw4bzUwbDgzNV9jUGNVT25zazN1YUxGbkdaS1pvN3EtNk16QVVkLTdOV3hvdUFhTmdveUpFNTRFdXZkcHpZczRRRmR2cW4wU0YyTzRYVW05WVkySmJCRWhOX0dTMGYycjhZVk1Cd19hSUlKTFVzUE1TdHJZZVhoLWpyOXBVdGVkc0dnbGJiazkzMHltdGFnRGFJR2Z0LVhWQko3QnZFUVQxX1hvcUE5c2JEM3lFSTBUN1EtckpGdDNZdExwNzJIVU03TWhsbWZ1eXBVenVnR0RnVXgxSU1XNGw4MmZmUF9nMDVKVUxabDdkRzc0SGtFbUFJNWNKVHRPR092N0JXMnoyajFiZUxhMUxmQmlOYjhlRFd4b2pqeEx4OFp6MVFVd3JidlNqaU1PR1ZCdENyNFdtZkZQbjNTN0FFVlg5U1NYSm1KTEsxbzJmOVBpcVE?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 18:51:04 GMT",
+        "discovered": "2026-10-12T19:25:14.484082+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "صاروخ باليستي يؤجل انطلاق مباراة النصر السعودي في نخبة آسيا!",
+        "player": "",
+        "content_hash": "90c34873030eaa8cac1a133c95268079d33de0848b09edf08258485b8189ac07",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11295,
         "title": "أهداف مباراة مودرن سبورت والشرقية إنبي - يلاكورة",
@@ -1156,38 +1188,6 @@
         "content_hash": "44404e07e883729be4ab33c3041f9a48266d3d7340bf08146d8e9f92b4ecd6ab",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 11270,
-        "title": "منتخب السعودية للسيدات يختتم معسكره بودية ماليزيا - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxNYldPXzBabElDakQ3VWtFTTNjbVNhODdkbWs1d1BuQXFKZEtzUDBSajFhTHZTTWJjbVNDdFNBWTU3b25QZzFMa0QwVHFFbmFCOC0zWEJ0YUMyN3BzSWx1cFBkY2ZTY3lTZGo4aW5vc1lteTE5SlpPZW91N0tGT0JhUld0V1hoeGd5dDlfeU5ZQVR1MTdoZGdHZzgtQXFFRkllOUpTdVVXN3hsenNsNGQ5NFZIaWw0Q3BtT1ZqaTZDQUNmYjFXWHRkck5NdEtmaGkzY0RHbHpCOHlYaVdGTm1HTFcwM0JtWDZ1V0lsRXZfRlFUZzVTWDZqemNneDdNblE0VFdPX1U0RnZ3dDhRMUt0b1JhMjJ1NG9CUFFTeUo3VF9tdkwtUk1Nazg4bkVSQmR6YjBaUFMwZC1lNF9lRTRLNkRuUGFkLXY3dGJHcFlsSDhTU0JPeWk3OTZrSVdibDBidEN5QklBVzlIbzVpX3JSTmRuWHVVd2hoQTlGR18wYlBGTUJ1bDFOUTFtVHFxRFFteDVLbzUwZ2tCenRZUjA0MUt4ZjV6cndqNzRzUXpMZFJ5SUVMYkF1b3h5TmhITDhHaXFZUGpfdDhqMUxwZlR4bC0tc3JkWFJreGluc1A5U2VjMWd1QnY1YzhNYTRTcTktSkExVE5QZmFRVVN4X0FRWFlRZHNHWGNjQkNZdHZpcTJPbXRhU1Z0X294cG04LXYxZUhMck9PdmViX2hEVEU2WEhtaVA?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 12:08:35 GMT",
-        "discovered": "2026-10-12T18:27:52.153850+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "منتخب السعودية للسيدات يختتم معسكره بودية ماليزيا الشرق الأوسط",
-        "player": "",
-        "content_hash": "229fb4b9bbd2fa5c080a1e0c08ad19835e994ff0fce7d0a26f78ecf597462a81",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11178,
-        "title": "لماذا تفكر 49% من لاعبات كرة القدم في الاعتزال المبكر؟ - الشرق رياضة",
-        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOZHdfZkk0akZUd1JNcEI4dHN6QWZGTWRjbFkwdHZkYjlHUjhBWFppWUNYcTFyN1dVMXZsQUxLcklJalBhYnlnckpNb3BtZkh4OXlTLXNJUkF5V05WUHBYNFJDQlpUNGZURk1zRndnMXplOTNYNk9YVWJYSFpvcnRRanZGQkRpamkzTG5CM1FlYXFfSVAyTml2cjBtUWhOZ2FIZmlfMzR2bFZMY3NSQXptN2FqTGoyOVNyVGhnRElxWnVNVlB4cHFETDhoUjU3Q3M0SG5BZnU5aVV5c3l2YjBoUlFlaTBWd2RwcS1YWTlNTTN4V1Bmdnpxb1lVVWRTeGp2ZHVjZzZCX0kwUU9zb0E4Z08yTFZuR0hUbmJjNFcwU3dMdjFYZ255MFBoOGFqaHVraGFUd1d2bTA3TnJOWUt5VHJlRk1YNjFlQmVTbWE4NUlXSEVSOF90OUt0ZGU2bVRkMU9mNzUzRFBMNlYtdkwxX3ZuNmV2WmFSN2JZUUNUVlJPaG9MNzJqbVFTRkNxbFE2N0psSEplb1BnUDB4S0JKMWFERjdOb3A5aU9EWl8yd1BiUQ?oc=5",
-        "source": "الشرق رياضة",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 11:58:02 GMT",
-        "discovered": "2026-10-12T13:22:30.970563+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لماذا تفكر 49% من لاعبات كرة القدم في الاعتزال المبكر؟ الشرق رياضة",
-        "player": "رياض",
-        "content_hash": "403825a817441917006b94aa22b0e12c36e1ee2dd031b49fcf810e8734aa509e",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1622,25 +1622,25 @@
         "content_hash": "1d714bd25b71df5b9d644c87287b0b3fb4eba7dab5feb35091af58331df7a9f2",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 10879,
-        "title": "طاقم أحمر بالكامل.. الأهلي يستعرض غرفة ملابس الفريق قبل مباراة القمة (صور) - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxOcnpDNjM5REkxeHplRVl0aWJTVzF0ejM2UXdzRU9MaE9EcklvX2xhNTBmYVdLbFBjdXVTeWxFZlJYN2Rmek45MUs3bU5YN0VZMUxZckpHTHZJMFBYLTlCd01XVGtTWks5OEdSRklQbldHdTZwcmdvM2FzWkNTa04zUG5CYW56U3VyX2dGMHQ0RjRMVzVvd2FPMDJiMnROQTI0MGY4QmZJQXVxZF9leDA2Q1h5MDNrc1ZuMjk2U1BtQTBfUWljcUJRckRkZmJwLUxxME1RcFpVbm45SHFsRU1VZ3RqdEk3QUtiNHZxZzg3azEydFEwQkR4MUpJeHd1NGhZM2lqSjdUZWI5SzFJVnI2QmM3c2NCdjNlWmVCOXhZd0pnMXZzbGI4RGdQdlpVT01feTYzODFWMzBuSjlTWDg3MXZRbkdMT1VfT1Z1UFY0S1RqaWJiZkwyMXQ1bHdWVERpaXJOUHJDUE9Bd3hWYlZvLV9YQ0MzeFhjVzREUUpEYkQzZnljaHVhOGlwVHhDb0JackgyeTlTSzR3NnVheG1MbE9SMHpnSHI0QnMzVjRVSERhZ1lSTDBTcWl5eF9PUmwwME9INmNROUFUZVM1UGJHU3hGcWUtYlRHZDc1bHFoa204cTY3bmVwQWFPVFMzelpaaUFLdkJUbWw5dlM1LW92NnJkQ2t4Uk01SEx6WTZEUEc1R2o5bkg1MVpxOUxLZmNESndvRjJsS05mVlRweDNLV2dRNnp0am5fOE1DekpIYW9GOTJaOXJzSE8tRHZmTm0xYnpQeQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 14:24:00 GMT",
-        "discovered": "2026-10-11T15:16:20.060541+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "طاقم أحمر بالكامل.. الأهلي يستعرض غرفة ملابس الفريق قبل مباراة القمة (صور) يلاكورة",
-        "player": "",
-        "content_hash": "1d714bd25b71df5b9d644c87287b0b3fb4eba7dab5feb35091af58331df7a9f2",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
+      {
+        "id": 11313,
+        "title": "تدمير باليستي باتجاه الرياض... وتعليق العمليات التشغيلية بالمطار - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMijgVBVV95cUxNYV9FNElnckc3X0lvYXlsajh1NWoycnFfMWtpUTAtYTRGMC0zZjFXekRuejFsbHNZaDZlSVo2VERCX1pRS0Vma3R4Z0pCOXZVN081UEFLQ2RHV0Fyb3RIS3F0NXBFdjFNbEU4VUtjc1l6UHBWb2FmcDZna2lCZU4yUlB6TTFPcmx2cGFoZnNBMmtLQzBHSlBhN1dGTGRaMzRSbE5EYlZENjFUSkx3TnBqd2hnMHY3aVRHUF85aVNBM0J5WHltNkdFZTdjM1FISnRIVEhkNmRSQ21RbWI3ZWZZRWZ1cnBFTHNydEhYdWwzMmFNU2lTSkVubXpOZlhpQlhuSjdXNWVTd1FRYjJ6VVd4dDlhd3Bycnc0dGFtbUdUZ2ljbmxleUJJR3F1dWpPZ1ljdENaVlY2MVFDMGF5ZmFqZGNUVGYzSlFETjZKeVBJTXAxOE1WY2x1WERmejJTcWI3QVMxdFdTTmcxZ2JZZTlyd3QwRjFObk5PQWZibVNOLVE5ckdIVERXazNaNmtkUUJ2ZzlrbC1xUy1NOVFHUElGNUx4VG9feUtUbHc5azNOWUNTUlUtcWNfLTN2R0tUMXlhZHV1aEstaDFJVkhkRkF2NXIwaWFSQm56TXBwSXpBYllvUmhNY1BjSHItSjlWTnZLOS1TcU1kaHp4ZTRZOXg2WFAzTnJiRllDTlNPZ1k0bjI4QTFPb0tkU3lrUnRySlE5YUpJTkRwUEh2cVNvelc5dERtRlVkajlBQkNka2xnVm95X3VxZXJPQm5NSWZ4ekM4Y0h2Z3k2MnhWZXhqM2ZpUjBOcGZtYXk0NWNVTjZnSlRPYy1HRE9nWVJCZndVWlpLZGtVdXlJUWtEZDExWlE?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 18:17:57 GMT",
+        "discovered": "2026-10-12T19:25:33.251011+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "تدمير باليستي باتجاه الرياض... وتعليق العمليات التشغيلية بالمطار الشرق الأوسط",
+        "player": "رياض",
+        "content_hash": "5a297ae09c363131acb1ad5b5def883ee8ac32776ae592818d9b291a6a950002",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 11202,
         "title": "إيران تعرض الوساطة على السعودية لوقف التصعيد مع الحوثيين - سكاي نيوز عربية",
