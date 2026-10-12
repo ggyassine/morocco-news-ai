@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T08:43:07.364379+00:00",
+  "updated": "2026-10-12T09:03:22.791886+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -224,22 +224,6 @@
         "summary": "تفاصيل حصرية على الضربة الأمنية النوعية ديال حجز 4 طن و100 كيلو ديال لحشيش ضواحي فاس: “الديستي” كانت حاضية كولشي كود",
         "player": "",
         "content_hash": "c85f1eccf3630be3df42a3c2f618f3e3fdb29e04205a7eecc76b6a859232dbf0",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 10829,
-        "title": "حجز أكثر من 4 أطنان من الشيرا بضواحي فاس - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GblBTN0ZRTHo4dVIyRVhETmtNY3I5MWo4cWExcmRUOTVPN0FtMlNKbjdkME5xOVY1Z0kyb29lWm92U3VDMW1Mbg?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 18:34:39 GMT",
-        "discovered": "2026-10-11T11:55:42.041008+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "حجز أكثر من 4 أطنان من الشيرا بضواحي فاس Febrayer",
-        "player": "",
-        "content_hash": "45b8cbf8385ffe721e7d8fa37c3a56030d9069dfa8bce6757ee85d7ccc675ac8",
         "sent": 0,
         "section": "morocco"
       }
@@ -1558,25 +1542,25 @@
         "content_hash": "2fbb3221c5c1d3a992c22720528466ff3ee41ebfdae0f6f2ce0d4a71771e5f7c",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 10723,
-        "title": "احتجاجات الثانويات الفرنسية تتّسع وسط اهتمام الإعلام الدولي.. وترامب يوظفها في سجاله الانتخابي - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNRmFnQ1V6elM3eVFoeElXamhGQ1NQSmNzM3ZPUktUWlA4QzlJM2stTkpfM2JPX0pYdGd2NFdsQlpnMWNNMTZZM3pyd0lLaWUwaE85Zm1zVTJSeW12ZGJuZXNrRms2T1QzeGI1SW5CZVE3OEprR2tpeG1MX2NzYWVzTVVweGJ4MzBXT0M1LW1OVmFnNGRvX3lIUW9QSm9neUhOYXZWTEJVMURvUEx5T05GNnZZcG1KUEVubmNEbTRUbmRKYnBwcjAzaDBRaHplTFJ1QXlRVGg2RDFvd2RGVks4V0xrZlN4dUM3Z2dGT2tNNzBaMFctc2NGUjNsdzJqYUlxNVZ1Sm1uX0NsSTRFN0x5T3Z1TlAtdVBkSkxqVDZyenhLN0JTQ2gzMkVYZ2ZBZlViNmo1dkJIaWFOaHFnMHV0REJza0I?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 18:40:29 GMT",
-        "discovered": "2026-10-11T03:07:39.991308+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "اهتمام",
-        "summary": "احتجاجات الثانويات الفرنسية تتّسع وسط اهتمام الإعلام الدولي.. وترامب يوظفها في سجاله الانتخابي القدس العربي",
-        "player": "",
-        "content_hash": "03e6e36f595dbf965fde465252a529852574681503e4f96bd11a352047f7b1cd",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
+      {
+        "id": 11133,
+        "title": "لماذا يصر الحوثيون على استهداف مطار الرياض؟ وما سيناريوهات الرد؟ - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPMWNGTHd1Y0hpaUoza3ZfdWoxTzJRVWNOVjRZUjJsSFJWZ0FSMl8xanNWekdkTjZONmNlRi1yN2I4UW9oX1pwMmt0WHBOT3ZOZkxTUFBzdXBZd3pLZmpraVZueTVXUnlOYlgyaDlsTzVfMEtTUnhKMGpNVU5HWDZJaHNuN2REdjRrSlQ0UXZmQXNBVXBxd1pmYklObzI2MUYxRG1YVXhDVjgtUzctb2xBZzVWc254Z19PUF95ek5BdUZIbFh2OGFDQ2RDQlRXVVYtTkZ1aFdYZlQ4Ylg5bXJZdE9TR2ZZaTNZSFpFaExGRUFDYXU0X0NOOXM1MDJTRnVONzRkWGl4alRnQ2Z4cWRBSlljVWl6YWtZSG5GQVJDMkpwcC1mSXNsbUl3aENpeXlkZUR6a0dYNXpLcHViZlBuTVA1VmtFbzcyckJoZFBBRlfSAdYCQVVfeXFMTzUzeW94LVNVYThTYlFGdnRjWmpkS0tvbjlHbjJlLXo5SEhhVnR6UlF2eDdLQ2RRTFdGLTA0WnNIYTJpb3BTLW0yZnJCYUN5MW5TM19JeExvdzAyWEJnU2hmRmpZY2FPdkZJNHp3QTFJNThqV1VkRno4cTRFZE9zYks4enpodTFFYWh2NDhudVl5Y1hIb2hmd1NjMHdMb2psTFVrb0VYY3VZaGlkY09IRmxKX29DWVZmTmhOS0F4LUtYOEZJN0tHLTJNNTBVV25XU2tyeVZSRTdCaGFKVUkydkpZY3FJbXJkQ3NjVkVreEZxeDgyWFdwMTEtMjB4NXhUeGFqNGpyM3U4MFlfQjhmVUZRZVFlUTdfRHdiM3FBZmJ0MC1mTmpwNjhYa1lxZm03bk91eTJsMlhkUHBFMkNqS2VaeUNRSEhIQ3BMVlhTNnRmTXVkUWZn?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 07:33:46 GMT",
+        "discovered": "2026-10-12T09:03:13.203505+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "لماذا يصر الحوثيون على استهداف مطار الرياض؟ وما سيناريوهات الرد؟ الجزيرة نت",
+        "player": "رياض",
+        "content_hash": "34f8bdbaaa49ce00f5847bd924ab0354e120361f15b2ff5a9bbcafefc596e9ec",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 11130,
         "title": "وزير الطاقة السعودي: الرياض عاصمة آمنة للطاقة وسنواصل العمل تحت أي ظرف - العربية",
@@ -1899,6 +1883,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 11134,
+        "title": "السعودية تحت ضغط الهجمات.. والرياض تبحث عن حلفاء جدد - dw.com",
+        "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNR1VrNXdzdUlHbDhiZGx3eWJBY0hwb3Rqc2ZYbFAzLThIMFZFcUVqQ2xVX3VFRUFiaUdVNUt1WjN3NDNOUjFZeXVBbTZMaTNPTEliVDhLTjBkRkNwcWxmdHhrMEtkLW1YZktlXzdaT0pmSWNlMHN5dTN0c0M5NzJFMFZ5X2o3RmJOVlp2aHdhNHFyNTg4MWJVWmszcHcwMkp4R3NBSEgtSWQtbDg2YnpxNm1KXzF3THJIN1l1dDRyUmJSUlpnUVZzd0ZZZnFWUl92TFA4bV9zMDlvai1iSnZiTV9Pc3Y0ZTU2ZEdfTENUeE1qcU9ZRmZISWZMTlFtTHpyT3B1QkFlbFk3M0JoNUNCQWs1SmRiMjVuX0ZQSGQ1M01hVjdvd3FLdWVWTnA0aFl5OWNMdkdQQmhJZWwtRkZyazNHT1RSNnlDT1hPY050OFNRT21LMGJzRWoza0VtUjgxdWNDcHhfeXZIRVpVbWFXM3pvY1Bqdkp2Vl95ZjN6NjNRRVRjVVZwSk4zSjlZV2NpM0UtWGpQLTFzNW85U1hDLU9RVFJzbUg0NHFUTmpFMElIU21N0gG0A0FVX3lxTE5VcmpGRzdQOGNVR0FrNHlsb2xjUUVsREIxeVFvcUltazdXdklRZXVTdmRta3E5MTBsc3NvRE5pVExDZWZFXzIxNXF1elZzWU9tZDU2MWxoRi1FY2VTMlBPbEJuZ3FFYmxZZWdKNWxpOF8tZzZJa3FOem1oT0hnQnJ2YnlfV1d6T29nVm4tc1FXd0d3QkFmYTJqd3VMQ2hNNHhiMDMycFFjU0FSVFdaZjRNU0Raa0p1OHJOVzU1MW82UW5tY01UdXZyVkwwTGdwN1JlSWVMaVd4ZTctMGJrLXlWanN1NWhYN0I1S3ZpUnZxUlZtMTJjSGZZQkx0UVFQZVdGc1RLVWtScmNwSkxRX09nbmVhbnNaTGhGT2h2dTdPR3dKSnZCQkFmMWQ0RmpIV0drU1hqSVVNX0FadE9qU2tWTlYzTmJUdlVQdHJjamlvbkJzS3pXZ1BSSHpMSExUbjM2N2x3MXZFejBMWUExTDdDNnVGbEcxVVMwZ2ZoQzAwRmVNdHRLOXloVkxJa09Ya1JuVDBmTl9TVFA3TV92emJFeE5ub2tPaF8tSDRkZURfZmI5Yko?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 08:51:19 GMT",
+        "discovered": "2026-10-12T09:03:18.917534+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "السعودية تحت ضغط الهجمات.. والرياض تبحث عن حلفاء جدد dw.com",
+        "player": "رياض",
+        "content_hash": "9ff99de98f399983cbf3af5a7ef24930aa30327b12555abd3aa465b6ccadaa37",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 11131,
         "title": "وزير الطاقة السعودي يتعهد بالرد بشدة على هجمات تتعرض لها المملكة - BBC",
