@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T09:49:11.725240+00:00",
+  "updated": "2026-10-12T10:06:37.469266+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -229,6 +229,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 11143,
+        "title": "اعتقال 61 مغربيا في الجزائر: النظام لا يحارب «المخزن» بل يستهدف المغاربة - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05VU5BYUl3eWhBLUtUdE1Vb2VENXQwaXcySFV2QzlyMnFuWk1ZMEFsQk5LV2NFRHl1c1RnN1R6SThVNjNkSnYtb3hxcDZnSl9tV0NMeXNWVHQ3MlYxNXFMZzU3SXhlSnUy?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 09:56:23 GMT",
+        "discovered": "2026-10-12T10:05:26.205650+00:00",
+        "category": "الرياضة",
+        "status": "اهتمام",
+        "summary": "اعتقال 61 مغربيا في الجزائر: النظام لا يحارب «المخزن» بل يستهدف المغاربة Le 360 Arabe",
+        "player": "",
+        "content_hash": "d96663609fa1604572c2eaae3bc3d79efbffcdb466eb361d1b53bb7a09d3546a",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11141,
         "title": "\"عمل قبيح وقذر\".. لاعب برشلونة السابق يفتح النار على فينيسيوس - Kooora",
@@ -1012,25 +1028,25 @@
         "content_hash": "fbed355d907bb9f4abb97874975ca69da01def9e046d64e3b68b2dec3c448516",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 11111,
-        "title": "كأس الكونفدرالية - موعد مباراة الأهلي ضد كيتارا والقناة الناقلة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5scEkyYks5QkdVWDNUU2paM25LSFFUWmxDRkRtZ0FSSlgtWVBPM3VRUXZ1UnE3aWtJRVJYdlE1NTFOYTMweGpiOGM4UTRkcG5B0gGKBEFVX3lxTFB4Tm40cERNLTBJNXpTaUh5dEJJOEo0QWR4U05aclAtSVhRaDhnWVF2Vk1kbkJiTnlNVjVLS1Q4al9uMlYwRnJPdko5UmVJS3k0eGFibEN6ZVZDWnhmVUpNNWpwcDlHeHI2VzlkTkJVZ0hKR0wxOHdUVjJiQWl5bXpXYzRzSkJmaFFaZFg0Q3RnUGJ2NmRWWWFBUi03cWZ3Tk1HR2kxQXdSM0k1OC00ZVJ2RzhZNXZLTUhOSDhid2EwN1JHd0E1SFNNTk9lcHd5TENDVkwyc1FGUUlScGxpaDlpX2dtYm5JOUJTWktlVmpMV2xvU19iRUNmdmp2dHhmSGdZa2ZRZFdhUXdyaE9XOGNSR0RYSWwzMVpkN2pWUUF6WkI0MGVqbVlyOVBiQnJWQWlsSDFEdWotQnA5VURsWUZPaHQta3hzcC1BcXpYVy0yN0VmN0VUNngwMkNEaGdmRW55TXhvVmE3NUJaeDVBekozX0hfLUcxcm5XdUNLeDdPWXdMZUl5QmFtb295MUg4cUVNZGxraDBHWmVQdklkUnB4X292V19UeXVXY040bFFTc055N2poYkU4WC1WWDZIdEFTeElIZnMzOGYyZWR0WG5FbVZBMEJ1YmMzay1ZdldPbndENWFQRWdkTXBkTlhIbHVFZFJlLWVadjE5SlJZMUI1aUZjSDBKLWxoZw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 19:25:00 GMT",
-        "discovered": "2026-10-12T06:43:26.348949+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كأس الكونفدرالية - موعد مباراة الأهلي ضد كيتارا والقناة الناقلة FilGoal",
-        "player": "",
-        "content_hash": "8072d8625c1910186ce62af6e510e3174a92c034335768d178b272438cceb407",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 11144,
+        "title": "لوموند: السعودية أمام تحدي الرد بعد الهجوم الحوثي الأكثر دموية منذ عقد - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNTm92c3pwd3VCNGJWMjVydGtlQUMxU1VaN2dReWpvWFpVbXpvb2hvVWJIMlJ3b0J1NnpCV0hJSXFBUmtjeTJIOW5WTWNveElUblVjOFlpRldVaGtURjVscE42a2FEaVdLOXlSeXAzMmFIdlVyZmZxa0NuWmJua3dUS21lTHdYa2NFaWdDZ243UzlhanRJeElWTkJxVmQzNWx6cUtDQUlKUFRhVHgtT2RpRXl6d0JqdmRZaHo3cHZydmE2cU1VM1gybmYtN3VOQU03VmZjaml2VXVsTU16NGxaOGRUZWNmRDF0emx5TUsyQWdLZUZ5dWFDQmtCaGl4NmRZVUtzQlNheXJNR1FINzhZaVJ4dTlBRXdXUTR2MmRCUUQwcDZqMURUR0xiXy0zdGhpdlJ3dVo0SUZRbThMXzl2QUZXSE1xRVk?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 09:07:16 GMT",
+        "discovered": "2026-10-12T10:06:24.330861+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "لوموند: السعودية أمام تحدي الرد بعد الهجوم الحوثي الأكثر دموية منذ عقد القدس العربي",
+        "player": "",
+        "content_hash": "6169e3ab7044f2020d0c5a1a3f951d5e7ef80ad567696706110e1c4c70430a75",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 11118,
         "title": "مواعيد مباريات الإثنين 12 أكتوبر 2026.. بيراميدز ضد سيراميكا ضمن 4 مواجهات في الدوري - FilGoal",
@@ -2392,22 +2408,6 @@
         "summary": "مقتل 12 على الأقل وإصابة 309 في هجوم على مطار الرياض \"نسب للحوثيين\" ـ (فيديو) القدس العربي",
         "player": "رياض",
         "content_hash": "362ed4c3a4acb5b1935d8bfbf6c8de52cc3ca759df13f8691c28fc720beadc48",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 10861,
-        "title": "السعودية تعلق العمل في مطار الرياض بعد تعرضه لهجوم وترامب سيتخذ قرارا حول ضرب الحوثيين - France 24",
-        "url": "https://news.google.com/rss/articles/CBMijgVBVV95cUxQQlYwQmYwR1h2YVhkVDR5b2ZKUzRFU0c4NmNKYnlpYVNsdkVKX0pIX2hDaVM0YUJhODNLMzdLeE9iNUFEWUs0VlF4MGNZc1BXYmZ6YVBfNTlxRnJpOFBUSUxmRXFaeE1aQmI2SzVrMHA2OEZ6ZWp2bmhLRU9WQ3dMYXp2V0s3QjhJRHlyOHNmV1dadlAxMFNxZTJoOVN4SEFUUnE4TmRlRjBITTY2UDVPOEJ6eDBOSUZvd1VpYzBBekhqWUY2THhXNTN4NHYtaE5hbXRGbDNPdFNqRi1aVnZ1ZkhONndkMUFQYWh4VWY4LTBKcXlwSEVJMkR5YmVBYUpKQjRmLXZYSmtrSUtNdUZtTklUalo4OGI4RFRHcmlIN1NUWTdVYnMydUc1TXRUQ3lfTXl2QmVNdkUxSk1EeXpHRXRxSDIyWjZXYkJoZTMyZ01WcmxGaVpsd0RzWWdfTzhQcEg2YXVBOHJkcEpSXzFMVlVNcm9oSTB1NjktOHh5VlAxcFJqejd1OEx0Rl9fMk44SzRrZWVzNzlXbDNTZXBvd1F4SElnMW9xMktaWjd6LXBqZDVrbUdPUUJfRndUVUdIeGkxOF9qTGNjalNlNE9hcE9KQTk3MGV0MW53dzczd0l1SFlCOXdFRUpKU3NkMFEzYkktR2VfUXljVUJQczhSOGF1N3JFSEU4cUZ5LUVzNmpqaVo3ZVZjNWhPSm04ZFBuX3FNUzB1dFZRX1dKZnhBb2kwWEYtV3YxQzdzTk9nVk9jSWhLbmlaQVRmcGZDRnItVmVnWEFLeGZ4djE4ZXBNRE13UHpaSW5ZTVQ4cGVNODJwTHBkd1BnTzJOZmRyS1dNTVpzVGh3RlNyUmJHY0E?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Sat, 10 Oct 2026 20:26:54 GMT",
-        "discovered": "2026-10-11T14:31:00.154994+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "السعودية تعلق العمل في مطار الرياض بعد تعرضه لهجوم وترامب سيتخذ قرارا حول ضرب الحوثيين France 24",
-        "player": "رياض",
-        "content_hash": "de03ed1bea01790ff1470d7aa1e07ad41f872eb14fa027add11fef3e80b1d151",
         "sent": 0,
         "section": "world_arabic"
       }
