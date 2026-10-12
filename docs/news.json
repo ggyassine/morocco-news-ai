@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T11:49:17.226584+00:00",
+  "updated": "2026-10-12T12:07:10.395243+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1546,6 +1546,22 @@
     ],
     "middle_east": [
       {
+        "id": 11169,
+        "title": "السعودية تمدد تعليق العمليات بمطار الرياض وتتصدى لاستهداف جديد - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNUDF3aEJCZl9sWXlMUzhDTExweV9RSl8waUh5eHZkcUcyVFNlcElpT1NqRThhRUd2ekFIeEJTdVhPV3hKUWtQOUhGcWpzZTBydmQ1TGVLTkVoQlBWZUVwSi1vQ0JPcHRTd0ZfZldBUW9nejM0YXpobURBdm1WS1l0SkREZmR5ODdlT1p2RWQ2YkJkblA0XzhvSHQyZUNrbFFzSjBxM0diVnF2RmhZWkotMFhKNG0tSExfbVg1S1lrVXlKZ21ZUWd5TFU5VS1Cek1OSGxXRDd5d2pyQWlHb1JXOU5xeUNJeGQycmhyV2l1OTdDLXVXMHJIeGpDVkkzU3haZ3doazBWZmROaEV3VGlsdFoxb00zcmZlWWlMdWNXOEJIazZNdXZ1Q3dXV2lsRlV5cWx4V0xBMVdVQWxFZF9GNjR5VS1BOTRhbFHSAc8CQVVfeXFMTmFTbDM2UnNNYUFFcWdWU1JMem9yZndCTUdSdnpMbFpjcnd2SVRFQkpYZ01sdkszVVJMSEk3ZENkNEFqdTBMNXFvR2l4a2UtVDRPUDE5VGdJcFdZV0lnQ2lIcWtHdzJieUxSTzVLUENpYUJZSmRONmR4X0hoQVMwNFJmdmpfMjNCbGJLMnBzRzlQMHpZbXdYWklYWENiNjd5VkxHN3dHSlQ2YWl2ai1rcjJRTlhyYW5EdVpvMG1ZQzVwU2Q3dzlLTkFkYklNTHlnOHJYU1NsS2JoMFFiMm5WbWpVQXRCek1Gbmd0Z0EzOTNSWDVWbDQwaEJWcDV6dVI5TnFuc20zRk5BZGtjb2l6NWxUWFNsRHZpYzNsZ3M4VlVOd3R0RndCQk1MdkxTeDNwWHBNck01RHNXdE9GS3NFcGxmQk1WNjlBanZrN19CT2c?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 11:10:45 GMT",
+        "discovered": "2026-10-12T12:07:01.056247+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "السعودية تمدد تعليق العمليات بمطار الرياض وتتصدى لاستهداف جديد الجزيرة نت",
+        "player": "رياض",
+        "content_hash": "99bcc6fbbf960493b2e8817c568918a7988c5ae1ac749b80b2c21a68841a641c",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
         "id": 11138,
         "title": "اعتراض وتدمير «كروز» و«باليستي» في الرياض والخرج وخميس مشيط - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxQalZzWmN2dGZ1aEdnVDBtS1k0WDJ2cE5FNDRtU0xWaEx5N2dCcmxZUC0yZG5oVDBCZi1hNVJ1RE9HSTJGU3JmYjd3SU9YWVl6UnZMb0FsVXNFUVFoWW9NTFR3MTBxSGNYeTZHRDEyRHphWmVxa1d0Nl9Xem1wR1BCZmhGWXJ4M0dVRV8wa2JCUmxzc2J0UHJWMDhURG5yOWZ6OTRUS3pnd1dTTmpKc0tKWDc5Y2ZHVURVam1adFhMN0wtYzZMSXZ6ZWZYNEM3OW83MG1TTEM0ZVoxZWpqckxPeExXd3lGQWxWUFpjbVJsN2k0aGJMVGp5aXk4VDNNTEx2LUkyaDFlcG9USkljTHZmQk1OVDFlWGliNUxCdE5qVkpzSF9ETnV2VzVVTG1QYkNzQWc3Tm13ZVFsQ0NCQnpoNEwyVlRadE9JMmQ3WGR0WVJCb1BWWUFXOXZWc01vSHhibGdHYzJRVnpISzllY1VsQnVYb1ZjSzRsVGllUC15STdfTjZRbGV1M2E5bVlseG1jdnBFWlBDT0NYOGJjNGdTU3Z5RnZzMkdweGU2NC1mLThob3NIQlE2cThaOElVRlZreTZjeXR5cmpYNTk3WUk5MC1pNUVXcG5KV0dZQ2hLcGZ0ZTVycFMteFNYTFRtVlVDNkJocDFnazlCZkVsOW9CZG91RXlDSjBHUE5VSnd3OVBfXzY1WGF3TEFLd002Z3RmZm9mV0ZfWlRnd1dXWTJWQnJQendZVFpVYUdCRXhFc3Y1NGw2TGlRTXluQlhiajZoN01CWDFpVQ?oc=5",
@@ -2392,22 +2408,6 @@
         "summary": "رئيس وزراء باكستان يدين الهجوم \"الشنيع\" على مطار الرياض القدس العربي",
         "player": "رياض",
         "content_hash": "96a8cf0fa72905b562f64716d2dec68313ea475a0a3faca412f46ae9040fc237",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 10721,
-        "title": "مقتل 12 شخصاً وإصابة المئات في هجوم على مطار الرياض وترامب يصفه بأنه \"غير مقبول\" ويعتزم التحدث مع بن سلمان - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CLVpkdzBwVm92TVpza01oMDBDLVFFekROVHEtcjV6bWNnTkxldWV6QmdxeWN3U2pVZVBDd2xMRmtMbmZBMjkySVZ0MDltSS1QQlpJVUR1TC16bHI4YlHSAWNBVV95cUxPTEFfanBRR1NZRFBzYUZuOERPRVdjOHRjN1Q5NGRZZGwtOVdhMmVUek1hdXgtR3FjR2RFcFdxdFVLSlJoN2d3dVVhbkNrZFJjMGNQbnU3NVFTMGRacDlkQnB5Sm8?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Sun, 11 Oct 2026 02:05:41 GMT",
-        "discovered": "2026-10-11T02:55:15.613255+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "مقتل 12 شخصاً وإصابة المئات في هجوم على مطار الرياض وترامب يصفه بأنه \"غير مقبول\" ويعتزم التحدث مع بن سلمان BBC",
-        "player": "رياض",
-        "content_hash": "5c8dc3f30ded917feca8b0fd88a293c13c393cfb1b4b7ca9ea8506d81e7b6e29",
         "sent": 0,
         "section": "world_arabic"
       }
