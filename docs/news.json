@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T04:15:50.235526+00:00",
+  "updated": "2026-10-12T04:38:33.499607+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -224,22 +224,6 @@
         "summary": "المغرب وإيطاليا يعززان التعاون التجاري Febrayer",
         "player": "",
         "content_hash": "f030a74b4df710fdcbcfc48a3569585acaea0d3866e6cc1302c0aec916cb1f47",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 10603,
-        "title": "السعودية تجدد دعمها لمبادرة الحكم الذاتي تحت السيادة المغربية - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFTHRBWU5vcDdsbC05ZktvdUttdGVncmxKMVpjLWpYQ3pnSGU5azVSdkpDUTE2QzZ2bExJa1JWTXY5WTdKbjJ2aw?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 22:05:12 GMT",
-        "discovered": "2026-10-10T22:14:34.698460+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "السعودية تجدد دعمها لمبادرة الحكم الذاتي تحت السيادة المغربية Febrayer",
-        "player": "",
-        "content_hash": "2dc955df1d969882fce9176eb9f05949a12ec4d133dbec12b99e82602f6306f3",
         "sent": 0,
         "section": "morocco"
       },
@@ -1620,6 +1604,22 @@
         "summary": "عرض لا يرفض.. إبراهيم دياز يكتب الفصل الأخير مع ريال مدريد winwin",
         "player": "براهيم دياز",
         "content_hash": "505da8daf9e57a55c3a2841219903eb5d0d139d2d975656c54bec3ae37aa91ff",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 10940,
+        "title": "هجوم حوثي على مطار الرياض يوقع 12 قتيلا ومئات الجرحى وترامب يلوّح بقرار مرتقب - Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZThHZWQwcHRqWFdkdW9iLXBKaWl3dXNzNnVBMWlIUXQyQ3BLR0Y1d2w0aC16MVc2Q2VpRzd5SnFnSDludWkzZ1NjalhDbVhfOW02Q2UxN3JLRXJsRHowTVpFb3Y5ZnE3VjNlcnB1dk1WV0tjd3hOQkpHZEFRYk10aDR3UUpiSDRKbmpkRGx3Yw?oc=5",
+        "source": "يورونيوز عربي",
+        "trust": "C",
+        "published": "Sat, 10 Oct 2026 13:32:29 GMT",
+        "discovered": "2026-10-11T17:37:33.130100+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "هجوم حوثي على مطار الرياض يوقع 12 قتيلا ومئات الجرحى وترامب يلوّح بقرار مرتقب Euronews.com",
+        "player": "رياض",
+        "content_hash": "61b6edfbf32cfa5ab21dbc19c56285524cb31b2bdc9b5beaa73ec559a3fb7b02",
         "sent": 0,
         "section": "transfers"
       }
