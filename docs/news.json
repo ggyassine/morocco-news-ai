@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T16:03:22.440947+00:00",
+  "updated": "2026-10-12T16:24:32.455151+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -309,6 +309,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 11231,
+        "title": "فيديو: دونيس يكسر صمته بشأن المنافسة على كأس آسيا - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMilARBVV95cUxNWmJhbHJLM1pYaFR3aTR2bGhCOGRtRWVReGh0RTYwQXJCa0Iyem16VV9EbEljRFRDYTdNU0g3Q3lPdHFuek01akY0dTZVcHJKZ0R6M1Jlc3Q4X0dWY0w0Z2JRcHRGY05kRFctOFZpZXY1Q1drWXh3RlF3SzhXSmhzeTMzWDlSRkR1VmRVZWtzeVRIbDZYUWlhTGcxYW1FMG5YdnhzcXYtdE1XNGRVY1NOZjZxUk5XSml1Vl8xUm1uS1RzSkZILTJ3b3JQdXlXQS1rZzdBbUFQdG9VUDY5SGxFZXRrVTVuUmUzXzBtTmZtQmNpUFVyVTRaeFlSSUVTc3F0U0xNcm9Md3IzeFVSOG5SRWItdU10WkZ6djg1SlJRVEE2TkhxRXRkR0dEcWl0ajFReVBGdWJmZWthUDVtZnVyZFdDcWs1MmhadDVYbE91SnZiRzExZkVRZWRybzFOdEx3RFZ4bjVfWEUtNDRSZ1pTS3RBR1l6azd4VWdSaGdPRkdTenNrZWVISGFXZWxVNGpFQjlZc3ZacndOM09TS2dKWTFIdEJXWnc4b3lfQmFmU19hM0JNclFNNEY2eDc0UVpHc1FFdVNsZ1RITDhuTm96NVN1N25RTEZGTWMyTGFjYnpUQ285aGxhSzBVUDIzYkV0aGdDNDYzWEM0ZjkyWWhGWXRDWkpNc05FQlhEeUctZDBna08t?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 16:16:16 GMT",
+        "discovered": "2026-10-12T16:24:04.561974+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديو: دونيس يكسر صمته بشأن المنافسة على كأس آسيا Kooora",
+        "player": "",
+        "content_hash": "28688984041a41b209ade3ecfa714d8259f1c1d6cf2c4b70a0dc0a44c4ae9bd0",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11232,
+        "title": "فيديوهات | أهداف فوز مودرن سبورت على الشرقية إنبي 3-2 (الدوري المصري) - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRSE1QZnU4RmJCMUJXblpVWE0xaFRQbjVobkI5S2dRdlRmTkNVRHdZYmtTZmt1RGdITjZTYzVUVUhRMFBvSmszTDU4UVM?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 16:16:00 GMT",
+        "discovered": "2026-10-12T16:24:12.453166+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديوهات | أهداف فوز مودرن سبورت على الشرقية إنبي 3-2 (الدوري المصري) FilGoal",
+        "player": "",
+        "content_hash": "ba0dc32eb08e46b23bdd9665dfff203c71592814952c8fb78f6036aba83d7255",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11226,
         "title": "منافس لحكيمي؟.. تشيلسي منفتح على بيع هدف باريس - Kooora",
@@ -1074,38 +1106,6 @@
         "summary": "مدرب الشباب يبدي تضامنه مع السعودية... ويشيد بأداء لاعبيه الشرق الأوسط",
         "player": "",
         "content_hash": "e0edaff0bdf1b2cc2fdaddf7ff83a3861ace626a2ebcafe454506678a7647bbd",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11044,
-        "title": "مدرب التعاون: نستحق الخسارة أمام الشباب - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxNaHpTeVpfMXdyczRWN0ZGeGRILTRXTjFpWWtSOEowOGhWRlZtMzU1TzJnaVdzSXZCZ2FLQTVRUng3YkNHXzYyblVGLUlJNDBrVjVNYUNQN0ZPaEljSWZiaGVEZWVUcTE4dUtnVU9NcTNxZ1JlakZDVDM5blNFd281dERUSEV5OFlId25BSnE3UUw3MUxLbGhqV1hkTWk5V0c2TmtteDlWYzR4RXFkV0lnRHV4clhUTDJBTElQS0NHbUo0ZXluUzdmUVFHcVhUQzYySzdKZm90YkNJX0tKc0NYdWxxeVUxUXZXR01kTWo2ZGhIRVdTMi1ULUtsaWY0aFlxX1F1UDNDTjgwTTh1cWFCei1La01reVZ1SVc3NW0xNDdYbVQwZjg5bjd0SzhVeks0NHdubWFrVVZ6MFlQd3kzZ2ZkYlZKY1hkOUpUNGNNRlc2M19pVGJlYUctcDM3LXo1SzNxbHFKUG9BNl80RkpxclQxMUJZWDhjTG1WcVVTSUJrcUpkYWNnTWVLWWVZOExEc0t5RzRRVkdWM2VLaHdOcTVXV29oM1A0NkoxR19NQmdha05lRW1mVnVYODFHYVZlOUI0eldHUzJhVGpsRUEtNWZMT0YxRFZGSGE4TE50cUYtQUk?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 21:51:16 GMT",
-        "discovered": "2026-10-11T22:03:04.286261+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مدرب التعاون: نستحق الخسارة أمام الشباب الشرق الأوسط",
-        "player": "",
-        "content_hash": "098a2e96c285b6950142c1c00153f432b47ea02a8bd8bbf7583515dc3528e4a5",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11056,
-        "title": "فيديوهات | ملخص تعادل روما مع كومو 0-0 (الدوري الإيطالي) - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16RkhWSUliczcxbnNWSFg3SGRacFdoUlY3cUVPVlUxTHdpdnJKcFM3SVBiVjQ4OUZ1cGxsU2tlLXNFMmxkYWNSMlE0RTg?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 21:41:00 GMT",
-        "discovered": "2026-10-11T23:21:58.874806+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديوهات | ملخص تعادل روما مع كومو 0-0 (الدوري الإيطالي) FilGoal",
-        "player": "",
-        "content_hash": "614fead501d70e89986d1e4574dd55fddcc2ebb8b1a18fb83a09a7191dde3d40",
         "sent": 0,
         "section": "sports"
       }
