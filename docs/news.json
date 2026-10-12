@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T01:01:04.835898+00:00",
+  "updated": "2026-10-12T01:22:57.970639+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -370,22 +370,6 @@
         "content_hash": "823a47f7e22acb54a9755d6e87a2661e6ded5298dc413cc0a79e3cc6457ee1b2",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 10838,
-        "title": "حسنية اكادير لقاو تيران فين يلعبو مع ليفار - كود",
-        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQVjdqZ2E1Y3prdlpXdEJDNl9ibGtSNld0SVo1SHcxSklMMkd6aXdybVk1OV9CQWhuVVVDODZKYzVjUXJ6d3ZtTzh6Ynh2bUx6a1I3MkZaam8zdHFQbVRxYm5lMUVZa19XSUl6OHFWS2l3cjh3NlFMZFl3Z3M0Q0M1Y0lGV0VQcVhrWFlrWU50Um9rUXdBU1V6eTlRcXdzOVR0NEVfc0lnWThFQVJ5dUtFZ1h0YzNGWkdldVZyZzdhOGtIdjVRYkhYOEliM3Z6eU81VUwwRTJsU0VzbTQtckpjdk96T1NjeUV4dFhLd0ZuVk1JRTNJZG1ucWVaM2dfZkV3dHFDMTFxWlloZm01ZkdNMlBmRlNwYW84ZXlFQjBOWXpBM3VuRS1mSkJwMmFaLWpyYTRiUEdISjFEUGJZejg3ejZsSm52ZXdHa0w0ag?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 13:19:11 GMT",
-        "discovered": "2026-10-11T13:09:41.117821+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "حسنية اكادير لقاو تيران فين يلعبو مع ليفار كود",
-        "player": "",
-        "content_hash": "0f97d15962a38cb2d7afb300238c03e0f79a2418f197459eaade6769b77239f9",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -690,6 +674,22 @@
         "summary": "حارث يفك الأزمة وأكرد \"طوپ\" جريدة المنتخب",
         "player": "أكرد",
         "content_hash": "de86cc51505563f45eb6607628faff00990854ae806d3af4097afb957ea91e81",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11087,
+        "title": "في المباراة الأولى لأجيري.. فالنسيا يتعادل مع راسينج سانتاندير - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxNWWctOWZZczIwRWhnRTc5SUpDeHRlSVVaNFNaN3ltTzQyOGZOQzU4WkNhYmxIeDFOYk5vNF9FcU9KdFFESjhqSjRLclA5ZmxJNkZEX0VJeTlMVjhaVU1UQWs2aUpWYnRHWkpEWm9Rb0N4Q016R0JBX0ltYjhZOGNITjJzcEhMcHp3b0szbVJBdGJ0bWphdFNudHdWLXdfUU5iWGpnUkNCdC1XUnVqdTh6WExQRGtWVGN5WXlJa0hnTEpkN09ONDV3WW10ZVM3M3Q3ZHhQRGRORzQ1VTVCeG5YeWI4Y3FPOXNneC1HZTJzZ0dzcjZJU1l2aGUxMDRUVjByQWVlYVRoNTAtLU41Nmhlal9UZ1owdUhLcldrcE5Fb1hYbHc0VnlMS2UwMEFGdFNRVWJhbEhfUlZ0SG0zb01tVkRPSTlTQ3NqMklxX1VNZjhsN1VrOXVlQTRHUlhjZm1uZHBxUVRtdnotYkpoajJUUmZ2aVd1N1FxSzhCNEhleC0wbmxNS1ltdkZ0bzE4R1BsRGxzejN2V2s1Y3V5VmhDeUNnaXlIN3czYy02bFladS1vQlhIaFVmdmhvd1UyamFqM0x4dHhXeGZPN3hSRGdVTnpxc2dhU1otRGFTR2hrREN6R0FKdmdONEh4RTJ6TXBWQ3J3WjFGaHVpRlRL0gGCBEFVX3lxTE80SWRENGFoTXZ1RjQ5S3llU2FMcWpob0RlN19NWl9fMnRSc05MdlZlU2owRWJvQW1wWDRFcGRxTkJKRGFxaENtM2tGanFSb0ZDOW5hYXlwbWJTY2V1cHpqcVpIcWRVVXVQT0ZJN25rT19YWW9GU0FKVWhKa2dkMmNYQzZvR2tHd1BCUE9wN2tiMHVEbDljMG9WTWlKOXBSZU51TGdYNEh4ejZQZkp3blJxc1cwR1FKUHBISnNZaFlwRFFsaTZ0Z3FtNW5kbXVwRkh5WHU0MVFJd3lHTWdIRHRZWlB6QUhLSW5oeXppRXZadDhiWUtxX1cyYUZ2ZlRwRVo3TDNPWGZBbFhBZzA0OTNDXzV6R1dYLTQyMFh4OHFNUzN5OUtTeHNKakJQX1BzU0duVFpEUGlFSzhTNmFCVnZGaHQzS0ViY2NqanQtZThnSFQ4X1o1WTZwVGtUOWlZV3Q4dUdkRFVnVWFUV0IxN0RtUDJSZTJMNWthSlpUVDdXYWRkbDcxLWNFZDJVWExOSzJXMkU4Tzk0X25oZVVzZHpyelFfVC1TSzRvUDVJV3kzMHphalJHeTBEUEFsdjhab2RJTlJZWkhlOC1GRXNZNTFtR1E3dXc3Yk93NGJLQm5UcGNLQ3hvX1JySGh1YTltNVNPR3dGNGR1V3FYUUx2WkJHOXc?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 21:08:00 GMT",
+        "discovered": "2026-10-12T01:22:43.662945+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "في المباراة الأولى لأجيري.. فالنسيا يتعادل مع راسينج سانتاندير FilGoal",
+        "player": "",
+        "content_hash": "29a24fae092cc7d7ab1bca42fd8ffb7b98afaa605eb795377cb8609810ee78c7",
         "sent": 0,
         "section": "sports"
       },
@@ -1172,22 +1172,6 @@
         "content_hash": "60abfa0575d19dfa074a52cef13c76023f62c9709312b202bb223527ac11dec8",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 11053,
-        "title": "الأهلي يحسم القمة 133 أمام الزمالك ويتصدر الدوري المصري - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxQaW0tTkV6WDhrQ2h5bEg2UnI5V2VYejhFZEtPX3BXbjdJUFNXeFp1VTFRLUdMcEVBbW5JWEhxMU9JTFRYRTBkY2pQeXZVbHNTa2pRN2dnTkYwZklwa0RnLS0tOGY4VVA2ZXM5cDhoOUV6MTVJSUZ2RWxlYkdxcjlGbUtoRDB1QXIwSTl0TDR5d1NkTHl0ZzRvRjBnSE9tb2NVX29mUUdGeG9zbS11SmxGcGZ4VFMzMmk4WWZoOVlsOXVtZnE2YWdfZUpNU21vYlBGV1UtWGRxMGxkYm5CQ2pmTnhMSTc5RHJoYjRFWDl6VFdYMHJJZ0VCZExBWGEwSi1VeXJzVG5XbmMwaEhXdWM3ekJsMFpsaUhYTGtQaXVYYnJDV0JuckVHX3RhTXpCbW1QdW80akptTkgyQkJNU0FyTDZ3RnNDdVpEZGFLVERWMnN1MWxHX2h1U2lPRWVkQVZkM2MtdkM5V1ZPZFcxRnYtNXIzRXVYcDVSMEczZFNvUmV6SEVVM3JvaDg0TWVpbzU0ZzB2OEtjN2h1dWJROXpmb0F3djBqMk5pMDNRUi1hM3NtTVhTS1UwbXcxRmtFZGJCYm5nT1ln0gHLA0FVX3lxTFBoNERtVG9ZSVJvcmVaVVBHQmlFa3lQSE1aMWpHNmRIV2hBbk9iSndSQzdwM2JsYkljUDhDUVFpSnNoTnN1WkZMdjhILWszWjRjSkxieFZTc2tuY2xIOEpWM2hPa3R0bGk3Vm5GcUIxTnEtZHR4ZkNzaG41WmZXZDV6TW9zV3BOUmpXaGZnUkdpdFF3dzJGT20zY1ZvclJ6MUNaV3ZrREdsUXM3OWd4cDBfNHJqdVVDSHRKM2Z6NWdYUDctQXFsdmpjOHZIYVU1MS1US0M4OWxHQkNaS2I4LWx6YmdCTVZsUFRMTkdHSnlILUl4UXctaXA2UFdoMXNSSTVGaEZvd2tmbnlTWTQ5STF1RDFZVUFJZ1dpR3BsTGYxdloyRWlaMkRSY0w1aUdqOEZKT0VuVW5vSWtVSlA5eGJWcURFTG1YcTNhZ1JtV1NRRjNISjNQSk1XYzdKSlppdnNQMzRBWmFHdTBrUmpmQzMyaFlqOEVDa1hEOFdFMWRJUldNTmFIN09lWURKVGlaQ0Z2ZWNQc2x2X0lLeVRRMXB0V3N1UlRtYV9rSkFBeFd2VXVkalRpY3RLeXFzTno2LUxvRnMyakJId1prUQ?oc=5",
-        "source": "سكاي نيوز عربية رياضة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 18:50:44 GMT",
-        "discovered": "2026-10-11T22:53:31.988251+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الأهلي يحسم القمة 133 أمام الزمالك ويتصدر الدوري المصري سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "00b1f80edfcc7a4b0dcd69e5b02a6caba243b5218c94a70f6711f6048b4b4cfd",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1657,6 +1641,22 @@
       }
     ],
     "middle_east": [
+      {
+        "id": 11088,
+        "title": "استهداف حوثي متكرر لمطار الرياض - العربي الجديد",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYklqT2xMSzE3b0pXbGd3RXdHdFBoYUllUjhSb0U1LTRaUjE3QTZCUVJWNHB5eFJ2VU5zdUxFOXFmSkVFekt0S3c1Y3E2M29CYnRuSDRNYmZJSVFQaTFndFNxRHFYeUpYTF9OMU52SDFNVmg3eFctMjNDQ0J6S01qVEtuLTRRaTdmcm5RRFNtNFpkT1k?oc=5",
+        "source": "العربي الجديد",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 01:00:18 GMT",
+        "discovered": "2026-10-12T01:22:53.171923+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "استهداف حوثي متكرر لمطار الرياض العربي الجديد",
+        "player": "رياض",
+        "content_hash": "6fe81e98014c96a0e17875850dd859fc157b4c49df7d30562869624bf173c38c",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 10976,
         "title": "التحالف: تدمير صاروخ «كروز» في محيط مطار الرياض - الشرق الأوسط",
