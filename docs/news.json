@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-12T15:25:29.342474+00:00",
+  "updated": "2026-10-12T15:46:20.776828+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 11220,
+        "title": "المجموعة النيابية لتحالف اليسار بمجلس النواب تختار الرئاسة وفق التناوب - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ka3FqY0RMTmtwYjBBb3hWTE1JYWpYYnpZZTh0ZnFZR3I5QUxhMmNlVWljWnFMVGN3emg0c0YwTDd4LWxYeEljS2FDcHF5ZHBIdUl2eGhTaE9MNXhWODNSNUd2b3VDbGR2?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 15:03:29 GMT",
+        "discovered": "2026-10-12T15:45:41.458403+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "المجموعة النيابية لتحالف اليسار بمجلس النواب تختار الرئاسة وفق التناوب Le 360 Arabe",
+        "player": "",
+        "content_hash": "a065f5b4f96d1ce4bf61a3da3d0a708768538bdcdd023583fcd98621111a7457",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 11189,
         "title": "اتفاق مغربي إيطالي لدعم الشراكات التجارية وتوسيع حضور الشركات الإيطالية في إفريقيا - Febrayer",
@@ -306,25 +322,25 @@
         "content_hash": "153a89ea11ae29f7500ab22da33bd763ef0af62200e42d01c598e1b9c651a82d",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 10856,
-        "title": "الهيري لـ\"كود\": الخطاب الملكي رسم طريق السيادة الاقتصادية والتنموية ديال المغرب والرهان اليوم هو تأمين الما والطاقة والغذاء وتقوية الصناعة والاقتصاد الرقمي - كود: جريدة إلكترونية مغربية شاملة. - كود",
-        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPMG1aRnJNUjluYVJSd29HcVhBcVVXZGc3cVZBUmdLdlBOemlfQUt2aTRQV3BTMENyQXloQ0stMEt2dGhfT3lEUExsbFdCdktWX2d0bkh1ZTU4RXZQekZtVUE4UTJjUEJxdWJBYzBJV3RSS1BFRjZiekk3SlJCcnhHdnEzWGpIQ0tMOENFQ3c3RElsc0QzUk9NM2F2WmJKTnV4TWJuaVNJcHdNSFF0bHZidkYyR3ZLSEFER21BVFJxcl8wYkZLWWRHd3dTd3d2bnlKNWhqN2JIY0pRd1pITEtLUHV0Y3h6TDE5R3g0MUFDTzRIWDdhQW5MWDFpYTAxUVpNaV9qcWxibmdibkpYOE0wa3NwN2ljM0hRdHE1Wi1yTUhKWDNGb0J2MEhxaHNNUWk1Y1NuZ0hZcXhnV0pMSWRMWkZlSQ?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 10:01:17 GMT",
-        "discovered": "2026-10-11T14:12:58.645811+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الهيري لـ\"كود\": الخطاب الملكي رسم طريق السيادة الاقتصادية والتنموية ديال المغرب والرهان اليوم هو تأمين الما والطاقة والغذاء وتقوية الصناعة والاقتصاد الرقمي - كود: جريدة إلكترونية مغربية شاملة.",
-        "player": "",
-        "content_hash": "ffd93c69b69ea22e1ea9de3d85657be4d9d5c64fe5699ce0f528ec4691b10d0e",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 11222,
+        "title": "كرة يد - بمشاركة الأهلي والزمالك أون سبورت تعلن إذاعة مباراتي نصف نهائي بطولة إفريقيا للأندية - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMizAVBVV95cUxQY2pLWUlvM3c5NFlSc0VGQk9lUWxjRHlNdkQxZThyWWNEbmVNNXRjOXFmTkFpYUphczlSLXl5WXA1UTk2dDBjRGE5YlFlUTNaRlpiSDB4SFVOTkFEOXNJNHV5WTB1UjVjSXNiQm1oLW9rY0FIVlk4VVR4YjIxM250d0ZJUndhRTRKTmpGVzlEUlE2T0ZhQUxWSjhJcEcxN1JqMFAyd2pEQmV3R2I4dmJjNFYxdU1CWkFqam1Gdk9vTmN6OWhDSFB1S1VWM1hUb2phQ3d1dG1oZ2k0YVRNYW5KSzFaclloWHgzaVFnZm5oMkdFbXlKNjRialJyODVoQkc3dVdqcHRNNXFBcHQ1dnlVWUlkejFvS3JRRUE4Z2czdU9CTzZ6VUFkYjBfVVU4OC01Q1hkRUh2Q2ZETlg3SDQxa0s3UkM4YW5XbXhReGNvRng0M2E2ZHJRc1lCX2VuZ1pDckNNNndqR2RMeEl4U1V5WFQ5ZVlMeUhuVjl2STltbHEzN3ppUldlcUlmRG9kMzl5aHoyejBKbzJLM3hwRnV5OEFQbU9Sa1dBQXBzX0tVbnQtYkVBV2c5ZEk0ZllmZlRDbDhlTHJuMzc0cXM3THZ2TFcyc2MtRkVZUE8xU0Ewc1BCMDUwdGc5Z204bUJfaW5qeFJjSjdndF9PWld5cHpsZVJRNFNfWm1JRkhFU0JfczFSTkdNN29EZzYtNFZ6MXB4MFBCVG44aXQ3NDN2aGlIY2Vmc0xfNUpna2k2N2pDSTVCcURHeXFJNnR2MlVDcTlBZ2N2WGhteEVSVmhMelVqMmxzaWw4c2JMVXFTSVVpWEYydWJrQk16WG4tdVoxTTdEdllDU002S04ycDR4MHJkOXhHT0VQeEZNZDI1Z2EtdE42Nm9ORlVhTGVsck8zZ040MnBGaXFLakdmTGxibllodkdmNzg3Q2tjVmdlM9IB0gVBVV95cUxQNk1SZTl6Zm11NGlYb2ltQWp2ZkpsX1JaYW1jckszOTlhel9PYnZoQ0tFU0UzSjk2OFdWR0FPWTJGZXlFSEVGeXB6X3VzajA2Wi1OZk02M1VSNm9mWThWNXM3SlFzcW1xNXE5TGNxX0JYemVTMkVzc1B0THpLN0F1TkdXQk45anBqWW5qM2p1Y3JUUWlfWUI4MzBuRFdNMldMTGptNUwwWFkzNlYwcFVPeTRwSTFJbEhheUpaQzBCaUJMU3ZqeklQdU9fc0dWTzJKUVVKSmc4U1YxSjJudkhnbEFDd2tQT0hCVXFnVGh2RVdRSUtwbDFwRk05UEhkMTFHeUxVdU1EQkxrcFdSMmt3V2R4dXVKN0FYV3dWczgtNXNGaHBRakl3bHRCUUpuWlpzTDE4aXJYWjhTWkRkajlDYWFicTc5QVlmamt4RzdTZkJqd3hzcHBWTnRLWThmVHF0UWN0RnNvYkNoYU1fUmVfbllHV0JCZ2l6aUFSeDZyTXpobkoySXdSTzd2dWxTNXZ4cWtXeXl4QS1WUnprWUFOOW5FSi1adzg1d0RzaUtxcVpiaUZqNTBUREItWEZ2c3B5S3FVcGpFdXFSbmtiWXVyT0JpQWZJZG00MnBTZDA4Y0NfeFVUZTRrM2dRUG5ZVGpZN002VnVOVlhId3NrcFpVcjhRd3ctb1lkN29neXlydkl1Ui10S3NybVdQTmxkdDk1b0FSQmVuTUdIbWhIX3F1MjNCemMxeTBWX2dqQUo4MEJDMWNiMXpVSmtVdjJKb2pJOFAwVHRmR05GaFd6OXkxNkVBcU9BQ2U4UVIyNmYyMnh3RDVhcHdjSGl6WWVDQTZMejZZNlI0VFVXR1pjdzZzcGFPSldCNnE2SHR3LV9QTXVNWTMzU2hvQ3llMDhZTXJPeWVxRUVCRzdlc3VEYWVUVEdLRVVNMklyR3pPTy1faHdvZw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 15:29:00 GMT",
+        "discovered": "2026-10-12T15:45:57.653653+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كرة يد - بمشاركة الأهلي والزمالك أون سبورت تعلن إذاعة مباراتي نصف نهائي بطولة إفريقيا للأندية FilGoal",
+        "player": "",
+        "content_hash": "3a0977d4f34a2d752209a21ea4541c20490a58ac77f3993f171b6643bfbe9083",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11218,
         "title": "مباراة فريقي المغرب | كرة الصالات و الجزائر | كرة الصالات في بطولة كأس أمم إفريقيا لكرة الصالات - دور المجموعات - FilGoal",
@@ -726,6 +742,22 @@
         "section": "sports"
       },
       {
+        "id": 11221,
+        "title": "مباراة بيراميدز ضد سيراميكا كليوباترا في الدوري المصري.. الموعد والقناة الناقلة - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNbXd4d3lxV0xobHIzeDFmdmVCSGxLSzJaTWFhb1dnc0VZV2JKTVpGLXRUS09FY0tZSkQzUmNrQTVXR3BiSm9zZkRYZmdUamQxdWh6WHI0Y3J4elJZMWJmT3Zyc3h2NW9iX29fTlJ4LVgtTDQ5LVRsTDEtVHFjd1ZTZVZzLXQ3bF9OdzU4dG1oUHpsMmwxdG5teFZtWkFBZHdFQWJZdU12enpKdTlYRm45SUczbE1WeUtVaG0zZGEtdVNfU1M3MXI2NHQ2OVVESmg1YjdHZWxLZXlqZFI5WTMxU1QtakNvbGFRZnRKem8yOGVrYVNhYTUzS3BlcV83V2lsZXlGZ2Nmdmk5ZDF2YTFNZ05XeUI5YUpTbmtMaEdXdm4yRzhjeDh1Y2l5VjdmZzhXYnpDNE1rNDlmUVJlREpnZ2pFdmloUzB2b1l2UUpyZUlaT2djZVFUamV3MFNGVzZPeFZYRzNKVzR3cjQzV1FfaEFvaS0xdkhZLTJLUjVsaXRuNU5yTkktbWZsaEt6ZDc3V09tVjZZNjFBcHVyS1NVN2xibFRhb1FiODc4VzFRSlBNcmN0MTh0RW4xYy1uQ3o4Z1FPRlZVZkZGZ1Fyb2lLVFR3MjZpS0JHUWF4bVFHZ0x4Z2ZDT3Jnd2FZM0o0RUJFdE9vOHFpOFRXYU1jWDF0b19yOWdsM0VwZTRmbFJFNFFiekg4RWFOaXRFMS0zWEo1T3NNMlVwWDdtZXk1d1JycS1mOUdYbzBmWmM4OE42RFNmY0s1NlN2S0ozQV9iNEFOYlN2SENLUXVKcFFQdGt2Zm9LMXlhNmZ1X1pyZWpwSmNGNUozV0RldnVGV210VVdibC1FZ1dMYlJscm1HWlRsedIBlgVBVV95cUxQeUdEUXdjOGs0NThpZTZOZktwUWFneW1Xbnh3WGtWNHpiRXBRX1gyNDhPQ0ltTXRlaUJZczdfbkZRenNHX0Nfa0phOVZRMGM1MVIzWGlMTHU2aWxHVHFnWXU2UjNFbmZKWU5iRFVYQ0lJTjVfRldDYkhCTlRVOXdXakxadWU2RFp5d2NpRkJJWEV5eS1hVk5UMDlpYTBoUDRkbi00empob1lnRzA1Vy1Hd1d6SDE1anVEM2pJamFFZWQ5UXhpalFIU2RPb2pLQTJKb3NfY2k1eTVsZTZxd1pQLUJSd21UY2hjcUtTa3ZtYzdRbGt3bDNzUjd3SnJfVG8yMmRoMGNVYVpQQUJiczJIZHRIS240NGZLaUVONHIycDJfZDVLbzdWZ3IwZVpCSWxYMHVlZXFLeHFGc0pPNENiYmhQSUJocm1TR0dldUhpdjBac2w0ZkdzVjM5Z0JSakswekpJdWpENi1ZaDlGWG0yVWM0WFN3RUFVOXB0UmwxMDRRREtVMDNJQTZVaXk4UEpEbjB4bmxXX3JPVXVId3NYd09RV0UtN0d1M3J3QlVBTGRURE1yRjkxV0lqblFheFgyck5kOEl5a0F6Y012LWNQVzRPU2M5TXZRS081REEtX0lLaTRDRWRIUUszb21IMHJNYUZPcEVVYWdyOFRwRnVBajVGUURJUWFPOXpVSlVKS1g4RV9tT1poUVRCUzd1ZHE0bkZqN3NhbHdEcXV3Z1REQTdodm5XcmpPQXBMR3A4cHpnOUpHQ0Q5aFpvNW5rTThEWVJKcjVkSDg2UU85SXZqUm50dDBLdy1ORTRoSmx3NnJua0dPRk9vajlDaEhrclJoOTVHb1dWSzJlV2NRdHViakhNZks2dw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 08:53:00 GMT",
+        "discovered": "2026-10-12T15:45:56.915438+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباراة بيراميدز ضد سيراميكا كليوباترا في الدوري المصري.. الموعد والقناة الناقلة يلاكورة",
+        "player": "",
+        "content_hash": "0eec85ad73720eae7da52c7abc066e4e3762daf7203de1b414f6bc9b5085d292",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 11216,
         "title": "تقرير: دوري أبطال أوروبا فرصة برناردو سيلفا لتجاوز وضعه الغريب في ريال مدريد - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSdFNGaUZqNnAxdlBlRXhsNklyemRTOWJFaW92R2NacHlRc1lYMWJ4eVNscDg3T3p3VC1JazlRT2RFR05ZMVVwTVJCaXBkMG1v0gHfBEFVX3lxTE5TUEU1MnJoWnlFNVY0M0RjTklPdFVvYV96SlM1S3c4WDR1OF8yX1VUaXhIVFpXbHRrZWZPaHk2SjVaNXJYN1RpR2l4NC1wcjBMVENBSHd2bmlCZHEyd1ZqbVpyTnN4UHlWcS16cGhCd0hCcG1MVVF4MFY4eFpGLUNsQ1ZWUTR4aFNwSDdCTGVzbGtLdFBEVzRjaGI0eE5ROHBqVGxuenNfdEMySUZoRkQ4X1hhLWdIQk1QNmtSZmNJVVF5YTRtN2tSWWhCNmhVTm14LXJ2czg0VHI0dW9HNDA4OGdvZGh4TjBTWDR5LWF4ZDk0X3RNaTlSVm1WSGJVclNtQ09vbmNUNzdLa013S25FVXZ1WHpKSG9ka3lYS0QzUTNoM1NITHFFc3V5ZlZxY2pHdTBVcENTNUhvRTdOMlp1WURmX0x4NGZMMjVib2hWb1RVLUNfc01ud1NPdFY3TjEyd0tqdmVnaTFkYXNLdjhBTi1leExvSjdpdFJuMjNLMFFJaTNUU00ySGJZLWlKbk94N2hBTWlRSjNUeXhVUF84Z2NhZmFxRTUtMWJQWW56d0ZnWW5rZVZtcHI5ZEktTmJKZnMzN21wbndHUGdQdGpSQmhHTjAxS0JmVVJqbnNBNGxhZ2NMRlFCbm1ObmZFSlktTDBqbTlXdGotNl9IOVVfeDc0WldpZHo0cTlHeFl2dXc0MHM0TzQtbDVtaXdkbTJSMGpQVEtfSmk4T0R4VFJHX3ZwblVmd3NTcjRGT2lCWDhRVVA5TllhemFsOVYySi1zcFdWQnZWVGExX2g5VGM?oc=5",
@@ -1090,38 +1122,6 @@
         "summary": "رئيس برشلونة الأسبق يهاجم ميسي: من يظن نفسه؟ نادينا أكبر منه الشرق رياضة",
         "player": "رياض",
         "content_hash": "1f3b3e388e24b7c87f33ef65b60f77c51da522626cf85e2ae2118f7655ada9c7",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11129,
-        "title": "فيديوهات | ملخص فوز مانشستر سيتي على ليفربول 3-0 (الدوري الإنجليزي) - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNX09uV1hPSjJjYm9pSmVVeDR1NGFoUzNuUzBreWRXaDQtTmhMUHRMS3ctSDlqSHlWZmcxRDkzc2F1SEl4VkZzUnoxYXVoUVF3NmVxekV5Sm9QUkdDMGc4UHotcmUzWFBaY3N0ZzloVm82bVY1bE1HcjgtRUdrTUI5MGhLVU1BMGNIVk41VFpNVzFHOWFWaWYxdUgzQ2Z0UjdSZC1vTzgyYWVFcElia0ZxanlHVFJKWlBKTGluV29zQ3lIdU5lc3k3c1ZNZFRCOXJFWjVmQ3dlM1plQnB1MEEtMzlqWjdfbjUwR0V2Nk14T2VOU1AycUZJbjhVb1hBY21iWGpWOFpkSlFaR2FoVHNwT2VyOUFWdUptWmRVQndGUE5OT3pQQ3ljN3M5R043ZEVGbnhtakZEdW4xSHhSRjYwd1lLLTFwWFNrdnAzTm90T1E0aXF4ZHRMNXBFMHJaS2lzeklMV3pOWF9ob1YyUF9VaXNBZWc5Y2FFV2JfRWRzcFJMb2JQaDFGQVFHbUxPZElVTDJic3E1dFQyMnU5WkVSN1puVnJPVldVZ0RfWHNsc3BYbmhG?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 21:29:00 GMT",
-        "discovered": "2026-10-12T07:57:06.371327+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديوهات | ملخص فوز مانشستر سيتي على ليفربول 3-0 (الدوري الإنجليزي) FilGoal",
-        "player": "",
-        "content_hash": "89bd628f7331b33da6e0da8670fe2bce154498ef0f2f6dede6c4d734ee1ee722",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11035,
-        "title": "فيديوهات | ملخص فوز مانشستر سيتي على ليفربول 3-0 (الدوري الإنجليزي) - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE03ZGtrOFFENXhNZGZxWlh6TmVlblRaUDljYlhUSzlGeXFNTER3UGZmdW9qSDNCVDdHa1VpU19ncTZBTFpTanFNc095Ml8?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 21:29:00 GMT",
-        "discovered": "2026-10-11T21:37:08.598195+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديوهات | ملخص فوز مانشستر سيتي على ليفربول 3-0 (الدوري الإنجليزي) FilGoal",
-        "player": "",
-        "content_hash": "89bd628f7331b33da6e0da8670fe2bce154498ef0f2f6dede6c4d734ee1ee722",
         "sent": 0,
         "section": "sports"
       }
@@ -1572,22 +1572,6 @@
         "summary": "البنك الدولي يرفع توقعاته لنمو الاقتصاد المغربي إلى 4.4% خلال 2026 Febrayer",
         "player": "",
         "content_hash": "a39c32a1315e794303041a2795fe45207b2b0a3d01dc04485e8abccb3346b80d",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 10892,
-        "title": "متى يعود رونالدو للمنتخب؟ رئيس الاتحاد البرتغالي يكشف الموعد المتوقع - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOT2tQaWYyMVllZmRMTGZPWG1xUDc5X1lOYk1NQllFMXJDYTJPdF82VVRFeEF6YlFGUEVHLW40UmFWRW5KZm1mOGZ6ZkFCbnB6b01tWjJacXBUdTNZNWxKTmQzSUU4TFZURjc0YllsaVI3Q3J5dldGTlZNZXU4YVI4RTR5bVVZd0lrRjBVZElHRDJMZThOZmJMMjhWVFlEN3draDRWTUMxTExORnp5bnRuOHFIYTNoOU5IWDJXMjR6U0NzR2UtbHRqS2F2Ui1vcmpSYktiOV9RY0ZITEN5VXBPbEhjRUhiLVA0X211Rmt5WVhpZmtYby1mSGJLX0FkczBNeEJ0dDlWampoVFFVamdmVC1BVFZsMlczQVAtTXFkSFpuR0nSAagCQVVfeXFMTmlnVE02YnlOM01qNjZuaDNSTlNHbDlsZ1FXOFNWa3h3bnFMTmpXRzljWVV6NEhWUmJPUVUzVkg5YXdNVENiUno4c2VxZ3Z4T3dPclFjc01fZnB4ZGNTUzZRWUtLeUp3ek5kOG1HWTBFRkxFTkd5bHRWQTQzU0J6UnRpYVMwajM3TUNaNGdKb2U2ZnEzcVQzWWRUX2VjN3pKalUyRFB4bmhfV3FBd3lOMzNVMmhJWWpiM1RWWktWaXB4RHIzSXBfSlBMaDNjdnJ5a1J5QVBHQm5ZYWJkUnNrQ3BPMVJnZGtHRGREbW1UTlZEUUQzZVk0NDJ0WkpzUE9RdlV0N2VsYkZNQzhHRXI4QUotcnMxeXpZd2lyOUNDYlR5blZCMW02VGw?oc=5",
-        "source": "الجزيرة الرياضية",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 10:15:43 GMT",
-        "discovered": "2026-10-11T15:49:42.347466+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "متى يعود رونالدو للمنتخب؟ رئيس الاتحاد البرتغالي يكشف الموعد المتوقع الجزيرة نت",
-        "player": "",
-        "content_hash": "1966e224dcb1022ac057ae26bcba609902cb4e3c0f08a08775c880f78e77f785",
         "sent": 0,
         "section": "transfers"
       }
@@ -2152,6 +2136,22 @@
         "summary": "أجواء الرياض خالية من الطائرات وإيران تبدي استعدادها للتوسط بين الحوثيين والسعودية dw.com",
         "player": "رياض",
         "content_hash": "00321564321ad1508ab8cdea62c385a65dc6724e71fa45d20ac7f26ffb0a3b14",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 11223,
+        "title": "مصادر لـCNN: واشنطن تهدد بوقف الدعم الاستخباراتي وصفقات السلاح لأوكرانيا.. لهذا السبب - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLU9YVzhsMzZ1Q3lOamMybHBXZC1JMG1xS3NnV2U0cXQyRlVLeWtMNVFRYW5EWlVUZ1JJVHdPTjB4ckdwRFlvUUQycV8xYy1yYklvR3hBbFhKMG1JNXU0SXRnYVpMdG1ocXI3bC1zUnBDUFNick81enp3UEJtWFBjTnNBUG13QlNlbDkyOUtzMGVMUUVPdUZSQy1YSzlSS2h1cEl4UVRmalZMSzQyZkM1b3BJR3N4UEFhYjRJZ2xxc19FMXEzYXhlcFAyempuSExMR2t4Mnk4MlB0eGZQZWNF?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 04:56:14 GMT",
+        "discovered": "2026-10-12T15:46:19.216238+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "مصادر لـCNN: واشنطن تهدد بوقف الدعم الاستخباراتي وصفقات السلاح لأوكرانيا.. لهذا السبب CNN Arabic",
+        "player": "",
+        "content_hash": "becce86ec80e479642e4381989cdaefcb9aee75314608be5b9be30ba1134ea68",
         "sent": 0,
         "section": "world_arabic"
       },
