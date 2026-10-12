@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T06:43:44.548099+00:00",
+  "updated": "2026-10-12T07:10:49.890575+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -288,22 +288,6 @@
         "summary": "ديابو: سيول جارفة تباغت عدة أقاليم مغربية Le 360 Arabe",
         "player": "",
         "content_hash": "5d6afe047b4c340b0d967b873df06a91496eebfb5c67a5c72ee39636839161df",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 11030,
-        "title": "اللجنة الرابعة.. محمد ادبدا: شباب الصحرا المغربية كيهدر بلغة المبادرة والنجاح وكيرفض تعليق حقو فبناء مستقبله بسباب أطروحة سياسية عقيمة - كود",
-        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQa0lYMENnbHFIZGZQS0RUaHo2VE1TamhjT0pjYjROQlBGR2J3eEptYjgyZ2xmbHFKNm5TNW05emV4VFBSM0piNDFaLVZ1b3k4QzJYMktldzFEMnFuWWMtNm02cUZtUzYwaXIxUlpSYWlRc21IX1J0cnhaN2g1aVNuQzBkTVo2SjlJdkZTU1hRa0E5b2RsYTRiZ1A3d2NlN0RKRVdFbzNNb3h5UGNfZzFKRUYybVhGSkRSRU00YTFmRzl0VjI4dUxNT2g2dW8tQ3VQNmZQT3hkOGh5QTdTMG9MWmtmS1IwZkRPNXA0cl9iSU8wOEt3SzFsV0duZE1rSWJZWFF3bWNYcjBCdzNvNHk3LUpyVHpad1UwREJuUWRxWmtIS093al93Mm44SmZkVXlkM19GSlVMMjB5WmRrUGtaRXB1T0hMaThvN0E?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 16:09:27 GMT",
-        "discovered": "2026-10-11T21:36:59.301543+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "اللجنة الرابعة.. محمد ادبدا: شباب الصحرا المغربية كيهدر بلغة المبادرة والنجاح وكيرفض تعليق حقو فبناء مستقبله بسباب أطروحة سياسية عقيمة كود",
-        "player": "",
-        "content_hash": "908e86efb893a502a587e2fee65c42dd91a1f30464984d45b18f5094430cf600",
         "sent": 0,
         "section": "morocco"
       }
@@ -1112,6 +1096,22 @@
     ],
     "transfers": [
       {
+        "id": 11118,
+        "title": "مواعيد مباريات الإثنين 12 أكتوبر 2026.. بيراميدز ضد سيراميكا ضمن 4 مواجهات في الدوري - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxNQ09yVC1aMnBxcUFkZFZGQllYTzFkM2poNXZ4MVNSbVRuUmpJZVlVT1NwT3lMLUZ4cERPVVBnckdKVVFxTi1WRENrT2RseW04aWpKYWV6cmprUHBIdU10S0F2elJwdUczMzVlUkpweGlld1RXMEt4UU1OS0RreXhmZ0VDQ3VyQVJhWWV3ZVcyZVMwODNSZ0s2OTY1eDd3ZW9tQmJTWFhVSFpHN2EzTm04Y1dYUVRIN3UtRkxZOEVJeWNsM2hZTkFFLWhYbkdsU2NibEVoOERfM0x4SnYtUC1iS2RsUzZsRlFIOXowVnhMaElCV2t6cXk1eFVtNDdieGhtNEF1dl85QkRmU2UyelRJR1hZVHdxVjdzOUtqcVhLNnpOS0Z1T3BzLXVSOWF2cWREVzJSSDg4a2p3UGxnbkhmRnVJNWNHZzB3ZEtGekNqa3ZvXzlBNTh1a1pRdmFhTUtEdDYzVEdBeEh3N0JpTnFRdHNMc2JLel9VWHBHQ3otN3JWWmtQMWtkWUFLT2pzT3BfVVRVZGtwNXN6NWpOaXhIWkJEODctVlBkbU9YMjd6SGFQYndRTHdXb0JGeG1qWFR2U2tHQXlxUmkwUl93ekVybUdwcnJiZlgwYm1DNWVTaFA3aHlCNnRKcFJ4cUZxWDh4VjFyNFFIbVJDTjlyQS1xQ1NBaDBYRmlxYkpiRldORDk4SG9tQmdjYkNzU3JyNTJIUDhhVEZ4cGd4eUc0UWkwOHVSYm1mcVk2WndBQjk1U1BaWFI4dDFJMXVNbElmdWo3czZtcnQzRUQ0SExP0gHiBEFVX3lxTE9tcjEtZG9yVThhQ2wxR0lQa3FoTkY5TnY4VzFTZURQVGpXOVdJemI5QTJqRUx5UFBCSW9CRF9ERmJxa3NuQlp1MV82aFBlbWJMSUtSVGx6dEhTdE1aakJlWXpWUkxON1paQlZWWUJ2THFuREF4bGwzNWhKalB5aXpaeG4xVGNfRnBfSV9CRmxXMkIxR2hSQTY5c2p3dm13UDRtaHc0eG5JOU9Lb19uMDFCbUh4MmRHV21FdE0wNGM1cndOdXZUYTZ3WDMxSkpjd0hjcVg5MXR6SEFzUl83LU9aVnhwX0F4Q3hKRnpzODQwM2FGcDZsVzBLMl9hdkl2LWh0R3p5TkQ2ZmhqZzJhREJfcXNaVEFtaExKVGt4bUs0YUhBR1ZYQmJjY1IyaFhrNzhvYS1EaXVCWVVTSGd2ZmRIOHRhc3lBN2NqbHotcTZUVXNzNzJFbFM3UXdwQmhBbFpQV0JLemZkRzk0bnRMdlpTc1hSMk94d0hBS3kwUjUzdFl5RGJwUU8tNE5zTGxzUURzWmtvb2xwcE1NRk1uTU4tVnpNNDRHSTZEQ082QXRxSHNCdTBENEsyVkpDUTRuUGV2bjQxeFRkOXJYRXFHdzZET2tPcGNaVmxaaDU2OFRtNjZ6UDZtM1NFMy1MOXNDVms1ck9DU1Nxa1Uxd2Q0Vnk5Tl9VZF9nX0JmR2l0dUN3OWhiUHB6RjdhVF9PUEJ3cS1lblZ5cF9Vc09WMG5LU19EbXBGWVBqUEtQRmh3eW5LbDY1TGt5NWQ5RUlUQUxMbHVSMXpPOWVJRHNQU28xalhMVHc?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 06:41:00 GMT",
+        "discovered": "2026-10-12T07:10:31.871261+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مواعيد مباريات الإثنين 12 أكتوبر 2026.. بيراميدز ضد سيراميكا ضمن 4 مواجهات في الدوري FilGoal",
+        "player": "",
+        "content_hash": "dd18249857e3adb08a14da9f0213440fd8aeb0730fed9391802d1af2339e242f",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 11114,
         "title": "سوريا تصدر أول اعتماد مستندي منذ 14 عاما لتمويل صفقة مع السعودية - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQX3ktdFZpcnZxZE1FdUp2Sl85NFctSzlCVEJ6N3hxUG1CbEN0dUFJdThWbENHN1lMa1RZcmExSFEtemNBRFM2OUdUNVpjenJoSlpMYWR0MWJsdGdKaEF6U3Rab0JrTmxiZ2VtdGxwcDdBS3ZEVzl2cTdfOHRiNnlfT0RFdWNuN1ZlRGtuMFJsaDkwZFVWRzFNeEl3WGZhbkVRNkxkSkRRbEh3LWliRTlmU2JuMkNYa1pPQmlocVVBYjJ0YVZKSzItQVJ4QUtiT2hCcEdxaGVMUERJVEhwU2hhNzJZLVBuM0JyNjRsZy05ZmxZbnozY082X21PbE5lUlk5OFU2ZW9YYkRDdGVRcFNKTldkT1FuSnROSlJ0REpmQ2x6SlNxT214bFJLMDZUTU5ZSm9fSWpIMXNSc19oZXZCbXgxOA?oc=5",
@@ -1590,22 +1590,6 @@
         "content_hash": "7f6e75519d53084c657afb6ad417df4d654e1e9ee16d22f25fb2e92bf80470b2",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 10735,
-        "title": "البصل ومقاومة الإنسولين.. نتائج أولية تثير الاهتمام - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQdEtjNUpsai1kNm1nMTJQTGk4X00yOFZoQ29iQ2ZoV3c3RjhVTmNabjR3djNmNnFEYXlkODFVTGhvbkhUWVEyYzY4MmVzMFhxdG82c0Q0R1FVemRfcTN5UW1VYVlEYkhYaEdiWG5DU3A5MWlDNFlyU1ZXYVZNQURkaGNfWUhUX0VWTjVjZmlwZkQzSWtPLVg3MThUNjNNME5DeERkODZjekVxanJFc2ZEQWZ5dGlzMVh2TjdwV2NIZGJDUGk1WG4zWVVHdS1acS1JZkc1YzFic1huTHFjYi0wcEZJZDBEcHNNSjZrdi0xbFZwWEExb2lZQ2dWcVhTeTNHalYxd0s0RGVoR05Xdm1KNFY2WVZaV2VnNXU5Z1MxeVV1QTlRdEd6R1lJdk9SQ3V2NkNrVFJWUmFEQzdzUW5UZldKSkQtR09uNjc5UVc5TmxUTDJkM1doeFlVWDlHNkxNS1JrZVlRb2hJUXJqbU9nNWUzckdrUdIB-wJBVV95cUxOQlBiSjVwOURaMWs2b3E5Y1NVTDRUdEh1Qi1yaTU1V0lzZDNUY2xqclFIal80WGFOZXZVeDdqVkQtWGl1MGRkNk9nRTR1NGQ3anhYUGRaeERTUWMtNEZCZVVSdHFYWHhCc2RWQXROdmp3TDFRcDhPMTd1RG1oS3RFMVVyaDZRXzNUaVNzV0VpWkg1QXFPMTJIOFA1S0l6SG1DcGhXX1ZhUDBhdXVCdUpSeWZmQXlKVDctNGRPRk5VMmxnb2EtSGc1SFdZb1ZMNUVNZHRQVjVHWk9NeDdZeDNDZTQzT0FTQTN0cklDb2duQ3FVbFdDaXUwUFlHVi1QdTlGUHdHd2VQX1pDWTdDUnJlcExEdFF2WkRCcEEzOHk1TnkydXotMm5YSHc4bUw4QVk0T2pCWm1MU0ZEOUxkMl9YRUwyNkdrSHUxQjlFamN5bTdQczVRd0wyZnNzWHNqVU0xSWtuNjVTUFlwZ0ZReDR2TXozQ21OTC1jSHJr?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Sat, 10 Oct 2026 16:29:47 GMT",
-        "discovered": "2026-10-11T04:19:00.907878+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "اهتمام",
-        "summary": "البصل ومقاومة الإنسولين.. نتائج أولية تثير الاهتمام سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "bb31bbda5bc10450d414588240923e62765f3cc9f9c74f66f4cf2ef9ed0c99c9",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -1638,6 +1622,22 @@
         "summary": "اعتراض وتدمير «كروز» و«باليستي» في الرياض والخرج الشرق الأوسط",
         "player": "رياض",
         "content_hash": "96e7009497a06345f1b4d4f6c235171267bbf2acb84b33dec9d98ecd74bcfa7a",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 11119,
+        "title": "الانتخابات الفلسطينية... تأجيلٌ أم إلغاء؟ - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNZHdrQ011SldpN3JNcVQzUVA1bXl3Um1kRU51ZTZuM2RDRk8xWWI1dWJyNVp5MmliUmRqbDRxZ1J3Q2VCaUxzT0RZNGNzaVJDUXhaaE9iT0R3OW9ZdzdpZ3ZCTXU0YnBXc3d5OGg2NlZUUDJmckl3M19RR0RrT3JpY3NQQk5aNVdJTThjSzlCTFVkbjhxaEdFSWo1M2dnUkJJaHFtaklIMHRnOVZhcUpZYkVVcWFOTjZ4TzZYY01WbDBhdzZIWm9vRDJzTmo4b2FNUkNoQXJIajhJQ0ROUmJyRkNaOTUweWNCdUNSOVZOaXN5RG5FTGVmeFpTZTdaeHQwNHpULUVBNEU3b0tvalg0Z3lPcWh0eGNpTF96MVUtLWR2U01SWUl2YnQ2dmNHWXhkcDdFVHJabGVwZXRrakdSeFFsSkVwd3dnYjZ0SHZ3NWpxbnpyeTlYaDJlWThQMmFSbVRxTG5uOGFwT1FDNWRDak1RTEJleFkzd3N1TU5xOA?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Sun, 11 Oct 2026 22:35:54 GMT",
+        "discovered": "2026-10-12T07:10:42.245030+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "الانتخابات الفلسطينية... تأجيلٌ أم إلغاء؟ الشرق الأوسط",
+        "player": "",
+        "content_hash": "113bfb8e451bc163a80e8ddc6f391052f049fe4e15a24ccaf8c12a80592bdb6a",
         "sent": 0,
         "section": "middle_east"
       },
@@ -1734,6 +1734,22 @@
         "summary": "عبد العزيز بن سلمان: الرياض عاصمة أمن الطاقة الشرق الأوسط",
         "player": "رياض",
         "content_hash": "cd89f835a226b3fa0e10746e36f20f4529bb1ebe48edbf579b44a114d251a67f",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 11120,
+        "title": "منتدى الطاقة الدولي: أمن الإمدادات يتطلب ضمان وصول الطاقة للمستهلكين - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi3gRBVV95cUxOSUZ3LVRCVjZ2NjdsS0VjMnMzemprY1JYcVd5TkhmVkl4OE5ueE9GYWtaYk9HbUJ5ZFJadG9CSG1seWowTmx5VWVrNWs0dUhkeC1hbjdrTW1iNkxaeGtySDNKTm01WTBTMFJSOGhvN3pOcS1VVkZqa1RLcVMwbl8zMHhEeGIwT3NqdU1qR0lpc3NqTHZhZFJlUGFnTVNiTFJ0cUJaYks5dXRmenhPTE1SbDBEaVBaME13M1RydU1tV3hIQjB1azVucWVVZ3F2QkVGR3VpeFpQemxaeUI2bTdxdjhDWnEzWGFLU3NoLTFwdFQyc2xBYWt2aEF5b01CWXBuYVY3UVZqX3NIajhSSTcwUFNJUm9qakVLWERaS3JlQWNGZFdraEpWVExTUHI5ZThpXzFOaURid1VGRE1DU2pXclhzQUQxTXhQMkF4bnE4cEMwQjczTDRQX2hKX3dNd0lLOGVtT0VuNGJOX1YtLWRwSUw0aEtUUkZ2R1NIQWQtQ0dSazFxQ1Q5LXBxQ1lYendia21YZnpLdmdhT19ReGdSeExNdEtqNzBrTlhZM3hLVWJ0SmpsV09WNHZZV1VNZHd4V2thV19KNDl0TWlEajBMQno1TGxDNUxRRFJFVm1TUE5KLWJCdTdlU1dNb1lBUnBibzhPREVkajFQMkFOM3h6ZlBuTndKM2lMUXZDVENlc2RjQXZpXy1NVjVISFRZTEF5U2lTeWMzLVhPM0g1WFZhUE1DSXRoUjhKN01HVDhzaXk3bHhtWGUwNFozTDYtc1pRMWtMZW4tZEVzYkJlWWc?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Sun, 11 Oct 2026 12:13:47 GMT",
+        "discovered": "2026-10-12T07:10:42.257510+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "منتدى الطاقة الدولي: أمن الإمدادات يتطلب ضمان وصول الطاقة للمستهلكين الشرق الأوسط",
+        "player": "",
+        "content_hash": "b15869338f8154786d5be54435b63f8feaf9cab6c16ef9e6488a799f9e430fda",
         "sent": 0,
         "section": "middle_east"
       },
@@ -1878,22 +1894,6 @@
         "summary": "السعودية تعلن حصيلة ضحايا الهجوم على مطار الملك خالد بالرياض سكاي نيوز عربية",
         "player": "رياض",
         "content_hash": "3a193f6747f47cb47b37885ae92d99beb704ff118b842b16e43f7cc1777e7752",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 10643,
-        "title": "وزير الخارجية الإسرائيلي: لا نتحمل مسؤولية تأجيل الانتخابات الفلسطينية - العربية",
-        "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxQRVVtd1A5OWNtUnRmRnB5aVM3SWxJcTZ0M1NrdEJ3NVExNVlvc01iekVfcHZPV0IwNkh2QnJOay1Kd1lSeUk4SXktbllESnBkR19UNEVkdFc4Q0IxbVJjazVhUTc3TFFsOUpPNGdZcmpIV2JIN1JzQjUtenJLczhSeVoyZnpFYWw4cXN5aFhEdi0ySzk0ZmhWZDRQbVowQnZtQVRONDl4MF9Fak5wc1NEWXdWSW55NHh5bFF2dndwZFdfbEhOYnk2YWlLOXRSdm1Ua2w1QW90YTEtM3pSc1dsazFzWXBGR0ZnWkFNV2pIeUZOUlF6UUg3Snhad2RNcURUZXVTZ3JGR0ZieVo1RkQ5YldZaEN0a3RiSjlZRXE3RVFaTUk2cnQ2RWNNTkstWGlFaldxcUUyU21JU2RxazYxY0R0cjlraVlUdXM1WTN2S1NRTE9TWHl4WHJ3eWR4TXNQckp0aG1TM2pfUEpZb21GaDVyU240OXpTXzVaQXljZ2QtLWR1QlJQb3lQeTBrcFZVeEVjaEp5TF9IbnZQaXM3SjdGWXIwVTN0XzhoWHZTUWNBWFFBUnBKeVFEaFpUbHloVlpsRDFSV3JXUndoeERwZHR5Um1GT3JhZDdOU0p3ak5Denk4dVZnMHB2NFFWZnJORjMwUUJtZHBpT0Y0endEXzZHYkgxUmM0RURFWGR2RkhTNTQxQmhLcllFT01uOWQxMnVuSkVuWlo5eklRTV9TRG5jSkxtWUsyYXN6dE5lTEswdG1iUWYxeEpDbzlQakt6TEp3YdIB2gRBVV95cUxQbkQ5Sm51TFFScnRPbkZWMFNVeGl0bEwwMmJBb3o2UGdWMjY1SGVYRFUzVHgzMTRqWHdKNlZBczZVaXdFYXV2UFZZYlVScW5OTDl6TUdzTFBGOFhxOFQwTFFVV1hISTlFRGRWVkVKN1lEOTIwRUs1aFZ4V1JWeWl4ZWpqNlBMMDd3aWxHMnRYYU9PS19pZl9ZTEt0NVdNMjBpY085Y0o0ZjBDdXFxZFJ2TGRzM0JfNXZVbG14bGpKZlozQXprRGVwdm44N0djalFxZVRDZ3FjV21PUFl3ZWViUk5SQ1MwQ2xzQXVyWm5ZU0RQdlFPR0VQYnozMXl1M1RVQlBqc2Z0NVVJYzhSaWZ0cm9XWHc0WXMzc2ZZSm41LXpVcWZQU0hveTNlTktEekh1ZElJVXN3WDdnbDZQYm5IdHNxeGdualF4bUpxTzZ3ZzhoQzRSQWl6empaZTZkTTNISEZmM1VqdVIwSFFWMXlJUExrd3VPLURwbkR4SUN4elBpNHM5YTI2aHZzenpqVFRlVzhXX1o3akZ0eU1md3k3dzlOYm8yZ1NxNW9hTlY4Vl9lcEVIYW1qeU9qai16SVVDRk1aQXN4eXpMRWVwc1RveGZYTUk0RmQxcFRvODFLTnZwaWxiN3ZCSGUzYnF5bVZWWUV4cEF0SW9wSWhkUEtoV3plNHZYTFlXUjk0UHM4cEthandGZncyUTFqajVlbkZEaXRoTlpGeF9ST2NUcXM1TTdpTk9GTHY1YmlUemw2ZE9OQXJpX1pTMktEbmwtdU9KNDlKU09hVXdmUQ?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Sat, 10 Oct 2026 16:32:00 GMT",
-        "discovered": "2026-10-10T23:11:54.875369+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "وزير الخارجية الإسرائيلي: لا نتحمل مسؤولية تأجيل الانتخابات الفلسطينية العربية",
-        "player": "",
-        "content_hash": "94bb911269698e67e5e4c09cf7e70119cbeff558dafdf82b2fe9547548dd85b2",
         "sent": 0,
         "section": "middle_east"
       }
