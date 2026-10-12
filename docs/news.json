@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T02:17:42.869190+00:00",
+  "updated": "2026-10-12T02:39:27.113062+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1176,6 +1176,22 @@
     ],
     "transfers": [
       {
+        "id": 11095,
+        "title": "وسيط المملكة يدعو من طنجة إلى تعميق وتجديد السردية الوطنية لتعزيز الانتماء الوطني والثقافي لدى الشباب - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBObzZoblN1VGprd2hRdjBaMlh2VGdpUThXTm1oWlNrNzRRdFlXVTdQU01VdVVhak95RGFZQ2h5eHdsWmR1ZjRQVXZNSlk5cFhOMDJ2bVp2bTRKaS1YT2xUdVYzMjNjQQ?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Sun, 11 Oct 2026 21:01:08 GMT",
+        "discovered": "2026-10-12T02:38:53.283210+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "تجديد",
+        "summary": "وسيط المملكة يدعو من طنجة إلى تعميق وتجديد السردية الوطنية لتعزيز الانتماء الوطني والثقافي لدى الشباب Le 360 Arabe",
+        "player": "",
+        "content_hash": "723d825f946ab34adac552bf4aae3c5ffd01bfb82f2306b51d9874934a8ac046",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 11042,
         "title": "إعلام إسرائيلي: نتنياهو يعقد مشاورات أمنية سرية بشأن إيران - الجزيرة نت",
         "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQRF8wQ0hocTRMUVlrVVpqdEI4a2xCTkpldGFINnBfbkd1NklTNGkyX05rQTNkcktENjRwaEk2Z3NPY0doRHhjSTI0c1NfRmM5cUE4QVNBYmRuWER3Q282NVZGRzhNeGl4c2JqbUhvS0Q5cTlrX3lmVllfVnh5UHRHRl9tXzZCcHVyaE15Wm90czhSTzk4RGxscU15anJUcjhNemQtaGpDRHpyS0N6NjQybzJpaUFWSjFhZ2xNSTBWMVpnVElfSDlSUlZzRGZSZExYdHpQTFJLSi1CRjM0MV9sTGJQZlV0MUlDMVFadU84TnVqTmsxSjlGWG5Da3RUWE90QVBiOU9xb2VwdmQ5T1FxaFczWXRXRnFBeTJWNEF6bnljcVpJMzZ4cUFPT3FXMnE3UDB3VmhwdGRoN1pYMnFwQXMzbnk2dnRGZXZ2V0w4Q0pma0nSAdgCQVVfeXFMUGtMU0NPYXdYRDFPVjNzRzdldXVNdHlyckxMUEY0UG5RM240ZE5jZUQ1SXlMRTVtbHlvUVZfc09hLWNmNlAwYnNIZExteGNWRjdpNnZqd19HUnVMOFgzdktaLUpkSlBiYjhtRlBGcDZQQl9zdk85VU5lNzI0azJEdDV2dnBwNFZJTG9kUlF5U1lDd0lDTzhDTXdlNzZUZ1VlbXp3SkZyeHBXNFRBcFdEZUl1ekhlYUNnSmM3Tno3NG5DeTlVMVFKOFNpMDg2eU9uNVBINktramxpZ3BteDFYWTVZSmh6b0lJcV9UX29lYWFjLUs1dXNHRUdoOXQ5QkhMZXo3cGZnQ2twTXRuSFhiYzZzMHdkeld5U1UyV0trV19IVFVTMlZHUGhncUFQOGpRQy1PWDBaSTJuYVQ5ekZGQXpfSEFRVnNBUXU0bzFJUTZjUHNLNXF6YXU?oc=5",
@@ -1622,22 +1638,6 @@
         "content_hash": "505da8daf9e57a55c3a2841219903eb5d0d139d2d975656c54bec3ae37aa91ff",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 10940,
-        "title": "هجوم حوثي على مطار الرياض يوقع 12 قتيلا ومئات الجرحى وترامب يلوّح بقرار مرتقب - Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZThHZWQwcHRqWFdkdW9iLXBKaWl3dXNzNnVBMWlIUXQyQ3BLR0Y1d2w0aC16MVc2Q2VpRzd5SnFnSDludWkzZ1NjalhDbVhfOW02Q2UxN3JLRXJsRHowTVpFb3Y5ZnE3VjNlcnB1dk1WV0tjd3hOQkpHZEFRYk10aDR3UUpiSDRKbmpkRGx3Yw?oc=5",
-        "source": "يورونيوز عربي",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 13:32:29 GMT",
-        "discovered": "2026-10-11T17:37:33.130100+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "هجوم حوثي على مطار الرياض يوقع 12 قتيلا ومئات الجرحى وترامب يلوّح بقرار مرتقب Euronews.com",
-        "player": "رياض",
-        "content_hash": "61b6edfbf32cfa5ab21dbc19c56285524cb31b2bdc9b5beaa73ec559a3fb7b02",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -1654,6 +1654,22 @@
         "summary": "استهداف حوثي متكرر لمطار الرياض العربي الجديد",
         "player": "رياض",
         "content_hash": "6fe81e98014c96a0e17875850dd859fc157b4c49df7d30562869624bf173c38c",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 11096,
+        "title": "اعتراض وتدمير «كروز» و«باليستي» في الرياض والخرج - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxOVllyR003WGtVUlpjeEQ4SkNnd1MtWlhwTV84bTRIZWtmQ1RMcGhUNjRhR21SaEhIMzFHNm5IYWJYSzlaaE1ET2RlMm1leGQ2bzRZbmNaZzV2R3lIVmVLSGRCR3ZSVEtUZUJ2R0U0M3Q1c0ozZHFzdTRFc2lHekpvVGNETklBVi12SnNtdTFRVDVHUzRhX0U5enlDVjRKSHBORlYtSG1XSkpzZjc0b3RjT29Ta0l2emhrRlptX0c3QzBsZU1RQ0xZZkxydXVtbjF2NWNaeDdpc0EtcnZaX3VmWHhPeklsWUg2bERoS1U5VmxVdGZXeGszUlJzaFI4YUVYSnRIdUpGRXQxXzdTcVBISDBVNkxuem9RZXlfc195RkFWR203OHhjWE1iYjB2TlY5YkRQaFByM0V2Ymx4WXhOdG4zci1VMzdiMGlkMzZUd3hRQXdRb1A3M0pEUUFSYjZFN09YU1dVUTAxMjdJWS1pOVZVSElBMzVFOHU5eXh1QURoRW9yMG81Y0gtLXpCSzVpNjZacVZrRlFvMmJZUWxkcEpKVEptVjUyU09xSDBtdG9JVG5zSXlWUnMzVHVhcFhrN3hFTFdMTm1LYnFhMzJDWGFOeGJORnJ0TnhLVVVrYnBCYm54SzFwSkZFNDJJdWRYaVpUV3FpNkNSYUVRNmVaZkNpSnQzNk90aGpTdA?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 00:08:43 GMT",
+        "discovered": "2026-10-12T02:39:19.253823+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "اعتراض وتدمير «كروز» و«باليستي» في الرياض والخرج الشرق الأوسط",
+        "player": "رياض",
+        "content_hash": "96e7009497a06345f1b4d4f6c235171267bbf2acb84b33dec9d98ecd74bcfa7a",
         "sent": 0,
         "section": "middle_east"
       },
@@ -2376,22 +2392,6 @@
         "summary": "معرض «حكايات وبيوت»… لمحات من حيوات الناس والمكان القدس العربي",
         "player": "",
         "content_hash": "5a7365a84b972ad085bf30e7c3cf2ffcd81ca0acf3b6c5312900f4fd554d8ccf",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 10598,
-        "title": "ساعر: إسرائيل لا تتحمل مسؤولية إرجاء الانتخابات التشريعية الفلسطينية - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNSHhsZ3dlcGEyRjN0M243aDBjV1ZHVkxMeUY5QXVyS1lCX0F2b3NZeEFrNzZyemxYcWFyVkxLdkpWWjlZcVRwSTlRVU1qSjFjY3VMOWRUYV8tcnZCR3d6LXJZVUNpczdlSmRfSFQyOHlRQklZSXNBTVlkMFJ5aUdyT2E0ZHNsWjVWcThYMkFzQllLOW5LMXM1b1hHLWNxZTZoTzdkenRLd1NndWhTUXFDZi02cWhjSVNrbG5kNXlyYWk4ZmRia29udHRxM3ZWOVRKd0w2SGtVVEJwNWZ6c0lYOWNwX1g0TlhDa3dFUHBqRloyQlBFeFV1MnpXNUZTS3dFS3FwWHAwTy1zQkVsUl9vN0k2aHdTU0hhdWtXbXNJMWFUS0d3Q1R2b25OSlV5SVJUUGFmMktiV2xRa3I1UkJXdHA1bkY4WkU?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 17:42:55 GMT",
-        "discovered": "2026-10-10T21:48:27.635142+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "ساعر: إسرائيل لا تتحمل مسؤولية إرجاء الانتخابات التشريعية الفلسطينية القدس العربي",
-        "player": "",
-        "content_hash": "6726272e86af489d29b4f1e77c70cbbd44f860a8a356d753cce4d05e828b8602",
         "sent": 0,
         "section": "world_arabic"
       },
