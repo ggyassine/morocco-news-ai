@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T06:12:51.462147+00:00",
+  "updated": "2026-10-12T06:43:44.548099+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -224,22 +224,6 @@
         "summary": "المغرب وإيطاليا يعززان التعاون التجاري Febrayer",
         "player": "",
         "content_hash": "f030a74b4df710fdcbcfc48a3569585acaea0d3866e6cc1302c0aec916cb1f47",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 10615,
-        "title": "مجلة سرود تمنح الإشعاع الثقافي لجامعة الحسن الثاني بالدار البيضاء - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rN2x2OVljaFAxc3Y5MmJpaFJONnVOcGJsUzg4c1h6bU9heEpuRFRXSDVTZkdIZENQUW9hX0hDVnFqUm1WVk55cnlsd3NqajJLYWJhVTdzR2pUZ1JwTU9GUW9pcXBodw?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Sat, 10 Oct 2026 21:46:55 GMT",
-        "discovered": "2026-10-10T22:30:05.658591+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "مجلة سرود تمنح الإشعاع الثقافي لجامعة الحسن الثاني بالدار البيضاء Le 360 Arabe",
-        "player": "",
-        "content_hash": "34ad39fc701e725d69c5138c37f4ecc0dc4063fb4154a6a75735633542df82d1",
         "sent": 0,
         "section": "morocco"
       },
@@ -578,6 +562,22 @@
         "summary": "فيديوهات | ملخص فوز كريستال بالاس على نوتنجهام فورست 3-1 (الدوري الإنجليزي) FilGoal",
         "player": "",
         "content_hash": "844ea1adb754ac939e2d74731a1ec0b3132157cc3f48e90421088b1d1440fb5b",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11112,
+        "title": "رئيس برشلونة الأسبق يهاجم ميسي: من يظن نفسه؟ نادينا أكبر منه - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOd1FVUGdTZjhHMjlCTXhheGZaZGZzcnFscll2WDVPU2lfTG1fMzdjNExXdmtZMGFHVW5lM0tuRkQ5Ti1PSlJOdGVSRU1LUkl4YW5zQktRRUYxYTUyUmtfRTNOcEppSmxLMHNXdHJROFhnNWhZYjlySVF4MXBCeDhjaGMxcGZuaFpGQzFlbHZKX0VDQUJlVU1tZ0lLWGtVbklyaFBtTXQ4VlhqODJBY3N3MnAxeGdLY2lQdnJmUFBLbjFCaDc3d1gzNWp2MG1sNGtWemVid1ZqdjdsNGV5NGRQRlU0bUd6aVY4VDdhNzZDXzBMQV9yOEdBemI5R0ZobGZ6STBDWkc2ZzAtZno0YnIwWlB3Mnp4c3dYdXotekVEcms2T0c5UXZrdElVX1lYbHRTVXpudWVmY255LWFqMHF4eGxtUjdoNkVacnZCWlNxbzByUklFYmVzZWJBSDVMMDBHRldtRkcxcF81dFpDZ1FKM2Fpemk2UEE?oc=5",
+        "source": "الشرق للأخبار",
+        "trust": "B",
+        "published": "Sun, 11 Oct 2026 21:33:46 GMT",
+        "discovered": "2026-10-12T06:43:36.056077+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "رئيس برشلونة الأسبق يهاجم ميسي: من يظن نفسه؟ نادينا أكبر منه الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "1f3b3e388e24b7c87f33ef65b60f77c51da522626cf85e2ae2118f7655ada9c7",
         "sent": 0,
         "section": "sports"
       },
@@ -998,6 +998,22 @@
         "section": "sports"
       },
       {
+        "id": 11111,
+        "title": "كأس الكونفدرالية - موعد مباراة الأهلي ضد كيتارا والقناة الناقلة - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5scEkyYks5QkdVWDNUU2paM25LSFFUWmxDRkRtZ0FSSlgtWVBPM3VRUXZ1UnE3aWtJRVJYdlE1NTFOYTMweGpiOGM4UTRkcG5B0gGKBEFVX3lxTFB4Tm40cERNLTBJNXpTaUh5dEJJOEo0QWR4U05aclAtSVhRaDhnWVF2Vk1kbkJiTnlNVjVLS1Q4al9uMlYwRnJPdko5UmVJS3k0eGFibEN6ZVZDWnhmVUpNNWpwcDlHeHI2VzlkTkJVZ0hKR0wxOHdUVjJiQWl5bXpXYzRzSkJmaFFaZFg0Q3RnUGJ2NmRWWWFBUi03cWZ3Tk1HR2kxQXdSM0k1OC00ZVJ2RzhZNXZLTUhOSDhid2EwN1JHd0E1SFNNTk9lcHd5TENDVkwyc1FGUUlScGxpaDlpX2dtYm5JOUJTWktlVmpMV2xvU19iRUNmdmp2dHhmSGdZa2ZRZFdhUXdyaE9XOGNSR0RYSWwzMVpkN2pWUUF6WkI0MGVqbVlyOVBiQnJWQWlsSDFEdWotQnA5VURsWUZPaHQta3hzcC1BcXpYVy0yN0VmN0VUNngwMkNEaGdmRW55TXhvVmE3NUJaeDVBekozX0hfLUcxcm5XdUNLeDdPWXdMZUl5QmFtb295MUg4cUVNZGxraDBHWmVQdklkUnB4X292V19UeXVXY040bFFTc055N2poYkU4WC1WWDZIdEFTeElIZnMzOGYyZWR0WG5FbVZBMEJ1YmMzay1ZdldPbndENWFQRWdkTXBkTlhIbHVFZFJlLWVadjE5SlJZMUI1aUZjSDBKLWxoZw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 19:25:00 GMT",
+        "discovered": "2026-10-12T06:43:26.348949+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كأس الكونفدرالية - موعد مباراة الأهلي ضد كيتارا والقناة الناقلة FilGoal",
+        "player": "",
+        "content_hash": "8072d8625c1910186ce62af6e510e3174a92c034335768d178b272438cceb407",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 10989,
         "title": "هونيس: بايرن ميونخ فقد إيقاعه بسبب دوري الأمم السخيف - Kooora",
         "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxNYXQ0STd5NDM3anZPQ1Bac0t4eE1rRnFuTlNacUtEN3pnYVNBR29NX2g0WjBYSjdvMjVlTEN6RlNlUW1IcWJmZEFyN25Oc1kxQUNicExFelFoMFZER3pWQlhJeFV0U1VZVVFMNWYxN09ZR1BSQVVabFd1MUpMaW5JWHV1ZVhCTXVqVGVjNDhESVpYaHNrbmJlVlpOSUZZTHgtZzJnekRzbDRPZWtRSlVvY2o2eG5nMjBKNktKWnFwZXFzWlFnNHRNZUNpSXNYVExTVzlLUGxzeTNGdkViSVE5WWJweU1GeU1XSi1yTTJGMmhYR3NjTGJHMmxXNk5KQndveExTWVZhUGtsTERfN19vdUdwbTA3bWczWF9hMEt6cWtvb2FyN29kanFRSE9OZ1F6SDYza3JnZE1nVTBZaXNYSTBON0ZyZC00UVp0SE95SE5OREp2SFZLeE44SW5LcWZMVjJaN0dLRU1kQ2ZtTUlGa3ItNVhjcW1WNC15ZjZWMkZtODY4U3dEVE5TWTloYkdwQ2pCb1I3cE8wM01SbDZXcUhiMTlVRS1FMHp2T1VGZUpJeHRNMWRpWVYxcDk5NUFHRHd4YVE2Y1hzckE0V1dsMjZSeElzYnhOYjdWRmg4SVd1czFYQkJsMEZSMlhoRkFwOWdncDR3MGt6cGVGR3c0bEJPaWhDdndZRFhnVTQwSlhpRXBwY2VWVmVSTld2dExXaGcxMg?oc=5",
@@ -1092,41 +1108,25 @@
         "content_hash": "c21b57b9c8ad7bc1cbcc682ba4866253fbe092b53896e6bc727dabe6b918fe62",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 11092,
-        "title": "أول أهداف منصف بقرار مع الأهلي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOblVnbUwxYlpleXhIV29tM2x3aHEteEljTmVjeG1kMDRkZGFDYTZ3cU5MUDhuTDB2VFIyRi1vZVpMblNRMVJfc3VLbkZWVUt3MEFNbUwyV2dBZE1SSXdBc3lTU1N5bWlaV3NVMHRpLUtwdU9KemMzbnVkN2lsXzcxOUxBRkUyUUVuNUh4S3ZSSnJXSjBBV3QxajlmR05yVVhmbm01eTVKNkhOOVRCczhBR29nNk9uVTlVa08tQmgtNXNZX2hvSTdLaUpPQk43VXNuSG9mQ2xncXF2bzFlcjcxc3RIbFA0T3hOOS1sVDNjS201N0ljSGFxTjFkbDZvcUMySmdKRUhDV3VIWW85LWFNRnNBZW5mZkFra3VxR0dVUUl3Zw?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 18:55:00 GMT",
-        "discovered": "2026-10-12T02:17:26.762724+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "30a6b92ee0c049cf0c543de39e2a7140817eb38e001ed07019846c75986f9d4f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10978,
-        "title": "أول أهداف منصف بقرار مع الأهلي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNVXpYSXplMU9JQkJlcUkwcnloRkRSQnhMQ3lHTGFLTXk2enJaTEg1VGN5d0pycEY3cFd0bU9LX2Zjby1XUWhoZG9WX1UtSEFWN3BNX09xUXZLbXZFbTN0Q2NYV3VGS2hfZzY3ZlFYbU1yc1J0MDRhdUU1dmNTaHNFckFnUVN3MlNRNmo0UjRSd192SDZOeEFFYWZLa1I3VWJlVXJQUk5OQzBkVWRRUmttc0M1ZGFlc1NLZC1WdVZrdlBSZFVDb25vVkJDM1N4RlNyUHQtTk44YUR5cG1LenJ5WUVCRnJlSHlkVENsRzR5TmR4dmpuZHdGMEZ6aGd6c3NrUGI0QTRNNnlsQTR5blFMWTF4RmkxZGJQZ0pkQk9lanAxcnRDZ3MzY0RSajVrLUpIdzlMZzVaQW9wN014QlE?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 18:55:00 GMT",
-        "discovered": "2026-10-11T19:14:37.903915+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "30a6b92ee0c049cf0c543de39e2a7140817eb38e001ed07019846c75986f9d4f",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 11114,
+        "title": "سوريا تصدر أول اعتماد مستندي منذ 14 عاما لتمويل صفقة مع السعودية - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQX3ktdFZpcnZxZE1FdUp2Sl85NFctSzlCVEJ6N3hxUG1CbEN0dUFJdThWbENHN1lMa1RZcmExSFEtemNBRFM2OUdUNVpjenJoSlpMYWR0MWJsdGdKaEF6U3Rab0JrTmxiZ2VtdGxwcDdBS3ZEVzl2cTdfOHRiNnlfT0RFdWNuN1ZlRGtuMFJsaDkwZFVWRzFNeEl3WGZhbkVRNkxkSkRRbEh3LWliRTlmU2JuMkNYa1pPQmlocVVBYjJ0YVZKSzItQVJ4QUtiT2hCcEdxaGVMUERJVEhwU2hhNzJZLVBuM0JyNjRsZy05ZmxZbnozY082X21PbE5lUlk5OFU2ZW9YYkRDdGVRcFNKTldkT1FuSnROSlJ0REpmQ2x6SlNxT214bFJLMDZUTU5ZSm9fSWpIMXNSc19oZXZCbXgxOA?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 00:23:59 GMT",
+        "discovered": "2026-10-12T06:43:38.434989+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "سوريا تصدر أول اعتماد مستندي منذ 14 عاما لتمويل صفقة مع السعودية القدس العربي",
+        "player": "",
+        "content_hash": "1a790330f7c0a8fa5d2f27389d258ba66edf24386a2fa6744bc16567d7c40628",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 11105,
         "title": "جمهوريون وديمقراطيون يطالبون ترمب بالتراجع الفوري عن \"صفقة الديزل\" - الجزيرة نت",
@@ -1722,6 +1722,22 @@
         "section": "middle_east"
       },
       {
+        "id": 11113,
+        "title": "عبد العزيز بن سلمان: الرياض عاصمة أمن الطاقة - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOdHJPcTY1U19XQktqUUJBUi1aeWJoVnNVdVhyUWdjSWlNN2tuc3ZDMFV1TUtuaGZCeFFldElTbDRuYmlUUHAzcW9kY092VHQxSFpUVWVRUUJyY01Yam0tejBFYWo5OVZCdmhBMVBIRi03alVueExENmo2enh4bmRQYTJRWTFrUUhjdTNUbEZ3QnlfMWVxUVMwc0V2SVp5UzV5T29Udmp0Z3VWOVN2ZkZYN2JXX0NxamdrUGc3bVV5bDNNX0VfRmFuaEZmVWlpXzNiTEdKNnkyOVFWalNWLXdrdWZ5Q0YzVVB2MkN5bzZSN3JYUE5hTXlVOHlRVVEtdUw0Ynp1SjB3cnFXUzU4WE5ZN3Z6Wm92UWlBZzhveEJKLUZwdy1yN1dNY3lLRE5WN0R1dXJpT2NZSzdieklFVVdCaEgwU29EMTZGMWhUWkpMVU1jSHZ4NVZnajJiZHpEZkRrR0ROZU1tdGlTSnVoV3dVNUlyZC01Z25YVUt0Mk5uQXNXcTZKMG1BOVQ1c29TNkFRSEtINFJ3dTRlNXliOUVpSEF4Slo3amotV19V?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Sun, 11 Oct 2026 14:08:11 GMT",
+        "discovered": "2026-10-12T06:43:36.816197+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "عبد العزيز بن سلمان: الرياض عاصمة أمن الطاقة الشرق الأوسط",
+        "player": "رياض",
+        "content_hash": "cd89f835a226b3fa0e10746e36f20f4529bb1ebe48edbf579b44a114d251a67f",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
         "id": 11086,
         "title": "مصر.. الانتهاء من ترميم لوحة \"الأخوين\" تمهيدا لعرضها لأول مرة في روما - العربية",
         "url": "https://news.google.com/rss/articles/CBMisgRBVV95cUxOa2xHR0JFbnd4OC1zWVduYnl1YXdaY0x5ZmxHR2RnUGNZQUotZl9pU25NOS00Q3c2VGNaYWFFVXNIMFVoTzF1U3BMdWdhUlExZU83WTVtVGVBaW5nY1c0d3l3U0lBVmFteGo4MnN1YjFRZEJrZHdPUmR1UEhaMTBhWG5SdGdrY3h3ZnNWeDdvVUhEbTBrUU04TWdPVGtYcGh6Qm82dFFseW1uS0N5LXdVSHNoRDZJZFlLMUF4MWdodjRsSkl0U21Qa0x3eEdWRGJxeXFXMmU3ZXVodDNPWDhRWmpqWW5NYmVZYWV6TDhsY3NuVURCQ0ZrMzdRaFh3bFpvc2RDa3pCdGM5Sm1LUVFwSXAybGdqc1ZUbldxRlRXRmdIRkk5ckV3NkZUM1VsOFBUOUpCOWdTckZtMjl6MldUU0NsV1ZfbGVmWVcxZm1yY2FuQ0FGX0V3X212c0pSS2RQUUUtZWVZX05oMTBIdUQtZnFzQzNtc0ZnN2RzXzVOMDE2SC1XdXlyRG8zb2dnS0k1TnBZSUl4UjgyRVc5X1FQb0luaXZBQ2ppZHNmR1FianVWZW5Lb0MwdkcwYkxDX3NEcU9LbXh6RlNsZHFFYXRkZXJXa2duWUNkd191MHRLWGppb210MXFud3d2NU5FOTNITXhrd2JxeG5MVjZyMjR5UUNjcGk4aG43WFhsZExqVEZmMEVSaVRHNmQ1bldSMVZubUhENVhTeEV2bHhBdUFJTHRB0gG3BEFVX3lxTE93N3JSbkVMbUVoNEwxQVR0ekMwSlFFOGxUVnBiUU9UVDB6SVNPRHdobC02TjlINXhZN21jZmFWMy04ekVIT0d0OXVOejdPV2Q4TGRuci03T2k2WllkM2tLbmg3bTBGRi1pNDFUcG1lMXF0aGtobnp0ZlJ6a21DVmcwbXRmbWZLNlk1bmxXZkRYN3lmYWlha1l4QXBZYnFlU0tMUG1zWmQyMGFseENaNlktMklZUzBTRS1hNGdiZjZzX2p4OFZsNHFSNDJ6dHcyWUZOajZJdHQ0bElZSEpid1ZXTWJOVVh0aHdPMUw5dXRVZzM3OGNEZmYzOXJLTlVQZTVQMk5LdGIzUlducURJa0Rtc3BodGxBUjg5b0NTVTd1c3RTMlNzV1A3dWZvd0FfaU5mcE80U0VKOVZuZVA2X1I5cHAtVEpyY3NSeE9Hb1UtRXVyNkJHc1hJQklUTnoxVHBlNTZKZ0FheFc3RktRRFc4SHkteldRcUpOSTNjOUk3ajRHTENITk5na0xOenJhSTB1Vm0wTElvazdiTGZSTEp1WnFaR21BcXo4cnFxMXRzUDNrTEc1Um9ZckMwQjhsY2xRUUxSdHdLNGRkRGlMN2FrcW1YbUNNOVlhUGhyeGI5cF8wN25kM3VkWWxBRzVfZFcyb01Va2JzOUhCMlVIcnVZUXVvRHZiY2lDNnRSVXo2azBUWHo3cXJJd0dJaHBmdW1kR2pib3NzOGp2dTc4a3FEZU9LNjRFZw?oc=5",
@@ -1866,22 +1882,6 @@
         "section": "middle_east"
       },
       {
-        "id": 10612,
-        "title": "ترمب: قد ننضم إلى الضربات السعودية على الحوثيين بعد الهجمات الأخيرة - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxPSF9pOTB0SUV0cDAyNUxNTE9GX1EyZGtXZ2tWZnRCX2EyYkV4UlkzamFBUUlUcmUzalpNTVRobXlpVXdLQ1VuQTdnZEw5djJuaFI1NjdTWHNTMXVyb2E3dEVnNW5iNkx3TGpaNmlyV05XWmFkemZxVjhRMGJSTF9obk5IZFdqOGJadHMxX3h5cGxaVTBudEtXWF9tOThCaUVfaGsyQ050aWpXeXFSa3F6NGFtSUU0UXk4czJ6d2lGbWl0VEdJYWdaLTNYVVRHQ1k1akw0bjNzeGJJSGFWT1MxeHAyeHZJNjlJMXAwRThUSGhmVER4NHdMSlByOXdwOEZpOTA2dU5fSjZpQV85SWNxOUlVMDJhbFdkQXEtNlBDMlA0SUtxZnIyQnNqZEJPX1JGbXRsWXVpSjhKTy1sN1RYNzF4Rk1OMTd1M2FOQ1BFQndhczAxSWR2ODM1QURka1hWbTg2OWNKcERpZFdXNGxXeVBPVk5LcU4yWFpOOWRsUDZ5MXZNMTNSd2NhT01rZUFuM01ETXJxelhhWUZ4X190MmlwQ3BITVFlSmNzWnJTOG5MSW9GR1RzQTZNQmFCemRYdkJoQmNVRDk1TV96blA5MUR5ZG9MVDNrdmN6Sjd2Nm03eDgxZXlLQnVubDVLSmNxQlZGUE1TZ0lyMWZheXdCOVpiSUdaWnN6RFBUNEg1MDhfX2xTNTl6bHJOTkVDU2xNNkpZc2lyajVKbDJITklVRzctZ2ZFUVc0SnpiamVvTzZKZWxZalhCYTk0SHJEb2dhamo1NU0wV1VEekp1UDM3elAzNXdvQUJTQUxrdUk3Z2JDRVgyYVBQeEYwU3ZWTGFpQkpPNjR1MDN5SEhINEdjZ2JDMEk2cEgtQnVFR2JaNUpzUQ?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Sat, 10 Oct 2026 17:36:56 GMT",
-        "discovered": "2026-10-10T22:14:55.153735+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "ترمب: قد ننضم إلى الضربات السعودية على الحوثيين بعد الهجمات الأخيرة الشرق الأوسط",
-        "player": "",
-        "content_hash": "85b192cfc64617b64c1b96645fd1ff9707ef4cbf59bc309b62ee5767b150fe1a",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
         "id": 10643,
         "title": "وزير الخارجية الإسرائيلي: لا نتحمل مسؤولية تأجيل الانتخابات الفلسطينية - العربية",
         "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxQRVVtd1A5OWNtUnRmRnB5aVM3SWxJcTZ0M1NrdEJ3NVExNVlvc01iekVfcHZPV0IwNkh2QnJOay1Kd1lSeUk4SXktbllESnBkR19UNEVkdFc4Q0IxbVJjazVhUTc3TFFsOUpPNGdZcmpIV2JIN1JzQjUtenJLczhSeVoyZnpFYWw4cXN5aFhEdi0ySzk0ZmhWZDRQbVowQnZtQVRONDl4MF9Fak5wc1NEWXdWSW55NHh5bFF2dndwZFdfbEhOYnk2YWlLOXRSdm1Ua2w1QW90YTEtM3pSc1dsazFzWXBGR0ZnWkFNV2pIeUZOUlF6UUg3Snhad2RNcURUZXVTZ3JGR0ZieVo1RkQ5YldZaEN0a3RiSjlZRXE3RVFaTUk2cnQ2RWNNTkstWGlFaldxcUUyU21JU2RxazYxY0R0cjlraVlUdXM1WTN2S1NRTE9TWHl4WHJ3eWR4TXNQckp0aG1TM2pfUEpZb21GaDVyU240OXpTXzVaQXljZ2QtLWR1QlJQb3lQeTBrcFZVeEVjaEp5TF9IbnZQaXM3SjdGWXIwVTN0XzhoWHZTUWNBWFFBUnBKeVFEaFpUbHloVlpsRDFSV3JXUndoeERwZHR5Um1GT3JhZDdOU0p3ak5Denk4dVZnMHB2NFFWZnJORjMwUUJtZHBpT0Y0endEXzZHYkgxUmM0RURFWGR2RkhTNTQxQmhLcllFT01uOWQxMnVuSkVuWlo5eklRTV9TRG5jSkxtWUsyYXN6dE5lTEswdG1iUWYxeEpDbzlQakt6TEp3YdIB2gRBVV95cUxQbkQ5Sm51TFFScnRPbkZWMFNVeGl0bEwwMmJBb3o2UGdWMjY1SGVYRFUzVHgzMTRqWHdKNlZBczZVaXdFYXV2UFZZYlVScW5OTDl6TUdzTFBGOFhxOFQwTFFVV1hISTlFRGRWVkVKN1lEOTIwRUs1aFZ4V1JWeWl4ZWpqNlBMMDd3aWxHMnRYYU9PS19pZl9ZTEt0NVdNMjBpY085Y0o0ZjBDdXFxZFJ2TGRzM0JfNXZVbG14bGpKZlozQXprRGVwdm44N0djalFxZVRDZ3FjV21PUFl3ZWViUk5SQ1MwQ2xzQXVyWm5ZU0RQdlFPR0VQYnozMXl1M1RVQlBqc2Z0NVVJYzhSaWZ0cm9XWHc0WXMzc2ZZSm41LXpVcWZQU0hveTNlTktEekh1ZElJVXN3WDdnbDZQYm5IdHNxeGdualF4bUpxTzZ3ZzhoQzRSQWl6empaZTZkTTNISEZmM1VqdVIwSFFWMXlJUExrd3VPLURwbkR4SUN4elBpNHM5YTI2aHZzenpqVFRlVzhXX1o3akZ0eU1md3k3dzlOYm8yZ1NxNW9hTlY4Vl9lcEVIYW1qeU9qai16SVVDRk1aQXN4eXpMRWVwc1RveGZYTUk0RmQxcFRvODFLTnZwaWxiN3ZCSGUzYnF5bVZWWUV4cEF0SW9wSWhkUEtoV3plNHZYTFlXUjk0UHM4cEthandGZncyUTFqajVlbkZEaXRoTlpGeF9ST2NUcXM1TTdpTk9GTHY1YmlUemw2ZE9OQXJpX1pTMktEbmwtdU9KNDlKU09hVXdmUQ?oc=5",
@@ -1896,25 +1896,25 @@
         "content_hash": "94bb911269698e67e5e4c09cf7e70119cbeff558dafdf82b2fe9547548dd85b2",
         "sent": 0,
         "section": "middle_east"
-      },
-      {
-        "id": 10692,
-        "title": "الخطوط الكويتية تلغي رحلتين من وإلى الرياض - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQZFRhSExJbU94LWJSM2M4TE1nQ1c2XzJ3Z0FiWFAxZXhwYWllc01ReEgzcmpEWHU2UlphQWI4ckRXYWl2cWsxdFg4YnlBeTB1cF85WEhrWEJ2bVRWbFdDb19uVXIzajl6NnVuWnd5OEdKS01JbUV3UUdZZXRmblhidi1fNkE5dFJCaXh0N3F4NFNVMlBmWnZhRDFaamZVLVBoUFQzVWpEQXF3RVlkNWotNW1QZ0w2UnF4X3lwQklUOGpUTUJSWjAwNjlZUEtwZU9ONUhkUWg4UExJOGhVczBvVzlEU1otM280elQzalZhNEJvVzNnYVR6X2xrZnppV0gtOXBsb3VJY2xRd3dlUHV6TUFsd091S3R0WlVJdVNQdFE5akU5ZV9IVlNueDB3NHh0ZXM3RHFONE5ZakVzLUk3UWRodERXZVppOXh5ZGM4ZmdjUlBZVHUyOFRwbzJCZmlvalJ5eFE4Z3BZcUoteVF3aWR3VU54QdIB-wJBVV95cUxQdTFOLWN6dklkaDJLdnlxUXc5VUk2LURMWVA0Um9Va2NwN0otSVFIdG5OSXZtalM2aTBXZVRneVlQM2Q4WkdvVUF2dlI5M0k1X1FoRDBnVXI2Z2llY3RRUGk5RklOUkpTZllRUlhjOFhnZjVZcHFGWU1oMVFnaktJWThDWDlydkljTnhCbWxzWEN2SjVmUEZSdHFkc2p1dE5oOHk5Wmd4eU5WVHJ6WGtBV3dqeGxqZFlDWDZGTkluRHFfY2g5M3FqdVlSMXJOSU9hSy1nWWEtRWhLR09GS3dDTmpLLWVUYlEzQmlOdklUbklBUE5CSk5fQld5MVdmcmJPNU5BR3FnMVR1UVRHbVp2elRMMUpVN2Q0VUR6SVlCdDMzNGVrbk9hcHpoMk5Wa2VlczM5Sng0YkNmMHBjaFFXcXc4eDZ1NDlsN3lzMkk3TkhXTTdCVERxUHBxcmRXVjA2bVFmZThWbWJUaDI3VEtlOUdQZU94V1NOMlJn?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Sat, 10 Oct 2026 14:44:20 GMT",
-        "discovered": "2026-10-11T02:03:15.450197+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "الخطوط الكويتية تلغي رحلتين من وإلى الرياض سكاي نيوز عربية",
-        "player": "رياض",
-        "content_hash": "f5c37246a40941f23ecebd9aebfc7af7ef0b3b88982258e758e5f97597f993f0",
-        "sent": 0,
-        "section": "middle_east"
       }
     ],
     "world_arabic": [
+      {
+        "id": 11115,
+        "title": "مقتل شخص وإصابة آخرين في هجوم جديد للحوثيين على مطار الرياض ومواقع أخرى في المملكة - DW.com",
+        "url": "https://news.google.com/rss/articles/CBMihwVBVV95cUxPVlNHMTRuczZQOWpuZXA3OHVmalNtZWI0cUlhSjBnUjRXSFM3ampCaWhxbUh6aGRweXhsREJZMXJBUVhZME1Hb0VwN3FHNFgxeW1nMHRZRmFkaEE0eW1iTUtrZFRyZ0lYOFRlQkVkY001NnpXelVkVjZ4VVc1YXZBU2JiM3dMM2NULTlmWnlVcG53eHBTTkE3QTI5SlFwQXZFclpBRzNkNjBURUZqVFdOQWdBOWhXRHB2bVl4MnRaV1dWT28tYkc0dGViLW1QVU4zcnVYekROTXhuMGdfTTg0RXI0d1Nka0t6SWRnRnl1QURxM211VHF1RklpOUNmZ2VneVJQSGhtY25URjNfVHJaLWo5YWVLVHM3WHJPUTBFU0d4QVYwNjJPeWgwTzF5cWNyei12ZlpnQzlyYUNQWGI3R1VjVU9GbFhjTEN2UUJONkRXM25OVlpuallGZDRiR05mUmVqSV9qZTlwLVJyLWZiU3Z3czBORVp5Qlg3OVBMUk42MW8xY0pZNDAxdk1DWUdFN2trdEdrMTQtRk5oc3llZFhORWxoQmo0Y21nemhSOGY4azN5aGV5clZqR2s5RHJDQ0FnWDNqeDJLa3pXTE9XaURyNzNLVk5hVWFydnN6ODh3ME1MQWdvNnBwN3dGeGJvR2NjeHFlQ3ZUNjBlSWE0S0J6R0lEOEtEZ3FHM3d6LUh6UVZibTdlUnozdVBHZEZBYTdxdUZJektKOWRUay1VUnNpNm00eWtXMjlPaTE2UGlLQU82UnZ0cHNSX1p6MllYbUpHM0NSdkc0aXNBdURDWndBT2dLbi1EVUNHMnNFemVrS05Hel9xc1Z1dzJXYVI4YmZlRF9ibw?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 06:31:18 GMT",
+        "discovered": "2026-10-12T06:43:40.046339+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "مقتل شخص وإصابة آخرين في هجوم جديد للحوثيين على مطار الرياض ومواقع أخرى في المملكة DW.com",
+        "player": "رياض",
+        "content_hash": "b97647b065bac7de463684739a9fa94b1d54ce0e86ea34990a9b121b9c1e30d0",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 11102,
         "title": "تراجع استهلاك الكحول والمخدرات بين المراهقين في البرتغال.. لكن من الأكثر عرضة للخطر؟ - Euronews.com",
