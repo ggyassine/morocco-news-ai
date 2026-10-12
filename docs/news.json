@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T17:15:21.220265+00:00",
+  "updated": "2026-10-12T17:35:59.691556+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -310,6 +310,22 @@
     ],
     "sports": [
       {
+        "id": 11248,
+        "title": "فيديوهات | ملخص تعادل المقاولون العرب ضد زد 1-1 (الدوري المصري) - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SQmlYRVJBbEpjVEJLeUdYZUNPSkRTRDhueXFhdjdSQ3B4cFZaT3E5S2pjV3ZTWEJMZ1VtbzVYZk5RbGMxUjJ2OVFWM0k?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 17:13:00 GMT",
+        "discovered": "2026-10-12T17:35:41.255512+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديوهات | ملخص تعادل المقاولون العرب ضد زد 1-1 (الدوري المصري) FilGoal",
+        "player": "",
+        "content_hash": "74a7b3878f96d4ae848a68d5e43c6367aaf63f64ed57ad2dd534f5225af8c37c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 11243,
         "title": "بنك المغرب يقيّم مكاسب الدرهم الرقمي وحدود تأثيره الاقتصادي - Febrayer",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9CdTNZUG5VNjRLNlNyOWJLb05idERzRVhJZ0lKN1Z3RVZDY0JjOW1DYkVaQmRsUXJOS1VLVHh3NFk5czdaa3JVTQ?oc=5",
@@ -386,6 +402,38 @@
         "summary": "خاص winwin.. مخرج مباراة القمة يرد على شكوى الزمالك winwin",
         "player": "",
         "content_hash": "e17703ade52cdaefdc2b229b56868022729e71ec50a9f147a6e49697ae72364a",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11247,
+        "title": "جراديشار ضد نذير بن بو علي.. تشكيل مباراة بيراميدز وسيراميكا كليوباترا بالدوري - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiggVBVV95cUxNU0JCNG1IUVAta0JfUlR1QUhDNXJ2Snc4S1FZZ1lBZUI4RFJZa2pqclczRDVyNFpmWkdVSFhRLWkxQWNJS28yMEs3Y1YwUkFoeTFMazNOdENDUU5jbjZneEhKdG83dGxhckNVQXZsa2tXWlN6VkgxbFQ1Q3dTOXdUdklxWTRlLXVLN21EWHF3cG1rMHhpSTZoYVhtRWFnUWpsYUJDYzk0dkZaQ04zaU1fR2ZfaTFCa0pwR3hpREx6XzRUTFR3bk1OWGhQLU5uVFZGTlI0bkY3MElURTBMLTBTMnBGU0M5Z01YQU5JR2hLRmZSc0tKcTgwcGVGaHVDYU5oU0lTNVJncERfUlpVM196ZDBmT21vbnlSeFBKMnczVHRTZkZRZFZsZ21rLTJ0THZBSHBfYlQ0bllQRlNaMnJQdkRCV0V3VV9jOGd5YXhodEtLQnlXOXoxbUU5RHRlSlU1VFlYel9fUjdzN3l1Y2RvOFppYTRiN28xQTVSTVlld1l2STR2VlltRmpmdVVwOHNtdWhDMnJkeHI2UVNzTkx5UGVCdGtjUzM4WkZUWHhZLVZ4LS11UmdHWWNkYzBaWXdaTkpPcWgtZXZJLUdkeWdKT0o0QmhuTnYtUFQ0OGgtVHoxMVZJZDhIQUlsOUtTUTlwc3Rja0l0azdPLTB1SWwzc3V0VUh4eEhXalZoVWhoXzVXYWJWTnJobzZSQms2TFhFVWR4Sm9xOUFJeDhMcGg3Vkw5bWJkR2ZXdWw4OWRpSVhqYXF1M25zRWZNeFRScVg0OEp5alJ3dXV1LUlMSnlTRzZXdTFmTkhLcmVaekRfWmt2cGFSSWZfYUdfelRmMGRFbUHSAYcFQVVfeXFMUFZJdjBXSnB4Rkt3MjRDZHVZbXJyZjc2aVNuSmJTb0t1VktGNHV0SFFicVBDd0VFSEQ1SG9TTTlDWXQzQ3lPM2pyWG9hN3NXRElKSHhBa0JfNmJPbG1aMWtJR0N3SE55REdwakk1dmVkTlVkV3ZCcmRSbW83cUprSFc1VHF4aXo0SmxqZlNiV2RqRGVJN2pBSXRiYmw0cl8wbHVPTDlHZlZVOE13dXBlbzhZXzk4blM0MnllOHhRQlFkRGlFamdWZy04TzJldzlVbEFEYjlGUV8tdkFWZFRFNHNiZEpwZVB0QVJVVWxvZTBkcmJtUEFrU1VBVnZ6MHJQZmdEVzhKc3h6UFFOeW5PUks3SWp0d3FDRFJZVDlSY0JiZGtzM1o5eV9zYlBYOWlZQXdXT0ZhRXpiTHI5NVV4alFXR1lneEFuV2Jrd1RYZ18yckE2SXduWEZCb1Q4UFJiWDg0ZHAyUEhaODJTellQYTBDNFgzNXpxNkItSlFiNDlUaTE5UU1ITWVhNFRlY3hrQnpzcUt5a202VjdBOHJIY2VKbmRXOG02U0szZEJpM1RlOURhaWdWLWZMMXBib2ZXODhkOUZLakRwdEZ5VFdfR3ppRkFEa013NkpGV1g2a0dpZ1pnTXJxeXhqSFp3QXdMSHdGVjAwcGh6MWJHd2UtRjJnZkN2QzQ2bG14QW53OEM2VnVEVTRYQXlTQ243TGlGa0w2NlFISmtWZmdUUko5ZlVFbzVTNUd1Yl95cC1TbFg5dnpDZDF5cEVKY29qWjNlR0hWMHl4OUUxR09FazVQUkNKTi01dElfeWh1U1AtWG9KTXVYOGpDa0kzdFc1TE5VdTd5VFB1cUU?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 15:50:00 GMT",
+        "discovered": "2026-10-12T17:35:40.408681+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جراديشار ضد نذير بن بو علي.. تشكيل مباراة بيراميدز وسيراميكا كليوباترا بالدوري يلاكورة",
+        "player": "",
+        "content_hash": "87b01bfae66bec31f20a7745bda52a2357059d4a646304136e62929bc03f9e32",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11251,
+        "title": "\"أي مطار هدف مشروع لنا\".. ما حقيقة فيديو تهديدات حميدتي لمصر؟ - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNll1T3kyYldodDNna1NqcnVhUm92OVNNM1JrLTlsMHR5c1E2TkctUkpjVjg1WFdXSmh4SnM4NVRGTVJiU1hQT3A0TzgwbnB2ZUtldnR2RVVPY1E0SlpZS1o0V1dVb0xiZ28xTS1OREJyZnpFTzZjODRKdjNTMWY0RWlibTZOVXIwZWhOejFqVUkxZzJqWjNuYnRWS3g1WE9jVkIyU2V0V3hmUUUwVkZXeFQxUkpFZVhXMlJKOHpPajhTMmYxRHpfcElOcU1UUQ?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 15:45:05 GMT",
+        "discovered": "2026-10-12T17:35:58.210397+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "\"أي مطار هدف مشروع لنا\".. ما حقيقة فيديو تهديدات حميدتي لمصر؟ CNN Arabic",
+        "player": "",
+        "content_hash": "ed589f7e33a152326746222fde8a06da7f00e59f0c814d916dfb4ced0474544b",
         "sent": 0,
         "section": "sports"
       },
@@ -998,6 +1046,22 @@
         "section": "sports"
       },
       {
+        "id": 11249,
+        "title": "وزير الطاقة الأميركي: دعمنا ثابت للسعودية وندين الهجمات «الجبانة» التي استهدفت المملكة - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxOOXJHQmFPMnFrQUQ2a1BKaUxOdTZPQlNFRlFWR000djNCbE0wY3lsNHI0MEtiQ1pqUUpaTklYcUJEdldhX193T3pHWm4wZFNoM1NUeldTQnJXRFItVWdMMHltaDBET1gyOE5rdVRsZVJyRkVlMXZCR0hXS3U2NWl2eGJtaUVhUnNEVG45T015VTlKdnFqZUtRR2JpVEwtUk9Ia2ZYVGllV2ZkTWNQelNFOTl3RXE2VXVzUS1qekFEY3Jxb1dPNklQT2JhY19yc3ZVazcwS01uRFFVSmFnRGZfNmUwSWVjb041RENoemtxSHNQUzItdkE5RTVpSzNfUklYbkpxZXV6QWlpOXVyTHkzN1c1Mkt6SEFYVHVUS0JxRUNqUXdmbjhFTXI5Q1prYTFWTUtnbnY5RHF5QTk3WEczN3YxVWw5bi1MaDg2SlVZV3NiNmtaN3BlUE1sMTdvOGdZSHpibWtRYUI4S3ZpZTNaUkFlalJ5d0pUM2tzbnBDcUw1WjJkWmlZLWRUTkJHSkRSRXNoclI1c0M4NXNWXzQ0U1FkNzVfNkZSNmdZaW9nZXJJQzc5aVFQWmN6ekNnSVZPWmgzZ3JtMnBkZzR1UmRYSVp6Z0FMVTU4MV9WWjdwTW5YUzdpVnp2YWhuc2NLQmhFVXA0b1E1eThoU2ZmbGpiMVhXLURzT2JLUEk5RHhjbmMwNXc0SXAzb05Db1p1SmgzTTVpMlJCQTJjVDlLVXR6OE4teUlsUnl5NWZJaDJfcmFhNzc1Nl9rRFFaRDM2R0FiOVRHRUpZWnYtTVRMWVVtanlSMDBnM09oYXJXaFZ1SnpZMHdlRDJpb29CeHpJcTI4UDRPRDJWaDR0NjRGM09QMDlQYWtmUGc?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 07:52:40 GMT",
+        "discovered": "2026-10-12T17:35:51.912878+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "وزير الطاقة الأميركي: دعمنا ثابت للسعودية وندين الهجمات «الجبانة» التي استهدفت المملكة الشرق الأوسط",
+        "player": "",
+        "content_hash": "bc48f4a3b41025b9915609c06c65183e36a9d0d4d6ee6e17f8602c9d99faa856",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 11159,
         "title": "الرياضية: الجهاز الطبي يمنح الضوء الأخضر لمشاركة إيبانيز جزئيا أمام الوصل - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxPeXR0LUJvQWszWWx4RHgxNzNZcF9iTU5ibHJQZU5oRjlxd2J0SGVJcW9pM1FIOWVtcURoYm0xWmc4LVhIMkVvUHlxRi1qQU9BbTFXM2VkWlM1eXFTYlR2U3NyRVVrME9LcXoyTkZSeDN4QTBsX3I5RzN6LUZiNEtVWVdqU09GcVo0T3VwNERrNzRfNGp3NmR3OXBlS2c4N0V5SWlMSFdxTWlHaE9lUEJ0d0l3aG9QSmg4LTJ3cHhjSWRRQm1QVWtQUEUtQ0FoeEZQT2VLb0ozd3lReFVoOWtXem9zWmRQYmdDV0RNaXgxR01NMjBIN2FNZDdrc1VHUTFENHM4cGIwdHBVS05XbTVRamFud1MxZ2NFMnNqMXZzcGhnR0pRdmRDU2lSY2ptWVdGQmJvc2ItSUs0NGxYZDdIMEpYcmViRzBrYTZPRm1PM0pjTWlLc0xudFdybnE4VFdTejdZZUUwUElWc0lwc0tqREVmTE1MM3hWVTRWRUprWWowYjJ1bHE4QklxbFFTQnZjbGlmcXVoSWdtV0FSdkx4TnpNT3V5YzFaeDRLd1BVS3RxM1JnQVdHZzRfSmo3a0JKcWhaX0FnNDV0RkJpR0hUZmk1TndVWG5fOUdqU3owd2F0d0V4WXJWTVM2bXVYbGxlamtQS29zT094d1FEQ2hfaFZVM01NbGRFckc4NzBIaVRzMlhZQVhNQ0RjNndBaFJKbHowUGl4Z0lvRkpOSDVHY0t2TjFYVjZSSWIyXzktWGRxc1A0aEJwVW9HU1c2RVXSAdQEQVVfeXFMTmh6bUZZdmxzTjlrbjJuSjVuOWZJNVl5ZTJPX1BvWW1ldFpUUDNGSzhfZzBLMWdNRnE5V20tblM2dXVmeFpXVzZZOFRSTDd2elNydU5YZndEcHZCNkVyb1lmNjlGMkNnQkVWOTdfWjFTT2p0QU1pVTFTSWJwSUxBX05UcGFwZkszUWlPY1JlcmlOa2VnYkREQ193NG9udnR6TF9SUlRHT2tPNnJFYmxEMzNEa3p3V1B1OEVOUW9HaDgzc1BXWkxKa3Y5S09WaUxQNDUxODVKV2w5dGNtdmhXRmpUeHlFTnBkMldUZUlOVXdKQkJOZkZtdW02bHlaRTBMRXE5bXlmWlFzb25sREo1N0xUSTZ3MnlwSHNsZHdjdExuTVBaTEJJTDdBclZIRXhUazZSR29TQlhIVkMwNDlaWGd1RmdiNFpBa3VCWkN0cDNnTVpZWEVla3Y1SVg3TGpWWFdSWW92YVBxcHBTSWNTX1YzeS1za2hKOFVrenBHRk5GTFJRa3h6ck5MWjdwQWtJb215TzlSRVo3d245UUxTWlFPeDZXVkkyczg4akRJWnVadzZjczk5eXVoWnY5SWpxcFZ0aklZSmw3TUQxSzlXcUp6dFNzTnpHdlc3c014ZHJYTXFsRTBESGJmUEFCUVJKWTNBdUZaUGU0NlpMOERodmRPc0hGazZCajg5cDJfRFlwelV5Nkl5SUQyY1R0aTdIcThDbEU5REc1NWZNVG1NOWlnQ1Vub1ZSM1ltSUJmOWlRTXBpX2JhSElkQW1ZZFItMGkxaFc?oc=5",
@@ -1042,70 +1106,6 @@
         "summary": "يوفنتوس يفلت من الخسارة أمام كالياري ويكتفي بالتعادل في الدوري القدس العربي",
         "player": "",
         "content_hash": "3acccf1e3f7edfaa0d79cde930ca50836ad53bd41e7b82688e1cc534e1cfa788",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11083,
-        "title": "جدول مباريات اليوم - 12 أكتوبر 2026 - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lZ2JfLWRBc0Q1VlVIUWcxcy1KdS1SWEZiamRhMXRnRVJfMnZQZDhiUlFmT1g3TWh0b3lXUzdxWTlKNjJCQTh3Z1ZsUWIyR01ScnltZHpCeVNWTXc?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 00:21:20 GMT",
-        "discovered": "2026-10-12T01:00:50.111919+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم - 12 أكتوبر 2026 FilGoal",
-        "player": "",
-        "content_hash": "ce6ab2333dee611ed8bc740d1de35d93236da1ab06cb6bf131305862f9691f58",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11075,
-        "title": "جدول مباريات اليوم - 12 أكتوبر 2026 - بطولة دوري أبطال إفريقيا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOd25TMzI4UGZTN3I2dDctTUFCWWdWVE56aDR6aXpDZ29UbGFRRE5wYXNWa282YWJNdFlrcjc0RWJjbHpJX0xWZk5NS1MzbS1teEhhM3QtdlZ1WDhHZzE0TmxRVGdlYzR5WlRzTDEtb0RQLXpEOTkyREh4bHJ2a0diR21vdGItV3k1NkxVZnBHb2hUNC14VFdCWDJrWENYZW5tUWhFUUZLck5tT1VzRFlobFJaTjFlVmRNeE5UaDdQbUhDdXdNYUNVeFRRMzZBcE5wTmV6bGp2SEJXSmE5aVlqZ3dHSXRpNWEyZW5pSTQtcjRBQVJFbmJkYXYxYThRbkZza0tvVWRNcGk4OHVTazQ3S19YQjU?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 00:02:55 GMT",
-        "discovered": "2026-10-12T00:33:13.969177+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم - 12 أكتوبر 2026 - بطولة دوري أبطال إفريقيا FilGoal",
-        "player": "",
-        "content_hash": "dcc1015989e92af4d0167ccd985834bb949e00f498c68e1b72736793d3e3e096",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11072,
-        "title": "جدول مباريات اليوم - 12 أكتوبر 2026 - بطولة قطر 2022 - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNUdPVGptWVBfQ1p4QU0tVktqeW1ocmt2LWdFdEtXOHFfeGlLS2Y0SE0yZXJYamJ2NmJwRk1SRFF6SlIzQl83X3RWQ3RmU0V2V2V4VlJsY0hzU0RfakxQQXQwbWwyUklJd0lNaHllMXZsQW1rZ0w5Q2ZxWmpaS2lnRW1LbWNTVDdibGZjbGdocEd2Z0paeHZfVERqRVdoZElfYk1fYTJsbGx2bGNWZjRYYg?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 00:02:04 GMT",
-        "discovered": "2026-10-12T00:33:13.945110+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم - 12 أكتوبر 2026 - بطولة قطر 2022 FilGoal",
-        "player": "",
-        "content_hash": "53f2df6bd025567988574f28872d63dfe0caccc47b82b989ba05082889c6e276",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11074,
-        "title": "جدول مباريات اليوم - 12 أكتوبر 2026 - بطولة الدوري المصري - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQLS1mckpVWmVXdGsyaERCblFWMEgwbTJ1TnVIempRbEV5RWxWaEYydG1JTnRZZ3Z0Q1BtOW16d1hLTnJYY0hjNlVhWG9YZk5LMmRZaUdWcEgxQXQ2UWJ6RjBVZlJrZURVQ2lXZjRnZUcxNVNTWEVqQlg2S3NYR0gtaE1fS2VuYjFXRGZSbjlHMEozbEJORVlRN0pkaTRJUlFQYVNQZGlQTVgyMlNmTm9RQ1V4bEM1d2FJRXN4Y09TMkJQeEtWRWdRNnBqS0x5XzlDa0JiODhMS0tUMlgta3NJMk5iaFZsbUVzLUJJNUZ3ZmRZeVk?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 00:00:28 GMT",
-        "discovered": "2026-10-12T00:33:13.965845+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم - 12 أكتوبر 2026 - بطولة الدوري المصري FilGoal",
-        "player": "",
-        "content_hash": "0ee9ccffb050d1b6250ce3f03ae7bf4ae48df3b317d41a31ead6cd615352dcfe",
         "sent": 0,
         "section": "sports"
       }
@@ -1964,6 +1964,22 @@
     ],
     "world_arabic": [
       {
+        "id": 11250,
+        "title": "ضحايا هجوم مطار الرياض : ماذا نعرف عنهم؟ - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HQVUydkJURHpDUnkxVmdoWDNqS3JHU3A3cFg5c2dOYVRUN1hfTnpSR1VJWEs2aTkyY3RwVm9kcnFSTkRJNFQyWVFtT0x1SWl5YlVMUUxxbDZmanZnUlHSAWNBVV95cUxORGZMX1VFUFRpNnREMzRpSlhrMjRsUVlzS2JCaHhOUm1aLUJ4Q242d0VlMzVZOEplV3RReUpRNkZkSGFxa2xXMjdVWHgxNU40OHJ0bHNValZFRVZBczJMMFI5eE0?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 17:30:42 GMT",
+        "discovered": "2026-10-12T17:35:55.907834+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "ضحايا هجوم مطار الرياض : ماذا نعرف عنهم؟",
+        "player": "رياض",
+        "content_hash": "4ad0ec06a6ddd822b88e501a782ab1d5e9ca7ac96c069231f8b5d527dee43c85",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
         "id": 11209,
         "title": "أم سورية ومضيفة مصرية وأب فلسطيني ..قصص ضحايا مطار الرياض - BBC",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qUS1UaVRLQlJBdkZBcWw1OENKdzBVeGF3NXE1VmRaalFicVAwX0lEalg5T1U3V056U3YzeDdabmYxNFNjLTJVRkdsTXpwZVN5LTE1NmY2YlFPdXZ0Q2fSAWNBVV95cUxPQWR3N1RSZEtpU3BybndQN2pER1lJLW1ZVklOcXE1WFZGdmdkaV9UMWFDYWplWG9XNnhTVm1FdjZzZU1LVTVuaDB5TV9aZjVVU1ZHLXBNaXozSWxraWlVSlRnSlU?oc=5",
@@ -2392,22 +2408,6 @@
         "summary": "بولندا تشتبه في محاولة اغتيال رئيس الوزراء ووزير الدفاع القدس العربي",
         "player": "",
         "content_hash": "310a9a214f3b9e93d5f2c326e9a222312e8bf0404851c638a5614c1eca789a51",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 10836,
-        "title": "إدانات غربية وعربية للهجوم على مطار الرياض وتحذيرات من تهديد اعتداءات الحوثيين لأمن المنطقة - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPampVMXREdGgzZWFaaUk4SFhidXlVZDRqaWg3UTlPLURfdWFseGdrSVRGeW9vdFBFT1hveURUclg4VWlfVXFNS1BSeDBIc3hCWUk0c1FpanhXZGtSaXkwSGVYTWJ5UjdHU0ZfQy11SFNnTkYxYVlDUHBGS2ZnNlBsUldBeGhOWXltOUlfTFdacnpuekJabFd5R3o4MEQyRmdKdGU3WFZNUC1lM1o0bmhlMS12d05FUFdLLVBqRERNcmVjc0x3aUlaSGNEa19MMkcxLXB5R3U2dHNFQ216VE1LOVpMX1ZTclJqWUxwT09VQ0V6T3hVTmVVWGVtcHpKLW5PVVAxeWZlV0dyaWh5ZUEzUV8wcnU4bzNKTHQwRXo4ODh4bEhnZWdpdlZYOTNubkxIbHFYQ0ZjN19yWTh5WkF2NzBzWjhUcTg?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 11:59:15 GMT",
-        "discovered": "2026-10-11T12:33:45.882655+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "إدانات غربية وعربية للهجوم على مطار الرياض وتحذيرات من تهديد اعتداءات الحوثيين لأمن المنطقة القدس العربي",
-        "player": "رياض",
-        "content_hash": "77d5056e4c51e7d9fc61795b774c219f85ce6de2f5d564e3f9ef6e958fa65a0c",
         "sent": 0,
         "section": "world_arabic"
       }
