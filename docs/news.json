@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T15:46:20.776828+00:00",
+  "updated": "2026-10-12T16:03:22.440947+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -306,25 +306,41 @@
         "content_hash": "7dc2cbbb286896dee4aba8c61e9e250499dc02472b4834a3f92c424eb542a764",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 10962,
-        "title": "بعد وفاتها في هجوم بمطار أبها.. تشييع جثمان الشابة المغربية أحلام بوكنة بمكة المكرمة - العمق المغربي",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1fVy01MDZyR3BkQll5ZFFnR2xoUnJrb0pWLXpBenU1M3lLYkJkTm1aM3RSTU9FOENBQVMtTnVmZE5NZG1aZUHSAUtBVV95cUxNaEtrWWpsQUZHX2ZGZTZMNDN1WnBzZUdValh1bW5BajA0T1BPTUFJNU5BV3Q1SWlpVkRMTDZMR3VWcGRiZm13TnA0bUk?oc=5",
-        "source": "العمق المغربي",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 10:43:34 GMT",
-        "discovered": "2026-10-11T18:42:20.163249+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "بعد وفاتها في هجوم بمطار أبها.. تشييع جثمان الشابة المغربية أحلام بوكنة بمكة المكرمة العمق المغربي",
-        "player": "",
-        "content_hash": "153a89ea11ae29f7500ab22da33bd763ef0af62200e42d01c598e1b9c651a82d",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 11226,
+        "title": "منافس لحكيمي؟.. تشيلسي منفتح على بيع هدف باريس - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQdkdpZzZkVk8tZ1lRbmdtUFdCbGVZTkhNd1R3YWloRkU5aVVuUGk5QUphQUw3eHdVQUFrS2JJZnktZEtBeTdibWlfREtrWGphQ09Uck1ldjhjaUVYdldLWUY1LVpEVGhITHAydTR5aDBaOFFwU1A0ZUJ6QjlNNDlZb1Y2TXJrcWxhcTFTVTh4akRBSDh4SWdDYng3OFhzVWtZSHFaSGlRaFQ1dURTTWtHZ1ZnZlFMczM2RGN4cjRWd1Zhd2xWSVgzT2NYa04zWVMwM0tTQVpZQzh6RzFwNnVNaThQckxwSjlTQUdDMGEtcjU2cnZodUEwR2Z1U1puR3AzRlBQSGhZaWs3TDgyekpqTFZPZ0NURlJsbkk4T3RDbnF4QnNYbVJRVThqa09LU09VY20xdHZWc3BGWGctMWpFN1dxcTlpUHFBaTJyQkhBb2VjWnhtOUVVdWhQUkNhZHRzQUZVVTFkWDV6b21JVlU4VFZoY2RyMFFjNUNqSEhWMnlleUlpVUo5ZFJ6bXZnRW5WbDU1TFVGdnk4VTVhNUt5YVdnSDEtMFdOQUpTbzhoUTNLamc5SWVyaElEYmlRbHlCLTJ3OXFGZXZHaW9telhMeXgyQ1IwQUVWTWZrSQ?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 15:44:06 GMT",
+        "discovered": "2026-10-12T16:02:56.598993+00:00",
+        "category": "الرياضة",
+        "status": "منفي",
+        "summary": "منافس لحكيمي؟.. تشيلسي منفتح على بيع هدف باريس Kooora",
+        "player": "حكيمي",
+        "content_hash": "608a692c9f4385df6e3d19c1424e86d2b6a6f836c8a4ae334698d682b2c649b9",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11227,
+        "title": "أخبار و معلومات اللاعب مارك سانتوس مدافع ليفانتي winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaVNKdS1zdGdrU0tMVW9qTG1ldmNBYzBGLTltVmVyYmNhWW5vUjZkVHVWRER4UU9Gd2pyYUZ1S0F1YlVRUzlLV24yS0xOTzZoNTNvcUM1MGN3YmJqWDZMaDlhRmJoQ0l1MlVCSkkxX3RFWEdiMDBSdDNVaDZOdmQ0dGY0YjJBdjROcFVwUUZ5Y0pwc2pXOGlpS3hLMXBNeTQwSmdRYzNtQzJQZkRNbU1xUEhRY19mSUpaV2w0WTh5VEF2YU9HeWhlSGk1WmUxWS12d2FoT3pqakZBZGJkd0RjWG1PcV9WT0hPUG9Pbk5obDkzc2hxLVpMM1Uxci1aMWMxVGVr?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 15:43:54 GMT",
+        "discovered": "2026-10-12T16:03:01.893849+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب مارك سانتوس مدافع ليفانتي winwin winwin.com",
+        "player": "",
+        "content_hash": "d972e24be03317b07e601fcc4401d877b263d8259692b358780e9cc3287e2726",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11222,
         "title": "كرة يد - بمشاركة الأهلي والزمالك أون سبورت تعلن إذاعة مباراتي نصف نهائي بطولة إفريقيا للأندية - FilGoal",
@@ -530,6 +546,22 @@
         "summary": "بطل آسيا يقود رسميًا منتخب البحرين Kooora",
         "player": "",
         "content_hash": "4634279330fc2a9e8d58131fd75b33a1415e2473bb1e422681b31dd9e5275b03",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11225,
+        "title": "واتفورد مهدد بفقدان عثمان معما في يناير - جريدة المنتخب",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtSldwMXRCZXhYLWhpWV9FdjlTbk12V3ZpRVluZUN3a0QweWYtQV85ZW4yN0liaXhFTmdSalRONEVEcXdJcEpUbWpsUVJmYmpWa290MA?oc=5",
+        "source": "المنتخب",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 13:48:11 GMT",
+        "discovered": "2026-10-12T16:02:55.861823+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "واتفورد مهدد بفقدان عثمان معما في يناير جريدة المنتخب",
+        "player": "",
+        "content_hash": "f55e999dd9c5c34f49a90bb1fa19bb5653b4cbd0f4a837597e9c042528f49ebd",
         "sent": 0,
         "section": "sports"
       },
@@ -1076,57 +1108,25 @@
         "content_hash": "614fead501d70e89986d1e4574dd55fddcc2ebb8b1a18fb83a09a7191dde3d40",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 11054,
-        "title": "فيديوهات | ملخص تعادل إيفرتون مع هال سيتي 2-2 (الدوري الإنجليزي) - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2dEJBMV9nQ0U4SmgyMUhPLThuVWdVeEhYT0YyNlBsTHNZdnlBYmJpaS1zbUkzdFB3NUhYT0FBUmRXbVA2ejgwNVFzUFQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 21:41:00 GMT",
-        "discovered": "2026-10-11T22:53:35.595239+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديوهات | ملخص تعادل إيفرتون مع هال سيتي 2-2 (الدوري الإنجليزي) FilGoal",
-        "player": "",
-        "content_hash": "85a3ea676b2b85b2efcf97b5dcbaa684bcac6bfa912d630f176341bdf1f85401",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11040,
-        "title": "فيديوهات | ملخص فوز كريستال بالاس على نوتنجهام فورست 3-1 (الدوري الإنجليزي) - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zZlNOQW5RX3FQai1sY3JTcVptNVBUM3c2NGk5dy1xd1l6cW9QZlVnVWhSYnlTQXYydGNOMHVWS3B3S3VJa1JXMHVaQkU?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 21:34:00 GMT",
-        "discovered": "2026-10-11T21:52:46.212798+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديوهات | ملخص فوز كريستال بالاس على نوتنجهام فورست 3-1 (الدوري الإنجليزي) FilGoal",
-        "player": "",
-        "content_hash": "844ea1adb754ac939e2d74731a1ec0b3132157cc3f48e90421088b1d1440fb5b",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11112,
-        "title": "رئيس برشلونة الأسبق يهاجم ميسي: من يظن نفسه؟ نادينا أكبر منه - الشرق رياضة",
-        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOd1FVUGdTZjhHMjlCTXhheGZaZGZzcnFscll2WDVPU2lfTG1fMzdjNExXdmtZMGFHVW5lM0tuRkQ5Ti1PSlJOdGVSRU1LUkl4YW5zQktRRUYxYTUyUmtfRTNOcEppSmxLMHNXdHJROFhnNWhZYjlySVF4MXBCeDhjaGMxcGZuaFpGQzFlbHZKX0VDQUJlVU1tZ0lLWGtVbklyaFBtTXQ4VlhqODJBY3N3MnAxeGdLY2lQdnJmUFBLbjFCaDc3d1gzNWp2MG1sNGtWemVid1ZqdjdsNGV5NGRQRlU0bUd6aVY4VDdhNzZDXzBMQV9yOEdBemI5R0ZobGZ6STBDWkc2ZzAtZno0YnIwWlB3Mnp4c3dYdXotekVEcms2T0c5UXZrdElVX1lYbHRTVXpudWVmY255LWFqMHF4eGxtUjdoNkVacnZCWlNxbzByUklFYmVzZWJBSDVMMDBHRldtRkcxcF81dFpDZ1FKM2Fpemk2UEE?oc=5",
-        "source": "الشرق للأخبار",
-        "trust": "B",
-        "published": "Sun, 11 Oct 2026 21:33:46 GMT",
-        "discovered": "2026-10-12T06:43:36.056077+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "رئيس برشلونة الأسبق يهاجم ميسي: من يظن نفسه؟ نادينا أكبر منه الشرق رياضة",
-        "player": "رياض",
-        "content_hash": "1f3b3e388e24b7c87f33ef65b60f77c51da522626cf85e2ae2118f7655ada9c7",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 11229,
+        "title": "تعاني صعوبة الاستيقاظ في الشتاء؟.. 10 نصائح تساعدك على مغادرة السرير صباحاً - العربية",
+        "url": "https://news.google.com/rss/articles/CBMiywRBVV95cUxOa0dJX3FMc2ItTTBVZ0ZsbWZkdXpEbFlDWTkwTmRmXzVSQVcyQS1iVVlhcEhYMURkemNYX0trNU8yZk5vYVE1UHU1Vk9JNi1Fa0ZRUnhpOWh6ck10WWFHSUR1WHRmTHFuNUE3Z3pCNHBGY25JZDVPTk15TmlsMUMzMXZ4TVFTRzlnRWpyck8yQnhXSlJrMElLT01VS3BMQUlMZnRvVVEyWWRQS2JYUkRxQmZFT3JMd3FGT3V1dTVVZy1yWHpWdFFEaVBlMjB0Qkc5aWVfNWRaRFlnZDhGQ1VTUzFLWVhnS25BUl9vWmtBeHY1ZWJZNkV1NzA3SG82NS03d0lMY2dvNnNZSHhDdmk2Z1JYblpRZDgzWTZkNlpqd0s5bU9fQ2Y3a3lfendELUxGMjNnSGZCbVdjSWpKRmo1NTdFT1Z4bWFjcFZndUllVUx6YXV4MVZZZ1F2RlRXSkZGaXZ4bG9UV1BqU3lVaUpZNllJZnhGbXBfbDMtbldjUWRsLVdhSkdQUWcyQllkTkhsVVozdDNxN1ZRTGNYNnpYaC0wNUowNGpRUHNBVFVsM1Q1VE9qRmpfWWRxSXhfZk9LeHBtTVBaZHpTdERfUWdtV292dFJQS2FLbDNyY0NkQlV3QzBYS1Z5VldGV3pTdGpqb3RhZ21OYWZ1OERfRFJ3MHBlNk00U1A4VUFRRWtGcFBDUjZmMDlyTF9XemRIQXYzaTVVYUZ2X3l2NWlnSllvR2s3NTktWUNIRFBpUFFHUXlIZ3J6ajRqT0QyYw?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 13:16:00 GMT",
+        "discovered": "2026-10-12T16:03:12.088148+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "تعاني صعوبة الاستيقاظ في الشتاء؟.. 10 نصائح تساعدك على مغادرة السرير صباحاً العربية",
+        "player": "",
+        "content_hash": "88bf52f0913b12c6821a9981ba80326c0d6d09e0a18e1ec42870f69a2a0ee7c8",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 11186,
         "title": "تعاني صعوبة الاستيقاظ في الشتاء؟.. 10 نصائح تساعدك على مغادرة السرير صباحاً - العربية",
@@ -1156,6 +1156,22 @@
         "summary": "مجلس النواب يتجه لانتخاب رئيس جديد.. مساطر انتخابية وتوازنات سياسية معقدة Le 360 Arabe",
         "player": "",
         "content_hash": "6ba8dc418a4af9c7cf53f083de4be5ab5e63ea07778c2a84c03bc08e48f1f5c2",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 11228,
+        "title": "ما بين الاهتمام والسيطرة.. خيط رفيع في العلاقات الزوجية - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQOWRndnVzRDJwQ2hDYWF5c05Uak9hQ3ZLYVV3T2Fwd0NaNFhiekx6NnpQQTVreXRyR1NucF8wdWEyYkdpa29jUkJjWEh4M05VdzlBOXNjTUhvbG9McXE1VHhQOG1NX3ZjVEtEcGd2eExLWjd0TWZQUUZ6U09WNVJTbWpjUDFKQ1dpMjFLeDl6WmhyaFM3VEpIRW1vdGtYWDdqSkdlUWFuWEJQRXF0ZmxrTUoyd0NObEVSTndpTmVveGdlZzZheDQySWstSzB3R2hCWldBbTJZTnFyaEZ4RTcyQURBRTVSVVVrbi1sUFFhYnJCSnJlaFYyVkt4YmlZWUNhcW1LS09zVHlQMGRiZEtkd2szS2dHNEJEQzU3SVFfdWc5SUtEeHhESkdKc3BfYzhNcm91czFqMm9IMDJ2bHJkV1ZwU1djdWVqT01EVFVhRdIB1AJBVV95cUxPY0lmVmRfc0M3Z05tRHJWV0JvdTY0SzZuNm5CUUlVS0ZFZXA5NXlLcnkxcXJSX1NleDhEem5aSHZwZnRVRFY5NExvTDNJYzVQZFpFajEwUWxqWWFEaEJSSWdOb3EwYzYzRmlKQnFWdGVHY3B4Zm01ZFdBRDAyNzJQeVZtTWpTMlZKNy0xYXVrYWpXV2xwallSdlhXQ3RURTJpa3hEc0UweFRjdkRsRHBJWThWeVpJc2pvS3p4dnU4RFkyc053UUZLZjJzeGZYOFV6Y3g2U3JDUGxIZFdvZXVleWgtRlRsVVotdmZ0VU5JZWVsZ3NGdkFpZHBFVGVTajZfaERJNUZnXzNTYjBuRHhIZWpCdUZwaUlra0xnSHZHY0JZWGtSbDRtMEhxQnhGTzFRLUJJVlFfVUFQcjNGR3p5OGxUU19URjU3OGNSTFV5V1puTGd5?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 10:37:15 GMT",
+        "discovered": "2026-10-12T16:03:11.250623+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "اهتمام",
+        "summary": "ما بين الاهتمام والسيطرة.. خيط رفيع في العلاقات الزوجية الجزيرة نت",
+        "player": "",
+        "content_hash": "86544f995c4bbc74300da450c399f2598257d9db79373e5596c7c0aacc5a18d2",
         "sent": 0,
         "section": "transfers"
       },
@@ -1556,22 +1572,6 @@
         "summary": "سبقه 10 إنجليز.. ميلان يستهدف ضم أليكس سكوت يلاكورة",
         "player": "",
         "content_hash": "c36fceb8dd80dd79d743d20fb68ec921df623e4563222fe518d3de07e5e9fcf4",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 10815,
-        "title": "البنك الدولي يرفع توقعاته لنمو الاقتصاد المغربي إلى 4.4% خلال 2026 - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3Xy1WSnVmM1JhbnpZVklZbHNTcWpHV2NDdlY4b29oSjlCR1YwajQwNldWTlo1V0pQSTMxNk9RVTRwYlhlYnFLSA?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 10:35:23 GMT",
-        "discovered": "2026-10-11T10:42:16.169906+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "البنك الدولي يرفع توقعاته لنمو الاقتصاد المغربي إلى 4.4% خلال 2026 Febrayer",
-        "player": "",
-        "content_hash": "a39c32a1315e794303041a2795fe45207b2b0a3d01dc04485e8abccb3346b80d",
         "sent": 0,
         "section": "transfers"
       }
