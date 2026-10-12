@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T12:07:10.395243+00:00",
+  "updated": "2026-10-12T12:46:13.975402+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -229,6 +229,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 11173,
+        "title": "مدرب قطر السابق يتولى تدريب البحرين - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPZU5oRlZwVG5sRzlKdk8xb01yeGgyRDdnQ2VRTW9ITWo4Q2RzZ2V6THllWnZFcVQ0Y2owTEMyLW5xUlNXS2V3Wmh6NFh3eEJjVlo1czhkNnZxWGczWk53TWtITTVaam5jR2pFc1JtWGZKTEduVmdYa29yUjNmMXJsUml5a2hCcXpkUEtZQ2JzNldPVVZQUG9uMEV4MEVJcEVUN1M5ZTl0U3c2eUNUZWhpdFIxN1dGR0hWcFdoRjVuSVhkM1ZZcjU2WTk3NlpRaUFMLXJFcDVEYTNOUnR1VmQyM01oSmdUdXBlSkdFQWpyTERJcWRBMW40VzVlSUVBSkY0NHBRR00yeHVfckJYSXdfSmUxMGdROHVhM1RnYnZjZ05DRVJ3b3pkMWEtQjNwRHEyXzkzR3I0dHhXSU41T2g4dWdFTE5FNFlW0gHOAkFVX3lxTE1LTVowUm94VnZuUVZQVFhDeGVNeVYxRW9VSW9haVBsRXI2WUtvd1V5WHJ6RTUxQkhQNFZHVkNuQlRtTTBaYWVoTUx4eW9fLTg5RXVBZGFoTHNBRDhMV0pDb3dSTnNJQk4wczJuTzQ3eGhlYnoyWnF1X1dJY3E2RmNoSUNsQTF4dkNMT0JrS0k0bVMzcXMtOG1iVGJod3YtZU9zYVhZR1RxaHNBMmFhUlc1al9QeWlfTFlSb0g5WjNFTDZDSjZyOWFCMGZuSl80UkJvMDVKaUhTeUR3SmVOcWtnVTl3S01yeU1FU09qSnBkdENaTzlXcWh4cUl3WGxoZ3IwTlpob2hOaHh1aWNjd01jOU1TUWJjT21hbmVxQUFMZGdQT2RHWk1HVmtmRVJudDg2Vmlqa3ZVekk0M3pjcGllY1U4akduQXoyaDRhYXc?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 12:23:00 GMT",
+        "discovered": "2026-10-12T12:45:57.938409+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مدرب قطر السابق يتولى تدريب البحرين FilGoal",
+        "player": "",
+        "content_hash": "44404e07e883729be4ab33c3041f9a48266d3d7340bf08146d8e9f92b4ecd6ab",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11160,
         "title": "بطولة كأس رئيس الدولة الإماراتي - 2027/2026 - FilGoal",
@@ -966,6 +982,22 @@
         "section": "sports"
       },
       {
+        "id": 11171,
+        "title": "أولى مبارياته أساسيًا.. أرقام توفيق محمد مع الأهلي في مباراة القمة - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxPa19JTzNidV9hTTY4akJ3c0R2SHpSU0t6RnNnUjV4WlM1U3RtbEpURXlkOUhUV0hjVDZ4Y1p5NlRiMXB0a3lpMklSTUFGRHZfSEVGalNud19ENE90c3o3SEs4MWxVV216Ui1mUXBCZmZwcmV1RktCWkdoSEJmT0pIQkdMbHF6U2NCLWo3blBWTUdVcjkyZkYtLXBYRGVGVEszdGNxQkJXX19jQnlUQzdCVnFMTlNXYVlIbTZ5S0tYM21pRy1MSko2N1RLdUgxR0hMSVdWeXE3UmtBekJXc1NHVVdUeG1Ed2VmVExhNmVUTU9jUUNiMWJ4Z0txY0VtWXBZUDhuWk1qV2F2VnQ1QzctYUxmUlJ4bUl4RlhFcEw4NlN1MzZ5LWgwN25fUEptdEw1OUhrZG5vTFdxMUF1bV9LcjhtOG9Gdy1PZk5SMVp3VG1WRVBHcnJyM0oxQ2VYN3VBSEoxRUthTkZhTVV0QUtqRGlNVzZuRFNxZHpReTVkMVlNamo5RGplN2tZSUgyUkZ5TlVOZXlRTG5qbHhGc1ZkRVRfS3RKU3NMX1kzYUxEV1dRdi0yNm4yZ2RtQTB4clN4aEFJUzhJZzJmd2tSZGlpNGRNNUpnSl85M3Y0STdDckJHcmZpVHVYQ3JSWWtnbm1RejNXMmlKSDdCWWFYVzhpYVFsa3o5d2hHQXU4c3N6QzhvQ3VYZG45UHNWX2xGQm9JSGfSAacEQVVfeXFMT3ltdTdnWUpUZzRSUHlZbDdyc1FOUmtva3IwOE1rN3VrWk5uX2FWX0VxdktHWFVlUkxuQjMyc1FFS2M4T3BFYURMeWF5ZndFWGRXZlF1bmlaWE9rc1NlTktwQTlWOF80c0hyY2pvMjVFSEQ0cEJvRVVpR0RNRHlqNzFiX0JhWGRXczJiWlI2bWo4ZUVGcXZ4NlN2aFB6Q1VjZHFTakRSU0dTZzdQQjBwSmVIOFVSRkxvTTJaVFNoTGgxN19TTWw4NWZwNnZBYnlJeTBmZjIyd21XRHZlUV9xazZoZFJlSUFOQ3ZseHZaSWxRYzRTOHoxWVNpblJ6VF9jcm1hWUExYlNtZFh3Q0dNUGdqRElxaFl1cU5CUk91cW9VOEFZazZPaWJMcXNxLW9Rd3JFR3dMLWtqZzhoU18zY3BPLU1mQjgtQzN4TnpzbzRDUGxFTElFTFhQTjZyVzVTcl9oSnlqTmU1aHpTSG5SaHBwRmtLR05tMmpkUjRIVW1Rb2F0VkhsS1lHanp3LUZxeEhRMHdMVlVfczN4MERKc3lJSjVrYnRMYjFDdjBFVC1leFJvZjloVWI4RVRsZFBOZDFQMGhjRTI3VnZNN01JTEEtY0RYcC1UeXpka2dDRTBHMFh3ZENBcTlkeEUtWE1EU0dETHNLbDlSd3RlLUgxOG1WMlRDbnFLSUhYTmdqVkdSUzN3ajdFUGZLZ0NtTjJjdm8wOGM2aW8?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 20:15:00 GMT",
+        "discovered": "2026-10-12T12:45:57.233402+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أولى مبارياته أساسيًا.. أرقام توفيق محمد مع الأهلي في مباراة القمة يلاكورة",
+        "player": "",
+        "content_hash": "c068550c57b7cd3f282d67338b64bc46ff32cf5d2e20897d09ff2e7598feaf13",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 11010,
         "title": "انعكاسات الكلاسيكو على الهلال والاتحاد.. مكاسب الزعيم وأزمات العميد! - Kooora",
         "url": "https://news.google.com/rss/articles/CBMingVBVV95cUxNOV80YUNOVU40MGZQdThJNVQ2VnlDZHk4d2JGanVtRlI4R244X1RWRDNjS3U0RTRKRmE2enR2ZGQzVGVCSHNnM1RWaERSbDBOYXQzMHhKWUVhbkJlSHVfSnZQVVJMTVlLZk1LbnFXdUJySGdNdHNoZGxMcEt1UXhveEhJd09xVmkwTXJKMVlFVW1DTDFHc2U5SXdQdjNrYmM3djhsZFd5WEd1VVZOU1lJVFBXem12S2J3ZjgxaS1HaUZBd3hiUWVRM3NTeUx0bU5xd3pWLUwweHRnbDJYMmUyeXNLcV9rZVV0ekFSNnF5SVcwcE02TkZtZllsazZiYURTZ2pUYm03NVVVSGRILVdVQWYyUDhwUE9rcUdESkdCNlRqMjVmQk53R0tOZlVmS2pkRFh3MVVHNGxkbVVSbHZqMVdSZG5yR3lCQ2dMNkxUcUQtRW9HYnh2aURiZ1JWZlgwWHh5aFc2MjQycDgzWFpkT0NvNTVtYWhTR3QtTks4YVE1MXJieEZnaU9DcDdseFRwTGFKdm1qeW1fVkswbXloeV9oVzlhaVpoRXJSRmdwcjRfN2xTVkdTNUd3WVBnaTJfV3MyUDluSEloNzAzTEl4WXNremtYQ0thdjRaZmN1ck82OWdhNXg1Rjc4UlBiamNUVHlnVFJYR1JKOWhwNV9jYlhjUVVXT1VhVVlIdTBDV1hKYTB5Ri1naU9BYmtFbEdyU29aLUtGMG5ZZGpSQmMzVElzc1dhemY3eEI0M0trVFlrbEFtandDTlEwMGp2TGtObUVJNmw3Tkh6WUtsdG9EMWV0aS02SmJXejNtTlFneDlRRHkwcFpwRWVZWFdTMkg1Y3poM0pmZmFTcFRpS0hEWTFBLXlVNG50N05YRXpR?oc=5",
@@ -994,38 +1026,6 @@
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
         "player": "",
         "content_hash": "d6ca3029b4f8e968900854313ccd7433738a3d64327880a728bb48944b678d18",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11015,
-        "title": "فيديوهات | ملخص فوز الأهلي على الزمالك 2-0 (الدوري المصري) - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tbEVjTjBBajBWZl8xcDg4REFWMENrUWdZVUlSb2FENzVnZHREeDRaMlVidzRkLU1fZWt5cGRBUUwxYllfakR2bzJuSkE?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 20:07:00 GMT",
-        "discovered": "2026-10-11T20:31:47.508801+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديوهات | ملخص فوز الأهلي على الزمالك 2-0 (الدوري المصري) FilGoal",
-        "player": "",
-        "content_hash": "13667f5821ee5c8d0d6df079ca92bb0dbc0bdeb4feac9e7f9629496d03a29b90",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11002,
-        "title": "تصريحات محمد هاني بعد الفوز بجائزة أفضل لاعب في مباراة الزمالك والأهلي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxPT2NJaE15RFlWVUtNamN6Qm5mVE9Xa3NYeDBWdDRRRG1wRXJiZWpzanktY04wc09hUEpwbmctQTJnY2p4cFVEc0pSdVMtazVFMzZRRFBBY0tybFNkNXZ3VHJBQjZPV3ExV09FeXQ1UDlCLVhnX2FZUGc4dmQyUnVXTVFHOHQ0b3dTR1ZBeU5DdkNmaHBSRHYwaEwtQVBhS19WU3hKRWl2SjJDbXVVNFY0cEVpMDhUQmR0TEV4cmNGd1doR1hUVzVhQVJUYk16eWE2aFY5ODNVZnhYU3pnNXQzTWpKRkRHWXdVT1RuSjFyWktyUHJ6UFUtRnpKaGRXZHhFRGVsNFdZWkVWbGhEb1ZBVzRYZmt1cThwWl9NSjJFVnUwMnJvRVNtT3VGOEhUbjNWeWNEOW8zN25FSENXNmlKdVJxM3J2ZlFqNTZKYkJyYlQ5SHZicElNelRGekNOMC1kUWs1SnhzUGg0V012V3Uxa0FPdnAweFRjdTlpcVpFeVVVM2JIc3F6SjkxcWM0V01qZVZ0dzdvLWJsQ2tteVNRcGgzZXFDYkF0LWdFWlZqdDRZQ01UZmtrRWJELTJYWDd6ZHhUUkdHMUNhVEVGeEdQYlBvdXlVYkVVakxDb081T1JEWmdQMWdyTm1nZFplb1FRZThNUWFUZWZEZUduQzVPS2hmaUhZRnhzdHNRem5kM0pqdS1MQkExVU5iaDZGMjN5cndySU9STkluZmdfcGJhU2hwNU5adWMxSFE?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 19:49:00 GMT",
-        "discovered": "2026-10-11T19:59:06.644454+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تصريحات محمد هاني بعد الفوز بجائزة أفضل لاعب في مباراة الزمالك والأهلي يلاكورة",
-        "player": "",
-        "content_hash": "77ddc7aec3b146409ae77440832515ef8ff21a42546ecf046946f558520467de",
         "sent": 0,
         "section": "sports"
       }
@@ -1578,6 +1578,22 @@
         "section": "middle_east"
       },
       {
+        "id": 11174,
+        "title": "وزير الدولة النيجيري لشؤون البترول: ما يحدث حالياً يشير إلى أزمة عالمية بالطاقة - العربية",
+        "url": "https://news.google.com/rss/articles/CBMigAVBVV95cUxPWW1IdmlRTGpORVZEWEFSZ1NRSlBiVFY4elM5Q0tRQkFDRzlyMHhBNGJrdnNVN1lXY21NSGgwTW54SE9ILTBNZ1ZsZ1I5Q3RQOHQ3b3FjTU9ybW9nTkdQdlVQWUxuQ3o1V0dMemtmdnQ5YXlZdWc5bkl0Y2poeXFPakpsaFlab2xGSFJZSFpGQnB1SzJ4OGhGajNlTXl4OElQUmtmeVBHQXF4a3pKMDlFQlFyUDBMLXVoZmJRR0ViOWdaZVJfWUVKQndZZnhZUlhHR2tGU1l0N0VkbGNyNVBENHd0RUxJc2hFSjRmbDI1VVcyVGtrdDg0SEd2NTRHYVFxdnNDNWV3cXFsLVZJaGxpN0JGdUZPRWpYU0J0SUlLT01nT3VkUWJJalFBUHFreUYxYzZIMVZKWmE5RXVEVFo2eTRaelR2dVZqb1BYSHdKVXdMQkZjXzZ0WC1Oc0htODVaSXMtaWFoZ0hmUnhaQmhrMjdMVUFsaUVnWjV2Ny0xT0NiOV9WelBfYWZmNk5oZWNRbkpLaEdnTk4zX0hyRFhZN0RTa1RReXdKSGJBdG1LRl9fbFRNMGpQVHQ2LW1IY0U2c0IxNzJKWGR2OFI2RURIbTNhWEY5djBhT3RxYWs5ZG5BdjNTWnRXN0UtblBiSG5TdkZ3ZWJCRHJ2bGNWZ1F2aDJlMERjSk9hYmJ4ZWVfSWdCZjE3SHlwMjFlMlNNazFoTUk2cHhocU5POHNRWTB5RUJBeWZYZW9hSTlnTUQwTHRaczZGWmNtR0YyQzMycExMd3FNLU51X2dYVzVRYWFhMFlsSUlSQTRtZlRqbTl5a1hoS0lsTW9Xd18wbFpaaXc50gGGBUFVX3lxTE1oRU1VRTcxVXZ0a0t5Tkd0Q3RFTndqcHdkeTJKYzNVNXlxOUtSdWdESDJDcml2OURyNWJLelBNZFVYQS1QVnJWaW9ZcThYdTAtalVkWG5icnlsMjhmUmpvVEM0a2ZXUmtYV21SanpTdEUwT1dGVFV2T0dDbGpBZzJCTkpLUG1zRkdYNlY1RVc4c08tR0Fwbk1UMElIR210QzZnVmc5UWI2d05pSlRDbE5QTVdQeE50Y1VfcS1BMGQtWnU1M3dRdlBpdmZ2UDdIdzd2SDJwV3B3cTEzSWE4TTFkNGhQTjF0eXl5UEg3cVUzTEFJMkk2a0xpS3d3R2NyTjJEVnBWNWp6Snd0aExESldPRWtqVmdvVGpEU0xWSGRGek90YjdUVkIxb0pqVUt2RWlVelR0N19ldHRHT0tfMGlWb2dXRGxKY0ZCX2hWaWhPTXRGV2ZHZ3NTMGZHTTFNRjUwT2EtY0hSMzZnRFdydzFlU0xfRkt6NU45bWdkNmhNSFdVM0FzdnZ2Ri0tZXZkTlJOekFLMURwZl9KbUhYdGJGQ3RXNDhtZzRqaE5lNk9GamRiLWRUaFllZlhRVkRVZ3ZKNW5YcGdYemJQV3JoTDJaMk5paTVUcmdTSlFqOGFYLTBhM2ZzT2dQNFJ6dGlHTkNTZVJVU0d3SmlHd1RFR2hPNFdOQnZIS2N0UUtKNTBMZVhjelVWLUpibFk3RUJ6b1FGbVo0ZDJxdjhGM0pFaTI4eWh2MnZLYWpOOEFOTEtwTlVkSGFERldDNFU5ZEhTZ2J4ZzhaYVdtd0R2NG5KZ09GZkUyZGV6emVLd1ZOaV9OWVpYVk1sdmRWZUJyNi1YUld4WDdLTWc?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 08:25:00 GMT",
+        "discovered": "2026-10-12T12:46:05.412410+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "وزير الدولة النيجيري لشؤون البترول: ما يحدث حالياً يشير إلى أزمة عالمية بالطاقة العربية",
+        "player": "",
+        "content_hash": "7975bda5b9931932b74f5e84ace77e09083bed21d68085a78fd02c3cd32bf75b",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
         "id": 11153,
         "title": "وزير الطاقة السعودي: التزامنا تجاه شركائنا مستمر - الجزيرة نت",
         "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOOV9MUTdOT3ZfQkZkbUdOWEd0ZTk3dmtPaHhsaTNHd1I1SUZINHdpdFNuTV9Td1hLczNVOGpLaGlaTE5PMUVPWEwyMTROVG5VLXBINU5GNERRMEd6LVdIRzZxcC12R084d2Q3NUhkMWRvOUpPVC14X0pQUktDdDVvYlZBc1g2a3phZEpTbWNZa044MVJLXzlTZE1DMHZJdDR0a0J4SzR3MU5tM1NYWjBoa2gwcTM2d1RiaE1NOHRsQnVxZzRvNmFRd084d2JZcjlBajFBNUhwdHRUMVVrWFpGMXNNNWZ6LVVTcU8zWFlPQjlVVjZxeHZfTFVCdWhuWTBvajhEN09CWC1kZWYtV0Y4bjhqZ3dDakxMZTVqbTlUTVBDSEQ0a2g5WERxVlNWNm9kdHNVbGtMdGpJSTRBUDN3NVZ4V25BUWRW0gHOAkFVX3lxTE9iQkJuUk5uNnFUWVRFVUF3RThUVE94aEptdDV2ZVBDdGZHMlpBbkhwQVl3MHNfSkFueEc4YVVTZ0RVM2ZSb0JwZzBFcWJiU2JCMWdKS3FvLUNySHYzNDg0eVNYbEdmUkE1YTBQclZPQS04YWphbUQxNHROUy15aDBkUUpKdF9CbFQ4U3RkQmFQSUVlU1VXeVBCZ0V1aXNHOGdGaWNndUs5U0hZWTZod0JGaUZDY0VmRm5qeXl4aXFpbjZ0U3o5azFOUXd4TER5X0stQXc4TmFZTWFPQVd2ZUprMFZOWExwbDdhM2xWTm5XaFFmajlZeGp3Sl9VVXJtVEFtb1pJanpLNGNCNEI1SDJwSjFhSFo2Zmc1SDA2T3UyVWhzZUcyaHRNMXhsWWlkZXhjaDBBUldEQ21ya1NGNW1lcDdES3V1Wl8tUWU4X0E?oc=5",
@@ -1931,6 +1947,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 11175,
+        "title": "وزير الخارجية الفرنسي: تأجيل الانتخابات \"أسوأ ما يمكن تقديمه\" للشعب الفلسطيني - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOc3BKdFUxaWg2RHZFbUhWVlBWajY0UHJGX09LRzFWMnpFRFpqdkpNNlNJSjg0aUVhV2V4cTJETlJHMmw5cVJUMDZvMHlBdlBCeVRLdzBQaXpRSWpCMFpQYTVURDdtbkJkbEdxRmh3UFVBS0lCbHlod2pQQ2dTcFltUFpUek5ObXppMG5RRFdmZkZ2ZzlKdVRjUVhnMVNyODlWLVBQM2Y2bUF4dUFPX0JVTHNGZVM1dTFSUktIQ0d4UDRSOUJfdlg5Z2JMZHhuZDhiZ2VYQ0tDQ1JJLVNLaDdYczItcWFoVGt2S0NEbjZTQmtfblkycWJiNERhR1hoY3I4V0Y5NWtoXzlnaUQxeFhSRVRJRnBfOUgwVUZZamZabEx2WHFZU1U5NXEzbHE1Znk5TVZxX0JHR1ZrNDdwZmpvNk0za0Q?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 12:14:25 GMT",
+        "discovered": "2026-10-12T12:46:08.733392+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "وزير الخارجية الفرنسي: تأجيل الانتخابات \"أسوأ ما يمكن تقديمه\" للشعب الفلسطيني القدس العربي",
+        "player": "",
+        "content_hash": "cbd649ca83558955d556d4d500001cdd74f0e009c09037558d695532b1947ddb",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 11162,
         "title": "الأسيرة بشرى الطويل تعيش عزلا انفراديا منذ 49 يوما وتتعرض للضرب - القدس العربي",
@@ -2376,38 +2408,6 @@
         "summary": "على إيقاع الخيانة والانتقام.. بدء عرض مسلسل \"طالع نازل\" CNN Arabic",
         "player": "",
         "content_hash": "d24b124911f8c17557ac683826d95b9747066caaf39bde45e002239542f4f25e",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 11049,
-        "title": "مباشر: الحوثيون يعلنون مسؤوليتهم عن هجوم السبت على مطار الرياض - France 24",
-        "url": "https://news.google.com/rss/articles/CBMi4gVBVV95cUxQV3dOd0dmbkZ2MmNuR3g5TUxNdnU5Y3FxcWhhaWRXY3hseThGaWEyRW5PQU9tT1lrSG1WQnJnMEk4X2tYV1YxUWxHVU9Db2Vmb0ppSVNabDRWdGk2Q0FxNUxtN1g3d2VSbkdPSEZKbjltN2dxQjhPRV9uekgzMVhPS2s0bDZ2RWFySjgxamU0amlLRnkzLXJwMUVNWnFGeWZqQlpiSElTN0VSUGtmTm8zT0ZYVEUzd25VeGR1MURzRnh6UGZ6czZtWnZvSjRWTFlFRWlOUGc0WmZ1a2R4MmR1TDU1LTZHbDZFQU8xbm5NLURDX0Z1SjRQRkJ5bV9zakw3bXF1ZVBudy1NenFyZGpkSDdVMG12OVFuU1prN0RWa3VaSzNLa3ZndndqMUxyVnBLYmJoRTkyckNVX1BoM2ZNQVM3TnpaQmVsdlNnSGxuUDFxRDhzeEZaUDNVRktRRnJNZVhpTV9meDFESDJmTm9hdXRGLU1sT3Rya0lPTGNrcWNlNVlWYmRCdnlmSHFmM3hZd3BJc1hpS0Q0UGFwX2ljYkpSdkNJWUR6S0dtV2xnTWcxMEpjb0JMVlZmU1ZDczF0bU1tOHNHMEdRRFZGazkzMGZQa2d4RHdXZ05qNXo3TUNZWEhrSG8xSUVrV0p4WXZTWkk3MUljREpUOXVhVmxEZGdQM05OY29Sbk12WnMzclFidjR4TTcyV3NTSEFrX2ZUNDBqdHpKNXhoYzNIeVFvRE1XOHdacWY2c2twLUVyQ2lWVVBKTDgtaXZIUFNCNnlZbGNvNVNvRkJGZjFYUVRoY1NWVXhRRXNsdF9CdHhCUXJ1Y3daTElzRURyaWd4TVZZM2FXenhnWW54U0ctMU05N3VCenlVOUR4ZjJLR2NaWDV5Q00weE5MVFVQMWJqMUVyS19kX3BFRkVESGV4MUpuMzB4Qlg3YW5uaGZjOG9QeWt1c2JmNHRZT0NWcHpLZ3Azbmc?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Sun, 11 Oct 2026 05:09:01 GMT",
-        "discovered": "2026-10-11T22:21:42.057287+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "مباشر: الحوثيون يعلنون مسؤوليتهم عن هجوم السبت على مطار الرياض France 24",
-        "player": "رياض",
-        "content_hash": "77a3107feecc71f1ab6721a7aff9a06d01cf781f3bb656d6ee86042dfa06d110",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 10753,
-        "title": "رئيس وزراء باكستان يدين الهجوم \"الشنيع\" على مطار الرياض - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPdGVPNGtZYzNJMkRUV091c1kzTVltVmdnNDFyNHdibkVlOW11WVUyUmRvMHA2SnZCdEFFX0gxVWhpX0w2eVVSdGNSV3pBZHVRRE9VeThPVWc3SVoxMEs4ZEt3cm5qMldleHJLV2o4WVhDMS04WmtFa3NaZkQyRG9WNFhWMUU0WEhRdG8xT1phQ3o5UkMtMUhBUHc4S2FvQkJsdE9qSElyb0dLV2ltdFlBNE8wZmFGM3VnRWt5REJXa0l1cHozOWdJb3VaSDZKc2d2aVFzQjh2VVFGYzFIajNuQWJyV2xuVzVGRTllTjRtUzk0cEc3ckd4R1c4Ri1vb3h6VFU2OFU1RTV1YjRTUjNJNmlkbW43MmpLWmt3T205U1dpQUFLUUUydVctdktjYUlTTWJ6YU92MTZvVmk1cGxYLWdiVWs1QQ?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 05:08:43 GMT",
-        "discovered": "2026-10-11T05:24:47.223029+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "رئيس وزراء باكستان يدين الهجوم \"الشنيع\" على مطار الرياض القدس العربي",
-        "player": "رياض",
-        "content_hash": "96a8cf0fa72905b562f64716d2dec68313ea475a0a3faca412f46ae9040fc237",
         "sent": 0,
         "section": "world_arabic"
       }
