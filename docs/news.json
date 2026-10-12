@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T22:39:14.355448+00:00",
+  "updated": "2026-10-12T22:56:00.405823+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -486,6 +486,22 @@
     ],
     "sports": [
       {
+        "id": 11413,
+        "title": "برمز التاج.. منتخب البرتغال يحتفي بتألق ترينكاو أمام الوصل - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxNdzJwRWhrNnBmZFBHUmZTNTltei1pbFBoWXJVSG5tZDBtdlNUaGJuN0w5bDBsbDRldE9yRThGS1pzcGJqWlVIS1NFMEhOMFd3dGRELXp4eF9ZTDVMczlqUjQyWjBuYWJNQnhnbU8yTW5lT0g2LWhzdjA2TG93eFRDR1ZuQnpRNFpLTmJpOHNLWjYtSjlIRG1nMlhGTzRtcFk3b21JdExkSDZYOS1RNWJkTGJoeUhRTm1QUjZabm5YR3J1dlhWT1VyOXNtUWNzMXNXWndmcndWbjJtRVlKQlZMS2ktamxNRVlqZFcyMlVCOTlIenlrLUg3VTBNc3FvczE0MkcteWNtLVNpTm5jYVBmRGV2ZkQ2U3dQeTU5NkRiZjNsVlZGVDhuekFReEliYXlLMmZwZnBORGR0SVVHU0hWWkd5ekJNNXVsRXJjejRydUZaSmt5N2ZtWndLUk9PNGRXb2hmUlZYWnNCbUg5WFVXUFl2ZThFX1MwRFFRT1JMNW5nWDViRW90YlN4a3YzekFrSUltckE1LXpjRXllNFFjU3ctVzRBSWs4eVlUUzBkNmhfRjZSLUIzZkxaQXBPUUxJazRWVlZ1UkFvRUJ0MkJQZllPZE0wSEFzMko3bXUyeHFUVHJObGZFNnluT081cEppNnVHSEVJSTRSNlNET0MtNThQQnlLc3hFamlzQ2s1NnFnSnhvNk5neXo4MkdOV0hUUGUzVC1XaDEtcDJyYjY5d0diT2xKMzlPOUI2Sk9VdXZjQzFxTUxxQWRSZ18wQQ?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 22:50:05 GMT",
+        "discovered": "2026-10-12T22:55:38.757581+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "برمز التاج.. منتخب البرتغال يحتفي بتألق ترينكاو أمام الوصل Kooora",
+        "player": "",
+        "content_hash": "3f2cd3fb1864a934b78cfdfa856abb35a1c7ae7c4b821c27b8b07ccd393893f7",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 11407,
         "title": "الانتصار السادس تواليا.. بيراميدز يفوز على سيراميكا برباعية ويعود لصدارة الدوري - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxOUVRxeUlwbE5CWEFTZm9qTVJRVnJBczZlNjl3UFZ3bjhqelZKTVN2U1VDODFva2dpRUl4dzN6MVRacmxIRHVRT3BNZnRmVXNnd2tsT2Q0OVJkck9BaUpfdkJkb0RINkdvUjV1TTBnNjVFQks4Y2N2RkE2NHpkeGpKNkFHTzBHODVPcDZfTEtyLUFsRjZ0RUh6Zi1EeXhWZVM4S2ZLZzZOQ19KczVFMjdIVDNac19ybjJkQjJDbExBc0NyeWZCUFF2ckthT0lYZTl0N0F3ZnZIdFk0eE1XbEZDR3JKSHBjZDktbFBDOGVIendnTGt5Z0htSFVpeXZMd3Q1NHZZdnJFcmo2MHhnT3NHZmFaTVJOendvN1VNWUppcDVQV21sR05pQWtnNC00N0M0aDZIRjJ0NE9mNTl3LVAyUkk3bExxbTFhQTl1SVlIYU01SWhpZWFWMWRGeWt5SkVIQlFoTFRXd2VnVWxrWGdFeUczNEdBQ180ZEhQNjVTTm9CMktlRlRSaXNyU2NFNzhpeW0zSFJDOV82OEVBdnRRV1Z0TGtHV1VnX21MNmNNVkUwN2VTak1oN2k2ZmlmTUo1M2ozWGNzMjRoa2l3SlBPZUpmSjBhOTVRN3N0NEhUbWRfNkQ2ZnJ0aHVWRUpKSXM3eHA4SHEwaEl4Q2tQaWh5TzJDMmNkd1lrR2NDTXZUazJaVW9vazVtMjNIUk41YjRIZ3JXTWRwNko5M3lJSjhER2pKalV4OWl1YlNKZXN2d3RjTkFXRy04ZXIxY29ONE1wZmRkdkF5UGt5YWVacE5BV1BSOGtROU1HbkYzNG81eklqbXJ5aFZ30gH8BEFVX3lxTFBMaFJRaDU4ZHpLVVVQS1BwRng5RURjOUZ6WkV6OUZxVGtPRG1POWlTVHFZWkNxNXQ0ZXJpZld1N2VtczhXOXR3ZjBNODczQUl4NzBtMGpFMTZ6RkpLSmRZY1E4VUM4MV9QNm5uVXBrbzhEM0hQTzlqdUxtNVBNUC1sRUNrQVYwWVBGRVRORk1wSnJFYUM1cXpWWWJTeDM0RjR4Tnhla2hKMEQ5ckpYc2pTY1pfbHViUzRtVGhDWXJ1d3hSQVcxQW8zaG1ER0RnLWpBekx6Wjh0SzBTVHpYZldvMDFxT0VsTVpOcG9qRVNud0lEVFNtY0Y4ekIybnVkankxd05CaldRUUo4ZzUwSVdXU01mYUsydXlseFh3NzJUSm84YzU2d1RlRkZ6bl84elFRWno4aDJFVFN5RGVXckJCc0tSNzVrMndqOFNyREFFRjFlRllqYmw5VnF6cXlXVXJMTnZ4ejF0eXVfQ2dzOFVUbUs2cjR6Slg1clhuNGtfTTdfUFRMbndZczYwSlpvNXAwWWZxdmNKM1diT29KZXlFekNpVExXTlhaS2UyUjVsWXg5dTN5YTRJQXh0ODdaRXlFRGdnVHVDQ1lXUHhJY0RLRWM2MUV4dlRuYnlqLWNKaHB5VXUyM1U3RWNXWkFmNkVlYmZ3UFhGY2JnRUlibHVRXzhtRHpGUkNFUjlFdHVVb2xiNU9nSVAwbzBiR2hVbzVsRW1FenlVY0xrV3M3TDhudHBLa1J2R3hCREljQWMyT0xkNndJeWZEeEVLNG5xSko5UWg2bl9xX0RZRDktZ1lvNGlRY3FrR2duNGRfTjFBSE92WDZjQ3hET1RTaw?oc=5",
@@ -530,6 +546,22 @@
         "summary": "النصر ينشر احتفال لاعبيه بـ\"التحية العسكرية\".. ويعلق:\" دروع وطننا مدكم الله بتوفيقه\" CNN Arabic",
         "player": "",
         "content_hash": "575c9fc221a681e9a23de3511174466a5cef087e68235e98dcfaf94216b45633",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11414,
+        "title": "مباراة برشلونة ضد سيلتا فيغو : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPa2xOb1FLODNhQ1ZxdWZneVp0TXAxaUxKQ19TTU5ncnFGVUtxY0JQM211NmNmT3FFZFdCX2NfR0JQVkxXOTUxVlo3UktRRWU2ZjZIODdFSGVmVktJR2tQbGlKRzhkRDZFX1ZDMnNUbDg4akNFY2l5dFVSQVlUYy1FNnUwWFZIRlFBbnRMNG1VRkRyNUIwM3pmOXpEemNvczN0ZEhIck1pQktaTTFYbWljdXFYTmswRUdwVHBlaDdUUVhGTGRXa2dzZEZiMmdoU0QwbHlhZ0syVUNLM1psTmtlYzNwZXlySldSb1pxTGV5enM1U3VvODJMY3QyN01WcHJaSFZZZGVlSFV4M0xZTzhIMmtSOUF1ZUIxOFlFRmE1TXB5YmxvaktXLWJYaGd5S3kxRU1Oc2k4Z0lOZ3dqMXhxR1R3?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 21:14:24 GMT",
+        "discovered": "2026-10-12T22:55:43.715851+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباراة برشلونة ضد سيلتا فيغو : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin winwin.com",
+        "player": "",
+        "content_hash": "75609c5a12ffe241ef5140db573129b51a7c08574a5dbea800e09d2281e5579f",
         "sent": 0,
         "section": "sports"
       },
@@ -1252,38 +1284,6 @@
         "content_hash": "ed589f7e33a152326746222fde8a06da7f00e59f0c814d916dfb4ced0474544b",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 11226,
-        "title": "منافس لحكيمي؟.. تشيلسي منفتح على بيع هدف باريس - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQdkdpZzZkVk8tZ1lRbmdtUFdCbGVZTkhNd1R3YWloRkU5aVVuUGk5QUphQUw3eHdVQUFrS2JJZnktZEtBeTdibWlfREtrWGphQ09Uck1ldjhjaUVYdldLWUY1LVpEVGhITHAydTR5aDBaOFFwU1A0ZUJ6QjlNNDlZb1Y2TXJrcWxhcTFTVTh4akRBSDh4SWdDYng3OFhzVWtZSHFaSGlRaFQ1dURTTWtHZ1ZnZlFMczM2RGN4cjRWd1Zhd2xWSVgzT2NYa04zWVMwM0tTQVpZQzh6RzFwNnVNaThQckxwSjlTQUdDMGEtcjU2cnZodUEwR2Z1U1puR3AzRlBQSGhZaWs3TDgyekpqTFZPZ0NURlJsbkk4T3RDbnF4QnNYbVJRVThqa09LU09VY20xdHZWc3BGWGctMWpFN1dxcTlpUHFBaTJyQkhBb2VjWnhtOUVVdWhQUkNhZHRzQUZVVTFkWDV6b21JVlU4VFZoY2RyMFFjNUNqSEhWMnlleUlpVUo5ZFJ6bXZnRW5WbDU1TFVGdnk4VTVhNUt5YVdnSDEtMFdOQUpTbzhoUTNLamc5SWVyaElEYmlRbHlCLTJ3OXFGZXZHaW9telhMeXgyQ1IwQUVWTWZrSQ?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 15:44:06 GMT",
-        "discovered": "2026-10-12T16:02:56.598993+00:00",
-        "category": "الرياضة",
-        "status": "منفي",
-        "summary": "منافس لحكيمي؟.. تشيلسي منفتح على بيع هدف باريس Kooora",
-        "player": "حكيمي",
-        "content_hash": "608a692c9f4385df6e3d19c1424e86d2b6a6f836c8a4ae334698d682b2c649b9",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11227,
-        "title": "أخبار و معلومات اللاعب مارك سانتوس مدافع ليفانتي winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaVNKdS1zdGdrU0tMVW9qTG1ldmNBYzBGLTltVmVyYmNhWW5vUjZkVHVWRER4UU9Gd2pyYUZ1S0F1YlVRUzlLV24yS0xOTzZoNTNvcUM1MGN3YmJqWDZMaDlhRmJoQ0l1MlVCSkkxX3RFWEdiMDBSdDNVaDZOdmQ0dGY0YjJBdjROcFVwUUZ5Y0pwc2pXOGlpS3hLMXBNeTQwSmdRYzNtQzJQZkRNbU1xUEhRY19mSUpaV2w0WTh5VEF2YU9HeWhlSGk1WmUxWS12d2FoT3pqakZBZGJkd0RjWG1PcV9WT0hPUG9Pbk5obDkzc2hxLVpMM1Uxci1aMWMxVGVr?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 15:43:54 GMT",
-        "discovered": "2026-10-12T16:03:01.893849+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب مارك سانتوس مدافع ليفانتي winwin winwin.com",
-        "player": "",
-        "content_hash": "d972e24be03317b07e601fcc4401d877b263d8259692b358780e9cc3287e2726",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1668,22 +1668,6 @@
         "summary": "إعلام إسرائيلي: نتنياهو يعقد مشاورات أمنية سرية بشأن إيران الجزيرة نت",
         "player": "",
         "content_hash": "7ddaaae42eb4ad4db4107faef91c35651cf82322a4288504721be2f2724c3293",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 11277,
-        "title": "العقدة مستمرة.. ميلان يتعادل مع ساسولو خارج ملعبه - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qQWpjZWNydjNfMHROcjlIOTgwOWFfMk9VMnNYU3ZzSzBPZEpacm50ak1iaTdYNG1uemhnRXdabndUSlBCRlpNZmh2cHJZazlm0gGgA0FVX3lxTE5zVnlfaTlJNXlSb0ZoNHJlZkF4VUYtd1R6TlVMaS0yLUNmSDhBYmFvV1ZGNG9wUk94LUdfeTJfVjlDYW1yMVRlWmtYX3Y0cVE0WWY4c0FyQlc3ZURhM1NmSC1zbW9pb1gxYnctZ2EwcFZwVVc2S3RvUWYxa3NtQk9aTTB4VzN6REpDMS1Ea0NuWFNULXVKRGZ4a3NxR28zMlktcTJRZnlyXzlxTDRQczlzbzV6NTBucTdqb2g1bHRPZ0xVMEJOV0FWdHFhMnY4TkFPSnFJUjVtLWZjaEF2NnpCZnp2OUtMTENZN2gzbkNIV2stRXBFNUZVZkJlY3hHVXhYU00yM19CNjhWbTY2VEhocUFrS1pZbHQ4TV9xdnZYX0FCelMzSlNaS2R6al9YLTZfSng5ZGR2OFZaYnBFRk45eDF4NjZaTTRmbjVMSEIyY1VrYUxVWGY2bWc2eDFpeFdnMTFRSFFNMnJPb1JRb0pzR29uMXJIUE1McWs0OXdYenpHWVhsVWVwX0U2bTJtdmlZbktHQVh3NmF1Ump0bHI0?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 19:51:00 GMT",
-        "discovered": "2026-10-12T18:27:54.574869+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "العقدة مستمرة.. ميلان يتعادل مع ساسولو خارج ملعبه FilGoal",
-        "player": "",
-        "content_hash": "1b4794952abee5426feeaa19cfcfd0f4fceab54d4f4033029d663f41787d1a3a",
         "sent": 0,
         "section": "transfers"
       }
@@ -2344,6 +2328,22 @@
         "summary": "مصادر لـCNN: واشنطن تهدد بوقف الدعم الاستخباراتي وصفقات السلاح لأوكرانيا.. لهذا السبب CNN Arabic",
         "player": "",
         "content_hash": "becce86ec80e479642e4381989cdaefcb9aee75314608be5b9be30ba1134ea68",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 11416,
+        "title": "الحوثيون يعلنون استهداف مطار الرياض مجددا بصاروخ بالستي - France 24",
+        "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxOOE83OFhqRFV0ZFd5R0U0SGt1a3pZVGh6ZTktUmlXSzFUN3JLNVJpa3AzaGRQQ0hwTTZOYmtXNkVzekVYREFhV2N6RThlMzhqZ2s0bktLanZPU0JIZ2NzQy1kaTd6S0NhdXVvZmFZMjlUdGI4cF9qV0ZCTmFsWEgtVklUbm9XdzJsR2hFQlA5cE1MUTdrVlFPZDF4Xzlpd2RUZ3ZkNHdIOXE5MElVMjBQejhTWnFETnVReFNzdm9aeGNISmdkc1Bod2JsYmNMRndzeEk4WVVwVi05TGE4RUhnYXNyaXI3dENZdFdPMUxzcmlHNk83QlV3VXBsNEZRcHdXNlkwMDVJclMyRHpIVHFWOXhXd2xFM0RHUkVWaUh2NEg5Y1lUcTlYcGEtdUpTVXE4N1VnaTN1LUJLc0FLczU3U3J2R1VVRHBPN2pnT3ZxeWZ5OTBuZGtCRlNKUlhaQ1M4RUJlUnZzdW9TZGNjS0h5UjlqTFEtZ3RmLXpzOWlCa25oRHVLNWhGbnV2N2Jvbkt1Z1lxc0xHN1BUNnM2QWdpcjFkTEdDbzhoUm9xVHZmOTJET0VycXUtWkt0X29MT19fekQ1Y3huRDlqZ29TRWtLZW1BbnRSNHBMQ3o0ZGlGcEtXNHh4N3JGN3hXN01lTnFaM1J1NEk1YWFrLVRpNnQ1M2h1ZDBkX2tKRVhYdHVucXJ2MWdqRDdOUloyUEsydTRZRXVSTzZKUEJMdXhCOF9Oemw3TF90LUdQRVVQOG1DQThMYlpjOVFjbUxKalJDc2pCcFlXRXV2bTdETkFRWF9ESmNrMA?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 04:51:46 GMT",
+        "discovered": "2026-10-12T22:55:55.780061+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "الحوثيون يعلنون استهداف مطار الرياض مجددا بصاروخ بالستي France 24",
+        "player": "رياض",
+        "content_hash": "8b1ab896fdfb04d6323da4fbfd2fb2163de7632dc66c960ea912d7732aa54bfa",
         "sent": 0,
         "section": "world_arabic"
       },
