@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T03:58:22.435618+00:00",
+  "updated": "2026-10-12T04:15:50.235526+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -272,22 +272,6 @@
         "summary": "تفاصيل حصرية على الضربة الأمنية النوعية ديال حجز 4 طن و100 كيلو ديال لحشيش ضواحي فاس: “الديستي” كانت حاضية كولشي كود",
         "player": "",
         "content_hash": "c85f1eccf3630be3df42a3c2f618f3e3fdb29e04205a7eecc76b6a859232dbf0",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 10602,
-        "title": "اللجنة الرابعة.. كوت ديفوار: قرار مجلس الأمن أكد على الحل السلمي لنزاع الصحرا المغربية القائم على مقترح الحكم الذاتي - كود",
-        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQN0I1QXk1Y3lXVGFGVTZiNlNPT1g3YnJEcnVnTUxaeDVBVFZXcml2UEtDaVI1X0RpRDVYNkRadjJmR3ZMclYzSXRFVUx3RFFERkpITjVpcGpPSzRTOTVQRUlBQTUzbEVMcFNWaWlEY3cxb09DemlsYlMyLVRhUEgzTjBzeFdBbmhMS1EyblJkSnZ5cGo5YVJmZk0tTlB5amlrWENQR2lNQmZOSm83UzZuaU41WjJ2NG13X0hRbi1seHRwbHFWSF9GY1Izb2cxY0VsYlY5bjkwRXdxYzFOMktMSEtvdFFfeGgyaUszcjNIbUpyUlpOb0hydlNoT3MwbVM3djYwekpJREpWb0Y5bnNUSm1TQ25UMDl1cjhRaVZVV3pOdzlJdTdCZ0J4YXBPNDN6YzZYZlNQaDBSZV9NZFFIcjRxcw?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 18:50:19 GMT",
-        "discovered": "2026-10-10T22:14:33.203297+00:00",
-        "category": "أخبار المغرب",
-        "status": "مؤكد",
-        "summary": "اللجنة الرابعة.. كوت ديفوار: قرار مجلس الأمن أكد على الحل السلمي لنزاع الصحرا المغربية القائم على مقترح الحكم الذاتي كود",
-        "player": "",
-        "content_hash": "acee50a7bf1bf166ff53b1ca76f20151a8f47e21631695be11886c08c33ae5f9",
         "sent": 0,
         "section": "morocco"
       },
@@ -1947,6 +1931,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 11102,
+        "title": "تراجع استهلاك الكحول والمخدرات بين المراهقين في البرتغال.. لكن من الأكثر عرضة للخطر؟ - Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ0pzUkE0QVhYN19hX19XeF8xSlhzanc1UzdyRGlQd3hRN2h2TVVMWENNU0d1Tlp6VzBzdTJoQVFMVnRlalYxTFYyakJMOEJfMnNZbWdaMzJMcmhtNmtBNVhDT1FFWnNWdjRqMk94SmVoSGl1R3JYNU5YandmQTUyQWJFUlo2eGxpbWZXaHBMNEdRVV9fUVpVVzA0Y0JidFIzNExUaVN6QUlyMXFtWndrRjBGN0UtVEl2amlLY200SWw4VWRWSkY3dA?oc=5",
+        "source": "يورونيوز عربي",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 04:00:48 GMT",
+        "discovered": "2026-10-12T04:15:48.361855+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "تراجع استهلاك الكحول والمخدرات بين المراهقين في البرتغال.. لكن من الأكثر عرضة للخطر؟ Euronews.com",
+        "player": "",
+        "content_hash": "62e9a257f683fd132847d66472003e7aa41f954b598564dcb351a0a0e39bb0b4",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 11077,
         "title": "هيئة بحرية: ناقلة تتعرض لهجوم بمسيّرة قرب منطقة رسو في عُمان - القدس العربي",
