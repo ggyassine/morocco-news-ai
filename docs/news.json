@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T16:58:48.089261+00:00",
+  "updated": "2026-10-12T17:15:21.220265+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -309,6 +309,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 11243,
+        "title": "بنك المغرب يقيّم مكاسب الدرهم الرقمي وحدود تأثيره الاقتصادي - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9CdTNZUG5VNjRLNlNyOWJLb05idERzRVhJZ0lKN1Z3RVZDY0JjOW1DYkVaQmRsUXJOS1VLVHh3NFk5czdaa3JVTQ?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 17:05:10 GMT",
+        "discovered": "2026-10-12T17:14:56.400767+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بنك المغرب يقيّم مكاسب الدرهم الرقمي وحدود تأثيره الاقتصادي Febrayer",
+        "player": "",
+        "content_hash": "421026e23db726f6345c765bd13d6ba14a07a5871cce176a7ee15c1cdd84be59",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11237,
         "title": "غالتييه: على نيوم أن يتعامل بجدية مع بطولة أندية الخليج - الشرق الأوسط",
@@ -934,6 +950,22 @@
         "section": "sports"
       },
       {
+        "id": 11245,
+        "title": "جدل تحكيمي في القمة.. هل استحق الزمالك ركلتي جزاء أمام الأهلي؟ - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxNa0JxZXVaazBxaEdKSTFXZXdFTDlNbFA1OE9hb2tRM0VOemd1MVJSYVlrekxzTUpzRnhyRGM2dkdQOW5mMlYxaHJwaVNkNXhHMUdocnAzY1FZRFJ2QWxYVktST1g0Qjh2Y1lSRUJ6T3dManVGY2JFU1c2blV0NnB4Ty1reGowSUZNd3VuNS1GenJvTFpod21rX0xaUktZRUhXejU2Q1JJSU5wTTFQdjBCOFFjai1LTzc1WUpTOWdBdng1c0daNmtGS1p0U2hXaG15eWNJUXBiY3pKRHBCU21mUlNFd2NrblJpWDFHWDRva2dRNTh6d0pISV85ZXBhT2Nua3Q3dFRiRC1YZlA5VnUtZ004WnFEU3RYU0x1elYtZjRMQ2xjblNOa0wtTXdVeDM4cVNWT2FSM3JFYmNJbDhIZkpTRVExeFNUVGpBRDYwM2dhRXRSaTB0a09QYTcyVFMxZFppRVZWazJyd2RiSWo1RFpobUxhaFIwLTgtSVpmaTVUSEtxNWNfUkNmZTZvdDIyREFTWWhIak1MS20xdXNhMGcxV0dIaUZUcWU0TDZfOVM3VndvdnBuREFsNnkwS2M1ck10U0FaVHBvYkw1S05OOXhSVzJyNG5XX2xKNWVsMkZsM28zazJ2d2hEa0tkMFBSd1JnMzlxQjdWcFRqeFVkUTBublU0dVlHOFNyWXlKV1N0bFhDbnYwZHN4UHhfbHM4VWRINkc4ZlRYdng5M0owN01IYzV2Y3VFS01YNGkxVVVzU3FZREprVEc3NTZ2bHNUSXl1VVB5SHg?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 08:45:51 GMT",
+        "discovered": "2026-10-12T17:14:58.324053+00:00",
+        "category": "أخبار",
+        "status": "غير واضح",
+        "summary": "جدل تحكيمي في القمة.. هل استحق الزمالك ركلتي جزاء أمام الأهلي؟",
+        "player": "حكيمي",
+        "content_hash": "864e8a309501c1824bec8b61eee0132b09eda52d8ecc64f6f9fc251a2063e51c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 11132,
         "title": "إصابة قاسية وعودة معنوية.. الكعبي يخطف الأضواء قبل ديربي اليونان - Kooora",
         "url": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxNOU85VVhZQi1Lam1GUHFoZzZVOE9vMHJRWjBub1o5STZ5Mk5mdHFGekNQUU9qUF9YNUZac2hDMklyRWl4d2huMF9CdEZOT0ozY2xYdk1nclpLdl9TRHYwYUpvandMQUlxRmVOa05HVWFfcVYtOXI3aUllaHVGWlZlTTVrZEYxTkRpdmFidkRQN3FCQjlZSEN4T2o5NjgwNm5pMm1kSDFMM0lVXzlubXE5THZ4dm9CZV9WaGhtWmdPV1ZBTHgyWVBLUmJxanVKbWl1MUFpOVpINjg4MjdVYW1xeGhGWEpRWkVfWm42R0k1VnpQbklaa29PMWlRdkhMVS0zZ3J2dXczS0U2SDZNTmlYUmpMN3FlVXdjS3ZRYkZIOElrMi15RllDSmN0WnJqTlhKODJkd0JoTGNmNUZXX2xPOVkxdnltcTg4OHhjSFVIUTBhbXViTHBKTWVYOVlFejVqV0U2dlZQbWpjNFZUVXBiQ0M1enRMUVVOUHBkeUdBZHc2RERfWWtvV3RBcjNzbWR2eHg4S1YxdFR0RzNac2ZiVGdDb0drSThzbWd3OVJHamJWaHdubkl6NGt1ZmoyUW9HNTgySTJiV3lOQkpPMXhRd29OeGJZS0tCaG9NbnJrUFd4Tjl0cGhneGVzaXpfcjhSWDNzdllNS2xTOE9HZERHV1pSOTUyZDBKR0lnVkR3RGJoRGFOVllxQ1JIT0JLZ0NjVldnMVB1cG9BN29VWVVFTjFfbEM2ajUzZWRCdHdnODByTl9mMnV2Uk43V1cyTWJDY3pMbnFvYkFONnVhSzdVbTJLanllN1YtWDZHQnNGTXNUQi1uSTEw?oc=5",
@@ -1074,38 +1106,6 @@
         "summary": "جدول مباريات اليوم - 12 أكتوبر 2026 - بطولة الدوري المصري FilGoal",
         "player": "",
         "content_hash": "0ee9ccffb050d1b6250ce3f03ae7bf4ae48df3b317d41a31ead6cd615352dcfe",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11073,
-        "title": "جدول مباريات اليوم - 12 أكتوبر 2026 - بطولة كأس مصر 2022 - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUzRoX1U3czd2NWJvaVM2RU4xU0t4bEw5QU82UEtVbW5JRzFqdHhVNWxoZ29RQTBJYVdJaVBYamtrY2UxUlI0YkNTQW1FM2hwSlZnMzgtLWZ0TWZWUVoxeWNzdG8tWHlEQzhRdjNRa1p2WG9NVWNtcl9sQm4tOGFQOG12X3BjZ1hUQ3pKenItUWllS0x0eVZyemwwRGFJd3JXUmJ3cXg0aUk2ZFdDTWV4bGk1dVVXS0xGZFp0aWNpbHMxUUlKbkpQampB?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 00:00:07 GMT",
-        "discovered": "2026-10-12T00:33:13.962802+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم - 12 أكتوبر 2026 - بطولة كأس مصر 2022 FilGoal",
-        "player": "",
-        "content_hash": "29ce18d75051855fad76905743e07767dbd145a9ea6cdd0a992f611de93ea796",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11071,
-        "title": "جدول مباريات اليوم - 12 أكتوبر 2026 - بطولة كأس الأمم الإفريقية - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNeVVwTVBIN09sSDZnOF9VQXRRNDQ4b0JnZ0tmUzY3RU9HaG1jdHF1NGE3OHJEbDg3VUNYVGdjZVEyc0l1MTRpWGlCeEVTdi1ubkh0a285V040ZGZYakQxaWMzMUxHbG10bUk1b0YwZlViZnRVcUFaVUdXSkdWTzVScTRiNXhUQ092SXlBOHMySDdJX014WmRPRkVlWUhXVDY1MXZET2liMERzTTdXMTRkN3BWV2RxWjJxbkRNUUVBNHc0ckNOcXlOMU9Sbk5aMi13TTk2SkpSM0Q1QVU4M2R4c2lrMUcyMkd1Nk1odmdLR3hWV3JFYl9oakVKM19DblN0SmFnbnRhY1QzWWxJRTYxdU5uYW91c1k2dTlhQQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 00:00:07 GMT",
-        "discovered": "2026-10-12T00:02:13.513393+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "جدول مباريات اليوم - 12 أكتوبر 2026 - بطولة كأس الأمم الإفريقية FilGoal",
-        "player": "",
-        "content_hash": "54248e09e06de18e01e9c5dd88b0b22396e4f9326f789a73ac955b6613fc2075",
         "sent": 0,
         "section": "sports"
       }
