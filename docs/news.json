@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T22:02:44.380950+00:00",
+  "updated": "2026-10-12T22:21:11.964720+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -496,22 +496,6 @@
         "summary": "الدرهم المغربي يسجل تراجعاً جديداً أمام الدولار واليورو Febrayer",
         "player": "",
         "content_hash": "33f3090682b330f8394b26a19517eb1328154301d89b338c5df5bea06e55b4fc",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 10954,
-        "title": "توقيف فرنسي بمطار محمد الخامس بالدار البيضاء مبحوث عنه دوليا للاشتباه في تورطه في محاولة قتل بباريس - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlcXZKQTVyV2t6b2lqYURQUF9ScG1OQndnY1VIVmNWYXRMQmM4VXZZTWxhbEZKb0FYZW1XWFZGLWQ3UnRBVE1sQy1sSExGNjNuX3lYZmp5bjY5LTZkVjBUeVZZN1BqUQ?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Sun, 11 Oct 2026 18:05:26 GMT",
-        "discovered": "2026-10-11T18:22:09.819403+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "توقيف فرنسي بمطار محمد الخامس بالدار البيضاء مبحوث عنه دوليا للاشتباه في تورطه في محاولة قتل بباريس Le 360 Arabe",
-        "player": "",
-        "content_hash": "5e04aa2ffede532aa96bddc24962844acf474a1efb7054ebc2ee9c3bf9a88d62",
         "sent": 0,
         "section": "morocco"
       }
@@ -2088,6 +2072,22 @@
         "summary": "ما تأثيرات ذكرى غزوة أكتوبر على الانتخابات الإسرائيلية؟ مثنى عبدالله القدس العربي",
         "player": "",
         "content_hash": "52c1ff11922775fa423c47ade81afb2b1eafe6e0f6d199ba902b4696eb486377",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 11404,
+        "title": "وزير الإعلام السعودي: مستعدون لمختلف السيناريوهات مهما كانت - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNMU52ZE1CWGZrVTNQdHVsVFRrQmtoR0M3Zm51WEpyWVRNS1N1OGdFVkI4Skk0UEc2MGZZS3lCX0FySTBmQjByQm1iV1Y1T2V5Yk5pc1JEQnZMUF91TDNKZ0pBLTFid0REbEc2ck44QTVGN2tBaHVwUzl1NGJRaGU0VXhZUDJkSEpqZF9Sb0ZOZTlibnIyTGVMdUJDclpoUDFFR194bXh1T0czMWJ4RkhnUmhEdENCTGJjU2JpSEdYTXZpS2FMTzIyUk9GdTFKdExiTlJ4eU5LNWtPY1d1TWlKeVNBMktqNkt5QzFXTVJvanNNblFaZUR3ekQ3aHQxRTV6S1hKaEJxYVNCTTg4RmNkanMtSW5lLTAwbFBqa2NRclkzeEVoWW5BRzh3M1NjQ0dwRU5iQlBYRWNoQWZmd2JfdHJaeFBnQQ?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 18:09:18 GMT",
+        "discovered": "2026-10-12T22:21:05.915364+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "وزير الإعلام السعودي: مستعدون لمختلف السيناريوهات مهما كانت القدس العربي",
+        "player": "",
+        "content_hash": "fa6b12d285584e374a3f878e0476874e7559307b06c54657ea60cb6d60bad13f",
         "sent": 0,
         "section": "world_arabic"
       },
