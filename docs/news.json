@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T20:39:40.147243+00:00",
+  "updated": "2026-10-12T20:58:53.519672+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1866,6 +1866,22 @@
         "section": "middle_east"
       },
       {
+        "id": 11384,
+        "title": "الشاعر الغنائي أحمد المالكي: رحمة محسن تمتلك بصمة صوتية مميزة - العربية",
+        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNZ1EzZ3A2QTRKRTNQUnFWeXVIS0NqLWF1NTF5R21RcjhHZHhHTHoyNEJZTGtDOFVLU1pFNk0tdk4tMkJMcnRpVFltV3VtX1BDWTByOGd0cWJEd2pHNk9YZzdWelUzTWFWY3lmRFM3WWU5bExFZjhZQm9MRUV2bkpTOEIyV2RmTVl4S1d0bE9NM2Y0RDBjd19IYk4teG9LckxLcW45bnVCVFc4d19TYXZBMGR5a29SREowczlHaWl6Q1pCOUhMbmhPUy03amRXSlZicUFrRXBOUGxsbEg1ZEhOc0FxcTlIRjVwX2RkaU12ZHNEN29Sa3FLaVdjWVBjWHA0REVRazJhWkE4a3E2aHlwUDdKaUt0Z05CQWVQYmtsVlpCMS1sS011c1A4Vkxya0RMOXlTZWlpaDZ4djFwQlhGRGlBcTJUdEl3Qmo2TWtid3ROcFRGTFhYcmVETTdxM1F2dHhBQnlJZDN4SUs1SHZnSGVZQ1duYm5zZkdheHFqelExQjJzWVdDQVI4cnBNSEFhVGVQNU9ZOXctS28z0gGiA0FVX3lxTE10a0ExNVBCVmlpajY4S0tSQXh6aG8zT1NkRzU1aVRTNnRGMVBoSGYxeDhnNjc1SXRLWFVyMVVIR0lNZkRyLUtUVmh4ellZeFI5WGs1SEZoTkFpVDBnbnNFMVJnUEc4WUFXb1VMXzkyM2RlWktVZVZtc0d1a21kckd2cDM1TFRiNEkxc0g3b0xPOS1BcmZTUm9fek0wdGNiZFBWQkdVVFMzVmtXUWppcU9NMW1ldmM5MWhwNklrN0toajJsSk9oRWpxSUcwVFJPcjRfSGMxTllQUER6cEstN3ZRZkI3ZzlIUFF0NmJkSTl0b204b25zZnl3QXpNd1lORHNHZ3dmczhYWmJEU3FseXRkenl0Q2lZOHBudmtJTUF2RjVNejhjWV9KN3kwUURHWUpQcnZpT1d1VVNqcFlyWTlpeDFreXdkRmRuNXVZNzEySHktVXNMWWpraGdJUTF3dkxZd3MzbGI1eHJ6dFZDcnpTNW9NQUN3d19mRFI5U2VBLVVra2h0OWZHcG5pdmNEOWJtQk9KYWRHUklKTE5mUVlBZVE?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 07:45:00 GMT",
+        "discovered": "2026-10-12T20:58:42.584826+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "الشاعر الغنائي أحمد المالكي: رحمة محسن تمتلك بصمة صوتية مميزة العربية",
+        "player": "شاعر",
+        "content_hash": "360fa0e9dcd7312ac3186ba25b10d7b60d6df55dcc68cd023bd6c68247a291b8",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
         "id": 11191,
         "title": "لماذا يصر الحوثيون على استهداف مطار الرياض؟ وما سيناريوهات الرد؟ - الجزيرة نت",
         "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPMWNGTHd1Y0hpaUoza3ZfdWoxTzJRVWNOVjRZUjJsSFJWZ0FSMl8xanNWekdkTjZONmNlRi1yN2I4UW9oX1pwMmt0WHBOT3ZOZkxTUFBzdXBZd3pLZmpraVZueTVXUnlOYlgyaDlsTzVfMEtTUnhKMGpNVU5HWDZJaHNuN2REdjRrSlQ0UXZmQXNBVXBxd1pmYklObzI2MUYxRG1YVXhDVjgtUzctb2xBZzVWc254Z19PUF95ek5BdUZIbFh2OGFDQ2RDQlRXVVYtTkZ1aFdYZlQ4Ylg5bXJZdE9TR2ZZaTNZSFpFaExGRUFDYXU0X0NOOXM1MDJTRnVONzRkWGl4alRnQ2Z4cWRBSlljVWl6YWtZSG5GQVJDMkpwcC1mSXNsbUl3aENpeXlkZUR6a0dYNXpLcHViZlBuTVA1VmtFbzcyckJoZFBBRlc?oc=5",
@@ -2392,22 +2408,6 @@
         "summary": "تقرير: هجمات الحوثيين تربك عودة وزيرة الاقتصاد الألمانية من الرياض DW.com",
         "player": "رياض",
         "content_hash": "238c1555ced9c91b2b8cd0c67ecaf326ec8403af61016d96f88012ccc936f0d5",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 10939,
-        "title": "الهجوم على مطار الرياض: لحظة خطيرة جديدة في ظلّ صراع متأزم - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aNlNiRV9KZ1lHWGhSeUJJQzN1eHNwTlF5ZExtQ1R6SHdqWjdUOHNsTEw3SVk3ZVVnbWlQWVl5RUs0MnU1ZlcyOTBueUR2OFRMejI4Z2ZUN3pnbXBkM2fSAWNBVV95cUxQeHY4OXFVRjU1WnVUNDFiNF94T0kxLWhHdzlrSEtLMTVIVHV1MVlBUEZaZEZ2OTJDU0lzaS1ma3JLVkdIdThsRDV3MUdGR0NvRGktUzJxcVFzZndlU2xFazVJTVE?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Sun, 11 Oct 2026 17:25:55 GMT",
-        "discovered": "2026-10-11T17:37:32.447436+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "الهجوم على مطار الرياض: لحظة خطيرة جديدة في ظلّ صراع متأزم BBC",
-        "player": "رياض",
-        "content_hash": "777460a70c8faac05f0d543ff0e4d605c0ea30c4d8b8f560a9b1741b7d172511",
         "sent": 0,
         "section": "world_arabic"
       }
