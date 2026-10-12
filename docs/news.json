@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T23:52:13.430122+00:00",
+  "updated": "2026-10-12T00:02:27.153934+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -389,6 +389,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 11071,
+        "title": "جدول مباريات اليوم - 12 أكتوبر 2026 - بطولة كأس الأمم الإفريقية - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNeVVwTVBIN09sSDZnOF9VQXRRNDQ4b0JnZ0tmUzY3RU9HaG1jdHF1NGE3OHJEbDg3VUNYVGdjZVEyc0l1MTRpWGlCeEVTdi1ubkh0a285V040ZGZYakQxaWMzMUxHbG10bUk1b0YwZlViZnRVcUFaVUdXSkdWTzVScTRiNXhUQ092SXlBOHMySDdJX014WmRPRkVlWUhXVDY1MXZET2liMERzTTdXMTRkN3BWV2RxWjJxbkRNUUVBNHc0ckNOcXlOMU9Sbk5aMi13TTk2SkpSM0Q1QVU4M2R4c2lrMUcyMkd1Nk1odmdLR3hWV3JFYl9oakVKM19DblN0SmFnbnRhY1QzWWxJRTYxdU5uYW91c1k2dTlhQQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 00:00:07 GMT",
+        "discovered": "2026-10-12T00:02:13.513393+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 12 أكتوبر 2026 - بطولة كأس الأمم الإفريقية FilGoal",
+        "player": "",
+        "content_hash": "54248e09e06de18e01e9c5dd88b0b22396e4f9326f789a73ac955b6613fc2075",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11070,
+        "title": "معتوق لاعب الشباب: احتفاليتي مع المدرب طبيعية - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxOOE9IVWJWbHpiYXBsQ0V1bkRLMEFtWlVPcVhWWWtRUW1ZdHNDYlhIZTZOUGEycHZoWUdObk5IbDFGTFlfV2dvSk9ZcGdnbzN0NkprZGhOUExsN1pFUzNENVpSTGZkcFdkVHFuMzZ2SHpRcFZnRXlXdnowTnpiTS1nUEtDUThqTmFTSzJCb0plNm5GenVSSE8zdUdjT2tiMDUyZE9uc2VNZHhpTG9GcnRGbUFHY2dQMTZRWkVBa002ajJMZ051bGppODh3dDJOdXhHd3g3VEw4eDVCVXdQYXdUMHpQMzVySkt6ZndpTnhfOUlRYjQwSkRORHhtRVgyeGFvR1FsaVJndi1CUE53andpTHdOU3ppTlotbVE1aTA2SzNqMzZjb1E1XzdpSFU3OVVKc0dFVDRtYmVRaWhiWkFPY0JPTm5EM19XX0psS25Rcjg0OV9FU0p1Qng3SlZjWEpPUnZNSGMzd09PaUVwTnZHTFNyVWgwYlFKcEx6QkRmWkVmNEdqNGlUdGF5cUc2UHBQMWVicVpXWjllbFhYOENDY04zLWE0MjdtNGFkU0Nhbm1BR1RyN2tfZy0zeU56U2psQWFQeEkwVEZRcGQ4UXJ2MkRoM1RaSkZkVTdZSVh4VUREb0ZCWGFONE1Ya2RmdFdpMTQxcUVSSUlsU25NRGxIU1FBMXk3WlczbmI3UA?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Sun, 11 Oct 2026 23:55:46 GMT",
+        "discovered": "2026-10-12T00:02:11.042801+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "معتوق لاعب الشباب: احتفاليتي مع المدرب طبيعية الشرق الأوسط",
+        "player": "",
+        "content_hash": "9ac75e49e80efaf83f663a22cafa2a5e77240b13eadb00ce6de70c267c7427cf",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11061,
         "title": "أخضر الناشئات يودع تصفيات آسيا بفوز شرفي - الشرق الأوسط",
@@ -1156,38 +1188,6 @@
         "content_hash": "1379e691a1325848208ce9f23ec71ea99ef944e0dbb75d422b239df0052fc07d",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 10944,
-        "title": "تيكي تاكا بين لاعبي الأهلي أمام الزمالك - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNcFBSbVNrdXJ2ZlRhWnhJTENSVU03b1I0QmdDSDg2NlN5STFBZm14NEFWZU1ha2NxMWRxMkJZdkJaYUx0enBsSFpISkFOZUhtMlZkaklOWGN0VldKaV8wVzNhT015eTdYX2NPQ3R2QVpldWgtbzBRNkJGbGswcDVwdU5mQVlNNFFIOW8wM1lwWGNaelJWX3d6b2R5UE5zZzQ2ZnFTWGVqUk1YSkhUY0dMdTJHbnByc0RsYlpkMjlTR3lqa0tzMVFhbzdaZFlKZEdHbUVwOGh1aGNDNVNRV1MyNUdpRlNXUHJzZ04wX2pnWUxSc2RRSEhjRWpzZG9adXA4dXY0MU5EN3pJQUtjdUdkMTJoTm4wRnBsTmFiNFI4Z3g4S2ptS0J2djYtSXcxaUtLamlPWGRoTENFN2JKNjZmNlltZ25sdkhwUHR0dGF2czA3eGVHMVVMTTFoaE8taE5GS2NN?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 17:42:00 GMT",
-        "discovered": "2026-10-11T17:51:50.478944+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تيكي تاكا بين لاعبي الأهلي أمام الزمالك يلاكورة",
-        "player": "",
-        "content_hash": "914b1caf88f7e38d19d8e2a7ddb500e3d6fdc2e918f3dd7c4c72412d244473d3",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10943,
-        "title": "إصابة عمر جابر في مباراة الزمالك والأهلي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPQ0E1VGtFM0Y4NWdEcjV5NFoyalByb2E0VzdqcFVIMUphQXMwZTdRaGdodmxNWXJ1SWVKSjcyX3JVWFdSOTJQaE5YVFVlSlVmMzVjbDEyeXdJWHd6Ujh2bHlGc2g4TDJuT3dJRnpTOFg4THJySzJTZEdhQzFMV2ZMMzhydmV4MV9LdmdxV2t1SWlFYldHWER5eUY4dy1jWWpYOHFnOUFjd0VfUF9qUUNoYUgzTnl3MThSRXlpSENRR0Q5NDY0aGY5WHZDWHRVT21CLW5lb2NpeEFxRFJTOU5yR0dDeXpzdXlFemNBZ0tydi03ZUMySW04d0FCQjZlc2pqb29RTzFSdm9naF9pV1A5bTNpTTZBWHhtZzRPNjBaNjdqV2ZfUy1jenkyTndkV3lpZ1p0Q2lfcDVRQnRhYjJiLWJ0NWJyd2wzenMydmxPLVYxU0pIZFZ0WXRIdWtONm1uSXR4eXpWamRLSVhOZGxpaWpVVHJydVBackdzRUFzRV90QUJqM1dB?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 17:36:00 GMT",
-        "discovered": "2026-10-11T17:51:50.473970+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "إصابة عمر جابر في مباراة الزمالك والأهلي يلاكورة",
-        "player": "",
-        "content_hash": "4628dbcec0dde63dab8060387a77aeb61f110f5ca40723de1897f970993de665",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1882,22 +1882,6 @@
         "section": "middle_east"
       },
       {
-        "id": 10564,
-        "title": "تعليق مؤقت للعمليات التشغيلية لمطار الملك خالد الدولي إثر تعرضه لاعتداء - العربية",
-        "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxPSVdkVHI3a3F0TGFQN0xaN0pkRS1zWjE2a3ROWElHQXpMeEMwWVVOLWhMcEhkTkZwQkozaWJOaXFVTGkxdWt0ZVlBR1BGeHFkY2txZ3E0S21rNkdBYTFDdnV6d1YwY0tZZ0paNVRIbzE5Y0Vfbk8yaU96Y211MDBsbHpoam1ZQkNMeU1Ba3F3UEZ5Y3hVQ3p3bTlpZE9XOXp2Uy0zYjZQd2E4QUN1T19oZGVhRC1mU1BpZzB3RFBBY0R3NUlOU3VNN2tHVVBVSG94VW8zMVkzVmxIQUJXVUFEb3dlenNKYkE2WVMxNjhBaENNel9wQlBvdjI5VkFfelVvaEFrVmotbFhiY081T0Zzb1dKcUV1WlROM1B4SXR2aUpRb0RucEZGbGRaTTlJenI2VWE2a29Lck1hcTJwQWUwN2R1RUtyWkt4blZoNDB3S2MwQm5OUUlDMlNDOUlsajRJUE1ZODItSHBBNU1kX2dtcnZjN0N0U2prU1hwYzZ1bEFXSGxfLUdiblRpZUpWeUVEc1JkMEFfMVFZb003R0JKMFpBTF9NYkpseGNIVWozb01MOGVlalZoQTJnR0RzR3BvZGZDTV90eWNmX0Jvb1RPeTNHbEo5aXRWb1M4VWdMbzRWQTZVLUVSWW5ial92TjQ5OXpLV1UxdTF2ektHd0ZVYnNNaUVXa2k1dVFtZWM2NE9MMW10Nm9ySUEtWkJ3SzM0MlM2dXNKTjVXMS15UERxUUh3UFZsUmlBV3F0cFdRTERwRGNhVzkzdkluY1dDTzBZU3lHR9IB2gRBVV95cUxNUVJQYVFKT0pEeHhIWHluNWFsUzZkRkxsckpVVnlCSy16RDFtVWxWcUJOZXpGR1BZX0R6djF3S0Z0R0VXNTJuTUFmM3EzOHJtLTBOQnVtdzBJR0Q4eEhEZjhXSWF2bm9ibkltUXRDYkNjSi12NV9oTjBfLUUyb2FJVkJxVHBhZlUzUlp6M18xT3I4NlFSZEJ6bHcyUFI0VERwekFtM2JfWTFuUllMVlAwSEJyeDl0Z1Ntdi1XVjNqeldMemFtanBXSlRxZlBVRGpMT2hCX2tpcVR2WFN5THhiWmhJcWdrR1RNWGZPVERMdy1zWjQ2cE9MLXFQZ2Jfb0U2OHBfaVUxMnhlWTFLYVZmaEI5SnJGRi0wN0RrZllVbW80SnI5UzZqdjRBaHNWUDA1TGM2OWJzU3JVY2NaZWdOamFXZUl0akE1a1ExTEYwajhMY252d19yUzhJZzRCNkViYm9UbGlhdFlTemtsUGxZYzhIVDNsb2U4VUVNaERwWWJuS3ZWdkVaMVBpekIzLVdVMkwxblozMmRVeFFQOTItRDRlVXM4Rkl3VEc5RVZCaGJocElXdmV1anJuUTNaTVJOVjRrY1REdXJGT2RfaEFUNlNnY3VrcVVGcDJWaGM3VEFlbmo0bVk2RW5xTGZ1VXh5R1JUNlZsMFQxdVUzQXlsRVBoVUt5enRVVG5PUlhoQmxFSThvSlFoVzFPeEQxenpCSlA1ZDZQbVVUN2xYTWdvVm05V1BHUThPdER4VmxxampsZjJ3b2h0WHhzRUI1RHYzYmF2Wmx3SFZjZw?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Sat, 10 Oct 2026 16:43:00 GMT",
-        "discovered": "2026-10-10T20:31:50.491924+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "تعليق مؤقت للعمليات التشغيلية لمطار الملك خالد الدولي إثر تعرضه لاعتداء العربية",
-        "player": "",
-        "content_hash": "9a068c9afb825a4435ade644705fbba17a9b0201d7e9a690da1b27682effa9dc",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
         "id": 10643,
         "title": "وزير الخارجية الإسرائيلي: لا نتحمل مسؤولية تأجيل الانتخابات الفلسطينية - العربية",
         "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxQRVVtd1A5OWNtUnRmRnB5aVM3SWxJcTZ0M1NrdEJ3NVExNVlvc01iekVfcHZPV0IwNkh2QnJOay1Kd1lSeUk4SXktbllESnBkR19UNEVkdFc4Q0IxbVJjazVhUTc3TFFsOUpPNGdZcmpIV2JIN1JzQjUtenJLczhSeVoyZnpFYWw4cXN5aFhEdi0ySzk0ZmhWZDRQbVowQnZtQVRONDl4MF9Fak5wc1NEWXdWSW55NHh5bFF2dndwZFdfbEhOYnk2YWlLOXRSdm1Ua2w1QW90YTEtM3pSc1dsazFzWXBGR0ZnWkFNV2pIeUZOUlF6UUg3Snhad2RNcURUZXVTZ3JGR0ZieVo1RkQ5YldZaEN0a3RiSjlZRXE3RVFaTUk2cnQ2RWNNTkstWGlFaldxcUUyU21JU2RxazYxY0R0cjlraVlUdXM1WTN2S1NRTE9TWHl4WHJ3eWR4TXNQckp0aG1TM2pfUEpZb21GaDVyU240OXpTXzVaQXljZ2QtLWR1QlJQb3lQeTBrcFZVeEVjaEp5TF9IbnZQaXM3SjdGWXIwVTN0XzhoWHZTUWNBWFFBUnBKeVFEaFpUbHloVlpsRDFSV3JXUndoeERwZHR5Um1GT3JhZDdOU0p3ak5Denk4dVZnMHB2NFFWZnJORjMwUUJtZHBpT0Y0endEXzZHYkgxUmM0RURFWGR2RkhTNTQxQmhLcllFT01uOWQxMnVuSkVuWlo5eklRTV9TRG5jSkxtWUsyYXN6dE5lTEswdG1iUWYxeEpDbzlQakt6TEp3YdIB2gRBVV95cUxQbkQ5Sm51TFFScnRPbkZWMFNVeGl0bEwwMmJBb3o2UGdWMjY1SGVYRFUzVHgzMTRqWHdKNlZBczZVaXdFYXV2UFZZYlVScW5OTDl6TUdzTFBGOFhxOFQwTFFVV1hISTlFRGRWVkVKN1lEOTIwRUs1aFZ4V1JWeWl4ZWpqNlBMMDd3aWxHMnRYYU9PS19pZl9ZTEt0NVdNMjBpY085Y0o0ZjBDdXFxZFJ2TGRzM0JfNXZVbG14bGpKZlozQXprRGVwdm44N0djalFxZVRDZ3FjV21PUFl3ZWViUk5SQ1MwQ2xzQXVyWm5ZU0RQdlFPR0VQYnozMXl1M1RVQlBqc2Z0NVVJYzhSaWZ0cm9XWHc0WXMzc2ZZSm41LXpVcWZQU0hveTNlTktEekh1ZElJVXN3WDdnbDZQYm5IdHNxeGdualF4bUpxTzZ3ZzhoQzRSQWl6empaZTZkTTNISEZmM1VqdVIwSFFWMXlJUExrd3VPLURwbkR4SUN4elBpNHM5YTI2aHZzenpqVFRlVzhXX1o3akZ0eU1md3k3dzlOYm8yZ1NxNW9hTlY4Vl9lcEVIYW1qeU9qai16SVVDRk1aQXN4eXpMRWVwc1RveGZYTUk0RmQxcFRvODFLTnZwaWxiN3ZCSGUzYnF5bVZWWUV4cEF0SW9wSWhkUEtoV3plNHZYTFlXUjk0UHM4cEthandGZncyUTFqajVlbkZEaXRoTlpGeF9ST2NUcXM1TTdpTk9GTHY1YmlUemw2ZE9OQXJpX1pTMktEbmwtdU9KNDlKU09hVXdmUQ?oc=5",
@@ -2408,6 +2392,22 @@
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
         "player": "",
         "content_hash": "1e010bf0dbaa289bfdc498b020c6de8aadef0b5e84f5d8a046eba8af035e1dd0",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 10903,
+        "title": "\"أمريكا على طريق الدستوبيا: عندما تصبح عقوبة الإعدام عرضاً تلفزيونياً\"- مقال في الاندبندنت - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rZFlVOWhta2d6N2Y4dWdRU1czTzlsX21hLV9WdGh3Y2J4NVN6SER6eDVQUW54dEQweFVlVHJSWGF0aF93aDhSUUxYcGlTTVl3YVJrU2dTSTFzeFh0enc?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Sat, 10 Oct 2026 12:26:55 GMT",
+        "discovered": "2026-10-11T16:19:24.814937+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "\"أمريكا على طريق الدستوبيا: عندما تصبح عقوبة الإعدام عرضاً تلفزيونياً\"- مقال في الاندبندنت BBC",
+        "player": "",
+        "content_hash": "e57b462b01f71891486b2a0bb907bafafeef5511fc9b8e90583c27b72067c3cf",
         "sent": 0,
         "section": "world_arabic"
       }
