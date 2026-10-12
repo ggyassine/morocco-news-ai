@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T07:57:21.982481+00:00",
+  "updated": "2026-10-12T08:17:01.497200+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -240,22 +240,6 @@
         "summary": "حجز أكثر من 4 أطنان من الشيرا بضواحي فاس Febrayer",
         "player": "",
         "content_hash": "45b8cbf8385ffe721e7d8fa37c3a56030d9069dfa8bce6757ee85d7ccc675ac8",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 10862,
-        "title": "كيفاش رئيسة الحكومة المنصوري غادي تحول توجيهات سيدنا لفرص شغل حقيقية؟ أستاذ القانون والعلوم السياسية لـ“كود”: الرهان ماشي غير فاستراتيجية للذكاء الاصطناعي ولكن فبناء منظومة اقتصادية رقمية قوية كتدعم الشباب ماشي غير يستهلك تكنلوجيا - كود: جريدة إلكتر - كود",
-        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPVS1BcmxDbEQzUGFhb1A3TWVzMDd3T3hXMWJfeXdKMkhHQWtEVjI5YWZzVzkwS0duaGdRTnVZX2d6TlE1UDFoSDFiSXR1QVplbWxNam5GM2VYb2xoaUVIcHBYMXAzbXZGcXozTkhWNGxTclU3MVV5bUdjalBwNF96emNBWnZrSENndFRjeEREMy1oemIzdzNMeDhuYlNJQWpnTmpzc0FBU01pcFpxVWZqU1ExOWw2MmJGRjNDZ3lGbW9xWlhzOXNaUlF0R3hBcW05dFdEUE1wRnhOSi0tVGRUdl9GbkFwb3dJdGhTRUJfWHgwMDJRNGFGVVFhZldPbXgzb2pXeEYxUzVpaklJVGl4Wko3M2U1ekZjWVlhLU96VUw3M2JwejQxeGkza0VCcVJqUHNKTXFkbHdGOExtMFNSQjBVUWFXLVdsV0E?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 18:09:06 GMT",
-        "discovered": "2026-10-11T14:48:09.907934+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "كيفاش رئيسة الحكومة المنصوري غادي تحول توجيهات سيدنا لفرص شغل حقيقية؟ أستاذ القانون والعلوم السياسية لـ“كود”: الرهان ماشي غير فاستراتيجية للذكاء الاصطناعي ولكن فبناء منظومة اقتصادية رقمية قوية كتدعم الشباب ماشي غير يستهلك تكنلوجيا - كود: جريدة إلكتر كود",
-        "player": "",
-        "content_hash": "fb902e9d50c471f933847fe42f12896df8e622bf5a23b820e6837ef59f8b3691",
         "sent": 0,
         "section": "morocco"
       }
@@ -1915,6 +1899,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 11131,
+        "title": "وزير الطاقة السعودي يتعهد بالرد بشدة على هجمات تتعرض لها المملكة - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IVHdhejU0azRtaUt4RFVSZG9GcnJqM2ZVSXJJenVtaVpRelN2eGwzam1ua1JYTDV6SEdnNTFIbjN3RU9nY1pDc1B1WDBHSzRwVHpxVHB4VWZSRGZUOUHSAWNBVV95cUxPRHF3aGNwaF9EWTJja3pvb1MwTjFhcExTN0JiaFpvOVl2WElZbHFVbmdwNk0zUG9CajFlZ0hzX2JTQ1FpUEJHeVdydnBteUZFVFduYWFCeWJjbUZjOUpmVngxZTQ?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 08:01:54 GMT",
+        "discovered": "2026-10-12T08:16:57.126524+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "وزير الطاقة السعودي يتعهد بالرد بشدة على هجمات تتعرض لها المملكة BBC",
+        "player": "",
+        "content_hash": "8a6c5a0f9b551db2f373f3d76d543b34ae45ada18db9292350bb8e43906cd6fc",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 11115,
         "title": "مقتل شخص وإصابة آخرين في هجوم جديد للحوثيين على مطار الرياض ومواقع أخرى في المملكة - DW.com",
