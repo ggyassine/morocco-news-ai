@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T10:06:37.469266+00:00",
+  "updated": "2026-10-12T10:28:17.813074+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -258,6 +258,22 @@
         "summary": "\"عمل قبيح وقذر\".. لاعب برشلونة السابق يفتح النار على فينيسيوس Kooora",
         "player": "",
         "content_hash": "bb3f9f26951d295d5a97f6cb5399c7dc624123966189e555f6f560c69856758f",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11145,
+        "title": "كريستيانو: أنا أفضل من ميسي ومارادونا وبيليه - الشرق رياضة",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPYzdsMFZCQzhDWTR5Y3FjOEVZQ2RoZ182emc0M1hDSVltOVltUjhYUzBQSS11bHlTSUNISUZnNnc2Rk9aNVkyYjFNcDlFTnhRZW1nNjJsSDZOeDc1eUZzekt0aFkyeldUNWNwb3lPeGRiMEhJcGpYU194SlBXOThHQlMzem1aRk9qZkNha0dkWHR4NW1SUnZjeDFaZlNoZTVuY1E4M3dqTnZwZ0c5NzJ6cXNPWExNLU1pOUZHTGdwSTUyMVpGOW1aNTJxaU85YVpYelJQTFlzOWMwZjhpNVVyRWRXbmp2ODljekpaX1FYaWpnZ3RIb1B1MzZjVHBISzFHdzN1WUFXbHh6RV9GMlVzTW1SQVlob1l5ZzhZS3k3Mm5rXzcxX1EtSEVpYW1XdTJVUVhHNmJJUTVrTXZVd016c21mTkN4MlhPWWRJSEZtTnIzMjZDNmowV2hIb2JmRzhjaGxnbFFBM21HamxmLVRPcDdKblI5Mm5McTREMElaNWhpWi1xMDZNZW4wWjdxYlg4Rnl3WkJEdlpxYU1MYlYw?oc=5",
+        "source": "الشرق رياضة",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 09:20:27 GMT",
+        "discovered": "2026-10-12T10:27:36.510512+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كريستيانو: أنا أفضل من ميسي ومارادونا وبيليه الشرق رياضة",
+        "player": "رياض",
+        "content_hash": "b749f9528d74648fbbaa236522b31aa569a4490e8ced0b3db6288d390bcd4763",
         "sent": 0,
         "section": "sports"
       },
@@ -1010,22 +1026,6 @@
         "summary": "احتفال لاعبي الأهلي مع أشرف داري يلاكورة",
         "player": "",
         "content_hash": "f653936265aec17bd4fe8dfc6e26d8c00d29d5fecc0000dcd822da4da4edb05a",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 10982,
-        "title": "أخبار و معلومات اللاعب ابراهيما تانيدا لاعب وسط الكرخ winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQaWktc0x5UURNUzNkVmRDTjVOYi1mbUxBRHhzWXB4a2dZU3BjVEU0SU85TXczRU9uQkRrekFoOG9JVlQ0WWQ1N0gxa183LTZGdTBRMW9pNmFPeTF3R2hRVmlHOXJjT2MzSkRMQTdBWGdMdmpjTjY1M1p6M3hySmxrMDJ5bDBGcjdnU1pTSHN1d0RwcTlqdTFaUHoxNjlFMFVRRV8xUE9US3dUUkpOVkwwSWtjYlZiT3EzMXc2aWRKWkN4TFZvSTNUcTNJRVNzdGJRRFo2RWFjMzZIY1JSWXZSVXo2ZzFyS3ZOa3dVRU95b3ZQeC1xVklhQzJXclpIaV9SN016MjhoaWNnVmhkV1o1MXIwZmxMbzVOaGRtTmM0R08?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 19:25:16 GMT",
-        "discovered": "2026-10-11T19:31:32.052352+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب ابراهيما تانيدا لاعب وسط الكرخ winwin winwin.com",
-        "player": "",
-        "content_hash": "fbed355d907bb9f4abb97874975ca69da01def9e046d64e3b68b2dec3c448516",
         "sent": 0,
         "section": "sports"
       }
@@ -1980,6 +1980,22 @@
         "section": "world_arabic"
       },
       {
+        "id": 11146,
+        "title": "أجواء الرياض خالية من الطائرات وإيران تبدي استعدادها للتوسط بين الحوثيين والسعودية - dw.com",
+        "url": "https://news.google.com/rss/articles/CBMi-gZBVV95cUxPLTdrNkdYYnI2amlKOXJjOXp2ZkUwSFFpX2oxMy1tUmlxMk9mQVo3X1lsbUsyN3h6eTRMaDFVLTE5TXo5dnlIX1VSRHpKVVhtanF5cTV5R21VbS10OTVYRkxodndzR3BZbHdHUktZMmtaeW9LVXh5Z1NHaU45dnNfT3lsRXlBOGxKRVVjRDZnTVcxd0hpc2VmZTRRY2tsQ2tmazVYZkZUOHZtOTRLdnpYZ2JJQ1BTSDRXLUZmdlU5T3hfVE5KS1NHaTNmOUJJbURJWDdQalEybzIwYk12aUVISnRmZXhfRHFiMVpVbDFMdVFsbU5WdE9wazBXV2lfZGo2S0tiajA1U0R0cS0yTkxLQURyLVNTOFhBY2Q3bEszNXBoQ2dNVGt5T0ktSWhnb2YtYTR5cFFtOVZZQ2N6SlFBdS1mbEpUZVlvLVBEVXE1RnA3ektLRU5EWDdGTFplemdhZkNMM3dCRUZOajJsMHQ1cEh3RWRNemRJc2RGMmpzMHo4dFRHcjVWRlNRcllUUHdwUndQcERjSUQ4Y3MyRG5PazJvMTJQd0ZMdGN0TGNyTzRQb09JU1JyTzZDcF82WkFHT0VaWHJjZXo3bFk5ODYxdEVoZUFZVllKeXN3bGVhZGM4NTR0SFNkbGpEd3RkZ0dKVXZaR1E0MFZpNVlQYjNnVnNSbFVrbS1DcU9oamdiYlVuVkZTZEE2MmFZNXpUUmdZUUs5RUJqN2tDQVZxbUVKaGRSTkNDRW9iX0JRNW5ibzU2RjFodHRQYlFpSUZjbXlnZ3R0cjNvZUNyRVU1RnliUVRQR0xaYTJTUXppaC1oZmZIUlEtTkh0VzlKb0dLdDgxM0hsUi1pcGpkZWpEbjBqNDRxZDhKZ210d2N2S3Z2SnUxQ0pNR0sxdkxOVTFZOW0wTFpvVXdLblBCVjJvUFhZQUVwbjNDWUZ2YkpqZWkxRFhnM2J1TWpZTEFrUDcxNWVvc2xoeTJia1UxbWgzUXhVMUowZHBIaC1tVEdPeE1vbm45d2pyTGJuN2FhRkZwTEtLbGgwRFlYOFdMVWxYcWhDQ0M1TkdzY0ppNkhqNFJxWVFsZ0ROb09fMjRLalY3aXlSMVpxTnpXZGNCR08zdU1FX1pVQ1hKMHQzVjd4TkFCdDFmbWtncWVoQ3V4Q3ozNGNFMjBLd2lxREhqdw?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 06:26:11 GMT",
+        "discovered": "2026-10-12T10:28:14.841595+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "أجواء الرياض خالية من الطائرات وإيران تبدي استعدادها للتوسط بين الحوثيين والسعودية dw.com",
+        "player": "رياض",
+        "content_hash": "00321564321ad1508ab8cdea62c385a65dc6724e71fa45d20ac7f26ffb0a3b14",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
         "id": 11102,
         "title": "تراجع استهلاك الكحول والمخدرات بين المراهقين في البرتغال.. لكن من الأكثر عرضة للخطر؟ - Euronews.com",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ0pzUkE0QVhYN19hX19XeF8xSlhzanc1UzdyRGlQd3hRN2h2TVVMWENNU0d1Tlp6VzBzdTJoQVFMVnRlalYxTFYyakJMOEJfMnNZbWdaMzJMcmhtNmtBNVhDT1FFWnNWdjRqMk94SmVoSGl1R3JYNU5YandmQTUyQWJFUlo2eGxpbWZXaHBMNEdRVV9fUVpVVzA0Y0JidFIzNExUaVN6QUlyMXFtWndrRjBGN0UtVEl2amlLY200SWw4VWRWSkY3dA?oc=5",
@@ -2392,22 +2408,6 @@
         "summary": "ما خيارات السعودية للرد على قصف الحوثي لمطار الرياض؟",
         "player": "رياض",
         "content_hash": "322592de4799b86c444b2d91eab97f70a18c4f7d923b4447dc6ccfe38c90d528",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 10646,
-        "title": "مقتل 12 على الأقل وإصابة 309 في هجوم على مطار الرياض \"نسب للحوثيين\" ـ (فيديو) - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQQ1JSd3gzMjNPdGhlVGJDd0hjVTRNbUQ2QWdrbzF5OWgzSmxTRF9DNVdmNGFCQzc0RDRxWXZSSVA5YmtEZndVdkkxMjRRU3RkY3BiSjFsaW02TFhGNkFDT2pubzJYbnpQZVdGdExvVlJiVl8wa0NWZ0JTaUQyYTFtdG9sZHV0V2RxU1BDalFLTVl3ZXE0aldoS1A3RVJQMDc4VHNiaEFtYVRxaE1Bc1BxS0pyN2xEY2FOT0ozRGVFVkNqVmJXZzU4dWw4RjJhQlZWb29jdjlfNHk1TnY0bkFPN3JKLXZfTTUzZXBWSUk0MF9HYW14UDl1Z25CZmZETGhJVjBYNnRXVktZT29saGZJaFkwZHMwS2NsbVY2LTMzaVdZQnVERnZnWjhZc2dsalk?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 21:18:35 GMT",
-        "discovered": "2026-10-10T23:42:29.022006+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "مقتل 12 على الأقل وإصابة 309 في هجوم على مطار الرياض \"نسب للحوثيين\" ـ (فيديو) القدس العربي",
-        "player": "رياض",
-        "content_hash": "362ed4c3a4acb5b1935d8bfbf6c8de52cc3ca759df13f8691c28fc720beadc48",
         "sent": 0,
         "section": "world_arabic"
       }
