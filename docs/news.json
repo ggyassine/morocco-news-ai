@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T05:15:46.699714+00:00",
+  "updated": "2026-10-12T05:36:43.341225+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -325,6 +325,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 11108,
+        "title": "يوفنتوس يفلت من الخسارة أمام كالياري ويكتفي بالتعادل في الدوري - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQcG5sZHUwQ0NNS19YNGk2NkJPVUlhUkhsaFJRc0sxclR1YUQ4Szl2a0pRUDg1M2k1ZUZmM0wzVjVoT0t2el9wTm9nTG4wMjNXbVlOdmtsRU1fb28wZmZleEdFWjNZSVFnX1lramZFVzFOaGVaNlpZc3JPLVo3THlrNmgxYXVtSzVXNWtpNVZ5elpRRjlkUmw4VFFNVzFmbDlsdXRSMENVREtmSElDWTVXWmpHR19GTV9JR2tyaXQ5WjBQQUk1SXl0MDRUWjJzLTlxNE0wT1hLTXoxaFAzWU1JX3pzUFR2dVFZRG56aTFGNUVNbVY3RmlENks2QjdJaFhIZG8wcFZCallCaVlRQUUxNFh2dFJla3lBYm4ybno4dWxQM0pLNk15dWZWZGFpYlpoYV9nTnphYThtZm5TdFJHZVRUUHJ4YnM?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 04:06:10 GMT",
+        "discovered": "2026-10-12T05:36:37.641702+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "يوفنتوس يفلت من الخسارة أمام كالياري ويكتفي بالتعادل في الدوري القدس العربي",
+        "player": "",
+        "content_hash": "3acccf1e3f7edfaa0d79cde930ca50836ad53bd41e7b82688e1cc534e1cfa788",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11083,
         "title": "جدول مباريات اليوم - 12 أكتوبر 2026 - FilGoal",
@@ -1108,22 +1124,6 @@
         "content_hash": "30a6b92ee0c049cf0c543de39e2a7140817eb38e001ed07019846c75986f9d4f",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 10971,
-        "title": "أخبار و معلومات اللاعب سفيان بنجديدة مهاجم الأهلي المصري winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbkJKMEJMQnN6cHFCNzNxQUUwbXlzTjdhTUtFXzRrN3JZNkNVRW5WeFNSZjhKem5qdV8tcUJ5ZW9QWUMtTDB2NUh6V05aNFZ6WXoxSk43ZjBheW9KN1c0bzlGX2djeVNLd0Jyc19rR0hYTkY0UWdLdXdPQnJBSHA3eHFiQW85S0lDUW10Y0xRbFZmeUtYc29BVGZDX0lfc2lnbXNVSUtfTUVWNU9MQnh0aUJwUnhlNHR0NWxpQlNnX1p4aTBkaXpsS1Jsc1V5RzJYOVY3Ul9kMVpTQUhZRk8wLXJMMUkySTZJUGJUUElHcTQwd1lYOXBHOEtVeG8wWGphV0hTQnRmY0tlZ2hfUkZ1Vg?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 18:53:10 GMT",
-        "discovered": "2026-10-11T18:59:21.595943+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب سفيان بنجديدة مهاجم الأهلي المصري winwin winwin.com",
-        "player": "",
-        "content_hash": "e9c8cd40e0715f96879fdb6f8ecf9463e2ffcc81467205fb981571ab46742a1f",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1590,22 +1590,6 @@
         "content_hash": "bb31bbda5bc10450d414588240923e62765f3cc9f9c74f66f4cf2ef9ed0c99c9",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 10652,
-        "title": "عرض لا يرفض.. إبراهيم دياز يكتب الفصل الأخير مع ريال مدريد - winwin",
-        "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxQRi0zSFhDYlEyOHdXVGJOQ01wVWJFLW04SjI5WFNRNm0zLTVkcEJxTjJxQ1dqR21tTDl6RW5OV1gtUUVzdmY1WlczamRiWlBfUERSc1c5dUJNa2E1b0Zac244NzRreFJQLWdGMDVXT0t3ak00VU5OVVNWZWdoSW85NWpLLW5GMFZCcUtsN0xjU19SbFMyR3pISU5hSlIzeHN2T09zYkFYbDVVdDFERU1JVl82TFJ0T2EtbXp2ZTlVaURUWE96X2gwWVJiWmlNaVh4QURtZTFXcEY0NVdaMlZQTVFtbGEyazRDQlJia0hnVEw2NG1kdTdVVFJKajNEdUNQeFNqRnZDamhOeHJ5U3dhVGEyZDMzZjNnZVd2VmdDTUkxZUV0TjdzNWNsdEcxYzhYdzNQdEZvNFlPbXBRczdrZ3JfSS1mRGxVNFF0SzF0bm43dWdFSzNaU0diYVpRY0JLeV9CTWEwNnZJME5XY3pkX1RNc0FyS2JXVk5na21TUjhEMTluNmljWmZJbWZvczlxUnJLS2kydW5TSXhSTnRvNzhQQnRBNmt3cEZrQVpleElLN0NNMXB4MXFDZHR1TGxPb3BFaEYxMkJpT2dKN2lUS0dZZjJzLUY4REJKLXZmTjVHaEUtWC1ubmRvUVh5MnZ5dVE?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Sat, 10 Oct 2026 14:17:50 GMT",
-        "discovered": "2026-10-11T00:09:08.806110+00:00",
-        "category": "أخبار",
-        "status": "غير واضح",
-        "summary": "عرض لا يرفض.. إبراهيم دياز يكتب الفصل الأخير مع ريال مدريد winwin",
-        "player": "براهيم دياز",
-        "content_hash": "505da8daf9e57a55c3a2841219903eb5d0d139d2d975656c54bec3ae37aa91ff",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2056,6 +2040,22 @@
         "summary": "بعد استهداف مطار الرياض: ما خيارات السعودية لوقف هجمات الحوثيين؟",
         "player": "رياض",
         "content_hash": "5b53181fc7524d62eee50959daf2be34bce6de30206a81c5bc223f6c82c676df",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 11109,
+        "title": "تغطية خاصة لنتائج الانتخابات التمهيدية للحزب الإشتراكي - France 24",
+        "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxNeXFsTUhxc19Rbk9kV2U4OWhxdXhxbUZaRlFrTjRxUWIyOXZhM0ZWdFlzNnpOelA5RG55UnZYamxkV2lYcGMxMDRoSkZ2Q0hGa041SzI0cmk1ZVBESXhsSzA2Z2ZNOGZ1R3ZsQ0FyNU5NMmJDX21obGlVWDJHb2JHNWxOdGJiZ0UwNEpKc2FGaUIyNmJfSWd2Z1pVUjhWNUFvZWc3TG9QQWZfNF9oVHJocGdFTENIZjBrNXRMNnZ3S1d6S2lJVG5ZcTR6dDVXMk9kVnRwUHN6TUNCQ004QkVOLTZVbzFhcEo1QmRBNGFjYkNYc3VPSVVmbkNJeGpoQnFrTTNLUDRzZnNXa2dLd0h5OFdIR3Vfa3ZVOVVhYWFqM3phVld2TjBObjdTSVdUM2F6MWxCY2tPejQ3Y0VtbzhuTUNoM3lKRHhNWmNNT0JCMWdsNGZqV2lfb1Vla0JTUmRaclJtR3d3NGx6NXlRVG9TY0pkTF9oclhpME1KRnp5WWhKSlM4QjZRVE1valVGOFAtcUlfR2N6UktVQkJuTXhMOHJ3R3hvYkZER21NUVlpVHoyS2Y5MFJua19sVEpiUFg5dTRNT1Q2Q3JRaUhXWjZMcjBtWmRSQ0NGYnFZYWJOQjJ2R3JDY3Ywd25LTThJSTBVNjNvMTBsMG1RSGNmUVhV?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Sun, 11 Oct 2026 16:49:43 GMT",
+        "discovered": "2026-10-12T05:36:38.504560+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "تغطية خاصة لنتائج الانتخابات التمهيدية للحزب الإشتراكي France 24",
+        "player": "",
+        "content_hash": "853798d9252b64dde48e802a68d90e23faa2058c5d640f10edd1f7423c9eba30",
         "sent": 0,
         "section": "world_arabic"
       },
