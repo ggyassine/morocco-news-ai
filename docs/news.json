@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T17:53:37.386928+00:00",
+  "updated": "2026-10-12T18:04:19.735418+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -342,6 +342,22 @@
     ],
     "sports": [
       {
+        "id": 11264,
+        "title": "فيديوهات | هدف بيراميدز الأول ضد سيراميكا - مصطفى زيكو (الدوري المصري) - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0Z1hYRXJ0SjhUNF9YR052dFAweXdWdkdVZ2hNR3QyRzFJTEdzb2k2OXlRT2dYeEQ3YUVGMnh0dFgwT1N6RTRiN01za0Q?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 17:52:00 GMT",
+        "discovered": "2026-10-12T18:04:01.492268+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديوهات | هدف بيراميدز الأول ضد سيراميكا - مصطفى زيكو (الدوري المصري) FilGoal",
+        "player": "",
+        "content_hash": "3a9d75b10408113b28cc7e739a9c269b153adc6efc201a1e3c01bc5e202c4822",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 11258,
         "title": "مدرب القادسية: كان بإمكاننا إدارة المباراة بشكل أفضل... الأهم لم نخسر - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMimgVBVV95cUxOZTVjVVdKQjZzMl9JRlVNUW0zZmJrNFRoREREWDlWdVdIU3lJM3JPTGd1RzNvblRWaHpjcW5hN3lrQjdwQzJ1ekJEVzRCZVpxS2lyZ3pCTWduY0UyZWZqZUY4ZzZBazBfREkzUVktRWdSZmdSZXhUeVo3Q19qRjBhaldISHhzMmZsdVRZaWRUeFBBeDh4UUNwS1d1c040MG1OaVg4bVA0cVZQTnY1RV8xZWJBR1FHc0tOT3J6V3k0ZjVMbWxjaTZsdG5udU9nNHpiVTc0X0lQaHhuV2YxbGdGa0VWZzIzZ2FwQ1pLc2J2SnBPSkhzS0xiaE80TkF2ZElHaG5GRWlrSkRIMzBfd2FtM0JNOVpNYjFudGF0YUFZUGdzTHBIc1V1SHNuUkR1N1F2NHFaNHRuVkoxbi1UMHMwYTJJYlZkR1dsMVcwaUNhcFU4ZEw4R2ZWR1VtNUwtclBtMEtHQXFXcWJydm1fWnR2RXh3eHhrUHNibFBBMWFCMEctVzQ3a3FpMk5ObmdETnJpZlhGQmZZckdmNXNWdzM2Tk1wWURpeWZLZU5JVUtLY19ZLUI0VE9lTWluVDd0MWJ0WFdmSld2emhCSEFtZ0dpTGpWTi1xQWlFRmNGYk9zczZDanltaUJtajRJMnhtTms4UGhhQTVXeG5TUlpGNEVPRzN2LXpPUDY4aWRSX3F3bUd2TTJoRDVMak02anVBSnlzQ2xQcWZWYV9HRmY1c0Q3UmJWZ2pKQ1JLb1E5OXpsdW4xR0YzZDlIZld5bkJRelBDM25IaWVRQ05xLVhPM3Q5cVV3SGx1ME9iNkVDcnhfU2lPZDFSUHE4TWswZ3dEcXk4RENzbXZqcXBESUp1S1VrRzVaZHUwOXd2VWc?oc=5",
@@ -470,6 +486,22 @@
         "section": "sports"
       },
       {
+        "id": 11262,
+        "title": "خاص winwin.. مخرج مباراة القمة يرد على شكوى الزمالك - www.winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNVjA2UndDZTdGZWtXVm1oZnIwNFN4RUNRb2JSN3VFSFVtdUdGOXZhOVZwOGZJVG45eURTV3dTTUR4R3lRWTVZVnJ4YlpaMllMRjk3a25hLXItYUUzOEw0MzI1S1ZmdGFua2diWUgxUXRHa3gtQXZzNFFyMGFoUjdNeDRxYTJ4TVVpV1g2ZlcwbXQzSDg3al9SZlRjS3pzQ1pTc1h5eDU0c2phZ29nUDRqaWN4VnBZajFFenBSSkJBZU1qTmloNDNWYWVCeUVvaExoVy1KZFF6SlZvQ3ZHdHhfMnI5aDNpaXY3RWFsaU9BX0VpZE9mUkZhdHdYOXQxa2d3Um1aX1EzSXRWb0VSbVRiY0JyMUY3dHFXLTY0cUZOOFhuUTFYVVJSZnlUb3hObE00M3Q1dWxZM0I3alZCblFoN21oaklqN0F6TlRjbmRqVExfaG1tQWlCeFBsd2xDbGp4Tm1JTU5BZFpOMUhodk5tOXF6TjAwdEV2dVFXdUZKUVY4X2FlbVZ5ZTE4X29kMmEwcU1yeWxrbWptcmN4TnpHQ1JHNDQ?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 16:15:01 GMT",
+        "discovered": "2026-10-12T18:03:59.968110+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "خاص winwin.. مخرج مباراة القمة يرد على شكوى الزمالك www.winwin.com",
+        "player": "",
+        "content_hash": "ad7a649dc0a010c6752ea9d4f70448eb7c048b6d4899c312a7329059c8b97e05",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 11234,
         "title": "خاص winwin.. مخرج مباراة القمة يرد على شكوى الزمالك - winwin",
         "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPS2hXeWtZQkpNXzNpNkgwazZuVlBfcFd2ZnY3Nk51YnZXbnc2Q0ZZOHVtMktEVmdKSUtqaEtESWtoYjgyUnE3VjJHVGhwTjd2TENfZThFTXViZ25hanpxNDc2djlhbGEzT255VTNQYVlYbU10aEp1ZnlqZEphRXZRMDhrUnNYUHNfTENTamJkTUlkZTZ2aklzdHIzSTc4REtsN0dLUnN1dC03ak9XMnlFcGQxOEFsVnFuUF9iT254czhpRmtMZjRrY1NZWlpsWjVUaTN3N1VBOFRaSzM4ek1qYklVUkZvRVdja0s3ZkN1U2s3QlBQcE9paXVDeGxReU94d0xnc2NEUk00dktIQXp6OW5lMDJmTVdkNUpOazZ5WkNIVVo2dlVmOC1ZN1UtTzd6b0N0YkZEOEJjNmdQVVBaZ0tNeUQ5dWpLLUJBeDNKY29aS2F3OThyXzU0bGZVVTdPaTAtNWEwdnlLTzFja3pUOFBpWnVlQVlROXdyekoxc1dSS2MtSDd3UlhyRExKT1M3V3FJSElNb2o0NmxBRXdz?oc=5",
@@ -482,6 +514,22 @@
         "summary": "خاص winwin.. مخرج مباراة القمة يرد على شكوى الزمالك winwin",
         "player": "",
         "content_hash": "e17703ade52cdaefdc2b229b56868022729e71ec50a9f147a6e49697ae72364a",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11261,
+        "title": "كيف تحصل على تذاكر مباراة الوصل والأهلي؟ أسعار دوري أبطال آسيا للنخبة، تفاصيل المباراة، بيع التذاكر في اللحظات الأخيرة والمزيد - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi7AhBVV95cUxQdkUzb2tHSTZzMFhSUlBsVGlTaXFZdTA5eHlfLWtpQzQ1bUlZTF95OUQwbkkyY2pZWkF4ZUZNdkh2OEdfejA0NGY5MVVsenp2Sm55RTdFVTB2bUs4ZEhhYjV6dzhEcmRxeTM0NFFCM3pDdHZTdndacWZNVDFFVm4ycWRkaUZRLTlQRi1rMXVYTXZXQ21aVlREQW10bERLejJEeUQ3ZHpSSXREdmwwZzBybUxHVU9mS0s4Q2RKMzBLcTU3M1ktUm00aUdKbHZyUldtTG5VM1V5em1aczFDR0NCYll3a3NqSll1X1NWZ3ZjUTRNRm1WQTZnMnF6cnpHNG10RTZGa29KWVNWNTVYcllHaG0ybkN3UEhhNV9tYTg0SUVxcFNWbkYybVJLZGFUeFRSZEp0NU1ZZEk3UDBMZG9hYXRlVU0yNzlvcTJEbW9hYUUtOWJsZkRKd2cyMWJScjlGVlBSMWc5emZyeWEwVUZlbm13VVNzSXl3Uzl4VXM1bjF0Z3ZLbW9HRW1CQ0cwVWxSRXZidDNYTnQ4b1E5Qk5WMGsyRmw2QkMtRTN2b3VyenNlSnR5QWxNVENDRkFvS0lPYWdPLXltYmZJb1lkZ2pQTzVkZmNRNm1SUG1iUHBiRmNVT0FGTEFHbHl3SUhRVHBTR19WbDlGcGZMa1pBd29lUzluVmpfLVIydDVnbVFfcFg3bnR4b01QOEgzSGpjYV9oT0dLcXNFaUZiRnpSd1ZLdndyS200VkVJc1ktcUJMV09ROVhsU19Xc3JzSVp4N3FNQmpvZFlReDUyU3hMNUpXTEg4dW9YZXBVV2lpWFNORzRSaE42MXVTSnFLcjB2Q3VQOWFLZGl1OGQ0emp5eTV4VDB3bjA0ZlRoV2JKRDZzaG5yQnE1bVhwV0Q1ZkFYa1QyY1djaUxSbGdJdTRwV3oyakpaMmRmd0hrX09zQ1AzUGxUanM4VVlid0Y5UFhwaHZINVlEaFA5Xy1waXJwR0ZUUVRBbWgxc0I4dW5LUnJCSzh0T1cxNGtsNGZ3R1RlcEhjSmUtZ0pKVllhNTUtdEhDclo3LVN0bFp3dmNVOHV3Y1d6enVueFFSN0lyZnFOWEhQUXJ0SzF4cFhDUVM5S2dtTy10VEtzbTFjU0xuQ0pseWQtcUhrRWhZWmtqbnYwQ3VoaDlhZ1BZcVJMMmU5cE4xcHhEZnFoQlIxYjhPN01sQjZhNUVLR3VCSm9VTkttd1lZRnlXdVo0SF9LSjBjNHN5LW5KQnJiVWZ4UWdlWDFQWGxIdlVsMi1aNHVvZHF1UGpCaWVpQnN6Q3NuR2tBT28ta2ZfR0pSRFRZdEVkR2MzMmoxbS1WYTRJUXdVRWh5dG1Fd1BmQ1NELTJIdDk1dUNRNU5CbGVMZVR2WnlrcXppLVI2NFd3NTc4XzZOWTlLcF9IOUR4TlhJck5ZVzB4RDk0bnpiUFVNR2lObmRURkdWWU1GSS1YbkpwNWllWFA0azhyNWk0bk5PTVYxa29F?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 16:00:00 GMT",
+        "discovered": "2026-10-12T18:03:54.472181+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كيف تحصل على تذاكر مباراة الوصل والأهلي؟ أسعار دوري أبطال آسيا للنخبة، تفاصيل المباراة، بيع التذاكر في اللحظات الأخيرة والمزيد Kooora",
+        "player": "",
+        "content_hash": "4673b88d5b1b636cfd3eb8de4a4c6f4216f143ebd6df441f3e17cbf15c5fb19c",
         "sent": 0,
         "section": "sports"
       },
@@ -610,6 +658,22 @@
         "summary": "\"الحوثي\" تستهدف عصب الاقتصاد السعودي... العربي الجديد",
         "player": "",
         "content_hash": "10a25bdac413c73c840772a42be4b043ea7a96f9dd23482a5c77c30df2d29952",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11263,
+        "title": "\"بسبب إظهار الإساءات\".. الزمالك يتقدم بشكوى إلى الأعلى للإعلام ضد مخرج مباراة القمة - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi-gRBVV95cUxQWHh0VjVGNXhfZjhROEI2S3B3VDd0ZGM1V3k4NlFjUElQS1VHM3N4MGZFQV9TN3UxZTFBMnVBbVBwQVRLbDJmd0QtcV94cXBVc0VUZG1Idl9RQ3BtWUdCbnBhRjYtWk9XOXprVzdjbmQ2RjJKemdiVWpfNVlNVDhQZnBXZGh0MEZuNmZNcFBQZk9VR1FGN1dRRnF2MFRxUlpYalQxNnJJV3NwQUdqWTRSak1GVDl0ZmZ5Ylo0cFJ1TDNGNXRtd0J0aUs4dVdPNmU2cldOWUhQSEVkSVpzM3NKSlowc0hnU3UzcENwa2ROaUYzOEpEalc1TjVweUN2dS1YQk1GTlhHcERPcVVTYm5CZEszSUhmVFRrSzVYVnN2STV1ajluSG1nN1UteE1raV90dFlScUZhNVpqVVBXVjhDUlpIRFUyM1pxbV85dWhMSnRDRGs4bjY3aXVMdUFBZl9vX1Mta0gyWTZIdk5pZVIyZGdWWXRQN0NQbWpETlQzYVVZNDFuRXdtc1VSSTJEM1pVdzZ6QTdlN2syQWxpdmFXd1Q5U2tmR0tnLTBybENTYnlyTVFEc2RsS0lEcGNtQlMtdXFnWk4xd0pSbWdSVEFkR1pBTzVUQ3NxNXUtcVFMamNfZzNENU5xOUVTZ0wyY2pDbHlNN3Q0aWpROEUtTE5yUGc3Z0drOC0wQllmQUJzeHZhaDNyVzY4dmMtRnZFNEh1R0U5V0lqNGlsRFFyeV80MDBRaUhoYTFqOE8tTFpqdGh6UERvd1ZlY0NHb1RQdFRhWndjMEY5TXFUc09OLVpnQVRUM2pYWjlKLW9LRjdlZGF0NHIxNm9JTHp30gH_BEFVX3lxTE1vMzlINlRTSmhDRjZKMkgtazNXRTdraXRza3dHQ1F1b1U3VzZqaXpSMVEtM3V4WFhGLUxmVFVfTGdTTW55YTRTZDVYM25YQVdUcjJFTmVTYmtGZUFCcHBEZy1SWEx6S0xpaHEzUEFDN1pubmZnTlRvbDBnN2xJcTFoLVpoSTlWenl6M2trNFZmdWFvcnVpbF9CaDk3TFRCaXRidHdCdjNLNUtrZ3FIS3ZYaVJzUGVTbVN3UnBRSzdvXzZZMjF2VER0VThXOUpDRXJIdTRsTUNRNTFqcVhIWklPbUp5Rnlnc2pvNmFCTll1OFNXcmJ2UUhyRFNGd3JmOUtxR0J5UTFnclFZdjBLWUZodllqRUs3Ny1QZ0hZRTQ2LWNnVFR3Y1gtd0dzbFhQSmVVLWJNY3NwSjdOT192UnN4N29xQlZfNVFNNjh6YTIyWlhQNTJuQjU0cU90MHk4dlpYVmFTZk9UYmdTMFhiSW9HSzhMaU1lMzd1OTE2OFZqc1NGbnFBQ0hXdG1XOW8zdmlIN3dYQjFlYVNzdXJPOFdhWlZwQlRqNlZDaDNZazdwTnZLY3RQb1VJRXVCNVJuc0VlR3dublljZ2toeE5JdTNYaExWVFhIQ0JTWnVMdHNmUUpSNjRZSG9ZYnBESnAzWGZnTHluSlplWkM4TlM5RVJPTXZ3c2c3X2Rvb29pa3IydnVVR2t1bDBpZDdWWGNuVlMtRy02akp5RVZkdU1wRGhfZ2tVcDk5X3FJZE9Mb243ak9MbEltdzl3c3hHUm80M2JwbHAtcWFtWEdULTlMbnRlLWtRS2lSZUxBY1RNM0t5ZnZVYkVaandzNjlTbVlBUQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 14:46:00 GMT",
+        "discovered": "2026-10-12T18:04:01.489350+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "\"بسبب إظهار الإساءات\".. الزمالك يتقدم بشكوى إلى الأعلى للإعلام ضد مخرج مباراة القمة FilGoal",
+        "player": "",
+        "content_hash": "0a7cff73b6472a8fc310b0563489e219f46ad9f0e22302164e4e3b7126503dd5",
         "sent": 0,
         "section": "sports"
       },
@@ -1074,70 +1138,6 @@
         "summary": "مباراة بيراميدز ضد سيراميكا كليوباترا في الدوري المصري.. الموعد والقناة الناقلة يلاكورة",
         "player": "",
         "content_hash": "0eec85ad73720eae7da52c7abc066e4e3762daf7203de1b414f6bc9b5085d292",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11216,
-        "title": "تقرير: دوري أبطال أوروبا فرصة برناردو سيلفا لتجاوز وضعه الغريب في ريال مدريد - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSdFNGaUZqNnAxdlBlRXhsNklyemRTOWJFaW92R2NacHlRc1lYMWJ4eVNscDg3T3p3VC1JazlRT2RFR05ZMVVwTVJCaXBkMG1v0gHfBEFVX3lxTE5TUEU1MnJoWnlFNVY0M0RjTklPdFVvYV96SlM1S3c4WDR1OF8yX1VUaXhIVFpXbHRrZWZPaHk2SjVaNXJYN1RpR2l4NC1wcjBMVENBSHd2bmlCZHEyd1ZqbVpyTnN4UHlWcS16cGhCd0hCcG1MVVF4MFY4eFpGLUNsQ1ZWUTR4aFNwSDdCTGVzbGtLdFBEVzRjaGI0eE5ROHBqVGxuenNfdEMySUZoRkQ4X1hhLWdIQk1QNmtSZmNJVVF5YTRtN2tSWWhCNmhVTm14LXJ2czg0VHI0dW9HNDA4OGdvZGh4TjBTWDR5LWF4ZDk0X3RNaTlSVm1WSGJVclNtQ09vbmNUNzdLa013S25FVXZ1WHpKSG9ka3lYS0QzUTNoM1NITHFFc3V5ZlZxY2pHdTBVcENTNUhvRTdOMlp1WURmX0x4NGZMMjVib2hWb1RVLUNfc01ud1NPdFY3TjEyd0tqdmVnaTFkYXNLdjhBTi1leExvSjdpdFJuMjNLMFFJaTNUU00ySGJZLWlKbk94N2hBTWlRSjNUeXhVUF84Z2NhZmFxRTUtMWJQWW56d0ZnWW5rZVZtcHI5ZEktTmJKZnMzN21wbndHUGdQdGpSQmhHTjAxS0JmVVJqbnNBNGxhZ2NMRlFCbm1ObmZFSlktTDBqbTlXdGotNl9IOVVfeDc0WldpZHo0cTlHeFl2dXc0MHM0TzQtbDVtaXdkbTJSMGpQVEtfSmk4T0R4VFJHX3ZwblVmd3NTcjRGT2lCWDhRVVA5TllhemFsOVYySi1zcFdWQnZWVGExX2g5VGM?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 08:47:00 GMT",
-        "discovered": "2026-10-12T15:25:14.453885+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تقرير: دوري أبطال أوروبا فرصة برناردو سيلفا لتجاوز وضعه الغريب في ريال مدريد FilGoal",
-        "player": "",
-        "content_hash": "c6cbbdcc5ed3c7e2245b376090d0d39c5fab0c3197d0ca87bcd5f02efa92a243",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11245,
-        "title": "جدل تحكيمي في القمة.. هل استحق الزمالك ركلتي جزاء أمام الأهلي؟ - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxNa0JxZXVaazBxaEdKSTFXZXdFTDlNbFA1OE9hb2tRM0VOemd1MVJSYVlrekxzTUpzRnhyRGM2dkdQOW5mMlYxaHJwaVNkNXhHMUdocnAzY1FZRFJ2QWxYVktST1g0Qjh2Y1lSRUJ6T3dManVGY2JFU1c2blV0NnB4Ty1reGowSUZNd3VuNS1GenJvTFpod21rX0xaUktZRUhXejU2Q1JJSU5wTTFQdjBCOFFjai1LTzc1WUpTOWdBdng1c0daNmtGS1p0U2hXaG15eWNJUXBiY3pKRHBCU21mUlNFd2NrblJpWDFHWDRva2dRNTh6d0pISV85ZXBhT2Nua3Q3dFRiRC1YZlA5VnUtZ004WnFEU3RYU0x1elYtZjRMQ2xjblNOa0wtTXdVeDM4cVNWT2FSM3JFYmNJbDhIZkpTRVExeFNUVGpBRDYwM2dhRXRSaTB0a09QYTcyVFMxZFppRVZWazJyd2RiSWo1RFpobUxhaFIwLTgtSVpmaTVUSEtxNWNfUkNmZTZvdDIyREFTWWhIak1MS20xdXNhMGcxV0dIaUZUcWU0TDZfOVM3VndvdnBuREFsNnkwS2M1ck10U0FaVHBvYkw1S05OOXhSVzJyNG5XX2xKNWVsMkZsM28zazJ2d2hEa0tkMFBSd1JnMzlxQjdWcFRqeFVkUTBublU0dVlHOFNyWXlKV1N0bFhDbnYwZHN4UHhfbHM4VWRINkc4ZlRYdng5M0owN01IYzV2Y3VFS01YNGkxVVVzU3FZREprVEc3NTZ2bHNUSXl1VVB5SHg?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 08:45:51 GMT",
-        "discovered": "2026-10-12T17:14:58.324053+00:00",
-        "category": "أخبار",
-        "status": "غير واضح",
-        "summary": "جدل تحكيمي في القمة.. هل استحق الزمالك ركلتي جزاء أمام الأهلي؟",
-        "player": "حكيمي",
-        "content_hash": "864e8a309501c1824bec8b61eee0132b09eda52d8ecc64f6f9fc251a2063e51c",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11132,
-        "title": "إصابة قاسية وعودة معنوية.. الكعبي يخطف الأضواء قبل ديربي اليونان - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxNOU85VVhZQi1Lam1GUHFoZzZVOE9vMHJRWjBub1o5STZ5Mk5mdHFGekNQUU9qUF9YNUZac2hDMklyRWl4d2huMF9CdEZOT0ozY2xYdk1nclpLdl9TRHYwYUpvandMQUlxRmVOa05HVWFfcVYtOXI3aUllaHVGWlZlTTVrZEYxTkRpdmFidkRQN3FCQjlZSEN4T2o5NjgwNm5pMm1kSDFMM0lVXzlubXE5THZ4dm9CZV9WaGhtWmdPV1ZBTHgyWVBLUmJxanVKbWl1MUFpOVpINjg4MjdVYW1xeGhGWEpRWkVfWm42R0k1VnpQbklaa29PMWlRdkhMVS0zZ3J2dXczS0U2SDZNTmlYUmpMN3FlVXdjS3ZRYkZIOElrMi15RllDSmN0WnJqTlhKODJkd0JoTGNmNUZXX2xPOVkxdnltcTg4OHhjSFVIUTBhbXViTHBKTWVYOVlFejVqV0U2dlZQbWpjNFZUVXBiQ0M1enRMUVVOUHBkeUdBZHc2RERfWWtvV3RBcjNzbWR2eHg4S1YxdFR0RzNac2ZiVGdDb0drSThzbWd3OVJHamJWaHdubkl6NGt1ZmoyUW9HNTgySTJiV3lOQkpPMXhRd29OeGJZS0tCaG9NbnJrUFd4Tjl0cGhneGVzaXpfcjhSWDNzdllNS2xTOE9HZERHV1pSOTUyZDBKR0lnVkR3RGJoRGFOVllxQ1JIT0JLZ0NjVldnMVB1cG9BN29VWVVFTjFfbEM2ajUzZWRCdHdnODByTl9mMnV2Uk43V1cyTWJDY3pMbnFvYkFONnVhSzdVbTJLanllN1YtWDZHQnNGTXNUQi1uSTEw?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 08:04:02 GMT",
-        "discovered": "2026-10-12T08:42:43.307127+00:00",
-        "category": "أخبار",
-        "status": "غير واضح",
-        "summary": "إصابة قاسية وعودة معنوية.. الكعبي يخطف الأضواء قبل ديربي اليونان Kooora",
-        "player": "الكعبي",
-        "content_hash": "869e93f6323a16d0c38cd61da96edfcc3f11a2d8c768e1c8e36e09bc56b42479",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11140,
-        "title": "فرنسا: رشّ رافاييل غلوكسمان بالدقيق عقب فوزه في الانتخابات التمهيدية للاشتراكيين الديمقراطيين- (فيديو) - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQWXlFdzJLcTgwYl9PeTdhYzY3M2NHLTZkRVJLZnJSNUE4ZElfcTAwQm5jdm9xV2drYWd5RDZOVWlnb0wtMmhzTzBSLUdaSEJTc2FpUXlGOEVROVhXYjRIc1dYUVN3X3FkTXFZMGU4aE1aZlU1VW1EVi11R3BpLWdLQ3JHaC1NRFdHaW1hV0dZS3JKRVNUbDFGbnNpS3YybkZDdFhkOGlVb1pfUF85UVVlSkJPRjRDVWhidF9uWWI4SzY2TFlwOGNpVmdodTRUM0Z5VVp1NmpkWHVkdmRSUXBRUXhMNFVYS3hzNXZvZFhDT2cxTS1mNUYzRW9oRjlLSGIzRUFaVmVhQTJOT2xNcDhOYW1HT3p0VUN5ZGY1MUJVaVI2ZmREYmwyTF9LeG5mNWRrLUlodE80MF9odmI2R0hDYWJwemlZQQ?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 07:53:53 GMT",
-        "discovered": "2026-10-12T09:25:29.660858+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فرنسا: رشّ رافاييل غلوكسمان بالدقيق عقب فوزه في الانتخابات التمهيدية للاشتراكيين الديمقراطيين- (فيديو) القدس العربي",
-        "player": "",
-        "content_hash": "46f2fc5f5451f578982877e088d925536bdd5b67cde280251d9fb3d51a176eeb",
         "sent": 0,
         "section": "sports"
       }
@@ -1980,6 +1980,22 @@
         "section": "world_arabic"
       },
       {
+        "id": 11265,
+        "title": "نائب رئيس فلسطين: نتعهد بتقديم موعد الانتخابات حال توفرت الظروف - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQdHdtSVp2NVVud1p0SjZmQzFXOXNXSS05dWdxX083a0JwdjBuTnhVZXlZaU1URnh6UGlkbHZGRlNCdXdVYkw1c1B5ZWplNDVEN0dic1hZLTFSOFR5aEZDSm90SW9hWVJreVhQSTJPUmRGWGw4WmRlZDBDWFItVEhYc1l6MW9qbm9oT2RiTHY4aVJpZWpkbnFTLXVOLVJzSzZPeWVLaGFPdmtVNnhWOVZmVGtyRW95amV5Mi1BUkxJd3pwaHAzeWNPcm95MGRQT3lhdlpfaGg5bV9tcWUyRnVqbWg5WENrbk1yTVliN0dNVjQ0VHljelVkRTB0cGMyNVdzd2dsS2pNcmhXZHNZMDNCRno0TzV3VlFrTGxHRVRkam9EMHBsdEtYX1JpZmUzMDJzekRUeGdKWHFHbUVKdXFkS29HU2FiRms?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 17:09:04 GMT",
+        "discovered": "2026-10-12T18:04:13.784190+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "نائب رئيس فلسطين: نتعهد بتقديم موعد الانتخابات حال توفرت الظروف القدس العربي",
+        "player": "",
+        "content_hash": "5294f2c10e34edf02aae7639806824a4aaddebe47e53dd5fb31115c2c31f2d2f",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
         "id": 11209,
         "title": "أم سورية ومضيفة مصرية وأب فلسطيني ..قصص ضحايا مطار الرياض - BBC",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qUS1UaVRLQlJBdkZBcWw1OENKdzBVeGF3NXE1VmRaalFicVAwX0lEalg5T1U3V056U3YzeDdabmYxNFNjLTJVRkdsTXpwZVN5LTE1NmY2YlFPdXZ0Q2fSAWNBVV95cUxPQWR3N1RSZEtpU3BybndQN2pER1lJLW1ZVklOcXE1WFZGdmdkaV9UMWFDYWplWG9XNnhTVm1FdjZzZU1LVTVuaDB5TV9aZjVVU1ZHLXBNaXozSWxraWlVSlRnSlU?oc=5",
@@ -2392,22 +2408,6 @@
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
         "player": "رياض",
         "content_hash": "407fe1adb77943955958f1aca1b274e123ee49202c7a31c9b6d7f7361768b3d6",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 10844,
-        "title": "بولندا تشتبه في محاولة اغتيال رئيس الوزراء ووزير الدفاع - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQWHpHWmI4em5RUUk5MlBxandjOEFmVllTWlpNMWJDZmpKYWJKY1VPUlBVVm9OcFREcHBHbVpuaEVwbkpEZHAxV2lyaFkyYjlxQzJDQU83X1Vmdzd5MUhFcThjeVkwZUl6RFRFMjQ3VzQ2UVhoTWNKdU1wdkNmWWg0emVUWkdGSUJaWkdNTk5GZjFyRHJ6U21zNXRlc2NoZDA5ek14UHZPRERFU3NIZFR1OU5OZjNVZkk5MlBDM19tc2taMU4wSUI4eTQ3SEk3Y3Y0RnpFVGhRd0VXRGZFcnJZVGZTc3FjM1dBcVh2U0c3OFV6OVN2eXEyOHRrQmpYUXMwLWF4X0lfTHNKSU1CbGlLTk1VY014bWpneEZRYmdsSS1DYVFsanRrbm9nWWV1M1JWRGN0akNQaWZLWkstRTU3X0UyZ3VtM3M?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 12:53:27 GMT",
-        "discovered": "2026-10-11T13:10:00.587209+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "بولندا تشتبه في محاولة اغتيال رئيس الوزراء ووزير الدفاع القدس العربي",
-        "player": "",
-        "content_hash": "310a9a214f3b9e93d5f2c326e9a222312e8bf0404851c638a5614c1eca789a51",
         "sent": 0,
         "section": "world_arabic"
       }
