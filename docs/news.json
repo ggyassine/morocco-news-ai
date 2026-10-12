@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T21:13:54.245707+00:00",
+  "updated": "2026-10-12T21:32:20.158425+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -502,6 +502,22 @@
     ],
     "sports": [
       {
+        "id": 11392,
+        "title": "النصر ينشر احتفال لاعبيه بـ\"التحية العسكرية\".. ويعلق:\" دروع وطننا مدكم الله بتوفيقه\" - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON1Q4U3NfR1J3LWtUSG01UGp1Qm5xV0tfbm5PRkhFVl9qZExHck5wbnhVRTFDTl8yNmdnelpLWG1TMk5KMkcyX1FDd1NBVVRvV05sUTM0U0FXanVFczl2UWFrME5OYkdUQWJFM3Qzd1pwM0ViajdLUXF2V3VVZG1VeUpQVQ?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 21:26:56 GMT",
+        "discovered": "2026-10-12T21:32:19.686352+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "النصر ينشر احتفال لاعبيه بـ\"التحية العسكرية\".. ويعلق:\" دروع وطننا مدكم الله بتوفيقه\" CNN Arabic",
+        "player": "",
+        "content_hash": "575c9fc221a681e9a23de3511174466a5cef087e68235e98dcfaf94216b45633",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 11386,
         "title": "جدول مباريات اليوم الثلاثاء 13 أكتوبر 2026 .. القنوات الناقلة والمعلقين - Kooora",
         "url": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxNQTZyTHVON2ZPbWFKbFR0LU5kZFZ0ZWZXZlhYNU43VlFSTEdQWXVWOEFNLVFxNWd3MEp4WWd0Q0x5bG52Z1EzcWxnWEp4RS12VWk4cVBXbndzbDd1YjdhNUZkSUhaRFF4V2xiaHo2dEl1RUE3TUU3LVR5UldaYVhsTUJzZTVhLUJIQW43NFVQWXdHbGdMczFVRjVEallVT0x5QlVBNmV2dkhTbklKYnItTFB1aFZCSG5NVEp6MUVsTEMtcFY0c0lkbnVHRzdJc1VNdlhWZ3dNRS1fM1FvWXEyd1lJYVR5Ti10aHUtNGFQZ0xiSUZQM2VsNEFZZjRRYlFzdGZQM1lYZ18wc1k1c1NwME1hVC16enZMSGY0b1psT0lNQXJmTEZmVDU5SDhwVEtoT1l2X2MyYVFJMm1XS0hyTWlJa1VWTFRyTVBZZ0tDb0JiRFdmb2xGQVNqQnJOUWwzWWNxUU1mc1hnaXJnVTRFRVNlUXFkdGhDRWZMb05PVzVUNVBTZzZ6UUp6TF9ucjZ5WGJRRnU0d1VkN1o3bUNHWU1mNnVaRlJ3eFlXQnBfZXkzVFFBVjgtdkVieFFkWUJ4Tnlpa21Oc0FsSVhaYWNVZ0pZQ3FlWVhfWDZXak9SREhZQUM1ekNPZ2pJem9kZlcydHlCaEY0dlRHX3RpanRJSHdfWk1TRmwyeTJZRWlnR284Q0lBUThIU2UwTWN6ajVpU19WcEl5MmJzZjkzeG41eWZEOFJzU21HcVRlRUE2T3hUWV9aTjc5Q2xzUE5hbVJ0LVJMQ3VkVklCZGNPOEpUR3NRWmZqdE5NQlU4ODJ4ejRCdktJdVVZ?oc=5",
@@ -562,6 +578,22 @@
         "summary": "اتحاد الكرة: تعزيز الاستقرار داخل المنتخب.. وإحاطة المجلس بتفاصيل اجتماع أبو ريدة وحسام حسن FilGoal",
         "player": "",
         "content_hash": "76b84aa87e52b308a07d71e014fea8103afb3420d2c8f6666f311e9cc7adb676",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11391,
+        "title": "زيلينسكي: روسيا استهدفت ست منشآت للطاقة منذ إعلان ترامب عن وقف إطلاق النار - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QajZiU0xrZk00ZGhPYkhhb0JMcVZiWDh3NEJvSUxtdHNpUTR5ZlRSVXJMZHJjSjBxb3V6Y2VkbGJmUk9rWlAxMTNwWDN2M2FqT2xXSmJrSC1VVjdmaHc?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 19:52:41 GMT",
+        "discovered": "2026-10-12T21:32:17.908461+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "زيلينسكي: روسيا استهدفت ست منشآت للطاقة منذ إعلان ترامب عن وقف إطلاق النار BBC",
+        "player": "",
+        "content_hash": "b6f4132a58c1c9dc1ace975b088af81b91b555ca7737d686f83c67fe8899351a",
         "sent": 0,
         "section": "sports"
       },
@@ -1266,38 +1298,6 @@
         "summary": "هدف كل 67 دقيقة.. المغربي زبيري يتفوق على مبابي ولامين جمال الجزيرة نت",
         "player": "",
         "content_hash": "2c8f1cd0f2048fcf4603d3f1549a7a3c1a6152f2bd758fc2b47cb95fe20ecac0",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11208,
-        "title": "\"الحوثي\" تستهدف عصب الاقتصاد السعودي... فهل تنجح؟ - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQMnFpWkV0bHNKc0d4SEVTNVdyUGRTT2Q2TWRHdXNUVGdSeXFTRnhUMDViT1lpZ3R6YlhQVzdFLVUzdlYwaVV6R3BqYTc0M284Q2FLNGszVDNKT0tlc2kzOFU4RmJUeHNxbER6WXc4S09wVEFralByV1lJVWlLLUxmdEtzNVpRZ2hENUN4MEpMTkVrMFpZWDdEdlJiZHF5MXhKWmdTak5saEJ6SGpXaUo0VWUyZHlfVlVyUlA4UXozc1N3djZLSGlUU3JHeUxhZXRMeGI5LVZlYlhUb05IeUJCXzhHbmpORzZDbFNJNVhmSURqVFZMajBiZ05uNnVTVnZyaHhIRjc3cTVIanRiOGp2Z0tfVDZjd29oQnI4YjVtVWFkWkxPSXY0aTJpNHpuY1FvTms3M0xfT3F5NWtZYUZaeW1iQ3dvYmdJTC1ON0thREdOSGVPT3VCTER4LWZicmFhTDZXT01la2dWcG0xYXhfUmxQNk9LelZaMHfSAf8CQVVfeXFMTk5hWUVURzd4akwwMlMySEZMaVRKY2JwSkpPOHBzTVdsMFl0cDRzUW5EUE5yWnBUX2VXaGVzQXo3alIwY1A0bVdhOFdYNWlBUnlqdHVMUnJnUTRwbnV4SEdydVVrTzU4OUd3dVhabk9GNW9NaDY1bEk5NWxvbUhmcXFsam1lRFpJWUkzcEo1V1BxTm5sQUJod2xqYjhIOHh4SUFlVHpkeFU0NzB3a1VsdWdTMWx1akh1dTJTNmx4a0t1T1F6bFRWak1mT0llVW90d0NkYTlqTWFtd0VzSm16N1R6YlFLSE4xb2xCb2RpR1VRbnk3ZDZTck41aFVfd2lXT2FkS1lPaEFqQTdaR0VTa0pOS3RGVS1pOEFGb2VfZTFSai1UZzJWa2FNb2pzWEdLSXlxbHg3a1VBNEpCem8tV1RqaXRRT1dKd0F1a0FwbDVDUkgyZVRWQnZ3Q21KQXV6RV9OelpaN1lMVlliTlpkWEFWVklRR2ZGOFM0aWo2bmc?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Mon, 12 Oct 2026 14:47:10 GMT",
-        "discovered": "2026-10-12T15:05:03.518672+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "\"الحوثي\" تستهدف عصب الاقتصاد السعودي... العربي الجديد",
-        "player": "",
-        "content_hash": "10a25bdac413c73c840772a42be4b043ea7a96f9dd23482a5c77c30df2d29952",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11263,
-        "title": "\"بسبب إظهار الإساءات\".. الزمالك يتقدم بشكوى إلى الأعلى للإعلام ضد مخرج مباراة القمة - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi-gRBVV95cUxQWHh0VjVGNXhfZjhROEI2S3B3VDd0ZGM1V3k4NlFjUElQS1VHM3N4MGZFQV9TN3UxZTFBMnVBbVBwQVRLbDJmd0QtcV94cXBVc0VUZG1Idl9RQ3BtWUdCbnBhRjYtWk9XOXprVzdjbmQ2RjJKemdiVWpfNVlNVDhQZnBXZGh0MEZuNmZNcFBQZk9VR1FGN1dRRnF2MFRxUlpYalQxNnJJV3NwQUdqWTRSak1GVDl0ZmZ5Ylo0cFJ1TDNGNXRtd0J0aUs4dVdPNmU2cldOWUhQSEVkSVpzM3NKSlowc0hnU3UzcENwa2ROaUYzOEpEalc1TjVweUN2dS1YQk1GTlhHcERPcVVTYm5CZEszSUhmVFRrSzVYVnN2STV1ajluSG1nN1UteE1raV90dFlScUZhNVpqVVBXVjhDUlpIRFUyM1pxbV85dWhMSnRDRGs4bjY3aXVMdUFBZl9vX1Mta0gyWTZIdk5pZVIyZGdWWXRQN0NQbWpETlQzYVVZNDFuRXdtc1VSSTJEM1pVdzZ6QTdlN2syQWxpdmFXd1Q5U2tmR0tnLTBybENTYnlyTVFEc2RsS0lEcGNtQlMtdXFnWk4xd0pSbWdSVEFkR1pBTzVUQ3NxNXUtcVFMamNfZzNENU5xOUVTZ0wyY2pDbHlNN3Q0aWpROEUtTE5yUGc3Z0drOC0wQllmQUJzeHZhaDNyVzY4dmMtRnZFNEh1R0U5V0lqNGlsRFFyeV80MDBRaUhoYTFqOE8tTFpqdGh6UERvd1ZlY0NHb1RQdFRhWndjMEY5TXFUc09OLVpnQVRUM2pYWjlKLW9LRjdlZGF0NHIxNm9JTHp30gH_BEFVX3lxTE1vMzlINlRTSmhDRjZKMkgtazNXRTdraXRza3dHQ1F1b1U3VzZqaXpSMVEtM3V4WFhGLUxmVFVfTGdTTW55YTRTZDVYM25YQVdUcjJFTmVTYmtGZUFCcHBEZy1SWEx6S0xpaHEzUEFDN1pubmZnTlRvbDBnN2xJcTFoLVpoSTlWenl6M2trNFZmdWFvcnVpbF9CaDk3TFRCaXRidHdCdjNLNUtrZ3FIS3ZYaVJzUGVTbVN3UnBRSzdvXzZZMjF2VER0VThXOUpDRXJIdTRsTUNRNTFqcVhIWklPbUp5Rnlnc2pvNmFCTll1OFNXcmJ2UUhyRFNGd3JmOUtxR0J5UTFnclFZdjBLWUZodllqRUs3Ny1QZ0hZRTQ2LWNnVFR3Y1gtd0dzbFhQSmVVLWJNY3NwSjdOT192UnN4N29xQlZfNVFNNjh6YTIyWlhQNTJuQjU0cU90MHk4dlpYVmFTZk9UYmdTMFhiSW9HSzhMaU1lMzd1OTE2OFZqc1NGbnFBQ0hXdG1XOW8zdmlIN3dYQjFlYVNzdXJPOFdhWlZwQlRqNlZDaDNZazdwTnZLY3RQb1VJRXVCNVJuc0VlR3dublljZ2toeE5JdTNYaExWVFhIQ0JTWnVMdHNmUUpSNjRZSG9ZYnBESnAzWGZnTHluSlplWkM4TlM5RVJPTXZ3c2c3X2Rvb29pa3IydnVVR2t1bDBpZDdWWGNuVlMtRy02akp5RVZkdU1wRGhfZ2tVcDk5X3FJZE9Mb243ak9MbEltdzl3c3hHUm80M2JwbHAtcWFtWEdULTlMbnRlLWtRS2lSZUxBY1RNM0t5ZnZVYkVaandzNjlTbVlBUQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 14:46:00 GMT",
-        "discovered": "2026-10-12T18:04:01.489350+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "\"بسبب إظهار الإساءات\".. الزمالك يتقدم بشكوى إلى الأعلى للإعلام ضد مخرج مباراة القمة FilGoal",
-        "player": "",
-        "content_hash": "0a7cff73b6472a8fc310b0563489e219f46ad9f0e22302164e4e3b7126503dd5",
         "sent": 0,
         "section": "sports"
       }
