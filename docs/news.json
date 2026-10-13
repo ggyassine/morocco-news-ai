@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T23:45:33.594232+00:00",
+  "updated": "2026-10-13T00:00:26.728958+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -464,22 +464,6 @@
         "summary": "بـ53 ألف و364 مقاولة… المغاربة هما البرانيين اللولين لي عندهم بزاف د المقاولات فطاليان كود",
         "player": "",
         "content_hash": "66586b49db6b60ab8a9fff380084bb2962ba0d39ac0074336971cc9ea3620486",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 11371,
-        "title": "اليماني يدعو إلى إلغاء الضرائب على المحروقات واستئناف التكرير بمصفاة المحمدية – اليوم 24 - اليوم 24",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5yeUxneDVYTG5OZERodzRoMmhmd1NOR3U5NjZpVFNCcDRWM0pYQk5nT0tiUFU4REp2cUFOR1lzYVUzeURLWGg0enF3?oc=5",
-        "source": "اليوم24",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 20:08:32 GMT",
-        "discovered": "2026-10-12T20:39:11.386369+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "اليماني يدعو إلى إلغاء الضرائب على المحروقات واستئناف التكرير بمصفاة المحمدية – اليوم 24 اليوم 24",
-        "player": "المحمدي",
-        "content_hash": "0e78bc033666fe75838c5ff87969007700996328a7585992a86ffb19d41848ab",
         "sent": 0,
         "section": "morocco"
       }
@@ -1304,6 +1288,22 @@
         "section": "transfers"
       },
       {
+        "id": 11427,
+        "title": "قائمة منتخب الناشئين - أمير أبو العز وصفوت ضمن 23 لاعبا لخوض كأس الخليج - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQRzE0aEc5dzNaUW5LWnZZQmZ6Smp5dmh6OFFTQlA1Q3NOSElOazRON0w2WFdCMWIwSjY4azhGM3FXem1RYllnQnFaYlZ6d1hy0gGiBEFVX3lxTE9WS1VJZnJWdzduMm9seWJDU3hNWkRqU3pER1VNOXB0Y1MtS2FOOUd4MFdYSmNvTXpPY3VaOEpOdE9sSXBTanB4NEVzbDdFaVF6c29PU2wyeGpWbnVOT0ZoekFUbWkwRFFxQ0IxTk9ZVk4xNHh2ZGdKZVg0YnBoRVhNc1E2Y054UXBDOFVkTlJqU3NtVklvbDR2aXNfRnplSWd0XzQzRURlWjhHeWo4bkY0MnZMSHZrSWhoVEpjR3dLYThjRUpDVlpGZ0JqNTYxbk9jcEVCMExxaVMwQmtWUE5XWjRaQ2ZSTHUyYXItZzVtM1ltRFp4LTdnRWIzRlloSXBqQ1p0ZVdlTHlZQlFOUmx0R0ZodlNmQnVFMmEtNUhkWElkM3lHblVDdVJqYnRzcHFieXV5aFNwRXdFTjBJeEFCeTFDS2tPQWNPelRpRVJ3N2RtVFRBWmJZYmNVU0wwSWxrS0hxOW1Bc2dWaUNFa1RnM1VHMzdDN3A1bThVdGo1RFFPa0RsSy1kMWVXTHRwMXhqT1NjSVh5M05ONkFMWUZGSVJEYndtcUNWVzBTOEJQYWluaXhCSGxCaktLNFIwZGk3bndyNURYT1VKelFacXRWZS01UW50QnRQZkZweXFmcDBOekM2X0lSN1lzX1JlWmJWWHNfZGVJY2xFaEJDdkpHTFluTzNGRnZWclVyWkpHOTdlYmN6TGlHSWFYbFJSZ3FtZw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 19:33:00 GMT",
+        "discovered": "2026-10-13T00:00:09.596266+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "قائمة منتخب الناشئين - أمير أبو العز وصفوت ضمن 23 لاعبا لخوض كأس الخليج FilGoal",
+        "player": "",
+        "content_hash": "1420466d2034a2d514ab93ec8aae5f0a55f22898e07497c4c1172d57dc05f935",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 11372,
         "title": "مجلس النواب يعقد الثلاثاء جلسة لانتخاب رئيسه الجديد وسط أنباء عن ترشيح التويزي – اليوم 24 - اليوم 24",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE91Zk96U1ltT2lWbFRFcXJOYzg4RDlhTWtJa1EzR0xxdTRJVUVsUGZxMzRwTjYwNFRrWENDNUlIZ0VpSURhU0hGa3ZB?oc=5",
@@ -1652,22 +1652,6 @@
         "summary": "وسيط المملكة يدعو من طنجة إلى تعميق وتجديد السردية الوطنية لتعزيز الانتماء الوطني والثقافي لدى الشباب Le 360 Arabe",
         "player": "",
         "content_hash": "723d825f946ab34adac552bf4aae3c5ffd01bfb82f2306b51d9874934a8ac046",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 11042,
-        "title": "إعلام إسرائيلي: نتنياهو يعقد مشاورات أمنية سرية بشأن إيران - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQRF8wQ0hocTRMUVlrVVpqdEI4a2xCTkpldGFINnBfbkd1NklTNGkyX05rQTNkcktENjRwaEk2Z3NPY0doRHhjSTI0c1NfRmM5cUE4QVNBYmRuWER3Q282NVZGRzhNeGl4c2JqbUhvS0Q5cTlrX3lmVllfVnh5UHRHRl9tXzZCcHVyaE15Wm90czhSTzk4RGxscU15anJUcjhNemQtaGpDRHpyS0N6NjQybzJpaUFWSjFhZ2xNSTBWMVpnVElfSDlSUlZzRGZSZExYdHpQTFJLSi1CRjM0MV9sTGJQZlV0MUlDMVFadU84TnVqTmsxSjlGWG5Da3RUWE90QVBiOU9xb2VwdmQ5T1FxaFczWXRXRnFBeTJWNEF6bnljcVpJMzZ4cUFPT3FXMnE3UDB3VmhwdGRoN1pYMnFwQXMzbnk2dnRGZXZ2V0w4Q0pma0nSAdgCQVVfeXFMUGtMU0NPYXdYRDFPVjNzRzdldXVNdHlyckxMUEY0UG5RM240ZE5jZUQ1SXlMRTVtbHlvUVZfc09hLWNmNlAwYnNIZExteGNWRjdpNnZqd19HUnVMOFgzdktaLUpkSlBiYjhtRlBGcDZQQl9zdk85VU5lNzI0azJEdDV2dnBwNFZJTG9kUlF5U1lDd0lDTzhDTXdlNzZUZ1VlbXp3SkZyeHBXNFRBcFdEZUl1ekhlYUNnSmM3Tno3NG5DeTlVMVFKOFNpMDg2eU9uNVBINktramxpZ3BteDFYWTVZSmh6b0lJcV9UX29lYWFjLUs1dXNHRUdoOXQ5QkhMZXo3cGZnQ2twTXRuSFhiYzZzMHdkeld5U1UyV0trV19IVFVTMlZHUGhncUFQOGpRQy1PWDBaSTJuYVQ5ekZGQXpfSEFRVnNBUXU0bzFJUTZjUHNLNXF6YXU?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Sun, 11 Oct 2026 20:00:27 GMT",
-        "discovered": "2026-10-11T21:52:52.359116+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "إعلام إسرائيلي: نتنياهو يعقد مشاورات أمنية سرية بشأن إيران الجزيرة نت",
-        "player": "",
-        "content_hash": "7ddaaae42eb4ad4db4107faef91c35651cf82322a4288504721be2f2724c3293",
         "sent": 0,
         "section": "transfers"
       }
@@ -2043,6 +2027,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 11428,
+        "title": "الممثلة الأممية المعنية بالعنف ضد الأطفال لـ\"القدس العربي\": لا أستطيع الصمت أمام ما يتعرض له أطفال فلسطين - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOU1BBNWxnTWQwTHozdl9vZ3NKbE9hV1B6bmRQSklEckVNcmQ1ZEhHZk1pempFNWhNY2pZR3ZwWXpMYzVfUlpmUnFJY0kzSXlaemxKRmFZSzFFMXZJZGV5Nm5EblNaMkVaekQ5U25mam9MdVhnb0k3cnRJMlpEdjh3QnZnYkxUR1l2RnNxd2x4YTItYzJPaVJFTkZyX1VfYlBSQ1VZdldaai1NOWJXdDlIV2ZrTDgwSXJNdU15SFNoMEhjMGNpMHJkdDYxNi1uTHpLdm5IZzFNQXo2b1gzY1hoVV83YW15eGlzSDB0NGRSeFlad2RRTGQ3RzV1ZUtVZFJFa2pfc1NZeS1hNHZsUUJFeEQ3SFoydHk2N21FeEVfU3RNVGxQMUJudW5SR3JkUzRqcTFfYlR0bk5zdmx0ekdKQlRjZ1MxZw?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 22:50:28 GMT",
+        "discovered": "2026-10-13T00:00:20.829263+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "الممثلة الأممية المعنية بالعنف ضد الأطفال لـ\"القدس العربي\": لا أستطيع الصمت أمام ما يتعرض له أطفال فلسطين القدس العربي",
+        "player": "",
+        "content_hash": "693d04b9b4e59924dc2a24e934ef245174439e497dabb874ecf8be2d8bce3a31",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 11382,
         "title": "ما تأثيرات ذكرى غزوة أكتوبر على الانتخابات الإسرائيلية؟ | د. مثنى عبدالله - القدس العربي",
