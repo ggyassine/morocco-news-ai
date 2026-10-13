@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T05:54:31.499509+00:00",
+  "updated": "2026-10-13T06:10:10.736367+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -437,6 +437,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 11476,
+        "title": "مباراة إيوب سبور ضد جوزتيبي : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNWWpSMVYzOWdYTlVsdUtDOGp2em9Qek9aRFFYRFNwRUlKV2MycnlvcG1kbE5XbE1YSWlyZEhDaklVcmNNS1J3Y1JLS29JOG9GeExYUGhSQXpINE85bGg1X0pRR0pBLXQ0bnVuZnF4WW5UYTkxRmRjUlJhME5hcUVUM1lzYlNDUlJDeGdxaGlzVDl0WjJjTmFCQXhvRjc4V0xOeUNxV2VjdWd5RUZHWG13amhIX3BFSld1VVIzSUxDMWZNV2wxY1MzRWFxZUppNzdfdTJrX0FWRTUyRGJNbGFuSjZWS0Y1Zm9yR2RuSlQ3a0dxNFdiZEgzZzVYRnczM1l4Y2pHTXR4NzRES0Y3bkIyQ0JyWnRXdENYWmg0aG53RVFlRUVMUjl2di1KTmlPOWc4ZkFXLTFyRktZQQ?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 05:05:44 GMT",
+        "discovered": "2026-10-13T06:09:52.076368+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباراة إيوب سبور ضد جوزتيبي : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin winwin.com",
+        "player": "",
+        "content_hash": "727d3e0539c1552f19bc659819bbf01391ec74fce5c76f2134e313b8918172d9",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11457,
         "title": "مباراة بني ياس ضد شباب الأهلى دبي : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin - winwin.com",
@@ -1213,22 +1229,6 @@
         "trust": "C",
         "published": "Mon, 12 Oct 2026 18:17:00 GMT",
         "discovered": "2026-10-12T18:51:13.527162+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديوهات | هدف بيراميدز الثاني ضد سيراميكا - أحمد نذير (الدوري المصري) FilGoal",
-        "player": "",
-        "content_hash": "d981208cb06cac1b5583c2809750c7803371ab36b43be4919bbeae54da345d7d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11273,
-        "title": "فيديوهات | هدف بيراميدز الثاني ضد سيراميكا - أحمد نذير (الدوري المصري) - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQcTltVXFqejc1Z25yNi1HMGw2X1FtbWZRNVBDRzQ2TWVnVzJ2MmxlbmdxRlFnYXFqV3MtYlFndlN5QVl4Zk9UVzhkZGFiV0JKLS16Zy0zMEJxbF8zVkZ4bkNCbXlURmg0QUMxYmMtaTBVMnU3N2VjamQ2T0lCT2xPY3JWaWRvalFpZ2d5aWlmQ3ktZDdkSmRKQjlyeEdQSklZcFJ1S3FSdGdyVHEzR3VndG1ucWdmMGZFa3g5ZEhCRW9PbTNNMXJwM3ctZ05oMVBTbHpqeGM3ZlU3Zkx5Z05rcTJ0RWpXZFBXV29IVTVwZ0xLeXUzWXQwZWljaFE3c0hUckVDTjRCYlV4MHZnMFJ6S1I4LWlwYkZxLWwxLWVaQWFfZGdJb3JuVlpDUzl5R1IyWUt0al9jWEJ5Tzdtd19IeEtvaF9SRW9BQlo2V3FielQtVnc0bEREZGxVNGdDZHE4dkYtREVrTWJ6cGpxNTVTMFkzamVhWW1SbXdTSURMUDlMZURSSjZ6N0NvdEpHV1NMSkZ0ZEtOZzJraE1ialVzWk44MXlIcUZOU3BDNEg3OHRWaFFpckpPTDc5Um92U2tXVWlzUHNQVmUzcklkZE90Sw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 18:17:00 GMT",
-        "discovered": "2026-10-12T18:27:54.553779+00:00",
         "category": "الرياضة",
         "status": "غير واضح",
         "summary": "فيديوهات | هدف بيراميدز الثاني ضد سيراميكا - أحمد نذير (الدوري المصري) FilGoal",
