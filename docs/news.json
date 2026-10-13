@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T11:50:13.772678+00:00",
+  "updated": "2026-10-13T12:06:34.103224+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -518,6 +518,22 @@
     ],
     "sports": [
       {
+        "id": 11554,
+        "title": "فيديو. كأس آسيا المفتوحة للصقارة في كازاخستان يبرز تراث الصيد العريق - Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmZvOUhhckRBUm5HREVnc1o5b0x6SzhEdDFPOUFJUXl2aEdXdGwxZjRXZkVoQUF6dzB4eWg1eWlMT1NNSkVETTdDeGt3UXpqOFpuRGw0c09heWEzU1VZTkp5SnhaSTJyTUZVMUMxYUlpVlRoVnc0UkNlX0FFR0dIUnpWNjBzYW40c3lsdTQ5dWpJVTl3MGZoOUlPejR1TDVGbnd6UXdnekRBM0N6NXJ0VGduVTBYSG5KWmFfQXl3?oc=5",
+        "source": "يورونيوز عربي",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 11:47:02 GMT",
+        "discovered": "2026-10-13T12:06:31.244524+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كأس آسيا المفتوحة للصقارة في كازاخستان يبرز تراث الصيد العريق Euronews.com",
+        "player": "",
+        "content_hash": "a0f612e99766b80b78418c30c97c85715097361df56eced68f0593191ac581d6",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 11533,
         "title": "بطولة كأس السوبر المصري | كرة يد - رجال - 2027/2026 - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQM0tNU1BfQU5hOWhRX0pOa1pBTzJDX1NCOUltanV2X2ZKdTNjX2xacHozbHBqY0ZsVGIwM05PTEpHcTVhTlRudWpHcWtpQmE4UURJMGVpeG1aMGd4QzVURTIyT0szc0N2dG9LNklZR2xKMUtuSTlBWlpxTDBQbXgxc0lvdzdRV2RQcVRfenBoU3N0QURTbXFua3YtLTlWcVpBTzRHajBJVEY3dHV6T29IS1ZENWFZcV9iNmdqTnl2TE85SkVqQVZ1MGVqU3E2cFFxYzM4YW9DMXBmbzNMZGJMY3p0Y1c4ZW1FY1FFS1ljdWtBQk9DRVlOUDg5SlV6a0ZFSEVHTGhLdW5HdjJmdjczZ2NBZXF2ZEtlekhodg?oc=5",
@@ -562,6 +578,22 @@
         "summary": "لا أعرفه: لاعب جالطة سراي يستهزئ بنجم برشلونة Kooora",
         "player": "",
         "content_hash": "aacff115df3ba94d1fb574fe0253b36f5e59f38e94e19843dbdb332af0b22843",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11552,
+        "title": "بن سليّم: أفريقيا قد تحذو حذو الشرق الأوسط في مجال رياضة السيارات - جريدة البلاد",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tZ0NIYjdBVXAwRHZQLVFWdzV0SW9kRXBNWW1Yd3I3WW9GZU9aQ0puTTBicGRKdExrc3dlc09OelByM3RHRFlodVBqaWk0eXkwSGVyNEozbnRnc0RvXzB1cGZ4UzQ4b0RYa0E3MEppWQ?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 10:06:45 GMT",
+        "discovered": "2026-10-13T12:06:11.923400+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بن سليّم: أفريقيا قد تحذو حذو الشرق الأوسط في مجال رياضة السيارات جريدة البلاد",
+        "player": "رياض",
+        "content_hash": "79b081c51ac95570d5ceb0383b2028252ef80e776e6071cdc1d216ae1c2d8c90",
         "sent": 0,
         "section": "sports"
       },
@@ -1282,38 +1314,6 @@
         "summary": "سموحة يزيد أوجاع غزل المحلة بانتصار بهدف بادجي FilGoal",
         "player": "",
         "content_hash": "b9c01a6f9378d79944669d42054a27528ab3d0deb64726b36bf37531378454af",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11356,
-        "title": "هدف سموحة أمام غزل المحلة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPd1BQQnNQWmd6cDBJRmtHVTJtc05Td0x4QmpHdU1oLUl5aF8yX2NwZ0JFWXZCWFhpc1FGS1JJTjRTdXM2MGlrRTliUnE4aW00YlpySzhSS2s1NVMxQUJfSU5mVzVHcmFQRndaZFVmUDkxMldDYnFLU2JDUlN0WGVHTlJqc1hrSXlsY0pXV0xxQnVqNmdqUkVJaDJ5WkVxMy1hQmdLZWpuaUZSVkg2akdndDA3dnpMVnhhM05RaWtPc2gzOFBMNnRLa2k1bGp3ZXNBM3NrUjltR0lWaDFNbFJhT3lJMnVpR0ZuOVFvMHRsWHJSQWlhNFZyN29HV1pTSEk?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 19:38:00 GMT",
-        "discovered": "2026-10-12T20:17:36.307121+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "f31aa78412f4183e3415b88188f6e6da59265711e712f373be5628f86cd2d2b6",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11344,
-        "title": "هدف سموحة أمام غزل المحلة - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPUTNndS14TUQwMDBleVR6bmxmLWtwMU9MbnNNT1psVlc5eVMzSElzRVd1bkU5SDE3ZmpCbC1ja2NiWVREQmNIZnFQdVZmWjBIZk81b2xmNlNGMUlaVWVqZkxLenJBV1BaUkNjMmxxV2pFU0JDcmYtNk8tcEY3WlhVRUZRRjFlOXdaVDI1RnhGRDRWaEs5NVFNa1R1c0M1ekJtaWhOQ2tiWG9TS0hfRWRidTMwaTZhUDVENzRXZHlVUjJGYXg5dHlsekdhMjFlaHlaX2JXRmhKLXdyNGhpbnFhZUdtWUUtcXZINy1aNDBWdGN2V1ljTFdKOXFBNnduTGxsMThkemRYc3JYLUhzYlFyTG1PN242RkRWYkRr?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 19:38:00 GMT",
-        "discovered": "2026-10-12T19:43:46.240499+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لم يتوفر ملخص مستقل في المصدر.",
-        "player": "",
-        "content_hash": "f31aa78412f4183e3415b88188f6e6da59265711e712f373be5628f86cd2d2b6",
         "sent": 0,
         "section": "sports"
       }
