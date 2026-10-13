@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T15:04:31.301397+00:00",
+  "updated": "2026-10-13T15:26:16.621377+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -16,6 +16,22 @@
         "summary": "غياب باولو سيرجيو عن تداريب الوداد يثير التساؤلات.. ومصدر يوضح لـ\"فبراير\" Febrayer",
         "player": "",
         "content_hash": "d7b9a80cac7c9edb3e636a106534f45d176bf22d02ef6113576fd1e968f366d1",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 11601,
+        "title": "ملك إسبانيا في سبتة ... اختبار جديد للعلاقات بين مدريد والرباط؟ - France 24",
+        "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxPRXZkNEQ2VGhUU21FNDdOMmV4VFgxQTBfUEVSM1A3R3pudl8yYVV3X1V2cGFFWFFTckFWdENoWm1CNHY0d2YwTGxCd3JheEpleXk0R0RoV3JnUy1Kc3ZMQ3ktYnEybUJrYXBjdHJSRkRoRzhsV3dhdVZGQlUxWHhhVzA0aEVJUTE5ZTdic0NtNm9DcEkxV2ZCM1Bxbm4xYUdwOVhvR2J4MXFVRERGeFJJODdFeldpcFRkREZNQjNvajJwU3pSbTBqT3pseGxxRUhua2VyZ1JtY1ZSTGdGdy1EZnk5bGJtX1B5cXY1T3h6ajhMTkE2NzdsanV4ZmtzaEliaXQzam5OX3c0TkV6bDlnZTZWZUhfS2p5aU5LekgteUZ0a3hyS3BNU0hRd2ZiOFVrM2I0VWVpbGhRNzg3VGxSTVducmZfRGJFLUNBczlhM0g0aEJYazdOYi02TGRRMElnUDQ2WXBOc2pzVWxNVWdPZVNPR3lHNzFlR20ya3BYSjdJeXhpOGlFUHV4SE1pZ284SmpwRmZBUENIeW1WMXBGM3ZLcEg3ak5YSWxnXzRjQjZoUEVHdkZCZlM4SHcwSlkwOE9nd3dJemJfQlB1RE81R1J4Ui1URGJCcjNsanExbGxIUmxlOTh4ZzU1R1JEY3AwTy1XUlNLVUw0NzVIXzFSUkdOR0lBczhtNy1LeFJR?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Tue, 13 Oct 2026 12:02:27 GMT",
+        "discovered": "2026-10-13T15:26:12.762618+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "ملك إسبانيا في سبتة ... اختبار جديد للعلاقات بين مدريد والرباط؟",
+        "player": "",
+        "content_hash": "fa51ec466f1593cd3436ea4e72b89190af87e8b87930f7903e7baf329cff522b",
         "sent": 0,
         "section": "morocco"
       },
@@ -578,25 +594,25 @@
         "content_hash": "8cbc0b025e558bbfc9caab2c4b098c2029f483fb2fa74a66c35af22dc085a2a4",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 11147,
-        "title": "مجلس النواب يحدد جلسة الثلاثاء لانتخاب رئيسه الجديد.. والتويزي الأوفر حظاً للمنصب - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94QTQ1aTQzOWVoWHBPTDZ4V2JIREE4bDhhLVBDam5waEhIOC1JM3BtSkp6SWFJYWFTM3VQcjdMWndteDhsaHVmZg?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 10:04:58 GMT",
-        "discovered": "2026-10-12T10:48:05.200880+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "مجلس النواب يحدد جلسة الثلاثاء لانتخاب رئيسه الجديد.. والتويزي الأوفر حظاً للمنصب Febrayer",
-        "player": "",
-        "content_hash": "62c7078660d50c9af29d9458f3f9234f7657584ce864c2d1273ee47643a890d4",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 11600,
+        "title": "بن سليم: استضافة رواندا للفورمولا1 خطوة استراتيجية لتطوير رياضة السيارات في إفريقيا - صحيفة الخليج",
+        "url": "https://news.google.com/rss/articles/CBMioAZBVV95cUxPa2ZEdUFmSGtoRmMyTE1KWTBqZTE4aG5neUh2QVZQTTZ4dVJNLUFaY01ld2hrMWZNTVY2RmJ4Tlc3RzlrOE5wWUdCZlNMSGZTTWVobGpoa0NTeThXdFI2bnZyUXJmeHdYOUFUQjZjQndrc3Z6ejJSTkN5bkJGNnk1cXpMVmVxVWpxWVlNaC04UXVuOHItbERrNndaSUxBeUptcEQ5YWZUY2dteVhKWmpLM1JReU1Vd21oTUU0a3dxbnQ1S0hrbF9YeFZaZUZGYlhQZUJEaGhCc2V2NHVncjhPMkNiN1FCQzVVYWRFejN0cFVFX3VsVHJ1WDBKYWJqbWs4U2d1SkJPVkZPaklkckRNRXhsMDRNeVFITUd1Ulo5WnpTd2VEQ0V0dzlfN3NwbjZOZW92ZkY5LUF4djlSMTVvdGdOQ3dEUm02V3dXUzBQMWVXaE1ySGI1bFRoR2NrZmdEaVdOWXE4cGZEQzZqZzJBT3FZM2FlS0I3bERWNFhCMWx0YkY5ZWVRdDlHQU5mVzZtVEFFUFRBR2xJYmZUYXBzNnBDZFFRRktFRGdBYzdlWVdVWHh4aDczSzAtZ25pcFR6dVhaTkQwWHpFelhQaG9wa29KdGhQX0F1U0xxMlpLd1haSTE1VWxDazBqOHdHNGtfMTBybmdNN2VwTnN1dWpPMVVYclRmV00wUkljRjJGU055eU1Ma2p6dkc3aFE3cENNb1l0RzFJREdPeXduVVdCeHVyc29tM2JOdHVwa3o4bFZzTjM2bmRJS2o2SGxwZEZEY3RsUkFKZFI5SDlVTnZtNjJMVXdzNUJlTFlMdWJQRHlLOVRMSEt5Z2JyaGEyVXBoMmQtTzl5eEQ5WURLS1QyUkNtOThMUDBKaE13enNDaWF3VlFXUVVNY0NZWExqSGNvMnZVTTZ5ajhqdW9nM2VEQmFJOU80ZHliUnVMYUJ3WS1GcFBEUjBSOUlNZXMxc1NvcEpGQ2pzZU9EdlRfdTJ4NUVIcTJLaGdKSUt6YWNQVUt3UWtJZkRoV3hVOGgyaEhIM0tfUm5rT3dKNHN0QWJPXw?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 15:20:32 GMT",
+        "discovered": "2026-10-13T15:25:59.626803+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بن سليم: استضافة رواندا للفورمولا1 خطوة استراتيجية لتطوير رياضة السيارات في إفريقيا صحيفة الخليج",
+        "player": "رياض",
+        "content_hash": "37ac6104e9a05b2e81ad21c06d5bde8a31ef199cebc5e628af89d9c057c5e38e",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11590,
         "title": "مديرية الرياضة والشباب بإدلب تطلق دورة تأهيلية لمدربي كرة القدم ‏ - سانا",
@@ -1378,22 +1394,6 @@
         "summary": "برمز التاج.. منتخب البرتغال يحتفي بتألق ترينكاو أمام الوصل Kooora",
         "player": "",
         "content_hash": "3f2cd3fb1864a934b78cfdfa856abb35a1c7ae7c4b821c27b8b07ccd393893f7",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11446,
-        "title": "احتجاج لاعبي حسنية أكادير على حكم المباراة بعد صافرة النهاية ❌️ - Elbotola",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zRVh6dU9MN3V5a1dXdUtVejdFaHd1WVlfaDFJZ2FEUUxMQUxRVXNiTGoxUDFQM1NZemQ1amxnaDRyX05UNl9nZDBoQ0lOSUptbkxvVHlVeDBlRWZqaWxERnpmQ0psckc5VHdjd041amg?oc=5",
-        "source": "البطولة",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 22:47:34 GMT",
-        "discovered": "2026-10-13T01:58:27.672970+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "احتجاج لاعبي حسنية أكادير على حكم المباراة بعد صافرة النهاية ❌️ Elbotola",
-        "player": "",
-        "content_hash": "2fd726c74536765078bfb8b2267251635c9c970e14472aa005362d48bac1e60e",
         "sent": 0,
         "section": "sports"
       }
