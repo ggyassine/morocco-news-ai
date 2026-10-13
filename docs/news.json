@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T22:17:13.401674+00:00",
+  "updated": "2026-10-13T22:48:28.431868+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -626,22 +626,6 @@
         "content_hash": "29dd40c259d99fb25feca4db779932c855a64db7d1366a1a29223dd81c5266b7",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 11338,
-        "title": "عاجل. توافقو عليه: التويزي من البراءة ف ملف “تبديد المال العام” لمرشح لرئاسة مجلس النواب - كود",
-        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNVVVtN1EzLVFFSnFqYjdJQlRNUG43NUpUU1FXRW8wLVhSRkJsM3RDaTVDUWtqZzlSM05Lc0k2NlFNcU9tOXZSSVptSUdKbmtRd2tSdzlycmFrNW5qTFg4VjBpRnlyX3Z2RTFZVFFFM21xWjQtZm1jNlI4WDdRaDRxRG0zV3FJOVFHQzZkWGRZSXFsZlNNbWFFQjdyRTBQek9JekFGd1VBeC1fRE8yWGh6Y0VGbkpFU3JzQzVMbTFaWkFYcThuYzFnT1JkakctQVF1ZEZ1QjBPQ09HRURVY2VrU2IwN2xGY3I0VHFLTFpHT0lfdFpXNlprRGlsY3l6WnFNUDA4cm5IajFaN00zSkJyMG5XRDVFRkJiY1hIVHk5RFA2MlNKNVBiVmtaeG9UQXRUVURJZWNnN3MzaWlFRU80bnBrZw?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 13:58:52 GMT",
-        "discovered": "2026-10-12T19:43:35.723304+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "توافقو عليه: التويزي من البراءة ف ملف “تبديد المال العام” لمرشح لرئاسة مجلس النواب كود",
-        "player": "",
-        "content_hash": "9a61dfcf5cea27e69e54aa59025d502b7c66b0583e60fdbaccca033bdbf52726",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -818,6 +802,22 @@
         "summary": "المتعة لا تتوقف.. برشلونة يسحق جالاتا سراي في دوري أبطال أوروبا يلاكورة",
         "player": "",
         "content_hash": "2b15d1ac9615a214f955c40a7d4bb27072de799adfac2836e2a7e5c69e4052d7",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11748,
+        "title": "لأسباب لوجستية.. تعديل مواعيد 3 مباريات في الدوري السعودي رسميًا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxOeUtRNlNwUVZEcWZMdFV4Rlh5NUx2ZkltdGZPUlR2RWpGZUlyb2xxNDBOazhxZUJaVmpfQ0VQTXB4eTFnam5aN1FRdFVSaUVydWZSazNDRTZGd2tLZERKYVZhMUp2dGcyUDFtanhpR2dYeHZjdlQ5X094T0oxeGYtS3dmUFBaUE5aWFpjTDRaSU92blNnTEo0eTZJTnFiY1ZoeTJpU25zM1BQMGxudjl4ZzdzVnBLaUlaUC1Hdkw5VDk0elJvdXh5dW1mOFVYdUE4WmN0MTJSSU1mdFV4TjRFVUtsLXRoWHE2LUw5SDBucEdSQmhxTHBiSmtKTUZheVYwLXZhenJNVjl6b0NaMHhtV2lCUjh1SFVQWmVoWmR2RlBWakpCajRoSjg1b1c5SGw4bm9iNlI0bktlWlZrc21TSFBQVnFxWW1QNzI1S3otS0Q0T2xxLTZnMS1QcjZnTnlmcmpMUXU4VVVtUFNjdUxDZXkzODR6d1ZEWWVSeURNUXdheGt6cEpxeVI1Z2lMYWVnT0diRVhlYzN4dTg0amdSSm50MTdOVnlCYzdpSzQ5RWMxNm0xX01QNnRwbW1RMWR5TkpMNjJzbS03bG9hUUdKRXdrVlJGOXlQOThmUWYyRmxwVmJiQ0xtX0RIWHE2bVFQVjlsUHhRLTRpVUYzSmNJMzRjRVU2Z3NOVzFOOWNVOXZRQ1kxQ1hpbTlmalkyRllUR2lXTEpUZGN3YmQwNWlIUVFLaUlTLVdkb3g2SWRlQdIBkARBVV95cUxNOFZSdmNVMnhuakQ1OTlPaEZfOTZjbU5jT2E2OFJ5RFRGaDlPbFBqTi1qZ3dCVTRwMEZEVGpaOVFhdHlhT3V5NEZ2Tl8xYVg2WDY1OGR0Qk5WbHloeFVTcmYxOWdaSXdZQ3dSVFo2UWlwTEsxWWY0RGp2bE9zTEZZM1JNd1dCSzd5N1ZIbmJlbHhTMEdGZVVNWURrUkNQaW1iMk84cXFwaklpNmFpamxfSU80T05KVFU2SmpJU1Zfb0RQWnhvbXN4WGRObHlRcjBzTmRqczRqZUtFNDRwXzhtcF9tLUNDTFAtb25WZHNKRWxSX1dhYnVkdmNZMUppaUJxZWh0YkotMjduRDFhQW1RclZfMm5zWm8xb3pLOVNoTWlDNGR2OUtwdUZUcE4wRW5JUHdTNVo2NTZDNXlaZ2JwVEMtaXBUM2tpYnRFaTFVXzRDb0VsLVA4cjE5M2hldTQwS1NEUEFyck5mNWVBUkVzVUU2RDlUTHNjcEdiX0h6d1BFaFc5RFRzbEYxU0JsTFc3c3NreDJMUXUtN3hORlpMTWxiekxxNDNzT1F3NWJ1cm1vVjQtQlhfNVRsSVVmV24tNUZicElaMEFkLUtSQVAyUldHN2ZrdERvcmdVTFM3UUVuR2FvN1M0alY1eUJnMkI1ZU1JcWZoeV85LVZzTjgtLXN1WVhUcFg2d2ctczBQMko?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 20:53:00 GMT",
+        "discovered": "2026-10-13T22:48:09.013510+00:00",
+        "category": "الرياضة",
+        "status": "رسمي",
+        "summary": "لأسباب لوجستية.. تعديل مواعيد 3 مباريات في الدوري السعودي رسميًا يلاكورة",
+        "player": "",
+        "content_hash": "964d8c4bda241275ac9f1ec40935e147ebd45fd0e49d412b82aad1ccddcde6b3",
         "sent": 0,
         "section": "sports"
       },
@@ -1254,6 +1254,22 @@
         "section": "sports"
       },
       {
+        "id": 11749,
+        "title": "دوري أبطال آسيا للنخبة - الهلال يثأر من السد القطري في عقر داره - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPMXBUcU5YMXZnRWwtWVM2c3JQOFp1dEwtX0Vnbno3WTRuMjlkUGd0a1h1TW9jRTdHSVV4Qjg3QWl2cXduc1VuVGllTkhwd0o3VXB5TmUwLVowQlFySDRTci03YktKdEZSWW5jSzBTZ3JoWFZ1VXNlNFQ5bE9VMzRzdDg5Vk1JbVVaazlZbGJlN0JDTnIteDk4ZjZhNGRHZVpjTnhvdVFxYS10VGVoT0ZBaDBZNGYwRmdoeFNhbEMxNVBYREpCWUE5dGVMOWRlNmlZRnB5Zk1lN2xfM0t3Rl9UbEFBM3A0MWZ5RDVkanl4elZOUzktQ2ZDWl9LTk1tOW8tbndOVTdlMzROT19LNVVlYzhWWVY0V3haXzdzN2ZZZ1JfVU5RU1ZuODVZNWZiYVhRNy1jb294cVpDQmdIaXBzWG44cG9ZUzgtZnIwekNVUDc3bFFEVWFXQnRnblNrRG9iRE1JQjM3Q0phTEVhbGNENlcxNW9RN2NoaDVyUVA0QVN3bEx0VndZdkNVYUd0UFcyMWN1MVNNYjdzNWprMTRnVENsMEhCZ3dpTHljWGJ4M1RncWIyTU1Kck9zVVRTSTNjMnNPNHhXN0lhQ3c1ZjFwQkpBRnlJM2V6eE16MV9VcHBwZ3J2bDU4M2NpV3dodWpn0gH2A0FVX3lxTE1tVVFtMkhSNDlNYm93azdJVHNVRVhuTFYzTlhHZFhnTTJ2ek5PektCTlNHTWdDcUhFOU4wVUhiVS1KcndWVkY5VGcwU2pZcnp5YnR6b2FfbnoyNllTTFJfdHZhQzBUNHJuUV8zY1dvalZiZ3JQVmxSbENRYzRjMEVuNU5TSnU2ZExxYk1zMWNvNmtfbm10aFdWRE1ITnlXT1lReEl5SVhUaXBxM3dFcURoZ3B1RkJ3VUFSOXRvbno1ejNlSzZGQjMwamYwZXJSM0puMEpLSmljckVTb2FqS3luTktWMkZPNnVqTkN1Y1JGeFdNMUkzLWtwdGI0S1RpcnlrRUhSa1FGOVdnRFBGYmJXY2g3dXd6UE41djNvSGRfM1FnNVB2cks0VVpzYS1ibzB6aWhtNjR0eFNQRTJMOXVLWmFnMVJDcWtKdEpMN1pFUjdzZjZaWWNBU0JCdkEtSmdvOEQwN0JZV2JxUVRpS2hvYnpBajZYdmxpcDRla25faXVPSkdwWk1DeU82MktHSjVhcG1QY0txQjRqWmhGRnBZMGJsVEMtX2tLOExDcGFQTDB4R0ZjTkpqWlpCcEtkQmdTVndyUjg4ZE5RS2pkd3lVUGxldjQtMzk1QjhXOE9vN3M5R3hzQ21DSVNEUmxvNWpzWVh6TGc?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 18:41:00 GMT",
+        "discovered": "2026-10-13T22:48:09.774565+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "دوري أبطال آسيا للنخبة - الهلال يثأر من السد القطري في عقر داره FilGoal",
+        "player": "",
+        "content_hash": "df8f8968fef5d60ff5cece502d04fde548f89792b9a4a32e1618bbbdcdbf553f",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 11663,
         "title": "حفل موسيقي في الملعب قبل بداية مباراة الجيش الرواندي والزمالك - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMiowRBVV95cUxPLUJ1bkJ6Q2ZSRUlSSDNUaFlIODh4U1dIQVVmU0NtY3UxTUQ2ZmJCRzBlSlpmVk1zeGYtMW03bmdKbG1ZanJQT2hZMmhKY18xVlQwRWY4ZUx2S0dsaF9iOWNCZW9HOFY2VUYyTVB1X1pjZGxVNEctX2J1UlBKMWRyQ2xjZHVkTkx2eTBxRFd2X3BZTEJSeTdoTzFERlFTam9QOUlzeXdlZ3gzSnlHZFI3LWt6My1CNHVPSjdybEhmaERJX0RqQ3dMcE5hQlRobWc0azc3V2N2V1ZZVzdkMEU3Skd0U196cV81V3hPYkhmOGwxR3lCdlBSejdoZkE2ZXVyUzlMY2JaendwVUUwaU1uRGprekpxWDBZMlJ6bnhGSTBYZHJ5UHdkRWlTaEtBUW5VeTNwZXUwMmtXbUhZeHYybUttcm1wZFk3X19yU0thR3ktZGU4OFJpenBlS2lCekUzc29zb25qZ3hIc3dhRDMxZHVfdkFUZFNjc05NdU4wbktHX2FGVktaczIxelJ3X3JqNHJPWlBwSmNUSjNoeXBGXzludXhzb3FTYnJUbmh6RlNlaDRNMDJIaGI1R1dDbW4zdjZJckRnQlBwVkR6d0dVczBmMnNJNWF1Wm50SWc5bm5yUlByR2JVOUNSREtDYkJabnBHcFE5RGYxSW1uVzBMNmF0X1JqWFVVdDV6V0MteHN0OFFHRThRMllmbkpOeWJpOC1Z0gGoBEFVX3lxTE80V1JzaGVEeVJGOUlzVi01cHZWZUVBYkhNVXBhcW81YXdVal8tVFQwYTI5TXd2UWYyMUhsU1NKbWJBQ09ENHh4d2JxQmY3TnJvNmQyclBMa3pGeEM1eXVpRmYwLVVDcDVhYkh1SGk0YWd6akkwd0ZGSlJRM0xoUWkyQUVpRnJxLTJENXBESHZWS3dsTkRpYlhMRTNjOENSLWFkeURtS0MwdTlGakJoUElDTVZKbmpsZjJZS2t3MXdQN2lCeUctaGJVOGlxM1VjR0xqT29jY2hKZWU2M3YzTV95QmpsOUNhTjVnNUJ2T3puenoyNk41eGpES0lqblkyUkZsdnY4THczZzAzRVBub192VHR1YU9FRUs3cWRhb1BZekRxZ1V1ZEpNWUZGNnA4cGh0aVcyWHAwOU96dW1wV2hqUU5QdTZFSXN5bXNnNld4UEtld1U0NGpYbnhoMDZOZlBEM3hqUU9HT2ROLWlsSWFORm1CVWNSdkpTUWdiX214Ni04REo4UlBGN21GSjJ1Z1JZb3JkcHZzcjlmb3YxVU5GeG5kT3NnczgyU1lvSU43ZkRYQXdBeG56S1VtZ3dlUGpQMnFqWTdiMkZ3V29tSUpjeXY5NGtrRXVqMThEUm5XLUxoNng4MVpGZFNvdEF5cVVTeVd3Zi03QjVILXZ0RDNTUEhta3V5Q2tHamhtRHJJb21YQmdlNS0ycTJDS2RZeTI2ZFhQQkZqYQ?oc=5",
@@ -1412,41 +1428,25 @@
         "content_hash": "8770c8c006e9548dd43c98222a6105a8e800269232d85d611dee0ce13bca29c9",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 11723,
-        "title": "مواعيد ونتائج مباريات بطولة أفريقيا للأندية لكرة اليد 2026/2026 - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQR0toWWdUT1BaY09qSC02MnJiUnRUY0k5c1dJVGhSVlA2aWJlUmcycnhWR0t3alU1d3lhYTVTOVUzRVRURDc4YndiNzk4RTdTVlV0ZWtlOWJiWnJTaWVLQUZscVZ6U2J2YnVadnYtbW9uQkwxeHVlNmRTTXc0TmFyeERuWk5SZmN1aXJBbmxCTGxuZWtaTGFpZWIycmh6Ri1VZl9GbzdjSkpzWEpKTmw1NWRzdnRMc0VMOGI4OVdsN1dfeF9ORTJuUnhUaGRkVWVCVF9ySjJ4blZReV80VEtpdVB3U0plRGhic3dNWGwxeWR1ck4wVUZoSGJveGluM3BNdlIwRDBZLUFZLXA0NVFyZTFEWk1TVHZTeTdGbjlfUUJVdmRvck95QUEzbTA5UFVqcHZ4S0NnS3dVbDdfR0xBVzNfS2RhQjdqajUwTzdPdkpmaV90VVVqQnpwNEFoSnR1LW1MWVlIZXJtR3RyTUhV?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 13 Oct 2026 17:45:07 GMT",
-        "discovered": "2026-10-13T21:25:25.342899+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مواعيد ونتائج مباريات بطولة أفريقيا للأندية لكرة اليد 2026/2026 يلاكورة",
-        "player": "",
-        "content_hash": "c1a1e173d011f27fea0e67d45f77347ff72bb7e4db96558ee5af21229dc0b499",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11738,
-        "title": "تقرير تركي: مدرب طرابزون يجري تبديلات أمام كوبس بسبب بشكتاش والنجيل الصناعي - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oT0paX1N1TlF5SzQzYm5nRDE4dmZUT2FPeWRyVW5fOEdlcmMyUUVNTFB4eWVudEFGSGlKbndsMnRrSlhmaHdnSjZfTFhFcDZQ0gHeBEFVX3lxTFBRSmowc2x3ZzE3blBsT1JDT0Q3Sjl2YUxKVjVsY1NZUTBoWTRqd3pLVktXeWxaVUJVNkRNR2ZiYUtoTkNGY1RHTXczcXQtTmV4YUdwSDdZN0dHRjFaaGJwTXAwVFd6bkVEMV9BUF9OS19nOEtmbDVsZ0hlblJYLWh2cld5MzVqU3VJNTJSbnBsdVFyektaWWdXNWNBWkJzSGU4Z2dsUTBMbEJKT21GbXZ4RzhYSG9hYUxJMldMS3c2VjhyZktwQlloRktQQnJna2ZoX28zb25STy1FMktCV0ZxZ3VoRnI0SWpIS0VkSGRvNS10UllOZ3pkYUpTcHR3VzIwLWZEOHpYYmxOdlEzY2NNOVdiNERpS25OdGxWbFdUYmEzeTBHc0NER3UtMEJiM0hGOUh3NGtTQXZrRTlnNmM2bmdjOHJ6QTdvazREZFg2R1Y5cm5lUkV2YlB0WjMwLU5neHZvZ0ZDeWlXS1U0ZklIN0t2Yk81WVhWMnVuZ0ZudDk3QzBxM3RLWlY0eDB3OF8ycU4tZjluVTJUUnlxaGpXY1o1LWRrQUNtX2p4Z29pNW9GMjdfUjJ3T0xoQm96SnpHN3dyM1h1ZDR3VFoySlNabGRJeW9wd2VFV19oN2tlZGhCWHhwUzlQcC1IeTJDZndOOGRwdWZsdXYyLWw4TzRnMUwxdnYtTS1vdHlsam9XaENXY3NEMGJqRFB4dG5RR1hxSURjM1BSM3lBcFJVOFJ3UVFoMlBtaDdUN3NDNDVxb0liaFRYeDFCNlZfZFB6NlU4YXhuTEF6Q0U5Sm1FUQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 13 Oct 2026 17:45:00 GMT",
-        "discovered": "2026-10-13T22:16:53.946286+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تقرير تركي: مدرب طرابزون يجري تبديلات أمام كوبس بسبب بشكتاش والنجيل الصناعي FilGoal",
-        "player": "",
-        "content_hash": "75e467ad869b348113c3e21c69ae40c94fba767018bdd493452b03e2d1505d77",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 11745,
+        "title": "أمام آرسنال.. جيرو يوقع على حدث نادر في تاريخ دوري الأبطال - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMiyARBVV95cUxQMVV2Q1puR0NpREdRRm9CUUdUalMtVlhROXN0S1BxR19Obi1pbXY5S2RIS25SWnNOTWxOb01vSFQyZmp2YUlKakhYSWdyRWFyLXpJZE1icEczMUFwM2YwT19VQ21mdFBfZTNPSjA3NnFlVTRQOGRsSEJZM3E4elVabDNDMXlmN0taNWZnSnp6YkoydElIQW82R0lVRkpxVmZRcDNQME5KenV6dE1HQnlwVTFQd2ZHUUhkWWR3MUU3emllZlVxT3VkUVJDSEY3QUtBQm51UkJKZWM5SUhub2hsZk04MHJjeTFRdTZFR2liYl9QVUE3RVU1ZUJWTHR3WWRnODQ5eHdVN0VSTjdaWGNyYS1LUkQzLWl0c2d5djRXQUowZDBvbld2X19BclI3NzlrS3JSVzRrdXRjQXJyTlBVRUw5YjBaZm9Oc1JOaW91WEkzY1RJdm1ZeFJJZFNRVE9OT1JkRXRsZ2FzSXpzTDFrM2tDXzQyaFpYUWlYWWtTc1R5NFpGMXBaeHZZdEZYV1d1WkdZZVVTay1GRHdtTkRHYzZSNkZ0dmVGOXRwREhxbHVWbTZrZ0xKMWFBZHlFUmw4LTlCOEZBOUFfS29qVUk5UktQa2hyTzJYRThidW40RjFnTmZiVGZpRi1MT1hVWFJsRTBtdDZyWjYwMzJvV2ZWSVlYc1VqdUpFOFpqWC05NG5td18tOUpNVHJXYnFYRzNPR25FeXR4bkt0TFhFLVNCaWw1bDlLM1c2WU44WlRrNnhRdS1rT3JqRA?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 22:30:21 GMT",
+        "discovered": "2026-10-13T22:48:02.413072+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "أمام آرسنال.. جيرو يوقع على حدث نادر في تاريخ دوري الأبطال Kooora",
+        "player": "",
+        "content_hash": "d392f537c2a37f58fac7e7b0816a38aad94691912b64bdf52158fae4b2435195",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 11703,
         "title": "استثمارات مونديال 2030 بالمغرب تستقطب اهتمام الشركات التركية - Febrayer",
@@ -1524,6 +1524,22 @@
         "summary": "بعيداً عن اللوز.. 4 أطعمة غنية بفيتامين \"ه\" قد لا تتوقعها العربية",
         "player": "",
         "content_hash": "15e61e9c6e5b04b97cbc7c18939eeb94a1761d43fb223cf24b677c711905ab7c",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 11747,
+        "title": "صدمة غير متوقعة للكنزاري مدرب الإفريقي قبل مواجهة مازيمبي - winwin",
+        "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxPTFlTMkt3YWtKYnhzUi1wWkx4Rk85TVhTN3FDeWJ0eGROWF9fUXRnQjNxR21RcTBUQnNhT0dwZFk0cno1LXFTZXFnMk83Z3hDQUJobXRGUzN2X0Q3MzhNSWRudGVRVWZqWEh0amxFR1FZZXJ4bmdfR2R3aHVhU1lSQVpOVGwtckRrMHdUUloyNVhRdmFSZEVQTXA5N1RQdDVBNlVZVlZWcW9YX0tpRzVCY1N5UmdmaTVIWTltQ1dJWUxzTnN0VklybXVyUjZqSkZCdEduMWdIMnczRmtFTFp3YzZXYjRkVFVNXy1JeXgxZ2FnOEFqcUhMVW9wcFNWNVNkQ1RkSjA1RWJBcFJLWXpqaUtlTEpLU1Y5TFVUM3lkSHd4MHVMOHNoTXZBcHBZMDI0RDlveXlESklRcVkwZjFrUGt2Z0xZN213bUNNYXZfT2QyVHdWUWVwQTVZUDFmOWtOM3MyLWxYaURHdlBUOGdxRGNHYVFHMk1ZMmMtMEdWemVCdjh3T24yNFdpdkRTR2xDTzZ4NzQxdERCXzFKMXB3Z3FUV3o2WUtsTnVlaVpONTM2clh2eG9jNHZqTWpzUnZsSnhOVkgxa0wwRTZPb2lLNDk5cE91Q1h1RFNRYll1Sm5XWlB4cjhhWTNmZEFUSlRCeUlwdWprbUM3THZDbHJiTkVBSE10b2c?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 14:35:13 GMT",
+        "discovered": "2026-10-13T22:48:08.117778+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "صدمة غير متوقعة للكنزاري مدرب الإفريقي قبل مواجهة مازيمبي winwin",
+        "player": "",
+        "content_hash": "ceae7ddda268f2f3f8fbf4ea0ab22a35bc2095b00554469b68acbb9420949210",
         "sent": 0,
         "section": "transfers"
       },
@@ -2392,22 +2408,6 @@
         "summary": "تحقيق يثير شبهات تداخل المصالح في \"مجلس السلام\".. وخطة إعادة إعمار غزة تنتظر نتائج الانتخابات الإسرائيلية Euronews.com",
         "player": "",
         "content_hash": "0eb5f1443f245f18f9ffb4eccc0ee4926b1834f26b9e9438625d5eddd87a4dac",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 11690,
-        "title": "\"لا تساهل ولا تغاضٍ\".. رئيس الحكومة اللبنانية: سنتعامل بحزم مع أي سلاح خارج إطار الشرعية - Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONlF2bElpZlpjSVBSbTVpcWljTDBrdW9rTG1uQ3dKVUZEd0RxRGFtbE44THlNaXF0RkhxR0t0bGVfSldoczNIbDF1TmJFY1diRG1XampCX1BneVNtTUxVdDJiQjFxTE5qXzhsWldKYTBHOHhZdW1PUGlkQVA2bUNwWk5ZaVp3MlRfZ0llOENWSDVuX2dIZE9zUG5PYkk2b2hNR2c?oc=5",
-        "source": "يورونيوز عربي",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 14:00:13 GMT",
-        "discovered": "2026-10-13T19:58:43.243684+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "\"لا تساهل ولا تغاضٍ\".. رئيس الحكومة اللبنانية: سنتعامل بحزم مع أي سلاح خارج إطار الشرعية Euronews.com",
-        "player": "",
-        "content_hash": "4e2fcaf7ac4148c5e1688cb52593128c91d0471a272dbdf5e4d834296a645929",
         "sent": 0,
         "section": "world_arabic"
       }
