@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T17:06:34.651634+00:00",
+  "updated": "2026-10-13T17:26:25.125443+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -16,6 +16,22 @@
         "summary": "المغرب الفاسي يوضح حقيقة التحقيق مع أوهرو Febrayer",
         "player": "",
         "content_hash": "118fab04b4f1d9ab6e53e61ea2fe6e719b236b8cb983f7d859fd1ed3664520aa",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 11634,
+        "title": "مؤسسة مدنية مغربية تنتقد زيارة ملك إسبانيا إلى سبتة ومليلية وتعتبرها استفزازا لمشاعر المغاربة – اليوم 24 - اليوم 24",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBreDN5aFJneTRSZTJoaS1kS2NjMmZfdE9KamhKVGlPRmxSRVRiY1FvRVpNb2NobUh6TFpPQ0RJNVVTMUhJb1d1eF9R?oc=5",
+        "source": "اليوم24",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 12:31:08 GMT",
+        "discovered": "2026-10-13T17:25:52.728728+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "مؤسسة مدنية مغربية تنتقد زيارة ملك إسبانيا إلى سبتة ومليلية وتعتبرها استفزازا لمشاعر المغاربة – اليوم 24 اليوم 24",
+        "player": "شاعر",
+        "content_hash": "ebf2af5c031bf7a1f864e929b46ed013760cc5e43b0a05fe9ded3f1a91f73dee",
         "sent": 0,
         "section": "morocco"
       },
@@ -626,22 +642,6 @@
         "content_hash": "f0446e7c1f7947373bba2cf2366b2aa6617913e0f271b571dd71752c6ec5b1d7",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 11240,
-        "title": "بكتيريا في فمك قد تكشف سرعة تفكيرك.. ما الذي وجده العلماء؟ - العربية",
-        "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNR0VwVUEybDc5a0NsNkJsOUFNSkZkZkJRN2Nta1JXQnA5d0U1bFpmOEFKMnJUTTZGTmdha2pUVzZkYWI0UE03a2hUSVFzYWpLUzIzUzRRTV84aTRPaUtpeHhMSkhPVnV3U0hySC1OMUpPOWtrR3lZMVFRU0tJRUszZnpWUEpQS3N6a2d5Y0hfVUVnbG5uN2JEd3MyZ1dManBFUm9NYXhEU2NKdEVMRzRCaE5sV09ZNG5YRl9kUGpFWnN6M21vLTJkU0huYjZoVnBTMFR2NWJoSFBHZXk2OVlxV1ZmdTZoM2tyc25qRVhEdTZPWHJLaFBqMUE3a2pQWFMtX0pYNzdUeEs1X0pGZXZYdkYyNC11ZHh1endfNHdYcVo1ZVNoNDFFTEpMOVJIRUlZaGlaSmN4Qnd0OW1NLTZIQXRyU2dqc1hQandZUUFONTFKS3BMN2VqMmhzWm5KaVkxSE96bGdHdmJ2dm5BUVVoS2kxQUw4aVhIbnpONkpoREFNUUJFM0UzQnB4R21vN1lwV0N1M2I5bTQ1aGU5dnBaNWpYNkx2T190dTh4N1ljVTE2OGpMTnNiZHpDM0FsRzJQWGFoazlIZDFZMGc5dVFQNmp1U3VyaXZhYlJ5THJHQdIB5ANBVV95cUxPTndYc3JseUQ1MENYMXdHcVVWUzQxa2tsNzIyRVE1UkFobnlKMzlDZUc3akpEVUtNLWJhUXBuMVFQcF9lZ2J2MTdHZEE0RUY4TV9IYTRUNjU4aTBCWnRXZzFPQ3RxOFNZY0JZN1VsMDVwakdoazE0TVhNVk56OXgzeUR2VW5jenFMR09JMWdyZDg3V2lGaE02ZTV5b05RaWdDdm0tUmhka2dHeFQ2Z1FSSnNnMXRrRHM1VDN2MU4zbDdwajRZdmdHU29MOS12eGdEb2Z6Z3hiaThTSEs2di1uM2tna3V3b0NVZ0d0MFBWRVRvVkdhUC1mdzdCcVBHOVJmcEFZcEZ5dUdINFFIRmtkaFM1ZFY5cjFidkx6bUhBS3Fvd216MTRyNGJweFhkMlFNV04xWWg3MXN5ckE1eUtweVhJMDVTd1JScW9qMWhtQmV0bFE0YzhGZHg1XzhESHZDY2hJcXZNUW1DRjNkeW5iZjV0UTVqRlp3SFotYXQwMU8zYUNvcDVXRHp5QXA4bGZBUnVRY3ZLdDQtQk1vS25NUGYzTG8waVR5QXpzR2E2eFVlMkp2WjFyX2s1YndvbmJTbzZHMjg5dlQ1WnY4ckNtUk5Jc09iVUZDODBZczM5ZWtxMFJE?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Mon, 12 Oct 2026 12:16:00 GMT",
-        "discovered": "2026-10-12T16:58:37.777136+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "بكتيريا في فمك قد تكشف سرعة تفكيرك.. ما الذي وجده العلماء؟",
-        "player": "",
-        "content_hash": "633bbdaab0a55b5303cc387e4d7987dbba7bdfd8e9e44fc9228f8bc699c2aa77",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -706,6 +706,22 @@
         "summary": "فيديوهات | أهداف فوز البنك الأهلي على طلائع الجيش 3-0 (الدوري المصري) FilGoal",
         "player": "",
         "content_hash": "0d3f655bc3a405ce5241a4c99cfd0b4b69cffda0e68cdf60384461b16eed39a5",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11635,
+        "title": "أخبار | مباشر بطولة إفريقيا لكرة الصالات - مصر (1)-(0) تنزانيا.. جووول أوول - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxPc1JFOWRZOHhnbkNDUURmNkhETkh6Vmdob3BXc0tnT0htbi1aUkRReDRTcHJhWmpyX0JDZ1pvNXhTWFJNZTFGOUxSaFZiMHJxSktjVmx4ZjFhVkZxdEJnTHVicVZ0RTVTbUZQNGpOdERmYzVabklPU1pYTU43RkhBVDlJTlZVaXYyNmliaDNVcUVPQjZ4MW1CNVpYeGkyRDNhMExDLVFRUUVZUTNMNkRVTDNnWU5peGQyUzJfRUlHanUxRXltek9GdDMtMVN0TF9jaDBSdjVrTkhTa0JvUlFHQW5STXFWUXRyY3pqTlpBY1A2b3JlellMNzNmX3V0QzhVYy1Tclg5SXpTcWFUanZrdGFWY0pkVXZyaDJrdnpuUVBkZ3pfNHJUbk51Q0R5RHhxVlBmSkZ5Y21FUm5YcUtDRVB1dTlKa25yZzlQRnE0Rk9VNlR4N3dubEl6aFRvSFcwOThQMGo1VXYwbkdaeG5uQ21oM1hwZVgxU2VjQTNOOFV3ZnFwUE5nNVdUNnJ1Tlo1NkJPRjk0SnNUc09TNERPYzNGa2xDX2huWmQ2M250SkJkeEFST19XSDJiRjItOEVUX0J1c2Q3RDEzNTRCQndYOE50dVNYdzVGb0E?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 16:53:00 GMT",
+        "discovered": "2026-10-13T17:26:06.178693+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار | مباشر بطولة إفريقيا لكرة الصالات - مصر (1)-(0) تنزانيا.. جووول أوول FilGoal",
+        "player": "",
+        "content_hash": "0747340a742f2e0f0f245ab3e814f427155a758c20f5664671d10b4e0fbad9b0",
         "sent": 0,
         "section": "sports"
       },
@@ -1428,22 +1444,6 @@
         "content_hash": "260a0619f1d13bafa0debca6a638156e6d7b8e682ce498499a97b2c686499800",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 11508,
-        "title": "القنوات الناقلة لمباريات اليوم الثلاثاء 13 أكتوبر 2026 - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNd3RUVkYxWU44dnVoVXFzTWlscnRnUUZpYXI2TnRMWjhjZkZTQzFUUGxVeVp1QlZZazJOY0dXTzRfVU52UzJPd0ZrLVRZQ0t4OUx6aS1JVzRvMGlPaC1wcWN0T0RtRnhFa2RjelF1NlNFbEdvTFpVcEZIeVpSeU1CNS1oalREU19VTWc4OTlOOG9vUnVKZHdCT0xmUzNsUHZqaFV0cmJ3aDNVeVZNUGdxd3pYZHNDTUN1am9ZTHNHR25jcktHVlRLRG5lWm0zZUttSkp3bWc0aE5SWHlwSUhsWHZQYndnaU9DbjJsTEhWU1RkZHgwRFl4bWh3NmpKa2VRQkE5alE1U2w0RElxTmRhOFoxYWFDUVlSaFRVVkNFYnNlVkszUFBnQ1hwZFlMX1Y5dTBaZTB3OW5vaU4yNEFYb3N2VkQ5aWs5SXgwS1dFX21VTUxzNmg1RzZmSVphUERO?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Tue, 13 Oct 2026 06:55:39 GMT",
-        "discovered": "2026-10-13T08:09:11.351774+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "القنوات الناقلة لمباريات اليوم الثلاثاء 13 أكتوبر 2026 365Scores",
-        "player": "",
-        "content_hash": "71746f89371a6f691d123f8e85c0c19cc5d478fe28d6e5f5ac074b4c3b9d0687",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2092,6 +2092,22 @@
     ],
     "world_arabic": [
       {
+        "id": 11636,
+        "title": "ليبرمان: نتنياهو قد يهاجم إيران أو حماس أو حزب الله قبل الانتخابات - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOSngzUVEzMU1XMFhsWkVJYU1xSFJ4LUtmNWtSSUd5dXBkYVRLamc3cElDMXJvZk5ONzhSMk9iNUNIZjBJc3kzRVJMZ0VCZGUtYTRtWjJsTGhRTlpZRnZHSlFIMDFTcmhyY0c5QWEwNGFIZFAzSUpWanBNOG1rRHNOTmN0RERWdC1iWFdHMDJmOHRSMXV4emJpSF92ckdwNG5FbFpPWmJ1WDltZjRzSnRlM1RZU3JQZEx3US1Uam1GZ2ZfcHYxWXN2WDJITVZiU3E2UjlwVjllUTdQa08xZzJ1RDczTVItV1RvVElaUmlkVHdCNXFPQjhKR1hrVnlOZDl2ZzJwM2llSWdGS0g5OWlReEcxT2lWdDh5YmQ2dHE0V1dlZmRlMDVzaEpwTGNQbTFfLUh4cGZ5ZUdmLTY0bUMzM0lvaF9ROWc?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 16:52:26 GMT",
+        "discovered": "2026-10-13T17:26:18.510924+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "ليبرمان: نتنياهو قد يهاجم إيران أو حماس أو حزب الله قبل الانتخابات القدس العربي",
+        "player": "",
+        "content_hash": "76c021b1b692339568fc059ca3b0aa27dda95689a35e9ab7b0f2f593594c0bee",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
         "id": 11574,
         "title": "فيديو. اللؤلؤ والألماس وحكايات خلف معرض الدوحة الدولي للمجوهرات - Euronews.com",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdzRyTlVqSDBjY2ZQVV9OZVJPS1FTWGtfeTdiVXNGdWhZaDgwcWYtWVNQOEdfTzNUSWV4eXhsY1hnNTBTdWRzMGhoOTlYdEYyOXhYdUpya3FKV3FEQVBTYUxSZTlMWTdYZ0RyLUtnRGhFWmdfREdyUGN5N3lUVjRlbzVUdDQ3dXI2dUFtRE9fMHBHc2c5TEpHU1dLTUo0QzlLZ3Vla3J2LWZOTGhkRmVqQXQzZGR5UWhfOWc?oc=5",
@@ -2392,22 +2408,6 @@
         "summary": "عرض الصحف: حرب ترامب في الشرق الأوسط تخرج عن السيطرة الأمريكية - الإندبندنت BBC",
         "player": "",
         "content_hash": "4af4bea8214af4108f2ec2e68e7ef586584c2de74cde77cf01e8e3da9f021a30",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 11175,
-        "title": "وزير الخارجية الفرنسي: تأجيل الانتخابات \"أسوأ ما يمكن تقديمه\" للشعب الفلسطيني - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOc3BKdFUxaWg2RHZFbUhWVlBWajY0UHJGX09LRzFWMnpFRFpqdkpNNlNJSjg0aUVhV2V4cTJETlJHMmw5cVJUMDZvMHlBdlBCeVRLdzBQaXpRSWpCMFpQYTVURDdtbkJkbEdxRmh3UFVBS0lCbHlod2pQQ2dTcFltUFpUek5ObXppMG5RRFdmZkZ2ZzlKdVRjUVhnMVNyODlWLVBQM2Y2bUF4dUFPX0JVTHNGZVM1dTFSUktIQ0d4UDRSOUJfdlg5Z2JMZHhuZDhiZ2VYQ0tDQ1JJLVNLaDdYczItcWFoVGt2S0NEbjZTQmtfblkycWJiNERhR1hoY3I4V0Y5NWtoXzlnaUQxeFhSRVRJRnBfOUgwVUZZamZabEx2WHFZU1U5NXEzbHE1Znk5TVZxX0JHR1ZrNDdwZmpvNk0za0Q?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 12:14:25 GMT",
-        "discovered": "2026-10-12T12:46:08.733392+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "وزير الخارجية الفرنسي: تأجيل الانتخابات \"أسوأ ما يمكن تقديمه\" للشعب الفلسطيني القدس العربي",
-        "player": "",
-        "content_hash": "cbd649ca83558955d556d4d500001cdd74f0e009c09037558d695532b1947ddb",
         "sent": 0,
         "section": "world_arabic"
       }
