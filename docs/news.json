@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-13T11:29:41.468346+00:00",
+  "updated": "2026-10-13T11:50:13.772678+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 11540,
+        "title": "بعد الإعلان عن الأغلبية الحكومية، ماذا ينتظر المنصوري لتشكيل أول حكومة ترأسها امرأة في المغرب؟ - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iV3VaTlUydXdoejFMTGtlYnBBTXQzM2V4Z0JiMXN3TVNXRkZZNXFqWTdaT3hmbXFHZmxRc3l4aGNSMy1vV1BIUlYxd1lOOEJ5SmVZQV9NYnE1MWhMRUHSAWNBVV95cUxOcXRsMk05VnFaWEJXOU1WcTlQRHQxTzR5WDNWU1ZOeHVUaDRwS0hsZktfR3V0dk51RlA5N0JEZ0JNTW91NEdyNlhBcFlHVnJyQXVob2VGZGxCX0kwQ2x5LWx0UEU?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Tue, 13 Oct 2026 10:34:14 GMT",
+        "discovered": "2026-10-13T11:50:10.252069+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "بعد الإعلان عن الأغلبية الحكومية، ماذا ينتظر المنصوري لتشكيل أول حكومة ترأسها امرأة في المغرب؟",
+        "player": "",
+        "content_hash": "c434ca230f917406376ec14c6e94c2445664a5ce2ce45cc5207285c5f12e3e74",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 11529,
         "title": "المغرب وأمريكا يعززان شراكتهما في البحث والابتكار الزراعيين - Febrayer",
@@ -496,22 +512,6 @@
         "summary": "مجلس النواب يحدد جلسة الثلاثاء لانتخاب رئيسه الجديد.. والتويزي الأوفر حظاً للمنصب Febrayer",
         "player": "",
         "content_hash": "62c7078660d50c9af29d9458f3f9234f7657584ce864c2d1273ee47643a890d4",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 11176,
-        "title": "كيف نشرات “گود”..ليلة الحسم حددت جلسة انتخاب رئيس مجلس النواب وها شكون مرشح الأغلبية - كود",
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNSnMwNnoyUl9rZElHRTlIWFl4cjRzTHFXa1VzaThEOTF4S0JKRDBDRllPTFdRSnZfVFJibU1fRmZSeElUTG5rc2dwZDdCVmVmUktEbmxpVGhLUGZXMzE0cnZuNXF2OWhDSXc1SHlyd042bDFoeGRwWEVJRWhvT0J2LV9iQjZZMVFTUmh3QmZla3E4X3IzTkZOOUhyNFVza1pxYW5FSHQ3UThQQ3BjZlZZdG93YzkyM1lpcXMyZEloTWo3VjhBMi1odWtQVWJmWE9uZ0dCenFmT01qQmc4ZTRlUjdFSlVwekJ2Q0FodEhhT2kxb3NiYzFCaDVtSzhwa0hiUnlaYlZCNGZ1Q0d5NHI4aTJUX3dIeG9UTGlESVNZRXpVd2FZWlFGTnF3dTVTcHFTNkpSWERMU3M4anhvMWVjRGVGR3Q?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 07:20:01 GMT",
-        "discovered": "2026-10-12T13:22:14.854482+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "كيف نشرات “گود”..ليلة الحسم حددت جلسة انتخاب رئيس مجلس النواب وها شكون مرشح الأغلبية كود",
-        "player": "",
-        "content_hash": "d72b16ef96b6d04cc6cc21f2b3571771064b5fdaf55e6a678b9cc873c39ab2d2",
         "sent": 0,
         "section": "morocco"
       }
@@ -1416,6 +1416,22 @@
         "section": "transfers"
       },
       {
+        "id": 11539,
+        "title": "صندوق النقد يرفع توقعاته للجنيه المصري هذا العام ويخفضها للأعوام المقبلة - العربية",
+        "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxOaGtEc0ItZG1SRUI2ZHdnSGF5Nk1wcWltS0J6d3lsT1gzTmpQTmJfcHEyVVdHcExmTFU0VEtPUGYxSUF3SERDOTlySUJjRmRRRS1faEpoZXJuQlpqaVBjdm5hTWFrQjBUUG1GNTlUZHFqd3J5dzdiZE1MRGV0dExLZVBLTFNsQnJjMWFIdXVhRW4tZ1FXaVhscG1pWk9ydkFEbnpBVkZ5YlF1SEc5akI3MEZZVnA5MUVXV0EwS3dFX01lVDRIelY5TG9ZbEl5VktQdHdBMVA2ZTZsNnJIU3dNNkZ3QjB2VkFfRjA1Q0hLdHl1T05EcjFzeVBGd3lxY3Zrb2pyN3dwdnIzWGpnbTRwalRoZm1CZUxKRnpqdHhyYmtlTUM0MzJFeFVsbV8xMFNENW5EUXFMV2xobjZOMzUtcmdrMThPd0FvbmloZW9UTjJ5MXNBOGpLMkN0X3h1SmJ2RERvWkVnRGtpMHNfNjVfLTZsa3JjY0tsZlR2NzdGQV9iMzZXa0F2cVJyRkx1WnJvUW9qaUFhM0hEeDFJeHlrWlhzR0lmU2MyNF9zaUdVcFJhNC1RZXFGamFvR0J0eVpXc0RoUHVoM3BXdXJyT21TZWFBTHlIQm5nbm1VSUJkcTRDMEs1TFlSN21nbUNucjVYM1g3UlVBWFhZWDd3aXdCM1lzLVRCOTJzVURTOVdhMGxxaDJHOTRPRzhVcXhYMVByeWxpOVM0NnB1bGFac2prQm5VMk1oUHdIS1JvbXJJMHB0OU5sczFzd2NhOVVWQ2FoVnFLeHNEWEt1RjlSa05SQjUyYWRlQdIB6wRBVV95cUxOY3kzNlhQdDIwM2VlcklGU3NTNEx2Zmxla0pYc0R1UG5HYVYtREYzd0V6T1lVYWJ3N3pFNDFyU1ZRdV9XTm1ha1ZYM2d5V2hfelpZR3I4UW82TmZ1aXczNWpzNGVDRm9BZ3VmVlNPV1d2ejRRaUg1dTRxc0JuRDFza2lQbnA0YkRYLXFTZk5vWVE1bWNUR2d0dTJYRThIdkI0NTUzQVAzMVNkektMLUdIWnRNV3FNZUVsbklEQmZwUE5fQS1ZdkczdkFIMEFiWWVkSVFRMDE4YjY4WDFRVDFHSjFUbGRqdlFOdEtSWUppT0h5Y2xpcjJDazJqWTZPM01hZWdNX0tBSlJSUzd3dEp2MC1Yb21Db0dSRkp5ZUJiVlluV0h0TXJPT284dzhVcTBOMW1iMGktckxEczFLb215dFJTSHJWYnpQWEY2eGphb2gxaUZwVWxndjhERm5DcWxJN3NYaGZrUlZlNDJKZ1dld0lIUEQwSmlTN3ZRTEZaYWV0bDQ0S0FTM09vZWNvZ05Da1BHYy1vNndOZTd3ZVR1b2Q5aDI2N090V3R5WkFLZzYydEJ3WjltczV4Z1RGMjZOVnlWV0I2MWpMNGdhTzE0MlRjV09ZUzUtYVlLQWEzZjdkaExiUjMtemtoSmtxRUZHeU5XNk5vck12ZVJOZkp3QkdzTHJ0LW1welY4WmJCU2hLUHBGLW41bEtrUDB0NkdhdnNQY0FUQnpzQ2dOQ3ZHR0pUbGhqNnVIVHdDQVlBT25xQjBhdUdYenlMVkFielpWU0dKWV9la2R5dGNOZXRCcFlkOEs4dHJyUUw0?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Tue, 13 Oct 2026 04:21:00 GMT",
+        "discovered": "2026-10-13T11:50:04.186332+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "صندوق النقد يرفع توقعاته للجنيه المصري هذا العام ويخفضها للأعوام المقبلة العربية",
+        "player": "",
+        "content_hash": "f8b04a97ab9b11717d6b43d0d5896ce4f888405a40f7ba9fff1e4ab77cd84e65",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 11468,
         "title": "ترمب يتوقع نهاية حرب إيران ويقرّ باحتمال المبالغة في استهداف قادتها - الجزيرة نت",
         "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQRWxpN0hBOWdEZnU1bENsbGEzRTAtSTYwU3ducTR6VlBNSGh3ZkFiMnA0WUVxR2tqUERES0xDdkFFZHNiaVhOZ0x2cW5Rd0wwMFZaRlJNNnNQeUhuaUlZbm42VUVxVmZBcEM5dFFiSHA2M095c3htYnFSUk1qdzVESWVWNUpEVXY4dVhLZTdQd2NSbEpZN2pzTm1sc0Uxa2owaHdpdHhZTy10ZWJqLVNzLTRTWkRRWHh2YlJjRVVTWV9PeDFnNWQ3YXZKazZIby1pNldWWVJ6dEt2cFJKOFhDVXdrNXp6a2xTdkhDcTVzcjloSjhiSWd6N1RISzFKWVI3cktIV1hPUzRfYzA2SjVBZ0RZSVAyQXpnMmVyZXdRbFRrVUJMWHh5LXdEQdIBsAJBVV95cUxNRTlWTDZ2OFV5OWJHMFlIMjJOdDFTelgzc3EwQlM0VGJGek8yRnhtRzdlcWZsb0p3ZUlKSHJLU2JOQ2s2dG13WmF4RXVjT2JHVUk4X042RFBSZDFsME95TkpyelVia3JYQkJfMHVxdDFvUGlhYXZhTV9YY1ZQU1FxcHJyV0FiNjVkMjBJWHlHa1pEU0FwZnNMaGVnalI1YktkSlZfVFE1ZjBxNWZsMUNBUGxkUENNRmg0UXRZRjVxMDFnU2hGbHlVYkJLa3hPcDl5bWk2Z0Q5UG5pMmFEeDRKX0lXdHo0c2VrYU5QQzJxS2FKNEVOVEdvbmJ5OWljUW1aaWJwb21rM21KMnV6SmRLd05rVGs2UFg2R2U2SElzZlJKZU5aY0RySjR1MHNMQ3BW?oc=5",
@@ -2033,22 +2049,6 @@
         "trust": "B",
         "published": "Mon, 12 Oct 2026 07:33:46 GMT",
         "discovered": "2026-10-12T14:13:54.713706+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "لماذا يصر الحوثيون على استهداف مطار الرياض؟ وما سيناريوهات الرد؟ الجزيرة نت",
-        "player": "رياض",
-        "content_hash": "34f8bdbaaa49ce00f5847bd924ab0354e120361f15b2ff5a9bbcafefc596e9ec",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 11133,
-        "title": "لماذا يصر الحوثيون على استهداف مطار الرياض؟ وما سيناريوهات الرد؟ - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPMWNGTHd1Y0hpaUoza3ZfdWoxTzJRVWNOVjRZUjJsSFJWZ0FSMl8xanNWekdkTjZONmNlRi1yN2I4UW9oX1pwMmt0WHBOT3ZOZkxTUFBzdXBZd3pLZmpraVZueTVXUnlOYlgyaDlsTzVfMEtTUnhKMGpNVU5HWDZJaHNuN2REdjRrSlQ0UXZmQXNBVXBxd1pmYklObzI2MUYxRG1YVXhDVjgtUzctb2xBZzVWc254Z19PUF95ek5BdUZIbFh2OGFDQ2RDQlRXVVYtTkZ1aFdYZlQ4Ylg5bXJZdE9TR2ZZaTNZSFpFaExGRUFDYXU0X0NOOXM1MDJTRnVONzRkWGl4alRnQ2Z4cWRBSlljVWl6YWtZSG5GQVJDMkpwcC1mSXNsbUl3aENpeXlkZUR6a0dYNXpLcHViZlBuTVA1VmtFbzcyckJoZFBBRlfSAdYCQVVfeXFMTzUzeW94LVNVYThTYlFGdnRjWmpkS0tvbjlHbjJlLXo5SEhhVnR6UlF2eDdLQ2RRTFdGLTA0WnNIYTJpb3BTLW0yZnJCYUN5MW5TM19JeExvdzAyWEJnU2hmRmpZY2FPdkZJNHp3QTFJNThqV1VkRno4cTRFZE9zYks4enpodTFFYWh2NDhudVl5Y1hIb2hmd1NjMHdMb2psTFVrb0VYY3VZaGlkY09IRmxKX29DWVZmTmhOS0F4LUtYOEZJN0tHLTJNNTBVV25XU2tyeVZSRTdCaGFKVUkydkpZY3FJbXJkQ3NjVkVreEZxeDgyWFdwMTEtMjB4NXhUeGFqNGpyM3U4MFlfQjhmVUZRZVFlUTdfRHdiM3FBZmJ0MC1mTmpwNjhYa1lxZm03bk91eTJsMlhkUHBFMkNqS2VaeUNRSEhIQ3BMVlhTNnRmTXVkUWZn?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Mon, 12 Oct 2026 07:33:46 GMT",
-        "discovered": "2026-10-12T09:03:13.203505+00:00",
         "category": "الشرق الأوسط",
         "status": "غير واضح",
         "summary": "لماذا يصر الحوثيون على استهداف مطار الرياض؟ وما سيناريوهات الرد؟ الجزيرة نت",
