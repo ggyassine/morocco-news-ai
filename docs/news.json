@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T08:09:24.721238+00:00",
+  "updated": "2026-10-13T08:33:27.797516+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -437,6 +437,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 11511,
+        "title": "أخبار | محمود ممدوح: الجماعية سر نجاح مودرن هذا الموسم.. وسأفعل كل شيء من أجل المنتخب - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiywRBVV95cUxOdDJDUGZZUXo1OWVIczdkWEVaUzBmOGUwTGFoVm5xU3RTNWVmaXh6VmNKcWxDdTVFZVN3dTJpZVlRSWlOMHlDRl9CZ3cwcUN6Q2hhckp1UVljazltYkRibGNwcWZoUllRT3pURnA4TFVpUkF3M2pvdXFvdGtxTVhrRkdpbzFfSzZkcXl2YjFDTEw3Unc2a2tGN3dxek55aEN6NEF6aGJ4WGFta3lJVDRpTWx2Y3FTREJ1X2NVUkhoSXZpY0k2RldRY3EyVkoxeFhBQnd3SzFJMEgxN2VoeExmVnlzbTBwTGxmcEt2cHRhdTcteER3UldvQmJEajEzX0I1LXIyUUlQQ1ZmNmtjNmtYTUpyVHZjbmNITWRyV3A1Y3JLUXVCbmhtb2lXSEd5eDJMdEg5eS1sbzY5b0tnT00yMVhkekNqd3dxYkFYVGFua3Y2Ti1xQnllMm1DdE03a1RCUXY4Tm9QZHNyVlhEeTdXOXk0NEZ4bzhPRWh6aU45YTlXb29VOVhVMlJTc1hYa0FSTHVQMUo2b3dwTExrckZ1WDg1SVpEMExiUFRUM3MycEM5dVdwbE5XVE5CSWJHS3BxeEU5YUxXOFlYRGZhQVVOVkQwYU94SFdUQ2ZmdFlFUy1lYXZjMWdHZGYzXzlFQXJsUDVtOHVpekx0VjB0VFB4TUI1N0JMNWp5ODAyalJ0OHFxazVCWGY3X29oZERlWUo5Qy11cmR5Y1VCQjZub2RncktRVWthTWE3ampMbXo3U2l6ZF9YM2tjdWJnNA?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 08:10:00 GMT",
+        "discovered": "2026-10-13T08:33:10.196456+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار | محمود ممدوح: الجماعية سر نجاح مودرن هذا الموسم.. وسأفعل كل شيء من أجل المنتخب FilGoal",
+        "player": "",
+        "content_hash": "ee81bc4f8874aba7962f173dd44cf6a3089541bffe061fe178a0d1c1d1762e55",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11502,
         "title": "ريد بُل ونادي العين يتحدان لنقل كرة القدم الإماراتية إلى الساحة العالمية - Zawya",
@@ -1218,22 +1234,6 @@
         "summary": "الصدارة تشتعل.. عبد المجيد يشارك في اكتساح لودوجريتس لـ أردا في الدوري البلغاري FilGoal",
         "player": "",
         "content_hash": "92f428915490cae32be426e06d1a1a1d8e3bcd3094a38dda7aec9bcc189e3b4a",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11312,
-        "title": "مصادر «الشرق الأوسط»: محمد كحل مديراً للمسابقات في رابطة الدوري السعودي - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMisgVBVV95cUxPMjU3Mko2OUotdEdBY0ItV2lIUHNXdWJyd0NOOTVrSUNSaUZVNEhkOU95ZWZTNV9sTjJDTXpvRG9fazhNY2c2QU0ydDVCZUZfV3ZIZExiZm1uM0d5T2ZMdTc1UkxYa1Rsb255ZkpLN05vN0hocEtScGRQVHhfcXVsWmdPOXRJTnhVWXBhUUNBWHdpd1BxRlhhemNpbGlkVmg2VENkWFlIR0VkZ3BqUE54aDVOeVlpT2ZYWnc0YTZZVjQ2RUlSdndtY3VTZVlKV2Z2Y1ZDUFFTV1J2cFZZMExUNl9xdEhnM1lOTm1HeUItU25PaXBCWEI3VlFFVFNNeWptaWloc2pZMFNCVUVneHFaenVBZnNtZ0R5aFVjZGt5VzM2UE5UcWY0U1ZrSWl3TTI1Tk04UFpaM0N2elkzb29FMzdMV0wtZERtY0VvbThCTWdwSFN0enQ0ZkgzNTU0c3ZWRzk5T1I2MERsazFzU1VpbEVZamdmU1RkZ1ZIdm5nMndpTHhHaC0yRzI1eDZSNndDa3FmVzhScElzdmpFTGZFUHdaRWhLcUFFM1A1Ul9XT3RvcWFJNl9XTWkxclhIYUVrUkRvQ0lwSk1FdmotcWdsV3hNRnI0WU91djBHeHFaNHRQTmpvb1RmZE1ocFdPVGlCTjgyMzl5RzhoT3M2VkRzR3ozYUxJV0FzSUVFWl9GU0RZX3hXRUlsUHVfR2dxcWNTd3lPTXRNWmxLcmtyVHdJOE5YSVF2WjlWUC1HT2Vkd2pnU1dfRU80RFB5SUNpWXFJSWpxWVIzWnl0U0ZuTks1OE9KRHJ6UzhzQXFsYWxmN3hPTjdHMFdSVG42dzR3cEozRkpMc0xTbnJpYnRYeVlsU29yTURGc2NlT3FQXzBxQzhIRFRIbWlPcDlMTVpPeEhfeEE?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 19:20:05 GMT",
-        "discovered": "2026-10-12T19:25:18.918992+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مصادر «الشرق الأوسط»: محمد كحل مديراً للمسابقات في رابطة الدوري السعودي الشرق الأوسط",
-        "player": "",
-        "content_hash": "26e04a560a57770ef601966520f726b5e14bd0f99984b8a86838817ea123029e",
         "sent": 0,
         "section": "sports"
       }
