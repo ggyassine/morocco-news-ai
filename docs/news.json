@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T07:07:02.164164+00:00",
+  "updated": "2026-10-13T07:31:54.486234+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -437,6 +437,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 11498,
+        "title": "بعد \"فضيحة\" كأس الخليج.. العراق يحسم مستقبل أرنولد - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxONU9uVHR4MlgtSkFBYTdPRkNZZDRwbUIxUU5YOHEyZ2g1MW90eW9zNUtMVGhra2xKcHI4SGZnaDZieXZ5WEFWZWVKQ1RnaHc3RWVxcWFOWDY4MmFjRl8tYnFXa3VlT1VtdGVRbDlTM3dZd3JxbTRSYnk0SU5rTlAzdTVRdDlUV3gxQ205dGNuV0Q4S0hZXzRfSGUwR2V0NmwtbUptanNDLUIxdFdnY0xSLWJFZk95SEl5S2pqWWVReGpuazNRNlYtYzVpSExUalIwTE9wWVJqYnZISmdtVFo1aml5Sm9pMVVrMVRNME05cE9zYTYxM2RTdUhHM01YSjZKME56LTBwcWliSV9oWndUejFsaDJ1VGVTUkJvczQzcmZnc3dCekpEcndUREk2WEhuQldMQl84clgxTFloRzh6QTJHLUt1LUxtU0lHcTJrRDFyN0ZVUGswSTJaMHd3MFJ5akxzcU42WjRoV1RMOWJQY193MG41SVozaWtNTTVTcDBZZ2FiWnRRQW02T3NlR0tSZFAxVjZZTVFKeDRvOWNsaVF5VUdKdjAyTkR2Z29Wcjk2bGNvUGRpMnNpb2hFemJ4MUxVd0x1U3VEZEQybHhlU2pWYWxkWU9Iem1IN1ExeVBmMW15NzZSS1lieHVhNFQ3Y1dPSzgtcTI4dHVnOXV3aHRuZS0?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 07:25:48 GMT",
+        "discovered": "2026-10-13T07:31:34.469774+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بعد \"فضيحة\" كأس الخليج.. العراق يحسم مستقبل أرنولد Kooora",
+        "player": "",
+        "content_hash": "404ffe36f68732bd49dae77a5e50e3eda1ad683bccc30e8c0393053549542916",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11499,
+        "title": "\"دار المعدات\" تفوز بمشروع بـ 13.33 مليون دولار - العربية",
+        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPOVdLVWN6OVE4SW9GdWo1aDRJSGxidVpESE1fcGItalB5RTA4bUJrYUtLNEdETGlZdzd4elFCOFBhM25MSUNJZndwdTBkY2RreTRPbW1palhwdHIxZVNBU2J0Tk5Mdk5CNmZSWUhYVXBFdXd2XzIzTGRWSjJmSXhPaVYteGlDaGxyUkxRUENFdFg2X01adXBFZU1HRFIyZFpyWVpLT2dCcFRhX19BXzV6ZTJORXZOQ3ExckQwTF9vSXRob1JfaGQ0ZlVVVkk0OUNNcW15ZXhTTURJTzhkNkN4VGJhSmlGY1A0U2VBRFNCY2h3LTJDel82WjhQU2Q0QzkzaDh2R1Z5d3lFSXl4OHFuN3lnLTVxOU9fZE9fNG90SndkTDFDVTRDMi1UZnNHWWNXRXFSX0Q5WUc1SlZUVV9Qa0NfYk5idDQ3dmZxdTEtMmRaOHhXaUM0UXppNEcya0FhbnM3T3UyOXNOLXh0djNrZFQ4RQ?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Tue, 13 Oct 2026 06:11:00 GMT",
+        "discovered": "2026-10-13T07:31:46.507930+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "\"دار المعدات\" تفوز بمشروع بـ 13.33 مليون دولار العربية",
+        "player": "",
+        "content_hash": "5cf45c6363b271088f7ad84dece81fda9e772d27589d93febca8c38302a109e2",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11496,
         "title": "\"دار المعدات\" تفوز بمشروع بـ 13.33 مليون دولار - العربية",
@@ -1202,38 +1234,6 @@
         "summary": "بعد الإنذار الأمني.. انطلاق مباراة النصر ونفيتشي بعد ساعة من موعدها يلاكورة",
         "player": "",
         "content_hash": "daf5030ee94d620d4bad60b2d01a50bd03b613a32b0a44b64dae2ab770b1ce29",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11490,
-        "title": "رسميًا.. الاتحاد الأفريقي لكرة اليد يستحدث بطولة تأهيلية لأولمبياد 2028 - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxQLUdqQ1dEWXlFbzljREpxcHhhVnFTeVBLTW9mdks3WE5LeDg2ekloRzNJVVF6MVVTa1U1cTRkS3BJNklUZU9UMmQ3bmUzVmRKell3R2t4ZFhNTHQ3VUNwWEZFX2RnTXZZVXJUeFpROUpBajl0bFg1OWVvSlk1UFNlbnhvZmVFMHE5MmtmNWJ3NHdaYjdhNF9Ndzd6SkVDMTZQUy15MjRUMjNmYjBxUE1Iekt0MFlQSlk1d2FpRlhWaHN2VkFKRTd6aGZmXzdiNFNqUFJRREhNbGdPd0U1aDFReTN4NHo3Y0tDSEhLVDFSSFJOdTdBQlY4NHN2cEdkcG1lZjdidG1TdHVsYXpTcjhDR0RiMkdZbFJGYlVkbVVrNmIza3NERFg4UF9nQl9kekhWbnNFUXIzVURPLXRHVkFIZDhYQWN4M2hOVmh1WWFxT3V2aFVzWEE2RnJxX0wybVFlSlR6SGFaaWtGMzNxUm04TmhWVEhWeThfcE0yOE9zWGp4Z2RMZUR2WW5HSUVTdUE4SVFEenhDWE5mbHVFZE9URHFFYnowc0U5bTJYTE52QmFQaFRPV2IxZUl3MFpNWUxXbVV3QVpnVDJycEJHNVRTbW5QVjV5SFhUeXFmQU1EYUpqYjVHQ3pmdGFwYWMtdXQwLUU0U0R0dE1ZUktTaGZfM0RyejE4TVdBN0ozY3VqSWFiQmxWbFVXdDQwWjc3ZnVqWTlhYXhFMXMwM0RkdlHSAbMEQVVfeXFMTjUzcGtndVI1eHdINzBlM3M1cHEzQTdOVmxUU3BLX0laNWQzQjE2M21fekpTOWJLYmc1YXFNLXk4QzYxbDYxM2FxMmVRaUNmUkdNSzFTVHZra3JLQ25IZjcwUFVfY1p1V3VMbi1MeHRvbWQzd3RZR09HTE5NQmFlSXdPcmtPNW1KblR1TmpRR0NuSzJfc2hGWkxuYkNNMlFjV3V4Ny1Gbm8tdmdKVjV5bzFMcjA1X3hSeEdjRl90TUZiQnE4YkpXOEhzbDFzbE4yQnNfcF9wV3BaVlVMclRoRTVsUGJRTFN3OVBjN0Y2WmtKNXBHQmZ2dU0yUWxWSWJlMnA1dEpJRTY3RHJvWlhEa3YtLUl1TFRjbDhtSGw0QTJ4NDc1VUttZkJMYWpiMURlb0V5aWJLQUdFRkRibFU2TGlwQmR1bC1CT2xGbnQweHlsbGZOTzFvbWpod3FSZ1BBeHhGYVozd25UQnlqalItWlM5WThRUkJ5VFphUjZmX2E5TEMyaDU4akppaC1sbVYtcE9ESXMtVWhHM3RPOERsd0hmVU9keVd2VzFicU5QMV9aTlZyOWRkNEVUVjQyRy1BSzQ3NC1Odk12QVJhRzQwaERXei1aNjBzWkd2b19sSnA3RDFSWVNkSkJxNVpOcl94UnR1cHZ2ZVZnVGY3RERxRE85WktaVno1UnlYY1d1bjJJZW5DSXVrZXNacko5bUlsRVpPWWt3ZVV4TG5fX2ZIejQ5TVE?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 19:03:00 GMT",
-        "discovered": "2026-10-13T06:37:30.475470+00:00",
-        "category": "الرياضة",
-        "status": "رسمي",
-        "summary": "الاتحاد الأفريقي لكرة اليد يستحدث بطولة تأهيلية لأولمبياد 2028 يلاكورة",
-        "player": "",
-        "content_hash": "c4042fa466956c4695b0a66136eb71a631dbe1323b7db390ba715e7b6efc7bec",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11487,
-        "title": "للمرة الأولى بتاريخه.. بيراميدز يحقق إنجازًا استثنائيًا بالدوري المصري بعد تجاوز سيراميكا كليوباترا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMilgZBVV95cUxOVzZOS2FtdlFPWFlfR0hVbmt1Um5uZmN3Z1VRMGNON0FZUGJaMXZleEJsZFZOTnVWR19FenVPLVNFUW14Tjc2aTYxZFFJR2Uza2xvMmptV1B5OHRVbmY4Rm5xZnRuTVE1ekJDa2lqNWU4cUx0ODRaazU4eGJKVnlZOGtWOWlGNnRtXzFFb0hBbnp3VGlUY0FES2RuNWlRN0l5bi1YRU1mdDV3NDJjWmh0bUxOMFpUR2NKckdXX0dia2VCYm96UDhBNkk0UzRPRFVtMXMxejc1NW0yZ2dLTjRPTW1VN3J6MERDTVlmZFo3SGxUY3Qzb3BqbnUxX1IzenBCZTFuNFo4OEo4X3JvMm1HOEZ4bnlkeFBHcngwZlVXNlllMmQyNkh0cEE1YXFSOTJIY1VxczNEd0o0NUZrcUU0NEF0RW9jVkVmSnBWWFpIckJTY2ptWVNhN29YS2Y1SUN2dmwtc2hVOUJMQVRTblNQVV9DRUR4bGtyMklMYkN1aUwtRy1USWZYcDRoNHF5NHBVdjg4VmgxcVNXcFVveDhXS296elBzV0w3U2lGbjNRV0Z0R0Rwd3FtZVQwTWhnMmxZdWxWVldRYU9MZXgzc245N0ZiTmNURm1jcnFsUFlUdHU1U3dpNF9rekVZQzNDcFNpc0M2NVl2S3pfc3Z0azQxY2ljNTZhcEZYNmh0S2VUTDFtRmh5Tml6QjRUd1kyNDU1dEV1cmZlWGllM1g4MGktaDRnMVlxZ3V5ZUh2VS1CXzFScUZUWGlWaktuN2NQMXFLbWRReXFydUVTRE52bEtZUllfSnhPSHR1TDJaS21CYkMzNjhPZlVaLVZSTkszN1VsZ3RDUWduWURqdWw0OTdCUkxnSUFwU240aVBJNHJSOE1VQU9ROWw3VUhiUnRYYlVhM18tbVQ3WDRPeEJFRm52LVdWNloyYmJtaVNzeUNnSEx4UXBickFJbE1fbkFlNU9PNHhwSlVhUnh0ZmZUVFllUmFzVW05ZGxmYU4xU3pPa2JtaWs5TXFKSFlQOUpuNkc1VjZUazNB0gGbBkFVX3lxTE40cUpBSFRReS0yMGpwbWdPdnZ3Y1Zvd3UxTzdXQVg1WnowMndldFVNSkUyamx5UnJiZWJwdGtpNVRUQUdtNjlmenlvQkVURkdSc0xwbzRobmliajNZbUMxd2c3T2pobnhYR2ZTRGJmeG1NQlFTdS1mTmFVUzI3b0RNdU5lSmJVY2k4WmdkdEtudXBRRXhzbXJQRXJ5MnQ4SURFcDdPWG92ZnRONG1JTV9SdUZKQnlheU9JUmFtZkJzbUlTQkJhTTdCRFhEVnBnUW0tRjJzd2ZmQjdOYWdKbzVlUEVhazQ0aEtVMkVkZENlRlNxSGhrcHd2SFFLWXpKaU5NWEhlMkg4dEdZTkxKTlpFSVRicnFGcjNzY3ZJRUliVC1XWmlhTzZ4NTUxSDhjMGRGdF9teGJUOUdiS3ZEbDVBMHk0Y0piUWw1Slc1dFJlRHlYTHpSZm1XZmxrLVI3MFpPWUg4MjFQaTRvSG5ZODJhZEZIalNSSWlJRGh6aEFmd1lOWTZ5OEZMaGZUQ0VLRk9jc19lVzFaVWRQNXk1ZlN0M195eEJJMmI3aUFSY2p0OW9VbUhPTm1BdVFKekpwOEFpQmY3S1d5anQ5SXhkMlo0Zi1kSW0yMkM1WmhHZFZGNURRNUJoZnJqZUxpNVpjbDBGWXVqV2lKcVFnUUxFLW03Uk53Tzl1Y0xHRmszSVVvN1BpUER0OHVwX1oteU9aZWlJdzNuQ2ZDRmxRQ0l6VWUwZ1Y0TERZT0tVVE56QlRnT0ZYbG96QUZXb3BLaXhQNENYVGJPUWlKQXV6TVQzQVRLMnRMYXpaSDhFMzVDTE14SFhVSkJTeUE0eGFlS1dQc2FKUXlZbmVaU2VEN21icjN3V2pQVGZvRWdoOWhPMXhSbURlaV9kaTdNSEE5eEtJMVZ2Z0dXajRLT3JweUtTWWwwNFRYNnh2dFV0RWFXanJ3OTJncmhKbXRvUGRRU0V3azFwMjcwQXNYaV9qLUFCdXJkYlF4Rm1zbnpsSDYyTlVjN0ZHWGNJRDVYck5XZ0FuUGd3U2x0Z1FHdndwOA?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 19:03:00 GMT",
-        "discovered": "2026-10-13T06:37:30.457741+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "للمرة الأولى بتاريخه.. بيراميدز يحقق إنجازًا استثنائيًا بالدوري المصري بعد تجاوز سيراميكا كليوباترا يلاكورة",
-        "player": "",
-        "content_hash": "ecc1343b83634ca1aaef5dfdee4c8d437840f4eaccd7cc32a852c38430eef518",
         "sent": 0,
         "section": "sports"
       }
