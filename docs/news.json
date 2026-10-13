@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T05:34:40.328518+00:00",
+  "updated": "2026-10-13T05:54:31.499509+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -432,22 +432,6 @@
         "summary": "اعتقال مشتبه به في التخطيط لاستهداف رئيس الوزراء البولندي ووزير الدفاع – اليوم 24 اليوم 24",
         "player": "",
         "content_hash": "a0358dd007176238263824835c4fc39d71afa6c4e5817793a5ad22bdd6213773",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 11179,
-        "title": "قتيل وجرحى في استهداف مطار الرياض - Hespress",
-        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNY0lVb005YUU2U05lRl9JbXlOY2RzTXk4T2ZpWm03X1NyRVZvMkV5LW15N3c2NTVqZkZEUy1VNFB2d2xiREw1RUktY09Ya05QLVN1TlFmUVVNdVItZWRGdmJuOXI5djdRSXdDWmJ6ZEtGdTBRc0xuSGtoTWdhQ1p0bkJueFIwOFpZUlNQTWtaS2xfNC02cHQ1Mm8wbU1wMTdsVWRmQTBUMm10dDZES3p6Rm5UeGdqTk5OVFlTanEwWC1hUW9MNDhPMFREbjlFZ1lFUk5DaU5RbVdVWGxRUlh5bzlGUS1XLTl6X2RPbEdpOExaSU5JRWxMRzVLRDZKUmxFX0staGFSYk9MaWVtOGJNYlJFd0J0MEJzcnNtTlVtejdQM1RHNm9pV212SjBfMG5Ed05KNVhn?oc=5",
-        "source": "هسبريس",
-        "trust": "B",
-        "published": "Sun, 11 Oct 2026 23:15:44 GMT",
-        "discovered": "2026-10-12T13:53:26.493849+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "قتيل وجرحى في استهداف مطار الرياض Hespress",
-        "player": "رياض",
-        "content_hash": "89ac31f713245f2523deeed372dfadba6d6cd49869fd14fcb6b7c80889f93a67",
         "sent": 0,
         "section": "morocco"
       }
@@ -1256,6 +1240,22 @@
     ],
     "transfers": [
       {
+        "id": 11474,
+        "title": "صندوق النقد الدولي يرفع بشكل طفيف توقعاته للنمو العالمي لعام 2026 إلى 3,1% - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPVXh0bTdQQjZ4MU4zRXdHR0hCam1ZZU5Fb2JfSWdCTVNZVkdiVE5qbDNQMEZUWUg0ak5qYTQ4MVVkWE9JdmxBZXdpYWh6eG85NVNNLXkzRzdOWEhkaWNZV0JTT0hodXBqM0F2MmczSWgyUnpsU3F6czZRZHRDazVNRF9hSVZpYUVJbWZNZU9UYURXVWpuejhCMmVpbEtLVkFYRHNuZWt3QjM2TkRhQUFZZ25OaU53eHdScHlLalFwY24tRVRobVU3Y2Rpb3k3SnpaVjRCSk1mekhRRU1rVjdlNHZXQ2dkcXlpbXJjZU5VRUI3NTYxLTZNLWNielZ4SWtONjVwRXlWeHgzR0xac1hoRzczMlVJb28xNmtxNmlFRlEzRXNGVlFvMm9ZLVZ2YS1uYnFnMXlGNHBPcE5rcXJQenZVdnFfNHM?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 04:23:06 GMT",
+        "discovered": "2026-10-13T05:54:27.099045+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "صندوق النقد الدولي يرفع بشكل طفيف توقعاته للنمو العالمي لعام 2026 إلى 3,1% القدس العربي",
+        "player": "",
+        "content_hash": "bb82aad8b15d4cda894f6bd88cb58022fa699b4e5193a09c4bbd8441a3bf9239",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 11468,
         "title": "ترمب يتوقع نهاية حرب إيران ويقرّ باحتمال المبالغة في استهداف قادتها - الجزيرة نت",
         "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQRWxpN0hBOWdEZnU1bENsbGEzRTAtSTYwU3ducTR6VlBNSGh3ZkFiMnA0WUVxR2tqUERES0xDdkFFZHNiaVhOZ0x2cW5Rd0wwMFZaRlJNNnNQeUhuaUlZbm42VUVxVmZBcEM5dFFiSHA2M095c3htYnFSUk1qdzVESWVWNUpEVXY4dVhLZTdQd2NSbEpZN2pzTm1sc0Uxa2owaHdpdHhZTy10ZWJqLVNzLTRTWkRRWHh2YlJjRVVTWV9PeDFnNWQ3YXZKazZIby1pNldWWVJ6dEt2cFJKOFhDVXdrNXp6a2xTdkhDcTVzcjloSjhiSWd6N1RISzFKWVI3cktIV1hPUzRfYzA2SjVBZ0RZSVAyQXpnMmVyZXdRbFRrVUJMWHh5LXdEQdIBsAJBVV95cUxNRTlWTDZ2OFV5OWJHMFlIMjJOdDFTelgzc3EwQlM0VGJGek8yRnhtRzdlcWZsb0p3ZUlKSHJLU2JOQ2s2dG13WmF4RXVjT2JHVUk4X042RFBSZDFsME95TkpyelVia3JYQkJfMHVxdDFvUGlhYXZhTV9YY1ZQU1FxcHJyV0FiNjVkMjBJWHlHa1pEU0FwZnNMaGVnalI1YktkSlZfVFE1ZjBxNWZsMUNBUGxkUENNRmg0UXRZRjVxMDFnU2hGbHlVYkJLa3hPcDl5bWk2Z0Q5UG5pMmFEeDRKX0lXdHo0c2VrYU5QQzJxS2FKNEVOVEdvbmJ5OWljUW1aaWJwb21rM21KMnV6SmRLd05rVGs2UFg2R2U2SElzZlJKZU5aY0RySjR1MHNMQ3BW?oc=5",
@@ -1996,6 +1996,22 @@
     ],
     "world_arabic": [
       {
+        "id": 11475,
+        "title": "رسالة إلى السعودية.. هذا ما كتبته الملكة رانيا بعد الهجمات على الرياض - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaDJqakVjVk9DRm9oVlJ3cXk0bXEweEJlcHJfNWhYelVDNGhVXzN0VDR2M1czWXdaUGlzWFBrRlZLbHg1RzdWUWkwVHFKQUxOYWliZHctcnpMRk9DQ0o4U19lNHVNMEJsdG91TmxjTUxKSDIwQUY1dmpYZXFLVTR4UFFyYTk3dE5EcXR6ckl0eEtRMjBJOW91YTV6Zk9BLXNPTGJzTHM5a1kyVEhwd3RjdDNtMUw1UQ?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 05:48:45 GMT",
+        "discovered": "2026-10-13T05:54:30.970215+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "رسالة إلى السعودية.. هذا ما كتبته الملكة رانيا بعد الهجمات على الرياض CNN Arabic",
+        "player": "رياض",
+        "content_hash": "2d01a562da39791635826395fac01f527e1c3beedf0befe64d736533ca53ba86",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
         "id": 11455,
         "title": "رئيس مجلس النواب الأمريكي: بث عملية إعدام مباشرة قد تكون \"أداة لتجنيد إرهابيين\" - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQWDZqeGFjOC1aUE9wU2tBME1YQ1pDVFk0R3ZDVVNERWlPT0tETF9YVDJWemdBdXFpczBIaTdkVkRTRll6X01FYTZOSnhpNlJKQ3NXdk5hTlQyNHozdzNHYm12N2VsaVBid2RBbGw4Q1lTRXM3RHoxMVUxTk04SWZUbTM4aHV5VlNhMkRMcHVYUlg4WEk2dWF2blNRaTRVSERJamhCdENCQTFmVmVGTkUwdms4bkRPc2V3NnhOQ0llUUxodjRGRTd6c293bm94TFRVUzJoU2tpbGplek9IYTRCXzhDSmo3UFloOEJnRVowa3hLRlljWjNsSzFwc19NQUl2UHpCelBlb0pJQnZXSFhlWWZaSHpJdTM4VnhlX3ZfM1ctQ3pLV0NJZVItdHdsSUFNLVBRQUF1T015Qm9tQ0VqcWlxWUUtOGc?oc=5",
@@ -2392,22 +2408,6 @@
         "summary": "تراجع استهلاك الكحول والمخدرات بين المراهقين في البرتغال.. لكن من الأكثر عرضة للخطر؟ Euronews.com",
         "player": "",
         "content_hash": "62e9a257f683fd132847d66472003e7aa41f954b598564dcb351a0a0e39bb0b4",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 11077,
-        "title": "هيئة بحرية: ناقلة تتعرض لهجوم بمسيّرة قرب منطقة رسو في عُمان - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNOWtIX3djR1VLVzZQTHVSWmZXMHNwYXJiWWtwYlhPek10OFpYam1kMmVxZjF4MkJDby1Da19OV1pEQVRXVzN3N0lQQU1HUDMzS2I0MWpRam40bXE0alQ3ZVBxOVdYN2JLdFkwSWxycUtNNlBqTzJrRmdOVWV6SGlnYUZnTVg4SmZSVEpMNDF4QTlqSE51T3ZiY1dfMWhybnVxTnpqZTBwRWI4QnVmdUFHa1psX3JmRFI5UmZZSlF6Z0g3RUlKVURhNGJVakZGNkd5WE1EazB1NS1xNEZTTTE1bjZvSXQ3cnhYd0V0eTBCNmprLW1uU2Z0T0JCWGwyV0dqSVBwOXBxQ0hrQUNQUy1JX0hYWE4tWlVJZEhlMGNpMzQ1ZUppNmplcU1WWjBxT0hKazdWUzk2eURJOGxjc3FYaHgyT3ZBWW8?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 23:01:53 GMT",
-        "discovered": "2026-10-12T00:33:24.113514+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "هيئة بحرية: ناقلة تتعرض لهجوم بمسيّرة قرب منطقة رسو في عُمان القدس العربي",
-        "player": "",
-        "content_hash": "f4159cd23e064ea9d7a7ce7d69db36bf24b56a1c607c2aa94a1779015954b2b7",
         "sent": 0,
         "section": "world_arabic"
       }
