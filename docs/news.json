@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T10:53:13.599738+00:00",
+  "updated": "2026-10-13T11:07:53.643005+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -517,6 +517,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 11533,
+        "title": "بطولة كأس السوبر المصري | كرة يد - رجال - 2027/2026 - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQM0tNU1BfQU5hOWhRX0pOa1pBTzJDX1NCOUltanV2X2ZKdTNjX2xacHozbHBqY0ZsVGIwM05PTEpHcTVhTlRudWpHcWtpQmE4UURJMGVpeG1aMGd4QzVURTIyT0szc0N2dG9LNklZR2xKMUtuSTlBWlpxTDBQbXgxc0lvdzdRV2RQcVRfenBoU3N0QURTbXFua3YtLTlWcVpBTzRHajBJVEY3dHV6T29IS1ZENWFZcV9iNmdqTnl2TE85SkVqQVZ1MGVqU3E2cFFxYzM4YW9DMXBmbzNMZGJMY3p0Y1c4ZW1FY1FFS1ljdWtBQk9DRVlOUDg5SlV6a0ZFSEVHTGhLdW5HdjJmdjczZ2NBZXF2ZEtlekhodg?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 11:02:41 GMT",
+        "discovered": "2026-10-13T11:07:38.253099+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بطولة كأس السوبر المصري | كرة يد - رجال - 2027/2026 FilGoal",
+        "player": "",
+        "content_hash": "37831353edf44cb421427e6a50a9330e4455893e0293f44d2a3ed13348bc0d9c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11532,
+        "title": "محمد بن سليم: استضافة رواندا للفورمولا1 خطوة إستراتيجية لتطوير رياضة السيارات في أفريقيا - شبكة تواصل الإخبارية",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SWlFWQkh6eElxZzM0a0JoNXBXckVRUm80ZHd2WlJjQkEwUlRzSkZJQ1BQNFI0YzVrUklaMUM3Wk9EQVRGZm5sZ2lueGxYWjF4Q1Jn?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 11:01:43 GMT",
+        "discovered": "2026-10-13T11:07:35.662594+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "محمد بن سليم: استضافة رواندا للفورمولا1 خطوة إستراتيجية لتطوير رياضة السيارات في أفريقيا شبكة تواصل الإخبارية",
+        "player": "رياض",
+        "content_hash": "4042d0f19eb60fa6d55c7e1d2d018cc596e9f3928cdc088434c0a41bbd6349f0",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11523,
         "title": "يامال؟ من هو؟ لا أعرفه: لاعب جالطة سراي يستهزئ بنجم برشلونة - Kooora",
@@ -1282,38 +1314,6 @@
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
         "player": "",
         "content_hash": "f31aa78412f4183e3415b88188f6e6da59265711e712f373be5628f86cd2d2b6",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11389,
-        "title": "فيديوهات | هدف فوز سموحة على غزل المحلة 1-0 (الدوري المصري) - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNbVR1Y0h2bHE0akg5VjBYc01qVklhYjcxVno2bDNfb1A2SUZIeDEzaklBNGZLWGR0UEZpdTlQYnhUODdjVTZlOVBLUmE?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 19:32:00 GMT",
-        "discovered": "2026-10-12T21:13:40.678959+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديوهات | هدف فوز سموحة على غزل المحلة 1-0 (الدوري المصري) FilGoal",
-        "player": "",
-        "content_hash": "36bff19052db958b3225a8bd30069ad453a9e5ba8700301a5a6d678f4e8ba284",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11345,
-        "title": "فيديوهات | هدف فوز سموحة على غزل المحلة 1-0 (الدوري المصري) - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOOXEtUTBLSWZjcDg3b1VMNXJ0QnBOOUtGX1RsOEh6VjFpM0kzdWpIQ253elpRNzg5cnlYU002cmJRckFOOElGWXJSeXRHVFY5WXVsanhoUTM5Y2dJU2NCVmpSZWdWV0ltenNOODBpc1VhOXFDak5yQXlvRTVKeGxyMHBKR0hubkdsaHpFYVRIenRaVVI4WGNvWFZ6MGFnM3JNMS05V0NOMnZIaXNuTnJmdkhwNUdXN3FJVU9LcjBvbWQ4Q3FRMkoxZGtKenhlYjU3SjE1dF9qcEdsa1VaT1ZHc3VyUmkzMGZab2xFcU43UVlQcXJfQUR4RXB0bW1KeWw5ampPWDZETDN1Ni0yVE5nRmVaVWh0SDVoc0k4UllfVXhZRkktSDJ4aTFhaVN5V2RmeEtrVExRc2p4OWtOOHEzaGJvaUJHN3FXdDNKRGxIbnk3RXE1OTRPVzM2WVl1ekF3Yml2LTMzdXVFTS1jbU1adXVWSUk?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 19:32:00 GMT",
-        "discovered": "2026-10-12T19:43:47.052613+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "فيديوهات | هدف فوز سموحة على غزل المحلة 1-0 (الدوري المصري) FilGoal",
-        "player": "",
-        "content_hash": "36bff19052db958b3225a8bd30069ad453a9e5ba8700301a5a6d678f4e8ba284",
         "sent": 0,
         "section": "sports"
       }
