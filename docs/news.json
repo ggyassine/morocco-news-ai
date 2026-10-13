@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T04:57:11.824890+00:00",
+  "updated": "2026-10-13T05:13:18.715299+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -448,22 +448,6 @@
         "summary": "قتيل وجرحى في استهداف مطار الرياض Hespress",
         "player": "رياض",
         "content_hash": "89ac31f713245f2523deeed372dfadba6d6cd49869fd14fcb6b7c80889f93a67",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 11057,
-        "title": "3 سنوات من الإبادة… مظاهرتان بالمغرب دعما لفلسطين - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQdWRtSXg3QlBONUhfdWFwVm1nM21sN2JkWEJtcmxqRld0NmRFTHVHLU9sckt4a1ZOTEFfZi1mc2ZaUWRCWUl2aTFTc0RPVFVCWG5tdVA5SlJtNmM2cFBtNjRVLUtFVllUSzJ4bDh3a1R3d0JuckQwMFdRcDRTbTNGTWxMM0hVVDBxOXZRbnY0RWRibmplNk9fVWxabU9XZTVWWGwyVExfM2Y3Nngxb0hMZ3pBU1R2Mmt6NGRrLTk1ei1xeTRzSmZDSDVPRmk4Ul9taG9vTTNJUE1fWDNXTXRXbFExSWRDWXdSM0h4bE1Obm03QjFtbVlGVEF5THFoNWpleDdUR0VmeWdURU55SVFnNzJ5bmJPUHJvV0Q3bW55cnVlMUs5a3JkX0xDUVJJc2hpQXVlSkNGQk9BQzZlRFdxcA?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Sun, 11 Oct 2026 22:36:23 GMT",
-        "discovered": "2026-10-11T23:22:08.811119+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "3 سنوات من الإبادة… مظاهرتان بالمغرب دعما لفلسطين القدس العربي",
-        "player": "",
-        "content_hash": "71d2813cfdc744006b715317174a91660a221dacedfb391ca75e444f8e19bebb",
         "sent": 0,
         "section": "morocco"
       }
@@ -2152,6 +2136,22 @@
         "summary": "نائب رئيس فلسطين: نتعهد بتقديم موعد الانتخابات حال توفرت الظروف القدس العربي",
         "player": "",
         "content_hash": "5294f2c10e34edf02aae7639806824a4aaddebe47e53dd5fb31115c2c31f2d2f",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 11470,
+        "title": "تحقيق يثير شبهات تداخل المصالح في \"مجلس السلام\".. وخطة إعادة إعمار غزة تنتظر نتائج الانتخابات الإسرائيلية - Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeVJFNVhFd1Q0SGFZcDBRNVE2MC1LeUp1T2dyUVJjRkJtekZUdXAtNVBCN2x4MEl1NnlNVTBjd2FveWVScU9kYUEtbDBiblRTaE02WUtkcTdPMmg5a2Y0RzBOanRiaEkzZVZ0Z1l6TWhjMkE0NEtnaGdMaEd5QlpUUVlHSDBJOG1EakVBLVppcWY0NFAzN3hEdFZUa1Z3U3hrdDF4YnFGVDhyek9NRXFaajVJNnhZaW5Ddmc5UXZPRkw?oc=5",
+        "source": "يورونيوز عربي",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 15:30:04 GMT",
+        "discovered": "2026-10-13T05:13:16.273513+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "تحقيق يثير شبهات تداخل المصالح في \"مجلس السلام\".. وخطة إعادة إعمار غزة تنتظر نتائج الانتخابات الإسرائيلية Euronews.com",
+        "player": "",
+        "content_hash": "0eb5f1443f245f18f9ffb4eccc0ee4926b1834f26b9e9438625d5eddd87a4dac",
         "sent": 0,
         "section": "world_arabic"
       },
