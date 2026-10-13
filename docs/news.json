@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T06:37:45.378701+00:00",
+  "updated": "2026-10-13T07:07:02.164164+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -437,6 +437,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 11496,
+        "title": "\"دار المعدات\" تفوز بمشروع بـ 13.33 مليون دولار - العربية",
+        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPOVdLVWN6OVE4SW9GdWo1aDRJSGxidVpESE1fcGItalB5RTA4bUJrYUtLNEdETGlZdzd4elFCOFBhM25MSUNJZndwdTBkY2RreTRPbW1palhwdHIxZVNBU2J0Tk5Mdk5CNmZSWUhYVXBFdXd2XzIzTGRWSjJmSXhPaVYteGlDaGxyUkxRUENFdFg2X01adXBFZU1HRFIyZFpyWVpLT2dCcFRhX19BXzV6ZTJORXZOQ3ExckQwTF9vSXRob1JfaGQ0ZlVVVkk0OUNNcW15ZXhTTURJTzhkNkN4VGJhSmlGY1A0U2VBRFNCY2h3LTJDel82WjhQU2Q0QzkzaDh2R1Z5d3lFSXl4OHFuN3lnLTVxOU9fZE9fNG90SndkTDFDVTRDMi1UZnNHWWNXRXFSX0Q5WUc1SlZUVV9Qa0NfYk5idDQ3dmZxdTEtMmRaOHhXaUM0UXppNEcya0FhbnM3T3UyOXNOLXh0djNrZFQ4RdIB-AJBVV95cUxOajdTWE5nNFFYa0JtTElNaTZFZDZtM191ZDZFeVpRZUQ0S1B4UlU0Z21nanQyb3JmNVliaVJTd0lUaWhHcGQ5ek53T0NKdHpJVzBXNV9lMVZEVFhmWkt3U2lSVW13eU1aTW1rOVg0Vm9MbE5lWGZyYkpJbVBkaHJ0U25oT09TcV9paHdjM1l5QXY0aS1YMldJYWJYRk54aF93eVZTa0ZzQjJ5UnNvdE9IeFAzc3g0Y3dlZm1kekx2dHgxNzhldmhNQlhOV1ZvTHJpS2ZsUDdleUJuU01GTjRVUkMzczlfWjNIZmdvalBnOUZnTl9QUlgyazBFb1ZMeU9FeHVIVkxlelp2T3ROWk9CQ1NrUEpGZE1pODFfSy1tYzhlWUUwUUJKSGlkTUFkSlk3bkFuLXpRUWt0ZEJXV3RaVUhrQ1pYV2dVQTdWamk3c25GN2V6blYtMVBaMktZUmMwVmVpdlRlWk9PbldfSU5hQTBwa2NKcHF2?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Tue, 13 Oct 2026 06:11:00 GMT",
+        "discovered": "2026-10-13T07:06:52.201212+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "\"دار المعدات\" تفوز بمشروع بـ 13.33 مليون دولار العربية",
+        "player": "",
+        "content_hash": "5cf45c6363b271088f7ad84dece81fda9e772d27589d93febca8c38302a109e2",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11476,
         "title": "مباراة إيوب سبور ضد جوزتيبي : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin - winwin.com",
@@ -1220,22 +1236,6 @@
         "content_hash": "ecc1343b83634ca1aaef5dfdee4c8d437840f4eaccd7cc32a852c38430eef518",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 11311,
-        "title": "صاروخ باليستي يؤجل انطلاق مباراة النصر السعودي في نخبة آسيا! - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi3gRBVV95cUxPUk0xblNMb3hxUGZCS1BYamc3bHRYSG1TLWRDYTA2elczZ1pROVFGY19nY1JGVlFaVlRZUnJPZUhJRkRjWEh3eG5vLWRoTWY1TFhpYmNoN2lHbC1KR1RCcG9GRVlZc2RsMVdHZ1E1NEM4eDRFa0Z1SVZqNklfOVhyb1N4NG9mWjJlSDNnelEzOGdPV2I1TW5aOXg2RjZ1YTA5ZUhxajZyVnJfU21GcjZkVlZLVDFTWF9WeUJQMEh2Zlp6bWV6aGZCcFpNSXdNTlVfcnR5WVBrb2ZiNXFSMFhRbURNZElkbld4clJyQlNuRFdoQnB3Um9HNXNSLVFORGVjdTZvRm1aX0VVWUhGa0Eybkw4bzUwbDgzNV9jUGNVT25zazN1YUxGbkdaS1pvN3EtNk16QVVkLTdOV3hvdUFhTmdveUpFNTRFdXZkcHpZczRRRmR2cW4wU0YyTzRYVW05WVkySmJCRWhOX0dTMGYycjhZVk1Cd19hSUlKTFVzUE1TdHJZZVhoLWpyOXBVdGVkc0dnbGJiazkzMHltdGFnRGFJR2Z0LVhWQko3QnZFUVQxX1hvcUE5c2JEM3lFSTBUN1EtckpGdDNZdExwNzJIVU03TWhsbWZ1eXBVenVnR0RnVXgxSU1XNGw4MmZmUF9nMDVKVUxabDdkRzc0SGtFbUFJNWNKVHRPR092N0JXMnoyajFiZUxhMUxmQmlOYjhlRFd4b2pqeEx4OFp6MVFVd3JidlNqaU1PR1ZCdENyNFdtZkZQbjNTN0FFVlg5U1NYSm1KTEsxbzJmOVBpcVE?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 18:51:04 GMT",
-        "discovered": "2026-10-12T19:25:14.484082+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "صاروخ باليستي يؤجل انطلاق مباراة النصر السعودي في نخبة آسيا!",
-        "player": "",
-        "content_hash": "90c34873030eaa8cac1a133c95268079d33de0848b09edf08258485b8189ac07",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1448,6 +1448,22 @@
         "section": "transfers"
       },
       {
+        "id": 11497,
+        "title": "«صفقة الديزل» وانتخابات أوكرانيا... هل يحصد بوتين مكاسب جديدة؟ - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxNdGVIQ2E1aXNWWDhlRHE0R2cwTWhMdFZOdmhmMEx3Q3RTRG5vbl9RVDJQWjVjS0JjSE9SLXNCNDhfb0IwRFVaSmZ0dlJpZVNSNE13MktJT2wzelZMc3k5SmV4d2V0WHgtNDdCMVF1LUJDNEdpV2c3bU04QkI4R09vRHZfZWltZE1fcG1sczdpN3MtbmJVYjdwQm9BN2RJNTRLTXNOdi04akEtcGZUZGoyNS1zUzdqUkw4YkZwekExcjlReUgyTElDS0pDZlBneXFUSHBPNEFBTENPckRwbmttcGYtT2dxdWdBTGxZVTBsMXp2eVdCZ3ZTUjJrQ1pHV2ZDOVV3Z0VCbk01MDBJMVdlQm95RXIyWGNySmFrWm10SHZBLThRUnR1SmN0NDFHYVBkOHotU29IY1FaTHBkVTRGbm1aaFI1aUlTX2Q1VHRlSVFfSWxhX2RWbk5ITWw1SVEweU1JUDJEOHVkMDBUM2h4TzFBdk1WU1ppSkVScHdmQmw2Wk52ODhVaktwRTVlcDRwc1RkYkhPNGFpcUQxSjA3U2F2V00wSndlNFFRSl91S3Z2c3BhRlJhMFBPeTNUeTFxX2ZtZUt0Q21lR1RpUk1OQktKRHYtSWZhWHBiQVZDMmJMYVFQTFNqWlR1TzBiTlhXS3ZoTEZma0ZrNkttTlEtTUN0Zm9oeUhnbWh5WEkxMnByOXpjWjUtX294SUVQSVNteF8ybnh2TkozOUR3OHJTS0YxQy1KZw?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 14:30:48 GMT",
+        "discovered": "2026-10-13T07:06:54.625524+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "«صفقة الديزل» وانتخابات أوكرانيا... هل يحصد بوتين مكاسب جديدة؟ الشرق الأوسط",
+        "player": "",
+        "content_hash": "04408dfe86444cfb8f5cd6fcf4e9e8e1f8354a75c17f2be9a4aea94a4a74d833",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 11229,
         "title": "تعاني صعوبة الاستيقاظ في الشتاء؟.. 10 نصائح تساعدك على مغادرة السرير صباحاً - العربية",
         "url": "https://news.google.com/rss/articles/CBMiywRBVV95cUxOa0dJX3FMc2ItTTBVZ0ZsbWZkdXpEbFlDWTkwTmRmXzVSQVcyQS1iVVlhcEhYMURkemNYX0trNU8yZk5vYVE1UHU1Vk9JNi1Fa0ZRUnhpOWh6ck10WWFHSUR1WHRmTHFuNUE3Z3pCNHBGY25JZDVPTk15TmlsMUMzMXZ4TVFTRzlnRWpyck8yQnhXSlJrMElLT01VS3BMQUlMZnRvVVEyWWRQS2JYUkRxQmZFT3JMd3FGT3V1dTVVZy1yWHpWdFFEaVBlMjB0Qkc5aWVfNWRaRFlnZDhGQ1VTUzFLWVhnS25BUl9vWmtBeHY1ZWJZNkV1NzA3SG82NS03d0lMY2dvNnNZSHhDdmk2Z1JYblpRZDgzWTZkNlpqd0s5bU9fQ2Y3a3lfendELUxGMjNnSGZCbVdjSWpKRmo1NTdFT1Z4bWFjcFZndUllVUx6YXV4MVZZZ1F2RlRXSkZGaXZ4bG9UV1BqU3lVaUpZNllJZnhGbXBfbDMtbldjUWRsLVdhSkdQUWcyQllkTkhsVVozdDNxN1ZRTGNYNnpYaC0wNUowNGpRUHNBVFVsM1Q1VE9qRmpfWWRxSXhfZk9LeHBtTVBaZHpTdERfUWdtV292dFJQS2FLbDNyY0NkQlV3QzBYS1Z5VldGV3pTdGpqb3RhZ21OYWZ1OERfRFJ3MHBlNk00U1A4VUFRRWtGcFBDUjZmMDlyTF9XemRIQXYzaTVVYUZ2X3l2NWlnSllvR2s3NTktWUNIRFBpUFFHUXlIZ3J6ajRqT0QyYw?oc=5",
@@ -1622,22 +1638,6 @@
         "content_hash": "5a6f0d3d597995746212bf6c4225ef1cf84d7d94195a3ea3a740efa40ad375db",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 11114,
-        "title": "سوريا تصدر أول اعتماد مستندي منذ 14 عاما لتمويل صفقة مع السعودية - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQX3ktdFZpcnZxZE1FdUp2Sl85NFctSzlCVEJ6N3hxUG1CbEN0dUFJdThWbENHN1lMa1RZcmExSFEtemNBRFM2OUdUNVpjenJoSlpMYWR0MWJsdGdKaEF6U3Rab0JrTmxiZ2VtdGxwcDdBS3ZEVzl2cTdfOHRiNnlfT0RFdWNuN1ZlRGtuMFJsaDkwZFVWRzFNeEl3WGZhbkVRNkxkSkRRbEh3LWliRTlmU2JuMkNYa1pPQmlocVVBYjJ0YVZKSzItQVJ4QUtiT2hCcEdxaGVMUERJVEhwU2hhNzJZLVBuM0JyNjRsZy05ZmxZbnozY082X21PbE5lUlk5OFU2ZW9YYkRDdGVRcFNKTldkT1FuSnROSlJ0REpmQ2x6SlNxT214bFJLMDZUTU5ZSm9fSWpIMXNSc19oZXZCbXgxOA?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 00:23:59 GMT",
-        "discovered": "2026-10-12T06:43:38.434989+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "سوريا تصدر أول اعتماد مستندي منذ 14 عاما لتمويل صفقة مع السعودية القدس العربي",
-        "player": "",
-        "content_hash": "1a790330f7c0a8fa5d2f27389d258ba66edf24386a2fa6744bc16567d7c40628",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -1654,6 +1654,22 @@
         "summary": "اعتداءات الحوثيين تعطّل مطار الرياض العربي الجديد",
         "player": "رياض",
         "content_hash": "7cc55a123641a7493a59a74d77b379662d2d0bd7de6698e92109d93070e18032",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 11495,
+        "title": "المعارضة وأنصار \"الصراصير\" يصعدون احتجاجاتهم في نيودلهي ضد هيئة الانتخابات - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOWnlLQWs4YUFiLUhsU2JtSDcwb3VibnNRRXpJOElyYnZVUDg4VGp6NjRSODB0anBObEVEaHREZWt0YUlZYmJiS0FUUEhzTFRLMl9lMW1UUTBjNVZudnBEWUYzYVNTdWVSZTFFTUtKMzZHMnFHNlBhRm1uV1ZXZlA2SFpkUWFSdnQybXJXNUJwcDV4UC1ONFJlNm5FRlFzVWxwclN6b3lSZWJFS3NoY05xcEtmNTBuSVVKY0g0QkVNVlV4dURjZk5jdHBZdVdaYjliam1MVTlyNzJheVhvb04xdklRVkxvQllkeVFJZzMwMmtiYk1qX3RkcV9sSml1YjV1Nm9wMzJiUC1nS1V0QWJETHRmVlZOdnVkZ2gzODhxOWl0VWNscXFBMVgtblBaLTZFTVhIYjNpMmHSAb4CQVVfeXFMTm9leV9tMDJtTm5IajRNQlV6QWt3YXhEdThwbkFfUmxNcTFUZUIzMHFHZHRuNnpHSVF3M21uSEhqT1dBSVk2WHJjUFFWWUpJMWhzMjZDRlpLd1lCeHlkV3FjOUZrTm5oMFpUaENsdXNaOVNoem5ZMmVpQ2JiVy03OXdXZVBFOXNGOF9iOUU1SFYyQXR1cEVwSFF4TzQxNDdNYWpOT3l3cV9UZWY0RGx6Rm5jWTNxajRhM0NNeG9oMmV4NDVNZm1Zd09oX2hiaEtaUWpKZnN6cHYzeWhzTlZrUmNvTXRnYUMyUVg3YU10S01NX1ZNLVNUU0UwYTBIN1VDRTZ1ZUk1YldaZEh5QkoyM3Nob1VpS1UyMTI0TnkwTFVIclpqMENwalcwSUsxZThSeDgxSmgyRV9HbVgtVzZB?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 21:39:11 GMT",
+        "discovered": "2026-10-13T07:06:51.428052+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "المعارضة وأنصار \"الصراصير\" يصعدون احتجاجاتهم في نيودلهي ضد هيئة الانتخابات الجزيرة نت",
+        "player": "",
+        "content_hash": "37a68b50dda78f49f7ab2466d01b481ba1e2a47a4d512b64ec7b1abf61233315",
         "sent": 0,
         "section": "middle_east"
       },
@@ -1974,22 +1990,6 @@
         "summary": "أرض الصومال بقلب حسابات القرن الإفريقي.. حوار مع وزير الخارجية سكاي نيوز عربية",
         "player": "",
         "content_hash": "f5a9e0fea7af27d69c15ba14af0c469fd2b61b5c2fe67787e4fa141862dedef3",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 11088,
-        "title": "استهداف حوثي متكرر لمطار الرياض - العربي الجديد",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYklqT2xMSzE3b0pXbGd3RXdHdFBoYUllUjhSb0U1LTRaUjE3QTZCUVJWNHB5eFJ2VU5zdUxFOXFmSkVFekt0S3c1Y3E2M29CYnRuSDRNYmZJSVFQaTFndFNxRHFYeUpYTF9OMU52SDFNVmg3eFctMjNDQ0J6S01qVEtuLTRRaTdmcm5RRFNtNFpkT1k?oc=5",
-        "source": "العربي الجديد",
-        "trust": "B",
-        "published": "Mon, 12 Oct 2026 01:00:18 GMT",
-        "discovered": "2026-10-12T01:22:53.171923+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "استهداف حوثي متكرر لمطار الرياض العربي الجديد",
-        "player": "رياض",
-        "content_hash": "6fe81e98014c96a0e17875850dd859fc157b4c49df7d30562869624bf173c38c",
         "sent": 0,
         "section": "middle_east"
       }
