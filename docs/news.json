@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T09:54:18.868748+00:00",
+  "updated": "2026-10-13T10:08:56.179835+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -16,6 +16,22 @@
         "summary": "ملك إسبانيا في سبتة... خطوة حساسة تختبر العلاقات مع الرباط بعد أزمة الهجرة France 24",
         "player": "",
         "content_hash": "b2db5f634561a5298ad063e6f98df7a43bcb23e221ab719b09efecfcee14687b",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 11521,
+        "title": "المغرب: أربعة أحزاب تتفق على تشكيل حكومة ائتلافية برئاسة فاطمة الزهراء المنصوري - France 24",
+        "url": "https://news.google.com/rss/articles/CBMizgZBVV95cUxNcEp2bFUzSWpHejhyaFdPY3hBVkNfR0x4OHhLcGM3N0s4eFFKengwSXFocDFDNWZzSDVZaVhRWjVrUllKZlpNeTVjOGNJSmNoQVY0dnJBeWZtZW9xcFI4UDNILXVFSDBFajcyd19pYVBkN2FHQkxWenY4MW4wVDlDbEREeEx0WVNqQUZEaWNQbVdXSGpRUklaX01PUVV2R0VvVFJ0VHBGRXdOZnAyODBBeGk2QkhCNVFBLW1STlJJQzFLTV9tV21CeW1kbFY1MkdXbVZDYTY1dGJFcV9aN1B5SjlZS3VEUUtMRW54dmxIS2RDTlphZk02UEw4WE5IaGxaaTdtcjdJRFZQdEE2dE5CQ3VpM1cySTZaWFZXb1d6RGpPc1B1M1JDS1FLSUlvNWtVNlI1YTJtcDFCd0M3cC1LbFZNTDR1Qmh3aEoyYm9sVHl3dlFDWElVVDdzMWFBRURKUjFOMngtNnlBbWx1T05PeGxvb0RMWHFpREtQRXZwckhvc0RoT1oybV9BZ040cVRSaFRrcTllbm1IVGJmeGJOVGFYaTFMNXBGZ1FPMWxra081MDNPNGVPWHBCT2g3OEIxSmtOSER4cDcxVW1XMjZxS1EtUlpmMkY0a0tzbzVVQnBEM0E3eVR3amtoZmFGNlVlcGtPZEgtT3dHdFRIdU5qMmYwZ2tnYTVBeEVaOWIwcVFWdWhONWdJTWNvRXNiTE1Vc3k4YTZiY2p5Tk1meS1qNmJiaHpVcFJSeXhYRnVybjNZQ3J0ZFc5TkFlNEk4NHMzSEk5bnc4ZC1GWlhVR3M3RlVGc1o0c29sNWlWcmppbmtMaWU4eVhzUkRvTmhDMVEzX0tuOFFHQUtvUnRtcW5UbGpHY2poS2N6bG9YalN5czdqeld4bHF2ZThrQS13bWttT2RwY3VKZlRMeGlLYUFXams3N0kyUzNXRjVhTWR0djVrWlVhcjJCNTgyRTJjRTFIVnRoNlpBcl9VNy1PMGktQ2lha3M5ZG5tTjA0a19xci1McFZidTFqME43ZkM4WjVLRFkzWXNRcTBVcUhGN0lKNTRwNE16UXM3NGJ0dlAyQXNUSEZ1a1FWNGVVNEY2OXFlZFYzeWs4dF9fZmdEQWc?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Tue, 13 Oct 2026 00:35:36 GMT",
+        "discovered": "2026-10-13T10:08:51.735818+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "المغرب: أربعة أحزاب تتفق على تشكيل حكومة ائتلافية برئاسة فاطمة الزهراء المنصوري France 24",
+        "player": "",
+        "content_hash": "044240db8318c0e4a7ea39e077c916daad26c8502735d042122c73da916ced01",
         "sent": 0,
         "section": "morocco"
       },
@@ -2392,22 +2408,6 @@
         "summary": "مقتل شخص وإصابة آخرين في هجوم جديد للحوثيين على مطار الرياض ومواقع أخرى في المملكة DW.com",
         "player": "رياض",
         "content_hash": "b97647b065bac7de463684739a9fa94b1d54ce0e86ea34990a9b121b9c1e30d0",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 11146,
-        "title": "أجواء الرياض خالية من الطائرات وإيران تبدي استعدادها للتوسط بين الحوثيين والسعودية - dw.com",
-        "url": "https://news.google.com/rss/articles/CBMi-gZBVV95cUxPLTdrNkdYYnI2amlKOXJjOXp2ZkUwSFFpX2oxMy1tUmlxMk9mQVo3X1lsbUsyN3h6eTRMaDFVLTE5TXo5dnlIX1VSRHpKVVhtanF5cTV5R21VbS10OTVYRkxodndzR3BZbHdHUktZMmtaeW9LVXh5Z1NHaU45dnNfT3lsRXlBOGxKRVVjRDZnTVcxd0hpc2VmZTRRY2tsQ2tmazVYZkZUOHZtOTRLdnpYZ2JJQ1BTSDRXLUZmdlU5T3hfVE5KS1NHaTNmOUJJbURJWDdQalEybzIwYk12aUVISnRmZXhfRHFiMVpVbDFMdVFsbU5WdE9wazBXV2lfZGo2S0tiajA1U0R0cS0yTkxLQURyLVNTOFhBY2Q3bEszNXBoQ2dNVGt5T0ktSWhnb2YtYTR5cFFtOVZZQ2N6SlFBdS1mbEpUZVlvLVBEVXE1RnA3ektLRU5EWDdGTFplemdhZkNMM3dCRUZOajJsMHQ1cEh3RWRNemRJc2RGMmpzMHo4dFRHcjVWRlNRcllUUHdwUndQcERjSUQ4Y3MyRG5PazJvMTJQd0ZMdGN0TGNyTzRQb09JU1JyTzZDcF82WkFHT0VaWHJjZXo3bFk5ODYxdEVoZUFZVllKeXN3bGVhZGM4NTR0SFNkbGpEd3RkZ0dKVXZaR1E0MFZpNVlQYjNnVnNSbFVrbS1DcU9oamdiYlVuVkZTZEE2MmFZNXpUUmdZUUs5RUJqN2tDQVZxbUVKaGRSTkNDRW9iX0JRNW5ibzU2RjFodHRQYlFpSUZjbXlnZ3R0cjNvZUNyRVU1RnliUVRQR0xaYTJTUXppaC1oZmZIUlEtTkh0VzlKb0dLdDgxM0hsUi1pcGpkZWpEbjBqNDRxZDhKZ210d2N2S3Z2SnUxQ0pNR0sxdkxOVTFZOW0wTFpvVXdLblBCVjJvUFhZQUVwbjNDWUZ2YkpqZWkxRFhnM2J1TWpZTEFrUDcxNWVvc2xoeTJia1UxbWgzUXhVMUowZHBIaC1tVEdPeE1vbm45d2pyTGJuN2FhRkZwTEtLbGgwRFlYOFdMVWxYcWhDQ0M1TkdzY0ppNkhqNFJxWVFsZ0ROb09fMjRLalY3aXlSMVpxTnpXZGNCR08zdU1FX1pVQ1hKMHQzVjd4TkFCdDFmbWtncWVoQ3V4Q3ozNGNFMjBLd2lxREhqdw?oc=5",
-        "source": "DW عربية",
-        "trust": "B",
-        "published": "Mon, 12 Oct 2026 06:26:11 GMT",
-        "discovered": "2026-10-12T10:28:14.841595+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "أجواء الرياض خالية من الطائرات وإيران تبدي استعدادها للتوسط بين الحوثيين والسعودية dw.com",
-        "player": "رياض",
-        "content_hash": "00321564321ad1508ab8cdea62c385a65dc6724e71fa45d20ac7f26ffb0a3b14",
         "sent": 0,
         "section": "world_arabic"
       }
