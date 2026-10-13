@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T04:35:00.705582+00:00",
+  "updated": "2026-10-13T04:57:11.824890+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1272,6 +1272,22 @@
     ],
     "transfers": [
       {
+        "id": 11468,
+        "title": "ترمب يتوقع نهاية حرب إيران ويقرّ باحتمال المبالغة في استهداف قادتها - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQRWxpN0hBOWdEZnU1bENsbGEzRTAtSTYwU3ducTR6VlBNSGh3ZkFiMnA0WUVxR2tqUERES0xDdkFFZHNiaVhOZ0x2cW5Rd0wwMFZaRlJNNnNQeUhuaUlZbm42VUVxVmZBcEM5dFFiSHA2M095c3htYnFSUk1qdzVESWVWNUpEVXY4dVhLZTdQd2NSbEpZN2pzTm1sc0Uxa2owaHdpdHhZTy10ZWJqLVNzLTRTWkRRWHh2YlJjRVVTWV9PeDFnNWQ3YXZKazZIby1pNldWWVJ6dEt2cFJKOFhDVXdrNXp6a2xTdkhDcTVzcjloSjhiSWd6N1RISzFKWVI3cktIV1hPUzRfYzA2SjVBZ0RZSVAyQXpnMmVyZXdRbFRrVUJMWHh5LXdEQdIBsAJBVV95cUxNRTlWTDZ2OFV5OWJHMFlIMjJOdDFTelgzc3EwQlM0VGJGek8yRnhtRzdlcWZsb0p3ZUlKSHJLU2JOQ2s2dG13WmF4RXVjT2JHVUk4X042RFBSZDFsME95TkpyelVia3JYQkJfMHVxdDFvUGlhYXZhTV9YY1ZQU1FxcHJyV0FiNjVkMjBJWHlHa1pEU0FwZnNMaGVnalI1YktkSlZfVFE1ZjBxNWZsMUNBUGxkUENNRmg0UXRZRjVxMDFnU2hGbHlVYkJLa3hPcDl5bWk2Z0Q5UG5pMmFEeDRKX0lXdHo0c2VrYU5QQzJxS2FKNEVOVEdvbmJ5OWljUW1aaWJwb21rM21KMnV6SmRLd05rVGs2UFg2R2U2SElzZlJKZU5aY0RySjR1MHNMQ3BW?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Tue, 13 Oct 2026 03:34:03 GMT",
+        "discovered": "2026-10-13T04:57:00.820700+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "ترمب يتوقع نهاية حرب إيران ويقرّ باحتمال المبالغة في استهداف قادتها الجزيرة نت",
+        "player": "",
+        "content_hash": "6fb0fdd4479c138b11b82b5d12ad89a3c10356b3c84900080f61252d902468c0",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 11461,
         "title": "الاتحاد الأوروبي يفتح فصلاً جديداً في مفاوضات انضمام أوكرانيا إليه - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxQckI0VXZZYzhlZmxHZ2dBTXVlX0hpejVkQmlHb0pYZGhRQjZ5aEtiSGRxeDNFQ2dYYkVMZ2lCQ24yTjI3YVdNSWxYSXBVNXQ4M1Nuam1IQm44UFhaSFFqRE1CT2RnZDNPdmVvZTRSTzBrbXE2cmpQRV9RUFZ6Z253UnQ5Ry1teFlsVURDeS1EYUEtVnhmaXUwRW1uV3hhMTlILTc3bzk2RlJDLVgwX0VHUjNPUTZoRHAzRmkxU2cxV0lyX0Ftb3Vab2ZwMWxKXzNuRUw1QWZkdS1MMzlPcFp4aW1Pd3d6a3BRSktWdzRXa05WM2Q3UVJVRnR4LUxwanhfVUp5ZS1DUHZlQzU2Z3M0R1VoZnBsNmtfZGVjT3lZcmN3WHJtTFhnd2ZfcVM3VHN6cWVUVmJBd0E1QllHd3ZPSFZxU1VDOVd1S1pjdDVEZVktSzY4RTBzalBKdlZ6TGhhc0lBSmlZMHJIMTJOUG5laUZZeHpyUGlaeEFUU3FCNjBpVFpoeG1HMm10M2dNZXlMWGRnUjBHTGFpTkJGWS1YNDByS1JTWEZQODNIbm1BUHZpMklUTExlU2xFdm9KTE9CUnYydmhES21PYUREUzJac2R3SDAyU3dZVXk1dEs0YW1SMVY5bi1IZDB5ZERLbFUxNDVGMzRFR2xxSXg4MllVSWpPMk56M2RYWGlzcm5jN1h6RFFkbkZvX3R2eWRkMUFOLUlMMjlPZmI2RkZ1Q3ZCUDN3TEU2WERYbHAzcTJkQU1BTXBvMnlTMWtEYnBXYWlDV0UzUFZuUkZacFdyQmM5UzVMRG0weDVmWDZvRWQ1cUstdnlWdTVN?oc=5",
@@ -1990,22 +2006,6 @@
         "summary": "اعتراض وتدمير «كروز» و«باليستي» في الرياض والخرج الشرق الأوسط",
         "player": "رياض",
         "content_hash": "96e7009497a06345f1b4d4f6c235171267bbf2acb84b33dec9d98ecd74bcfa7a",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 11119,
-        "title": "الانتخابات الفلسطينية... تأجيلٌ أم إلغاء؟ - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNZHdrQ011SldpN3JNcVQzUVA1bXl3Um1kRU51ZTZuM2RDRk8xWWI1dWJyNVp5MmliUmRqbDRxZ1J3Q2VCaUxzT0RZNGNzaVJDUXhaaE9iT0R3OW9ZdzdpZ3ZCTXU0YnBXc3d5OGg2NlZUUDJmckl3M19RR0RrT3JpY3NQQk5aNVdJTThjSzlCTFVkbjhxaEdFSWo1M2dnUkJJaHFtaklIMHRnOVZhcUpZYkVVcWFOTjZ4TzZYY01WbDBhdzZIWm9vRDJzTmo4b2FNUkNoQXJIajhJQ0ROUmJyRkNaOTUweWNCdUNSOVZOaXN5RG5FTGVmeFpTZTdaeHQwNHpULUVBNEU3b0tvalg0Z3lPcWh0eGNpTF96MVUtLWR2U01SWUl2YnQ2dmNHWXhkcDdFVHJabGVwZXRrakdSeFFsSkVwd3dnYjZ0SHZ3NWpxbnpyeTlYaDJlWThQMmFSbVRxTG5uOGFwT1FDNWRDak1RTEJleFkzd3N1TU5xOA?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Sun, 11 Oct 2026 22:35:54 GMT",
-        "discovered": "2026-10-12T07:10:42.245030+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "الانتخابات الفلسطينية... تأجيلٌ أم إلغاء؟ الشرق الأوسط",
-        "player": "",
-        "content_hash": "113bfb8e451bc163a80e8ddc6f391052f049fe4e15a24ccaf8c12a80592bdb6a",
         "sent": 0,
         "section": "middle_east"
       }
