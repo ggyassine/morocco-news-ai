@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T02:16:40.130208+00:00",
+  "updated": "2026-10-13T02:39:45.403930+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -485,6 +485,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 11451,
+        "title": "مباراة فالنسيا ضد ريال مدريد : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNekV4VHJfM2pZN3IzRHd1b0NIV05YUmpIODQzbXk1ampfbC1ZWWdzMW5paDFzSHBXRTJIVFRCVDV6Q3JmcDBvaG5QQU5kaWl2cE9tbl9fR2p0ZVhwWTU3NGVXTk5GcklILTM4VDlIZndxTW5FS2F6dEV5WGpiN0gta1ZDNzRiNTBhSlI3al9JeUJONjR2RTYzRzdLaXJyWkk0bldaTk5IN0FiTVlBSUxxNWh3Rmt0d18xd2lMc0FUTjU5UUJJd2Z1RUU0U281V0xSa2kyRlVtcGRZeDMxNDY5RlFhX0xFdW5SVVlzX1FPUUU1TTFBRTkxdmVlNWszSzhuejlfUGpwS3MxY0gtY19aZWl2cUFSd1hSVWZKLU5Fd3pwX2dNY184RGtuQXR5NGFoZW9oS1N4ZGdiMzc5NUdQZ1NB?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 01:29:42 GMT",
+        "discovered": "2026-10-13T02:39:20.651137+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مباراة فالنسيا ضد ريال مدريد : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin winwin.com",
+        "player": "",
+        "content_hash": "97b89d5e7985283a0969e80b14ebede4b83fc6a5006f3b27cc1225c5be5d4ab6",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11437,
         "title": "جدول مباريات اليوم - 13 أكتوبر 2026 - FilGoal",
@@ -1266,22 +1282,6 @@
         "summary": "مدرب القادسية: كان بإمكاننا إدارة المباراة بشكل أفضل... الأهم لم نخسر الشرق الأوسط",
         "player": "",
         "content_hash": "9015e18cf0e3858d0718d3a0173f489dac4d7446eeec6174c58b275236c15093",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11292,
-        "title": "فيديو: ترينكاو يرتدي ثوب رياض محرز مع الأهلي السعودي - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxPOGdJOEkwUkc3REVxWnF6WEZJU0U5Y0FLci1qSjRXdTJleEh2cmtSa1FpcVZPOUhCQnlmc0drWWxCUGxEdEZ4Y2pPS0NKc3JtYXVuU2o3V05nbDJUUVhVbzVoR0RxZThJSWhFcE84N205SkZSdVJFMnlwS2NGVVBDQmkyeXE5clI0RGJtM0piLWZpdkNZcWtSc1pvS0hQNDg2eW0zSGlNY2xUQTY0TWFGRkwxNW1rYng4dmpXWmlWaGpUOWpwdnowNEdaOFlmMTY1emF0TWNadVhTQnZCZzJGQXYxN0tqcDFZM29fRFpGUVpiZHRreEd4MWRGV0toeENlYlBHQzhjN0M3MHdORnY2WnhmYkdNaHJGaVBjS0xVcmlacHFMT19vRnBmUDZ2Vmc3cU96TWN4LW5UeFYyXzh6VVZmckdSd0RncGxyNXM2YnQzeC1iZVZrUklEdEtfOXZpMTI2Rm4wN25tNWRCOEV5TGdFS3pJUWMxUHc5VE5KRWRBWjlwbkZaU3BPOExTX3B1MFQzZUU1UElWM1NTOGNvRmwtRGFaSjJfUkZVRHZXQnlheGVuN3lvamdfdU1KTnNoWjdLeTFUd1pOWUtUVmh3dUNqMzdLbDhDNDBMTXdYSFhjQVFJQmFJVkZsRWVIWHc5eW1GSmhXZVh1cUJnc09NbXJUT2QwT1VLWjA0TngzLXdPT2JZTlZJNmh3TS0?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 17:38:24 GMT",
-        "discovered": "2026-10-12T18:51:06.429456+00:00",
-        "category": "أخبار",
-        "status": "غير واضح",
-        "summary": "فيديو: ترينكاو يرتدي ثوب رياض محرز مع الأهلي السعودي Kooora",
-        "player": "رياض",
-        "content_hash": "1975c7010100762db2c9660f74c235d20b04f58e00722e33e7484ca2afca0016",
         "sent": 0,
         "section": "sports"
       }
