@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T16:29:06.128817+00:00",
+  "updated": "2026-10-13T16:50:42.155666+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -144,6 +144,22 @@
         "summary": "مخاض تشكيل الحكومة بالمغرب تحت مجهر الصحافة الدولية: رهانات الأغلبية وتحديات التنمية\" Febrayer",
         "player": "",
         "content_hash": "0467127158e3263e89db5e084b244c0965f2dd5afc01eec433eafdacc7e11f02",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 11625,
+        "title": "جان مسيحة: فرنسا تواجه الموت.. والمغاربة يستبدلون شعب فرنسا - سكاي نيوز عربية",
+        "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxQelg2cER2dVFDUjJHSTF5Mk9FNEJ5dnBiOTA5MFpGRHVsTG1JamVvT2ZPMW5CZ184c3hVSFBWQ2RqVmNUOGJ5WDFwaE1TZmlHTjh5RzQtOUctdlluQmk4RmtNRXp0cmxjODBwVVh2RjRMSjh3MmNGQTlWOFBBUHB1U2lzVmhtTTJLSFdrRTN0UzlPT3kyWC1nVGZLSFM5RWdZWlhLSzJsU1Vpd1MwVElUMHhCWmw4REEwdEZDclMtNWFxSENCWWowSHZuMUFxcVZYblJwM0k1ai1pSHZGSUQ5NkxCRUs5Rms3M3A0LWdNZEdyVDk4S1p0bUFEUXItUkRiNEdWaEJ2c21JdFV3WVUwbzhtT2Z5azlfSm9TT0EweDFRV0FMTkw0cXAybHd2WnN0RjlzRWZUdk1HMEcyRUJfUXpQVTJEYU9sV056OUZMQUVoUGZqeHJuaHJaY0ZrSW5MMHpHODZTQjhqUnR6UngtRXdIOVNZWV9GdjV2QUlXRVNJbThMMXZNRUZWYl9Ibk5xdGI5Rmo1eTVaS0FjTHhsRFdkcVkxeXBlX18wYUl2ZnRNcTNYaGdxdlpWWlNSNGtxbWlscS12RldReXZfT056RVBDcUVnWFluNmplR05HbVZUQUJwVmJpVU9XNXd0QkhwRU9IZkdlZzhiY3RVOFE?oc=5",
+        "source": "سكاي نيوز عربية",
+        "trust": "B",
+        "published": "Tue, 13 Oct 2026 06:32:41 GMT",
+        "discovered": "2026-10-13T16:50:34.118037+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "جان مسيحة: فرنسا تواجه الموت.. والمغاربة يستبدلون شعب فرنسا سكاي نيوز عربية",
+        "player": "",
+        "content_hash": "20624961403bccb4bb8d898bb2608a810c0513cbc18de4cc69e471e5fbc2f322",
         "sent": 0,
         "section": "morocco"
       },
@@ -629,6 +645,54 @@
       }
     ],
     "sports": [
+      {
+        "id": 11623,
+        "title": "موعد مباراة الأهلي والزمالك في نهائي بطولة أفريقيا لكرة اليد - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxQbm1ocHhFY21ZRUFVNXQzTmxNbElVdXBScGhxSkpCdFhuLVY5UnBNYUFPLUtwYkp1dl9sMDZWTjg5Yl9XNERtTHZmRTZmdVhOSTlPblI4V1B2c0NDVmtnNVYtMGQ0WEp5VWc1MExNUDdHTWRQeUFTeGVaWHB1TS1HV3Myb2d0UGV0enN3TU43V2dvTmRnYjNraGI4M0YybldEUmVTYVZyX01vbkthWnlRaGhnYldiT2ptb2tnZnQ0WGNrb25STlRjYldlT1MzN0g3bkg2QUg0QnNtMmVwR081d3VzbWw2WnhOdG0xMGZjZkZONVlET2dTeS1HT3VvRFJ2SlMwODlwWVlDU3owTmtqajFfX1dZU2xzRzlBUS02YzgxQkE3VDY2aVdEMkdKTTJMcmdBQ1JtZko5bnpSYi1mTG9xbkdrd2UweXVUd2Y1R3NlaWh6cmVlZHBhNHF3Q3FKcGk3R3pBaEFHcnRnOGthVFhKdXdQak1vdjZOM0Z6UDVia2F1RGZTRFdUdWxJQWFpaU9UaHZSUUs1V1Q5Qm50VmtmZVpwcUlwRzljX0pSMmJUMFpYTFFQY1BpQTFFQWdxaFV2MnllaGZaSzJ5LWFZTzBCM1B6T3o0MlhsWjdkTmN1NHItNGdjNmxoZXhtbDUta2tlcW5Uel95YzBWSkNjYjlJblpsMHNZMmVzSm04b3V2Ry15QzN2NTVHUzY2cGFsa0c3TFZjWdIBrARBVV95cUxQTE5lbXBEV2JJSkFfQWVKLTZkMm1zOEVWaGRSLWl5c0tKTVZ2bXJwNlhYTk90enZmOVJqVFJkd3JPdkJuTzk2WmlBWHVwbXRTOC1VMGlNRzZ6LVdSN0R2VVRjY3o4V0F3NWxYYU1HUXJXcUdiTzR4OW1YUlhHRWxGMnQxZU1PelQyeFpEVnR6blpMOHBSRkJYb1h0WVVLbGh1ZVJ5OVNNV1luOHR6MXBIX0RVZmJWdURIS2o0M0hxNlAwTnMzOTlvWHNwYncyVXJ0ZEluem5SbXlMZnpWRWpwQS1CUEFqQkFqVVJjLXdJTWpocHlwc0ZISzRFbWhWVFREcHRRODZLY0RwcjduRTNhaDZEaG5YNWxBNnpsUGR6eFY2bmp2YTNXQmNwamVUTGhYLUFGQzhjM0ZTX05lbE1XWlMwRmR5SWd2dGdQdTJyUE5vTWpEXzlaRjF3dGFUWm1wUEd4VFlEeV9vVmZjX01pRDA4QjZLQzlLeTB4QmVydEgxRzQtRjV2dWFkRXl5YktYT0hhS19LV2lmc0lLWkt2ZEg2eEVRd3NNUG11RklwdWhBRHFIZnlWRUZLUWpWcUlOVTVzWmtaVTNwOWsydmwtbjZyejVoYnNROVJmWVAyc2xHSzlTOThEV2ctQXRKSWZPQ3ljeWxmSnR0aHFyaHh4dnp0RU43RWRhb3JZVDUwYldTWVhNbjhraWgyeUNHVzN2Vmg4Zjk5R2VnM0Y4?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 16:29:00 GMT",
+        "discovered": "2026-10-13T16:50:24.442255+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "موعد مباراة الأهلي والزمالك في نهائي بطولة أفريقيا لكرة اليد يلاكورة",
+        "player": "",
+        "content_hash": "5202be585dba3e0f080de8c343c9980cd241dcae94d2a2d8e0d98ab127dbafad",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11622,
+        "title": "بالفوز على بطل أنجولا.. الزمالك يتأهل لنهائي أفريقيا للأندية لكرة اليد - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxQdG9PcnJJeFp6cXVmWDctTEZYYUVPN21HTEN5UjFvZF9XdFhzdjlQaGpyN0wtYVNmN0ZUdW1TWGJzMWNBOHVWeFFMMThIaXlKQ3p2WXdjM2xsN3pYdHlTbFVvNlBBeVdGazY5d0U3ZUtSUlZXZ2VLT3FYY1EwUTVoWkxnNUlTMjZfV2g1VWRueVlRd0tnazhkWWtfYkI4Z3pMWkNHS3JjUW5DZE9oVkxxdENVRnF5Z3ViY1ZKTHY0bFNfVnI5TDNVb1ppSERaUDJzaVdUZksxdjVZcFllMEFITE9DR09kekdqODIzV2h6UlkwVk1MN1ljR3pDZ2dEU3RESUVoWVRWMW9YN1Bocms5bEtXendoOFhsOHZ4UWJTOVlxT1BVVjJEbkRTWS1Ea0t6RjZuZ3ljOGpvOXdxaXE5RVlzY2prdzlzQ0R1Q0NLRkNndXJxd1U4TGlpZU9zWjZveDFUWVI0R0ZYVHpYcHRsT01qbi1OQ3lQaV9WX1dLN1pjZGljSTlVblV1SDJIR0VNX3UxSlg3a2hzczVlWnFpT2ZXX2g4amhYU2NkS19JcWJoZ0lyMkJGclFyMHpDSWZnb0pCc0luY0o3YVdDQWRTNjVpWEpTM3Zqa1h2ZTllRm9SMl9BS2hZaTFLWE5aejBOV29ybGlMRjNJQUFsQXZFTk5jQWNIenlRbDV0NTZic3hZZ0pJSVluT3NWUDExYThtRnd5NFFpLW1aN2h1Uk5YejJvRzA2VmRvdVZwQW5UUDlPWVFRQWM5aVN0cWRWdUlwVVhGXzU4alctWGI1REU3TdIB5gRBVV95cUxNYVU0RGZSbHRwMjk2bDM1RnE0U2hITjlfZkFVRUdkNGo3QXRkbG9XcERENFY3Z0pDR2ZnN0lSYWF2MWxlY0daRVBBekxJUlNIOTF0dGhXRWoxNEYwcGZON045SGNBMnFZdTZKamV0WEU5RHpyNHF2MGRaZFdqcWFwNHJtVHAtN05rY2NLaWRpbXhjV29ZLWp3R05PQU4zWjgtNGdwQThxbUVxbGs4d2IydW1RR1N6bVA1STVmb0NZeXRXN0NGV3Fkeml4aHBqTU5ZaGdjVm5Wd1ZVRU5zdUJTQy00NlZVYVpGWmdRUVF4NFJTRnRJeUN0ZzlYNXBQbHo5ZFRUZldlbzdEZEpnaXVNTV96djMyOURmTVpCTFVFNTFRVmJJU3QtX01hbDFKdTAwd3BFOHJWd0VuUUFiWmdqdmRjdlNfeXh3aTQtUnNhN25LaHFxY2ttc2MtbjVzR3h3Rjc1Z1BFQUhva3VkZGtCTTNZdmRNRmUxQlJqRTlyUlg1YVVyZElhR0oxRGN4cEU2a2xSVU85SDBOTHE1UjNUTHhUUjdEUnFqQW5VNFAwLUM5Y281RExvc3g4LXM0RG5JeFNSRTFhMk11NGJveWJFbnNwZF9VN0xieTdla0QtLUh0dk1yeHB6UmVPRy15UG1mNlV1VUlrdWJRWGdGT1ZuZzlVRkJUSW5lR2M0VmFYT3ItTG5VWmhHajhHTGJLRW9ndHdSTEVqMDRSN3dOUktxVWktRWs2WUMwbGZ4Sm94VE9XeWlrcjN4V0JZYXR4bFFBWEpFQTVyZ2ZVbnVDcnBTMUhURnh0dw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 16:25:00 GMT",
+        "discovered": "2026-10-13T16:50:24.247085+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بالفوز على بطل أنجولا.. الزمالك يتأهل لنهائي أفريقيا للأندية لكرة اليد يلاكورة",
+        "player": "",
+        "content_hash": "650318c8749eec543cf9b9f9323f5f5cf6e508d4730bf3f1b5f06aca903480cb",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11624,
+        "title": "طرد وضربة ضائعة وهدف برازيلي.. البنك الأهلي يتخطى طلائع الجيش بثلاثية نظيفة - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxOcUtTQlNhcFo4Q1pkVW40dk1fMTBYZlpZSDlBQnZreENFdFdRVzdvbkw1TVJLdDRuaWtWb25aVHctRGJJWldoNVRrbnhjSmZ6TTlqNk5ZNFRYVENrdGUzWG40ckg0d0owS3ByZmo2RlVmQXRmUDNHOERHMmpqc2pyVzNjTEh1RFFiOXVldkh3ZU9qWVpUYUpDR2owSEZkaG9FS3NVT0VabnFreHJFN3Y4V1B3WnZkWExuaHF1TEF2aEdWRmdfNl9qdmtNX1cwSTBTRUI1TG5EN2VFcllBTGY4dDZETXhqTVdzYlQxQXllUEVNZ1lkQ3FxcjdrX1o3b3gtUkp3MXZiTVZUY1JqdGxXNFhwVUJ6dkFZWkNsdjBBSWtQak5CWGNKVDJhSDlRUWQyTHZfVUgzdkpncEZtOENteDFCcXA1N2hDTThzNUh3VXE5S1YzMndBeXFBblZJZVVLMTh3T2pyZnNPZ1B6M2VGLWk1LVFER2d2dmE5akdhZkF6ZFotQzhueFZITkMwSVloR3NnTUxqU1hvUG0yTUZELXhicjNwd2ZBbnhIUm9pc1Nia0Y2SjlOQVVsNkVDanNLbGRfZGhfc2lPOFphYklhYV93MUEzQ0xzTDJwNFdmdmJhX2hvMUdPRGVKQUhGVXI5N2hEclBvRnU5ZkFQQ0Rmc01ILXVzVTJzenY2MDdob0RzWFpzRXp1NjFGN1Raa1dWbVRCUHdOMW9hWXpzQWZ4azhkY1RHNkJIYWVDNkxhU0hfSHF3cjBBZWl1WWoxbVhP0gHWBEFVX3lxTE5QTUdSemJONmdXQzhReWNDbjNOYWEyd19nZWhacEdDRVN6RThrWTY5aHgxRWNGN3JoLWY3MUtmTGNBTWt5eUhNVE0tMDNvRE9MVlpzOWU3dHFTTGpkZVhnUUhtMWdYaUw1cHk2ZHExYm5Ja0IxcjJnS1p5dW5qbEhyX1JLVlBCRHZWcHlxWjBQNWhuekZmOTE2cVY0TnlaM0hLeHdWX25sY19saDl0c2w2MEFia25zVUVJOGF5WHhibjUzZmc1bXBScFZrQjN2Z3IxODZibGVXNzlPMFd4Q2FGazdfSnNZTDN5V2FxVnF6Q3Q5X2Vsa1hDRWtxTHhZaXk5a1RDcGpMVFotM0l0QWwzdzJtWW5FcVVJWGN3RmVNaTRmcXNwRXBNRHEtSDZPdUV1Q2VrRG5iRHRhZVZiMEl5TkFsZ1hzcmlEMUxSako5NjREOTljeDN4dlNHTlpWNFVGampxajRoZGJkbl9CeGxkVDI5eVg1cmpnN0R1cExYeFVENnJMaDhINXc3RnZqa1NLSnpGTFd1NHFBaWgzSEt5V3FfQVA3NHM2M3lBVUxabDd4VGdqS0hVbDFhNnREOU03M1d4Zk9PNEVSZ0IxM1dndzZNMmZOcXdjOW5WbXRGcVBUUkZ4R203S0hzaXNRb1VmTVVxejJCa2dGMXNZd1AxaFBnaGNtNU0xa1JZc0JBOFFzZ3FIaEJCWkppTUtlNWhFSmhWSXBhWC1sUGoxYUpDTUwyVkpNYm1UYzVKNjJILWo4WnZlQlZva19KSmc4NEx2UFBLaGc?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 16:17:00 GMT",
+        "discovered": "2026-10-13T16:50:25.098101+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "طرد وضربة ضائعة وهدف برازيلي.. البنك الأهلي يتخطى طلائع الجيش بثلاثية نظيفة FilGoal",
+        "player": "",
+        "content_hash": "a8e4c808836c9dc67b8b659db0bd600be1ab222e84514c9c7a2089ab34899afb",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11615,
         "title": "الشيبي: طوينا صفحة الدوري.. ولدينا هدف واحد أمام المريخ - يلاكورة",
@@ -1380,54 +1444,6 @@
         "content_hash": "727d3e0539c1552f19bc659819bbf01391ec74fce5c76f2134e313b8918172d9",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 11457,
-        "title": "مباراة بني ياس ضد شباب الأهلى دبي : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQNlhQNjFJVXRtQ1M2RGJrQzdibm1YNVJ5ZEhhODJBbjAzVkR5dEEwNC03TzJRYmhRTmdPQkpDSnJSY19FODNGbnJWYVdvaWlrN3BKV1pJSzBqSDkzZTE2c2xlR2EtU2xyQ1gtOHdDRVJNMWlENVFXYlAyTVM5NFlHQWFlMmpZSk1UeHVWMzhIQkFRVVNiMnRQR0sxS2lYeGdNajBsQkFqVTlxM2w3WUZzaldhcFJCMTJZZ0g2UmthT0RTdWtXa3JXVHp5VUg3MUUtUWNPM2hLU2YxM3BqbU9DcmgwVHZRQlVnV0x3UTIzUWMzc3pfMEEzbHRXZ09XdFBiV3lOcVRDbWdwMFBYQjdySm80cW4tNzRrVEw2TWlTclJjZUt5WkM2QzZKUnpPOTlDUm9Icmxqam04cVVHUXJYbjZ0VkpMTTJiVU1vR0VFQ2c4VkwxbFV0Z0lxOWU?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Tue, 13 Oct 2026 01:48:46 GMT",
-        "discovered": "2026-10-13T03:34:21.236016+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباراة بني ياس ضد شباب الأهلى دبي : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin winwin.com",
-        "player": "",
-        "content_hash": "3501cc22b1ab0161d303b817f9e9014127b53be4b71e7946d7ef3533acfc68ff",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11466,
-        "title": "هل تنقذ أموال ماسك ومناورات ترمب الجمهوريين من انتكاسة انتخابية؟ - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOaktKUjQ2SXl6dXpjZk5rQkZJUnBncl9nOGYyaHp1clR6LV8wMmR3WVZuUXpVZVJuNC1yZlJqYTZQdnc5cGRtSW9nTG5LZnE3OU5NOGRHWTZOR2dHdV8wcXgzNEkyMC15QjJoRlBPcVQ5Z2JFdVRwWlJ6OVRfOFpyVHFBUTZUemNWMGJ2eEY4NTZRcUxoM0w0clZOT3Z2OGFhWEVFT0M4T01USG0zaTlWd3NXbW04ek1pRVhQNDV6RWZjUXBTaVc0cHpwRlc5LWtpMXFMemdWejBtMUZ4b2VnTGpjSlZQRmlBZkhta2F5QU1lLWc0am0yT0tXRVdOMUw1eWw1WGp3NkNBWHJJam5KaWlSa3Z6Vjc5aDRzOFZHeUpGNEZ2WUV3c3pHTG05TnVPWmhfNGhTSl8?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Tue, 13 Oct 2026 01:30:30 GMT",
-        "discovered": "2026-10-13T04:34:51.390359+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "هل تنقذ أموال ماسك ومناورات ترمب الجمهوريين من انتكاسة انتخابية؟ الجزيرة نت",
-        "player": "",
-        "content_hash": "8536c5f874eb96f1fb5b48233235da649c47eb8d7bc4c57e5b74223b7d38b646",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11451,
-        "title": "مباراة فالنسيا ضد ريال مدريد : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNekV4VHJfM2pZN3IzRHd1b0NIV05YUmpIODQzbXk1ampfbC1ZWWdzMW5paDFzSHBXRTJIVFRCVDV6Q3JmcDBvaG5QQU5kaWl2cE9tbl9fR2p0ZVhwWTU3NGVXTk5GcklILTM4VDlIZndxTW5FS2F6dEV5WGpiN0gta1ZDNzRiNTBhSlI3al9JeUJONjR2RTYzRzdLaXJyWkk0bldaTk5IN0FiTVlBSUxxNWh3Rmt0d18xd2lMc0FUTjU5UUJJd2Z1RUU0U281V0xSa2kyRlVtcGRZeDMxNDY5RlFhX0xFdW5SVVlzX1FPUUU1TTFBRTkxdmVlNWszSzhuejlfUGpwS3MxY0gtY19aZWl2cUFSd1hSVWZKLU5Fd3pwX2dNY184RGtuQXR5NGFoZW9oS1N4ZGdiMzc5NUdQZ1NB?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Tue, 13 Oct 2026 01:29:42 GMT",
-        "discovered": "2026-10-13T02:39:20.651137+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباراة فالنسيا ضد ريال مدريد : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin winwin.com",
-        "player": "",
-        "content_hash": "97b89d5e7985283a0969e80b14ebede4b83fc6a5006f3b27cc1225c5be5d4ab6",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2070,22 +2086,6 @@
         "summary": "إيران تعرض الوساطة على السعودية لوقف التصعيد مع الحوثيين سكاي نيوز عربية",
         "player": "",
         "content_hash": "0c7d91faea072c004b9193a68f86a4cf50ccec25c46634c4b69cd1a49ea0ed1f",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 11236,
-        "title": "لماذا أشاد سعوديون بموقف عبير العجمي في مطار الرياض؟ - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNTmhIMlNDOXBhelVrdV9CaWptZFJsTDRYODNQZTBYR1lLTklMUzhDTTZVZFBtMS00Q29aSmotbFdWa2NnTlVmZUZZR25SRVYtaGNLbnJ0bDh1d3JLQlZsZ1FvOEpBYUJ0bnFaYm9yZXRMV3Etdk9hS0tKdjFWUDZBVTRMUG5oOXA0UU52NU1oUl91QXdYRGdaX0diYkZLb2JjYTNiOWpseHZQbmZZV1dmbWhwbkhZVGU2YTFXbWRCN01YZ2UyTUhSTWlKMXVYU1NyT3NLM1F0UWtzMlpDdkFmXzJSbFNRSFN3QnpwWFJpNGZFUWMyOHR3SGJCX1kwdnhKUDhlV1hJeUZSQmgzUUVhX19IcnA1dllpUXRfRlV3azVybFNvSDBWYUt2dzMySW02ZTVvdWlDOS1TOXY5N0dYZUdMM3B4anFEbHNrOHNBeTJjNzg?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Mon, 12 Oct 2026 12:13:08 GMT",
-        "discovered": "2026-10-12T16:42:33.287671+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "لماذا أشاد سعوديون بموقف عبير العجمي في مطار الرياض؟ الجزيرة نت",
-        "player": "رياض",
-        "content_hash": "7989b2fb8737e1c09f0adc03ebd56d8726ff39b7b68302c2607e5c08406e5213",
         "sent": 0,
         "section": "middle_east"
       }
