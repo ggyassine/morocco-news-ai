@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T02:39:45.403930+00:00",
+  "updated": "2026-10-13T02:57:27.286507+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1654,22 +1654,6 @@
         "content_hash": "0a6dabf608659d0fad211294415cae35e91fa2366dd5ada69610e635cb1e590d",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 11095,
-        "title": "وسيط المملكة يدعو من طنجة إلى تعميق وتجديد السردية الوطنية لتعزيز الانتماء الوطني والثقافي لدى الشباب - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBObzZoblN1VGprd2hRdjBaMlh2VGdpUThXTm1oWlNrNzRRdFlXVTdQU01VdVVhak95RGFZQ2h5eHdsWmR1ZjRQVXZNSlk5cFhOMDJ2bVp2bTRKaS1YT2xUdVYzMjNjQQ?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Sun, 11 Oct 2026 21:01:08 GMT",
-        "discovered": "2026-10-12T02:38:53.283210+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "تجديد",
-        "summary": "وسيط المملكة يدعو من طنجة إلى تعميق وتجديد السردية الوطنية لتعزيز الانتماء الوطني والثقافي لدى الشباب Le 360 Arabe",
-        "player": "",
-        "content_hash": "723d825f946ab34adac552bf4aae3c5ffd01bfb82f2306b51d9874934a8ac046",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2043,6 +2027,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 11455,
+        "title": "رئيس مجلس النواب الأمريكي: بث عملية إعدام مباشرة قد تكون \"أداة لتجنيد إرهابيين\" - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQWDZqeGFjOC1aUE9wU2tBME1YQ1pDVFk0R3ZDVVNERWlPT0tETF9YVDJWemdBdXFpczBIaTdkVkRTRll6X01FYTZOSnhpNlJKQ3NXdk5hTlQyNHozdzNHYm12N2VsaVBid2RBbGw4Q1lTRXM3RHoxMVUxTk04SWZUbTM4aHV5VlNhMkRMcHVYUlg4WEk2dWF2blNRaTRVSERJamhCdENCQTFmVmVGTkUwdms4bkRPc2V3NnhOQ0llUUxodjRGRTd6c293bm94TFRVUzJoU2tpbGplek9IYTRCXzhDSmo3UFloOEJnRVowa3hLRlljWjNsSzFwc19NQUl2UHpCelBlb0pJQnZXSFhlWWZaSHpJdTM4VnhlX3ZfM1ctQ3pLV0NJZVItdHdsSUFNLVBRQUF1T015Qm9tQ0VqcWlxWUUtOGc?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 00:50:17 GMT",
+        "discovered": "2026-10-13T02:57:22.200149+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "رئيس مجلس النواب الأمريكي: بث عملية إعدام مباشرة قد تكون \"أداة لتجنيد إرهابيين\" القدس العربي",
+        "player": "",
+        "content_hash": "40fcf9d3a1c7c3a5939aecf884010ca2163caae7bd1fa2cd0a55a2ad627c253e",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 11428,
         "title": "الممثلة الأممية المعنية بالعنف ضد الأطفال لـ\"القدس العربي\": لا أستطيع الصمت أمام ما يتعرض له أطفال فلسطين - القدس العربي",
