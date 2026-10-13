@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T03:34:37.293758+00:00",
+  "updated": "2026-10-13T03:56:17.083437+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -1272,6 +1272,22 @@
     ],
     "transfers": [
       {
+        "id": 11461,
+        "title": "الاتحاد الأوروبي يفتح فصلاً جديداً في مفاوضات انضمام أوكرانيا إليه - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxQckI0VXZZYzhlZmxHZ2dBTXVlX0hpejVkQmlHb0pYZGhRQjZ5aEtiSGRxeDNFQ2dYYkVMZ2lCQ24yTjI3YVdNSWxYSXBVNXQ4M1Nuam1IQm44UFhaSFFqRE1CT2RnZDNPdmVvZTRSTzBrbXE2cmpQRV9RUFZ6Z253UnQ5Ry1teFlsVURDeS1EYUEtVnhmaXUwRW1uV3hhMTlILTc3bzk2RlJDLVgwX0VHUjNPUTZoRHAzRmkxU2cxV0lyX0Ftb3Vab2ZwMWxKXzNuRUw1QWZkdS1MMzlPcFp4aW1Pd3d6a3BRSktWdzRXa05WM2Q3UVJVRnR4LUxwanhfVUp5ZS1DUHZlQzU2Z3M0R1VoZnBsNmtfZGVjT3lZcmN3WHJtTFhnd2ZfcVM3VHN6cWVUVmJBd0E1QllHd3ZPSFZxU1VDOVd1S1pjdDVEZVktSzY4RTBzalBKdlZ6TGhhc0lBSmlZMHJIMTJOUG5laUZZeHpyUGlaeEFUU3FCNjBpVFpoeG1HMm10M2dNZXlMWGRnUjBHTGFpTkJGWS1YNDByS1JTWEZQODNIbm1BUHZpMklUTExlU2xFdm9KTE9CUnYydmhES21PYUREUzJac2R3SDAyU3dZVXk1dEs0YW1SMVY5bi1IZDB5ZERLbFUxNDVGMzRFR2xxSXg4MllVSWpPMk56M2RYWGlzcm5jN1h6RFFkbkZvX3R2eWRkMUFOLUlMMjlPZmI2RkZ1Q3ZCUDN3TEU2WERYbHAzcTJkQU1BTXBvMnlTMWtEYnBXYWlDV0UzUFZuUkZacFdyQmM5UzVMRG0weDVmWDZvRWQ1cUstdnlWdTVN?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 22:12:10 GMT",
+        "discovered": "2026-10-13T03:56:09.876719+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "مفاوضات",
+        "summary": "الاتحاد الأوروبي يفتح فصلاً جديداً في مفاوضات انضمام أوكرانيا إليه الشرق الأوسط",
+        "player": "",
+        "content_hash": "2d748b37781ff9d31f65388e48fa8c7c7d51e190fb96b681e38f06cf93903581",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 11381,
         "title": "مسؤولة روسية تتهم أوروبا بفقدان سيادتها بعد صفقة الديزل مع ترامب - العربي الجديد",
         "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxPNTZvYzBROHZIWXJJVU9hVkxOamxWM1JfcjJ2aEZ1eEYxaEkzZ3FtZGhsLVM5SWFjVTJSdEdPclNiMkFLVTdPNi1IaGJxUUJIQktfdmR3aVpyN3c3aDZXMGFvTkU0ZW1pYUpTVHZrVzFieEwycGZLRGo5dmVpLUZGaGFUV05xZHRpakFCN001bGE1NzVFdFo5VWlsbkV1Wm80cXgtaGxLWEo2UXh1ZVRNampVa3hLUi10RzZPaWhzTm1ILUFlN1dBR0wwaFdYc0pXMlNhV2E0Ti1IQVkwaUItakpXem9TWThZWmZpYU9FNm0xeHpyN3RhMU9BT1BORVBKSGY5Rk1HOVROdVoyOVY1c0VBQWVsRGVSWlNqZnNZWXZTNUxfcmJFYWl0R1I3REVSMHlicndDdXFXWTdkVzZwWlVUYWdhT2xRQURzaExFeUh6YXFjNjBQcnhPVWluSkw3VFlmTEhTQURCek9xb0NSdi1yTVJSNDdBS0Uyd1VjVGYwVHZJSUx2SklVTlpGTHNKY0dEejB5WjduNjY3Wlc2X3VRTjdxenprTC1aamVZWU51Y2JGODFJc0RMTzZEZ3lZUmo3ekhLNGJaM3RNSmVQYTZucnFZQlIyS2ZxVGdvbm1IOHRyTm1WUGs2ZnRYeE85UHBKSks5MTdrR3cxdnpxeF9aWm1ROWfSAYwEQVVfeXFMTk9PRkZNUjRxUndhWS1DSEQyXzFjdTJwU285djJhY21weHpoUGs0TkV2ZHVVeWV5bFNJYTlKYVhaaEhBVFU0MmItWVFHVFJnTkdlMWplSURvczBtSWRYMS1MVTRPbVBpejlRZHdNR0JKVWJLc2x4ejdSY0RLYzZHM1U1LVl1Tk8wMjBzWmQ2MUpUUDRrbEJkNnhzTWdlMFM1ZEN1VkR0QU05RkxMQ0hTaE4yVjhPV1d6WGJHdmVMZXpicDFqcTQ2VXlYbWhabnE2RjBuS2tPcnQ1MVFiSkVpeGhXemlKYy04STc4cW9DNUt6amk5Tk1vRXlhd19SOUYzZ09aaEpIWlBYZFg2R29YX3kxVXNyTWZwYmZhdTd0aXVsSy1qdVZLcTY4UDJGMkF6ekoxQWdiWUplYXVUQjJGV1hKRmItMXQyZW9sd21vdV9WYXlvVDg1WnVmU3R1cHBqMnhyU1JPdVc5N3ZOb1NpLVhuS3lRQWhPdWs1WUNvSXdFblk1U1oyVTRGWFZqMVEtVUw2YkRzNGxYV2VkdWVmZlBrelAzVzQtUUZVRWpXRkNsQVVaWDNmNXBLRExBYV9XRVdDOHNFU0dBalIyamY2aDdWcXZqR0VxbGVLWnJWMjcwRjNyLWVoWEUtS0czZXNoME42UE5yUkYzU3lPV2JORTduTW5USUh1di1NU24?oc=5",
@@ -1604,38 +1620,6 @@
         "summary": "8 ديال الشركات دفاعية إسرائيلية شاركات في معرض مراكش للطيران.. التعاون العسكري بين الرباط وتل أبيب غادي مزيان كود",
         "player": "",
         "content_hash": "42bb5eb70ad6649045a1e544227d31734185ee42672bb5840dda1dbef0ddd3e3",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 11124,
-        "title": "جمهوريون وديمقراطيون يطالبون ترمب بالتراجع الفوري عن \"صفقة الديزل\" - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZ3BqZHhfenZNbmlGdmJqNkxyTjhvaGRiTk16dzQ5M0dET09ZaDkwWmZuNXVldEVWME1aRGVsNnRVVms3bTlCWVFGdTZKeVVrbzJBc0ZRcGZrSDlwNzRiRGVUQVo0UEFIVmNzdWRIdkNHRmJ5WlJOVDVyMWJvQXoxM0dONnNwM1NXUkYzRERhOW5SbDBJN01aWlJEWmdHbGlDenZXTTVvQ1QzTUV0SUhuSWZ3SEtla0hXSXdGUHZVSmhnekRXekZkWkZ6QkVNNXJzNGJOWmpndzl3NVVNZUljNjJXSUxxMC1pclFiejJ2X2Q0MnA0Zkc1akx5WDZXdzc5X0FaXzg3UG9oTTNZc0JpSDBIRHNuZzBNbWdncl92Q2JDWXhDSlRTYlNUZVRoSDE5RTV4Rmo3WlFFWU1tcEZrVHp3ZlI2N3Y0?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Sun, 11 Oct 2026 22:20:47 GMT",
-        "discovered": "2026-10-12T07:35:31.583454+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "جمهوريون وديمقراطيون يطالبون ترمب بالتراجع الفوري عن \"صفقة الديزل\" الجزيرة نت",
-        "player": "",
-        "content_hash": "0a6dabf608659d0fad211294415cae35e91fa2366dd5ada69610e635cb1e590d",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 11105,
-        "title": "جمهوريون وديمقراطيون يطالبون ترمب بالتراجع الفوري عن \"صفقة الديزل\" - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZ3BqZHhfenZNbmlGdmJqNkxyTjhvaGRiTk16dzQ5M0dET09ZaDkwWmZuNXVldEVWME1aRGVsNnRVVms3bTlCWVFGdTZKeVVrbzJBc0ZRcGZrSDlwNzRiRGVUQVo0UEFIVmNzdWRIdkNHRmJ5WlJOVDVyMWJvQXoxM0dONnNwM1NXUkYzRERhOW5SbDBJN01aWlJEWmdHbGlDenZXTTVvQ1QzTUV0SUhuSWZ3SEtla0hXSXdGUHZVSmhnekRXekZkWkZ6QkVNNXJzNGJOWmpndzl3NVVNZUljNjJXSUxxMC1pclFiejJ2X2Q0MnA0Zkc1akx5WDZXdzc5X0FaXzg3UG9oTTNZc0JpSDBIRHNuZzBNbWdncl92Q2JDWXhDSlRTYlNUZVRoSDE5RTV4Rmo3WlFFWU1tcEZrVHp3ZlI2N3Y00gHOAkFVX3lxTE9La09qT2V0M1VwYS1LRVRqNGRZcHptTUZFN2RDQ1BZTkgzaXBmclduMmNadHBudXFRZ1Y2djQ0dWZDV2tGam95WW1DbnVpMDN1dHFiYzRDbXlRVU12MVJxb19tNzJJdlFqYlpSU2FHS01KZWVMaDBrNUt0ZmthU0N1a1dwZkdKRjRlMEhLRzctWE9nZGo5R2djX2c1ZTBaanlPbzhDM1BzZHAxSlh2MHlqU2NZdkJUc2dEaG84ekxrTUJHdlNaSndPdWZLUWxJS0Vwa0hFcW9qbHVmS0hzVGxWVGhrYTVIcXpjUU14YVlZWVktenVubTVGR1RnYjFmd3BMVkI5NkFEVGwwT0JfV0NfN2ROWkhweE5nekktZERacDY5WU40c3V3TlY4ZFpvVnZ5ckhzZ2I5TVdXV2lSLVV1V3Ywb01YYVY5RV9vM3c?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Sun, 11 Oct 2026 22:20:47 GMT",
-        "discovered": "2026-10-12T04:57:55.762920+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "جمهوريون وديمقراطيون يطالبون ترمب بالتراجع الفوري عن \"صفقة الديزل\" الجزيرة نت",
-        "player": "",
-        "content_hash": "0a6dabf608659d0fad211294415cae35e91fa2366dd5ada69610e635cb1e590d",
         "sent": 0,
         "section": "transfers"
       }
@@ -2056,6 +2040,22 @@
         "summary": "الممثلة الأممية المعنية بالعنف ضد الأطفال لـ\"القدس العربي\": لا أستطيع الصمت أمام ما يتعرض له أطفال فلسطين القدس العربي",
         "player": "",
         "content_hash": "693d04b9b4e59924dc2a24e934ef245174439e497dabb874ecf8be2d8bce3a31",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 11462,
+        "title": "المتحدث الرسمي للأمم المتحدة لـ\"القدس العربي\": نتابع مسألة تأجيل الانتخابات التشريعية الفلسطينية - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQUVJ1aGlBREV6VXNpOVM1R1g2UV9iYjYxeWR2WHQ5WHBBeHppSDlYdm04SzF3alNBeEtYcGNtMERVbHgtSThuMVJTWE9FMjBweUM1d255VEROY2VaMVRsSnRxZm0wX2VjeURVQzJJVkJ3SUQ5bGp3MkZYRmNkbktKdms1WVAtYmxXaFdlUmtqRWt0bEItYUFWdDhTWmJGdE1DQW52clRjZU1lY1N5VlhIM0N1VUF4R3JtcFlMTHB1QnpLSGx4X0RyNmo5LVdqUGduZUg5YVJkclhUM09fM2c1clFiZS1DRVdsem1wV2gtdmlnQS1WWEY5NTNUYXIydDg3QXdNckp5ZURSOWJSNmlNVzdnQnJHeVd1amtYOFhNNl9lbWVRTUZDaGRyQWlpZjVybGxnZWc1Z3Fnd0piRnBkd3J2N0J6VTQ?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Mon, 12 Oct 2026 21:54:41 GMT",
+        "discovered": "2026-10-13T03:56:11.463583+00:00",
+        "category": "العالم",
+        "status": "رسمي",
+        "summary": "المتحدث الرسمي للأمم المتحدة لـ\"القدس العربي\": نتابع مسألة تأجيل الانتخابات التشريعية الفلسطينية القدس العربي",
+        "player": "",
+        "content_hash": "aeb3cfaa323fd363324887e3f6695b119af27074963e4071ae7963341bf3b89d",
         "sent": 0,
         "section": "world_arabic"
       },
