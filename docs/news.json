@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T07:31:54.486234+00:00",
+  "updated": "2026-10-13T07:54:23.286856+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -437,6 +437,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 11502,
+        "title": "ريد بُل ونادي العين يتحدان لنقل كرة القدم الإماراتية إلى الساحة العالمية - Zawya",
+        "url": "https://news.google.com/rss/articles/CBMijAZBVV95cUxNZ21ESmg2Z0ZmLV9PdHBTRGxLVlctOWV2aWRkRFRKTUF4SWZpdk90MlhIQ0VYSEYyTlQ4bHIxdHp1aUNpQXFfaGE0SXNhNWJoYllLZmMxRVpKYk1JaHB2X2dxbDlBNTZDb3YtWUowMHhKYjczSlV4ME9DNHdkUjBYQk90UGM1VVFwYXdQcGI0dE1nc1A1azVLZzdra3E3Y1o3QW9MVEdlck9JMl9mei0ydWtPbkphRU11MmZ6Qk5NX2Q3eE5ldC1wX2phTlJDb1ZYcEd6WVlOMlgtUFVWTExDbzYzUEdKdEJKWEdFcUd5dUZtamNiZzZ6dkpLd3YwQ2RwRks1a1hSUUZseG1YdVROY3NvajdyRFpWeTJTaHIzWmItVWVlVVpfN3ZDVzVUbXJpTlNvXzJHdS1iWmxhS295bEh3OGtYaFc5bk9yT2FiTm9RYzZJWjJJMjhUWFk3ckxZZ3Z5WFQtcW9DS0hnSlZaMy1MNFVkN0RCUEtMWWhLSUk1dHExVDM0THZmaW9DTnVxZEZkazV4ZGlkMml1ZlBpRnZ2V0trTThxNzRFS0hadERPeklORDBTNkVuZG5mclJpQldXT2J6MVVlTTJsN3h0MmhwVENTR3RFOWJ6N1BWbm1mMHN5QU5Fd3hNX25TZF9PNkJJLTJFeFFDemZSOWdzM0NCUjlXOGw2UVhVWkZ0LXBsTGJYb1dUUTBnNVVvbi1FTXVraGxIbEpfODF4cU1qZi1BWDh6dC1tWlVUd2xPeUgwSV9aeHN1aUZPbzhGY0xOVS1yR2hJaW9ITU5Ka0wzX2ZNRHk1bmVkVlpkTkJFRXMxdWtGMEt4ekFVNmJ4M2lYS084dS1KRFRnUVJOSXF6cHhKMXFZbmNpLWg4VVgweU9LcEt3a0loOExkRmYxcXE3M3hEVXFSX21hejkzQUlLcER5OUVtYTdROXd4bmo3ZzROMjhMSXd4RU9uVF9Fdm9GUWM3ejhsX2N2SGQyaFFjNy1tMDVHbmlPRVE0UHpMWms1aXVGRW1ZRU1PWm8?oc=5",
+        "source": "العين الرياضية",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 07:29:00 GMT",
+        "discovered": "2026-10-13T07:54:10.229812+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ريد بُل ونادي العين يتحدان لنقل كرة القدم الإماراتية إلى الساحة العالمية Zawya",
+        "player": "",
+        "content_hash": "bf2b6412cf13dbb103a0d857fca86fbadc2ab4d96557548e6381d7b748fc4387",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11498,
         "title": "بعد \"فضيحة\" كأس الخليج.. العراق يحسم مستقبل أرنولد - Kooora",
@@ -1220,25 +1236,25 @@
         "content_hash": "ad502fcfa416f72379b9cd7ef30bc318435529918e6c1198859ce6bfc6721c6a",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 11483,
-        "title": "بعد الإنذار الأمني.. انطلاق مباراة النصر ونفيتشي بعد ساعة من موعدها - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxPZnJWSGxwSUR2M2t2MXd1c3NzZnREeDF4SElGY2p5eW9mdmd0ODlCTlJQOTZkdmFSMHRoOEo3RFFTSzltdmh2ZTVpYU1tQU5uaEpqTmxYcUxYZlNNZzFkMl80YmVpaGhEak1aLWVUWlMzYUs1bFlTV0ZuMHhieTZNak5NZG1USEE5WXNzMmxodVd5cXNQcWc0MVJ5eDRVeENqLVdmRDJnd1RlVURIUC1yT3AtLVlqWElGMTVDWnBER1E4RFpMR3NVN0hxclByVU1kSGh1RkNQQTBocDd5cnViU2RnSDhlVWZTZF9oV2lHZkdienpYVVluMWlIWDBUeENxcVFhLWZVbm5kWm9lTFZMUW5DRTczdnJwU2dkZmNSdnJBNjAxeTBpdktCSEg4R2xJS0lNUk9jWm5MMTdTTHZUcTY1b21zQWQ2VHF5by12aUJtZlJDcjQwOXFKeWtSLXVSc2lkd2pkNW5mQU05OXlORnpPQ3luallfOWRwRnZ2bUFjUVB5TDVodm1KVkFqMHhXM2pPZmRQakpSQUdadUlLb1Rnclhabm5VbUN2eTgwS3VuZG1vXzg5Zm1nYmdCR0VIcjlHbW9ZOXF6WFM4aEsyRjlwOGdvZ2lIWlJ6ZzlmWmQyUmFxczJDR0ZVUEhPaFd6RVlURXMwdGZONW10R2FFYm9OeTZJbkp0ejVWai1BdFNPQUxoOWpZcUJfQjR1R1lldDlJLW9pWVo3aTU0cWJ3anc1b2ZtYlpNQWfSAb8EQVVfeXFMUC1QR1FuT0tKSXhBaWN0UUJmOHU5aHgxU0tGVTk0RC1Tem44RFdReGc0N2c0XzQxbVZGVmtwT1BwelZUVldMaWNSeDN6MmV6VzNERDNWZ20tZHdBQ1Q2NlE4Z1JxRkUxd2dQYlZ4OFFNX3FBRllwdnhFSm1UUWhnN1pZWVVXeVBnMG13SzlnNEhLYzllTVZRR2ttZjNLLXUyeUVROU5BbmNyN25Db1pVUERlYmJLV0RDdkxPMHdkdm1lNDExcURKU0x3UFNEaVVpMVlEcHkzVzVOTnR1LUo0U1h3ajJqczcwcHA5eE5mZjFRX2tGSFFWSUhiT3dKRXpJcnJ1ZjJWdkFodVFCTW1sYlNQN01mTWRyQUZFWXF0TUtjNkdKeVQ2WVRuN2VzYld3VnBVdXRvVTl4S0U1UDZWdF9KNm56Tk82bXFtYmFWdzRhRmxiU1BGUk1NMjVqcGE3RGhja1RrTnB4Um9USjhvX3loaDNTbFAyRUZUd3o1Q2pvMnp5Q3NHV1E2eDR0MEtxcjZPaWFUeW5pQzJZWVpMRmV3MkJxelpnU0Z0X2l1VlBrSjFYdG5nZmZubDhXNTBSUEVRaURMcnBWU3pjTUNoNWNGNXpWMTE3RUJfV2FJUW5kR2wxa3FUWFdPWENlZVJkWXdjcldLNG1JbE5SYXNfQmRCRzR4ekw5SE9ETEZOaEU2REVkSUNDbXhPUkRCZTZiZU9LcTlDSkJidGFKeTNjSXlDb3hyTEdCakJxQU54cDg?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 19:13:00 GMT",
-        "discovered": "2026-10-13T06:37:30.441341+00:00",
-        "category": "الرياضة",
-        "status": "منفي",
-        "summary": "بعد الإنذار الأمني.. انطلاق مباراة النصر ونفيتشي بعد ساعة من موعدها يلاكورة",
-        "player": "",
-        "content_hash": "daf5030ee94d620d4bad60b2d01a50bd03b613a32b0a44b64dae2ab770b1ce29",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 11504,
+        "title": "\"الأنابيب السعودية\" توقع عقداً بـ47.2 مليون دولار مع \"أرامكو\" - العربية",
+        "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOcFVJTG52QXVaZlVhNURpUXA0eTB6ZzUtMXhtMHhGVENUMDNyNTMtbXlRMkFrTU9UQ2o1T2tHdU1fY0dOSERlT1ZiN3YwcGxSbWpEcURrLVZwM0lmTHMyb25EaTA3Q21HdGVYZzhESkxfRnVpYWZDZTU4X2Z6VkRQTGZuaWZPaXo2VU1la3lRRnlwTmJhX1ZGT2w3eGdMZzAtMjhheGExUmlJZmZndXdfY2ZURUVMN1hVTXcxUHBibldTYnR0UE5OWTV3aDhYSlBiZE5MZnVzWjl4U2VFelJLU25tbnF2NmdXdjQ3WDBrUjFnbmxGSXgxUU9uUWRqOW1KaFplODdRcXNRY3oxRm03dzA1ZW4zc0t4cEpDMlgyMks3R21zeUdDLUJleVhCaFl6ckpCc0pyN3h3RktBQzFuTUphN21UcjhwZDRPQ1BDT0FIVFpDZjNQRDd0dGpiOFU5VmVadTBQaHliakhZMTNYZXdPeGhRMF92UGxzOTlMZ1ViY0drLUZ0UW5iZHR0UGJEWjFhUnpvSG5tOFEyOThtQlZJSVVQZzB6OEhRT1pYcDZDWE9pLWlzWC1KQUZKVmU3dGZYMFBSMi1JcFZobWtQVHZn?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Tue, 13 Oct 2026 06:12:00 GMT",
+        "discovered": "2026-10-13T07:54:15.559883+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "رسمي",
+        "summary": "\"الأنابيب السعودية\" توقع عقداً بـ47.2 مليون دولار مع \"أرامكو\" العربية",
+        "player": "",
+        "content_hash": "82d74238faa56da01a49a11afa92bbef5f89347c71cc82115a286829109606b3",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 11474,
         "title": "صندوق النقد الدولي يرفع بشكل طفيف توقعاته للنمو العالمي لعام 2026 إلى 3,1% - القدس العربي",
@@ -1622,22 +1638,6 @@
         "content_hash": "0e37c8bdbdfaa27527bdf3122bd78fd508742a25a678809186174892a83eaa51",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 11163,
-        "title": "هجوم جديد على مطار الرياض يوقع ضحايا مع توسيع الحوثيين ضرباتهم - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPOFVQNENBc2JiSGt0SUlEVlZpOWJEeWxlS2pjdWZJOGNPNzZFNVNaTEI5YzZydjlZS3h5YWRsOXBhXzl1bkN2b2ZGVE16MThXY0xWU0ZOWE4zcnV4TUVGQTkyS0tzNjBlZzdYbjhzNXdBeXV2T2xXVjQ1QjJvX3V3QWhxQzFCMVFJcDVtQVRtc3lsTzRWd09yVEhhSXR3M1FJSmFhVk1nZ0hldXIxVkd5bHB3LTlMakFwdGVhTUZvVy1UZjdFSTJPa093cjliNW5qSWx1Q3Bvc3lRZzFEdjQ0dGJKa2VkTnNMektaQ0VwY05odkFUcGxZY2c1R2lvMFdkZU9XY2ptSFJMWFBWaVN1U0pOVUthSXc0OGVLWGZ6aEY1eV82Tk9GcnRNMXhUODRPNmp4VmYydjA0RExjTHRFU19YN1cxeGFK?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 02:09:14 GMT",
-        "discovered": "2026-10-12T11:49:12.585766+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "هجوم جديد على مطار الرياض يوقع ضحايا مع توسيع الحوثيين ضرباتهم القدس العربي",
-        "player": "رياض",
-        "content_hash": "5a6f0d3d597995746212bf6c4225ef1cf84d7d94195a3ea3a740efa40ad375db",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -1976,25 +1976,25 @@
         "content_hash": "9be37f5d4fd47ddca809f41c866718acee0be39116d495db949a6e714dd5bbde",
         "sent": 0,
         "section": "middle_east"
-      },
-      {
-        "id": 11154,
-        "title": "أرض الصومال بقلب حسابات القرن الإفريقي.. حوار مع وزير الخارجية - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOMnljcGF0aVpRcnJzLURyTmtaQV9Bb0tvNHVJVTlWQmdRMXZPQ0s0anBOSWc0NGlGclBsVnVCUFRlNzh6bGkxRDBPWVNsSXlwWXBuOXRPTkk0Mk13SVhJVVQ3T0gzMmJ5YkV2dk5EVnV2bkRZY3N1Z0lUdkxWQ1RMTm80TjlkWG1RbUlzdmJrcG5yRDZQQjZkVE9DeE1fZ3V4UHBoTnpDN1lCdlpUclBfU1BHc1VoMExkWk1yclUwYUR6ZEJxVlVoYkFIaGJGbEhOSkU4VnU0MkN0dVY2V1JVNmI5NmNESkpPcEpWbGJsUDlndlNzQ3VjTG4tSjJoTEJSd09aR1N3ekl3YWx2cHo0eWhvbzB3QUlhNTI2cXI3TXpkZUFOQ1ducGNxR292OHFLMkNrYU5WYjhqbERNRHpkVHZiZmUtVEtWS0ttaXJxZER3WnlSQUZ5VllsaGR4SGNPdlZ4QWtQRlhFOThqSGc?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Mon, 12 Oct 2026 02:26:22 GMT",
-        "discovered": "2026-10-12T11:05:33.134611+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "أرض الصومال بقلب حسابات القرن الإفريقي.. حوار مع وزير الخارجية سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "f5a9e0fea7af27d69c15ba14af0c469fd2b61b5c2fe67787e4fa141862dedef3",
-        "sent": 0,
-        "section": "middle_east"
       }
     ],
     "world_arabic": [
+      {
+        "id": 11505,
+        "title": "استمرار إغلاق مطار الرياض وسط هجمات جماعة أنصار الله وتهديدها برد على أي تدخل أمريكي - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Xc2p0V3NfeUNvWno0dUQyZ2w1NFR4VFI1OG5iTnVGOEQ2MjhFMDI4YV9NVVV4eGhHUHpudlQ5TGtaTF9rWk5paW11RkpJZ2ZTQnBRMkFMYzF2bGx5R0HSAWNBVV95cUxNc1dSYlQ3QkNsNFJpY3BhUnZqak84S2Zwa0JEOFZDMFp3UHZodDJOcnhwYk5TQk5oOFdTZ0N2YjMyLWNNZXQyTHJEaWV6Nm9Yd0NBUjFKMHFfb3FZSm1ZNWlnLUE?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Tue, 13 Oct 2026 07:16:15 GMT",
+        "discovered": "2026-10-13T07:54:20.613429+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "استمرار إغلاق مطار الرياض وسط هجمات جماعة أنصار الله وتهديدها برد على أي تدخل أمريكي BBC",
+        "player": "رياض",
+        "content_hash": "4bfcc1b7656547b502a7a27225852683d4060fc6e64143e38ba276b91a40634f",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 11475,
         "title": "رسالة إلى السعودية.. هذا ما كتبته الملكة رانيا بعد الهجمات على الرياض - CNN Arabic",
