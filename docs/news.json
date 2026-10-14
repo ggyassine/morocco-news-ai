@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-14T08:36:39.721789+00:00",
+  "updated": "2026-10-14T09:10:30.775876+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 11893,
+        "title": "دبلوماسية الإمبراطوريات موضوع ندوة بالمعهد الملكي للبحث في تاريخ المغرب - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EU2NtX1VZd0dnWnJoY3J5amQ2bGNhc2c3Yzg5ZUY0R0FSMktGQUZDV20wOEpSOU1GVkl2dVVNWXc5bW0tQnRUc05aS0szR0FkVEZoMENReUhiQ3NfNEFzMWV0Skg4QQ?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Wed, 14 Oct 2026 08:32:42 GMT",
+        "discovered": "2026-10-14T09:10:01.410305+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "دبلوماسية الإمبراطوريات موضوع ندوة بالمعهد الملكي للبحث في تاريخ المغرب Le 360 Arabe",
+        "player": "",
+        "content_hash": "58ae4e7806f0492b5740d99467c3ea7571e399451f6af4301a0cc259c760d825",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 11795,
         "title": "الشرطة بالهند تعتقل قادة « حزب الصراصير » عقب احتجاجات ضد مفوضية الانتخابات – اليوم 24 - اليوم 24",
@@ -112,6 +128,22 @@
         "summary": "مجلس النواب يستكمل انتخاب أعضاء مكتبه ورؤساء اللجان النيابية غدا الأربعاء – اليوم 24 اليوم 24",
         "player": "",
         "content_hash": "4d182c00c7aea4e2db6f08cf809ffe4bb3b6700a2a5ad411cfdc663123e915e1",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 11894,
+        "title": "توقيف مواطن سويدي في أكادير مبحوث عنه دوليا لتورطه بالاتجار في المخدرات ومحاولة القتل – اليوم 24 - اليوم 24",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Eek1PTFVvQ0NaLUVZT3VlNndubnQ5NzNXTWt3SWhZMFA1aHNsandMdUc0SnZnYzk3WUJQMjJfdXI3SWtnZ3l3T0V3?oc=5",
+        "source": "اليوم24",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 23:10:47 GMT",
+        "discovered": "2026-10-14T09:10:02.835663+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "توقيف مواطن سويدي في أكادير مبحوث عنه دوليا لتورطه بالاتجار في المخدرات ومحاولة القتل – اليوم 24 اليوم 24",
+        "player": "",
+        "content_hash": "8d73a1df241e09eea916d29d2cd285f5594479a333199d1e86424df83cdcdbf3",
         "sent": 0,
         "section": "morocco"
       },
@@ -690,25 +722,41 @@
         "content_hash": "a6f0a3eeefdb0102f60837de1da3fdbdd5ce290131d2b19313ac39825449db67",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 11456,
-        "title": "اعتقال عناصر انفصالية بالرباط إثر إثارة الفوضى والمس بالسيادة الوطنية - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82ZlVLcVIwb05pUDJ0dDRmX3hSbG5XWFZRQUNWdUdOb2hHSGs3dGVudHVYVnZfVlBNbGNndERBbUFyODM1UFVHWGNXZG9XUDR6R2JCN2RqeFpwV1R1cWdIYlNoUWF1cHpU?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Mon, 12 Oct 2026 21:33:50 GMT",
-        "discovered": "2026-10-13T03:34:10.190352+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "اعتقال عناصر انفصالية بالرباط إثر إثارة الفوضى والمس بالسيادة الوطنية Le 360 Arabe",
-        "player": "",
-        "content_hash": "48ad74affa8a3662cc21a28166d49fb5c0b84ad6d0ab31d034ebfcf792686061",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 11898,
+        "title": "أشرف نصار: الرمادي قد يعود في المباراة المقبلة.. وهذه مدة غياب أسامة فيصل - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMisgRBVV95cUxNb1hvNVFmQlA4eXd5YUl3RGp6UjRWVzd3NlJqTDV2dkowQjdoVHhsVU5CTjdyM2xkalp6WE9ZbXJVbWdRanBhb2FFd3dUdG1SYjZUeDRROUdfN19xRF9EOTRnc1cydGRVaU1IQ1dqY0tfNTg1bjR2U2ZaUmtMUkV2dkp2U0JVUFhXb2U1RGdUQkI2Qnp5c2RaSTdKeXdWZTRBWlo5cTA5cmxUUVJ0TXcxVVJleU5tYmZobzROZ3lqOFFsTllXNjF4eXhOczk3SEN1RmtCbHVwQUN5S25XMldkZlptY2dwbWpfbjFITVlOTmRFbU4xVGNRVGVidmJjTFJFVmJSTGlFT2g5OW1Uckc3WUFHeHNZTExndzljNGZieDdhNGMwMW4xRkJhWndKanh1MXI1UFYtQlVFX0NLR1FIQzBEUFFZRjloTDluU2M5TXNkRG1oS1VqTGdDaU96Ums0di13M0x6U1haR1N5T3VXczdITTVPWkxoSkViZ0VlNXBMZi1JSkJESlU5Tm1LZ3QtSDBZVjhqUExIUXFjNzBtWUZmTFpWTFRXQ0ZoUkM0YXd0bzR5TUloVnJ0aExDMmtteHl5djJocTY0OTBTTTdfZ3luamNxNURrbVlMRHhJbndtcEp6c2NsQXY3SnBXWFdjVlBVZTJZV0hhb0JfWHRKSlVZOUpDMG1INFMwdTdCYzNwQUtEeHEyRC1NUnJhQkJ5TWtIVndOaTlxX0s4TXIxVXZ30gG3BEFVX3lxTE1kVXNuTko4ZmhuWHpnSGhpUG1EaU10TElkNlZ6MVB4SENjM0FvVWgwbjN3czU4QzkyZkl5RFBKRmJkYUNXYWwzUXlHUXZ1YWhnVWpVcWtjY1BHWGl5cTBFRE5CNUhWeXNaVGx2NXZFd1k3b01landQUWhNMWdkeU5tRzlSYkdNTHpGYzlwX0lMYTBvNlI0SVo0cHhWMWxVczB4WWRGNE94QlZIZExPMTk0eU5LX2c2UHB1YkVVSU9vV1ZLVFoyYU5sNjMyeXpHVl9oVDBoS2tVVEtKbklmSU52SUY3X0sxYlNHRklpZ1dacVZVSmw1b3UzZU9mcU9xRXBWV3BJSUl2dnhUVEVJVXdZeWJDcGJoUWN1YnRURlpUVmYyYjk2cGxmai1MTFJyX3l3SkE4dlZyMWdTM05fTkdlV1RmUjEyaTRCc00yQXRmRzNsWmMwa0VNU19zblJTZFQ3bjljSnNNeFVlRHk1dklNTWNrTkxwSzVSNnBMMWRmN3RaTDNqcFZDeDlGUHMtd2I0ZXZtSDBBcWd0eWRDTlhYLU1iWjZwVjIyVlR6Z0hZRGlLSTRHdkE1dk51SFA5V0lXMnJTcXBVNTFGX2IySFN2UHREMmFSb1RXQ0N2VXhsQ2Mwb0ZzcGVXM3l0M3ozODZYV0ZHcUI1aU5wcXl6RFViOTJNMFF3eURmTV9nVzJSQWtMQmE5eW55cVhPbmdPOC1ld0lkTmZBdkRVWUhNeTRUanFVSHBQbw?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 14 Oct 2026 08:54:00 GMT",
+        "discovered": "2026-10-14T09:10:14.845863+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أشرف نصار: الرمادي قد يعود في المباراة المقبلة.. وهذه مدة غياب أسامة فيصل FilGoal",
+        "player": "",
+        "content_hash": "4036a12f8e1e3b7f1f75210967bfa3aaf7de928637925e765a2cd395e5ec6ce5",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11897,
+        "title": "هالاند يطارد رقمًا قياسيًا.. حقائق قبل مباراة مانشستر سيتي وباريس سان جيرمان بدوري الأبطال - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiuAVBVV95cUxOUFlpeG5GX1gtTnZJQnh3b2ZwZ0UzMThtWnY5RzFDUjdJN2RiRHlOTHZVSlZWd085eUtoWU16S1J1MXVJcDNMdjJlSU93dTlNa2dJdHJvVjVNdWJPTU1UMEQ1WFRRd2xTTGdVc2ltN21ISV9GUTdfTVdrbFc5R2I1b3llMFJjV2xPS0I4VzUzcmRjUURKNlhJVjVTMGIxS2pJTmdaUUVSekdjUHI3eTM1VEpBVGJ2RF9Obk5lZ3FpYXUxNC1tV0xrazN4MXhuU3pEVnZvcE1UUFBjaFY1YTVfRXpFRzU1U19EU1c3WUNBSUtVdmdpT1FDaVpVOVNTRm5nbmRQNVpFeUswM1RsbGxlX2NmMzdRNUV0bkRXUGVmX0tqVWRHUU92Z0g1ZXVlQU5ra0FSUG5xSTM5X0xESWd3OF9iUXVQZ05DaHRRQ25uaEVWYlczNWZfWjJmSFY5eHgtZjhsb2lnOEdHcGU1VWxQV0lPT2ptcTJzNkxhZnF4VjJ5cU5mSVcwUElTTGFONjhtM21NWmY3TTZFVXNnQV9NZTIxVnZwYURrZnFta0hxYTFNb3J3QnlWMThyelUwVmxUSlJ5eEJzRWh0UWtSTlhBcXU3Q0YtOWsxeUVyRWZkUHBYU3JOTnRCVFhReHgxRTRYVXI2cnI5N1pZQmxuRERYTjkxcDhXTHEtR3NvX0NJakI5M05XeDZub2JhTEVNUXRMZUlNcGZoYXFHSzBSMV9CeC1sckJGWVdMNVc2QVREWW0tZ3J2Qmh4enV5WXh3UC1HSjZtVGdzdHR1Q2NZdnhLNS1NaUl5b2trb2N2d0JCN2NfX1g1dExvTXlrT0tDdVRId0kwU2dZQ2ppZTd4ckpMNWVIaW9nUFNFZmlrSjRtYUpMOTRBSVNPUTBKN0JnQkRwVlFfR2JabzHSAb4FQVVfeXFMTVdxdDNyNFJqaWRIeExRZjlQTHJYNUgyeVpPR0FkNWhmbkJ6eERHZXVNUFo3Z1BqbGRrZXBxbm1YR3BfV0NiR1NBWFFqMHJpTmJoa0RiQUUydVJyQVNpSzVGcmxROHJWeEgzMktaNElsSzRwNS1ST3ZkeWh0R0V0c2FjT0NhX2VJQmt3Z29FLWFacXBHaGNvcU96anpsb1NITFU0bThSaE5ONUlub2lsRWVTT0R3LTFJbGx5UkdnQk1rTDc0bktzREI3eE82S1JXYjZBX3JaaGl1THJ1VDh1dUZGNTZZc3RUNU9VRks3eFNEcVZhMXdldlVrcVFZSVBaVGJWZFVrc2EzZXJFeUpkcjBvQnVUTnY1MUlDa3d3TlRSTVBVMDg5cjVHOU9wWDFLN0xmNkp5TGFPMVQwN3dFM3hBTExXZFRMb3l4RTVzYXU2bk5CbjBMUXNvUXdkQ3FjTUxXLWdmVC1hU1FvNVc2UGVhREFaUXd3cXA1OHRWcWhaMFVvWUg0cFdFdnlWS0NPckNjT05JYnJ6YmFEcVQtTHlaNmZqNlprVFRIQS1GUkpObFpmR19td1Z5alJUUm50eFJrM3RyYno2SndwT2ZyMW1IUnNvX0kwU2x4QUV5a25YcHBXcnVjd0ZDQllXZ08zUjBoUDJqT1FjZXFyQjhOSk9HYnJDUmpXTmJSZFczd3d3MXJyd0ZRNnpJSC1Dd25Oc0FmUTdWUHhMX0hLU2J5d3Bxak1VSWhsZjFoTFltclR4cmpmaXF4X0xYV20xMXBtRGtQenpnYmN3bWxyRDVnVTBKM3pad29UTzNtS3RUcUc4RFNESzdSRlpVZEhMQXZRVXBDUWR3THZSNC1DRDR2WnB2T1pYZDlTZVFqV1ZLVzZLUmxPUUxmZlBRQjFrb0l1ZEVEbURqbEdXR0szMC1R?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 14 Oct 2026 08:28:00 GMT",
+        "discovered": "2026-10-14T09:10:14.211321+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "هالاند يطارد رقمًا قياسيًا.. حقائق قبل مباراة مانشستر سيتي وباريس سان جيرمان بدوري الأبطال يلاكورة",
+        "player": "",
+        "content_hash": "57fe706762fecbfa9feb6703cf1b50f5fd9691cd75747b86a2bd22964fc01c6f",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 11889,
         "title": "بالفوز على جالاتا سراي.. برشلونة يكرر إنجازا غاب أكثر من 100 عام - يلاكورة",
@@ -1350,6 +1398,22 @@
         "section": "sports"
       },
       {
+        "id": 11895,
+        "title": "فيديو: ريمونتادا لم تكتمل.. فايكنج يجرح كبرياء بايرن في مباراة جنونية بدوري الأبطال - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi6wVBVV95cUxQX000TFROd2RvOGd4V2lTM3ljRVluWVJSVmotNjQyMllsYzNWeUY3ZlFzZTZQQ29QWGt0ODdDUmswMm5LNFRHemlVTno1Mml0ekJuOTFUOXhpZndCcXk2M0ExOS1sTEpOZWQzREF5VDlEVjVUWkQ3clJWRTRUQm02WVRzdU05eVJGYURsMktPb0ViM3VHQUJpWGVVSVFWQnJTVnhfRTAtejYyMEdUSGl4NU96T0poS1RNNGU1c0VBV2Nrc2otOERtV3FjS1pzWFpWb1l6eURqWUFEdEZ6ajNkWUJnZUNVTmtPR0VqYUhyTklPWEdzOW1vQnhnN2F6ZFYzX1MxVjNCblFLdUNzM3pjdDdCUWRtdDcxdkJlcFFZc2VBX1A3ajUzTVZSYXZaZjVEMHJWUDBCMzBISVlRRlgtdjlfWnhJRHU3ZHNDTHF6emJFM0VMSXlUaWRZT1hoMnlGVzFEZEM2T2FtYWpSYzUwLVM2Unp2TFgydk5jeU03amYwQU9FaWppRkp0d05VaW9ZcmE1bUpVMXkzdHhaYUNlYXgzOXQteVhtUVI0cmZTV29lZzF3YVBrWGZydFN6ZTh6ZmtkbkY3WmdtZXVnN2xielpwTmJBUGFHTE9IcGlXejhSQTA1cUtqWmpibnlSVG5BQUVzcjItaUdNZ0tWNWRrZjJMb2xkVDJ6cm12cGFrNVZzbkdRblY3SFBtYk9Wc0M1LUJzTzZKZndEcDNTSU55OTJwaFJZdGplb24yTV9yeDlJOUdLNk9ZRllKWTYyMlo1M3Q4dFpJVVBIR01IWkMwQ0hfeXEyMUppMEttSlFRczFqSDV0WWZ6U3dHUVl2OWtSRUhBM2lXYVM5eFNiczNicVBRYkJOT3Q1Zk1iQ00waTZEUDNMUHlXV2pEREx5dzFPOXNPbkxIMnFIUmdEU01qZndCNmUtQnJUeEVrRzYwc1JOX3YyT3pKMURwVzRnUHBGNG96WEpEMl9wZ0U?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 21:14:52 GMT",
+        "discovered": "2026-10-14T09:10:08.763425+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "فيديو: ريمونتادا لم تكتمل.. فايكنج يجرح كبرياء بايرن في مباراة جنونية بدوري الأبطال Kooora",
+        "player": "",
+        "content_hash": "cc1b6d6614ea90474922fcdd961de6768783b7f37ab43bc55385d44ff5737622",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 11736,
         "title": "لقطات من مباراة جالاتا سراي وبرشلونة في دوري أبطال أوروبا (صور) - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxNNVRILXJsQVA4bmFsNXdLdzM5dWNhd1Q1OC1jd3NYTk96XzJlZ3RpcENwaXBEeWZ3OVA5Z2NjZzlyQU5LVjlSM2cxRFZEdm16eVo2UF9EbnhZR1F4ak4wYTJCVVIza3FyZlJkUVN3UGVMQnRsaWoydlEwQ3F4R1NfZDNZUjJkQlpZbVg1RDJPaDN5RFpLbHhyeGkwSFpwMEpSenpCQTBMLTJDT1lOV3BNOUJPRTB4eVljYk9JMjhuY0llSVQybTV6TXk4dGxkREdHdFBTMHZBd3h0M3hsb193SjFPTEpBUF9aOXVBcUdQQ2lVcmhJNVhYUFlsLXhBTE1Jb095SjlkdlFTMXN0OFBFaWROaW5ORjNEclVsTTRYeWtOdDlLOXF3WkhNUGpoQkR0Z0V2d1FMaGNTZDR4dlZqNjBlaFc0NGpUVkpIdW1yVkxBTHYyaUg3TFdaelFQM2ZTSFllb1VZWHpJQ0xzRGp3Y05hc0Y2cnlqRzRYTUxlWEpDYldUVUUzajVvcVRCM2JZQWFYeFFKUmcxZFF1X3RIT2E3NmZPUm1ZRE11V083RmRpUHpjb3lieTlGLTE4aGhWSC1sU0l6SmhuaHI4bXlmUVpVTTdQQlJQanJOS3BKcXdlOFlwaGtmNVpONWxMM3NDZ04welB3ZnA?oc=5",
@@ -1458,54 +1522,6 @@
         "summary": "لاعب الرجاء بالطيب يغادر أرضية الملعب مصابا Elbotola",
         "player": "",
         "content_hash": "2ce9e87b42b5a4b9fd4f5ef21e13339d3c4ddeef436837d57ed94444cd319647",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11707,
-        "title": "المتعة لا تتوقف.. برشلونة يسحق جالاتا سراي في دوري أبطال أوروبا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxPU05FNC1TSlFxNFFvSi1ieVVWWWxCbXVibGV0RXduelBxT0F0SXpuazZpeHFOWHp3ZWFTX1pYT3JhM01taHpHMmVBamxoRVlmd1pnVm5DcHNNY3QzN201bTRXNm9nd2Rpc3FhVHZSYThDZlhuMVpHdTZSVVRDWWcyRURwcDZFeW9HcW1aZG1SM2hIMWpoS1ozYWhCV0trd2FEOGNMLWJCTTRVbG1ncHU3TXNFRk84MW5fUXhoUXAtYmp4M1M4ajQ3cmJ5bjluZ04ycXNDcmI4T1pOamtBU3J5d2RrM3l0algtSHE1eERmZWFPUE82d3Z3MnNPM0tTOXBsOUhLNTY0TlloOUhIY0lfT1ROc1diMU1TVElKbXFPT0hzOUdjcEFLMDhnQmxMVzc5dXB1VC1QTTBoVXZEZERwdGRaYTNoNXNkY0FtSm1oU0VOUmUxMEhFQ1BTSklNLVB2X2FfUGViUUt1czIyZk4yUXQ4T1JYZXQxZi1fNUVEMnhpaWtJc3E0cFBnNXp1YzRnb2NUbUJIMkk4YXhUZmh3QjZuN3cwc0tmR0ZTcEFWUW5UWlZQbVVDakR5VzF5X3Z0M1dfNnJiN1ZJRW1HWVhWTUMwOXZ2VmtzNUtTdkptenB3d1RINklXbTdCaEUyQkYtd0hKTmVLYkFTdmhzR2FKR3Z30gGHBEFVX3lxTE9FVndrNUN5NWdON0pQV1RkLW80dVFNZjRBT0JBZ3hoajBBRVhYOUNUNDJaOHRMb3EycGFmaWlwdGQ5WV9Wd2FTYXVKVEtYXzlSTDdtRk5fWVlFSGxPbjd6SlB3X0RSdWxvOXFGM0lScUVZbnloeDljaEZrY0xxSDZ0UVJ6a2xlRDhKY1ZFODI3SjJjSGtXOWdVdHNOZ0x6UG1uYVR1dkRkSHNyOEdBemR6ZnNzUUdNSVVvWnlnUG85Z3NNWDBjZ3Y4MHpoWTEwZnZKck9JM0I1NXg2blFjWG5hYUtDUUYxanQ4SUlPdGJ1RnJyd1U2MzdjQ0dnMGFoRjdRVkhmTkhjaUczU01BemFfSUs2V0ROalpZUHFrYnptOUdXS3docU9zWW14WkRUYnJQR2Zyd2hhXzNpNDVfc21HTWJDMlBVbmtVVlRhcFhhVkJkdTZSVDFSMFRHQjE3ejNjWTc5eGNGZUtPWHluNnFwVTVwbTVFTHV3NXN4azJ6bWM5QzBOdC14UXplNmJrSWl1NURueG05dXFHcjEtcDJIZlhHanFsYnJ4a2hIV1hKTXo5Ymw0RjJEZHRxUGdUSTh2ZmlYOGo2M1R0dVMwSTN0dnJobW1QQW5GcHU3eVNfZy1SYWJYMDk1TjZ1UjJZTWxzZXVKMmN2TlZJMy1xZmdpNkpIRVBGUQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 13 Oct 2026 20:55:00 GMT",
-        "discovered": "2026-10-13T20:59:42.734487+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "المتعة لا تتوقف.. برشلونة يسحق جالاتا سراي في دوري أبطال أوروبا يلاكورة",
-        "player": "",
-        "content_hash": "2b15d1ac9615a214f955c40a7d4bb27072de799adfac2836e2a7e5c69e4052d7",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11748,
-        "title": "لأسباب لوجستية.. تعديل مواعيد 3 مباريات في الدوري السعودي رسميًا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxOeUtRNlNwUVZEcWZMdFV4Rlh5NUx2ZkltdGZPUlR2RWpGZUlyb2xxNDBOazhxZUJaVmpfQ0VQTXB4eTFnam5aN1FRdFVSaUVydWZSazNDRTZGd2tLZERKYVZhMUp2dGcyUDFtanhpR2dYeHZjdlQ5X094T0oxeGYtS3dmUFBaUE5aWFpjTDRaSU92blNnTEo0eTZJTnFiY1ZoeTJpU25zM1BQMGxudjl4ZzdzVnBLaUlaUC1Hdkw5VDk0elJvdXh5dW1mOFVYdUE4WmN0MTJSSU1mdFV4TjRFVUtsLXRoWHE2LUw5SDBucEdSQmhxTHBiSmtKTUZheVYwLXZhenJNVjl6b0NaMHhtV2lCUjh1SFVQWmVoWmR2RlBWakpCajRoSjg1b1c5SGw4bm9iNlI0bktlWlZrc21TSFBQVnFxWW1QNzI1S3otS0Q0T2xxLTZnMS1QcjZnTnlmcmpMUXU4VVVtUFNjdUxDZXkzODR6d1ZEWWVSeURNUXdheGt6cEpxeVI1Z2lMYWVnT0diRVhlYzN4dTg0amdSSm50MTdOVnlCYzdpSzQ5RWMxNm0xX01QNnRwbW1RMWR5TkpMNjJzbS03bG9hUUdKRXdrVlJGOXlQOThmUWYyRmxwVmJiQ0xtX0RIWHE2bVFQVjlsUHhRLTRpVUYzSmNJMzRjRVU2Z3NOVzFOOWNVOXZRQ1kxQ1hpbTlmalkyRllUR2lXTEpUZGN3YmQwNWlIUVFLaUlTLVdkb3g2SWRlQdIBkARBVV95cUxNOFZSdmNVMnhuakQ1OTlPaEZfOTZjbU5jT2E2OFJ5RFRGaDlPbFBqTi1qZ3dCVTRwMEZEVGpaOVFhdHlhT3V5NEZ2Tl8xYVg2WDY1OGR0Qk5WbHloeFVTcmYxOWdaSXdZQ3dSVFo2UWlwTEsxWWY0RGp2bE9zTEZZM1JNd1dCSzd5N1ZIbmJlbHhTMEdGZVVNWURrUkNQaW1iMk84cXFwaklpNmFpamxfSU80T05KVFU2SmpJU1Zfb0RQWnhvbXN4WGRObHlRcjBzTmRqczRqZUtFNDRwXzhtcF9tLUNDTFAtb25WZHNKRWxSX1dhYnVkdmNZMUppaUJxZWh0YkotMjduRDFhQW1RclZfMm5zWm8xb3pLOVNoTWlDNGR2OUtwdUZUcE4wRW5JUHdTNVo2NTZDNXlaZ2JwVEMtaXBUM2tpYnRFaTFVXzRDb0VsLVA4cjE5M2hldTQwS1NEUEFyck5mNWVBUkVzVUU2RDlUTHNjcEdiX0h6d1BFaFc5RFRzbEYxU0JsTFc3c3NreDJMUXUtN3hORlpMTWxiekxxNDNzT1F3NWJ1cm1vVjQtQlhfNVRsSVVmV24tNUZicElaMEFkLUtSQVAyUldHN2ZrdERvcmdVTFM3UUVuR2FvN1M0alY1eUJnMkI1ZU1JcWZoeV85LVZzTjgtLXN1WVhUcFg2d2ctczBQMko?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 13 Oct 2026 20:53:00 GMT",
-        "discovered": "2026-10-13T22:48:09.013510+00:00",
-        "category": "الرياضة",
-        "status": "رسمي",
-        "summary": "لأسباب لوجستية.. تعديل مواعيد 3 مباريات في الدوري السعودي رسميًا يلاكورة",
-        "player": "",
-        "content_hash": "964d8c4bda241275ac9f1ec40935e147ebd45fd0e49d412b82aad1ccddcde6b3",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11721,
-        "title": "أخبار و معلومات اللاعب علي الدقين مدافع شعب حضرموت winwin - winwin.com",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNkJNWmhWUGcwbWJ3aHl0aEg3U2hxb0hoekZhd0NFTTJtTDBHcWZQVk9td0M1YXJYbDE5TFR4SnhvQzBjLVNELS1oa3QwZ3hPRnR5ZGdkblA1WXhLbnBJY1NiczNxSGtINlJNUlBGTU9SQnFZMDNxQm9GaVJFTzM0ODh0eF8yTmc5RDlKR1F6LXpCX0pzTzZJeXNUTENGUlJUM1VqYXVCRTIwNVF0M1BWaG0zSmxMakloVUlXMWZkQkY5NHhmc24wcEtUTGZTaGlvZlV0RkZpOEVfUGJPYTN2YXBqR2dZNTBXWmFBUnhzV3M5WjI0RDlvag?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Tue, 13 Oct 2026 20:50:24 GMT",
-        "discovered": "2026-10-13T21:25:24.637449+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أخبار و معلومات اللاعب علي الدقين مدافع شعب حضرموت winwin winwin.com",
-        "player": "",
-        "content_hash": "ac5c3b19c28941297d3e1bab3b502c218f7b85f187504f3c82482e8d2908461b",
         "sent": 0,
         "section": "sports"
       }
@@ -2118,22 +2134,6 @@
         "summary": "اعتداءات الحوثيين تعطّل مطار الرياض العربي الجديد",
         "player": "رياض",
         "content_hash": "7cc55a123641a7493a59a74d77b379662d2d0bd7de6698e92109d93070e18032",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 11495,
-        "title": "المعارضة وأنصار \"الصراصير\" يصعدون احتجاجاتهم في نيودلهي ضد هيئة الانتخابات - الجزيرة نت",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOWnlLQWs4YUFiLUhsU2JtSDcwb3VibnNRRXpJOElyYnZVUDg4VGp6NjRSODB0anBObEVEaHREZWt0YUlZYmJiS0FUUEhzTFRLMl9lMW1UUTBjNVZudnBEWUYzYVNTdWVSZTFFTUtKMzZHMnFHNlBhRm1uV1ZXZlA2SFpkUWFSdnQybXJXNUJwcDV4UC1ONFJlNm5FRlFzVWxwclN6b3lSZWJFS3NoY05xcEtmNTBuSVVKY0g0QkVNVlV4dURjZk5jdHBZdVdaYjliam1MVTlyNzJheVhvb04xdklRVkxvQllkeVFJZzMwMmtiYk1qX3RkcV9sSml1YjV1Nm9wMzJiUC1nS1V0QWJETHRmVlZOdnVkZ2gzODhxOWl0VWNscXFBMVgtblBaLTZFTVhIYjNpMmHSAb4CQVVfeXFMTm9leV9tMDJtTm5IajRNQlV6QWt3YXhEdThwbkFfUmxNcTFUZUIzMHFHZHRuNnpHSVF3M21uSEhqT1dBSVk2WHJjUFFWWUpJMWhzMjZDRlpLd1lCeHlkV3FjOUZrTm5oMFpUaENsdXNaOVNoem5ZMmVpQ2JiVy03OXdXZVBFOXNGOF9iOUU1SFYyQXR1cEVwSFF4TzQxNDdNYWpOT3l3cV9UZWY0RGx6Rm5jWTNxajRhM0NNeG9oMmV4NDVNZm1Zd09oX2hiaEtaUWpKZnN6cHYzeWhzTlZrUmNvTXRnYUMyUVg3YU10S01NX1ZNLVNUU0UwYTBIN1VDRTZ1ZUk1YldaZEh5QkoyM3Nob1VpS1UyMTI0TnkwTFVIclpqMENwalcwSUsxZThSeDgxSmgyRV9HbVgtVzZB?oc=5",
-        "source": "الجزيرة",
-        "trust": "B",
-        "published": "Mon, 12 Oct 2026 21:39:11 GMT",
-        "discovered": "2026-10-13T07:06:51.428052+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "المعارضة وأنصار \"الصراصير\" يصعدون احتجاجاتهم في نيودلهي ضد هيئة الانتخابات الجزيرة نت",
-        "player": "",
-        "content_hash": "37a68b50dda78f49f7ab2466d01b481ba1e2a47a4d512b64ec7b1abf61233315",
         "sent": 0,
         "section": "middle_east"
       }
