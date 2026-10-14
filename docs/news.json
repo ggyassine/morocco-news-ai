@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T05:10:08.534660+00:00",
+  "updated": "2026-10-14T05:39:32.967615+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -822,6 +822,22 @@
         "section": "sports"
       },
       {
+        "id": 11839,
+        "title": "جدول مباريات اليوم - 14 أكتوبر 2026 - بطولة دوري أبطال إفريقيا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWGg5MjdhdmM2dE1RTC1SLXBDaXVjYWd5RF9hNXVYSzNsaGpLY3A0OWFTc1R4VGZDdVJDR20tWTcwWnhIaGxZOE9lektpVVUtazlyTVNhVWo1Y2VDQnFvU0xIT0o4R0RXeEt0NE5kUEVrUHEtVkdmZ0JnSEJMWjB2RzFtRGNqc2ZIaktheXhQb2w2ZWVMVTZnOWRuZko2cGR5bklqZkNrSkpaVDZWUU1sNnp0bUVJcS1adVR0Qy00YWJOZXRKWlBRZERHUlJsaDktWnRwN0FqNDVWNmxDVjFuWUY1WGJEeG1Vc1dHUTI0Yi1HMEZVenIyU0R2LVJlbmZiUzVQWllnbWpoeWt0UjRZcURMZmQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 14 Oct 2026 00:00:43 GMT",
+        "discovered": "2026-10-14T05:39:16.144701+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 14 أكتوبر 2026 - بطولة دوري أبطال إفريقيا FilGoal",
+        "player": "",
+        "content_hash": "9dac6784603f1ab346bb611da03ad4b05d4340baf6f3968e4edc8f6689d62781",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 11763,
         "title": "جدول مباريات اليوم - 14 أكتوبر 2026 - بطولة كأس الكونفدرالية - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQYmJwb3dCaUJvX21QRWtkOWhHSjUxSE92T0xETEFXcmVCRUJuTWE0bG5HdWl1aVltZnNVSDdiVTctSXdaVUFRQUJDcjN2VlZXV1BoZ200b0V0ZGtlNklTQUxhUFVWa1ZIeTZOaHVjdzhKVGUyV2F4N1lkeG5lakdrRldWMlBGX3g2NnVRa2JkWS02ek5SaFZtOURKREdpbGpNd3JYOHAxN0Myc0MwY04xMFNGclBqbnI3aE91bzhKbWNYdHZTWlQwTFZDcU5BelhjNWgtN1lMQXQ2T01vUDcwc3lzN1JxS1lqUkZPN0ZNNE5RbDdHem9ta3lZOEVlQ2VTX28tVW1vY19pNmc?oc=5",
@@ -1522,22 +1538,6 @@
         "summary": "بوستيكوجلو: إصابة كومان تشعرني بالقلق.. ولا نفضل بطولة على أخرى FilGoal",
         "player": "",
         "content_hash": "ef5b2dd28dbe1168ccbe6bb3fc40575263b7d4b188b0dc5aafc8b94059be626d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11679,
-        "title": "إنزاجي: شاهدت أداء رائعا للهلال.. ومحظوظون بتواجد هذا اللاعب معنا - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxOZVZuZmJqVGpTNjd0c1hTRG1zbGcxVjNTdkFIVmlTeXU1VTFQWGM0MUUtVjlYTG93UFNXbTlFUkhxajdkUUxyejNTSjhfNUVyNWktYTcwbDRvNUpBSk85NnRYUnAzMndhajh4NlViSFY0MmpFcXNUUXFHRGN0eWFSakVDdkF0R05vbDVqYnJOVEtoeGFEcWhaMTVhTU14b09tTXo0QzJQZm4tZ0tjU0o4M3pYRGkzSmdaVWZxTGFEZVl1enpLb2RiV2k3RXU4MnY0b2tCY1MwdXQ1NXNXZFVNNW1xNzhIRlFud0k1Z19jSFpyeXlGeWtqbzFvTFB3bHJ0ZXgxaklKWWJPM0xrZUdoOFliSlN6VHhXa19NcmRIOHR5eU8wMk5mOGNsbnJoUFBTQWZTLUYzS2N3cy1HUjlxVDZZQnlfcDJQWmhfd3dnM3liNGEtNDZsUXVYcU9PUHJ4Wm9weE4wdUFsRC1GcFltRVhpUURLNGRVanJMQUpkRWVPdFJla0JLeWFFQW42akVfOEVDMnE2bFQtZGhmdmo4cHNWemx5b0hHTmZxZmNDUnB0U2NZTDVBSXpPU3RTbUdQQVBiVUZNWndhOFVHNEo5Y3JaV2NsSmZzeHktNHZvTTh1MEZya1cyWEQ0cV9SVzI0Q3doQlY3MTdEcEtLdld4RjNYUWpyVWlCVDNJV2hzLVQwdVAzUllVZ1ZqWWhPNUd5em1aaTNvV19oUHVlRjNaNmU3clFPN0ZSc3ZONDFaUC0zaUZ3T1c1RTFDY0FDNTZtOU5TWGw3SGU2eTdsWDZFYmY1eGxZdE1jREM3ekZ0eVp1OUlZQ3lKZVlkY1lYZTA?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Tue, 13 Oct 2026 19:37:09 GMT",
-        "discovered": "2026-10-13T19:58:18.560632+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "إنزاجي: شاهدت أداء رائعا للهلال.. ومحظوظون بتواجد هذا اللاعب معنا Kooora",
-        "player": "",
-        "content_hash": "a7ee330312595b1391703255b87b35606f50eb92104f68fe35e89e7e00bb460f",
         "sent": 0,
         "section": "sports"
       }
