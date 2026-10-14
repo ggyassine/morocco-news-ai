@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-14T01:41:54.022135+00:00",
+  "updated": "2026-10-14T02:08:03.529520+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 11795,
+        "title": "الشرطة بالهند تعتقل قادة « حزب الصراصير » عقب احتجاجات ضد مفوضية الانتخابات – اليوم 24 - اليوم 24",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1GZ3NmTU1TNGhRdV9oYzJVS0ZQNHhmX2t3N0I3RlI0Y3JSY3p1TTVPU21tYXdRQXJKaFZyR0RnVFZlYUV2WVM3SUlR?oc=5",
+        "source": "اليوم24",
+        "trust": "C",
+        "published": "Wed, 14 Oct 2026 02:01:13 GMT",
+        "discovered": "2026-10-14T02:07:34.058385+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الشرطة بالهند تعتقل قادة « حزب الصراصير » عقب احتجاجات ضد مفوضية الانتخابات – اليوم 24 اليوم 24",
+        "player": "",
+        "content_hash": "827af64782a4cc28ca952f0aea431b373913fe343cf5729fbd798051e142b421",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 11775,
         "title": "صويلح يطلق جولته الكوميدية الجديدة « PLUS + » من الدار البيضاء – اليوم 24 - اليوم 24",
@@ -966,6 +982,22 @@
         "section": "sports"
       },
       {
+        "id": 11796,
+        "title": "لقطات من مباراة أتلتيكو مدريد ومانشستر يونايتد - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPUWc3cVZHSHdXWGxuTjlheVdfakZnckJ6YkNhSDlOM3Z6eF9rNzhSdWJ4dk0tYmhYMVlmR0x1TkpmUDJ2SE9nN01NU2xFVms2UlN6THIwbFd6X1VQZTVPOWs5MGhXYmZPVkFiMGpWUm9YQ20zMVBvc3ZNUURwQWQ1cVItcFRjYkZKdU11N3ZmbWlDNzBZckJZRWdhU1VLcl8wemg1MmdydXlxNEs2MmFLZXZqRFl2YVR2a1hUNkVOSnQyMFlQNDB0bF95X3ZpSDM0SmYwYjV6VEtWd1hYTm1US05MVGxuTzdvLTZNa0JPX0RaQzVlVEJEWlRnUFF6SHBmWmtkQ0ZfMVBMY2dwdlg3RTdKV2hOOGo1dTVXVUZZQmgtWnZteUI5Y2xDbVVKNDltYXZwTkR5NnJ6aDRmM0lVNndkVlNCUUpkbGJkdEV4U09yWm94X0dHTzZQZ0hsdUlMWlZqZG9sT3g3VVNBYmxXLUFlRXZZODhXYTRPYlhCdEpXWVBhQW5MMURyUWV0VjFBclJWRGRibjNFUQ?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 21:23:00 GMT",
+        "discovered": "2026-10-14T02:07:45.710667+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لقطات من مباراة أتلتيكو مدريد ومانشستر يونايتد يلاكورة",
+        "player": "",
+        "content_hash": "3b715bf476799020ef5b46166443d9570b1adfb804c18e7a3d1e52775a117b77",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 11719,
         "title": "مدرب شعب حضرموت: أخطاؤنا أمام نيوم أنهت المباراة مبكراً - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMixwRBVV95cUxNblpUb1dpUXNLWFFwbzZxSFJGcFNRM2JRaHQ0ek1NUTVfeXlqNzhHU2NhWXVLSmlSTWd1alBBdzdJazEtYmNqSzNjTUY3UW5tdklmdVAwQnYwbU1vSU5iNkJ2dG9aRDJhRVJoUGJXbXVVcFhqZGt0MVR4UnEzMUVLTEp6dUtkWElMWHZ1bDJ4eU1HN2tnZXV4ODk4ZnhDbTdacVllV0xNZ0pOZFNkS29UMGFHMjRMRGd0cUNuaDFvcEtCZUdJcDdRRnN3T0VEekdXTDRfaExud2FkM1daUDRUOWYxVm81Ym1kRzJmSVlSY3kwa3lVZng1cm16TGw5UlpZVkZEdE9KMThJa083d0o0UXFkdnlNOUVuZmNEZGsybURzQV9HQUk4a0xMNWxTcnZWRjNseDRJbElmNG9CWkhJcVhWek1DMVhZS3JEcmVxU3lUemxpeDkzcU02Ym1mNFhGX3FJZWI5enRGWEtBSEx1cWtUS2xDblB1Y2dqS3NzTnpzSFFGRkpHNFZrSllQT1RRZ1VjYWpGcVBlZmoxX2hNY044QXNrUV94N1JJQ0VDeDF4R01PbTdsOV84c3Z3WTZ4MVVSZVM3b29RYVUxTHpfZ2s3dFNJZnhUWVJnWXR4cm9iNC0yU290R0Y2U0dvblZ2ZXJmbExQcExrbm84UmRjQWFGcjlmWTBwdG51RWlsSU1zalNubGY1ZVNqVmhtOFVMSlBabDAycXM3aXJPREhKVXdNX3Y3VG14bGl4dEVzcVhWT0Vha3ow?oc=5",
@@ -1492,22 +1524,6 @@
         "content_hash": "94e80979e30096915eca899fa62ff920b8b99269c62d03ab44a46ec82448005e",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 11675,
-        "title": "الثالث على التوالي.. الاتحاد يفوز على الجونة بثنائية حسام حسن وتوني - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPbUxwdmMtX2Z3MWV5R2VuSU96SnZqczliVXFleHJkYTRtNVpySHVRTHpPN1EyZHhzbTZQUnE3YlhUUXdPYkxvN2liNmRlN293dGhwUHpBR1l6NGdtaFJGSmRYQlotSHJ1eHdxMDRUZXNoQWM2TU1BdHI3QjBlV3hneGRPVTJxQU5UQVVKTlhfMnN5cTVWQlpmbG01UW1xaUkxLUU3SkZpSjhfRXhtLW9VQnZLbVNQNTg1dThGMmZsZHVMbjBPWHlxYXRUMmE0R0VoaHpBU0ZieDFIRnBJZWRiMi13THVsVmxIclpjNmhhYmFHTUxVNV9wN1hESWVOSWVNeDVTa2dTTC1CVm90Mm1qd0s0S2QxQ1RQbG1QSXRnLW15cldqRDNmbWE4T2hGSUhZamZXZUxOYWNHSHRyQUtHRXpvZ25WVF9VTGlKQ3V1aU9nRzRaTm5XNElyS0o1TG5YNF9EZ1RQT2xTMWN3MTZBRG00MEJTLXBRWnZxd3NyMENCV0Z1Vk1zT3RZeTZydktiRTQwalpYUF9uQXEyVEZRc0t5NWNyTnpCUllGOUhVSW5TVEM0dVZaY29USUlpRTJDLTRPRzRjQndQWG4wT2ZzWkZhT3BKSGFVRmRDWmhCc1Q4WFB3LTlyOU5jcDl3Y0NWTkVocS1GMUlxOFdsU3UtZk1jb1ZDMUtETnoyX2F3S3EyTndXMWpN0gGcBEFVX3lxTE5sWklPd2dGY0FYMlEyM2RwemxQWnhUQ3RNTlRHRFB4MEpFQVdvWjJmWWVJQUMxVUw5RFpMV2VLUWN3T1VDQ0JuWkdlYkMxZ3ZfY1hvU2lUSkVIUXhBbVUxUUFVUmVVQm9uN3U5LW9QWjhTa1dsZXJnakpkeEotUDY2MURsQ3pJanMweHNrSGpDSWl2eE5sX3JRMGcyREd2cTBlcGZDNVF0VENXSUJfT2RlVEItcUJqbklKYVI3eVY5NlNzOWhiV2RGM3RQM0Nxd19DRGxqOTluWFRLMHlJYjVVeFpvUzdzSHVtQWRrcFZFN21UTTZXY0t4N3RkU3dSM0t4RGpWOGVySXJPTDBSLUtabmRCeGJYQmtOT3l5YVJkWjh2NnNkellZaURBVVpFMW9PcS1GQ1c3MFRFOUhDQTdBbmNJaUVFMVM3ZW1scHBLaXVna1RSNlpNVFJuSlpYZ283ZE5GQUp2YWQ5QUd2N3VfZTk1Q1ljbFdxbUEzTlVZSC1GVGxsazRhSmVya0RUdWJxRWRwZUtSNnJYSUN6c1BTSWFZNkgxbWdPVVlHYzBrU21uTUR6MFNCRTR0ci1tQ1YteUZfTVpfanFKTDI2V0VtTU9TbWhrYi1MUXVabHZwdW4xSTBnNVpwTkgwT1N2S3VESmtGUGQ3UEludjZOZEJha1J3SU11Qkl2eDVxQXFBZ2hkc0JiSWVuVnVLSA?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 13 Oct 2026 19:03:00 GMT",
-        "discovered": "2026-10-13T19:26:44.720684+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الثالث على التوالي.. الاتحاد يفوز على الجونة بثنائية حسام حسن وتوني FilGoal",
-        "player": "",
-        "content_hash": "3d0edf7b5e4b53576956379cb1853c56138b202aea6cdeef45db1798d1c98776",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1784,6 +1800,22 @@
         "section": "transfers"
       },
       {
+        "id": 11797,
+        "title": "الدوري التركي.. وجهة جديدة لنجوم الكرة العالمية - Qatar news agency",
+        "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxPWjNJR291Umo4aGxBNjRsOVJiZUNqUmhCNDZMZXdDbjNYVEFNVlpJTF9mVDNWUGFaVURqX2xtQ0kxT0F6UmR5dWdqNUlROUNlRFNKSklIcEpZUG84Y1JPWjMtWFJsaEZtNUhlaVQ1M1BZOVpDSDJmLXZHU250NTVEV3REdVk0NjFJYWQwejVjTW9SZTU2T1RtUlJJbnQ2VVNiQTZtN3ZrOG5tSVVtMEFEdk03N0JpU0t2MDBhMzJfS1lMcXIxRGlYcGEzMnlHMkNUeVkyNlJTaWY0X3JhZlhrYU1LbWdrWnJrTGZPQkdBOHg1NkNRSTM3OGF3dmFPYWd0Tnk4N2NLNVhPUEhxMjJDY2hOMlFLMEZKNms5UUJ0cmxoN2d4cmwxT3BNaXRBTWlNUkxCQlBEc2xFdUMzZE1URWN1M1VsaDZvTEpDMkJnbWlEenpBbzBBUkExeTRyamk4N1RQa0VuQTNvNmlkXzIxTER5dHVsVWpUQUNUeGJMRHRSYTRnUzM4QTI5RWh0VFlMcUtmMmlvaEhBZFIwLVdoZg?oc=5",
+        "source": "العربية رياضة انتقالات",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 07:54:41 GMT",
+        "discovered": "2026-10-14T02:07:48.889990+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "الدوري التركي.. وجهة جديدة لنجوم الكرة العالمية Qatar news agency",
+        "player": "",
+        "content_hash": "278e0e63e74151de151724adec91a5e2fd3f2e541c0897d881aef2cc463da4ef",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
         "id": 11537,
         "title": "\"الأنابيب السعودية\" توقع عقداً بـ47.2 مليون دولار مع \"أرامكو\" - العربية",
         "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOcFVJTG52QXVaZlVhNURpUXA0eTB6ZzUtMXhtMHhGVENUMDNyNTMtbXlRMkFrTU9UQ2o1T2tHdU1fY0dOSERlT1ZiN3YwcGxSbWpEcURrLVZwM0lmTHMyb25EaTA3Q21HdGVYZzhESkxfRnVpYWZDZTU4X2Z6VkRQTGZuaWZPaXo2VU1la3lRRnlwTmJhX1ZGT2w3eGdMZzAtMjhheGExUmlJZmZndXdfY2ZURUVMN1hVTXcxUHBibldTYnR0UE5OWTV3aDhYSlBiZE5MZnVzWjl4U2VFelJLU25tbnF2NmdXdjQ3WDBrUjFnbmxGSXgxUU9uUWRqOW1KaFplODdRcXNRY3oxRm03dzA1ZW4zc0t4cEpDMlgyMks3R21zeUdDLUJleVhCaFl6ckpCc0pyN3h3RktBQzFuTUphN21UcjhwZDRPQ1BDT0FIVFpDZjNQRDd0dGpiOFU5VmVadTBQaHliakhZMTNYZXdPeGhRMF92UGxzOTlMZ1ViY0drLUZ0UW5iZHR0UGJEWjFhUnpvSG5tOFEyOThtQlZJSVVQZzB6OEhRT1pYcDZDWE9pLWlzWC1KQUZKVmU3dGZYMFBSMi1JcFZobWtQVHZn0gHXA0FVX3lxTE5tVnBxc29EdElqSWUzYTdHVnptbWRucGN5c1R0UDJ2QW92UUMzUFNjeGd4SjU0blNyUlhCTXkzM0Q0YzdvSElCekNjd2loNHByZ1pBMTBtQ3ZSemN0T2NwdV8ybkpGRUgwNGVsSk4tMXV0ZnlDWjdKQk1OVGdIc3F6MkZTRFI0ZU1OVVB5eTJOMVpCS0w5TkdneUdKeVhWVWxHU3A4cU9FYXZoTHVaUnNnZk1ObXlZVnZRa25TQk90R2UyLWlzb1pLWmc5bjZNU1lHZC1rZGlYajVBcmJHdDFIaU5jUC1ZY3l2Zm8wc1FMeFl6QVp0Z1ZXWFh5TXhZTkF1R3pUX1RDU21odW9yME1BdVl3TjY4SklvUVk4VXpBdXJpY1hIeHlNUmpqUGd4cUNpb21QTVpKM1NpQlZnZW41dGNqMl9TRElLSEIydnJpaURfSnlWRVZZcnhzMG4ydVZwdW1FNVNua1pwa2hUcTlOYkdmM0pIbU5rOGladTI1Ujlqdi11bTlrR2p2SUJONXlXcUhWT2k0TTctMXM2NWFsVXpaR3Fwd0JhVEUtYjhLWE9zN3hyMWJ4ZjIxWVZqeHR2YlhXVHR5dHIzejdYVzF1MFhwcXJLVQ?oc=5",
@@ -1976,22 +2008,6 @@
         "section": "transfers"
       },
       {
-        "id": 11306,
-        "title": "خيتافي يضع بلال الخنوس ضمن اهتماماته ويبحث إمكانية ضمه من شتوتغارت - Elbotola",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xUjBnY1lxLU1mdkMwemhsMlFWZzE4UjRheE5QVWk2WUdaZWVyNzVxNkRFOGVVSDFHOThGTXBQVzA1ZGFVRjBZWlVSVUtscG5RVnYyQS13NEJ6ZENpM0tRaHVreWhJMk1SWUE?oc=5",
-        "source": "البطولة",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 17:45:00 GMT",
-        "discovered": "2026-10-12T19:06:48.470432+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "اهتمام",
-        "summary": "خيتافي يضع بلال الخنوس ضمن اهتماماته ويبحث إمكانية ضمه من شتوتغارت Elbotola",
-        "player": "بلال الخنوس",
-        "content_hash": "66e8e5ee4efcad84e078470ac916a062ed5cf723a66cc4021bb0b9f48a05506d",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 11373,
         "title": "شركة مغربية تعرض في ميلانو دواء مغربيا مشتقا من القنب الهندي لعلاج الصرع – اليوم 24 - اليوم 24",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9TaEFKNDVZNXVYQVlEYmdwdXBNTlFkN0dCVzRydVUwMTNFazhpQlJVUFN0eF9pTGU3eVZrM1hfck9qb2RzNld6ZXRn?oc=5",
@@ -2150,22 +2166,6 @@
         "summary": "400 كادر طبي أنقذوا مصابي استهداف مطار الرياض وأجروا 25 عملية الشرق الأوسط",
         "player": "رياض",
         "content_hash": "a77d230046249232e65652913ed4e8d174a8045c158dd489fb1c964c3d3a3f99",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 11349,
-        "title": "مصدر فلسطيني لـ«الشرق الأوسط»: لا فرصة للتراجع عن تأجيل الانتخابات - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMiwgVBVV95cUxOR29FVU5iNUt3OVRVekRmVEFxQWVBdWUzTGFiaFA5eHk5U3gzOC00a1g2c1ZRUURaSFowUk1ySW0zTEZvaEdHOEtORkdyU2JHSmVUaDdDRnVpUVltbThLZ2Y0YndfOHZNNGZlanlRZUdjTzJiNjdBbHpzZXBrNlhrZWdFV21zVnVkaUg3VXJpQzlPYzBtVU8wYWVHSWdwNGVVOUVkeWhybWhkZ1RtaVVPV050QVZoTTNqZFZ5bWZSREoyMXlhaVdueGhtQ29hbkt1RHNLSUVsUklDWVBqQjNSWUVWaW5wdXBvRWk2bGNhZzBDb1hybVl2QkJIaEl0enNMX1gxSTFiM0lyclZSRXBRNmhyZ1BGOEV1a1JWZWh4QVF5aDI5YndCWmFTRGhfaXg1XzZvMXZKYUxGR2JuTnREZmM1Q2ViLUgxcjcyb2dBVG1XUkRXZzgteUxGNGx6TTdud2pZTFBDYXAyMlJXQUF3bEpHOGNJMlhDTzhxbmhMVE80SE9RdF9iYWk5c2NHcWUzZHBLcmF6VFZxTUFoU3F4WjEwaFFtckh5aUlJYUNaNzZGWTRFR3dtN1J3QWpsZmhRQWpFMWloeUR1MWR6TEhTNFd1TXJSSnlqZHZYVEhOR2RiX2lUTTBEaDN5Q3Q0V2Rtc1ZLdDNRR0hRUnhuVU1ua0xUV0ZHTy1kX1RXSG5CUlNnQUxFSnNOUDdBYUNVWThsMl9TWjFiNnZ3aG1tbF9xMUUyNFdSbEVHaFVrQkxJODBWc05tQmk2NWh5ODdJWkhsZm5JMUxkSHQtUnB4Z3dNOVc2WkdNRlktOEd5bGlEbjF0eVZCeFpxclNjVk51THc5SHU4Tk1ZM2lsNGIxb3dETFZyNDBIcVFVWVlLQ3lrUTFranhJcFFadUY0UlhTc2k3ZmlwblRGMXRPM2psS2hSdHpR?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Mon, 12 Oct 2026 16:36:45 GMT",
-        "discovered": "2026-10-12T19:43:59.003243+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "مصدر فلسطيني لـ«الشرق الأوسط»: لا فرصة للتراجع عن تأجيل الانتخابات الشرق الأوسط",
-        "player": "",
-        "content_hash": "0b31d98f836f05c73bfd7d8d15620fbe8238b9b340191a62b204e8d41c384080",
         "sent": 0,
         "section": "middle_east"
       }
