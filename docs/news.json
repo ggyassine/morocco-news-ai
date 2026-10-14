@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T04:08:12.373419+00:00",
+  "updated": "2026-10-14T04:40:07.576426+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -758,6 +758,22 @@
     ],
     "sports": [
       {
+        "id": 11824,
+        "title": "رئيس الاتحاد الدولي للسيارات: أفريقيا تحذو حذو الشرق الأوسط في مجال رياضة السيارات - جريدة الشرق",
+        "url": "https://news.google.com/rss/articles/CBMiigVBVV95cUxQZzJCcFVjQUxFNzd4STJBalVoQUxTQ0pTLVkwOWpPVmRCbmJJdmlQNDhMTTlHRVh4YmpZTDZOR05oMDlueXRyRDdnYW5jZGFBeEJWV0toZjcyNnZhS2M1My1pTEFWTE9kVU9wZzhYcHpvSTdKTXY4WkVLbWVaZ3BwcmRHeDhBRWtvU21qTTZNT2hDT2FoRUVOa0VTa1g4Q0VlRTVwbk5XVlNSTGl2VmJWWjZrcENnX3pjOFVBMWdCVlVOdnNrZzdDM2RLdXlTVzEzWmc0bnJQQXRxY05xV1BNWW1oUWZuNXo1VDhleVhpRE1VYXpBdjBENUNlbEFHTkV3WF9oTVl0bU1mN1BWVGZLWlZwNEJPek9Wb0ZobjY4YjYySVFtLWNnRkVXOEpjZmRiMkQ4aWlFR1d0ZTlwVDhMazNYRFEyR1V0THpxdjZVcnZOV1ZFdll0WFg0M1JhS3VNSTFJbWRpX294c1BXWXBpUk1aZlE3S2w3RVd6X3dVX0J2Wi12MjJXM3EyaGtlZ1RuQjBKZmoxYnZScFpJeWI2VmFYTnNLQ0kyUGxPNHdQdTF4YzRhT0dSdXlpaEIxR19SUm9YYm9uYU9TVTdXdnduZnB6LTFhZlpQNmRlenRnS204dG9JZUNWY3JaSU1tR21iYS1hRGE0WURyWkx4MU05MW54bUloeFpSVExUanVhS3ludks2R29hYllaOUxJdHRTakdZd0NZTHVEbG5oUmJ6cE9oMTlGV3dYY29fUU9NZ0dCblVaWDdjVEYxQTlDeHZsNjlUbW5CQlhfT1U4MUlEek5TUjRJYmhMQWF0UmdLYTlnbGMwaDFlNE1iQmktR1VCRTJ2WEdIVUo2Zw?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Wed, 14 Oct 2026 04:21:53 GMT",
+        "discovered": "2026-10-14T04:39:49.516403+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "رئيس الاتحاد الدولي للسيارات: أفريقيا تحذو حذو الشرق الأوسط في مجال رياضة السيارات جريدة الشرق",
+        "player": "رياض",
+        "content_hash": "6f64b86c853c506b45d9c97740d8c3c921a692ec0dd4b151be3c87a542b58690",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 11782,
         "title": "جدول مباريات اليوم - 14 أكتوبر 2026 - FilGoal",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UR25pdDlWS19ESHEwYm5DTVYxTnoxbmM2NDJ6ZTN4eVVTaC1mWVZ1TkVkWUZrM0ZsT0dUOTNMQjhhVTdORFB5WVBKemVndzM2TGtVVU5NcUFlR0U?oc=5",
@@ -1254,6 +1270,22 @@
         "section": "sports"
       },
       {
+        "id": 11825,
+        "title": "الاتحاد الأسترالي لـwinwin: لم نطلب استضافة كأس آسيا 2027 بدلا من السعودية - winwin",
+        "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOZlBZWXcwT2hnQVQ2VWJ1MTlHdkk2ejJET2c1RHhIV0NYYlY5djRTbzhRaWtTN05CYkh6RjlidnlkRFNhYUtzOGtCTDZyVjZVa29BX3RHVVR0VDIyVUVvNUJWZFFsSG9oTjVVR2dWWVl5blhsNXQ2aW9KR09OMjBZaUlVS1g1T1J2QkxiQjhQbE1WOUdKaGI2Q2YyMXZTNUtwcjRKUjh6V2lyYmg0UTJmWlJ1Y29YZ3I1cENtakdmTzh4Z3pTZlBvRE9kNlRXZTdacVRsOGk3cjNqM0d3R2JBVks4LS1aZTRaOUtQdXZ2UUNGcGF5WEVPLU5sVUJURm5jTjMwM0JvZ3JBU0hZbkMwU0JrYnIzYlB4MHZ5N2ZjajFrSGRKTjZfNmE4TV9RQkxiMVB5RDg3TGkxdFY1NGpJMF9NMGtnb21VNndYS3B6VFhMeV9zYXpKR1ZqWGxxOUhVRG9uSTNReHp3U0FJb1JEbENfVUQ2U3NLQktyWlhnay16VzdTa1N1ZXhqRTg5ZkcxbDNDMVcyQzU0Y2NXaTZBSTFxUVQ4VzZOT2I5SmlTRGJ1d19WY0ZtVFVSNXY?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 20:23:34 GMT",
+        "discovered": "2026-10-14T04:39:50.776884+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الاتحاد الأسترالي لـwinwin: لم نطلب استضافة كأس آسيا 2027 بدلا من السعودية winwin",
+        "player": "",
+        "content_hash": "8a17a1f907f61fa32cf982dbc199c6fa2289a2ac1e037e50bbe8311b7007bde3",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 11711,
         "title": "في السماء كما على الملاعب: فاشيات الاحتلال تتمدد - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNXzdyb2luMjBhUTBBSFlQSEY4T3d1MlpDS1pwQnEzTTV5SkFDeVhHLWxrMFg3NUtfdEFnNUFfcVdlVndOUlhWSDNLdFVlUlFtQ1hnQmtiMzFQZzg1dml6V0U5Rk1lemtPYzZQNWhJbjhCSU41cjlSVEhpRHpnS2gtMHVwUGFZcmtjTFFRQ0Ywb0pabUJteU1CbE5qT28zUGVZdVJyOHZvVUs4VlRjTUE4VUNRT0dlSVQ4Z251Nkl1b2NManIyQ0NxRlk0TloxZkNJSGU3ekdzaWlyckxkN1ZwdDdGSjFyVTBLOHJYNm5laW9QN01TWW1JUGQ3ZlotOHo0Q3kyNnVNY0VmTEw1ejRBU1AxS29fbFRkd3NOT2Y0dHYxWUFFNkZ6QllYUDh6eVlkV0FwTWRybjRKMkpGUWVKUmo3bENsWlU?oc=5",
@@ -1522,38 +1554,6 @@
         "summary": "واتكينز: هدفنا التتويج بدوري أبطال آسيا للنخبة Kooora",
         "player": "",
         "content_hash": "eb9f008ef83cedd2304e28c0a0c713538dfbf2452c597fc62da77e8a6d983514",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11682,
-        "title": "هدف غائب منذ 7 أشهر.. ماذا ينتظر صلاح أمام كوبس كوبيو؟ - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxNR2pEdTBLdlU5NXY2aXNxNnlfc1IzcFlSLWNJcWNCM0JZUWhwVWV6NEx1eV93cUxrVzFQZ1pYTV96UURmZUV1QmdNSUpPQXB0aW5PcUxaQS1ZOHlGekxBZUhvQm5TOXNZZ01rSVFVN2RTb1dhYnVETWt0U3ZTQ3NINlpBTzBUcmwxMG52LVYyNXN0c2d2YVpNUDB5eG04SXp2b3VRR2tNR2xwRXB0N2dWY0RKTWFtY3hna3M2dzJ4Y1BISWFLN2V1VWRva0R0UThuVTljY3otVjkzUTBFc1JBUDRKYkdQX2JHYmtBMGZ1c1VodEJwRGM4bW5tU2xRREZ2Z24yY1BSMGU2ck9PTHBLVTJwMGJLNXJ0a3VWTThaRmdvTEhRdmtfSFlRanR2OHlVOTV6dWVWOTBISDFJNnZKd2IzYzVsT2NLaVlFMkdDR0ZvWTRpRFJaTElKNk4wRV9PWFZ6T3k1SUdxMnR3S3hFVUlLdG9VaE1aVFRkYlZWdW9NZXZEcTJ6T0lhMWFNVDh3MzdUeS1ZYUN2WkNrWkp5aDh6T2RQSGZwMlRQak5yU2lGQzNSMDhVRVJrNmtzUFd4OXJnd3BuVVZEeGh1enfSAdMDQVVfeXFMTlNyQVNCU3VaVEVTbGJ5enh3LXJUTlJjSGVqc2xjRWhLRGFmSVhzcDJTeno0TnhKQ1Bqa29IZk9fYmFmWFNWRUxEamNjRXlvN3c2RjB2eFlGaHdOVDZEWE5vM3lNWkZ5eTUxWF9rR0NDWFpJdXJjd1BqSmJmcVZYYlFuQWIyNWptSVBTR2RmLTRuN3RrYnhEb1hBSWVpZTluNmdnSVcyWENrWWdkSEhPMVNzbkRYbGVlZVp0QWZDUjZVU3VON0xoSlN6a0UyQUtkOWV3MUFmWXg5OWwzT2lrdVJ2a0xQWFk1T3BRbGNqMGVIWHVlR011X3NIODh3ZzFxRmRuMDhCRGdsRlVLVVdYYkJSYzB4Q2d4TjNQODROQk03dkl2eEZJSnF5UUFuTnJOVjVxeUZQQmNCS0dvT1R6a0ktQmRHZXBCRGFHdWFvc1FPblRNdzVLUnBMd1h3WDBlQTVxTy1CdzRJWFFfY3UxVEwtWFdMRG9OVVZraFp3Wi1WZXFEMGxQUkV2VlZGSXBIdjd4cVlma2lDaVBtSVNabm5iUGo4cGp5bnc3WjZIWEs2ZEtqNDQyS0YySjBfUWtvZmtIVExqdUpjX3F3OVJoa0xBYTA?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 13 Oct 2026 19:21:00 GMT",
-        "discovered": "2026-10-13T19:58:25.199336+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "هدف غائب منذ 7 أشهر.. ماذا ينتظر صلاح أمام كوبس كوبيو؟",
-        "player": "",
-        "content_hash": "4af322fc91789345b34930f8a74658559d007e666c2bc4eb47512048e83084a8",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11811,
-        "title": "كرة يد - بعودة رائعة.. سيدات الأهلي إلى نهائي بطولة إفريقيا للمرة الثانية تواليا - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiQzBmNEJ0Zjl1NmZUQWF5ZFVMSTZzblI0UUtfLS13WENVRFdYeDU5MlpmanhwVmFnamRqVy14QjhmLUlWaW1tRTQzZnFJcmtC0gHnBEFVX3lxTE5tTFpLQkMwU195UGVWdHFvdTRFQ3RnUzd2S1BubGxyc1pfNmpYc0RaTHl2TjlRaUc1Ri1iQ0Y2T2xLN3N3NEFZT1IzRTFtZ09pTU44bnlHWUxoNTA2b1FfRGgwaWhrSllJcV9qMWRzVzBtbVJac0dTX1NZcjVOVS1SakpYMUlOZjBZd3FlaFhrTmpvQkU2cnRtaXZfcHpHRUsya1lJejJqbXFta0Z6Z0NwT21XMWdaUFJrM3FwSV9MdUxjSl82VTRtd0RWdWJhblR0R2laUzdNN2p2dDhzOTlGOGw4VktGNkNaVzRZUXN0bWdOdTQ3RF9vMnJZanoxd3RqbEpJUkVCNVppSTE3TVpOdGVfWEtiV2ZHci1Rc2RwbUpDMmdQanB1a1hzUHF3dXQxTWF2QjNPM2NxVVhLMXM1X2xwSi1PcFlSdEw1OEk3RnNlY1Q4NmRTRlhJdVB1MHo5VklPX2cwSlBNUDRfMWtKOTl6ZEtoRTFWZ2pXaUNHTDZJbFpPUnotemhEaXY0MUEtT3k2bXlVbzJld091YndlRkJUTHBJVXM5VlFJRVUweVZKMWtkd0hzdk9iWG1aRUZLM19DR3dmeXpoVE5IWmc4cUdXV2VVS1hqVXBTd2daSGpXazUxLWRORWkxLThoRy1sYWRWaWhCZU9vN0h4TDNJa285UWs3YmlnYWxnSUsyMzdPT0FQT1dWV3pqVkM2ekdQQ1htMEhCYXRPR1h6LWdNUWxvanRGa2NtMlp4S1pQd1dWZ0N4VkZmMVhVbkNhVUQwcFV4Q2JtYjNMLXdtMWhuTTlaaXIyVQ?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Tue, 13 Oct 2026 19:19:00 GMT",
-        "discovered": "2026-10-14T03:05:13.568838+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كرة يد - بعودة رائعة.. سيدات الأهلي إلى نهائي بطولة إفريقيا للمرة الثانية تواليا FilGoal",
-        "player": "",
-        "content_hash": "66e93f3f63eba0d363f39c9ac2bd44b57751be39c7f0a4d29a1f48e4ef4658e0",
         "sent": 0,
         "section": "sports"
       }
@@ -2038,25 +2038,25 @@
         "content_hash": "1420466d2034a2d514ab93ec8aae5f0a55f22898e07497c4c1172d57dc05f935",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 11372,
-        "title": "مجلس النواب يعقد الثلاثاء جلسة لانتخاب رئيسه الجديد وسط أنباء عن ترشيح التويزي – اليوم 24 - اليوم 24",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE91Zk96U1ltT2lWbFRFcXJOYzg4RDlhTWtJa1EzR0xxdTRJVUVsUGZxMzRwTjYwNFRrWENDNUlIZ0VpSURhU0hGa3ZB?oc=5",
-        "source": "اليوم24",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 18:35:32 GMT",
-        "discovered": "2026-10-12T20:39:11.392005+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "مجلس النواب يعقد الثلاثاء جلسة لانتخاب رئيسه الجديد وسط أنباء عن ترشيح التويزي – اليوم 24 اليوم 24",
-        "player": "",
-        "content_hash": "5bdd1e9aa9c4bf88e8a28abb1915c692f283b5c48abd2923d7fbca4b69cdf908",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
+      {
+        "id": 11826,
+        "title": "تقرير: إيران تغير أساليبها في استهداف السفن قبل الانتخابات الأميركية - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxQcG1PLTM3NVRob1A4V1NfS1dIMWprei1nZnBJeEw2RHV4Wkx0RXZKS29BSm0wMUdmcHVoTmpPY0tlUGgwc042bmJmR0Z3NzhtT3ZCS3J3bm4zREc5bWRfdFpvSWRacElKZ1N0STUxdmdmNHdRaXpZZWR2Q3dJc3J3YmhYd3EyZ2FZZHpIRUVzcXNkWDBMRGlBalVOQ2ZoYVRUbWViTEZiTnpPdmYxN2VPSFdGVngyUVBXbTdEWnBHbVAtMkJPeEN5eW1kRjJEcDFEUkwtNW9SMDA3Y1YxWVJWM3JBVDhkZE0tdDF6S3NhYjAyVjlyWG1zbU5VVmx1TUtBbzdacDc4aFBSSnR4ZUgzWUV2UlFQSXhOSk9RSUU3WUtVWThiYllZdWE4azZjWnFuck8tbTl5M1ozZTd4TXd2Slp4dENlakVLcWdxMm1oVk1RRV9mWVJTdW02MHJtZTRISjh4MDRXLVJxSzMtSld0UjlGSDVEcnNsUl9ickZXQVltRkpQVnY0ckNqM1ZxT3g5ay1FZlRFcEN5VGtNSHVkSGVTdXFlcWVkczdNZDZ1bDNCYkQ1bnUxN0lyRjNqVnpFNzRwZGdYTGY2MFpCd0taT0JleGF0eXlNWTlBN3JCS25vZUo1MGNBWk8xRVktSmI0WWVvRGQ2a2JiTHpmOXhkUWhVNEZOel9mSU5lRkh1U0lDbkk3MkIzZmVCRDdqZV9XcDNIcC16bGxjSFN4V3NEeE5YWk02Mzh5MTBxUWF0S1NwVnVHLXRnd2JoMUZmcTZZZnU4cWdqejlOU3h5RWpNMUVoQl9sVTFMbzgyZHRQQjlsMjAwaXV3?oc=5",
+        "source": "الشرق الأوسط",
+        "trust": "B",
+        "published": "Wed, 14 Oct 2026 01:05:20 GMT",
+        "discovered": "2026-10-14T04:40:01.260407+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "تقرير: إيران تغير أساليبها في استهداف السفن قبل الانتخابات الأميركية الشرق الأوسط",
+        "player": "",
+        "content_hash": "907aab79d8637417a3960b3399329727dea9fc35840cb38535fca79d7f8ab049",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 11665,
         "title": "القناة 12: نتنياهو عرض على ترمب شنّ هجوم واسع على إيران قبل الانتخابات - الجزيرة نت",
