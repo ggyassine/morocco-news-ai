@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T04:40:07.576426+00:00",
+  "updated": "2026-10-14T05:10:08.534660+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -738,22 +738,6 @@
         "content_hash": "8533b353801ebf5537d16a162df69dab761f5a73008969110d3d4978f684aad5",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 11374,
-        "title": "مواجهات بحرية كادت تندلع بين المغرب وإسبانيا عقب أحداث سبتة وسانشيز يؤكد التوتر – اليوم 24 - اليوم 24",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE15TDlDcTdkX0JMNXBNLXBGV2Z4Q1FHaU1VRHptMkpWUVRlYm1uc1JSdWZxTzVvaV9uN1ZEWDZGT1NjWUE3Ym1CMThn?oc=5",
-        "source": "اليوم24",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 18:50:40 GMT",
-        "discovered": "2026-10-12T20:39:11.399783+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "مواجهات بحرية كادت تندلع بين المغرب وإسبانيا عقب أحداث سبتة وسانشيز يؤكد التوتر – اليوم 24 اليوم 24",
-        "player": "",
-        "content_hash": "fe0e92e117053164dcc2f47848049e2425b8dc1629dddbc9d319d260cf1db10b",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -850,6 +834,22 @@
         "summary": "جدول مباريات اليوم - 14 أكتوبر 2026 - بطولة كأس الكونفدرالية FilGoal",
         "player": "",
         "content_hash": "285d5e3fd1078dbf1e3be5e739f5dec7da57bddfaf5ca55ecfe09249b0313ac8",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11829,
+        "title": "جدول مباريات اليوم - 14 أكتوبر 2026 - بطولة كأس مصر 2022 - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY0RxM3d5eE93TjdwRlV5UHRjV0FqZnU5MXNjYUdWNTVCQVU0MzVLem5sbk14MEdHMHBTOFdXNldpU2wySTdzZXJWMG9tc0FEcjFuOExoQW81QkZNNFlPeHRqSXEwMEtLYktpVExzNTRmQVF2VlJEaVBCbW44ODFIVWJsbm1LV3VyaEYtWmp0NEFyUWx4Q1VxX00yV2Vjems2TjdJOXV4andLblY3YndUYTJLSzBkR3dhQTRNYVlaN3Z3RGVtYTU4YU1R?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 14 Oct 2026 00:00:03 GMT",
+        "discovered": "2026-10-14T05:09:50.381639+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 14 أكتوبر 2026 - بطولة كأس مصر 2022 FilGoal",
+        "player": "",
+        "content_hash": "33dad674b910b9a573d3319a0f78821dadfd213ab4796caf6103669d7ac75af7",
         "sent": 0,
         "section": "sports"
       },
@@ -1540,22 +1540,6 @@
         "content_hash": "a7ee330312595b1391703255b87b35606f50eb92104f68fe35e89e7e00bb460f",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 11678,
-        "title": "واتكينز: هدفنا التتويج بدوري أبطال آسيا للنخبة - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxQdjVleGctSm1Fc2tab2d2VW16WWVlcHdaZkJJX1g1dGc4M2RpN0hDNzZJcExIUVJNeUY5b2VSbkl2YWlTQm1RQ2tkSk5vWF94Tktkek9yclRJb3JzOGhxV1pha0k2VE9sNkkyMkFaMDBKOVlCMHN6dG91QXhIRERsZkh2OHJZR1h5aUdxRUM1aVFOWTdHc3dCT2NXNjNUWFlfYU5VTHB2TE05RDNVdHhzS0hxN1RCRUd5QU5UeW1xZW4xWGtpY2oxY2lmT2pZLTBidEgyTUJIQV9Qdk1waFFjZFR4VFh5MDlRYXd1dE5QZElKSTRVYUlLZ1VaN3pBbDhaV1lXeHlWa0dBWU9vNTlLblhFYWZ4WjhXQUx2SEIzbTlvUU01Ym5Mdmh0bzMxTFNJcmU0ckZVbTFWbldiMEVhbVZEUDBQYWdZM0dGUDAzUUhvOGlYUG9FY1NOSW9QdHlMM2JENGREVTh1aEszY1NfNmdyREdyRGktMmdZeEhxdGxIMW5XYVpZTXZsZ3RnVWYtWHpqcEk5TWRoNElhUXpNdm43MUFHRmh4d2RFR0laNlh5TmpoU3VoMEpfdjQ2RUhQcXA3Vi05cnhRU2lDVy1fb0pSYjB0aVpsdnd5YTJhdmRDMWl2cmNiWFg2aldHdTJhLVRvV2VXMC0tNlBDUjBSWHN3?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Tue, 13 Oct 2026 19:33:15 GMT",
-        "discovered": "2026-10-13T19:58:18.551781+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "واتكينز: هدفنا التتويج بدوري أبطال آسيا للنخبة Kooora",
-        "player": "",
-        "content_hash": "eb9f008ef83cedd2304e28c0a0c713538dfbf2452c597fc62da77e8a6d983514",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -2054,6 +2038,22 @@
         "summary": "تقرير: إيران تغير أساليبها في استهداف السفن قبل الانتخابات الأميركية الشرق الأوسط",
         "player": "",
         "content_hash": "907aab79d8637417a3960b3399329727dea9fc35840cb38535fca79d7f8ab049",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
+        "id": 11837,
+        "title": "لوحة لفان غوخ تُعرض للمرة الأولى منذ 60 عاما - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOc0Q4TnhlRnZ6cGEtS2xtLVRSQ3RscnhYT0RpRkhJejFOZlVPRmtwSkctV3E4OEVsMFpxN1FxSEx2MmdMZTZXS0JuSm0waFI2ZEpSMUpyUUdyUFIyYkUzanlkdFVMZE1RYUtQN0JSNm1QVHRvTFVPTlZtaGxPcF9xdlpENEhlMGZTeFBpdUhnUlZ3NFpMWDJjWm1CRWhXZXdzWlFvNVY2SHRuSjJPc0VJZ1RzVFZPWmttT2llZVl1bUthN1Mzd05tNFJpSHNlWFVYVlcxSmJWNmluWUZ0dU9QUkVtdVA0NmhSVG5KNGNZeEhYV3l0TnhZejUySHhSRGVhM3pzSlRPQjhXbUo0bGZsOWRRZUMtTXZObGlTUTZzUE51X0tSdEF3RVNBS1VpejZsdWRBUXNWRFp2TEZucmJNSmZNOXMxOWF5elFNUtIB0gJBVV95cUxQM1dMaWNJNkdYWjJaZGhjOTI0bjVzZ0RxY2ZoSElxRXlIcmtzWE54cF8xRlVLODNNdDlyV0FFb0ozMVRVN0hNWUF4VG5rUFBiX2RzMjFGTGJ3U1p4cktMRThXMmNiRzFtTmZtTXhVSEYyc085WlcxRkd1ZW9hZHNoODdPUGEzMXZWVGg2OUtKdmhHWV96QWRYYWw5bkY2aFVWSElwVEZNbk5lRF9HVFFuei1KWUxSNUdYcjJjQkNTY2FhVW1MWmRkdGxOcDlDcmNZY2d0Tl9NOW9lNWZFUnl4NS1nbl9mdGhhNzBUNzZOc2FIZ1ZKMzZ5UXMyX2x4dXZBZWxmbXNRUlJUYjk5VEFVTzJaT3JmVHZqSzdNTTJCQ3dZVjlENzl0eFVDY2htQ0lyZnVvd3Vab2d5WDJXUU9XeWRHLUNidkhpX01Ed1RwS1R0UQ?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Wed, 14 Oct 2026 00:21:18 GMT",
+        "discovered": "2026-10-14T05:09:57.900204+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "لوحة لفان غوخ تُعرض للمرة الأولى منذ 60 عاما الجزيرة نت",
+        "player": "",
+        "content_hash": "92fba925425178248da72cd7726a13e71abb2c87edd7f10bc310ebf9b08320bf",
         "sent": 0,
         "section": "middle_east"
       },
