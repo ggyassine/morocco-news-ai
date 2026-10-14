@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T02:36:48.419462+00:00",
+  "updated": "2026-10-14T03:05:33.301457+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -48,6 +48,22 @@
         "summary": "في أول جلسة… صراخ واحتجاجات بمجلس النواب بعد حرمان نواب تحالف اليسار من نقطة نظام – اليوم 24 اليوم 24",
         "player": "",
         "content_hash": "fe389d67f64dba08d285d83a71c568737e1304fd156ccb853f8ef8fd34d1e46c",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 11810,
+        "title": "التوافق على ياسين عكاشة لرئاسة الفريق النيابي للتجمع الوطني للأحرار بمجلس النواب – اليوم 24 - اليوم 24",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vcnNmV3NibUUwVGhjbDhQRTVGWU15eW5DdW16WDhzVzB5aEhoN1ZZbzVDeXJ1NnBELUR1eWt0RWdYbWxWM0xscnVn?oc=5",
+        "source": "اليوم24",
+        "trust": "C",
+        "published": "Wed, 14 Oct 2026 00:12:06 GMT",
+        "discovered": "2026-10-14T03:04:59.020685+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "التوافق على ياسين عكاشة لرئاسة الفريق النيابي للتجمع الوطني للأحرار بمجلس النواب – اليوم 24 اليوم 24",
+        "player": "",
+        "content_hash": "41be4ddd88b6382c9dee350d8cc7c863801fe00a8af5a54c41f625f7278faca5",
         "sent": 0,
         "section": "morocco"
       },
@@ -706,22 +722,6 @@
         "content_hash": "b1a44992145412e1c66821980914c664192af21c7c2c8aadaa07b59692ec3230",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 11528,
-        "title": "عاشوا الجحيم داخل الحمام.. صرخة عاملات بالدار البيضاء في وجه الظلم - هبة بريس",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRQ2lfcUo1eFU4VzZUTmRkaXZHOVpqcEk2SThBUjA1dDRpaUI0SlIzUG94VU5mblpqV01rVWk1N2NDUXdPcjJZU2E3QXN0d01jbjlnUXN5TQ?oc=5",
-        "source": "هبة بريس",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 17:08:00 GMT",
-        "discovered": "2026-10-13T10:52:49.265384+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "عاشوا الجحيم داخل الحمام.. صرخة عاملات بالدار البيضاء في وجه الظلم هبة بريس",
-        "player": "",
-        "content_hash": "e8641d5dff395390b39f5b7ed32e9aab76645e0571cb822b6a13987e16f2ee14",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
@@ -754,6 +754,22 @@
         "summary": "جدول مباريات اليوم - 14 أكتوبر 2026 - بطولة قطر 2022 FilGoal",
         "player": "",
         "content_hash": "b32f6845b558d7ae32ff1e06b9f63fab1d752881473088ca0f03eeef118e5887",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 11813,
+        "title": "جدول مباريات اليوم - 14 أكتوبر 2026 - بطولة الدوري المصري - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdTlKaGcyZllTNDJmdDhFek1XbUNwXzZVd1ZVZlZZR1cyQ2lUX3g2cDQtcjdiemZCMmJKSDNmMF9CRlRERmU5aEFyVktoOEtZWkFUeXJXMFI1aUhxdmlIWmJhQkpLYVllSjd1Uk5sUmtTc1p4VmJidExVZnFVdFdPOWdqMEVnNlNYQlVyVVZTMTdhV0JOMjVwRXJIUnZCRENvOURqMlQyR3VCdHhxcFJGTUQwUm96Nk5HdHQwNlBsM3NrM2M3aVNTczZUampGUnpiTmdxTzVZOGZsV3hFUWdEWjNLYmlfVnQyTkRfaW1QcTREMEU?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 14 Oct 2026 00:00:47 GMT",
+        "discovered": "2026-10-14T03:05:13.597896+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 14 أكتوبر 2026 - بطولة الدوري المصري FilGoal",
+        "player": "",
+        "content_hash": "537afe693ab12ca1854e36de15fc08bd437f8a45ac3ccaa205e3132f8dc11280",
         "sent": 0,
         "section": "sports"
       },
@@ -1478,6 +1494,22 @@
         "section": "sports"
       },
       {
+        "id": 11811,
+        "title": "كرة يد - بعودة رائعة.. سيدات الأهلي إلى نهائي بطولة إفريقيا للمرة الثانية تواليا - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiQzBmNEJ0Zjl1NmZUQWF5ZFVMSTZzblI0UUtfLS13WENVRFdYeDU5MlpmanhwVmFnamRqVy14QjhmLUlWaW1tRTQzZnFJcmtC0gHnBEFVX3lxTE5tTFpLQkMwU195UGVWdHFvdTRFQ3RnUzd2S1BubGxyc1pfNmpYc0RaTHl2TjlRaUc1Ri1iQ0Y2T2xLN3N3NEFZT1IzRTFtZ09pTU44bnlHWUxoNTA2b1FfRGgwaWhrSllJcV9qMWRzVzBtbVJac0dTX1NZcjVOVS1SakpYMUlOZjBZd3FlaFhrTmpvQkU2cnRtaXZfcHpHRUsya1lJejJqbXFta0Z6Z0NwT21XMWdaUFJrM3FwSV9MdUxjSl82VTRtd0RWdWJhblR0R2laUzdNN2p2dDhzOTlGOGw4VktGNkNaVzRZUXN0bWdOdTQ3RF9vMnJZanoxd3RqbEpJUkVCNVppSTE3TVpOdGVfWEtiV2ZHci1Rc2RwbUpDMmdQanB1a1hzUHF3dXQxTWF2QjNPM2NxVVhLMXM1X2xwSi1PcFlSdEw1OEk3RnNlY1Q4NmRTRlhJdVB1MHo5VklPX2cwSlBNUDRfMWtKOTl6ZEtoRTFWZ2pXaUNHTDZJbFpPUnotemhEaXY0MUEtT3k2bXlVbzJld091YndlRkJUTHBJVXM5VlFJRVUweVZKMWtkd0hzdk9iWG1aRUZLM19DR3dmeXpoVE5IWmc4cUdXV2VVS1hqVXBTd2daSGpXazUxLWRORWkxLThoRy1sYWRWaWhCZU9vN0h4TDNJa285UWs3YmlnYWxnSUsyMzdPT0FQT1dWV3pqVkM2ekdQQ1htMEhCYXRPR1h6LWdNUWxvanRGa2NtMlp4S1pQd1dWZ0N4VkZmMVhVbkNhVUQwcFV4Q2JtYjNMLXdtMWhuTTlaaXIyVQ?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 19:19:00 GMT",
+        "discovered": "2026-10-14T03:05:13.568838+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "كرة يد - بعودة رائعة.. سيدات الأهلي إلى نهائي بطولة إفريقيا للمرة الثانية تواليا FilGoal",
+        "player": "",
+        "content_hash": "66e93f3f63eba0d363f39c9ac2bd44b57751be39c7f0a4d29a1f48e4ef4658e0",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 11676,
         "title": "رقم قياسي لسعود عبد الحميد في دوري أبطال أوروبا.. وأمير سعودي يعلق - CNN Arabic",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQk1ucGNuWmVXTG11U2FFVnlfSVRhZWpjVE5Gbll0eVJPaURjdWx1cC1kOWxTUkZPNmRfVXRfeVJXdjEwdTMtcFZ1aVA0eUI0Ml94NURvUVFOa1I2RTNOX296N0NoVlRWZHZwVGNLUFRoRy1Ud3BPUjVyclJlZVpZcTBYcHBiVFZKQloyRGdXTnY5QnlxSUp0UQ?oc=5",
@@ -1490,38 +1522,6 @@
         "summary": "رقم قياسي لسعود عبد الحميد في دوري أبطال أوروبا.. وأمير سعودي يعلق CNN Arabic",
         "player": "عبد الحميد",
         "content_hash": "b82a17df225d25de1adef4513b54bb3840cd116499e8321eda305c008854f539",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11708,
-        "title": "يزاحم الزمالك.. ريمونتادا الاتحاد أمام الجونة تقود لمراكز المقدمة في الدوري - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxNWTRDS2tSdTh4LWVoRkxmeWl2ZmJWRENVTldfRWg2aGRDX0tHc1Z2SXI0LVl2MUJweWFkQ3F2Tnh6M2JxUkR1Rkl0QngwWjNET19mMHV5aDFPeDhOMy0tWFlfR0xaM0U5N2d2bkhvNmZyd3JXTzFCSWZ2eDJ0YkVIU01pTzNlY1JrSndQckFHYWtBOFFWZnk3NGVPeUh5aTNrUTREa2p1YTNGeFBvVkxZTG54NHZEeV84OF9xbGFIbFllMGNkbFMxWlRWUkYtbURJYWkzejMyeWNGcWFzSFAwRU5QUmoweVI4ZXp6Qlp6eU9VREVSX3k1cUVnUTAxN3BXcTZzSkVmOGQyOGpxRWF1aU5XbWYwWW1qY3I5RUNYTWNrTXhCQ0MtYVA0bDZoSlJyVXk5UDZSUjkzREpqandZT0lTU2lMWl9icnBkTmtnTTVzOGtzcW9ZUTZhSUhRRGN0RGloMUxHMW5BVFZxYjNtZm9ydkpmMkpWWHBuaE5DYjZKd0Y0NXFSejZOTUlhdU1LSTJTYjhHZllZbkR4eE40bjByR3JqanpTN1d0N2dWZkdPdWVVRm5QODQ5WHRScGl6b29aWlBwYW5UTDA5djdCcWxTdjJWTnFnT3RFa2hyZEktd1hmcmlMM0VKbjZ0Vm9DUldWQ1FsQ3Y5VXpYb3ppWG9yMW1GSEhMYzB2bzZOM0MwZ1BfMVp0QWVlX0ptNkQ1bzBKRS1KSmt1ZXAxQk9ORDRWR2psOF9sLUNYNGRESndyeWF2VjhtNmNKc0hYQVBjMVNYY0N0VVM2dFZORXpQUlpjTDliYkFqUnhaS25GQkPSAfYEQVVfeXFMT1prckMxSHdETlpkQmxYcXJHanhVcGlVdkQydGVIbURHdGRpZ1JOM1BYV0Z6a1A2SG40OTY5dEYyb3ZpMFBXQ0prOFhXWklJNmYtWVB6Nm9VbzNKYVdZNnJCREc2a0laSmhDa2xaOUJ3Umc3eDFEUENOakxZNEZ0TFl0dFZ4TW1ObVFBU3NZWUNUa3E3R3dWZVJKRnRKMkhWWXVVcjdCOTJLMFFyV0Z3N3JXYUZkc0pPaHhMLWdOTFJIVWk2eTg1S1UxR0lva2JhNjFoakRNdnF0MWh1SWJ3S2lHM2pnOVBRY0dNWjFzREtOUm1WYUMxTGh4WjRVWHlsWm9BaXRLWHAxblluTy1WcnhENldVWDFpYkxjX0RqTXQ3Ry1QWGs3aGQzc3ZMYnh3QmphVzcwUlhSYVNzR3J0WTFNQThGa24wemFvdUxPYVpZWWlOVWhkdWVsSlZDWnR1LUxlSHhSaDZKMEE0UEdoNVJ2NEdFTHh2X0tEbjdVdUhXQWRWV0JObGxLRU82ZzEyY0x3TmhrNloydEUtSHNMU3htOFBSQVFrcDlYMHhhX3M3M0oxbGs5a2IxZVB6a0RPVUFlb0VEUktNYVRGSmlaTEFhbWVBWFpwMmF0LTlrUk9Fc2xNUTU5VnAzTnZBd1UxZzRMLVMxYWFzQmwwQmt6YVJGVlNZSHpoQjdrWVZIeTJLeHFxbG5Udk5zbmg3OHZGcFFNUWcxNnN4ajk5VE1oVHBQMVZmQnVmM3Ywc1IzNkZMNHRZOV9XNmxmYXZNN3JWUW1hOHNxOExzcUdEWWVSWDk4WmlTYzgwWllCZjFCZTd4d3hBR1RR?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 13 Oct 2026 19:05:00 GMT",
-        "discovered": "2026-10-13T20:59:42.740373+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "يزاحم الزمالك.. ريمونتادا الاتحاد أمام الجونة تقود لمراكز المقدمة في الدوري يلاكورة",
-        "player": "",
-        "content_hash": "94e80979e30096915eca899fa62ff920b8b99269c62d03ab44a46ec82448005e",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 11683,
-        "title": "يزاحم الزمالك.. ريمونتادا الاتحاد أمام الجونة تقود لمراكز المقدمة في الدوري - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxNWTRDS2tSdTh4LWVoRkxmeWl2ZmJWRENVTldfRWg2aGRDX0tHc1Z2SXI0LVl2MUJweWFkQ3F2Tnh6M2JxUkR1Rkl0QngwWjNET19mMHV5aDFPeDhOMy0tWFlfR0xaM0U5N2d2bkhvNmZyd3JXTzFCSWZ2eDJ0YkVIU01pTzNlY1JrSndQckFHYWtBOFFWZnk3NGVPeUh5aTNrUTREa2p1YTNGeFBvVkxZTG54NHZEeV84OF9xbGFIbFllMGNkbFMxWlRWUkYtbURJYWkzejMyeWNGcWFzSFAwRU5QUmoweVI4ZXp6Qlp6eU9VREVSX3k1cUVnUTAxN3BXcTZzSkVmOGQyOGpxRWF1aU5XbWYwWW1qY3I5RUNYTWNrTXhCQ0MtYVA0bDZoSlJyVXk5UDZSUjkzREpqandZT0lTU2lMWl9icnBkTmtnTTVzOGtzcW9ZUTZhSUhRRGN0RGloMUxHMW5BVFZxYjNtZm9ydkpmMkpWWHBuaE5DYjZKd0Y0NXFSejZOTUlhdU1LSTJTYjhHZllZbkR4eE40bjByR3JqanpTN1d0N2dWZkdPdWVVRm5QODQ5WHRScGl6b29aWlBwYW5UTDA5djdCcWxTdjJWTnFnT3RFa2hyZEktd1hmcmlMM0VKbjZ0Vm9DUldWQ1FsQ3Y5VXpYb3ppWG9yMW1GSEhMYzB2bzZOM0MwZ1BfMVp0QWVlX0ptNkQ1bzBKRS1KSmt1ZXAxQk9ORDRWR2psOF9sLUNYNGRESndyeWF2VjhtNmNKc0hYQVBjMVNYY0N0VVM2dFZORXpQUlpjTDliYkFqUnhaS25GQkPSAe4EQVVfeXFMTkI5emdUcnJzUm9EcHZia0lTbzBreWI2b1V3SkYySWdfRXpwZUxINFBMYURoblk4N2pOQnczaTBTWU1sUi1Kd3o1bmJXb2lhcUZTMU1xejJyQzJkZlpUcWxoaVNnZTNlRHktYmp3OGg4X1hyYjlJQ1FmOF9qaGl2SWFqNl95NUxNOExPUnM0NkFYUGxPaFpUVUJDWnA0YWxtajZWSVlxUm9rRml3M0kxUlB2clF4YTZMV0lCcmpBUjlINldpRXh0ak9IVmI1V2Jwa1dmTTN1U0duM0s0N0d3d1BMWGMtS2dVbThQUU90NEJXZ3NfVGp5bDdtbU1vX1VoZHhqWENIUXljTk1LamRNTXZPUlYxUGNrRUNYV29SRDVTX0VGenlKTGZhbHNTSTFKS2xTZVVfUnBRLWsyMHYzSTktMDRIUTV4dW1CNWxBbWxVWFR2RnRUaldZcER2UFNwU3VmWWJHSE5mYkJmRmpkX1hGYW5TWk9McG8ybU5UUXBac2ZwY3BaOHM5Z3p0VjRkOGswNzF4VWhZNGFNRlZKOFNGcEx2THRpOU9TRFp0U0hVTWd4UlB3NUV6dTI5OGI3bnRsUnVQRHhxZEFxLXRucjcyd2czMWpweHJGUGdwWDZWQ01uaG1BZlFPMTk5WmxxbXFNemw0MXc4NHA0SVp4ai1oWEFzRkpXRkVycF9icHNSSmNjVWltWUR5cDFpbEVPNFFIaGhqbFpkYlZNTF9reGdBNnJ6dGlXZl8yWFNLWUxldEFmUlMtVXZ6U3hYM1BxR1Z5M3RES3VlQzJvN3dSWXBHbmZzdUtnNWlFT3lUQQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 13 Oct 2026 19:05:00 GMT",
-        "discovered": "2026-10-13T19:58:25.203482+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "يزاحم الزمالك.. ريمونتادا الاتحاد أمام الجونة تقود لمراكز المقدمة في الدوري يلاكورة",
-        "player": "",
-        "content_hash": "94e80979e30096915eca899fa62ff920b8b99269c62d03ab44a46ec82448005e",
         "sent": 0,
         "section": "sports"
       }
@@ -1780,6 +1780,22 @@
         "summary": "العلوي رئيس الجامعة الوطنية للمطاحن لـ\"كود\": توقعات المريكان بخصوص إنتاج 7.5 مليون طن ديال القمح فالمغرب سابقة لأوانها والمنتوج الوطني غا يغطي غير 14% من حاجيات المطاحن الصناعية - كود: جريدة إلكترونية مغربية شاملة.",
         "player": "",
         "content_hash": "f95de43d2cfb3eafd70b1faffe9fc1e6f0878746d4352e7268c2da9b15a85c31",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 11814,
+        "title": "ترمب يطالب برحيله.. من ينافس زيلينسكي على رئاسة أوكرانيا؟ - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPYWZDNEVfWjRDZzFlMTZtOXdpOC1Ibm9hUHJjdHV3c0F2MmpKM21vbVVfRGdZN2Y3eG5YT29SX1JsV2M4V0dQd2FfR2tqYUdzYUd1eTlCSWJyUmlhamJqd1YtbUlPaWNOdXVnOVZtSlRYTE1UOEVXUi0xR0w0ajE5Um1jWENNWTBFZ2FXLXo2VWQ2SWdEOTV0TnZPWkNLRUx5UmtlMnpzbTJFWGl0d1ZUWi1PRjNNbFpqelpLaERxLVE2eWh2b1VKeWUxakdHaGwweE53M0VZV1NuVkN2SkU5QzdCLWlYSlRaRVVVVDdITTA3OHE4X1hPSW5NRzg1YTdiUzREY0tmbm1ZbDFDN3B6SXNySFhtMFBxQkkzdDFmODh1QjJ6eEVDZlhpOUhnMloxdFNKcXZZRVFTRWItbGNyVW5pZTU5SmxXNHg0YzZFcnnSAdYCQVVfeXFMTXFieVdFZVF0elREVnNpajlBZVFOUE9haVlROTNmQ1Bpdnp2SHBIb0JpUUtuY2k5M0tCbDl4UTZHWEZzRlFVQlRxd0hOdklaSDBiSW4tWHpPT01qaEZ5eXJ4cFVIVzVkYkhXWmZsNlpodU1WaFJ6WlR5SFJDMFdYakNDeDVZLUQzcGNndkRuRTNRZTZlRE9MUG5kbWRJdWZfRk9SWVpvSGp5d2gyWkV2aDZTcFhiZm1pajlWWVVadFFLRnpjd3FXUDY1Y1N4OFMwYTA3V2tlZ1RZWUpwUDlPUlNnbmZ0NzhrdzBzOHcxTnVUdk4zNVdUMy01ay1QOWJUWFhzeUwzTEJ0V2p1OTVuU0xsem1tcnVFZ084NFhwVWxoLXZob0hqTWxxT3JQZWFyNHE3VU1MSjJqX0NQWmRwVkxJN2x1TjlnY2w0dVRiQ29EcHVIWm9B?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Tue, 13 Oct 2026 08:18:27 GMT",
+        "discovered": "2026-10-14T03:05:21.827745+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "ترمب يطالب برحيله.. من ينافس زيلينسكي على رئاسة أوكرانيا؟ الجزيرة نت",
+        "player": "",
+        "content_hash": "9420f908e23da8ea03bc2933adf258e2b065ee51c2024685ea5cb91c1c6fd499",
         "sent": 0,
         "section": "transfers"
       },
@@ -2118,22 +2134,6 @@
         "summary": "السعودية تعلن اعتراض صاروخ أطلقه الحوثي على الرياض سكاي نيوز عربية",
         "player": "رياض",
         "content_hash": "4c9ec9e46972683cc92cfe3da29bbf51ab73c11cfc8ef2b38d5e6333e537c408",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
-        "id": 11313,
-        "title": "تدمير باليستي باتجاه الرياض... وتعليق العمليات التشغيلية بالمطار - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMijgVBVV95cUxNYV9FNElnckc3X0lvYXlsajh1NWoycnFfMWtpUTAtYTRGMC0zZjFXekRuejFsbHNZaDZlSVo2VERCX1pRS0Vma3R4Z0pCOXZVN081UEFLQ2RHV0Fyb3RIS3F0NXBFdjFNbEU4VUtjc1l6UHBWb2FmcDZna2lCZU4yUlB6TTFPcmx2cGFoZnNBMmtLQzBHSlBhN1dGTGRaMzRSbE5EYlZENjFUSkx3TnBqd2hnMHY3aVRHUF85aVNBM0J5WHltNkdFZTdjM1FISnRIVEhkNmRSQ21RbWI3ZWZZRWZ1cnBFTHNydEhYdWwzMmFNU2lTSkVubXpOZlhpQlhuSjdXNWVTd1FRYjJ6VVd4dDlhd3Bycnc0dGFtbUdUZ2ljbmxleUJJR3F1dWpPZ1ljdENaVlY2MVFDMGF5ZmFqZGNUVGYzSlFETjZKeVBJTXAxOE1WY2x1WERmejJTcWI3QVMxdFdTTmcxZ2JZZTlyd3QwRjFObk5PQWZibVNOLVE5ckdIVERXazNaNmtkUUJ2ZzlrbC1xUy1NOVFHUElGNUx4VG9feUtUbHc5azNOWUNTUlUtcWNfLTN2R0tUMXlhZHV1aEstaDFJVkhkRkF2NXIwaWFSQm56TXBwSXpBYllvUmhNY1BjSHItSjlWTnZLOS1TcU1kaHp4ZTRZOXg2WFAzTnJiRllDTlNPZ1k0bjI4QTFPb0tkU3lrUnRySlE5YUpJTkRwUEh2cVNvelc5dERtRlVkajlBQkNka2xnVm95X3VxZXJPQm5NSWZ4ekM4Y0h2Z3k2MnhWZXhqM2ZpUjBOcGZtYXk0NWNVTjZnSlRPYy1HRE9nWVJCZndVWlpLZGtVdXlJUWtEZDExWlE?oc=5",
-        "source": "الشرق الأوسط",
-        "trust": "B",
-        "published": "Mon, 12 Oct 2026 18:17:57 GMT",
-        "discovered": "2026-10-12T19:25:33.251011+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "تدمير باليستي باتجاه الرياض... وتعليق العمليات التشغيلية بالمطار الشرق الأوسط",
-        "player": "رياض",
-        "content_hash": "5a297ae09c363131acb1ad5b5def883ee8ac32776ae592818d9b291a6a950002",
         "sent": 0,
         "section": "middle_east"
       },
