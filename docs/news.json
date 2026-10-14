@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T02:08:03.529520+00:00",
+  "updated": "2026-10-14T02:36:48.419462+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -2006,22 +2006,6 @@
         "content_hash": "5bdd1e9aa9c4bf88e8a28abb1915c692f283b5c48abd2923d7fbca4b69cdf908",
         "sent": 0,
         "section": "transfers"
-      },
-      {
-        "id": 11373,
-        "title": "شركة مغربية تعرض في ميلانو دواء مغربيا مشتقا من القنب الهندي لعلاج الصرع – اليوم 24 - اليوم 24",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9TaEFKNDVZNXVYQVlEYmdwdXBNTlFkN0dCVzRydVUwMTNFazhpQlJVUFN0eF9pTGU3eVZrM1hfck9qb2RzNld6ZXRn?oc=5",
-        "source": "اليوم24",
-        "trust": "C",
-        "published": "Mon, 12 Oct 2026 17:00:19 GMT",
-        "discovered": "2026-10-12T20:39:11.394861+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "شركة مغربية تعرض في ميلانو دواء مغربيا مشتقا من القنب الهندي لعلاج الصرع – اليوم 24 اليوم 24",
-        "player": "",
-        "content_hash": "bf1dd11dcd7c86b1f3a79f4fb3a6033b31bdf3d17da5ed33a223251cf16dca6f",
-        "sent": 0,
-        "section": "transfers"
       }
     ],
     "middle_east": [
@@ -2200,6 +2184,22 @@
         "summary": "الرياض تسجل 4 إصابات وتضرر 15 منزلاً إثر ضربات صاروخية BBC",
         "player": "رياض",
         "content_hash": "d87d493542da43aadf364316d45133edff4c80b42a38e15b3cad3ba3d3a9bda4",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 11809,
+        "title": "بازار الانتخابات الإسرائيلية ... إلى أين يصل؟ | د. صبري صيدم - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTE1yVklMSGpCZkVtb3NDVkh1cEZQcThpTEtQSW1hV05GZUZYS2xKTUx1cHlXN2pkWFZlY0tEWl94dnloc0RyUk9sRjhvMHJWbUliLWF6VHYwanFxdktnT3pNMUVvSENSNl8ycmR1ODdHLU5kU1FocVBJaVpTOGI3dF9NSXBJV3JSdjgyQkJEMWlxOGJ6Q0JUT3hVN0V5WlA0Tm1ReWZqOEFHV0pJeEJOWklLSkswZzRxRXprdnFIck9rdTRoVFY4dF9vVGdaeDlRT09ONXlBTHdOSUp5MUZQSi1TUVdSNGZqNUo5RzNpZmxwZXl2b2RIU1h6WkFBZ2w4VU5aV1loNXZTa0Zy?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 20:11:19 GMT",
+        "discovered": "2026-10-14T02:36:43.217243+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "بازار الانتخابات الإسرائيلية ... إلى أين يصل؟ صبري صيدم القدس العربي",
+        "player": "",
+        "content_hash": "11efd97a1e43b17c2fc132d8ea90666272841f2430602f71cdb506c3ab4b7c9a",
         "sent": 0,
         "section": "world_arabic"
       },
