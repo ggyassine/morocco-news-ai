@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T22:07:08.470028+00:00",
+  "updated": "2026-10-14T22:35:06.728157+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -742,6 +742,22 @@
     ],
     "sports": [
       {
+        "id": 12218,
+        "title": "احتفال وتتويج الأهلي ببطولة أفريقيا لكرة اليد - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxNSHhGcENNNVBRQ0JReHV0c0lFYXA5bTl4UzFlY1NtWUhSU2tnYXQ5UmJOc054U0Vpd0U0OFhZYTRuVTdKd250X1poOFpyUFNjc0xWenZOd1cyN1hxVDdfa3Fmdy1pbXl3bTY0M0VWcWxuMEpPa2YtenV3VUE0bkU0ejduNHhaaTdQYUJXMlc2VzlNelFycGxaekZ6V08xTFRFbGZqNzFodDVjSEk3Y3RHVWNob0RPWmJJUXQzeFk0TTc1WEJjcGxNanlpcHN1bVdJSXV2ZnNzQndHVGgtOWZrOGp1R1hySXVUZFJiMHFpTWFJaWlobjdoTHl3TTFEeE9WcEtJeWxNWFpRYlhtVTV2aHNYSDVpWDF3WndnbXhUZWhLQTVkWTZ0U050c2d1NzJKb1QyUkZkZWhoUkVUNzhwRDBSelJ1eE5hM1cxcFBqYW1UM21wOVFiTTdZbU42ZXZRN0pWaUJ4OGpMQVZiMk9ZS1k4MzBzLXBncVJJSU9COG1Rb1FRNjlKYVBZWXpabjltaXVXRllnV1owVml5Z0UxQnVzY0pvVW5kaGhtVDhJNDBJSnc4UVF4akRyQjV3SkhTUUw0aXBB?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 14 Oct 2026 22:08:00 GMT",
+        "discovered": "2026-10-14T22:34:49.473390+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "احتفال وتتويج الأهلي ببطولة أفريقيا لكرة اليد يلاكورة",
+        "player": "",
+        "content_hash": "c235535168147f87d5e1e1275b2074644f356aa64ef28d4a97c9b984870ad4ed",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 12209,
         "title": "حزن لاعبي الزمالك بعد خسارة بطولة أفريقيا لليد أمام الأهلي - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMimgRBVV95cUxPaWp2c3dfNnlSVk9UeHp1U1k5Y1VUdEszUk92ZkVhcEZDQUoxeGlDM1pZRS1EbUtBUGhoWE5EX1dEYnpwSDJmTWsxRFBYbUVKeDM0MFFzYi03bWhRX25vTWZOU2hXN2lrc2hoOU9pT3BBcEJUV2duSlhWYXRHaElLc2dxWFZlMzJNSThuejBNWHR6b1ZyM3VGNVRmMUdQU0NnX2NOSkxITFF2X01TUHVMMUtxdWY5RnE5UmdsVjZ4X01HYnN0QTRXTkpXcVlhUG9oS1puT0p0SlE1V19weTRReWJKclE1Q3V4Z09nemtxSFFJckYtTVFwLTZWSGwwZnl5SUVJQWhWelJjdGhNakR3V0R4NEVfVzg4Nkljd3AyeDIzOVN5d1NyYVd1OWNtRF85UjBWemV2T0hLUDF6TjdwRE94cDRkVnVYTWNsNzUyRW1PVWNscDlMNzZyNWhNdERjMkwybmUtd01VQU9JdVZuOWZVcnlrZE1mb2Jfa3lkTGFEc1lGYVpKQ2lwaDNMYTJhZW90aXloajZYSUtzNmJFNU1qMGJtamxjQVQ1ZnVSRldKZWN2NzZhT2JlNVBBMUl2RHUzQ3FkRHl4VDQxRWM0cUdOS0dPWmwtTnI3NnpMZTgzTXQ5Zk9IaWRWRTdaam9YSHdpdXQydHkzNGNlNG9WY2lsYTZaRUxJak04NGhwdzByNzRMOGg2Mmx3?oc=5",
@@ -770,6 +786,22 @@
         "summary": "ريمونتادا ليست كغيرها.. ريال مدريد يحقق رقمًا إعجازيًا جديدًا في دوري الأبطال Kooora",
         "player": "",
         "content_hash": "8b077db663605436e16fcb8e298a6a2d7dd2849276bbd72b15e0d1aedbb93d08",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 12217,
+        "title": "الدقيقة الأخيرة من مباراة الأهلي والزمالك في نهائي أفريقيا لليد - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQMVZEM1lfU2ttb1VfemM1M3Y5anJQR1AyRUNwcXlRU2VrUTBpZzJWUWFxMDBYbnhHVktQMmxaRDVtN1hheXpZMFFjaFFwZk5XeTgyU084b2k5UnZ6cjIyUEE1QTZ1N2NFYXhzZXRUMHhfN2lUX1paWWNQYXM5ZUZCQTI4Qml0QmUwV20ydE5EMnVDc2ZMWFVlLUE3SVB6cjZsTFZxZzYzRFlIMzc0RXExQUNLbVpZeExySE1UUm1yUERtaWhyRlFPbWZWNW9XWEwzbElaMkRUdDQ3Rndjb19ScDJXVFcwbnBKLUQ1M09uYVUyRzkzTzRPZFhDNU15UFkzeHR1UDY4T2VfalJXODVDeXUtcVdCZGRJNHVORm9DNGU3OHFOaE5IbEs0Uk9sM29CVGhvZEdNS3hEWi1UeFVQT0ZDWFUwT3Rad0Z1a3JWNXBGUVlxUjM0SEExbjlwTVdIOFpwSGdDNjlJdV9HNTNnLXN0RE1iSVM3c2pzdnM4UGE0RWMta19SeFRFcXFOVGpTSk5hbnN6eF85Mmp5cjVLQVJ3NGp3bzdzQzFhRkFlRVQwaFVHaEU1NG1zQXRhM0JNVS1saHJNdmdKVFZvR1Bab2lwM3lXYi1FU3RNNHFEWUtQS1dBblFxY2I1a1ZQelhIWVQ2MlZ5TlFkY2JRZjRWLU92Ty1BRUh4QXlyUWp3?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Wed, 14 Oct 2026 21:36:00 GMT",
+        "discovered": "2026-10-14T22:34:49.465726+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الدقيقة الأخيرة من مباراة الأهلي والزمالك في نهائي أفريقيا لليد يلاكورة",
+        "player": "",
+        "content_hash": "19ea653c96a77e3862b942fcbf06a1f060aef0d98fad7f0bbf95af76378ce1e9",
         "sent": 0,
         "section": "sports"
       },
@@ -1508,41 +1540,25 @@
         "content_hash": "d03a97819afdbb9cacb6b34c437ea3a4879c4a866d4d1f3cf9ea0ff30bfc0378",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 12186,
-        "title": "ما القنوات الناقلة لمباراة سيلتا فيجو ويوفنتوس في الدوري الأوروبي 2026-2027؟ وكيف تشاهدها عبر الإنترنت؟ - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi0AZBVV95cUxPcnVXQXIwa09uYTBKRjQ3LS1UcGU1ZUdUXzZGMTctVm5VODRsNDJZel9Rci1HazdNVEotclZ6Yk9UOFRqZEtQY05tVldyMm5JSGtWMkdnRVFXVkxGbXdLSkZxZjVJaFpQUWYwRzdTMlZORTBCMXhDY0xkYjR1T0NwRExGVzlzdGMtY3dQd1pkNHBMUzEzQ0o0d1pkOE43aHJsZ2dVVzZxVmxXZHBqbmI2QWVFMzE4TjZVWVZ1Um9LbEI5eGdITThXWVZtMFV6Sl9acEw5V2lsSHNwSXc2T0Nkc3dzNDVaLTFqM25WSGQ1NlVQdkNkeUVFX1o1ell2bm8xZFJxUFJTejNNa0MyM0FHd0JCYTNaQXlWNVVMQ2t1MzhWM2thQmN3X0FSa0hfVXdBVkU2cTk4RnRQTkdIdDZfTzNLNWY0R2FubDJiZVlpN0tQOTlmc1hUT1Vvb1Q3QTkzMHdSM2xOc0U4Y3FUV1ZMalRWYnRqcVBVQjFUYm9YdEZDZ2ozM014NDBmdVNPdmFaSWMtRWdXTlpFQnFtVW02VDBicTRDSmJ6VHpIRC04bVphNWdPOWNSVzBtaWN4RWllcGZZdzBNLUJDaE1rSE9hcEM1cEUyM2xOcDd5dUJwUDUyU2VHWjZadlExMlFSRmJmWWtkc1oyVGpGREN5a3Vfd0VEUlowbVFiRndPVExYWkp4dnc4SnFOeWlBbmljLXlENTF6LUJOVFQtbHNWVF82TnoxOWFnX1JRRnVDdy1wWDRJNFFhdjBKQzRPOXVacVBYNkxFOWVmTDhvZzJJTXcxVWh0NUFWUklHVko1M3BNcDEzeVRuM1ZxVTQ5VFFuOEQxM0daTC1PaGRHRElKenU0d2R1cUxEVzBla0RLR2pvUk1ua1R6VF9hNFJxRkxFS3l6RVRUS0ZUZWJQdl9oaFE2LVVNMVdSX1Fiekc2bEpnbkhrSGdaWEV1SGhDZ2V0elZROTBfUVhUVWZtdFJwZ1llTVY1ZDVNTlJ3bWVTYXdhOG0wanRXRUE4OUYxajZaZ0lIaktCWlJvei1UdTVGLWJNWmNBV2w3bEN2aVRpWDNLTnBWcnQ0UzF2WkllQXhBQk50RW50UnVEMlYzSjNXbkZzNg?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Wed, 14 Oct 2026 17:33:34 GMT",
-        "discovered": "2026-10-14T21:07:43.844584+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ما القنوات الناقلة لمباراة سيلتا فيجو ويوفنتوس في الدوري الأوروبي 2026-2027؟ وكيف تشاهدها عبر الإنترنت؟",
-        "player": "",
-        "content_hash": "606504ad5c92b748fe9c92cb7eda3142025bec91f21fcd80226424280b326fe1",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 12130,
-        "title": "مدرب الجيش الرواندي: أعرف جودة الزمالك وتاريخه جيدا.. لكن كرة القدم تحسم في الملعب - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxPdVRfc21yS2FmdmNTSmxUZEFDSkF3aHhDZlh6X1BrXzBOdHN2ZV9CdVJTS1E3aW1TTWpJUUFHTW13Ri1YcFZnYlY0UGY3SF9IejFfcWdKN3I5N0JDZFgxVjZpX3ZHdmwwYTBvMkk2c1RjckZwX193T0hpNGpVcnFOZ1NESk5hdURVSExibnJya29uaUtDczlUWVpWU3pLUExBUGl2Mk9scENScmZpdG5fLTRsZ0RuUzZLUUszT3JmdC1KYTNOREFpS2xrbUhxZmZ4YndxNGtfOHUtZlVGZ1A0YWw2WXZUaGJZM1F6eDFuaDZGR2FFa2h1ckstM1Vtci1uaEtTWGRZa2dHclI2NndXQXhZcWw5N0RsbHdyYjBoQXBVN3JGSTlGRFoyTjFUTVlMRW1tclhhMlZFZ3l4NFNwVGtxUlFpRWlDcmZSaVRZYlBJVEJQOXBvaHdrdWZsRGZvZUdHZzQ2U3BNNHNuNlFhNk1TeXI1R1ZXUmJxVEIzRHNPbVdJNzREbU5NTWtWU2F0WV9JbkYtaFA0c1NPV2p4MlgzMEQzMWVyUXcyM293R0xWUWtNV2t2RlpBOVB1dWdrXzA0VzktemVOSUVnQTFBbFhuczBkOUpCZU1UU3VBM3lvODVLUzZyMDZPMTM1WEpHamFuY1RuX0R5SkFhSUFvZENtenk5TzFQUnhjdm9odkh0Q3dlU09UNGxmWmdsNXZDRlh0Nk1WN3djZTBRY1VFLUo5SVFCQlBhNUl6SU5tZzdiNU5LNnlTR0V4S3BoRXRvdXpZRElFZkdJd0Q4b2JfalB6NGRRS0VwRi1SaGEwdDE0bk3SAfgEQVVfeXFMTXVIOFo2clNEdk54elBXcUJIOFVtdUNYd1BXa2lzeU9ablVzSEotd2NwUDRNOHEwMjk2SURWWWlEVDNma05sc2JFZGpYaUdFVklzSlZ3VUozcDZzcWYtVW1SZlFCVElNUXBtdUtTUS0yVEZpa2o4enNhajFsV2Rfc3BMaUx0ZFB5Tkp6Q0FzTjRYczhySnczUk1XbEY1WjhSRFpVN2Y3YXl4SHdieXB3RzU2U21BSjVFMnFqRWhsX3lSdHAwcXJHR2dDbnBHc0o2WUZJckIxOTQyVHNOWURZUXNIdm1zdEVlMVZuOXZ4aWpGTER1bzhuTEliNEJqb3ltQ29ZRWhta3VONUVWd19aVmtxUXFIVlF0bkxxaXJhRTZYQkJKRDExSzkzY0lWNDBpUU9WNUl3bnQtYk9CTzZiS0dCaXc4U29MeXZBRDZnMTgwSlFHcVdVXzZ1RnZsaFNHRHZIVXdhQ2ZGd1Ewa0kxRlFfOWljcU1jTDdmYm5RZnFWZEJRNjM1Y1ZlR3BCckZMWnJ4LUNreFZMUlEzNUVqV3NUQ1pQMkNlOGcxWjVPQklOVDVvWHFPTk42Ry1Bc2J4dFhwd3V0dmlJSjN2TFEwRjRuRkl6Uk1qY1RZOU45TndXdm1EeW12cXpiQTUtNDMtcV9xaVFvR3ZUV1BpcG5yRmlCa0RsdmNKVkJrR1cxWXJxS0FiOXZzVWdJejFZS3V0aTdKMWNpZXhjRmdzWmFtU2hldm0ybDR4MlByaFZjdUlZdC1VNkxxUUJxTHJIbFhZN205OURab1Zsa3lQQlVHTXpjc2VBYTVQZnJPd3dxMnFfNVhiemwyNV8?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Wed, 14 Oct 2026 17:33:00 GMT",
-        "discovered": "2026-10-14T17:57:40.749422+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مدرب الجيش الرواندي: أعرف جودة الزمالك وتاريخه جيدا.. لكن كرة القدم تحسم في الملعب FilGoal",
-        "player": "",
-        "content_hash": "3e341029ebbd058efb931f065a48920d57c2f70ffd255f5c012ec81278a6e87f",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
+      {
+        "id": 12220,
+        "title": "وزير الدفاع الألماني يتعهد بكشف كل ملابسات مخالفات صادمة وقعت في إحدى وحدات الجيش الطبية وحماية الضحايا - DW.com",
+        "url": "https://news.google.com/rss/articles/CBMi8AZBVV95cUxPZGk4TmFnaGRYQXBpMkpYaU9EQXpCM0ViQkZqdVAwT0pUR2Z6SFo4RnNGb0RRcmNxanJqS1Jndm1SNXM3VGZkSEhucEp3MU05M2ZaaUlvUmpnXzFkNHVPT0pKNUhfYzNHbFFTVnR6bElLbDFHT3RIU3V1Z0xRRTJwemJRWFVRNmNHeWlyZmZRTVptUUFZSWN0RUh5dFcwTVRHOHJBLW1IUjZSeEhrS0RLdDZPeGFUWHRwOGVVSXRrVkZ2dXJsVkNoQnhnaEplZF9QaWR4d09rNEVoVnQxb1FySnd0UTdwcTRpS0kwZmk2T21KeG9aRXVVLTd3OXRETWkyTzl1WF9Ib3hITzJoQXdUdVZoeUZzU2xXRUJ0TDJXR1ZxZkZzU0o1dDdaczNQcF8xbmlqUDhoT3lZVFIzRUNJSTdlaWM0OThNek1KNVRZbl9CUnc1YVo4eEoyRi1zdU0zcDV5aGl4eTlyR0FTS0JSRWh5dW9MS2xoZVdyUWVTREh5eHhSUzV0N2ZqNlZPa2hSRklLeFRYZHlpelNibzh3XzM4bzZTWDY4UGdMalhFVWxYWjRET1luMlRxQmJtUFpxYzhXV2pzd1IzRkpGOXBrQmRQeFBuRHJaczh6Uk9KMFNMTmpEQUtjd3RacFEySnkxYllGNFRQS3ZneEpHMXozb3NseG5XMkRoUlNPZ2NpWDlLMTk3SzF2VjhjajdFcTVZczlKcjFOb2NOeGZ0M1lTYmE5clB0aDJHbC14emo4WUpmd2JMU2htSzhMbVJmNzliR1ZlNnZjUjVWTDZwSGxjdGJfYUpEbUJxQ19KcGNyX2hwM3J0MFRHeFhUa282MHdEWkpYMjREeWptVjc1SjhoV3BWRGxnM3E4MXJkeTkteXJZam0yOW03cGJrRzRBT2lHMVBHeGhuQ3VsWmpVSmxoRUxIdVR0eHU0ZjdCUGQ0V0dfdmpsLV9NQUZEREhtVTkxZHQ0d2stV1d6MTRsanZNZWpidzJNMi16WGdXQk1wYkpjdHFHZF94Ml9CZE1CTk1vVmxMWmN2ZnJYX1FjbmVaOWVnblBTMlpwLU9lYTVia1VEVEVtWVE3NWc0ekpjOEJSZWFhaUtRUE9EY0xSZldfQmlmaTJhRmdhSkRiU1BNb25NdUxteFZCVzJTcjhGZWoy0gHwBkFVX3lxTE9kaThOYWdoZFhBcGkySlhpT0RBekIzRWJCRmp1UDBPSlRHZnpIWjhGc0ZvRFFyY3FqcmpLUmd2bVI1czdUZmRISG5wSncxTTkzZlppSW9SamdfMWQ0dU9PSko1SF9jM0dsUVNWdHpsSUtsMUdPdEhTdXVnTFFFMnB6YlFYVVE2Y0d5aXJmZlFNWm1RQVlJY3RFSHl0VzBNVEc4ckEtbUhSNlJ4SGtLREt0Nk94YVRYdHA4ZVVJdGtWRnZ1cmxWQ2hCeGdoSmVkX1BpZHh3T2s0RWhWdDFvUXJKd3RRN3BxNGlLSTBmaTZPbUp4b1pFdVUtN3c5dERNaTJPOXVYX0hveEhPMmhBd1R1Vmh5RnNTbFdFQnRMMldHVnFmRnNTSjV0N1pzM1BwXzFuaWpQOGhPeVlUUjNFQ0lJN2VpYzQ5OE16TUo1VFluX0JSdzVhWjh4SjJGLXN1TTNwNXloaXh5OXJHQVNLQlJFaHl1b0xLbGhlV3JRZVNESHl4eFJTNXQ3Zmo2Vk9raFJGSUt4VFhkeWl6U2JvOHdfMzhvNlNYNjhQZ0xqWEVVbFhaNERPWW4yVHFCYm1QWnFjOFdXanN3UjNGSkY5cGtCZFB4UG5EclpzOHpST0owU0xOakRBS2N3dFpwUTJKeTFiWUY0VFBLdmd4SkcxejNvc2x4blcyRGhSU09nY2lYOUsxOTdLMXZWOGNqN0VxNVlzOUpyMU5vY054ZnQzWVNiYTlyUHRoMkdsLXh6ajhZSmZ3YkxTaG1LOExtUmY3OWJHVmU2dmNSNVZMNnBIbGN0Yl9hSkRtQnFDX0pwY3JfaHAzcnQwVEd4WFRrbzYwd0RaSlgyNER5am1WNzVKOGhXcFZEbGczcTgxcmR5OS15cllqbTI5bTdwYmtHNEFPaUcxUEd4aG5DdWxaalVKbGhFTEh1VHR4dTRmN0JQZDRXR192amwtX01BRkRESG1VOTFkdDR3ay1XV3oxNGxqdk1lamJ3Mk0yLXpYZ1dCTXBiSmN0cUdkX3gyX0JkTUJOTW9WbExaY3ZmclhfUWNuZVo5ZWduUFMyWnAtT2VhNWJrVURURW1ZUTc1ZzR6SmM4QlJlYWFpS1FQT0RjTFJmV19CaWZpMmFGZ2FKRGJTUE1vbk11TG14VkJXMlNyOEZlajI?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Wed, 14 Oct 2026 21:14:38 GMT",
+        "discovered": "2026-10-14T22:35:03.225324+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "وزير الدفاع الألماني يتعهد بكشف كل ملابسات مخالفات صادمة وقعت في إحدى وحدات الجيش الطبية وحماية الضحايا DW.com",
+        "player": "",
+        "content_hash": "b116994a417da70582e3563893da018708785784b2b8ba60938a3baaf4b38fc9",
+        "sent": 0,
+        "section": "transfers"
+      },
       {
         "id": 12202,
         "title": "وزير الدفاع الألماني يتعهد بكشف كل ملابسات مخالفات صادمة وقعت في إحدى وحدات الجيش الطبية وحماية الضحايا - DW.com",
@@ -1892,22 +1908,6 @@
         "summary": "نابولي يستهدف \"جوهرة\" برشلونة في الميركاتو الشتوي يلاكورة",
         "player": "",
         "content_hash": "18926952537d584740a8dfac1d44e8bab1e44f7a746b201dcf5bf9ba35105146",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 11747,
-        "title": "صدمة غير متوقعة للكنزاري مدرب الإفريقي قبل مواجهة مازيمبي - winwin",
-        "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxPTFlTMkt3YWtKYnhzUi1wWkx4Rk85TVhTN3FDeWJ0eGROWF9fUXRnQjNxR21RcTBUQnNhT0dwZFk0cno1LXFTZXFnMk83Z3hDQUJobXRGUzN2X0Q3MzhNSWRudGVRVWZqWEh0amxFR1FZZXJ4bmdfR2R3aHVhU1lSQVpOVGwtckRrMHdUUloyNVhRdmFSZEVQTXA5N1RQdDVBNlVZVlZWcW9YX0tpRzVCY1N5UmdmaTVIWTltQ1dJWUxzTnN0VklybXVyUjZqSkZCdEduMWdIMnczRmtFTFp3YzZXYjRkVFVNXy1JeXgxZ2FnOEFqcUhMVW9wcFNWNVNkQ1RkSjA1RWJBcFJLWXpqaUtlTEpLU1Y5TFVUM3lkSHd4MHVMOHNoTXZBcHBZMDI0RDlveXlESklRcVkwZjFrUGt2Z0xZN213bUNNYXZfT2QyVHdWUWVwQTVZUDFmOWtOM3MyLWxYaURHdlBUOGdxRGNHYVFHMk1ZMmMtMEdWemVCdjh3T24yNFdpdkRTR2xDTzZ4NzQxdERCXzFKMXB3Z3FUV3o2WUtsTnVlaVpONTM2clh2eG9jNHZqTWpzUnZsSnhOVkgxa0wwRTZPb2lLNDk5cE91Q1h1RFNRYll1Sm5XWlB4cjhhWTNmZEFUSlRCeUlwdWprbUM3THZDbHJiTkVBSE10b2c?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Tue, 13 Oct 2026 14:35:13 GMT",
-        "discovered": "2026-10-13T22:48:08.117778+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "غير واضح",
-        "summary": "صدمة غير متوقعة للكنزاري مدرب الإفريقي قبل مواجهة مازيمبي winwin",
-        "player": "",
-        "content_hash": "ceae7ddda268f2f3f8fbf4ea0ab22a35bc2095b00554469b68acbb9420949210",
         "sent": 0,
         "section": "transfers"
       }
