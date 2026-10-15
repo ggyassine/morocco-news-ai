@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T23:01:19.277480+00:00",
-  "total": 144,
+  "updated": "2026-10-15T23:24:33.205494+00:00",
+  "total": 146,
   "sections": {
     "morocco": [
       {
@@ -80,6 +80,22 @@
         "summary": "إشادة واسعة للتلفزيون السويدي بكفاءة الأمن المغربي.. تفاصيل الإطاحة بمجند القتلة المأجورين Le 360 Arabe",
         "player": "",
         "content_hash": "c70a9d5ec293e92b07097f3bf8bd8c640ba40aa447753e052005856db4c713e3",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 12695,
+        "title": "غلاء اللحوم بالمغرب: مهنيون يكشفون الأسباب الخفية وراء الارتفاع القياسي - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQWXhuWDVTREpmQXRva2Y3cTdQSkU4cWtXM2xJWWt1cWhQejRsTWt4RF9MbXE5V3NLNnY2TUpiNjVuQTRFUno2NWdMQnpQeUo1RS1peF9zQ2Z0U0dRQk8xb3lxS1BNY1U?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Thu, 15 Oct 2026 17:15:20 GMT",
+        "discovered": "2026-10-15T23:24:05.668069+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "غلاء اللحوم بالمغرب: مهنيون يكشفون الأسباب الخفية وراء الارتفاع القياسي Le 360 Arabe",
+        "player": "",
+        "content_hash": "fd056d9d4e0521a98743bc2255a841f3c7749f9991082785c0181f826e0e761d",
         "sent": 0,
         "section": "morocco"
       },
@@ -597,6 +613,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 12697,
+        "title": "ملف يلا كورة.. تألق صلاح.. تكاليف تدريبات الزمالك.. وقرار كاف بشأن مباراة بيراميدز - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMihwVBVV95cUxPdHVpTnJ2RzlkNVlNY3ZRTVBIdkNZdkNZZEhLbTBXakI0Q09hcm1yMENZVnRsM0x3NFNuQXM2eGd6anpBbjNpbVIybmlGVVpkM3FWV1Bma0JnNUg0WTlUMjE0a0Fpb09GWkVZUjFLX0VLcjBFbHZXMTBJNzFKZUEtT2x2VnRQM3R4TXkyZ0h4cnU1b2ZSc2MtN1ZtME9RSm5yTG5TRzI3dWZ1anc3ODB6TGNScUtkaGhGeWRxYzQzNW94amdsTkl6cVkyQzh1MEg2SEpubzhaOUw1QjQzU0dnQy14T3hBNGF1ZUNTTXBLbnpqSEZCSE02VGxTclBhdHJhandZM1ZUSnZ5LXh1NERMVDI3T0pxYV8yeWdVM25KbU00XzAzaEJVU1RGMHpLOUVvdHFPSlNtV19COEZ5a2x2YnVwQU45UlRVRVY5ckg4dHpQN1BQeU50SGFKODVEODg1OWRuY0RqZDU0OHFFeHNRUU5LcnlVWTlJV3Z0b2ljS2JmTFNoVEU3b0V0bDh0RlQta1VEeHhhZFFWMEwtN3NBMUdENkhadjFyTlh6Z3Rhaml2WTJpNThEZXF4bnVGU2NLeVNySTlISEMwcWRlekVmV1VVbC1reWtSb2pKYjhqb2p0TlBfeXJwLWd1Z3phWFpEWnhacmhFTDE0M0xNV3J2S1k2UWFVT2RYeVZrb1JPeE1zakEyRWh1WkNhUHVyZE1RRkZ5eHVLbWtCV1c4S1g4djhocF9pZXlTMHBCQ3NsSEdLNmZBTENqV1p1aENWamxUUk1OVjE1RTFiRDQ4aERvaDdnMEN5RlJHc0Z5Ti1kZGY5R1dvdUtZX2ZyMVYzcDBXQXdaOEpWY9IBjAVBVV95cUxQLWEtTEZOX2dzWlZ2MWZTOF9USGh2TG40UkZfd1FEWUN4ZWE5OW91VV9nd1ZFZ0FyVFQybDlIZDZiY21GWXMwRWFWV0h3aFdNWkhwM0N1ZHl3ODlib2t5OGtHMjRXNFBzemI5dUtHcHRMcFc2SnZGd2V5V3hGWGtkYmdxaVdfMDVFZmVSbjBkMVVyQ01pUko1WG9ST3pPaWpUejdGdzBFU2hiVGFqVlAyVVZJTkJUeHJVZkNhdFlST3hXekpOYWl0UWhxNzhoYmlLQW9uZzZNbjU5ZGZCT2lBSkQ5eEFCcVF3UEM2OVgyM3UyVFA0ZGM2SkdvVDlqYWc4T0lCSnhzX0ppWGdqX1YyMUYzTDc1MkVKNFdmcFQtZUd4aGdRTkZPQm82dDZGTGpJUkJTV2oyUkNDb09vUGRPMXg0ZzR1aTJRWXkzclNlZ21WWERyWDhrZGRZRHNBQlMtNWpWNjd2UnJDaUlCQURCQ3owZUxPWm1wbU94RVJOREcwem1HSE05XzBrRE1xM1NrbVE5YloyVWhxVE9DQmtaVWFIV3VzXzRNeHBDaHhEY2t6MzVpanRNV3dfMkY4cExGb1VCTHNSRzhTWUdmWTJSam5LM1FzUWRpX1NRd3Y3dC04U0Rwa3gxTlQ0bHNEM2h1OWIycUdlczlRX2UyZFJwUHpnOUFpZDU4Z29wWHVWQWpzWkEyZXFGeTN4TWkwOWxQdEpkVm5GdnhJcnI4NVRtUWtadWE3V0NxRFJnNDk4aXFWVU9FUmhPQzFOcm5iNm9ndWpERnlFdU9DX1JzcEUyM2l5eU8yWTB3UGdBVEt5cmRpTUU1bTMxbThKU2Z6QUsxY3cwSnhrYU9haXBq?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 23:02:00 GMT",
+        "discovered": "2026-10-15T23:24:17.314650+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ملف يلا كورة.. تألق صلاح.. تكاليف تدريبات الزمالك.. وقرار كاف بشأن مباراة بيراميدز يلاكورة",
+        "player": "",
+        "content_hash": "3ee618dde25a5589c86170722cffbbd0daecea0c77af94d4679b42e806aadb09",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 12682,
         "title": "اللجنة المنظمة لكأس آسيا 2027 تصدر بيانًا مهمًا - Kooora",
@@ -1380,22 +1412,6 @@
         "content_hash": "280382f84e641a463c5596256c66416681921ff9b5d07bf1f97f1827db6e6405",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 12569,
-        "title": "تشكيل طرابزون سبور: صلاح أساسيًا وفابينيو بديلًا ضد كوبس بدوري المؤتمر الأوروبي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxNb1BBSFJ2bHZXbHREOG9DNFhSN2NSX2VnU2VqanAycUZKTy1DMElpUEl6T2E5ZGxyd3VtTnpNTHQ0Qi0tNzhZdWtfa05QS1BZbzhTdFd3QWdLUUE2TzhYYkNRU1loMGExa0Rfa1VTUnktUGlCdzBaM1FwQlNtd2sxcVFYaU1WbWUwRnB0cUtJUS1laHlFOXRia3dYTldINEk4TUR3VWQtRFczOGJJNnpwWEhzdWpKWklLaGxyZXhCNkRTc2pzMENOODJnRzJlR3YxT2JoeGJhWTcySEdEcDl6ZWN4enVqbXEtNnE4ZUdHYlJFTDhqY3NQbWluU2RSWnZRcl9tTHNzS2hDaUk1a1hYeGl1VXo2RGFtNTFzeWtQYkZXcnM1ZUxkaU41NVMxQkxianFmaTV6NEUwTzZleE1xZWNaVTZyUi1fcS1UUVNhaXNMVDlXQ0EtTlpPWkx2YzBvNkZBb3QxdUpnbzhRUFlxSGs1eHpfNFluZWx4Vl9QaUlOTVRNYzVXYmNYQktacFVQV0lLLUw1RTVQdmFaTFZ2MWgweFdkdHJOVGNHVGNBSFA5UmVXVmxDV0lCUHZETjNNUUxPQ3lBb2FMSXN2NktEdm1Udmc5ZzUxQWhpV1JvRG9BTFBLdmtlMEo0eXZYZzdXY2gzM3h2OUdzSFc2TEFTTUtRZWxaWVJlblFKQ2cxRjgyUHI0Z3habWM2VjJCbkRzYzBhM3ZoQmFfTXhIZmtrc2ZZOXBUeXlpcUhZczE0ZEtBRVpGaGp0ZmxqUU01UVBHamFtZ2c0SmdlSy1fV3pqc0xCMFdYaHF5enFIRnZyWjlmaWw5eUVNTVJIcms0V1h0VVRKc1JKWkpWNlBRUzlQMVd0WjNIVnPSAZwFQVVfeXFMTVBTMXc5TVJFU0Q3cXp3UmxtZXVNUGYwZWVRRGtRdDYtMHhfMF9SNlZlTVlTeUhCMGtTQnpOQ00zZklVOTVBaVNobFRpM0JHcTV2S1pLVEp5OVF0NGNEbE1tZGNRc0pGcHozSTQ5NjhWRmNjd3Q5TDFfLWZsYWxBNkRVeXFpOUNTSWNoS0FzUGNOYTM0LXlUOHFna0RBamdVdkEzZ210RDJyWWRQX3lvMVJ1Y2ktVDZpSEd4a2JSR0lyemdlb1o4QVJfUzdnNllrMHVNY243RnNta2VWLTlFSG1fX1JNMDBHTUdsM2pqaTdKWXpnTUJ4c1RKX3NZWFpSRHVseGF3VGZlbnlfZTVBMW9oNkFBNlNyNmRwbFdybURDN1hSVnRkb3ZtMGprYXZFNjhqdFd6aWQ2a3NIMFIwQzBKSzNfNzVVZUxtQzUtUkF0LUJtVlQ4ZnBVLUdpdGRGOWFxSHBORlpJQy1hLWktemZJUkFuM3dZMUQ3SW9ETUtPUE0tcmNBbGZITWs1Y3pTeGM3b2d4VEc3MVg5MjMtUVdaQWRybkdqdXZ2RzlwQWZqWi1xYXBNY1lBMG40bUJJU3VGbGlvdkQyeVQwZW1tel84MkxBdHljcjZhSzd1TnJITUVPNkdjamRoVmxoUDlxNXhCRU40MEpwZlBGeGxqaHVnWVZLZDFkMG8wM1dzbC1MajNPNzdUZm5vVTl0TDJxV2RMM3FHT3g1S3R1UmJuSFU4MHlGYjhDMU84ZC1fSUduVTVoTDFrVkNCUlVoTENmQ085bmp6LXZXaDVPcDcxVS1xSGJ3UHliQVlTY3pXNFF1U3ZmTXk3SS1kdWpkZjFlRXRUNDZELWlkemdSeDJBeVdXY01nYWJFMXJENXk?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 15 Oct 2026 15:53:00 GMT",
-        "discovered": "2026-10-15T16:31:03.651599+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تشكيل طرابزون سبور: صلاح أساسيًا وفابينيو بديلًا ضد كوبس بدوري المؤتمر الأوروبي يلاكورة",
-        "player": "",
-        "content_hash": "7f94ccb56254f697eb1f96fa7253c3a32cc021c1df3dd1d92fb2494d3a0e0dcd",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1508,6 +1524,22 @@
         "summary": "أسباب زيارة سيغولدا عاصمة الخريف في لاتفيا وجهة مثالية لعشاق الطبيعة Euronews.com",
         "player": "",
         "content_hash": "fb49431b780dde5f3c0c163506b82be3716b71699f04124940d9ed2bac0a72d2",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 12698,
+        "title": "كيف وصلت \"عقدة الحب\" الجزائرية إلى هوليوود؟ - اندبندنت عربية",
+        "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQVmNnUlhNRDVXbnFqUWUxOFY1V2J3bGV3Z1BrUThyYkJmeXNRQXdvVUd5NVNoV0Vmb0IydzFLOTFWRS1TbWw3XzBFdTNCWDV0SUpNV1R1SGlLcWQyNVhUam1BU2s4TzdwcGZvNHRTMHVfRUpTcTRVa1RCVGRXbTFoVDhqZDFZN25sYmVuMTBpR1ZjSUM2UmxDREgzcGNjb0xRQ1Zhd2RZZ2FwaEF2LXp5T21SREtkbTZZdHdmOTJDU1Nwc0pNdHppbktCRE1ScldwcnlDQWZ6XzFnWkM3QWRjQTFHc2JNR2JPTTJuSnpJUy1uMzNfMmNuTUlnQzZ5QllzZHIxR24zdFo2NXU3OEtyTXpzWng2RUlEdjZVNldCOVVKWWswNVNHMHdPNVJyLW9RT0Rjak1JeEQxZmJPUWdxYl8xYWZMemoycEh5bUJFQkZyOFdPWkNqVUZyUWhFLVBFVEVoVFVhcF8yOUV1eE1rN3AtNWZmaTFHWE93aEJOZnZGSDZQemtrN25xSzNUZEtQa3lFdkM2ZUl2QUxzSkJoejU1SUxpQzhFYnBN?oc=5",
+        "source": "إندبندنت عربية",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 10:59:38 GMT",
+        "discovered": "2026-10-15T23:24:31.358768+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "كيف وصلت \"عقدة الحب\" الجزائرية إلى هوليوود؟ اندبندنت عربية",
+        "player": "",
+        "content_hash": "852da8f2976f9b2d0cab03f5c2035829a83d51666cd508af34fa9ed609cec643",
         "sent": 0,
         "section": "transfers"
       },
