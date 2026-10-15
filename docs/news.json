@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T03:51:01.019793+00:00",
-  "total": 149,
+  "updated": "2026-10-15T04:17:40.139612+00:00",
+  "total": 148,
   "sections": {
     "morocco": [
       {
@@ -192,6 +192,22 @@
         "summary": "ترامب الفاسد في مواجهة مع الناخب الغاضب العربي الجديد",
         "player": "",
         "content_hash": "22b3efa4b97587f9a3badc7b85d00785cce7d8ffd37e0bce46a2a6be36817dfb",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 12294,
+        "title": "رئيسة الشرطة السويدية تشيد بنظيرتها المغربية بعد إسقاط 5 مطلوبين في شهر واحد - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pYjI5ZFVxamJkQU91dGdRclJlaFJXQzlGdEZUWmpOLW1hX2k1aUVQcVJsOGJnajI2R3YtS0JaX2F0VEpKelJ3VTQ2WllVMVh6cTR1aFV5eDNYWEp5R3BHV3oyQTJ6VXVo?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Wed, 14 Oct 2026 15:03:24 GMT",
+        "discovered": "2026-10-15T04:17:07.739818+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "رئيسة الشرطة السويدية تشيد بنظيرتها المغربية بعد إسقاط 5 مطلوبين في شهر واحد Le 360 Arabe",
+        "player": "",
+        "content_hash": "fd38b2ce0df75897714f8e520b9948b2b07f39fcd38ddad4dacdcab6f44f44de",
         "sent": 0,
         "section": "morocco"
       },
@@ -468,22 +484,6 @@
         "section": "morocco"
       },
       {
-        "id": 11795,
-        "title": "الشرطة بالهند تعتقل قادة « حزب الصراصير » عقب احتجاجات ضد مفوضية الانتخابات – اليوم 24 - اليوم 24",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1GZ3NmTU1TNGhRdV9oYzJVS0ZQNHhmX2t3N0I3RlI0Y3JSY3p1TTVPU21tYXdRQXJKaFZyR0RnVFZlYUV2WVM3SUlR?oc=5",
-        "source": "اليوم24",
-        "trust": "C",
-        "published": "Wed, 14 Oct 2026 02:01:13 GMT",
-        "discovered": "2026-10-14T02:07:34.058385+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الشرطة بالهند تعتقل قادة « حزب الصراصير » عقب احتجاجات ضد مفوضية الانتخابات – اليوم 24 اليوم 24",
-        "player": "",
-        "content_hash": "827af64782a4cc28ca952f0aea431b373913fe343cf5729fbd798051e142b421",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 11810,
         "title": "التوافق على ياسين عكاشة لرئاسة الفريق النيابي للتجمع الوطني للأحرار بمجلس النواب – اليوم 24 - اليوم 24",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vcnNmV3NibUUwVGhjbDhQRTVGWU15eW5DdW16WDhzVzB5aEhoN1ZZbzVDeXJ1NnBELUR1eWt0RWdYbWxWM0xscnVn?oc=5",
@@ -560,22 +560,6 @@
         "summary": "مواجهة العرشين.. هل تفاقم سبتة الأزمة بين المغرب وإسبانيا؟",
         "player": "",
         "content_hash": "a6cfe370288b0b12defda6277d2707a0bb278281f0ea1d73617a612a05a004d9",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 11794,
-        "title": "الملك فيليبي السادس: سبتة \"جزء لا يتجزأ\" من إسبانيا و\"نريد الحفاظ على علاقات جيدة\" مع المغرب - France 24",
-        "url": "https://news.google.com/rss/articles/CBMi6AVBVV95cUxNUktROUlVREhQQk1NMmVLQW5ubDhiSFJScW1YOW10LXg3NTF3TXpHUXhlbnhNVDJBamJINDBIT0ZEdmhIZGZzWUR1elFsTVVGd1FiN1hOU2dtZU05QkVWNEtzb25MRDcwdkFlOXNnR2FqUFA1TVJDZEp0MkNrUkRrcXZpMlppdVZHVE1HbVVZYlNhTXF6azFuRkVmQkM2OWFnRnBBMmM0YjdwVzR3djN3VTA2T2l3d085RE8wOEFGdVNXNUZrTndKUHNhVWxBV1IxaG1MaWtSenZQV196bXhXcGwtLTZMTmx1UWM3NmwxaXAyNFpFMVI2M1ppSDFmWFJ3RkZ1cXo5WXlaWUV0WkJYY3lkZWkteXdKMC1jalMzNE9sSWU1VGppdFVfeWNHUDZMbkVfcUNaSnRUaEtGU1llUkZjUkk0ZElPamZSOGllVkx0d0d0MFM4dzByNElsSWtGUTJ6UGQ3T1U4NDUwMExMWlZ3dEg3Wi1KNzJwYk15TjRSTnlYUGhyOS1Ha2Y4NmVtZ0dVbGgtRmVBX0R0aHJRZ1l2VzBlMXRkOGhweUZ0RlJrb3ExQzhqN1Q1eTdwREZ6UTVSUjJaZ05hYnd2RGFzeUxHTThrWGZSSjVzaFB2ZnRKWEpEa0Y3dnNITnBDT29BX2JCZU9WRURHRXBaTEpQWlpmNmE2MFBUR1JTRm1DaWZrUzhnRVA0MHJHbU90ZmZfZE5QMlVOM2xzZmhLZ2ZEMjB2S0xnUHpCMUU0VG9EM1pIN0ctN0xFX1RhV0s4X1ZYNExSUEhXN2NOYmtLMDAxanB6ZmZTVFBodHNJZEg0Tk56UnFORjBYeDdHOUV0YmwtMzIzdEVlVFd4b2I4eG1tY0dIMVVDcmtpWVpWTFpSM0c4ZWpsVmFkME5XN1puYzR1WXRucktkMDVVdzc5OEpMMjczWVgyODRmZC1oXzV4cVdSNEVqMTZDVVdvU1QzYWwwSVlYOFpGYmg?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Tue, 13 Oct 2026 17:50:38 GMT",
-        "discovered": "2026-10-14T01:41:48.279585+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "الملك فيليبي السادس: سبتة \"جزء لا يتجزأ\" من إسبانيا و\"نريد الحفاظ على علاقات جيدة\" مع المغرب France 24",
-        "player": "",
-        "content_hash": "562f69b886e53e9bd4cb61e00ade5955e54b904610e3d5b29174f94f256c2a0a",
         "sent": 0,
         "section": "morocco"
       },
@@ -802,6 +786,22 @@
         "summary": "كل الطرق تؤدي إلى روما.. كيف حقق ريال مدريد الريمونتادا التاريخية في دوري الأبطال؟",
         "player": "",
         "content_hash": "68ab50d9467d7c19184bd0b000173272c59f362683b2eb92134dcf9f6fafddab",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 12295,
+        "title": "أستون فيلا يمطر شباك فنربخشة بسداسية في دوري الأبطال - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxQVGtYV0JZc3lwLXVNWjVMc0QtSUNiOGlXbHlsYTlMTXJJYlh6R3ZFbWJNRTM3NEF1THdoMTVRT09fOXVnWXlZZHY3N0IxQ3VSeGRRcWlZc2lTcTJ1UlFYWGlJdkhFX0twV1BzOXk3T29lbjVlaDdDaWdtSFBQaE5ONy01QmRnYkFaQThkWDE4YnN5X19NQ1JKaVNHNmNJMzFHNHZ0aXA5bUZfdm9TV2JVME1rdFdrQ3BQYWNWaUVZVlROVG5YcUFaOTh1d0w5enRZNzlsOVEtOGhvOF9DaGp3QTAtUzJpeTctZXktTU1IM3I3UzFrZEdDMVEtbUFnZkl0cmdwWDAyVS1zQlZTazl1SmtodmRvZ1R2WWFXUGMxT1NCWi01SEk4TlQwMzFBT0V5Vk5xVmZGRDBwNEExYzI3XzZuTzJJblprWHNHVmZHNzVaVWtxdE1vTVRYSkxnLU11ZndJSHp0cUxDa1BxaFhxc3VXU0xMYi0wYkN3V3FxN2tfM05PZDlIdXExekszNTJ2SzhTcXJ3MmJralVXYzF3ZVlkY2lhOENuTGJZZWIyYlJ0MFZGTmxhR29wR2lleHdfMkJRbl9xZTVodUpLX25wYlNDd1dQTnpmMVBZX2xaMkZiWndSSnJaamxKTnFnRUlqbUNXNi00bGg4MnhCSDdjYm5YR3M3cFN3SEl5YjVxdlY3ZUhteC1NUzhCbnRQZFRkdk00cm53VXhDSmt1cHBsWWdEWmtxNEROV2Z1TVVWOA?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Wed, 14 Oct 2026 22:13:53 GMT",
+        "discovered": "2026-10-15T04:17:19.300471+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أستون فيلا يمطر شباك فنربخشة بسداسية في دوري الأبطال الشرق الأوسط",
+        "player": "",
+        "content_hash": "b9c17ab668cc9042cac413386a3d995ac3d4353db4b3c2afc8a4b15eb8fffd2a",
         "sent": 0,
         "section": "sports"
       },
@@ -1410,22 +1410,6 @@
         "summary": "أخبار و معلومات اللاعب أندوني إيراولا coach ليفربول winwin winwin.com",
         "player": "",
         "content_hash": "91d76f6c2c120751afd7f3c26f7e64d805fdff9a8cd3dd32ad8bed5f94b04197",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 12178,
-        "title": "يونس البحراوي: أهدي الفوز الآسيوي لجماهير التعاون - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxQZnBMbXVBRktOVjJMSG1uSUhJZUNkbEdvM3kwQ3B5Vnl0NFJ2blMwTWlIRHMzQkZnTDc0TGJoNHBTWFlhSU9pVm9Zd1dkRENHcUd3bUxrYnNUVnVFb2otbDZYVG5McDlkVVAwRm1NWURhRU8taG1BU3lBSVNfT2ZlUGhIdHVneHM2TGhwRzE4dm5Oc19zdjRVaDJ0UVREczRPRUJadWlQd3lsM0xHNG9oMEZKSGF5MGQzNldfRTFibURrUWFBTENON3NrYmFpMU4wWENBbXloMlhJTENWNHZ4d0ZtSGhJNExZcWpiNElCZ0hYRWc2ZEpuekZ2TXdreGd1alNicGN0VVJUZWp5OUxUb2xtLWFFclNGSUNSMW9CMVVZWXJBNnhsNXo4UjdfMHhtWnRyYmJjU2tVUFVRRi1HS3lpQWVuNm1PaVpMV0tkSERMOXJHRmxpS2g1alREejBsMXg2SjY4dkIyWndCb2pBZ2VkM0MwUHJad1A2Q1Q2UEZaRXotX0hTZmNYUGM4WmcwZUZYMXJab0h5Z29PU1hjZEI2MlBpSzQ0RThjM21ORGJjUUpxaGZxbkdtaFJMVmNkc1gyQUd4U29TcUFkc1hMT09Bb080MUdxdlpvM19CVXBpNk15M1p6cnY2eG1EdWNwZWpLNHhIQllES05pQmNrbll4OGoyUGpudVdYb0wxNWNGX25EY05qcjBxOUlmcTNVRzFYVW9zR3dsMlpQ?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Wed, 14 Oct 2026 19:29:36 GMT",
-        "discovered": "2026-10-14T20:38:58.997285+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "يونس البحراوي: أهدي الفوز الآسيوي لجماهير التعاون الشرق الأوسط",
-        "player": "",
-        "content_hash": "17da640596f157dd4a5cf907fe535acd74e9ee7a1429f77c85b1285ee1d477e4",
         "sent": 0,
         "section": "sports"
       }
