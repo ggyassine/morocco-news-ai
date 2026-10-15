@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T02:52:25.383964+00:00",
+  "updated": "2026-10-15T03:16:20.754892+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -608,6 +608,22 @@
         "summary": "زيارة عاهل إسبانيا إلى سبتة تثير غضب هيئات مغربية وتدفع نحو احتجاجات Hespress",
         "player": "",
         "content_hash": "296d08613719101bfc113b9c6bb98fa37d1db2e1a8cd4fdbe56cfc1773765c4a",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 11816,
+        "title": "الإنذار بالفيضانات في المغرب من أولى التجارب المقدمة في المنتدى العربي الثاني لنظم الإنذار المبكر بالكوارث - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2dkl2RWRFV3U3ZGJCbW1DZThjbk9sSXBxNUp2Y0xGOURNNGxWbkhzRmdEUlNTM1JHTEVhVGE0QmJmVEptRUxrYkdOMWRUeTdfamhEanExMU1MWjdwT1EzUFplU3BCZw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Mon, 12 Oct 2026 23:00:29 GMT",
+        "discovered": "2026-10-14T04:07:32.858991+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الإنذار بالفيضانات في المغرب من أولى التجارب المقدمة في المنتدى العربي الثاني لنظم الإنذار المبكر بالكوارث Le 360 Arabe",
+        "player": "",
+        "content_hash": "b926de170958d7432bcb75ff22ea39d245485de95371f02e798a01562e33985d",
         "sent": 0,
         "section": "morocco"
       }
@@ -2284,34 +2300,18 @@
         "section": "world_arabic"
       },
       {
-        "id": 11785,
-        "title": "مسؤولان: إيران تغير أساليبها في استهداف السفن قبل الانتخابات الأمريكية - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQLVVwYmZaY2pSc2xoM3VLLWx3bjltNW55MmI2ZjBKMmx0am4tUEZEalNLb1didmxSY0xGQUcyM1lTbk5TZWdPQzBsdjdFWkVacEUzblh1aWNFS0lfUGpPWnpxSjZUYVBoUGtmLW1CU281YnR1VTJuZVhWSkxRM01oM2xRRnFfdm5DWHBXTE5Wc3BxNGtKLUxGbVhCdkNIWTF5QTU2NXVEWlIwVXE2b0FyM1ZRS0FSQlpDeE5LUnVtLS1DRVpRakgyS2FBbEJMOXpUUzRmajdPZkxheUZrNVFQT0JjQ3lJQmZIZDI1cFNWdVpRVncxcWJhd3I2amRUSlNLX2IyazA5NEtCWldVZmtrSE9JTGdLZXlIUDhFVU5nckc5VW1icmkzRlRDanVwLVoyc0Iwa3pLRjE0VU5vM1hScWZMLUo3Zw?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Wed, 14 Oct 2026 01:00:15 GMT",
-        "discovered": "2026-10-14T01:12:54.322730+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "مسؤولان: إيران تغير أساليبها في استهداف السفن قبل الانتخابات الأمريكية القدس العربي",
-        "player": "",
-        "content_hash": "9bdba6f4399127d5621ecd2a049f0613558c33ed905034be96a7ec3d0c79cc40",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 11786,
-        "title": "الرياض تسجل 4 إصابات وتضرر 15 منزلاً إثر ضربات صاروخية - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLV210MjktMWVacU13dlo4b0t3RnBnbVF2QUZYMGhkbGhGOTB3OV8wdkg3WWlfT195ei1pVVdvOXh1NGp6VlFKaGd1NzJDYTJGSVYwM1FVZ1VORWRmVlHSAWNBVV95cUxQTEhiTkZhVEN6dndicllOTjh0ZlFJTjJnR3o0TE1xdTA3UTFpQ1gwR1YzcEx6VHRUMEVTM1hmNXFFekV0Mm0wWnVBcXVaVGZ0eEFDbmsxMklTRlJ0REdsdmNQVEk?oc=5",
-        "source": "BBC عربي",
+        "id": 12286,
+        "title": "الحوثيون يعلنون استهداف مطار الرياض مجددا بصاروخ بالستي - France 24",
+        "url": "https://news.google.com/rss/articles/CBMi0wRBVV95cUxOOVJvY1RUak43YWxuRmhTSG52ajN4RlpEcHJBc3VLLWhfV0pnT18yYzU0UG9WWEtQbE9aVkFVTzRBajBCS3BHeXNVdDFwNUppY2hJQzdub2hTNmZBNHNOTzh0dzJLMk41Y3lRUm1EUFRxSGVLZmtnMS1GeWQwb1RsTGJ1Z1hhb0NUNkd0ejJkZXdpZ2VMMVBla1M1QWtjY2dXQjVvYzZ5UkRLeDVid0hZQS1TeUdleEtyTzNaamg2VC13c2VsQS05STJjQkZ6YlQwNjBIWmt6OEpNWThfdnlxN3FXN1dKcE1sVGRCaVcyWkpJTVRlcDZXdjYzdE5PcW1BNlVpV1hGclgzelhGNDVwdG9MQXJwdzNvSUJENGFaQ2hyYjU1MEtVTklIell2VTRCX3V6aXk4c2VNQWN0dzhiUnk1MkllMDJ3TzFyNy0xZlJRMjJoUUc1U1ZvOFgyQ2lpWWlLS3BPRUV5RWtCRzBKRzR6b3BiU080UzI0aFBFMnEwbDEyNS1NdGZteHdaWEk4Zl9ZZXdlbzZLd09wcGlodUphb05JUFhoRnl2d2hWTWRQdXg3a3RSUHl0OVo1RkZscW1BVFFRZUo1dWFmaUVfSWhHUmQ5U1hUSEtrYTRvV1ZBZVg1RGNiSlpkbUNsdEIyaGZyMjVQTDNGWmthQ29iZUVnTFprM05JSWNnbVE2Zk9FdHBrdjhFYU1GVjdrQzNrWUFwLVJ2S0txVmRUM2wtUVZBdmVQdE16Y1k3VzYzbUQyQ1dNZ1FwTFp3YUlLMlh1ZDNN?oc=5",
+        "source": "فرانس 24 عربي",
         "trust": "B",
-        "published": "Wed, 14 Oct 2026 00:36:17 GMT",
-        "discovered": "2026-10-14T01:12:56.541812+00:00",
+        "published": "Wed, 14 Oct 2026 04:58:23 GMT",
+        "discovered": "2026-10-15T03:16:14.967770+00:00",
         "category": "العالم",
         "status": "غير واضح",
-        "summary": "الرياض تسجل 4 إصابات وتضرر 15 منزلاً إثر ضربات صاروخية BBC",
+        "summary": "الحوثيون يعلنون استهداف مطار الرياض مجددا بصاروخ بالستي France 24",
         "player": "رياض",
-        "content_hash": "d87d493542da43aadf364316d45133edff4c80b42a38e15b3cad3ba3d3a9bda4",
+        "content_hash": "8b1ab896fdfb04d6323da4fbfd2fb2163de7632dc66c960ea912d7732aa54bfa",
         "sent": 0,
         "section": "world_arabic"
       },
