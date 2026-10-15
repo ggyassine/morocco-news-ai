@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T11:21:47.369093+00:00",
+  "updated": "2026-10-15T11:55:32.965534+00:00",
   "total": 128,
   "sections": {
     "morocco": [
@@ -340,22 +340,6 @@
         "section": "morocco"
       },
       {
-        "id": 11932,
-        "title": "التهابات حادة تصيب 16 مريضاً بعد تلقيهم علاجات بالمستشفى الجامعي بطنجة - Febrayer",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5JSnVjMjJsYWJ0SVZibnU0QnF0LU5HM2FVcHdYZ3lfbGlvQVBGTXRxOE5LOUlGSWFuZkVpdXl4ZVg4eHdqMGpabA?oc=5",
-        "source": "فبراير",
-        "trust": "C",
-        "published": "Wed, 14 Oct 2026 11:01:31 GMT",
-        "discovered": "2026-10-14T11:14:20.706350+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "التهابات حادة تصيب 16 مريضاً بعد تلقيهم علاجات بالمستشفى الجامعي بطنجة Febrayer",
-        "player": "",
-        "content_hash": "363b9cd43b826b7c35555928a9b76ca0ae31dc9c5ba26d5744953735111d4227",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 11953,
         "title": "تقرير رسمي: حرب إيران ضربات الاقتصاد المغربي.. الفاتورة الطاقية رفعات العجز المالي لـ22 مليار درهم - كود",
         "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNUE5WM3J1S1FnQ0h6ejNyUWtlaWY2N1NKRWdCeVlKVTk3dHp1djFXcl9ZSkdfQzFUdENPZGJxZktxUnlFUjJNb2JtYldTS3Jha0htZm9UR0hnOHNjRGVhT3BHQXNnTHVFbHVlQVBUNllfQ0xXRzkxaEhDc0EyYlMwLTYzWjlUdXpaYS15RUVXUmUxTjlZSk1nc1pTX3lVcWp3RFlCMUtiNl9BTHJ3eGtzdl9xajh4RXc5MW1pV2pDd043Ynl3blBCaS15N3ZOb09GdUxCQ2xXM05ickZwaFM1NWQzMmpSUVUtVmVPbnNWYVJ2eUdWaUFFa1Y4SHQ3VmNlWHBDQ0EyVDJhdXhmd1hmSjFXRnlQV1NQWmlnR2hoZ3p0a0F5X0xTQlJGNmlfRTlGdWhuS0FqRDJfSGZuMG5JTXBaNm1HZHVCd05F?oc=5",
@@ -437,6 +421,54 @@
       }
     ],
     "sports": [
+      {
+        "id": 12427,
+        "title": "مساعد مدرب نيوم: جاهزون للاتفاق - الشرق الأوسط",
+        "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNUGdhVldGU1k3bi1NdUdkY0JmWWF2am1hdG9VSW1fMEUxQmt0dnZoMjY0bC1FY2V4SEgwT2UwQ0Jvc1lSeWNwa0twNjN5NGRZUXRHcm9NWWo4TUVvT1FrbXBZQ3N0YUo2Nm11NmFkUVV5Um1SU01BdnFPQmFLbHpJOTU1Si1IYzRwdmk3d094N0N5LWx4MTBjaXhsclJwMFZLRGhSX3JuSUNlRGpVZHhQZ1BBV2R3cTVGLVBRVG5HSm0zYVFIX0JCOGNwRS1MN0VvcFFMQlhyeE1nY092YldPQUZRNVI1dVVOZVRNNUFtN0tQWHhCNFdPYkFrX2FDVk5lVnA3YVpoYmxZQnNXYVJhWXpXV3lQdEhDcmlLdnBfSmlVU0hFUExLTkxSbThZa1ducVN5OURfNk9WVHpWVXJRYkhmQXAySVlqd2hHQVFubV9YNUNtUjk4ZFVNei05cmNwLXVjRi1Zd19mM2tSYkdkLS1KTzdWQjNQcUgzR1lDSTdkREVmdTE3VGVyeWRkMXJ3WWpxd2N1MWlSaVhZeEswWFNvWGN1MllwcEE?oc=5",
+        "source": "الشرق الأوسط رياضة",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 11:29:46 GMT",
+        "discovered": "2026-10-15T11:55:16.030760+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مساعد مدرب نيوم: جاهزون للاتفاق الشرق الأوسط",
+        "player": "",
+        "content_hash": "98ca55f7cc1b182bf349b3ba51df00dfc6114266b6ac3fb85196fd357f1ede81",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 12428,
+        "title": "ترقب شيكابالا وثلاثية منسي.. ماذا فعل الزمالك في آخر مشاركة بدوري أبطال أفريقيا؟ - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNT3BtbjM1RkNWTVctbkt1RVJvVzZRZjRhWEo3MVhPanktbHVfS1daZi1jeWRnOGdORExGT1JmSkU3aHZCSnBkVlpVaXh2a1lGY3dYM0VZNHZxbWNScXlYamdiY1RwM3I4VVBGaFRWbk5fRkdPVERvVFNTMjU3VzU3ZUJSRk1HTGxuWWxETzhuRVQta281eGd6OUlaNXB0eWlCN2QtQndLb2NaSGdqQlNQenRGcGFIRFk1NkJ3XzlmOEZpYS1IZ3p6RWh1a0JHTkxzdDlKcjRMX1JENW5KbFZ5QlVfYTlWbGVoalBoSTFwR0NvdzRyV1I4SW90ZnIzTWlkRFB1MmJjSll1Mktwa1ZMbGEzU0Ria2pTZzR5UXNNS1pDOUJQQnMyR29jNWczRkZlNlBaOF9CWVBEVGlzdVhxU0Naa1JYTno4amxCMEktamVUZzFyNEE2dDF3MGJLeHdXand3Y0JtaVlwejV0eEFmcWFBR3RMVTdLME1zUmcwMEZSd3hCX2RaY2M5ZllhbG1nRHA4WDhLYjRsY2g5MmNBM3ZXSXd5MVZCeS1HUGtvNUlYQ3VIS2xRWUUzMFZRdTNaQXltZnFaY0hmTlE3S1BheTFGeUg3a050MHgwVHYtQlFyYlJXc3BqR183LS11R3Bpcl9pbldERGZPamtVUTVOby1EZVViX0hCSWNNVWdFZkVhMDJ6ekw5WFF1VWpEUkR4dVRFQXFVbXdFSUt2WTBvUE1oNVZvM21ZT2FkTEVRTWktNHNYTEVEdEpLelVhcGJ1VEZyWlZyNG1rX3NNT29ZcWRoWERXSUtwS1huQkJqZkZFMXBoVTlfYVd1UXN5M1RPQnpfNE9DOXdvdURUWnl5atIBlgVBVV95cUxPM1dreGZmZ08wNTNIVE9EdDF3RWdKVFBnQlpFd1RaTkVVZzVjc2YydDFzWTc0aGx3UzdlUFpIZGtQWFYybHJ2eVdmT21Od1lCUlRKczk5V2k3cWxmLWNvVk1FVDhzZlYzVk13b1l2amxtQ1RuSXVlcG5kR1J2aDlHSk04SHJqNnl2d2p0SUJ6OUgyQ0QyUm0wTEQ1RmJzaC0xNWhGLWdjVnQ4YW8xZ28zQTZXR2tSMjUzU0pNNWtFMll4UGI2QkE0S2gwTlVHbHM0ZjJmSWg1aktzUmt0TEpfMjZFY3JVY2VqWGZ2QmszcThicE5aNnZ6T1hnOXFZYWtpN0ltbEU5Sy1NOVdLNHk1LURMeWE5TG9ZSGRVcFhManBaS0ZkMGw5aTlnckRzNDdqeUlxcXhjQnlrbE01R3R4Rmt6ejlnMUdndWJrcENLeDRneGJMT2tJeWlNcUZVbzhiSTZNQzhjSHRFWnd3QjdaQXZ5cC1XaWRlZ2Y0ZzlBem9mTl8tMjVIVEI0NGlGelZYMTdNcExhNHdseHJOQ19Nb1ZWNzZGblJBd2NQd3pKZ2FqdEZ3NndoVnZxZ25wMWVNWndMVzNkSkRXVHE4TGNWZUNEMm93dWpLTWJvYTFhYTd4amlFT2xpd0lpVjZJUTJHN1M2V3ZsTkNJMGVPeklza0lqRjk2X19MZTRwcmpvdGlXU25YNnpFcnhlaTJRbHktRjVrOWRWVVAyWXd1Y2p5TGowWUFiZzgyQlJaZWxIWkVjSTd3TllLNldlOTFVNTZ2TXNLNUJadTZOUWIzT29EblpiMEJUakZPdmVuSElPWDZNd2RHb0x2SHg1cXA0RG9ONW5qLUpOMGRmRWREMkdGTDVpS2ljdw?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 11:17:00 GMT",
+        "discovered": "2026-10-15T11:55:17.976668+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ترقب شيكابالا وثلاثية منسي.. ماذا فعل الزمالك في آخر مشاركة بدوري أبطال أفريقيا؟",
+        "player": "",
+        "content_hash": "314d7bb01e679b25fe2dc85930d9e7430464318c308158562fe40a17c9bf7968",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 12432,
+        "title": "بعد اتهام نتنياهو بالفشل بغزة.. أيزنكوت يتعهد بإنهاء حكم حماس خلال 18 شهرًا في حال فوزه بالانتخابات - Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT1NxbHRQMDd0VUl1T1lSMTd6UEItZE1MVEsxNDNyX25CYWQxbVdJZm45Q1dhYUJPZ1ZRY3E4ME04WU9vZDBGUGpJWUh2OENMUmZ1RXdJQ2g4ZXhkNWtaVjJZTEFHSVNWYW5lTFRKd2lscks4M1BLYU03NkxaUFNqMmRtZXYtR2RkZUsxZ3R3?oc=5",
+        "source": "يورونيوز عربي",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 11:00:54 GMT",
+        "discovered": "2026-10-15T11:55:31.167982+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بعد اتهام نتنياهو بالفشل بغزة.. أيزنكوت يتعهد بإنهاء حكم حماس خلال 18 شهرًا في حال فوزه بالانتخابات Euronews.com",
+        "player": "",
+        "content_hash": "859c46a91241b0448e42d125075b67c4fbeaa87320e3cbe9a62b4a71cd87a779",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 12421,
         "title": "خاض 3 مباريات.. ماذا قدّم الجيش الرواندي هذا الموسم قبل مباراة الزمالك؟ - يلاكورة",
@@ -658,6 +690,22 @@
         "summary": "أسطورة المغرب: دوناروما قدّم مباراة كارثية أمام سان جيرمان Kooora",
         "player": "",
         "content_hash": "50cd50794dfd24aebf75a67123659b5f6937a32bb7007b60615fda6c69667664",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 12426,
+        "title": "أشرف حكيمي يقتحم جدل \"الكرة الذهبية\" بتصريح دبلوماسي - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMimwRBVV95cUxQVzBCT08xX0F4c2xQcFNzS1dnWFVFeUlLX2R1dnI1T2xTX25WdEVKdzg3T09JOXFaZzV4STNWYy1SSmxwbVBxc2xabHppbEN6RTB0QVNUb1RTQnlDZTRUckNiS0pxcGptN2JlbWFpa3h0bDdKdEZhNWFfbTVialdleVhSSmQzZTBsZ1YtVEdGZm84TjllWTEtekhZakFXTWpFbDhnd2s4S215eHNoRVByMFdOeTNfR3B4OURmVGRoN2pqX01sRGlfOFljaVhfX2o4THNZd0I5amo5QlVwTEJWdHQ4a1ZPdUNFaTR4M0tDQ0JkYVRaSGtLQ0RkQmF4SWh0X2xNbFNWNm1pNFp3V05EbWFMWV9aejMtUTJXRkJabWlULTQ4Y1JGenNqZXpIYkphUXhKZ3oxOFZyd0ttczZVdWxVS0g1ckE3cHFINWw2ZFVLZG9HLUJBZmk2a19XNkFTMWk4S0ZTekNvMnhJaW9LNTNFLTQyZDFNZk0zTGxTQnZycTIyVXNBLXZ5emw2ekhnSGpzRU5WUHVRaVV5ZlZXY25IZXJ2a3hKcVFMR25hTDEyQzZ6cENYaGhoQko1RDc2QjA3eHdlSUk4RUk5aWJZMnRYbHl5RmNGRmczei1pQ3ZndGFfWWlLVVBsY3g0Q2tMZF9UUGRqdlUta21RajA4NnExMlhXQjRFd3NMWE5jYnQyUHFVWThMVWFZSQ?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 08:25:37 GMT",
+        "discovered": "2026-10-15T11:55:12.933751+00:00",
+        "category": "أخبار",
+        "status": "غير واضح",
+        "summary": "أشرف حكيمي يقتحم جدل \"الكرة الذهبية\" بتصريح دبلوماسي Kooora",
+        "player": "أشرف حكيمي",
+        "content_hash": "da8bb86d560847a4270959b3df7377dc3ee8cb04967e46e9e944d3d0b3843674",
         "sent": 0,
         "section": "sports"
       },
@@ -1172,70 +1220,6 @@
         "content_hash": "fa657b531d6a27af7602b7562333d29f579fb380de2425abc2b96a6ceb55e641",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 12222,
-        "title": "كل الطرق تؤدي إلى روما.. كيف حقق ريال مدريد الريمونتادا التاريخية في دوري الأبطال؟ - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi_AVBVV95cUxPeldacGh0V244ZzVndXJYcTAtcG1mTHk0UVJWWVV2MU5CWU54MWxkZXBjeUJSemxTa3RtNkhTUFUwcnpFZV9RNzJCNjIwWllLRUpSanhaR2gxckdXN29hWHpCOUluS0JVVldXbzBod3BnYTVrQzBkaFdDTjJRSmZyRVhBZTRZNFR2LXZaNnVnWThRazNpUUQ0a1FUYXJwVnItUERtYnFHSl9ZWnR0Vk9NQzNJbDFzMnUxVEhQdGg4LVhNRW1qUjRjeWtrS3RIOGtRTXRUOTg3dUt6MmlBZ193amVqUjZUNHBSdURKb2NyZ1NvRzlIR3JzZWZNUjZ5TU9wNUVBZFp6aUd4N0VFVm9yZC0zaWRtMnVXTlV4b1lYVkVWRUxiWExzRzUtYUwyQ1E4b0R5QnpCX1h0ZFNfeC1fc2VxTnBvekxGbnR6WjBXbmtQX1VHWDA0TUFRMnRDTjUySkpCOFFjb1E2d3ViTVVPeGk4TmRNdlBORWJ2LXpYdkJCYnFHbTg4RmFORXZ0eTd1ZVpKSGlJTkZhSWJjcFdoVGlZSExTcU9Wem9ya1k4cDB4OG4yVHJEclk1M2xxQUxEMDZqY2ctcWw4cVRfRTdtR2Z5SFZ3YnQwN2VaOU1CWThBaVdOSnQ2RU9jWl9IUWlMX2lvS2RmUjN1M2ZrUENTZTBGM1N0TWM4a2VLdHViRlhLem1MUzZHWmJ2ZExkZndrTnVVU0VDLVc2YWN3NHNibkFubTlDUGppZ003RnMtVlNKanh0MkVxLWptelljSDFLRkJDNEp6R0JkaC1ONGc3a05QSmZXZE5iUExoTk9BTnhqMHdSZzltUnFYV1RJbXdjbFNhM0NRMUFSWDRqUlRZd1BVLUR5RWwwVktXemE3X1drclpoanpBUG92RllUSFBleDdPb1FPSDNhT0tPTzV6WkRyclMtUDV3OHdNMnJia3FjeGlfdENmcmNKTFFZdFRTc0VBZUlqeFZaeEdiSGZSVGw1RThVMEJId0ZXbA?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Wed, 14 Oct 2026 22:18:01 GMT",
-        "discovered": "2026-10-14T23:00:54.867884+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "كل الطرق تؤدي إلى روما.. كيف حقق ريال مدريد الريمونتادا التاريخية في دوري الأبطال؟",
-        "player": "",
-        "content_hash": "68ab50d9467d7c19184bd0b000173272c59f362683b2eb92134dcf9f6fafddab",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 12295,
-        "title": "أستون فيلا يمطر شباك فنربخشة بسداسية في دوري الأبطال - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxQVGtYV0JZc3lwLXVNWjVMc0QtSUNiOGlXbHlsYTlMTXJJYlh6R3ZFbWJNRTM3NEF1THdoMTVRT09fOXVnWXlZZHY3N0IxQ3VSeGRRcWlZc2lTcTJ1UlFYWGlJdkhFX0twV1BzOXk3T29lbjVlaDdDaWdtSFBQaE5ONy01QmRnYkFaQThkWDE4YnN5X19NQ1JKaVNHNmNJMzFHNHZ0aXA5bUZfdm9TV2JVME1rdFdrQ3BQYWNWaUVZVlROVG5YcUFaOTh1d0w5enRZNzlsOVEtOGhvOF9DaGp3QTAtUzJpeTctZXktTU1IM3I3UzFrZEdDMVEtbUFnZkl0cmdwWDAyVS1zQlZTazl1SmtodmRvZ1R2WWFXUGMxT1NCWi01SEk4TlQwMzFBT0V5Vk5xVmZGRDBwNEExYzI3XzZuTzJJblprWHNHVmZHNzVaVWtxdE1vTVRYSkxnLU11ZndJSHp0cUxDa1BxaFhxc3VXU0xMYi0wYkN3V3FxN2tfM05PZDlIdXExekszNTJ2SzhTcXJ3MmJralVXYzF3ZVlkY2lhOENuTGJZZWIyYlJ0MFZGTmxhR29wR2lleHdfMkJRbl9xZTVodUpLX25wYlNDd1dQTnpmMVBZX2xaMkZiWndSSnJaamxKTnFnRUlqbUNXNi00bGg4MnhCSDdjYm5YR3M3cFN3SEl5YjVxdlY3ZUhteC1NUzhCbnRQZFRkdk00cm53VXhDSmt1cHBsWWdEWmtxNEROV2Z1TVVWOA?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Wed, 14 Oct 2026 22:13:53 GMT",
-        "discovered": "2026-10-15T04:17:19.300471+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "أستون فيلا يمطر شباك فنربخشة بسداسية في دوري الأبطال الشرق الأوسط",
-        "player": "",
-        "content_hash": "b9c17ab668cc9042cac413386a3d995ac3d4353db4b3c2afc8a4b15eb8fffd2a",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 12218,
-        "title": "احتفال وتتويج الأهلي ببطولة أفريقيا لكرة اليد - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxNSHhGcENNNVBRQ0JReHV0c0lFYXA5bTl4UzFlY1NtWUhSU2tnYXQ5UmJOc054U0Vpd0U0OFhZYTRuVTdKd250X1poOFpyUFNjc0xWenZOd1cyN1hxVDdfa3Fmdy1pbXl3bTY0M0VWcWxuMEpPa2YtenV3VUE0bkU0ejduNHhaaTdQYUJXMlc2VzlNelFycGxaekZ6V08xTFRFbGZqNzFodDVjSEk3Y3RHVWNob0RPWmJJUXQzeFk0TTc1WEJjcGxNanlpcHN1bVdJSXV2ZnNzQndHVGgtOWZrOGp1R1hySXVUZFJiMHFpTWFJaWlobjdoTHl3TTFEeE9WcEtJeWxNWFpRYlhtVTV2aHNYSDVpWDF3WndnbXhUZWhLQTVkWTZ0U050c2d1NzJKb1QyUkZkZWhoUkVUNzhwRDBSelJ1eE5hM1cxcFBqYW1UM21wOVFiTTdZbU42ZXZRN0pWaUJ4OGpMQVZiMk9ZS1k4MzBzLXBncVJJSU9COG1Rb1FRNjlKYVBZWXpabjltaXVXRllnV1owVml5Z0UxQnVzY0pvVW5kaGhtVDhJNDBJSnc4UVF4akRyQjV3SkhTUUw0aXBB?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Wed, 14 Oct 2026 22:08:00 GMT",
-        "discovered": "2026-10-14T22:34:49.473390+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "احتفال وتتويج الأهلي ببطولة أفريقيا لكرة اليد يلاكورة",
-        "player": "",
-        "content_hash": "c235535168147f87d5e1e1275b2074644f356aa64ef28d4a97c9b984870ad4ed",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 12322,
-        "title": "\"كان الفوتسال\": المغرب إلى المربع الذهبي بسباعية أمام زامبيا - جريدة المنتخب",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vVGZBMkM3U09LZDd5SEhEVENjZkx4VXE2V3J3WmJ2RnB2U0hMUnNaQmpCWml2VUktV3o0NkdhNGowQmlRMm1XamdwWjRITTVYTXRSNA?oc=5",
-        "source": "المنتخب",
-        "trust": "C",
-        "published": "Wed, 14 Oct 2026 22:02:18 GMT",
-        "discovered": "2026-10-15T04:51:59.428347+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "\"كان الفوتسال\": المغرب إلى المربع الذهبي بسباعية أمام زامبيا جريدة المنتخب",
-        "player": "",
-        "content_hash": "32f5398d86f198050db7fd703ee3b02fc43dcf34bd43bfce48eabebc3e560a5c",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1252,6 +1236,22 @@
         "summary": "رحيل سريع للمسؤولات وإبقاء المسؤولين... هل تُحاسب إدارة ترمب النساء وتُجامل الرجال؟ الشرق الأوسط",
         "player": "",
         "content_hash": "54803b64fe2416d605ea147774174ca83a7c03b391c9991e8daf58133d24f4f6",
+        "sent": 0,
+        "section": "transfers"
+      },
+      {
+        "id": 12431,
+        "title": "إيلون ماسك يدعو إلى رحيل زيلينسكي وقيود على ستارلينك تعرقل مهام الجيش الأوكراني - France 24",
+        "url": "https://news.google.com/rss/articles/CBMiywRBVV95cUxQeVlsdkgxRnJLS01FSmV2TnZGNi1KY0lLa28ydXFsSWNkTDFzUzBaRnE1WlkxMUtEUmg1NXlJY2h0M3RkTExaZnBHeF90OWRsOE9GVDVnWTJ4WEcxTzZkQmQyMFlOQlloa1RTNl9MdV9ENFRDYmZ6dnJ5OHJEbzRVS3lCeXZCeUV0OFZsS004RjJORi1XaDFzN09tdGgtOG9mYW84MkZVa2wyWl9YOHFMUUtsLUpXTE0zb09uMWQzNUpPbFBfNjVHX2ZEdEhTaTBXTkhJU3FpOWI4ZUl1MHVsS0dmZXBaaVhJTlc1Z19sR0ZCQjEzd3hnNGd3QVcybHdUU19jRElERV9MTVdjbVozeE1xUGxCSERoUlBsR0tEaHZUZFBoRDFJNnFoNHVUb3Y0QjVKMEkxVFl6RlVWajlLZThSdTU5Mzd3UkxVYWNNVFowRmZkNjZqdzAyNTA5OFZpUFg1dVJ4bUxBOXVHd3BneEkyTHdVbUotaWFWcjVmbXFLQU9RVi11YkRHYXlCRFNSck5GQm8zcmwtd1hPUVBPR2JrY2ZZSWNEOTE1eEdMeUpjaU9SY1NGdFRaeHBzZmUxZUVqQVNlVFZvYVBRalgxcklXSG1RRVo1VTNlSF92aXdEN2VvUkszSWNqcGtlRzNXZTU0ZDMtTTJtb2JEenFIcW5DSU5RYkNFaGRUVUFxb3NRd1Qwa1hpbG8zblhWYnoxZll0U2lUYm9tVEtDbk54eWlLSzVIS255d19fcmJSNk90VmNYS0ZxN0JLOA?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Thu, 15 Oct 2026 09:07:35 GMT",
+        "discovered": "2026-10-15T11:55:29.098122+00:00",
+        "category": "انتقالات اللاعبين",
+        "status": "غير واضح",
+        "summary": "إيلون ماسك يدعو إلى رحيل زيلينسكي وقيود على ستارلينك تعرقل مهام الجيش الأوكراني France 24",
+        "player": "",
+        "content_hash": "57ba552c8e9fd63e75fd5775b2edd09ce485eef1ae7ef6a675d94274ead81c5d",
         "sent": 0,
         "section": "transfers"
       },
@@ -1738,22 +1738,6 @@
         "section": "middle_east"
       },
       {
-        "id": 11931,
-        "title": "استطلاع: تراجع تأييد انضمام أوكرانيا إلى الاتحاد الأوروبي - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNRTE2T292R3F2OUhmc3dDWFZDWVBhaWtGdFRTR0xSaGMyaTdEbXNYNFpSbDJHcUIxcmVHVUI4MGNhM1hDWFQtQmRKWnNtYWU3ekpaY0tOcWc1TE1EVkJtVmJsYk01UHphNmRzX21mYUp0NG1LQjBTYjJJMTQwWE1SSlJ5VHB3VmFnN01sQUJHM1lqSWlUN1ZfdG0wa294M3Y2U01hV2ptZVl2ZE9PWWFsWHhtMnNwZXZjN0twRE1LVWEzX0Rid0xvRVZ2VEJBUUJPNkxaRC1TTVNsWklGYW94VF9VR0JybWJ6MVlGVTNkczNxbFFzcGF2UXJuemdpWFBuX3lSMXN5a0RyckdDSEpLcVRmLVgtSVRwMXRleUs5eElWb2RJdjVGa3Y5bHF2bWt4b29RS1lnTjhDaFVMMEp1WVpsU2ZVT05CTlNHLU9QVXZQa19xc3VyRGw4WGRnRS04OEZmUWkycDl2Ym1kRkxjZ3ZqTklkTmJ4eXRhc1FyWFNSSGx2c1ZrV3JKR2ZDY3NjVmJwbGh0TmRidk1uOTFMdFdVMkVsaWJYS0ZxQTVNMGFtUlpFT2FqV1I2NHV3X1VhVjRBSnU2LTNBMWw2V1JN0gHUA0FVX3lxTE1oaFR3eWFqZTdxOTA0V2dxUjZjTVdhNmdURnRtWUlXMjRBZExQRURvT2hMYm9OWUhjV0JpMkExNEtnNXRtdUJ3d0ZHRkZPM29yNDBrMWZfMlQ3MERlSzNmNkdUNUZqelJOTy1FUHV1eDhiN3dTT28tZFlvQW9fYTlWVTZ3aVdiRkxLcjd6U3hLTjlxa01XR2dUbkJGWDVXV010MWNITFR1cEZPd2hFSTZmY2JfZnZ1RURXR216MzRGamV5UEhCeGFBVFNIM0N2MDVnOW5mVWtDbk53cHM5VVE2X0Q5YlQ3LU45RkdtTUkwUG9sNEQyUlF5WkFXa0dZNFUwdm10SWI1UGp1MF9fZ0ZYeGpYTTJjQXF1clhieDNaRWlOZTJtcGJDaWIxRkY4dHBYdXlSdXY4UHhaclBpcnFacFNyczNSUHYxa0lMNHN2UmlZWXdZcnVrT25mem4xZ19rVTVMRFRlU2tXZXBrNjR2STBCanl0aTdNS1ZYQ0RuNnBJLXdkTUZrUzVWaXpNZkVfYTZMWUNGdXBnakNvTXN1aTQyRkU1dmtPWEF1SThaV3plWk8zbXNMNWZITDE1WnNtcm42eXg2RTJNTkpmbXdsSGQwaw?oc=5",
-        "source": "سكاي نيوز عربية",
-        "trust": "B",
-        "published": "Tue, 13 Oct 2026 22:35:48 GMT",
-        "discovered": "2026-10-14T10:46:30.384885+00:00",
-        "category": "الشرق الأوسط",
-        "status": "غير واضح",
-        "summary": "استطلاع: تراجع تأييد انضمام أوكرانيا إلى الاتحاد الأوروبي سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "2fc0c63633412d17e860b0166cd43fc71a5e7d351ebd5dedacf17b48f17b7ba8",
-        "sent": 0,
-        "section": "middle_east"
-      },
-      {
         "id": 12244,
         "title": "انضمام 40 مؤسسة إلى ائتلاف إعلامي لمواجهة شركات الذكاء الاصطناعي - العربي الجديد",
         "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxNNU1pRUJQYkRGSkFIbzhCcndERDBZcWM4cV9QX0FPbHIyWXdaMWdOcWh6YTBsb1ZNSGV6azFhSU9TcFhFUkxxM3NvZUxQSmI5RDZaTUZxaDNxUV9KZkp2Qmh4WXd6TEJCV21UNGVVczQycFFrazFYZERsZ0hfT0c0VkF6ZTc2d1ZXZ0ZocWY0MUdHRjZQTFBpTElab2x0SHlyZ0p6SGNKTVJRdzlhTWc4ckZ1NkhvX3ppSy1TVEo5YWtuLTJScVFueURwOC1YZllNeUlqaTBHOWFxNWtGUjBWMDBtM1ZDQnVRdXhLa01EZTA5RFBrOHVKSUVIbDR1RTQ4bkJ6bl9ZckM1cDJNMHVmWHowcm90VFBpYTdNMTFsRjFzRmFsUm5BQzA3My0wNFRhQmZib0N1bnNmTlFmQXcweTFzYXF4VlNaYlBjbnBKa1hiV3JUdnBqZ1dRT1lhSG1qNW1tNTNpRE9XOUI3ZURnZU5ERktkNlRRRGZQU2RqQTFLV0FwXzE4RGlYOFlQN3FrSnIwaXZPVzQ3TE5ERUVXckc1Umh6TW9jLXRnMHA0MzRJMndHS0xHUUxhZTh0bENhN2RKc3hGWXc2UG5QWHpfcDZYeVQycDhDTzBTS0VmYm4zYnNhMXlyOFZfeWVMakQxLVFjMDQwelNsNnhEWW9ITWtVTGN1eVo1c0g0cmQwS1nSAZYEQVVfeXFMTzdiTlZYS2dvcmZnZUtHZmQ5anRaa0dUZWE2Wk1zcmtYNEVXRzBiVzFJN1hPRFNBVklXVDdsUkljUHJTclJONGNiTENvZFNGWkFTb3JucUs3emYtajlRZ1lsbk9oaU9YSVdybmFrc2o0QVNwM3VlaDVzRkZUWS1DQmhndGkzLUpITktNWk1RbkozWmo3emcyRDNpNWthc2lFOW5TLUJxcEE0NDVJMmpCcnhPc2U4eUlvQTFpRWlGejI0ajlBbDVNRnRUQXMzWnk0cW1wc18xRUNyUlNSOHQwYkFkd3Z4ZUZFQVBpMHQzM19PX3JMeVlBVUpmZnJpYWRxcElkbm03UXpjQVpSSVBTWUpsMkxkRUw5a3RNU3FZLU1xamtDWmJSZFd4V3ppOU1JX0p2NnlkNGg5Y1BKWF9CQm1qcFozZkhCNkpRV2ozaHc1QU83anFHWHQyVDNkbGU5WmRqVG1VaEw4VnRUTVA4UjYzaXBERjVfNHFLTHc0c25DenV6RnB1Z3VZZnFzdlUtODYtV0luWlZGaTNqUXQzc2RWZ0daMERaT2ZtdHRvNnhpaTdJV29CR1l1MS1PZUF2dTFTcWREeFhQUXRFOUtpdUV5ZnZUNFpoejVqNHEyZE9CVzAyYlN1cld1STUxcl9kdmNUSTJWeDBQaUItT052Z2RWcFNCYWphb0otSk0tbEVFOVUwemx3?oc=5",
@@ -1771,6 +1755,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 12430,
+        "title": "تأجيل القمة بين الاتحاد الأوروبي ودول الخليج في الرياض بعد ضربات الحوثيين - القدس العربي",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPaHluY19VRHlkQWJHX1lIcDlNN0RkbS1WNmVfNTJZQzlNd1VLdkowRU1ESmEyRGFFaHFuaXhUSW4yUTFzUW1KSE5NQmpXUy1LMHhuSmliTGtMNlQzWURfSHJ4a04yTVZrS1Z2dTJhNVhDbTRHUjJ3ekpEZHB1T09ta0xJU2tCcEgzTFZndHJ6MGdqejY2bjVENkdGNlI1VW9BbE5EdG44RlVLQkp6ellNaExkUlFRTnE5WVpKTjZGVTl0eEpQUlV5SkVVNFUwb212Z0syVUNhdUU3ZEFpX0Y0ZnJKeGYwdG9kYV9HaE51ekZpaWNzdUVoak1Lal9SUWxiaWU2d00tT3R5YUJiYnhSX1dSX24tY0FUOTBoMU9EdjVoMjgzdXFBZU5UWVpwdjctVjBzVjFDZnRuZlBIQy01NDRFeHFBUQ?oc=5",
+        "source": "القدس العربي",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 11:37:22 GMT",
+        "discovered": "2026-10-15T11:55:28.425500+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "تأجيل القمة بين الاتحاد الأوروبي ودول الخليج في الرياض بعد ضربات الحوثيين القدس العربي",
+        "player": "رياض",
+        "content_hash": "8a9cade70945ee2df97457ba61f72a9c0902d801c817b83fbd44bfdceaf5a6c6",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 12398,
         "title": "نتنياهو يخشى صواريخ إيران قبل الانتخابات.. رسالة إسرائيلية إلى واشنطن لتأجيل الحرب - Euronews.com",
