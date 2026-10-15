@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-15T19:17:13.536478+00:00",
+  "updated": "2026-10-15T19:46:52.585522+00:00",
   "total": 134,
   "sections": {
     "morocco": [
+      {
+        "id": 12633,
+        "title": "وفد مغربي يشارك في مؤتمر أقاليم فرنسا - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fa1BTR05vTzVMSmVWZDFUa3kxMDJBSk42QTFlXzRYTG10T1R4WUlyMnRyb3lHUGhXSXF6UXlTTmdlZHNyQzZxMg?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 19:30:31 GMT",
+        "discovered": "2026-10-15T19:46:23.515884+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "وفد مغربي يشارك في مؤتمر أقاليم فرنسا Febrayer",
+        "player": "",
+        "content_hash": "bd00d01c4a586883e125984461020bfd8c96abcef47db70384daf8694c70f2c6",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 12624,
         "title": "إشادة واسعة للتلفزيون السويدي بكفاءة الأمن المغربي.. تفاصيل الإطاحة بمجند القتلة المأجورين - Le 360 Arabe",
@@ -565,6 +581,38 @@
       }
     ],
     "sports": [
+      {
+        "id": 12635,
+        "title": "الدوري الأوروبي.. كريستال بالاس يسقط أمام ليون.. وميلان يكتسح سالزبورج برباعية - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi9gRBVV95cUxPTlJXU2R4MWFzTEoyQ3Y3UjY0ZWN3amxKZUVERkc5eDlIZkhBemlpQW1QUFoyb3hOMFVGQzhpTUxHbklDcVN1dE54Y3hBdFExd0R6d3F3RmN1ZmgxTTNGSTNTc00yalNsTDJ1dTl3Z0txWGhsM1FJSTd0N29kOG11ZnJkWlZGR1FxZnpBRUg0U20tcmpxaWhfZjBMa1AwWkFTaDlDTE1RN1hXZFQ1Q05uNi1UOFprSWQ3T0luUUFBb1RpVkc5NXVCWGtMVVFsY0tzSWo4VjNhN1QwbURfTVRlM2NuS0lFYUwxek1rZ1pzY2V0RVhYcU1TV0RmWjM0MnhNRXE4cWlnSU9GTTgzR29nR1pUdXplSlp4aE1OVWRQMzRsZXQzWmJGSkdsM3pBXzhIbHpQNkd1b3dPVGtwNDk3WVdHZ0Z2WHI5SVBfc3NKOWViVVUyMy1JOFhnbm5LdERhOWxlNFlZblg3OVJhSVpZSmdSY1Exa1U0eUg0RUJ4V2N6RS15WUx2VF80LUFWc2pfOFRvWkZqc3pzcmJGdVZnd3FxanU2SUl0Q3JkdDVPLTFOYU5HV1JyQlBwNUtROWpSa0hOS3JaSTBNMEFMeVJHLU94TUVFSWZaWjE5b3U5Rm12RXJFZGxabGkxb1JPSDF4TU8zNTdaaGEwMDFtWHlVQWlhTGIzcFhucUlkS0NOUS1BaW4wQkhOZEx2QU9jaUh1V0dxN3JMZGZCemlzVTBUUEwxc3h2VkFKZUg5UUJTRVdLc0FYZWptVHdlMk9vVkoxQjZWelVKVC1ESFZKLUdJNG1HWG45am9Sc0pBNkR0MkJOXzhlSUHSAfsEQVVfeXFMT2tfOGQ1MEZTeEF4VS0xNzBiWXU5cmYwbHVvR1VfLUNWOFFMUGNKbVpVODZNZU52Q05nYXVONWZJUEN2V21SYXJ3VzFIZ0poNDV5VDgzZVNtOXRvb3B4bXZFOF8tQy1VVzhTWDdfczV5dlE0Q1hKazVnSUhpSnVQNmlHYTNESXN3ZElNUGN5VzAtbWRXWk5hcHFSVk16Ti1qRmpVeEZleFk4amFoWkRpV0lrX2dmR1o3R0Y1VFUxcGcwZHlCNnVxT1lfdlY4bnpqNHUxMWZrMzRyRjh0TFJnVC16T0t2VDBMdXlRdXpfUmVteU16QnYzbEhNM3JsSTRINTFlZUtiODBrRl95TmFJaTU2MEdITlQ0SnROUTZmZVV3dnFqZDEyNjZ3Q2JsV0xKZnFLa1BkaXFTZFRJaWFrRzludDBCek5temZVYVNaQ0R4WWdhVGQ4WFdOckota3R6c0NsMUxHRjVROHVKSE9BSkRqRDg3TUp4X0NBSlZyRlpKcW53bHB5Z0RnNVItTkVqbTJ6YzRGRTZlZFMya3RLM1drYU50emw4aXBZanRvU05laGtieXFDRGFLdkpCbE9jTTlFamxGZmRmS1BCWXdLOUxFdW14RjlJU09LRWxrajl0SnZ2Wm1sMWhzMFBBMDRCb1E5MFdFQzdpNmVuSEs5b3E3aGhNTjhHUkFDREN0cTZUTms0R2V4aDRkeHVTb2s2Z1I0blhWQjNJVzlOa3kxbFZYLWtRQnJqdzZPUHh3SDY0emt6b3A0dkI4R21rWDctUzBSYlQ2RmZlWW1RblNjdi1sTUplcnlTejNQVmMtSmZPcC15N1BVMjFzdVU?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 19:14:00 GMT",
+        "discovered": "2026-10-15T19:46:32.407987+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الدوري الأوروبي.. كريستال بالاس يسقط أمام ليون.. وميلان يكتسح سالزبورج برباعية يلاكورة",
+        "player": "",
+        "content_hash": "7ae7a81232801d4ab1e700f04719a872de5367a18141cc6b803def1b69c062a4",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 12634,
+        "title": "توهج على الترتان.. كيف تألق محمد صلاح في أولى مبارياته بدوري المؤتمر؟ - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxOZGZBeFIzUEI5TlhHZVkxczl3cTRLR2NQcE1vUy1iMkRsMGl1MkhIOE8tWWZtdnBMRWFwRWJ2MVk5eExGTDEwajhTX250eGJzZDVMR2JOV0RqUXFGV0M5NXNYNDlYdW5rRUg4OXA0emdjdUpXTFU4Qk10bTlVdlZ4SmNKSVVVZUFTM0RKMUthQmV6VkNrS1Y4UWxqdmlmOUVVZEcwZ1FNdTZZS2JBZkRrNmNRZ3FWZW40TjR3THpTeVlNU3FWek5WNWtyeXJvUTBDd3pQcGRGZUh0MWl6OG8zQ1BVYTdSdjR5bXRNdjZYTXpDMTUwaDI4cnp5WkNELUE2T1JxUXlwZm1ZbjhOVktJRFBwTFlGZFU3R21haW5YeFpjQjFvZ0tFaWswYWdGUlE4bE1nTFVmZHJGaGYzaWZpTjdOZDB4UlpHUjFXOUEzS0lUTjhvODBQTlBhaGw5X1g4NkloWXM5MDJBTGRjUWR1SFRmQngyc3ZsQzlUUEFDUUNEVFZKYUNlS0p4ekptaDF0Tk5RRHJNc1ZaYXFQenV4U3Yxb0hIX01tVW1nNEJmQTFjU1dqdGZmbi1QUWxTRW5vTnFnUnlzUGhYaThYVDNRcng4MXV4UkZSR2xhcnJKNjZlam40MWU2Z2hkLTE5alN1QzNrbnN2SDFCdmNaREctVnNJdHRTTFEydEJ3Q0xVS0RTSUpZYVlLUW1Pa3dJZHExbk1vdGJjbUtNdWNxZk43S1JMQ2poUktmWGRZQS13bll5RmgtcHfSAcsEQVVfeXFMTThlei1HN2ZiNFJ4UENaRFAwWW4xMjItd1Zpa2dfWm1TWWYwV0ctZVBJbTdrWVkzeUltTjQ4bmV4bHIwUDM3M01Ob1ZGNE9HWXdPenJiMl9ndDVLM1drOG5tWll2X1JDZklnWGRaV2x1ekQzU1cwSkJwN3VHYWZTdmYtZFIzemtpUjJ2TmlwZmpaSU5mcWVva3B5c29vWTBtUWV6aXZDaU9fYllTc0pGWWk2VGdVek5YVUV1NzdEMV95ZERSaU1pSEowMm9PZDdULTMxVDZLZmZLLW03VkNzZE1RZklOdFZyUDR0SEQ3MDRfRVhiYmdYajJjVXBLU3psUjg3U2I4U011XzVCRnBGYTg4YVdDRmRFTDZBMjVrR0xVZlJ0eDA3UnJtLVp6a1E0VS1seDZUVkNydWJtRXpmSVVqT3loa1plckRtNnFsQUMtemlsV1lueXZWNW5sQThKNFZiX3NoQlM4MEs5RldocEZRalpMcEd3VzB3VzI1QlNnOWZJVHBRYnNGTXdBZ1NaT0xEQlphMC0zZHFtYno2cjZqNHYtbDBmUGYtOVBHWmdJajM0VUVQN1F2ZzFHeTJjR1c5NXFILXJPN0xRRzM1M2hadzYyWHdyUjJORWszci13VG53SGZSYTdETjRCTE4zOVdHZzNTdkc0ZlUydnRPMVNNYjFUbWFsUzIyeGRkX3NXa2JQTG5jT283YnlZa0Z4NEZwVXhaamxoM0VjeGlQMDJTZk82V2hCd3ZlUnJkaHNzcWdDcDBnUWNjaG8?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 19:12:00 GMT",
+        "discovered": "2026-10-15T19:46:32.404017+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "توهج على الترتان.. كيف تألق محمد صلاح في أولى مبارياته بدوري المؤتمر؟",
+        "player": "",
+        "content_hash": "79578f8071931f203fa4c757b2d547730fbc268dd52cebb8bc67341a7be25934",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 12627,
         "title": "إعلان تأجيل بطولة السعودية الدولية للغولف 2026 - سكاي نيوز عربية",
@@ -1332,38 +1380,6 @@
         "content_hash": "12bf8d28f1351225a5dfe05970fa5dca96bdc5a1d3ea60c068efa7085198bb93",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 12460,
-        "title": "الأندية العربية تتأهب لوضع قدم في مرحلة المجموعات لكأس الكونفدرالية - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMisAVBVV95cUxOSmxISG1adWE5NFJpaV80RTdneEthd0V2RkxZeGJIZk5hRHNnLUFHU1VPZEJHenJJak9USDVqM0FmcHN4R2gtc2JIc3NHaXA4OWcyYUozU2hSX0JNcEhURFJfOUE4MFpDZE0yTHdEMUhlVXB3aGl6WTFvYkx3T1dPS1FRazlLajNpZEZXcF9iUFJPQXhRQVNvSmZ6ZlBqZG4tdlVEMWhfM29EV0xBVlBqQVdCTC1nbWRqZlMwQ0ljT1dpd3F0NDBVelY0RGtQMWFvTUNiUVI3OEhFRGdsdnhXLUJaZy1DSHBUc0NQN24xOXUyT01Vc1BTOEdsSTB1ZWRtaTdZYW5Hcjd4MUhrTjNZM2FHNnQyY2hZb0l6V2I4cTFrVktpdi1MdDNCR0RxcXV5TnlmLXNhMjl3UDdPTmZoM00zbG92RkV5by1iMFI0TzljR3RTTnVlQVpRNVU2eE5QaTUzYjJHRlFScTNEeHVKM3Q4UVFvbEZocXFaMWlxYm1PRTJ1SHlpa1ZUN2lhMURTNW1IZ2F5VnR2bnlRQ0J6azNOMWFEVFNDakRqSU5SSTk4eVdBRW5QckE5ZDZDT3AzVkNabDk4bEd0YWgtWW5wSWpsSDNNWUwxbWpzVG5NZjI0WGRpa2RUOHlRcWJvck1PVjhxY25ON19ObTBXQl91UzlkdndzYndsZFRsdy1tdlNFQ0pXNnhBWGc5ZXQtRzRJSjRwaEdNNVBwLUgzMkxwSWhldEJSVG16SldWdHVqTXZpZkw5aktRQlpBZ19sU1YyWU1LRUgxbnp4N3hxSEh2YzY3bGtSUmhNWnI5OVVObTRILXZtcU1CbzJYUFc0V2laS2FjM01CMElpLVpKejBSdV9QMVJpMXg1dkNKZEhtT3JzR0VibGVWRHdybzNadTJs?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Thu, 15 Oct 2026 12:56:48 GMT",
-        "discovered": "2026-10-15T13:10:33.702214+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الأندية العربية تتأهب لوضع قدم في مرحلة المجموعات لكأس الكونفدرالية الشرق الأوسط",
-        "player": "",
-        "content_hash": "f2ece3a30b67fc9fb633632b3bd10b5935afdd85e93d01631106cc40b77bea54",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 12456,
-        "title": "تصريح رسمي يثير الجدل.. هل تتأجل كأس أمم آسيا إلى 2028؟ - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxNNmoxQVdEZHVES0VLRmdxNkwxV3VYSmtNUmxPbjQyUXVDUFJxTDVjTHRYR0JTeGVBY1IzYkxBLXlZdXZ6dU5KYklSYUxVRGhmeXJiaG1RamN2UU5lMVBfZHZFRW9vemdpdHdLTGRjd0lFbWwtOHd2THlac1dzb1FoWlloSndtZE92MXNDeW9ZSl9FVVRUcWVOa0h1d2gwZTA0NFdLeU5USDFUVEtlSS1hN0VfQkZnM3Uwd2FVeWUxcnBNZUs2ZzI3SEtVVW1vSllnR2NXNlhyLTFBREJ4aGxOUG5UQUtKTktLUllGelBaNjFjdU91MG85M2h6ZUl1SWU0ZEdoYkVUZlBDbkk5Mkw2TlgwY1QxUXZldkZwX25pWW1wNk5aNFhjTVFWRFZVeWtlUi1jdG9BLVVHTnJLQTUzejNiREp0WG9oNUdLSnNBU0hCcmZlNk5ZSXJnbXVBMG9rLTl3bm8yV3k4Vm5PYUx3MXY4LVBiQjZkVHc0TTR1d1NhQmlzVWQzR1RPVndhQnVlMURXbjhtTUtid1o2bXl3dk9qUlFjSFFURXdDcVd6WGVSdVNiWjlZNFEwbjFkdXZsZU5lRXU4eXNsa2ZDNzg2UXhCWWlDbzNPLXhJUnBrVmVaZXlDMUppWjVyTUFWUks1WHZpUzRSWm9Ka0lXUzNLVjVtWktPTW92ZlFZa0czUEMtMm9CU2tkdWE4WVM0UQ?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Thu, 15 Oct 2026 12:52:47 GMT",
-        "discovered": "2026-10-15T13:10:29.722758+00:00",
-        "category": "الرياضة",
-        "status": "رسمي",
-        "summary": "تصريح رسمي يثير الجدل.. هل تتأجل كأس أمم آسيا إلى 2028؟",
-        "player": "",
-        "content_hash": "187ce0b61b157aadaeb8b3978e452febd883a26778a841a5ee15aab257d99eb7",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1770,6 +1786,22 @@
     ],
     "middle_east": [
       {
+        "id": 12637,
+        "title": "مجلس التعاون الخليجي: تأجيل القمة الخليجية الأوروبية المقررة في الرياض - الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQX3BjU212bTRLbGZZMGtxZ3ZUcjFuU3Awc0lpNndNRlRULUVoZ1l6czVkZkNEYXBlVUdRWGYzZElIbXpKQm5Pb01RN0RLQm1TQnJiWVBiLWMyWmpmbmwyYnV1RWJMbHVUV1FmX3VnTWljZF9KMk8tWnVJWERpRS1ZR0FoMjVhc25LeEFpNTU1WmtadFZDeEp5YXVmS2xIb1ZIV0xzcm9Pd0xYelhidGFVaUlxLVBDS01nMmlWb050MkhDdlFGSldSMlpGN0dLY3Q1ZGdkOFVpZUYwMjV2S0lQNHdqNW9TQk1kUURMWkt6OHVCX3lDcnhjTkZCb2Z1end6eUhKd2I1YzhqelJaYjRXZWFneXVCSnVfZU11RXljUmZ0X0lXd1d6R0ZkNFQ4aUlhRWNVWHVlbmR2ejJXZUJMcmdmVlZVWkpnR1oxdl9MbnNCbGNTNXhsN0ZPTdIB4AJBVV95cUxNWWgwRFpjdzJYRFA5ZXUwalJZSU52Y1dtb1hCWFphZFg1ZFlDZ3pHRmw4QnYwQlVlTmJQY3o5QjR2M0pWdkJ2ZURuaTc2X0VnX0c1dEtNSUVXMk9GVmp2Q2NmeUp1a1k1eDgyRnM0azlvVnkwWUQ2c0JqVjdQQktLdEtZbkJiak85QkZMeml0aURwdm5TY1RaUVFIYXJhUFhmNVo4YlVLbzdFcGNKbFBIdlpvUXZrVm1vY25XNnNnRzdjaGRQSnE5NEo4MGx6M20yaDRzOEVxLWFLc3JCNWM0OFAzaDhOc0I0c2FPUzlGc2tkZFQyOExNaGZ5UGsycmdHUHp3UklvX05EdlVkZ0YxZldBQWZvTFI1VFZ2YTVxMkJYd2Z4YkxpZlRfNmFqVktuRlBrUjFfWlE0RkxJZ3hiWG5hTnJ5cHFZWENyYzlsb0ZDVUZfdEpVMEszMFFMYWJx?oc=5",
+        "source": "الجزيرة",
+        "trust": "B",
+        "published": "Thu, 15 Oct 2026 12:38:40 GMT",
+        "discovered": "2026-10-15T19:46:41.114550+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "مجلس التعاون الخليجي: تأجيل القمة الخليجية الأوروبية المقررة في الرياض الجزيرة نت",
+        "player": "رياض",
+        "content_hash": "e179bb76178ff40fedbaf07dc15d6f0bf5d7ad07b93c8a0b8c60ee1b55b97b60",
+        "sent": 0,
+        "section": "middle_east"
+      },
+      {
         "id": 12355,
         "title": "لأمعاء أفضل صحة... 10 أطعمة يوصي بها اختصاصيو أمراض الجهاز الهضمي - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxQeVZnUnk4VzdpeTk1ampEVDI3TlluOWtHbU5JV2g2VVloMV9pdE9VQmN5Tk9TaUQxX1R1aUxjVGoxX1EwaTZXWkZSLUl4VVlrcUtMTER3WDRqcWVvZTdjaGNPTHZuSmJkN2FpemdOLU56T2l0TnQwUU5iNmpTNXJVc3ZXaVJGMzdsUUdvSEhVbkt4VjJJSV9FN0RPZ0tqVUxVQlo2dEpYVXQ0SVFOaDdPZ1RvSWJ3RjNndHFpNTJwOW5Ram9KUDlNdjdNYWlaVW1pUVg1elc2NXR2MVJ1YUVnU3Mzc0phRVpFWm5FTTdmNklWUXFSdWgwTldRV3V6VHBEcVBVSEQxRUp6NTBQRTl3ZGw0RHNVNDJpTzJSWlVsTkp0dUJadVZKbGFtczhKb2dsckhMRk91X0IxRmJGWFFwY2h0S05ER0oyYWdyZ0tjMURpdHRyRzhiU3pzY1NKS2pjNGRTWXZidnpzVmhRTFhqTFdfTUN5cFZvSmlPQm9WSXhRRTIxRXh6anZOLW1FMGtiU3RWRGRYdThJRF9SeGo5eldiTkVtS1JmWHNuSllHTUp3ekp5OURlckk5VEhyYS16TEgwNTZMR1NENFNERzd1cDc3SENVSHZ6aGt1WThVd0E2WkM1UGc1Q01JVUlLNFBfb3pDc1Y1cDNGaTNhV0g1X1R3?oc=5",
@@ -2092,22 +2124,6 @@
         "section": "world_arabic"
       },
       {
-        "id": 12133,
-        "title": "الحوثيون يتوعدون السعودية بمزيد من الهجمات.. وجريح بشظايا صاروخ تم اعتراضه في الرياض - Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUm1SdDJwNjRCdjA5dDlhM2VDcmNBQ3NQRWF5eXNnZHYzeWRnakxpTXhiVzQ1d0xJSnA0TUllc3hDanVzZ1pCNzZpa2pWREkzZDRxdFdKR2dRVTNNUkhydVJQbmtaMXVfSU5DU3BtemxBV3cteWotUnhuMnZlZjNyUG5EeDAzSklNMUUydF91QmRma3BDZjJQWjhaaWY1eW9iem9qZmF1T2hkTUE?oc=5",
-        "source": "يورونيوز عربي",
-        "trust": "C",
-        "published": "Wed, 14 Oct 2026 11:30:19 GMT",
-        "discovered": "2026-10-14T17:57:54.695583+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "الحوثيون يتوعدون السعودية بمزيد من الهجمات.. وجريح بشظايا صاروخ تم اعتراضه في الرياض Euronews.com",
-        "player": "رياض",
-        "content_hash": "4694e093e150c118b1e16d90cf3cb31ab2e6f6d12cb7ec0a960be2dbe428f9a8",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
         "id": 12286,
         "title": "الحوثيون يعلنون استهداف مطار الرياض مجددا بصاروخ بالستي - France 24",
         "url": "https://news.google.com/rss/articles/CBMi0wRBVV95cUxOOVJvY1RUak43YWxuRmhTSG52ajN4RlpEcHJBc3VLLWhfV0pnT18yYzU0UG9WWEtQbE9aVkFVTzRBajBCS3BHeXNVdDFwNUppY2hJQzdub2hTNmZBNHNOTzh0dzJLMk41Y3lRUm1EUFRxSGVLZmtnMS1GeWQwb1RsTGJ1Z1hhb0NUNkd0ejJkZXdpZ2VMMVBla1M1QWtjY2dXQjVvYzZ5UkRLeDVid0hZQS1TeUdleEtyTzNaamg2VC13c2VsQS05STJjQkZ6YlQwNjBIWmt6OEpNWThfdnlxN3FXN1dKcE1sVGRCaVcyWkpJTVRlcDZXdjYzdE5PcW1BNlVpV1hGclgzelhGNDVwdG9MQXJwdzNvSUJENGFaQ2hyYjU1MEtVTklIell2VTRCX3V6aXk4c2VNQWN0dzhiUnk1MkllMDJ3TzFyNy0xZlJRMjJoUUc1U1ZvOFgyQ2lpWWlLS3BPRUV5RWtCRzBKRzR6b3BiU080UzI0aFBFMnEwbDEyNS1NdGZteHdaWEk4Zl9ZZXdlbzZLd09wcGlodUphb05JUFhoRnl2d2hWTWRQdXg3a3RSUHl0OVo1RkZscW1BVFFRZUo1dWFmaUVfSWhHUmQ5U1hUSEtrYTRvV1ZBZVg1RGNiSlpkbUNsdEIyaGZyMjVQTDNGWmthQ29iZUVnTFprM05JSWNnbVE2Zk9FdHBrdjhFYU1GVjdrQzNrWUFwLVJ2S0txVmRUM2wtUVZBdmVQdE16Y1k3VzYzbUQyQ1dNZ1FwTFp3YUlLMlh1ZDNN?oc=5",
@@ -2136,22 +2152,6 @@
         "summary": "هل يُهدد \"الإيدز\" الأسماك في دجلة؟ … تصريح لوزيرة البيئة يثير مخاوف العراقيين BBC",
         "player": "",
         "content_hash": "a350038e3bd33e6dde4791b93da43f82b0c526019d327630bbcbb01b12c3f1dd",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 12157,
-        "title": "نتنياهو يستبعد ضربة استباقية قبل الانتخابات ويحذر إيران وحلفاءها - DW.com",
-        "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxQWU1zSWhNaXZpSGNkLUNWdFc1Z0JVOHAtcUJNYTJKSWpJRERZQ2M3RFdMaTgyMy1lMXI2bzliaHpBbXUwenRKTTdXbEF6ZW0yQ0tsQ2x5Z0NaMjljM1liVVJtYzhrSTFCUENFUmlwSTJPWkd5am9wRWVoWkRzX2lTQWhzVGdLSnhPa3NXVjFEZzFELVUwVUUtU1BEWEFzdDBnOThvMmM2S2pWT1htenRXX3ZmRzFOWVpHdFdZMnc1LWx6V09TV1pvdDhKMzRpa0d3cWV3OTlBdlpkXzc2eFZjVEVpWHNleUtTU19KN2o1WW9JZUtMNVZBbzJRMzhVaW5JY0NmUFpQMXltLTd5X000Q3FrQXJnVUNPZ2EzakthczlWQkpRZFBOTWJ3cDBnZlUxTmlVNnh2V2RLUDVsSWdPdDBxTTRDb1RmV0txZWFEYzlGRmhvWW1GcEZPTF8tUW1KTWl2ZzNFeE1NdXZVM3NfRXNNTUdnTGl1NDJ1dEE1d3RfTWJxdEprTzYwdVJtT2tzeEdqMEY2MHFscG5BYU4tSVFZbkxDUHpKbGRDQ2Utb1BKNXc3eXVWbmFvQ3pvZzhwTF9RNWNDZ0NsUWNLaHRITFhpMFF2Y1o1ZW53andMM2ZtNzUzWms1M21veFhUcU4xeDQ5M3FvUE9hVVFsRVhhU2JUWGVEQ19xMnVDRUV3R0ltY1dqMkUw?oc=5",
-        "source": "DW عربية",
-        "trust": "B",
-        "published": "Mon, 12 Oct 2026 19:17:50 GMT",
-        "discovered": "2026-10-14T19:08:28.309684+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "نتنياهو يستبعد ضربة استباقية قبل الانتخابات ويحذر إيران وحلفاءها DW.com",
-        "player": "",
-        "content_hash": "70d9322bd5b90e8fc92065fe1a9965b24e9d16e481861287402c8b65fe02d28d",
         "sent": 0,
         "section": "world_arabic"
       }
