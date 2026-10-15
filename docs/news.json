@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-15T19:46:52.585522+00:00",
-  "total": 134,
+  "updated": "2026-10-15T20:12:19.357056+00:00",
+  "total": 135,
   "sections": {
     "morocco": [
+      {
+        "id": 12638,
+        "title": "النيابة العامة بالرباط تتابع أربعة أشخاص في حالة اعتقال بسبب المشاركة في تجمهر غير مصرح به - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XVUdCWjJESGhSc01qcC13OFVRekZuZUUwejIxbmJxVkl6eDk2VnpOQUNib0ZSSkhOUFhJMkZlX0pqbTJZSkdTSjRjT3d1X09sTHlGZElqcVNnODRucThWaHQ1dkNBdw?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Thu, 15 Oct 2026 19:45:20 GMT",
+        "discovered": "2026-10-15T20:11:41.235714+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "النيابة العامة بالرباط تتابع أربعة أشخاص في حالة اعتقال بسبب المشاركة في تجمهر غير مصرح به Le 360 Arabe",
+        "player": "",
+        "content_hash": "43a506a4acf995061252ec837b90caf58fcd51d3aa821d04da883d21c41c3f86",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 12633,
         "title": "وفد مغربي يشارك في مؤتمر أقاليم فرنسا - Febrayer",
@@ -581,6 +597,22 @@
       }
     ],
     "sports": [
+      {
+        "id": 12639,
+        "title": "الدوري الأوروبي - سيسي \"التاريخي\" يقود ميلان للفوز على سالزبورج.. وليون يهزم بالاس - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxPMFY5SnJac3p6bmd2enNjeU5ndnpIU1ZndVFlTkI4Z1BBZi1wWGVRQXBfRjdfeURVc2NRR2x5Z2lwazBXd1l2b3VtbkpBb2NqTVU1SnF6akdhWi1rY3E3R3ZYdklTcGMxcWhTN1pQSm9lQ2U3LWRGZjFIYTBOTHZOZ0pncGVTdWl6eTZJYTIwVkctYTl1bHZfWWoxVk5RblFldkRPTVpLR3FDamxYMHhLNlI0VzYycTY3dHNvSHZqWEJ6OXV6SkRqUVVzdkJOazJvZk1wa0s5STdTQTh6Y21ZRjljclpuRW13QWdyMmNUeTN0WkdoTkUtcVdpWkdXV2dRamE1UGhoalNISmhCa3h6bkRkZkdzMmxKNkx0MExRaGt1eUJJNWxtdFJlT2EyTmY1MWdoNnVpU3FBSjZ3a0Q1bHMwVWM4SHJEQ21lZUY4ZXprcHdBZ3dlb285b3J0TXp1Wl9PeWtpMjlsSGV1ZEtpUnhGRjI3M0NLbk0tR0J6Z2FpLUlDdzBrRGxaRklLYUhrdi01Nk83am5ENnk5SHV2QWx3a0VWSUdpS29Jalk0bURJblBGNkw1dzlERk5US0QwREw5VTBtRjEzdEVXWnVJZUFfZkJ5RDc0N2NUMDZMMVFEMnVaeGVObWVIbDNOUzhZdlhJeHYtdUQ0eDRpVXdTNlIzTnZoYnoyRFZ2bXJEcFNuc3lEa08tcGhoaE5sb2JSMkF6S2ZtbFVGQ2hWQ0dfdWVwLUQzS2ZOa0l5bFlqTUE2MVFrbGFTX3dJeUxyQlRXUUd4X205YU14NXRlX1JndDVrUUpZVndI0gHuBEFVX3lxTFA2Tkx5WlMwR2VYZnk3VHg1VmVhT3d4b1BVN3J0VGtRVDNaWGhnaDBwTzVjVktMVnZCLWYtUHpnS1NIMVRXbXpuYkU3eDRPRkxVbkdBSmxEcm84djRuaWRCMkk3bDVuZUZmNzR2V0IwM3pkUDJKMjdTV05tQUc3c3NvUlJxQ1E5Z2dBaFBaYzZOZDdOZTZVTEE3SE9NdlpaMGNncnpMTHV0Mk1ad3IzZTdhSmRwTDctZzFCWEhRVGplZVhoTV9BbnU1SnM0dldwMDhRaTcwTXpMNk5BMlJNc1kyS0oydWN3SzNmTVZMZkZRUkhsak9iTGR1N1pVWHRoQkEtczhJX3FoQUdYU1I2S2JtV2J1cFhEN0Z4RHRSUF9GNm0yaXJodERYMjNMMDFvb1k4Tl91OVBIdlVJRUw3dzNtemh0WDM0YWVmYmpZYWFKV1Fka3dEaGxsbDJTZGpXU3g3YjA0S3JCTjZpbmV0cVR1bzIxWkIwdE94bk9MS0xPTjI1dm9NSlFaaFpfQ1FCVFgzblRhclo4WXFMSjBFZXJDejBtSmhlbDdYa0VkanQwV2dpMng4YU4xQTNYenpGbUtaUFluUlJjNUJ3OUN0STgyUHNHZ0czNjBVZmlVdXhHYjlQLWduSWRsN3VHVnBBZnBlUnY5bm9vcUg2T1EzdjNvQVJoYno1aDNzcmFLQnhhUmZwZm5EaU5WRU5feDgtSTE4amtQYnJWRlJ6YjNwM0hYN0ZfYWZ4S3JDNWhzdXJMb3dOc2hCUmJZWGlhYkJvOEdwbFlORE5rX2NKek96YnVNbE9SNnBRTGg0T3JoNnc?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 19:54:00 GMT",
+        "discovered": "2026-10-15T20:11:57.987088+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الدوري الأوروبي - سيسي \"التاريخي\" يقود ميلان للفوز على سالزبورج.. وليون يهزم بالاس FilGoal",
+        "player": "",
+        "content_hash": "03ee8c8765ce2aa8d9087215b7602a1ecc3109076ee208178866dff158b87549",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 12635,
         "title": "الدوري الأوروبي.. كريستال بالاس يسقط أمام ليون.. وميلان يكتسح سالزبورج برباعية - يلاكورة",
@@ -1362,22 +1394,6 @@
         "summary": "الشرطة العراقي يعلن مدربه الجديد FilGoal",
         "player": "",
         "content_hash": "3ecf75910be789b166f95c2ee97f1c67f7c541b838fe1b9cdce45c6807d99212",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 12457,
-        "title": "تصريح مفاجئ من فيتينيا عن إمكانية عودة كريستيانو لمنتخب البرتغال - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMihgVBVV95cUxQZGtqZHhIUUVpR2o5U25RSXdueGl0S3hjdzZEVGJzakxqalRpT0pkdHNfYkotNnV4WGNUYUtGSm1lc0xiaXJQaVdCWndIVmY4NXRTRzd1VlB1WnROUXpjdmowemRmX0Vpc0l0RUlnRkF1alFIbVFDTTlDY0l6aDY2bjBOSGN6SUJ3ZExTUDNfd18tTVpmUFc0MWgzWkxRTEo5djE0cGJQdDk5NDVRT2loeTNocnRfRmVVNU9MTm5FX0NNc3dTM0Vza3Btb3FIeU9DdW9Vdzk2NzlwU0pwRDFhZFlMWldLV3h4VHUyNkdiU0R0ZE9ZZG5NWDlhNmwzYkNDVlFtSmM5b2R1Qk5rWW5Dcm91SnM2bEFEZkJPdVBjM2hvLWhxOU1razdRWkl6RkhoSUhDVDBNR3pDVGdSZlJaUV9hSk1nOGQyLXFabFhsUk9hTm02NnhFUXdDYi10b094WUUwS1J4M3NodFRzb2Y0bmlVVWdyVS0yRUZrT2VXcFFKYmJ1Zm1TWkI2eTBMYnV0amdUV2hPWVRwTVFaVW50NVZoc09TRmxtMlRxWXNzN1V5TUVINnRFWHhrSzlTc0MwTGk4RDlwLWJwbGpYVlgwWk9UX0tTT1dmUmRxQTE1WUhtNkxPVFU2a2xTSnZZcElCOEZteGxJd1JNRUVITkRQU3FVYXlYM1VzQVA5RVd6VFZOQ1ROTUNGejdMS2piUGJnZ09YLS1aNi1aRGxLR0JqNHgxUTdRaHpwQmVQNTY0N3NvWHBNV3FWTGpLaEJ1S1haMjNTUFY5c0pSeXdXcEtoemVKYTY3bWgtOHpzVzVJN2pHeWJnZ0RVN1ZRWlZxWF9KcG5KTVNR?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Thu, 15 Oct 2026 12:56:49 GMT",
-        "discovered": "2026-10-15T13:10:29.734314+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "تصريح مفاجئ من فيتينيا عن إمكانية عودة كريستيانو لمنتخب البرتغال Kooora",
-        "player": "",
-        "content_hash": "12bf8d28f1351225a5dfe05970fa5dca96bdc5a1d3ea60c068efa7085198bb93",
         "sent": 0,
         "section": "sports"
       }
