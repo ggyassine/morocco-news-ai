@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T08:15:23.704486+00:00",
-  "total": 134,
+  "updated": "2026-10-15T08:53:09.274702+00:00",
+  "total": 132,
   "sections": {
     "morocco": [
       {
@@ -452,22 +452,6 @@
         "section": "morocco"
       },
       {
-        "id": 11893,
-        "title": "دبلوماسية الإمبراطوريات موضوع ندوة بالمعهد الملكي للبحث في تاريخ المغرب - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EU2NtX1VZd0dnWnJoY3J5amQ2bGNhc2c3Yzg5ZUY0R0FSMktGQUZDV20wOEpSOU1GVkl2dVVNWXc5bW0tQnRUc05aS0szR0FkVEZoMENReUhiQ3NfNEFzMWV0Skg4QQ?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Wed, 14 Oct 2026 08:32:42 GMT",
-        "discovered": "2026-10-14T09:10:01.410305+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "دبلوماسية الإمبراطوريات موضوع ندوة بالمعهد الملكي للبحث في تاريخ المغرب Le 360 Arabe",
-        "player": "",
-        "content_hash": "58ae4e7806f0492b5740d99467c3ea7571e399451f6af4301a0cc259c760d825",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 11923,
         "title": "عبد الواحد الشاعر - 2016 election results - Morocco - Hespress",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hUGhpYzNzUlZLUk1hYVB5dG9XOHctemx4NnNhbkhlSzNUcDlvM1BVcnliTWRkTkxWSUtCdkZDOW1xcHdfT19ldnlTbVFDUHlnVDNaNnp3bDBaTkdwMUZsUlhiby1UTXI3a2tmVWR3?oc=5",
@@ -480,22 +464,6 @@
         "summary": "عبد الواحد الشاعر - 2016 election results - Morocco Hespress",
         "player": "شاعر",
         "content_hash": "80cc02e842a7e9a5d61f247e9eb1a2f1c22a8651672c638fab871f6fdbc5655e",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 11894,
-        "title": "توقيف مواطن سويدي في أكادير مبحوث عنه دوليا لتورطه بالاتجار في المخدرات ومحاولة القتل – اليوم 24 - اليوم 24",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Eek1PTFVvQ0NaLUVZT3VlNndubnQ5NzNXTWt3SWhZMFA1aHNsandMdUc0SnZnYzk3WUJQMjJfdXI3SWtnZ3l3T0V3?oc=5",
-        "source": "اليوم24",
-        "trust": "C",
-        "published": "Tue, 13 Oct 2026 23:10:47 GMT",
-        "discovered": "2026-10-14T09:10:02.835663+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "توقيف مواطن سويدي في أكادير مبحوث عنه دوليا لتورطه بالاتجار في المخدرات ومحاولة القتل – اليوم 24 اليوم 24",
-        "player": "",
-        "content_hash": "8d73a1df241e09eea916d29d2cd285f5594479a333199d1e86424df83cdcdbf3",
         "sent": 0,
         "section": "morocco"
       },
@@ -530,25 +498,57 @@
         "content_hash": "296d08613719101bfc113b9c6bb98fa37d1db2e1a8cd4fdbe56cfc1773765c4a",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 11878,
-        "title": "وجدة.. حملة للتبرع بالدم لتعزيز المخزون الجهوي - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQLUZSSWtBSDhUZ1pyR0RKRkVnX0phY1J6UU1JRVNBRDhBYm5WRGRYLXo2MGJCaFhOb0NpbjVSLVBZaHdZT2czV2RRS2RpemJwYTBmTWs2dGUxU1VHTktsSUE0em5jcUlKZzh2RzJDQi1SWVlMOHExR1VIVkJVV2ZjVXJTMGFvQjhEUXdWcVhfVFh4ajFrZ2JyR0c0Q04yZzNncnRKUXV4WGZyQUlVSkUwVDd0dTZoNGNPaTNidzNlU0ZNV0RLTE1RaWFuZVhsSXdKems2WHVQM1lWcHpqLXBIZk5VWk9GT1UwUU9GSTIwWlk3ZnI2X2ozVEpXVVU4M2ZlWHZmbkljVlhrNGpOY1JZZ09iaXVEZVlfQWJSMjFrNkx2VmoxTUFvVTM2enZEMWoyY2ZaMW15VjE1dEQ5dF8ydUJOd29Na2R4Vy1iRjYxMVZ0N09HZ2ZrMTNjdms5c1Zhc1JfNGpIZEpQLU9WY0c3Z2tHS01lcHFuVHZpNjU0cXR5ZXBCeDlCb0ZrNUNFVUZSVm5hM0lKUW9jQmctYmVlTFJmSTdBN0k?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Mon, 12 Oct 2026 15:04:51 GMT",
-        "discovered": "2026-10-14T08:36:06.544096+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "حملة للتبرع بالدم لتعزيز المخزون الجهوي | MapNews",
-        "player": "",
-        "content_hash": "243f602bbb51ea5485d0cdfacc07686fff4face97fa25d756b6809d81454f2a8",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 12395,
+        "title": "بعد ريمونتادا روما.. مباريات ريال مدريد المتبقية في دوري أبطال أوروبا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMisgRBVV95cUxOblBKY085WXJINFg3TTg0ZG5uVE9xRlFGdEJZUVJ0OFpaQkZOZDBUYzRna0Z1T2FYczdaN1BQa2dINmZRNjZrYnlELWJYQ25XWVFGai05VDE5aHprSmtHdTUxb0gxdnZZVmxJZzg3Tm9qUjVQYThaSHlfMGhfR3BhdnY1SjVWVXBwWGdodWtidWJuWUZvbURoclM2b19kVEo1dDZKVUJta1Q4SkczNG5WUEZyRkdMU1Iybkd1cU5nOHh2U2JPYVhqWEdsdVB1T253aXdpaWFiYm1aU2VqanVTSUc5SzdTcm54czZXMDBjdTBMLXd1MmJCbXNnOXN2cnYtcTZlRURKbzZ5Rk1XclBoQ2dKRENkTGxhVTV5ZFFSaU84bXM3TW51WnRYUzdIMWtIaHh3aGotN01Xb3dmZEdvcnFTQVRYcGp5T2h6MlgtWE40OFFyYnZhb0VnaUxXd0puMHNMY0xkZjVyazU0QXlzSHVRcXB5V0F6RWhac3Axc1JTTkRIaTBnMHg3bUdjY3I0NkFvWW41S0dHNmo5SVlsemtHck9KWEdsZ2JGQVBUcm5RSk9YdFNPeFp4VXJnVjF2NWtncEdHeGZKdXNPTWhXVXE4R0ZvT0JFUVk2czdGU19IcTN4Rmg2MEtDNlhvSHlUdXdNdWtodlJmem5TbklGWXU2a3B2ZFdIY2JaQXhhTlpBQzh5U1ppc3ZWWnNHaVdsX2JhMGhoaThtaVlVeG9wMU1B0gG3BEFVX3lxTE9lYkRMVTNLT2NrQjdrcVVMTEVwOU5XSVZIakxwLXlfRDJZaXNYRlNPN3ZWUVpZcFl6UXQ3VzI2Qm9DUTBKSTlGc0VseWJDSkpDU2tEaFBkWFJzODNUdVBwTGplNmxiUXlaZUZmd3pqOEZzSkpYTW1IU1pad3JiWDB4OHZNeGJoMDZWSldZc0J4YUx6VGI5N196OUxpREpEcDVqVHpQSXg3a0VqSGpQLU1LWGQ0cmN0dk1iRG5UbnBDOElKaFhfS19SV0p4eGRtWUM5MTFnY0VabklMeGU5MzU4X0Zmb3M2NjNKLVlMMFp2T0tMampPZFhfVzFnWHBScGdBakZnR2lMSUEydmxLSEFlVjgyZ0l3LVl6dVM5SkxTbDhjY0ppbDdyMW1wcl9fZ205QkdfeUhOaVRqTERpYk5vMjJncG5HRHp1VlVBZEhuQXR0dmdFVDEwTXI1clE5TjFaalc1ZDY1ZC0td2p4cTlGTi1rQUE1UnQ2b3lvc0dFVk93d2otT2gwXzcxNnhqemJ3N1N5MHpCRFBtN29HUk84VDI4S2tIVFNJcW16Wk5nbVZjejdDQktaR1l2MmlrX0FHeDcyUDMtMVpFQldUdVFvQks0djZ6Vy1oRXM4TkVGQnVvQkpibG96WXJMUXF4dXJZWXpySE9BM3MwLUIzTnhhSGx6SUprMXJRLU1qX295X1U1SmVIMGFldlN2RUVLc05ycHlkZEUtLUdOTF9Vdmx1eUk0aGFJOA?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 08:40:00 GMT",
+        "discovered": "2026-10-15T08:52:54.334922+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بعد ريمونتادا روما.. مباريات ريال مدريد المتبقية في دوري أبطال أوروبا يلاكورة",
+        "player": "",
+        "content_hash": "cde1b5dd675abdec73839f44e3a011af03e34575fe0064e426e364d6fc45726b",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 12396,
+        "title": "بعد إيقافه 4 مباريات.. فينيسيوس يكسر صمته ويهاجم التحكيم الإسباني - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxNcWtXaFVGcm9Ia2J5NGxpZkZIQVR3SDRWc0xMQ0lTM19paWNTbU5PZ3pFRFdULTZuNDM0VTZ2NTJtTFdiVTFob2pDcFFudDFLM3l4cU9VX0FxeHMzRW5DTjZDcU1kb3ZIcUgxUy1tXzJDUlRXWHVRY01zanFnbkJZZmdIeDQyYjR2YXp3Y05RVUw4b0Y5VUh4c0kxU0N0QjMxei1Nb3BIamhqN1VGTy1iZDRCNHAyeVdmLWtxWEZ0T3ZaZGQtUjU2S2poUXcyb3RpY3lRMFpLTjAxNTFxSWV1Qk1YNWNfV1VTZDdxWFlIM1FseVJpcUEtQnE1QjVBMFhaTml2ek1YRHB4RUVsdjVuSV9MdHNFbWdTMXQyNkRCa0NKMDhuLTEtc1A0MENWeHFuRUlyQjFybTdXRm1lRWVqSl9QOFA4QzNCaDVNWktsYnBSRmM5ME1PY1d5Ylp2Z1I3MHltWWhycThQMzAzdVFTVEFldk1XVWs1N2dmVDBaSXRjY0MxMXdEVVlJSEZtLVlMUE1aUXY3QWF6eHJ1RXJvazJCNWxjNW9HWnBnSmc1dmY4Y2stcDB5dTlCbFFzNHYyNUFGb3J6WmxQQjB4bzlUT3pzVC1VcTRxR0FQLThfeXZkUGlpTzZVb1U0bnVyZjNRTnhHUERqeHNpdmljaUVNQVg1VkhGa1drRDV3ZE14RE9fcUtaSHfSAZsEQVVfeXFMTWlGZXA3N21JZVBscEw5Umh0VFpWcHkyVnpORUpoVnl2VWJPN0N2Z1l3YllZbnBEaE1EQl8xazhOWlYxd0E3bGp4TGFSMlNzWGpFRzlFM2pKZm95aUVTeEp5VWFYTEFXWmh5bDdhUjJQXzRiQUZWTHFSbDFYU29zZG52ejJ5VVZpNXlnU2xZUnFUaEY1Z1JTdW5RVnVwdW1QbE9Wb0Fybzhtd0lFTGFaX0pqeUpSLVVpWWpvblkyQm1keFpSYnQyc2tWdGNwMDZNeU9aZUNXaUZZVHU3bVlWdVVDUkxyTThURWprZUxBNmFiT3VRZVlScjUxaWZ0QkV3REZzVlNocWltTjhsMlRRVVdpSG5zY1JBT3ZhYWFaOUlQcExfdkRpTW5iUDdDSEt5cW1qdEl2aGdwSE50ZWx2WlUxTDNZMnpIbGZOQ0xtVnBJZGdwejZrWS1SQWxraENReGtIV1pGYUJhQ01HRVBjeVZ2MzlCVDZVWVFhMFJ5QlBubDZLOFdVZXRWQm5ybUpZbmIyNDE2amtDUUl5TU93YlhKZHhoU3RaRENkTXZfVGZhN0dfWHhrUS1ZSFVhVXVhWFRKbGNvU2Nfd18ycE1OMUJKdGFfWUtjN0YwMkVkRWszNWNfZHo4MFVndktxZVlpSWdlYVdfUmw1T29GX0piT0QwUklIa2lidFNzMVhwb20zb3RQTi1ZOGprUFU?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 08:31:00 GMT",
+        "discovered": "2026-10-15T08:52:54.338770+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بعد إيقافه 4 مباريات.. فينيسيوس يكسر صمته ويهاجم التحكيم الإسباني يلاكورة",
+        "player": "",
+        "content_hash": "f1be214b9f2e31f44047cc7ed44594519579dba426a4ceff6d4661d7a67dd930",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 12377,
+        "title": "أسطورة المغرب: دوناروما قدّم مباراة كارثية أمام سان جيرمان - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxOM3R1VUZmekdoZUZqY0t2NWp2NHVvVW1OVEpWWUc3eUhKbC15Mnd2b3ljNmlhcW1RTUJYQTI1SkhEQlhJWGp4RU5XTHZIaWdtM0NvcTV3WGZIYUU4Rk9mSm5QT2tkMTJOcm4wa3ZCcEJ1RnRZMWlCVTN5eFplcVF4X0JMZlBmczJOUW1zSzFxSGtULVFKbFBNYkFpcFl3anNJSnA0Rl9YQWt1UGZNNzNzeDcyNGp6Vnp6U245WmVhWjFFQTc4c04zMTBzVWFmMmV1U3dUdUZHTGNiY3piX3B4ZW4wb1VLcUt4d2lNbnB1MURpa3N4RWI5aktqZ2UxYldsMkJ1bm5FUWV5MFJVSE1xQTNKZ25lVjlYMHk4TERJeUlfTlJXUDE1dGhPcHpRYVQtem94aWZubW9wT1pQWXVsaGFxUGpkbnBBSjREajZMODRDdzY3YjVWckFpcWFZMTlPVWl6Ym5waVhBMjBRZUM5LU42V2g0dmprb3pGSHBLT0F1UmVoUy0tT2p0eWNtSXZNR0s5b090cm9PcHdXNEI1NzZibW81VTV1QUJNVEkwZjlJc3JnTDA3M0NjYmwtQTBuUXlxZ2lEVk5keERiRmVDeFc3aXRkbHozcGtsTDNyMnQ3UDh1aGg2NDRVTE16Qmt4QkFqZWJLZ1JaclliWkUydF9OajQ4TWJnVVlwQnhWRl9VZHJIR3IzM1N4RG00V3dpakJUOVBheGpVOGlpalE5NzNPTGMyRUZHZkVLM3dMZTRZeDMtZUdqamQxTmgyeTFtQzI5QQ?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 08:27:31 GMT",
+        "discovered": "2026-10-15T08:52:49.575959+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أسطورة المغرب: دوناروما قدّم مباراة كارثية أمام سان جيرمان Kooora",
+        "player": "",
+        "content_hash": "50cd50794dfd24aebf75a67123659b5f6937a32bb7007b60615fda6c69667664",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 12371,
         "title": "كرة القدم الهجومية في أبهى صورها.. كيف دخلت الجولة الثانية تاريخ دوري الأبطال؟ - Kooora",
@@ -1300,54 +1300,6 @@
         "content_hash": "9f652186bedde743faf9205734f21e25447959264adc4bbb4fc0cde59d1dbd93",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 12266,
-        "title": "ريمونتادا مُثيرة للريال.. وهذه نتائج المباريات المتبقية بتشامبيونزليغ - CNN Arabic",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcVY4UEpTRDlNTkxQSldKZ1lWRjJ4ZEE2V0R5dTNsamVVU2F2TkF5RDh0ZGwxTVdXaV9pallLZC0tSlljSmRFUXJ2bVRTVUFqX19kN3kyVlhWbFlhVHZyb01rNXVDQU1WZmpCV1k5STMyaVZZeDBta2ZmZ0hHcFZidlJ5a1IxTVlXTkRCbkdoVXk?oc=5",
-        "source": "CNN بالعربية",
-        "trust": "C",
-        "published": "Wed, 14 Oct 2026 21:13:08 GMT",
-        "discovered": "2026-10-15T01:52:53.245890+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ريمونتادا مُثيرة للريال.. وهذه نتائج المباريات المتبقية بتشامبيونزليغ CNN Arabic",
-        "player": "",
-        "content_hash": "bc7b89db57cb873a2b830525156240d717a5bf0f87b6d3d6e62d28c15dbdf5ba",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 12197,
-        "title": "الركنيات سر الريمونتادا.. ريال مدريد يقلب الطاولة على روما في دوري أبطال أوروبا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi9ARBVV95cUxNSWVoZzh5Sk5yZ0VHTElQcHJnaFo3dlF2U0VWZXc0Y2V6Sk1GVlIxUjV1TERYdzlXajVodm1nTEtHeEJzMWhoa1Rtakw5VnRxMXU4Z0dJY2FBaFkteTZubkZFZ2VFZUFocVR3c0pkeVl6U3NvRU9Gak0tUXY3TW5sQk8yYmVsRC1jWUFOd2FPeGVIZGlKV0M1Qmg2Zkl6eklwM216c1VYTklBVzZsajlXcjZSWkFGTlcxQnU5QWNkNnA4LXFEUnhEX19POXlIcl95ZkpqZEtuQUc2QnhQQmwwNWMxNGNEdmY0S0V5eDRUWnZ6S0I2OXAtU29uajBkdTQtZmtGWlhVdDZqUGMxN1d3a1VuTlBlb1VIQ3Q1czBhbnRZR2pMQ2tYdjVaSEZjckdQQmlfdzNBSUZFSnI3M2VvTzhFVEN0NUhtSHE2SWFzRDVqLUhEeHUwSHZuQlBjcmw1cTFCSGlseGx3Smg2M1BzNUhjaThMZW9FNHZEbzZXbWh1TGhIZXBTUnpXUGJLMFFOSUhiXzVOZGF1eDNwOHlxVG8zZUxndkROR1ExRFRXVkxGN2hxd3ktWFdyQVEtRE1rNWVPdGo1bTBocE5tcnlRNnFMSDREQk1zT0I5T204Q2JrQUd3MzBITVc3dEJvM29ZOXlRazg3SnBzb1BYeFZHNHZkdzM0X0k4dkdpbGI4d25MQ2g5MXcxUVcxTFByMUJ6eVY0bDNiVFJyVVVHOGFUQTI1N2s3bU5TM0NBb3BxS3A3WVBOSmVXZ3dHbTFRUGk3Y19SaFZMLTVRcFE5QzAta194NWdsbUh6X29KSmJmdDBYaEFm0gH6BEFVX3lxTFBiSnBpUGdfbDFMYmxEMTlnaWpzbmo0OFpiTFlmVkRaY294TVJicU5LVmgyeVBkeEhBendsa2MxNDU1MzlOTTFya1JCX1diMXBwSWpaa1E1RE00YWZHYlRkREJ3VXNGdG5CZ1dyYnYtdzY0Yzl3SzJBX0RvR1ozR3JMbXhKRERudzM1UVBDTVZlUXhVZFFqaHZ0MmR6cWtfcnFycGdGZG5JT1dHWnNGT0NVeU5LXzNhTGItTUkxZnFJQTVMT3VqOVVGTWpzbTZjakh0a2pZVTJqMldGZUYySmNPMWpNalZrQldDUW85OHZyOTNHenBfdGQ4TnJEWkt3dVMxUm4wQkN3RGxUZGl6d3dmTzM1ZExzQkRCZUExRXdpb3Z4aWQ1cmExaXNKVnhvencyYnp4ZUdFS216WkRfYy0yS2JZWC1aRnUweDgyVTRKb2N6aEgxazFzUEZPMTZLdHdNTm1PdlBoNTZpc3ZIQzBfTjdyak00cl9XRF9uTXR4RmdmVng1OFdxT1JISWd4YnJjT0ZVaFBJMUdFN1hVcGNSZkNqbjhYZy1aN242QThxejZSelNCbzJ1RW5HeFBTWFhmVUlfelNlM3Jiak5WY0ZITVJTcXJvY3VQRFhNd2dGWGp2WXNaeExocGZGM2Y2ZTNoOXRpRFhRUEFPeThLOW1wS20tVUhiN0kyYXJTSHZYbGpyY3k0bjlONnFNZkRCbkxWcl9lNHlNcmdqZVc0MXhGRHJpNU1JUldReHZmMGJuYkZJSU9uV3hfWGJZMjFRc1hZV0tZUWNmcXlkNzNPT3pKMUlhMUFnSnlfRzFaeWpFNkdINzEwRlVXcGc?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Wed, 14 Oct 2026 21:08:00 GMT",
-        "discovered": "2026-10-14T21:37:27.597158+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "الركنيات سر الريمونتادا.. ريال مدريد يقلب الطاولة على روما في دوري أبطال أوروبا يلاكورة",
-        "player": "",
-        "content_hash": "6516c0dbe6fcb546a4fd083c586dca4c636b4f77e6704809554811717fb200ae",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 12223,
-        "title": "«الشرق الأوسط» تشهد الظهور الأول لعبد الحميد في «أبطال أوروبا» - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxQSVVKd0hvdUlqWWwwd2hsVm1vUFh2NW1VNXRId2d2NXpyaGsxcURjbGRPVUh1dFJqeUFjLVpHcXJabnFPZktPOVI5cHN6NEQzcVByNTZ3T2VsVFJOd3c0TklDOFpOT05kMVFkeDk0N19USm9Nb1g2NmlNY1hmWm90ekl4RDYzeUo2SnlBNGo2Vy04VGpERUlEeGM2QWQ4RmtvcU41QU9FRGFVMWxzUjZRR2NNZlhNVmJEalFoNzl6NklnNVpNTHBnRDVmNG1EdXJ2SzdIbEc2bTVoMDhiVzVpOWRzMEZ2VDU3eVRrTklLNHRkSXk5dkFKSHpwTTEtQmhMSS1WOXFRNDFYQUh0aUhKVVVmNmtLXzdmN29ocWFBcl9pWVN4a2JveUVONjNTenlDajR2NjZHa1Q3S3Zsd0NtaHRlNksyUmRWZHU0cXFqVGNwa2pqUzBnUFVBXzM0cHo2dnlZVnliQU9QZy1zNmNVRUdfdEJLOWRXRy1mNlBYUGNEamZlMF9PM0hGZ2hnY1oyZERKNFZZYm16ZmJDTFV2SzlvVzg2LVVrWFRLN2JBRVNVWTV6QzkxZHdPYUF5dkZPVHZ6eEtpVkRWSkR5clRybHk5a0k1ZnR3V1dFczJ4c1FieU5rOXFiLUNxOEJpdS0ydl9vWlFxdWpCWWZmd0VsdHJSUWhPMERkU1lsRFpLX1VPeFRxVnlwaGxKZWhSbXFFbC14YjNXSXVHV2xEck5XMEREOUFKZDZoUklfRVlDbDlrb2VUaUF2dzlZdGVveTVfRzBtLVA3dGFOcFRPV0dfdU5oQ2dFSTZN?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Wed, 14 Oct 2026 21:07:36 GMT",
-        "discovered": "2026-10-14T23:00:58.127833+00:00",
-        "category": "أخبار",
-        "status": "غير واضح",
-        "summary": "«الشرق الأوسط» تشهد الظهور الأول لعبد الحميد في «أبطال أوروبا» الشرق الأوسط",
-        "player": "عبد الحميد",
-        "content_hash": "2a64250d74e52e47f490b09f4269cf8254ca586452398a9dcd11f9e20d26909e",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1868,6 +1820,22 @@
     ],
     "world_arabic": [
       {
+        "id": 12398,
+        "title": "نتنياهو يخشى صواريخ إيران قبل الانتخابات.. رسالة إسرائيلية إلى واشنطن لتأجيل الحرب - Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUGU5QkNGdlBuZzJJbmpfdXhtdURCVHhvaHVKbEdyOWFlZ3Y3Nmo1blg2SjJnRmFaZ3hVOWk1VTF1LWI1akpSZHhsLV9MZXNSMXBjOWx6ZFBzLVIxZGU2RFNJMUVxWGlZUzFRVV9KZUJ1WmlGS3l0RWVCUUZBUXZ5YXV5LVdWRDBqNDl6d2I3bHZSZ0Q3U0lra3k2clQxMURzVTZRNExobjg0aWdF?oc=5",
+        "source": "يورونيوز عربي",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 07:48:25 GMT",
+        "discovered": "2026-10-15T08:53:06.748237+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "نتنياهو يخشى صواريخ إيران قبل الانتخابات.. رسالة إسرائيلية إلى واشنطن لتأجيل الحرب Euronews.com",
+        "player": "",
+        "content_hash": "52fb7a57f2a252129cb879456e6785cfc7cd5f17d402c1998008e28e5e7afd72",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
         "id": 12280,
         "title": "رئيسة صندوق النقد الدولي تشكك في قدرة خطة وزير الخزانة الأمريكي على حل أزمة الديون - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNMi1iWm9ZeGU4WS1POW1vYTZvVXRuQXFaTVBNc2pNZzRqRlZRWWJ1b3lZdmxmOG4wbE1mS0MtTzZSbG5qamdxZlgxRDlqejRNM2xkQlFhRF9UM0NjUkxqd3hudVVXUmEtSGpMM2NNQU9mZjdkMEV0YkE1TDRhNFdwXzRuemRfTGxYSVlhRVRwa2pTa2NmRVpiZ2JZWVY0SHlVVV9Fc0pONFhoaUFNcHBRY2lhSjJDemYwc2tfVEJtR0xPNDJnZmhTMXBlaUctNzI4cXNrSk5obEZwVGhUN0RSSkM4eWItM1Z0SUVnVjdHalRnUkZ5WHNpUmNGQTJmdnBMUkRBZVE2YWlCVnVBaU5TUFYtdnZ5QkV4N0JSVlc5SEtsWDgzcWZzWmRnUEZURjV0SGRJTG1jNW1XekRKb2lNbDh1aG01YXA5?oc=5",
@@ -2060,22 +2028,6 @@
         "section": "world_arabic"
       },
       {
-        "id": 11892,
-        "title": "بعد أسابيع من محاولة انقلابية فاشلة في نيامي... وزير دفاع النيجر في الجزائر لتعزيز التعاون العسكري بين البلدين - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNLTRYU29adS04Uk1uSDF5VF96WUZCdUhTaVF5SGFoM2o0RFE3OHRyVmRWWk5rSlJoR185Rl9TS3QtTm1ZWTE5Vm45NnpOUTNuZmFnUTNJUlpZdWItQUM2NVNrVE5SeldDa0JLTXItUU44b3lIY2pGMzRfUDBDQXBCRy1LcWhVUk5CTm1LU21hQlpCT28yQTY3eTlETWtzNUFpTU9zS3dGbXAxZUI5ZTRMWmFsYVlzZDE5dEM5Q2JaZ0VIaG5VcVg0YVhleXljeHVkVGRQWjN5TC1hUnc3LUthdVRENlllZGxFVjdCT0FYbDNBNmY2UVVhbmZEd3F4VktFdm1DaVBsczdfczE0U1FMNDZUZUx5UDc3Vld5QmVYRkFOUlVpRjBXQVQ3MUdRR0ROWWZ2eE11NlB0NXY4OW5DSWMwenB2VEU?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Wed, 14 Oct 2026 08:12:40 GMT",
-        "discovered": "2026-10-14T08:36:33.833376+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "بعد أسابيع من محاولة انقلابية فاشلة في نيامي... وزير دفاع النيجر في الجزائر لتعزيز التعاون العسكري بين البلدين القدس العربي",
-        "player": "",
-        "content_hash": "7a899f6fbd26444ffc91a4cdef83403ed4b8cb67720c2718dcc53e3e7ac838ea",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
         "id": 12286,
         "title": "الحوثيون يعلنون استهداف مطار الرياض مجددا بصاروخ بالستي - France 24",
         "url": "https://news.google.com/rss/articles/CBMi0wRBVV95cUxOOVJvY1RUak43YWxuRmhTSG52ajN4RlpEcHJBc3VLLWhfV0pnT18yYzU0UG9WWEtQbE9aVkFVTzRBajBCS3BHeXNVdDFwNUppY2hJQzdub2hTNmZBNHNOTzh0dzJLMk41Y3lRUm1EUFRxSGVLZmtnMS1GeWQwb1RsTGJ1Z1hhb0NUNkd0ejJkZXdpZ2VMMVBla1M1QWtjY2dXQjVvYzZ5UkRLeDVid0hZQS1TeUdleEtyTzNaamg2VC13c2VsQS05STJjQkZ6YlQwNjBIWmt6OEpNWThfdnlxN3FXN1dKcE1sVGRCaVcyWkpJTVRlcDZXdjYzdE5PcW1BNlVpV1hGclgzelhGNDVwdG9MQXJwdzNvSUJENGFaQ2hyYjU1MEtVTklIell2VTRCX3V6aXk4c2VNQWN0dzhiUnk1MkllMDJ3TzFyNy0xZlJRMjJoUUc1U1ZvOFgyQ2lpWWlLS3BPRUV5RWtCRzBKRzR6b3BiU080UzI0aFBFMnEwbDEyNS1NdGZteHdaWEk4Zl9ZZXdlbzZLd09wcGlodUphb05JUFhoRnl2d2hWTWRQdXg3a3RSUHl0OVo1RkZscW1BVFFRZUo1dWFmaUVfSWhHUmQ5U1hUSEtrYTRvV1ZBZVg1RGNiSlpkbUNsdEIyaGZyMjVQTDNGWmthQ29iZUVnTFprM05JSWNnbVE2Zk9FdHBrdjhFYU1GVjdrQzNrWUFwLVJ2S0txVmRUM2wtUVZBdmVQdE16Y1k3VzYzbUQyQ1dNZ1FwTFp3YUlLMlh1ZDNN?oc=5",
@@ -2115,6 +2067,22 @@
         "trust": "B",
         "published": "Tue, 13 Oct 2026 17:28:47 GMT",
         "discovered": "2026-10-14T17:57:54.127557+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "هل يُهدد \"الإيدز\" الأسماك في دجلة؟ … تصريح لوزيرة البيئة يثير مخاوف العراقيين BBC",
+        "player": "",
+        "content_hash": "a350038e3bd33e6dde4791b93da43f82b0c526019d327630bbcbb01b12c3f1dd",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 12397,
+        "title": "هل يُهدد \"الإيدز\" الأسماك في دجلة؟ … تصريح لوزيرة البيئة يثير مخاوف العراقيين - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zb3FSTFI2SmFiQXk2UkowdWlSRE9wQ3V6M29kWDRiRGFpRmZIUVd0ekNqZlpOTVlKeHJHZF9GUlg4WWlUOGRUZUp3OTNGYk5rcG5DTGNQcjhEWXpwcXfSAWNBVV95cUxOUDRuWElsUUtZa3BGSEZuMFdxc1p1d3huc0k2MmdyNjFfS1JEVFFMUTB5WlVJNmZSVFE4bEhKdTlrbWgwZDBzVWIyM3FDeE5GWmRqRzA0dnZQcEs2TXliT3g5ckk?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Tue, 13 Oct 2026 17:18:37 GMT",
+        "discovered": "2026-10-15T08:53:06.194082+00:00",
         "category": "العالم",
         "status": "غير واضح",
         "summary": "هل يُهدد \"الإيدز\" الأسماك في دجلة؟ … تصريح لوزيرة البيئة يثير مخاوف العراقيين BBC",
