@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T14:21:54.493931+00:00",
-  "total": 126,
+  "updated": "2026-10-15T14:56:13.338767+00:00",
+  "total": 129,
   "sections": {
     "morocco": [
       {
@@ -20,6 +20,22 @@
         "section": "morocco"
       },
       {
+        "id": 12532,
+        "title": "مفوضية الاتحاد رفضات الزج بها فحادثة دخول سفن مغربية للمياه الإقليمية الإسبانية والاتحاد الأوروبي أكد الشراكة الاستراتيجية مع بلادنا - كود",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNV1FqVTd0V09vSEJxQkdadXZoMS1zVEVLOGIyWko5bmtQSGdSd1pSYjVqQ2kxWGFNRVNKbVg5amtabmNnVTVadkpkTTcwX09nSEdrZVRZdXgtbGtyejNUMmw2VXdsMjgwWEtBRWRnUEo1Nk5tRW1IVGtUU3kxazJtQ29KMUpCenNpQW1vcE5sdkpVcmNsNGVKMF9qbGZCMGxDUDM2YkF5d05oOVdBSDRmRUd1a2ZlellwcFIxS2x6d2xpY1Q5ckpkMS00RGJ1NGNSWU9OZU00ckZvX1FTQUpnRkR1TDRiVUJVMUs2dzIyY0lvTV82LWRaRnl1T3hsOXZpOHc1Z0hWT0o4MjJzZXR6bDE4NzNFclBzaldyVXBTeUlPWF9rTmlLSjdlTHVqWHd4enQtRnBoOWVOYV9zYk00emk2bERYQUlCRXhj?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 12:05:36 GMT",
+        "discovered": "2026-10-15T14:55:42.240170+00:00",
+        "category": "أخبار المغرب",
+        "status": "مؤكد",
+        "summary": "مفوضية الاتحاد رفضات الزج بها فحادثة دخول سفن مغربية للمياه الإقليمية الإسبانية والاتحاد الأوروبي أكد الشراكة الاستراتيجية مع بلادنا كود",
+        "player": "",
+        "content_hash": "21531594c83d8e3fec0b8cf42da344adc189a21e909c4b0b1b510d2e705dfb24",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
         "id": 12484,
         "title": "الاتحاد الأوروبي يثمن تعاون المغرب في ملف الهجرة ويشدد على الشراكة الاستراتيجية - برلمان.كوم",
         "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPRGpYRW42WWtTMnR5M0JuRDZUdGRRODhwblVpNUlKRnV0VjZmYUJRMF9MT0JWbTJ6ZFZ1SHdwd3B0TnMwX0luYmcteW1Tamg5bFVDQnNzYVFldEwyUGdma2pyUnVWaEhHb3VtTjlOYWNCUWZocFQwSmp3c0h2RXBRMVlTWUNOeGJ0eFNoWHRfZDM5TkJ4WkNtaEs3NEhQNWRIOURTbmdFcWY5cVZ1Z0ZQcG1KbFRLU2QwU0hZdzgzdGxwWFF3OV9aVHZtbGFyaEszeS1DX1lhOGN3Nnh0SVIyM1JhX1BmeDYzdXllZkJvT3FMMjVtOVRKcWhjLUFlQ3FqOGIwZjJPYjhhekloWU1VOEExMUs3WnFyNm9VdFVMYm9xT1o0ZWtxZFpMbUQ3UEw3VGdJYzJNZHprNFAxN0pCVmdB?oc=5",
@@ -32,6 +48,22 @@
         "summary": "الاتحاد الأوروبي يثمن تعاون المغرب في ملف الهجرة ويشدد على الشراكة الاستراتيجية برلمان.كوم",
         "player": "",
         "content_hash": "bfd3e0a0cb9577c03b3aaaffcc9b2c74726363039c12b3f9cd3cdfb41cded866",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 12531,
+        "title": "قفزة قياسية لأسعار الدجاج بالمغرب ومهني يكشف سبب الأزمة - Le 360 Arabe",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aV3VRU29DbmF1SGh5NDBVcmo5T1EtOFdZNVNKR19mc0M2ZXV0VF9jSnR5a2RiX0FqdTYxcmlWZ0pENzd1Vm5zOWJnYnQ5X3l1a1lUMzNrcldVT2IwTDNYNXhQT1dOWFU?oc=5",
+        "source": "Le360 عربي",
+        "trust": "B",
+        "published": "Thu, 15 Oct 2026 11:14:27 GMT",
+        "discovered": "2026-10-15T14:55:37.777342+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "قفزة قياسية لأسعار الدجاج بالمغرب ومهني يكشف سبب الأزمة Le 360 Arabe",
+        "player": "",
+        "content_hash": "d7c19d4b6d27b64ed96cde2d3441f2823da42162205e37308f3ce1ab39ae0cb5",
         "sent": 0,
         "section": "morocco"
       },
@@ -454,6 +486,54 @@
     ],
     "sports": [
       {
+        "id": 12535,
+        "title": "أكثر 10 لاعبين صناعة للفرصة بدوري أبطال أوروبا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQZEh1eERnZlF6R0Y2dndodTZhV0JKZmV0YU90LTdsaGlLaGNKTVhYNk9kdUc0ZERianpOakFZYXV5QXV5Z2FnMUpveFhjeE1RNlNmMEpmWUp1Yk4xc0pLR01IeHBTdHpDQzh6MGVabDFXVk1mSnNlN1dFT1JZYUJpMWx1N25SdnU2TGQ2U2VaUlFGWFNkM3VCUkJIelRrY1gtX291Y1NDLVZyQlpwOW1YRVdQenRFdEk5ZTAyeXIyb2ZBbTJZV2JocG5ENGRkMm1zQU4yV0xpWUdUeVdhckFnVWZjV2dzUG9OV3ljN0U3LTZ2bU5qY2JsT0NUWnJ2QzZOX2JmeEhWdlBNcTB0UVBDd1ctbmxfMlB4RFBSckJrWGpYUE5sLTVxSjlDZzJpY0dNOHFJa3puZmwxaWo4NG0wbnNyM0V5VXU5cnVIUUZZX1lZR3lkN2hXQzY5czdKelRIYnBFWEJqWE5nS0tGaGE4dV9jOFNZMmM2bEFKbEs3M3ZEOHAtYkw3R2pueXR4dFNRVHA0?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 14:52:00 GMT",
+        "discovered": "2026-10-15T14:55:51.456404+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أكثر 10 لاعبين صناعة للفرصة بدوري أبطال أوروبا يلاكورة",
+        "player": "",
+        "content_hash": "1ac7f740f1e7f90734ab45e969bdd0dae2cfdc346e57748b011c54852b2d75f3",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 12534,
+        "title": "الكشف عن موعد عودة وسام أبو علي للملاعب.. وموقفه من كأس آسيا - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxOSC1jaDk1U0lJTHlZMk94NHNrMVlTSi1sWmwyY3c4c255RF9reGVmWUk0ejU4NkltaERVQmpMdE1ud3N5Njg3MGhnYjZobkpGZTY5V2xqMnJPT1dRSVNwZ2h4T2l1UVR4QjdpZjIzSjhBZG1TMXZ5U3dxSjhjblphTHZzMHFtS1lIWmdvcnBVd2hhaUN0N0dGRl96eEdKMTBRME1tbGRoMS1kWXloZmVVdkFBSFQxWnBxWjYxcllkbTJEODhlVXJuZG9ZZ1VDdmYza0NPbUltemlCWmU0UEFleHRQc1kxMGg1QjBsQVk3WEF0anVmMk5KWnVocTlfWDd0Vlhhc1owYVROZF95RmpEZ09xVnQydDZZOEdQOFNqTmxjcHB6d0g0dmlVR3NIcDNhN25mOVhqNUp2alo5d1k0MEllUXN1ZGEwcUpYbFVReDNtRlBfc3FCSkFTQk1FeWxtU1RpdlIzN05XNmJwSy1Lel9ZZmdlWl9GZEdlNlJwQnlvYjVzQVRHbkV5S2V1NHRkSUlLdXlBMFVEdVVuNkNpQzJvX3l2dkNMb1dGNXJXNEp3LUpiVlZ4MVhNX3dpSDZBWlo5Y1JPd2xkU2FSN0REWThVVTdDblI4OUVSa29DTjRTdnllNFpSakhtTFlpU2ZQZWg2V2FneUd6b1dfSEHSAYMEQVVfeXFMUEZMdWZDZmNOTDVkY25QYk9vdmgwVC11cWFiMWJyOXBCLUtUOFNfSk5YeE9KS19PUmdlNjU1a1hEREdhZXpYcUg1cnFDQzJXZ1p2VU0wS19oOG5xZHBqajJqZktJYmR2eXhjekVFRk1CXzJzVjdfWm15alluM2JCZXVqOVdVQjhXal9Vc1hKY2E5YkNjVEJhOVEzVWtyaHZ1bkZmMFVtYVI3ekNyc2hVLTkzZFZpaWQ2Q256TWVYNjhlMVBJeWEwZFFwS0oxcEhjQkhKRnlyZUxtN2FDUHVwamc0Tkp2ZmJGa25SNG4zdUtaVzFvQURpd09TZHdSN0NSOTlRc19jTzJuLUhIR2t6aU56YWlYZTNYekJLQWVXYXlsdEp0MnF4VmNaYnFGSkJVbVMxTzZBVGdhTzFjRTRVdFlaSm9SeXBYY25Hdi1FbGFIS3JhSERubWdfanBRX1RlZWtUUkkyR2xIZTBDNEtJWHBHbXBOdUlmeGtVM19Yc3RJdktPMzY1Z1BaSGgzSmxTYXV6TlRlNU5uMUdtNkJ6RDN1a3lqZUJBQXJIdjEyRG5DV3BGcXBVOFRXeE1BWlJpeFNubURpeHZPcmJHMElmdThGcy0zbGs0OHNrUlpJZmZGclp3c2s3enc4TXZUMkdHSUFYZDFiUkdGb0tMa252V1hLUEU?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 14:38:00 GMT",
+        "discovered": "2026-10-15T14:55:51.441863+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "الكشف عن موعد عودة وسام أبو علي للملاعب.. وموقفه من كأس آسيا يلاكورة",
+        "player": "",
+        "content_hash": "e8ecf2d894008d4c9bd1c735249a1f3e8a018eb65f4ad1ba4f1239a3e0b641aa",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 12533,
+        "title": "بالفيديو.. ياسر القحطاني: \"الفار\" كان سيسجن 3 لاعبين عراقيين في نهائي كأس آسيا 2007 - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMixAVBVV95cUxNX2Z0TWtRdThwWHRWTl9sTXJPLXpYYS0xWUNJWm9yaXgzLVQyOC1lR2NZRVNVT2tnX3M0MFJhWXp1V05CNjhaMVprSFU5enlkc0RvOVQwZTYyZkxBSDlhT3hqRHpMS0V3N1REem4tTXNoeWlSUFJZLXZMY2pGd2RFTGpvTENfUjFVNjNMMGxweHd0WGNINnB6ak9aMmFjZTFnTnJUQkJXeXBlbGN5S1paMUlCb1J2WWFwUG5WdGdfeXBGd044V3cycFhxa0piZXpVVTB4TWFTdzVtZGFwd1dCejJSR25Hb01GWEVxUTlkTDFYQ2FPUXVncU1aYjVRWEFJc0NOOHgwaDFERHF5Wm0wanBvbXpVQTBxQ3l3WmhWSllubjhuVjVNOUJDZU41dEZBdWlPTG5uWFRxcjdhT0FFOXJNVWZybGhmWW04Si1wNkotTVRvX0htZFd2T2hSRXRoWWQzOEZfbVBabXhrMTVsYVpmel9OQi1UMlJxN2l1R1NMS2ZQOURvTXM2Nk5YTFBsWmFTWmtKUEhvcmpvWURQUTJVUFJFNG5KOHcyMVBfcHdYaFVacWFZcjFqOENPczlQNEk4RVJqanpCbHhEV1BRNTJMSUplLWEyTnpMN1dibms5QXVLTllGZjlQWV9EUHNqSExSVmM4a0pGSlNMRDM3VFJtRENaSGpBQnVsZFVJZFd6UEhxbkdiV1ZiNEQzV3RSQmlOdE0xdmpJa2tQNGR5dWNJWWprNmtNbV9ySkhrOXh1U3ZYWDFGeExjMlpZQS1PUGVLR1p6S2NucVphOXpwMnNRbm5Tc3NNLVpOOEctZlp4UVpJVXl0WkpzcnJHaGxnOVN2M2pnZGhhOXB1VnZlcHpZWXJNdng2R0R1UXZxd18wZW5aOE1EV3RUOU1rNkhscTNhQ2xyeTNzb3pCU3pENkxndkU?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 14:33:10 GMT",
+        "discovered": "2026-10-15T14:55:45.493205+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "بالفيديو.. ياسر القحطاني: \"الفار\" كان سيسجن 3 لاعبين عراقيين في نهائي كأس آسيا 2007 Kooora",
+        "player": "",
+        "content_hash": "3b50fdf67c369001535b63ee017bf0cfc99bd9c741653019382bcef1c970e63f",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 12526,
         "title": "مواعيد ونتائج مباريات الدوري الإسباني 2026/2027 - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTmtUck1vUWVsNlgwQlQyVEdaOUxrQXF6b2J0OEQ0bXVQeXdpaDgtbHQ1T3QyaFM5X2VLbndnWkVneHlWSkxDTnBxUzVBZGtYR09sT00zejRxTEo2eXJsSFZzM3hGMmwyTldIb0c1dUMwS0haMjNLamRiQW8xNFBHb0laZ3E3Z0kwQ0NCM09yRGw1dVAxWExYdmw2cUQxZUdRMG5jTjBCU1BGUC1Da25LM3F3RU12dVZkX0xuQUtZWDJNcGUzSDBjaUh1UmxWZjRFYVZBTHJxWHFSanE5aE1MMw?oc=5",
@@ -594,6 +674,22 @@
         "summary": "لم يتوفر ملخص مستقل في المصدر.",
         "player": "",
         "content_hash": "c5d64015def24ddef27b300d4041154c5c255bed58f2bcfc044cfebae4eb1d83",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 12536,
+        "title": "مباراة أنجيه و لانس - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOQktyNlBTNjB6SklJN1d0YUhBYVU5dXZ1c19MbmpaU0VMRjlNc3p6Rnc0cHNGTlFWWWRmcWRldGNYTW10cE5zNUlzSXNheVFhUElORE1fR2Q4Q004anJzZnNYZXl3NVJ5TkdrbE5HNE5FbVlWeGVsRFRyVmQ5dWhKR1Q1UFNLUXZFWWxwd20wM1g2QkRNSnNKcDRBUnVfbWdCSUpVNHV4SVpzbHowVkxFSUVvckk2OFZNMi1qNHc2WFlqcWJja2s2SUJyU3VpY1hnSDh5WG54YWZHZnlST0Q3c282VE1OMHRBZlZtVW5Jc2hXQXRKUVhwQnFLNGtLU0Q2SUgzVHVrcVd1OGVlM05fS0xKQWc?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 12:49:04 GMT",
+        "discovered": "2026-10-15T14:55:51.462150+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "673febbb60db502ba8796f12435e3fc70fde0bf4a359ba3ea4650a1359f2f786",
         "sent": 0,
         "section": "sports"
       },
@@ -1188,70 +1284,6 @@
         "content_hash": "ccf3e8881e94fadf36674ed12f46e709d4786e1650b9e4c4c1539eaab05e1a6f",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 12372,
-        "title": "صوّر لاعبات قاصرات سرًا.. السجن 90 عامًا لمدرب جمباز أميركي - سكاي نيوز عربية",
-        "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNODZkcng3QlYwYk5NSlFDb3NsU3J2LTR4OFM0OFVuYWU1V0ZWbnB5dkFsNHM0ODJramowbEwwRW9zYm02UEo1MUduaVdJMjROaUNUYVZpUU5lMmJOMFNYQ3FrRXUwTjVINmRUbGxJbFYtTUJtVjFOTzNDTmhqTXppRUIwelZ5RTFTNlY3Z21GWFFOSWhmNng5OHo2VF9ZN0RFaWV6SFlVaFpFaWJoYXdmT0IxSlVzTXhwTjBhbDlwaWFUU19idkxsYTJSY1ZpcHhnOWpUenZZUE9YTVV2ck9OTHY4YXRVR241cXRMU3dscHg2T0w5Mm5nSUxaUDFEZHZCQlgxMkxuTXd2LURiQURjWVBNZUthTkxyQkpwZW8wNlotTDNOZERqOF9IbkNRY1lWUWI1T1ozanhUOWJHek9FamNMaXFfN3k5UC1Dc3hhU2hMdEZmSUFvMEZJQmMxbmY4VXRJc1R6cEd4Mks0QlA3YmZIdFdIcFlvdExlTFVSOWw4UTBxYXp6c3M3VEFCQW5YNUxxWTZES0ZLUEtXOUNEYzNJWEVRRWtGbVlPUDQydjhfaENxRlVuaEU1SWJmQdIBwwNBVV95cUxPWFI3cHpUWHBaalhfWW11WTlFTVk1eHhsZlAxc1hWU0RSVUIwMGROYnoxVDUxdWlkUlBiajZkdDRldkdWSUl4dDVfbUhlYmxXRmZKNW43QWdkWnNQVEpIVWwycU5TajRJZnRSQm1OOVFkaDFraFRMVnNHQWVkX0VxaFpNT1RYMldiWnI4UUZ0cU9KOG9PLWpiR2stUHc2X3NsQVplWUxlT1hUckxsN1N5QXVoRTlpblA2LWtxQXRQSWwzeTJ6ZjFONzJnYm1vRmJWdGoyalhhZXdZNk05OXZ5UW91MndBSDMyR09EZ1ZydjMwcWljaXNCaFdocXJvVXUtVEpZQjNUV3Z5bC05cVAzOVNoMHJGc0J6VE9fUmV3WGN0M3ZzRHZ0dF84NThFd25iOVRITTBOYzZUcV95M1lMTHhZalpXZEdYS3dDQjZhM0VlRXU3OXdXMlhHYjBVMEZGTHd1cm9PQmM3T2k0X2hpb2lOUlQ5Zmlmd2I1RmxaVEs4X1Bmdi1lLTJweE8zdFlIVEt6NGNucVRPSWQ2ZDFVY0lTWEZtdGgzdW14WnBtOWtDQ05pM09mSnNjOFhzSEUwTFZJ?oc=5",
-        "source": "سكاي نيوز عربية رياضة",
-        "trust": "C",
-        "published": "Thu, 15 Oct 2026 07:22:52 GMT",
-        "discovered": "2026-10-15T08:15:01.817288+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "صوّر لاعبات قاصرات سرًا.. السجن 90 عامًا لمدرب جمباز أميركي سكاي نيوز عربية",
-        "player": "",
-        "content_hash": "68cb8018f9e652d2bd32417893506344820bf51707bd4d9aadcbe7289cd1907d",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 12440,
-        "title": "القنوات الناقلة لمباريات اليوم الخميس 15 أكتوبر 2026 - 365Scores",
-        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQelZ3T052Y0RVZUhpNnd3Nlh4U28xY1E1SjVZLWk3bXVyWURlUTMzRUFVTFdLeFJta0JYLVJWcWVtMXNxWEpvQlU1dHVDeGRGU3hGNFl4dTN4OHY0N2VpaGxzNmJ4cUlaNkxVOTNZcF9ONXFkQndfMG1hZGdsdDFNMTVwTFA1eXJGeldKTnhNdFYzb2xiUGd2THRGb3l6S1dzbU5udjlqVXgzU0lLeHZHTTlBZmRYWFFNLUtOMmFnLURtZ0h5RC1Od0VWNzFPMkhqY1FqRVR3Nk1NRXFSTGNVRVFfTkRmckgydUMzY1N5bmFoVjdJeklKaFMxdjBsMWxSTmgtVWdlYldpNXdEYXpxUWR3Mm8tbElNQ2xqcTI3RTRWZmJJN3l6a3RQSTJhUkZWeVhwTklnYk5CWklid21JeU1YZXJrRVFvcEs0NmtFQ2RFQXBrbTVoUkNPbFVuallk?oc=5",
-        "source": "365Scores عربي",
-        "trust": "C",
-        "published": "Thu, 15 Oct 2026 07:18:22 GMT",
-        "discovered": "2026-10-15T12:22:21.427277+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "القنوات الناقلة لمباريات اليوم الخميس 15 أكتوبر 2026 365Scores",
-        "player": "",
-        "content_hash": "c4e2eaad122211fe937602b181e6102ea41cb8b67c4f169379cede524eeb1747",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 12420,
-        "title": "بمشاركة ميسي.. إنتر ميامي يتأهل للأدوار الإقصائية في الدوري الأمريكي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMixwRBVV95cUxOTEo5YUNnTml1cnEzeEZGaFlnVU9tcDR2aGQxV196eG5JQmIzaEpKU3JyOFprX0RndjF4clRGTV9hc1N4SFgyN1NNeHg3TjdJRUYwbUlKY1hvWW4yYXR1Nmd3N2M4QVI2NkFfWGkwdExvbUd2aGtNYTdST3VYN0VtNEVKa0NQT0VMU1dMZUU2YzVjZ3h5MWRQcjRlUnYzdTZUWDlrQlY3aDZfTXFKNjZ5el9vdk9LSE95a3diTmJsRlAzWHdkWUFjcmJkYTZqdzlESW1OTHI4WEFhZUNfZGM1QlhuZEgtdkF2YzVHN1E0eGJLajNIdFlSOWhBaVBwaGREd0NCT1FHZXRDMlZRdTFUclByQmY3X1BuUWFoNjRaaE5JMUpDU2NCOS1PaEYxUGpOZzVUNHE4MWd5WWs3NTJFOXA5aGJPd01fdU9kLW9JRGNqeUJFWTczS2dXb2FqcW1QeC1VVUFPYXRmN1hadkxkbG5ES0ZxcUJLTnJyeVE3bWtOeERFVlRab2RrbXIyZk5DVUhtYTEtMjB0TU9mcnoyeF84aldjNEluenJ4RDJSUGtoLWhrMFZENkhscFR6eXJvdVJrM21RQW5idzJGZDFxSldYV2FkY0JjOUpmNDlYWUVkcjVYa3R6b3RCX01ZSmZWSXRNQUJnT2tvMlJjMWo2SDEzSjhZY3B5Q3RiUl96WE5qR1FvZXVSQWRGUTE2bkJRTWt2eUdEWDdVQmtwdDM4UjJHYXdjTlAxNS1ZMU52aDFJekY3OEg00gHMBEFVX3lxTE9EX21mbnBrbWFXRkRwU09xYnFVWWk4ckZfekdrUDExOFRKQ2VSU19zNlF2YXhmdnJaYXZoYlFtLUo1UFZqTkJSbkRkbExRbG0ycGNRYmh2cGRTSzZxM3NTQmlteFVVRlI2d2tpejRGaVZrbDZ3V0JrT1RHUGsyUkRhWGIwQ0pxZmNfbHJMbnlUOWJrSDl6bC1EQ2RMLWVQVG93X0IxRzdEZ09ndnZaYnRzWUVmcnRRclJ0M1drdnRWZHhNZVF1ZHFwWU0tZlBlSWRqU2Fqek5neUpmWFFlbkxNbWtiX0Fyb3dFUldzR2NKUHI3Qm9RcHR2VWgzTTY4MC1HRXRpcURxTE8xS3BDZEJVdHVWcjZtVkxWeUFnWnRvdTZRbGFXajNCSGdTQnBUM0ZNdWJYVklHQ3oxdTRpNlAyOExpUUJUcWlYTGR5OVFaaE8xX0ZaWnNoQ01OZlF1U2dJSURxUWJiMGdjQXo0UlBOVDh5dkFRZG1vTUw1X2I3ekR4M05MRlZUX2NyWVF4a1QxdVU2M2ZoUV9vNjlEMGF3b3pFaUZIdGdaRng1TjhFNlpJRW1Wc3kzWVVHMUtDNGhLaV9lTjUtZEdzY3BDNDFkUmV2Y1JILUF4OE45ejJRQlNyY2ZCUzB6Y0RBaFdGVGMxODBWNU85UHZGZ2kxOEtmLTJhb2pKcWZ2ZjNuU29jaVBrcFItazNWczdRT2ZUVFJIaXpnMHFnU0VnbFd2WVEzSmNFTDNMUVBkcGF5QnZJbWdIcTlBNlhxaHdnMQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 15 Oct 2026 07:17:00 GMT",
-        "discovered": "2026-10-15T11:21:31.592494+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بمشاركة ميسي.. إنتر ميامي يتأهل للأدوار الإقصائية في الدوري الأمريكي يلاكورة",
-        "player": "",
-        "content_hash": "af37e106abd50bb6875014894a4566e069d49b853ba63bf42d7424574f629fff",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 12367,
-        "title": "بمشاركة ميسي.. إنتر ميامي يتأهل للأدوار الإقصائية في الدوري الأمريكي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiowRBVV95cUxOVV94cV81MmVSTUZfb1lTMEN3eXBqUjN3M3FLdnVUcVNjOFpKaW5pTmcwajFBbGU1Z1d6ZkpuOFIyY3YwSjYyRG9BaTdvTGdtTFpjTHhwYkhKRUljY0ZkY0hyR2NqVnVVUjNBa3RrY2V4eG1UenhsVWFILWtodXpKYjQ5MHJ6V3RPcXZZLW1pZ1VubE1tWG9MMTFOdHg4U29BLTNnc0NKZHNmZEt4Q1Vmd29saXRFNXFYOGZmdnJTVURrYjRqam81QVBHbFRHZXpFMmZ1ZlhyOVZLSGlTYVhIa3RYVGF6b0FHSHdua1lwRGMtZGM0eGhpaHRuMG9HYzU5TDRtVFdldjJGUFppYVA4WTNWOGNqX25LRUxEalVNeGZDbjVCaVpzNElRYWItVkVpTnp3RGxKVXJQMnl4U2oxMzE3U3ZzUkpKcVlZUW9MZXozZlYzakdOVEpBNlNOUFo1S3JPZWVVV0otSnYzWkdKaDY0cGE2azJ3YjB6OFkxSjZBMmRabnJDOU0yNkUwdmF2YXhaZjdPS0VHc3RRQjVlVHRGQjNCSUhLMDQ0QjhVUEJ6d1dQb1FWcVYxRG94SVVxUXoxYnpvVkJiWjZZTGdhdmdqaHludEJmTTVtdV9Lb0dNZmtpUV9naEJsX2hsbDBLOHNRbnpVdUJZR3hFdElPUFhvS2ZfZWN0RTI0bS1GMzJDNEpZRllLUzZHTDlUNW9MSzJr0gHMBEFVX3lxTE9EX21mbnBrbWFXRkRwU09xYnFVWWk4ckZfekdrUDExOFRKQ2VSU19zNlF2YXhmdnJaYXZoYlFtLUo1UFZqTkJSbkRkbExRbG0ycGNRYmh2cGRTSzZxM3NTQmlteFVVRlI2d2tpejRGaVZrbDZ3V0JrT1RHUGsyUkRhWGIwQ0pxZmNfbHJMbnlUOWJrSDl6bC1EQ2RMLWVQVG93X0IxRzdEZ09ndnZaYnRzWUVmcnRRclJ0M1drdnRWZHhNZVF1ZHFwWU0tZlBlSWRqU2Fqek5neUpmWFFlbkxNbWtiX0Fyb3dFUldzR2NKUHI3Qm9RcHR2VWgzTTY4MC1HRXRpcURxTE8xS3BDZEJVdHVWcjZtVkxWeUFnWnRvdTZRbGFXajNCSGdTQnBUM0ZNdWJYVklHQ3oxdTRpNlAyOExpUUJUcWlYTGR5OVFaaE8xX0ZaWnNoQ01OZlF1U2dJSURxUWJiMGdjQXo0UlBOVDh5dkFRZG1vTUw1X2I3ekR4M05MRlZUX2NyWVF4a1QxdVU2M2ZoUV9vNjlEMGF3b3pFaUZIdGdaRng1TjhFNlpJRW1Wc3kzWVVHMUtDNGhLaV9lTjUtZEdzY3BDNDFkUmV2Y1JILUF4OE45ejJRQlNyY2ZCUzB6Y0RBaFdGVGMxODBWNU85UHZGZ2kxOEtmLTJhb2pKcWZ2ZjNuU29jaVBrcFItazNWczdRT2ZUVFJIaXpnMHFnU0VnbFd2WVEzSmNFTDNMUVBkcGF5QnZJbWdIcTlBNlhxaHdnMQ?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 15 Oct 2026 07:17:00 GMT",
-        "discovered": "2026-10-15T07:42:22.792955+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بمشاركة ميسي.. إنتر ميامي يتأهل للأدوار الإقصائية في الدوري الأمريكي يلاكورة",
-        "player": "",
-        "content_hash": "af37e106abd50bb6875014894a4566e069d49b853ba63bf42d7424574f629fff",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1755,6 +1787,22 @@
       }
     ],
     "world_arabic": [
+      {
+        "id": 12537,
+        "title": "العراق اليوم: بغداد والرياض .. شراكات اقتصادية لو نجحت! - DW.com",
+        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNOXJCNnd5cEpYS0FTQ2t0cXE3VGNWQkxyTkRpZ2tTaXpHa1V5VTJoeGp1MHl5WE82aHdWd1NUVkF1MFVHWGs4UXc3Wjh3YmlEWG9Oa3lDTC1HYWd2MGE1SWhKNUNXTjdYRm5Hb3NmT3MzYnp3LThLcVBkek5PNVBGQnJsaDhMWW5QT01Dc0twMnNZdGtBaHFRdTdueVVsT0ZXV1pSMm9DaTVObmVfcXYzbXVxcVR0WExoeFNpZ0lzV3FoZlBtVGd4OUg1bTRwRWlmVDFwU0tHcy1NcHVpOHhtMDF2cE1Dby16NDFGcnZWa0t3T0hVUFMwUmpkQUp0cWNPMEpkYjZKaHEyZnM5Tm9ySXdYQ2Q5RVZfYVgzRGVYV3RQRkxhUkplVmpaUTdZQzJ3eDEyY2gzV1RORFU0MWVZVFZ2b3h3Sy1fbllrc1BiNFRqUjdSSFkwREVBLXV5RnR5YmlpcExFaHphMUJFQWZuNk1KNTJQM0VPNFFneDZWcUZqOGY1RXpjWm9Pb2xTaXRCeGFFaTYtLWdveFZFaGJDTzVEWnNNMnlUVEtKREVrdw?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Thu, 15 Oct 2026 14:37:10 GMT",
+        "discovered": "2026-10-15T14:56:09.805077+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "العراق اليوم: بغداد والرياض .. شراكات اقتصادية لو نجحت!",
+        "player": "رياض",
+        "content_hash": "31b81690c0aae3a985b946155af0f4ac74e6f05e49148c7dbdd3d0dedbab339d",
+        "sent": 0,
+        "section": "world_arabic"
+      },
       {
         "id": 12530,
         "title": "فيديو. المملكة المتحدة: معرض فريز لندن يطمس الحدود بين الفن والألعاب والواقع - Euronews.com",
