@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T00:08:23.378021+00:00",
+  "updated": "2026-10-15T00:47:31.480346+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -32,6 +32,22 @@
         "summary": "افتتاح أشغال مؤتمر دولي رفيع المستوى بالرباط حول العدالة والذكاء الاصطناعي Le 360 Arabe",
         "player": "",
         "content_hash": "2e6a78eb4f8b16ce2cebee99674f3f2e4975e49d6bad5269326842503c1ec808",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 12252,
+        "title": "حموشي والمهدي قطبي جمعو البوليس والمتاحف فشراكة قوية لحماية تراث المغرب - كود",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPcDhIV3NCc1hoUEk4RW82WXd4OXhqTFh3QU8taEZNUC12dXNJUDltMGcxYTlJV1dySl85V29YRXpQUnZ2aGxONXV3R29NbTl5bGdKR1prbnJzb0g3Sk5uTVM2MXk0QVBDMTN1OGt5V2l4aml2enh3d2ZabXhSb19WcHhVQnl5Z1NoYXd0UW5zS1dDb2VnWTNtT21NOVJiWTRGYTBreGcxY1duNVJLVm9Fa1RMMDAwYkpBNVFXZ1dhaGRUVjBEa09oYjVQRG16Q2VvUGxCQXJmd0ZrRFRoS1FQRjBDell2dHFoOUUzQVdZY1JGZ0pwUW5CY0tESXpnejlqb2x0OGpBQ1BJbUNqTXIyZ2FUb2lpVFJEa1ZjOUIwNXZRcUQ3eEk5TDQxTnk2bkpzZzlmUFVuQ0Z3SVZqNXJRQWdlb2JQQ2M5WEE?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Wed, 14 Oct 2026 18:32:43 GMT",
+        "discovered": "2026-10-15T00:47:05.633448+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "حموشي والمهدي قطبي جمعو البوليس والمتاحف فشراكة قوية لحماية تراث المغرب كود",
+        "player": "",
+        "content_hash": "1a0d81b4271da57dcbebc8bc9f033e326ec0ab20cd49a5a82e8f3ed17bd2c083",
         "sent": 0,
         "section": "morocco"
       },
@@ -612,22 +628,6 @@
         "section": "morocco"
       },
       {
-        "id": 11758,
-        "title": "اللجنة الرابعة.. الإمارات: الصحرا مغربية وداعمين مبادرة الحكم الذاتي وخاص الإلتزام بوقف إطلاق النار - كود",
-        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQNmxnWlVaUm1qd0Rad0RjX0NNdVJVaXNHQVNyYlNpQ0prMkF4dFBqbG5PblNLc05mOUhHN3hZTU9FVHg5dkNEa0dDRnhMZ01fQ1RzcVVKX1hESm1xVy1SYUxIeGxGam9mb0szalBNa09nTlBEU2ZiZ3FLSUpONTd5NnVuZjByNk1Qa1Vsb0lKSW03WWVYUkYycGd2OUZ5VWVvMGNQdDV6VGQ2c3Zwa2dadjZoMmhIbW5pT0xqMmlvYzcwVTBSc05QR3VzNERTek00V0NVek9oZkhhbkdqbjljdGowaUZCbk9WRkVfTlNDY3pzSzdZQTZlR1FBR2RnRHcyQnVZRGFBcTlHS2NoTFlvZ0VNSHFYdFpnTFl6SlBIQVA2UWdrTERCT2pqb2pwQmVFYnZDaEEyVGRIZEtrazBCdGpHR0c0VDNQ?oc=5",
-        "source": "كود",
-        "trust": "C",
-        "published": "Tue, 13 Oct 2026 21:44:16 GMT",
-        "discovered": "2026-10-14T00:30:33.126975+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "اللجنة الرابعة.. الإمارات: الصحرا مغربية وداعمين مبادرة الحكم الذاتي وخاص الإلتزام بوقف إطلاق النار كود",
-        "player": "",
-        "content_hash": "dd435da1e466cc12c1c40ffa145f4e3a3c36381d41212d2e4d0cb4bad6f4ee56",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 11772,
         "title": "ريم شباط تقود رسميا الفريق الحركي بمجلس النواب – اليوم 24 - اليوم 24",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBLUW9LYVN2aldTay1WRFI5SnMxZ2hOeVh3SlVjXzM0cmFmRXI3c3JhVXZCdVZSQXZHaHBqQTNFYmc2N3JvZGV4eW5R?oc=5",
@@ -736,6 +736,22 @@
         "summary": "العجلاوي يروي ما قال له وزير الخارجية الراحل بنعيسى حول سبتة – اليوم 24 اليوم 24",
         "player": "",
         "content_hash": "8769b47b4c19828a9a29fdbb35fb4a7c12f5f827112d0fb444a0aa20b05d3f68",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 12230,
+        "title": "زيارة عاهل إسبانيا إلى سبتة تثير غضب هيئات مغربية وتدفع نحو احتجاجات - Hespress",
+        "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQU1ZKaG54d25rRkJyLWpmellRdF9ZVFFLV2R1RGZLTHQyTU5aWEVwVTY5Z3d3YnFPNlFwNnM2Z0xPYkZ1bklEOWhyNTFDNUtELWlhVjJSUHFodFRtaGg0ZFp5cWZNX1BybEdQZlFQbTJfMUR6T3J1Y2xIMzNrWmFpanBHd3EyY1BvR0FWVjBkWnAtZzJuQVNXaUNHYmM2YjV2S1F0OGoxcmp3MXNlcXZFUWV5X2RhT1R6ZFF1OHNSdzcyQmlmb2I2UzZ6NmFTaU5TOG9TSmJTYzNxOUtSV3VYbXZseGpmSl9YblFLTmRlU0xVMDRxUnZQNmpJS0xqdkF1UDdzTmpuaUI3cWxiMTZaNVdoZS1wR1FZbXZ5OHd1akxmN0pYaE9TODV0MGtJMzlUbklwcWZ5MVVIb2lVRlJhejBfUktRYjAzR2JTMnJLdHVaMHhMR0lXZg?oc=5",
+        "source": "هسبريس",
+        "trust": "B",
+        "published": "Tue, 13 Oct 2026 16:08:08 GMT",
+        "discovered": "2026-10-14T23:27:17.524669+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "زيارة عاهل إسبانيا إلى سبتة تثير غضب هيئات مغربية وتدفع نحو احتجاجات Hespress",
+        "player": "",
+        "content_hash": "296d08613719101bfc113b9c6bb98fa37d1db2e1a8cd4fdbe56cfc1773765c4a",
         "sent": 0,
         "section": "morocco"
       }
@@ -1106,6 +1122,22 @@
         "summary": "مشاركات بالدقائق القناة- كأس رابطة الأندية يلاكورة",
         "player": "",
         "content_hash": "a6c1cf479a5fe67ed29671636a120b2b28e816033cffc85b96016b5be2a4b4e9",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 12260,
+        "title": "مورينيو: لماذا إعلان إيقاف فينيسيوس قبل مباراة مهمة بساعتين؟ - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxOZ1N4ZnFuZEFDVFhOd3VySktETS1Jc3cwZHZrTHlkcWZnY0RPRE5UM09pX01rZDBicWFfQUNLeFdtMldSSHluRmpkZW5RWVM1ZWo5WlBhOTlsV0pWM3pRUlA1bWZJZGpUZUtMQUtKNk9oWjdtMXNuZkh0a3VYVmhrX3J0eXpqajRMM3JoR2tWdXFpazJUZ2tVeGV1TnJOZXlFRzFOMUxOblJGaGxrTVRwS2h3UE9GdU1MNjMtMS1BZUl3VnNMOEFhQ0VWNjd0ZWNibWN4aDJBT0tFSFRNUHVINEtCeWFpWERSbUdOY3BDbjV6OTlfVENsLUl3d2s4dmFILVpvamNkQWJoU1dSQmQ2MUdZdWVEeXBEWllkTGplTV9XdG01eE1ZU0hxV0lnTG1odkxuUE55QWVWbFRVa0w3VlllSWRkRzBkdjA2cmJSV3dkbDVxalpQaHh1cXRwQjZQN3djQTFNZW92WEljZm5Jc2N2UXo5dXRUSWMyRkdySUI3RUVzbWs1ZGZXVWxkZG9rN3VzdGlCR3VxbmxlZ3hxV3ZUOTNpaFgzbXZtUXNlNDhjb2M5YWdpdVh0YWQ5MUVaOHVIcUg4YTF0NVlXVkNZeDFiX1JUcWthZVNiX2RqM2cwWU1WTnhzZzVkZlDSAfIDQVVfeXFMUEg5aUlTbElUZ3FiQl9BSkcwdnF2WlFHWjRVeUt4eDFMdUF5OUY1alp2eFFGQUdaNndHUURVSk0wSk5CNmp1dHJSODNQOEh1TzdSRk82V2Exd25KRTViSWhHTTgwSlZDSWM1RnJjbTBoYnE0cEoteHIzR0dvQlc4YnBBLWU3bEhCN3JxOFNVaFR1YkRGbzNDVGk0anJZWlZ0NzEwcG9zV2YzcFU5eW9uYTNrN1B2dm5PSHdQX0NZZDBqakxvZFpXdzVmT0xIeENSV3ZnS0pCQUVjQVJ5VmxRZWZIdFJsbUo3emhlUWgxdC1TNmZwNDRVbjRMeDg2WWotRlNZWm5BQVhKOWc3TnNSTVRTc0RNLW5jOEp1cXF1TGpaTllYZlZRN3QyZUFtQTFkLXpYQ2ZrdUpMVGVnRVUxMU1pc01XWmVzV2J1cU5OdG42V08zUEE4SE4zTUxUSWI4azFvb3lUeDAzU1ZfUm9ManpBUHVWeXQ1dFZyck1kaHRWckFQanNXbXFhYTIxUnU1ZFB2azlJaU5sbm5OTnpXWHduSXljM1hqanltU2ZHMjRKZ0FsZkNEbTlYX0ViOTJlaEJxa1J5aVdOTEdNaklfN1pzZVo2WVlmV1pRTl9waGhFUG9hS0xXeFFGS281OExidXd3?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Wed, 14 Oct 2026 20:33:00 GMT",
+        "discovered": "2026-10-15T00:47:15.502502+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مورينيو: لماذا إعلان إيقاف فينيسيوس قبل مباراة مهمة بساعتين؟",
+        "player": "",
+        "content_hash": "755d7e8a1aa41f392c4c41f33894c21bc3ce0075b2210576cdca3c0d6b1c8510",
         "sent": 0,
         "section": "sports"
       },
@@ -1524,22 +1556,6 @@
         "content_hash": "c49e34fab2b15df94fbcca7160bc86b58701008ae3ea09cc3dfd8c39e91fc822",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 12136,
-        "title": "المنتخب السعودي للكريكت بطلاً للمجموعة الثانية في التصفيات الآسيوية - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMitwVBVV95cUxQMXA3WTg1SzlIZkRYT0xsR1A5dWdBNk9XWk14NXdoZEQwUmhnZnRJVklwTDR2TjBpcXctTy1IVXVXcjlHRVNOdERFX3BBLW53dkVXODJvcGtiX1A5Z0FybXdMZUEwRlNlNERVZHhETzZVYnJrckVKQndqUW5TaUoxUGpRckpCQm8zRlM3LTdnOWU3Wl9XWjNRdFR5cEwzUHhpODcyOGVDMEg4UVltUU1hX0hLbU5pa3FYMThtSWdxMGhpazdqWlhfV0Y0Q2w3eksySHVMVnZFdTBPODRmdkQyYTZ0c0k2WURLWjRxNHRJa1RtRjh6TnRxSkdVYlkxd0hTT0taYXFpeTN6TnBpczQ0XzVOR2xBWk9jMlpPay04eEI4d3dEU2pRbHBCMEUzMFBRQkd5cU1pXzFma0M1c2dEcXpoM0N4NFNsVGtNNkR0TEVFN3dVTG03M24zbjhyYVVWTmQ3ZW1Bb3RuRVVZbENvV19hOUNJTFU0UzVRMHJTVFNwZ3psenhKdXVMSl9IbFJ1M0dLS3JWcFZIbFBhRktBaHNZTVo2dTZ0V1BjSnN3UDVWVl9rZzg4NXVFNzI3Q2tXbTdlaXoxQXNpd3pMUzAzTU80Mi1BYkktNy1Ud1RRODA3bG5CeVRWNUU0djY2Y2J4RzBQMUVZUlpic2FzRUJEUHdkY01kUnVVWC1ieUc0akJWODBVMlhkMVZFcDJzaGxiNjhOcjNNWUI4aVRKRUYxVnVmRTlpR0FxSG1xYVJVakplRHAzQThwOGdibEc2NmJwWmZtalRQNXB3SWFWcFgtc1B3WUxFaHhxeFBqZlA5Vll6NnQ1emcya0d5cWtiQnFUYkdIenplZzd5ZUJ0WWVLYWswMWdpeGVLYncwQkotTS1lUW4ySHh2al9UNERmdWZBZXBFemo4QQ?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Wed, 14 Oct 2026 18:15:19 GMT",
-        "discovered": "2026-10-14T18:27:39.882205+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "المنتخب السعودي للكريكت بطلاً للمجموعة الثانية في التصفيات الآسيوية الشرق الأوسط",
-        "player": "",
-        "content_hash": "e4d64dd6f888909d4ab80ef80751adf8f308c787926604d64d6d14ef96816ab1",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1860,22 +1876,6 @@
         "summary": "ينفذ مهام معقدة ومتعددة الخطوات.. الكشف عن \"جيميناي 4 آرغون\" سكاي نيوز عربية",
         "player": "",
         "content_hash": "8f09e01196641b2909ae0d6d22d35925e97afead6fee5df0c3abaa426b306384",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 11756,
-        "title": "ملف يلا كورة.. انتهاء خلافات المنتخب.. حقيقة مفاوضات الأهلي.. وتصعيد الزمالك - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxOZGVsWHJGUjlYU0NGYmgxT25IdHJ4dHdMNnpqaXRCbU8zNzU0bVpnSGl1dlFGcXE0eEpfcTR2aEY1Y1R2dm91TnVTWEpCMTNpRXo3YTA3WGZ2T2U2M211VUFkVnhYcHZzOVFIWHdQNWUxaVlpaS1qWG5UaldhUUtVVFNyZFZWNV9nRjk5SHBvdDR3VkVta3FYcjlSbDhiTFJiUnJRcEFOdS1IaDZaaHdDeUx1cUdHZ01FaFZESHBpdXV5R3hybWVqZzFwS0NrR1RoM3lyUVY4ZC1mUno4T1N5WGhCVWxLMGlEX3MwamlKdEZFNzNzT0RQb0pKTmRNOGgyWlp6M3A2Mm1uSWZfc1BfZlhjMWF1U3VmRUVrcTd0VTc1ZDlmcjFNamZONEVKWmxIYVpRNVB6Z0dxaW9BTTJmWi10QjdobkhQN1kzb0VwclRsWG5nZWYzVG8tVDluc0EzOTJZcGhkUGx0dUZHdHpwaE05U2JEbDRqWG9DZjZBRXVaN0JJbzBHU2NmY3gyUlRIV18zNHI5VUJBMTZLUUVyaGRmaTNGQTIzMXdZVkNCMjFYRkhncTg4T3RUcmpHM2pzYnJSTUNNWWtzWnRrQi0wNTk2SEhKX1UxOHEyRGl5WF9TSy1rbGEyUHFrQTlLQWxwby01Tnc2eEMtYjNQa0NtbEhmTGhBLVJJQ1hIcXdKNW94aTN2aFZCMk9sS1pZTXdTUG9iMjAzaDB0WTY4SGdyczZpYy0xdUUxZGljc096Rkx1OGpUZnpSX0psYVNJVTRCckpJWE94ZkvSAd4EQVVfeXFMTkpYbU1EVWVrZi00Vm5CT3FvVlRRRnhIWUpBTXA2aEREN2pvNTh4X1d4eHJjS3VHRVVaWmpNNUlONE5aTF9hb0lGellFMnVodmtLbklFQnBzNWp6Z2tKSlZjN0NEUHY3eFU5Q1d1OXptUDNqZEVuWjlYUVJEdUx4U0RIUVdMZFM0STBnbDMxekZoUENGbGl5VXYwZVlvQk9Kdmw3dlk5cThfUThNYVpzbVVEcThteXRZNFBzSUZVQ25UWXJOWmYwRk9qX1FtNHlKM3RRMElFb0t5bHgwbFVMelp2c0Q0WkdUbTluTlMxN0k1RmtMRzFBSnNwckxIbU9YSVEya01vX3Uwd1dBOVVLVHZCRHhIWmV4Zk9vZWpqMTluSWZJRk4zcWtVYmpTYmY1TTRSbmlWQW9UZkNfMXhuMjJJOWRVUDJzbUN4U0s0QlFpcmo0U3h0V0VPR2tzcEhiakhGWjZxRFRmT3JramVhYmxDQ0taeG9UV1JBTXdlNTExLV9NcUpEWlJYYm85M0RpX0V4OG9kZGhoeklTQm5ucl9lVlhXMDZJX19vTnUyS1ZmY1pJRGF1T2x0cEs5MEszQzFpNno2NHcySmFJNFdBbXNnUFltamkyV2N1SUdSd3kxSFhYM1dkemRKVnlfYXA5ZzA1LV96WkJScV9NUkRfMlZlV0hfSkRGWmJGSC1BNzhkWE53bWU3b2g3SE1NTHZPTU0tUU16dlVOTWxiWkZPQjFwdVVZM3cxcmt3RTJDWVhUUDRsR09SY2p5a3YwQmJNVGwtUWIwUWZ6QUtaMzV3?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Tue, 13 Oct 2026 23:20:00 GMT",
-        "discovered": "2026-10-13T23:35:40.406111+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "مفاوضات",
-        "summary": "ملف يلا كورة.. انتهاء خلافات المنتخب.. حقيقة مفاوضات الأهلي.. وتصعيد الزمالك يلاكورة",
-        "player": "",
-        "content_hash": "fbb8e353f18f4d4df25dc51f04fc9ead0445dd14be120401fa00ffee51cedb3e",
         "sent": 0,
         "section": "transfers"
       },
