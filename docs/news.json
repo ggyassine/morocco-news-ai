@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-15T22:38:46.939302+00:00",
-  "total": 142,
+  "updated": "2026-10-15T23:01:19.277480+00:00",
+  "total": 144,
   "sections": {
     "morocco": [
+      {
+        "id": 12691,
+        "title": "أمن مراكش يوقف شخصاً بتهمة التشهير والقذف في حق رجال الشرطة عبر شريط فيديو - Febrayer",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PZUN4NV8wQTg2RVlBWVcyMWlzUUZuRjVzc0dJWjJIU2s3OGxwMllSZXM3dkxqZ2pSMElNX1JqWFdYOURNWUpQaA?oc=5",
+        "source": "فبراير",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 22:31:52 GMT",
+        "discovered": "2026-10-15T23:00:54.389034+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "أمن مراكش يوقف شخصاً بتهمة التشهير والقذف في حق رجال الشرطة عبر شريط فيديو Febrayer",
+        "player": "",
+        "content_hash": "84f1cba854426bda06b84a28a23c40436d2c1b6ce1c277162acb1724d8d21f9a",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 12680,
         "title": "«التجاري وفا بنك» ومؤسسة التمويل الدولية يقودان توسع «بيك الباتروس» في الدار البيضاء ومراكش وأكادير - Le 360 Arabe",
@@ -1817,6 +1833,22 @@
       }
     ],
     "middle_east": [
+      {
+        "id": 12694,
+        "title": "سوريا ترفض إقحام الملف الدرزي في الانتخابات الإسرائيلية - العربية",
+        "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNZF9zdHQtRTRLb1JDbEVieGdPNjl4MW0yZ1JBUUdGME9FTEFRSlpmZWZGX2dSTHJHWFZzTkVsVVNwNEtsR0diX0Q3Y3ktaUpQLWVpQlc0clhPdlc5Q0E4X1BQaEJqQm5BWmIyRUQ0MGlqTnhybWUxV1luWkh6S09zNkNqVmhubzVTOGY0VmdnRG9yVk1xaWllbGM2dGdJdml2bUtDUTFCV255Z0xyYjJ5a1hwTGpZbzVtSUlxaXRkY0oyQlNwNXhfcklRdWdaRGNrWlNraUsyeUFHT0hTWVdQRTFmbWdxd21zeUN3bGZuampJVVBzV19zbWo0bWNKZk04dFh1c2phbVBTV1I1ZVZDdFZqdHN4dW8xbXdMWUwyZkFramxRcFpNNk1pWDRHRWEzTE9nb3diQXplVDU3Z2U2cDhvbGJlRUw3cDUwWmtQOG9BTFhTenk1VC1nWktJNFVWcFJWcnplZkY4R3VwcWY3YkQwOTQ5MkM4YUx0SlhXNkxXQnRnRzFpQ1FyRUNxRGVROU5MTzlkWmJpLUNMaUN1T3VET0I3MzNUclZmSmlTdm5iQVNES0dCbEVxUkY0U2xkVldVcTNNamVrX1ZISTI1QUdfX2MtODFvbFVlUXV4M0RLR1Vjd1NFZjVsUzZxanJoejJv0gH4A0FVX3lxTE5NVUZaVlBxS1pfNjUzc281dGRqN2NtbG5TMU5WNld5dUxBbGtfZHZyOEFqM2FvamhCekQzQ3lJZjRkRGdERXlLcmtkV0otd0tPOS1KeElJdV92c1VtNl9QM3p4Qko0RjRvNVI1bHJZd21SSFIzUkNfbmhqdkdQRzd4OGxrdk5ycTlSLVM3Uy1EeHpCMzI1dDJyN0dOM0I2UnI1TUNBQXB4dXl4X3lUV2xsa09ROE5wME5KTldEdEZraERjZi1PdmpoMHFZdDZraUI5QWh3NUJ4eWJOUlRGc0dzcGpxc3F6dVpCcnpyZ1pCT01rai0yZjMwUW13YVpwckZ3T1M1TkRpSE51dFRXTzYxRjhWNzQ1c09COHJIMTVpcmpMenQwRm5DYi1ub2xJWlZiTkdEaVFidlRTTlNTdi0tX0lrdmpUS3o1eThjaVYwWnRTd0hFcFUxUGRmYVRXaXExdVhVaW81dFMyaXBrY1hzaGtpelRLU241UkFqV0VrSmpXT2haRm5VaTFvQW1OOVdZYXB5MWFlcy1xWkpLSEp4MFVoY3VQU2dXQzNRUTFoLXBUbWxWOUpuN1lzZ0taTjZ1MWp6cHgzSkNtQjBoN3JTV1cwY29fa1ZmblhvVkpOOEZORTh4bTJVZE1KSG9fbFlvY2RrZjdVVQ?oc=5",
+        "source": "العربية",
+        "trust": "B",
+        "published": "Thu, 15 Oct 2026 18:59:00 GMT",
+        "discovered": "2026-10-15T23:01:10.477624+00:00",
+        "category": "الشرق الأوسط",
+        "status": "غير واضح",
+        "summary": "سوريا ترفض إقحام الملف الدرزي في الانتخابات الإسرائيلية العربية",
+        "player": "",
+        "content_hash": "5a4213b23ec159ea0ac15874e7e99c8ba16d45526248b7c9e39bcfc1bd98fbe1",
+        "sent": 0,
+        "section": "middle_east"
+      },
       {
         "id": 12650,
         "title": "سوريا ترفض إقحام الملف الدرزي في الانتخابات الإسرائيلية - العربية",
