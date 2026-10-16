@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T10:49:51.788936+00:00",
+  "updated": "2026-10-16T11:15:59.443766+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -806,6 +806,22 @@
     ],
     "sports": [
       {
+        "id": 12821,
+        "title": "مهاجم بيراميدز: النجيل الصناعي سبب أزمتنا في مباراة المريخ - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxQTG5USXpnWS1EeHNUR0lFNmFXd1QzaDVnNWtyUmxrVTBVSUVleDB4LVMyV3lUSE9FSXBYUWVjbnRfcjF0UTR2Wkt1cW9MNjFMb09TQlNnNWcxMXRxZEhiay1RbjhKSC1HeXJSN0FqUmxZVW9GbVNHQXEtUjZST3VmR0IwblNUNXViQ2l0OW5OamxJWk04bnltbnFfVkg0V2JIX0oyaHIyZEMxQmdSSVM5ckhGdlpwc0FWRGpUYVFma0F1cXVjWkpEUmtPcTQ2ck40UUdSRTExYUFORjZ5aWRuNFBnQUZVYlhEQUZLRVlTR3lRVnF3eTR4WGFPMlkxTFJJYVRIQ0p6S0FFamtRWnE3VkloelpKazZxenk5ZDNoZlpEQjRkVlJmeVFRSldYaWMzcTk3emkyTWIwRmtqUEpHMWd2X1IwTGN6NXRQd0I0VU8weGJCcXpxY0wwdGVYQm81TU5JUW9PQ3VCeGh2MTJ2RFhPVm5BR0kyOWpZNWxsbWxTLXd6V0EtSS1Ka05DRGZjOG02bDdrQVJEWkliNHRvZFpQTnpPbGJXRVB4V01nU0pRTDJrMXFGQjRsdG1WemlITE8wN0xJdGs5aFRXa0VEMHJtX2wyU19rZXhULTRVdXAyUS1IaEd3R0E2NWxJdlZtQjdOQnB4aVVIbzhiemZrWTBaelFrXzBXYlHSAY8EQVVfeXFMUFF2amZRUEZFMU92b0pyYmZDQ01xNmNlXzAta3ltTjRZc0pheVVaWUdoSk5xSUpmOUxaOVB2SHMwR2RtRUNrODBZVXBLZE1WU1ZvX09CWUhWLUVtaXpOUENGVy1QczVMR3BFVTEzcFoxTS1TMkNiRzhyZ2ZXQ1ktTnJxU3p3VlMtbzQwcjZLQkFxX2xoY0FuLWxVRU80bTJVTEVRRkxKdzNlLXpyLUZvUXhwcFpJc08tZUR1d1V2ODMtbmdqZ2c1c25WZVZYcjhib2ZJT3FxNmVkWWFZc0hmMUZnR2FvX2dPSHhXcVRrXzk3ZFN3UWdYYjdheGRZZE1FTWhLbUM0ek5kSHY4VHZkd3RSYndON1Jab3hWcy1DSDR4LVpucV8xTmtreVFmaFRJTWRFMmc2RDR5Qkx5eU9oRUpRb3pNNTQtdnB3bmdMVTVuUFZSN0x0VkE3dU5QMVJXX2xyanZLUm5odkp1dWxWSy12SEVSTTllX2p5Y1JHbG9qWkt5M2xnWXZsVnJXa0NNMDZMOHFYQnQzOVZBczVGazVqbUJPMXpZWDdwbHlSdmVDSl9nR1JZNTRpN2NaV2JSSWlhTDM2Ny00U2N1U3FHaEhPN0MtVGYwS2NFSy1NZmxyRGFoQmZfSjI2UUV1YkdHd1YzRDJwOTlFTEFhWVUyRHE1Z1hCeVQzay12S3d1REU?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 16 Oct 2026 11:02:00 GMT",
+        "discovered": "2026-10-16T11:15:42.456301+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "مهاجم بيراميدز: النجيل الصناعي سبب أزمتنا في مباراة المريخ يلاكورة",
+        "player": "",
+        "content_hash": "5e8da86e78dac961fcca0850a48fe2ce57dd0cefd4385651275e9f9b2730f48e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 12810,
         "title": "خبير تحكيمي وتعليق مدحت شلبي.. خريطة إذاعة مباراة الزمالك والجيش الرواندي - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxNd0g3MzZTQVVHbGxsaFJhck02X3JOY011bU9INGNUQ3NyTkp0aHBiVUQ4b0pxZEo1VE01ZzFmN00wSFd0Tkw0ZmJ2NGJNcm53WEY4MVYzc0ducHNZY01wV1VIRkY3STk4ekdNWkY0dkdJOGVGOUU3Y2lXVFNVYThaSWVEOVhDRXVLUk5wX19CYU1sQnN5ZXozcG9YRUdwTE41dE83TUVNeDg5MmFaejJTUU1hV0d4ZXBKdjZkTkJuYzR2cTRvSWJ1QmF0MG5Qc2VPeTBuTG9FVGM2UkxnOUlyc0xNZGlxbnUxTlNHdWNheFU5SG5la19BNWNuRXloYS1DLV9GRjE0NGszWUhGWTJoWjRXd0wyZGJmTmx5eG04X3dma0RxR1Z3YzFZXzRGSVRCVXk3X181Wk51bHdPcnVhczhUZVJvckxJUUJQNUtWNlRfWTFxNVZHYWtDQmppZ08wV3ZIZy13SVpUaXJEYXctdGR0dTQ5cUVvWFZDNkZMYnZQNTBpNDhWc0VXNVljRkJRNG9HSWg5MGMtLUFBd2VDWUg5aDhxR1dFRXNEclRLaDl0SHBjWjl4eXB2N3FxODJxcFFLUGZ5VWZ3V1hrVVRJYjZFYU9PZTdpQklnZ0U0dC1WWXVhdkZ5U29EVzhnQThnZjVadHpYWTZtRDhQZU8xeHdlb29fUk93Y2dJaUxjbE1ndGV4OE8zSk5mbzExckx0MWg4STBtaGNjR3ZudGpVb2tVcGVkeTZfMVEyTktDR1VGdHY1VV9mYUMxc0lKOTBzRnJfMmlhTXJvSlVPRHlTeVhmYkdXM0RiYXh5a9IB8gRBVV95cUxQZ05ySXlseTY5LWFTN3lsNUh4Q2hESkFxVEI4RmZldEpZNHZSQndjOUJFZHo2cGdnRkl2WG44VEY5NEg2M3phNjc1SFY1NVJEQWRiMHhmUF83UGFRTDNFbWg0NjRYcE9FV2NQYjZ3YjBrRWpHdU84T1NKZldGNThOdGRBd3VlM1hSTzRmWlpYbzNtbWZ3T3BfUUV0MDBPZmRjeXBvMUhTNlpuT0xtQlp0WVBncGJ6THM2YkdjY0VSNmQ0YzhyaFlHcjhhZ0NaaHAzZVRIYThBOUlLTnF6N2k4WER4Z3BiejZhdE9sVXk5MWJUdVFqaWtYaGUwVzRGVFl0TF9hdjZTZXg2b2VoVlhfV2dzVFFwUk96RmxuQmlQSlVXeTFFcV9NT1J3UGpKUDJnY3FjNmhfckVGWVUyM25PcFZUMFAyUVVEZF9NdldIbF9kcWhzRldzbkE1WWhveFJicllJcHZTeEFNZUZDVWZtWjBOeEZ2NjlSb2hLM3FxSHdUeVZhREdMc3VmSy1xM2xtMXdXcXlZMFZ2V3BjTzRqREFPeFBrNG1wVEZzaDd0ZVhKTFBUeWFZejdIVzdCd3dHU01nRU5nd2IwRzN0RGdPN3BZVm85dlItSFFJbmgxV2JPei05UG9meGFPRC1TaXB4YXVPWDJMaFU3YlVYWTNsbzBZSUdmUm9jaUVJbDlqaEc4ZXg4SU1jWU1yajB3LUduazdteVpmVlhoanRQTEw0WDR5UUFRWkEyYUk4OU1vVzJJSWxZS3oyMFRrRTFhckpla3lQLU8wWUkyVVBIRnVLOENzNHhLTFpfMzdmSnZ1ZnVEQQ?oc=5",
@@ -1586,22 +1602,6 @@
         "summary": "الدوري الأوروبي - سيسي \"التاريخي\" يقود ميلان للفوز على سالزبورج.. وليون يهزم بالاس FilGoal",
         "player": "",
         "content_hash": "03ee8c8765ce2aa8d9087215b7602a1ecc3109076ee208178866dff158b87549",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 12667,
-        "title": "القادري: خسارة قاسية... كرة القدم لم تنصف الحزم - الشرق الأوسط",
-        "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxQWEk1Y0dXcWpNRVg1UlFwWGNGN1FzZkRUSWJBdHlwRWdkN3BnMkd0ODdJZDBxWTBuLTJpam5EQ19welJGTzZyRXVrMUpjSVhlUmo1Q3VvMU1aNFBSYUlzZHlpZGZvN2NBTnVpTXM2amxMQzFlbU4wYUxYaWcyTlJVVGRfdUI2czhxN1JodGVHTGNrX011U1o3dFVwTFItRW9ZQktZelRDWG1TOUltSVNmUlVfd1FQd0x4ZHVMY3JrLXVaUTJqbml4bS1DOXpjWnNHd0FYZXZhcFU0eHF4R25ESURMTHNaR0p2Ui1Wa3BrbzR6V0NqN19aYlVYVS1BUGF4TFlvMFRrUTZTVlFaM2ZQbHNZR3lNLXNxY1NQWkdRVlRQZkJxMDF2WWJ6N001UVJyRUQ5b19DY1BZZTVFcm0tUHBKZHhzNHkwMzIyNUxPYXA2eVNVQTdxdGRMcHhqTUtxc2lXMDhSaXlhejExbU51eEMxUGE3bC1YbTlPbFNnMC1kdzZxaTFKenpLMWJRSUxsZlRvTVFTd0h3QmJLMmg2T2FFUXNLQkRqNzExZjk5Y1FGUjRXRE1yXzJ1TEV0UFl2QmVmWHZzUGNkZHhTSlF2SWs3cnlHUVY4RVFJX1B1c3BHSTdZbWdjUy1FZWVQVDVDQjJyajJ5ZW8tbHVJMkE?oc=5",
-        "source": "الشرق الأوسط رياضة",
-        "trust": "C",
-        "published": "Thu, 15 Oct 2026 19:53:26 GMT",
-        "discovered": "2026-10-15T21:44:06.955581+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "القادري: خسارة قاسية... كرة القدم لم تنصف الحزم الشرق الأوسط",
-        "player": "",
-        "content_hash": "a0790ce1aadfe5acbaf3ea8adb089b45616038a6df3ab7ff498ea6b17d121377",
         "sent": 0,
         "section": "sports"
       }
