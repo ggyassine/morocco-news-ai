@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-16T07:32:36.046194+00:00",
+  "updated": "2026-10-16T08:09:08.826606+00:00",
   "total": 150,
   "sections": {
     "morocco": [
+      {
+        "id": 12783,
+        "title": "من بنغازي إلى الرباط.. هل يُعاد رسم النفوذ في ليبيا؟ - DW.com",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPcjRGREgwazhvdm5xRlYta3E0ZVVKMUtTMU5mMmJFRDVkNndzSXpoRTJlUE1aU0F0N0RRVmdmdUZxRTBqU2tLQlM4al9BYm1nU3dvR2tXbkhBX0x5WXlKMlVmX01UVUNiaHY1UFh2Z20zYXJvTWR2anZadnloWFV2WkFZQk9pNlZ1LTAyMkUtclQzSkV2a3dPNk5sdEJXNDExeWpSeTFic1dTUC1OYWJSWkN5RDI1RF9kU1dMTFdJdkIyQnpza2ZEaVhtaUU5VFBpMkVaTDltQVlGSW8waFlJNWlkZXgyOTh6MnA1VTFjdkFfMGxmQXZVb2RHQVBuT25NX1htNDNpTjByaFFmRTRLQU1pem5HNzc1VnNCbWtvNU9QQWVVT0dvTS16OHpFQ3ZySFkwUERocldCZjdCQ2Zpc0NkTU1KQmFRTDNVZW10WkFkVld5d0hjZ2dESFBGMWhNR3p5MFFqRjhqN3BpcmJfUjNvamZUOWxKWjEzXzhsWTVCN0ZLZ2hQcGRObl96UTlmc204cXB5bDR0dw?oc=5",
+        "source": "DW عربية",
+        "trust": "B",
+        "published": "Fri, 16 Oct 2026 06:56:47 GMT",
+        "discovered": "2026-10-16T08:09:04.833976+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "من بنغازي إلى الرباط.. هل يُعاد رسم النفوذ في ليبيا؟",
+        "player": "",
+        "content_hash": "6005890e004a1618d9522e6c909b668a3dcd1a360a26339906b84eb45d8bb05c",
+        "sent": 0,
+        "section": "morocco"
+      },
       {
         "id": 12777,
         "title": "خلافات أوروبية حول الميزانية الجديدة وسط مخاوف من الانتخابات المقبلة - القدس العربي",
@@ -786,25 +802,25 @@
         "content_hash": "d88b8efa586c66543f05646576267a79cadaf2e6c2067f81a314dbcaa990336b",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 12723,
-        "title": "قصة شابة بريطانية تم العثور عليها متوفاة داخل فندق بأكادير وعائلتها تجمع التبرعات لإعادة جثمانها – اليوم 24 - اليوم 24",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9YOVU1ZmpFQU8ydm0zSmVFeEpXUnNmSm55UVppY2Fsc0l6N2VyczZUZllmVDJRcE83QjVlc1JMaFVBX19COWRrblNR?oc=5",
-        "source": "اليوم24",
-        "trust": "C",
-        "published": "Wed, 14 Oct 2026 13:01:11 GMT",
-        "discovered": "2026-10-16T01:47:58.524278+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "قصة شابة بريطانية تم العثور عليها متوفاة داخل فندق بأكادير وعائلتها تجمع التبرعات لإعادة جثمانها – اليوم 24 اليوم 24",
-        "player": "",
-        "content_hash": "a5f61a66ccd3b72ff328d7c0cc7d7a89c8909365f3c94a850c9a00486acff3b7",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 12779,
+        "title": "أول لاعب.. رقم قياسي جديد لمحمد صلاح مع طرابزون سبور - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxQOW5hcXFSbjIza1JERE1DTm90Y2M2Mzh2M25yTzFmaWZEU1R1Vm8tS20wbk1HQndsSVlLMWxScmJkcEZiVHYzRXBSSXBBZDFBY1F0Vm9zMjVIZ2M4aDFkaGhXVjJFY3hKQUNId1dLWTdtT1ZsajhtY1UtVl9QVDk1M0N1ejJMYUoyY0JNTHpQZDhyTFhnNElWZjBvZ3U4RHBJV0Z2QXZ4NWVnNl90clMtQ0E5ZFozR0lwaVozR1JaRmR0RUlkY1JSUFlYUmp0bi1GUDl2WGpZeVlHdmRPTWdqcUh4cVNXVF83bkNnejIxRXdCQ2xES1BlbnZELVlsMG04ZEdJUnFYNkVCSkhMWkZydllmM29veV9lWmwwRlEtQUdydTRlLUN3WGVnZ20zLTJqR2pCTmFuOUtPNFNMUjBoc3luMEY4bzFZTnhka0JRTEVfNElCLXF6MzdMb0tiR0tROHpGTE01UTUya2VLWlhRdU9TckROamZCWHpEdDVMZ2RJWjNBRzNpQXlKRkFwNHdBRU5oZHl4cFBMV3JnemV0OFlVSTVJRlBrQXB4YVAxVS1XRW8wYW50SzI5UjgyRHp2SGfSAccDQVVfeXFMTnNqX0Y3clFFc2VfRjB3S2ZEVzlCdVlFX0JFdjBjaXB6UkY2eU9XN1NXa2FZWkxmZDVUNFFILWZRZktuLV9EWnJjbkstRGRjRFFPcFhvcFdvd1hVdDJ6X0tDdFBhRUZ6a2hzTTc5Q28wV183T2FJZGZRRjdVUE5pdnVER3FuSUxlS1dFVEhVdmdfaWxKVTZrNnIzTmF5VG1yTTl0R3dFQ0RiOVNaSG1DQjhlSTZ1RHRvdXk0Qjk3cjlPZld2VVZuTWZKWTAwbFJYX21yYUd6cFNKWm5WZGt3S05ldkVqNVRNbXFFUVpWQ1ctZVRmNTZtb18zY1VMU3E0aEpLMHdCVnFIVEFmd3lYTm51Z2dpOUhiWkxRaWp0dnJxcHZkSHNFRG1tWnJNX3dvb2hTbmJsbVJSbWlVOFhscjFrLWRiVERXVFk1b21KRjV3ajd4RGl3Yk9NNDNoVTU4LTFoa3hkaE5PMzJQZDFjVDEzbmtlRERNZ2trSzdvRjczOWlmVlJsdUx1QUtWNE13bGp2OVBST2VldThiOWt1b01VZk9iaF91VFdnNHhzbHZIYWFfQXZRVmdYcDB2eFlscXNPazM1S1U?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 16 Oct 2026 08:02:00 GMT",
+        "discovered": "2026-10-16T08:08:52.056778+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أول لاعب.. رقم قياسي جديد لمحمد صلاح مع طرابزون سبور يلاكورة",
+        "player": "",
+        "content_hash": "cc009d89d174afaabc8be8f14c686091b4003a4d759f22bc130b15de1a58c110",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 12773,
         "title": "لماذا يشاهد يامال جميع مباريات ريال بيتيس؟ - Kooora",
@@ -946,6 +962,22 @@
         "summary": "جدول مباريات اليوم - 16 أكتوبر 2026 - بطولة دوري أبطال إفريقيا FilGoal",
         "player": "",
         "content_hash": "82683dc2e0a3b4c747b3aa35278cac8bc9a7cb3e3042ca0ec6162de6e071d76e",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 12780,
+        "title": "جدول مباريات اليوم - 16 أكتوبر 2026 - بطولة الدوري المصري - FilGoal",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaVZndHVoZlVmdXE1em4xM0dSOF9RX0NMWWJ5MEpxU2NmUk9mOHplbEZCQkJfRHlfbHlBSzVGTmg2MWFYSGVpQVBFWjVwNkJFMnlkWjRJTDV4cGRHcXVtLU9PSjI4emgyNVRTckJPcS1jX21nb0RRTVU5cDRnSU1jSnpPZ2NvZFgxd3NfejU3RXJuc1hSeXowcFBDdTJvNFdKdGU3eF80WHAzVXRvcDljZW1tSUpBTWhRbkRIUnlLemthOUVTNHVVMkRPT3hZeThrRE9QQlllU3pIMVN0SllQZVdlWTQ5bExYZGV6enFSQWJWTkE?oc=5",
+        "source": "في الجول",
+        "trust": "C",
+        "published": "Fri, 16 Oct 2026 00:00:56 GMT",
+        "discovered": "2026-10-16T08:08:52.772502+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "جدول مباريات اليوم - 16 أكتوبر 2026 - بطولة الدوري المصري FilGoal",
+        "player": "",
+        "content_hash": "9bfef87a90195ad19881e8e4fb7f7796e1d69d28b15a0323a3e9620edf9d84d0",
         "sent": 0,
         "section": "sports"
       },
@@ -1572,38 +1604,6 @@
         "content_hash": "cfabf62f570fa9fd6fe85f088056ed5d030111c7ce41c80d6f26cc0e34dd86df",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 12607,
-        "title": "رغم غياب الكبار.. 3 أندية تكتب أول انتصار في ليلة استثنائية بدوري روشن - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMilAVBVV95cUxNM3J6Q2trWmpYRTNKa2Yzd1lwbUQ0RlM1bXNLV1lWVEZqX00tM0ZUQ2dWNGdvUVl1SFVHdURYRXdXN2RucHhCbE5XWUZ6Rk5jZVVFajE4SlVxOFU1X1dEZHBDXzZyc0ptS3hWNDgtdmhvTjJ4MURaY0p5RF9LWm4xY0d5ZWJiTG5EcGpqTXJmWGcxeFI1UkJiSUJubW5fdHB1Q0xxQXR5WXdZeDd6N2toN09YSnBTRDlyd0M5N0Rnc0tDbEhtamFqZ2NXMkl1SjZWSG92TmlFZFJ4dTUwVEpQelBZQTJpTkRFWmdGbWxwcGd0Q3dDSmt3ZV9pbXhCZnBYMVZTbXFVWFlZMVM1ZGVnSi1XeDAxOXRIMnZwd2MyNEk4RWZQT2taMWFUT3A0LVlTYnZqU0tWUEhsb2w0TnVBN2tSMHpRYmlqOTRsQjZmMUFfUmlqY2hValFCRG5Ld2lBeDVJRFlHdk9sRFRVRjcxdUI4QWtINjBIMmtRYVpzbDBwQzZuTWltN1pMWERBRmxza0pXcVlWcVlRN0pBZ2V3SWtfUUpldmtVbUZEUXRaU190TUdZT0ktZnpYckxSMlItZVhJc3dQOFBEa2w3cjJCR3d6bzJ1YmR3ZjR1NVZIdEJia2w2NUJGMmpYd3NyS01GSnNHOFhwMENHaGJ0ek4wMENXUzRZc2UwQWhzMFFkdHR6NC03RXFyY3kxc0w4Y2JSalBqUnd6UEpvaEFYalpKcW9UVV83TVFtanRTYWNMS1JqaFdleFlCejZHakIwOGc2ZGwxUElNb3dJZ3l5blNMeHlrQ1Z2WmJBMkplbGFmaU1DZXRPNzZ6OHlsLVduZnM5RVV2OFZkMHJ3RUV2cWg5TE1KWEM?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Thu, 15 Oct 2026 17:42:53 GMT",
-        "discovered": "2026-10-15T18:06:24.989702+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "رغم غياب الكبار.. 3 أندية تكتب أول انتصار في ليلة استثنائية بدوري روشن Kooora",
-        "player": "",
-        "content_hash": "b3e55272dd9f612113fbe511c0d2b2acd46c5c86173ae517d26d064f62618d3f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 12703,
-        "title": "لاعب أساسي مرشح للخروج من حسابات الكنزاري ضد مازيمبي - winwin",
-        "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPNkdlakVFZ1ExUnJmbVNpNVpiWFhwV1E4MTk3eGJBbzVsb05fZE9uMzUySGIxbTNEck1vVWJaQnlJTGRfSGRfUDBSSmEzRUtkbDR5VVItNnpiWHdjTzg0dlNMTkc1NXRWTVMwM0FpTk4wWERQemFlX2RCdzcwOFhIQlQyTDdIVWJvOTJXU2s1ME5Zejh2TnNOeGZGbXNkZEdTUGM4UWg5SGxJV1M1bU5FQ2syT2dvMzhxQ3d3U2FtUHdsSnFTX2I4RmMzdG5faGNOaDhScVUzMkxfMkh4R2tFVTNNMVZQUnlpZkdjZFlITExRUVB4azhpQlNFNElkaEE2R3ZnX19LNUVMS25TLTRWUGs0eTFlX0VuR2FlOGN1dHhZZlRxOHRrb2VSLUVfcFpYQ1FJYUxPczFRUmF4SUhRUnVheUFNMHdkU3NnMmE3U0U5NTA2VjNmVEVlYmpYWmRHV085OFFOM3lybG5RcWpYMkNUREFBbzVzd2pmSlpUeG9PMjRDeThoRThyNG5Sb3RJcjhvbjg2QWRTUDVZb1JGQjZUUVJwUzdDUWpBdmV2VzlEbGozYWtXYTRnMWN2Nk43NEpvNWc4Yl8wSHlISzYxdGlsOW4wTDBOcnQ4M1ZzNA?oc=5",
-        "source": "WinWin",
-        "trust": "C",
-        "published": "Thu, 15 Oct 2026 17:41:13 GMT",
-        "discovered": "2026-10-16T00:04:43.733264+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "لاعب أساسي مرشح للخروج من حسابات الكنزاري ضد مازيمبي winwin",
-        "player": "",
-        "content_hash": "ea441387d5397f27ecfbbea125343a2e5858e06c13109de3c5778a28ff19e908",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1944,18 +1944,18 @@
         "section": "transfers"
       },
       {
-        "id": 12278,
-        "title": "\"إم آي إس\" توقع عقداً بـ 47.9 مليون دولار مع \"مدينة الملك سعود الطبية\" - العربية",
-        "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxNTUk3Uk5kNVhhTnRCQ29jX0lnNDJsMUZhejhkeXprRlJrWFFQVHJKNnpQeC16a2ctYnNyQTExa0gtYmlMdkhZZVlDOWk1VU5VNUgtWV9ld0k1VnZHbkRkaThVUnVfQUNtVENBeVNqWVN1Mkt1OWs1UDY3M1NjUkFBRFk3UVRJb1VzelBaMGVhbGtISzBZN2hkYkt3QVNjaUdENnREUWx3ZlJ2VTMxcF9lMFpNdEtFVWVjWWVhM0NrNzJkMEQ5c0lrWUFROGRmSlRoX2VEVnduNDljYTBDTGI1eTNZa19JWFB0YnZIalhJYkhyMXUxNUVfU1puQ0hSem1zMTBWcWo4OUNaNmg2Qkpibkk4dE40anBNLVZrc1lsLVdKcHF3TDhlbjV2ZGgwQ19xU2xwYzFQS2J1Z3VXOG52OW9kalVIYjlIMkE0YXRCMURBUnBIcDFra3lzSVY0YW5KY0RrWk5BbG9QTHNCcTY5RXI5VUdFc3ZTd2piSWVQNFlTSEFtSTlWdDM2OUtPal9ZRlVfb21tSV9JU1NOVTA4MXEybXJWZVhRSWl4NW1CdW44enFmVlYxNE1tLV9pN1NIM0xkT0g0Z05tT2I4SWI5Tm82Ujhmemo0d2gyRHBCZk1kWmxwNWx5WC14OW9zeEFVT2FMd29lLXHSAf4DQVVfeXFMUE45c1c1UW40Z0RJSmlrQlFBcE52djk5elhvLUlKVHFtVl82TUMzdWRoelozNTgyamtMUmlnUU41R3hLSFlwdEtubXQzTVhNMTF5Y0pCcVhTQ3ZmQmxVamVqZHBfeG52OWFBWDk3bnFHSTdJbnFXRGlheXN4aWk1elotQWJ3cUVNcGJNQU9UcGRCSV81REkzenY4QlhFcE4zYm02aGZvcWpteXdRNHlfcVJ6VXJJZzNyTk1ROEhlMDFCa09laFVyeTRaR2wzQ0NaMXNvbDFoT2oyX2pHMEtPemhzanpQOF91QmY4SjAzRzFXTUoyOXVZRnJZNXptUDRNYlFOcGswRU9TaHdUaTladktrRFV3S1htYVZPQkxUX0pIZEQ5VTMwOGNGSG1qSkJXUHlDeUlzbGxlZ2JmNldmMVBVcUFITjFsVGxCdnhkNWpjUG9Qb1BaUEJTbW1iZ2NDSFRIZXBsT29FcG1sQXc0eE5FNmcxdldMZnNCajNhWi1VaXRGNHd6Ml9mSC1KTEVLWlQ5dHhlZm9jU2k2ZC1GU0h0WXo3UFltT3ZrTHRaY3BRQnpNaHI1UFhWcDFkWTQtdlQtLVFweU1WRHlHellBLU9BUkpEc0p3UFFackVEZTBIZ0cxbnBmYU5VRmtlQVdsN0lXVHdidDFKcUNTWGV3?oc=5",
-        "source": "العربية",
-        "trust": "B",
-        "published": "Wed, 14 Oct 2026 13:03:00 GMT",
-        "discovered": "2026-10-15T02:52:17.088900+00:00",
-        "category": "انتقالات اللاعبين",
-        "status": "رسمي",
-        "summary": "\"إم آي إس\" توقع عقداً بـ 47.9 مليون دولار مع \"مدينة الملك سعود الطبية\" العربية",
+        "id": 12493,
+        "title": "الرباط ضمن أفضل الوجهات السياحية العالمية لعام 2027 - برلمان.كوم",
+        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNbXAwdk1DWC1vVHNqeTM1VFI3aHFQNlp6Z0xFeFlGdE5qTG5sMjcxTE9rMXk2eVNOUVdvcU5fM0w4R01OMFgydnhfQkNtY2ptRkctSG5rdkFsQy15Zk5rRE9qQXJPcTE1MjJ6UUNUc29Rdm5ORml2ZTNkQzFCTVd0S3FoS2stNUxtc21kSzFSdWcyN1JlVEFqRXdUa1NCWWlyZ290SFRqdkVrRGVxSzV0bTlZU2dTcElQaUVkWERjZXJOUWtXem5iR2F2UDNZRExmOFo1LWh3Ty1nQjZQdDdidzV4VGlUNXF6R0tqT2g4TTYtNGRHRTNDTmlRdWI0TTE0Q2dpaGt5NUFYLWpaOHQ1YXY2YkFDcGFOb0xCYTFXT3NwMXJLNlZzSzBPMVBRSTNhU09OZl9nRjNtMjktSmxYdkJn?oc=5",
+        "source": "برلمان",
+        "trust": "C",
+        "published": "Tue, 13 Oct 2026 12:52:07 GMT",
+        "discovered": "2026-10-15T13:49:39.242602+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الرباط ضمن أفضل الوجهات السياحية العالمية لعام 2027 برلمان.كوم",
         "player": "",
-        "content_hash": "78b2b66127cceb09af3da02359f5e125849df0f716a0708ba7167c165cde0652",
+        "content_hash": "8e6d38e46dd535bc4e7cd9dd04583e4d6c42a1c787d1c748a59cbc8d3c2c59fe",
         "sent": 0,
         "section": "transfers"
       }
@@ -2316,38 +2316,6 @@
         "section": "world_arabic"
       },
       {
-        "id": 12280,
-        "title": "رئيسة صندوق النقد الدولي تشكك في قدرة خطة وزير الخزانة الأمريكي على حل أزمة الديون - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNMi1iWm9ZeGU4WS1POW1vYTZvVXRuQXFaTVBNc2pNZzRqRlZRWWJ1b3lZdmxmOG4wbE1mS0MtTzZSbG5qamdxZlgxRDlqejRNM2xkQlFhRF9UM0NjUkxqd3hudVVXUmEtSGpMM2NNQU9mZjdkMEV0YkE1TDRhNFdwXzRuemRfTGxYSVlhRVRwa2pTa2NmRVpiZ2JZWVY0SHlVVV9Fc0pONFhoaUFNcHBRY2lhSjJDemYwc2tfVEJtR0xPNDJnZmhTMXBlaUctNzI4cXNrSk5obEZwVGhUN0RSSkM4eWItM1Z0SUVnVjdHalRnUkZ5WHNpUmNGQTJmdnBMUkRBZVE2YWlCVnVBaU5TUFYtdnZ5QkV4N0JSVlc5SEtsWDgzcWZzWmRnUEZURjV0SGRJTG1jNW1XekRKb2lNbDh1aG01YXA5?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Wed, 14 Oct 2026 20:44:09 GMT",
-        "discovered": "2026-10-15T02:52:20.467687+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "رئيسة صندوق النقد الدولي تشكك في قدرة خطة وزير الخزانة الأمريكي على حل أزمة الديون القدس العربي",
-        "player": "",
-        "content_hash": "59756e3af58416fae8b9489c5361b6309071be8aefc5cf53da861ae7f329d8ce",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 12279,
-        "title": "علامَ تحتدم معركة الانتخابات الإسرائيلية؟ | جمال زحالقة - القدس العربي",
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOc1FBVTVKRW16b2d4TzZ4Ti0tcTNzZGdXX0VKNjRSVGpaaXNxNUFOZDhJMzZHbURIczlCeGxoYmlBbE5pcWRwVmZNbGRhRVYzRGh5bXUyTnlNVnVfcnFPbktNZVpaLTJtLVhVdWpwTzlhekpXZGtGMXNaeU1maHppaDFHb1dobFZjemFrNTZnY0dmT1dId1BrMDNya25LU0E5cDU0QnhYTkZSeFE4SFFocXVVdDZoVlJwdFU1T01RR1BMR3pDaXcxVzJkNDZ2MnU2WTAxODYweldQdHBCbnJLR2JCeEI0MnczMC02MTE4bkRxOXN5U3dMMTFxSlo0U1Yyekh3VTZTdzEteUN0ZXFHWDhXcnU4dkRGbUNHdGdGSm9LdmNER3ROd1dSM3NzbzFUMzMtcjVOSndFSGNlYnRGcC1IS3A?oc=5",
-        "source": "القدس العربي",
-        "trust": "C",
-        "published": "Wed, 14 Oct 2026 20:18:54 GMT",
-        "discovered": "2026-10-15T02:52:20.453268+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "علامَ تحتدم معركة الانتخابات الإسرائيلية؟ | جمال زحالقة القدس العربي",
-        "player": "",
-        "content_hash": "62c73253b2fd137a4e46ff5356ef5058d247ec62b51b1cbb39fb79ef5f1a6e40",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
         "id": 12356,
         "title": "إسرائيل ومعضلة الدستور: أي دولة وأي حدود؟ | رياض معسعس - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPamkyTk1oRGtmNHgwMTg5ZEtKemswLXdKcUxJcFpNRFljSEZQUWtCNmxHTHFyNHFWSzh2ODR0c2tCeERDN3hXZm95Rlh4OEFmNFNFX2p4QXZ5VEJIV25HZ0tQdERKSFVlTDE5ckdOSUVGYWd3Mmh1RXRqODY5LWVvRDFYbmE4U0ppTHpPQlZGa0hkaEpEWjJDNzhnNTN0WVVBRlhYZ2ZtZzFIcTg1QmxWQmZqZ3VxS2dnUUlEck01QVBzSEJpVEdnOTFsMXZrbDdWaW1hYlR6cmlLNnljVmJIaUlnWmpmYnVMVDJ0WGxQMW8weGdSZWQwTWV4N3ljRjM4ZGpHNkJHcFVMd1RNY2FrTUF0U1RYMGdLS1JmenZaRG8waS12ZWNabkZrSmIyTlNkRjRVXzJkZWFsaWctX0xOek85bmZpREk?oc=5",
@@ -2408,6 +2376,38 @@
         "summary": "الحوثيون يعلنون استهداف مطار الرياض مجددا بصاروخ بالستي France 24",
         "player": "رياض",
         "content_hash": "8b1ab896fdfb04d6323da4fbfd2fb2163de7632dc66c960ea912d7732aa54bfa",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 12673,
+        "title": "السعودية: حريق بمبنى لأرامكو في الظهران و4 جرحى بشظايا صواريخ في الرياض - France 24",
+        "url": "https://news.google.com/rss/articles/CBMimwdBVV95cUxOeUNTZTk4Z2NIUS1iWXpVSDROeGF5YTFWNWpJZ1k1RkhPVnM0cGpReGt6aEdTQmdoWm9YRGFsUktXa1FrNl9DOXVzUW1GYXE2LUtlN29VcGhncFpxTnlJQUZ3MV9rSTVMMTZ6azZXdkNFMC1DQnBQNS1vaS1mM3FkQl9EUURmZHBob2sySVFYd1pkSzdUdDdxT0hVaVRWaTNCWnl6S1FDOUJiYko4aFNFcTFqdEZaTFZvWkZYTnlyWUwxNkp5ZTd0N3RNSWxSWk1yVEt6ZlRSQm1fY2hqSDRzcDNNMHhYNUdZT0dzM3prUjhPel85U0JTTV9sdmJtRmRONUdxMVdkSHR3MExUMEhZWEJac1o4RW12a1JDekUxTEUtakVTeWtFcmM4ejFjMDFLOVJNRHp4eWNtQjk4bVlXTTZpa2pRc2xqZ2RpdVc3TFctS2s3aE5fblZFY1pQZXFDaFFYTFRvX1VNeEZqdWFuNWZ6OE5oZUZCUTVVMHRYd2l0VG5QNGZ1NmZGb092RmhyR0owajh1Y3Z4emZpQmROcktnNTBia0hjdHUydHBVSGJtdkRHUTh0bzdHaFJqcGdyTDlxckotQjRkMEdiMjdiUU9wb1pYNU5UZENNWGR5MmpqTlVyaWx6dGRXbXBvNGR4a3d4a2FDRDVZSmloTF93REFoUUtMOUZHLVdjdjluMWt3R3V0S1k4b1hjbFRsNUlqRUlIeWlXN1R6RmtFaXkxemRrLWlTRHhPWnphYUVfSUpRWjdpVHVFdGpRWjJHV2RKaGtGbFptSFZOeElJYl94aWxyMFZ2UFZhNUVUYzVUUkJJcFBqaWVkZDRSWFR4Q3h0TE5YUENjYzE3bWEwQlFUMWF2ZkFLdzJYeUV0UUhfTHJ2OXU1eTg3dGx6el83VkpPLW40c3I4SVppZDhMc0VyblM3R01kSGp0bndkdHN3cFdZWGs0MHRNRk02QzZHQXN4cjZsNHBZZE0tQk9YTTZIREhjS1VFS0J2R3RkdGQ5Nl9DWFV1cnc2MkF5eTBna0Zkb29UOTlTcVNxSkJUa0ZxTl9OZndkUlJrZU8zNklkRzRDRkVqck1BV0tfRjY2UnQya3I4Z0JWaEJhLVBvYjRnRTJTU2hXcnhtUlY1X2hzazkyZF9wSG40ZHVpZ0NONTloTEk1Z3hhY2hsWl81T25uQ1RfUFd3SWZ5VEF1VG1xdFd4ZzNsZHM5YTVsNA?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Tue, 13 Oct 2026 21:52:48 GMT",
+        "discovered": "2026-10-15T21:44:20.650247+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "السعودية: حريق بمبنى لأرامكو في الظهران و4 جرحى بشظايا صواريخ في الرياض France 24",
+        "player": "رياض",
+        "content_hash": "a5a388175ab1eda8b11725c31e6055a2d040a2ed9ba98ff310089b8fe671dc83",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 12397,
+        "title": "هل يُهدد \"الإيدز\" الأسماك في دجلة؟ … تصريح لوزيرة البيئة يثير مخاوف العراقيين - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zb3FSTFI2SmFiQXk2UkowdWlSRE9wQ3V6M29kWDRiRGFpRmZIUVd0ekNqZlpOTVlKeHJHZF9GUlg4WWlUOGRUZUp3OTNGYk5rcG5DTGNQcjhEWXpwcXfSAWNBVV95cUxOUDRuWElsUUtZa3BGSEZuMFdxc1p1d3huc0k2MmdyNjFfS1JEVFFMUTB5WlVJNmZSVFE4bEhKdTlrbWgwZDBzVWIyM3FDeE5GWmRqRzA0dnZQcEs2TXliT3g5ckk?oc=5",
+        "source": "BBC عربي",
+        "trust": "B",
+        "published": "Tue, 13 Oct 2026 17:18:37 GMT",
+        "discovered": "2026-10-15T08:53:06.194082+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "هل يُهدد \"الإيدز\" الأسماك في دجلة؟ … تصريح لوزيرة البيئة يثير مخاوف العراقيين BBC",
+        "player": "",
+        "content_hash": "a350038e3bd33e6dde4791b93da43f82b0c526019d327630bbcbb01b12c3f1dd",
         "sent": 0,
         "section": "world_arabic"
       }
