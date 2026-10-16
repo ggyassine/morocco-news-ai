@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T02:15:08.460759+00:00",
+  "updated": "2026-10-16T02:48:07.494147+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -532,6 +532,22 @@
         "section": "morocco"
       },
       {
+        "id": 12742,
+        "title": "حادثة سير خطيرة بحي الأمل بفاس، شاحنة تقتحم كراج \"السودور\" - هبة بريس",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56Z2NZZHRnTzBRLTh4UFNsLXlnbHpiUEdmOVIxUTJabDQ4SjVFWnJudFVmQTZDY1JiTExCbU9VT1l5YWdyejBsRl9XN2ZyRUNTcnBOczFlbw?oc=5",
+        "source": "هبة بريس",
+        "trust": "C",
+        "published": "Wed, 14 Oct 2026 19:40:00 GMT",
+        "discovered": "2026-10-16T02:47:33.561263+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "حادثة سير خطيرة بحي الأمل بفاس، شاحنة تقتحم كراج \"السودور\" هبة بريس",
+        "player": "",
+        "content_hash": "d6762a3cc44686dbd01073e255182dc2e0615b840be0f0ea133ed2afae675a50",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
         "id": 12488,
         "title": "الرابطة المغربية للشباب والطلبة تندد بزيارة عاهل إسبانيا إلى سبتة المحتلة - برلمان.كوم",
         "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQT2R1Y2E0cFpabjJPN0p5d3M1bER4UGdhR1Y0MG50cEtSNHpiUHN0aDV2MC1PVFczck41THJFN3VFRGo3Q2NKbFN6SHJQRjZEMUhTNWJub2s1QUNWZVhMZGVCM1c3UTctN0FhS2ZKakhGazhYMjl2cFVBZjRnaDdlWjdCN2tZUE5jZkYzWl81ZmFHZFhvR05CMFY3NHFrWm5UU1hIN1huanN5OThLa1BQN013MHlEM0hlLTNNMWlsQ2ZmSmVzelBUZzZSX196NWROYmFiS1VGNENLb0hMS1hSWGJPd19STHRwbExfaW5RX0cxWHNzSE1MbXFVdmllanZpcGZjaFYyVnIwbDk2N3dLVFhaVFpvQ3FqdHhURTFPODVBcWdxOFZLdjZQeHZ0WEY5YzZ0aHBCcTl1VkZySUpfag?oc=5",
@@ -548,18 +564,18 @@
         "section": "morocco"
       },
       {
-        "id": 12247,
-        "title": "افتتاح أشغال مؤتمر دولي رفيع المستوى بالرباط حول العدالة والذكاء الاصطناعي - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45cVgyUE5TeWpnZnl1UmNhT2xEMzlaSGFadW56clI3UWVHVk5tQUxYSjl4dWtUUXZ4NWdycXVkcnA1ck9DUnhTUXMxZEtaRGNtTUJSWFV0eDk5TktJODE5bDljSkZvdl9Y?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Wed, 14 Oct 2026 18:48:46 GMT",
-        "discovered": "2026-10-15T00:07:54.022697+00:00",
+        "id": 12743,
+        "title": "التويزي: هياكل مجلس النواب باتت جاهزة والعمل الجدي سينطلق بعد أيام - هبة بريس",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtcER4c2NWcE9wazJJZlhBb24tS0lxSUlmdTJ3WDlMak5OQnU3MGprb2FWSTlmaU92dWlkM05YTVVtU2ppaEdTeEhGU01qRHFpbEJZb3FaTQ?oc=5",
+        "source": "هبة بريس",
+        "trust": "C",
+        "published": "Wed, 14 Oct 2026 18:59:00 GMT",
+        "discovered": "2026-10-16T02:47:33.773034+00:00",
         "category": "أخبار المغرب",
         "status": "غير واضح",
-        "summary": "افتتاح أشغال مؤتمر دولي رفيع المستوى بالرباط حول العدالة والذكاء الاصطناعي Le 360 Arabe",
+        "summary": "التويزي: هياكل مجلس النواب باتت جاهزة والعمل الجدي سينطلق بعد أيام هبة بريس",
         "player": "",
-        "content_hash": "2e6a78eb4f8b16ce2cebee99674f3f2e4975e49d6bad5269326842503c1ec808",
+        "content_hash": "ef7916ad7e6dff38c058002a08696df245b5866d1009835eef47ba3c14b4b19a",
         "sent": 0,
         "section": "morocco"
       },
@@ -786,25 +802,25 @@
         "content_hash": "a6cfe370288b0b12defda6277d2707a0bb278281f0ea1d73617a612a05a004d9",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 12665,
-        "title": "المحمدية.. انطلاق أشغال بناء المركز الدولي للأعمال التابع لغرفة التجارة والصناعة والخدمات لجهة الدار البيضاء – سطات - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMinAVBVV95cUxNY3BxN2Y4VVdMNzd0UnRER0pSRGhoQ2RNTkVZSzlqNnlqV2lQbG11RjdpMi1xbVJXSmd1NU03MG1FNE9VcWpwRFNUcTVVXzhlUkMxN3EwaTdGTlp5ZkNPUERmMzc1Nk1jNTdyWHdzdUFHVE1VVGxSZGhiTkNUWHpVQlFwYzRIcTFUcEFWZWdfS3pVb1RMa3RYbVZBUnFNd0JUdjlrNFMxSEk3N3BzUVFhWTNfeW1maTRUcFdJT1czeFpUTHRldC1wWkl5LXk2Qnh1MUVrUEI5V21Lc05yOXRrWG1odmJoT2FLNUw4VVBpVkNra0FGNU9OV1VULU1JTkY5b1NTeW10VFU3OEpkckVTVHM1Rl9LdEhDWmpXaTFxYlB5R3F2UHpJbElSaTFGRkt1RGQyenVicGhucktfdGRUMS1Xd1huN2VWU3dWZ09HSlJ5OGlaRnQybE93N0dhaW5nNXFnTEV4WVBENzY3S0l2RXREaUN0VU9NTEJqb3VodDVoS2ZOeml4OEphcjFWb1YtUmRYRF9HYVcyeTIwNHQyN3NkQnZOWmNzZzdVZFNvVUp2S0YzMmY2R3g2Z2U5OVo3NjE5WGNoS1NyX0FxbzhSV2Z0VUd0V0Q3RlpzZFkwTG1lb2x0aU5yTmdqTnRZWndSYm9rWHdpbEp2cG40NDQ2NjI2eEQ3Mlh2cGZVVlN4dWJfX29IdVhRWkxTd2ZreVJ5TGxFUnhZMVBWWTRaTkFLRVNDQ0gtbjNtMjlLSDNVcWtBYzN4WnBOWkJKUU1YRm82enR0cml5MTJNV3hKR0x4eTdzZWdjLUZmWW1UanItckNzZkVfLV9YaUpJMlpLVDB4RmQ1aTI2cEZVenBUUXBjQW1JQ1M0ZXU2SGc1eg?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Tue, 13 Oct 2026 17:12:29 GMT",
-        "discovered": "2026-10-15T21:43:55.032652+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "المحمدية.. انطلاق أشغال بناء المركز الدولي للأعمال التابع لغرفة التجارة والصناعة والخدمات لجهة الدار البيضاء – سطات | MapNews",
-        "player": "المحمدي",
-        "content_hash": "9ca1e5a39f01e589cf32ba634e691da52459315e0a8ab61a23dc7cc109a9b244",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 12745,
+        "title": "أخبار و معلومات اللاعب خالد جاسر لاعب وسط الوكرة winwin - winwin.com",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPd2lyVm1IdDJKeGdMYWh5YndRODVQekJpZTd6YU1tWk13M1lzbmRYUFBjMUQzSDNxSVVyUS1LYTdGTTZLMmlIbEpLTjdubXgxRjBRVUtzWFdKSDdIemFuM2ZiZTVQRU4xZnowbmc1TmxrbzFJNUFMRkF1N2NrblZ1Rms1OXp0enFvRG5PR1p2NWxBZ3djdnVmdFZCclVVQlBhdDFVR3hTQW1nZ3J4UkRQZk1kcTRkaElXVVVVd2VCb0JJUV85MEdWcTMtNzZtUlV2T1AzVmdPeHI2SkJ3U1pPQ3JWaVJlM2ZKTVRJMVpzTEQ?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Fri, 16 Oct 2026 02:32:44 GMT",
+        "discovered": "2026-10-16T02:47:46.369082+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "أخبار و معلومات اللاعب خالد جاسر لاعب وسط الوكرة winwin winwin.com",
+        "player": "",
+        "content_hash": "88b481de7ebee9a81999b6cc51f1e55d4dd0fd6e3f976df3bebccaa4d2af8d11",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 12738,
         "title": "أخبار و معلومات اللاعب خوان ليلو لاعب مانشستر سيتي winwin - winwin.com",
@@ -1126,6 +1142,22 @@
         "section": "sports"
       },
       {
+        "id": 12749,
+        "title": "ما الرقم \"التاريخي\" الذي حققه صلاح في مباراة طرابزون سبور وكووبيون؟ - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN3Q4WGhiLUdHbTBoRURKRnptQ3RjMjdCblZSUThUSFEycmJ3LS1SMTlxaktjaDREV2VqUjU0NG5FX1lzZGwzSXZDaTV4VTNVYVRhaDlYUkVVRXhWTVpXaDdVRVR1ZkRBMmNfVGl4anJSZjhXM1Z6c2dkbjFHcHQ4dzRLSm82dw?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 20:20:49 GMT",
+        "discovered": "2026-10-16T02:48:06.689848+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "ما الرقم \"التاريخي\" الذي حققه صلاح في مباراة طرابزون سبور وكووبيون؟ CNN Arabic",
+        "player": "",
+        "content_hash": "845defadf02fbcad95419a323d05e8e7ea68e43a0ccf1998a23a49aeaeff1efe",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 12649,
         "title": "\"أرضية الملعب لم تكن عذرًا\".. أول تعليق من مدرب طرابزون بعد الفوز على كوبس الفنلندي - يلاكورة",
         "url": "https://news.google.com/rss/articles/CBMikwVBVV95cUxOU2c1Y2lPNGpYUGtuYnlRS3Vrd25ocGVlcWdCTmZjVHFpTHRwRGsyVUF0OHdNcG51OGtmMmk2OUhWOUpERU4wVGxKYW5wem5RcFRTZ2VwSV8wQ2NlT1BOUHBncnBsZXlVclByekRIbTNfVlQ0MjVab05lUENTbXFCTkNsUFpZVEkxNG01YThNV3V4RDhOVlFlbzc3YWQtNVdjVy1XenAtTW5NTkgxRFpEbng2U1hxNXFpQkduOW03a21BMGQ0ZDd4TXFuU2RHX2tsUExENmh3Ulc4RzgtME1GcTF4TWhUbl85eWxRSTN6djRsZml6ZVRSMWszSFkyWmRlX2p4OHgtN0VhbVY0c0RkZmIzS2N6T1RoOHB3LUNMS2dDZ04zZ05MXzZnMTRUUzZjQl9RWWNfNklnSmo5VXVyd0pyMUh1RmtpaUVxMVRtSmxQNXBVR3ZkSlhMTW54M3o5UXFQNXlST0tESU11Z0xCMHJUaWFsZk9TTHhyOVpFNHFCY0JCSzRHZGdpTEJ5R1FCMm1NbDJSZW9Ia1o5ejN6N1BMOERrNDNSdGRkVUtJVjZvN0J5LVg5ejVsRUFfbnlHZW1VaDMyZGFNMEc2ZW5SVXFVcDE3U3labXhNb2N4VFYzaGJJWDBJMjEzRVQ2UXY4WEU3VnJkRTdZQXNOWHZGcnh5T3dTZmI2SXBqU2VzQmtwSjI3MGs2N01JdnFmdGViLWJSWDdZdnhMNUI1OU1OLUJES04zSHkwTWhfXzdkZEJTUEl2N3JBMkVlVENEVklxdkdmVzdLc2JmcDZsenBOcjBJMzlKSjdzSnRRRTR5eExBclZiZlAtMGFmMndaWVVCUHdpeVhJZG1NQkYteThuTmI0ONIBmAVBVV95cUxNZzBTaS16ZjFuZTR2ZkoyN2FpVThWWWd2WlU0SGxUdlJGQUpMMk41NVVfSTFPcmNjVm5ZYnY0MERPWEtQRFROWVBqeWcwTEgtcTlnRmhKSWdXS0hETWluN2t3Uml3Y0doNkZlMkpLNTR6VURsLU9uQ1ZtYWgydzlDMU5FbHZUVC1rdjVSOFRjU1cxOW5FYmIyczZiYmtNR0JvWWMtTlBLVHd6d0wyTXJQWDlaVS1zOGgwLXR3aFNXNWtFT21feVZnYVI5TDNIRldIcm03bmdUcFhNd1hUbXE4SkVWR3J4NEdiNEVXRzlwWm5NR0ZEWFp1bDZ1TkNmRE5xOWF0YlVJbmNXZm5Hc2YyUkZ0X0hpYy1Md2VnUFdMdEZEZkcxclRtTndrbU55TnlOV3FoVkFyTDVKcVlpTmZvWTk5MXVoc1BQeUc2M3hzbDhscU5HNUV0THRmbC1UUnBzVjRPakx0V2VLTzQ5SHVVdTRtMmRYbE5OdTYzQ08tamc2U29lOGNlTUxKTk1kT0pSdXI4akhOcGJnZ3lic0UyOEF5ZWRlTndEUUJzZkgwX2xjcUw1b3pOaXlsWGZDQlBfVTRuTm1OMThNaF9QTUJXQ19SUllUSnBaT3JMX3U2M2gyMmoweVl5X2RYcDFtQ0VrZXhYSmdBU2RXNUszak5OZ1dEanplRjNJYjVXZnJ0R0xwZnNFUkpncUdReFIya3k5R25KZGVJcUZ0YmMwSzJUV0ZyMDFDMWdlSDBjUk50UTg4M0xjdC14V0dlZXZ4bkFSSTdsb1pSU1owUFJZVWc5VWRxUm90eVQ4dVg4V0Nzbi1OV0lDTEcxaWgta3BmczdYVHNpTTFUbmxqaUNEWGxoNzBSNUVaVm5W?oc=5",
@@ -1218,6 +1250,22 @@
         "summary": "بطولة إفريقيا لكرة الصالات - مصر إلى نصف النهائي بعد اكتساح موزمبيق برباعية FilGoal",
         "player": "",
         "content_hash": "2a8afbd6cc9ae5e98e6e36799fa9db81b7abd6cd2a57663850929f64d8dc7ca1",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
+        "id": 12744,
+        "title": "إحصائيات دوري الأبطال: ريال مدريد الملك التاريخي للريمونتادا.. وبرشلونة وصيفًا - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi5wVBVV95cUxNSWE2WnBVT25LY054bWJ4NGJUVEYzeW0wSFRwVWVDSmNRcXF0dEtvYURkYzd3TWM5U0toRjBQdjhUYWlaeDV3R3dMeHRxdEI3MHVQbmtWd1NKdXNtMjVpWHVOQlQ3TXM0SXNKT0hlV1UxSXBaVDFkT3VIZ0IwY29nWUtYTmNYSHVDUHZudTZ5eE1faVd5bmRMSnpacDJXUlNmVTZ3eWh1dVJ4QTJYcWd1NkgtTzJUN3JzbEVSaE5USWVVYTZ5SkZtMHRnVlNDZUVyNFdDMkFrSy1EM2FsSTRROHpHeWJwdWRWSXA3Q0ktTUE0Q0dpdldUT0NWQ2xuOFVnNXdESDB1RTRnV1hDN2FoN3NpUnlKLVRENHRxaXFvZTdrMW9KNnNMekJjbmZwSlRoRmRHNzB1Rkl3ZFdRaWM5VkkxZ0dwLU5KeHktSmJJODJoTTYxSTZ0TzVJR1FLNTRGRzluY3l3eFZPc0VYcml2OGhNUTEwdXVCVWp1ODF6Q3ZUMUcwME4yMXNnOWtSTnVoR1FqRFdwWTNUV0RZWGx4RlhEMzBRbFA1Tk00aExqRmpmbmF4LTVwZmp2UldkcGtZWXV2RWpBUjgtbEc1TDdHYVV2UVROT2xWWnlNZzZPSlJISkRtc3RQd2E2NnI0czlmand4bGdKS0luamROajVIQTdoQlNaYlk1Wm80NnF6OTg0Znc2a2pFbW4zUlhNdjRyMkJSQ2FVWmp4dUhPYnpudXJZU0w2X296VU52aldTTTdnQkdsTEJFa0I1ckVVb2w5NUdETUNlQ3Rja01RX1h0LTRfOWdxU2c4Q2dFVTVZVlBiajVFSjREa05lT3NxOWN2eGV6dXNsOWZBQmVWVDlZc0lhZTgtbFAxVGJOSjY2T0tSdkE3NUZBYmw4alFUbFBmckZVRW9MUnBxV3dKbG9sbXBDMVV4a2JhbmFpSTN6aXR5dHBjM0s3TEg5ajBDMTh3TWg2VEVIUQ?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 19:32:35 GMT",
+        "discovered": "2026-10-16T02:47:40.309329+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "إحصائيات دوري الأبطال: ريال مدريد الملك التاريخي للريمونتادا.. وبرشلونة وصيفًا Kooora",
+        "player": "",
+        "content_hash": "cc317168d43dfbc75bd257efb88e0bb41f9d8fd62eecdd308a7d8ac16d01b9e2",
         "sent": 0,
         "section": "sports"
       },
@@ -1556,54 +1604,6 @@
         "content_hash": "edce843459810721c1fd104c3bd3612efa9a86b24cffe6a5810fa38f4e860403",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 12615,
-        "title": "اللاعب الجزائري حيرش حميدو من نجومية الملاعب إلى الشارع - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UaDhoYkdTejdPM0NMOHBYRjJXRS1KUjRGOWhvUEtBV3RxcTl4UEs3NVBUS0o2eVlnb216dmRpRTJsVEJqMlpYYUZQQVEwVk4xdVEteDRUUDEwVVZRZHfSAWNBVV95cUxQZkE5cHRfSmFlZk9ENl94YXdPdlBXTmY1eVg5Vzl3Y2tWWUF3eVpmN1pSS0lJNGloMEtFbklKNXZpUlpodjE1RHMyckZSMWliTlBMRW1qaFptb2tSYm5UM3hWYlU?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Thu, 15 Oct 2026 17:05:02 GMT",
-        "discovered": "2026-10-15T18:06:44.165574+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "اللاعب الجزائري حيرش حميدو من نجومية الملاعب إلى الشارع BBC",
-        "player": "",
-        "content_hash": "edce843459810721c1fd104c3bd3612efa9a86b24cffe6a5810fa38f4e860403",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 12629,
-        "title": "بعد طلب المريخ.. بيراميدز يعلن موعد مباراته في دوري أبطال أفريقيا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxOQkEyVlBraVJUbS04ak84RjkyN1ZhUWtma1BGTHNqV2tRbDZLRVRjT3R5TlExMFUyamN4ZWJIR1JJNTBTU3BPWENwRjZvRVFBcnR6Rmo1b2FKVHdoM3NHOFZIQUZDOUpaRGdPQU1BR08xNjRBRW1WR25FbzN6NnRmY1IyR2xqVXVaQXRaaDR0WHZEZ1BjMl9sMVRxbVBvanRjeHRIM1hqMmp5UWxRRGFJN0dWOTRHbXJqbk5UWERyaExwVnpOdXNXMHZ2cGFOZ1N2M296V0dtZ1RLZzRvRE9idUR0RTF6eDhuZG9MbE90MWJ3S29fVW9OLWxRcU03M2RWWjRaelQycXROUUpLTlBuX0JXUHdrM0huWFhXaEtxZHNiMlhoblZiZVR5TUlxNmd1a0wyYjFtYzZmXzVacHF4a1ljdVZhaGlTSmZwOE5RUUxRNzJaYWt2Z3Ntek5UNUxRdnhnS2Y0SHRMeGEzVnlPaGx6R3hnU1BleXZUSEVhRnpnV3oyQjlON2FleV9lYjNDSGRqNU5ZdWpQOTNqMHVyY3pva093bFMwbU44OHRhT0FLWFBmVHJhS2Z3bC1Fb2x4cFpFblpwQllJb2dPcjZ0cjdOZ0gwb3Y4ZDhfeElKVERiUVF4Sk4tbTYtRTdPU2R1WEZCbmJJZzBaVFNUOTgyU3YyQlZXZnhsWkcxbjVGZEs0WGM0YXhleFZGYUdOMGRDMlN6RmdvMTRmcC1G?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 15 Oct 2026 17:01:00 GMT",
-        "discovered": "2026-10-15T19:16:57.006483+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بعد طلب المريخ.. بيراميدز يعلن موعد مباراته في دوري أبطال أفريقيا يلاكورة",
-        "player": "",
-        "content_hash": "11133818f70ce36afdbf1d60e9dc70be1e1fb385e8f1389b9c873721575de25f",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 12583,
-        "title": "بعد طلب المريخ.. بيراميدز يعلن موعد مباراته في دوري أبطال أفريقيا - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxOQkEyVlBraVJUbS04ak84RjkyN1ZhUWtma1BGTHNqV2tRbDZLRVRjT3R5TlExMFUyamN4ZWJIR1JJNTBTU3BPWENwRjZvRVFBcnR6Rmo1b2FKVHdoM3NHOFZIQUZDOUpaRGdPQU1BR08xNjRBRW1WR25FbzN6NnRmY1IyR2xqVXVaQXRaaDR0WHZEZ1BjMl9sMVRxbVBvanRjeHRIM1hqMmp5UWxRRGFJN0dWOTRHbXJqbk5UWERyaExwVnpOdXNXMHZ2cGFOZ1N2M296V0dtZ1RLZzRvRE9idUR0RTF6eDhuZG9MbE90MWJ3S29fVW9OLWxRcU03M2RWWjRaelQycXROUUpLTlBuX0JXUHdrM0huWFhXaEtxZHNiMlhoblZiZVR5TUlxNmd1a0wyYjFtYzZmXzVacHF4a1ljdVZhaGlTSmZwOE5RUUxRNzJaYWt2Z3Ntek5UNUxRdnhnS2Y0SHRMeGEzVnlPaGx6R3hnU1BleXZUSEVhRnpnV3oyQjlON2FleV9lYjNDSGRqNU5ZdWpQOTNqMHVyY3pva093bFMwbU44OHRhT0FLWFBmVHJhS2Z3bC1Fb2x4cFpFblpwQllJb2dPcjZ0cjdOZ0gwb3Y4ZDhfeElKVERiUVF4Sk4tbTYtRTdPU2R1WEZCbmJJZzBaVFNUOTgyU3YyQlZXZnhsWkcxbjVGZEs0WGM0YXhleFZGYUdOMGRDMlN6RmdvMTRmcC1G0gGyBEFVX3lxTE56dUZCWHpURHZXdE1DQ1N2YmYwZDZJdjA2ZmhWTlp2WGtDekdxcEJSekhEcWQ0eXlqQjNBdXVHYlFkc1NHT0l4YllGc1JjaURLazVGTzVPVnRWZFJMWWVSVTQ3Q05vbVVlVy1MWmtGNlpGOG5uZTg5WTZyRzRtUjM1V1dOVGxJN2MzS3k5VjNFLVhRbzBHZjVyVVhUc3lkYXAxYkJRNENnc184NkdjYW1WeEdtOHkxSXZ0QjhFNzVwY2daa1hZVFc4SWNWd3ZBSnZyM0doTXYzNVV5OWtZNGctcDQ5TUlLekp2aFhFZkF0akUzQTJxZE1rMHdUckhOS0EwajJ2R19ETnZWZzBPaW1VRkEtdlhRdldZYW1RRkx3cDZvbXd2bnE4YkI2STFYOG1pbExjbkpleDcyVzZzc0pJRVR3VnhQaE9LZF9SWWhiVUJxNlF4VW9NYXd3cG1XbF9fZWNVVnVwLUV2bVJiTWJfVVNzdDZBVWRfUHM0YjA3VXRydFMzTjVHQ3hnblVhUkpCVldJQ1QtdGVpOXh1VkgxSlZJS1V4UUFUU0lyRlJWYXNCTVpYZ1VTYlJVaFFCMHFWVHA2UzdnSHhVa25rbm1zWF8xUWJTSUpYcW5tNlFBbGJzRjBrU0dvcDA2OXoxQ0lYX1BDUU5ybHEtWlkzVXAtSFduYnl0c2NRMW9iWURaVURaWU9QWGY2STFrbXhGQjN2aUZPTDQ3S2daanJTckxnTVE?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 15 Oct 2026 17:01:00 GMT",
-        "discovered": "2026-10-15T17:37:12.075722+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "بعد طلب المريخ.. بيراميدز يعلن موعد مباراته في دوري أبطال أفريقيا يلاكورة",
-        "player": "",
-        "content_hash": "11133818f70ce36afdbf1d60e9dc70be1e1fb385e8f1389b9c873721575de25f",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1896,22 +1896,6 @@
         "section": "transfers"
       },
       {
-        "id": 12249,
-        "title": "ركلة جزاء وتسلل.. هل تعرض ريال مدريد للظلم مرتين في هدف روما الثالث؟ - Kooora",
-        "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxNODl1SmdrZGkzU1RXN2ZqdjNMdzVRTkhiVFVxOFNRdGZEWjVzWTAyV01DOFdDUzFWblJuUWJRcnpmeHMzTl80cm5DQzZpVVpmdzE4cHdmemN5VzJNaXp2b0gzdlp4SFFnTDRDLU1wSE8zR0c1YVpfM2xFVHBWUTZGNkhZVkxTNzd6aWhKdmYySkdIYVNMYll3a04tX2g5U3NJNDNLdENzOWNSU1hEd2xYeUh6U1pqY1ZISWF1bVV4U2FZYnpwclR5aVR5QVZVbnJQNTduZEcxM0lDMzdwX0ZhbnBXbkVGdEs0eW9seVpaVkY4ZjRMRWQwTmJPMWdDWUFwbUk4SG1XTmFTdnFRdDhMNHlyQzNCUFNXRlpmWUdHY0t5M1RiSXdhdERZbzg3bU9Mb3g4d3JPVHdnemhWVWNmbHFMbVB5ZmxTdVg5UE96djg0ZW1CNlA2OV9rdUZYOW9qcW5qM1MxSHp1TFprM2JrNzVCNkNRWnpTMG5hVVYzNGJLVFh3QTlMNE91TDByQlJ6VXZaSU9nSFY4eWNhQ1BoSlRDbzNrUUpyOG8wT01IYjBUWjRWa0R5Z2VIYUxkLXN6bC1fVFdCVzJfcjZsbGVndGhma1JPWFBTVFVtYmFlYUhwZkxzWVVncTZMRVhJSW41aUJSenoyREFtNkJUNllFVUdTaFV3WGUtMTNxRVg4UmtLOUNLbUtJR3ZLeS0yeW1ZU0VESzdHalJpb1ZmQ1htY2VXUTB4VjR2azdhZk9oRkVnaFQ5RzJiY2N0TGJmUmdPY2VLdDBUUW1RUk9YRkxsb1I0aFFIa0NZNE5R?oc=5",
-        "source": "كووورة",
-        "trust": "C",
-        "published": "Wed, 14 Oct 2026 20:40:21 GMT",
-        "discovered": "2026-10-15T00:08:01.093006+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "ركلة جزاء وتسلل.. هل تعرض ريال مدريد للظلم مرتين في هدف روما الثالث؟",
-        "player": "",
-        "content_hash": "05a335a0d6cd46f07436d8d213ea40ed33d47324e4e73042f2919573e7f25fe7",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
         "id": 12267,
         "title": "ضمن فعاليات «الرباط تقرأ».. لقاء يحتفي بالكاتب والفنان ماحي بينبين - Le 360 Arabe",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FY3B0RGRYR09tTndjVlNzTVYwZ1MwNTI5d1FpaDRkSVJaN3I1STE2cmp3YUVSSTNWanBNZ3NxcDNJQUFUdDRReWZGQ3hWYTVCYlpTNWFyRUxmQTE3RnJaQVF5TFVadw?oc=5",
@@ -2124,6 +2108,22 @@
         "section": "world_arabic"
       },
       {
+        "id": 12748,
+        "title": "مصر.. وزارة البترول تعلن قرارها بشأن أسعار الوقود - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSkhQeGdDSmtKWWVpblFWTWhLcDJ3RGF3YXB4d3cwUFBMNnQ3VUJYclQ2MF9KczVjVUg1VHVTM3hyZ05XdXl3bzUwVnRYeFdnZ3gtMTNkN2wwMmZfUDNYcGJ5Vm5QNjBaSlFhV3A1cjFVN1dzRXJ6TlJvbDRjQUhnQ0ZacmtGa0c3MmsyRlVwd3BaOVZo?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 18:10:24 GMT",
+        "discovered": "2026-10-16T02:48:06.686204+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "وزارة البترول تعلن قرارها بشأن أسعار الوقود CNN Arabic",
+        "player": "",
+        "content_hash": "29b154e43f0a4caf88dced2b0e666b2924f5d6d030b14b0cdd7c29abf1aaf6b7",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
         "id": 12614,
         "title": "الأكبروف يحذّر أمام مجلس الأمن من عودة الحرب إلى غزة وضم الضفة الغربية - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPc0ZCamxEb05OQUlFTnNLN1hCR2FfZjRDaHhDdTU5dWUxM1BnWkVXa2NLU2Q4Z3c0cHI1UVNzal9qSTlqY2pkenFOZjBKSTlJRENuWnpwV1JXMmtCUnpUMm93X0pubzZJTXU5VXMxM0pDNFIyZXpJVWsyd05wTEY1THQxVHhic0NTb3F0X3JoYk40cldCdkJwb2ZRT3BHR2VNUjQ3QU1xTnUwSmxNcFFMVjgzeklsTmRSbDlYcTJTbDgyNTdlcnV2LS1rNGM5aGJ4VllrU1dCWDhxQnFWS0tfcElBQi1VQW1qd2RkNjVKaW1CVDVHVVRJTWFDaDZZbWRrUkxMT09CTkx2RFE3TVRHd1J6Rlhzb2VnV1ZISGJuZmNkZHRKZmttaWRxY2NnSklfd0wtRUt0aE5pd1hCQVBNUERrV3NzNzA?oc=5",
@@ -2184,6 +2184,22 @@
         "summary": "المملكة المتحدة: معرض فريز لندن يطمس الحدود بين الفن والألعاب والواقع Euronews.com",
         "player": "",
         "content_hash": "c3977b5f663b0cc92ae5ccd59937c093f689318283e83104029ecfb9975bce1d",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 12747,
+        "title": "قادة الإمارات يرسلون برقيات تعزية للعاهل السعودي بضحايا مطار الرياض - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVTFVeFFMOHJ4akhMS3ZQRWJwNzRKSnE4djlzemZ2T2UtM2RtTGZEcXZWSUk3MU1xZmpTVUItLUctT0JZTDA2dzA3LXQ0aVRqU3RudEhSWEFCbWdHdUlYX3RFYklvRUc2dk9Sbk9iemFILXc1QmpTdE5CWnhxenp6U3pZOG5qdjM2b2wwWllCQmVBRGNMQzFqZ292WGhHQW9ZYk5DN1hLZ0xrX29WYVZITjdB?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 12:58:44 GMT",
+        "discovered": "2026-10-16T02:48:06.658249+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "قادة الإمارات يرسلون برقيات تعزية للعاهل السعودي بضحايا مطار الرياض CNN Arabic",
+        "player": "رياض",
+        "content_hash": "ea4f8f89940aef2c88c214c4d03a3fd0ad38a9e85598db3404efbf8516bea593",
         "sent": 0,
         "section": "world_arabic"
       },
@@ -2392,22 +2408,6 @@
         "summary": "السعودية: حريق بمبنى لأرامكو في الظهران و4 جرحى بشظايا صواريخ في الرياض France 24",
         "player": "رياض",
         "content_hash": "a5a388175ab1eda8b11725c31e6055a2d040a2ed9ba98ff310089b8fe671dc83",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 12397,
-        "title": "هل يُهدد \"الإيدز\" الأسماك في دجلة؟ … تصريح لوزيرة البيئة يثير مخاوف العراقيين - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zb3FSTFI2SmFiQXk2UkowdWlSRE9wQ3V6M29kWDRiRGFpRmZIUVd0ekNqZlpOTVlKeHJHZF9GUlg4WWlUOGRUZUp3OTNGYk5rcG5DTGNQcjhEWXpwcXfSAWNBVV95cUxOUDRuWElsUUtZa3BGSEZuMFdxc1p1d3huc0k2MmdyNjFfS1JEVFFMUTB5WlVJNmZSVFE4bEhKdTlrbWgwZDBzVWIyM3FDeE5GWmRqRzA0dnZQcEs2TXliT3g5ckk?oc=5",
-        "source": "BBC عربي",
-        "trust": "B",
-        "published": "Tue, 13 Oct 2026 17:18:37 GMT",
-        "discovered": "2026-10-15T08:53:06.194082+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "هل يُهدد \"الإيدز\" الأسماك في دجلة؟ … تصريح لوزيرة البيئة يثير مخاوف العراقيين BBC",
-        "player": "",
-        "content_hash": "a350038e3bd33e6dde4791b93da43f82b0c526019d327630bbcbb01b12c3f1dd",
         "sent": 0,
         "section": "world_arabic"
       }
