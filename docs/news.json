@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T06:13:57.027957+00:00",
+  "updated": "2026-10-16T06:57:41.571028+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -304,6 +304,22 @@
         "summary": "المسرح الملكي بالرباط يحذر من حفلات وهمية Febrayer",
         "player": "",
         "content_hash": "5124b20df2ebb3c0104e2f7f47bd8f430c67263548a51f0a611da2ddfd942213",
+        "sent": 0,
+        "section": "morocco"
+      },
+      {
+        "id": 12767,
+        "title": "بعدما فاتو البريطانيين….المغاربة اللولين فالبرانيين لي عندهم ديور فإسبانيا - كود",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPRjA2eDd6VkxlVXY2b3Y3RUZwa240SDYyZ2k2YWRHZmhSQ3NieUtVbXd3UTF3V2dpU0ZzSEthcFpseEtqVUxjT25OS2JKTVJvWlo4b0ota0RNOGVhQzUwWEdjaUd4YWwtOWZ3dkJtNzJzT2VmOFlGeVQxbHp6ZlZWcG1UWUJTeWpYbGpVeTBnNTJ4OTFQU3RmSFozeHFGb2xYQ2p1MHZHVDQyR2dyZGtOZkhXQm13NXdoNEZwRlMyZUdjeWk2WTJfbEdaemg1bEpNYTAwRl9YeWM1N1lXdkp4VTM5aGNzVXZieHNLRThJS3hVMW9DSW5iY3FUNzBSZklfdUtUdnl4aFlvYmZmd1loQU04MF8wVkozVzVuZ3EwZWdjNWtpc1FIMVZraVNtaEhLMmZyMC1CeEVtVTVCSDNBTzFaZGlzN1Qx?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 13:38:22 GMT",
+        "discovered": "2026-10-16T06:57:13.962595+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "بعدما فاتو البريطانيين….المغاربة اللولين فالبرانيين لي عندهم ديور فإسبانيا كود",
+        "player": "",
+        "content_hash": "11b2fd75c301da50aa409fdf83d5d32e082752b2665e1097d037379555c9d624",
         "sent": 0,
         "section": "morocco"
       },
@@ -786,25 +802,25 @@
         "content_hash": "74342ad516338d5fa51ab2a7c2917d4efd71b09fc3236992d611a4a2448ea34a",
         "sent": 0,
         "section": "morocco"
-      },
-      {
-        "id": 12547,
-        "title": "تعيين السيد إدريس لمجاوري مديرا عاما لتكنوبارك المغرب | Page 31 | MAP - | MapNews",
-        "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxOYnVGZnk4b3p3MEhSeVU1SmdoNjdnME1hWDFzWWV2dm1yM3Z1M2ZGLVM1TWt1Wk1aMGR1VXkwRDlPaVpRdmk4dlVPZGRLanBkY3MyVm1DQ0FCd0N6SUNCSmxxb2FZRWVPbVdPdjJIclpRUmxyOUYta2pCNnd3N01Dc3A0REZ0bVNJMGhQMnFXTVVqUU41RTZwa0tsT21sTWxqclExRExwTTJILXJyUFNSWDF4cjI1eWlIeERFTDFhTTZDai03UkVEbWNZbU9uOVJQeXhHMjNVUV9ITnBGZXZGUUxtVUpPUnBhUmFUNl9OdkFSQWcwdnQ0TV9qeDUweF9GTzZlVWdzYVFQa2w0TFdZQUV1b1pwVTd4UTF1TXVzVnMyWWlNRExmSGhNa3ZpRFh3Y1R1TnJpa2RydC16TjRLelZtRmFHT2NzSHk2SFdZX3J2bXZjOGdyV3l2OGliV3R4U21weWpjQVN1Y2FEcFBxbUVQVzI3SmVTQ1hqMmIyU3ZsTG9BMlFnUEp0WXVwVW9jYmRlZEhxNUF0TlZsQVc5bmtVZFlaeENEX05Ocm9YbjZ6X04yWHZmTGE4bHhBVmhpa3hvRlhoVXJrMFBZTklselQtV1JUbnE0TEJEZ21STWhvanRlYkFiak1pV2c5WDVXV281NHBaTmk1UnJWNnc?oc=5",
-        "source": "MAP عربي",
-        "trust": "A",
-        "published": "Wed, 14 Oct 2026 07:11:54 GMT",
-        "discovered": "2026-10-15T16:00:06.891631+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "تعيين السيد إدريس لمجاوري مديرا عاما لتكنوبارك المغرب | Page 31 | MAP | MapNews",
-        "player": "",
-        "content_hash": "20ca4e8b188054448ec094d984830a3f312baee73a06efc053827e7a904d058c",
-        "sent": 0,
-        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 12768,
+        "title": "هجوم إعلامي.. هل يتجه الاتحاد لتغيير مدربه؟ - Kooora",
+        "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxNU0o2S1Nwd1NvbWxlQndEOXBkZzNqUDduRE1laDJKTlVFQ2xiRllWMlNvV19LTFNUQnN5aU1zYzVhV0F4ZjB6OW1zYnZXYVNqS3pudkJROEhOZ2RtTGl0bUplempsQk1GYlBvNjVCWEhnT0pwUTVwdnh3M3MzMWY2dktHRThKSUh1REt2b3NDVlZFenVPdXVRTklKNDBTRkZZbXItU3ZkUjR2M19ZRTFOV1Zvd1ZkZDJWRzVySkhNbkJSQ3VJbGZKSlcyS0QxOW1MaV9iWVVMTkoyNnZud3hrVE41VVdraV9QUzdlYWhXbUZlUjZRVjdjeTRMTDFhLXJpTk5lTVFQcDlTSnBYTUpzcFd0YzY2Vy0xbXhFdGxwWlI3aGFoWnNNa2ZfYUFNYTU2aXhJcVQ4MjdOM1JIZHpad0FJQ0dnY01BSlZYUng4Rjk5U3k4RkdyRUdHbHlveUNhREdta0N2NVNOZlZRYjN3eXZhblRXaDlTZDJ1Vy1LQWpUMUl1VnNFVzlVdHp4X05ZckRGOU5oZjZsZmpFQm1GSGNQX2JuUkZCd3gxcmdDQ3ZoSTh2THN3Q1lXTDZwWWRReEp2WEhOcGJNamxpSzRGdDdaUQ?oc=5",
+        "source": "كووورة",
+        "trust": "C",
+        "published": "Fri, 16 Oct 2026 06:46:51 GMT",
+        "discovered": "2026-10-16T06:57:17.526318+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "هجوم إعلامي.. هل يتجه الاتحاد لتغيير مدربه؟",
+        "player": "",
+        "content_hash": "2e4a5f319ce61d17910db1b59e0ce5dba72be76d261b934048dd1fed272c664e",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 12745,
         "title": "أخبار و معلومات اللاعب خالد جاسر لاعب وسط الوكرة winwin - winwin.com",
@@ -1588,22 +1604,6 @@
         "content_hash": "e098aee5f61ba54c7f392ccc4c9dbc69ca4bab9ba7e2b652ee7f9bfc120b8e03",
         "sent": 0,
         "section": "sports"
-      },
-      {
-        "id": 12584,
-        "title": "مباراة فريقي ويلوالو أديجرات و الأهلي طرابلس في بطولة كأس الكونفدرالية - الدور الثاني - FilGoal",
-        "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQcFpLMkg1dnhLMjJtWV80dVF6a2p6Vkd5R3VjNkx2WkRTV3hRNkNqNExwMjRtaUFNRWw1aFQ4aGR4d1I4VmN3WWxIYnhBVXFJRnhERU5jS3hNM2xOV2EyYWpERHN0ZlUyNGNEQVN0SXJWRWgyaHNxUFJ4V2JrUlNmM2xTVGRWNkotVFRfWjM2Q2ZyaDF5Ykk5QWRZVWJ0RlZGWTB6REwtVnJwYTFIY2tNQlVQeE9RcE1jM2wtYUNmNUFsQ1RkYjhOZkFCVXdEbHhtTTFaNmp0NEtHU2xwb19tM20zNlpMd1lrTVZfTmtJbXd6VUJoajEya3NQTWJLb2c2VDkzaHBxRDJHXzFXYXlIUERuVElMUVdnRHQ0anV1bFg4MGNTMXl0N0NQdG1OeVN3ODhtZTV3NlRCbFA0TEluXzB5ZDdKellYNnVqRlRJYVN4b25uRVhNTGp4NWNxLXlHYUpjSHhYWjNOVnotanpLWUtOS2kxNG1iTHNMNTlEYTd3ZlBTOGJ3dGJSeWc3S19jSWRvdlF1R2RaNmRXcXZhdWZCMGNVejBWT2ctdE1fRFkzNEJRdlduckNoSUhxcEdTUVV1bkt0RnJCSmlrcVNnZVJfNGVpMWlVOUNqb1I2eFlzdw?oc=5",
-        "source": "في الجول",
-        "trust": "C",
-        "published": "Thu, 15 Oct 2026 17:30:02 GMT",
-        "discovered": "2026-10-15T17:37:12.665826+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "مباراة فريقي ويلوالو أديجرات و الأهلي طرابلس في بطولة كأس الكونفدرالية - الدور الثاني FilGoal",
-        "player": "",
-        "content_hash": "7fb3d5a7f19c17f6246c181fe32756cc7e25d46484c7e49dc62682659bdb47ac",
-        "sent": 0,
-        "section": "sports"
       }
     ],
     "transfers": [
@@ -1908,22 +1908,6 @@
         "summary": "هاني سعيد: لم نحقق الدوري لظروف خارج إرادتنا.. وهذه حقيقة ضم هاني ورحيل مهند أو مرعي FilGoal",
         "player": "",
         "content_hash": "8ecd382ed97d65e58aaad6aa9eb83dbfac16aa277aca97a1a88ec689b0d17d2e",
-        "sent": 0,
-        "section": "transfers"
-      },
-      {
-        "id": 12267,
-        "title": "ضمن فعاليات «الرباط تقرأ».. لقاء يحتفي بالكاتب والفنان ماحي بينبين - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FY3B0RGRYR09tTndjVlNzTVYwZ1MwNTI5d1FpaDRkSVJaN3I1STE2cmp3YUVSSTNWanBNZ3NxcDNJQUFUdDRReWZGQ3hWYTVCYlpTNWFyRUxmQTE3RnJaQVF5TFVadw?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Wed, 14 Oct 2026 20:13:55 GMT",
-        "discovered": "2026-10-15T02:17:01.535411+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "ضمن فعاليات «الرباط تقرأ».. لقاء يحتفي بالكاتب والفنان ماحي بينبين Le 360 Arabe",
-        "player": "",
-        "content_hash": "ce2ea05e8de05aa5e92ced19cf16d569f8ee3275ad3f684c456a43daa229bdfd",
         "sent": 0,
         "section": "transfers"
       },
@@ -2408,6 +2392,22 @@
         "summary": "الحوثيون يعلنون استهداف مطار الرياض مجددا بصاروخ بالستي France 24",
         "player": "رياض",
         "content_hash": "8b1ab896fdfb04d6323da4fbfd2fb2163de7632dc66c960ea912d7732aa54bfa",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 12673,
+        "title": "السعودية: حريق بمبنى لأرامكو في الظهران و4 جرحى بشظايا صواريخ في الرياض - France 24",
+        "url": "https://news.google.com/rss/articles/CBMimwdBVV95cUxOeUNTZTk4Z2NIUS1iWXpVSDROeGF5YTFWNWpJZ1k1RkhPVnM0cGpReGt6aEdTQmdoWm9YRGFsUktXa1FrNl9DOXVzUW1GYXE2LUtlN29VcGhncFpxTnlJQUZ3MV9rSTVMMTZ6azZXdkNFMC1DQnBQNS1vaS1mM3FkQl9EUURmZHBob2sySVFYd1pkSzdUdDdxT0hVaVRWaTNCWnl6S1FDOUJiYko4aFNFcTFqdEZaTFZvWkZYTnlyWUwxNkp5ZTd0N3RNSWxSWk1yVEt6ZlRSQm1fY2hqSDRzcDNNMHhYNUdZT0dzM3prUjhPel85U0JTTV9sdmJtRmRONUdxMVdkSHR3MExUMEhZWEJac1o4RW12a1JDekUxTEUtakVTeWtFcmM4ejFjMDFLOVJNRHp4eWNtQjk4bVlXTTZpa2pRc2xqZ2RpdVc3TFctS2s3aE5fblZFY1pQZXFDaFFYTFRvX1VNeEZqdWFuNWZ6OE5oZUZCUTVVMHRYd2l0VG5QNGZ1NmZGb092RmhyR0owajh1Y3Z4emZpQmROcktnNTBia0hjdHUydHBVSGJtdkRHUTh0bzdHaFJqcGdyTDlxckotQjRkMEdiMjdiUU9wb1pYNU5UZENNWGR5MmpqTlVyaWx6dGRXbXBvNGR4a3d4a2FDRDVZSmloTF93REFoUUtMOUZHLVdjdjluMWt3R3V0S1k4b1hjbFRsNUlqRUlIeWlXN1R6RmtFaXkxemRrLWlTRHhPWnphYUVfSUpRWjdpVHVFdGpRWjJHV2RKaGtGbFptSFZOeElJYl94aWxyMFZ2UFZhNUVUYzVUUkJJcFBqaWVkZDRSWFR4Q3h0TE5YUENjYzE3bWEwQlFUMWF2ZkFLdzJYeUV0UUhfTHJ2OXU1eTg3dGx6el83VkpPLW40c3I4SVppZDhMc0VyblM3R01kSGp0bndkdHN3cFdZWGs0MHRNRk02QzZHQXN4cjZsNHBZZE0tQk9YTTZIREhjS1VFS0J2R3RkdGQ5Nl9DWFV1cnc2MkF5eTBna0Zkb29UOTlTcVNxSkJUa0ZxTl9OZndkUlJrZU8zNklkRzRDRkVqck1BV0tfRjY2UnQya3I4Z0JWaEJhLVBvYjRnRTJTU2hXcnhtUlY1X2hzazkyZF9wSG40ZHVpZ0NONTloTEk1Z3hhY2hsWl81T25uQ1RfUFd3SWZ5VEF1VG1xdFd4ZzNsZHM5YTVsNA?oc=5",
+        "source": "فرانس 24 عربي",
+        "trust": "B",
+        "published": "Tue, 13 Oct 2026 21:52:48 GMT",
+        "discovered": "2026-10-15T21:44:20.650247+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "السعودية: حريق بمبنى لأرامكو في الظهران و4 جرحى بشظايا صواريخ في الرياض France 24",
+        "player": "رياض",
+        "content_hash": "a5a388175ab1eda8b11725c31e6055a2d040a2ed9ba98ff310089b8fe671dc83",
         "sent": 0,
         "section": "world_arabic"
       }
