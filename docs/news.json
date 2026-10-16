@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T02:48:07.494147+00:00",
+  "updated": "2026-10-16T03:13:48.112147+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -784,22 +784,6 @@
         "summary": "البرلماني الخطاط ينجا يستقيل من مجلس النواب برلمان.كوم",
         "player": "",
         "content_hash": "ece19e15a16dd3bc0e0740fa51acc37c95345184db21282ecfdf56282e84b97e",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
-        "id": 12293,
-        "title": "مواجهة العرشين.. هل تفاقم سبتة الأزمة بين المغرب وإسبانيا؟ - DW.com",
-        "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxPeE9VVzliTnJNVUZOMVdKeXpteVdhM0Y3UXYyZjdKYmhWZkhocG5RNU9OOXBWTHR1VVhiWGdHVVVMWFdiT1c0UkVITlg4S2p1Rm13ZXJxRDFyaC1pandTVTFuMGlvc2hrcTFWM3FDa2ZocmJnZGRLRldBYjlHb0FsUGJDSHpxMEgzbUFkNVlheUZFNEhPN0VYMy1rU0l6TjhQV1lhaG9CRDFVN3A2a1BycjB4aGcyUWR5cVN2bGI3YmxneXJCQ25oanBKMFNxNVpoMGtZN3BNMXE5ZFZlYWhTZzM5aGlCSmNGWXNULVRUQTRiUUZFM011dzJlaW1zcDFrUVJ3dzV2NTdQT1lIcnlscWdzaXNBWDJOU2NkbkhhWW9QU2ZsUHlFbnlQbzJfUzk3SGg2Z09tdFhzNzdJUFliSzQwdWw1a1d1YUpPT0hQNjJna0R3R0JJV0gxNExBc2RRZEtLMjhRZjhHeXlyZnNSaFdZSjViZXRmMUZKdURhNEpMSDZSZG9ibktDZ3d6UjMxUDZNZ0FZZHEwWUd5QWFZU1Vzcmt2MlMwSXRzSTZ4ZV9IMUVJMVdCQ1o0SUVxS09yWno2RlFkR1ZTWlJCWUplSg?oc=5",
-        "source": "DW عربية",
-        "trust": "B",
-        "published": "Tue, 13 Oct 2026 18:38:57 GMT",
-        "discovered": "2026-10-15T03:50:56.608509+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "مواجهة العرشين.. هل تفاقم سبتة الأزمة بين المغرب وإسبانيا؟",
-        "player": "",
-        "content_hash": "a6cfe370288b0b12defda6277d2707a0bb278281f0ea1d73617a612a05a004d9",
         "sent": 0,
         "section": "morocco"
       }
@@ -2200,6 +2184,22 @@
         "summary": "قادة الإمارات يرسلون برقيات تعزية للعاهل السعودي بضحايا مطار الرياض CNN Arabic",
         "player": "رياض",
         "content_hash": "ea4f8f89940aef2c88c214c4d03a3fd0ad38a9e85598db3404efbf8516bea593",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
+        "id": 12751,
+        "title": "مجلس التعاون يعلن تأجيل القمة الخليجية- الأوروبية في الرياض بسبب هجمات الحوثيين - CNN Arabic",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQclVqT2VER0pFNjlPd0tfaXkzaXdtNVgyLUVQMFljVWNwNUdNOTBhRmNsdjQtUHBlZklDWEhtMkVCOVlRQW5Nb2Vxc3ZoaEw2Zng4YkZfS2pLME9UeEg0QmlFalJ5UkcwZmcxTmVraTZkRmF1TzF0WTM1bmNEWVN3UDI3OFNfeGg1UXM2cVd3blRNQ040Wk9Ub2pzZS15S1pDckRhSEVzQm5JRmZLdFE?oc=5",
+        "source": "CNN بالعربية",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 12:32:29 GMT",
+        "discovered": "2026-10-16T03:13:47.255134+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "مجلس التعاون يعلن تأجيل القمة الخليجية- الأوروبية في الرياض بسبب هجمات الحوثيين CNN Arabic",
+        "player": "رياض",
+        "content_hash": "8a0fd778f6653c44f3980ec12de12b2a5731e1c4136762cf2eb87184a72105b8",
         "sent": 0,
         "section": "world_arabic"
       },
