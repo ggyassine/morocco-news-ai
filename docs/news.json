@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T09:13:30.362504+00:00",
+  "updated": "2026-10-16T09:44:54.877143+00:00",
   "total": 150,
   "sections": {
     "morocco": [
@@ -772,22 +772,6 @@
         "section": "morocco"
       },
       {
-        "id": 12294,
-        "title": "رئيسة الشرطة السويدية تشيد بنظيرتها المغربية بعد إسقاط 5 مطلوبين في شهر واحد - Le 360 Arabe",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pYjI5ZFVxamJkQU91dGdRclJlaFJXQzlGdEZUWmpOLW1hX2k1aUVQcVJsOGJnajI2R3YtS0JaX2F0VEpKelJ3VTQ2WllVMVh6cTR1aFV5eDNYWEp5R3BHV3oyQTJ6VXVo?oc=5",
-        "source": "Le360 عربي",
-        "trust": "B",
-        "published": "Wed, 14 Oct 2026 15:03:24 GMT",
-        "discovered": "2026-10-15T04:17:07.739818+00:00",
-        "category": "أخبار المغرب",
-        "status": "غير واضح",
-        "summary": "رئيسة الشرطة السويدية تشيد بنظيرتها المغربية بعد إسقاط 5 مطلوبين في شهر واحد Le 360 Arabe",
-        "player": "",
-        "content_hash": "fd38b2ce0df75897714f8e520b9948b2b07f39fcd38ddad4dacdcab6f44f44de",
-        "sent": 0,
-        "section": "morocco"
-      },
-      {
         "id": 12561,
         "title": "الرباط .. افتتاح أشغال مؤتمر دولي رفيع المستوى حول العدالة والذكاء الاصطناعي - | MapNews",
         "url": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxQU0NhdjJnZnhGUDFmR1lwbk93MHVGSzEyLXNoQVJiZG5VTERCbTl0Si1Fc3I0cGMyVllpU3ZOZF9KWE05TWZuR0lxVEN5Y1FDa0VTOEx3bmhxZTQ2ZldHSTB3VVo3aGgxQlphRUU4aFJjMGxPXzNnbDZRaERyRENsN1htQ0ZDMk5UdnA5Tnc3Zm9tcm9IWGlNcWw0Nmc4dDA2aERuU0F6T0ZpY0JDRWp5cUUxTy1YZTI3bzVMS0pWNnotS3lMYVowVFlFNENyUnRkZXMzcE8xcmcyQmV1cWZVQnBFbjVUcDVpVEttS3hra1pFNVJfVkU5S0xQbjNWeFNQSGk1d1dIVDVwLVNOc242OEg4aTNfMUVhTnU0UVBzME5LS0UwVzJNbnlQWWZaZUw0a1RxUWtXU3hpV1p5WklfY0xlcDBHVWRqSDJYRGtQeF9CUFNNd0did0dSUng5RDUxVzRRcGQxd3BseGdOUjRueERMSURsVXFaMGFyR3JkcUliMHNRY2RyOWx0LTRlQnptYVp1RmN1QkxLZFdFMGlwdU9mTFpSblM0OGNheWJKRlR4TEMyeE8tWHNhZVoxU2FOUTVYV1BaeTZlbmJqVVdvNVVLVEFOeThwWlR5dzFkWG5YbENfTFdpLTF6VHJ3elhWYjBzT3E3c0piS0c3S2xWNWprb0JhVEdmdmVXRVdNS1ZMSnFtSXdzUER5ak94b25tZDNJRURPY0tId2JNb256OG1tQmhPNWVCdjFKVUZRTHRkcGF6dkNvZk9JLUU3cG9qR2xFWFBveS16RU03dHZKY0VKaGdLVHVXcWtSSERtRWI2NlhSRFlv?oc=5",
@@ -802,9 +786,41 @@
         "content_hash": "0a9e01f17864989f273f1374a0cb17a9fbd5fb38ffbe009ba039ab96b6852a29",
         "sent": 0,
         "section": "morocco"
+      },
+      {
+        "id": 12563,
+        "title": "الرجاويين كاينين فالعالم كامل ماشي غير فالرباط. ها علاش مشجعين د الخضرا حضرو ضد الفتح واخا جمهورهم ممنوع فهاد الماتش - كود",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNY2l4NU5QTWJLdmJfd1otRmFPMjR6THVubFlPcFJJOUU2cTRFZXRlLUhsY1BsSEFnYUFxVTBXdVBTQktUdFlHeDVFNXdrekdpay01Q0tYeE9pcFE4OF9VdjlkRjVTV04tbmpydThKU1MxbkNPN08wZzl6MzRONy1QbW5QUWJHa1cwSVE5U0JTRHFkb2I1UjZKUUliU3BUSkszaDJWNlVpOU9OZjB3YUJrZ0hFLWdtbkVzSUp6OEItQ2U3aHRXYmNSeXA2YjJMbV9rSTZ6ZDRLbWZCbUZ3NW96dDkyVTBTUE8wTHZwUi15VUhVWTRrT3l6M0F0eUJXQzM2cjE3dEpJdzdBQUtseXJMcTVlRTNLWkJvZXZDd2xJRTI2NTVMamd6Q1NOYzdiaWlHaVNLUURkVnh4cU1tNkJDMHFwMVByclVzRlE?oc=5",
+        "source": "كود",
+        "trust": "C",
+        "published": "Wed, 14 Oct 2026 14:02:17 GMT",
+        "discovered": "2026-10-15T16:30:55.249561+00:00",
+        "category": "أخبار المغرب",
+        "status": "غير واضح",
+        "summary": "الرجاويين كاينين فالعالم كامل ماشي غير فالرباط. ها علاش مشجعين د الخضرا حضرو ضد الفتح واخا جمهورهم ممنوع فهاد الماتش كود",
+        "player": "",
+        "content_hash": "d88b8efa586c66543f05646576267a79cadaf2e6c2067f81a314dbcaa990336b",
+        "sent": 0,
+        "section": "morocco"
       }
     ],
     "sports": [
+      {
+        "id": 12797,
+        "title": "مباراة راتشابوري و شنغهاي بورت - يلاكورة",
+        "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxQTjRkY0dpXzhHdEZ6NFRMYXlrV0l0VElVQ3hHby1ibDJicVBlNngtTnh5ZDh4NzZBSDNWWW5vY3ZFRHBDZldEcTFwV0ZoNERHckRMYWJ0cTdGTlUtZnpSSFJHSFJ3d1Y3NFczdjZNRUpUVU9OWHVRa1hlMHk1YnhCcUxaaGhGbl9qcjVtOVNBbFhOMlhubHd5X3lKajFhY29mTy1OMGkwSGtHUVdDdXJJU25LTVpnblgxNXV4Yng0R0dqY2NUN2VNRlhuMGNmVnpqSnBIUldCYVVTSGVsZmxjWk9hM00tc2l1NkNRMjRvQjE2TGZYcHhPcHBnSjV6dFctUUZqMG04aDFjRWRFeVJpWUdDeWh5ZUFSYzVEc1NDSkhzVWJGSzJkZ21WRndyWFdYM29CUXBSLWlMMFZKTld4RFZPeVM5NXV2RW1OQXlaLWZxRXRqZm1VVHNtai1UZzl1UThxTXkwamZSN2h2b1RFVnN2dzdpekp0UTBXT0t6QkdrRGpHXzBuWnRzUlNwZmMxeE5Ndk9aWHpwWjVOQVFtbjFhcERrNUNreU15blF3?oc=5",
+        "source": "يلا كورة",
+        "trust": "C",
+        "published": "Fri, 16 Oct 2026 09:43:49 GMT",
+        "discovered": "2026-10-16T09:44:38.279527+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "لم يتوفر ملخص مستقل في المصدر.",
+        "player": "",
+        "content_hash": "1b83a2a0cac773045de64490dade3020d9d9c4c19225a8d46d49be959e7019d4",
+        "sent": 0,
+        "section": "sports"
+      },
       {
         "id": 12792,
         "title": "بداية مصرية مثالية.. يونس إبراهيم يتألق مع برايتون في دوري المؤتمر - يلاكورة",
@@ -1350,6 +1366,22 @@
         "section": "sports"
       },
       {
+        "id": 12795,
+        "title": "المغرب والسنغال يخسران معًا.. الوجه المُظلم للمحكمة الرياضية - winwin",
+        "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxNZ3g2MDNOQ0ZCY1ByMnNBWkJLQ1FQb0dzbTNiN01FZ2stU2g0UGlEUHNYb3hPbkdUV00wLTluc0dYQ2NJdmI4TFFoTzZrRV9JZGN5aXpSamJEeU9NaEtYa0VUVnRQaENjUTVkQlJnWkF3VUcwb2lZVXFvVFI0SGtzSjVGOXlXWDVmMk91N0NQSkJnR2o5VnltQWxmMzFOR0czLTI1ZUxRdXc1bjVUeXVfU3ZpTVdGbnBvRkY2ZVFYOG0wWS1TUjFjTmowYVM5LTZ2cHMwNU1OZ1RHMzBXYVZEUVVVd21KbkR4dTVvQk5pMkFqMnpRVlNKeTlNTXViSUJjNFdQQ1ZDQXVJVGcyMjliX1pBVWpPLTRHRDl5bTZWT1BWeE1VRHlkSGxIWmtORlB1Qk4yNnhqMTZaR3oyVlN2aVZnV1JIX1c0OFVnR1IxLVc2RlpfSWx3V2FNVXZFRnFWTTJHYmdCRXdldE1nckdPbzlGZk9fWVlCOEU4X3pmZ0VrZUxUQUV2TUczRGtTQnVJMHhFdTBDdFhfczlWWlJhZkh3NXpraDg3MXE3RmF4eEVtNWVBVl83dzhnaEpWSV8weEw5QUxicVlteWtSbHJGUU5CMXhTLUp3TDluQTQ1WWRLUnpuYnpIMTZLbV9ZR1VWdUZVbFBITy1lVmFtV1dxSUh1d2lGdFVCV3RPUjRJb2xkTlRXNmc?oc=5",
+        "source": "WinWin",
+        "trust": "C",
+        "published": "Thu, 15 Oct 2026 20:41:17 GMT",
+        "discovered": "2026-10-16T09:44:37.556817+00:00",
+        "category": "الرياضة",
+        "status": "غير واضح",
+        "summary": "المغرب والسنغال يخسران معًا.. الوجه المُظلم للمحكمة الرياضية winwin",
+        "player": "رياض",
+        "content_hash": "2dc811bc0f5e131ef4924c8b828f57882c867e4d520c99ec48c0e3fef90b948c",
+        "sent": 0,
+        "section": "sports"
+      },
+      {
         "id": 12642,
         "title": "السلامي: أبلغت اللاعبين أن كل مباراة بمثابة نهائي - الشرق الأوسط",
         "url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxPOVhpTllBZS0xUUlSUFdSRGJMWDRrM2lxSXJheEo3MVU1WVBYWERPaXNYTHdFLWxfRHZCN0tDRksxSy1QOF84cHZsNlRfdnM3U3dkNGFUdXZTSUY0aHZ3cVlEWWF2bFFab3hmZzI3MDhQbXNmZE5kLXhiZ0ZVVWhRdDdHWHZ5TFNhVlY1MWxrOGJGWWUyQkx3Rjc4YmJ6SFlGY1pKQ1VMcFd3a2l3T2ljN1lJZ0RlN2NtU1RWR1VtYlFUY2c1ODY5cG13MGtwczd5VnZYbmxQWC1IX2E3RU4xcGY1R05LVV93N3dBY1RxSzIwZWo2WEdMRmFtUU0tTnJGZE5lNzBEcEpfdnFTN19fYUhVLTh5VUEzeG9rMElpSzRqWjhheWRsUVJzUlVlVWNZeVRQNkJJTzV5ZGZqclZ5Mk9tMWtaVU9jU2s0QWdQbTJLN19ENmQtMU84VEJZQS1JU2FvMVk1QU1TYkcyemdNSWItWFVMRlJ5Q1dzaXRjZjA4bUwyd2F0V25CR08xaU5ubnRPNmt2YzdjSV93NWRaZk5jZk5NMkpMSl9NRzlXMUwwdlk5WjZHQmQ3QWNuWlBYdkFKN3VJeTVDMlJvc3c2S1VraWx5U2NMeXF2RUhReEZCMGl6UmktZ0RTYnNUMTFTQ1hEUFVESjFKMjBzNmxrUEk0SE8yOGlXVVEwb3RWbnhLRHBrSGRSdjBxWUZXRHRBWmJnUW9R?oc=5",
@@ -1570,38 +1602,6 @@
         "summary": "إعلان تأجيل بطولة السعودية الدولية للغولف 2026 سكاي نيوز عربية",
         "player": "",
         "content_hash": "20de3a487a3fa60c3e9835b2c60e3e417c25d758604c078def0ffefb941abcc2",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 12630,
-        "title": "سجل وصنع.. صلاح يتألق في فوز طرابزون سبور على كوبس بدوري المؤتمر الأوروبي - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxONHhEWGwzTEo3dXU1UHh5ajFoX1Vzd3NLZVlYa0pYNEUwNElyVkZBV1htMFh2OG9zellhY004ZkhMOEJ5TVVRSTV1N3ZzMGdYMnl0RHk2Q192WVE1cVhJVUowQkk3M210d2c3SDlzeVZOZkdCOUhoaVFYT2F4NUNoNzhjM1lNTEpleE1MUGlkeVR6QVMtWUhDeUdueUg5TzJIdFJEVFlMdVEzNk5WcHgwZjdmUUtMQXBYRkFSemJrMDZBc01zVlowdFlQZ1V0M2w5OHFkUnVqSXZhZ1JiOE5TZktNN21Ub084clpUeTNkZDlUckNxamxfZU1nQWNZU2hOUlBmVGdqeEtaLVluZlJVaUNxdWpISW8xWUNKZUpwZVJyeWdBNG1HZ3RlTkdUa3lobDEzV1NpckN6ZGlHWE5DakpEWUdlai1aeWxYYjV0YU9mTjNRSHhRTWwwNVVPeVpnc2VDbVhSM1B2UHgxSC1fWHI1dzEzNEhkSmpQbi02bE5la0pWazhFYzVmSnpmQk1FMDRYQ01HcGhuV2RaUzdDNmJiODlJVFhfak4wbk5tVUt1dmF0NmlqZzQtVGlxRV9NSGhoWU1USGtzU0ZBTkNjYlVqREZYWGRXc1lvckhXbnZfZU5VdU9qWFFhcVBxaG92YjRTcHlyRzBELUhGUXBQc2U4Nk91cnE2bWNiWGN0dlU0SXhELUx0QUJQcVQweEppV2NlV3VWdUgtYTUtX0lseDBIbUc2RzEwa0FJLVAyWHdkSVkzZVlSajdsLVoyUkdLcE1lVXp1a0dtd3BKd3cxNlNzTXZ3UdIB6wRBVV95cUxNR2x3ek82NTlURG5ZQWRPUGxRYmxsbXhrMDBGN3FxSmdLa0lBVkZHbmgtOTA3dlJ6eHBfM1Fxd0xkMkdOTnExeU9IX3p2T1lKNEYxRXhYcUtuWGdjOG51TXFLYjR1MWE0WFo3Wm5kYkIwMng0MUlxSDE0UWtIQ1JUeUt6UVhST1BFY2VHOE1PRWlmb2xranp2a1k2SnFhRzFnekxHNTd5NmRhamFpY2NtUF9EY05zaFc0TV82VmtpOUNSel84NEh5R0NKc2tBZUhXY3huZE1vU1JONVFzYXpRZGxqd3BDUWdjUmg3YXk2MGZkSGJ2ODJCZ251QThYa1BDakhMbm9QZVFJZC1BUk1OT2RyUEZKel9CMXZod2hEWDlGU0RfM0JYT29DaEd0dU5xUlZweWEwVnZtOEozNWY0dERTV1VUZ2xmY3I5amtlUnVRNU45cmUzcHRTdHFiV1BUWUpFdGxSS0lfQVVLeW10aUpsdXFpWkZhalNGaFh3dl9mRHhYN3BiMTFoMTVaa0FqMk00U21yWjhndV9FVDVuOEp0cnJSRnZTSVdNV0ZrNG9PLTNpVDE0REdyM3h6YTNOWXVJOGpLYmhLUWtsSzRvSm9PU055MkJHQmZBUjJvenl3aWYxVFY5Qkt5dDh1cjMyYzRhVXBVbTdYQTdJS1c2OTltc3ZzZEc4RmhiZjVhQy1EaDYzYUNJOXlac3h0ZUYybk5DLU5fMDhreDNJUERsMk8xdkp1ZjlYcTlnYVdxWmd2MTl6WVA1cGFhWVNFRTIyOE9IdWJySUQzZEx2dXZkSjJCUER4OFBGcFRj?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 15 Oct 2026 18:43:00 GMT",
-        "discovered": "2026-10-15T19:16:57.015637+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "سجل وصنع.. صلاح يتألق في فوز طرابزون سبور على كوبس بدوري المؤتمر الأوروبي يلاكورة",
-        "player": "",
-        "content_hash": "24ab9c118c6ed7e6093ea85f51abf42e20b089d39697ea84ef14391296a05944",
-        "sent": 0,
-        "section": "sports"
-      },
-      {
-        "id": 12619,
-        "title": "إبراهيم عادل يقود تشكيل نوردشيلاند في أولى مبارياته بدوري المؤتمر - يلاكورة",
-        "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxQblBrVTF3NFNfM2JRZE1fTmliY0Eya2lIbG1SMElacjFDOFVYR01IVE1xaUFoby1JdENoUFhTZUdrS0NoRS1kb05uSDBWeFBJeDA2cGt0cXpMSnVEMk9iY2VlSXFuNDlxT25IdlNaMmt0bURpYjVSenN6eGJBVFFWbU5ReVU0emtlVlVJdkhTengzOUtQZEllTC1yNjBHeEFQVldjQjcyY3h5czBtaXJKZ2tzVVJ3d2ZoTG5DSUhaWWRnNDFqTFhZWjJhMkh5U1FGQ0NFdFFpbk1razJKVXRPOWYxeXdoa2tJRWlBRWx5V0ZFRWRJMkplOFk3U1hvWmZDODRTeHdsMkFZRjV1cGJXQ1FPa1VWSjBseHZCTUdaNUFvWEI5bHFwdFBnYVRjbmllYjlGdE1XT1RvblF5aGpSbmc4eWV5QzA3eHdVdXVVdjI2UWVCRlNyTlZzNllUaDVxUTJHNXVJejVuQW9yS3BCLU9JeEJIMnZSQ1p1c0dnX3JGMzZYNFNUYl8wVWVBeDlkYW1mRmRNQl9idmlVcEVsbDFLZ1R5eEtKTG1veVM0cVU4WXIyaGRuS2xfbWgtR1N2NWNhR0J6ZGJndy1YRk5fMnFSNWRSN0VvSk9VQkx3QVRhbXVsQ0E5cjhWWE1TSWo4Y3RIZFBidGlWQlMyRUFKZnNhT0NyOXNqSlFzb1NQUUJDbnNwSjdwcnFhd25EcHJTZ0xfT3cyMHpQdjJKc3UxU0ZFQzcwM0h3eXFaQ0lvdVY1UmxHcVpPUlRB0gHPBEFVX3lxTE5XaTJKMWc0TmVEZnZTTzlHeUc1NEl6bGMySk1vdzdlbjR0RXp3MHpsQTVxMDdXYnhjMkNYRElYSzRhWjJxMVhtbmx3ZEcxZE83enViS3I2N2xzRGZhamRTMXI2R2lhdFdEVEk2eEduWHlMeGg3Wl9ra05sSXUwYlQzVUdRdWUxUDRNLVpvd0pRR0ZmeUlYeXhuekdZSlRyeFlaTnBXYnhNSktpWmsxNXR2UWtWYTlmaWU0MGZfQ2NoN3RJUE5KazZKcWdOdzdlNDFzdS0yU0dWS3MxTkNoaEFzY3ZxcHBRQkdSZHZPbGR6S3lsS19Icy14d0pMVHh1TW9DaDM5T0hYc2lNT0FoTXBka0pmcS1MVWxnZG5fUlhqeGVDa1h6U3VmSjBJUjhxV2RDcUhYNDNpUjhaRW1TZUl3Y1JraFpDZWpqLWM1MWktM3AwclN3YTRwMjlQMWlPMktCa3VacjBuMlM5WUkySmJwbGRWRjRTVnZnMl9FTS1EUThBZ1FxclB0VXVGcDVobUpVanliYkNMTzJxU3JWSVBKblJsUEJMSTFYak45OWhBMnRzUGlRV2xNQjNVTE4xdUhuMTA4X0JMNi1OSE8tUkZSUjItcmk5SzRJVmludXBxYlEycGlKOS1EMGp4OGlxQkVvbmtsRDl1THY3ekdLWjlwSEpjcXB6dTltbTVta3dwUS1SS0hMc2RKbWMydk9tOGhJQk9PWDBXT2lmMmwzU19CU3JzZ0FKZUdzWTR2dmhOYnI1N2p1WHVuVjJpelFwNA?oc=5",
-        "source": "يلا كورة",
-        "trust": "C",
-        "published": "Thu, 15 Oct 2026 18:13:00 GMT",
-        "discovered": "2026-10-15T18:42:03.111968+00:00",
-        "category": "الرياضة",
-        "status": "غير واضح",
-        "summary": "إبراهيم عادل يقود تشكيل نوردشيلاند في أولى مبارياته بدوري المؤتمر يلاكورة",
-        "player": "",
-        "content_hash": "6581b7593b025b6b1df15afb6f899d3d1767936dc384be538e726f0c9ea9ff2c",
         "sent": 0,
         "section": "sports"
       }
@@ -2076,6 +2076,22 @@
     ],
     "world_arabic": [
       {
+        "id": 12800,
+        "title": "ترامب يرفض إعلان دعمه لنتنياهو قبل الانتخابات الإسرائيلية.. ويفاجئ الجميع بذكر منافسه أيزنكوت - Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX09nWElIWHpjX2tDLXpibElrTmFVbTRGSEE4VzVqWFRiOFU0bTB5LUtXY1hnRE9wUjJoYTZBbkpERjlzOUtDZVM5ZkFxZ2swdzBUYkRQOERNWXBnejh5ZkFyTjJvY0FvT3U1S3JDZFZIYmxZZmVyX1J3NDN5TFdoZGtZVU5SVXRuWHpN?oc=5",
+        "source": "يورونيوز عربي",
+        "trust": "C",
+        "published": "Fri, 16 Oct 2026 08:26:53 GMT",
+        "discovered": "2026-10-16T09:44:52.193003+00:00",
+        "category": "العالم",
+        "status": "غير واضح",
+        "summary": "ترامب يرفض إعلان دعمه لنتنياهو قبل الانتخابات الإسرائيلية.. ويفاجئ الجميع بذكر منافسه أيزنكوت Euronews.com",
+        "player": "",
+        "content_hash": "8b76e6770ec7398dca6c8262bdabb26307d6209811cc7c0243e73102a0288371",
+        "sent": 0,
+        "section": "world_arabic"
+      },
+      {
         "id": 12685,
         "title": "ديمقراطيون في مجلس الشيوخ الأمريكي يتحركون لتعطيل الاتفاق النووي المدني بين واشنطن والرياض - القدس العربي",
         "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOQWpCcnBXaTdLc01ydU5SY2xVa25IUFZVNkVNdUJORVpwLU5adkJURC0xUDJ0TWVrYUFhWGFqRkI0Z3BUTzZDeFZxTGEza1RmQ0xoaXFjem1EbmVKQktmUFNFUGdJbUkzOWRaQUFKVkFqbW5CS1RBTVRfVXk3M3VhNG5lYU5kNkdaNFM3TnJ3OXhMQnhEdUF0czRLbjlILXRBSHp3bEdnRDJjLVdzMWtORk5xcGpMZ3c5RXFDeVJhdTI4UENoM1N0a2dVdWJENkJINUlKc1owY2VUbzRZQzJsUlpWN3VmaHVLTHBFbk5lTVNNdXY1NjRfSkcxRldNNFVKNmRnVkN5N0l0dDN1WkE2VGY2d3pKeVhJMEw1cGtFSFlpVm1ORTRMN01wQllyWkRfaHhvUVFfNmJvZ1liUFlQZUxpM2ZYQQ?oc=5",
@@ -2392,22 +2408,6 @@
         "summary": "في بيت الزعيم... استعادة لزمن الكرامة والصمود والتضامن | عبد الحميد صيام القدس العربي",
         "player": "عبد الحميد",
         "content_hash": "552a5bfc856c02183ac975c469b480462baa69898f5339193139c71c0cf4f8de",
-        "sent": 0,
-        "section": "world_arabic"
-      },
-      {
-        "id": 12673,
-        "title": "السعودية: حريق بمبنى لأرامكو في الظهران و4 جرحى بشظايا صواريخ في الرياض - France 24",
-        "url": "https://news.google.com/rss/articles/CBMimwdBVV95cUxOeUNTZTk4Z2NIUS1iWXpVSDROeGF5YTFWNWpJZ1k1RkhPVnM0cGpReGt6aEdTQmdoWm9YRGFsUktXa1FrNl9DOXVzUW1GYXE2LUtlN29VcGhncFpxTnlJQUZ3MV9rSTVMMTZ6azZXdkNFMC1DQnBQNS1vaS1mM3FkQl9EUURmZHBob2sySVFYd1pkSzdUdDdxT0hVaVRWaTNCWnl6S1FDOUJiYko4aFNFcTFqdEZaTFZvWkZYTnlyWUwxNkp5ZTd0N3RNSWxSWk1yVEt6ZlRSQm1fY2hqSDRzcDNNMHhYNUdZT0dzM3prUjhPel85U0JTTV9sdmJtRmRONUdxMVdkSHR3MExUMEhZWEJac1o4RW12a1JDekUxTEUtakVTeWtFcmM4ejFjMDFLOVJNRHp4eWNtQjk4bVlXTTZpa2pRc2xqZ2RpdVc3TFctS2s3aE5fblZFY1pQZXFDaFFYTFRvX1VNeEZqdWFuNWZ6OE5oZUZCUTVVMHRYd2l0VG5QNGZ1NmZGb092RmhyR0owajh1Y3Z4emZpQmROcktnNTBia0hjdHUydHBVSGJtdkRHUTh0bzdHaFJqcGdyTDlxckotQjRkMEdiMjdiUU9wb1pYNU5UZENNWGR5MmpqTlVyaWx6dGRXbXBvNGR4a3d4a2FDRDVZSmloTF93REFoUUtMOUZHLVdjdjluMWt3R3V0S1k4b1hjbFRsNUlqRUlIeWlXN1R6RmtFaXkxemRrLWlTRHhPWnphYUVfSUpRWjdpVHVFdGpRWjJHV2RKaGtGbFptSFZOeElJYl94aWxyMFZ2UFZhNUVUYzVUUkJJcFBqaWVkZDRSWFR4Q3h0TE5YUENjYzE3bWEwQlFUMWF2ZkFLdzJYeUV0UUhfTHJ2OXU1eTg3dGx6el83VkpPLW40c3I4SVppZDhMc0VyblM3R01kSGp0bndkdHN3cFdZWGs0MHRNRk02QzZHQXN4cjZsNHBZZE0tQk9YTTZIREhjS1VFS0J2R3RkdGQ5Nl9DWFV1cnc2MkF5eTBna0Zkb29UOTlTcVNxSkJUa0ZxTl9OZndkUlJrZU8zNklkRzRDRkVqck1BV0tfRjY2UnQya3I4Z0JWaEJhLVBvYjRnRTJTU2hXcnhtUlY1X2hzazkyZF9wSG40ZHVpZ0NONTloTEk1Z3hhY2hsWl81T25uQ1RfUFd3SWZ5VEF1VG1xdFd4ZzNsZHM5YTVsNA?oc=5",
-        "source": "فرانس 24 عربي",
-        "trust": "B",
-        "published": "Tue, 13 Oct 2026 21:52:48 GMT",
-        "discovered": "2026-10-15T21:44:20.650247+00:00",
-        "category": "العالم",
-        "status": "غير واضح",
-        "summary": "السعودية: حريق بمبنى لأرامكو في الظهران و4 جرحى بشظايا صواريخ في الرياض France 24",
-        "player": "رياض",
-        "content_hash": "a5a388175ab1eda8b11725c31e6055a2d040a2ed9ba98ff310089b8fe671dc83",
         "sent": 0,
         "section": "world_arabic"
       }
